@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Kopfstandtechnik 
 tags: agil klassisch
-author: jonaskarg187 
+author: Aaron-WS 
 anrechnung: k oder a
 ---
 

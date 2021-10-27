@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Hackathon 
 tags: agil klassisch
-author: jonaskarg187 
+author: eberto99 
 anrechnung: k oder a
 ---
 

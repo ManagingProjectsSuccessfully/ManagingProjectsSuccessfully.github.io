@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Wissensmanagementsoftware 
 tags: agil klassisch
-author: jonaskarg187 
+author: gelfertfelix 
 anrechnung: k oder a
 ---
 

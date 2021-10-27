@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektberatung 
 tags: agil klassisch
-author: jonaskarg187 
+author: Christoph-Mantsch 
 anrechnung: k oder a
 ---
 

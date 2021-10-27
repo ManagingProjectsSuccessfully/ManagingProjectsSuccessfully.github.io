@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Product_Owner 
 tags: agil klassisch
-author: jonaskarg187 
+author: Leon1906 
 anrechnung: k oder a
 ---
 

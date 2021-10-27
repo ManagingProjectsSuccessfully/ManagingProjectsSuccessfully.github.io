@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Scrum_at_Scale 
 tags: agil klassisch
-author: jonaskarg187 
+author: mirela08 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Stakeholdermanagement 
 tags: agil klassisch
-author: jonaskarg187 
+author: JonathanLoewing 
 anrechnung: k oder a
 ---
 

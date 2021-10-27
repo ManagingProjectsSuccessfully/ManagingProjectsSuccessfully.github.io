@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Klassische_Missverstaendnisse 
 tags: agil klassisch
-author: jonaskarg187 
+author: ux49azap 
 anrechnung: k oder a
 ---
 

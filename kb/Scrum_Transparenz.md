@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Scrum_Transparenz 
 tags: agil klassisch
-author: jonaskarg187 
+author: Lorybr 
 anrechnung: k oder a
 ---
 

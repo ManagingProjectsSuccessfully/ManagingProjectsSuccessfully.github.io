@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Methode_des_kritischen_Pfades 
 tags: agil klassisch
-author: jonaskarg187 
+author: ChristinaHartung 
 anrechnung: k oder a
 ---
 

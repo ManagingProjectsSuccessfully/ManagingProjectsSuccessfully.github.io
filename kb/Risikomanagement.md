@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Risikomanagement 
 tags: agil klassisch
-author: jonaskarg187 
+author: jnsdhr 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Best_Practices_vs_Worst_Practices 
 tags: agil klassisch
-author: jonaskarg187 
+author: TommiMueller 
 anrechnung: k oder a
 ---
 

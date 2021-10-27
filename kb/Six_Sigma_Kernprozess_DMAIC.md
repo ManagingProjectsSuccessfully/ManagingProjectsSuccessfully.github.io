@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Six_Sigma_Kernprozess_DMAIC 
 tags: agil klassisch
-author: jonaskarg187 
+author: AlbaraMo 
 anrechnung: k oder a
 ---
 

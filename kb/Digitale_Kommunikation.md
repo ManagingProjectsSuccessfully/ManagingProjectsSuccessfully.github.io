@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Digitale_Kommunikation 
 tags: agil klassisch
-author: jonaskarg187 
+author: DaLob98 
 anrechnung: k oder a
 ---
 

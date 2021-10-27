@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Pareto_Prinzip 
 tags: agil klassisch
-author: jonaskarg187 
+author: nahihiry 
 anrechnung: k oder a
 ---
 

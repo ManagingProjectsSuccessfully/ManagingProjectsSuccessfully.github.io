@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Six_Sigma_Statistische_Versuchsplanung 
 tags: agil klassisch
-author: jonaskarg187 
+author: elainevmd 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Spotify_Projectmanagement_Model 
 tags: agil klassisch
-author: jonaskarg187 
+author: BelmontR 
 anrechnung: k oder a
 ---
 

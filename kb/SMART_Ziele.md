@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: SMART_Ziele 
 tags: agil klassisch
-author: jonaskarg187 
+author: Tjara1 
 anrechnung: k oder a
 ---
 

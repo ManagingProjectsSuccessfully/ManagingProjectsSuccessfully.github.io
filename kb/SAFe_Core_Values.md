@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: SAFe_Core_Values 
 tags: agil klassisch
-author: jonaskarg187 
+author: charles0209 
 anrechnung: k oder a
 ---
 

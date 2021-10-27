@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Kommunikation_Projektbeteiligte 
 tags: agil klassisch
-author: jonaskarg187 
+author: 12Yousuf 
 anrechnung: k oder a
 ---
 

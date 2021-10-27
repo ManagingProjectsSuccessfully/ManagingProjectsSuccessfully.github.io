@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Wissensspirale 
 tags: agil klassisch
-author: jonaskarg187 
+author: FabianMartini 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Drexler_Sibbet_Team_Performance_Model 
 tags: agil klassisch
-author: jonaskarg187 
+author: ChristinaHartung 
 anrechnung: k oder a
 ---
 

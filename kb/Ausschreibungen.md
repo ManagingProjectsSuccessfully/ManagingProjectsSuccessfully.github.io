@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Ausschreibungen 
 tags: agil klassisch
-author: jonaskarg187 
+author: Lars428 
 anrechnung: k oder a
 ---
 

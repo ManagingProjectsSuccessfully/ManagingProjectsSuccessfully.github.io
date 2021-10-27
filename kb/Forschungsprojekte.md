@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Forschungsprojekte 
 tags: agil klassisch
-author: jonaskarg187 
+author: CatrinSc 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Nicht_Funktionale_Anforderungen 
 tags: agil klassisch
-author: jonaskarg187 
+author: seriousTake 
 anrechnung: k oder a
 ---
 

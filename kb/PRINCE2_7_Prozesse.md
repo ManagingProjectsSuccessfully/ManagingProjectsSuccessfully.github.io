@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: PRINCE2_7_Prozesse 
 tags: agil klassisch
-author: jonaskarg187 
+author: aculsalocin 
 anrechnung: k oder a
 ---
 

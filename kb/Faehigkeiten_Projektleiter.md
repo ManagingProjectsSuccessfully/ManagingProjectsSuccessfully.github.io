@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Faehigkeiten_Projektleiter 
 tags: agil klassisch
-author: jonaskarg187 
+author: xuansun88 
 anrechnung: k oder a
 ---
 

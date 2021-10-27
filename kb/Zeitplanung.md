@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Zeitplanung 
 tags: agil klassisch
-author: jonaskarg187 
+author: NinaNagel 
 anrechnung: k oder a
 ---
 

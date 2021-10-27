@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: KI_im_PM 
 tags: agil klassisch
-author: jonaskarg187 
+author: SimaSol 
 anrechnung: k oder a
 ---
 

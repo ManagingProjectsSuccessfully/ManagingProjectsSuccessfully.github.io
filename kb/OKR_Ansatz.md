@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: OKR_Ansatz 
 tags: agil klassisch
-author: jonaskarg187 
+author: ci16tyzi 
 anrechnung: k oder a
 ---
 

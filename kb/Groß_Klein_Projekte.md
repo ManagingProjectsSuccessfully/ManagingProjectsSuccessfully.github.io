@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Groﬂ_Klein_Projekte 
 tags: agil klassisch
-author: jonaskarg187 
+author: LKmps2021 
 anrechnung: k oder a
 ---
 

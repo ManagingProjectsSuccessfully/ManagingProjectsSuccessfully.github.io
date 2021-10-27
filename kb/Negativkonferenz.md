@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Negativkonferenz 
 tags: agil klassisch
-author: jonaskarg187 
+author: LucaH12 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: KI_Software_fuer_Projektmanagement 
 tags: agil klassisch
-author: jonaskarg187 
+author: Aseuc 
 anrechnung: k oder a
 ---
 

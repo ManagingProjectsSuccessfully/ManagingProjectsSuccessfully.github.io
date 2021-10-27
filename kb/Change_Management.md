@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Change_Management 
 tags: agil klassisch
-author: jonaskarg187 
+author: TimSchwehn 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Open_Source_Projekte 
 tags: agil klassisch
-author: jonaskarg187 
+author: AnnaSophieNi 
 anrechnung: k oder a
 ---
 

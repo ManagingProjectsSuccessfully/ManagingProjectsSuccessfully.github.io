@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektmanagement_in_Startups 
 tags: agil klassisch
-author: jonaskarg187 
+author: Leon1906 
 anrechnung: k oder a
 ---
 

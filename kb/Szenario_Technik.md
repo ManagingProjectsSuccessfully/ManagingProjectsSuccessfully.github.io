@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Szenario_Technik 
 tags: agil klassisch
-author: jonaskarg187 
+author: JanEhrFAU 
 anrechnung: k oder a
 ---
 

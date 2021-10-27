@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: SAFe_Lean_Agile_Mindset 
 tags: agil klassisch
-author: jonaskarg187 
+author: BeratGuen 
 anrechnung: k oder a
 ---
 

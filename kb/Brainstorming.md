@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Brainstorming 
 tags: agil klassisch
-author: jonaskarg187 
+author: DasKettchup 
 anrechnung: k oder a
 ---
 

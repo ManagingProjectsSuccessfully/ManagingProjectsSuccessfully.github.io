@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Tuckmann_Ladder 
 tags: agil klassisch
-author: jonaskarg187 
+author: ebressel 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Six_Sigma 
 tags: agil klassisch
-author: jonaskarg187 
+author: flxrbnk 
 anrechnung: k oder a
 ---
 

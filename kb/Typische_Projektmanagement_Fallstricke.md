@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Typische_Projektmanagement_Fallstricke 
 tags: agil klassisch
-author: jonaskarg187 
+author: Lorybr 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Managing_Change_in_Organisations 
 tags: agil klassisch
-author: jonaskarg187 
+author: AlineBurger 
 anrechnung: k oder a
 ---
 

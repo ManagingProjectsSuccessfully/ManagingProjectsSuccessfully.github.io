@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Lessons_Learned 
 tags: agil klassisch
-author: jonaskarg187 
+author: JanAmend 
 anrechnung: k oder a
 ---
 

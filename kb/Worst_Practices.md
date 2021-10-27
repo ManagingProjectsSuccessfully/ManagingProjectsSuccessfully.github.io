@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Worst_Practices 
 tags: agil klassisch
-author: jonaskarg187 
+author: xyjaxy 
 anrechnung: k oder a
 ---
 

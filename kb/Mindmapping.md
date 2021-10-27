@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Mindmapping 
 tags: agil klassisch
-author: jonaskarg187 
+author: jacobbocai 
 anrechnung: k oder a
 ---
 

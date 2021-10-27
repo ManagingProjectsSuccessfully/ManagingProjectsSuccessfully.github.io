@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Bar_Camp 
 tags: agil klassisch
-author: jonaskarg187 
+author: jackDS008 
 anrechnung: k oder a
 ---
 

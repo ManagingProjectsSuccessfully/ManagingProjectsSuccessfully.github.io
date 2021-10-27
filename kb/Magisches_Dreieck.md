@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Magisches_Dreieck 
 tags: agil klassisch
-author: jonaskarg187 
+author: ha52piha 
 anrechnung: k oder a
 ---
 

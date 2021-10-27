@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Qualitaetsmanagement 
 tags: agil klassisch
-author: jonaskarg187 
+author: noahbrunnhuber 
 anrechnung: k oder a
 ---
 

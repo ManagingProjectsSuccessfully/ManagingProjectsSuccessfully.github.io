@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Programmmanagement 
 tags: agil klassisch
-author: jonaskarg187 
+author: si18k1 
 anrechnung: k oder a
 ---
 

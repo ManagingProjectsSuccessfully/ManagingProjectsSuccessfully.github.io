@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Definition_of_Done 
 tags: agil klassisch
-author: jonaskarg187 
+author: ga88maby 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektmanagement_in_unterschiedlichen_Unternehmensbereichen 
 tags: agil klassisch
-author: jonaskarg187 
+author: oh43ebet 
 anrechnung: k oder a
 ---
 

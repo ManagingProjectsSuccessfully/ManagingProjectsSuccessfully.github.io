@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Kanban_Swim_Lanes 
 tags: agil klassisch
-author: jonaskarg187 
+author: Creed229 
 anrechnung: k oder a
 ---
 

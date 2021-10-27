@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Funktionale_Anforderungen 
 tags: agil klassisch
-author: jonaskarg187 
+author: LysanderBenke  
 anrechnung: k oder a
 ---
 

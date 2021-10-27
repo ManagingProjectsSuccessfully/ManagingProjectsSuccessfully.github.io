@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Planning_Poker 
 tags: agil klassisch
-author: jonaskarg187 
+author: jsk0lb 
 anrechnung: k oder a
 ---
 
