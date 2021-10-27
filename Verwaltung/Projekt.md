@@ -1,7 +1,7 @@
 ---
-title: Projekt
+title: {Projekt}
 tags: agil klassisch
-author: GitHubUserName
+author: {GitHubUserName}
 anrechnung: k oder a
 ---
 
