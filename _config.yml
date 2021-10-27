@@ -1,5 +1,9 @@
 title: MPS Kompendium
 description: Kompendium zu Projektmanagement
+
+header_pages:
+  - index.md
+  - eintrag-anlegen.md
   
 theme: minima
 defaults:

@@ -1,21 +1,5 @@
 ---
-categories: pm agile
+tags: pm agil klassisch
 ---
 
-# MPS Kompendium
-
-* test
-* eins
-* zwo
-* drei
-* vier
-* 
-
-
-[bla](bla.md)
-
-[ordner test](test)
-
-[ordner file test](test/README.md)
-
-[Willkommen](test2/test2.md)
+Hier entsteht im Rahmen der Veranstaltung Managing Projects Successfully ein Kompendium zu unterschiedlichen Begriffen aus dem Bereich Projektmanagement.	
