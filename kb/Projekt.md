@@ -1,6 +1,7 @@
 ---
 title: Projekt
-tags: agil klassisch 
+tags: agil klassisch
+author: GitHubUserName
 ---
 
 Kurzbeschreibung zu Projekt
