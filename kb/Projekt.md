@@ -2,6 +2,7 @@
 title: Projekt
 tags: agil klassisch
 author: GitHubUserName
+anrechnung: k oder a
 ---
 
 Kurzbeschreibung zu Projekt
