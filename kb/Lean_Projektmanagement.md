@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Lean_Projektmanagement 
 tags: agil klassisch
-author: jonaskarg187 
+author: nicolasrmg 
 anrechnung: k oder a
 ---
 

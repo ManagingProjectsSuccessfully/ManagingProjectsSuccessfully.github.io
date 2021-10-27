@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Internationale_Projektmanagement_Standards 
 tags: agil klassisch
-author: jonaskarg187 
+author: laura1mueller 
 anrechnung: k oder a
 ---
 

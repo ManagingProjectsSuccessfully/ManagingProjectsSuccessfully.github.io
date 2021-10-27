@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Toyota_Produktionssystem 
 tags: agil klassisch
-author: jonaskarg187 
+author: YeldaUzun 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Daily_Scrum 
 tags: agil klassisch
-author: jonaskarg187 
+author: JonathanBauerFau 
 anrechnung: k oder a
 ---
 

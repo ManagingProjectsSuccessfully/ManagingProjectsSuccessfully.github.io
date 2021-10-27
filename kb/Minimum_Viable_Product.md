@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Minimum_Viable_Product 
 tags: agil klassisch
-author: jonaskarg187 
+author: Charles0209 
 anrechnung: k oder a
 ---
 

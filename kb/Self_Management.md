@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Self_Management 
 tags: agil klassisch
-author: jonaskarg187 
+author: Dolunay76 
 anrechnung: k oder a
 ---
 

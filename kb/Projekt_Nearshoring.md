@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projekt_Nearshoring 
 tags: agil klassisch
-author: jonaskarg187 
+author: Eugen0209 
 anrechnung: k oder a
 ---
 

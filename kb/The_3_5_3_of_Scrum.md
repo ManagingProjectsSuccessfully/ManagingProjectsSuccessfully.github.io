@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: The_3_5_3_of_Scrum 
 tags: agil klassisch
-author: jonaskarg187 
+author: GiuliaAng 
 anrechnung: k oder a
 ---
 

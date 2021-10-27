@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektstrukturplan 
 tags: agil klassisch
-author: jonaskarg187 
+author: Angie_4321 
 anrechnung: k oder a
 ---
 

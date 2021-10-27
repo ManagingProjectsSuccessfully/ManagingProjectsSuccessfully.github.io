@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektmanagement_Geographische_Unterschiede 
 tags: agil klassisch
-author: jonaskarg187 
+author: Phil224 
 anrechnung: k oder a
 ---
 

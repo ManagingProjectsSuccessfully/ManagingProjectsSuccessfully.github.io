@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Aufgabenteilung 
 tags: agil klassisch
-author: jonaskarg187 
+author: oh43ebet 
 anrechnung: k oder a
 ---
 

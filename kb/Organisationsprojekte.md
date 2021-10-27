@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Organisationsprojekte 
 tags: agil klassisch
-author: jonaskarg187 
+author: LauraMancini99 
 anrechnung: k oder a
 ---
 

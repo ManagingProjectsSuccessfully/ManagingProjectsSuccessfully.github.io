@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektplanung 
 tags: agil klassisch
-author: jonaskarg187 
+author: MarleneMMeyer 
 anrechnung: k oder a
 ---
 

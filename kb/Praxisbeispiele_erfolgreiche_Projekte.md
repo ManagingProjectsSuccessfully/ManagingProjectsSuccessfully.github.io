@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Praxisbeispiele_erfolgreiche_Projekte 
 tags: agil klassisch
-author: jonaskarg187 
+author: Goschu1 
 anrechnung: k oder a
 ---
 

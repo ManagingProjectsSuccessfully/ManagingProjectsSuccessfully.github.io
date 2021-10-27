@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Internationale_Projektsteuerung 
 tags: agil klassisch
-author: jonaskarg187 
+author: ValerieGF 
 anrechnung: k oder a
 ---
 

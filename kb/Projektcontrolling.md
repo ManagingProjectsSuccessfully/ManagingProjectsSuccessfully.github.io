@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektcontrolling 
 tags: agil klassisch
-author: jonaskarg187 
+author: hake1110 
 anrechnung: k oder a
 ---
 

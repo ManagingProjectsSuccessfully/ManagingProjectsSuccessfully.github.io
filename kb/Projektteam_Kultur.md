@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektteam_Kultur 
 tags: agil klassisch
-author: jonaskarg187 
+author: LaHe27 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Empowerment 
 tags: agil klassisch
-author: jonaskarg187 
+author: 5SY5 
 anrechnung: k oder a
 ---
 

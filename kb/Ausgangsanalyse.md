@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Ausgangsanalyse 
 tags: agil klassisch
-author: jonaskarg187 
+author: ksushaW 
 anrechnung: k oder a
 ---
 

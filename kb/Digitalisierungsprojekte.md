@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Digitalisierungsprojekte 
 tags: agil klassisch
-author: jonaskarg187 
+author: aliciamiederer 
 anrechnung: k oder a
 ---
 

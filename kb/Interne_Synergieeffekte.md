@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Interne_Synergieeffekte 
 tags: agil klassisch
-author: jonaskarg187 
+author: GiuliaAng 
 anrechnung: k oder a
 ---
 

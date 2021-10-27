@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Konfliktmanagement 
 tags: agil klassisch
-author: jonaskarg187 
+author: Lui03 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: PRINCE2 
 tags: agil klassisch
-author: jonaskarg187 
+author: patrick203494 
 anrechnung: k oder a
 ---
 

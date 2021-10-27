@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektsteuerung 
 tags: agil klassisch
-author: jonaskarg187 
+author: LeahMtmb 
 anrechnung: k oder a
 ---
 

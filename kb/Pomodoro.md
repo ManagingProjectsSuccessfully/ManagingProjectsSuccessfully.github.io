@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Pomodoro 
 tags: agil klassisch
-author: jonaskarg187 
+author: Mezhonnov 
 anrechnung: k oder a
 ---
 

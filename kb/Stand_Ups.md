@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Stand_Ups 
 tags: agil klassisch
-author: jonaskarg187 
+author: Gilchus 
 anrechnung: k oder a
 ---
 

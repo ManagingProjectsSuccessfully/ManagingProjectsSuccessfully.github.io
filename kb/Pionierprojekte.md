@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Pionierprojekte 
 tags: agil klassisch
-author: jonaskarg187 
+author: alexandermueller296 
 anrechnung: k oder a
 ---
 

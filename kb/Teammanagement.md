@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Teammanagement 
 tags: agil klassisch
-author: jonaskarg187 
+author: emir-eroglu 
 anrechnung: k oder a
 ---
 

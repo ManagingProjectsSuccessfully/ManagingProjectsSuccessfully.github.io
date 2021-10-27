@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projekt_Lebenszyklus 
 tags: agil klassisch
-author: jonaskarg187 
+author: arminwelte 
 anrechnung: k oder a
 ---
 

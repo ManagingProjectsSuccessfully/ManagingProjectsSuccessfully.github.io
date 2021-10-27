@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Ressourcenplanung 
 tags: agil klassisch
-author: jonaskarg187 
+author: felhaag 
 anrechnung: k oder a
 ---
 

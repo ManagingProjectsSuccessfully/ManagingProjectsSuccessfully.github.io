@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektkommunikation 
 tags: agil klassisch
-author: jonaskarg187 
+author: LindaStu 
 anrechnung: k oder a
 ---
 

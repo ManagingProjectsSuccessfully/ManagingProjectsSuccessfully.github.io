@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Integrationsmanagement 
 tags: agil klassisch
-author: jonaskarg187 
+author: ow79arux 
 anrechnung: k oder a
 ---
 

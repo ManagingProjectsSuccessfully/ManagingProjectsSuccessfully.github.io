@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Proof_of_Concept 
 tags: agil klassisch
-author: jonaskarg187 
+author: PhilippWolfrum 
 anrechnung: k oder a
 ---
 

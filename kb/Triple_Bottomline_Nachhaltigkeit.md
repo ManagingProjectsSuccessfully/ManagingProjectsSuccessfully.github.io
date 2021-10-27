@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Triple_Bottomline_Nachhaltigkeit 
 tags: agil klassisch
-author: jonaskarg187 
+author: JaBa3000 
 anrechnung: k oder a
 ---
 

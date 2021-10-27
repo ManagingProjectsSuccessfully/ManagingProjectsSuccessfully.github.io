@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Wissensmanagament 
 tags: agil klassisch
-author: jonaskarg187 
+author: Lukas1401 
 anrechnung: k oder a
 ---
 

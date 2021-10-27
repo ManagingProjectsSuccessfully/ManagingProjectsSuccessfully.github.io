@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Retrospective 
 tags: agil klassisch
-author: jonaskarg187 
+author: nta01 
 anrechnung: k oder a
 ---
 

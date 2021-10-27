@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektabbruch 
 tags: agil klassisch
-author: jonaskarg187 
+author: Quapoapo 
 anrechnung: k oder a
 ---
 

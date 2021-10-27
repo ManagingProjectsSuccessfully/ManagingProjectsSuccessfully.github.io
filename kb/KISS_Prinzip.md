@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: KISS_Prinzip 
 tags: agil klassisch
-author: jonaskarg187 
+author: seposer 
 anrechnung: k oder a
 ---
 

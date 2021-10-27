@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektmanagement_fuer_die_Energiewende 
 tags: agil klassisch
-author: jonaskarg187 
+author: Magnus-schn 
 anrechnung: k oder a
 ---
 

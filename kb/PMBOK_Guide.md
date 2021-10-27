@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: PMBOK_Guide 
 tags: agil klassisch
-author: jonaskarg187 
+author: FerYilm 
 anrechnung: k oder a
 ---
 

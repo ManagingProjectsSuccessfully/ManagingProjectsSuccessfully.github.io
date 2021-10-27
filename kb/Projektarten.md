@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektarten 
 tags: agil klassisch
-author: jonaskarg187 
+author: Loris18 
 anrechnung: k oder a
 ---
 

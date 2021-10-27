@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Compliance_im_Projektmanagment 
 tags: agil klassisch
-author: jonaskarg187 
+author: phigeit 
 anrechnung: k oder a
 ---
 

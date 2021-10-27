@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Internationale_Projektteams 
 tags: agil klassisch
-author: jonaskarg187 
+author: Meyu23 
 anrechnung: k oder a
 ---
 

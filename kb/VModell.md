@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: VModell 
 tags: agil klassisch
-author: jonaskarg187 
+author: fabriGH 
 anrechnung: k oder a
 ---
 

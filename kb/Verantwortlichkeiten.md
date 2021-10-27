@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Verantwortlichkeiten 
 tags: agil klassisch
-author: jonaskarg187 
+author: Polina0402 
 anrechnung: k oder a
 ---
 

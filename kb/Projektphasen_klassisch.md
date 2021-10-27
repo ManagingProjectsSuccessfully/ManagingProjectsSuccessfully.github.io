@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektphasen_klassisch 
 tags: agil klassisch
-author: jonaskarg187 
+author: vegas1337 
 anrechnung: k oder a
 ---
 

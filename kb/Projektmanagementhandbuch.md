@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Projektmanagementhandbuch 
 tags: agil klassisch
-author: jonaskarg187 
+author: Harthauer 
 anrechnung: k oder a
 ---
 

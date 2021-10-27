@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Stakeholderanalyse 
 tags: agil klassisch
-author: jonaskarg187 
+author: DanielLu21 
 anrechnung: k oder a
 ---
 

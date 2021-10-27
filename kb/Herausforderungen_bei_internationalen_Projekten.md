@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Herausforderungen_bei_internationalen_Projekten 
 tags: agil klassisch
-author: jonaskarg187 
+author: tcansel 
 anrechnung: k oder a
 ---
 

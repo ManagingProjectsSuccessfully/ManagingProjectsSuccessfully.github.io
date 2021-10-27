@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Sprint_Planning 
 tags: agil klassisch
-author: jonaskarg187 
+author: faucahvd 
 anrechnung: k oder a
 ---
 

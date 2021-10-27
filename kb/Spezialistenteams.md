@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Spezialistenteams 
 tags: agil klassisch
-author: jonaskarg187 
+author: ksushaW 
 anrechnung: k oder a
 ---
 

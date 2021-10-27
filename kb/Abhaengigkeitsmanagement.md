@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Abhaengigkeitsmanagement 
 tags: agil klassisch
-author: jonaskarg187 
+author: MillaLena 
 anrechnung: k oder a
 ---
 

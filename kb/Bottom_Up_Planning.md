@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Bottom_Up_Planning 
 tags: agil klassisch
-author: jonaskarg187 
+author: FAUdennis96 
 anrechnung: k oder a
 ---
 

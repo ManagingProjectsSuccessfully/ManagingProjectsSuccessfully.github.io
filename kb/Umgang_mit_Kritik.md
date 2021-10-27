@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Umgang_mit_Kritik 
 tags: agil klassisch
-author: jonaskarg187 
+author: AnjaKlostermeier 
 anrechnung: k oder a
 ---
 

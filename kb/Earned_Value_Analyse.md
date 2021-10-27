@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Earned_Value_Analyse 
 tags: agil klassisch
-author: jonaskarg187 
+author: Juliakau 
 anrechnung: k oder a
 ---
 

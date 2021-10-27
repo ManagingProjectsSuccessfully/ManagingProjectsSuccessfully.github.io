@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Agiles_Manifest 
 tags: agil klassisch
-author: jonaskarg187 
+author: LaHe27 
 anrechnung: k oder a
 ---
 

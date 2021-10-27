@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Vom_Mythos_des_Mann_Monats 
 tags: agil klassisch
-author: jonaskarg187 
+author: nrivo 
 anrechnung: k oder a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Projekt 
+title: Scrum_Principles 
 tags: agil klassisch
-author: jonaskarg187 
+author: lianalia 
 anrechnung: k oder a
 ---
 
