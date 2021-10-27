@@ -1,4 +1,9 @@
 title: MPS Kompendium
-description: Managing Projects Successfully
+description: Kompendium zu Projektmanagement
   
 theme: minima
+defaults:
+  -
+    scope:
+      path: "kb"
+      type: "pages"
