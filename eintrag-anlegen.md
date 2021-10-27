@@ -10,7 +10,9 @@ Im folgenden wird beschrieben wie die Einträge aufgebaut sein sollen und welche
 * Fork von zentralem Repository erstellen
 * Datei für eigenes Thema vorbereiten
   - Zu jedem Thema existiert eine Markdown-Datei (z.B. Projekt.md) und ein Ordner (z.B. Projekt)
-  - In der Projekt.md Datei ganz oben euren GitHub account Namen eintragen und tags für euer Thema vergeben (evtl. auch erst später)
+  - In der Projekt.md Datei ganz oben:
+    - GitHub account Namen eintragen und tags für euer Thema vergeben, gerne auch mehrere durch Leerzeichen getrent (evtl. auch erst später)
+    - bei `anrechnung` eintragen ob der Beitrag für klassisches (k) oder agiles (a) Projektmanagement angerechnet werden soll
 * In Thema einlesen
 * Materialien sammeln
 * Struktur für den Artikel erstellen
