@@ -10,6 +10,7 @@ Kurzbeschreibung zu Projekt
 # Aspekt 1
 
 ![Beispielabbildung](Projekt/test-file.jpg)
+
 *lustiges Testbild*
 
 # Aspekt 2
