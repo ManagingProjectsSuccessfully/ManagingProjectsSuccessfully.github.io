@@ -35,3 +35,5 @@ Kurzbeschreibung zu Projekt
 Zusätzliche Dateien wie z.B. Bilder bitte im entsprechenden Ordner [Projekt](Projekt) ablegen.
 
 Infos zur Formatierung: Überschriften, Listen, Tabellen, Bilder, ...
+
+{{ page.tags }}
