@@ -5,7 +5,7 @@ author: {GitHubUserName}
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Projekt
+Kurzbeschreibung zu {Projekt}
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -30,7 +30,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 # Aspekt 1
 
-![Beispielabbildung](Projekt/test-file.jpg)
+![Beispielabbildung]({Projekt}/test-file.jpg)
 
 *lustiges Testbild*
 
@@ -67,7 +67,7 @@ So kann man eine Tabelle erstellen:
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projekt.md)
+* [Link auf diese Seite]({Projekt}.md)
 
 # Literatur
 
