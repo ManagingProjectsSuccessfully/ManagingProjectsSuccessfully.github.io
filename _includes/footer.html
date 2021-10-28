@@ -8,12 +8,11 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-		  <li class="p-name">
-		    TEST FOOTER
-			{%- if page.tags -%}
-			Tags: {{ page.tags | escape }}
-			{%- endif -%}
-		  </li>
+           <li class="p-name">
+            {%- if page.tags -%}
+            Tags: {{ page.tags | escape }}
+            {%- endif -%}
+          </li>
           <li class="p-name"> 
             {%- if site.author -%}
               {{ site.author | escape }}
