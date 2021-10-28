@@ -4,6 +4,7 @@ description: Kompendium zu Projektmanagement
 header_pages:
   - index.md
   - eintrag-anlegen.md
+  - Themenzuordnung.md
   
 theme: minima
 defaults:
