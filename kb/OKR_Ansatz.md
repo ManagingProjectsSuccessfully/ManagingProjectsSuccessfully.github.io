@@ -1,7 +1,7 @@
 ---
 title: OKR_Ansatz
 tags: agil klassisch
-author: ci16tyzi
+author: domirow-fau
 anrechnung: k oder a
 ---
 
