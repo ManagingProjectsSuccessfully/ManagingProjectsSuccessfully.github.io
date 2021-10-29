@@ -5,6 +5,13 @@ tags: orga
 
 Im folgenden wird das Vorgehen für die Erstellung des Kompendiums beschrieben.
 
+# Themenzuordnung
+
+* Die [Finale Themenzuordnung](Themenzuordnung.md) ist jetzt fertig.
+* Themenwechsel sind nicht mehr möglich
+* Falls ihr von einem Thema zurücktreten möchtet dann bitte dem MPS-Lehrstuhl-Team bescheid geben.
+
+
 # Zeitplan
 
 * Phase 1
@@ -19,6 +26,7 @@ Im folgenden wird das Vorgehen für die Erstellung des Kompendiums beschrieben.
 
 * TODO: dem [ws_21_22](https://github.com/orgs/ManagingProjectsSuccessfully/teams/ws_21_22)-Team auf GitHub beitreten.
 * Mit der Bearbeitung erst nach der Vorlesung am 2.11.2021 beginnen, bis dahin sind noch substantielle Änderungen and dem Repository möglich.
+  - Wenn ihr ein Thema nicht bearbeiten wollt (weil ihr z.B. das Scrum-Zertifikat machen möchtet) dann teilt uns das bitte mit.
   
 ## Phase 1
 
@@ -87,6 +95,7 @@ Die folgenden Kriterien werden für die Bewertung der Beiträge herangezogen. Pu
 
 | Kriterium | Erklärung | Ko-Kriterium |
 |-----|---|---|
+| Anpassungen an anderen Beiträgen | Bei der Einreichung dürfen nur Anpassungen an den eigenen Beiträgen vorgenommen worden sein | x |
 | Front-Matter | Metadaten im Front-Matter korrekt ausgefüllt | x |
 | Umfang | ca. 500 Wörter ohne Quellenverweise | x |
 | Strukturierung durch Überschriften | Nutzung von Überschriften um den Beitrag zu strukturieren | x |
