@@ -3,14 +3,43 @@ title: Eintrag anlegen
 tags: orga
 ---
 
-Im folgenden wird beschrieben wie die Einträge aufgebaut sein sollen und welche Kriterien wichtig sind.
+Im folgenden wird das Vorgehen für die Erstellung des Kompendiums beschrieben.
 
-# Vorgehen
+# Zeitplan
+
+* Phase 1
+  - 2021-11-02 Start der Beitragserstellung
+  - 2021-11-17 Deadline erste Version des Beitrags
+  - 2021-11-29 Deadline Feedback
+  - 2021-12-13 Deadline Abgabe Finale Version Beitrag
+* Phase 2
+  - 2022 Start von Phase 2, Ausgestaltung abhängig von Phase 1
+  
+## Anmerkungen
+
+* TODO: dem [ws_21_22](https://github.com/orgs/ManagingProjectsSuccessfully/teams/ws_21_22)-Team auf GitHub beitreten.
+* Mit der Bearbeitung erst nach der Vorlesung am 2.11.2021 beginnen, bis dahin sind noch substantielle Änderungen and dem Repository möglich.
+  
+## Phase 1
+
+Die erste Phase beinhaltet folgende Schritte:
+* Erstellung des Beitrags
+  - Erstellen des Beitrags (Studierende)
+  - Einreichung via Pull-Request (Studierende)
+* Review-Schritt
+  - Zuweisung von Reviewern zu Pull-Requests (MPS-Lehrstuhl-Team)
+  - Verfassen von 3 Reviews pro verfasstem Beitrag (Studierende)
+  - Überarbeitung des eigenen Beitrags basierend auf dem Feedback der Reviewer:innen und Aktualisierung des Pull-Requests (Studierende)
+  - Prüfung der Überarbeitung durch Reviewer (Studierende)
+  - Hinzufügen der Beiträge zum MPS-Kompendium wenn Beitrag von Reviewern freigegeben wurde (MPS-Lehrstuhl-Team)
+
+  
+### Konkretes Vorgehen zur Erstellung des Beitrags
 
 * Fork von zentralem Repository erstellen
 * Datei für eigenes Thema vorbereiten
   - Zu jedem Thema existiert eine Markdown-Datei (z.B. Projekt.md) und ein Ordner (z.B. Projekt)
-  - In der Projekt.md Datei ganz oben:
+  - In der Projekt.md Datei ganz oben (front-matter):
     - GitHub account Namen eintragen und tags für euer Thema vergeben, gerne auch mehrere durch Leerzeichen getrent (evtl. auch erst später)
     - bei `anrechnung` eintragen ob der Beitrag für klassisches (k) oder agiles (a) Projektmanagement angerechnet werden soll
 * In Thema einlesen
@@ -33,6 +62,23 @@ Im folgenden wird beschrieben wie die Einträge aufgebaut sein sollen und welche
   - Update ([fetch upstream](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)) des eigenen Repositories
   - ggf. Konflikte auflösen
   - Pull-Request erstellen
+  
+### Konkretes Vorgehen für den Review-Schritt
+
+* Die Beiträge zu denen Reviews verfasst werden sollen, werden durch das MPS-Lehrstuhl-Team zugewiesen (3 Reviews pro Beitrag)
+* [Review-Funktionalität](https://docs.github.com/en/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests) von GitHub nutzen um Review zu erstellen.
+  - Detailiertes Review (Allgemeine Kommentare, Zeilenbasierte Anmerkungen, Änderungsvorschläge)
+  - Ergebnis von Review kann "Request Changes" oder "Approve" sein
+    - Anmerkung: Approve beim ersten mal ist unwahrscheinlich weil meistens noch Verbesserungspotential vorhanden ist.
+* Überarbeitung des eigenen Beitrags basierend auf den Reviews
+* Aktualisierung des Pull-Requests (neuer commit und nochmal pull-request stellen)
+* Überprüfung der Änderungen durch Reviewer
+* Bei Freigabe durch die Reviewer: Merge in MPS-Kompendium
+
+## Phase 2
+
+Start 2022
+
 
 
 # Kriterien
@@ -41,6 +87,7 @@ Die folgenden Kriterien werden für die Bewertung der Beiträge herangezogen. Pu
 
 | Kriterium | Erklärung | Ko-Kriterium |
 |-----|---|---|
+| Front-Matter | Metadaten im Front-Matter korrekt ausgefüllt | x |
 | Umfang | ca. 500 Wörter ohne Quellenverweise | x |
 | Strukturierung durch Überschriften | Nutzung von Überschriften um den Beitrag zu strukturieren | x |
 | Rechtschreibung | Achtet bitte auf Korrekte Rechtschreibung und Grammatik | x |
@@ -67,3 +114,7 @@ Der Bearbeitungszeitraum wird über MS-Teams bekanntgegeben.
 * Formatierungshinweise
   - Tabellarische Daten als Tabelle formatieren (nicht als Abbildung einfügen)
   - Ebenen von Überschriften beachten
+* Schreibtipps:
+  - Nicht gleich nach perfektionismus streben
+  - Ein erster vollständiger Entwurf ist besser als ein perfekter Satz
+  - Entwurf dann Stück für Stück überarbeiten
