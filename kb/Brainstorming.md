@@ -77,7 +77,10 @@ So kann man eine Tabelle erstellen:
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Brainstorming.md)
 
-# Literatur
+# Weiterführende Literatur
+
+* Hier kommt weiterführende Literatur hin
+* als nächstes kommen dann die Fußnoten für die Literatur auf die Ihr euch im Text bezogen habt.
 
 [^1]: Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur
   wenn man eine zweite Zeile dazufügen möchte muss man die mit zwei Leerzeichen einrücken
