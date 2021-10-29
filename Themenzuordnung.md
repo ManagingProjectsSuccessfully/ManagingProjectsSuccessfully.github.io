@@ -127,7 +127,6 @@ author: anniSc
 | [Forecasts](kb/Forecasts.md)                                                                                                       | eftalyaumat         |
 | [Timeboxing](kb/Timeboxing.md)                                                                                                     | janetteschuller     |
 | [Compliance_im_Projektmanagment](kb/Compliance_im_Projektmanagment.md)                                                             | phigeit             |
-| [Vorgehensmodelle](kb/Vorgehensmodelle.md)                                                                                         | AlineBurger         |
 | [Design_Science_Research](kb/Design_Science_Research.md)                                                                           | aliciamiederer      |
 | [SCRUM_but](kb/SCRUM_but.md)                                                                                                       | thujavanj           |
 | [SCRUMBAN](kb/SCRUMBAN.md)                                                                                                         | mickey0684          |
