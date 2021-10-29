@@ -32,8 +32,6 @@ author: anniSc
 | [Forschungsprojekte](kb/Forschungsprojekte.md)                                                                                     | CatrinSc            |
 | [Entwicklungsprojekte](kb/Entwicklungsprojekte.md)                                                                                 | katjasc             |
 | [Organisationsprojekte](kb/Organisationsprojekte.md)                                                                               | LauraMancini99      |
-| [Abschlussarbeiten](kb/Abschlussarbeiten.md)                                                                                       | nan                 |
-| [IT-Projekte](kb/IT-Projekte.md)                                                                                                   | nan                 |
 | [Bauprojekte](kb/Bauprojekte.md)                                                                                                   | Constll             |
 | [Pionierprojekte](kb/Pionierprojekte.md)                                                                                           | alexandermueller296 |
 | [Chaos_Studie](kb/Chaos_Studie.md)                                                                                                 | BraNico             |
@@ -41,7 +39,6 @@ author: anniSc
 | [Bottom_Up_Planning](kb/Bottom_Up_Planning.md)                                                                                     | FAUdennis96         |
 | [Change_Projekte](kb/Change_Projekte.md)                                                                                           | verenaschuebel      |
 | [Open_Source_Projekte](kb/Open_Source_Projekte.md)                                                                                 | AnnaSophieNi        |
-| [Groß_Klein_Projekte](kb/Groß_Klein_Projekte.md)                                                                                   | nan                 |
 | [Remote_Projekte](kb/Remote_Projekte.md)                                                                                           | gelfertfelix        |
 | [Nachhaltige_Entwicklung](kb/Nachhaltige_Entwicklung.md)                                                                           | JoseOliveira2       |
 | [Nachhaltige_Projekte](kb/Nachhaltige_Projekte.md)                                                                                 | MarcelFAU           |
@@ -50,7 +47,6 @@ author: anniSc
 | [Knowledge_Engineering](kb/Knowledge_Engineering.md)                                                                               | laura1mueller       |
 | [Wissensmanagament](kb/Wissensmanagament.md)                                                                                       | Lukas1401           |
 | [Wissensspirale](kb/Wissensspirale.md)                                                                                             | FabianMartini       |
-| [Wissensmarkt](kb/Wissensmarkt.md)                                                                                                 | nan                 |
 | [Wissenslandkarte](kb/Wissenslandkarte.md)                                                                                         | Za22Regi            |
 | [Wissenstransfer](kb/Wissenstransfer.md)                                                                                           | felixba213          |
 | [Storrytelling](kb/Storrytelling.md)                                                                                               | aculsalocin         |
@@ -74,7 +70,6 @@ author: anniSc
 | [Praxisbeispiele_erfolgreiche_Projekte](kb/Praxisbeispiele_erfolgreiche_Projekte.md)                                               | Goschu1             |
 | [Praxisbeispiele_gescheiterte_Projetke](kb/Praxisbeispiele_gescheiterte_Projetke.md)                                               | at33fau             |
 | [Projektmanagement_in_Startups](kb/Projektmanagement_in_Startups.md)                                                               | Leon1906            |
-| [Projektmanagement_Branchenspezifisch](kb/Projektmanagement_Branchenspezifisch.md)                                                 | nan                 |
 | [Projektmanagement_Geographische_Unterschiede](kb/Projektmanagement_Geographische_Unterschiede.md)                                 | Phil224             |
 | [Projektmanagement_in_unterschiedlichen_Unternehmensbereichen](kb/Projektmanagement_in_unterschiedlichen_Unternehmensbereichen.md) | oh43ebet            |
 | [Projektmanagement_fuer_die_Energiewende](kb/Projektmanagement_fuer_die_Energiewende.md)                                           | Magnus-schn         |
@@ -142,8 +137,6 @@ author: anniSc
 | [Kanban_Pull_Prinzip](kb/Kanban_Pull_Prinzip.md)                                                                                   | LindaStu            |
 | [Kanban_Work_in_Progress](kb/Kanban_Work_in_Progress.md)                                                                           | ri26hugy            |
 | [Kanban_Karten](kb/Kanban_Karten.md)                                                                                               | MoritzBock          |
-| [Kaizen](kb/Kaizen.md)                                                                                                             | nan                 |
-| [Muda_7_Arten_von_Verschwendung](kb/Muda_7_Arten_von_Verschwendung.md)                                                             | nan                 |
 | [Toyota_Produktionssystem](kb/Toyota_Produktionssystem.md)                                                                         | YeldaUzun           |
 | [SAFe](kb/SAFe.md)                                                                                                                 | nahihiry            |
 | [SAFe_Program_Increment_Planning](kb/SAFe_Program_Increment_Planning.md)                                                           | starni26            |
@@ -160,12 +153,11 @@ author: anniSc
 | [PRINCE2_7_Prozesse](kb/PRINCE2_7_Prozesse.md)                                                                                     | aculsalocin         |
 | [PRINCE2_Projektumgebung](kb/PRINCE2_Projektumgebung.md)                                                                           | corinnaneubauer     |
 | [SWAT_Analyse](kb/SWAT_Analyse.md)                                                                                                 | AlperK61            |
-| [Hybrides_Projektmanagment](kb/Hybrides_Projektmanagment.md)                                                                       | nan                 |
 | [Projektmanagement_4_0](kb/Projektmanagement_4_0.md)                                                                               | wernerni            |
 | [Spotify_Projectmanagement_Model](kb/Spotify_Projectmanagement_Model.md)                                                           | BelmontR            |
 | [Project_Management_bei_Tesla](kb/Project_Management_bei_Tesla.md)                                                                 | lucas100700         |
 | [Test_Driven_Development](kb/Test_Driven_Development.md)                                                                           | Ferdi-nand          |
-| [OKR_Ansatz](kb/OKR_Ansatz.md)                                                                                                     | ci16tyzi            |
+| [OKR_Ansatz](kb/OKR_Ansatz.md)                                                                                                     | domirow-fau         |
 | [Best_Practices_vs_Worst_Practices](kb/Best_Practices_vs_Worst_Practices.md)                                                       | TommiMueller        |
 | [Best_Practices](kb/Best_Practices.md)                                                                                             | tobi0211            |
 | [Worst_Practices](kb/Worst_Practices.md)                                                                                           | xyjaxy              |
@@ -184,7 +176,6 @@ author: anniSc
 | [Project_Management_Office](kb/Project_Management_Office.md)                                                                       | nicolasrmg          |
 | [Proof_of_Concept](kb/Proof_of_Concept.md)                                                                                         | PhilippWolfrum      |
 | [Proof_of_Technology](kb/Proof_of_Technology.md)                                                                                   | ra94qony            |
-| [Ziel_Review](kb/Ziel_Review.md)                                                                                                   | nan                 |
 | [Obeya_Raum](kb/Obeya_Raum.md)                                                                                                     | xe28dita            |
 | [Minimum_Viable_Product](kb/Minimum_Viable_Product.md)                                                                             | Charles0209         |
 | [Methode_des_kritischen_Pfades](kb/Methode_des_kritischen_Pfades.md)                                                               | ChristinaHartung    |
@@ -194,7 +185,6 @@ author: anniSc
 | [Matrix_Projektorganisation](kb/Matrix_Projektorganisation.md)                                                                     | SeanTR0497          |
 | [Eskalationsstufen](kb/Eskalationsstufen.md)                                                                                       | annaflbr            |
 | [Vom_Mythos_des_Mann_Monats](kb/Vom_Mythos_des_Mann_Monats.md)                                                                     | nrivo               |
-| [Business_Cases](kb/Business_Cases.md)                                                                                             | nan                 |
 | [Lastenheft](kb/Lastenheft.md)                                                                                                     | HAhmedFAU           |
 | [Pflichtenheft](kb/Pflichtenheft.md)                                                                                               | fa97fyka            |
 | [Projektphasen_klassisch](kb/Projektphasen_klassisch.md)                                                                           | vegas1337           |
@@ -223,7 +213,6 @@ author: anniSc
 | [FMEA_Methode](kb/FMEA_Methode.md)                                                                                                 | JacquelineRal       |
 | [PEST_Analyse](kb/PEST_Analyse.md)                                                                                                 | FilipPrecik         |
 | [Risikomatrix](kb/Risikomatrix.md)                                                                                                 | Aseuc               |
-| [Nutzwertanalyse](kb/Nutzwertanalyse.md)                                                                                           | nan                 |
 | [Self_Management](kb/Self_Management.md)                                                                                           | Dolunay76           |
 | [Ziel_Planung](kb/Ziel_Planung.md)                                                                                                 | emre12345678        |
 | [Projektcontrolling](kb/Projektcontrolling.md)                                                                                     | hake1110            |
@@ -246,19 +235,14 @@ author: anniSc
 | [Schaetzverfahren_Kosten](kb/Schaetzverfahren_Kosten.md)                                                                           | ga88maby            |
 | [Projekt_Kick_Off](kb/Projekt_Kick_Off.md)                                                                                         | MariaKaisa          |
 | [Projekt_Charta](kb/Projekt_Charta.md)                                                                                             | efdil               |
-| [Projekt_Vision](kb/Projekt_Vision.md)                                                                                             | nan                 |
 | [Roadmap](kb/Roadmap.md)                                                                                                           | uc00ekun            |
 | [Aenderungsmanagement](kb/Aenderungsmanagement.md)                                                                                 | Sina5222            |
 | [Meilensteine](kb/Meilensteine.md)                                                                                                 | srhnmnn             |
 | [Meilensteintrendanalyse](kb/Meilensteintrendanalyse.md)                                                                           | CatPec              |
-| [Aufgaben](kb/Aufgaben.md)                                                                                                         | nan                 |
 | [Reporting](kb/Reporting.md)                                                                                                       | JanBaumgart         |
 | [Aufwands_Kosten_Kontrolle](kb/Aufwands_Kosten_Kontrolle.md)                                                                       | Steffi226           |
 | [Projektdokumentation](kb/Projektdokumentation.md)                                                                                 | nikl9               |
-| [Statusreport](kb/Statusreport.md)                                                                                                 | nan                 |
 | [Change_Management](kb/Change_Management.md)                                                                                       | TimSchwehn          |
-| [ADKAR_Model](kb/ADKAR_Model.md)                                                                                                   | nan                 |
-| [Dauerbaustelle](kb/Dauerbaustelle.md)                                                                                             | nan                 |
 | [Managing_Change_in_Organisations](kb/Managing_Change_in_Organisations.md)                                                         | AlineBurger         |
 | [8_Step_Process_for_Leading_Change](kb/8_Step_Process_for_Leading_Change.md)                                                       | ChristinaHartung    |
 | [Projektabschluss](kb/Projektabschluss.md)                                                                                         | xe28dita            |
@@ -273,13 +257,8 @@ author: anniSc
 | [Projektaufloesung](kb/Projektaufloesung.md)                                                                                       | Quapoapo            |
 | [Projektkommunikation](kb/Projektkommunikation.md)                                                                                 | LindaStu            |
 | [Kommunikation_Projektbeteiligte](kb/Kommunikation_Projektbeteiligte.md)                                                           | 12Yousuf            |
-| [Teamevents](kb/Teamevents.md)                                                                                                     | nan                 |
-| [Project_Champion](kb/Project_Champion.md)                                                                                         | nan                 |
-| [Empowerment](kb/Empowerment.md)                                                                                                   | nan                 |
-| [Zusammenarbeit](kb/Zusammenarbeit.md)                                                                                             | nan                 |
 | [Teammanagement](kb/Teammanagement.md)                                                                                             | emir-eroglu         |
 | [Tuckmann_Ladder](kb/Tuckmann_Ladder.md)                                                                                           | ebressel            |
-| [Drexler_Sibbet_Team_Performance_Model](kb/Drexler_Sibbet_Team_Performance_Model.md)                                               | nan                 |
 | [Projektleiter](kb/Projektleiter.md)                                                                                               | IremAkin            |
 | [Projektmitarbeiter](kb/Projektmitarbeiter.md)                                                                                     | Emi1404             |
 | [Spezialistenteams](kb/Spezialistenteams.md)                                                                                       | ksushaW             |
@@ -306,7 +285,6 @@ author: anniSc
 | [Scrum_Rules](kb/Scrum_Rules.md)                                                                                                   | HanLing132          |
 | [Scrum_Guide](kb/Scrum_Guide.md)                                                                                                   | MrSommC             |
 | [Agiles_Manifest](kb/Agiles_Manifest.md)                                                                                           | LaHe27              |
-| [Epic_Games](kb/Epic_Games.md)                                                                                                     | nan                 |
 | [Epic](kb/Epic.md)                                                                                                                 | jessymrc            |
 | [Extreme_Project_Management](kb/Extreme_Project_Management.md)                                                                     | FAUdennis96         |
 | [User_Story](kb/User_Story.md)                                                                                                     | Phr4nk20            |
@@ -323,14 +301,12 @@ author: anniSc
 | [Burndown_Chart](kb/Burndown_Chart.md)                                                                                             | tobi0211            |
 | [Selbstorganisierende_Teams](kb/Selbstorganisierende_Teams.md)                                                                     | IremAkin            |
 | [Stand_Ups](kb/Stand_Ups.md)                                                                                                       | Gilchus             |
-| [Interactive_Approach](kb/Interactive_Approach.md)                                                                                 | nan                 |
 | [Interaktion](kb/Interaktion.md)                                                                                                   | SimaSol             |
 | [Umgang_mit_Kritik](kb/Umgang_mit_Kritik.md)                                                                                       | AnjaKlostermeier    |
 | [Rollenkonflikte](kb/Rollenkonflikte.md)                                                                                           | martina-bchtl       |
 | [Scrum_at_Scale](kb/Scrum_at_Scale.md)                                                                                             | mirela08            |
 | [Personas](kb/Personas.md)                                                                                                         | emir-eroglu         |
 | [Key_Users](kb/Key_Users.md)                                                                                                       | Magnus-schn         |
-| [Ishikawa_Methode](kb/Ishikawa_Methode.md)                                                                                         | nan                 |
 | [Velocity](kb/Velocity.md)                                                                                                         | JonathanLoewing     |
 | [Benchmarking](kb/Benchmarking.md)                                                                                                 | alexandermueller296 |
 | [VModell](kb/VModell.md)                                                                                                           | fabriGH             |
@@ -338,7 +314,6 @@ author: anniSc
 | [Scrum_Metrics](kb/Scrum_Metrics.md)                                                                                               | efdil               |
 | [Softskills_im_Projektmanagement](kb/Softskills_im_Projektmanagement.md)                                                           | ig27oqaf            |
 | [Soziale_Aspekte_des_Projektmanagements](kb/Soziale_Aspekte_des_Projektmanagements.md)                                             | Eugen0209           |
-| [Action_Points](kb/Action_Points.md)                                                                                               | nan                 |
 | [Voice_of_the_Customer](kb/Voice_of_the_Customer.md)                                                                               | eddq2000            |
 | [Six_Sigma_Statistische_Versuchsplanung](kb/Six_Sigma_Statistische_Versuchsplanung.md)                                             | elainevmd           |
 | [Failure_Mode_and_Effects_Analysis](kb/Failure_Mode_and_Effects_Analysis.md)                                                       | Creed229            |
@@ -355,15 +330,10 @@ author: anniSc
 | [Ikea_Effekt](kb/Ikea_Effekt.md)                                                                                                   | julianTR4           |
 | [Nor_Invented_Here_Syndrom](kb/Nor_Invented_Here_Syndrom.md)                                                                       | PapaBaer94          |
 | [Survivorship_Bias](kb/Survivorship_Bias.md)                                                                                       | pu79xube            |
-| [Kickoff_Meeting](kb/Kickoff_Meeting.md)                                                                                           | nan                 |
-| [Megatrends](kb/Megatrends.md)                                                                                                     | nan                 |
 | [The_State_of_Project_Management_2021](kb/The_State_of_Project_Management_2021.md)                                                 | michaelstnt         |
 | [Virtual_Reality](kb/Virtual_Reality.md)                                                                                           | NK0100              |
 | [Global_Project_Management_Survey](kb/Global_Project_Management_Survey.md)                                                         | danielleilei        |
 | [Social_Media_Einsatz](kb/Social_Media_Einsatz.md)                                                                                 | danielleilei        |
 | [Machine_Learning_im_Projektmanagement](kb/Machine_Learning_im_Projektmanagement.md)                                               | phiLippFAU          |
 | [Leadership_Canvas](kb/Leadership_Canvas.md)                                                                                       | phiLippFAU          |
-| [Customer_Experience](kb/Customer_Experience.md)                                                                                   | nan                 |
-| [Netzplantechnik](kb/Netzplantechnik.md)                                                                                           | nan                 |
-| [Zero_Base_Portfolio_Prioritization](kb/Zero_Base_Portfolio_Prioritization.md)                                                     | nan                 |
 
