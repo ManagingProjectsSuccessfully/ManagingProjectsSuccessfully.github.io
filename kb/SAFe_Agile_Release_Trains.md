@@ -1,7 +1,7 @@
 ---
 title: SAFe_Agile_Release_Trains
 tags: agil klassisch
-author: ri26hugy
+author: FilipPrecik
 anrechnung: k oder a
 ---
 

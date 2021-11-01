@@ -1,7 +1,7 @@
 ---
 title: Kanban_Work_in_Progress
 tags: agil klassisch
-author: ri26hugy
+author: FilipPrecik
 anrechnung: k oder a
 ---
 

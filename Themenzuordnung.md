@@ -137,7 +137,7 @@ author: anniSc
 | [SCRUM](kb/SCRUM.md)                                                                                                               | [Harthauer](https://github.com/Harthauer)                     |
 | [Kanban](kb/Kanban.md)                                                                                                             | [HAhmedFAU](https://github.com/HAhmedFAU)                     |
 | [Kanban_Pull_Prinzip](kb/Kanban_Pull_Prinzip.md)                                                                                   | [LindaStu](https://github.com/LindaStu)                       |
-| [Kanban_Work_in_Progress](kb/Kanban_Work_in_Progress.md)                                                                           | [ri26hugy](https://github.com/ri26hugy)                       |
+| [Kanban_Work_in_Progress](kb/Kanban_Work_in_Progress.md)                                                                           | [FilipPrecik](https://github.com/FilipPrecik)                 |
 | [Kanban_Karten](kb/Kanban_Karten.md)                                                                                               | [MoritzBock](https://github.com/MoritzBock)                   |
 | [Kaizen](kb/Kaizen.md)                                                                                                             | [tkessler94](https://github.com/tkessler94)                   |
 | [Muda_7_Arten_von_Verschwendung](kb/Muda_7_Arten_von_Verschwendung.md)                                                             | [AmrouHasan](https://github.com/AmrouHasan)                   |
@@ -147,7 +147,7 @@ author: anniSc
 | [SAFe_Core_Values](kb/SAFe_Core_Values.md)                                                                                         | [charles0209](https://github.com/charles0209)                 |
 | [SAFe_Principles](kb/SAFe_Principles.md)                                                                                           | [felixba213 ](https://github.com/felixba213 )                 |
 | [SAFe_Lean_Agile_Mindset](kb/SAFe_Lean_Agile_Mindset.md)                                                                           | [BeratGuen](https://github.com/BeratGuen)                     |
-| [SAFe_Agile_Release_Trains](kb/SAFe_Agile_Release_Trains.md)                                                                       | [ri26hugy](https://github.com/ri26hugy)                       |
+| [SAFe_Agile_Release_Trains](kb/SAFe_Agile_Release_Trains.md)                                                                       | [FilipPrecik](https://github.com/FilipPrecik)                 |
 | [Wasserfall_Modell](kb/Wasserfall_Modell.md)                                                                                       | [ga88maby](https://github.com/ga88maby)                       |
 | [Lean_Projektmanagement](kb/Lean_Projektmanagement.md)                                                                             | [nicolasrmg](https://github.com/nicolasrmg)                   |
 | [Six_Sigma](kb/Six_Sigma.md)                                                                                                       | [flxrbnk](https://github.com/flxrbnk)                         |
