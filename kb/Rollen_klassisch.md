@@ -10,8 +10,10 @@ Kurzbeschreibung zu Rollen_klassisch um ein erstes Verständnis dafür zu schaff
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Unterschiedlichen Rollen im klassischen Projektmanagement sind:
-*	Projektleiter
+# Unterschiedliche Rollen im klassischen Projektmanagement
+Innerhalb eines Projektes gibt es im klassischen Projektmanagement verschiedene Rollen, die besetzt werden müssen. Dazu zählen: 
+
+*	Der Projektleiter
 *	Teilprojektleiter & Modulleiter
 *	Projektmitarbeiter
 *	Projektmanagement Office
@@ -19,7 +21,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 *	Auftraggeber 
 *	Kunden
 
-Diesen kommen unterschiedlichen Aufgaben innerhalb eines Projektes zu.
+Diesen kommen unterschiedliche Aufgaben innerhalb eines Projektes zu. Im folgenden werden diese 7 Rollen kurz beschrieben und die ihnen zugeteilten Aufgaben näher erläutert.
 
 ## Projektleiter:
 Er ist verantwortlich für das Ergebnis des Projekts und ist fachlich und teilweise auch disziplinarisch der Projektorganisation vorgestellt.
