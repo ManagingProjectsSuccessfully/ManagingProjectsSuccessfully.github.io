@@ -1,8 +1,8 @@
 ---
 title: Rollen des klassischen Projektmanagements
-tags: agil klassisch
+tags: klassisch
 author: greifchristina
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Rollen_klassisch um ein erstes Verständnis dafür zu schaffen um was es hier geht.
