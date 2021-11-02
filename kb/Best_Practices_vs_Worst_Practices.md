@@ -1,8 +1,8 @@
 ---
 title: Best_Practices_vs_Worst_Practices
-tags: agil klassisch
+tags: klassisch
 author: TommiMueller
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Best_Practices_vs_Worst_Practices um ein erstes Verständnis dafür zu schaffen um was es hier geht.
