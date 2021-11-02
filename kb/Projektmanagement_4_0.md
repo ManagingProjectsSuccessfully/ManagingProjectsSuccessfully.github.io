@@ -2,7 +2,7 @@
 title: Projektmanagement_4_0
 tags: agil klassisch
 author: wernerni
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Projektmanagement_4_0 um ein erstes Verständnis dafür zu schaffen um was es hier geht.
