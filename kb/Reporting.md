@@ -2,7 +2,7 @@
 title: Reporting
 tags: agil klassisch
 author: JanBaumgart
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Reporting um ein erstes Verständnis dafür zu schaffen um was es hier geht.
