@@ -217,6 +217,7 @@ author: anniSc
 | [Kosten_Trend_Analyse](kb/Kosten_Trend_Analyse.md)                                                                                 | [thujavanj](https://github.com/thujavanj)                     |
 | [Kosten_Nutzen_Analyse](kb/Kosten_Nutzen_Analyse.md)                                                                               | [Maximilian219](https://github.com/Maximilian219)             |
 | [FMEA_Methode](kb/FMEA_Methode.md)                                                                                                 | [JacquelineRal](https://github.com/JacquelineRal)             |
+| [PEST_Analyse](kb/PEST_Analyse.md)                                                                                                 | [GEDA9263](https://github.com/GEDA9263)                       |
 | [Risikomatrix](kb/Risikomatrix.md)                                                                                                 | [Aseuc](https://github.com/Aseuc)                             |
 | [Nutzwertanalyse](kb/Nutzwertanalyse.md)                                                                                           | [Irishcoffee09](https://github.com/Irishcoffee09)             |
 | [Self_Management](kb/Self_Management.md)                                                                                           | [Dolunay76](https://github.com/Dolunay76)                     |
@@ -252,6 +253,7 @@ author: anniSc
 | [ADKAR_Model](kb/ADKAR_Model.md)                                                                                                   | [bilgesb](https://github.com/bilgesb)                         |
 | [Dauerbaustelle](kb/Dauerbaustelle.md)                                                                                             | [EuleW](https://github.com/EuleW)                             |
 | [Managing_Change_in_Organisations](kb/Managing_Change_in_Organisations.md)                                                         | [AlineBurger](https://github.com/AlineBurger)                 |
+| [8_Step_Process_for_Leading_Change](kb/8_Step_Process_for_Leading_Change.md)                                                       | [GEDA9263](https://github.com/GEDA9263)                       |
 | [Projektabschluss](kb/Projektabschluss.md)                                                                                         | [xe28dita](https://github.com/xe28dita)                       |
 | [Hemmnisanalyse](kb/Hemmnisanalyse.md)                                                                                             | [biancamg](https://github.com/biancamg)                       |
 | [Projektabbruch](kb/Projektabbruch.md)                                                                                             | [Quapoapo](https://github.com/Quapoapo)                       |

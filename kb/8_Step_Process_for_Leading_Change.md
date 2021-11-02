@@ -1,7 +1,7 @@
 ---
 title: 8_Step_Process_for_Leading_Change
 tags: agil klassisch
-author: hello-pukeko
+author: GEDA9263
 anrechnung: k oder a
 ---
 
