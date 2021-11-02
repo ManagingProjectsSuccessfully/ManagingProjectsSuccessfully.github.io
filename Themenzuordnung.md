@@ -279,7 +279,7 @@ author: anniSc
 | [Development_Team](kb/Development_Team.md)                                                                                         | [greifchristina](https://github.com/greifchristina)           |
 | [Events](kb/Events.md)                                                                                                             | [Tjara1](https://github.com/Tjara1)                           |
 | [Sprint](kb/Sprint.md)                                                                                                             | [LKmps2021](https://github.com/LKmps2021)                     |
-| [Sprint_Planning](kb/Sprint_Planning.md)                                                                                           | [faucahvd](https://github.com/faucahvd)                       |
+| [Sprint_Planning](kb/Sprint_Planning.md)                                                                                           | [fauchavd](https://github.com/fauchavd)                       |
 | [Daily_Scrum](kb/Daily_Scrum.md)                                                                                                   | [JonathanBauerFau](https://github.com/JonathanBauerFau)       |
 | [Sprint_Review](kb/Sprint_Review.md)                                                                                               | [DeniseWt](https://github.com/DeniseWt)                       |
 | [Retrospective](kb/Retrospective.md)                                                                                               | [nta01](https://github.com/nta01)                             |
