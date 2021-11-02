@@ -1,5 +1,5 @@
 ---
-title: Rollen_klassisch
+title: Rollen des klassischen Projektmanagements
 tags: agil klassisch
 author: greifchristina
 anrechnung: k oder a
@@ -9,6 +9,38 @@ Kurzbeschreibung zu Rollen_klassisch um ein erstes Verständnis dafür zu schaff
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
+
+# Unterschiedlichen Rollen im klassischen Projektmanagement sind:
+*	Projektleiter
+*	Teilprojektleiter & Modulleiter
+*	Projektmitarbeiter
+*	Projektmanagement Office
+*	Experten
+*	Auftraggeber 
+*	Kunden
+
+Diesen kommen unterschiedlichen Aufgaben innerhalb eines Projektes zu.
+
+## Projektleiter:
+Er ist verantwortlich für das Ergebnis des Projekts und ist fachlich und teilweise auch disziplinarisch der Projektorganisation vorgestellt.
+
+## Teilprojektleiter & Modulleiter:
+Bei größeren Projekten ist es oft sinnvoll die Leitung des Projekts auf mehrere Personen aufzuteilen, die jeweils einen Teilaspekt des Projekts übernehmen und dafür verantwortlich sind.
+
+## Projektmitarbeiter:
+Die Projektmitarbeiter sind für die Erstellung eines Ergebnisses verantwortlich. Diese können sowohl in Teilzeit als auch in Vollzeit im Unternehmen angestellt.
+
+## Projekt Management Office:
+Das Projekt Management Office (PMO) unterstützt den Projektleiter bei seiner Arbeit. Allerging sind die Aufgaben und Kompetenzen des PMO sehr heterogen verteilt.
+
+## Experten:
+Innerhalb und außerhalb der Projektorganisation kann es Experten geben, die selektiv in das Projekt miteingebunden werden und das Projekt mit ihrem Fachwissen unterscheiden können.
+
+## Auftraggeber:
+Der Auftraggeber beauftragt das Projekt und stellt formal die Ressourcen bereit. Für interne Projekte ist dies oft der Geschäftsführer oder Vorstand des Unternehmens, bei externen Projekten sind es die Kunden.
+Kunden: 
+Sofern es neben den Auftraggeber eine spezielle Kundenrolle gibt, ist dieser der Abnehmer aller Ergebnisse aus dem Projekt.
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
