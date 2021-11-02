@@ -216,7 +216,7 @@ author: anniSc
 | [Kosten_Trend_Analyse](kb/Kosten_Trend_Analyse.md)                                                                                 | [thujavanj](https://github.com/thujavanj)                     |
 | [Kosten_Nutzen_Analyse](kb/Kosten_Nutzen_Analyse.md)                                                                               | [Maximilian219](https://github.com/Maximilian219)             |
 | [FMEA_Methode](kb/FMEA_Methode.md)                                                                                                 | [JacquelineRal](https://github.com/JacquelineRal)             |
-| [PEST_Analyse](kb/PEST_Analyse.md)                                                                                                 | [FilipPrecik](https://github.com/FilipPrecik)                 |
+| [PEST_Analyse](kb/PEST_Analyse.md)                                                                                                 | [ne88peni](https://github.com/ne88peni)                       |
 | [Risikomatrix](kb/Risikomatrix.md)                                                                                                 | [Aseuc](https://github.com/Aseuc)                             |
 | [Nutzwertanalyse](kb/Nutzwertanalyse.md)                                                                                           | [Irishcoffee09](https://github.com/Irishcoffee09)             |
 | [Self_Management](kb/Self_Management.md)                                                                                           | [Dolunay76](https://github.com/Dolunay76)                     |
@@ -305,7 +305,6 @@ author: anniSc
 | [User_Story_INVEST_Methode](kb/User_Story_INVEST_Methode.md)                                                                       | [Juliakau](https://github.com/Juliakau)                       |
 | [KISS_Prinzip](kb/KISS_Prinzip.md)                                                                                                 | [seposer](https://github.com/seposer)                         |
 | [Impediment_Backlog](kb/Impediment_Backlog.md)                                                                                     | [patrick203494](https://github.com/patrick203494)             |
-| [Taskboard](kb/Taskboard.md)                                                                                                       | [FilipPrecik](https://github.com/FilipPrecik)                 |
 | [Burndown_Chart](kb/Burndown_Chart.md)                                                                                             | [tobi0211](https://github.com/tobi0211)                       |
 | [Selbstorganisierende_Teams](kb/Selbstorganisierende_Teams.md)                                                                     | [IremAkin ](https://github.com/IremAkin )                     |
 | [Stand_Ups](kb/Stand_Ups.md)                                                                                                       | [Gilchus](https://github.com/Gilchus)                         |
