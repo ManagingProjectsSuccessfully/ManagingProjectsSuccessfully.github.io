@@ -233,7 +233,7 @@ author: anniSc
 | [Projekt_Nearshoring](kb/Projekt_Nearshoring.md)                                                                                   | [Eugen0209](https://github.com/Eugen0209)                     |
 | [Umfeldanalyse](kb/Umfeldanalyse.md)                                                                                               | [fa97fyka](https://github.com/fa97fyka)                       |
 | [Project_Canvas](kb/Project_Canvas.md)                                                                                             | [larass12](https://github.com/larass12)                       |
-| [Projektstrukturplan](kb/Projektstrukturplan.md)                                                                                   | [Angie_4321](https://github.com/Angie_4321)                   |
+| [Projektstrukturplan](kb/Projektstrukturplan.md)                                                                                   | [Angie4321](https://github.com/Angie4321)                   |
 | [Earned_Value_Analyse](kb/Earned_Value_Analyse.md)                                                                                 | [Juliakau](https://github.com/Juliakau)                       |
 | [Projektsteuerung](kb/Projektsteuerung.md)                                                                                         | [LeahMtmb](https://github.com/LeahMtmb)                       |
 | [Internationale_Projektsteuerung](kb/Internationale_Projektsteuerung.md)                                                           | [ValerieGF](https://github.com/ValerieGF)                     |
