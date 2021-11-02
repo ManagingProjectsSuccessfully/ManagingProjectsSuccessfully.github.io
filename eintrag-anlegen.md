@@ -98,10 +98,10 @@ Die folgenden Kriterien werden für die Bewertung der Beiträge herangezogen. Pu
 | Anpassungen an anderen Beiträgen | Bei der Einreichung dürfen nur Anpassungen an den eigenen Beiträgen vorgenommen worden sein | x |
 | Front-Matter | Metadaten im Front-Matter korrekt ausgefüllt | x |
 | Umfang | ca. 500 Wörter ohne Quellenverweise | x |
-| Strukturierung durch Überschriften | Nutzung von Überschriften um den Beitrag zu strukturieren | x |
+| Strukturierung des Beitrags | Inhaltlich und Visuell (z.B. durch Überschriften) | x |
 | Rechtschreibung | Achtet bitte auf Korrekte Rechtschreibung und Grammatik | x |
 | Sprache | Deutsch, Sachlich (Enzyklopädiestil s. Wikipedia) | x |
-| Quellenangaben | Quellen angeben (auch bei Abbildungen) und prüfen ob die Links funktionieren | x |
+| Belege | Quellen zu den Inhalten angeben (auch bei Abbildungen) und prüfen ob die Links funktionieren | x |
 | Formatierung | Korrekte Formatierung wie z.B. Überschriften zur Strukturierung, Punktelisten für Aufzählungen | x |
 | Verlinkungen | Zu Unter- und Überthemen sowie zu angrenzenden Themengebieten | x |
 | Abbildungen | Mindestens eine Abbildung / Visualisierung | x |
@@ -119,11 +119,13 @@ Der Bearbeitungszeitraum wird über MS-Teams bekanntgegeben.
 
 # Tipps
 
-* Regelmäßig Commits erstellen (z.B. eine Abbildung eingefügt, einen Absatz geschrieben)
+* Regelmäßig Commits erstellen (z.B. eine Abbildung eingefügt, einen Absatz geschrieben) und pushen.
 * Formatierungshinweise
   - Tabellarische Daten als Tabelle formatieren (nicht als Abbildung einfügen)
   - Ebenen von Überschriften beachten
 * Schreibtipps:
-  - Nicht gleich nach perfektionismus streben
+  - Nicht gleich nach Perfektionismus streben
   - Ein erster vollständiger Entwurf ist besser als ein perfekter Satz
   - Entwurf dann Stück für Stück überarbeiten
+* Die Beiträge sollen bestehendes und gesichertes Wissen abbilden (keine eigenen Interpretationen)
+* Orientierung an Wikipedia
