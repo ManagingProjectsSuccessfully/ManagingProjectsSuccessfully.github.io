@@ -11,7 +11,7 @@ Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basi
 oben im Front-Matter (Bereich zwischen den `---`).
 
 Ein Projekt dessen genauer Umsetzungszeitpunkt nicht festgelegt ist, wird im Projektmanagement als „Dauerbaustelle“ bezeichnet[^1].
-Als Beispiel könnte hier die Wartung und Pflege von Bestandssoftware in einem IT-Unternehmen angeführt werden. Die Anbindung einzelner Features wird innerhalb eines bestimmten Zeitraumes abgesschlossen. 
+Als Beispiel könnte hier die Wartung und Pflege von Bestandssoftware in einem IT-Unternehmen angeführt werden. Die Anbindung einzelner Features wird innerhalb eines bestimmten Zeitraumes abgesschlossen. Das Projekt "Wartung und Pflege" ist aber fortlaufend und wird nie gänzlich abgeschlossen. 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
