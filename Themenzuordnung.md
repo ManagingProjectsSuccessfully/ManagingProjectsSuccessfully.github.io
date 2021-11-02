@@ -130,6 +130,7 @@ author: anniSc
 | [Forecasts](kb/Forecasts.md)                                                                                                       | [eftalyaumat](https://github.com/eftalyaumat)                 |
 | [Timeboxing](kb/Timeboxing.md)                                                                                                     | [janetteschuller](https://github.com/janetteschuller)         |
 | [Compliance_im_Projektmanagment](kb/Compliance_im_Projektmanagment.md)                                                             | [phigeit](https://github.com/phigeit)                         |
+| [Vorgehensmodelle](kb/Vorgehensmodelle.md)                                                                                         | [hello-pukeko](https://github.com/hello-pukeko)               |
 | [Design_Science_Research](kb/Design_Science_Research.md)                                                                           | [aliciamiederer](https://github.com/aliciamiederer)           |
 | [SCRUM_but](kb/SCRUM_but.md)                                                                                                       | [thujavanj](https://github.com/thujavanj)                     |
 | [SCRUMBAN](kb/SCRUMBAN.md)                                                                                                         | [mickey0684](https://github.com/mickey0684)                   |
@@ -216,7 +217,6 @@ author: anniSc
 | [Kosten_Trend_Analyse](kb/Kosten_Trend_Analyse.md)                                                                                 | [thujavanj](https://github.com/thujavanj)                     |
 | [Kosten_Nutzen_Analyse](kb/Kosten_Nutzen_Analyse.md)                                                                               | [Maximilian219](https://github.com/Maximilian219)             |
 | [FMEA_Methode](kb/FMEA_Methode.md)                                                                                                 | [JacquelineRal](https://github.com/JacquelineRal)             |
-| [PEST_Analyse](kb/PEST_Analyse.md)                                                                                                 | [ne88peni](https://github.com/ne88peni)                       |
 | [Risikomatrix](kb/Risikomatrix.md)                                                                                                 | [Aseuc](https://github.com/Aseuc)                             |
 | [Nutzwertanalyse](kb/Nutzwertanalyse.md)                                                                                           | [Irishcoffee09](https://github.com/Irishcoffee09)             |
 | [Self_Management](kb/Self_Management.md)                                                                                           | [Dolunay76](https://github.com/Dolunay76)                     |
@@ -240,6 +240,7 @@ author: anniSc
 | [Schaetzverfahren_Aufwaende](kb/Schaetzverfahren_Aufwaende.md)                                                                     | [ShuQiu7](https://github.com/ShuQiu7)                         |
 | [Projekt_Kick_Off](kb/Projekt_Kick_Off.md)                                                                                         | [MariaKaisa](https://github.com/MariaKaisa)                   |
 | [Projekt_Charta](kb/Projekt_Charta.md)                                                                                             | [efdil](https://github.com/efdil)                             |
+| [Projekt_Vision](kb/Projekt_Vision.md)                                                                                             | [Vallejk](https://github.com/Vallejk)                         |
 | [Roadmap](kb/Roadmap.md)                                                                                                           | [uc00ekun](https://github.com/uc00ekun)                       |
 | [Aenderungsmanagement](kb/Aenderungsmanagement.md)                                                                                 | [Sina5222](https://github.com/Sina5222)                       |
 | [Meilensteine](kb/Meilensteine.md)                                                                                                 | [srhnmnn](https://github.com/srhnmnn)                         |
@@ -251,7 +252,6 @@ author: anniSc
 | [ADKAR_Model](kb/ADKAR_Model.md)                                                                                                   | [bilgesb](https://github.com/bilgesb)                         |
 | [Dauerbaustelle](kb/Dauerbaustelle.md)                                                                                             | [EuleW](https://github.com/EuleW)                             |
 | [Managing_Change_in_Organisations](kb/Managing_Change_in_Organisations.md)                                                         | [AlineBurger](https://github.com/AlineBurger)                 |
-| [8_Step_Process_for_Leading_Change](kb/8_Step_Process_for_Leading_Change.md)                                                       | [hello-pukeko](https://github.com/hello-pukeko)               |
 | [Projektabschluss](kb/Projektabschluss.md)                                                                                         | [xe28dita](https://github.com/xe28dita)                       |
 | [Hemmnisanalyse](kb/Hemmnisanalyse.md)                                                                                             | [biancamg](https://github.com/biancamg)                       |
 | [Projektabbruch](kb/Projektabbruch.md)                                                                                             | [Quapoapo](https://github.com/Quapoapo)                       |
@@ -308,6 +308,7 @@ author: anniSc
 | [Burndown_Chart](kb/Burndown_Chart.md)                                                                                             | [tobi0211](https://github.com/tobi0211)                       |
 | [Selbstorganisierende_Teams](kb/Selbstorganisierende_Teams.md)                                                                     | [IremAkin ](https://github.com/IremAkin )                     |
 | [Stand_Ups](kb/Stand_Ups.md)                                                                                                       | [Gilchus](https://github.com/Gilchus)                         |
+| [Interactive_Approach](kb/Interactive_Approach.md)                                                                                 | [Vallejk](https://github.com/Vallejk)                         |
 | [Interaktion](kb/Interaktion.md)                                                                                                   | [SimaSol](https://github.com/SimaSol)                         |
 | [Umgang_mit_Kritik](kb/Umgang_mit_Kritik.md)                                                                                       | [AnjaKlostermeier](https://github.com/AnjaKlostermeier)       |
 | [Rollenkonflikte](kb/Rollenkonflikte.md)                                                                                           | [martina-bchtl ](https://github.com/martina-bchtl )           |
