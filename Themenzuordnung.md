@@ -233,7 +233,7 @@ author: anniSc
 | [Projekt_Nearshoring](kb/Projekt_Nearshoring.md)                                                                                   | [Eugen0209](https://github.com/Eugen0209)                     |
 | [Umfeldanalyse](kb/Umfeldanalyse.md)                                                                                               | [fa97fyka](https://github.com/fa97fyka)                       |
 | [Project_Canvas](kb/Project_Canvas.md)                                                                                             | [larass12](https://github.com/larass12)                       |
-| [Projektstrukturplan](kb/Projektstrukturplan.md)                                                                                   | [Angie4321](https://github.com/Angie4321)                   |
+| [Projektstrukturplan](kb/Projektstrukturplan.md)                                                                                   | [Angie4321](https://github.com/Angie4321)                     |
 | [Earned_Value_Analyse](kb/Earned_Value_Analyse.md)                                                                                 | [Juliakau](https://github.com/Juliakau)                       |
 | [Projektsteuerung](kb/Projektsteuerung.md)                                                                                         | [LeahMtmb](https://github.com/LeahMtmb)                       |
 | [Internationale_Projektsteuerung](kb/Internationale_Projektsteuerung.md)                                                           | [ValerieGF](https://github.com/ValerieGF)                     |
@@ -251,6 +251,7 @@ author: anniSc
 | [ADKAR_Model](kb/ADKAR_Model.md)                                                                                                   | [bilgesb](https://github.com/bilgesb)                         |
 | [Dauerbaustelle](kb/Dauerbaustelle.md)                                                                                             | [EuleW](https://github.com/EuleW)                             |
 | [Managing_Change_in_Organisations](kb/Managing_Change_in_Organisations.md)                                                         | [AlineBurger](https://github.com/AlineBurger)                 |
+| [8_Step_Process_for_Leading_Change](kb/8_Step_Process_for_Leading_Change.md)                                                       | [hello-pukeko](https://github.com/hello-pukeko)               |
 | [Projektabschluss](kb/Projektabschluss.md)                                                                                         | [xe28dita](https://github.com/xe28dita)                       |
 | [Hemmnisanalyse](kb/Hemmnisanalyse.md)                                                                                             | [biancamg](https://github.com/biancamg)                       |
 | [Projektabbruch](kb/Projektabbruch.md)                                                                                             | [Quapoapo](https://github.com/Quapoapo)                       |
