@@ -1,53 +1,38 @@
 ---
 title: New_Work
-tags: agil klassisch
+tags: klassisch, agil
 author: up67enyq
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu New_Work um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+New Work ist ein philosophischer Denkansatz des Sozialphilosophen [Fithjof Bergmann](https://de.wikipedia.org/wiki/Frithjof_Bergmann) der Ende der 1970er Jahre begründet wurde. [^1]
+
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Kernaussage
+New Work stellt die zwei Annahmen in den Vordergund,
+* dass Arbeit Leben nehmen sowie geben kann, und
+* dass Menschen keine Sinnhaftigkeit in ihrer Arbeit erkennen. [^1]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Der große Mangel der von [Bergmann](https://de.wikipedia.org/wiki/Frithjof_Bergmann) fesgestellt wurde fasst sich in dem Begriff "Armut der Begierde" zusammen.
+Es geht beim New Work darum, diesen Mangel abzubauen und in den Arbeitenden eine Verbindung zwischen Sehnsucht, Leidenschaft, Erfüllung und Arbeit herzustellen. Die Arbeit soll die Mitarbeiter mit positiven Gefühlen wie Freude und Tatkraft erfüllen. [^2]
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# New Work Charta
+
+Die von [Humanfy](https://humanfy.de/new-work-charta/) definierte New Work Charter beinhaltet die wichtigsten Punkte um die ursprünglichen Anforderungen von New Work mit der heutigen Unternehmenskultur zu versöhnen.[^4] 
 
 * Verschiedene Teile eines Themas 
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](New_Work/test-file.jpg)
+![Beispielabbildung](New_Work/new_work.jpg)
 
-*lustiges Testbild*
+*Die 5 Prinzipien von New Work (Ausgearbeitet von [Humanfy](https://humanfy.de/new-work-charta/))* [^3]
+
 
 # Aspekt 2
 
@@ -97,8 +82,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]:[New Work Hacks](https://link.springer.com/book/10.1007%2F978-3-658-27299-9)
+[^2]: [Beraterdämmerung](https://link.springer.com/book/10.1007%2F978-3-658-24103-2)
+[^3]: [HUMANFY New Work Charta](https://humanfy.de/new-work-charta/)
+[^4]: [Markus Väth](https://de.wikipedia.org/wiki/Markus_V%C3%A4th)
 
