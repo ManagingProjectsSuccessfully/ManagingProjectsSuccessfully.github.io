@@ -49,7 +49,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Pricing
 
 * das
 * hier 
@@ -58,23 +58,33 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Punkteliste
   - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Übersicht der Preiskategorien
 
-So kann man eine Tabelle erstellen:
+|   Hive Solo   |  Hive Teams   | Hive Enterprise  |
+| ------------- | ------------- | ---------------- |
+|      0$       | 12$/pro User  |   individuell    |
+| ------------- | ------------- | ---------------- |
+|  Max. 2 User  |  Unbegrenzt   |    Unbegrenzt    |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Die Solo Version ist frei zugänglich für Projekte/Unternehmen mit bis zu maximal zwei Personen. Projekt Management und 
+Kollaborations Features sind bereits bei dieser in vollem Umfang enthalten.
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Die Hive-Teams Version ermöglicht es dem Kunden, unbegrenzt Nutzer zu seinen Projekten hinzuzufügen. Ebenfalls gibt es 
+erweiterten Support, wie z.B. den "24/7 support", für Kunden die eine kostenpflichtige Version besitzen. Ein weiterer
+Vorteil gegenüber der Solo-Version ist die erhöhte Sicherheit für den Kunden und seine Daten. Hive beachtet ab dieser Version 
+die HIPAA Regeln, welche vor allem für Projekte im Gesundheitsbereich von großer Bedeutung sind. Integrationen von anderen
+Software-Produkten, wie z.B. Zoom, sind für Hive-Teams Kunden in vollem Umfang benutzbar. Flexible Add-Ons hingegen müssen für
+einen Aufpreis von 4$ pro Add-On gekauft werden.
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Hive-Enterprise ist geeignet für große Unternehmen mit großen Projekten und vielen Nutzern. Bei dieser Version sind alle 
+Features in vollem Umfang vorhanden. Besonders zu erwähnen ist, dass Enterprise Kunden ein eigenes Support Team zur Seite haben,
+was die Eingliederung in das Unternehmen enorm erleichtern kann.
 
-### Ebene-3-Überschrift
+## Pricing Fazit
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Die Preisgestaltung von Hive ist sehr user freundlich. Das Angebot ist günstiger als das von Wettbewerbern wie Microsoft Project. 
+Hive besonders Wert darauf legt, ein perfekt auf den Kunden abgestimmtes Produkt zu liefern. Davon berichten User in Reviews und 
+die Pricing Section ist gezichnet von "Talk to us" tags. 
 
 # Aspekt n
 
