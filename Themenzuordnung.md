@@ -251,7 +251,6 @@ author: anniSc
 | [ADKAR_Model](kb/ADKAR_Model.md)                                                                                                   | [bilgesb](https://github.com/bilgesb)                         |
 | [Dauerbaustelle](kb/Dauerbaustelle.md)                                                                                             | [EuleW](https://github.com/EuleW)                             |
 | [Managing_Change_in_Organisations](kb/Managing_Change_in_Organisations.md)                                                         | [AlineBurger](https://github.com/AlineBurger)                 |
-| [8_Step_Process_for_Leading_Change](kb/8_Step_Process_for_Leading_Change.md)                                                       | [ChristinaHartung](https://github.com/ChristinaHartung)       |
 | [Projektabschluss](kb/Projektabschluss.md)                                                                                         | [xe28dita](https://github.com/xe28dita)                       |
 | [Hemmnisanalyse](kb/Hemmnisanalyse.md)                                                                                             | [biancamg](https://github.com/biancamg)                       |
 | [Projektabbruch](kb/Projektabbruch.md)                                                                                             | [Quapoapo](https://github.com/Quapoapo)                       |

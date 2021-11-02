@@ -1,7 +1,7 @@
 ---
 title: 8_Step_Process_for_Leading_Change
 tags: agil klassisch
-author: ChristinaHartung
+author: 
 anrechnung: k oder a
 ---
 
