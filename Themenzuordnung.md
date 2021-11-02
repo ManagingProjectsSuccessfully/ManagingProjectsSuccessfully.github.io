@@ -148,7 +148,6 @@ author: anniSc
 | [SAFe_Principles](kb/SAFe_Principles.md)                                                                                           | [felixba213 ](https://github.com/felixba213 )                 |
 | [SAFe_Lean_Agile_Mindset](kb/SAFe_Lean_Agile_Mindset.md)                                                                           | [BeratGuen](https://github.com/BeratGuen)                     |
 | [SAFe_Agile_Release_Trains](kb/SAFe_Agile_Release_Trains.md)                                                                       | [FilipPrecik](https://github.com/FilipPrecik)                 |
-| [Wasserfall_Modell](kb/Wasserfall_Modell.md)                                                                                       | [ga88maby](https://github.com/ga88maby)                       |
 | [Lean_Projektmanagement](kb/Lean_Projektmanagement.md)                                                                             | [nicolasrmg](https://github.com/nicolasrmg)                   |
 | [Six_Sigma](kb/Six_Sigma.md)                                                                                                       | [flxrbnk](https://github.com/flxrbnk)                         |
 | [PRINCE2](kb/PRINCE2.md)                                                                                                           | [patrick203494](https://github.com/patrick203494)             |
@@ -239,7 +238,6 @@ author: anniSc
 | [Projektsteuerung](kb/Projektsteuerung.md)                                                                                         | [LeahMtmb](https://github.com/LeahMtmb)                       |
 | [Internationale_Projektsteuerung](kb/Internationale_Projektsteuerung.md)                                                           | [ValerieGF](https://github.com/ValerieGF)                     |
 | [Schaetzverfahren_Aufwaende](kb/Schaetzverfahren_Aufwaende.md)                                                                     | [ShuQiu7](https://github.com/ShuQiu7)                         |
-| [Schaetzverfahren_Kosten](kb/Schaetzverfahren_Kosten.md)                                                                           | [ga88maby](https://github.com/ga88maby)                       |
 | [Projekt_Kick_Off](kb/Projekt_Kick_Off.md)                                                                                         | [MariaKaisa](https://github.com/MariaKaisa)                   |
 | [Projekt_Charta](kb/Projekt_Charta.md)                                                                                             | [efdil](https://github.com/efdil)                             |
 | [Roadmap](kb/Roadmap.md)                                                                                                           | [uc00ekun](https://github.com/uc00ekun)                       |
