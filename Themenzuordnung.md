@@ -348,4 +348,5 @@ author: anniSc
 | [Social_Media_Einsatz](kb/Social_Media_Einsatz.md)                                                                                 | [danielleilei](https://github.com/danielleilei)               |
 | [Machine_Learning_im_Projektmanagement](kb/Machine_Learning_im_Projektmanagement.md)                                               | [phiLippFAU](https://github.com/phiLippFAU)                   |
 | [Leadership_Canvas](kb/Leadership_Canvas.md)                                                                                       | [phiLippFAU](https://github.com/phiLippFAU)                   |
+| [Netzplantechnik](kb/Netzplantechnik.md)                                                                                           | [On11ybid](https://github.com/On11ybid)                       |
 
