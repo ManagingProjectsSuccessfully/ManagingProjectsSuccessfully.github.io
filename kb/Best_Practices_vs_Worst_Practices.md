@@ -4,7 +4,7 @@ tags: klassisch
 author: TommiMueller
 anrechnung: k
 ---
-
+Im Zuge des [Projektmanagements](Link) gibt es erfolgreiche [Projekte](Link) und weniger erfolgreiche Projekte wie zum Beispiel der Bau des [Berliner Flughafen](Link). Hierbei gibt es Methoden, die einen erfolgreichen Projektabschluss garantieren (sogenannte [Best Practices Practices](Link)) Im Gegensatz dazu gibt es aber auch Methoden, womit ein komplettes Projekt in den Sand gesetz werden kann. Diese werden [Worst Practices](Link) genannt.
 Kurzbeschreibung zu Best_Practices_vs_Worst_Practices um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
