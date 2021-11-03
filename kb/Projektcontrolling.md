@@ -9,6 +9,7 @@ Projektcontrolling ist ein Bestandteil des #Projektmanagements. Der Begriff Cont
 definiert wird.
 In der folgenden Abbildung ist der projektspezifische „Controlling Regelkreis“ illustriert.
 
+(Projektcontrolling/test-file.jpg)
 
 
 
