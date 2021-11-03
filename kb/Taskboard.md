@@ -1,7 +1,7 @@
 ---
 title: Taskboard
 tags: agil klassisch
-author: FilipPrecik
+author: 
 anrechnung: k oder a
 ---
 
