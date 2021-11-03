@@ -50,11 +50,12 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Projektcontrolling/test-file.jpg)
+![Beispielabbildung](Projektcontrolling/ControllingRegelkreis.jpg)
 
 *lustiges Testbild*
 
 # Aspekt 2
+![ControllingRegelkreis](https://user-images.githubusercontent.com/92790073/140232101-3ab672e7-96e6-46f3-bad5-b40a121656f7.jpg)
 
 * das
 * hier 
