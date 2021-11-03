@@ -239,6 +239,7 @@ author: anniSc
 | [Projektsteuerung](kb/Projektsteuerung.md)                                                                                         | [LeahMtmb](https://github.com/LeahMtmb)                       |
 | [Internationale_Projektsteuerung](kb/Internationale_Projektsteuerung.md)                                                           | [ValerieGF](https://github.com/ValerieGF)                     |
 | [Schaetzverfahren_Aufwaende](kb/Schaetzverfahren_Aufwaende.md)                                                                     | [ShuQiu7](https://github.com/ShuQiu7)                         |
+| [Schaetzverfahren_Kosten](kb/Schaetzverfahren_Kosten.md)                                                                           | [Sven017](https://github.com/Sven017)                         |
 | [Projekt_Kick_Off](kb/Projekt_Kick_Off.md)                                                                                         | [MariaKaisa](https://github.com/MariaKaisa)                   |
 | [Projekt_Charta](kb/Projekt_Charta.md)                                                                                             | [efdil](https://github.com/efdil)                             |
 | [Projekt_Vision](kb/Projekt_Vision.md)                                                                                             | [Vallejk](https://github.com/Vallejk)                         |
