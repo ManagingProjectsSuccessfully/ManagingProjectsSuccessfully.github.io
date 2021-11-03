@@ -2,7 +2,7 @@
 title: Risikomatrix
 tags: agil klassisch
 author: Aseuc
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Risikomatrix um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -12,32 +12,33 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Durch die Risikomatrix bzw. Risikoportfolio oder Risiko-Map wird die Wahrscheinlichkeit bei dem negative Ereignisse aufkommen und deren Auswirkungen in einer Tabelle ins Verhältnis gesetzt[^1]. Die Risikomatrix ist eine zweidimensionale Darstellung welche der systematischen Evaluierung und Bewertung von Risiken dienen soll. Des Weiteren ist die Risiskomatrix ein Instrument aus der Risikoanalyse und erfolgt in verschiedenen Varianten[^1].    			
 
 
-# Aspekt 1
+# Aufbau
+Bei der tabellarischen Darstellung der Risikomatrix wird an der y-Achse die Eintrittswahrscheinlichkeit und an der x-Achse die Schadenshöhe angegeben[^2], da es aber keine einheitliche Darstellungsform gibt kann die Matrix auch eine umgekehrte Beschriftung der Achsen haben[^3].
+
+Die Spalten- und Zeilenbeschriftung erfolgt durch Indizes[^4] oder durch beschreibende Angaben wie Prozente oder Begriffe wie niedrig bis hoch[^5]. In der Matrix werden die Risiken so positioniert, sodass eine Präferenzierung und vergleichende Darstellung besteht[^6]. Durch Färbung der Zellen werden die Risikobereiche gekennzeichnet und orientieren sich dabei oft an den Ampelfarben[^4]. Anhand der Positionen der Risiken im Raster kann die Bedeutung eines Riskos eingeschätzt werden[^5].
+
+## Nutzen und Kritik
+
+## Nutzen
+Die Risikomatrix hilft bei der Beurteilung von Risiken, da es das Ergebnis der Riskoanalyse und Risikobewertung ist, ist es ein wichtiges Instrument des Projekt- und Risikomanagements[^7]. Durch Multiplikation der Eintrittswahrscheinlichkeit und der Schadenshöhe des Risikos kann der Schadenserwartungswert berechnet werden. Unter anderem ist es möglich, dass bei der Berechnung des Schadenserwartungswertes sich die beiden Faktoren gegeseitig einschränken und es zu einer falschen Beurteilung über das Risiko kommt[^8].
+
+## Nutzen im Risikomangement
+Im Risikomanagement werden Elemente die einen negativen Einfluss auf das Projekt haben identifiziert, überwacht und gesteuert. Die Bewertung von Risiken erfolgt Anhand der Wahrscheinlichkeiten sowie dem zu erwartenden Verlust im Falle eines Schadens. Ab einer Eintrittswahrscheinlichkeit von 25% und einer durchschnittlichen Schadenshöhe, welche die jeweilige Organisation als Mittel bewertet, werden Risiken einer aktiven Steuerung unterzogen. Des Weiteren kann ein Risiko angenommen, gemildert oder verlagert werden. 
+Falls eine Annahme des Risikos in betracht gezogen wird werden keine Steuerungsmaßnahmen durchgeführt. Bei Milderung oder Verlagerung werden Maßnahmen ergriffen, welche beispielsweise, die Beschaffung von mehr Personal zum entgegenwirken von krankheitsbedingten Ausfällen, sein kann[^8].
+
+## Nutzen im Projektmanagement
+
+
+
+
+
+
+
+
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -90,6 +91,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Risikomatrix.md)
+* [Eintrittwahrscheinlichkeit](https://de.wikipedia.org/wiki/Eintrittswahrscheinlichkeit)
+* [Schadenserwartungswert](https://www.controlling-wiki.com/de/index.php/Risikomanagementsystem_(RMS))
 
 # Weiterführende Literatur
 
@@ -97,8 +100,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: Norm DIN ISO/TR 14121-2:2013-02 Sicherheit von Maschinen - Risikobeurteilung – Teil 2: Praktischer Leitfaden und Verfahrensbeispiele. (ISO/TR 14121-2:2012)
+[^2]: Bruno Brühwiler/Frank Romeike: Praxisleitfaden Risikomanagement. Erich Schmidt Verlag, Berlin 2010, ISBN 978-3-503-12476-3, S. 157.
+[^3]: https://www.projektmagazin.de/glossarterm/risikomatrix Aufgerufen 03.11.2021 13:30 Uhr 
+[^4]: Martin Werdlich (Hrsg.): FMEA - Einführung und Moderation. 2. Auflage. Springer, Vieweg, Wiesbaden 2012, ISBN 978-3-8348-2217-8, S. 147–148.
+[^5]: https://www.microtool.de/wissen-online/was-ist-eine-risikomatrix/ Aufgerufen: 03.11.2021 14:00 Uhr
+[^6]: Müller und Arenz: Sichere Lagerung gefährlicher Stoffe: von der Theorie zur Praxis. 6. Auflage. Hüthing Jehle Rehm, Heidelberg, München, Landsberg, Frechen, Hamburg 2011. S. 117
+[^7]: https://project-base.org/projektmanagement-glossar/risikomatrix/ Aufgerufen: 03.11.2021 16:00 Uhr
+[^8]: Marc Diedrichs: Risikomanagement und Risikocontrolling. 3. Auflage. Vahlen Verlag, München 2012, S. 93–95.
+[^9]: https://project-base.org/projektmanagement-glossar/risikomatrix/ Aufgerufen 03.11.2021 17:30 Uhr
