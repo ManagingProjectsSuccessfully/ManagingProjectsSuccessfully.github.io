@@ -1,6 +1,6 @@
 ---
 title: Risikomatrix
-tags: agil klassisch
+tags: klassisch
 author: Aseuc
 anrechnung: k
 ---
@@ -21,7 +21,19 @@ Bei der tabellarischen Darstellung der Risikomatrix wird an der y-Achse die Eint
 
 Die Spalten- und Zeilenbeschriftung erfolgt durch Indizes[^4] oder durch beschreibende Angaben wie Prozente oder Begriffe wie niedrig bis hoch[^5]. In der Matrix werden die Risiken so positioniert, sodass eine Präferenzierung und vergleichende Darstellung besteht[^6]. Durch Färbung der Zellen werden die Risikobereiche gekennzeichnet und orientieren sich dabei oft an den Ampelfarben[^4]. Anhand der Positionen der Risiken im Raster kann die Bedeutung eines Riskos eingeschätzt werden[^5].
 
-## Nutzen und Kritik
+#
+
+
+
+
+
+
+# Nutzen und Kritik
+
+* Nutzen
+  - Nutzen im Risikomanagement
+  - Nutzen im Projekmanagement
+* Kritik
 
 ## Nutzen
 Die Risikomatrix hilft bei der Beurteilung von Risiken, da es das Ergebnis der Riskoanalyse und Risikobewertung ist, ist es ein wichtiges Instrument des Projekt- und Risikomanagements[^7]. Durch Multiplikation der Eintrittswahrscheinlichkeit und der Schadenshöhe des Risikos kann der Schadenserwartungswert berechnet werden. Unter anderem ist es möglich, dass bei der Berechnung des Schadenserwartungswertes sich die beiden Faktoren gegeseitig einschränken und es zu einer falschen Beurteilung über das Risiko kommt[^8].
@@ -31,35 +43,13 @@ Im Risikomanagement werden Elemente die einen negativen Einfluss auf das Projekt
 Falls eine Annahme des Risikos in betracht gezogen wird werden keine Steuerungsmaßnahmen durchgeführt. Bei Milderung oder Verlagerung werden Maßnahmen ergriffen, welche beispielsweise, die Beschaffung von mehr Personal zum entgegenwirken von krankheitsbedingten Ausfällen, sein kann[^8].
 
 ## Nutzen im Projektmanagement
+Im Projektmanagement dient die Risikomatrix der übersichtlichen Veranschaulichung der Risiken eines Projekts oder Projektgruppen und der Darstellung von der Risikobereitschaft der Trägerorganisation.
 
 
 
 
 
 
-
-
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Risikomatrix/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
 So kann man eine Tabelle erstellen:
 
@@ -93,6 +83,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * [Link auf diese Seite](Risikomatrix.md)
 * [Eintrittwahrscheinlichkeit](https://de.wikipedia.org/wiki/Eintrittswahrscheinlichkeit)
 * [Schadenserwartungswert](https://www.controlling-wiki.com/de/index.php/Risikomanagementsystem_(RMS))
+* [Risikobereitschaft](https://www.projektmagazin.de/glossarterm/risikobereitschaft)
 
 # Weiterführende Literatur
 
