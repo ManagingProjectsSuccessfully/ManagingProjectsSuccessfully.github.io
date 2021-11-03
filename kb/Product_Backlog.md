@@ -58,8 +58,7 @@ Bei Backlog Grooming (auch als Refinement bezeichnet) handelt es sich um ein Mee
 
 [^1]: https://www.projektmagazin.de/glossarterm/product-backlog 
 [^2]: https://agilescrumgroup.de/product-backlog/ 
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: https://www.inloox.de/projektmanagement-glossar/backlog/ (Bild)
+[^3]: https://www.inloox.de/projektmanagement-glossar/backlog/ 
 
 
 Hilfe für später:
@@ -83,7 +82,3 @@ Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 
-
-
-
-Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
