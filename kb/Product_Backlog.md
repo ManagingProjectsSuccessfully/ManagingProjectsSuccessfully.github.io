@@ -2,61 +2,70 @@
 title: Product_Backlog
 tags: agil klassisch
 author: PhilippWolfrum
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Product_Backlog um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Der Product Backlog ist bei Scrum die Liste aller Anforderungen für ein zu erstellendes Produkt[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Was ist das Product Backlog?
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Bereits die Wahl der Bezeichnung "Backlog" (Auftragsbestand) weist darauf hin, dass das Product Backlog eine dynamische Liste ist und somit kein Lastenheft im traditionellen Sinn ist. Konsequent definiert der Scrum Guide den Product Backlog als Dokument des Product Lifecycle Managements und nicht als temporäres Projektdokument[^1]. Der Product Owner ist für das jeweilige Backlog verantwortlich, er muss Erweiterungen genehmigen, sowie Anforderungen für die Teams priorisieren. Das Product Backlog enthält Eigenschaften, Funktionen, Anforderungen, Verbesserungen und Fehlerbehebungen, wobei jeder Eintrag mit Aufwandsschätzung, Beschreibung und Priorität versehen ist. 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Anforderungen aus dem Product Backlog werden im Planning in die jeweiligen Sprint Backlogs gezogen und während eines Sprints bearbeitet. 
 
 
-# Aspekt 1
+![Beispielabbildung](Product_Backlog/glossareintrag-backlog-product-backlog-versus-sprint-backlog_w1000.jpg)
+*Product Backlog vs Sprint Backlog*
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Wie erstelle ich die ersten Fassung des Scrum Product Backlogs [^2]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Die erste Version davon wird oft auch als “Initial Product Backlog” bezeichnet. Diese erste Fassung ist das Ergebnis der Kombination von Informationen aus verschiedenen Quellen:
 
-![Beispielabbildung](Product_Backlog/test-file.jpg)
+* Die Produktvision: Ein guter Product Owner hat vorab eine Produktvision definiert. Von ihr alleine schon kann er viele Product Backlog Items ableiten.
+* Eine Product Roadmap: Wenn ein bestehendes Produkt weiterentwickelt werden soll, gibt es oft eine Product Roadmap. Ein gutes Beispiel sind das iPhone 4, 5, 6, 7 usw. Die Roadmap liefert Input für den Product Backlog.
+* Das Minimum Viable Product (MVP): Ein MVP ist das minimale Produkt, mit dem eine Organisation dem Kundenwunsch entsprechen kann. Ein Scrumteam hat i.d.R. zuerst diese erste Produktversion im Blick. Denn anhand des MVP bekommt es Feedback auf sein Arbeitsergebnis.
+* Stakeholder: Benutzer und Käufer des zu entwickelnden Produktes sind vielleicht die wichtigste Quelle für Input für den Product Backlog. Sie können genau angeben, was sie benötigen. Wer das Scrum-Projekt gut angeht, hört genau zu, was die Stakeholder zu sagen haben.
+* Das Entwicklerteam: Viele Scrum-Projekte erfordern viel Fachwissen. Deshalb wird in multidisziplinären Teams gearbeitet. Seine Mitglieder sind Spezialisten auf ihrem Gebiet. Auch sie liefern oft wertvolle Ergänzungen für den Product Backlog, die ein Product Owner oder auch Stakeholder schnell vergessen würden.
 
-*lustiges Testbild*
+# Wie sieht ein guter Product Backlog aus?  [^2]
 
-# Aspekt 2
+Ein guter Backlog zeichnet sich durch vier Elemente aus. Eine praktische Eselsbrücke: Ein guter Product Backlog ist „DEEP“. Das sind die Anfangsbuchstaben der vier Elemente:
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+* Detailed (detailliert): ein guter Backlog besteht aus genügend Backlog Items (User Stories), um mindestens einen Sprint zu füllen. Im Idealfall reichen die Items für zwei Sprints. User Stories mit einer niedrigeren Priorität brauchen nicht allzu detailliert dargestellt zu werden. Items, die in Kürze angegangen werden sollen, müssen jedoch „fertig für den Sprint“ sein. Damit ist gemeint, dass das Entwicklerteam die Items genau versteht, sie klein sind und die Akzeptanzkriterien sowie eine Definition of Done deutlich definiert sind.
+* Emergent (entwickelt sich nach und nach): Ein Product Backlog wird im Verlauf des Projektes (gemeinsam) nach und nach entdeckt. Vor dem ersten Sprint streben wir also nicht nach einem vollständigen Backlog. Stärker noch: Wir wissen es eben gerade zu schätzen, wenn noch kein vollständig ausgearbeiteter Plan vorliegt.
+* Estimated (abgeschätzt): Die User Stories sind abgeschätzt. Oft geschieht das in einer Planning Poker Session mittels Story Points.
+* Prioritized (mit Prioritäten versehen): Die User Stories im Product Backlog hat der Product Owner mit Prioritäten versehen. Die untenstehenden Faktoren sind bei der Priorisierung durch den Product Owner entscheidend.
+
+
+# Verbesserung des Backlogs durch "Backlog Grooming" [^2]
+
+Bei Backlog Grooming (manchmal auch als Backlog Refinement bezeichnet) handelt es sich um ein Meeting, das kein fester Bestandteil des Scrum-Prozesses gemäß der Definition im Scrum Guide ist. Tatsächlich hat sich dieses Meeting in der Praxis aber als eines der wertvollsten erwiesen. Denn in ihm wird der Product Backlog für das nächste Sprint Planning Meeting vorbereitet. Eine Backlog Grooming Session wird mit dem Entwickelteam abgehalten:
+
+* User Stories gemäß neuester Erkenntnisse aktualisieren
+* User Stories mit Prioritäten versehen
+* Detail in User Stories anbringen und sie aufteilen
+* Abschätzen von User Stories durch das Entwicklerteam
+
+Product Backlog Grooming fällt unter die Verantwortlichkeit des Product Owners. Denn der Product Owner ist für den Product Backlog zuständig. Aber auch vom Entwicklerteam wird Input benötigt. Manchmal wird ein Teil des Entwicklerteams an dem Prozess beteiligt. Der Product Owner reserviert während des Sprints 10% ihrer oder seiner Zeit für das Grooming.
+
+# Siehe auch
+
+* Verlinkungen zu angrenzenden Themen
+* [Link auf diese Seite](Product_Backlog.md)
+
+# Weiterführende Literatur
+
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
+# Quellen
+
+[^1]: https://www.projektmagazin.de/glossarterm/product-backlog 
+[^2]: https://agilescrumgroup.de/product-backlog/ 
+[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^4]: https://www.inloox.de/projektmanagement-glossar/backlog/ (Bild)
+
+
+Hilfe für später:
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -76,29 +85,8 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
-# Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Product_Backlog.md)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
