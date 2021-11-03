@@ -1,8 +1,8 @@
 ---
 title: Projektcontrolling
-tags: agil klassisch
+tags: klassisch projektmanagement
 author: hake1110
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Projektcontrolling um ein erstes Verständnis dafür zu schaffen um was es hier geht.
