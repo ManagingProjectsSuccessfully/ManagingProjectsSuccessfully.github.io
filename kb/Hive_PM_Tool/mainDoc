@@ -5,12 +5,20 @@ author: Gilchus
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu Hive_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Hive Projekt Mangement Tool erlaubt es Nutzern, Projekte zentralisiert und Cloud basiert zu verwalten. Nutzer können
+zwischen verschiedenen state of the art PM Elementen wählen und somit das Tool auf ein spezifisches Projekt optimieren.
+Desweiteren bietet Hive die Möglichkeit Add Ons zu installieren, wodurch dem Kunden ermöglicht wird auf esentielle Dienste 
+im Zusammenhang mit Projekt Management zuzugreifen. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Hive ermöglicht es durch das Hinzufügen von Gruppen und Teammitgliedern, eine zentrale Software für alle Stakeholder eines
+Projektes zu bieten.  
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Absatz 1 (irgendwas mit Leistungsumfang des Unternehmens oder so)
+
+Das Hive PM Tool bietet dem Nutzer ein intuitiv nutzbares User Interface. Eine Einführung in die Grundfunktionen der Software
+bekommt man durch das bereit gestellte Tutorial, welches dem Nutzer in der Anwendung Click-by-Click Anweisungen gibt.
+
+##Anwendungsoberfläche und Funktionen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
