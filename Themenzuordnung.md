@@ -149,6 +149,7 @@ author: anniSc
 | [SAFe_Principles](kb/SAFe_Principles.md)                                                                                           | [felixba213 ](https://github.com/felixba213 )                 |
 | [SAFe_Lean_Agile_Mindset](kb/SAFe_Lean_Agile_Mindset.md)                                                                           | [BeratGuen](https://github.com/BeratGuen)                     |
 | [SAFe_Agile_Release_Trains](kb/SAFe_Agile_Release_Trains.md)                                                                       | [FilipPrecik](https://github.com/FilipPrecik)                 |
+| [Wasserfall_Modell](kb/Wasserfall_Modell.md)                                                                                       | [ga88maby](https://github.com/ga88maby)                       |
 | [Lean_Projektmanagement](kb/Lean_Projektmanagement.md)                                                                             | [nicolasrmg](https://github.com/nicolasrmg)                   |
 | [Six_Sigma](kb/Six_Sigma.md)                                                                                                       | [flxrbnk](https://github.com/flxrbnk)                         |
 | [PRINCE2](kb/PRINCE2.md)                                                                                                           | [patrick203494](https://github.com/patrick203494)             |
@@ -349,5 +350,6 @@ author: anniSc
 | [Social_Media_Einsatz](kb/Social_Media_Einsatz.md)                                                                                 | [danielleilei](https://github.com/danielleilei)               |
 | [Machine_Learning_im_Projektmanagement](kb/Machine_Learning_im_Projektmanagement.md)                                               | [phiLippFAU](https://github.com/phiLippFAU)                   |
 | [Leadership_Canvas](kb/Leadership_Canvas.md)                                                                                       | [phiLippFAU](https://github.com/phiLippFAU)                   |
+| [Customer_Experience](kb/Customer_Experience.md)                                                                                   | [ga88maby](https://github.com/ga88maby)                       |
 | [Netzplantechnik](kb/Netzplantechnik.md)                                                                                           | [On11ybid](https://github.com/On11ybid)                       |
 
