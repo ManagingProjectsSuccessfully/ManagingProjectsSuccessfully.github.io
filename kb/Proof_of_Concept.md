@@ -2,15 +2,31 @@
 title: Proof_of_Concept
 tags: agil klassisch
 author: PhilippWolfrum
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Proof_of_Concept um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Der englische Begriff Proof of Concept (kurz POC) bezeichnet die Evaluation eines kleinen Ausschnittes eines Großprojekts und die Anfertigung einer Machbarkeitsstudie. Proof of Concept bedeutet übersetzt so viel wie Prüfung des Konzeptes [^3], wobei sich die Kriterien auf technische oder betriebswirtschaftliche Faktoren beziehen können.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Was ist der Proof of Concept?
+
+Proof of Concept bezeichnet das Prüfen eines Konzeptes bzw. eines Projektes auf dessen Machbarkeit. Dabei wird anhand von Faktoren wie Investitionsrisiken, Anforderungen an technische Applikationen oder Software, Funktions- und Akzeptanztests von Produkten oder Dienstleistungen validiert ob das Umsetzungsprojekt durchgeführt werden soll. Er dient also als Entscheidungsbasis für den weiteren Projektverlauf.  
+Der Proof of Concept ist mit einer der ersten Meilensteine im Projektmanagement und legt den Grundstein für ein erfolgreiches Projekt.
+
+# Der Aufbau und die Funktionsweise eines Proof of Conceptes
+
+Es gibt unterschiedliche Strategien einen Proof of Concept für das Umsetzungsprojekt zu nutzen. Dazu gehört die direkte Umsetzung einer Idee, das Testen in Form eines Kleinprojekts oder eine Nutzenabschätzung bei Forschungszwecken.
+
+Direkte Umsetzung ohne Proof of Concept
+Bei dieser Variante handelt es sich um die Riskanteste, da direkt in das Umsetzungsprojekt gestartet wird. Einserseits bietet der Verzicht auf einen Proof of Concept einen Zeitvorteil, anderseits fallen Hürden und Probleme erst im Laufe des Projekts auf, wenn ein Abbruch sehr kostspielig ist. 
+
+Testen der Idee eines kleinen Projektes mithilfe des Proof of Conceptes
+Hierbei handelt es sich um die klassiche Form des Proof of Concepts. Mit einem kleinen Projektteam wird die Idee verprobt um anschließend eine Entscheidung zur Durchfhrung treffen zu können. Da im voraus an das Umsetzungsprojekt schon viele Erkenntnisse gewonnen wurden ist diese Variante mit deutlich weniger Rsikio behaftet.
+
+So ist das Projekt erfolgreich und ein Nachweis den möglichen Investoren reicht in der Regel als Proof of Concept aus. Der einzige Nachteil dieser Idee ist, dass die Idee eine höhere Aufmerksamkeit erlangt und so etwaige Konkurrenten auf die Idee aufmerksam werden könnten.
+
+_____
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -37,9 +53,9 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Proof of Concept in der IT
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+IT-Projekte sind ein klassischer Anwendungsbereich für einen Proof of Concept. In den Entwicklungsprozess für neue Anwendungssoftware oder für IT-Sicherheitslösungen wird dieser Projektschritt sehr häufig integriert. Beispielsweise wird für eine komplexe IT-Systemumgebung zunächst ein Prototyp geschaffen, um die Abhängigkeit der verschiedenen Anwendungen und die Funktionalität von Schnittstellen zu demonstrieren. Hierdurch erhält das Projektteam außerdem eine konkrete Basis für seine weitere Arbeit. In der IT-Sicherheit dienen solche Konzepttests auch dazu, Sicherheitslücken in Betriebssystemen oder Anwendungssoftware nachzuweisen.
 
 * Verschiedene Teile eines Themas 
 * Historische Entwicklung
@@ -49,7 +65,13 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Proof of Concept in der Betriebswirtschaft
+
+Auch Geschäftsideen, Unternehmensgründungen und die Entwicklung von Neuprodukten können einem Proof of Concept unterworfen werden. Der Konzepttest erbringt hier einen Nachweis, dass die Idee, das geplante Geschäftsmodell oder neue Produkte und Dienstleistungen aus betriebswirtschaftlicher Sicht funktionieren. Ein aussagefähiger Proof of Concept ist in der Praxis eine Voraussetzung dafür, Investoren für eigene Projekte zu gewinnen.
+
+Im Kern geht es darum, die wirtschaftlichen Chancen der Neuentwicklung mit Blick auf die reale Marktentwicklung zu testen. Betriebswirtschaftliche Kalkulationen sind hier ebenso eingeschlossen, wie Markt- und Wettbewerbsbeobachtungen, vor allem aber der Erwerb umfassenden Wissens über potentielle Kunden. Optimal ist, wenn reale Kunden so früh wie möglich in die Produktentwicklung eingebunden werden können.
+
+Betriebswirtschaftliche Proofs of Concept werden idealerweise nicht als ein singulärer Akt oder durch das Erreichen einiger weniger Meilensteine definiert, sondern als ein fortlaufender Prozess begriffen, in dem die Markt- und Gewinnreife des eigenen Geschäfts- oder Produktkonzepts immer wieder mit den Realitäten des Marktes und den Bedürfnissen potentieller Kunden abgeglichen wird. In dieser Form können sie die Kosten und Risiken des Markteintritts erheblich reduzieren.
 
 * das
 * hier 
@@ -97,13 +119,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-https://www.it-business.de/was-ist-ein-proof-of-concept-a-666615/
-https://de.wikipedia.org/wiki/Proof_of_Concept
-https://www.businessinsider.de/gruenderszene/lexikon/begriffe/proof-of-concept/
+[^1]: [Basic Formatting Syntax for GitHub flavored Markdown](https://www.it-business.de/was-ist-ein-proof-of-concept-a-666615/)
+[^2]: [Basic Formatting Syntax for GitHub flavored Markdown](https://de.wikipedia.org/wiki/Proof_of_Concept)
+[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/proof-of-concept/)
 
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+______
+
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
