@@ -10,7 +10,7 @@ Kurzbeschreibung zu Risikomatrix um ein erstes Verständnis dafür zu schaffen u
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Risikomatrix
 
 
 Durch die Risikomatrix bzw. Risikoportfolio oder Risiko-Map wird die Wahrscheinlichkeit bei dem negative Ereignisse aufkommen und deren Auswirkungen in einer Tabelle ins Verhältnis gesetzt[^1]. Die Risikomatrix ist eine zweidimensionale Darstellung welche der systematischen Evaluierung und Bewertung von Risiken dienen soll. Des Weiteren ist die Risiskomatrix ein Instrument aus der Risikoanalyse und erfolgt in verschiedenen Varianten[^1].    			
