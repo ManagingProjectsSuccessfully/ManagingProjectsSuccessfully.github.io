@@ -2,50 +2,51 @@
 title: Stacey_Matrix
 tags: agil klassisch
 author: CatPec
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Stacey_Matrix um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Stacey-Matrix, benannt nach ihrem Begründer Ralph Douglas Stacey (https://en.wikipedia.org/wiki/Ralph_D._Stacey), einem britischen Organisationstheoretiker und Managementprofessor, diente ursprünglich zur erleichterten Entscheidungsfindung in komplexen Situationen. Heutzutage hilfts sie bei der Auswahl des passenden Projektmanagement-Ansatzes. Dabei kann die Stacey-Matrix dabei unterstützen den richtigen Methodenmix zu finden, indem ein Verständnis dafür geschaffen wird, wie umfangreich einzelne Aspekte des Projektes inklusive ihren Herausforderungen sind [^1]. Kurz gesagt beschreibt die Stacey-Matrix ein Ordnungsrahmen zur Abgrenzung einfacher, komplizierter, komplexer und chaotischer Aufgaben [^2]. 
 
 
-# Aspekt 1
+# Die Stacey-Matrix im Projektmanagementkontext
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die Stacey-Matrix soll also erleichtern für ein bevorstehendes Projekt die richtige Projektmanagementmethode zu finden. Zunächst wird dazu der Kontext des Projekts betrachtet. Hierbei werden drei Fragestellungen betrachtet.
+1) Welche Faktoren tragen zur Komplexität in Organisationen bei?
+2) Wie können Entscheidungen in unsicheren Situatiionen am besten getroffen werden. 
+3) Welche Strategien eignen sich zur Entscheidungsfindung?
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Es wird hierbei also die Komplexität einen bevorstehenden Projekts beleuchtet. Es sind dabei sowohl das "Was?" als auch das "Wie?" entscheidend. 
 
-![Beispielabbildung](Stacey_Matrix/test-file.jpg)
+# Aufbau der Stacey-Matrix
+
+Die Matrix besteht aus zwei Achsen. Auf der vertikalen Achse wird der Grad der "Anforderungen" (entspricht in der Abbildung dem Begriff "Requierement") des Projekts abgetragen. In der Original-Matrix nach Stacey handelte es sich hierbei statt um Anforderungen um "Einigkeit", also wie übereinstimmend sich die Entscheidungsträger hinsichtlich einzelner zu treffender Entscheidungen sind. Dieser Terminus wurde im Laufe der Zeit durch den Punkt "Anforderungen" ersetzt. Hierbei wird sich die Frage gestellt, wie klar oder unkklar die Unsicherheiten über die Anforderungen des Projekts sind.
+
+Die horizontale Achse wird durch den Begriff "Technologie"beschrieben (In der Abbildung: "Technological Realization") Auch hier war der Originalbegriff ursprünglich "Gewissheit".  Während ursprünglich die Sicherheit in Bezug auf die zu treffenden Entscheidungen und das Vorgehen gemeint war, wird durch "Technologie" heutzutage vielmehr die Frage beschrieben, ob die Technologie beziehungsweise Methoden zur Erreichung des Projektziels bekannt oder unbekannt sind.
+ ![Stacey-Matrix-Stacey-1996-adapted-to-software-development](https://user-images.githubusercontent.com/92922561/140303470-74e6e67d-b486-4880-a88d-d62973995058.png)
+
+Die Matrix ist in fünf Felder aufgeteilt. Diese beschreiben beschreiben jeweils den Komplexitätsgrad der vorliegenden Herausforderung.
+
+
+## Simpel
+
+Das Feld "Simple" bescheribt Projekte bei denen sowohl die Anforderungen als auch die Technologie klar und bekannt sind. Das bedeutet das diese Projekte kaum der Gefahr von unvorhersehbaren Hindernissen asugesetzt sind. Hierbei handelt es sich meist um einen Projekttyp, der in der Vergangenheit schon mehrfach bearbeitet wurde und die Bearbeitungsschritte weitgehend bekannt sind. Es lassen sich also "Best Practices" aus der Vergangenheit ableiteiten. Bei dieser Einordnung stellt das klassische Projektmanaagement mit Methoden wie der Wasserfall- oder V-Methode die beste Herangehensweise dar.
+
+## kompliziert
+
+Das zweite Feld, in der ABbildung "complicated" genannt, beschreibt Projekte, bei denen entweder die Anforderungen noch klar sind, die Technologien zur Zielerreichung aber nicht komplett. Dann handelt es sich um "technisch komplizierte" Projekte. Sind die Anforderungen unklar, die Technologie aber bekannt liegen politisch/ sozial komplizierte Projekte vor. Es herrscht Uneinigkeit zwischen den Entscheidungspersonen. Viele offene Fragen lassen sich hierbei durch Analysen, Verhandlungen ("political decisionmaking") oder Beratung durch externe Experten klären. Diese Art der Beratung durch Experten wird "judgemental decisionmaking" genannt. Hier eignen sich sowohl klassische als auch agile MEthoden, wobei agile meist vorgezogen werden.
+
+## komplex
+Das Feld, bei dem entweder die Technologien oder die Anforderungen überwiegend unbekannt sind, wird als komplex bezeichnet. Bei kompexen Projekten existieren viele Risiken. Die einzelnen Phasen dieser Projekte sind zu Beginn nicht vorhersehbar. Hier steht deshalb vor allem Transparenz, Innovation und Kreativität sowie Flexibilität im Mittelpunkt. Das Projekt sollte daher in kurze Iterationnen zerlegt werden, wobei die ständige Überwachung der einzelnen Schritte nie außer Acht gelassen werden darf. Erwüschte Ergebnisse werden dadurch durchgehend verfolgt und Fehlentwicklungen schnell korrigiert. Hier finden agile Vorgehensweisen, vorallem die Skum-Methode Anwendung.
+
+## chaotisch
+Als chaotisch eingeordnete Projekte definieren sich durch völlig unklare Anforderungen und komplett unbekannte Technologien, stellen also eine enorme Herausfoderung dar. ALs Herangehensweise wird hier empfohlen, sich bereits von Projektbeginn an ein gewisses Maß ab Klarheit über die Anforderungen zu schaffen. Dabei müssen die Ziele geklärt werden. Es müssen also mögliche vorläufige Entscheidungen getroffen werden, um das Projekt in den "Komplex-Bereich" verschieben zu können. Agile Methoden hier sind besonders Dsign Thinking, Kanban und Scum.
+
+# Kritik an der Stacey-Matrix
+
+Eine der größten Kritiken an der Stacey-Matrix ist, dass sie zu schnell fehlinterpretiert wird. Sie stellt keine Anleitung zur Findung der perfekten Projektmanagementmethode dar. Der Erfinder sprach sich am Ende selbst deshalb gegen seine eigene MAtrix aus, da die Ursprungform immer weiter abgewandelt und für die eigenen Zwecke der Entschidungsfinder missbraucht wurde.
+Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts ein sinnvolles Kriterium für die Wahl der Projektmanagementmethode geeignet ist.
+
+
 
 *lustiges Testbild*
 
@@ -97,8 +98,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: [Projekte-leicht-gemacht] (https://projekte-leicht-gemacht.de/blog/projektmanagement/stacey-matrix/)
+[^2]: [Projektmagazin] (https://www.projektmagazin.de/artikel/mit-der-stacey-matrix-zur-richtigen-pm-methode_1128468)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
