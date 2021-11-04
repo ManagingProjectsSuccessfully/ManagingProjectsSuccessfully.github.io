@@ -66,6 +66,8 @@ Aspekte zu Themen können ganz unterschiedlich sein:
   - mit unterpunkt
 
 ## [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
+
+
 So kann man eine Tabelle erstellen:
 
 | First Header  | Second Header |
@@ -73,16 +75,17 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## Projektplan
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
+## Soll-Ist-Vergleich
+
 
 Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+## Ampelmethode
 
 1. das
 2. hier 
@@ -90,7 +93,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 4. eine
 7. nummerierte liste
    1. und hier eine Ebene tiefer
-
+   
+## Leistungswertanalyse
 
 # Siehe auch
 
