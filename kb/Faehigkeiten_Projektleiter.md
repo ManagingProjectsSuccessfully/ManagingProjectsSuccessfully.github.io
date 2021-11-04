@@ -10,7 +10,7 @@ Kurzbeschreibung22222 zu Faehigkeiten_Projektleiter um ein erstes Verständnis d
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Welche Fähigkeiten benötigt ein Projektleiter?
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
