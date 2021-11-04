@@ -14,7 +14,10 @@ Eine der wichtigsten Personen für den reibungslosen Projektablauf ist der Proje
 
 Im Idealfall füllt er vier Rollen aus. 
 
-![Die 4 Rollen des Projektleiters](Faehigkeiten_Projektleiter/test-file.jpg)
+![Die 4 Rollen des Projektleiters](Faehigkeiten_Projektleiter/4_Rollen_Projektleiter.jpg)
+
+
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
