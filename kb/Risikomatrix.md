@@ -12,13 +12,14 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Risikomatrix
 
+
 Durch die Risikomatrix bzw. Risikoportfolio oder Risiko-Map wird die Wahrscheinlichkeit bei dem negative Ereignisse aufkommen und deren Auswirkungen in einer Tabelle ins Verhältnis gesetzt[^1]. Die Risikomatrix ist eine zweidimensionale Darstellung welche der systematischen Evaluierung und Bewertung von Risiken dienen soll. Des Weiteren ist die Risiskomatrix ein Instrument aus der Risikoanalyse und erfolgt in verschiedenen Varianten[^1].    			
 
 # Aufbau und Berechnung
 Bei der tabellarischen Darstellung der Risikomatrix wird an der y-Achse die Eintrittswahrscheinlichkeit und an der x-Achse die Schadenshöhe angegeben[^2], da es aber keine einheitliche Darstellungsform gibt kann die Matrix auch eine umgekehrte Beschriftung der Achsen haben[^3].
 
 Die Spalten- und Zeilenbeschriftung erfolgt durch Indizes[^4] oder durch beschreibende Angaben wie Prozente oder Begriffe wie niedrig bis hoch[^5]. In der Matrix werden die Risiken so positioniert, sodass eine Präferenzierung und vergleichende Darstellung besteht[^6]. Durch Färbung der Zellen werden die Risikobereiche gekennzeichnet und orientieren sich dabei oft an den Ampelfarben[^4]. Anhand der Positionen der Risiken im Raster kann die Bedeutung eines Riskos eingeschätzt werden[^5].
-
+![Risikomatrix](https://user-images.githubusercontent.com/78257976/140325882-d67014be-7d19-49cd-bd07-ae6e92c8b808.jpg)
 # Nutzen und Kritik
 
 * Nutzen
