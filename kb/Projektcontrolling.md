@@ -10,7 +10,7 @@ definiert wird.
 In der folgenden Abbildung ist der projektspezifische „Controlling Regelkreis“ illustriert.
 
 ![Controlling Regelkreis](Projektcontrolling/ControllingRegelkreis.jpg)
-* Conrolling Regelkreis * [^3]
+*Controlling Regelkreis.* [^3]
 
 
 
