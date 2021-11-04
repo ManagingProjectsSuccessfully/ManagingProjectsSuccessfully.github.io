@@ -16,15 +16,10 @@ oben im Front-Matter (Bereich zwischen den `---`).
 Durch die Risikomatrix bzw. Risikoportfolio oder Risiko-Map wird die Wahrscheinlichkeit bei dem negative Ereignisse aufkommen und deren Auswirkungen in einer Tabelle ins Verhältnis gesetzt[^1]. Die Risikomatrix ist eine zweidimensionale Darstellung welche der systematischen Evaluierung und Bewertung von Risiken dienen soll. Des Weiteren ist die Risiskomatrix ein Instrument aus der Risikoanalyse und erfolgt in verschiedenen Varianten[^1].    			
 
 
-# Aufbau
+# Aufbau und Berechnung
 Bei der tabellarischen Darstellung der Risikomatrix wird an der y-Achse die Eintrittswahrscheinlichkeit und an der x-Achse die Schadenshöhe angegeben[^2], da es aber keine einheitliche Darstellungsform gibt kann die Matrix auch eine umgekehrte Beschriftung der Achsen haben[^3].
 
 Die Spalten- und Zeilenbeschriftung erfolgt durch Indizes[^4] oder durch beschreibende Angaben wie Prozente oder Begriffe wie niedrig bis hoch[^5]. In der Matrix werden die Risiken so positioniert, sodass eine Präferenzierung und vergleichende Darstellung besteht[^6]. Durch Färbung der Zellen werden die Risikobereiche gekennzeichnet und orientieren sich dabei oft an den Ampelfarben[^4]. Anhand der Positionen der Risiken im Raster kann die Bedeutung eines Riskos eingeschätzt werden[^5].
-
-#
-
-
-
 
 
 
@@ -36,17 +31,18 @@ Die Spalten- und Zeilenbeschriftung erfolgt durch Indizes[^4] oder durch beschre
 * Kritik
 
 ## Nutzen
-Die Risikomatrix hilft bei der Beurteilung von Risiken, da es das Ergebnis der Riskoanalyse und Risikobewertung ist, ist es ein wichtiges Instrument des Projekt- und Risikomanagements[^7]. Durch Multiplikation der Eintrittswahrscheinlichkeit und der Schadenshöhe des Risikos kann der Schadenserwartungswert berechnet werden. Unter anderem ist es möglich, dass bei der Berechnung des Schadenserwartungswertes sich die beiden Faktoren gegeseitig einschränken und es zu einer falschen Beurteilung über das Risiko kommt[^8].
+Die Risikomatrix hilft bei der Beurteilung von Risiken, da es das Ergebnis der Riskoanalyse und Risikobewertung ist, ist es ein wichtiges Instrument des Projekt- und Risikomanagements[^7]. Durch Multiplikation der Eintrittswahrscheinlichkeit und der Schadenshöhe des Risikos kann der Schadenserwartungswert berechnet werden. Unter anderem ist es möglich, dass bei der Berechnung des Schadenserwartungswertes sich die beiden Faktoren gegeseitig einschränken und es zu einer falschen Beurteilung über ein Risiko kommt[^8].
+Des Weiteren ist die Riskomatrix ideal für die Visualisierung und Kommunikation von Risikobewertungen und geben Auskunft über die Anzahl der Kritikalität von Risiken. Durch die Riskomatrix wird die Transparenz im Umgang mit Risiken als auch das Risikoverständnis in der Organisationen gefördert[^11].  
 
 ## Nutzen im Risikomangement
 Im Risikomanagement werden Elemente die einen negativen Einfluss auf das Projekt haben identifiziert, überwacht und gesteuert. Die Bewertung von Risiken erfolgt Anhand der Wahrscheinlichkeiten sowie dem zu erwartenden Verlust im Falle eines Schadens. Ab einer Eintrittswahrscheinlichkeit von 25% und einer durchschnittlichen Schadenshöhe, welche die jeweilige Organisation als Mittel bewertet, werden Risiken einer aktiven Steuerung unterzogen. Des Weiteren kann ein Risiko angenommen, gemildert oder verlagert werden. 
 Falls eine Annahme des Risikos in betracht gezogen wird werden keine Steuerungsmaßnahmen durchgeführt. Bei Milderung oder Verlagerung werden Maßnahmen ergriffen, welche beispielsweise, die Beschaffung von mehr Personal zum entgegenwirken von krankheitsbedingten Ausfällen, sein kann[^8].
 
 ## Nutzen im Projektmanagement
-Im Projektmanagement dient die Risikomatrix der übersichtlichen Veranschaulichung der Risiken eines Projekts oder Projektgruppen und der Darstellung von der Risikobereitschaft der Trägerorganisation.
+Im Projektmanagement dient die Risikomatrix der übersichtlichen Veranschaulichung der Risiken eines Projekts oder Projektgruppe und der Darstellung von der Risikobereitschaft der Trägerorganisation. Des Weiteren wird die Matrix zur Priosierung von Risiken und zur Erhebung von Maßnahmen für das Risikomanagement verwendet[^10].
 
-
-
+##Kritik
+Zunächst ist die Aussagekraft der Risikomatrix sehr schwach, da sie nur eine zeitabhängige Darstellung von Einzelrisken ist, bedeutet die Variablen können sich jederzeit verändern. Des Weiteren ist zu verstehen, dass die Wechselwirkungen zwischen den Einzelrisiken, als auch die Dynamik von Einzelrisiken in der Riskomatrix nicht betrachtet werden[^8]. Außerdem ist die Risikomatrix auf eine Binominalverteilung der Risiken angewiesen, damit die Einzelrisiken durch Schadensausmaß und Eintrittswahrscheinlichkeit bewertet werden können, jedoch ist diese Verteilung im Rahmen eines Unternehmens selten vorzufinden[^12].
 
 
 
@@ -84,6 +80,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * [Eintrittwahrscheinlichkeit](https://de.wikipedia.org/wiki/Eintrittswahrscheinlichkeit)
 * [Schadenserwartungswert](https://www.controlling-wiki.com/de/index.php/Risikomanagementsystem_(RMS))
 * [Risikobereitschaft](https://www.projektmagazin.de/glossarterm/risikobereitschaft)
+* [Risikomanagement](https://de.wikipedia.org/wiki/Risikomanagement)
 
 # Weiterführende Literatur
 
@@ -100,3 +97,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^7]: https://project-base.org/projektmanagement-glossar/risikomatrix/ Aufgerufen: 03.11.2021 16:00 Uhr
 [^8]: Marc Diedrichs: Risikomanagement und Risikocontrolling. 3. Auflage. Vahlen Verlag, München 2012, S. 93–95.
 [^9]: https://project-base.org/projektmanagement-glossar/risikomatrix/ Aufgerufen 03.11.2021 17:30 Uhr
+[^10]: https://www.projektmagazin.de/glossarterm/risikomatrix Aufgerufen 04.11.2021 11:30 Uhr 
+[^11]: https://t2informatik.de/wissen-kompakt/risikomatrix/ Aufgerufen 04.11.2021 12:00 Uhr
+[^12]: Werner Gleißner: Grundlagen des Risikomanagements im Unternehmen. 2. Auflage. Vahlen Verlag, München 2011, S. 145.
