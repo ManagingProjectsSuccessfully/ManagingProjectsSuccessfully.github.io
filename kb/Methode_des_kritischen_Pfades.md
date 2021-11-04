@@ -1,8 +1,8 @@
 ---
 title: Methode_des_kritischen_Pfades
-tags: agil klassisch
+tags:  klassisch
 author: ChristinaHartung
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Methode_des_kritischen_Pfades um ein erstes Verständnis dafür zu schaffen um was es hier geht.
