@@ -3,7 +3,7 @@ title: Risikomatrix
 tags: klassisch
 author: Aseuc
 anrechnung: k
----
+Risikomatrix
 
 Kurzbeschreibung zu Risikomatrix um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
