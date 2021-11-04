@@ -13,10 +13,6 @@ In der folgenden Abbildung ist der projektspezifische â€Controlling Regelkreisâ
 
 *Controlling Regelkreis.* [^3]
 
-
-
-oben im Front-Matter (Bereich zwischen den `---`).
-
 # Teilbereiche des Projektcontrollings [^2]
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
