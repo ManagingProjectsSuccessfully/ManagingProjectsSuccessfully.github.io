@@ -5,7 +5,7 @@ author: hake1110
 anrechnung: k
 ---
 
-Projektcontrolling ist ein Bestandteil des [Projektmanagements](Projektmanagement.md). Der Begriff Controlling wird häufig fälschlicherweise synonym für Kontrolle verwendet, umfasst allerdings weitaus mehr. Es handelt sich vielmehr um einen Steuerungsprozess, der durch die [DIN 69901-5](https://de.wikipedia.org/wiki/DIN_69901) "Sicherung des Erreichens aller Projektziele durch Ist-Datenerfassung, Soll-Ist-Vergleich, Analyse von Abweichungen, Bewertung der Abweichungen gegebenenfalls mit Korrekturvorschlägen, Maßnahmenplanung, Steuerung der Durchführung von Maßnahmen"
+Projektcontrolling ist ein Bestandteil des [Projektmanagements](Projektmanagement.md). Der Begriff Controlling wird häufig fälschlicherweise synonym für Kontrolle verwendet, umfasst allerdings weitaus mehr. Es handelt sich vielmehr um einen Steuerungs- und Koordinationsprozess[^4], der durch die [DIN 69901-5](https://de.wikipedia.org/wiki/DIN_69901) "Sicherung des Erreichens aller Projektziele durch Ist-Datenerfassung, Soll-Ist-Vergleich, Analyse von Abweichungen, Bewertung der Abweichungen gegebenenfalls mit Korrekturvorschlägen, Maßnahmenplanung, Steuerung der Durchführung von Maßnahmen"
 definiert wird.
 In der folgenden Abbildung ist der projektspezifische „Controlling Regelkreis“ illustriert.
 
@@ -111,5 +111,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [Projektcontrolling](https://refa.de/service/refa-lexikon/projektcontrolling)
 [^3]: [Controlling-Regelkreis](https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/projektcontrolling/)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: [https://doi.org/10.1007/978-3-658-23714-1)
 
