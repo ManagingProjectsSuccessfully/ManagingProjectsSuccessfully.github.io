@@ -5,12 +5,16 @@ author: xuansun88
 anrechnung: k 
 ---
 
-Kurzbeschreibung22222 zu Faehigkeiten_Projektleiter um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Der [Projektleiter](https://de.wikipedia.org/wiki/Projektleiter) ist für die operative Planung und Steuerung des Projektes verantwortlich. Um ein Projekt zu leiten und dieses erforlgreich zum Ziel zu führen benötigt ein Projektleiter neben fachlichen Kompetenz auch verschiedenste Fähigkeiten.   
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Welche Fähigkeiten benötigt ein Projektleiter?
+
+Eine der wichtigsten Personen für den reibungslosen Projektablauf ist der Projektleiter. Ein Projektleiter hat die Aufgabe das Projekt zu initiieren und erfolgreich zum Abschluss zu bringen. Er definiert in der Vorbereitungsphase das Ziel, Budget und Termine und plant die einzelnen Projektschritte. Das Team, das für die Durchführung des Projekts bestimmt ist, koordiniert und motiviert er. Er legt Verantwortlichkeiten fest und verteilt die anfallenden Aufgaben. Dabei ist eine klare und eindeutige Kommunikation äußerst wichtig, damit alle Beteiligten die Aufgaben und Ziele verstehen und umsetzen können[^1]. 
+
+Im Idealfall füllt er vier Rollen aus. 
+
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -97,8 +101,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1] :[Projektleiter](https://refa.de/berufe/projektleiter)
+
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
