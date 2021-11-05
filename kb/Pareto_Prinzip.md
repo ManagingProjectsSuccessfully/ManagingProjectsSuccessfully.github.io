@@ -2,54 +2,39 @@
 title: Pareto_Prinzip
 tags: agil klassisch
 author: nahihiry
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Pareto_Prinzip um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Pareto Prinzip hat ein großes Ziel: Man möchte durch einen minimalem Aufwand ein möglichst gutes Ergebnis erzielen. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Bedeutung des Pareto Prinzips
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Das Pareto-Prinzip wird des öfteren auch als "80/20-Prinzip" bezeichnet. Dabei handelt es sich bei den zwei gegeben Zahlen um variable Werte, die jeweils den Aufwand und das letzliche Endergebnis darstellen [^1]. 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Im Allgmeinen kann gesagt werden, dass es stets so ist, dass immer eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen [^2]. Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto Prinzip sehr  effizient ist, da demnach mit wenig Einsatz vieles erreichen lässt.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Im Bereich des Zeitmanagements ist dementsprechend des Öfteren vom Pareto Prinzip die Rede. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches die wichtigsten Bedingungen erfüllt [^3].
+Wenn man sich auf die wichtigen Dinge beschränkt und seine Zeit somit auf genau diese Aspekte beschränkt, wird bereits das meiste erreicht, was erreicht werden muss. Der Aufwand, der in den Dingen steckt, die nur 20% des Ergebnisses erfüllen, liegt also bei 80% und ist schlussfolgernd viel zeitintensiver.
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des Pareto Prinzips. Oftmals sind die letzten 20%, die das Endergebnis perfektionieren würden nicht zwingend notwendig, sodass die Zeit, die dadurch wiederum gespart wird für andere Bereiche genutzt werden kann [^4].
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+# Ursprung des Pareto Prinzips
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Einkommensschere ist schon seit Jahrhunderten von großer Bedeutung - insbesondere in der Politik. Es wird häufig betont, dass die Armen immer ärmer und die Reichen immer reicher werden. Die Diskrepanz zwischen Arm und Reich scheint immer größer zu werden und durch die Coronavirus-Krise hat sich die Gesamtsituation noch weiter zugespitzt [^5].
+Vilfredo Pareto war ein italienischer Ökonom und hat bereits im 19. Jahrhundert die Unterschiede im Vermögen der Population analysiert.
+Das Ergebnis seiner Analyse war das 80% des Gesamtvermögens im Besitz von nur 20% der Bevölkerung sei.
+Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilung des Vermögens zutrifft. In vielen Situation ist die 80/20-Regel genauso passend [^6].
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Beispielhafte Situationen des Pareto Prinzips: (Alfred Ultsch blabla)
 
-![Beispielabbildung](Pareto_Prinzip/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
+| 20% Aufwand   | 80% Ergebnis  | 
+| ------------- | ------------- |
+|  Kunden       |   Umsatz      |
+|  Produkte     |   Umsatz      |
+|  Mitarbeiter  |   Fehltage    |
 
 * das
 * hier 
@@ -62,7 +47,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
+| First Header  | Second Header | 
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
@@ -97,8 +82,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
+[^2]: Alfred Ultsch, Eine Begründung der Pareto-80/20 Regel und Grenzwerte für die ABC-Analyse, Seite 1
+[^3]: Stephan Rusch, Stressmanagement, Seite 118
+[^4]: https://www.gruenderlexikon.de/checkliste/fuehren/zeitmanagement/pareto-prinzip/
+[^5]: https://www.dw.com/de/wachsende-kluft-zwischen-arm-und-reich-in-deutschland/a-57506792
+[^6]: Hauke Christiansen, Schulentwicklung proaktiv, kreativ, effektiv - Rückenwind für Schulleitungen
+
 
