@@ -98,9 +98,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1] :[Projektleiter](https://refa.de/berufe/projektleiter)
+[^1]: [Projektleiter A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://refa.de/berufe/projektleiter)
 
-[^2] :[Was Projektleiter können müssen](https://www.business-wissen.de/artikel/projektmanagement-was-projektleiter-koennen-muessen/) 
+[^2] :[Was Projektleiter können müssen](https://www.business-wissen.de/artikel/projektmanagement-was-projektleiter-koennen-muessen/)
+)
+
+
+[^5]: [Projektleiter](https://www.experteer.de/magazin/welche-eigenschaften-braucht-ein-guter-projektleiter/)
 
 [^3]: [Welche Eigenschaften braucht ein guter Projektleiter?](https://www.experteer.de/magazin/welche-eigenschaften-braucht-ein-guter-projektleiter/)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
