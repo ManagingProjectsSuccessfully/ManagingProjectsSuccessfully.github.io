@@ -11,7 +11,7 @@ Das Pareto Prinzip hat ein großes Ziel: Man möchte durch einen minimalem Aufwa
 
 Das Pareto-Prinzip wird des öfteren auch als "80/20-Prinzip" bezeichnet. Bei den zwei gegeben Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand und das letzliche Endergebnis darstellen sollen [^1]. 
 
-Im Allgmeinen kann gesagt werden, dass es stets so ist, dass immer eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen [^2]. Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto Prinzip sehr  effizient ist, da demnach mit wenig Einsatz vieles erreichen lässt.
+Im Allgmeinen kann gesagt werden, dass es stets so ist, dass immer eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen [^2]. Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto Prinzip sehr  effizient ist, da demnach mit einem geringen Einsatz vieles erreicht werden kann.
 
 Im Bereich des Zeitmanagements ist dementsprechend des Öfteren vom Pareto Prinzip die Rede. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches die wichtigsten Bedingungen erfüllt [^3].
 Wenn man sich auf die wichtigen Dinge beschränkt und seine Zeit somit auf genau diese Aspekte beschränkt, wird bereits das meiste erreicht, was erreicht werden muss. Der Aufwand, der in den Dingen steckt, die nur 20% des Ergebnisses erfüllen, liegt also bei 80% und ist schlussfolgernd viel zeitintensiver.
