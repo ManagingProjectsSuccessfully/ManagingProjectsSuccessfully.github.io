@@ -26,87 +26,21 @@ Hierbei handelt es sich um die klassiche Form des Proof of Concepts. Mit einem k
 
 So ist das Projekt erfolgreich und ein Nachweis den möglichen Investoren reicht in der Regel als Proof of Concept aus. Der einzige Nachteil dieser Idee ist, dass die Idee eine höhere Aufmerksamkeit erlangt und so etwaige Konkurrenten auf die Idee aufmerksam werden könnten.
 
-_____
+# Proof of Concept in der IT [^3]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Proof of Concept in der IT
-
-IT-Projekte sind ein klassischer Anwendungsbereich für einen Proof of Concept. In den Entwicklungsprozess für neue Anwendungssoftware oder für IT-Sicherheitslösungen wird dieser Projektschritt sehr häufig integriert. Beispielsweise wird für eine komplexe IT-Systemumgebung zunächst ein Prototyp geschaffen, um die Abhängigkeit der verschiedenen Anwendungen und die Funktionalität von Schnittstellen zu demonstrieren. Hierdurch erhält das Projektteam außerdem eine konkrete Basis für seine weitere Arbeit. In der IT-Sicherheit dienen solche Konzepttests auch dazu, Sicherheitslücken in Betriebssystemen oder Anwendungssoftware nachzuweisen.
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Ein klasschischer Anwendungsbereich eines Proof of Concepts sind IT-Projekte. Bei komplexen Implementierungsprojekten wird die zu implementierende Software zunächst rudimentär und mich technischen Durchstichen in die bestehenede Systemlandschaft integriert. Diese Integration zeigt Abhängigkeiten und Schwierigkeiten zu den Umsystemen auf die Umsetzungsprojekt geachtet werden muss. In einem Entwicklungsprozess für neue Anwendungssoftware oder für IT-Sicherheitslösungen wird dieser Projektschritt sehr häufig integriert und legt den Grundstein für die folgenden Projektabschnitte. Das Projektteam erhält durch den Proof of Concept eine konkrete Arbeitsbasis, auf die in der Folge aufgesetzt werden kann. In der IT-Sicherheit dienen solche Konzepttests auch dazu, Sicherheitslücken in Betriebssystemen oder Anwendungssoftware nachzuweisen.
 
 ![Beispielabbildung](Proof_of_Concept/test-file.jpg)
 
 *lustiges Testbild*
 
-# Proof of Concept in der Betriebswirtschaft
+# Proof of Concept in der Betriebswirtschaft [^3]
 
-Auch Geschäftsideen, Unternehmensgründungen und die Entwicklung von Neuprodukten können einem Proof of Concept unterworfen werden. Der Konzepttest erbringt hier einen Nachweis, dass die Idee, das geplante Geschäftsmodell oder neue Produkte und Dienstleistungen aus betriebswirtschaftlicher Sicht funktionieren. Ein aussagefähiger Proof of Concept ist in der Praxis eine Voraussetzung dafür, Investoren für eigene Projekte zu gewinnen.
+Nicht nur in der Softwareentwicklung ist der Proof of Concept weit verbreitet, auch Geschäftsideen, Unternehmensgründungen und die Entwicklung von Neuprodukten können einem Proof of Concept unterworfen werden. Hierbei wird, neben der generellen Machbarkeit, auch getetset inwieweit die Idee, das geplante Geschäftsmodell oder neue Produkte und Dienstleistungen aus betriebswirtschaftlicher Sicht funktionieren. In der Praxis ist ein umfangreicher und aussagefähiger Proof of Concept eine entscheidenede Voraussetzung dafür, Investoren für das eigene Projekte zu gewinnen.[^3]
 
-Im Kern geht es darum, die wirtschaftlichen Chancen der Neuentwicklung mit Blick auf die reale Marktentwicklung zu testen. Betriebswirtschaftliche Kalkulationen sind hier ebenso eingeschlossen, wie Markt- und Wettbewerbsbeobachtungen, vor allem aber der Erwerb umfassenden Wissens über potentielle Kunden. Optimal ist, wenn reale Kunden so früh wie möglich in die Produktentwicklung eingebunden werden können.
+Kern des betriebswirtschaftlichen Proof of Concepts ist die wirtschaftlichen Chancen der Neuentwicklung mit Blick auf die reale Marktentwicklung zu testen. Eine Kosten-Nutzen-Analyse ist dabei oftmals eine sehr hilfreiche Methodik, da sie betriebswirtschaftliche Kalkulationen ebenso, wie Markt- und Wettbewerbsbeobachtungen einschließt. Darüber hinaus ist der Erwerb umfassenden Wissens über potentielle Kunden entscheidend. Soweit es die neue Idee zulässt sollten reale Kunden beziehungsweise spätere Nutzer frühstmöglich in den Produktentwicklungsprozess eingebunden werden.
 
-Betriebswirtschaftliche Proofs of Concept werden idealerweise nicht als ein singulärer Akt oder durch das Erreichen einiger weniger Meilensteine definiert, sondern als ein fortlaufender Prozess begriffen, in dem die Markt- und Gewinnreife des eigenen Geschäfts- oder Produktkonzepts immer wieder mit den Realitäten des Marktes und den Bedürfnissen potentieller Kunden abgeglichen wird. In dieser Form können sie die Kosten und Risiken des Markteintritts erheblich reduzieren.
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Anders als bei einem Proof of Concept im IT-Bereich werden betriebswirtschaftliche Proofs of Concepts idealerweise nicht als einmaliger Akt oder durch das Erreichen eines Meilensteins definiert, sondern als ein andauernder fortlaufender Prozess begriffen. Das eigene Geschäfts- oder Produktmodell wird während des Entwicklungprozesses stetig mit der Markt- und Gewinnreife und der Realitäten des Marktes und den Bedürfnissen potentieller Kunden abgeglichen. Durch diese Form lassen sich Kosten und Risiken des Markteintritts dutlich reduzieren.
 
 # Siehe auch
 
@@ -119,9 +53,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: [Basic Formatting Syntax for GitHub flavored Markdown](https://www.it-business.de/was-ist-ein-proof-of-concept-a-666615/)
-[^2]: [Basic Formatting Syntax for GitHub flavored Markdown](https://de.wikipedia.org/wiki/Proof_of_Concept)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/proof-of-concept/)
+[^1]: [https://www.it-business.de/was-ist-ein-proof-of-concept-a-666615/](https://www.it-business.de/was-ist-ein-proof-of-concept-a-666615/)
+[^2]: [https://de.wikipedia.org/wiki/Proof_of_Concept](https://de.wikipedia.org/wiki/Proof_of_Concept)
+[^3]: [https://www.businessinsider.de/gruenderszene/lexikon/begriffe/proof-of-concept/](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/proof-of-concept/)
 
 
 ______
