@@ -97,7 +97,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * [6-3-5-Methode](6_3_5_Methode.md)
 * [Brainstorming](Brainstorming.md)
 * [Brainwriting](Brainwriting.md)
-* [Walt Disney Methode.md](Walt_Disney_Methode.md)
+* [Walt Disney Methode](Walt_Disney_Methode.md)
 * 
 * 
 * 
