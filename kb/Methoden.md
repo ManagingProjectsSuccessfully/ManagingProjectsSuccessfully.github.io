@@ -95,7 +95,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * [6-3-5-Methode](6_3_5_Methode.md)
+* [Brainstorming](Brainstorming.md)
+* [Brainwriting](Brainwriting.md)
 * [Walt Disney Methode.md](Walt_Disney_Methode.md)
+* 
 * 
 * 
 * [Barcamp-Methode](Barcamp_Methode.md)
