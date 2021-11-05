@@ -13,6 +13,8 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von Projekten. Die Ausführung dieser Projekte wird komplett oder teilweise vorgegeben.[^1]
 
+Kreativitätsmethoden dienen im Bezug auf Projektmanagement dazu, innovative Ideen zu sammeln.
+
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -34,7 +36,7 @@ Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, h
 Gniedlaskubf daneem. 
 
 
-# Aspekt 1
+# Prjektplanungsmethoden
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -46,7 +48,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Kreativitätsmethoden
 
 * das
 * hier 
@@ -95,6 +97,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: [Projektmanagementmethode](https://de.wikipedia.org/wiki/Projektmanagementmethode)
+
 
 [^100]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^200]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
