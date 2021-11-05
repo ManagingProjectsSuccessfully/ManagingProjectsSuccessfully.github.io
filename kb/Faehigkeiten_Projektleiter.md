@@ -12,7 +12,7 @@ Der [Projektleiter](https://de.wikipedia.org/wiki/Projektleiter) ist für die op
 
 Eine der wichtigsten Personen für den reibungslosen Projektablauf ist der Projektleiter. Ein Projektleiter hat die Aufgabe das Projekt zu initiieren und erfolgreich zum Abschluss zu bringen. Er definiert in der Vorbereitungsphase das Ziel, Budget und Termine und plant die einzelnen Projektschritte. Das Team, das für die Durchführung des Projekts bestimmt ist, koordiniert und motiviert er. Er legt Verantwortlichkeiten fest und verteilt die anfallenden Aufgaben. Dabei ist eine klare und eindeutige Kommunikation äußerst wichtig, damit alle Beteiligten die Aufgaben und Ziele verstehen und umsetzen können[^1]. 
 
-Im Idealfall füllt der Projektleiter vier Rollen aus: Fachmann, Projektmanager, Führungskraft und Unternehmer. 
+Als Projektleiter muss man sowohl fundiertes fachliches Know-how, als auch die Kompetenzen einer Führungskraft, eines Projektmanagers und eines Unternehmers mitbringen. Im Idealfall füllt der Projektleiter vier Rollen aus.
 
 ![Die 4 Rollen des Projektleiters](Faehigkeiten_Projektleiter/4_Rollen_Projektleiter.jpg)
 
