@@ -30,6 +30,7 @@ Die meisten Projektleiter erfüllen die fachlichen Anforderungen. Sie sind in de
 
 # Fähigkeiten des Projektleiter als Projektmanager
 
+Ein Projektleiter muss zudem die Instrumente zum Planen und Steuern von Projekten kennen: Er muss in der Lage sein, die Rahmenbedingungen zu stecken, in denen Abläufe durchgeführt werden und innerhalb derer die Projektmitarbeiter selbständig agieren können. Danach ist es seine Aufgabe, für die Durchführung des Projektes zu sorgen, es zu überwachen und das Team zu leiten. Diese Anforderungen fallen unter die Kategorie „Projektmanagement“ und beinhalten die Fähigkeit, das Projekt zu initiieren, zu definieren, zu planen, durchzuführen, zu steuern und zu bewerten[^1].
 
 * Projektstrukturplan 
 * Aufwand schätzen und Budgetverwaltung
@@ -54,7 +55,7 @@ Koordinierungsaufgaben, Kontaktfreudigkeit, Überzeugungsfähigkeit, Durchsetzun
 
 # Fähigkeiten des Projektleiters als Unternehmer
 
-Ein Projektleiter sollte ebenfalls unternehmerisches Geschick mitbringen. Er muss das vorhandene Budget im Auge behalten und geeignete Strategien entwickeln, um dieses optimal zu nutzen. Außerdem muss er in der Lage sein, eventuelle Risiken frühzeitig zu erkennen und zu umgehen[^3].
+Auch wenn der Projektleiter kein Unternehmen leitet, ähnelt die Aufgabe der eines Geschäftsführers – im Kleinformat und für begrenzte Zeit: Es gilt, Budgets zu planen und mit ihnen zu wirtschaften, Risiken zu identifizieren und zu bewerten, Handlungsstrategien zu entwerfen. Auch Marketingaktivitäten gehören dazu, denn das Projekt muss nach außen gut verkauft und bekannt gemacht werden, damit es Erfolg hat und man, wenn nötig, Partner gewinnen kann. Erfahrene Projektleiter sind daher „Unternehmer im Unternehmen“[^1].
 
 * Risikomanagement
 * Überblick über das ganze Projekt
@@ -102,7 +103,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^2]: [Was Projektleiter können müssen](https://www.business-wissen.de/artikel/projektmanagement-was-projektleiter-koennen-muessen/)
 )
-
 
 [^3]: [Welche Eigenschaften braucht ein guter Projektleiter?](https://www.experteer.de/magazin/welche-eigenschaften-braucht-ein-guter-projektleiter/)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
