@@ -20,9 +20,9 @@ Kreativitätsmethoden dienen im Bezug auf Projektmanagement dazu, innovative Ide
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-Literatur kann via Fußnoten angegeben werden[^100]. Es gibt auch das PMBOK[^200].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^300] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^400]. 
+Literatur kann via Fußnoten angegeben werden[^111]. Es gibt auch das PMBOK[^222].
+Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^333] nachsehen. 
+Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^444]. 
 
 Das PMBOK[^200] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
@@ -107,8 +107,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 
 
-[^100]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^200]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^300]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^400]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^111]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^222]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^333]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^444]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
