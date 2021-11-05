@@ -5,7 +5,7 @@ author: nahihiry
 anrechnung: k 
 ---
 
-Das Pareto Prinzip hat ein großes Ziel: Man möchte durch einen minimalem Aufwand ein möglichst gutes Ergebnis erzielen. 
+Das Pareto Prinzip hat ein großes Ziel: Man möchte mit einen minimalen Aufwand ein möglichst gutes Ergebnis erzielen. 
 
 # Bedeutung des Pareto Prinzips
 
