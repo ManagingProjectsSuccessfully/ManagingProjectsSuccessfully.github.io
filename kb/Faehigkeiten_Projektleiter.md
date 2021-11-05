@@ -28,7 +28,7 @@ Die meisten Projektleiter erfüllen die fachlichen Anforderungen. Sie sind in de
 * [Fachkompetenz](https://de.wikipedia.org/wiki/Fachkompetenz)
 
 
-# Fähigkeiten des Projektleiter als Projektmanager
+# Fähigkeiten des Projektleiters als Projektmanager
 
 Ein Projektleiter muss zudem die Instrumente zum Planen und Steuern von Projekten kennen: Er muss in der Lage sein, die Rahmenbedingungen zu stecken, in denen Abläufe durchgeführt werden und innerhalb derer die Projektmitarbeiter selbständig agieren können. Danach ist es seine Aufgabe, für die Durchführung des Projektes zu sorgen, es zu überwachen und das Team zu leiten. Diese Anforderungen fallen unter die Kategorie „Projektmanagement“ und beinhalten die Fähigkeit, das Projekt zu initiieren, zu definieren, zu planen, durchzuführen, zu steuern und zu bewerten[^1].
 
@@ -41,7 +41,7 @@ Ein Projektleiter muss zudem die Instrumente zum Planen und Steuern von Projekte
 
 
 
-# Fähigkeiten des Projektleiter als Führungskraft
+# Fähigkeiten des Projektleiters als Führungskraft
 
 Projektleiter sind Führungskräfte. Ein Projektleiter führt ein Projektteam. Er sollte in der Lage sein, die sich teils widersprechenden Interessen von Kunden, Vorgesetzten, involvierten Abteilungen und den eigenen Projektmitarbeitern zu managen. Der Umgang mit den verschiedenen Stakeholdern eines Projektes erfordert ein hohes Maß an sozialer Kompetenz. Zudem sind Soft Skills auch sehr wichtig für Projektmanagement[^2]
 
@@ -60,33 +60,17 @@ Auch wenn der Projektleiter kein Unternehmen leitet, ähnelt die Aufgabe der ein
 * Risikomanagement
 * Überblick über das ganze Projekt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Fähigkeiten des Projektleiters in Digitalisierungsumgebung
 
-So kann man eine Tabelle erstellen:
+Entwicklungen bei digitalen Technologien verändern Verhalten, Produktivität und Leistung[^4]. Da Unternehmen Projekte zur Einführung von Technologie einsetzen, benötigen Projektleiter bestimmte digitale Fähigkeiten[^5]. Projektleiter automatisieren sich wiederholende Aufgaben und ermöglichen die Genauigkeit bei der Schätzung von Aufgaben mithilfe von Künstliche Intelligenz. Daher entwickeln sich  die Fähigkeiten, die von einem Projektleiter benötigt werden, weiter. 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+* Datenwissenschaft: Datenmanagement Analytik mit große Datenmengen
+* Sicherheit und Datenschutz Wissen
+* Innovative Denkweise
+* Fähigkeit zu machen datengesteuerte Entscheidungen
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+# Fähigkeiten des Projektleiters zu entwickeln
 
 # Siehe auch
 
@@ -105,5 +89,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 )
 
 [^3]: [Welche Eigenschaften braucht ein guter Projektleiter?](https://www.experteer.de/magazin/welche-eigenschaften-braucht-ein-guter-projektleiter/)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
+[^4]: Morris, PWG, 2013. Rekonstruktion des Projektmanagements erneut: eine Wissensperspektive. Projektmanagement-Journal, 44 (5), p. 6–23.
+
+[^5]: PMI, 2018. DER PROJEKTMANAGER DER ZUKUNFT: Entwicklung von Projektmanagementfähigkeiten im digitalen Zeitalter, um in disruptiven Zeiten erfolgreich zu sein, sl: Projektmanagement-Institut.
