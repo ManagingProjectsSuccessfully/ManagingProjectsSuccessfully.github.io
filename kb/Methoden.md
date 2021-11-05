@@ -93,6 +93,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 
+* [6-3-5-Methode](6_3_5_Methode.md)
+* 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Methoden.md)
 
