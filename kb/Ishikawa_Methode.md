@@ -2,24 +2,36 @@
 title: Ishikawa_Methode
 tags: agil klassisch
 author: schooschef
-anrechnung: k oder a
+anrechnung: k 
 ---
+Die Ishika-Methode ist eine Möglickeit die einflussnehmenden Faktoren und ihre Wirkung in einem Projekt graphisch darzustellen.
 
-Kurzbeschreibung zu Ishikawa_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Ishika-Methode im Einsatz
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Die Ishika-Methode, benannt nach seinem Erfinder und sogenannten "Vater der japanischen Qualitätskontrolle" [Ishikawa Kaoru](https://de.wikipedia.org/wiki/Ishikawa_Kaoru), 
+wird besonders zur Auffindung von Ursachen bei Problemen in einem Projekt angewendet. Man zeigt mögliche Ursachen für das 
+entstandene Problem auf um einen Makro-Blick auf das Problem zu bekommen.  
+Im [DMAIC-Zyklus](https://refa.de/service/refa-lexikon/dmaic) kommt diese Methode öfters in der *Define* Zyklusperiode zur Anwendung.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+## Der Aufbau
+Man stelle sich das Diagramm als *Fisch* vor:  
+Hier ergibt das Problem den Kopf.  
+Die möglichen Kategorien von Ursachen für das Problem bilden die Hauptgräten.  
+Konkrete Ursachen werden als Verzweigungen unter den Gräten dargestellt.  
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+![Fischskizze d. Diagramms](Ishikawa_Methode/ishikawa1-705x449.jpg "Fishy Fish")
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+*Fischgräten-Diagramm[^5]*
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Das Ishika-Diagramm wird auf das **8M-Modell** genannt, da meist folgende Ursachenkategorien verwendet werden:  
+ *Mensch  
+ *Material  
+ *Methode  
+ *Maschine  
+ *Mitwelt  
+ *Management  
+ *Messbarkeit  
+ *Money  
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
@@ -37,19 +49,27 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Synonyme
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die Ishaka Methode ist auch bekannt als:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* Ishika-Diagramm
+* Fischgräten-Diagramm (Fishbone-Diagram)
+* 8M-Methode
+* Ursachen-Wirkung-Analyse (Cause and Effect Diagram)
 
-![Beispielabbildung](Ishikawa_Methode/test-file.jpg)
 
-*lustiges Testbild*
 
-# Aspekt 2
+# Vorteile
+
+* das
+* hier 
+* ist
+* eine 
+* Punkteliste
+  - mit unterpunkt
+
+# Nachteile
 
 * das
 * hier 
@@ -90,15 +110,18 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Ishikawa_Methode.md)
+* [Project management concepts, methods and application](https://www.emerald.com/insight/content/doi/10.1108/01443570310481559/full/html?casa_token=bT1rYjg7QRoAAAAA:TAkzKHlihH29M0AleiYCA4FAKU0_LJMIFoKhSpR1BbjAlWR-I6Mo9PHgh-KarAwQT9MAtw9_zuElHk-VIFArP6LWZ5dqGjg_ni2dKA184QkbiwVX4cQ)
+* [website](https://de-academic.com/dic.nsf/dewiki/666650)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
+* [Unterstützende Tools, Ishikawa-Diagramm und statistische Methoden](https://link.springer.com/chapter/10.1007/978-3-658-35208-0_3)
+* 
 # Quellen
 
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^5]: [Problemlösung im Projekt: So funktioniert die Ishikawa-Methode](https://projekte-leicht-gemacht.de/wp-content/uploads/2015/02/ishikawa1-705x449.jpg)
 
