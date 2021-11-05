@@ -36,7 +36,7 @@ Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, h
 Gniedlaskubf daneem. 
 
 
-# Prjektplanungsmethoden
+# Projektplanungsmethoden
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -50,12 +50,18 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 # Kreativitätsmethoden
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Besonders bekannt:
+* 6-3-5-Methode
+* Brainstorming
+* Brainwriting
+* Design Thinking
+* Mind Mapping
+* Morphologischer Kasten
+* Walt Disney Methode[^2]
+ 
+ 
+* das ist eine Punkteliste
+  - mit Unterpunkt
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -97,6 +103,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: [Projektmanagementmethode](https://de.wikipedia.org/wiki/Projektmanagementmethode)
+[^2]: [Kreativi­täts­techniken: 7 Methoden für neue Ideen](https://www.einstein1.net/kreativitaetstechniken/)
 
 
 [^100]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
