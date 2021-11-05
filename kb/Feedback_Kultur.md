@@ -102,3 +102,37 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
+# Stoffsammlung
+Feedback-Kultur - Definition
+Kraus & Partner - Lexikon - Wirtschaftsbegriffe einfach erklärt
+Definition - und Erklärung des Management-Begriffs "Feedback-Kultur":
+Der Begriff Feedbackkultur bezeichnet eine Kultur in Unternehmen, die geprägt ist von wechselseitigem Vertrauen und in der sich die Mitarbeiter hierarchie- und funktionsübergreifend regelmäßig eine Rückmeldung über ihre Leistung, ihr Verhalten und ihre Wirkung auf Dritte geben.
+Feedbackkultur: Ziel
+Das Ziel einer Feedbackkultur ist es u.a., dass die Mitarbeiter hierarchie-, bereichs- und funktionsübergreifend offen und angstfrei miteinander kommunizieren, so dass 
+•	Fehler und Verbesserungschancen früh erkannt und beseitigt bzw. genutzt werden können,
+•	ein individuelles und kollektives Lernen erfolgt und
+•	die Mitarbeiter selbstbewusst und eigeninitiativ neue Herausforderungen angehen.
+Feedback- und Vertrauenskultur: Zusammenhang
+Der Begriff Feedbackkultur wird häufig weitgehend synonym mit dem Begriff Vertrauenskultur verwendet, da das wechselseitige sich Feedback-geben Offenheit und Vertrauen voraussetzt. Zugleich ist das wechselseitige sich Feedback-geben ein zentrales Element jeder Vertrauenskultur.
+Feedbackkultur: Relevanz
+Das Thema „eine Feedback- bzw. Vertrauenskultur entwickeln“ gewann in den letzten Jahren in den Unternehmen zunehmend an Bedeutung, da
+•	deren Strukturen stets vernetzter werden und
+•	die Team- und Projektarbeit in ihnen zunehmend zur Regelarbeitsform wird
+Zugleich bewegen sich die Unternehmen in einem Umfeld,
+•	das zunehmend von rascher Veränderung und geringer Planbarkeit geprägt ist und
+•	in dem der Change- und Lernbedarf immer weniger top-down erfasst sowie mit zentral geplanten Maßnahmen befriedigt werden kann.
+Deshalb müssen die Mitarbeiter, sei es allein oder im Team, mehr Eigeninitiative entfalten, wenn die Unternehmen mit der gewünschten oder erforderlichen Geschwindigkeit auf Veränderungen in ihrem Umfeld reagieren möchten.
+Feedbackkultur: Vorzüge
+Als Vorzüge einer Feedback- bzw. Vertrauenskultur werden in der Literatur und Fachpresse immer wieder genannt:
+•	Kontinuierliche Verbesserung wird in der DNA der Mitarbeiter, der Organisation verankert,
+•	schnellere Lern- und Optimierungsprozesse,
+•	rascheres Erkennen (und Beheben) von Fehlern sowie von Chancen, Verschwendung zu vermeiden,
+•	schnelleres Erkennen von blinden Flecken aufgrund der wechselseitigen Rückmeldung über das individuelle Wirken und Verhalten,
+•	reibungslosere Abläufe, da Störfaktoren offen angesprochen werden,
+•	Vertrauen zwischen Führungskräften und Mitarbeitern sowie das Selbstbewusstsein der Mitarbeiter steigen,
+•	Mitarbeiter fühlen sich mehr gewertschätzt und identifizieren sich stärker mit ihrem Arbeitgeber,
+•	Mitarbeiter auf allen Ebenen denken mit und entfalten mehr Eigeninitiative,
+•	höherer Attraktivität als Arbeitgeber speziell für hochqualifizierte Mitarbeiter.
+https://www.kraus-und-partner.de/wissen-und-co/wiki/feedback-kultur-entwickeln-berater-beratung
+
+
