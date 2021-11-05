@@ -33,6 +33,11 @@ Das Ishika-Diagramm wird auf das **8M-Modell** genannt, da meist folgende Ursach
  *Messbarkeit  
  *Money  
 
+## Der Ablauf  
+Die Ishika-Methode ist klar in fünf Schritte gegliedert.
+
+#### 1. Das Ishika-Diagramm zeichnen und die 8M einfügen  
+Man sollte sich viel Platz zwischen den einzelnen Punkten einplanen und beachten, das konkrete Ursachen nicht immer mit einem Wort zusammengefasst werden können. Da diese Aufgabe oft in Teams und Brainstorming Runden bearbeitet wird ist ein [Taskboard](ManagingProjectsSuccessfully.github.io/kb/Taskboard.md) zu empfehlen.
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
 überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
@@ -60,32 +65,29 @@ Die Ishaka Methode ist auch bekannt als:
 
 
 
-# Vorteile
+### Vorteile
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+* Leicht erlernbar  
+* klare Struktur  
+* intuitiv erkenntlich  
+  - kann direkt erklärt werden
 
-# Nachteile
+### Nachteile
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+* keine besondere Tiefe  
+* Ursachendefinition evtl. undurchsichtig 
+* etwas kleine für große komplizierte Probleme
+  - kann schnell unübersichtlich werden 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+## Vor-und Nachteile
 
-| First Header  | Second Header |
+| Vorteile  | Nachteile |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Leicht erlernbar    | unübersichtlich bei großen Problemen  |
+| klare Struktur  | keine detaillierte Ursachendefinition  |
+| Intuitiv erkenntlich  | Content Cell  |
+
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
