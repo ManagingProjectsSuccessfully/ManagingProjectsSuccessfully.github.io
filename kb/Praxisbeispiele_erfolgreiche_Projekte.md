@@ -1,8 +1,8 @@
 ---
 title: Praxisbeispiele_erfolgreiche_Projekte
-tags: agil klassisch
+tags: klassisch
 author: Goschu1
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Praxisbeispiele_erfolgreiche_Projekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
