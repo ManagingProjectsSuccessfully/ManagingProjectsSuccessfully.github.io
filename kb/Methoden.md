@@ -10,6 +10,7 @@ Kurzbeschreibung zu Methoden um ein erstes Verständnis dafür zu schaffen um wa
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
+Die Planung und Bearbeitung von Projekten erfordert einiges an Arbeit. Um diese konstruktiv zu gestalten, haben sich Methoden bezüglich der Heransgehensweise und Durchführung von Projekten entwickelt sowie Methoden zur Ideenfindung.
 
 Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von Projekten. Die Ausführung dieser Projekte wird komplett oder teilweise vorgegeben.[^1]
 
