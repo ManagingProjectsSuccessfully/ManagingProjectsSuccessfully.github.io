@@ -30,23 +30,27 @@ Die meisten Projektleiter erfüllen die fachlichen Anforderungen. Sie sind in de
 
 # Fähigkeiten des Projektleiter als Projektmanager
 
+* Erklärung von Ziel und Auftrag 
+* Projektstrukturplan 
+* Aufwand schätzen und Budgetverwaltung
+* Zeitleistenplanung
 * Beherrschen der Projektmanagement-Instrumente und deren Anwendung
-* Organisationstalent
+* Organisationskompetenz
 * Erfahrung in der Projektarbeit
-* eine 
-* Punkteliste
-  - mit unterpunkt
+
 
 
 # Fähigkeiten des Projektleiter als Führungskraft
 
-* Soziale Qualifikation, vor allem die Fähigkeit zur Führung der Projektgruppe (Fähigkeit zu delegieren, Vorbildfunktion)
+Projektleiter sind Führungskräfte. Ein Projektleiter führt ein Projektteam. Zudem sollte er in der Lage sein, die sich teils widersprechenden Interessen von Kunden, Vorgesetzten, involvierten Abteilungen und den eigenen Projektmitarbeitern zu managen. Der Umgang mit den verschiedenen Stakeholdern eines Projektes erfordert ein hohes Maß an sozialer Kompetenz. [^2]
+
+* [Sozialkompetenz](https://de.wikipedia.org/wiki/Soziale_Kompetenz), vor allem die Fähigkeit zur Führung der Projektgruppe (Fähigkeit zu delegieren, Vorbildfunktion)
 * Belastbarkeit und Anpassungsfähigkeit: Zeitdruck, Umgang mit Widerständen
 * Kommunikationsfähigkeit: Koordinierungsaufgaben, Kontaktfreudigkeit, Überzeugungsfähigkeit, Durchsetzungsvermögen, Verhandlungshärte und -geschick
 
 # Fähigkeiten des Projektleiters als Unternehmer
 
-
+Ein Projektleiter sollte ebenfalls unternehmerisches Geschick mitbringen. Er muss das vorhandene Budget im Auge behalten und geeignete Strategien entwickeln, um dieses optimal zu nutzen. Außerdem muss er in der Lage sein, eventuelle Risiken frühzeitig zu erkennen und zu umgehen[^3].
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -79,11 +83,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Faehigkeiten_Projektleiter.md)
+* [Projektmanagementhandbuch](https://www.projektmanagementhandbuch.de/)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Projektmanagementhandbuch](https://www.projektmanagementhandbuch.de/)
 
 # Quellen
 
@@ -91,6 +95,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^2] :[Was Projektleiter können müssen](https://www.business-wissen.de/artikel/projektmanagement-was-projektleiter-koennen-muessen/) 
 
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [Welche Eigenschaften braucht ein guter Projektleiter?](https://www.experteer.de/magazin/welche-eigenschaften-braucht-ein-guter-projektleiter/)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
