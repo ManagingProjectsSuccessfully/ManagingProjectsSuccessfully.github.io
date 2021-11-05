@@ -6,6 +6,8 @@ anrechnung: k
 ---
 Die Ishika-Methode ist eine Möglickeit die einflussnehmenden Faktoren und ihre Wirkung in einem Projekt graphisch darzustellen.
 
+Das Ishikawa-Diagramm, auch als Fehlerbaum-, Fischgräten- oder Ursache-Wirkungs-Diagramm bekannt, ist ein von dem Japaner Kaoru Ishikawa entwickeltes qualitatives Verfahren des modernen Qualitätsmanagements. Es zählt zu den Sieben Statistischen Werkzeugen der Qualitätskontrolle bzw. den Sieben Qualitätstechniken, die in der Regel auf mathematisch-statistischen Grundlagen basieren und dazu dienen sollen, Probleme zu erkennen sowie deren Ursachen herauszuarbeiten. Die Sieben Qualitätstechniken zielen allesamt auf Fehlerprävention, um damit eine gleich bleibend hohe Prozess- und Produktqualität zu gewährleisten. Ziel der präventiven Maßnahmen ist es, eine gleichbleibend hohe Prozess- und Produktqualität zu gewährleisten.
+
 # Ishika-Methode im Einsatz
 
 Die Ishika-Methode, benannt nach seinem Erfinder und sogenannten "Vater der japanischen Qualitätskontrolle" [Ishikawa Kaoru](https://de.wikipedia.org/wiki/Ishikawa_Kaoru), 
@@ -46,7 +48,22 @@ Selbst wenn es nur kleine oder irrelevante Berührungspunkte sind.
 Das wichtigste an diesem Schritt ist möglichst nichts unbeobachtet zu lassen.
 
 #### 3. Vollständigkeit
-Man geht einen Schritt zurück und geht sicher, dass kein Aspekt ausgelassen wurde und alle möglichen Kontributoren an dem Problem festgehalten wurden.
+Man geht einen Schritt zurück und geht sicher, dass kein Aspekt ausgelassen wurde und alle möglichen Kontributoren an dem Problem festgehalten wurden.  
+„Problemlöser (…)
+fragen nicht einmal warum, sondern **fünfmal**. Oft liefert nämlich die erste Antwort nicht die
+wahre Problemursache“ (Imai 2002, S. 94)  
+*Beispiel:*  
+*"1. Warum ist die Maschine stehen geblieben?  
+    - Die Sicherung ist wegen Überlastung durchgebrannt.*  
+*2. Warum war die Maschine überlastet?  
+    - Weil das Lager nicht richtig geschmiert wurde.*  
+*3. Warum wurde das Lager nicht richtig geschmiert?  
+    - Weil die Ölpumpe nicht richtig funktioniert.*  
+*4. Warum funktioniert sie nicht richtig?  
+    - Weil ihr Achslager schon ausgeleiert ist.*  
+*5. Warum ist es ausgeleiert?  
+    - Weil Schmutz hineingelangt ist"*  
+((2006) Ishikawa-Diagramm. In: Produktionsmanagement S.64)
 
 #### 4. Abwägung der Wahrscheinlichkeit
 Hier werde nun alle gesammelten konkreten Ursachen ausgewertet.
@@ -55,7 +72,8 @@ ein Problem zu produzieren und ob es tatsächlich kausal ist oder doch mit einer
 
 #### 5. Richtigkeit überprügen und Maßnahmen ableiten
 Dieser Punkt kann sich in Projekten unterscheiden. Ob direkt Maßnahmen abgeleitet werden kann von anderen Faktoren abhängen.
-Die Richtigkeit zu überprüfen ist ein kritischer Punkt dieser Methode. Die Frage, wie man Ursachen nun auf ihren echten Einfluss testen kann, ist oft der schwerste Schritt.  
+Die Richtigkeit zu überprüfen ist ein kritischer Punkt dieser Methode. 
+Die Frage, wie man Ursachen nun auf ihren echten Einfluss testen kann, ist oft der schwerste Schritt.  
 Jedoch ist es unabdingbar, um keine überflüssigen Maßnahmen in Kraft zu setzen.
 
 # Synonyme
