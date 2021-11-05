@@ -66,6 +66,7 @@ Die Ishaka Methode ist auch bekannt als:
 * Fischgräten-Diagramm (Fishbone-Diagram)
 * 8M-Methode
 * Ursachen-Wirkung-Analyse (Cause and Effect Diagram)
+* Fehlerbaum-Diagramm
 
 
 
