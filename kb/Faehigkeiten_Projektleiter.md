@@ -42,11 +42,11 @@ Die meisten Projektleiter erfüllen die fachlichen Anforderungen. Sie sind in de
 
 # Fähigkeiten des Projektleiter als Führungskraft
 
-Projektleiter sind Führungskräfte. Ein Projektleiter führt ein Projektteam. Er sollte in der Lage sein, die sich teils widersprechenden Interessen von Kunden, Vorgesetzten, involvierten Abteilungen und den eigenen Projektmitarbeitern zu managen. Der Umgang mit den verschiedenen Stakeholdern eines Projektes erfordert ein hohes Maß an sozialer Kompetenz. [^2]
+Projektleiter sind Führungskräfte. Ein Projektleiter führt ein Projektteam. Er sollte in der Lage sein, die sich teils widersprechenden Interessen von Kunden, Vorgesetzten, involvierten Abteilungen und den eigenen Projektmitarbeitern zu managen. Der Umgang mit den verschiedenen Stakeholdern eines Projektes erfordert ein hohes Maß an sozialer Kompetenz. Zudem sind Soft Skills auch sehr wichtig für Projektmanagement[^2]
 
-* [Sozialkompetenz](https://de.wikipedia.org/wiki/Soziale_Kompetenz), vor allem die Fähigkeit zur Führung der Projektgruppe: Fähigkeit zu delegieren, Vorbildfunktion
-* Belastbarkeit, flexibilität und Anpassungsfähigkeit: Zeitdruck
-* Konfliktfähigkeit: Umgang mit Widerständen, Mut und Willen zur Konfliktklärung, Verantwortungsgefühl 
+* [Sozialkompetenz](https://de.wikipedia.org/wiki/Soziale_Kompetenz), vor allem die Fähigkeit zur Führung der Projektgruppe: Fähigkeit zu delegieren, Vorbildfunktion, Zusammenarbeit, Motivierung des Projektteams
+* Belastbarkeit, flexibilität und Anpassungsfähigkeit: bestmöglicher Umgang mit unvorhersehbaren Problemen und Notfällen, Zeitdruck
+* Konfliktfähigkeit: frühzeitig Erkennung von Konflikt, Umgang mit Widerständen, konstruktive Verhaltensweisen in Konfliktsituationen, Verantwortungsgefühl 
 * Kommunikationsfähigkeit: Koordinierungsaufgaben, Kontaktfreudigkeit, Überzeugungsfähigkeit, Durchsetzungsvermögen, Verhandlungshärte und -geschick
 
 # Fähigkeiten des Projektleiters als Unternehmer
