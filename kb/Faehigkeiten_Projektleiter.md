@@ -30,7 +30,7 @@ Die meisten Projektleiter erfüllen die fachlichen Anforderungen. Sie sind in de
 
 # Fähigkeiten des Projektleiter als Projektmanager
 
-* Erklärung von Ziel und Auftrag 
+
 * Projektstrukturplan 
 * Aufwand schätzen und Budgetverwaltung
 * Zeitleistenplanung
@@ -42,15 +42,19 @@ Die meisten Projektleiter erfüllen die fachlichen Anforderungen. Sie sind in de
 
 # Fähigkeiten des Projektleiter als Führungskraft
 
-Projektleiter sind Führungskräfte. Ein Projektleiter führt ein Projektteam. Zudem sollte er in der Lage sein, die sich teils widersprechenden Interessen von Kunden, Vorgesetzten, involvierten Abteilungen und den eigenen Projektmitarbeitern zu managen. Der Umgang mit den verschiedenen Stakeholdern eines Projektes erfordert ein hohes Maß an sozialer Kompetenz. [^2]
+Projektleiter sind Führungskräfte. Ein Projektleiter führt ein Projektteam. Er sollte in der Lage sein, die sich teils widersprechenden Interessen von Kunden, Vorgesetzten, involvierten Abteilungen und den eigenen Projektmitarbeitern zu managen. Der Umgang mit den verschiedenen Stakeholdern eines Projektes erfordert ein hohes Maß an sozialer Kompetenz. [^2]
 
-* [Sozialkompetenz](https://de.wikipedia.org/wiki/Soziale_Kompetenz), vor allem die Fähigkeit zur Führung der Projektgruppe (Fähigkeit zu delegieren, Vorbildfunktion)
-* Belastbarkeit und Anpassungsfähigkeit: Zeitdruck, Umgang mit Widerständen
+* [Sozialkompetenz](https://de.wikipedia.org/wiki/Soziale_Kompetenz), vor allem die Fähigkeit zur Führung der Projektgruppe: Fähigkeit zu delegieren, Vorbildfunktion
+* Belastbarkeit, flexibilität und Anpassungsfähigkeit: Zeitdruck
+* Konfliktfähigkeit: Umgang mit Widerständen, Mut und Willen zur Konfliktklärung, Verantwortungsgefühl 
 * Kommunikationsfähigkeit: Koordinierungsaufgaben, Kontaktfreudigkeit, Überzeugungsfähigkeit, Durchsetzungsvermögen, Verhandlungshärte und -geschick
 
 # Fähigkeiten des Projektleiters als Unternehmer
 
 Ein Projektleiter sollte ebenfalls unternehmerisches Geschick mitbringen. Er muss das vorhandene Budget im Auge behalten und geeignete Strategien entwickeln, um dieses optimal zu nutzen. Außerdem muss er in der Lage sein, eventuelle Risiken frühzeitig zu erkennen und zu umgehen[^3].
+
+* Risikomanagement
+* Überblick über das ganze Projekt
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
