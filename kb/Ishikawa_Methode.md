@@ -37,22 +37,26 @@ Das Ishika-Diagramm wird auf das **8M-Modell** genannt, da meist folgende Ursach
 Die Ishika-Methode ist klar in fünf Schritte gegliedert.
 
 #### 1. Das Ishika-Diagramm zeichnen und die 8M einfügen  
-Man sollte sich viel Platz zwischen den einzelnen Punkten einplanen und beachten, das konkrete Ursachen nicht immer mit einem Wort zusammengefasst werden können. Da diese Aufgabe oft in Teams und Brainstorming Runden bearbeitet wird ist ein [Taskboard](ManagingProjectsSuccessfully.github.io/kb/Taskboard.md) zu empfehlen.
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Man sollte sich viel Platz zwischen den einzelnen Punkten einplanen und beachten, das konkrete Ursachen nicht immer mit einem Wort zusammengefasst werden können. 
+Da diese Aufgabe oft in Teams und Brainstorming Runden bearbeitet wird ist ein [Taskboard](Taskboard.md) zu empfehlen.
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+#### 2. Konkrete Ursachen sammeln und zuordnen
+In diesem Schritt wird alles gesammelt, was irgendwie mit dem entstandenen Problem zusammen hängen könnte. 
+Selbst wenn es nur kleine oder irrelevante Berührungspunkte sind.
+Das wichtigste an diesem Schritt ist möglichst nichts unbeobachtet zu lassen.
 
+#### 3. Vollständigkeit
+Man geht einen Schritt zurück und geht sicher, dass kein Aspekt ausgelassen wurde und alle möglichen Kontributoren an dem Problem festgehalten wurden.
+
+#### 4. Abwägung der Wahrscheinlichkeit
+Hier werde nun alle gesammelten konkreten Ursachen ausgewertet.
+Dabei wird beachtet, ob der Zusammenhang realistisch ist, ob der Einfluss der Ursache groß genug ist um
+ein Problem zu produzieren und ob es tatsächlich kausal ist oder doch mit einer anderen Ursache lediglich korrelieren könnte.
+
+#### 5. Richtigkeit überprügen und Maßnahmen ableiten
+Dieser Punkt kann sich in Projekten unterscheiden. Ob direkt Maßnahmen abgeleitet werden kann von anderen Faktoren abhängen.
+Die Richtigkeit zu überprüfen ist ein kritischer Punkt dieser Methode. Die Frage, wie man Ursachen nun auf ihren echten Einfluss testen kann, ist oft der schwerste Schritt.  
+Jedoch ist es unabdingbar, um keine überflüssigen Maßnahmen in Kraft zu setzen.
 
 # Synonyme
 
@@ -113,11 +117,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Ishikawa_Methode.md)
 * [Project management concepts, methods and application](https://www.emerald.com/insight/content/doi/10.1108/01443570310481559/full/html?casa_token=bT1rYjg7QRoAAAAA:TAkzKHlihH29M0AleiYCA4FAKU0_LJMIFoKhSpR1BbjAlWR-I6Mo9PHgh-KarAwQT9MAtw9_zuElHk-VIFArP6LWZ5dqGjg_ni2dKA184QkbiwVX4cQ)
-* [website](https://de-academic.com/dic.nsf/dewiki/666650)
+* [Projekte-leicht-gemacht](https://de-academic.com/dic.nsf/dewiki/666650)
 
 # Weiterführende Literatur
 
 * [Unterstützende Tools, Ishikawa-Diagramm und statistische Methoden](https://link.springer.com/chapter/10.1007/978-3-658-35208-0_3)
+* [Produktionsmanagement](https://link.springer.com/book/10.1007%2F978-3-8349-9091-4)
 * 
 # Quellen
 
