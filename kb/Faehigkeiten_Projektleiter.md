@@ -16,29 +16,37 @@ Im Idealfall füllt der Projektleiter vier Rollen aus: Fachmann, Projektmanager,
 
 ![Die 4 Rollen des Projektleiters](Faehigkeiten_Projektleiter/4_Rollen_Projektleiter.jpg)
 
+*Die vier Rollen des Projektleiters*
+
 Diese vier Rollen verlangen unterschiedliche Fähigkeiten und Eigenschaften von dem Projektleiter.
 
 
-# Aspekt 1
+# Fähigkeiten des Projektleiters als Fachmann
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die meisten Projektleiter erfüllen die fachlichen Anforderungen. Sie sind in der Lage, technische und fachliche Details zu verstehen, zu bewerten oder auch selbst auszuarbeiten. Diese Feldkompetenz und Branchenkenntnis erleichtert einem Projektleiter die tägliche Arbeit, da er Zusammenhänge schneller durchdringt als ein Fachfremder[^2].
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* [Fachkompetenz](https://de.wikipedia.org/wiki/Fachkompetenz)
 
-![Beispielabbildung](Faehigkeiten_Projektleiter/test-file.jpg)
 
-*lustiges Testbild*
+# Fähigkeiten des Projektleiter als Projektmanager
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
+* Beherrschen der Projektmanagement-Instrumente und deren Anwendung
+* Organisationstalent
+* Erfahrung in der Projektarbeit
 * eine 
 * Punkteliste
   - mit unterpunkt
+
+
+# Fähigkeiten des Projektleiter als Führungskraft
+
+* Soziale Qualifikation, vor allem die Fähigkeit zur Führung der Projektgruppe (Fähigkeit zu delegieren, Vorbildfunktion)
+* Belastbarkeit und Anpassungsfähigkeit: Zeitdruck, Umgang mit Widerständen
+* Kommunikationsfähigkeit: Koordinierungsaufgaben, Kontaktfreudigkeit, Überzeugungsfähigkeit, Durchsetzungsvermögen, Verhandlungshärte und -geschick
+
+# Fähigkeiten des Projektleiters als Unternehmer
+
+
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -80,6 +88,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1] :[Projektleiter](https://refa.de/berufe/projektleiter)
+
+[^2] :[Was Projektleiter können müssen](https://www.business-wissen.de/artikel/projektmanagement-was-projektleiter-koennen-muessen/) 
 
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
