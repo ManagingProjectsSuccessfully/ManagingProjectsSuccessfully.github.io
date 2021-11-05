@@ -18,7 +18,7 @@ Durch die Risikomatrix oder auch Risikodiagramm, Risikoprofil[^1], wird die Wahr
 # Aufbau und Berechnung
 Bei der tabellarischen Darstellung der Risikomatrix wird an der y-Achse die Eintrittswahrscheinlichkeit und an der x-Achse die Schadenshöhe angegeben[^4], da es aber keine einheitliche Darstellungsform gibt kann die Matrix auch eine umgekehrte Beschriftung der Achsen haben[^5].
 
-Die Spalten- und Zeilenbeschriftung erfolgt durch Indizes[^6] oder durch Prozente oder Begriffe wie niedrig bis kritisch[^7]. In der Matrix werden die Risiken so positioniert, sodass eine Präferenzierung und vergleichende Darstellung besteht[^8]. Durch Färbung der Zellen werden die Risikobereiche gekennzeichnet und orientieren sich dabei oft an den Ampelfarben[^6]. Anhand der Positionen der Risiken im Raster kann die Bedeutung eines Riskos eingeschätzt werden[^7].
+Die Spalten- und Zeilenbeschriftung erfolgt durch Indizes[^6] oder durch Prozente oder Begriffe wie niedrig bis kritisch[^7]. In der Matrix werden die Risiken so positioniert, sodass eine Präferenzierung und vergleichende Darstellung besteht[^8]. Durch Färbung der Zellen werden die Risikobereiche gekennzeichnet und ähneln den Farben grün, gelb und rot[^6]. Anhand der Positionen der Risiken im Raster kann die Bedeutung eines Riskos eingeschätzt werden[^7].
 ![Risikomatrix](https://user-images.githubusercontent.com/78257976/140325882-d67014be-7d19-49cd-bd07-ae6e92c8b808.jpg)
 # Nutzen und Kritik
 
