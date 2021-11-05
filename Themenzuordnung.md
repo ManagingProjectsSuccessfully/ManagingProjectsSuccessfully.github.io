@@ -251,6 +251,7 @@ author: anniSc
 | [Reporting](kb/Reporting.md)                                                                                                       | [JanBaumgart](https://github.com/JanBaumgart)                 |
 | [Aufwands_Kosten_Kontrolle](kb/Aufwands_Kosten_Kontrolle.md)                                                                       | [Steffi226](https://github.com/Steffi226)                     |
 | [Projektdokumentation](kb/Projektdokumentation.md)                                                                                 | [nikl9](https://github.com/nikl9)                             |
+| [Statusreport](kb/Statusreport.md)                                                                                                 | [julianTR4](https://github.com/julianTR4)                     |
 | [Change_Management](kb/Change_Management.md)                                                                                       | [TimSchwehn](https://github.com/TimSchwehn)                   |
 | [ADKAR_Model](kb/ADKAR_Model.md)                                                                                                   | [bilgesb](https://github.com/bilgesb)                         |
 | [Dauerbaustelle](kb/Dauerbaustelle.md)                                                                                             | [EuleW](https://github.com/EuleW)                             |
