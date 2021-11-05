@@ -1,8 +1,8 @@
 ---
 title: MeisterTask_PM_Tool
-tags: agil klassisch
+tags: agil
 author: nazarelsaifi
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu MeisterTask_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
