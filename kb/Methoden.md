@@ -16,6 +16,8 @@ Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards 
 
 Kreativitätsmethoden dienen im Bezug auf Projektmanagement dazu, innovative Ideen zu sammeln.
 
+Methoden werden als Hilfsmittel und Instrumente angesehen.[^3]
+
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -23,9 +25,7 @@ anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
 Literatur kann via Fußnoten angegeben werden[^111]. Es gibt auch das PMBOK[^222].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^333] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^444]. 
-
-Das PMBOK[^200] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^444].
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
@@ -37,7 +37,7 @@ Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, h
 Gniedlaskubf daneem. 
 
 
-# Projektplanungsmethoden
+# Methoden der Teamführung
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -49,7 +49,13 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Kreativitätsmethoden
+# Methoden des allgemeinen Managements
+
+
+
+# Methoden der Problemlösung
+
+## Kreativitätsmethoden
 
 Besonders bekannt:
 * 6-3-5-Methode
@@ -73,16 +79,11 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
 ### Ebene-3-Überschrift
 
 Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
 
 1. das
 2. hier 
@@ -98,7 +99,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * [Brainstorming](Brainstorming.md)
 * [Brainwriting](Brainwriting.md)
 * [Walt Disney Methode](Walt_Disney_Methode.md)
-* 
 * 
 * 
 * [Barcamp-Methode](Barcamp_Methode.md)
@@ -117,8 +117,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * 
 * 
 * 
-* 
-* 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Methoden.md)
 
@@ -130,6 +128,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [Projektmanagementmethode](https://de.wikipedia.org/wiki/Projektmanagementmethode)
 [^2]: [Kreativitätstechniken: 7 Methoden für neue Ideen](https://www.einstein1.net/kreativitaetstechniken/)
+[^3]: [Handbuch Projektmanagement](
 
 
 
