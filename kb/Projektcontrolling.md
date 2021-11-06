@@ -16,6 +16,7 @@ In der folgenden Abbildung ist der projektspezifische „Controlling Regelkreis�
 Dieser beschreibt einen sich wiederholenden Zyklus, dessen Häufigkeit sich nach dem Projektumfang richten sollte. Dabei kann sowohl das gesamte Projekt als auch nur einzelne Phasen betrachtet werden.
 
 # Teilbereiche des Projektcontrollings [^2]
+Das Projektcontrolling lässt sich in die drei fundamentalen Teilbereiche Kalkulation, Leistung und Kontrolle untergliedern. Diese dienen Unternehmen als Basis zur Planung, Durchführung und Erfolgsmessung der Projekte. 
 
 ## Projektkalkulation
 
