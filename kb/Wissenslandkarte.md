@@ -63,6 +63,8 @@ Im Folgenden werden die verschiedenen Arten von Wissenslandkarten tabellarisch a
 | Wissensanwendungskarten   |  Knowledge application map  |
 | Wissensentwicklungskarten |  Knowledge development maps |
 
+*Tabelle 1*[^3]
+
 ## 3. Ziele von Wissenslandkarten
 
 ## 4. Vor- und Nachteile
@@ -92,13 +94,14 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 * Hildebrand, 1998: Mapping the Invisible Workplace
+* 
 
 
 # Quellen
 
 [^1]: https://www.pinterest.de/pin/407012885071440518/, 
 [^2]: Hildebrand, 1998: Mapping the Invisible Workplace
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 
