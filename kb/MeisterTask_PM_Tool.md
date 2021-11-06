@@ -1,14 +1,96 @@
 ---
 title: MeisterTask_PM_Tool
-tags: agil klassisch
+tags: agil
 author: nazarelsaifi
-anrechnung: k oder a
+anrechnung:a
 ---
-
 Kurzbeschreibung zu MeisterTask_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
+
+
+# Meister Task
+
+## Inhaltsverzeichnis
+1.	Kurzbeschreibung
+2.	Überblick
+3.	Entwicklung
+4.	Funktionen
+  4.1.	Projektfunktionen
+  4.2.	Aufgabenfunktionen
+  4.3.	Funktionen für einzelne Nutzer
+  4.4.	Analysefunktionen
+  4.5.	Funktionen zur Kommunkation
+5.	Vergleich mit Trello
+
+
+
+## 1.	Kurzbeschreibung
+Meister Task ist ein Online-Tool der deutsch-österreichischen Softwarefirma Meisterlabs, das agiles Arbeiten ermöglichen soll. Der Nutzer hat die Möglichkeit über ein Cloud-System Projekte und Aufgaben zu visualisieren, zu teilen und mit einer Benutzergruppe zu organisieren.
+
+
+## 2.	Überblick
+Meister Task, wie auch aus dem Namen hervorgehen kann, ist ein Task Management-Tool, das Anwendern ein Weg bietet kollaborativ Aufgaben zu organisieren und koordinieren. Das Tool eignet sich nicht nur für einzelne Aufgaben, es unterstützt auch [Kanban Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) mit einem virtuellen [Taskboard](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Taskboard.md). Für größere Projekte können alle Tools der Meister Suite integriert werden, um einen reibungslosen Workflow für Teams zu ermöglichen. Zudem wird Meistertask weiterentwickelt, um eine Synchronisation mit anderen Tools für das agile Projektmanagement zu ermöglichen. Das Motto der Firma lautet “Im Mittelpunkt unserer Arbeit stehen die Menschen und die Vision, gemeinsam etwas Großes aufzubauen.”, was ausdrücken soll, dass bei Meistertask auf Kommunikation der Anwender großen Wert gelegt wird. Meister Task ist ein Freemium Produkt. Der Nutzer hat die Wahl zwischen Basic, Pro, Businnes und Enterprise Versionen, wobei nur die Basic Version frei zugänglich ist. Die kostenpflichtigen Versionen bieten wenige funktionelle und hauptsächlich quantitative Vorteile, daher ist für die private Anwendung mit wenigen Projekten die Basis Version keine Einschränkung für die Funktionalität.
+
+
+## 3.	Entwicklung
+MeisterLabs, die Firma, die MeisterTask entwickelt hat, wurde 2007 von Michael Hollauf und Till Vollmer gegründet und ist somit eine österreichisch-deutsche Firma mit derzeitigem Sitz in Österreich. Die Idee für Gründung der Firma entstand, als die beiden gemeinsam an einem Projekt arbeiteten. Dabei nutzten sie Google Docs und MindManager. Da MindManager ein Mind Mapping- Tool ist, dass lokal installiert werden musste, haben sich die Gründer entschieden eine Cloud-basierte Lösung zu finden, die eine einfachere und standortübergreifende Kollaboration unterstützen soll. Daraus entstand erstmal das Mind Mapping Tool Mindmeister. 2015 wurde schließlich auch MeisterTask veröffentlicht, mit dem Hintergrund eine Gesamtlösung für agiles Arbeiten anbieten zu wollen.
+
+
+## 4.	Funktionen
+### 4.1. Projektfunktionen
+ | Funktion                  | Beschreibung  |
+ | ------------------------- | ------------- |
+ | Spalten                   | Content Cell  |
+ | Filter                    | Content Cell  |
+ | Zeitleist                 | Content Cell  |
+ | Automation                | Content Cell  |
+ | Wiederkehrende Aufgaben   | Content Cell  |
+ | Aufgaben-Begrenzung       | Content Cell  |
+ 
+### 4.2 Aufgabenfunktionen
+| Funktion                  | Beschreibung  |
+| ------------------------- | ------------- |
+| Aufgabeninhaber und Beobachter                   | Content Cell  |
+| Fälligkeitstermine                    | Content Cell  |
+| Zeiterfassung                | Content Cell  |
+| Benutzerdefinierte Felder                | Content Cell  |
+| Mehrere Checklisten  | Content Cell  |
+| Anhänge       | Content Cell  |
+| Aufgabenbeziehungen  | Content Cell  |
+| Tags       | Content Cell  |
+
+### 4.3 Funktionen für einzelne Nutzer
+| Funktion                  | Beschreibung  |
+| ------------------------- | ------------- |
+| Agenda                  | Content Cell  |
+| Dashboard                    | Content Cell  |
+| Desktop-Anwendung und App                 | Content Cell  |
+
+
+### 4.4 Analysefunktionen
+| Funktion                  | Beschreibung  |
+| ------------------------- | ------------- |
+| Fortschrittsberichte                   | Content Cell  |
+| Sicherheitsberichte                    | Content Cell  |
+
+
+### 4.5 Funktionen zur Kommunkation
+| Funktion                  | Beschreibung  |
+| ------------------------- | ------------- |
+| Kommentare                  | Content Cell  |
+| Erwähnungen                   | Content Cell  |
+| Zeitleist                 | Content Cell  |
+| An die Gruppe wenden                | Content Cell  |
+| E-Mail-Benachrichtigungen   | Content Cell  |
+
+
+
+## 5.	Vergleich mit anderen TM-Tools
+[Trello](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Trello_PM_Tool.md)ist ebenfalls ein Task Management-Tool, das vergleichbar mit Meister Task ist. Die Oberfläche und Funktionalität sind ähnlich und an vielen Stellen gleich. Ein großes Unterschied sind die Stadorte für die Server. Trello’s Server sind nicht in Europa und damit unterliegt das Tool nicht europäischen Sicherheitsrichtlinien. 
+
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
