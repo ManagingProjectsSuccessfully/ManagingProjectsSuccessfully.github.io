@@ -70,7 +70,7 @@ Im Folgenden werden die verschiedenen Arten von Wissenslandkarten tabellarisch a
 
 ## 3. Vor- und Nachteile
 Es stellt sich nun die Frage: 
-Lohnt sich die Einführung von Wissenslandkarten oder eine reine Zeitverschwendung?
+Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine Zeitverschwendung?
 
 ### Vorteile 
 
