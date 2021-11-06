@@ -14,6 +14,8 @@ Um eine nachhaltige Entwicklung zu erreichen, müssen die drei Imperative der na
 
 Hier ist ein Bild, welches dieses Modell veranschaulicht:
 
+![Modell Bild](Nachhaltige_Entwicklung/Imperativen_der_nachhaltigen_Entwicklung.png)
+
 Politische Maßnahmen, die zu einer nachhaltigen Entwicklung führen, sind, im Grunde genommen, Maßnahmen, die gesellschaftlich wünschenswerte Ziele erreichen, ohne im Widerspruch zu den drei Einschränkungen der nachhaltigen Entwicklung zu stehen. Ein gesellschaftlich erwünschtes Ziel kann, zum Beispiel, Wirtschaftswachstum oder Wohlstand sein.
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
