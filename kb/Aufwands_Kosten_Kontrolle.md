@@ -1,264 +1,73 @@
 ---
 title: Aufwands_Kosten_Kontrolle
-tags: agil klassisch
+tags:  klassisch
 author: Steffi226
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Aufwands_Kosten_Kontrolle um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
+Bei der Aufwands- und Kostenkontrolle geht es um den Vergleich der kalkulierten und der tatsächlichen Kosten eines Projekts.
 
 
 
 # Was sind Projektkosten
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
----
-title: Aufwands_Kosten_Kontrolle
-tags: agil klassisch
-author: Steffi226
-anrechnung: k oder a
----
-
-Kurzbeschreibung zu Aufwands_Kosten_Kontrolle um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Projektkosten sind wirtschaftliche Güter, die zur Erbringung einer Projektleistung gebraucht werden. Sie werden in Geldwerten gemessen.
 
 
-# Aspekt 1
+# Projektkosten bestimmen
+Wichtig für die Bestimmung der Projektkosten ist die Erstellung eines Projektplans. Dieser ist ein zentraler Bestandteil einer exakten Budgetierung. Ohne das Wissen über die nötigen Arbeitsschritte und den dafür vorgesehenen Material- und Zeitaufwand lässt sich eine Vorab-Kostenrechnung nicht durchführen.
 
-was sind Projektkosten
+Zudem wird hieran deutlich: Je detaillierter Du den Projektverlaufsplan erstellt hast, desto größer ist die Chance, dass Du auch die Projektkosten angemessen k
 
-![Beispielabbildung](Aufwands_Kosten_Kontrolle/test-file.jpg)
 
-*lustiges Testbild*
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
 * Punkteliste
-  - mit unterpunkt
+ 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Kontrolle der Kosten
+Aufwands- und Kostenkontrolle
+Die Stundenkontierung und die Rechnungsprüfung sind die wichtigsten Elemente einer zielorientierten Aufwands- und Kostenkontrolle. 
+Mittels der Stundenkontierung werden die angefallenen Entwicklungsstunden jeweils für die Personen, die Aufgaben und die dafür aufgewendete Zeit erfasst und können anschließend in einer Plan/Ist-Tabelle einem Vergleich unterzogen werden. 
+Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Prokjekt vorgesehenen Budgets zu sichern. Wie bei der Terminkontrolle sollte man dabei Möglichkeiten von Trendanalysen einbeziehen.
 
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Sachfortschrittskontrolle
 
 # Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Auf dem unterhalb dieses Textes sehen Sie das Diagramm einer Earnd Value Analyse (EVA)
+Die Earned Value Analysis oder auch Ertragswertanalyse bezieht die Kosten und Leistungen eines Projekts aufeinander und erlaubt so eine präziese Kostenkontrolle.
+Zum Stichtag werden sowohl die Kosten als auch die Leistungen mit den Planwerten verglichen.
+# Bild
+![image](https://user-images.githubusercontent.com/92396490/140614206-253046fc-27f4-4055-827b-78d6c1817b08.png)
 
 
-# Siehe auch
+Diese Basiskennzahlen benötigen Sie, um Projektkosten zu kontrollieren
+Zur Durchführung der EVA legen Sie ein Statusdatum fest: entweder das aktuelle Datum oder ein zeitnahes Datum aus der Vergangenheit, beispielsweise aus der vergangenen Woche.
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Aufwands_Kosten_Kontrolle.md)
+Aus Ihrer Projektplanung entnehmen Sie folgende Kennzahlen:
 
-# Weiterführende Literatur
+PGK: geplante Fertigstellungskosten für die aktuellen Arbeitspakete oder für das Projekt
+gFG: geplanter Fertigstellungsgrad – das geplante Verhältnis der zum Stichtag erbrachten Leistung verglichen mit der Gesamtleistung der Arbeitspakete
+Daraus erhalten Sie den geplanten Fertigstellungswert gFW, indem Sie die beiden Größen multiplizieren.
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+Zum Stichtag erheben Sie außerdem den IST-Stand:
 
-# Quellen
+aIK: Die aktuellen IST-Kosten berechnen Sie aus den aufgelaufenen Kostenpositionen: Personal, Material, Schulung, externe Dienstleister, Gemeinkosten und sonstige Kosten.
+aFG: Der aktuelle Fertigstellungsgrad zum Stichtag ergibt sich aus dem Verhältnis der zum Stichtag erbrachten Leistungen zur geplanten Gesamtleistung der aktuellen Arbeitspakete.
+aFW: Den aktuellen Fertigstellungswert berechnen Sie, indem Sie den aktuellen Fertigungsstellungsgrad aFG mit dem geplanten Fertigstellungskosten PGK multiplizieren.
+Achtung: Für die Berechnung des aktuellen Fertigungswerts ist es unerheblich, wie viel Kosten bisher tatsächlich aufgewendet wurden.
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
----
-title: Aufwands_Kosten_Kontrolle
-tags: agil klassisch
-author: Steffi226
-anrechnung: k oder a
----
+Analysieren Sie Abweichungen zwischen aktuellen Projektkosten (IST-Kosten) und Fertigstellungsgrad
+Für die Ertragswertanalyse vergleichen Sie im letzten Schritt die aktuellen IST-Kosten aIK mit dem aktuellen Fertigstellungswert. Liegen die IST Kosten über dem Fertigungsstellungswert, dann heißt es aufgepasst:
 
-Kurzbeschreibung zu Aufwands_Kosten_Kontrolle um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Entweder wurden einzelnen Schritte in der Planung nicht bedacht oder vom Aufwand unterschätzt. Wenn Sie die Abweichung begründen, verhelfen Sie kommenden Projekten zu einer realistischeren Planung.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Sinnvolle Termine für eine Ertragswertanalyse zur Kontrolle von Projektkosten
+Meist wird der Arbeitsfortschritt in wöchentlichen Abständen überprüft. Bei Projekten mit Laufzeiten von 8 bis 12 Monaten reicht auch ein monatlicher Check.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Es bietet sich an, diese Stichtage mit den Terminen der Betriebs- und Gehaltsabrechnung zu koordinieren. Denn dann liegen einige Zahlen der IST-Kosten sowieso vor.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, nämlich wenn bestimmte Arbeitspakete zu geplanten Meilensteinen abgeschlossen sind. Dadurch können Sie den Fertigstellungsgrad leichter ermitteln. Allerdings ist die Berechnung der Personal- und Gemeinkosten zu diesem Termin aufwändiger.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Aufwands_Kosten_Kontrolle/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Aufwands_Kosten_Kontrolle.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
-![Beispielabbildung](Aufwands_Kosten_Kontrolle/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -278,60 +87,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 
-![Beispielabbildung](Aufwands_Kosten_Kontrolle/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
-# Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Aufwands_Kosten_Kontrolle.md)
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
