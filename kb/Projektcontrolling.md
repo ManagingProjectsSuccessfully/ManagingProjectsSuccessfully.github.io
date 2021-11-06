@@ -89,8 +89,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Weiterführende Literatur
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
 # Quellen
+
 [^2]: [Projektcontrolling](https://refa.de/service/refa-lexikon/projektcontrolling)
 [^3]: [Controlling-Regelkreis](https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/projektcontrolling/)
 [^4]: [https://doi.org/10.1007/978-3-658-23714-1)
