@@ -1,6 +1,6 @@
 ---
 title: Projektcontrolling
-tags: klassisch projektmanagement
+tags: klassisch projektmanagement meilenstein
 author: hake1110
 anrechnung: k
 ---
@@ -92,7 +92,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [Projektcontrolling](https://refa.de/service/refa-lexikon/projektcontrolling)
 [^3]: [Controlling-Regelkreis](https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/projektcontrolling/)
 [^4]: [https://doi.org/10.1007/978-3-658-23714-1)
