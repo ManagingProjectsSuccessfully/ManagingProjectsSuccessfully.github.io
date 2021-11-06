@@ -5,12 +5,12 @@ author: Za22Regi
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Wissenslandkarte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Ein Unternehmen, viele Standorte und eine große Mitarbeiterzahl. Unter diesen Umständen kann sich sehr schnell viel Wissen ansammeln und die Herausforderung besteht dann darin, den Überblick beizubehalten und Transparenz zu schaffen. 
+In diesem Beitrag wird es um sogenannte „Wissenslandkarten“ gehen. 
+Sie ermöglichen den Überblick über Wissensgebiete und deren Zusammengänge. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Wissenslandkarten: Ein modernes Tool des Wissensmanagement 
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -37,15 +37,14 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Agenda
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+1. Definition und Einsatzbereich
+2. Arten von Wissenslandkarten 
+3. Ziele
+4. Vor- und Nachteile
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Wissenslandkarte/test-file.jpg)
+![projectmanager](https://user-images.githubusercontent.com/92877971/140619615-88f06195-28ae-4c80-8036-e085e9d8ce6c.jpg)
 
 *lustiges Testbild*
 
@@ -89,6 +88,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
+
 * [Link auf diese Seite](Wissenslandkarte.md)
 
 # Weiterführende Literatur
