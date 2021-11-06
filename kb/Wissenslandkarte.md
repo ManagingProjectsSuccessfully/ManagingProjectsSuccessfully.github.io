@@ -36,8 +36,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 1. Begriffserklärung
 2. Arten von Wissenslandkarten                 
-3. Ziele von Wissenslandkarten
-4. Vor- und Nachteile
+3. Vor- und Nachteile
    1. Vorteile
    2. Nachteile
 
@@ -69,24 +68,36 @@ Im Folgenden werden die verschiedenen Arten von Wissenslandkarten tabellarisch a
 
 *Tabelle 1*[^6]
 
-## 3. Ziele von Wissenslandkarten
-Es stellt sich nun die Frage: Wozu sollten Unter
+## 3. Vor- und Nachteile
+Es stellt sich nun die Frage: 
+Lohnt sich die Einführung von Wissenslandkarten oder eine reine Zeitverschwendung?
 
-## 4. Vor- und Nachteile
-### Vorteile
+### Vorteile 
+
+- Durch Strukturierung von Wissensquellen können Wissensressourcen optimierend ausgeschöpft werden
+- Ordnung schaffen, indem Wissen im Überblick dargestellt wird 
+- Themengebiete und Ansprechpartner schnell erkennen
+- Erschließen von Wissen wird erleichtert
+- Neues Wssen schneller und effektiver finden und aneignen
+- Transparenz und freier Zugang zu Informationen für alle Mitarbeiter
+- Erkennung der Kernkompetenzen 
+- Identifikation des Unternehmens 
+- Direkte Umsetzung der Kompetenzen in Projekte 
+- Übersichtliche Darstellung von Texten 
+- Einfachere Einarbeitung neuer Mitarbeiter
+- Kontakt zu Experten 
+- Koaten- und Zeitvorteil
+
 ### Nachteile
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+- Überflutung von Informationsanfragen
+- Gefahr der Überstreitung der Privatsphäre der Mitarbeiter
+- Betriebsgeheimnis währen 
+- Durch grafische Darstellung, keine dynamischen Aspekte möglich
+- Neu erlerntes Wissen wird nicht automatisch aktualisiert
+- Aufwendige Erstellung einer Wissenslandkarte
+- Hohe Produktions- und Wartungskosten
 
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -99,6 +110,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 * Hildebrand, 1998: Mapping the Invisible Workplace
+* https://wiki.cogneon.de/Wissenslandkarte
 * 
 
 
@@ -111,6 +123,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 orumid=286&v=1&id=166113)
 [^5]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/file/BA_Tina_Giersch.pdf)
 [^6]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
+
 
 
 
