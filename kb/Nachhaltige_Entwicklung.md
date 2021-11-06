@@ -1,19 +1,20 @@
 ---
 title: Nachhaltige_Entwicklung
-tags: agil klassisch
+tags: klassisch
 author: JoseOliveira2
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Nachhaltige_Entwicklung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Der Begriff „nachhaltige Entwicklung“, die deutsche Übersetzung des englischen Begriffs „sustainable development“, wird im allgemeinen Sprachgebrauch unterschiedlich verwendet und oft sehr stark mit sozialen und ökologischen Aspekten assoziiert[^2]. Laut Wikipedia, bezeichnet er „eine Entwicklung, die den Bedürfnissen der jetzigen Generation dient, ohne die Möglichkeiten künftiger Generationen zu gefährden, ihre Bedürfnisse zu befriedigen“[^3]. Für Holden, Linnerud, & Banister[^1] ist nachhaltige Entwicklung ein normatives Wertesystem, welches eng mit Menschenrechten, Demokratie und Freiheit verknüpft ist. Daher beruht das Konzept der nachhaltigen Entwicklung auf drei Imperativen: Befriedigung menschlicher Bedürfnisse, Gewährleistung sozialer Gerechtigkeit und Respektierung der Umweltgrenzen.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Die drei Imperativen der nachhaltigen Entwicklung
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Um eine nachhaltige Entwicklung zu erreichen, müssen die drei Imperative der nachhaltigen Entwicklung berücksichtigt werden: (1) die Befriedigung der menschlichen Bedürfnisse, (2) die Gewährleistung sozialer Gerechtigkeit und (3) die Einhaltung von Umweltgrenzen.
+
+Hier ist ein Bild, welches dieses Modell veranschaulicht:
+
+Politische Maßnahmen, die zu einer nachhaltigen Entwicklung führen, sind, im Grunde genommen, Maßnahmen, die gesellschaftlich wünschenswerte Ziele erreichen, ohne im Widerspruch zu den drei Einschränkungen der nachhaltigen Entwicklung zu stehen. Ein gesellschaftlich erwünschtes Ziel kann, zum Beispiel, Wirtschaftswachstum oder Wohlstand sein.
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -37,7 +38,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# 1. Die Befriedigung der menschlichen Bedürfnisse
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -47,10 +48,19 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 ![Beispielabbildung](Nachhaltige_Entwicklung/test-file.jpg)
 
-*lustiges Testbild*
+*Modell*
 
-# Aspekt 2
+# 2. Die Gewährleistung sozialer Gerechtigkeit
 
+* das
+* hier 
+* ist
+* eine 
+* Punkteliste
+  - mit unterpunkt
+
+
+# 3. Die Einhaltung von Umweltgrenzen
 * das
 * hier 
 * ist
@@ -97,8 +107,15 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: Holden, E., Linnerud, K., & Banister, D. (2017). The Imperatives of Sustainable Development. Sustainable Development, 25(3). https://doi.org/10.1002/sd.1647
+
+[^2]: Mensah, J. (2019). Sustainable development: Meaning, history, principles, pillars, and implications for human action: Literature review. Cogent Social Sciences, 5(1). https://doi.org/10.1080/23311886.2019.1653531
+
+[^3]: Wikipedia. Nachhaltige Entwicklung. Retrieved 06.11.2021 from https://de.wikipedia.org/wiki/Nachhaltige_Entwicklung
+
+[^4]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+
+[^5]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[^6]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
