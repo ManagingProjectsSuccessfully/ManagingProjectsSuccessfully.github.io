@@ -13,6 +13,8 @@ In der folgenden Abbildung ist der projektspezifische „Controlling Regelkreis�
 
 *Controlling Regelkreis.* [^3]
 
+Dieser beschreibt einen sich wiederholenden Zyklus, dessen Häufigkeit sich nach dem Projektumfang richten sollte. Dabei kann sowohl das gesamte Projekt als auch nur einzelne Phasen betrachtet werden.
+
 # Teilbereiche des Projektcontrollings [^2]
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
