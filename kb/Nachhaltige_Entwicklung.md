@@ -10,8 +10,11 @@ Der Begriff „nachhaltige Entwicklung“, die deutsche Übersetzung des englisc
 
 # Die drei Imperativen der nachhaltigen Entwicklung
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Um eine nachhaltige Entwicklung zu erreichen, müssen die drei Imperative der nachhaltigen Entwicklung berücksichtigt werden: (1) die Befriedigung der menschlichen Bedürfnisse, (2) die Gewährleistung sozialer Gerechtigkeit und (3) die Einhaltung von Umweltgrenzen.
+
+Hier ist ein Bild, welches dieses Modell veranschaulicht:
+
+Politische Maßnahmen, die zu einer nachhaltigen Entwicklung führen, sind, im Grunde genommen, Maßnahmen, die gesellschaftlich wünschenswerte Ziele erreichen, ohne im Widerspruch zu den drei Einschränkungen der nachhaltigen Entwicklung zu stehen. Ein gesellschaftlich erwünschtes Ziel kann, zum Beispiel, Wirtschaftswachstum oder Wohlstand sein.
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -35,7 +38,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Die Befriedigung der menschlichen Bedürfnisse
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -47,7 +50,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *Modell*
 
-# Aspekt 2
+# Die Gewährleistung sozialer Gerechtigkeit
 
 * das
 * hier 
@@ -55,6 +58,16 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * eine 
 * Punkteliste
   - mit unterpunkt
+
+
+# Die Einhaltung von Umweltgrenzen
+* das
+* hier 
+* ist
+* eine 
+* Punkteliste
+  - mit unterpunkt
+
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
