@@ -15,11 +15,6 @@ Sie ermöglichen den Überblick über Wissensgebiete und deren Zusammengänge.
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
@@ -41,36 +36,38 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 1. Definition und Einsatzbereich
 2. Arten von Wissenslandkarten                 
-3. Ziele
+3. Ziele von Wissenslandkarten
 4. Vor- und Nachteile
+   1. Vorteile
+   2. Nachteile
 
 <img width="185" alt="projectPNG" src="https://user-images.githubusercontent.com/92877971/140620513-f9d5cb31-4a7f-4bb0-afef-32c2f2f420bc.PNG">
 
 *Project Manager[^1] *
 
-# Aspekt 2
+## 1. Definition und Einsatzbereich
+*„Knowledge is a valuable asset, but not if you can't find it 
+when you need it. Increasingliy, organizations are creating 
+"maps" of their intellectual assets and letting them guide 
+the way.“* - (C. Hildebrand[^2])
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## 2. Arten von Wissenslandkarten
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Im Folgenden werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufgeführt: 
 
-So kann man eine Tabelle erstellen:
+| Deutsche Bezeichnung      | Englische Bezeichnung       |     
+| ----------------------    | -------------               | 
+| Wissensträgerkarten       |  Knowledge source map       |
+| Wissensbestandskarten     |  Knowledge asset map        |
+| Wissensstrukturkarten     |  Knowledge structure map    |
+| Wissensanwendungskarten   |  Knowledge application map  |
+| Wissensentwicklungskarten |  Knowledge development maps |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## 3. Ziele von Wissenslandkarten
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
+## 4. Vor- und Nachteile
+### Vorteile
+### Nachteile
 
 Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
@@ -94,11 +91,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Weiterführende Literatur
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Hildebrand, 1998: Mapping the Invisible Workplace
+
 
 # Quellen
 
 [^1]: https://www.pinterest.de/pin/407012885071440518/, 
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: Hildebrand, 1998: Mapping the Invisible Workplace
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
