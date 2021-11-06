@@ -47,17 +47,24 @@ Eine weitere beliebte Möglichkeit sein Kanban Board zu unterteilen ist es, die 
 Swimlanes können auch genutzt werden, um das Kanban Board in wiederkehrende Prozesse zu unterteilen. Häufig haben Teams wiederkehrende Aufgaben, die in regelmäßigen Abständen erledigt werden müssen. Beispielweise müssen IT-Teams immer wieder Wartungsarbeiten durchführen. Damit diese simplen Arbeitsprozesse nicht vernachlässigt werden, können Swimlanes für einmalige und wiederkehrende Aufgaben erstellt werden. Dies stellt sicher das alle Aufgaben dokumentiert werden und somit die vermeintlich alltäglichen Prozesse nicht in Vergessenheit geraten.[^1][^5]
 
 ### **Verworfene Ideen**
-Bei der Arbeit an Projekten werden viele Ideen und Konzepte wieder verworfen ohne jemals umgesetzt zu werden. Manchmal ist eine Idee zum jeweiligen Zeitpunkt nicht realisierbar, beinhaltet jedoch trotzdem großes Potential für zukünftige Projekte. In so einem Fall kann eine Swimlane für verworfene Ideen als eine Art Sammlung dienen. Dadurch können gegebenenfalls auch später im Projekt bereits verworfene Konzepte wieder mit aufgenommen werden. Das wiederum ermöglicht eine höhere Felxibilität des gesamten Projekts.[^1]
+Bei der Arbeit an Projekten werden viele Ideen und Konzepte wieder verworfen ohne jemals umgesetzt zu werden. Manchmal ist eine Idee zum jeweiligen Zeitpunkt nicht realisierbar, beinhaltet jedoch trotzdem großes Potential für zukünftige Projekte. In so einem Fall kann eine Swimlane für verworfene Ideen als eine Art Sammlung dienen. Dadurch können gegebenenfalls auch später im Projekt bereits verworfene Konzepte wieder mit aufgenommen werden. Das wiederum ermöglicht eine höhere Flexibilität des gesamten Projekts.[^1]
 
+#
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Kanban](Kanban.md)
+* [Kanban_Pull_Prinzip](Kanban_Pull_Prinzip.md)
+* [Kanban_Karten](Kanban_Karten.md)
+* [Kanban_Boards](Kanban_Boards.md)
+* [Kanban_Work_in_Progress](Kanban_Work_in_Progress.md)
 * [Link auf diese Seite](Kanban_Swim_Lanes.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Kanban Wikipedia](https://de.wikipedia.org/wiki/Kanban)
+* [Kanban Swimlanes Google Scholar](https://scholar.google.com/scholar?hl=de&as_sdt=0,5&q=kanban+swimlanes)
+
 
 # Quellen
 
@@ -70,8 +77,3 @@ Bei der Arbeit an Projekten werden viele Ideen und Konzepte wieder verworfen ohn
 [^4]: [What are swimlanes and how to use them?](https://kanbantool.com/support/kanban-board/what-are-swimlanes)
 
 [^5]:  [What are Kanban Board Swimlanes? And How to Use Them](https://blog.planview.com/what-are-kanban-board-swimlanes-and-how-to-use-them/)
-
-
-
-
-
