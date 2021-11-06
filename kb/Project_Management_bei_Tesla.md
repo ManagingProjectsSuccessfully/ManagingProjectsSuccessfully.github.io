@@ -10,10 +10,21 @@ Kurzbeschreibung zu Project_Management_bei_Tesla um ein erstes Verständnis daf�
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Das Unternhemen Tesla 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Tesla ist ein US-Amerikanischer Konzern, der sich auf die Entwicklung und Fertigung von Elektroautos spezialisiert hat. 
+Neben dem Autombilgeschäft, vertreibt Tesla weitere Produkte, die den Übergang zu einer CO2 neutralen Mobilität und Enrgiegewinnung ermöglichen[^1]. 
+Gründer und CEO von Tesla ist der inovative und teils auch polarisierende Unternehmer Elon Musk [^2].
+
+# Agiles Projektmanagement bei Tesla 
+
+Anders als bestehende Automobilkonzerne arbeitet Tesla bevorzugt mit agilen Projektmanagement-Methoden, ähnlich wie ein Software-Unternhemen. (link zu Spotify) Anstatt über einen langen Zeitraum Verbesserungspotentiale zu identfiieren, zu erfoschen und letztendlich in einem Face-Lift Modell zu veröffentlichen, hat Tesla ein andere Philosophie [^3]. 
+Tesla verbessert kontinuierlich seine Produkte, sowohl softwareseitig, als auch die Technik und Hardware der Fahrzeuge wird laufend überarbeitet. So werden in kürzeren Intervallen die Produkte geringfügig verbessert. Bei anderen Autoherstellern werden bisher im zwei bis drei Jahre Rhytmus Face-Lifts mit marginalen Verbesserungen und alle vier bis fünf Jahre neue Modelle mit größeren Veränderungen herausgebracht. Während diesen Zeitperioden erfolgte keine weiteren Verbesserungen. 
+Durch den agilen Ansatz, bietet Tesla seinen Kunden z.B. neue Softwarefeatures sobald wie möglich über over-the-air Updates an und verbessert diese bei Bedarf im Laufe der Zeit. Auch bei technischen Verbesserungen an seinen Fahrzeugen wartet Tesla u.U. nicht bis zur Verööfentlichung eines neuen Modells. Stattdessen werden kleinere Änderungen ohne großen Anküdnigungen implementiert. So zum Beispiel aktuell neue Batterien mit mehr Reichweite im Tesla Model 3[^4]. Softwareverbesserungen hingegen kommen selbstverstädnlich allen Beteiligten zu gute. 
+
+## Nachteile agiler Mehoden in der Automobilbranche 
+
+Ein Nachteil dieses Arbeitsansatzes besteht darin, dass das Produkt im Beta-Zustand an die Kunden ausgeliefert wird. So hat Tesla noch immer Probleme mit Spaltmaßen, Softwarebugs oder lauten Abrollgeräuschen [^3]. Ein weiterer Punkt, der bei Kunden für Verärgerung sorgen könnte, sind die unakündigten, kleinen inkrementellen Verbesserungen an den Fahrzeugen. Zum einen freuen sich Neukunden über z.B. eine gestiegene Reichweite, zum anderen könnten Bestandskunden, die ihr Fahrzeug erst vor einigen Wochen bzw. Monaten erworben haben, verärgert über unerwartete technische Verbesserungen sein. 
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -97,8 +108,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Tesla Website](https://www.tesla.com/de_de/energy)
+[^2]: [Elon Musk; Frankfurter Allgemeine Zeitung](https://www.faz.net/podcasts/f-a-z-digitec-podcast/elon-musk-ist-reicher-als-jeder-andere-was-will-er-17619427.html)
+[^3]: [CleanTechnica; Tesla Has Applied Agile Software Development To Automotive Manufacturing](https://cleantechnica.com/2018/09/01/tesla-has-applied-agile-software-development-to-automotive-manufacturing/)
+[^4]: [Auto-Motor-Sport; Tesla Model 3 mit neuer Batterie](https://www.auto-motor-und-sport.de/elektroauto/tesla-model-3-mit-neuer-batterie-umbenennung-modellpflege/)
 
