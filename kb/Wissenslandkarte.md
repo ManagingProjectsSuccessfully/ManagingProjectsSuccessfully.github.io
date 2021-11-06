@@ -40,13 +40,13 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 # Agenda
 
 1. Definition und Einsatzbereich
-2. Arten von Wissenslandkarten 
+2. Arten von Wissenslandkarten                 
 3. Ziele
 4. Vor- und Nachteile
 
-![projectmanager](https://user-images.githubusercontent.com/92877971/140619615-88f06195-28ae-4c80-8036-e085e9d8ce6c.jpg)
+<img width="185" alt="projectPNG" src="https://user-images.githubusercontent.com/92877971/140620513-f9d5cb31-4a7f-4bb0-afef-32c2f2f420bc.PNG">
 
-*lustiges Testbild*
+*Project Manager[^1] *
 
 # Aspekt 2
 
@@ -97,8 +97,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: https://www.pinterest.de/pin/407012885071440518/, 
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
 
