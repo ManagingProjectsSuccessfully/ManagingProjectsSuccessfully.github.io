@@ -4,6 +4,30 @@ tags: agil klassisch
 author: JonasMallwitz
 anrechnung: k oder a
 ---
+# Zertifizierungen und deren Bedeutung im Projektmanagement 
+
+Bereits in den vorherigen Artikeln wurde deutlich betont, dass es nicht nur eine gültige Definition von Projektmanagement gibt und es neben der klassischen und agilen Variante zu Abweichungen in der praktischen Umsetzung kommen kann. 
+Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der Umsetzung des Projektmanagements treffen zu können, ist es notwendig, die Fähigkeiten von unabhängigen und breitflächig akzeptierten Instanzen zertifizieren zu lassen. Dies geschieht über Zertifizierungsstellen wie z.B. der DEKRA, dem TÜV oder der Deutschen Gesellschaft zur Zertifizierung von Managementsystemen (DQS), die neben der Lehre auch eine Prüfung zur Zertifikatsausstellung anbieten.
+
+ZERTIFIZIERUNGSSTELLEN QUELLEN PRÜFEN!
+
+# Vergleich der Projektmanagementstandards mit Möglichkeit zur Zertifizierung
+
+Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche Projektmanagementstandards an. Diese Projektmanagementstandards werden oft in unterschiedlicher Modifikation von einem Verband angeboten. Die folgende Tabelle gibt Aufschluss über die drei größten Verbände und deren Projektmanagementstandards mit Möglichkeit zur Zertifizierung.
+
+| Verband  | IMPA | PMI | Prince2 |
+| ------------- | ------------- | ------------- | ------------- |
+| ------------- | Content Cell  | ------------- | ------------- |
+| Content Cell  | Content Cell  | ------------- | ------------- |
+
+## Schlussfolgerung aus der Tabelle
+
+# Praktische Relevanz von Zertifizierungen im Projektmanagment
+
+# Fazit
+
+QUELLENANGABEN
+
 
 Kurzbeschreibung zu Zertifizierungen um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
@@ -64,7 +88,7 @@ So kann man eine Tabelle erstellen:
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| ------------- | Content Cell  |
 | Content Cell  | Content Cell  |
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
@@ -101,4 +125,15 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+# Test
+
+# Vergleich von Projektmanagementstandards
+
+Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche Projektmanagementstandards an. Dabei werden unterschiedliche Zertifizierungen oft von einem (Dach-)Verband angeboten. Die folgende Tabelle gibt Aufschluss über die drei größten Verbände (Anbietern) und deren Zertifikatsoptionen.
+
+| Verband  | IMPA | PMI | Prince2 |
+| ------------- | ------------- | ------------- | ------------- |
+| ------------- | Content Cell  | ------------- | ------------- |
+| Content Cell  | Content Cell  | ------------- | ------------- |
 
