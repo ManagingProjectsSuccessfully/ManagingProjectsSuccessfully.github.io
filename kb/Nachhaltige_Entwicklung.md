@@ -1,16 +1,14 @@
 ---
 title: Nachhaltige_Entwicklung
-tags: agil klassisch
+tags: klassisch
 author: JoseOliveira2
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Nachhaltige_Entwicklung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Der Begriff „nachhaltige Entwicklung“, die deutsche Übersetzung des englischen Begriffs „sustainable development“, wird im allgemeinen Sprachgebrauch unterschiedlich verwendet und oft sehr stark mit sozialen und ökologischen Aspekten assoziiert[^2]. Laut Wikipedia, bezeichnet er „eine Entwicklung, die den Bedürfnissen der jetzigen Generation dient, ohne die Möglichkeiten künftiger Generationen zu gefährden, ihre Bedürfnisse zu befriedigen“[^3]. Für Holden, Linnerud, & Banister[^1] ist nachhaltige Entwicklung ein normatives Wertesystem, welches eng mit Menschenrechten, Demokratie und Freiheit verknüpft ist. Daher beruht das Konzept der nachhaltigen Entwicklung auf drei Imperativen: Befriedigung menschlicher Bedürfnisse, Gewährleistung sozialer Gerechtigkeit und Respektierung der Umweltgrenzen.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Die drei Imperativen der nachhaltigen Entwicklung
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -47,7 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 ![Beispielabbildung](Nachhaltige_Entwicklung/test-file.jpg)
 
-*lustiges Testbild*
+*Modell*
 
 # Aspekt 2
 
@@ -97,8 +95,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: Holden, E., Linnerud, K., & Banister, D. (2017). The Imperatives of Sustainable Development. Sustainable Development, 25(3). https://doi.org/10.1002/sd.1647
+
+[^2]: Mensah, J. (2019). Sustainable development: Meaning, history, principles, pillars, and implications for human action: Literature review. Cogent Social Sciences, 5(1). https://doi.org/10.1080/23311886.2019.1653531
+
+[^3] Wikipedia
+
+[^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
