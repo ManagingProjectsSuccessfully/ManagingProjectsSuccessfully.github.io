@@ -34,7 +34,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 # Agenda
 
-1. Definition und Einsatzbereich
+1. Begriffserklärung
 2. Arten von Wissenslandkarten                 
 3. Ziele von Wissenslandkarten
 4. Vor- und Nachteile
@@ -43,29 +43,34 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 <img width="185" alt="projectPNG" src="https://user-images.githubusercontent.com/92877971/140620513-f9d5cb31-4a7f-4bb0-afef-32c2f2f420bc.PNG">
 
-*Project Manager[^1] *
+*Abbildung1[^1] *
 
-## 1. Definition und Einsatzbereich
-*„Knowledge is a valuable asset, but not if you can't find it 
-when you need it. Increasingliy, organizations are creating 
-"maps" of their intellectual assets and letting them guide 
-the way.“* - (C. Hildebrand[^2])
+## 1. Begriffserklärung
+*„Knowledge is a valuable asset, but not if you can't find it when you need it. Increasingliy, organizations are creating "maps" of their intellectual assets and letting them guide the way.“* - (C. Hildebrand[^2])
+
+Das Strukturieren von Wissen ist, nach Golinsky[^3], essenziell. In einem Unternehmen kommen die unterschiedlichsten Mitarbeiter mit den verschiedensten Fähigkeiten zusammen.  Eine Folge hiervon ist die Bildung eines großen und meist unstrukturierten Pools an Wissen.  
+Zum Erhalt der Wettbewerbs- und Innovationsfähigkeit von Unternehmen spielt das Wissenskapital einer Organisation eine gravierende Rolle. 
+Um den Überblick und die Transparenz über das Wissenspotenzial der Mitarbeiter nicht aus den Augen zu verlieren, kommt das Tool des Wissensmanagements, Wissenslandkarten, in den Einsatz. *„Es sollen nicht mehr nur Elemente isoliert voneinander betrachtet werden, sondern es soll strukturelles Wissen in seiner vollen Komplexität erfasst und bewertet werden.“* - (Ott 2003[^4])
+Die Kunst besteht darin die Kernkompetenzen der Unternehmung darzustellen und für alle Mitarbeiter zugänglich zu machen.
+Wissenslandkarten stellen Wissensgebiete und deren Zusammenhänge grafisch dar. Sie werden zudem zur Verwaltung von Wissenskapital in Unternehmen genutzt. 
+Nach Heyer[^5] ist es mit Wissenslandkarten möglich in Form eines Grafen eine Übersicht wesentlicher Schlüsselwörter einer Textsammlung und deren inhaltliche Vernetzung darzustellen. 
 
 ## 2. Arten von Wissenslandkarten
 
 Im Folgenden werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufgeführt: 
 
-| Deutsche Bezeichnung      | Englische Bezeichnung       |     
-| ----------------------    | -------------               | 
-| Wissensträgerkarten       |  Knowledge source map       |
-| Wissensbestandskarten     |  Knowledge asset map        |
-| Wissensstrukturkarten     |  Knowledge structure map    |
-| Wissensanwendungskarten   |  Knowledge application map  |
-| Wissensentwicklungskarten |  Knowledge development maps |
+| Deutsche Bezeichnung      | Englische Bezeichnung       |  Beispiel                   |
+| ----------------------    | -------------               | --------------------------  |
+| Wissensträgerkarten       |  Knowledge source map       | Gelbe Seiten                |
+| Wissensbestandskarten     |  Knowledge asset map        | Rechenzentrum               |
+| Wissensstrukturkarten     |  Knowledge structure map    | MindMaps                    |
+| Wissensanwendungskarten   |  Knowledge application map  | Geschäftsprozesse           |
+| Wissensentwicklungskarten |  Knowledge development maps | Beziehungsnetze             |
 
-*Tabelle 1*[^3]
+*Tabelle 1*[^6]
 
 ## 3. Ziele von Wissenslandkarten
+Es stellt sich nun die Frage: Wozu sollten Unter
 
 ## 4. Vor- und Nachteile
 ### Vorteile
@@ -99,9 +104,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: https://www.pinterest.de/pin/407012885071440518/, 
+[^1]: [Abbildung1])(ttps://www.pinterest.de/pin/407012885071440518/)
 [^2]: Hildebrand, 1998: Mapping the Invisible Workplace
-[^3]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^3]: [Agile Verwaltung](https://agile-verwaltung.org/tag/wissenslandkarte/)
+[^4]: [Wissenslandkarten als Instrument des kollektiven Wis-sensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?f
+orumid=286&v=1&id=166113)
+[^5]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/file/BA_Tina_Giersch.pdf)
+[^6]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
+
 
 
