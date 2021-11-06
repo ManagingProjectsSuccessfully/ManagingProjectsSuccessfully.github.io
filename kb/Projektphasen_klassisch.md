@@ -2,17 +2,32 @@
 title: Projektphasen_klassisch
 tags: agil klassisch
 author: vegas1337
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Projektphasen_klassisch um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Eine Projektphase ist "ein definierter Zeitraum innerhalb der Laufzeit eines Projekts, der meist durch jeweils einen *Meilenstein* zu Beginn und Ende im Ablaufplan definiert ist".[^1] Die Einteilung eines Projekts in verschiedene Phasen dient dabei das *Projekt* (egal ob groß oder klein) übersichtlicher zu machen und dabei die Kontrolle und Qualität zu erleichtern bzw. zu verbessern. Dies wird durch eine verbesserte Projektsteuerung, z.B. die genaue Verteilung von Aufgaben, und erleichterte Erfolgsprüfung dank genauer Definition von Beginn und Abschluss der Phasen durch *Meilensteine* gewährleistet.[^2]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Je nach Quelle und Definition werden klassische Projekte in 4 bis 5 Phasen unterteilt und Schwerpunkt der einzelnen Phasen teilweise auch etwas anders gesetzt. Die Reihenfolge kann sich ändern bzw. könne einzelne Schritte im Projekt auch öfter wiederholt werden, bis man zu dem gewünschten Ergebnis kommt.
+Im Folgenden werden Modelle mit 5 Phasen betrachet[^3]:
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+* Projektvorbereitung
+* Projektplanung
+* Projektdurchfühhrung
+* Projektüberwachung
+* Projektabschluss
 
-Das ist ein Test
+# Projektphasen im Detail
+
+## 1. Projektvorbereitung / Projektstart
+
+In dieser ersten Phase wird ein Projekt definiert, Ziele festgelegt und unter anderem Chancen und Risiken diskutiert.[^2] Zusätzlich werden die wichtigsten Stakeholder indentifiziert und das Projekt auf die Umsetzbarkeit und Wirtschaftlichkeit für das ausführende Unternehmen geprüft. Dazu gehören Themen wie die *Kosten-Nutzen-Analyse*  oder auch die Ausarbeitung eines genauen Zeitplans.[^3] 
+
+Des Weiteren wird die Planung von benötigten Ressourcen in punkto Arbitskraft oder auch Rohstoffe bzw. Maschinen angegangen. Wichtig ist dabei auch der Ausführungsort des Projekts. Plant man beispielsweise den Bau einer Fabrik in einem anderen Land, so müssen eventuelle rechtliche Bestimmungen zum Thema Arbeitsrecht oder die Einfuhr von Gütern geklärt werden. Hat man keine Rohstoffe und Maschinen vor Ort, müsste man einen möglichen Import dieser Güter in das Zielland auf Rentabilität prüfen. Bei Projekten im IT-Sektor und nicht-physischen Endprodukten entfallen natürlich einige dieser Prüfungsschritte.
+
+Viele Unternehmen haben auch bestimmte Wert- bzw. Umsatzgrenzen, ab wann ein Projekt von einer höheren Managementebene freigegeben werden muss. Wurden alle Rahmenbedingungen geklärt und der Projektantrag bewilligt, folgt die Projektplanung.[^4] 
+
+## 2. Projektplanung
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -99,8 +114,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [projektmagazin: Projektphasen](https://www.projektmagazin.de/glossarterm/projektphase)
+[^2]: [ProjectWizards: Wie Sie Projektphasen erfolgreich planen](https://www.projectwizards.net/de/blog/2019/06/project-phases)
+[^3]: [MindManagerBlog: Die fünf Phasen dees Projektmanagement-Prozesses](https://blog.mindmanager.com/de/blog/die-funf-phasen-des-projektmanagement-prozesses/)
+[^4]: Eigene Erfahrung aus Ausbildungsphase bei Finance-Abteilung der Siemens Energy AG in Stuttgart für die Faser-Industrie
 
