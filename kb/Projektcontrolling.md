@@ -17,8 +17,11 @@ Dieser beschreibt einen sich wiederholenden Zyklus, dessen Häufigkeit sich nach
 
 # Teilbereiche des Projektcontrollings [^2]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Projektkalkulation
+
+## Projektleistung
+
+## Projektkontrolle
 
 
 
