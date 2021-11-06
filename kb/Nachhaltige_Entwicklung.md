@@ -2,7 +2,7 @@
 title: Nachhaltige_Entwicklung
 tags: agil klassisch
 author: JoseOliveira2
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Nachhaltige_Entwicklung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
