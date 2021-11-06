@@ -49,7 +49,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 Das Strukturieren von Wissen ist, nach Golinsky[^3], essenziell. In einem Unternehmen kommen die unterschiedlichsten Mitarbeiter mit den verschiedensten Fähigkeiten zusammen.  Eine Folge hiervon ist die Bildung eines großen und meist unstrukturierten Pools an Wissen.  
 Zum Erhalt der Wettbewerbs- und Innovationsfähigkeit von Unternehmen spielt das Wissenskapital einer Organisation eine gravierende Rolle. 
-Um den Überblick und die Transparenz über das Wissenspotenzial der Mitarbeiter nicht aus den Augen zu verlieren, kommt das Tool des Wissensmanagements, Wissenslandkarten, in den Einsatz. *„Es sollen nicht mehr nur Elemente isoliert voneinander betrachtet werden, sondern es soll strukturelles Wissen in seiner vollen Komplexität erfasst und bewertet werden.“* - (Ott 2003[^4])
+Um den Überblick und die Transparenz über das Wissenspotenzial der Mitarbeiter nicht aus den Augen zu verlieren, kommt das Tool des Wissensmanagements, Wissenslandkarten, in den Einsatz. *„Es sollen nicht mehr nur Elemente isoliert voneinander betrachtet werden, sondern es soll strukturelles Wissen in seiner vollen Komplexität erfasst und bewertet werden.“* - (Ott 2003[^4]).
 Die Kunst besteht darin die Kernkompetenzen der Unternehmung darzustellen und für alle Mitarbeiter zugänglich zu machen.
 Wissenslandkarten stellen Wissensgebiete und deren Zusammenhänge grafisch dar. Sie werden zudem zur Verwaltung von Wissenskapital in Unternehmen genutzt. 
 Nach Heyer[^5] ist es mit Wissenslandkarten möglich in Form eines Grafen eine Übersicht wesentlicher Schlüsselwörter einer Textsammlung und deren inhaltliche Vernetzung darzustellen. 
