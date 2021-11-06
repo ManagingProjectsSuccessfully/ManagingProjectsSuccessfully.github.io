@@ -18,13 +18,27 @@ Gründer und CEO von Tesla ist der inovative und teils auch polarisierende Unter
 
 # Agiles Projektmanagement bei Tesla 
 
-Anders als bestehende Automobilkonzerne arbeitet Tesla bevorzugt mit agilen Projektmanagement-Methoden, ähnlich wie ein Software-Unternhemen. (link zu Spotify) Anstatt über einen langen Zeitraum Verbesserungspotentiale zu identfiieren, zu erfoschen und letztendlich in einem Face-Lift Modell zu veröffentlichen, hat Tesla ein andere Philosophie [^3]. 
+Anders als bestehende Automobilkonzerne arbeitet Tesla bevorzugt mit agilen Projektmanagement-Methoden, ähnlich wie ein [Software-Unternhemen](ManagingProjectsSuccessfully.github.io/kb/Spotify_Projectmanagement_Model.md). (link zu Spotify) Anstatt über einen langen Zeitraum Verbesserungspotentiale zu identfiieren, zu erfoschen und letztendlich in einem Face-Lift Modell zu veröffentlichen, hat Tesla ein andere Philosophie [^3]. 
 Tesla verbessert kontinuierlich seine Produkte, sowohl softwareseitig, als auch die Technik und Hardware der Fahrzeuge wird laufend überarbeitet. So werden in kürzeren Intervallen die Produkte geringfügig verbessert. Bei anderen Autoherstellern werden bisher im zwei bis drei Jahre Rhytmus Face-Lifts mit marginalen Verbesserungen und alle vier bis fünf Jahre neue Modelle mit größeren Veränderungen herausgebracht. Während diesen Zeitperioden erfolgte keine weiteren Verbesserungen. 
 Durch den agilen Ansatz, bietet Tesla seinen Kunden z.B. neue Softwarefeatures sobald wie möglich über over-the-air Updates an und verbessert diese bei Bedarf im Laufe der Zeit. Auch bei technischen Verbesserungen an seinen Fahrzeugen wartet Tesla u.U. nicht bis zur Verööfentlichung eines neuen Modells. Stattdessen werden kleinere Änderungen ohne großen Anküdnigungen implementiert. So zum Beispiel aktuell neue Batterien mit mehr Reichweite im Tesla Model 3[^4]. Softwareverbesserungen hingegen kommen selbstverstädnlich allen Beteiligten zu gute. 
 
-## Nachteile agiler Mehoden in der Automobilbranche 
+
+
+## Scrum in der Fertigung von Autos 
+
+Tesla ist eines das erste Unternehmen, welches die agile Projektmanagementmethode [Scrum](ManagingProjectsSuccessfully.github.io/kb/SCRUM.md) für die Fertigung seiner Autos einsetzt. 
+
+
+<img src="https://user-images.githubusercontent.com/92781586/140620213-cf3c2493-bea7-424c-973e-12aa1d056c2d.png" width="450" height="220" alt="Scrum im Fahrzeugbau" align="middle">
+*Scrum im Fahrzeugbau*
+
+## Nachteile agiler Methoden in der Automobilbranche 
 
 Ein Nachteil dieses Arbeitsansatzes besteht darin, dass das Produkt im Beta-Zustand an die Kunden ausgeliefert wird. So hat Tesla noch immer Probleme mit Spaltmaßen, Softwarebugs oder lauten Abrollgeräuschen [^3]. Ein weiterer Punkt, der bei Kunden für Verärgerung sorgen könnte, sind die unakündigten, kleinen inkrementellen Verbesserungen an den Fahrzeugen. Zum einen freuen sich Neukunden über z.B. eine gestiegene Reichweite, zum anderen könnten Bestandskunden, die ihr Fahrzeug erst vor einigen Wochen bzw. Monaten erworben haben, verärgert über unerwartete technische Verbesserungen sein. 
+
+# Projekt Management by Elon Musk 
+
+
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
