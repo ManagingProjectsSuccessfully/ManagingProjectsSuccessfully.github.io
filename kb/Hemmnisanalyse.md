@@ -2,7 +2,7 @@
 title: Hemmnisanalyse
 tags: agil klassisch
 author: biancamg
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Hemmnisanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
