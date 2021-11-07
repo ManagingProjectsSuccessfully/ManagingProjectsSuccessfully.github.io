@@ -37,7 +37,7 @@ Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil 
 ![Varianten quelloffener Softwareprojekte](https://github.com/AnnaSophieNi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Open_Source_Projekte/OpenSourceProjekte_Landkarte.png) 
 *Beispiele Open Source Projekte*[^4]
 
-### Die 3 erfolgreichsten Open-Source Projekte gemäß Battery Open-Source Software Index (BOSS) [^4]
+### Die 3 erfolgreichsten Open-Source Projekte gemäß Battery Open-Source Software Index (BOSS) [^5]
 
 
 | Rang          | Projekt       | Unternehmen   | 
@@ -45,6 +45,10 @@ Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil 
 | 1             | LINUX         | RedHat        | 
 | 2             | Git           | GitHub        | 
 | 3             | My SQL        | Oracle        |
+
+## Vorteile von Open-Source Projekten
+
+Einer der wichtigsten und größten Vorteile von Open Source Projekten stellt das sog. „Peer review“ – Prinzip dar. Da Quellcodes frei zugänglich sind können diese von Peer-Programmieren aktiv beurteilt werden. Im besten Fall trägt dies dazu bei, dass Fehler schnell aufgedeckt oder gar beseitigt werden können. Durch die Offenheit der Open Source Systeme können außerdem Andere aus der erfolgten Problemlösung lernen oder auch bereits vorhandene und bewährte Lösungen wiederverwenden. Und auch Innovationen können durch das Zusammentreffen großer, vielfältiger Communitys begünstigt werden. Andere Werte von Open Source Projekten stellen aber auch die Flexibilität, Schnelligkeit, Transparenz und Niedrigere Kosten dar.[^6]
 
 
 # Siehe auch
@@ -61,3 +65,5 @@ Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil 
 [^2]: [History of the OSI,The Open Source Definition] (https://opensource.org/history)
 [^3]: [Open Source Softwareprojekte zwischen Passion und Kalkül] (https://www.econstor.eu/bitstream/10419/121857/1/838749496.pdf)
 [^4]: [Open-Source-Projekte: vom Nischenphänomen zum integralen Bestandteil der Softwareindustrie] (https://www.sowi.uni-stuttgart.de/abteilungen/oi/publikationen/wsi_schrape_oss.pdf)
+[^5]: [Tracking the explosive growth of open source software](https://techcrunch.com/2017/04/07/tracking-the-explosive-growth-of-open-source-software/) 
+[^6]: [Stärken und Schwächen freier Open Source Software im Unternehmen] (http://www.opensourcejahrbuch.de/download/jb2004/chapter_02/II-3-Wieland.pdf)
