@@ -119,7 +119,7 @@ Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine 
 
 # Quellen
 
-[^1]: [ProjectManager](ttps://www.pinterest.de/pin/407012885071440518/)
+[^1]: [ProjectManager](https://www.pinterest.de/pin/407012885071440518/)
 [^2]: Hildebrand, 1998: Mapping the Invisible Workplace
 [^3]: [Agile Verwaltung](https://agile-verwaltung.org/tag/wissenslandkarte/)
 [^4]: [Wissenslandkarten als Instrument des kollektiven Wissensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?forumid=286&v=1&id=166113)
