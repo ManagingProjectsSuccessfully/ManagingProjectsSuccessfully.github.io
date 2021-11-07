@@ -23,8 +23,8 @@ Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Prokjekt vorge
 
 
 
-# Earnd Value Analyse
-Auf dem unterhalb dieses Textes sehen Sie das Diagramm einer Earnd Value Analyse (EVA)
+# Earned Value Analyse
+Auf dem unterhalb dieses Textes sehen Sie das Diagramm einer Earned Value Analyse (EVA)
 Die Earned Value Analysis oder auch Ertragswertanalyse bezieht die Kosten und Leistungen eines Projekts aufeinander und erlaubt so eine präziese Kostenkontrolle.
 Zum Stichtag werden sowohl die Kosten als auch die Leistungen mit den Planwerten verglichen.
 
@@ -60,17 +60,14 @@ Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, näm
 * [Earned Value Analyse](Earned_Value_Analyse.md)
 * [Kosten- Nutzenanalyse](Kosten_Nutzen_Analyse.md)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... [^1]:
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-[^5]: 
+[^1]: http://www.pm-schluessel.com/index.php?option=com_content&view=article&id=213&Itemid=331
+
+[^2]: 
+[^3]: 
+[^4]: 
 
 
 
