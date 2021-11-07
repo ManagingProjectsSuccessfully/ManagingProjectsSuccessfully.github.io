@@ -7,7 +7,7 @@ anrechnung: k oder a
 
 Ein Unternehmen, viele Standorte und eine große Mitarbeiterzahl. Unter diesen Umständen kann sich sehr schnell viel Wissen ansammeln und die Herausforderung besteht dann darin, den Überblick beizubehalten und Transparenz zu schaffen. 
 In diesem Beitrag wird es um sogenannte „Wissenslandkarten“ gehen. 
-Sie ermöglichen den Überblick über Wissensgebiete und deren Zusammengänge. 
+Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und deren Zusammengänge. 
 
 
 # Wissenslandkarten: Ein modernes Tool des Wissensmanagement 
