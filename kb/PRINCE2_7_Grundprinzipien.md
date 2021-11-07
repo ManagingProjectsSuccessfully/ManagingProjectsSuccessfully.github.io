@@ -5,90 +5,124 @@ author: Za22Regi
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu PRINCE2_7_Grundprinzipien um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+PRINCE2 basibesteht aus 4 Elementen: 
+- 7 Grundprinzipien
+- 7 Themen
+- 7 Prozesse
+- Projektumgebung
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind der Kern eines PRINCE2 Projekts.
 
 
-# Aspekt 1
+# PRINCE2 - Die 7 Grundprinzipien
+Beitrag von Ola Abu-Khousa
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+*Erstellt am 08.November 2021*
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![PRINCE](https://user-images.githubusercontent.com/92877971/140651330-26dd4a9f-9eb8-4a5f-8587-575a44468753.jpg)
 
-![Beispielabbildung](PRINCE2_7_Grundprinzipien/test-file.jpg)
 
-*lustiges Testbild*
+*Prince Charming[^2]*
 
-# Aspekt 2
+# Agenda
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+1. Begriffserklärung
+2. 7 Grundprinzipien             
+3. Vor- und Nachteile
+   1. Vorteile
+   2. Nachteile
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## 1. Begriffserklärung
+PRINCE2 steht für "[Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2) oder auf deutsch "Projekte in kontrollierten Umgebungen". Von Projektstart bis  Projektende wird jedes Projekt definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. Die Methode basiert auf 7 Grundprinzipien, welche sich auf die Erfahrung guter und schlechter Projekte stützen. 
 
-So kann man eine Tabelle erstellen:
+## 2. 7 Grundprinzipien
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+1. Fortlaufende geschäftliche Rechtfertigung   
+   *Folgende Anforderungen müssen gegeben sein: 
+   - Berechtigter Grund für Projektstart 
+   - Gültigkeit der Rechfertigung muss während des gesamten Projekts beibehalten werden
+   - Dokumentierte und genehmigte Rechtfertigung
+   - Dokumentation in Form eines Business Case
+   - Ziel: Sicherstellen, dass Projekt geschäftlichen Ziele und angestrebten Nutzen erfüllt 
+   
+2. Wervolle Erfahrung 
+   *Projektteams lernen aus früher gemachten Erfahrungen 
+   - Über gesamten Projektverlauf: Sammlung, Aufzeichnung, Umsetzung neuer Erfahrungen 
+   - Bei Projektstart: Überprüfung früherer Erfahrungen aus vergangenen Projekten
+   - Während des Projekts: Umsetzung möglichst vieler Verbesserungen
+   - Bei Projektabschluss: Weitergeben der gemachten Erfahrungen
+   
+3. Definierte Rollen
+   - Klar definierte Rollen und Verantwortlichkeiten
+   - Wichtigsten Stakeholder: Unternehmen, Liefersnten, Kunden/Nutzer
+   - Interessen werden jeweils vertreten 
+   - Verteter der geschäftlichen Unternehmensinteressen: Sicherstellung, dass Zielsetzung des Projekts geschäftlich sinnvoll ist
+   - Verteter der Nutzer: Erzielung des angestrebten Nutzens, durch Einsetzen hergestellter Produkte 
+   - Vertreter der Lieferanten: Bereitstellung von Ressourcen und erforderliche Kenntnisse für Herstellung der Produkte 
+   
+4. Definierte Phasen 
+   - Planung, Überwachung, Steuerung    
+   - Prüfung des Fortschritts 
+   - Am Ende einer jeden Phase: Bewertung des Projektstatus und Überprüfung von Business Case und Pläne
+   -  Entscheidung über Weiterführung des Projekts  
+   -  Management-Phasen: Grober Projektplan mit detailliertem Phasenplan für aktuelle Phase
+   -  Mindestens 2 Management-Phasen sind notwendig
+   -  Inizierungsphase und eine/mehrere zusätzliche Management-Phasen
+   -  Aufwendige kurze Phasen ermöglichen engere Steuerung
+   -  Längere Phasen entlasten Management-Ebene 
+   
+5. Steuern nach Ausnahmeprinzip
+   - Rationeller Einsatz der Arbeitszeit der Unternehmensführung
+   - Zeitliche Entlastung der Führungskräfte
+   - Beibehaltung der Kontrolle über Projekt 
+   - Treffen von Entscheidungen auf richtigen Ebene 
+   - Delegierung der Befugnisse von einer Ebene zur anderen
+   - Definierung von Ausnahmen der 6 Dimensionen: Zeit, Kosten, Qualität, Umfang, Nutzen, Risiko
+         
+6. Produktorientierung: 
+   - Ausrichtung auf Defintion und Lieferung von Produkten 
+   - Fokus auf Qualitätsanforderungen    
+   - Basis für Planung und Steuerung: Menge der Produkte, definiert Inhalt und Umfang des Projekts
+   - Durch Produktbeschreibungen gemeinsames Verständnis der Stakeholder über Produkt 
+   - Produktbeschreibungen enthalten Festlegungen zu Zweck, Zusammensetzung, Herkunft, Format, QUalitätskriterien und Qualitätsprüfmethoden
+   - Erschliesßung von Aufwand, Ressourcenbedarf, Abhängigkeiten
+   
+7. Angepasste Projektumgebung
+   - Universelle Projektmanagement-Methode
+   - Abhänging von Umgebung, Komplexität, Umfang, Leistungsfähigkeit und Risiken des Projekts
+   - Projektleiter Dokumentation beschreiben wie PRINCE2 an jeweilige Projektr angepasst wurde
+   
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+| Grundprinzipien               | Second Header |
+| -------------                 | ------------- |
+| 1. Laufende Rechtfertigung    |               |
+| 2. Wervolle Erfahrung         | Content Cell  |
+| 3. Definierte Rollen          | Content Cell  |
+| 4. Definierte Phasen          | Content Cell  |
+| 5. Definierte Ausnahmen       | Content Cell  |
+| 6. Fokussiertes Produkt       | Content Cell  |
+| 7. Angepasste Projektumgebung | Content Cell  |
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+
+## 3. Vor- und Nachteile
+### Vorteile
+### Nachteile 
+
+
+
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [PRINCE2_7_Themen](kb/PRINCE2_7_Themen.md)
+* [PRINCE2_7_Prozesse](kb/PRINCE2_7_Prozesse.md)
+* [PRINCE2_Projektumgebung](kb/PRINCE2_Projektumgebung.md)
 * [Link auf diese Seite](PRINCE2_7_Grundprinzipien.md)
 
 # Weiterführende Literatur
@@ -97,7 +131,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+* https://www.prince2.com/de/blog/prinzipien-themen-prozesse
+* 
+[^1]: [Prince Charming](https://quotesgram.com/img/my-prince-quotes/12903458/)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
