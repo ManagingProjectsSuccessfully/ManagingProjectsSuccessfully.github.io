@@ -5,21 +5,47 @@ author: Creed229
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Failure_Mode_and_Effects_Analysis um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+## Definition
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+> Failure mode and effects analysis [(FMEA)](https://de.wikipedia.org/wiki/FMEA) is a structured approach for discovering possible failures that may occur in the design of a product or process.[^1] 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Es handelt sich also um eine Schritt für Schritt Analyse bei der alle Bereiche eines Projekts auf mögliche Fehlerstellen überprüft werden. Besonders zu Beginn eines Projekts ist eine solches Risikoeinschätzung enorm wichtig, um später kostenintensive Fehlerbehebungen vermeiden zu können. Die Analyse produziert mehrere Kennzahlen mit denen das Fehlerpotential des Prozesses oder Produkts eingeschätzt wird.[^1][^2]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Anwendungsbereiche 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+[FMEA](https://de.wikipedia.org/wiki/FMEA) Ansätze lassen sich nach den Bereichen differenzieren in dem sie eingesetzt werden. Dies sind weit verbreitetsten Arten:
+#### **Prozess-FMEA**
+Die Prozess-FMEA befasst sich mit den Schwachstellen in einem Prozess, um dessen Effizienz und  Qualität zu steigern. Wird häufig bei der Einführung angewandt, um den potentiellen Erfolg der Neuerung abzubilden.[^3] 
+#### **Design-FMEA**
+Design-FMEA wird insbesondere in der Entwicklung eingesetzt, um die Komponenten eines Produkts auf die Fertigungseignung zu überprüfen.
+#### **System-FMEA**
+Wenn mehrere Teilsysteme zu einem komplexen System führen, nutzt man die System-FMEA, um die globale Funktion des Systems zu testen. Dafür werden auch die Komponenten der Teilsysteme und deren Zusammenwirken analysiert.
+#### **Software-FMEA & Hardware-FMEA**
+Fehleranalyse im Bereich Hardware oder Software. Auch hier werden die einzelnen Komponenten auf ihre Funktionalität geprüft.
+#### **Präventive und korrektive FMEA**
+*Präventive FMEA* dient der frühestmöglichen Erkennung und Vermeidung von Fehlern. Dafür wird das Produkt oder der Prozess von Beginn der Entwicklungsphase an begleitet und fortlaufend evaluiert. So wird sichergestellt, dass Hindernisse und Probleme frühzeitig erkannt und beseitigt werden können. Denn je später im Entwicklungsprozess Fehler auftreten, desto kostenintensiver ist die Behebung.[^4]
+
+*Korrektive FMEA* ist eine Art rückwärts gerichtete Betrachtung des Produkts/Prozesses. Hierbei wird die Analyse erst in einer späteren Lebensphase hinzugezogen, um eine konstant höhere Qualität zu gewährleisten. Bereits entdeckte Fehler werden analysiert, um ähnliche Komplikationen vorzubeugen. Dies erfordert deutlich höheren Aufwand als die *präventive FMEA* und ist daher nur in Ausnahmefällen ratsam.[^4]
+
+## Wichtige Kennzahlen 
+Der Aufbau und das Ergebnis einer "Failure Mode and Effects Analysis" beinhaltet mehrere Kennzahlen[^5]: 
+
+* **Failure Mode** gibt an, auf welche Art und Weise der Fehler eintritt. Dafür wird jeder Bestandteil des untersuchten Objekts einzeln betrachtet.
+* **Effect** gibt an, welche potentiellen Effekte der Fehler haben kann. Dabei kann noch zwischem den Effekt auf das Objekt selber und dem Effekt auf das gesamte System unterschieden werden.
+* **Probability (P)** gibt an, mit welcher Wahrscheinlichkeit der Fehler eintritt. 
+* **Severity (S)** gibt an, wie schwerwiegend die Folgen sind. Dabei wird immer von einem "worst-case scenario" ausgegangen.
+* **Detection (D)** gibt an, mit welcher Sicherheit der Fehler von der Analyse erfasst und entdeckt wird.
+* **Risk Priority Number (RPN)** ist das Produkt aus **S**, **P** und **D** und bringt die einzelnen Failure Modes in eine geordnete Reihenfolge. 
+* **Proposed Actions** gibt an, was getan werden muss um die erkannten Risiken der Failure Modes zu minimieren.
+
+#
+
+![FMEA Basic Sheet](http://pdcahome.com/english/wp-content/uploads/2013/06/fmea.jpeg)
+[Simples FMEA Spreadsheet](http://pdcahome.com/english/wp-content/uploads/2013/06/fmea.jpeg)[^6]
+
+## Aufbau und Ablauf
+
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
@@ -97,8 +123,14 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: Haktanir et al. (2020), "Interval-valued neutrosophic failure mode and effect analysis."
 
+[^2]: Project Management Institute (2013), "Project Management Body of Knowledge", 5th edition
+
+[^3]: [Prozess-FMEA ](https://mi-nautics.com/prozess-fmea-anwendung-und-durchfuehrung/)
+
+[^4]: [Fehlermöglichkeits- und -Einflussanalyse (FMEA)](https://www.iph-hannover.de/de/dienstleistungen/fertigungsverfahren/fmea/#arten)
+
+[^5]: Langford, J. W. (1995), "Logistics: Principles and Applications." McGraw Hill. p. 488.
+
+[^6]: [FMEA Spreadsheet](http://pdcahome.com/english/wp-content/uploads/2013/06/fmea.jpeg)
