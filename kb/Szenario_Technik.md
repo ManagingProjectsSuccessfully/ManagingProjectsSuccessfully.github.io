@@ -2,8 +2,19 @@
 title: Szenario_Technik
 tags: agil klassisch
 author: JanEhrFAU
-anrechnung: k oder a
+anrechnung: k
 ---
+
+Ein Szenario ist eine "hypotetische Aufeinanderfolge von Ereignissen, die zur Beachtung kausaler Zusammenhänge konstruiert wird."[^1]
+Die Szenariotechnik nutzt also realistische Prognosen, um mithilfe dieser Vorhersagen Entstehungsprozesse möglicher Probleme
+oder auch Vorteile zu verstehen. Anhand dieses Verständnisses können die eigenen Aktionen geplant und angepasst werden um gesetzte Ziele 
+zu erreichen.
+
+Den Grundstein des Verfahrens bilden in der Regel ein positives Extrem-Szenario(Best Case), sowie ein negatives Extrem-Szenario(Worst Case).
+Häufig zu sehen ist zum Beispiel auch das sogenannte Trend-Szenario, welches dasjenige Szenario ist, das als am wahrscheinlichsten erklärt wird.[^2]
+
+
+
 
 Kurzbeschreibung zu Szenario_Technik um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
@@ -97,8 +108,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: https://www.duden.de/rechtschreibung/Szenario#bedeutungen
+[^2]: https://de.wikipedia.org/wiki/Szenariotechnik
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
