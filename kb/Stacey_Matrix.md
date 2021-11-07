@@ -15,11 +15,8 @@ Die Stacey-Matrix soll also erleichtern, für ein bevorstehendes Projekt die ric
 
 Auf der vertikalen Achse der Matrix wird der Grad der "Anforderungen" (in der Abbildung: "Requierement") des Projekts abgetragen. In der Original-Matrix nach Stacey handelte es sich hierbei statt um Anforderungen um die "Einigkeit" der Entscheidungsträger.Heutzutage wird sich die Frage gestellt, wie klar oder unklar die Unsicherheiten über die Anforderungen des Projekts sind. 
 
-Die horizontale Achse wird durch den Begriff "Technologie"beschrieben (in der Abbildung: "Technological Realization"). Hier war der Originalbegriff ursprünglich "Gewissheit".  Während ursprünglich die Sicherheit in Bezug auf die zu treffenden Entscheidungen und das Vorgehen gemeint war, wird durch "Technologie" heutzutage vielmehr die Frage beschrieben, ob die Methoden zur Erreichung des Projektziels bekannt oder unbekannt sind[^3].
- ![Stacey-Matrix-Stacey-1996-adapted-to-software-development](https://user-images.githubusercontent.com/92922561/140303470-74e6e67d-b486-4880-a88d-d62973995058.png)
-
-Die Matrix ist in vier Kategorien aufgeteilt. Diese beschreiben beschreiben jeweils den Komplexitätsgrad der vorliegenden Herausforderung.
-
+Die horizontale Achse wird durch den Begriff "Technologie"beschrieben (in der Abbildung: "Technological Realization"). Hier war der Originalbegriff ursprünglich "Gewissheit".  Während ursprünglich die Sicherheit in Bezug auf die zu treffenden Entscheidungen und das Vorgehen gemeint war, wird durch "Technologie" heutzutage vielmehr die Frage beschrieben, ob die Methoden zur Erreichung des Projektziels bekannt oder unbekannt sind[^3]. Die Matrix ist in vier Kategorien aufgeteilt. Diese beschreiben beschreiben jeweils den Komplexitätsgrad der vorliegenden Herausforderung.
+![Stacey-Matrix-Stacey-1996-adapted-to-software-development](https://user-images.githubusercontent.com/92922561/140303470-74e6e67d-b486-4880-a88d-d62973995058.png)
 
 ## Simpel
 
