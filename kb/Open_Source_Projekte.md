@@ -34,9 +34,8 @@ Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil 
 
 *Egalitär ausgerichtete Peer Production Communitys* bestehen vorrangig aus freiwilligen Entwicklern, die sich aus intrinsischen Motiven einbringen. Sie bilden demnach eine marktunabhängige bzw. gleichberechtigte Kollaboration unter Freiwilligen, die jedoch auch aber einer gewissen Größe Führungsstrukturen bilden kann. Beispiele für egalitäre Open-Source-Projekte zeigen GNU CC, Arch Linus oder KDE. [^3][^4]
 
-![Varianten quelloffener Softwareprojekte]
-(https://github.com/AnnaSophieNi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Open_Source_Projekte/OpenSourceProjekte_Landkarte.png) 
-
+![Varianten quelloffener Softwareprojekte](https://github.com/AnnaSophieNi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Open_Source_Projekte/OpenSourceProjekte_Landkarte.png) 
+*Beispiele Open Source Projekte*[^4]
 
 ### Die 3 erfolgreichsten Open-Source Projekte gemäß Battery Open-Source Software Index (BOSS) [^4]
 
