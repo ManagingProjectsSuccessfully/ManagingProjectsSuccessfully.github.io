@@ -7,42 +7,44 @@ anrechnung: k
 
 Das Pareto Prinzip hat ein großes Ziel: Man möchte mit einem minimalen Aufwand ein halbwegs vollständiges Ergebnis erzielen. 
 
-# Bedeutung des Pareto-Prinzips:
-
-Das Pareto-Prinzip wird gerne auch als "80/20-Prinzip" bezeichnet. Bei den zwei gegebenen Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand sowie das letzliche Endergebnis darstellen sollen. Mit einem Aufwand von etwa 20 Prozent kann demnach ein Endergebnis, das zu 80 % vollständig ist, erzielt werden.[^1]
-
-Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen kann.[^2] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient ist, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann.
-
-Aus diesem Grund ist im Bereich des Zeitmanagements des Öfteren vom Pareto-Prinzip die Rede. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches bereits die wichtigsten Bedingungen erfüllt.[^3]
-Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf genau diese Aspekte beschränkt, wird also bereits ein großer Teil der Dinge erreicht, die man erzielen will. Der Aufwand, der in dem steckt, das nur 20% des Ergebnisses erfüllt, liegt also bei 80% und ist schlussfolgernd viel zeitintensiver. 
-
-Dies wird auch in der folgenden Abbildung leicht sichtbar:
-
-<img width="372" alt="Bildschirmfoto 2021-11-07 um 20 36 15" src="https://user-images.githubusercontent.com/92831472/140659311-7664a8b6-55b9-4e91-8289-e37ce96b5692.png">
-
-
-Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des Pareto Prinzips. Oftmals sind die letzten 20%, die das Endergebnis perfektionieren würden nicht zwingend notwendig, sodass die Zeit, die dadurch wiederum gespart wird für andere Bereiche genutzt werden kann.[^4]
-
-Bei der Anwendung des Pareto Prinzips trennt man sich gleichzeitig von einem unnötigen Perfektionismus, da dieser in den meisten Fällen nicht von Nöten ist. Auf diese Weise spart man sich nicht nur Nerven, sondern generiert gleichzeit auch mehr Zeit, um die Kernaufgaben besonders gut erledigen zu können. Insbesondere wenn man eine große anzahl auf Aufgaben zu erledigen hat eignet sich das Pareto Prinzip, da man mithilfe dieses Prinzips alle Aufgaben bereits fast vollständig abarbeitet und nicht nur wenige Aufgaben "perfekt", also zu 100%, ausarbeitet.[^5]
 
 # Ursprung des Pareto Prinzips
 
-Die Einkommensschere ist schon seit Jahrhunderten von großer Bedeutung - insbesondere in der Politik. Es wird häufig betont, dass die Armen immer ärmer und die Reichen immer reicher werden. Die Diskrepanz zwischen Arm und Reich scheint immer größer zu werden und durch die Coronavirus-Krise hat sich die Gesamtsituation noch weiter zugespitzt.[^6]
+Die Einkommensschere ist schon seit Jahrhunderten von großer Bedeutung - insbesondere in der Politik. Es wird häufig betont, dass die Armen immer ärmer und die Reichen immer reicher werden. Die Diskrepanz zwischen Arm und Reich scheint immer größer zu werden und durch die Coronavirus-Krise hat sich die Gesamtsituation noch weiter zugespitzt.[^1]
 
 Vilfredo Pareto war ein italienischer Ökonom und hat bereits im 19. Jahrhundert die Unterschiede im Vermögen der Population analysiert.
 Das Ergebnis seiner Analyse war das 80% des Gesamtvermögens im Besitz von nur 20% der Bevölkerung sei.
-Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilung des Vermögens zutrifft. In vielen Situation ist die 80/20-Regel genauso passend.[^7]
+Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilung des Vermögens zutrifft. In vielen Situation ist seine 80/20-Regel genauso passend.[^2]
 
 
-
-
-# Beispielhafte Situationen des Pareto Prinzips: (Alfred Ultsch blabla)
+# Beispielhafte Situationen des Pareto Prinzips:[^4]
 
 | 20% Aufwand   | 80% Ergebnis  | 
 | ------------- | ------------- |
 |  Kunden       |   Umsatz      |
 |  Produkte     |   Umsatz      |
 |  Mitarbeiter  |   Fehltage    |
+
+
+# Bedeutung des Pareto-Prinzips:
+
+Das Pareto-Prinzip wird gerne auch als "80/20-Prinzip" bezeichnet. Bei den zwei gegebenen Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand sowie das letzliche Endergebnis darstellen sollen. Mit einem Aufwand von etwa 20 Prozent kann demnach ein Endergebnis, das zu 80 % vollständig ist, erzielt werden.[^3]
+
+Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen kann.[^4] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient ist, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann.
+
+# Zeitersparnis durch die Anwendung des Pareto-Prinzips:
+
+Aus den oben genannten Gründen ist im Bereich des Zeitmanagements des Öfteren vom Pareto-Prinzip die Rede. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches bereits die wichtigsten Bedingungen erfüllt.[^5]
+Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf genau diese Aspekte beschränkt, wird also bereits ein großer Teil der Dinge erreicht, die man erzielen will. Der Aufwand, der in dem steckt, das nur 20% des Ergebnisses erfüllt, liegt also bei 80% und ist schlussfolgernd viel zeitintensiver. 
+
+Dies wird auch in der folgenden Abbildung leicht sichtbar:
+
+<img width="372" alt="Bildschirmfoto 2021-11-07 um 20 36 15" src="https://user-images.githubusercontent.com/92831472/140659311-7664a8b6-55b9-4e91-8289-e37ce96b5692.png">
+
+Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des Pareto Prinzips. Oftmals sind die letzten 20%, die das Endergebnis perfektionieren würden nicht zwingend notwendig, sodass die Zeit, die dadurch wiederum gespart wird für andere Bereiche genutzt werden kann.[^6]
+
+Bei der Anwendung des Pareto Prinzips trennt man sich somit gleichzeitig auch von seinem Perfektionismus, da dieser in den meisten Fällen nicht von Nöten ist. Auf diese Weise spart man sich nicht nur Nerven, sondern generiert gleichzeit auch mehr Zeit, um die Kernaufgaben besonders gut erledigen zu können. Insbesondere wenn man eine große Anzahl auf Aufgaben zu erledigen hat eignet sich das Pareto Prinzip, da man mithilfe dieses Prinzips alle Aufgaben bereits fast vollständig abarbeitet und nicht nur wenige Aufgaben "perfekt", also zu 100%, ausarbeitet.[^7]
+
 
 
 
@@ -52,12 +54,11 @@ Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilun
 
 # Quellen
 
-[^1]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
-[^2]: Alfred Ultsch, Eine Begründung der Pareto-80/20 Regel und Grenzwerte für die ABC-Analyse, Seite 1
-[^3]: Stephan Rusch, Stressmanagement, Seite 118
-[^4]: https://www.gruenderlexikon.de/checkliste/fuehren/zeitmanagement/pareto-prinzip/
-[^5]: https://www.flowfinder.de/pareto-prinzip/
-[^6]: https://www.dw.com/de/wachsende-kluft-zwischen-arm-und-reich-in-deutschland/a-57506792
-[^7]: Hauke Christiansen, Schulentwicklung proaktiv, kreativ, effektiv - Rückenwind für Schulleitungen
-
+[^1]: https://www.dw.com/de/wachsende-kluft-zwischen-arm-und-reich-in-deutschland/a-57506792
+[^2]: Hauke Christiansen, Schulentwicklung proaktiv, kreativ, effektiv - Rückenwind für Schulleitungen
+[^3]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
+[^4]: Alfred Ultsch, Eine Begründung der Pareto-80/20 Regel und Grenzwerte für die ABC-Analyse, Seite 1
+[^5]: Stephan Rusch, Stressmanagement, Seite 118
+[^6]: https://www.gruenderlexikon.de/checkliste/fuehren/zeitmanagement/pareto-prinzip/
+[^7]: https://www.flowfinder.de/pareto-prinzip/
 
