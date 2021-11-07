@@ -52,12 +52,12 @@ Einer der wichtigsten und größten Vorteile von Open Source Projekten stellt da
 
 
 # Siehe auch
-
-* Free Software Foundation (https://fsfe.org/index.de.html)
+* kb/Projektarten.md 
+* https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/d180a5218d8a601fad294e883ad0213c8f39d63b/kb/Remote_Projekte.md 
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Free Software Foundation (https://fsfe.org/index.de.html)
 
 # Quellen
 
