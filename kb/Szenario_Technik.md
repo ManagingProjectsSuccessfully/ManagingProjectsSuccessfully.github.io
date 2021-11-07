@@ -12,8 +12,12 @@ zu erreichen.
 
 Den Grundstein des Verfahrens bilden in der Regel ein positives Extrem-Szenario(Best Case), sowie ein negatives Extrem-Szenario(Worst Case).
 Häufig zu sehen ist zum Beispiel auch das sogenannte Trend-Szenario, welches dasjenige Szenario ist, das als am wahrscheinlichsten erklärt wird.[^2]
+Analysiert man diese möglichen Ergebnisse, sodass weitestgehend Erklärungen für die Entwicklung zu dem jeweiligen Endzustand gefunden wurden, 
+lassen sich deutlich einfacher Entscheidungen treffen, die einen zwar nicht mit Garantie, jedoch mit größerer Wahrscheinlichkeit in Richtung
+des Best-Case-Szenarios bringen.
 
-
+Ihren Ursprung hat die Technik im militärischen Bereich[^3], heutzutage findet sie jedoch in zahlreichen Feldern Gebrauch. Dazu gehören Politik, 
+Wissenschaft, Wirtschaft, aber auch in der Psychologie und Psychotherapie.[^2]
 
 
 Kurzbeschreibung zu Szenario_Technik um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -110,6 +114,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: https://www.duden.de/rechtschreibung/Szenario#bedeutungen
 [^2]: https://de.wikipedia.org/wiki/Szenariotechnik
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: https://books.google.de/books?hl=en&lr=&id=IwXyBgAAQBAJ&oi=fnd&pg=PA255&dq=Szenario+technik&ots=n8xhd-v6GO&sig=ZBDkIuKaDVY-umf8WjX9ALC1DnE&redir_esc=y#v=onepage&q=Szenario%20technik&f=false
+[Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
