@@ -1,6 +1,6 @@
 ---
 title: Wissenslandkarte
-tags: agil klassisch
+tags: agil 
 author: Za22Regi
 anrechnung: k oder a
 ---
