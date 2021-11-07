@@ -48,7 +48,7 @@ Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des P
 Bei der Anwendung des Pareto Prinzips trennt man sich somit bestenfalls gleichzeitig von seinem Perfektionismus, da dieser in den meisten Fällen nicht von Nöten ist. Auf diese Weise spart man sich nicht nur Nerven, sondern generiert gleichzeit auch mehr Zeit, um die Kernaufgaben besonders gut erledigen zu können. Insbesondere wenn man eine große Anzahl auf Aufgaben zu erledigen hat eignet sich das Pareto Prinzip, da man mithilfe dieses Prinzips alle Aufgaben bereits fast vollständig abarbeitet und nicht nur wenige Aufgaben "perfekt", also zu 100%, ausarbeitet.[^7]
 
 
-# Quellen
+# Quellen:
 [^1]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
 [^2]: Alfred Ultsch, Eine Begründung der Pareto-80/20 Regel und Grenzwerte für die ABC-Analyse, Seite 1
 [^3]: https://www.dw.com/de/wachsende-kluft-zwischen-arm-und-reich-in-deutschland/a-57506792
