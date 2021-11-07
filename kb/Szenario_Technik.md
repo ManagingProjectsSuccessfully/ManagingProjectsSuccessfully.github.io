@@ -19,6 +19,9 @@ des Best-Case-Szenarios bringen.
 Ihren Ursprung hat die Technik im militärischen Bereich[^3], heutzutage findet sie jedoch in zahlreichen Feldern Gebrauch. Dazu gehören Politik, 
 Wissenschaft, Wirtschaft, aber auch in der Psychologie und Psychotherapie.[^2]
 
+<img src="Szenario_Technik/Abb.1.png" width="400"/>
+Abb.1 Hier wird die Szenariotechnik anhand ausgewählter Kriterien mit ähnlichen Verfahren verglichen. Einen tieferen Einblick ins Portfoliomanagement
+finden Sie im zugehörigen [Artikel](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md)
 
 Kurzbeschreibung zu Szenario_Technik um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
