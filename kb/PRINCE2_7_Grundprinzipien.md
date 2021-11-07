@@ -1,8 +1,8 @@
 ---
 title: PRINCE2_7_Grundprinzipien
-tags: agil klassisch
+tags:  klassisch
 author: Za22Regi
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu PRINCE2_7_Grundprinzipien um ein erstes Verständnis dafür zu schaffen um was es hier geht.
