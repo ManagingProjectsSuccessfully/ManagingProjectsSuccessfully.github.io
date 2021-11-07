@@ -251,6 +251,7 @@ author: anniSc
 | [Reporting](kb/Reporting.md)                                                                                                       | [JanBaumgart](https://github.com/JanBaumgart)                 |
 | [Aufwands_Kosten_Kontrolle](kb/Aufwands_Kosten_Kontrolle.md)                                                                       | [Steffi226](https://github.com/Steffi226)                     |
 | [Projektdokumentation](kb/Projektdokumentation.md)                                                                                 | [nikl9](https://github.com/nikl9)                             |
+| [Statusreport](kb/Statusreport.md)                                                                                                 | [julianTR4](https://github.com/julianTR4)                     |
 | [Change_Management](kb/Change_Management.md)                                                                                       | [TimSchwehn](https://github.com/TimSchwehn)                   |
 | [ADKAR_Model](kb/ADKAR_Model.md)                                                                                                   | [bilgesb](https://github.com/bilgesb)                         |
 | [Dauerbaustelle](kb/Dauerbaustelle.md)                                                                                             | [EuleW](https://github.com/EuleW)                             |
@@ -309,6 +310,7 @@ author: anniSc
 | [User_Story_INVEST_Methode](kb/User_Story_INVEST_Methode.md)                                                                       | [Juliakau](https://github.com/Juliakau)                       |
 | [KISS_Prinzip](kb/KISS_Prinzip.md)                                                                                                 | [seposer](https://github.com/seposer)                         |
 | [Impediment_Backlog](kb/Impediment_Backlog.md)                                                                                     | [patrick203494](https://github.com/patrick203494)             |
+| [Taskboard](kb/Taskboard.md)                                                                                                       | [schooschef](https://github.com/schooschef)                   |
 | [Burndown_Chart](kb/Burndown_Chart.md)                                                                                             | [tobi0211](https://github.com/tobi0211)                       |
 | [Selbstorganisierende_Teams](kb/Selbstorganisierende_Teams.md)                                                                     | [IremAkin ](https://github.com/IremAkin )                     |
 | [Stand_Ups](kb/Stand_Ups.md)                                                                                                       | [Gilchus](https://github.com/Gilchus)                         |
@@ -319,6 +321,7 @@ author: anniSc
 | [Scrum_at_Scale](kb/Scrum_at_Scale.md)                                                                                             | [mirela08](https://github.com/mirela08)                       |
 | [Personas](kb/Personas.md)                                                                                                         | [emir-eroglu](https://github.com/emir-eroglu)                 |
 | [Key_Users](kb/Key_Users.md)                                                                                                       | [Magnus-schn](https://github.com/Magnus-schn)                 |
+| [Ishikawa_Methode](kb/Ishikawa_Methode.md)                                                                                         | [schooschef](https://github.com/schooschef)                   |
 | [Velocity](kb/Velocity.md)                                                                                                         | [JonathanLoewing](https://github.com/JonathanLoewing)         |
 | [Benchmarking](kb/Benchmarking.md)                                                                                                 | [alexandermueller296](https://github.com/alexandermueller296) |
 | [VModell](kb/VModell.md)                                                                                                           | [fabriGH](https://github.com/fabriGH)                         |
