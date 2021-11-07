@@ -6,13 +6,13 @@ anrechnung: k
 ---
 
 
-PRINCE2 basibesteht aus 4 Elementen: 
+PRINCE2 besteht aus 4 Elementen: 
 - 7 Grundprinzipien
 - 7 Themen
 - 7 Prozesse
 - Projektumgebung
 
-Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind der Kern eines PRINCE2 Projekts.
+Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind der Kern eines jeden PRINCE2 Projekts.
 
 
 # PRINCE2 - Die 7 Grundprinzipien
@@ -28,90 +28,95 @@ Beitrag von Ola Abu-Khousa
 # Agenda
 
 1. Begriffserklärung
-2. 7 Grundprinzipien             
+2. Die 7 Grundprinzipien             
 3. Vor- und Nachteile
-   1. Vorteile
-   2. Nachteile
 
 ## 1. Begriffserklärung
-PRINCE2 steht für "[Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2) oder auf deutsch "Projekte in kontrollierten Umgebungen". Von Projektstart bis  Projektende wird jedes Projekt definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. Die Methode basiert auf 7 Grundprinzipien, welche sich auf die Erfahrung guter und schlechter Projekte stützen. 
+PRINCE2 steht für "[Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2) oder auf deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
 
-## 2. 7 Grundprinzipien
+Die weltweit führende Projektmanagementmethode basiert auf 7 Grundprinzipien, welche sich auf die Erfahrung guter und schlechter Projekte stützen. Diese wurden im Jahr 2009 neu eingeführt. 
+
+In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich zu dem Jahr 2005 deutlich hervorgehoben[^2]. 
+
+<img width="232" alt="PRINCE2" src="https://user-images.githubusercontent.com/92877971/140659667-eaa44817-bd55-44f9-ad80-0ca6ab41c7b9.PNG">
+
+*Änderungen in 2009[^2] *
+
+
+## 2. Die 7 Grundprinzipien
 
 
 1. Fortlaufende geschäftliche Rechtfertigung   
-   *Folgende Anforderungen müssen gegeben sein: 
+   *Folgende Anforderungen müssen gegeben sein:* 
    - Berechtigter Grund für Projektstart 
    - Gültigkeit der Rechfertigung muss während des gesamten Projekts beibehalten werden
    - Dokumentierte und genehmigte Rechtfertigung
    - Dokumentation in Form eines Business Case
    - Ziel: Sicherstellen, dass Projekt geschäftlichen Ziele und angestrebten Nutzen erfüllt 
    
-2. Wervolle Erfahrung 
-   *Projektteams lernen aus früher gemachten Erfahrungen 
+2. Lernen aus Erfahrungen
+   *Projektteam lernt aus früher gemachten Erfahrungen 
    - Über gesamten Projektverlauf: Sammlung, Aufzeichnung, Umsetzung neuer Erfahrungen 
    - Bei Projektstart: Überprüfung früherer Erfahrungen aus vergangenen Projekten
    - Während des Projekts: Umsetzung möglichst vieler Verbesserungen
    - Bei Projektabschluss: Weitergeben der gemachten Erfahrungen
    
-3. Definierte Rollen
-   - Klar definierte Rollen und Verantwortlichkeiten
-   - Wichtigsten Stakeholder: Unternehmen, Liefersnten, Kunden/Nutzer
+3. Definierte Rollen und Verantwortlichkeiten
+   - Innerhalb einer Organisationsstruktur klar definiert 
+   - Wichtigsten Stakeholder: Unternehmen, Liefersnten, Benutzer
    - Interessen werden jeweils vertreten 
    - Verteter der geschäftlichen Unternehmensinteressen: Sicherstellung, dass Zielsetzung des Projekts geschäftlich sinnvoll ist
-   - Verteter der Nutzer: Erzielung des angestrebten Nutzens, durch Einsetzen hergestellter Produkte 
+   - Verteter der Benutzer: Erzielung des angestrebten Nutzens, durch Einsetzen hergestellter Produkte 
    - Vertreter der Lieferanten: Bereitstellung von Ressourcen und erforderliche Kenntnisse für Herstellung der Produkte 
    
 4. Definierte Phasen 
    - Planung, Überwachung, Steuerung    
    - Prüfung des Fortschritts 
    - Am Ende einer jeden Phase: Bewertung des Projektstatus und Überprüfung von Business Case und Pläne
-   -  Entscheidung über Weiterführung des Projekts  
-   -  Management-Phasen: Grober Projektplan mit detailliertem Phasenplan für aktuelle Phase
-   -  Mindestens 2 Management-Phasen sind notwendig
-   -  Inizierungsphase und eine/mehrere zusätzliche Management-Phasen
-   -  Aufwendige kurze Phasen ermöglichen engere Steuerung
-   -  Längere Phasen entlasten Management-Ebene 
+   - Entscheidung über Weiterführung des Projekts  
+   - Management-Phasen: Grober Projektplan mit detailliertem Phasenplan für aktuelle Phase
+   - Mindestens 2 Management-Phasen sind notwendig
+   - Aufwendige kurze Phasen ermöglichen engere Steuerung
+   - Längere Phasen entlasten Management-Ebene 
    
 5. Steuern nach Ausnahmeprinzip
-   - Rationeller Einsatz der Arbeitszeit der Unternehmensführung
+   - Definierung bestimmter Toleranzen für jedes Projektziel (6 Dimensionen)
+   - 6 Dimensionen: Zeit, Kosten, Qualität, Umfang, Nutzen, Risiko
    - Zeitliche Entlastung der Führungskräfte
    - Beibehaltung der Kontrolle über Projekt 
-   - Treffen von Entscheidungen auf richtigen Ebene 
-   - Delegierung der Befugnisse von einer Ebene zur anderen
-   - Definierung von Ausnahmen der 6 Dimensionen: Zeit, Kosten, Qualität, Umfang, Nutzen, Risiko
+   - Treffen von Entscheidungen auf richtigen Ebenen 
+   - Festlegung der Handlungsrahmen für delegierte Befugnisse 
          
 6. Produktorientierung: 
    - Ausrichtung auf Defintion und Lieferung von Produkten 
    - Fokus auf Qualitätsanforderungen    
    - Basis für Planung und Steuerung: Menge der Produkte, definiert Inhalt und Umfang des Projekts
    - Durch Produktbeschreibungen gemeinsames Verständnis der Stakeholder über Produkt 
-   - Produktbeschreibungen enthalten Festlegungen zu Zweck, Zusammensetzung, Herkunft, Format, QUalitätskriterien und Qualitätsprüfmethoden
+   - Produktbeschreibungen enthalten Festlegungen zu Zweck, Zusammensetzung, Herkunft, Format, Qualitätskriterien und Qualitätsprüfmethoden
    - Erschliesßung von Aufwand, Ressourcenbedarf, Abhängigkeiten
    
 7. Angepasste Projektumgebung
    - Universelle Projektmanagement-Methode
    - Abhänging von Umgebung, Komplexität, Umfang, Leistungsfähigkeit und Risiken des Projekts
-   - Projektleiter Dokumentation beschreiben wie PRINCE2 an jeweilige Projektr angepasst wurde
+   - Anpassung an jedes Unternehmen und Projekt 
    
-
-
-
-
-| Grundprinzipien               | Second Header |
-| -------------                 | ------------- |
-| 1. Laufende Rechtfertigung    |               |
-| 2. Wervolle Erfahrung         | Content Cell  |
-| 3. Definierte Rollen          | Content Cell  |
-| 4. Definierte Phasen          | Content Cell  |
-| 5. Definierte Ausnahmen       | Content Cell  |
-| 6. Fokussiertes Produkt       | Content Cell  |
-| 7. Angepasste Projektumgebung | Content Cell  |
+   
 
 
 ## 3. Vor- und Nachteile
 ### Vorteile
 ### Nachteile 
+
+
+| Vorteile                | Nachteile     |
+| -------------           | ------------- |
+| Flexibel                | Dokumentenlastig |
+| Skalierbar              | Vernachlässigung der Teammotivation
+| Einheitliche Sprache    | Vernachlässigung des Konfliktmanagements  |
+| Weltweite Anerkennung   | Abhängigkeit von Lieferanten |
+| Ansehen                 | Keinen Einfluss auf Produktherstellung  |
+| Produktorientiert       | Mangelnde Qualität |
+| Kompatibilität          | Für kleinere Projekte ungeeignet  |
 
 
 
@@ -127,14 +132,19 @@ PRINCE2 steht für "[Projects in Controlled Environments](https://en.wikipedia.o
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* https://www.youtube.com/watch?v=if__T71U2ss
+* https://www.youtube.com/watch?v=61RnrsWQE7A
+* Kaiser, Simschek - PRINCE2: Die Erfolgsmethode einfach erklärt. Version 2017
 
 # Quellen
 
 * https://www.prince2.com/de/blog/prinzipien-themen-prozesse
-* 
+* https://www.prince2.com/de/blog/prinzipien-themen-prozesse
+* https://www.tiba-business-school.de/prince2-methode-vorteile/
+
+
 [^1]: [Prince Charming](https://quotesgram.com/img/my-prince-quotes/12903458/)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: [Änderungen im Jahr 2009](https://silo.tips/download/methoden-des-projektmanagements-im-vergleich)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
