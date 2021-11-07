@@ -5,90 +5,43 @@ author: Steffi226
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Scrum_Ueberpruefung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Kurzbeschreibung 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Die Scrum Überprüfung gehört neben "Transparenz" und "Anpassung" zu den drei Säulen der empirische Prozesssteuerung.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
 # Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+INSPECTION – ÜBERPRÜFUNG
+Inspection bedeutet, dass alle Vorgehensweisen und Arbeitsergebnisse regelmäßig überprüft werden. In einem nach Scrum gemanagten Projekt bedeutet dies, dass das Team in regelmäßigen Abständen die Artefakte dahingehend überprüft, ob diese und ihre Ausgestaltung geeignet sind, um das jeweilige Sprint-Ziel zu erreichen. Die Überprüfung darf jedoch nicht so oft stattfinden, dass sie die eigentliche Projektarbeit behindert. Sie muss stets effizient bleiben. Die Überprüfungen müssen in einer Weise stattfinden, dass auch sie einen Mehrwert für die Projektarbeit darstellen.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Bild ![image](https://user-images.githubusercontent.com/92396490/140649160-db302520-d38e-44d8-9f54-52269063565a.png)
 
-![Beispielabbildung](Scrum_Ueberpruefung/test-file.jpg)
 
-*lustiges Testbild*
 
 # Aspekt 2
+Inspection / Überprüfung
+Der Fortschritt und die erzielten Ergebnise werden regelmäßig daraufhin geprüft, ob sie zum Erfüllen der Sprint-Ziele dienlich sind.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Diese Überprüfung bezieht sich dabei vor allem auf die sogenannten Scrum-Artefakte, wozu das Product- und das Sprint-Backlog sowie natürlich der momentane Stand des Produkts (das Produktinkrement), gehören. Aber auch die Fortschrittsinformationen sowie der Prozess und die Zusammenarbeit im Team sind Gegenstand einer regelmäßigen Prüfung.
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Diese Überprüfung ist gewissermaßen komplementär zu der zuvor beschriebenen Transparenz.
 
-So kann man eine Tabelle erstellen:
+Denn hier werden nicht nur Informationen verwertet, die bei der Arbeit sowieso entstehen, und damit vor allem alltägliche Entscheidungen
+erleichtern, sondern es wird aktiv Feedback generiert, ein Realitätsabgleich durchgeführt und daraus Erkenntnisse abgeleitet.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Die gewonnen Erkenntnisse können beispielsweise Fragen wie die Folgenden beantworten:
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Sind wir noch auf Kurs?
+Hat sich etwas an den Kundenwünschen oder Marktgegebenheiten geändert?
+Erfüllt unser Produkt die Wünsche?
+Ist unsere Zusammenarbeit effektiv?
+Dadurch wird es möglich, eine eher planerische Perspektive einzunehmen, aus der wir die nächsten Schritte ableiten und eventuell erforderliche Prozessanpassungen erkennen können.
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Scrum_Ueberpruefung.md)
 
 # Weiterführende Literatur
