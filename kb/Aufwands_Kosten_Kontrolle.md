@@ -62,7 +62,7 @@ Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, näm
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... [^4]:
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... [^1]:
 
 # Quellen
 
