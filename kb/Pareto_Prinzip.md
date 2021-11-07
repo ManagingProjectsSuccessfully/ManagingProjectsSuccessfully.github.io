@@ -8,16 +8,24 @@ anrechnung: k
 Das Pareto Prinzip hat ein großes Ziel: Man möchte mit einem minimalen Aufwand ein halbwegs vollständiges Ergebnis erzielen. 
 
 
+
+# Bedeutung des Pareto-Prinzips:
+
+Das Pareto-Prinzip wird gerne auch als "80/20-Prinzip" bezeichnet. Bei den zwei gegebenen Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand sowie das letzliche Endergebnis darstellen sollen. Mit einem Aufwand von etwa 20 Prozent kann demnach ein Endergebnis, das zu 80 % vollständig ist, erzielt werden.[^1]
+
+Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen kann.[^2] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient ist, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann.
+
+
 # Ursprung des Pareto Prinzips
 
-Die Einkommensschere ist schon seit Jahrhunderten von großer Bedeutung - insbesondere in der Politik. Es wird häufig betont, dass die Armen immer ärmer und die Reichen immer reicher werden. Die Diskrepanz zwischen Arm und Reich scheint immer größer zu werden und durch die Coronavirus-Krise hat sich die Gesamtsituation noch weiter zugespitzt.[^1]
+Die Einkommensschere ist schon seit Jahrhunderten von großer Bedeutung - insbesondere in der Politik. Es wird häufig betont, dass die Armen immer ärmer und die Reichen immer reicher werden. Die Diskrepanz zwischen Arm und Reich scheint immer größer zu werden und durch die Coronavirus-Krise hat sich die Gesamtsituation noch weiter zugespitzt.[^3]
 
 Vilfredo Pareto war ein italienischer Ökonom und hat bereits im 19. Jahrhundert die Unterschiede im Vermögen der Population analysiert.
 Das Ergebnis seiner Analyse war das 80% des Gesamtvermögens im Besitz von nur 20% der Bevölkerung sei.
-Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilung des Vermögens zutrifft. In vielen Situation ist seine 80/20-Regel genauso passend.[^2]
+Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilung des Vermögens zutrifft. In vielen Situation ist seine 80/20-Regel genauso passend.[^4]
 
 
-# Beispielhafte Situationen des Pareto Prinzips:[^4]
+## Beispielhafte Situationen, in denen die 80/20-Regel zutrifft:[^2]
 
 | 20% Aufwand   | 80% Ergebnis  | 
 | ------------- | ------------- |
@@ -25,12 +33,6 @@ Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilun
 |  Produkte     |   Umsatz      |
 |  Mitarbeiter  |   Fehltage    |
 
-
-# Bedeutung des Pareto-Prinzips:
-
-Das Pareto-Prinzip wird gerne auch als "80/20-Prinzip" bezeichnet. Bei den zwei gegebenen Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand sowie das letzliche Endergebnis darstellen sollen. Mit einem Aufwand von etwa 20 Prozent kann demnach ein Endergebnis, das zu 80 % vollständig ist, erzielt werden.[^3]
-
-Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen kann.[^4] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient ist, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann.
 
 # Zeitersparnis durch die Anwendung des Pareto-Prinzips:
 
@@ -53,11 +55,10 @@ Bei der Anwendung des Pareto Prinzips trennt man sich somit gleichzeitig auch vo
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
-
-[^1]: https://www.dw.com/de/wachsende-kluft-zwischen-arm-und-reich-in-deutschland/a-57506792
-[^2]: Hauke Christiansen, Schulentwicklung proaktiv, kreativ, effektiv - Rückenwind für Schulleitungen
-[^3]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
-[^4]: Alfred Ultsch, Eine Begründung der Pareto-80/20 Regel und Grenzwerte für die ABC-Analyse, Seite 1
+[^1]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
+[^2]: Alfred Ultsch, Eine Begründung der Pareto-80/20 Regel und Grenzwerte für die ABC-Analyse, Seite 1
+[^3]: https://www.dw.com/de/wachsende-kluft-zwischen-arm-und-reich-in-deutschland/a-57506792
+[^4]: Hauke Christiansen, Schulentwicklung proaktiv, kreativ, effektiv - Rückenwind für Schulleitungen
 [^5]: Stephan Rusch, Stressmanagement, Seite 118
 [^6]: https://www.gruenderlexikon.de/checkliste/fuehren/zeitmanagement/pareto-prinzip/
 [^7]: https://www.flowfinder.de/pareto-prinzip/
