@@ -59,7 +59,8 @@ Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, näm
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Aufwands_Kosten_Kontrolle.md)
-* (Aufwands_Kosten_Kontrolle.md) 
+* https://github.com/Steffi226/ManagingProjectsSuccessfully.github.io/blob/main/kb/Earned_Value_Analyse.md
+* Earned_Value_Analyse.md
 
 # Weiterführende Literatur
 
