@@ -1,6 +1,6 @@
 ---
 title: Gantt_Diagramme
-tags: agil klassisch
+tags: Gantt klassisch
 author: xyily
 anrechnung: k
 ---
