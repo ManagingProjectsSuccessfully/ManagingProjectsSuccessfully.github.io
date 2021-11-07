@@ -37,7 +37,7 @@ Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil 
 ![Varianten quelloffener Softwareprojekte](https://github.com/AnnaSophieNi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Open_Source_Projekte/OpenSourceProjekte_Landkarte.png) 
 *Beispiele Open Source Projekte*[^4]
 
-### Die 3 erfolgreichsten Open-Source Projekte gemäß Battery Open-Source Software Index (BOSS) [^5]
+## Die 3 erfolgreichsten Open-Source Projekte gemäß Battery Open-Source Software Index (BOSS) [^5]
 
 
 | Rang          | Projekt       | Unternehmen   | 
@@ -65,5 +65,5 @@ Einer der wichtigsten und größten Vorteile von Open Source Projekten stellt da
 [^2]: [History of the OSI,The Open Source Definition] (https://opensource.org/history)
 [^3]: [Open Source Softwareprojekte zwischen Passion und Kalkül] (https://www.econstor.eu/bitstream/10419/121857/1/838749496.pdf)
 [^4]: [Open-Source-Projekte: vom Nischenphänomen zum integralen Bestandteil der Softwareindustrie] (https://www.sowi.uni-stuttgart.de/abteilungen/oi/publikationen/wsi_schrape_oss.pdf)
-[^5]: [Tracking the explosive growth of open source software](https://techcrunch.com/2017/04/07/tracking-the-explosive-growth-of-open-source-software/) 
+[^5]: [Tracking the explosive growth of open source software] (https://techcrunch.com/2017/04/07/tracking-the-explosive-growth-of-open-source-software/)
 [^6]: [Stärken und Schwächen freier Open Source Software im Unternehmen] (http://www.opensourcejahrbuch.de/download/jb2004/chapter_02/II-3-Wieland.pdf)
