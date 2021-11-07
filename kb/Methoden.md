@@ -16,7 +16,8 @@ Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards 
 
 Kreativitätsmethoden dienen im Bezug auf Projektmanagement dazu, innovative Ideen zu sammeln.
 
-Methoden werden als Hilfsmittel und Instrumente angesehen.[^3]
+
+Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen. Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
