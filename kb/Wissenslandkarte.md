@@ -70,7 +70,7 @@ Im Folgenden werden die verschiedenen Arten von Wissenslandkarten tabellarisch a
 | Wissensanwendungskarten   |  Knowledge application map  | Geschäftsprozesse           |
 | Wissensentwicklungskarten |  Knowledge development maps | Beziehungsnetze             |
 
-*Tabelle 1*[^7]
+*Arten von Wissenslandkarten*[^7]
 
 ## 3. Vor- und Nachteile
 Es stellt sich nun die Frage: 
@@ -106,9 +106,10 @@ Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-
-* [Link auf diese Seite](Wissenslandkarte.md)
+* [Wissensmanagement](kb/Wissensmanagament.md)
+* [Wissensspirale](kb/Wissensspirale.md)
+* [Wissensmarkt](kb/Wissensmarkt.md)
+* [Wissenstransfer](kb/Wissenstransfer.md)
 
 # Weiterführende Literatur
 
@@ -123,7 +124,7 @@ Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine 
 [^1]: [ProjectManager](ttps://www.pinterest.de/pin/407012885071440518/)
 [^2]: Hildebrand, 1998: Mapping the Invisible Workplace
 [^3]: [Agile Verwaltung](https://agile-verwaltung.org/tag/wissenslandkarte/)
-[^4]: [Wissenslandkarten als Instrument des kollektiven Wis-sensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?f
+[^4]: [Wissenslandkarten als Instrument des kollektiven Wissensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?f
 orumid=286&v=1&id=166113)
 [^5]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/file/BA_Tina_Giersch.pdf)
 [^6]: [Wissenslandkarte](https://wissendenken.com/wp-content/uploads/2017/12/Wissenslandkarten_Hexelschneider.pdf)
