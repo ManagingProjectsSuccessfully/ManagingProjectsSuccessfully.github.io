@@ -2,7 +2,7 @@
 title: Open_Source_Projekte
 tags: agil klassisch
 author: AnnaSophieNi
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Open_Source_Projekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -52,8 +52,8 @@ Einer der wichtigsten und größten Vorteile von Open Source Projekten stellt da
 
 
 # Siehe auch
-* [Projektarten] (https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/d180a5218d8a601fad294e883ad0213c8f39d63b/kb/Projektarten.md)
-* [Remote Projekte] (https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/d180a5218d8a601fad294e883ad0213c8f39d63b/kb/Remote_Projekte.md)
+* [Projektarten](Projektarten.md)
+* [Remoteprojekte](Remote_Projekte.md)
 
 # Weiterführende Literatur
 
