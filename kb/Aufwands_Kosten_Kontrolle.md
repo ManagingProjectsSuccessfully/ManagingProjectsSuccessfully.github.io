@@ -57,12 +57,12 @@ Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, näm
 
 # Siehe auch
 
-* [Link zu dieser Seite](Earned_Value_Analyse.md)
-* [Link zu dieser Seite](Kosten_Nutzen_Analyse.md)
+* [Earned Value Analyse](Earned_Value_Analyse.md)
+* [Kosten- Nutzenanalyse](Kosten_Nutzen_Analyse.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...[4]
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... [^4]:
 
 # Quellen
 
