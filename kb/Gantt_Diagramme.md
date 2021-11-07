@@ -2,7 +2,7 @@
 title: Gantt_Diagramme
 tags: agil klassisch
 author: xyily
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Gantt_Diagramme um ein erstes Verständnis dafür zu schaffen um was es hier geht.
