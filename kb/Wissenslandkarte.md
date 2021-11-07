@@ -123,7 +123,7 @@ Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine 
 [^2]: Hildebrand, 1998: Mapping the Invisible Workplace
 [^3]: [Agile Verwaltung](https://agile-verwaltung.org/tag/wissenslandkarte/)
 [^4]: [Wissenslandkarten als Instrument des kollektiven Wissensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?forumid=286&v=1&id=166113)
-[^5]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/fi/BA_Tina_Giersch.pdf)
+[^5]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/file/BA_Tina_Giersch.pdf)
 [^6]: [Wissenslandkarte](https://wissendenken.com/wp-content/uploads/2017/12/Wissenslandkarten_Hexelschneider.pdf)
 [^7]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
 
