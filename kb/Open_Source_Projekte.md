@@ -52,8 +52,8 @@ Einer der wichtigsten und größten Vorteile von Open Source Projekten stellt da
 
 
 # Siehe auch
-* kb/Projektarten.md 
-* https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/d180a5218d8a601fad294e883ad0213c8f39d63b/kb/Remote_Projekte.md 
+* [Projektarten] (https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/d180a5218d8a601fad294e883ad0213c8f39d63b/kb/Projektarten.md)
+* [Remote Projekte] (https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/d180a5218d8a601fad294e883ad0213c8f39d63b/kb/Remote_Projekte.md)
 
 # Weiterführende Literatur
 
