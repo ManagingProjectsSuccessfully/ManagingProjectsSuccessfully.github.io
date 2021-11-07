@@ -2,7 +2,7 @@
 title: Wissenslandkarte
 tags: agil 
 author: Za22Regi
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Ein Unternehmen, viele Standorte und eine große Mitarbeiterzahl. Unter diesen Umständen kann sich sehr schnell viel Wissen ansammeln und die Herausforderung besteht dann darin, den Überblick beizubehalten und Transparenz zu schaffen. 
