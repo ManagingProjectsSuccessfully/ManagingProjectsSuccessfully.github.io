@@ -34,7 +34,8 @@ Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil 
 
 *Egalitär ausgerichtete Peer Production Communitys* bestehen vorrangig aus freiwilligen Entwicklern, die sich aus intrinsischen Motiven einbringen. Sie bilden demnach eine marktunabhängige bzw. gleichberechtigte Kollaboration unter Freiwilligen, die jedoch auch aber einer gewissen Größe Führungsstrukturen bilden kann. Beispiele für egalitäre Open-Source-Projekte zeigen GNU CC, Arch Linus oder KDE. [^3][^4]
 
-![Beispielabbildung](https://github.com/AnnaSophieNi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Open_Source_Projekte/OpenSourceProjekte_Landkarte.png) 
+![Varianten quelloffener Softwareprojekte]
+(https://github.com/AnnaSophieNi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Open_Source_Projekte/OpenSourceProjekte_Landkarte.png) 
 
 
 ### Die 3 erfolgreichsten Open-Source Projekte gemäß Battery Open-Source Software Index (BOSS) [^4]
@@ -49,8 +50,7 @@ Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Open_Source_Projekte.md)
+* Free Software Foundation (https://fsfe.org/index.de.html)
 
 # Weiterführende Literatur
 
@@ -59,8 +59,6 @@ Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil 
 # Quellen
 
 [^1]: [Was ist Open Source?] (https://www.redhat.com/de/topics/open-source/what-is-open-source)
-[^2]: [History of the OSI,The Open Source Definition](https://opensource.org/history)
+[^2]: [History of the OSI,The Open Source Definition] (https://opensource.org/history)
 [^3]: [Open Source Softwareprojekte zwischen Passion und Kalkül] (https://www.econstor.eu/bitstream/10419/121857/1/838749496.pdf)
-[^4]: [Open-Source-Projekte als Utopie, Methode und Innovationsstrategie] (https://www.ssoar.info/ssoar/bitstream/handle/document/46002/ssoar-2016-schrape-Open-Source-Projekte_als_Utopie_Methode_und.pdf?sequence=1&isAllowed=y&lnkname=ssoar-2016-schrape-Open-Source-Projekte_als_Utopie_Methode_und.pdf)
-
-
+[^4]: [Open-Source-Projekte: vom Nischenphänomen zum integralen Bestandteil der Softwareindustrie] (https://www.sowi.uni-stuttgart.de/abteilungen/oi/publikationen/wsi_schrape_oss.pdf)
