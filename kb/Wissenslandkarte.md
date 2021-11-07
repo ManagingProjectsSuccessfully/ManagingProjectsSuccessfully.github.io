@@ -113,11 +113,9 @@ Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine 
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 * Hildebrand, 1998: Mapping the Invisible Workplace
-* https://wiki.cogneon.de/Wissenslandkarte
-* 
-
+* [Wissenslandkarte](https://wiki.cogneon.de/Wissenslandkarte)
+* Lorenz, 2012: Wissenslandkarten, Wirtschaftsinformatik (Master)
 
 # Quellen
 
