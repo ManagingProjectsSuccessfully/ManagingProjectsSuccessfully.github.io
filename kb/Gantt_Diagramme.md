@@ -40,7 +40,7 @@ Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtig
 # 2.  Vor- / Nachteile des Gantt-Diagramms
      Wie jedes Tool hat auch das Gantt-Diagramm seine Vor- und Nachteile. Diese werden in den kommenden Abschnitten näher beleuchtet.
 
-# # 2.1 Vorteile 
+## 2.1 Vorteile 
  - Klarheit: Aufgrund der verständlichen Visualisierung des Projektablaufs, ist für alle Beteiligten transparent, wann welche Aktivität beginnt, und endet und in welcher Reihenfolge das geschieht.
 - Motivation: Durch das Gantt-Diagramm ist jedem Beteiligten bewusst welche Rolle er im Projekt durch seine Aktivitäten einnimmt und welche Verantwortung er trägt damit das Projekt reibungslos ablaufen kann. (https://www.teamleader.de/blog/gantt-diagramm)
 -  Ermittlung nötiger Ressourcen: Da bei der Erstellung der Gantt-Chart, zeitliche Rahmen, sowie die Anzahl nötiger Head Counts festgelegt werden, hilft die Gantt-Chart bei der Ressourcenplanung (https://asana.com/de/resources/gantt-chart-basics).   
