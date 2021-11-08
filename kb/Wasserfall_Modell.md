@@ -32,24 +32,24 @@ Man ordnet die Aktivitäten in einer Reihenfolge und dazu führt man es in der v
 
 # Vorteile der Wasserfall-Modell:
 
-* zum einen hat man hier die klaren voneinander abgegrenzten Phasen und dadurch kann man für jede abgegrenzte Phase bestimmte Ziele zuordnen
+* Zum einen hat man hier die klaren voneinander abgegrenzten Phasen und dadurch kann man für jede abgegrenzte Phase bestimmte Ziele zuordnen
 * Klare Abschätzung der Kosten jeder Phase sowie der Dauer davon
-* Gut Ausreichende Dokumentation von dem Entwicklungsprozesse, in dem man klar definierte Meilensteine darstellt
+* Gut ausreichende Dokumentation von dem Entwicklungsprozess, in dem man klar definierte Meilensteine darstellt
 * Zeitachse kann leicht abgebildet werden  
 
 
 # Nachteile der Wasserfall-Modell:
 Das Modell bringt auch paar kritische Punkte mit wie:
-* Klare Abgrenzung der Phasen ist eher Unmöglich, zum Beispiel: wenn man in der Testphase feststellt, dass es Fehler in dem Design gibt, dann wird nicht richtig abgegrenzt
-* Kaum ein Spielraum vorhanden, damit man die Phasenablauf anpassen kann, wegen veränderten Anforderungen
+* Klare Abgrenzung der Phasen ist eher unmöglich, zum Beispiel: wenn man in der Testphase feststellt, dass es Fehler in dem Design gibt, dann wird nicht richtig abgegrenzt
+* Kaum ein Spielraum vorhanden, damit man den Phasenablauf anpassen kann, wegen veränderten Anforderungen
 * Man kann den Fehlern erst am Ende der Entwicklungsprozess erkennen.
 * Kaum flexibel gegenüber Änderungen, da starre Reihenfolge 
 * Es ist schwierig für einen die Entwicklungsphasen nacheinander reibungslos zu bearbeiten
-* Fehlerkorrektur ist teuer und sehr aufwendig 
+* Fehlerkorrektur ist teuer und sehr aufwendig.
 
 
 # Andere Vorgehensmodelle:
-Wegen der einige gravierende Nachteile, die das Wirtschaftliche Lage beschädigt wird viele alternative von der IT-Industrie angeboten wie z.b.:
+Wegen der einige gravierende Nachteile, die die wirtschaftliche Lage beschädigen, wird viele alternative von der IT-Industrie angeboten, wie z.b.:
 *	Spiralmodell
 *	Rational Unified Process
 *	V-Modell
