@@ -2,7 +2,7 @@
 title: Wissenstransfer
 tags: agil klassisch
 author: felixba213 
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Wissenstransfer um ein erstes Verständnis dafür zu schaffen um was es hier geht.
