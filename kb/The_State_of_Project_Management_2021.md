@@ -1,11 +1,34 @@
 ---
 title: The_State_of_Project_Management_2021
-tags: agil klassisch
+tags: agil klassisch projektmanagement bericht verbessern zukunft
 author: michaelstnt
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu The_State_of_Project_Management_2021 um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+// Kurzbeschreibung zu The_State_of_Project_Management_2021 um ein erstes Verständnis dafür zu schaffen um was es hier geht. //
+
+Bei "The State of Project Management 2021" handelt es sich um einen alljährlichen Bericht der Institution [Wellington](https://wellingtone.co.uk/). In diesem Bericht werden über 200 Organisationen [^1] gebeten verschiedenste Fragen zum Thema Projektmanagement zu beantworten. Unter anderem werden internationale Firmen wie Microsoft, Fujitsu, Roche & dyson befragt. Ziel des Bericht ist es zu verbessern, entwickeln & aufzuzeigen was die Zukunft von Projektmanagement ist.
+
+# Verschiedenste Aspekte:
+
+1. Begrifflichkeitserklärungen:
+   1. PMO
+   2. PPM
+3. Key Questions:
+4. Maturity Levels:
+   1. Initial --> Ad-Hoc
+   2. Repeatable --> Basisprozess
+   3. Standard processes
+   4. Managed
+   5. Process established for continuous improvement
+5. Transform Project Success:
+   1. Was sind die groessten Herausforderungen im Projektmanagement
+6. Key Drivers to PPM Maturity:
+   1. Methodology
+   2. PMO
+   3. Technology
+   4. Training & Support
+7. The Future of Work:
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
@@ -15,7 +38,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
+Literatur kann via Fußnoten angegeben werden[^10]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
@@ -97,7 +120,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [The State of Project Management Annual Report 2021 (YouTube)](https://www.youtube.com/watch?v=hZd5SgZWoWU)
+[^10]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
