@@ -1,8 +1,8 @@
 ---
 title: Entwicklungsprojekte
-tags: agil klassisch
+tags: klassisch
 author: katjasc
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Entwicklungsprojekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
