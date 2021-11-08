@@ -5,6 +5,42 @@ author: noahbrunnhuber
 anrechnung: k
 ---
 
+# Qualitaetsmanagement
+Das Qualitatesmanagement ist in erster Linie ein Vorgang, dessen Fokus auf der Verbesserung der Qualität von beispielsweise Prozessen oder Produkten liegt. Die Qualität selbst kann dabei vor allem anhand des Grades der Erfüllung der Kundenerwartungen festgestellt werden[^1].
+## Definitionen Qualitatesmanagement
+Genauer gesagt versteht man unter Qualitatesmanagement – "entsprechend der Definition nach [DIN EN ISO 9000:2005](https://de.wikipedia.org/wiki/Genormte_Qualit%C3%A4tssicherung#Definition_nach_DIN_EN_ISO_9000) – aufeinander abgestimmte 
+Tätigkeiten zum Leiten und Lenken einer Organisation, die darauf 
+abzielen, die Qualität der produzierten Produkte oder der angebotenen Dienstleistung zu verbessern"[^2]. Im Projekt wird hiebei vor allem auf die Sicherung der Qualitaet waehrend des gesamten Zeitraums geachtet[^3].
+## Bestandteile des Qualitatsmanagements
+* genaue Planung und Ausarbeitung der Arbeitsschritte
+* überprüfen, ob Qualitaetsansprueche eingehalten werden (Qualitaets-Controlling)
+* Abweichungen erkennen und Gegenmaßnahmen einleiten[^3]
+* Dokumentation des Qualitaetsmanagements
+* Austausch mit Kunden und Mitarbeitern[^4]
+## Ziele des Qualitaetsmanagements
+* kontinuierliche Verbesserung der Prozesse im Projekt mithilfe des [PDCA-Prozesses](https://de.wikipedia.org/wiki/Demingkreis)
+* Verbesserung der Kundenbeziehungen durch Qualitaetssicherheit und Zuverlaessigkeit[^4]
+## Nachteile des Qualitaetsmanagements
+Trotz seiner vielen Vorteile bringt das Qualitaetsmanagement auch einiges an Belastungen mit sich. Dieser aeussert sich vor allem durch die verursachten Kosten, bei denen zwischen Kosten durch die Nicht-Erfuellung der Qualitaetsansprueche und Kosten für die Sicherstellung der Qualitate unterschieden werden kann. Zudem spielt hier auch der zeitliche Aufwand eine wichtige Rolle[^2].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Kurzbeschreibung zu Qualitaetsmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
@@ -97,8 +133,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Was ist Qualitätsmanagement?](https://www.innolytics.de/was-ist-qualitaetsmanagement)
+[^2]: [Qualitätsmanagement in Projekten](https://www.hsbund.de/SharedDocs/Downloads/0_Abschlussarbeiten/FB_FIN/2011/01_11_Baetz.pdf?__blob=publicationFile)
+[^3]: [Was bedeutet Qualitätsmanagement für das Projektmanagement?](http://blog.bepartner.de/qualitaetsmanagement/#:~:text=Was%20bedeutet%20Qualit%C3%A4tsmanagement%20f%C3%BCr%20das%20Projektmanagement%3F%201%20Qualit%C3%A4tsmanagement,Qualit%C3%A4ts-Prinzipien%20f%C3%BCr%20erfolgreiche%20Projekte.%20...%20Weitere%20Artikel...%20)
+[^4]: [Qualitätsmanagement als Berufsfeld: Definition, Aufgaben und ISO 9000](https://ifm-business.de/aktuelles/business-news/qualitaetsmanagement-als-berufsfeld-definition-aufgaben-und-aussichten.html)
 
