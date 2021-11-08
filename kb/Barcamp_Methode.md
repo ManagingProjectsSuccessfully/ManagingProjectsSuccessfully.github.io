@@ -1,6 +1,6 @@
 ---
 title: Barcamp_Methode
-tags: agil klassisch
+tags: agil barecamp methode 
 author: fabriGH
 anrechnung: k oder a
 ---
