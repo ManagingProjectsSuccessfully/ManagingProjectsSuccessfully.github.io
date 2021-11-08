@@ -58,7 +58,7 @@ _Erstellt durch den Autor mittels Microsoft PowerBI_
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Gantt_Diagramme.md)
+* [Projektphasen_klassisch](https://github.com/xyily/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektphasen_klassisch.md)
 
 # Weiterführende Literatur
 
