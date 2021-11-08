@@ -2,7 +2,7 @@
 title: Qualitaetsmanagement
 tags: agil klassisch
 author: noahbrunnhuber
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Qualitaetsmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
