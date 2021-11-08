@@ -1,19 +1,18 @@
 ---
 title: Wasserfall_Modell
-tags: agil klassisch
+tags: klassisch
 author: ga88maby
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Wasserfall_Modell um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Wasserfall-Modell ist nicht anders als ein lineares sequenzielles Vorgehensmodell, damit ist gemeint, dass die Phasen nicht parallel zueinander ablaufen können, aber was ist genau ein Wasserfall-Modell: Stellen wir uns ein Softwareprojekt vor, da haben wir der Beginn und das Resultat, dazwischen liegt die Softwareentwicklung, dabei ist der Wasserfall-Modell einer der Vorgehensweise einer Softwareentwicklung. Royce hat es im Jahr 1970 vorgeschlagen und wurde dann von Boehm als „Wasserfall-Modell“ bezeichnet. Außerdem besteht es aus fünf bis sieben Phasen.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Grundkonzepte und Phasen: 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Die Hauptgrundidee ist die Aufteilung des Projekts in Phasen, hier springt man von einer Phase auf die Nächste, sobald man die Phase erfolgreich abgeschlossen hat. Zurückspringen ist dementsprechend auch möglich, wenn es ein Fehler in einer abgeschlossenen Phase aufgetreten ist, ist einem möglich wieder auf die letzte Phase zurückzugreifen, das nennen wir: Feedback-Looping[^1]
+Trotz der Feedback-Looping ist Wasserfall-Modell kein Agiles-Modell, da lineare und starre Abfolge das Ganze ist.
+
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
