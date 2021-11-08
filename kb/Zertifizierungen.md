@@ -11,11 +11,11 @@ Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der
 
 ZERTIFIZIERUNGSSTELLEN QUELLEN PRÜFEN!
 
-# Vergleich der Projektmanagementstandards mit Möglichkeit zur Zertifizierung
+# Vergleich der Zertifizierung im PM
 
-Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche PM-Standards an. Diese Projektmanagementstandards werden oft in unterschiedlicher Modifikation von einem Verband angeboten. Die folgende Tabelle gibt einen ersten Überblick über vier der beliebtesten Zertifizierungen in den unterschiedlichen Projektmanagementstandards.
+Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche PM-Standards an. Diese Projektmanagementstandards werden oft in unterschiedlicher Modifikation von einer Organisation angeboten. Die folgende Tabelle gibt einen ersten Überblick über vier der beliebtesten Zertifizierungen in den unterschiedlichen Projektmanagementstandards.
 
-| PM-Verband / Anbieter                   | IPMA                     | PMI                                | PMI                                | Prince2            | Scrum.org      |
+| PM-Organisation / Anbieter                   | IPMA                     | PMI                                | PMI                                | Prince2            | Scrum.org      |
 |-----------------------------------------|--------------------------|------------------------------------|------------------------------------|--------------------|----------------|
 | Beliebte Zertifizierung<br>als Beispiel | IPMA Level D             | PMI-ACP-Zerifizierung              | PMP-Zertifikat                     | Prince2 Foundation | PSM1           |
 | Einordnung klassisches /<br>agiles PM   | Klassisch                | Agil                               | Klassisch                          | Agil               | Agil           |
@@ -24,7 +24,7 @@ Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besond
 | Gültigkeit                              | 5 Jahre                  | 2 Jahre                            | 3 Jahre                            | 3 Jahre            | Lebenslang     |
 | Kosten                                  | Ca. 4.000 Euro           | Ca. 400 Euro                       | Ca. 3.000 Euro                     | Bis zu 1500 Euro   | 150 Euro       |
 
-## Schlussfolgerung aus der Tabelle
+Ziel dieser Tabelle ist es, einen ersteb Überblick über PM-Zertifizierungen zu geben. Einzelne Organisationen und deren Zertifizierungen, wie die [IPMA](IPMA_Institution.md), [PMI](PMI_Institution.md) oder [Scrum.org](SCRUM_org_Institution.md) werden in seperaten Arikeln näher beleuchtet.
 
 # Praktische Relevanz von Zertifizierungen im Projektmanagment
 
