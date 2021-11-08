@@ -1,6 +1,6 @@
 ---
 title: Gantt_Diagramme
-tags: Gantt klassisch
+tags: Gantt klassisch Projektmanagement
 author: xyily
 anrechnung: k
 ---
