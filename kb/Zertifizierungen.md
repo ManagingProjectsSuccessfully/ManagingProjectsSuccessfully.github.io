@@ -34,7 +34,7 @@ Bereits zu Beginn dieses Artikels (vgl. 1. Zertifizierungen und deren Bedeutung 
 
 ## 4.1. Höhere Chancen auf dem Arbeitsmarkt
 
-Mit der Aufnahme einer PM-Zertifizierung in den Lebenslauf, steigt nicht nur nicht die Einstellwahrscheinlichkeit, sondern auch die Gehaltaussichten in Anhägigkeit von der Branche und der Unternehmensgröße. Nicht zu vernachlässigen ist, dass Projektmanager mit 6 bis 10 Jahren Berufserfahrung im Durschnitt bereits über 87.000 Euro Brutto-Jahresgehalt erzielen und monetär wenig Anreize zur Weiterbildung haben. Demnach stärkt eine Zertifizierung ungemein die Reputation des Projektmanagers.
+Mit der Aufnahme einer PM-Zertifizierung in den Lebenslauf, steigt nicht nur nicht die Einstellwahrscheinlichkeit, sondern auch die Gehaltaussichten in Anhägigkeit von der Branche und der Unternehmensgröße. Nicht zu vernachlässigen ist, dass Projektmanager mit 6 bis 10 Jahren Berufserfahrung im Durschnitt bereits über 87.000 Euro Brutto-Jahresgehalt erzielen und monetär weniger Anreize zur Weiterbildung haben. Demnach stärkt eine Zertifizierung ungemein die Reputation des Projektmanagers.
 
 ## 4.2. Erhöhung der Glaubwürdigkeit
 
