@@ -2,7 +2,7 @@
 title: Barcamp_Methode
 tags: agil barecamp methode 
 author: fabriGH
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Barcamp_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
