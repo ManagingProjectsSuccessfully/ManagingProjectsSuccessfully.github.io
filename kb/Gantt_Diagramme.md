@@ -5,10 +5,7 @@ author: xyily
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Gantt_Diagramme um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Der folgende Artikel widmet sich dem Thema Gantt-Diagramme, die im klassischen Projektmanagement ein häufig verwendetes Werkzeug darstellen.
 
 # 1 Was ist ein Gantt Diagramm
 Gantt-Diagramme  sind Tools zur Projektplanung. Sie unterstützen im klassischen [Projektmanagement]( https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)  (hier den Artikel verlinken!!), indem sie die zeitliche Abfolge, sowie Beginn und Ende der einzelnen Aktivitäten des Projekts in Balkenform visualisieren [^1].
