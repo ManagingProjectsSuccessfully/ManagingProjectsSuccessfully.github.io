@@ -1,6 +1,6 @@
 ---
 title: Gantt_Diagramme
-tags: Gantt klassisch Projektmanagement
+tags: Gantt klassisch Projektmanagement Ressourcenplanung
 author: xyily
 anrechnung: k
 ---
