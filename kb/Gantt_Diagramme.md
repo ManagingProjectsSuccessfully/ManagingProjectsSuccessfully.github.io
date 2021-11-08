@@ -22,7 +22,7 @@ Auf der horizontalen Achse des Diagramms befinden sich die Namen der einzelnen A
 
 ## 1.3 Gantt-Diagramme erstellen 
 Für die Erstellung eines Gantt Diagramms können zahlreiche Software Programme benutzt werden. 
-Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtige Programme wären zum Beispiel Mindmanager, oder Microsoft Project[^4]. Zur Erstellung werden folgende Informationen benötigt:
+Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtige Programme wären zum Beispiel Mindmanager, oder Microsoft Project[^4]. Zur Erstellung werden folgende Informationen benötigt[^5]:
 * nötiger Detaillierungsgrad des Diagramms
 * Aktivitäten
 * Reihenfolge der Aktivitäten 
@@ -35,22 +35,22 @@ Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtig
 
  Beispiel für die nötige Datenbasis für ein Gantt-Diagramm   ![Beispielabbildung](Gantt_Diagramme/Datenbasis-gantt.jpg) <br>
 _Erstellt durch den Autor_
- 
- daraus resultierendes Gantt-Diagramm  ![Beispielabbildung](Gantt_Diagramme/Gantt-Umzug.jpg)
+ <br>
+ daraus resultierendes Gantt-Diagramm  ![Beispielabbildung](Gantt_Diagramme/Gantt-Umzug.jpg)<br>
 _Erstellt durch den Autor mittels Microsoft PowerBI_
 
 # 2.  Vor- / Nachteile des Gantt-Diagramms
      Wie jedes Tool hat auch das Gantt-Diagramm seine Vor- und Nachteile. Diese werden in den kommenden Abschnitten näher beleuchtet.
 
 ## 2.1 Vorteile 
- - Klarheit: Aufgrund der verständlichen Visualisierung des Projektablaufs, ist für alle Beteiligten transparent, wann welche Aktivität beginnt, und endet und in welcher Reihenfolge das geschieht.
-- Motivation: Durch das Gantt-Diagramm ist jedem Beteiligten bewusst welche Rolle er im Projekt durch seine Aktivitäten einnimmt und welche Verantwortung er trägt damit das Projekt reibungslos ablaufen kann. (https://www.teamleader.de/blog/gantt-diagramm)
--  Ermittlung nötiger Ressourcen: Da bei der Erstellung der Gantt-Chart, zeitliche Rahmen, sowie die Anzahl nötiger Head Counts festgelegt werden, hilft die Gantt-Chart bei der Ressourcenplanung (https://asana.com/de/resources/gantt-chart-basics).   
--
+1. Klarheit: Aufgrund der verständlichen Visualisierung des Projektablaufs, ist für alle Beteiligten transparent, wann welche Aktivität beginnt, und endet und in welcher Reihenfolge das geschieht.
+2. Motivation: Durch das Gantt-Diagramm ist jedem Beteiligten bewusst welche Rolle er im Projekt durch seine Aktivitäten einnimmt und welche Verantwortung er trägt damit das Projekt reibungslos ablaufen kann[^5].
+3. Ermittlung nötiger Ressourcen: Da bei der Erstellung der Gantt-Chart, zeitliche Rahmen, sowie die Anzahl nötiger Head Counts festgelegt werden, hilft die Gantt-Chart bei der Ressourcenplanung[^6].   
+
 ## 2.2 Nachteile
 1. Komplexität bei umfangreichen Projekten: Bei Großprojekten mit einer hohen Anzahl an Aktivitäten, kann das Gantt-Diagramm unübersichtlich werden, wodurch es seinen Zweck, der unkomplizierten Visualisierung des Projektablaufs, verliert. 
 2.  Arbeitsaufwand: Bei Änderungen im Projektverlauf muss auch das Diagramm angepasst werden, das kann zu zusätzlichem Arbeitsaufwand führen.
-3. undynamisch: Um ein Gantt-Diagramm erfolgreich einsetzen zu können , müssen zum Projektstart alle nötigen Aktivitäten geplant sein. Infolgedessen sind Gantt-Diagramme aufgrund ihrer Starrheit nicht für agiles Projektmanagement geeignet (https://www.teamleader.de/blog/gantt-diagramm).
+3. undynamisch: Um ein Gantt-Diagramm erfolgreich einsetzen zu können , müssen zum Projektstart alle nötigen Aktivitäten geplant sein. Infolgedessen sind Gantt-Diagramme aufgrund ihrer Starrheit nicht für agiles Projektmanagement geeignet[^5].
 
 
 
@@ -69,4 +69,5 @@ _Erstellt durch den Autor mittels Microsoft PowerBI_
 [^2]: http://projekt-manager.eu/projektmanagement/balkenplan.html
 [^3]: https://de.wikipedia.org/wiki/Gantt-Diagramm#Aufbau_und_Struktur
 [^4]: https://de.wikipedia.org/wiki/Gantt-Diagramm#Software
-
+[^5]: https://www.teamleader.de/blog/gantt-diagramm
+[^6]: https://asana.com/de/resources/gantt-chart-basics
