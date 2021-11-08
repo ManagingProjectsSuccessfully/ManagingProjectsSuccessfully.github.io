@@ -61,7 +61,7 @@ Das Modell bringt auch paar kritische Punkte mit wie:
 * Der Unterschied zwischen klassisches Wasserfall_Modell und das agile Modell:
   https://www.wegewerk.com/de/blog/wasserfall-vs-agile-umsetzung/
 
-# Quellen
+# Quellen:
 
 [^1]:https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
 [^2]:https://www.youtube.com/watch?v=8MEacBXP6zg&t=68s
