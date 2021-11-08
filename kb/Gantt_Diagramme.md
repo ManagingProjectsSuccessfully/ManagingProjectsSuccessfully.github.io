@@ -45,7 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Gantt_Diagramme/test-file.jpg)
+![Beispielabbildung](Gantt_Diagramme/Datenbasis-gantt.jpg)
 
 *lustiges Testbild*
 
