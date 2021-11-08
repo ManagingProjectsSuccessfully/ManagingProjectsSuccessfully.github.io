@@ -1,6 +1,6 @@
 ---
 title: Projektmanagement_4_0
-tags: agil klassisch
+tags: klassisch
 author: wernerni
 anrechnung: k
 ---
