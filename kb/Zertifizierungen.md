@@ -4,12 +4,12 @@ tags: agil klassisch
 author: JonasMallwitz
 anrechnung: k oder a
 ---
-# Zertifizierungen und deren Bedeutung im Projektmanagement 
+# 1. Zertifizierungen und deren Bedeutung im Projektmanagement 
 
 Bereits in den vorherigen Artikeln wurde deutlich betont, dass es nicht nur eine gültige Definition von Projektmanagement (PM) gibt und es neben der klassischen und agilen Variante zu Abweichungen in der praktischen Umsetzung kommen kann. 
 Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der Umsetzung des PM treffen zu können, ist es notwendig, die Fähigkeiten von unabhängigen und breitflächig akzeptierten Instanzen zertifizieren zu lassen. Dies geschieht über Zertifizierungsstellen wie z.B. der [DEKRA](https://www.dekra-akademie.de), dem [TÜV](https://akademie.tuv.com/catalogsearch/result/?q=Projektmanager) oder der [Deutschen Gesellschaft zur Zertifizierung von Managementsystemen (DQS)](https://www.dqs.de/de/), die neben der Lehre auch eine Prüfung zur Zertifikatsausstellung anbieten.[^1]
 
-# Vergleich der Zertifizierung im PM
+# 2. Vergleich der Zertifizierung im PM
 
 Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche PM-Standards an. Diese Projektmanagementstandards werden oft in unterschiedlicher Modifikation von einer Organisation angeboten. Die folgende Tabelle gibt einen ersten Überblick über vier der beliebtesten Zertifizierungen in den unterschiedlichen Projektmanagementstandards.
 
@@ -23,6 +23,10 @@ Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besond
 | Kosten                                  | Ca. 4.000 Euro           | Ca. 400 Euro                       | Ca. 3.000 Euro                     | Bis zu 1500 Euro   | 150 Euro       |
 
 Ziel dieser Tabelle ist es, einen ersten Überblick über PM-Zertifizierungen zu geben und deren Unterschiede aufzuzeigen. Einzelne Organisationen und deren angebotenen Zertifizierungen, wie die [IPMA](IPMA_Institution.md), das [PMI](PMI_Institution.md) oder [Scrum.org](SCRUM_org_Institution.md) werden in den seperaten Arikeln näher beleuchtet.
+
+# 3. Auswahl der passenden Zertifizierung
+
+Neben den offensichtlichen Auswahlkriterien, wie das eigene Budget oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), sondern auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens. Erhofft sich ein Arbeitgeber die Anerkennung des Zertifikats bei internationalen Arbeitgebern, so bietet sich ein Zertifikat der IPMA-Organisation an, welche in 60 Ländern vertreten ist. Diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PMZertifizierung an, was je nach Lerntyp von Bedeutung sein kann. 
 
 # Praktische Relevanz von Zertifizierungen im Projektmanagment
 
