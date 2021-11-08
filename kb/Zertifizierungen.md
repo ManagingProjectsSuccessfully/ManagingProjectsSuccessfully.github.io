@@ -6,19 +6,23 @@ anrechnung: k oder a
 ---
 # Zertifizierungen und deren Bedeutung im Projektmanagement 
 
-Bereits in den vorherigen Artikeln wurde deutlich betont, dass es nicht nur eine gültige Definition von Projektmanagement gibt und es neben der klassischen und agilen Variante zu Abweichungen in der praktischen Umsetzung kommen kann. 
-Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der Umsetzung des Projektmanagements treffen zu können, ist es notwendig, die Fähigkeiten von unabhängigen und breitflächig akzeptierten Instanzen zertifizieren zu lassen. Dies geschieht über Zertifizierungsstellen wie z.B. der DEKRA, dem TÜV oder der Deutschen Gesellschaft zur Zertifizierung von Managementsystemen (DQS), die neben der Lehre auch eine Prüfung zur Zertifikatsausstellung anbieten.
+Bereits in den vorherigen Artikeln wurde deutlich betont, dass es nicht nur eine gültige Definition von Projektmanagement (PM) gibt und es neben der klassischen und agilen Variante zu Abweichungen in der praktischen Umsetzung kommen kann. 
+Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der Umsetzung des PM treffen zu können, ist es notwendig, die Fähigkeiten von unabhängigen und breitflächig akzeptierten Instanzen zertifizieren zu lassen. Dies geschieht über Zertifizierungsstellen wie z.B. der DEKRA, dem TÜV oder der Deutschen Gesellschaft zur Zertifizierung von Managementsystemen (DQS), die neben der Lehre auch eine Prüfung zur Zertifikatsausstellung anbieten.
 
 ZERTIFIZIERUNGSSTELLEN QUELLEN PRÜFEN!
 
 # Vergleich der Projektmanagementstandards mit Möglichkeit zur Zertifizierung
 
-Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche Projektmanagementstandards an. Diese Projektmanagementstandards werden oft in unterschiedlicher Modifikation von einem Verband angeboten. Die folgende Tabelle gibt Aufschluss über die drei größten Verbände und deren Projektmanagementstandards mit Möglichkeit zur Zertifizierung.
+Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche PM-Standards an. Diese Projektmanagementstandards werden oft in unterschiedlicher Modifikation von einem Verband angeboten. Die folgende Tabelle gibt einen ersten Überblick über vier der beliebtesten Zertifizierungen in den unterschiedlichen Projektmanagementstandards.
 
-| Verband  | IMPA | PMI | Prince2 |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | Content Cell  | ------------- | ------------- |
-| Content Cell  | Content Cell  | ------------- | ------------- |
+| PM-Verband / Anbieter                   | IPMA                     | PMI                                | PMI                                | Prince2            | Scrum.org      |
+|-----------------------------------------|--------------------------|------------------------------------|------------------------------------|--------------------|----------------|
+| Beliebte Zertifizierung<br>als Beispiel | IPMA Level D             | PMI-ACP-Zerifizierung              | PMP-Zertifikat                     | Prince2 Foundation | PSM1           |
+| Einordnung klassisches /<br>agiles PM   | klassisch                | agil                               | klassisch                          | agil               | agil           |
+| Schwerpunkt                             | Hard- und Softskills     | Methodiken wie Scrum, Kanban, etc. | Prozesse und Methoden              | Prince-2 Methodik  | Scrum Methodik |
+| Zielgruppe                              | Mittlere Erfahrung im PM | Projektmanager mit Berufserfahrung | Projektmanager mit Berufserfahrung | Anfänger           | Anfänger       |
+| Gültigkeit                              | 5 Jahre                  | 2 Jahre                            | 3 Jahre                            | 3 Jahre            | Lebenslang     |
+| Kosten                                  | ca. 4.000 Euro           | ca. 400 Euro                       | ca. 3.000 Euro                     | bis zu 1500 Euro   | 150 Euro       |
 
 ## Schlussfolgerung aus der Tabelle
 
