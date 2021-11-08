@@ -5,10 +5,9 @@ author: Goschu1
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu Praxisbeispiele_erfolgreiche_Projekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Projekte egal, ob im agilem oder klassischem Projektmanagement, haben immer eine Gemeinsamkeit: Sie sollen ein zuvor gesetztes Ziel erfolgreich erreichen, doch ab wann ist ein Projekt "erfolgreich"? 
+Der folgende Artikel handelt von Praxisbeispielen von Großprojekten, die gelungen sind und Unternehmen maßgeblich vorangebracht haben. Zudem werden einige Zahlen aus der aktuellen Forschung mitverwendet um zu verstehen, wie viele Projekte überhaupt ihr Ziel erreichen.  
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
