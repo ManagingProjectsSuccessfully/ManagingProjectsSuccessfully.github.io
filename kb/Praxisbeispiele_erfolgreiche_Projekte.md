@@ -4,36 +4,14 @@ tags: klassisch
 author: Goschu1
 anrechnung: k 
 ---
-
-Projekte egal, ob im agilem oder klassischem Projektmanagement, haben immer eine Gemeinsamkeit: Sie sollen ein zuvor gesetztes Ziel erfolgreich erreichen, doch ab wann ist ein Projekt "erfolgreich"? 
-Der folgende Artikel handelt von Praxisbeispielen von Großprojekten, die gelungen sind und Unternehmen maßgeblich vorangebracht haben. Zudem werden einige Zahlen aus der aktuellen Forschung mitverwendet um zu verstehen, wie viele Projekte überhaupt ihr Ziel erreichen.  
+Der folgende Artikel handelt von erfolgreichen Großprojekten, die Unternehmen maßgeblich vorangebracht haben. Zudem werden einige Erkenntnisse und Zahlen aus der aktuellen Forschung rund erfolgreiche Projekte diskutiert. 
 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+[^2].
+[^3] [^4] [^2] [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) 
+[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) 
+[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) 
 
 
 # Aspekt 1
