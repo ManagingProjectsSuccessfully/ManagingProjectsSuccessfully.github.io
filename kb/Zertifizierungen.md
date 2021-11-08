@@ -18,11 +18,11 @@ Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besond
 | PM-Verband / Anbieter                   | IPMA                     | PMI                                | PMI                                | Prince2            | Scrum.org      |
 |-----------------------------------------|--------------------------|------------------------------------|------------------------------------|--------------------|----------------|
 | Beliebte Zertifizierung<br>als Beispiel | IPMA Level D             | PMI-ACP-Zerifizierung              | PMP-Zertifikat                     | Prince2 Foundation | PSM1           |
-| Einordnung klassisches /<br>agiles PM   | klassisch                | agil                               | klassisch                          | agil               | agil           |
+| Einordnung klassisches /<br>agiles PM   | Klassisch                | Agil                               | Klassisch                          | Agil               | Agil           |
 | Schwerpunkt                             | Hard- und Softskills     | Methodiken wie Scrum, Kanban, etc. | Prozesse und Methoden              | Prince-2 Methodik  | Scrum Methodik |
 | Zielgruppe                              | Mittlere Erfahrung im PM | Projektmanager mit Berufserfahrung | Projektmanager mit Berufserfahrung | Anfänger           | Anfänger       |
 | Gültigkeit                              | 5 Jahre                  | 2 Jahre                            | 3 Jahre                            | 3 Jahre            | Lebenslang     |
-| Kosten                                  | ca. 4.000 Euro           | ca. 400 Euro                       | ca. 3.000 Euro                     | bis zu 1500 Euro   | 150 Euro       |
+| Kosten                                  | Ca. 4.000 Euro           | Ca. 400 Euro                       | Ca. 3.000 Euro                     | Bis zu 1500 Euro   | 150 Euro       |
 
 ## Schlussfolgerung aus der Tabelle
 
