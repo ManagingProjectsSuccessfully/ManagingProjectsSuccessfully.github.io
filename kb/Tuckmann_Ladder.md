@@ -1,8 +1,8 @@
 ---
 title: Tuckmann_Ladder
-tags: agil klassisch
+tags: klassisch
 author: ebressel
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Tuckmann_Ladder um ein erstes Verständnis dafür zu schaffen um was es hier geht.
