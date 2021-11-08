@@ -22,7 +22,7 @@ abzielen, die Qualität der produzierten Produkte oder der angebotenen Dienstlei
 
 ## Ziele des Qualitaetsmanagements
 * kontinuierliche Verbesserung der Prozesse im Projekt mithilfe des [PDCA-Prozesses](https://de.wikipedia.org/wiki/Demingkreis)
-![PDCA-Prozess](Qualitaetsmanagement/PDCA Cycle Grpahic.png)
+![PDCA-Prozess](ManagingProjectsSuccessfully.github.io/kb/Qualitaetsmanagement/PDCA Cycle Grpahic.png)
 * Verbesserung der Kundenbeziehungen durch Qualitaetssicherheit und Zuverlaessigkeit[^4]
 
 ## Nachteile des Qualitaetsmanagements
