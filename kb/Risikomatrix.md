@@ -28,7 +28,7 @@ Die Risikomatrix hilft bei der Beurteilung von Risiken, da es das Ergebnis der R
 Des Weiteren ist die Riskomatrix ideal für die Visualisierung und Kommunikation von Risikobewertungen und geben Auskunft über die Anzahl der Kritikalität von Risiken. Durch die Riskomatrix wird die Transparenz im Umgang mit Risiken als auch das Risikoverständnis in der Organisationen gefördert[^1].  
 
 ### Nutzen im Risikomangement
-Im Risikomanagement werden Elemente die einen negativen Einfluss auf das Projekt haben identifiziert, überwacht und gesteuert. Die Bewertung von Risiken erfolgt Anhand der Wahrscheinlichkeiten sowie dem zu erwartenden Verlust im Falle eines Schadens. Ab einer Eintrittswahrscheinlichkeit von 25% und einer durchschnittlichen Schadenshöhe, welche die eine Organisation als Mittel bewertet, werden Risiken einer aktiven Steuerung unterzogen. Des Weiteren kann ein Risiko angenommen, gemildert oder verlagert werden. 
+Im Risikomanagement werden Elemente die einen negativen Einfluss auf das Projekt haben identifiziert, überwacht und gesteuert. Die Bewertung von Risiken erfolgt Anhand der Wahrscheinlichkeiten sowie dem zu erwartenden Verlust im Falle eines Schadens. Ab einer Eintrittswahrscheinlichkeit von 25% und einer durchschnittlichen Schadenshöhe, welche eine Organisation als Mittel bewertet, werden Risiken einer aktiven Steuerung unterzogen. Des Weiteren kann ein Risiko angenommen, gemildert oder verlagert werden.
 Falls eine Annahme des Risikos in betracht gezogen wird werden keine Steuerungsmaßnahmen durchgeführt. Bei Milderung oder Verlagerung werden Maßnahmen ergriffen, welche beispielsweise, die Beschaffung von mehr Personal zum entgegenwirken von krankheitsbedingten Ausfällen, sein kann[^9].
 
 ### Nutzen im Projektmanagement
