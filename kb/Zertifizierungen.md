@@ -26,9 +26,19 @@ Ziel dieser Tabelle ist es, einen ersten Überblick über PM-Zertifizierungen zu
 
 # 3. Auswahl der passenden Zertifizierung
 
-Neben den offensichtlichen Auswahlkriterien, wie das eigene Budget oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), sondern auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens. Erhofft sich ein Arbeitgeber die Anerkennung des Zertifikats bei internationalen Arbeitgebern, so bietet sich ein Zertifikat der IPMA-Organisation an, welche in 60 Ländern vertreten ist. Diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PMZertifizierung an, was je nach Lerntyp von Bedeutung sein kann. 
+Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitgeber die Anerkennung des Zertifikats bei internationalen Arbeitgebern, so bietet sich ein Zertifikat der IPMA-Organisation an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PMZertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das PMP-Zertifikat oder die PMI-ACP-Zertifizierung der PMI eine höhere Chance, anerkannt zu werden. 
 
-# Praktische Relevanz von Zertifizierungen im Projektmanagment
+# 4. Praktische Relevanz von Zertifizierungen im Projektmanagment
+
+Bereits zu Beginn dieses Artikels (vgl. 1. Zertifizierungen und deren Bedeutung im Projektmanagement) wurde aufgezeit, dass PM-Zertifizierungen, eine objektive Darlegung des Wissenstands und der Fähigkeiten von Projektmangern verkörpern. Darüber hinaus gibt es weitere Beweggründe, eine PM-Zertifizierung zu erwerden. Diese werden im Folgenden kurz dargestellt.
+
+## 4.1. Höhere Chancen auf dem Arbeitsmarkt
+
+Mit der Aufnahme einer PM-Zertifizierung in den Lebenslauf, steigt nicht nur nicht die Einstellwahrscheinlichkeit, sondern auch die Gehaltaussichten in Anhägigkeit von der Branche und der Unternehmensgröße. Nicht zu vernachlässigen ist, dass Projektmanager mit 6 bis 10 Jahren Berufserfahrung im Durschnitt bereits über 87.000 Euro Brutto-Jahresgehalt erzielen und monetär wenig Anreize zur Weiterbildung haben. Demnach stärkt eine Zertifizierung ungemein die Reputation des Projektmanagers.
+
+## 4.2. Erhöhung der Glaubwürdigkeit
+
+Projektmanager mit einer PM-Zertifizierung erhöhen nachweislich ihre Glaubwürdigkeit von Kunden und Lieferanten, da sie zusätzlich Möglichkeit hatten, ihre Fachexpertise zu steigern.
 
 # Fazit
 
