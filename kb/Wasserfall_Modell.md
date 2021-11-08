@@ -49,7 +49,7 @@ Das Modell bringt auch paar kritische Punkte mit wie:
 
 
 # Andere Vorgehensmodelle:
-Wegen der einige gravierende Nachteile, die die wirtschaftliche Lage beschädigen, wird viele alternative von der IT-Industrie angeboten, wie z.b.:
+  Wegen der einige gravierende Nachteile, die die wirtschaftliche Lage beschädigen, wird viele alternative von der IT-Industrie angeboten, wie z.b.:
 *	Spiralmodell
 *	Rational Unified Process
 *	V-Modell
