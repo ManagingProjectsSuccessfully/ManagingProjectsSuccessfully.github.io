@@ -1,8 +1,8 @@
 ---
-title: Failure_Mode_and_Effects_Analysis
-tags: agil klassisch
+title: Failure_Mode_and_Effects_Analysis.md 
+tags: klassisch
 author: Creed229
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 ## Definition
@@ -39,88 +39,26 @@ Der Aufbau und das Ergebnis einer "Failure Mode and Effects Analysis" beinhaltet
 * **Risk Priority Number (RPN)** ist das Produkt aus **S**, **P** und **D** und bringt die einzelnen Failure Modes in eine geordnete Reihenfolge. 
 * **Proposed Actions** gibt an, was getan werden muss um die erkannten Risiken der Failure Modes zu minimieren.
 
-#
 
 ![FMEA Basic Sheet](http://pdcahome.com/english/wp-content/uploads/2013/06/fmea.jpeg)
 [Simples FMEA Spreadsheet](http://pdcahome.com/english/wp-content/uploads/2013/06/fmea.jpeg)[^6]
 
 ## Aufbau und Ablauf
+FMEA wird meist in mehreren "Brainstorming" Sitzungen eines Teams durchgeführt. Dabei werden die genannten Kennzahlen gemeinsam festgelegt. Die Bewertung der Kriterien erfolgt dabei von 1 bis 10. Dadurch wird sich bereits ein erster Überblick verschafft und die Fehlerdaten von mehreren Parteien gesammelt. 
 
+Anschließend wird durch die Berechnung und Bewertung der **RPN** eine Fazit gebildet, bei welchen Prozessen es das größte Verbesserungspotential gibt. Es werden Vorschläge gesammelt und es wird evaluiert was genau angepasst werden muss. Durch die Wiederholung dieses Prozesses soll über lange Sicht eine Eliminierung aller Fehler im System erzielt werden.[^6][^7]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Failure_Mode_and_Effects_Analysis/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [FMEA_Methode](kb/FMEA_Methode.md)
 * [Link auf diese Seite](Failure_Mode_and_Effects_Analysis.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
+* [FMEA Wikipedia](https://de.wikipedia.org/wiki/FMEA)
+* [FMEA Google Scholar](https://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=failure+modes+effects+analysis&oq=failure+modes)
 # Quellen
 
 [^1]: Haktanir et al. (2020), "Interval-valued neutrosophic failure mode and effect analysis."
@@ -131,6 +69,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^4]: [Fehlermöglichkeits- und -Einflussanalyse (FMEA)](https://www.iph-hannover.de/de/dienstleistungen/fertigungsverfahren/fmea/#arten)
 
-[^5]: Langford, J. W. (1995), "Logistics: Principles and Applications." McGraw Hill. p. 488.
+[^5]: Langford, J. W. (1995), "Logistics: Principles and Applications." McGraw Hill. p. 488
 
 [^6]: [FMEA Spreadsheet](http://pdcahome.com/english/wp-content/uploads/2013/06/fmea.jpeg)
+
+[^7]: [Project Management 101 — What is Failure Mode and Effects Analysis (FMEA)?](https://www.copperproject.com/2018/01/project-management-101-failure-mode-effects-analysis-fmea/)
+[^8]: D. H Stamatis (2003), 2. Edition, "Failure Mode and Effect Analysis – FMEA from theory to execution", ASQ Quality Press
