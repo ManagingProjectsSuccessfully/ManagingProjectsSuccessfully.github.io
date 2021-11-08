@@ -5,7 +5,7 @@ author: JanEhrFAU
 anrechnung: k
 ---
 
-Ein Szenario ist eine "hypotetische Aufeinanderfolge von Ereignissen, die zur Beachtung kausaler Zusammenhänge konstruiert wird."[^1]
+Ein Szenario ist eine "hypothetische Aufeinanderfolge von Ereignissen, die zur Beachtung kausaler Zusammenhänge konstruiert wird."[^1]
 Die Szenariotechnik nutzt also realistische Prognosen, um mithilfe dieser Vorhersagen Entstehungsprozesse möglicher Probleme
 oder auch Vorteile zu verstehen. Anhand dieses Verständnisses können die eigenen Aktionen geplant und angepasst werden um gesetzte Ziele 
 zu erreichen.
