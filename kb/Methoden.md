@@ -18,6 +18,7 @@ Kreativitätsmethoden dienen im Bezug auf Projektmanagement dazu, innovative Ide
 
 
 Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen. Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]
+Methoden geben Projekten Transparenz und Struktur.[^4]
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -129,7 +130,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [Projektmanagementmethode](https://de.wikipedia.org/wiki/Projektmanagementmethode)
 [^2]: [Kreativitätstechniken: 7 Methoden für neue Ideen](https://www.einstein1.net/kreativitaetstechniken/)
-[^3]: [Handbuch Projektmanagement](
+[^3]: [Handbuch Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Kuster2011_Book_HandbuchProjektmanagement.pdf)
+[^4]: [Projektmanagement mit System: Organisation, Methoden, Steuerung](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Kraus-Westermann2019_Book_ProjektmanagementMitSystem.pdf)
 
 
 
