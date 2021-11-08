@@ -30,7 +30,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 Das Unternehmen Spotify setzte noch zu Beginn das Scrum Projektmanagement um. Nachdem Spotify mit der Zeit größer wurde, passten nicht mehr alle Prinzipien und Regeln von Scrum zum Unternehmen und der Unternehmenskultur. Basierend auf Scrum bzw. aus Scrum heraus hat Spotify ein eigenes Projektmanagementmodell angefertigt[^1]. 
 Das Spotify Modell besteht aus vier Hauptkomponenten: Squads, Tribes, Chaptern und Guilds[^2].
 
-![Spotify Modell visualisiert](Spotify-Model.png)[^2]
+![Spotify Modell visualisiert](Spotify_Projectmanagement_Model/Spotify-Model.png)[^2]
 
 ## Squads
 
