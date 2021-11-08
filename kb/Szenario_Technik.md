@@ -15,8 +15,19 @@ zu erreichen.
 Den Grundstein des Verfahrens bilden in der Regel ein positives Extrem-Szenario(Best Case), sowie ein negatives Extrem-Szenario(Worst Case).
 Häufig zu sehen ist zum Beispiel auch das sogenannte Trend-Szenario, welches dasjenige Szenario ist, das als am wahrscheinlichsten erklärt wird.[^2]
 Analysiert man diese möglichen Ergebnisse, sodass weitestgehend Erklärungen für die Entwicklung zu dem jeweiligen Endzustand gefunden wurden, 
-lassen sich deutlich einfacher Entscheidungen treffen, die einen zwar nicht mit Garantie, jedoch mit größerer Wahrscheinlichkeit in Richtung
+lassen sich deutlich einfacher Entscheidungen treffen, die einen mit größerer Wahrscheinlichkeit in Richtung
 des Best-Case-Szenarios bringen.
+
+<img src="Szenario_Technik/Szenariotrichter.jpg" width="400"/>
+
+Abb.1[^5]: Der Szenariotrichter ist eine Visualisierung des Prozesses und zeigt die wachsende Diskrepanz zwischen den beden Extremszenarien und den 
+Verlauf des Trendszenarios, welches sich in der Regel ungefähr in der Mitte der extremen Prognosen befindet.
+
+Trends sind in nahezu jedem Bereich beobachtbar und können sehr hilfreich sein um Prognosen zu treffen. So findet man Trends zum Beispiel auch in der
+[Kosten-Trend-Analyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md), 
+sowie in der [Meilensteintrendanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse.md).
+
+
 
 ## Herkunft und Anwendungsbereiche
 
@@ -125,6 +136,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: https://www.duden.de/rechtschreibung/Szenario#bedeutungen
 [^2]: https://de.wikipedia.org/wiki/Szenariotechnik
 [^3]: https://books.google.de/books?hl=en&lr=&id=IwXyBgAAQBAJ&oi=fnd&pg=PA255&dq=Szenario+technik&ots=n8xhd-v6GO&sig=ZBDkIuKaDVY-umf8WjX9ALC1DnE&redir_esc=y#v=onepage&q=Szenario%20technik&f=false
-[Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]:
+[^5]: [Von Benutzer:Beschloss - eigenerstellt, CC BY-SA 3.0] https://commons.wikimedia.org/w/index.php?curid=23781638
 
+[Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
