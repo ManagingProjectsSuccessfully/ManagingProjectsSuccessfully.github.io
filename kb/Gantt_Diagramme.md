@@ -30,9 +30,8 @@ Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtig
 * Ende
 * Dauer der Aktivitäten
 * Verantwortlicher für jede Aktivität (Optional)
-
-
-
+<br>
+<br>
 
  Beispiel für die nötige Datenbasis für ein Gantt-Diagramm   ![Beispielabbildung](Gantt_Diagramme/Datenbasis-gantt.jpg) <br>
 _Erstellt durch den Autor_
