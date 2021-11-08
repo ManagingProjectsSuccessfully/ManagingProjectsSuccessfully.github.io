@@ -59,7 +59,7 @@ _Erstellt durch den Autor mittels Microsoft PowerBI_
 
 # Weiterführende Literatur
 
-* [YouTube Video mit guter Erklärung über Gantt-Diagramme](https://youtu.be/rpUsuZQsiFs)
+* [YouTube Video: Gantt-Diagramme](https://youtu.be/rpUsuZQsiFs)
 
 # Quellen
 
