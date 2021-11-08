@@ -45,7 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Datenbasis-gantt](https://github.com/ManagingProjectsSuccessfully.github.io/blob/main/kb/Gantt_Diagramme/Datenbasis-gantt.jpg)
+![Beispielabbildung](Gantt_Diagramme/test-file.jpg)
 
 *lustiges Testbild*
 
