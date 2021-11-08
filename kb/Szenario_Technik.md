@@ -10,18 +10,25 @@ Die Szenariotechnik nutzt also realistische Prognosen, um mithilfe dieser Vorher
 oder auch Vorteile zu verstehen. Anhand dieses Verständnisses können die eigenen Aktionen geplant und angepasst werden um gesetzte Ziele 
 zu erreichen.
 
+## Vorgehen
+
 Den Grundstein des Verfahrens bilden in der Regel ein positives Extrem-Szenario(Best Case), sowie ein negatives Extrem-Szenario(Worst Case).
 Häufig zu sehen ist zum Beispiel auch das sogenannte Trend-Szenario, welches dasjenige Szenario ist, das als am wahrscheinlichsten erklärt wird.[^2]
 Analysiert man diese möglichen Ergebnisse, sodass weitestgehend Erklärungen für die Entwicklung zu dem jeweiligen Endzustand gefunden wurden, 
 lassen sich deutlich einfacher Entscheidungen treffen, die einen zwar nicht mit Garantie, jedoch mit größerer Wahrscheinlichkeit in Richtung
 des Best-Case-Szenarios bringen.
 
+## Herkunft und Anwendungsbereiche
+
 Ihren Ursprung hat die Technik im militärischen Bereich[^3], heutzutage findet sie jedoch in zahlreichen Feldern Gebrauch. Dazu gehören Politik, 
 Wissenschaft, Wirtschaft, aber auch in der Psychologie und Psychotherapie.[^2]
 
-<img src="Szenario_Technik/Abb.1.png" width="400"/>
-Abb.1 Hier wird die Szenariotechnik anhand ausgewählter Kriterien mit ähnlichen Verfahren verglichen. Einen tieferen Einblick ins Portfoliomanagement
-finden Sie im zugehörigen [Artikel](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md)
+## Vergleich mit anderen Methoden
+
+<img src="Szenario_Technik/Vergleichstabelle.png" width="400"/>
+
+Abb.1[^3] Hier wird die Szenariotechnik anhand ausgewählter Kriterien mit ähnlichen Verfahren verglichen. Einen tieferen Einblick ins Portfoliomanagement
+finden Sie im zugehörigen [Artikel](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md).
 
 Kurzbeschreibung zu Szenario_Technik um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
