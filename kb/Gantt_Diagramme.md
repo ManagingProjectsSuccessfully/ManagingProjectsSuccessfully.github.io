@@ -36,6 +36,7 @@ Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtig
  Beispiel für die nötige Datenbasis für ein Gantt-Diagramm   ![Beispielabbildung](Gantt_Diagramme/Datenbasis-gantt.jpg) <br>
 _Erstellt durch den Autor_
  <br>
+ <br>
  daraus resultierendes Gantt-Diagramm  ![Beispielabbildung](Gantt_Diagramme/Gantt-Umzug.jpg)<br>
 _Erstellt durch den Autor mittels Microsoft PowerBI_
 
