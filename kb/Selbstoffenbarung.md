@@ -16,6 +16,8 @@ Das Kommunikationsquadrat ist eine bildliche Visualisierung der Theorie, nachdem
 
 ## Ebenen des Vier-Seiten-Modell
 
+![Kommunikationsquadrat](Selbstoffenbarung/4_seiten_modell-768x305.png)
+
 ### Sachebene
 
 Mithilfe der Sachebene des Modells übermittelt der Sender die Daten und Fakten seiner Botschaft [^7]. Demnach geht es hierbei ausschließlich um die rein sachlichen Informationen, welche der Sender vermitteln möchte [^5]. Es gelten folgende drei Kriterien innerhalb der Ebene [^1]:
@@ -34,7 +36,7 @@ Die Beziehungsebene gibt Auskunft darüber, wie der Sender der Nachricht zu dem 
 
 Durch den Appell soll eine Reaktion im Empfänger der Botschaft in Form einer Handlung provoziert werden [^5]. In dem Sinne unternimmt der Sender offen oder verdeckt den Versuch den Empfänger veranlassen, etwas zu tun oder zu unterlassen [^2]. Geschieht dies auf offene Weise entstehen Aufforderungen oder Bitten, währenddessen verdeckte Appelle als Manipulation bezeichnet werden [^2].
 
-### Selbstoffenbarung
+## Selbstoffenbarung
 
 „Wenn jemand etwas von sich gibt, gibt er auch etwas von sich. Jede Äußerung enthält gewollt oder unfreiwillig eine Kostprobe der Persönlichkeit – der Gefühle, Werte, Eigenarten und Bedürfnisse“ [^1]. Die Ebene der Selbstoffenbarung beinhaltet Informationen ausschließlich über den Sender der Botschaft [^4].
 
