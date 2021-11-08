@@ -10,80 +10,46 @@ Kurzbeschreibung zu Gantt_Diagramme um ein erstes Verständnis dafür zu schaffe
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# 1 Was ist ein Gantt Diagramm
+Gantt-Diagramme  sind Tools zur Projektplanung. Sie unterstützen im klassischen [Projektmanagement]( https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)  (hier den Artikel verlinken!!), indem sie die zeitliche Abfolge, sowie Beginn und Ende der einzelnen Aktivitäten des Projekts in Balkenform visualisieren (https://studyflix.de/wirtschaft/gantt-diagramm-659).
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# # 1.1 Entstehung
+Die erste Form des Gantt-Diagramms wurde 1896 von einem polnischen Hüttentechniker namens Karol Adamiecki entworfen. Er bezeichnete es als Harmonogram, was aus dem Polnischen übersetzt „Arbeitsablaufschild“ bedeutet. Unabhängig von Adamieckis Diagramm erstellte Henry Laurence Gantt im Jahr 1910 das erste Gantt-Diagramm, anhand dessen er Produktionsprozesse im Schiffsbau plante. Die Gantt-Chart wie sie heute eingesetzt wird, wurde jedoch nach seinem Tod durch einen Kollegen von H. L. Gantt verbreitet. Dies erfolgte durch Henry Wallace Clark unter anderem durch die Publikation des Buches „The Gantt chart, a working tool of management“ im Jahr 1922 (http://projekt-manager.eu/projektmanagement/balkenplan.html). 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# # 1.2 Aufbau 
+Auf der horizontalen Achse des Diagramms befinden sich die Namen der einzelnen Aktivitäten, die visualisiert werden sollen. Begonnen wird oben mit der ersten Aktivität, darauf folgen die restlichen Aktivitäten in der richtigen Reihenfolge.  Zu jeder Aktivität wird in der entsprechenden Zeile ein waagrechter Balken eingetragen, welcher Beginn, Ende, und Dauer der jeweiligen Aktivität anzeigt. Je länger ein Balken ist, umso länger dauert die Aktivität. Sich überschneidende Balken, stellen überlappende Aufgaben dar. Wie detailliert die einzelnen Aktivitäten und [Projektphasen](https://github.com/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektphasen_klassisch.md) dargestellt werden, kann vom Ersteller entschieden werden ( (https://de.wikipedia.org/wiki/Gantt-Diagramm#Aufbau_und_Struktur).
 
 
-# Aspekt 1
+# # 1.3 Gantt-Diagramme erstellen 
+Für die Erstellung eines Gantt Diagramms können zahlreiche Software benutzt werden. 
+Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtige Programme wären zum Beispiel Mindmanager, oder Microsoft Project (https://de.wikipedia.org/wiki/Gantt-Diagramm#Software). Im Folgenden wird gezeigt, wie ein solches Diagramm mit der PowerBI App erstellt werden kann. Zur Erstellung werden folgende Informationen benötigt:
+* Detaillierungsgrad
+* Aktivitäten
+* Reihenfolge der Aktivitäten 
+* Beginn
+* Ende
+* Dauer der Aktivitäten
+* Verantwortlicher für jede Aktivität (Optional)
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Gantt_Diagramme/Datenbasis-gantt.jpg)
+| Beispiel für die nötige Datenbasis für ein Gantt-Diagramm  | ![Beispielabbildung](Gantt_Diagramme/Datenbasis-gantt.jpg) |
+| daraus resultierendes Gantt-Diagramm | ![Beispielabbildung](Gantt_Diagramme/Gantt-Umzug.jpg) |
 
-*lustiges Testbild*
 
-# Aspekt 2
+# 2.  Vor- / Nachteile des Gantt-Diagramms
+     Wie jedes Tool hat auch das Gantt-Diagramm seine Vor- und Nachteile. Diese werden in den kommenden Abschnitten näher beleuchtet.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# # 2.1 Vorteile 
+ - Klarheit: Aufgrund der verständlichen Visualisierung des Projektablaufs, ist für alle Beteiligten transparent, wann welche Aktivität beginnt, und endet und in welcher Reihenfolge das geschieht.
+- Motivation: Durch das Gantt-Diagramm ist jedem Beteiligten bewusst welche Rolle er im Projekt durch seine Aktivitäten einnimmt und welche Verantwortung er trägt damit das Projekt reibungslos ablaufen kann. (https://www.teamleader.de/blog/gantt-diagramm)
+-  Ermittlung nötiger Ressourcen: Da bei der Erstellung der Gantt-Chart, zeitliche Rahmen, sowie die Anzahl nötiger Head Counts festgelegt werden, hilft die Gantt-Chart bei der Ressourcenplanung (https://asana.com/de/resources/gantt-chart-basics).   
+-
+# # 2.2 Nachteile
+1. Komplexität bei umfangreichen Projekten: Bei Großprojekten mit einer hohen Anzahl an Aktivitäten, kann das Gantt-Diagramm unübersichtlich werden, wodurch es seinen Zweck, der unkomplizierten Visualisierung des Projektablaufs, verliert. 
+2.  Arbeitsaufwand: Bei Änderungen im Projektverlauf muss auch das Diagramm angepasst werden, das kann zu zusätzlichem Arbeitsaufwand führen.
+3. undynamisch: Um ein Gantt-Diagramm erfolgreich einsetzen zu können , müssen zum Projektstart alle nötigen Aktivitäten geplant sein. Infolgedessen sind Gantt-Diagramme aufgrund ihrer Starrheit nicht für agiles Projektmanagement geeignet (https://www.teamleader.de/blog/gantt-diagramm).
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
