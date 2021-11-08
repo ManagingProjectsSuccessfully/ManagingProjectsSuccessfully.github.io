@@ -5,7 +5,9 @@ author: vegas1337
 anrechnung: k
 ---
 
-Eine Projektphase ist "ein definierter Zeitraum innerhalb der Laufzeit eines Projekts, der meist durch jeweils einen *Meilenstein* zu Beginn und Ende im Ablaufplan definiert ist".[^1] Die Einteilung eines Projekts in verschiedene Phasen dient dabei das *Projekt* (egal ob groß oder klein) übersichtlicher zu machen und dabei die Kontrolle und Qualität zu erleichtern bzw. zu verbessern. Dies wird durch eine verbesserte Projektsteuerung, z.B. die genaue Verteilung von Aufgaben, und erleichterte Erfolgsprüfung dank genauer Definition von Beginn und Abschluss der Phasen durch *Meilensteine* gewährleistet.[^2]
+Eine Projektphase ist "ein definierter Zeitraum innerhalb der Laufzeit eines Projekts, der meist durch jeweils einen *Meilenstein* zu Beginn und Ende im Ablaufplan definiert ist".[^1]
+
+Die Einteilung eines Projekts in verschiedene Phasen dient dabei das *Projekt* (egal ob groß oder klein) übersichtlicher zu machen und dabei die Kontrolle und Qualität zu erleichtern bzw. zu verbessern. Dies wird durch eine verbesserte Projektsteuerung, z.B. die genaue Verteilung von Aufgaben, und erleichterte Erfolgsprüfung dank genauer Definition von Beginn und Abschluss der Aufgaben/Phasen durch *Meilensteine* gewährleistet.[^2]
 
 Je nach Quelle und Definition werden klassische Projekte in 4 bis 5 Phasen unterteilt und Schwerpunkt der einzelnen Phasen teilweise auch etwas anders gesetzt. Die Reihenfolge kann sich ändern bzw. können einzelne Schritte im Projekt auch gleichzeitig ausgeführt oder öfter wiederholt werden, bis man zu dem gewünschten Ergebnis kommt.
 Im Folgenden wird ein Modell mit 5 Phasen betrachet[^3]:
@@ -28,21 +30,23 @@ Viele Unternehmen haben auch bestimmte Wert- bzw. Umsatzgrenzen, ab wann ein Pro
 
 ## 2. Projektplanung
 
-Hierbei werden mithilfe eines eventuell schon vorhandenen Zeitplans genau Termine herausgearbeitet und in diesem Zuge auch Aufgaben an einzelne Personen oder an zuvor zusammengestellte Teams verteilt. Es wird ebenfalls festgelegt wie ein erfolgreiches Ergebnis aussieht, d.h. ab wann das Projekt abgeschlossen ist. Durch die bereits erwähnten *Meilensteine* wird das Projekt und die Aufgaben in Abschnitte unterteilt und ein *Projektstrukturplan* wird erstellt, welcher "das Ergebnis einer Gliederung des Projekts in plan- und kontrollierbare Elemente"[^5] ist.[^6]
+Hierbei werden mithilfe eines eventuell schon vorhandenen Zeitplans genau Termine herausgearbeitet und in diesem Zuge auch Aufgaben an einzelne Personen oder an zuvor zusammengestellte Teams verteilt. Es wird ebenfalls festgelegt wie ein erfolgreiches Ergebnis aussieht, d.h. ab wann das Projekt abgeschlossen ist. Durch die bereits erwähnten *Meilensteine* wird das Projekt und die Aufgaben in Abschnitte unterteilt und ein *Projektstrukturplan* wird erstellt, welcher "das Ergebnis einer Gliederung des Projekts in plan- und kontrollierbare Elemente"[^5] ist.[^6] Oft wird auch mit einem *Lasten-* und *Pflichtheft* gearbeitet.[^7]
 
-Natürlich bergen Projekte unbeachtet ihrer Größe auch immer Risiken. In einem *Risikomanagementplan* werden diese aufgeführt und Lösungen für den Fall des Eintritts ausgearbeitet. Die Planung eines Projektes hört jedoch nach Abschluss dieser zweiten Phase nicht auf. Die beteiligten Teams müssen ständig im Austausch miteinander stehen und sich an eventuelle Veränderungen anpassen.
+Natürlich bergen Projekte unbeachtet ihrer Größe auch immer Risiken. In einem *Risikomanagementplan* werden diese aufgeführt und Lösungen für den Fall des Eintritts ausgearbeitet. Die Planung eines Projektes hört jedoch nach Abschluss dieser zweiten Phase nicht auf. Die beteiligten Teams müssen ständig im Austausch miteinander stehen und sich an eventuelle Veränderungen anpassen.[^4]
 
+## 3. Projektdurchführung
 
+Sind alle Aufgaben verteilt und man ist mit dem grundlegenden Planungsprozess fertig, so beginnt die Durchführung des *Projekts*. Der Projektleiter ist verantwortlich dafür, "das Team durch die einzelnen Meilensteine zu führen".[^3] 
 
-
-
-
-
-
-
+In regelmäßigen *Projekttreffen* des Projektteams werden Informationen über den Status des Projektes ausgetauscht und gegebenenfalls Teile der Planung angepasst. *Statusberichte* oder auch die *Kosten-Trend-Analyse* geben einen Überblick über die aktuelle Sachlage.[^8] Es zeigt sich auch, ob Risiken aus der zweiten Phase eintreten.
+Zusätzlich gewinnt das *Controlling* an Wichtigekit, da hierdurch früh unerwünschte Entwicklungen erkannt werden können.
 
 
-Omd [Dunnerwedder](https://www.google.de) badscherdnass a weng weng? 
+
+
+
+
+
 
 
 # Aspekt 1
@@ -68,30 +72,15 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -111,3 +100,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^4]: Eigene Erfahrung aus Ausbildungsphase bei Finance-Abteilung der Siemens Energy AG in Stuttgart (Faser-Industrie)
 [^5]: [Wikipedia: Projektstrukturplan](https://de.wikipedia.org/wiki/Projektstrukturplan)
 [^6]: [business-wissen.de: Phasen des Projektmanagements im Überblick](https://www.business-wissen.de/hb/phasen-des-projektmanagements-im-ueberblick/)
+[^7]: [SoftSelect: Erläuterung: Lastenheft vs. Pflichtenheft](http://www.softselect.de/wissenspool/erlaeuterung_lastenheft_vs_pflichtenheft#:~:text=Das%20Lastenheft%20beschreibt%20die%20gesamte,Lastenheft%20gew%C3%BCnschten%20Funktionen%20umgesetzt%20werden.)
+[^8]: [Julius-Maximilians-Universität Würzburg: Projektdurchführung](https://www.uni-wuerzburg.de/verwaltung/qualitaetsmanagement/projektmanagement/projektdurchfuehrung/)
