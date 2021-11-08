@@ -1,5 +1,5 @@
 ---
-title: Failure_Mode_and_Effects_Analysis.md 
+title: Failure_Mode_and_Effects_Analysis
 tags: klassisch
 author: Creed229
 anrechnung: k 
