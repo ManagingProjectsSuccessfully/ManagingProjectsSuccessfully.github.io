@@ -2,7 +2,7 @@
 title: Jira_PM_Tool
 tags: agil klassisch
 author: MKFAUGithub
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Jira_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
