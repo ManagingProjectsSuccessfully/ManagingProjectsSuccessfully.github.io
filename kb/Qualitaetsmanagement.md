@@ -7,19 +7,24 @@ anrechnung: k
 
 # Qualitaetsmanagement
 Das Qualitatesmanagement ist in erster Linie ein Vorgang, dessen Fokus auf der Verbesserung der Qualität von beispielsweise Prozessen oder Produkten liegt. Die Qualität selbst kann dabei vor allem anhand des Grades der Erfüllung der Kundenerwartungen festgestellt werden[^1].
+
 ## Definitionen Qualitatesmanagement
 Genauer gesagt versteht man unter Qualitatesmanagement – "entsprechend der Definition nach [DIN EN ISO 9000:2005](https://de.wikipedia.org/wiki/Genormte_Qualit%C3%A4tssicherung#Definition_nach_DIN_EN_ISO_9000) – aufeinander abgestimmte 
 Tätigkeiten zum Leiten und Lenken einer Organisation, die darauf 
 abzielen, die Qualität der produzierten Produkte oder der angebotenen Dienstleistung zu verbessern"[^2]. Im Projekt wird hiebei vor allem auf die Sicherung der Qualitaet waehrend des gesamten Zeitraums geachtet[^3].
+
 ## Bestandteile des Qualitatsmanagements
 * genaue Planung und Ausarbeitung der Arbeitsschritte
 * überprüfen, ob Qualitaetsansprueche eingehalten werden (Qualitaets-Controlling)
 * Abweichungen erkennen und Gegenmaßnahmen einleiten[^3]
 * Dokumentation des Qualitaetsmanagements
 * Austausch mit Kunden und Mitarbeitern[^4]
+
 ## Ziele des Qualitaetsmanagements
 * kontinuierliche Verbesserung der Prozesse im Projekt mithilfe des [PDCA-Prozesses](https://de.wikipedia.org/wiki/Demingkreis)
+![PDCA-Prozess](Qualitaetsmanagement/PDCA Cycle Grpahic.png)
 * Verbesserung der Kundenbeziehungen durch Qualitaetssicherheit und Zuverlaessigkeit[^4]
+
 ## Nachteile des Qualitaetsmanagements
 Trotz seiner vielen Vorteile bringt das Qualitaetsmanagement auch einiges an Belastungen mit sich. Dieser aeussert sich vor allem durch die verursachten Kosten, bei denen zwischen Kosten durch die Nicht-Erfuellung der Qualitaetsansprueche und Kosten für die Sicherstellung der Qualitate unterschieden werden kann. Zudem spielt hier auch der zeitliche Aufwand eine wichtige Rolle[^2].
 
