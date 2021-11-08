@@ -53,7 +53,7 @@ Zunächst ist die Aussagekraft der Risikomatrix sehr schwach, da sie nur eine ze
 
 # Quellen
 [^1]: https://t2informatik.de/wissen-kompakt/risikomatrix/ Aufgerufen 04.11.2021 12:00 Uhr
-[^2]: Norm DIN ISO/TR 14121-2:2013-02 Sicherheit von Maschinen - Risikobeurteilung – Teil 2: Praktischer Leitfaden und Verfahrensbeispiele. (ISO/TR 14121-2:2012)
+[^2]: Norm Sicherheit von Maschinen - Risikobeurteilung – Teil 2: Praktischer Leitfaden und Verfahrensbeispiele.
 [^3]: Werner Gleißner: Grundlagen des Risikomanagements im Unternehmen. 2. Auflage. Vahlen Verlag, München 2011, S. 145.
 [^4]: Bruno Brühwiler/Frank Romeike: Praxisleitfaden Risikomanagement. Erich Schmidt Verlag, Berlin 2010, ISBN 978-3-503-12476-3, S. 157.
 [^5]: https://www.projektmagazin.de/glossarterm/risikomatrix Aufgerufen 03.11.2021 13:30 Uhr 
