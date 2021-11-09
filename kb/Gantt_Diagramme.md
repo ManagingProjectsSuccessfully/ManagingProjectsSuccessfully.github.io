@@ -38,10 +38,9 @@ Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtig
 |3. Kartons auspacken| 22.11.2021| 4|
 | 4. Montagefirma baut neue Möbel auf  | 23.11.2021  | 3 |
 
-
- <br>
- <br>
- 
+<br>
+<br>
+ Daraus resultierendes Gantt-Diagramm <br>
  
 ![Beispielabbildung](Gantt_Diagramme/Gantt-Umzug.jpg)
 
