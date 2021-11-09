@@ -15,7 +15,7 @@ Wichtige Inhalte in der Verwaltung von Anforderungen sind das [Risikomanagement]
 
 Da das AM eine Abfolge immer wiederkehrender Prozesse über das gesamte Projekt hinweh ist und die Einhaltung fortlaufend kontrolliert werden muss, gibt es einen verantwotlichen Manager der dies überwacht. In Englisch wird dieser auch Requirments Engineer genannt.[^1]
 
-[Cartoon AM](Anforderungsmanagement/AM Cartoon.png) 
+![Cartoon AM](https://github.com/Karina255/ManagingProjectsSuccessfully.github.io/blob/main/kb/Anforderungsmanagement/AM%20Cartoon.png) 
 
 Karikatur zur Wichtigkeit von Anforderungsmanagement [^3]
 
@@ -105,7 +105,7 @@ So kann man eine Tabelle erstellen:
 
 [^2]: [Anforderungsmanagement](https://de.wikipedia.org/wiki/Anforderungsmanagement)
 
-[^3]: [Anforderungsmanagement als Brückenbauer zwischen Geisteswissenschaft und IT] (https://handschriftenportal.de/anforderungsmanagement/)
+[^3]: [Anforderungsmanagement als Brückenbauer zwischen Geisteswissenschaft und IT](https://handschriftenportal.de/anforderungsmanagement/)
 
 [^4]: [Anforderungsmanagement-Tool oder Requirementsengineering-Tool im Projekt?](https://pm-tools.info/faq/anforderungsmanagement-tool-und-requirementsengineering-tool-im-projekt/#:~:text=6%20Beispiele%20f%C3%BCr%20Anforderungsmanagement-Tools%201%20Accompa%20Eine%20einfach,und%20SharePoint%20zumindest%20die%20Kollaboration%20erm%C3%B6glichen.%20%28z.B.%20)
 
