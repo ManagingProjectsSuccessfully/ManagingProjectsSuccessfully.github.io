@@ -8,7 +8,6 @@ anrechnung: k
 Das Pareto Prinzip hat ein großes Ziel: Man möchte mit einem minimalen Aufwand ein halbwegs vollständiges Ergebnis erzielen. 
 
 
-
 # Bedeutung des Pareto-Prinzips:
 
 Das Pareto-Prinzip wird gerne auch als "80/20-Prinzip" bezeichnet. Bei den zwei gegebenen Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand sowie das letzliche Endergebnis darstellen sollen. Mit einem Aufwand von etwa 20 Prozent kann demnach ein Endergebnis erzielt werden, das zu 80 % vollständig ist.[^1]
@@ -21,7 +20,7 @@ Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereit
 Die Einkommensschere ist schon seit Jahrhunderten von großer Bedeutung - insbesondere in der Politik. Es wird häufig betont, dass die Armen immer ärmer und die Reichen immer reicher werden. Die Diskrepanz zwischen Arm und Reich scheint immer größer zu werden und durch die Coronavirus-Krise hat sich die Gesamtsituation noch weiter zugespitzt.[^3]
 
 Vilfredo Pareto war ein italienischer Ökonom und hat bereits im 19. Jahrhundert die Unterschiede im Vermögen der Population analysiert.
-Das Ergebnis seiner Analyse war das 80% des Gesamtvermögens im Besitz von nur 20% der Bevölkerung sei.
+Das Ergebnis seiner Analyse war, dass 80% des Gesamtvermögens im Besitz von nur 20% der Bevölkerung sei.
 Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilung des Vermögens zutrifft. In vielen Situation ist seine 80/20-Regel genauso passend.[^4]
 
 
