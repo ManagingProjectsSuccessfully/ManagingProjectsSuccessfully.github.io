@@ -24,7 +24,7 @@ Entwicklungsprojekte haben das Ziel einen Erkenntnisgewinn oder die Erstellung e
 ## Herausforderungen 
 Entwicklungsprojekte arbeiten häufig unterhalb ihres möglichen Effizienzniveaus, dies liegt daran, dass durch wechselnde Kundenanforderungen und unzureichende Produktspezifikationen der Grad an Komplexität immer höher wird. Die Projektleiter müssen sich eine ganzheitliche Perspektive verschaffen, was durch eine Zerstückelung des Projekts schwierig ist. 
 
-### Kernporbleme [^5]
+### Kernprobleme [^5]
 Die Probleme von Entwicklungsprojekten, welche die Produktivität von Entwicklungsprojekten beeinträchtigen, können in fünf Gruppen aufgeteilt werden.
 1.	Planung: Durch Informationsdefizite, also unzureichende Informationen zu den Anforderungen an das Projekt, fehlen den Entwicklern der Projekte oftmals genaue Informationen, um das Projekt gut planen zu können. 
 2.	Kommunikation: Entwicklungsprojekte haben viele Schnittstellen und Akteure, was die vollständige Informationsweitergabe zwischen den einzelnen Stellen erschwert. Durch viele Zwischenstellen gehen Informationen oftmals verloren. 
