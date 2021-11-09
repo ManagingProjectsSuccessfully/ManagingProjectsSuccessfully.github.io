@@ -2,15 +2,23 @@
 title: Meilensteintrendanalyse
 tags: agil klassisch
 author: CatPec
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Meilensteintrendanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Meilensteintrendanalyse ist ein Verfahren des Projektcontrollings, dass überwiegend im klassischen Projektmanagement Anwendung findet.Sie dient zur Prognose und Steuerung von Terminen innerhalb kleinerer und mittelgroßer Projekte[^1.] Dabei werden einzelne Projektabschnitte vorab zeitlich kalkuliert und als Meilensteine festen Terminen zugeteilt, an denen der Teil des Projektes, definiert als ein Meilenstein, abgeschlossen werden sein soll. Die Meilensteintrendanalyse stellt also eine Visualisierung von Terminänderungen im Projekt dar. Dadurch lassen sich sogenannte Trends ablesen und Schwächen und Risiken im Projekt frühzeitig erkennen. Zudem schafft die Meilensteintrendanalyse Transparenz gegenüber den Stakeholdern [^2]. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Anwendung der Meilensteintrnendanalyse
+
+Bei der Meilensteintrendanalyse sollten drei wesetliche Fragen immer im Blick gehalten werden:
+
+* Wie liegt man im Zeitplan?
+* Wird das Projekt rechtzeitig fertig?
+* Können die einzelnen Termine eingehalten werden?[^3]
+* eine 
+* Punkteliste
+  - mit unterpunkt
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -97,8 +105,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^1]: [Projekte-leicht-gemacht.de] (https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/die-meilensteintrendanalyse-einfach-erklaert/)
+[^2]: [link-Springer] (https://link.springer.com/chapter/10.1007/978-3-662-52974-4_8)
+[^3]: [Exceltricks.blog] (https://exceltricks.blog/mit-dieser-excel-vorlage-koennen-sie-eine-meilensteintrendanalyse-fuer-ihre-projekte-durchfuehren/)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
