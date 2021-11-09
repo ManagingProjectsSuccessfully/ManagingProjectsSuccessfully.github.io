@@ -1,19 +1,21 @@
 ---
 title: Anforderungsmanagement
-tags: agil klassisch
+tags: klassisch allgemein
 author: Karina255
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Anforderungsmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Definition und Ziel
+Das Anforderungsmanagement (AM) oder in Englisch auch requirements engineering/requirements management genannt, gilt als Kernbestandteil des Projektmanagements. 
+Das Ziel ist es die Anforderungen des Kunden und der weiteren externen als auch internen Stakeholder an das anzufertigenden Produkt umgesetzt werden.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Daher umfasst das AM alle Maßnahmen, welche auf die Definition, Steuerung, Verwaltung und Kontrolle von Anforderungen bezogen sind.[^2]
+Die Anforderungsdefinition besteht beispielweise aus Analyse, Dokumentation und Validierung der Anforderungen.
+Wichtige Inhalte in der Verwaltung von Anforderungen sind das [Risikomanagement] (Risikomanagement.md), [Änderungsmanagement] (Change_Management.md) und auch das Umsetzungsmanagement.[^1] [^2]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Da das AM eine Abfolge immer wiederkehrender Prozesse über das gesamte Projekt hinweh ist und die Einhaltung fortlaufend kontrolliert werden muss, gibt es einen verantwotlichen Manager der dies überwacht. In Englisch wird dieser auch Requirments Engineer genannt.[^1]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+#
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -93,12 +95,14 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: [Was ist Anforderungsmanagement?](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-anforderungsmanagement/)
+
+[^2]:[Anforderungsmanagement] (https://de.wikipedia.org/wiki/Anforderungsmanagement)
+
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
