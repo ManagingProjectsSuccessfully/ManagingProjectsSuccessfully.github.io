@@ -33,7 +33,7 @@ Die gewonnen Erkenntnisse können beispielsweise Fragen wie die Folgenden beantw
 Dadurch wird es möglich, eine eher planerische Perspektive einzunehmen, aus der wir die nächsten Schritte ableiten und eventuell erforderliche Prozessanpassungen erkennen können.
 
 Die Überprüfung darf jedoch nicht zu oft stattfinden, da so die Gefahr besteht, die eigentliche Projektarbeit zu behindern. Sie muss stets effizient bleiben. 
-Die Inspektionen müssen in einer Weise stattfinden, dass auch sie einen Mehrwert für die Projektarbeit darstellen.
+Die Inspektionen müssen in einer Weise stattfinden, dass auch sie einen Mehrwert für die Projektarbeit darstellen.[^1]
 
 
 
@@ -46,5 +46,5 @@ Die Inspektionen müssen in einer Weise stattfinden, dass auch sie einen Mehrwer
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: https://www.der-scrum-master.com/der-scrum-leitfaden/transparenz-der-artefakte#scrum-theorie-anpassung-adaption 
 [^2]: 
