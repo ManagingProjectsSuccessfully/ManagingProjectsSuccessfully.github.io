@@ -35,9 +35,10 @@ Die Probleme von Entwicklungsprojekten, welche die Produktivität von Entwicklun
 ### Lösungsansätze [^5]
 Lösungsansätze, um die Kernprobleme von Entwicklungsprojekten zu bewältigen, sind mit einer Kombination aus klassischen und agilen Projektmanagement gegeben. Hierdurch wird durch die Gestaltung der Schnittstellen eine Visualisierung des Gesamtprozesses versucht. 
 Dies beginnt in der Planungsphase des Projekts, da hier das größte Optimierungspotenzial besteht. Eine Visualisierung wird mit dem Lean Management herbeigeführt, was zu Transparenzerhöhung führt. 
-Weitere Methoden zur Lösung der Kernprobleme sind beispielsweise Scrum sowie virtuelle Planungsmethoden, wie 3D-5D, aus dem Bereich des agiles Projektmanagements.  
+Weitere Methoden zur Lösung der Kernprobleme sind beispielsweise Scrum sowie virtuelle Planungsmethoden, wie 3D-5D, aus dem Bereich des agiles Projektmanagements. 
+
 # Entwicklungsprojekte, die zu sozialem Fortschritt in Entwicklungsländern führen sollen
-Bei der Hilfe von Entwicklungsländern geht es um finanzielle und personelle Hilfe für einen Aufschwung des Landes. Projektträger bei Entwicklungsprojekten sind die Entwicklungsländer, welche von einer Organisation des Helfenden Landes geführt werden. Arme Bevölkerungsgruppen werden mit Geldern oder Produkten unterstützt, welche die Arbeit, meist auf dem Feld, für die Arbeiter erleichtern soll. Zudem setzen sich Organisatoren von Entwicklungsprojekten stark für eine bessere Bezahlung der Arbeiter vor Ort ein.
+Bei der Hilfe von Entwicklungsländern geht es um finanzielle und personelle Hilfe für einen Aufschwung des Landes. Projektträger bei Entwicklungsprojekten sind die Entwicklungsländer, welche von einer Organisation des helfenden Landes geführt werden. Arme Bevölkerungsgruppen werden mit Geldern oder Produkten unterstützt, welche die Arbeit, meist auf dem Feld, für die Arbeiter erleichtern soll. Zudem setzen sich Organisatoren von Entwicklungsprojekten stark für eine bessere Bezahlung der Arbeiter vor Ort ein.
 
 ## Koordination
 Die Organisatoren gehen in Verschiedenen Schritten vor, um ein gutes Projektmanagement zu gewährleisten. Zu den Schritten zählen die Problemanalyse, die Beteiligungsanalyse, die Definition von hierarchisch geordneten Projektzielen und die Festlegung von Aktivitäten und Indikatoren zur Messung und Evaluation des gesamten Projektes bzw. des Projektziels.
