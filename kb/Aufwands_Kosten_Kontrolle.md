@@ -28,7 +28,7 @@ Auf dem unterhalb dieses Textes sehen Sie das Diagramm einer Earned Value Analys
 Die Earned Value Analysis oder auch Ertragswertanalyse bezieht die Kosten und Leistungen eines Projekts aufeinander und erlaubt so eine präziese Kostenkontrolle.
 Zum Stichtag werden sowohl die Kosten als auch die Leistungen mit den Planwerten verglichen.
 
-![image](https://user-images.githubusercontent.com/92396490/140614206-253046fc-27f4-4055-827b-78d6c1817b08.png)
+![image](https://user-images.githubusercontent.com/92396490/140614206-253046fc-27f4-4055-827b-78d6c1817b08.png) 
 
 
 Die folgenden Basiskennzahlen benötigt man, um die Projektkosten zu kontrollieren:
