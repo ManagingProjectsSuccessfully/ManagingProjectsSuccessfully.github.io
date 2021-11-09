@@ -42,7 +42,7 @@ Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtig
  <br>
  <br>
  
- daraus resultierendes Gantt-Diagramm  ![Beispielabbildung] (Gantt_Diagramme/Gantt-Umzug.jpg)<br>
+ daraus resultierendes Gantt-Diagramm <br> ![Beispielabbildung] (Gantt_Diagramme/Gantt-Umzug.jpg)<br>
 _Erstellt durch den Autor mittels Microsoft PowerBI_
 
 # 2.  Vor- / Nachteile des Gantt-Diagramms
