@@ -5,28 +5,44 @@ author: noahbrunnhuber
 anrechnung: k
 ---
 
-# Qualitaetsmanagement
-Das Qualitatesmanagement ist in erster Linie ein Vorgang, dessen Fokus auf der Verbesserung der Qualität von beispielsweise Prozessen oder Produkten liegt. Die Qualität selbst kann dabei vor allem anhand des Grades der Erfüllung der Kundenerwartungen festgestellt werden[^1].
+# Qualitätsmanagement
+Das Qualitätsmanagement ist in erster Linie ein Vorgang, dessen Fokus auf der Verbesserung der Qualität von beispielsweise Prozessen oder Produkten liegt. Die Qualität selbst kann dabei vor allem anhand des Grades der Erfüllung der Kundenerwartungen festgestellt werden[^1].
 
 ## Definitionen Qualitatesmanagement
-Genauer gesagt versteht man unter Qualitatesmanagement – "entsprechend der Definition nach [DIN EN ISO 9000:2005](https://de.wikipedia.org/wiki/Genormte_Qualit%C3%A4tssicherung#Definition_nach_DIN_EN_ISO_9000) – aufeinander abgestimmte 
+### DIN EN ISO 9000:2005
+Genauer gesagt versteht man unter Qualitätsmanagement – "entsprechend der Definition nach [DIN EN ISO 9000:2005](https://de.wikipedia.org/wiki/Genormte_Qualit%C3%A4tssicherung#Definition_nach_DIN_EN_ISO_9000) – aufeinander abgestimmte 
 Tätigkeiten zum Leiten und Lenken einer Organisation, die darauf 
-abzielen, die Qualität der produzierten Produkte oder der angebotenen Dienstleistung zu verbessern"[^2]. Im Projekt wird hiebei vor allem auf die Sicherung der Qualitaet waehrend des gesamten Zeitraums geachtet[^3].
+abzielen, die Qualität der produzierten Produkte oder der angebotenen Dienstleistung zu verbessern"[^2]. Im Projekt wird hiebei vor allem auf die Sicherung der Qualität während des gesamten Zeitraums geachtet[^3].
+### PMBOK
+Das Qualitätsmanagement ist außerdem eine wichtige Wissenssparte des [PMBOK](PMBOK_Guide.md) (Project Management Body of Knowledge). Hier wird es in drei Elemente aufgeteilt: Plan Quality Management, Manage Quality und Control Quality.[^5]
 
-## Bestandteile des Qualitatsmanagements
-* genaue Planung und Ausarbeitung der Arbeitsschritte
-* überprüfen, ob Qualitaetsansprueche eingehalten werden (Qualitaets-Controlling)
-* Abweichungen erkennen und Gegenmaßnahmen einleiten[^3]
-* Dokumentation des Qualitaetsmanagements
-* Austausch mit Kunden und Mitarbeitern[^4]
-
-## Ziele des Qualitaetsmanagements
-* kontinuierliche Verbesserung der Prozesse im Projekt mithilfe des [PDCA-Prozesses](https://de.wikipedia.org/wiki/Demingkreis)
+## Ziele des Qualitätsmanagements
+* Verbesserung der Kundenbeziehungen durch Qualitätssicherheit und Zuverlässigkeit
+* kontinuierliche Verbesserung der Prozesse im Projekt mithilfe des [PDCA-Prozesses](https://de.wikipedia.org/wiki/Demingkreis)[^4]
 ![PDCA-Prozess](Qualitaetsmanagement/pdca-new.png)
-* Verbesserung der Kundenbeziehungen durch Qualitaetssicherheit und Zuverlaessigkeit[^4]
 
-## Nachteile des Qualitaetsmanagements
-Trotz seiner vielen Vorteile bringt das Qualitaetsmanagement auch einiges an Belastungen mit sich. Dieser aeussert sich vor allem durch die verursachten Kosten, bei denen zwischen Kosten durch die Nicht-Erfuellung der Qualitaetsansprueche und Kosten für die Sicherstellung der Qualitate unterschieden werden kann. Zudem spielt hier auch der zeitliche Aufwand eine wichtige Rolle[^2].
+## Ablauf des Qualitätsmanagements
+### grobe Bestandteile
+* genaue Planung und Ausarbeitung der Arbeitsschritte
+* überprüfen, ob Qualitätsansprueche eingehalten werden (Qualitäts-Controlling)
+* Abweichungen erkennen und Gegenmaßnahmen einleiten[^3]
+* Dokumentation des Qualitätsmanagements
+* Austausch mit Kunden und Mitarbeitern[^4]
+### Die vier Phasen des klassichen Qualitätsmanagements
+* Phase 1: Qualitätsplanung
+  - In dieser Phase wird die vorliegende Situation zunächst analysiert, erste Abläufe werden erstellt und Qualitätsziele festgelegt. Dies geschieht unter Berücksichtigung der vorliegenden Ressourcen und der für das Projekt notwendigen Prozesse.
+* Phase 2: Qualitätslenkung
+  - Die vorher bestimmten Maßnahmen werden nun umgesetzt und überwacht. Bei Abweichungen werden Regulierungen vorgenommen.
+* Phase 3: [Qualitätssicherung](Qualitätssicherung.md) / Qualitätskontrolle
+  - Die Ergebnisse werden ausgewertet und schriftlich dokumentiert. Dieser Vorgang dient der Kontrolle der anfangs festgelegten Ziele und der Aufdeckung von Fehlern.
+* Phase 4: Qualitätsgewinn
+  - In der letzten Phase werden die gewonnenen Erkenntnisse genutzt um gegen Abweichungen vorzugehen und Prozesse zu verbessern. Dafür ist eine Kommunikation der Ergebnisse erforderlich[^6][^7]
+
+## Qualitätsmanagementmodelle
+### Bsp: Total Quality Management, Six Sigma, PDCA, EFQM https://www.business-wissen.de/hb/modelle-und-werkzeuge-im-qualitaetsmanagement/
+
+## Nachteile des Qualitätsmanagements
+Trotz seiner vielen Vorteile bringt das Qualitätsmanagement auch Belastungen mit sich. Diese sind vor allem die verursachten Kosten, bei denen zwischen Kosten durch die Nicht-Erfüllung der Qualitätsansprueche und Kosten für die Sicherstellung der Qualität unterschieden werden kann. Zudem spielt hier auch der zeitliche Aufwand eine wichtige Rolle[^2].
 
 
 
@@ -142,4 +158,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [Qualitätsmanagement in Projekten](https://www.hsbund.de/SharedDocs/Downloads/0_Abschlussarbeiten/FB_FIN/2011/01_11_Baetz.pdf?__blob=publicationFile)
 [^3]: [Was bedeutet Qualitätsmanagement für das Projektmanagement?](http://blog.bepartner.de/qualitaetsmanagement/#:~:text=Was%20bedeutet%20Qualit%C3%A4tsmanagement%20f%C3%BCr%20das%20Projektmanagement%3F%201%20Qualit%C3%A4tsmanagement,Qualit%C3%A4ts-Prinzipien%20f%C3%BCr%20erfolgreiche%20Projekte.%20...%20Weitere%20Artikel...%20)
 [^4]: [Qualitätsmanagement als Berufsfeld: Definition, Aufgaben und ISO 9000](https://ifm-business.de/aktuelles/business-news/qualitaetsmanagement-als-berufsfeld-definition-aufgaben-und-aussichten.html)
+[^5]: [Project Quality Management According to the PMBOK](https://www.projectengineer.net/project-quality-management-according-to-the-pmbok/)
+[^6]: [Die 4 Phasen des klassischen Qualitätsmanagements](https://www.weiterbildung-im-fernstudium.de/qualitaetsmanagement/die-4-phasen-des-klassischen-qualitaetsmanagements-260#:~:text=Die%204%20Phasen%20des%20klassischen%20Qualit%C3%A4tsmanagements%201%20Qualit%C3%A4tsplanung.,Verbesserung%20von%20Strukturen%20und%20Prozessen%20genutzt%20und%20eingesetzt.)
+[^7]: [Die 5 Phasen des klassischen Qualitätsmanagements](https://www.brewes.de/magazin/die-5-phasen-des-qualitatsmanagements)
+
 
