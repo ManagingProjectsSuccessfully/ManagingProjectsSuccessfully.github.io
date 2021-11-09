@@ -47,8 +47,6 @@ Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus 
 
 ![image](https://user-images.githubusercontent.com/92788192/140933964-7f8ca063-4692-41e5-8eb4-6f0e326acf9d.png) [^6]
 
-https://github.com/katjasc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Entwicklungsprojekte/Download.jpeg 
-
 
 
 # Siehe auch
