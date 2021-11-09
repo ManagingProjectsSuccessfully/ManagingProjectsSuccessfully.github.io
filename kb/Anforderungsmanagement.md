@@ -6,11 +6,13 @@ anrechnung: k
 ---
 
 # Definition und Ziel
-Das Anforderungsmanagement (AM) oder im Englischen requirements engineering/requirements management genannt, gilt vor allem im klassischen Projektmanagement als Kernbestandteil und ist daher auch im [Wasserfall-Modell](Wasserfall_Modell.md) verankert.
-Das Ziel ist es die Anforderungen des Kunden und der weiteren externen als auch internen Stakeholder an das anzufertigenden Produkt umgesetzt werden.[^1]
+Das Anforderungsmanagement (Abkürzung: AM; im Englischen requirements engineering/requirements management genannt) gilt vor allem im klassischen Projektmanagement als wichtiger Kernbestandteil in Projekten und ist daher auch im [Wasserfall-Modell](Wasserfall_Modell.md) verankert.
+
+Das Ziel des AM ist es, dass sowohl die [funktionalen](Funktionale_Anforderungen.md) als auch die [nicht funktionalen](Nicht_Funktionale_Anforderungen.md) Anforderungen des Kunden und der weiteren externen als auch internen Stakeholder an das anzufertigenden Produkt umgesetzt werden.[^1] 
+
 Die Wichtigkeit des AM soll durch folgende Karikatur veranschaulicht werden:
 
-![Cartoon AM](https://github.com/Karina255/ManagingProjectsSuccessfully.github.io/blob/main/kb/Anforderungsmanagement/AM%20Cartoon.png) 
+![Cartoon AM](Anforderungsmanagement/AM%20Cartoon.png) 
 
 *Karikatur zur Wichtigkeit von Anforderungsmanagement* [^2]
 
@@ -67,7 +69,7 @@ Nachfolgen werden beispielhalft sowohl Tools als auch Software gelistet, welche 
 4. [Jira](https://www.atlassian.com/de/software/jira) in Kombination mit [Confluence](https://www.atlassian.com/de/software/confluence)
 5. [ReqSuite](https://www.osseno.com/en/requirements-management-tool/?r=rmt&dpm=39467)
 
-# Anforderungsmangement im agilen Projektmanagement
+# Anforderungsmanagement im agilen Projektmanagement
 Viele Unternehmen aber auch Projektteams gehen davon aus, dass das AM in agilen Projekten nicht mehr benötigt wird da sich die Anforderungen und der Umfang des Produkts im Verlauf des Projekts anpassen.[^1]
 
 Dies ist jedoch ein Irrtum. Viele der anfallenden Aufgaben des AM werden vom [Product Owner](Product_Owner.md) übernommen. Dieser übernimmt die Überwachung und Steuerung des Projektablaufs und daher auch die der Anforderungen. Sollte er diese Aufgaben aufgrund des Umfangs nicht alleine bewältigen können, können weitere Mitarbeiter benannt werden, welche neue Anforderungen aufnehmen, dokumentieren oder auch anpassen.[^1]
@@ -75,6 +77,11 @@ Dies ist jedoch ein Irrtum. Viele der anfallenden Aufgaben des AM werden vom [Pr
 Das AM ist in agilen Projekten weniger umfangreich, jedoch nicht weniger wichtig als in klassisch gemanagten Projekten.[^1]
 
 # Siehe auch
+
+[Funktionale Anforderungen](Funktionale_Anforderungen.md)
+
+[Nicht Funktionale Anforderungen](Nicht_Funktionale_Anforderungen.md)
+
 [Risikomanagement](Risikomanagement.md)
 
 [Change Management](Change_Management.md)
