@@ -102,3 +102,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
+
+
+#Digitale Kommunikation Definiton ?
+Digitale Kommunikation bezeichnet im Grunde Kommunikation, die mithilfe digitaler Medien stattfindet. Schicken Sie also eine Email an jemand anderes oder teilen Sie einen Artikel auf Ihrer Website, ist das Digitale Kommunikation[^1].
+
+
+
+
+
+[^1]:https://kmu-digitalisierung.agency/digitale-loesungen/digitale-kommunikation/
