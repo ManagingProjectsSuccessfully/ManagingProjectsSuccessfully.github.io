@@ -8,7 +8,7 @@ anrechnung: k
 # Qualitätsmanagement
 Das Qualitätsmanagement ist in erster Linie ein Vorgang, dessen Fokus auf der Verbesserung der Qualität von beispielsweise Prozessen oder Produkten liegt. Die Qualität selbst kann dabei vor allem anhand des Grades der Erfüllung der Kundenerwartungen festgestellt werden[^1].
 
-## Definitionen Qualitatesmanagement
+## Definitionen Qualitätsmanagement
 ### DIN EN ISO 9000:2005
 Genauer gesagt versteht man unter Qualitätsmanagement – "entsprechend der Definition nach [DIN EN ISO 9000:2005](https://de.wikipedia.org/wiki/Genormte_Qualit%C3%A4tssicherung#Definition_nach_DIN_EN_ISO_9000) – aufeinander abgestimmte 
 Tätigkeiten zum Leiten und Lenken einer Organisation, die darauf 
