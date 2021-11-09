@@ -22,10 +22,17 @@ Da das AM eine Abfolge immer wiederkehrender Prozesse über das gesamte Projekt 
 
 # Tools und Software
 
-Zur Dokumentation, Definition aber auch der Kontrolle der Anforderungen gibt es unterschiedliche Tools und Software, die dabei unterstützen können.
+Zur Dokumentation, Definition aber auch der Kontrolle der Anforderungen gibt es eine Vielzahl an Tools und Software, die dabei unterstützen können.
 
-## Aufgaben
-Die wichtigsten Aufgaben dieser werden im Folgenden erläutert.
+## Unterschiede
+Die benötigten Tools oder Software sind je nach Projektmethodik und den Zielen unterschiedlich. Ebenso wie die Tools unterscheidet sich auch das Vorgehen bei Steuerung, Verwaltung oder auch Definition der Anforderungen.[^5]
+
+Für eine sehr einfache Anforderungsplanung kann man eine Excel-Vorlage oder auch ein Word-Dokument verwenden, welche nur die elementarsten Anforderungen beinhalten. In diesen Fällen ist man bei der Aktualisierung und Dokumnetation stark auf eine einzelne Person angewiesen, da eine kollaboratives Arbeiten hier schwierig ist. Daher kostet es enormen Zeitaufwand um alle Teammitglieder auf dem aktuellen Stand zu halten. Daher sind diese Tools eher für kleinere, überschaubare Projekte geeignet.[^5]
+
+In komplexen Anforderungsmanagement-Planungen kommen oft ganze Softwaresysteme als Tool zum Einstaz, da hier eine Vielzahl an Funktionen benötigt wird. Dabei werden Funktionen wie das Herstellen von Beziehungen zwischen den Anforderungen, das Veranschaulichen der Auswirkungen von Änderungen oder auch das Verwalten von Genehmigungen.[^5]
+
+## Funktionen
+Die wichtigsten Funktionen, welche durch Tools oder auch Software, in komplexen AM-Planungen und Projekten abgedeckt werden sollen, werden im Folgenden erläutert.
 
 1. Verlinkung: 
 
@@ -51,45 +58,16 @@ Die wichtigsten Aufgaben dieser werden im Folgenden erläutert.
 
     Durch einen Workflow mit Freigabe von Anforderungen kann die Klarheit aller Parteien gewährleistet werden.[^4]
 
-## Nutzen
-
 ## Beispiele
+Nachfolgen werden beispielhalft sowohl Tools als auch Software gelistet, welche häufig im AM zum Einsatz kommen und Spitzenreiter in ihrem Gebiet sind.
 
-# Aspekt 1
+1. [Jama Software](https://www.jamasoftware.com/?_gl=1%2A1i3edoq%2A_ga%2AMTQzMjQ2MDU4Ni4xNjM2NDYwOTg4%2A_ga_JQG3M83PDQ%2AMTYzNjQ2MDk4Ny4xLjEuMTYzNjQ2MTE5Mi4w)
+2. [IBM Engineering Requirements Management DOORS Next](https://www.ibm.com/de-de/products/requirements-management-doors-next)
+3. [Accompa](https://web.accompa.com/)
+4. [Jira](https://www.atlassian.com/de/software/jira) in Kombination mit [Confluence](https://www.atlassian.com/de/software/confluence)
+5. [ReqSuite](https://www.osseno.com/en/requirements-management-tool/?r=rmt&dpm=39467)
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Anforderungsmanagement/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-### Ebene-3-Überschrift
-
-# Aspekt n
+# AM im klasssischen und agilem Kontext
 
 # Siehe auch
 [Risikomanagement](Risikomanagement.md)
@@ -107,6 +85,8 @@ So kann man eine Tabelle erstellen:
 [^3]: [Anforderungsmanagement als Brückenbauer zwischen Geisteswissenschaft und IT](https://handschriftenportal.de/anforderungsmanagement/)
 
 [^4]: [Anforderungsmanagement-Tool oder Requirementsengineering-Tool im Projekt?](https://pm-tools.info/faq/anforderungsmanagement-tool-und-requirementsengineering-tool-im-projekt/#:~:text=6%20Beispiele%20f%C3%BCr%20Anforderungsmanagement-Tools%201%20Accompa%20Eine%20einfach,und%20SharePoint%20zumindest%20die%20Kollaboration%20erm%C3%B6glichen.%20%28z.B.%20)
+
+[^5]: [Die Besten Anforderungsmanagement Tools 2021](https://thedigitalprojectmanager.com/de/anforderungsmanagement-tools/)
 
 
 
