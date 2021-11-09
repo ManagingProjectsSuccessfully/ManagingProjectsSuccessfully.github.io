@@ -5,15 +5,15 @@ author: katjasc
 anrechnung: k
 ---
 
-Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. [^1] Sie sind in zwei Kategorien eingeteilt: Erstens sind es Projekte, die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. Zweitens sind es Projekte, die den sozialen Standard eines Landes anheben sollen.
+Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. [^1] Sie sind in zwei Kategorien eingeteilt: Erstens sind es Projekte, die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. [^2] Zweitens sind es Projekte, die den sozialen Standard eines Landes anheben sollen. [^3]
 
 
 
 # Entwicklungsprojekte, die der Entwicklung von Etwas dienen
 
-Entwicklungsprojekte haben das Ziel einen Erkenntnisgewinn oder die Erstellung eines neuen Projekts durchzuführen. Durch die große Bedeutung von Entwicklungsprojekten, werden diese oft und zahlreich gefördert.
+Entwicklungsprojekte haben das Ziel einen Erkenntnisgewinn oder die Erstellung eines neuen Projekts durchzuführen. Durch die große Bedeutung von Entwicklungsprojekten, werden diese oft und zahlreich gefördert. [^4]
 
-## Beispiele für Entwicklungsprojekte 
+## Beispiele für Entwicklungsprojekte [^2]
 1.	Systementwicklung
 2.	Produktentwicklung
 3.	Hardware- und Softwareentwicklungen
@@ -24,7 +24,7 @@ Entwicklungsprojekte haben das Ziel einen Erkenntnisgewinn oder die Erstellung e
 ## Herausforderungen 
 Entwicklungsprojekte arbeiten häufig unterhalb ihres möglichen Effizienzniveaus, dies liegt daran, dass durch wechselnde Kundenanforderungen und unzureichende Produktspezifikationen der Grad an Komplexität immer höher wird. Die Projektleiter müssen sich eine ganzheitliche Perspektive verschaffen, was durch eine Zerstückelung des Projekts schwierig ist. 
 
-### Kernporbleme 
+### Kernporbleme [^5]
 Die Probleme von Entwicklungsprojekten, welche die Produktivität von Entwicklungsprojekten beeinträchtigen, können in fünf Gruppen aufgeteilt werden.
 1.	Planung: Durch Informationsdefizite, also unzureichende Informationen zu den Anforderungen an das Projekt, fehlen den Entwicklern der Projekte oftmals genaue Informationen, um das Projekt gut planen zu können. 
 2.	Kommunikation: Entwicklungsprojekte haben viele Schnittstellen und Akteure, was die vollständige Informationsweitergabe zwischen den einzelnen Stellen erschwert. Durch viele Zwischenstellen gehen Informationen oftmals verloren. 
@@ -32,7 +32,7 @@ Die Probleme von Entwicklungsprojekten, welche die Produktivität von Entwicklun
 4.	Integration: Der Zielkonflikt zwischen internen Abteilungen und externen Kunden führt zu fehlender Integration in das Gesamtprojekt. 
 5.	Änderungsmanagement: Für interne und externe Mitglieder besteht eine hohe Unvorhersehbarkeit während des Projekts, aufgrund permanent auftretender Veränderungen, welche oftmals im späteren Verlauf des Projekts erst sichtbar werden. 
 
-### Lösungsansätze 
+### Lösungsansätze [^5]
 Lösungsansätze, um die Kernprobleme von Entwicklungsprojekten zu bewältigen, sind mit einer Kombination aus klassischen und agilen Projektmanagement gegeben. Hierdurch wird durch die Gestaltung der Schnittstellen eine Visualisierung des Gesamtprozesses versucht. 
 Dies beginnt in der Planungsphase des Projekts, da hier das größte Optimierungspotenzial besteht. Eine Visualisierung wird mit dem Lean Management herbeigeführt, was zu Transparenzerhöhung führt. 
 Weitere Methoden zur Lösung der Kernprobleme sind beispielsweise Scrum sowie virtuelle Planungsmethoden, wie 3D-5D, aus dem Bereich des agiles Projektmanagements.  
@@ -45,13 +45,8 @@ Die Organisatoren gehen in Verschiedenen Schritten vor, um ein gutes Projektmana
 ## Entwicklungsprojekte in Afrika 
 Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus den Ländern des Nordens, wie England und Deutschland. Große Organisatoren für Entwicklungsprojekte in Afrika sind unter anderem [World Vision](https://www.worldvision.de/) und [Unicef](https://www.unicef.de/helfen/corona-weltweit?sem=1&un_source=google&un_medium=cpc&un_campaign=C_Brand_Unicef_Desktop&un_content=Unicef_mt-e&un_term=unicef&gclid=CjwKCAiA1aiMBhAUEiwACw25MbhGgGKG_KUtzkeEQqGmDa17U2Q0DEuGsrHCYkCLumbkjgsACu_hdhoCHW8QAvD_BwE). Die Organisationen agieren weltweit und versuchen gemeinsam mit Ihren Mitgliedern in verschiedenen Projekten den Hunger und die Armut der ärmeren Bevölkerung in Afrika mit gezielten Projekten entgegenzuwirken.
 
-![image](https://user-images.githubusercontent.com/92788192/140933964-7f8ca063-4692-41e5-8eb4-6f0e326acf9d.png)
+![image](https://user-images.githubusercontent.com/92788192/140933964-7f8ca063-4692-41e5-8eb4-6f0e326acf9d.png) [^6]
 
-
-
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
- 
 
 
 # Siehe auch
@@ -68,7 +63,14 @@ Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote ref
 
 [^1]:	https://www.spektrum.de/lexikon/geographie/entwicklungsprojekt/2079 
 
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^2]:	http://www.wirtschaftslexikon24.com/e/entwicklungsprojekte/entwicklungsprojekte.htm 
+
+[^3]: https://educalingo.com/de/dic-de/entwicklungsprojekt
+
+[^4]: https://www.projektmagazin.de/glossarterm/forschungs-und-entwicklungsprojekt
+
+[^5]: https://www2.iao.fraunhofer.de/images/iao-news/studie_entwicklungsprojekte.pdf
+
+[^6]: https://www.worldvision.de/en/node/5608871
+
 
