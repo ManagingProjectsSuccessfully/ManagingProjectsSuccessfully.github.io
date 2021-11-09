@@ -15,28 +15,44 @@ Wichtige Inhalte in der Verwaltung von Anforderungen sind das [Risikomanagement]
 
 Da das AM eine Abfolge immer wiederkehrender Prozesse über das gesamte Projekt hinweh ist und die Einhaltung fortlaufend kontrolliert werden muss, gibt es einen verantwotlichen Manager der dies überwacht. In Englisch wird dieser auch Requirments Engineer genannt.[^1]
 
-#
+![Cartoon AM](kb/Anforderungsmanagement/AM Cartoon.png) 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Karikatur zur Wichtigkeit von Anforderungsmanagement [^3]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+# Tools und Software
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Zur Dokumentation, Definition aber auch der Kontrolle der Anforderungen gibt es unterschiedliche Tools und Software, die dabei unterstützen können.
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Aufgaben
+Die wichtigsten Aufgaben dieser werden im Folgenden erläutert.
+
+1. Verlinkung: 
+
+    Die Anforderungen selbst sollen als individuelle Elemente betrachtet werden. Jedoch ist eine Verlinkung zwischen Anforderung und Umsetzung, da so Auswirkungen von Änderungen dirket analysiert werden können. Zudem führt Traceability dazu, dass schnell überprüft werden kann, ob das Produkt noch den Anforderungen entspricht.
+
+2. Versionierung:
+
+    Die Versionierung untersützt dabei Änderungen zu dokumentieren. Da sich im Laufe eines Projektes auch Anforderungen ändern, kann man somit einen Überblick behalten und über Rückverfolgbarkeit auch genau sehen welche weiteren Anforderungen betroffen sind.
+
+3. Status
+
+    Wie ein Projekt. das verschiedene Phasen erlebt, ändert sich auch der Status der Anforderungen. Daher sollte ein Anforderungsmanagement Tool auch anzeigen inwieweit eine Anforderung schon ausgearbeitet bzw. implementiert wurde.    
+
+4. Flexible Bearbeitung
+
+    Da oftmal einige Anforderungen im Laufe eines Projekts ihre Gültigkeit verieren oder auch neue mitaufgenommen werden, ist es wichtig diese in den Dokumenten entsprechend markieren und bearbeiten zu können.
+
+5. Kooperation
+
+    Anforderungen werden meist nicht nur von einer einzelnen Person definiert. Daher sind kollaborative Eigenschaften in AM-Tools unabdingbar. Zusammen mit der Versionierung von Änderungen behalten alle den Überblick und können beispielsweise durch Kommentare diese diskutieren und validieren.    
+
+6. Klarheit
+
+    Durch einen Workflow mit Freigabe von Anforderungen kann die Klarheit aller Parteien gewährleistet werden.
+
+## Nutzen
+
+## Beispiele
 
 
 # Aspekt 1
@@ -71,27 +87,14 @@ So kann man eine Tabelle erstellen:
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
 ### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
 # Siehe auch
+[Risikomanagement](Risikomanagement.md)
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Anforderungsmanagement.md)
+[Change Management](Change_Management.md)
 
 # Weiterführende Literatur
 
@@ -100,9 +103,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [Was ist Anforderungsmanagement?](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-anforderungsmanagement/)
 
-[^2]:[Anforderungsmanagement](https://de.wikipedia.org/wiki/Anforderungsmanagement)
+[^2]: [Anforderungsmanagement](https://de.wikipedia.org/wiki/Anforderungsmanagement)
 
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: (https://handschriftenportal.de/anforderungsmanagement/)
 
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: [Anforderungsmanagement-Tool oder Requirementsengineering-Tool im Projekt?](https://pm-tools.info/faq/anforderungsmanagement-tool-und-requirementsengineering-tool-im-projekt/#:~:text=6%20Beispiele%20f%C3%BCr%20Anforderungsmanagement-Tools%201%20Accompa%20Eine%20einfach,und%20SharePoint%20zumindest%20die%20Kollaboration%20erm%C3%B6glichen.%20%28z.B.%20)
+
+
 
