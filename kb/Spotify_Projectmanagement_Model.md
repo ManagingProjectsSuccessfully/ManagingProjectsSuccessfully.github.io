@@ -9,6 +9,8 @@ anrechnung: k oder a
 Kurzbeschreibung zu Spotify_Projectmanagement_Model um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 
+//Notes: Community > Struktur 
+
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
@@ -34,7 +36,18 @@ Das Spotify Modell besteht aus vier Hauptkomponenten: Squads, Tribes, Chaptern u
 
 ## Squads
 
-Die Squads sind mit Scrum Teams vergleichbar, sie bilden die Basis des Spotify Modells[^1]. In der Regel sind weniger als acht Leute in einem Squad enthalten[^2]. Squads sind crossfunktional tragen die "End-To-End" Verantwortung für ein Feature oder einen bestimmten Bereich. Diese Verantwortung erstreckt sich von der Idee, über die Ausarbeitung, den konzeptionellen Entwurf und der Entwicklung bis zum kommerziellen Erfolg. Die Squads haben volle Freiheit bei der Wahl und Ausübung ihrer Methoden[^3]. Aufgrund ihrer Autonomität gibt es keine Teamleiter in Squads, jedoch gibt es Product Owner, welche die Prioritäten für die Aufgaben, die von den Squads erledigt werden müssen, vorgibt[^2].
+Die Squads sind mit Scrum Teams vergleichbar, sie bilden die Basis des Spotify Modells[^1]. In der Regel sind weniger als acht Leute in einem Squad enthalten[^2]. Squads sind crossfunktional tragen die "End-To-End" Verantwortung für ein Feature oder einen bestimmten Bereich. Diese Verantwortung erstreckt sich von der Idee, über die Ausarbeitung, den konzeptionellen Entwurf und der Entwicklung bis zum kommerziellen Erfolg. Die Squads haben volle Freiheit bei der Wahl und Ausübung ihrer Methoden[^3]. Aufgrund ihrer Autonomität gibt es keine Teamleiter in Squads, jedoch gibt es Product Owner, welche die Prioritäten für die Aufgaben, die von den Squads erledigt werden müssen, vorgibt. Zusätzlich haz jedes Squad einen Agile Coach, welcher hilft, potentielle Hindernisse zu erkennen, zu beseitigen und zu der Verbesserung der Arbeitsweisen beiträgt. Zusätzlich dazu organisiert er das "Sprint Planning Meeting" und die "Retrospektive"[^2]. 
+
+## Tribes
+
+Ein Tribe ist eine Gruppe von Squads, die am gleichen oder an miteinander verbundenen Produkten oder Dienstleistungen arbeiten. Dementsprechend kann die Größe eines Tribes variieren, jedoch ich die Maximalgröße eines Tribes 150 Personen[^2][^3].
+Die Tribes haben einen oder mehrere "Tribe-Leads", welche die Aufgabe haben, für die Squads eine optimale Arbeitsumgebung zu schaffen[^2][^3]. Durch regelmäßge Tribe Meetings werden die Mitglieder eines Tribes über die Arbeit der anderen Squads auf dem Laufenden gehalten[^2].
+
+## Chapters
+
+## Guilds
+
+Guilds sind Gruppen von Mitarbeitern, welche sich Fachwissen oder Interessen teilen. Sie sind unabhängig von Tribes, also können sie sich über das ganze Unternehmen erstrecken[^2]. Jeder kann einer Guild jederzeit beitreten und sie auch jederzeit verlassen. Die Teilnahme an einer Guild ist freiwillig[^3]. Guilds greifen in der Regel auf informelle Kommunikationsmethoden zurück[^1]. Regelmäßige Treffen der Guild werden vom "Guild Koordinator" organisiert. An diesen treffen sich alle Mitglieder einer Guild und tauschen sich zu den Themen der Guild aus[^2].
 
 # Aspekt 1
 
