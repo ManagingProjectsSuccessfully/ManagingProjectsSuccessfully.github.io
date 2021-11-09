@@ -30,8 +30,15 @@ Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtig
 <br>
 <br>
 
- Beispiel für die nötige Datenbasis für ein Gantt-Diagramm   ![Beispielabbildung](Gantt_Diagramme/Datenbasis-gantt.jpg) <br>
-_Erstellt durch den Autor_
+ Beispiel für die nötige Datenbasis für ein Gantt-Diagramm  <br>
+ | Aktivität  | Beginn | Dauer [d] |
+| ------------- | ------------- |------------- |
+| 1. Sachen in Kartons packen  | 18.11.2021  | 3 |
+| 2. Umzugsfirma holt sie ab und transportiert sie  | 21.11.2021  | 1|
+|3. Kartons auspacken| 22.11.2021| 4|
+| 4. Montagefirma baut neue Möbel auf  | 23.11.2021  | 3 |
+
+
  <br>
  <br>
  daraus resultierendes Gantt-Diagramm  ![Beispielabbildung](Gantt_Diagramme/Gantt-Umzug.jpg)<br>
