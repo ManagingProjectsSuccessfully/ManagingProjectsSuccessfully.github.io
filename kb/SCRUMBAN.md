@@ -1,8 +1,8 @@
 ---
 title: SCRUMBAN
-tags: agil klassisch
+tags: klassisch
 author: mickey0684
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu SCRUMBAN um ein erstes Verständnis dafür zu schaffen um was es hier geht.
