@@ -12,11 +12,11 @@ Die Wichtigkeit des AM soll durch folgende Karikatur veranschaulicht werden:
 
 ![Cartoon AM](https://github.com/Karina255/ManagingProjectsSuccessfully.github.io/blob/main/kb/Anforderungsmanagement/AM%20Cartoon.png) 
 
-*Karikatur zur Wichtigkeit von Anforderungsmanagement* [^3]
+*Karikatur zur Wichtigkeit von Anforderungsmanagement* [^2]
 
-Um das Zeil zu gewährleisten, umfasst das AM alle Maßnahmen, welche auf die Definition, Steuerung, Verwaltung und Kontrolle von Anforderungen bezogen sind.[^2]
+Um das Zeil zu gewährleisten, umfasst das AM alle Maßnahmen, welche auf die Definition, Steuerung, Verwaltung und Kontrolle von Anforderungen bezogen sind.[^3]
 Die Anforderungsdefinition besteht beispielweise aus Analyse, Dokumentation und Validierung der Anforderungen.
-Wichtige Inhalte in der Verwaltung von Anforderungen sind das [Risikomanagement](Risikomanagement.md), [Änderungsmanagement](Change_Management.md) und auch das Umsetzungsmanagement.[^1] [^2]
+Wichtige Inhalte in der Verwaltung von Anforderungen sind das [Risikomanagement](Risikomanagement.md), [Änderungsmanagement](Change_Management.md) und auch das Umsetzungsmanagement.[^1] [^3]
 
 Da das AM eine Abfolge immer wiederkehrender Prozesse über das gesamte Projekt hinweh ist und die Einhaltung fortlaufend kontrolliert werden muss, gibt es einen verantwotlichen Manager der dies überwacht. In Englisch wird dieser auch Requirments Engineer genannt.[^1]
 
@@ -59,7 +59,7 @@ Die wichtigsten Funktionen, welche durch Tools oder auch Software, in komplexen 
     Durch einen Workflow mit Freigabe von Anforderungen kann die Klarheit aller Parteien gewährleistet werden.[^4]
 
 ## Beispiele
-Nachfolgen werden beispielhalft sowohl Tools als auch Software gelistet, welche häufig im AM zum Einsatz kommen und Spitzenreiter in ihrem Gebiet sind.
+Nachfolgen werden beispielhalft sowohl Tools als auch Software gelistet, welche häufig im AM zum Einsatz kommen und Spitzenreiter in ihrem Gebiet sind.[^4][^5]
 
 1. [Jama Software](https://www.jamasoftware.com/?_gl=1%2A1i3edoq%2A_ga%2AMTQzMjQ2MDU4Ni4xNjM2NDYwOTg4%2A_ga_JQG3M83PDQ%2AMTYzNjQ2MDk4Ny4xLjEuMTYzNjQ2MTE5Mi4w)
 2. [IBM Engineering Requirements Management DOORS Next](https://www.ibm.com/de-de/products/requirements-management-doors-next)
@@ -80,9 +80,9 @@ Nachfolgen werden beispielhalft sowohl Tools als auch Software gelistet, welche 
 # Quellen
 [^1]: [Was ist Anforderungsmanagement?](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-anforderungsmanagement/)
 
-[^2]: [Anforderungsmanagement](https://de.wikipedia.org/wiki/Anforderungsmanagement)
+[^2]: [Anforderungsmanagement als Brückenbauer zwischen Geisteswissenschaft und IT](https://handschriftenportal.de/anforderungsmanagement/)
 
-[^3]: [Anforderungsmanagement als Brückenbauer zwischen Geisteswissenschaft und IT](https://handschriftenportal.de/anforderungsmanagement/)
+[^3]: [Anforderungsmanagement](https://de.wikipedia.org/wiki/Anforderungsmanagement)
 
 [^4]: [Anforderungsmanagement-Tool oder Requirementsengineering-Tool im Projekt?](https://pm-tools.info/faq/anforderungsmanagement-tool-und-requirementsengineering-tool-im-projekt/#:~:text=6%20Beispiele%20f%C3%BCr%20Anforderungsmanagement-Tools%201%20Accompa%20Eine%20einfach,und%20SharePoint%20zumindest%20die%20Kollaboration%20erm%C3%B6glichen.%20%28z.B.%20)
 
