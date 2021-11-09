@@ -2,7 +2,7 @@
 title: SCRUMBAN
 tags: klassisch
 author: mickey0684
-anrechnung: k 
+anrechnung: klassisch
 ---
 
 Kurzbeschreibung zu SCRUMBAN um ein erstes Verständnis dafür zu schaffen um was es hier geht.
