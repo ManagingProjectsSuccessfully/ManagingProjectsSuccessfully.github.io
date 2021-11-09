@@ -62,6 +62,7 @@ _Erstellt durch den Autor mittels Microsoft PowerBI_
 2.  Arbeitsaufwand: Bei Änderungen im Projektverlauf muss auch das Diagramm angepasst werden, das kann zu zusätzlichem Arbeitsaufwand führen.
 3. undynamisch: Um ein Gantt-Diagramm erfolgreich einsetzen zu können , müssen zum Projektstart alle nötigen Aktivitäten geplant sein. Infolgedessen sind Gantt-Diagramme aufgrund ihrer Starrheit nicht für agiles Projektmanagement geeignet[^5].
 
+## 2.3 Alternativen zur Gantt-Chart
 
 
 # Siehe auch
