@@ -56,13 +56,12 @@ Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote ref
 
 # Siehe auch
 
-* https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Forschungsprojekte.md![image](https://user-images.githubusercontent.com/92788192/140934347-ca0bf4e5-2aec-4cc5-b5cb-ec3d9870033f.png)
-
+* https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Forschungsprojekte.md 
 
 # Weiterführende Literatur
 
-* https://www.spiegel.de/ausland/entwicklungsprojekte-fuer-afrika-was-wirklich-helfen-wuerde-a-11767c47-e20d-44cf-b15f-554b5fc7d7a4![image](https://user-images.githubusercontent.com/92788192/140934383-13bf58e7-fd4a-41ce-8753-83ddd920c788.png)
-* https://www.faz.net/aktuell/gesellschaft/entwicklungsprojekt-in-ghana-kernkompetenz-fuer-shea-baeuerinnen-11485493.html ![image](https://user-images.githubusercontent.com/92788192/140934415-c1599be0-1b8e-47c1-84a2-03ff404e9914.png)
+* https://www.spiegel.de/ausland/entwicklungsprojekte-fuer-afrika-was-wirklich-helfen-wuerde-a-11767c47-e20d-44cf-b15f-554b5fc7d7a4
+* https://www.faz.net/aktuell/gesellschaft/entwicklungsprojekt-in-ghana-kernkompetenz-fuer-shea-baeuerinnen-11485493.html 
 
 
 # Quellen
