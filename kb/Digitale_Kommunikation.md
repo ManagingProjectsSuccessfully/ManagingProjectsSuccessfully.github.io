@@ -1,8 +1,8 @@
 ---
 title: Digitale_Kommunikation
-tags: agil klassisch
+tags: klassisch allgemein
 author: DaLob98
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Digitale_Kommunikation um ein erstes Verständnis dafür zu schaffen um was es hier geht.
