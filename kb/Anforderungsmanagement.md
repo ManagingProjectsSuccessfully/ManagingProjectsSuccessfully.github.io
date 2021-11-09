@@ -11,7 +11,7 @@ Das Ziel ist es die Anforderungen des Kunden und der weiteren externen als auch 
 
 Daher umfasst das AM alle Maßnahmen, welche auf die Definition, Steuerung, Verwaltung und Kontrolle von Anforderungen bezogen sind.[^2]
 Die Anforderungsdefinition besteht beispielweise aus Analyse, Dokumentation und Validierung der Anforderungen.
-Wichtige Inhalte in der Verwaltung von Anforderungen sind das [Risikomanagement] (Risikomanagement.md), [Änderungsmanagement] (Change_Management.md) und auch das Umsetzungsmanagement.[^1] [^2]
+Wichtige Inhalte in der Verwaltung von Anforderungen sind das [Risikomanagement](Risikomanagement.md), [Änderungsmanagement](Change_Management.md) und auch das Umsetzungsmanagement.[^1] [^2]
 
 Da das AM eine Abfolge immer wiederkehrender Prozesse über das gesamte Projekt hinweh ist und die Einhaltung fortlaufend kontrolliert werden muss, gibt es einen verantwotlichen Manager der dies überwacht. In Englisch wird dieser auch Requirments Engineer genannt.[^1]
 
@@ -100,7 +100,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [Was ist Anforderungsmanagement?](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-anforderungsmanagement/)
 
-[^2]:[Anforderungsmanagement] (https://de.wikipedia.org/wiki/Anforderungsmanagement)
+[^2]:[Anforderungsmanagement](https://de.wikipedia.org/wiki/Anforderungsmanagement)
 
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
