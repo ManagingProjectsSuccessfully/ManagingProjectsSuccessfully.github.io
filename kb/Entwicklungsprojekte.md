@@ -5,7 +5,7 @@ author: katjasc
 anrechnung: k
 ---
 
-Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. Sie sind in zwei Kategorien eingeteilt: Erstens sind es Projekte, die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. Zweitens sind es Projekte, die den sozialen Standard eines Landes anheben sollen.
+Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. [^1] Sie sind in zwei Kategorien eingeteilt: Erstens sind es Projekte, die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. Zweitens sind es Projekte, die den sozialen Standard eines Landes anheben sollen.
 
 
 
@@ -66,7 +66,8 @@ Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote ref
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]:	https://www.spektrum.de/lexikon/geographie/entwicklungsprojekt/2079 
+
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
