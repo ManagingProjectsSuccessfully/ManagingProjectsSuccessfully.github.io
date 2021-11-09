@@ -8,16 +8,23 @@ anrechnung: k
 Die Meilensteintrendanalyse ist ein Verfahren des Projektcontrollings, dass überwiegend im klassischen Projektmanagement Anwendung findet.Sie dient zur Prognose und Steuerung von Terminen innerhalb kleinerer und mittelgroßer Projekte[^1.] Dabei werden einzelne Projektabschnitte vorab zeitlich kalkuliert und als Meilensteine festen Terminen zugeteilt, an denen der Teil des Projektes, definiert als ein Meilenstein, abgeschlossen werden sein soll. Die Meilensteintrendanalyse stellt also eine Visualisierung von Terminänderungen im Projekt dar. Dadurch lassen sich sogenannte Trends ablesen und Schwächen und Risiken im Projekt frühzeitig erkennen. Zudem schafft die Meilensteintrendanalyse Transparenz gegenüber den Stakeholdern [^2]. 
 
 
-# Anwendung der Meilensteintrnendanalyse
+# Anwendung der Meilensteintrendanalyse
 
-Bei der Meilensteintrendanalyse sollten drei wesetliche Fragen immer im Blick gehalten werden:
+Die Meilensteintrendanaylse soll den Projektverantwortlichen einen visuellen Überblick über die Entwicklung der einzelnen Projektabschnitte im Verlauf der einzelnen Berichtsperioden geben. Bei der Meilensteintrendanalyse sollten drei wesentliche Fragen immer im Blick gehalten werden:
 
 * Wie liegt man im Zeitplan?
 * Wird das Projekt rechtzeitig fertig?
 * Können die einzelnen Termine eingehalten werden?[^3]
-* eine 
-* Punkteliste
-  - mit unterpunkt
+
+##Vorraussetzungen
+Um eine erfolgreiche Meilensteintrendanalyse durchzuführen, muss das Projekt zu Beginn in sinnvolle Teilprojekte zerlegt werden, die eindeutig definierte Meilensteine darstellen. Dabei müssen klare und realistische Ziele gesetzt werden[^4].
+
+##Einsatzbereiche
+Die Meilensteintrendanalyse kann grundsättzlich bei allen Arten von Projekten angewendet werden. Sie dienen neben der Übersicht für die Interessensgruppen am Projekt auch als Zwischenberichte ans höhrere Management.
+
+##Ablauf
+Nachdem am Anfang des Projektes die Meilensteine festgelegt wurden, folgt im Laufe der Projektdurchführung regelmäßige Statusbesprechungen um die Entwicklung der Meilensteine im Blick zu haben. DAbei sollten alle Mitarbeiter anwesend sein, die für einen oder mehrere Meilensteine verantwortlich sind. Bei diesen Meetings werden neben bereits erledigten Aufgaben aufgetretene Probleme, Planungsschwächen und weitere Vorgehensweisen besprochen. 
+
 
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -108,5 +115,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: [Projekte-leicht-gemacht.de] (https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/die-meilensteintrendanalyse-einfach-erklaert/)
 [^2]: [link-Springer] (https://link.springer.com/chapter/10.1007/978-3-662-52974-4_8)
 [^3]: [Exceltricks.blog] (https://exceltricks.blog/mit-dieser-excel-vorlage-koennen-sie-eine-meilensteintrendanalyse-fuer-ihre-projekte-durchfuehren/)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^4]: [Wikipedia] (https://de.wikipedia.org/wiki/Meilensteintrendanalyse) 
