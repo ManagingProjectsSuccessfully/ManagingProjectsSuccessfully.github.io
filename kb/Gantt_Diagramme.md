@@ -49,8 +49,8 @@ _Erstellt durch den Autor_
 
 _Erstellt durch den Autor mittels Microsoft PowerBI_
 
-# 2.  Vor- / Nachteile des Gantt-Diagramms
-     Wie jedes Tool hat auch das Gantt-Diagramm seine Vor- und Nachteile. Diese werden in den kommenden Abschnitten näher beleuchtet.
+# 2  Vor- / Nachteile des Gantt-Diagramms
+     Wie jedes Tool hat auch das Gantt-Diagramm seine Vor- und Nachteile. Diese werden in den kommenden Abschnitten näher beleuchtet. Anschließend werden mögliche Alternativen kurz vorgestellt.
 
 ## 2.1 Vorteile 
 1. Klarheit: Aufgrund der verständlichen Visualisierung des Projektablaufs, ist für alle Beteiligten transparent, wann welche Aktivität beginnt, und endet und in welcher Reihenfolge das geschieht.
