@@ -43,7 +43,9 @@ Bei der Hilfe von Entwicklungsländern geht es um finanzielle und personelle Hil
 Die Organisatoren gehen in Verschiedenen Schritten vor, um ein gutes Projektmanagement zu gewährleisten. Zu den Schritten zählen die Problemanalyse, die Beteiligungsanalyse, die Definition von hierarchisch geordneten Projektzielen und die Festlegung von Aktivitäten und Indikatoren zur Messung und Evaluation des gesamten Projektes bzw. des Projektziels.
 
 ## Entwicklungsprojekte in Afrika 
-Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus den Ländern des Nordens, wie England und Deutschland. Große Organisatoren für Entwicklungsprojekte in Afrika sind unter anderem World Vision (V) und UNICEF (V). Die Organisationen agieren weltweit und versuchen gemeinsam mit Ihren Mitgliedern in verschiedenen Projekten den Hunger und die Armut der ärmeren Bevölkerung in Afrika mit gezielten Projekten entgegenzuwirken. ![image](https://user-images.githubusercontent.com/92788192/140932150-1b8557c3-e845-4e15-8a03-217cda6991ec.png)
+Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus den Ländern des Nordens, wie England und Deutschland. Große Organisatoren für Entwicklungsprojekte in Afrika sind unter anderem [World Vision] (https://www.worldvision.de/) und UNICEF (V). Die Organisationen agieren weltweit und versuchen gemeinsam mit Ihren Mitgliedern in verschiedenen Projekten den Hunger und die Armut der ärmeren Bevölkerung in Afrika mit gezielten Projekten entgegenzuwirken.
+
+
 
 
 
