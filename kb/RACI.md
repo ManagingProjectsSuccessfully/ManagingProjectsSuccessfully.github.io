@@ -1,8 +1,8 @@
 ---
 title: RACI
-tags: agil klassisch
+tags: agil klassisch RACI 
 author: mirela08
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu RACI
