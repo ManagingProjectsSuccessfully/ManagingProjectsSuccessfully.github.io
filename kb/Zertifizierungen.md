@@ -13,7 +13,7 @@ Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der
 
 Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche PM-Standards an. Diese Projektmanagementstandards werden oft in unterschiedlicher Modifikation von einer Organisation angeboten. Die folgende Tabelle gibt einen ersten Überblick über vier der beliebtesten Zertifizierungen in den unterschiedlichen Projektmanagementstandards.
 
-## Übersicht über PM-Standards
+## Übersicht etablierter PM-Standards
 
 | PM-Organisation / Anbieter                   | IPMA                     | PMI                                | PMI                                | Prince2            | Scrum.org      |
 |-----------------------------------------|--------------------------|------------------------------------|------------------------------------|--------------------|----------------|
