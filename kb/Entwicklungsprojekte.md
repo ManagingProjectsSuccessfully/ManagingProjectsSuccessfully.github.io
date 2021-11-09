@@ -9,14 +9,43 @@ Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenst
 
 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Entwicklungsprojekte, die der Entwicklung von Etwas dienen
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Entwicklungsprojekte haben das Ziel einen Erkenntnisgewinn oder die Erstellung eines neuen Projekts durchzuführen. Durch die große Bedeutung von Entwicklungsprojekten, werden diese oft und zahlreich gefördert.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+## Beispiele für Entwicklungsprojekte 
+1.	Systementwicklung
+2.	Produktentwicklung
+3.	Hardware- und Softwareentwicklungen
+4.	Dienstleistungsprodukte
+5.	Finanzprodukte 
+
+
+## Herausforderungen 
+Entwicklungsprojekte arbeiten häufig unterhalb ihres möglichen Effizienzniveaus, dies liegt daran, dass durch wechselnde Kundenanforderungen und unzureichende Produktspezifikationen der Grad an Komplexität immer höher wird. Die Projektleiter müssen sich eine ganzheitliche Perspektive verschaffen, was durch eine Zerstückelung des Projekts schwierig ist. 
+
+### Kernporbleme 
+Die Probleme von Entwicklungsprojekten, welche die Produktivität von Entwicklungsprojekten beeinträchtigen, können in fünf Gruppen aufgeteilt werden.
+1.	Planung: Durch Informationsdefizite, also unzureichende Informationen zu den Anforderungen an das Projekt, fehlen den Entwicklern der Projekte oftmals genaue Informationen, um das Projekt gut planen zu können. 
+2.	Kommunikation: Entwicklungsprojekte haben viele Schnittstellen und Akteure, was die vollständige Informationsweitergabe zwischen den einzelnen Stellen erschwert. Durch viele Zwischenstellen gehen Informationen oftmals verloren. 
+3.	Standardisierung: Starre Standardisierung führt bei Entwicklungsprojekten zu einer Behinderung des Arbeitsablaufens und fehlende Standardisierungsmaßnahmen führen zum Fehlen von Standardisierungsprozessen und Unproduktivität. 
+4.	Integration: Der Zielkonflikt zwischen internen Abteilungen und externen Kunden führt zu fehlender Integration in das Gesamtprojekt. 
+5.	Änderungsmanagement: Für interne und externe Mitglieder besteht eine hohe Unvorhersehbarkeit während des Projekts, aufgrund permanent auftretender Veränderungen, welche oftmals im späteren Verlauf des Projekts erst sichtbar werden. 
+
+### Lösungsansätze 
+Lösungsansätze, um die Kernprobleme von Entwicklungsprojekten zu bewältigen, sind mit einer Kombination aus klassischen und agilen Projektmanagement gegeben. Hierdurch wird durch die Gestaltung der Schnittstellen eine Visualisierung des Gesamtprozesses versucht. 
+Dies beginnt in der Planungsphase des Projekts, da hier das größte Optimierungspotenzial besteht. Eine Visualisierung wird mit dem Lean Management herbeigeführt, was zu Transparenzerhöhung führt. 
+Weitere Methoden zur Lösung der Kernprobleme sind beispielsweise Scrum sowie virtuelle Planungsmethoden, wie 3D-5D, aus dem Bereich des agiles Projektmanagements.  
+# Entwicklungsprojekte, die zu sozialem Fortschritt in Entwicklungsländern führen sollen
+Bei der Hilfe von Entwicklungsländern geht es um finanzielle und personelle Hilfe für einen Aufschwung des Landes. Projektträger bei Entwicklungsprojekten sind die Entwicklungsländer, welche von einer Organisation des Helfenden Landes geführt werden. Arme Bevölkerungsgruppen werden mit Geldern oder Produkten unterstützt, welche die Arbeit, meist auf dem Feld, für die Arbeiter erleichtern soll. Zudem setzen sich Organisatoren von Entwicklungsprojekten stark für eine bessere Bezahlung der Arbeiter vor Ort ein.
+
+# Koordination
+Die Organisatoren gehen in Verschiedenen Schritten vor, um ein gutes Projektmanagement zu gewährleisten. Zu den Schritten zählen die Problemanalyse, die Beteiligungsanalyse, die Definition von hierarchisch geordneten Projektzielen und die Festlegung von Aktivitäten und Indikatoren zur Messung und Evaluation des gesamten Projektes bzw. des Projektziels.
+
+# Entwicklungsprojekte in Afrika 
+Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus den Ländern des Nordens, wie England und Deutschland. Große Organisatoren für Entwicklungsprojekte in Afrika sind unter anderem World Vision (V) und UNICEF (V). Die Organisationen agieren weltweit und versuchen gemeinsam mit Ihren Mitgliedern in verschiedenen Projekten den Hunger und die Armut der ärmeren Bevölkerung in Afrika mit gezielten Projekten entgegenzuwirken. ![image](https://user-images.githubusercontent.com/92788192/140932150-1b8557c3-e845-4e15-8a03-217cda6991ec.png)
+
+
 
 Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
