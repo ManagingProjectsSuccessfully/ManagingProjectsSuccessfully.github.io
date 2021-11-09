@@ -34,7 +34,7 @@ Die gewonnen Erkenntnisse können beispielsweise Fragen wie die Folgenden beantw
 Dadurch wird es möglich, eine eher planerische Perspektive einzunehmen, aus der wir die nächsten Schritte ableiten und eventuell erforderliche Prozessanpassungen erkennen können.
 
 Die Überprüfung darf jedoch nicht zu oft stattfinden, da so die Gefahr besteht, die eigentliche Projektarbeit zu behindern. Sie muss stets effizient bleiben. 
-Die Inspektionen müssen in einer Weise stattfinden, dass auch sie einen Mehrwert für die Projektarbeit darstellen.[^6]
+Die Inspektionen müssen in einer Weise stattfinden, dass auch sie einen Mehrwert für die Projektarbeit darstellen.[^5]
 
 
 
@@ -46,16 +46,16 @@ Die Inspektionen müssen in einer Weise stattfinden, dass auch sie einen Mehrwer
 * [Scrum_Anpassung](Scrum_Anpassung.md)
 * [SCRUM](SCRUM.md)
 
-# Quellen
  
+
+
+# Quellen
+
 [^1]: https://www.wibas.com/scrum/scrum-values-and-principles/de
 [^2]: https://verovis.com/agiles-projektmanagement-mit-scrum/
-[^4]: https://www.mitsm.de/wissen/scrum-wissen/die-scrum-artefakte/
-[^6]: https://www.der-scrum-master.com/der-scrum-leitfaden/transparenz-der-artefakte#scrum-theorie-anpassung-adaption 
-
-# Bildquelle
-
 [^3]: https://verovis.com/wp-content/uploads/2020/03/cxam42-k6a-igq-i-c36r7ajrc-lshxbkdonpal2fnynh3ntx4pbuy5w2qx.png
+[^4]: https://www.mitsm.de/wissen/scrum-wissen/die-scrum-artefakte/
+[^5]: https://www.der-scrum-master.com/der-scrum-leitfaden/transparenz-der-artefakte#scrum-theorie-anpassung-adaption 
 
 
 
