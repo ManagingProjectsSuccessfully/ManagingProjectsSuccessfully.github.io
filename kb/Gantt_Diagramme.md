@@ -43,7 +43,7 @@ Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtig
  <br>
  
  
-![Beispielabbildung](Gantt_Diagramme/test-file.jpg)
+![Beispielabbildung](Gantt_Diagramme/Gantt-Umzug.jpg)
 
 _Erstellt durch den Autor mittels Microsoft PowerBI_
 
