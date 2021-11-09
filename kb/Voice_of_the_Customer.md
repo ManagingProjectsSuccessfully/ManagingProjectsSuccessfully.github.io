@@ -5,100 +5,56 @@ author: eddq2000
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Voice_of_the_Customer um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Definition
+Voice of the Customer (VOC) ist ein Prozess in einem Unternehmen, bestehend aus drei Phasen, der dazu dient die
+*Bedürfnisse
+*Wünsche
+*Erwartungen
+*Vorstellungen
+*Ängste
+*vergangenen Erfahrungen
+der Kunden zu verstehen [^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Ziel ist es, nach Analyse der gewonnen Daten über die Kunden, diese in nützliche und quantifizierbare Informationen umzuwandeln, die in den relevanten Arbeitsprozessen des Unternehmens verwendet werden können [^2], um bestmöglichste Resultate für ihre Kunden produzieren zu können.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Bei VOC handelt es sich viel weniger um einen einzigen Arbeitsschritt, sondern um einen mehrschichtigen Prozess, der zu verschiedenen Zeitpunkten [^3] des Unternehmensprozesses in verschiedenen Bereichen mit eingebunden ist.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Hintergrund und Relevanz von VOC
+Um als Unternehmen erfolgreich bestehen zu bleiben, ist es notwendig die Kundenbedürfnisse, besser bzw. gut differenziert von dem Angebot anderer Unternehmen zu erfüllen. Dies kann ein Unternehmen nur durch die sorgfältige Analyse der Kundenbedürfnisse erreichen.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Aus diesem Grund entstand Mitte der 80er Jahre bis Anfang der 90er Jahre im Zuge der Weiterentwicklung von Quality Function Deployment (QFD) Voice of the Customer [^2]. Seitdem ist die Relevanz von VOC konstant gestiegen, da es auf Grund der Konkurrenz für ein Unternehmen immer wichtiger wurde, die Wünsche und Erwartungen ihrer Kunden besser zu verstehen, um sie mindestens genauso gut, wie ihre Konkurrenten, zufrieden stellen zu können.
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Dadurch wird VOC vor allem im Projektmanagement, egal ob klassisch oder agil, zu einem zentralen Aspekt. Zu der Unterschiedlichen Rolle von VOC im agilen und klassichen p. gehe ich später drauf ein
+//Six Sigma
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+# Die fundamentalen 3 Phasen von einem VOC-Prozess
+//Da es sich um einen vielschichtigen Prozess der zu verschiedenen Zeitpunkten in verschiedenen Bereichen relevant ist und angewendet wird, kann sich der VOC-Prozess von Unternehmen zu Unternehmen sehr unterschiedlich gestalten. Zudem haben sich immer mehr Möglichkeiten und Tools entwickelt, die den VOC-Prozess eines Unternehmens unterstützen.
+Am Ende muss jedes Unternehmen, sogar jedes Projekt, individuell entscheiden, wie sie ihren VOC Prozess gestlaten wollen.
+Aber egal, wie verschieden VOC-Prozesse aussehen mögen, lassen sich alle fundamntal in drei Phasen gliedern. Und jede Phase bietet ihre eigenen vielzähligen und verschiedenen Möglichkeiten/Wege etc. die Phase umzusetzen/auszuführen
+folgen sie dennoch einem fundamnetalen Modell mit drei Phase
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Phase 1
 
+## Phase 2
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Voice_of_the_Customer/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## Phase 3
 
 
-# Siehe auch
+# Anwendung von xxx in unterschiedlichen Unternehmensbereichen
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Voice_of_the_Customer.md)
 
-# Weiterführende Literatur
+# Vorteile eines effektiven VOC-Prozesses
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
+
 
 # Quellen
+[^1]: [The Voice of the Customer (VOC)](https://trainingsmanufaktur.de/lexikon/voice-of-the-customer-voc/)
+[^2]: [Voice of the Customer](https://www.projektmagazin.de/methoden/voice-customer)
+[^3]: [Voice of the Customer – die Stimme des Kunden](https://www.qualtrics.com/de/erlebnismanagement/kunden/voice-of-the-customer/)
+[^1]: []()
+[^1]: []()
+[^1]: []()
+[^1]: []()
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
