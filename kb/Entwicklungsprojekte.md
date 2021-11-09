@@ -45,7 +45,7 @@ Die Organisatoren gehen in Verschiedenen Schritten vor, um ein gutes Projektmana
 ## Entwicklungsprojekte in Afrika 
 Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus den Ländern des Nordens, wie England und Deutschland. Große Organisatoren für Entwicklungsprojekte in Afrika sind unter anderem [World Vision] (https://www.worldvision.de/) und UNICEF (V). Die Organisationen agieren weltweit und versuchen gemeinsam mit Ihren Mitgliedern in verschiedenen Projekten den Hunger und die Armut der ärmeren Bevölkerung in Afrika mit gezielten Projekten entgegenzuwirken.
 
-
+[World Vision](https://www.worldvision.de/)
 
 
 
