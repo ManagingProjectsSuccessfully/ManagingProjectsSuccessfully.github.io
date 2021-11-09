@@ -2,7 +2,7 @@
 title: Voice_of_the_Customer
 tags: agil klassisch
 author: eddq2000
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Voice_of_the_Customer um ein erstes Verständnis dafür zu schaffen um was es hier geht.
