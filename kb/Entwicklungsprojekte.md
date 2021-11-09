@@ -5,10 +5,9 @@ author: katjasc
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Entwicklungsprojekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. Sie sind in zwei Kategorien eingeteilt: Erstens sind es Projekte, die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. Zweitens sind es Projekte, die den sozialen Standard eines Landes anheben sollen.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
