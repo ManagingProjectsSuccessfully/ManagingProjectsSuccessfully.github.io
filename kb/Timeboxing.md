@@ -2,7 +2,7 @@
 title: Timeboxing
 tags: agil klassisch
 author: janetteschuller
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Timeboxing um ein erstes Verständnis dafür zu schaffen um was es hier geht.
