@@ -36,8 +36,9 @@ Der Fokus bei der Projektprozessgestaltung liegt nicht wie bisher darauf, dass d
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektmanagement_4_0.md)
+* [Hybrides Prpjektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Hybrides_Projektmanagment.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Projektmanagementsoftware](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagementsoftware.md)
 
 # Weiterführende Literatur
 
