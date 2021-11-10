@@ -11,7 +11,7 @@ Die Methode des kritischen Pfades (engl. Critical Path Method CPM) stellt ein Pr
 ## 1. Der kritische Pfad
 ### 1.1 Was ist der kritische Pfad
 
-“The sequence of activities that represents the longest path through a project with determines the shortest possible duration” ^2. Vereinfacht gesagt ist der kritische Pfad (engl. Critical Path CP) die längste Zeit, die für den Abschluss eines Projektes benötigt wird.
+“The sequence of activities that represents the longest path through a project with determines the shortest possible duration”[^2]. Vereinfacht gesagt ist der kritische Pfad (engl. Critical Path CP) die längste Zeit, die für den Abschluss eines Projektes benötigt wird.
 
 
 ### 1.2 Zentrale Schritte auf drem Weg zur Identifizierung des kritischen Pfades 
