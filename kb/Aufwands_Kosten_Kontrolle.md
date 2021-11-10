@@ -12,43 +12,52 @@ Bei der Aufwands- und Kostenkontrolle geht es um den Vergleich der kalkulierten 
 
 
 # Was sind Projektkosten
-Projektkosten sind wirtschaftliche Güter, die zur Erbringung einer Projektleistung gebraucht werden. Sie werden in Geldwerten gemessen.
+Projektkosten sind wirtschaftliche Güter, die zur Erbringung einer Projektleistung gebraucht werden. Sie setzen sich aus den finanziellen Mitteln und den verbrauchten Ressourcen zusammen.
+Beispiele hierfür sind Personalkosten, Materialkosten, Kosten für Beratungen und Lizenzen, sowie Kapitalkosten und Reserven für unvorhergesehene Ausgaben.[^1][^2]
 
+
+Die wesentlichen Prozesse des Projektmanagements, die die Projektkosten betreffen, umfassen
+
+die Kostenplanung,
+die Kostenschätzung,
+die Budgetierung sowie das anschließende
+Controlling der Kosten.
+ 
 
 # Projektkosten bestimmen
 Wichtig für die Bestimmung der Projektkosten ist die Erstellung eines Projektplans. Dieser ist ein zentraler Bestandteil einer exakten Budgetierung. Ohne das Wissen über die nötigen Arbeitsschritte und den dafür vorgesehenen Material- und Zeitaufwand lässt sich eine Vorab-Kostenrechnung nicht durchführen.
 Die Stundenkontierung und die Rechnungsprüfung sind die wichtigsten Elemente einer zielorientierten Aufwands- und Kostenkontrolle. 
-Mittels der Stundenkontierung werden die angefallenen Entwicklungsstunden jeweils für die Personen, die Aufgaben und die dafür aufgewendete Zeit erfasst und können anschließend in einer Plan/Ist-Tabelle einem Vergleich unterzogen werden. 
-Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Prokjekt vorgesehenen Budgets zu sichern. Wie bei der Terminkontrolle sollte man dabei Möglichkeiten von Trendanalysen einbeziehen.
+Mittels der Stundenkontierung werden die angefallenen Entwicklungsstunden jeweils für die Personen, die Aufgabe und die dafür aufgewendete Zeit erfasst und können anschließend in einer Plan/Ist-Tabelle einem Vergleich unterzogen werden. 
+Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Prokjekt vorgesehenen Budgets zu sichern.[^3]
 
 
 
 # Earned Value Analyse
-Auf dem unterhalb dieses Textes sehen Sie das Diagramm einer Earned Value Analyse (EVA)
 Die Earned Value Analysis oder auch Ertragswertanalyse bezieht die Kosten und Leistungen eines Projekts aufeinander und erlaubt so eine präziese Kostenkontrolle.
 Zum Stichtag werden sowohl die Kosten als auch die Leistungen mit den Planwerten verglichen.
 
-![image](https://user-images.githubusercontent.com/92396490/140614206-253046fc-27f4-4055-827b-78d6c1817b08.png) 
+![image](https://user-images.githubusercontent.com/92396490/140614206-253046fc-27f4-4055-827b-78d6c1817b08.png) [^4]
 
 
-Die folgenden Basiskennzahlen benötigt man, um die Projektkosten zu kontrollieren:
+Die folgenden Kennzahlen benötigt man, um die Projektkosten zu kontrollieren:
 Zur Durchführung der EVA wird zuerst ein Statusdatum festgelegt: entweder das aktuelle Datum oder ein zeitnahes Datum aus der Vergangenheit, beispielsweise aus der vergangenen Woche.
 
-Aus der vorherigen Projektplanung entnimmt man folgende Kennzahlen:
+Aus der Projektplanung entnimmt man folgende Kennzahlen:
 
 * Die geplanten Fertigstellungskosten für das Projekt
 * Den geplanten Fertigstellungsgrad, also das geplante Verhältnis der zum Stichtag erbrachten Leistung verglichen mit der Gesamtleistung, die für das Projekt notwendig ist
-Anschließend multipliziert man die beiden Werte und erhält daraus den geplanten Fertigstellungswert.
+Multipliziert man die beiden Werte erhält daraus den geplanten Fertigstellungswert.
 
 Zum Stichtag muss ebenfalls der IST-Stand erhoben werden:
 
-* Die aktuellen IST-Kosten berechnen sich aus den Kostenpositionen: Personal, Material, Schulung, externe Dienstleister, und sonstige Kosten
-* Der aktuelle Fertigstellungsgrad zum Stichtag ergibt sich aus dem Verhältnis der zum Stichtag erbrachten Leistungen zur geplanten Gesamtleistung des Projekts
-* Den aktuellen Fertigstellungswert berechnet man, indem man den aktuellen Fertigungsstellungsgrad mit dem geplanten Fertigstellungskosten multipliziert.
+* Die aktuellen IST-Kosten berechnen sich unter anderem aus den Kosten für Personal, Material, externe Dienstleister und sonstigen Kosten.
 
-Für die Ertragswertanalyse vergleichen Sie im letzten Schritt die aktuellen IST-Kosten  mit dem aktuellen Fertigstellungswert. 
-Liegen die IST Kosten über dem Fertigungsstellungswert, dann wurden entweder einzelne Schritte in der Planung nicht bedacht oder vom Aufwand her unterschätzt. 
+Für die Ertragswertanalyse vergleicht man nun die aktuellen IST-Kosten mit dem aktuellen Fertigstellungswert. 
+Liegen die IST-Kosten über dem Fertigungsstellungswert, dann wurden entweder einzelne Schritte in der Kostenplanung nicht bedacht oder vom Aufwand her unterschätzt. 
 
+Für eine genauere Beschreibung siehe: [Earned Value Analyse](Earned_Value_Analyse.md)
+
+# Nutzen der Aufwans- und Kostenanalyse 
 Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Prokjekt vorgesehenen Budgets zu sichern.
 Meist wird der Arbeitsfortschritt in wöchentlichen Abständen überprüft. Bei Projekten mit Laufzeiten von 8 bis 12 Monaten reicht auch ein monatlicher Check.
 Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, nämlich wenn bestimmte Arbeitspakete zu geplanten Meilensteinen abgeschlossen sind.
@@ -57,17 +66,19 @@ Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, näm
 
 # Siehe auch
 
-* [Earned Value Analyse](Earned_Value_Analyse.md)
 * [Kosten- Nutzenanalyse](Kosten_Nutzen_Analyse.md)
+* [Meinensteine](Meinelnsteine.md)
+* [Earned Value Analyse](Earned_Value_Analyse.md)
+* [Top_Down_Planning](Top_Down_Planning.md)
+* [Bottom_Up_Planning](Bottom_Up_Planning.md)
 
 
 # Quellen
 
-[^1]: http://www.pm-schluessel.com/index.php?option=com_content&view=article&id=213&Itemid=331
-
-[^2]: 
-[^3]: 
-[^4]: 
+[^1]: https://www.trialta.de/blog/projektstrukturplan-erstellen-0
+[^2]: https://www.akademie.de/de/wissen/kostenplanung-projekte/aufwandsermittlung-kostenschaetzung
+[^3]: https://www.can-do.de/blog/projektkosten-wie-du-übersicht-und-kontrolle-über-deine-ausgaben-behältst
+[^4]: http://www.pm-schluessel.com/index.php?option=com_content&view=article&id=213&Itemid=331 
 
 
 
