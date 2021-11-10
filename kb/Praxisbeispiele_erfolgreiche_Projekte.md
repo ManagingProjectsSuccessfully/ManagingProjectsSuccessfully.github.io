@@ -7,34 +7,26 @@ anrechnung: k
 Dieser Artikel handelt von erfolgreichen Großprojekten, die Unternehmen maßgeblich vorangebracht haben. Zudem werden einige Erkenntnisse und Zahlen aus der aktuellen Forschung rund erfolgreiche Projekte diskutiert. 
 
 
-Durch die Fusion von American Airlines und US Airways kam es zu Überschneidungen bei Technologien und Programmen. Das Managment etschloss sich dazu ein Projekt zu starten, mit dem Ziel die IT der Unternehmen und Datenbanken zu einer zusammenzuführen und dadurch einen kommerzielen Erfolg und effiktivere Arbeitzeiten zu schaffen.
-Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressourcen und komplexen Projekten unzureichend. Um einen Überblick über die kommerziel erfolgreichsten Daten und Projekte zu bekommen, begann das Unternehmen mit ihren Projektmanagern ein System zu etablieren, welches alle Daten automatisch auszuwertet. Infolgedessen konnte die Airline die Planungszeiten für Projekte und Routen verkürzen und dabei weniger Arbeiter einsetzten, was sich positiv auf die Bilanz auswirkte und mehrere Millionen Dollar einbrachte. Das Unternehmen hat nun Zugang zu besseren und zuverlässigeren Daten, um wichtige Entscheidungen über Projekte und Ressourcen zu treffen.[^2].
-Ein weiteres erfolgreiches Projekt was sogar die Erdrotation beeinflusst ist die Drei-Schluchten-Talsperre in China.[^3] Zum Zeitpunkt der fertigstellung im jahr 2003 war er der größte Staudamm der Welt, welcher 1.5% der gesamten Chinesichen Stromerzeugung ausmacht. Das Projekt stoß anfänglich auf viel Kritik, vorallem wegen dem hohen Preis ca. 75 Milliarden US-Dollar, doch hatte so eine große ökonomische und ökologische Auswirkung, dass der Staudamm im Jahr 2012 nochmal verbessert und mit mehr Turbinen ausgestattet wurde. Bis heute ist es das produktionsstärkste Kraftwerk der Welt.[^4] 
+
 [^2] [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) 
 [Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) 
 
 
-# Aspekt 1
+# Projektmanagement bei American Airlines
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Durch die Fusion von American Airlines und US Airways kam es zu Überschneidungen bei Technologien und Programmen. Das Managment entschloss sich dazu, ein Projekt zu starten mit dem Ziel die IT der Unternehmen und Datenbanken zu einer zusammenzuführen und dadurch einen kommerzielen Erfolg und effiktivere Arbeitzeiten zu schaffen.
+Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressourcen und komplexen Projekten unzureichend. Um einen Überblick über die kommerziel erfolgreichsten Daten und Projekte zu bekommen, begann das Unternehmen mit ihren Projektmanagern ein System zu etablieren, welches alle Daten automatisch auszuwertet. Infolgedessen konnte die Airline die Planungszeiten für Projekte und Routen verkürzen und dabei weniger Arbeiter einsetzten, was sich positiv auf die Bilanz auswirkte und mehrere Millionen Dollar einbrachte. Das Unternehmen hat nun Zugang zu besseren und zuverlässigeren Daten, um wichtige Entscheidungen über Projekte und Ressourcen zu treffen.[^2].
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Praxisbeispiele_erfolgreiche_Projekte/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Drei-Schluchten-Talsperre China
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+
+Ein weiteres erfolgreiches Projekt was sogar die Erdrotation beeinflusst ist die Drei-Schluchten-Talsperre in China.[^3] Zum Zeitpunkt der fertigstellung im jahr 2003 war er der größte Staudamm der Welt, welcher 1.5% der gesamten Chinesichen Stromerzeugung ausmacht. Das Projekt stoß anfänglich auf viel Kritik, vorallem wegen dem hohen Preis ca. 75 Milliarden US-Dollar, doch hatte so eine große ökonomische und ökologische Auswirkung, dass der Staudamm im Jahr 2012 nochmal verbessert und mit mehr Turbinen ausgestattet wurde. Bis heute ist es das produktionsstärkste Kraftwerk der Welt.[^4] 
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
