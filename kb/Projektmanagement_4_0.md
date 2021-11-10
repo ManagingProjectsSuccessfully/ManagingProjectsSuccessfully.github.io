@@ -4,11 +4,7 @@ tags: klassisch
 author: wernerni
 anrechnung: k
 ---
-
-Kurzbeschreibung zu Projektmanagement_4_0 um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Der Begriff Projektmanagement 4.0 lässt sich auf den Grundbegriff Industrie 4.0 zurückführen. Industrie 4.0 steht für ein "Zukunftsprojekt zur umfassenden Digitalisierung der industriellen Produktion"[^1], mit dem Ziel der vollständigen Automatisierung. Die Zahl steht zudem für die „vierte industrielle Revolution“, die sich durch Faktoren wie Individualisierung und Kundenintegration in unternehmerische Prozesse auszeichnet. Dies beeinflusst auch das zukünftige Projektmanagement. Projektmanagement 4.0 steht also für die Optimierung der Projektprozesse, mit Anpassung an neue Anforderungen, die das Fortschreiten der Globalisierung und Digitalisierung mit sich bringen.    
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -97,8 +93,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://de.wikipedia.org/wiki/Industrie_4.0
+[^2]: 
+[^3]: 
+[^4]: 
