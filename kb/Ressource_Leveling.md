@@ -34,7 +34,7 @@ Das Resource Leveling verhindert, dass zu wenig Ressourcen verteilt werden, und 
 *	Mithilfe des Abgleichs können sowohl die Anforderungen der Ressourcenverteilung als auch die Erwartungen des Kunden erfüllt und das gleiche Qualitätsniveau für Projektergebnisse beibehalten werden.
 *	Generell kann das Resource Leveling eine nützliche Methode zur Behebung von Budgetproblemen, Ressourcenüberlastung und Projektverzögerungen sein.
 
- # Techniken des Resource Leveling
+# Techniken des Resource Leveling
  
  <img src="https://assets.asana.biz/m/7f73e0ff8c2ca393/original/inline-project-planning-resource-leveling-2-2x.png" width="500" height="500">
 *Techniken des Ressourcenabgleichs*
