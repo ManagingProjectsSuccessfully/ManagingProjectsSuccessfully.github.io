@@ -19,6 +19,7 @@ Dieser beschreibt einen sich wiederholenden Zyklus, dessen Häufigkeit sich nach
 Das Projektcontrolling lässt sich in die drei fundamentalen Teilbereiche Kalkulation, Leistung und Kontrolle untergliedern. Diese dienen Unternehmen als Basis zur Planung, Durchführung und Erfolgsbeurteilung der Projekte. 
 
 ## Projektkalkulation
+In der Vorbeiruntgs- und Planungsphase erfolgt die Kalkulation des Projektes. In diesem Zeitraum werden Gesamtkosten, variable Kosten sowie Fixkosten systematisch erhoben. Je eher die Kosten ermittelt werden, desto schneller kann das Budget aufgestellt und die Projektumsetzung eingeleitet werden. Bei mittel- bis langfristigen Projekten ist es sinnvoll, das Projekt in mehrere Abschnitte zu untergliedern. Das hat den Vorteil, dass man jeder Etappe gesondert die verursachten Kosten zuordnen kann.
 
 ## Projektleistung
 
