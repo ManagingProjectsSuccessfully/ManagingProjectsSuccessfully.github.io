@@ -42,10 +42,11 @@ Die Inspektionen müssen in einer Weise stattfinden, dass auch sie einen Mehrwer
 
 # Siehe auch
 
+* [SCRUM](SCRUM.md)
 * [Scrum_Transparenz](Scrum_Transparenz.md)
 * [Scrum_Anpassung](Scrum_Anpassung.md)
-* [SCRUM](SCRUM.md)
-
+* [Porduct_Backlog](Product_Bachlog.md)
+* [Sprint_Backlog](Sprint_Backlog.md)
  
 
 
