@@ -44,7 +44,17 @@ Der Fokus bei der Projektprozessgestaltung liegt nicht wie bisher darauf, dass d
 
 # Quellen
 
-[^1]: https://de.wikipedia.org/wiki/Industrie_4.0
+[^1]: https://www.tiba.de/magazin/projektmanagement-4-0-wie-veraendert-sich-die-welt-des-projektmanagements/
 [^2]: https://www.projektassistenz-blog.de/projektmanagement-4-0-was-bedeutet-das/
-[^3]: 
-[^4]: 
+[^3]: https://www.techconsult.de/project-performance-index/studie-zum-projektmanagement-4-0-mit-digitalen-werkzeugen-kuenftige-herausforderungen-meistern
+[^4]: https://de.wikipedia.org/wiki/Industrie_4.0
+[^5]: https://wirtschaftslexikon.gabler.de/definition/industrie-40-54032#:~:text=Industrie%204.0%20%E2%80%A2%20Definition%20%7C%20Gabler%20Wirtschaftslexikon%20Industrie,und%20steht%20f%C3%BCr%20ein%20%22Zukunftsprojekt%22%20der%20deutschen%20Bundesregierung.
+[^6]: https://www.projektmagazin.de/blog/projektmanagement-40
+[^7]: https://www.it-business.de/herausforderungen-beim-projektmanagement-40-a-654194/
+[^8]: http://pm-forum-augsburg.de/images/Dokumente/Methodentag_2017/Vortragsfolien_Gerberich.pdf
+[^9]: https://www.vdz.org/personalmanagement-new-work/trends-im-projektmanagement
+[^10]: https://www.tiba.de/magazin/trends-im-projektmanagement-toolunterstuetzung/
+
+
+
+
