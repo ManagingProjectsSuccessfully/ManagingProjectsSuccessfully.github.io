@@ -16,35 +16,44 @@ Die Methode des kritischen Pfades (engl. Critical Path Method CPM) stellt ein Pr
 
 ### 1.2 Zentrale Schritte auf drem Weg zur Identifizierung des kritischen Pfades 
 
-1.	Bestimmung und Auflistung aller Vorgänge
-Als Grundlage für das weitere Vorgehen wird zunächst ein sogenannter Projekt-Struktur-Plan (PSP, engl. Work Breakdown Structure WBS) erstellt, welcher nur übergeordnete Vorgänge enthält. Der Verzicht auf detaillierte Abläufe sorgt dafür, dass der kritische Pfad am Ende nicht zu komplex und unübersichtlich gestaltet ist.
+**1.	Bestimmung und Auflistung aller Vorgänge**
+    
+    Als Grundlage für das weitere Vorgehen wird zunächst ein sogenannter Projekt-Struktur-Plan (PSP, engl. Work Breakdown Structure WBS) erstellt, welcher nur übergeordnete         Vorgänge enthält. Der Verzicht auf detaillierte Abläufe sorgt dafür, dass der kritische Pfad am Ende nicht zu komplex und unübersichtlich gestaltet ist.
 
-2.	Ermittlung aller Abfolgen und Abhängigkeiten
-Im zweiten Schritt stellt sich die Frage, wann welche Aufgaben erledigt werden können und sollen. Hierbei gibt es solche, die parallel zueinander abgeschlossen werden können, aber auch jene, welche voneinander abhängig sind. Ein Vorgang kann in diesem Fall erst begonnen werden nachdem ein anderer abgeschlossen wurde. 
+**2.	Ermittlung aller Abfolgen und Abhängigkeiten**
+    
+    Im zweiten Schritt stellt sich die Frage, wann welche Aufgaben erledigt werden können und sollen. Hierbei gibt es solche, die parallel zueinander abgeschlossen werden           können, aber auch jene, welche voneinander abhängig sind. Ein Vorgang kann in diesem Fall erst begonnen werden nachdem ein anderer abgeschlossen wurde. 
 
-3.	Erstellung eines Netzplans
-Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein Netzplan (engl. Critical Path Analysis Chart CPA) entweder per Hand oder mit Hilfe eines Softwareprogramms gezeichnet.
+**3.	Erstellung eines Netzplans**
+    
+    Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein Netzplan (engl. Critical Path Analysis Chart CPA) entweder per Hand oder mit Hilfe eines Softwareprogramms         gezeichnet.
 
-4.	Abschätzung des Zeitbedarfs aller Aufgaben 
-Im nächsten Schritt wird mittels Erfahrungen der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die Drei-Zeiten-Methode sein, wobei der Zeitbedarf mit folgenden Werten geschätzt wird:
+**4.	Abschätzung des Zeitbedarfs aller Aufgaben**
+   
+    Im nächsten Schritt wird mittels Erfahrungen der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die Drei-Zeiten-Methode sein, wobei der Zeitbedarf mit         folgenden Werten geschätzt wird:
 
     a = Minimalschätzung (Best Case)
+    
     m = Wahrscheinlichste Schätzung (Most Likely Case)
+    
     b = Maximalschätzung (Worst Case)
+    
+    Aus diesen Werten ergeben sich schließlich zwei zur Berechnung anwendbare Formeln, E steht dabei für die Schätzung (engl. Estimate):
 
-Aus diesen Werten ergeben sich schließlich zwei zur Berechnung anwendbare Formeln, E steht dabei für die Schätzung (engl. Estimate):
-
-    I.	E = (a + 4m + b) / 6 
-   II.	E = (a + m + b) / 3
+    I.	 E = (a + 4m + b) / 6 
+    
+    II.	E = (a + m + b) / 3
    
-Der Unterschied zwischen I und II besteht lediglich in der Gewichtung der Werte. Während bei der I. gängigeren Methode die wahrscheinlichste Schätzung am stärksten gewichtet wird, besteht bei II kein Unterschied in der Gewichtung der Werte. 
-Je nach Aufgabe kann es auch sinnvoll sein Pufferzeiten einzuplanen.
+    Der Unterschied zwischen I und II besteht lediglich in der Gewichtung der Werte. Während bei der I. gängigeren Methode die wahrscheinlichste Schätzung am stärksten gewichtet     wird, besteht bei II kein Unterschied in der Gewichtung der Werte. 
+    Je nach Aufgabe kann es auch sinnvoll sein Pufferzeiten einzuplanen.
 
-5.	Identifizierung des kritischen Pfades 
-Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden oder es werden die frühesten Anfangs- und Endzeitpunkte, sowie die spätesten Anfangs- und Endzeitpunkt jedes Vorgangs festgestellt. Als Resultat ergibt sich ein oder auch mehrere kritische Pfade, jedoch steigt mit jedem weiteren das Risiko für ungeplante Verzögerungen im Zeitplan.
+**5.	Identifizierung des kritischen Pfades**
+    
+    Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden oder es werden die frühesten Anfangs- und Endzeitpunkte, sowie die spätesten Anfangs- und           Endzeitpunkt jedes Vorgangs festgestellt. Als Resultat ergibt sich ein oder auch mehrere kritische Pfade, jedoch steigt mit jedem weiteren das Risiko für ungeplante             Verzögerungen im Zeitplan.
 
-6.	Aktualisieren des Netzplans 
-Der letzte Schritt beinhaltet die Aktualisierung des Netzplans auf Basis der während des Projekts gesammelten Erfahrungen, die Dauer bestimmter Aufgaben betreffend. Dies hilft vor allem dabei, den Fortschritt innerhalb des Zeitplans zu beurteilen. 
+**6.	Aktualisieren des Netzplans**
+    
+    Der letzte Schritt beinhaltet die Aktualisierung des Netzplans auf Basis der während des Projekts gesammelten Erfahrungen, die Dauer bestimmter Aufgaben betreffend. Dies         hilft vor allem dabei, den Fortschritt innerhalb des Zeitplans zu beurteilen. 
 
 
 ## 2. Vor- und Nachteile der Methode
