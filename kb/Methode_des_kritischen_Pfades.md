@@ -5,45 +5,54 @@ author: ChristinaHartung
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu Methode_des_kritischen_Pfades um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Methode des kritischen Pfades (engl. Critical Path Method CPM) stellt ein Projektmanagementtool dar, welches in den späten 1950er Jahren entwickelt wurde um die Problematik der durch ineffiziente Terminplanung verursachten Kostensteigerungen zu lösen. Sie ist dem klassischen Projektmanagement zuzuordnen und wird genutzt um zentrale Aufgaben zu ermitteln, die minimale Projektdauer zu determinieren und eine gewisse Planungsflexibilität zu bestimmen.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+
+## 1. Der kritische Pfad
+### 1.1 Was ist der kritische Pfad
+
+“The sequence of activities that represents the longest path through a project with determines the shortest possible duration”. Vereinfacht gesagt ist der kritische Pfad (engl. Critical Path CP) die längste Zeit, die für den Abschluss eines Projektes benötigt wird.
+
+
+### 1.2 Zentrale Schritte auf drem Weg zur Identifizierung des kritischen Pfades 
+
+1.	Bestimmung und Auflistung aller Vorgänge
+Als Grundlage für das weitere Vorgehen wird zunächst ein sogenannter Projekt-Struktur-Plan (PSP, engl. Work Breakdown Structure WBS) erstellt, welcher nur übergeordnete Vorgänge enthält. Der Verzicht auf detaillierte Abläufe sorgt dafür, dass der kritische Pfad am Ende nicht zu komplex und unübersichtlich gestaltet ist.
+
+2.	Ermittlung aller Abfolgen und Abhängigkeiten
+Im zweiten Schritt stellt sich die Frage, wann welche Aufgaben erledigt werden können und sollen. Hierbei gibt es solche, die parallel zueinander abgeschlossen werden können, aber auch jene, welche voneinander abhängig sind. Ein Vorgang kann in diesem Fall erst begonnen werden nachdem ein anderer abgeschlossen wurde. 
+
+3.	Erstellung eines Netzplans
+Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein Netzplan (engl. Critical Path Analysis Chart CPA) entweder per Hand oder mit Hilfe eines Softwareprogramms gezeichnet.
+
+4.	Abschätzung des Zeitbedarfs aller Aufgaben 
+Im nächsten Schritt wird mittels Erfahrungen der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die Drei-Zeiten-Methode sein, wobei der Zeitbedarf mit folgenden Werten geschätzt wird:
+
+a = Minimalschätzung (Best Case)
+m = Wahrscheinlichste Schätzung (Most Likely Case)
+b = Maximalschätzung (Worst Case)
+
+Aus diesen Werten ergeben sich schließlich zwei zur Berechnung anwendbare Formeln, E steht dabei für die Schätzung (engl. Estimate):
+
+I.	E = (a + 4m + b) / 6 
+II.	E = (a + m + b) / 3
+Der Unterschied zwischen I und II besteht lediglich in der Gewichtung der Werte. Während bei der I. gängigeren Methode die wahrscheinlichste Schätzung am stärksten gewichtet wird, besteht bei II kein Unterschied in der Gewichtung der Werte.                    Je nach Aufgabe kann es auch sinnvoll sein Pufferzeiten einzuplanen.
+
+5.	Identifizierung des kritischen Pfades 
+Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden oder es werden die frühesten Anfangs- und Endzeitpunkte, sowie die spätesten Anfangs- und Endzeitpunkt jedes Vorgangs festgestellt. Als Resultat ergibt sich ein oder auch mehrere kritische Pfade, jedoch steigt mit jedem weiteren das Risiko für ungeplante Verzögerungen im Zeitplan.
+
+6.	Aktualisieren des Netzplans 
+Der letzte Schritt beinhaltet die Aktualisierung des Netzplans auf Basis der während des Projekts gesammelten Erfahrungen, die Dauer bestimmter Aufgaben betreffend. Dies hilft vor allem dabei, den Fortschritt innerhalb des Zeitplans zu beurteilen. 
+
+
+## 2. Vor- und Nachteile der Methode
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Methode_des_kritischen_Pfades/test-file.jpg)
 
@@ -57,33 +66,6 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * eine 
 * Punkteliste
   - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -101,4 +83,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+Kurzbeschreibung zu Methode_des_kritischen_Pfades um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+
 
