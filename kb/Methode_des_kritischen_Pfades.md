@@ -11,7 +11,7 @@ Die Methode des kritischen Pfades (engl. Critical Path Method CPM) stellt ein Pr
 ## 1. Der kritische Pfad
 ### 1.1 Was ist der kritische Pfad
 
-“The sequence of activities that represents the longest path through a project with determines the shortest possible duration”. Vereinfacht gesagt ist der kritische Pfad (engl. Critical Path CP) die längste Zeit, die für den Abschluss eines Projektes benötigt wird.
+“The sequence of activities that represents the longest path through a project with determines the shortest possible duration” ^2. Vereinfacht gesagt ist der kritische Pfad (engl. Critical Path CP) die längste Zeit, die für den Abschluss eines Projektes benötigt wird.
 
 
 ### 1.2 Zentrale Schritte auf drem Weg zur Identifizierung des kritischen Pfades 
@@ -28,15 +28,17 @@ Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein Netzplan (engl. C
 4.	Abschätzung des Zeitbedarfs aller Aufgaben 
 Im nächsten Schritt wird mittels Erfahrungen der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die Drei-Zeiten-Methode sein, wobei der Zeitbedarf mit folgenden Werten geschätzt wird:
 
-a = Minimalschätzung (Best Case)
-m = Wahrscheinlichste Schätzung (Most Likely Case)
-b = Maximalschätzung (Worst Case)
+    a = Minimalschätzung (Best Case)
+    m = Wahrscheinlichste Schätzung (Most Likely Case)
+    b = Maximalschätzung (Worst Case)
 
 Aus diesen Werten ergeben sich schließlich zwei zur Berechnung anwendbare Formeln, E steht dabei für die Schätzung (engl. Estimate):
 
-I.	E = (a + 4m + b) / 6 
-II.	E = (a + m + b) / 3
-Der Unterschied zwischen I und II besteht lediglich in der Gewichtung der Werte. Während bei der I. gängigeren Methode die wahrscheinlichste Schätzung am stärksten gewichtet wird, besteht bei II kein Unterschied in der Gewichtung der Werte.                    Je nach Aufgabe kann es auch sinnvoll sein Pufferzeiten einzuplanen.
+    I.	E = (a + 4m + b) / 6 
+   II.	E = (a + m + b) / 3
+   
+Der Unterschied zwischen I und II besteht lediglich in der Gewichtung der Werte. Während bei der I. gängigeren Methode die wahrscheinlichste Schätzung am stärksten gewichtet wird, besteht bei II kein Unterschied in der Gewichtung der Werte. 
+Je nach Aufgabe kann es auch sinnvoll sein Pufferzeiten einzuplanen.
 
 5.	Identifizierung des kritischen Pfades 
 Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden oder es werden die frühesten Anfangs- und Endzeitpunkte, sowie die spätesten Anfangs- und Endzeitpunkt jedes Vorgangs festgestellt. Als Resultat ergibt sich ein oder auch mehrere kritische Pfade, jedoch steigt mit jedem weiteren das Risiko für ungeplante Verzögerungen im Zeitplan.
