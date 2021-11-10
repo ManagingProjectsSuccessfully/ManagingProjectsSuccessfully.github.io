@@ -34,7 +34,7 @@ Die Probleme von Entwicklungsprojekten, welche die Produktivität von Entwicklun
 
 ### Lösungsansätze [^5]
 Lösungsansätze, um die Kernprobleme von Entwicklungsprojekten zu bewältigen, sind mit einer Kombination aus klassischen und agilen Projektmanagement gegeben. Hierdurch wird durch die Gestaltung der Schnittstellen eine Visualisierung des Gesamtprozesses versucht. 
-Dies beginnt in der Planungsphase des Projekts, da hier das größte Optimierungspotenzial besteht. Eine Visualisierung wird mit dem [Lean Management](https://de.wikipedia.org/wiki/Lean_Management)herbeigeführt, was zu Transparenzerhöhung führt. 
+Dies beginnt in der Planungsphase des Projekts, da hier das größte Optimierungspotenzial besteht. Eine Visualisierung wird mit dem [Lean Management](https://de.wikipedia.org/wiki/Lean_Management) herbeigeführt, was zu Transparenzerhöhung führt. 
 Weitere Methoden zur Lösung der Kernprobleme sind beispielsweise Scrum sowie virtuelle Planungsmethoden, wie 3D-5D, aus dem Bereich des agiles Projektmanagements. 
 
 # Entwicklungsprojekte, die zu sozialem Fortschritt in Entwicklungsländern führen sollen
