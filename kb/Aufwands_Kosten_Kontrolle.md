@@ -73,7 +73,7 @@ Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, näm
 [^3]: https://www.can-do.de/blog/projektkosten-wie-du-übersicht-und-kontrolle-über-deine-ausgaben-behältst
 [^4]: http://www.pm-schluessel.com/index.php?option=com_content&view=article&id=213&Itemid=331 
 [^5]: https://www.microtool.de/wissen-online/was-ist-die-earned-value-analyse/
-[^6]: https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html
+[^6]: https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html 
 
 
 
