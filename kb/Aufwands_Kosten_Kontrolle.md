@@ -14,14 +14,6 @@ Bei der Aufwands- und Kostenkontrolle geht es um den Vergleich der kalkulierten 
 # Was sind Projektkosten
 Projektkosten sind wirtschaftliche Güter, die zur Erbringung einer Projektleistung gebraucht werden. Sie setzen sich aus den finanziellen Mitteln und den verbrauchten Ressourcen zusammen.
 Beispiele hierfür sind Personalkosten, Materialkosten, Kosten für Beratungen und Lizenzen, sowie Kapitalkosten und Reserven für unvorhergesehene Ausgaben.[^1][^2]
-
-
-Die wesentlichen Prozesse des Projektmanagements, die die Projektkosten betreffen, umfassen
-
-die Kostenplanung,
-die Kostenschätzung,
-die Budgetierung sowie das anschließende
-Controlling der Kosten.
  
 
 # Projektkosten bestimmen
@@ -36,7 +28,8 @@ Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Prokjekt vorge
 Die Earned Value Analysis oder auch Ertragswertanalyse bezieht die Kosten und Leistungen eines Projekts aufeinander und erlaubt so eine präziese Kostenkontrolle.
 Zum Stichtag werden sowohl die Kosten als auch die Leistungen mit den Planwerten verglichen.
 
-![image](https://user-images.githubusercontent.com/92396490/140614206-253046fc-27f4-4055-827b-78d6c1817b08.png) [^4]
+![image](https://user-images.githubusercontent.com/92396490/141166513-24ad95c1-02c7-40e9-8d1c-ec3405cb887a.png) [^4]
+
 
 
 Die folgenden Kennzahlen benötigt man, um die Projektkosten zu kontrollieren:
@@ -48,12 +41,12 @@ Aus der Projektplanung entnimmt man folgende Kennzahlen:
 * Den geplanten Fertigstellungsgrad, also das geplante Verhältnis der zum Stichtag erbrachten Leistung verglichen mit der Gesamtleistung, die für das Projekt notwendig ist
 Multipliziert man die beiden Werte erhält daraus den geplanten Fertigstellungswert.
 
-Zum Stichtag muss ebenfalls der IST-Stand erhoben werden:
+Zum Stichtag muss ebenfalls der Ist-Stand erhoben werden:
 
-* Die aktuellen IST-Kosten berechnen sich unter anderem aus den Kosten für Personal, Material, externe Dienstleister und sonstigen Kosten.
+* Die aktuellen Ist-Kosten berechnen sich unter anderem aus den Kosten für Personal, Material, externe Dienstleister und sonstigen Kosten.
 
-Für die Ertragswertanalyse vergleicht man nun die aktuellen IST-Kosten mit dem aktuellen Fertigstellungswert. 
-Liegen die IST-Kosten über dem Fertigungsstellungswert, dann wurden entweder einzelne Schritte in der Kostenplanung nicht bedacht oder vom Aufwand her unterschätzt. 
+Für die Ertragswertanalyse vergleicht man nun die aktuellen Ist-Kosten mit dem aktuellen Fertigstellungswert. 
+Liegen die Ist-Kosten über dem Fertigungsstellungswert, dann wurden entweder einzelne Schritte in der Kostenplanung nicht bedacht oder vom Aufwand her unterschätzt. [^5] [^6]
 
 Für eine genauere Beschreibung siehe: [Earned Value Analyse](Earned_Value_Analyse.md)
 
@@ -79,7 +72,8 @@ Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, näm
 [^2]: https://www.akademie.de/de/wissen/kostenplanung-projekte/aufwandsermittlung-kostenschaetzung
 [^3]: https://www.can-do.de/blog/projektkosten-wie-du-übersicht-und-kontrolle-über-deine-ausgaben-behältst
 [^4]: http://www.pm-schluessel.com/index.php?option=com_content&view=article&id=213&Itemid=331 
-
+[^5]: https://www.microtool.de/wissen-online/was-ist-die-earned-value-analyse/
+[^6]: https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html
 
 
 
