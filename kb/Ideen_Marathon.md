@@ -1,21 +1,22 @@
 ---
 title: Ideen_Marathon
-tags: agil klassisch
+tags: klassisch
 author: MrSommC
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Ideen_Marathon um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+
+Um ein erstes Verständis zu schaffen folgt zunächst eine Kurzbeschreibung zum Ideen_Marathon. 
+Der Ideen_Marathon wurde in den 1980er Jahren von Takeo Higuchi entwickelt, es handelt sich um eine Kreativitätstechnik
+zur Ideenfindung für Einzelpersonen[^1].
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
+Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu.
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
+Literatur kann via Fußnoten angegeben werden. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
@@ -97,7 +98,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [Ideen-Marathon-jeden Tag eine gute Idee](https://www.creaffective.de/2010/12/ideen-marathon-jeden-tag-eine-gute-idee/)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
