@@ -43,17 +43,17 @@ Multipliziert man die beiden Werte erhält daraus den geplanten Fertigstellungsw
 
 Zum Stichtag muss ebenfalls der Ist-Stand erhoben werden:
 
-* Die aktuellen Ist-Kosten berechnen sich unter anderem aus den Kosten für Personal, Material, externe Dienstleister und sonstigen Kosten.
+* Die aktuellen Ist-Kosten berechnen sich unter anderem aus den Kosten für Personal, Material, externe Dienstleister und sonstigen Kosten.[^5]
 
 Für die Ertragswertanalyse vergleicht man nun die aktuellen Ist-Kosten mit dem aktuellen Fertigstellungswert. 
-Liegen die Ist-Kosten über dem Fertigungsstellungswert, dann wurden entweder einzelne Schritte in der Kostenplanung nicht bedacht oder vom Aufwand her unterschätzt. [^5] [^6]
+Liegen die Ist-Kosten über dem Fertigungsstellungswert, dann wurden entweder einzelne Schritte in der Kostenplanung nicht bedacht oder vom Aufwand her unterschätzt. [^6][^7]
 
 Für eine genauere Beschreibung siehe: [Earned Value Analyse](Earned_Value_Analyse.md)
 
 # Nutzen der Aufwans- und Kostenanalyse 
 Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Prokjekt vorgesehenen Budgets zu sichern.
-Meist wird der Arbeitsfortschritt in wöchentlichen Abständen überprüft. Bei Projekten mit Laufzeiten von 8 bis 12 Monaten reicht auch ein monatlicher Check.
-Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, nämlich wenn bestimmte Arbeitspakete zu geplanten Meilensteinen abgeschlossen sind.
+Meist wird der Arbeitsfortschritt in wöchentlichen Abständen überprüft. Bei Projekten mit einer deutlich längeren Laufzeiten von mehreren Monaten reicht auch ein monatlicher Check.
+Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, nämlich wenn bestimmte Arbeitspakete zu geplanten Meilensteinen abgeschlossen sind. 
 
 
 
@@ -72,8 +72,9 @@ Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, näm
 [^2]: https://www.akademie.de/de/wissen/kostenplanung-projekte/aufwandsermittlung-kostenschaetzung
 [^3]: https://www.can-do.de/blog/projektkosten-wie-du-übersicht-und-kontrolle-über-deine-ausgaben-behältst
 [^4]: http://www.pm-schluessel.com/index.php?option=com_content&view=article&id=213&Itemid=331 
-[^5]: https://www.microtool.de/wissen-online/was-ist-die-earned-value-analyse/
-[^6]: https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html 
+[^5]: https://wiki.hslu.ch/controlling/Earned_Value_Analyse#Soll-Kosten_.28Earned_Value_.28EV.29.29
+[^6]: https://www.microtool.de/wissen-online/was-ist-die-earned-value-analyse/
+[^7]: https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html 
 
 
 
