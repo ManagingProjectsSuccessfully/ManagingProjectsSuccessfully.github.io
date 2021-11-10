@@ -16,14 +16,26 @@ Die Meilensteintrendanaylse soll den Projektverantwortlichen einen visuellen Üb
 * Wird das Projekt rechtzeitig fertig?
 * Können die einzelnen Termine eingehalten werden?[^3]
 
-##Vorraussetzungen
+## Vorraussetzungen
 Um eine erfolgreiche Meilensteintrendanalyse durchzuführen, muss das Projekt zu Beginn in sinnvolle Teilprojekte zerlegt werden, die eindeutig definierte Meilensteine darstellen. Dabei müssen klare und realistische Ziele gesetzt werden[^4].
 
-##Einsatzbereiche
+## Einsatzbereiche
 Die Meilensteintrendanalyse kann grundsättzlich bei allen Arten von Projekten angewendet werden. Sie dienen neben der Übersicht für die Interessensgruppen am Projekt auch als Zwischenberichte ans höhrere Management.
 
-##Ablauf
-Nachdem am Anfang des Projektes die Meilensteine festgelegt wurden, folgt im Laufe der Projektdurchführung regelmäßige Statusbesprechungen um die Entwicklung der Meilensteine im Blick zu haben. DAbei sollten alle Mitarbeiter anwesend sein, die für einen oder mehrere Meilensteine verantwortlich sind. Bei diesen Meetings werden neben bereits erledigten Aufgaben aufgetretene Probleme, Planungsschwächen und weitere Vorgehensweisen besprochen. 
+## Ablauf
+Nachdem am Anfang des Projektes die Meilensteine festgelegt wurden, folgt im Laufe der Projektdurchführung regelmäßige Statusbesprechungen um die Entwicklung der Meilensteine im Blick zu haben. Dabei sollten alle Mitarbeiter anwesend sein, die für einen oder mehrere Meilensteine verantwortlich sind. Bei diesen Meetings werden neben bereits erledigten Aufgaben aufgetretene Probleme, Planungsschwächen und weitere Vorgehensweisen besprochen. 
+
+## Aufbau
+Besonders wirkungsvoll ist die grafische DArsteellung der Meilensteine. Dazu wird ein Diagramm erstellt. An der y-Achse werden die geplanten Termine der Meilensteine abgetragen. An der x-Achse werden die tatsächlichen Berichtszeitpunkte eingetragen.
+![image](https://user-images.githubusercontent.com/92922561/141102712-a9303b9b-83bd-424f-9a6b-8bb75ccfd1aa.png)
+
+## Analyse
+
+* Horizontale Linien: Hier wurde der Termin wie geplant eingehalten. Es gibt keine Verzögerungen und der nächste Projektschritt kann auf das abgeschlossene Teilprojekt aufgebaut werden
+* Steigende Linien: Der Termin hat sich verzögert. Es sollen dringend Maßnahmen ergriffen werden, um einigermaßen im Zeitplan bleiben zu können, damit sich andere Projektschritte nicht weiter nach hinten verschieben.
+* Fallende Linien: Hier konnte der Termin nicht nur eingehalten werden, sondern der Meilenstein auch frühzeitig abgeschlossen werden. Dies ist sehr von Vorteil wenn sich zukünftige Termine im Projekt verzögern werden, da eine Art Zeitpuffer geschaffen wurde.
+
+
 
 
 
