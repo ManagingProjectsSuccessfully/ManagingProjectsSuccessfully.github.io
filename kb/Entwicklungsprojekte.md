@@ -57,8 +57,8 @@ Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus 
 
 # Weiterführende Literatur
 
-* https://www.spiegel.de/ausland/entwicklungsprojekte-fuer-afrika-was-wirklich-helfen-wuerde-a-11767c47-e20d-44cf-b15f-554b5fc7d7a4
-* https://www.faz.net/aktuell/gesellschaft/entwicklungsprojekt-in-ghana-kernkompetenz-fuer-shea-baeuerinnen-11485493.html 
+* [Entwicklungsprojekte für Ghana](https://www.faz.net/aktuell/gesellschaft/entwicklungsprojekt-in-ghana-kernkompetenz-fuer-shea-baeuerinnen-11485493.html )
+* [Entwicklungsprojekte für Afrika]( https://www.spiegel.de/ausland/entwicklungsprojekte-fuer-afrika-was-wirklich-helfen-wuerde-a-11767c47-e20d-44cf-b15f-554b5fc7d7a4)
 
 
 # Quellen
