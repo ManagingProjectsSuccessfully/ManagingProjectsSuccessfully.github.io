@@ -54,7 +54,7 @@ Koordinierungsaufgaben, Kontaktfreudigkeit, Überzeugungsfähigkeit, Durchsetzun
 
 ![Projektleiter_Fähigkeiten](Faehigkeiten_Projektleiter/Projektleiter_Führungskraft.png)
 
-*Projektleiter_Fähigkeiten*[^4]
+*Projektleiter_Fähigkeiten*[^3]
 
 # Fähigkeiten des Projektleiters als Unternehmer
 
@@ -66,7 +66,7 @@ Auch wenn der Projektleiter kein Unternehmen leitet, ähnelt die Aufgabe der ein
 
 # Fähigkeiten des Projektleiters in Digitalisierungsumgebung
 
-Entwicklungen bei digitalen Technologien verändern Verhalten, Produktivität und Leistung. Da Unternehmen Projekte zur Einführung von Technologie einsetzen, benötigen Projektleiter bestimmte digitale Fähigkeiten. Projektleiter automatisieren sich wiederholende Aufgaben und ermöglichen die Genauigkeit bei der Schätzung von Aufgaben mithilfe von Künstliche Intelligenz. Daher entwickeln sich  die Fähigkeiten, die von einem Projektleiter benötigt werden, weiter.[^5] 
+Entwicklungen bei digitalen Technologien verändern Verhalten, Produktivität und Leistung. Da Unternehmen Projekte zur Einführung von Technologie einsetzen, benötigen Projektleiter bestimmte digitale Fähigkeiten. Projektleiter automatisieren sich wiederholende Aufgaben und ermöglichen die Genauigkeit bei der Schätzung von Aufgaben mithilfe von Künstliche Intelligenz. Daher entwickeln sich  die Fähigkeiten, die von einem Projektleiter benötigt werden, weiter.[^4] 
 
 * Datenwissenschaft: Datenmanagement Analytik mit große Datenmengen
 * Sicherheit und Datenschutz Wissen
@@ -82,6 +82,7 @@ Erfahrung in Projektarbeit und Zertifizierung im Projektmanagement sind gute Mö
 
 * [10 wichtige Fähigkeiten für effektives Projektmanagement](https://www.projectwizards.net/de/blog/2020/03/pm-skills#prioritization)
 * [25 wichtige Projektmanagement-Kompetenzen, die Sie für Ihren Erfolg benötigen](https://asana.com/de/resources/project-management-skills)
+* [Welche Eigenschaften braucht ein guter Projektleiter?](https://www.experteer.de/magazin/welche-eigenschaften-braucht-ein-guter-projektleiter/)
 
 # Weiterführende Literatur
 
@@ -95,10 +96,7 @@ Erfahrung in Projektarbeit und Zertifizierung im Projektmanagement sind gute Mö
 [^2]: [Welche Fähigkeiten und Eigenschaften benötigt ein Projektleiter?](https://www.onpulson.de/3532/welche-faehigkeiten-und-eigenschaften-benoetigt-ein-projektleiter/)
 )
 
-[^3]: [Welche Eigenschaften braucht ein guter Projektleiter?](https://www.experteer.de/magazin/welche-eigenschaften-braucht-ein-guter-projektleiter/)
+[^3]: [Projektleiter DAA Wirtschaftslexikon](https://media.daa-pm.de/ufv_wirtschaftslexikon/Html/P/Projektleiter.htm)
 
-
-[^4]: [Projektleiter DAA Wirtschaftslexikon](https://media.daa-pm.de/ufv_wirtschaftslexikon/Html/P/Projektleiter.htm)
-
-[^5]: [Fähigkeiten und Eigenschaften, die Projektleiter für den Erfolg benötigen](https://de.itpedia.nl/2021/05/11/skills-and-traits-project-leaders-need-for-success/)
+[^4]: [Fähigkeiten und Eigenschaften, die Projektleiter für den Erfolg benötigen](https://de.itpedia.nl/2021/05/11/skills-and-traits-project-leaders-need-for-success/)
 
