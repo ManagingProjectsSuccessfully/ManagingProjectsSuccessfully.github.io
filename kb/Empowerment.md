@@ -5,7 +5,11 @@ author: TobiasZuerrlein
 anrechnung: k
 ---
 
-Empowerment bedeutet Macht- und Verantwortungsübertragung vom Management an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.
+Mit Empowerment (zu englisch empowerment „Ermächtigung, Übertragung von Verantwortung“) bezeichnet man Strategien und Maßnahmen, die den Grad an Autonomie und Selbstbestimmung im Leben von Menschen oder Gemeinschaften erhöhen sollen und es ihnen ermöglichen, ihre Interessen (wieder) eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten („Hilfe zur Selbsthilfe“). Empowerment bezeichnet dabei sowohl den Prozess der Selbstbemächtigung (Emanzipation) als auch die professionelle Unterstützung der Menschen, ihr Gefühl der Macht- und Einflusslosigkeit (powerlessness, „gesellschaftspolitische Ohnmacht“) zu überwinden und ihre Gestaltungsspielräume und Ressourcen wahrzunehmen und zu nutzen. WIKI
+
+![Beipielabbildung](https://github.com/TobiasZuerrlein/ManagingProjectsSuccessfully.github.io/blob/31e5aaff79ebfc0b34c2ea6d8cdbd822f0019a05/kb/Empowerment/Empowerment1.jpg)
+
+Empowerment (englisch für Ermächtigung) bedeutet Macht- und Verantwortungsübertragung vom Management an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.
 
 # Defintion
 ## Empowerment im psychologischen und sozialen Bereich
@@ -17,6 +21,12 @@ In der heutigen Zeit dreht sich das Rad immer schneller: Ein Update jagt das and
 Diese allgemeine unvorhersehbare Betriebsamkeit nennt sich VUCA ( Volatilität/Veränderlichkeit, Ungewissheit, Komplexität, Ambiguität/Mehrdeutigkeit). In unserem Artikel   VUCA: Change Management in unserer VUCA Welt  sind wir detailliert auf Vuca eingegangen.
 
 Konnte man früher Entwicklungen sehr viel besser einschätzen und so mit ruhiger Hand deutlich langfristiger planen, ergeben sich für Unternehmen heute durch VUCA andere Herausforderungen: Agiles handeln, also die Möglichkeit schnell zu reagieren und sich schnell zu verändern ist heutzutage eine Kernkompetenz, die das Überleben eines Unternehmens sichert.
+
+Empowerment von Mitarbeitern ermöglicht Projektarbeit: Mit der
+Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des einzelnen Mitarbeiters. Die Bedeutung von reinen Linienfunktionen wird immer stärker auf Personalführung und Karriereplanung
+beschränkt. Die eigentliche Arbeit erfolgt in Projekten, welche von zeitlich
+begrenzten Projektleitern geführt werden. 
+(https://files.hanser.de/Files/Article/ARTK_LPR_9783446409477_0001.pdf)
 # Relevanz des Empowerments
 ## Reaktionsfähigkeit
 Wenn dein Unternehmen schnell reagieren muss, dann ist es sinnvoll den Mitarbeiter der mit jeweiligen Entscheidung konfrontiert ist auch entscheiden zu lassen. – Geht schneller, oder? Die Alternative wäre, die Entscheidungsanfrage erst diverse Schreibtische auf mehreren Hierarchieebenen abklappern zu lassen. Und schnell ist das nun wirklich nicht…
@@ -30,19 +40,12 @@ Auch der Zeitgeist in Sachen Jobpräferenzen hat sich deutlich verändert; die j
 ### Fachkräftemangel
 Noch dazu haben sich durch den demographischen Wandel Angebot und Nachfrage auf dem Arbeitsmarkt verändert: wo früher noch hunderte Bewerbungen auf eine Jobanzeige eingingen, ringen Unternehmen heute darum kompetenten Nachwuchs für die Stelle zu begeistern. Das heißt: die jungen Leute sind in der komfortablen Situation sich ihren Arbeitsplatz aussuchen zu können. Und da fällt die Wahl klar auf Unternehmen mit flachen Hierarchien.
 Wenn Dein Unternehmen also trotz Fachkräftemangel junge Mitarbeiter anziehen möchte, dann empfiehlt sich Empowerment.
-
-Wie Du siehst – es gibt viele Gründe für Empowerment.
-# Arten von Empowerment
-Es gibt verschiedene Wege, wie Verantwortung und Entscheidungskompetenz übertragen bzw. erhöht werden können:
-
-Von der Führung auf den Mitarbeiter
-Von der Führung ins Team
-Selbstempowerment
-Vom Mitarbeiter an die Führung (ja auch das geht!)
-Vom Mitarbeiter an seine Kollegen
-Letztenendes sollten alle fünf Arten von Empowerment im Unternehmen ihre Anwendung finden.
-Was das im Einzelnen bedeutet, beschreiben wir im nächsten Abschnitt.
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Empowerment-Zirkel (empowermnt.de)
+Der Empowerment-Zirkel ist ein methodisches Instrument der Organisationsentwicklung. Empowerment-Zirkel arbeiten analog der im Produktionsbereich bereits seit den 50er Jahren eingeführten „Qualitäts-Zirkel“ (Arbeitskreise zur Verbesserung der Produkt-Qualität und der Arbeitsqualität). Ziel ist die gemeinsame Erarbeitung von empowerment-förderlichen Organisationsstrukturen („empowering organizations“), d.h. also die Gestaltung von Arbeitsplatzstrukturen, die eine gemeinsame institutionelle „Kultur des Empowerment“ anregen und fördern;
+die Motivation der MitarbeiterInnen fördern, die ihre spezifischen Fähigkeiten und Stärken in der Empowerment-Arbeit aktivieren und ihre Identifikation mit dem Empowerment-Programm bestärken;
+das Engagement und die subjektive Arbeitszufriedenheit der MitarbeiterInnen durch die positiv erfahrene Einbindung in eine verlässliche und von allen Mitgliedern geteilte Organisationskultur befördern.
+Die Arbeit an einer institutionellen „Kultur des Empowerment“ ist eine dauerhafte, nie wirklich abgeschlossene Arbeit im Team. Hierzu bedarf es eines festen Ortes und eines festen organisatorischen Settings. Die im folgenden aufgelisteten Themen strukturieren das Gespräch.
+# Hier ein Beispieltext mit ei paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
