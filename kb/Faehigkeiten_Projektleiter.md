@@ -60,7 +60,7 @@ Koordinierungsaufgaben, Kontaktfreudigkeit, Überzeugungsfähigkeit, Durchsetzun
 
 Auch wenn der Projektleiter kein Unternehmen leitet, ähnelt die Aufgabe der eines Geschäftsführers – im Kleinformat und für begrenzte Zeit: Es gilt, Budgets zu planen und mit ihnen zu wirtschaften, Risiken zu identifizieren und zu bewerten, Handlungsstrategien zu entwerfen. Auch Marketingaktivitäten gehören dazu, denn das Projekt muss nach außen gut verkauft und bekannt gemacht werden, damit es Erfolg hat und man, wenn nötig, Partner gewinnen kann. Erfahrene Projektleiter sind daher „Unternehmer im Unternehmen“[^1].
 
-* Risikomanagement
+* Risikomangement
 * Überblick über das ganze Projekt
 
 # Fähigkeiten des Projektleiters in Digitalisierungsumgebung
@@ -77,7 +77,7 @@ Entwicklungen bei digitalen Technologien verändern Verhalten, Produktivität un
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Projektmagazin](https://www.projektmagazin.de/)
 * [Projektmanagementhandbuch](https://www.projektmanagementhandbuch.de/)
 
 # Weiterführende Literatur
