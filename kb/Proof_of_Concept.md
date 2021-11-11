@@ -14,6 +14,11 @@ Der englische Begriff Proof of Concept (kurz POC) bezeichnet die Evaluation eine
 Proof of Concept bezeichnet das Prüfen eines Konzeptes bzw. eines Projektes auf dessen Machbarkeit. Dabei wird anhand von Faktoren wie Investitionsrisiken, Anforderungen an technische Applikationen oder Software, Funktions- und Akzeptanztests von Produkten oder Dienstleistungen validiert ob das Umsetzungsprojekt durchgeführt werden soll. Er dient also als Entscheidungsbasis für den weiteren Projektverlauf.  
 Der Proof of Concept ist mit einer der ersten Meilensteine im Projektmanagement und legt den Grundstein für ein erfolgreiches Projekt.
 
+
+![Einordnung des Proof of Concept](Proof_of_Concept/proof-of-concept-einordnung.jpg)
+
+*Einordnung des Proof of Concept* [^4]
+
 # Der Aufbau und die Funktionsweise eines Proof of Conceptes
 
 Es gibt unterschiedliche Strategien einen Proof of Concept für das Umsetzungsprojekt zu nutzen. Dazu gehört die direkte Umsetzung einer Idee, das Testen in Form eines Kleinprojekts oder eine Nutzenabschätzung bei Forschungszwecken.
@@ -30,9 +35,6 @@ So ist das Projekt erfolgreich und ein Nachweis den möglichen Investoren reicht
 
 Ein klasschischer Anwendungsbereich eines Proof of Concepts sind IT-Projekte. Bei komplexen Implementierungsprojekten wird die zu implementierende Software zunächst rudimentär und mich technischen Durchstichen in die bestehenede Systemlandschaft integriert. Diese Integration zeigt Abhängigkeiten und Schwierigkeiten zu den Umsystemen auf die Umsetzungsprojekt geachtet werden muss. In einem Entwicklungsprozess für neue Anwendungssoftware oder für IT-Sicherheitslösungen wird dieser Projektschritt sehr häufig integriert und legt den Grundstein für die folgenden Projektabschnitte. Das Projektteam erhält durch den Proof of Concept eine konkrete Arbeitsbasis, auf die in der Folge aufgesetzt werden kann. In der IT-Sicherheit dienen solche Konzepttests auch dazu, Sicherheitslücken in Betriebssystemen oder Anwendungssoftware nachzuweisen.
 
-![Beispielabbildung](Proof_of_Concept/test-file.jpg)
-
-*lustiges Testbild*
 
 # Proof of Concept in der Betriebswirtschaft [^3]
 
@@ -45,7 +47,7 @@ Anders als bei einem Proof of Concept im IT-Bereich werden betriebswirtschaftlic
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Proof_of_Concept.md)
+* [Proof-Of-Technologie](Proof_of_Technologie.md)
 
 # Weiterführende Literatur
 
@@ -56,6 +58,7 @@ Anders als bei einem Proof of Concept im IT-Bereich werden betriebswirtschaftlic
 [^1]: [https://www.it-business.de/was-ist-ein-proof-of-concept-a-666615/](https://www.it-business.de/was-ist-ein-proof-of-concept-a-666615/)
 [^2]: [https://de.wikipedia.org/wiki/Proof_of_Concept](https://de.wikipedia.org/wiki/Proof_of_Concept)
 [^3]: [https://www.businessinsider.de/gruenderszene/lexikon/begriffe/proof-of-concept/](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/proof-of-concept/)
+[^4]: [https://smartbusinessplan.de/businessplan-lexikon/proof-of-concept/]
 
 
 ______
