@@ -4,6 +4,63 @@ tags: agil klassisch
 author: jsk0lb
 anrechnung: k oder a
 ---
+## Schätzungen in Projekten
+Diese Arbeit setzt sich mit der 3-Punkt-Methode auseinander. Dabei handelt es sich um eine Schätzmethode des Projektmanagements. Schätzungen liefern immer unsichere Ergebnisse, da sie sich auf die Zukunft beziehen. „Es kann sich um eine pessimistische oder auch um eine optimistische Berechnung handeln.“[^1] Beide sind schlecht für das Projektmanagement, denn bei der zu pessimistischen Variante wird der Endtermin des Projekts zu weit nach hinten geschoben, bei der zu optimistischen gerät das Projekt in Verzug. Die Terminplanung innerhalb eines Projektes ist allerdings auf gute Berechnung angewiesen. Je realistischer die Schätzung ist, umso genauer kann der Endtermin des Projekts geplant werden. Oft erhält man aber erst im Verlauf eines Projektes immer bessere Daten, mit denen die Schätzungen genauer bestimmt werden können.
+## Aufgabe der Projektleiter
+Verantwortlich für die Prognose ist der Projektleiter. Um diese bestmöglich festzulegen, können sie für die Schätzung folgenden Quellen nutzen: 
+
+* die Erfahrungen von Experten abfragen
+* bereits bekannte Kosten für Material und Personal planen
+* Daten aus bereits durchgeführten Projekten berücksichtigen
+## Die 3-Zeiten-Methode
+
+Bei der 3-Zeiten-Methode, oder auch Dreipunkt-Schätzung genannt, schätzen die Experten für jeden Vorgang drei Werte. Ein optimistischer, ein wahrscheinlicher und ein pessimistischer Wert. Aus diesen drei Schätzwerten berechnet die Drei-Punkt-Schätzung den Erwartungswert mit Standardabweichung.[^2] Es ist häufig unklar, wann ein Szenario als Best-Case- bzw. Worst-Case-Szenario berücksichtigt werden sollte und wann es ignoriert werden darf, weil es zu unwahrscheinlich ist.[^3] 
+
+Die Dauer des Vorgangs wird dann mit der folgenden Formel ermittelt:
+
+„FORMEL EINZELWERT“ 
+
+Der Schätzfehler wird durch die Standardabweichung angegeben. Er wird mit der folgenden Formel berechnet:
+
+„STANDARDABWEICHUNG“
+
+Die Dreipunkt-Schätzung gleicht Schätzfehler aus und liefert so realistischere Werte als die Einzelwert-Schätzung. Abbildung 3 zeigt, wie der Mittelwert bei der Dreipunkt-Schätzung ermittelt wird. Die Schätzwerte werden an die horizontale Achse geschrieben und an die dazugehörigen Wahrscheinlichkeiten der Prognosen an die vertikale Achse. Der Verlauf der Schätzwerte ist eine Kurve. Die absolute Wahrscheinlichkeit wird durch Fläche unter der Kurve dargestellt. Das Dreieck ist eine Annäherung an die Kurve und lässt sich vereinfacht durch folgende Formel berechnen.
+
+
+„MITTELWERT BERECHNUNG“
+
+(Bohinc, 2019)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kurzbeschreibung zu Drei_Zeiten_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
