@@ -15,7 +15,7 @@ Die Meilensteintrendanalyse soll den Projektverantwortlichen einen visuellen Üb
 * Wird das Projekt rechtzeitig fertig?
 * Können die einzelnen Termine eingehalten werden?[^3].
 
-## Vorraussetzungen
+## Voraussetzungen
 Um eine erfolgreiche Meilensteintrendanalyse durchzuführen, muss das Projekt zu Beginn in sinnvolle Teilprojekte zerlegt werden, die eindeutig definierte Meilensteine darstellen. Dabei müssen klare und realistische Ziele gesetzt werden[^4].
 
 ## Einsatzbereiche
@@ -25,7 +25,7 @@ Die Meilensteintrendanalyse kann grundsätzlich bei allen Arten von Projekten an
 Nachdem am Anfang des Projektes die Meilensteine festgelegt werden, folgt im Laufe der Projektdurchführung regelmäßige Statusbesprechungen um die Entwicklung der Meilensteine im Blick zu haben. Dabei sollten alle Mitarbeiter anwesend sein, die für einen oder mehrere Meilensteine verantwortlich sind. Bei diesen Meetings werden neben bereits erledigten Aufgaben, dabei aufgetretene Probleme, Planungsschwächen und weitere Vorgehensweisen für folgende Meilensteine besprochen[^4]. 
 
 ## Aufbau
-Besonders wirkungsvoll ist die grafische Darstellung der Meilensteine. Dazu wird ein Diagramm erstellt. An der y-Achse werden die geplanten Termine der Meilensteine abgetragen. An der x-Achse werden die tatsächlichen Berichtszeitpunkte eingetragen. Dabei ensteht eine Winkelhalbierende. Idealerweise fallen die geplanten Termine mit den letzten Berichtszeitpunkten zusammen. Der Termin wurde eingehalten. Dies ist in der Realität aber sehr selten[^6].
+Besonders wirkungsvoll ist die grafische Darstellung der Meilensteine. Dazu wird ein Diagramm erstellt. An der y-Achse werden die geplanten Termine der Meilensteine abgetragen. An der x-Achse werden die tatsächlichen Berichtszeitpunkte eingetragen. Dabei entsteht eine Winkelhalbierende. Idealerweise fallen die geplanten Termine mit den letzten Berichtszeitpunkten zusammen. Der Termin wurde eingehalten. Dies ist in der Realität aber sehr selten[^6].
 
 ![image](https://user-images.githubusercontent.com/92922561/141102712-a9303b9b-83bd-424f-9a6b-8bb75ccfd1aa.png)
 
@@ -37,7 +37,7 @@ Die Steigungen im Diagramm haben folgende Bedeutungen:
 * Fallende Linien: Hier konnte der Termin nicht nur eingehalten werden, sondern der Meilenstein auch frühzeitig abgeschlossen werden. Dies ist sehr von Vorteil wenn sich zukünftige Termine im Projekt verzögern werden, da eine Art Zeitpuffer geschaffen wurde, der später genutzt werden kann, um bei kommenden Meilensteinen den Zeitplan einhalten zu können [^1].
 
 #Tools für die Meilensteintrendanalyse 
-Obwohl sich die Meilsteinstrendanalyse auch ganz einfach auf dem Papier anwenden lässt, gibt es mittlerweile zahlreiche Excel Add-ons, Tools bei Microsoft Project oder Cloudbasierte Web-Applikationen wie zum Beispiel von SAP, die den Zweck haben, den Projektfortschritt professionell zu präsentieren [^5].
+Obwohl sich die Meilensteinstrendanalyse auch ganz einfach auf dem Papier anwenden lässt, gibt es mittlerweile zahlreiche Excel Add-ons, Tools bei Microsoft Project oder Cloudbasierte Web-Applikationen wie zum Beispiel von SAP, die den Zweck haben, den Projektfortschritt professionell zu präsentieren [^5].
 
 # Siehe auch
 
