@@ -12,13 +12,12 @@ Der [Projektleiter](https://de.wikipedia.org/wiki/Projektleiter) ist für die op
 
 Eine der wichtigsten Personen für den reibungslosen Projektablauf ist der Projektleiter. Ein Projektleiter hat die Aufgabe das Projekt zu initiieren und erfolgreich zum Abschluss zu bringen. Er definiert in der Vorbereitungsphase das Ziel, Budget und Termine und plant die einzelnen Projektschritte. Das Team, das für die Durchführung des Projekts bestimmt ist, koordiniert und motiviert er. Er legt Verantwortlichkeiten fest und verteilt die anfallenden Aufgaben. Dabei ist eine klare und eindeutige Kommunikation äußerst wichtig, damit alle Beteiligten die Aufgaben und Ziele verstehen und umsetzen können[^1]. 
 
-Als Projektleiter muss man sowohl fundiertes fachliches Know-how, als auch die Kompetenzen einer Führungskraft, eines Projektmanagers und eines Unternehmers mitbringen. Im Idealfall füllt der Projektleiter vier Rollen aus.
+Als Projektleiter muss man sowohl fundiertes fachliches Know-how, als auch die Kompetenzen einer Führungskraft, eines Projektmanagers und eines Unternehmers mitbringen. Im Idealfall füllt der Projektleiter vier Rollen aus. Diese vier Rollen verlangen unterschiedliche Fähigkeiten und Eigenschaften von dem Projektleiter.
 
 ![Die 4 Rollen des Projektleiters](Faehigkeiten_Projektleiter/4_Rollen_Projektleiter.jpg)
 
-*Die vier Rollen des Projektleiters*
+*Die vier Rollen des Projektleiters*[^2] 
 
-Diese vier Rollen verlangen unterschiedliche Fähigkeiten und Eigenschaften von dem Projektleiter.
 
 
 # Fähigkeiten des Projektleiters als Fachmann
@@ -85,7 +84,7 @@ Entwicklungen bei digitalen Technologien verändern Verhalten, Produktivität un
 
 [^1]: [Was ist ein Projektleiter](https://refa.de/berufe/projektleiter)
 
-[^2]: [Was Projektleiter können müssen](https://www.business-wissen.de/artikel/projektmanagement-was-projektleiter-koennen-muessen/)
+[^2]: [Welche Fähigkeiten und Eigenschaften benötigt ein Projektleiter?](https://www.onpulson.de/3532/welche-faehigkeiten-und-eigenschaften-benoetigt-ein-projektleiter/)
 )
 
 [^3]: [Welche Eigenschaften braucht ein guter Projektleiter?](https://www.experteer.de/magazin/welche-eigenschaften-braucht-ein-guter-projektleiter/)
