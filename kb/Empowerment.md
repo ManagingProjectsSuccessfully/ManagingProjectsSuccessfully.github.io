@@ -5,53 +5,52 @@ author: TobiasZuerrlein
 anrechnung: k
 ---
 
-Mit Empowerment (zu englisch empowerment „Ermächtigung, Übertragung von Verantwortung“) bezeichnet man Strategien und Maßnahmen, die den Grad an Autonomie und Selbstbestimmung im Leben von Menschen oder Gemeinschaften erhöhen sollen und es ihnen ermöglichen, ihre Interessen (wieder) eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten („Hilfe zur Selbsthilfe“). Empowerment bezeichnet dabei sowohl den Prozess der Selbstbemächtigung (Emanzipation) als auch die professionelle Unterstützung der Menschen, ihr Gefühl der Macht- und Einflusslosigkeit (powerlessness, „gesellschaftspolitische Ohnmacht“) zu überwinden und ihre Gestaltungsspielräume und Ressourcen wahrzunehmen und zu nutzen.[^1]
+Mit Empowerment (zu englisch empowerment „Ermächtigung, Übertragung von Verantwortung“) bezeichnet man Strategien und Maßnahmen, die den Grad an Autonomie und Selbstbestimmung im Leben von Menschen oder Gemeinschaften erhöhen sollen und es ihnen ermöglichen, ihre Interessen (wieder) eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten („Hilfe zur Selbsthilfe“). Empowerment bezeichnet dabei sowohl den Prozess der Selbstbemächtigung (Emanzipation) als auch die professionelle Unterstützung der Menschen, ihr Gefühl der Macht- und Einflusslosigkeit (powerlessness, „gesellschaftspolitische Ohnmacht“) zu überwinden und ihre Gestaltungsspielräume und Ressourcen wahrzunehmen und zu nutzen.[^4]
 
 ![Beipielabbildung](Empowerment/Empowerment1.jpg)
 *Auswirkungen von Empowerment[^2]*
 
-Empowerment (englisch für Ermächtigung) bedeutet Macht- und Verantwortungsübertragung vom [Management](Projektmanagement.md) an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.
+Empowerment (englisch für Ermächtigung) bedeutet Macht- und Verantwortungsübertragung vom [Management](Projektmanagement.md) an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.[^3]
 
 # Defintion
 ## Empowerment im psychologischen und sozialen Bereich
-Im psychologischen und sozialen Bereich bedeutet Empowerment, Menschen zu ermutigen ihren eigenen Weg zu gehen, ihre Belange in die eigene Hand zu nehmen und sie bei der Entwicklung der eigenen Stärken und Selbstbestimmung zu unterstützen.
+Im psychologischen und sozialen Bereich bedeutet Empowerment, Menschen zu ermutigen ihren eigenen Weg zu gehen, ihre Belange in die eigene Hand zu nehmen und sie bei der Entwicklung der eigenen Stärken und Selbstbestimmung zu unterstützen.[^3]
 ## Empowerment im Management und Führungsbereich
-Hier bedeutet Empowerment, dass das Management den Mitarbeitern größere Entscheidungskompetenz, Mitbestimmungsmöglichkeiten und Zugang zu Informationen einräumt. Das erlaubt Mitarbeitern selbstständig über die Verwendung bestimmter Budgets, Kulanz-Leistungen, Urlaubsplanung, Gestaltung ihrer Arbeitsabläufe entscheiden. So werden eigenes Handeln und Denken seitens der Mitarbeiter gefördert, bürokratische Hindernisse und Hierarchien abgebaut und Abläufe optimiert. Dies fördert nachweislich die Motivation der Mitarbeiter.
+Hier bedeutet Empowerment, dass das Management den Mitarbeitern größere Entscheidungskompetenz, Mitbestimmungsmöglichkeiten und Zugang zu Informationen einräumt. Das erlaubt Mitarbeitern selbstständig über die Verwendung bestimmter Budgets, Kulanz-Leistungen, Urlaubsplanung, Gestaltung ihrer Arbeitsabläufe entscheiden. So werden eigenes Handeln und Denken seitens der Mitarbeiter gefördert, bürokratische Hindernisse und Hierarchien abgebaut und Abläufe optimiert. Dies fördert nachweislich die Motivation der Mitarbeiter.[^3]
 # Hintergründe
 In der heutigen Zeit dreht sich das Rad immer schneller: Ein Update jagt das andere, Bestellungen sollen schon am nächsten Tag beim Kunden ankommen, der Service muss sofort reagieren und alle Nase lang wechseln Trends und Produktpaletten. Niemand kann absehen, was als nächstes kommt. Atempausen? Pah!
-Diese allgemeine unvorhersehbare Betriebsamkeit nennt sich VUCA ( Volatilität/Veränderlichkeit, Ungewissheit, Komplexität, Ambiguität/Mehrdeutigkeit). In unserem Artikel   VUCA: Change Management in unserer VUCA Welt  sind wir detailliert auf Vuca eingegangen.
+Diese allgemeine unvorhersehbare Betriebsamkeit nennt sich VUCA ( Volatilität/Veränderlichkeit, Ungewissheit, Komplexität, Ambiguität/Mehrdeutigkeit). In unserem Artikel   VUCA: Change Management in unserer VUCA Welt  sind wir detailliert auf Vuca eingegangen.[^3]
 
-Konnte man früher Entwicklungen sehr viel besser einschätzen und so mit ruhiger Hand deutlich langfristiger planen, ergeben sich für Unternehmen heute durch VUCA andere Herausforderungen: Agiles handeln, also die Möglichkeit schnell zu reagieren und sich schnell zu verändern ist heutzutage eine Kernkompetenz, die das Überleben eines Unternehmens sichert.
+Konnte man früher Entwicklungen sehr viel besser einschätzen und so mit ruhiger Hand deutlich langfristiger planen, ergeben sich für Unternehmen heute durch VUCA andere Herausforderungen: Agiles handeln, also die Möglichkeit schnell zu reagieren und sich schnell zu verändern ist heutzutage eine Kernkompetenz, die das Überleben eines Unternehmens sichert.[^3]
 
 Empowerment von Mitarbeitern ermöglicht Projektarbeit: Mit der
 Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des einzelnen Mitarbeiters. Die Bedeutung von reinen Linienfunktionen wird immer stärker auf Personalführung und Karriereplanung
 beschränkt. Die eigentliche Arbeit erfolgt in Projekten, welche von zeitlich
-begrenzten Projektleitern geführt werden. 
-(https://files.hanser.de/Files/Article/ARTK_LPR_9783446409477_0001.pdf)
+begrenzten Projektleitern geführt werden.[^1]
 # Relevanz des Empowerments
 ## Reaktionsfähigkeit
-Wenn dein Unternehmen schnell reagieren muss, dann ist es sinnvoll den Mitarbeiter der mit jeweiligen Entscheidung konfrontiert ist auch entscheiden zu lassen. – Geht schneller, oder? Die Alternative wäre, die Entscheidungsanfrage erst diverse Schreibtische auf mehreren Hierarchieebenen abklappern zu lassen. Und schnell ist das nun wirklich nicht…
+Wenn dein Unternehmen schnell reagieren muss, dann ist es sinnvoll den Mitarbeiter der mit jeweiligen Entscheidung konfrontiert ist auch entscheiden zu lassen. – Geht schneller, oder? Die Alternative wäre, die Entscheidungsanfrage erst diverse Schreibtische auf mehreren Hierarchieebenen abklappern zu lassen. Und schnell ist das nun wirklich nicht…[^3]
 ## Qualität von Entscheidungen
-Es geht bei weitem nicht nur um die Schnelligkeit der Reaktion. Natürlich ist es auch wichtig, ob eine gute, sinnvolle Entscheidung getroffen wird. Es dürfte nicht verwundern, dass derjenige, der ganz nah am Kunden, am Markt, also am Point of Action ist, einen sehr viel besseren Einblick in die Situation mit all ihren Gegebenheiten hat, als ein Manager, der in einiger Entfernung zum Geschehen agiert.
+Es geht bei weitem nicht nur um die Schnelligkeit der Reaktion. Natürlich ist es auch wichtig, ob eine gute, sinnvolle Entscheidung getroffen wird. Es dürfte nicht verwundern, dass derjenige, der ganz nah am Kunden, am Markt, also am Point of Action ist, einen sehr viel besseren Einblick in die Situation mit all ihren Gegebenheiten hat, als ein Manager, der in einiger Entfernung zum Geschehen agiert.[^3]
 ## Kompetenz-Struktur-Wandel
-Die Struktur, die in vielen Unternehmen vorherrscht ist – klassisch nach Taylor – folgende: der Manager weiß Bescheid und plant, der Mitarbeiter führt aus. Heutzutage wird diese so genannte Führungspyramide auf den Kopf gestellt. Denn Mitarbeiter sind oft fachlich kompetenter als der dazugehörige Manager. Dazu kommt, dass junge Menschen oft deutlich mehr Kompetenzen in digitalen Angelegenheiten haben als alteingesessene Mitarbeiter in Führungspositionen. Die Kollegen „oben” kennen sich nicht mehr zwangsläufig besser aus als die „unten”.
+Die Struktur, die in vielen Unternehmen vorherrscht ist – klassisch nach Taylor – folgende: der Manager weiß Bescheid und plant, der Mitarbeiter führt aus. Heutzutage wird diese so genannte Führungspyramide auf den Kopf gestellt. Denn Mitarbeiter sind oft fachlich kompetenter als der dazugehörige Manager. Dazu kommt, dass junge Menschen oft deutlich mehr Kompetenzen in digitalen Angelegenheiten haben als alteingesessene Mitarbeiter in Führungspositionen. Die Kollegen „oben” kennen sich nicht mehr zwangsläufig besser aus als die „unten”.[^3]
 ## War for talents
 ### Jobpräferenzen
-Auch der Zeitgeist in Sachen Jobpräferenzen hat sich deutlich verändert; die jungen Generationen haben andere Ansprüche an ihre Arbeit: Sie suchen mehr Herausforderungen, mehr Eigenverantwortung. Schätzte sich vor zehn Jahren ein Studienabgänger glücklich einen Platz in einem Konzern zu ergattern, so ist heute das Gegenteil der Fall: Marvin, Ann Sophie und Maximilian suchen sich lieber ein kleines Unternehmen, ein Start Up oder machen sich gleich selbstständig. Wichtig ist ihnen: nicht zu viel Hierarchie und Fremdbestimmung. Natürlich kollidiert dieses Freiheitsbedürfnis mit dem engmaschigen Regelkanon eines Konzerns.
+Auch der Zeitgeist in Sachen Jobpräferenzen hat sich deutlich verändert; die jungen Generationen haben andere Ansprüche an ihre Arbeit: Sie suchen mehr Herausforderungen, mehr Eigenverantwortung. Schätzte sich vor zehn Jahren ein Studienabgänger glücklich einen Platz in einem Konzern zu ergattern, so ist heute das Gegenteil der Fall: Marvin, Ann Sophie und Maximilian suchen sich lieber ein kleines Unternehmen, ein Start Up oder machen sich gleich selbstständig. Wichtig ist ihnen: nicht zu viel Hierarchie und Fremdbestimmung. Natürlich kollidiert dieses Freiheitsbedürfnis mit dem engmaschigen Regelkanon eines Konzerns.[^3]
 ### Fachkräftemangel
 Noch dazu haben sich durch den demographischen Wandel Angebot und Nachfrage auf dem Arbeitsmarkt verändert: wo früher noch hunderte Bewerbungen auf eine Jobanzeige eingingen, ringen Unternehmen heute darum kompetenten Nachwuchs für die Stelle zu begeistern. Das heißt: die jungen Leute sind in der komfortablen Situation sich ihren Arbeitsplatz aussuchen zu können. Und da fällt die Wahl klar auf Unternehmen mit flachen Hierarchien.
-Wenn Dein Unternehmen also trotz Fachkräftemangel junge Mitarbeiter anziehen möchte, dann empfiehlt sich Empowerment.
+Wenn Dein Unternehmen also trotz Fachkräftemangel junge Mitarbeiter anziehen möchte, dann empfiehlt sich Empowerment.[^3]
 # Empowerment-Zirkel (empowermnt.de)
 Der Empowerment-Zirkel ist ein methodisches Instrument der Organisationsentwicklung. Empowerment-Zirkel arbeiten analog der im Produktionsbereich bereits seit den 50er Jahren eingeführten „Qualitäts-Zirkel“ (Arbeitskreise zur Verbesserung der Produkt-Qualität und der Arbeitsqualität). Ziel ist die gemeinsame Erarbeitung von empowerment-förderlichen Organisationsstrukturen („empowering organizations“), d.h. also die Gestaltung von Arbeitsplatzstrukturen, die eine gemeinsame institutionelle „Kultur des Empowerment“ anregen und fördern;
 die Motivation der MitarbeiterInnen fördern, die ihre spezifischen Fähigkeiten und Stärken in der Empowerment-Arbeit aktivieren und ihre Identifikation mit dem Empowerment-Programm bestärken;
 das Engagement und die subjektive Arbeitszufriedenheit der MitarbeiterInnen durch die positiv erfahrene Einbindung in eine verlässliche und von allen Mitgliedern geteilte Organisationskultur befördern.
-Die Arbeit an einer institutionellen „Kultur des Empowerment“ ist eine dauerhafte, nie wirklich abgeschlossene Arbeit im Team. Hierzu bedarf es eines festen Ortes und eines festen organisatorischen Settings. Die im folgenden aufgelisteten Themen strukturieren das Gespräch.
+Die Arbeit an einer institutionellen „Kultur des Empowerment“ ist eine dauerhafte, nie wirklich abgeschlossene Arbeit im Team. Hierzu bedarf es eines festen Ortes und eines festen organisatorischen Settings. Die im folgenden aufgelisteten Themen strukturieren das Gespräch.[^5]
 # Hier ein Beispieltext mit ei paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
+Literatur kann via Fußnoten angegeben werden[^4]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
@@ -73,7 +72,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Aspekt 4
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -114,12 +113,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
-1. das
+4. das
 2. hier 
 4. ist 
 4. eine
 7. nummerierte liste
-   1. und hier eine Ebene tiefer
+   4. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -133,8 +132,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]:[Empowerment](https://de.wikipedia.org/wiki/Empowerment)
+[^1]: Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente -Checklisten. 2. Auflage, Carl
+Hanser Verlag, München, 2006
 [^2]: [Warum ist Empowerment so wichtig?](https://www.thesoundofexport.com/warum-ist-empowerment-so-wichtig/)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^3]: [Empowerment im agilen Kontext: Die 5 Wege zum Empowerment](https://www.berlinerteam.de/magazin/empowerment/)
+[^4]:[Empowerment](https://de.wikipedia.org/wiki/Empowerment)
+[^5]:[Grundlagentext Empowerment (Vertiefung)](https://www.empowerment.de/grundlagen/)
+
 
