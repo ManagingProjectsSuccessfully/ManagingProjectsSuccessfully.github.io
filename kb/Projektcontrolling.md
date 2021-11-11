@@ -26,40 +26,9 @@ In der Vorbereitungs- und Planungsphase erfolgt die Kalkulation des Projektes. I
 ## Projektkontrolle
 
 
-
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-
-
-*lustiges Testbild*
-
 # Methoden und Instrumente
 
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
 ## [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
-
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 ## Projektplan
 
@@ -67,19 +36,8 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 
 ## Soll-Ist-Vergleich
 
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
 ## Ampelmethode
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-   
 ## Leistungswertanalyse
 
 # Siehe auch
