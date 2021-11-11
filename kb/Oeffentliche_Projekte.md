@@ -103,3 +103,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 Ein öffentliches Projekt ist jedes Projekt, das von einer Regierung finaziert wird und dessen Eigentümer oder Betreiber diese Regierung sein soll. Solche Projekte dan dennen sich die Regierung lediglich finanziell beteilgt zählen nicht zu den öffetnlichen Projekten, obwohl die Öffentlichkeit beteiligt ist. Beispiele für öffentliche Projekte sind Infrastrukturprojekte(Link) und BLA(LInk) oder konkret Straßenbeleuchtung und Modernisierung der Verwaltung.
+
+ Wer
+Die öffentliche Verwaltung ist ein Teil der Exekutive. Dazu gehören sämtliche Ämter und Behörende auf komunall, regional aber auch Bundesebene. Zwar gilt hier die Maßgabe ausschließlich das zu erfüllen was für die Bürger am besten ist im Rahmen der legislativen Vorgaben, jedoch kommt aus auch hier oft zu parteilichen Interessenskonflikten.
+Dies hat Vor- und Nachteile. Einerseits können dadurch Konflikte zwischen Behörden entstehen dessen Leiter unterschiedlicher Parteine angehören und somit zu Verzögerungen beim Projekt führt. Andereseits wird so auch den Behörden nicht nur vom Rechnungshof sondern auch von Kollegen besodners genau auf die Finger geschaut
