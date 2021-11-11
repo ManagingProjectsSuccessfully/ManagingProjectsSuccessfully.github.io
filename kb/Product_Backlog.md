@@ -13,12 +13,9 @@ Bereits die Wahl der Bezeichnung "Backlog" (Auftragsbestand) weist darauf hin, d
 
 Anforderungen aus dem Product Backlog werden im Planning in die jeweiligen Sprint Backlogs gezogen und während eines Sprints bearbeitet. 
 
-![Beispielabbildung](Product_Backlog/Product vs Sprint.jpg)
+![ProductvsSprint](Product_Backlog/ProductvsSprint.jpg)
 
-*lustiges Testbild*
-
-![Product vs Sprint.png](Product vs Sprint.png)
-*Product Backlog vs Sprint Backlog*
+*Product-Backlog vs. Sprint-Backlog*
 
 # Wie erstelle ich die ersten Fassung des Scrum Product Backlogs? [^2]
 
@@ -50,8 +47,11 @@ Bei Backlog Grooming (auch als Refinement bezeichnet) handelt es sich um ein Mee
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Product_Backlog.md)
+* [Sprint_Backlog](Sprint_Backlog.md)
+* [Sprint](Sprint.md)
+* [Sprint_Planning](Sprint_Planning.md)
+* [Product_Owner](Product_Owner.md)
+
 
 # Weiterführende Literatur
 
