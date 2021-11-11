@@ -10,8 +10,9 @@ Obwohl 90% der Projektmanagement-Fachleute überzeugt sind vom Einsatz von KI im
 
 * Was ist KI-Software?
   - Arten von KI-Software
-* Nutzen von KI-Software für Projekmanagement
-* Kritik an KI-Software für Projekmanagement
+* Nutzen und Kritik
+  - Nutzen von KI-Software für Projekmanagement
+  - Kritik an KI-Software für Projekmanagement
 
 # Was ist KI-Software? 
 Zunächst ist die Künstliche Intelligenz ein Gebiet aus der [Informatik](https://de.wikipedia.org/wiki/Informatik), dabei beschäftigt sie sich mit der [Automatisierung](https://de.wikipedia.org/wiki/Automatisierung), [maschinellen Lernen](https://de.wikipedia.org/wiki/Maschinelles_Lernen) oder dem intelligenten Verhalten[^2]. Des Weiteren soll die KI menschliche Verhaltensmuster imitieren oder bestimmte Entscheidungen fällen können.
