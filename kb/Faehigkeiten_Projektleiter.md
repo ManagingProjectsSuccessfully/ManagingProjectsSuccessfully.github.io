@@ -25,6 +25,7 @@ Als Projektleiter muss man sowohl fundiertes fachliches Know-how, als auch die K
 Die meisten Projektleiter erfüllen die fachlichen Anforderungen. Sie sind in der Lage, technische und fachliche Details zu verstehen, zu bewerten oder auch selbst auszuarbeiten. Diese Feldkompetenz und Branchenkenntnis erleichtert einem Projektleiter die tägliche Arbeit, da er Zusammenhänge schneller durchdringt als ein Fachfremder[^2].
 
 * [Fachkompetenz](https://de.wikipedia.org/wiki/Fachkompetenz)
+* [Methodenkompetenz](https://de.wikipedia.org/wiki/Methodenkompetenz)
 
 
 # Fähigkeiten des Projektleiters als Projektmanager
@@ -38,11 +39,13 @@ Ein Projektleiter muss zudem die Instrumente zum Planen und Steuern von Projekte
 * Organisationskompetenz
 * Erfahrung in der Projektarbeit
 
+[Projektleiter_Fähigkeiten](Faehigkeiten_Projektleiter/Projektleiter_Führungskraft.png)
 
+*Projektleiter_Fähigkeiten*[^6]
 
 # Fähigkeiten des Projektleiters als Führungskraft
 
-Projektleiter sind Führungskräfte. Ein Projektleiter führt ein Projektteam. Er sollte in der Lage sein, die sich teils widersprechenden Interessen von Kunden, Vorgesetzten, involvierten Abteilungen und den eigenen Projektmitarbeitern zu managen. Der Umgang mit den verschiedenen Stakeholdern eines Projektes erfordert ein hohes Maß an sozialer Kompetenz. Zudem sind Soft Skills auch sehr wichtig für Projektmanagement[^2]
+Projektleiter sind Führungskräfte. Ein Projektleiter führt ein Projektteam. Er sollte in der Lage sein, die sich teils widersprechenden Interessen von Kunden, Vorgesetzten, involvierten Abteilungen und den eigenen Projektmitarbeitern zu managen. Ein Projektleiter ist Moderator und Mediator. Der Umgang mit den verschiedenen Stakeholdern eines Projektes erfordert ein hohes Maß an sozialer Kompetenz. Zudem sind Soft Skills und personliche Eigenschaften auch sehr wichtig für Projektmanagement[^2]
 
 * [Sozialkompetenz](https://de.wikipedia.org/wiki/Soziale_Kompetenz), vor allem die Fähigkeit zur Führung der Projektgruppe: Fähigkeit zu delegieren, Vorbildfunktion, Zusammenarbeit, Motivierung des Projektteams
 * Belastbarkeit, flexibilität und Anpassungsfähigkeit: 
@@ -92,3 +95,5 @@ Entwicklungen bei digitalen Technologien verändern Verhalten, Produktivität un
 [^4]: Morris, PWG, 2013. Rekonstruktion des Projektmanagements erneut: eine Wissensperspektive. Projektmanagement-Journal, 44 (5), p. 6–23.
 
 [^5]: PMI, 2018. DER PROJEKTMANAGER DER ZUKUNFT: Entwicklung von Projektmanagementfähigkeiten im digitalen Zeitalter, um in disruptiven Zeiten erfolgreich zu sein, sl: Projektmanagement-Institut.
+
+[^6]: [Projektleiter DAA Wirtschaftslexikon](https://media.daa-pm.de/ufv_wirtschaftslexikon/Html/P/Projektleiter.htm)
