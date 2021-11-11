@@ -34,7 +34,7 @@ Wenn man die Rollen für ein Projekt definiert, sollte man darauf achten, dass d
 
 Bei der Beschreibung der Rollen sollten folgende Kategorien beachtet werden:
 
-| Kategorie        | Rollenbeschreibung |
+| Kategorie        | zu tun |
 | ------------- | ------------- |
 | Organisatorische Einbindung  | Bestimmen, wie der Rolleninhaber in die Projekt- und Unternehmensorganisation eingebunden ist |
 | Aufgaben  | Definieren, welche Aufgaben der Rolleninhaber im Detail umsetzen soll  |
@@ -86,12 +86,14 @@ Der Fachausschuss besteht aus Mitarbeitern, die aus den betroffenen oder beteili
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Who_is_Who_Projectmanagement.md)
+* [Project Management Team Structure for Internet Providing Companies](https://link.springer.com/chapter/10.1007/978-3-319-23126-6_47)
+* [Roles of Top Management and Organizational Project Management in the Effective Company Strategy Implementation](https://www.sciencedirect.com/science/article/pii/S1877042816308540)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+*  [Org Chart: Who is who in the company?](https://www.youtube.com/watch?v=CouWieFqk7Q)
+
 
 # Quellen
 
