@@ -25,11 +25,11 @@ Wie in Abbildung 1 zu sehen ist, werden Karten zum Schätzen verwendet. Im Detai
 
 Zum Schätzen erhält jeder Teilnehmer einen Satz Karten, auf denen eine Fibonacci-Zahl zwischen 1 und einem vorher festgelegten Höchstwert, z.B. 21 steht.
 
-„Fibonacci-Zahlen werden gebildet, in dem man die Summe der beiden vorhergehenden Zahlen addiert. Sie werden deshalb gerne verwendet, weil die Abstände zwischen den einzelnen Werten immer größer werden.“ [^2] Damit soll den Schätzern verdeutlicht werden, dass der Aufwand zur Realisierung einer Aufgabe mit dem Wert 21 im Vergleich zu einer Aufgabe mit dem Wert 13 sehr viel größer ist als zwischen zwei Karten mit den Werten 3 und 5. [^2]
+„Fibonacci-Zahlen werden gebildet, in dem man die Summe der beiden vorhergehenden Zahlen addiert. Sie werden deshalb gerne verwendet, weil die Abstände zwischen den einzelnen Werten immer größer werden.“ [^2] Damit soll den Schätzern verdeutlicht werden, dass der Aufwand zur Realisierung einer Aufgabe mit dem Wert 21 im Vergleich zu einer Aufgabe mit dem Wert 13 sehr viel größer ist als zwischen zwei Karten mit den Werten 3 und 5. [^2] Zur Vereinfachung wird aber häufig mit geraden Zahlen gespielt.
 
-## Ablauf einer Sitzung
+## Der Ablauf einer Sitzung
 
-Zur Einleitung stellt der Moderator eine Aufgabe vor und bittet dann um Schätzungen dazu. Alle Teilnehmer bekommen kurz Zeit, um sich für eine Karte zu entscheiden. Daraufhin halten alle gleichzeitig die jeweils von ihnen gewählte Karte hoch. Damit wird verhindert, dass die Mitspieler sich bewusst oder unbewusst den Schätzungen anderer anpassen. Dieser Anpassungseffekt wird in der Verhaltenspsychologie auch Anker-Effekt genannt. [^1] 
+Zur Einleitung stellt der Moderator eine Aufgabe vor und bittet dann um Schätzungen dazu. Alle Teilnehmer bekommen kurz Zeit, um sich für eine Karte zu entscheiden. Daraufhin halten alle gleichzeitig die jeweils von ihnen gewählte Karte hoch oder legen sie sichtbar auf den Tisch. Damit wird verhindert, dass die Mitspieler sich bewusst oder unbewusst den Schätzungen anderer anpassen. Dieser Anpassungseffekt wird in der Verhaltenspsychologie auch Anker-Effekt genannt. [^1] 
 
 Die Teilnehmer mit den höchsten und niedrigsten Schätzungen begründen ihre Meinung um die Auswahl nachvollziehen zu können. Es folgt nun eine weitere Schätzrunde, auf Basis der neuen Informationen und Meinungen. Im Allgemeinen werden die Schätzungen nun näher beieinanderliegen als in der ersten Runde. „Liegen sie nach Meinung des Sitzungsleiters jedoch noch immer zu weit auseinander, so lässt er wieder die Extrempositionen zu Wort kommen.“ [^4] Diese Schätzzyklen werden bis zur Einigung wiederholt. 
 
@@ -46,7 +46,8 @@ Planning Poker eignet sich also besonders bei Projekten und Aufgabenstellungen, 
 
 ## Quellen
 
-[^1]: Planning Poker: So einfach funktioniert die agile Schätzmethode [YouTube], (2020). https://www.youtube.com/watch?v=APDKb7Wo3gw
+[^1]: Planning Poker: So einfach funktioniert die agile Schätzmethode [YouTube], (2020). (https://www.youtube.com/watch?v=APDKb7Wo3gw)
+
 
 [^2]: Linssen, O. (2012). Planning Poker – Techniken, Erfahrungen und Empfehlungen. Projekt Magazin, 11, 89-99. 
 
@@ -88,7 +89,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Kritik 
 
 ![Beispielabbildung](Planning_Poker/test-file.jpg)
-
+![PlanningPoker]()
 *lustiges Testbild*
 
 # Aspekt 2
