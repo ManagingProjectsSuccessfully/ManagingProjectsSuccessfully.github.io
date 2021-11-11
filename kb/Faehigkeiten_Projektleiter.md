@@ -39,9 +39,6 @@ Ein Projektleiter muss zudem die Instrumente zum Planen und Steuern von Projekte
 * Organisationskompetenz
 * Erfahrung in der Projektarbeit
 
-[Projektleiter_Fähigkeiten](Faehigkeiten_Projektleiter/Projektleiter_Führungskraft.png)
-
-*Projektleiter_Fähigkeiten*[^6]
 
 # Fähigkeiten des Projektleiters als Führungskraft
 
@@ -54,6 +51,10 @@ bestmöglicher Umgang mit unvorhersehbaren Problemen und Notfällen, Zeitdruck
 frühzeitig Erkennung von Konflikt, Umgang mit Widerständen, konstruktive Verhaltensweisen in Konfliktsituationen, Verantwortungsgefühl 
 * Kommunikationsfähigkeit: 
 Koordinierungsaufgaben, Kontaktfreudigkeit, Überzeugungsfähigkeit, Durchsetzungsvermögen, Verhandlungshärte und -geschick
+
+![Projektleiter_Fähigkeiten](Faehigkeiten_Projektleiter/Projektleiter_Führungskraft.png)
+
+*Projektleiter_Fähigkeiten*[^6]
 
 # Fähigkeiten des Projektleiters als Unternehmer
 
