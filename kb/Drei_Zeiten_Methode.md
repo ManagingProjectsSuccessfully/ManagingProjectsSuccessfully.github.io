@@ -4,8 +4,10 @@ tags: agil klassisch
 author: jsk0lb
 anrechnung: k oder a
 ---
+
+Diese Arbeit setzt sich mit der 3-Punkt-Methode auseinander. Dabei handelt es sich um eine Schätzmethode des Projektmanagements. 
 ## Schätzungen in Projekten
-Diese Arbeit setzt sich mit der 3-Punkt-Methode auseinander. Dabei handelt es sich um eine Schätzmethode des Projektmanagements. Schätzungen liefern immer unsichere Ergebnisse, da sie sich auf die Zukunft beziehen. „Es kann sich um eine pessimistische oder auch um eine optimistische Berechnung handeln.“[^1] Beide sind schlecht für das Projektmanagement, denn bei der zu pessimistischen Variante wird der Endtermin des Projekts zu weit nach hinten geschoben, bei der zu optimistischen gerät das Projekt in Verzug. Die Terminplanung innerhalb eines Projektes ist allerdings auf gute Berechnung angewiesen. Je realistischer die Schätzung ist, umso genauer kann der Endtermin des Projekts geplant werden. Oft erhält man aber erst im Verlauf eines Projektes immer bessere Daten, mit denen die Schätzungen genauer bestimmt werden können.
+Schätzungen liefern immer unsichere Ergebnisse, da sie sich auf die Zukunft beziehen. „Es kann sich um eine pessimistische oder auch um eine optimistische Berechnung handeln.“[^1] Beide sind schlecht für das Projektmanagement, denn bei der zu pessimistischen Variante wird der Endtermin des Projekts zu weit nach hinten geschoben, bei der zu optimistischen gerät das Projekt in Verzug. Die Terminplanung innerhalb eines Projektes ist allerdings auf gute Berechnung angewiesen. Je realistischer die Schätzung ist, umso genauer kann der Endtermin des Projekts geplant werden. Oft erhält man aber erst im Verlauf eines Projektes immer bessere Daten, mit denen die Schätzungen genauer bestimmt werden können.
 
 Verantwortlich für die Prognose ist der Projektleiter. Um diese bestmöglich festzulegen, können sie für die Schätzung folgenden Quellen nutzen: 
 
