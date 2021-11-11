@@ -20,7 +20,7 @@ Zunächst ist die Künstliche Intelligenz ein Gebiet aus der [Informatik](https:
 Unter anderem wird unterschieden zwischen starker und schwacher Künstlicher Intelligenz, die starke KI ist in der Lage ein selbstbewusstes Bewusstsein zu entwickeln, welches die Fähigkeit besitzt, Probleme zu lösen, zu lernen und in die Zukunft zu planen. Des Weiteren ist sie nicht abhängig vom menschlichen Eingriffen, da sie sich selbst beibringt Probleme zu lösen. Die schwache KI hingegegen ist auf die Ausführung von bestimmten Aufgaben beschränkt, wie das ausführen von Schachzügen oder das beantworten von Fragen. Die schwache KI kann nur eine Art von Aufgabentyp gleichzeitig bewältigen und ist auf menschliche Hilfe angewiesen. Beispiele einer schwachen KI wären [selbstfahrende Autos](https://de.wikipedia.org/wiki/Selbstfahrendes_Kraftfahrzeug), Alexa, Siri oder auch virtuelle Assistenten wie [Watson Assistant](https://www.ibm.com/de-de/products/watson-assistant)[^3]. 
 
 # Nutzen von KI-Software für Projektmanagement
-Die Künstliche Intelligenz bietet ab einer gewissen Komplexität von Projekten, welche viel Pflege benötigen oder die Aufwandsabschätzung sehr viel Zeit beansprucht wodurch andere Tätigkeiten vernachlässigt werden[^4]. 
+Die Künstliche Intelligenz bietet ab einer gewissen Komplexität von Projekten, welche viel Pflege benötigen oder die Aufwandsabschätzung sehr viel Zeit beansprucht, weshalb andere Tätigkeiten vernachlässigt werden[^4], eine Effizienzssteigerung[^5]. Bei der Verwendung von KI im Projektmanagement ist vorallem das maschinelle Lernen relevant, dabei unterstützt und löst die KI Anwendungsprobleme im Projekmanagement. Des Weiteren werden Entscheidungen optimiert die durch das maschinelle Lernen, anhand des Anwendungsfalls und der Datenlage
 
 
 
@@ -35,6 +35,6 @@ Die Künstliche Intelligenz bietet ab einer gewissen Komplexität von Projekten,
 
 [^1]: https://www.tiba.de/wie-kuenstliche-intelligenz-ki-das-projektmanagement-beeinflusst/ Autor: Reinhard Wagner geöffnet am 11.11.2021 16:00 Uhr
 [^2]: Nils J. Nilsson: The Quest for Artificial Intelligence. A History of Ideas and Achievements. Cambridge University Press, New York 2009. S. 615-617
-[^3]: https://www.ibm.com/cloud/learn/strong-ai Autor: IBM Cloud Education, Verfasst am: 31.08.2020, aufgerufen am 11.11.2021 um 17:37 Uhr
-[^4]: https://www.projektmagazin.de/artikel/kuenstliche-intelligenz-ki-projektmanagement Autor: Marc Bollmann, Andreas Janiak, Verfasst am: 10.03.2021, aufgerufen am 11.11.2021 um 18:15 Uhr
-[^5]: 
+[^3]: https://www.ibm.com/cloud/learn/strong-ai Autor: IBM Cloud Education, veröffentlicht am: 31.08.2020, aufgerufen am 11.11.2021 um 17:37 Uhr
+[^4]: https://www.projektmagazin.de/artikel/kuenstliche-intelligenz-ki-projektmanagement Autor: Marc Bollmann, Andreas Janiak, veröffentlicht am: 10.03.2021, aufgerufen am 11.11.2021 um 18:15 Uhr
+[^5]: https://www.capgemini.com/de-de/2021/09/effizienzsteigerung-im-projektmanagement-ist-ai-die-loesung/ Autorin: Sandra Imelmann, veröffentlicht am: 20.09.2021, aufgerufen am 11.11.2021 um 18:38 Uhr
