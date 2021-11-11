@@ -5,11 +5,43 @@ author: TobiasZuerrlein
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Empowerment um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Empowerment (englisch für Ermächtigung) bedeutet Macht- und Verantwortungsübertragung vom Management an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Defintion
+## Empowerment im psychologischen und sozialen Bereich
+Im psychologischen und sozialen Bereich bedeutet Empowerment, Menschen zu ermutigen ihren eigenen Weg zu gehen, ihre Belange in die eigene Hand zu nehmen und sie bei der Entwicklung der eigenen Stärken und Selbstbestimmung zu unterstützen.
+## Empowerment im Management und Führungsbereich
+Hier bedeutet Empowerment, dass das Management den Mitarbeitern größere Entscheidungskompetenz, Mitbestimmungsmöglichkeiten und Zugang zu Informationen einräumt. Das erlaubt Mitarbeitern selbstständig über die Verwendung bestimmter Budgets, Kulanz-Leistungen, Urlaubsplanung, Gestaltung ihrer Arbeitsabläufe entscheiden. So werden eigenes Handeln und Denken seitens der Mitarbeiter gefördert, bürokratische Hindernisse und Hierarchien abgebaut und Abläufe optimiert. Dies fördert nachweislich die Motivation der Mitarbeiter.
+# Hintergründe
+In der heutigen Zeit dreht sich das Rad immer schneller: Ein Update jagt das andere, Bestellungen sollen schon am nächsten Tag beim Kunden ankommen, der Service muss sofort reagieren und alle Nase lang wechseln Trends und Produktpaletten. Niemand kann absehen, was als nächstes kommt. Atempausen? Pah!
+Diese allgemeine unvorhersehbare Betriebsamkeit nennt sich VUCA ( Volatilität/Veränderlichkeit, Ungewissheit, Komplexität, Ambiguität/Mehrdeutigkeit). In unserem Artikel   VUCA: Change Management in unserer VUCA Welt  sind wir detailliert auf Vuca eingegangen.
 
+Konnte man früher Entwicklungen sehr viel besser einschätzen und so mit ruhiger Hand deutlich langfristiger planen, ergeben sich für Unternehmen heute durch VUCA andere Herausforderungen: Agiles handeln, also die Möglichkeit schnell zu reagieren und sich schnell zu verändern ist heutzutage eine Kernkompetenz, die das Überleben eines Unternehmens sichert.
+# Relevanz des Empowerments
+## Reaktionsfähigkeit
+Wenn dein Unternehmen schnell reagieren muss, dann ist es sinnvoll den Mitarbeiter der mit jeweiligen Entscheidung konfrontiert ist auch entscheiden zu lassen. – Geht schneller, oder? Die Alternative wäre, die Entscheidungsanfrage erst diverse Schreibtische auf mehreren Hierarchieebenen abklappern zu lassen. Und schnell ist das nun wirklich nicht…
+## Qualität von Entscheidungen
+Es geht bei weitem nicht nur um die Schnelligkeit der Reaktion. Natürlich ist es auch wichtig, ob eine gute, sinnvolle Entscheidung getroffen wird. Es dürfte nicht verwundern, dass derjenige, der ganz nah am Kunden, am Markt, also am Point of Action ist, einen sehr viel besseren Einblick in die Situation mit all ihren Gegebenheiten hat, als ein Manager, der in einiger Entfernung zum Geschehen agiert.
+## Kompetenz-Struktur-Wandel
+Die Struktur, die in vielen Unternehmen vorherrscht ist – klassisch nach Taylor – folgende: der Manager weiß Bescheid und plant, der Mitarbeiter führt aus. Heutzutage wird diese so genannte Führungspyramide auf den Kopf gestellt. Denn Mitarbeiter sind oft fachlich kompetenter als der dazugehörige Manager. Dazu kommt, dass junge Menschen oft deutlich mehr Kompetenzen in digitalen Angelegenheiten haben als alteingesessene Mitarbeiter in Führungspositionen. Die Kollegen „oben” kennen sich nicht mehr zwangsläufig besser aus als die „unten”.
+## War for talents
+### Jobpräferenzen
+Auch der Zeitgeist in Sachen Jobpräferenzen hat sich deutlich verändert; die jungen Generationen haben andere Ansprüche an ihre Arbeit: Sie suchen mehr Herausforderungen, mehr Eigenverantwortung. Schätzte sich vor zehn Jahren ein Studienabgänger glücklich einen Platz in einem Konzern zu ergattern, so ist heute das Gegenteil der Fall: Marvin, Ann Sophie und Maximilian suchen sich lieber ein kleines Unternehmen, ein Start Up oder machen sich gleich selbstständig. Wichtig ist ihnen: nicht zu viel Hierarchie und Fremdbestimmung. Natürlich kollidiert dieses Freiheitsbedürfnis mit dem engmaschigen Regelkanon eines Konzerns.
+### Fachkräftemangel
+Noch dazu haben sich durch den demographischen Wandel Angebot und Nachfrage auf dem Arbeitsmarkt verändert: wo früher noch hunderte Bewerbungen auf eine Jobanzeige eingingen, ringen Unternehmen heute darum kompetenten Nachwuchs für die Stelle zu begeistern. Das heißt: die jungen Leute sind in der komfortablen Situation sich ihren Arbeitsplatz aussuchen zu können. Und da fällt die Wahl klar auf Unternehmen mit flachen Hierarchien.
+Wenn Dein Unternehmen also trotz Fachkräftemangel junge Mitarbeiter anziehen möchte, dann empfiehlt sich Empowerment.
+
+Wie Du siehst – es gibt viele Gründe für Empowerment.
+# Arten von Empowerment
+Es gibt verschiedene Wege, wie Verantwortung und Entscheidungskompetenz übertragen bzw. erhöht werden können:
+
+Von der Führung auf den Mitarbeiter
+Von der Führung ins Team
+Selbstempowerment
+Vom Mitarbeiter an die Führung (ja auch das geht!)
+Vom Mitarbeiter an seine Kollegen
+Letztenendes sollten alle fünf Arten von Empowerment im Unternehmen ihre Anwendung finden.
+Was das im Einzelnen bedeutet, beschreiben wir im nächsten Abschnitt.
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -47,7 +79,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 ![Beispielabbildung](Empowerment/test-file.jpg)
 
-*lustiges Testbild*
+*lustiges Testbild*#
 
 # Aspekt 2
 
