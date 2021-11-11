@@ -5,7 +5,7 @@ author: TobiasZuerrlein
 anrechnung: k
 ---
 
-Empowerment (englisch für Ermächtigung) bedeutet Macht- und Verantwortungsübertragung vom Management an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.
+Empowerment bedeutet Macht- und Verantwortungsübertragung vom Management an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.
 
 # Defintion
 ## Empowerment im psychologischen und sozialen Bereich
