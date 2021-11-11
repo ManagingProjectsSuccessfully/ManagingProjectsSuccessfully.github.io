@@ -9,7 +9,7 @@ Mit Empowerment (zu englisch empowerment „Ermächtigung, Übertragung von Vera
 
 ![Beipielabbildung](Empowerment/Empowerment1.jpg)
 
-Empowerment (englisch für Ermächtigung) bedeutet Macht- und Verantwortungsübertragung vom Management an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.
+Empowerment (englisch für Ermächtigung) bedeutet Macht- und Verantwortungsübertragung vom [Management]Pojektmanagement.md an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.
 
 # Defintion
 ## Empowerment im psychologischen und sozialen Bereich
