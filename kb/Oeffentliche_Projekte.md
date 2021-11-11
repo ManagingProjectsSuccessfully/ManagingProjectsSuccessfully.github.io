@@ -106,4 +106,10 @@ Ein öffentliches Projekt ist jedes Projekt, das von einer Regierung finaziert w
 
  Wer
 Die öffentliche Verwaltung ist ein Teil der Exekutive. Dazu gehören sämtliche Ämter und Behörende auf komunall, regional aber auch Bundesebene. Zwar gilt hier die Maßgabe ausschließlich das zu erfüllen was für die Bürger am besten ist im Rahmen der legislativen Vorgaben, jedoch kommt aus auch hier oft zu parteilichen Interessenskonflikten.
-Dies hat Vor- und Nachteile. Einerseits können dadurch Konflikte zwischen Behörden entstehen dessen Leiter unterschiedlicher Parteine angehören und somit zu Verzögerungen beim Projekt führt. Andereseits wird so auch den Behörden nicht nur vom Rechnungshof sondern auch von Kollegen besodners genau auf die Finger geschaut
+Dies hat Vor- und Nachteile. Einerseits können dadurch Konflikte zwischen Behörden entstehen dessen Leiter unterschiedlicher Parteine angehören und somit zu Verzögerungen beim Projekt führt. Andereseits wird so auch den Behörden nicht nur vom Rechnungshof sondern auch von Kollegen besodners genau auf die Finger geschaut.
+
+Ein Proket durchzuführen bzw das erforderliche Projektmanagment ist nicht mit dem in der freien Wirtschaft zu vergleichen. Es handelt sich nämlich oftmals um eine Verwaltungsbüro, dass oft nicht die nötigen Kompetenzen oder Erfahrungen hat (mal abgesehen vom Bauamt). Hier gibt es viele Vorschriften und Regeln für so ziemlich jeden Schritt und jede Phase des Projektmanagements. Ein Grund hierfür ist das es sich um öffentliche Gelder handelt und deshallb eine besondere Vorsicht an den Tag gelegt wird, was aber nicht immer zu Effizienz führt. Die Bundesregierung gibt sogar einen Leitfaden für das Projektmanagement in der öffentlichen Verwaltung heraus an dem sich zu orientieren ist. Dieser sieht für ein Projekt folgender schritte vor 
+
+Tabelle
+
+In der freien Wirtschaft kontrolliert der Erfolg eines UNternehemns oder salopp gesagt der Markt den Erfolg. In der öffetnlichen verwaltungen gibt es solche Gesetztmäßigkeiten jedoch nicht. Als KOntrollinstituin ist der immmer merh an Einfluss gewinnende Bundesrechnungshof oder auch Organisationen wie der Bun der Steuerzahler. Hier wird aufgepasst wie das Geld verwendet wurde und darauf geachtet dasss nichts verschwendet wirtd.
