@@ -32,12 +32,12 @@ Die meisten Projektleiter erfüllen die fachlichen Anforderungen. Sie sind in de
 
 Ein Projektleiter muss zudem die Instrumente zum Planen und Steuern von Projekten kennen: Er muss in der Lage sein, die Rahmenbedingungen zu stecken, in denen Abläufe durchgeführt werden und innerhalb derer die Projektmitarbeiter selbständig agieren können. Danach ist es seine Aufgabe, für die Durchführung des Projektes zu sorgen, es zu überwachen und das Team zu leiten. Diese Anforderungen fallen unter die Kategorie „Projektmanagement“ und beinhalten die Fähigkeit, das Projekt zu initiieren, zu definieren, zu planen, durchzuführen, zu steuern und zu bewerten[^1].
 
-* Projektstrukturplan 
+* Projektstrukturplan und Priorisierung 
 * Aufwand schätzen und Budgetverwaltung
 * Zeitleistenplanung
 * Beherrschen der Projektmanagement-Instrumente und deren Anwendung
 * Organisationskompetenz
-* Erfahrung in der Projektarbeit
+
 
 
 # Fähigkeiten des Projektleiters als Führungskraft
@@ -75,14 +75,16 @@ Entwicklungen bei digitalen Technologien verändern Verhalten, Produktivität un
 
 # Fähigkeiten des Projektleiters zu entwickeln
 
+Erfahrung in Projektarbeit und Zertifizierung im Projektmanagement sind gute Möglichkeiten, die Fähigkeiten zu vertiefen und zu erweitern. 
+
 # Siehe auch
 
-* [Projektmagazin](https://www.projektmagazin.de/)
-* [Projektmanagementhandbuch](https://www.projektmanagementhandbuch.de/)
+* [10 wichtige Fähigkeiten für effektives Projektmanagement](https://www.projectwizards.net/de/blog/2020/03/pm-skills#prioritization)
 
 # Weiterführende Literatur
 
 * [Projektmanagementhandbuch](https://www.projektmanagementhandbuch.de/)
+* [Projektmagazin](https://www.projektmagazin.de/)
 
 # Quellen
 
