@@ -5,7 +5,7 @@ author: TobiasZuerrlein
 anrechnung: k
 ---
 
-Mit Empowerment (zu englisch empowerment „Ermächtigung, Übertragung von Verantwortung“) bezeichnet man Strategien und Maßnahmen, die den Grad an Autonomie und Selbstbestimmung im Leben von Menschen oder Gemeinschaften erhöhen sollen und es ihnen ermöglichen, ihre Interessen (wieder) eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten („Hilfe zur Selbsthilfe“). Empowerment bezeichnet dabei sowohl den Prozess der Selbstbemächtigung (Emanzipation) als auch die professionelle Unterstützung der Menschen, ihr Gefühl der Macht- und Einflusslosigkeit (powerlessness, „gesellschaftspolitische Ohnmacht“) zu überwinden und ihre Gestaltungsspielräume und Ressourcen wahrzunehmen und zu nutzen.[^4]
+Mit Empowerment bezeichnet man Strategien und Maßnahmen, die den Grad an Autonomie und Selbstbestimmung im Leben von Menschen oder Gemeinschaften erhöhen sollen und es ihnen ermöglichen, ihre Interessen (wieder) eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten („Hilfe zur Selbsthilfe“). Empowerment bezeichnet dabei sowohl den Prozess der Selbstbemächtigung (Emanzipation) als auch die professionelle Unterstützung der Menschen, ihr Gefühl der Macht- und Einflusslosigkeit (powerlessness, „gesellschaftspolitische Ohnmacht“) zu überwinden und ihre Gestaltungsspielräume und Ressourcen wahrzunehmen und zu nutzen.[^4]
 
 ![Beipielabbildung](Empowerment/Empowerment1.jpg)
 *Auswirkungen von Empowerment[^2]*
@@ -138,5 +138,8 @@ Hanser Verlag, München, 2006
 [^3]: [Empowerment im agilen Kontext: Die 5 Wege zum Empowerment](https://www.berlinerteam.de/magazin/empowerment/)
 [^4]:[Empowerment](https://de.wikipedia.org/wiki/Empowerment)
 [^5]:[Grundlagentext Empowerment (Vertiefung)](https://www.empowerment.de/grundlagen/)
+[^6]:[Empowerment: Teil der Managementkonzepte von morgen](https://media.zweikern.com/de/index/empowerment)
+[^7]:[Empowerment des Teams](https://project-base.org/projektmanagement-glossar/empowerment-des-teams/)
 
 
+Fehlende Quellen:  2, 6, 7
