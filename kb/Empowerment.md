@@ -2,7 +2,7 @@
 title: Empowerment
 tags: agil klassisch
 author: TobiasZuerrlein
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Empowerment um ein erstes Verständnis dafür zu schaffen um was es hier geht.
