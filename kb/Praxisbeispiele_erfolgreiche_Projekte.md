@@ -19,7 +19,7 @@ Durch die Fusion von American Airlines und US Airways kam es zu Überschneidunge
 Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressourcen und komplexen Projekten unzureichend. Um einen Überblick über die kommerziel erfolgreichsten Daten und Projekte zu bekommen, begann das Unternehmen mit ihren Projektmanagern ein System zu etablieren, welches alle Daten automatisch auszuwertet. Infolgedessen konnte die Airline die Planungszeiten für Projekte und Routen verkürzen und dabei weniger Arbeiter einsetzten, was sich positiv auf die Bilanz auswirkte und mehrere Millionen Dollar einbrachte. Das Unternehmen hat nun Zugang zu besseren und zuverlässigeren Daten, um wichtige Entscheidungen über Projekte und Ressourcen zu treffen.[^2].
 
 
-![American-Airline](Praxisbeispiele_erfolgreiche_Projekte/AmericanAirlinesl.jpg)
+![American-Airline](Praxisbeispiele_erfolgreiche_Projekte/AmericanAirlines.jpg)
 
 
 # Drei-Schluchten-Talsperre China
