@@ -17,8 +17,9 @@ Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards 
 Kreativitätsmethoden dienen im Bezug auf Projektmanagement dazu, innovative Ideen zu sammeln.
 
 
-Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen. Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]
-Methoden geben Projekten Transparenz und Struktur.[^4]
+Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen. Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]S.316
+Methoden geben Projekten Transparenz und Struktur.[^4]S.43
+Sie stellen ein mögliches Vorgehen dar, welches durch seine Dokumentierbarkeit ebenso nachvollziebar und korrigierbar ist. Außerdem wird das Vorgehen durch Methoden besser vertändlich und einzelne Schritte können einfacher kommuniziert werden.[^4]S.44
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -50,6 +51,11 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 ![Beispielabbildung](Methoden/test-file.jpg)
 
 *lustiges Testbild*
+
+## Beziehungsmanagement
+
+* Erst- und Folgegespräche mit Projektmitarbeitern[^5]S.54
+
 
 # Methoden des allgemeinen Managements
 
@@ -132,6 +138,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [Kreativitätstechniken: 7 Methoden für neue Ideen](https://www.einstein1.net/kreativitaetstechniken/)
 [^3]: [Handbuch Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Kuster2011_Book_HandbuchProjektmanagement.pdf)
 [^4]: [Projektmanagement mit System: Organisation, Methoden, Steuerung](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Kraus-Westermann2019_Book_ProjektmanagementMitSystem.pdf)
+[^5]: [Systemische Werkzeuge für erf. Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Systemische%20Werkzeuge%20f%C3%BCr%20erf.%20Projektmanagement.pdf)
 
 
 
