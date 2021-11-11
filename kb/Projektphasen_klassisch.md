@@ -22,7 +22,7 @@ Im Folgenden wird ein Modell mit 5 Phasen betrachet[^3]:
 
 ## 1. Projektvorbereitung / Projektstart
 
-In dieser ersten Phase wird ein Projekt definiert, Ziele festgelegt und unter anderem Chancen und Risiken diskutiert.[^2] Zusätzlich werden die wichtigsten Stakeholder indentifiziert und das Projekt auf die Umsetzbarkeit und Wirtschaftlichkeit für das ausführende Unternehmen geprüft. Dazu gehören Themen wie die *Kosten-Nutzen-Analyse*  oder auch die Ausarbeitung eines Zeitplans.[^3] 
+In dieser ersten Phase wird ein Projekt definiert, Ziele festgelegt und unter anderem Chancen und Risiken diskutiert.[^2] Zusätzlich werden die wichtigsten Stakeholder indentifiziert und das Projekt auf die Umsetzbarkeit und Wirtschaftlichkeit für das ausführende Unternehmen geprüft. Dazu gehören Themen wie die *Kosten-Nutzen-Analyse*  oder auch die Ausarbeitung eines Zeitplans.[^3] Dafür kann zum Beispiel die *Methode des kritischen Pfades* angewendet werden.[^9][^4]
 
 Des Weiteren wird die grobe Planung von benötigten Ressourcen in punkto Arbitskraft oder auch Rohstoffe bzw. Maschinen angegangen. Wichtig ist dabei auch die Beachtung des Ausführungsort des Projekts. Plant man beispielsweise den Bau einer Fabrik in einem anderen Land, so müssen eventuelle rechtliche Bestimmungen zum Thema Arbeitsrecht oder die Einfuhr von Gütern geklärt werden. Hat man keine Rohstoffe und Maschinen vor Ort, müsste man einen möglichen Import dieser Güter in das Zielland auf Rentabilität prüfen. Bei Projekten im IT-Sektor und nicht-physischen Endprodukten entfallen natürlich einige dieser Prüfungsschritte.
 
@@ -41,6 +41,12 @@ Sind alle Aufgaben verteilt und man ist mit dem grundlegenden Planungsprozess fe
 In regelmäßigen *Projekttreffen* des Projektteams werden Informationen über den Status des Projektes ausgetauscht und gegebenenfalls Teile der Planung angepasst. *Statusberichte* oder auch die *Kosten-Trend-Analyse* geben einen Überblick über die aktuelle Sachlage.[^8] Es zeigt sich auch, ob Risiken aus der zweiten Phase eintreten.
 Zusätzlich gewinnt das *Controlling* an Wichtigekit, da hierdurch früh unerwünschte Entwicklungen erkannt werden können.
 
+## 4. Projektüberwachung
+
+Diese Phase läuft meist parallel zur Projektdurchführung. Sie beinhaltet das bereits genannte *Controlling* und die Überwachung von Fristen, Budget und Ressourcen.[^3] 
+Zum Einsatz kommen Methoden wie die *Kanbanmethode* zur Produktionsprozesssteurung[^10] oder der *Plan/Soll/Ist-Vergleich*, bei welchem der Projektfortschritt qualitativ und quantitativ analysiert wird.[^11]
+
+Es besteht eine ständige Kommunikation zwischen allen relevanten Beteiligten und es wird auf unerwünschte Entwicklungen reagiert und gegengesteuert.[^6]
 
 
 
@@ -102,3 +108,6 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 [^6]: [business-wissen.de: Phasen des Projektmanagements im Überblick](https://www.business-wissen.de/hb/phasen-des-projektmanagements-im-ueberblick/)
 [^7]: [SoftSelect: Erläuterung: Lastenheft vs. Pflichtenheft](http://www.softselect.de/wissenspool/erlaeuterung_lastenheft_vs_pflichtenheft#:~:text=Das%20Lastenheft%20beschreibt%20die%20gesamte,Lastenheft%20gew%C3%BCnschten%20Funktionen%20umgesetzt%20werden.)
 [^8]: [Julius-Maximilians-Universität Würzburg: Projektdurchführung](https://www.uni-wuerzburg.de/verwaltung/qualitaetsmanagement/projektmanagement/projektdurchfuehrung/)
+[^9]: [Wikipedia: Methode des kritischen Pfades](https://de.wikipedia.org/wiki/Methode_des_kritischen_Pfades)
+[^10]: [Wipedia: Kanban](https://de.wikipedia.org/wiki/Kanban)
+[^11]: [ROLANDWANNER: Welches ist die beste Projektcontrolling-Methode?](https://rolandwanner.ch/die-beste-projektcontrolling-methode/)
