@@ -5,7 +5,7 @@ author: TobiasZuerrlein
 anrechnung: k
 ---
 
-Mit Empowerment (zu englisch empowerment „Ermächtigung, Übertragung von Verantwortung“) bezeichnet man Strategien und Maßnahmen, die den Grad an Autonomie und Selbstbestimmung im Leben von Menschen oder Gemeinschaften erhöhen sollen und es ihnen ermöglichen, ihre Interessen (wieder) eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten („Hilfe zur Selbsthilfe“). Empowerment bezeichnet dabei sowohl den Prozess der Selbstbemächtigung (Emanzipation) als auch die professionelle Unterstützung der Menschen, ihr Gefühl der Macht- und Einflusslosigkeit (powerlessness, „gesellschaftspolitische Ohnmacht“) zu überwinden und ihre Gestaltungsspielräume und Ressourcen wahrzunehmen und zu nutzen. WIKI
+Mit Empowerment (zu englisch empowerment „Ermächtigung, Übertragung von Verantwortung“) bezeichnet man Strategien und Maßnahmen, die den Grad an Autonomie und Selbstbestimmung im Leben von Menschen oder Gemeinschaften erhöhen sollen und es ihnen ermöglichen, ihre Interessen (wieder) eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten („Hilfe zur Selbsthilfe“). Empowerment bezeichnet dabei sowohl den Prozess der Selbstbemächtigung (Emanzipation) als auch die professionelle Unterstützung der Menschen, ihr Gefühl der Macht- und Einflusslosigkeit (powerlessness, „gesellschaftspolitische Ohnmacht“) zu überwinden und ihre Gestaltungsspielräume und Ressourcen wahrzunehmen und zu nutzen.[^1]
 
 ![Beipielabbildung](Empowerment/Empowerment1.jpg)
 
@@ -132,7 +132,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]:[Empowerment](https://de.wikipedia.org/wiki/Empowerment)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
