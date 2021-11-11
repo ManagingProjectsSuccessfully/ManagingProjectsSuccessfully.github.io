@@ -13,8 +13,11 @@ Bereits die Wahl der Bezeichnung "Backlog" (Auftragsbestand) weist darauf hin, d
 
 Anforderungen aus dem Product Backlog werden im Planning in die jeweiligen Sprint Backlogs gezogen und während eines Sprints bearbeitet. 
 
+![Beispielabbildung](Product_Backlog/Product vs Sprint.jpg)
 
-![Beispielabbildung](Product_Backlog/glossareintrag-backlog-product-backlog-versus-sprint-backlog_w1000.jpg)
+*lustiges Testbild*
+
+![Product vs Sprint.png](Product vs Sprint.png)
 *Product Backlog vs Sprint Backlog*
 
 # Wie erstelle ich die ersten Fassung des Scrum Product Backlogs? [^2]
