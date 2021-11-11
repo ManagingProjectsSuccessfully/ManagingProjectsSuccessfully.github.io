@@ -22,8 +22,14 @@ Das Projektcontrolling lässt sich in die drei fundamentalen Teilbereiche Kalkul
 In der Vorbereitungs- und Planungsphase erfolgt die Kalkulation des Projektes. In diesem Zeitraum werden Gesamtkosten, variable Kosten sowie Fixkosten systematisch erhoben. Je eher die Kosten ermittelt werden, desto schneller kann das Budget aufgestellt und die Projektumsetzung eingeleitet werden. Bei mittel- bis langfristigen Projekten ist es sinnvoll, das Projekt in mehrere Abschnitte zu untergliedern. Das hat den Vorteil, dass man jeder Etappe gesondert die verursachten Kosten zuordnen kann.
 
 ## Projektleistung
+Zu Beginn werden qualitative Merkmale des Projekts, die Projektleistung, determiniert. Das Projektcontrolling hat die Aufgabe, diese zu kontrollieren, um bei potentiellen Abweichungen frühzeitig Gegenmaßnahmen einzuleiten.
 
 ## Projektkontrolle
+Soll und Ist-Kosten des Projekts werden durch die Projektkontrolle über den gesamten [Projektlebenszyklus](Projektlebenszyklus.md) gegenüber gestellt, um die oben beschriebenen Abweichungen zu identifizieren.
+
+
+
+Durch die Projektkontrolle werden die Soll- und Ist-Kosten während der gesamten Dauer des Projekts dokumentiert sowie visualisiert. Die grafische Darstellung der Soll- und Ist-Kurven helfen bei der Feststellung, ob eine Kostenüberschreitung vorliegt. Allerdings ist die Visualisierung nur bedingt aussagekräftig. Aus diesem Grund ist die Durchführung einer Termin-Kosten-Kontrolle ratsam, um ermitteln zu können, ob mithilfe von Beschleunigungskosten das Projekt zu einem früheren Zeitpunkt fertiggestellt werden kann.
 
 
 # Methoden und Instrumente
