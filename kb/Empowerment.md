@@ -76,11 +76,6 @@ Wenn Dein Unternehmen also trotz Fachkräftemangel junge Mitarbeiter anziehen m�
 Ein Empowerment des Teams ist im Projektmanagement dem Umfangs- und Änderungsmanagement zuzuordnen. In dieser Aufgabengruppe geht es darum, für alle im Projekt getroffenen Annahmen und Festlegungen einen strukturierten Prozess für deren Änderung zu etablieren. Typische Sachverhalte über deren Änderung gemäß eines strukturierten Prozess entschieden werden sind Budgets, Zeitpläne und Produkt- bzw. Ergebniseigenschaften. Strukturierte Änderung bedeutet, dass die Änderung auf einem hierfür vorgeschriebenen Weg und in einem definierten Format beantragt wird. Es ist festgelegt, wer über eine Änderung entscheiden darf und wer anschließend davon in Kenntnis zu setzen ist. Alle Änderungen werden typischerweise protokolliert und archiviert. Das Umfangs- und Änderungsmanagement ist eine zentrale Aufgabengruppe im Projektmanagement. Wesentliche inhaltliche Schnittstellen bestehen zu den Aufgabengruppen Zeitmanagement, Budget-/Kostenmanagement, Produkt-/Qualitätsmanagement und Ziel-/Scopemanagement. Das Umfangs- und Änderungsmanagement ist gleichermaßen für klassische wie auch für agile Projekte relevant. In der agilen Welt wird es typischerweise in Bezug auf konkreter Aufgaben im jeweiligen Sprint angewendet. Bei klassischen Projekten ist es deutlich weiter gefasst, da hier alle zentralen Aufgabengruppen, wie Risikomanagement, Budget-/Kostenmanagement und Zeitmanagement Berücksichtigung finden.[^7]
 
 Ein Empowerment des Teams ist ein häufig anzutreffender Aspekt. Die Kenntnis ist empfehlenswert. Dieses Glossar erklärt noch weitere Aspekte des Umfangs- und Änderungsmanagements. Diese sind:[^7]
-# Empowerment-Zirkel
-Der Empowerment-Zirkel ist ein methodisches Instrument der Organisationsentwicklung. Empowerment-Zirkel arbeiten analog der im Produktionsbereich bereits seit den 50er Jahren eingeführten „Qualitäts-Zirkel“ (Arbeitskreise zur Verbesserung der Produkt-Qualität und der Arbeitsqualität). Ziel ist die gemeinsame Erarbeitung von empowerment-förderlichen Organisationsstrukturen („empowering organizations“), d.h. also die Gestaltung von Arbeitsplatzstrukturen, die eine gemeinsame institutionelle „Kultur des Empowerment“ anregen und fördern;
-die Motivation der MitarbeiterInnen fördern, die ihre spezifischen Fähigkeiten und Stärken in der Empowerment-Arbeit aktivieren und ihre Identifikation mit dem Empowerment-Programm bestärken;
-das Engagement und die subjektive Arbeitszufriedenheit der MitarbeiterInnen durch die positiv erfahrene Einbindung in eine verlässliche und von allen Mitgliedern geteilte Organisationskultur befördern.
-Die Arbeit an einer institutionellen „Kultur des Empowerment“ ist eine dauerhafte, nie wirklich abgeschlossene Arbeit im Team. Hierzu bedarf es eines festen Ortes und eines festen organisatorischen Settings. Die im folgenden aufgelisteten Themen strukturieren das Gespräch.[^5]
 
 # Siehe auch
 
@@ -89,7 +84,7 @@ Die Arbeit an einer institutionellen „Kultur des Empowerment“ ist eine dauer
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...[^6][^7]
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
@@ -101,6 +96,3 @@ Hanser Verlag, München, 2006
 [^5]:[Grundlagentext Empowerment (Vertiefung)](https://www.empowerment.de/grundlagen/)
 [^6]:[Empowerment: Teil der Managementkonzepte von morgen](https://media.zweikern.com/de/index/empowerment)
 [^7]:[Empowerment des Teams](https://project-base.org/projektmanagement-glossar/empowerment-des-teams/)
-
-
-Fehlende Quellen:  2, 6, 7
