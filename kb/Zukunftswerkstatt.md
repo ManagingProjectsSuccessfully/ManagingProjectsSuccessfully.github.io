@@ -2,94 +2,78 @@
 title: Zukunftswerkstatt
 tags: agil klassisch
 author: ig27oqaf
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Zukunftswerkstatt um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+
+Die Zukunftswerkstatt ist eine von den Forschern Robert Jungk, Rüdiger Lutz und Norbert R. Müllert begründete [Methode](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) im Projektmanagement. In dieser soll die Fantasie angeregt werden, die zu neuen Ideen für Lösungen gesellschaftlicher Probleme führen soll [^1].
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Geschichte
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Zukunftswerkstätte werden seit mehr als 25 Jahre veranstaltet und entstanden dort, wo Bürger kreative Lösungswege für ein besseres Zusammenleben finden wollten, da sie mit etablierten Institutionen oder natur- und Umweltzerstörenden Produktions- und Lebensformen nicht zufrieden waren. 
+Eine Entscheidung über die Zukunft sollte nicht mehr alleine durch Politiker oder Planer gefällt werden, sondern betroffene Bürger miteinbeziehen, um gemeinsam eine friedliche und menschenwürdige Zukunft zu schaffen.  
+Zuerst befasste sich die Zukunftswerkstatt mit verbalen und visuellen Formen der Kommunikation. Mittlerweile gibt es Methoden, wie gruppendynamische Übungen, Sensibilisierungen und meditative Techniken oder auch kritische, rationale Diskussionen und Planungsmethoden [^2].
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Anwendung der JBZ Werkstatt
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Der Partizipationen und offene Ansatz der Zukunftswerkstatt findet in vielen Bereichen, wie [Startups](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_in_Startups.md), Wirtschaftsunternehmen, Schulklassen, sozialen Vereinen und Gemeinden, Anschluss.  
 
-![Beispielabbildung](Zukunftswerkstatt/test-file.jpg)
+* Organisations- und Unternehmensentwicklung
+* Leitbildentwicklung und Zukunftsprofil
+*	Teamentwicklung
+* Als Tool für Startups, Unternehmensgründer/innen und Projektentwickler/innen
+*	[Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+*	Partizipative Gemeinde- und Regionalentwicklung (Bürger/innenbeteiligung)
+*	Partizipative Raum-, Umwelt- und Stadtplanung
+*	Gestaltung des unmittelbaren Lebens- und Wohnraumes (Partizipative Wohnraumgestaltung)
+* Demokratiebildung im schulischen und außerschulischen Bereich
 
-*lustiges Testbild*
+Je nach Thema, Kontext oder Zielgruppe kann eine Zukunftswerkstatt zwischen 2 und 8 Stunden bis hin zu mehreren Tagen angesetzt werden [^3].
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Ablauf
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Die drei Phasen der Zukunftswerkstatt: 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+I. Kritikphase | Bestandsaufnahme
+Das Ziel der ersten Phase ist es die Herausforderungen wahrzunehmen, sie zu verstehen und Vertrauen zu verschaffen. In dieser Phase können Einwände, Unmut und Veränderungsvorstellungen geäußert werden. Im geschlossenen Rahmen werden die Teilnehmer von den Meinungen aller Anwesenden unterrichtet. Auch positive Anregungen sollen hierbei geäußert werden. Man berichtet also über Angelegenheiten, die gut oder schlecht laufen und kann innerhalb der Gruppe Lösungen finden und in die nächste Phase übergegangen werden. Methoden, die diese Phase beschrieben sind beispielsweise der Dialog, Brainstorming oder die Bulls Eye Technik 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
+II: Phantasie- & Utopiephase
+Im Mittelpunkt der zweiten Phase stehen die Verwirklichung von Innovationen und die Entstehung von Ideen. Hierbei werden die kritischen Punkte aus der ersten Phase ins positive gebracht und als Ziel hervorgebracht. 
+In der kreativsten Phase sind  Experimentierfreude und Neugierde sehr wichtig. Dabei können Lösungen und Ideen sowohl schriftlich als auch verbal formuliert werden. Methoden dieser Phase sind beispielsweise [Brainstorming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Brainstorming.md) oder Graphicstorming, [World Café](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/World_Cafe.md) oder Dynamic facilitation. 
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+III. Realisierungs- | Strategiephase
+Die Ziele der letzten Phase beinhalten das planen und entscheiden. Man überprüft hier ob die zuvor entwickelten Ideen umsetzbar sind. Nun wird die strategische Planung ihren Anfang finden und die nächsten Schritte beschlossen. Methoden der letzten Phase sind beispielsweise Business Canvas, Aktionspläne oder das Ergebnis- und Strategiecafé [^4].
 
-# Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+![Beispielabbildung](https://i0.wp.com/jungk-bibliothek.org/wp-content/uploads/2017/12/jbz_zw_web_einzel-4.jpg?resize=580%2C336&ssl=1)
+*Themen- und Anwendungsoffenheit*
+
+# Praxisbeispiel Google
+
+
+Google hat im Sommer 2017 gemeinsam mit unterschiedlichen Partnern die Google Zukunftswerkstatt ins Leben gerufen. Das Ziel dieses Bündnis ist es die Chancen der [Digitalisierung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM.md) deutlich zu machen und die digitale Weiterbildung zu fördern. In den Kursen werden Themen wie Chancengleichheit und das Potenzial der Digitalisierung thematisiert.
+Gehaltsunterschieden oder der Unterrepräsentanz in Führungspositionen möchte man mit dem Workshops “Women Will” entgegenwirken, indem Frauen in Gruppenübungen und in Kommunikation mit Rolemodels und Experten bestärkt werden, ihre Karriere aktiv zu formen [^5].
+
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Zukunftswerkstatt.md)
+* [Methode](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md)
+* [Startups](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_in_Startups.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Brainstorming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Brainstorming.md)
+* [World Café](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/World_Cafe.md)
+* [Digitalisierung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM.md)
 
 # Weiterführende Literatur
 
@@ -97,8 +81,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://de.m.wikipedia.org/wiki/Zukunftswerkstatt 
+[^2]: https://www.sowi-online.de/praxis/methode/zukunftswerkstatt.html_2#kap5
+[^3]: https://jungk-bibliothek.org/zukunftswerkstaetten-2/anwendungsbereiche-einer-zukunftswerkstatt/
+[^4]: https://jungk-bibliothek.org/zukunftswerkstaetten/aufbau-und-methoden-der-zukunftswerkstatt/
+[^5]: https://initiative-chefsache.de/google-zukunftswerkstatt/
+
 
