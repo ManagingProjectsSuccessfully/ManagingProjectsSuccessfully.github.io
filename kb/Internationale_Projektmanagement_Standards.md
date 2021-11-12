@@ -12,60 +12,26 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Zielsetzung
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
+Internationale Projekte werden in Zukunft deutlich zunehmen [^1]. Neben den Projektmanagement Normen, die besonders deutlich im Grundsatzpapier der verschiedenen 
+Organisationen und Projekten definiert werden, ist es dagegen bei Projektmanagement Standards deutlich schwerer den genauen Inhalt und die Zielsetzung 
+herauszufinden. Standards können daher unter anderem als Richtlinie oder als eine Referenzdarstellung verstanden werden. Bei der Wahl der Projektmanagement (PM) n 
+Standards sollte ein pragmatisches Vorgehen gewählt werden, welches zudem regelmäßig in der Literatur diskutiert wird. [^2] 
 
 # Internationale Standards
+Im folgenden werden drei Internationale Projektmanagement Standards vorgestellt.
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## PMI: Project Management Body of Knowledge (PMBOK)
+Das Project Management Institute (PMI) wurde 1969 gegründet. Dort gibt es verschiedene PM Zertifikate wie beispielsweise PM Professional und PM Business Analysis                    
+basierend auf verschiedenen Standards [^3]. Der weit verbreitest, besonders in den USA kaum wegzudenkende PM Standard, ist das PMBOK. Auch weltweit gibt es über 
+890.000 Zertifizierungen [^2].    
+Als Zulassungskriterium müssen mindestens 4.500 Projektstunden (mit Hochschulabschluss) bzw. 7.500 Projektstunden (ohne Hochschulabschluss) sowie 35 Stunden 
+Schulung nachgewiesen werden. Höhere Zertifizierung Level erfordern zusätzlich den Nachweis von bis zu 6.000 Stunden PM-Erfahrung.[4]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Internationale_Projektmanagement_Standards/test-file.jpg)
-
-*lustiges Testbild*
-
-
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-##PMI: Project Management Body of Knowledge (PMBOK)
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Bei der Anwendung des PMBOK werden innerhalb des Projektes 49 Prozesse in einer Matrix von 5 Prozessgruppen und 10 Wissensgebieten definiert. Diese beschrieben für                            
+jeden Prozess den Input, Output, die Werkzeuge und das Verfahren. Dadurch hat man sich zum Ziel gesetzt besonders die Prozesse und Terminologien zu 
+vereinheitlichen. Benötigte Fähigkeiten werden bei diesem Standard nicht weiter ausgebaut [5]. Hauptmerkmal ist die Projektausrichtung, die sich an den einzelnen 
+Projektphasen orientiert. 
+Ebenfalls hervorzuheben ist der sogenannte PMI’s Code of Ethics and Professional Conduct, der vor der Zertifizierung akzeptiert werden muss und zur Rechtschaffenheit verpflichtet. [5]
 
 ## IPMA Indvidual Competence Baseline (ICB4)
 
@@ -94,4 +60,28 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+Aspekte zu Themen können ganz unterschiedlich sein:
 
+* Verschiedene Teile eines Themas 
+* Historische Entwicklung
+* Kritik 
+
+![Beispielabbildung](Internationale_Projektmanagement_Standards/test-file.jpg)
+
+*lustiges Testbild*
+
+
+
+* das
+* hier 
+* ist
+* eine 
+* Punkteliste
+  - mit unterpunkt
+
+So kann man eine Tabelle erstellen:
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
