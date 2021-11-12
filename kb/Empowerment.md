@@ -6,6 +6,9 @@ anrechnung: k
 ---
 Bei Teamarbeit ist der [Leiter](Projektleiter.md) eines [Projektes](Projekt.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten Projektteams überzugehen. Hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) erfordern jedoch eine offene Fehlerkultur, damit [Mitarbeiter](Projektmitarbeiter.md) des [Projekts](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen.
  Somit können mithilfe von [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt, bürokratischer Aufwand und Hierarchiestufen reduziert und Prozesse verbessert werden.[^7][^3]
+
+ [Empowerment](Empowerment.md) ist dem Umfangs- und [Änderungsmanagement](Change_Management.md) zuzuordnen. Das Umfangs- und Änderungsmanagement ist eine zentrale Aufgabengruppe im Projektmanagement und ist gleichermaßen für klassische wie auch für agile Projekte relevant. Wesentliche inhaltliche Schnittstellen bestehen zu den Aufgabengruppen Zeitmanagement, Budget-/Kostenmanagement, Produkt-/Qualitätsmanagement und Ziel-/Scopemanagement. In der agilen Welt wird es typischerweise in Bezug auf konkreter Aufgaben im jeweiligen Sprint angewendet. Bei klassischen Projekten ist es deutlich weiter gefasst. Hier finden alle zentralen Aufgabengruppen, wie Risikomanagement, Budget-/Kostenmanagement und Zeitmanagement Berücksichtigung.[^7]
+
 ![Beipielabbildung](Empowerment/Empowerment1.jpg)
 *Faktoren von Empowerment[^2]*
 
@@ -13,17 +16,13 @@ Bei Teamarbeit ist der [Leiter](Projektleiter.md) eines [Projektes](Projekt.md) 
 
 Im Allgmeinen betitelt [Empowerment](Empowerment.md) Strategien und Maßnahmen, welche den Autonomie- und Selbstbestimmungsgrad von Menschen oder Gemeinschaften steigern. Dabei soll ihnen ermöglicht werden, ihre Interessen eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten. [Empowerment](Empowerment.md)  bezeichnet dabei sowohl den Prozess als auch die professionelle Unterstützung der Emanzipation[^4]
 
-Im Sinne des [Projektmanagements](Projektmanagement.md) bedeutet [Empowerment](Empowerment.md) Macht- und Verantwortungsübertragung an die [Mitarbeiter](Projektmitarbeiter.md), wodurch ihnen ein höheres Maß an Autonomie, Informationszugang, Entscheidungskompetenz und Mitbestimmung eingeräumt wird. Diese Maßnahmen erlauben [Mitarbeiter](Projektmitarbeiter.md) eigenmächtig über gewisse Budgets, Kulanzleistungen, Urlaubsplanung sowie ihre eigenen Arbeitsabläufe zu entscheiden.[^3]
-
-# Einordnung von [Empowerment](Empowerment.md) im Rahmen des [Projektmanagements](Projektmanagement.md)
-
-Innerhalb des [Projektmanagements](Projektmanagement.md) ist [Empowerment](Empowerment.md) dem Scope- und [Change Management](Change_Management.md) zuzuordnen. In dieser Aufgabengruppe geht es darum, für alle im Projekt getroffenen Annahmen und Festlegungen einen strukturierten Prozess für deren Änderung zu etablieren. Typische Sachverhalte über deren Änderung gemäß eines strukturierten Prozess entschieden werden sind Budgets, Zeitpläne und Produkt- bzw. Ergebniseigenschaften. Strukturierte Änderung bedeutet, dass die Änderung auf einem hierfür vorgeschriebenen Weg und in einem definierten Format beantragt wird. Es ist festgelegt, wer über eine Änderung entscheiden darf und wer anschließend davon in Kenntnis zu setzen ist. Alle Änderungen werden typischerweise protokolliert und archiviert. Das Umfangs- und Änderungsmanagement ist eine zentrale Aufgabengruppe im Projektmanagement. Wesentliche inhaltliche Schnittstellen bestehen zu den Aufgabengruppen Zeitmanagement, Budget-/Kostenmanagement, Produkt-/Qualitätsmanagement und Ziel-/Scopemanagement. Das Umfangs- und Änderungsmanagement ist gleichermaßen für klassische wie auch für agile Projekte relevant. In der agilen Welt wird es typischerweise in Bezug auf konkreter Aufgaben im jeweiligen Sprint angewendet. Bei klassischen Projekten ist es deutlich weiter gefasst, da hier alle zentralen Aufgabengruppen, wie Risikomanagement, Budget-/Kostenmanagement und Zeitmanagement Berücksichtigung finden.[^7]
+Im Sinne des [Projektmanagements](Projektmanagement.md) bedeutet [Empowerment](Empowerment.md) Macht- und Verantwortungsübertragung an die [Mitarbeiter](Projektmitarbeiter.md), wodurch ihnen ein höheres Maß an Autonomie, Informationszugang, Entscheidungskompetenz und Mitbestimmung eingeräumt wird. Diese Maßnahmen erlauben [Mitarbeitern](Projektmitarbeiter.md) eigenmächtig über gewisse Budgets, Kulanzleistungen, Urlaubsplanung sowie ihre eigenen Arbeitsabläufe zu entscheiden.[^3]
 
 # Hintergründe
 Konnte man früher Entwicklungen sehr viel besser einschätzen und so mit ruhiger Hand deutlich langfristiger planen, ergeben sich für Unternehmen heute andere Herausforderungen: Agiles handeln ist heutzutage eine Kernkompetenz, die das Überleben eines Unternehmens sichert.[^3]
 
-Empowerment von Mitarbeitern ermöglicht Projektarbeit: Mit der
-Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des einzelnen Mitarbeiters. Die Bedeutung von reinen Linienfunktionen wird immer stärker auf Personalführung und Karriereplanung
+Empowermentermöglicht Projektarbeit: Mit der
+Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des einzelnen Mitarbeiters.
 beschränkt.[^1]
 # Auswirkungen von [Empowerment](Empowerment.md)
 ## Mitarbeitermotivation
