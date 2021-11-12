@@ -4,7 +4,7 @@ tags: agil klassisch
 author: TobiasZuerrlein
 anrechnung: k
 ---
-Bei herkömmlicher Teamarbeit ist der Projektmanager derjenige, der die Verantwortung und Autorität für alle Entscheidungen übernimmt. Allerdings kann diese Vorgehensweise oftmals verhindern, dass die [Mitarbeiter](Projektmitarbeiter.md) Ihr volles Potenzial entfalten können. Empowerment meint von einer Person, die alles kontrolliert, zur Stärkung des gesamten Projektteams überzugehen. Wer ist verantwortlich, wer hat Autorität? Jedermann. Das Wichtigste an einem Projekt ist eine gute Führung. Das unwichtigste ist, wer führt. Hochproduktive selbstorganisierende Teams sind nicht einfach, sie erfordern Disziplin. Was das Empowerment des Teams beschleunigen kann, ist, die Schuld zu beseitigen. Einige Mitglieder des Teams zögern vielleicht, wichtige Entscheidungen zu treffen, wenn sie glauben, dass sie später dafür zur Rechenschaft gezogen werden. Ein agiles Team legt Regeln fest, um frei zu werden. Es sollten einfache Regeln sein, um die Schnittstellen zwischen den Teammitgliedern zu definieren. Ein gutes Beispiel ist das tägliche Stand-up / Scrum-Meeting (Daily). Eine Regel, für die es nicht mehr als 15 Minuten zur selben Zeit am selben Ort bedarf, macht tatsächlich Zeit für andere Dinge frei.[^7]
+Bei herkömmlicher Teamarbeit ist der [Projektleiter](Projektleiter.md) derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten Projektteams überzugehen. Hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) erfordern jedoch eine offene Fehlerkultur, damit [Mitarbeiter](Projektmitarbeiter.md) des [Projekts](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen.[^7]
 
 Empowerment wird auch in der Wirtschaft ein immer wichtiger werdendes Thema. Doch warum ist das so und warum ist es heutzutage fast schon ein Muss, diese Theorien zu berücksichtigen?
 In der heutigen Zeit bzw. der Wirtschaft gewinnt das unternehmerische Engagement, die Teamfähigkeit und Konfliktfähigkeit der Mitarbeiter immer mehr an Bedeutung. Durch verschiedenste Technologien und Weiterentwicklungen werden die Ansprüche an die Mitarbeiter immer höher.
@@ -80,7 +80,8 @@ Ein Empowerment des Teams ist ein häufig anzutreffender Aspekt. Die Kenntnis is
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Empowerment.md)
+* [Selbstorganisierende_Teams](Selbstorganisierende_Teams.md)
+* [Teammanagement](Teammanagement.md)
 
 # Weiterführende Literatur
 
