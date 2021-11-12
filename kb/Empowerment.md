@@ -6,47 +6,22 @@ anrechnung: k
 ---
 Bei herkömmlicher Teamarbeit ist der [Projektleiter](Projektleiter.md) derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten Projektteams überzugehen. Hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) erfordern jedoch eine offene Fehlerkultur, damit [Mitarbeiter](Projektmitarbeiter.md) des [Projekts](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen.[^7]
 
-In der heutigen Zeit bzw. der Wirtschaft gewinnt das unternehmerische Engagement, die Teamfähigkeit und Konfliktfähigkeit der Mitarbeiter immer mehr an Bedeutung. Durch verschiedenste Technologien und Weiterentwicklungen werden die Ansprüche an die Mitarbeiter immer höher.
-Mitarbeiter sollen nicht mehr nur ihre Arbeitsleistung bringen, sondern auch Eigeninitiative und Durchsetzungsvermögen zeigen. Sie sollen sich mit dem Unternehmen identifizieren können und über soziale Kompetenzen für Teamaufgaben verfügen.
-Durch den immer stärker werdenden Konkurrenzdruck am Markt tritt die Kunden- sowie Serviceorientierung in den Mittelpunkt, um neue Kunden anzuwerben und Stammkunden halten zu können.
-Die Kunden von Heute wollen sich nicht durch verschiedene Hierarchiestrukturen kämpfen müssen, um herauszufinden, wer welche Kompetenzen hat und wer Entscheidungen treffen darf. Der Kunde will eine Lösung für das vorhandene Problem, so schnell wie möglich, von einem kompetenten Vertreter des Unternehmens.
-Das Interesse der Mitarbeiter, eine kundenorientierte Haltung einzunehmen, kommt allerdings nicht von selbst und kann nicht „angeordnet“ werden.
-Dieses Engagement entsteht erst durch die größeren Handlungsspielräume und Entwicklung der vielseitigen Kompetenzen der Mitarbeiter. Hierbei kommt das Empowerment ins Spiel.[^6]
-
-Mit Empowerment bezeichnet man Strategien und Maßnahmen, die den Grad an Autonomie und Selbstbestimmung im Leben von Menschen oder Gemeinschaften erhöhen sollen und es ihnen ermöglichen, ihre Interessen (wieder) eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten („Hilfe zur Selbsthilfe“). Empowerment bezeichnet dabei sowohl den Prozess der Selbstbemächtigung (Emanzipation) als auch die professionelle Unterstützung der Menschen, ihr Gefühl der Macht- und Einflusslosigkeit (powerlessness, „gesellschaftspolitische Ohnmacht“) zu überwinden und ihre Gestaltungsspielräume und Ressourcen wahrzunehmen und zu nutzen.[^4]
-
 ![Beipielabbildung](Empowerment/Empowerment1.jpg)
 *Faktoren und Auswirkungen von Empowerment[^2]*
 
-Empowerment (englisch für Ermächtigung) bedeutet Macht- und Verantwortungsübertragung vom [Management](Projektmanagement.md) an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.[^3]
-
-# Die Bedeutung von Empowerment für Unternehmen
-Empowerment hat eine große Bedeutung für die Wirtschaft und Unternehmen der heutigen Zeit.[^6]
-
-Erst wenn Empowerment konsequent auf allen Ebenen des Unternehmens durchgeführt wird und in die Unternehmenskultur eingebettet ist, können Erfolge erzielt werden.[^6]
-
-Nun stellt sich die Frage, welche Vorteile sich aus Empowerment ergeben.[^6]
-
-
-
-Wenn sich ein Unternehmen genauer mit Empowerment auseinandersetzt, kann es Einsicht in übergeordnete Zusammenhänge erlangen und so können neue Handlungsfelder für Mitarbeiter entstehen. Ist Empowerment einmal etabliert, können Optionen von den Mitarbeitern wahrgenommen und selbstständig ausgewählt werden. Um diese Befähigung umsetzen zu können, müssen allerdings auch die Rahmenbedingungen im Unternehmen stimmen. Dazu ist es wichtig, hierarchische und bürokratische Hürden aus dem Weg zu räumen, die Mitarbeiter in der Entscheidungsfindung bremsen. Des Weiteren muss eine Unternehmenskultur etabliert werden, in der man Fehler machen kann und dafür nicht bestraft wird und in der Vertrauen entstehen kann. Ein wichtiger Teil des Empowerment stellen Teamentwicklungsmaßnahmen dar, wodurch die Mitarbeiter mit neuen Qualifikationen ihre Rolle im Team finden können.[^6]
-
-Empowerment heißt also nicht einfach Verantwortung abzugeben, sondern, dass alle für das Unternehmen, für die Gewinne und die Produkte und Leistungen des Betriebes verantwortlich sind. Verantwortung bedeutet wiederum, größeres Engagement für eigene Projekte und mehr Klarheit über eigene Ziele und Bedürfnisse. Die Effektivität und Produktivität eines Unternehmens, wird von der Entwicklung der Mitarbeiter sowie von dem Einsatz deren Talente und Qualitäten bestimmt.[^6]
-
-Unternehmen müssen erkennen, dass die Mitarbeiter das größte Kapital der Firma sind und aus diesem Grund, ist in diese zu investieren und auf deren Qualität zu vertrauen.[^6]
-
-" Man kann einem Menschen nichts beibringen, man kann ihm nur helfen, es in sich selbst zu entdecken"[^6]
-
 # Defintion
+Im Allgmeinen meint [Empowerment](Empowerment.md) Strategien und Maßnahmen, welche den Autonomie- und Selbstbestimmungsgrad im Leben von Menschen oder Gemeinschaften erhöhen. Dabei ihnen ermöglicht werden, ihre Interessen eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten. [Empowerment](Empowerment.md)  bezeichnet dabei sowohl den Prozess als auch die professionelle Unterstützung der Emazipation[^4]
 ## Empowerment im Management
-Hier bedeutet Empowerment, dass das Management den Mitarbeitern größere Entscheidungskompetenz, Mitbestimmungsmöglichkeiten und Zugang zu Informationen einräumt. Das erlaubt Mitarbeitern selbstständig über die Verwendung bestimmter Budgets, Kulanz-Leistungen, Urlaubsplanung, Gestaltung ihrer Arbeitsabläufe entscheiden. So werden eigenes Handeln und Denken seitens der Mitarbeiter gefördert, bürokratische Hindernisse und Hierarchien abgebaut und Abläufe optimiert. Dies fördert nachweislich die Motivation der Mitarbeiter.[^3]
+Hier bedeutet [Empowerment](Empowerment.md), dass das Management den Mitarbeitern größere Entscheidungskompetenz, Mitbestimmungsmöglichkeiten und Zugang zu Informationen einräumt. Das erlaubt Mitarbeitern selbstständig über die Verwendung bestimmter Budgets, Kulanz-Leistungen, Urlaubsplanung, Gestaltung ihrer Arbeitsabläufe entscheiden. So werden eigenes Handeln und Denken seitens der Mitarbeiter gefördert, bürokratische Hindernisse und Hierarchien abgebaut und Abläufe optimiert. Dies fördert nachweislich die Motivation der Mitarbeiter.[^3]
+
+Empowerment bedeutet Macht- und Verantwortungsübertragung vom [Management](Projektmanagement.md) an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.[^3]
 # Hintergründe
 Konnte man früher Entwicklungen sehr viel besser einschätzen und so mit ruhiger Hand deutlich langfristiger planen, ergeben sich für Unternehmen heute andere Herausforderungen: Agiles handeln, also die Möglichkeit schnell zu reagieren und sich schnell zu verändern ist heutzutage eine Kernkompetenz, die das Überleben eines Unternehmens sichert.[^3]
 
 Empowerment von Mitarbeitern ermöglicht Projektarbeit: Mit der
 Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des einzelnen Mitarbeiters. Die Bedeutung von reinen Linienfunktionen wird immer stärker auf Personalführung und Karriereplanung
 beschränkt.[^1]
-# Relevanz des Empowerments
+# unternehmerische Relevanz von Empowerment
 ## Mitarbeitermotivation
 Vor allem wird die intrinsische Motivation der Mitarbeiter gestärkt. Dies geschieht durch mehr Autonomie und Gestaltungsfreiheit, mehr Eigenverantwortung und durch Erfolgserlebnisse mit dem Kontakt zu Kunden. Des Weiteren wird die Qualifizierung der Mitarbeiter erhöht, sie können sich persönlich Weiterbilden und gegebenenfalls auch selbst Verwirklichen. Dafür werden allerdings die Arbeitsaufgaben anspruchsvoller und falls es zu einer Personalausdünnung kommt, steigt die Leistungsanforderung an die Mitarbeiter.[^6]
 ## Reaktionsfähigkeit
@@ -71,6 +46,20 @@ Wenn Dein Unternehmen also trotz Fachkräftemangel junge Mitarbeiter anziehen m�
 
 # Empowerment des Teams – Umfangs- und Änderungsmanagement
 Ein Empowerment des Teams ist im Projektmanagement dem Umfangs- und Änderungsmanagement zuzuordnen. In dieser Aufgabengruppe geht es darum, für alle im Projekt getroffenen Annahmen und Festlegungen einen strukturierten Prozess für deren Änderung zu etablieren. Typische Sachverhalte über deren Änderung gemäß eines strukturierten Prozess entschieden werden sind Budgets, Zeitpläne und Produkt- bzw. Ergebniseigenschaften. Strukturierte Änderung bedeutet, dass die Änderung auf einem hierfür vorgeschriebenen Weg und in einem definierten Format beantragt wird. Es ist festgelegt, wer über eine Änderung entscheiden darf und wer anschließend davon in Kenntnis zu setzen ist. Alle Änderungen werden typischerweise protokolliert und archiviert. Das Umfangs- und Änderungsmanagement ist eine zentrale Aufgabengruppe im Projektmanagement. Wesentliche inhaltliche Schnittstellen bestehen zu den Aufgabengruppen Zeitmanagement, Budget-/Kostenmanagement, Produkt-/Qualitätsmanagement und Ziel-/Scopemanagement. Das Umfangs- und Änderungsmanagement ist gleichermaßen für klassische wie auch für agile Projekte relevant. In der agilen Welt wird es typischerweise in Bezug auf konkreter Aufgaben im jeweiligen Sprint angewendet. Bei klassischen Projekten ist es deutlich weiter gefasst, da hier alle zentralen Aufgabengruppen, wie Risikomanagement, Budget-/Kostenmanagement und Zeitmanagement Berücksichtigung finden.[^7]
+# Die Bedeutung von Empowerment für Unternehmen
+Empowerment hat eine große Bedeutung für die Wirtschaft und Unternehmen der heutigen Zeit.[^6]
+
+Erst wenn Empowerment konsequent auf allen Ebenen des Unternehmens durchgeführt wird und in die Unternehmenskultur eingebettet ist, können Erfolge erzielt werden.[^6]
+
+Nun stellt sich die Frage, welche Vorteile sich aus Empowerment ergeben.[^6]
+
+Wenn sich ein Unternehmen genauer mit Empowerment auseinandersetzt, kann es Einsicht in übergeordnete Zusammenhänge erlangen und so können neue Handlungsfelder für Mitarbeiter entstehen. Ist Empowerment einmal etabliert, können Optionen von den Mitarbeitern wahrgenommen und selbstständig ausgewählt werden. Um diese Befähigung umsetzen zu können, müssen allerdings auch die Rahmenbedingungen im Unternehmen stimmen. Dazu ist es wichtig, hierarchische und bürokratische Hürden aus dem Weg zu räumen, die Mitarbeiter in der Entscheidungsfindung bremsen. Des Weiteren muss eine Unternehmenskultur etabliert werden, in der man Fehler machen kann und dafür nicht bestraft wird und in der Vertrauen entstehen kann. Ein wichtiger Teil des Empowerment stellen Teamentwicklungsmaßnahmen dar, wodurch die Mitarbeiter mit neuen Qualifikationen ihre Rolle im Team finden können.[^6]
+
+Empowerment heißt also nicht einfach Verantwortung abzugeben, sondern, dass alle für das Unternehmen, für die Gewinne und die Produkte und Leistungen des Betriebes verantwortlich sind. Verantwortung bedeutet wiederum, größeres Engagement für eigene Projekte und mehr Klarheit über eigene Ziele und Bedürfnisse. Die Effektivität und Produktivität eines Unternehmens, wird von der Entwicklung der Mitarbeiter sowie von dem Einsatz deren Talente und Qualitäten bestimmt.[^6]
+
+Unternehmen müssen erkennen, dass die Mitarbeiter das größte Kapital der Firma sind und aus diesem Grund, ist in diese zu investieren und auf deren Qualität zu vertrauen.[^6]
+
+" Man kann einem Menschen nichts beibringen, man kann ihm nur helfen, es in sich selbst zu entdecken"[^6]
 
 # Siehe auch
 
