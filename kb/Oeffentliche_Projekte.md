@@ -113,3 +113,10 @@ Ein Proket durchzuführen bzw das erforderliche Projektmanagment ist nicht mit d
 Tabelle
 
 In der freien Wirtschaft kontrolliert der Erfolg eines UNternehemns oder salopp gesagt der Markt den Erfolg. In der öffetnlichen verwaltungen gibt es solche Gesetztmäßigkeiten jedoch nicht. Als KOntrollinstituin ist der immmer merh an Einfluss gewinnende Bundesrechnungshof oder auch Organisationen wie der Bun der Steuerzahler. Hier wird aufgepasst wie das Geld verwendet wurde und darauf geachtet dasss nichts verschwendet wirtd.
+
+Zukunft/Kritik
+In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Dinge gedacht.
+
+Tabelle
+
+Aufgrund solcher dramatischen Fehlplanungen gibt es schon seit langem die Forderung die öffentliche Projektplanung zu reformieren. Es wird nie ganz wie in der freien Wirtschaft funktioniere jedoch gibt es schon Ansätze die Strukturen des agilen Projektmanagments mit einfliesen zu lassen. Auch eine engere Zusammenarbeit von öffetnlicher und privater Wirtschaft im Sinne von PPP. Das heißt dass man sich exterene erfahrene BErater ins Haus holt die eine hohe Expertise und viel Erfahrung beim Thema Projektmangment aufweisen und so die öffentliche Verwaltung dabei unterstützen können.
