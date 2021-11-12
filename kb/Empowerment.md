@@ -6,10 +6,9 @@ anrechnung: k
 ---
 Bei herkömmlicher Teamarbeit ist der [Projektleiter](Projektleiter.md) derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten Projektteams überzugehen. Hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) erfordern jedoch eine offene Fehlerkultur, damit [Mitarbeiter](Projektmitarbeiter.md) des [Projekts](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen.[^7]
 
-Empowerment wird auch in der Wirtschaft ein immer wichtiger werdendes Thema. Doch warum ist das so und warum ist es heutzutage fast schon ein Muss, diese Theorien zu berücksichtigen?
 In der heutigen Zeit bzw. der Wirtschaft gewinnt das unternehmerische Engagement, die Teamfähigkeit und Konfliktfähigkeit der Mitarbeiter immer mehr an Bedeutung. Durch verschiedenste Technologien und Weiterentwicklungen werden die Ansprüche an die Mitarbeiter immer höher.
 Mitarbeiter sollen nicht mehr nur ihre Arbeitsleistung bringen, sondern auch Eigeninitiative und Durchsetzungsvermögen zeigen. Sie sollen sich mit dem Unternehmen identifizieren können und über soziale Kompetenzen für Teamaufgaben verfügen.
-Durch den immer stärker werdenden Konkurrenzdruck am Markt tritt die Kunden- sowie Serviceorientierung in den Mittelpunkt, um neue Kunden anzuwerben und Stammkunden halten zu können. Denn die Konkurrenz schläft niemals.
+Durch den immer stärker werdenden Konkurrenzdruck am Markt tritt die Kunden- sowie Serviceorientierung in den Mittelpunkt, um neue Kunden anzuwerben und Stammkunden halten zu können.
 Die Kunden von Heute wollen sich nicht durch verschiedene Hierarchiestrukturen kämpfen müssen, um herauszufinden, wer welche Kompetenzen hat und wer Entscheidungen treffen darf. Der Kunde will eine Lösung für das vorhandene Problem, so schnell wie möglich, von einem kompetenten Vertreter des Unternehmens.
 Das Interesse der Mitarbeiter, eine kundenorientierte Haltung einzunehmen, kommt allerdings nicht von selbst und kann nicht „angeordnet“ werden.
 Dieses Engagement entsteht erst durch die größeren Handlungsspielräume und Entwicklung der vielseitigen Kompetenzen der Mitarbeiter. Hierbei kommt das Empowerment ins Spiel.[^6]
@@ -28,7 +27,7 @@ Erst wenn Empowerment konsequent auf allen Ebenen des Unternehmens durchgeführt
 
 Nun stellt sich die Frage, welche Vorteile sich aus Empowerment ergeben.[^6]
 
-Vor allem wird die intrinsische Motivation der Mitarbeiter gestärkt. Dies geschieht durch mehr Autonomie und Gestaltungsfreiheit, mehr Eigenverantwortung und durch Erfolgserlebnisse mit dem Kontakt zu Kunden. Des Weiteren wird die Qualifizierung der Mitarbeiter erhöht, sie können sich persönlich Weiterbilden und gegebenenfalls auch selbst Verwirklichen. Dafür werden allerdings die Arbeitsaufgaben anspruchsvoller und falls es zu einer Personalausdünnung kommt, steigt die Leistungsanforderung an die Mitarbeiter.[^6]
+
 
 Wenn sich ein Unternehmen genauer mit Empowerment auseinandersetzt, kann es Einsicht in übergeordnete Zusammenhänge erlangen und so können neue Handlungsfelder für Mitarbeiter entstehen. Ist Empowerment einmal etabliert, können Optionen von den Mitarbeitern wahrgenommen und selbstständig ausgewählt werden. Um diese Befähigung umsetzen zu können, müssen allerdings auch die Rahmenbedingungen im Unternehmen stimmen. Dazu ist es wichtig, hierarchische und bürokratische Hürden aus dem Weg zu räumen, die Mitarbeiter in der Entscheidungsfindung bremsen. Des Weiteren muss eine Unternehmenskultur etabliert werden, in der man Fehler machen kann und dafür nicht bestraft wird und in der Vertrauen entstehen kann. Ein wichtiger Teil des Empowerment stellen Teamentwicklungsmaßnahmen dar, wodurch die Mitarbeiter mit neuen Qualifikationen ihre Rolle im Team finden können.[^6]
 
@@ -52,6 +51,8 @@ Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des
 beschränkt. Die eigentliche Arbeit erfolgt in Projekten, welche von zeitlich
 begrenzten Projektleitern geführt werden.[^1]
 # Relevanz des Empowerments
+## Mitarbeitermotivation
+Vor allem wird die intrinsische Motivation der Mitarbeiter gestärkt. Dies geschieht durch mehr Autonomie und Gestaltungsfreiheit, mehr Eigenverantwortung und durch Erfolgserlebnisse mit dem Kontakt zu Kunden. Des Weiteren wird die Qualifizierung der Mitarbeiter erhöht, sie können sich persönlich Weiterbilden und gegebenenfalls auch selbst Verwirklichen. Dafür werden allerdings die Arbeitsaufgaben anspruchsvoller und falls es zu einer Personalausdünnung kommt, steigt die Leistungsanforderung an die Mitarbeiter.[^6]
 ## Reaktionsfähigkeit
 Wenn dein Unternehmen schnell reagieren muss, dann ist es sinnvoll den Mitarbeiter der mit jeweiligen Entscheidung konfrontiert ist auch entscheiden zu lassen. – Geht schneller, oder? Die Alternative wäre, die Entscheidungsanfrage erst diverse Schreibtische auf mehreren Hierarchieebenen abklappern zu lassen. Und schnell ist das nun wirklich nicht…[^3]
 
@@ -79,7 +80,6 @@ Ein Empowerment des Teams ist ein häufig anzutreffender Aspekt. Die Kenntnis is
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Selbstorganisierende_Teams](Selbstorganisierende_Teams.md)
 * [Teammanagement](Teammanagement.md)
 
