@@ -65,6 +65,7 @@ Unternehmen müssen erkennen, dass die Mitarbeiter das größte Kapital der Firm
 
 * [Selbstorganisierende_Teams](Selbstorganisierende_Teams.md)
 * [Teammanagement](Teammanagement.md)
+* [Changemanagement](Change_Management.md)
 
 # Weiterführende Literatur
 
