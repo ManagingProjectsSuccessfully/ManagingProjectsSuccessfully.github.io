@@ -7,7 +7,7 @@ anrechnung: k
 Bei Teamarbeit ist der [Leiter](Projektleiter.md) eines [Projektes](Projekt.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten Projektteams überzugehen. Hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) erfordern jedoch eine offene Fehlerkultur, damit [Mitarbeiter](Projektmitarbeiter.md) des [Projekts](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen.
  Somit können mithilfe von [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt, bürokratischer Aufwand und Hierarchiestufen reduziert und Prozesse verbessert werden.[^7][^3]
 
- [Empowerment](Empowerment.md) ist dem Umfangs- und [Änderungsmanagement](Change_Management.md) zuzuordnen. Das Umfangs- und Änderungsmanagement ist eine zentrale Aufgabengruppe im Projektmanagement und ist gleichermaßen für klassische wie auch für agile Projekte relevant. Wesentliche inhaltliche Schnittstellen bestehen zu den Aufgabengruppen Zeitmanagement, Budget-/Kostenmanagement, Produkt-/Qualitätsmanagement und Ziel-/Scopemanagement. In der agilen Welt wird es typischerweise in Bezug auf konkreter Aufgaben im jeweiligen Sprint angewendet. Bei klassischen Projekten ist es deutlich weiter gefasst. Hier finden alle zentralen Aufgabengruppen, wie Risikomanagement, Budget-/Kostenmanagement und Zeitmanagement Berücksichtigung.[^7]
+ [Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Änderungsmanagement.md) zuzuordnen. Das Umfangs- und Änderungsmanagement ist eine Kernaufgabe des klassischen sowie agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben Anwendung findet, sind beim klassichen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Budget-/Kostenmanagement und Zeitmanagement betroffen.[^7]
 
 ![Beipielabbildung](Empowerment/Empowerment1.jpg)
 *Faktoren von Empowerment[^2]*
@@ -66,6 +66,7 @@ Unternehmen müssen erkennen, dass die Mitarbeiter das größte Kapital der Firm
 * [Selbstorganisierende_Teams](Selbstorganisierende_Teams.md)
 * [Teammanagement](Teammanagement.md)
 * [Change Management](Change_Management.md)
+* [Änderungsmanagement](Änderungsmanagement.md)
 
 # Weiterführende Literatur
 
