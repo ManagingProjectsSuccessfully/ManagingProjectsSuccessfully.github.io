@@ -20,7 +20,8 @@ Bei der 3-Zeiten-Methode, oder auch Dreipunkt-Schätzung genannt, schätzen die 
 
 Die Dauer des Vorgangs wird dann mit der folgenden Formel ermittelt:
 
-„FORMEL EINZELWERT“ 
+<img width="515" alt="Bildschirmfoto 2021-11-11 um 14 35 29" src="https://user-images.githubusercontent.com/92893773/141490178-1cae4f49-8952-4f1a-a179-63d90641ed07.png">
+..
 
 Der Schätzfehler wird durch die Standardabweichung angegeben. Er wird mit der folgenden Formel berechnet:
 
