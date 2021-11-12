@@ -14,7 +14,7 @@ Bei Teamarbeit ist der [Leiter](Projektleiter.md) eines [Projektes](Projekt.md) 
 
 # Defintion
 
-Im Allgemeinen betitelt [Empowerment](Empowerment.md) Strategien und Maßnahmen, welche den Autonomie- und Selbstbestimmungsgrad von Menschen oder Gemeinschaften steigern. Dabei soll ihnen ermöglicht werden, ihre Interessen eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten. [Empowerment](Empowerment.md)  bezeichnet dabei sowohl den Prozess als auch die professionelle Unterstützung der Emanzipation[^4]
+Im Allgemeinen betitelt [Empowerment](Empowerment.md) Strategien und Maßnahmen, welche den Autonomie- und Selbstbestimmungsgrad von Menschen oder Gemeinschaften steigern. Dabei soll ihnen ermöglicht werden, ihre Interessen eigenmächtig, selbstverantwortlich und -bestimmt zu vertreten. [Empowerment](Empowerment.md)  bezeichnet dabei sowohl den Prozess als auch die professionelle Unterstützung der Emanzipation[^4]
 
 Im Sinne des [Projektmanagements](Projektmanagement.md) bedeutet [Empowerment](Empowerment.md) Macht- und Verantwortungsübertragung an die [Mitarbeiter](Projektmitarbeiter.md), wodurch ihnen ein höheres Maß an Autonomie, Informationszugang, Entscheidungskompetenz und Mitbestimmung eingeräumt wird. Diese Maßnahmen erlauben [Mitarbeitern](Projektmitarbeiter.md) eigenmächtig über gewisse Budgets, Kulanzleistungen, Urlaubsplanung sowie ihre eigenen Arbeitsabläufe zu entscheiden.[^3]
 
