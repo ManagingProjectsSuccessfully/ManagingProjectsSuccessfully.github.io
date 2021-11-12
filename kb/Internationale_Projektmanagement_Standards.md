@@ -5,11 +5,6 @@ author: laura1mueller
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Internationale_Projektmanagement_Standards um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
 # Zielsetzung
 
 Internationale Projekte werden in Zukunft deutlich zunehmen [^1]. Neben den Projektmanagement Normen, die besonders deutlich im Grundsatzpapier der verschiedenen 
@@ -33,6 +28,9 @@ vereinheitlichen. Benötigte Fähigkeiten werden bei diesem Standard nicht weite
 Projektphasen orientiert. 
 Ebenfalls hervorzuheben ist der sogenannte PMI’s Code of Ethics and Professional Conduct, der vor der Zertifizierung akzeptiert werden muss und zur Rechtschaffenheit verpflichtet.[^5]
 
+<img width="249" alt="PMI" src="https://user-images.githubusercontent.com/92951568/141460006-2da954c5-d970-454e-91c6-56e3717fe39e.png">
+
+
 ## IPMA Indvidual Competence Baseline (ICB4)
 
 Die International Project Management Association (IPMA) wurde 1965 gegründet und ist geprägt durch eine sehr individuelle Herangehensweise, da es kein festes Modell 
@@ -43,6 +41,9 @@ Prozessmodelle fehlen allerdings, da davon ausgegangen wird, dass qualifizierte 
 notwendig sind, was auch als „Eye of Competence“ bezeichnet wird. Der Standard gliedert sich in vier verschiedenen Stufen, von Leven D, bis zum höchsten Level A. Je nach Level unterscheiden sich auch die Zulassungsvoraussetzungen und abgeleitete Maßnahmen.[^5]
 
 ICB4 wird weltweit in über 71 Ländern verwendet und es gibt über 250.000 Zertifikate weltweit [^4].
+
+<img width="210" alt="IPMA" src="https://user-images.githubusercontent.com/92951568/141460092-d1243f27-cf6b-4942-a454-58ac034497c6.png">
+
 
 ## Prince 2 (PRoject IN Controlled Environments)
 
@@ -56,7 +57,7 @@ Eine weitere Besonderheit ist zudem, dass dieser PM Standards ein Projekt als �
   
 Arbeitsvorlagen und eine produktbasierte Planung, lässt sich Prince 2 gut mit anderen Standards kombinieren. [^5]
 
-
+<img width="304" alt="MPS" src="https://user-images.githubusercontent.com/92951568/141459894-b992b1a0-5732-4eeb-a5f9-99e8aa0cac38.png">
 
 
 # Siehe auch
@@ -76,15 +77,3 @@ Arbeitsvorlagen und eine produktbasierte Planung, lässt sich Prince 2 gut mit a
 [^4]: https://www.haufe-akademie.de/blog/themen/projekt-prozessmanagement/drei-standards-ein-ziel-projekte-erfolgreich-managen/)
 [^5]: https://www.assure.de/sites/default/files/media/downloads/whitepaper_projektmanagement_standards_vergleich.pdf)
 
-![Beispielabbildung](Internationale_Projektmanagement_Standards/test-file.jpg)
-
-
-
-
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
