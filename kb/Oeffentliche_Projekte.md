@@ -118,6 +118,16 @@ Ein Proket durchzuführen bzw das erforderliche Projektmanagment ist nicht mit d
 | 4. Durchführung  | Produkt/Leistung  |
 | 5. Abschluss | Abschlussbericht  |
 
+1. Initialisierung 
+2. Definition
+3. Planung
+4. Durchführung
+5. Abschluss
+   
+
+
+
+
 In der freien Wirtschaft kontrolliert der Erfolg eines UNternehemns oder salopp gesagt der Markt den Erfolg. In der öffetnlichen verwaltungen gibt es solche Gesetztmäßigkeiten jedoch nicht. Als KOntrollinstituin ist der immmer merh an Einfluss gewinnende Bundesrechnungshof oder auch Organisationen wie der Bun der Steuerzahler. Hier wird aufgepasst wie das Geld verwendet wurde und darauf geachtet dasss nichts verschwendet wirtd.
 
 Zukunft/Kritik
@@ -125,10 +135,10 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 
 | Projekt | Kostenplanung | Tatsächliche Kosten |
 | ------------ |  ------------- | ------------- |
-| Stuttgart21    | 2,5Mrd       | 9,6Mrd      |
-| Flughafen BER   | 2,7Mrd     | 6Mrd    |
-| Main-Donau-Kanal    | 400Mio       | 2,4Mrd      |
-| Elbphilharmonie    | 77Mio       | 866Mio      |
+| Stuttgart21    | 2,5 Mrd       | 9,6 Mrd      |
+| Flughafen BER   | 2,7 Mrd     | 6 Mrd    |
+| Main-Donau-Kanal    | 400 Mio       | 2,4 Mrd      |
+| Elbphilharmonie    | 77 Mio       | 866 Mio      |
 
 Tabelle
 
