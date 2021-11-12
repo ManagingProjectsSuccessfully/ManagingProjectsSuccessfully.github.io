@@ -28,10 +28,10 @@ Bild 1:
 ![kuenstliche_intelligenz_im_projektmanagement-b2](https://user-images.githubusercontent.com/78257976/141346922-8c5eda9d-261d-4818-8318-b40a02721b30.jpg)
 
 
-Des Weiteren sind Künstliche Intelligenzen in der Lage frühzeitig Termin- oder Ressourcenenpässe zu erkennen, welche beispielweise bei Fehler-Raten oder beim Abarbeitungstempo von Arbeitspaketen möglich sind. Weitere Aspekte wobei die KI-Software für das Projektmanagement von Vorteil sein kann ist die übernahme repetetiver Arbeiten, wie Meeting-Organisation oder beim Projektcontrolling liefert die KI automatisch Warnsignale bei Gefährdung der Einhaltung von Budget- oder Terminvorgaben[^6]. 
+Des Weiteren sind Künstliche Intelligenzen in der Lage frühzeitig Termin- oder Ressourcenenpässe zu erkennen, welche beispielweise bei Fehler-Raten oder beim Abarbeitungstempo von Arbeitspaketen möglich sind. Weitere Aspekte wobei die KI-Software für das Projektmanagement von Vorteil sein kann ist die übernahme repetetiver Arbeiten, wie Meeting-Organisation oder beim Projektcontrolling liefert die KI automatisch Warnsignale bei Gefährdung der Einhaltung von Budget- oder Terminvorgaben[^6]. Weitere 
 
 # Relativierung von Bedenken an die KI-Software für Projektmanagement
-Zunächst ist KI-Software nicht dazu da die Mitarbeiter zu überwachen oder zu ersetzen, 
+Zunächst ist KI-Software nicht dazu da die Mitarbeiter zu überwachen[^6] oder zu ersetzen[^7], sie soll lediglich ein nachhaltiges Arbeitstempo schaffen, Enpässe erkennen und Mitarbeiter:innen in der Projektarbeit vor Lastspitzen schützen und eine höhere Zufriedenheit sorgen[^6]. Des Weiteren sind die Bedenken, dass der Mitarbeiter durch eine KI  ersetzt wird eher unwahrscheinlich, denn die Handlungsempfehlungen zu verhandeln oder Stakeholder zu akquirieren werden auch in Zukunft ein Projektmanager:innen übernehmen müssen[^5]. 
 
 
 # Weiterführende Literatur
@@ -46,4 +46,4 @@ Zunächst ist KI-Software nicht dazu da die Mitarbeiter zu überwachen oder zu e
 [^4]: https://www.projektmagazin.de/artikel/kuenstliche-intelligenz-ki-projektmanagement Autor: Marc Bollmann, Andreas Janiak, veröffentlicht am: 10.03.2021, aufgerufen am 11.11.2021 um 18:15 Uhr
 [^5]: https://www.capgemini.com/de-de/2021/09/effizienzsteigerung-im-projektmanagement-ist-ai-die-loesung/ Autorin: Sandra Imelmann, veröffentlicht am: 20.09.2021, aufgerufen am 11.11.2021 um 18:38 Uhr
 [^6]: https://www.assure.de/de/blog/projektmanagement-ki-chance-oder-risiko Autor: David Treffenstädt veröffentlicht am: unbekannt , aufgerufen am 12.11.2021 12:00 Uhr
-[^7]: Daniela Geretshuber, Hendrik Reese  Studie von pwc: Künstliche Intelligenz in Unternehemen, Befragung von 500 Entscheidern deutscher Unternehmen zum Status quo - mit Bewertungen und Handlunsoptionen von PwC, veröffentlicht am: 02.2019 
+[^7]: Daniela Geretshuber, Hendrik Reese  Studie von pwc: Künstliche Intelligenz in Unternehemen, Befragung von 500 Entscheidern deutscher Unternehmen zum Status quo - mit Bewertungen und Handlunsoptionen von PwC, veröffentlicht am: 02.2019 S. 13
