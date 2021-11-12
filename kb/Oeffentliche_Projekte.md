@@ -123,7 +123,7 @@ In der freien Wirtschaft kontrolliert der Erfolg eines UNternehemns oder salopp 
 Zukunft/Kritik
 In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Dinge gedacht.
 
-| Left-aligned | Center-aligned | Right-aligned |
+| Projekt | Kostenplanung | Tatsächliche Kosten |
 | ------------ |  ------------- | ------------- |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
