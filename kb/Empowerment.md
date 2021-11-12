@@ -39,8 +39,6 @@ Unternehmen müssen erkennen, dass die Mitarbeiter das größte Kapital der Firm
 " Man kann einem Menschen nichts beibringen, man kann ihm nur helfen, es in sich selbst zu entdecken"[^6]
 
 # Defintion
-## Empowerment im psychologischen und sozialen Bereich
-Im psychologischen und sozialen Bereich bedeutet Empowerment, Menschen zu ermutigen ihren eigenen Weg zu gehen, ihre Belange in die eigene Hand zu nehmen und sie bei der Entwicklung der eigenen Stärken und Selbstbestimmung zu unterstützen.[^3]
 ## Empowerment im Management und Führungsbereich
 Hier bedeutet Empowerment, dass das Management den Mitarbeitern größere Entscheidungskompetenz, Mitbestimmungsmöglichkeiten und Zugang zu Informationen einräumt. Das erlaubt Mitarbeitern selbstständig über die Verwendung bestimmter Budgets, Kulanz-Leistungen, Urlaubsplanung, Gestaltung ihrer Arbeitsabläufe entscheiden. So werden eigenes Handeln und Denken seitens der Mitarbeiter gefördert, bürokratische Hindernisse und Hierarchien abgebaut und Abläufe optimiert. Dies fördert nachweislich die Motivation der Mitarbeiter.[^3]
 # Hintergründe
@@ -83,81 +81,6 @@ Der Empowerment-Zirkel ist ein methodisches Instrument der Organisationsentwickl
 die Motivation der MitarbeiterInnen fördern, die ihre spezifischen Fähigkeiten und Stärken in der Empowerment-Arbeit aktivieren und ihre Identifikation mit dem Empowerment-Programm bestärken;
 das Engagement und die subjektive Arbeitszufriedenheit der MitarbeiterInnen durch die positiv erfahrene Einbindung in eine verlässliche und von allen Mitgliedern geteilte Organisationskultur befördern.
 Die Arbeit an einer institutionellen „Kultur des Empowerment“ ist eine dauerhafte, nie wirklich abgeschlossene Arbeit im Team. Hierzu bedarf es eines festen Ortes und eines festen organisatorischen Settings. Die im folgenden aufgelisteten Themen strukturieren das Gespräch.[^5]
-# Hier ein Beispieltext mit ei paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^4]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 4
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Empowerment/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-4. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   4. und hier eine Ebene tiefer
-
 
 # Siehe auch
 
