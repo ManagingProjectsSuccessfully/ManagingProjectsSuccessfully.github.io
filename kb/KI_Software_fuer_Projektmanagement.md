@@ -6,7 +6,7 @@ anrechnung: a
 ---
 
 Die KI-Software für das Projektmanagement ist ein sehr neues Thema, denn nur 23% der Befragten gaben an im Projektmanagement mit künstlicher Intelligenz gearbeitet zu haben. 
-Obwohl 90% der Projektmanagement-Fachleute überzeugt sind vom Einsatz von KI im Projekt und Projektmanagement, dennoch scheinen nur 4% der Unternehmen KI großflächig einzusetzen. Die KI-Software die am häufigsten verwendet wird sind beispielsweise [Analysetools](https://www.onlinemarketing-praxis.de/web-controlling/web-analyse-tools), [Chat-Bots](https://www.ibm.com/de-de/campaign/was-ist-ein-chatbot) oder [robotergestützte Prozessautomatisierung](https://de.wikipedia.org/wiki/Robotic_Process_Automation)[^1].
+Obwohl 90% der Projektmanagement-Fachleute überzeugt sind vom Einsatz von KI im Projekt und Projektmanagement, scheinen dennoch nur 4% der Unternehmen KI großflächig einzusetzen. Die KI-Software die am häufigsten verwendet wird sind beispielsweise [Analysetools](https://www.onlinemarketing-praxis.de/web-controlling/web-analyse-tools), [Chat-Bots](https://www.ibm.com/de-de/campaign/was-ist-ein-chatbot) oder [robotergestützte Prozessautomatisierung](https://de.wikipedia.org/wiki/Robotic_Process_Automation)[^1].
 
 * Was ist KI-Software?
   - Arten von KI-Software
