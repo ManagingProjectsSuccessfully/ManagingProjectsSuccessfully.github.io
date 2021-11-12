@@ -123,6 +123,11 @@ In der freien Wirtschaft kontrolliert der Erfolg eines UNternehemns oder salopp 
 Zukunft/Kritik
 In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Dinge gedacht.
 
+| Left-aligned | Center-aligned | Right-aligned |
+| ------------ |  ------------- | ------------- |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 Tabelle
 
 Aufgrund solcher dramatischen Fehlplanungen gibt es schon seit langem die Forderung die öffentliche Projektplanung zu reformieren. Es wird nie ganz wie in der freien Wirtschaft funktioniere jedoch gibt es schon Ansätze die Strukturen des agilen Projektmanagments mit einfliesen zu lassen. Auch eine engere Zusammenarbeit von öffetnlicher und privater Wirtschaft im Sinne von PPP. Das heißt dass man sich exterene erfahrene BErater ins Haus holt die eine hohe Expertise und viel Erfahrung beim Thema Projektmangment aufweisen und so die öffentliche Verwaltung dabei unterstützen können.
