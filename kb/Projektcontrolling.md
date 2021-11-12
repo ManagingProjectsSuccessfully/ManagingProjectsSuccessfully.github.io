@@ -15,7 +15,7 @@ In der folgenden Abbildung ist der projektspezifische „Controlling Regelkreis�
 
 Dieser beschreibt einen sich wiederholenden Zyklus, dessen Häufigkeit sich nach dem [Projektumfang](Projektumfang.md) richten sollte. Dabei kann sowohl das gesamte Projekt, als auch nur einzelne Phasen betrachtet werden.
 
-# Teilbereiche des Projektcontrollings [^2]
+# Teilbereiche des Projektcontrollings 
 Das Projektcontrolling lässt sich in die drei fundamentalen Teilbereiche Kalkulation, Leistung und Kontrolle untergliedern. Diese dienen Unternehmen als Basis zur Planung, Durchführung und Erfolgsbeurteilung der Projekte. 
 
 ## Projektkalkulation
@@ -25,12 +25,7 @@ In der Vorbereitungs- und Planungsphase erfolgt die Kalkulation des Projektes. I
 Zu Beginn werden qualitative Merkmale des Projekts, die Projektleistung, determiniert. Das Projektcontrolling hat die Aufgabe, diese zu kontrollieren, um bei potentiellen Abweichungen frühzeitig Gegenmaßnahmen einzuleiten.
 
 ## Projektkontrolle
-Soll und Ist-Kosten des Projekts werden durch die Projektkontrolle über den gesamten [Projektlebenszyklus](Projektlebenszyklus.md) gegenüber gestellt, um die oben beschriebenen Abweichungen zu identifizieren.
-
-
-
-Durch die Projektkontrolle werden die Soll- und Ist-Kosten während der gesamten Dauer des Projekts dokumentiert sowie visualisiert. Die grafische Darstellung der Soll- und Ist-Kurven helfen bei der Feststellung, ob eine Kostenüberschreitung vorliegt. Allerdings ist die Visualisierung nur bedingt aussagekräftig. Aus diesem Grund ist die Durchführung einer Termin-Kosten-Kontrolle ratsam, um ermitteln zu können, ob mithilfe von Beschleunigungskosten das Projekt zu einem früheren Zeitpunkt fertiggestellt werden kann.
-
+Soll und Ist-Kosten des Projekts werden durch die Projektkontrolle über den gesamten [Projektlebenszyklus](Projektlebenszyklus.md) im Blick behalten, um Kostenabweichungen zu identifizieren. Eine reine Gegenüberstellung der Kosten liefert nur bedingt einen Mehrwert. Diese Vorgehensweise berücksichtigt nicht, ob das Projekt durch Beschleunigungskosten vorzeitig fertiggestellt werden kann. Eine Termin-Kosten-Kontrolle verschafft daher einen genaueren Einblick in die Gesamtkosten. [^2]
 
 # Methoden und Instrumente
 
