@@ -4,15 +4,14 @@ tags: agil klassisch
 author: TobiasZuerrlein
 anrechnung: k
 ---
-Bei herkömmlicher Teamarbeit ist der [Projektleiter](Projektleiter.md) derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten Projektteams überzugehen. Hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) erfordern jedoch eine offene Fehlerkultur, damit [Mitarbeiter](Projektmitarbeiter.md) des [Projekts](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen.[^7]
-
+Bei Teamarbeit ist der [Leiter](Projektleiter.md) eines [Projektes](Projekt.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten Projektteams überzugehen. Hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) erfordern jedoch eine offene Fehlerkultur, damit [Mitarbeiter](Projektmitarbeiter.md) des [Projekts](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen.[^7]
 ![Beipielabbildung](Empowerment/Empowerment1.jpg)
 *Faktoren und Auswirkungen von Empowerment[^2]*
-
 # Defintion
-Im Allgmeinen meint [Empowerment](Empowerment.md) Strategien und Maßnahmen, welche den Autonomie- und Selbstbestimmungsgrad im Leben von Menschen oder Gemeinschaften erhöhen. Dabei ihnen ermöglicht werden, ihre Interessen eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten. [Empowerment](Empowerment.md)  bezeichnet dabei sowohl den Prozess als auch die professionelle Unterstützung der Emazipation[^4]
-## Empowerment im Management
-Hier bedeutet [Empowerment](Empowerment.md), dass das Management den Mitarbeitern größere Entscheidungskompetenz, Mitbestimmungsmöglichkeiten und Zugang zu Informationen einräumt. Das erlaubt Mitarbeitern selbstständig über die Verwendung bestimmter Budgets, Kulanz-Leistungen, Urlaubsplanung, Gestaltung ihrer Arbeitsabläufe entscheiden. So werden eigenes Handeln und Denken seitens der Mitarbeiter gefördert, bürokratische Hindernisse und Hierarchien abgebaut und Abläufe optimiert. Dies fördert nachweislich die Motivation der Mitarbeiter.[^3]
+
+Im Allgmeinen meint [Empowerment](Empowerment.md) Strategien und Maßnahmen, welche den Autonomie- und Selbstbestimmungsgrad im Leben von Menschen oder Gemeinschaften erhöhen. Dabei soll ihnen ermöglicht werden, ihre Interessen eigenmächtig, selbstverantwortlich und selbstbestimmt zu vertreten. [Empowerment](Empowerment.md)  bezeichnet dabei sowohl den Prozess als auch die professionelle Unterstützung der Emanzipation[^4]
+
+Im Sinne des [Projektmanagemnets](Projektmanagement.md) bedeutet[Empowerment](Empowerment.md), dass den Mitarbeitern ein höheres Maß an Informationszugang, Entscheidungskompetenz und Mitbestimmung eingeräumt wird. Diese Maßnahmen erlauben Mitarbeitern eigenmächtig über gewisse Budgets, Kulanzleistungen, Urlaubsplanung sowie ihre eigenen Arbeitsabläufe zu entscheiden. So werden eigenes Handeln und Denken seitens der Mitarbeiter gefördert, bürokratische Hindernisse und Hierarchien abgebaut und Abläufe optimiert.[^3]
 
 Empowerment bedeutet Macht- und Verantwortungsübertragung vom [Management](Projektmanagement.md) an seine Mitarbeiter, deren Autonomie, Mitbestimmung und Entscheidungsspielraum dadurch deutlich erweitert wird.[^3]
 # Hintergründe
