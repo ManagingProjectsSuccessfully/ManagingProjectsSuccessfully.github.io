@@ -56,7 +56,6 @@ author: anniSc
 | [Infrastruktur_Projekte](kb/Infrastruktur_Projekte.md)                                                                             | [MillaLena](https://github.com/MillaLena)                     |
 | [Oeffentliche_Projekte](kb/Oeffentliche_Projekte.md)                                                                               | [AbleAn](https://github.com/AbleAn)                           |
 | [Digitalisierungsprojekte](kb/Digitalisierungsprojekte.md)                                                                         | [aliciamiederer](https://github.com/aliciamiederer)           |
-| [Transformationsprojekte](kb/Transformationsprojekte.md)                                                                           | [pamerkl](https://github.com/pamerkl)                         |
 | [Cone_of_Uncertainty](kb/Cone_of_Uncertainty.md)                                                                                   | [phigeit](https://github.com/phigeit)                         |
 | [Ausschreibungen](kb/Ausschreibungen.md)                                                                                           | [Lars428](https://github.com/Lars428)                         |
 | [Projekthandbuch](kb/Projekthandbuch.md)                                                                                           | [Saskia1403](https://github.com/Saskia1403)                   |
@@ -85,7 +84,6 @@ author: anniSc
 | [MeisterTask_PM_Tool](kb/MeisterTask_PM_Tool.md)                                                                                   | [nazarelsaifi](https://github.com/nazarelsaifi)               |
 | [ClickUp_PM_Tool](kb/ClickUp_PM_Tool.md)                                                                                           | [urimi0](https://github.com/urimi0)                           |
 | [Hive_PM_Tool](kb/Hive_PM_Tool.md)                                                                                                 | [Gilchus](https://github.com/Gilchus)                         |
-| [WRIKE_PM_Tool](kb/WRIKE_PM_Tool.md)                                                                                               | [jonaskarg187](https://github.com/jonaskarg187)               |
 | [Trello_PM_Tool](kb/Trello_PM_Tool.md)                                                                                             | [hatutona](https://github.com/hatutona)                       |
 | [Podio_PM_Tool](kb/Podio_PM_Tool.md)                                                                                               | [Paulqe42kuno](https://github.com/Paulqe42kuno)               |
 | [Microsoft_Project_PM_Tool](kb/Microsoft_Project_PM_Tool.md)                                                                       | [oliPM](https://github.com/oliPM)                             |
@@ -282,7 +280,6 @@ author: anniSc
 | [Product_Owner](kb/Product_Owner.md)                                                                                               | [Leon1906](https://github.com/Leon1906)                       |
 | [Scrum_Master](kb/Scrum_Master.md)                                                                                                 | [Phr4nk20](https://github.com/Phr4nk20)                       |
 | [Development_Team](kb/Development_Team.md)                                                                                         | [greifchristina](https://github.com/greifchristina)           |
-| [Events](kb/Events.md)                                                                                                             | [Tjara1](https://github.com/Tjara1)                           |
 | [Sprint](kb/Sprint.md)                                                                                                             | [LKmps2021](https://github.com/LKmps2021)                     |
 | [Sprint_Planning](kb/Sprint_Planning.md)                                                                                           | [fauchavd](https://github.com/fauchavd)                       |
 | [Daily_Scrum](kb/Daily_Scrum.md)                                                                                                   | [JonathanBauerFau](https://github.com/JonathanBauerFau)       |
@@ -291,7 +288,6 @@ author: anniSc
 | [Scrum_Artefakte](kb/Scrum_Artefakte.md)                                                                                           | [Christoph-Mantsch](https://github.com/Christoph-Mantsch)     |
 | [Increment](kb/Increment.md)                                                                                                       | [up67enyq](https://github.com/up67enyq)                       |
 | [Product_Backlog](kb/Product_Backlog.md)                                                                                           | [PhilippWolfrum](https://github.com/PhilippWolfrum)           |
-| [Sprint_Backlog](kb/Sprint_Backlog.md)                                                                                             | [flxrbnk](https://github.com/flxrbnk)                         |
 | [Definition_of_Done](kb/Definition_of_Done.md)                                                                                     | [Akshat7777](https://github.com/Akshat7777)                   |
 | [Scrum_Values](kb/Scrum_Values.md)                                                                                                 | [Lukas1401](https://github.com/Lukas1401)                     |
 | [Scrum_Principles](kb/Scrum_Principles.md)                                                                                         | [lianalia](https://github.com/lianalia)                       |
@@ -305,7 +301,6 @@ author: anniSc
 | [Scrum_Transparenz](kb/Scrum_Transparenz.md)                                                                                       | [Lorybr](https://github.com/Lorybr)                           |
 | [Scrum_Ueberpruefung](kb/Scrum_Ueberpruefung.md)                                                                                   | [Steffi226](https://github.com/Steffi226)                     |
 | [Scrum_Anpassung](kb/Scrum_Anpassung.md)                                                                                           | [MariaKaisa ](https://github.com/MariaKaisa )                 |
-| [Scrum_Termine](kb/Scrum_Termine.md)                                                                                               | [NinaNagel](https://github.com/NinaNagel)                     |
 | [Planning_Poker](kb/Planning_Poker.md)                                                                                             | [jsk0lb](https://github.com/jsk0lb)                           |
 | [User_Story_INVEST_Methode](kb/User_Story_INVEST_Methode.md)                                                                       | [Juliakau](https://github.com/Juliakau)                       |
 | [KISS_Prinzip](kb/KISS_Prinzip.md)                                                                                                 | [seposer](https://github.com/seposer)                         |
