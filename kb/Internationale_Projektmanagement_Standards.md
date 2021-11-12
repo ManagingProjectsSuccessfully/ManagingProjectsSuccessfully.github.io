@@ -7,9 +7,8 @@ anrechnung: k
 
 # Zielsetzung
 
-Internationale Projekte werden in Zukunft deutlich zunehmen [^1]. Neben den Projektmanagement Normen, die besonders deutlich im Grundsatzpapier der verschiedenen 
-Organisationen und Projekten definiert werden, ist es dagegen bei Projektmanagement Standards deutlich schwerer den genauen Inhalt und die Zielsetzung 
-herauszufinden. Standards können daher unter anderem als Richtlinie oder als eine Referenzdarstellung verstanden werden. Bei der Wahl der Projektmanagement (PM) n 
+Die Bedeutung Internationaler Projekte wird in Zukunft deutlich zunehmen [^1]. Neben den Projektmanagement Normen, die besonders deutlich im Grundsatzpapier der verschiedenen Organisationen und Projekten definiert werden, ist es dagegen bei Projektmanagement Standards deutlich schwerer den genauen Inhalt und die Zielsetzung 
+herauszufinden. Standards können daher unter anderem als Richtlinie oder als eine Referenzdarstellung verstanden werden. Bei der Wahl der Projektmanagement (PM)
 Standards sollte ein pragmatisches Vorgehen gewählt werden, welches zudem regelmäßig in der Literatur diskutiert wird. [^2] 
 
 # Internationale Standards
@@ -39,10 +38,10 @@ herausgegebenen Buch beschriebt zudem detailliert, die verschiedenen Kompetenzel
 Prozessmodelle fehlen allerdings, da davon ausgegangen wird, dass qualifizierte Personen in der Lage sind in bestimmten Handlungen zu bestimmen welche Schritte 
 notwendig sind, was auch als „Eye of Competence“ bezeichnet wird. Der Standard gliedert sich in vier verschiedenen Stufen, von Leven D, bis zum höchsten Level A. Je nach Level unterscheiden sich auch die Zulassungsvoraussetzungen und abgeleitete Maßnahmen.[^5]
 
-ICB4 wird weltweit in über 71 Ländern verwendet und es gibt über 250.000 Zertifikate weltweit [^4].
+ICB4 wird weltweit in über 71 Ländern verwendet und es gibt über 250.000 Zertifikate weltweit. [^4]
 
 <img width="210" alt="IPMA" src="https://user-images.githubusercontent.com/92951568/141460092-d1243f27-cf6b-4942-a454-58ac034497c6.png">
-Abbildung: Eye of Competence, GPM Deutsche Gesellschaft für Projektmanagement e.V.[^5]
+Abbildung: Eye of Competence, GPM Deutsche Gesellschaft für Projektmanagement e.V. [^5]
 
 ## Prince2 (PRoject IN Controlled Environments)
 
@@ -57,7 +56,7 @@ Eine weitere Besonderheit ist zudem, dass dieser PM Standards ein Projekt als �
 Arbeitsvorlagen und eine produktbasierte Planung, lässt sich Prince 2 gut mit anderen Standards kombinieren.[^5]
 
 <img width="304" alt="MPS" src="https://user-images.githubusercontent.com/92951568/141459894-b992b1a0-5732-4eeb-a5f9-99e8aa0cac38.png">
-Abbildung: Aufbau von Prince2.[^5]
+Abbildung: Aufbau von Prince2. [^5]
 
 # Siehe auch
 
