@@ -125,8 +125,10 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 
 | Projekt | Kostenplanung | Tatsächliche Kosten |
 | ------------ |  ------------- | ------------- |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Stuttgart21    | 2,5Mrd       | 9,6Mrd      |
+| Flughafen BER   | 2,7Mrd     | 6Mrd    |
+| Main-Donau-Kanal    | 400Mio       | 2,4Mrd      |
+| Elbphilharmonie    | 77Mio       | 866Mio      |
 
 Tabelle
 
