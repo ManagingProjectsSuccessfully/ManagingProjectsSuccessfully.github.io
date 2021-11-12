@@ -21,15 +21,17 @@ Zunächst ist die Künstliche Intelligenz ein Gebiet aus der [Informatik](https:
 Unter anderem wird unterschieden zwischen starker und schwacher Künstlicher Intelligenz, die starke KI ist in der Lage ein selbstbewusstes Bewusstsein zu entwickeln, welches die Fähigkeit besitzt, Probleme zu lösen, zu lernen und in die Zukunft zu planen. Des Weiteren ist sie nicht abhängig vom menschlichen Eingriffen, da sie sich selbst beibringt Probleme zu lösen. Die schwache KI hingegegen ist auf die Ausführung von bestimmten Aufgaben beschränkt, wie das ausführen von Schachzügen oder das beantworten von Fragen. Die schwache KI kann nur eine Art von Aufgabentyp gleichzeitig bewältigen und ist auf menschliche Hilfe angewiesen. Beispiele einer schwachen KI wären [selbstfahrende Autos](https://de.wikipedia.org/wiki/Selbstfahrendes_Kraftfahrzeug), Alexa, Siri oder auch virtuelle Assistenten wie [Watson Assistant](https://www.ibm.com/de-de/products/watson-assistant)[^3]. 
 
 # Nutzen von KI-Software für Projektmanagement
-Die Künstliche Intelligenz bietet ab einer gewissen Komplexität von Projekten, welche viel Pflege benötigen oder wenn die Aufwandsabschätzung sehr viel Zeit beansprucht, weshalb andere Tätigkeiten vernachlässigt werden[^4], eine Effizienzssteigerung[^5]. Bei der Verwendung von KI im Projektmanagement ist vorallem das maschinelle Lernen relevant, dabei unterstützt und löst die KI Anwendungsprobleme im Projekmanagement. Des Weiteren werden anhand von Anwedungsfall und Datenlage die Künstlichen Intelligenzen fortlaufend trainiert, und optimieren dadurch Entscheidungsfindung. Die KI lernt durch verschiedene Ansätze wie "Supervised Learning","Unsupervised Learning" und "Reinforcement Learning", welche im Bild 1 Beschrieben werden[^4]. 
+Die Künstliche Intelligenz bietet ab einer gewissen Komplexität von Projekten, welche viel Pflege benötigen oder wenn die Aufwandsabschätzung sehr viel Zeit beansprucht, weshalb andere Tätigkeiten vernachlässigt werden[^4], eine Effizienzssteigerung[^5]. Bei der Verwendung von KI im Projektmanagement ist vorallem das maschinelle Lernen relevant, dabei unterstützt und löst die KI Anwendungsprobleme im Projekmanagement. Des Weiteren werden anhand von Anwedungsfall und Datenlage die Künstlichen Intelligenzen fortlaufend trainiert, und optimieren dadurch Entscheidungsfindung. Die KI lernt durch verschiedene Ansätze wie "Supervised Learning","Unsupervised Learning" und "Reinforcement Learning", welche im Bild 1 näher Beschrieben werden[^4]. 
 
 Bild 1: 
 
 ![kuenstliche_intelligenz_im_projektmanagement-b2](https://user-images.githubusercontent.com/78257976/141346922-8c5eda9d-261d-4818-8318-b40a02721b30.jpg)
 
 
+Des Weiteren sind Künstliche Intelligenzen in der Lage frühzeitig Termin- oder Ressourcenenpässe zu erkennen, welche beispielweise bei Fehler-Raten oder beim Abarbeitungstempo von Arbeitspaketen möglich sind. Weitere Aspekte wobei die KI-Software für das Projektmanagement von Vorteil sein kann ist die übernahme repetetiver Arbeiten, wie Meeting-Organisation oder beim Projektcontrolling liefert die KI automatisch Warnsignale bei Gefährdung der Einhaltung von Budget- oder Terminvorgaben[^6].
 
 # Kritik an KI-Software für Projektmanagement
+
 
 
 # Weiterführende Literatur
@@ -43,3 +45,4 @@ Bild 1:
 [^3]: https://www.ibm.com/cloud/learn/strong-ai Autor: IBM Cloud Education, veröffentlicht am: 31.08.2020, aufgerufen am 11.11.2021 um 17:37 Uhr
 [^4]: https://www.projektmagazin.de/artikel/kuenstliche-intelligenz-ki-projektmanagement Autor: Marc Bollmann, Andreas Janiak, veröffentlicht am: 10.03.2021, aufgerufen am 11.11.2021 um 18:15 Uhr
 [^5]: https://www.capgemini.com/de-de/2021/09/effizienzsteigerung-im-projektmanagement-ist-ai-die-loesung/ Autorin: Sandra Imelmann, veröffentlicht am: 20.09.2021, aufgerufen am 11.11.2021 um 18:38 Uhr
+[^6]: https://www.assure.de/de/blog/projektmanagement-ki-chance-oder-risiko Autor: David Treffenstädt veröffentlicht am: unbekannt , aufgerufen am 12.11.2021 12:00 Uhr
