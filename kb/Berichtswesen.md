@@ -23,8 +23,11 @@ Ziele, die schließlich mit dem Berichtswesen verfolgt werden, sind:
 
 *	Gewährleistung eines laufenden Soll-Ist-Vergleichs
 *	Strukturierte und standardisierte Kommunikation über den aktuellen Projektstatus
-* Laufende schriftliche Dokumentation des Projektfortschritts
+*  Laufende schriftliche Dokumentation des Projektfortschritts
 *	Lieferung von Informationen über unvorhersehbare Ereignisse bzw. Störungen, um eine frühzeitig Gegensteuerung zu ermöglichen
+
+
+![Beispielabbildung](Berichtswesen/Bild.jpg)
    
 # Erfolgsfakor Berichtswesen
 
@@ -91,6 +94,9 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Kritik 
 
 ![Beispielabbildung](Berichtswesen/test-file.jpg)
+
+![Beispielabbildung](Berichtswesen/Bild.jpg)
+
 
 *lustiges Testbild*
 
