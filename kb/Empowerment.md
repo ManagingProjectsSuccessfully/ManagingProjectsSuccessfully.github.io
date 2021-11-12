@@ -38,18 +38,14 @@ Unternehmen müssen erkennen, dass die Mitarbeiter das größte Kapital der Firm
 " Man kann einem Menschen nichts beibringen, man kann ihm nur helfen, es in sich selbst zu entdecken"[^6]
 
 # Defintion
-## Empowerment im Management und Führungsbereich
+## Empowerment im Management
 Hier bedeutet Empowerment, dass das Management den Mitarbeitern größere Entscheidungskompetenz, Mitbestimmungsmöglichkeiten und Zugang zu Informationen einräumt. Das erlaubt Mitarbeitern selbstständig über die Verwendung bestimmter Budgets, Kulanz-Leistungen, Urlaubsplanung, Gestaltung ihrer Arbeitsabläufe entscheiden. So werden eigenes Handeln und Denken seitens der Mitarbeiter gefördert, bürokratische Hindernisse und Hierarchien abgebaut und Abläufe optimiert. Dies fördert nachweislich die Motivation der Mitarbeiter.[^3]
 # Hintergründe
-In der heutigen Zeit dreht sich das Rad immer schneller: Ein Update jagt das andere, Bestellungen sollen schon am nächsten Tag beim Kunden ankommen, der Service muss sofort reagieren und alle Nase lang wechseln Trends und Produktpaletten. Niemand kann absehen, was als nächstes kommt. Atempausen? Pah!
-Diese allgemeine unvorhersehbare Betriebsamkeit nennt sich VUCA ( Volatilität/Veränderlichkeit, Ungewissheit, Komplexität, Ambiguität/Mehrdeutigkeit). In unserem Artikel   VUCA: Change Management in unserer VUCA Welt  sind wir detailliert auf Vuca eingegangen.[^3]
-
-Konnte man früher Entwicklungen sehr viel besser einschätzen und so mit ruhiger Hand deutlich langfristiger planen, ergeben sich für Unternehmen heute durch VUCA andere Herausforderungen: Agiles handeln, also die Möglichkeit schnell zu reagieren und sich schnell zu verändern ist heutzutage eine Kernkompetenz, die das Überleben eines Unternehmens sichert.[^3]
+Konnte man früher Entwicklungen sehr viel besser einschätzen und so mit ruhiger Hand deutlich langfristiger planen, ergeben sich für Unternehmen heute andere Herausforderungen: Agiles handeln, also die Möglichkeit schnell zu reagieren und sich schnell zu verändern ist heutzutage eine Kernkompetenz, die das Überleben eines Unternehmens sichert.[^3]
 
 Empowerment von Mitarbeitern ermöglicht Projektarbeit: Mit der
 Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des einzelnen Mitarbeiters. Die Bedeutung von reinen Linienfunktionen wird immer stärker auf Personalführung und Karriereplanung
-beschränkt. Die eigentliche Arbeit erfolgt in Projekten, welche von zeitlich
-begrenzten Projektleitern geführt werden.[^1]
+beschränkt.[^1]
 # Relevanz des Empowerments
 ## Mitarbeitermotivation
 Vor allem wird die intrinsische Motivation der Mitarbeiter gestärkt. Dies geschieht durch mehr Autonomie und Gestaltungsfreiheit, mehr Eigenverantwortung und durch Erfolgserlebnisse mit dem Kontakt zu Kunden. Des Weiteren wird die Qualifizierung der Mitarbeiter erhöht, sie können sich persönlich Weiterbilden und gegebenenfalls auch selbst Verwirklichen. Dafür werden allerdings die Arbeitsaufgaben anspruchsvoller und falls es zu einer Personalausdünnung kommt, steigt die Leistungsanforderung an die Mitarbeiter.[^6]
@@ -75,8 +71,6 @@ Wenn Dein Unternehmen also trotz Fachkräftemangel junge Mitarbeiter anziehen m�
 
 # Empowerment des Teams – Umfangs- und Änderungsmanagement
 Ein Empowerment des Teams ist im Projektmanagement dem Umfangs- und Änderungsmanagement zuzuordnen. In dieser Aufgabengruppe geht es darum, für alle im Projekt getroffenen Annahmen und Festlegungen einen strukturierten Prozess für deren Änderung zu etablieren. Typische Sachverhalte über deren Änderung gemäß eines strukturierten Prozess entschieden werden sind Budgets, Zeitpläne und Produkt- bzw. Ergebniseigenschaften. Strukturierte Änderung bedeutet, dass die Änderung auf einem hierfür vorgeschriebenen Weg und in einem definierten Format beantragt wird. Es ist festgelegt, wer über eine Änderung entscheiden darf und wer anschließend davon in Kenntnis zu setzen ist. Alle Änderungen werden typischerweise protokolliert und archiviert. Das Umfangs- und Änderungsmanagement ist eine zentrale Aufgabengruppe im Projektmanagement. Wesentliche inhaltliche Schnittstellen bestehen zu den Aufgabengruppen Zeitmanagement, Budget-/Kostenmanagement, Produkt-/Qualitätsmanagement und Ziel-/Scopemanagement. Das Umfangs- und Änderungsmanagement ist gleichermaßen für klassische wie auch für agile Projekte relevant. In der agilen Welt wird es typischerweise in Bezug auf konkreter Aufgaben im jeweiligen Sprint angewendet. Bei klassischen Projekten ist es deutlich weiter gefasst, da hier alle zentralen Aufgabengruppen, wie Risikomanagement, Budget-/Kostenmanagement und Zeitmanagement Berücksichtigung finden.[^7]
-
-Ein Empowerment des Teams ist ein häufig anzutreffender Aspekt. Die Kenntnis ist empfehlenswert. Dieses Glossar erklärt noch weitere Aspekte des Umfangs- und Änderungsmanagements. Diese sind:[^7]
 
 # Siehe auch
 
