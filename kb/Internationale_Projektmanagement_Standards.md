@@ -1,8 +1,8 @@
 ---
 title: Internationale_Projektmanagement_Standards
-tags: agil klassisch
+tags: klassisch
 author: laura1mueller
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Internationale_Projektmanagement_Standards um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -10,7 +10,7 @@ Kurzbeschreibung zu Internationale_Projektmanagement_Standards um ein erstes Ver
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Zielsetzung
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -37,7 +37,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Internationale Standards
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -49,7 +49,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
+
 
 * das
 * hier 
@@ -58,7 +58,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Punkteliste
   - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+##PMI: Project Management Body of Knowledge (PMBOK)
 
 So kann man eine Tabelle erstellen:
 
@@ -67,23 +67,16 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## IPMA Indvidual Competence Baseline (ICB4)
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
+## Prince 2 (PRoject IN Controlled Environments)
 
 Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
