@@ -25,22 +25,36 @@ Das Project Management Institute (PMI) wurde 1969 gegründet. Dort gibt es versc
 basierend auf verschiedenen Standards [^3]. Der weit verbreitest, besonders in den USA kaum wegzudenkende PM Standard, ist das PMBOK. Auch weltweit gibt es über 
 890.000 Zertifizierungen [^2].    
 Als Zulassungskriterium müssen mindestens 4.500 Projektstunden (mit Hochschulabschluss) bzw. 7.500 Projektstunden (ohne Hochschulabschluss) sowie 35 Stunden 
-Schulung nachgewiesen werden. Höhere Zertifizierung Level erfordern zusätzlich den Nachweis von bis zu 6.000 Stunden PM-Erfahrung.[4]
+Schulung nachgewiesen werden. Höhere Zertifizierung Level erfordern zusätzlich den Nachweis von bis zu 6.000 Stunden PM-Erfahrung.[^4]
 
 Bei der Anwendung des PMBOK werden innerhalb des Projektes 49 Prozesse in einer Matrix von 5 Prozessgruppen und 10 Wissensgebieten definiert. Diese beschrieben für                            
 jeden Prozess den Input, Output, die Werkzeuge und das Verfahren. Dadurch hat man sich zum Ziel gesetzt besonders die Prozesse und Terminologien zu 
-vereinheitlichen. Benötigte Fähigkeiten werden bei diesem Standard nicht weiter ausgebaut [5]. Hauptmerkmal ist die Projektausrichtung, die sich an den einzelnen 
+vereinheitlichen. Benötigte Fähigkeiten werden bei diesem Standard nicht weiter ausgebaut [^5]. Hauptmerkmal ist die Projektausrichtung, die sich an den einzelnen 
 Projektphasen orientiert. 
-Ebenfalls hervorzuheben ist der sogenannte PMI’s Code of Ethics and Professional Conduct, der vor der Zertifizierung akzeptiert werden muss und zur Rechtschaffenheit verpflichtet. [5]
+Ebenfalls hervorzuheben ist der sogenannte PMI’s Code of Ethics and Professional Conduct, der vor der Zertifizierung akzeptiert werden muss und zur Rechtschaffenheit verpflichtet.[^5]
 
 ## IPMA Indvidual Competence Baseline (ICB4)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Die International Project Management Association (IPMA) wurde 1965 gegründet und ist geprägt durch eine sehr individuelle Herangehensweise, da es kein festes Modell 
+zum Vorgehen gibt, sondern die Projektleitung die Vorgehensweise sowohl national als auch branchenspezifisch festlegt. Dabei ist die Kompetenzorientierung sowie das 
+Fach-und Methodenwissen der Führungspersönlichkeit besonders wichtig. Aber auch Softskills und soziale Fähigkeiten werden stark gewichtet. Ein von IPMA
+herausgegebenen Buch beschriebt zudem detailliert, die verschiedenen Kompetenzelemente. Methoden, Wissen und diverse Tools werden mit an die Hand gegeben,
+Prozessmodelle fehlen allerdings, da davon ausgegangen wird, dass qualifizierte Personen in der Lage sind in bestimmten Handlungen zu bestimmen welche Schritte 
+notwendig sind, was auch als „Eye of Competence“ bezeichnet wird. Der Standard gliedert sich in vier verschiedenen Stufen, von Leven D, bis zum höchsten Level A. Je nach Level unterscheiden sich auch die Zulassungsvoraussetzungen und abgeleitete Maßnahmen.[^5]
+
+ICB4 wird weltweit in über 71 Ländern verwendet und es gibt über 250.000 Zertifikate weltweit [^4].
 
 ## Prince 2 (PRoject IN Controlled Environments)
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Ist mittlerweile der größte Internationale Projektmanagement Standard, der ursprünglich aus Großbritannien stammt.  Erstmals wurde er hauptsächlich für IT-Projekte 
+und größere Öffentliche Projekte verwendet. Er kombiniert Methoden-und Führungskompetenzen und kann branchenübergreifend eingesetzt werden. Mittlerweile ist er in 
+50 Länder verbreitet und es bestehen über 1 Millionen Prince2-Profis.
+
+Prince 2 ist er sehr Phasen-und Prozessorientiert, bestehend aus 1 Projektumfeld, 7 Grundprinzipien, 7 Themen (Handlungsfelder, die während Produlebenszyklus zu
+bearbeiten sind) und 7 Prozessen. Die Planungstechnik basiert auf einem Produkt, das bedeutet alle Dokumente und Meilensteile werden als Produkt bezeichnet.
+Eine weitere Besonderheit ist zudem, dass dieser PM Standards ein Projekt als „für einen befristeten Zeitraum geschaffene Organisation“ definiert. Durch viele  
+  
+Arbeitsvorlagen und eine produktbasierte Planung, lässt sich Prince 2 gut mit anderen Standards kombinieren. [^5]
 
 
 
@@ -56,28 +70,17 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+[^1]: https://link.springer.com/chapter/10.1007/978-3-662-54432-7_16
+[^2]: https://www.econstor.eu/bitstream/10419/189826/1/104115237X.pdf
+[^3]: https://www.pmi.org/certifications
+[^4]: https://www.haufe-akademie.de/blog/themen/projekt-prozessmanagement/drei-standards-ein-ziel-projekte-erfolgreich-managen/)
+[^5]: https://www.assure.de/sites/default/files/media/downloads/whitepaper_projektmanagement_standards_vergleich.pdf)
 
 ![Beispielabbildung](Internationale_Projektmanagement_Standards/test-file.jpg)
 
-*lustiges Testbild*
 
 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
 So kann man eine Tabelle erstellen:
 
