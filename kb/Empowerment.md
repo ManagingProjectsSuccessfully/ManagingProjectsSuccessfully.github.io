@@ -5,9 +5,9 @@ author: TobiasZuerrlein
 anrechnung: k
 ---
 Bei Teamarbeit ist der [Leiter](Projektleiter.md) eines [Projektes](Projekt.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten Projektteams überzugehen. Hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) erfordern jedoch eine offene Fehlerkultur, damit [Mitarbeiter](Projektmitarbeiter.md) des [Projekts](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen.
- Somit können mithilfe von [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt, Bürokratie und Hierarchie reduziert und Prozesse verbessert werden.[^7][^3]
+ Somit können mithilfe von [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt, bürokratischer Aufwand und Hierarchiestufen reduziert und Prozesse verbessert werden.[^7][^3]
 ![Beipielabbildung](Empowerment/Empowerment1.jpg)
-*Faktoren und Auswirkungen von Empowerment[^2]*
+*Faktoren von Empowerment[^2]*
 
 # Defintion
 
