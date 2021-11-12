@@ -1,19 +1,17 @@
 ---
 title: Customer_Experience
-tags: agil klassisch
+tags: agil
 author: ga88maby
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Customer_Experience um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Der Begriff Customer_Experience, kurz CX, ist nicht anders als eine Marketingstrategie von Firmen in die meisten Größen und Abteilungen, es wird immer mehr wichtiges Prinzip bei Unternehmen, die sich im Markt etablieren wollen. Dabei versucht die Unternehmen einen positiven Eindruck bei den Kunden zu schaffen, somit den Kunden stärker an die Firma zu binden und damit Wettbewerbsvorteile zu bekommen, sodass ein Kunde mit der Zeit eine positive emotionale Beziehung zu dem Unternehmen hat. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Warum ist Customer_Experience 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Customer_Experience ist so bedeutungsvoll, da die Customer_Experience großer Einfluss auf das Betriebsergebnis vom Unternehmen hat, außerdem ist es für die Unternehmen eine große Kampfansage, in einem wettbewerbsintensiven Geschäftsumfeld Käufern zu gewinnen sowie zu binden. 
+Firmen, die die wichtige Rolle von Customer Experience auslasen, ziehen den Kürzeren gegenüber Firmen, die Ihnen schon bewusst ist, dass der Kunde in der Mitte ihres Handelns ist. Ungefähr jeder zweiter Kunde wechselt schon nach nur eine schlechte Erfahrung zu einem anderen Konkurrenten, bei mehr als eine schlechte Erfahrung wechseln die meisten Kunden zu anderen Anbietern.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
