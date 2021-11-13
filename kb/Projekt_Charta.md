@@ -18,7 +18,6 @@ Der Begriff "Projekt Charta" ist nicht normiert, daher wird dieses Dokument in D
 
 Dem Projekt Charta eilt meistens ein Projektantrag bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.
 
-
 ## Funktionen eines Project Charta im Projektmanagement
 
 Die Projekt Charta begleitet den Projektleiter, das Team sowie weitere beteiligte vom Projektanfang bis -ende. Daher bietet es auch eine Vielzahl an Funktionen.
@@ -45,19 +44,23 @@ Die Projekt Charta ermöglicht eine einheitliche Übersicht der Projektinhalte f
 
 Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Charta nicht normiert.[^1].Daher kann der Projekt Charta nur eine Seite als auch ein ganzes Handbuch umfassen. Da die Projekt Charta auf dem Projektantrag basiert, kommen einige Elemente im Projekt Charta nochmal vor.
 
-Folgendes kann in einem Projekt Charta enthalten sein[^1]:
+Folgendes wird jedoch als fester Bestandteil eines Projekt Charta angesehen[^5][^6]:
 
 - Projektname und Projektbezeichnung
-- Initiator des Projektes, Projektauftraggeber, Projektleiter
-- Datum und Unterschrift von Auftraggeber und Projektleiter (bei internen Projekten große symbolische Wirkung)
 - Projektdauer (konkret Beginn und Ende, Zwischenziele, bestimmte Ereignisse, etc.)
-- Vorprojektphase, Nachprojektphase,
 - Projektziele, Begründung für die Durchführung des Projektes
-- Projekt-Nichtziele
-- Leistungsumfang des Projektes, Unternehmensbedarf, Zusammenfassung der wichtigsten Vereinbarungen, etc.
-- Projektbudget (erwartete Projektkosten, aber auch benötigte Ressourcen, Mitarbeiter, Nachlaufkosten, etc.)
 - Projektteam (interne u. externe Mitarbeiter, Dienstleister, etc.)
 - Projektorganisation, Rollenverteilung
+
+Folgendes kann in einem Projekt Charta enthalten sein[^1]:
+
+
+- Initiator des Projektes, Projektauftraggeber, Projektleiter
+- Datum und Unterschrift von Auftraggeber und Projektleiter (bei internen Projekten große symbolische Wirkung)
+- Leistungsumfang des Projektes, Unternehmensbedarf, Zusammenfassung der wichtigsten Vereinbarungen, etc.
+- Vorprojektphase, Nachprojektphase,
+- Projekt-Nichtziele
+- Projektbudget (erwartete Projektkosten, aber auch benötigte Ressourcen, Mitarbeiter, Nachlaufkosten, etc.)
 - Verantwortlichkeiten und Befugnisse
 - Projektzweck, Hindernisse, Beschränkungen, etc.
 - Projektmeilensteine, Projektplan, Projektphasen, etc.
@@ -66,8 +69,6 @@ Folgendes kann in einem Projekt Charta enthalten sein[^1]:
 - Projektmanagementplan: Anforderungen an das Projektmanagement
 - Anzuwendende Managementsysteme (z.B. für Risikomanagement, Qualitätsmanagement, Konfigurationsmanagement)
 - Vertragsbezogene Inhalte (insbes. Vergütungsvereinbarungen)
-
-
 
 ---
 Weiterführendes:
@@ -85,3 +86,7 @@ Wer ist der Projektmanager, Projekt Sponsor, Projektantrag
 [^3] https://www.springerprofessional.de/die-project-charter-der-projektauftrag/15976004
 
 [^4] https://de.wikipedia.org/wiki/Projektauftrag
+
+[^5] https://blog.minitab.com/de/verwalten-sie-projekte-beginnen-sie-mit-einer-projektcharta
+
+[^6] https://asana.com/de/resources/project-charter
