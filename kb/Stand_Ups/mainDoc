@@ -37,15 +37,21 @@ steht.[^3]
 
 # Vorteile von Stand Ups
 
+Kurze und zielgerichtete Meetings sind für agile Projekte unumgänglich. Der stetige Austausch im Team ermöglicht es schnell und effektiv Ziele zu erreichen und
+Probleme zu indentifizieren. Ein Meeting im Stehen ist durchscnittlich 34% kürzer als ein Meeting im Sitzen. Die Qualität der Ergebnisse der verschiedenene Formate 
+ist jedoch gleich. Teilweise werden die Ergebnisse der Stand Up Meetings als besser empfunden als Ergebnisse welche im Sitzen zustande gekommen sind.[^5]
 
+# Fazit
+
+Der höhere Effizienz bei gleichbleibender Effektivität lässt schlussfolgern, dass Meetings im Stehen besser geeignet sind um überschaubare Aspekte eines Projektes 
+zu besprechen. Es ist anzunehmen das Meetings von einem mehrstündigen Umfang nicht für das stehende Format geeignet sind. Selbst unter der Annahme, dass die Effizienz 
+im Stehen höher ist, wäre von einer geringeren Effektivität auszugehen. Diese Annahme wurde getroffen da die Ermüdungserscheinungen des mehrstündigen Stehen die Denkleistung
+der Individuen beinträchtigt.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Stand_Ups.md)
-
-# Weiterführende Literatur
-
+* [Kanban](Kanban.md)
+* [Scrum](SCRUM.md)
 
 # Quellen
 
@@ -53,3 +59,4 @@ steht.[^3]
 [^2]: https://www.conjur.org/blog/running-a-kanban-standup-meeting/ (Stand 09.11.2021)
 [^3]: https://kanbanize.com/blog/running-a-better-stand-up-meeting/ (Stand 09.11.2021)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^5]: Bluedorn, A. C., Turban, D. B., & Love, M. S. (1999). The effects of stand-up and sit-down meeting formats on meeting outcomes. Journal of Applied Psychology, 84(2), 277–285.
