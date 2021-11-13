@@ -28,6 +28,7 @@ Zu Beginn werden qualitative Merkmale des Projekts, die Projektleistung, determi
 Soll und Ist-Kosten des Projekts werden durch die Projektkontrolle über den gesamten [Projektlebenszyklus](Projektlebenszyklus.md) im Blick behalten, um Kostenabweichungen zu identifizieren. Eine reine Gegenüberstellung der Kosten liefert nur bedingt einen Mehrwert. Diese Vorgehensweise berücksichtigt nicht, ob das Projekt durch Beschleunigungskosten vorzeitig fertiggestellt werden kann. Eine Termin-Kosten-Kontrolle verschafft daher einen genaueren Einblick in die Gesamtkosten. [^2]
 
 # Methoden und Instrumente
+Mittlerweile finden viele, größtenteils standardisiterte Methoden ihre Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten Umfang, Dauer und Komplexität des Projektes berücksichtigt werden. Grundsätzlich gilt hier die Devise: Je einfach und durschaubarer, desto besser.[^7]
 
 ## [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 
@@ -56,3 +57,4 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 [^4]: [https://doi.org/10.1007/978-3-658-23714-1)
 [^5]: [https://doi.org/10.1007/978-3-658-28032-1)
 [^6]: [https://refa.de/service/refa-lexikon/projektcontrolling)
+[^7]: [https://doi.org/10.1007/978-3-662-52974-4_8)
