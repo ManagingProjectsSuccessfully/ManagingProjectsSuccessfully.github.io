@@ -76,7 +76,7 @@ Kollaborations Features sind bereits bei dieser in vollem Umfang enthalten.
 Die Hive-Teams Version ermöglicht es dem Kunden, unbegrenzt Nutzer zu seinen Projekten hinzuzufügen. Ebenfalls gibt es 
 erweiterten Support, wie z.B. den "24/7 support", für Kunden die eine kostenpflichtige Version besitzen. Ein weiterer
 Vorteil gegenüber der Solo-Version ist die erhöhte Sicherheit für den Kunden und seine Daten. Hive beachtet ab dieser Version 
-die HIPAA Regeln, welche vor allem für Projekte im Gesundheitsbereich von großer Bedeutung sind. Integrationen von anderen
+die HIPAA Regeln[^2], welche vor allem für Projekte im Gesundheitsbereich von großer Bedeutung sind. Integrationen von anderen
 Software-Produkten, wie z.B. Zoom, sind für Hive-Teams Kunden in vollem Umfang benutzbar. Flexible Add-Ons hingegen müssen für
 einen Aufpreis von 4$ pro Add-On gekauft werden.
 
@@ -85,7 +85,7 @@ Features in vollem Umfang vorhanden. Besonders zu erwähnen ist, dass Enterprise
 was die Eingliederung in das Unternehmen enorm erleichtern kann.
 
 In den Angebotserläuterungen sind viele Aspekte mit "Talk to us" vermerkt. Das lässt darauf schließen, dass Hive großen Wert darauf
-legt, ein perfekt auf den Kunden abgestimmtes Produkt zu liefern. (maybe link zu hive pricing section)
+legt, ein perfekt auf den Kunden abgestimmtes Produkt zu liefern. [^1]
 
 ##Fazit
 
@@ -97,16 +97,10 @@ Hive bietet eine Software welche, durch die zahlreichen Individualisierungsmögl
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Hive_PM_Tool.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Gantt](Gantt.md)
+* [Kanban](Kanban.md)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://hive.com/ (Stand: 13.11.2021)
+[^2]: https://www.cdc.gov/phlp/publications/topic/hipaa.html (Stand: 13.11.2021)
