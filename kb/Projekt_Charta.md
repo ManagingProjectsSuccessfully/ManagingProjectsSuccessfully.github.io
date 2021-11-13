@@ -16,17 +16,34 @@ Der Begriff "Projekt Charta" ist nicht normiert, daher wird dieses Dokument in D
 
 # Die Projekt Charta
 
-## Funktionen eines Project Charta im Projektmanagement[^1]
+Der Projekt Charta eilt meistens ein Projektantrag bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.
 
-- Schaffung einer verbindlichen Vereinbarung
+## Funktionen eines Project Charta im Projektmanagement
+
+ Die Übergabe des Projekt Charta, stellt nach einem erfolgreichen und genehmigten Projektantrag, den offiziellen startschuss des Projekts dar.[^1][^4]
+
+- Beginn des Projektes
+- Festlegung des Projektstartzeitpunkts.
+- Schaffung einer verbindlichen Vereinbarung.
  (Berufungsgrundlage für Projektinhalte und -ziele)
-- Definition der Projektinhalte
-- Einsetzung des verantwortlichen Projektleiters
-- Beginn des Projektes mit Aussenwirkung (offizieller Start)
-- Freigabe der beantragten finanziellen Mittel für das Projekt
-- Freistellung der notwendigen Mitarbeiter für die Projektarbeit
-- Informationsgrundlage für später hinzukommende Teammitglieder
-- Absicherung der Projektbeauftragung (Projektleiter und Projekt-Auftraggeber)
+ - Einsetzung des verantwortlichen Projektleiters.
+ - Freigabe der beantragten finanziellen Mittel für das Projekt
+ - Freistellung der notwendigen Mitarbeiter für die Projektarbeit
+
+Die Projekt Charta ermöglicht eine einheitliche Übersicht der Projektinhalte für alle beteiligten.
+
+- Definition der Projektinhalte.
+- 
+- Informationsgrundlage für später hinzukommende Teammitglieder.
+
+
+
+---
+ 
+
+
+
+
 
 ## Bestandteile eines Project Charta[^1][^2]
 
@@ -56,7 +73,7 @@ Eine eineitliche Normierung zu, was sich in einem Projekt Charta befinden sollte
 
 ---
 Weiterführendes:
-Wer ist der Projektmanager, Projekt Sponsor
+Wer ist der Projektmanager, Projekt Sponsor, Projektantrag
 
 
 ---
