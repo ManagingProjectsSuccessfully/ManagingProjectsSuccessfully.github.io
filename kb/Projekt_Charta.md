@@ -7,11 +7,16 @@ anrechnung: k
 
 ## Definition
 
-Ein Projektcharta, auf English "Project Charter" genannt, ist ein wichtiges Dokument der Projektplanung[^6]. Es verschafft einen groben Überblick über das Projekt, oder der Projektphase[^5]. Der erhalt des Projektchartas ist vom Projektmanager als Beauftragung mit dem Projekt anzusehen. Daher wird es auf Deutsch auch "Projektauftrag" genannt.
+Die Projekt Charta ist ein Dokument das die wichtigsten Punkte eines Projekts schildert und dadurch einen groben Überblick über das Projekt oder einer Projektphase verschafft.[^1] Damit wird sichergestellt, dass Sponsor und der Projektleiter auch das gleiche Ziel beim Projekt anstreben und den Mitteln dazu bewusst sind.[^1][^3] Bei externen Dienstleistern wird der Projektauftrag durch einen formellen Vertrag ersetzt.[^4]
 
-# Das Projektcharta
+Der Begriff "Projekt Charta" ist nicht normiert, daher wird dieses Dokument in Deutsch auch als "Projektauftrag", "Auftrag" oder "Projektvereinbarung" bezeichnet. Auf Englisch wird der Begriff des "Projekt Charter" benutzt.
 
-## Funktionen eines Projectcharta im Projektmanagement[^5]
+---
+---
+
+# Die Projekt Charta
+
+## Funktionen eines Project Charta im Projektmanagement[^1]
 
 - Schaffung einer verbindlichen Vereinbarung
  (Berufungsgrundlage für Projektinhalte und -ziele)
@@ -23,9 +28,9 @@ Ein Projektcharta, auf English "Project Charter" genannt, ist ein wichtiges Doku
 - Informationsgrundlage für später hinzukommende Teammitglieder
 - Absicherung der Projektbeauftragung (Projektleiter und Projekt-Auftraggeber)
 
-## Bestandteile eines Projectcharta[^5][^6]
+## Bestandteile eines Project Charta[^1][^2]
 
-Eine eineitliche Normierung zu, was sich in einem Projektcharta befinden sollte, gibt es nicht[^5]. 
+Eine eineitliche Normierung zu, was sich in einem Projekt Charta befinden sollte, gibt es nicht[^1]. Daher kann der Projekt Charta nur eine Seite als auch ein ganzes Handbuch sein.
 
 - Projektname, Projektbezeichnung
 - Initiator des Projektes, Projektauftraggeber, Projektleiter
@@ -48,11 +53,20 @@ Eine eineitliche Normierung zu, was sich in einem Projektcharta befinden sollte,
 - Vertragsbezogene Inhalte (insbes. Vergütungsvereinbarungen)
 
 
+
+---
+Weiterführendes:
+Wer ist der Projektmanager, Projekt Sponsor
+
+
 ---
 
 # Quellen
 
-[^5] https://www.kvp.de/wp-content/uploads/2017/07/methodenblatt-project-charter.pdf
+[^1] https://www.kvp.de/wp-content/uploads/2017/07/methodenblatt-project-charter.pdf
 
-[^6] https://www.wrike.com/de/project-management-guide/faq/was-ist-eine-projektcharta-im-projektmanagement/
+[^2] https://www.wrike.com/de/project-management-guide/faq/was-ist-eine-projektcharta-im-projektmanagement/
 
+[^3] https://www.springerprofessional.de/die-project-charter-der-projektauftrag/15976004
+
+[^4] https://de.wikipedia.org/wiki/Projektauftrag
