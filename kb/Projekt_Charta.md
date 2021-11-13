@@ -16,9 +16,12 @@ Der Begriff "Projekt Charta" ist nicht normiert, daher wird dieses Dokument in D
 
 # Die Projekt Charta
 
-Der Projekt Charta eilt meistens ein Projektantrag bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.
+Dem Projekt Charta eilt meistens ein Projektantrag bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.
+
 
 ## Funktionen eines Project Charta im Projektmanagement
+
+Die Projekt Charta begleitet den Projektleiter, das Team sowie weitere beteiligte vom Projektanfang bis -ende. Daher bietet es auch eine Vielzahl an Funktionen.
 
  Die Übergabe des Projekt Charta, stellt nach einem erfolgreichen und genehmigten Projektantrag, den offiziellen startschuss des Projekts dar.[^1][^4]
 
@@ -33,23 +36,18 @@ Der Projekt Charta eilt meistens ein Projektantrag bzw. Projektvorschlag vor, wo
 Die Projekt Charta ermöglicht eine einheitliche Übersicht der Projektinhalte für alle beteiligten.
 
 - Definition der Projektinhalte.
-- 
+- Gleiches Bild über Projekt für Projektleiter und Sponsor
 - Informationsgrundlage für später hinzukommende Teammitglieder.
 
-
-
 ---
- 
 
+## Bestandteile eines Project Charta
 
+Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Charta nicht normiert.[^1].Daher kann der Projekt Charta nur eine Seite als auch ein ganzes Handbuch umfassen. Da die Projekt Charta auf dem Projektantrag basiert, kommen einige Elemente im Projekt Charta nochmal vor.
 
+Folgendes kann in einem Projekt Charta enthalten sein[^1]:
 
-
-## Bestandteile eines Project Charta[^1][^2]
-
-Eine eineitliche Normierung zu, was sich in einem Projekt Charta befinden sollte, gibt es nicht[^1]. Daher kann der Projekt Charta nur eine Seite als auch ein ganzes Handbuch sein.
-
-- Projektname, Projektbezeichnung
+- Projektname und Projektbezeichnung
 - Initiator des Projektes, Projektauftraggeber, Projektleiter
 - Datum und Unterschrift von Auftraggeber und Projektleiter (bei internen Projekten große symbolische Wirkung)
 - Projektdauer (konkret Beginn und Ende, Zwischenziele, bestimmte Ereignisse, etc.)
