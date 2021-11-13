@@ -45,6 +45,16 @@ Zu viele Projekte gleichzeitig durchführen zu wollen farantiert meistens auch s
 
 
 # Vergleich
+
+
+
+| |Best Practices  | Worst Practices |
+| :-- |:--  |  :--  |
+| *Projektplanung* | <ul><li>Ausgiebige Planung</li><li>Ziele SMART festlegen</li></ul>| <ul><li>Mangelhafte Planung</li><li>Ziele unklar definiert und dokumentiert</li><li>Uneinhaltbare Deadlines für Termine</li></ul>  |
+| *Projektcontrolling* |<ul><li>Fortlaufende Kontrolle und Anpassung</li><li>Klare, schriftliche Dokumentation</li></ul> | <ul><li>Fehlendes Änderungswesen</li><li>Starres Festhalten an alten Vorgehensweisen</li></ul> |
+|*Projektleitung*|<ul><li>Klare Kommunikation mit allen Stakeholdern</li></ul>|<ul><li>Anforderungen nicht klar vermitteln</li></ul>|
+|*Risikomanagement*|<ul><li>Risiken und ihre Auswirkungen durchgehend analysieren</li>Zusammenarbeit mit erfahrenen externen Projektmanagern</li></ul>|<ul><li>Inkonsequentes Risikomanagement</li></ul>|
+
 Während erfolgreiche Projekte ausgiebig geplant und fortlaufend mit klarer Dokumentation kontrolliert werden, sind scheiternde Projekte meist mangelhaft geplant und verfügen über ein inadäquates Änderungswesen. Effiziente Vorgehensweisen zeichnen sich durch klare Kommunikation innerhalb des Projektteams aus, ineffiziente Vorgehensweisen entstehen zumeist durch ein unerfahrenes Projektteam mit mangelhafter Kommunikation.
 
 
