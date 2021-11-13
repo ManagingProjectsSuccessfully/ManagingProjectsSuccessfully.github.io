@@ -31,7 +31,7 @@ Soll und Ist-Kosten des Projekts werden durch die Projektkontrolle über den ges
 Mittlerweile finden viele, größtenteils standardisierte Methoden ihre Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten Umfang, Dauer und Komplexität des Projektes berücksichtigt werden. Grundsätzlich gilt hier die Devise: Je einfacher und durschaubarer die Methode, desto besser.[^7]
 
 ## [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
-Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie bildet alle [Meilenstein](Meilenstein.md)-Termine chronologisch ab, wodurch sich frühzeitig abzeichnende Trends offen gelegt werden.
+Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilenstein.md)-Termine chronologisch auf, wodurch sich frühzeitig abzeichnende Trends offen gelegt werden.
 
 ## Projektplan
 
