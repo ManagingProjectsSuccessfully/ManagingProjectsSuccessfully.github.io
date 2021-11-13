@@ -4,40 +4,42 @@ tags: klassisch
 author: TommiMueller
 anrechnung: k
 ---
-Im Zuge des [Projektmanagements](Link) gibt es erfolgreiche [Projekte](Link) und weniger erfolgreiche Projekte. Hierbei gibt es Methoden, die einen erfolgreichen Projektabschluss garantieren (sogenannte [Best Practices](Link)) Im Gegensatz dazu gibt es aber auch Methoden, womit ein komplettes Projekt in den Sand gesetz werden kann. Diese werden [Worst Practices](Link) genannt. Hier wird der Unterschied zwischen Best-Practices und Worst-Practices erklärt, sowie die verschiedenen Methoden, die dabei verwendet werden.
-Kurzbeschreibung zu Best_Practices_vs_Worst_Practices um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Im Zuge des [Projektmanagements](Link) gibt es erfolgreiche [Projekte](Link) und weniger erfolgreiche Projekte. Hierbei gibt es Methoden, die einen erfolgreichen Projektabschluss garantieren (sogenannte [Best Practices](Link)). Im Gegensatz dazu gibt es aber auch Methoden, womit ein komplettes Projekt in den Sand gesetzt werden kann. Diese werden [Worst Practices](Link) genannt. Hier wird der Unterschied zwischen Best-Practices und Worst-Practices erklärt, sowie die verschiedenen Methoden, die dabei verwendet werden.
 
 
-# Aspekt 1
+# Best Practices
+
+## Definition
+Best Practices sind bewährte Erfolgsmethoden, welche als allgemein sinnvollste Vorgehensweise in einer bestimmten Unternehmenssituation gelten. Diese lassen sich durch Benchmarking -den unternehmensinternen oder unternehmensexternen Vergleich verschiedener Projekte- bestimmen und dann für das eigene Projekt adaptieren. Jedoch gibt es keine universell anwendbare Vorgehensweise, sondern man muss projektspezifisch entscheiden, welche Best Practice geeignet ist.
+
+## Anerkannte Best Practices
+Die ausgiebige Projektplanung ist als Leitfaden eine zentrale Erfolgsmethode für das Projektmanagement. Dabei sollen Projektziele "[SMART]"(https://www.agile-master.de/smart-ziele-projektmanagement/) festgelegt werden. Methoden wie die Projektstrukturplanung, das Wasserfallmodell, Scrum und die Netzplantechnik werden dabei häufig herangezogen.
+Ein weiteres Best Practice ist diesen Projektplan durch ein periodisches Controlling fortlaufend zu kontrollieren und anzupassen, ohne dabei aber zu weit vom ursprünglichen Plan abzuweichen. KANBAN, eine Methode des agilen Projektmanagement, ist nützlich zur Zwischenkontrolle, da Aufgaben in "geplant", "aktiv" und "erledigt" unterteilt werden. 
+Klare, schriftliche Dokumentation ist ein weiterer kritischer Erfolgsfaktor, da der Projektverlauf dadurch im Nachhinein noch nachvollziehbar ist. Dies ermöglicht eine reibungslose Nachbereitung des Projekts, welche bestenfalls neue Best Practices für zukünftige Projekte ausarbeiten lässt. 
+Eine weitere Erfolgsmethode ist das Bereitstellen eines qualifizierten Projektleiters mit guten Menschenkenntnissen und Kommunikationsfähigkeiten. Dieser soll regelmäßig Feedback an alle Stakeholder (identifizierbar mittels Stakeholder-Analyse) geben, um Probleme gemeinsam zu lösen und gegenseitiges Verständnis für die gemeinsame Projektarbeit zu schaffen.
+Ein gutes Risikomanagement ist ein weiteres Best Practice. Das gesamte Projektteam muss Risiken und ihre Auswirkungen auf das Projekt durchgehend analysieren und gegebenenfalls schnellstmöglich effiziente Gegenmaßnahmen einleiten. Die Methoden der Meilensteintrendanalyse und der Risikoanalyse eignen sich besonders zur Risikominimierung. Des Weiteren ist der 3rd-Party-Ansatz geeignet zur Risikominimierung, da die Zusammenarbeit mit erfahrenen externen Projektmanagern das Risiko von Fehlern minimiert.
+Ein einleitendes Kick-off-Meeting ist ein Best Practice, da es als Startschuss mit motivierender Wirkung agiert.
+LEAN Methode.
+
+
+# Worst Practices
+
+## Definition
+Im Gegensatz zu Best Practices bezeichnen Worst Practices ineffiziente Vorgehensweisen, welche schlimmstenfalls zum Scheitern eines Projekts führen. Jedoch können diese Fehler einen Lernprozess einleiten und führen bestenfalls zu neuen Best Practices.
+
+## Beispiele
+Eine der häufigsten Worst Practices ist schlechte Kommunikation zwischen den Projektbeteiligten. Insbesondere werden dabei Anforderungen von der Projektleitung nicht klar vermittelt und das Team bekommt kein klares Verständnis für das Projekt.
+Ein weiterer großer Faktor für das Scheitern von Projekten ist eine mangelhafte Projektplanung mit unklar definierten und mangelhaft dokumentierten Zielen. Dabei werden häufig Termine mit unmöglich einzuhaltenden Deadlines geplant.
+Die schlechte Projektplanung wird dann zumeist noch mit einem fehlenden Änderungswesen und dem starren Festhalten an alten Vorgehensweisen kombiniert. Dies liegt daran, dass Projektteams häufig schwach besetzt sind und keine Erfahrung im Projektmanagement besitzen. Deshalb wird im Projektverlauf die schlechte Planung meist nicht korrigiert und das Projekt ist zum Scheitern verurteilt.
+Mangelhafte Kostenplanung und inkonsequentes Risikomanagement sind weitere Worst Practices, welche beispiuelsweise beim Bau des Berliner Hauptstadtflughafen Probleme verursachten.
+Zu viele Projekte gleichzeitig durchführen zu wollen farantiert meistens auch scheiternde Projekte.
+
+
+# Vergleich
+Während erfolgreiche Projekte ausgiebig geplant und fortlaufend mit klarer Dokumentation kontrolliert werden, sind scheiternde Projekte meist mangelhaft geplant und verfügen über ein inadäquates Änderungswesen. Effiziente Vorgehensweisen zeichnen sich durch klare Kommunikation innerhalb des Projektteams aus, ineffiziente Vorgehensweisen entstehen zumeist durch ein unerfahrenes Projektteam mit mangelhafter Kommunikation.
+
+
+
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
