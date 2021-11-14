@@ -46,7 +46,7 @@ Im Gegensatz zu Best Practices bezeichnen Worst Practices ineffiziente Vorgehens
 Eine der häufigsten Worst Practices ist schlechte [Kommunikation](Projektkommunikation.md) zwischen den Projektbeteiligten [^17]. Insbesondere werden dabei Anforderungen von der Projektleitung nicht klar vermittelt und das Team bekommt kein klares Verständnis für das Projekt [^1][^18].
 
 ### Projektplanung
-Unausreichende Projektplanung mit unklar definierten und mangelhaft dokumentierten Zielen ist ein weiterer großer Faktor für das Scheitern von Projekten [^19]. Dabei werden häufig Termine mit unmöglich einzuhaltenden Deadlines geplant [^20].
+Unausreichende Projektplanung mit unklar definierten und mangelhaft dokumentierten Zielen ist ein weiterer großer Faktor für das Projektscheitern [^19]. Dabei werden häufig Termine mit unmöglich einzuhaltenden Deadlines geplant [^20].
 Die schlechte Projektplanung wird dann zumeist noch mit einem fehlenden Änderungswesen und dem starren Festhalten an alten Vorgehensweisen kombiniert [^14][^16]. Dies liegt daran, dass Projektteams häufig schwach besetzt sind und keine Erfahrung im Projektmanagement besitzen [^14][^15]. Deshalb wird im Projektverlauf die schlechte Planung meist nicht korrigiert und das Projekt scheitert.
 
 ### Sonstige
