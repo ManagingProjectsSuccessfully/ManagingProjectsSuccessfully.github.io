@@ -7,6 +7,8 @@ anrechnung: a
 Abhängigkeiten sind Beziehungen zwischen Arbeiten, die die Reihenfolge bestimmen, in der Arbeitselemente abgeschlossen werden müssen. 
 Das Abhängigkeitsmanagement ist der Prozess des aktiven Analysierens, Erkennens, Vorwegnehmens und Verwaltens von Abhängigkeiten zwischen Aufgaben, Personen, Prozessen und Systemen. Ein effektives Abhängigkeitsmanagement trägt dazu bei, die Prozessvariabilität zu verringern, die durch teaminterne und/oder teamübergreifende Abhängigkeiten verursachten Störungen zu minimieren und die Vorhersagbarkeit zu erhöhen. 
 
+# Abhängigkeitsmanagement und agiles Projektmanagement 
+
 Das Abhängigkeitsmanagement spielt vor allem in agilen Teams eine große Rolle, denn beim agilen Projektmanagement gibt es – anders als beim klassischen Projektmanagement – meist kleinere Teams, die interdisziplinär in kurzen, zeitlich beschränkten Zyklen (Sprints) zusammenarbeiten. Mit Hilfe von regelmäßigen Abstimmungen (Dailys) können sich die Teams synchronisieren, abstimmen und somit effizienter arbeiten und schnellere Ergebnisse erzielen. Deshalb ist es in agilen Teams so wichtig, Abhängigkeiten immer im Blick zu behalten und abzustimmen[^1][^2].
 
 Das Abhängigkeitsmanagement beinhaltet: 
@@ -35,6 +37,7 @@ Bei den Abhängigkeitsfunktionen unterscheidet man vier verschiedene Arten:
 * Start to Start (SS): Aufgabe 2 kann erst beginnen, wenn Aufgabe 1 begonnen wurde, aber Aufgabe 1 muss nicht abgeschlossen sein, bevor Aufgabe 2 beginnen kann.
 * Start to Finish (SF): Aufgabe 1 kann erst abgeschlossen werden, wenn Aufgabe 2 beginnt. Dieser Abhängigkeitstyp kommt jedoch am seltensten vor[^5][^6].
 
+# Vorgehensweisen des Abhängigkeitsmanagement
 
 Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines Projektes zu behalten und diese effektiv verwalten zu können, gibt es einige beispielhafte Vorgehensweisen:
 
@@ -46,6 +49,8 @@ Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines Projek
 * Kommunikation mit dem Projektteam[^7].
 
 HIER VERLINKUNG ZUR ABBILDUNG 
+
+# Strukturieren von Abhängigkeiten
 
 „Failing to plan is planning to fail“
 
