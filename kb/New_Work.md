@@ -12,7 +12,7 @@ New Work ist ein philosophischer Denkansatz des Sozialphilosophen [Fithjof Bergm
 # Entstehungsgeschichte
 New Work wurde Anfang der 1980 Jahre im Zuge der Automatisierung beim Automobilhersteller General Motors in Flint, Michigan von Frithjof Bergmann entwickelt. Bergmann stellte fest, dass nicht die ganze Arbeit abgeschafft, sondern diese nur verkürzt wird. [^1]
 So erarbeitete er das Konzept "New Work". 
-Es bestand daraus, dass die Angestellten sechs Monate in der Fabrik arbeiten und den Rest des Jahres, zusammen mit dem neu gegründeten "Zentrum für neue Arbeit", herauszufinden was sie "wirklich, wirklich" wollen. Das Ziel war nicht Entlassungen zu verhindern, sondern Zeit zur Berufungsfindung unter professioneller Betreuung zu geben. [^6][^7]
+Es bestand daraus, dass die Angestellten sechs Monate in der Fabrik arbeiten und den Rest des Jahres, zusammen mit dem neu gegründeten "Zentrum für neue Arbeit", herauszufinden was sie "wirklich, wirklich" wollen. Das Ziel war nicht Entlassungen zu verhindern, sondern Zeit zur Berufungsfindung unter professioneller Betreuung zu geben. [^7][^6]
 
 # Philosophie
 ## Grundannahmen
