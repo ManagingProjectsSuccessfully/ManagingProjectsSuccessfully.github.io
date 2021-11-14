@@ -47,7 +47,7 @@ können.
 Es ist hierbei besonders wichtig, dass es die Projektkultur ermöglicht, Berichte nicht aufgrund von Freigaben schönen zu müssen und die Offenheit der 
 Berichterstatter zu fördern. Um jedoch die Wirtschaftlichkeit von den Berichten zu erhalten und den Zeitaufwand zu senken, können standardisierte Berichtsvorlagen
 eingesetzt werden, was wiederum die Auswertbarkeit erhöht[^11].
-Ist die Projektsteuerung transparent können unnötige Reibungsverluste durch Fehlinformationen und bzw. oder Informationsdefizite vermieden werden. 
+Ist die [Projektsteuerung](Projektssteuerung.md) transparent können unnötige Reibungsverluste durch Fehlinformationen und bzw. oder Informationsdefizite vermieden werden. 
 Der Berichtsprozess sollte daher zu Beginn eines neuen Projekts transparent erarbeitet und individuell an das Projekt angepasst werden und gegebenenfalls sollten 
 neue Projektmitglieder angemessen in ihn eingewiesen werden, damit sich das Berichtswesen als Erfolgsfaktor niederschlägt[^12].
 
