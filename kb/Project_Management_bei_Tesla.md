@@ -7,7 +7,7 @@ anrechnung: k oder a
 
 
 
-# Das Unternhemen Tesla 
+# Das Unternehmen Tesla 
 
 <img style="float: right; margin-left: 10px" src="Project_Management_bei_Tesla/Tesla.jpg" width="180" height="232" align="right">
 
