@@ -32,6 +32,9 @@ Das wichtige Prinzip von CX liegt daran, dass die Probleme direkt vom Unternehme
 * Die Kundenerlebnisse müssen vom Unternehmen optimiert sein.
 * Feedback muss effizient ausgewertet und bearbeitet werden. 
 
+## Ziele Langfrisitg?
+Langfristig entsteht den Effekt der Markentreue und Loyalität. Das stehen die Unternehmen vor die Probleme, durch Kommunikation mit den Kunden oder auch potenziellen Käufern deren Erwartungen und Wünsche in Erfahrung zu bringen.
+
 
 # Aspekt 2
 
