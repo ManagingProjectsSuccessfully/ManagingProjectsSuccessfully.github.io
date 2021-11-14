@@ -14,17 +14,24 @@ Im Zuge des [Projektmanagements](Projektmanagement.md) gibt es erfolgreiche [Pro
 ## Definition
 Best Practices sind bewährte Erfolgsmethoden, welche als allgemein sinnvollste Vorgehensweise in einer bestimmten Unternehmenssituation gelten [^2][^3]. Diese lassen sich durch [Benchmarking](Benchmarking.md) -den unternehmensinternen oder unternehmensexternen Vergleich verschiedener Projekte- bestimmen und dann für das eigene Projekt adaptieren [^4][^5]. Jedoch gibt es keine universell anwendbare Vorgehensweise, sondern man muss projektspezifisch entscheiden, welche Best Practice geeignet ist [^3][^6].
 
-## Anerkannte Best Practices
+## Beispiele
+
+### Projektplanung
 Die ausgiebige [Projektplanung](Projektplanung.md) ist als Leitfaden eine zentrale Erfolgsmethode für das Projektmanagement [^7][^8]. Dabei sollen Projektziele "[SMART](https://www.agile-master.de/smart-ziele-projektmanagement/)" festgelegt werden [^9]. Methoden wie die [Projektstrukturplanung](Projektstrukturplan.md), das [Wasserfallmodell](Wasserfall_Modell.md), [SCRUM](SCRUM.md) und die [Netzplantechnik](Netzplantechnik.md) werden dabei häufig herangezogen [^10].
 
+### Projektcontrolling
 Ein weiteres Best Practice ist diesen Projektplan durch ein periodisches [Controlling](Projektcontrolling.md) fortlaufend zu kontrollieren und anzupassen, ohne dabei aber zu weit vom ursprünglichen Plan abzuweichen [^9]. [KANBAN](Kanban.md), eine Methode des agilen Projektmanagement, ist nützlich zur Zwischenkontrolle, da Aufgaben in "geplant", "aktiv" und "erledigt" unterteilt werden [^10]. 
 
+### Projektdokumentation
 Klare, schriftliche [Dokumentation](Projektdokumentation.md) ist ein weiterer kritischer Erfolgsfaktor, da der Projektverlauf dadurch im Nachhinein noch nachvollziehbar ist [^9][^11]. Dies ermöglicht eine reibungslose Nachbereitung des Projekts, welche bestenfalls neue Best Practices für zukünftige Projekte ausarbeiten lässt [^9]. 
 
+### Projektleitung
 Eine weitere Erfolgsmethode ist das Bereitstellen eines qualifizierten [Projektleiters](Projektleiter.md) mit guten Menschenkenntnissen und Kommunikationsfähigkeiten [^12][^13]. Dieser soll regelmäßig Feedback an alle Stakeholder (identifizierbar mittels [Stakeholder-Analyse](Stakeholderanalyse.md) geben, um Probleme gemeinsam zu lösen und gegenseitiges Verständnis für die gemeinsame Projektarbeit zu schaffen [^9][^10][^11].
 
+### Risikomanagement
 Ein gutes [Risikomanagement](Risikomanagement.md) ist ein weiteres Best Practice [^9]. Das gesamte Projektteam muss Risiken und ihre Auswirkungen auf das Projekt durchgehend analysieren und gegebenenfalls schnellstmöglich effiziente Gegenmaßnahmen einleiten [^14]. Die Methoden der [Meilensteintrendanalyse](Meilensteintrendanalyse.md) und der [Risikoanalyse](Risikoanalyse_und_Visualisierung.md) eignen sich besonders zur Risikominimierung [^10]. Des Weiteren minimiert der 3rd-Party-Ansatz das Risiko durch die Zusammenarbeit mit erfahrenen externen Projektmanagern[^15].
 
+### Projektstart
 Ein einleitendes Kick-off-Meeting ist ein Best Practice, da es als [Startschuss](Projektstart.md) mit motivierender Wirkung agiert [^9].
 
 
@@ -34,14 +41,18 @@ Ein einleitendes Kick-off-Meeting ist ein Best Practice, da es als [Startschuss]
 Im Gegensatz zu Best Practices bezeichnen Worst Practices ineffiziente Vorgehensweisen, welche schlimmstenfalls zum [Abbruch](Projektabbruch.md) eines Projekts führen [^3][^16]. Jedoch können diese Fehler einen Lernprozess einleiten und führen bestenfalls zu neuen Best Practices [^3].
 
 ## Beispiele
+
+### Projektkommunikation
 Eine der häufigsten Worst Practices ist schlechte [Kommunikation](Projektkommunikation.md) zwischen den Projektbeteiligten [^17]. Insbesondere werden dabei Anforderungen von der Projektleitung nicht klar vermittelt und das Team bekommt kein klares Verständnis für das Projekt [^1][^18].
 
+### Projektplanung
 Ein weiterer großer Faktor für das Scheitern von Projekten ist eine mangelhafte Projektplanung mit unklar definierten und mangelhaft dokumentierten Zielen [^19]. Dabei werden häufig Termine mit unmöglich einzuhaltenden Deadlines geplant [^20].
-Die schlechte Projektplanung wird dann zumeist noch mit einem fehlenden Änderungswesen und dem starren Festhalten an alten Vorgehensweisen kombiniert [^14][^16]. Dies liegt daran, dass Projektteams häufig schwach besetzt sind und keine Erfahrung im Projektmanagement besitzen [^14][^15]. Deshalb wird im Projektverlauf die schlechte Planung meist nicht korrigiert und das Projekt ist zum Scheitern verurteilt.
+Die schlechte Projektplanung wird dann zumeist noch mit einem fehlenden Änderungswesen und dem starren Festhalten an alten Vorgehensweisen kombiniert [^14][^16]. Dies liegt daran, dass Projektteams häufig schwach besetzt sind und keine Erfahrung im Projektmanagement besitzen [^14][^15]. Deshalb wird im Projektverlauf die schlechte Planung meist nicht korrigiert und das Projekt scheitert.
 
+### Sonstige
 Mangelhafte [Kostenplanung](Kostenplanung.md) und inkonsequentes Risikomanagement sind weitere Worst Practices, welche beispielsweise beim Bau des [Berliner Hauptstadtflughafen](https://de.wikipedia.org/wiki/Flughafen_Berlin_Brandenburg#Bauarbeiten) Probleme verursachten [^14].
 
-Zu viele Projekte gleichzeitig durchführen zu wollen farantiert meistens auch scheiternde Projekte [^21].
+Zu viele Projekte gleichzeitig durchführen zu wollen garantiert meistens auch scheiternde Projekte [^21].
 
 
 # Vergleich
@@ -64,7 +75,6 @@ Während erfolgreiche Projekte ausgiebig geplant und fortlaufend mit klarer Doku
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Projektmanagement](Projektmanagement.md)
 * [Projekte](Projekt.md)
 * [Methoden](Methoden.md)
@@ -94,7 +104,6 @@ Während erfolgreiche Projekte ausgiebig geplant und fortlaufend mit klarer Doku
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 * [Projektmanagement leicht erklärt - exklusive Einblicke in Projekte aus dem wahren Leben! Episode 002: Was ist ein Projekt und was ist Projektmanagement?](https://open.spotify.com/episode/5CHSRPr6Z4jr0a2ipxp5RV?si=b61091836a3c4a31)
 * [Digitales Unternehmertum - rund um das digitale Business! 13 Projektmanagement Tools im Überblick - inkl. Tipps für die richtige Auswahl #345](https://open.spotify.com/episode/0DEvRPDn9i5Ravb30Ep8YU?si=1e4035ec3d364bd8)
 * [Why Your IT Project May Be Riskier Than You Think](https://hbr.org/2011/09/why-your-it-project-may-be-riskier-than-you-think)
