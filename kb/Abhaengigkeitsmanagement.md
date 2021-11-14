@@ -16,6 +16,8 @@ Das Abhängigkeitsmanagement beinhaltet:
 * Visualisieren der Abhängigkeiten und detailliertes Darstellen von Abhängigkeiten zwischen Systemen, Ressourcen und Prozessen
 * Integrieren des Abhängigkeitsmanagements in die Projektplanung- und Durchführung[^3] 
 
+# Arten von Abhängigkeiten
+
 Es gibt verschiedene Arten von Abhängigkeiten, auf die im Folgenden näher eingegangen wird. 
 Man unterscheidet Abhängigkeiten in interne- und externe Abhängigkeiten , obligatorisch- und diskretionäre Abhängigkeiten und anhand des Charakters der Abhängigkeiten. 
 
@@ -23,6 +25,8 @@ Interne Abhängigkeiten sind Abhängigkeiten, die auf Beziehungen beruhen, die z
 Externe Abhängigkeiten sind Abhängigkeiten, die auf Beziehungen beruhen, die zwischen Teams, Funktionen oder Unternehmen liegen und somit außerhalb der Kontrolle des Teams.
 Obligatorische Abhängigkeiten orientieren sich an der harten Logik; d.h. ein Schritt muss vor einem anderen Schritt erledigt sein.
 Diskretionäre Abhängigkeiten orientieren sich dagegen an der weichen Logik. Hier wäre es besser, wenn ein Schritt vor dem anderen erledigt wäre; es ist aber nicht unbedingt erforderlich[^4].
+
+# Funktionen von Abhängigkeiten
 
 Bei den Abhängigkeitsfunktionen unterscheidet man vier verschiedene Arten: 
 
