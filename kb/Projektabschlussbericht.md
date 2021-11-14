@@ -1,8 +1,8 @@
 ---
 title: Projektabschlussbericht
-tags: agil klassisch
+tags: klassisch
 author: DeniseWt
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Projektabschlussbericht um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -10,7 +10,7 @@ Kurzbeschreibung zu Projektabschlussbericht um ein erstes Verständnis dafür zu
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Was ist ein Projektabschlussbericht?
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -37,7 +37,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Bestandteile
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -49,7 +49,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Fazit
 
 * das
 * hier 
@@ -71,10 +71,7 @@ So kann man eine Tabelle erstellen:
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
