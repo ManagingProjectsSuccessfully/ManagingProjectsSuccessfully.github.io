@@ -27,13 +27,11 @@ Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des
 
 ## [Mitarbeiter](Projektmitarbeiter.md)motivation
 
-Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad der [Mitarbeiter](Projektmitarbeiter.md), welche in über die Verwendung bestimmter Budgets und die Gestaltung ihrer Arbeitsbläufe autonom und eigenverantwortlichen entscheiden, stärken erwiesenermaßen die intrinsische Motivation[^2][^6]. Dies hat wiederum positive Auswirkungn auf die [Mitarbeiter](Projektmitarbeiter.md)qualifizierung, da sie motivierter sind sich persönlich weiterzubilden und selbstzuverwirklichen[^6].
+Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad der [Mitarbeiter](Projektmitarbeiter.md), welche über die Verwendung gewisser Budgets und die Gestaltung ihrer Arbeitsabläufe autonom und eigenverantwortlichen entscheiden, stärken erwiesenermaßen die intrinsische Motivation[^2][^6]. Dies hat wiederum positive Auswirkungn auf die [Mitarbeiter](Projektmitarbeiter.md)qualifizierung, da sie motivierter sind sich persönlich weiterzubilden und selbstzuverwirklichen[^6].
 
 ## Reaktionsfähigkeit
 
-Oftmals muss innerhalb eine [Projektes](Projekt.md) schnell reagiert werden. Wenn dein Unternehmen schnell reagieren muss, dann ist es sinnvoll den Mitarbeiter der mit jeweiligen Entscheidung konfrontiert ist auch entscheiden zu lassen.  Die Alternative wäre, die Entscheidungsanfrage erst diverse Schreibtische auf mehreren Hierarchieebenen abklappern zu lassen. [^3]
-
-  Kunden erwarten rasche Entscheidungen, daher ist es auch sinnvoll, die Vertriebsmitarbeiter in einem gewissen Rahmen auch entscheiden zu lassen.[^2]
+Oftmals muss innerhalb eines [Projektes](Projekt.md) schnellstmöglich gehandelt werden[^3]. Deshalb ist es häufig nicht sinnvoll die jeweilige Entscheidungsfrage die verschiedenen Hierarchiestufen passieren zu lassen[^3]. Stakeholder erwaten zügige Entscheidungen[^2]. Daher sollte derjenige [Projektmitarbeiter](Projektmitarbeiter.md), der mit der entsprechenden Fragestellung konfrontiert ist, ausreichend Entscheiungskompetenz besitzen[^3]. Somit kann die Reaktionsfähigkeit des [Projektes] deutlich gsteigert werden[^3].
 
 ## Qualität von Entscheidungen
 
