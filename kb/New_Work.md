@@ -5,7 +5,7 @@ author: up67enyq
 anrechnung: k 
 ---
 
-New Work ist ein philosophischer Denkansatz des Sozialphilosophen [Fithjof Bergmann](https://de.wikipedia.org/wiki/Frithjof_Bergmann) der Anfang der 1980er Jahre begründet wurde. [^1][^7] Er Beschreibt eine neue Art der Arbeit unter der Annahme das alte Arbeitssystem überholt sei.
+New Work ist ein philosophischer Denkansatz des Sozialphilosophen [Fithjof Bergmann](https://de.wikipedia.org/wiki/Frithjof_Bergmann) der Anfang der 1980er Jahre begründet wurde. [^1][^7] Er Beschreibt eine neue Art der Arbeit unter der Annahme das alte Arbeitssystem überholt sei.[^2]
 
 
 
@@ -87,14 +87,6 @@ Um den Mitarbeitenden eine erfüllende Beschäftigung zu bieten, orientieren sic
 
 # Quellen
 
-[^1]:[New Work Hacks](https://link.springer.com/book/10.1007%2F978-3-658-27299-9)
-[^2]: [Beraterdämmerung](https://link.springer.com/book/10.1007%2F978-3-658-24103-2)
-[^3]: [HUMANFY New Work Charta](https://humanfy.de/new-work-charta/)
-[^4]: [Markus Väth](https://de.wikipedia.org/wiki/Markus_V%C3%A4th)
-[^5]: [XING New Work Experience, Vortrag Prof. Dr. Frithjof](https://www.youtube.com/watch?v=29IoGFD86QM)
-[^6]: [Hornung S (2018) Interview zu New Work Frithjof Bergmann](https://www.haufe.de/personal/hr-management/frithjof-bergmann-uebt-kritik-an-akteuller-new-work-debatte_80_467516.html)
-[^7]: [University of Michigan](https://news.umich.edu/eight-faculty-members-retire/)
-[^8]: [New Work Definition](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/new-work/)
-[^9]: B. Frithjof, Neue Arbeit neue Kultur, Arbor Verlag 2017, EAN 9783867812085
-[^10]: [On the Way to New Work Folge #100 mit Fritjhof Bergmann](https://open.spotify.com/episode/29PXaxK6U0I6BM5FCmlMgY?si=G5N6I79RQT6Bxp3hEEUQ0A)
+[^1]:[New Work Hacks](https://link.springer.com/book/10.1007%2F978-3-658-27299-9)[^2]: [Beraterdämmerung](https://link.springer.com/book/10.1007%2F978-3-658-24103-2)[^3]: [HUMANFY New Work Charta](https://humanfy.de/new-work-charta/)[^4]: [Markus Väth](https://de.wikipedia.org/wiki/Markus_V%C3%A4th)[^5]: [XING New Work Experience, Vortrag Prof. Dr. Frithjof](https://www.youtube.com/watch?v=29IoGFD86QM)[^6]: [Hornung S (2018) Interview zu New Work Frithjof Bergmann](https://www.haufe.de/personal/hr-management/frithjof-bergmann-uebt-kritik-an-akteuller-new-work-debatte_80_467516.html)
+[^7]: [University of Michigan](https://news.umich.edu/eight-faculty-members-retire/)[^8]: [New Work Definition](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/new-work/)[^9]: B. Frithjof, Neue Arbeit neue Kultur, Arbor Verlag 2017, EAN 9783867812085[^10]: [On the Way to New Work Folge #100 mit Fritjhof Bergmann](https://open.spotify.com/episode/29PXaxK6U0I6BM5FCmlMgY?si=G5N6I79RQT6Bxp3hEEUQ0A)
 
