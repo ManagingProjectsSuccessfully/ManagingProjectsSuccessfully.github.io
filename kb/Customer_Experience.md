@@ -46,7 +46,7 @@ Das wichtige Prinzip von CX liegt daran, dass die Probleme direkt vom Unternehme
 
 # Weiterführende Literatur
 
-* Die Treiber von der Customer_Experience von Andreas Toth.
+* Die Treiber von der Customer_Experience von Andreas Toth. https://books.google.de/books?hl=de&lr=&id=k8GPDwAAQBAJ&oi=fnd&pg=PP5&dq=buch+customer+experience&ots=hc3lthO_OR&sig=5ssR13WedV1_esUxMSSYgXYf5bY#v=onepage&q=buch%20customer%20experience&f=false
 
 # Quellen
 
