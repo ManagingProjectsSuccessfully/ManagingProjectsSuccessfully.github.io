@@ -27,16 +27,17 @@ Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des
 
 ## Mitarbeitermotivation
 
-Durch die Zunahme des autonomen und eigenverantwortlichen Handelns sowie der Gestaltungsfreiheit wird besonders die intrinsische Motivation der [Projektmitarbeiter](Projektmitarbeiter.md) erhöht. Dies hat wiederum Apositive Auswirkungn auf die Mitarbeiterqualifizierung, da sie motivierter sind sich persönlich weiterzubilden und selbstzuverwirklichen.[^6]
+Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad der [Mitarbeiter](Projektmitarbeiter.md), welche in über die Verwendung bestimmter Budgets und die Gestaltung ihrer Arbeitsbläufe autonom und eigenverantwortlichen entscheiden, stärken erwiesenermaßen die intrinsische Motivation[^2][^6]. Dies hat wiederum positive Auswirkungn auf die [Mitarbeiter](Projektmitarbeiter.md)qualifizierung, da sie motivierter sind sich persönlich weiterzubilden und selbstzuverwirklichen.[^6]
 
 ## Reaktionsfähigkeit
-Wenn dein Unternehmen schnell reagieren muss, dann ist es sinnvoll den Mitarbeiter der mit jeweiligen Entscheidung konfrontiert ist auch entscheiden zu lassen. – Geht schneller, oder? Die Alternative wäre, die Entscheidungsanfrage erst diverse Schreibtische auf mehreren Hierarchieebenen abklappern zu lassen. Und schnell ist das nun wirklich nicht…[^3]
 
- Größere Entscheidungskompetenz und Mitbestimmungsmöglichkeiten der Mitarbeiter, die selbstständig über die Verwendung bestimmter Budgets oder Gestaltung ihrer Arbeitsabläufe entscheiden, fördern nachweislich die Motivation. Kunden erwarten rasche Entscheidungen, daher ist es auch sinnvoll, die Vertriebsmitarbeiter in einem gewissen Rahmen auch entscheiden zu lassen.[2]
+Oftmals muss innerhalb eine [Projektes](Projekt.md) schnell reagiert werden. Wenn dein Unternehmen schnell reagieren muss, dann ist es sinnvoll den Mitarbeiter der mit jeweiligen Entscheidung konfrontiert ist auch entscheiden zu lassen.  Die Alternative wäre, die Entscheidungsanfrage erst diverse Schreibtische auf mehreren Hierarchieebenen abklappern zu lassen. [^3]
+
+  Kunden erwarten rasche Entscheidungen, daher ist es auch sinnvoll, die Vertriebsmitarbeiter in einem gewissen Rahmen auch entscheiden zu lassen.[^2]
+
 ## Qualität von Entscheidungen
-Es geht bei weitem nicht nur um die Schnelligkeit der Reaktion. Natürlich ist es auch wichtig, ob eine gute, sinnvolle Entscheidung getroffen wird. Es dürfte nicht verwundern, dass derjenige, der ganz nah am Kunden, am Markt, also am Point of Action ist, einen sehr viel besseren Einblick in die Situation mit all ihren Gegebenheiten hat, als ein Manager, der in einiger Entfernung zum Geschehen agiert.[^3]
 
-Es geht bei weitem nicht nur um die Schnelligkeit der Reaktion. Natürlich ist es auch wichtig, ob eine gute, sinnvolle Entscheidung getroffen wird. Es dürfte nicht verwundern, dass diejenigen, die ganz nah am Kunden sind, einen sehr viel besseren Einblick in die Situation mit all ihren Gegebenheiten haben, als Kollegen und Führungskräfte, die in einiger Entfernung zum Geschehen agieren.[2]
+Es geht bei weitem nicht nur um die Schnelligkeit der Reaktion. Natürlich ist es auch wichtig, ob eine gute, sinnvolle Entscheidung getroffen wird. Es dürfte nicht verwundern, dass diejenigen, die ganz nah am Kunden sind, einen sehr viel besseren Einblick in die Situation mit all ihren Gegebenheiten haben, als Kollegen und Führungskräfte, die in einiger Entfernung zum Geschehen agieren.[^2]
 
 ## Fach- und Führungskräftenachwuchs
 Die Jobpräferenzen haben sich deutlich verändert; die junge Generation hat andere Ansprüche an ihre Arbeit: Sie suchen mehr Herausforderungen, mehr Eigenverantwortung. Sie suchen sich Unternehmen, wo sie mehr mitbestimmen können. Wichtig ist ihnen: nicht zu viel Hierarchie und Fremdbestimmung.[^2]
