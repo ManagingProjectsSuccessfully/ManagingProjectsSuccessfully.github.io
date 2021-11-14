@@ -7,8 +7,7 @@ anrechnung: k
 
 Kurzbeschreibung zu Projektabschlussbericht um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+
 
 # Was ist ein Projektabschlussbericht?
 
@@ -49,27 +48,22 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Fazit
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
 So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
+| Hard Facts    | Soft Facts    |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Finanzen      | Teamarbeit    |
+| Zeitmanagemnt |               |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# Fazit
+
+Zusammenfassend lässt sich sagen, dass der Projektabschlussbericht durchaus einen großen Aufwand an Bürokratie darstellt. Dennoch können daraus viele brauchare Erkenntnisse gezogen werden, welche man positiv auf kommende Projekte projizieren und Vorgehensweisen optimieren kann. 
+
+
+
 
 
 
