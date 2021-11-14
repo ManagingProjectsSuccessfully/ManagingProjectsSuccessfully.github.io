@@ -8,7 +8,7 @@ Bei Teamarbeit ist der [Leiter](Projektleiter.md) eines [Projektes](Projekt.md) 
  Somit können mithilfe von [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt, bürokratischer Aufwand und Hierarchiestufen reduziert und Prozesse verbessert werden.[^7][^3]
  Empowerment ermöglicht somit Projektarbeit[^1]!
 
- [Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Änderungsmanagement.md) zuzuordnen. Das Umfangs- und Änderungsmanagement ist eine Kernaufgabe des klassischen sowie agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben des entsprechenden [Sprints](Sprint.md) Anwendung findet, sind beim klassichen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Budget-/Kostenmanagement und Zeitmanagement betroffen.[^7]
+ [Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Änderungsmanagement.md) zuzuordnen. Das Umfangs- und Änderungsmanagement ist eine Kernaufgabe des klassischen sowie agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben des entsprechenden [Sprints](Sprint.md) Anwendung findet, sind beim klassischen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Budget-/Kostenmanagement und Zeitmanagement betroffen.[^7]
 
 ![Beipielabbildung](Empowerment/Empowerment1.jpg)
 *Faktoren von Empowerment[^2]*
@@ -19,31 +19,23 @@ Im Allgemeinen betitelt [Empowerment](Empowerment.md) Strategien und Maßnahmen,
 
 Im Sinne des [Projektmanagements](Projektmanagement.md) bedeutet [Empowerment](Empowerment.md) Macht- und Verantwortungsübertragung an die [Mitarbeiter](Projektmitarbeiter.md), wodurch ihnen ein höheres Maß an Autonomie, Informationszugang, Entscheidungskompetenz und Mitbestimmung eingeräumt wird. Diese Maßnahmen erlauben [Mitarbeitern](Projektmitarbeiter.md) eigenmächtig über gewisse Budgets, Kulanzleistungen, Urlaubsplanung sowie ihre eigenen Arbeitsabläufe zu entscheiden.[^3]
 
-# Auswirkungen von [Empowerment](Empowerment.md)
+# Vorteile durch [Empowerment](Empowerment.md)
 
 ## [Mitarbeiter](Projektmitarbeiter.md)motivation
 
-Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad der [Mitarbeiter](Projektmitarbeiter.md), welche über die Verwendung gewisser Budgets und die Gestaltung ihrer Arbeitsabläufe autonom und eigenverantwortlichen entscheiden, stärken erwiesenermaßen die intrinsische Motivation[^2][^6]. Dies hat wiederum positive Auswirkungn auf die [Mitarbeiter](Projektmitarbeiter.md)qualifizierung, da sie motivierter sind sich persönlich weiterzubilden und selbstzuverwirklichen[^6].
+Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad der [Mitarbeiter](Projektmitarbeiter.md), welche über die Verwendung gewisser Budgets und die Gestaltung ihrer Arbeitsabläufe autonom und eigenverantwortlichen entscheiden, stärken erwiesenermaßen die intrinsische Motivation[^2][^6]. Dies hat wiederum positive Auswirkungen auf die [Mitarbeiter](Projektmitarbeiter.md)qualifizierung, da sie motivierter sind sich persönlich weiterzubilden und selbst zu verwirklichen[^6].
 
 ## Reaktionsfähigkeit
 
-Oftmals muss innerhalb eines [Projektes](Projekt.md) schnellstmöglich gehandelt werden[^3]. Deshalb ist es häufig nicht sinnvoll die jeweilige Entscheidungsfrage die verschiedenen Hierarchiestufen passieren zu lassen[^3]. Stakeholder erwaten zügige Entscheidungen[^2]. Daher sollte derjenige [Projektmitarbeiter](Projektmitarbeiter.md), der mit der entsprechenden Fragestellung konfrontiert ist, ausreichend Entscheiungskompetenz besitzen[^3]. Somit kann die Reaktionsschnelligkeit des [Projektes] deutlich gesteigert werden[^3].
+Oftmals muss innerhalb eines [Projektes](Projekt.md) schnellstmöglich gehandelt werden[^3]. Deshalb ist es häufig nicht sinnvoll die jeweilige Entscheidungsfrage die verschiedenen Hierarchiestufen passieren zu lassen[^3]. Stakeholder erwaten zügige Entscheidungen[^2]. Daher sollte derjenige [Projektmitarbeiter](Projektmitarbeiter.md), der mit der entsprechenden Fragestellung konfrontiert ist, ausreichend Entscheidungskompetenz besitzen[^3]. Somit kann die Reaktionsschnelligkeit des [Projektes] deutlich gesteigert werden[^3].
 
 ## Qualität von Entscheidungen
 
-Neben der Reaktionsfähikeit, ist es auch von Relevanz, wie sinnvoll die getroffene Entscheidung ist. [Projektmitarbeiter](Projektmitarbeiter.md), die den nähsten Kontakt zu den jeweiligen Stakeholdern haben, erhalten üblicherweise auch den tiefsten Einblick in die betreffende Situation. [Empowerment](Empowerment.md) ermöglicht es ihnen deshalb gute und sinnvolle Entscheidungen zu treffen.[^2]
+Neben der Reaktionsfähigkeit, ist es natürlich ebenfalls von Relevanz, wie sinnvoll die getroffene Entscheidung ist. [Projektmitarbeiter](Projektmitarbeiter.md), die den nähsten Kontakt zu den jeweiligen Stakeholdern haben, erhalten üblicherweise auch den tiefsten Einblick in die betreffende Situation. [Empowerment](Empowerment.md) ermöglicht es ihnen somit gute und sinnvolle Entscheidungen zu treffen.[^2]
 
-## Fach- und Führungskräftenachwuchs
+## Fachkräftenachwuchs
 
-Die Jobpräferenzen haben sich deutlich verändert; die junge Generation hat andere Ansprüche an ihre Arbeit: Sie suchen mehr Herausforderungen, mehr Eigenverantwortung. Sie suchen sich Unternehmen, wo sie mehr mitbestimmen können. Wichtig ist ihnen: nicht zu viel Hierarchie und Fremdbestimmung.[^2]
-
-Wenn Ihr Unternehmen also trotz Fachkräftemangel junge Mitarbeiter anziehen und vor allem behalten möchte, dann empfiehlt sich: Empowerment![^2]
-
-### Jobpräferenzen
-
-Auch der Zeitgeist in Sachen Jobpräferenzen hat sich deutlich verändert; die jungen Generationen haben andere Ansprüche an ihre Arbeit: Sie suchen mehr Herausforderungen, mehr Eigenverantwortung. Schätzte sich vor zehn Jahren ein Studienabgänger glücklich einen Platz in einem Konzern zu ergattern, so ist heute das Gegenteil der Fall: Marvin, Ann Sophie und Maximilian suchen sich lieber ein kleines Unternehmen, ein Start Up oder machen sich gleich selbstständig. Wichtig ist ihnen: nicht zu viel Hierarchie und Fremdbestimmung. Natürlich kollidiert dieses Freiheitsbedürfnis mit dem engmaschigen Regelkanon eines Konzerns.[^3]
-
-### Fachkräftemangel
+Die Jobpräferenzen haben sich deutlich gewandelt: Die jungen Generationen streben in Bezug auf [Projektmanagement](Projektmanagement.md)] zunehmend nach größeren Herausforderungen und mehr Eigenverantwortung. Sie bevorzugen flache Hierarchien und einen begrenzten Anteil der Fremdbestimmung und präferieren deshalb [Projekte](Projekt.md), bei denen sie mehr mitbestimmen können. Dieses Bedürfnis nach Freiheit steht somit heutzutage im Konflikt mit dem klassischen engmaschigen Hierarchiedenken.[^3] 
 
 Noch dazu haben sich durch den demographischen Wandel Angebot und Nachfrage auf dem Arbeitsmarkt verändert: wo früher noch hunderte Bewerbungen auf eine Jobanzeige eingingen, ringen Unternehmen heute darum kompetenten Nachwuchs für die Stelle zu begeistern. Das heißt: die jungen Leute sind in der komfortablen Situation sich ihren Arbeitsplatz aussuchen zu können. Und da fällt die Wahl klar auf Unternehmen mit flachen Hierarchien.
 Wenn Dein Unternehmen also trotz Fachkräftemangel junge Mitarbeiter anziehen möchte, dann empfiehlt sich Empowerment.[^3]
