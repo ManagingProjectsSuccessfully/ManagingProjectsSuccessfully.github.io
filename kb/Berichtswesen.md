@@ -148,8 +148,18 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: (https://www.projektmagazin.de/glossarterm/berichtswesen)
+[^2]: (https://www.controllingportal.de/Fachinfo/Grundlagen/Berichtswesen-Reporting.html)
+[^3]: (https://www.controllingportal.de/Fachinfo/Grundlagen/Berichtswesen-Reporting.html)
+[^4]: (https://dieprojektmanager.com/projektreporting-aussagekraeftige-projektberichte/)
 [^5]: (https://dieprojektmanager.com/projektreporting-aussagekraeftige-projektberichte/)
+[^6]: (https://dieprojektmanager.com/projektreporting-aussagekraeftige-projektberichte/)
+[^7]: (https://www.fibunet.de/lexikon/berichtswesen)
+[^8]: (https://www.datapine.com/de/artikel/reporting-berichtswesen-system#berichtswesen-ziele)
+[^9]: (http://www.daswirtschaftslexikon.com/d/berichtswesen/berichtswesen.htm)
+[^10]: (https://www.fibunet.de/lexikon/berichtswesen)
+[^11]: (https://www.projektmagazin.de/glossarterm/berichtswesen)
+[^12]: (https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/berichtswesen/)
+[^13]: (https://www.fibunet.de/lexikon/berichtswesen)
+[^14]: (https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/berichtswesen/)
+[^15]: (https://www.projektmagazin.de/glossarterm/berichtswesen)
