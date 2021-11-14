@@ -18,15 +18,17 @@ Im Allgemeinen betitelt [Empowerment](Empowerment.md) Strategien und Maßnahmen,
 
 Im Sinne des [Projektmanagements](Projektmanagement.md) bedeutet [Empowerment](Empowerment.md) Macht- und Verantwortungsübertragung an die [Mitarbeiter](Projektmitarbeiter.md), wodurch ihnen ein höheres Maß an Autonomie, Informationszugang, Entscheidungskompetenz und Mitbestimmung eingeräumt wird. Diese Maßnahmen erlauben [Mitarbeitern](Projektmitarbeiter.md) eigenmächtig über gewisse Budgets, Kulanzleistungen, Urlaubsplanung sowie ihre eigenen Arbeitsabläufe zu entscheiden.[^3]
 
-# Hintergründe
-Konnte man früher Entwicklungen sehr viel besser einschätzen und so mit ruhiger Hand deutlich langfristiger planen, ergeben sich für Unternehmen heute andere Herausforderungen: Agiles handeln ist heutzutage eine Kernkompetenz, die das Überleben eines Unternehmens sichert.[^3]
+# Auswirkungen von [Empowerment](Empowerment.md)
+
+Konnte man früher Entwicklungen sehr viel besser einschätzen und so mit ruhiger Hand deutlich langfristiger planen, ergeben sich für Unternehmen heute andere Herausforderungen: Agiles Handeln ist heutzutage eine Kernkompetenz, die das Überleben eines Unternehmens sichert.[^3]
 
 Empowerment ermöglicht Projektarbeit: Mit der
-Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des einzelnen Mitarbeiters.
-beschränkt.[^1]
-# Auswirkungen von [Empowerment](Empowerment.md)
+Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des einzelnen Mitarbeiters.[^1]
+
 ## Mitarbeitermotivation
-Vor allem wird die intrinsische Motivation der Mitarbeiter gestärkt. Dies geschieht durch mehr Autonomie und Gestaltungsfreiheit, mehr Eigenverantwortung und durch Erfolgserlebnisse mit dem Kontakt zu Kunden. Des Weiteren wird die Qualifizierung der Mitarbeiter erhöht, sie können sich persönlich Weiterbilden und gegebenenfalls auch selbst Verwirklichen. Dafür werden allerdings die Arbeitsaufgaben anspruchsvoller und falls es zu einer Personalausdünnung kommt, steigt die Leistungsanforderung an die Mitarbeiter.[^6]
+
+Durch die Zunahme des autonomen und eigenverantwortlichen Handelns sowie der Gestaltungsfreiheit wird besonders die intrinsische Motivation der [Projektmitarbeiter](Projektmitarbeiter.md) erhöht. Dies hat wiederum Apositive Auswirkungn auf die Mitarbeiterqualifizierung, da sie motivierter sind sich persönlich weiterzubilden und selbstzuverwirklichen.[^6]
+
 ## Reaktionsfähigkeit
 Wenn dein Unternehmen schnell reagieren muss, dann ist es sinnvoll den Mitarbeiter der mit jeweiligen Entscheidung konfrontiert ist auch entscheiden zu lassen. – Geht schneller, oder? Die Alternative wäre, die Entscheidungsanfrage erst diverse Schreibtische auf mehreren Hierarchieebenen abklappern zu lassen. Und schnell ist das nun wirklich nicht…[^3]
 
@@ -56,10 +58,6 @@ Nun stellt sich die Frage, welche Vorteile sich aus Empowerment ergeben.[^6]
 Wenn sich ein Unternehmen genauer mit Empowerment auseinandersetzt, kann es Einsicht in übergeordnete Zusammenhänge erlangen und so können neue Handlungsfelder für Mitarbeiter entstehen. Ist Empowerment einmal etabliert, können Optionen von den Mitarbeitern wahrgenommen und selbstständig ausgewählt werden. Um diese Befähigung umsetzen zu können, müssen allerdings auch die Rahmenbedingungen im Unternehmen stimmen. Dazu ist es wichtig, hierarchische und bürokratische Hürden aus dem Weg zu räumen, die Mitarbeiter in der Entscheidungsfindung bremsen. Des Weiteren muss eine Unternehmenskultur etabliert werden, in der man Fehler machen kann und dafür nicht bestraft wird und in der Vertrauen entstehen kann. Ein wichtiger Teil des Empowerment stellen Teamentwicklungsmaßnahmen dar, wodurch die Mitarbeiter mit neuen Qualifikationen ihre Rolle im Team finden können.[^6]
 
 Empowerment heißt also nicht einfach Verantwortung abzugeben, sondern, dass alle für das Unternehmen, für die Gewinne und die Produkte und Leistungen des Betriebes verantwortlich sind. Verantwortung bedeutet wiederum, größeres Engagement für eigene Projekte und mehr Klarheit über eigene Ziele und Bedürfnisse. Die Effektivität und Produktivität eines Unternehmens, wird von der Entwicklung der Mitarbeiter sowie von dem Einsatz deren Talente und Qualitäten bestimmt.[^6]
-
-Unternehmen müssen erkennen, dass die Mitarbeiter das größte Kapital der Firma sind und aus diesem Grund, ist in diese zu investieren und auf deren Qualität zu vertrauen.[^6]
-
-" Man kann einem Menschen nichts beibringen, man kann ihm nur helfen, es in sich selbst zu entdecken"[^6]
 
 # Siehe auch
 
