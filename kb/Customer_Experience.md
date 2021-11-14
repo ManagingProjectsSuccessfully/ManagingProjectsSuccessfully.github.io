@@ -7,8 +7,6 @@ anrechnung: a
 
 Der Begriff Customer_Experience, kurz CX, ist nicht anders als eine Marketingstrategie von Firmen in die meisten Größen und Abteilungen, es wird immer mehr wichtiges Prinzip bei Unternehmen, die sich im Markt etablieren wollen. Dabei versucht die Unternehmen einen positiven Eindruck bei den Kunden zu schaffen, somit den Kunden stärker an die Firma zu binden und damit Wettbewerbsvorteile zu bekommen, sodass ein Kunde mit der Zeit eine positive emotionale Beziehung zu dem Unternehmen hat. 
 
-![grafik](https://user-images.githubusercontent.com/92948697/141685275-1bc32f23-d897-4b8b-8e91-4ad8a7561b1f.png)
-
 
 # Warum ist Customer_Experience unverzichtbar & essenziell:
 
@@ -24,33 +22,16 @@ Das wichtige Prinzip von CX liegt daran, dass die Probleme direkt vom Unternehme
 „Die Customer Experience umfasst jeder einzelne Interaktion eines Kunden mit einem Unternehmen, in jeder einzelnen Phase der Customer Journey darunter das Marketingmaterial, das er sieht, ehe er Kunde wird, das Verkaufserlebnis, die Qualität des Produkts und der Kundenservice im Anschluss an den Kauf.“. sagt Dave Dyson, Senior Customer Service Evangelist, Zendesk[^1]
 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+![grafik](https://user-images.githubusercontent.com/92948697/141685275-1bc32f23-d897-4b8b-8e91-4ad8a7561b1f.png)
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Welche Hauptziele sind bei CX zu erlangen:
+* Die Wünsche und Erwartungen von Kunden sind im Mittelpunkt.
+* Schnelle und einfache Problemlösungen spielen eine große Rolle bei den Kunden.
+* Die Kundenerlebnisse müssen vom Unternehmen optimiert sein.
+* Feedback muss effizient ausgewertet und bearbeitet werden. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Customer_Experience/test-file.jpg)
-
-*lustiges Testbild*
 
 # Aspekt 2
 
