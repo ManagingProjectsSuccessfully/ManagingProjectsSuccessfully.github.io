@@ -1,8 +1,8 @@
 ---
 title: Risikobewertung_von_Umweltrisiken
-tags: agil klassisch
+tags: klassisch
 author: loritschka
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Risikobewertung_von_Umweltrisiken um ein erstes Verständnis dafür zu schaffen um was es hier geht.
