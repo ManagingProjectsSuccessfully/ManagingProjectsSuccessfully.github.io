@@ -26,10 +26,10 @@ Ein weiteres Best Practice ist diesen Projektplan durch ein periodisches [Contro
 Klare, schriftliche [Dokumentation](Projektdokumentation.md) ist ein weiterer kritischer Erfolgsfaktor, da der Projektverlauf dadurch im Nachhinein noch nachvollziehbar ist [^9][^11]. Dies ermöglicht eine reibungslose Nachbereitung des Projekts, welche bestenfalls neue Best Practices für zukünftige Projekte ausarbeiten lässt [^9]. 
 
 ### Projektleitung
-Eine weitere Erfolgsmethode ist das Bereitstellen eines qualifizierten [Projektleiters](Projektleiter.md) mit guten Menschenkenntnissen und Kommunikationsfähigkeiten [^12][^13]. Dieser soll regelmäßig Feedback an alle Stakeholder (identifizierbar mittels [Stakeholder-Analyse](Stakeholderanalyse.md) geben, um Probleme gemeinsam zu lösen und gegenseitiges Verständnis für die gemeinsame Projektarbeit zu schaffen [^9][^10][^11].
+Eine weitere Erfolgsmethode ist das Bereitstellen eines qualifizierten [Projektleiters](Projektleiter.md) mit guten Menschenkenntnissen und Kommunikationsfähigkeiten [^12][^13]. Dieser soll regelmäßig Feedback an alle Stakeholder (identifizierbar mittels [Stakeholder-Analyse](Stakeholderanalyse.md)) geben, um Probleme gemeinsam zu lösen und gegenseitiges Verständnis für die gemeinsame Projektarbeit zu schaffen [^9][^10][^11].
 
 ### Risikomanagement
-Ein gutes [Risikomanagement](Risikomanagement.md) ist ein weiteres Best Practice [^9]. Das gesamte Projektteam muss Risiken und ihre Auswirkungen auf das Projekt durchgehend analysieren und gegebenenfalls schnellstmöglich effiziente Gegenmaßnahmen einleiten [^14]. Die Methoden der [Meilensteintrendanalyse](Meilensteintrendanalyse.md) und der [Risikoanalyse](Risikoanalyse_und_Visualisierung.md) eignen sich besonders zur Risikominimierung [^10]. Des Weiteren minimiert der 3rd-Party-Ansatz das Risiko durch die Zusammenarbeit mit erfahrenen externen Projektmanagern[^15].
+Gutes [Risikomanagement](Risikomanagement.md) ist ein weiteres Best Practice [^9]. Das gesamte Projektteam muss Risiken und ihre Auswirkungen auf das Projekt durchgehend analysieren und gegebenenfalls schnellstmöglich effiziente Gegenmaßnahmen einleiten [^14]. Die Methoden der [Meilensteintrendanalyse](Meilensteintrendanalyse.md) und der [Risikoanalyse](Risikoanalyse_und_Visualisierung.md) eignen sich besonders zur Risikominimierung [^10]. Des Weiteren minimiert der 3rd-Party-Ansatz das Risiko durch die Zusammenarbeit mit erfahrenen externen Projektmanagern[^15].
 
 ### Projektstart
 Ein einleitendes Kick-off-Meeting ist ein Best Practice, da es als [Startschuss](Projektstart.md) mit motivierender Wirkung agiert [^9].
@@ -46,7 +46,7 @@ Im Gegensatz zu Best Practices bezeichnen Worst Practices ineffiziente Vorgehens
 Eine der häufigsten Worst Practices ist schlechte [Kommunikation](Projektkommunikation.md) zwischen den Projektbeteiligten [^17]. Insbesondere werden dabei Anforderungen von der Projektleitung nicht klar vermittelt und das Team bekommt kein klares Verständnis für das Projekt [^1][^18].
 
 ### Projektplanung
-Ein weiterer großer Faktor für das Scheitern von Projekten ist eine mangelhafte Projektplanung mit unklar definierten und mangelhaft dokumentierten Zielen [^19]. Dabei werden häufig Termine mit unmöglich einzuhaltenden Deadlines geplant [^20].
+Unausreichende Projektplanung mit unklar definierten und mangelhaft dokumentierten Zielen ist ein weiterer großer Faktor für das Scheitern von Projekten [^19]. Dabei werden häufig Termine mit unmöglich einzuhaltenden Deadlines geplant [^20].
 Die schlechte Projektplanung wird dann zumeist noch mit einem fehlenden Änderungswesen und dem starren Festhalten an alten Vorgehensweisen kombiniert [^14][^16]. Dies liegt daran, dass Projektteams häufig schwach besetzt sind und keine Erfahrung im Projektmanagement besitzen [^14][^15]. Deshalb wird im Projektverlauf die schlechte Planung meist nicht korrigiert und das Projekt scheitert.
 
 ### Sonstige
