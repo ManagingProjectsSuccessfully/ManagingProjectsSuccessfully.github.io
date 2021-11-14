@@ -11,6 +11,7 @@ Bei Teamarbeit ist der [Leiter](Projektleiter.md) eines [Projektes](Projekt.md) 
  [Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Änderungsmanagement.md) zuzuordnen. Das Umfangs- und Änderungsmanagement ist eine Kernaufgabe des klassischen sowie agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben des entsprechenden [Sprints](Sprint.md) Anwendung findet, sind beim klassischen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Budget-/Kostenmanagement und Zeitmanagement betroffen.[^7]
 
 ![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
+
 *Faktoren von Empowerment[^2]*
 
 # Defintion
