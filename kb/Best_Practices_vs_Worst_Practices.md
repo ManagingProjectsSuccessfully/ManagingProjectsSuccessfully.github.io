@@ -73,6 +73,7 @@ Während erfolgreiche Projekte ausgiebig geplant und fortlaufend mit klarer Doku
 * [Worst Practices](Worst_Practices.md)
 * [Benchmarking](Benchmarking.md)
 * [Projektplanung](Projektplanung.md)
+* [SMART](https://www.agile-master.de/smart-ziele-projektmanagement/)
 * [Projektstrukturplanung](Projektstrukturplan.md)
 * [Wasserfallmodell](Wasserfall_Modell.md)
 * [SCRUM](SCRUM.md)
@@ -89,7 +90,7 @@ Während erfolgreiche Projekte ausgiebig geplant und fortlaufend mit klarer Doku
 * [Projektabbruch](Projektabbruch.md)
 * [Projektkommunikation](Projektkommunikation.md)
 * [Kostenplanung](Kostenplanung.md)
-* [Link auf diese Seite](Best_Practices_vs_Worst_Practices.md)
+* [Best Practices vs Worst Practices](Best_Practices_vs_Worst_Practices.md)
 
 # Weiterführende Literatur
 
