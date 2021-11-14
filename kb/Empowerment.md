@@ -35,7 +35,7 @@ Neben der Reaktionsfähigkeit, ist es natürlich ebenfalls von Relevanz, wie sin
 
 ## Fachkräftenachwuchs
 
-Die Jobpräferenzen haben sich deutlich gewandelt: Die jungen Generationen streben in Bezug auf [Projektmanagement](Projektmanagement.md)] zunehmend nach größeren Herausforderungen und mehr Eigenverantwortung. Sie bevorzugen flache Hierarchien und einen begrenzten Anteil der Fremdbestimmung und präferieren deshalb [Projekte](Projekt.md), bei denen sie mehr mitbestimmen können. Dieses Bedürfnis nach Freiheit steht somit heutzutage im Konflikt mit dem klassischen engmaschigen Hierarchiedenken.[^3] 
+Die Jobpräferenzen haben sich deutlich gewandelt: Die jungen Generationen streben in Bezug auf [Projektmanagement](Projektmanagement.md) zunehmend nach größeren Herausforderungen und mehr Eigenverantwortung. Sie bevorzugen flache Hierarchien und einen begrenzten Anteil der Fremdbestimmung und präferieren deshalb [Projekte](Projekt.md), bei denen sie mehr mitbestimmen können. Dieses Bedürfnis nach Freiheit steht somit heutzutage im Konflikt mit dem klassischen engmaschigen Hierarchiedenken.[^3] 
 
 Noch dazu haben sich durch den demographischen Wandel Angebot und Nachfrage auf dem Arbeitsmarkt verändert: wo früher noch hunderte Bewerbungen auf eine Jobanzeige eingingen, ringen Unternehmen heute darum kompetenten Nachwuchs für die Stelle zu begeistern. Das heißt: die jungen Leute sind in der komfortablen Situation sich ihren Arbeitsplatz aussuchen zu können. Und da fällt die Wahl klar auf Unternehmen mit flachen Hierarchien.
 Wenn Dein Unternehmen also trotz Fachkräftemangel junge Mitarbeiter anziehen möchte, dann empfiehlt sich Empowerment.[^3]
