@@ -4,7 +4,7 @@ tags: klassisch
 author: wernerni
 anrechnung: k
 ---
-Der Begriff Projektmanagement 4.0 lässt sich auf den Grundbegriff Industrie 4.0 zurückführen. Industrie 4.0 steht für ein "Zukunftsprojekt zur umfassenden Digitalisierung der industriellen Produktion"[^1], mit dem Ziel der vollständigen Automatisierung. Die Zahl steht zudem für die „vierte industrielle Revolution“[^2], die sich durch Faktoren wie Individualisierung und Kundenintegration in unternehmerische Prozesse auszeichnet. Dies beeinflusst auch das zukünftige Projektmanagement. Projektmanagement 4.0 steht also für die Optimierung der Projektprozesse, mit Anpassung an neue Anforderungen, die das Fortschreiten der Globalisierung und Digitalisierung mit sich bringen.[^1]    
+Der Begriff Projektmanagement 4.0 lässt sich auf den Grundbegriff Industrie 4.0 zurückführen. Dieser steht für ein "Zukunftsprojekt zur umfassenden Digitalisierung der industriellen Produktion"[^1], mit dem Ziel der vollständigen Automatisierung. Die Zahl 4.0 steht zudem für die „vierte industrielle Revolution“[^2], die sich durch Faktoren wie Individualisierung und Kundenintegration in unternehmerische Prozesse auszeichnet. Dies beeinflusst auch das zukünftige Projektmanagement. Projektmanagement 4.0 steht also für die Optimierung der Projektprozesse, mit Anpassung an neue Anforderungen, die das Fortschreiten der Globalisierung [https://wirtschaftslexikon.gabler.de/definition/globalisierung-35657] und Digitalisierung mit sich bringen.[^1]    
 
 # Projektteams der Zukunft
 Durch die neuen Anforderungen der Digitalisierung, steht es besonders im Fokus, Projektprozesse effizienter und schneller zu gestalten. Ein wesentlicher Bestandteil des Projektmanagements in der Zukunft ist die Verknüpfung von sowohl agilen, als auch klassischen Konzepten.[^3] Die Projektteams entscheiden zukünftig gemeinschaftlich in Einzelfällen, welche der beiden Formen bzw. ob eine hybride Gestaltung beider Elemente für das entsprechende Projekt am sinnvollsten ist.[^4] Ebenfalls werden Hierarchiestufen aufgegeben, es gibt also keine einzelne Projektleitung mehr, sondern diese Aufgabe geht auf alle Projektmitglieder über.[^6] Die Projektmitglieder teilen sich hinsichtlich ihrer Erfahrung und ihrem Kenntnisstand in einzelne Projektteams auf. Diese stimmen sich untereinander ab und kümmern sich individuell um die Ressourcenbeschaffung.[^6]
@@ -42,7 +42,7 @@ Der Fokus bei der Projektprozessgestaltung liegt nicht wie bisher darauf, dass d
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Industrie 1.0-4.0](https://www.spiegel.de/fotostrecke/von-der-industrie-1-0-bis-4-0-fotostrecke-125537.html)
 
 # Quellen
 [^1]: https://de.wikipedia.org/wiki/Industrie_4.0
