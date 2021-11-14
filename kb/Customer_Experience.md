@@ -42,54 +42,18 @@ Das wichtige Prinzip von CX liegt daran, dass die Probleme direkt vom Unternehme
 * Der Expert Thompson Kolsky (2004), der bei Beratungsunternehmen Gartner gearbeitet hat, hat schon sehr früh geahnt, wie zunehmende Rolle die CX in das Marketing, als langfristigen Erfolg für die Firmen.
 * Im Jahr 2008 äußerte Jessica Debor, dass durch effiziente CXM, die Fähigkeit von Unternehmen zu setzen, um positive Meinungen von Kunden zu schaffen, steigert die Kaufbereitschaft und auch die Loyalität zum Unternehmen bzw. Marke [^3]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Customer_Experience.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Die Treiber von der Customer_Experience von Andreas Toth.
 
 # Quellen
 
 [^1]: https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
 [^2]: https://www.netigate.net/de/articles/kundenzufriedenheit/alles-was-sie-ueber-customer-experience-cx-wissen-muessen/#h-die-vorteile-von-customer-experience-cx
 [^3]: https://de.wikipedia.org/wiki/Customer-Experience-Management
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+*  https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
+*  https://www.sem-deutschland.de/online-marketing-glossar/customer-experience/#Was_bedeutet_Customer_Experience
+*  https://job-wizards.com/de/customer-experience-management-wie-kundinnen-und-kunden-gluecklich-werden-und-bleiben/
 
