@@ -38,27 +38,24 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 # Bestandteile
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Bei der Erstellung eines Projektabschlussberichtes wird Bezug auf die unterschiedlichsten Abteilungen in einem Unternehmen genommen, was suggeriert wie umfassend ein solcher Bericht aufgebaut wird. Gerade deswegen führt dies nicht selten zu einem ablehnenden Verhaltenn seitens der Projektleiter, da es aus deren Sicht als unnötig un dzu zeitintensiv betrachtet und dennoh vom Auftraggeber gefordert wird. In einugen Fällen wird ein solches Dokumentieren geradezu als verpflichtend angesehen. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Projektabschlussbericht/test-file.jpg)
 
-*lustiges Testbild*
+## Hard Facts und Soft Facts
+### Hard Facts
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+* Kosten
 
-So kann man eine Tabelle erstellen:
+Der monätere Rahmen stellt einen der wichtigsten Bestandteile dar. Dabei wird sowohl der Fokus auf die Ist-/ und Soll- Kosten gelegt und die daraus resultierenden Abweichungen, als auch auf die Nachkalkulation, was die Ergebnisse der Schlussabrechnung widerspiegelt. 
 
-| Hard Facts    | Soft Facts    |
-| ------------- | ------------- |
-| Finanzen      | Teamarbeit    |
-| Zeitmanagemnt |               |
+* Zeitmanagement
+
 
 
 # Fazit
+
+![Beispielabbildung](Projektabschlussbericht/test-file.jpg)
 
 Zusammenfassend lässt sich sagen, dass der Projektabschlussbericht durchaus einen großen Aufwand an Bürokratie darstellt. Dennoch können daraus viele brauchare Erkenntnisse gezogen werden, welche man positiv auf kommende Projekte projizieren und Vorgehensweisen optimieren kann. 
 
