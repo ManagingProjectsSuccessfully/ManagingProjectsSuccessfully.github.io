@@ -25,9 +25,9 @@ Konnte man früher Entwicklungen sehr viel besser einschätzen und so mit ruhige
 Empowerment ermöglicht Projektarbeit: Mit der
 Reduktion hierarchischer Ebenen in den Unternehmen wächst die Verantwortung des einzelnen Mitarbeiters.[^1]
 
-## Mitarbeitermotivation
+## [Mitarbeiter](Projektmitarbeiter.md)motivation
 
-Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad der [Mitarbeiter](Projektmitarbeiter.md), welche in über die Verwendung bestimmter Budgets und die Gestaltung ihrer Arbeitsbläufe autonom und eigenverantwortlichen entscheiden, stärken erwiesenermaßen die intrinsische Motivation[^2][^6]. Dies hat wiederum positive Auswirkungn auf die [Mitarbeiter](Projektmitarbeiter.md)qualifizierung, da sie motivierter sind sich persönlich weiterzubilden und selbstzuverwirklichen.[^6]
+Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad der [Mitarbeiter](Projektmitarbeiter.md), welche in über die Verwendung bestimmter Budgets und die Gestaltung ihrer Arbeitsbläufe autonom und eigenverantwortlichen entscheiden, stärken erwiesenermaßen die intrinsische Motivation[^2][^6]. Dies hat wiederum positive Auswirkungn auf die [Mitarbeiter](Projektmitarbeiter.md)qualifizierung, da sie motivierter sind sich persönlich weiterzubilden und selbstzuverwirklichen[^6].
 
 ## Reaktionsfähigkeit
 
