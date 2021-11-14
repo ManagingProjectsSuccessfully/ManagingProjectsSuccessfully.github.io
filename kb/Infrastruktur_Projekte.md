@@ -11,10 +11,12 @@ Infrastrukturprojekte sind staatliche oder private Vorhaben, die der Verbesserun
 
 Man unterscheidet zwischen privaten- und öffentlichen Infrastrukturprojekten. Beispiele für private Infrastrukturprojekte sind regulierte Wassernetze, IT-Infrastruktur oder beispielhaft Unternehmen, die aus Abfall Energie gewinnen. Öffentliche Infrastrukturprojekte sind beispielsweise Straßen, Bahnlinien, Radwege, Schifffahrtswege, Bahnhöfe, Flughäfen und Strom- und Wasserleitungen[^2][^3]. (mehr Information zu IT-Projekten: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/IT-Projekte.md und zu öffentlichen Projekten: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Oeffentliche_Projekte.md)
 
+# Infrastrukturprojekte und klassisches Projektmanagement
+
 Im Folgenden werden öffentliche Infrastrukturprojekte am Beispiel des Berliner Flughafens (BER), in Bezug auf das klassische Projektmanagement, behandelt.
 Das klassische Projektmanagement zeichnet sich durch ein hohes Maß an Standardisierung und Vorabplanung aus, sodass es genaue zeitliche Vorgaben gibt. Kosten und Ressourcen werden bei der Planung genau festgelegt und berechnet und ein fester Endtermin gibt dem Auftraggeber die benötigte Sicherheit bei der Umsetzung. Diese Vorgehensweise ist vor allem bei Projekten vorteilhaft, die nur von kurzer Dauer sind und gut abgeschätzt werden können. Je größer und komplexer ein Projekt wird, desto agiler sollte es durchgeführt werden[^4][^5].
 
-# Infrastrukturprojekte und klassisches Projektmanagement
+# Grenzen des klassischen Projektmanagement
 
 „Je mehr du nach Plan arbeitest desto mehr bekommst du das, was du geplant hast aber nicht das, was du brauchst“[^6].
 
@@ -28,7 +30,7 @@ Das Problem beim Milliardenprojekt Berliner Flughafen BER waren strategische Feh
 
 Es stellt sich die Frage, ob es alternative Methoden zum klassischen Projektmanagement gibt, die Fehler reduzieren, Planungssicherheit geben und somit mit weniger Risiken verbunden sind und für komplexe Infrastrukturprojekte geeignet sind. 
 
-# hybrides Projektmanagement - die Lösung?
+# Hybrides Projektmanagement - die Lösung?
 
 Eine Möglichkeit, die Vorteile der klassischen- und agilen Projektmanagement-Methoden zu verbinden ist das hybride Projektmanagement. Hierbei werden die Struktur-Elemente des klassischen Projektmanagements, hinsichtlich Aufbau- und Ablauforganisation, übernommen und um agile Elemente erweitert. Vor allem bei Großprojekten mit verschiedenen Teilprojekten ist der hybride Ansatz vorteilhaft, da die Teilprojekte entsprechend ihrer Bedürfnisse individuell agil und effizienzsteigernd gesteuert werden können. Die klassischen Elemente bringen wiederum Sicherheit und Struktur und so schafft diese Kombination Effizienz bei der Projektplanung- und Durchführung[^12].
 
