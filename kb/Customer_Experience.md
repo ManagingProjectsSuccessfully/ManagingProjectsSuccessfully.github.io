@@ -19,7 +19,7 @@ Die Unternehmen verfolgen mehrere Methoden, um CX zu verwirklichen. Das Marketin
 
 Das wichtige Prinzip von CX liegt daran, dass die Probleme direkt vom Unternehmen gelöst werden und sie lieber ohne Zeitverzögerung zu den Produkten bzw. Dienstleistung für den Kunden zu leiten. Nachdem das Unternehmen diesen Grundlagen erfüllt, ist es dann möglich den Kunden mit extra zusätzlichen Leistungen z.B. Sonderrabatte oder andere Vergünstigung zu begeistern und dementsprechend sich an das Unternehmen stärkere binden.
 
-„Die Customer Experience umfasst jeder einzelne Interaktion eines Kunden mit einem Unternehmen, in jeder einzelnen Phase der Customer Journey darunter das Marketingmaterial, das er sieht, ehe er Kunde wird, das Verkaufserlebnis, die Qualität des Produkts und der Kundenservice im Anschluss an den Kauf.“. sagt Dave Dyson, Senior Customer Service Evangelist, Zendesk[^1]
+„Die Customer Experience umfasst jede einzelne Interaktion eines Kunden mit einem Unternehmen, in jeder einzelnen Phase der Customer Journey, darunter das Marketingmaterial, das er sieht, ehe er Kunde wird, das Verkaufserlebnis, die Qualität des Produkts und der Kundenservice im Anschluss an den Kauf.“, sagt Dave Dyson, Senior Customer Service Evangelist, Zendesk[^1]
 
 
 ![grafik](https://user-images.githubusercontent.com/92948697/141685275-1bc32f23-d897-4b8b-8e91-4ad8a7561b1f.png)
@@ -33,10 +33,14 @@ Das wichtige Prinzip von CX liegt daran, dass die Probleme direkt vom Unternehme
 * Feedback muss effizient ausgewertet und bearbeitet werden. 
 
 ## Ziele Langfrisitg?
-Langfristig entsteht den Effekt der Markentreue und Loyalität. Das stehen die Unternehmen vor die Probleme, durch Kommunikation mit den Kunden oder auch potenziellen Käufern deren Erwartungen und Wünsche in Erfahrung zu bringen.
+* Langfristig entsteht den Effekt der Markentreue und Loyalität. Das stehen die Unternehmen vor die Probleme, durch Kommunikation mit den Kunden oder auch potenziellen Käufern deren Erwartungen und Wünsche in Erfahrung zu bringen.
+* Die künstliche Intelligenz wird Customer Experience Management in die Zukunft durchführen, mit der großen Hilfe das maschinelle Lernen wird es erleichtert. Information über die Kunden werden gesammelt, somit lernt Kl mit zunehmenden Angaben, wie sie die CX für jeden Kunden verbessern kann.[^2]
 
 
-# Aspekt 2
+# Geschichte:
+* Der CEM von Pine Gilmore (1998) hat es bei einem Artikel für Harvard Business Review. Später gelinge es starken Firmen, der Käufer aus möglichst authentischen Erfahrungen mit dem Anbieter persönliche Mehrwerte ableiten.
+* Der Expert Thompson Kolsky (2004), der bei Beratungsunternehmen Gartner gearbeitet hat, hat schon sehr früh geahnt, wie zunehmende Rolle die CX in das Marketing, als langfristigen Erfolg für die Firmen.
+* Im Jahr 2008 äußerte Jessica Debor, dass durch effiziente CXM, die Fähigkeit von Unternehmen zu setzen, um positive Meinungen von Kunden zu schaffen, steigert die Kaufbereitschaft und auch die Loyalität zum Unternehmen bzw. Marke [^3]
 
 * das
 * hier 
@@ -85,7 +89,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^2]: https://www.netigate.net/de/articles/kundenzufriedenheit/alles-was-sie-ueber-customer-experience-cx-wissen-muessen/#h-die-vorteile-von-customer-experience-cx
+[^3]: https://de.wikipedia.org/wiki/Customer-Experience-Management
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
