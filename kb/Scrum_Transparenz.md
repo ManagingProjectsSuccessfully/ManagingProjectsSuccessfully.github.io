@@ -7,80 +7,44 @@ anrechnung: a
 
 Scrum-Transparenz (in englisch ,,Scrum Transparency“) bildet eine der drei Hauptsäulen von SCRUM, neben Scrum-Überprüfung (engl.,, Scrum Inspection“) [Link] und Scrum-Anpassung (engl. ,,Scrum Adaption“) [Link]. Dabei handelt es sich um die offene Kommunikation und das Teilen von Wissen, sowohl innerhalb, als auch außerhalb des Teams [^1].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Inhaltsverzeichnis 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+1. Problemstellung
+2. Definitionen und Merkmale
+ 2.1 Begrifflichkeiten
+ 2.2 Ziele und Anforderungen
+ 2.3 Aktuelle Fortschrittsinformationen
+3. Fazit
+4. Siehe auch
+5. Weiterführende Literatur
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# 1.Problemstellung
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+In einem Prozess kann öfters vorkommen, dass wegen der nicht korrekt definierten Ziele, falsch verstandene Information und Begrifflichkeiten, fehlende Kommunikation oder wegen dem nicht explizit-erklärten aktuellen Überblick, der Prozess nicht richtig, fehlerhaft oder langsamer abläuft. Deswegen ist Transparenz in Scrum eine wichtige Säule, die die oben genannten Probleme verhindert kann. Da sich Scrum als ein Prozess-Framework zur Lösung komplexer, anpassungsfähiger Probleme versteht, ist es wichtig, dass alle Prozesse transparent ablaufen und dass man einen Überblick über sie haben kann [^2].
 
-![Beispielabbildung](Scrum_Transparenz/test-file.jpg)
 
-*lustiges Testbild*
+# 2. Definitionen und Merkmale
+Offene Kommunikation und das Teilen von Wissen sind die Grundlagen für Scrum-Transparenz [^1]. Alle Informationen, die für das Ergebnis der Produktentwicklungen relevant sind, müssen für alle an der Produktentwicklung beteiligten Personen transparent sein. Das kann mehrere Aspekte umfassen, wie zum Beispiel die verwendeten Begriffe, die zu erreichende Ziele und Anforderungen oder die Fortschrittsinformationen [^2]. Im Folgenden werden diese drei Beispiele erläutert.
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## 2.1	Begrifflichkeiten
 
-So kann man eine Tabelle erstellen:
+ Ein Wort kann von mehreren Personen unterschiedlich wahrgenommen werden oder auf eigene Art und Weise interpretiert werden. Wenn man nicht von Anfang an die Begriffsdefinition spezifiziert hat, kann es zu Missverständnissen kommen. Als Beispiel kann man die Bedeutung vom Verhältnis ,,Done“ betrachten. Ab wann genau ein Prozess als ,,erledigt“ zu bezeichnen ist, muss ebenso in einer ,,gemeinsamen Prozesssprache“ festgelegt werden. Das heißt die Anforderungen müssen eindeutig sein, sodass jeder versteht was darunter gemeint ist [^1].
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## 2.2	Ziele und Anforderungen
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+,,We all know what is going on” [^3]. Damit die Arbeit im Team ohne Fehlvorstellungen durchläuft, ist es wichtig, dass jeder Teilnehmer, Mitwirkende, der CEO und der Kunde wissen genau was ihre Ziele sind, was sie erreichen wollen und was die anzustrebenden Anforderungen sind. Jeder strebt nach dem gemeinsamen Ziel und alle arbeiten kollektiv und transparent zusammen, wobei niemand versteckte Ziele hinter dem Prozess hat.
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## 2.3	Aktuelle Fortschrittsinformationen
 
-### Ebene-3-Überschrift
+Damit die konsistente Arbeit gesichert wird, muss jeder Mitarbeiter, der CEO und vor allem der Kunde immer wissen, was der neuste Stand des Prozesses ist, was die Neuigkeiten sind und welche Verbesserungspotenziale noch existieren. Alle aus dem Team vertrauen einander und haben den Mut, sich gegenseitig über gute und schlechte Nachrichten auf dem Laufenden zu halten. Ein geeignetes Beispiel ist ,,das Daily Scrum“-was ein 15-minütiges Meeting für das Scrum-Meeting ist, wo sie miteinander über den neuen Stand kommunizieren, planen oder Informationen teilen können. [^4]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+# 3. Fazit
 
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Zusammenfassend lässt sich sagen, dass Scrum-Transparenz eine wichtige Voraussetzung für eine konsistente, widerspruchsfreie und transparente Arbeit ist, dass dementsprechend den Prozess erleichtert, eine Übersicht gewährleistet und die eindeutige Kommunikation zwischen den Teilnehmer sichert.
 
 
 # Siehe auch
