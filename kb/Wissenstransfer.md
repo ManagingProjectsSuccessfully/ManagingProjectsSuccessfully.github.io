@@ -9,7 +9,7 @@ anrechnung: k
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Wissenstransfer1
+# Wissenstransfer
 
 Der Begriff [Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer) wird in verschiedenen Kontexten verwendet. In der Wirtschaft wird darunter 
 vor allem der Austausch und 
