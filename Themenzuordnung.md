@@ -176,7 +176,6 @@ author: anniSc
 | [Nicht_Funktionale_Anforderungen](kb/Nicht_Funktionale_Anforderungen.md)                                                           | [seriousTake](https://github.com/seriousTake)                 |
 | [Project_Management_Office](kb/Project_Management_Office.md)                                                                       | [nicolasrmg](https://github.com/nicolasrmg)                   |
 | [Proof_of_Concept](kb/Proof_of_Concept.md)                                                                                         | [PhilippWolfrum](https://github.com/PhilippWolfrum)           |
-| [Proof_of_Technology](kb/Proof_of_Technology.md)                                                                                   | [ra94qony](https://github.com/ra94qony)                       |
 | [Obeya_Raum](kb/Obeya_Raum.md)                                                                                                     | [xe28dita](https://github.com/xe28dita)                       |
 | [Minimum_Viable_Product](kb/Minimum_Viable_Product.md)                                                                             | [Charles0209](https://github.com/Charles0209)                 |
 | [Methode_des_kritischen_Pfades](kb/Methode_des_kritischen_Pfades.md)                                                               | [ChristinaHartung](https://github.com/ChristinaHartung)       |
