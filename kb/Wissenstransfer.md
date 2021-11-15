@@ -91,8 +91,8 @@ in diesem Kontext eine essenzielle Rolle dar.
 
 
 Literatur kann via Fußnoten angegeben werden. Es gibt auch das PMBOK.
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown nachsehen. 
+Und wenn man es ganz genau wissen will gibt es noch mehr Doku. 
 
 Das PMBOK ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
