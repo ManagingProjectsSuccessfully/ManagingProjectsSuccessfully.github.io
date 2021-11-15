@@ -31,7 +31,9 @@ Aus diesem Grund entstand Mitte der 80er Jahre bis Anfang der 90er Jahre im Zuge
 Da es sich um einen vielschichtigen Prozess handelt, der zu verschiedenen Zeitpunkten in verschiedenen Unternehmensbereichen relevant ist und umgesetzt wird, kann sich der VOC-Prozess von Unternehmen zu Unternehmen sehr unterschiedlich gestalten. Zudem haben sich immer mehr Möglichkeiten und Tools entwickelt, die den VOC-Prozess eines Unternehmens unterstützen. Am Ende ist es jedem Unternehmen, sogar jedem individuellen Projekt, selbst überlassen, wie sie ihren VOC-Prozess gestalten wollen.
 
 Trotz sehr unterschiedlicher Gestaltung des VOC-Prozesses verschiedener Unternehmen, lässt sich eine fundamentale Struktur, bestehend aus drei zentralen Phasen, feststellen. Dabei besitzt jede grundlegende Phase mehrere verschiedene Möglichkeiten diese zu gestalten und ihre Funktion umzusetzen. Deshalb scheinen VOC-Prozesse nach außen sehr verschieden. 
-//Abbildung zu den drei Phasen (selbst erstellen)
+
+![Die 3 fundamentalen Phasen von einem VOC-Prozess](Voice_of_the_Customer/Abbildung_1.png)
+*Die 3 fundamentalen Phasen von einem VOC-Prozess*
 
 ## Phase 1: Erfassen relevanter Kundendaten [^4]
 Zuerst müssen relevante Kundendaten von dem Unternehmen gesammelt werden. Die gesammelten Daten bilden die Grundlage des gesamten VOC-Prozesses. Wichtig ist es die Datenerhebung auf die Bedürfnisse, Wünsche und Erwartungen der Kunden auszurichten. Ziel ist es am Ende wirklich zu verstehen warum Kunden gewisse Dinge besonders wert schätzen [^5]. Um dieses Ziel zu erreichen, muss die Datenerhebung gezielt darauf ausgerichtet werden.
