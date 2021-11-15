@@ -55,7 +55,6 @@ author: anniSc
 | [Root_Cause_Analysis](kb/Root_Cause_Analysis.md)                                                                                   | [xyjaxy](https://github.com/xyjaxy)                           |
 | [Infrastruktur_Projekte](kb/Infrastruktur_Projekte.md)                                                                             | [MillaLena](https://github.com/MillaLena)                     |
 | [Oeffentliche_Projekte](kb/Oeffentliche_Projekte.md)                                                                               | [AbleAn](https://github.com/AbleAn)                           |
-| [Digitalisierungsprojekte](kb/Digitalisierungsprojekte.md)                                                                         | [aliciamiederer](https://github.com/aliciamiederer)           |
 | [Cone_of_Uncertainty](kb/Cone_of_Uncertainty.md)                                                                                   | [phigeit](https://github.com/phigeit)                         |
 | [Ausschreibungen](kb/Ausschreibungen.md)                                                                                           | [Lars428](https://github.com/Lars428)                         |
 | [Projekthandbuch](kb/Projekthandbuch.md)                                                                                           | [Saskia1403](https://github.com/Saskia1403)                   |
@@ -129,7 +128,6 @@ author: anniSc
 | [Timeboxing](kb/Timeboxing.md)                                                                                                     | [janetteschuller](https://github.com/janetteschuller)         |
 | [Compliance_im_Projektmanagment](kb/Compliance_im_Projektmanagment.md)                                                             | [phigeit](https://github.com/phigeit)                         |
 | [Vorgehensmodelle](kb/Vorgehensmodelle.md)                                                                                         | [hello-pukeko](https://github.com/hello-pukeko)               |
-| [Design_Science_Research](kb/Design_Science_Research.md)                                                                           | [aliciamiederer](https://github.com/aliciamiederer)           |
 | [SCRUM_but](kb/SCRUM_but.md)                                                                                                       | [thujavanj](https://github.com/thujavanj)                     |
 | [SCRUMBAN](kb/SCRUMBAN.md)                                                                                                         | [mickey0684](https://github.com/mickey0684)                   |
 | [Scrum_of_Scrums](kb/Scrum_of_Scrums.md)                                                                                           | [Viktoria1412](https://github.com/Viktoria1412)               |
