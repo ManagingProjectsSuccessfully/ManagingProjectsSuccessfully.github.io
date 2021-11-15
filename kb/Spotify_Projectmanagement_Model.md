@@ -45,9 +45,11 @@ Die Tribes haben einen oder mehrere "Tribe-Leads", welche die Aufgabe haben, fü
 
 ## Chapters
 
+Ein Chapter ist mit einer Abteilung aus einer "traditionellen Organisation" vergleichbar [^3]. Es ist eine Gruppe, bestehend aus Mitgliedern eines Tribes, welche alle über die gleichen Fachkompetnezen und Expertise verfügen. In Chaptern kommt es unter der Leitung einer Chapter-Führung zum regelmäßigen Austausch zwischen den Mitgliedern über beispielsweise neue themenbezogenen Erfahrungen, die sie gemacht, neues Wissen, das sie erlangt haben oder Herausforderungen, die es in ihrem Gebiete gibt[^2]. Ein Mitglied, das sein Squad wechselt, aber nicht seinen Tribe, bleibt im gleichen Chapter [^3].
+
 ## Guilds
 
-Guilds sind Gruppen von Mitarbeitern, welche sich Fachwissen oder Interessen teilen. Sie sind unabhängig von Tribes, also können sie sich über das ganze Unternehmen erstrecken[^2]. Jeder kann einer Guild jederzeit beitreten und sie auch jederzeit verlassen. Die Teilnahme an einer Guild ist freiwillig[^3]. Guilds greifen in der Regel auf informelle Kommunikationsmethoden zurück[^1]. Regelmäßige Treffen der Guild werden vom "Guild Koordinator" organisiert. An diesen treffen sich alle Mitglieder einer Guild und tauschen sich zu den Themen der Guild aus[^2].
+Guilds sind Gruppen von Mitarbeitern, welche sich Fachwissen oder Interessen teilen. Anders als Chaperts sind sie unabhängig von Tribes, also können sie sich über das ganze Unternehmen erstrecken[^2]. Jeder kann einer Guild jederzeit beitreten und sie auch jederzeit verlassen. Die Teilnahme an einer Guild ist freiwillig[^3]. Guilds greifen in der Regel auf informelle Kommunikationsmethoden zurück[^1]. Regelmäßige Treffen der Guild werden vom "Guild Koordinator" organisiert. An diesen treffen sich alle Mitglieder einer Guild und tauschen sich zu den Themen der Guild aus[^2].
 
 # Aspekt 1
 
