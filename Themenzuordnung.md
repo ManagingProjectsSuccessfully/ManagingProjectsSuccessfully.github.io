@@ -183,7 +183,6 @@ author: anniSc
 | [Methode_des_kritischen_Pfades](kb/Methode_des_kritischen_Pfades.md)                                                               | [ChristinaHartung](https://github.com/ChristinaHartung)       |
 | [Machbarkeit](kb/Machbarkeit.md)                                                                                                   | [ninaporwik](https://github.com/ninaporwik)                   |
 | [Leuchtturmprojekt](kb/Leuchtturmprojekt.md)                                                                                       | [LucaH12](https://github.com/LucaH12)                         |
-| [Elevator_Pitch](kb/Elevator_Pitch.md)                                                                                             | [YeldaUzun](https://github.com/YeldaUzun)                     |
 | [Matrix_Projektorganisation](kb/Matrix_Projektorganisation.md)                                                                     | [SeanTR0497](https://github.com/SeanTR0497)                   |
 | [Eskalationsstufen](kb/Eskalationsstufen.md)                                                                                       | [annaflbr](https://github.com/annaflbr)                       |
 | [Vom_Mythos_des_Mann_Monats](kb/Vom_Mythos_des_Mann_Monats.md)                                                                     | [nrivo](https://github.com/nrivo)                             |
