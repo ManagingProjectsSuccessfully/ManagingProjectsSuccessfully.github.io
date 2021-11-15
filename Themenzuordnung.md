@@ -305,7 +305,7 @@ author: anniSc
 | [Burndown_Chart](kb/Burndown_Chart.md)                                                                                             | [tobi0211](https://github.com/tobi0211)                       |
 | [Selbstorganisierende_Teams](kb/Selbstorganisierende_Teams.md)                                                                     | [IremAkin ](https://github.com/IremAkin )                     |
 | [Stand_Ups](kb/Stand_Ups.md)                                                                                                       | [Gilchus](https://github.com/Gilchus)                         |
-| [Interactive_Approach](kb/Interactive_Approach.md)                                                                                 | [Vallejk](https://github.com/Vallejk)                         |
+| [Interactive_Planning](kb/Interactive_Planning.md)                                                                                 | [Vallejk](https://github.com/Vallejk)                         |
 | [Interaktion](kb/Interaktion.md)                                                                                                   | [SimaSol](https://github.com/SimaSol)                         |
 | [Umgang_mit_Kritik](kb/Umgang_mit_Kritik.md)                                                                                       | [AnjaKlostermeier](https://github.com/AnjaKlostermeier)       |
 | [Rollenkonflikte](kb/Rollenkonflikte.md)                                                                                           | [martina-bchtl ](https://github.com/martina-bchtl )           |
