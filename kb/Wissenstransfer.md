@@ -49,11 +49,11 @@ Arbeit/Kommunikation zu Verwirrung führt.[^7]
 
 Der Austausch und die Weitergabe von Wissen in einem Unternehmen sind essenziell für den schnellen und erfolgreichen Abschluss von Projekten und 
 erhöhen zudem die Produktivität. Neben den klassischen Team-Meetings, können auch bei spontanen Treffen zweier oder mehrere Mitarbeiter wichtige Informationen 
-ausgetauscht werden. 
+ausgetauscht werden.[^8] 
 
 Ein strukturierter Wissenstransfer sorgt für einen gesunden Wissensfluss im Unternehmen. Dieser erhöht die Innovativität, verkürzt Projektlaufzeiten, 
 senkt anfallende Projektkosten, versucht Doppelarbeiten zu vermeiden, führt somit zu einer erhöhten Produktivität im Arbeitsumfeld und generiert 
-im selben Zug mehr Mitarbeiterzufriedenheit.  
+im selben Zug mehr Mitarbeiterzufriedenheit.[^9]  
 
 
 ## Gefahren bei der Wissensweitergabe
@@ -132,7 +132,10 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 [^4]: [Phasen Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer)
 [^5]: [Wasserfall-Modell](https://de.wikipedia.org/wiki/Wasserfallmodell)
 [^6]: [Klassisches und agiles Projektmanagement im Vergleich](https://dl.gi.de/bitstream/handle/20.500.12116/3061/47.pdf?sequence=1&isAllowed=y)
-[^7]: [Wie funktioniert agiles Projektmanagement?](https://www.cobra.de/wie-funktioniert-agiles-projektmanagement/?utm_source=google&utm_medium=cpc&utm_campaign=crm_software_testversion&pk_campaign=crm_software_testversion&msclkid=faba32df3ce5149e407c53526e2c943f)
+[^7]: [Wie funktioniert agiles Projektmanagement?](https://www.cobra.de/wie-funktioniert-agiles-projektmanagement/?
+utm_source=google&utm_medium=cpc&utm_campaign=crm_software_testversion&pk_campaign=crm_software_testversion&msclkid=faba32df3ce5149e407c53526e2c943f)
+[^8]: [Vorteile eines erfolgreichen Wissenstransfers](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
+[^9]: [Wissenstransfer im Projektmanagement - Sinn und Unsinn von Anreizsystemen](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
 [^]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
