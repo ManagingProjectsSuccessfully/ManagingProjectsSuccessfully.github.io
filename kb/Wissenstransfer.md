@@ -79,6 +79,16 @@ verschiedenen Wegen geschehen:
 Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft. Heutzutage stellen Datenbanken
 in diesem Kontext eine essenzielle Rolle dar.
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
