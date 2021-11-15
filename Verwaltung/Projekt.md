@@ -1,5 +1,5 @@
 ---
-title: {Projekt}
+title: {SAFe Program Increment Planning}
 tags: agil klassisch
 author: {starni26}
 anrechnung: k
