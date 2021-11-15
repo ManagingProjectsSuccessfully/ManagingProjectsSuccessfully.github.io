@@ -63,7 +63,7 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 | ------------------------------------| -------------------------------------------------------------------------------------------------------------------------------| 
 | Zeitliche Begrenztheit              | Nachbearbeitungszeit fehlt, um das erworbene Wissen zu strukturieren und zu dokumentieren.                                     |
 | Zuordnung personeller Ressourcen    | Generierte Erfahrung und das erlangte Wissen bleiben nur innerhalb des Projektteams und werden nicht mit Externen kommuniziert.|
-| Personelle Fluktuation              | Erlangtes Expertenwissen geht durch die zeitlich begrenzte Tätigkeit verloren.                                                 |
+| Personelle [Fluktuation](https://de.wikipedia.org/wiki/Fluktuation)| Erlangtes Expertenwissen geht durch die zeitlich begrenzte Tätigkeit verloren.                  |
 | Neuartige, komplexe Aufgabenstellung| Übertragbarkeit des erworbenen Wissens auf andere Projekte und Aufgabenstellungen ist ungewiss.                                |
 
 *Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer*
@@ -77,7 +77,7 @@ verschiedenen Wegen geschehen:
 * Mitarbeiterworkshops
 * Interviews
 * Altersgemischte Teams
-* Mentoring (Wikipedia verlinken)
+* [Mentoring](https://de.wikipedia.org/wiki/Mentoring)
 
 Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft. Heutzutage stellen Datenbanken
 in diesem Kontext eine essenzielle Rolle dar.
