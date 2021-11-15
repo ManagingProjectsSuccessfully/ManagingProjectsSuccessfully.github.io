@@ -36,8 +36,7 @@ Die Definition von [Meilenstein](Meilenstein.md)en ist Grundlage dieser Methode.
 Eine weiteres Controlling-Instrument ist die Earned Value Analyse, mit der man den Fertigstellungsgrad des Projekts bzw. einzelner Phasen ermitteln kann. Sie dient dem Projekt als Kontrollinstrument des Fortschritts. Diese Methode ist ebenfalls unter den Namen Leistungswertanalyse, Fertigstellungswertmethode oder Arbeitswertanalyse bekannt.
 
 ## Projektplan
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszeiträume zugeteilt. Der Projektmanager hat somit stets den Überblick über die Verantwortlichkeiten und Termintreue der jeweiligen Projektabschnitte.[^8]
 
 ## Soll-Ist-Vergleich
 
@@ -61,3 +60,4 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 [^5]: [https://doi.org/10.1007/978-3-658-28032-1)
 [^6]: [https://refa.de/service/refa-lexikon/projektcontrolling)
 [^7]: [https://doi.org/10.1007/978-3-662-52974-4_8)
+[^8]: [https://de.wikipedia.org/wiki/Projektcontrolling#Kennzahlen_und_Methoden_des_Projektcontrollings)
