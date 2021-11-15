@@ -13,7 +13,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 Der Begriff [Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer) wird in verschiedenen Kontexten verwendet. In der Wirtschaft wird darunter 
 vor allem der Austausch und 
-die Weitergabe von Wissen innerhalb von Unternehmen verstanden, welcher zugleich ein sehr wichtiger Bestandteil des [Wissensmanagements](Wissensmanagement.md) ist.
+die Weitergabe von Wissen innerhalb von Unternehmen verstanden, die zugleich ein sehr wichtiger Bestandteil des [Wissensmanagements](Wissensmanagement.md) sind.
 
 Kann sowohl der Austausch als auch die Weitergabe des Wissens erfolgreich durchgeführt werden, verschafft dies dem betreffendem Unternehmen Wettbewerbsvorteile.
 
@@ -22,7 +22,7 @@ Kann sowohl der Austausch als auch die Weitergabe des Wissens erfolgreich durchg
 
 Unabhängig vom Umfang des vorhandenen Wissens durchläuft der Wissenstransfer immer die Phasen Initiierung, Wissensfluss und Integration[^1]. In der Phase der Initiierung 
 wird der Wissenstransfer eingeleitet, sprich das Wissen wird identifiziert, dokumentiert und auch bewertet. In der Wissensflussphase findet die tatsächliche Transaktion 
-des Wissens statt und in der letzten Phase wird das neu transferierte Wissen erneut überprüft und dann gegebenenfalls integriert.
+des Wissens statt und in der letzten Phase wird das neu transferierte Wissen erneut überprüft und dann gegebenenfalls integriert.[^2]
 
 ![Phasen des Wissenstransfers](Wissenstransfer/Phasen_des_Wissenstransfers.png)
 
@@ -35,37 +35,37 @@ des Wissens statt und in der letzten Phase wird das neu transferierte Wissen ern
 
 Der Ablauf im klassischen [Projektmanagement](Projektmanagement.md) wird mit Hilfe des [Wasserfall-Modells](Wasserfall_Modell.md) dargestellt. Dieses ist ein lineares, nicht iteratives Vorgehensmodell, 
 bei dem zunächst die eine Aufgabe komplett abgeschlossen wird bevor neue Aufgaben begonnen werden. Durch eine, am Ende jeder Aufgabe, abschließende Kommunikation mit den 
-beteiligten Teams stellt diese Art des Projektmanagements für den Wissenstransfer ein geringeres Risiko an Wissensverlust dar als andere.
+beteiligten Teams stellt diese Art des Projektmanagements für den Wissenstransfer ein geringeres Risiko an Wissensverlust dar.
 
 ### Agiles Projektmanagement
 
-Bezüglich des Ablaufs gibt es beim agilen Projektmanagement einen enormen Unterschied zum klassischen. Dieser ist [iterativ](https://de.wikipedia.org/wiki/Iterativ) 
+Bezüglich des Ablaufs gibt es beim agilen Projektmanagement einen enormen Unterschied. Dieser ist [iterativ](https://de.wikipedia.org/wiki/Iterativ) 
 aufgebaut, das heißt Arbeitsschritte werden öfter durchlaufen, um das bestmögliche Ergebnis für das Projekt zu erlangen. Diese Herangehensweise hat zur Folge, 
-dass der Wissenstransfer deutlich komplexer und schwieriger zu managen wird, da zu jeder Zeit ein Rückschritt möglich ist und dies bei unsorgfältiger 
-Arbeit zu Verwirrung führt.
+dass der Wissenstransfer deutlich komplexer und schwieriger zu managen ist, da zu jeder Zeit ein Rückschritt möglich ist und dies bei unsorgfältiger 
+Arbeit/Kommunikation zu Verwirrung führt.
 
 
 ## Vorteile eines erfolgreichen Wissenstransfers
 
-Der Austausch und die Weitergabe von Wissen in einem Unternehmen sind unter anderem essenziell für den schnellen und erfolgreichen Abschluss von Projekten und 
+Der Austausch und die Weitergabe von Wissen in einem Unternehmen sind essenziell für den schnellen und erfolgreichen Abschluss von Projekten und 
 erhöhen zudem die Produktivität. Neben den klassischen Team-Meetings, können auch bei spontanen Treffen zweier oder mehrere Mitarbeiter wichtige Informationen 
 ausgetauscht werden. 
 
 Ein strukturierter Wissenstransfer sorgt für einen gesunden Wissensfluss im Unternehmen. Dieser erhöht die Innovativität, verkürzt Projektlaufzeiten, 
-senkt anfallende Projektkosten, versucht Doppelarbeiten zu vermeiden und führt somit zu einer erhöhten Produktivität im Arbeitsumfeld und generiert 
+senkt anfallende Projektkosten, versucht Doppelarbeiten zu vermeiden, führt somit zu einer erhöhten Produktivität im Arbeitsumfeld und generiert 
 im selben Zug mehr Mitarbeiterzufriedenheit.  
 
 
 ## Gefahren bei der Wissensweitergabe
 
-Projektorientierte Unternehmen, deren Erscheinungsbild für die Bearbeitung komplexer Aufgaben gut geeignet scheint, birgt dennoch Gefahren, 
-gerade hinsichtlich der Wissensweitergabe. 
+Projektorientierte Unternehmen, deren Erscheinungsbild für die Bearbeitung komplexer Aufgaben gut geeignet scheint, birgt dennoch Gefahren
+hinsichtlich der Wissensweitergabe. 
 
-Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgeführt werden. (siehe Tabelle 1)
+Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgeführt werden. *(siehe Tabelle 1)*
 
 | typisches Merkmal                   | Konsequenz                                                                                                                     | 
 | ------------------------------------| -------------------------------------------------------------------------------------------------------------------------------| 
-| Zeitliche Begrenztheit              | Nachbearbeitungszeit fehlt, um das erworbene Wissen zu strukturieren und zu dokumentieren.                                     |
+| Zeitliche Begrenztheit              | Um das erworbene Wissen zu strukturieren und zu dokumentieren fehlt die Nachbearbeitungszeit.                                  |
 | Zuordnung personeller Ressourcen    | Generierte Erfahrung und das erlangte Wissen bleiben nur innerhalb des Projektteams und werden nicht mit Externen kommuniziert.|
 | Personelle [Fluktuation](https://de.wikipedia.org/wiki/Fluktuation)| Erlangtes Expertenwissen geht durch die zeitlich begrenzte Tätigkeit verloren.                  |
 | Neuartige, komplexe Aufgabenstellung| Übertragbarkeit des erworbenen Wissens auf andere Projekte und Aufgabenstellungen ist ungewiss.                                |
@@ -73,7 +73,7 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 *Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer*
 
 
-## Methoden und Instrumente erschweren den Wissenstransfer
+## Methoden und Instrumente für den Wissenstransfer
 
 Ausschlaggebend für die Anwendung gewisser Methoden ist die Art des Transfers. Hierbei wird zwischen personifiziertem und kodifizierten 
 Wissenstransfer unterschieden. Der Austausch des Wissens findet beim personifizierten Wissenstransfer auf persönlicher Ebene statt. Dies kann auf vielen 
@@ -127,7 +127,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 # Quellen
 
 [^1]: Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.* Heft 5, 1998, S. 235–263.
+[^2]: [Phasen Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer)
 [^5]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
