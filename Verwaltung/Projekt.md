@@ -1,8 +1,8 @@
 ---
 title: {Projekt}
 tags: agil klassisch
-author: {GitHubUserName}
-anrechnung: k oder a
+author: {starni26}
+anrechnung: k
 ---
 
 Kurzbeschreibung zu {Projekt} um ein erstes Verständnis dafür zu schaffen um was es hier geht.
