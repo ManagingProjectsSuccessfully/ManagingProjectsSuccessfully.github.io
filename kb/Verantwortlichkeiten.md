@@ -1,8 +1,8 @@
 ---
 title: Verantwortlichkeiten
-tags: agil klassisch
+tags: klassisch
 author: Polina0402
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Verantwortlichkeiten um ein erstes Verständnis dafür zu schaffen um was es hier geht.
