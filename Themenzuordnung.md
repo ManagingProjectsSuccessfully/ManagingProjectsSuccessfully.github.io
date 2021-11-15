@@ -297,6 +297,7 @@ author: anniSc
 | [Scrum_Anpassung](kb/Scrum_Anpassung.md)                                                                                           | [MariaKaisa ](https://github.com/MariaKaisa )                 |
 | [Planning_Poker](kb/Planning_Poker.md)                                                                                             | [jsk0lb](https://github.com/jsk0lb)                           |
 | [User_Story_INVEST_Methode](kb/User_Story_INVEST_Methode.md)                                                                       | [Juliakau](https://github.com/Juliakau)                       |
+| [KISS_Prinzip](kb/KISS_Prinzip.md)                                                                                                 | [qu68paka](https://github.com/qu68paka)                       |
 | [Impediment_Backlog](kb/Impediment_Backlog.md)                                                                                     | [patrick203494](https://github.com/patrick203494)             |
 | [Taskboard](kb/Taskboard.md)                                                                                                       | [schooschef](https://github.com/schooschef)                   |
 | [Burndown_Chart](kb/Burndown_Chart.md)                                                                                             | [tobi0211](https://github.com/tobi0211)                       |
