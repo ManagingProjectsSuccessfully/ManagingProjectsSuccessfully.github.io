@@ -11,7 +11,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Wissenstransfer
 
-Der Begriff [Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer#cite_note-8) wird in verschiedenen Kontexten verwendet. In der Wirtschaft wird darunter 
+Der Begriff [Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer) wird in verschiedenen Kontexten verwendet. In der Wirtschaft wird darunter 
 vor allem der Austausch und 
 die Weitergabe von Wissen innerhalb von Unternehmen verstanden, welcher zugleich ein sehr wichtiger Bestandteil des [Wissensmanagements](Wissensmanagement.md) ist.
 
