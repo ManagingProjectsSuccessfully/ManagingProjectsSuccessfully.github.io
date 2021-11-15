@@ -28,6 +28,7 @@ des Wissens statt und in der letzten Phase wird das neu transferierte Wissen ern
 
 *Abbildung 1: Phasenmodell nach Krogh und Köhne*
 
+
 ## Wissenstransfer im Projektmanagement
 
 ### Klassisches Projektmanagement
@@ -43,6 +44,7 @@ aufgebaut, das heißt Arbeitsschritte werden öfter durchlaufen, um das bestmög
 dass der Wissenstransfer deutlich komplexer und schwieriger zu managen wird, da zu jeder Zeit ein Rückschritt möglich ist und dies bei unsorgfältiger 
 Arbeit zu Verwirrung führt.
 
+
 ## Vorteile eines erfolgreichen Wissenstransfers
 
 Der Austausch und die Weitergabe von Wissen in einem Unternehmen sind unter anderem essenziell für den schnellen und erfolgreichen Abschluss von Projekten und 
@@ -52,6 +54,7 @@ ausgetauscht werden.
 Ein strukturierter Wissenstransfer sorgt für einen gesunden Wissensfluss im Unternehmen. Dieser erhöht die Innovativität, verkürzt Projektlaufzeiten, 
 senkt anfallende Projektkosten, versucht Doppelarbeiten zu vermeiden und führt somit zu einer erhöhten Produktivität im Arbeitsumfeld und generiert 
 im selben Zug mehr Mitarbeiterzufriedenheit.  
+
 
 ## Gefahren bei der Wissensweitergabe
 
@@ -68,6 +71,7 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 | Neuartige, komplexe Aufgabenstellung| Übertragbarkeit des erworbenen Wissens auf andere Projekte und Aufgabenstellungen ist ungewiss.                                |
 
 *Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer*
+
 
 ## Methoden und Instrumente erschweren den Wissenstransfer
 
@@ -111,8 +115,10 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Wissenstransfer.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Wissensmanagement](Wissensmanagement.md)
+* [Wasserfall-Modell](Wasserfall_Modell.md)
+
 
 # Weiterführende Literatur
 
