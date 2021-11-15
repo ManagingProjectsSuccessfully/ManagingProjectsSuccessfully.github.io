@@ -39,7 +39,7 @@ beteiligten Teams stellt diese Art des Projektmanagements für den Wissenstransf
 
 ### Agiles Projektmanagement
 
-Bezüglich des Ablaufs gibt es beim agilen Projektmanagement einen immensen Unterschied zum klassischen. Dieser ist [iterativ](https://de.wikipedia.org/wiki/Iterativ) 
+Bezüglich des Ablaufs gibt es beim agilen Projektmanagement einen enormen Unterschied zum klassischen. Dieser ist [iterativ](https://de.wikipedia.org/wiki/Iterativ) 
 aufgebaut, das heißt Arbeitsschritte werden öfter durchlaufen, um das bestmögliche Ergebnis für das Projekt zu erlangen. Diese Herangehensweise hat zur Folge, 
 dass der Wissenstransfer deutlich komplexer und schwieriger zu managen wird, da zu jeder Zeit ein Rückschritt möglich ist und dies bei unsorgfältiger 
 Arbeit zu Verwirrung führt.
