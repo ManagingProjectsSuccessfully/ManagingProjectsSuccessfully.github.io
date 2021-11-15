@@ -28,11 +28,11 @@ des Wissens statt und in der letzten Phase wird das neu transferierte Wissen ern
 
 *Abbildung 1: Phasenmodell nach Krogh und Köhne*
 
-## Wissenstransfer im [Projektmanagement](Projektmanagement.md)
+## Wissenstransfer im Projektmanagement
 
 ### Klassisches Projektmanagement
 
-Der Ablauf im klassischen Projektmanagement wird mit Hilfe des [Wasserfall-Modells](Wasserfall_Modell.md) dargestellt. Dieses ist ein lineares, nicht iteratives Vorgehensmodell, 
+Der Ablauf im klassischen [Projektmanagement](Projektmanagement.md) wird mit Hilfe des [Wasserfall-Modells](Wasserfall_Modell.md) dargestellt. Dieses ist ein lineares, nicht iteratives Vorgehensmodell, 
 bei dem zunächst die eine Aufgabe komplett abgeschlossen wird bevor neue Aufgaben begonnen werden. Durch eine, am Ende jeder Aufgabe, abschließende Kommunikation mit den 
 beteiligten Teams stellt diese Art des Projektmanagements für den Wissenstransfer ein geringeres Risiko an Wissensverlust dar als andere.
 
