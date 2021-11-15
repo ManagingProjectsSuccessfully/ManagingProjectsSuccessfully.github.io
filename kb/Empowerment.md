@@ -59,8 +59,8 @@ Auf dem Arbeitsmarkt haben sich außerdem Angebot und Nachfrage stark verändert
 * Blanchard, K.; Carlos, J.P.; Randolph, A.: Management durch Empowerment: Das neue Führungskonzept: Mitarbeiter bringen mehr, wenn sie mehr dürfen. Rowohlt Verlag, Hamburg, 1998.
 * Wüthrich, H.A.; Osmetz, D.; Kaduk, S.: Musterbrecher. Führung neu leben, 2. Auflage, Gabler Verlag, Wiesbaden, 2006.
 * Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente -Checklisten, 2. Auflage, Carl Hanser Verlag, München, 2006.
-* Mayrhofer, W.: Strategische Personalpolitik, Rainer Hampp Verlag, 1999.
-* Schmitz, G.; Dietz, M.; Eberhardt, S.: „Empowerment als ganzheitliches Managementkonzept zur Steuerung der individuellen Lösungskompetenz bei Lösungsanbietern: Wirkungsmechanismen und Implementierung“, Universität Duisburg-Essen 2009.
+* Mayrhofer, W.: Strategische Personalpolitik, Rainer Hampp Verlag, München, 1999.
+* Schmitz, G.; Dietz, M.; Eberhardt, S.: „Empowerment als ganzheitliches Managementkonzept zur Steuerung der individuellen Lösungskompetenz bei Lösungsanbietern: Wirkungsmechanismen und Implementierung“, Universität Duisburg-Essen, Duisburg, 2009.
 
 # Quellen
 
