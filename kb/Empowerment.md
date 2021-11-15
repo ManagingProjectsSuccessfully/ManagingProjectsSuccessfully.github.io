@@ -4,7 +4,7 @@ tags: agil klassisch
 author: TobiasZuerrlein
 anrechnung: k
 ---
-Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt[^7]. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten[^7]. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten [Projektes](Projekt.md)teams überzugehen[^7]. 
+Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt[^7]. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten[^7]. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten [Projekt](Projekt.md)teams überzugehen[^7]. 
 Empowerment ermöglicht somit [Projekt](Projekt.md)arbeit[^1].
 
 ![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
@@ -56,13 +56,15 @@ Auf dem Arbeitsmarkt haben sich außerdem Angebot und Nachfrage stark verändert
 
 # Weiterführende Literatur
 
-* Kenneth Blanchard, John P. Carlos, Alan Randolph: Das neue Führungskonzept: Mitarbeiter bringen mehr, wenn sie mehr dürfen. Rowohlt Verlag, Hamburg 1998, ISBN 3-498-00595-2.
-* Hans A. Wüthrich, Dirk Osmetz, Stefan Kaduk: Musterbrecher. Führung neu leben. Gabler Verlag, Wiesbaden 2006, ISBN 3-8349-0507-0.
-* Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente -Checklisten. 2. Auflage, Carl Hanser Verlag, München 2006, ISBN 3-446-40615-8.
+* Blanchard, K.; Carlos, J.P.; Randolph, A.: Management durch Empowerment: Das neue Führungskonzept: Mitarbeiter bringen mehr, wenn sie mehr dürfen. Rowohlt Verlag, Hamburg, 1998.
+* Wüthrich, H.A.; Osmetz, D.; Kaduk, S.: Musterbrecher. Führung neu leben, 2. Auflage, Gabler Verlag, Wiesbaden, 2006.
+* Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente -Checklisten, 2. Auflage, Carl Hanser Verlag, München, 2006.
+* Mayrhofer, W.: Strategische Personalpolitik, Rainer Hampp Verlag, 1999.
+* Schmitz, G.; Dietz, M.; Eberhardt, S.: „Empowerment als ganzheitliches Managementkonzept zur Steuerung der individuellen Lösungskompetenz bei Lösungsanbietern: Wirkungsmechanismen und Implementierung“, Universität Duisburg-Essen 2009.
 
 # Quellen
 
-[^1]: Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente -Checklisten. 2. Auflage, Carl Hanser Verlag, München 2006, ISBN 3-446-40615-8.
+[^1]: Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente -Checklisten, 2. Auflage, Carl Hanser Verlag, München, 2006.
 [^2]: [Warum ist Empowerment so wichtig?](https://www.thesoundofexport.com/warum-ist-empowerment-so-wichtig/)
 [^3]: [Empowerment im agilen Kontext: Die 5 Wege zum Empowerment](https://www.berlinerteam.de/magazin/empowerment/)
 [^4]:[Empowerment](https://de.wikipedia.org/wiki/Empowerment)
