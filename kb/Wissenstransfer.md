@@ -5,7 +5,6 @@ author: felixba213
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Wissenstransfer um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
@@ -13,7 +12,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 # Wissenstransfer
 
 Der Begriff Wissenstransfer wird in verschiedenen Kontexten verwendet. In der Wirtschaft wird darunter vor allem der Austausch und 
-die Weitergabe von Wissen innerhalb von Unternehmen verstanden, welcher zugleich ein sehr wichtiger Bestandteil des Wissensmanagements ist.(Bezug zu anderem Beitrag)
+die Weitergabe von Wissen innerhalb von Unternehmen verstanden, welcher zugleich ein sehr wichtiger Bestandteil des [Wissensmanagements](Wissensmanagement.md) ist.
 
 Kann sowohl der Austausch als auch die Weitergabe des Wissens erfolgreich durchgeführt werden, verschafft dies dem betreffendem Unternehmen Wettbewerbsvorteile.
 
@@ -28,7 +27,7 @@ des Wissens statt und in der letzten Phase wird das neu transferierte Wissen ern
 
 *Abbildung 1: Phasenmodell nach Krogh und Köhne*
 
-## Wissenstransfer im Projektmanagement
+## Wissenstransfer im [Projektmanagement](Projektmanagement.md)
 
 ### Klassisches Projektmanagement
 
@@ -82,19 +81,9 @@ verschiedenen Wegen geschehen:
 Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft. Heutzutage stellen Datenbanken
 in diesem Kontext eine essenzielle Rolle dar.
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
 
+...
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -117,54 +106,6 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Wissenstransfer/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
