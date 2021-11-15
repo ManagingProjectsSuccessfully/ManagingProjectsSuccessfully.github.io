@@ -53,8 +53,8 @@ Zusammenfassend lässt sich sagen, dass Scrum-Transparenz eine wichtige Vorausse
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Scrum_Transparenz.md)
+* [Scrum_Ueberpruefung.md] (https://github.com/ManagingProjectsSuccessfully.github.io/edit/main/kb/Scrum_Ueberpruefung.md)
+* [Scrum_Anpassung.md](https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/edit/main/kb/Scrum_Anpassung.md)
 
 # Weiterführende Literatur
 
