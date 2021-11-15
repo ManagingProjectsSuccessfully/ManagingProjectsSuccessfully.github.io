@@ -20,9 +20,7 @@ Im Sinne des [Projektmanagements](Projektmanagement.md) bedeutet [Empowerment](E
 
 # Bedingungen für [Empowerment](Empowerment.md)
 
-Damit die [Mitarbeiter](Projektmitarbeier.md) eines [Projektes](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen, müssen hierarchische und bürokratische Blockaden reduziert werden[^6]. Des Weiteren erfordern hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) eine offene Fehlerkultur, in der Vertrauen aufgebaut werden kann[^7][^6]. Somit können durch [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt und Prozesse verbessert werden[^3].
-
-Empowerment heißt also nicht einfach Verantwortung abzugeben, sondern, dass alle für das Unternehmen, für die Gewinne und die Produkte und Leistungen des Betriebes verantwortlich sind. Verantwortung bedeutet wiederum, größeres Engagement für [Projekte](Projekt.md). Die Effektivität und Produktivität eines Unternehmens, wird von der Entwicklung der Mitarbeiter sowie von dem Einsatz deren Talente und Qualitäten bestimmt.[^6] Empowerment ermöglicht somit [Projekt](Projekt.md)arbeit[^1].
+Damit die [Mitarbeiter](Projektmitarbeier.md) eines [Projektes](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen, müssen hierarchische und bürokratische Blockaden reduziert werden[^6]. Des Weiteren erfordern hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) eine offene Fehlerkultur, in der Vertrauen aufgebaut werden kann[^7][^6]. Somit können durch [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt und Prozesse verbessert werden[^3]. [Empowerment](Empowerment.md) heißt also nicht lediglich Verantwortung abzugeben, sondern, dass alle für das Unternehmen, für die Gewinne, Produkte und Leistungen des Unternehmens verantwortlich sind. Verantwortung bedeutet wiederum, größeres Engagement für [Projekte](Projekt.md)[^6]. [Empowerment](Empowerment.md) ermöglicht somit [Projekt](Projekt.md)arbeit[^1].
 
 # Vorteile durch [Empowerment](Empowerment.md)
 
