@@ -15,7 +15,7 @@ Unter den sogenannten Key Question sind Fragen zu verstehen, die Aufschluss übe
 
 Darüberhinaus wird anhand eines Diagramme Rückschlüsse gewonnen, die aufzeigen, welche Aufgaben die größten Herausforderungen mit dem damit zusammenhängenden Wert im Portfolio des Projektmanagements haben. Daraus ergibt sich das nachfolgende Diagramm.
 
-![Beispielabbildung](The_State_of_Project_Management_2021/test-file.jpg)
+![PPM Process Value vs. Difficulty to embed](The_State_of_Project_Management_2021/PV_v_DTE.jpg)
 
 *PPM Process Value vs. Difficulty to embed*
 
