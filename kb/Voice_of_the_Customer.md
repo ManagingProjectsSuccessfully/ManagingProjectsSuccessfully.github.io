@@ -5,6 +5,8 @@ author: eddq2000
 anrechnung: k
 ---
 
+![Voice of the Customer](Voice_of_the_Customer/Abbildung_2.png)
+
 # Definition
 Voice of the Customer (VOC) ist ein Prozess in einem Unternehmen, bestehend aus drei Phasen, der dazu dient die
 * Bedürfnisse
