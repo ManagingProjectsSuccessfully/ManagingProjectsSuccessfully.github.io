@@ -24,6 +24,9 @@ Unabhängig vom Umfang des vorhandenen Wissens durchläuft der Wissenstransfer i
 wird der Wissenstransfer eingeleitet, sprich das Wissen wird identifiziert, dokumentiert und auch bewertet. In der Wissensflussphase findet die tatsächliche Transaktion 
 des Wissens statt und in der letzten Phase wird das neu transferierte Wissen erneut überprüft und dann gegebenenfalls integriert.
 
+![Phasen des Wissenstransfers](Wissenstransfer/Phasen_des_Wissenstransfers.png)
+
+*Abbildung 1: Phasenmodell nach Krogh und Köhne*
 
 ## Wissenstransfer im Projektmanagement
 
@@ -63,7 +66,7 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 | Personelle Fluktuation              | Erlangtes Expertenwissen geht durch die zeitlich begrenzte Tätigkeit verloren.                                                 |
 | Neuartige, komplexe Aufgabenstellung| Übertragbarkeit des erworbenen Wissens auf andere Projekte und Aufgabenstellungen ist ungewiss.                                |
 
-Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer
+*Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer*
 
 ## Methoden und Instrumente erschweren den Wissenstransfer
 
