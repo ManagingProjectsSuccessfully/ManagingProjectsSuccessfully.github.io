@@ -5,7 +5,6 @@ author: TobiasZuerrlein
 anrechnung: k
 ---
 Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt[^7]. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten[^7]. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten [Projekt](Projekt.md)teams überzugehen[^7]. 
-Empowerment ermöglicht somit [Projekt](Projekt.md)arbeit[^1].
 
 ![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
 
@@ -21,11 +20,9 @@ Im Sinne des [Projektmanagements](Projektmanagement.md) bedeutet [Empowerment](E
 
 # Bedingungen für [Empowerment](Empowerment.md)
 
-Hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) erfordern jedoch eine offene Fehlerkultur, damit [Mitarbeiter](Projektmitarbeiter.md) des [Projektes](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen[^7]. Somit können mithilfe von [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt, bürokratischer Aufwand und Hierarchiestufen reduziert und Prozesse verbessert werden[^3].
+Damit die [Mitarbeiter](Projektmitarbeier.md) eines [Projektes](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen, müssen hierarchische und bürokratische Blockaden reduziert werden[^6]. Des Weiteren erfordern hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) eine offene Fehlerkultur, in der Vertrauen aufgebaut werden kann[^7][^6]. Somit können durch [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt und Prozesse verbessert werden[^3].
 
-Um diese Befähigung umsetzen zu können, müssen allerdings auch die Rahmenbedingungen stimmen. Dazu ist es wichtig, hierarchische und bürokratische Hürden aus dem Weg zu räumen, die Mitarbeiter in der Entscheidungsfindung bremsen. Des Weiteren muss eine Unternehmenskultur etabliert werden, in der man Fehler machen kann und dafür nicht bestraft wird und in der Vertrauen entstehen kann. Ein wichtiger Teil des Empowerment stellen Teamentwicklungsmaßnahmen dar, wodurch die Mitarbeiter mit neuen Qualifikationen ihre Rolle im Team finden können.[^6]
-
-Empowerment heißt also nicht einfach Verantwortung abzugeben, sondern, dass alle für das Unternehmen, für die Gewinne und die Produkte und Leistungen des Betriebes verantwortlich sind. Verantwortung bedeutet wiederum, größeres Engagement für eigene Projekte und mehr Klarheit über eigene Ziele und Bedürfnisse. Die Effektivität und Produktivität eines Unternehmens, wird von der Entwicklung der Mitarbeiter sowie von dem Einsatz deren Talente und Qualitäten bestimmt.[^6]
+Empowerment heißt also nicht einfach Verantwortung abzugeben, sondern, dass alle für das Unternehmen, für die Gewinne und die Produkte und Leistungen des Betriebes verantwortlich sind. Verantwortung bedeutet wiederum, größeres Engagement für [Projekte](Projekt.md). Die Effektivität und Produktivität eines Unternehmens, wird von der Entwicklung der Mitarbeiter sowie von dem Einsatz deren Talente und Qualitäten bestimmt.[^6] Empowerment ermöglicht somit [Projekt](Projekt.md)arbeit[^1].
 
 # Vorteile durch [Empowerment](Empowerment.md)
 
