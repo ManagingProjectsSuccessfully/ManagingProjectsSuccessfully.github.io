@@ -6,6 +6,8 @@ anrechnung: k oder a
 ---
 
 Kurzbeschreibung zu Kosten_Nutzen_Analyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Kosten-Nutzen-Analyse ist ein Bewertungsverfahren, das die Wirtschaftlichkeit von Projekten prüft und den monetär bewerteten Nutzen mit den Kosten einer Maßnahme vergleicht.
+> „Zweck der Analyse ist die Auswahl der Alternative aus einer Menge von möglichen Alternativen, deren Realisierung ein Gesamtziel am effektivsten erfüllt.“(Hüftle, 2006)[^1]
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
