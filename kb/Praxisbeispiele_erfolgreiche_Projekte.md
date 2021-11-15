@@ -4,55 +4,32 @@ tags: klassisch
 author: Goschu1
 anrechnung: k 
 ---
-Dieser Artikel handelt von erfolgreichen Großprojekten, die Unternehmen maßgeblich vorangebracht haben. Zudem werden einige Erkenntnisse und Zahlen aus der aktuellen Forschung rund erfolgreiche Projekte diskutiert. 
+Dieser Artikel handelt von erfolgreichen Großprojekten, die Unternehmen oder einen Staat maßgeblich vorangebracht haben. 
 
 
 
-[^2] [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) 
+ [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) 
 [Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) 
+
+
+# Drei-Schluchten-Talsperre China
+
+Eines der größten Multi-Milliarden-Projekte der frühen 2000er, welches sogar die Erdrotation beeinflusst, war die Drei-Schluchten-Talsperre in China. [^2] Auch wenn es anfänglich viel Kritik an dem Projekt gab, hauptsächlich durch die unfassbaren Projektkosten von ca. 75 Milliarden USD bis 2013 und Zwangsumsiedelungen von mehr als einer Millionen Menschen, war das Projekt ein voller Erfolg. China bezieht ca. 75% der Energiegewinnung aus höchst umweltschädlichen Kohlekraftwerken, mit einer jährlich gewonnen Energie von 22,5 Gigawatt konnte durch das Wasserkraftwerk die Verstromung von über 49 Millionen Tonnen Kohle pro Jahr vermieden werden.[^3] Bis heute ist es das produktionsstärkste Kraftwerk der Welt.[^4] Das Kraftwerk greift extrem in die Natur ein, was erstmal sehr drmatisch klingt hat aber auch seine Vorteile. China fällt fast jährlich rießigen FLuten und Überschwemmungen zum Opfer, welche tausenden Tote fordern. Der Staudamm beugt genau das seit mehr als erfolgreich 18 Jahren vor.[^5] 
 
 
 # Projektmanagement bei American Airlines
 
 Durch die Fusion von American Airlines und US Airways kam es zu Überschneidungen bei Technologien und Programmen. Das Managment entschloss sich dazu, ein Projekt zu starten mit dem Ziel die IT der Unternehmen und Datenbanken zu einer zusammenzuführen und dadurch einen kommerzielen Erfolg und effiktivere Arbeitzeiten zu schaffen.
-Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressourcen und komplexen Projekten unzureichend. Um einen Überblick über die kommerziel erfolgreichsten Daten und Projekte zu bekommen, begann das Unternehmen mit ihren Projektmanagern ein System zu etablieren, welches alle Daten automatisch auszuwertet. Infolgedessen konnte die Airline die Planungszeiten für Projekte und Routen verkürzen und dabei weniger Arbeiter einsetzten, was sich positiv auf die Bilanz auswirkte und mehrere Millionen Dollar einbrachte. Das Unternehmen hat nun Zugang zu besseren und zuverlässigeren Daten, um wichtige Entscheidungen über Projekte und Ressourcen zu treffen.[^2].
-
+Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressourcen und komplexen Projekten unzureichend. Um einen Überblick über die kommerziel erfolgreichsten Daten und Projekte zu bekommen, begann das Unternehmen mit ihren Projektmanagern ein System zu etablieren, welches alle Daten automatisch auszuwertet. Infolgedessen konnte die Airline die Planungszeiten für Projekte und Routen verkürzen und dabei weniger Arbeiter einsetzten, was sich positiv auf die Bilanz auswirkte und mehrere Millionen Dollar einbrachte. Das Unternehmen hat nun Zugang zu besseren und zuverlässigeren Daten, um wichtige Entscheidungen über Projekte und Ressourcen zu treffen.[^6].
 
 ![American-Airline](Praxisbeispiele_erfolgreiche_Projekte/AmericanAirlines.jpg)
 
 
-# Drei-Schluchten-Talsperre China
+# Einführung des IPhones
 
+Steves Jobs (Gründer von Apple und damaliger CEO) Idee in den Mobiltelefonmarkt einzusteigen entstand 2005. Er sah die Gefahr, dass der Markt der MP3-Player und damit auch des iPods schrumpfen wird, weil die damaligen Handy-Modelle inzwischen ebenfalls Musik speichern und abspielen konnten. Die Verantwortlichen Projektleiter für die Entwicklung des Ipods bekamen von Steve Jobs den Auftrag unter dem Projektnamen "Project Purple" aus dem bestehenden iPod ein Mobiltelefon zu konstruieren.[^7]. Da das Navigieren mittels Click Wheel, wie zum Beispiel beim Wählen von Telefonnummern, sehr umständlich war, wurde das bis dahin geheime Projekt, welches die Machbarkeit eines Tablet-Computers prüfte, hinzugezogen. Es entstand ein Mobiltelefon mit einem verglasten 3.5 Zoll Display, welches durch Berührungen mit den Fingern bedient werden konnte. Der integrierte ARM-Chip war mit 412 Megahertz getaktet und wurde durch 128 Megabyte Arbeitsspeicher unterstützt. Das erste iPhone wurde in einer 4 bzw. 8 Gigabyte Speicherkonfiguration verkauft. Die Preise lagen bei 499 bzw. 599 Dollar inklusive einem zweijährigen Vertrag mit AT&T. Das iPhone wurde am 9. Januar 2007 an der Apple Messe MacWorld vorgestellt und ging am 29. Juni dieses Jahres in Amerika in den Verkauf. Bereits am ersten Verkaufswochenende wurden eine halbe Million Exemplare verkauft. Das Iphone ist bis heute ein gigantischer finanzieller Erfolg. Steve Jobs ebnete mit seiner Idee und mit diesem Projekt den Weg für das modere Smartphone.
 
-Ein weiteres erfolgreiches Projekt was sogar die Erdrotation beeinflusst ist die Drei-Schluchten-Talsperre in China.[^3] Zum Zeitpunkt der fertigstellung im jahr 2003 war er der größte Staudamm der Welt, welcher 1.5% der gesamten Chinesichen Stromerzeugung ausmacht. Das Projekt stoß anfänglich auf viel Kritik, vorallem wegen dem hohen Preis ca. 75 Milliarden US-Dollar, doch hatte so eine große ökonomische und ökologische Auswirkung, dass der Staudamm im Jahr 2012 nochmal verbessert und mit mehr Turbinen ausgestattet wurde. Bis heute ist es das produktionsstärkste Kraftwerk der Welt.[^4] 
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -67,7 +44,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [Project Report on Merger of American airlines and US airlines](https://de.slideshare.net/reenasisodiya10/project-report-on-merger-of)
-[^3]: [Erdrotation: Wieviel Einfluss hat der Drei-Schluchten-Damm?](https://www.mz.de/panorama/erdrotation-wieviel-einfluss-hat-der-drei-schluchten-damm-2292042)
+[^2]: [Erdrotation: Wieviel Einfluss hat der Drei-Schluchten-Damm?](https://www.mz.de/panorama/erdrotation-wieviel-einfluss-hat-der-drei-schluchten-damm-2292042)
+[^3]: [NTV: Energierekord am Drei-Schluchten-Damm](https://www.n-tv.de/wirtschaft/Energierekord-am-Drei-Schluchten-Damm-article14247201.html)
 [^4]: [Das sind die größten Kraftwerke der Welt](https://www.handelsblatt.com/technik/energie-umwelt/circular-economy/wasser-wind-kohle-atom-das-sind-die-groessten-kraftwerke-der-welt/14849820.html?ticket=ST-3508956-DO6yaiY0yaqKcLYJpJOx-cas01.example.org)
+[^5]: [Der Drei-Schluchten-Stausee gibt fast 90% seiner Kapazität zum Hochwasserschutz frei](http://german.china.org.cn/txt/2021-06/03/content_77546264.html)
+[^6]: [Project Report on Merger of American airlines and US airlines](https://de.slideshare.net/reenasisodiya10/project-report-on-merger-of)
+[^7]: [Apple's Phone: From 1980s' Sketches to iPhone] (https://mobile-review.com/articles/2010/iphone-history3-en.shtml)
+
 
