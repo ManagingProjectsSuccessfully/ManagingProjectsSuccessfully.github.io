@@ -11,9 +11,13 @@ Scrum-Transparenz (in englisch ,,Scrum Transparency“) bildet eine der drei Hau
 
 1. Problemstellung
 2. Definitionen und Merkmale
- 2.1 Begrifflichkeiten
- 2.2 Ziele und Anforderungen
- 2.3 Aktuelle Fortschrittsinformationen
+
+    2.1 Begrifflichkeiten
+  
+    2.2 Ziele und Anforderungen
+  
+    2.3 Aktuelle Fortschrittsinformationen
+  
 3. Fazit
 4. Siehe auch
 5. Weiterführende Literatur
@@ -54,12 +58,15 @@ Zusammenfassend lässt sich sagen, dass Scrum-Transparenz eine wichtige Vorausse
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+*  Der Scrum Guide - Transparenz der Artefakte (der-scrum-master.com)
+* "Agile" macht ja nur Probleme, oder… — Transparenz muss gewollt sein | CU @ Boeffi .net
+* 	Umgang mit Transparenz | Thorsten Schiffer | Agilität ohne Gedöns (thorsten-schiffer.com)
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: Boss, Domenik (2020):,,Die 3 Säulen von Scrum - Transparenz, Überprüfung und Anpassung»: https://www.agile-heroes.de/magazine/scrum-saeulen/
+[^2]:  Schönfeld, Patrik (2020) :,,Die drei Säulen von Scrum » : https://chaosverbesserer.de/blog/2019/09/23/die-drei-saeulen-von-scrum/
+[^3]: Doshi, Hiren: The Three Pillars of Empiricism (Scrum) | Scrum.org : https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum
+[^4]: Reinold, Daniel: Daily Scrum - kurz erklärt [Varianten & Tipps]: https://www.projektmagazin.de/methoden/daily-scrum
 
