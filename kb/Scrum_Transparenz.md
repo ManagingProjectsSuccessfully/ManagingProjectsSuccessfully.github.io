@@ -5,7 +5,7 @@ author: Lorybr
 anrechnung: a
 ---
 
-Scrum-Transparenz (in englisch ,,Scrum Transparency“) bildet eine der drei Hauptsäulen von SCRUM, neben [Scrum-Überprüfung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Ueberpruefung.md) (engl.,, Scrum Inspection“) und [Scrum-Anpassung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Anpassung.md) (engl. ,,Scrum Adaption“). Dabei handelt es sich um die offene Kommunikation und das Teilen von Wissen, sowohl innerhalb, als auch außerhalb des Teams [^1].
+Scrum-Transparenz (in englisch ,,Scrum Transparency“) bildet eine der drei Hauptsäulen von [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md), neben [Scrum-Überprüfung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Ueberpruefung.md) (engl.,, Scrum Inspection“) und [Scrum-Anpassung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Anpassung.md) (engl. ,,Scrum Adaption“). Dabei handelt es sich um die offene Kommunikation und das Teilen von Wissen, sowohl innerhalb, als auch außerhalb des Teams [^1].
 
 # Inhaltsverzeichnis 
 
@@ -55,6 +55,7 @@ Zusammenfassend lässt sich sagen, dass Scrum-Transparenz eine wichtige Vorausse
 
 * [Scrum_Ueberpruefung.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Ueberpruefung.md)
 * [Scrum_Anpassung.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Anpassung.md)
+* [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
 
 
 # Weiterführende Literatur
