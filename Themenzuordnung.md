@@ -108,7 +108,6 @@ author: anniSc
 | [Mindmapping](kb/Mindmapping.md)                                                                                                   | [jacobbocai](https://github.com/jacobbocai)                   |
 | [Low_Hanging_Fruits](kb/Low_Hanging_Fruits.md)                                                                                     | [seif0123](https://github.com/seif0123)                       |
 | [6_3_5_Methode](kb/6_3_5_Methode.md)                                                                                               | [nta01](https://github.com/nta01)                             |
-| [Brainwriting](kb/Brainwriting.md)                                                                                                 | [janetteschuller](https://github.com/janetteschuller)         |
 | [Ideen_Marathon](kb/Ideen_Marathon.md)                                                                                             | [MrSommC](https://github.com/MrSommC)                         |
 | [Pareto_Prinzip](kb/Pareto_Prinzip.md)                                                                                             | [nahihiry](https://github.com/nahihiry)                       |
 | [World_Cafe](kb/World_Cafe.md)                                                                                                     | [larissadiscua](https://github.com/larissadiscua)             |
