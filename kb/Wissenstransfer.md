@@ -11,7 +11,8 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Wissenstransfer
 
-Der Begriff Wissenstransfer wird in verschiedenen Kontexten verwendet. In der Wirtschaft wird darunter vor allem der Austausch und 
+Der Begriff [Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer#cite_note-8) wird in verschiedenen Kontexten verwendet. In der Wirtschaft wird darunter 
+vor allem der Austausch und 
 die Weitergabe von Wissen innerhalb von Unternehmen verstanden, welcher zugleich ein sehr wichtiger Bestandteil des [Wissensmanagements](Wissensmanagement.md) ist.
 
 Kann sowohl der Austausch als auch die Weitergabe des Wissens erfolgreich durchgeführt werden, verschafft dies dem betreffendem Unternehmen Wettbewerbsvorteile.
@@ -37,9 +38,10 @@ beteiligten Teams stellt diese Art des Projektmanagements für den Wissenstransf
 
 ### Agiles Projektmanagement
 
-Bezüglich des Ablaufs gibt es beim agilen Projektmanagement einen immensen Unterschied zum klassischen. Dieser ist iterativ aufgebaut und basiert auf Wiederholungen, 
-das heißt Arbeitsschritte werden öfter durchlaufen, um das bestmögliche Ergebnis für das Projekt zu erlangen. Diese Herangehensweise hat zur Folge, dass der 
-Wissenstransfer deutlich komplexer und schwieriger zu managen wird, da zu jeder Zeit ein Rückschritt möglich ist und dies bei unsorgfältiger Arbeit zu Verwirrung führt.
+Bezüglich des Ablaufs gibt es beim agilen Projektmanagement einen immensen Unterschied zum klassischen. Dieser ist [iterativ](https://de.wikipedia.org/wiki/Iterativ) 
+aufgebaut, das heißt Arbeitsschritte werden öfter durchlaufen, um das bestmögliche Ergebnis für das Projekt zu erlangen. Diese Herangehensweise hat zur Folge, 
+dass der Wissenstransfer deutlich komplexer und schwieriger zu managen wird, da zu jeder Zeit ein Rückschritt möglich ist und dies bei unsorgfältiger 
+Arbeit zu Verwirrung führt.
 
 ## Vorteile eines erfolgreichen Wissenstransfers
 
@@ -53,7 +55,7 @@ im selben Zug mehr Mitarbeiterzufriedenheit.
 
 ## Gefahren bei der Wissensweitergabe
 
-Projektorientierte Unternehmen, deren Erscheinungsbild für die Bearbeitung für komplexe Aufgaben gut geeignet scheint, birgt dennoch Gefahren, 
+Projektorientierte Unternehmen, deren Erscheinungsbild für die Bearbeitung komplexer Aufgaben gut geeignet scheint, birgt dennoch Gefahren, 
 gerade hinsichtlich der Wissensweitergabe. 
 
 Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgeführt werden. (siehe Tabelle 1)
@@ -73,9 +75,8 @@ Ausschlaggebend für die Anwendung gewisser Methoden ist die Art des Transfers. 
 Wissenstransfer unterschieden. Der Austausch des Wissens findet beim personifizierten Wissenstransfer auf persönlicher Ebene statt. Dies kann auf vielen 
 verschiedenen Wegen geschehen:
 
-* Mitarbeiterworkshops
-* Interviews
-* Altersgemischte Teams
+* [Mitarbeiterworkshops](https://de.wikipedia.org/wiki/Workshop)
+* [Interviews](https://de.wikipedia.org/wiki/Interview)
 * [Mentoring](https://de.wikipedia.org/wiki/Mentoring)
 
 Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft. Heutzutage stellen Datenbanken
