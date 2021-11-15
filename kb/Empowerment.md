@@ -4,15 +4,14 @@ tags: agil klassisch
 author: TobiasZuerrlein
 anrechnung: k
 ---
-Bei Teamarbeit ist der [Leiter](Projektleiter.md) eines [Projektes](Projekt.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten Projektteams überzugehen. Hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) erfordern jedoch eine offene Fehlerkultur, damit [Mitarbeiter](Projektmitarbeiter.md) des [Projekts](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen.
- Somit können mithilfe von [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt, bürokratischer Aufwand und Hierarchiestufen reduziert und Prozesse verbessert werden.[^7][^3]
- Empowerment ermöglicht somit Projektarbeit[^1].
+Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für alle Entscheidungen übernimmt[^7]. Allerdings kann diese Vorgehensweise oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten[^7]. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten [Projektes](Projekt.md)teams überzugehen[^7]. 
+Empowerment ermöglicht somit [Projekt](Projekt.md)arbeit[^1].
 
- ![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
+![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
 
 *Faktoren von Empowerment[^2]*
 
- [Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Änderungsmanagement.md) zuzuordnen. Das Umfangs- und Änderungsmanagement ist eine Kernaufgabe des klassischen sowie agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben des entsprechenden [Sprints](Sprint.md) Anwendung findet, sind beim klassischen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Budget-/Kostenmanagement und Zeitmanagement betroffen.[^7]
+[Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Änderungsmanagement.md) zuzuordnen. Das Umfangs- und Änderungsmanagement ist eine Kernaufgabe des klassischen sowie agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben des entsprechenden [Sprints](Sprint.md) Anwendung findet, sind beim klassischen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Budget-/Kostenmanagement und Zeitmanagement betroffen.[^7]
 
 # Defintion
 
@@ -22,7 +21,9 @@ Im Sinne des [Projektmanagements](Projektmanagement.md) bedeutet [Empowerment](E
 
 # Bedingungen für [Empowerment](Empowerment.md)
 
-Um diese Befähigung umsetzen zu können, müssen allerdings auch die Rahmenbedingungen im Unternehmen stimmen. Dazu ist es wichtig, hierarchische und bürokratische Hürden aus dem Weg zu räumen, die Mitarbeiter in der Entscheidungsfindung bremsen. Des Weiteren muss eine Unternehmenskultur etabliert werden, in der man Fehler machen kann und dafür nicht bestraft wird und in der Vertrauen entstehen kann. Ein wichtiger Teil des Empowerment stellen Teamentwicklungsmaßnahmen dar, wodurch die Mitarbeiter mit neuen Qualifikationen ihre Rolle im Team finden können.[^6]
+Hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) erfordern jedoch eine offene Fehlerkultur, damit [Mitarbeiter](Projektmitarbeiter.md) des [Projektes](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen[^7]. Somit können mithilfe von [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt, bürokratischer Aufwand und Hierarchiestufen reduziert und Prozesse verbessert werden[^3].
+
+Um diese Befähigung umsetzen zu können, müssen allerdings auch die Rahmenbedingungen stimmen. Dazu ist es wichtig, hierarchische und bürokratische Hürden aus dem Weg zu räumen, die Mitarbeiter in der Entscheidungsfindung bremsen. Des Weiteren muss eine Unternehmenskultur etabliert werden, in der man Fehler machen kann und dafür nicht bestraft wird und in der Vertrauen entstehen kann. Ein wichtiger Teil des Empowerment stellen Teamentwicklungsmaßnahmen dar, wodurch die Mitarbeiter mit neuen Qualifikationen ihre Rolle im Team finden können.[^6]
 
 Empowerment heißt also nicht einfach Verantwortung abzugeben, sondern, dass alle für das Unternehmen, für die Gewinne und die Produkte und Leistungen des Betriebes verantwortlich sind. Verantwortung bedeutet wiederum, größeres Engagement für eigene Projekte und mehr Klarheit über eigene Ziele und Bedürfnisse. Die Effektivität und Produktivität eines Unternehmens, wird von der Entwicklung der Mitarbeiter sowie von dem Einsatz deren Talente und Qualitäten bestimmt.[^6]
 
@@ -42,9 +43,9 @@ Neben der Reaktionsfähigkeit, ist es natürlich ebenfalls von Relevanz, wie sin
 
 ## Fachkräftenachwuchs
 
-Die Jobpräferenzen haben sich deutlich gewandelt: Die jungen Generationen streben in Bezug auf [Projektmanagement](Projektmanagement.md) zunehmend nach größeren Herausforderungen und mehr Eigen[verantwortung](Verantwortlichkeiten.md). Sie bevorzugen flache Hierarchien und einen begrenzten Anteil der Fremdbestimmung und präferieren deshalb [Projekte](Projekt.md), bei denen sie mehr mitbestimmen können. Dieses Bedürfnis nach Freiheit steht somit heutzutage im Konflikt mit dem klassischen engmaschigen Hierarchiedenken.[^3] 
+Die Jobpräferenzen haben sich deutlich gewandelt: Die jungen Generationen streben in Bezug auf [Projektmanagement](Projektmanagement.md) zunehmend nach größeren Herausforderungen und mehr Eigen[verantwortung](Verantwortlichkeiten.md). Sie bevorzugen flache Hierarchien und einen begrenzten Anteil der Fremdbestimmung und präferieren deshalb [Projekte](Projekt.md), bei denen sie mehr mitbestimmen können. Dieses Bedürfnis nach Freiheit steht heutzutage somit im Konflikt mit dem klassischen engmaschigen Hierarchiedenken.[^3] 
 
-Auf dem Arbeitsmarkt haben sich außerdem Angebot und Nachfrage stark verändert. Der Grund hierfür liegt im demographischen Wandel. Es gestaltet es sich heutzutage schwieriger für Unternehmen kompetente [Mitarbeiter](Mitarbeiter.md) für eine Stelle anzuwerben. Junge qualifizierte Fachkräfte befinden sich also immer öfter in der Situation ihren Arbeitsplatz in einem bestimmten Umfang auswählen zu können. Sehr oft entscheiden sie sich für Unternehmen und Teams mit flachen Hierarchien.[^3]
+Auf dem Arbeitsmarkt haben sich außerdem Angebot und Nachfrage stark verändert. Der Grund hierfür findet sich im demographischen Wandel. Es gestaltet sich heutzutage für Unternehmen immer schwieriger kompetente [Mitarbeiter](Mitarbeiter.md) für eine Stelle anzuwerben. Junge qualifizierte Fachkräfte befinden sich also immer öfter in der Situation ihren Arbeitsplatz in einem bestimmten Umfang auswählen zu können. Sehr oft entscheiden sie sich für Unternehmen und Teams mit flachen Hierarchien.[^3]
 
 # Siehe auch
 
@@ -55,12 +56,13 @@ Auf dem Arbeitsmarkt haben sich außerdem Angebot und Nachfrage stark verändert
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Kenneth Blanchard, John P. Carlos, Alan Randolph: Das neue Führungskonzept: Mitarbeiter bringen mehr, wenn sie mehr dürfen. Rowohlt Verlag, Hamburg 1998, ISBN 3-498-00595-2.
+* Hans A. Wüthrich, Dirk Osmetz, Stefan Kaduk: Musterbrecher. Führung neu leben. Gabler Verlag, Wiesbaden 2006, ISBN 3-8349-0507-0.
+* Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente -Checklisten. 2. Auflage, Carl Hanser Verlag, München 2006, ISBN 3-446-40615-8.
 
 # Quellen
 
-[^1]: Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente -Checklisten. 2. Auflage, Carl
-Hanser Verlag, München, 2006
+[^1]: Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente -Checklisten. 2. Auflage, Carl Hanser Verlag, München 2006, ISBN 3-446-40615-8.
 [^2]: [Warum ist Empowerment so wichtig?](https://www.thesoundofexport.com/warum-ist-empowerment-so-wichtig/)
 [^3]: [Empowerment im agilen Kontext: Die 5 Wege zum Empowerment](https://www.berlinerteam.de/magazin/empowerment/)
 [^4]:[Empowerment](https://de.wikipedia.org/wiki/Empowerment)
