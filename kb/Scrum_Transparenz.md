@@ -2,13 +2,10 @@
 title: Scrum_Transparenz
 tags: agil
 author: Lorybr
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Scrum_Transparenz um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Scrum-Transparenz (in englisch ,,Scrum Transparency“) bildet eine der drei Hauptsäulen von SCRUM, neben Scrum-Überprüfung (engl.,, Scrum Inspection“) [Link] und Scrum-Anpassung (engl. ,,Scrum Adaption“) [Link]. Dabei handelt es sich um die offene Kommunikation und das Teilen von Wissen, sowohl innerhalb, als auch außerhalb des Teams [^1].
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
