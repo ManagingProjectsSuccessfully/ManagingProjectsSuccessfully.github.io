@@ -32,16 +32,17 @@ des Wissens statt und in der letzten Phase wird das neu transferierte Wissen ern
 
 ### Klassisches Projektmanagement
 
-Der Ablauf im klassischen [Projektmanagement](Projektmanagement.md) wird mit Hilfe des [Wasserfall-Modells](Wasserfall_Modell.md) dargestellt. Dieses ist ein lineares, nicht iteratives Vorgehensmodell, 
-bei dem zunächst die eine Aufgabe komplett abgeschlossen wird bevor neue Aufgaben begonnen werden. Durch eine, am Ende jeder Aufgabe, abschließende Kommunikation mit den 
-beteiligten Teams stellt diese Art des Projektmanagements für den Wissenstransfer ein geringeres Risiko an Wissensverlust dar.
+Der Ablauf im klassischen [Projektmanagement](Projektmanagement.md) wird mit Hilfe des [Wasserfall-Modells](Wasserfall_Modell.md) dargestellt. Dieses ist ein lineares, nicht 
+iteratives Vorgehensmodell, bei dem zunächst die eine Aufgabe komplett abgeschlossen wird bevor neue Aufgaben begonnen werden.[^5] Durch eine, am Ende jeder Aufgabe, 
+abschließende Kommunikation mit den beteiligten Teams stellt diese Art des Projektmanagements für den Wissenstransfer ein geringeres Risiko an 
+Wissensverlust dar.[^6]
 
 ### Agiles Projektmanagement
 
 Bezüglich des Ablaufs gibt es beim agilen Projektmanagement einen enormen Unterschied. Dieser ist [iterativ](https://de.wikipedia.org/wiki/Iterativ) 
 aufgebaut, das heißt Arbeitsschritte werden öfter durchlaufen, um das bestmögliche Ergebnis für das Projekt zu erlangen. Diese Herangehensweise hat zur Folge, 
 dass der Wissenstransfer deutlich komplexer und schwieriger zu managen ist, da zu jeder Zeit ein Rückschritt möglich ist und dies bei unsorgfältiger 
-Arbeit/Kommunikation zu Verwirrung führt.
+Arbeit/Kommunikation zu Verwirrung führt.[^7]
 
 
 ## Vorteile eines erfolgreichen Wissenstransfers
@@ -127,9 +128,11 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 [^1]: [Wissenstransfer - Weiterentwicklung durch den Austausch von Wissen](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
 [^2]: [Wissenstransfer - einfach erklärt, YouTube](https://www.youtube.com/watch?v=wlNf-T9LqV0)
-
 [^3]: Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.* Heft 5, 1998, S. 235–263.
 [^4]: [Phasen Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer)
-[^5]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^5]: [Wasserfall-Modell](https://de.wikipedia.org/wiki/Wasserfallmodell)
+[^6]: [Klassisches und agiles Projektmanagement im Vergleich](https://dl.gi.de/bitstream/handle/20.500.12116/3061/47.pdf?sequence=1&isAllowed=y)
+[^7]: [Wie funktioniert agiles Projektmanagement?](https://www.cobra.de/wie-funktioniert-agiles-projektmanagement/?utm_source=google&utm_medium=cpc&utm_campaign=crm_software_testversion&pk_campaign=crm_software_testversion&msclkid=faba32df3ce5149e407c53526e2c943f)
+[^]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
