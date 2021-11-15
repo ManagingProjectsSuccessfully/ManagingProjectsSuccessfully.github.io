@@ -39,5 +39,5 @@ Bei der Earned Value Analyse wird eine Momentaufnahme betrachtet und in welchem 
 # Quellen
 
 [^1]: [Earned-Value-Analyse: Einführung und Beispiele](https://www.econstor.eu/handle/10419/214916) 
-[^2]: [Earned Value Management] (https://www.projektmagazin.de/methoden/earned-value-management)
-[^3]: [Earned Value Management - einfach erklärt] (https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html)
+[^2]: [Earned Value Management](https://www.projektmagazin.de/methoden/earned-value-management)
+[^3]: [Earned Value Management - einfach erklärt](https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html)
