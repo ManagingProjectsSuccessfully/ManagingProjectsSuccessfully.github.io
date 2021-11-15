@@ -11,7 +11,7 @@ anrechnung: k
 
 # Key Questions:
 
-Unter den sogenannten Key Question sind Fragen zu verstehen, die Aufschluss über die wichtigsten Hauptelemente eines Projekts geben. Hierzu zählt unter anderem, ob mit einer festgelegten Methode und Zeitplan, einem Planungsprotokoll und mit möglichen Risikomanagement gearbeitet wird. [^2] Mit Hilfe dieser Fragen können Schlussfolgerungen über mögliches Verbesserungspotenzial oder auch dargestellt werden als auch dargestellt werden, in welche Richtung sich das Projekt Management hinentwickelt.
+Unter den sogenannten Key Question sind Fragen zu verstehen, die Aufschluss über die wichtigsten Hauptelemente eines Projekts geben und allgemeine Kennzahlen darstellen können. Hierzu zählt unter anderem, ob mit einer festgelegten Methode und Zeitplan, einem Planungsprotokoll und mit möglichen Risikomanagement gearbeitet wird. [^2] Mit Hilfe dieser Fragen können Schlussfolgerungen über ein mögliches Verbesserungspotenzial als auch die Entwicklungsrichtung von Projekt Management dargestellt werden
 
 Darüberhinaus wird anhand eines Diagramme Rückschlüsse gewonnen, die aufzeigen, welche Aufgaben die größten Herausforderungen mit dem damit zusammenhängenden Wert im Portfolio des Projektmanagements haben. Daraus ergibt sich das nachfolgende Diagramm.
 
@@ -19,6 +19,27 @@ Darüberhinaus wird anhand eines Diagramme Rückschlüsse gewonnen, die aufzeige
 
 *PPM Process Value vs. Difficulty to embed*
 
+# Maturity Levels:
+
+Mit Hilfe der Maturity Levels wird die Reife des Projekt Managements genauer beschrieben. Insgesamt gibt es fünf verschiedene Level. Dazu zählen folgende:
+
+* Level 1: Initial
+   - Intial zu Deutsch anfänglich beschreibt ein Management, welches nicht vorhanden ist. Es werden keinerlei Daten erhoben.
+* Level 2: Defined
+   - There are pockets of excellence and some processes but the application is largely down to the individual. There are defined skills xxx within the organisation, not necessarily within a dedicated PMO function; there are no measures in place. 
+* Level 3: Standardised
+   - All processes are detailed, educated and repeatable; there is a PMO in place providing guidance and limited education; there is some measurement of high-level KPIs which are communicated to direct management.
+* Level 4: Managed
+   - All processes are embedded and utilised consistently: there is a dedicated PMO function that enables communication, learning and a culture of change; there is a consistent method to measure both  projects and the PMO to senior management.
+* Level 5: Optimising
+   - Processes are continuously reviewed and improved; the PMO is respected as a centre of excellence and provides a career path to project professional: the performance of both projects and the PMO is measured and informs decision-making.
+
+# Key Drives to PPM Maturity:
+
+1. Methodology
+2. PMO
+3. Technology
+4. Training & Support
 
 # Verschiedenste Aspekte:
 
