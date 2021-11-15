@@ -36,9 +36,11 @@ Dem Projekt Charta eilt meistens ein Projektantrag bzw. Projektvorschlag vor, wo
     - Gleiches Bild über Projekt für Projektleiter und Sponsor
     - Informationsgrundlage für später hinzukommende Teammitglieder.
 
-3. Bei nicht erstellen einer Projekt Charta, ist damit zu rechnen, dass sich der Aufwand am Ende des Projektzeitraums staut. 
+3. Das erstellen einer Projektcharta ermöglicht eine Vorplanung des Projekts.Bei nicht erstellen einer Projekt Charta, ist damit zu rechnen, dass sich der Aufwand nicht gleichmäßig auf die Projektlaufzeit verteilt.
 
-![image](/kb/Projekt_Charta/Project_Charter_Graph_1.jpg)
+
+    ![image](/kb/Projekt_Charta/Project_Charter_Graph_1.jpg)
+
 
 ---
 
