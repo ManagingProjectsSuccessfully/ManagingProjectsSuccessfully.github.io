@@ -4,7 +4,7 @@ tags: agil klassisch
 author: CatPec
 anrechnung: k 
 ---
-Die Meilensteintrendanalyse ist eines der beliebtesten Verfahren des Projektcontrollings, das überwiegend im klassischen Projektmanagement Anwendung findet. Sie dient zur Prognose und Steuerung von Terminen innerhalb kleinerer und mittelgroßer Projekte[^1.] Dabei werden einzelne Projektabschnitte vorab zeitlich kalkuliert und als Meilensteine festen Terminen zugeteilt, an denen der Projektabschnitt, definiert als ein Meilenstein, abgeschlossen sein soll. Die Meilensteintrendanalyse stellt eine Visualisierung von Terminänderungen im Projekt dar. Dadurch lassen sich sogenannte Trends ablesen und Schwächen und Risiken im Projekt frühzeitig erkennen. Zudem schafft die Meilensteintrendanalyse Transparenz gegenüber den Interessensgruppen des Projekts [^2]. 
+Die Meilensteintrendanalyse ist eines der beliebtesten Verfahren des Projektcontrollings, das überwiegend im klassischen Projektmanagement Anwendung findet. Sie dient zur Prognose und Steuerung von Terminen innerhalb kleinerer und mittelgroßer Projekte[^1.] Dabei werden einzelne Projektabschnitte vorab zeitlich kalkuliert und Terminen zugeteilt, an denen der Projektabschnitt, definiert als ein Meilenstein https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteine.md, abgeschlossen sein soll. Die Meilensteintrendanalyse stellt eine Visualisierung von Terminänderungen im Projekt dar. Dadurch lassen sich Trends ablesen und Schwächen sowie Risiken im Projekt frühzeitig erkennen. Zudem schafft die Meilensteintrendanalyse Transparenz gegenüber den Stakeholdern eines Projekts [^2]. 
 
 
 # Anwendung der Meilensteintrendanalyse
@@ -16,16 +16,16 @@ Die Meilensteintrendanalyse soll den Projektverantwortlichen einen visuellen Üb
 * Können die einzelnen Termine eingehalten werden?[^3].
 
 ## Voraussetzungen
-Um eine erfolgreiche Meilensteintrendanalyse durchzuführen, muss das Projekt zu Beginn in sinnvolle Teilprojekte zerlegt werden, die eindeutig definierte Meilensteine darstellen. Dabei müssen klare und realistische Ziele gesetzt werden[^4].
+Um eine erfolgreiche Meilensteintrendanalyse durchzuführen, muss das Projekt zu Beginn in sinnvolle Teilprojekte zerlegt werden und eindeutig definierte Meilensteine darstellen. Dabei müssen klare und realistische Ziele gesetzt werden[^4].
 
 ## Einsatzbereiche
-Die Meilensteintrendanalyse kann grundsätzlich bei allen Arten von Projekten angewendet werden. Sie dienen neben der Übersicht für die Interessensgruppen am Projekt auch als Zwischenberichte ans höhere Management[^5].
+Die Meilensteintrendanalyse kann grundsätzlich bei allen Arten von Projekten angewendet werden. Sie dienen neben der Übersicht für die Interessensgruppen des Projekts auch als Zwischenberichte an das höhere Management[^5].
 
 ## Ablauf
 Nachdem am Anfang des Projektes die Meilensteine festgelegt werden, folgt im Laufe der Projektdurchführung regelmäßige Statusbesprechungen um die Entwicklung der Meilensteine im Blick zu haben. Dabei sollten alle Mitarbeiter anwesend sein, die für einen oder mehrere Meilensteine verantwortlich sind. Bei diesen Meetings werden neben bereits erledigten Aufgaben, dabei aufgetretene Probleme, Planungsschwächen und weitere Vorgehensweisen für folgende Meilensteine besprochen[^4]. 
 
 ## Aufbau
-Besonders wirkungsvoll ist die grafische Darstellung der Meilensteine. Dazu wird ein Diagramm erstellt. An der y-Achse werden die geplanten Termine der Meilensteine abgetragen. An der x-Achse werden die tatsächlichen Berichtszeitpunkte eingetragen. Dabei entsteht eine Winkelhalbierende. Idealerweise fallen die geplanten Termine mit den letzten Berichtszeitpunkten zusammen. Der Termin wurde eingehalten. Dies ist in der Realität aber sehr selten[^6].
+Besonders wirkungsvoll ist die grafische Darstellung der Meilensteine. Dazu wird ein Diagramm erstellt. An der y-Achse werden die geplanten Termine der Meilensteine abgetragen. An der x-Achse werden die tatsächlichen Berichtszeitpunkte eingetragen. Dabei entsteht eine Winkelhalbierende. Idealerweise fallen die geplanten Termine mit den letzten Berichtszeitpunkten zusammen. Das bedeutet, dass der Termin eingehalten wurde. Dies passiert in der Realität aber sehr selten[^6].
 
 ![image](https://user-images.githubusercontent.com/92922561/141102712-a9303b9b-83bd-424f-9a6b-8bb75ccfd1aa.png)
 
@@ -34,10 +34,10 @@ Die Steigungen im Diagramm haben folgende Bedeutungen:
 
 * Horizontale Linien: Hier wurde der Termin wie geplant eingehalten. Es gibt keine Verzögerungen und der nächste Projektschritt kann auf das abgeschlossene Teilprojekt aufgebaut werden
 * Steigende Linien: Der Termin hat sich verzögert. Es sollen dringend Maßnahmen ergriffen werden, um einigermaßen im Zeitplan bleiben zu können, damit sich andere Projektschritte nicht weiter nach hinten verschieben.
-* Fallende Linien: Hier konnte der Termin nicht nur eingehalten werden, sondern der Meilenstein auch frühzeitig abgeschlossen werden. Dies ist sehr von Vorteil wenn sich zukünftige Termine im Projekt verzögern werden, da eine Art Zeitpuffer geschaffen wurde, der später genutzt werden kann, um bei kommenden Meilensteinen den Zeitplan einhalten zu können [^1].
+* Fallende Linien: Hier konnte der Termin nicht nur eingehalten werden, sondern der Meilenstein auch frühzeitig abgeschlossen werden. Dies ist sehr von Vorteil, wenn sich zukünftige Termine im Projekt verzögern werden, da eine Art Zeitpuffer geschaffen wurde, der später genutzt werden kann, um bei kommenden Meilensteinen den Zeitplan einhalten zu können [^1].
 
-#Tools für die Meilensteintrendanalyse 
-Obwohl sich die Meilensteinstrendanalyse auch ganz einfach auf dem Papier anwenden lässt, gibt es mittlerweile zahlreiche Excel Add-ons, Tools bei Microsoft Project oder Cloudbasierte Web-Applikationen wie zum Beispiel von SAP, die den Zweck haben, den Projektfortschritt professionell zu präsentieren [^5].
+# Tools zur Anwendung der Meilensteintrendanalyse 
+Obwohl sich die Meilensteinstrendanalyse auch ganz einfach auf dem Papier anwenden lässt, gibt es mittlerweile zahlreiche Excel Add-ons, Tools bei Microsoft Project oder Cloudbasierte Web-Applikationen, die den Zweck haben, den Projektfortschritt professionell zu visualisieren [^5].
 
 # Siehe auch
 
