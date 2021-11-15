@@ -26,7 +26,7 @@ Scrum-Transparenz (in englisch ,,Scrum Transparency“) bildet eine der drei Hau
 
 # 1.Problemstellung
 
-In einem Prozess kann öfters vorkommen, dass wegen der nicht korrekt definierten Ziele, falsch verstandene Information und Begrifflichkeiten, fehlende Kommunikation oder wegen dem nicht explizit-erklärten aktuellen Überblick, der Prozess nicht richtig, fehlerhaft oder langsamer abläuft. Deswegen ist Transparenz in Scrum eine wichtige Säule, die die oben genannten Probleme verhindert kann. Da sich Scrum als ein Prozess-Framework zur Lösung komplexer, anpassungsfähiger Probleme versteht, ist es wichtig, dass alle Prozesse transparent ablaufen und dass man einen Überblick über sie haben kann [^2].
+In einem Prozess kann öfters vorkommen, dass wegen den nicht korrekt definierten Ziele, falsch verstandener Information und Begrifflichkeiten, fehlender Kommunikation oder wegen dem nicht explizit-erklärten aktuellen Überblick, der Prozess nicht richtig, fehlerhaft oder langsamer abläuft. Deswegen ist Transparenz in Scrum eine wichtige Säule, die die oben genannten Probleme verhindert kann. Da sich Scrum als ein Prozess-Framework zur Lösung komplexer, anpassungsfähiger Probleme versteht, ist es wichtig, dass alle Prozesse transparent ablaufen und dass man einen Überblick über sie haben kann [^2].
 
 
 # 2. Definitionen und Merkmale
@@ -53,8 +53,9 @@ Zusammenfassend lässt sich sagen, dass Scrum-Transparenz eine wichtige Vorausse
 
 # Siehe auch
 
-* [Scrum_Ueberpruefung.md] (https://github.com/ManagingProjectsSuccessfully.github.io/edit/main/kb/Scrum_Ueberpruefung.md)
+* [Scrum_Ueberpruefung.md](https://github.com/ManagingProjectsSuccessfully.github.io/kb/Scrum_Ueberpruefung.md)
 * [Scrum_Anpassung.md](https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/edit/main/kb/Scrum_Anpassung.md)
+
 
 # Weiterführende Literatur
 
