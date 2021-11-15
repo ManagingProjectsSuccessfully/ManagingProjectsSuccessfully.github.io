@@ -36,7 +36,7 @@ Durch den agilen Ansatz bietet Tesla seinen Kunden zum Beispiel neue Softwarefea
 ## Scrum in der Fertigung von Autos / Produktion
 
 Tesla ist eines der ersten Unternehmen, welches die agile Projektmanagementmethode [Scrum](SCRUM.md) für die Fertigung seiner Autos einsetzt [^3]. 
-Grundsätzlich wird Scrum bei der Entwicklung von Software eingesetzt, das produzierende Gewerbe hingegen bedient sich meist klassischer Projektmanagement-Methoden, wie zum Beispiel dem [Wasserfallmodell](https://de.wikipedia.org/wiki/Wasserfallmodell) [^5]. Grundsatz der agilen Methoden ist die Annahme, dass das Endprodukt einige Änderungen verglichen zum ursprünglich Geplanten aufweist [^5!]. Im Softwarebereich ist dies oft weniger problematisch als bei der Produktion von tangiblen Gütern. Dennoch weist die agile Methode auch dort einige Vorteile auf. So kann das Unternehmen noch während der Produktion auf Kundenwünsche oder Marktbedürfnisse eingehen und ermöglicht sich so einen potentiellen Wettbewerbsvorteil [^5]. 
+Grundsätzlich wird Scrum bei der Entwicklung von Software eingesetzt, das produzierende Gewerbe hingegen bedient sich meist klassischer Projektmanagement-Methoden, wie zum Beispiel dem [Wasserfallmodell](https://de.wikipedia.org/wiki/Wasserfallmodell) [^5]. Grundsatz der agilen Methoden ist die Annahme, dass das Endprodukt einige Änderungen verglichen zum ursprünglich Geplanten aufweist [^5]. Im Softwarebereich ist dies oft weniger problematisch als bei der Produktion von tangiblen Gütern. Dennoch weist die agile Methode auch dort einige Vorteile auf. So kann das Unternehmen noch während der Produktion auf Kundenwünsche oder Marktbedürfnisse eingehen und ermöglicht sich so einen potentiellen Wettbewerbsvorteil [^5]. 
 Auf Tesla übertragen bedeutet dies, das Tesla flexibel auf Änderungen reagieren kann. Die [Gigafactorys](https://www.tesla.com/de_de/giga-berlin) des Unternehmens sind so aufgestellt, dass Änderungen im laufenden  Produktionsprozess, durch Re-Programmierung einzelner Teilbereiche, durchgeführt werden können. Wenn das Scrum-Team, welches für den Bau und die Entwicklung der Türen zuständig ist, beispielsweise leichtere, sicherere und günstigere Türen entwickelt hat, können diese unproblematisch in den bestehenden Fertigungsprozess eingebunden werden [^3].  
 
 
@@ -45,7 +45,7 @@ Auf Tesla übertragen bedeutet dies, das Tesla flexibel auf Änderungen reagiere
 <br/>
 <br/>
 <em> Beispielhafter Aufbau einer Scrum-Implementierung im Fahrzeugbau. <br/>
-    Zu sehen sind die einzelnen Scrum-Teams, eingeteilt in die verschiedenen Bauteile eines Fahrzeugs [^3]. </em>
+    Zu sehen sind die einzelnen Scrum-Teams, eingeteilt in die verschiedenen Bauteile eines Fahrzeugs </em>[^3]. 
 <br/>
 <br/>
 <br/>
