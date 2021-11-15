@@ -1,20 +1,22 @@
 ---
 title: Stacey_Matrix
-tags: agil klassisch
+tags: agil 
 author: CatPec
 anrechnung: a
 ---
-Die Stacey-Matrix, benannt nach ihrem Begründer Ralph Douglas Stacey, einem britischen Organisationstheoretiker und Managementprofessor, diente ursprünglich zur erleichterten Entscheidungsfindung in komplexen Situationen. Heutzutage hilfts sie bei der Auswahl des passenden Projektmanagement-Ansatzes. Dabei unterstützt die Stacey_Matrix, den richtigen Methodenmix zu finden, indem ein Verständnis dafür geschaffen wird, wie umfangreich einzelne Aspekte des Projektes inklusive ihren Herausforderungen sind [^1]. Kurz gesagt beschreibt die Stacey-Matrix also einen Ordnungsrahmen zur Abgrenzung einfacher, komplizierter, komplexer und chaotischer Aufgaben [^2]. Sie steht in enger Verwandschaft mit dem Cynefin-Framework (ManagingProjectsSuccessfully.github.io/Cynefin-Framework.md) [^3].
+Die Stacey-Matrix, benannt nach ihrem Begründer Ralph Douglas Stacey, einem britischen Organisationstheoretiker und Managementprofessor, diente ursprünglich zur erleichterten Entscheidungsfindung in komplexen Situationen. Heutzutage hilft sie bei der Auswahl des passenden Projektmanagement-Ansatzesund bei der Findung des richtigen Methodenmixes, indem ein Verständnis für den Umfang des Projektes inklusive seiner Herausforderungen geschaffen wird [^1].
 
 # Die Stacey-Matrix im Projektmanagementkontext
 
-Die Stacey-Matrix soll also erleichtern, für ein bevorstehendes Projekt die richtige Projektmanagementmethode zu finden. 
+Kurz gesagt beschreibt die Stacey-Matrix einen Ordnungsrahmen zur Abgrenzung einfacher, komplizierter, komplexer und chaotischer Aufgaben [^2]. Sie steht dabei in enger Verwandschaft mit dem Cynefin-Framework https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cynefin-Framework.md  [^3].
+Die Stacey-Matrix soll insgesamt erleichtern, für ein bevorstehendes Projekt die richtige Projektmanagementmethode zu finden. 
 
 ## Aufbau der Stacey-Matrix
 
-Auf der vertikalen Achse der Matrix wird der Grad der "Anforderungen" (in der Abbildung: "Requierement") des Projekts abgetragen. In der Original-Matrix nach Stacey handelte es sich hierbei statt um Anforderungen um die "Einigkeit" der Entscheidungsträger.Heutzutage wird sich die Frage gestellt, wie klar oder unklar die Unsicherheiten über die Anforderungen des Projekts sind. 
+Auf der vertikalen Achse der Matrix wird der Grad der "Anforderungen" (in der Abbildung: "Requierement") des Projekts abgetragen. Es wird sich die Frage gestellt, wie klar oder unklar die Unsicherheiten über die Anforderungen des Projekts sind. 
 
-Die horizontale Achse wird durch den Begriff "Technologie"beschrieben (in der Abbildung: "Technological Realization"). Hier war der Originalbegriff ursprünglich "Gewissheit".  Während hierbei die Sicherheit in Bezug auf die zu treffenden Entscheidungen und das Vorgehen gemeint war, wird durch "Technologie" heutzutage vielmehr die Frage beschrieben, ob die Methoden zur Erreichung des Projektziels bekannt oder unbekannt sind[^4]. Die Matrix ist in vier Kategorien aufgeteilt. Diese beschreiben beschreiben jeweils den Komplexitätsgrad der vorliegenden Herausforderung.
+Die horizontale Achse wird durch den Begriff "Technologie "beschrieben (in der Abbildung: "Technological Realization"). Dieser Aspekt betrachtet, ob die Methoden zur Erreichung des Projektziels bekannt oder unbekannt sind[^4]. Die Matrix ist in vier Kategorien aufgeteilt. Diese beschreiben beschreiben jeweils den Komplexitätsgrad der vorliegenden Herausforderung:
+
 ![Stacey-Matrix-Stacey-1996-adapted-to-software-development](https://user-images.githubusercontent.com/92922561/140303470-74e6e67d-b486-4880-a88d-d62973995058.png)
 
 ### Simpel
@@ -30,7 +32,7 @@ Sind die Anforderungen unklar, die Technologie aber bekannt liegen politisch/ so
 Das Feld, bei dem entweder die Technologien oder die Anforderungen überwiegend unbekannt sind, wird als "complex" bezeichnet. Bei komplexen Projekten existieren viele Risiken. Die einzelnen Phasen dieser Projekte sind zu Beginn nicht vorhersehbar[^1]. Hier steht deshalb vor allem Transparenz, Innovation, Kreativität sowie Flexibilität im Mittelpunkt. Das Projekt sollte daher in kurze Iterationen zerlegt werden, wobei die ständige Überwachung der einzelnen Schritte nie außer Acht gelassen werden darf. Erwünschte Ergebnisse werden dadurch durchgehend verfolgt und Fehlentwicklungen schnell korrigiert. Hier finden agile Vorgehensweisen, vorallem die Scrum-Methode (ManagingProjectsSuccessfully.github.io/SCRUM.md) Anwendung [^4].
 
 ### chaotisch
-Chaotisch eingeordnete Projekte definieren sich durch völlig unklare Anforderungen und komplett unbekannte Technologien stellen eine enorme Herausfoderung dar [^1]. Als Herangehensweise wird hier empfohlen, sich bereits von Projektbeginn ein gewisses Maß an Klarheit über die Anforderungen zu schaffen und die Projektziele vorab zu klären. Es müssen vorläufige Entscheidungen getroffen werden, um das Projekt in den "Komplex-Bereich" verschieben zu können. Agile Methoden hier sind besonders Design Thinking (ManagingProjectsSuccessfully.github.io/Design_Thinking.md), Kanban und Scrum [^4].
+Chaotisch eingeordnete Projekte definieren sich durch völlig unklare Anforderungen und komplett unbekannte Technologien stellen eine enorme Herausfoderung dar [^1]. Als Herangehensweise wird hier empfohlen, sich bereits von Projektbeginn ein gewisses Maß an Klarheit über die Anforderungen zu schaffen und die Projektziele vorab zu klären. Es müssen vorläufige Entscheidungen getroffen werden, um das Projekt in den "Komplex-Bereich" verschieben zu können. Agile Methoden hier sind besonders Design Thinking https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Design_Thinking.md , Kanban https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md  und Scrum https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md [^4].
 
 # Kritik an der Stacey-Matrix
 
