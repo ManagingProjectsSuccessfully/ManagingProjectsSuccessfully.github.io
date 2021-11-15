@@ -22,4 +22,5 @@ Gemeinsam mit dem Scrum-Team wird der Arbeitsaufwand für die einzelnen Aufgaben
 
 
 # Quellen
-[^1] [Product Backlog](https://scrumguide.de/product-backlog/)
+
+[^1]: [Product Backlog](https://scrumguide.de/product-backlog/)
