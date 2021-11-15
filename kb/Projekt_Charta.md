@@ -71,6 +71,12 @@ Folgendes kann in einem Projekt Charta enthalten sein[^1]:
 - Vertragsbezogene Inhalte (insbes. Vergütungsvereinbarungen)
 
 ---
+
+## Beispiel einer Projekt Charta
+
+
+
+---
 Weiterführendes:
 Wer ist der Projektmanager, Projekt Sponsor, Projektantrag
 
