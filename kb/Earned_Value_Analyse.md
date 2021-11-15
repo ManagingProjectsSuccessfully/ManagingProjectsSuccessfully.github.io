@@ -5,36 +5,35 @@ author: Juliakau
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Earned_Value_Analyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Definition
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Den Projektfortschritt im Blick zu halten ist von hoher Bedeutung. 
+Dafür kann eine Earned Value Analyse, auch Earned Value Management genannt herangezogen werden.
+Die Earned Value Analyse hilft also den Projektfortschritt zu kontrollieren.
+Anhand von Plan- und Ist-Daten werden Kennzahlen berechnet, die den Earned Value (Fertigstellungswert) beschreiben. 
+Diese Daten beziehen sich auf Kosten, Zeit und Leistungsumfang.
+Der Fertigstellungswert kann zur Überwachung der Termintreue, der Kostentreue sowie zur Prognose von Gesamtkosten und Endtermin herangezogen werden. 
+Daraus resultiert bei Nichterfüllung ein Frühwarnsystem und das Projekt kann gesteuert und angepasst werden.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Dabei ist die Methode objektiv und macht Projekte hinsichtlich Kosten und Termintreue untereinander vergleichbar. 
+Des Weiteren können daraus Prognosen abgeleitet werden, was einen weiteren Vorteil der Analyse darstellt.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Ein Fertigstellungswert, also der Earned Value, ist ein Maß für die bereits geleistete Arbeit. 
+Somit entspricht die Earned Value Analyse einem Messverfahren, um den tatsächlich erzielten Fortschritt in Relation zu dem geplanten Ziel zu ermitteln und anschließend zu bewerten. [^]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Durchführung
+Die Durchführung einer Earned Value Analyse erfolgt in acht Schritten.
+1. Vorgänge auswählen
+2. Plan-, Ist- und Fertigstellungswert berechnen
+3. Cost Variance und Schedule Variance berechnen
+4. CPI und SPI berechnen
+5. Projektkosten porgnostizieren
+6. Projektdauer prognostizieren
+7. Interpretation der berechneten Kennzahlen
+8. Projekt steuern [^1]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Bei der Earned Value Analyse wird eine Momentaufnahme betrachtet und in welchem Zustand sich das Projekt in genau diesem Moment befindet. [^2]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
 # Aspekt 1
