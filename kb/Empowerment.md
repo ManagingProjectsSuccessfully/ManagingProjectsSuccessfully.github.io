@@ -20,7 +20,7 @@ Im Allgemeinen betitelt [Empowerment](Empowerment.md) Strategien und Maßnahmen,
 
 Im Sinne des [Projektmanagements](Projektmanagement.md) bedeutet [Empowerment](Empowerment.md) Macht- und [Verantwortungs](Verantwortlichkeiten.md)übertragung an die [Mitarbeiter](Projektmitarbeiter.md), wodurch ihnen ein höheres Maß an Autonomie, Informationszugang, Entscheidungskompetenz und Mitbestimmung eingeräumt wird. Diese Maßnahmen erlauben [Mitarbeitern](Projektmitarbeiter.md) eigenmächtig über gewisse Budgets, Kulanzleistungen, Urlaubsplanung sowie ihre eigenen Arbeitsabläufe zu entscheiden.[^3]
 
-## Bedinungen für [Empowerment](Empowerment.md)
+# Bedingungen für [Empowerment](Empowerment.md)
 
 Um diese Befähigung umsetzen zu können, müssen allerdings auch die Rahmenbedingungen im Unternehmen stimmen. Dazu ist es wichtig, hierarchische und bürokratische Hürden aus dem Weg zu räumen, die Mitarbeiter in der Entscheidungsfindung bremsen. Des Weiteren muss eine Unternehmenskultur etabliert werden, in der man Fehler machen kann und dafür nicht bestraft wird und in der Vertrauen entstehen kann. Ein wichtiger Teil des Empowerment stellen Teamentwicklungsmaßnahmen dar, wodurch die Mitarbeiter mit neuen Qualifikationen ihre Rolle im Team finden können.[^6]
 
