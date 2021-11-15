@@ -12,17 +12,16 @@ oben im Front-Matter (Bereich zwischen den `---`).
 # Wissenstransfer
 
 Der Begriff [Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer) wird in verschiedenen Kontexten verwendet. In der Wirtschaft wird darunter 
-vor allem der Austausch und 
-die Weitergabe von Wissen innerhalb von Unternehmen verstanden, die zugleich ein sehr wichtiger Bestandteil des [Wissensmanagements](Wissensmanagement.md) sind.
-
-Kann sowohl der Austausch als auch die Weitergabe des Wissens erfolgreich durchgeführt werden, verschafft dies dem betreffendem Unternehmen Wettbewerbsvorteile.
+vor allem der Austausch und die Weitergabe von Wissen innerhalb von Unternehmen verstanden, die zugleich ein sehr wichtiger Bestandteil 
+des [Wissensmanagements](Wissensmanagement.md) sind. Kann sowohl der Austausch als auch die Weitergabe des Wissens erfolgreich durchgeführt werden, 
+verschafft dies dem betreffendem Unternehmen Wettbewerbsvorteile.[^1][^2]
 
 
 ## Phasen des Wissenstransfers
 
-Unabhängig vom Umfang des vorhandenen Wissens durchläuft der Wissenstransfer immer die Phasen Initiierung, Wissensfluss und Integration[^1]. In der Phase der Initiierung 
+Unabhängig vom Umfang des vorhandenen Wissens durchläuft der Wissenstransfer immer die Phasen Initiierung, Wissensfluss und Integration[^3]. In der Phase der Initiierung 
 wird der Wissenstransfer eingeleitet, sprich das Wissen wird identifiziert, dokumentiert und auch bewertet. In der Wissensflussphase findet die tatsächliche Transaktion 
-des Wissens statt und in der letzten Phase wird das neu transferierte Wissen erneut überprüft und dann gegebenenfalls integriert.[^2]
+des Wissens statt und in der letzten Phase wird das neu transferierte Wissen erneut überprüft und dann gegebenenfalls integriert.[^4]
 
 ![Phasen des Wissenstransfers](Wissenstransfer/Phasen_des_Wissenstransfers.png)
 
@@ -126,8 +125,11 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 # Quellen
 
-[^1]: Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.* Heft 5, 1998, S. 235–263.
-[^2]: [Phasen Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer)
+[^1]: [Wissenstransfer - Weiterentwicklung durch den Austausch von Wissen](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
+[^2]: [Wissenstransfer - einfach erklärt, YouTube](https://www.youtube.com/watch?v=wlNf-T9LqV0)
+
+[^3]: Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.* Heft 5, 1998, S. 235–263.
+[^4]: [Phasen Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer)
 [^5]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
