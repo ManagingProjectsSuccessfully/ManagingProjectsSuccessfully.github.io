@@ -1,6 +1,6 @@
 ---
 title: Scrum_Transparenz
-tags: agil klassisch
+tags: agil
 author: Lorybr
 anrechnung: k oder a
 ---
