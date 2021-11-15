@@ -30,7 +30,7 @@ Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressour
 
 Steves Jobs (Gründer von Apple und damaliger CEO) Idee in den Mobiltelefonmarkt einzusteigen entstand 2005. Er sah die Gefahr, dass der Markt der MP3-Player und damit auch des iPods schrumpfen wird, weil die damaligen Handy-Modelle inzwischen ebenfalls Musik speichern und abspielen konnten. Die Verantwortlichen Projektleiter für die Entwicklung des Ipods bekamen von Steve Jobs den Auftrag unter dem Projektnamen "Project Purple" aus dem bestehenden iPod ein Mobiltelefon zu konstruieren.[^7]. Da das Navigieren mittels Click Wheel, wie zum Beispiel beim Wählen von Telefonnummern, sehr umständlich war, wurde das bis dahin geheime Projekt, welches die Machbarkeit eines Tablet-Computers prüfte, hinzugezogen. Es entstand ein Mobiltelefon mit einem verglasten 3.5 Zoll Display, welches durch Berührungen mit den Fingern bedient werden konnte. Der integrierte ARM-Chip war mit 412 Megahertz getaktet und wurde durch 128 Megabyte Arbeitsspeicher unterstützt. Das erste iPhone wurde in einer 4 bzw. 8 Gigabyte Speicherkonfiguration verkauft. Die Preise lagen bei 499 bzw. 599 Dollar inklusive einem zweijährigen Vertrag mit AT&T. Das iPhone wurde am 9. Januar 2007 an der Apple Messe MacWorld vorgestellt und ging am 29. Juni dieses Jahres in Amerika in den Verkauf. Bereits am ersten Verkaufswochenende wurden eine halbe Million Exemplare verkauft. Das Iphone ist bis heute ein gigantischer finanzieller Erfolg. Steve Jobs ebnete mit seiner Idee und mit diesem Projekt den Weg für das modere Smartphone.
 
-
+![Steve Jobs IPhone Vorstellung](Praxisbeispiele_erfolgreiche_Projekte/iphone-steve-jobs.jpeg)
 
 # Siehe auch
 
