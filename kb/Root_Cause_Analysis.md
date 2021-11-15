@@ -5,7 +5,7 @@ author: xyjaxy
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Root_Cause_Analysis um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Bei der Root-Cause-Analysis geht es darum die zugrundeliegende Ursache eines Problems zu identifizieren. Konkret geht es darum, die Kernprobleme zu ermitteln, sowie deren Abhängigkeiten darzustellen.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
