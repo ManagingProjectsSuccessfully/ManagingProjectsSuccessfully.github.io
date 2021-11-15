@@ -141,7 +141,6 @@ author: anniSc
 | [SAFe](kb/SAFe.md)                                                                                                                 | [nahihiry](https://github.com/nahihiry)                       |
 | [SAFe_Program_Increment_Planning](kb/SAFe_Program_Increment_Planning.md)                                                           | [starni26](https://github.com/starni26)                       |
 | [SAFe_Core_Values](kb/SAFe_Core_Values.md)                                                                                         | [charles0209](https://github.com/charles0209)                 |
-| [SAFe_Principles](kb/SAFe_Principles.md)                                                                                           | [felixba213 ](https://github.com/felixba213 )                 |
 | [SAFe_Lean_Agile_Mindset](kb/SAFe_Lean_Agile_Mindset.md)                                                                           | [BeratGuen](https://github.com/BeratGuen)                     |
 | [SAFe_Agile_Release_Trains](kb/SAFe_Agile_Release_Trains.md)                                                                       | [FilipPrecik](https://github.com/FilipPrecik)                 |
 | [Wasserfall_Modell](kb/Wasserfall_Modell.md)                                                                                       | [ga88maby](https://github.com/ga88maby)                       |
