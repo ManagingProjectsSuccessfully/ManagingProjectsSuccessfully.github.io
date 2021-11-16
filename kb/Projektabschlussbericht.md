@@ -11,8 +11,7 @@ Kurzbeschreibung zu Projektabschlussbericht um ein erstes Verständnis dafür zu
 
 # Was ist ein Projektabschlussbericht?
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Wie es der Begriff bereits erahnen lässt, beginnt die Phase des Projektabschlussberichtes üblicherweise am Ende eines durchgeführten Projekts, welches uvor Schritt für Schritt erarbeitet wurde und einem geplanten Ablauf folgt. Zudem stellt der Projektabschlussbericht einen Unterpunkt des Projektsabschlusses dar, welcher im Vorfeld bereits behandelt wurde.
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
