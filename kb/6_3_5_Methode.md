@@ -24,31 +24,14 @@ Die 6_3_5 Methode bietet folgende Vorteile[^2]:
 * Kreativitätssteigerung durch Aufbau auf bereits geschriebene Ideen möglich
 * Größere Gruppe können in kleine 6er-Gruppen aufgeteilt werden, die Methode ist auch für große Teams anwendbar.
 
-# Vorgehen
+# Vorgehen[^2]
 
 | Schritt   | Erläuterung | 
 | ------------- | ------------- |
 | Einführung  | Erklärung der Methode für die Teilnehmer*innen  |
-| 1. Runde  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+| 1. Runde  | 5 Minuten Zeit für 3 Ideen. Dieses sollen knapp und verständlich auf dem Vordruck aufgeschrieben werden.  |
+| 2. Runde  | 5 Minuten Zeit, der Vordruck wird im Uhrzeigersinn weiter gegeben.Ideen dürfen modifiziert, erweitert oder ergänzt werden.|
+| 3. - 6. Runde  | Vorgehen wie in der 2. Runde. Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können. |
 
 # Siehe auch
 
