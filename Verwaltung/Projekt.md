@@ -1,90 +1,54 @@
 ---
 title: {Projekt}
-tags: agil klassisch
-author: {GitHubUserName}
-anrechnung: k oder a
+tags: agil scrum projektmanagement
+author: {JonathanBauerFau}
+anrechnung: a
 ---
 
-Kurzbeschreibung zu {Projekt} um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Daily Scrum ist ein 15-minütiges Meeting für das Scrum Team. Es findet an jedem Arbeitstag statt, im Normalfall zur gleichen Zeit am gleichen Ort. Das Treffen dient dem Team dazu, die Tätigkeiten im Zeitraum bis zum nächsten Daily Scrum zu teilen, zu planen und mögliche Hindernisse ("Impediments") im Team zu kommunizieren, um notwendige Aktionen möglichst sofort einzuleiten. Daily Scrum zählt wie Sprint Planning, Sprint Review und Sprint Retrospektive zu den Scrum Events.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![test](scrum.jpg)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Herkunft
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Das Daily Scrum wurde erstmalig im Scrum Guide beschrieben. Scrum wurde in den frühen 1990er Jahren durch Ken Sutherland und Ken Schwaber erdacht (veröffentlicht unter dem Namen: "SCRUM Software Development Process"). Die Ausarbeitung der Idee basiert auf der Publikation "New New Product Development Game", in der Hirotaka Takeuchi und Ikujiro Nonaka 1986 die Entwicklung eines gemeinsamen Ziels durch Iterationen beschrieben. Besondere Schwerpunkte waren hierbei Geschwindigkeit und Flexibilität. Die aktuell gültige Version von Scrum ist im sogenannten "Scrum Guide" dokumentiert, der in mehreren Sprachen frei zum Download auf der Website www.scrumguides.org zur Verfügung steht.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Vorteile von SCRUM
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+* Die teilnehmenden Personen bleiben durch den straffen, 15-minütigem Ablauf konzentriert und schweifen nicht ab.
+* Die Behandlung aktueller Themen ermöglicht eine fokussierte Planung kurzer Zeiträume (i.d.R. 1 Tag).
+* Das einfache Regelwerk des Daily Scrums ermöglicht es einem stabilen Teilnehmerkreis, sich auch ohne Moderation weitgehend selbst zu organisieren.
+* Das Team ist über den aktuellen Forschritt bezüglich des Sprint-Zieles informiert.
+* Fachliche Rückfragen wurden im Team geklärt, bzw. die Klärung wurde eingeleitet. 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+# Qualifizierung
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Das Team muss mit den Regeln von Daily Scrum vertraut sein. Vor der ersten Durchführung eines Daily Scrums empfiehlt sich deshalb, das Team vorab kurz in die Methodik einzuführen. Die moderierende Person muss Erfahrungen zum Ablauf eines Daily Scrums und zu Timeboxing haben. Im Normalfall erklärt und moderiert der Scrum Master das Daily Scrum. Auf Wunsch oder bei Bedarf kann auch das Team die Moderation übernehmen.
 
+# Rollenbeschreibung
 
-# Aspekt 1
+Jedes Mitglied sollte genau über seine jeweilige Aufgabe im Team bescheid wissen!
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung]({Projekt}/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
+| Rolle  | Beschreibung |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Scrum Master  | Die Seele des Prozesses, die dafür sorgt, dass alle Regeln eingehalten werden.  |
+| Product Owner | Auftraggeber, der die Anforderungen stellt und die spätere Umsetzung seiner Wünsche im Hinblick auf Funktionalität, Benutzbarkeit, Performanz und Qualität beurteilt.  |
+| Team          | Für die Umsetzung der Anforderungen zuständig  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## Das muss jeder drauf haben
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+* Alle teilnehmenden Personen sind in der Lage, ihre letzten und folgenden Tätigkeiten zur Erreichung des Sprint-Zieles mitzuteilen. Ggf. sind hierfür geeignete Tools zur Dokumentation einzusetzen.
+* Alle sind über das aktuelle Sprint-Ziel informiert und fachlich in der Lage, die Relevanz der eigenen aktuellen Tätigkeiten in das Sprint-Ziel einzuordnen. Das unterstützt die Fokussierung auf relevante Themen.
+* Das Team erscheint pünktlich zum Daily Scrum. Das Daily Scrum startet exakt zur vereinbarten Uhrzeit und endet spätestens 15 Minuten danach.
+* Falls erforderlich sind technische oder organisatorische Vorbereitungen (z.B. Platz freiräumen, Boards aktualisieren, Beamer anschalten) vor dem Start des Daily Scrum abzuschließen, so dass der pünktliche Start des Daily-Scrum nicht gefährdet ist.
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+# Grenzen, Risiken und Nachteile
 
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+* Tiefes Eintauchen in eine fachliche Thematik ist aufgrund der kurzen Dauer des Daily Scrums nicht möglich. Daily Scrum dient dazu, den Bedarf eines intensiveren Austauschs zu erkennen. Der vertiefte, fachliche Austausch findet dagegen nach dem Daily Scrum statt. In der Regel sind dabei nur die betroffenen Personen beteiligt.
+* Um die vorgesehene Zeit von 15 Minuten einzuhalten, benötigen alle teilnehmenden Personen eine hohe Disziplin bzgl. Pünktlichkeit und Einhaltung der einfachen Gesprächsregeln.
+* Nachholtermine oder Wiederholungen der Inhalte für Personen, die später erscheinen, sind nicht vorgesehen.
+* Ein Daily Scrum verhindert nicht die Schwierigkeiten räumlicher Trennung oder unterschiedlicher Zeitzonen. Alle Personen müssen zu einem festen Zeitpunkt an diesem Meeting teilnehmen.
 
 # Siehe auch
 
