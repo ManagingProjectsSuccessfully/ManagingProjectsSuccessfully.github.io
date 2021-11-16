@@ -82,7 +82,7 @@ Erkenntnisse gezogen werden, welche man positiv auf kommende Projekte projiziere
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektabschlussbericht.md)
+* [Link auf diese Seite](Projektabschluss.md)
 
 # Weiterführende Literatur
 
