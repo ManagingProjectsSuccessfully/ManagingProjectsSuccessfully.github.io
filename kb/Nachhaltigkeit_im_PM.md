@@ -1,6 +1,6 @@
 ---
 title: Nachhaltigkeit_im_PM
-tags: agil klassisch
+tags: klassisch
 author: Miki2701
 anrechnung: k oder a
 ---
