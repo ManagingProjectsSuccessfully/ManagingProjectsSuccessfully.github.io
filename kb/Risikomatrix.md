@@ -9,9 +9,8 @@ Durch die Risikomatrix oder auch Risikodiagramm, Risikoprofil[^1], wird die Wahr
 
 * Aufbau und Berechnung
 * Nutzen und Kritik
-  - Nutzen
-    - Nutzen im Risikomanagement
-    - Nutzen im Projekmanagement
+  - Nutzen im Risikomanagement
+  - Nutzen im Projekmanagement
   - Kritik
 
 # Aufbau und Berechnung
