@@ -5,7 +5,10 @@ author: efdil
 anrechnung: k
 ---
 
+<!-- Organisiere wo genau Definition und Header stehen -->
+
 ## Definition
+<!--  Schau in`s PMBOK nochmal s279 -->
 
 >Die Projekt Charta ist ein Dokument das die wichtigsten Punkte eines Projekts schildert und dadurch einen groben Überblick über das Projekt oder einer Projektphase verschafft[^1]. Damit wird sichergestellt, dass Sponsor und der Projektleiter auch das gleiche Ziel beim Projekt anstreben und den Mitteln dazu bewusst sind.[^1][^3] Bei externen Dienstleistern wird der Projektauftrag durch einen formellen Vertrag ersetzt.[^4]
 
@@ -17,10 +20,14 @@ anrechnung: k
 # Die Projekt Charta
 Dem Projekt Charta eilt meistens ein Projektantrag bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.
 
-## Funktionen eines Project Charta im Projektmanagement
+## Funktionen eines Project Charta im Projektverlauf
+
+<!--  AM ANFANG DES PROJEKTS, WÄHREND DES PROJEKTS, AM ENDE DES PROJEKTS teile es so auf -->
+
+
  Die Projekt Charta begleitet den Projektleiter, das Team sowie weitere beteiligte vom Projektanfang bis -ende. Daher bietet es auch eine Vielzahl an Funktionen.
 
- 1. Die Übergabe des Projekt Charta, stellt nach einem erfolgreichen und genehmigten Projektantrag, den offiziellen startschuss des Projekts dar.[^1][^4]
+ 1. Die Übergabe des Projekt Charta stellt, nach einem erfolgreichen und genehmigten Projektantrag, den offiziellen startschuss des Projekts dar.[^1][^4]
 
     - Beginn des Projektes
     - Festlegung des Projektstartzeitpunkts.
@@ -101,3 +108,6 @@ Wer ist der Projektmanager, Projekt Sponsor, Projektantrag
 [^5]: [E](https://blog.minitab.com/de/verwalten-sie-projekte-beginnen-sie-mit-einer-projektcharta)
 
 [^6]: [F](https://asana.com/de/resources/project-charter)
+
+
+<!-- https://monday.com/blog/project-management/project-charter-example/ -->
