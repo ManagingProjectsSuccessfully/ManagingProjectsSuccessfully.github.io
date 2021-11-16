@@ -9,7 +9,7 @@ Der Begriff Projektmanagement 4.0 lässt sich auf den Grundbegriff Industrie 4.0
 # Projektteams der Zukunft
 Durch die neuen Anforderungen der Digitalisierung steht es besonders im Fokus, Projektprozesse effizienter und schneller zu gestalten. Ein wesentlicher Bestandteil des Projektmanagements in der Zukunft ist die Verknüpfung von sowohl agilen, als auch klassischen Konzepten.[^3] Die Projektteams entscheiden zukünftig gemeinschaftlich in Einzelfällen, welche der beiden Formen bzw. ob eine hybride Gestaltung beider Elemente für das entsprechende Projekt am sinnvollsten ist.[^4] Ebenfalls werden Hierarchiestufen aufgegeben, es gibt also keine einzelne Projektleitung mehr, sondern diese Aufgabe geht auf alle Projektmitglieder über.[^5] Die Projektmitglieder teilen sich hinsichtlich ihrer Erfahrung und ihrem Kenntnisstand in einzelne Projektteams auf. Diese stimmen sich untereinander ab und kümmern sich individuell um die Ressourcenbeschaffung.[^5]
 
-## Anforderungen [^4],[^5],[^6]
+## Anforderungen [^4] [^5] [^6]
 *	Flexibilität
 *	Veränderungsbereitschaft
 *	Eigenständigkeit
