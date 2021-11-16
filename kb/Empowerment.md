@@ -6,7 +6,7 @@ anrechnung: k
 ---
 Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für Entscheidungen übernimmt[^7]. Allerdings kann diese Tatsache oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten[^7]. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten [Projekt](Projekt.md)teams überzugehen[^7]. 
 
-![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
+![Faktoren von [Empowerment](Empowerment.md)](Empowerment/FaktorenVonEmpowerment.jpg)
 
 *Faktoren von Empowerment[^2]*
 
