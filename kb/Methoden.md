@@ -40,7 +40,7 @@ Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, h
 Gniedlaskubf daneem. 
 
 
-# Methoden der Teamführung
+# Methoden der Projektplanung
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -51,17 +51,6 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 ![Beispielabbildung](Methoden/test-file.jpg)
 
 *lustiges Testbild*
-
-## Beziehungsmanagement
-
-* Erst- und Folgegespräche mit Projektmitarbeitern[^5]S.54
-
-
-# Methoden des allgemeinen Managements
-
-
-
-# Methoden der Problemlösung
 
 ## Kreativitätsmethoden
 
@@ -77,6 +66,20 @@ Besonders bekannt:
  
 * das ist eine Punkteliste
   - mit Unterpunkt
+
+
+# Methoden der Projektrealisierung
+
+
+## Beziehungsmanagement
+
+* Erst- und Folgegespräche mit Projektmitarbeitern[^5]S.54
+
+
+
+
+# Methoden des Projektabschlusses
+
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
