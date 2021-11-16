@@ -1,6 +1,6 @@
 ---
 title: Design_Thinking
-tags: agil klassisch
+tags:  klassisch
 author: LKmps2021
 anrechnung: k oder a
 ---
