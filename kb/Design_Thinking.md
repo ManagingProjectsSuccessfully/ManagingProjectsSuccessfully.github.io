@@ -10,6 +10,11 @@ Kurzbeschreibung zu Design_Thinking um ein erstes Verständnis dafür zu schaffe
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
+# Design Thinking
+## Definition
+
+
+
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
