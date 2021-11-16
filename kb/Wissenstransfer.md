@@ -92,7 +92,7 @@ in diesem Kontext eine essenzielle Rolle ein.[^13][^14]
 * [Projektmanagement](Projektmanagement.md)
 * [Wasserfall-Modell](Wasserfall_Modell.md)
 * [Wissenslandkarte](Wissenslandkarte.md)
-* [Wissensmanagement](Wissensmanagement.md)
+* [Wissensmanagement](Wissensmanagament.md)
 * [Wissensmarkt](Wissensmarkt.md)
 * [Wissensspirale](Wissensspirale.md)
 
