@@ -68,7 +68,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Weiterführende Literatur
 
-* Christian Schawel, Fabian Billing (2009): "Top 100 Management Tools", abrufbar auf link.springer.com
+* Christian Schawel, Fabian Billing (2009): "Top 100 Management Tools"
 
 # Quellen
 
