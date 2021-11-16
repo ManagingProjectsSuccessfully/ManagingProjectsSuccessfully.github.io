@@ -26,15 +26,15 @@ Um die Analyse fundiert durchsetzen zu können, sind vorher noch einige wichtige
 | Checkliste  | Second Header |
 | ------------- | ------------- |
 | Ziel der Analyse ? | Content Cell  |
-| Alleiniges Entscheidungskriterium ?  | Content Cell  |
-| Ausmaß des Einflusses auf Entscheidung  | Second Header |
+| Alleiniges Entscheidungskriterium ?  |    |
+| Ausmaß des Einflusses auf Entscheidung  |  |
 | Wer führt die Analyse durch ? |  |
-| Wurden genügend qualitative Merkmale ausgewählt | Content Cell  |
-| Woher kommen Informationen, Daten, Fakten ? | Content Cell  |
-| Wie können Merkmale bewertet werden |  |
-| Angemessener Zeitraum angesetzt |  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Wurden genügend qualitative Merkmale ausgewählt ? |   |
+| Woher kommen Informationen, Daten, Fakten ? |   |
+| Wie können Merkmale bewertet werden ? |  |
+| Angemessener Zeitraum angesetzt ? |  |
+| Content Cell  |   |
+| Content Cell  |   |
 
 
 ## Vorgang der Analyse 
