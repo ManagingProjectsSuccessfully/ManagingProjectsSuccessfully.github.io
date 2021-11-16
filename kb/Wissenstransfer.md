@@ -61,7 +61,7 @@ im selben Zug mehr Mitarbeiterzufriedenheit.[^9]
 Projektorientierte Unternehmen, deren Erscheinungsbild für die Bearbeitung komplexer Aufgaben gut geeignet scheint, birgt dennoch Gefahren
 hinsichtlich der Wissensweitergabe. 
 
-Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgeführt werden. *(siehe Tabelle 1)*
+Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgeführt werden.[^10] *(siehe Tabelle 1)*
 
 | typisches Merkmal                   | Konsequenz                                                                                                                     | 
 | ------------------------------------| -------------------------------------------------------------------------------------------------------------------------------| 
@@ -70,7 +70,7 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 | Personelle [Fluktuation](https://de.wikipedia.org/wiki/Fluktuation)| Erlangtes Expertenwissen geht durch die zeitlich begrenzte Tätigkeit verloren.                  |
 | Neuartige, komplexe Aufgabenstellung| Übertragbarkeit des erworbenen Wissens auf andere Projekte und Aufgabenstellungen ist ungewiss.                                |
 
-*Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer*
+*Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer* [^10][^11]
 
 
 ## Methoden und Instrumente für den Wissenstransfer
@@ -135,6 +135,8 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 [^7]: [Wie funktioniert agiles Projektmanagement?](https://www.cobra.de/wie-funktioniert-agiles-projektmanagement/?utm_source=google&utm_medium=cpc&utm_campaign=crm_software_testversion&pk_campaign=crm_software_testversion&msclkid=faba32df3ce5149e407c53526e2c943f)
 [^8]: [Vorteile eines erfolgreichen Wissenstransfers](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
 [^9]: [Wissenstransfer im Projektmanagement - Sinn und Unsinn von Anreizsystemen](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
+[^10]: [Wissensweitergabe als Ziel](https://www.projektmagazin.de/artikel/wissenstransfer-im-projektmanagement-sinn-und-unsinn-von-anreizsystemen_6939)
+[^11]: Kirsten A. Schröder: Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Identifikation von Einflussfaktoren am Beispiel von Projektteams. Springer-Verlag, 2013, S. 57ff. 
 [^55]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^56]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^57]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
