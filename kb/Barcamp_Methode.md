@@ -5,7 +5,7 @@ author: fabriGH
 anrechnung: a
 ---
 
-Kurzbeschreibung zu Barcamp_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Barcamps sind eine Moderationsmethode für Großgruppen und eignen sich für etwa 30-300 Personen. Dabei stehen ausschließlich die Teilnehmenden mit ihren Themen, Fragen und Beiträgen im Mittelpunkt der Veranstaltung. Welche Themen vor Ort genau besprochen werden legen die Teilnehmer gemeinsam fest. 
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
