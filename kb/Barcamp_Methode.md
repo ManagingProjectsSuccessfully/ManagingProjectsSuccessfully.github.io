@@ -7,7 +7,7 @@ anrechnung: a
 
 ---
 
-![das](https://user-images.githubusercontent.com/92790072/141985691-412d3819-490b-4efc-9eef-7f488a7cc444.jpg)[^9]
+![das](https://user-images.githubusercontent.com/92790072/141985691-412d3819-490b-4efc-9eef-7f488a7cc444.jpg)[^1]
 
 ---
 
@@ -18,10 +18,11 @@ Barcamps sind eine Moderationsmethode für Großgruppen und eignen sich für etw
 
 # Allgemeiner Ablauf eines Barcamps
 
+1. 
 
 
 
-# Aspekt 1
+# Vor und Nachteile von Barcamps
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -85,4 +86,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-[^9]: [Barcamp Koblenz](https://www.google.com/search?q=barcamp&rlz=1C1CHBF_deDE925DE925&sxsrf=AOaemvI_xkjd5EX7DQSDHTe8NRh2TE_FFQ:1637064980591&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjhiJGl7pz0AhUe8LsIHRCrBEEQ_AUoAXoECAEQAw&biw=1745&bih=845&dpr=1.1#imgrc=0YiaNGPD0FX5KM&imgdii=-259atIR1xWCAM)
+[^1]: [Barcamp Koblenz](https://www.google.com/search?q=barcamp&rlz=1C1CHBF_deDE925DE925&sxsrf=AOaemvI_xkjd5EX7DQSDHTe8NRh2TE_FFQ:1637064980591&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjhiJGl7pz0AhUe8LsIHRCrBEEQ_AUoAXoECAEQAw&biw=1745&bih=845&dpr=1.1#imgrc=0YiaNGPD0FX5KM&imgdii=-259atIR1xWCAM)
