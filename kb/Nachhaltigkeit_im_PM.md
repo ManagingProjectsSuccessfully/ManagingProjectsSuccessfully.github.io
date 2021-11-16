@@ -2,7 +2,7 @@
 title: Nachhaltigkeit_im_PM
 tags: klassisch
 author: Miki2701
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Nachhaltigkeit_im_PM um ein erstes Verständnis dafür zu schaffen um was es hier geht.
