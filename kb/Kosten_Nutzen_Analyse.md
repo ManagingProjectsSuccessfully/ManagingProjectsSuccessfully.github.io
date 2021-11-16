@@ -12,7 +12,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Kosten-Nutzen-Analyse
 Im [Projektmanagement](Projektmangement.md) hat der [Projektleiter](Faehigkeiten_Projektleiter) die Aufgabe, Aufträge sinnvoll zu erteilen, sodass diese zum Projekterfolg beitragen. Hierbei kann eine Kosten-Nutzen-Analyse hilfreich sein.
-Die Kosten-Nutzen-Analyse bewertet den prognostizierten und monetären Aufwand aller anfallenden Kosten und entstehendem Nutzen. Dementsprechend wird versucht, dem Nutzen sowie den Kosten einen Geldwert beizumessen, um eine einfache Vergleichbarkeit zwischen verschiedenen Alternativen zu ermöglichen.
+Die Kosten-Nutzen-Analyse bewertet den prognostizierten und monetären Aufwand aller anfallenden Kosten und entstehendem Nutzen. Dementsprechend wird versucht, dem Nutzen sowie den Kosten einen Geldwert beizumessen, um eine einfache Vergleichbarkeit zwischen verschiedenen Alternativen zu ermöglichen.[^2]
 
 Die Ergebnisse der Analyse tragen maßgeblich zu richtungsweisenden Entscheidungen bezüglich z.B. der [Projektplanung](Projektplanung.md) oder -budgetierung bei. 
 ## Rahmenbedingungen 
@@ -21,7 +21,7 @@ Im Vorfeld der Durchführung müssen gewisse Rahmenbedingungen bestimmt werden, 
 Zuallererst wird die zu untersuchende Situation, also die Problem- und Aufgabenstellung, beschrieben. 
 Dem folgt die Benennung von Bewertungskriterien, anhand deren der Nutzen definiert wird. 
 Um der Analyse einen festen Rahmen zu geben, wird ein [Analyse-Umfeld](Umfeldanalyse.md) festgelegt.
-Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.
+Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.[^2]
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -109,7 +109,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: Hüftle, M.(2006); Bewertungsverfahren, http://www.optiv.de/Methoden/BewVerfa/BewVerfa.pdf (aufgerufen am 12.11.2021)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: Angermeier, G.(2005); Kosten-Nutzen-Analyse, https://www.projektmagazin.de/glossarterm/kosten-nutzen-analyse (aufgerufen 09.11.1021)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
