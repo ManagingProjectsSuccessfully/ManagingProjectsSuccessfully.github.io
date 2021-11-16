@@ -13,8 +13,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 # Design Thinking
 ## Definition
 
-Definition 
-“Design Thinking is a method for practical and creative problem-solving, that evolved from fields as varied as engineering, architecture and business. At its core, Design Thinking focuses on understanding people’s needs and creatively discovery of solutions to meet those needs. Its core concepts are understand, explore, prototype and evaluate.”
+*kursive Schrift* “Design Thinking is a method for practical and creative problem-solving, that evolved from fields as varied as engineering, architecture and business. At its core, Design Thinking focuses on understanding people’s needs and creatively discovery of solutions to meet those needs. Its core concepts are understand, explore, prototype and evaluate.”
 – IBM
 
 Design Thinking ist ein menschen-zentrierter Ansatz (Human-Centered Approach) für die Generierung von Lösungen und Innovationen, wobei es sowohl ein Denkansatz als auch ein Prozess-Modell ist. Das Design Thinking unterstützt bei der kreativen Betrachtung einer weiten Bandbreite an innovativen Lösungsmöglichkeiten. In der Praxis in Bezug auf Unternehmen heißt, dass das Design Thinking hilft Unternehmen dabei, die wahren Bedürfnisse und Wünsche ihrer Kunden zu bestimmen. 
