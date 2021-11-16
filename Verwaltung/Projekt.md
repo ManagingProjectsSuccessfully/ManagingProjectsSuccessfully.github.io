@@ -1,8 +1,8 @@
 ---
-title: {Projekt}
-tags: agil klassisch
-author: {GitHubUserName}
-anrechnung: k oder a
+title: {Integrationsmanagement}
+tags: klassisch projektmanagement integrationsmanagement stakeholder
+author: {ow79arux}
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu {Projekt} um ein erstes Verständnis dafür zu schaffen um was es hier geht.
