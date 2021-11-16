@@ -14,6 +14,14 @@ oben im Front-Matter (Bereich zwischen den `---`).
 Im [Projektmanagement](Projektmangement.md) hat der [Projektleiter](Faehigkeiten_Projektleiter) die Aufgabe, Aufträge sinnvoll zu erteilen, sodass diese zum Projekterfolg beitragen. Hierbei kann eine Kosten-Nutzen-Analyse hilfreich sein.
 Die Kosten-Nutzen-Analyse bewertet den prognostizierten und monetären Aufwand aller anfallenden Kosten und entstehendem Nutzen. Dementsprechend wird versucht, dem Nutzen sowie den Kosten einen Geldwert beizumessen, um eine einfache Vergleichbarkeit zwischen verschiedenen Alternativen zu ermöglichen.
 
+Die Ergebnisse der Analyse tragen maßgeblich zu richtungsweisenden Entscheidungen bezüglich z.B. der [Projektplanung](Projektplanung.md) oder -budgetierung bei. 
+## Rahmenbedingungen 
+Im Vorfeld der Durchführung müssen gewisse Rahmenbedingungen bestimmt werden, welche für einen reibungslosen Ablauf sorgen sollen. 
+
+Zuallererst wird die zu untersuchende Situation, also die Problem- und Aufgabenstellung, beschrieben. 
+Dem folgt die Benennung von Bewertungskriterien, anhand deren der Nutzen definiert wird. 
+Um der Analyse einen festen Rahmen zu geben, wird ein Analyse-Umfeld festgelegt.
+Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
