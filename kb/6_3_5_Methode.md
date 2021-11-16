@@ -1,8 +1,8 @@
 ---
 title: 6_3_5_Methode
-tags: agil klassisch
+tags: klassisch
 author: nta01
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu 6_3_5_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
