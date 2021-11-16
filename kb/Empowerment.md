@@ -47,7 +47,7 @@ Auf dem Arbeitsmarkt haben sich außerdem Angebot und Nachfrage stark verändert
 * [Selbstorganisierende_Teams](Selbstorganisierende_Teams.md)
 * [Teammanagement](Teammanagement.md)
 * [Change Management](Change_Management.md)
-* [Änderungsmanagement](Änderungsmanagement.md)
+* [Änderungsmanagement](Aenderungsmanagement.md)
 
 # Weiterführende Literatur
 
