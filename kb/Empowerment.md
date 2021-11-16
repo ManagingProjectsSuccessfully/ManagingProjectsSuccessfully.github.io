@@ -20,7 +20,7 @@ Im Sinne des [Projektmanagements](Projektmanagement.md) bedeutet [Empowerment](E
 
 # Bedingungen für [Empowerment](Empowerment.md)
 
-Damit die [Mitarbeiter](Projektmitarbeiter.md) eines [Projektes](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen, müssen hierarchische und bürokratische Blockaden reduziert werden[^6]. Des Weiteren erfordern hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) eine offene Fehlerkultur, in der Vertrauen aufgebaut werden kann[^7][^6]. Somit können durch [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt und Prozesse verbessert werden[^3]. [Empowerment](Empowerment.md) meint also, dass jeder für die Gewinne, Produkte und Leistungen des Unternehmens [verantwortlich](Verantwortlichkeiten.md) ist. Aus mehr [Verantwortung](Verantwortlichkeiten.md) folgt wiederum verstärktes [Mitarbeiter](Projektmitarbeiter.md)engagement in [Projekten](Projekt.md)[^6]. [Empowerment](Empowerment.md) ermöglicht somit [Projekt](Projekt.md)arbeit[^1].
+Damit die [Mitarbeiter](Projektmitarbeiter.md) eines [Projektes](Projekt.md) nicht zögern, wichtige Entscheidungen zu treffen, müssen hierarchische und bürokratische Blockaden reduziert werden[^5]. Des Weiteren erfordern hochproduktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) eine offene Fehlerkultur, in der Vertrauen aufgebaut werden kann[^7][^6]. Somit können durch [Empowerment](Empowerment.md) das eigene Handeln und Denken der [Projektmitarbeiter](Projektmitarbeiter.md) angeregt und Prozesse verbessert werden[^3]. [Empowerment](Empowerment.md) meint also, dass jeder für die Gewinne, Produkte und Leistungen des Unternehmens [verantwortlich](Verantwortlichkeiten.md) ist. Aus mehr [Verantwortung](Verantwortlichkeiten.md) folgt wiederum verstärktes [Mitarbeiter](Projektmitarbeiter.md)engagement in [Projekten](Projekt.md)[^6]. [Empowerment](Empowerment.md) ermöglicht somit [Projekt](Projekt.md)arbeit[^1].
 
 # Vorteile durch [Empowerment](Empowerment.md)
 
@@ -63,5 +63,5 @@ Auf dem Arbeitsmarkt haben sich außerdem Angebot und Nachfrage stark verändert
 [^2]: [Warum ist Empowerment so wichtig?](https://www.thesoundofexport.com/warum-ist-empowerment-so-wichtig/)
 [^3]: [Empowerment im agilen Kontext: Die 5 Wege zum Empowerment](https://www.berlinerteam.de/magazin/empowerment/)
 [^4]:[Empowerment](https://de.wikipedia.org/wiki/Empowerment)
-[^6]:[Empowerment: Teil der Managementkonzepte von morgen](https://media.zweikern.com/de/index/empowerment)
+[^5]:[Empowerment: Teil der Managementkonzepte von morgen](https://media.zweikern.com/de/index/empowerment)
 [^7]:[Empowerment des Teams](https://project-base.org/projektmanagement-glossar/empowerment-des-teams/)
