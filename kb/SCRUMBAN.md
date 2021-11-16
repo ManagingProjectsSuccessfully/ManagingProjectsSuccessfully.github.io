@@ -7,9 +7,8 @@ anrechnung: klassisch
 
 Kurzbeschreibung zu SCRUMBAN um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Scrumban ist ein aus Scrum und Kanban gebildetes Kunstwort und beschreibt einen Methodenmix der beiden.[^1]
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Scrumban ist ein aus Scrum und Kanban gebildetes Kunstwort und beschreibt einen Methodenmix der beiden[^1]. Dafür werden verschiedene Aspekte beider Methoden angewandt, auf die ich hier anschließend näher eingehen werde.
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
