@@ -5,10 +5,21 @@ author: fabriGH
 anrechnung: a
 ---
 
+---
+
+![das](https://user-images.githubusercontent.com/92790072/141983491-12201156-a0c4-4682-994f-986abaaad11c.jpg)
+
+[Barcamp Koblenz](https://www.google.com/search?q=barcamp&rlz=1C1CHBF_deDE925DE925&sxsrf=AOaemvI_xkjd5EX7DQSDHTe8NRh2TE_FFQ:1637064980591&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjhiJGl7pz0AhUe8LsIHRCrBEEQ_AUoAXoECAEQAw&biw=1745&bih=845&dpr=1.1#imgrc=0YiaNGPD0FX5KM&imgdii=-259atIR1xWCAM)
+---
+
+# Was ist ein Barcamp?
+
 Barcamps sind eine Moderationsmethode für Großgruppen und eignen sich für etwa 30-300 Personen. Dabei stehen ausschließlich die Teilnehmenden mit ihren Themen, Fragen und Beiträgen im Mittelpunkt der Veranstaltung. Welche Themen vor Ort genau besprochen werden legen die Teilnehmer gemeinsam fest. Ziele von Barcamps sind meist das Lösen von Problemen wie auch das Provozieren von Innovationen durch Zusammentreffen der Teilnehmer aus verschiedenen Bereichen des Unternehmens bzw. der Forschungsgruppe.
 
 
-# Hier ein test
+# Allgemeiner Ablauf eines Barcamps
+
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
