@@ -9,7 +9,7 @@ Die 6_3_5_Methode ist eine Brainwriting-Kreativitätstechnik. Hierbei erhalten 6
 
 ![Abbildung](6_3_5_Methode/6-3-5-methode.jpeg)
 
-*6_3_5-Methode*
+*6_3_5-Methode*[^3]
 
 # Einführung
 
@@ -74,6 +74,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: https://kreativitätstechniken.info/ideen-generieren/6-3-5-methode/
 [^2]: [Christian Schawel, Fabian Billing (2009): "Top 100 Management Tools"](https://link.springer.com/content/pdf/10.1007%2F978-3-8349-8185-1.pdf)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: Graphic-Recording-digital-Methode-635.jpeg
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
