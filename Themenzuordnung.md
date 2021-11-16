@@ -31,7 +31,6 @@ author: anniSc
 | [Innovationsprojekte](kb/Innovationsprojekte.md)                                                                                   | [pamerkl](https://github.com/pamerkl)                         |
 | [Forschungsprojekte](kb/Forschungsprojekte.md)                                                                                     | [CatrinSc](https://github.com/CatrinSc)                       |
 | [Entwicklungsprojekte](kb/Entwicklungsprojekte.md)                                                                                 | [katjasc](https://github.com/katjasc)                         |
-| [Organisationsprojekte](kb/Organisationsprojekte.md)                                                                               | [LauraMancini99](https://github.com/LauraMancini99)           |
 | [IT-Projekte](kb/IT-Projekte.md)                                                                                                   | [Adaye1e](https://github.com/Adaye1e)                         |
 | [Bauprojekte](kb/Bauprojekte.md)                                                                                                   | [Constll](https://github.com/Constll)                         |
 | [Pionierprojekte](kb/Pionierprojekte.md)                                                                                           | [alexandermueller296](https://github.com/alexandermueller296) |
@@ -65,7 +64,6 @@ author: anniSc
 | [Externe_Synergieeffekte](kb/Externe_Synergieeffekte.md)                                                                           | [corinnaneubauer](https://github.com/corinnaneubauer)         |
 | [Aktuelle_Entwicklungen_im_PM](kb/Aktuelle_Entwicklungen_im_PM.md)                                                                 | [zo54hoko](https://github.com/zo54hoko)                       |
 | [Projektteam_Kultur](kb/Projektteam_Kultur.md)                                                                                     | [LaHe27](https://github.com/LaHe27)                           |
-| [Starke_Nachhaltigkeit](kb/Starke_Nachhaltigkeit.md)                                                                               | [LauraMancini99](https://github.com/LauraMancini99)           |
 | [Triple_Bottomline_Nachhaltigkeit](kb/Triple_Bottomline_Nachhaltigkeit.md)                                                         | [JaBa3000](https://github.com/JaBa3000)                       |
 | [Praxisbeispiele_erfolgreiche_Projekte](kb/Praxisbeispiele_erfolgreiche_Projekte.md)                                               | [Goschu1](https://github.com/Goschu1)                         |
 | [Praxisbeispiele_gescheiterte_Projetke](kb/Praxisbeispiele_gescheiterte_Projetke.md)                                               | [at33fau](https://github.com/at33fau)                         |
