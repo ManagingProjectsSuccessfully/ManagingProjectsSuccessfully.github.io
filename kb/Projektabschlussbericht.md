@@ -69,7 +69,7 @@ besprochen werden und Erkenntnisse für zukünftige Projekte gewonnen werden.
 
 # Fazit
 
-![Beispielabbildung](Projektabschlussbericht/test-file.jpg)
+![Beispielabbildung](Projektabschlussbericht/peco-pm-projektabschluss-erfahrungssicherung-xl.png)
 
 Zusammenfassend lässt sich sagen, dass der Projektabschlussbericht durchaus einen großen Aufwand an Bürokratie darstellt. Dennoch können daraus viele brauchare  
 Erkenntnisse gezogen werden, welche man positiv auf kommende Projekte projizieren und Vorgehensweisen optimieren kann. 
