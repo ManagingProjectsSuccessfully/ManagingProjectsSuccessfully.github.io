@@ -20,7 +20,7 @@ Im Vorfeld der Durchführung müssen gewisse Rahmenbedingungen bestimmt werden, 
 
 Zuallererst wird die zu untersuchende Situation, also die Problem- und Aufgabenstellung, beschrieben. 
 Dem folgt die Benennung von Bewertungskriterien, anhand deren der Nutzen definiert wird. 
-Um der Analyse einen festen Rahmen zu geben, wird ein Analyse-Umfeld festgelegt.
+Um der Analyse einen festen Rahmen zu geben, wird ein [Analyse-Umfeld](Umfeldanalyse.md) festgelegt.
 Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
