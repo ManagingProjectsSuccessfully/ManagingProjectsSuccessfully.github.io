@@ -1,8 +1,8 @@
 ---
 title: Retrospective
-tags: agil klassisch
+tags: agil 
 author: nta01
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Retrospective um ein erstes Verständnis dafür zu schaffen um was es hier geht.
