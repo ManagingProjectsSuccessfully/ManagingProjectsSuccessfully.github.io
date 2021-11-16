@@ -34,9 +34,9 @@ Des Weiteren sind Künstliche Intelligenzen in der Lage frühzeitig Termin- oder
 Zunächst ist KI-Software nicht dazu da die Mitarbeiter zu überwachen[^6] oder zu ersetzen[^7], sie soll lediglich ein nachhaltiges Arbeitstempo schaffen, Engpässe erkennen und Mitarbeiter:innen in der Projektarbeit vor Lastspitzen schützen und eine höhere Zufriedenheit gewähren[^6]. Des Weiteren sind die Bedenken, dass der Mitarbeiter durch eine KI  ersetzt wird eher unwahrscheinlich, denn die Handlungsempfehlungen zu verhandeln oder Stakeholder zu akquirieren werden auch in Zukunft ein Projektmanager:innen übernehmen müssen. Außerdem werden Projektmanager:innen nicht nur noch für das Treffen von Entscheidungen oder Stakeholderakquirierung zuständig sein sondern auch für die Implementierung von AI-Systemen[^5]. Ein weiterer Aspekt der die Bedenken schmälern könnte ist, dass die Entwicklung sogennanter "starker KI", welche ein eigenes Bewusstsein besitzen[^3], bis 2033 eine Wahrscheinlichkeit von 50% hat[^6].
 
 # Weiterführende Literatur
-Buch: KI für Projektmanagement: https://shop.haufe.de/prod/cashkurs-ki-im-unternehmen
-Video: KI im Projektmanagement – was kann's? (Teil 1): https://www.youtube.com/watch?v=eBtxz60kCjY
-KI im Projektmanagement – was kann's? (Teil 2): https://www.youtube.com/watch?v=mr5EBwpVR4Y
+- Buch: KI für Projektmanagement: https://shop.haufe.de/prod/cashkurs-ki-im-unternehmen,
+- Video: KI im Projektmanagement – was kann's? (Teil 1): https://www.youtube.com/watch?v=eBtxz60kCjY,
+- Video: KI im Projektmanagement – was kann's? (Teil 2): https://www.youtube.com/watch?v=mr5EBwpVR4Y
         
 
 # Quellen
