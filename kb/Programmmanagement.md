@@ -25,19 +25,20 @@ Fasst man die beiden Begriffsdefinitionen nun zusammen, so beschreibt das Progra
 
 Programme sind grundlegend Managementaufgaben auf Zeit. Auch besteht meist eine entsprechende Komplexität und ein gewisser Umfang.[^1] Die Projekte innerhalb des Programms sind oftmals miteinander verbunden und hängen dabei voneinander ab. Im Vordergrund steht das Erreichen des strategischen Ziels durch die Koordination von Maßnahmen und Projekten. Die Bedeutung für das Unternehmen ist meist von strategischer Natur.[^4]
 
+## Abbildung folgt
+
 # Abgrenzung
 
 Das PM besitzt meist zyklische oder sich wiederholende Vorgänge. Im Vergleich dazu fokussiert sich das Projektmanagement auf ein einzelnes Projekt.[^4] 
 Projektportfolio bezeichnet dagegen die Zusammenfassung aller geplanten, genehmigten und laufenden Projekte und Programme eines Unternehmens.[^1]
-Folgende Grafik soll noch einmal die Beziehung der drei Managementarten visuell darstellen:
-
-## Abbildung folgt
 
 
 # Aufgaben des Programmmanagers
 
 Innerhalb des Programmmanagements gibt es verschiedene Rollen und Aufgaben. In diesem Abschnitt soll aber explizit auf die Aufgaben des Programmmanagers eingegangen werden.
-Unter anderem hat der Programmmanager die Entscheidungsbefugnis zwischen den Projekten die Start- und Endtermine, das Budget sowie die Ressourcen zu verschieben.[^4] Weitere wichtige Verantwortungsbereiche eines Programmmanagers sind:
+Unter anderem hat der Programmmanager die Entscheidungsbefugnis zwischen den Projekten die Start- und Endtermine, das Budget sowie die Ressourcen zu verschieben.[^4] 
+
+Weitere wichtige Verantwortungsbereiche eines Programmmanagers sind:
 
 -	das Definieren und Erreichen der Programmziele
 -	eine aggregierte Risikobetrachtung
@@ -50,7 +51,9 @@ Der wesentliche Nutzen des Programmmanagements ist die effektivere und effizient
 # Fazit
 
 Insgesamt lässt sich also festhalten, dass es keine einheitliche Definition des Programmmanagement gibt und diese dadurch stark variiert. 
+
 Dennoch steht eins fest: das PM beschäftigt sich mit der Planung, Kontrolle und Steuerung von mehreren, miteinander in Beziehung stehenden Projekten mit dem Zweck, bestimmte Unternehmensziele zu erreichen. Dabei eignet sich das PM laut Dr. Georg Angermeier vor allem als Konzept für das Management von großen, komplexen Vorhaben.[^7]
+
 Eine striktere Abgrenzung von weiteren Managementbegriffen erscheint dennoch sinnvoll.
 
 
@@ -72,10 +75,10 @@ http://projektmanagement-definitionen.de/glossar/programm-management/
 
 # Quellen
 
-[^1]: [Seidl, J., Multiprojektmanagement: Übergreifende Steuerung von Mehrprojektsituationen durch Projektportfolio- und Programmmanagement, o.O., 2011]
+[^1]: [Seidl, J., Multiprojektmanagement: Übergreifende Steuerung von Mehrprojektsituationen durch Projektportfolio- und Programmmanagement, 2011 (S.7, S.11, S.7, S.6)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-16723-2.pdf)
 [^2]: [Definition des Programmmanagements](https://erfolgreich-projekte-leiten.de/projekt-programm-multiprojekt-projektportfoliomanagement/)
 [^3]: [Definition des Managements laut Duden](https://www.duden.de/rechtschreibung/Management)
-[^4]: [Görtz, B., Programm-Management: Großprojekte planen, steuern und kontrollieren, o.O., 2013]
+[^4]: [Görtz, B., Programm-Management: Großprojekte planen, steuern und kontrollieren, 2013 (S.12, S.12f., S.2, S.12)](https://docplayer.org/75365903-Programm-management-grossprojekte-planen-steuern-und-kontrollieren-bearbeitet-von-burkhard-goertz-silke-schoenert-kim-norman-thiebus.html)
 [^5]: [Aufgaben des Programmmanagers](https://www.planview.com/de/resources/guide/ppm-solution-guide-beginners/project-management-vs-program-management-vs-portfolio-management/)
 [^6]: [Gründe für das Programmmanagement](https://www.can-do.de/blog/it-program-management-office-richtig-strukturieren)
 [^7]: [Expertenmeinung zum Programmmanagement](https://www.projektmagazin.de/glossarterm/programm-management)
