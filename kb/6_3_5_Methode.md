@@ -34,6 +34,7 @@ Die 3_6_5 Methode läuft wie folgt ab:
 | 1. Runde  | 5 Minuten Zeit für 3 Ideen. Dieses sollen knapp und verständlich auf dem Vordruck aufgeschrieben werden.  |
 | 2. Runde  | 5 Minuten Zeit, der Vordruck wird im Uhrzeigersinn weitergegeben. Ideen dürfen modifiziert, erweitert oder ergänzt werden.|
 | Folgende Runden| Vorgehen wie in der 2. Runde. Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können. |
+
 *Abbildung: Vorgehen bei der 6_3_5-Methode*[^2]
 
 # Siehe auch
