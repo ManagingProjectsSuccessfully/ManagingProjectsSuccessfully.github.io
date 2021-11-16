@@ -10,8 +10,8 @@ Die Kosten-Nutzen-Analyse ist ein Bewertungsverfahren, das die Wirtschaftlichkei
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-Im [Projektmanagement](Projektmangement.md) hat der Projektleiter die Aufgabe, Aufträge sinnvoll zu erteilen, sodass diese zum Projekterfolg beitragen. Hierbei kann eine Kosten-Nutzen-Analyse hilfreich sein.
+# Kosten-Nutzen-Analyse
+Im [Projektmanagement](Projektmangement.md) hat der [Projektleiter](Faehigkeiten_Projektleiter) die Aufgabe, Aufträge sinnvoll zu erteilen, sodass diese zum Projekterfolg beitragen. Hierbei kann eine Kosten-Nutzen-Analyse hilfreich sein.
 Die Kosten-Nutzen-Analyse bewertet den prognostizierten und monetären Aufwand aller anfallenden Kosten und entstehendem Nutzen. Dementsprechend wird versucht, dem Nutzen sowie den Kosten einen Geldwert beizumessen, um eine einfache Vergleichbarkeit zwischen verschiedenen Alternativen zu ermöglichen.
 
 
