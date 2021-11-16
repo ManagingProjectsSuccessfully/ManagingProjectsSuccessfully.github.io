@@ -5,7 +5,8 @@ author: Lorybr
 anrechnung: k
 ---
 
-Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen Elementen, wie Zeit, Ressourcen und Menschen [siehe Beitrag: Projektmanagement].Um ein erfolgreiches Projekt zu managen, müssen diese Elemente effektiv integriert und verwaltet werden. [^1]
+Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen Elementen, wie Zeit, Ressourcen und Menschen (siehe: [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ).Um ein erfolgreiches Projekt zu managen, müssen diese Elemente effektiv integriert und verwaltet werden. [^1]
+
 Aufgrund der Komplexität des Projektmanagements können sogenannte ,,Projektmanagement-Stolpersteine“ während des Prozesses auftreten. Auch wenn zum Beginn eines Projekts Optimismus herrschen kann, dass diesmal alles glatt gehen wird, kann man währenddessen überrascht werden, dass alles doch nicht nach dem Plan läuft, wie gewünscht.[^2]
 Im Folgenden werden die typischen Projektmanagement Fallstricken dargestellt und des Weiteren, wie man sie vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu verbessern.
 
@@ -20,9 +21,9 @@ Ein Projektplan-ein formelles Dokument, in dem alle Entscheidungen und Schritte 
 
 # 2. Mangelhafte Kommunikation 
 
-Schlechte Kommunikation ist ein wichtiger Faktor, der den Erfolg eines Projekts stark beeinflussen gefährden kann. Ein Mangel an effektiver Kommunikation kann zu Verwirrung und Verzögerungen führen und die Qualität der Arbeit und der Aufgaben des Projekts beeinträchtigen. [^1] [siehe: Projektkommunikation]
+Schlechte Kommunikation ist ein wichtiger Faktor, der den Erfolg eines Projekts stark beeinflussen gefährden kann. Ein Mangel an effektiver Kommunikation kann zu Verwirrung und Verzögerungen führen und die Qualität der Arbeit und der Aufgaben des Projekts beeinträchtigen. [^1] (siehe: [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md))
 ## Lösung: 
-* Eine effektive Kommunikation steht im Mittelpunkt der Teamzusammenarbeit. Tägliche oder wöchentliche Besprechungen, indem jeder Mitarbeiter Mitspracherecht hat und Feedbacks geben kann, können dabei helfen, sich gegenseitig besser zu verstehen um effektiver das Ziel zu erreichen (siehe [Daily Scrum Beitrag])[^1]. 
+* Eine effektive Kommunikation steht im Mittelpunkt der Teamzusammenarbeit. Tägliche oder wöchentliche Besprechungen, indem jeder Mitarbeiter Mitspracherecht hat und Feedbacks geben kann, können dabei helfen, sich gegenseitig besser zu verstehen um effektiver das Ziel zu erreichen (siehe [Daily Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md))[^1]. 
 *	Eine gute Technische Infrastruktur mit Projektmanagement-Tools, kann ebenso den Teammitgliedern ermöglichen, ihren Fortschritt in Echtzeit zu aktualisieren und somit mit anderen zu kommunizieren. [^1]
 *	Ebenso ist eine ausführliche Kommunikation mit dem Kunden/ Stakeholder nicht zu vernachlässigen, denn nur so ist man sich sicher, dass man auf dem richtigen Weg ist, die Wünsche der Kunde zutreffend zu erfüllen. [^1]
 
@@ -31,7 +32,7 @@ Schlechte Kommunikation ist ein wichtiger Faktor, der den Erfolg eines Projekts 
 
 Einen großen Fallstrick stellen die unrealistischen Ziele, zu kurze Deadlines, die unmöglich sind zu erreichen sind, oder falsch eingeschätzte Budgets, dar. Dies kann nicht nur schädlich für den Erfolg des Unternehmens sein, sondern auch für die Moral und das Vertrauen der Team-Mitglieder. 
 ## Lösung:
-Man muss realistisch die Situation betrachten, in Abhängigkeit von Ressourcen, Arbeitskräfte, Budget und Fristen. Man soll sich fragen, was von dem Team zu erwarten ist, ob das physisch möglich ist, und ob sich die Zeitpläne der Planungsphase mit den vorgeschlagenen Fristen und das vorhandene Budget anpassen [^1]. [siehe Zeitplanung]
+Man muss realistisch die Situation betrachten, in Abhängigkeit von Ressourcen, Arbeitskräfte, Budget und Fristen. Man soll sich fragen, was von dem Team zu erwarten ist, ob das physisch möglich ist, und ob sich die Zeitpläne der Planungsphase mit den vorgeschlagenen Fristen und das vorhandene Budget anpassen [^1] (siehe [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)).
 
 
 # 4. Fehlende Aufteilung von Projekten in kleinere Aufgaben
@@ -50,8 +51,9 @@ Zusammenfassend lässt sich sagen, dass man mit einem klar definierten Ziel, ein
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Typische_Projektmanagement_Fallstricke.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)
+* [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md)
 
 # Weiterführende Literatur
 
