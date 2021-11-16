@@ -7,23 +7,35 @@ anrechnung: k oder a
 Die Kosten-Nutzen-Analyse ist ein Bewertungsverfahren, das die Wirtschaftlichkeit von [Projekten](Projekt.md) prüft und den monetär bewerteten Nutzen mit den Kosten einer Maßnahme vergleicht.
 > „Zweck der Analyse ist die Auswahl der Alternative aus einer Menge von möglichen Alternativen, deren Realisierung ein Gesamtziel am effektivsten erfüllt.“(Hüftle, 2006)[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
 # Kosten-Nutzen-Analyse
 Im [Projektmanagement](Projektmangement.md) hat der [Projektleiter](Faehigkeiten_Projektleiter) die Aufgabe, Aufträge sinnvoll zu erteilen, sodass diese zum Projekterfolg beitragen. Hierbei kann eine Kosten-Nutzen-Analyse hilfreich sein.
 Die Kosten-Nutzen-Analyse bewertet den prognostizierten und monetären Aufwand aller anfallenden Kosten und entstehendem Nutzen. Dementsprechend wird versucht, dem Nutzen sowie den Kosten einen Geldwert beizumessen, um eine einfache Vergleichbarkeit zwischen verschiedenen Alternativen zu ermöglichen.[^2]
 
 Die Ergebnisse der Analyse tragen maßgeblich zu richtungsweisenden Entscheidungen bezüglich z.B. der [Projektplanung](Projektplanung.md) oder -budgetierung bei. 
 ## Rahmenbedingungen 
-Im Vorfeld der Durchführung müssen gewisse Rahmenbedingungen bestimmt werden, welche für einen reibungslosen Ablauf sorgen sollen. 
+Im Vorfeld der Durchführung müssen gewisse Rahmenbedingungen bestimmt werden, sowie Voraussetzungen erfüllt sein, welche für einen reibungslosen Ablauf sorgen sollen. 
 
 * Zuallererst wird die zu untersuchende Situation, also die Problem- und Aufgabenstellung, beschrieben. 
 * Dem folgt die Benennung von Bewertungskriterien, anhand deren der Nutzen definiert wird. 
 * Um der Analyse einen festen Rahmen zu geben, wird ein [Analyse-Umfeld](Umfeldanalyse.md) festgelegt.
 * Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.[^2]
 
-Innerhalb dieses Rahmens erfolgt nun die eigentliche Analyse. 
+Innerhalb dieses Rahmens erfolgt die eigentliche Analyse. 
+
+Um die Analyse fundiert durchsetzen zu können, sind vorher noch einige wichtige Aspekte zu berücksichtigen.
+| Checkliste  | Second Header |
+| ------------- | ------------- |
+| Ziel der Analyse ? | Content Cell  |
+| Alleiniges Entscheidungskriterium ?  | Content Cell  |
+| Ausmaß des Einflusses auf Entscheidung  | Second Header |
+| Wer führt die Analyse durch ? |  |
+| Wurden genügend qualitative Merkmale ausgewählt | Content Cell  |
+| Woher kommen Informationen, Daten, Fakten ? | Content Cell  |
+| Wie können Merkmale bewertet werden |  |
+| Angemessener Zeitraum angesetzt |  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 ## Vorgang der Analyse 
 
@@ -50,11 +62,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
-Checkliste zur Kosten-Nutzen-Analyse (Fußnote rein !!)
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 
 
 
