@@ -4,7 +4,7 @@ tags: klassisch
 author: Goschu1
 anrechnung: k 
 ---
-Dieser Artikel handelt von erfolgreichen Großprojekten, die Unternehmen oder einen Staat maßgeblich vorangebracht haben. 
+Dieser Artikel handelt von exemplarischen erfolgreichen Großprojekten, die Unternehmen und sogar einen Staat maßgeblich vorangebracht haben. Wie Erfolg im Projektmanagement definiert ist könnnen Sie [hier] nachlesen. 
 
 
 
@@ -12,10 +12,17 @@ Dieser Artikel handelt von erfolgreichen Großprojekten, die Unternehmen oder ei
 [Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) 
 
+# Einführung des iPhones
+
+Steves Jobs, der Gründer von Apple und damaliger CEO, Idee in den Mobiltelefonmarkt einzusteigen entstand 2005. Er sah die Gefahr, dass der Markt der MP3-Player und damit auch des iPods schrumpfen wird, weil die damaligen Handy-Modelle inzwischen ebenfalls Musik speichern und abspielen konnten. Die Verantwortlichen Projektleiter für die Entwicklung des ipods bekamen von Steve Jobs den Auftrag unter dem Projektnamen "Project Purple" aus dem bestehenden iPod ein Mobiltelefon zu konstruieren.[^7]. Da das Navigieren mittels Click Wheel, wie zum Beispiel beim Wählen von Telefonnummern, sehr umständlich war, wurde das bis dahin geheime Projekt, welches die Machbarkeit eines Tablet-Computers prüfte, hinzugezogen. Es entstand ein Mobiltelefon mit einem verglasten 3.5 Zoll Display, welches durch Berührungen mit den Fingern bedient werden konnte. Durch die Innovationskraft von diesem Projekt war das iPhone ein Pionier auf dem Mobiltelefon-Markt. Die Preise lagen bei 499 bzw. 599 Dollar inklusive einem zweijährigen Vertrag mit AT&T. Das iPhone wurde am 9. Januar 2007 an der Apple Messe MacWorld vorgestellt und ging am 29. Juni dieses Jahres in Amerika in den Verkauf. Bereits am ersten Verkaufswochenende wurden eine halbe Million Exemplare verkauft. Das iphone ist bis heute ein gigantischer finanzieller Erfolg. Steve Jobs ebnete mit diesem Projekt den Weg für das modere Smartphone.
+
+![Steve Jobs IPhone Vorstellung](Praxisbeispiele_erfolgreiche_Projekte/iphone-steve-jobs.jpeg)
 
 # Drei-Schluchten-Talsperre China
 
-Eines der größten Multi-Milliarden-Projekte der frühen 2000er, welches sogar die Erdrotation beeinflusst, war die Drei-Schluchten-Talsperre in China. [^2] Auch wenn es anfänglich viel Kritik an dem Projekt gab, hauptsächlich durch die unfassbaren Projektkosten von ca. 75 Milliarden USD bis 2013 und Zwangsumsiedelungen von mehr als einer Millionen Menschen, war das Projekt ein voller Erfolg. China bezieht ca. 75% der Energiegewinnung aus höchst umweltschädlichen Kohlekraftwerken, mit einer jährlich gewonnen Energie von 22,5 Gigawatt konnte durch das Wasserkraftwerk die Verstromung von über 49 Millionen Tonnen Kohle pro Jahr vermieden werden.[^3] Bis heute ist es das produktionsstärkste Kraftwerk der Welt.[^4] Das Kraftwerk greift extrem in die Natur ein, was erstmal sehr drmatisch klingt hat aber auch seine Vorteile. China fällt fast jährlich rießigen FLuten und Überschwemmungen zum Opfer, welche tausenden Tote fordern. Der Staudamm beugt genau das seit mehr als erfolgreich 18 Jahren vor.[^5] 
+Eines der größten Multi-Milliarden-Projekte der frühen 2000er, welches sogar die Erdrotation beeinflusst, war die Drei-Schluchten-Talsperre in China. [^2] Das Wasserkraftwerk wurde im längsten Fluss Chinas, der [Jangste](https://de.wikipedia.org/wiki/Jangtsekiang), errichtet. Auch wenn es anfänglich viel Kritik an dem Projekt gab, hauptsächlich durch die unfassbaren Projektkosten von ca. 75 Milliarden USD bis 2013 und Zwangsumsiedelungen von mehr als einer Millionen Menschen, war das Projekt ein voller Erfolg. China bezieht ca. 75% der Energiegewinnung aus höchst umweltschädlichen Kohlekraftwerken, mit einer jährlich gewonnen Energie von 22,5 Gigawatt konnte durch das Wasserkraftwerk die Verstromung von über 49 Millionen Tonnen Kohle pro Jahr vermieden werden.[^3] Bis heute ist es das produktionsstärkste Kraftwerk der Welt.[^4] Der Staudamm greift extrem in die Natur ein, was erstmal sehr drmatisch klingt hat aber auch seine Vorteile. China fällt fast jährlich rießigen FLuten und Überschwemmungen zum Opfer, welche tausenden Tote fordern. Der Staudamm beugt genau das seit mehr als erfolgreich 18 Jahren vor.[^5] 
+
+![Drei-Schluchten-Talsperre](Praxisbeispiele_erfolgreiche_Projekte/Drei-Schluchten-Damm-in-China.jpg)
 
 
 # Projektmanagement bei American Airlines
@@ -26,11 +33,7 @@ Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressour
 ![American-Airline](Praxisbeispiele_erfolgreiche_Projekte/AmericanAirlines.jpg)
 
 
-# Einführung des IPhones
 
-Steves Jobs (Gründer von Apple und damaliger CEO) Idee in den Mobiltelefonmarkt einzusteigen entstand 2005. Er sah die Gefahr, dass der Markt der MP3-Player und damit auch des iPods schrumpfen wird, weil die damaligen Handy-Modelle inzwischen ebenfalls Musik speichern und abspielen konnten. Die Verantwortlichen Projektleiter für die Entwicklung des Ipods bekamen von Steve Jobs den Auftrag unter dem Projektnamen "Project Purple" aus dem bestehenden iPod ein Mobiltelefon zu konstruieren.[^7]. Da das Navigieren mittels Click Wheel, wie zum Beispiel beim Wählen von Telefonnummern, sehr umständlich war, wurde das bis dahin geheime Projekt, welches die Machbarkeit eines Tablet-Computers prüfte, hinzugezogen. Es entstand ein Mobiltelefon mit einem verglasten 3.5 Zoll Display, welches durch Berührungen mit den Fingern bedient werden konnte. Der integrierte ARM-Chip war mit 412 Megahertz getaktet und wurde durch 128 Megabyte Arbeitsspeicher unterstützt. Das erste iPhone wurde in einer 4 bzw. 8 Gigabyte Speicherkonfiguration verkauft. Die Preise lagen bei 499 bzw. 599 Dollar inklusive einem zweijährigen Vertrag mit AT&T. Das iPhone wurde am 9. Januar 2007 an der Apple Messe MacWorld vorgestellt und ging am 29. Juni dieses Jahres in Amerika in den Verkauf. Bereits am ersten Verkaufswochenende wurden eine halbe Million Exemplare verkauft. Das Iphone ist bis heute ein gigantischer finanzieller Erfolg. Steve Jobs ebnete mit seiner Idee und mit diesem Projekt den Weg für das modere Smartphone.
-
-![Steve Jobs IPhone Vorstellung](Praxisbeispiele_erfolgreiche_Projekte/iphone-steve-jobs.jpeg)
 
 # Siehe auch
 
