@@ -71,4 +71,5 @@ Zusammenfassend lässt sich sagen, dass Scrum-Transparenz eine wichtige Vorausse
 [^2]:  Schönfeld, Patrik (2020) :,,Die drei Säulen von Scrum » : https://chaosverbesserer.de/blog/2019/09/23/die-drei-saeulen-von-scrum/
 [^3]: Doshi, Hiren: The Three Pillars of Empiricism (Scrum) | Scrum.org : https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum
 [^4]: Reinold, Daniel: Daily Scrum - kurz erklärt [Varianten & Tipps]: https://www.projektmagazin.de/methoden/daily-scrum
+Bild: Scrum-Säulen: https://verovis.com/agiles-projektmanagement-mit-scrum/
 
