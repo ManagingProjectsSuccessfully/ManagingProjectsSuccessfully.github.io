@@ -10,7 +10,7 @@ Obwohl 90% der Projektmanagement-Fachleute überzeugt sind vom Einsatz von KI im
 
 * Was ist KI-Software?
   - Arten von KI-Software
-* Nutzen und Kritik
+* Nutzen und Relativierung
   - Nutzen von KI-Software für Projektmanagement
   - Relativierung von Bedenken an die KI-Software für Projektmanagement
 
