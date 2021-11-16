@@ -20,27 +20,16 @@ Die 6_3_5_Methode ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainst
 Die 6_3_5 Methode bietet folgende Vorteile[^2]:
 
 * Vermeidet Spannungen im Team während der Ideenfindung
-* Alle Teilnehmer werden gleichermaßen aktiv. Somit bringt sich jeder ein und die Lösungsvorschläge sind vielfältig.
+* Alle Teilnehmer*innen werden gleichermaßen aktiv. Somit bringt sich jeder ein und die Lösungsvorschläge sind vielfältig.
 * Kreativitätssteigerung durch Aufbau auf bereits geschriebene Ideen möglich
 * Größere Gruppe können in kleine 6er-Gruppen aufgeteilt werden, die Methode ist auch für große Teams anwendbar.
 
-# Aspekt 2
+# Vorgehen
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
+| Schritt   | Erläuterung | 
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Einführung  | Erklärung der Methode für die Teilnehmer*innen  |
+| 1. Runde  | Content Cell  |
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
