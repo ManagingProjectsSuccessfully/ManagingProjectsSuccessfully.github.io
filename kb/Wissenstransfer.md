@@ -77,14 +77,14 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 
 Ausschlaggebend für die Anwendung gewisser Methoden ist die Art des Transfers. Hierbei wird zwischen personifiziertem und kodifizierten 
 Wissenstransfer unterschieden. Der Austausch des Wissens findet beim personifizierten Wissenstransfer auf persönlicher Ebene statt. Dies kann auf vielen 
-verschiedenen Wegen geschehen:
+verschiedenen Wegen geschehen[^12]:
 
 * [Mitarbeiterworkshops](https://de.wikipedia.org/wiki/Workshop)
 * [Interviews](https://de.wikipedia.org/wiki/Interview)
 * [Mentoring](https://de.wikipedia.org/wiki/Mentoring)
 
 Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft. Heutzutage nehmen Datenbanken
-in diesem Kontext eine essenzielle Rolle ein.[^12][^13]
+in diesem Kontext eine essenzielle Rolle ein.[^13][^14]
 
 
 
@@ -140,4 +140,4 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 [^11]: Kirsten A. Schröder: Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Identifikation von Einflussfaktoren am Beispiel von Projektteams. Springer-Verlag, 2013, S. 57ff.
 [^12]: [Personifizierter und kodifizierter Transfer/Methoden und Instrumente für den Wissenstransfer](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
 [^13]: [Betriebsinterner Wissenstransfer: Die 8 wichtigsten Maßnahmen](https://www.lecturio.de/magazin/wissenstransfer/#:~:text=Wissenstransfer%20%C3%BCber%20Mitarbeiter%201%20Altersgemischte%20Teams.%20Altersgemischte%20Teams,4%20Moderierte%20%C3%9Cbergabegespr%C3%A4che.%20...%205%20Lessons%20Learned.%20)
-
+[^14]: [Methoden zum Wissenstransfer: Reden ist Silber, Schweigen der Tod](https://www.lecturio.de/magazin/methoden-zum-wissenstransfer/)
