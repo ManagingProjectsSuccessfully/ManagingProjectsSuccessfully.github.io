@@ -25,7 +25,7 @@ des Wissens statt und in der letzten Phase wird das neu transferierte Wissen ern
 
 ![Phasen des Wissenstransfers](Wissenstransfer/Phasen_des_Wissenstransfers.png)
 
-*Abbildung 1: Phasenmodell nach Krogh und Köhne*
+*Abbildung 1: Phasenmodell nach Krogh und Köhne* [^5]
 
 
 ## Wissenstransfer im Projektmanagement
@@ -33,27 +33,27 @@ des Wissens statt und in der letzten Phase wird das neu transferierte Wissen ern
 ### Klassisches Projektmanagement
 
 Der Ablauf im klassischen [Projektmanagement](Projektmanagement.md) wird mit Hilfe des [Wasserfall-Modells](Wasserfall_Modell.md) dargestellt. Dieses ist ein lineares, nicht 
-iteratives Vorgehensmodell, bei dem zunächst die eine Aufgabe komplett abgeschlossen wird bevor neue Aufgaben begonnen werden.[^5] Durch eine, am Ende jeder Aufgabe, 
+iteratives Vorgehensmodell, bei dem zunächst die eine Aufgabe komplett abgeschlossen wird bevor neue Aufgaben begonnen werden.[^6] Durch eine, am Ende jeder Aufgabe, 
 abschließende Kommunikation mit den beteiligten Teams stellt diese Art des Projektmanagements für den Wissenstransfer ein geringeres Risiko an 
-Wissensverlust dar.[^6]
+Wissensverlust dar.[^7]
 
 ### Agiles Projektmanagement
 
 Bezüglich des Ablaufs gibt es beim agilen Projektmanagement einen enormen Unterschied. Dieser ist [iterativ](https://de.wikipedia.org/wiki/Iterativ) 
 aufgebaut, das heißt Arbeitsschritte werden öfter durchlaufen, um das bestmögliche Ergebnis für das Projekt zu erlangen. Diese Herangehensweise hat zur Folge, 
 dass der Wissenstransfer deutlich komplexer und schwieriger zu managen ist, da zu jeder Zeit ein Rückschritt möglich ist und dies bei unsorgfältiger 
-Arbeit/Kommunikation zu Verwirrung führt.[^7]
+Arbeit/Kommunikation zu Verwirrung führt.[^8]
 
 
 ## Vorteile eines erfolgreichen Wissenstransfers
 
 Der Austausch und die Weitergabe von Wissen in einem Unternehmen sind essenziell für den schnellen und erfolgreichen Abschluss von Projekten und 
 erhöhen zudem die Produktivität. Neben den klassischen Team-Meetings, können auch bei spontanen Treffen zweier oder mehrere Mitarbeiter wichtige Informationen 
-ausgetauscht werden.[^8] 
+ausgetauscht werden.[^9] 
 
 Ein strukturierter Wissenstransfer sorgt für einen gesunden Wissensfluss im Unternehmen. Dieser erhöht die Innovativität, verkürzt Projektlaufzeiten, 
 senkt anfallende Projektkosten, versucht Doppelarbeiten zu vermeiden, führt somit zu einer erhöhten Produktivität im Arbeitsumfeld und generiert 
-im selben Zug mehr Mitarbeiterzufriedenheit.[^9]  
+im selben Zug mehr Mitarbeiterzufriedenheit.[^10]  
 
 
 ## Gefahren bei der Wissensweitergabe
@@ -61,7 +61,7 @@ im selben Zug mehr Mitarbeiterzufriedenheit.[^9]
 Projektorientierte Unternehmen, deren Erscheinungsbild für die Bearbeitung komplexer Aufgaben gut geeignet scheint, birgt dennoch Gefahren
 hinsichtlich der Wissensweitergabe. 
 
-Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgeführt werden.[^10] *(siehe Tabelle 1)*
+Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgeführt werden.[^11] *(siehe Tabelle 1)*
 
 | typisches Merkmal                   | Konsequenz                                                                                                                     | 
 | ------------------------------------| -------------------------------------------------------------------------------------------------------------------------------| 
@@ -70,21 +70,21 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 | Personelle [Fluktuation](https://de.wikipedia.org/wiki/Fluktuation)| Erlangtes Expertenwissen geht durch die zeitlich begrenzte Tätigkeit verloren.                  |
 | Neuartige, komplexe Aufgabenstellung| Übertragbarkeit des erworbenen Wissens auf andere Projekte und Aufgabenstellungen ist ungewiss.                                |
 
-*Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer* [^10][^11]
+*Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer* [^11][^12]
 
 
 ## Methoden und Instrumente für den Wissenstransfer
 
 Ausschlaggebend für die Anwendung gewisser Methoden ist die Art des Transfers. Hierbei wird zwischen personifiziertem und kodifizierten 
 Wissenstransfer unterschieden. Der Austausch des Wissens findet beim personifizierten Wissenstransfer auf persönlicher Ebene statt. Dies kann auf vielen 
-verschiedenen Wegen geschehen[^12]:
+verschiedenen Wegen geschehen[^13]:
 
 * [Mitarbeiterworkshops](https://de.wikipedia.org/wiki/Workshop)
 * [Interviews](https://de.wikipedia.org/wiki/Interview)
 * [Mentoring](https://de.wikipedia.org/wiki/Mentoring)
 
 Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft. Heutzutage nehmen Datenbanken
-in diesem Kontext eine essenzielle Rolle ein.[^13][^14]
+in diesem Kontext eine essenzielle Rolle ein.[^14][^15]
 
 
 # Siehe auch
@@ -108,13 +108,14 @@ in diesem Kontext eine essenzielle Rolle ein.[^13][^14]
 [^2]: [Wissenstransfer - einfach erklärt, YouTube](https://www.youtube.com/watch?v=wlNf-T9LqV0)
 [^3]: Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.* Heft 5, 1998, S. 235–263.
 [^4]: [Phasen Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer)
-[^5]: [Wasserfall-Modell](https://de.wikipedia.org/wiki/Wasserfallmodell)
-[^6]: [Klassisches und agiles Projektmanagement im Vergleich](https://dl.gi.de/bitstream/handle/20.500.12116/3061/47.pdf?sequence=1&isAllowed=y)
-[^7]: [Wie funktioniert agiles Projektmanagement?](https://www.cobra.de/wie-funktioniert-agiles-projektmanagement/?utm_source=google&utm_medium=cpc&utm_campaign=crm_software_testversion&pk_campaign=crm_software_testversion&msclkid=faba32df3ce5149e407c53526e2c943f)
-[^8]: [Vorteile eines erfolgreichen Wissenstransfers](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
-[^9]: [Wissenstransfer im Projektmanagement - Sinn und Unsinn von Anreizsystemen](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
-[^10]: [Wissensweitergabe als Ziel](https://www.projektmagazin.de/artikel/wissenstransfer-im-projektmanagement-sinn-und-unsinn-von-anreizsystemen_6939)
-[^11]: Kirsten A. Schröder: Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Identifikation von Einflussfaktoren am Beispiel von Projektteams. Springer-Verlag, 2013, S. 57ff.
-[^12]: [Personifizierter und kodifizierter Transfer/Methoden und Instrumente für den Wissenstransfer](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
-[^13]: [Betriebsinterner Wissenstransfer: Die 8 wichtigsten Maßnahmen](https://www.lecturio.de/magazin/wissenstransfer/#:~:text=Wissenstransfer%20%C3%BCber%20Mitarbeiter%201%20Altersgemischte%20Teams.%20Altersgemischte%20Teams,4%20Moderierte%20%C3%9Cbergabegespr%C3%A4che.%20...%205%20Lessons%20Learned.%20)
-[^14]: [Methoden zum Wissenstransfer: Reden ist Silber, Schweigen der Tod](https://www.lecturio.de/magazin/methoden-zum-wissenstransfer/)
+[^5]: [Phasenmodell nach Krogh und Köhne](https://www.google.de/url?sa=i&url=https%3A%2F%2Funipub.uni-graz.at%2Fobvugrhs%2Fcontent%2Ftitleinfo%2F408896%2Ffull.pdf&psig=AOvVaw1dosZ_jsmGKr2-k36fpIKS&ust=1637082234697000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJCxkdrsmvQCFQAAAAAdAAAAABAc)
+[^6]: [Wasserfall-Modell](https://de.wikipedia.org/wiki/Wasserfallmodell)
+[^7]: [Klassisches und agiles Projektmanagement im Vergleich](https://dl.gi.de/bitstream/handle/20.500.12116/3061/47.pdf?sequence=1&isAllowed=y)
+[^8]: [Wie funktioniert agiles Projektmanagement?](https://www.cobra.de/wie-funktioniert-agiles-projektmanagement/?utm_source=google&utm_medium=cpc&utm_campaign=crm_software_testversion&pk_campaign=crm_software_testversion&msclkid=faba32df3ce5149e407c53526e2c943f)
+[^9]: [Vorteile eines erfolgreichen Wissenstransfers](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
+[^10]: [Wissenstransfer im Projektmanagement - Sinn und Unsinn von Anreizsystemen](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
+[^11]: [Wissensweitergabe als Ziel](https://www.projektmagazin.de/artikel/wissenstransfer-im-projektmanagement-sinn-und-unsinn-von-anreizsystemen_6939)
+[^12]: Kirsten A. Schröder: Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Identifikation von Einflussfaktoren am Beispiel von Projektteams. Springer-Verlag, 2013, S. 57ff.
+[^13]: [Personifizierter und kodifizierter Transfer/Methoden und Instrumente für den Wissenstransfer](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
+[^14]: [Betriebsinterner Wissenstransfer: Die 8 wichtigsten Maßnahmen](https://www.lecturio.de/magazin/wissenstransfer/#:~:text=Wissenstransfer%20%C3%BCber%20Mitarbeiter%201%20Altersgemischte%20Teams.%20Altersgemischte%20Teams,4%20Moderierte%20%C3%9Cbergabegespr%C3%A4che.%20...%205%20Lessons%20Learned.%20)
+[^15]: [Methoden zum Wissenstransfer: Reden ist Silber, Schweigen der Tod](https://www.lecturio.de/magazin/methoden-zum-wissenstransfer/)
