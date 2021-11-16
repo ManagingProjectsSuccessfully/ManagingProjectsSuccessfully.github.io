@@ -8,7 +8,7 @@ anrechnung: a
 Barcamps sind eine Moderationsmethode für Großgruppen und eignen sich für etwa 30-300 Personen. Dabei stehen ausschließlich die Teilnehmenden mit ihren Themen, Fragen und Beiträgen im Mittelpunkt der Veranstaltung. Welche Themen vor Ort genau besprochen werden legen die Teilnehmer gemeinsam fest. Ziele von Barcamps sind meist das Lösen von Problemen wie auch das Provozieren von Innovationen durch Zusammentreffen der Teilnehmer aus verschiedenen Bereichen des Unternehmens bzw. der Forschungsgruppe.
 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Hier ein test
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
