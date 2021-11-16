@@ -7,7 +7,6 @@ anrechnung: k
 Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für Entscheidungen übernimmt. Allerdings kann diese Tatsache oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten [Projekt](Projekt.md)teams überzugehen.[^6] 
 
 ![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
-
 *Faktoren von Empowerment[^2]*
 
 [Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Aenderungsmanagement.md) zuzuordnen. Das Umfangs- und [Änderungsmanagement](Aenderungsmanagement.md) ist eine Kernaufgabe des klassischen und agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben des entsprechenden [Sprints](Sprint.md) Anwendung findet, sind beim klassischen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Kostenmanagement und Zeitmanagement davon betroffen.[^6]
@@ -17,7 +16,6 @@ Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige
 Im Allgemeinen betitelt [Empowerment](Empowerment.md) Strategien und Maßnahmen, welche den Autonomie- und Selbstbestimmungsgrad von Menschen oder Gemeinschaften steigern. Dabei soll ihnen ermöglicht werden, ihre Interessen eigenmächtig und selbst[verantwortlich](Verantwortlichkeiten.md) zu vertreten. [Empowerment](Empowerment.md) bezeichnet dabei sowohl den Prozess als auch die professionelle Unterstützung der Emanzipation.[^4]
 
 ![Empowerment](Empowerment/Empowerment.jpg)
-
 *Empowerment[^7]*
 
 Im Sinne des [Projektmanagements](Projektmanagement.md) bedeutet [Empowerment](Empowerment.md) Macht- und [Verantwortungs](Verantwortlichkeiten.md)übertragung an die [Mitarbeiter](Projektmitarbeiter.md), wodurch ihnen ein höheres Maß an Autonomie, Informationszugang, Entscheidungskompetenz und Mitbestimmung eingeräumt wird. Diese Maßnahmen erlauben [Mitarbeitern](Projektmitarbeiter.md) eigenmächtig über gewisse Budgets, Kulanzleistungen und ihre eigenen Arbeitsabläufe zu entscheiden.[^3]
