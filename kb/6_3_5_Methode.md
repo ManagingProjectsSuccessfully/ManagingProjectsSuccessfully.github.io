@@ -10,18 +10,16 @@ Die 6_3_5_Methode ist eine Brainwriting-Kreativitätstechnik. Hierbei erhalten 6
 
 # Einführung
 
-Die 6_3_5_Methode ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainstorming) sehr ähnlich. Es können hierbei in 30 Minuten bis zu 108 Ideen gesammelt werden.[^2]
+Die 6_3_5_Methode ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainstorming) sehr ähnlich. Es können hierbei in 30 Minuten bis zu 108 Ideen gesammelt werden. Eine mündliche Absprache gibt es während des Ablaufes nicht.[^2]
 
+# Vorteile
 
+Die 6_3_5 Methode bietet folgende Vorteile[^2]:
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* Vermeidet Spannungen im Team während der Ideenfindung
+* Alle Teilnehmer werden gleichermaßen aktiv. Somit bringt sich jeder ein und die Lösungsvorschläge sind vielfältig.
+* Kreativitätssteigerung durch Aufbau auf bereits geschriebene Ideen möglich
+* Größere Gruppe können in kleine 6er-Gruppen aufgeteilt werden, die Methode ist auch für große Teams anwendbar.
 
 ![Beispielabbildung](6_3_5_Methode/test-file.jpg)
 
