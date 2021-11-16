@@ -24,14 +24,14 @@ Die 6_3_5 Methode bietet folgende Vorteile[^2]:
 * Kreativitätssteigerung durch Aufbau auf bereits geschriebene Ideen möglich
 * Größere Gruppe können in kleine 6er-Gruppen aufgeteilt werden, die Methode ist auch für große Teams anwendbar.
 
-# Vorgehen[^2]
+# Vorgehen
 
 | Schritt   | Erläuterung | 
 | ------------- | ------------- |
 | Einführung  | Erklärung der Methode für die Teilnehmer*innen  |
 | 1. Runde  | 5 Minuten Zeit für 3 Ideen. Dieses sollen knapp und verständlich auf dem Vordruck aufgeschrieben werden.  |
 | 2. Runde  | 5 Minuten Zeit, der Vordruck wird im Uhrzeigersinn weiter gegeben.Ideen dürfen modifiziert, erweitert oder ergänzt werden.|
-| 3. - 6. Runde  | Vorgehen wie in der 2. Runde. Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können. |
+| Folgende Runden| Vorgehen wie in der 2. Runde. Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können. |[^2]
 
 # Siehe auch
 
