@@ -7,7 +7,8 @@ anrechnung: k
 Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für Entscheidungen übernimmt. Allerdings kann diese Tatsache oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten [Projekt](Projekt.md)teams überzugehen.[^6] 
 
 ![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
-  *Faktoren von Empowerment[^2]*
+
+*Faktoren von Empowerment[^2]*
 
 [Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Aenderungsmanagement.md) zuzuordnen. Das Umfangs- und [Änderungsmanagement](Aenderungsmanagement.md) ist eine Kernaufgabe des klassischen und agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben des entsprechenden [Sprints](Sprint.md) Anwendung findet, sind beim klassischen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Kostenmanagement und Zeitmanagement davon betroffen.[^6]
 
