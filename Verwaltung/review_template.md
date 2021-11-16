@@ -12,12 +12,12 @@ tags: orga
 | Front-Matter | Metadaten im Front-Matter korrekt ausgefüllt | ja/ nein |
 | Umfang | ca. 500 Wörter ohne Quellenverweise | ja/ nein|
 | Belege | Quellen zu den Inhalten angegeben (auch bei Abbildungen) | ja/ nein |
-| Links | Funktionierende Links | ja/ nein|
+| Links | Funktionieren alle Links | ja/ nein|
 | Formatierung | Korrekte Formatierung wie z.B. Überschriften zur Strukturierung, Punktelisten für Aufzählungen | ja/ nein|
 | Verlinkungen vorhanden | Zu Unter- und Überthemen sowie zu angrenzenden Themengebieten | ja/ nein |
 | Abbildungen | Mindestens eine Abbildung / Visualisierung | ja/ nein |
-| Strukturierung des Beitrags | Inhaltlich und Visuell (z.B. durch Überschriften) | 1-10 |
-| Rechtschreibung | Achtet bitte auf Korrekte Rechtschreibung und Grammatik |1-10|
+| Strukturierung des Beitrags | Ist der Beitrag inhaltlich und visuell (z.B. durch Überschriften) gut strukturiert? | 1-10 |
+| Rechtschreibung | Korrekte Rechtschreibung und Grammatik |1-10|
 | Sprache | Deutsch, Sachlich (Enzyklopädiestil s. Wikipedia) | 1-10 |
 | Inhalt | Inhaltliche Korrektheit, wichtigste Aspekte zum Thema sind vorhanden |1-10|
 | Einordnung in den Kontext | Einordnung in Bezug auf angrenzende Themengebiete |1-10|
