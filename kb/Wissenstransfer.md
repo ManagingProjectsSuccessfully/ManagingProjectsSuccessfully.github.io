@@ -83,8 +83,9 @@ verschiedenen Wegen geschehen:
 * [Interviews](https://de.wikipedia.org/wiki/Interview)
 * [Mentoring](https://de.wikipedia.org/wiki/Mentoring)
 
-Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft. Heutzutage stellen Datenbanken
-in diesem Kontext eine essenzielle Rolle dar.
+Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft. Heutzutage nehmen Datenbanken
+in diesem Kontext eine essenzielle Rolle ein.[^12][^13]
+
 
 
 ...
@@ -136,7 +137,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 [^8]: [Vorteile eines erfolgreichen Wissenstransfers](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
 [^9]: [Wissenstransfer im Projektmanagement - Sinn und Unsinn von Anreizsystemen](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
 [^10]: [Wissensweitergabe als Ziel](https://www.projektmagazin.de/artikel/wissenstransfer-im-projektmanagement-sinn-und-unsinn-von-anreizsystemen_6939)
-[^11]: Kirsten A. Schröder: Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Identifikation von Einflussfaktoren am Beispiel von Projektteams. Springer-Verlag, 2013, S. 57ff. 
-[^55]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^56]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^57]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^11]: Kirsten A. Schröder: Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Identifikation von Einflussfaktoren am Beispiel von Projektteams. Springer-Verlag, 2013, S. 57ff.
+[^12]: [Personifizierter und kodifizierter Transfer/Methoden und Instrumente für den Wissenstransfer](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
+[^13]: [Betriebsinterner Wissenstransfer: Die 8 wichtigsten Maßnahmen](https://www.lecturio.de/magazin/wissenstransfer/#:~:text=Wissenstransfer%20%C3%BCber%20Mitarbeiter%201%20Altersgemischte%20Teams.%20Altersgemischte%20Teams,4%20Moderierte%20%C3%9Cbergabegespr%C3%A4che.%20...%205%20Lessons%20Learned.%20)
+
