@@ -7,13 +7,14 @@ anrechnung: k
 Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für Entscheidungen übernimmt. Allerdings kann diese Tatsache oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten [Projekt](Projekt.md)teams überzugehen.[^6] 
 
 ![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
-*Faktoren von Empowerment[^2]*
+  *Faktoren von Empowerment[^2]*
 
 [Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Aenderungsmanagement.md) zuzuordnen. Das Umfangs- und [Änderungsmanagement](Aenderungsmanagement.md) ist eine Kernaufgabe des klassischen und agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben des entsprechenden [Sprints](Sprint.md) Anwendung findet, sind beim klassischen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Kostenmanagement und Zeitmanagement davon betroffen.[^6]
 
 # Definition
 
 Im Allgemeinen betitelt [Empowerment](Empowerment.md) Strategien und Maßnahmen, welche den Autonomie- und Selbstbestimmungsgrad von Menschen oder Gemeinschaften steigern. Dabei soll ihnen ermöglicht werden, ihre Interessen eigenmächtig und selbst[verantwortlich](Verantwortlichkeiten.md) zu vertreten. [Empowerment](Empowerment.md) bezeichnet dabei sowohl den Prozess als auch die professionelle Unterstützung der Emanzipation.[^4]
+
 ![Empowerment](Empowerment/Empowerment.jpg)
 *Empowerment[^7]*
 
@@ -60,9 +61,9 @@ Auf dem Arbeitsmarkt haben sich außerdem Angebot und Nachfrage stark verändert
 
 # Quellen
 
-[^1]: Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente - Checklisten. 2. Auflage. Carl Hanser Verlag. München, 2006.
-[^2]: [Warum ist Empowerment so wichtig?](https://www.thesoundofexport.com/warum-ist-empowerment-so-wichtig/)
-[^3]: [Empowerment im agilen Kontext: Die 5 Wege zum Empowerment](https://www.berlinerteam.de/magazin/empowerment/)
+[^1]:Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente - Checklisten. 2. Auflage. Carl Hanser Verlag. München, 2006.
+[^2]:[Warum ist Empowerment so wichtig?](https://www.thesoundofexport.com/warum-ist-empowerment-so-wichtig/)
+[^3]:[Empowerment im agilen Kontext: Die 5 Wege zum Empowerment](https://www.berlinerteam.de/magazin/empowerment/)
 [^4]:[Empowerment](https://de.wikipedia.org/wiki/Empowerment)
 [^5]:[Empowerment: Teil der Managementkonzepte von morgen](https://media.zweikern.com/de/index/empowerment)
 [^6]:[Empowerment des Teams](https://project-base.org/projektmanagement-glossar/empowerment-des-teams/)
