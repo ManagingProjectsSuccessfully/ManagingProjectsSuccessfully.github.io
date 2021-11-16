@@ -1,8 +1,8 @@
 ---
 title: Bottom_Up_Planning
-tags: agil klassisch
+tags:  klassisch
 author: FAUdennis96
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Bottom_Up_Planning um ein erstes Verständnis dafür zu schaffen um was es hier geht.
