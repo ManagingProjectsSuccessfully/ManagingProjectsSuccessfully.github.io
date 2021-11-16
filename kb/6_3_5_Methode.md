@@ -5,10 +5,8 @@ author: nta01
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu 6_3_5_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die 6_3_5_Methode ist eine Brainwriting-Kreativitätstechnik. Hierbei erhalten 6 Personen einen Zettel, auf welchen sie jeweils 3 weitere Ideen zu einem Thema schreiben. Dieser Zettel wird 5 mal weitergegeben und jeweils ergänzt. [^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -97,7 +95,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: https://kreativitätstechniken.info/ideen-generieren/6-3-5-methode/
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
