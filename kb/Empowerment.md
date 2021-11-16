@@ -61,10 +61,10 @@ Auf dem Arbeitsmarkt haben sich außerdem Angebot und Nachfrage stark verändert
 
 # Quellen
 
-[^1]:Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente - Checklisten. 2. Auflage. Carl Hanser Verlag. München, 2006.
-[^2]:[Warum ist Empowerment so wichtig?](https://www.thesoundofexport.com/warum-ist-empowerment-so-wichtig/)
-[^3]:[Empowerment im agilen Kontext: Die 5 Wege zum Empowerment](https://www.berlinerteam.de/magazin/empowerment/)
-[^4]:[Empowerment](https://de.wikipedia.org/wiki/Empowerment)
-[^5]:[Empowerment: Teil der Managementkonzepte von morgen](https://media.zweikern.com/de/index/empowerment)
-[^6]:[Empowerment des Teams](https://project-base.org/projektmanagement-glossar/empowerment-des-teams/)
-[^7]:[Empowerment als neues Konzept in Unternehmen implementieren](https://media.zweikern.com/de/index/empowerment-implementieren)
+[^1]: Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente - Checklisten. 2. Auflage. Carl Hanser Verlag. München, 2006.
+[^2]: [Warum ist Empowerment so wichtig?](https://www.thesoundofexport.com/warum-ist-empowerment-so-wichtig/)
+[^3]: [Empowerment im agilen Kontext: Die 5 Wege zum Empowerment](https://www.berlinerteam.de/magazin/empowerment/)
+[^4]: [Empowerment](https://de.wikipedia.org/wiki/Empowerment)
+[^5]: [Empowerment: Teil der Managementkonzepte von morgen](https://media.zweikern.com/de/index/empowerment)
+[^6]: [Empowerment des Teams](https://project-base.org/projektmanagement-glossar/empowerment-des-teams/)
+[^7]: [Empowerment als neues Konzept in Unternehmen implementieren](https://media.zweikern.com/de/index/empowerment-implementieren)
