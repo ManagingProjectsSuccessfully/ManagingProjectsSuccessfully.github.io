@@ -19,7 +19,7 @@ Sie ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainstorming) sehr �
 
 Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2]:
 
-* Vermeideung von Spannungen im Team während der Ideenfindung
+* Vermeidung von Spannungen im Team während der Ideenfindung
 * Alle Teilnehmer*innen werden gleichermaßen aktiv. Somit bringt sich jeder ein und die Lösungsvorschläge sind vielfältig.
 * Kreativitätssteigerung durch Aufbau auf bereits geschriebene Ideen möglich
 * Größere Gruppe können in kleine 6er-Gruppen aufgeteilt werden, die Methode ist auch für große Teams anwendbar.
@@ -32,7 +32,7 @@ Die 3_6_5 Methode läuft wie folgt ab[^2]:
 | ------------- | ------------- |
 | Einführung  | Erklärung der Methode für die Teilnehmer*innen  |
 | 1. Runde  | 5 Minuten Zeit für 3 Ideen. Dieses sollen knapp und verständlich auf dem Vordruck aufgeschrieben werden.  |
-| 2. Runde  | 5 Minuten Zeit, der Vordruck wird im Uhrzeigersinn weiter gegeben.Ideen dürfen modifiziert, erweitert oder ergänzt werden.|
+| 2. Runde  | 5 Minuten Zeit, der Vordruck wird im Uhrzeigersinn weitergegeben. Ideen dürfen modifiziert, erweitert oder ergänzt werden.|
 | Folgende Runden| Vorgehen wie in der 2. Runde. Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können. |
 
 # Siehe auch
