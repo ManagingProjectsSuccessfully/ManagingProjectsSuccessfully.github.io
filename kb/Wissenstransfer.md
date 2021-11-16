@@ -90,8 +90,12 @@ in diesem Kontext eine essenzielle Rolle ein.[^13][^14]
 # Siehe auch
 
 * [Projektmanagement](Projektmanagement.md)
-* [Wissensmanagement](Wissensmanagement.md)
 * [Wasserfall-Modell](Wasserfall_Modell.md)
+* [Wissenslandkarte](Wissenslandkarte.md)
+* [Wissensmanagement](Wissensmanagement.md)
+* [Wissensmarkt](Wissensmarkt.md)
+* [Wissensspirale](Wissensspirale.md)
+
 
 
 # Weiterführende Literatur
