@@ -68,7 +68,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Christian Schawel, Fabian Billing (2009): "Top 100 Management Tools", abrufbar auf link.springer.com
 
 # Quellen
 
