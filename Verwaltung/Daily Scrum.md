@@ -1,11 +1,11 @@
 ---
-title: {Projekt}
+title: {Daily Scrum}
 tags: agil scrum projektmanagement
 author: {JonathanBauerFau}
 anrechnung: a
 ---
 
-Das Daily Scrum ist ein 15-minütiges Meeting für das Scrum Team. Es findet an jedem Arbeitstag statt, im Normalfall zur gleichen Zeit am gleichen Ort. Das Treffen dient dem Team dazu, die Tätigkeiten im Zeitraum bis zum nächsten Daily Scrum zu teilen, zu planen und mögliche Hindernisse ("Impediments") im Team zu kommunizieren, um notwendige Aktionen möglichst sofort einzuleiten. Daily Scrum zählt wie Sprint Planning, Sprint Review und Sprint Retrospektive zu den Scrum Events.
+Das [Daily Scrum](https://de.wikipedia.org/wiki/Scrum#Daily_Scrum) ist ein 15-minütiges Meeting für das Scrum Team. Es findet an jedem Arbeitstag statt, im Normalfall zur gleichen Zeit am gleichen Ort. Das Treffen dient dem Team dazu, die Tätigkeiten im Zeitraum bis zum nächsten Daily Scrum zu teilen, zu planen und mögliche Hindernisse ("Impediments") im Team zu kommunizieren, um notwendige Aktionen möglichst sofort einzuleiten. Daily Scrum zählt wie [Sprint Planning](https://de.wikipedia.org/wiki/Scrum#Sprint_Planning), [Sprint Review](https://de.wikipedia.org/wiki/Scrum#Sprint_Review) und [Sprint Retrospektive](https://de.wikipedia.org/wiki/Scrum#Sprint-Retrospektive) zu den Scrum Events.
 
 ![test](scrum.jpg)
 
@@ -52,17 +52,20 @@ Jedes Mitglied sollte genau über seine jeweilige Aufgabe im Team bescheid wisse
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite]({Projekt}.md)
+* [Agile Softwareentwicklung](https://de.wikipedia.org/wiki/Agile_Softwareentwicklung)
+* [Klassisches Projektmanagement](https://de.wikipedia.org/wiki/Projektentwicklung_(Immobilien))
+* [Open Innovation](https://de.wikipedia.org/wiki/Open_Innovation)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Agile Prozesse: Von XP über Scrum bis MAP](https://www.google.de/books/edition/Agile_Prozesse_Von_XP_über_Scrum_bis_MA/G29LC_Kt2mkC?hl=de&gbpv=1&dq=daily+scrum&pg=PA71&printsec=frontcover)
+* [Scrum verstehen und erfolgreich einsetzen](https://www.google.de/books/edition/Scrum_verstehen_und_erfolgreich_einsetze/85k2EAAAQBAJ?hl=de&gbpv=1&dq=daily+scrum&pg=PA119&printsec=frontcover)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: Sammlung, [Link](https://scrum-master.de/Scrum-Meetings/Daily_Scrum_Meeting)
+               https://www.projektmagazin.de/methoden/daily-scrum
+               https://t2informatik.de/wissen-kompakt/daily-scrum/
+               https://www.scrum.org/resources/what-is-a-daily-scrum
+               https://de.wikipedia.org/wiki/Scrum
 
