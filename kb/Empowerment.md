@@ -12,7 +12,7 @@ Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige
 
 [Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Änderungsmanagement.md) zuzuordnen. Das Umfangs- und [Änderungsmanagement](Änderungsmanagement.md) ist eine Kernaufgabe des klassischen und agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben des entsprechenden [Sprints](Sprint.md) Anwendung findet, sind beim klassischen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Kostenmanagement und Zeitmanagement davon betroffen.[^7]
 
-# Defintion
+# Definition
 
 Im Allgemeinen betitelt [Empowerment](Empowerment.md) Strategien und Maßnahmen, welche den Autonomie- und Selbstbestimmungsgrad von Menschen oder Gemeinschaften steigern. Dabei soll ihnen ermöglicht werden, ihre Interessen eigenmächtig und selbst[verantwortlich](Verantwortlichkeiten.md) zu vertreten. [Empowerment](Empowerment.md) bezeichnet dabei sowohl den Prozess als auch die professionelle Unterstützung der Emanzipation.[^4]
 
@@ -30,11 +30,11 @@ Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad stä
 
 ## Reaktionsfähigkeit
 
-Oftmals muss innerhalb eines [Projektes](Projekt.md) schnellstmöglich gehandelt werden[^3]. Deshalb ist es häufig nicht sinnvoll die jeweiligen Entscheidungsfragen verschiedene Hierarchiestufen passieren zu lassen[^3]. Stakeholder erwaten zügige Entscheidungen[^2]. Daher sollte derjenige [Projektmitarbeiter](Projektmitarbeiter.md), der mit der entsprechenden Fragestellung konfrontiert ist, ausreichend Entscheidungskompetenz besitzen[^3]. Somit kann die Reaktionsgeschwindigkeit eines [Projektes](Projekt.md) deutlich erhöht werden[^3].
+Oftmals muss innerhalb eines [Projektes](Projekt.md) schnellstmöglich gehandelt werden[^3]. Deshalb ist es häufig nicht sinnvoll die jeweiligen Entscheidungsfragen verschiedene Hierarchiestufen passieren zu lassen[^3]. Stakeholder erwarten zügige Entscheidungen[^2]. Daher sollte derjenige [Projektmitarbeiter](Projektmitarbeiter.md), der mit der entsprechenden Fragestellung konfrontiert ist, ausreichend Entscheidungskompetenz besitzen[^3]. Somit kann die Reaktionsgeschwindigkeit eines [Projektes](Projekt.md) deutlich erhöht werden[^3].
 
 ## Qualität von Entscheidungen
 
-Neben der Reaktionsfähigkeit, ist es natürlich ebenfalls von Relevanz, wie sinnvoll eine getroffene Entscheidung ist. [Projektmitarbeiter](Projektmitarbeiter.md), die den engsten Kontakt zu den jeweiligen Stakeholdern haben, erhalten üblicherweise auch den tiefsten Einblick in die entsprechende Situation. [Empowerment](Empowerment.md) ermöglicht es ihnen somit gute und sinnvolle Entscheidungen zu treffen.[^2]
+Neben der Reaktionsfähigkeit ist es natürlich ebenfalls von Relevanz, wie sinnvoll eine getroffene Entscheidung ist. [Projektmitarbeiter](Projektmitarbeiter.md), die den engsten Kontakt zu den jeweiligen Stakeholdern haben, erhalten üblicherweise auch den tiefsten Einblick in die entsprechende Situation. [Empowerment](Empowerment.md) ermöglicht es ihnen somit gute und sinnvolle Entscheidungen zu treffen.[^2]
 
 ## Fachkräftenachwuchs
 
