@@ -5,7 +5,7 @@ author: BelmontR
 anrechnung: k oder a
 ---
 
-Das Unternehmen Spotify setzte noch zu Beginn das Scrum Projektmanagement um. Nachdem Spotify mit der Zeit größer wurde, passten nicht mehr alle Prinzipien und Regeln von Scrum zum Unternehmen und der Unternehmenskultur. Basierend auf Scrum bzw. aus Scrum heraus hat Spotify ein eigenes Projektmanagementmodell angefertigt[^1]. 
+Das Unternehmen Spotify setzte noch zu Beginn das [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) Projektmanagement um. Nachdem Spotify mit der Zeit größer wurde, passten nicht mehr alle Prinzipien und Regeln von [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) zum Unternehmen und der Unternehmenskultur. Basierend auf [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) bzw. aus [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) heraus hat Spotify ein eigenes Projektmanagementmodell angefertigt[^1]. 
 Das Spotify Modell besteht aus vier Hauptkomponenten: [Squads](#squads), [Tribes](#tribes), [Chaptern](#chapters) und [Guilds](#guilds)[^2].
 
 ![Spotify Modell visualisiert](Spotify_Projectmanagement_Model/Spotify-Model.png)[^2]
@@ -33,20 +33,20 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Squads
 
-Die Squads sind mit Scrum Teams vergleichbar, sie bilden die Basis des Spotify Modells[^1]. In der Regel sind weniger als acht Leute in einem Squad enthalten[^2]. Squads sind crossfunktional tragen die "End-To-End" Verantwortung für ein Feature oder einen bestimmten Bereich. Diese Verantwortung erstreckt sich von der Idee, über die Ausarbeitung, den konzeptionellen Entwurf und der Entwicklung bis zum kommerziellen Erfolg. Die Squads haben volle Freiheit bei der Wahl und Ausübung ihrer Methoden[^3]. Aufgrund ihrer Autonomität gibt es keine Teamleiter in Squads, jedoch gibt es Product Owner, welche die Prioritäten für die Aufgaben, die von den Squads erledigt werden müssen, vorgibt. Zusätzlich haz jedes Squad einen Agile Coach, welcher hilft, potentielle Hindernisse zu erkennen, zu beseitigen und zu der Verbesserung der Arbeitsweisen beiträgt. Zusätzlich dazu organisiert er das "Sprint Planning Meeting" und die "Retrospektive"[^2]. 
+Die Squads sind mit [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)-Teams vergleichbar, sie bilden die Basis des Spotify Modells[^1]. In der Regel sind weniger als acht Leute in einem Squad enthalten[^2]. Squads sind crossfunktional tragen die "End-To-End" Verantwortung für ein Feature oder einen bestimmten Bereich. Diese Verantwortung erstreckt sich von der Idee, über die Ausarbeitung, den konzeptionellen Entwurf und der Entwicklung bis zum kommerziellen Erfolg. Die Squads haben volle Freiheit bei der Wahl und Ausübung ihrer Methoden[^3]. Aufgrund ihrer Autonomität gibt es keine Teamleiter in Squads, jedoch gibt es Product Owner, welche die Prioritäten für die Aufgaben, die von den Squads erledigt werden müssen, vorgibt. Zusätzlich haz jedes Squad einen Agile Coach, welcher hilft, potentielle Hindernisse zu erkennen, zu beseitigen und zu der Verbesserung der Arbeitsweisen beiträgt. Zusätzlich dazu organisiert er das "Sprint Planning Meeting" und die "Retrospektive"[^2]. 
 
 # Tribes
 
-Ein Tribe ist eine Gruppe von Squads, die am gleichen oder an miteinander verbundenen Produkten oder Dienstleistungen arbeiten. Dementsprechend kann die Größe eines Tribes variieren, jedoch ich die Maximalgröße eines Tribes 150 Personen[^2][^3].
+Ein Tribe ist eine Gruppe von [Squads](#squads), die am gleichen oder an miteinander verbundenen Produkten oder Dienstleistungen arbeiten. Dementsprechend kann die Größe eines Tribes variieren, jedoch ich die Maximalgröße eines Tribes 150 Personen[^2][^3].
 Die Tribes haben einen oder mehrere "Tribe-Leads", welche die Aufgabe haben, für die Squads eine optimale Arbeitsumgebung zu schaffen[^2][^3]. Durch regelmäßge Tribe Meetings werden die Mitglieder eines Tribes über die Arbeit der anderen Squads auf dem Laufenden gehalten[^2].
 
 # Chapters
 
-Ein Chapter ist mit einer Abteilung aus einer "traditionellen Organisation" vergleichbar [^3]. Es ist eine Gruppe, bestehend aus Mitgliedern eines Tribes, welche alle über die gleichen Fachkompetnezen und Expertise verfügen. In Chaptern kommt es unter der Leitung einer Chapter-Führung zum regelmäßigen Austausch zwischen den Mitgliedern über beispielsweise neue themenbezogenen Erfahrungen, die sie gemacht, neues Wissen, das sie erlangt haben oder Herausforderungen, die es in ihrem Gebiete gibt[^2]. Ein Mitglied, das sein Squad wechselt, aber nicht seinen Tribe, bleibt im gleichen Chapter [^3].
+Ein Chapter ist mit einer Abteilung aus einer "traditionellen Organisation" vergleichbar [^3]. Es ist eine Gruppe, bestehend aus Mitgliedern eines [Tribes](#tribes), welche alle über die gleichen Fachkompetnezen und Expertise verfügen. In Chaptern kommt es unter der Leitung einer Chapter-Führung zum regelmäßigen Austausch zwischen den Mitgliedern über beispielsweise neue themenbezogenen Erfahrungen, die sie gemacht, neues Wissen, das sie erlangt haben oder Herausforderungen, die es in ihrem Gebiete gibt[^2]. Ein Mitglied, das sein [Squad](#squads) wechselt, aber nicht seinen [Tribe](#tribes), bleibt im gleichen Chapter [^3].
 
 # Guilds
 
-Guilds sind Gruppen von Mitarbeitern, welche sich Fachwissen oder Interessen teilen. Anders als Chaperts sind sie unabhängig von Tribes, also können sie sich über das ganze Unternehmen erstrecken[^2]. Jeder kann einer Guild jederzeit beitreten und sie auch jederzeit verlassen. Die Teilnahme an einer Guild ist freiwillig[^3]. Guilds greifen in der Regel auf informelle Kommunikationsmethoden zurück[^1]. Regelmäßige Treffen der Guild werden vom "Guild Koordinator" organisiert. An diesen treffen sich alle Mitglieder einer Guild und tauschen sich zu den Themen der Guild aus[^2].
+Guilds sind Gruppen von Mitarbeitern, welche sich Fachwissen oder Interessen teilen. Anders als [Chapters](#chapters) sind sie unabhängig von [Tribes](#tribes), also können sie sich über das ganze Unternehmen erstrecken[^2]. Jeder kann einer Guild jederzeit beitreten und sie auch jederzeit verlassen. Die Teilnahme an einer Guild ist freiwillig[^3]. Guilds greifen in der Regel auf informelle Kommunikationsmethoden zurück[^1]. Regelmäßige Treffen der Guild werden vom "Guild Koordinator" organisiert. An diesen treffen sich alle Mitglieder einer Guild und tauschen sich zu den Themen der Guild aus[^2].
 
 # Anwendungsmöglichkeiten in klassischen Unternehmen
 
