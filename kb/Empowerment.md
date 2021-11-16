@@ -4,13 +4,13 @@ tags: Empowerment selbstorganisierende Teams agil klassisch Änderungsmanagement
 author: TobiasZuerrlein
 anrechnung: k
 ---
-Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für Entscheidungen übernimmt. Allerdings kann diese Tatsache oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten [Projekt](Projekt.md)teams überzugehen.[^7] 
+Bei Teamarbeit ist der [Projektleiter](Projektleiter.md) normalerweise derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für Entscheidungen übernimmt. Allerdings kann diese Tatsache oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb auf die Stärkung des gesamten [Projekt](Projekt.md)teams überzugehen.[^6] 
 
 ![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
 
 *Faktoren von Empowerment[^2]*
 
-[Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Aenderungsmanagement.md) zuzuordnen. Das Umfangs- und [Änderungsmanagement](Aenderungsmanagement.md) ist eine Kernaufgabe des klassischen und agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben des entsprechenden [Sprints](Sprint.md) Anwendung findet, sind beim klassischen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Kostenmanagement und Zeitmanagement davon betroffen.[^7]
+[Empowerment](Empowerment.md) ist dabei dem Umfangs- und [Änderungsmanagement](Aenderungsmanagement.md) zuzuordnen. Das Umfangs- und [Änderungsmanagement](Aenderungsmanagement.md) ist eine Kernaufgabe des klassischen und agilen [Projektmanagements](Projektmanagement.md). Während es bei agilen [Projekten](Projekt.md) üblicherweise bei konkreten Aufgaben des entsprechenden [Sprints](Sprint.md) Anwendung findet, sind beim klassischen [Projektmanagement](Projektmanagement.md) alle zentralen Aufgaben, wie [Risikomanagement](Risikomanagement.md), Kostenmanagement und Zeitmanagement davon betroffen.[^6]
 
 # Definition
 
@@ -64,4 +64,4 @@ Auf dem Arbeitsmarkt haben sich außerdem Angebot und Nachfrage stark verändert
 [^3]: [Empowerment im agilen Kontext: Die 5 Wege zum Empowerment](https://www.berlinerteam.de/magazin/empowerment/)
 [^4]:[Empowerment](https://de.wikipedia.org/wiki/Empowerment)
 [^5]:[Empowerment: Teil der Managementkonzepte von morgen](https://media.zweikern.com/de/index/empowerment)
-[^7]:[Empowerment des Teams](https://project-base.org/projektmanagement-glossar/empowerment-des-teams/)
+[^6]:[Empowerment des Teams](https://project-base.org/projektmanagement-glossar/empowerment-des-teams/)
