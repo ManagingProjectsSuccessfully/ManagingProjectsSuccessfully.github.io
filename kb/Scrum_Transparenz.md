@@ -44,7 +44,7 @@ Offene Kommunikation und das Teilen von Wissen sind die Grundlagen für Scrum-Tr
 
 ## 2.3	Aktuelle Fortschrittsinformationen
 
-Damit die konsistente Arbeit gesichert wird, muss jeder Mitarbeiter, der CEO und vor allem der Kunde immer wissen, was der neuste Stand des Prozesses ist, was die Neuigkeiten sind und welche Verbesserungspotenziale noch existieren. Alle aus dem Team vertrauen einander und haben den Mut, sich gegenseitig über gute und schlechte Nachrichten auf dem Laufenden zu halten. Ein geeignetes Beispiel ist das,,[Daily Scrum]“(https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md)-was ein 15-minütiges Meeting für das Scrum-Meeting ist, wo sie miteinander über den neuen Stand kommunizieren, planen oder Informationen teilen können. [^4]
+Damit die konsistente Arbeit gesichert wird, muss jeder Mitarbeiter, der CEO und vor allem der Kunde immer wissen, was der neuste Stand des Prozesses ist, was die Neuigkeiten sind und welche Verbesserungspotenziale noch existieren. Alle aus dem Team vertrauen einander und haben den Mut, sich gegenseitig über gute und schlechte Nachrichten auf dem Laufenden zu halten. Ein geeignetes Beispiel ist das [*Daily Scrum*](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md)-was ein 15-minütiges Meeting für das Scrum-Meeting ist, wo sie miteinander über den neuen Stand kommunizieren, planen oder Informationen teilen können. [^4]
 
 # 3. Fazit
 
