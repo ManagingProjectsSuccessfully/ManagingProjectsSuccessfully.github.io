@@ -41,7 +41,7 @@ Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](6_3_5_Methode.md)
+* [Ideen_Marathon](Ideen_Marathon.md)
 
 # Weiterführende Literatur
 
