@@ -44,6 +44,8 @@ Mit der Aufnahme einer PM-Zertifizierung in den Lebenslauf, steigt nicht nur nic
 
 Die folgende Grafik verdeutlicht den Gehaltsvorsprung, den zertifizierte Projektmanager im Durchschnitt erzielen. 
 
+[Abbildung 1](Zertifizierungen/Gehaltsvergleich.png)
+
 
 
 # Fazit
