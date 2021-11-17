@@ -27,9 +27,10 @@ Es existieren mehrere Vorgehensmodelle mit einer unterschiedlichen Anzahl an Sch
 Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6  Phasen: Verstehen, Beobachten/Empathie, Sichtweise definieren, Ideen generieren, Prototypen, Testen. Der Prozess ist non-linear und iterativ.
 
 ![Beispielabbildung](Design_Thinking/design_Thinking_Bild1.png)
+*6 Schritte des Design Thinkings*[^1]
 
 ### Phase1: Verstehen 
-Im ersten Schritt wird die Ausgangssituation definiert und sicher gestellt, dass alle beteiligten Personen sich auf dem selben Wissensstand befinden. Mögliche Stanardfragen mit denen Probleme definiert werden können sind: Was soll neu entwickelt werden? Für wen soll die Entwicklung relevant sein? Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? Welcher Endzustand soll durch die Lösung erreicht werden?[^1]
+Im ersten Schritt wird die Ausgangssituation definiert und sicher gestellt, dass alle beteiligten Personen sich auf dem selben Wissensstand befinden. Mögliche Stanardfragen mit denen Probleme definiert werden können sind: Was soll neu entwickelt werden? Für wen soll die Entwicklung relevant sein? Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? Welcher Endzustand soll durch die Lösung erreicht werden?[^2]
 
 ### Phase2: Beobachten
 
@@ -133,11 +134,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: [Design Thinking – Methode, Prozess und Workshops](https://iconstorm.com/design-thinking/), Abgerufen am 17. November 2021
+[^1]:[Was ist Design Thinking?](https://hpi-academy.de/fileadmin/_processed_/b/9/csm_Design_Thinking_Prozess_DE_6c695bcd10.png)
+[^2]: [Design Thinking – Methode, Prozess und Workshops](https://iconstorm.com/design-thinking/), Abgerufen am 17. November 2021
 
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^3]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 
