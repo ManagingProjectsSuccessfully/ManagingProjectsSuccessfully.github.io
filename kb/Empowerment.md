@@ -37,7 +37,7 @@ Oftmals muss innerhalb eines [Projektes](Projekt.md) schnellstmöglich gehandelt
 
 ## Qualität von Entscheidungen
 
-Neben der Reaktionsfähigkeit ist es natürlich ebenfalls von Relevanz, wie sinnvoll eine getroffene Entscheidung ist. [Projektmitarbeiter](Projektmitarbeiter.md), die den engsten Kontakt zu den jeweiligen Stakeholdern haben, erhalten üblicherweise auch den tiefsten Einblick in die entsprechende Situation. [Empowerment](Empowerment.md) ermöglicht es ihnen somit, gute und sinnvolle Entscheidungen zu treffen.[^2]
+Neben der Reaktionsfähigkeit ist es natürlich ebenfalls von Relevanz, wie sinnvoll eine getroffene Entscheidung ist. [Projektmitarbeiter](Projektmitarbeiter.md), die den engsten Kontakt zu den jeweiligen Stakeholdern haben, erhalten üblicherweise auch den tiefsten Einblick in die entsprechende Situation. [Empowerment](Empowerment.md) ermöglicht es ihnen somit gute und sinnvolle Entscheidungen zu treffen.[^2]
 
 ## Fachkräftenachwuchs
 
