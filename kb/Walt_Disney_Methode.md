@@ -5,13 +5,15 @@ author: Katjax08
 anrechnung: k
 ---
 
-Die Walt-Disney-Methode, welche nach ihrem Urheber benannt wurde, ist eine Kreativitätstechnik auf Basis eines Rollenspiels. Dabei nehmen verschiedene Personen die Positionen eines „Träumers“, „Realisten“ und „Kritiker“ ein, um sich mit einem Problem auseinanderzusetzen. Die Methode wurde von Robert B. Dilts im Jahr 1994 veröffentlicht. 
+Die Walt-Disney-Methode, welche nach ihrem Urheber [Walt Disney](https://de.wikipedia.org/wiki/Walt_Disney) benannt wurde, ist eine Kreativitätstechnik auf Basis eines Rollenspiels. Dabei nehmen verschiedene Personen die Positionen eines „Träumers“, „Realisten“ und „Kritiker“ ein, um sich mit einem Problem auseinanderzusetzen. Die Methode wurde von [Robert B. Dilts](https://de.wikipedia.org/wiki/Robert_Dilts) im Jahr 1994 veröffentlicht. 
 
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="de" dir="ltr"><h2 id="mw-toc-heading">Inhaltsverzeichnis</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Einordnung_der_Methode"><span class="tocnumber">1.</span> <span class="toctext">Einordnung der Methode</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Ursprung_der_Methode"><span class="tocnumber">2.</span> <span class="toctext">Ursprung</span></a></li>
 <li class="toclevel-1 tocsection-3"><a href="#Walt_Disney_Methode"><span class="tocnumber">3.</span> <span class="toctext">Methode</span></a>
+<li class="toclevel-1 tocsection-4"><a href="#Fazit_"><span class="tocnumber">3.</span> <span class="toctext">Fazit</span></a>
+<li class="toclevel-1 tocsection-3"><a href="#Quellen_"><span class="tocnumber">3.</span> <span class="toctext">Quellen</span></a>
 </ul>
 </div>
 <h2><span class="mw-headline" id="Einordnung_der_Methode">Einordnung der Methode</span></h2>
@@ -21,6 +23,10 @@ Walt Disney war berühmt für seine ehrgeizigen und kreativen Projekte, welche e
 Der Erfolg von Walt Disney lag wohl unter anderem daran, dass es für ihn scheinbar keine Grenzen gab. Walt Disney selbst, sagte einst „If you can dream it, you can do it.“. Und genau dieses berühmte Zitat zeigte sich auch beim Kreativitätsprozess der Walt Disney Company. Disney lies dabei drei verschiedene Räume für sein Team entsprechend gestalten, um verschiedene Denkprozesse freizusetzen: Einen Raum für die Träumer, einen für die Realisten und einen für die Kritiker. 
 Robert B. Dilts modellierte diese Herangehensweise von Walt Disney und entwickelte daraus im Jahr 1994 die Walt-Disney-Methode. 
 <h2><span class="mw-headline" id="Walt_Disney_Methode">Methode</span></h2>
+
+<h2><span class="mw-headline" id="Fazit_">Fazit</span></h2>
+
+<h2><span class="mw-headline" id="Quellen_">Quellen</span></h2>
 
 
 Kurzbeschreibung zu Walt_Disney_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
