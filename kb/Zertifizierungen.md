@@ -22,25 +22,29 @@ Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besond
 | Schwerpunkt                             | Hard- und Softskills     | Methodiken wie Scrum, Kanban, etc. | Prozesse und Methoden              | Prince-2 Methodik  | Scrum Methodik |
 | Zielgruppe                              | Mittlere Erfahrung im PM | Projektmanager mit Berufserfahrung | Projektmanager mit Berufserfahrung | Anfänger           | Anfänger       |
 | Gültigkeit                              | 5 Jahre                  | 2 Jahre                            | 3 Jahre                            | 3 Jahre            | Lebenslang     |
-| Kosten                                  | Ca. 4.000 Euro           | Ca. 400 Euro                       | Ca. 3.000 Euro                     | Bis zu 1500 Euro   | 150 Euro       |
+| Kosten                                  | Ca. 4.000 Euro           | Ca. 400 Euro                       | Ca. 3.000 Euro                     | Bis zu 1500 Euro   | Ca. 4.500 Euro; Prüfung: 150 Euro       |
 
 Ziel dieser Tabelle ist es, einen ersten Überblick über PM-Zertifizierungen zu geben und deren Unterschiede aufzuzeigen. Einzelne Organisationen und deren angebotenen Zertifizierungen, wie die [IPMA](IPMA_Institution.md), das [PMI](PMI_Institution.md) oder [Scrum.org](SCRUM_org_Institution.md) werden in den seperaten Arikeln näher beleuchtet.
 
 # 3. Auswahl der passenden Zertifizierung
 
-Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitgeber die Anerkennung des Zertifikats bei internationalen Arbeitgebern, so bietet sich ein Zertifikat der IPMA-Organisation an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PMZertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das PMP-Zertifikat oder die PMI-ACP-Zertifizierung der PMI eine höhere Chance, anerkannt zu werden. 
+Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitnehmer die Anerkennung des Zertifikats bei internationalen Arbeitgebern, so bietet sich ein Zertifikat der [IPMA-Organisation](https://www.gpm-ipma.de/ueber_uns/ipma.html) an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PM Zertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das [PMP-Zertifikat](https://www.pmi-gc.de/das-chapter/pmi) oder die [PMI-ACP-Zertifizierung](https://www.pmi.org/certifications/agile-acp) der PMI eine höhere Chance, anerkannt zu werden. 
 
 # 4. Praktische Relevanz von Zertifizierungen im PM
 
-Bereits zu Beginn dieses Artikels (vgl. 1. Zertifizierungen und deren Bedeutung im Projektmanagment) wurde aufgezeit, dass PM-Zertifizierungen, eine objektive Darlegung des Wissenstands und der Fähigkeiten von Projektmangern verkörpern. Darüber hinaus gibt es weitere Beweggründe, eine PM-Zertifizierung zu erwerden. Diese werden im Folgenden kurz dargestellt.
+Bereits zu Beginn dieses Artikels (vgl. 1. Zertifizierungen und deren Bedeutung im Projektmanagment) wurde aufgezeit, dass PM-Zertifizierungen eine objektive Darlegung des Wissenstands und der Fähigkeiten von Projektmangern verkörpern. Darüber hinaus gibt es weitere Beweggründe, eine PM-Zertifizierung zu erwerden. Diese werden im Folgenden kurz dargestellt.
 
-## 4.1. Höhere Chancen auf dem Arbeitsmarkt
+## 4.1. Erhöhung der Glaubwürdigkeit
+
+Projektmanager mit einer PM-Zertifizierung erhöhen nachweislich ihre Glaubwürdigkeit von Kunden und Lieferanten, da sie zusätzlich Möglichkeit hatten, ihre Fachexpertise zu steigern.
+
+## 4.2. Höhere Chancen auf dem Arbeitsmarkt
 
 Mit der Aufnahme einer PM-Zertifizierung in den Lebenslauf, steigt nicht nur nicht die Einstellwahrscheinlichkeit, sondern auch die Gehaltaussichten in Anhägigkeit von der Branche und der Unternehmensgröße. Nicht zu vernachlässigen ist, dass Projektmanager mit 6 bis 10 Jahren Berufserfahrung im Durschnitt bereits über 87.000 Euro Brutto-Jahresgehalt erzielen und monetär weniger Anreize zur Weiterbildung haben. Demnach stärkt eine Zertifizierung ungemein die Reputation des Projektmanagers.
 
-## 4.2. Erhöhung der Glaubwürdigkeit
+Die folgende Grafik verdeutlicht den Gehaltsvorsprung, den zertifizierte Projektmanager im Durchschnitt erzielen. 
 
-Projektmanager mit einer PM-Zertifizierung erhöhen nachweislich ihre Glaubwürdigkeit von Kunden und Lieferanten, da sie zusätzlich Möglichkeit hatten, ihre Fachexpertise zu steigern.
+
 
 # Fazit
 
