@@ -21,7 +21,57 @@ Sie stellen ein mögliches Vorgehen dar, welches durch seine Dokumentierbarkeit 
 
 
 
-# Methoden der Projektplanung
+# Methoden des klassischen Projektmanagements
+Typische Methoden: Netzplantechnik, Meilensteintrendanalyse, Projektstrukturplanung, Erstellung eines Gantt-Charts[^7]
+
+## Netzplantechnik
+## Meilensteintrendanalyse
+## Projektstrukturplanung
+## Gantt-Chart
+
+
+
+# Methoden des agilen Projektmanagements
+Typische Methoden: Backlog-Management, Kanban-Board, Daily Scrum, Sprint Review[^7]
+
+## Backlog-Management
+## Kanban-Board
+## Daily Scrum
+## Sprint Review
+
+
+
+# Allgemein nutzbare Methoden
+Typische Methoden: Stakeholderanalyse, Risikoanalyse, Business Case, ABC-Analyse, Plan-Ist-Vergleich, Project Canvas, Kommunikationsmatrix[^7]
+
+## Stakeholderanalyse
+## Risikoanalyse
+## Business Case
+## ABC-Analyse
+## Plan-Ist-Vergleich
+## Project Canvas
+## Kommunikationsmatrix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -149,7 +199,7 @@ Scheiferla Nemberch nä Bledzla Affnhidz.
 [^4]: [Projektmanagement mit System: Organisation, Methoden, Steuerung](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Kraus-Westermann2019_Book_ProjektmanagementMitSystem.pdf)
 [^5]: [Systemische Werkzeuge für erf. Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Systemische%20Werkzeuge%20f%C3%BCr%20erf.%20Projektmanagement.pdf)
 [^6]: [SAP® ERP – Praxishandbuch Projektmanagement] (file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/SAP%C2%AE%20ERP%20%E2%80%93%20Praxishandbuch%20Projektmanagement.pdf)
-
+[^7]: [Projektmanagement-Methoden: Der ultimative Überblick](https://projekte-leicht-gemacht.de/pm-methoden/)
 
 
 
