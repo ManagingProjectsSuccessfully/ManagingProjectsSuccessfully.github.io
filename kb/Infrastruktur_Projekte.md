@@ -53,7 +53,7 @@ Da es nicht pauschal eine richtige Lösung gibt, sollte man also für jedes Proj
 
 # Quellen
 
-[^1]: Digitales Wörterbuch der deutschen Sprache (https://www.dwds.de/wb/Infrastrukturprojekt)
+[^1]: [Digitales Wörterbuch der deutschen Sprache](https://www.dwds.de/wb/Infrastrukturprojekt)
 [^2]: [Private Infrastruktur und der Konjunkturzyklus](https://www.dws.com/de-de/insights/cio-view/cio-view-quarterly/q3-2019/private-infrastruktur/)
 [^3]: [Wissenwertes zur Infrastruktur](https://www.boell.de/de/2019/12/16/wissenwertes-zur-infrastruktur)
 [^4]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-führung/agiles-vs-klassisches-projektmanagement/)
@@ -65,4 +65,4 @@ Da es nicht pauschal eine richtige Lösung gibt, sollte man also für jedes Proj
 [^10]: [FLUGHAFEN BERLIN-BRANDENBURG (BER)](http://projekt-manager.eu/projektmanagement-BER.html)
 [^11]: https://rpma.de/mehrwert-durch-die-symbiose-von-traditionellem-und-agilem-projektmanagement/)
 [^12]: [Die 7 meistgenutzten Projektmanagement-Methoden im Vergleich](https://zenkit.com/de/blog/7-meistgenutzte-projektmanagement-methoden-im-vergleich/)
-[^13]: [So geht Projektmanagement! Flughafen BER < > St.Gotthard-Tunnel](ttps://www.berlinerteam.de/magazin/so-geht-projektmanagement-flughafen-ber-st-gotthard-tunnel/)
+[^13]: [So geht Projektmanagement! Flughafen BER-St.Gotthard-Tunnel](https://www.berlinerteam.de/magazin/so-geht-projektmanagement-flughafen-ber-st-gotthard-tunnel/)
