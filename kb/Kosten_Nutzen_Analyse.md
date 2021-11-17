@@ -59,7 +59,7 @@ Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet[^1
                   
 *Mögliche Modellierung einer Kosten-Nutzen-Analyse*
 
-![Kosten-Nutzen-Analyse pic v2](kb/Kosten_Nutzen_Analyse/Kosten-Nutzen-Analyse pic v2.jpeg)
+![Beispielabbildung](kb/Kosten_Nutzen_Analyse/Kosten-Nutzen-Analyse pic v2.jpeg)
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
