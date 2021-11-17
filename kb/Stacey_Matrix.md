@@ -35,8 +35,8 @@ Chaotisch eingeordnete Projekte definieren sich durch völlig unklare Anforderun
 
 # Kritik an der Stacey-Matrix
 
-Eine der größten Kritiken an der Stacey-Matrix ist, dass sie zu schnell fehlinterpretiert wird. Sie stellt keine Anleitung zur Findung der perfekten Projektmanagementmethode dar und wird oft für eigene Ziele abgewandelt.
-Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts ein sinnvolles Kriterium für die Wahl der Projektmanagementmethode geeignet ist.
+Eine der größten Kritiken an der Stacey-Matrix ist, dass sie zu schnell fehlinterpretiert wird. Sie stellt laut Stacey keine Anleitung zur Findung der perfekten Projektmanagementmethode dar und wird oft auf eigene Interessen abgewandelt[^5].
+Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts ein sinnvolles Kriterium für die Wahl der Projektmanagementmethode geeignet ist[^3].
 
 # Siehe auch
 
