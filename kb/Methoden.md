@@ -15,8 +15,6 @@ Die Planung und Bearbeitung von Projekten erfordert einiges an Arbeit. Um diese 
 
 Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von Projekten. Die Ausführung dieser Projekte wird komplett oder teilweise vorgegeben.[^1]
 
-Kreativitätsmethoden dienen im Bezug auf Projektmanagement dazu, innovative Ideen zu sammeln.
-
 Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen. Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]S.316
 Methoden geben Projekten Transparenz und Struktur.[^4]S.43
 Sie stellen ein mögliches Vorgehen dar, welches durch seine Dokumentierbarkeit ebenso nachvollziebar und korrigierbar ist. Außerdem wird das Vorgehen durch Methoden besser vertändlich und einzelne Schritte können einfacher kommuniziert werden.[^4]S.44
@@ -34,6 +32,8 @@ Der Projektstrukturplan stellt einen möglichen Aufbau bereit, an dem die Projek
 
 ## Kreativitätsmethoden
 
+Kreativitätsmethoden dienen im Bezug auf Projektmanagement dazu, innovative Ideen zu sammeln.
+
 Besonders bekannt:
 * 6-3-5-Methode
 * Brainstorming
@@ -46,10 +46,6 @@ Besonders bekannt:
 
 # Methoden der Projektrealisierung
 
-
-## Beziehungsmanagement
-
-* Erst- und Folgegespräche mit Projektmitarbeitern[^5]S.54
 
 
 
