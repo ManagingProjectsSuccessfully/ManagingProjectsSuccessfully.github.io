@@ -121,7 +121,6 @@ author: anniSc
 | [Deliverable](kb/Deliverable.md)                                                                                                   | [starni26](https://github.com/starni26)                       |
 | [Forecasts](kb/Forecasts.md)                                                                                                       | [eftalyaumat](https://github.com/eftalyaumat)                 |
 | [Timeboxing](kb/Timeboxing.md)                                                                                                     | [janetteschuller](https://github.com/janetteschuller)         |
-| [Compliance_im_Projektmanagment](kb/Compliance_im_Projektmanagment.md)                                                             | [phigeit](https://github.com/phigeit)                         |
 | [Vorgehensmodelle](kb/Vorgehensmodelle.md)                                                                                         | [hello-pukeko](https://github.com/hello-pukeko)               |
 | [SCRUM_but](kb/SCRUM_but.md)                                                                                                       | [thujavanj](https://github.com/thujavanj)                     |
 | [SCRUMBAN](kb/SCRUMBAN.md)                                                                                                         | [mickey0684](https://github.com/mickey0684)                   |
@@ -142,7 +141,6 @@ author: anniSc
 | [Six_Sigma](kb/Six_Sigma.md)                                                                                                       | [flxrbnk](https://github.com/flxrbnk)                         |
 | [PRINCE2](kb/PRINCE2.md)                                                                                                           | [patrick203494](https://github.com/patrick203494)             |
 | [PRINCE2_7_Grundprinzipien](kb/PRINCE2_7_Grundprinzipien.md)                                                                       | [Za22Regi](https://github.com/Za22Regi)                       |
-| [PRINCE2_7_Prozesse](kb/PRINCE2_7_Prozesse.md)                                                                                     | [aculsalocin](https://github.com/aculsalocin)                 |
 | [PRINCE2_Projektumgebung](kb/PRINCE2_Projektumgebung.md)                                                                           | [corinnaneubauer](https://github.com/corinnaneubauer)         |
 | [SWAT_Analyse](kb/SWAT_Analyse.md)                                                                                                 | [AlperK61](https://github.com/AlperK61)                       |
 | [Hybrides_Projektmanagment](kb/Hybrides_Projektmanagment.md)                                                                       | [juliwebair](https://github.com/juliwebair)                   |
