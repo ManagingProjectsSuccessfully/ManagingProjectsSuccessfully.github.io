@@ -1,16 +1,11 @@
 ---
 title: Praxisbeispiele_erfolgreiche_Projekte
-tags: klassisch
+tags: agil klassisch
 author: Goschu1
 anrechnung: k 
 ---
-Dieser Artikel handelt von exemplarischen erfolgreichen Großprojekten, die Unternehmen und sogar einen Staat maßgeblich vorangebracht haben. Wie Erfolg im Projektmanagement definiert ist könnnen Sie [hier] nachlesen. 
+Dieser Artikel handelt von exemplarischen erfolgreichen Großprojekten, die Unternehmen und sogar einen Staat maßgeblich vorangebracht haben. Wie Erfolg im Projektmanagement definiert ist und gemessen wird könnnen Sie [hier](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md) nachlesen. 
 
-
-
- [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) 
 
 # Einführung des iPhones
 
@@ -28,7 +23,7 @@ Eines der größten Multi-Milliarden-Projekte der frühen 2000er, welches sogar 
 # Projektmanagement bei American Airlines
 
 Durch die Fusion von American Airlines und US Airways kam es zu Überschneidungen bei Technologien und internen IT-Programmen. Das Managment entschloss sich dazu, ein Projekt zu etablieren mit dem Ziel, die IT der Unternehmen und Datenbanken zu einer zusammenzuführen und dadurch einen kommerzielen Erfolg und effiktivere Arbeitzeiten zu schaffen.
-Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressourcen und komplexen Projekten unzureichend. Um einen Überblick über die kommerziel erfolgreichsten Daten und Projekte zu bekommen, begann das Unternehmen mit ihren Projektmanagern ein smartes System zu entwickeln, welches alle Daten automatisch auszuwertet. Infolgedessen konnte die Airline die Planungszeiten für Projekte und Routen verkürzen und dabei weniger Arbeiter einsetzten, was sich positiv auf den Gewinn auswirkte und mehrere Millionen Dollar einbrachte. Das Unternehmen hat nun Zugang zu besseren und zuverlässigeren Daten, um wichtige Entscheidungen über Projekte und Ressourcen zu treffen.[^7].
+Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressourcen und komplexen Projekten unzureichend. Um einen Überblick über die kommerziel erfolgreichsten Daten und Projekte zu bekommen, begann das Unternehmen mit ihren Projektmanagern ein smartes System zu entwickeln, welches alle Daten automatisch auszuwertet. Infolgedessen konnte die Airline die Planungszeiten für Projekte und Routen verkürzen und dabei weniger Arbeiter einsetzten, was sich positiv auf den Gewinn auswirkte und mehrere Millionen Dollar einbrachte. Das Unternehmen hat nun Zugang zu besseren und zuverlässigeren Daten, um wichtige Entscheidungen über Projekte und Ressourcen zu treffen.[^7] Dank diesem erfolgreichen Projektmanagements ist Armerican Airlines bis heute eine der größten Fluggesellschaften der Welt.[^8]
 
 ![American-Airline](Praxisbeispiele_erfolgreiche_Projekte/AmericanAirlines.jpg)
 
@@ -41,8 +36,8 @@ Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressour
 * [Link auf diese Seite](Praxisbeispiele_erfolgreiche_Projekte.md)
 
 # Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+(https://www.manager-magazin.de/harvard/management/das-geheimnis-erfolgreicher-projekte-a-00000000-0002-0001-0000-000159313152)
+(https://simpleflying.com/history-american-airlines/)
 
 # Quellen
 [^1]: [Apple's Phone: From 1980s' Sketches to iPhone](https://mobile-review.com/articles/2010/iphone-history3-en.shtml)
@@ -52,6 +47,7 @@ Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressour
 [^5]: [Das sind die größten Kraftwerke der Welt](https://www.handelsblatt.com/technik/energie-umwelt/circular-economy/wasser-wind-kohle-atom-das-sind-die-groessten-kraftwerke-der-welt/14849820.html?ticket=ST-3508956-DO6yaiY0yaqKcLYJpJOx-cas01.example.org)
 [^6]: [Der Drei-Schluchten-Stausee gibt fast 90% seiner Kapazität zum Hochwasserschutz frei](http://german.china.org.cn/txt/2021-06/03/content_77546264.html)
 [^7]: [Project Report on Merger of American airlines and US airlines](https://de.slideshare.net/reenasisodiya10/project-report-on-merger-of)
+[^8]: [RND: Die größten Fluggesellschaften der Welt](https://www.rnd.de/reise/iata-ranking-das-sind-die-25-groessten-airlines-der-welt-LDHUXKVAC5FCJLHKY2JTZJP4ZU.html)
 
 
 
