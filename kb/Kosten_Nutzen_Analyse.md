@@ -59,6 +59,7 @@ Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet[^1
                   
 *Mögliche Modellierung einer Kosten-Nutzen-Analyse*
 
+![Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse/Bild1.png)[^4]
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -138,5 +139,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: Hüftle, M.(2006); Bewertungsverfahren, http://www.optiv.de/Methoden/BewVerfa/BewVerfa.pdf (aufgerufen am 12.11.2021)
 [^2]: Angermeier, G.(2005); Kosten-Nutzen-Analyse, https://www.projektmagazin.de/glossarterm/kosten-nutzen-analyse (aufgerufen 09.11.1021)
 [^3]: Kosten-Nutzen-Analyse, https://www.lexoffice.de/lexikon/kosten-nutzen-analyse/ (aufgerufen am 15.11.2021)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: Wenzelis, N. (2021); Diagramme zur Kosten-Nutzen-Analyse: Was sie sind und wie man sie einsetzt, https://blog.mindmanager.com/de/blog/diagramme-zur-kosten-nutzen-analyse-was-sie-sind-und-wie-man-sie-einsetzt/ (aufgerufen am 16.11.2021)
 
