@@ -33,7 +33,7 @@ Die 3_6_5_Methode läuft wie folgt ab:
 ## Bewertung und Verarbeitung
 
 Im Anschluss werden die Ergebnisse analysiert. Es können Ideen kombiniert oder erweitert werden. Offene Fragen können geklärt werden. 
-Alternativ kann der Initiator des Termins die Ergebnisse auch alleine auswerten und in einem Folgetermin präsentieren und disskutieren. [^6]
+Alternativ kann der Initiator des Termins die Ergebnisse auch allein auswerten und in einem Folgetermin präsentieren und diskutieren. [^6]
 
 Bei einer gemeinsamen Analyse im Team gibt es die Möglichkeit die Vordrucke noch einmal im Uhrzeigersinn durchzureichen. Jede Person setzt je Zettel ein Kreuz bei der persönlich als am besten bewerteten Idee. Der Initiator kann so die Priorisierung feststellen und diese vorstellen.[^7]
 
@@ -48,7 +48,7 @@ Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
 * Kreativitätssteigerung durch einen Aufbau auf bereits genannte Ideen möglich
 * Größere Gruppe können in kleine Sechser-Gruppen aufgeteilt werden, die Methode ist somit auch für große Teams anwendbar
 * Die Ideen werden von der Person getrennt, die objektive Bewertung wird sichergestellt
-* Mittels virtuellem Vordruck auch digital möglich 
+* Mittels virtuellen Vordruckes auch digital möglich 
 
 ## Nachteile
 
@@ -65,7 +65,7 @@ Die Methode wurde erstmals 1969 vom Unternehmensberater Bernd Rohrbach erwähnt.
 Die 3_6_5_Methode ist eine kreativ-intuitive Methoden und basiert auf Assoziation. Assoziation beschreibt automatische Denkvorgänge.
 Spontanität und Leichtigkeit sind von Bedeutung, die Ergebnisse müssen nicht von Anfang an perfekt sein.[^5]
 
-Die Zeit pro Runde wird vorab festglegt. Hierbei wird meistens ein Zeitraum von zwei bis fünf Minuten empfohlen.[^2][^5]
+Die Zeit pro Runde wird vorab festgelegt. Hierbei wird meistens ein Zeitraum von zwei bis fünf Minuten empfohlen.[^2][^5]
 
 # Siehe auch
 
