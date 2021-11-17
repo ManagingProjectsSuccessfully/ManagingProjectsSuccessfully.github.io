@@ -35,15 +35,12 @@ Nach dem Barcamp werden die Dokumentationen der Teilnehmer gesammelt und in eine
 
 # Vor und Nachteile von Barcamps
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Barcamp_Methode/test-file.jpg)
-
-*lustiges Testbild*
+|Vorteile | Nachteile |
+|---|---|
+|erstaunliche Ergebnisse|Kosten-/Zeitaufwand|
+|Abwechslung für Teilnehmer |unmotivierte Teilnehmer|
+|Entfaltung der Teilnehmer|ungeordeter Ablauf|
+|Teambuilding Maßnahme|Unstimmigkeiten zwischen Teilnehmern|
 
 # Aspekt 2
 
