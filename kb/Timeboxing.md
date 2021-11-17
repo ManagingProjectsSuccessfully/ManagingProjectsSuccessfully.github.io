@@ -5,10 +5,7 @@ author: janetteschuller
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Timeboxing um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Timeboxing ist eine Methode im agilen Projektmanagement. Hierbei werden für die zu erledigenden Aufgaben bestimme Zeitslots, die sogenannten Timeboxes, reserviert. Es wird vorher genau festgelegt was in einer Timebox zu erledigen ist und was das Ziel der jeweiligen Timebox ist. Dadurch sind eine klare Planung und Struktur der Aufgaben und damit des Projekts garantiert. 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
