@@ -21,12 +21,8 @@ Akteuren und das erkennen und bewerten von Hindernissen. [^2]
 
 
 ## Ursachen 
-Für Probleme bei der Durchführung eines Projektes kann es viele Ursachen geben. Die Anzahl der Entscheidungsakteure in einem Projekt kann zu einem Hemmnis
-werden, dies ist auch auf die Kompetenz der Akteure zurück zu führen. So können auch Hemmnisse bei Machtstrukturen entstehen. Es gibt die Personen auf der
-operativen sowie der strategischen Ebene. Die opertive Ebene hat das Fachwissen und die Spezialisten, diese steht der strategischen Ebene gegenüber, welche die
-hierarchisch höherstehende Ebene darstellt. 
-Es werden bei der Hemmnisanalyse tatsächliche Gegebenheiten geprüft, um Hindernisse zu identifizieren. Da Entscheidungsträger aufgrund ihrer Wahrnehmung
-Entscheidungen treffen, sind die wahrgenommenen Hemmnisse von zentraler Bedeutung.[^3]
+Für Probleme bei der Durchführung eines Projektes kann es viele Ursachen geben. Hemmnisse entstehen vor allem wenn es eine Vielzahl von Zielen gibt, und somit
+verbundene Zielkonflikte. Weitere Ursachen können die Anzahl der Entscheidungsakteure in einem Projekt sein, oder die Verteilung von Machtstrukturen.[^3]
 
 ### Entstehungsgründe für Hemmnisse können in vier Gruppen eingeordnet werden: Dürfen, Wollen, Wissen und Können. 
 Die erste Hemmnisgruppe des **Dürfens** beschreibt Hemmnisse, die durch unklar definierte Ziele entstehen können. Fehlende Unterstützung seitens der
@@ -63,10 +59,7 @@ Wahrgenommenen Hemmnisse werden bewertet und von weniger relevanten Hemmnissen z
 Hierbei kann es sein, dass die Wahrnehmung der Befragten stark variiert. Hier können Veränderungsprozesse beginnen.  
 ### 3. Schritt: Analyse und Strategieentwicklung zur Überwindung
 Der dritte Schritt beinhaltet vor allem die Beurteilung sowie das Herausarbeiten von Strategien zur Bewältigung dieser Hemmnisse. Dabei gibt es mehrere
-unterschiedliche Strategien. Eine Organisation ist ein Vorbild für andere Organisationen, Maßnahmen werden ergriffen, um das Ziel zu erreichen, dies bezeichnet
-das Best-Practice Sharing. Mithilfe der Entscheidungsanalyse werden mit Akteuren Maßnahmen erörtert, die das Hemmnis beheben sollen. Es kann unter anderem
-ermittelt werden, warum es bestimmte Schwachstellen gibt. Daraus können konkret Verbesserungsvorschläge zu künftigen Maßnahmen getroffen werden, dies stellt die
-Problemanalyse dar. [^2]
+unterschiedliche Strategien. [^2]
 
 ## Vergleichbare Methoden zur Bewertung und Messung von Hemmnissen
 ![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
