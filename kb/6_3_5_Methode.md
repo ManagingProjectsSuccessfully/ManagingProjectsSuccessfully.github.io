@@ -13,16 +13,16 @@ Die 6_3_5_Methode ist eine Brainwriting-Kreativitätstechnik. Hierbei erhalten 6
 
 # Einführung
 
-Sie ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainstorming) sehr ähnlich. Es können hierbei in 30 Minuten bis zu 108 Ideen gesammelt werden. Eine mündliche Absprache gibt es während des Ablaufes nicht.[^2]
+Sie ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainstorming) sehr ähnlich. Es können hierbei in wenigen Minuten bis zu 108 Ideen gesammelt werden. Eine mündliche Absprache gibt es während des Ablaufes nicht.[^2]
 
 # Vorteile
 
 Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2]:
 
 * Vermeidung von Spannungen im Team während der Ideenfindung
-* Alle Teilnehmer*innen werden gleichermaßen aktiv. Somit bringt sich jeder ein und die Lösungsvorschläge sind vielfältig.
+* Alle Teilnehmer*innen werden gleichermaßen aktiv, somit bringt sich jeder ein und die Lösungsvorschläge sind vielfältig.
 * Kreativitätssteigerung durch Aufbau auf bereits geschriebene Ideen möglich
-* Größere Gruppe können in kleine 6er-Gruppen aufgeteilt werden, die Methode ist auch für große Teams anwendbar.
+* Größere Gruppe können in kleine 6er-Gruppen aufgeteilt werden, die Methode ist auch für große Teams anwendbar
 
 # Vorgehen
 
@@ -31,9 +31,9 @@ Die 3_6_5 Methode läuft wie folgt ab:
 | Schritt   | Erläuterung | 
 | ------------- | ------------- |
 | Einführung  | Erklärung der Methode für die Teilnehmer*innen  |
-| 1. Runde  | 5 Minuten Zeit für 3 Ideen. Dieses sollen knapp und verständlich auf dem Vordruck aufgeschrieben werden.  |
-| 2. Runde  | 5 Minuten Zeit, der Vordruck wird im Uhrzeigersinn weitergegeben. Ideen dürfen modifiziert, erweitert oder ergänzt werden.|
-| Folgende Runden| Vorgehen wie in der 2. Runde. Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können. |
+| 1. Runde  | 5 Minuten Zeit für 3 Ideen. Dieses sollen knapp und verständlich auf dem Vordruck aufgeschrieben werden  |
+| 2. Runde  | 5 Minuten Zeit, der Vordruck wird im Uhrzeigersinn weitergegeben. Ideen dürfen modifiziert, erweitert oder ergänzt werden|
+| Folgende Runden| Vorgehen wie in der 2. Runde, bei Bedarf Erweiterung der Zeit möglich um vorherige Ideen lesen zu können |
 
 *Abbildung: Vorgehen bei der 6_3_5-Methode*[^2]
 
