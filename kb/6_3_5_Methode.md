@@ -40,12 +40,14 @@ Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Ideen_Marathon](Ideen_Marathon.md)
+* [Walt_Disney_Methode](Walt_Disney_Methode.md)
+* 
 
 # Weiterführende Literatur
 
 * Christian Schawel, Fabian Billing (2009): "Top 100 Management Tools"
+* Joachim H. Becker, Helmut Ebert, Sven Pastoors (2018): "Praxishandbuch berufliche Schlüsselkompetenzen"
 
 # Quellen
 
@@ -53,3 +55,4 @@ Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
 [^2]: [Christian Schawel, Fabian Billing (2009): "Top 100 Management Tools"](https://link.springer.com/content/pdf/10.1007%2F978-3-8349-8185-1.pdf)
 [^3]: https://image.jimcdn.com/app/cms/image/transf/none/path/s5acfc1d9f29c1cb7/image/i8720fe90f8a0a609/version/1550965221/image.png
 [^4]: https://denkmotor.com/kreatives-wissen/brainwriting-6-3-5-methode/
+[^5]: [Joachim H. Becker, Helmut Ebert, Sven Pastoors (2018): "Praxishandbuch berufliche Schlüsselkompetenzen"]https://link.springer.com/content/pdf/10.1007%2F978-3-662-54925-4_11.pdf
