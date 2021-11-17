@@ -28,7 +28,10 @@ Programme sind grundlegend Managementaufgaben auf Zeit. Auch besteht meist eine 
 
 # Abgrenzung
 
-Das PM besitzt meist zyklische oder sich wiederholende Vorgänge. Im Vergleich dazu fokussiert sich das Projektmanagement auf ein einzelnes Projekt.[^4] 
+Das PM besitzt meist zyklische oder sich wiederholende Vorgänge. 
+
+Im Vergleich dazu fokussiert sich das Projektmanagement auf ein einzelnes Projekt.[^4] 
+
 Projektportfolio bezeichnet dagegen die Zusammenfassung aller geplanten, genehmigten und laufenden Projekte und Programme eines Unternehmens.[^1]
 
 
@@ -41,7 +44,7 @@ Weitere wichtige Verantwortungsbereiche eines Programmmanagers sind:
 
 -	das Definieren und Erreichen der Programmziele
 -	eine aggregierte Risikobetrachtung
--	die Kommunikation und Berichterstattung des Programmfortschritts.[^5]
+-	sowie die Kommunikation und Berichterstattung des Programmfortschritts.[^5]
 
 
 # Nutzen
@@ -55,11 +58,11 @@ All dies ist im Folgenden auch noch einmal grafisch dargestellt:
 
 # Fazit
 
-Insgesamt lässt sich also festhalten, dass es keine einheitliche Definition des Programmmanagement gibt und diese dadurch stark variiert. 
+Insgesamt lässt sich also festhalten, dass es keine einheitliche Definition des Programmmanagements gibt und diese dadurch stark variiert. 
 
 Dennoch steht eins fest: das PM beschäftigt sich mit der Planung, Kontrolle und Steuerung von mehreren, miteinander in Beziehung stehenden Projekten mit dem Zweck, bestimmte Unternehmensziele zu erreichen. Dabei eignet sich das PM laut Dr. Georg Angermeier vor allem als Konzept für das Management von großen, komplexen Vorhaben.[^7]
 
-Eine striktere Abgrenzung von weiteren Managementbegriffen erscheint dennoch sinnvoll.
+Eine striktere Abgrenzung von weiteren Managementbegriffen erscheint dennoch sinnvoll. Hierfür bietet es sich an, sich ebenfalls mit den verlinkten Themen zu beschäftigen. 
 
 
 # Siehe auch
