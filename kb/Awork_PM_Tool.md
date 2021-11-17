@@ -20,7 +20,7 @@ Awork ermöglicht das Tracken der Zeit für Projekte und Aufgaben über einen Ti
 ## 6. Individuelle Dashboards 
 Auf dem Dashboard[^2], der graphischen Benutzeroberfläche, können relevante Funktioen übersichtlich abgelegt werden, was eine bedarfsorientierte und individuelle Anpassung ermöglicht. 
 Dafür können verschiedene Widgets ausgewählt werden, beispielsweise TExtnotizen, Aufgabenliste, Projektliste, Zeitauswertung und Abwesenheit von Usern[^4].
-![Beispielabbildung](Awork_PM_Tool/Dashboard.png)
+
 ## 7. Weitere Funktionen[^1]
 * Überblick über Auslastung, Teamplanung und Abwesenheit mit der Ressourcenplanung 
 * Aufgabenchat: Teamkommunikation und Feedback 
