@@ -132,6 +132,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^10]: https://link.springer.com/article/10.1007/s11612-021-00563-z)
 [^11]: http://projekt-manager.eu/projektmanagement-BER.html)
 [^12]: https://www.roth-institut.de/roth-wissens-journal/wissen-führung/agiles-vs-klassisches-projektmanagement/
-[^13]:
+[^13]: https://rpma.de/mehrwert-durch-die-symbiose-von-traditionellem-und-agilem-projektmanagement/)
 [^14]: https://zenkit.com/de/blog/7-meistgenutzte-projektmanagement-methoden-im-vergleich/
 [^15]: https://www.berlinerteam.de/magazin/so-geht-projektmanagement-flughafen-ber-st-gotthard-tunnel/
