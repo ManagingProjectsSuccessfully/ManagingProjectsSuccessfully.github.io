@@ -2,13 +2,10 @@
 title: Awork_PM_Tool
 tags: agil klassisch
 author: sophiej26
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Awork_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Awork ist eine Software der HQLabs GmbH, gegründet 2012, mit Sitz in Hamburg. Das awork Projektmanagement-Tool eignet sich sowohl für klassische als auch agile Projekte. Zielsetzung des Unternehmens, unter dem Produktfokus "keep it simple", ist die Schaffung eines einfachen und intuitiven Organisations-Tools. 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
