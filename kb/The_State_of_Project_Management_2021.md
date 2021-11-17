@@ -7,13 +7,14 @@ anrechnung: k
 
 // Kurzbeschreibung zu The_State_of_Project_Management_2021 um ein erstes Verständnis dafür zu schaffen um was es hier geht. //
 
-"The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation [Wellington](https://wellingtone.co.uk/). In den Berichten werden über 200 Organisationen [^1] aus verschiedenen Sektoren interviewet. Durch die Analyse, Auswertung & Darstellung der Antworten werden sowohl allgemeine Kennzahlen über den aktuellen Stand des Projekt Management als auch Methoden und Ansätze präsentiert. So können Kennzahlen beispielweise sein, dass weniger als 50% der Projektmanager keine professionelle Ausbildung für ihren Postion haben, als auch Methoden zur Leistungsverbesserung vorgestellt werden, die einen eventuellen Denkanstoß einenleiten. [^2] 
+"The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation [Wellington](https://wellingtone.co.uk/). In dem Bericht werden zahlreiche namenhafte Unternehmen [^1] aus verschiedenen Sektoren interviewet, um den aktuellen Probleme, Entwicklungen des Projekt Management als auch Mehtoden und Ansätze für die Zukunft zu präsentieren, die wiederum Unternehmen dazu bewegen sollen ihre Prozesse im Projektablauf zu hinterfragen und mit neuen Techniken effizenter zu gestalten. 
+Im Allgemeinen zeichnet sich seit mehereren Jahren ab, dass beim Project Management über die Performance nachlässt und sowohl Durchführung als auch der Erfolg des Projekt zunehmend abnimmt. Durch die Analyse, Auswertung & Darstellung bestimmter Fragen wird die aktuelle Entwicklung dargestellt, Maturity Levels spiegeln Leistungen wieder und durch sogenannte Key Drivers wird beschrieben, welche Faktoren wichtig sind, damit das Projekt Management erfolgreich ist.[^3] [^2] 
 
-# Key Questions:
+# Project Management Basics:
 
-Unter den sogenannten Key Question sind Fragen zu verstehen, die Aufschluss über die wichtigsten Hauptelemente eines Projekts geben und allgemeine Kennzahlen darstellen können. Hierzu zählt unter anderem, ob mit einer festgelegten Methode und Zeitplan, einem Planungsprotokoll und mit möglichen Risikomanagement gearbeitet wird. [^2] Mit Hilfe dieser Fragen können Schlussfolgerungen über ein mögliches Verbesserungspotenzial als auch die Entwicklungsrichtung von Projekt Management dargestellt werden
+Unter den Project Management Basics sind Fragen zu verstehen, die Aufschluss über aktuelle Entwicklungen im Projekt Management wiederspiegeln und allgemeine Kennzahlen darstellen. So wird im Bericht 2021 festgestellt, ob mit einer festgelegten Methode und Zeitplan, einem Planungsprotokoll und mit möglichen Risikomanagement gearbeitet wird. [^2] Mit Hilfe dieser Fragen können Schlussfolgerungen über ein mögliches Verbesserungspotenzial als auch die Entwicklungsrichtung von Projekt Management dargestellt werden
 
-Darüberhinaus wird anhand eines Diagramme Rückschlüsse gewonnen, die aufzeigen, welche Aufgaben die größten Herausforderungen mit dem damit zusammenhängenden Wert im Portfolio des Projektmanagements haben. Daraus ergibt sich das nachfolgende Diagramm.
+So wird im diesjährigen Bericht mit Hilfe eines Diagramme Rückschlüsse gewonnen, die aufzeigen, welche Aufgaben die größten Herausforderungen mit dem damit zusammenhängenden Wert im Portfolio des Projektmanagements haben.
 
 ![PPM Process Value vs. Difficulty to embed](The_State_of_Project_Management_2021/PV_v_DTE.jpg)
 
@@ -21,10 +22,10 @@ Darüberhinaus wird anhand eines Diagramme Rückschlüsse gewonnen, die aufzeige
 
 # Maturity Levels:
 
-Mit Hilfe der Maturity Levels wird die Reife des Projekt Managements genauer beschrieben. Insgesamt gibt es fünf verschiedene Level. Dazu zählen folgende:
+Mit Hilfe der fünf Maturity Levels wird die Reife des Projekt Managements genauer beschrieben. Damit wird Unternehmen aufgezeigt, auf welchem Level sich einzelne Abschnitte im Projekt Management befinden, um hier besser anzugreifen & eine Entwicklung einzuleiten. 
 
 * Level 1: Initial
-   - Intial zu Deutsch anfänglich beschreibt ein Management, welches nicht vorhanden ist. Es werden keinerlei Daten erhoben.
+   - Intial zu Deutsch anfänglich beschreibt ein Management, welches nicht vorhanden ist. Prozesse werden ohne Daten erhoben & sind ad-hoc geplant.
 * Level 2: Defined
    - There are pockets of excellence and some processes but the application is largely down to the individual. There are defined skills xxx within the organisation, not necessarily within a dedicated PMO function; there are no measures in place. 
 * Level 3: Standardised
@@ -154,6 +155,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [The State of Project Management Annual Report 2021 (YouTube)](https://www.youtube.com/watch?v=hZd5SgZWoWU)
 [^2]: [Annual Report - The State of Project Management 2021 (PDF)](https://wellingtone.co.uk/wp-content/uploads/2021/03/The-State-of-PM-2021.pdf)
+[^3]: [Identifying the State of Project Management (PDF)](https://www.sciencedirect.com/science/article/pii/S1877705816302144)
 [^10]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
