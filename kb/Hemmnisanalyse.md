@@ -11,7 +11,7 @@ anrechnung: k
 
 
 Die Hemmnisanalyse gehört zu dem Überbegriff des [Klassischen Projektmanagement](https://de.wikipedia.org/wiki/Projektmanagement). 
-Hierbei ist das Projekt sehr strukturiert aufgebaut und zu Beginn alle Ziele und Phasen definiert. 
+Projekte werden sehr strukturiert aufgebaut und es werden zu Beginn alle Ziele und Phasen definiert. 
 Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projektes verzögern oder komplett verhindern. Die Hemmnisanalyse stellt ein Werkzeug da,
 mit welchem mögliche Probleme in der Zukunft entgegengewirkt werden soll.[^1]
 
@@ -22,7 +22,7 @@ Akteuren und das erkennen und bewerten von Hindernissen. [^2]
 
 ## Ursachen 
 Für Probleme bei der Durchführung eines Projektes kann es viele Ursachen geben. Die Anzahl der Entscheidungsakteure in einem Projekt kann zu einem Hemmnis
-werden, dies ist auch auf die Kompetenz der Akteure zurück zu führen. So können auch Hemmnisse entstehen bei Machtstrukturen. Es gibt die Personen auf der
+werden, dies ist auch auf die Kompetenz der Akteure zurück zu führen. So können auch Hemmnisse bei Machtstrukturen entstehen. Es gibt die Personen auf der
 operativen sowie der strategischen Ebene. Die opertive Ebene hat das Fachwissen und die Spezialisten, diese steht der strategischen Ebene gegenüber, welche die
 hierarchisch höherstehende Ebene darstellt. 
 Es werden bei der Hemmnisanalyse tatsächliche Gegebenheiten geprüft, um Hindernisse zu identifizieren. Da Entscheidungsträger aufgrund ihrer Wahrnehmung
@@ -35,7 +35,7 @@ Führungsebene kann zum Beispiel zur Hemmung führen. Akteure können somit nich
 Die Gruppe **Wollen** beschreibt individuelle Ziele von Akteuren. Akteure wollen Entscheidungen nicht unterstützen, wenn es ihren inneren Einstellungen
 widerspricht. Man könnte bei diesem Hindernis auch von einem personellen Widerstand sprechen.
 
-Betroffene die aufgrund ihrer Qualifikation oder Leistungsfähigkeit, vorhandene Information nicht nutzen können werden der Gruppe des **Wissens** zugewiesen.
+Betroffene die aufgrund ihrer Qualifikation oder Leistungsfähigkeit, vorhandene Information nicht nutzen können werden der Gruppe des **Wissens** zugeordnet.
 Wissensbarrieren können den Informationsaustausch hemmen.
 
 Die Hemmnisgruppe **Können** beschreibt ob ein Betroffener in der Lage ist Informationen zu nutzen. Aber nicht nur Informationsmangel kann ein Hindernis
@@ -66,7 +66,7 @@ Der dritte Schritt beinhaltet vor allem die Beurteilung sowie das Herausarbeiten
 unterschiedliche Strategien. Eine Organisation ist ein Vorbild für andere Organisationen, Maßnahmen werden ergriffen, um das Ziel zu erreichen, dies bezeichnet
 das Best-Practice Sharing. Mithilfe der Entscheidungsanalyse werden mit Akteuren Maßnahmen erörtert, die das Hemmnis beheben sollen. Es kann unter anderem
 ermittelt werden, warum es bestimmte Schwachstellen gibt. Daraus können konkret Verbesserungsvorschläge zu künftigen Maßnahmen getroffen werden, dies stellt die
-Problemanalyse dar. [^4]
+Problemanalyse dar. [^2]
 
 ## Vergleichbare Methoden zur Bewertung und Messung von Hemmnissen
 ![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
@@ -75,7 +75,8 @@ Problemanalyse dar. [^4]
 
 
 ## Fazit
-Die vollumfängliche Analyse der Hemmnisse stellt eine Basis für eine kontinuierliche Verbesserung dar. Hemmnisse können so frühzeitig erkannt werden und mithilfe von Strategien und Maßnahmen überwältigt werden.
+Die vollumfängliche Analyse der Hemmnisse stellt eine Basis für eine kontinuierliche Verbesserung dar. Hemmnisse können so frühzeitig im Projektmanagement
+erkannt werden und mithilfe von Strategien und Maßnahmen überwältigt werden.
 
 
 
