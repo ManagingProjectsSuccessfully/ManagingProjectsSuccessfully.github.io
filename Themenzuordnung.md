@@ -12,7 +12,6 @@ author: anniSc
 | [Who_is_Who_Projectmanagement](kb/Who_is_Who_Projectmanagement.md)                                                                 | [ne88peni](https://github.com/ne88peni)                       |
 | [Zertifizierungen](kb/Zertifizierungen.md)                                                                                         | [JonasMallwitz](https://github.com/JonasMallwitz)             |
 | [PMI_Institution](kb/PMI_Institution.md)                                                                                           | [CHESLYNN](https://github.com/CHESLYNN)                       |
-| [IPMA_Institution](kb/IPMA_Institution.md)                                                                                         | [AliciaVetters](https://github.com/AliciaVetters)             |
 | [GPM_Institution](kb/GPM_Institution.md)                                                                                           | [zo54hoko](https://github.com/zo54hoko)                       |
 | [SCRUM_org_Institution](kb/SCRUM_org_Institution.md)                                                                               | [SimonM211](https://github.com/SimonM211)                     |
 | [Internationale_Projektmanagement_Standards](kb/Internationale_Projektmanagement_Standards.md)                                     | [laura1mueller](https://github.com/laura1mueller)             |
@@ -143,7 +142,6 @@ author: anniSc
 | [Six_Sigma](kb/Six_Sigma.md)                                                                                                       | [flxrbnk](https://github.com/flxrbnk)                         |
 | [PRINCE2](kb/PRINCE2.md)                                                                                                           | [patrick203494](https://github.com/patrick203494)             |
 | [PRINCE2_7_Grundprinzipien](kb/PRINCE2_7_Grundprinzipien.md)                                                                       | [Za22Regi](https://github.com/Za22Regi)                       |
-| [PRINCE2_7_Themen](kb/PRINCE2_7_Themen.md)                                                                                         | [AliciaVetters](https://github.com/AliciaVetters)             |
 | [PRINCE2_7_Prozesse](kb/PRINCE2_7_Prozesse.md)                                                                                     | [aculsalocin](https://github.com/aculsalocin)                 |
 | [PRINCE2_Projektumgebung](kb/PRINCE2_Projektumgebung.md)                                                                           | [corinnaneubauer](https://github.com/corinnaneubauer)         |
 | [SWAT_Analyse](kb/SWAT_Analyse.md)                                                                                                 | [AlperK61](https://github.com/AlperK61)                       |
