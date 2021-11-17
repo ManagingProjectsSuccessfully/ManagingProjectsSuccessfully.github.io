@@ -13,14 +13,14 @@ Unvorhergesehene berücksichtigt.[^2]
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Inhaltsverzeichnis
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Begriffsherleitung
+Gründe für Nachhaltigkeit im Unternehmen
+Methoden und Techniken von Nachhaltigkeit im Projektmanagement
+Auswirkungen von Nachhaltigkeit im Projektmanagement
+Darstellung verschiedener Nachhaltigkeitskonzepte 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
 Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
