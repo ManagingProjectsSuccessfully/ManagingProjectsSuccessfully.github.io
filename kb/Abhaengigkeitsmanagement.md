@@ -25,7 +25,7 @@ Man unterscheidet Abhängigkeiten in interne- und externe Abhängigkeiten , obli
 
 Interne Abhängigkeiten sind Abhängigkeiten, die auf Beziehungen beruhen, die zwischen Arbeitsaktivitäten im Team liegen und somit auch in der Kontrolle des Teams liegen.
 Externe Abhängigkeiten sind Abhängigkeiten, die auf Beziehungen beruhen, die zwischen Teams, Funktionen oder Unternehmen liegen und somit außerhalb der Kontrolle des Teams.
-Obligatorische Abhängigkeiten orientieren sich an der harten Logik; d.h. ein Schritt muss vor einem anderen Schritt erledigt sein.
+Obligatorische Abhängigkeiten orientieren sich an der harten Logik - ein Schritt muss vor einem anderen Schritt erledigt sein.
 Diskretionäre Abhängigkeiten orientieren sich dagegen an der weichen Logik. Hier wäre es besser, wenn ein Schritt vor dem anderen erledigt wäre; es ist aber nicht unbedingt erforderlich[^2].
 
 # Funktionen von Abhängigkeiten
