@@ -9,7 +9,7 @@ Das Abhängigkeitsmanagement ist der Prozess des aktiven Analysierens, Erkennens
 
 # Abhängigkeitsmanagement und agiles Projektmanagement 
 
-Das Abhängigkeitsmanagement spielt vor allem in agilen Teams eine große Rolle, denn beim agilen Projektmanagement gibt es – anders als beim klassischen Projektmanagement – meist kleinere Teams, die interdisziplinär in kurzen, zeitlich beschränkten Zyklen (Sprints) zusammenarbeiten. Mit Hilfe von regelmäßigen Abstimmungen (Dailys) können sich die Teams synchronisieren, abstimmen und somit effizienter arbeiten und schnellere Ergebnisse erzielen. Deshalb ist es in agilen Teams so wichtig, Abhängigkeiten immer im Blick zu behalten und abzustimmen[^1][^2].
+Das Abhängigkeitsmanagement spielt vor allem in agilen Teams eine große Rolle, denn beim agilen [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) gibt es – anders als beim klassischen Projektmanagement – meist kleinere Teams, die interdisziplinär in kurzen, zeitlich beschränkten Zyklen (Sprints) zusammenarbeiten. Mit Hilfe von regelmäßigen Abstimmungen (Dailys) können sich die Teams synchronisieren, abstimmen und somit effizienter arbeiten und schnellere Ergebnisse erzielen. Deshalb ist es in agilen Teams so wichtig, Abhängigkeiten immer im Blick zu behalten und abzustimmen[^1][^2].
 
 Das Abhängigkeitsmanagement beinhaltet: 
 
@@ -39,7 +39,7 @@ Bei den Abhängigkeitsfunktionen unterscheidet man vier verschiedene Arten:
 
 # Vorgehensweisen des Abhängigkeitsmanagement
 
-Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines Projektes zu behalten und diese effektiv verwalten zu können, gibt es einige beispielhafte Vorgehensweisen:
+Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines [Projektes](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) zu behalten und diese effektiv verwalten zu können, gibt es einige beispielhafte Vorgehensweisen:
 
 * Brainstorming 
 * Stakeholder-Engagement
@@ -56,14 +56,10 @@ Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines Projek
 
 „Failing to plan is planning to fail“
 
-Eine Möglichkeit für agile Teams, das Scheitern eines Projektes aufgrund von Fehlplanung zu vermeiden, ist die Koordination des Projektes mit Hilfe eines [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)-Boards. Dieses ermöglicht es, einen Überblick über alle Aufgaben zu behalten indem man Aufgabenkarten erstellt, die auf dem Board strategisch angeordnet werden. So kann man verwandte Arbeiten auf demselben Board festhalten oder Aufgaben über mehrere Boards verteilt visualisieren. Außerdem kann man Beziehungen zwischen Aufgaben besser darstellen und nachvollziehen, indem man die Karten miteinander verknüpft. Auch sind Kanban-Boards vorteilhaft um Deadlines zu setzen und den Aufgabenstatus einzusehen. So kann man Kategorien wie begonnen, nicht begonnen oder beendet einführen und die Aufgabenkarten dementsprechend zuordnen. Insgesamt eignet sich so ein Board also sehr gut um Abhängigkeiten innerhalb eines Projektes darzustellen und im Blick zu halten[^5][^2].(Beispielhafte Visualisierung siehe Abb. 1)
+Eine Möglichkeit für agile Teams, das Scheitern eines Projektes aufgrund von Fehlplanung zu vermeiden, ist die Koordination des Projektes mit Hilfe eines [Kanban-Boards](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban_Boards.md). Dieses ermöglicht es, einen Überblick über alle Aufgaben zu behalten indem man Aufgabenkarten erstellt, die auf dem Board strategisch angeordnet werden. So kann man verwandte Arbeiten auf demselben Board festhalten oder Aufgaben über mehrere Boards verteilt visualisieren. Außerdem kann man Beziehungen zwischen Aufgaben besser darstellen und nachvollziehen, indem man die Karten miteinander verknüpft. Auch sind Kanban-Boards vorteilhaft um Deadlines zu setzen und den Aufgabenstatus einzusehen. So kann man Kategorien wie begonnen, nicht begonnen oder beendet einführen und die Aufgabenkarten dementsprechend zuordnen. Insgesamt eignet sich die Methode [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) also sehr gut um Abhängigkeiten innerhalb eines Projektes darzustellen und im Blick zu halten[^5][^2].(Beispielhafte Visualisierung siehe Abb. 1)
 
 
 # Siehe auch
-
-kanban [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
-
-[Kanban-Boards](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban_Boards.md)
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Abhaengigkeitsmanagement.md)
