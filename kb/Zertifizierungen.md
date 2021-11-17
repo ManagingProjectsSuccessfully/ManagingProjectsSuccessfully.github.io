@@ -46,7 +46,7 @@ Die [folgende Grafik](https://www.theprojectgroup.com/blog/projektmanagement-zer
 
 ![Abbildung 1](Zertifizierungen/Gehaltsvergleich.jpg)
 
-
+Die Abbildung zeigt, dass nicht jede erlangte Zertifizierung Verdienstmöglichkeiten über dem Durchschnittsgehalt von 80.251 Euro Brutto-Jahresgehalt im PM garantiert. Dennoch ist der Erwartungwert des Mehrverdienstes mit 1.551 Euro (Durschnitts Brutto-Jahresgehalt mit Zertifizierung - Durschnitts Brutto-Jahresgehalt ohne Zertifizierung = 80.251 Euro - 78.700 Euro = 1.551 Euro) positiv und oft bereits deutlich höher als die Kosten der Zertifizierung. Betrachtet man die Mehrverdienstmöglichkeiten über dem Durchschnittsgehalt im PM mit einer Zertifizierung im Verhältnis zu den Zertifizierungskosten
 
 # Fazit
 
