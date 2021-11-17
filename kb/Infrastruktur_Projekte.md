@@ -7,18 +7,17 @@ anrechnung: k
 
 Infrastrukturprojekte sind staatliche oder private Vorhaben, die der Verbesserung der technischen oder sozialen Infrastruktur einer Region oder eines Ortes dienen sollen[^1].
 
-# Arten von Infrastrukturprojekten
-
-Man unterscheidet zwischen privaten- und öffentlichen Infrastrukturprojekten. Beispiele für private Infrastrukturprojekte sind regulierte Wassernetze, [IT-Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/IT-Projekte.md) oder beispielhaft Unternehmen, die aus Abfall Energie gewinnen. Öffentliche Infrastrukturprojekte sind beispielsweise Straßen, Bahnlinien, Radwege, Schifffahrtswege, Bahnhöfe, Flughäfen und Strom- und Wasserleitungen[^2][^3]. 
-
-
 # Infrastrukturprojekte und klassisches Projektmanagement
 
 Im Folgenden werden Infrastrukturprojekte am Beispiel des Berliner Flughafens (BER)- ein [öffentliches Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Oeffentliche_Projekte.md)- in Bezug auf das klassische [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) behandelt.
 
-Das klassische Projektmanagement zeichnet sich durch ein hohes Maß an Standardisierung und Vorabplanung aus, sodass es genaue zeitliche Vorgaben gibt. Kosten und Ressourcen werden bei der Planung genau festgelegt und berechnet und ein fester Endtermin gibt dem Auftraggeber die benötigte Sicherheit bei der Umsetzung. Diese Vorgehensweise ist vor allem bei Projekten vorteilhaft, die nur von kurzer Dauer sind und gut abgeschätzt werden können. Je größer und komplexer ein [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) wird, desto agiler sollte es durchgeführt werden[^4].
+# Arten von Infrastrukturprojekten
+
+Man unterscheidet zwischen privaten- und öffentlichen Infrastrukturprojekten. Beispiele für private Infrastrukturprojekte sind regulierte Wassernetze, [IT-Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/IT-Projekte.md) oder beispielhaft Unternehmen, die aus Abfall Energie gewinnen. Öffentliche Infrastrukturprojekte sind beispielsweise Straßen, Bahnlinien, Radwege, Schifffahrtswege, Bahnhöfe, Flughäfen und Strom- und Wasserleitungen[^2][^3]. 
 
 # Grenzen des klassischen Projektmanagement
+
+Das klassische Projektmanagement zeichnet sich durch ein hohes Maß an Standardisierung und Vorabplanung aus, sodass es genaue zeitliche Vorgaben gibt. Kosten und Ressourcen werden bei der Planung genau festgelegt und berechnet und ein fester Endtermin gibt dem Auftraggeber die benötigte Sicherheit bei der Umsetzung. Diese Vorgehensweise ist vor allem bei Projekten vorteilhaft, die nur von kurzer Dauer sind und gut abgeschätzt werden können. Je größer und komplexer ein [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) wird, desto agiler sollte es durchgeführt werden[^4].
 
 „Je mehr du nach Plan arbeitest desto mehr bekommst du das, was du geplant hast aber nicht das, was du brauchst“[^5].
 
