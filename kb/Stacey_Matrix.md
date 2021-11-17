@@ -40,7 +40,7 @@ Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts 
 
 # Siehe auch
 
-* [Cynefin-centre](https://cynefincentre.com/the-cynefin-framework/)
+* [The Cynefin-Framework](https://cynefincentre.com/the-cynefin-framework/)
 
 # Weiterführende Literatur
 
@@ -49,11 +49,11 @@ Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts 
 
 # Quellen
 
-[^1]: [Die-Stacey-Matrix:-Welche-Projektmanagement-Methode-ist-die-richtige?](https://projekte-leicht-gemacht.de/blog/projektmanagement/stacey-matrix/)
-[^2]: [Projektmagazin](https://www.projektmagazin.de/artikel/mit-der-stacey-matrix-zur-richtigen-pm-methode_1128468)
-[^3]: [Projektmagazin](https://www.projektmagazin.de/glossarterm/stacey-matrix)
-[^4]: [Erfolgreich-Projekte-leiten](https://erfolgreich-projekte-leiten.de/stacey-matrix/)
-[^5]: [Ralph-D.-Stacey](https://en.wikipedia.org/wiki/Ralph_D._Stacey)
+[^1]: [Die Stacey Matrix: Welche Projektmanagement-Methode ist die richtige?](https://projekte-leicht-gemacht.de/blog/projektmanagement/stacey-matrix/)
+[^2]: [Mit der Stacey-Matrix zur richtigen PM-Methode](https://www.projektmagazin.de/artikel/mit-der-stacey-matrix-zur-richtigen-pm-methode_1128468)
+[^3]: [Stacey-Matrix](https://www.projektmagazin.de/glossarterm/stacey-matrix)
+[^4]: [Ganz einfach die richtige Projektmanagement-Methode finden](https://erfolgreich-projekte-leiten.de/stacey-matrix/)
+[^5]: [Ralph D. Stacey](https://en.wikipedia.org/wiki/Ralph_D._Stacey)
 
 
 
