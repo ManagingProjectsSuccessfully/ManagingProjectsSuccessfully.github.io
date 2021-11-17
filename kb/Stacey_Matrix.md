@@ -8,7 +8,7 @@ Die Stacey-Matrix, benannt nach ihrem Begründer Ralph Douglas Stacey, einem bri
 
 # Die Stacey-Matrix im Projektmanagementkontext
 
-Kurz gesagt beschreibt die Stacey-Matrix einen Ordnungsrahmen zur Abgrenzung einfacher, komplizierter, komplexer und chaotischer Aufgaben [^2]. Sie steht dabei in enger Verwandschaft mit dem Cynefin-Framework https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cynefin-Framework.md  [^3].
+Kurz gesagt beschreibt die Stacey-Matrix einen Ordnungsrahmen zur Abgrenzung einfacher, komplizierter, komplexer und chaotischer Aufgaben [^2]. Sie steht dabei in enger Verwandschaft mit dem [Cynefin-Framework](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cynefin-Framework.md)  [^3].
 Die Stacey-Matrix soll insgesamt erleichtern, für ein bevorstehendes Projekt die richtige Projektmanagementmethode zu finden. 
 
 ## Aufbau der Stacey-Matrix
@@ -16,8 +16,7 @@ Die Stacey-Matrix soll insgesamt erleichtern, für ein bevorstehendes Projekt di
 Auf der vertikalen Achse der Matrix wird der Grad der "Anforderungen" (in der Abbildung: "Requierement") des Projekts abgetragen. Es wird sich die Frage gestellt, wie klar oder unklar die Unsicherheiten über die Anforderungen des Projekts sind. 
 
 Die horizontale Achse wird durch den Begriff "Technologie "beschrieben (in der Abbildung: "Technological Realization"). Dieser Aspekt betrachtet, ob die Methoden zur Erreichung des Projektziels bekannt oder unbekannt sind[^4]. Die Matrix ist in vier Kategorien aufgeteilt. Diese beschreiben beschreiben jeweils den Komplexitätsgrad der vorliegenden Herausforderung:
-
-![Stacey-Matrix-Stacey-1996-adapted-to-software-development](https://user-images.githubusercontent.com/92922561/140303470-74e6e67d-b486-4880-a88d-d62973995058.png)
+![image](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse/141102712-a9303b9b-83bd-424f-9a6b-8bb75ccfd1aa.png) 
 
 ### Simpel
 
@@ -32,7 +31,7 @@ Sind die Anforderungen unklar, die Technologie aber bekannt liegen politisch/ so
 Das Feld, bei dem entweder die Technologien oder die Anforderungen überwiegend unbekannt sind, wird als "complex" bezeichnet. Bei komplexen Projekten existieren viele Risiken. Die einzelnen Phasen dieser Projekte sind zu Beginn nicht vorhersehbar[^1]. Hier steht deshalb vor allem Transparenz, Innovation, Kreativität sowie Flexibilität im Mittelpunkt. Das Projekt sollte daher in kurze Iterationen zerlegt werden, wobei die ständige Überwachung der einzelnen Schritte nie außer Acht gelassen werden darf. Erwünschte Ergebnisse werden dadurch durchgehend verfolgt und Fehlentwicklungen schnell korrigiert. Hier finden agile Vorgehensweisen, vorallem die Scrum-Methode (ManagingProjectsSuccessfully.github.io/SCRUM.md) Anwendung [^4].
 
 ### chaotisch
-Chaotisch eingeordnete Projekte definieren sich durch völlig unklare Anforderungen und komplett unbekannte Technologien stellen eine enorme Herausfoderung dar [^1]. Als Herangehensweise wird hier empfohlen, sich bereits von Projektbeginn ein gewisses Maß an Klarheit über die Anforderungen zu schaffen und die Projektziele vorab zu klären. Es müssen vorläufige Entscheidungen getroffen werden, um das Projekt in den "Komplex-Bereich" verschieben zu können. Agile Methoden hier sind besonders Design Thinking https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Design_Thinking.md , Kanban https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md  und Scrum https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md [^4].
+Chaotisch eingeordnete Projekte definieren sich durch völlig unklare Anforderungen und komplett unbekannte Technologien stellen eine enorme Herausfoderung dar [^1]. Als Herangehensweise wird hier empfohlen, sich bereits von Projektbeginn ein gewisses Maß an Klarheit über die Anforderungen zu schaffen und die Projektziele vorab zu klären. Es müssen vorläufige Entscheidungen getroffen werden, um das Projekt in den "Komplex-Bereich" verschieben zu können. Agile Methoden hier sind besonders [Design Thinking](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Design_Thinking.md) , [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)  und [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) [^4].
 
 # Kritik an der Stacey-Matrix
 
@@ -49,9 +48,9 @@ Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts 
 
 # Quellen
 
-[^1]: [Projekte-leicht-gemacht] (https://projekte-leicht-gemacht.de/blog/projektmanagement/stacey-matrix/)
-[^2]: [Projektmagazin] (https://www.projektmagazin.de/artikel/mit-der-stacey-matrix-zur-richtigen-pm-methode_1128468)
+[^1]: [Projekte-leicht-gemacht](https://projekte-leicht-gemacht.de/blog/projektmanagement/stacey-matrix/)
+[^2]: [Projektmagazin](https://www.projektmagazin.de/artikel/mit-der-stacey-matrix-zur-richtigen-pm-methode_1128468)
 [^3]: [Projektmagazin](https://www.projektmagazin.de/glossarterm/stacey-matrix)
-[^4]: [Erfolgreich-Projekte-leiten] (https://erfolgreich-projekte-leiten.de/stacey-matrix/)
-[^5]: [researchgate] (https://www.researchgate.net/figure/Stacey-Matrix-Stacey-1996-adapted-to-software-development_fig3_336899045)
+[^4]: [Erfolgreich-Projekte-leiten](https://erfolgreich-projekte-leiten.de/stacey-matrix/)
+
 
