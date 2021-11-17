@@ -42,9 +42,9 @@ Projektmanager mit einer PM-Zertifizierung erhöhen nachweislich ihre Glaubwürd
 
 Mit der Aufnahme einer PM-Zertifizierung in den Lebenslauf, steigt nicht nur nicht die Einstellwahrscheinlichkeit, sondern auch die Gehaltaussichten in Anhägigkeit von der Branche und der Unternehmensgröße. Nicht zu vernachlässigen ist, dass Projektmanager mit 6 bis 10 Jahren Berufserfahrung im Durschnitt bereits über 87.000 Euro Brutto-Jahresgehalt erzielen und monetär weniger Anreize zur Weiterbildung haben. Demnach stärkt eine Zertifizierung ungemein die Reputation des Projektmanagers.
 
-Die folgende Grafik verdeutlicht den Gehaltsvorsprung, den zertifizierte Projektmanager im Durchschnitt erzielen. 
+Die [folgende Grafik](https://www.theprojectgroup.com/blog/projektmanagement-zertifizierung/) verdeutlicht den Gehaltsvorsprung, den zertifizierte Projektmanager im Durchschnitt erzielen. 
 
-[Abbildung 1](Zertifizierungen/Gehaltsvergleich.png)
+![Abbildung 1](Zertifizierungen/Gehaltsvergleich.jpg)
 
 
 
