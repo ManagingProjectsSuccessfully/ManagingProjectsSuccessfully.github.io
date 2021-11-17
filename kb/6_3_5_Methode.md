@@ -22,14 +22,13 @@ Die 3_6_5_Methode läuft wie folgt ab:
 | Schritt   | Erläuterung | 
 | ------------- | ------------- |
 | Einführung  | Erklärung der Methode für die Teilnehmer*innen, Definition der Problemstellung  |
-| 1. Runde  | Zwei bis fünf Minuten Zeitraum für drei Ideen; 
-Dieses sollen knapp und verständlich auf einem Vordruck aufgeschrieben werden  |
+| 1. Runde  | Zwei bis fünf Minuten Zeitraum für drei Ideen; Dieses sollen knapp und verständlich auf einem Vordruck aufgeschrieben werden  |
 | 2. Runde  | Ebenfalls zwei bis fünf Minuten Zeitraum; Der Vordruck wird im Uhrzeigersinn weitergegeben; Die Ideen dürfen modifiziert, erweitert oder ergänzt werden|
 | Folgende Runden| Vorgehen wie in der zweiten Runde; Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können |
 
 *Abbildung: Vorgehen bei der 6_3_5_Methode*[^2]
 
-Im Anschluss werden die Ergebnisse analysiert. Es können Ideen kombiniert oder erweitert werden. Fragen können geklärt werden. 
+Im Anschluss werden die Ergebnisse analysiert. Es können Ideen kombiniert oder erweitert werden. Offene Fragen können geklärt werden. 
 Alternativ kann der Initiator des Termins die Ergebnisse auch alleine auswerten und in einem Folgetermin präsentieren und disskutieren. [^6]
 
 # Vor- und Nachteile der 6_3_5_Methode
@@ -39,25 +38,28 @@ Alternativ kann der Initiator des Termins die Ergebnisse auch alleine auswerten 
 Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
 
 * Vermeidung von Spannungen im Team während der Ideenfindung
-* Alle Teilnehmer*innen werden gleichermaßen aktiv, somit bringt sich jeder ein und die Lösungsvorschläge sind vielfältig
-* Kreativitätssteigerung durch Aufbau auf bereits geschriebene Ideen möglich
-* Größere Gruppe können in kleine 6er-Gruppen aufgeteilt werden, die Methode ist auch für große Teams anwendbar
-* Ideen werden von der Person getrennt, die objektive Bewertung wird sichergestellt
+* Alle Teilnehmer*innen werden gleichermaßen aktiv, somit bringt sich jeder ein und die Lösungsvorschläge können sehr vielfältig sein
+* Kreativitätssteigerung durch einen Aufbau auf bereits genannte Ideen möglich
+* Größere Gruppe können in kleine Sechser-Gruppen aufgeteilt werden, die Methode ist somit auch für große Teams anwendbar
+* Die Ideen werden von der Person getrennt, die objektive Bewertung wird sichergestellt
+* Mittels virtuellem Vordruck auch digital möglich 
 
 ## Nachteile
 
 Schwächen der 6_3_5-Methode sind die Folgenden[^6]:
 
-* Doppelungen nicht ausgeschlossen (Kann jedoch gegebenenfalls für die Gewichtung herangezogen werden)
-* Rücksprache bei Verständnisproblemen die die Ideen betreffen während der Methode nicht möglich
+* Doppelungen sind nicht ausgeschlossen (Können jedoch gegebenenfalls für die Gewichtung der Ideen herangezogen werden)
+* Rücksprache bei Verständnisproblemen bezüglich der Ideen während des Ablaufs der Methode nicht vorgesehen
+* Bei Aufteilung in Kleingruppen sollten alle Untergruppen gleichgroß sein
 
 # Außerdem wissenswert
 
-Die 3_6_5-Methode ist eine kreativ-intuitive Methoden und basiert auf Assoziation. Assoziation beschreibt automatische Denkvorgänge. Spontanität und Leichtigkeit sind von Bedeutung, die Ergebnisse müssen nicht von Anfang an perfekt sein.[^5]
+Die Methode wurde erstmals 1969 vom Unternehmensberater Bernd Rohrbach erwähnt.[^6]
+
+Die 3_6_5_Methode ist eine kreativ-intuitive Methoden und basiert auf Assoziation. Assoziation beschreibt automatische Denkvorgänge.
+Spontanität und Leichtigkeit sind von Bedeutung, die Ergebnisse müssen nicht von Anfang an perfekt sein.[^5]
 
 Die Zeit pro Runde wird vorab festglegt. Hierbei wird meistens ein Zeitraum von zwei bis fünf Minuten empfohlen.[^2][^5]
-
-Die Methode wurde erstmals 1969 vom Unternehmensberater Bernd Rohrbach erwähnt.[^6]
 
 # Siehe auch
 
