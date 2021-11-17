@@ -5,32 +5,33 @@ author: nta01
 anrechnung: k 
 ---
 
-Die 6_3_5_Methode ist eine Brainwriting-Kreativitätstechnik. Hierbei erhalten 6 Personen einen Zettel, auf welchen sie jeweils 3 weitere Ideen zu einem vorab definierten Thema schreiben. Dieser Zettel wird 5-mal weitergegeben und jeweils ergänzt.[^1]
+Die 6_3_5_Methode ist eine Brainwriting-Kreativitätstechnik. Hierbei erhalten sechs Personen einen Zettel, auf welchen sie jeweils drei weitere Ideen zu einem vorab definierten Thema schreiben. Dieser Zettel wird fünfmal weitergegeben und die Ideen jeweils ergänzt.[^1]
 
 ![Abbildung](6_3_5_Methode/Bild1.png)
 
-*6_3_5-Methode*[^3]
+*6_3_5_Methode*[^3]
 
 # Einführung
 
-Sie ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainstorming) sehr ähnlich. Es können hierbei in wenigen Minuten bis zu 108 Ideen gesammelt werden. Eine mündliche Absprache gibt es während des Ablaufes nicht.[^2]
+Die Methode ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainstorming) sehr ähnlich. Es können bei dieser in wenigen Minuten bis zu 108 Ideen gesammelt werden. Eine mündliche Absprache gibt es während des Ablaufes nicht.[^2]
 
 # Vorgehen
 
-Die 3_6_5 Methode läuft wie folgt ab:
+Die 3_6_5_Methode läuft wie folgt ab:
 
 | Schritt   | Erläuterung | 
 | ------------- | ------------- |
 | Einführung  | Erklärung der Methode für die Teilnehmer*innen, Definition der Problemstellung  |
-| 1. Runde  | 2-5 Minuten Zeit für 3 Ideen; Dieses sollen knapp und verständlich auf dem Vordruck aufgeschrieben werden  |
-| 2. Runde  | Ebenfalls 2-5 Minuten Zeit; Der Vordruck wird im Uhrzeigersinn weitergegeben; Die Ideen dürfen modifiziert, erweitert oder ergänzt werden|
-| Folgende Runden| Vorgehen wie in der 2. Runde; Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können |
+| 1. Runde  | Zwei bis fünf Minuten Zeitraum für drei Ideen; Dieses sollen knapp und verständlich auf einem Vordruck aufgeschrieben werden  |
+| 2. Runde  | Ebenfalls zwei bis fünf Minuten Zeitraum; Der Vordruck wird im Uhrzeigersinn weitergegeben; Die Ideen dürfen modifiziert, erweitert oder ergänzt werden|
+| Folgende Runden| Vorgehen wie in der zweiten Runde; Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können |
 
-*Abbildung: Vorgehen bei der 6_3_5-Methode*[^2]
+*Abbildung: Vorgehen bei der 6_3_5_Methode*[^2]
 
-Im Anschluss werden die Ergebnisse analysiert. Es können Ideen kombiniert oder erweitert werden. Fragen können geklärt werden. Alternativ kann der Initiator des Termins die Ergebnisse auch alleine auswerten und in einem Folgetermin präsentieren und disskutieren. [^6]
+Im Anschluss werden die Ergebnisse analysiert. Es können Ideen kombiniert oder erweitert werden. Fragen können geklärt werden. 
+Alternativ kann der Initiator des Termins die Ergebnisse auch alleine auswerten und in einem Folgetermin präsentieren und disskutieren. [^6]
 
-# Vor- und Nachteile der 6_3_5-Methode
+# Vor- und Nachteile der 6_3_5_Methode
 
 ## Vorteile
 
