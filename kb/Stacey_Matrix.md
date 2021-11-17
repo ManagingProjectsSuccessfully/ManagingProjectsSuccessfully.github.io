@@ -28,7 +28,7 @@ Das zweite Feld,"complicated" genannt, beschreibt Projekte, bei denen entweder d
 Sind die Anforderungen unklar, die Technologie aber bekannt liegen politisch/ sozial komplizierte Projekte vor. Es herrscht Uneinigkeit zwischen den Entscheidungspersonen. Viele offene Fragen lassen sich hierbei durch Analysen, Verhandlungen ("political decisionmaking") oder Beratung durch externe Experten klären ("judgemental decisionmaking")[^4]. Hier eignen sich sowohl klassische als auch agile Methoden, wobei zweitere vorgezogen werden.
 
 ### komplex
-Das Feld, bei dem entweder die Technologien oder die Anforderungen überwiegend unbekannt sind, wird als "complex" bezeichnet. Bei komplexen Projekten existieren viele Risiken. Die einzelnen Phasen dieser Projekte sind zu Beginn nicht vorhersehbar[^1]. Hier steht deshalb vor allem Transparenz, Innovation, Kreativität sowie Flexibilität im Mittelpunkt. Das Projekt sollte daher in kurze Iterationen zerlegt werden, wobei die ständige Überwachung der einzelnen Schritte nie außer Acht gelassen werden darf. Erwünschte Ergebnisse werden dadurch durchgehend verfolgt und Fehlentwicklungen schnell korrigiert. Hier finden agile Vorgehensweisen, vorallem die Scrum-Methode (ManagingProjectsSuccessfully.github.io/SCRUM.md) Anwendung [^4].
+Das Feld, bei dem entweder die Technologien oder die Anforderungen überwiegend unbekannt sind, wird als "complex" bezeichnet. Bei komplexen Projekten existieren viele Risiken. Die einzelnen Phasen dieser Projekte sind zu Beginn nicht vorhersehbar[^1]. Hier steht deshalb vor allem Transparenz, Innovation, Kreativität sowie Flexibilität im Mittelpunkt. Das Projekt sollte daher in kurze Iterationen zerlegt werden, wobei die ständige Überwachung der einzelnen Schritte nie außer Acht gelassen werden darf. Erwünschte Ergebnisse werden dadurch durchgehend verfolgt und Fehlentwicklungen schnell korrigiert. Hier finden agile Vorgehensweisen, vorallem die Scrum-Methode Anwendung [^4].
 
 ### chaotisch
 Chaotisch eingeordnete Projekte definieren sich durch völlig unklare Anforderungen und komplett unbekannte Technologien stellen eine enorme Herausfoderung dar [^1]. Als Herangehensweise wird hier empfohlen, sich bereits von Projektbeginn ein gewisses Maß an Klarheit über die Anforderungen zu schaffen und die Projektziele vorab zu klären. Es müssen vorläufige Entscheidungen getroffen werden, um das Projekt in den "Komplex-Bereich" verschieben zu können. Agile Methoden hier sind besonders [Design Thinking](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Design_Thinking.md) , [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)  und [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) [^4].
@@ -44,7 +44,8 @@ Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts 
 
 # Weiterführende Literatur
 
-* [SYMORG2014](http://symorg.fon.bg.ac.rs/proceedings/papers/21%20-%20PROJECT%20MANAGEMENT.pdf#page=71)
+* [THEORY OF COMPLEXITY AND INNOVATION PROJECTS](http://symorg.fon.bg.ac.rs/proceedings/papers/21%20-%20PROJECT%20MANAGEMENT.pdf#page=71)
+* [Mit Scrum zum gewünschten System](https://link.springer.com/content/pdf/10.1007/978-3-658-10721-5.pdf)
 
 # Quellen
 
