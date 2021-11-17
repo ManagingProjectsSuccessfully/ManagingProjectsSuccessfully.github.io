@@ -14,9 +14,9 @@ Man unterscheidet zwischen privaten- und öffentlichen Infrastrukturprojekten. B
 
 # Infrastrukturprojekte und klassisches Projektmanagement
 
-Im Folgenden werden Infrastrukturprojekte am Beispiel des Berliner Flughafens (BER)- ein [öffentliches Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Oeffentliche_Projekte.md)- in Bezug auf das klassische Projektmanagement behandelt.
+Im Folgenden werden Infrastrukturprojekte am Beispiel des Berliner Flughafens (BER)- ein [öffentliches Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Oeffentliche_Projekte.md)- in Bezug auf das klassische [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) behandelt.
 
-Das klassische Projektmanagement zeichnet sich durch ein hohes Maß an Standardisierung und Vorabplanung aus, sodass es genaue zeitliche Vorgaben gibt. Kosten und Ressourcen werden bei der Planung genau festgelegt und berechnet und ein fester Endtermin gibt dem Auftraggeber die benötigte Sicherheit bei der Umsetzung. Diese Vorgehensweise ist vor allem bei Projekten vorteilhaft, die nur von kurzer Dauer sind und gut abgeschätzt werden können. Je größer und komplexer ein Projekt wird, desto agiler sollte es durchgeführt werden[^4].
+Das klassische Projektmanagement zeichnet sich durch ein hohes Maß an Standardisierung und Vorabplanung aus, sodass es genaue zeitliche Vorgaben gibt. Kosten und Ressourcen werden bei der Planung genau festgelegt und berechnet und ein fester Endtermin gibt dem Auftraggeber die benötigte Sicherheit bei der Umsetzung. Diese Vorgehensweise ist vor allem bei Projekten vorteilhaft, die nur von kurzer Dauer sind und gut abgeschätzt werden können. Je größer und komplexer ein [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) wird, desto agiler sollte es durchgeführt werden[^4].
 
 # Grenzen des klassischen Projektmanagement
 
@@ -30,11 +30,11 @@ Infrastrukturprojekte sind hochkomplexe Bauvorhaben, an denen eine Vielzahl von 
 
 Das Problem beim Milliardenprojekt Berliner Flughafen BER waren strategische Fehlentscheidungen, eine disfunktionale Managementstruktur, Arbeiten mit falschen Ausgangsdaten, überhastete Umsetzung und politische Eitelkeit da der Fokus vor allem auf den Prestigewert des Flughafens gelegt wurde. Hinzu kommen mangelnde Transparenz, Selbstüberschätzung, Regelverstöße, Fehlkommunikation und ein fehlendes Krisenmanagement[^9][^10].
 
-Es stellt sich die Frage, ob es alternative Methoden zum klassischen Projektmanagement gibt, die Fehler reduzieren, Planungssicherheit geben und somit mit weniger Risiken verbunden sind und für komplexe Infrastrukturprojekte geeignet sind. 
+Es stellt sich die Frage, ob es alternative Methoden zum klassischen Projektmanagement gibt, die Fehler reduzieren, [Planungssicherheit](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Planungssicherheit.md) geben und somit mit weniger Risiken verbunden sind und für komplexe Infrastrukturprojekte geeignet sind. 
 
 # Hybrides Projektmanagement - die Lösung?
 
-Eine Möglichkeit, die Vorteile der klassischen- und agilen Projektmanagement-Methoden zu verbinden ist das hybride Projektmanagement. Hierbei werden die Struktur-Elemente des klassischen Projektmanagements, hinsichtlich Aufbau- und Ablauforganisation, übernommen und um agile Elemente erweitert. Vor allem bei Großprojekten mit verschiedenen Teilprojekten ist der hybride Ansatz vorteilhaft, da die Teilprojekte entsprechend ihrer Bedürfnisse individuell agil und effizienzsteigernd gesteuert werden können. Die klassischen Elemente bringen wiederum Sicherheit und Struktur und so schafft diese Kombination Effizienz bei der Projektplanung- und Durchführung[^4].
+Eine Möglichkeit, die Vorteile der klassischen- und agilen Projektmanagement-Methoden zu verbinden ist das hybride Projektmanagement. Hierbei werden die Struktur-Elemente des klassischen Projektmanagements, hinsichtlich Aufbau- und Ablauforganisation, übernommen und um agile Elemente erweitert. Vor allem bei Großprojekten mit verschiedenen Teilprojekten ist der hybride Ansatz vorteilhaft, da die Teilprojekte entsprechend ihrer Bedürfnisse individuell agil und effizienzsteigernd gesteuert werden können. Die klassischen Elemente bringen wiederum Sicherheit und Struktur und so schafft diese Kombination Effizienz bei der [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)- und Durchführung[^4].
 
 ![image](https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Infrastruktur_Projekte/Grafik_HybridesPM.png)[^11]
 
