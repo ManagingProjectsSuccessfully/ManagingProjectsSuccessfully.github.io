@@ -19,6 +19,8 @@ Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen
 Methoden geben Projekten Transparenz und Struktur.[^4]S.43
 Sie stellen ein mögliches Vorgehen dar, welches durch seine Dokumentierbarkeit ebenso nachvollziebar und korrigierbar ist. Außerdem wird das Vorgehen durch Methoden besser vertändlich und einzelne Schritte können einfacher kommuniziert werden.[^4]S.44
 
+Projektmanagement-Methoden sind spezielle Methoden, bspw. Kanban-Board, die innerhalb eines generellen Vorgehensmodells wie zum Beispiel Kanban angewendet werden.[^7]
+
 
 
 # Methoden des klassischen Projektmanagements
@@ -37,6 +39,8 @@ Typische Methoden: Backlog-Management, Kanban-Board, Daily Scrum, Sprint Review[
 ## Backlog-Management
 ## Kanban-Board
 ## Daily Scrum
+[^6]
+
 ## Sprint Review
 
 
@@ -170,6 +174,7 @@ Scheiferla Nemberch nä Bledzla Affnhidz.
 [^4]: [Projektmanagement mit System: Organisation, Methoden, Steuerung](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Kraus-Westermann2019_Book_ProjektmanagementMitSystem.pdf)
 [^5]: [Systemische Werkzeuge für erf. Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Systemische%20Werkzeuge%20f%C3%BCr%20erf.%20Projektmanagement.pdf)
 
+[^6]: [Grundlagen des Projektmanagements](https://link.springer.com/content/pdf/10.1007%2F978-3-662-48216-2.pdf)
 [^7]: [Projektmanagement-Methoden: Der ultimative Überblick](https://projekte-leicht-gemacht.de/pm-methoden/)
 
 
