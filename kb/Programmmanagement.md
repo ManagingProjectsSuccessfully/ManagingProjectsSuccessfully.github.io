@@ -9,6 +9,7 @@ Projektmanagament. Projektportfoliomanagement. Programmmanagement. All diese Beg
 
 Im Folgenden soll nun aber insbesondere auf das Programmmanagement (PM) eingegangen werden und dabei geklärt werden, was dieses eigentlich bedeutet, wie es sich von verwandten Begriffen abgrenzen lässt und welche Eigenschaften es besitzt. Darüber hinaus werden auch die Aufgaben eines Programmmanagers sowie der allgemeinen Nutzen betrachtet.
 
+
 # Begriffsklärung
 
 Der Begriff des Programmmanagements besteht insgesamt aus zwei Wörtern. 
@@ -20,12 +21,10 @@ Zum anderen ist aber auch das Management Teil des Begriffs. Dieses beschreibt im
 Fasst man die beiden Begriffsdefinitionen nun zusammen, so beschreibt das Programm-Management „die zeitlich befristete Aufgabe, ein Programm zu planen, zu leiten und dessen Controlling durchzuführen für eine deﬁnierte Menge inhaltlich zusammengehöriger Projekte.“[^4]
 
 
-
 # Eigenschaften
 
 Programme sind grundlegend Managementaufgaben auf Zeit. Auch besteht meist eine entsprechende Komplexität und ein gewisser Umfang.[^1] Die Projekte innerhalb des Programms sind oftmals miteinander verbunden und hängen dabei voneinander ab. Im Vordergrund steht das Erreichen des strategischen Ziels durch die Koordination von Maßnahmen und Projekten. Die Bedeutung für das Unternehmen ist meist von strategischer Natur.[^4]
 
-## Abbildung folgt
 
 # Abgrenzung
 
@@ -44,9 +43,15 @@ Weitere wichtige Verantwortungsbereiche eines Programmmanagers sind:
 -	eine aggregierte Risikobetrachtung
 -	die Kommunikation und Berichterstattung des Programmfortschritts.[^5]
 
+
 # Nutzen
 
 Der wesentliche Nutzen des Programmmanagements ist die effektivere und effizientere Planung und Steuerung aller Projekte eines Programms. Der Fokus liegt vor allem auf der Optimierung der Ressourcenverfügbarkeit. Des Weiteren bringt der meist vollständige Überblick über das Gesamtprojekt weitere Vorteile mit sich: zum einen können die Risiken schneller beurteilt und minimiert werden. Zum anderen wird aber auch das Aufstellen von Zeitplänen enorm vereinfacht.[^6]
+
+All dies ist im Folgenden auch noch einmal grafisch dargestellt:
+
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/92787078/142223425-9181f238-a35a-4bff-81e0-d61c49513f95.png">
+
 
 # Fazit
 
@@ -57,21 +62,23 @@ Dennoch steht eins fest: das PM beschäftigt sich mit der Planung, Kontrolle und
 Eine striktere Abgrenzung von weiteren Managementbegriffen erscheint dennoch sinnvoll.
 
 
-
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Programmmanagement.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projektportfoliomanagement](Projektportfoliomanagement.md)
+* [Projectmanagement](Who_is_Who_Projectmanagement.md)
+* [Projekt](Projekt.md)
 
 # Weiterführende Literatur
 
-https://www.youtube.com/watch?v=XyT1wzkfgok
+## Youtube:
+* [The difference between a Program Manager and a Project Manager](https://www.youtube.com/watch?v=XyT1wzkfgok)
+* [Projektmanagement, Programmmanagement, Multiprojektmanagement - eine Abgrenzung](https://www.youtube.com/watch?v=RxSzDCmPPas)
 
-https://www.youtube.com/watch?v=RxSzDCmPPas
 
-https://asana.com/de/resources/what-is-program-management
-
-http://projektmanagement-definitionen.de/glossar/programm-management/
+## Internetquellen:
+* [Der ultimative Guide zum Programmmanagement](https://asana.com/de/resources/what-is-program-management)
+* [Projektmanagement: Definitionen, Einführungen und Vorlagen](http://projektmanagement-definitionen.de/glossar/programm-management/)
 
 # Quellen
 
