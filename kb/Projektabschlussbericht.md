@@ -69,11 +69,15 @@ besprochen werden und Erkenntnisse für zukünftige Projekte gewonnen werden.
 
 # Fazit
 
-![Beispielabbildung](Projektabschlussbericht/peco-pm-projektabschluss-erfahrungssicherung-xl.png)
+![Beispielabbildung](Projektabschlussbericht/peco-pm-projektabschluss-erfahrungssicherung-xl.png)  
+  
+  
+  
+*Es können Ressourcen in Form von Know-How aus dem vorherigen Projekt gezogen werden*   
 
 
 
-Zusammenfassend lässt sich sagen, dass der Projektabschlussbericht durchaus einen großen Aufwand an Bürokratie darstellt. Dennoch können daraus viele brauchbare
+  Es lässt sich demnach sagen, dass der Projektabschlussbericht durchaus einen großen Aufwand an Bürokratie darstellt. Dennoch können daraus viele brauchbare
 Erkenntnisse in Form von *lessons learned* gezogen werden, welche man auf das nächste Projekt projizieren und Vorgehensweisen optimieren kann. 
 
 
