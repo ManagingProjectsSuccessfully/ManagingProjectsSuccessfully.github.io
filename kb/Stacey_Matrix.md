@@ -16,7 +16,7 @@ Die Stacey-Matrix soll insgesamt erleichtern, für ein bevorstehendes Projekt di
 Auf der vertikalen Achse der Matrix wird der Grad der "Anforderungen" (in der Abbildung: "Requierement") des Projekts abgetragen. Es wird sich die Frage gestellt, wie klar oder unklar die Unsicherheiten über die Anforderungen des Projekts sind. 
 
 Die horizontale Achse wird durch den Begriff "Technologie "beschrieben (in der Abbildung: "Technological Realization"). Dieser Aspekt betrachtet, ob die Methoden zur Erreichung des Projektziels bekannt oder unbekannt sind[^4]. Die Matrix ist in vier Kategorien aufgeteilt. Diese beschreiben beschreiben jeweils den Komplexitätsgrad der vorliegenden Herausforderung:
-![image](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse/141102712-a9303b9b-83bd-424f-9a6b-8bb75ccfd1aa.png) 
+![image](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stacey_Matrix/Stacey-Matrix-Stacey-1996-adapted-to-software-development.png)
 
 ### Simpel
 
