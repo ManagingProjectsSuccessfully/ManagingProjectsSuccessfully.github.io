@@ -67,9 +67,9 @@ Nachteile:
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+[^1] [^2].
+[^3] 
+[^4]. 
 
 
 
@@ -91,12 +91,20 @@ Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4].
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
+[^1]: [Awork: Das Orga-Tool, über das Teams sich freuen](https://www.awork.io/produkt/)
+[^2]: [Awork: Individuelle Dashboards](https://blog.awork.io/neues-feature/jetzt-neu-individuelle-dashboards-in-awork/)
+[^3]: [Awork: Individuelle Zeitauswertung für dich und dein Team](https://www.awork.io/blog/jetzt-neu-die-individuelle-zeitauswertung-fuer-dich-und-dein-team/)
+[^4]: [Awork: Mit Kanban deinen Workflow optimieren](https://www.awork.io/blog/mit-kanban-deinen-workflow-optimieren-stop-starting-start-finishing/)
+[^5]: [Awork: Roadmap](https://www.awork.io/roadmap/)
+[^6]: [Awork: Preise](https://www.awork.io/preise/)
+[^7]: [Awork: Visuelle Planung](https://www.awork.io/blog/visuelle-planung-in-awork/)
+[^8]: [Dashboard](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/dashboard/)
+[^9]: [Der awork Test](https://pm-tools.info/projektmanagement-software-reviews/awork-test-und-kosten-aus-hamburg/?cn-reloaded=1)
+[^10]: [Projekte planen und organisieren mit awork](https://www.youtube.com/watch?v=zTEa2inVWZU)
+[^11]: [Unternehmensberatung Axel Schröder: Unsere awork Erfahrung](https://axel-schroeder.de/unsere-awork-erfahrung-ihre-digitale-planung/)
+[^12]: [Webinar: Aufgaben managen](https://www.youtube.com/watch?v=bomHrZfe-SU)
+[^13]: [Webinar: Integrationen in awork](https://www.youtube.com/watch?v=A1Hk5oDAiNY)
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Projekte planen und organisieren mit awork](https://www.youtube.com/watch?v=zTEa2inVWZU)
-[^5]: [Webniar Aufgaben managen](https://www.youtube.com/watch?v=bomHrZfe-SU)
 
 
 
