@@ -26,7 +26,7 @@ Man unterscheidet Abhängigkeiten in interne- und externe Abhängigkeiten , obli
 Interne Abhängigkeiten sind Abhängigkeiten, die auf Beziehungen beruhen, die zwischen Arbeitsaktivitäten im Team liegen und somit auch in der Kontrolle des Teams liegen.
 Externe Abhängigkeiten sind Abhängigkeiten, die auf Beziehungen beruhen, die zwischen Teams, Funktionen oder Unternehmen liegen und somit außerhalb der Kontrolle des Teams.
 Obligatorische Abhängigkeiten orientieren sich an der harten Logik; d.h. ein Schritt muss vor einem anderen Schritt erledigt sein.
-Diskretionäre Abhängigkeiten orientieren sich dagegen an der weichen Logik. Hier wäre es besser, wenn ein Schritt vor dem anderen erledigt wäre; es ist aber nicht unbedingt erforderlich[^4].
+Diskretionäre Abhängigkeiten orientieren sich dagegen an der weichen Logik. Hier wäre es besser, wenn ein Schritt vor dem anderen erledigt wäre; es ist aber nicht unbedingt erforderlich[^2].
 
 # Funktionen von Abhängigkeiten
 
@@ -35,7 +35,7 @@ Bei den Abhängigkeitsfunktionen unterscheidet man vier verschiedene Arten:
 * Finish to Start (FS): Aufgabe 2 kann erst beginnen, wenn Aufgabe 1 abgeschlossen ist. Dieser Abhängigkeitstyp liegt am häufigsten vor. 
 * Finish to Finish (FF): Aufgabe 2 kann erst abgeschlossen werden, wenn Aufgabe 1 abgeschlossen ist. Aufgaben mit Start-to-Start-Abhängigkeit können auch eine    Finish-to-Finish-Abhängigkeit haben.
 * Start to Start (SS): Aufgabe 2 kann erst beginnen, wenn Aufgabe 1 begonnen wurde, aber Aufgabe 1 muss nicht abgeschlossen sein, bevor Aufgabe 2 beginnen kann.
-* Start to Finish (SF): Aufgabe 1 kann erst abgeschlossen werden, wenn Aufgabe 2 beginnt. Dieser Abhängigkeitstyp kommt jedoch am seltensten vor[^5][^6].
+* Start to Finish (SF): Aufgabe 1 kann erst abgeschlossen werden, wenn Aufgabe 2 beginnt. Dieser Abhängigkeitstyp kommt jedoch am seltensten vor[^4][^2].
 
 # Vorgehensweisen des Abhängigkeitsmanagement
 
@@ -46,7 +46,7 @@ Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines Projek
 * Brainstorming zu Risiken und Herausforderungen
 * Priorisierung
 * Kategorisierung
-* Kommunikation mit dem Projektteam[^7].
+* Kommunikation mit dem Projektteam[^4].
 
 
 ![image](https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Abhaengigkeitsmanagement/Kanban_board_timelines.png)
@@ -56,7 +56,7 @@ Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines Projek
 
 „Failing to plan is planning to fail“
 
-Eine Möglichkeit für agile Teams, das Scheitern eines Projektes aufgrund von Fehlplanung zu vermeiden, ist die Koordination des Projektes mit Hilfe eines Kanban-Boards. Dieses ermöglicht es, einen Überblick über alle Aufgaben zu behalten indem man Aufgabenkarten erstellt, die auf dem Board strategisch angeordnet werden. So kann man verwandte Arbeiten auf demselben Board festhalten oder Aufgaben über mehrere Boards verteilt visualisieren. Außerdem kann man Beziehungen zwischen Aufgaben besser darstellen und nachvollziehen, indem man die Karten miteinander verknüpft. Auch ist Kanban-Board vorteilhaft um Deadlines zu setzen und den Aufgabenstatus einzusehen. So kann man Kategorien wie begonnen, nicht begonnen oder beendet einführen und die Aufgabenkarten dementsprechend zuordnen. Insgesamt eignet sich so ein Board also sehr gut um Abhängigkeiten innerhalb eines Projektes darzustellen und im Blick zu halten[^8][^9].(Beispielhafte Visualisierung siehe Abb. 1)
+Eine Möglichkeit für agile Teams, das Scheitern eines Projektes aufgrund von Fehlplanung zu vermeiden, ist die Koordination des Projektes mit Hilfe eines Kanban-Boards. Dieses ermöglicht es, einen Überblick über alle Aufgaben zu behalten indem man Aufgabenkarten erstellt, die auf dem Board strategisch angeordnet werden. So kann man verwandte Arbeiten auf demselben Board festhalten oder Aufgaben über mehrere Boards verteilt visualisieren. Außerdem kann man Beziehungen zwischen Aufgaben besser darstellen und nachvollziehen, indem man die Karten miteinander verknüpft. Auch ist Kanban-Board vorteilhaft um Deadlines zu setzen und den Aufgabenstatus einzusehen. So kann man Kategorien wie begonnen, nicht begonnen oder beendet einführen und die Aufgabenkarten dementsprechend zuordnen. Insgesamt eignet sich so ein Board also sehr gut um Abhängigkeiten innerhalb eines Projektes darzustellen und im Blick zu halten[^5][^2].(Beispielhafte Visualisierung siehe Abb. 1)
 
 Mehr Informationen über [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
 
@@ -75,11 +75,7 @@ Mehr Informationen über [Kanban](https://github.com/ManagingProjectsSuccessfull
 # Quellen
 
 [^1]: [factro](https://www.factro.de/blog/agiles-projektmanagement/)
-[^2]: https://www.planview.com/de/resources/guide/what-is-agile-program-management/agile-teams-dependency-management-visualization/
-[^3]: https://www.panaya.com/de/blog/modernes-alm/abhaengigkeits-management-abbildung/
-[^4]: https://www.planview.com/de/resources/guide/what-is-agile-program-management/agile-teams-dependency-management-visualization/
-[^5]: https://www.affde.com/de/fundamentals-of-project-management-understanding-dependencies.html
-[^6]: https://www.planview.com/de/resources/guide/what-is-agile-program-management/agile-teams-dependency-management-visualization/
-[^7]: https://www.affde.com/de/fundamentals-of-project-management-understanding-dependencies.html
-[^8]: https://kanbanize.com/de/agile-de/projektmanagement/projektplanung
-[^9]: https://www.planview.com/de/resources/guide/what-is-agile-program-management/agile-teams-dependency-management-visualization/
+[^2]: [Agile-Teams: Management und Visualisierung von Abhängigkeiten](https://www.planview.com/de/resources/guide/what-is-agile-program-management/agile-teams-dependency-management-visualization/)
+[^3]: [Abbildung von Abhängigkeiten](https://www.panaya.com/de/blog/modernes-alm/abhaengigkeits-management-abbildung/)
+[^4]: [Grundlagen des Projektmanagements: Abhängigkeiten verstehen](https://www.affde.com/de/fundamentals-of-project-management-understanding-dependencies.html)
+[^5]: [Was ist agile Planung?](https://kanbanize.com/de/agile-de/projektmanagement/projektplanung)
