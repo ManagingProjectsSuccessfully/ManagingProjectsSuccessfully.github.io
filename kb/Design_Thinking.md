@@ -1,8 +1,8 @@
 ---
 title: Design_Thinking
-tags:  klassisch
+tags:  klassisch, agil 
 author: LKmps2021
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Design_Thinking um ein erstes Verständnis dafür zu schaffen um was es hier geht.
