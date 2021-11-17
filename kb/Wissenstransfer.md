@@ -53,7 +53,7 @@ ausgetauscht werden.[^9]
 
 Ein strukturierter Wissenstransfer sorgt für einen gesunden Wissensfluss im Unternehmen. Dieser erhöht die Innovativität, verkürzt Projektlaufzeiten, 
 senkt anfallende Projektkosten, versucht Doppelarbeiten zu vermeiden, führt somit zu einer erhöhten Produktivität im Arbeitsumfeld und generiert 
-im selben Zug mehr Mitarbeiterzufriedenheit.[^10]  
+im selben Zug eine höhere Mitarbeiterzufriedenheit.[^10]  
 
 
 ## Gefahren bei der Wissensweitergabe
