@@ -24,7 +24,7 @@ Akteuren und das erkennen und bewerten von Hindernissen. [^2]
 Für Probleme bei der Durchführung eines Projektes kann es viele Ursachen geben. Hemmnisse entstehen vor allem wenn es eine Vielzahl von Zielen gibt, und somit
 verbundene Zielkonflikte. Weitere Ursachen können die Anzahl der Entscheidungsakteure in einem Projekt sein, oder die Verteilung von Machtstrukturen.[^3]
 
-### Entstehungsgründe für Hemmnisse können in vier Gruppen eingeordnet werden: Dürfen, Wollen, Wissen und Können. 
+### Entstehungsgründe für Hemmnisse können in vier Gruppen eingeordnet werden: Dürfen, Wollen, Wissen und Können 
 Die erste Hemmnisgruppe des **Dürfens** beschreibt Hemmnisse, die durch unklar definierte Ziele entstehen können. Fehlende Unterstützung seitens der
 Führungsebene kann zum Beispiel zur Hemmung führen. Akteure können somit nicht identifizieren ob sie sich engagieren dürfen oder nicht.
 
