@@ -5,10 +5,7 @@ author: biancamg
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Hemmnisanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Die Hemmnisanalyse 
 
@@ -71,10 +68,10 @@ das Best-Practice Sharing. Mithilfe der Entscheidungsanalyse werden mit Akteuren
 ermittelt werden, warum es bestimmte Schwachstellen gibt. Daraus können konkret Verbesserungsvorschläge zu künftigen Maßnahmen getroffen werden, dies stellt die
 Problemanalyse dar. [^4]
 
-
+# Vergleichbare Methoden zur Bewertung und Messung von Hemmnissen
 ![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
 
-*Testbild*
+*Abbildung: Beispielmethoden zur Messung und Bewertung von Hemmnissen*[^4]
 
 
 ## Fazit
