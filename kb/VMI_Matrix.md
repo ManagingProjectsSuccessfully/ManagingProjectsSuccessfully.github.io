@@ -2,93 +2,56 @@
 title: VMI_Matrix
 tags: agil klassisch
 author: Larf4
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu VMI_Matrix um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Bei der VMI-Matrix handelt es sich um ein Tool im [Projektmanagement](Larf4/ManagingProjectsSuccessfully.github.io/kb/Projektmanagement.md). Ordnet man die Matrix in den klassischen Projektzyklus ein, so ist diese in der [Projektplanung](Larf4/ManagingProjectsSuccessfully.github.io/kb/Projektplanung.md) anzusiedeln.
+Durch die Matrix lassen sich Verantwortlichkeiten in Bezug auf das Projekt visualisieren und dadurch eindeutig zuordnen. Weiterhin ist auch die Zuordnung von Personen mit unterstützender Tätigkeit, sowie zu informierende Personen möglich.
+Der Name VMI beschreibt dabei diese Visualisierungsmöglichkeiten, V steht hierbei für Verantwortung, M für Mitarbeit und I für Informieren. 
+Durch die Simplizität bei gleichzeitig leichter Konstruktionsmöglichkeit stellt die VMI-Matrix einen absoluten Klassiker in Bezug auf Projektmanagementinstrumente dar. [^3]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![Beispielmatrix](https://www.projektmanagementhandbuch.de/wp-content/uploads/2017/09/PMH_VMI-Verantwortlichkeits-Matrix.jpg)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Erstellung der Matrix
+Bevor die VMI-Matrix erstellt werden kann, ist das Vorliegen eines [Projektstrukturplans](Larf4/ManagingProjectsSuccessfully.github.io/kb/Projektstrukturplan.md) zwingend notwendig, da sich die Arbeitspakete der VMI-Matrix aus dem PSP ableiten.
+Zur Erstellung einer VMI-Matrix ist daher folgendes Vorgehen empfehlenswert: 
+* Schritt 1: In der ersten Senkrechten Spalte werden die im [PSP](Larf4/ManagingProjectsSuccessfully.github.io/kb/Projektstrukturplan.md) definierten Arbeitspakete eingetragen. 
+* Schritt 2: In der obersten, waagrechten Zeile werden alle am Projekt Beteiligten Stakeholder eingetragen. Die Beteiligten sind hierbei namentlich einzutragen, dadurch ist klar wer der konkrete Ansprechpartner ist. [^5]
+* Schritt 3: Jedem Arbeitspaket wird genau eine Verantwortliche Person (V) zugewiesen. Diese Person erhält ein "V" in der zutreffenden Zelle.
+* Schritt 4: Nun werden die Mitarbeitenden (M) für jedes einzelne Arbeitspaket zugewiesen. Dafür wird in die betreffende Zelle der Matrix ein "M" eingetragen. 
+* Schritt 5: Zuletzt werden die zu Informierenden Personen in der Matrix durch den Buchstaben "I" markiert.
+ 
+# Beschreibung der Dimensionen
+Die VMI-Matrix wird im Regelfall von der [Projektleitung](Larf4/ManagingProjectsSuccessfully.github.io/kb/Projektleiter.md) Erstellt und Verwaltet. Weiterhin wird die Matrix laufend überprüft und bei Bedarf auch angepasst.  
+## Verantwortung
+Die Zuweisung der "V" Dimension gibt Aufschluss über den Verantwortlichen des Arbeitspakets. Hierbei sollte pro Arbeitspaket nur eine, bei hochkritischen Arbeitspaketen zwei Personen ausgewiesen werden. [] Die Aufgaben umfassen unter anderem Prüfung und Sicherstellen der Zielerreichung, dabei sollten auch Termine und Ressourcenvorgaben erfüllt werden. [^5]
+## Mitarbeit
+Hier werden die für das Arbeitspaket zugewiesenen Mitarbeitenden aufgeführt. 
+## Information
+Hier werden die Personen aufgeführt, die über den Verlauf der Arbeiten im Arbeitspaket informiert werden müssen. Im Normalfall werden diese Mitarbeiter nicht selbst in den Arbeitspaketen aktiv, sondern erwarten nur die Information durch den Verantwortlichen.
+# Vorteile & Herausforderungen 
+Das Verfahren bringt eine Vielzahl von Vorteilen mit sich, dennoch sind bei der Nutzung gewisse Herausforderungen zu Bedenken.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Vorteile
+Die Anwendung der VMI-Matrix bringt folgende Vorteile mit sich: 
+* Klare Kompetenzverteilung [^5]
+* Transparenz in der Darstellung [^5]
+* Ermöglicht Informationsmanagement im Projekt [^5]
+* Erlaubt Überblick über alle Verantwortlichkeiten [^5]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+## Herausforderungen
+Für eine erfolgreiche Nutzung der VMI sollten die folgenden Herausforderungen beachtet werden: 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](VMI_Matrix/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+* Sind zu viele Mitarbeitende involviert? [^5]
+* Ist jedem Arbeitspaket ein Verantwortlicher zugewiesen? [^5]
+* Zu viele Zuweisungen: Sind die Mitarbeitenden überlastet? [^5]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [RACI](Larf4/ManagingProjectsSuccessfully.github.io/kb/RACI.md)
+* [PSP](Larf4/ManagingProjectsSuccessfully.github.io/kb/Projektstrukturplan.md)
+* [Projektplanung](Larf4/ManagingProjectsSuccessfully.github.io/kb/Projektplanung.md)
+* [Projektleitung](Larf4/ManagingProjectsSuccessfully.github.io/kb/Projektleitung.md)
 * [Link auf diese Seite](VMI_Matrix.md)
 
 # Weiterführende Literatur
@@ -99,6 +62,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^3]: [Projektmanagement Handbuch]( https://www.projektmanagementhandbuch.de/handbuch/projektplanung/vmi-matrix/)
+[^4]: [Business Wissen]( https://www.business-wissen.de/produkt/4383/vmi-matrix-oder-imv-matrix-information-mitarbeit-verantwortung-der-projektmitarbeiter/)
+[^5]: [Wirtschaftswissen]( https://www.wirtschaftswissen.de/marketing-vertrieb/verkauf/vertriebsmanagement/vertriebs-projekte-erfolgreich-managen-mit-der-vmi-matrix/)
+[^6]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+
 
