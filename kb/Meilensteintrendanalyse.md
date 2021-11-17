@@ -4,7 +4,7 @@ tags: agil klassisch
 author: CatPec
 anrechnung: k 
 ---
-Die Meilensteintrendanalyse ist eines der beliebtesten Verfahren des Projektcontrollings, das überwiegend im klassischen Projektmanagement Anwendung findet. Sie dient zur Prognose und Steuerung von Terminen innerhalb kleinerer und mittelgroßer Projekte[^1.] Dabei werden einzelne Projektabschnitte vorab zeitlich kalkuliert und Terminen zugeteilt, an denen der Projektabschnitt, definiert als ein Meilenstein (https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteine.md), abgeschlossen sein soll. Die Meilensteintrendanalyse stellt eine Visualisierung von Terminänderungen im Projekt dar. Dadurch lassen sich Trends ablesen und Schwächen sowie Risiken im Projekt frühzeitig erkennen. Zudem schafft die Meilensteintrendanalyse Transparenz gegenüber den Stakeholdern eines Projekts [^2]. 
+Die Meilensteintrendanalyse ist eines der beliebtesten Verfahren des Projektcontrollings, das überwiegend im klassischen Projektmanagement Anwendung findet. Sie dient zur Prognose und Steuerung von Terminen innerhalb kleinerer und mittelgroßer Projekte[^1.] Dabei werden einzelne Projektabschnitte vorab zeitlich kalkuliert und Terminen zugeteilt, an denen der Projektabschnitt, definiert als ein [Meilenstein](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteine.md), abgeschlossen sein soll. Die Meilensteintrendanalyse stellt eine Visualisierung von Terminänderungen im Projekt dar. Dadurch lassen sich Trends ablesen und Schwächen sowie Risiken im Projekt frühzeitig erkennen. Zudem schafft die Meilensteintrendanalyse Transparenz gegenüber den Stakeholdern eines Projekts [^2]. 
 
 
 # Anwendung der Meilensteintrendanalyse
@@ -37,7 +37,7 @@ Die Steigungen im Diagramm haben folgende Bedeutungen:
 * Fallende Linien: Hier konnte der Termin nicht nur eingehalten werden, sondern der Meilenstein auch frühzeitig abgeschlossen werden. Dies ist sehr von Vorteil, wenn sich zukünftige Termine im Projekt verzögern werden, da eine Art Zeitpuffer geschaffen wurde, der später genutzt werden kann, um bei kommenden Meilensteinen den Zeitplan einhalten zu können [^1].
 
 # Tools zur Anwendung der Meilensteintrendanalyse 
-Obwohl sich die Meilensteinstrendanalyse auch ganz einfach auf dem Papier anwenden lässt, gibt es mittlerweile zahlreiche Excel Add-ons, Tools bei Microsoft Project oder Cloudbasierte Web-Applikationen ManagingProjectsSuccessfully.github.io/Cloud_Services.md at main · CatPec/ManagingProjectsSuccessfully.github.io, deren Zwechk ist, den Projektfortschritt professionell zu visualisieren [^5].
+Obwohl sich die Meilensteinstrendanalyse auch ganz einfach auf dem Papier anwenden lässt, gibt es mittlerweile zahlreiche Excel Add-ons, Tools bei Microsoft Project oder [Cloudbasierte Services](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cloud_Services.md), deren Zweck es ist, den Projektfortschritt professionell zu visualisieren [^5].
 
 # Siehe auch
 
