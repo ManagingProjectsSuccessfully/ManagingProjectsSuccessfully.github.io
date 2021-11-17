@@ -14,6 +14,42 @@ Mit awork kann gemeinsam an mehreren Projekten gearbeitet werden. Dazu können u
 Innerhalb der Projekte werden die Aufgaben über To-Do-Listen organisisert. Zudem ermöglicht awork die Erstellung
 wiederkehrender Aufgaben. Zur Visualisierung der Aufgaben kann eine Timeline oder ein Kanban-Board verwendet werden. 
 ## 3. Visualisierung mit Gantt-Chart 
+Awork bietet die Möglichkeit mit einem Gantt-Chart, also einer Timeline, den zeitlichen Ablauf eines Projekts zu visualisieren. Relevante Aufgaben können dafür per Drag-and-Drop in die Timeline gezogen werden. Zudem können Meilensteine, Abhängigkeiten und Projektphasen definiert werden. 
+## 4. Kanban-Boards
+Das Kanban-Board kann individuell angepasst werden und dient der Abbildung des Arbeitsablaufs. 
+## 5. Integrierte Zeiterfassung 
+Awork ermöglicht das Tracken der Zeit für Projekte und Aufgaben über einen Timer oder die nachträgliche Eintragung über das Zeiterfassungsfenster. Zudem gibt es eine Zeitauswertung, welche auch graphisch angezeigt werden kann. Über die Integrationen von Abrechnungstools können dort die Zeiten automatisch übernommmen werden.
+## 6. Individuelle Dashboards 
+Auf dem Dashboard, der graphischen Benutzeroberfläche, können relevante Funktioen übersichtlich abgelegt werden, was eine bedarfsorientierte und individuelle Anpassung ermöglicht. 
+Dafür können verschiedene Widgets ausgewählt werden, beispielsweise TExtnotizen, Aufgabenliste, Projektliste, Zeitauswertung und Abwesenheit von Usern 
+## 7. Weitere Funktionen 
+* Überblick über Auslastung, Teamplanung und Abwesenheit mit der Ressourcenplanung 
+* Aufgabenchat: Teamkommunikation und Feedback 
+* Zuweisung von Rechten an Teammitglieder und Externe durch das Rechtemanagement 
+* Automatisiertes Projektmanagement z.B.: smarte Mailings 
+# Preise 
+Nach den 14 Tagen der kostenlosen Testversion sind nur zahlungspflichtige Abonnements möglich. Die Premium Version wird für Teams bis etwa 50 User empfohlen. Bei monatlicher Zahlung sind es für einen Nutzer 12€, bei jährlicher Zahlung 10€ pro Monat und bei zweijährlicher Zahlung 8€ pro Monat. Die Enterprise Version richtet sich an größere Organisationen und kostet pro Nutzer bei jährlicher Zahlung 15€ pro Monat und bei zweijährlicher Zahlung 12€ pro Monat. 
+# Auf welchen Geräten kann man awork anwenden? 
+Für die Arbeit mit awork wird nur ein Browser benötigt. Die Software funktioniert plattformunabhängig. Zusätzlich gibt es eine App für iOS und Android. 
+# Welche Integrationen gibt es? 
+Bei awork können verschiedene Anwendungen integriert werden. Für viele Tools gibt es eine direkte Möglichkeit der Integration. Andere Tools können über Zapier, eine verküpfender Web-Service, integriert werden. 
+
+Beispiele: 
+* Google-, Apple-Kalender 
+* Abrechnungstools 
+* Microsoft Teams, Slack 
+* Google Drive 
+# Support 
+Bei awork gibt es unterschiedliche Angebote zur Unterstützung der Nutzer: 
+* Blog auf der Homepage 
+* Helpcenter 
+* Webinare über Zoom 
+* Aufgezeichnete Webinare und Interviews auf YouTube 
+* Buchbare Beratungstermine 
+# Vor- und Nachteile von awork 
+
+
+
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
@@ -21,62 +57,25 @@ Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Awork_PM_Tool/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
 So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Vorteile               | Nachteile            |
+| ---------------------- | ----------------------
+| * umfassender Support  | *  keine kostenlose  
+                              Basisversion      |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
@@ -103,4 +102,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
 
