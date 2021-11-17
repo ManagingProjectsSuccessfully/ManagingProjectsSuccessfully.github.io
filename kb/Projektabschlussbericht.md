@@ -85,7 +85,7 @@ Erkenntnisse in Form von *lessons learned* gezogen werden, welche man auf das nÃ
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Projektabschluss.md)
-* [Link auf diese Seite](lessons learned.md)  
+* [Link auf diese Seite](Lessons_Learned.md)  
 
 
 
