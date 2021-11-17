@@ -17,14 +17,14 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
   [Tim Brown, Executive Chair: IDEO](https://designthinking.ideo.com/)
 
-Design Thinking ist ein menschen-zentrierter Ansatz (Human-Centered Approach) für die Generierung von Lösungen und Innovationen, wobei es sowohl ein Denkansatz als auch ein Prozess-Modell ist. Das Design Thinking unterstützt bei der kreativen Betrachtung einer weiten Bandbreite an innovativen Lösungsmöglichkeiten. In der Praxis 
-in Bezug auf Unternehmen heißt, dass das Design Thinking hilft Unternehmen dabei, die wahren Bedürfnisse und Wünsche ihrer Kunden zu bestimmen.
+Design Thinking ist ein menschen-zentrierter Ansatz (Human-Centered Approach) für die Generierung von Lösungen und Innovationen, wobei es sowohl ein Denkansatz als auch ein Prozess-Modell ist. Das Design Thinking unterstützt bei der kreativen Betrachtung einer weiten Bandbreite an innovativen Lösungsmöglichkeiten. In der Praxis in Bezug auf Unternehmen heißt, dass das Design Thinking hilft Unternehmen dabei, die wahren Bedürfnisse und Wünsche ihrer Kunden zu bestimmen.
 
 ## Prozess Modell 
 
-Es existieren mehrere Vorgehensmodelle mit einer unterschiedlichen Anzahl an Schritten für den Prozess des Design Thinkings, im Folgenden wird eines der Standartmodelle nach dem Hasso-Plattner-Institut beschrieben. 
+Es existieren mehrere Vorgehensmodelle mit einer unterschiedlichen Anzahl an Schritten für den Prozess des Design Thinkings, im Folgenden wird eines der Standartmodelle nach dem Hasso-Plattner-Institut beschrieben.
 
-Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6  Phasen: Verstehen, Beobachten/Empathie, Sichtweise definieren, Ideen generieren, Prototypen, Testen. Der Prozess ist non-linear und iterativ.
+Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6 Phasen: Verstehen, Beobachten/Empathie, Sichtweise definieren, Ideen generieren, Prototypen, Testen. Der Prozess ist non-linear und iterativ.
+
 
 ![Beispielabbildung](Design_Thinking/design_Thinking_Bild1.png)
 *6 Schritte des Design Thinkings*[^1]
@@ -33,21 +33,20 @@ Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6  Phas
 Im ersten Schritt wird die Ausgangssituation definiert und sichergestellt, dass alle beteiligten Personen sich auf demselben Wissensstand befinden. Mögliche Standardfragen mit denen Probleme definiert werden können sind: Was soll neu entwickelt werden? Für wen soll die Entwicklung relevant sein? Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? Welcher Endzustand soll durch die Lösung erreicht werden?[^2]
 
 ### Phase 2: Beobachten
-Im Schritt des Beobachten geht es darum, die Ziele, die Bedürfnisse sowie die Proritäten der Kunden zuanalysieren und zuverstehen. Wichtig ist es hierbei den Kunden reden zulassen und genau zuzuhören, um Missverständnisse zu vermeiden. 
+Im Schritt des Beobachtens geht es darum, die Ziele, die Bedürfnisse sowie die Prioritäten der Kunden zu analysieren und zu verstehen. Wichtig ist es hierbei den Kunden reden zulassen und genau zuzuhören, um Missverständnisse zu vermeiden.
 
 ### Phase 3: Sichtweisen definieren 
-In diesem Schritt erfolgt die Sythese der ersten beiden Schritte. Das Ziel hierbei ist es auf Basis der der gesammelten Annahmen und Beobachtungen einen konzeptionellen Rahmen zu entwickeln und den Lösungraum abzustecken. Es sollen dabei die Kernbedürfnisse der Nutzer interpretieren und formuliert werden. (Es gibt  mehrere Techniken um dies zuerreichen, ein Beispiel wäre die Point-of-View Technik.)
+In diesem Schritt erfolgt die Synthese der ersten beiden Schritte. Das Ziel hierbei ist es auf Basis der der gesammelten Annahmen und Beobachtungen einen konzeptionellen Rahmen zu entwickeln und den Lösungsraum abzustecken. Es sollen dabei die Kernbedürfnisse der Nutzer interpretieren und formuliert werden.  (Es gibt  mehrere Techniken um dies zuerreichen, ein Beispiel wäre die Point-of-View Technik.)
 
 ### Phase 4: Ideen finden
-In der vierten Phase werden mit Hilfe von kreativitäts Techniken, wie z.B Brainstorming, Mindmapping, Kopfstandtechnik und 6_3_5 Methode Ideen gesammelt. Die ideen können dabei auch sehr abstrakt und ausgefallen sein. Die Ergebnisse werden dann nach der Effizeinz, der Machbarkeit und Wirtschaftlichkeit bewertet und sortiert.  Es werden dann mit Hilfe dieser Priorisierung Ideen ausgewählt mit denen weitergearbeitet werden soll.
+In der vierten Phase werden mit Hilfe von Kreativitätstechniken, wie z.B. Brainstorming, Mindmapping, Kopfstandtechnik und 6_3_5 Methode Ideen gesammelt. Die Ideen können dabei auch sehr abstrakt und ausgefallen sein. Die Ergebnisse werden dann nach der Effizienz, der Machbarkeit und Wirtschaftlichkeit bewertet und sortiert. Es werden dann anhand dieser Priorisierung Ideen ausgewählt mit denen weitergearbeitet werden soll.
 
 ### Phase 5: Prototypen entwickeln 
-In dieser Phase werden für die ausgewählten Ideen Prototypen gebaut, damit die ausgedachte Konstrukte anschaulicher werden und Annahmen getestet werden können. Es ist dabei nicht wichtig, ob die Prototypen perfekt sind. Am Anfang ist es wichtiger die Sache so einfach wie möglich anzugehen und möglichst kreativ vorzugehen. 
+In dieser Phase werden für die ausgewählten Ideen Prototypen gebaut, damit die ausgedachten Konstrukte anschaulicher werden und Annahmen getestet werden können. Es ist dabei nicht wichtig, ob die Prototypen perfekt sind. Es wichtiger das Sachen kreativ und so einfach wie möglich angegangen werden. 
 Techniken die bei dem erstellen der Prototypn zum Einsatz kommen sind: 
 
 ### Phase 6: Testen 
-Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden nun unter der Einbindung der Kunden und Interessensvertreter weiter validiert und getestet.  Das Ziel hierbei ist es nicht den Kunden von den Prototypen zu überzeugen, sondern vor allem das Feedback und die Reaktion der Kunden zu analysieren, denn diese sind ein wichtiger Bestandteil, um weitere Ideen und Verbesserungen zu generieren. Wichtig in diesem Schritt ist, dass das die Personen, die das Design Thinking durchgeführt haben, bereit sind neue Ideen anzunehmen, um die Prototypen weiterzuentwickeln und gegeben falls auch nicht funktionierende Prototypen wieder zu verwerfen. Es kann in diesem Schritt auch zu Mehrer Testphasen kommen, bis der Kunde und die Entwickler zufrieden sind mit dem Endprodukt. 
-
+Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden nun unter der Einbindung der Kunden und Interessensvertreter weiter validiert und getestet. Das Ziel hierbei ist es nicht den Kunden von den Prototypen zu überzeugen, sondern vor allem das Feedback und die Reaktion der Kunden zu analysieren, denn diese sind ein wichtiger Bestandteil, um weitere Ideen und Verbesserungen zu generieren. Wichtig in diesem Schritt ist, dass das die Personen, die das Design Thinking durchgeführt haben, bereit sind neue Ideen anzunehmen, um die Prototypen weiterzuentwickeln und gegeben falls auch nicht funktionierende Prototypen wieder zu verwerfen. Es kann auch zu mehreren Design Thinking-Durchläufen kommen, bis der Kunde und die Entwickler zufrieden sind mit dem Endprodukt. 
 
 
 
