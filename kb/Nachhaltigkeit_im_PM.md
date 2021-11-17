@@ -5,7 +5,10 @@ author: Miki2701
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Nachhaltigkeit_im_PM um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Nachhaltigkeit ist ein Handlungsprinzip, zur Nutzung von Ressourcen, wobei eine permanente Bedürfnisbefriedigung durch die
+Erhaltung der natürlichen Regenerationsfähigkeit der beteiligten Systeme (insbesondere Lebewesen und Ökosytemen) gewährleisten
+werden soll [^1]. Im Kontext von Projekten bedeutet dies, dass man die Interessen von Fach- und Stakeholdern kombiniert und die Zukunft und das 
+Unvorhergesehene berücksichtigt.[^2]
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
@@ -97,8 +100,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: https://de.wikipedia.org/wiki/Nachhaltigkeit#Begriffsgeschichte
+[^2]: https://www.societybyte.swiss/2018/05/01/maiausgabe-nachhaltiges-projektmanagement/)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
