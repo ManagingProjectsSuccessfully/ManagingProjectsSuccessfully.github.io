@@ -5,9 +5,10 @@ author: Katjax08
 anrechnung: k
 ---
 
-Die Walt-Disney-Methode, welche nach ihrem Urheber [Walt Disney](https://de.wikipedia.org/wiki/Walt_Disney) benannt wurde, ist eine Kreativitätstechnik auf Basis eines Rollenspiels. Dabei nehmen verschiedene Personen die Positionen eines „Träumers“, „Realisten“ und „Kritiker“ ein, um sich mit einem Problem auseinanderzusetzen. Die Methode wurde von [Robert B. Dilts](https://de.wikipedia.org/wiki/Robert_Dilts) im Jahr 1994 veröffentlicht. 
+Die Walt-Disney-Methode, welche nach ihrem Urheber [Walt Disney](https://de.wikipedia.org/wiki/Walt_Disney) benannt wurde, ist eine [Kreativitätstechnik](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) auf Basis eines Rollenspiels. Dabei nehmen verschiedene Personen die Positionen eines „Träumers“, „Realisten“ und „Kritiker“ ein, um sich mit einem Problem auseinanderzusetzen. Die Methode wurde von [Robert B. Dilts](https://de.wikipedia.org/wiki/Robert_Dilts) im Jahr 1994 veröffentlicht[^1]. 
 
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="de" dir="ltr"><h2 id="mw-toc-heading">Inhaltsverzeichnis</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Einordnung_der_Methode"><span class="tocnumber">1.</span> <span class="toctext">Einordnung der Methode</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Ursprung_der_Methode"><span class="tocnumber">2.</span> <span class="toctext">Ursprung</span></a></li>
@@ -27,6 +28,13 @@ Robert B. Dilts modellierte diese Herangehensweise von Walt Disney und entwickel
 <h2><span class="mw-headline" id="Fazit_">Fazit</span></h2>
 
 <h2><span class="mw-headline" id="Quellen_">Quellen</span></h2>
+
+[^1]: [Individuelle Persönlichkeitsentwicklung: Growing by Transformation](https://link.springer.com/content/pdf/10.1007%2F978-3-658-09453-9.pdf) 
+Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
 
 
 Kurzbeschreibung zu Walt_Disney_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
