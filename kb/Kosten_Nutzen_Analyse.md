@@ -25,18 +25,16 @@ Im Vorfeld der Durchführung müssen gewisse Rahmenbedingungen bestimmt werden, 
 * Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.[^2]
 
 Um die Analyse fundiert durchsetzen zu können, sind vorher noch einige wichtige Aspekte zu berücksichtigen.
-| Checkliste[^3]  | Second Header |
-| ------------- | ------------- |
-| Ziel der Analyse ? | Content Cell  |
-| Alleiniges Entscheidungskriterium ?  |    |
-| Ausmaß des Einflusses auf Entscheidung  |  |
-| Wer führt die Analyse durch ? |  |
-| Wurden genügend qualitative Merkmale ausgewählt ? |   |
-| Woher kommen Informationen, Daten, Fakten ? |   |
-| Wie können Merkmale bewertet werden ? |  |
-| Angemessener Zeitraum angesetzt ? |  |
-|   |   |
-|  |   |
+| Checkliste[^3]  |
+| ------------- |
+| Ziel der Analyse ? | 
+| Alleiniges Entscheidungskriterium ?  | 
+| Ausmaß des Einflusses auf Entscheidung  |
+| Wer führt die Analyse durch ? |
+| Wurden genügend qualitative Merkmale ausgewählt ? |
+| Woher kommen Informationen, Daten, Fakten ? |
+| Wie können Merkmale bewertet werden ? |
+| Angemessener Zeitraum angesetzt ? |
 
 Innerhalb dieses Rahmens erfolgt die eigentliche Analyse. 
 
