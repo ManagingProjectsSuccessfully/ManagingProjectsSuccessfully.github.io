@@ -37,10 +37,10 @@ Im Schritt des Beobachten geht es
 
 
 ### Phase3: Sichtweisen definieren 
-
+In diesem Schritt erfolgt die Sythese der ersten beiden Schritte. Das Ziel hierbei ist es auf Basis der der gesammelten Annahmen und Beobachtungen einen konzeptionellen Rahmen zu entwickeln und den Lösungraum abzustecken. Es sollen dabei die Kernbedürfnisse der Nutzer interpretieren und formuliert werden. (Es gibt  mehrere Techniken um dies zuerreichen, ein Beispiel wäre die Point-of-View Technik.)
 
 ### Phase4: Ideen finden
-
+In der vierten Phase werden mit Hilfe von kreativitäts Techniken, wie z.B Brainstorming, Mindmapping, Kopfstandtechnik und 6_3_5 Methode Ideen gesammelt. Die ideen können dabei auch sehr abstrakt und ausgefallen sein. Die Ergebnisse werden dann nach der Effizeinz, der Machbarkeit und Wirtschaftlichkeit bewertet und sortiert.  Es werden dann mit Hilfe dieser Priorisierung Ideen ausgewählt mit denen weitergearbeitet werden soll.
 
 ### Phase5: Prototypen entwickeln 
 In dieser Phase werden für die generierten Ideen Prototypen gebaut, damit die ausgedachte Konstrukte anschaulicher werden.  
