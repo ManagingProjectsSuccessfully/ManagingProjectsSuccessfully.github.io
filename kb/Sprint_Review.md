@@ -29,8 +29,8 @@ Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^3]. Darunter fallen
 
 # Sprints
 
-Kernelemente der Ereignisse sind die sogenannten Sprints, welche einen hohen Stellenwert einnehmen und dementsprechend "der Herzschlag von Scrum ist, wo Ideen in Wert
-umgewandelt werden". [scrum guide poster]
+Kernelemente der Ereignisse sind die sogenannten Sprints, welche einen hohen Stellenwert einnehmen und dementsprechend *"der Herzschlag von Scrum ist, wo Ideen in Wert
+umgewandelt werden"*. [scrum guide poster]
   Taucht man nun tiefer in den Ablauf eines einzigen Sprints ein, lässt sich feststellen, dass dieser nochmals in Etappen unterteilt ist.
   
 
@@ -48,30 +48,30 @@ Manager oder ein Vertreter aus diversen Bereichen sein.
 
 Üblicherweise dauert ein solches Meeting circa vier Stunden, sollten die Sprints aber kürzer sein, fällt auch die Dauer der Besprechung knapper aus[^2]. 
 
-## Folgeschritte
+## Folgeschritte[^4]
 
-* Allgemeine Regeln
-  - Begonnen wird im sprint Review meist damit, dass der Product Owner allgemeine Regeln über den Ablauf des Sprint Reviews aufstellt und Erwartungen hieran mitteilt.
+* __Allgemeine Regeln__
+  - Begonnen wird im sprint Review meist damit, dass der Product Owner allgemeine Regeln über den Ablauf des Sprint Reviews aufstellt und Erwartungen hieran mitteilt
  
-* Überblick
-  - Weiterführend informiert er in einem kurzem Überblick darüber, was demonstriert werden soll und was der Inhalt des heutigen Meetings ist.
+* __Überblick__
+  - Weiterführend informiert er in einem kurzem Überblick darüber, was demonstriert werden soll und was der Inhalt des heutigen Meetings ist
   
-* aktueller Stand
-  - Außerdem berichtet er, was bereits erreicht worden ist und welche Aufgaben noch abgeschlossen werden müssen.
+* __aktueller Stand__
+  - Außerdem berichtet er, was bereits erreicht worden ist und welche Aufgaben noch abgeschlossen werden müssen
   
-* Einführung durch das Scrum Team
+* __Einführung durch das Scrum Team__
   - Nachdem durch den Product Owner ein Gesamtüberlick geliefert wurde, geht das Scrum Team zum einen darauf ein, welche Fortschritte und Ergebnisse erreicht worden sind
-    und zum anderen in welchen Bereichen Probleme aufgetreten sind und wie diese gelöst wurden. Dabei stehen sie natürlich stets für Fragen zur Verfügung.
+    und zum anderen in welchen Bereichen Probleme aufgetreten sind und wie diese gelöst wurden. Dabei stehen sie natürlich stets für Fragen zur Verfügung
     
-* Änderungen am Product Backlog
-  - Gegebenenfalls werden dann zusätzlich Änderungen des Product Backlogs, was eine Auflistung aller Anforderungen für ein zu erstellendes Produktes enthält, besprochen.
+* __Änderungen am Product Backlog__
+  - Gegebenenfalls werden dann zusätzlich Änderungen des Product Backlogs, was eine Auflistung aller Anforderungen für ein zu erstellendes Produktes enthält, besprochen
  
-* Diskussion
+* __Diskussion__
   - Dies wird nicht selten in Form einer Diskussion erarbeitet, in der alle Anwesenden ihre Änderungsvorschläge anbringen können und somit einzelne Teile überarbeitet
-    werden. Das wird stets in Anwesenheit des Stakeholders passieren, sodass auch dieser in der Lage ist mögliche Wünsche oder Abneigungen kundzutun. 
+    werden. Das wird stets in Anwesenheit des Stakeholders passieren, sodass auch dieser in der Lage ist mögliche Wünsche oder Abneigungen kundzutun
  
-* Erstellung der Inhalte
-   - Auf Grundlage des angepassten Product Backlogs werden schlussendlich die Inhalte des nächsten Sprints bestimmt.
+* __Erstellung der Inhalte__
+   - Auf Grundlage des angepassten Product Backlogs werden schlussendlich die Inhalte des nächsten Sprints bestimmt
 
 
 
