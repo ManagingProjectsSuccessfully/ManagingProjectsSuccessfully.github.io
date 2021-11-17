@@ -47,7 +47,21 @@ Bei awork gibt es unterschiedliche Angebote zur Unterstützung der Nutzer:
 * Aufgezeichnete Webinare und Interviews auf YouTube 
 * Buchbare Beratungstermine 
 # Vor- und Nachteile von awork 
+Vorteile: 
+* Umfassender Support 
+* Hoher Grad an Individualisierung 
+* Zeiterfassung 
+* Integration von Tools 
+* Einfache & intuitive Bedienung 
+* Serverstandorte in Deutschland mit ISO 27001 Zertifizierung 
+* Erfüllung der EU-Datenschutz-Grundverordnung (DSGVO) 
+* Weiterentwicklung durch Releases neuer Funktionen 
+* Möglichkeit für Feedback, Wünsche und Ideen 
 
+Nachteile: 
+* Keine kostenlose Basisversion 
+* Sprachen nur Deutsch und Englisch 
+* kein klassisches Dokumentenmanagement 
 
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -65,26 +79,6 @@ Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4].
 
 *lustiges Testbild*
 
-
-
-So kann man eine Tabelle erstellen:
-
-| Vorteile               | Nachteile            |
-| ---------------------- | ----------------------
-| * umfassender Support  | *  keine kostenlose  
-                              Basisversion      |
-
-
-
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
