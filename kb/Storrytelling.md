@@ -5,9 +5,8 @@ author: aculsalocin
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Storrytelling um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-
+"Es war einmal… der Mensch. Und mit ihm eine Geschichte. Storytelling, die Kunst des Erzählens, ist so alt wie die Menschheit. Geschichten haben eine einzigartige Kraft richtig eingesetzt sorgen sie für starkes Projekt Management[^1]."
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -96,8 +95,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Storytelling im Projektmanagement](https://zistemo.de/blog/storytelling-im-projektmanagement/)
+[^2]: [Storytelling: Definition, Aufbau, 10 Tipps + 3 Beispiele](https://karrierebibel.de/storytelling/)
+[^3]: [Storytelling – durch Erzählen zum Projekterfolg](https://docplayer.org/31538949-Storytelling-durch-erzaehlen-zum-projekterfolg.html)
