@@ -49,7 +49,7 @@ Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts 
 
 # Quellen
 
-[^1]: [Projekte-leicht-gemacht](https://projekte-leicht-gemacht.de/blog/projektmanagement/stacey-matrix/)
+[^1]: [Die-Stacey-Matrix:-Welche-Projektmanagement-Methode-ist-die-richtige?](https://projekte-leicht-gemacht.de/blog/projektmanagement/stacey-matrix/)
 [^2]: [Projektmagazin](https://www.projektmagazin.de/artikel/mit-der-stacey-matrix-zur-richtigen-pm-methode_1128468)
 [^3]: [Projektmagazin](https://www.projektmagazin.de/glossarterm/stacey-matrix)
 [^4]: [Erfolgreich-Projekte-leiten](https://erfolgreich-projekte-leiten.de/stacey-matrix/)
