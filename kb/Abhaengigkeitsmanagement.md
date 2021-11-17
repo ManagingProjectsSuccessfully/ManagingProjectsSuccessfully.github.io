@@ -50,6 +50,9 @@ Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines Projek
 
 HIER VERLINKUNG ZUR ABBILDUNG 
 
+![image](https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Abhaengigkeitsmanagement/Kanban_board_timelines.png)
+
+
 # Strukturieren von Abhängigkeiten
 
 „Failing to plan is planning to fail“
