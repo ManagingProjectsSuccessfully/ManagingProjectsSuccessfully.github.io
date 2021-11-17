@@ -68,7 +68,7 @@ das Best-Practice Sharing. Mithilfe der Entscheidungsanalyse werden mit Akteuren
 ermittelt werden, warum es bestimmte Schwachstellen gibt. Daraus können konkret Verbesserungsvorschläge zu künftigen Maßnahmen getroffen werden, dies stellt die
 Problemanalyse dar. [^4]
 
-# Vergleichbare Methoden zur Bewertung und Messung von Hemmnissen
+## Vergleichbare Methoden zur Bewertung und Messung von Hemmnissen
 ![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
 
 *Abbildung: Beispielmethoden zur Messung und Bewertung von Hemmnissen*[^4]
