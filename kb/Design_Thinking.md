@@ -33,6 +33,7 @@ Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6  Phas
 Im ersten Schritt wird die Ausgangssituation definiert und sicher gestellt, dass alle beteiligten Personen sich auf dem selben Wissensstand befinden. Mögliche Stanardfragen mit denen Probleme definiert werden können sind: Was soll neu entwickelt werden? Für wen soll die Entwicklung relevant sein? Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? Welcher Endzustand soll durch die Lösung erreicht werden?[^2]
 
 ### Phase2: Beobachten
+Im Schritt des Beobachten geht es 
 
 
 ### Phase3: Sichtweisen definieren 
@@ -42,9 +43,12 @@ Im ersten Schritt wird die Ausgangssituation definiert und sicher gestellt, dass
 
 
 ### Phase5: Prototypen entwickeln 
+In dieser Phase werden für die generierten Ideen Prototypen gebaut, damit die ausgedachte Konstrukte anschaulicher werden.  
+Techniken die bei dem erstellen der Prototypn zum Einsatz kommen sind: 
 
 
 ### Phase6: Testen 
+Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden nun unter der Einbindung der Kunden und Interessensvertreter weiter validiert und getestet.  Das Ziel hierbei ist es nicht den Kunden von den Prototypen zu überzeugen, sondern vor allem das Feedback und die Reaktion der Kunden zu analysieren, denn diese sind ein wichtiger Bestandteil, um weitere Ideen und Verbesserungen zu generieren. Wichtig in diesem Schritt ist, dass das die Personen, die das Design Thinking durchgeführt haben, bereit sind neue Ideen anzunehmen, um die Prototypen weiterzuentwickeln und gegeben falls auch nicht funktionierende Prototypen wieder zu verwerfen. Es kann in diesem Schritt auch zu Mehrer Testphasen kommen, bis der Kunde und die Entwickler zufrieden sind mit dem Endprodukt. 
 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
