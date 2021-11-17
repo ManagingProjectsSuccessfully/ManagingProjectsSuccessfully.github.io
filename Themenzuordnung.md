@@ -12,7 +12,6 @@ author: anniSc
 | [Who_is_Who_Projectmanagement](kb/Who_is_Who_Projectmanagement.md)                                                                 | [ne88peni](https://github.com/ne88peni)                       |
 | [Zertifizierungen](kb/Zertifizierungen.md)                                                                                         | [JonasMallwitz](https://github.com/JonasMallwitz)             |
 | [PMI_Institution](kb/PMI_Institution.md)                                                                                           | [CHESLYNN](https://github.com/CHESLYNN)                       |
-| [IPMA_Institution](kb/IPMA_Institution.md)                                                                                         | [AliciaVetters](https://github.com/AliciaVetters)             |
 | [GPM_Institution](kb/GPM_Institution.md)                                                                                           | [zo54hoko](https://github.com/zo54hoko)                       |
 | [SCRUM_org_Institution](kb/SCRUM_org_Institution.md)                                                                               | [SimonM211](https://github.com/SimonM211)                     |
 | [Internationale_Projektmanagement_Standards](kb/Internationale_Projektmanagement_Standards.md)                                     | [laura1mueller](https://github.com/laura1mueller)             |
@@ -122,7 +121,6 @@ author: anniSc
 | [Deliverable](kb/Deliverable.md)                                                                                                   | [starni26](https://github.com/starni26)                       |
 | [Forecasts](kb/Forecasts.md)                                                                                                       | [eftalyaumat](https://github.com/eftalyaumat)                 |
 | [Timeboxing](kb/Timeboxing.md)                                                                                                     | [janetteschuller](https://github.com/janetteschuller)         |
-| [Compliance_im_Projektmanagment](kb/Compliance_im_Projektmanagment.md)                                                             | [phigeit](https://github.com/phigeit)                         |
 | [Vorgehensmodelle](kb/Vorgehensmodelle.md)                                                                                         | [hello-pukeko](https://github.com/hello-pukeko)               |
 | [SCRUM_but](kb/SCRUM_but.md)                                                                                                       | [thujavanj](https://github.com/thujavanj)                     |
 | [SCRUMBAN](kb/SCRUMBAN.md)                                                                                                         | [mickey0684](https://github.com/mickey0684)                   |
@@ -143,8 +141,6 @@ author: anniSc
 | [Six_Sigma](kb/Six_Sigma.md)                                                                                                       | [flxrbnk](https://github.com/flxrbnk)                         |
 | [PRINCE2](kb/PRINCE2.md)                                                                                                           | [patrick203494](https://github.com/patrick203494)             |
 | [PRINCE2_7_Grundprinzipien](kb/PRINCE2_7_Grundprinzipien.md)                                                                       | [Za22Regi](https://github.com/Za22Regi)                       |
-| [PRINCE2_7_Themen](kb/PRINCE2_7_Themen.md)                                                                                         | [AliciaVetters](https://github.com/AliciaVetters)             |
-| [PRINCE2_7_Prozesse](kb/PRINCE2_7_Prozesse.md)                                                                                     | [aculsalocin](https://github.com/aculsalocin)                 |
 | [PRINCE2_Projektumgebung](kb/PRINCE2_Projektumgebung.md)                                                                           | [corinnaneubauer](https://github.com/corinnaneubauer)         |
 | [SWAT_Analyse](kb/SWAT_Analyse.md)                                                                                                 | [AlperK61](https://github.com/AlperK61)                       |
 | [Hybrides_Projektmanagment](kb/Hybrides_Projektmanagment.md)                                                                       | [juliwebair](https://github.com/juliwebair)                   |
@@ -165,7 +161,6 @@ author: anniSc
 | [Jour_Fixe](kb/Jour_Fixe.md)                                                                                                       | [MoritzBock](https://github.com/MoritzBock)                   |
 | [Projektplanung](kb/Projektplanung.md)                                                                                             | [MarleneMMeyer](https://github.com/MarleneMMeyer)             |
 | [Anforderungsmanagement](kb/Anforderungsmanagement.md)                                                                             | [Karina255](https://github.com/Karina255)                     |
-| [Mindset](kb/Mindset.md)                                                                                                           | [ebressel](https://github.com/ebressel)                       |
 | [Funktionale_Anforderungen](kb/Funktionale_Anforderungen.md)                                                                       | [LysanderBenke ](https://github.com/LysanderBenke )           |
 | [Nicht_Funktionale_Anforderungen](kb/Nicht_Funktionale_Anforderungen.md)                                                           | [seriousTake](https://github.com/seriousTake)                 |
 | [Project_Management_Office](kb/Project_Management_Office.md)                                                                       | [nicolasrmg](https://github.com/nicolasrmg)                   |
