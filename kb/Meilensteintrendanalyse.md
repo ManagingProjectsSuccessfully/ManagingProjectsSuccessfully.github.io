@@ -46,7 +46,7 @@ Obwohl sich die Meilensteinstrendanalyse auch ganz einfach auf dem Papier anwend
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Lessons learned: Performance Steuerung beim Projekt-Turnaround](https://link.springer.com/article/10.1365/s12176-006-0529-8)
 
 # Quellen
 
