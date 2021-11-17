@@ -62,6 +62,7 @@ Der dritte Schritt beinhaltet vor allem die Beurteilung sowie das Herausarbeiten
 unterschiedliche Strategien. [^2]
 
 ## Vergleichbare Methoden zur Bewertung und Messung von Hemmnissen
+Um Hemmnisse erkennen und bewerten zu könnnen gibt es verschiedene Methoden. Bei der Bewertung werden vorallem Skalen benutzt, die später in Zahlen umgewandelt werden und somit quantitav verwertbar werden.
 ![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
 
 *Abbildung: Beispielmethoden zur Messung und Bewertung von Hemmnissen*[^4]
