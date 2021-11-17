@@ -70,7 +70,7 @@ Eine Möglichkeit für agile Teams, das Scheitern eines Projektes aufgrund von F
 
 # Quellen
 
-[^1]: [factro](https://www.factro.de/blog/agiles-projektmanagement/)
+[^1]: [Agiles Projektmanagement auf einen Blick](https://www.factro.de/blog/agiles-projektmanagement/)
 [^2]: [Agile-Teams: Management und Visualisierung von Abhängigkeiten](https://www.planview.com/de/resources/guide/what-is-agile-program-management/agile-teams-dependency-management-visualization/)
 [^3]: [Abbildung von Abhängigkeiten](https://www.panaya.com/de/blog/modernes-alm/abhaengigkeits-management-abbildung/)
 [^4]: [Grundlagen des Projektmanagements: Abhängigkeiten verstehen](https://www.affde.com/de/fundamentals-of-project-management-understanding-dependencies.html)
