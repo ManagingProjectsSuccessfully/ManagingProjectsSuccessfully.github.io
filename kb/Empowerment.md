@@ -33,7 +33,7 @@ Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad stä
 
 ## Reaktionsfähigkeit
 
-Oftmals muss innerhalb eines [Projektes](Projekt.md) schnellstmöglich gehandelt werden[^3]. Deshalb ist es häufig nicht sinnvoll die jeweiligen Entscheidungsfragen verschiedene Hierarchiestufen passieren zu lassen[^3]. Stakeholder erwarten zügige Entscheidungen[^2]. Daher sollte derjenige [Projektmitarbeiter](Projektmitarbeiter.md), der mit der entsprechenden Fragestellung konfrontiert wird, die benötigte Entscheidungskompetenz besitzen[^3]. Somit kann die Reaktionsgeschwindigkeit eines [Projektes](Projekt.md) deutlich erhöht werden[^3].
+Oftmals muss innerhalb eines [Projektes](Projekt.md) schnellstmöglich gehandelt werden[^3]. Deshalb ist es häufig nicht sinnvoll, die jeweiligen Entscheidungsfragen verschiedene Hierarchiestufen passieren zu lassen[^3]. Stakeholder erwarten zügige Entscheidungen[^2]. Daher sollte derjenige [Projektmitarbeiter](Projektmitarbeiter.md), der mit der entsprechenden Fragestellung konfrontiert wird, die benötigte Entscheidungskompetenz besitzen[^3]. Somit kann die Reaktionsgeschwindigkeit eines [Projektes](Projekt.md) deutlich erhöht werden[^3].
 
 ## Qualität von Entscheidungen
 
