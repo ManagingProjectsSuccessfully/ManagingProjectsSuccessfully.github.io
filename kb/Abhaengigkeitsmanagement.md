@@ -18,7 +18,8 @@ Das Abhängigkeitsmanagement beinhaltet:
 * Visualisieren der Abhängigkeiten und detailliertes Darstellen von Abhängigkeiten zwischen Systemen, Ressourcen und Prozessen
 * Integrieren des Abhängigkeitsmanagements in die [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)- und Durchführung[^3] 
 
-# Arten von Abhängigkeiten
+# Abhängigkeiten
+## Arten von Abhängigkeiten
 
 Es gibt verschiedene Arten von Abhängigkeiten, auf die im Folgenden näher eingegangen wird. 
 Man unterscheidet Abhängigkeiten in interne- und externe Abhängigkeiten , obligatorisch- und diskretionäre Abhängigkeiten und anhand des Charakters der Abhängigkeiten. 
@@ -28,7 +29,7 @@ Externe Abhängigkeiten sind Abhängigkeiten, die auf Beziehungen beruhen, die z
 Obligatorische Abhängigkeiten orientieren sich an der harten Logik - ein Schritt muss vor einem anderen Schritt erledigt sein.
 Diskretionäre Abhängigkeiten orientieren sich dagegen an der weichen Logik. Hier wäre es besser, wenn ein Schritt vor dem anderen erledigt wäre; es ist aber nicht unbedingt erforderlich[^2].
 
-# Funktionen von Abhängigkeiten
+## Funktionen von Abhängigkeiten
 
 Bei den Abhängigkeitsfunktionen unterscheidet man vier verschiedene Arten: 
 
@@ -37,11 +38,11 @@ Bei den Abhängigkeitsfunktionen unterscheidet man vier verschiedene Arten:
 * Start to Start (SS): Aufgabe 2 kann erst beginnen, wenn Aufgabe 1 begonnen wurde, aber Aufgabe 1 muss nicht abgeschlossen sein, bevor Aufgabe 2 beginnen kann.
 * Start to Finish (SF): Aufgabe 1 kann erst abgeschlossen werden, wenn Aufgabe 2 beginnt[^4][^2].
 
-## Vorgehensweisen des Abhängigkeitsmanagement
+# Vorgehensweisen des Abhängigkeitsmanagement
 
 Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines Projektes zu behalten und diese effektiv verwalten zu können, gibt es einige beispielhafte Vorgehensweisen:
 
-* Brainstorming (https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Brainstorming.md) zu Risiken und Herausforderungen
+* Brainstorming zu Risiken und Herausforderungen
 * Stakeholder-Engagement
 * Priorisierung
 * Kategorisierung
