@@ -56,7 +56,8 @@ Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet[^1
 10.	Gesonderte Bestimmung von nicht-monetär beschreibbaren Indikatoren
 11.	Entscheidung: Nach Berücksichtigung der monetären Kennzahlen sowie nicht-monetären Auswirkungen, 
                   Auswahl der Alternative mit dem besten Kosten-Nutzen-Verhältnis
-
+                  
+[Mögliche Modellierung einer Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse/Kosten-Nutzen-Analyse pic v2.jpeg)
 
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -68,15 +69,6 @@ Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4].
 
 Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
-Franconia dolor ipsum sit amet,baum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheifer
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
 
