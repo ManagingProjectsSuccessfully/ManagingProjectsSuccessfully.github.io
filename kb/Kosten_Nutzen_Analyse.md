@@ -42,6 +42,20 @@ Innerhalb dieses Rahmens erfolgt die eigentliche Analyse.
 
 Der detaillierte Ablauf der Analyse unterscheidet sich in manchen Quellen bezüglich Reihenfolge und Wortlaut. Im Grunde zielen jedoch alle auf dasselbe Ergebnis.
 
+Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet: 
+
+1.	Aufstellen des Zielsystems: Struktur des Zielsystems muss standfest sein, damit daraus wichtige mess- bzw. schätzbare Indikatoren herausgelesen werden können
+2.	Bestimmung von Indikatoren, mithilfe derer abgeleitet werden kann welche Wirkung die Ausführung einer Alternative hat.
+3.	Analyse der Rahmenbedingungen, ob und welche die Entscheidung verzerren können
+4.	Festlegung von Alternativen, sowie der [Nullalternative]( https://wiki.baw.de/de/index.php/Nullalternative)
+5.	Definition von möglichen Auswirkungen der Alternativen auf die Ziele
+6.	Monetäre Bewertung der möglichen Auswirkungen
+7.	Anwendung einer [Sensitivitätsanalyse]( https://www.bwl-lexikon.de/wiki/sensitivitaetsanalyse/) 
+8.	[Diskontierung]( https://www.compeon.de/glossar/diskontieren/#modal-1 ) aller Kosten und Nutzen auf einen gemeinsamen Stichtag
+9.	Vergleich der Nutzen und Kosten und Berechnung der erforderlichen Kennzahlen 
+10.	Gesonderte Bestimmung von nicht-monetär beschreibbaren Indikatoren
+11.	Entscheidung: Nach Berücksichtigung der monetären Kennzahlen sowie nicht-monetären Auswirkungen, 
+                  Auswahl der Alternative mit dem besten Kosten-Nutzen-Verhältnis
 
 
 
