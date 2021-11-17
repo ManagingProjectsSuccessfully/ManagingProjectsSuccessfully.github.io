@@ -42,7 +42,7 @@ Innerhalb dieses Rahmens erfolgt die eigentliche Analyse.
 
 Der detaillierte Ablauf der Analyse unterscheidet sich in manchen Quellen bezüglich Reihenfolge und Wortlaut. Im Grunde zielen jedoch alle auf dasselbe Ergebnis.
 
-Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet: 
+Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet[^1]: 
 
 1.	Aufstellen des Zielsystems: Struktur des Zielsystems muss standfest sein, damit daraus wichtige mess- bzw. schätzbare Indikatoren herausgelesen werden können
 2.	Bestimmung von Indikatoren, mithilfe derer abgeleitet werden kann welche Wirkung die Ausführung einer Alternative hat.
