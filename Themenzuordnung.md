@@ -163,7 +163,6 @@ author: anniSc
 | [Jour_Fixe](kb/Jour_Fixe.md)                                                                                                       | [MoritzBock](https://github.com/MoritzBock)                   |
 | [Projektplanung](kb/Projektplanung.md)                                                                                             | [MarleneMMeyer](https://github.com/MarleneMMeyer)             |
 | [Anforderungsmanagement](kb/Anforderungsmanagement.md)                                                                             | [Karina255](https://github.com/Karina255)                     |
-| [Mindset](kb/Mindset.md)                                                                                                           | [ebressel](https://github.com/ebressel)                       |
 | [Funktionale_Anforderungen](kb/Funktionale_Anforderungen.md)                                                                       | [LysanderBenke ](https://github.com/LysanderBenke )           |
 | [Nicht_Funktionale_Anforderungen](kb/Nicht_Funktionale_Anforderungen.md)                                                           | [seriousTake](https://github.com/seriousTake)                 |
 | [Project_Management_Office](kb/Project_Management_Office.md)                                                                       | [nicolasrmg](https://github.com/nicolasrmg)                   |
