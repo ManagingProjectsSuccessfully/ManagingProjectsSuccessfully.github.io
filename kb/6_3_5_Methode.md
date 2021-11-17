@@ -1,6 +1,6 @@
 ---
 title: 6_3_5_Methode
-tags: klassisch
+tags: Klassisch, Kreativitätstechnik, Brainwriting, Ideenfindung, Problemlösung
 author: nta01
 anrechnung: k 
 ---
@@ -42,7 +42,6 @@ Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
 
 * [Ideen_Marathon](Ideen_Marathon.md)
 * [Walt_Disney_Methode](Walt_Disney_Methode.md)
-* 
 
 # Weiterführende Literatur
 
