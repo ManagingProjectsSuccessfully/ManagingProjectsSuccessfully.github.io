@@ -65,4 +65,4 @@ Da es nicht pauschal eine richtige Lösung gibt, sollte man also für jedes Proj
 [^10]: [FLUGHAFEN BERLIN-BRANDENBURG (BER)](http://projekt-manager.eu/projektmanagement-BER.html)
 [^11]: https://rpma.de/mehrwert-durch-die-symbiose-von-traditionellem-und-agilem-projektmanagement/)
 [^12]: [Die 7 meistgenutzten Projektmanagement-Methoden im Vergleich](https://zenkit.com/de/blog/7-meistgenutzte-projektmanagement-methoden-im-vergleich/)
-[^13]: h[So geht Projektmanagement! Flughafen BER < > St.Gotthard-Tunnel](ttps://www.berlinerteam.de/magazin/so-geht-projektmanagement-flughafen-ber-st-gotthard-tunnel/)
+[^13]: [So geht Projektmanagement! Flughafen BER < > St.Gotthard-Tunnel](ttps://www.berlinerteam.de/magazin/so-geht-projektmanagement-flughafen-ber-st-gotthard-tunnel/)
