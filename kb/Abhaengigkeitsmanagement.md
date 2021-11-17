@@ -72,7 +72,7 @@ Mehr Informationen über Kanban in folgendem Artikel: https://github.com/Managin
 
 # Quellen
 
-[^1]: https://www.factro.de/blog/agiles-projektmanagement/
+[^1]: [factro](https://www.factro.de/blog/agiles-projektmanagement/)
 [^2]: https://www.planview.com/de/resources/guide/what-is-agile-program-management/agile-teams-dependency-management-visualization/
 [^3]: https://www.panaya.com/de/blog/modernes-alm/abhaengigkeits-management-abbildung/
 [^4]: https://www.planview.com/de/resources/guide/what-is-agile-program-management/agile-teams-dependency-management-visualization/
