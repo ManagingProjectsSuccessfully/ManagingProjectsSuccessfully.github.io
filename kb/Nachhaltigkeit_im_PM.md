@@ -24,22 +24,22 @@ Inhaltsverzeichnis
 5. Darstellung verschiedener Nachhaltigkeitskonzepte 
 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Begriffsherleitung
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Der englische Ausdruck Sustainability kann aus dem Lateinischen von den Wörtern "sustineo" und "habilitas" abgeleitet werden, welche
+die Bedeutung "erhalten, bewahren" und "Geschicklichkeit, Fähigkeit" besitzen. Zusammengesetzt kann Sustainability als Fähigkeit verstanden
+werden, etwas zu erhalten.[^3]
+ 
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+
+
+
+
+
+
+
+
+
 
 
 # Aspekt 1
@@ -104,6 +104,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: https://de.wikipedia.org/wiki/Nachhaltigkeit#Begriffsgeschichte
 [^2]: https://www.societybyte.swiss/2018/05/01/maiausgabe-nachhaltiges-projektmanagement/)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
