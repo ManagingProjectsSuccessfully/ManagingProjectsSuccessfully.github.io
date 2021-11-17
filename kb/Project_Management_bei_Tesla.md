@@ -14,7 +14,7 @@ Tesla ist ein US-Amerikanischer Konzern, der sich auf die Entwicklung und Fertig
 Neben dem Autombilgeschäft, vertreibt Tesla weitere Produkte, die den Übergang zu einer CO2 neutralen Mobilität und Energiegewinnung ermöglichen[^1]. 
 Gründer und CEO von Tesla ist der innovative und teils auch polarisierende Unternehmer [Elon Musk](https://de.wikipedia.org/wiki/Elon_Musk) [^2]
 
-![Tesla Image](Project_Management_bei_Tesla/Tesla2.png)
+![Tesla Image](Project_Management_bei_Tesla/Tesla2.png)[^1]
 
 | Tesla Inc.|[^1] |
 | ------------- | -------------          | 
@@ -36,7 +36,7 @@ Tesla ist eines der ersten Unternehmen, welches die agile Projektmanagementmetho
 Grundsätzlich wird Scrum bei der Entwicklung von Software eingesetzt, das produzierende Gewerbe hingegen bedient sich meist klassischer Projektmanagement-Methoden, wie zum Beispiel dem [Wasserfallmodell](https://de.wikipedia.org/wiki/Wasserfallmodell) [^5]. Grundsatz der agilen Methoden ist die Annahme, dass das Endprodukt einige Änderungen verglichen zum ursprünglich Geplanten aufweist [^5]. Im Softwarebereich ist dies oft weniger problematisch als bei der Produktion von tangiblen Gütern. Dennoch weist die agile Methode auch dort einige Vorteile auf. So kann das Unternehmen noch während der Produktion auf Kundenwünsche oder Marktbedürfnisse eingehen und ermöglicht sich so einen potentiellen Wettbewerbsvorteil [^5]. 
 Auf Tesla übertragen bedeutet dies, das Tesla flexibel auf Änderungen reagieren kann. Die [Gigafactorys](https://www.tesla.com/de_de/giga-berlin) des Unternehmens sind so aufgestellt, dass Änderungen im laufenden  Produktionsprozess, durch Re-Programmierung einzelner Teilbereiche, durchgeführt werden können. Wenn das Scrum-Team, welches für den Bau und die Entwicklung der Türen zuständig ist, beispielsweise leichtere, sicherere und günstigere Türen entwickelt hat, können diese unproblematisch in den bestehenden Fertigungsprozess eingebunden werden [^3].  
 
-![Scrum in der Automobilfertigung](Project_Management_bei_Tesla/scrum-car.jpg)
+![Scrum in der Automobilfertigung](Project_Management_bei_Tesla/scrum-car.jpg)[^3]
 
 
 *Beispielhafter Aufbau einer Scrum-Implementierung im Fahrzeugbau. 
