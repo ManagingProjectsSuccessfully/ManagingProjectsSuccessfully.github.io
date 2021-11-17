@@ -5,7 +5,7 @@ author: FerdinandMerbecks
 anrechnung: (k)
 ---
 
-Das Berichtswesen, auch als [Reporting] (Reporting.md)bekannt, setzt sich zusammen aus der Sammlung, Aufbereitung und der Verteilung von Informationen, über einen Betrieb oder 
+Das Berichtswesen, auch als [Reporting](Reporting.md) bekannt, setzt sich zusammen aus der Sammlung, Aufbereitung und der Verteilung von Informationen, über einen Betrieb oder 
 beispielweise ein [Projekt](Projekt.md), an die Stakeholder[^1].
 Im Allgemeinen kann man sich unter dem Berichtswesen alle Anstrengungen einer Unternehmung vorstellen, die zur Erreichung, Verteilung und Sicherung von 
 Projektinformationen, in Form von Berichten, angestellt werden[^2]. Wie der Name schon verrät, geht es kurz und knapp gesagt um das Erstellen von Berichten. 
