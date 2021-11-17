@@ -12,7 +12,7 @@ Im [Projektmanagement](Projektmangement.md) hat der [Projektleiter](Faehigkeiten
 
 ## Definition
 
-Die Kosten-Nutzen-Analyse ist eine Wirtschaftlichkeitsuntersuchung, d.h. sie bewertet den prognostizierten, monetären Aufwand aller anfallenden Kosten und entstehendem Nutzen. Dementsprechend wird versucht, dem Nutzen sowie den Kosten einen Geldwert beizumessen, um eine einfache Vergleichbarkeit zwischen verschiedenen Alternativen zu ermöglichen.[^2]
+Die Kosten-Nutzen-Analyse ist eine Wirtschaftlichkeitsuntersuchung, d.h. sie bewertet den prognostizierten, monetären Aufwand aller anfallenden Kosten und entstehendem Nutzen. Dementsprechend wird versucht, dem Nutzen sowie den Kosten einen [Geldwert](https://de.wikipedia.org/wiki/Geldwert) beizumessen, um eine einfache Vergleichbarkeit zwischen verschiedenen Alternativen zu ermöglichen.[^2]
 
 Die Ergebnisse der Analyse tragen maßgeblich zu richtungsweisenden Entscheidungen bezüglich z.B. der [Projektplanung](Projektplanung.md) oder -budgetierung bei. 
 
