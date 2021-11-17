@@ -7,7 +7,7 @@ anrechnung: a
 
 Die Retrospective ist ein wiederkehrendes Meeting aus dem agilen Management. Dieses findet am Ende jeder [Iteration](https://de.wiktionary.org/wiki/Iteration) statt. Es wird kritisch reflektiert wie der vorgehende Sprint gelaufen ist. [^1]
 
-![Abbildung](6_3_5_Methode/Bild1.png)
+![Abbildung](Retrospective/Bild1.png)
 
 *Retrospective*[^3]
 
