@@ -5,100 +5,84 @@ author: nta01
 anrechnung: a
 ---
 
-Kurzbeschreibung zu Retrospective um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Retrospective ist ein wiederkehrendes Meeting aus dem agilen Management. Dieses findet am Ende jeder [Iteration](https://de.wiktionary.org/wiki/Iteration) statt. Es wird kritisch reflektiert wie der vorgehende Sprint gelaufen ist. [^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![Abbildung](6_3_5_Methode/Bild1.png)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+*Retrospective*[^3]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Einführung
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Die Methode ist dem  sehr ähnlich. Es können bei dieser in wenigen Minuten bis zu 108 Ideen gesammelt werden. Eine mündliche Absprache gibt es während des Ablaufes nicht.[^2]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Vorgehen
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+## Ablauf
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die 3_6_5_Methode läuft wie folgt ab:
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Retrospective/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
+| x   | x | 
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| x  | y  |
+| x | y |
+| .  | x|
+| x x|  x |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+*Abbildung: Vorgehen bei der 6_3_5_Methode*[^3]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## Bewertung und Verarbeitung
 
-### Ebene-3-Überschrift
+Im Anschluss werden die Ergebnisse analysiert. Es können Ideen kombiniert oder erweitert werden. Offene Fragen können geklärt werden. 
+Alternativ kann der Initiator des Termins die Ergebnisse auch allein auswerten und in einem Folgetermin präsentieren und diskutieren. [^6]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Bei einer gemeinsamen Analyse im Team gibt es die Möglichkeit die Vordrucke noch einmal im Uhrzeigersinn durchzureichen. Jede Person setzt je Zettel ein Kreuz bei der persönlich als am besten bewerteten Idee. Der Initiator kann so die Priorisierung feststellen und diese vorstellen.[^7]
 
-# Aspekt n
+# Vor- und Nachteile der 6_3_5_Methode
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## Vorteile
 
+Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
+
+* Vermeidung von Spannungen im Team während der Ideenfindung
+* Alle Teilnehmer*innen werden gleichermaßen aktiv, somit bringt sich jeder ein und die Lösungsvorschläge können sehr vielfältig sein
+* Kreativitätssteigerung durch einen Aufbau auf bereits genannte Ideen möglich
+* Größere Gruppe können in kleine Sechser-Gruppen aufgeteilt werden, die Methode ist somit auch für große Teams anwendbar
+* Die Ideen werden von der Person getrennt, die objektive Bewertung wird sichergestellt
+* Mittels virtuellen Vordruckes auch digital möglich 
+
+## Nachteile
+
+Schwächen der 6_3_5_Methode sind die Folgenden[^6]:
+
+* Doppelungen sind nicht ausgeschlossen (Können jedoch gegebenenfalls für die Gewichtung der Ideen herangezogen werden)
+* Rücksprache bei Verständnisproblemen bezüglich der Ideen während des Ablaufs der Methode nicht vorgesehen
+* Bei Aufteilung in Kleingruppen sollten alle Untergruppen gleichgroß sein
+
+# Außerdem wissenswert
+
+Die Methode wurde erstmals 1969 vom Unternehmensberater Bernd Rohrbach erwähnt.[^6]
+
+Die 3_6_5_Methode ist eine kreativ-intuitive Methoden und basiert auf Assoziation. Assoziation beschreibt automatische Denkvorgänge.
+Spontanität und Leichtigkeit sind von Bedeutung, die Ergebnisse müssen nicht von Anfang an perfekt sein.[^5]
+
+Die Zeit pro Runde wird vorab festgelegt. Hierbei wird meistens ein Zeitraum von zwei bis fünf Minuten empfohlen.[^2][^5]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Retrospective.md)
+* [Ideen_Marathon](Ideen_Marathon.md)
+* [Walt_Disney_Methode](Walt_Disney_Methode.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Christian Schawel, Fabian Billing (2009): "Top 100 Management Tools"
+* Joachim H. Becker, Helmut Ebert, Sven Pastoors (2018): "Praxishandbuch berufliche Schlüsselkompetenzen"
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.easyagile.com/blog/retrospectives/
+[^2]: https://luis-goncalves.com/de/agile-retrospektiven/
+[^3]: https://itadvisory.dk/wp-content/uploads/2018/11/retrospective-starfish-with-post-its.png
+
+
+bsp [Joachim H. Becker, Helmut Ebert, Sven Pastoors (2018): "Praxishandbuch berufliche Schlüsselkompetenzen"](https://link.springer.com/content/pdf/10.1007%2F978-3-662-54925-4_11.pdf)
 
