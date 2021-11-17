@@ -32,32 +32,28 @@ Diskretionäre Abhängigkeiten orientieren sich dagegen an der weichen Logik. Hi
 
 Bei den Abhängigkeitsfunktionen unterscheidet man vier verschiedene Arten: 
 
-* Finish to Start (FS): Aufgabe 2 kann erst beginnen, wenn Aufgabe 1 abgeschlossen ist. Dieser Abhängigkeitstyp liegt am häufigsten vor. 
+* Finish to Start (FS): Aufgabe 2 kann erst beginnen, wenn Aufgabe 1 abgeschlossen ist.  
 * Finish to Finish (FF): Aufgabe 2 kann erst abgeschlossen werden, wenn Aufgabe 1 abgeschlossen ist. Aufgaben mit Start-to-Start-Abhängigkeit können auch eine    Finish-to-Finish-Abhängigkeit haben.
 * Start to Start (SS): Aufgabe 2 kann erst beginnen, wenn Aufgabe 1 begonnen wurde, aber Aufgabe 1 muss nicht abgeschlossen sein, bevor Aufgabe 2 beginnen kann.
-* Start to Finish (SF): Aufgabe 1 kann erst abgeschlossen werden, wenn Aufgabe 2 beginnt. Dieser Abhängigkeitstyp kommt jedoch am seltensten vor[^4][^2].
+* Start to Finish (SF): Aufgabe 1 kann erst abgeschlossen werden, wenn Aufgabe 2 beginnt[^4][^2].
 
-# Vorgehensweisen des Abhängigkeitsmanagement
+## Vorgehensweisen des Abhängigkeitsmanagement
 
 Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines Projektes zu behalten und diese effektiv verwalten zu können, gibt es einige beispielhafte Vorgehensweisen:
 
-* Brainstorming 
+* Brainstorming (https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Brainstorming.md) zu Risiken und Herausforderungen
 * Stakeholder-Engagement
-* [Brainstorming](https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Brainstorming.md) zu Risiken und Herausforderungen
 * Priorisierung
 * Kategorisierung
 * Kommunikation mit dem Projektteam[^4].
 
-
 ![image](https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Abhaengigkeitsmanagement/Kanban_board_timelines.png)
-
 
 # Strukturieren von Abhängigkeiten
 
 „Failing to plan is planning to fail“
 
-Eine Möglichkeit für agile Teams, das Scheitern eines Projektes aufgrund von Fehlplanung zu vermeiden, ist die Koordination des Projektes mit Hilfe eines [Kanban-Boards](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban_Boards.md). Dieses ermöglicht es, einen Überblick über alle Aufgaben zu behalten indem man Aufgabenkarten erstellt, die auf dem Board strategisch angeordnet werden. So kann man verwandte Arbeiten auf demselben Board festhalten oder Aufgaben über mehrere Boards verteilt visualisieren. Außerdem kann man Beziehungen zwischen Aufgaben besser darstellen und nachvollziehen, indem man die Karten miteinander verknüpft. Auch sind Kanban-Boards vorteilhaft um Deadlines zu setzen und den Aufgabenstatus einzusehen. So kann man Kategorien wie begonnen, nicht begonnen oder beendet einführen und die Aufgabenkarten dementsprechend zuordnen. Insgesamt eignet sich die Methode [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) also sehr gut um Abhängigkeiten innerhalb eines Projektes darzustellen und im Blick zu halten[^5][^2].(Beispielhafte Visualisierung siehe Abb. 1[^5])
-
+Eine Möglichkeit für agile Teams, das Scheitern eines Projektes aufgrund von Fehlplanung zu vermeiden, ist die Koordination des Projektes mit Hilfe eines [Kanban-Boards](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban_Boards.md). Dieses ermöglicht es, einen Überblick über alle Aufgaben zu behalten indem man Aufgabenkarten erstellt, die auf dem Board strategisch angeordnet werden. So kann man verwandte Arbeiten auf demselben Board festhalten oder Aufgaben über mehrere Boards verteilt visualisieren. Außerdem kann man Beziehungen zwischen Aufgaben besser darstellen und nachvollziehen, indem man die Karten miteinander verknüpft. Auch sind Kanban-Boards vorteilhaft um Deadlines zu setzen und den jeweiligen Aufgabenstatus einzusehen. So kann man Kategorien wie "begonnen", "nicht begonnen" oder "beendet" einführen und die Aufgabenkarten dementsprechend anordnen. Insgesamt eignet sich die Methode [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) also sehr gut um Abhängigkeiten innerhalb eines Projektes darzustellen und im Blick zu halten[^5][^2].(Beispielhafte Visualisierung siehe Abb. 1[^5])
 
 # Siehe auch
 
