@@ -9,21 +9,18 @@ anrechnung: k oder a
 
 # Das Unternehmen Tesla 
 
-<img style="float: right; margin-left: 10px" src="Project_Management_bei_Tesla/Tesla.jpg" width="180" height="232" align="right">
 
-Tesla ist ein US-Amerikanischer Konzern, der sich auf die Entwicklung <br/> und Fertigung von Elektroautos spezialisiert hat. 
-Neben dem Autombilgeschäft, vertreibt Tesla weitere Produkte, die den Übergang zu einer CO2 neutralen Mobilität und Energiegewinnung ermöglichen[^1]. <br/>
+Tesla ist ein US-Amerikanischer Konzern, der sich auf die Entwicklung und Fertigung von Elektroautos spezialisiert hat. 
+Neben dem Autombilgeschäft, vertreibt Tesla weitere Produkte, die den Übergang zu einer CO2 neutralen Mobilität und Energiegewinnung ermöglichen[^1]. 
 Gründer und CEO von Tesla ist der innovative und teils auch polarisierende Unternehmer [Elon Musk](https://de.wikipedia.org/wiki/Elon_Musk) [^2]
-<br/>
-<br/>
-<table> 
-  <tbody>
-    <tr> <td> <b>Gründung<b> </td> <td> 1. Juli 2003 </td> 
-    <tr> <td> <b>CEO<b> </td> <td> Elon Musk </td> 
-    <tr> <td> <b>Hauptsitz<b> </td> <td> Palo Alto, Kalifornien </td>
-  </body>
-</table>
 
+![Tesla Image](Project_Management_bei_Tesla/Tesla2.png)
+
+| Tesla Inc.|[^1] |
+| ------------- | -------------          | 
+| **Gründung**      | 1. Juli 2003           |
+| **CEO**           | Elon Musk              |
+| **Hauptsitz**     | Palo Alto, Kalifornien |
 
 
 # Agiles Projektmanagement bei Tesla 
@@ -39,19 +36,14 @@ Tesla ist eines der ersten Unternehmen, welches die agile Projektmanagementmetho
 Grundsätzlich wird Scrum bei der Entwicklung von Software eingesetzt, das produzierende Gewerbe hingegen bedient sich meist klassischer Projektmanagement-Methoden, wie zum Beispiel dem [Wasserfallmodell](https://de.wikipedia.org/wiki/Wasserfallmodell) [^5]. Grundsatz der agilen Methoden ist die Annahme, dass das Endprodukt einige Änderungen verglichen zum ursprünglich Geplanten aufweist [^5]. Im Softwarebereich ist dies oft weniger problematisch als bei der Produktion von tangiblen Gütern. Dennoch weist die agile Methode auch dort einige Vorteile auf. So kann das Unternehmen noch während der Produktion auf Kundenwünsche oder Marktbedürfnisse eingehen und ermöglicht sich so einen potentiellen Wettbewerbsvorteil [^5]. 
 Auf Tesla übertragen bedeutet dies, das Tesla flexibel auf Änderungen reagieren kann. Die [Gigafactorys](https://www.tesla.com/de_de/giga-berlin) des Unternehmens sind so aufgestellt, dass Änderungen im laufenden  Produktionsprozess, durch Re-Programmierung einzelner Teilbereiche, durchgeführt werden können. Wenn das Scrum-Team, welches für den Bau und die Entwicklung der Türen zuständig ist, beispielsweise leichtere, sicherere und günstigere Türen entwickelt hat, können diese unproblematisch in den bestehenden Fertigungsprozess eingebunden werden [^3].  
 
+![Scrum in der Automobilfertigung](Project_Management_bei_Tesla/scrum-car.jpg)
 
-<img style="float: left; margin-left: 100px" src="Project_Management_bei_Tesla/scrum-car.jpg" width="450" height="220" align="left">
-<br/>
-<br/>
-<br/>
-<em> Beispielhafter Aufbau einer Scrum-Implementierung im Fahrzeugbau. <br/>
-    Zu sehen sind die einzelnen Scrum-Teams, eingeteilt in die verschiedenen Bauteile eines Fahrzeugs </em>[^3]. 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>   
 
+*Beispielhafter Aufbau einer Scrum-Implementierung im Fahrzeugbau. 
+    Zu sehen sind die einzelnen Scrum-Teams, eingeteilt in die verschiedenen Bauteile eines Fahrzeugs[^3].*
+ 
+
+      
 
 ## Nachteile agiler Methoden in der Automobilbranche 
 
@@ -60,9 +52,9 @@ Ein Nachteil dieses Arbeitsansatzes besteht darin, dass das Produkt im Beta-Zust
 
 # Quellen
 
-[^1]: [Wikipedia; <em>Tesla Inc.</em>](https://de.wikipedia.org/wiki/Tesla,_Inc.)
-[^2]: [FAZ; <em>Elon Musk</em>](https://www.faz.net/aktuell/wirtschaft/thema/elon-musk)
-[^3]: [Field K.; <em>Tesla Has Applied Agile Software Development To Automotive Manufacturing</em>; 2018; CleanTechnica](https://cleantechnica.com/2018/09/01/tesla-has-applied-agile-software-development-to-automotive-manufacturing/)
-[^4]: [Hebermehl G.; <em>Umbenennung Teil der Modellpflege</em>; 2021; auto-motor-sport](https://www.auto-motor-und-sport.de/elektroauto/tesla-model-3-mit-neuer-batterie-umbenennung-modellpflege/)
-[^5]: [Abrudan, C. I., Baru, P. E., & Lungu, R. (2019). <em>Applying Scrum Methodology into the Production Processes of a Logistic Equipment Producer</em>; International Journal of Current Science Research and Review](https://ijcsrr.org/wp-content/uploads/2020/01/1-7.pdf)
+[^1]: [Wikipedia; *Tesla Inc.*](https://de.wikipedia.org/wiki/Tesla,_Inc.)
+[^2]: [FAZ; *Elon Musk*](https://www.faz.net/aktuell/wirtschaft/thema/elon-musk)
+[^3]: [Field K.; *Tesla Has Applied Agile Software Development To Automotive Manufacturing*; 2018; CleanTechnica](https://cleantechnica.com/2018/09/01/tesla-has-applied-agile-software-development-to-automotive-manufacturing/)
+[^4]: [Hebermehl G.; *Umbenennung Teil der Modellpflege*; 2021; auto-motor-sport](https://www.auto-motor-und-sport.de/elektroauto/tesla-model-3-mit-neuer-batterie-umbenennung-modellpflege/)
+[^5]: [Abrudan, C. I., Baru, P. E., & Lungu, R. (2019). *Applying Scrum Methodology into the Production Processes of a Logistic Equipment Producer*; International Journal of Current Science Research and Review](https://ijcsrr.org/wp-content/uploads/2020/01/1-7.pdf)
 
