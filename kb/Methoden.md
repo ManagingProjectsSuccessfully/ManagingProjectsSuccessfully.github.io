@@ -23,21 +23,16 @@ Sie stellen ein mögliches Vorgehen dar, welches durch seine Dokumentierbarkeit 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
 Literatur kann via Fußnoten angegeben werden[^111]. Es gibt auch das PMBOK[^222].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^333] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^444].
-
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
 überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
 Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
 Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
 [Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Scheiferla Nemberch nä Bledzla Affnhidz.
 
 
 # Methoden der Projektplanung
@@ -51,6 +46,11 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 ![Beispielabbildung](Methoden/test-file.jpg)
 
 *lustiges Testbild*
+
+## Projektstrukturplan
+Der Projektstrukturplan wird nach dem Prinzip "Teile und Herrsche" erstellt. Ein Problem wird demnach in mehrere kleinere Probleme zerlegt um diese einzeln zu lösen und die Lösungen zu einer Lösung für das Gesamtproblem zusammenzusetzen.[^6] S.8
+Der Projektstrukturplan stellt einen möglichen Aufbau bereit, an dem die Projektstruktur orientiert werden kann.[^6] S.9
+
 
 ## Kreativitätsmethoden
 
@@ -139,9 +139,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [Projektmanagementmethode](https://de.wikipedia.org/wiki/Projektmanagementmethode)
 [^2]: [Kreativitätstechniken: 7 Methoden für neue Ideen](https://www.einstein1.net/kreativitaetstechniken/)
-[^3]: [Handbuch Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Kuster2011_Book_HandbuchProjektmanagement.pdf)
+[^3]: [Handbuch Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Handbuch%20Projektmanagement.pdf)
 [^4]: [Projektmanagement mit System: Organisation, Methoden, Steuerung](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Kraus-Westermann2019_Book_ProjektmanagementMitSystem.pdf)
 [^5]: [Systemische Werkzeuge für erf. Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Systemische%20Werkzeuge%20f%C3%BCr%20erf.%20Projektmanagement.pdf)
+[^6]: [SAP® ERP – Praxishandbuch Projektmanagement] (file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/SAP%C2%AE%20ERP%20%E2%80%93%20Praxishandbuch%20Projektmanagement.pdf)
+
 
 
 
