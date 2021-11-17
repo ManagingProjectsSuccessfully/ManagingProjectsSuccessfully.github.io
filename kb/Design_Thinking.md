@@ -17,15 +17,14 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
   [Tim Brown, Executive Chair: IDEO](https://designthinking.ideo.com/)
 
-Design Thinking ist ein menschen-zentrierter Ansatz (Human-Centered Approach) für die Generierung von Lösungen und Innovationen, wobei es sowohl ein Denkansatz als auch ein Prozess-Modell ist. Das Design Thinking unterstützt bei der kreativen Betrachtung einer weiten Bandbreite an innovativen Lösungsmöglichkeiten. In der Praxis in Bezug auf Unternehmen heißt, dass das Design Thinking hilft Unternehmen dabei, die wahren Bedürfnisse und Wünsche ihrer Kunden zu bestimmen. 
-
+Design Thinking ist ein menschen-zentrierter Ansatz (Human-Centered Approach) für die Generierung von Lösungen und Innovationen, wobei es sowohl ein Denkansatz als auch ein Prozess-Modell ist. Das Design Thinking unterstützt bei der kreativen Betrachtung einer weiten Bandbreite an innovativen Lösungsmöglichkeiten. In der Praxis 
+in Bezug auf Unternehmen heißt, dass das Design Thinking hilft Unternehmen dabei, die wahren Bedürfnisse und Wünsche ihrer Kunden zu bestimmen.
 
 ## Prozess Modell 
 
 Es existieren mehrere Vorgehensmodelle mit einer unterschiedlichen Anzahl an Schritten für den Prozess des Design Thinkings, im Folgenden wird eines der Standartmodelle nach dem Hasso-Plattner-Institut beschrieben. 
 
 Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6  Phasen: Verstehen, Beobachten/Empathie, Sichtweise definieren, Ideen generieren, Prototypen, Testen. Der Prozess ist non-linear und iterativ.
-
 ![Beispielabbildung](Design_Thinking/design_Thinking_Bild1.png)
 *6 Schritte des Design Thinkings*[^1]
 
@@ -33,7 +32,7 @@ Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6  Phas
 Im ersten Schritt wird die Ausgangssituation definiert und sichergestellt, dass alle beteiligten Personen sich auf demselben Wissensstand befinden. Mögliche Standardfragen mit denen Probleme definiert werden können sind: Was soll neu entwickelt werden? Für wen soll die Entwicklung relevant sein? Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? Welcher Endzustand soll durch die Lösung erreicht werden?[^2]
 
 ### Phase2: Beobachten
-Im Schritt des Beobachten geht es 
+Im Schritt des Beobachten geht es darum, die Ziele, die Bedürfnisse sowie die Proritäten der Kunden zuanalysieren und zuverstehen. Wichtig ist es hierbei den Kunden reden zulassen und genau zuzuhören, um Missverständnisse zu vermeiden. 
 
 
 ### Phase3: Sichtweisen definieren 
@@ -43,7 +42,7 @@ In diesem Schritt erfolgt die Sythese der ersten beiden Schritte. Das Ziel hierb
 In der vierten Phase werden mit Hilfe von kreativitäts Techniken, wie z.B Brainstorming, Mindmapping, Kopfstandtechnik und 6_3_5 Methode Ideen gesammelt. Die ideen können dabei auch sehr abstrakt und ausgefallen sein. Die Ergebnisse werden dann nach der Effizeinz, der Machbarkeit und Wirtschaftlichkeit bewertet und sortiert.  Es werden dann mit Hilfe dieser Priorisierung Ideen ausgewählt mit denen weitergearbeitet werden soll.
 
 ### Phase5: Prototypen entwickeln 
-In dieser Phase werden für die generierten Ideen Prototypen gebaut, damit die ausgedachte Konstrukte anschaulicher werden.  
+In dieser Phase werden für die ausgewählten Ideen Prototypen gebaut, damit die ausgedachte Konstrukte anschaulicher werden und Annahmen getestet werden können. Es ist dabei nicht wichtig, ob die Prototypen perfekt sind. Am Anfang ist es wichtiger die Sache so einfach wie möglich anzugehen und möglichst kreativ vorzugehen. 
 Techniken die bei dem erstellen der Prototypn zum Einsatz kommen sind: 
 
 
