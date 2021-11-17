@@ -74,7 +74,7 @@ Problemanalyse dar. [^4]
 
 ![Beispielabbildung](Hemmnisanalyse/Bild Hemmnisanalyse.png)
 
-*lustiges Testbild*
+*Testbild*
 
 
 ## Fazit
