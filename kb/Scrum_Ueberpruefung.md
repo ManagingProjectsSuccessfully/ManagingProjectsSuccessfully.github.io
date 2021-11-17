@@ -57,7 +57,7 @@ Die Inspektionen müssen in einer Weise stattfinden, dass auch sie einen Mehrwer
 [^3]: https://verovis.com/wp-content/uploads/2020/03/cxam42-k6a-igq-i-c36r7ajrc-lshxbkdonpal2fnynh3ntx4pbuy5w2qx.png
 [^4]: https://www.mitsm.de/wissen/scrum-wissen/die-scrum-artefakte/
 [^5]: https://ichi.pro/de/die-drei-saulen-von-scrum-244737980376938
-[^6]: https://www.der-scrum-master.com/der-scrum-leitfaden/transparenz-der-artefakte#scrum-theorie-anpassung-adaption 
+[^6]: https://www.der-scrum-master.com/der-scrum-leitfaden/transparenz-der-artefakte#scrum-theorie-anpassung-adaption  
 
 
 
