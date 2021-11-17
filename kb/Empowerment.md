@@ -29,7 +29,7 @@ Damit die [Mitarbeiter](Projektmitarbeiter.md) eines [Projektes](Projekt.md) nic
 
 ## [Mitarbeiter](Projektmitarbeiter.md)motivation
 
-Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad stärken erwiesenermaßen die intrinsische [Mitarbeiter](Projektmitarbeiter.md)motivation[^2][^5]. Dies hat wiederum positive Auswirkungen auf die Qualifizierung der [Mitarbeiter](Projektmitarbeiter.md), da diese motivierter sind sich persönlich weiterzubilden und sich selbst zu verwirklichen[^5].
+Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad stärken erwiesenermaßen die intrinsische [Mitarbeiter](Projektmitarbeiter.md)motivation[^2][^5]. Dies hat wiederum positive Auswirkungen auf die Qualifizierung der [Mitarbeiter](Projektmitarbeiter.md), da diese motivierter sind, sich persönlich weiterzubilden und sich selbst zu verwirklichen[^5].
 
 ## Reaktionsfähigkeit
 
