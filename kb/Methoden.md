@@ -6,9 +6,10 @@ anrechnung: k oder a
 ---
 
 Kurzbeschreibung zu Methoden um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
+
+
 
 Die Planung und Bearbeitung von Projekten erfordert einiges an Arbeit. Um diese konstruktiv zu gestalten, haben sich Methoden bezüglich der Heransgehensweise und Durchführung von Projekten entwickelt sowie Methoden zur Ideenfindung.
 
@@ -16,36 +17,15 @@ Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards 
 
 Kreativitätsmethoden dienen im Bezug auf Projektmanagement dazu, innovative Ideen zu sammeln.
 
-
 Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen. Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]S.316
 Methoden geben Projekten Transparenz und Struktur.[^4]S.43
 Sie stellen ein mögliches Vorgehen dar, welches durch seine Dokumentierbarkeit ebenso nachvollziebar und korrigierbar ist. Außerdem wird das Vorgehen durch Methoden besser vertändlich und einzelne Schritte können einfacher kommuniziert werden.[^4]S.44
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Literatur kann via Fußnoten angegeben werden[^111]. Es gibt auch das PMBOK[^222].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^333] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^444].
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz.
 
 
 # Methoden der Projektplanung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Methoden/test-file.jpg)
-
-*lustiges Testbild*
 
 ## Projektstrukturplan
 Der Projektstrukturplan wird nach dem Prinzip "Teile und Herrsche" erstellt. Ein Problem wird demnach in mehrere kleinere Probleme zerlegt um diese einzeln zu lösen und die Lösungen zu einer Lösung für das Gesamtproblem zusammenzusetzen.[^6] S.8
@@ -63,10 +43,6 @@ Besonders bekannt:
 * Morphologischer Kasten
 * Walt Disney Methode[^2]
  
- 
-* das ist eine Punkteliste
-  - mit Unterpunkt
-
 
 # Methoden der Projektrealisierung
 
@@ -81,7 +57,39 @@ Besonders bekannt:
 # Methoden des Projektabschlusses
 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+
+
+
+
+## Ebene-2-Überschrift
+
+### Ebene-3-Überschrift
+
+Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
+Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+
+Aspekte zu Themen können ganz unterschiedlich sein:
+* Verschiedene Teile eines Themas 
+* Historische Entwicklung
+* Kritik 
+![Beispielabbildung](Methoden/test-file.jpg)
+*lustiges Testbild*
+
+
+* das 
+* ist 
+* eine 
+* Punkteliste
+  - mit Unterpunkt
+
+
+1. das
+2. hier 
+4. ist 
+4. eine
+7. nummerierte liste
+   1. und hier eine Ebene tiefer
+
 
 So kann man eine Tabelle erstellen:
 
@@ -90,18 +98,20 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+Beispieltext:
+Literatur kann via Fußnoten angegeben werden[^111]. Es gibt auch das PMBOK[^222].
+Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^333] nachsehen. 
+Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^444].
+Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
+Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
+überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
+Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
+Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
+[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
+Scheiferla Nemberch nä Bledzla Affnhidz.
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
