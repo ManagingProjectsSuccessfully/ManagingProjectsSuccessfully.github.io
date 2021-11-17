@@ -15,11 +15,11 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 Inhaltsverzeichnis
 
-- Begriffsherleitung
-- Gründe für Nachhaltigkeit im Unternehmen
-- Methoden und Techniken von Nachhaltigkeit im Projektmanagement
-- Auswirkungen von Nachhaltigkeit im Projektmanagement
-- Darstellung verschiedener Nachhaltigkeitskonzepte 
+1. Begriffsherleitung
+2. Gründe für Nachhaltigkeit im Unternehmen
+3. Methoden und Techniken von Nachhaltigkeit im Projektmanagement
+4. Auswirkungen von Nachhaltigkeit im Projektmanagement
+5. Darstellung verschiedener Nachhaltigkeitskonzepte 
 
 
 Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
