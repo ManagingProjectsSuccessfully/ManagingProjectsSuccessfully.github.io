@@ -22,7 +22,8 @@ Die 3_6_5_Methode läuft wie folgt ab:
 | Schritt   | Erläuterung | 
 | ------------- | ------------- |
 | Einführung  | Erklärung der Methode für die Teilnehmer*innen, Definition der Problemstellung  |
-| 1. Runde  | Zwei bis fünf Minuten Zeitraum für drei Ideen; Dieses sollen knapp und verständlich auf einem Vordruck aufgeschrieben werden  |
+| 1. Runde  | Zwei bis fünf Minuten Zeitraum für drei Ideen; 
+Dieses sollen knapp und verständlich auf einem Vordruck aufgeschrieben werden  |
 | 2. Runde  | Ebenfalls zwei bis fünf Minuten Zeitraum; Der Vordruck wird im Uhrzeigersinn weitergegeben; Die Ideen dürfen modifiziert, erweitert oder ergänzt werden|
 | Folgende Runden| Vorgehen wie in der zweiten Runde; Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können |
 
