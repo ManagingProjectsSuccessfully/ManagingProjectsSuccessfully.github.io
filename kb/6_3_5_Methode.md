@@ -22,13 +22,15 @@ Die 3_6_5 Methode läuft wie folgt ab:
 | Schritt   | Erläuterung | 
 | ------------- | ------------- |
 | Einführung  | Erklärung der Methode für die Teilnehmer*innen, Definition der Problemstellung  |
-| 1. Runde  | 5 Minuten Zeit für 3 Ideen; Dieses sollen knapp und verständlich auf dem Vordruck aufgeschrieben werden  |
-| 2. Runde  | 5 Minuten Zeit; Der Vordruck wird im Uhrzeigersinn weitergegeben; Ideen dürfen modifiziert, erweitert oder ergänzt werden|
+| 1. Runde  | 2-5 Minuten Zeit für 3 Ideen; Dieses sollen knapp und verständlich auf dem Vordruck aufgeschrieben werden  |
+| 2. Runde  | Ebenfalls 2-5 Minuten Zeit; Der Vordruck wird im Uhrzeigersinn weitergegeben; Die Ideen dürfen modifiziert, erweitert oder ergänzt werden|
 | Folgende Runden| Vorgehen wie in der 2. Runde; Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können |
 
 *Abbildung: Vorgehen bei der 6_3_5-Methode*[^2]
 
-# Besonderheiten der 6_3_5-Methode
+# Vor- und Nachteile der 6_3_5-Methode
+
+## Vorteile
 
 Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
 
@@ -37,6 +39,21 @@ Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
 * Kreativitätssteigerung durch Aufbau auf bereits geschriebene Ideen möglich
 * Größere Gruppe können in kleine 6er-Gruppen aufgeteilt werden, die Methode ist auch für große Teams anwendbar
 * Ideen werden von der Person getrennt, die objektive Bewertung wird sichergestellt
+
+## Nachteile
+
+Schwächen der 6_3_5-Methode sind die Folgenden[^6]:
+
+* Doppelungen nicht ausgeschlossen (Kann jedoch gegebenenfalls für die Gewichtung herangezogen werden)
+* Rücksprache bei Verständnisproblemen die die Ideen betreffen während der Methode nicht möglich
+
+# Außerdem wissenswert
+
+Die 3_6_5-Methode ist eine kreativ-intuitive Methoden und basiert auf Assoziation. Assoziation beschreibt automatische Denkvorgänge. Spontanität und Leichtigkeit sind von Bedeutung, die Ergebnisse müssen nicht von Anfang an perfekt sein.[^5]
+
+Die Zeit pro Runde wird vorab festglegt. Hierbei wird meistens ein Zeitraum von zwei bis fünf Minuten empfohlen.[^2][^5]
+
+Die Methode wurde erstmals 1969 vom Unternehmensberater Bernd Rohrbach erwähnt.[^6]
 
 # Siehe auch
 
@@ -55,3 +72,4 @@ Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
 [^3]: https://image.jimcdn.com/app/cms/image/transf/none/path/s5acfc1d9f29c1cb7/image/i8720fe90f8a0a609/version/1550965221/image.png
 [^4]: https://denkmotor.com/kreatives-wissen/brainwriting-6-3-5-methode/
 [^5]: [Joachim H. Becker, Helmut Ebert, Sven Pastoors (2018): "Praxishandbuch berufliche Schlüsselkompetenzen"]https://link.springer.com/content/pdf/10.1007%2F978-3-662-54925-4_11.pdf
+[^6]: https://www.hs-osnabrueck.de/fileadmin/HSOS/Homepages/LearningCenter/Dateien/Toolbox/Dokumente_mit_neuer_Bezeichnung/635-Methode_zur_Veranstaltungsevaluation.pdf
