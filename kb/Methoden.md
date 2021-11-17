@@ -55,31 +55,6 @@ Typische Methoden: Stakeholderanalyse, Risikoanalyse, Business Case, ABC-Analyse
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Projektstrukturplan
-Der Projektstrukturplan wird nach dem Prinzip "Teile und Herrsche" erstellt. Ein Problem wird demnach in mehrere kleinere Probleme zerlegt um diese einzeln zu lösen und die Lösungen zu einer Lösung für das Gesamtproblem zusammenzusetzen.[^6] S.8
-Der Projektstrukturplan stellt einen möglichen Aufbau bereit, an dem die Projektstruktur orientiert werden kann.[^6] S.9
-
-
 ## Kreativitätsmethoden
 
 Kreativitätsmethoden dienen im Bezug auf Projektmanagement dazu, innovative Ideen zu sammeln.
@@ -94,13 +69,9 @@ Besonders bekannt:
 * Walt Disney Methode[^2]
  
 
-# Methoden der Projektrealisierung
 
 
 
-
-
-# Methoden des Projektabschlusses
 
 
 
@@ -198,7 +169,7 @@ Scheiferla Nemberch nä Bledzla Affnhidz.
 [^3]: [Handbuch Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Handbuch%20Projektmanagement.pdf)
 [^4]: [Projektmanagement mit System: Organisation, Methoden, Steuerung](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Kraus-Westermann2019_Book_ProjektmanagementMitSystem.pdf)
 [^5]: [Systemische Werkzeuge für erf. Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Systemische%20Werkzeuge%20f%C3%BCr%20erf.%20Projektmanagement.pdf)
-[^6]: [SAP® ERP – Praxishandbuch Projektmanagement] (file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/SAP%C2%AE%20ERP%20%E2%80%93%20Praxishandbuch%20Projektmanagement.pdf)
+
 [^7]: [Projektmanagement-Methoden: Der ultimative Überblick](https://projekte-leicht-gemacht.de/pm-methoden/)
 
 
