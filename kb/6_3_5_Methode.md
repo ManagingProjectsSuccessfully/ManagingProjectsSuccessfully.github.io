@@ -52,7 +52,7 @@ Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
 
 ## Nachteile
 
-Schwächen der 6_3_5-Methode sind die Folgenden[^6]:
+Schwächen der 6_3_5_Methode sind die Folgenden[^6]:
 
 * Doppelungen sind nicht ausgeschlossen (Können jedoch gegebenenfalls für die Gewichtung der Ideen herangezogen werden)
 * Rücksprache bei Verständnisproblemen bezüglich der Ideen während des Ablaufs der Methode nicht vorgesehen
