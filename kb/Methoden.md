@@ -39,7 +39,7 @@ Typische Methoden: Backlog-Management, Kanban-Board, Daily Scrum, Sprint Review[
 ## Backlog-Management
 ## Kanban-Board
 ## Daily Scrum
-[^6]
+Daily Scrum bezeichnet ein kurzes tägliches Meeting des Entwicklerteams, welches möglichst immer zur gleichen Zeit und an demselben Ort stattfindet und von einem Scrum Master geleitet wird. Die Ergebnisse werden auf einem Task Board festgehalten. Es wird besprochen, welche Aufgaben einzelne Projektmitglieder am Tag zuvor beendet haben, welche für den aktuellen Tag anstehen und welche Fragen und Probleme entstehen können sowie passene Ansprechpersonen.[^6]
 
 ## Sprint Review
 
