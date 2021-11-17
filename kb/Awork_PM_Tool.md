@@ -95,6 +95,8 @@ Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4].
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: [Projekte planen und organisieren mit awork](https://www.youtube.com/watch?v=zTEa2inVWZU)
+[^5]: [Webniar Aufgaben managen](https://www.youtube.com/watch?v=bomHrZfe-SU)
+
 
 
