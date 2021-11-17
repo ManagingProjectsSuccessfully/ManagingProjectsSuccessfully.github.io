@@ -28,6 +28,8 @@ Die 3_6_5 Methode läuft wie folgt ab:
 
 *Abbildung: Vorgehen bei der 6_3_5-Methode*[^2]
 
+Im Anschluss werden die Ergebnisse analysiert. Es können Ideen kombiniert oder erweitert werden. Fragen können geklärt werden. Alternativ kann der Initiator des Termins die Ergebnisse auch alleine auswerten und in einem Folgetermin präsentieren und disskutieren. [^6]
+
 # Vor- und Nachteile der 6_3_5-Methode
 
 ## Vorteile
