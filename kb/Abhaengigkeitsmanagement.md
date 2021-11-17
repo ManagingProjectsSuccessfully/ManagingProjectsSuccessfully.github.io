@@ -43,7 +43,7 @@ Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines Projek
 
 * Brainstorming 
 * Stakeholder-Engagement
-* Brainstorming zu Risiken und Herausforderungen
+* [Brainstorming](https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Brainstorming.md) zu Risiken und Herausforderungen
 * Priorisierung
 * Kategorisierung
 * Kommunikation mit dem Projektteam[^4].
@@ -60,6 +60,10 @@ Eine Möglichkeit für agile Teams, das Scheitern eines Projektes aufgrund von F
 
 
 # Siehe auch
+
+kanban [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
+
+[Kanban-Boards](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban_Boards.md)
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Abhaengigkeitsmanagement.md)
