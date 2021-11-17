@@ -13,7 +13,7 @@ Die Stacey-Matrix soll insgesamt erleichtern, für ein bevorstehendes Projekt di
 
 ## Aufbau der Stacey-Matrix
 
-Auf der vertikalen Achse der Matrix wird der Grad der "Anforderungen" (in der Abbildung: "Requierement") des Projekts abgetragen. Es wird sich die Frage gestellt, wie klar oder unklar die Unsicherheiten über die Anforderungen des Projekts sind. 
+Auf der vertikalen Achse der Matrix wird der Grad der "Anforderungen" (in der Abbildung: "Requierement") des Projekts abgetragen. Es wird sich die Frage gestellt, wie klar oder unklar die Unsicherheiten über die Anforderungen des Projekts sind [^1]. 
 
 Die horizontale Achse wird durch den Begriff "Technologie "beschrieben (in der Abbildung: "Technological Realization"). Dieser Aspekt betrachtet, ob die Methoden zur Erreichung des Projektziels bekannt oder unbekannt sind[^4]. Die Matrix ist in vier Kategorien aufgeteilt. Diese beschreiben jeweils den Komplexitätsgrad der vorliegenden Herausforderung:
 ![image](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stacey_Matrix/Stacey-Matrix-Stacey-1996-adapted-to-software-development.png)
@@ -53,5 +53,8 @@ Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts 
 [^2]: [Projektmagazin](https://www.projektmagazin.de/artikel/mit-der-stacey-matrix-zur-richtigen-pm-methode_1128468)
 [^3]: [Projektmagazin](https://www.projektmagazin.de/glossarterm/stacey-matrix)
 [^4]: [Erfolgreich-Projekte-leiten](https://erfolgreich-projekte-leiten.de/stacey-matrix/)
+[^5]: [Ralph-D.-Stacey](https://en.wikipedia.org/wiki/Ralph_D._Stacey)
+
+
 
 
