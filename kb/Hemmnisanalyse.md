@@ -101,5 +101,5 @@ Die vollumfängliche Analyse der Hemmnisse stellt eine Basis für eine kontinuie
 [^1]: [Hemmnisanalyse Wikipedia](https://de.wikipedia.org/wiki/Hemmnisanalyse)
 [^2]: [Hemmnissanalyse - Identifiktation und Bewrtung von Hemmnissen umweltfreundlicher Beschaffung sowie zur Entwicklung von Stratgien zu deren Überwindung](https://tu-dresden.de/bu/wirtschaft/bwl/bu/forschung/forschungsprojekte/projekte/hemmnisanalyse)
 [^3]: [Hemmnisse analysieren und überwinden](https://www.researchgate.net/publication/319475002_Hemmnisse_analysieren_und_uberwinden)
-[^4]: [Hemmnisse in Entscheidungsprozessen - Entstehungsfaktoren, deren Messung und Bewertung: Systematisierung und Analyse theoretischer und empirischer Ergebnisse](https://tu-dresden.de/bu/wirtschaft/bwl/bu/forschung/forschungsprojekte/projekte/hemmnisanalyse)
+[^4]: [Hemmnisse in Entscheidungsprozessen - Entstehungsfaktoren, deren Messung und Bewertung: Systematisierung und Analyse theoretischer und empirischer Ergebnisse](https://tud.qucosa.de/api/qucosa%3A25161/attachment/ATT-0/)
 
