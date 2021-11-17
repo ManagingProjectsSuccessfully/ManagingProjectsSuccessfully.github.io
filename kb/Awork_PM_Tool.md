@@ -12,15 +12,16 @@ Mit awork kann gemeinsam an mehreren Projekten gearbeitet werden. Dazu können u
 Innerhalb der Projekte werden die Aufgaben über To-Do-Listen organisisert. Zudem ermöglicht awork die Erstellung
 wiederkehrender Aufgaben[^10]. Zur Visualisierung der Aufgaben kann eine Timeline oder ein Kanban-Board verwendet werden[^9]. 
 ## 3. Visualisierung mit Gantt-Chart 
-Awork bietet die Möglichkeit mit einem Gantt-Chart, also einer Timeline, den zeitlichen Ablauf eines Projekts zu visualisieren. Relevante Aufgaben können dafür per Drag-and-Drop in die Timeline gezogen werden. Zudem können Meilensteine, Abhängigkeiten und Projektphasen definiert werden[^3]. 
+Awork bietet die Möglichkeit mit einem [Gantt-Diagramm](Gantt_Diagramme.md), also einer Timeline, den zeitlichen Ablauf eines Projekts zu visualisieren. Relevante Aufgaben können dafür per Drag-and-Drop in die Timeline gezogen werden. Zudem können Meilensteine, Abhängigkeiten und Projektphasen definiert werden[^3]. 
+![Beispielabbildung](Awork_PM_Tool/Timeline.png)
 ## 4. Kanban-Boards
-Das Kanban-Board kann individuell angepasst werden und dient der Abbildung des Arbeitsablaufs[^6]. 
+Das [Kanban-Board](Kanban.md) kann individuell angepasst werden und dient der Abbildung des Arbeitsablaufs[^6]. 
 ## 5. Integrierte Zeiterfassung 
 Awork ermöglicht das Tracken der Zeit für Projekte und Aufgaben über einen Timer oder die nachträgliche Eintragung über das Zeiterfassungsfenster. Zudem gibt es eine Zeitauswertung, welche auch graphisch angezeigt werden kann. Über die Integrationen von Abrechnungstools können dort die Zeiten automatisch übernommmen werden[^5].
 ## 6. Individuelle Dashboards 
 Auf dem Dashboard[^2], der graphischen Benutzeroberfläche, können relevante Funktioen übersichtlich abgelegt werden, was eine bedarfsorientierte und individuelle Anpassung ermöglicht. 
 Dafür können verschiedene Widgets ausgewählt werden, beispielsweise TExtnotizen, Aufgabenliste, Projektliste, Zeitauswertung und Abwesenheit von Usern[^4].
-
+![Beispielabbildung](Awork_PM_Tool/Dashboard_Bild.jpg)
 ## 7. Weitere Funktionen[^1]
 * Überblick über Auslastung, Teamplanung und Abwesenheit mit der Ressourcenplanung 
 * Aufgabenchat: Teamkommunikation und Feedback 
@@ -62,17 +63,11 @@ Nachteile:
 * Sprachen nur Deutsch und Englisch 
 * kein klassisches Dokumentenmanagement[^3] 
 
-
-
-![Beispielabbildung](Awork_PM_Tool/test-file.jpg)
-
-*lustiges Testbild*
-
-
-
 # Siehe auch
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Awork_PM_Tool.md)
+* [Projektmanagementsoftware](Projektmanagementsoftware.md)
+* [Asana Projektmanagement Tool](Asana_PM_Tool.md)
+* [ClickUp Projektmanagement Tool](ClickUp_PM_Tool.md)
 # Quellen
 [^1]: [Das Orga-Tool, über das Teams sich freuen](https://www.awork.io/produkt/)
 [^2]: [Dashboard](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/dashboard/)
