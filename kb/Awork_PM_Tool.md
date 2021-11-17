@@ -4,15 +4,13 @@ tags: agil klassisch
 author: sophiej26
 anrechnung: k 
 ---
-
-Awork ist eine Software der HQLabs GmbH, gegründet 2012, mit Sitz in Hamburg. Das awork Projektmanagement-Tool eignet sich sowohl für klassische als auch agile Projekte. Zielsetzung des Unternehmens, unter dem Produktfokus "keep it simple", ist die Schaffung eines einfachen und intuitiven Organisations-Tools[^1]. 
-
+Awork ist eine Software der HQLabs GmbH, gegründet 2012, mit Sitz in Hamburg. Das awork Projektmanagement-Tool eignet sich sowohl für klassische als auch agile Projekte. Zielsetzung des Unternehmens, unter dem Produktfokus "keep it simple"[^5], ist die Schaffung eines einfachen und intuitiven Organisations-Tools[^1]. 
 # Welche Funktionen bietet awork?
 ## 1. Projekte 
 Mit awork kann gemeinsam an mehreren Projekten gearbeitet werden. Dazu können unterschiedliche Projekte angelegt werden, sowie Einladungen an Teammitglieder gesendet werdenn. Der Projektsteckbrief kann mit allgemeinen Projektdaten ausgefüllt werden und liefert somit einen Überblick über Teammitglieder, Kunden, Projektart und Projektstatus[^10]. 
 ## 2. Aufgaben 
 Innerhalb der Projekte werden die Aufgaben über To-Do-Listen organisisert. Zudem ermöglicht awork die Erstellung
-wiederkehrender Aufgaben. Zur Visualisierung der Aufgaben kann eine Timeline oder ein Kanban-Board verwendet werden[^12]. 
+wiederkehrender Aufgaben[^11]. Zur Visualisierung der Aufgaben kann eine Timeline oder ein Kanban-Board verwendet werden[^9]. 
 ## 3. Visualisierung mit Gantt-Chart 
 Awork bietet die Möglichkeit mit einem Gantt-Chart, also einer Timeline, den zeitlichen Ablauf eines Projekts zu visualisieren. Relevante Aufgaben können dafür per Drag-and-Drop in die Timeline gezogen werden. Zudem können Meilensteine, Abhängigkeiten und Projektphasen definiert werden[^7]. 
 ## 4. Kanban-Boards
@@ -32,7 +30,7 @@ Nach den 14 Tagen der kostenlosen Testversion sind nur zahlungspflichtige Abonne
 # Auf welchen Geräten kann man awork anwenden? 
 Für die Arbeit mit awork wird nur ein Browser benötigt. Die Software funktioniert plattformunabhängig. Zusätzlich gibt es eine App für iOS und Android[^1]. 
 # Welche Integrationen gibt es? 
-Bei awork können verschiedene Anwendungen integriert werden. Für viele Tools gibt es eine direkte Möglichkeit der Integration. Andere Tools können über Zapier, eine verküpfender Web-Service, integriert werden[^13]. 
+Bei awork können verschiedene Anwendungen integriert werden. Für viele Tools gibt es eine direkte Möglichkeit der Integration. Andere Tools können über Zapier, eine verküpfender Web-Service, integriert werden[^12]. 
 
 Beispiele: 
 * Google-, Apple-Kalender 
@@ -44,7 +42,7 @@ Bei awork gibt es unterschiedliche Angebote zur Unterstützung der Nutzer:
 * Blog auf der Homepage 
 * Helpcenter 
 * Webinare über Zoom 
-* Aufgezeichnete Webinare und Interviews auf YouTube[^12][^13]
+* Aufgezeichnete Webinare und Interviews auf YouTube[^12]
 * Buchbare Beratungstermine 
 # Vor- und Nachteile von awork 
 Vorteile: 
@@ -61,7 +59,7 @@ Vorteile:
 Nachteile: 
 * Keine kostenlose Basisversion 
 * Sprachen nur Deutsch und Englisch 
-* kein klassisches Dokumentenmanagement 
+* kein klassisches Dokumentenmanagement[^9] 
 
 
 
@@ -87,6 +85,5 @@ Nachteile:
 [^8]: [Dashboard](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/dashboard/)
 [^9]: [Der awork Test](https://pm-tools.info/projektmanagement-software-reviews/awork-test-und-kosten-aus-hamburg/?cn-reloaded=1)
 [^10]: [Projekte planen und organisieren mit awork](https://www.youtube.com/watch?v=zTEa2inVWZU)
-[^11]: [Unternehmensberatung Axel Schröder: Unsere awork Erfahrung](https://axel-schroeder.de/unsere-awork-erfahrung-ihre-digitale-planung/)
-[^12]: [Webinar: Aufgaben managen](https://www.youtube.com/watch?v=bomHrZfe-SU)
-[^13]: [Webinar: Integrationen in awork](https://www.youtube.com/watch?v=A1Hk5oDAiNY)
+[^11]: [Webinar: Aufgaben managen](https://www.youtube.com/watch?v=bomHrZfe-SU)
+[^12]: [Webinar: Integrationen in awork](https://www.youtube.com/watch?v=A1Hk5oDAiNY)
