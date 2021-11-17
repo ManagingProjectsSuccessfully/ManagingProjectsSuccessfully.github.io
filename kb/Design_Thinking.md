@@ -29,6 +29,8 @@ Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6  Phas
 ### Phase1: Verstehen 
 Im ersten Schritt wird die Ausgangssituation definiert und sicher gestellt, dass alle beteiligten Personen sich auf dem selben Wissensstand befinden. Mögliche Stanardfragen mit denen Probleme definiert werden können sind: Was soll neu entwickelt werden? Für wen soll die Entwicklung relevant sein? Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? Welcher Endzustand soll durch die Lösung erreicht werden?[^1]
 
+![Beispielabbildung](Design_Thinking/design_Thinking_Bild1.png)
+
 ### Phase2: Beobachten
 
 
