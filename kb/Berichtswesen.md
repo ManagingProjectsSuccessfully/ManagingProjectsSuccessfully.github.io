@@ -5,8 +5,8 @@ author: FerdinandMerbecks
 anrechnung: (k)
 ---
 
-Das Berichtswesen, auch als [Reporting](https://de.wiktionary.org/wiki/Reporting) bekannt, setzt sich zusammen aus der Sammlung, Aufbereitung und der Verteilung von Informationen, über einen Betrieb oder 
-beispielweise ein [Projekt], an die Stakeholder[^1].
+Das Berichtswesen, auch als [Reporting](Reporting.md)bekannt, setzt sich zusammen aus der Sammlung, Aufbereitung und der Verteilung von Informationen, über einen Betrieb oder 
+beispielweise ein [Projekt](Projekt.md), an die Stakeholder[^1].
 Im Allgemeinen kann man sich unter dem Berichtswesen alle Anstrengungen einer Unternehmung vorstellen, die zur Erreichung, Verteilung und Sicherung von 
 Projektinformationen, in Form von Berichten, angestellt werden[^2]. Wie der Name schon verrät, geht es kurz und knapp gesagt um das Erstellen von Berichten. 
 Welche Aufgaben im Berichtswesen erfüllt, welche Ziele verfolgt werden müssen und warum das Berichtswesen einen wesentlichen Erfolgsfaktor darstellt, wird im 
@@ -17,7 +17,7 @@ Folgenden erläutert.
 Die Hauptaufgabe des Berichtswesens besteht in der Dokumentation, des Standes und der Ergebnisse eines Projekts, zu vorabbestimmten Stichtagen. 
 Ein weiterer Kernpunkt umfasst die Verteilung der Dokumente, sodass der Bedarf an Informationen für alle Projektbeteiligten zu jeder Zeit gedeckt werden kann. 
 Somit bildet das Berichtswesen eine Brücke zwischen dem Entstehungs- und dem Anwendungsort von Daten und liefert die Datenbasis für beispielsweise das 
-[Projektcontrolling]( Projektcontrolling.md) oder die [Projektsteuerung](Projektssteuerung.md)[^3].
+[Projektcontrolling](Projektcontrolling.md) oder die [Projektsteuerung](Projektssteuerung.md)[^3].
 Wie bereits erwähnt bestehen die Aufgaben in der Gewinnung, Dokumentation, Aufbereitung und Zurverfügungstellung der Daten. 
 Ziele, die schließlich mit dem Berichtswesen verfolgt werden, sind: 
 
@@ -51,7 +51,7 @@ Ist die [Projektsteuerung](Projektssteuerung.md) transparent können unnötige R
 Der Berichtsprozess sollte daher zu Beginn eines neuen Projekts transparent erarbeitet und individuell an das Projekt angepasst werden und gegebenenfalls sollten 
 neue Projektmitglieder angemessen in ihn eingewiesen werden, damit sich das Berichtswesen als Erfolgsfaktor niederschlägt[^12].
 
-## Eventuell Überschrift
+
 
 Zusammenfassend ist zu sagen, dass das Berichtswesen die strategische und operative Unternehmensführung auf allen Ebenen unterstützt[^13].
 Eine wesentliche Rolle kommt dem Informationsbedürfnis zu, welches von den Berichten dahingehend gestillt werden sollen, so dass sie, durch Komplexitätsreduktion 
@@ -64,7 +64,7 @@ Es kann demzufolge als Logistik des Projektinformationssystem verstanden werden[
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Berichtswesen.md)
+* [Link auf diese Seite](Reporting.md)
 
 # Weiterführende Literatur
 
