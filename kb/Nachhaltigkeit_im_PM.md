@@ -16,7 +16,9 @@ oben im Front-Matter (Bereich zwischen den `---`).
 Inhaltsverzeichnis
 
 1. Begriffsherleitung
-2. Gründe für Nachhaltigkeit im Unternehmen
+2. Gründe für Nachhaltigkeit im Projektmanagement
+    2.1 Vorteile
+    2.2 Nachteile
 3. Methoden und Techniken von Nachhaltigkeit im Projektmanagement
 4. Auswirkungen von Nachhaltigkeit im Projektmanagement
 5. Darstellung verschiedener Nachhaltigkeitskonzepte 
