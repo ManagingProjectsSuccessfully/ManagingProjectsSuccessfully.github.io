@@ -16,7 +16,7 @@ Das Abhängigkeitsmanagement beinhaltet:
 * Identifizieren von Beziehungen zwischen den verschiedenen Arbeitselementen
 * Erkennen abhängiger Aktivitäten 
 * Visualisieren der Abhängigkeiten und detailliertes Darstellen von Abhängigkeiten zwischen Systemen, Ressourcen und Prozessen
-* Integrieren des Abhängigkeitsmanagements in die Projektplanung- und Durchführung[^3] 
+* Integrieren des Abhängigkeitsmanagements in die [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)- und Durchführung[^3] 
 
 # Arten von Abhängigkeiten
 
