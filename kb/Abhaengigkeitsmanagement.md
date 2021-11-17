@@ -56,9 +56,11 @@ Um den Überblick über die verschiedenen Abhängigkeiten innerhalb eines Projek
 
 „Failing to plan is planning to fail“
 
-Eine Möglichkeit für agile Teams, das Scheitern eines Projektes aufgrund von Fehlplanung zu vermeiden, ist die Koordination des Projektes mit Hilfe eines Kanban-Boards. Dieses ermöglicht es, einen Überblick über alle Aufgaben zu behalten indem man Aufgabenkarten erstellt, die auf dem Board strategisch angeordnet werden. So kann man verwandte Arbeiten auf demselben Board festhalten oder Aufgaben über mehrere Boards verteilt visualisieren. Außerdem kann man Beziehungen zwischen Aufgaben besser darstellen und nachvollziehen, indem man die Karten miteinander verknüpft. Auch ist Kanban Board vorteilhaft um Deadlines zu setzen und den Aufgabenstatus einzusehen. So kann man Kategorien wie begonnen, nicht begonnen oder beendet einführen und die Aufgabenkarten dementsprechend zuordnen. Insgesamt eignet sich so ein Board also sehr gut um Abhängigkeiten innerhalb eines Projektes darzustellen und im Blick zu halten[^8][^9].(Beispielhafte Visualisierung siehe Abb. 1)
+Eine Möglichkeit für agile Teams, das Scheitern eines Projektes aufgrund von Fehlplanung zu vermeiden, ist die Koordination des Projektes mit Hilfe eines Kanban-Boards. Dieses ermöglicht es, einen Überblick über alle Aufgaben zu behalten indem man Aufgabenkarten erstellt, die auf dem Board strategisch angeordnet werden. So kann man verwandte Arbeiten auf demselben Board festhalten oder Aufgaben über mehrere Boards verteilt visualisieren. Außerdem kann man Beziehungen zwischen Aufgaben besser darstellen und nachvollziehen, indem man die Karten miteinander verknüpft. Auch ist Kanban-Board vorteilhaft um Deadlines zu setzen und den Aufgabenstatus einzusehen. So kann man Kategorien wie begonnen, nicht begonnen oder beendet einführen und die Aufgabenkarten dementsprechend zuordnen. Insgesamt eignet sich so ein Board also sehr gut um Abhängigkeiten innerhalb eines Projektes darzustellen und im Blick zu halten[^8][^9].(Beispielhafte Visualisierung siehe Abb. 1)
 
-Mehr Informationen über Kanban in folgendem Artikel: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md
+Mehr Informationen über [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
+
+
 
 
 # Siehe auch
