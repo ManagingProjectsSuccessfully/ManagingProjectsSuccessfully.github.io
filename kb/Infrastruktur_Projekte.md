@@ -113,12 +113,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* Verlinkungen zu angrenzenden Themen -öffentliche Projekte
 * [Link auf diese Seite](Infrastruktur_Projekte.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... -gute Quellen, die biseher nicht verwendet
 
 # Quellen
 
