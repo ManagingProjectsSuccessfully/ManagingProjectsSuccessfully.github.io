@@ -28,7 +28,7 @@ Ziel dieser Tabelle ist es, einen ersten Überblick über PM-Zertifizierungen zu
 
 # 3. Auswahl der passenden Zertifizierung
 
-Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitnehmer die Anerkennung des Zertifikats bei internationalen Arbeitgebern, so bietet sich ein Zertifikat der [IPMA-Organisation](https://www.gpm-ipma.de/ueber_uns/ipma.html) an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PM Zertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das [PMP-Zertifikat](https://www.pmi-gc.de/das-chapter/pmi) oder die [PMI-ACP-Zertifizierung](https://www.pmi.org/certifications/agile-acp) der PMI eine höhere Chance, anerkannt zu werden. 
+Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget, dem aktuellen Wissensstand oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitnehmer die Anerkennung des Zertifikats bei internationalen Arbeitgebern, so bietet sich ein Zertifikat der [IPMA-Organisation](https://www.gpm-ipma.de/ueber_uns/ipma.html) an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PM Zertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das [PMP-Zertifikat](https://www.pmi-gc.de/das-chapter/pmi) oder die [PMI-ACP-Zertifizierung](https://www.pmi.org/certifications/agile-acp) der PMI eine höhere Chance, anerkannt zu werden. 
 
 # 4. Praktische Relevanz von Zertifizierungen im PM
 
@@ -46,93 +46,13 @@ Die [folgende Grafik](https://www.theprojectgroup.com/blog/projektmanagement-zer
 
 ![Abbildung 1](Zertifizierungen/Gehaltsvergleich.jpg)
 
-Die Abbildung zeigt, dass nicht jede erlangte Zertifizierung Verdienstmöglichkeiten über dem Durchschnittsgehalt von 80.251 Euro Brutto-Jahresgehalt im PM garantiert. Dennoch ist der Erwartungwert des Mehrverdienstes mit 1.551 Euro (Durschnitts Brutto-Jahresgehalt mit Zertifizierung - Durschnitts Brutto-Jahresgehalt ohne Zertifizierung = 80.251 Euro - 78.700 Euro = 1.551 Euro) positiv und oft bereits deutlich höher als die Kosten der Zertifizierung. Betrachtet man die Mehrverdienstmöglichkeiten über dem Durchschnittsgehalt im PM mit einer Zertifizierung im Verhältnis zu den Zertifizierungskosten
+Die Abbildung zeigt, dass nicht jede erlangte Zertifizierung Verdienstmöglichkeiten über dem Durchschnittsgehalt von 80.251 Euro Brutto-Jahresgehalt im PM garantiert. Dennoch ist der Erwartungwert des Mehrverdienstes mit 1.551 Euro (Durschnitts Brutto-Jahresgehalt mit Zertifizierung - Durschnitts Brutto-Jahresgehalt ohne Zertifizierung = 80.251 Euro - 78.700 Euro = 1.551 Euro) positiv und oft bereits deutlich höher als die Kosten der Zertifizierung. Setzt man die Mehrverdienstmöglichkeiten für Projektmanager mit einer Zertifizierung im Verhältnis zu den Zertifizierungskosten, so ist der Return on Investment mit einer   [Prince2 Foundation-](https://www.prince2.com/de) und einer [PMP-Zertifizierung](https://www.pmi-gc.de/das-chapter/pmi) am höchsten. Diese Tatsache berücksichtigt jedoch nicht die zuvor (vgl. 3. Auswahl der passenden Zertifizierung) Faktoren wie Kenntnisstand, Anforderungen des Arbeitgebers, oder individuell unterschiedliche Faktoren wie der Vorbereitungsdauer.
 
 # Fazit
 
-QUELLENANGABEN
+Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Projektmanagern eine Zertifizierung anhand der persönlichen Bedürfnissen auszuwählen. Auch wenn eine Zertifizierung nicht immer zu einer überdurchschnittliche Bezahlung führt, wurde eine Vielzahl an Vorteilen aufgezeigt, wie beispielsweise die Erhöhung der Glaubwürdigkeit oder schlichtweg eine objektive Darlegung der eigenen Fähigkeiten, was wiederum berufliche Eintrittsbarrieren mindern kann.
 
-
-Kurzbeschreibung zu Zertifizierungen um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen.
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Zertifizierungen/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| ------------- | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+# Abkürzungsverzeichnis
 
 # Siehe auch
 
@@ -149,15 +69,3 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
-# Test
-
-# Vergleich von Projektmanagementstandards
-
-Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche Projektmanagementstandards an. Dabei werden unterschiedliche Zertifizierungen oft von einem (Dach-)Verband angeboten. Die folgende Tabelle gibt Aufschluss über die drei größten Verbände (Anbietern) und deren Zertifikatsoptionen.
-
-| Verband  | IMPA | PMI | Prince2 |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | Content Cell  | ------------- | ------------- |
-| Content Cell  | Content Cell  | ------------- | ------------- |
-
