@@ -72,7 +72,7 @@ ermittelt werden, warum es bestimmte Schwachstellen gibt. Daraus können konkret
 Problemanalyse dar. [^4]
 
 
-![Beispielabbildung](Hemmnisanalyse/Bild Hemmnisanalyse.png)
+![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
 
 *Testbild*
 
