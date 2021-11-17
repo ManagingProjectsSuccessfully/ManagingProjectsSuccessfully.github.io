@@ -64,10 +64,12 @@ Nachteile:
 * kein klassisches Dokumentenmanagement[^3] 
 
 # Siehe auch
-* Verlinkungen zu angrenzenden Themen
 * [Projektmanagementsoftware](Projektmanagementsoftware.md)
+* [Übersicht Projektmanagement Tools](Uebersicht_PM_Tools.md)
 * [Asana Projektmanagement Tool](Asana_PM_Tool.md)
 * [ClickUp Projektmanagement Tool](ClickUp_PM_Tool.md)
+* [Stackfield Projektmanagement Tool](Stackfield_PM_Tool.md)
+* [Trello Projektmanagement Tool](Trello_PM_Tool.md)
 # Quellen
 [^1]: [Das Orga-Tool, über das Teams sich freuen](https://www.awork.io/produkt/)
 [^2]: [Dashboard](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/dashboard/)
