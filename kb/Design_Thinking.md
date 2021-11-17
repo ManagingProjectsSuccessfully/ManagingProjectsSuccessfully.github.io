@@ -25,6 +25,7 @@ in Bezug auf Unternehmen heißt, dass das Design Thinking hilft Unternehmen dabe
 Es existieren mehrere Vorgehensmodelle mit einer unterschiedlichen Anzahl an Schritten für den Prozess des Design Thinkings, im Folgenden wird eines der Standartmodelle nach dem Hasso-Plattner-Institut beschrieben. 
 
 Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6  Phasen: Verstehen, Beobachten/Empathie, Sichtweise definieren, Ideen generieren, Prototypen, Testen. Der Prozess ist non-linear und iterativ.
+
 ![Beispielabbildung](Design_Thinking/design_Thinking_Bild1.png)
 *6 Schritte des Design Thinkings*[^1]
 
@@ -33,7 +34,6 @@ Im ersten Schritt wird die Ausgangssituation definiert und sichergestellt, dass 
 
 ### Phase2: Beobachten
 Im Schritt des Beobachten geht es darum, die Ziele, die Bedürfnisse sowie die Proritäten der Kunden zuanalysieren und zuverstehen. Wichtig ist es hierbei den Kunden reden zulassen und genau zuzuhören, um Missverständnisse zu vermeiden. 
-
 
 ### Phase3: Sichtweisen definieren 
 In diesem Schritt erfolgt die Sythese der ersten beiden Schritte. Das Ziel hierbei ist es auf Basis der der gesammelten Annahmen und Beobachtungen einen konzeptionellen Rahmen zu entwickeln und den Lösungraum abzustecken. Es sollen dabei die Kernbedürfnisse der Nutzer interpretieren und formuliert werden. (Es gibt  mehrere Techniken um dies zuerreichen, ein Beispiel wäre die Point-of-View Technik.)
@@ -45,9 +45,10 @@ In der vierten Phase werden mit Hilfe von kreativitäts Techniken, wie z.B Brain
 In dieser Phase werden für die ausgewählten Ideen Prototypen gebaut, damit die ausgedachte Konstrukte anschaulicher werden und Annahmen getestet werden können. Es ist dabei nicht wichtig, ob die Prototypen perfekt sind. Am Anfang ist es wichtiger die Sache so einfach wie möglich anzugehen und möglichst kreativ vorzugehen. 
 Techniken die bei dem erstellen der Prototypn zum Einsatz kommen sind: 
 
-
 ### Phase6: Testen 
 Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden nun unter der Einbindung der Kunden und Interessensvertreter weiter validiert und getestet.  Das Ziel hierbei ist es nicht den Kunden von den Prototypen zu überzeugen, sondern vor allem das Feedback und die Reaktion der Kunden zu analysieren, denn diese sind ein wichtiger Bestandteil, um weitere Ideen und Verbesserungen zu generieren. Wichtig in diesem Schritt ist, dass das die Personen, die das Design Thinking durchgeführt haben, bereit sind neue Ideen anzunehmen, um die Prototypen weiterzuentwickeln und gegeben falls auch nicht funktionierende Prototypen wieder zu verwerfen. Es kann in diesem Schritt auch zu Mehrer Testphasen kommen, bis der Kunde und die Entwickler zufrieden sind mit dem Endprodukt. 
+
+
 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
