@@ -33,21 +33,21 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 ### Politische Faktoren
 | Organisationsbezogen  | Projektbezogen |
 | ------------- | ------------- |
-| Wie sehen die gesetzlichen Rahmenbedingungen aus?  | Wie wirkt sich die Unternehmensstrategie auf das Projekt aus?  |  
-| Könnte sich der politische Kurs ändern und könnten neue Gesetze erlassen werden?   | Wie sehr stehen die Stakeholder hinter meinem Projekt?  |
+| Wie sehen die gesetzlichen Rahmenbedingungen aus?[^1]  | Wie wirkt sich die Unternehmensstrategie auf das Projekt aus?[^2]  |  
+| Könnte sich der politische Kurs ändern und könnten neue Gesetze erlassen werden?[^2]   | Wie sehr stehen die Stakeholder hinter meinem Projekt?  |
 
 ### Wirtschaftliche Faktoren
 | Organisationsbezogen  | Projektbezogen |
 | ------------- | ------------- |
-| Wie sieht das Wirtschaftswachstum aus? | Wie sehr ist das Projekt von Geldgebern abhängig?  |  
-| Wie entwickeln sich die Zinsen in einem Land?  | Gibt es wirtschaftliche Risiken für das Projekt? |
+| Wie sieht das Wirtschaftswachstum aus?[^1] | Wie sehr ist das Projekt von Geldgebern abhängig?[^2]  |  
+| Wie entwickeln sich die Zinsen in einem Land?[^1]  | Gibt es wirtschaftliche Risiken für das Projekt?[^2] |
 
 
 ### Sozio-kulturelle Faktoren
 | Organisationsbezogen  | Projektbezogen |
 | ------------- | ------------- |
-| Wie ist die demographische Lage? | Wie wirkt sich die Teamstruktur auf das Projekt aus?  |  
-| Gibt es bestimmte kulturelle Tabu- Themen?  | Existieren zwischenmenschliche Stolperfallen im Projekt?[^2] |
+| Wie ist die demographische Lage? | Wie wirkt sich die Teamstruktur auf das Projekt aus?[^2]  |  
+| Gibt es bestimmte kulturelle Tabu- Themen?[^2]  | Existieren zwischenmenschliche Stolperfallen im Projekt?[^2] |
 
 Welche Technologien werden im Projekt benötigt?
 Von welchen Technologien bin ich abhängig?
