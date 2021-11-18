@@ -30,7 +30,7 @@ Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^3]. Darunter fallen
 # Sprints
 
 Kernelemente der Ereignisse sind die sogenannten Sprints, welche einen hohen Stellenwert einnehmen und dementsprechend *"der Herzschlag von Scrum ist, wo Ideen in Wert
-umgewandelt werden"*. [scrum guide poster]
+umgewandelt werden"*[^4] [scrum guide poster]
   Taucht man nun tiefer in den Ablauf eines einzigen Sprints ein, lässt sich feststellen, dass dieser nochmals in Etappen unterteilt ist.
   
 
@@ -52,7 +52,7 @@ Was auch bereits im darunterstehenden Bild illustriert wurde, soll im Folgenden 
 ![Beispielabbildung](Sprint_Review/Sprint_Review_Meeting.png)
 
 
-### Folgeschritte[^4]
+### Folgeschritte[^5]
 
 * __Allgemeine Regeln__
   - Begonnen wird im Sprint Review meist damit, dass der Product Owner allgemeine Regeln über den Ablauf des Sprint Reviews aufstellt und Erwartungen hieran mitteilt
@@ -87,8 +87,8 @@ Was auch bereits im darunterstehenden Bild illustriert wurde, soll im Folgenden 
 
 
 Demnach beinhaltet ein Sprint den Sprint Review, welcher nochmals in mehrere Bestandteile aufgegliedert werden kann. Schlüsselelement dabei ist vor allem die Demo des
-Entwicklerteams, auf welche dann ein Feedback der Anwesenden folgt. Dies geschieht immer mit dem Hintergrund der Anpassung des Product Backlogs und der kontinuierlichen
-Verbesserung des Produktes.
+Entwicklerteams, auf welche dann ein Feedback der Anwesenden folgt. Dies geschieht immer im Hinblick auf die Anpassung des Product Backlogs und der kontinuierlichen
+Fortschritte des Produktes in Richtung des vorgegebenen Ziels.[^6]
 
 
 
@@ -97,16 +97,22 @@ Verbesserung des Produktes.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Sprint_Review.md)
+* [Link zu den Grundlagen des Sprints](Sprint.md)
+* [Link zum Product Backlog](Product_Backlog.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Weiterfuehrende Literatur über das "Konzept" *Scrum*: Scrum: The Art of Doing Twice the Work in Half the Time 
 
 # Quellen
 
 [^1]: https://www.factro.de/blog/agiles-projektmanagement
 [^2]: https://scrumguide.de/die-geschichte-von-scrum/
 [^3]: https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-artefakte
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: https://th.bing.com/th/id/R.76d74b272367227af5940a48d6c786d8?
+rik=ed955fWu7mgGwQ&riu=http%3a%2f%2fimg.selzstatic.com%2fitems%2f151237%2fyeehcvd3qld%2foriginal.png%3fw%3d1600%26fit%3dmin&ehk=CJg58oCI6zYMF4aadVPeWyF1RVH7DeyDTWrFtd8q%
+2bnY%3d&risl=&pid=ImgRaw&r=0
+[^5]: https://www.agile-academy.com/de/product-owner/eine-agenda-fuer-das-sprint-review/
+[^6]: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf
 
