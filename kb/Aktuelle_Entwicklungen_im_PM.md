@@ -6,7 +6,7 @@ anrechnung:  a
 ---
 
 
-Die Nutzung von agilem [Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ist in den vergangenen Jahren immer mehr gestiegen. Beim klassischen Projektmanagement geht es vorwiegend um das Management von Kompliziertheit, wohingegen es beim agilen Projektmanagement um das Management von Komplexität handelt[^1]. 
+Die Nutzung von agilem [Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ist in den vergangenen Jahren immer mehr gestiegen und wird auch immer weiter wachsen[^1]. 
 
 
 
@@ -44,35 +44,33 @@ Kontaktpunkte zwischen Projekt und der restlichen Organisation bedürfen einer h
 
 # Aktuelle Projektmanagement Trends
 
-* Verteilte Teams, verteilte Projekte
+* Verteilte Teams und Projekte
 
-Aufgrund der weltweiten Pandemie stieg die digitale Zusammenarbeit und somit stieg auch die Anzahl an dezentralen Teams. Diese Beobachtungen werden auch nach der Pandemie weiterhin zu sehen sein und bringen einige Herausforderungen mit sich, wie beispielsweise die Optimierung von Remote Work.
-Update-Meetings, in denen Verantwortlichkeiten innerhalb des Teams geklärt werden müssen, helfen bessere Strategien für Projektmanagement herauszufinden.
-Eine erhebliche Erleichterung für Kollaborationen an Projekten, schafft der Tool-Stack.
+Aufgrund der weltweiten Pandemie stieg die digitale Zusammenarbeit und somit stieg auch die Anzahl an dezentralen Teams. 
+Update-Meetings, in denen Verantwortlichkeiten innerhalb des Teams geklärt werden müssen, helfen bessere Strategien für Projektmanagement herauszufinden[^3].
 
 * Optimierte Ressourcenplanung 
 
 Home-Office und Remote Work gewinnen immer mehr an Bedeutung und machen somit eine verlässliche Ressourcenplanung notwendig.
 2021 müssen [Tools](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Uebersicht_PM_Tools.md) und [Methoden](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) herausgearbeitet werden, mit denen die Verfügbarkeit der Teams noch detaillierter geplant werden kann.
-Die Verfügbarkeiten der Ressourcen sollten auch für das Team deutlich sein. Dabei spielt es keine Rolle an welchem Ort man gerade arbeitet. 
+Die Verfügbarkeiten der Ressourcen sollten auch für das Team deutlich sein. Dabei spielt es keine Rolle an welchem Ort man gerade arbeitet[^3]. 
 
 * Knowledge-Sharing
 
-Die Teams eines Unternehmens können mehr voneinander profitieren, wenn sich Abteilungen untereinander austauschen oder Projektmanager ihre Erfahrungen mit Tools und Methoden teilen. Knowledge-Sharing bezweckt, dass Learnings, Wissen und Prozesse aus den unterschiedlichsten Bereichen anderen zugänglich gemacht wird.
+Die Teams eines Unternehmens können mehr voneinander profitieren, wenn sich Abteilungen untereinander austauschen oder Projektmanager ihre Erfahrungen mit Tools und Methoden teilen. Knowledge-Sharing bezweckt, dass Learnings, Wissen und Prozesse aus den unterschiedlichsten Bereichen anderen zugänglich gemacht wird[^3].
 
 * Datenbasierte Entscheidungen
 
-Data Science und Big Data gewinnen im Projektmanagement immer mehr an Bedeutung. Somit wird es immer wichtiger, Projekte basierend auf Daten strategisch zu planen und dadurch dem Team die Möglichkeit zu geben, eindeutige Erkenntnisse auszulesen und sich gegenseitig austauschen zu können.
+Data Science und Big Data gewinnen im Projektmanagement immer mehr an Bedeutung. Somit wird es immer wichtiger, Projekte basierend auf Daten strategisch zu planen und dadurch dem Team die Möglichkeit zu geben, eindeutige Erkenntnisse auszulesen und sich gegenseitig austauschen zu können[^3].
 
 * Change Management
 
-Beim [Change Management](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Projekte.md) steht die Konfigurierung von Unternehmensstrategien und -strukturen, an sich wechselnde Rahmenbedingungen, im Vordergrund.
-Beim Projektmanagement ist hierbei eine Veränderung der Prozesse wichtig, wodurch ein proaktives Handeln seitens der Projektmanager nötig wird, um diese Prozesse besser zu machen und an Veränderungen anzupassen.
+Beim [Change Management](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Projekte.md) steht die Konfigurierung von Unternehmensstrategien und -strukturen, an sich wechselnde Rahmenbedingungen, im Vordergrund[^3].
 
 * Soft Skills
 
 Beim Projektmanagement werden die sozialen Fähigkeiten im zwischenmenschlichen Kontext, die sogenannten [Soft Skills](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Softskills_im_Projektmanagement.md), immer wichtiger. Es bedarf des rücksichtsvollen Zuhörens, des Koordinierens, des motivierenden Führens und des taktvolles Verhandelns. 
-Eine Stärkung des Teamzusammenhalts wird durch Kommunikationsfähigkeiten und emotionale Intelligenz hervorgerufen, was in längerer Hinsicht zum Projekterfolg führt.
+Eine Stärkung des Teamzusammenhalts wird durch Kommunikationsfähigkeiten und emotionale Intelligenz hervorgerufen, was in längerer Hinsicht zum Projekterfolg führt[^3].
 
 * Hybride Projektmanagement-Ansätze 
 
