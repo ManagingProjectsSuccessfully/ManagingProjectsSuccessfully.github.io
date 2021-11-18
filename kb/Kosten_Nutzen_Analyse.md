@@ -11,7 +11,7 @@ Die Kosten-Nutzen-Analyse ist ein Bewertungsverfahren, das die Wirtschaftlichkei
 Im [Projektmanagement](Projektmangement.md) hat der [Projektleiter](Faehigkeiten_Projektleiter) die Aufgabe, Aufträge sinnvoll zu erteilen, sodass diese zum Projekterfolg beitragen. Hierbei kann eine Kosten-Nutzen-Analyse hilfreich sein.
 
 Bewertungsverfahren sind in der Praxis häufig angewendete Methoden, um mögliche Handlungsalternativen in Bezug auf deren Mehrwert hierarchisch einzuordnen und die Vorteilhafteste dieser zu bestimmen.[^2] 
-Neben der oben gennanten Kosten-Nutzen-Analyse gibt es noch weitere Bewertungsverfahren:
+Neben der oben gennanten Kosten-Nutzen-Analyse gibt es noch weitere Bewertungsverfahren[^1]:
 * [Nutzwertanalyse](Nutzwertanalyse.md)
 * Kosten-Wirksamkeits-Analyse
 * Wirkungsanalyse
