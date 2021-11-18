@@ -7,7 +7,7 @@ anrechnung: k
 Awork ist eine Software der HQLabs GmbH, gegründet 2012, mit Sitz in Hamburg. Das awork Projektmanagement-Tool eignet sich sowohl für klassische als auch agile Projekte. Zielsetzung des Unternehmens, unter dem Produktfokus "keep it simple"[^8], ist die Schaffung eines einfachen und intuitiven Organisations-Tools[^1]. 
 # Welche Funktionen bietet awork?
 ## 1. Projekte 
-Mit awork kann gemeinsam an mehreren Projekten gearbeitet werden. Dazu können unterschiedliche Projekte angelegt werden, sowie Einladungen an Teammitglieder gesendet werdenn. Der Projektsteckbrief kann mit allgemeinen Projektdaten ausgefüllt werden und liefert somit einen Überblick über Teammitglieder, Kunden, Projektart und Projektstatus[^7]. 
+Mit awork kann gemeinsam an mehreren Projekten gearbeitet werden. Dazu können unterschiedliche Projekte angelegt werden, sowie Einladungen an Teammitglieder versendet werden. Der Projektsteckbrief kann mit allgemeinen Projektdaten ausgefüllt werden und liefert somit einen Überblick über Teammitglieder, Kunden, Projektart und Projektstatus[^7]. 
 ## 2. Aufgaben 
 Innerhalb der Projekte werden die Aufgaben über To-Do-Listen organisisert. Zudem ermöglicht awork die Erstellung
 wiederkehrender Aufgaben[^10]. Zur Visualisierung der Aufgaben kann eine Timeline oder ein Kanban-Board verwendet werden[^9]. 
@@ -19,8 +19,8 @@ Das [Kanban-Board](Kanban.md) kann individuell angepasst werden und dient der Ab
 ## 5. Integrierte Zeiterfassung 
 Awork ermöglicht das Tracken der Zeit für Projekte und Aufgaben über einen Timer oder die nachträgliche Eintragung über das Zeiterfassungsfenster. Zudem gibt es eine Zeitauswertung, welche auch graphisch angezeigt werden kann. Über die Integrationen von Abrechnungstools können dort die Zeiten automatisch übernommmen werden[^5].
 ## 6. Individuelle Dashboards 
-Auf dem Dashboard[^2], der graphischen Benutzeroberfläche, können relevante Funktioen übersichtlich abgelegt werden, was eine bedarfsorientierte und individuelle Anpassung ermöglicht. 
-Dafür können verschiedene Widgets ausgewählt werden, beispielsweise TExtnotizen, Aufgabenliste, Projektliste, Zeitauswertung und Abwesenheit von Usern[^4].
+Auf dem Dashboard[^2], der graphischen Benutzeroberfläche, können relevante Funktionen übersichtlich abgelegt werden, was eine bedarfsorientierte und individuelle Anpassung ermöglicht. 
+Dafür können verschiedene Widgets ausgewählt werden, beispielsweise Textnotizen, Aufgabenliste, Projektliste, Zeitauswertung und Abwesenheit von Usern[^4].
 ![Beispielabbildung](Awork_PM_Tool/Dashboard_Bild.jpg)
 ## 7. Weitere Funktionen[^1]
 * Überblick über Auslastung, Teamplanung und Abwesenheit mit der Ressourcenplanung 
@@ -32,20 +32,20 @@ Nach den 14 Tagen der kostenlosen Testversion sind nur zahlungspflichtige Abonne
 # Auf welchen Geräten kann man awork anwenden? 
 Für die Arbeit mit awork wird nur ein Browser benötigt. Die Software funktioniert plattformunabhängig. Zusätzlich gibt es eine App für iOS und Android[^1]. 
 # Welche Integrationen gibt es? 
-Bei awork können verschiedene Anwendungen integriert werden. Für viele Tools gibt es eine direkte Möglichkeit der Integration. Andere Tools können über Zapier, eine verküpfender Web-Service, integriert werden[^11]. 
+Bei awork können verschiedene Anwendungen integriert werden. Für viele Tools gibt es eine direkte Möglichkeit der Integration. Andere Tools können über Zapier, ein verküpfender Web-Service, integriert werden[^11]. 
 
 Beispiele: 
 * Google-, Apple-Kalender 
 * Abrechnungstools 
 * Microsoft Teams, Slack 
 * Google Drive 
-# Support[^1]
+# Support
 Bei awork gibt es unterschiedliche Angebote zur Unterstützung der Nutzer: 
 * Blog auf der Homepage 
 * Helpcenter 
 * Webinare über Zoom 
+* Buchbare Beratungstermine[^1]
 * Aufgezeichnete Webinare und Interviews auf YouTube[^12]
-* Buchbare Beratungstermine 
 # Vor- und Nachteile von awork 
 Vorteile: 
 * Umfassender Support 
