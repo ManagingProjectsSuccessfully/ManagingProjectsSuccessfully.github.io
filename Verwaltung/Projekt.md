@@ -10,7 +10,7 @@ Kurzbeschreibung zu {Projekt} um ein erstes Verständnis dafür zu schaffen um w
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Was ist SAFe? 
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -45,7 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung]({Projekt}/test-file.jpg)[PI-Planning-in-SAFe-Big-Picture.svg.pdf](https://github.com/starni26/ManagingProjectsSuccessfully.github.io/files/7563934/PI-Planning-in-SAFe-Big-Picture.svg.pdf)
+![Beispielabbildung]({Projekt}/test-file.jpg)
 
 
 *lustiges Testbild*
