@@ -1,8 +1,8 @@
 ---
 title: PEST_Analyse
-tags: agil klassisch
+tags:klassisch
 author: GEDA9263
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu PEST_Analyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
