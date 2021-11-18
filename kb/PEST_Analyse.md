@@ -32,13 +32,13 @@ In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereic
 Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder aber für eine gesamte Organisation, ergeben sich innerhalb der Faktoren ganz unterschiedliche Fragestellungen.  
 ### Politische Faktoren
 Auf einzelne Projekte bezogen stellen sich eher Fragen, wie sich zum Beispiel die Unternehmenspolitik auf das Projekt auswirkt oder wie sehr die Stakeholder hinter einem Projekt stehen, falls Schwierigkeiten auftreten sollten.  
-Für gesamte Organisationen stellen sich eher Fragen, welche sich auf die jeweiligen Gestzeslage in einem Land beziehen oder wie sich zum Beispiel der politische Kurs in einem Land durch eine Wahl ändern könnte.
+Für gesamte Organisationen stellen sich eher Fragen, welche sich auf die jeweiligen Gestzeslage in einem Land beziehen oder wie sich zum Beispiel der politische Kurs in einem Land durch eine Wahl ändern könnte.[^3]
 
 
 ### Wirtschaftliche Faktoren
-Wie sicher sind die Geldgeber?
-Wie stabil sind die Einkaufspreise?
-Gibt es öffentliche Fördermittel?
+Auf ein einzelnes Projekt bezogen ergeben sich zu diesem Faktor Fragen wie zum Beispiel ein Projekt finanziert wird und ob es eventuell öffentliche Fördermittel für bestimme Projekte gibt oder wie sehr die Firma sich von dem Projekt erhofft und dementsprechend auch bereit ist entsprechende finanzielle Mittel bereitzustellen.
+Für eine Organisation ergeben sich eher Fragen, ob die Entwicklung der Branche eher positiv ist oder ob Einkaufpreise stabil sind 
+
 
 ### Sozio-kulturelle Faktoren
 Verschiedene Führungs- und Arbeitskulturen in unterschiedlichen Ländern
