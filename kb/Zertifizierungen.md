@@ -22,7 +22,7 @@ Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besond
 | Schwerpunkt                             | Hard- und Softskills     | Methodiken wie Scrum, Kanban, etc. | Prozesse und Methoden              | Prince-2 Methodik  | Scrum Methodik |
 | Zielgruppe                              | Mittlere Erfahrung im PM | Projektmanager mit Berufserfahrung | Projektmanager mit Berufserfahrung | Anfänger           | Anfänger       |
 | Gültigkeit                              | 5 Jahre                  | 2 Jahre                            | 3 Jahre                            | 3 Jahre            | Lebenslang     |
-| Kosten                                  | Ca. 4.000 Euro           | Ca. 400 Euro                       | Ca. 3.000 Euro                     | Bis zu 1500 Euro   | Ca. 1.500 Euro; Prüfung: 150 Euro       |
+| Kosten                                  | Ca. 4.000 Euro           | Ca. 400 Euro                       | Ca. 3.000 Euro                     | Bis zu 1500 Euro   | Kurs: ca. 1.500; Prüfung: 150 Euro       |
 
 Ziel dieser Tabelle ist es, einen ersten Überblick über PM-Zertifizierungen zu geben und deren Unterschiede aufzuzeigen. Einzelne Organisationen und deren angebotenen Zertifizierungen, wie die [IPMA](IPMA_Institution.md), das [PMI](PMI_Institution.md) oder [Scrum.org](SCRUM_org_Institution.md) werden in den seperaten Arikeln näher beleuchtet.
 
