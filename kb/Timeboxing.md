@@ -5,9 +5,9 @@ author: janetteschuller
 anrechnung: k
 ---
 
-Timeboxing ist eine Methode im agilen Projektmanagement. Hierbei werden für die zu erledigenden Aufgaben bestimme Zeitslots, die sogenannten Timeboxes, reserviert. Es wird vorher genau festgelegt was in einer Timebox zu erledigen ist und was das Ziel der jeweiligen Timebox ist. Dadurch sind eine klare Planung und Struktur der Aufgaben und damit des Projekts garantiert. 
+Das Timeboxing ist eine Methode im agilen Projektmanagement. Hierbei werden für die zu erledigenden Aufgaben bestimme Zeitslots, die sogenannten Timeboxes, reserviert. Es wird vorher genau festgelegt was in einer Timebox zu erledigen ist und was das Ziel der jeweiligen Timebox ist. Dadurch sind eine klare Planung und Struktur der Aufgaben und damit des Projekts garantiert[^1].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Wann sollte man Timeboxing anwenden?
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -34,7 +34,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Vor- und Nachteile des Timeboxing
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -45,6 +45,10 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 ![Beispielabbildung](Timeboxing/test-file.jpg)
 
 *lustiges Testbild*
+
+## Vorteile
+
+## Nachteile
 
 # Aspekt 2
 
