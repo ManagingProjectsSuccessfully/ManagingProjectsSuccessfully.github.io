@@ -68,7 +68,7 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 Die PEST - Analyse ist im Lauf der Zeit um einige Faktoren erweitert worden, wodurch sich weitere Analysemethoden ergeben haben.
 Einige der weiterführenden Analysen sind: 
 * SLEPT, in welcher noch die legalen Faktoren hinzukommen[^1]
-* STEPE, bei der zusätzlich noch ecological - ökolöogische Faktoren betrachet werden[^1]
+* STEPE, bei der zusätzlich noch ecological - ökologische Faktoren betrachet werden[^1]
 * PESTEL, bei der noch legale und environmental - Umwelt Faktoren analysiert werden[^1]  
 
 Zudem gibt es noch weitere Analysen bei denen zum Beispiel zusätzliche noch regulatorische und/oder demographische Faktoren betrachtet werden.  
