@@ -27,14 +27,14 @@ In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereic
 * Economic - Wirtschaftliche Faktoren
 * Socio-Cultural - Sozio-kulturelle Faktoren
 * Technical - Technische Faktoren  
-  
-Innerhalb von Projekten wird die PEST - Analyse meist in einer frühen Projektphase im Rahmen einer umfassenderen Umfeld- oder Risikoanalyse eingesetzt. 
-Da es nicht einfach ist auf Anhieb mögliche Einflussfaktoren auf Projekte zu ermitteln, hilft die PEST - Analyse vor allem dabei nichts zu vergessen und sich von
-den verschiedenen Kategorien inspirieren zu lassen.[^2]  
 
 ![Faktoren](PEST_Analyse/pest-analyse-projekt.jpg)[^2]  
 
-Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder aber für eine gesamte Organisation, ergeben sich innerhalb der Faktoren ganz unterschiedliche Fragestellungen. Im Folgenden werden für jeden Faktor mögliche Fragestellungen aufgelistet
+Innerhalb von Projekten wird die PEST - Analyse meist in einer frühen Projektphase im Rahmen einer umfassenderen Umfeld- oder Risikoanalyse eingesetzt. 
+Da es nicht einfach ist auf Anhieb mögliche Einflussfaktoren auf Projekte zu ermitteln, hilft die PEST - Analyse vor allem dabei nichts zu vergessen und sich von
+den verschiedenen Kategorien inspirieren zu lassen.[^2]  
+Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder aber für eine gesamte Organisation, ergeben sich innerhalb der Faktoren ganz unterschiedliche Fragestellungen. Was sich jedoch nicht unterscheidet, ist dass im ersten Schritt mögliche Einflussfaktoren gesammelt werden.[^2]  
+Im Folgenden werden für jeden Faktor mögliche Fragestellungen aufgelistet:
 ### Politische Faktoren
 | Organisationsbezogen  | Projektbezogen |
 | ------------- | ------------- |
@@ -62,11 +62,17 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 
 ## Wichtige Schritte zum Durchführen einer PEST - Analyse  
 
-1. Wichtige relevante Faktoren bestimmen.  
+1. Wichtige relevante Faktoren bestimmen.[^4]  
 Es ist für eine Organisation wichtig zu wissen, welche Faktoren am ehesten für Sie relevant sind, zum Beispiel können für einen Industriekonzern technologische Faktoren wichtiger  sein, als sozio-kulturelle Fakoren.  
 
-2. Bewerten, inwiefern die Faktoren die Organisation beeinflussen
-3. Entsprechende angemessene Strategien entwickeln
+2. Bewerten, inwiefern die Faktoren die Organisation beeinflussen[^4]  
+In diesem Schritt wird bewertet inwiefern sich verschiedene Faktoren auf unterschiedlichenen Eben auswirken können. 
+Ein Industriekonzern zum Beispiel muss genau wissen, wie sich eine Änderung in der Fertigungstechnologie auf die eigenen Produkte auswirkt. Eine solche Änderung hat
+jedoch wenig Relevanz, wenn es um die Koordinierung von Projekten oder die Zusammenarbeit zwischen verschiedenen Werken geht.  
+
+3. Entsprechende angemessene Strategien entwickeln[^4]  
+In diesem Schritt werden entsprechende Strategien und Maßnahmen entwickelt um den in den vorherigen Schritten erarbeiteten Risiken und Chancen angemessen zu begegnen.
+Im Projektmanagement werden Maßnahmen meist im Anschluss in einer Umfeld- oder Risikoanalyse abgeleitet.[^2]
 
 
 # Erweiterungen der PEST - Analyse
