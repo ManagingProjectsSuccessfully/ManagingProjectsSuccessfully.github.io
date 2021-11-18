@@ -86,9 +86,9 @@ Manager oder ein Vertreter aus diversen Bereichen sein.
 *lustiges Testbild*
 
 
-Wie man der Abbildung entnehmen kann, nehmen also der Product Owner, der Scrum Master, das Entwicklerteam und der Stakeholder am Sprint Review teil. Dabei findet ein
-Austausch zwischen dem Scrum Team und den Stakeholdern statt, in welchem das Developer Team Demonstrationen präsentiert und sowohl über Geschafftes, als auch über
-Probleme berichtet. Dazu gibt der Stakeholder ein entsprechendes Feedback.
+Demnach beinhaltet ein Sprint den Sprint Review, welcher nochmals in mehrere Bestandteile aufgegliedert werden kann. Schlüsselelement dabei ist vor allem die Demo des
+Entwicklerteams, auf welche dann ein Feedback der Anwesenden folgt. Dies geschieht immer mit dem Hintergrund der Anpassung des Product Backlogs und der kontinuierlichen
+Verbesserung des Produktes.
 
 
 
