@@ -1,6 +1,6 @@
 ---
 title: PEST_Analyse
-tags: klassisch
+tags: klassisch Strategische Unternehmensführung Analyse
 author: GEDA9263
 anrechnung: k 
 ---
