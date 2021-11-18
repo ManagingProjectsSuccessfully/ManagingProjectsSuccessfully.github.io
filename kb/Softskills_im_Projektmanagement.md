@@ -2,94 +2,63 @@
 title: Softskills_im_Projektmanagement
 tags: agil klassisch
 author: ig27oqaf
-anrechnung: k oder a
+anrechnung:  a
 ---
+[Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) impliziert alle Aufgaben, die sich mit der Planung, Steuerung, Organisation und Kontrolle von Projekten befassen[^1].
 
-Kurzbeschreibung zu Softskills_im_Projektmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Soft Skills
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Softskills im Projektmanagement definieren persönlichen Werte (z.B. Fairness & Respekt), persönlichen Eigenschaften (z.B. Geduld), individuellen Fähigkeiten (z.B. Kritikfähigkeit) und soziale Kompetenzen (z.B. Kommunikationsfähigkeit) von Führungskräften und Mitarbeitern eines Unternehmens[^2].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Wenn Softskills fehlen, scheitern Projekte, die vorher nur mit fachlicher Kompetenz angegangen worden sind. Neben den fachlichen Kompetenzen sind heutzutage ebenso soziale, persönliche und methodische Kompetenzen von hoher Wichtigkeit. Letztere werden auch als Soft Skills bezeichnet. Unter anderem zählen zu den soft skills Team- und Kritikfähigkeit, Selbstreflexion, vernetztes Denken und Präsentationstechniken. Diese Eigenschaften werden durch Kenntnisse aus der Vergangenheit und andererseits durch die einzelnen Persönlichkeiten beeinflusst. 
+Durch die aktuelle Situation der Corona Krise kommt das Problem der Arbeit auf Distanz hinzu, ein großer Teil der Mitarbeiter arbeitet im Home Office und benutzt zum direkten Austausch mit anderen Mitarbeiter digitale Gebrauchsgegenstände. In dieser Zeit nimmt die Wichtigkeit der Soft Skills um einiges zu, da sie die virtuelle Teamarbeit nachhaltig prägen müssen, um den direkten Kontakt zu anderen [Projektmitarbeitern](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) halten zu können und Motivation zu erzeugen[^3]. 
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+* Eigeninitiative
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Effektivität und Effizienz werden erst dann von [Projekten](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) entwickelt, wenn alle Projektmitarbeiter gewillt sind ihr Fachwissen und ihre Erfahrungen einzubinden und sich ergänzend von Wettbewerbs- oder Statusdenken zu lösen.
+Wichtig für [nachhaltige Projekte](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Projekte.md) sind intrinsisch motivierte Mitarbeiter. Diese müssen offen für das Dazulernen sein und die anderen Teilnehmer des Projekts unterstützen.Indem jeder am Projekt Beteiligte Initiative ergreift und zugleich das Team von seiner Expertise profitieren lässt, erreichen Projekte den Stand einer „learning organisation“, die mit- und voneinander lernt[^4].
+
+* Vernetztes Denken
+
+Komplexität spielt bei neuartigen Projekten eine immer größer werdende Rolle. Durch die Eigenschaft des vernetzten Denkens können Entwicklungen der heutigen Zeit beurteilt und organisiert werden.
+Teilergebnisse können vereint und in Anwendung gebracht werden, wenn sich jeder Mitarbeiter des Projekts als „tragende Säule“ innerhalb des Projektgebildes sieht.
+Jeder Projektmitarbeiter muss sich den Folgen seines Handelns bewusst sein. Ein Verlassen auf die nächstgelegene Führungsebene langt nicht aus, nur so kann man Prozesse wirksam beeinflussen[^4].
+
+* Kooperation und Konfliktfähigkeit
+
+Kooperation und Konfliktfähigkeit sind wichtige Grundvoraussetzungen im Projektmanagement. 
+Projekte sind meist innovativ, wenig strukturiert und komplex, was Projektmitarbeiter oft vor schwierige Situationen stellt, in denen sie die üblichen Verfahren nicht mehr verwenden können. Dabei können häufig Konflikte entstehen, wobei Lösungen meist nur als Team erörtert werden können.
+Projektorganisation verlangt ein einzigartiges Verständnis von Kooperation, unterdessen Erfolge, Misserfolge und der Wille, Konflikte zu lösen, die innerhalb des Projektes entstehen, stattfinden[^4]. 
+
+* Flexibilität / Agilität
+
+Sowohl in agilen Projekten, als auch allgemein im Projektmanagement ist eine erhöhte Veränderungsbereitschaft erforderlich. Nur vereinzelt können Projektmitarbeiter in vorstrukturierte und eindeutige Abläufe eingearbeitet werden oder sich auf ihrem anfänglichen Wissensstand ausruhen. Projektmitarbeiter sollten eine gut ausgeprägte Lernfähigkeit mit in die Projekte bringen.
+Änderungen von Arbeitsweisen müssen akzeptiert und umgesetzt werden. Falls Projektmitarbeiter sich nicht an neue Voraussetzungen anpassen können, riskieren sie die bestmögliche Umsetzung des Projektziels[^4].
+
+* Innovationsfähigkeit
+
+Ein großer Teil von Projekten sollen die Welt mit Neuheiten verändern. Dabei reicht es nicht aus bereits vorhandene Formen der Zusammenarbeit oder Produkte zu verknüpfen.
+(Innovationsfähigkeit heißt für Projektteams den Horizont zu erweitern und das, was man für die Zukunft erreichen möchte auf Realisierbarkeit und Belastungsfähigkeit zu überprüfen.
+Neue Möglichkeiten nutzen gegebene Talente vollkommen aus, können jedoch auch neue Fähigkeiten hervorheben[^4].)
+
+
+
+
 
 ![Beispielabbildung](Softskills_im_Projektmanagement/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Softskills_im_Projektmanagement.md)
+* [Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Projektmitarbeitern](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) 
+* [Projekten](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
+* [nachhaltige Projekte](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Projekte.md)
 
 # Weiterführende Literatur
 
@@ -97,8 +66,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.inloox.de/projektmanagement/
+[^2]: https://www.inloox.de/projektmanagement-glossar/soft-skills/
+[^3]: https://www.vdi-wissensforum.de/weiterbildung-persoenlichkeit/soft-skills-im-projektmanagement/
+[^4]: https://www.projektmagazin.de/projektmanagement-kompakt
+
 
