@@ -19,9 +19,12 @@ Inhaltsverzeichnis
 2. Gründe für Nachhaltigkeit im Projektmanagement
     - 2.1 Vorteile
     - 2.2 Nachteile
-3. Methoden und Techniken von Nachhaltigkeit im Projektmanagement
+3. Beispiele für Nachhaltigkeit im Projektmanagement anhand des Drei-Säulen-Modells
+    - 3.1 ökologische Dimension
+    - 3.2 ökonomische Dimension
+    - 3.3 soziale Dimension
 4. Auswirkungen von Nachhaltigkeit im Projektmanagement
-5. Beispiele für Nachhaltigkeit im Projektmanagement 
+5. Fazit
 
 
 Begriffsherleitung
@@ -45,6 +48,13 @@ Nachteile
 
 - höhere Transaktionskosten, durch vermehrten Aufwand in der Projektplanung
 - Komplexität des Projektes steigt[^4]
+
+
+Beispiele für Nachhaltigkeit im Projektmanagement anhand des Drei-Säulen-Modells
+
+Nachhaltige Projekte sind zukunftsorientierte und langfristige Projekte. Dementsprechend leistet nachhaltiges Projektmanagement auf langer Sicht
+einen Beitrag zum Unternehmenserfolg und zum Erhalt einer zukunftsfähigen Wirtschaft und Umwelt.
+
 
 
 
