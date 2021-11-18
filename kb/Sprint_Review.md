@@ -17,7 +17,7 @@ effektiver* auf Veränderungen einzugehen.[^1]
 
 # Historischer Hintergrund
 
-Eine Methodik, welche das agile Konzept verfolgt, ist Scrum. Diese hat ihren Ursprung in den frühen 90er Jahren und wurde primär als Entwicklungsmethodik für Software
+Eine Methodik, welche das agile Konzept verfolgt, ist Scrum. Diese hat ihren Ursprung in den *frühen 90er Jahren* und wurde primär als Entwicklungsmethodik für Software
 eingeführt.[^2]  
 
 Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^3]. Darunter fallen:
@@ -30,18 +30,18 @@ Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^3]. Darunter fallen
 # Sprints
 
 Kernelemente der Ereignisse sind die sogenannten Sprints, welche einen hohen Stellenwert einnehmen und dementsprechend *"der Herzschlag von Scrum ist, wo Ideen in Wert
-umgewandelt werden"*[^4] [scrum guide poster]
+umgewandelt werden"*[^4].
   Taucht man nun tiefer in den Ablauf eines einzigen Sprints ein, lässt sich feststellen, dass dieser nochmals in Etappen unterteilt ist.
   
 
 # Sprint Review
 
 Sprint Retrospective, Sprint Review, Sprint Planning und Daily Scrum sind die Bausteine und ergeben zusammen einen Sprint. Dabei wird immer wieder der gleiche Ablauf
-befolgt, wobei der Sprint Review vor der Sprint Retrospective stattfindet. [scrum guide poster]
+befolgt, wobei der Sprint Review **vor** der Sprint Retrospective stattfindet[^4].
 
 Während der Phase des Sprint Reviews kommt dann das ganze Scrum Team zusammen, die dort die Möglichkeit haben Feedback zu geben. Diese Gruppe besteht demnach aus dem
 Product Owner, dem Scrum Master und dem Entwickler Team. Zudem sollte idealerweise auch der Stakeholder hinzugezogen werden; dies kann zum Beispiel ein Anwender, ein
-Manager oder ein Vertreter aus diversen Bereichen sein.
+Manager oder ein Vertreter aus diversen Bereichen sein[^4].
 
 
 ## Ablauf eines Sprint Reviews
@@ -52,7 +52,7 @@ Was auch bereits im darunterstehenden Bild illustriert wurde, soll im Folgenden 
 ![Beispielabbildung](Sprint_Review/Sprint_Review_Meeting.png)
 
 
-### Folgeschritte[^5]
+### Agenda des Meetings[^5]
 
 * __Allgemeine Regeln__
   - Begonnen wird im Sprint Review meist damit, dass der Product Owner allgemeine Regeln über den Ablauf des Sprint Reviews aufstellt und Erwartungen hieran mitteilt
