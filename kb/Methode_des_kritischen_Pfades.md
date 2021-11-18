@@ -78,8 +78,8 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Methode_des_kritischen_Pfades.md)
+* [Projektstrukturplan](kb/Projektstrukturplan.md)
+* [Netzplantechnik](kb/Netzplantechnik.md)
 
 # Weiterführende Literatur
 
