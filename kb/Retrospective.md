@@ -5,7 +5,7 @@ author: nta01
 anrechnung: a
 ---
 
-Die Retrospective ist ein wiederkehrendes Meeting aus dem agilen Management. Dieses findet am Ende jeder [Iteration](https://de.wiktionary.org/wiki/Iteration) statt. Es wird kritisch reflektiert wie der vorgehende Sprint gelaufen ist. [^1]
+Die Retrospective ist ein wiederkehrendes Meeting aus dem agilen Management. Dieses findet am Ende jeder [Iteration](https://de.wiktionary.org/wiki/Iteration) statt. Es wird kritisch reflektiert, wie der vorhergehende Sprint gelaufen ist. [^1]
 
 ![Abbildung](Retrospective/Bild1.png)
 
@@ -60,16 +60,12 @@ bsp
 * [Walt_Disney_Methode](Walt_Disney_Methode.md)
 
 # Weiterführende Literatur
-bsp
-* Christian Schawel, Fabian Billing (2009): "Top 100 Management Tools"
-* Joachim H. Becker, Helmut Ebert, Sven Pastoors (2018): "Praxishandbuch berufliche Schlüsselkompetenzen"
+
+* Ralf Wirdemann, Dr. Johannes Mainusch (2017): "Scrum mit User Stories"
 
 # Quellen
 
 [^1]: https://www.easyagile.com/blog/retrospectives/
 [^2]: https://luis-goncalves.com/de/agile-retrospektiven/
 [^3]: https://itadvisory.dk/wp-content/uploads/2018/11/retrospective-starfish-with-post-its.png
-
-
-bsp [Joachim H. Becker, Helmut Ebert, Sven Pastoors (2018): "Praxishandbuch berufliche Schlüsselkompetenzen"](https://link.springer.com/content/pdf/10.1007%2F978-3-662-54925-4_11.pdf)
-
+[^4]:[Ralf Wirdemann, Dr. Johannes Mainusch (2017): "Scrum mit User Stories"] (https://www.hanser-elibrary.com/doi/epdf/10.3139/9783446450776.002)
