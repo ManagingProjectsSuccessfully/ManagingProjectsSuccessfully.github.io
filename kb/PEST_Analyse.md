@@ -29,25 +29,22 @@ In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereic
 * Technical - Technische Faktoren  
 
 ### Politische Faktoren
+Altbackene Technologien, die bestreft werden(Verbrenner)
+Gesetzliche Vorschriften
+Firmenpolitik?
+Unternehmensstrategie?
+
 ### Wirtschaftliche Faktoren
+Wie sicher sind die Geldgeber?
+Wie stabil sind die Einkaufspreise?
+Gibt es öffentliche Fördermittel?
+
 ### Sozio-kulturelle Faktoren
 Verschiedene Führungs- und Arbeitskulturen in unterschiedlichen Ländern
 ### Technische Faktoren
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Welche Technologien werden im Projekt benötigt?
+Von welchen Technologien bin ich abhängig?
+Welche Technologien benutzt der Kunde?
 
 
 # Aspekt 1
