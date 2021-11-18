@@ -50,7 +50,7 @@ Es ergeben sich schließlich zwei zur Berechnung anwendbare Formeln, E steht dab
 *II.   E = (a + m + b) / 3*
  
  Der Unterschied zwischen I und II besteht lediglich in der Gewichtung der Werte. Während bei der I. gängigeren Methode die wahrscheinlichste Schätzung am stärksten gewichtet     wird, besteht bei II kein Unterschied in der Gewichtung der Werte. 
- Je nach Aufgabe kann es auch sinnvoll sein Pufferzeiten einzuplanen.
+ Je nach Aufgabe kann es auch sinnvoll sein Pufferzeiten einzuplanen. [^3]
    
 **5.	Identifizierung des kritischen Pfades**
 
