@@ -13,10 +13,16 @@ oben im Front-Matter (Bereich zwischen den `---`).
 # Design Thinking
 ## Definition
 
-*“Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.”* 
+<img align="right" width="270" height="150" src="Design_Thinking/Design-Thinking.jpg">
 
-  [Tim Brown, Executive Chair: IDEO](https://designthinking.ideo.com/)
 
+*“Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.”*[^1]  
+
+<br />
+
+[Tim Brown, Executive Chair: IDEO](https://de.wikipedia.org/wiki/Tim_Brown_(Designer))           
+
+<br />
 Design Thinking ist ein menschen-zentrierter Ansatz (Human-Centered Approach) für die Generierung von Lösungen und Innovationen, wobei es sowohl ein Denkansatz als auch ein Prozess-Modell ist. Das Design Thinking unterstützt bei der kreativen Betrachtung einer weiten Bandbreite an innovativen Lösungsmöglichkeiten. In der Praxis in Bezug auf Unternehmen heißt, dass das Design Thinking hilft Unternehmen dabei, die wahren Bedürfnisse und Wünsche ihrer Kunden zu bestimmen.
 
 ## Prozess Modell 
@@ -27,10 +33,13 @@ Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6 Phase
 
 
 ![Beispielabbildung](Design_Thinking/design_Thinking_Bild1.png)
-*6 Schritte des Design Thinkings*[^1]
+
+*6 Schritte des Design Thinkings*[^2]
+
+<br />
 
 ### Phase 1: Verstehen 
-Im ersten Schritt wird die Ausgangssituation definiert und sichergestellt, dass alle beteiligten Personen sich auf demselben Wissensstand befinden. Mögliche Standardfragen mit denen Probleme definiert werden können sind: Was soll neu entwickelt werden? Für wen soll die Entwicklung relevant sein? Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? Welcher Endzustand soll durch die Lösung erreicht werden?[^2]
+Im ersten Schritt wird die Ausgangssituation definiert und sichergestellt, dass alle beteiligten Personen sich auf demselben Wissensstand befinden. Mögliche Standardfragen mit denen Probleme definiert werden können sind: Was soll neu entwickelt werden? Für wen soll die Entwicklung relevant sein? Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? Welcher Endzustand soll durch die Lösung erreicht werden?[^3]
 
 ### Phase 2: Beobachten
 Im Schritt des Beobachtens geht es darum, die Ziele, die Bedürfnisse sowie die Prioritäten der Kunden zu analysieren und zu verstehen. Wichtig ist es hierbei den Kunden reden zulassen und genau zuzuhören, um Missverständnisse zu vermeiden.
@@ -146,12 +155,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]:[HPI Academy, Was ist Design Thinking?](https://hpi-academy.de/fileadmin/_processed_/b/9/csm_Design_Thinking_Prozess_DE_6c695bcd10.png)
-[^2]: [Design Thinking – Methode, Prozess und Workshops](https://iconstorm.com/design-thinking/), Abgerufen am 17. November 2021
+[^1]:[Design Thinking Defined](https://designthinking.ideo.com/)
+[^2]:[HPI Academy, Was ist Design Thinking?](https://hpi-academy.de/fileadmin/_processed_/b/9/csm_Design_Thinking_Prozess_DE_6c695bcd10.png)
+[^3]: [Design Thinking – Methode, Prozess und Workshops](https://iconstorm.com/design-thinking/), Abgerufen am 17. November 2021
 
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^3]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^5]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^6]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 
