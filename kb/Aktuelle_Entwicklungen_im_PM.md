@@ -91,31 +91,26 @@ Eine wichtige Aufgabe des Projektmanagements ist die richtige Auswahl und das Ei
 
 
 
+![Beispielabbildung](https://office-roxx.de/wp-content/uploads/2019/01/20180921.png)
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Aktuelle_Entwicklungen_im_PM/test-file.jpg)
-
-*lustiges Testbild*
+*Aktuelle Trends bei Projektmanagement-Tools*
 
 
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Aktuelle_Entwicklungen_im_PM.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Projektmanagement 4.0](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_4_0.md)
+* [Projektleiter](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md)
+* [Projektmitarbeiter](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md)
+* [Projekten](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
+* [Tools](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Uebersicht_PM_Tools.md)
+* [Methoden](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md)
+* [Change Management](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Projekte.md)
+* [Soft Skills](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Softskills_im_Projektmanagement.md)
+* [Kanban](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
+* [Scrum](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
 
 # Quellen
 
