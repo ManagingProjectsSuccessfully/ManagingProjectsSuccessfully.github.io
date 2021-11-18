@@ -7,7 +7,7 @@ anrechnung: k
 Awork ist eine Software der HQLabs GmbH, gegründet 2012, mit Sitz in Hamburg. Das awork Projektmanagement-Tool eignet sich sowohl für klassische als auch agile Projekte. Zielsetzung des Unternehmens, unter dem Produktfokus "keep it simple"[^8], ist die Schaffung eines einfachen und intuitiven Organisations-Tools[^1]. 
 # Welche Funktionen bietet awork?
 ## 1. Projekte 
-Mit awork kann gemeinsam an mehreren Projekten gearbeitet werden. Dazu können unterschiedliche Projekte angelegt werden, sowie Einladungen an Teammitglieder versendet werden. Der Projektsteckbrief kann mit allgemeinen Projektdaten ausgefüllt werden und liefert somit einen Überblick über Teammitglieder, Kunden, Projektart und Projektstatus[^7]. 
+Mit awork kann gemeinsam an mehreren [Projekten](Projekt.md) gearbeitet werden. Dazu können unterschiedliche Projekte angelegt werden, sowie Einladungen an Teammitglieder versendet werden. Der Projektsteckbrief kann mit allgemeinen Projektdaten ausgefüllt werden und liefert somit einen Überblick über Teammitglieder, Kunden, Projektart und Projektstatus[^7]. 
 ## 2. Aufgaben 
 Innerhalb der Projekte werden die Aufgaben über To-Do-Listen organisisert. Zudem ermöglicht awork die Erstellung
 wiederkehrender Aufgaben[^10]. Zur Visualisierung der Aufgaben kann eine Timeline oder ein Kanban-Board verwendet werden[^9]. 
