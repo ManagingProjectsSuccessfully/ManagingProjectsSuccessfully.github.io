@@ -10,15 +10,15 @@ anrechnung:  a
 
 Softskills im Projektmanagement definieren persönlichen Werte (z.B. Fairness & Respekt), persönlichen Eigenschaften (z.B. Geduld), individuellen Fähigkeiten (z.B. Kritikfähigkeit) und soziale Kompetenzen (z.B. Kommunikationsfähigkeit) von Führungskräften und Mitarbeitern eines Unternehmens[^2].
 
-Wenn Softskills fehlen, scheitern Projekte, die vorher nur mit fachlicher Kompetenz angegangen worden sind. Neben den fachlichen Kompetenzen sind heutzutage ebenso soziale, persönliche und methodische Kompetenzen von hoher Wichtigkeit. Letztere werden auch als Soft Skills bezeichnet. Unter anderem zählen zu den soft skills Team- und Kritikfähigkeit, Selbstreflexion, vernetztes Denken und Präsentationstechniken. Diese Eigenschaften werden durch Kenntnisse aus der Vergangenheit und andererseits durch die einzelnen Persönlichkeiten beeinflusst. 
-Durch die aktuelle Situation der Corona Krise kommt das Problem der Arbeit auf Distanz hinzu, ein großer Teil der Mitarbeiter arbeitet im Home Office und benutzt zum direkten Austausch mit anderen Mitarbeiter digitale Gebrauchsgegenstände. In dieser Zeit nimmt die Wichtigkeit der Soft Skills um einiges zu, da sie die virtuelle Teamarbeit nachhaltig prägen müssen, um den direkten Kontakt zu anderen [Projektmitarbeitern](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) halten zu können und Motivation zu erzeugen[^3]. 
+Wenn Soft Skills fehlen, scheitern Projekte, die vorher nur mit fachlicher Kompetenz angegangen worden sind. Neben den fachlichen Kompetenzen sind heutzutage ebenso soziale, persönliche und methodische Kompetenzen von hoher Wichtigkeit. Letztere werden auch als soft Skills bezeichnet. Unter anderem zählen zu den soft Skills Team- und Kritikfähigkeit, Selbstreflexion, vernetztes Denken und Präsentationstechniken. Diese Eigenschaften werden durch Kenntnisse aus der Vergangenheit und andererseits durch die einzelnen Persönlichkeiten beeinflusst. 
+Durch die aktuelle Situation der Corona Krise kommt das Problem der Arbeit auf Distanz hinzu, ein großer Teil der Mitarbeiter arbeitet im Home-Office und benutzt zum direkten Austausch mit anderen Mitarbeiter digitale Gebrauchsgegenstände. In dieser Zeit nimmt die Wichtigkeit der Soft Skills um einiges zu, da sie die virtuelle Teamarbeit nachhaltig prägen müssen, um den direkten Kontakt zu anderen [Projektmitarbeitern](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) halten zu können und Motivation zu erzeugen[^3]. 
 
 
 
 * Eigeninitiative
 
-Effektivität und Effizienz werden erst dann von [Projekten](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) entwickelt, wenn alle Projektmitarbeiter gewillt sind ihr Fachwissen und ihre Erfahrungen einzubinden und sich ergänzend von Wettbewerbs- oder Statusdenken zu lösen.
-Wichtig für [nachhaltige Projekte](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Projekte.md) sind intrinsisch motivierte Mitarbeiter. Diese müssen offen für das Dazulernen sein und die anderen Teilnehmer des Projekts unterstützen.Indem jeder am Projekt Beteiligte Initiative ergreift und zugleich das Team von seiner Expertise profitieren lässt, erreichen Projekte den Stand einer „learning organisation“, die mit- und voneinander lernt[^4].
+Effektivität und Effizienz werden erst dann von [Projekten](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) entwickelt, wenn alle Projektmitarbeiter gewillt sind, ihr Fachwissen und ihre Erfahrungen einzubinden und sich ergänzend von Wettbewerbs- oder Statusdenken zu lösen.
+Wichtig für [nachhaltige Projekte](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Projekte.md) sind intrinsisch motivierte Mitarbeiter. Diese müssen offen für das Dazulernen sein und die anderen Teilnehmer des Projekts unterstützen. Indem jeder am Projekt Beteiligte Initiative ergreift und zugleich das Team von seiner Expertise profitieren lässt, erreichen Projekte den Stand einer „learning organisation“, die mit- und voneinander lernt[^4].
 
 * Vernetztes Denken
 
@@ -29,7 +29,7 @@ Jeder Projektmitarbeiter muss sich den Folgen seines Handelns bewusst sein. Ein 
 * Kooperation und Konfliktfähigkeit
 
 Kooperation und Konfliktfähigkeit sind wichtige Grundvoraussetzungen im Projektmanagement. 
-Projekte sind meist innovativ, wenig strukturiert und komplex, was Projektmitarbeiter oft vor schwierige Situationen stellt, in denen sie die üblichen Verfahren nicht mehr verwenden können. Dabei können häufig Konflikte entstehen, wobei Lösungen meist nur als Team erörtert werden können.
+Projekte sind meist innovativ, wenig strukturiert und komplex, was Projektmitarbeiter oft vor schwierige Situationen stellt, in denen sie die üblichen Verfahren nicht mehr verwenden können. Dabei können häufig Konflikte entstehen, wobei Lösungen vorwiegend nur als Team erörtert werden können.
 Projektorganisation verlangt ein einzigartiges Verständnis von Kooperation, unterdessen Erfolge, Misserfolge und der Wille, Konflikte zu lösen, die innerhalb des Projektes entstehen, stattfinden[^4]. 
 
 * Flexibilität / Agilität
@@ -39,8 +39,8 @@ Sowohl in agilen Projekten, als auch allgemein im Projektmanagement ist eine erh
 
 * Innovationsfähigkeit
 
-Ein großer Teil von Projekten sollen die Welt mit Neuheiten verändern. Dabei reicht es nicht aus bereits vorhandene Formen der Zusammenarbeit oder Produkte zu verknüpfen.
-(Innovationsfähigkeit heißt für Projektteams den Horizont zu erweitern und das, was man für die Zukunft erreichen möchte auf Realisierbarkeit und Belastungsfähigkeit zu überprüfen.
+Ein großer Teil von Projekten sollen die Welt mit Neuheiten verändern. Dabei reicht es nicht aus, bereits vorhandene Formen der Zusammenarbeit oder Produkte zu verknüpfen.
+(Innovationsfähigkeit heißt für Projektteams den Horizont zu erweitern und das, was man für die Zukunft erreichen möchte, auf Realisierbarkeit und Belastungsfähigkeit zu überprüfen.
 Neue Möglichkeiten nutzen gegebene Talente vollkommen aus, können jedoch auch neue Fähigkeiten hervorheben[^4].)
 
 
