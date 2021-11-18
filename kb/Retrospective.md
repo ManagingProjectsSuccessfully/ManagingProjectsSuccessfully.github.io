@@ -68,4 +68,4 @@ bsp
 [^1]: https://www.easyagile.com/blog/retrospectives/
 [^2]: https://luis-goncalves.com/de/agile-retrospektiven/
 [^3]: https://itadvisory.dk/wp-content/uploads/2018/11/retrospective-starfish-with-post-its.png
-[^4]:[Ralf Wirdemann, Dr. Johannes Mainusch (2017): "Scrum mit User Stories"] (https://www.hanser-elibrary.com/doi/epdf/10.3139/9783446450776.002)
+[^4]:[Ralf Wirdemann, Dr. Johannes Mainusch (2017): "Scrum mit User Stories"](https://www.hanser-elibrary.com/doi/epdf/10.3139/9783446450776.002)
