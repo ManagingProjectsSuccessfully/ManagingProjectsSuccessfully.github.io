@@ -86,7 +86,8 @@ Zudem gibt es noch weitere Analysen bei denen zum Beispiel zusätzliche noch reg
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md)
+* [Umfeldanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umfeldanalyse.md)
 * [Link auf diese Seite](PEST_Analyse.md)
 
 # Weiterführende Literatur
