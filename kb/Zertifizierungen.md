@@ -7,13 +7,13 @@ anrechnung: k oder a
 # 1. Zertifizierungen und deren Bedeutung im Projektmanagement 
 
 Bereits in den vorherigen Artikeln wurde deutlich betont, dass es nicht nur eine gültige Definition von Projektmanagement (PM) gibt und es neben der klassischen und agilen Variante zu Abweichungen in der praktischen Umsetzung kommen kann. 
-Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der Umsetzung des PM treffen zu können, ist es notwendig, die Fähigkeiten von unabhängigen und breitflächig akzeptierten Instanzen zertifizieren zu lassen. Dies geschieht über Zertifizierungsstellen wie z.B. der [DEKRA](https://www.dekra-akademie.de), dem [TÜV](https://akademie.tuv.com/catalogsearch/result/?q=Projektmanager) oder der [Deutschen Gesellschaft zur Zertifizierung von Managementsystemen (DQS)](https://www.dqs.de/de/), die neben der Lehre auch eine Prüfung zur Zertifikatsausstellung anbieten.[^1]
+Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der Umsetzung des PM treffen zu können, ist es notwendig, die Fähigkeiten von unabhängigen und breitflächig akzeptierten Instanzen zertifizieren zu lassen. Dies geschieht über Zertifizierungsstellen wie z.B. der [DEKRA](https://www.dekra-akademie.de), dem [TÜV](https://akademie.tuv.com/catalogsearch/result/?q=Projektmanager) oder der [Deutschen Gesellschaft zur Zertifizierung von Managementsystemen (DQS)](https://www.dqs.de/de/), die neben dem Lehrangebot für die Zertifizierung auch eine Prüfung zur Zertifikatsausstellung anbieten.[^1]
 
 # 2. Vergleich der Zertifizierung im PM
 
 Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche PM-Standards an. Diese Projektmanagementstandards werden oft in unterschiedlicher Modifikation von einer Organisation angeboten. Die folgende Tabelle gibt einen ersten Überblick über vier der beliebtesten Zertifizierungen in den unterschiedlichen Projektmanagementstandards.
 
-## Übersicht etablierter PM-Standards
+## Übersicht etablierter PM-Standards[^1][^2][^3] 
 
 | PM-Organisation / Anbieter                   | IPMA                     | PMI                                | PMI                                | Prince2            | Scrum.org      |
 |-----------------------------------------|--------------------------|------------------------------------|------------------------------------|--------------------|----------------|
@@ -22,7 +22,7 @@ Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besond
 | Schwerpunkt                             | Hard- und Softskills     | Methodiken wie Scrum, Kanban, etc. | Prozesse und Methoden              | Prince-2 Methodik  | Scrum Methodik |
 | Zielgruppe                              | Mittlere Erfahrung im PM | Projektmanager mit Berufserfahrung | Projektmanager mit Berufserfahrung | Anfänger           | Anfänger       |
 | Gültigkeit                              | 5 Jahre                  | 2 Jahre                            | 3 Jahre                            | 3 Jahre            | Lebenslang     |
-| Kosten                                  | Ca. 4.000 Euro           | Ca. 400 Euro                       | Ca. 3.000 Euro                     | Bis zu 1500 Euro   | Ca. 4.500 Euro; Prüfung: 150 Euro       |
+| Kosten                                  | Ca. 4.000 Euro           | Ca. 400 Euro                       | Ca. 3.000 Euro                     | Bis zu 1500 Euro   | Ca. 1.500 Euro; Prüfung: 150 Euro       |
 
 Ziel dieser Tabelle ist es, einen ersten Überblick über PM-Zertifizierungen zu geben und deren Unterschiede aufzuzeigen. Einzelne Organisationen und deren angebotenen Zertifizierungen, wie die [IPMA](IPMA_Institution.md), das [PMI](PMI_Institution.md) oder [Scrum.org](SCRUM_org_Institution.md) werden in den seperaten Arikeln näher beleuchtet.
 
@@ -65,7 +65,7 @@ Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Proj
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: [Projekte und Projektmanagement](https://link-1springer-1com-1v0gnf2jn006b.han.ub.fau.de/content/pdf/10.1007%2F978-3-658-30085-2.pdf)
+[^2]: [Zertifizierungen](https://www.peterjohann-consulting.de/zertifizierungen/#1_zertifizierungen_im_projektmanagement)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
