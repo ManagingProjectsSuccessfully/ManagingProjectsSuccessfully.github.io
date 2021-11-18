@@ -28,8 +28,7 @@ Im zweiten Schritt stellt sich die Frage, wann welche Aufgaben erledigt werden k
 
 Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein Netzplan (engl. Critical Path Analysis Chart CPA) entweder per Hand oder mit Hilfe eines Softwareprogramms         gezeichnet.
 
-![image]
-(/kb/CriticalPath-DrawNetworkDiagram.png)
+![Beispielabbildung](CriticalPath-DrawNetworkDiagram.png)
 
 **4.	Abschätzung des Zeitbedarfs aller Aufgaben**
 
@@ -68,9 +67,6 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 |Einfache Bestimmung besonders wichtiger Aufgaben und Hervorhebung von Projektengpässen|Unterschiedliche subjektive Wahrnehmung der Projektteilnehmer über Relevanz|
 |Übersichtliche Darstellung|wenige Möglichkeiten komplexe Abhängigkeiten einfach zu beschreiben|
 |Möglichkeit eines Vergleichs des geplanten Fortschritts mit aktuellem Stand und somit frühzeitige Reaktion|Schneller Verbrauch von Pufferzeiten|
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-![Beispielabbildung](Methode_des_kritischen_Pfades/test-file.jpg)
 
 
 # Siehe auch
