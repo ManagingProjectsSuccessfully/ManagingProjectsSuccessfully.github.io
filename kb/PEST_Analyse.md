@@ -60,6 +60,8 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 | Welche neuen Technologien könnten entwickelt werden[^2] | Welche Technologien benutzt mein Kunde?[^3]  |  
 | Wir wirken sich neue Technologien aus?[^2]  | Welche Unsicherheiten können bei neuen Technologien auftreten[^2] |  
 
+## Wichtige Schritte zum durchführen einer PEST - Analyse
+1. Wichtige relevante Faktoren bestimmen.  
 
 
 # Erweiterungen der PEST - Analyse
@@ -70,17 +72,6 @@ Einige der weiterführenden Analysen sind:
 * PESTEL, bei der noch legale und environmental - Umwelt Faktoren analysiert werden  
 
 Zudem gibt es noch weitere Analysen bei denen zum Beispiel zusätzliche noch regulatorische und/oder demographische Faktoren betrachtet werden.  
-
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
 
 # Siehe auch
 
@@ -96,5 +87,5 @@ Zudem gibt es noch weitere Analysen bei denen zum Beispiel zusätzliche noch reg
 [^1]: https://en.wikipedia.org/wiki/PEST_analysis
 [^2]: https://projekte-leicht-gemacht.de/blog/methoden/projektrisiken/pest-analyse/
 [^3]: https://www.youtube.com/watch?v=TNLLyS0nrM8
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: https://www.youtube.com/watch?v=mCdcdf-b8AU
 
