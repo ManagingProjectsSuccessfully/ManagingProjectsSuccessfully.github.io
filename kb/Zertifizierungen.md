@@ -32,25 +32,25 @@ Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Bud
 
 # 4. Praktische Relevanz von Zertifizierungen im PM
 
-Bereits zu Beginn dieses Artikels (vgl. 1. Zertifizierungen und deren Bedeutung im Projektmanagment) wurde aufgezeit, dass PM-Zertifizierungen eine objektive Darlegung des Wissenstands und der Fähigkeiten von Projektmangern verkörpern. Darüber hinaus gibt es weitere Beweggründe, eine PM-Zertifizierung zu erwerden. Diese werden im Folgenden kurz dargestellt.
+Bereits zu Beginn dieses Artikels (vgl. 1. Zertifizierungen und deren Bedeutung im Projektmanagment) wurde aufgezeit, dass PM-Zertifizierungen eine objektive Darlegung des Wissenstands und der Fähigkeiten von Projektmangern verkörpern.[^1] Darüber hinaus gibt es weitere Beweggründe, eine PM-Zertifizierung zu erwerden. Diese werden im Folgenden kurz dargestellt.
 
-## 4.1. Erhöhung der Glaubwürdigkeit
+## 4.1. Höhere Einstell- und Verdienstchancen auf dem Arbeitsmarkt
 
-Projektmanager mit einer PM-Zertifizierung erhöhen nachweislich ihre Glaubwürdigkeit von Kunden und Lieferanten, da sie zusätzlich Möglichkeit hatten, ihre Fachexpertise zu steigern.
+Mit der Aufnahme einer PM-Zertifizierung in den Lebenslauf, steigt nicht nur nicht die Einstellwahrscheinlichkeit, sondern auch die Gehaltaussichten in Anhägigkeit von der Branche und der Unternehmensgröße. Nicht zu vernachlässigen ist, dass Projektmanager mit 6 bis 10 Jahren Berufserfahrung im Durschnitt bereits über 87.000 Euro Brutto-Jahresgehalt erzielen und monetär weniger Anreize zur Weiterbildung haben.[^8] Demnach stärkt eine Zertifizierung ungemein die Reputation des Projektmanagers.
 
-## 4.2. Höhere Chancen auf dem Arbeitsmarkt
-
-Mit der Aufnahme einer PM-Zertifizierung in den Lebenslauf, steigt nicht nur nicht die Einstellwahrscheinlichkeit, sondern auch die Gehaltaussichten in Anhägigkeit von der Branche und der Unternehmensgröße. Nicht zu vernachlässigen ist, dass Projektmanager mit 6 bis 10 Jahren Berufserfahrung im Durschnitt bereits über 87.000 Euro Brutto-Jahresgehalt erzielen und monetär weniger Anreize zur Weiterbildung haben. Demnach stärkt eine Zertifizierung ungemein die Reputation des Projektmanagers.
-
-Die [folgende Grafik](https://www.theprojectgroup.com/blog/projektmanagement-zertifizierung/) verdeutlicht den Gehaltsvorsprung, den zertifizierte Projektmanager im Durchschnitt erzielen. 
+Die folgende [Grafik](https://www.theprojectgroup.com/blog/projektmanagement-zertifizierung/) verdeutlicht den Gehaltsvorsprung, den zertifizierte Projektmanager im Durchschnitt erzielen. 
 
 ![Abbildung 1](Zertifizierungen/Gehaltsvergleich.jpg)
 
 Die Abbildung zeigt, dass nicht jede erlangte Zertifizierung Verdienstmöglichkeiten über dem Durchschnittsgehalt von 80.251 Euro Brutto-Jahresgehalt im PM garantiert. Dennoch ist der Erwartungwert des Mehrverdienstes mit 1.551 Euro (Durschnitts Brutto-Jahresgehalt mit Zertifizierung - Durschnitts Brutto-Jahresgehalt ohne Zertifizierung = 80.251 Euro - 78.700 Euro = 1.551 Euro) positiv und oft bereits deutlich höher als die Kosten der Zertifizierung. Setzt man die Mehrverdienstmöglichkeiten für Projektmanager mit einer Zertifizierung im Verhältnis zu den Zertifizierungskosten, so ist der Return on Investment mit einer   [Prince2 Foundation-](https://www.prince2.com/de) und einer [PMP-Zertifizierung](https://www.pmi-gc.de/das-chapter/pmi) am höchsten. Diese Tatsache berücksichtigt jedoch nicht die zuvor (vgl. 3. Auswahl der passenden Zertifizierung) Faktoren wie Kenntnisstand, Anforderungen des Arbeitgebers, oder individuell unterschiedliche Faktoren wie der Vorbereitungsdauer.
 
+## 4.2. Kürzere Einarbeitungszeiten und Karrieresprünge
+
+Durch eine erlangete Zertifizierung im PM werden nicht nur Einarbeitungszeiten aufgrund der bereits erworbenen fachlichen und/oder methodischen Fähigkeiten für neue Mitarbeiter verkürzt, sondern auch Karrieresprünge für bestehende Mitarbeiter ermöglicht.[^9][^10]
+
 # Fazit
 
-Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Projektmanagern eine Zertifizierung anhand der persönlichen Bedürfnissen auszuwählen. Auch wenn eine Zertifizierung nicht immer zu einer überdurchschnittliche Bezahlung führt, wurde eine Vielzahl an Vorteilen aufgezeigt, wie beispielsweise die Erhöhung der Glaubwürdigkeit oder schlichtweg eine objektive Darlegung der eigenen Fähigkeiten, was wiederum berufliche Eintrittsbarrieren mindern kann.
+Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Projektmanagern eine Zertifizierung anhand der persönlichen Bedürfnissen auszuwählen. Auch wenn eine Zertifizierung nicht immer zu einer überdurchschnittliche Bezahlung führt, wurde eine Vielzahl an Vorteilen aufgezeigt, wie beispielsweise die Verkürzung der Einarbeitungszeit oder schlichtweg eine objektive Darlegung der eigenen Fähigkeiten, was wiederum auch berufliche Eintrittsbarrieren mindern kann.
 
 # Abkürzungsverzeichnis
 
@@ -72,12 +72,9 @@ Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Proj
 [^5]: [Prince2 Häufig gestellte Fragen](https://www.prince2.com/de/prince2-frequently-asked-questions)
 [^6]: [Professional Scrum Master - Essen, APR 29-30, 2019](https://www.scrum.org/courses/professional-scrum-master-essen-2019-04-29-26497)
 [^7]: [Was bietet die Zertifizierung zum "PMI Agile Certified Practitioner" (PMI-ACP)?Projektmanagement Zertifizierung – Überblick und Empfehlungen](https://www.projektmagazin.de/artikel/was-bietet-die-zertifizierung-zum-pmi-agile-certified-practitioner-pmi-acp_1078661)
-[^8]: []()
-[^9]: []()
-[^10]: []()
-[^11]: []()
-[^12]: []()
-[^13]: []()
+[^8]: [Projektmanagement: Wer verdient wie viel](https://www.academics.de/ratgeber/projektmanager-gehalt)
+[^9]: [Projektmanagement-Zertifizierung: Sinn oder Unsinn?](https://www.haufe-akademie.de/blog/themen/projekt-prozessmanagement/projektmanagement-zertifizierungen-sinn-oder-unsinn/)
+[^10]: [Strategisches Projektmanagement](https://link-1springer-1com-1v0gnf2jn0092.han.ub.fau.de/content/pdf/10.1007%2F978-3-642-34761-0.pdf)
 
 
 
