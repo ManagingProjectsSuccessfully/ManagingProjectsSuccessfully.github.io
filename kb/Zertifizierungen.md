@@ -13,7 +13,7 @@ Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der
 
 Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche PM-Standards an. Diese Projektmanagementstandards werden oft in unterschiedlicher Modifikation von einer Organisation angeboten. Die folgende Tabelle gibt einen ersten Überblick über vier der beliebtesten Zertifizierungen in den unterschiedlichen Projektmanagementstandards.
 
-## Übersicht etablierter PM-Standards[^1][^2][^3] 
+## Übersicht etablierter PM-Standards[^2][^3][^4][^5][^6][^7]
 
 | PM-Organisation / Anbieter                   | IPMA                     | PMI                                | PMI                                | Prince2            | Scrum.org      |
 |-----------------------------------------|--------------------------|------------------------------------|------------------------------------|--------------------|----------------|
@@ -28,7 +28,7 @@ Ziel dieser Tabelle ist es, einen ersten Überblick über PM-Zertifizierungen zu
 
 # 3. Auswahl der passenden Zertifizierung
 
-Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget, dem aktuellen Wissensstand oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitnehmer die Anerkennung des Zertifikats bei internationalen Arbeitgebern, so bietet sich ein Zertifikat der [IPMA-Organisation](https://www.gpm-ipma.de/ueber_uns/ipma.html) an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PM Zertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das [PMP-Zertifikat](https://www.pmi-gc.de/das-chapter/pmi) oder die [PMI-ACP-Zertifizierung](https://www.pmi.org/certifications/agile-acp) der PMI eine höhere Chance, anerkannt zu werden. 
+Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget, dem aktuellen Wissensstand oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitnehmer die Anerkennung des Zertifikats bei internationalen Arbeitgebern, so bietet sich ein Zertifikat der [IPMA-Organisation](https://www.gpm-ipma.de/ueber_uns/ipma.html) an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PM Zertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das [PMP-Zertifikat](https://www.pmi-gc.de/das-chapter/pmi) oder die [PMI-ACP-Zertifizierung](https://www.pmi.org/certifications/agile-acp) der PMI eine höhere Chance, anerkannt zu werden.[^2][^3]
 
 # 4. Praktische Relevanz von Zertifizierungen im PM
 
@@ -67,5 +67,17 @@ Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Proj
 
 [^1]: [Projekte und Projektmanagement](https://link-1springer-1com-1v0gnf2jn006b.han.ub.fau.de/content/pdf/10.1007%2F978-3-658-30085-2.pdf)
 [^2]: [Zertifizierungen](https://www.peterjohann-consulting.de/zertifizierungen/#1_zertifizierungen_im_projektmanagement)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^3]: [Karriere: IPMA®, PMI® oder PRINCE2® - welche Projektmanagement-Zertifizierung ist die richtige?](https://firmen.handelsblatt.com/projektmanagement-zertifizierung.html)
+[^4]: [Projektmanagement Zertifizierung – Überblick und Empfehlungen](https://greenprojectsconsulting.com/projektmanagement/projektmanagement-zertifizierung/#t-1626027170949)
+[^5]: [Prince2 Häufig gestellte Fragen](https://www.prince2.com/de/prince2-frequently-asked-questions)
+[^6]: [Professional Scrum Master - Essen, APR 29-30, 2019](https://www.scrum.org/courses/professional-scrum-master-essen-2019-04-29-26497)
+[^7]: [Was bietet die Zertifizierung zum "PMI Agile Certified Practitioner" (PMI-ACP)?Projektmanagement Zertifizierung – Überblick und Empfehlungen](https://www.projektmagazin.de/artikel/was-bietet-die-zertifizierung-zum-pmi-agile-certified-practitioner-pmi-acp_1078661)
+[^8]: []()
+[^9]: []()
+[^10]: []()
+[^11]: []()
+[^12]: []()
+[^13]: []()
+
+
+
