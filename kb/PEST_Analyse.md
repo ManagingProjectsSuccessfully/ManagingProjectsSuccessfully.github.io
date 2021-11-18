@@ -37,6 +37,11 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 | Könnte sich der politische Kurs ändern und könnten neue Gesetze erlassen werden?   | Wie sehr stehen die Stakeholder hinter meinem Projekt?  |
 
 ### Wirtschaftliche Faktoren
+| Organisationsbezogen  | Projektbezogen |
+| ------------- | ------------- |
+| Wie sieht das Wirtschaftswachstum aus? | Wie sehr ist das Projekt von Geldgebern abhängig?  |  
+| Wie entwickeln sich die Zinsen in einem Land?  | Gibt es wirtschaftliche Risiken für das Projekt? |
+
 Auf ein einzelnes Projekt bezogen ergeben sich zu diesem Faktor Fragen wie zum Beispiel ein Projekt finanziert wird und ob es eventuell öffentliche Fördermittel für bestimme Projekte gibt oder wie sehr die Firma sich von dem Projekt erhofft und dementsprechend auch bereit ist entsprechende finanzielle Mittel bereitzustellen.
 Für eine Organisation ergeben sich eher Fragen, ob die Entwicklung der Branche eher positiv ist oder ob Einkaufpreise stabil sind 
 
