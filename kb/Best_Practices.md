@@ -5,10 +5,10 @@ author: tobi0211
 anrechnung: k
 ---
 
-Ein Projekt zu planen und zu überwachen, sodass sowohl Erwartungen als auch Zeitpläne und Budgets eingehalten werden können, ist eine herausfordernde Aufgabe. Hierbei können leicht Details vergessen werden. Um dies zu verhindern kann auf verschiedene Tipps bzw. Best Practices zurückgegriffen werden, im Folgenden werden von diesen einige grundsätzliche ausgeführt. 
+Ein Projekt zu planen und zu überwachen, sodass sowohl Erwartungen als auch Zeitpläne und Budgets eingehalten werden können, ist eine herausfordernde Aufgabe. Hierbei können leicht Details vergessen werden. Um dies zu verhindern kann auf verschiedene Tipps bzw. Best Practices zurückgegriffen werden, im Folgenden werden von diesen einige grundsätzliche Best Practices ausgeführt. 
 
 ## 1. Frühzeitige und regelmäßige Kommunikation mit allen Stakeholdern:
-Von Projektbeginn an sollten alle Stakeholder über Ziele und aktuelle Zwischenstände des Projekts regelmäßig informiert werden. Zu den Stakeholdern gehören beispielsweise die Teammitglieder, Manager oder auch Externe wie Kunden.[^1] 
+Von Projektbeginn an sollten alle Stakeholder im Rahmen des [Stakeholdermanagements](kb/Stakeholdermanagement.md) über Ziele und aktuelle Zwischenstände des Projekts regelmäßig informiert werden. Zu den Stakeholdern gehören beispielsweise die Teammitglieder, Manager oder auch Externe wie Kunden.[^1] 
 
 ## 2. Kommunikation von Auswirkungen bei Erweiterung des Projektumfangs:
 An den 1.Punkt schließt sich die Kommunikation bei Erweiterungen des Projektumfangs direkt an. Oft ergeben sich während des Projekts neue Anfragen von Stakeholdern, bspw. dem Vorstand, die Auswirkungen auf Zeitplan und Budget haben können. Auch hier sollte frühzeitig mit allen Stakeholdern kommuniziert werden, um Konflikten vorzubeugen und bei allen ein klares Verständnis über sich ergebende Abweichungen durch Erweiterung des Projektumfangs zu schaffen. 
