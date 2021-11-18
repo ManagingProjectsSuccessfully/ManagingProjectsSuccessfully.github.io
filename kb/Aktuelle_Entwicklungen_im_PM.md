@@ -33,9 +33,11 @@ Damit sich das Team selbst organisieren kann, unterstützt die Führungskraft de
 Um für den Kunden einen positiven Nährwert zu erschaffen, kann man zum Beispiel einen Prototyp erstellen, mit dem man sich immer näher, in wiederholten Schritten, der gesuchten Lösung nähert. 
 
 6. Kundennutzen
+
 Wichtig ist nicht alleine ein hervorragendes Produkt zu entwickeln, sondern eine nachhaltige Kombination aus Produkt und Dienstleistung zu bieten, um einen Kundennutzen zu erschaffen, der langfristig zu Kundenbindung führt.
 
 7. Übergreifende Abstimmung
+
 Kontaktpunkte zwischen Projekt und der restlichen Organisation bedürfen einer hohen Führungskunst. Ungewollte Störfaktoren werden vermieden, indem man sich mit anderen Teams, der übrigen Organisation oder den Fachabteilungen abspricht [^2].
 
 
