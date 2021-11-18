@@ -14,7 +14,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 ## Definition
 
 <img align="right" width="270" height="150" src="Design_Thinking/Design-Thinking.jpg">
-<div style="text-align: justify"> [^1] </div>
+<div style="text-align: "right"> [^1] </div>
 
 *“Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.”*[^2]  
 
