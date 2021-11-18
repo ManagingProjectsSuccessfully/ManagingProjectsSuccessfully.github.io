@@ -51,7 +51,7 @@ Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden n
 
 # Vor- und Nachteile
 
-| Vorteile des Design Thinkings |  Nachteile des Design Thinkings |
+| Vorteile des Design Thinkings Some Markdown text with <span style="color:blue">some *blue* text</span>. |  Nachteile des Design Thinkings |
 | ----------------------------- | ------------------------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
