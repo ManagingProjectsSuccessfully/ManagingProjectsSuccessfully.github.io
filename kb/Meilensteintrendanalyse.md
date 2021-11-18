@@ -24,19 +24,19 @@ Die Meilensteintrendanalyse kann grundsätzlich bei allen Arten von Projekten an
 Nachdem am Anfang des Projektes die Meilensteine festgelegt werden, folgt im Laufe der Projektdurchführung regelmäßige Statusbesprechungen um die Entwicklung der Meilensteine im Blick zu haben. Dabei sollten alle Mitarbeiter anwesend sein, die für einen oder mehrere Meilensteine verantwortlich sind. Bei diesen Meetings werden neben bereits erledigten Aufgaben, dabei aufgetretene Probleme, Planungsschwächen und weitere Vorgehensweisen für folgende Meilensteine besprochen[^4]. 
 
 ## Aufbau
-Besonders wirkungsvoll ist die grafische Darstellung der Meilensteine. Dazu wird ein Diagramm erstellt. An der y-Achse werden die geplanten Termine der Meilensteine abgetragen. An der x-Achse werden die tatsächlichen Berichtszeitpunkte eingetragen. Dabei entsteht eine Winkelhalbierende. Idealerweise fallen die geplanten Termine mit den letzten Berichtszeitpunkten zusammen. Das bedeutet, dass der Termin eingehalten wurde. Dies passiert in der Realität aber sehr selten[^7].
+Besonders wirkungsvoll ist die grafische Darstellung der Meilensteine. Dazu wird ein Diagramm erstellt. An der y-Achse werden die geplanten Termine der Meilensteine abgetragen. An der x-Achse werden die tatsächlichen Berichtszeitpunkte eingetragen. Dabei entsteht eine Winkelhalbierende. Idealerweise fallen die geplanten Termine mit den letzten Berichtszeitpunkten zusammen. Das bedeutet, dass der Termin eingehalten wurde. Dies passiert in der Realität aber sehr selten[^6].
 
 ![image](https://user-images.githubusercontent.com/92922561/141102712-a9303b9b-83bd-424f-9a6b-8bb75ccfd1aa.png)
 
 ## Analyse
 Die Steigungen im Diagramm haben folgende Bedeutungen:
 
-* Horizontale Linien: Hier wurde der Termin wie geplant eingehalten. Es gibt keine Verzögerungen und der nächste Projektschritt kann auf das abgeschlossene Teilprojekt aufgebaut werden
-* Steigende Linien: Der Termin hat sich verzögert. Es sollen dringend Maßnahmen ergriffen werden, um einigermaßen im Zeitplan bleiben zu können, damit sich andere Projektschritte nicht weiter nach hinten verschieben.
+* Horizontale Linien: Hier wurde der Termin wie geplant eingehalten. Es gibt keine Verzögerungen und der nächste Projektschritt kann auf das abgeschlossene Teilprojekt aufgebaut werden [^1].
+* Steigende Linien: Der Termin hat sich verzögert. Es sollen dringend Maßnahmen ergriffen werden, um einigermaßen im Zeitplan bleiben zu können, damit sich andere Projektschritte nicht weiter nach hinten verschieben [^1].
 * Fallende Linien: Hier konnte der Termin nicht nur eingehalten werden, sondern der Meilenstein auch frühzeitig abgeschlossen werden. Dies ist sehr von Vorteil, wenn sich zukünftige Termine im Projekt verzögern werden, da eine Art Zeitpuffer geschaffen wurde, der später genutzt werden kann, um bei kommenden Meilensteinen den Zeitplan einhalten zu können [^1].
 
 # Tools zur Anwendung der Meilensteintrendanalyse 
-Obwohl sich die Meilensteinstrendanalyse auch ganz einfach auf dem Papier anwenden lässt, gibt es mittlerweile zahlreiche Excel Add-ons, Tools bei Microsoft Project oder [Cloudbasierte Services](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cloud_Services.md), deren Zweck es ist, den Projektfortschritt professionell zu visualisieren [^6].
+Obwohl sich die Meilensteinstrendanalyse auch ganz einfach auf dem Papier anwenden lässt, gibt es mittlerweile zahlreiche Excel Add-ons, Tools bei Microsoft Project oder [Cloudbasierte Services](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cloud_Services.md), deren Zweck es ist, den Projektfortschritt professionell zu visualisieren [^7].
 
 # Siehe auch
 
@@ -56,6 +56,6 @@ Obwohl sich die Meilensteinstrendanalyse auch ganz einfach auf dem Papier anwend
 [^3]: [Excel-Vorlage “Meilensteintrendanalyse”](https://exceltricks.blog/mit-dieser-excel-vorlage-koennen-sie-eine-meilensteintrendanalyse-fuer-ihre-projekte-durchfuehren/)
 [^4]: [Meilensteintrendanalyse](https://www.graduateschools.uni-wuerzburg.de/fileadmin/43030000/GSST/events_and_training_activities/Meilensteintrendanalyse.pdf)
 [^5]: [Meilensteintrendanalyse (MTA)](https://www.controllingportal.de/Marktplatz/Excel-Tools/Meilensteintrendanalyse-MTA.html) 
-[^6]: [Meilensteintrendanalyse](https://de.wikipedia.org/wiki/Meilensteintrendanalyse) 
 [^7]: [Meilensteintrendanalyse](https://www.projektmagazin.de/glossarterm/meilensteintrendanalyse)
+[^6]: [Meilensteintrendanalyse](https://de.wikipedia.org/wiki/Meilensteintrendanalyse)
 
