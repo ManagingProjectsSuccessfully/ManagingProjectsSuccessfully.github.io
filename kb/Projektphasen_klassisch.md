@@ -2,7 +2,7 @@
 title: Projektphasen_klassisch
 tags: agil klassisch
 author: vegas1337
-anrechnung: k
+anrechnung: klassisch
 ---
 
 Eine Projektphase ist "ein definierter Zeitraum innerhalb der Laufzeit eines [Projekts](Projekt.md), der meist durch jeweils einen [Meilenstein](Meilensteine.md) zu Beginn und Ende im Ablaufplan definiert ist".[^1]
