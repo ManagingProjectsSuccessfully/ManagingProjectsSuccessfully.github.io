@@ -66,7 +66,7 @@ Im Folgenden werden für jeden Faktor mögliche Fragestellungen aufgelistet:
 Es ist für eine Organisation wichtig zu wissen, welche Faktoren am ehesten für Sie relevant sind, zum Beispiel können für einen Industriekonzern technologische Faktoren wichtiger  sein, als sozio-kulturelle Fakoren.  
 
 2. Bewerten, inwiefern die Faktoren die Organisation beeinflussen[^4]  
-In diesem Schritt wird bewertet inwiefern sich verschiedene Faktoren auf unterschiedlichenen Eben auswirken können. 
+In diesem Schritt wird bewertet inwiefern sich verschiedene Faktoren auf unterschiedlichenen Ebenen auswirken können. 
 Ein Industriekonzern zum Beispiel muss genau wissen, wie sich eine Änderung in der Fertigungstechnologie auf die eigenen Produkte auswirkt. Eine solche Änderung hat
 jedoch wenig Relevanz, wenn es um die Koordinierung von Projekten oder die Zusammenarbeit zwischen verschiedenen Werken geht.  
 
