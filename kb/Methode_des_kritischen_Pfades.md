@@ -18,7 +18,7 @@ Die Methode des kritischen Pfades (engl. Critical Path Method CPM) ist ein Proje
 
 **1.	Bestimmung und Auflistung aller Vorgänge**
 
-Als Grundlage für das weitere Vorgehen wird zunächst ein sogenannter Projekt-Struktur-Plan (PSP, engl. Work Breakdown Structure WBS) erstellt, welcher nur übergeordnete         Vorgänge enthält. Der Verzicht auf detaillierte Abläufe sorgt dafür, dass der kritische Pfad am Ende nicht zu komplex und unübersichtlich gestaltet ist. [^3]
+Als Grundlage für das weitere Vorgehen wird zunächst ein sogenannter [Projekt-Struktur-Plan](https://de.wikipedia.org/wiki/Projektstrukturplan) (PSP, engl. Work Breakdown Structure WBS) erstellt, welcher nur übergeordnete         Vorgänge enthält. Der Verzicht auf detaillierte Abläufe sorgt dafür, dass der kritische Pfad am Ende nicht zu komplex und unübersichtlich gestaltet ist. [^3]
 
 **2.	Ermittlung aller Abfolgen und Abhängigkeiten**
 
@@ -26,7 +26,7 @@ Im zweiten Schritt stellt sich die Frage, wann welche Aufgaben erledigt werden k
 
 **3.	Erstellung eines Netzplans**
 
-Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein Netzplan (engl. Critical Path Analysis Chart CPA) entweder per Hand oder mit Hilfe eines Softwareprogramms         gezeichnet.
+Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein [Netzplan](https://de.wikipedia.org/wiki/Netzplantechnik) (engl. Critical Path Analysis Chart CPA) entweder per Hand oder mit Hilfe eines Softwareprogramms         gezeichnet.
 
 ![Netzplan](/kb/Methode_des_kritischen_Pfades/CriticalPath-DrawNetworkDiagram.png)
 
