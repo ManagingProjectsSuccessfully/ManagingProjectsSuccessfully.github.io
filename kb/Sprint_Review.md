@@ -46,7 +46,11 @@ Manager oder ein Vertreter aus diversen Bereichen sein.
 
 ## Ablauf eines Sprint Reviews
 
-Üblicherweise dauert ein solches Meeting circa vier Stunden, sollten die Sprints aber kürzer sein, fällt auch die Dauer der Besprechung dementsprechend knapper aus[^2]. 
+Üblicherweise dauert ein solches Meeting circa vier Stunden, sollten die Sprints aber kürzer sein, fällt auch die Dauer der Besprechung dementsprechend knapper aus[^2].
+Was auch bereits im darunterstehenden Bild illustriert wurde, soll im Folgenden noch genauer erläutert werden:
+
+![Beispielabbildung](Sprint_Review/Sprint_Review_Meeting.png)
+
 
 ### Folgeschritte[^4]
 
@@ -80,10 +84,6 @@ Manager oder ein Vertreter aus diversen Bereichen sein.
 
 
 # Fazit
-
-![Beispielabbildung](Sprint_Review/test-file.jpg)
-
-*lustiges Testbild*
 
 
 Demnach beinhaltet ein Sprint den Sprint Review, welcher nochmals in mehrere Bestandteile aufgegliedert werden kann. Schlüsselelement dabei ist vor allem die Demo des
