@@ -33,10 +33,8 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 ### Politische Faktoren
 | Organisationsbezogen  | Projektbezogen |
 | ------------- | ------------- |
-| Content Cell  | * Wie wirkt sich die Unternehmensstrategie auf das Projekt aus?  |  
-| Placeholder   | * Wie sehr stehen die Stakeholder hinter meinem Projekt?  |
-Für gesamte Organisationen stellen sich eher Fragen, welche sich auf die jeweiligen Gestzeslage in einem Land beziehen oder wie sich zum Beispiel der politische Kurs in einem Land durch eine Wahl ändern könnte.[^3]
-
+| * Wie sehen die gesetzlichen Rahmenbedingungen aus?  | * Wie wirkt sich die Unternehmensstrategie auf das Projekt aus?  |  
+| 'Könnte sich der politische Kurs ändern und könnten neue Gesetze erlassen werden?   | * Wie sehr stehen die Stakeholder hinter meinem Projekt?  |
 
 ### Wirtschaftliche Faktoren
 Auf ein einzelnes Projekt bezogen ergeben sich zu diesem Faktor Fragen wie zum Beispiel ein Projekt finanziert wird und ob es eventuell öffentliche Fördermittel für bestimme Projekte gibt oder wie sehr die Firma sich von dem Projekt erhofft und dementsprechend auch bereit ist entsprechende finanzielle Mittel bereitzustellen.
