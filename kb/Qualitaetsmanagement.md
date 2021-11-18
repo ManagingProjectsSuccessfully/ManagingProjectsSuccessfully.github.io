@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 # Qualitätsmanagement
-Das Qualitätsmanagement ist in erster Linie ein Vorgang, dessen Fokus auf der Verbesserung der Qualität von beispielsweise Prozessen oder Produkten liegt. Die Qualität selbst kann dabei vor allem anhand des Grades der Erfüllung der Kundenerwartungen festgestellt werden[^1].
+Das Qualitätsmanagement ist in erster Linie ein Vorgang, dessen Fokus auf der Verbesserung der Qualität von Prozessen oder Produkten liegt. Die Qualität selbst kann dabei vor allem anhand des Grades der Erfüllung der Kundenerwartungen festgestellt werden[^1].
 
 ## Definitionen Qualitätsmanagement
 ### DIN EN ISO 9000:2005
@@ -19,7 +19,6 @@ Das Qualitätsmanagement ist außerdem eine wichtige Wissenssparte des [PMBOK](P
 ## Ziele des Qualitätsmanagements
 * Verbesserung der Kundenbeziehungen durch Qualitätssicherheit und Zuverlässigkeit
 * kontinuierliche Verbesserung der Prozesse im Projekt mithilfe des [PDCA-Prozesses](https://de.wikipedia.org/wiki/Demingkreis)[^4]
-![PDCA-Prozess](Qualitaetsmanagement/pdca-new.png)
 
 ## Ablauf des Qualitätsmanagements
 ### grobe Bestandteile
@@ -37,120 +36,24 @@ Das Qualitätsmanagement ist außerdem eine wichtige Wissenssparte des [PMBOK](P
   - Die Ergebnisse werden ausgewertet und schriftlich dokumentiert. Dieser Vorgang dient der Kontrolle der anfangs festgelegten Ziele und der Aufdeckung von Fehlern.
 * Phase 4: Qualitätsgewinn
   - In der letzten Phase werden die gewonnenen Erkenntnisse genutzt um gegen Abweichungen vorzugehen und Prozesse zu verbessern. Dafür ist eine Kommunikation der Ergebnisse erforderlich[^6][^7]
+![PDCA-Prozess](Qualitaetsmanagement/pdca-new.png)
 
 ## Qualitätsmanagementmodelle
-### Bsp: Total Quality Management, Six Sigma, PDCA, EFQM https://www.business-wissen.de/hb/modelle-und-werkzeuge-im-qualitaetsmanagement/
+### Total Quality Management (TQM)
+Das [Total Quality Management](https://de.wikipedia.org/wiki/Total-Quality-Management) ist eines der bekanntesten Modelle des Qualitätsmanagements neben [Six Sigma](Six_Sigma.md) und [EFQM](https://de.wikipedia.org/wiki/EFQM-Modell)[^8].
+Es dient zur Fehlereliminierung in allen Bereichen eines Projektes oder einer Organisation. Dabei werden alle Parteien, die am Prozess beteiligt sind miteinbezogen[^9]. Die Maßnahmen, welche bei dieser Art des Qualitätsmanagements im Vordergrund stehen sind die effektive Datenanalyse, Kommunikation und Strategieplanung[^10]. Die Ziele, die mit dem Total Quality Management verfolgt werden, sind die Verbesserung des Supply Chain Managements und der Kundenbeziehungen[^9] sowie eine Förderung des Engagements der Mitarbeiter in Bezug auf das Qualitätsmanagement. Dies geschieht durch einen fortlaufenden Prozess und kontinuierlichen Fortschritt[^10].
+### Six Sigma
+Im Gegensatz zum Total Quality Management, welches eher eine auf die lange Frist ausgerichtete Methode ist, konzentriert sich Six Sigma auf die Implementierung kleiner, notwendiger Veränderungen, um die Qualität zu steigern und Fehler zu minimieren. Deshalb ist dieses Modell auch etwas komplizierter in der Praxis, als das TQM[^11].
+### EFQM
+Ziel des EFQM-Modells ist es einen europäischen Ansatz für das Qualitätsmanagement zu schaffen[^12]. Es basiert auf drei grundlegenden Fragen, nach welchen ein Unternehmen sein Qualitätsmanagement gestalten sollte. Zentral sind hierbei der Unternehmensgegenstand, die Stragie, mit der es diesen verwirklichen will und die Resultate, die das Unternehmen bisher erzielt hat und zu erzielen plant[^13].
 
 ## Nachteile des Qualitätsmanagements
-Trotz seiner vielen Vorteile bringt das Qualitätsmanagement auch Belastungen mit sich. Diese sind vor allem die verursachten Kosten, bei denen zwischen Kosten durch die Nicht-Erfüllung der Qualitätsansprueche und Kosten für die Sicherstellung der Qualität unterschieden werden kann. Zudem spielt hier auch der zeitliche Aufwand eine wichtige Rolle[^2].
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Kurzbeschreibung zu Qualitaetsmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Qualitaetsmanagement/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Qualitaetsmanagement.md)
+Trotz seiner vielen Vorteile bringt das Qualitätsmanagement auch Belastungen mit sich. Diese sind vor allem die verursachten Kosten, bei denen zwischen Kosten durch die Nicht-Erfüllung der Qualitätsansprüche und Kosten für die Sicherstellung der Qualität unterschieden werden kann. Zudem spielt hier auch der zeitliche Aufwand eine wichtige Rolle[^2].
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* "Grundlagen Qualitätsmanagement: Von den Werkzeugen über Methoden zum TQM" (Brüggemann, H.)
+* "Qualitätsmanagement: - Kompaktes Wissen - Konkrete Umsetzung - Praktische Arbeitshilfen" (Weidner, G.E.)
 
 # Quellen
 
@@ -161,5 +64,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^5]: [Project Quality Management According to the PMBOK](https://www.projectengineer.net/project-quality-management-according-to-the-pmbok/)
 [^6]: [Die 4 Phasen des klassischen Qualitätsmanagements](https://www.weiterbildung-im-fernstudium.de/qualitaetsmanagement/die-4-phasen-des-klassischen-qualitaetsmanagements-260#:~:text=Die%204%20Phasen%20des%20klassischen%20Qualit%C3%A4tsmanagements%201%20Qualit%C3%A4tsplanung.,Verbesserung%20von%20Strukturen%20und%20Prozessen%20genutzt%20und%20eingesetzt.)
 [^7]: [Die 5 Phasen des klassischen Qualitätsmanagements](https://www.brewes.de/magazin/die-5-phasen-des-qualitatsmanagements)
+[^8]: [Modelle und Werkzeuge im Qualitätsmanagement](https://www.business-wissen.de/hb/modelle-und-werkzeuge-im-qualitaetsmanagement/)
+[^9]: [Total Quality Management (TQM)](https://www.investopedia.com/terms/t/total-quality-management-tqm.asp)
+[^10]: [What is Total Quality Management(TQM)?](https://asq.org/quality-resources/total-quality-management#Elements)
+[^11]: [Comparison of Six Sigma and Total Quality Management](https://www.managementstudyguide.com/six-sigma-and-total-quality-management.htm)
+[^12]: [TQM](https://keytodata.com/glossar/tqm/)
+[^13]: [The EFQM Model](https://www.efqm.org/efqm-model)
 
 
