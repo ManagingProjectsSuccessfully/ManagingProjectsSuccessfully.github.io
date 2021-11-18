@@ -47,12 +47,13 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 | Organisationsbezogen  | Projektbezogen |
 | ------------- | ------------- |
 | Wie ist die demographische Lage? | Wie wirkt sich die Teamstruktur auf das Projekt aus?[^2]  |  
-| Gibt es bestimmte kulturelle Tabu- Themen?[^2]  | Existieren zwischenmenschliche Stolperfallen im Projekt?[^2] |
+| Gibt es bestimmte kulturelle Tabu- Themen?[^2]  | Existieren zwischenmenschliche Stolperfallen im Projekt?[^2] |  
 
-Welche Technologien werden im Projekt benötigt?
-Von welchen Technologien bin ich abhängig?
-Welche Technologien benutzt der Kunde?
-
+### Technische Faktoren
+| Organisationsbezogen  | Projektbezogen |
+| ------------- | ------------- |
+| Welche neuen Technologien könnten entwickelt werden[^2] | Welche Technologien benutzt mein Kunde?[^3]  |  
+| Wir wirken sich neue Technologien aus?[^2]  | Welche Unsicherheiten können bei neuen Technologien auftreten[^2] |  
 
 
 # Aspekt 2
