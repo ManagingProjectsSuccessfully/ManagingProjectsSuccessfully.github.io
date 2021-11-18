@@ -16,17 +16,11 @@ Die PEST Analyse ist ein eine Analysemethode, welche ursprünglich aus dem stret
 Ziel der Analyse ist es externe Einflussfaktoren auf eine Organisation zu erkennen, sowie Chancen und Risiken zu identifizieren um anschließend geeignete
 Maßnahmen definieren zu können. Im Projektmanagement wird die PEST - Analyse unter anderem in folgenden Bereichen eingesetzt:[^2]  
 
-* Test
-* Test
+* Um neue Projekte zu identifizieren
+* Zur Priorisierung von Projekten
+* Für das identifizieren von Risiken im Rahhmen einer Risikoanalyse (Link auf Risikoanalyse setzen)
+* Um Einflussfaktoren im Rahmen einer Umfeldanalyse zu sammeln (Link auf Umfeldanalyse setzen)
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
