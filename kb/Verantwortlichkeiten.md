@@ -8,7 +8,7 @@ anrechnung: k
 Verantwortlichkeit trägt die Bedeutung des Verantwortlichseins und/oder die Verantwortung für eine bestimmte Handlung tragen[^1].
 In Verbindung mit dem Projektmanagement spielt die Verantwortlichkeit eine entscheidende Rolle.
 
-# Verantwortlichkeit im Projektmanagement
+# Arten der Verantwortlichkeit
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
