@@ -27,6 +27,9 @@ In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereic
 * Economic - Wirtschaftliche Faktoren
 * Socio-Cultural - Sozio-kulturelle Faktoren
 * Technical - Technische Faktoren  
+Innerhalb von Projekten wird die PEST - Analyse meist in einer frühen Projektphase im Rahmen einer umfassenderen Umfeld- und/oder Risikoanalyse eingesetzt. 
+Da es nicht einfach ist auf Anhieb mögliche Einflussfaktoren auf Projekte zu ermitteln, hilft die PEST - Analyse vor allem dabei nichts zu vergessen und sich von
+den verschiedenen Kategorien inspirieren zu lassen.[^2]  
 
 ![Faktoren](PEST_Analyse/pest-analyse-projekt.jpg)  
 Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder aber für eine gesamte Organisation, ergeben sich innerhalb der Faktoren ganz unterschiedliche Fragestellungen. Im Folgenden werden für jeden Faktor mögliche Fragestellungen aufgelistet
@@ -54,6 +57,7 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 | ------------- | ------------- |
 | Welche neuen Technologien könnten entwickelt werden[^2] | Welche Technologien benutzt mein Kunde?[^3]  |  
 | Wir wirken sich neue Technologien aus?[^2]  | Welche Unsicherheiten können bei neuen Technologien auftreten[^2] |  
+
 
 
 # Aspekt 2
