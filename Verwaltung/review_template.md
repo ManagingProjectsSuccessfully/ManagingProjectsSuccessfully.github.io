@@ -5,6 +5,8 @@ tags: orga
 
 
 # Bewertungstabelle für das Review. 
+Auf Raw, dann kopieren
+nur ganze Zahlen, nur ja oder nein 
 
 
 | Kriterium | Erklärung | Bewertung|
