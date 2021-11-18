@@ -49,6 +49,14 @@ Techniken die bei dem erstellen der Prototypn zum Einsatz kommen sind:
 ### Phase 6: Testen 
 Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden nun unter der Einbindung der Kunden und Interessensvertreter weiter validiert und getestet. Das Ziel hierbei ist es nicht den Kunden von den Prototypen zu überzeugen, sondern vor allem das Feedback und die Reaktion der Kunden zu analysieren, denn diese sind ein wichtiger Bestandteil, um weitere Ideen und Verbesserungen zu generieren. Wichtig in diesem Schritt ist, dass das die Personen, die das Design Thinking durchgeführt haben, bereit sind neue Ideen anzunehmen, um die Prototypen weiterzuentwickeln und gegeben falls auch nicht funktionierende Prototypen wieder zu verwerfen. Es kann auch zu mehreren Design Thinking-Durchläufen kommen, bis der Kunde und die Entwickler zufrieden sind mit dem Endprodukt. 
 
+# Vor- und Nachteile
+
+| Vorteile des Design Thinkings |  Nachteile des Design Thinkings |
+| ----------------------------- | ------------------------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
