@@ -62,7 +62,7 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 
 ## Wichtige Schritte zum Durchführen einer PEST - Analyse  
 
-1. Wichtige relevante Faktoren bestimmen. 
+1. Wichtige relevante Faktoren bestimmen.  
 Es ist für eine Organisation wichtig zu wissen, welche Faktoren am ehesten für Sie relevant sind, zum Beispiel können für einen Industriekonzern technologische Faktoren wichtiger  sein, als sozio-kulturelle Fakoren.  
 
 2. Bewerten, inwiefern die Faktoren die Organisation beeinflussen
