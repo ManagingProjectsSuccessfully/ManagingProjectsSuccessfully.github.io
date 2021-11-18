@@ -28,6 +28,9 @@ Im zweiten Schritt stellt sich die Frage, wann welche Aufgaben erledigt werden k
 
 Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein Netzplan (engl. Critical Path Analysis Chart CPA) entweder per Hand oder mit Hilfe eines Softwareprogramms         gezeichnet.
 
+![image]
+(/kb/CriticalPath-DrawNetworkDiagram.png)
+
 **4.	Abschätzung des Zeitbedarfs aller Aufgaben**
 
 Im nächsten Schritt wird der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die Drei-Zeiten-Methode sein, wobei der Zeitbedarf mit         folgenden Werten geschätzt wird:
