@@ -61,6 +61,7 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
  Der letzte Schritt beinhaltet die Aktualisierung des Netzplans auf Basis der während des Projekts gesammelten Erfahrungen, die Dauer bestimmter Aufgaben betreffend. Dies        hilft vor allem dabei, den Fortschritt innerhalb des Zeitplans zu beurteilen. 
 
 
+
 ## 2. Vor- und Nachteile der Methode
 
 | Vorteile      | Nachteile     |
