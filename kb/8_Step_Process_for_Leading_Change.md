@@ -2,7 +2,7 @@
 title: 8_Step_Process_for_Leading_Change
 tags: agil klassisch
 author: GEDA9263
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu 8_Step_Process_for_Leading_Change um ein erstes Verständnis dafür zu schaffen um was es hier geht.
