@@ -153,6 +153,10 @@ FEEDBACKREGELN FÜR DEN FEEDBACKNEHMER
 https://shyopa.com/ratgeber/feedbackregeln/
 
 
+Relevanz – Warum ist das jetzt so wichtig?
+Die Entwicklung einer Feedbackkultur hat im Unternehmenskontext in den letzten Jahren zunehmend an Bedeutung gewonnen, da deren Strukturen immer stärker vernetzt werden und die Team- und Projektarbeit in ihnen zunehmend zur Regelarbeitsform wird. Gleichzeitig agieren Unternehmen in einem Umfeld, das zunehmend von schnellem Wandel und geringer Vorhersehbarkeit geprägt ist. „Deshalb müssen die Mitarbeiter, sei es allein oder im Team, mehr Eigeninitiative entfalten, wenn die Unternehmen mit der gewünschten oder erforderlichen Geschwindigkeit auf Veränderungen in ihrem Umfeld reagieren möchten“.
+
+Dr. Kraus & Partner (2021). Feedback-Kultur – Definition. Zugriff am 18.11.2021. Verfügbar unter https://www.kraus-und-partner.de/wissen-und-co/wiki/feedback-kultur-entwickeln-berater-beratung.
 
 
 Fazit – Nochmal kurz und knapp
