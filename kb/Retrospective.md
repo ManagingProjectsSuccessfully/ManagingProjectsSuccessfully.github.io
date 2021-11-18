@@ -21,7 +21,7 @@ Es gibt verschiedene Herangehensweisen, eine Retrospective zu gestalten. Beispie
 
 | Beispiel| Vorgehen | 
 | ------------- | ------------- |
-| Scrumcoaches.com  | Hier werden Karteikarten verwendet. Jedes Teammitglied erhält zu Beginn Karteikarten auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehangen und besprochen. Ziel ist es, im Anschluss eine Liste zu erstellen mit Punkten die im nächsten Sprint berücksichtigt werden sollen. In der folgenden Retrospective wird überprüft, ob die Punkte umgesetzt werden konnten.[^3]|
+| Analoges Vorgehen  | Hier werden Karteikarten verwendet. Jedes Teammitglied erhält zu Beginn Karteikarten auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehangen und besprochen. Ziel ist es, im Anschluss eine Liste zu erstellen mit Punkten die im nächsten Sprint berücksichtigt werden sollen. In der folgenden Retrospective wird überprüft, ob die Punkte umgesetzt werden konnten.[^3]|
 | Nutzen von digitalen Vorlagen | Eine weitere Möglichkeit ist es, digitale Vorlagen für die Retrospective zu nutzen. Diese gibt es zum Beispiel über Trello, Confluence, Miro oder Mural.[^4]|
 | .  | x|
 | x x|  x |
