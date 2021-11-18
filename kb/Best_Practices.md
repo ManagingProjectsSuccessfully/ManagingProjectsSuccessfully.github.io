@@ -26,7 +26,7 @@ Das schriftliche Festhalten von Fakten ist in einem Projekt ein sehr wichtiges I
 Zu Beginn eines Projekts sollte eine Kick-Off-Veranstaltung abgehalten werden. Das bietet die Gelegenheit alle Projektbeteiligten zu versammeln, sich kennenzulernen und auf das gemeinsame Arbeiten einzustimmen. Nach Projektende wiederum ist der Moment erreicht, an dem es Zeit ist zu analysieren wie das Projekt abgelaufen ist, welche Fehler gemacht worden sind und was gut gelaufen ist. Hier sollten erneut alle Projektbeteiligten in einer Besprechung zusammengebracht werden und deren Ansichten über Erfolge und Misserfolge zu sammeln. Ziel ist es die „Lessons learned“ zu nutzen, um nächste Projekte zu optimieren und ggf. neue Best Practices zu formulieren. Dadurch können idealerweise auch Kosten und Zeit gespart werden.
 
 
-
+## Quellen
 
 
 
