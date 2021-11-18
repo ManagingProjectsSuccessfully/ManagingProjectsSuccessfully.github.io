@@ -51,7 +51,7 @@ Im Folgenden werden für jeden Faktor mögliche Fragestellungen aufgelistet:
 ### Sozio-kulturelle Faktoren
 | Organisationsbezogen  | Projektbezogen |
 | ------------- | ------------- |
-| Wie ist die demographische Lage? | Wie wirkt sich die Teamstruktur auf das Projekt aus?[^2]  |  
+| Welche Trends exisiteren[^2]? | Wie wirkt sich die Teamstruktur auf das Projekt aus?[^2]  |  
 | Gibt es bestimmte kulturelle Tabu- Themen?[^2]  | Existieren zwischenmenschliche Stolperfallen im Projekt?[^2] |  
 
 ### Technische Faktoren
