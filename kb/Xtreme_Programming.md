@@ -2,7 +2,7 @@
 title: Xtreme_Programming
 tags: agil klassisch
 author: 29834
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Xtreme_Programming um ein erstes Verständnis dafür zu schaffen um was es hier geht.
