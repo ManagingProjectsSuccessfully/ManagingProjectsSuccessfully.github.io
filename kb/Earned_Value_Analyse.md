@@ -5,39 +5,99 @@ author: Juliakau
 anrechnung: k
 ---
 
-# Definition
+Kurzbeschreibung zu Earned_Value_Analyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Den Projektfortschritt im Blick zu halten ist von hoher Bedeutung. 
-Dafür kann eine Earned Value Analyse, auch Earned Value Management genannt herangezogen werden.
-Die Earned Value Analyse hilft also den Projektfortschritt zu kontrollieren.
-Anhand von Plan- und Ist-Daten werden Kennzahlen berechnet, die den Earned Value (Fertigstellungswert) beschreiben. 
-Diese Daten beziehen sich auf Kosten, Zeit und Leistungsumfang.
-Der Fertigstellungswert kann zur Überwachung der Termintreue, der Kostentreue sowie zur Prognose von Gesamtkosten und Endtermin herangezogen werden. 
-Daraus resultiert bei Nichterfüllung ein Frühwarnsystem und das Projekt kann gesteuert und angepasst werden.
+Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
+oben im Front-Matter (Bereich zwischen den `---`).
 
-Dabei ist die Methode objektiv und macht Projekte hinsichtlich Kosten und Termintreue untereinander vergleichbar. 
-Des Weiteren können daraus Prognosen abgeleitet werden, was einen weiteren Vorteil der Analyse darstellt.
+# Hier ein Beispieltext mit ein paar Verlinkungen
 
-Ein Fertigstellungswert, also der Earned Value, ist ein Maß für die bereits geleistete Arbeit. 
-Somit entspricht die Earned Value Analyse einem Messverfahren, um den tatsächlich erzielten Fortschritt in Relation zu dem geplanten Ziel zu ermitteln und anschließend zu bewerten. [^1]
+Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
+anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-# Durchführung
-Die Durchführung einer Earned Value Analyse erfolgt in acht Schritten.
-1. Vorgänge auswählen
-2. Plan-, Ist- und Fertigstellungswert berechnen
-3. Cost Variance und Schedule Variance berechnen
-4. CPI und SPI berechnen
-5. Projektkosten porgnostizieren
-6. Projektdauer prognostizieren
-7. Interpretation der berechneten Kennzahlen
-8. Projekt steuern [^2]
+Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
+Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
+Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
-Bei der Earned Value Analyse wird eine Momentaufnahme betrachtet und in welchem Zustand sich das Projekt in genau diesem Moment befindet. [^3]
+Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+
+Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
+Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
+überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
+Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
+Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
+[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
+Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
+Gniedlaskubf daneem. 
+
+Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
+Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
+die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
+[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
+Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
+# Aspekt 1
+
+Aspekte zu Themen können ganz unterschiedlich sein:
+
+* Verschiedene Teile eines Themas 
+* Historische Entwicklung
+* Kritik 
+
+![Beispielabbildung](Earned_Value_Analyse/test-file.jpg)
+
+*lustiges Testbild*
+
+# Aspekt 2
+
+* das
+* hier 
+* ist
+* eine 
+* Punkteliste
+  - mit unterpunkt
+
+## Hier eine Ebene-2-Überschrift unter Aspekt 2
+
+So kann man eine Tabelle erstellen:
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+## Hier gleich noch eine Ebene-2-Überschrift :-)
+
+Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+
+### Ebene-3-Überschrift
+
+Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
+Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+
+# Aspekt n
+
+1. das
+2. hier 
+4. ist 
+4. eine
+7. nummerierte liste
+   1. und hier eine Ebene tiefer
+
+
+# Siehe auch
+
+* Verlinkungen zu angrenzenden Themen
+* [Link auf diese Seite](Earned_Value_Analyse.md)
+
+# Weiterführende Literatur
+
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: [Earned-Value-Analyse: Einführung und Beispiele](https://www.econstor.eu/handle/10419/214916) 
-[^2]: [Earned Value Management](https://www.projektmagazin.de/methoden/earned-value-management)
-[^3]: [Earned Value Management - einfach erklärt](https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html)
+[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
