@@ -5,7 +5,7 @@ author: ChristinaHartung
 anrechnung: k 
 ---
 
-Die Methode des kritischen Pfades (engl. Critical Path Method CPM) ist ein Projektmanagementtool, welches in den späten 1950er Jahren entwickelt wurde um die Problematik der durch ineffiziente Terminplanung verursachten Kostensteigerungen zu lösen. Sie ist dem klassischen Projektmanagement zuzuordnen und wird genutzt um zentrale Aufgaben zu ermitteln, die minimale Projektdauer zu determinieren und eine gewisse Planungsflexibilität zu bestimmen.
+Die Methode des kritischen Pfades (engl. Critical Path Method CPM) ist ein Projektmanagementtool, welches in den späten 1950er Jahren entwickelt wurde um durch ineffiziente Terminplanung verursachte Kostensteigerungen zu verhindern. Sie ist dem klassischen Projektmanagement zuzuordnen und wird genutzt um zentrale Aufgaben zu ermitteln, die minimale Projektdauer zu determinieren und eine gewisse Planungsflexibilität zu bestimmen.[^1]
 
 
 ## 1. Der kritische Pfad
@@ -84,7 +84,7 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [Critical-Path-Methode: So verwenden Sie die CMP für das Projektmanagement] (https://asana.com/de/resources/critical-path-method)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
