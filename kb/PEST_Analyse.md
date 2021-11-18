@@ -32,7 +32,7 @@ Innerhalb von Projekten wird die PEST - Analyse meist in einer frühen Projektph
 Da es nicht einfach ist auf Anhieb mögliche Einflussfaktoren auf Projekte zu ermitteln, hilft die PEST - Analyse vor allem dabei nichts zu vergessen und sich von
 den verschiedenen Kategorien inspirieren zu lassen.[^2]  
 
-![Faktoren](PEST_Analyse/pest-analyse-projekt.jpg)  
+![Faktoren](PEST_Analyse/pest-analyse-projekt.jpg)[^21]
 Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder aber für eine gesamte Organisation, ergeben sich innerhalb der Faktoren ganz unterschiedliche Fragestellungen. Im Folgenden werden für jeden Faktor mögliche Fragestellungen aufgelistet
 ### Politische Faktoren
 | Organisationsbezogen  | Projektbezogen |
