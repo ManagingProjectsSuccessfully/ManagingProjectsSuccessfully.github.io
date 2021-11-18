@@ -72,8 +72,6 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 ![Beispielabbildung](Methode_des_kritischen_Pfades/test-file.jpg)
 
-*lustiges Testbild*
-
 
 # Siehe auch
 
