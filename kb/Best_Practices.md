@@ -2,7 +2,7 @@
 title: Best_Practices
 tags: agil klassisch
 author: tobi0211
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Best_Practices um ein erstes Verständnis dafür zu schaffen um was es hier geht.
