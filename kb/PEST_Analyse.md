@@ -19,7 +19,7 @@ Maßnahmen definieren zu können. Im Projektmanagement wird die PEST - Analyse u
 * Um neue Projekte zu identifizieren
 * Zur Priorisierung von Projekten
 * Für das identifizieren von Risiken im Rahhmen einer Risikoanalyse (Link auf Risikoanalyse setzen)
-* Um Einflussfaktoren im Rahmen einer Umfeldanalyse zu sammeln (Link auf Umfeldanalyse setzen)
+* Um Einflussfaktoren im Rahmen einer [Umfeldanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umfeldanalyse.md) zu sammeln
 
 ## Faktoren der PEST - Analyse
 
