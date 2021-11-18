@@ -158,7 +158,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]:[Design Thinking Defined](https://designthinking.ideo.com/), Abgerufen am 17. November 2021
-[^2]:[Bild1, Design Thinking Workshop]( https://startups-nordwest.de/wp-content/uploads/2018/04/Design-Thinking.jpg
+[^2]:[Bild1: Design Thinking Workshop]( https://startups-nordwest.de/wp-content/uploads/2018/04/Design-Thinking.jpg
 [^3]:[HPI Academy, Was ist Design Thinking?](https://hpi-academy.de/fileadmin/_processed_/b/9/csm_Design_Thinking_Prozess_DE_6c695bcd10.png), Abgerufen am 17. November 2021
 [^4]: [Design Thinking – Methode, Prozess und Workshops](https://iconstorm.com/design-thinking/), Abgerufen am 17. November 2021
 
