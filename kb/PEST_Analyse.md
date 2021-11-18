@@ -60,7 +60,7 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 | Welche neuen Technologien könnten entwickelt werden[^2] | Welche Technologien benutzt mein Kunde?[^3]  |  
 | Wir wirken sich neue Technologien aus?[^2]  | Welche Unsicherheiten können bei neuen Technologien auftreten[^2] |  
 
-## Wichtige Schritte zum durchführen einer PEST - Analyse
+## Wichtige Schritte zum Durchführen einer PEST - Analyse
 1. Wichtige relevante Faktoren bestimmen.  
 
 
