@@ -28,7 +28,7 @@ Der Deutsche Project Excellence Award wird seit 1997 von der GPM an Unternehmen 
 * Deutscher Studienpreis Projektmanagement
 
 Seit 1997 zeichnet die GPM die drei besten wissenschaftlichen Abschlussarbeiten in den Rubriken Bachelorarbeit, Masterarbeit und Dissertation aus, in denen einzigartige Lösungen oder innovative Ideen ausgearbeitet werden.
-Zur Unterstützung der nachfolgenden Projektmanagement-Karriere und als Auszeichnung für ihre Leistung, bekommen die Preisträgerinnen und Preisträger eine Prämie im Ausmaß von 1000 Euro, eine Urkunde und eine kostenlose Mitgliedschaft in der GPM. Des Weiteren haben die Sieger des Awards die Option, die wissenschaftliche Arbeit und sich selbst in der „Projektmanagement Aktuell“, dem führenden Fachmagazin für Projektmanagement, vorzustellen [^5].
+Die Preisträgerinnen und Preisträger erhalten eine Prämie im Ausmaß von 1000 Euro, eine Urkunde und eine kostenlose Mitgliedschaft in der GPM. Des Weiteren haben die Sieger des Awards die Option, die wissenschaftliche Arbeit und sich selbst in der „Projektmanagement Aktuell“, dem führenden Fachmagazin für Projektmanagement, vorzustellen [^5].
 
 * GPM Young Project Manager Award
 
@@ -56,8 +56,7 @@ Für alle Beteiligten kann so das ideale Ergebnis mittels [Methoden](https://git
 
 # YOUNG CREW
 
-1992 wurde die international aktive GPM Young Crew gegründet. Sie ist ein Netzwerk von jungen Projektmanagern bis zum Alter von 35 Jahren. Bei dieser Organisation werden, sowohl Schüler und Lehrer, die eine Interesse am Thema Projektmanagement haben, als auch Auszubildende und Studierende in vielen Fachrichtungen oder Young Professionals, die schon erste berufliche Erfahrungen gesammelt haben, berücksichtigt. 
-Das Netzwerk der jungen Menschen lässt es möglich werden sich national und international zu fördern, das Thema Projektmanagement besser kennenzulernen und neue Menschen kennenzulernen. [^9]. 
+1992 wurde die international aktive GPM Young Crew gegründet. Sie ist ein Netzwerk von jungen Projektmanagern bis zum Alter von 35 Jahren. Bei dieser Organisation werden, sowohl Schüler und Lehrer, die eine Interesse am Thema Projektmanagement haben, als auch Auszubildende und Studierende in vielen Fachrichtungen oder Young Professionals, die schon erste berufliche Erfahrungen gesammelt haben, berücksichtigt[^9]. 
 
 
 
