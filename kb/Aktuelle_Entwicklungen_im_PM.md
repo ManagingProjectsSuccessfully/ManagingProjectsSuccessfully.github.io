@@ -50,7 +50,6 @@ Aufgrund der weltweiten Pandemie stieg die digitale Zusammenarbeit und somit sti
 Update-Meetings, in denen Verantwortlichkeiten innerhalb des Teams geklärt werden müssen, helfen bessere Strategien für Projektmanagement herauszufinden.
 Eine erhebliche Erleichterung für Kollaborationen an Projekten, schafft der Tool-Stack.
 
-
 * Optimierte Ressourcenplanung 
 
 Home-Office und Remote Work gewinnen immer mehr an Bedeutung und machen somit eine verlässliche Ressourcenplanung notwendig.
@@ -61,23 +60,19 @@ Die Verfügbarkeiten der Ressourcen sollten auch für das Team deutlich sein. Da
 
 Die Teams eines Unternehmens können mehr voneinander profitieren, wenn sich Abteilungen untereinander austauschen oder Projektmanager ihre Erfahrungen mit Tools und Methoden teilen. Knowledge-Sharing bezweckt, dass Learnings, Wissen und Prozesse aus den unterschiedlichsten Bereichen anderen zugänglich gemacht wird.
 
-
 * Datenbasierte Entscheidungen
 
 Data Science und Big Data gewinnen im Projektmanagement immer mehr an Bedeutung. Somit wird es immer wichtiger, Projekte basierend auf Daten strategisch zu planen und dadurch dem Team die Möglichkeit zu geben, eindeutige Erkenntnisse auszulesen und sich gegenseitig austauschen zu können.
-
 
 * Change Management
 
 Beim [Change Management](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Projekte.md) steht die Konfigurierung von Unternehmensstrategien und -strukturen, an sich wechselnde Rahmenbedingungen, im Vordergrund.
 Beim Projektmanagement ist hierbei eine Veränderung der Prozesse wichtig, wodurch ein proaktives Handeln seitens der Projektmanager nötig wird, um diese Prozesse besser zu machen und an Veränderungen anzupassen.
 
-
 * Soft Skills
 
 Beim Projektmanagement werden die sozialen Fähigkeiten im zwischenmenschlichen Kontext, die sogenannten [Soft Skills](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Softskills_im_Projektmanagement.md), immer wichtiger. Es bedarf des rücksichtsvollen Zuhörens, des Koordinierens, des motivierenden Führens und des taktvolles Verhandelns. 
 Eine Stärkung des Teamzusammenhalts wird durch Kommunikationsfähigkeiten und emotionale Intelligenz hervorgerufen, was in längerer Hinsicht zum Projekterfolg führt.
-
 
 * Hybride Projektmanagement-Ansätze 
 
@@ -98,7 +93,6 @@ Sowohl [Kanban](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.
 
 
 
-
 # Siehe auch
 
 * [Projektmanagement](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
@@ -112,6 +106,8 @@ Sowohl [Kanban](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.
 * [Soft Skills](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Softskills_im_Projektmanagement.md)
 * [Kanban](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
 * [Scrum](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
+
+
 
 # Quellen
 
