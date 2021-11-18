@@ -43,12 +43,15 @@ In Level 1 bis 2 werden Projekte in kleineren Maßstäben durchgeführt, die nic
 
 Define consistent, practial, fit for purpose PPM
 Methodology, Lifecycle & Governance structures based on best practice, but tailored to the organisation
+
 2. PMO
 
 Develop PMO capability to support best practice Project, Programme & Portfolio Management. Benchmark, establish a PPM Maturity Roadmap, and ensure PMO value
+
 3. Technology
 
 Leverage enterprise PPM solution to enable consistency in approach, one version of the truth, transparency & collaboration
+
 4. Training & Support
 
 Establish training in methodology & practical PPM tools & techniques. Establish a PPM Community of practitioners, mentoring & carrer development.
