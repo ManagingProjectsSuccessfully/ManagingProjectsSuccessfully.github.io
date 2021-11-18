@@ -17,20 +17,20 @@ An den 1.Punkt schließt sich die Kommunikation bei Erweiterungen des Projektumf
 Im Projekt ist es sehr wichtig mögliche Risiken zu identifizieren, einzuschätzen wie sich diese auf das Projekt auswirken können und daraus geeignete Maßnahmen zu entwickeln. Hierdurch sollen Kostenexplosionen als auch Sprengungen des Zeitplans vermieden werden. Beim Risikomanagement im Projekt sollten sowohl feste Eskalationspläne als auch Stärkegrade für Probleme etabliert werden. Beide haben das Ziel bei der Bewältigung von Problemen zu helfen, in der Praxis hat sich nämlich gezeigt, dass wichtige Stakeholder oft zu spät über Probleme informiert werden. Durch das Risikomanagement sollen neben Risiken aber auch Chancen identifiziert werden.  Durch Wahl richtiger Schritte können ihre Eintrittswahrscheinlichkeit erhöht werden. 
 
 ## 4. Detaillierter Projektplan:
-Der Projektplan soll zur Organisation von Aufgaben und Verantwortlichkeiten dienen. Hierzu sind neben Zeit, Budget und Umfang auch Ziele und Probleme in die Planung zu integrieren. Bei der Verteilung von Aufgaben auf Ebene einzelner Arbeitspakete ist es wichtig darauf zu achten, dass diese in vorgegebener Zeit erledigt werden können.  Überarbeitung und Demotivation können dadurch verhindert werden. Ein ständiges Monitoring des Projektfortschritts ist hierfür hilfreich.
+Der Projektplan soll zur Organisation von Aufgaben und Verantwortlichkeiten dienen. Hierzu sind neben Zeit, Budget und Umfang auch Ziele und Probleme in die Planung zu integrieren. Bei der Verteilung von Aufgaben auf Ebene einzelner Arbeitspakete ist es wichtig darauf zu achten, dass diese in vorgegebener Zeit erledigt werden können.  Überarbeitung und Demotivation können dadurch verhindert werden. Ein ständiges Monitoring des Projektfortschritts ist hierfür hilfreich.[^2]
 
 ## 5. Schriftliche Dokumentation:
 Das schriftliche Festhalten von Fakten ist in einem Projekt ein sehr wichtiges Instrument um sicherzustellen, dass allen Stakeholdern Daten zur Verfügung stehen. Des Weiteren kann die Dokumentation von Projektfortschritten später dazu dienen Entscheidungen zu treffen oder nachzuvollziehen, warum bestimmte Entscheidungen getroffen wurden. 
 
 ## 6. Definierte Start- und Endpunkte:
-Zu Beginn eines Projekts sollte eine Kick-Off-Veranstaltung abgehalten werden. Das bietet die Gelegenheit alle Projektbeteiligten zu versammeln, sich kennenzulernen und auf das gemeinsame Arbeiten einzustimmen. Nach Projektende wiederum ist der Moment erreicht, an dem es Zeit ist zu analysieren wie das Projekt abgelaufen ist, welche Fehler gemacht worden sind und was gut gelaufen ist. Hier sollten erneut alle Projektbeteiligten in einer Besprechung zusammengebracht werden und deren Ansichten über Erfolge und Misserfolge zu sammeln. Ziel ist es die „Lessons learned“ zu nutzen, um nächste Projekte zu optimieren und ggf. neue Best Practices zu formulieren. Dadurch können idealerweise auch Kosten und Zeit gespart werden.[^1]
+Zu Beginn eines Projekts sollte eine Kick-Off-Veranstaltung abgehalten werden. Das bietet die Gelegenheit alle Projektbeteiligten zu versammeln, sich kennenzulernen und auf das gemeinsame Arbeiten einzustimmen.[^2] Nach Projektende wiederum ist der Moment erreicht, an dem es Zeit ist zu analysieren wie das Projekt abgelaufen ist, welche Fehler gemacht worden sind und was gut gelaufen ist. Hier sollten erneut alle Projektbeteiligten in einer Besprechung zusammengebracht werden und deren Ansichten über Erfolge und Misserfolge zu sammeln. Ziel ist es die „Lessons learned“ zu nutzen, um nächste Projekte zu optimieren und ggf. neue Best Practices zu formulieren. Dadurch können idealerweise auch Kosten und Zeit gespart werden.[^1]
 
 
 ## Quellen
 
-[^1]
-[^2]
-[^3]
+[^1]: https://www.wrike.com/de/blog/10-best-practices-im-projektmanagement/
+[^2]: https://www.pebco.ag/impuls/projektmanagement-9-best-practices-zur-steigerung-der-erfolgschancen-ihrer-projekte/ 
+[^3]:
 
 
 
