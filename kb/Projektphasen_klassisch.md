@@ -54,7 +54,7 @@ Der Auftraggeber kann nun das fertige Projekt abnehmen, sofern alle Qualitätsan
 
 Es beginnt außerdem die Gewährleistungsphase für die Endprodprodukte. Dazu können Kunden bei beispielsweise dem Bau von Industrieanlagen zusätzlich Serviceverträge mit dem beauftragten Unternehmen abschließen, um sich eine schnelle, fachgemäße Wartung und Instandhaltung zu sichern.[^4]
 
-Weiters zum Projektabschluss finden Sie [hier](Projektabschluss.md).
+Weitere Informationen zum Projektabschluss finden Sie [hier](Projektabschluss.md).
 
 
 # Quellen
