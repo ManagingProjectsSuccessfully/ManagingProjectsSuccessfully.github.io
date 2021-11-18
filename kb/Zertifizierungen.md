@@ -2,7 +2,7 @@
 title: Zertifizierungen
 tags: agil klassisch
 author: JonasMallwitz
-anrechnung: k oder a
+anrechnung: k
 ---
 # 1. Zertifizierungen und deren Bedeutung im Projektmanagement 
 
@@ -71,7 +71,9 @@ Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Proj
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Projektmanagement – ein Überblick](https://link-1springer-1com-1v0gnf2jn00cb.han.ub.fau.de/content/pdf/10.1007%2F978-3-658-30085-2.pdf)
+* [Projektmanagement-Zertifizierungen und Projektmanager-Gehalt: Vergleich der bekanntesten Zertifikate (Update 2020)](https://www.theprojectgroup.com/blog/projektmanagement-zertifizierung/)
+* [Zertifizierungen im Projektmanagement – Wie Sie Skills und Professionalität „modellieren“](https://www.youtube.com/watch?v=URlhhieZfg0)
 
 # Quellen
 
