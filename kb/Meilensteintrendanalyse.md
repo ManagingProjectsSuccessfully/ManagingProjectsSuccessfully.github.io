@@ -51,11 +51,11 @@ Obwohl sich die Meilensteinstrendanalyse auch ganz einfach auf dem Papier anwend
 
 # Quellen
 
-[^1]: [Projekte-leicht-gemacht.de] (https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/die-meilensteintrendanalyse-einfach-erklaert/)
-[^2]: [link-Springer] (https://link.springer.com/chapter/10.1007/978-3-662-52974-4_8)
-[^3]: [Exceltricks.blog] (https://exceltricks.blog/mit-dieser-excel-vorlage-koennen-sie-eine-meilensteintrendanalyse-fuer-ihre-projekte-durchfuehren/)
-[^4]: [Universität-Würzburg] (https://www.graduateschools.uni-wuerzburg.de/fileadmin/43030000/GSST/events_and_training_activities/Meilensteintrendanalyse.pdf)
+[^1]: [Die Meilensteintrendanalyse einfach erklärt](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/die-meilensteintrendanalyse-einfach-erklaert/)
+[^2]: Bär,C./Fliege,J./Weiß,M., Anwendungsbezogenes Projektmanagement, 2017(S.56f.)
+[^3]: [Exceltricks.blog](https://exceltricks.blog/mit-dieser-excel-vorlage-koennen-sie-eine-meilensteintrendanalyse-fuer-ihre-projekte-durchfuehren/)
+[^4]: [Universität-Würzburg](https://www.graduateschools.uni-wuerzburg.de/fileadmin/43030000/GSST/events_and_training_activities/Meilensteintrendanalyse.pdf)
 [^5]: [Meilensteintrendanalyse](https://www.controllingportal.de/Marktplatz/Excel-Tools/Meilensteintrendanalyse-MTA.html) 
-[^6]: [Wikipedia] (https://de.wikipedia.org/wiki/Meilensteintrendanalyse) 
-[^7]: [Projektmagazin.de] (https://www.projektmagazin.de/glossarterm/meilensteintrendanalyse)
+[^6]: [Wikipedia](https://de.wikipedia.org/wiki/Meilensteintrendanalyse) 
+[^7]: [Projektmagazin.de](https://www.projektmagazin.de/glossarterm/meilensteintrendanalyse)
 
