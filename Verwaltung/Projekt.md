@@ -4,11 +4,12 @@ tags: agil klassisch
 author: {starni26}
 anrechnung: k
 ---
+Der folgende Artikel handelt von der Projekt-Inkrement Planung nach SAFe. Dabei wird auf SAFe an sich eingegangen und der Name des Tools erklärt. Außerdem wird geklärt was ein Projekt-Inkrement (PI) ist und wie ein PI in SAFe abläuft. Welcher Input bzw. Aufwand für ein PI gebraucht wird, um ein bestimmtes Output bzw. Ergebnis zu erreichen wird ebenfalls in diesem Artikel beleuchtet.
 
-Kurzbeschreibung zu {Projekt} um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+(Kurzbeschreibung zu {Projekt} um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+oben im Front-Matter (Bereich zwischen den `---`).)
 
 # Was ist SAFe? 
 
@@ -98,7 +99,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]:
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
