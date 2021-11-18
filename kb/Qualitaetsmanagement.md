@@ -36,6 +36,7 @@ Das Qualitätsmanagement ist außerdem eine wichtige Wissenssparte des [PMBOK](P
   - Die Ergebnisse werden ausgewertet und schriftlich dokumentiert. Dieser Vorgang dient der Kontrolle der anfangs festgelegten Ziele und der Aufdeckung von Fehlern.
 * Phase 4: Qualitätsgewinn
   - In der letzten Phase werden die gewonnenen Erkenntnisse genutzt um gegen Abweichungen vorzugehen und Prozesse zu verbessern. Dafür ist eine Kommunikation der Ergebnisse erforderlich[^6][^7]
+
 ![PDCA-Prozess](Qualitaetsmanagement/pdca-new.png)
 
 ## Qualitätsmanagementmodelle
