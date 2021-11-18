@@ -62,14 +62,10 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 
 
 
-# Aspekt 2
+# Erweiterungen der PEST - Analyse
+Die PEST - Analyse ist im Lauf der Zeit um einige Faktoren erweitert worden, wodurch sich weitere Analysemethoden ergeben haben.
+In diesen weiterführenden Analysen sind unterschiedliche Faktoren
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
