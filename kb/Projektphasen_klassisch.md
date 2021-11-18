@@ -50,9 +50,11 @@ Es besteht eine ständige Kommunikation zwischen allen relevanten Beteiligten un
 
 ## 5. Projektabschluss
 
-Der Auftraggeber kann nun das fertige Projekt abnehmen, sofern alle Qualitätsansprüche und Erwartungen erfüllt wurden.[^6] Oft werden vom Projektteam Abschlussgespräche geführt, in welchen die Mitwirkenden rückblickend zusammenfassen, was gut gelaufen ist und wo es Probleme gab. Dies kommt dann den nächsten Projekten und der allgemeinen Performance des Teams zugute. 
+Der Auftraggeber kann nun das fertige Projekt abnehmen, sofern alle Qualitätsansprüche und Erwartungen erfüllt wurden.[^6] Oft werden vom Projektteam [Abschlussgespräche](Abschlussanalyse.md) geführt, in welchen die Mitwirkenden rückblickend zusammenfassen, was gut gelaufen ist und wo es Probleme gab. Dafür kann ein [Projektabschlussbericht](Projektabschlussbericht.md) erstellt werden. Die gesammelten Erfahrungen kommen dann den nächsten Projekten und der allgemeinen Performance des Teams zugute. 
 
 Es beginnt außerdem die Gewährleistungsphase für die Endprodprodukte. Dazu können Kunden bei beispielsweise dem Bau von Industrieanlagen zusätzlich Serviceverträge mit dem beauftragten Unternehmen abschließen, um sich eine schnelle, fachgemäße Wartung und Instandhaltung zu sichern.[^4]
+
+Weiters zum Projektabschluss finden Sie [hier](Projektabschluss.md).
 
 
 # Quellen
