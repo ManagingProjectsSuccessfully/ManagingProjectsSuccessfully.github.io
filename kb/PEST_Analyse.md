@@ -1,6 +1,6 @@
 ---
 title: PEST_Analyse
-tags: klassisch Strategische Unternehmensführung Analyse
+tags: klassisch Strategisches Unternehmensmanagement Analyse
 author: GEDA9263
 anrechnung: k 
 ---
@@ -12,7 +12,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # PEST - Analyse
 
-Die PEST-Analyse ist ein eine Analysemethode, welche ursprünglich aus dem stretegischen Unternehmensmanagement kommt.[^1]  
+Die PEST-Analyse ist ein eine Analysemethode, welche ursprünglich aus dem strategischen Unternehmensmanagement kommt.[^1]  
 Ziel der Analyse ist es externe Einflussfaktoren auf eine Organisation zu erkennen, sowie Chancen und Risiken zu identifizieren um anschließend geeignete
 Maßnahmen definieren zu können. Im Projektmanagement wird die PEST - Analyse unter anderem zu folgenden Zwecken eingesetzt:[^2]  
 
