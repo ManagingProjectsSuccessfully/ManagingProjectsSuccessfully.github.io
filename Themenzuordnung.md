@@ -121,6 +121,7 @@ author: anniSc
 | [Deliverable](kb/Deliverable.md)                                                                                                   | [starni26](https://github.com/starni26)                       |
 | [Forecasts](kb/Forecasts.md)                                                                                                       | [eftalyaumat](https://github.com/eftalyaumat)                 |
 | [Timeboxing](kb/Timeboxing.md)                                                                                                     | [janetteschuller](https://github.com/janetteschuller)         |
+| [Compliance_im_Projektmanagment](kb/Compliance_im_Projektmanagment.md)                                                             | [moritzgrt](https://github.com/moritzgrt)                     |
 | [Vorgehensmodelle](kb/Vorgehensmodelle.md)                                                                                         | [hello-pukeko](https://github.com/hello-pukeko)               |
 | [SCRUM_but](kb/SCRUM_but.md)                                                                                                       | [thujavanj](https://github.com/thujavanj)                     |
 | [SCRUMBAN](kb/SCRUMBAN.md)                                                                                                         | [mickey0684](https://github.com/mickey0684)                   |
@@ -243,7 +244,6 @@ author: anniSc
 | [Projektabschlussbericht](kb/Projektabschlussbericht.md)                                                                           | [DeniseWt](https://github.com/DeniseWt)                       |
 | [Lessons_Learned](kb/Lessons_Learned.md)                                                                                           | [JanAmend](https://github.com/JanAmend)                       |
 | [Erfolgsmessung](kb/Erfolgsmessung.md)                                                                                             | [JacquelineRal](https://github.com/JacquelineRal)             |
-| [Evaluation](kb/Evaluation.md)                                                                                                     | [Fraaanzel](https://github.com/Fraaanzel)                     |
 | [Reflexion](kb/Reflexion.md)                                                                                                       | [goekcen01](https://github.com/goekcen01)                     |
 | [Abschlussanalyse](kb/Abschlussanalyse.md)                                                                                         | [medjeara](https://github.com/medjeara)                       |
 | [Projektaufloesung](kb/Projektaufloesung.md)                                                                                       | [Quapoapo](https://github.com/Quapoapo)                       |
