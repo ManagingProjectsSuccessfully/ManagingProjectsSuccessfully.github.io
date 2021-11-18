@@ -1,8 +1,8 @@
 ---
 title: Dauerbaustelle
-tags: agil klassisch
+tags: klassisch
 author: EuleW
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Dauerbaustelle um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -10,10 +10,21 @@ Kurzbeschreibung zu Dauerbaustelle um ein erstes Verständnis dafür zu schaffen
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-Ein Projekt dessen genauer Umsetzungszeitpunkt nicht festgelegt ist, wird im Projektmanagement als „Dauerbaustelle“ bezeichnet[^1].
-Als Beispiel könnte hier die Wartung und Pflege von Bestandssoftware in einem IT-Unternehmen angeführt werden. Die Anbindung einzelner Features wird innerhalb eines bestimmten Zeitraumes abgesschlossen. Das Projekt "Wartung und Pflege" ist aber fortlaufend und wird nie gänzlich abgeschlossen. 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+
+Die Überwachung der Einhaltung der verschiedenen Rahmenbedingung eines Projekts liegt im Projektmanagement.
+Das Projektmanagement beschreibt die Anwendung von Wissen, Fähigkeiten, Werkzeugen und Techniken auf Projektaktivitäten, um die Projektanforderungen zu erfüllen [^2]. 
+Das klassische Projektumfeld zeichnet sich im ersten Schritt dadurch aus, dass die vom Projektmanager definierten Arbeitspakete und Ziele mittels eines definierten Budgets erreicht werden sollen. Die dazu erforderlichen Prozesse im Rahmen der Projektentwicklung sind in der Regel aufeinander folgend gestaltet. Des Weiteren werden häufig mehrere Projekte Parallel bearbeitet.
+
+Was ist ein Projekt?
+Der Begriff „Dauerbaustelle“ beschreibt im Rahmen des Projektmanagements ein Projekt ohne Terminierung. Um diesen Punkt weiter zu beleuchten, muss im Vorfeld geklärt werden was ein Projekt überhaupt ist.
+„Ein Projekt ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist …“. Es wird eine konkrete Zielvorgabe aufgestellt, die ihm Rahmen des Projekts zu erfüllen ist. Außerdem wird für diese Zielerreichung sowohl ein zeitlicher, finanzieller als auch personeller Rahmen gesteckt. Darüber hinaus von zentraler Wichtigkeit ist, dass das Projekt gegenüber anderen Vorhaben sauber getrennt ist. 
+Der temporäre Charakter von Projekten bezeichnet einen Beginn und ein Ende der Projektarbeit.
+Unterliegt ein Projekt einem ständigen Veränderungs- bzw. Erweiterungsprozess und wurde kein klares Ende definiert so wird dieses im Rahmen des Projektmanagements als „Dauerbaustelle“ bezeichnet 1. 
+
+Warum wird ein Projekt zu Dauerbaustelle?
+Es gibt eine Vielzahl von Fehlerquellen im Projektmanagement die dazu führen können, dass ein Projekt zu einer Dauerbaustelle wird. Häufig werden Projekte nicht innerhalb des dafür vorgesehenen Zeitrahmen abgeschlossen. Beispielsweise weil das Projekt die geplanten Kosten übersteigt oder weil nicht ausreichend personelle Ressourcen zu Verfügung stehen. Auch benötigtes Spezialwissen, welches nicht zur Verfügung steht, kann ein Grund hierfür sein. Es können aber auch Neuanforderungen an das Projektteam herangetragen werden, welche die Zielsetzung maßgeblich beeinflussen und in zu großem Umfang verändern. Ein andere Häufige Ursache ist das Projekte nicht systematisch ausgewählt werden und es dafür an klar definierten Entscheidungskriterien fehlt. Ebenso weit verbreiteter ist der Fehler, dass Projekte ohne einen klaren Auftrag gestartet werden. Es existiert kein Projektportfolio und es werden keine Prioritäten festgelegt. Wenn es keine definierten Meilensteine gibt, wird es auch schwierig Zwischenergebnisse zu überprüfen und zu bewerten, wodurch eine im Bedarfsfall notwendige Gegensteuerung seitens des Managements kaum noch rechtzeitig möglich ist und sich Projekte in die Länge ziehen. Ein ebenso vermeidbarer Fehler liegt vor wenn innerhalb der Projektteams Zuständigkeiten nicht klar ausgesprochen und den Beteiligten bewusst gemacht werden, damit einzelne Prozesse reibungslos ablaufen können. Häufig fehlt es neben zuverlässig geschnürten Arbeitspaket auch an den entsprechenden Berechtigungen um notwendige Schritte ohne unnötige Abhängigkeiten durchführen zu können. Ebenso oft wird dem Projektmanager kein umfangreicher Methodenkoffer an die Hand gegeben um die Projektaktivitäten ausreichend beeinflussen zu können.
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
