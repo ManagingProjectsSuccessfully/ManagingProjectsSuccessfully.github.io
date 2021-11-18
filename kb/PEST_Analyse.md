@@ -34,7 +34,7 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 | Organisationsbezogen  | Projektbezogen |
 | ------------- | ------------- |
 | Content Cell  | * Wie wirkt sich die Unternehmensstrategie auf das Projekt aus?  |  
-Auf einzelne Projekte bezogen stellen sich eher Fragen, wie sich zum Beispiel die Unternehmenspolitik auf das Projekt auswirkt oder wie sehr die Stakeholder hinter einem Projekt stehen, falls Schwierigkeiten auftreten sollten.  
+| Placeholder   | * Wie sehr stehen die Stakeholder hinter meinem Projekt?  |
 Für gesamte Organisationen stellen sich eher Fragen, welche sich auf die jeweiligen Gestzeslage in einem Land beziehen oder wie sich zum Beispiel der politische Kurs in einem Land durch eine Wahl ändern könnte.[^3]
 
 
