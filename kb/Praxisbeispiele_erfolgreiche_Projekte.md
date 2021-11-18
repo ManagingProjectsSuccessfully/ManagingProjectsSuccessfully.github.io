@@ -33,7 +33,7 @@ Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressour
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Praxisbeispiele_erfolgreiche_Projekte.md)
+* [Erfolgsmessung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md)
 
 # Weiterführende Literatur
 https://www.manager-magazin.de/harvard/management/das-geheimnis-erfolgreicher-projekte-a-00000000-0002-0001-0000-000159313152
