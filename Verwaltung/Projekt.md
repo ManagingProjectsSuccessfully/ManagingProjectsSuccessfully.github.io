@@ -22,7 +22,7 @@ Die folgenden fünf Schritte sind grundsätzlich immer gleich bei einer Kostentr
 Genau wie bei der Meilensteintrendanalyse benötigt man auch hier ein Diagramm bestehend aus zwei Achsen. Dabei wird die X-Achse üblicherweise für die Berichtstermine und die Y-Achse für die Kosten verwendet. [^1]
 
 ### Schritt 2: Plankosten zusammenstellen 
-In diesem Schritt werden mithilfe des Projektplans die geplanten Kosten für alle Teilprojekte festgelegt. Dazu wird zunächst der zeitliche Aufwand jedes Teilprojekts ermittelt. Zudem sollte man sich überlegen ob fremde Hilfe wie zum Beispiel Dienstleister benötigt werden und anschließend die nötigen Ressourcen definieren. Für diese Daten werden im nächsten Schritt die entsprechenden Kosten festgelegt und auf die Y-Achse eingetragen. [^1]
+In diesem Schritt werden mithilfe des Projektplans die [geplanten Kosten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md) für alle Teilprojekte festgelegt. Dazu wird zunächst der zeitliche Aufwand jedes Teilprojekts ermittelt. Zudem sollte man sich überlegen ob fremde Hilfe wie zum Beispiel Dienstleister benötigt werden und anschließend die nötigen Ressourcen definieren. Für diese Daten werden im nächsten Schritt die entsprechenden Kosten festgelegt und auf die Y-Achse eingetragen. [^1]
 
 ### Schritt 3: Berichtstermine definieren 
 Vorab muss festgelegt werden in welcher Frequenz Berichtstermine stattfinden sollen. Diese dienen dazu einen Zwischenstand festhalten zu können. [^1]
