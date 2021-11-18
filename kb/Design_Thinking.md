@@ -51,7 +51,7 @@ Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden n
 
 # Vor- und Nachteile
 
-| <span style="color:red">some **This is Red Bold.** text<Vorteile des Design Thinkings> |  Nachteile des Design Thinkings |
+| Vorteile des Design Thinkings|  Nachteile des Design Thinkings |
 | ----------------------------- | ------------------------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
