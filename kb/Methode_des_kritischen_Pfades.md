@@ -66,7 +66,7 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 
 
-## 2. Vor- und Nachteile der Methode
+## 2. Vor- und Nachteile der Methode [^4]
 
 | Vorteile      | Nachteile     |
 | ------------- | ------------- |
@@ -90,7 +90,7 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 [^1]: [Critical-Path-Methode: So verwenden Sie die CMP für das Projektmanagement](https://asana.com/de/resources/critical-path-method)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Die ultimative Anleitung für den "kritischen Pfad"](https://de.smartsheet.com/critical-path-method)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: [Methode des kritischen Pfades (Wikipedia)](https://de.wikipedia.org/wiki/Methode_des_kritischen_Pfades)
 Kurzbeschreibung zu Methode_des_kritischen_Pfades um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 
