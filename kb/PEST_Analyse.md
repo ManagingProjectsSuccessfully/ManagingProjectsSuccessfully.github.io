@@ -28,6 +28,11 @@ In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereic
 * Socio-Cultural - Sozio-kulturelle Faktoren
 * Technical - Technische Faktoren  
 
+### Politische Faktoren
+### Wirtschaftliche Faktoren
+### Sozio-kulturelle Faktoren
+Verschiedene Führungs- und Arbeitskulturen in unterschiedlichen Ländern
+### Technische Faktoren
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
