@@ -57,6 +57,7 @@ Vorteile:
 * Erfüllung der EU-Datenschutz-Grundverordnung (DSGVO) 
 * Möglichkeit für Feedback, Wünsche und Ideen[^1]
 * Weiterentwicklung durch Releases neuer Funktionen[^8]
+
 Nachteile: 
 * Keine kostenlose Basisversion 
 * Sprachen nur Deutsch und Englisch 
