@@ -29,6 +29,7 @@ Im zweiten Schritt stellt sich die Frage, wann welche Aufgaben erledigt werden k
 Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein Netzplan (engl. Critical Path Analysis Chart CPA) entweder per Hand oder mit Hilfe eines Softwareprogramms         gezeichnet.
 
 ![Netzplan](/kb/Methode_des_kritischen_Pfades/CriticalPath-DrawNetworkDiagram.png)
+*Entwurf eines Netzplans* [^3]
 
 **4.	Abschätzung des Zeitbedarfs aller Aufgaben**
 
@@ -55,6 +56,7 @@ Es ergeben sich schließlich zwei zur Berechnung anwendbare Formeln, E steht dab
 Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden oder es werden die frühesten Anfangs- und Endzeitpunkte, sowie die spätesten Anfangs- und           Endzeitpunkt jedes Vorgangs festgestellt. Als Resultat ergibt sich ein oder auch mehrere kritische Pfad. Mit jedem weiteren steigt das Risiko für ungeplante             Verzögerungen im Zeitplan.
 
 ![Netzplan](/kb/Methode_des_kritischen_Pfades/IdentifyCriticalPath.png)
+*Identifizierung des kritischen Pfades* [^3]
     
 **6.	Aktualisieren des Netzplans**
     
@@ -86,7 +88,7 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 [^1]: [Critical-Path-Methode: So verwenden Sie die CMP für das Projektmanagement](https://asana.com/de/resources/critical-path-method)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [Die ultimative Anleitung für den "kritischen Pfad"](https://de.smartsheet.com/critical-path-method)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 Kurzbeschreibung zu Methode_des_kritischen_Pfades um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
