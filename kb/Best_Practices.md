@@ -5,10 +5,7 @@ author: tobi0211
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Best_Practices um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Ein Projekt zu planen und zu überwachen, sodass sowohl Erwartungen als auch Zeitpläne und Budgets eingehalten werden können, ist eine herausfordernde Aufgabe. Hierbei können leicht Details vergessen werden. Um dies zu verhindern kann auf verschiedene Tipps bzw. Best Practices zurückgegriffen werden, im Folgenden werden von diesen einige grundsätzliche ausgeführt. 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
