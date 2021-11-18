@@ -30,7 +30,7 @@ Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein Netzplan (engl. C
 
 **4.	Abschätzung des Zeitbedarfs aller Aufgaben**
 
-Im nächsten Schritt wird mittels Erfahrungen der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die Drei-Zeiten-Methode sein, wobei der Zeitbedarf mit         folgenden Werten geschätzt wird:
+Im nächsten Schritt wird der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die Drei-Zeiten-Methode sein, wobei der Zeitbedarf mit         folgenden Werten geschätzt wird:
 
 
    *a = Minimalschätzung (Best Case)*
@@ -39,7 +39,7 @@ Im nächsten Schritt wird mittels Erfahrungen der Zeitaufwand der einzelnen Aufg
     
    *b = Maximalschätzung (Worst Case)*
     
- Aus diesen Werten ergeben sich schließlich zwei zur Berechnung anwendbare Formeln, E steht dabei für die Schätzung (engl. Estimate):
+Es ergeben sich schließlich zwei zur Berechnung anwendbare Formeln, E steht dabei für die Schätzung (engl. Estimate):
 
 *I.    E = (a + 4m + b) / 6*
 
@@ -50,7 +50,7 @@ Im nächsten Schritt wird mittels Erfahrungen der Zeitaufwand der einzelnen Aufg
    
 **5.	Identifizierung des kritischen Pfades**
 
-Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden oder es werden die frühesten Anfangs- und Endzeitpunkte, sowie die spätesten Anfangs- und           Endzeitpunkt jedes Vorgangs festgestellt. Als Resultat ergibt sich ein oder auch mehrere kritische Pfade, jedoch steigt mit jedem weiteren das Risiko für ungeplante             Verzögerungen im Zeitplan.
+Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden oder es werden die frühesten Anfangs- und Endzeitpunkte, sowie die spätesten Anfangs- und           Endzeitpunkt jedes Vorgangs festgestellt. Als Resultat ergibt sich ein oder auch mehrere kritische Pfad. Mit jedem weiteren steigt das Risiko für ungeplante             Verzögerungen im Zeitplan.
     
 **6.	Aktualisieren des Netzplans**
     
@@ -69,15 +69,6 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 ![Beispielabbildung](Methode_des_kritischen_Pfades/test-file.jpg)
 
 *lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
 
 # Siehe auch
