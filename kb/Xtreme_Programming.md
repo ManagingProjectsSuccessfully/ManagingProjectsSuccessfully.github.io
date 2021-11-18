@@ -1,14 +1,13 @@
 ---
 title: Xtreme_Programming
-tags: agil klassisch
+tags: agil 
 author: 29834
 anrechnung: a
 ---
 
-Kurzbeschreibung zu Xtreme_Programming um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Extreme Programming, kurz XP, ist die radikalste Umsetzung der agilen Softwareentwicklung. 
+Zurückzuführen ist die Methode auf die Softwareentwickler Kent Beck, Ward Cunningham und Ron Jeffries. 
+Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen , da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte. 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
