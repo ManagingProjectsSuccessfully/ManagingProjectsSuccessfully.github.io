@@ -12,6 +12,8 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # PEST - Analyse
 
+Die PEST Analyse ist ein eine Analysemethod, welche ursprünglich aus dem stretegischen Unternehmensmanagement kommt.[^1]
+
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
