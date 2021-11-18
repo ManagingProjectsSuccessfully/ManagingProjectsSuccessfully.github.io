@@ -51,8 +51,8 @@ x
 
 # Siehe auch
 bsp
-* [Ideen_Marathon](Ideen_Marathon.md)
-* [Walt_Disney_Methode](Walt_Disney_Methode.md)
+* [Trello_PM_Tool](Trello_PM_Tool.md)
+* [SCRUM](SCRUM.md)
 
 # Weiterführende Literatur
 
