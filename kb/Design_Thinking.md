@@ -39,7 +39,8 @@ Im Schritt des Beobachtens geht es darum, die Ziele, die Bedürfnisse sowie die 
 In diesem Schritt erfolgt die Synthese der ersten beiden Schritte. Das Ziel hierbei ist es auf Basis der der gesammelten Annahmen und Beobachtungen einen konzeptionellen Rahmen zu entwickeln und den Lösungsraum abzustecken. Es sollen dabei die Kernbedürfnisse der Nutzer interpretieren und formuliert werden.  (Es gibt  mehrere Techniken um dies zuerreichen, ein Beispiel wäre die Point-of-View Technik.)
 
 ### Phase 4: Ideen finden
-In der vierten Phase werden mit Hilfe von Kreativitätstechniken, wie z.B. [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapping.md), Kopfstandtechnik und 6_3_5 Methode Ideen gesammelt. Die Ideen können dabei auch sehr abstrakt und ausgefallen sein. Die Ergebnisse werden dann nach der Effizienz, der Machbarkeit und Wirtschaftlichkeit bewertet und sortiert. Es werden dann anhand dieser Priorisierung Ideen ausgewählt mit denen weitergearbeitet werden soll.
+In der vierten Phase werden mit Hilfe von Kreativitätstechniken, wie z.B. [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapping.md)und [6_3_5 Methode](
+6_3_5_Methode.md ) Ideen gesammelt. Die Ideen können dabei auch sehr abstrakt und ausgefallen sein. Die Ergebnisse werden dann nach der Effizienz, der Machbarkeit und Wirtschaftlichkeit bewertet und sortiert. Es werden dann anhand dieser Priorisierung Ideen ausgewählt mit denen weitergearbeitet werden soll.
 
 ### Phase 5: Prototypen entwickeln 
 In dieser Phase werden für die ausgewählten Ideen Prototypen gebaut, damit die ausgedachten Konstrukte anschaulicher werden und Annahmen getestet werden können. Es ist dabei nicht wichtig, ob die Prototypen perfekt sind. Es wichtiger das Sachen kreativ und so einfach wie möglich angegangen werden. 
