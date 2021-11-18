@@ -1,6 +1,6 @@
 ---
 title: Meilensteintrendanalyse
-tags: agil klassisch
+tags: klassisch
 author: CatPec
 anrechnung: k 
 ---
