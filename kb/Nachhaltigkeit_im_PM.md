@@ -21,7 +21,7 @@ Inhaltsverzeichnis
     - 2.2 Nachteile
 3. Methoden und Techniken von Nachhaltigkeit im Projektmanagement
 4. Auswirkungen von Nachhaltigkeit im Projektmanagement
-5. Darstellung verschiedener Nachhaltigkeitskonzepte 
+5. Beispiele für Nachhaltigkeit im Projektmanagement 
 
 
 Begriffsherleitung
@@ -32,36 +32,23 @@ werden, etwas zu erhalten.[^3]
  
 
 
+Gründe für Nachhaltigkeit im Projektmanagement
+
+Vorteile
+
+- mehr Chancen und Risiken können vor Projektbeginn identifiziert werden, da nachhaltige Betrachtung eine breitere Sichtweise ermöglicht
+- transparentere Kommunikation und Entscheidungen. Dadurch werden die Akzeptanz und die Motivation der MitarbeiterInnen als auch der 
+der Stakeholder erhöht[^4]
+
+
+Nachteile
+
+- höhere Transaktionskosten, durch vermehrten Aufwand in der Projektplanung
+- Komplexität des Projektes steigt[^4]
 
 
 
 
-
-
-
-
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Nachhaltigkeit_im_PM/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -105,5 +92,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: https://de.wikipedia.org/wiki/Nachhaltigkeit#Begriffsgeschichte
 [^2]: https://www.societybyte.swiss/2018/05/01/maiausgabe-nachhaltiges-projektmanagement/)
 [^3]: https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: https://link.springer.com/content/pdf/10.1007%2F978-3-658-20500-3.pdf
+
 
