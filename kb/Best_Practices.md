@@ -7,7 +7,7 @@ anrechnung: k
 
 Ein Projekt zu planen und zu überwachen, sodass sowohl Erwartungen als auch Zeitpläne und Budgets eingehalten werden können, ist eine herausfordernde Aufgabe. Hierbei können leicht Details vergessen werden. Um dies zu verhindern kann auf verschiedene Tipps bzw. Best Practices zurückgegriffen werden, im Folgenden werden von diesen einige grundsätzliche ausgeführt. 
 
-### 1. Frühzeitige und regelmäßige Kommunikation mit allen Stakeholdern:
+## 1. Frühzeitige und regelmäßige Kommunikation mit allen Stakeholdern:
 Von Projektbeginn an sollten alle Stakeholder über Ziele und aktuelle Zwischenstände des Projekts regelmäßig informiert werden. Zu den Stakeholdern gehören beispielsweise die Teammitglieder, Manager oder auch Externe wie Kunden. 
 
 ## 2. Kommunikation von Auswirkungen bei Erweiterung des Projektumfangs:
@@ -18,9 +18,11 @@ Im Projekt ist es sehr wichtig mögliche Risiken zu identifizieren, einzuschätz
 
 ## 4. Detaillierter Projektplan:
 Der Projektplan soll zur Organisation von Aufgaben und Verantwortlichkeiten dienen. Hierzu sind neben Zeit, Budget und Umfang auch Ziele und Probleme in die Planung zu integrieren. Bei der Verteilung von Aufgaben auf Ebene einzelner Arbeitspakete ist es wichtig darauf zu achten, dass diese in vorgegebener Zeit erledigt werden können.  Überarbeitung und Demotivation können dadurch verhindert werden. Ein ständiges Monitoring des Projektfortschritts ist hierfür hilfreich.
-5. Schriftliche Dokumentation:
+
+## 5. Schriftliche Dokumentation:
 Das schriftliche Festhalten von Fakten ist in einem Projekt ein sehr wichtiges Instrument um sicherzustellen, dass allen Stakeholdern Daten zur Verfügung stehen. Des Weiteren kann die Dokumentation von Projektfortschritten später dazu dienen Entscheidungen zu treffen oder nachzuvollziehen, warum bestimmte Entscheidungen getroffen wurden. 
-6. Definierte Start- und Endpunkte:
+
+## 6. Definierte Start- und Endpunkte:
 Zu Beginn eines Projekts sollte eine Kick-Off-Veranstaltung abgehalten werden. Das bietet die Gelegenheit alle Projektbeteiligten zu versammeln, sich kennenzulernen und auf das gemeinsame Arbeiten einzustimmen. Nach Projektende wiederum ist der Moment erreicht, an dem es Zeit ist zu analysieren wie das Projekt abgelaufen ist, welche Fehler gemacht worden sind und was gut gelaufen ist. Hier sollten erneut alle Projektbeteiligten in einer Besprechung zusammengebracht werden und deren Ansichten über Erfolge und Misserfolge zu sammeln. Ziel ist es die „Lessons learned“ zu nutzen, um nächste Projekte zu optimieren und ggf. neue Best Practices zu formulieren. Dadurch können idealerweise auch Kosten und Zeit gespart werden.
 
 
