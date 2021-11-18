@@ -37,7 +37,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Was ist SAFe?
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -45,7 +45,8 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung]({Projekt}/test-file.jpg)
+![Beispielabbildung]({Projekt}/test-file.jpg)[PI-Planning-in-SAFe-Big-Picture.svg.pdf](https://github.com/starni26/ManagingProjectsSuccessfully.github.io/files/7563934/PI-Planning-in-SAFe-Big-Picture.svg.pdf)
+
 
 *lustiges Testbild*
 
