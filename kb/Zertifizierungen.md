@@ -6,7 +6,7 @@ anrechnung: k oder a
 ---
 # 1. Zertifizierungen und deren Bedeutung im Projektmanagement 
 
-Bereits in den vorherigen Artikeln wurde deutlich betont, dass es nicht nur eine gültige Definition von Projektmanagement (PM) gibt und es neben der klassischen und agilen Variante zu Abweichungen in der praktischen Umsetzung kommen kann. 
+Bereits in den vorherigen Artikeln wurde deutlich betont, dass es nicht nur eine gültige Definition von [Projektmanagement](Projektmanagement.md) (PM) gibt und es neben der klassischen und agilen Variante zu Abweichungen in der praktischen Umsetzung kommen kann. 
 Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der Umsetzung des PM treffen zu können, ist es notwendig, die Fähigkeiten von unabhängigen und breitflächig akzeptierten Instanzen zertifizieren zu lassen. Dies geschieht über Zertifizierungsstellen wie z.B. der [DEKRA](https://www.dekra-akademie.de), dem [TÜV](https://akademie.tuv.com/catalogsearch/result/?q=Projektmanager) oder der [Deutschen Gesellschaft zur Zertifizierung von Managementsystemen (DQS)](https://www.dqs.de/de/), die neben dem Lehrangebot für die Zertifizierung auch eine Prüfung zur Zertifikatsausstellung anbieten.[^1]
 
 # 2. Vergleich der Zertifizierung im PM
@@ -28,7 +28,7 @@ Ziel dieser Tabelle ist es, einen ersten Überblick über PM-Zertifizierungen zu
 
 # 3. Auswahl der passenden Zertifizierung
 
-Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget, dem aktuellen Wissensstand oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitnehmer die Anerkennung des Zertifikats bei internationalen Arbeitgebern, so bietet sich ein Zertifikat der [IPMA-Organisation](https://www.gpm-ipma.de/ueber_uns/ipma.html) an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PM Zertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das [PMP-Zertifikat](https://www.pmi-gc.de/das-chapter/pmi) oder die [PMI-ACP-Zertifizierung](https://www.pmi.org/certifications/agile-acp) der PMI eine höhere Chance, anerkannt zu werden.[^2][^3]
+Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget, dem aktuellen Wissensstand oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitnehmer die Anerkennung des [Zertifikats bei internationalen Arbeitgebern](Internationale_Projektmanagement_Standards.md), so bietet sich ein Zertifikat der [IPMA-Organisation](https://www.gpm-ipma.de/ueber_uns/ipma.html) an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PM Zertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das [PMP-Zertifikat](https://www.pmi-gc.de/das-chapter/pmi) oder die [PMI-ACP-Zertifizierung](https://www.pmi.org/certifications/agile-acp) der PMI eine höhere Chance, anerkannt zu werden.[^2][^3]
 
 # 4. Praktische Relevanz von Zertifizierungen im PM
 
@@ -54,10 +54,20 @@ Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Proj
 
 # Abkürzungsverzeichnis
 
+* PM: Projektmanagement
+* PMI: Project Management Institute
+* PMP:Project Management Professional
+* IPMA: International Project Management Association
+* PSM1: Professional Scrum Master 1
+
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Zertifizierungen.md)
+* [Projektmanagement](Projektmanagement.md)
+* [PMI_Institution](PMI_Institution.md)
+* [IPMA_Institution](IPMA_Institution.md)
+* [GPM_Institution](GPM_Institution.md)
+* [SCRUM_org_Institution](SCRUM_org_Institution.md)
+* [Internationale_Projektmanagement_Standards](Internationale_Projektmanagement_Standards.md)
 
 # Weiterführende Literatur
 
