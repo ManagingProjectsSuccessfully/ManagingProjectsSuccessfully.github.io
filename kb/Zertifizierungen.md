@@ -77,7 +77,7 @@ Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Proj
 
 # Quellen
 
-[^1]: [Projekte und Projektmanagement](https://link-1springer-1com-1v0gnf2jn006b.han.ub.fau.de/content/pdf/10.1007%2F978-3-658-30085-2.pdf)
+[^1]: [Projekte und Projektmanagement](https://link-1springer-1com-1v0gnf2jn006b.han.ub.fau.de/content/pdf/10.1007%2F978-3-658-30085-2.pdf) (S. 103ff.)
 [^2]: [Zertifizierungen](https://www.peterjohann-consulting.de/zertifizierungen/#1_zertifizierungen_im_projektmanagement)
 [^3]: [Karriere: IPMA®, PMI® oder PRINCE2® - welche Projektmanagement-Zertifizierung ist die richtige?](https://firmen.handelsblatt.com/projektmanagement-zertifizierung.html)
 [^4]: [Projektmanagement Zertifizierung – Überblick und Empfehlungen](https://greenprojectsconsulting.com/projektmanagement/projektmanagement-zertifizierung/#t-1626027170949)
@@ -86,7 +86,7 @@ Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Proj
 [^7]: [Was bietet die Zertifizierung zum "PMI Agile Certified Practitioner" (PMI-ACP)?Projektmanagement Zertifizierung – Überblick und Empfehlungen](https://www.projektmagazin.de/artikel/was-bietet-die-zertifizierung-zum-pmi-agile-certified-practitioner-pmi-acp_1078661)
 [^8]: [Projektmanagement: Wer verdient wie viel](https://www.academics.de/ratgeber/projektmanager-gehalt)
 [^9]: [Projektmanagement-Zertifizierung: Sinn oder Unsinn?](https://www.haufe-akademie.de/blog/themen/projekt-prozessmanagement/projektmanagement-zertifizierungen-sinn-oder-unsinn/)
-[^10]: [Strategisches Projektmanagement](https://link-1springer-1com-1v0gnf2jn0092.han.ub.fau.de/content/pdf/10.1007%2F978-3-642-34761-0.pdf)
+[^10]: [Strategisches Projektmanagement](https://link-1springer-1com-1v0gnf2jn0092.han.ub.fau.de/content/pdf/10.1007%2F978-3-642-34761-0.pdf) (S. 129)
 
 
 
