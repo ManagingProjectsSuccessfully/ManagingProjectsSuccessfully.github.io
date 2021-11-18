@@ -29,7 +29,7 @@ In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereic
 * Technical - Technische Faktoren  
 
 ![Faktoren](PEST_Analyse/pest-analyse-projekt.jpg)
-
+Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder aber für eine gesamte Organisation ergeben sich innerhalb der Faktoren ganz unterschiedliche Fragestellungen.  
 ### Politische Faktoren
 Altbackene Technologien, die bestreft werden(Verbrenner)
 Gesetzliche Vorschriften
