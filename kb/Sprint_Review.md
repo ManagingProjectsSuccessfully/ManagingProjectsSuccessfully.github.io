@@ -110,9 +110,7 @@ Fortschritte des Produktes in Richtung des vorgegebenen Ziels.[^6]
 [^1]: https://www.factro.de/blog/agiles-projektmanagement
 [^2]: https://scrumguide.de/die-geschichte-von-scrum/
 [^3]: https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-artefakte
-[^4]: https://th.bing.com/th/id/R.76d74b272367227af5940a48d6c786d8?
-rik=ed955fWu7mgGwQ&riu=http%3a%2f%2fimg.selzstatic.com%2fitems%2f151237%2fyeehcvd3qld%2foriginal.png%3fw%3d1600%26fit%3dmin&ehk=CJg58oCI6zYMF4aadVPeWyF1RVH7DeyDTWrFtd8q%
-2bnY%3d&risl=&pid=ImgRaw&r=0
+[^4]: https://dl.dasscrumteam.com/Scrum%20Guide%20Poster%20de%202.0.pdf
 [^5]: https://www.agile-academy.com/de/product-owner/eine-agenda-fuer-das-sprint-review/
 [^6]: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf
 
