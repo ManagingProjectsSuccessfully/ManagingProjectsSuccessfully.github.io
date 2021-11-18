@@ -61,8 +61,8 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 | Vorteile      | Nachteile     |
 | ------------- | ------------- |
-|Minimierung der Projektdauer  | bei Verzögerung eines Vorgangs des CP Verzögerung des ganzen Projekts|
-| Einfache Bestimmung besonders wichtiger Aufgaben und Hervorhebung von Projektengpässen  | Unterschiedliche subjektive Wahrnehmung der Projektteilnehmer über Relevanz  |
+|Minimierung der Projektdauer| bei Verzögerung eines Vorgangs des CP Verzögerung des ganzen Projekts|
+|Einfache Bestimmung besonders wichtiger Aufgaben und Hervorhebung von Projektengpässen|Unterschiedliche subjektive Wahrnehmung der Projektteilnehmer über Relevanz|
 |Übersichtliche Darstellung|wenige Möglichkeiten komplexe Abhängigkeiten einfach zu beschreiben|
 |Möglichkeit eines Vergleichs des geplanten Fortschritts mit aktuellem Stand und somit frühzeitige Reaktion|Schneller Verbrauch von Pufferzeiten|
 # Hier ein Beispieltext mit ein paar Verlinkungen
