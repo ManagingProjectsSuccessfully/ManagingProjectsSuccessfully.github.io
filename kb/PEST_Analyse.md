@@ -22,6 +22,12 @@ Maßnahmen definieren zu können. Im Projektmanagement wird die PEST - Analyse u
 * Um Einflussfaktoren im Rahmen einer [Umfeldanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umfeldanalyse.md) zu sammeln
 
 ## Faktoren der PEST - Analyse
+In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereiche eingeteilt:
+* Political - Politische Faktoren
+* Economic - Wirtschaftliche Faktoren
+* Socio-Cultural - Sozio-kulturelle Faktoren
+* Technical - Technische Faktoren  
+
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
