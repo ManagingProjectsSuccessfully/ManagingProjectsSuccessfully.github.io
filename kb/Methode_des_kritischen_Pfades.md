@@ -62,6 +62,7 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 
 
+
 ## 2. Vor- und Nachteile der Methode
 
 | Vorteile      | Nachteile     |
