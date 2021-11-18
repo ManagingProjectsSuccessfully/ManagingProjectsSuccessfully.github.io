@@ -67,7 +67,9 @@ Die PEST - Analyse ist im Lauf der Zeit um einige Faktoren erweitert worden, wod
 Einige der weiterführenden Analysen sind: 
 * SLEPT, in welcher noch die legalen Faktoren hinzukommen
 * STEPE, bei der zusätzlich noch ecological - ökolöogische Faktoren betrachet werden
-* PESTEL, bei der noch legale und environmental - Umwelt Faktoren analysiert werden 
+* PESTEL, bei der noch legale und environmental - Umwelt Faktoren analysiert werden  
+
+Zudem gibt es noch weitere Analysen bei denen zum Beispiel zusätzliche noch regulatorische und/oder demographische Faktoren betrachtet werden.  
 
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
