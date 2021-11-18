@@ -4,21 +4,18 @@ tags: agil klassisch
 author: zo54hoko
 anrechnung: k 
 ---
-Die Deutsche Gesellschaft für Projektmanagement (GPM) ist ein führender Fachverband für [Projektmanagement](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md). Der Verband ist das größte Netzwerk von Projektmanagement Experten auf dem europäischen Kontinent mit aktuell 7800 Mitglieder und 370 Firmenmitglieder aus allen Bereichen der Wirtschaft, Hochschulen und öffentlichen Institutionen [^1].  
+
+Die Deutsche Gesellschaft für Projektmanagement (GPM) ist ein führender Fachverband für [Projektmanagement](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md). Der Verband ist das größte Netzwerk von Projektmanagement Experten auf dem europäischen Kontinent, mit aktuell 7800 Mitglieder und 370 Firmenmitgliedern aus allen Bereichen der Wirtschaft, Hochschulen und öffentlichen Institutionen [^1].  
 
 
 
+# Geschichte
 
-# GESCHICHTE
-
-In der 1979 von Roland Gutsch gegründeten Gesellschaft mit Sitz in Nürnberg sind nach eigenen Angaben rund 8.000 Mitglieder aus der Wirtschaft, der Hochschulen und der öffentlichen Hand vertreten. Den Gebrauch von Projektmanagement zu unterstützen, zu verbessern und standardisieren, ist das zentrale Ziel der GPM. Der Verein ist Anbieter von Lehrgängen, Seminaren, Workshops und Tagungen und bietet Weiterbildungsangebote für unterschiedliche Level der Projektmanagement-Kompetenz an. Schulungsgrundlage ist der von der IPMA vorgelegte Projektmanagement-Standard IPMA Individual Competence Baseline. Die aktuell gültige Version ICB 4.0 wurde 2015 von der IPMA veröffentlicht und wird seit Februar 2018 von der GPM in Deutschland genutzt [^2].
-
+In der 1979 von Roland Gutsch gegründeten Gesellschaft, mit Sitz in Nürnberg, sind nach eigenen Angaben Mitglieder aus der Wirtschaft, den Hochschulen und der öffentlichen Hand vertreten. Den Gebrauch von Projektmanagement zu unterstützen, zu verbessern und standardisieren, ist das zentrale Ziel der GPM. Der Verein ist Anbieter von Lehrgängen, Seminaren, Workshops und Tagungen und bietet Weiterbildungsangebote für unterschiedliche Level der Projektmanagement-Kompetenz an. Schulungsgrundlage ist der von der IPMA vorgelegte Projektmanagement-Standard IPMA Individual Competence Baseline. Die aktuell gültige Version ICB 4.0 wurde 2015 von der IPMA veröffentlicht und wird seit Februar 2018 von der GPM in Deutschland genutzt [^2].
 
 
 
-
-
-# AUSZEICHNUNGEN
+# Auszeichnungen
 
 * Deutscher Project Excellence Award
 
@@ -28,15 +25,10 @@ Der Deutsche Project Excellence Award wird seit 1997 von der GPM an Unternehmen 
 
 2007 wurde der Roland Gutsch Project Management Award gegründet, um die Menschen hinter der Organisation von Projekten, wie des Wiederaufbaus der Frauenkirche in Dresden oder der FIFA-Fußballweltmeisterschaft 2006, zu ehren [^4].
 
-
 * Deutscher Studienpreis Projektmanagement
 
-
-Seit 1997 zeichnet die GPM die drei besten wissenschaftlichen Abschlussarbeiten in den Rubriken Bachelorarbeit, Masterarbeit und Dissertation aus, in denen einzigartige Lösungen oder innovative Ideen ausgearbeitet wurden.
-Zur Unterstützung der nachfolgenden Projektmanagement-Karriere und als Auszeichnung für ihre Leistung, bekommen die Preisträgerinnen und Preisträger eine Prämie im Ausmaß von 1000 Euro, eine Urkunde und eine kostenlose Mitgliedschaft in der GPM. Des Weiteren haben die Sieger des Awards die Option, die wissenschaftliche Arbeit und sich selbst in der „Projektmanagement Aktuell“, dem führenden Fachmagazin für Projektmanagement, sich vorzustellen [^5].
-
-
-
+Seit 1997 zeichnet die GPM die drei besten wissenschaftlichen Abschlussarbeiten in den Rubriken Bachelorarbeit, Masterarbeit und Dissertation aus, in denen einzigartige Lösungen oder innovative Ideen ausgearbeitet werden.
+Zur Unterstützung der nachfolgenden Projektmanagement-Karriere und als Auszeichnung für ihre Leistung, bekommen die Preisträgerinnen und Preisträger eine Prämie im Ausmaß von 1000 Euro, eine Urkunde und eine kostenlose Mitgliedschaft in der GPM. Des Weiteren haben die Sieger des Awards die Option, die wissenschaftliche Arbeit und sich selbst in der „Projektmanagement Aktuell“, dem führenden Fachmagazin für Projektmanagement, vorzustellen [^5].
 
 * GPM Young Project Manager Award
 
@@ -44,31 +36,27 @@ Der Award zeichnet begabte Nachwuchs-Projektmanagerinnen und Projektmanager aus,
 
 
 
-
 # Projektmanagement-Studien
 
-Unterschiedliche Dimensionen des Projektmanagement geben der GPM die Möglichkeit verschiedene Studien zu vollziehen. Die Durchführung der Studien erfolgt entweder durch die GPM selbst oder Hochschulen, sowie Forschungseinrichtungen, realisiert.
-Ergebnisse der Studien berichten über zeigen [aktuelle Entwicklungen und zukünftige Trends im Projektmanagement](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md).
+Unterschiedliche Dimensionen des Projektmanagements geben der GPM die Möglichkeit verschiedene Studien zu vollziehen. Die Durchführung der Studien erfolgt entweder durch die GPM selbst, Hochschulen oder Forschungseinrichtungen, realisiert.
+Ergebnisse der Studien berichten über [aktuelle Entwicklungen und zukünftige Trends im Projektmanagement](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md)[^7].
 
+## Beispiel einer GPM-Studie aus dem Jahre 2007
 
-Nach Fertigstellung der Studien werden die wichtigsten Ergebnisse in einer Zusammenfassung auf den Internetseiten der GPM veröffentlicht, die Teilnehmer erhalten darüber hinaus eine individuelle Auswertung und profitieren so unmittelbar von ihrer Teilnahme [^7].
-
-
+![Beispielabbildung](https://blog.ibo.de/wp-content/uploads/2013/07/UrsachenProjektfehlschlaege-1024x560.png)
+*Fallen im Projektmanagement*
 
 # Das GPM Flüchtlingsprojekt 
 
 Im Zeitraum von November 2015 bis November 2017 hat die GPM ein Flüchtlingsprojekt umgesetzt. Anhand von Projektmanagement haben sich bewährte Projektmanager an der Flüchtlingshilfe- und Integration beteiligt.  
 Herausfordernde Gegebenheiten können durch Projektmanagement, das strategisches und operatives Handeln fördert, einfacher gehandhabt werden.
-Für alle beteiligten kann so das ideale Ergebnis mittels [Methoden](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) und unterschiedlichster Instrumente erzielt werden[^8].
-
-
+Für alle Beteiligten kann so das ideale Ergebnis mittels [Methoden](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) und unterschiedlichster Instrumente erzielt werden[^8].
 
 
 
 # YOUNG CREW
 
-
-1992 wurde die international aktive GPM Young Crew gegründet. Sie ist ein Netzwerk von jungen Projektmanagern bis zum Alter von 35 Jahren. Bei dieser Organisation werden, sowohl Schüler und Lehrer, die eine Interesse am Thema Projektmanagement haben, als auch Auszubildende und Studierende in vielen Fachrichtungen oder Young Professionals, die schon erste berufliche Erfahrungen gesammelt haben. 
+1992 wurde die international aktive GPM Young Crew gegründet. Sie ist ein Netzwerk von jungen Projektmanagern bis zum Alter von 35 Jahren. Bei dieser Organisation werden, sowohl Schüler und Lehrer, die eine Interesse am Thema Projektmanagement haben, als auch Auszubildende und Studierende in vielen Fachrichtungen oder Young Professionals, die schon erste berufliche Erfahrungen gesammelt haben, berücksichtigt. 
 Das Netzwerk der jungen Menschen lässt es möglich werden sich national und international zu fördern, das Thema Projektmanagement besser kennenzulernen und neue Menschen kennenzulernen. [^9]. 
 
 
