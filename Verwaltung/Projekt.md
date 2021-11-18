@@ -13,6 +13,12 @@ oben im Front-Matter (Bereich zwischen den `---`).)
 
 # Was ist SAFe? 
 
+Historisch + Erklärung 
+
+SAFe’s Seven Core Competencies of the Lean Enterprise
+
+![SAFe’s Seven Core Competencies of the Lean Enterprise]({Projekt}/Big_Picture_Overview_thumbnail-5.png)
+
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
@@ -38,7 +44,9 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Was ist SAFe?
+# Projekt-Inkrement
+
+## Projekt-Inkrement in SAFe
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -99,8 +107,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: [PI Planning. Projekt-Inkrement-Planung nach SAFe®] (https://www.microtool.de/wissen-online/was-ist-ein-pi-planning-in-safe/)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: [PI Planning. Projekt-Inkrement-Planung nach SAFe®](https://www.microtool.de/wissen-online/was-ist-ein-pi-planning-in-safe/)
+[^2]: [SAFe](https://www.scaledagileframework.com/#)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
