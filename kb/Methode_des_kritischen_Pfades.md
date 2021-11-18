@@ -91,6 +91,5 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Die ultimative Anleitung für den "kritischen Pfad"](https://de.smartsheet.com/critical-path-method)
 [^4]: [Methode des kritischen Pfades (Wikipedia)](https://de.wikipedia.org/wiki/Methode_des_kritischen_Pfades)
-Kurzbeschreibung zu Methode_des_kritischen_Pfades um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 
