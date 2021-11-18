@@ -14,7 +14,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 Die PEST Analyse ist ein eine Analysemethode, welche ursprünglich aus dem stretegischen Unternehmensmanagement kommt.[^1]  
 Ziel der Analyse ist es externe Einflussfaktoren auf eine Organisation zu erkennen, sowie Chancen und Risiken zu identifizieren um anschließend geeignete
-Maßnahmen definieren zu können. Im Projektmanagement wird die PEST - Analyse unter anderem in folgenden Bereichen eingesetzt:[^2]  
+Maßnahmen definieren zu können. Im Projektmanagement wird die PEST - Analyse unter anderem zu folgenden Zwecken eingesetzt:[^2]  
 
 * Um neue Projekte zu identifizieren
 * Zur Priorisierung von Projekten
