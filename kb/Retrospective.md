@@ -13,13 +13,14 @@ Die Retrospective ist ein wiederkehrendes Meeting aus dem agilen Management. Die
 
 # Einführung
 
-Beim agilen Projektmanagement geht es unter anderem um Verbesserung. Deshalb ist eine Retrospective am Ende jedes Sprints vorgesehen. Sie dient dazu, Arbeitsabläufe und die Zusammenarbeit kontinuierlich weiterzuentwickeln und zu optimieren. [^3]
+Beim agilen Projektmanagement geht es unter anderem um Verbesserung. Deshalb ist eine Retrospective am Ende jedes Sprints vorgesehen. Sie dient dazu, Arbeitsabläufe und die Zusammenarbeit kontinuierlich weiterzuentwickeln und zu optimieren. Dies erlangt man durch das Einholen von Feedback von den einzelnen Teammitgliedern. [^3]
 
 ## Vorgehen
 
-Es gibt verschiedene Herangehensweisen, eine Retrospective zu gestalten. Beispiele hierfür sind:
+Es gibt verschiedene Herangehensweisen, eine Retrospective zu gestalten. Das Format gelegentlich zu ändern kann für Abwechslung sorgen. 
+Beispiele hierfür sind:
 
-| Beispiel| Vorgehen | 
+| Grundgedanke| Vorgehen | 
 | ------------- | ------------- |
 | Analoges Vorgehen  | Hier werden Karteikarten verwendet. Jedes Teammitglied erhält zu Beginn Karteikarten auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehangen und besprochen. Ziel ist es, im Anschluss eine Liste zu erstellen mit Punkten die im nächsten Sprint berücksichtigt werden sollen. In der folgenden Retrospective wird überprüft, ob die Punkte umgesetzt werden konnten.[^3]|
 | Nutzen von digitalen Vorlagen | Eine weitere Möglichkeit ist es, digitale Vorlagen für die Retrospective zu nutzen. Diese gibt es zum Beispiel über Trello, Confluence, Miro oder Mural.[^4]|
@@ -32,10 +33,13 @@ Es gibt verschiedene Herangehensweisen, eine Retrospective zu gestalten. Beispie
 
 ## Vorteile
 
-Die regelmäßige Durchführung einer Retrospective bietet verschiedene Vorteile, darunter:
+Die regelmäßige Durchführung einer Retrospective bietet verschiedene Vorteile, darunter:[^1]
 
-* Datenerfassung und Feedback von den verschiedenen Teammitgliedern[^1]
-* Optimierung von Arbeitsabläufen und der Zusammenarbeit[^1]
+* Zeit und Raum für die Einholung von Feedback von den verschiedenen Teammitgliedern
+* Optimierung der Teamdynamik 
+* Optimierung von Arbeitsabläufen, Probleme beim Arbeitsprozess werden dargelegt 
+* Dokumentation des Feedbacks, die für das Team zu jeder Zeit ersichtlich ist
+* Unterstüzung bei der Entscheidungsfindung bezüglich des weiteren Vorgehens
 
 ## Nachteile
 
@@ -47,10 +51,9 @@ Probleme die bei der Retrospective auftreten können, sind die Folgenden:
 # Außerdem wissenswert
 
 Die Retrospective wird in verschieden Arten des agilen Projektmanagements eingesetzt, darunter zum Beispiel beim Scrum.[^1]
-x
 
 # Siehe auch
-bsp
+
 * [Trello_PM_Tool](Trello_PM_Tool.md)
 * [SCRUM](SCRUM.md)
 
