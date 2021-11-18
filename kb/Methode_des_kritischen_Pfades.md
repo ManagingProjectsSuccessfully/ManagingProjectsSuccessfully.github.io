@@ -83,7 +83,8 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [The critical path method in estimating project duration](https://www.infona.pl/resource/bwmeta1.element.baztech-c3d822db-42f7-4ad8-8b40-25acdb0518f9)
+* [CPM, PERT and Project Management with Fuzzy Logic Technique and Implementation on a Business](https://www.sciencedirect.com/science/article/pii/S1877042815057250)
 
 # Quellen
 
