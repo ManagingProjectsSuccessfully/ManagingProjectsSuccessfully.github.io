@@ -27,7 +27,7 @@ Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschm
 Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
 Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
 [Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
+Scheiferla Nemberch nä Bledzla Affnhidz.Briggn, nodwendich duusln Allmächd, hod der an 
 Gniedlaskubf daneem. 
 
 Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
