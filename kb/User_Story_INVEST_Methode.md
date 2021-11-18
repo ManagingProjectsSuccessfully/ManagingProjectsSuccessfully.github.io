@@ -24,12 +24,12 @@ Um eine gute User Story zu erstellen, müssen einige Kriterien eingehalten werde
 Dies ist definiert über die INVEST-Methode.
 INVEST steht dabei für sechs Eigenschaften, die erfüllt sein sollen, um eine qualitative User Story zu generieren.
 Die Kriterien sind wie folgt:
-I = Independent (= unabhängig)
-N = Negotiable (= verhandelbar)
-V = Valuable (= wertvoll)
-E = Estimable (= schätzbar)
-S = Small (= klein)
-T = Testable (= testbar) [^3]
+*I = Independent (= unabhängig)
+*N = Negotiable (= verhandelbar)
+*V = Valuable (= wertvoll)
+*E = Estimable (= schätzbar)
+*S = Small (= klein)
+*T = Testable (= testbar) [^3]
 
 ## Independent
 Independent bedeutet unabhängig. Jede User Story muss also unabhängig von den anderen Stories sein. 
