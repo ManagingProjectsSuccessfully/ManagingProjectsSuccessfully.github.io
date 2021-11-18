@@ -13,39 +13,33 @@ Die Retrospective ist ein wiederkehrendes Meeting aus dem agilen Management. Die
 
 # Einführung
 
-Beim Scrum Projektmanagement geht es unter anderem um Verbesserungen. Deshalb ist eine Retrospective am Ende jedes Sprints vorgesehen. [^3]
+Beim Scrum Projektmanagement geht es unter anderem um Verbesserungen. Deshalb ist eine Retrospective am Ende jedes Sprints vorgesehen. Sie dient dazu, Arbeitsabläufe und die Zusammenarbeit kontinuierlich weiterzuentwickeln und zu optimieren. [^3]
 
 ## Vorgehen
 
-## Ablauf
-
 Es gibt verschiedene Herangehensweisen, eine Retrospective zu gestalten. Beispiele hierfür sind:
 
-| Beispiel| Herangehensweise | 
+| Beispiel| Vorgehen | 
 | ------------- | ------------- |
 | Scrumcoaches.com  | Hier werden Karteikarten verwendet. Jedes Teammitglied erhält zu Beginn Karteikarten auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehangen und besprochen. Ziel ist es, im Anschluss eine Liste zu erstellen mit Punkten die im nächsten Sprint berücksichtigt werden sollen. In der folgenden Retrospective wird überprüft, ob die Punkte umgesetzt werden konnten.[^3]|
 | x | y |
 | .  | x|
 | x x|  x |
 
-*Abbildung: Vorgehen bei x*[^3]
+*Abbildung: Beispiele zum Gestalten einer Retrospective*
 
-## Bewertung und Verarbeitung
-
-text 
-
-# Vor- und Nachteile der x
+# Vor- und Nachteile der Retrospective
 
 ## Vorteile
 
-Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
+Die regelmäßige Durchführung einer Retrospective bietet verschiedene Vorteile, darunter:
 
-* ..
+* Datenerfassung und Feedback von den verschiedenen Teammitgliedern[^1]
 * ..
 
 ## Nachteile
 
-Schwächen der 6_3_5_Methode sind die Folgenden[^6]:
+Probleme die bei der Retrospective auftreten können sind die Folgenden:
 
 * xx
 * xx
