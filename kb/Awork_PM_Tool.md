@@ -22,11 +22,11 @@ Awork ermöglicht das Tracken der Zeit für Projekte und Aufgaben über einen Ti
 Auf dem Dashboard[^2], der graphischen Benutzeroberfläche, können relevante Funktionen übersichtlich abgelegt werden, was eine bedarfsorientierte und individuelle Anpassung ermöglicht. 
 Dafür können verschiedene Widgets ausgewählt werden, beispielsweise Textnotizen, Aufgabenliste, Projektliste, Zeitauswertung und Abwesenheit von Usern[^4].
 ![Beispielabbildung](Awork_PM_Tool/Dashboard_Bild.jpg)
-## 7. Weitere Funktionen[^1]
+## 7. Weitere Funktionen
 * Überblick über Auslastung, Teamplanung und Abwesenheit mit der Ressourcenplanung 
 * Aufgabenchat: Teamkommunikation und Feedback 
 * Zuweisung von Rechten an Teammitglieder und Externe durch das Rechtemanagement 
-* Automatisiertes Projektmanagement z.B.: smarte Mailings 
+* Automatisiertes Projektmanagement z.B.: smarte Mailings[^1] 
 # Preise 
 Nach den 14 Tagen der kostenlosen Testversion sind nur zahlungspflichtige Abonnements möglich. Die Premium Version wird für Teams bis etwa 50 User empfohlen. Bei monatlicher Zahlung sind es für einen Nutzer 12€, bei jährlicher Zahlung 10€ pro Monat und bei zweijährlicher Zahlung 8€ pro Monat. Die Enterprise Version richtet sich an größere Organisationen und kostet pro Nutzer bei jährlicher Zahlung 15€ pro Monat und bei zweijährlicher Zahlung 12€ pro Monat[^1]. 
 # Auf welchen Geräten kann man awork anwenden? 
@@ -38,14 +38,14 @@ Beispiele:
 * Google-, Apple-Kalender 
 * Abrechnungstools 
 * Microsoft Teams, Slack 
-* Google Drive 
+* Google Drive[^1]
 # Support
 Bei awork gibt es unterschiedliche Angebote zur Unterstützung der Nutzer: 
 * Blog auf der Homepage 
 * Helpcenter 
 * Webinare über Zoom 
 * Buchbare Beratungstermine[^1]
-* Aufgezeichnete Webinare und Interviews auf YouTube[^12]
+* Aufgezeichnete Webinare und Interviews auf YouTube[^11]
 # Vor- und Nachteile von awork 
 Vorteile: 
 * Umfassender Support 
@@ -55,9 +55,8 @@ Vorteile:
 * Einfache & intuitive Bedienung 
 * Serverstandorte in Deutschland mit ISO 27001 Zertifizierung 
 * Erfüllung der EU-Datenschutz-Grundverordnung (DSGVO) 
+* Möglichkeit für Feedback, Wünsche und Ideen[^1]
 * Weiterentwicklung durch Releases neuer Funktionen[^8]
-* Möglichkeit für Feedback, Wünsche und Ideen 
-
 Nachteile: 
 * Keine kostenlose Basisversion 
 * Sprachen nur Deutsch und Englisch 
