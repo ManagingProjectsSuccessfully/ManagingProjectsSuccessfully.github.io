@@ -1,8 +1,8 @@
 ---
 title: Ikea_Effekt
-tags: agil klassisch
+tags: agil
 author: julianTR4
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Ikea_Effekt um ein erstes Verständnis dafür zu schaffen um was es hier geht.
