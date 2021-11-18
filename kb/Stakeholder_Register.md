@@ -5,21 +5,20 @@ author: 21Nila
 anrechnung: k
 ---
 
-# Stakeholder Register
+# Definition
 
-Das Stakeholder Register ist ein Werkzeug 
-Das Stakeholder Register ist ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen, die ein Interesse am Ausgang eines Projekts haben, besitzt. 
+Das Stakeholder Register dient als Werkzeug für die Projektplanung.
+Dabei handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben. 
 
-Das Register wird von Projektmanagern früh im Planungsprozess angelegt und während der gesamten Lebensdauer des Projekts auf dem neuesten Stand gehalten. 
-
-Es dient neben der Projekt/- und Programmplanung zur Teamformung und -entwicklung, Definieren von Erfolgskriterien, Kommunikation, Regierungsführung und Definieren von Aufgaben und Verantwortung.
-
+Das Register wird früh im Planungsprozess von Projektmanagern angelegt und während der gesamten Lebensdauer des Projekts auf dem neuesten Stand gehalten.
 
 <!-- Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut oben im Front-Matter (Bereich zwischen den `---`). Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht. -->
 
 # Gestalt des Registers
 
-Unabhängig von der Größe des Unternehmens sollte sich jeder Projekt Manager aufgrund der Individualität des Stakeholder Managements einen eigenen Register Entwurf anfertigen. Im Folgenden sind die gängigsten Kategorien aufgelistet.
+Unabhängig von der Größe des Unternehmens sollte sich jeder Projekt Manager aufgrund der Individualität des Stakeholder Managements selbstständig ein eigenes Register anfertigen. 
+
+Im Folgenden sind die gängigsten Kategorien aufgelistet:
 
 * Name des Stakeholders
 * Art von Stakeholder
@@ -50,29 +49,34 @@ Zur Erstellung des Registers wird häufig Microsoft Excel benutzt. Das liegt dar
 * Gibt es Verbindungen oder Abhängigkeiten unter den Stakeholdern?
 
 Weiterhin gibt es Tipps, die zur Erstellung des Registers wichtig zu beachten sind:
-Bevor das Register erstellt wird: Fragen, die du von deinen Stakeholdern beantwortet haben willst, sollten im Voraus klar sein
+* Bevor das Register erstellt wird: Fragen, die du von deinen Stakeholdern beantwortet haben willst, sollten im Voraus klar sein
 * Die Formulierung des Registers sollte so gestaltet sein, als würde es für die gesamte Welt, besonders für deine Stakeholder, veröffentlicht werden 
 * Informationen sollten nützlich aber nicht überwältigend sein
 * Im Register sollten auch die Personen aus dem Projekt beachtet werden, da diese möglicherweise auch Anteile haben
 * Ständiges Review und Update des Registers sind wichtig, damit Relevanz und Nutzen beibehalten werden
 
-Außerdem sollte das Register keine sensiblen Informationen enthalten, welche die Stakeholder schädigen könnten. Das Dokument sollte mit anderen Projektdokumentationen aufbewahrt werden und für die Führungskräfte, Team Mitglieder sowie gegebenenfalls Stakeholdern zugänglich sein. 
+Außerdem sollte das Register keine sensiblen Informationen enthalten, welche die Stakeholder schädigen könnten. Das Dokument sollte mit anderen Projektdokumentationen aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein. 
 
-# Wichtigkeit eines Registers
+# Vorteile eines Registers
+
+Register spielen eine wichtige Rolle im Stakeholdermanagement, da sie jede Menge an Wert in der Projektplanung mit sich bringen. 
+
+## Breite Anwendung
+
+Das Register kann vielseitig eingesetzt werden. Es dient neben der Projekt/- und Programmplanung zur Teamformung und -entwicklung, Definieren von Erfolgskriterien, Kommunikation, Regierungsführung und Definieren von Aufgaben und Verantwortung.
 
 ## Bessere Kommunikation
 
 Ein gutes Stakeholder Register hilft bei der Identifizierung der Präferenzen der Stakeholder und ermöglicht eine effektive Kommunikation. Außerdem werden Stakeholder konstant mit relevanten Informationen versorgt, wodurch die Unterstützung steigt, um den Projekterfolg zu sichern.
 
-## Besseres Gefühl
+## Fördern des Teamgeists
 
 Wie bereits erwähnt, sollte das Register schon am Anfang eines Projektes erstellt werden. Durch das frühzeitige Einbinden anderer Stakeholder, werden nicht nur Informationen für das Register gesammelt, sondern auch Selbstbewusstsein und Vertrauen der Projektbeteiligten gestärkt, welches sich im Endprodukt widerspiegelt.
 
 # Siehe auch
 
-* [Stakeholder](Stakeholder.md)
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Stakeholder_Register.md)
+* [Stakeholdermanagement](Stakeholdermanagement.md)
+* [Stakeholderanalyse](Stakeholderanalyse.md)
 
 # Weiterführende Literatur
 
