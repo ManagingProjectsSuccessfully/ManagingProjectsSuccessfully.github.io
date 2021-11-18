@@ -24,4 +24,10 @@ tags: orga
 | Ansprechend für Zielgruppe | Kommiliton:innen erhalten durch den Beitrag einen guten Überblick über das entsprechende Thema, haben Spaß beim Lesen des Artikels und folgen den Verlinkungen |1-10|
 
 
+# Kurze Zusammenfassung des Beitrags
 
+
+# Positvie Aspekte
+
+
+# Negative Aspekte
