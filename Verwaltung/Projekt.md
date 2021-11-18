@@ -46,7 +46,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Kritik 
 
 ![Beispielabbildung]({Projekt}/test-file.jpg)
-
+![Projekt Inkrement Planung] ({Projekt}/PI-Planning-in-SAFe-Big-Picture.svg.pdf)
 
 *lustiges Testbild*
 
