@@ -28,6 +28,8 @@ In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereic
 * Socio-Cultural - Sozio-kulturelle Faktoren
 * Technical - Technische Faktoren  
 
+![Faktoren](PEST_Analyse/pest-analyse-projekt.jpg)
+
 ### Politische Faktoren
 Altbackene Technologien, die bestreft werden(Verbrenner)
 Gesetzliche Vorschriften
