@@ -1,11 +1,11 @@
 ---
-title: Proof_of_Technology
+title: Schaetzverfahren_Kosten
 tags: agil klassisch
-author: ra94qony
+author: Sven017
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Proof_of_Technology um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Kurzbeschreibung zu Schaetzverfahren_Kosten um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
@@ -45,7 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Proof_of_Technology/test-file.jpg)
+![Beispielabbildung](Schaetzverfahren_Kosten/test-file.jpg)
 
 *lustiges Testbild*
 
@@ -89,7 +89,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Proof_of_Technology.md)
+* [Link auf diese Seite](Schaetzverfahren_Kosten.md)
 
 # Weiterführende Literatur
 
