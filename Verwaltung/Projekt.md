@@ -11,7 +11,7 @@ Der folgende Artikel handelt von der Projekt-Inkrement Planung nach SAFe. Dabei 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).)
 
-# Was ist SAFe? 
+# 1.) Was ist SAFe? 
 
 Historisch + Erklärung 
 
@@ -44,9 +44,9 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Projekt-Inkrement
+# 2.) Projekt-Inkrement (PI)
 
-## Projekt-Inkrement in SAFe
+## 2.1) PI in SAFe
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -58,6 +58,10 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 ![Projekt Inkrement Planung]({Projekt}/PI-Planning-in-SAFe-Big-Picture.svg.pdf)
 
 *lustiges Testbild*
+
+# 3.) PI Planung Input 
+
+# 4.) PI Planung Output 
 
 # Aspekt 2
 
