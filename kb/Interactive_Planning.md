@@ -1,11 +1,11 @@
 ---
-title: Mindset
+title: Interactive_Planning
 tags: agil klassisch
-author: ebressel
+author: Vallejk
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Mindset um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Kurzbeschreibung zu Interactive_Planning um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
@@ -45,7 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Mindset/test-file.jpg)
+![Beispielabbildung](Interactive_Planning/test-file.jpg)
 
 *lustiges Testbild*
 
@@ -89,7 +89,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Mindset.md)
+* [Link auf diese Seite](Interactive_Planning.md)
 
 # Weiterführende Literatur
 
