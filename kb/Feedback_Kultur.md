@@ -135,7 +135,7 @@ https://www.berufsstrategie.de/bewerbung-karriere-soft-skills/feedback-geben.php
 https://www.kraus-und-partner.de/wissen-und-co/wiki/feedback-kultur-entwickeln-berater-beratung
 
 
-
+Um zielorientiertes Feedback zu gewährleisten, sollten die in der Psychologie und Pädagogik entwickelten Methoden und Regeln für Feedbackgeber und -empfänger befolgt werden. Effektiv können diese Regeln aber nur angewendet werden und Ihre Wirkung in der Veränderung von verhalten entfalten, wenn der Feedbackgeber es ehrlich meint und damit dessen nonverbale Signale mit den verbalen übereinstimmen. Bedeutet, es muss auch viel auf die eigene Gestik und Mimik, nicht nur auf das Gesprochene Wort geachtet werden. Werden die folgenden zehn Regeln von beiden Parteien befolgt, ist das eine solide Grundlage für konstruktives Feedback. 
 
 FEEDBACKREGELN FÜR DEN FEEDBACKGEBER
 1.	Bereitschaft des Nehmers klären, möchte dieser Feedback erhalten?
