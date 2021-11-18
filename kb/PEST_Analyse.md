@@ -105,8 +105,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: [https://en.wikipedia.org/wiki/PEST_analysis] (https://en.wikipedia.org/wiki/PEST_analysis)
-[^2]: [https://projekte-leicht-gemacht.de/blog/methoden/projektrisiken/pest-analyse/] (https://projekte-leicht-gemacht.de/blog/methoden/projektrisiken/pest-analyse/)
-[^3]: [Die STEP-Analyse einfach erklärt] (https://www.youtube.com/watch?v=TNLLyS0nrM8)
+[^1]: https://en.wikipedia.org/wiki/PEST_analysis
+[^2]: https://projekte-leicht-gemacht.de/blog/methoden/projektrisiken/pest-analyse/
+[^3]: https://www.youtube.com/watch?v=TNLLyS0nrM8
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
