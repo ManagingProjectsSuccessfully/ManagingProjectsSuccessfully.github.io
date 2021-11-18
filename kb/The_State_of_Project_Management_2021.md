@@ -25,22 +25,39 @@ So wird im diesjährigen Bericht mit Hilfe eines Diagramme Rückschlüsse gewonn
 Mit Hilfe der fünf Maturity Levels wird die Reife des Projekt Managements genauer beschrieben. Damit wird Unternehmen aufgezeigt, auf welchem Level sich einzelne Abschnitte im Projekt Management befinden, um hier besser anzugreifen & eine Entwicklung einzuleiten. 
 
 * Level 1: Initial
-   - Intial zu Deutsch anfänglich beschreibt ein Management, welches nicht vorhanden ist. Prozesse werden ohne Daten erhoben & sind ad-hoc geplant.
+   - Beschreibt ein Projekt Management, welches in Wirklichkeit nicht vorhanden ist. Prozesse werden ohne Daten erhoben & sind ad-hoc geplant. Es gibt folglich kein klar strukturiertes Vorgehen
 * Level 2: Defined
-   - There are pockets of excellence and some processes but the application is largely down to the individual. There are defined skills xxx within the organisation, not necessarily within a dedicated PMO function; there are no measures in place. 
+   - Im Gegensatz zu Level 1 wird ein einheitliches Vorgehen praktiziert, jedoch nicht in allen Prozessen gibt es eine Struktur. Weiterhin ist der Unterschied nicht sehr groß. Es werden immer noch keine Daten erhoben.
 * Level 3: Standardised
-   - All processes are detailed, educated and repeatable; there is a PMO in place providing guidance and limited education; there is some measurement of high-level KPIs which are communicated to direct management.
+   - Sämtliche Prozesse sind genausten ausgearbeitet & können wiederholt angewandt werden. Dies ermöglicht die Durchführung Projekte jeglicher Größe. Darüberhinaus werden erste Daten erhoben.
 * Level 4: Managed
-   - All processes are embedded and utilised consistently: there is a dedicated PMO function that enables communication, learning and a culture of change; there is a consistent method to measure both  projects and the PMO to senior management.
+   - Abgrenzend zu Level 3 gibt es in Level 4 eine fest zugeordnete PMO-Funktion für Veränderungen, Kommunikation & Lerneffekte ermöglicht. Die gewonnenen Erkenntnisse werden durch das PMO gemessen.
 * Level 5: Optimising
-   - Processes are continuously reviewed and improved; the PMO is respected as a centre of excellence and provides a career path to project professional: the performance of both projects and the PMO is measured and informs decision-making.
+   - Alle Prozesse werden immer wieder betrachtet & verbessert, sodass ein Prozess kontinuierlicher Optimierung entsteht. Performance des eigentlichen Projekts & des PMO werden gemessen & fließen in die Entscheidungsgebung mit ein.
+
+In Level 1 bis 2 werden Projekte in kleineren Maßstäben durchgeführt, die nicht all zu viel Planung mit sich bringen. Umso höher die Level sind, desto struktierter werden das Projekt Management arbeiten und damit auch Projekte größeren Maßes abwickeln.
 
 # Key Drives to PPM Maturity:
 
 1. Methodology
+
+Define consistent, practial, fit for purpose PPM
+Methodology, Lifecycle & Governance structures based on best practice, but tailored to the organisation
 2. PMO
+
+Develop PMO capability to support best practice Project, Programme & Portfolio Management. Benchmark, establish a PPM Maturity Roadmap, and ensure PMO value
 3. Technology
+
+Leverage enterprise PPM solution to enable consistency in approach, one version of the truth, transparency & collaboration
 4. Training & Support
+
+Establish training in methodology & practical PPM tools & techniques. Establish a PPM Community of practitioners, mentoring & carrer development.
+
+# The Future of PMO & Work:
+
+Unsurprising given the impact of COVID-19. Only 38% see a headcount increase, but 57% seeing greater scope & responsibilities. This suggests a real need to increase productivity. Automation through PPM technology can play a key role in bridging this productivity gap.
+
+71% believe people will need more project management skills and a similar number see increases in the use of collaboration tools.
 
 # Verschiedenste Aspekte:
 
