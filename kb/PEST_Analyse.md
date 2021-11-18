@@ -22,7 +22,7 @@ Maßnahmen definieren zu können. Im Projektmanagement wird die PEST - Analyse u
 * Um Einflussfaktoren im Rahmen einer [Umfeldanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umfeldanalyse.md) zu sammeln
 
 ## Faktoren der PEST - Analyse
-In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereiche eingeteilt:
+In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereiche eingeteilt[^3]:
 * Political - Politische Faktoren
 * Economic - Wirtschaftliche Faktoren
 * Socio-Cultural - Sozio-kulturelle Faktoren
@@ -105,8 +105,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^1]: [https://en.wikipedia.org/wiki/PEST_analysis] (https://en.wikipedia.org/wiki/PEST_analysis)
+[^2]: [https://projekte-leicht-gemacht.de/blog/methoden/projektrisiken/pest-analyse/] (https://projekte-leicht-gemacht.de/blog/methoden/projektrisiken/pest-analyse/)
+[^3]: [Die STEP-Analyse einfach erklärt] (https://www.youtube.com/watch?v=TNLLyS0nrM8)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
