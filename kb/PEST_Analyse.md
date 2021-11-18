@@ -33,7 +33,7 @@ Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder
 ### Politische Faktoren
 | Organisationsbezogen  | Projektbezogen |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |  
+| Content Cell  | * Wie wirkt sich die Unternehmensstrategie auf das Projekt aus?  |  
 Auf einzelne Projekte bezogen stellen sich eher Fragen, wie sich zum Beispiel die Unternehmenspolitik auf das Projekt auswirkt oder wie sehr die Stakeholder hinter einem Projekt stehen, falls Schwierigkeiten auftreten sollten.  
 Für gesamte Organisationen stellen sich eher Fragen, welche sich auf die jeweiligen Gestzeslage in einem Land beziehen oder wie sich zum Beispiel der politische Kurs in einem Land durch eine Wahl ändern könnte.[^3]
 
