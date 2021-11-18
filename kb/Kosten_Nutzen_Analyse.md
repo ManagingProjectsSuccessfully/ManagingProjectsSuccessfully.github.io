@@ -57,12 +57,11 @@ Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet[^1
 11.	Entscheidung: Nach Berücksichtigung der monetären Kennzahlen sowie nicht-monetären Auswirkungen, 
                   Auswahl der Alternative mit dem besten Kosten-Nutzen-Verhältnis
                   
-*Mögliche Modellierung einer Kosten-Nutzen-Analyse*
+*Mögliche Modellierung eines Diagramms einer Kosten-Nutzen-Analyse*
 
 ![Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse/Bild1.png)[^4]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
