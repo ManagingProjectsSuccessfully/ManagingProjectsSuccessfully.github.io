@@ -12,7 +12,9 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # PEST - Analyse
 
-Die PEST Analyse ist ein eine Analysemethod, welche ursprünglich aus dem stretegischen Unternehmensmanagement kommt.[^1]
+Die PEST Analyse ist ein eine Analysemethode, welche ursprünglich aus dem stretegischen Unternehmensmanagement kommt.[^1]
+Ziel der Analyse ist es externe Einflussfaktoren auf eine Organisation zu erkennen, sowie Chancen und Risiken zu identifizieren um anschließend geeignete
+Maßnahmen definieren zu können.[^2]
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
