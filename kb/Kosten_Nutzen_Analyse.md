@@ -10,11 +10,18 @@ Die Kosten-Nutzen-Analyse ist ein Bewertungsverfahren, das die Wirtschaftlichkei
 # Kosten-Nutzen-Analyse
 Im [Projektmanagement](Projektmangement.md) hat der [Projektleiter](Faehigkeiten_Projektleiter) die Aufgabe, Aufträge sinnvoll zu erteilen, sodass diese zum Projekterfolg beitragen. Hierbei kann eine Kosten-Nutzen-Analyse hilfreich sein.
 
+Bewertungsverfahren sind in der Praxis häufig angewendete Methoden, um mögliche Handlungsalternativen in Bezug auf deren Mehrwert hierarchisch einzuordnen und die Vorteilhafteste dieser zu bestimmen.[^2] 
+Neben der oben gennanten Kosten-Nutzen-Analyse gibt es noch weitere Bewertungsverfahren:
+* [Nutzwertanalyse](Nutzwertanalyse.md)
+* Kosten-Wirksamkeits-Analyse
+* Wirkungsanalyse
+* [Risikoanalyse](Risikoanalyse_und_Visualisierung.md)
+
 ## Definition
 
-Die Kosten-Nutzen-Analyse ist eine Wirtschaftlichkeitsuntersuchung, d.h. sie bewertet den prognostizierten, monetären Aufwand aller anfallenden Kosten und entstehendem Nutzen. Dementsprechend wird versucht, dem Nutzen sowie den Kosten einen [Geldwert](https://de.wikipedia.org/wiki/Geldwert) beizumessen, um eine einfache Vergleichbarkeit zwischen verschiedenen Alternativen zu ermöglichen.[^2]
+Die Kosten-Nutzen-Analyse ist eine Wirtschaftlichkeitsuntersuchung, d.h. sie bewertet den prognostizierten, monetären Aufwand aller anfallenden Kosten und entstehendem Nutzen. Dementsprechend wird versucht, dem Nutzen sowie den Kosten einen [Geldwert](https://de.wikipedia.org/wiki/Geldwert) beizumessen, um eine einfachere Vergleichbarkeit zwischen verschiedenen Alternativen zu ermöglichen.[^3]
 
-Die Ergebnisse der Analyse tragen maßgeblich zu richtungsweisenden Entscheidungen bezüglich z.B. der [Projektplanung](Projektplanung.md) oder -budgetierung bei. 
+Die Ergebnisse der Analyse tragen maßgeblich zu richtungsweisenden Entscheidungen bezüglich z.B. der [Projektplanung](Projektplanung.md) oder [-budgetierung](Kostenplanung.md) bei. 
 
 ## Rahmenbedingungen 
 Im Vorfeld der Durchführung müssen gewisse Rahmenbedingungen bestimmt werden, sowie Voraussetzungen erfüllt sein, welche für einen reibungslosen Ablauf sorgen sollen. 
@@ -22,10 +29,10 @@ Im Vorfeld der Durchführung müssen gewisse Rahmenbedingungen bestimmt werden, 
 * Zuallererst wird die zu untersuchende Situation, also die Problem- und Aufgabenstellung, beschrieben. 
 * Dem folgt die Benennung von Bewertungskriterien, anhand deren der Nutzen definiert wird. 
 * Um der Analyse einen festen Rahmen zu geben, wird ein [Analyse-Umfeld](Umfeldanalyse.md) festgelegt.
-* Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.[^2]
+* Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.[^3]
 
 Um die Analyse fundiert durchsetzen zu können, sind vorher noch einige wichtige Aspekte zu berücksichtigen.
-| Checkliste[^3]  |
+| Checkliste[^4]  |
 | ------------- |
 | Ziel der Analyse ? | 
 | Alleiniges Entscheidungskriterium ?  | 
@@ -59,7 +66,7 @@ Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet[^1
                   
 *Mögliche Modellierung eines Diagramms einer Kosten-Nutzen-Analyse*
 
-![Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse/Bild1.png)[^4]
+![Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse/Bild1.png)[^5]
 
 
 
@@ -136,7 +143,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: Hüftle, M.(2006); Bewertungsverfahren, http://www.optiv.de/Methoden/BewVerfa/BewVerfa.pdf (aufgerufen am 12.11.2021)
-[^2]: Angermeier, G.(2005); Kosten-Nutzen-Analyse, https://www.projektmagazin.de/glossarterm/kosten-nutzen-analyse (aufgerufen 09.11.1021)
-[^3]: Kosten-Nutzen-Analyse, https://www.lexoffice.de/lexikon/kosten-nutzen-analyse/ (aufgerufen am 15.11.2021)
-[^4]: Wenzelis, N. (2021); Diagramme zur Kosten-Nutzen-Analyse: Was sie sind und wie man sie einsetzt, https://blog.mindmanager.com/de/blog/diagramme-zur-kosten-nutzen-analyse-was-sie-sind-und-wie-man-sie-einsetzt/ (aufgerufen am 16.11.2021)
+[^2]: Benson, L.; Bewertungsmethoden, https://www.uni-trier.de/fileadmin/fb4/prof/VWL/SUR/Lehre/WS0203/uebung-sroe/folien/Folien_13-02-03.pdf (aufgerufen am 18.11.2021)
+[^3]: Angermeier, G.(2005); Kosten-Nutzen-Analyse, https://www.projektmagazin.de/glossarterm/kosten-nutzen-analyse (aufgerufen 09.11.1021)
+[^4]: Kosten-Nutzen-Analyse, https://www.lexoffice.de/lexikon/kosten-nutzen-analyse/ (aufgerufen am 15.11.2021)
+[^5]: Wenzelis, N. (2021); Diagramme zur Kosten-Nutzen-Analyse: Was sie sind und wie man sie einsetzt, https://blog.mindmanager.com/de/blog/diagramme-zur-kosten-nutzen-analyse-was-sie-sind-und-wie-man-sie-einsetzt/ (aufgerufen am 16.11.2021)
 
