@@ -46,16 +46,16 @@ Kontaktpunkte zwischen Projekt und der restlichen Organisation bedürfen einer h
 
 * Verteilte Teams, verteilte Projekte
 
-Aufgrund der weltweiten Pandemie stieg die digitale Zusammenarbeit und somit stieg auch die Anzahl an dezentralen Teams. Diese Beobachtungen werden auch nach der Pandemie weiterhin zu sehen sein und bringt auch einige Herausforderungen mit sich, wie beispielsweise die Optimierung von Remote Work.
-Update-Meetings, in denen Verantwortlichkeit innerhalb des Teams geklärt werden müssen, helfen bessere Strategien für Projektmanagement herauszufinden.
+Aufgrund der weltweiten Pandemie stieg die digitale Zusammenarbeit und somit stieg auch die Anzahl an dezentralen Teams. Diese Beobachtungen werden auch nach der Pandemie weiterhin zu sehen sein und bringen einige Herausforderungen mit sich, wie beispielsweise die Optimierung von Remote Work.
+Update-Meetings, in denen Verantwortlichkeiten innerhalb des Teams geklärt werden müssen, helfen bessere Strategien für Projektmanagement herauszufinden.
 Eine erhebliche Erleichterung für Kollaborationen an Projekten, schafft der Tool-Stack.
 
 
 * Optimierte Ressourcenplanung 
 
 Home-Office und Remote Work gewinnen immer mehr an Bedeutung und machen somit eine verlässliche Ressourcenplanung notwendig.
-2021 müssen [Tools](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Uebersicht_PM_Tools.md) und [Methoden](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) herausgearbeitet werden, mit denen man die Verfügbarkeit der Teams noch detaillierter geplant werden kann.
-Die Verfügbarkeiten der Ressourcen sollten auch für das Team deutlich sein, dabei spielt es keine Rolle an welchem Ort man gerade arbeitet. 
+2021 müssen [Tools](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Uebersicht_PM_Tools.md) und [Methoden](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) herausgearbeitet werden, mit denen die Verfügbarkeit der Teams noch detaillierter geplant werden kann.
+Die Verfügbarkeiten der Ressourcen sollten auch für das Team deutlich sein. Dabei spielt es keine Rolle an welchem Ort man gerade arbeitet. 
 
 * Knowledge-Sharing
 
@@ -69,20 +69,19 @@ Data Science und Big Data gewinnen im Projektmanagement immer mehr an Bedeutung.
 
 * Change Management
 
-Beim [Change Management](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Projekte.md) steht die Konfigurierung von Unternehmensstrategien und -strukturen an sich wechselnde Rahmenbedingungen im Vordergrund.
+Beim [Change Management](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Projekte.md) steht die Konfigurierung von Unternehmensstrategien und -strukturen, an sich wechselnde Rahmenbedingungen, im Vordergrund.
 Beim Projektmanagement ist hierbei eine Veränderung der Prozesse wichtig, wodurch ein proaktives Handeln seitens der Projektmanager nötig wird, um diese Prozesse besser zu machen und an Veränderungen anzupassen.
 
 
 * Soft Skills
 
-Beim Projektmanagement werden die sozialen Fähigkeiten im zwischenmenschlichen Kontext, die [Soft Skills](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Softskills_im_Projektmanagement.md), immer wichtiger. Es bedarf des rücksichtsvollen Zuhörens, das Koordinieren, motivierendes Führen und ein taktvolles Verhandeln 
+Beim Projektmanagement werden die sozialen Fähigkeiten im zwischenmenschlichen Kontext, die sogenannten [Soft Skills](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Softskills_im_Projektmanagement.md), immer wichtiger. Es bedarf des rücksichtsvollen Zuhörens, des Koordinierens, des motivierenden Führens und des taktvolles Verhandelns. 
 Eine Stärkung des Teamzusammenhalts wird durch Kommunikationsfähigkeiten und emotionale Intelligenz hervorgerufen, was in längerer Hinsicht zum Projekterfolg führt.
 
 
 * Hybride Projektmanagement-Ansätze 
 
-Sowohl [Kanban](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md), als auch [Scrum](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) sind wichtige Komponenten im Projektmanagement. Die hybriden Projektmanagementansätze verbinden sowohl agile, als auch klassische Ansätze aus dem Projektmanagement. Ein großer Vorteil des hybriden Ansatzes entsteht vor allem, wenn Teammitglieder verschiedene Arbeitsstile und Ansichten mitbringen und mit diesen arbeitet.
-Eine wichtige Aufgabe des Projektmanagements ist die richtige Auswahl und das Einsetzen von Methoden, die für bestimmte Projekte oder Arbeitsweisen am besten funktionieren. Dabei wird die Kombination aus agilen und klassischen Ansätzen in den Vordergrund gebracht[^3].
+Sowohl [Kanban](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md), als auch [Scrum](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) sind wichtige Komponenten im Projektmanagement. Die hybriden Projektmanagementansätze verbinden sowohl agile, als auch klassische Ansätze aus dem Projektmanagement. Ein großer Vorteil des hybriden Ansatzes entsteht vor allem, wenn Teammitglieder verschiedene Arbeitsstile und Ansichten mitbringen und mit diesen arbeitet[^3].
 
 
 
