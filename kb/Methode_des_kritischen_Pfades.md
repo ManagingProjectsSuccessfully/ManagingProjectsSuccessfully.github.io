@@ -30,6 +30,7 @@ Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein Netzplan (engl. C
 
 ![image](kb/Methode_des_kritischen_Pfades/CriticalPath-DrawNetworkDiagram.png)
 
+
 **4.	Abschätzung des Zeitbedarfs aller Aufgaben**
 
 Im nächsten Schritt wird der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die Drei-Zeiten-Methode sein, wobei der Zeitbedarf mit         folgenden Werten geschätzt wird:
