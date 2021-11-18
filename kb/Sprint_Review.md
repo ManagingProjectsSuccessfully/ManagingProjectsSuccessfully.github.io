@@ -11,13 +11,13 @@ anrechnung: a
 # Überblick
 
 Immer öfter neigen Unternehmen dazu, Projekte anhand des agilen Projektmanagements durchzuführen und sich die dafür erforderlichen Kompetenzen anzueignen. Hintergrund
-des agilen Managements und deren Kernpunkte sind es, dass es Projekten und Prozessen breiteren Raum an Flexibilität bieten, was es möglich macht, schneller und
-effektiver auf Veränderungen einzugehen.[^1]
+des agilen Managements und deren Kernpunkte sind es, dass es Projekten und Prozessen *breiteren Raum an Flexibilität* bietet, was es möglich macht, *schneller und
+effektiver* auf Veränderungen einzugehen.[^1]
 
 
 # Historischer Hintergrund
 
-Eine Methodik, welche das agile Konzept verfolgt, ist Scrum. Diese hat ihren Ursprung in den frühen 90er Jahren und wurde primär als Entwicklungsmethodik für Sotware
+Eine Methodik, welche das agile Konzept verfolgt, ist Scrum. Diese hat ihren Ursprung in den frühen 90er Jahren und wurde primär als Entwicklungsmethodik für Software
 eingeführt.[^2]  
 
 Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^3]. Darunter fallen:
@@ -44,25 +44,29 @@ Product Owner, dem Scrum Master und dem Entwickler Team. Zudem sollte idealerwei
 Manager oder ein Vertreter aus diversen Bereichen sein.
 
 
-# Ablauf eines Sprint Reviews
+## Ablauf eines Sprint Reviews
 
-Üblicherweise dauert ein solches Meeting circa vier Stunden, sollten die Sprints aber kürzer sein, fällt auch die Dauer der Besprechung knapper aus[^2]. 
+Üblicherweise dauert ein solches Meeting circa vier Stunden, sollten die Sprints aber kürzer sein, fällt auch die Dauer der Besprechung dementsprechend knapper aus[^2]. 
 
-## Folgeschritte[^4]
+### Folgeschritte[^4]
 
 * __Allgemeine Regeln__
-  - Begonnen wird im sprint Review meist damit, dass der Product Owner allgemeine Regeln über den Ablauf des Sprint Reviews aufstellt und Erwartungen hieran mitteilt
+  - Begonnen wird im Sprint Review meist damit, dass der Product Owner allgemeine Regeln über den Ablauf des Sprint Reviews aufstellt und Erwartungen hieran mitteilt
  
 * __Überblick__
-  - Weiterführend informiert er in einem kurzem Überblick darüber, was demonstriert werden soll und was der Inhalt des heutigen Meetings ist
+  - Weiterführend informiert er in einem kurzen Überblick darüber, was demonstriert werden soll und was der Inhalt des heutigen Meetings ist
   
 * __aktueller Stand__
   - Außerdem berichtet er, was bereits erreicht worden ist und welche Aufgaben noch abgeschlossen werden müssen
   
-* __Einführung durch das Scrum Team__
-  - Nachdem durch den Product Owner ein Gesamtüberlick geliefert wurde, geht das Scrum Team zum einen darauf ein, welche Fortschritte und Ergebnisse erreicht worden sind
-    und zum anderen in welchen Bereichen Probleme aufgetreten sind und wie diese gelöst wurden. Dabei stehen sie natürlich stets für Fragen zur Verfügung
+* __Demonstration durch das Scrum Team__
+  - Nachdem durch den Product Owner ein Gesamtüberlick geliefert wurde, geht das Scrum Team zum einen darauf ein, welche Fortschritte und Ergebnisse jeder einzelne im
+    Team erreicht hat und zum anderen in welchen Bereichen Probleme aufgetreten sind und wie diese gelöst wurden. Dabei stehen sie natürlich stets für Fragen zur 
+    Verfügung
     
+* __Wertschätzung des Geschafften__
+  - Hierbei bietet es sich an das Team für seine Arbeit zu loben und einen Dank auszusprechen
+  
 * __Änderungen am Product Backlog__
   - Gegebenenfalls werden dann zusätzlich Änderungen des Product Backlogs, was eine Auflistung aller Anforderungen für ein zu erstellendes Produktes enthält, besprochen
  
@@ -75,14 +79,16 @@ Manager oder ein Vertreter aus diversen Bereichen sein.
 
 
 
-
+# Fazit
 
 ![Beispielabbildung](Sprint_Review/test-file.jpg)
 
 *lustiges Testbild*
 
 
-
+Wie man der Abbildung entnehmen kann, nehmen also der Product Owner, der Scrum Master, das Entwicklerteam und der Stakeholder am Sprint Review teil. Dabei findet ein
+Austausch zwischen dem Scrum Team und den Stakeholdern statt, in welchem das Developer Team Demonstrationen präsentiert und sowohl über Geschafftes, als auch über
+Probleme berichtet. Dazu gibt der Stakeholder ein entsprechendes Feedback.
 
 
 
