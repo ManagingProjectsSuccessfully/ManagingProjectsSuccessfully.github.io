@@ -9,13 +9,14 @@ Die Stacey-Matrix, benannt nach ihrem Begründer Ralph Douglas Stacey, einem bri
 # Die Stacey-Matrix im Projektmanagementkontext
 
 Kurz gesagt beschreibt die Stacey-Matrix einen Ordnungsrahmen zur Abgrenzung einfacher, komplizierter, komplexer und chaotischer Aufgaben [^2]. Sie steht dabei in enger Verwandtschaft mit dem [Cynefin-Framework](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cynefin-Framework.md)  [^3].
-Die Stacey-Matrix soll insgesamt erleichtern, für ein bevorstehendes Projekt die richtige Projektmanagementmethode zu finden. 
+Die Stacey-Matrix soll insgesamt erleichtern, für ein bevorstehendes Projekt die richtige Projektmanagementmethode zu finden [^4]. 
 
 ## Aufbau der Stacey-Matrix
 
 Auf der vertikalen Achse der Matrix wird der Grad der "Anforderungen" (in der Abbildung: "Requierement") des Projekts abgetragen. Es wird sich die Frage gestellt, wie klar oder unklar die Unsicherheiten über die Anforderungen des Projekts sind [^1]. 
 
 Die horizontale Achse wird durch den Begriff "Technologie "beschrieben (in der Abbildung: "Technological Realization"). Dieser Aspekt betrachtet, ob die Methoden zur Erreichung des Projektziels bekannt oder unbekannt sind[^4]. Die Matrix ist in vier Kategorien aufgeteilt. Diese beschreiben jeweils den Komplexitätsgrad der vorliegenden Herausforderung:
+
 ![image](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stacey_Matrix/Stacey-Matrix-Stacey-1996-adapted-to-software-development.png)
 
 ### Simpel
@@ -24,8 +25,8 @@ Das Feld "Simple" beschreibt Projekte bei denen sowohl die Anforderungen als auc
 
 ### kompliziert
 
-Das zweite Feld,"complicated" genannt, beschreibt Projekte, bei denen entweder die Anforderungen klar, die Technologien zur Zielerreichung aber nicht völlig bekannt sind. Dabei handelt es sich um "technisch komplizierte" Projekte [^1]. 
-Sind die Anforderungen unklar, die Technologie aber bekannt liegen politisch/ sozial komplizierte Projekte vor. Es herrscht Uneinigkeit zwischen den Entscheidungspersonen. Viele offene Fragen lassen sich hierbei durch Analysen, Verhandlungen ("political decisionmaking") oder Beratung durch externe Experten klären ("judgemental decisionmaking")[^4]. Hier eignen sich sowohl klassische als auch agile Methoden, wobei zweitere vorgezogen werden.
+Das zweite Feld,"complicated" genannt, beschreibt Projekte, bei denen die Anforderungen klar, die Technologien zur Zielerreichung aber nicht völlig bekannt sind. Dabei handelt es sich um "technisch komplizierte" Projekte [^1]. 
+Sind die Anforderungen unklar, die Technologie aber bekannt, liegen politisch/ sozial komplizierte Projekte vor. Es herrscht Uneinigkeit zwischen den Entscheidungspersonen. Viele offene Fragen lassen sich hierbei durch Analysen, Verhandlungen ("political decisionmaking") oder Beratung durch externe Experten klären ("judgemental decisionmaking")[^4]. Hier eignen sich sowohl klassische als auch agile Methoden, wobei zweitere vorgezogen werden.
 
 ### komplex
 Das Feld, bei dem entweder die Technologien oder die Anforderungen überwiegend unbekannt sind, wird als "complex" bezeichnet. Bei komplexen Projekten existieren viele Risiken. Die einzelnen Phasen dieser Projekte sind zu Beginn nicht vorhersehbar[^1]. Hier steht deshalb vor allem Transparenz, Innovation, Kreativität sowie Flexibilität im Mittelpunkt. Das Projekt sollte daher in kurze Iterationen zerlegt werden, wobei die ständige Überwachung der einzelnen Schritte nie außer Acht gelassen werden darf. Erwünschte Ergebnisse werden dadurch durchgehend verfolgt und Fehlentwicklungen schnell korrigiert. Hier finden agile Vorgehensweisen, vor allem die Scrum-Methode Anwendung [^4].
@@ -35,7 +36,7 @@ Chaotisch eingeordnete Projekte definieren sich durch völlig unklare Anforderun
 
 # Kritik an der Stacey-Matrix
 
-Eine der größten Kritiken an der Stacey-Matrix ist, dass sie zu schnell fehlinterpretiert wird. Sie stellt laut Stacey keine Anleitung zur Findung der perfekten Projektmanagementmethode dar und wird oft auf eigene Interessen abgewandelt[^5].
+Eine der größten Kritiken an der Stacey-Matrix ist, dass sie zu schnell fehlinterpretiert wird. Sie stellt laut Ralph Stacey keine Anleitung zur Findung der perfekten Projektmanagementmethode dar und wird oft auf eigene Interessen abgewandelt[^5].
 Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts ein sinnvolles Kriterium für die Wahl der Projektmanagementmethode geeignet ist[^3].
 
 # Siehe auch
