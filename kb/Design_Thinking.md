@@ -153,8 +153,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * [Design Thinking – Kreativität als Methode](https://www.fu-berlin.de/en/sites/nachhaltigkeit/10_dokumente/DesignThinking-Kreativitaet-als-Methode.pdf) 
 * [Design Thinking-Wikipedia](https://de.wikipedia.org/wiki/Design_Thinking)
 * [Design Thinking – Mit Methode komplexe Aufgaben lösen und neue Ideen entwickeln](https://digitaleneuordnung.de/blog/design-thinking-methode/)
-*  
+* [Design Thinking einfach erklärt (mit Workshop-Beispiel)](https://www.youtube.com/watch?v=KH_zqH8EgDo)
+* [What Is Design Thinking? An Overview](https://www.youtube.com/watch?v=gHGN6hs2gZY)
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
 # Quellen
 
 [^1]:[Design Thinking Defined](https://designthinking.ideo.com/), Abgerufen am 17. November 2021
