@@ -5,11 +5,13 @@ author: Juliakau
 anrechnung: a
 ---
 
-Bei Scrum erstellt der Product Owner einen Product Backlog , einer Liste von Aufgaben, die in Form von User Storys wiedergegeben werden. 
+
+# User Stories
+Bei Scrum erstellt der Product Owner einen Product Backlog , einer Liste von Aufgaben, die in Form von User Stories wiedergegeben werden. 
 Diese werden vom Product Owner nach Prioritäten unterteilet. 
 Gemeinsam mit dem Scrum-Team wird der Arbeitsaufwand für die einzelnen Aufgaben ermittelt, anhand dessen der ROI (Return on Invest) und anschließend die weitere Priorisierung. [^1]
 
-# Aufbau User Story
+## Aufbau User Story
 Eine User Story ist also die Beschreibung (Story) eines Benutzers (User) und dessen Anforderungen. 
 In wenigen Sätzen wird dort beschrieben, was ein Benutzer mit dem zu entwickelnden Produkt oder der Software machen will. 
 Dabei ist der Aufbau der Formulierung wichtig, welcher wie folgt aussieht: 
