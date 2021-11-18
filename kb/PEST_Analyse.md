@@ -30,7 +30,7 @@ In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereic
 
 ![Faktoren](PEST_Analyse/pest-analyse-projekt.jpg)[^2]  
 
-Innerhalb von Projekten wird die PEST - Analyse meist in einer frühen Projektphase im Rahmen einer umfassenderen Umfeld- oder Risikoanalyse eingesetzt. 
+Innerhalb von [Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) wird die PEST - Analyse meist in einer frühen Projektphase im Rahmen einer umfassenderen Umfeld- oder Risikoanalyse eingesetzt. 
 Da es nicht einfach ist auf Anhieb mögliche Einflussfaktoren auf Projekte zu ermitteln, hilft die PEST - Analyse vor allem dabei nichts zu vergessen und sich von
 den verschiedenen Kategorien inspirieren zu lassen.[^2]  
 Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder aber für eine gesamte Organisation, ergeben sich innerhalb der Faktoren ganz unterschiedliche Fragestellungen. Was sich jedoch nicht unterscheidet, ist dass im ersten Schritt mögliche Einflussfaktoren gesammelt werden.[^2]  
@@ -89,6 +89,7 @@ Zudem gibt es noch weitere Analysen bei denen zum Beispiel zusätzliche noch reg
 * [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md)
 * [Umfeldanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umfeldanalyse.md)
 * [SWAT - Analyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SWAT_Analyse.md)
+* [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
 * [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
 
 # Quellen
