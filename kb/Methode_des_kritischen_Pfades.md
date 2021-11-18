@@ -5,7 +5,7 @@ author: ChristinaHartung
 anrechnung: k 
 ---
 
-Die Methode des kritischen Pfades (engl. Critical Path Method CPM) stellt ein Projektmanagementtool dar, welches in den späten 1950er Jahren entwickelt wurde um die Problematik der durch ineffiziente Terminplanung verursachten Kostensteigerungen zu lösen. Sie ist dem klassischen Projektmanagement zuzuordnen und wird genutzt um zentrale Aufgaben zu ermitteln, die minimale Projektdauer zu determinieren und eine gewisse Planungsflexibilität zu bestimmen.
+Die Methode des kritischen Pfades (engl. Critical Path Method CPM) ist ein Projektmanagementtool, welches in den späten 1950er Jahren entwickelt wurde um die Problematik der durch ineffiziente Terminplanung verursachten Kostensteigerungen zu lösen. Sie ist dem klassischen Projektmanagement zuzuordnen und wird genutzt um zentrale Aufgaben zu ermitteln, die minimale Projektdauer zu determinieren und eine gewisse Planungsflexibilität zu bestimmen.
 
 
 ## 1. Der kritische Pfad
@@ -59,11 +59,12 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 ## 2. Vor- und Nachteile der Methode
 
-| First Header  | Second Header |
+| Vorteile      | Nachteile     |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+|Minimierung der Projektdauer  | bei Verzögerung eines Vorgangs des CP Verzögerung des ganzen Projekts|
+| Einfache Bestimmung besonders wichtiger Aufgaben und Hervorhebung von Projektengpässen  | Unterschiedliche subjektive Wahrnehmung der Projektteilnehmer über Relevanz  |
+|Übersichtliche Darstellung|wenige Möglichkeiten komplexe Abhängigkeiten einfach zu beschreiben|
+|Möglichkeit eines Vergleichs des geplanten Fortschritts mit aktuellem Stand und somit frühzeitige Reaktion|Schneller Verbrauch von Pufferzeiten|
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 ![Beispielabbildung](Methode_des_kritischen_Pfades/test-file.jpg)
