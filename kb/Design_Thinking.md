@@ -14,9 +14,9 @@ oben im Front-Matter (Bereich zwischen den `---`).
 ## Definition
 
 <img align="right" width="270" height="150" src="Design_Thinking/Design-Thinking.jpg">
+<div style="text-align: justify"> [^1] </div>
 
-
-*“Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.”*[^1]  
+*“Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.”*[^2]  
 
 <br />
 
@@ -34,7 +34,7 @@ Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6 Phase
 
 ![Beispielabbildung](Design_Thinking/design_Thinking_Bild1.png)
 
-*6 Schritte des Design Thinkings*[^2]
+*6 Schritte des Design Thinkings*[^3]
 
 <br />
 
@@ -150,13 +150,15 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * [Link auf diese Seite](Design_Thinking.md)
 
 # Weiterführende Literatur
-
+* [Design Thinking – Kreativität als Methode](https://www.fu-berlin.de/en/sites/nachhaltigkeit/10_dokumente/DesignThinking-Kreativitaet-als-Methode.pdf) 
+* [Design Thinking-Wikipedia](https://de.wikipedia.org/wiki/Design_Thinking)
+* [Design Thinking – Mit Methode komplexe Aufgaben lösen und neue Ideen entwickeln](https://digitaleneuordnung.de/blog/design-thinking-methode/)
+*  
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
 # Quellen
 
-[^1]:[Design Thinking Defined](https://designthinking.ideo.com/) Abgerufen am 17. November 2021
-[^2]:[HPI Academy, Was ist Design Thinking?](https://hpi-academy.de/fileadmin/_processed_/b/9/csm_Design_Thinking_Prozess_DE_6c695bcd10.png) Abgerufen am 17. November 2021
+[^1]:[Design Thinking Defined](https://designthinking.ideo.com/), Abgerufen am 17. November 2021
+[^2]:[HPI Academy, Was ist Design Thinking?](https://hpi-academy.de/fileadmin/_processed_/b/9/csm_Design_Thinking_Prozess_DE_6c695bcd10.png), Abgerufen am 17. November 2021
 [^3]: [Design Thinking – Methode, Prozess und Workshops](https://iconstorm.com/design-thinking/), Abgerufen am 17. November 2021
 
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
