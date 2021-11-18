@@ -67,14 +67,16 @@ Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet[^1
 *Mögliche Modellierung eines Diagramms einer Kosten-Nutzen-Analyse*
 
 ![Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse/Bild1.png)[^5]
+## Kritik 
+Eine Kosten-Nutzen-Analyse ist für eine [erfolgreiche Umsetzung von Projektzielen](Praxisbeispiele_erfolgreiche_Projekte.md) essentiell. Sie bringt viele Vorteile mit sich, weist jedoch auch einige Schwächen auf.
+### Vorteile
+* Verschiedene Alternativen sind direkt miteinander vergleichbar
+* Einfache und übverschaubare Darstellung
+* Grundlage für weitere Projektentscheidungen wird geschaffen[^6]
 
-
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+### Nachteile
+* Die Ergebnisse dienen zwar als Entscheidungsgrundlage, allerdings werden bis dato Risiken und deren Eintrittswahrscheinlichkeiten nicht bzw. kaum beachtet. Als Lösung müsste zusätzlich eine [Risiko- und Sensitivitätsanalyse](Risikoanalyse_und_Visualisierung.md) durchgeführt werden[^7]
+* Die Analyse ist manipulationsanfällig, da "Bewertungsmaßstäbe der Kosten und Nutzen, der Umfang der in das Kalkül einbezogenen externen Effekte, die Wahl der relevanten Zeitperiode und damit verbunden die Bestimmung des Diskontfaktors sowie die Berücksichtigung von Nebenwirkungen nicht „objektiv“ festgelegt werden können" (Minter, 2018)[^8]
 
 
 
@@ -94,16 +96,6 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
 So kann man eine Tabelle erstellen:
 
@@ -147,4 +139,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: Angermeier, G.(2005); Kosten-Nutzen-Analyse, https://www.projektmagazin.de/glossarterm/kosten-nutzen-analyse (aufgerufen 09.11.1021)
 [^4]: Kosten-Nutzen-Analyse, https://www.lexoffice.de/lexikon/kosten-nutzen-analyse/ (aufgerufen am 15.11.2021)
 [^5]: Wenzelis, N. (2021); Diagramme zur Kosten-Nutzen-Analyse: Was sie sind und wie man sie einsetzt, https://blog.mindmanager.com/de/blog/diagramme-zur-kosten-nutzen-analyse-was-sie-sind-und-wie-man-sie-einsetzt/ (aufgerufen am 16.11.2021)
+[^6]: Kosten - Nutzen - Analyse, http://managementmethoden.info/TBProjektWerkzeuge/TBKoNuAnalyse (aufgerufen am 18.11.2021)
+[^7]: Kosten-Nutzen-Analysen berücksichtigen Risiko nicht, http://www.solutionmatrix.de/kosten-nutzen-analyse.html (aufgerufen am 18.11.2021)
+[^8]: Minter, S.(2018); Kosten-Nutzen-Analyse, https://wirtschaftslexikon.gabler.de/definition/kosten-nutzen-analyse-40767/version-264145 (aufgerufen am 18.11.2021)
 
