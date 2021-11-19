@@ -13,7 +13,7 @@ Es gibt mehrere Gründe, warum eine hochwertige Kostenplanung für den Erfolg ei
 
 ![Beeinflussbarkeit der Kosten im Projektverlauf](Kostenplanung/Kostenbeeinflussbarkeit.png)
 
-# Zerlegung des gesamten Projekts in Arbeitspakte
+# Zerlegung des gesamten Projekts in Arbeitspakete
 Um eine genaue Schätzung zu gewährleisten, wird das gesamte Projekt in mehrere, kleinere Arbeitspakte aufgeteilt [3]. Dafür wird vom gesamten Projekt ein Projektstrukturplan (VERWEIS!) gebildet, der die Übersicht über die Kostenstruktur erheblich vereinfacht. Die Kosten der einzelnen Arbeitsschritte werden nach oben im Plan akkumuliert und bilden am Ende die Gesamtkosten des Projekts
 
 # Planungs- und Schätzverfahren
