@@ -10,7 +10,7 @@ anrechnung: k
 
 ## Was ist eine Rolle
 
-## Rollen im Einzelprojektmanagement vs im Multiprojektmanagement
+# Rollen im Einzelprojektmanagement vs im Multiprojektmanagement
 
 |Einzelprojektmanagement|Multiprojektmanagement|
 |-----------------------|----------------------|
@@ -22,7 +22,7 @@ anrechnung: k
 |Projektmanagement-Office(PMO)|                |
 
  
-## Aufgabenbereiche und Kompetenzen der einzelnen Rollen
+# Aufgabenbereiche und Kompetenzen der einzelnen Rollen
 
 Innerhalb eines Projektes gibt es im klassischen Projektmanagement verschiedene Rollen, die besetzt werden müssen. Dazu ist es zunächst wichtig eine Unterscheidung zwischen den Organisationseinheiten im Einzelprojektmanagement und den Organisationsheiten im Multiprojektmanagement zu machen: 
 
@@ -36,25 +36,25 @@ Innerhalb eines Projektes gibt es im klassischen Projektmanagement verschiedene 
 
 Diesen kommen unterschiedliche Aufgaben innerhalb eines Projektes zu. Im folgenden werden diese 7 Rollen kurz beschrieben und die ihnen zugeteilten Aufgaben näher erläutert.
 
-### Projektauftraggeber:
+## Projektauftraggeber:
 Der Auftraggeber beauftragt das Projekt und stellt formal die Ressourcen bereit. Für interne Projekte ist dies oft der Geschäftsführer oder Vorstand des Unternehmens, bei externen Projekten sind es die Kunden.
 Sofern es neben den Auftraggeber eine spezielle Kundenrolle gibt, ist dieser der Abnehmer aller Ergebnisse aus dem Projekt.
 
-### Projektlenkungsausschuss/Multiprojektlenkungsausschuss:
+## Projektlenkungsausschuss/Multiprojektlenkungsausschuss:
 
-### Projektleiter:
+## Projektleiter:
 Er ist verantwortlich für das Ergebnis des Projekts und ist fachlich und teilweise auch disziplinarisch der Projektorganisation vorgestellt.
 Bei größeren Projekten ist es oft sinnvoll die Leitung des Projekts auf mehrere Personen aufzuteilen, die jeweils einen Teilaspekt des Projekts übernehmen und dafür verantwortlich sind. Diese werden als Teilprojektleiter bzw. Modulleiter bezeichnet.
 
-### Projektcontroller:
+## Projektcontroller:
 
-### Projektteam:
+## Projektteam:
 Die Projektmitarbeiter sind für die Erstellung eines Ergebnisses verantwortlich. Diese können sowohl in Teilzeit als auch in Vollzeit im Unternehmen angestellt.
 
-### Projekt Management Office:
+## Projekt Management Office:
 Das Projekt Management Office (PMO) unterstützt den Projektleiter bei seiner Arbeit. Allerging sind die Aufgaben und Kompetenzen des PMO sehr heterogen verteilt.
 
-### Experten:
+## Experten:
 Innerhalb und außerhalb der Projektorganisation kann es Experten geben, die selektiv in das Projekt miteingebunden werden und das Projekt mit ihrem Fachwissen unterscheiden können.
 
 
@@ -110,18 +110,6 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Punkteliste
   - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
 ### Ebene-3-Überschrift
 
