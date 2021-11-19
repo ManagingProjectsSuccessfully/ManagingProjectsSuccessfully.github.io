@@ -65,7 +65,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
+|               |    Person 1   |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
