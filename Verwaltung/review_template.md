@@ -4,9 +4,45 @@ tags: orga
 ---
 
 
-# Bewertungstabelle für das Review. 
-Auf Raw, dann kopieren
-nur ganze Zahlen, nur ja oder nein 
+# Einladung zum Review
+Pro Beitrag werden den Teilnehmer:innen von MPS durch das MPS-Team drei Beiträge für ein Review zugeordnet. Die Reviewer:innen sollten entsprechend eine Mail von GitHub erhalten, in der sie zu einem Review eingeladen werden. Bei Öffnen des Pull-Requests des zu prüfenden Beitrags erscheint oben eine Aufforderung zum Review. 
+
+# Erstellen des Reviews
+Der Screencast zeigt, in welchen Schritten ein Review zu einem Beitrag erstellt wird. 
+
+## Einfügen der vorgegebenen Bewertungstabelle
+Wie im Video zu sehen, soll dazu die folgende Bewertungstabelle kopiert und in das Kommentarfeld eingefügt werden (am besten die Datei als "Raw" anzeigen lassen zum Kopieren):
+
+**---kopieren ab hier---**
+
+| Kriterium | Bewertung|
+|-----|---|
+| Front-Matter | ja/ nein |
+| Umfang | ja/ nein|
+| Belege | ja/ nein |
+| Links | ja/ nein|
+| Formatierung | ja/ nein|
+| Verlinkungen vorhanden | ja/ nein |
+| Abbildungen | ja/ nein |
+| Strukturierung des Beitrags | 1-10 |
+| Rechtschreibung | 1-10|
+| Sprache | 1-10 |
+| Inhalt | 1-10|
+| Einordnung in den Kontext | 1-10|
+| Ansprechend für Zielgruppe | 1-10|
+
+**---kopieren bis hier---**
+
+In den Feldern mit Auswahlmöglichkeit "ja/ nein" soll lediglich eine Option gewählt werden (Angabe "ja" ODER "nein"). 
+In den Feldern mit "1-10" soll eine Bewertung in Form einer ganzen Zahl von 1 bis 10 abgegeben werden, wobei 10 die Bestnote darstellt (Z.B. Eintrag von "5").
+Beispiel:
+
+| Kriterium | Bewertung|
+|-----|---|
+| Abbildungen | ja |
+| Strukturierung des Beitrags | 5 |
+
+In der folgenden Tabelle, die lediglich als Hilfestellung dient und nicht kopiert werden soll, sind Erklärungen zu den einzelnen Bewertungskriterien gegeben, um die Bedeutung der Kriterien klarzustellen. 
 
 
 | Kriterium | Erklärung | Bewertung|
@@ -26,10 +62,5 @@ nur ganze Zahlen, nur ja oder nein
 | Ansprechend für Zielgruppe | Kommiliton:innen erhalten durch den Beitrag einen guten Überblick über das entsprechende Thema, haben Spaß beim Lesen des Artikels und folgen den Verlinkungen |1-10|
 
 
-# Kurze Zusammenfassung des Beitrags
-
-
-# Positvie Aspekte
-
-
-# Negative Aspekte
+## Kurze Zusammenfassung des Beitrags
+Unter der Bewertungstabelle soll im Rahmen einer kurzen Zusammenfassung nochmal in Textform ein Gesamtfeedback gegeben werden. Dabei sind positive und negative Aspekte des Berichts zu beleuchten. Dieser Freitext dient als kurze Begründung der vergebenen Bewertungen in der Tabelle.
