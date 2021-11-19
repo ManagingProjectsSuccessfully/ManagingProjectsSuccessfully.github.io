@@ -7,18 +7,18 @@ anrechnung: k
 # Überblick über das Thema - kurze Begriffsklärung 
 Bevor tiefer in das Thema eingestiegen wird, werden zuerst die Begriffe Zielbeziehungen“ und „klassisches Projektmanagement“ kurz erklärt. 
 
-# Zielbeziehungen
+## Zielbeziehungen
 
 Unter Zielbeziehungen wir die Beziehung zwischen den einzelnen Ziele (meist Unternehmensziele) beschrieben. Dabei kann man drei bzw. vier verschiedene Arten von Beziehungen unterscheiden: 
 
-* Komplementäre Ziele: Dies ist die Idealbeziehung zwischen den einzelnen Zielen. Durch das Erreichen eines Ziels wird zugleich ein anderes Ziel erreicht (Synergieeffekt) 
-* Konkurrierende Ziele: Hier lassen sich die Ziele nicht gegenseitig verfolgen, sondern entfernen sich eher voneinander.
-* Neutrale Ziele: Diese Ziele werden voneinander unabhängig/neutral erreicht. In der heutigen Welt der Digitalisierung sind solche Ziele aber kaum noch auffindbar.
-* Autonome Ziele: Man kann nicht gleichzeitig mehrere Ziele erreichen [^1]
+* **Komplementäre Ziele:** Dies ist die Idealbeziehung zwischen den einzelnen Zielen. Durch das Erreichen eines Ziels wird zugleich ein anderes Ziel erreicht (Synergieeffekt) 
+* **Konkurrierende Ziele:** Hier lassen sich die Ziele nicht gegenseitig verfolgen, sondern entfernen sich eher voneinander.
+* **Neutrale Ziele:** Diese Ziele werden voneinander unabhängig/neutral erreicht. In der heutigen Welt der Digitalisierung sind solche Ziele aber kaum noch auffindbar.
+* **Autonome Ziele:** Man kann nicht gleichzeitig mehrere Ziele erreichen [^1]
 
 ![Zielbeziehungen](Zielbeziehungen/Zielbeziehungen_Bild.png)
 
-# Klassisches Projektmanagement 
+## Klassisches Projektmanagement 
 
 Projektmanagement allgemein beinhaltet die Anwendung von Wissen, Fähigkeiten und Techniken für Management- und Führungstätigkeiten [^2]
 Beim klassischen Ansatz geht es eher darum, dass man Methoden und Erzeugnisse des Projektmanagement zu standardisierten Projektabläufen zusammenfasst (=Projektmanagementsysteme). Die Projektphasen sind also strikt durchgeplant und es herrscht somit eine hohe Planungssicherheit. [^3] [^4]
@@ -29,17 +29,17 @@ Im nächsten Schritt wird der Zusammenhang zwischen Zielbeziehungen im klassisch
 # Zielbeziehungen im Klassischen Projektmanagement
 
 Bevor ein Projekt gestartet wird, werden immer gewisse Ziele vereinbart werden, die zu erreichen sind. Dementsprechend sollten Ziele klar und deutlich formuliert werden. Dementsprechend gibt es  die  „SMART“ Regel und steht für „Specific Measurable Accepted Realistic Timely“ also „Spezifisch, messbar, Attraktiv, Realistisch und Terminiert“. [^5]
-Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht einzelne Ziele möglichst schnell und zugleich qualitativ hochwertig zu erreichen. Bedeutet je anspruchsvoller das Ziel/Ergebnis ist bspw. hinsichtlich der Qualität oder Funktion umso höher sind die damit verbundenen Kosten, Leistungen und Zeitlicher Bedarf. Dahingegend müssen wichtige Abstimmungen gemacht werden. Zum besseren Verständnis nachfolgend einige Beispiele: 
+Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht einzelne Ziele möglichst schnell und zugleich qualitativ hochwertig zu erreichen. Bedeutet je anspruchsvoller das Ziel/Ergebnis ist beispielsweise hinsichtlich der Qualität oder Funktion umso höher sind die damit verbundenen Kosten, Leistungen und Zeitlicher Bedarf. Dahingegend müssen wichtige Abstimmungen gemacht werden. Zum besseren Verständnis nachfolgend einige Beispiele: 
 
-| Das zu erreichende priorisierte Ziel  | Damit verbunden Leistungen  |
+|Das zu erreichende priorisierte Ziel  |Damit verbunden Leistungen  |
 | -------------                         |               ------------- |
-| Leistungsumfang/ziel erhöhen          | Kosten und Projektdauer steigen |
-| Kostenziel hat Priorität (Kosten sinken) | Leistungs-&Zeitziel steigt 
-|Terminziel hat Priorität               | Kosten steigen & Leistungen einsparen
+|Leistungsumfang/ziel erhöhen          |Kosten und Projektdauer steigen |
+|Kostenziel hat Priorität (Kosten sinken) |Leistungs-&Zeitziel steigt 
+|Terminziel hat Priorität               |Kosten steigen & Leistungen einsparen
 
---> Der Projektmanager muss sich also hier im Klaren werden, was er wie und unter welche Priorität erreichen will. Hier gilt immer zu beachten, dass die Anforderungen des Kundens an erster Stelle stehen. [^5].
+Der Projektmanager muss sich also hier im Klaren werden, was er wie und unter welche Priorität erreichen will. Hier gilt immer zu beachten, dass die Anforderungen des Kundens an erster Stelle stehen. [^5].
 
-# Zielbeziehungsmatrix/Präferenzmatrix
+## Zielbeziehungsmatrix/Präferenzmatrix
 
 Um Ziele in einem Projekt besser zu veranschaulichen, eignet sich auch eine sogenannte Zielbeziehungsmatrix oder auch Präferenzmatrix. Beide Matrizes helfen bestimmte Kriterien, Anforderungen etc. in einem Projekt zu priorisieren und diese auch zu vergleichen. Sie kommen vor allem in der BWL, Controlling, Projektmanagement und Qualitätsmanagement zum Einsatz. Diese Matrizes werden anhand folgender Schritte aufgebaut:
 
