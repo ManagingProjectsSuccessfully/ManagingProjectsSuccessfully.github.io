@@ -5,10 +5,7 @@ author: ux49azap
 anrechnung: k
 ---
 # 1. Missverständnisse im klassischen Projektmanagement
-Kurzbeschreibung zu Klassische_Missverstaendnisse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Bei der falschen Anwendung des klassischen Projektmanagements kann es schnell zu Missverständnissen kommen, welche einen großen Einflussfaktor auf die Erfolgswahrscheinlichkeit des jeweiligen Projektes haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten. Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
