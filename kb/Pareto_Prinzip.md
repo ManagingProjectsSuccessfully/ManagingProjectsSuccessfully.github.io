@@ -46,7 +46,9 @@ Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilun
 Aus den oben genannten Gründen ist im Bereich des Zeitmanagements des Öfteren vom Pareto-Prinzip die Rede. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches bereits die wichtigsten Bedingungen erfüllt.[^5]
 Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf genau diese Aspekte beschränkt, wird also bereits ein großer Teil der Dinge erreicht, die man erzielen will. Der Aufwand, der in dem steckt, das nur 20% des Ergebnisses erfüllt, liegt also bei 80% und ist schlussfolgernd viel zeitintensiver. 
 
-Dies wird auch in der folgenden Abbildung leicht sichtbar:
+Dies wird auch in der folgenden Abbildung leicht sichtbar: 
+
+! [Dies wird auch in der folgenden Abbildung leicht sichtbar:] (/kb/Pareto_Prinzip/Bildschirmfoto 2021-11-19 um 19.05.53.png)
 
 
 
