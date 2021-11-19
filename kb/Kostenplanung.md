@@ -21,3 +21,7 @@ Zuerst erfolgt die sogenannte Einzelkostenplanung. Einzelkosten sind alle Kosten
 Im Anschluss steht die Gesamtkostenplanung. Hierbei werden die ermittelten Einzelkosten um die anfallenden Gemeinkosten ergänzt. Unter Gemeinkosten versteht man alle Kosten, die in einem Unternehmen anfallen, allerdings nicht einem konkreten Vorgang zugeordnet werden können. Man unterscheidet sie in Material-, Fertigungs-, Verwaltungs- und Vertriebsgemeinkosten. Diese werden über festgelegte Zuschlagssätze hinzugerechnet. [4]
 Auch für schwierig zu schätzende Projektbestandteile sollte unbedingt eine Kostenplanung erstellt werden. Hierbei kann eine klare Kommunikation mit erfahrenen Fachexperten oft ein genaueres Bild über zu erwartende Aufwendungen geben. [3] Außerdem sollte bei der Planung stets etwas Spielraum für Unvorhergesehene Kosten einberechnet werden. [4]
 Die gesamte Kostenplanung sollte sorgfältig auf Fehler überprüft werden. Leicht können kleine Ungenauigkeiten in Formeln, Umrechnungskosten oder Stundensätzen die Planung verfälschen. Darüber hinaus sollten getroffene Annahmen, auf denen die Planung basiert eindeutig benannt werden. [3]
+
+Quellen
+
+[^1): Test
