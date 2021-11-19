@@ -24,8 +24,8 @@ Beispiele für Formate sind:
 | ------------- | ------------- |
 | Simples analoges Vorgehen  | Hier werden Karteikarten verwendet. Jedes Teammitglied erhält zu Beginn Karteikarten auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehangen und besprochen. Ziel ist es, im Anschluss eine Liste zu erstellen mit Punkten die im nächsten Sprint berücksichtigt werden sollen. In der folgenden Retrospective wird überprüft, ob die Punkte umgesetzt werden konnten.[^3]|
 | Nutzen von digitalen Vorlagen | Eine weitere Möglichkeit ist es, digitale Vorlagen für die Retrospective zu nutzen. Diese gibt es zum Beispiel bei Trello, Confluence, Miro oder Mural.[^4]|
-| Einsatz von Spielen  | *Beispiele* "Sails and Anchors" - Was sind die Anker, die das Team herunterziehen, was gibt den Segeln des Teams den Wind.[^5]
-"Rose, Bud, Thorn" - Was waren die Highlights (Rosenblüte), was kann man noch verbessern (Knospe) und was ist falsch gelaufen (Dorn)[^6]|
+| Einsatz von Spielen  | *Beispiele* "[Sails](https://de.pons.com/übersetzung/englisch-deutsch/sails) and [Anchors](https://de.pons.com/übersetzung/englisch-deutsch/anchor)" - Was sind die Anker, die das Team herunterziehen, was gibt den Segeln des Teams den Wind.[^5]
+"[Rose](https://de.pons.com/übersetzung/englisch-deutsch/rose?bidir=1), [Bud](https://de.pons.com/übersetzung/englisch-deutsch/Bud), [Thorn](https://de.pons.com/übersetzung/englisch-deutsch/Thorn)" - Was waren die Highlights (Rosenblüte), was kann man noch verbessern (Knospe) und was ist falsch gelaufen (Dorn)[^6]|
 
 *Abbildung: Beispiele zum Gestalten einer Retrospective*
 
