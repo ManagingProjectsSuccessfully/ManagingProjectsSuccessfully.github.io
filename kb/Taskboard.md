@@ -2,15 +2,15 @@
 title: Taskboard
 tags: agil klassisch
 author: schooschef
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Taskboard um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Taskboards sind klassisch bekannt als weiße Tafel in der Mitte eines jeden Projekts. Hier können Prozessschritte,Fortschritt und Bearbeitung verschiedener Methoden wärend eines Projektprozesses veranschaulicht, erklärt und festgehalten werden. Taskboards findet man oft im Zentrum der agilen Qualitätskontrolle und [Scrum](https://t2informatik.de/wissen-kompakt/scrum/).
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Mit der Digitalisierung hat sich auch das Taskboard neu entwickelt und kann in vielen digitalen Formen in Anwendung gefunden werden.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+
+# Die verschiedenen Anwendungsbereiche von Taskboards
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -88,8 +88,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Taskboard.md)
+* [Was ist ein Taskboard?](https://t2informatik.de/wissen-kompakt/taskboard/)
+* [Was ist Scrum?](https://t2informatik.de/wissen-kompakt/scrum/)
 
 # Weiterführende Literatur
 
