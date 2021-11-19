@@ -5,21 +5,23 @@ author: CatrinSc
 anrechnung: k
 ---
 
-Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt von mehreren Wissenschaftlern, Institutionen oder wissenschaftlichen Gesellschaften, mit dem Ziel einen Erkenntnisgewinn für ein aktuelles Thema in der Forschung zu generieren. 
+Forschungsprojekte sind einmalig zeitlich und fianziell begrenzte Konzepte, die dazu dienen, einen wissenschaftlichen Fortschritt zu erhalten.
 
 
 # Definiton
-Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt von mehreren Wissenschaftlern, wissenschaftlichen Gesellschaften oder eines [Instituts](https://de.wikipedia.org/wiki/Institut_(Organisation)), mit dem Ziel einen Erkenntnisgewinn für ein aktuelles Thema in der [Forschung](https://de.wikipedia.org/wiki/Forschung) zu generieren. Aufgrund ihrer Gegebenheiten sind Forschungsprojekte nicht selten von einem erhöhten Risiko des Misslingens gekennzeichnet. Förderung erfolgt meist durch [Drittmittel](https://de.wikipedia.org/wiki/Drittmittel) (Forschungsfonds, öffentliche oder industrielle Förderungsgelder). Um solche Drittmittel zu erhalten ist ein ausführlicher [Projektantrag](https://de.wikipedia.org/wiki/Projektantrag) (vergleichbar mit klassischem Projektantrag) von Nöten. Dieser legt Ziele, Risiken, Methoden und Ressourcen, Zeit- und Finanzplanung, Angaben über Qualifikation der/des Projektleiter, sowie eine populär gehaltene Kurzfassung dar. Abschlussberichte sind von großer Bedeutung, aber auch Zwischenberichte sind häufig, um dem Geldgeber oder der Universität von dem Fortschritt zu berichten[^1].
+Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt von mehreren Wissenschaftlern, wissenschaftlichen Gesellschaften oder eines [Instituts](https://de.wikipedia.org/wiki/Institut_(Organisation)), mit dem Ziel einen Erkenntnisgewinn für ein aktuelles Thema in der [Forschung](https://de.wikipedia.org/wiki/Forschung) zu generieren. Aufgrund ihrer Gegebenheiten link artikel sind Forschungsprojekte nicht selten von einem erhöhten Risiko des Misslingens gekennzeichnet. Förderung erfolgt meist durch [Drittmittel](https://de.wikipedia.org/wiki/Drittmittel) (Forschungsfonds, öffentliche oder industrielle Förderungsgelder). Um solche Drittmittel zu erhalten ist ein ausführlicher [Projektantrag](https://de.wikipedia.org/wiki/Projektantrag) (vergleichbar mit klassischem Projektantrag) von Nöten. Dieser legt Ziele, Risiken, Methoden und Ressourcen, Zeit- und Finanzplanung, Angaben über Qualifikation der/des Projektleiter, sowie eine populär gehaltene Kurzfassung dar. Abschlussberichte sind von großer Bedeutung, aber auch Zwischenberichte sind häufig, um dem Geldgeber oder der Universität von dem Fortschritt zu berichten.[^1]
 
 # Typische Kriterien
 * Bereiche: Medizin, Naturwissenschaft, Technik 
 * Unklare Anforderungen bei (neuen) Forschungsgebieten in der Zielsetzung 
-* Flexibilität in Zieldefinition 
+* Flexibilität in der Zieledefinition 
 * Komplexe, neuartige Aufgabenstellungen (Erforderlichkeit von Erfahrung v.a. durch Institutionen) 
 * Begrenzte Ressourcen (Budget und Zeit) 
-* Hohes Fehlerpotenzial Meist Teamarbeit in interdisziplinären Arbeitsgruppen
+* Hohes Fehlerpotenzial 
+* Meist Teamarbeit in interdisziplinären Arbeitsgruppen
 
 # Forschungsprojekte im Projektmanagement
+Das Projektmanagement ist für die Forschung von wichtiger Bedeutung, da ohne PM das ohnehin schon hohe Risiko des Misslingens noch zusätzlich gesteigert wird. Auch wenn es Schwierigkeiten bereitet, klare Anforderungen zu formulieren und Fortschritte zu dokumentieren, ist es dennoch wichtig, dies zu versuchen. Dabei darf auch die Risikobeurteilung und Ressourcenplanung nicht zu knapp kommen, nur weil es das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und Ehrgeiz der Forscher. Management wird nicht direkt mit Forschung assoziiert, eher als lästig empfunden. Daher ist es wichtig, dass auch auf die Organisation eingegangen wird. Ansonsten folgen nicht erreichte Ziele. Forschungsinhalt und Management gehören zusammen [^2]
 
  Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -46,36 +48,25 @@ Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter)
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 # Klassisch vs. Agil
+Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Auch wenn leichte Tendenz zum agilen Projektmanagement existiert, gegeben dadurch, dass in der Anfangsphase oftmals die Anforderungen teils unbekannt sind, hat es jedoch auch Aspekte des klassischen Projektmanagements (z.B. detaillierter Projektantrag). Die unten aufgehführte Tabelle zeigt die Leitfragen und deren Einordnung von Forschungsprojekten (fettgedruckt) in das jeweilige Projektmanagement. Eine geeignete Methode im agilen Projektmanagement stellt hierbei die SCORE Methode dar.
+
 
 | Kategorien | Klassisches PM | Agiles PM |
 | ------------- | ------------- | ------------- |
-| klar definierte Projektziele | Ja | Nein  |
-| klar definierter Projektumfang | Ja | Nein |
-| viele zu erwartende Änderungen | Nein | Ja  |
-| Wichtigkeit der Dokumentation | Ja  | Nein |
-| Selbstorganisation der Projektteams | Nein  | Ja |
-| klar definierte Kosten | Ja  | Nein |
-| klar definierte Projektdauer | Ja  | Nein |
+| klar definierte Projektziele | Ja | **Nein**  |
+| klar definierter Projektumfang | Ja | **Nein** |
+| viele zu erwartende Änderungen | Nein | **Ja**  |
+| Wichtigkeit der Dokumentation | **Ja**  | Nein |
+| Selbstorganisation der Projektteams | Nein  | **Ja** |
+| klar definierte Kosten | **Ja**  | Nein |
+| klar definierte Projektdauer | Ja  | **Nein** |  [^3]
 
 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
+## Hier gleich noch eine Ebene-2-Überschrift 
 
 1. das
 2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -93,7 +84,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: [Forschungsprojekte](https://de.wikipedia.org/wiki/Forschungsprojekt)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^2]: [Projektmanagement der Forschung](https://www.projektmagazin.de/artikel/projektmanagement-der-forschung_6806)
+[^3]: [Über das Projektmanagement in der Forschung](https://www.teamwille.com/aktuelles/detail/ueber-das-projektmanagement-in-der-forschung/)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
