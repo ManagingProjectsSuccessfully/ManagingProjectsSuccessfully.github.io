@@ -68,12 +68,12 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 So kann man eine Tabelle erstellen:
 
-|               |    Person 1   |   Person 2   |   Person 3   |
-| ------------- | ------------- | ------------ | ------------ |
-|    Task 1     | Content Cell  |              |
-|    Task 2     | Content Cell  |              |
-|    Task 3     |               |              |
-
+|               |    Person 1   |    Person 2    |    Person 3    |
+| ------------- | ------------- | -------------- | -------------- |
+|    Task 1     | Content Cell  |  Content Cell  |  Content Cell   |
+|    Task 2     | Content Cell  |  Content Cell  |  Content Cell   |
+|    Task 3     |               |                |  Content Cell   |
+  
 
 ## Hier gleich noch eine Überschrift :-)
 
