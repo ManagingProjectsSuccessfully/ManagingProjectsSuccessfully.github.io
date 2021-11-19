@@ -10,10 +10,10 @@ anrechnung: k
 Das Pareto Prinzip hat ein großes Ziel: Man möchte mit einem minimalen Aufwand ein halbwegs vollständiges Ergebnis erzielen.
 
 ## Inhaltsverzeichnis
-### 1. Bedeutung des Pareto-Prinzips
-### 2. Ursprung des Pareto-Prinzips 
-### 3. Beispielhafte Situationen, in denen die 80/20-Regel zutrifft 
-### 4. Zeitersparnis durch die Anwendung des Pareto-Prinzips
+#### 1. Bedeutung des Pareto-Prinzips
+#### 2. Ursprung des Pareto-Prinzips 
+#### 3. Beispielhafte Situationen, in denen die 80/20-Regel zutrifft 
+#### 4. Zeitersparnis durch die Anwendung des Pareto-Prinzips
 
 
 ### 1. Bedeutung des Pareto-Prinzips:
