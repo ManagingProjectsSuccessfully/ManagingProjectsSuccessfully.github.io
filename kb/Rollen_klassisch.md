@@ -5,10 +5,6 @@ author: greifchristina
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Rollen_klassisch um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Unterschiedliche Rollen im klassischen Projektmanagement
 Innerhalb eines Projektes gibt es im klassischen Projektmanagement verschiedene Rollen, die besetzt werden müssen. Dazu zählen: 
@@ -40,8 +36,11 @@ Innerhalb und außerhalb der Projektorganisation kann es Experten geben, die sel
 
 ## Auftraggeber:
 Der Auftraggeber beauftragt das Projekt und stellt formal die Ressourcen bereit. Für interne Projekte ist dies oft der Geschäftsführer oder Vorstand des Unternehmens, bei externen Projekten sind es die Kunden.
-Kunden: 
+
+## Kunden: 
 Sofern es neben den Auftraggeber eine spezielle Kundenrolle gibt, ist dieser der Abnehmer aller Ergebnisse aus dem Projekt.
+
+# Zusammenarbeit zwischen den einzelnen Rollen
 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
