@@ -55,14 +55,19 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Vorteile von RACI
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+* Sie stellt die Beteiligten und Verantwortlichen **übersichtlich grafisch** dar.
+
+* Sie **verbessert die Kommunikation** im Projekt. 
+  Die Wahrscheinlichkeit, Beteiligte zu vergessen wird verringert 
+
+* Rollen und Verantwortlichkeiten werden **unmissverständlich geklärt** – das verringert die Konfliktwahrscheinlichkeit im Projektverlauf.
+
+* **Missverständnisse** durch unklare Erwartungshaltungen können **eliminiert** werden: Jeder weiß, wo er steht und welche Aufgaben bei ihm liegen.
+
+* Sie ist **einfach zu erstellen** in Excel oder PowerPoint.
+  
 
 ## Hier eine Überschrift unter Aspekt 2
 
