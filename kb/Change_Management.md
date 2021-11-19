@@ -34,7 +34,7 @@ der Mitarbeitenden gegenüber den bevorstehenden Veränderungen zu schaffen [^14
 sensiblerUmgang mit Widerständen ist ein wichtiger Erfolgsfaktor im Veränderungsprozess [^15]. 
 Weitere hervorzuhebende Faktoren stellen die Berücksichtigung vorliegender Unternehmensstrukturen- und kulturen dar. 
 
-Anleitung und Modelle
+# Anleitung und Modelle
 Auch wenn aufgrund der Komplexität der Faktoren eine pauschale Anleitung zur erfolgreichen Gestaltung des Wandels nicht vorhanden sein kann,
 exisieren eine Vielzahll an Modellen zur Gestaltung von Change Management [^17].
 Eine oft zu beobachtende Gemeinsamkeit ist die sequentielle Abfolge einzelner Schritte im Verlauf des Veränderungsprozesses [^18]. 
@@ -150,8 +150,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: Das Sprichwort wird dem Philosophen Heraklit zugeordnet. Siehe auch: https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/ppp_lehrstuehle/psychologie_4/dokumente/WS1718/Download_Newsletter_2019-01.pdf
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^5]:
+[^6]:
