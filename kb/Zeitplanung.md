@@ -2,7 +2,7 @@
 title: Zeitplanung
 tags: agil klassisch
 author: NinaNagel
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Zeitplanung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
