@@ -56,7 +56,7 @@ Nachhaltige Projekte sind zukunftsorientierte und langfristige Projekte. Dements
 einen Beitrag zum Unternehmenserfolg und zum Erhalt einer zukunftsfähigen Wirtschaft und Umwelt.[^5]
 
 ![image](/kb/Nachhaltigkeit_im_PM/Drei-Säulen-Modell.png)
- 
+ [^5]
 Ökologische Dimension
 
 Hauptgedanke ist, Projektergebnis und Prozesse nachhaltig zu gestalten
@@ -79,7 +79,7 @@ Die soziale Dimension beschreibt den Umgang mit Stakeholdern und Beziehungen zu 
 
 - Hochqualifizierte Mitarbeiter, um Arbeitsunfälle zu vermeiden
 - Mitarbeiterentwicklung als gesondertes Ziel betrachten. Schulungen zur interkulturellen und digitalen Kompetenz sind 
-ausschlaggebend für den Projekterfolg
+ausschlaggebend für den Projekterfolg[^5]
 
 
 
