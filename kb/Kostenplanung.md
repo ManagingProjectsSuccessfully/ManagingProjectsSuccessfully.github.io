@@ -21,7 +21,10 @@ Auch für schwierig zu schätzende Projektbestandteile sollte unbedingt eine Kos
 Die gesamte Kostenplanung sollte sorgfältig auf Fehler überprüft werden. Leicht können kleine Ungenauigkeiten in Formeln, Umrechnungskosten oder Stundensätzen die Planung verfälschen. Darüber hinaus sollten getroffene Annahmen, auf denen die Planung basiert eindeutig benannt werden. [3]
 
 # Quellen
-[^1]: Kayenta Glossar
+
+Test
+
+[^1]: Kayenta Glossar 
 
 
 
