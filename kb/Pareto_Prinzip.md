@@ -48,7 +48,7 @@ Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf gen
 
 Dies wird auch in der folgenden Abbildung leicht sichtbar: 
 
-![Dies wird auch in der folgenden Abbildung leicht sichtbar:](/kb/Pareto_Prinzip/Bildschirmfoto 2021-11-19 um 19.05.53.png)
+![Dies wird auch in der folgenden Abbildung leicht sichtbar:] (/kb/Pareto_Prinzip/Bildschirmfoto 2021-11-19 um 19.05.53.png)
 
 
 
