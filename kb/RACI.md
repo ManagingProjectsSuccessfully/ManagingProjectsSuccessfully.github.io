@@ -67,8 +67,15 @@ Egal wie groß das Unternehmen ist, Tätigkeitsbeschreibungen sollten eindeutig 
 * **Missverständnisse** durch unklare Erwartungshaltungen können **eliminiert** werden: Jeder weiß, wo er steht und welche Aufgaben bei ihm liegen.
 
 * Sie ist **einfach zu erstellen** in Excel oder PowerPoint.
-  
+<br>
+<br>
 
+# Nachteile von RACI
+*  Die Matrix wird schnell **unübersichtlich**, wenn zu viele Aufgaben oder Mitarbeiter aufgeführt werden.
+
+* Große Tabellen sind sehr **aufwendig zu pflegen**, falls sich Projektinhalte oder –beteiligte ändern.
+
+* Die Methode ordnet zwar Beteiligten Aufgaben zu, die **genaue Ausgestaltung** der Rolle muss jedoch zusätzlich in Form einer **Rollenbeschreibung** erfolgen.
 ## So kann eine RACI-Matrix aussehen
 
 <br>
@@ -96,7 +103,13 @@ Es gibt eine Reihe von Varianten oder Alternativen, die einen ähnlichen Matrix-
  -Mitarbeiter mit einem Veto-Recht zu versehen.
 
  ## RACIO:
- > Responsible, Accountable, Consulted, Informend, Omitted. Omitteld steht für ausgelassen und benennt explizit Mitarbeitende, die nichts mit der Durchführung einer konkreten Tätigkeit in Verbindung stehen. In manchen Publikationen wird auch von CAIRO gesprochen.
+ > Responsible, Accountable, Consulted, Informend, Omitted. Omitted steht für ausgelassen und benennt explizit Mitarbeitende, die nichts mit der Durchführung einer konkreten Tätigkeit in Verbindung stehen. In manchen Publikationen wird auch von CAIRO gesprochen.
+
+ ## RACI-VS:
+ Responsible, Accountable, Support, Consulted, Informed, Verify, Signatory. Verify benennt eine Rolle bzw. einen Mitarbeiter, die oder der ein Ergebnis überprüft. Signatory adressiert die Bestätigung dieser Überprüfung. Im Vergleich zu RACI werden also zwei weitere Verantwortungsbereiche definiert.
+
+ ## REWA
+> Responsible, Expert, Work, Approver. Der Expert entspricht ungefähr dem „Consulted“ von RACI, Work adressiert die tatsächliche Ausführung einer Tätigkeit und A steht für Approver und somit für die Abnahme einer Tätigkeit bzw. eines Ergebnisses.
 
 1. das
 2. hier 
