@@ -2,7 +2,7 @@
 title: Klassische_Missverstaendnisse
 tags: agil klassisch
 author: ux49azap
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Klassische_Missverstaendnisse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
