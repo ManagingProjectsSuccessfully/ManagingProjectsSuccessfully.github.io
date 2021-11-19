@@ -22,6 +22,8 @@ Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes
 
 Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken entwickelt.
 
+![Beispielabbildung](Xtreme_Programming/test-file.jpg)
+
 # Rollen
 
 * Kunde
