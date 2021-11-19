@@ -22,7 +22,7 @@ Der Projektabschlussbericht gibt Aufschluss 체ber:
 * die stattgefundenen Ereignisse und die daraus resultierenden Ergebnisse
 * Erfolge als auch Misserfolge
 
-All dies wird anhand verschiedener Aspekte und Methoden beleuchtet, was letzten Endes die Qualit채t und Zielgenauigkeit des Projektes beurteilen l채sst. Ziel dieses 
+All dies wird anhand verschiedener Aspekte und [Methoden](Methoden.md) beleuchtet, was letzten Endes die Qualit채t und Zielgenauigkeit des Projektes beurteilen l채sst. Ziel dieses 
 Vorgehens ist es, die einzelnen Handlungsschritte zu reflektieren und die passenden Schl체sse daraus zu ziehen. Dies kann sowohl positiv, als auch negativ ausfallen, 
 wobei man sich dabei immer die Frage stellt, *was ist gut gelaufen und womit waren unsere Kunden zufrieden, aber auch wo besteht dringend Handlungsbedarf?*.   
   Er beschreibt also das **Gesamtergebnis**, sowie die **Entwicklung eines Projektes** und tr채gt besonders dazu bei, **Erfahrungen f체r k체nftige Vorhaben** zu sichern. 
@@ -88,8 +88,8 @@ Erkenntnisse in Form von *lessons learned* gezogen werden, welche man auf das n�
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektabschluss.md)
-* [Link auf diese Seite](Lessons_Learned.md)  
+* [Link zum Projektabschluss](Projektabschluss.md)
+* [Link zu Lessons Learned](Lessons_Learned.md)  
 
 
 
