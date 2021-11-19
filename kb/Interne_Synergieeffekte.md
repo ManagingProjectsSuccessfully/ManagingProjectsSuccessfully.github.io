@@ -18,6 +18,8 @@ Sinnvoll ist ein solches M&A-Projekt erst dann, wenn es interessante Überschnei
 
 ## Ziele eines M&A-Projektes
 
+![M&A Wortwolke](mergers-and-acquisitions.jpg)
+
 Das Ziel eines M&A-Projektes ist es in einem reifen Markt weiterhin wachsen zu können. Dadurch kann in weitere Regionen expandiert werden oder neue Produkte können besser vermarktet werden. Blockiert wird dies vor der Akquisition durch fehlende Vertriebsstrukturen oder das nötige Know-How, um Innovationen wie die anderen Unternehmen voranzutreiben, fehlen bislang. Es kristallisieren sich folgende Hauptgründe für eine Akquisition heraus:[^3] 
 * Stärkung und Ausweitung des bestehenden Kerngeschäftes
 * Verbessern der Wettbewerbschancen
