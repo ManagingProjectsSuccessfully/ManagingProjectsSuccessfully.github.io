@@ -22,31 +22,32 @@ Beispiele für Formate sind:
 
 | Grundgedanke| Vorgehen | 
 | ------------- | ------------- |
-| Simples analoges Vorgehen  | Hier werden Karteikarten verwendet. Jedes Teammitglied erhält zu Beginn Karteikarten auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehangen und besprochen.[^3]|
+| Simples analoges Vorgehen  | Hier werden Karteikarten verwendet. Jedes Teammitglied erhält zu Beginn Karteikarten, auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehängt und besprochen.[^3]|
 | Nutzen von digitalen Vorlagen | Eine weitere Möglichkeit ist es, digitale Vorlagen für die Retrospective zu nutzen. Diese gibt es zum Beispiel bei Trello, Confluence, Miro oder Mural.[^4]|
 | Einsatz von Spielen  | *Beispiele* "[Sails](https://de.pons.com/übersetzung/englisch-deutsch/sails) and [Anchors](https://de.pons.com/übersetzung/englisch-deutsch/anchor)" - Was sind die Anker, die das Team herunterziehen, was gibt den Segeln des Teams den Wind.[^5]"[Rose](https://de.pons.com/übersetzung/englisch-deutsch/rose?bidir=1), [Bud](https://de.pons.com/übersetzung/englisch-deutsch/Bud), [Thorn](https://de.pons.com/übersetzung/englisch-deutsch/Thorn)" - Was waren die Highlights (Rosenblüte), was kann man noch verbessern (Knospe) und was ist falsch gelaufen (Dorn)[^6]|
 
 *Abbildung: Beispiele zum Gestalten einer Retrospective*
 
-Unabhängig vom Format ist es das Ziel, im Anschluss eine Liste zu erstellen mit Punkten die im nächsten Sprint verbessert, abgeschafft oder behalten werden sollen. In der folgenden Retrospective wird überprüft, ob die Punkte umgesetzt werden konnten.[^3]
+Unabhängig vom Format ist es das Ziel, im Anschluss eine Liste zu erstellen mit Punkten, die im nächsten Sprint verbessert, abgeschafft oder behalten werden sollen. In der folgenden Retrospective wird überprüft, ob die Punkte umgesetzt werden konnten.[^3]
 
 # Vor- und Nachteile der Retrospective
 
 ## Vorteile
 
-Die regelmäßige Durchführung einer Retrospective bietet verschiedene Vorteile, darunter:[^1]
+Die regelmäßige Durchführung einer Retrospective bietet verschiedene Vorteile, darunter:[^1][^7]
 
 * Zeit und Raum für die Einholung von Feedback von den verschiedenen Teammitgliedern
 * Optimierung der Teamdynamik 
 * Optimierung von Arbeitsabläufen, Probleme beim Arbeitsprozess werden dargelegt 
 * Dokumentation des Feedbacks, die für das Team zu jeder Zeit ersichtlich ist
-* Unterstüzung bei der Entscheidungsfindung bezüglich des weiteren Vorgehens
+* Unterstützung bei der Entscheidungsfindung bezüglich des weiteren Vorgehens
 
 ## Nachteile
 
-Probleme die bei der Retrospective auftreten können, sind die Folgenden:[^1][^7]
+Probleme die bei der Retrospective auftreten können, sind die Folgenden:[^1][^7][^8]
 
-* Die Ständige Wiederholung des immer gleichen Vorgangs kann schnell langweilig werden. Um zu vermeiden, dass die Teammitglieder ihr Engagement verlieren, empfieht es sich das Format regelmäßig zu ändern
+* Die Veranstaltung einer Retrospective stellt einen zusätzlichen Zeit und Arbeitsaufwand dar
+* Die Ständige Wiederholung des immer gleichen Vorgangs kann schnell langweilig werden. Um zu vermeiden, dass die Teammitglieder ihr Engagement verlieren, empfiehlt es sich das Format regelmäßig zu ändern
 * Teammitglieder könnten emotional verletzt werden, deshalb ist sachliches Feedback von hoher Bedeutung
 * Frustration, falls vereinbarte Verbesserungsvorschläge nicht umgesetzt werden
 
@@ -74,3 +75,4 @@ Die Retrospective wird in verschieden Arten des agilen Projektmanagements einges
 [^5]: https://overlapassociates.com/ideas/how-to-run-a-sails-and-anchors-retrospective-the-agile-way/
 [^6]: https://easyretro.io/templates/rose-bud-thorn/
 [^7]: https://agileworld.blogspot.com/2006/12/pros-and-cons-of-conducting.html
+[^8]: https://greengarageblog.org/7-pros-and-cons-of-agile-methodology
