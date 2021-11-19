@@ -9,11 +9,11 @@ anrechnung: k
 
 Das Pareto Prinzip hat ein großes Ziel: Man möchte mit einem minimalen Aufwand ein halbwegs vollständiges Ergebnis erzielen.
 
-##Inhaltsverzeichnis
-## 1. Bedeutung des Pareto-Prinzips
-## 2. Ursprung des Pareto-Prinzips 
-## 3. Beispielhafte Situationen, in denen die 80/20-Regel zutrifft 
-## 4. Zeitersparnis durch die Anwendung des Pareto-Prinzips
+## Inhaltsverzeichnis
+### 1. Bedeutung des Pareto-Prinzips
+### 2. Ursprung des Pareto-Prinzips 
+### 3. Beispielhafte Situationen, in denen die 80/20-Regel zutrifft 
+### 4. Zeitersparnis durch die Anwendung des Pareto-Prinzips
 
 
 ### 1. Bedeutung des Pareto-Prinzips:
@@ -23,7 +23,7 @@ Das Pareto-Prinzip wird gerne auch als "80/20-Prinzip" bezeichnet. Bei den zwei 
 Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen kann.[^2] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient ist, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann.
 
 
-# 2. Ursprung des Pareto-Prinzips:
+### 2. Ursprung des Pareto-Prinzips:
 
 Die Einkommensschere ist schon seit Jahrhunderten von großer Bedeutung - insbesondere in der Politik. Es wird häufig betont, dass die Armen immer ärmer und die Reichen immer reicher werden. Die Diskrepanz zwischen Arm und Reich scheint immer größer zu werden und durch die Coronavirus-Krise hat sich die Gesamtsituation noch weiter zugespitzt.[^3]
 
@@ -41,7 +41,7 @@ Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilun
 |  Mitarbeiter  |   Fehltage    |
 
 
-# 4. Zeitersparnis durch die Anwendung des Pareto-Prinzips:
+### 4. Zeitersparnis durch die Anwendung des Pareto-Prinzips:
 
 Aus den oben genannten Gründen ist im Bereich des Zeitmanagements des Öfteren vom Pareto-Prinzip die Rede. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches bereits die wichtigsten Bedingungen erfüllt.[^5]
 Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf genau diese Aspekte beschränkt, wird also bereits ein großer Teil der Dinge erreicht, die man erzielen will. Der Aufwand, der in dem steckt, das nur 20% des Ergebnisses erfüllt, liegt also bei 80% und ist schlussfolgernd viel zeitintensiver. 
