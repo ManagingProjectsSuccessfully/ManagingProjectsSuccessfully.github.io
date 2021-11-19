@@ -20,9 +20,9 @@ Inhaltsverzeichnis
     - 2.1 Vorteile
     - 2.2 Nachteile
 3. Beispiele für Nachhaltigkeit im Projektmanagement anhand des Drei-Säulen-Modells
-    - 3.1 ökologische Dimension
-    - 3.2 ökonomische Dimension
-    - 3.3 soziale Dimension
+    - 3.1 Ökologische Dimension
+    - 3.2 Ökonomische Dimension
+    - 3.3 Soziale Dimension
 4. Auswirkungen von Nachhaltigkeit im Projektmanagement
 5. Fazit
 
@@ -57,28 +57,32 @@ einen Beitrag zum Unternehmenserfolg und zum Erhalt einer zukunftsfähigen Wirts
 
 ![image](/kb/Nachhaltigkeit_im_PM/Drei-Säulen-Modell.png)
  
+Ökologische Dimension
+
+Hauptgedanke ist, Projektergebnis und Prozesse nachhaltig zu gestalten
+
+- Einsatz von ökologisch wertvollen und vertretbaren Materialien
+- Vermeidung von unnötigen Reisen, sowie Zusammenarbeit virtuell gestalten
+- Achten auf die Vertretbarkeit der eingesetzten Materialien und probieren ein ressourcenschonendes Endprodukt bereitzustellen
+
+Ökonomische Dimension
+
+In der ökonomischen Dimension steht der finanzielle Aspekt stark im Vordergrund
+
+- Beschäftigung von regionalen Arbeitskräften mit angemessener Bezahlung
+- Beim entwickeln von neuen Produkten, möglichst auf regionale Lieferanten zurückgreifen
+
+
+Soziale Dimension
+
+Die soziale Dimension beschreibt den Umgang mit Stakeholdern und Beziehungen zu relevanten Umwelten
+
+- Hochqualifizierte Mitarbeiter, um Arbeitsunfälle zu vermeiden
+- Mitarbeiterentwicklung als gesondertes Ziel betrachten. Schulungen zur interkulturellen und digitalen Kompetenz sind 
+ausschlaggebend für den Projekterfolg
 
 
 
-
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
