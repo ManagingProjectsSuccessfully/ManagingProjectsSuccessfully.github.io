@@ -29,7 +29,7 @@ Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird berei
 * Punkteliste
   - mit unterpunkt
 
-# Hier eine Ebene-2-Überschrift unter Aspekt 2
+# 5. Hier eine Ebene-2-Überschrift unter Aspekt 2
 Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum agilen Projektmanagement gibt es keine kleineren Aufgabenblöcke, die früh zu nutzbaren Ergebnissen oder überprüfbaren Prototypen führen. Es entstehen somit auch nicht regelmäßig Zwischenprodukte, welche durch kontinuierliche Anpassungsprozesse überprüft und verbessert werden können (sog. Sprints beim agilen Projektmanagementmodell Scrum). 
 Stattdessen werden einzelne größere Projektphasen nacheinander und nicht parallel abgearbeitet. Die komplexeren Arbeitsblöcke lassen sich schwerer verwalten, wodurch 
 ein deutlich höheres Risiko für Fehlentscheidungen entsteht. Außerdem geht der Motivationsaspekt für das arbeitende Team verloren, da beim klassischen Projektmanagement kein frühzeitig nutzbarer Mehrwert entsteht.
@@ -41,12 +41,12 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## 5.1 Hier gleich noch eine Ebene-2-Überschrift :-)
 
 Eng damit verknüpft ist die Rückmeldung an den Kunden. Im Gegensatz zu agilen Projekten können dem Kunden keine Zwischenprodukte oder –ergebnisse präsentiert werden. Dadurch geht entscheidendes Feedback im Projektverlauf verloren, welches für die weiteren Prozessschritte hätte berücksichtigt werden können. Stattdessen werden die Projektergebnisse 
 am Ende einer Projektphase oder sogar erst am Ende des Projekts bereitgestellt. Somit haben die Anspruchsgruppen so gut wie keinerlei Einfluss während des Projektes, wodurch wiederum neue Missverständnisse entstehen. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben wodurch umfangreiche nachträgliche Anpassungen notwendig werden.
 
-# Unverhältnismäßige Rahmenbedingungen
+# 6. Unverhältnismäßige Rahmenbedingungen
 
 Ein weiterer Aspekt welcher zu klassischen Missverständnissen führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, die unterschätze Komplexität des Projektes oder mangelnde Abstimmung und fehlerhafte Kommunikation bestärken die bereits genannten Missverständnisse stark. 
 1. das
