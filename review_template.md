@@ -8,7 +8,7 @@ tags: orga
 Pro Beitrag werden den Teilnehmer:innen von MPS durch das MPS-Team drei Beiträge für ein Review zugeordnet. Die Reviewer:innen sollten entsprechend eine Mail von GitHub erhalten, in der sie zu einem Review eingeladen werden. Bei Öffnen des Pull-Requests des zu prüfenden Beitrags erscheint oben eine Aufforderung zum Review. 
 
 # Erstellen des Reviews
-Der Screencast [Screencast_Review_Process](Screencast_Review_Process.md) zeigt, in welchen Schritten ein Review zu einem Beitrag erstellt wird. 
+Der Screencast [Screencast_Review_Process](Screencast_Review_Process.mp4) zeigt, in welchen Schritten ein Review zu einem Beitrag erstellt wird. 
 
 ## Einfügen der vorgegebenen Bewertungstabelle
 Wie im Video zu sehen, soll dazu die folgende Bewertungstabelle kopiert und in das Kommentarfeld eingefügt werden (am besten die Datei als "Raw" anzeigen lassen zum Kopieren):
