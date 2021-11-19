@@ -14,12 +14,10 @@ Das traditionelle Projektmanagement beruht auf einem monolithischen Ansatz, bei 
 
 
 
-# Aspekt 1
+# 3. Fehlende Flexibilität bei Veränderungen
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+In nahezu allen Projekten kommt es im Laufe der Zeit zu sich veränderten Anforderungen und Bedürfnissen. Aufgrund der klassischen Vorgehensweise hat die Projektplanung allerdings nicht die notwendigen Freiheiten um auf Veränderungen flexibel einzugehen, da sie aufwendige und oftmals kostspielige Projektanpassungen nach sich ziehen würden. Stattdessen wird strikt an dem ursprünglichen Plan festgehalten. Somit gibt es kaum Möglichkeiten Ziel- und Planänderungen zu treffen, was vor allem bei den immer komplexer werdenden Projekten zu maßgeblichen Missverständnissen führt.  
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
 * Kritik 
 
 ![Beispielabbildung](Klassische_Missverstaendnisse/test-file.jpg)
