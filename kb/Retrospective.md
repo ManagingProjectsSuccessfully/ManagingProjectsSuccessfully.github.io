@@ -17,15 +17,14 @@ Beim agilen Projektmanagement geht es unter anderem um Verbesserung. Deshalb ist
 
 ## Vorgehen
 
-Es gibt verschiedene Herangehensweisen, eine Retrospective zu gestalten. Das Format gelegentlich zu ändern kann für Abwechslung sorgen. 
-Beispiele hierfür sind:
+Es gibt viele verschiedene Herangehensweisen, eine Retrospective zu gestalten. Das Format gelegentlich zu ändern kann für Abwechslung sorgen. 
+Beispiele für Formate sind:
 
 | Grundgedanke| Vorgehen | 
 | ------------- | ------------- |
-| Analoges Vorgehen  | Hier werden Karteikarten verwendet. Jedes Teammitglied erhält zu Beginn Karteikarten auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehangen und besprochen. Ziel ist es, im Anschluss eine Liste zu erstellen mit Punkten die im nächsten Sprint berücksichtigt werden sollen. In der folgenden Retrospective wird überprüft, ob die Punkte umgesetzt werden konnten.[^3]|
-| Nutzen von digitalen Vorlagen | Eine weitere Möglichkeit ist es, digitale Vorlagen für die Retrospective zu nutzen. Diese gibt es zum Beispiel über Trello, Confluence, Miro oder Mural.[^4]|
-| .  | x|
-| x x|  x |
+| Simples analoges Vorgehen  | Hier werden Karteikarten verwendet. Jedes Teammitglied erhält zu Beginn Karteikarten auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehangen und besprochen. Ziel ist es, im Anschluss eine Liste zu erstellen mit Punkten die im nächsten Sprint berücksichtigt werden sollen. In der folgenden Retrospective wird überprüft, ob die Punkte umgesetzt werden konnten.[^3]|
+| Nutzen von digitalen Vorlagen | Eine weitere Möglichkeit ist es, digitale Vorlagen für die Retrospective zu nutzen. Diese gibt es zum Beispiel bei Trello, Confluence, Miro oder Mural.[^4]|
+| Einsatz von Spielen  | *Beispiele* "Sails and Anchors" - Was sind die Anker, die das Team herunterziehen, was gibt den Segeln des Teams den Wind.[^5]      "Rose, Bud, Thorn" - Was waren die Highlights (Rosenblüte), was kann man noch verbessern (Knospe) und was ist falsch gelaufen (Dorn)[^6]|
 
 *Abbildung: Beispiele zum Gestalten einer Retrospective*
 
@@ -45,7 +44,7 @@ Die regelmäßige Durchführung einer Retrospective bietet verschiedene Vorteile
 
 Probleme die bei der Retrospective auftreten können, sind die Folgenden:
 
-* xx
+* Die Ständige Wiederholung des immer gleichen Vorgangs kann schnell langweilig werden. Um zu vermeiden, dass die Teammitglieder ihr Engagement verlieren, empfieht es sich das Format regelmäßig zu ändern[^1]
 * xx
 
 # Außerdem wissenswert
@@ -56,6 +55,8 @@ Die Retrospective wird in verschieden Arten des agilen Projektmanagements einges
 
 * [Trello_PM_Tool](Trello_PM_Tool.md)
 * [SCRUM](SCRUM.md)
+* Daily
+* Standup
 
 # Weiterführende Literatur
 
@@ -66,4 +67,6 @@ Die Retrospective wird in verschieden Arten des agilen Projektmanagements einges
 [^1]: https://www.easyagile.com/blog/retrospectives/
 [^2]: https://itadvisory.dk/wp-content/uploads/2018/11/retrospective-starfish-with-post-its.png
 [^3]:[Ralf Wirdemann, Dr. Johannes Mainusch (2017): "Scrum mit User Stories"](https://www.hanser-elibrary.com/doi/epdf/10.3139/9783446450776.002)
-[^4]:https://www.atlassian.com/de/team-playbook/plays/retrospective
+[^4]: https://www.atlassian.com/de/team-playbook/plays/retrospective
+[^5]: https://overlapassociates.com/ideas/how-to-run-a-sails-and-anchors-retrospective-the-agile-way/
+[^6]: https://easyretro.io/templates/rose-bud-thorn/
