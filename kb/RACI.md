@@ -51,7 +51,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 # Aspekt 1
 
-![Beispielabbildung](RACI/test-file.jpg)
+![Beispielabbildung](RACI/Bild1.png)
 
 *lustiges Testbild*
 
