@@ -71,8 +71,7 @@ Egal wie groß das Unternehmen ist, Tätigkeitsbeschreibungen sollten eindeutig 
 
 ## So kann eine RACI-Matrix aussehen
 
-
-
+<br>
 
 |               |    Person 1   |    Person 2    |    Person 3    |
 | ------------- | ------------- | -------------- | -------------- |
