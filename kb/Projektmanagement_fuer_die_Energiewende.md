@@ -5,6 +5,7 @@ author: Magnus-schn
 anrechnung: k 
 ---
 
+![Photovoltaik](https://www.co2online.de/fileadmin/_processed_/b/7/csm_photovoltaikanlage-und-windkraftwerk_278dc38ea3.jpg)
 Um die Energiewende in Deutschland durchführen zu können, müssen mehrere Fachbereiche miteinander verbunden werden. Dazu gehören insbesondere Technik, Recht und Wirtschaft. Das Projektmanagement für eine erfolgreiche Energiewende fokussiert sich auf die Planung und darauffolgende Umsetzung der Energiewende mit zumeist klassischen Projektmanagementtechniken. Das Ziel ist es dabei eine Strategie zu entwickeln, um von fossilen und nicht nachhaltigen Rohstoffen zu erneuerbaren Energien zu wechseln.
 Einen großen gemeinsamen Plan gibt es dafür jedoch nicht. Viel mehr befassen sich Nationen und Unternehmen einzeln bzw. in kleineren Verbänden damit. Als gemeinsame Grundlage gelten Anordnungen der Klimakonferenzen und bereits bekannte Technologien um erneuerbare Energien zu nutzen, wie z.B. Photovoltaik und Solarthermie bei Sonnenenergie.
 Klassisches Projektmanagement setzt auf Vorausplanen und Einhalten einer Strategie.  Somit werden vorher die Zielvorgaben für bestimmte Aspekte definiert und möglichst im Verlauf des Projektes eingehalten. Dazu gehören Zielvorgaben wie Qualität des Endprodukts, Ressourceneinsatz, Kosten und Termine
@@ -42,10 +43,10 @@ Neben Netzbetreibern auch Landes- und Bundesbehörden, Baufirmen, Anwohner- und 
 Höchste Priorität auf langfristiger Absicherung der Geldmittel. Dabei besteht die Möglichkeit zum Abrufen von vielen verschiedenen staatlichen Fördermitteln und Subventionen
 Viele Konzepte in der die Europäische Investitionsbank als Geldgeber ohne Risikobeteiligung auftritt, dabei agieren Finanzitermediäre/Geschäftsbanken als Mittler.
 
-# Riskmanagement Lösungen am Beispiel Biogasanlagen[^1]
-* Stetiges kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.)
-* Störmeldungen ab bestimmten Parametern
-* Versicherbarkeit nur bei bestand eines Wartungsvertrags
+# Riskmanagement Lösungen am Beispiel Biogasanlagen
+* Stetiges kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^1]
+* Störmeldungen ab bestimmten Parametern [^1]
+* Versicherbarkeit nur bei bestand eines Wartungsvertrags [^1]
 
 # Derzeitiger Stand
 Der Anteil der Erneuerbaren am deutschen Stromverbrauch lag 2020 bereits bei 45 Prozent.
@@ -82,14 +83,6 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Projektmanagement_fuer_die_Energiewende/test-file.jpg)
 
