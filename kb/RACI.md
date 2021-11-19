@@ -7,8 +7,8 @@ anrechnung: k
 
 Mit RACI wird eine Technik zur Analyse und Darstellung von Verantwortlichkeiten bezeichnet. Der Name leitet sich aus den Anfangsbuchstaben der englischen Begriffe Responsible, Accountable, Consulted, Informed ab. Davon Abgeleitet wird die RACI-Matrix erstellt, welche auch RAM (Responsibility Assignment Matrix) genannt wird. 
 
-Aus dieser Matrix geht hervor, welche Team-Mitglieder, wofür im Projekt verantwortlich sind.
-Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umfangreicher das Projekt oder die Entwicklung ist, desto schwieriger ist es, Verantwortlichkeiten zu definieren und den Überblick über Verantwortlichkeiten zu behalten. Die RACI-Matrix ist somit ein Hilfsmittel zur Analyse und Darstellung von Verantwortlichkeiten.
+Aus dieser Matrix geht hervor, welche Team-Mitglieder wofür im Projekt verantwortlich sind.
+Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umfangreicher das Projekt oder die Entwicklung ist, desto schwieriger ist es, Verantwortlichkeiten zu definieren und den Überblick über Verantwortlichkeiten zu behalten. Die RACI-Matrix ist ein Hilfsmittel zur Analyse und Darstellung von Verantwortlichkeiten.
 
 
 # Aufschlüsselung der Anfangsbuchstaben
@@ -21,6 +21,9 @@ C – Consulted: Wer wird zur Durchführung der Aufgabe befragt? Hier handelt es
 
 I – Informed: Wer wird über die Ergebnisse der Aufgabe informiert? Hier findet in der Regel keine zweiseitige Kommunikation statt, sondern es werden lediglich Informationen übertragen.
 
+
+Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
+anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
  # ÜBERSCHRIFT
 
@@ -65,10 +68,12 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 So kann man eine Tabelle erstellen:
 
-|               |    Person 1   |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|               |    Person 1   |   Person 2   |   Person 3   |
+| ------------- | ------------- | ------------ | ------------ |
+|    Task 1     | Content Cell  |              |
+|    Task 2     | Content Cell  |              |
+|    Task 3     |               |              |
+
 
 ## Hier gleich noch eine Überschrift :-)
 
