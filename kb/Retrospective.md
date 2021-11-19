@@ -59,7 +59,7 @@ Die Retrospective wird in verschieden Arten des agilen Projektmanagements einges
 
 * [Trello_PM_Tool](Trello_PM_Tool.md)
 * [SCRUM](SCRUM.md)
-* [Daily_SCRUM](Daily_SCRUM.md)
+* [Daily_Scrum](Daily_Scrum.md)
 * [Stand_Ups](Stand_Ups.md)
 
 # Weiterführende Literatur
