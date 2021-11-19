@@ -53,7 +53,7 @@ Beispiele für Nachhaltigkeit im Projektmanagement anhand des Drei-Säulen-Model
 Nachhaltige Projekte sind zukunftsorientierte und langfristige Projekte. Dementsprechend leistet nachhaltiges Projektmanagement auf langer Sicht
 einen Beitrag zum Unternehmenserfolg und zum Erhalt einer zukunftsfähigen Wirtschaft und Umwelt.[^5]
 
-![image](/kb/Nachhaltigkeit_im_PM/Drei-Säulen-Modell.png width=50/>
+![image](/kb/Nachhaltigkeit_im_PM/Drei-Säulen-Modell.png width=50/>)
  [^5]
  
 Ökologische Dimension
