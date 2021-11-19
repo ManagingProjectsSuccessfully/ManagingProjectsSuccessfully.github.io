@@ -37,7 +37,6 @@ Als Letztes muss das Controlling angepasst werden, um die Steuerbarkeit zu erhal
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [SCRUM](SCRUM.md)
 * [Selbstorganisierende Teams](Selbstorganisierende_Teams.md)
 
