@@ -20,7 +20,15 @@ Dies ist oftmals schwierig bei einem klassischen Ansatz, vor allem, wenn sich di
 Es wird von iterativen Prozessen ausgegangen. 
 Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, besprechen und veröffentlichen. 
 
-Es wurde ein deutliches Framework mit verschiedenen Werten, Prinzipien und Techniken entwickelt.
+Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken entwickelt.
+
+# Rollen
+
+* Kunde
+* Entwickler
+* Manager
+* Coach
+
 
 # Werte
 
