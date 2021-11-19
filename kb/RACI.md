@@ -53,7 +53,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 ![Beispielabbildung](RACI/Bild1.png)
 
-Egal wie groß das Unternehmen ist, Tätigkeitsbeschreibungen sollten eindeutig definiert sein, wobei man Zuständigkeiten und Verantwortlichkeiten darstellen sollte. Ob 10 Personen an einem Standort tätig sind oder hunderte Mitarbeiter weltweit vernetzt arbeiten, jeder muss seine Aufgabe genau verstehen. Dies bedeutet, dass bei der Aufgabenverteilung zwischen verschiedenen Punkten unterschieden werden mus
+Egal wie groß das Unternehmen ist, Tätigkeitsbeschreibungen sollten eindeutig definiert sein, wobei man Zuständigkeiten und Verantwortlichkeiten darstellen sollte. Ob 15 Personen an einem Standort tätig sind oder hunderte Mitarbeiter weltweit vernetzt arbeiten, jeder muss seine Aufgabe genau verstehen. Dies bedeutet, dass bei der Aufgabenverteilung zwischen verschiedenen Punkten unterschieden werden muss
 
 # Vorteile von RACI
 
@@ -86,9 +86,17 @@ responsible ist, spricht man von "overlap in responsibility".
 <br>
 
 
-## Hier gleich noch eine Überschrift :-)
 
-# Aspekt n
+
+# Varianten von RACI
+
+Es gibt eine Reihe von Varianten oder Alternativen, die einen ähnlichen Matrix-Ansatz verfolgen, aber andere Begriffe verwenden. Hier finden Sie einige dieser Varianten:
+## RASCI:
+>   Responsible, Accountable, Support, Consulted, Informed. Support adressiert eine Rolle oder einen Mitarbeiter, der bei einer Tätigkeit mitwirkt und so die Umsetzung unterstützt. Da die Abgrenzung zwischen S und C nicht immer einfach ist, gibt es Organisationen, die C-Rollen oder 
+ -Mitarbeiter mit einem Veto-Recht zu versehen.
+
+ ## RACIO:
+ > Responsible, Accountable, Consulted, Informend, Omitted. Omitteld steht für ausgelassen und benennt explizit Mitarbeitende, die nichts mit der Durchführung einer konkreten Tätigkeit in Verbindung stehen. In manchen Publikationen wird auch von CAIRO gesprochen.
 
 1. das
 2. hier 
