@@ -9,7 +9,7 @@ Als Jour Fixe [ˈʒuːɐ̯ ˈfiks] wird ein kurzes regelmäßig wiederkehrendes 
 
 ![Jour_Fixe](Jour_Fixe/Jour_Fixe.jpg)
 
-[^2]
+*Symbolbild für ein Jour Fixe [^2]*
 
 # Wozu dient ein Jour Fixe?
 
