@@ -22,13 +22,13 @@ Beispiele für Formate sind:
 
 | Grundgedanke| Vorgehen | 
 | ------------- | ------------- |
-| Simples analoges Vorgehen  | Hier werden Karteikarten verwendet. Jedes Teammitglied erhält zu Beginn Karteikarten, auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehängt und besprochen.[^3]|
-| Nutzen von digitalen Vorlagen | Eine weitere Möglichkeit ist es, digitale Vorlagen für die Retrospective zu nutzen. Diese gibt es zum Beispiel bei Trello, Confluence, Miro oder Mural.[^4]|
+| Simples analoges Vorgehen  | Hier erhält jedes Teammitglied zu Beginn Karteikarten, auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehängt und besprochen.[^3]|
+| Nutzen von digitalen Vorlagen | Eine weitere Möglichkeit ist es, digitale Vorlagen für die Retrospective zu nutzen. Diese werden zum Beispiel von Trello, Confluence, Miro oder Mural angeboten.[^4]|
 | Einsatz von Spielen  | *Beispiele* "[Sails](https://de.pons.com/übersetzung/englisch-deutsch/sails) and [Anchors](https://de.pons.com/übersetzung/englisch-deutsch/anchor)" - Was sind die Anker, die das Team herunterziehen, was gibt den Segeln des Teams den Wind.[^5]"[Rose](https://de.pons.com/übersetzung/englisch-deutsch/rose?bidir=1), [Bud](https://de.pons.com/übersetzung/englisch-deutsch/Bud), [Thorn](https://de.pons.com/übersetzung/englisch-deutsch/Thorn)" - Was waren die Highlights (Rosenblüte), was kann man noch verbessern (Knospe) und was ist falsch gelaufen (Dorn)[^6]|
 
 *Abbildung: Beispiele zum Gestalten einer Retrospective*
 
-Unabhängig vom Format ist es das Ziel, im Anschluss eine Liste zu erstellen mit Punkten, die im nächsten Sprint verbessert, abgeschafft oder behalten werden sollen. In der folgenden Retrospective wird überprüft, ob die Punkte umgesetzt werden konnten.[^3]
+Unabhängig vom Format ist es das Ziel, im Anschluss eine Liste zu erstellen mit Punkten, die im nächsten Sprint verbessert, abgeschafft oder behalten werden sollen. In der nächsten Retrospective wird überprüft, ob die gesammelten Punkte erfolgreich umgesetzt werden konnten.[^3]
 
 # Vor- und Nachteile der Retrospective
 
@@ -38,18 +38,18 @@ Die regelmäßige Durchführung einer Retrospective bietet verschiedene Vorteile
 
 * Zeit und Raum für die Einholung von Feedback von den verschiedenen Teammitgliedern
 * Optimierung der Teamdynamik 
-* Optimierung von Arbeitsabläufen, Probleme beim Arbeitsprozess werden dargelegt 
+* Optimierung von Arbeitsabläufen, Probleme beim gemeinsamen Arbeitsprozess werden dargelegt 
 * Dokumentation des Feedbacks, die für das Team zu jeder Zeit ersichtlich ist
-* Unterstützung bei der Entscheidungsfindung bezüglich des weiteren Vorgehens
+* Unterstützung bei der Entscheidungsfindung bezüglich des weiteren Vorgehens im nächsten Sprint
 
 ## Nachteile
 
 Probleme die bei der Retrospective auftreten können, sind die Folgenden:[^1][^7][^8]
 
-* Die Veranstaltung einer Retrospective stellt einen zusätzlichen Zeit und Arbeitsaufwand dar
-* Die Ständige Wiederholung des immer gleichen Vorgangs kann schnell langweilig werden. Um zu vermeiden, dass die Teammitglieder ihr Engagement verlieren, empfiehlt es sich das Format regelmäßig zu ändern
+* Die Veranstaltung einer Retrospective stellt einen zusätzlichen Zeit- und Arbeitsaufwand dar
+* Die Ständige Wiederholung des immer gleichen Vorgangs kann schnell zu Langweilig führen; Um zu vermeiden, dass die Teammitglieder ihr Engagement verlieren, empfiehlt es sich, das Format regelmäßig zu wechseln
 * Teammitglieder könnten emotional verletzt werden, deshalb ist sachliches Feedback von hoher Bedeutung
-* Frustration, falls vereinbarte Verbesserungsvorschläge nicht umgesetzt werden
+* Frustration der Beteiligten, falls vereinbarte Verbesserungsvorschläge nicht umgesetzt werden
 
 # Außerdem wissenswert
 
