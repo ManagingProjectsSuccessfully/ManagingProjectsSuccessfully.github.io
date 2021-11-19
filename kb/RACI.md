@@ -13,13 +13,13 @@ Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umf
 
 # Aufschlüsselung der Anfangsbuchstaben
 
-R – Responsible: Wer ist für die Durchführung der Aufgabe verantwortlich? Genannt wird üblicherweise eine Person, auch wenn diese weitere Personen zur Abarbeitung der Aufgabe hinzuziehen kann.
+**R** – Responsible: Wer ist für die Durchführung der Aufgabe verantwortlich? Genannt wird üblicherweise eine Person, auch wenn diese weitere Personen zur Abarbeitung der Aufgabe hinzuziehen kann.
 
-A – Accountable: Wer entscheidet, ob die Aufgabe korrekt durchgeführt wurde? Oft delegiert diese Person eine Aufgabe an die „responsible“ Person und prüft die Ergebnisse der Durchführung.
+**A** – Accountable: Wer entscheidet, ob die Aufgabe korrekt durchgeführt wurde? Oft delegiert diese Person eine Aufgabe an die „responsible“ Person und prüft die Ergebnisse der Durchführung.
 
-C – Consulted: Wer wird zur Durchführung der Aufgabe befragt? Hier handelt es sich oft um Fachexperten oder Dritte, die nicht direkt an der Durchführung beteiligt sind, die jedoch beratend zur Seite stehen.
+**C** – Consulted: Wer wird zur Durchführung der Aufgabe befragt? Hier handelt es sich oft um Fachexperten oder Dritte, die nicht direkt an der Durchführung beteiligt sind, die jedoch beratend zur Seite stehen.
 
-I – Informed: Wer wird über die Ergebnisse der Aufgabe informiert? Hier findet in der Regel keine zweiseitige Kommunikation statt, sondern es werden lediglich Informationen übertragen.
+**I** – Informed: Wer wird über die Ergebnisse der Aufgabe informiert? Hier findet in der Regel keine zweiseitige Kommunikation statt, sondern es werden lediglich Informationen übertragen.
 
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -53,7 +53,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 ![Beispielabbildung](RACI/Bild1.png)
 
-*lustiges Testbild*
+Egal wie groß das Unternehmen ist, Tätigkeitsbeschreibungen sollten eindeutig definiert sein, wobei man Zuständigkeiten und Verantwortlichkeiten darstellen sollte. Ob 10 Personen an einem Standort tätig sind oder hunderte Mitarbeiter weltweit vernetzt arbeiten, jeder muss seine Aufgabe genau verstehen. Dies bedeutet, dass bei der Aufgabenverteilung zwischen verschiedenen Punkten unterschieden werden mus
 
 # Vorteile von RACI
 
@@ -76,7 +76,7 @@ $~$
 
 |               |    Person 1   |    Person 2    |    Person 3    |
 | ------------- | ------------- | -------------- | -------------- |
-|    Task 1     |      R  |                        |  I |
+|    Task 1     |      R  |         -               |  I |
 |    Task 2     | C  |  R  |  A   |
 |    Task 3     |    I           |      A          |  C  |
 $~$
