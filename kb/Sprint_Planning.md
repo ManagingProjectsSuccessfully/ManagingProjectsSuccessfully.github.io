@@ -1,21 +1,28 @@
 ---
 title: Sprint_Planning
-tags: agil klassisch
+tags: agil
 author: faucahvd
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Sprint_Planning um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Sprint Planung (Von englischem Sprint Planing) ist einer von alle fünf "Events" des agilen Tools Scrum.
 
+```
+Fragen ??
+```
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Sprint Planung
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Spint-Planung ist das Sprint-Planungsmeeting. Es ist da, um zu definieren `was` zu machen ist und `wie` dies umgesetzt werden soll. Das Ziel von Sprint-Planungsmeeting ist von `Produk-Backlog`[^1] das `Sprin-Backlog`[^2] zu erstellen.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
+Sprint Planung ist ein "EVENT" in SCRUM.
+Die andere Events sind Spint, Daily Scrum, Sprint Review, Retrospektive. Events sind ein zentralles strukturelles [Element](link) von Scrum. Event nach Scrum haben eine ganz spezielle Charakteristika[^3]. Sie müssen regelmäßig stattfinden. Es sorgt für den interaktiven Charakter von Scrum sicherzustellen. Für jedes Event nach Scrum ist ein fester Zeitraum vorgegeben. Zum Beispiel Daily Scrum ist jeden Tag 15 min.
+
+
+
+```Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
@@ -34,7 +41,8 @@ Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß 
 Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
 die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
+```
 
 
 # Aspekt 1
