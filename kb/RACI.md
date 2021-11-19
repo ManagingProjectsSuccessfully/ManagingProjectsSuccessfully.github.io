@@ -68,7 +68,7 @@ Egal wie groß das Unternehmen ist, Tätigkeitsbeschreibungen sollten eindeutig 
 
 * Sie ist **einfach zu erstellen** in Excel oder PowerPoint.
   
-$~$
+
 ## So kann eine RACI-Matrix aussehen
 # 
 
@@ -79,7 +79,7 @@ $~$
 |    Task 1     |      R  |         -               |  I |
 |    Task 2     | C  |  R  |  A   |
 |    Task 3     |    I           |      A          |  C  |
-$~$
+
   
 Pro Aktivität sollte in der Regel nur **eine** Person *accountable* und *responsible* sein. Hingegen können **mehrere** Personen bei einer Aktivität *consulted* oder *informed* sein. Es kann auch vorkommen, dass eine Person für eine Aktivität **gleichzeitig** *accountable* und *responsible* ist. Wenn für eine Aktivität **keine** Person als *responsible* definiert ist, nennt man dies "Lack of responsibility". Wenn **mehr als eine Person**
 responsible ist, spricht man von "overlap in responsibility". 
