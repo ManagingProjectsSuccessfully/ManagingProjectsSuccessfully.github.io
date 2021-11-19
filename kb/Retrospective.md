@@ -44,10 +44,11 @@ Die regelmäßige Durchführung einer Retrospective bietet verschiedene Vorteile
 
 ## Nachteile
 
-Probleme die bei der Retrospective auftreten können, sind die Folgenden:
+Probleme die bei der Retrospective auftreten können, sind die Folgenden:[^1][^7]
 
-* Die Ständige Wiederholung des immer gleichen Vorgangs kann schnell langweilig werden. Um zu vermeiden, dass die Teammitglieder ihr Engagement verlieren, empfieht es sich das Format regelmäßig zu ändern[^1]
-* xx
+* Die Ständige Wiederholung des immer gleichen Vorgangs kann schnell langweilig werden. Um zu vermeiden, dass die Teammitglieder ihr Engagement verlieren, empfieht es sich das Format regelmäßig zu ändern
+* Teammitglieder könnten emotional verletzt werden, deshalb ist sachliches Feedback von hoher Bedeutung
+* Frustration, falls vereinbarte Verbesserungsvorschläge nicht umgesetzt werden
 
 # Außerdem wissenswert
 
@@ -72,3 +73,4 @@ Die Retrospective wird in verschieden Arten des agilen Projektmanagements einges
 [^4]: https://www.atlassian.com/de/team-playbook/plays/retrospective
 [^5]: https://overlapassociates.com/ideas/how-to-run-a-sails-and-anchors-retrospective-the-agile-way/
 [^6]: https://easyretro.io/templates/rose-bud-thorn/
+[^7]: https://agileworld.blogspot.com/2006/12/pros-and-cons-of-conducting.html
