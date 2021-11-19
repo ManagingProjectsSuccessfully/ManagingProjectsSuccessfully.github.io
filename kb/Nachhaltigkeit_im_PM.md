@@ -12,7 +12,7 @@ Unvorhergesehene berücksichtigt.[^2]
 
 
 
-Begriffsherleitung
+# Begriffsherleitung
 
 Der englische Ausdruck Sustainability kann aus dem Lateinischen von den Wörtern "sustineo" und "habilitas" abgeleitet werden, welche
 die Bedeutung "erhalten, bewahren" und "Geschicklichkeit, Fähigkeit" besitzen. Zusammengesetzt kann Sustainability als Fähigkeit verstanden
@@ -20,7 +20,7 @@ werden, etwas zu erhalten.[^3]
  
 
 
-Gründe für Nachhaltigkeit im Projektmanagement
+# Gründe für Nachhaltigkeit im Projektmanagement
 
 Vorteile
 
@@ -35,7 +35,7 @@ Nachteile
 - Komplexität des Projektes steigt[^4]
 
 
-Beispiele für Nachhaltigkeit im Projektmanagement anhand des Drei-Säulen-Modells
+# Beispiele für Nachhaltigkeit im Projektmanagement anhand des Drei-Säulen-Modells
 
 Nachhaltige Projekte sind zukunftsorientierte und langfristige Projekte. Dementsprechend leistet nachhaltiges Projektmanagement auf langer Sicht
 einen Beitrag zum Unternehmenserfolg und zum Erhalt einer zukunftsfähigen Wirtschaft und Umwelt.[^5]
@@ -69,7 +69,7 @@ Die soziale Dimension beschreibt den Umgang mit Stakeholdern und Beziehungen zu 
 ausschlaggebend für den Projekterfolg[^5]
 
 
-Lebenszyklus-Methode der Nachhaltigkeit
+# Lebenszyklus-Methode der Nachhaltigkeit
 
 Der Lebenszyklusansatz ist einzigartig und auch eine allgemein akzeptierte Methode, um eine nachhaltige Entwicklung im Projektmanagement zu erreichen. Die Lebenszyklus-Methode hat einen Ausgangspunkt, von dem aus sie ihre Tätigkeit beginnt und schliesslich auf einen anderen Punkt zugeht, der als Endpunkt bezeichnet werden kann. Hier wird eine gründliche Hintergrundanalyse des Projektlebenszyklus durchgeführt.[^6]
 
