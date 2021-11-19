@@ -2,7 +2,7 @@
 title: Spotify_Projectmanagement_Model
 tags: agil klassisch
 author: BelmontR
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Das Unternehmen Spotify setzte noch zu Beginn das [SCRUM](SCRUM.md) Projektmanagement um. Nachdem Spotify mit der Zeit größer wurde, passten nicht mehr alle Prinzipien und Regeln von [[SCRUM](SCRUM.md) zum Unternehmen und der Unternehmenskultur. Basierend auf [SCRUM](SCRUM.md) bzw. aus [SCRUM](SCRUM.md) heraus hat Spotify ein eigenes Projektmanagementmodell angefertigt[^1]. 
