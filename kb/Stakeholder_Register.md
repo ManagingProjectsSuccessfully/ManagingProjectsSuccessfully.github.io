@@ -8,7 +8,7 @@ anrechnung: k
 # Definition
 
 Das Stakeholder Register dient als Werkzeug für die Projektplanung.
-Dabei handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben. 
+Dabei handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben. [^0]
 
 Das Register wird früh im Planungsprozess von Projektmanagern angelegt und während der gesamten Lebensdauer des Projekts auf dem neuesten Stand gehalten.
 
@@ -83,7 +83,7 @@ Wie bereits erwähnt, sollte das Register schon am Anfang eines Projektes erstel
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
-
+[^0]: [What is a Stakeholder Register and how to create a Stakeholder Register?](https://www.remote.tools/remote-work/stakeholder-register#what-is-stakeholder-register)
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
