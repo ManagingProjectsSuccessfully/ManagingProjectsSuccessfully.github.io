@@ -24,8 +24,6 @@ Die gesamte Kostenplanung sollte sorgfältig auf Fehler überprüft werden. Leic
 
 # Quellen
 
-Test
-
 [^1]: Kayenta Glossar 
 
 
