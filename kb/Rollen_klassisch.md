@@ -7,7 +7,23 @@ anrechnung: k
 
 
 # Unterschiedliche Rollen im klassischen Projektmanagement
-Innerhalb eines Projektes gibt es im klassischen Projektmanagement verschiedene Rollen, die besetzt werden müssen. Dazu zählen: 
+
+## Was ist eine Rolle
+
+## Organisationseinheiten im Einzelprojektmanagement vs im Multiprojektmanagement
+
+|Einzelprojektmanagement|Multiprojektmanagement|
+|-----------------------|----------------------|
+|Projektauftraggeber    |Projektmanagement-Office(PMO)|
+|Projektlenkungsausschuss/Steering Committee|Multiprojektlenkungsausschuss|
+|Projektleiter          |                      |
+|Projektcontroller      |                      |
+|Projektteam            |                      |
+|Projektmanagement-Office(PMO)|                |
+
+ 
+
+Innerhalb eines Projektes gibt es im klassischen Projektmanagement verschiedene Rollen, die besetzt werden müssen. Dazu ist es zunächst wichtig eine Unterscheidung zwischen den Organisationseinheiten im Einzelprojektmanagement und den Organisationsheiten im Multiprojektmanagement zu unterscheiden: 
 
 *	Der Projektleiter
 *	Teilprojektleiter & Modulleiter
