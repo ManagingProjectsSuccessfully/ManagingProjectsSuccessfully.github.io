@@ -2,7 +2,7 @@
 title: Hackathon
 tags: agil klassisch
 author: eberto99
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Hackathon um ein erstes Verständnis dafür zu schaffen um was es hier geht.
