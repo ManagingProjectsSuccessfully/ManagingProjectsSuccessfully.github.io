@@ -39,4 +39,10 @@ Für die Projektmanager gibt es darüber hinaus die Möglichkeit unter dem Regis
 # Quellen
 
 [^1]: [Asana Projektmanagement Software](https://www.unternehmenswelt.de/asana-projektmanagement-software)
-
+[^2]: [Projektmanagement-Tools im Vergleich: factro gegen Asana](https://www.focus.de/digital/experten/software-projektmanagement-tools-im-vergleich-factro-gegen-asana_id_10485623.html)
+[^3]: [Über Asana- Was ist Asana](https://asana.com/de/company)
+[^4]: 
+[^5]:
+[^6]:
+[^7]:
+[^8]:
