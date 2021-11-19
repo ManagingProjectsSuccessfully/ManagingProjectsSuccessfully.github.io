@@ -62,7 +62,7 @@ PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit 
 
 # Expertise
 Experten raten bei großen Bauprojekten/Infrastrukturprojekten zu Klassischen Methoden, da agile Methoden aufgrund der mangelnden Flexibilität der Projekte an neue Rahmenbedinungen ungeeignet sind.
-Dennoch werden ergänzungen durch agile Hilfsmittel wie [Scrum] (https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban] (https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^3]
+Dennoch werden ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^3]
 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
