@@ -48,11 +48,14 @@ Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf gen
 
 Dies wird auch in der folgenden Abbildung leicht sichtbar:
 
-<img width="372" alt="Bildschirmfoto 2021-11-07 um 20 36 15" src="https://user-images.githubusercontent.com/92831472/140659311-7664a8b6-55b9-4e91-8289-e37ce96b5692.png">
+
 
 Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des Pareto Prinzips. Oftmals sind die letzten 20% des Ergebnisses, die die Erledigung der Aufgabe perfektionieren würden, nicht zwingend notwendig, sodass die Zeit, die dadurch gespart wird, wiederum für andere Bereiche genutzt werden kann.[^6]
 
 Bei der Anwendung des Pareto Prinzips trennt man sich somit bestenfalls gleichzeitig von seinem Perfektionismus, da dieser in den meisten Fällen nicht von Nöten ist. Auf diese Weise spart man sich nicht nur Nerven, sondern generiert gleichzeit auch mehr Zeit, um die Kernaufgaben besonders gut erledigen zu können. Insbesondere wenn man eine große Anzahl auf Aufgaben zu erledigen hat eignet sich das Pareto Prinzip, da man mithilfe dieses Prinzips alle Aufgaben bereits fast vollständig abarbeitet und nicht nur wenige Aufgaben "perfekt", also zu 100%, ausarbeitet.[^7]
+
+
+Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik hat man auch das Ziel in möglichst kurzer Zeit viel zu erreichen. Die Zeit, in der man arbeitet sowie die Zeit der Pausen, wird hier zwar lediglich eingeteilt, aber durch die Zeiteinteilung steigert sich auch hier die Produktivität. Man versucht sich nicht ablenken zu lassen und vermeidet Zeitfresser, um, wie beim Pareto- Prinzip, in kurzer Zeit möglichst vieles zu schaffen.[^8]
 
 
 # Quellen:
@@ -63,4 +66,5 @@ Bei der Anwendung des Pareto Prinzips trennt man sich somit bestenfalls gleichze
 [^5]: Stephan Rusch, Stressmanagement, Seite 118
 [^6]: https://www.gruenderlexikon.de/checkliste/fuehren/zeitmanagement/pareto-prinzip/
 [^7]: https://www.flowfinder.de/pareto-prinzip/
+[^8]: https://www.selbst-management.biz/pomodoro-technik/
 
