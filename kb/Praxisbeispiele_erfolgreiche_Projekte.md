@@ -32,12 +32,12 @@ Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressour
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* 
 * [Erfolgsmessung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md)
 
 # Weiterführende Literatur
-https://www.manager-magazin.de/harvard/management/das-geheimnis-erfolgreicher-projekte-a-00000000-0002-0001-0000-000159313152
-https://simpleflying.com/history-american-airlines/
+* [Manager-Magazin: Geheminis erfolgreicher Projekte](https://www.manager-magazin.de/harvard/management/das-geheimnis-erfolgreicher-projekte-a-00000000-0002-0001-0000-000159313152)
+* [Simple Flying: Making The World’s Largest Airline: The History Of American Airlines](https://simpleflying.com/history-american-airlines/)
 
 # Quellen
 [^1]: [Apple's Phone: From 1980s' Sketches to iPhone](https://mobile-review.com/articles/2010/iphone-history3-en.shtml)
