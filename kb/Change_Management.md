@@ -14,50 +14,58 @@ Der Begriff Change Management ist in Deutschland vorwiegend unter Veränderungs-
 Change Management meint "the process of  cintinually renewing an organization's direction, structure, and capablities to serve 
 the ever-changing needs of external and inernal customer" [^4].
 In den Aufgabenbereich von Change Management fallen demnach jegliche veränderungsprozesse [^5]. 
-Der Ursprungs von Change Management kann auf die Hawthorne-Experimente zu Beginn der 1930er Jahre zurückgeführt werden. 
+Der Ursprungs von Change Management kann auf die Hawthorne-Experimente zu Beginn der 1930er Jahre zurückgeführt werden [^3].
 Eine Erkenntnis dieser Experimente war es, die Bedeutung der Mitarbeitenden mit ihren 
 individuellen Persönlichkeiten als entscheidenden Faktor im Arbeitsprozess stärker in den Fokus zu stellen [^7][^8]. 
 Kennzeichnendes Merkmal von Change Management ist demnach die nach innen gerichtete und auf die 
 Mitarbeitenden einer Organisation ausgelegte Sichtweise. 
-Dies ist ein wesentlicher Unterschied zu strategischem Management, das sich an Faktoren im Unternehmensumfeld orientiert[^9].
+Dies ist ein wesentlicher Unterschied zu strategischem Management, das sich an Faktoren im Unternehmensumfeld orientiert[^2][^3].
 
 # Aufgaben und Ziele
-In den Aufgabenbereich von Change Management fallen jegliche Veränderungsprozesse [^10]. Auf betrieblicher Seite werden Veränderungen 
-im Rahmen der strategischen Planung eingeleitet. Change Management geht einen Schritt weiter. Ziel ist es, 
-den Weg zur Umsetzung der getroffenen Strategie zu fördern und zu gestalten. 
+Initiierung und Startpunkt von Veränderungen liegen im Rahmen der strategischen Planung. Change Management geht einen Schritt weiter. 
+Ziel ist es, den Weg zur Umsetzung der getroffenen Strategie zu fördern und zu gestalten [^2].  
 Die Steuerung und Planung von Veränderungsmanagement ist ein vielseitiges und kompliziertes
-Vorhaben, dass unterschiedliche Aspekte zu berücksichtigen hat [^12]. 
-Ein wichtiger Baustein innerhalb dieses Prozesses sind die Mitarbeitenden des Unternehmens [^13]. 
+Vorhaben, dass unterschiedliche Aspekte zu berücksichtigen hat [^2]. 
+Ein wichtiger Baustein innerhalb dieses Prozesses sind die Mitarbeitenden des Unternehmens [^4]. 
 Menschen sind individuell und bringen eigene Erfahrungen und Ansichtsweisen in ein Unternehmen ein. Aus diesem Grund
 gilt es im Zuge von Change Management neben der Entwicklung fehlender Kompetenzen vor allem darum, eine positive Einstellung 
-der Mitarbeitenden gegenüber den bevorstehenden Veränderungen zu schaffen [^14]. Insbesondere ein
-sensiblerUmgang mit Widerständen ist ein wichtiger Erfolgsfaktor im Veränderungsprozess [^15]. 
-Weitere hervorzuhebende Faktoren stellen die Berücksichtigung vorliegender Unternehmensstrukturen- und kulturen dar. 
+der Mitarbeitenden gegenüber den bevorstehenden Veränderungen zu schaffen [^2]. Insbesondere ein
+sensiblerUmgang mit Widerständen ist ein wichtiger Erfolgsfaktor im Veränderungsprozess [^7]. 
+Weitere hervorzuhebende Faktoren stellen die Berücksichtigung vorliegender Unternehmensstrukturen- und kulturen dar[^2]. 
 
 # Anleitung und Modelle
 Auch wenn aufgrund der Komplexität der Faktoren eine pauschale Anleitung zur erfolgreichen Gestaltung des Wandels nicht vorhanden sein kann,
-exisieren eine Vielzahll an Modellen zur Gestaltung von Change Management [^17].
-Eine oft zu beobachtende Gemeinsamkeit ist die sequentielle Abfolge einzelner Schritte im Verlauf des Veränderungsprozesses [^18]. 
-Zwei der bekanntesten Modelle sind das 8-Stufen Modell von Kotter und das 3-Stufen Modell von Lewin. 
+existieren eine Vielzahl an Modellen zur Gestaltung von Change Management [^3].
+Eine oft zu beobachtende Gemeinsamkeit ist die sequentielle Abfolge einzelner Schritte im Verlauf des Veränderungsprozesses [^8]. 
+Zwei der bekanntesten Modelle sind das 8-Stufen Modell von Kotter und das 3-Stufen Modell von Lewin [^9][^10].
 
 Lewin unterteilt den Veränderungsprozess in 3 Stufen ein:
 1. unfreezing
 2. moving
 3. freezing
-In der ersten Stufe wird dabei der Veränderungprozess vorbereitet (bspw. durch Diskussionen und Begründungen) [^19].
-Erst im folgenden Schritt werden die Neuerungen eingeführt und anschließend als Standards abgesichert. 
+In der ersten Stufe wird dabei der Veränderungprozess vorbereitet (bspw. durch Diskussionen und Begründungen) [^11].
+Erst im folgenden Schritt werden die Neuerungen eingeführt und anschließend als Standards abgesichert[^12]. 
 
 ![Beispielabbildung](Change_Management/Lewin_Bild.jpeg)
-3-Stufen Modell nach Lewin [^22]. 
+3-Stufen Modell nach Lewin [^13]. 
 
 Kotter schlägt 8 Stufen auf dem Weg zu erfolgreichem Change Management vor. 
-Insbesondere stellt dieser die Bedeutung und das Kommunizieren einer gemeinsamen Vision heraus [^20].
+Insbesondere stellt dieser die Bedeutung und das Kommunizieren einer gemeinsamen Vision heraus [^10].
 
 ![Beispielabbildung](Change_Management/Kotter_Bild.png)
-8-Stufen Modell nach Kotter[^23]. 
+8-Stufen Modell nach Kotter[^14]. 
 
 
-In der Praxis werden verschiedene Ansätze angewendet [^21]. 
+Trotz der Vielzahl der Modelle und Vorschläge zur Gestaltungsmöglichkeit scheitern in der Praxis weiterhin viele Change-Management-Projekte in der Praxis[^12]. 
+
+
+
+
+
+
+
+
+
 
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
@@ -151,8 +159,17 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: Das Sprichwort wird dem Philosophen Heraklit zugeordnet. Siehe auch: https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/ppp_lehrstuehle/psychologie_4/dokumente/WS1718/Download_Newsletter_2019-01.pdf
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-[^5]:
-[^6]:
+[^2]: Lauer, T. (2019). Change Management: Grundlagen und Erfolgsfaktoren (3., vollst. überarb. u. erw. Aufl. 2019 Aufl.). Berlin: Springer Gabler. https://doi.org/10.1007/978-3-662-59102-4
+[^3]: Schridde, H. (2019). Change Management. In S. Veit, C. Reichard & G. Wewer (Hrsg.), Handbuch zur Verwaltungsreform (5., vollständig überarbeitete Aufl. 2019 Aufl.) (S. 691 - 704). Wiesbaden: Springer VS. https://doi.org/10.1007/978-3-658-21563-7
+[^4]: Moran, J. W., & Brightman, B. K. (2000). Leading organizational change. Journal of workplace learning, 12(2), 66-74.
+[^5]: https://wirtschaftslexikon.gabler.de/definition/change-management-28354
+[^6]: http://www.wirtschaftslexikon24.com/d/hawthorne-experimente/hawthorne-experimente.htm
+[^7]: Doppler, K. & Lauterburg, C. (2014). Change Management. Frankfurt, New York: Campus Verlag.
+[^8]: Stouten, J., Rousseau, D. M. & de Cremer, D. (2018). Successful Organizational Change: Integrating the Management Practice and Scholarly Literatures. Academy of Management Annals, 12(2), 752–788. https://doi.org/10.5465/annals.2016.0095
+[^9]: Lewin, K. (1947). Frontiers in Group Dynamics. Human Relations, 1(1), 5–41. https://doi.org/10.1177/001872674700100103
+[^10]: Kotter, J. P. (1995). Why transformation efforts fail. Harvard Business Review.
+[^11]: https://de.wikipedia.org/wiki/3-Phasen-Modell_von_Lewin
+[^12]: https://de.wikipedia.org/wiki/Veränderungsmanagement
+[^13]: https://www.researchgate.net/figure/Lewins-3-stage-model-Unfreeze-This-stage-prepares-individuals-for-the-change-In_fig3_334736458
+[^14]: https://www.yunava.com/effektives-change-management-bei-der-digitalisierung-interner-prozesse/ 
+[^15]: 
