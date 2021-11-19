@@ -46,9 +46,11 @@ Lewin unterteilt den Veränderungsprozess in 3 Stufen ein:
 3. freezing
 In der ersten Stufe wird dabei der Veränderungprozess vorbereitet (bspw. durch Diskussionen und Begründungen) [^19].
 Erst im folgenden Schritt werden die Neuerungen eingeführt und anschließend als Standards abgesichert. 
+![Beispielabbildung](Change_Management/Lewin_Bild.jpg)
 
 Kotter schlägt 8 Stufen auf dem Weg zu erfolgreichem Change Management vor. 
 Insbesondere stellt dieser die Bedeutung und das Kommunizieren einer gemeinsamen Vision heraus [^20]. 
+![Beispielabbildung](Change_Management/Kotter_Bild.jpg)
 
 In der Praxis werden verschiedene Ansätze angewendet [^21]. 
 
