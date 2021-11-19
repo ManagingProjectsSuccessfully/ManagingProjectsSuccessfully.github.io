@@ -18,7 +18,7 @@ Sinnvoll ist ein solches M&A-Projekt erst dann, wenn es interessante Überschnei
 
 ## Ziele eines M&A-Projektes
 
-![M&A Wortwolke](mergers-and-acquisitions.jpg)
+![M&A Wortwolke](Interne_Synergieeffekte/mergers-and-acquisitions.jpg)
 
 Das Ziel eines M&A-Projektes ist es in einem reifen Markt weiterhin wachsen zu können. Dadurch kann in weitere Regionen expandiert werden oder neue Produkte können besser vermarktet werden. Blockiert wird dies vor der Akquisition durch fehlende Vertriebsstrukturen oder das nötige Know-How, um Innovationen wie die anderen Unternehmen voranzutreiben, fehlen bislang. Es kristallisieren sich folgende Hauptgründe für eine Akquisition heraus:[^3] 
 * Stärkung und Ausweitung des bestehenden Kerngeschäftes
@@ -46,96 +46,17 @@ Eine der größten Fusionen war die von Google und Android im Jahr 2005. Google 
 Ein weiterer Teilaspekt der internen Synergieeffekte ist es die einzelnen Bereiche eines Unternehmens für ein Projekt mit sinnvollem Schnittstellenmanagement zu koordinieren. Dies ist im speziellen auch bei M&A-Projekten notwendig, um überhaupt einen Mehrwert zu erzielen. Wichtige Informationen durch die gezielte Kommunikation in alle Teilprojekte weiterzugeben kann zu einem Wertzuwachs führen, indem die Wiederverwendbarkeit eines Lösungsansatzes genutzt wird. Das Wissen eines Fachbereiches wird somit Abteilungsübergreifend verwendet und kann auch zu einer neuen Betrachtungsweise führen. [^5]
 Für Schnittstellenmanagement werden sogenannte Project Management Offices aufgestellt, oder auch kurz PMO. Sie sind für die zentrale Steuerung von Projekten verantwortlich. Dadurch gestaltet sich die Kommunikation zwischen den Stakeholdern effizienter. Die Mitarbeiter unterstützen strategisch sowie operativ, um der Qualitätssicherung und effizienteres Arbeiten durch Wissens- und Ressourcenmanagement auszuhelfen. [^5]
 
-
-Kurzbeschreibung zu Interne_Synergieeffekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Interne_Synergieeffekte/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-Zentrales Projektmanagement - Alles an einem Ort
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Interne_Synergieeffekte.md)
+* [Externe Synegieeffekte](Externe_Synergieeffekte.md)
+* [Projektkommunikation](Projektkommunikation.md)
+* [Projektsteuerung](Projektsteuerung.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Teamsynergie aufbauen](https://asana.com/de/resources/what-is-synergy)
+* [Video zu Synergieeffekten](https://studyflix.de/wirtschaft/synergieeffekte-1899)
+* [Synergieeffekte nutzen: Wie Sie Teamwork in allen Unternehmensbereichen stärken](https://www.wlw.de/de/inside-business/aktuelles/synergieeffekte-team)
 
 # Quellen
 
