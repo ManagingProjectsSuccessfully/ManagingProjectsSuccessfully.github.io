@@ -7,7 +7,7 @@ Anrechnung: a
 
 Als Jour Fixe [ˈʒuːɐ̯ ˈfiks] wird ein kurzes regelmäßig wiederkehrendes Meeting bezeichnet. Dieser Termin soll eine kleine Gruppe von Menschen betreffen und soll stets zur selben Uhrzeit und am selben Tag stattfinden – Dies wird auch durch die französische Namensherkunft beschrieben: frz. Jour Fixe = dt. Fester Tag [^1].
 
-![Jour_Fixe](Jour_Fixe.jpg)
+![Jour_Fixe](Jour_Fixe/Jour_Fixe.jpg)
 
 [^2]
 
