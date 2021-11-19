@@ -10,8 +10,6 @@ Erhaltung der natürlichen Regenerationsfähigkeit der beteiligten Systeme (insb
 werden soll [^1]. Im Kontext von Projekten bedeutet dies, dass man die Interessen von Fach- und Stakeholdern kombiniert und die Zukunft und das 
 Unvorhergesehene berücksichtigt.[^2]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 Inhaltsverzeichnis
 
@@ -24,7 +22,7 @@ Inhaltsverzeichnis
     - 3.2 Ökonomische Dimension
     - 3.3 Soziale Dimension
 4. Lebenszyklus-Methode der Nachhaltigkeit
-5. Fazit
+5. Quellen
 
 
 Begriffsherleitung
@@ -84,27 +82,20 @@ ausschlaggebend für den Projekterfolg[^5]
 
 Lebenszyklus-Methode der Nachhaltigkeit
 
-Der Lebenszyklusansatz ist einzigartig und auch eine allgemein akzeptierte Methode, um eine nachhaltige Entwicklung im Projektmanagement zu erreichen. Die Lebenszyklus-Methode hat einen Ausgangspunkt, von dem aus sie ihre Tätigkeit beginnt und schliesslich auf einen anderen Punkt zugeht, der als Endpunkt bezeichnet werden kann. Hier wird eine gründliche Hintergrundanalyse des Projektlebenszyklus durchgeführt.
+Der Lebenszyklusansatz ist einzigartig und auch eine allgemein akzeptierte Methode, um eine nachhaltige Entwicklung im Projektmanagement zu erreichen. Die Lebenszyklus-Methode hat einen Ausgangspunkt, von dem aus sie ihre Tätigkeit beginnt und schliesslich auf einen anderen Punkt zugeht, der als Endpunkt bezeichnet werden kann. Hier wird eine gründliche Hintergrundanalyse des Projektlebenszyklus durchgeführt.[^6]
 
 
-Diese Methode der Nachhaltigkeit reduziert die Menge an Energie und Ressourcen, die vor der Gewinnung der Rohstoffe eingesetzt wurden. Die Gewinnung der Rohstoffe ist der Ausgangspunkt, d. h. der Beginn des zu analysierenden Projektlebenszyklus. Sie würde auch die derzeitige Situation der Regeneration berücksichtigen. Mit anderen Worten, die Frage, wie die gewonnenen Rohstoffe ersetzt oder reproduziert werden können, muss beantwortet werden. Danach geht sie in eine andere Phase über, nämlich die Produktionsphase, auf der auch alle Tätigkeiten erfasst werden, die in dieser Phase durchgeführt werden. Es prüft die Energiemenge und die Qualität, um die es hier geht. Dann ist der nächste Schritt, der analysiert werden muss, die Nutzungsphase. Es wird geprüft, wer das Produkt verwenden wird, das aus der Produktionsphase hervorgegangen ist. Sie berücksichtigt auch die Sicherheit und das Wohlbefinden der Menschen oder Einzelpersonen, die das Produkt verwenden. Es werden so viele Annahmen darüber gemacht, wie bequem das Produkt in dieser Phase seinen Dienst leisten wird. Schliesslich wird die Frage, wie Abfälle um jeden Preis minimiert werden können, im Rahmen der derzeit durchgeführten Analyse beantwortet.
-
-
-
+Diese Methode der Nachhaltigkeit reduziert die Menge an Energie und Ressourcen, die vor der Gewinnung der Rohstoffe eingesetzt wurden. Die Gewinnung der Rohstoffe ist der Ausgangspunkt, d. h. der Beginn des zu analysierenden Projektlebenszyklus. Sie würde auch die derzeitige Situation der Regeneration berücksichtigen. Mit anderen Worten, die Frage, wie die gewonnenen Rohstoffe ersetzt oder reproduziert werden können, muss beantwortet werden. Danach geht sie in eine andere Phase über, nämlich die Produktionsphase, auf der auch alle Tätigkeiten erfasst werden, die in dieser Phase durchgeführt werden. Es prüft die Energiemenge und die Qualität, um die es hier geht. Dann ist der nächste Schritt, der analysiert werden muss, die Nutzungsphase. Es wird geprüft, wer das Produkt verwenden wird, das aus der Produktionsphase hervorgegangen ist. Sie berücksichtigt auch die Sicherheit und das Wohlbefinden der Menschen oder Einzelpersonen, die das Produkt verwenden. Es werden so viele Annahmen darüber gemacht, wie bequem das Produkt in dieser Phase seinen Dienst leisten wird. Schliesslich wird die Frage, wie Abfälle um jeden Preis minimiert werden können, im Rahmen der derzeit durchgeführten Analyse beantwortet.[^6]
 
 
 
 
 
 
-# Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Nachhaltigkeit_im_PM.md)
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
 
 # Quellen
 
@@ -113,4 +104,4 @@ Diese Methode der Nachhaltigkeit reduziert die Menge an Energie und Ressourcen, 
 [^3]: https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf
 [^4]: https://link.springer.com/content/pdf/10.1007%2F978-3-658-20500-3.pdf
 [^5]: https://www.inloox.de/unternehmen/blog/artikel/nachhaltiges-projektmanagement/
-
+[^6]: https://www.researchgate.net/publication/317233730_Sustainable_Development_An_Overview
