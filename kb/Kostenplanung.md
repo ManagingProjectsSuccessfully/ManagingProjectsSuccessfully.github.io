@@ -22,6 +22,6 @@ Im Anschluss steht die Gesamtkostenplanung. Hierbei werden die ermittelten Einze
 Auch für schwierig zu schätzende Projektbestandteile sollte unbedingt eine Kostenplanung erstellt werden. Hierbei kann eine klare Kommunikation mit erfahrenen Fachexperten oft ein genaueres Bild über zu erwartende Aufwendungen geben. [3] Außerdem sollte bei der Planung stets etwas Spielraum für Unvorhergesehene Kosten einberechnet werden. [4]
 Die gesamte Kostenplanung sollte sorgfältig auf Fehler überprüft werden. Leicht können kleine Ungenauigkeiten in Formeln, Umrechnungskosten oder Stundensätzen die Planung verfälschen. Darüber hinaus sollten getroffene Annahmen, auf denen die Planung basiert eindeutig benannt werden. [3]
 
-Quellen
+# Quellen
 
-[^1): Test
+[^1]: Kayenta Glossar, Abrufdatum 19.11.2021, https://www.kayenta.de/projektmanagement-glossar-lexikon/begriffserklaerung/kostenplanung.html
