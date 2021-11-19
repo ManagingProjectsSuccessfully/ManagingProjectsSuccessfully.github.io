@@ -34,6 +34,7 @@ Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovo
 Neben Netzbetreibern auch Landes- und Bundesbehörden, Baufirmen, Anwohner- und Interessenverbände sowie Ingenieur- und Planungsbüros.
 
 # Risiken 
+Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) befassen sich Projektleiter mit folgenden Problemen:
 * Hohe Kosten – Aufbau von Anlagen, Netzen und Infrastruktur notwendig
 * Große Stromtrassen oft nicht erwünscht von Anwohnern. Möglichkeit von Demonstrationen und ähnlichem
 * Verfügbarkeit bestimmter Energieträger abhängig von Tages-/Jahreszeit
