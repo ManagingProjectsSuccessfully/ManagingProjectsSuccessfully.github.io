@@ -32,7 +32,7 @@ Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressour
 
 # Siehe auch
 
-* 
+* [Praxisbeispiele gescheiterter Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Praxisbeispiele_gescheiterte_Projetke.md)
 * [Erfolgsmessung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md)
 
 # Weiterführende Literatur
