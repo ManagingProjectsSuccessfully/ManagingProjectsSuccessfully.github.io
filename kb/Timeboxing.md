@@ -7,7 +7,7 @@ anrechnung: k
 
 Das Timeboxing ist eine Methode im agilen Projektmanagement. Hierbei werden für die zu erledigenden Aufgaben bestimme Zeitslots, die sogenannten Timeboxes, reserviert. Es wird vorher genau festgelegt was in einer Timebox zu erledigen ist und was das Ziel der jeweiligen Timebox ist. Dadurch sind eine klare Planung und Struktur der Aufgaben und damit des Projekts garantiert[^1].
 
-# Wann sollte man Timeboxing anwenden?
+# Wie genau funktioniert Timeboxing?
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
