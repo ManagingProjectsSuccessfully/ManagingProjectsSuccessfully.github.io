@@ -2,103 +2,44 @@
 title: Ausgangsanalyse
 tags: agil klassisch
 author: ksushaW
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Ausgangsanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Ausgangsanalyse stellt den ersten Schritt dar, um ein geplantes Projekt zu definieren. Hierbei soll im Folgenden diese Thematik genauer erläutert werden.
 
 
-# Aspekt 1
+# Die Ausgangsanalyse
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die Ausgangsanalyse – auch Umfeldanalyse genannt - ist ein Teil der Projektdefinition, welchen den Startpunkt dieser bildet. Dabei werden der Projektgegenstand sowie das Projektumfeld genauer untersucht, um später darauf basierend mit der Zieldefinition und den nächsten darauffolgenden Schritten der Projektdefinition fortschreiten zu können.[^1] Bei der Ausgangsanalyse geht es insbesondere darum, den momentanen Ist-Zustand präzise zu erfassen.[^2]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Anhand der Umfeldanalyse werden sowohl externe als auch interne Faktoren ermittelt, die Einfluss auf das Projekt haben können. Diese können außerdem noch in sachliche und soziale Faktoren unterschieden werden. Ziel in diesem Schritt ist es alle wichtigen Punkte hinsichtlich ihres Einflusses auf das Projekts zu kennen, um diese später im weiteren Verlauf zu berücksichtigen.[^5] 
+## Soziale  und sachliche Faktoren
+Zu den sozialen Umfeldfaktoren gehören Personen und Personengruppen. Diese Ermittlung dient vor allem dazu, um diese bestimmten Personen durch die Stakeholder-Analyse in den nächsten Schritten genauer zu analysieren.
+Harte Fakten oder Themen bilden die sog. Sachlichen Umfeldfaktoren. Das können unternehmerische Richtlinien sein wie bspw. Datenschutzrichtlinien oder Trends wie etwa Nachhaltigkeit.[^5]
+## Interne und externe Faktoren
+Darüber hinaus liegen neben sozialen und sachlichen Aspekten auch interne sowie externe Faktoren vor.
+Interne Faktoren sind innerhalb eines Unternehmens bestehend, wohingegen externe Faktoren außerhalb des Unternehmensumfelds vorliegen. Dies können bspw. gesetzliche, geografische und klimatische Aspekte sein, welche in den meisten Fällen nicht direkt beeinflussbar sind.[^5]
+#
+Zur genauen Erfassung des Unternehmensumfelds werden die vier Umfeldfaktoren zusammengefasst und anschließend durch eine Matrix-Kombination zur besseren Übersicht dargestellt. Somit hat man diese folgenden Faktor-Kombinationen vorliegen: sachlich interne, sachlich externe, sozial interne und sozial externe Faktoren. Insbesondere durch die sachlich externen Einflüsse kann man Risiken, sowie durch die sozialen externen Einflüsse bestimmte Stakeholder ableiten.[^5]
+### Faktorkombinationen
+* sachlich intern
+* sachlich extern
+* sozial intern
+* sozial extern
 
-![Beispielabbildung](Ausgangsanalyse/test-file.jpg)
+## Ausgangsanalyse als Basis für Stakeholder- und Risikoanalyse
+Nachdem all diese Aspekte grob identifiziert worden sind, kann im weiteren Verlauf im Rahmen der Projektplanung mit der Stakeholder-Analyse und Risikoanalyse begonnen werden. Bei der Analyse der Stakeholder werden wie zuvor angesprochen die sozialen externen Faktoren präziser betrachtet. Hierbei geht es vor allem darum, wichtige Akteure für das Projekt zu identifizieren und Personen bzw. Personengruppen zu ermitteln, welche ggf. eine Barriere für die Unternehmung darstellen könnten. Darauf basierend werden Maßnahmen gestaltet, um wichtige Interessengruppen entsprechend über das Projekt zu informieren und um behindernden Personengruppen entgegenzuwirken.[^3] 
+Durch die Ausgangsanalyse kann außerdem die Risikoanalyse angesetzt werden. Ausgehend von den sachlich externen Faktoren, kann man Aspekte bzw. Unsicherheiten ermitteln, welche potenzielle negative Auswirkungen auf das zu planende Projekt haben. Hierbei werden Einflüsse hinsichtlich der Dimensionen Qualität, Zeit und Kosten berücksichtigt.[^4] 
 
-*lustiges Testbild*
+Zusammenfassend lässt sich sagen, dass durch die Ausgangsanalyse viele weitere Schritte im Rahmen der Projektdefinition einfacher umgesetzt werden können. Es hilft den Beteiligten des Projekts äußere Einflüsse einfacher zu erkennen, um im Zuge dessen mögliche Probleme zu identifizieren und anschließend entsprechende Anforderungen an das Vorhaben zu stellen. Des Weiteren eignet sich die Analyse der Ausgangssituation ideal zur Erkennung von Schnittstellen nach außen. Wie bereits im Vorherigen erläutert, kann durch eine erfolgreiche Ausgangsanalyse eine optimale Stakeholder-Analyse sowie Risikoanalyse umgesetzt werden. Insgesamt verschafft die Umfeldanalyse eine übersichtliche Darstellung des momentanen Ist-Zustands, welchen man zu Beginn der Projektdefinition vorliegen hat, und leistet sowohl mehr Unterstützung als auch Transparenz für das Treffen von Entscheidungen zur konkreteren Gestaltung des Projekts.
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Ausgangsanalyse.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://wirtschaftslexikon.gabler.de/definition/projektmanagement-pm-46130#head5
+[^2]: https://projektmanagement-manufaktur.de/projektmanagement-faq/was-ist-projektmanagement-250
+[^3]: https://projektmanagement-manufaktur.de/stakeholderanalyse
+[^4]: https://projektmanagement-manufaktur.de/risikoanalyse-projektmanagement
+[^5]: https://projekte-leicht-gemacht.de/blog/methoden/projektstart/die-umfeldanalyse-einfach-erklaert/
+
 
