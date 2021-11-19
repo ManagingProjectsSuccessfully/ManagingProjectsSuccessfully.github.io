@@ -34,7 +34,7 @@ Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht einzel
 |Das zu erreichende priorisierte Ziel  |Damit verbunden Leistungen  |
 | -------------                         |               ------------- |
 |Leistungsumfang/ziel erhöhen          |Kosten und Projektdauer steigen |
-|Kostenziel hat Priorität (Kosten sinken) |Leistungs-&Zeitziel steigt 
+|Kostenziel hat Priorität (Kosten sinken) |Leistungs-& Zeitziel steigt 
 |Terminziel hat Priorität               |Kosten steigen & Leistungen einsparen
 
 Der Projektmanager muss sich also hier im Klaren werden, was er wie und unter welche Priorität erreichen will. Hier gilt immer zu beachten, dass die Anforderungen des Kundens an erster Stelle stehen. [^5].
