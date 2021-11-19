@@ -1,8 +1,8 @@
 ---
 title: Projekt
-tags: agil klassisch
+tags: klassisch
 author: jonaskarg187
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Projekt um ein erstes Verständnis dafür zu schaffen um was es hier geht.
