@@ -46,8 +46,9 @@ So kann man eine Tabelle erstellen:
 Eng damit verknüpft ist die Rückmeldung an den Kunden. Im Gegensatz zu agilen Projekten können dem Kunden keine Zwischenprodukte oder –ergebnisse präsentiert werden. Dadurch geht entscheidendes Feedback im Projektverlauf verloren, welches für die weiteren Prozessschritte hätte berücksichtigt werden können. Stattdessen werden die Projektergebnisse 
 am Ende einer Projektphase oder sogar erst am Ende des Projekts bereitgestellt. Somit haben die Anspruchsgruppen so gut wie keinerlei Einfluss während des Projektes, wodurch wiederum neue Missverständnisse entstehen. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben wodurch umfangreiche nachträgliche Anpassungen notwendig werden.
 
-# Aspekt n
+# Unverhältnismäßige Rahmenbedingungen
 
+Ein weiterer Aspekt welcher zu klassischen Missverständnissen führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, die unterschätze Komplexität des Projektes oder mangelnde Abstimmung und fehlerhafte Kommunikation bestärken die bereits genannten Missverständnisse stark. 
 1. das
 2. hier 
 4. ist 
