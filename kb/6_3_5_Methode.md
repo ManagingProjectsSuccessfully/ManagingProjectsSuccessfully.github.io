@@ -33,7 +33,7 @@ Die 3_6_5_Methode läuft wie folgt ab:
 ## Bewertung und Verarbeitung
 
 Im Anschluss werden die Ergebnisse analysiert. Es können Ideen kombiniert oder erweitert werden. Offene Fragen können geklärt werden. 
-Alternativ kann der Initiator des Termins die Ergebnisse auch allein auswerten und in einem Folgetermin präsentieren und diskutieren. [^6]
+Alternativ kann der Initiator des Termins die Ergebnisse auch allein auswerten und in einem Folgetermin präsentieren und diskutieren.[^6]
 
 Bei einer gemeinsamen Analyse im Team gibt es die Möglichkeit die Vordrucke noch einmal im Uhrzeigersinn durchzureichen. Jede Person setzt je Zettel ein Kreuz bei der persönlich als am besten bewerteten Idee. Der Initiator kann so die Priorisierung feststellen und diese vorstellen.[^7]
 
@@ -41,7 +41,7 @@ Bei einer gemeinsamen Analyse im Team gibt es die Möglichkeit die Vordrucke noc
 
 ## Vorteile
 
-Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
+Die Verwendung der Methode bietet verschiedene Vorteile, darunter:[^2][^4]
 
 * Vermeidung von Spannungen im Team während der Ideenfindung
 * Alle Teilnehmer*innen werden gleichermaßen aktiv, somit bringt sich jeder ein und die Lösungsvorschläge können sehr vielfältig sein
@@ -52,7 +52,7 @@ Die Verwendung der Methode bietet verschiedene Vorteile, darunter[^2][^4]:
 
 ## Nachteile
 
-Schwächen der 6_3_5_Methode sind die Folgenden[^6]:
+Schwächen der 6_3_5_Methode sind die Folgenden:[^6]
 
 * Doppelungen sind nicht ausgeschlossen (Können jedoch gegebenenfalls für die Gewichtung der Ideen herangezogen werden)
 * Rücksprache bei Verständnisproblemen bezüglich der Ideen während des Ablaufs der Methode nicht vorgesehen
