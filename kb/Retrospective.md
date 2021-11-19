@@ -78,4 +78,3 @@ Sie findet innerhalb eines Teams nach jeder Iteration statt, das heißt alle 2-4
 [^7]: https://agileworld.blogspot.com/2006/12/pros-and-cons-of-conducting.html
 [^8]: https://greengarageblog.org/7-pros-and-cons-of-agile-methodology
 [^9]: https://www.it-agile.de/agiles-wissen/agile-teams/was-sind-retrospektiven/
-
