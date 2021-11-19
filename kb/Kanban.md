@@ -2,7 +2,7 @@
 title: Kanban
 tags: agil klassisch
 author: HAhmedFAU
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Kanban um ein erstes Verständnis dafür zu schaffen um was es hier geht.
