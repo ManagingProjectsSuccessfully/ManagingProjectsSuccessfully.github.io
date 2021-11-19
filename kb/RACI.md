@@ -11,10 +11,16 @@ Aus dieser Matrix geht hervor, welche Team-Mitglieder, wofür im Projekt verantw
 Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umfangreicher das Projekt oder die Entwicklung ist, desto schwieriger ist es, Verantwortlichkeiten zu definieren und den Überblick über Verantwortlichkeiten zu behalten. Die RACI-Matrix ist somit ein Hilfsmittel zur Analyse und Darstellung von Verantwortlichkeiten.
 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Aufschlüsselung der Anfangsbuchstaben
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+R – Responsible: Wer ist für die Durchführung der Aufgabe verantwortlich? Genannt wird üblicherweise eine Person, auch wenn diese weitere Personen zur Abarbeitung der Aufgabe hinzuziehen kann.
+
+A – Accountable: Wer entscheidet, ob die Aufgabe korrekt durchgeführt wurde? Oft delegiert diese Person eine Aufgabe an die „responsible“ Person und prüft die Ergebnisse der Durchführung.
+
+C – Consulted: Wer wird zur Durchführung der Aufgabe befragt? Hier handelt es sich oft um Fachexperten oder Dritte, die nicht direkt an der Durchführung beteiligt sind, die jedoch beratend zur Seite stehen.
+
+I – Informed: Wer wird über die Ergebnisse der Aufgabe informiert? Hier findet in der Regel keine zweiseitige Kommunikation statt, sondern es werden lediglich Informationen übertragen.
+
 
  # ÜBERSCHRIFT
 
