@@ -105,6 +105,7 @@ Die Ishaka Methode ist auch bekannt als:
 
 * [Unterstützende Tools, Ishikawa-Diagramm und statistische Methoden](https://link.springer.com/chapter/10.1007/978-3-658-35208-0_3)
 * [Produktionsmanagement](https://link.springer.com/book/10.1007%2F978-3-8349-9091-4)
+* [Statistische Qualitätskontrolle (W. Uhlmann)](https://books.google.de/books?hl=de&lr=&id=5tucBgAAQBAJ&oi=fnd&pg=PA7&dq=7+methoden+Qualit%C3%A4tskontrollen&ots=_AYFApt5UB&sig=5sTP6ovceio-2TCeXGzbj_wkCk4#v=onepage&q=7%20methoden%20Qualit%C3%A4tskontrollen&f=false)
 # Quellen
 
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
