@@ -7,16 +7,18 @@ anrechnung: k
 
 Das Timeboxing ist eine Methode des Zeitmanagements im agilen Projektmanagement. Hierbei werden für die zu erledigenden Aufgaben bestimme Zeitslots, die sogenannten Timeboxes, reserviert. Es wird vorher genau festgelegt was in einer Timebox zu erledigen ist und was das Ziel der jeweiligen Timebox ist. Dadurch sind eine klare Planung sowie Struktur der Aufgaben und damit des Projekts garantiert[^1].
 
+
 # Wie genau funktioniert Timeboxing?
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Die einfachste Grundregel des Timeboxing ist die Einteilung der To dos in Zeitfenster. Das Zeitfenster kann dabei Minuten, Stunden, Tage oder sogar Wochen umfassen, je nach Aufgabe. Hierbei ist es allerdings wichtig realistische Zeitslots zu wählen. Die zu erledigenden Aufgaben müssen auch wirklich in der gesetzten Timebox zu bewältigen sein. Durch das Timeboxing soll also vermieden werden, dass man sich mit unwichtigen Details aufhält oder gar stagniert. Dementsprechend soll erreicht werden, dass man sich auf das Wesentliche konzentriert.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Vor jeder Timebox muss entschieden werden ob die jeweilige Timebox hart oder weich ist. Eine harte Timebox endet, wenn die vorgegebene Zeit abgelaufen ist, unabhängig davon, ob die Aufgabe erledigt werden konnte. Somit stellen harte Timeboxen die Erledigung sämtlicher anstehender Aufgaben sicher, erzeugen aber auch mehr Druck. Sie sind insbesondere dann sinnvoll, wenn bestimmte Aufgaben wiederholt überarbeitet werden müssen. In einem Meeting kann eine Timebox dazu beitragen, dass wirklich alle Tagesordnungspunkte abgearbeitet werden.
+Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten werden. Sie verstehen sich eher als Hinweis darauf, dass die aktuelle Aufgabe beendet werden sollte und eine neue voransteht. Sinnvoll sind sie vor allem bei neuen Aufgaben, wo der Aufwand vorher noch nicht ganz klar ist. Durch die weiche Timebox kann in einem Team sichergestellt werden, dass alle den gleichen Zeitrahmen verfolgen, dabei jedoch immer noch flexibel sind. In Meetings trägt die weiche Timebox auch dazu bei, dass alle Tagesordnungspunkte abgearbeitet werden, allerdings mit weniger Druck und ohne möglichen Abbruch gewisser Themen, wie es bei einer harten Timebox der Fall wäre.
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Timeboxing kann sowohl für Gruppen als auch für das persönliche Zeitmanagement genutzt werden.
+Timeboxing in Gruppen:
+
+
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
