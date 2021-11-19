@@ -4,7 +4,7 @@ tags: agil klassisch
 author: ux49azap
 anrechnung: k
 ---
-
+# 1. Missverständnisse im klassischen Projektmanagement
 Kurzbeschreibung zu Klassische_Missverstaendnisse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
