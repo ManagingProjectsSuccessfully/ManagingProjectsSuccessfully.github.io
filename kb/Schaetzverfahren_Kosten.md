@@ -1,11 +1,11 @@
 ---
-title: Design_Science_Research
+title: Schaetzverfahren_Kosten
 tags: agil klassisch
-author: aliciamiederer
+author: Sven017
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Design_Science_Research um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Kurzbeschreibung zu Schaetzverfahren_Kosten um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
@@ -45,7 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Design_Science_Research/test-file.jpg)
+![Beispielabbildung](Schaetzverfahren_Kosten/test-file.jpg)
 
 *lustiges Testbild*
 
@@ -89,7 +89,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Design_Science_Research.md)
+* [Link auf diese Seite](Schaetzverfahren_Kosten.md)
 
 # Weiterführende Literatur
 

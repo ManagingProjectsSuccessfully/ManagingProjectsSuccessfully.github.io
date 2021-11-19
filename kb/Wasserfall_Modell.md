@@ -1,11 +1,11 @@
 ---
-title: PRINCE2_7_Themen
+title: Wasserfall_Modell
 tags: agil klassisch
-author: AliciaVetters
+author: ga88maby
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu PRINCE2_7_Themen um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Kurzbeschreibung zu Wasserfall_Modell um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
@@ -45,7 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](PRINCE2_7_Themen/test-file.jpg)
+![Beispielabbildung](Wasserfall_Modell/test-file.jpg)
 
 *lustiges Testbild*
 
@@ -89,7 +89,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](PRINCE2_7_Themen.md)
+* [Link auf diese Seite](Wasserfall_Modell.md)
 
 # Weiterführende Literatur
 

@@ -1,11 +1,11 @@
 ---
-title: Elevator_Pitch
+title: Vorgehensmodelle
 tags: agil klassisch
-author: YeldaUzun
+author: hello-pukeko
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Elevator_Pitch um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Kurzbeschreibung zu Vorgehensmodelle um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
@@ -45,7 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Elevator_Pitch/test-file.jpg)
+![Beispielabbildung](Vorgehensmodelle/test-file.jpg)
 
 *lustiges Testbild*
 
@@ -89,7 +89,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Elevator_Pitch.md)
+* [Link auf diese Seite](Vorgehensmodelle.md)
 
 # Weiterführende Literatur
 
