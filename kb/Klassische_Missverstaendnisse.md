@@ -7,7 +7,7 @@ anrechnung: k
 # 1. Missverständnisse im klassischen Projektmanagement
 Bei der falschen Anwendung des klassischen Projektmanagements kann es schnell zu Missverständnissen kommen, welche einen großen Einflussfaktor auf die Erfolgswahrscheinlichkeit des jeweiligen Projektes haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten. Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# 2. Ursache der Missverständnisse
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
