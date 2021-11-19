@@ -11,19 +11,6 @@ werden soll [^1]. Im Kontext von Projekten bedeutet dies, dass man die Interesse
 Unvorhergesehene berücksichtigt.[^2]
 
 
-Inhaltsverzeichnis
-
-1. Begriffsherleitung
-2. Gründe für Nachhaltigkeit im Projektmanagement
-    - 2.1 Vorteile
-    - 2.2 Nachteile
-3. Beispiele für Nachhaltigkeit im Projektmanagement anhand des Drei-Säulen-Modells
-    - 3.1 Ökologische Dimension
-    - 3.2 Ökonomische Dimension
-    - 3.3 Soziale Dimension
-4. Lebenszyklus-Methode der Nachhaltigkeit
-5. Quellen
-
 
 Begriffsherleitung
 
@@ -91,9 +78,6 @@ Der Lebenszyklusansatz ist einzigartig und auch eine allgemein akzeptierte Metho
 [^6]
 
 Diese Methode der Nachhaltigkeit reduziert die Menge an Energie und Ressourcen, die vor der Gewinnung der Rohstoffe eingesetzt wurden. Die Gewinnung der Rohstoffe ist der Ausgangspunkt, d. h. der Beginn des zu analysierenden Projektlebenszyklus. Sie würde auch die derzeitige Situation der Regeneration berücksichtigen. Mit anderen Worten, die Frage, wie die gewonnenen Rohstoffe ersetzt oder reproduziert werden können, muss beantwortet werden. Danach geht sie in eine andere Phase über, nämlich die Produktionsphase, auf der auch alle Tätigkeiten erfasst werden, die in dieser Phase durchgeführt werden. Es prüft die Energiemenge und die Qualität, um die es hier geht. Dann ist der nächste Schritt, der analysiert werden muss, die Nutzungsphase. Es wird geprüft, wer das Produkt verwenden wird, das aus der Produktionsphase hervorgegangen ist. Sie berücksichtigt auch die Sicherheit und das Wohlbefinden der Menschen oder Einzelpersonen, die das Produkt verwenden. Es werden so viele Annahmen darüber gemacht, wie bequem das Produkt in dieser Phase seinen Dienst leisten wird. Schliesslich wird die Frage, wie Abfälle um jeden Preis minimiert werden können, im Rahmen der derzeit durchgeführten Analyse beantwortet.[^6]
-
-
-
 
 
 
