@@ -48,13 +48,15 @@ In der ersten Stufe wird dabei der Veränderungprozess vorbereitet (bspw. durch 
 Erst im folgenden Schritt werden die Neuerungen eingeführt und anschließend als Standards abgesichert. 
 
 ![Beispielabbildung](Change_Management/Lewin_Bild.jpeg)
-          3-Stufen Modell nach Lewin [^22]. 
+
+3-Stufen Modell nach Lewin [^22]. 
 
 Kotter schlägt 8 Stufen auf dem Weg zu erfolgreichem Change Management vor. 
 Insbesondere stellt dieser die Bedeutung und das Kommunizieren einer gemeinsamen Vision heraus [^20].
 
 ![Beispielabbildung](Change_Management/Kotter_Bild.png)
-          8-Stufen Modell nach Kotter[^23]. 
+
+8-Stufen Modell nach Kotter[^23]. 
 
 
 In der Praxis werden verschiedene Ansätze angewendet [^21]. 
