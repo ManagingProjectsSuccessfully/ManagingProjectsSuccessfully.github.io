@@ -86,3 +86,4 @@ Die Zeit pro Runde wird vorab festgelegt. Hierbei wird meistens ein Zeitraum von
 [^5]: [Joachim H. Becker, Helmut Ebert, Sven Pastoors (2018): "Praxishandbuch berufliche Schlüsselkompetenzen"](https://link.springer.com/content/pdf/10.1007%2F978-3-662-54925-4_11.pdf)
 [^6]: https://www.hs-osnabrueck.de/fileadmin/HSOS/Homepages/LearningCenter/Dateien/Toolbox/Dokumente_mit_neuer_Bezeichnung/635-Methode_zur_Veranstaltungsevaluation.pdf
 [^7]: https://www.quality.de/qm-magazin/methode-6-3-5/
+
