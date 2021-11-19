@@ -18,22 +18,21 @@ Das traditionelle Projektmanagement beruht auf einem monolithischen Ansatz, bei 
 
 In nahezu allen Projekten kommt es im Laufe der Zeit zu sich veränderten Anforderungen und Bedürfnissen. Aufgrund der klassischen Vorgehensweise hat die Projektplanung allerdings nicht die notwendigen Freiheiten um auf Veränderungen flexibel einzugehen, da sie aufwendige und oftmals kostspielige Projektanpassungen nach sich ziehen würden. Stattdessen wird strikt an dem ursprünglichen Plan festgehalten. Somit gibt es kaum Möglichkeiten Ziel- und Planänderungen zu treffen, was vor allem bei den immer komplexer werdenden Projekten zu maßgeblichen Missverständnissen führt.  
 
-* Kritik 
 
 ![Beispielabbildung](Klassische_Missverstaendnisse/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
+# 4. Unschärfe bereits zu Beginn des Projektes
 
-* das
-* hier 
-* ist
-* eine 
+Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird bereits zu Beginn des Projektes Reserve in die Planung mit einbezogen. Dies führt allerdings zu neuen Missverständnissen. Durch den Einbezug von Reserve besteht von Anfang eine gewisse Unschärfe, welche im späteren Projektverlauf sogar noch zunehmen kann. Außerdem handelt es sich bei den Reservefaktoren vor allem um die Terminierung und Budgetierung des Projektes, weshalb es bei klassischen Projekten oftmals zu Verzögerungen und Kostensteigerungen kommen kann.
 * Punkteliste
   - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Hier eine Ebene-2-Überschrift unter Aspekt 2
+Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum agilen Projektmanagement gibt es keine kleineren Aufgabenblöcke, die früh zu nutzbaren Ergebnissen oder überprüfbaren Prototypen führen. Es entstehen somit auch nicht regelmäßig Zwischenprodukte, welche durch kontinuierliche Anpassungsprozesse überprüft und verbessert werden können (sog. Sprints beim agilen Projektmanagementmodell Scrum). 
+Stattdessen werden einzelne größere Projektphasen nacheinander und nicht parallel abgearbeitet. Die komplexeren Arbeitsblöcke lassen sich schwerer verwalten, wodurch 
+ein deutlich höheres Risiko für Fehlentscheidungen entsteht. Außerdem geht der Motivationsaspekt für das arbeitende Team verloren, da beim klassischen Projektmanagement kein frühzeitig nutzbarer Mehrwert entsteht.
 
 So kann man eine Tabelle erstellen:
 
@@ -44,12 +43,8 @@ So kann man eine Tabelle erstellen:
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Eng damit verknüpft ist die Rückmeldung an den Kunden. Im Gegensatz zu agilen Projekten können dem Kunden keine Zwischenprodukte oder –ergebnisse präsentiert werden. Dadurch geht entscheidendes Feedback im Projektverlauf verloren, welches für die weiteren Prozessschritte hätte berücksichtigt werden können. Stattdessen werden die Projektergebnisse 
+am Ende einer Projektphase oder sogar erst am Ende des Projekts bereitgestellt. Somit haben die Anspruchsgruppen so gut wie keinerlei Einfluss während des Projektes, wodurch wiederum neue Missverständnisse entstehen. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben wodurch umfangreiche nachträgliche Anpassungen notwendig werden.
 
 # Aspekt n
 
