@@ -31,6 +31,18 @@ Wie im Video zu sehen, soll dazu die folgende Bewertungstabelle kopiert und in d
 | Einordnung in den Kontext | 1-10|
 | Ansprechend für Zielgruppe | 1-10|
 
+# Zusammenfassung
+
+Kurze Zusammenfassung des/der Artikel
+
+# Positive Aspekte
+
+Was ist gut (Bezug zur Tabelle)
+
+# Negative Aspekte
+
+Was geht besser (Bezug zur Tabelle)
+
 **---kopieren bis hier---**
 
 In den Feldern mit Auswahlmöglichkeit "ja/ nein" soll lediglich eine Option gewählt werden (Angabe "ja" ODER "nein"). 
