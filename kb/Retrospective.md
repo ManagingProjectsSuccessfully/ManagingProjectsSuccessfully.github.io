@@ -47,7 +47,7 @@ Die regelmäßige Durchführung einer Retrospective bietet verschiedene Vorteile
 Probleme die bei der Retrospective auftreten können, sind die Folgenden:[^1][^7][^8]
 
 * Die Veranstaltung einer Retrospective stellt einen zusätzlichen Zeit- und Arbeitsaufwand dar
-* Die Ständige Wiederholung des immer gleichen Vorgangs kann schnell zu Langweilig führen; Um zu vermeiden, dass die Teammitglieder ihr Engagement verlieren, empfiehlt es sich, das Format regelmäßig zu wechseln
+* Die Ständige Wiederholung des immer gleichen Vorgangs kann zu Langweile führen; Um zu vermeiden, dass die Teammitglieder ihr Engagement verlieren, empfiehlt es sich, das Format regelmäßig zu wechseln
 * Teammitglieder könnten emotional verletzt werden, deshalb ist sachliches Feedback von hoher Bedeutung
 * Frustration der Beteiligten, falls vereinbarte Verbesserungsvorschläge nicht umgesetzt werden
 
