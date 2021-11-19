@@ -56,6 +56,9 @@ Ein weiterer Aspekt welcher zu klassischen Missverständnissen führt, sind unve
 7. nummerierte liste
    1. und hier eine Ebene tiefer
 
+# Fazit
+Um klassische Missverständnisse bei Projekten zu vermeiden ist es deshalb besonders wichtig genau abzuwägen, ob das klassische Projektmanagement zur Ausgangslage, zur Aufgabenstellung und zur Zielsetzung passt. Nur wenn diese Vorraussetzungen erfüllt sind kann das Projekt erfolgreich und wirtschaftlich verlaufen.
+
 
 # Siehe auch
 
