@@ -1,8 +1,8 @@
 ---
 title: Interne_Synergieeffekte
-tags: agil klassisch
+tags: klassisch
 author: GiuliaAng
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Interne_Synergieeffekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
