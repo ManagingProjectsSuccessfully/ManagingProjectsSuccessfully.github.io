@@ -85,10 +85,11 @@ Diese Methode der Nachhaltigkeit reduziert die Menge an Energie und Ressourcen, 
 * [Projectmanagement](Who_is_Who_Projectmanagement.md)
 
 
+# Weiterführende Literatur
 
-
-
-
+* [Nachhaltigkeit im Projektmanagement] (https://link.springer.com/content/pdf/10.1007%2F978-3-658-20500-3.pdf)
+* [Nachhaltiges Projektmanagement] (https://www.inloox.de/unternehmen/blog/artikel/nachhaltiges-projektmanagement/)
+* [Project Sustainability: Overview of Sustainability in Project Management] (https://www.researchgate.net/publication/317233730_Sustainable_Development_An_Overview)
 
 # Quellen
 
