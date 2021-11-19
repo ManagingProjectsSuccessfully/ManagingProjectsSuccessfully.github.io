@@ -60,6 +60,11 @@ Dennoch auch negative Nachrichten, da der Netzausbau nur schleppend vorrangeht
 Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^2]
 PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Marchbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^3]
 
+# Expertise
+Experten raten bei großen Bauprojekten/Infrastrukturprojekten zu Klassischen Methoden, da agile Methoden aufgrund der mangelnden Flexibilität der Projekte an neue Rahmenbedinungen ungeeignet sind.
+Dennoch werden ergänzungen durch agile Hilfsmittel wie [Scrum] (https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban] (https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^3]
+
+
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -154,5 +159,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]:Böttcher, J. (2012). Management von Biogas-Projekten: Rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
 [^2]: https://www.cleanthinking.de/energiewende-in-deutschland-kurzschluss-im-projektmanagement/
 [^3]: https://de.linkedin.com/pulse/projektmanagement-der-energiewirtschaft-garant-f%C3%BCr-die-schulte
-[^4]: 
+
 
