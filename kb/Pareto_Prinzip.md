@@ -14,6 +14,8 @@ Das Pareto Prinzip hat ein großes Ziel: Man möchte mit einem minimalen Aufwand
 2. Ursprung des Pareto-Prinzips 
 3. Beispielhafte Situationen, in denen die 80/20-Regel zutrifft 
 4. Zeitersparnis durch die Anwendung des Pareto-Prinzips
+#### 4.1 Zeitersparnis durch die Anwendung des Pareto-Prinzips:
+#### 4.2 Vergleich der Zeitersparnis mit der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
 
 
 ### 1. Bedeutung des Pareto-Prinzips:
@@ -41,7 +43,8 @@ Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilun
 |  Mitarbeiter  |   Fehltage    |
 
 
-### 4. Zeitersparnis durch die Anwendung des Pareto-Prinzips:
+### 4. Zeitmanagement 
+#### 4.1 Zeitersparnis durch die Anwendung des Pareto-Prinzips:
 
 Aus den oben genannten Gründen ist im Bereich des Zeitmanagements des Öfteren vom Pareto-Prinzip die Rede. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches bereits die wichtigsten Bedingungen erfüllt.[^5]
 Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf genau diese Aspekte beschränkt, wird also bereits ein großer Teil der Dinge erreicht, die man erzielen will. Der Aufwand, der in dem steckt, das nur 20% des Ergebnisses erfüllt, liegt also bei 80% und ist schlussfolgernd viel zeitintensiver. 
@@ -57,6 +60,7 @@ Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des P
 
 Bei der Anwendung des Pareto Prinzips trennt man sich somit bestenfalls gleichzeitig von seinem Perfektionismus, da dieser in den meisten Fällen nicht von Nöten ist. Auf diese Weise spart man sich nicht nur Nerven, sondern generiert gleichzeit auch mehr Zeit, um die Kernaufgaben besonders gut erledigen zu können. Insbesondere wenn man eine große Anzahl auf Aufgaben zu erledigen hat eignet sich das Pareto Prinzip, da man mithilfe dieses Prinzips alle Aufgaben bereits fast vollständig abarbeitet und nicht nur wenige Aufgaben "perfekt", also zu 100%, ausarbeitet.[^7]
 
+#### 4.2 Vergleich der Zeitersparnis mit der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
 
 Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik hat man auch das Ziel in möglichst kurzer Zeit viel zu erreichen. Die Zeit, in der man arbeitet sowie die Zeit der Pausen, wird hier zwar lediglich eingeteilt, aber durch die Zeiteinteilung steigert sich auch hier die Produktivität. Man versucht sich nicht ablenken zu lassen und vermeidet Zeitfresser, um, wie beim Pareto- Prinzip, in kurzer Zeit möglichst vieles zu schaffen.[^8]
 
