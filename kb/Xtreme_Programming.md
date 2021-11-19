@@ -10,36 +10,9 @@ anrechnung: a
 Extreme Programming, kurz XP, ist die radikalste Umsetzung der agilen Softwareentwicklung. [^1]
 
 Zurückzuführen ist die Methode auf die Softwareentwickler Kent Beck, Ward Cunningham und Ron Jeffries. 
-Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen , da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte. 
+Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen , da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
+# Agile Methode
 
 Wie Scrum und Kanban, andere agile Methoden, stellt Extreme Programming den Kunden und seine Anforderungen in den Mittelpunkt .
 Dies ist oftmals schwierig bei einem klassischen Ansatz, vor allem, wenn sich die die Kundenwünsche regelmäßig ändern.
@@ -47,11 +20,7 @@ Dies ist oftmals schwierig bei einem klassischen Ansatz, vor allem, wenn sich di
 Es wird von iterativen Prozessen ausgegangen. 
 Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, besprechen und veröffentlichen. 
 
-Es wurde ein deutliches Framework mit verschiedenen Werten, Prinzipien und Techniken entwickelt.  
-
-![Beispielabbildung](Xtreme_Programming/test-file.jpg)
-
-*lustiges Testbild*
+Es wurde ein deutliches Framework mit verschiedenen Werten, Prinzipien und Techniken entwickelt.
 
 # Werte
 
