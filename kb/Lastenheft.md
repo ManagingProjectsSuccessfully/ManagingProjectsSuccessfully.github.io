@@ -2,7 +2,7 @@
 title: Lastenheft
 tags: agil klassisch
 author: HAhmedFAU
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Lastenheft um ein erstes Verständnis dafür zu schaffen um was es hier geht.
