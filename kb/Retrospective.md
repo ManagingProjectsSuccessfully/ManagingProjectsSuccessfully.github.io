@@ -54,6 +54,7 @@ Probleme die bei der Retrospective auftreten können, sind die Folgenden:[^1][^7
 # Außerdem wissenswert
 
 Die Retrospective wird in verschieden Arten des agilen Projektmanagements eingesetzt, darunter zum Beispiel beim Scrum.[^1]
+Sie findet innerhalb eines Teams nach jeder Iteration statt, das heißt alle 2-4 Wochen und dauert meist eine Stunde. Bei Bedarf kann man auch teamübergreifende Retrospectiven ansetzen, die zum Beispiel alle 3-6 Monate stattfinden. [^9]
 
 # Siehe auch
 
@@ -77,3 +78,4 @@ Die Retrospective wird in verschieden Arten des agilen Projektmanagements einges
 [^7]: https://agileworld.blogspot.com/2006/12/pros-and-cons-of-conducting.html
 [^8]: https://greengarageblog.org/7-pros-and-cons-of-agile-methodology
 [^9]: https://www.it-agile.de/agiles-wissen/agile-teams/was-sind-retrospektiven/
+
