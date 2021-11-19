@@ -4,6 +4,7 @@ tags: klassisch
 author: Magnus-schn
 anrechnung: k 
 ---
+# Projektmanagement für die Energiewende
 
 ![Photovoltaik](https://www.co2online.de/fileadmin/_processed_/b/7/csm_photovoltaikanlage-und-windkraftwerk_278dc38ea3.jpg)
 
