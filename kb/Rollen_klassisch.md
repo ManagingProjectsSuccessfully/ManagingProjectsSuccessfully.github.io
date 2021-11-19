@@ -10,7 +10,7 @@ anrechnung: k
 
 ## Was ist eine Rolle
 
-## Organisationseinheiten im Einzelprojektmanagement vs im Multiprojektmanagement
+## Rollen im Einzelprojektmanagement vs im Multiprojektmanagement
 
 |Einzelprojektmanagement|Multiprojektmanagement|
 |-----------------------|----------------------|
@@ -22,26 +22,32 @@ anrechnung: k
 |Projektmanagement-Office(PMO)|                |
 
  
+## Aufgabenbereiche und Kompetenzen der einzelnen Rollen
 
-Innerhalb eines Projektes gibt es im klassischen Projektmanagement verschiedene Rollen, die besetzt werden müssen. Dazu ist es zunächst wichtig eine Unterscheidung zwischen den Organisationseinheiten im Einzelprojektmanagement und den Organisationsheiten im Multiprojektmanagement zu unterscheiden: 
+Innerhalb eines Projektes gibt es im klassischen Projektmanagement verschiedene Rollen, die besetzt werden müssen. Dazu ist es zunächst wichtig eine Unterscheidung zwischen den Organisationseinheiten im Einzelprojektmanagement und den Organisationsheiten im Multiprojektmanagement zu machen: 
 
-*	Der Projektleiter
-*	Teilprojektleiter & Modulleiter
-*	Projektmitarbeiter
-*	Projektmanagement Office
-*	Experten
-*	Auftraggeber 
-*	Kunden
+1. Projektauftraggeber
+2. Projektlenkungsausschuss/Multiprojektlenkungsausschuss
+3. Projektleiter
+4.	Projektcontroller
+5.	Projektteam
+6. Projektmanagement-Office (PMO)
 
-Diesen kommen unterschiedliche Aufgaben innerhalb eines Projektes zu. Im folgenden werden diese 7 Rollen kurz beschrieben und die ihnen zugeteilten Aufgaben näher erläutert.
+Diesen kommen unterschiedliche Aufgaben innerhalb eines Projektes zu. Im folgenden werden diese 6 Rollen kurz beschrieben und die ihnen zugeteilten Aufgaben näher erläutert.
+
+## Projektauftraggeber:
+Der Auftraggeber beauftragt das Projekt und stellt formal die Ressourcen bereit. Für interne Projekte ist dies oft der Geschäftsführer oder Vorstand des Unternehmens, bei externen Projekten sind es die Kunden.
+Sofern es neben den Auftraggeber eine spezielle Kundenrolle gibt, ist dieser der Abnehmer aller Ergebnisse aus dem Projekt.
+
+## Projektlenkungsausschuss/Multiprojektlenkungsausschuss:
 
 ## Projektleiter:
 Er ist verantwortlich für das Ergebnis des Projekts und ist fachlich und teilweise auch disziplinarisch der Projektorganisation vorgestellt.
+Bei größeren Projekten ist es oft sinnvoll die Leitung des Projekts auf mehrere Personen aufzuteilen, die jeweils einen Teilaspekt des Projekts übernehmen und dafür verantwortlich sind. Diese werden als Teilprojektleiter bzw. Modulleiter bezeichnet.
 
-## Teilprojektleiter & Modulleiter:
-Bei größeren Projekten ist es oft sinnvoll die Leitung des Projekts auf mehrere Personen aufzuteilen, die jeweils einen Teilaspekt des Projekts übernehmen und dafür verantwortlich sind.
+## Projektcontroller:
 
-## Projektmitarbeiter:
+## Projektteam:
 Die Projektmitarbeiter sind für die Erstellung eines Ergebnisses verantwortlich. Diese können sowohl in Teilzeit als auch in Vollzeit im Unternehmen angestellt.
 
 ## Projekt Management Office:
@@ -50,11 +56,7 @@ Das Projekt Management Office (PMO) unterstützt den Projektleiter bei seiner Ar
 ## Experten:
 Innerhalb und außerhalb der Projektorganisation kann es Experten geben, die selektiv in das Projekt miteingebunden werden und das Projekt mit ihrem Fachwissen unterscheiden können.
 
-## Auftraggeber:
-Der Auftraggeber beauftragt das Projekt und stellt formal die Ressourcen bereit. Für interne Projekte ist dies oft der Geschäftsführer oder Vorstand des Unternehmens, bei externen Projekten sind es die Kunden.
 
-## Kunden: 
-Sofern es neben den Auftraggeber eine spezielle Kundenrolle gibt, ist dieser der Abnehmer aller Ergebnisse aus dem Projekt.
 
 # Zusammenarbeit zwischen den einzelnen Rollen
 
