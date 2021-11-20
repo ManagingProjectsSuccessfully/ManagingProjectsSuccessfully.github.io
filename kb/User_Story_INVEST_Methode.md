@@ -1,6 +1,6 @@
 ---
 title: User_Story_INVEST_Methode
-tags: agil
+tags: agil User Story Invest Methode INVEST Product backlog Anforderungen
 author: Juliakau
 anrechnung: a
 ---
