@@ -1,8 +1,8 @@
 ---
 title: Nutzwertanalyse
-tags: agil klassisch
+tags: klassisch
 author: Irishcoffee09
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Nutzwertanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
