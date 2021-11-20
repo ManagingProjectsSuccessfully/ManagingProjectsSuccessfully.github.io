@@ -23,9 +23,9 @@ Ein Projektplan-ein formelles Dokument, in dem alle Entscheidungen und Schritte 
 
 Schlechte Kommunikation ist ein wichtiger Faktor, der den Erfolg eines Projekts stark beeinflussen gefährden kann. Ein Mangel an effektiver Kommunikation kann zu Verwirrung und Verzögerungen führen und die Qualität der Arbeit und der Aufgaben des Projekts beeinträchtigen. [^1] (siehe: [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md))
 ## Lösung: 
-* Eine effektive Kommunikation steht im Mittelpunkt der Teamzusammenarbeit. Tägliche oder wöchentliche Besprechungen, indem jeder Mitarbeiter Mitspracherecht hat und Feedbacks geben kann, können dabei helfen, sich gegenseitig besser zu verstehen um effektiver das Ziel zu erreichen (siehe [Daily Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md))[^1]. 
+* Eine effektive Kommunikation steht im Mittelpunkt der Teamzusammenarbeit [^1]. Tägliche oder wöchentliche Besprechungen, indem jeder Mitarbeiter Mitspracherecht hat und Feedbacks geben kann, können dabei helfen, sich gegenseitig besser zu verstehen um effektiver das Ziel zu erreichen (siehe [Daily Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md))[^3]. 
 *	Eine gute Technische Infrastruktur mit Projektmanagement-Tools, kann ebenso den Teammitgliedern ermöglichen, ihren Fortschritt in Echtzeit zu aktualisieren und somit mit anderen zu kommunizieren. [^1]
-*	Ebenso ist eine ausführliche Kommunikation mit dem Kunden/ Stakeholder nicht zu vernachlässigen, denn nur so ist man sich sicher, dass man auf dem richtigen Weg ist, die Wünsche der Kunde zutreffend zu erfüllen. [^1]
+*	Ebenso ist eine ausführliche Kommunikation mit dem Kunden/ Stakeholder nicht zu vernachlässigen, denn nur so ist man sich sicher, dass man auf dem richtigen Weg ist, die Wünsche der Kunde zutreffend zu erfüllen. [^4]
 
 
 # 3. Unrealistische Ziele, Fristen und Budget
@@ -67,5 +67,6 @@ Zusammenfassend lässt sich sagen, dass man mit einem klar definierten Ziel, ein
 
 [^1]: Task(2020):The Most Common Project Management Pitfalls to Avoid : https://www.ntaskmanager.com/blog/project-management-pitfalls/
 [^2]: Stepanov, Andrew (2017):10 Pitfalls in Project Management to Avoid (ganttpro.com) : https://blog.ganttpro.com/en/top-project-management-pitfalls-to-avoid/
-
+[^3]: Reinold, Daniel: Daily Scrum - kurz erklärt [Varianten & Tipps]: https://www.projektmagazin.de/methoden/daily-scrum
+[^4]: T2informatik: Was ist eine Stakeholderkommunikation? - Wissen kompakt - t2informatik: https://t2informatik.de/wissen-kompakt/stakeholderkommunikation/
 
