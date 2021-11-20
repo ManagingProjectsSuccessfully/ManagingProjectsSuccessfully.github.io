@@ -14,21 +14,20 @@ Dabei handelt es sich um ein Dokument, welches alle relevanten Informationen üb
 
 # Vorgehensweise
 
-Das Register wird früh im Planungsprozess von Projektmanagern angelegt. [^0] 
-Grundsätzlich erfolgt die Erstellung eines Registers in den folgenden drei Schritten: [^1]
+Das Register wird früh im Planungsprozess von Projektmanagern angelegt und erfolgt die Erstellung eines Registers in den folgenden drei Schritten: [^1] [^2]
 
-## Identifizierung der Stakeholder 
+## 1. Identifizierung der Stakeholder 
 
 Zunächst müssen die Stakeholder ausfindig gemacht werden. Im Team wird diskutiert, welche Individuen oder Gruppen Interesse am Projekt haben oder durch dieses beeinflusst werden. 
 Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, sodass das Dokument stets auf dem neuesten Stand gehalten werden muss. [^1]
 
-## Erstellen des Registers
+## 2. Erstellen des Dokuments
 
 Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird häufig Microsoft Excel benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt das Register Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2] 
 
 Unabhängig von der Größe des Unternehmens sollte sich jeder Projekt Manager aufgrund der Individualität des Stakeholder Managements selbstständig ein eigenes Register anfertigen. Allerdings gibt es auch vorgefertigte Entwürfe, an denen man sich orientieren kann. [^1]
 
-Im Folgenden sind die gängigsten Kategorien aufgelistet[^1] :
+Im Folgenden sind die gängigsten Kategorien aufgelistet [^1]:
 
 * Name des Stakeholders
 * Art von Stakeholder
@@ -41,7 +40,7 @@ Im Folgenden sind die gängigsten Kategorien aufgelistet[^1] :
 * Bevorzugte Art & Häufigkeit der Kommunikation
 * Strategien
 
-Weitere Leitsätze, die zur Erstellung des Registers wichtig zu beachten sind:
+Weitere Leitsätze, die zur Erstellung des Registers wichtig zu beachten sind [^2]:
 
 * Fragen, die du von deinen Stakeholdern beantwortet haben willst, sollten im Voraus klar sein, bevor das Register erstellt wird.
 * Die Formulierung des Registers sollte so gestaltet sein, als würde es für die gesamte Welt, besonders für deine Stakeholder, veröffentlicht werden 
@@ -50,29 +49,28 @@ Weitere Leitsätze, die zur Erstellung des Registers wichtig zu beachten sind:
 * Ständiges Review und Update des Registers sind wichtig, damit Relevanz und Nutzen beibehalten werden
 * Außerdem sollte das Register keine sensiblen Informationen enthalten, welche die Stakeholder schädigen könnten. 
 
-Das Dokument sollte mit anderen Projektdokumentationen aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein.
+Das Dokument sollte mit anderen Projektdokumentationen aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein. [^2]
 
-## Analyse der Stakeholder
+## 3. Analyse der Stakeholder
 
-Zuletzt wird das Register mit den nötigen Daten ausgefüllt. Die Informationen können dabei direkt von den Stakeholdern erfragt werden oder wenn nötig, über öffentliche Quellen erlangt werden. 
-
-Damit ist die Analyse der wichtigste Prozess zur Erstellung des Registers.
+Die Analyse ist der wichtigste Prozess zur Erstellung des Registers.
+Hier wird das Register mit den nötigen Daten ausgefüllt. Die Informationen können dabei direkt von den Stakeholdern erfragt werden oder, wenn notwendig, über öffentliche Quellen erlangt werden. [^1]
 
 # Vorteile eines Registers
 
-Register spielen eine wichtige Rolle im Stakeholdermanagement, da sie jede Menge an Wert in der Projektplanung mit sich bringen. 
+Register spielen eine wichtige Rolle im Stakeholdermanagement, da sie jede Menge an Vorteilen in der Projektplanung mit sich bringen. 
 
 ## Breite Anwendung
 
-Das Register kann vielseitig eingesetzt werden. Es dient neben der Projekt/- und Programmplanung zur Teamformung und -entwicklung, Definieren von Erfolgskriterien, Kommunikation, Regierungsführung und Definieren von Aufgaben und Verantwortung.
+Das Register kann vielseitig eingesetzt werden. Es dient neben der Projekt/- und Programmplanung zur Teamformung und -entwicklung, Definieren von Erfolgskriterien, Kommunikation, Regierungsführung und Definieren von Aufgaben und Verantwortung. [^1]
 
 ## Bessere Kommunikation
 
-Ein gutes Stakeholder Register hilft bei der Identifizierung der Präferenzen der Stakeholder und ermöglicht eine effektive Kommunikation. Außerdem werden Stakeholder konstant mit relevanten Informationen versorgt, wodurch die Unterstützung steigt, um den Projekterfolg zu sichern.
+Ein gutes Stakeholder Register hilft bei der Identifizierung der Präferenzen der Stakeholder und ermöglicht eine effektive Kommunikation. Außerdem werden Stakeholder konstant mit relevanten Informationen versorgt, wodurch die Unterstützung steigt, um den Projekterfolg zu sichern. [^1]
 
 ## Fördern des Teamgeists
 
-Wie bereits erwähnt, sollte das Register schon am Anfang eines Projektes erstellt werden. Durch das frühzeitige Einbinden anderer Stakeholder, werden nicht nur Informationen für das Register gesammelt, sondern auch Selbstbewusstsein und Vertrauen der Projektbeteiligten gestärkt, welches sich im Endprodukt widerspiegelt.
+Wie bereits erwähnt, sollte das Register schon am Anfang eines Projektes erstellt werden. Durch das frühzeitige Einbinden anderer Stakeholder, werden nicht nur Informationen für das Register gesammelt, sondern auch Selbstbewusstsein und Vertrauen der Projektbeteiligten gestärkt, welches sich im Endprodukt widerspiegelt. [^1]
 
 # Siehe auch
 
@@ -81,7 +79,7 @@ Wie bereits erwähnt, sollte das Register schon am Anfang eines Projektes erstel
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+<!-- * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... -->
 
 # Quellen
 [^1]: [What is a Stakeholder Register and how to create a Stakeholder Register? (remote.tools)](https://www.remote.tools/remote-work/stakeholder-register#what-is-stakeholder-register)  
