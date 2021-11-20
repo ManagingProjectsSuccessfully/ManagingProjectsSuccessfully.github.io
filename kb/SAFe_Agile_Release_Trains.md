@@ -7,9 +7,6 @@ anrechnung: a
 
 Wie SAFe oder Scaled Agile Framework bezeichnet man eine Stellung zum Agile Management. Diese Stellung ist von der Firma Scaled Agile hergestellt und jetzt befindet sich im Version 5.1. Es wird von großen Gesselschaften für die Organisation der Projekts benutzt. Die SAFe-Struktur ist von viele Elemente gebildet und dazu zählt man auch AGT oder Agile Release Trains, die noch unten beschreibt sind. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
 # SAFe Vorteile und die Grundsätze
 
 Laut der Firma Scaled Agile[^1],die SAFe entwickelt hat, bring diese Plateaussohle bessere Produktivität, schnelles Feedback und erhöht die Mitarbeiterzufriedenheit und Mitarbeiterengagement. Viele Firmen auch registieren, dass sie schneller auf Kundennachfrage reagieren können. Jede Branche ist ganz unterschiedlich und deswegen kann auch die SAFe-Nutzung bei der Firma unterschiedlich sein. Trotz der Vielfalt der Situationen sollen die Firmen für die erfolgreiche Nutzung die 10 Grundprinzipe folgen. 
@@ -45,6 +42,7 @@ Als eine Firma versucht das SAFe Agile Management zu implementieren, ist es wich
 Wie schon gesagt war, die ARTs sind organisiert, um den Wert zu bringen. ARTs sind am meistens virtuelle Teams, in denen die Leute zusammen arbeiten, aber sehr häufig bleiben die Leute unter dem klassischen Struktur des Unternehmens. Das Bild unten zeigt wie sind die ARTs gebildet.
 
 ![ARTs construction](https://user-images.githubusercontent.com/93159758/142731182-0c99e1c6-2983-4ef2-8e79-2a2ff094c728.png)
+
 *ARTs sind cross-functional Teams* , Quelle: noch erfüllen
 
 ## ART Teamstruktur und wichtige Teamrollen
@@ -77,19 +75,6 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](SAFe_Agile_Release_Trains/test-file.jpg)
-
-*lustiges Testbild*
-
 # Aspekt 2
 
 * das
@@ -108,15 +93,6 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
 # Aspekt n
 
 1. das
@@ -131,6 +107,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](SAFe_Agile_Release_Trains.md)
+* Ozkan, N. and Tarhan, A. (2019) ‘A Review of Scaling Approaches to Agile Software Development Models’, Software Quality Professional, 21(4), pp. 11–20.
+* Putta, A., Paasivaara, M. and Lassenius, C., 2018, November. Benefits and challenges of adopting the scaled agile framework (SAFe): preliminary results from a multivocal literature review. In International Conference on Product-Focused Software Process Improvement (pp. 334-351). Springer, Cham.
+* One Agile Production (2020) What is an Agile Release Train Engineer (SAFe 5). Available at: [https://www.youtube.com/watch?v=p4MiBPbfxAA](https://www.youtube.com/watch?v=p4MiBPbfxAA) (Accessed: 20 November 2021).
 
 # Weiterführende Literatur
 
