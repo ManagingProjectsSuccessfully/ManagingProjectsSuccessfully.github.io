@@ -41,7 +41,7 @@ In Level 1 bis 2 werden Projekte in kleineren Maßstäben durchgeführt, die nic
 
 1. Methodology
 
-Die Methodik, bestehend aus einer Bündelung von Methoden, verhindert Stagnation im Projekt Management, zu beachten ist, dass die einzelnen Methoden in Abhängigkeit zueinander stehen. Bestandteil der Methodik sind Analyse-, Kreatvitäts-, Progrnose-, Bewertungs-, Planungs- und Abwicklungsmethoden.
+Die Methodik, eine Bündelung von Methoden, verhindert Stagnation im Projekt Management. Hierzu gehören vor allem die Methoden der Analyse-, Kreatvität-, Progrnose-, Bewertung-, Planung- und Abwicklung. Zu beachten ist, dass die einzelnen Methoden in Abhängigkeit zueinander stehen. So entsteht das Gefühl des erarbeiteten Kompromiss, der zur besten Lösung führt.
 
 2. PMO
 
