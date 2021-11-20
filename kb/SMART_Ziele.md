@@ -1,8 +1,8 @@
 ---
 title: SMART_Ziele
-tags: agil klassisch
+tags: klassisch SMART Ziele Spezifisch Messbar Attraktiv Realistisch Terminiert Erfolg Motivation 
 author: Tjara1
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu SMART_Ziele um ein erstes Verständnis dafür zu schaffen um was es hier geht.
