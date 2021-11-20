@@ -12,6 +12,8 @@ Besonders aufgrund der intuitiven Oberfläche und der Office 365 Integration wir
 
 ![Microsoft Planner - Logo](Microsoft_Planner_PM_Tool/Microsoft%20Planner%20Logo.png)
 
+<img src="https://github.com/BeratGuen/ManagingProjectsSuccessfully.github.io/blob/main/kb/Microsoft_Planner_PM_Tool/Microsoft%20Planner%20Logo.png"  width="30" height="30">
+
 
 
 
