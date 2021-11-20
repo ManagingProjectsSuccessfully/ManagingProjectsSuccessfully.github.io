@@ -25,7 +25,7 @@ In nahezu allen Projekten kommt es im Laufe der Zeit zu sich veränderten Anford
 
 # 4. Unschärfe bereits zu Beginn des Projektes
 
-Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird bereits zu Beginn des Projektes Reserve in die Planung mit einbezogen. Dies führt allerdings zu neuen Missverständnissen. Durch den Einbezug von Reserve besteht von Anfang eine gewisse Unschärfe, welche im späteren Projektverlauf sogar noch zunehmen kann. Außerdem handelt es sich bei den Reservefaktoren vor allem um die Terminierung und Budgetierung des Projektes, weshalb es bei klassischen Projekten oftmals zu Verzögerungen und Kostensteigerungen kommen kann.[^1]
+Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird bereits zu Beginn des Projektes Reserve in die Planung mit einbezogen. Dies führt allerdings zu neuen Missverständnissen. Durch den Einbezug von Reserve besteht von Anfang eine gewisse Unschärfe, welche im späteren Projektverlauf sogar noch zunehmen kann. Außerdem handelt es sich bei den Reservefaktoren vor allem um die Terminierung und Budgetierung des Projektes, weshalb es bei klassischen Projekten oftmals zu Verzögerungen und Kostensteigerungen kommen kann.[^1][^2]
 * Punkteliste
   - mit unterpunkt
 
