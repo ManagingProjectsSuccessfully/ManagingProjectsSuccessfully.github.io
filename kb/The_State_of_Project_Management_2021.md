@@ -56,10 +56,9 @@ Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich w
 * Professionelle Software ist unausweichlich, sobald ein Unternehmen mehrere Projekte parallel oder im Jahr am laufen hat. Diese Art von Software kann oftmals auf das Unternehmen angepasst werden. Durch ein einheitliches Erscheinungsbild ist die Verwendung durch die Mitarbeiter einfach gestaltet, muss jedoch erstmals erlernt werden, wozu nicht alle Mitarbeiter bereit sind.
 * Web 2.0-Software bietet den Vorteil der ständigen Weiterentwicklung. So ist die direkte Kommunikation bspw. mit dem Stakeholdern ein Vorteil, gleichzeitig aber auch ein Nachteil, da Gruppierungen, welche sich gegen das Projekt aussprechen die nahezu gleiche Informationsbasis zugrunde liegen haben.
 
-
 4. Training & Support
 
-Establish training in methodology & practical PPM tools & techniques. Establish a PPM Community of practitioners, mentoring & carrer development.
+Die Beratung ermöglicht dem Unternehmen unterstüzende Hilfestellung im Bezug auf die Definiton der Projektgrenzen, -kontexte und -pläne sowie die Analyse sozialer und ökologischer Auswirkungen. Des Weiteren ist Berartung entscheidend bei der Implementierung von Investitonen, Software oder auch Auswahl des Auftragsgebers.
 
 # The Future of PMO & Work:
 
