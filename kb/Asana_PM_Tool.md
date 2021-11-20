@@ -21,7 +21,11 @@ Wird eine Aufgabe geöffnet, erscheint wie in Abbildung 1 ersichtlich, rechts ei
 
 Für die Projektmanager gibt es darüber hinaus die Möglichkeit unter dem Register Berichte, Dashboards anzulegen, um sich verschiedene Aspekte des Projektes visuell zu veranschaulichen [^3].
 
+
+![Abbildung 1: Benutzungsoberfläche bei Asana](Asana_PM_Tool/Benutzungsoberfläche_Asana.png)
 *Benutzungsoberfläche bei Asana*
+
+
 
 # Preiskategorien 
  Je nachdem welche Ansprüche ein Unternehmen an Asana hat, gibt es die Auswahl zwischen vier Preisvarianten: Basic, Premium, Business und Enterprise. Davon ist allerdings nur die Basic Variante, welche von bis zu 15 Teammitgliedern genutzt werden kann, kostenlos [^2] [^7].
