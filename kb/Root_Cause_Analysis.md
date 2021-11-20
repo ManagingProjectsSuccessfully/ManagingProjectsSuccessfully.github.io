@@ -2,13 +2,35 @@
 title: Root_Cause_Analysis
 tags: agil klassisch
 author: xyjaxy
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Bei der Root-Cause-Analysis geht es darum die zugrundeliegende Ursache eines Problems zu identifizieren. Konkret geht es darum, die Kernprobleme zu ermitteln, sowie deren Abhängigkeiten darzustellen.
+Die Root-Cause-Analysis (oder Fehler-Ursachen-Analyse) ist ein Instrument der Unternehmensführung, deren Ziel die Identifikation der Hauptursache eines Problems ist und daraus folgend langfriste Maßnahmen zur Fehlerreduzierung einzuleiten [^1]. Konkret geht es darum, die Kernprobleme zu ermitteln, sowie deren Abhängigkeiten darzustellen, um die gesamte Ursachen-Wirkungs-Reaktion nachzuvollziehen [^2].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Einordnung in Unternehmensgeschehen
+
+
+# Grundlegende Vorgehensweise
+Das Fundament der Analyse beruht darauf die Ursachen von Fehlern zu analysieren, wobei meist eine Gruppierung der Ursachen sinnvoll ist. Denn gemäß dem Paretoprinzip beruhen oft viele, unterschiedliche Fehler auf nur wenigen, gleichen Ursachen [^1]. Dementsprechend ist es effizienter zugrundeliegende Probleme zu verhindern anstelle der Symptome [^3].  Darauf aufbauend werden Maßnahmen zur Reduzierung der Fehler, sowie daraus resultierende Kosten. Dieser Prozess ist allerdings nicht nach einer einmaligen Durchführung beendet sondern besteht aus mehreren iterativen Durchläufen (vgl. Kontinuierlicher Verbesserungsprozess).
+
+# Schritte
+1. Problemidentifikation und -definition [^4]
+2. Zeitlichen Ablauf von normaler Situation zum Auftreten des Problem [^4]
+3. Unterscheidung zwischen Kernursache und anderen Faktoren (vgl. Kausalität vs. Korrelation) [^4]
+4. Darstellung des Kausaldiagramms (zwischen Kernursache und Fehler)[^4]
+
+# Grundprinzipien
+- Ursachenbehebung / -korrektur vor Symptombehandlung
+- Jedoch: Behandlung der Symptome für kurzfristige Lösungen
+- Mehrere Ursachen für ein Problem oder eine Ursache für mehrere Probleme
+- Leitfragen: WIE ist es passiert? WARUM ist es passiert?
+- Methodisches und analytisches Vorgehen relevant
+- Ausreichende Informationen als Belege für Kausalzusammenhänege und Basis für Korrekturmaßnahmen [^3]
+
+# Techniken und Werkzeuge
+## 5-Why-Methode
+## Änderungs- / Ereignisanalyse
+## Fischgrätendiagramm
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -97,8 +119,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: [Fehler-Usachen-Analyse](https://de.wikipedia.org/wiki/Fehler-Ursachen-Analyse)
+[^2]: [Was ist die Ursachenanalyse](https://asq.org/quality-resources/root-cause-analysis)
+[^3]: [Die Ursacheenanalyse](https://www.tableau.com/de-de/learn/articles/root-cause-analysis)
+[^4]: [Root cause analysis](https://en.wikipedia.org/wiki/Root_cause_analysis)
+
+[^3]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^5] Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 
