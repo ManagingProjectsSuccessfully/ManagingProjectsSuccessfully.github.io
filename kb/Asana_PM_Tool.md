@@ -25,6 +25,14 @@ Für die Projektmanager gibt es darüber hinaus die Möglichkeit unter dem Regis
  Je nachdem welche Ansprüche ein Unternehmen an Asana hat, gibt es die Auswahl zwischen vier Preisvarianten: Basic, Premium, Business und Enterprise. Davon ist allerdings nur die Basic Variante, welche von bis zu 15 Teammitgliedern genutzt werden kann, kostenlos [^2] [^7].
  
  
+ 
+|             |  Basic  |  Premium  |  Business  |  Enterprise  |
+|-------------|---------|-----------|------------|--------------|
+| Preis      |  0,00€  |   9,25€   |   18,75€   | auf Anfrage  |
+
+Preis bezieht sich auf pro Nutzer pro Monat [^2]
+ 
+ 
 
 
 # Siehe auch
