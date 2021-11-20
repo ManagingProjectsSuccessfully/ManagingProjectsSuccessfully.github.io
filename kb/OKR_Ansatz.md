@@ -67,7 +67,7 @@ Tabelle(gekürzt): [Projekte leicht gemacht](https://projekte-leicht-gemacht.de/
 Im Gegensatz zu OKRs bietet die SMART-Methode aber nicht mehr als eine Formulierungshilfe, während OKR ein ganzes Framework zur Ausrichtung strategischer Ziele implementiert[^6].
 
 # Bezug zum Projektmanagement
-Beim Management einzelner Projekte sollten diese an den OKRs ausgerichtet sein. Dies kann mithilfe von ausschließlich als OKR formulierter Projektziele samt regelmäßigem OKR-Zyklus gewährleistet werden, oder das vorhandene OKR-Framework eher als Leitlinie für das Projekt verstanden werden. Somit bietet der OKR-Ansatz für das Projektmanagement einen Rahmen zur Erreichung eines Objectives sowie zur Motiviation und Priorisierung. Außerdem hilft er bei der Definition klarer Ziele und messbarer Ergebnisse[^7].
+Beim Management einzelner Projekte sollten diese an den OKRs ausgerichtet sein. Dies kann mithilfe von ausschließlich als OKR formulierter Projektziele samt regelmäßigem OKR-Zyklus gewährleistet werden, oder aber man versteht das vorhandene OKR-Framework eher als Leitlinie für das Projekt. Somit bietet der OKR-Ansatz für das Projektmanagement einen Rahmen zur Erreichung eines Objectives sowie zur Motiviation und Priorisierung. Außerdem hilft er bei der Definition klarer Ziele und messbarer Ergebnisse[^7].
 
 # Siehe auch
 * [Projektmanagement](Projektmanagement.md)
