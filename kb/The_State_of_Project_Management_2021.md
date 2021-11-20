@@ -5,8 +5,6 @@ author: michaelstnt
 anrechnung: k 
 ---
 
-// Kurzbeschreibung zu The_State_of_Project_Management_2021 um ein erstes Verständnis dafür zu schaffen um was es hier geht. //
-
 "The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation [Wellingtone](https://wellingtone.co.uk/). In dem Bericht werden zahlreiche namenhafte Unternehmen [^1] aus verschiedenen Sektoren interviewet, um den aktuellen Probleme, Entwicklungen des Projektmanagement als auch Mehtoden und Ansätze für die Zukunft zu präsentieren, die wiederum Unternehmen dazu bewegen sollen ihre Prozesse im Projektablauf zu hinterfragen und mit neuen Techniken effizenter zu gestalten. 
 
 Im Allgemeinen zeichnet sich seit mehereren Jahren ab, dass beim Project Management über die Performance nachlässt und sowohl Durchführung als auch der Erfolg des Projekt zunehmend abnimmt. Durch die Analyse, Auswertung & Darstellung bestimmter Fragen wird die aktuelle Entwicklung dargestellt, Maturity Levels spiegeln Leistungen wieder und durch sogenannte Key Drivers wird beschrieben, welche Faktoren wichtig sind, damit das Projekt Management erfolgreich ist.[^2][^3]
@@ -38,7 +36,7 @@ Mit Hilfe der fünf Maturity Levels wird die Reife des Projekt Managements genau
 * Level 5: Optimierend
    - Alle Prozesse werden immer wieder betrachtet & verbessert, sodass ein Prozess kontinuierlicher Optimierung entsteht. Performance des eigentlichen Projekts und des PMO werden gemessen und fließen in die Entscheidungsgebung mit ein, wodurch Fehler vermieden werden können. [^11]
 
-# Key Drives:
+# Schlüsselfaktoren:
 
 1. Methodik:
 
@@ -63,32 +61,10 @@ Die Beratung ermöglicht dem Unternehmen unterstüzende Hilfestellung im Bezug a
 
 # Die Zukunft von Projektmanagement:
 
-Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in verschiedenen Situationen. So sind Halbleiter bis heute noch knapp und Wartezeiten von mehreren Monaten auf ein Auto sind mittlerweile Normaität. Daraus zeichnet sich ab, dass Flexibiltät und Resilienz entscheidene Faktoren im Allgemeinen sind. Begrifflichkeiten aus dem Projektmanagement werden immer bedeutender und öfters angewandt. So zeichnen sich Trends ab wie der Wunsch nach vollständiger Ressourcenplanung, dass feste Teams bessere Ergebnisse erzielen oder auch, dass klassische und agile Tools parallel betrieben werden sollen. [^12]
-Unsurprising given the impact of COVID-19. Only 38% see a headcount increase, but 57% seeing greater scope & responsibilities. This suggests a real need to increase productivity. Automation through PPM technology can play a key role in bridging this productivity gap.
+Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in verschiedensten Situationen. So sind Halbleiter bis heute noch knapp und Lieferverzögerungen sind mittlerweile Normaität. Daraus zeichnet sich ab, dass Flexibiltät und Resilienz entscheidene Faktoren sind. So zeichnen sich Trends ab wie der Wunsch nach vollständiger Ressourcenplanung, dass feste Teams bessere Ergebnisse erzielen oder auch, dass klassische und agile Tools parallel betrieben werden sollen. [^12] Darüberhinaus glauben 71%, dass Menschen mehr Projektmanagement Skills haben sollten und auch in Zukunft immer mehr Projekte mithilfe von Methoden des Projektmanagements erfolgen. [^2]
 
-71% believe people will need more project management skills and a similar number see increases in the use of collaboration tools.
 
-# Verschiedenste Aspekte:
-
-1. Begrifflichkeitserklärungen:
-   1. PMO
-   2. PPM
-2. Key Questions:
-3. Maturity Levels:
-   1. Initial --> Ad-Hoc
-   2. Repeatable --> Basisprozess
-   3. Standard processes
-   4. Managed
-   5. Process established for continuous improvement
-4. Transform Project Success:
-   1. Was sind die groessten Herausforderungen im Projektmanagement
-5. Key Drivers to PPM Maturity:
-   1. Methodology
-   2. PMO
-   3. Technology
-   4. Training & Support
-6. The Future of Work:
-
+________________________________________________________________________________________________________________
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
@@ -119,55 +95,6 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](The_State_of_Project_Management_2021/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
@@ -191,6 +118,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^10]: [Cpability Maturity Model](https://de.wikipedia.org/wiki/Capability_Maturity_Model)
 [^11]: [Projektmanagement Reifegrad] (https://quality-engineering.industrie.de/allgemein/projektmanagement-reifegrad-2/#slider-intro-1)
 [^12]: [Die 12 wichtigsten Projektmanagement-Trends 2021](https://www.theprojectgroup.com/blog/projektmanagement-trends/)
+
+
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
