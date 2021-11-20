@@ -5,12 +5,6 @@ author: medjeara
 anrechnung: k oder a
 ---
 
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
 Um ein Projekt bewerten zu können gehört dazu eine Abschlussanalyse, um festzustellen, ob das Projekt erfolgreich durchgeführt oder insgesamt das Ziel verfehlt wurde. 
 Die Abschlussanalyse wird wegen ihrer Zielsetzung, nur "Ist"-Informationen eines endgültigen Standes zugrunde zu legen, zumeist erst am Ende aller 
 Entwicklungsaufgaben durchgeführt[^1]. Dieser Beitrag soll aufklären, welche Inhalte für die Abschlussanalyse wichtig sind für die Bewertung des gesamten Projektes.
