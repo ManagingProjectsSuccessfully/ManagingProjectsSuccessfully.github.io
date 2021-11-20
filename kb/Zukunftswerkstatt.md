@@ -54,7 +54,7 @@ In der kreativsten Phase sind  Experimentierfreude und Neugierde sehr wichtig. D
 Die Ziele der letzten Phase beinhalten das Planen und Entscheiden. Man überprüft nun, ob die zuvor entwickelten Ideen umsetzbar sind. Schließlich beginnt die strategische Planung und die nächsten Schritte werden beschlossen. Methoden der letzten Phase sind beispielsweise Business Canvas, Aktionspläne oder das Ergebnis- und Strategiecafé [^4].
 
 
-![Beispielabbildung](https://i0.wp.com/jungk-bibliothek.org/wp-content/uploads/2017/12/jbz_zw_web_einzel-4.jpg?resize=580%2C336&ssl=1)
+![Beispielabbildung](/kb/Zukunftswerkstatt/Zukunftswerkstatt.webp)
 *Themen- und Anwendungsoffenheit*
 
 
