@@ -5,13 +5,25 @@ author: domirow-fau
 anrechnung: k
 ---
 
-Kurzbeschreibung zu OKR_Ansatz um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Der "Objectives-and-Key-Results-Ansatz" (kurz OKR) geht auf ein in den 1970er Jahren entwickeltes Konzept zurück, das eine Managementmethode aus qualitativen (Objective) und zugehörigen quantitativen (Key) Zielen implementiert[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Beschreibung der Methode
+## Grundlagen
+Die Basis des OKR-Ansatzes bildet der Strategieplanungsprozess. Hierbei werden klassisch die mittel- und längerfristigen Ziele des Unternehmens (Leitbild und Strategie) abgebildet. In Abgrenzung zu anderen Methoden werden in der konkreten Strategieumsetzung quartalsweise Zyklen definiert, in denen die OKRs von oben (Management) nach unten (einzelne Teams) geplant und aufeinander abgestimmt werden. Die Ziele sollen innerhalb des Zyklus umgesetzt und deren Erreichung regelmäßig überprüft werden[^1].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+![Das OKR-Framework](OKR_Ansatz/OKR-Framework.png)
 
+## Objectives
+Objectives sollen in einem Satz beschreiben, was im nächsten Zyklus erreicht werden soll und gleichzeitig alle Stakeholder begeistern [^2].
+Für die Definiton ist es wichtig, dass das Management sich auf die wichtigsten Ziele der kommenden Periode fokussiert, diese Initiativen dann in die einzelnen Teams trägt und so  alle Ebenen des Unternehmens klare Prioritäten vorgegeben bekommen, nach denen jede:r handeln möchte und handelt.
+Zur Evaluation werden am Ende Objectives und Key Results gegenübergestellt[^3].
+
+**Beispiele:**[^4]
+* "Unser Prozess der Software-Entiwcklung ist jetzt schneller, effizienter und hochwertiger, um zuverlässigere Produkte zu ermöglichen"
+* "Wir steigern das Vertrauen in uns, indem wir transparenter und persönlicher auftreten"
+* "Unsere Kunden wollen nicht auf Neuerungen warten, sondern diese schneller testen und im Alltag nutzen"
+
+## Key Results
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
@@ -97,8 +109,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Objectives and Key Results : Die Grundlagen der agilen Managementmethode OKR](https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6668403)
+[^2]: [The Art of the OKR](https://eleganthack.com/the-art-of-the-okr/)
+[^3]: [OKR: Objectives & Key Results: Wie Sie Ziele, auf die es wirklich ankommt, entwickeln, messen und umsetzen](https://www.beck-elibrary.de/10.15358/9783800657742/okr)
+[^4]: [9 OKR examples for different departments](https://www.workpath.com/magazine/okr-examples)
 
