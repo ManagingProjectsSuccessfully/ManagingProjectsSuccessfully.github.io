@@ -23,13 +23,19 @@ oben im Front-Matter (Bereich zwischen den `---`).
 [Tim Brown, Executive Chair: IDEO](https://de.wikipedia.org/wiki/Tim_Brown_(Designer))           
 
 <br />
-Design Thinking ist ein menschen-zentrierter Ansatz (Human-Centered Approach) für die Generierung von Lösungen und Innovationen, wobei es sowohl ein Denkansatz als auch ein Prozess-Modell ist. Das Design Thinking unterstützt bei der kreativen Betrachtung einer weiten Bandbreite an innovativen Lösungsmöglichkeiten. In der Praxis in Bezug auf Unternehmen heißt, dass das Design Thinking hilft Unternehmen dabei, die wahren Bedürfnisse und Wünsche ihrer Kunden zu bestimmen.
+Design Thinking ist ein menschen-zentrierter Ansatz für die Generierung von Lösungen und Innovationen, wobei es sowohl eine Denkweise als auch ein Prozess-Modell ist. Dabei ist es wichtig zuerst die wahren Bedürfnisse und Wünsche des Kunden zu bestimmen und mit einem Kreativprozess innovativen Lösungsmöglichkeiten zu finden.  Der Prozess ist hierbei nicht-linear und iterativ.
+
+## Denkweise
+Design Thinking hat eine flache Hierarchie und die Teammitglieder begegnen sich auf Augenhöhe. Dabei sind wichtige Einstellungen der Projektteilnehmer:
+
+* Akzeptanz von neuen Denkweisen
+* Scheitern als Chance sehen
+* Offenheit für das Unerwartete 
+
 
 ## Prozess Modell 
 
-Es existieren mehrere Vorgehensmodelle mit einer unterschiedlichen Anzahl an Schritten für den Prozess des Design Thinkings, im Folgenden wird eines der Standartmodelle nach dem Hasso-Plattner-Institut beschrieben.
-
-Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6 Phasen: Verstehen, Beobachten/Empathie, Sichtweise definieren, Ideen generieren, Prototypen, Testen. Der Prozess ist non-linear und iterativ.
+Es existieren mehrere Vorgehensmodelle mit einer unterschiedlichen Anzahl an Schritten für den Prozess des Design Thinkings, im Folgenden wird eines der Standartmodelle, nachdem Hasso-Plattner-Institut beschrieben, das aus 6 Phasen (siehe Bild) besteht: 
 
 
 ![Beispielabbildung](Design_Thinking/design_Thinking_Bild1.png)
@@ -39,34 +45,37 @@ Der Design Thinking Prozess nach Hasso-Plattner-Institut besteht aus den 6 Phase
 <br />
 
 ### Phase 1: Verstehen 
-Im ersten Schritt wird die Ausgangssituation definiert und sichergestellt, dass alle beteiligten Personen sich auf demselben Wissensstand befinden. Mögliche Standardfragen mit denen Probleme definiert werden können sind: Was soll neu entwickelt werden? Für wen soll die Entwicklung relevant sein? Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? Welcher Endzustand soll durch die Lösung erreicht werden?[^3]
+Im ersten Schritt wird die Ausgangssituation definiert und sichergestellt, dass alle beteiligten Personen sich auf demselben Wissensstand befinden. Mögliche Standardfragen mit denen Probleme definiert werden können sind:
+* Was soll neu entwickelt werden?
+* Für wen soll die Entwicklung relevant sein? 
+* Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? 
+* Welcher Endzustand soll durch die Lösung erreicht werden?[^3]
 
 ### Phase 2: Beobachten
-Im Schritt des Beobachtens geht es darum, die Ziele, die Bedürfnisse sowie die Prioritäten der Kunden zu analysieren und zu verstehen. Wichtig ist es hierbei den Kunden reden zulassen und genau zuzuhören, um Missverständnisse zu vermeiden.
+Im Schritt des Beobachtens geht es darum, die Ziele, die Bedürfnisse sowie die Prioritäten der Kunden zu analysieren und zu verstehen. Wichtig ist es hierbei den Kunden zu interviewen. Hierbei können die Interviewtechniken von strukturiert bis unstrukturiert reichen, um ein tieferes Verständnis der Kundenbedürfnisse zu erlangen. Dazu gehört auch das aktive Zuhören, um Missverständnisse zu vermeiden.
 
 ### Phase 3: Sichtweisen definieren 
-In diesem Schritt erfolgt die Synthese der ersten beiden Schritte. Das Ziel hierbei ist es auf Basis der der gesammelten Annahmen und Beobachtungen einen konzeptionellen Rahmen zu entwickeln und den Lösungsraum abzustecken. Es sollen dabei die Kernbedürfnisse der Nutzer interpretieren und formuliert werden.  (Es gibt  mehrere Techniken um dies zuerreichen, ein Beispiel wäre die Point-of-View Technik.)
+In diesem Schritt erfolgt die Synthese der ersten beiden Schritte. Das Ziel hierbei ist es auf Basis der der gesammelten Annahmen und Beobachtungen einen konzeptionellen Rahmen zu entwickeln und den Lösungsraum abzustecken. Es sollen dabei die Kernbedürfnisse der Nutzer interpretiert und formuliert werden.
 
 ### Phase 4: Ideen finden
 In der vierten Phase werden mit Hilfe von Kreativitätstechniken, wie z.B. [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapping.md) und [6_3_5 Methode](
-6_3_5_Methode.md ) Ideen gesammelt. Die Ideen können dabei auch sehr abstrakt und ausgefallen sein. Die Ergebnisse werden dann nach der Effizienz, der Machbarkeit und Wirtschaftlichkeit bewertet und sortiert. Es werden dann anhand dieser Priorisierung Ideen ausgewählt mit denen weitergearbeitet werden soll.
+6_3_5_Methode.md ) Ideen gesammelt. Die Ideen können dabei auch sehr abstrakt ausfallen. Die Ergebnisse werden dann nach der Effizienz, der Machbarkeit und Wirtschaftlichkeit bewertet und priorisiert. Die besten Ideen werden dann weiterverfolgt.
 
 ### Phase 5: Prototypen entwickeln 
-In dieser Phase werden für die ausgewählten Ideen Prototypen gebaut, damit die ausgedachten Konstrukte anschaulicher werden und Annahmen getestet werden können. Es ist dabei nicht wichtig, ob die Prototypen perfekt sind. Es wichtiger das Sachen kreativ und so einfach wie möglich angegangen werden. 
-Techniken die bei dem erstellen der Prototypn zum Einsatz kommen sind: 
+In dieser Phase werden für die ausgewählten Ideen Prototypen gebaut, damit die ausgedachten Konstrukte anschaulicher werden und Annahmen getestet werden können. Diese Prototypen haben meist nur eingeschränkte Funktionalität und werden oft mit einfachen Materialien gefertigt.
 
 ### Phase 6: Testen 
-Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden nun unter der Einbindung der Kunden und Interessensvertreter weiter validiert und getestet. Das Ziel hierbei ist es nicht den Kunden von den Prototypen zu überzeugen, sondern vor allem das [Feedback](Feedbackgespräche.md) und die Reaktion der Kunden zu analysieren, denn diese sind ein wichtiger Bestandteil, um weitere Ideen und Verbesserungen zu generieren. Wichtig in diesem Schritt ist, dass das die Personen, die das Design Thinking durchgeführt haben, bereit sind neue Ideen anzunehmen, um die Prototypen weiterzuentwickeln und gegeben falls auch nicht funktionierende Prototypen wieder zu verwerfen. Es kann auch zu mehreren Design Thinking-Durchläufen kommen, bis der Kunde und die Entwickler zufrieden sind mit dem Endprodukt. 
+Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden nun unter der Einbindung der Kunden weiter validiert und getestet. Das Ziel hierbei ist es nicht den Kunden von den Prototypen zu überzeugen, sondern vor allem [Feedback](Feedbackgespräche.md) zu erhalten und zu analysieren. Daraus werden weitere Ideen und Verbesserungen generiert und es soll frühzeitig erkannt werden, ob die Innovation den Kundenbedürfnissen entspricht. Gegeben falls werden auch nicht funktionierende Prototypen verworfen. Es kann auch zu mehreren Design Thinking-Durchläufen kommen, bis der Kunde und die Entwickler zufrieden sind mit dem Endprodukt. 
 
 # Vor- und Nachteile
 
 | Vorteile des Design Thinkings|  Nachteile des Design Thinkings |
 | ----------------------------- | ------------------------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-
+| Schnellere Entwicklungsprozesse | Die richtigen Rahmenbedingungen müssen gegeben sein  |
+| Nutzerzentriertes handeln  | Keine Ergebnissicherheit bei der Produktentwicklung  |
+| Aktives einbinden der Kunden in den Prozess | Nicht geeignet für große Teams (>10 Mitarbeiter) |
+| Ausschöpfen des kreativen Potentials von Mitarbeitern  | / |
+| Unterstützung von Positive Fehlerkultur  | / |
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
