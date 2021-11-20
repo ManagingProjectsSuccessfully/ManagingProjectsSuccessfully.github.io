@@ -20,7 +20,7 @@ Die Relevanz von Arbeitspaketen wird dabei oft unterschätzt. Das ganze Projekt 
 
 *Veranschaulichung der wichtigen Arbeitspakete*
 
-# Größe und Inhalt von Action Points
+## Größe und Inhalt von Action Points
 
 Um ein Arbeitspaket transparent und unkompliziert zu gestalten, ist die Definition der Größe und des Inhaltes entscheidend. 
 Für die Definition der Größe gibt es verschiedene Möglichkeiten. Zum einen bietet die Prozent-Regel eine schnelle Orientierung.
@@ -35,7 +35,7 @@ Der Inhalt der Arbeitspakete muss individuell auf das Projekt angepasst werden. 
 
 Ebenfalls ist es auch wichtig, für wen dabei die Arbeitspakete erstellt werden. Schreibt man ein Arbeitspaket für sich selbst, sind nur wenige Stichpunkte bzw. Notizen notwendig. Wird das Arbeitspaket einem direkten Mitarbeiter übergeben, sind mehr Informationen über die durchzuführenden Tätigkeiten notwendig. Die höchste Informationsdichte fällt bei einer externen Beauftragung an. Da ein externer Dienstleister sich im Vorfeld nicht mit dem Projekt auseinander setzten konnte, ist ein genaues Verständnis der Tätigkeiten relevant. Dabei muss bei einer externen Vergabe auch an mögliche Geheimhaltungen geachtet werden.
 
-# Projektstrukturplan
+## Projektstrukturplan
 
 Die Grundlage für die Visualisierung des Projektes bildet der Projektstrukturplan (PSP). Der Projektstrukturplan definiert das Projektziel. Der Aufbau des Projektstrukturplans ist, wie bereits in der Einleitung beschrieben, hierarchisch geordnet. Die Arbeitspakete bilden dabei die letzte Instanz. Der Projektstrukturplan kann nach drei Methoden entworfen werden:
 
