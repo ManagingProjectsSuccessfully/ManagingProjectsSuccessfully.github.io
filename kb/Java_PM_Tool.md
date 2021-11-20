@@ -5,11 +5,15 @@ author: AbderrahmaneBennani
 anrechnung: a
 ---
 
-**Java** ist eine objektorientierte Programmiersprache und eine eingetragene Marke des Unternehmens [Sun Microsystems](https://de.wikipedia.org/wiki/Sun_Microsystems), welches 2010 von [Oracle](https://de.wikipedia.org/wiki/Oracle) aufgekauft wurde. Die Programmiersprache ist ein Bestandteil der Java-Technologie – diese besteht grundsätzlich aus dem Java-Entwicklungswerkzeug ([JDK](https://de.wikipedia.org/wiki/Java_Development_Kit)) zum Erstellen von Java-Programmen und der Java-Laufzeitumgebung ([JRE](https://de.wikipedia.org/wiki/Java-Laufzeitumgebung)) zu deren Ausführung.
-
-
+Im Folgenden wird beschrieben, wie man Java tools um Projekte agile zu managen.
 # Java Project Management Tools
 
+**Java** ist eine objektorientierte Programmiersprache und eine eingetragene Marke des Unternehmens
+[Sun Microsystems](https://de.wikipedia.org/wiki/Sun_Microsystems), welches 2010 von
+[Oracle](https://de.wikipedia.org/wiki/Oracle) aufgekauft wurde. Die Programmiersprache ist ein Bestandteil der 
+Java-Technologie – diese besteht grundsätzlich aus dem Java-Entwicklungswerkzeug
+([JDK](https://de.wikipedia.org/wiki/Java_Development_Kit)) zum Erstellen von Java-Programmen und der
+Java-Laufzeitumgebung ([JRE](https://de.wikipedia.org/wiki/Java-Laufzeitumgebung)) zu deren Ausführung.[^5]
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
