@@ -33,12 +33,14 @@ Der Grund für die Mehrdimensionalität der Key Results ist die Vermeidung von Z
    * Von der Idee zum Release vergehen 4 Wochen weniger
    * Die durchschnittliche Anzahl von Bugs pro Feature darf zwei nicht übersteigen
 
+
 * **Objective:** "Wir steigern das Vertrauen in uns, indem wir transparenter und persönlicher auftreten"
 * **Key Results:**
    * Die Vertrauensrate im Team wird um 10% gesteigert
    * Die Anzahl ausgetauschter Nachrichten soll um 10% gesteigert werden
    * Bei Anfragen haben wir nicht weniger als acht Berührungspunkte
    * 70% der Angestellten nehmen an Team-Aktivitäten teil
+
 
 * **Objective:** "Unsere Kunden wollen nicht auf Neuerungen warten, sondern diese schneller testen und im Alltag nutzen"
 * **Key Results:**
