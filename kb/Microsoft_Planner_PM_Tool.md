@@ -40,6 +40,8 @@ Seitens Microsoft wird der Planner für kleinere Teams und kurzweilige Projekte 
 
 # Anwendungsbereiche
 Der Microsoft Planner wird besonders aufgrund der intuitiven Oberfläche und der Office 365 Integration in vielen Unternehmen eingesetzt.[^3]
+
+
 ## Verwendung zur klassischen Aufgabenverwaltung
 
 ## Verwendung als KANBAN-Board [Link] 
@@ -56,7 +58,7 @@ Der Microsoft Planner wird besonders aufgrund der intuitiven Oberfläche und der
 [^1]: [Microsoft Planner - Wikipedia EN](https://en.wikipedia.org/wiki/Microsoft_Planner)  
 [^2]: [Microsoft 365 - Wikipedia EN](https://en.wikipedia.org/wiki/Microsoft_365)  
 [^3]: [Microsoft Planner - Microsoft.com](https://www.microsoft.com/de-de/microsoft-365/business/task-management-software)  
-[^4]: [Mercurio, Ralph (2018): Beginning Office 365 Collaboration Apps: Working in the Microsoft Cloud](https://link.springer.com/book/10.1007%2F978-1-4842-3849-3)  
+[^4]: [Mercurio, Ralph (2018): Beginning Office 365 Collaboration Apps: Working in the Microsoft Cloud](https://link.springer.com/book/10.1007%2F978-1-4842-3849-3) ^
 [^5]: [Microsoft Planner – was ist das und was kann er?](https://www.theprojectgroup.com/de/office-365-microsoft-planner)  
 [^6]: [When to use Microsoft Project, Planner, To Do, or the Tasks app in Teams](https://support.microsoft.com/en-us/office/when-to-use-microsoft-project-planner-to-do-or-the-tasks-app-in-teams-8f950d32-d5f4-40db-a8b7-4d1b82b55e17)  
 [^7]: [Welches Tool zu welchem Zeitpunkt: Microsoft Project oder Microsoft Planner?](https://www.avepoint.com/blog/de/avepoint-blog-de/microsoft-project-oder-planner/)  
@@ -64,7 +66,7 @@ Der Microsoft Planner wird besonders aufgrund der intuitiven Oberfläche und der
 #
 
 
-<!--Kurzbeschreibung zu Microsoft_Planner_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+<!-Kurzbeschreibung zu Microsoft_Planner_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`). 
