@@ -23,7 +23,7 @@ Für die Projektmanager gibt es darüber hinaus die Möglichkeit unter dem Regis
 
 
 ![Abbildung 1: Benutzungsoberfläche bei Asana](Asana_PM_Tool/Benutzungsoberfläche_Asana.png)
-*Benutzungsoberfläche bei Asana*
+*Abbildung 1: Benutzungsoberfläche bei Asana* [^8]
 
 
 
