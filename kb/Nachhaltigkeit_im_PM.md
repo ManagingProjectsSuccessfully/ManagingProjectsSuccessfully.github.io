@@ -38,7 +38,7 @@ Nachteile
 # Beispiele für Nachhaltigkeit im Projektmanagement anhand des Drei-Säulen-Modells
 
 Nachhaltige Projekte sind zukunftsorientierte und langfristige Projekte. Dementsprechend leistet nachhaltiges Projektmanagement auf langer Sicht
-einen Beitrag zum Unternehmenserfolg und zum Erhalt einer zukunftsfähigen Wirtschaft und Umwelt.[^5]
+einen Beitrag zum Unternehmenserfolg und zum Erhalt einer zukunftsfähigen Wirtschaft und Umwelt.[^5][^7]
 
 <img src=/kb/Nachhaltigkeit_im_PM/Drei-Säulen-Modell.png width=300/>
 
@@ -99,3 +99,4 @@ Diese Methode der Nachhaltigkeit reduziert die Menge an Energie und Ressourcen, 
 [^4]: [Nachhaltigkeit im Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-658-20500-3.pdf) (S. 109f.)
 [^5]: [Nachhaltiges Projektmanagement](https://www.inloox.de/unternehmen/blog/artikel/nachhaltiges-projektmanagement/)
 [^6]: [Project Sustainability: Overview of Sustainability in Project Management](https://www.researchgate.net/publication/317233730_Sustainable_Development_An_Overview) (S.8f.)
+[^7]: [Drei Säulen der Nachhaltigkeit: Ökologie, Wirtschaft und Soziales](https://utopia.de/ratgeber/drei-saeulen-der-nachhaltigkeit-modell/)
