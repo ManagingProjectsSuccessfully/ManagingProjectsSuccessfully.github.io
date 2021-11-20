@@ -45,7 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Hackathon/test-file.jpg)
+![Beispielabbildung](Hackathon/D20Ek7-X0AA-V20.jpg)
 
 *lustiges Testbild*
 
