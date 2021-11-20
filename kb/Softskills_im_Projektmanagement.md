@@ -46,7 +46,7 @@ Innovationsfähigkeit heißt für Projektteams den Horizont zu erweitern und das
 
 
 
-![Beispielabbildung](https://docplayer.org/docs-images/44/273268/images/page_5.jpg)
+![Beispielabbildung](/kb/Softskills_im_Projektmanagement/Softskills.jpg)
 
 *Bedeutung der soft Skills*
 
