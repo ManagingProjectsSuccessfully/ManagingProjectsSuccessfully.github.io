@@ -10,54 +10,51 @@ anrechnung: k
 Das Stakeholder Register dient als Werkzeug für die Projektplanung.
 Dabei handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben. [^0]
 
-Das Register wird früh im Planungsprozess von Projektmanagern angelegt und während der gesamten Lebensdauer des Projekts auf dem neuesten Stand gehalten. [^0]
-
 <!-- Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut oben im Front-Matter (Bereich zwischen den `---`). Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht. -->
 
-# Gestalt des Registers
+# Vorgehensweise
 
-Unabhängig von der Größe des Unternehmens sollte sich jeder Projekt Manager aufgrund der Individualität des Stakeholder Managements selbstständig ein eigenes Register anfertigen. [^1]
+Das Register wird früh im Planungsprozess von Projektmanagern angelegt. [^0] 
+Grundsätzliche erfolgt die Erstellung eines Registers in den folgenden drei Schritten: [^1]
+
+## Identifizierung der Stakeholder 
+
+Zunächst müssen die Stakeholder ausfindig gemacht werden. Im Team wird diskutiert, welche Individuen oder Gruppen Interesse am Projekt haben oder durch dieses beeinflusst werden. 
+Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, sodass das Dokument stets auf dem neuesten Stand gehalten werden muss. [^1]
+
+## Erstellen des Registers
+
+Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird häufig Microsoft Excel benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt das Register Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2] 
+
+Unabhängig von der Größe des Unternehmens sollte sich jeder Projekt Manager aufgrund der Individualität des Stakeholder Managements selbstständig ein eigenes Register anfertigen. Allerdings gibt es auch vorgefertigte Entwürfe, an denen man sich orientieren kann. [^1]
 
 Im Folgenden sind die gängigsten Kategorien aufgelistet [^1]:
 
 * Name des Stakeholders
 * Art von Stakeholder
-* Intern/ Extern
+* Interne oder Externe
+* Verbindungen oder Abhängigkeiten der Stakeholder
 * Rolle im Projekt
 * Interessen am Projekt
 * Anforderungen an das Projekt
 * Einfluss auf das Projekt
-* Bevorzugte Kommunikation
-* Strategien 
+* Bevorzugte Art & Häufigkeit der Kommunikation
+* Strategien
 
-# Erstellen eines Registers
+Weitere Leitsätze, die zur Erstellung des Registers wichtig zu beachten sind:
 
-Die Erstellung eines Registers erfolgt in den folgenden drei Schritten. [^1]
-
-1. Identifizierung der Stakeholder
-2. Erstellen des Registers
-3. Analyse der Stakeholder
-
-Zur Erstellung des Registers wird häufig Microsoft Excel benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt das Register Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2]
-
-Folgende Generell sollte man sich folgende Fragen zur Erstellung stellen:
-
-* Wie viele Stakeholder sind am Projekt beteiligt?
-* Wie kann jeder Stakeholder kontaktiert werden?
-* Welche Stakeholder beeinflussen das gesamte Projekt?
-* Welche Stakeholder beeinflussen bestimmte Segmente des Projekts und warum?
-* Welche Art von Kommunikation bevorzugt jeder Stakeholder?
-* Wie oft sollte jeder Stakeholder kontaktiert werden?
-* Gibt es Verbindungen oder Abhängigkeiten unter den Stakeholdern?
-
-Weiterhin gibt es Tipps, die zur Erstellung des Registers wichtig zu beachten sind:
-* Bevor das Register erstellt wird: Fragen, die du von deinen Stakeholdern beantwortet haben willst, sollten im Voraus klar sein
+* Fragen, die du von deinen Stakeholdern beantwortet haben willst, sollten im Voraus klar sein, bevor das Register erstellt wird.
 * Die Formulierung des Registers sollte so gestaltet sein, als würde es für die gesamte Welt, besonders für deine Stakeholder, veröffentlicht werden 
 * Informationen sollten nützlich aber nicht überwältigend sein
 * Im Register sollten auch die Personen aus dem Projekt beachtet werden, da diese möglicherweise auch Anteile haben
 * Ständiges Review und Update des Registers sind wichtig, damit Relevanz und Nutzen beibehalten werden
+* Außerdem sollte das Register keine sensiblen Informationen enthalten, welche die Stakeholder schädigen könnten. 
 
-Außerdem sollte das Register keine sensiblen Informationen enthalten, welche die Stakeholder schädigen könnten. Das Dokument sollte mit anderen Projektdokumentationen aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein. 
+Das Dokument sollte mit anderen Projektdokumentationen aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein.
+
+## Analyse der Stakeholder
+
+Zuletzt wird das Register mit den nötigen Daten ausgefüllt. Die Informationen können dabei direkt von den Stakeholdern angefordert werden
 
 # Vorteile eines Registers
 
