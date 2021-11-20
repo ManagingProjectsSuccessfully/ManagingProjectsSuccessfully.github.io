@@ -51,6 +51,10 @@ Das Projektmanagement Office, kurz PMO, betreut alle Projekte eines Unternehmens
 
 Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich wiederrum auf die Wirtschaftlichkeit der Projekte auswirkt. Zu den Tools gehören unter anderem die Verwendung von Software zum Termin- und Kostenüberblick, Know-How-Datenbanken und eine einfachde Kommunikation via Skype, Teams oder ähnlichen. Je nach größe des Unternehmens und Anzahl der durchgeführten Projekte im Jahr kommt es zum Einsatz verschiedener Software. Hierzu gehören die Folgenden: 
 
+* Allgemeine Software ist oftmals hinderlich im Bezug auf die Möglichkeit der Nutzung. Dies ist vor allem bei Grafiken ersichtlich. Im Hinblick auf die Verwendbarkeit der Software von Mitarbeiter gibt es nicht viel zu beachten, da es sich hierbei um Office-Anwendungen wie Excel oder Teams handelt. 
+* Freeware-Software bietet vor allem die Möglichkeit der grafischen Darstellung übersichtlicher darzustellen und sind einfach in das Projektmanagement mit einzubinden. Jedoch sollte hier vorsicht gewaltet werden, da vertrauliche und sensible Daten gerade bei cloud-basierten Sofware von externen Dritten abgeriffen werden können. 
+* 
+
 4. Training & Support
 
 Establish training in methodology & practical PPM tools & techniques. Establish a PPM Community of practitioners, mentoring & carrer development.
