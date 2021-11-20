@@ -1,64 +1,37 @@
 ---
 title: Megatrends
-tags: agil klassisch
+tags: agil
 author: SaskiaHe 
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Megatrends um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Megatrends im Projektmanagement sind Veränderungen, mit denen sich ein Projektmanager auseinandersetzen muss, um seine Projekte trotz diesen Herausforderungen erfolgreich abschließen zu können. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Megatrends im Projektmanagement im Jahr 2021
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Die Corona-Pandemie bewirkt, dass es immer mehr Projekte gibt. Deswegen ist es immer wichtiger sich mit den neuen Trends zu beschäftigen und diese zu meistern.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## 1. Ressourcenplanung
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Um ein Projekt erfolgreich zu managen, ist die perfekte Anzahl an Mitarbeitern essenziell. Zu viele Mitarbeiter können ein Projekt schnell unübersichtlich machen. Dies kann bewirken, dass manche Mitarbeiter möglicherweise unterfordert sind.
+Bei zu wenigen Mitarbeiten kann es geschehen, dass Deadlines nicht eingehalten werden können und die Mitarbeiter durch zu viel Stress demotiviert werden. Auch sollten Mitarbeiter nach ihren Fähigkeiten eingesetzt werden und für ihre Aufgaben eine interne Deadline haben, damit sich das Projekt positiv entwickelt. Insgesamt ist es wichtig, dass der Projektmanager weiß, wie viele Mitarbeiter gerade an einem Projekt arbeiten, wie viele Anlagen eingesetzt sind und auf welchem Stand sie sind.
 
 ![Beispielabbildung](Megatrends/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
+## 2. Digitalisierung 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Die Technologien entwickeln sich immer weiter fort. Es kommt ständig neue Software auf den Markt. Doch es ist sinnvoll sich genau über diese zu informieren und abzuschätzen ob diese Software auch für das eigene Projekt geeignet wäre.
+Durch das Fortschreiten der Technologie ist das klassische Projektmanagement allein nicht mehr zeitgemäß. Daher sollte das agile Projektmanagement mit der Digitalisierung verknüpft werden. Ein gutes Beispiel hierfür das [KANBAN](Kanban.md).
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## 3. Change – und [Risikomanagement](kb/Risikomanagement.md)
+
+Wie auch schon unter dem Punkt Digitalisierung erwähnt, erfolgt ein ständiger Wandel. Als Projektmanager muss man auch lernen, mit Veränderungen umzugehen, diese zu beschleunigen oder aber auch zu reduzieren. Das [Changemanagement](Change_Management.md) gibt eine gute Auskunft hierrüber.
+
+Durch SOPs kann man sehen, in welchen Bereichen Veränderungen vorgenommen werden sollten.
+Durch die Pandemie werden immer mehr „smarte Unternehmen“ gegründet, welche den Wettbewerbsmarkt anregen. Man sollte die Risiken immer im Blick haben, diese bearbeiten und im besten Fall beseitigen. Durch das Reduzieren der Risiken entstehen weniger Fehler. Dadurch kann eine höhere Kundenzufriedenheit gewährleistet werden.
+
 
 So kann man eine Tabelle erstellen:
 
@@ -67,23 +40,18 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## 4. Gig-Economy und Remote Teams
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Gig-Economy wird im Zeitalter der neuen Technologien immer beliebter. Es ist sinnvoll, kleine Aufgaben, die auch extern bearbeitet werden können, auszusourcen. So können diese Aufgaben meist günstiger und auch schneller bearbeitet werden und die internen Mitarbeiter können sich besser auf ihre Aufgaben konzentrieren.
 
-### Ebene-3-Überschrift
+Remote-Work ist seit Beginn der Pandemie 2020 sehr beliebt geworden. Remote Work oder auch Homeoffice kann nicht nur von internen, sondern auch von externen Mitarbeitern, welche möglicher Weise auch im Ausland tätig sind, wahrgenommen werden. Das Knowledge-Sharing wird dadurch gut gefördert. Auch für die Kommunikation ist es einfacher geworden. Der Projektmanager hat einen besseren Überblick über seine Mitarbeiter. Er kann den Status aller Projekte und Mitarbeiter im Auge behalten. So kann er gut sehen, welche Mitarbeiter noch freie Kapazitäten haben und ob eventuell noch weitere Projekte bearbeitet werden können.
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## 5. Datenmengen
 
-# Aspekt n
+Aufgrund der hohen IT-Anbindungen fallen immer mehr Daten an. Diese Daten benötigen zum einem viel Energie zum Speichern. Zum anderem stellt es viele Projektmanager vor eine große Herausforderung, da diese Daten auch verwaltet werden müssen. Dies nimmt viel  
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Zeit in Anspruch, hilft aber andererseits beim Vereinfachen der Projekte. Technologien mit großen Datenmengen, die Handhabung und die Kommunikation innerhalb eines Projektes stellen dabei die größten Hürden dar.
+
 
 
 # Siehe auch
