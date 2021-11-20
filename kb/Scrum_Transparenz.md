@@ -7,7 +7,13 @@ anrechnung: a
 
 Scrum-Transparenz (in englisch ,,Scrum Transparency“) bildet eine der drei Hauptsäulen von [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md), neben [Scrum-Überprüfung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Ueberpruefung.md) (engl.,, Scrum Inspection“) und [Scrum-Anpassung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Anpassung.md) (engl. ,,Scrum Adaption“). Dabei handelt es sich um die offene Kommunikation und das Teilen von Wissen, sowohl innerhalb, als auch außerhalb des Teams [^1].
 
-![Bild](ManagingProjectsSuccessfully.github.io/kb/Scrum_Transparenz/Bild.png)
+<p align="center">
+  <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Transparenz/Bild.png"/>
+</p>
+
+<p align="center">
+ Bild.1: Die drei SCRUM Säulen
+</p>
 
 # Inhaltsverzeichnis 
 
@@ -73,5 +79,5 @@ Zusammenfassend lässt sich sagen, dass Scrum-Transparenz eine wichtige Vorausse
 [^2]:  Schönfeld, Patrik (2020) :,,Die drei Säulen von Scrum » : https://chaosverbesserer.de/blog/2019/09/23/die-drei-saeulen-von-scrum/
 [^3]: Doshi, Hiren: The Three Pillars of Empiricism (Scrum) | Scrum.org : https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum
 [^4]: Reinold, Daniel: Daily Scrum - kurz erklärt [Varianten & Tipps]: https://www.projektmagazin.de/methoden/daily-scrum
-Bild: Scrum-Säulen: https://verovis.com/agiles-projektmanagement-mit-scrum/
+[^5]: Bild 1: Scrum-Säulen: https://verovis.com/agiles-projektmanagement-mit-scrum/
 
