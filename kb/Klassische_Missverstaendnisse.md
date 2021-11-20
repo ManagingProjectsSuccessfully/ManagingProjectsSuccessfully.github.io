@@ -5,10 +5,10 @@ author: ux49azap
 anrechnung: k
 ---
 # 1. Missverständnisse im klassischen Projektmanagement
-Bei der falschen Anwendung des klassischen [Projektmanagements](Projektmanagement.md) kann es schnell zu Missverständnissen kommen, welche einen großen Einflussfaktor auf die Erfolgswahrscheinlichkeit des jeweiligen Projektes haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
+Bei der falschen Anwendung des klassischen [Projektmanagements](Projektmanagement.md) kann es schnell zu Missverständnissen kommen, welche einen großen Einflussfaktor auf die Erfolgswahrscheinlichkeit des jeweiligen [Projektes](Projekt.md) haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
 
 # 2. Ursache der Missverständnisse
-Das traditionelle Projektmanagement beruht auf einem monolithischen Ansatz, bei welchem bereits zu Beginn der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, Termine und Ressourcen festgelegt.[^1][^2]  Durch diesen standardisierten Vorgang entstehen im Laufe des Projekts allerdings gleich mehrere Missverständnisse.
+Das traditionelle Projektmanagement beruht auf einem monolithischen Ansatz, bei welchem bereits zu [Projektstart](Projektstart.md) der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, Termine und Ressourcen festgelegt.[^1][^2]  Durch diesen standardisierten Vorgang entstehen im Laufe des Projekts allerdings gleich mehrere Missverständnisse.
 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 
@@ -30,9 +30,8 @@ Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird berei
   - mit unterpunkt
 
 # 5. Hier eine Ebene-2-Überschrift unter Aspekt 2
-Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum agilen Projektmanagement gibt es keine kleineren Aufgabenblöcke, die früh zu nutzbaren Ergebnissen oder überprüfbaren Prototypen führen. Es entstehen somit auch nicht regelmäßig Zwischenprodukte, welche durch kontinuierliche Anpassungsprozesse überprüft und verbessert werden können (sog. Sprints beim agilen Projektmanagementmodell Scrum). 
-Stattdessen werden einzelne größere Projektphasen nacheinander und nicht parallel abgearbeitet. Die komplexeren Arbeitsblöcke lassen sich schwerer verwalten, wodurch 
-ein deutlich höheres Risiko für Fehlentscheidungen entsteht. Außerdem geht der Motivationsaspekt für das arbeitende Team verloren, da beim klassischen Projektmanagement kein frühzeitig nutzbarer Mehrwert entsteht.[^4]
+Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum agilen Projektmanagement gibt es keine kleineren Aufgabenblöcke, die früh zu nutzbaren Ergebnissen oder überprüfbaren Prototypen führen. Es entstehen somit auch nicht regelmäßig Zwischenprodukte, welche durch kontinuierliche Anpassungsprozesse überprüft und verbessert werden können (sog. Sprints beim agilen Projektmanagementmodell [SCRUM](SCRUM.md)). 
+Stattdessen werden einzelne größere [Projektphasen](Projektphasen_klassisch.md) nacheinander und nicht parallel abgearbeitet. Die komplexeren Arbeitsblöcke lassen sich schwerer verwalten, wodurch ein deutlich höheres Risiko für Fehlentscheidungen entsteht. Außerdem geht der Motivationsaspekt für das arbeitende Team verloren, da beim klassischen Projektmanagement kein frühzeitig nutzbarer Mehrwert entsteht.[^4]
 
 So kann man eine Tabelle erstellen:
 
@@ -43,12 +42,12 @@ So kann man eine Tabelle erstellen:
 
 ## 5.1 Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Eng damit verknüpft ist die Rückmeldung an den Kunden. Im Gegensatz zu agilen Projekten können dem Kunden keine Zwischenprodukte oder –ergebnisse präsentiert werden.[^3] Dadurch geht entscheidendes Feedback im Projektverlauf verloren, welches für die weiteren Prozessschritte hätte berücksichtigt werden können. Stattdessen werden die Projektergebnisse 
+Eng damit verknüpft ist die Rückmeldung an den Kunden. Im Gegensatz zu agilen Projekten können dem Kunden keine Zwischenprodukte oder –ergebnisse präsentiert werden.[^3] Dadurch gehen entscheidende [Feedbackgespräche](Feedbackgespräche.md) im Projektverlauf verloren, welches für die weiteren Prozessschritte hätte berücksichtigt werden können. Stattdessen werden die Projektergebnisse 
 am Ende einer Projektphase oder sogar erst am Ende des Projekts bereitgestellt. Somit haben die Anspruchsgruppen so gut wie keinerlei Einfluss während des Projektes, wodurch wiederum neue Missverständnisse entstehen. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben wodurch umfangreiche nachträgliche Anpassungen notwendig werden.[^5]
 
 # 6. Unverhältnismäßige Rahmenbedingungen
 
-Ein weiterer Aspekt welcher zu klassischen Missverständnissen führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, die unterschätze Komplexität des Projektes oder mangelnde Abstimmung und fehlerhafte Kommunikation bestärken die bereits genannten Missverständnisse stark.[^6][^7]
+Ein weiterer Aspekt welcher zu klassischen Missverständnissen führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische [Zeitplanung](Zeitplanung.md) oder [Ressourcenplanung](Ressourcenplanung.md), der unterschätzte [Projektumfang](Projektumfang.md) oder mangelnde Abstimmung und fehlerhafte [Projektkommunikation](Projektkommunikation.md) bestärken die bereits genannten Missverständnisse stark.[^6][^7]
 1. das
 2. hier 
 4. ist 
@@ -62,8 +61,8 @@ Um klassische Missverständnisse bei Projekten zu vermeiden ist es deshalb beson
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Klassische_Missverstaendnisse.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Praxisbeispiele gescheiterter_Projetke](Praxisbeispiele_gescheiterte_Projetke.md)
 
 # Weiterführende Literatur
 
