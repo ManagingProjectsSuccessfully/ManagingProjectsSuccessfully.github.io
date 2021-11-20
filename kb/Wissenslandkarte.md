@@ -5,7 +5,7 @@ author: Za22Regi
 anrechnung: a
 ---
 
-Ein Unternehmen, viele Standorte und eine große Mitarbeiterzahl. Unter diesen Umständen kann sich sehr schnell viel Wissen ansammeln und die Herausforderung besteht dann darin, den Überblick beizubehalten und Transparenz zu schaffen. 
+Ein [Unternehmen](https://de.wikipedia.org/wiki/Unternehmen), viele Standorte und eine große Mitarbeiterzahl. Unter diesen Umständen kann sich sehr schnell viel Wissen ansammeln und die Herausforderung besteht dann darin, den Überblick beizubehalten und Transparenz zu schaffen. 
 In diesem Beitrag wird es um sogenannte „Wissenslandkarten“ gehen. 
 Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und deren Zusammengänge. 
 
@@ -13,12 +13,15 @@ Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und
 
 Das Strukturieren von Wissen ist, nach Golinsky[^3], essenziell. In einem Unternehmen kommen die unterschiedlichsten Mitarbeiter mit den verschiedensten Fähigkeiten zusammen.  Eine Folge hiervon ist die Bildung eines großen und meist unstrukturierten Pools an Wissen.  
 Zum Erhalt der Wettbewerbs- und Innovationsfähigkeit von Unternehmen spielt das Wissenskapital einer Organisation eine gravierende Rolle. 
-Um den Überblick und die Transparenz über das Wissenspotenzial der Mitarbeiter nicht aus den Augen zu verlieren, kommt das Tool des Wissensmanagements, [Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte), in den Einsatz. *„Es sollen nicht mehr nur Elemente isoliert voneinander betrachtet werden, sondern es soll strukturelles Wissen in seiner vollen Komplexität erfasst und bewertet werden.“* - (Ott 2003[^4]).
+Um den Überblick und die Transparenz über das Wissenspotenzial der Mitarbeiter nicht aus den Augen zu verlieren, kommt das Tool des [Wissensmanagements](kb/Wissensmanagament.md), Wissenslandkarten, in den Einsatz. *„Es sollen nicht mehr nur Elemente isoliert voneinander betrachtet werden, sondern es soll strukturelles Wissen in seiner vollen Komplexität erfasst und bewertet werden.“* - (Ott 2003[^4]).
 
 Die Kunst besteht darin die Kernkompetenzen der Unternehmung darzustellen. 
 Wissenslandkarten sind eine grafische Darstellung von Wissensgebieten und deren Zusammenhänge. Sie ermöglicht zum einen den freien Zugang auf Wissensträger und Wissensobjekte und zum anderen werden sie zur Verwaltung von Wissenskapital in Unternehmen genutzt. 
-Nach Heyer[^5] ist es mit Wissenslandkarten möglich in Form eines Grafen eine Übersicht wesentlicher Schlüsselwörter einer Textsammlung und deren inhaltliche Vernetzung darzustellen. Viel wichtiger als die Strukturierung der Tiefenebenen, ist die Vermessung der unterschiedlichen Themenfelder. 
+Nach Heyer[^5] ist es mit Wissenslandkarten möglich in Form eines Grafen eine Übersicht wesentlicher Schlüsselwörter einer Textsammlung und deren inhaltliche Vernetzung darzustellen. Viel wichtiger als die Strukturierung der Tiefenebenen, ist die Vermessung der unterschiedlichen Themenfelder. Im Folgenden ist ein Beispiel für eine Wissenslandkarte abgezeichnet.
 
+![Wissenslandkarte](https://user-images.githubusercontent.com/92877971/140643090-1a0c210a-0243-4269-8d97-4df3c448bc27.png)
+
+*Wissenslandkarte[^6] *
 
 # Inhaltsverzeichnis
 
@@ -31,9 +34,7 @@ Nach Heyer[^5] ist es mit Wissenslandkarten möglich in Form eines Grafen eine �
 
 *ProjectManager[^1] *
 
-![Wissenslandkarte](https://user-images.githubusercontent.com/92877971/140643090-1a0c210a-0243-4269-8d97-4df3c448bc27.png)
 
-*Wissenslandkarte[^6] *
 
 ## 1. Arten von Wissenslandkarten
 
