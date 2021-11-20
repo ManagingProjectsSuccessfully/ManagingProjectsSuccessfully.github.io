@@ -31,8 +31,14 @@ Für die Projektmanager gibt es darüber hinaus die Möglichkeit unter dem Regis
 * [Projektmanagementsoftware](mttno1/ManagingProjectsSuccessfully.github.io)
 * [Übersicht_PM_Tools](christian_anghel/ManagingProjectsSuccessfully.github.io)
 * [Jira_PM_Tool](MKFAUGithub/ManagingProjectsSuccessfully.github.io)
-* [MeisterTask_PM_Tool](nazarelsaifi/ManagingsProjectsSuccessfully.github.io)
-* [
+* [MeisterTask_PM_Tool](nazarelsaifi/ManagingProjectsSuccessfully.github.io)
+* [ClickUp_PM_Tool](urimi0/ManagingProjectsSuccessfully.github.io)
+* [Hive_PM_Tool](Gilchus/ManagingProjectsSuccessfully.github.io)
+* [Trello_PM_Tool](hatutona/ManagingProjectsSuccessfully.github.io)
+* [Podio_PM_Tool](Paulqe42Kuno/ManagingProjectsSuccessfully.github.io)
+* [Stackfiled_PM_Tool](YSmithers46/ManagingProjectsSuccessfully.github.io)
+* [Awork_PM-Tool](sophiej26/ManagingProjectsSuccessfully.github.io)
+* [Java_PM_Tool](AbderrahmaneBennani/ManagingProjectsSuccessfully.github.io)
 
 # Weiterführende Literatur
 
