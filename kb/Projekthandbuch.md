@@ -37,27 +37,6 @@ Eine weitere Form des Projekthandbuchs ist der Project Management Plan des [PMBO
 
 
 
-
-
-
-![Beispielabbildung](Projekthandbuch/test-file.jpg)
-
-*lustiges Testbild*
-
-
-
-
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-
-
 # Siehe auch
 
 * [Projektdokumentation](Projektdokumentation.md)
