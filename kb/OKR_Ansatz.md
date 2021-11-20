@@ -50,7 +50,7 @@ Der Grund für die Mehrdimensionalität der Key Results ist die Vermeidung von Z
 
 # Abgrenzung zu anderen Methoden
 ## Balanced Scorecard
-Während die [Balanced Scorecard](Balanced_Scorecard.md) vor allem bei der Wahl der Ziele unterstützt, fokussieren OKRs auf der Zielerreichung. In der Praxis begünstigt die ähnliche Philosophie beider Methoden eine erfolgreiche, gegenseitige Ergänzung[^5].
+Während die [Balanced Scorecard](Balanced_Scorecard.md) vor allem bei der Wahl der Ziele unterstützt, fokussieren OKRs auf die Zielerreichung. In der Praxis begünstigt die ähnliche Philosophie beider Methoden eine erfolgreiche, gegenseitige Ergänzung[^5].
 
 ## SMART-Methode
 Bei der Formulierung der Ziele haben die [SMART-Methode](SMART_Ziele.md) einige Gemeinsamkeiten:
