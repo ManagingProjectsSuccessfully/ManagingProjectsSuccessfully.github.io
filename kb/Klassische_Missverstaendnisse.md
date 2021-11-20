@@ -8,9 +8,8 @@ anrechnung: k
 Bei der falschen Anwendung des klassischen [Projektmanagements](Projektmanagement.md) kann es schnell zu Missverständnissen kommen, welche einen großen Einflussfaktor auf die Erfolgswahrscheinlichkeit des jeweiligen [Projektes](Projekt.md) haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
 
 # 2. Ursache der Missverständnisse
-Das traditionelle Projektmanagement beruht auf einem monolithischen Ansatz, bei welchem bereits zu [Projektstart](Projektstart.md) der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, Termine und Ressourcen festgelegt.[^1][^2]  Durch diesen standardisierten Vorgang entstehen im Laufe des Projekts allerdings gleich mehrere Missverständnisse.
-
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
+Das [traditionelles Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) beruht auf einem monolithischen Ansatz, bei welchem bereits zu [Projektstart](Projektstart.md) der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, [Termine](Zeitplanung.md) und [Ressourcen](Ressourcenplanung.md) festgelegt.[^1][^2]  Durch diesen standardisierten Vorgang entstehen im Laufe des Projekts allerdings gleich mehrere Missverständnisse.
+ 
 
 
 
@@ -30,7 +29,7 @@ Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird berei
   - mit unterpunkt
 
 # 5. Hier eine Ebene-2-Überschrift unter Aspekt 2
-Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum agilen Projektmanagement gibt es keine kleineren Aufgabenblöcke, die früh zu nutzbaren Ergebnissen oder überprüfbaren Prototypen führen. Es entstehen somit auch nicht regelmäßig Zwischenprodukte, welche durch kontinuierliche Anpassungsprozesse überprüft und verbessert werden können (sog. Sprints beim agilen Projektmanagementmodell [SCRUM](SCRUM.md)). 
+Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum [agilen Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement) gibt es keine kleineren Aufgabenblöcke, die früh zu nutzbaren Ergebnissen oder überprüfbaren Prototypen führen. Es entstehen somit auch nicht regelmäßig Zwischenprodukte, welche durch kontinuierliche Anpassungsprozesse überprüft und verbessert werden können (sog. Sprints beim agilen Projektmanagementmodell [SCRUM](SCRUM.md)). 
 Stattdessen werden einzelne größere [Projektphasen](Projektphasen_klassisch.md) nacheinander und nicht parallel abgearbeitet. Die komplexeren Arbeitsblöcke lassen sich schwerer verwalten, wodurch ein deutlich höheres Risiko für Fehlentscheidungen entsteht. Außerdem geht der Motivationsaspekt für das arbeitende Team verloren, da beim klassischen Projektmanagement kein frühzeitig nutzbarer Mehrwert entsteht.[^4]
 
 So kann man eine Tabelle erstellen:
@@ -47,7 +46,7 @@ am Ende einer Projektphase oder sogar erst am Ende des Projekts bereitgestellt. 
 
 # 6. Unverhältnismäßige Rahmenbedingungen
 
-Ein weiterer Aspekt welcher zu klassischen Missverständnissen führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische [Zeitplanung](Zeitplanung.md) oder [Ressourcenplanung](Ressourcenplanung.md), der unterschätzte [Projektumfang](Projektumfang.md) oder mangelnde Abstimmung und fehlerhafte [Projektkommunikation](Projektkommunikation.md) bestärken die bereits genannten Missverständnisse stark.[^6][^7]
+Ein weiterer Aspekt welcher zu klassischen Missverständnissen führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, der unterschätzte [Projektumfang](Projektumfang.md) oder mangelnde Abstimmung und fehlerhafte [Projektkommunikation](Projektkommunikation.md) bestärken die bereits genannten Missverständnisse stark.[^6][^7]
 1. das
 2. hier 
 4. ist 
@@ -66,7 +65,7 @@ Um klassische Missverständnisse bei Projekten zu vermeiden ist es deshalb beson
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Traditionelles Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement)
 
 # Quellen
 
