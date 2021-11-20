@@ -62,7 +62,7 @@ Der Microsoft Planner wird besonders aufgrund der intuitiven Oberfläche und der
 [^5]: [Microsoft Planner – was ist das und was kann er?](https://www.theprojectgroup.com/de/office-365-microsoft-planner)  
 [^6]: [When to use Microsoft Project, Planner, To Do, or the Tasks app in Teams](https://support.microsoft.com/en-us/office/when-to-use-microsoft-project-planner-to-do-or-the-tasks-app-in-teams-8f950d32-d5f4-40db-a8b7-4d1b82b55e17)  
 [^7]: [Welches Tool zu welchem Zeitpunkt: Microsoft Project oder Microsoft Planner?](https://www.avepoint.com/blog/de/avepoint-blog-de/microsoft-project-oder-planner/)
-
+#
 <!--
 Kurzbeschreibung zu Microsoft_Planner_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht. 
 
