@@ -26,7 +26,7 @@ Key Results greifen die inspierend ausgedrückten Objectives auf und quantifizie
 In der Regel sollten zwei bis vier Key Results pro Objective formuliert werden, wodurch eine messbare Verbindung zu den Objectives geschaffen wird, um während der Periode überprüfbare Zwischenstände und am Ende eine klare Evaluation des Erfüllungsgrads zu ermöglichen.
 Der Grund für die Mehrdimensionalität der Key Results ist die Vermeidung von Zielkonflikten, die bei Verfolgung nur eines quantitativen Ziels auftreten können[^1].
 
-## Beispiele:
+## Beispiele
 * **Objective:** "Unser Prozess der Software-Entwicklung ist jetzt schneller, effizienter und hochwertiger, um zuverlässigere Produkte zu ermöglichen"
 * **Key Results:**
     * In jedem [Sprint](SCRUM.md) werden mindestens 69 [Story Points](SCRUM.md) erreicht
