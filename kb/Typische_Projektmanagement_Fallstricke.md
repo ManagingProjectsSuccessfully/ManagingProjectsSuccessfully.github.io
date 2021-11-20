@@ -32,7 +32,7 @@ Schlechte Kommunikation ist ein wichtiger Faktor, der den Erfolg eines Projekts 
 
 Einen großen Fallstrick stellen ebenso die unrealistische Ziele dar, die zu kurze Deadlines, die unmöglich sind zu erreichen sind, oder die falsch eingeschätzte Budgets. Dies kann nicht nur schädlich für den Erfolg des Unternehmens sein, sondern auch für die Moral und das Vertrauen der Team-Mitglieder. [^1]
 ## Lösung:
-Man muss realistisch die Situation betrachten, in Abhängigkeit von Ressourcen, Arbeitskräfte, Budget und Fristen. Man soll sich fragen, was von dem Team zu erwarten ist, ob das physisch möglich ist, und ob sich die Zeitpläne der Planungsphase mit den vorgeschlagenen Fristen und das vorhandene Budget anpassen [^5] (siehe [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)).
+Man muss realistisch die Situation betrachten, in Abhängigkeit von Ressourcen, Arbeitskräfte, Budget und Fristen. Man soll sich fragen, was von dem Team zu erwarten ist, ob das physisch möglich ist, und ob sich die Zeitpläne der Planungsphase mit den vorgeschlagenen Fristen und das vorhandene Budget anpassen (siehe [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)).
 
 
 # 4. Fehlende Aufteilung von Projekten in kleinere Aufgaben
@@ -61,6 +61,7 @@ Zusammenfassend lässt sich sagen, dass man mit einem klar definierten Ziel, ein
 * FALLSTRICKE DER PROJEKTARBEIT - PDF Free Download (docplayer.org)
 * 18 Project Management Pitfalls and Proven Ways to Avoid Them (managersresourcehandbook.com)
 * Avoiding Project Management Pitfalls - dummies
+* Das Projektdreieck (microsoft.com)
 
 
 # Quellen
@@ -69,5 +70,4 @@ Zusammenfassend lässt sich sagen, dass man mit einem klar definierten Ziel, ein
 [^2]: Stepanov, Andrew (2017):10 Pitfalls in Project Management to Avoid (ganttpro.com) : https://blog.ganttpro.com/en/top-project-management-pitfalls-to-avoid/
 [^3]: Reinold, Daniel: Daily Scrum - kurz erklärt [Varianten & Tipps]: https://www.projektmagazin.de/methoden/daily-scrum
 [^4]: T2informatik: Was ist eine Stakeholderkommunikation? - Wissen kompakt - t2informatik: https://t2informatik.de/wissen-kompakt/stakeholderkommunikation/
-[^5] :Das Projektdreieck (microsoft.com): https://support.microsoft.com/de-de/office/das-projektdreieck-8c892e06-d761-4d40-8e1f-17b33fdcf810
 
