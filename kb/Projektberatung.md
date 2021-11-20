@@ -1,8 +1,8 @@
 ---
 title: Projektberatung
-tags: agil klassisch
+tags: klassisch
 author: Christoph-Mantsch
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Projektberatung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
