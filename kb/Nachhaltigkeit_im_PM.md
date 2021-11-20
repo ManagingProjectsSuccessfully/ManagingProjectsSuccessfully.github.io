@@ -71,7 +71,7 @@ ausschlaggebend für den Projekterfolg[^5]
 
 # Lebenszyklus-Methode der Nachhaltigkeit
 
-Der Lebenszyklusansatz ist einzigartig und auch eine allgemein akzeptierte Methode, um eine nachhaltige Entwicklung im Projektmanagement zu erreichen. Die Lebenszyklus-Methode hat einen Ausgangspunkt, von dem aus sie ihre Tätigkeit beginnt und schliesslich auf einen anderen Punkt zugeht, der als Endpunkt bezeichnet werden kann. Hier wird eine gründliche Hintergrundanalyse des Projektlebenszyklus durchgeführt.[^6]
+Der [Lebenszyklusansatz](https://www.researchgate.net/publication/30438173_Sustainable_development_An_overview_of_economic_proposals) ist einzigartig und auch eine allgemein akzeptierte Methode, um eine nachhaltige Entwicklung im [Projektmanagement](Projektmanagement.md) zu erreichen. Die Lebenszyklus-Methode hat einen Ausgangspunkt, von dem aus sie ihre Tätigkeit beginnt und schliesslich auf einen anderen Punkt zugeht, der als Endpunkt bezeichnet werden kann. Hier wird eine gründliche Hintergrundanalyse des Projektlebenszyklus durchgeführt.[^6]
 
 <img src=/kb/Nachhaltigkeit_im_PM/Lebenszyklus-Methode.png width=300/>
 
