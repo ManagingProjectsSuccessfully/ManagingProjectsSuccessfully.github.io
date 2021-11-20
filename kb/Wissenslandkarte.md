@@ -9,25 +9,6 @@ Ein Unternehmen, viele Standorte und eine große Mitarbeiterzahl. Unter diesen U
 In diesem Beitrag wird es um sogenannte „Wissenslandkarten“ gehen. 
 Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und deren Zusammengänge. 
 
-
-# Wissenslandkarten: Ein modernes Tool des Wissensmanagement 
-Beitrag von Ola Abu-Khousa
-
-*Erstellt am 08.November 2021*
-
-# Agenda
-
-1. Begriffserklärung
-2. Arten von Wissenslandkarten                 
-3. Vor- und Nachteile
-   1. Vorteile
-   2. Nachteile
-
-<img width="185" alt="projectPNG" src="https://user-images.githubusercontent.com/92877971/140620513-f9d5cb31-4a7f-4bb0-afef-32c2f2f420bc.PNG">
-
-*ProjectManager[^1] *
-
-## 1. Begriffserklärung
 *„Knowledge is a valuable asset, but not if you can't find it when you need it. Increasingliy, organizations are creating "maps" of their intellectual assets and letting them guide the way.“* - (C. Hildebrand[^2])
 
 Das Strukturieren von Wissen ist, nach Golinsky[^3], essenziell. In einem Unternehmen kommen die unterschiedlichsten Mitarbeiter mit den verschiedensten Fähigkeiten zusammen.  Eine Folge hiervon ist die Bildung eines großen und meist unstrukturierten Pools an Wissen.  
@@ -38,11 +19,23 @@ Die Kunst besteht darin die Kernkompetenzen der Unternehmung darzustellen.
 Wissenslandkarten sind eine grafische Darstellung von Wissensgebieten und deren Zusammenhänge. Sie ermöglicht zum einen den freien Zugang auf Wissensträger und Wissensobjekte und zum anderen werden sie zur Verwaltung von Wissenskapital in Unternehmen genutzt. 
 Nach Heyer[^5] ist es mit Wissenslandkarten möglich in Form eines Grafen eine Übersicht wesentlicher Schlüsselwörter einer Textsammlung und deren inhaltliche Vernetzung darzustellen. Viel wichtiger als die Strukturierung der Tiefenebenen, ist die Vermessung der unterschiedlichen Themenfelder. 
 
+
+# Inhaltsverzeichnis
+
+1. Arten von Wissenslandkarten                 
+2. Vor- und Nachteile
+   1. Vorteile
+   2. Nachteile
+
+<img width="185" alt="projectPNG" src="https://user-images.githubusercontent.com/92877971/140620513-f9d5cb31-4a7f-4bb0-afef-32c2f2f420bc.PNG">
+
+*ProjectManager[^1] *
+
 ![Wissenslandkarte](https://user-images.githubusercontent.com/92877971/140643090-1a0c210a-0243-4269-8d97-4df3c448bc27.png)
 
 *Wissenslandkarte[^6] *
 
-## 2. Arten von Wissenslandkarten
+## 1. Arten von Wissenslandkarten
 
 Im Folgenden werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufgeführt: 
 
@@ -56,7 +49,7 @@ Im Folgenden werden die verschiedenen Arten von Wissenslandkarten tabellarisch a
 
 *Arten von Wissenslandkarten*[^7]
 
-## 3. Vor- und Nachteile
+## 2. Vor- und Nachteile
 Es stellt sich nun die Frage: 
 Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine Zeitverschwendung?
 
