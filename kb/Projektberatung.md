@@ -2,7 +2,7 @@
 title: Projektberatung
 tags: klassisch
 author: Christoph-Mantsch
-anrechnung: k 
+anrechnung:    k 
 ---
 
 Kurzbeschreibung zu Projektberatung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
