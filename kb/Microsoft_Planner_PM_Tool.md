@@ -21,8 +21,15 @@ Besonders aufgrund der intuitiven Oberfläche und der Office 365 Integration wir
 
 | Abbildung     | Beschreibung |
 | ----------- | ----------- |
-|![Planerstellung beim First Start](Microsoft_Planner_PM_Tool/MS_Planner_01.png) Planerstellung| <br> * Plannamen vergeben <br> * Plan zu einer bereits existierenden Microsoft 365 Gruppe hinzufügen <br>*	Sichtbereich des Plans beschränken (besonders in großen Unternehmen mit zentraler IT relevant) <br> * optionale Gruppenbeschreibung |
-|a|b
+|![Planerstellung beim First Start](Microsoft_Planner_PM_Tool/MS_Planner_01.png) *Abildung 1 - Planerstellung*| <br> • Plannamen vergeben <br> • Plan zu einer bereits existierenden Microsoft 365 Gruppe hinzufügen<br>•	Sichtbereich des Plans beschränken (besonders in großen Unternehmen mit zentraler IT relevant)<br> • optionale Gruppenbeschreibung|
+|!["Planner Hub"](Microsoft_Planner_PM_Tool/MS_Planner_02.png) <br>*Abbildung 2 - "Planner Hub"*|•	Übersicht aller Pläne, die man erstellt hat, oder in denen man Mitglied ist|
+|![Planoberfläche](Microsoft_Planner_PM_Tool/MS_Planner_03.png) <br>*Abbildung 3 - Planoberfläche|•	Über Auswahl eines Plans <br>•	Aufgaben lassen sich in drei verschiedenen Übersichten anzeigen<br>•	"Board" Übersicht stellt Aufgaben in Form von Kärtchen in Spalten, sogenannten "Buckets" dar|
+|!["Buckets"](Microsoft_Planner_PM_Tool/MS_Planner_04.png) <br>*Abbildung 4 - "Buckets"|•	Spalten in „Board“-Übersicht<br>•	Beliebig benennbar und Anzahl unbeschränkt<br>•	Aufgaben nach selbstbestimmten Faktoren gruppierbar (hier: Gruppierung nach Bearbeitungsstand)|
+|![Aufgaben hinzufügen](Microsoft_Planner_PM_Tool/MS_Planner_05.png) <br>*Abbildung 5 - Aufgaben hinzufügen|•	 Aufgabennamen, Aufgabenstatus, Aufgabenpriorität und Start- und Fälligkeitsdatum angeben <br>•	 Aufgabe einer oder mehreren Personen zuweisen<br>•	Notizen, Checkliste und Kommentare zur genaueren Spezifizierung<br>•	"Anlagen" zur Verknüpfung von benötigten Dateien mit der Aufgabe|
+|!["Diagramme"](Microsoft_Planner_PM_Tool/MS_Planner_06.png) <br>*Abbildung 6 - "Diagramme" Übersicht|•	verschiedene Diagramme zu ausgewähltem Plan<br>•	bei hoher Anzahl an Aufgaben für schnellen Überblick über momentanen Stand des Projektes|
+|!["Zeitplan"](Microsoft_Planner_PM_Tool/MS_Planner_07.png) <br>*Abbildung 7 - "Zeitplan" Übersicht|•	Darstellung von Aufgaben in Kalender-Ansicht (falls Start- und Fälligkeitsdatum definiert)<br>•	Überprüfen des Zeitplans|
+|!["Mehr"](Microsoft_Planner_PM_Tool/MS_Planner_08.png) <br>*Abbildung 8 - Schaltfläche "Mehr"|•	dargestellt als drei Punkte<br>•	Vielzahl weiterer Funktionen durch Verknüpfung zu anderen Office Apps<br>•	Anzeige der Mitglieder (keine lokalen Benutzer, sondern Microsoft 365 Accounts)<br>•	Implementierte Outlook Funktionalität zur Benachrichtigung von Mitgliedern bei Statusveränderungen von Aufgaben<br>•	SharePoint-Funktionalität: <br> o	Verknüpfte Dateien in einem projektspezifischen Dateiverzeichnis abgelegt (Bei Erstellung eines Plans automatisch miterstellt)<br>o	nur Planmitglieder Zugriff (externer Zugriff bei Bedarf erteilbar)<br>o	"Sites" zur Website Erstellung z.B. zur Projektbeschreibung<br> "Notizbuch" - eigens für den ausgewählten Plan erstelltes OneNote-Notizbuch|
+
 
 # Siehe auch
 
