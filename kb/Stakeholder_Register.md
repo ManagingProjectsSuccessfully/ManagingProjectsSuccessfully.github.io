@@ -10,15 +10,15 @@ anrechnung: k
 Das Stakeholder Register dient als Werkzeug für die Projektplanung.
 Dabei handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben. [^0]
 
-Das Register wird früh im Planungsprozess von Projektmanagern angelegt und während der gesamten Lebensdauer des Projekts auf dem neuesten Stand gehalten.
+Das Register wird früh im Planungsprozess von Projektmanagern angelegt und während der gesamten Lebensdauer des Projekts auf dem neuesten Stand gehalten. [^0]
 
 <!-- Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut oben im Front-Matter (Bereich zwischen den `---`). Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht. -->
 
 # Gestalt des Registers
 
-Unabhängig von der Größe des Unternehmens sollte sich jeder Projekt Manager aufgrund der Individualität des Stakeholder Managements selbstständig ein eigenes Register anfertigen. 
+Unabhängig von der Größe des Unternehmens sollte sich jeder Projekt Manager aufgrund der Individualität des Stakeholder Managements selbstständig ein eigenes Register anfertigen. [^1]
 
-Im Folgenden sind die gängigsten Kategorien aufgelistet:
+Im Folgenden sind die gängigsten Kategorien aufgelistet [^1]:
 
 * Name des Stakeholders
 * Art von Stakeholder
@@ -28,17 +28,19 @@ Im Folgenden sind die gängigsten Kategorien aufgelistet:
 * Anforderungen an das Projekt
 * Einfluss auf das Projekt
 * Bevorzugte Kommunikation
-* Strategien
+* Strategien 
 
 # Erstellen eines Registers
 
-Die Erstellung eines Registers erfolgt in den folgenden drei Schritten.
+Die Erstellung eines Registers erfolgt in den folgenden drei Schritten. [^1]
 
 1. Identifizierung der Stakeholder
 2. Erstellen des Registers
 3. Analyse der Stakeholder
 
-Zur Erstellung des Registers wird häufig Microsoft Excel benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt das Register Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. Generell sollte man sich allerdings folgende Fragen zur Erstellung stellen:
+Zur Erstellung des Registers wird häufig Microsoft Excel benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt das Register Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2]
+
+Folgende Generell sollte man sich folgende Fragen zur Erstellung stellen:
 
 * Wie viele Stakeholder sind am Projekt beteiligt?
 * Wie kann jeder Stakeholder kontaktiert werden?
@@ -83,13 +85,16 @@ Wie bereits erwähnt, sollte das Register schon am Anfang eines Projektes erstel
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
-[^0]: [What is a Stakeholder Register and how to create a Stakeholder Register?](https://www.remote.tools/remote-work/stakeholder-register#what-is-stakeholder-register)
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [What is a Stakeholder Register and how to create a Stakeholder Register? (remote.tools)](https://www.remote.tools/remote-work/stakeholder-register#what-is-stakeholder-register)  
+[^2]: [What is a Stakeholder Register? (projectmanagementacademy)](https://projectmanagementacademy.net/resources/blog/what-is-a-stakeholder-register/)  
 
-<!-- Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
+<!--
+ [^2]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^3]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
