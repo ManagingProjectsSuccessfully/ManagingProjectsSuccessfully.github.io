@@ -28,9 +28,11 @@ Für die Projektmanager gibt es darüber hinaus die Möglichkeit unter dem Regis
 
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Asana_PM_Tool.md)
+* [Projektmanagementsoftware](mttno1/ManagingProjectsSuccessfully.github.io)
+* [Übersicht_PM_Tools](christian_anghel/ManagingProjectsSuccessfully.github.io)
+* [Jira_PM_Tool](MKFAUGithub/ManagingProjectsSuccessfully.github.io)
+* [MeisterTask_PM_Tool](nazarelsaifi/ManagingsProjectsSuccessfully.github.io)
+* [
 
 # Weiterführende Literatur
 
