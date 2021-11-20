@@ -21,32 +21,28 @@ Sie bilden somit ab, was es im folgenden Quartal zu erreichen gilt[^1].
 Für die Definiton ist es wichtig, dass das Management sich auf die wichtigsten Ziele der kommenden Periode fokussiert, diese Initiativen dann in die einzelnen Teams trägt und so  alle Ebenen des Unternehmens klare Prioritäten vorgegeben bekommen, nach denen jede:r handeln möchte und handelt.
 Zur Evaluation werden am Ende Objectives und Key Results gegenübergestellt[^3].
 
-**Beispiele:**[^4]
-1. "Unser Prozess der Software-Entwicklung ist jetzt schneller, effizienter und hochwertiger, um zuverlässigere Produkte zu ermöglichen"
-2. "Wir steigern das Vertrauen in uns, indem wir transparenter und persönlicher auftreten"
-3. "Unsere Kunden wollen nicht auf Neuerungen warten, sondern diese schneller testen und im Alltag nutzen"
-
 ## Key Results
 Key Results greifen die inspierend ausgedrückten Objectives auf und quantifizieren diese. Sie bilden damit ab, wie die Ziele zu erreichen sind[^2].
 In der Regel sollten zwei bis vier Key Results pro Objective formuliert werden, wodurch eine messbare Verbindung zu den Objectives geschaffen wird, um während der Periode überprüfbare Zwischenstände und am Ende eine klare Evaluation des Erfüllungsgrads zu ermöglichen.
 Der Grund für die Mehrdimensionalität der Key Results ist die Vermeidung von Zielkonflikten, die bei Verfolgung nur eines quantitativen Ziels auftreten können[^1].
 
-**Beispiele:**[^4]
-
-*(bezugnehmend auf die Objectives-Beispiele)*
-1. : 
+## Beispiele:
+* **Objective:** "Unser Prozess der Software-Entwicklung ist jetzt schneller, effizienter und hochwertiger, um zuverlässigere Produkte zu ermöglichen"
+* **Key Results:**
    * In jedem [Sprint](SCRUM.md) werden mindestens 69 [Story Points](SCRUM.md) erreicht
    * Von der Idee zum Release vergehen 4 Wochen weniger
    * Die durchschnittliche Anzahl von Bugs pro Feature darf zwei nicht übersteigen
-2. :
+* **Objective:** "Wir steigern das Vertrauen in uns, indem wir transparenter und persönlicher auftreten"
+* **Key Results:**
    * Die Vertrauensrate im Team wird um 10% gesteigert
    * Die Anzahl ausgetauschter Nachrichten soll um 10% gesteigert werden
    * Bei Anfragen haben wir nicht weniger als acht Berührungspunkte
    * 70% der Angestellten nehmen an Team-Aktivitäten teil
-3. :
+* **Objective:** "Unsere Kunden wollen nicht auf Neuerungen warten, sondern diese schneller testen und im Alltag nutzen"
+* * **Key Results:**
    * Es nehmen 15% mehr Kunden an unseren Launch-Events teil
    * 28% der Kunden nutzen ein neues Feature schon im ersten Monat
-   * Pro Person und Woche werden 25 Schlüsselaktivitäten durchgeführt
+   * Pro Person und Woche werden 25 Schlüsselaktivitäten durchgeführt[^4]
 
 # Abgrenzung zu anderen Methoden
 ## Balanced Scorecard
