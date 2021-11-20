@@ -1,8 +1,8 @@
 ---
 title: Feedback_Kultur
-tags: agil klassisch
+tags: agil klassisch Feedback Feedback-Kultur Kommunikation Feedbackregeln
 author: Kisara2426
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Feedback_Kultur um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -46,6 +46,8 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Kritik 
 
 ![Beispielabbildung](Feedback_Kultur/test-file.jpg)
+
+![Feedackabblildung](Feedback_Kultur/479EEDD3-1CDC-4BA1-8020-EF050DA5BDF8_4_5005_c.jpeg)
 
 *lustiges Testbild*
 
