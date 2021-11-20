@@ -1,19 +1,89 @@
 ---
 title: PRINCE2
-tags: agil klassisch
+tags: klassisch PRINCE2 Projektmanagement klassisch classic Framework Organisation Grundlagen Themen
 author: patrick203494
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu PRINCE2 um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Beim PRINCE2 Projektmanagement (**PR**ojects **IN** **C**ontrolled **E**nvironments) handelt es sich um einen weltweit anerkannten, frei verwendbaren Best-Practice-Ansatz für die Ausgestaltung, die Organisation und das Management von Projekten. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+PRINCE2 kann auf Projekte jeglicher Art, Dauer oder Größe angewandt werden und strukturiert den Rahmen eines Projekts vom Start bis zum Ende. (capterra) (servicecontrolling)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Das PRINCE2 - Framework lässt sich in den Kontext der klassischen Projektmanagementmethoden einordnen und zählt neben PMBOK, Scrum und ICB zu den führenden Projektmanagent-Modellen weltweit. (Hundr.eu) 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Entstehung und Daten
+
+PRINCE2 stammt ursprünglich aus Großbritannien und wurde anfänglich lediglich für IT-Projekte entwickelt. Wegen seiner universellen und einfachen Anwendbarkeit wurde PRINCE2 schon bald aber bei Projekten ganz unterschiedlicher Arten weltweit verwendet. (bytes4business)
+
+Es gibt mittlerweile weltweit über 1.600.000 zertifizierte PRINCE2 Projektmanager und Projektmitarbeiter. Das Framework ist auf 18 Sprachen in über 150 Ländern verfügbar.
+Im Jahr 2015 wurde das PRINCE2-Framework um das Konzept PRINCE2 Agile ergänzt, welches neuartige, agile Methoden für Projekte zur Verfügung stellt.
+
+# Schlüsselelemente von PRINCE2
+
+Die PRINCE2-Methode setzt sich aus vier Grundbausteinen zusammen, auf welche in den folgenden Abschnitten dieses Kompendiums noch genauer eingegangen wird:
+
+*	Die 7 PRINCE2 Grundprinzipien 
+*	Die 7 PRINCE2 Themen 
+*	Die 7 PRINCE2 Prozesse
+*	Anpassung von PRINCE2 an die Projektumgebung
+
+Daneben definiert PRINCE2 festgelegte Rollen & Verantwortlichkeiten innerhalb des Projektteams und gibt konkrete Handlungsempfehlungen für jede Projektphase (maxpert & qrp)
+
+# Die 7 Themen von PRINCE2
+
+Die 7 PRINCE2 Themen (auch als Arbeitsdimensionen zu verstehen) beschreiben die Umsetzung der 7 Grundprinzipien genauer. 
+Jedes der Themen beantwortet eine eigene, wichtige Fragestellung und soll einen erfolgreichen Projektablauf möglichst positiv beeinflussen. Die Themen geben also Hilfestellung, wie ein Projekt anzugehen ist und müssen daher während des Projektablaufs fortlaufend beachtet werden.
+
+**1) Business Case (Warum?):**
+Sicherstellung, dass das Projekt während der gesamten Dauer auf die Ziele der Unternehmung ausgerichtet bleibt und einen Nutzen stiftet (geschäftliche Rechtfertigung)
+
+**2) Organisation (Wer?):**
+Festlegung von Rollenverteilung und Verantwortlichkeiten im PRINCE2- Managementteam
+
+**3) Qualität (Was?):**
+Schaffung von Klarheit über die Qualitätsanforderungen -und Maßnahmen, Qualitätskontrolle
+
+**4) Pläne (Wie und Wann?):**
+Entwicklung des Projektplans, Festlegung und Umsetzung der anzuwendenden PRINCE2-Techniken
+
+**5) Risiken (Was ist, wenn...?):**
+Umgang mit Unsicherheiten in Plänen und in der sonstigen Projektumgebung (sowohl positive als auch negative Unsicherheiten)
+
+**6) Änderungen (Was sind die Auswirkungen?):**
+Bewertung und Behandlung offener Punkte, die eventuelle Auswirkungen auf das Projekt haben könnten (z.B. veränderte Kundenwünsche)
+
+**7) Fortschritt (Wo steht das Projekt?):**
+Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststellung, Reporting ob und wie das Projekt fortgeführt werden soll
+
+
+# Stärken und mögliche Probleme von PRINCE2
+
+## Stärken:
+
+*	standardisierte Projekte, universell einsetzbar
+*	weltweit anerkannt und klar verständliche Arbeitsweise
+*	eindeutige Rollenverteilung, keine Unklarheiten über Verantwortlichkeiten
+*	 „Best Practice“: beinhaltet verschiedene in der Praxis bewährte und beständige Methoden
+*	sorgt für kontrollierten Start, Verlauf und Ende des Projekts
+*	kann auf Bedürfnisse einzelner Organisationen oder Projekte angepasst werden
+*	gebührenfrei: PRINCE2-Materialien liegen als bereits öffentliche Dokumente vor
+
+## Mögliche Probleme:
+
+*	stark dokumentenorientiert
+*	Ggf. Gefühl von "Machtverlust" bei Projektmanagern, da Rollen und Befugnisse streng festgelegt sind
+*	Sorgfältige Anpassung an Erfordernisse eines Projekts nötig (sonst kann PRINCE2 ein zu aufwendiges Vorgehen für kleine Projekte sein)
+*	Trotz freier Verfügbarkeit oft teure Schulungen notwendig
+
+# 5. Zertifizierung nach PRINCE2
+
+Die Zertifizierung nach PRINCE2 kann über drei verschiedene aufeinander aufbauende Stufen erreicht werden: 
+
+|  | **Foundation-Prüfung** | **Practitioner-Prüfung**| **Advanced-Practitioner-Prüfung** |
+| ------------- | ------------- | ------------ | ------------- |
+| **Zielgruppe**  | Projektmitarbeiter  | Projektleiter oder Teilprojektleiter | Projektmanagementspezialisten und Senior Projektmanager  |
+| **Inhalte**  | Grundlagenwissen über Themen und Prozesse  | Anpassung und Zuschneiden von Maßnahmen auf spezifisches Projekt | Content Cell  |
+
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
