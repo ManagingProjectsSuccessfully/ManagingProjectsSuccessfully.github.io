@@ -29,16 +29,16 @@ Für die Projektmanager gibt es darüber hinaus die Möglichkeit unter dem Regis
 
 # Siehe auch
 * [Projektmanagementsoftware](Projektmanagementsoftware.md)
-* [Übersicht_PM_Tools](christian_anghel/ManagingProjectsSuccessfully.github.io)
-* [Jira_PM_Tool](MKFAUGithub/ManagingProjectsSuccessfully.github.io)
-* [MeisterTask_PM_Tool](nazarelsaifi/ManagingProjectsSuccessfully.github.io)
-* [ClickUp_PM_Tool](urimi0/ManagingProjectsSuccessfully.github.io)
-* [Hive_PM_Tool](Gilchus/ManagingProjectsSuccessfully.github.io)
-* [Trello_PM_Tool](hatutona/ManagingProjectsSuccessfully.github.io)
-* [Podio_PM_Tool](Paulqe42Kuno/ManagingProjectsSuccessfully.github.io)
-* [Stackfiled_PM_Tool](YSmithers46/ManagingProjectsSuccessfully.github.io)
-* [Awork_PM-Tool](sophiej26/ManagingProjectsSuccessfully.github.io)
-* [Java_PM_Tool](AbderrahmaneBennani/ManagingProjectsSuccessfully.github.io)
+* [Übersicht_PM_Tools](Uebersicht_PM_Tools.md)
+* [Jira_PM_Tool](Jira_PM_Tool.md)
+* [MeisterTask_PM_Tool](MeisterTask_PM_Tool.md)
+* [ClickUp_PM_Tool](ClickUp_PM_Tool.md)
+* [Hive_PM_Tool](Hive_PM_Tool.md)
+* [Trello_PM_Tool](Trello_PM_Tool.md)
+* [Podio_PM_Tool](Podio_PM_Tool.md)
+* [Stackfiled_PM_Tool](Stackfiled_PM_Tool.md)
+* [Awork_PM-Tool](Awork_PM-Tool.md)
+* [Java_PM_Tool](Java_PM_Tool.md)
 
 # Weiterführende Literatur
 
