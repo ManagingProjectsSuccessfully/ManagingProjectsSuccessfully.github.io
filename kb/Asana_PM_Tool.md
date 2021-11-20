@@ -28,7 +28,7 @@ Für die Projektmanager gibt es darüber hinaus die Möglichkeit unter dem Regis
 
 
 # Siehe auch
-* [Projektmanagementsoftware](mttno1/ManagingProjectsSuccessfully.github.io)
+* [Projektmanagementsoftware](Projektmanagementsoftware.md)
 * [Übersicht_PM_Tools](christian_anghel/ManagingProjectsSuccessfully.github.io)
 * [Jira_PM_Tool](MKFAUGithub/ManagingProjectsSuccessfully.github.io)
 * [MeisterTask_PM_Tool](nazarelsaifi/ManagingProjectsSuccessfully.github.io)
