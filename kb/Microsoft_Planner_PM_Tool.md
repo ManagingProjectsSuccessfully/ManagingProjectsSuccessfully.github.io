@@ -2,13 +2,34 @@
 title: Microsoft_Planner_PM_Tool
 tags: agil klassisch
 author: BeratGuen
-anrechnung: k oder a
+anrechnung: k
 ---
+# 
+Microsoft Planner ist ein Aufgabenverwaltungs-Tool, entwickelt von Microsoft, und seit dem 06.Juni.2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education bzw. Enterprise Umgebung.[1]
+Seitens Microsoft wird dafür eine webbasierte Anwendung, (*evtl. Verlinkung zu Cloud Services) sowie die Möglichkeit der lokalen Verwendung über gängige Betriebssysteme wie Microsoft Windows, MacOS und mobile Betriebssysteme wie Android, iOS und iPadOS angeboten.2
+Der Microsoft Planner bietet sehr vielseitige Anwendungsmöglichkeiten darunter z.B. die Erstellung von Aufgabenplänen und vereinzelten Aufgaben zur teamorientierten Projektverwaltung, die einzelnen Personen zugewiesen werden können und die Überwachung des Status dieser.
+Besonders aufgrund der intuitiven Oberfläche und der Office 365 Integration wird das Tool in vielen Unternehmen eingesetzt.
 
-Kurzbeschreibung zu Microsoft_Planner_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+![Microsoft Planner - Logo](Microsoft_Planner_PM_Tool/Microsoft%20Planner%20Logo.png)
+
+
+
+
+
+# Oberfläche und Funktionen
+
+| Abbildung     | Beschreibung |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
+
+
+<!-Kurzbeschreibung zu Microsoft_Planner_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+oben im Front-Matter (Bereich zwischen den `---`). 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
