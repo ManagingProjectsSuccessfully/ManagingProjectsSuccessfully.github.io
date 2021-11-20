@@ -9,7 +9,7 @@ anrechnung: k
 
 #
 
-Microsoft Planner ist ein Aufgabenverwaltungs-Tool, entwickelt von Microsoft, und seit dem 06.Juni.2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education bzw. Enterprise Umgebung.[^1] [^2]
+Microsoft Planner ist ein Aufgabenverwaltungs-Tool, entwickelt von Microsoft, und seit dem 06.Juni.2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education bzw. Enterprise Umgebung[^1].
 
 Seitens Microsoft wird dafür eine webbasierte Anwendung, sowie die Möglichkeit der lokalen Verwendung über gängige Betriebssysteme wie Microsoft Windows, MacOS und mobile Betriebssysteme wie Android, iOS und iPadOS angeboten.[^1] [^3]
 
