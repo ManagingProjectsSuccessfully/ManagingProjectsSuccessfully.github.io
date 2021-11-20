@@ -2,7 +2,7 @@
 title: Risikotransfer
 tags: agil klassisch
 author: niru1999
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Risikotransfer um ein erstes Verständnis dafür zu schaffen um was es hier geht.
