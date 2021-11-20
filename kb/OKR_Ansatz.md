@@ -1,8 +1,8 @@
 ---
 title: OKR_Ansatz
-tags: agil klassisch
+tags: klassisch okr_ansatz okr objectives and key results
 author: domirow-fau
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu OKR_Ansatz um ein erstes Verständnis dafür zu schaffen um was es hier geht.
