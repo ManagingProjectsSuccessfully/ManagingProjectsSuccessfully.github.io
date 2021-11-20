@@ -39,7 +39,7 @@ Der Grund für die Mehrdimensionalität der Key Results ist die Vermeidung von Z
    * Bei Anfragen haben wir nicht weniger als acht Berührungspunkte
    * 70% der Angestellten nehmen an Team-Aktivitäten teil
 * **Objective:** "Unsere Kunden wollen nicht auf Neuerungen warten, sondern diese schneller testen und im Alltag nutzen"
-* * **Key Results:**
+* **Key Results:**
    * Es nehmen 15% mehr Kunden an unseren Launch-Events teil
    * 28% der Kunden nutzen ein neues Feature schon im ersten Monat
    * Pro Person und Woche werden 25 Schlüsselaktivitäten durchgeführt[^4]
