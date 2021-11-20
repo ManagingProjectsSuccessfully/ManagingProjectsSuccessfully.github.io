@@ -8,7 +8,7 @@ anrechnung: k
 Bei der falschen Anwendung des klassischen [Projektmanagements](Projektmanagement.md) kann es schnell zu Missverständnissen kommen, welche einen großen Einflussfaktor auf die Erfolgswahrscheinlichkeit des jeweiligen Projektes haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
 
 # 2. Ursache der Missverständnisse
-Das traditionelle Projektmanagement beruht auf einem monolithischen Ansatz, bei welchem bereits zu Beginn der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, Termine und Ressourcen festgelegt.[^1]  Durch diesen standardisierten Vorgang entstehen im Laufe des Projekts allerdings gleich mehrere Missverständnisse.
+Das traditionelle Projektmanagement beruht auf einem monolithischen Ansatz, bei welchem bereits zu Beginn der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, Termine und Ressourcen festgelegt.[^1][^2]  Durch diesen standardisierten Vorgang entstehen im Laufe des Projekts allerdings gleich mehrere Missverständnisse.
 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 
@@ -16,7 +16,7 @@ Das traditionelle Projektmanagement beruht auf einem monolithischen Ansatz, bei 
 
 # 3. Fehlende Flexibilität bei Veränderungen
 
-In nahezu allen Projekten kommt es im Laufe der Zeit zu sich veränderten Anforderungen und Bedürfnissen. Aufgrund der klassischen Vorgehensweise hat die Projektplanung allerdings nicht die notwendigen Freiheiten um auf Veränderungen flexibel einzugehen, da sie aufwendige und oftmals kostspielige Projektanpassungen nach sich ziehen würden.[^1]  Stattdessen wird strikt an dem ursprünglichen Plan festgehalten. Somit gibt es kaum Möglichkeiten Ziel- und Planänderungen zu treffen, was vor allem bei den immer komplexer werdenden Projekten zu maßgeblichen Missverständnissen führt.[^2]  
+In nahezu allen Projekten kommt es im Laufe der Zeit zu sich veränderten Anforderungen und Bedürfnissen. Aufgrund der klassischen Vorgehensweise hat die Projektplanung allerdings nicht die notwendigen Freiheiten um auf Veränderungen flexibel einzugehen, da sie aufwendige und oftmals kostspielige Projektanpassungen nach sich ziehen würden.[^1]  Stattdessen wird strikt an dem ursprünglichen Plan festgehalten. Somit gibt es kaum Möglichkeiten Ziel- und Planänderungen zu treffen, was vor allem bei den immer komplexer werdenden Projekten zu maßgeblichen Missverständnissen führt.[^3]  
 
 
 ![Beispielabbildung](Klassische_Missverstaendnisse/test-file.jpg)
@@ -32,7 +32,7 @@ Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird berei
 # 5. Hier eine Ebene-2-Überschrift unter Aspekt 2
 Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum agilen Projektmanagement gibt es keine kleineren Aufgabenblöcke, die früh zu nutzbaren Ergebnissen oder überprüfbaren Prototypen führen. Es entstehen somit auch nicht regelmäßig Zwischenprodukte, welche durch kontinuierliche Anpassungsprozesse überprüft und verbessert werden können (sog. Sprints beim agilen Projektmanagementmodell Scrum). 
 Stattdessen werden einzelne größere Projektphasen nacheinander und nicht parallel abgearbeitet. Die komplexeren Arbeitsblöcke lassen sich schwerer verwalten, wodurch 
-ein deutlich höheres Risiko für Fehlentscheidungen entsteht. Außerdem geht der Motivationsaspekt für das arbeitende Team verloren, da beim klassischen Projektmanagement kein frühzeitig nutzbarer Mehrwert entsteht.[^3]
+ein deutlich höheres Risiko für Fehlentscheidungen entsteht. Außerdem geht der Motivationsaspekt für das arbeitende Team verloren, da beim klassischen Projektmanagement kein frühzeitig nutzbarer Mehrwert entsteht.[^4]
 
 So kann man eine Tabelle erstellen:
 
@@ -43,12 +43,12 @@ So kann man eine Tabelle erstellen:
 
 ## 5.1 Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Eng damit verknüpft ist die Rückmeldung an den Kunden. Im Gegensatz zu agilen Projekten können dem Kunden keine Zwischenprodukte oder –ergebnisse präsentiert werden.[^2] Dadurch geht entscheidendes Feedback im Projektverlauf verloren, welches für die weiteren Prozessschritte hätte berücksichtigt werden können. Stattdessen werden die Projektergebnisse 
-am Ende einer Projektphase oder sogar erst am Ende des Projekts bereitgestellt. Somit haben die Anspruchsgruppen so gut wie keinerlei Einfluss während des Projektes, wodurch wiederum neue Missverständnisse entstehen. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben wodurch umfangreiche nachträgliche Anpassungen notwendig werden.[^4]
+Eng damit verknüpft ist die Rückmeldung an den Kunden. Im Gegensatz zu agilen Projekten können dem Kunden keine Zwischenprodukte oder –ergebnisse präsentiert werden.[^3] Dadurch geht entscheidendes Feedback im Projektverlauf verloren, welches für die weiteren Prozessschritte hätte berücksichtigt werden können. Stattdessen werden die Projektergebnisse 
+am Ende einer Projektphase oder sogar erst am Ende des Projekts bereitgestellt. Somit haben die Anspruchsgruppen so gut wie keinerlei Einfluss während des Projektes, wodurch wiederum neue Missverständnisse entstehen. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben wodurch umfangreiche nachträgliche Anpassungen notwendig werden.[^5]
 
 # 6. Unverhältnismäßige Rahmenbedingungen
 
-Ein weiterer Aspekt welcher zu klassischen Missverständnissen führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, die unterschätze Komplexität des Projektes oder mangelnde Abstimmung und fehlerhafte Kommunikation bestärken die bereits genannten Missverständnisse stark.[^5][^6]
+Ein weiterer Aspekt welcher zu klassischen Missverständnissen führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, die unterschätze Komplexität des Projektes oder mangelnde Abstimmung und fehlerhafte Kommunikation bestärken die bereits genannten Missverständnisse stark.[^6][^7]
 1. das
 2. hier 
 4. ist 
@@ -72,9 +72,10 @@ Um klassische Missverständnisse bei Projekten zu vermeiden ist es deshalb beson
 # Quellen
 
 [^1]: [Klassisches versus agiles Projektmanagement](https://www.proles.ch/blog/klassisches-versus-agiles-projektmanagement)
-[^2]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/)
-[^3]: [Unterschiede zwischen klassischem und agilem Projektmanagement Teil 4](https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/klassisches-agiles-projektmanagement-teil-4/)
-[^4]: [Unterschiede zwischen klassischem und agilem Projektmanagement Teil 1](https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/klassisch-agiles-projektmanagement-1/)
-[^5]: [Warum das Projekt-Team versagt- Die 10 größten Probleme im Projekt-Management](https://www.computerwoche.de/a/warum-das-projekt-team-versagt,2495865,5)
-[^6]: [Welche Schwächen hat das klassische Projektmanagement ?](https://www.it-prause.de/fachbeitr%C3%A4ge/was-ist-klassisches-projektmanagement/die-schw%C3%A4chen-des-klassischen-projektmanagements/)
+[^2]: [Projektmanagement](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden_node.html;jsessionid=87298AEC46E44A72560858EBF7715CBD.delivery2-master)
+[^3]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/)
+[^4]: [Unterschiede zwischen klassischem und agilem Projektmanagement Teil 4](https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/klassisches-agiles-projektmanagement-teil-4/)
+[^5]: [Unterschiede zwischen klassischem und agilem Projektmanagement Teil 1](https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/klassisch-agiles-projektmanagement-1/)
+[^6]: [Warum das Projekt-Team versagt- Die 10 größten Probleme im Projekt-Management](https://www.computerwoche.de/a/warum-das-projekt-team-versagt,2495865,5)
+[^7]: [Welche Schwächen hat das klassische Projektmanagement ?](https://www.it-prause.de/fachbeitr%C3%A4ge/was-ist-klassisches-projektmanagement/die-schw%C3%A4chen-des-klassischen-projektmanagements/)
 
