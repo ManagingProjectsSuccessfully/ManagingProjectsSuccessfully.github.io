@@ -16,7 +16,7 @@ Da das übergeordnete Ziel des Projekthandbuchs ist, ein Überblick über das Pr
 
 Als erstes ist das Projekthandbuch vom [Projektmanagementhandbuch](Harthauer/ManagingProjectsSuccessfully.github.io) zu unterscheiden, welches eine „"Zusammenstellung von Regelungen, die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten“ [^6] ist. Das Projektmanagementhandbuch bezieht sich folglich allgemein auf die Regelungen die bei einem Projekt in diesem Unternehmen gelten sollen und das Projekthandbuch bezieht sich auf Regelungen die für ein spezielles Projekt gelten [^2] [^4].
 
-An zweiter Stelle ist das Projekthandbuch von der Projektdokumentation zu unterscheiden. Die Projektdokumentation beschreibt eine Sammlung aller wichtigen Dokumente, die während dem Projektverlauf erstellt wurden und die Ergebnisse dessen veranschaulicht. Dahingegen bezieht sich das Projekthandbuch auf die Planung des Projektes [^5] [^7].
+An zweiter Stelle ist das Projekthandbuch von der [Projektdokumentation](nikl9/ManagingProjectsSuccessfully.github.io) zu unterscheiden. Die Projektdokumentation beschreibt eine Sammlung aller wichtigen Dokumente, die während dem Projektverlauf erstellt wurden und die Ergebnisse dessen veranschaulicht. Dahingegen bezieht sich das Projekthandbuch auf die Planung des Projektes [^5] [^7].
 
 # Varianten des Projekthandbuchs
 
