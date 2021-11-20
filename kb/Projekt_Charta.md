@@ -113,7 +113,7 @@ Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Cha
 Beispiel anhand eines Fast Food App Projekts.
 <!--überarbeite -->
 
-![image](/kb/Projekt_Charta/Project_Charta_Example_Fast_Food_App.jpg)
+![image](/kb/Projekt_Charta/Projekt_Charta_Example_Fast_Food_App.jpg)
 
 
 
