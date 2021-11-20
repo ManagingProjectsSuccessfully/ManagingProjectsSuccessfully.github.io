@@ -7,8 +7,9 @@ anrechnung: k
 
 // Kurzbeschreibung zu The_State_of_Project_Management_2021 um ein erstes Verständnis dafür zu schaffen um was es hier geht. //
 
-"The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation [Wellington](https://wellingtone.co.uk/). In dem Bericht werden zahlreiche namenhafte Unternehmen [^1] aus verschiedenen Sektoren interviewet, um den aktuellen Probleme, Entwicklungen des Projekt Management als auch Mehtoden und Ansätze für die Zukunft zu präsentieren, die wiederum Unternehmen dazu bewegen sollen ihre Prozesse im Projektablauf zu hinterfragen und mit neuen Techniken effizenter zu gestalten. 
-Im Allgemeinen zeichnet sich seit mehereren Jahren ab, dass beim Project Management über die Performance nachlässt und sowohl Durchführung als auch der Erfolg des Projekt zunehmend abnimmt. Durch die Analyse, Auswertung & Darstellung bestimmter Fragen wird die aktuelle Entwicklung dargestellt, Maturity Levels spiegeln Leistungen wieder und durch sogenannte Key Drivers wird beschrieben, welche Faktoren wichtig sind, damit das Projekt Management erfolgreich ist.[^3] [^2] 
+"The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation [Wellingtone](https://wellingtone.co.uk/). In dem Bericht werden zahlreiche namenhafte Unternehmen [^1] aus verschiedenen Sektoren interviewet, um den aktuellen Probleme, Entwicklungen des Projektmanagement als auch Mehtoden und Ansätze für die Zukunft zu präsentieren, die wiederum Unternehmen dazu bewegen sollen ihre Prozesse im Projektablauf zu hinterfragen und mit neuen Techniken effizenter zu gestalten. 
+Im Allgemeinen zeichnet sich seit mehereren Jahren ab, dass beim Project Management über die Performance nachlässt und sowohl Durchführung als auch der Erfolg des Projekt zunehmend abnimmt. Durch die Analyse, Auswertung & Darstellung bestimmter Fragen wird die aktuelle Entwicklung dargestellt, Maturity Levels spiegeln Leistungen wieder und durch sogenannte Key Drivers wird beschrieben, welche Faktoren wichtig sind, damit das Projekt Management erfolgreich ist.[^2][^3]
+Das Berichtschema der Organisation [Wellingtone](https://wellingtone.co.uk/) wird im Nachfolgenden mit den wichtigsten Aspekten wiedergegeben. 
 
 # Project Management Basics:
 
@@ -41,24 +42,24 @@ In Level 1 bis 2 werden Projekte in kleineren Maßstäben durchgeführt, die nic
 
 1. Methodology
 
-Die Methodik, eine Bündelung von Methoden, verhindert Stagnation im Projekt Management. Hierzu gehören vor allem die Methoden der Analyse-, Kreatvität-, Progrnose-, Bewertung-, Planung- und Abwicklung. Zu beachten ist, dass die einzelnen Methoden in Abhängigkeit zueinander stehen. So entsteht das Gefühl des erarbeiteten Kompromiss, der zur besten Lösung führt.
+Die Methodik, eine Bündelung von Methoden, verhindert Stagnation im Projekt Management. Hierzu gehören vor allem die Methoden der Analyse-, Kreatvität-, Progrnose-, Bewertung-, Planung- und Abwicklung. Zu beachten ist, dass die einzelnen Methoden in Abhängigkeit zueinander stehen. So entsteht das Gefühl des erarbeiteten Kompromiss, der zur besten Lösung führt. [^4]
 
 2. PMO
 
-Das Projektmanagement Office, kurz PMO, betreut alle Projekte eines Unternehmens. Durch die Steuerung in strategischer Hinsicht, der Ressourcenkoordinierung, der schnellen Entscheidungsfindung aufgrund eines oftmals dynamischen Umfeldes, der Weitergabe wichtiger Informationen an die Geschäftsleitung [^5] sowie der Gewährleistung, dass in allen Projekten die gleichen Methoden angewandt werden, ist das PMO durch Planungs-, Informations- und Erfassungsaufgaben [^6] ein wesentlicher Antreiber des Projektmanagements.
+Das Projektmanagement Office, kurz PMO, betreut alle Projekte eines Unternehmens. Durch die Steuerung in strategischer Hinsicht, der Ressourcenkoordinierung, der schnellen Entscheidungsfindung aufgrund eines oftmals dynamischen Umfeldes, der Weitergabe wichtiger Informationen an die Geschäftsleitung [^5] sowie der Gewährleistung, dass in allen Projekten die gleichen Methoden angewandt werden, ist das PMO durch Planungs-, Informations- und Erfassungsaufgaben ein wesentlicher Antreiber des Projektmanagements. [^6]
 
 3. Technology
 
-Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich wiederrum auf die Wirtschaftlichkeit der Projekte auswirkt. Zu den Tools gehören unter anderem die Verwendung von Software zum Termin- und Kostenüberblick, Know-How-Datenbanken und eine einfachde Kommunikation via Skype, Teams oder ähnlichen. Je nach größe des Unternehmens und Anzahl der durchgeführten Projekte im Jahr kommt es zum Einsatz verschiedener Software. Hierzu gehören die Folgenden: 
+Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich wiederrum auf die Wirtschaftlichkeit der Projekte auswirkt. Zu den Tools gehören unter anderem die Verwendung von Software zum Termin- und Kostenüberblick, Know-How-Datenbanken und eine einfachde Kommunikation via Skype, Teams oder ähnlichen. [^7] Je nach größe des Unternehmens und Anzahl der durchgeführten Projekte im Jahr kommt es zum Einsatz verschiedener Software. Hierzu gehören die Folgenden: 
 
 * Allgemeine Software ist oftmals hinderlich im Bezug auf die Möglichkeit der Nutzung. Dies ist vor allem bei Grafiken ersichtlich. Im Hinblick auf die Verwendbarkeit der Software von Mitarbeiter gibt es nicht viel zu beachten, da es sich hierbei um Office-Anwendungen wie Excel oder Teams handelt. 
 * Freeware-Software bietet vor allem die Möglichkeit der grafischen Darstellung übersichtlicher darzustellen und sind einfach in das Projektmanagement mit einzubinden. Jedoch sollte hier vorsicht gewaltet werden, da vertrauliche und sensible Daten gerade bei cloud-basierten Sofware von externen Dritten abgeriffen werden können. 
 * Professionelle Software ist unausweichlich, sobald ein Unternehmen mehrere Projekte parallel oder im Jahr am laufen hat. Diese Art von Software kann oftmals auf das Unternehmen angepasst werden. Durch ein einheitliches Erscheinungsbild ist die Verwendung durch die Mitarbeiter einfach gestaltet, muss jedoch erstmals erlernt werden, wozu nicht alle Mitarbeiter bereit sind.
-* Web 2.0-Software bietet den Vorteil der ständigen Weiterentwicklung. So ist die direkte Kommunikation bspw. mit dem Stakeholdern ein Vorteil, gleichzeitig aber auch ein Nachteil, da Gruppierungen, welche sich gegen das Projekt aussprechen die nahezu gleiche Informationsbasis zugrunde liegen haben.
+* Web 2.0-Software bietet den Vorteil der ständigen Weiterentwicklung. So ist die direkte Kommunikation bspw. mit dem Stakeholdern ein Vorteil, gleichzeitig aber auch ein Nachteil, da Gruppierungen, welche sich gegen das Projekt aussprechen die nahezu gleiche Informationsbasis zugrunde liegen haben. [^8]
 
 4. Training & Support
 
-Die Beratung ermöglicht dem Unternehmen unterstüzende Hilfestellung im Bezug auf die Definiton der Projektgrenzen, -kontexte und -pläne sowie die Analyse sozialer und ökologischer Auswirkungen. Des Weiteren ist Berartung entscheidend bei der Implementierung von Investitonen, Software oder auch Auswahl des Auftragsgebers.
+Die Beratung ermöglicht dem Unternehmen unterstüzende Hilfestellung im Bezug auf die Definiton der Projektgrenzen, -kontexte und -pläne sowie die Analyse sozialer und ökologischer Auswirkungen. Des Weiteren ist Berartung entscheidend bei der Implementierung von Investitonen, Software oder auch Auswahl des Auftragsgebers. [^9]
 
 # The Future of PMO & Work:
 
@@ -180,9 +181,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: [The State of Project Management Annual Report 2021 (YouTube)](https://www.youtube.com/watch?v=hZd5SgZWoWU)
 [^2]: [Annual Report - The State of Project Management 2021 (PDF)](https://wellingtone.co.uk/wp-content/uploads/2021/03/The-State-of-PM-2021.pdf)
 [^3]: [Identifying the State of Project Management (PDF)](https://www.sciencedirect.com/science/article/pii/S1877705816302144)
-[^4]: [https://www.pmi.org/learning/library/state-project-management-training-3210]
+[^4]: [Lexikon der Projektmanagement-Methoden (Buch)]
 [^5]: [PMO: Definition, Vorteile & wann ist es gut](https://www.theprojectgroup.com/blog/pmo-project-management-office/#Kapitel1)
 [^6]: [Projektbüro - Wikipedia](https://de.wikipedia.org/wiki/Projektb%C3%BCro)
+[^7]: [Wie Technologien Probleme im Projektmanagement lösen] (https://promx.net/2021/06/wie-technologie-probleme-im-projektmanagement-loest/#)
+[^8]: [Projektmanagement - Theorie und Praxis aus einer Hand, Bernd-J. Madauss (PDF)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-54432-7.pdf)
+[^9]: [Beartung von Organisationen im Projektmanagement, Reinhard Wagner (PDF)](https://www.projektivisten.de/fileadmin/_migrated/content_uploads/Beratung-von-Organisationen-im-Projektmanagement.pdf)
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
