@@ -8,14 +8,14 @@ anrechnung: k
 # Definition
 
 Das Stakeholder Register dient als Werkzeug für die Projektplanung.
-Dabei handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben. [^0]
+Dabei handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben. [^1]
 
 <!-- Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut oben im Front-Matter (Bereich zwischen den `---`). Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht. -->
 
 # Vorgehensweise
 
 Das Register wird früh im Planungsprozess von Projektmanagern angelegt. [^0] 
-Grundsätzliche erfolgt die Erstellung eines Registers in den folgenden drei Schritten: [^1]
+Grundsätzlich erfolgt die Erstellung eines Registers in den folgenden drei Schritten: [^1]
 
 ## Identifizierung der Stakeholder 
 
@@ -28,7 +28,7 @@ Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird h�
 
 Unabhängig von der Größe des Unternehmens sollte sich jeder Projekt Manager aufgrund der Individualität des Stakeholder Managements selbstständig ein eigenes Register anfertigen. Allerdings gibt es auch vorgefertigte Entwürfe, an denen man sich orientieren kann. [^1]
 
-Im Folgenden sind die gängigsten Kategorien aufgelistet [^1]:
+Im Folgenden sind die gängigsten Kategorien aufgelistet[^1] :
 
 * Name des Stakeholders
 * Art von Stakeholder
@@ -54,7 +54,9 @@ Das Dokument sollte mit anderen Projektdokumentationen aufbewahrt werden und fü
 
 ## Analyse der Stakeholder
 
-Zuletzt wird das Register mit den nötigen Daten ausgefüllt. Die Informationen können dabei direkt von den Stakeholdern angefordert werden
+Zuletzt wird das Register mit den nötigen Daten ausgefüllt. Die Informationen können dabei direkt von den Stakeholdern erfragt werden oder wenn nötig, über öffentliche Quellen erlangt werden. 
+
+Damit ist die Analyse der wichtigste Prozess zur Erstellung des Registers.
 
 # Vorteile eines Registers
 
