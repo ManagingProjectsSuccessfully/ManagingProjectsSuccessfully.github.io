@@ -7,7 +7,22 @@ anrechnung: a
 
 Ein [Unternehmen](https://de.wikipedia.org/wiki/Unternehmen), viele Standorte und eine große Mitarbeiterzahl. Unter diesen Umständen kann sich sehr schnell viel Wissen ansammeln und die Herausforderung besteht dann darin, den Überblick beizubehalten und Transparenz zu schaffen. 
 In diesem Beitrag wird es um sogenannte „Wissenslandkarten“ gehen. 
-Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und deren Zusammengänge. 
+Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und deren Zusammenhänge und eignen sich besonders dafür Arbeitsverläufe effektiver und effizienter dazustellen. Sie referenzieren auf Experten-, Team-, Mitarbeiterwissen, Wissensentwicklungsphasen und organisatorische Abläufe und Fährigkeiten. Wichtig zu erwähnen ist, dass die Wissensinhalte an sich nicht dort abgelegt wird, sondern lediglich der Verweis auf das verankterte Wissen. 
+
+
+# Inhaltsverzeichnis
+
+1. Begriffserklärung
+2. Arten von Wissenslandkarten                 
+3. Vor- und Nachteile
+   1. Vorteile
+   2. Nachteile
+
+<img width="185" alt="projectPNG" src="https://user-images.githubusercontent.com/92877971/140620513-f9d5cb31-4a7f-4bb0-afef-32c2f2f420bc.PNG">
+
+*ProjectManager[^1] *
+
+## 1. Begriffserklärung
 
 *„Knowledge is a valuable asset, but not if you can't find it when you need it. Increasingliy, organizations are creating "maps" of their intellectual assets and letting them guide the way.“* - (C. Hildebrand[^2])
 
@@ -17,28 +32,15 @@ Um den Überblick und die Transparenz über das Wissenspotenzial der Mitarbeiter
 
 Die Kunst besteht darin die Kernkompetenzen der Unternehmung darzustellen. 
 Wissenslandkarten sind eine grafische Darstellung von Wissensgebieten und deren Zusammenhänge. Sie ermöglicht zum einen den freien Zugang auf Wissensträger und Wissensobjekte und zum anderen werden sie zur Verwaltung von Wissenskapital in Unternehmen genutzt. 
-Nach Heyer[^5] ist es mit Wissenslandkarten möglich in Form eines Grafen eine Übersicht wesentlicher Schlüsselwörter einer Textsammlung und deren inhaltliche Vernetzung darzustellen. Viel wichtiger als die Strukturierung der Tiefenebenen, ist die Vermessung der unterschiedlichen Themenfelder. Im Folgenden ist ein Beispiel für eine Wissenslandkarte abgezeichnet.
+Nach Heyer[^5] ist es mit Wissenslandkarten möglich in Form eines Grafen eine Übersicht wesentlicher Schlüsselwörter einer Textsammlung und deren inhaltliche Vernetzung darzustellen. Viel wichtiger als die Strukturierung der Tiefenebenen, ist die Vermessung der unterschiedlichen Themenfelder. 
+Im Folgenden ist ein Beispiel für eine Wissenslandkarte abgezeichnet.
 
 ![Wissenslandkarte](https://user-images.githubusercontent.com/92877971/140643090-1a0c210a-0243-4269-8d97-4df3c448bc27.png)
 
 *Wissenslandkarte[^6] *
 
-# Inhaltsverzeichnis
-
-1. Arten von Wissenslandkarten                 
-2. Vor- und Nachteile
-   1. Vorteile
-   2. Nachteile
-
-<img width="185" alt="projectPNG" src="https://user-images.githubusercontent.com/92877971/140620513-f9d5cb31-4a7f-4bb0-afef-32c2f2f420bc.PNG">
-
-*ProjectManager[^1] *
-
-
-
-## 1. Arten von Wissenslandkarten
-
-Im Folgenden werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufgeführt: 
+## 2. Arten von Wissenslandkarten
+Folglich werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufgeführt: 
 
 | Deutsche Bezeichnung      | Englische Bezeichnung       |  Beispiel                   |
 | ----------------------    | -------------               | --------------------------  |
@@ -56,11 +58,13 @@ Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine 
 
 ### Vorteile 
 
-- Durch Strukturierung von Wissensquellen können Wissensressourcen optimierend ausgeschöpft werden
-- Ordnung schaffen, indem Wissen im Überblick dargestellt wird 
-- Themengebiete und Ansprechpartner schnell erkennen
-- Erschließen von Wissen wird erleichtert
-- Neues Wssen schneller und effektiver finden und aneignen
+- Strukturierung von Wissensquellen
+- Optimale Ausschöpfung der Wissensressourcen
+- Darstellung von Wissen um Überblick
+- Schaffung von Ordnung 
+- Erkennung von Themengebiete und Ansprechpartner 
+- Erleichterte Erschließung von Wissen 
+- Schnelle und effektive Aneignung und Findung von neuem Wissen
 - Transparenz und freier Zugang zu Informationen für alle Mitarbeiter
 - Erkennung der Kernkompetenzen 
 - Identifikation des Unternehmens 
@@ -68,15 +72,15 @@ Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine 
 - Übersichtliche Darstellung von Texten 
 - Einfachere Einarbeitung neuer Mitarbeiter
 - Kontakt zu Experten 
-- Koaten- und Zeitvorteil
+- Kosten- und Zeitvorteil
 
 ### Nachteile
 
 - Überflutung von Informationsanfragen
 - Gefahr der Überstreitung der Privatsphäre der Mitarbeiter
-- Betriebsgeheimnis währen 
+- Wahrung des Betriebsgeheimnisses  
 - Durch grafische Darstellung, keine dynamischen Aspekte möglich
-- Neu erlerntes Wissen wird nicht automatisch aktualisiert
+- Fehlende automatische Aktualisierung des neu erlernten Wissens
 - Aufwendige Erstellung einer Wissenslandkarte
 - Hohe Produktions- und Wartungskosten
 
