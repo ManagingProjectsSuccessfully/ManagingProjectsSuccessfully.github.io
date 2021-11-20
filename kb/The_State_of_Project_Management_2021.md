@@ -8,7 +8,9 @@ anrechnung: k
 // Kurzbeschreibung zu The_State_of_Project_Management_2021 um ein erstes Verständnis dafür zu schaffen um was es hier geht. //
 
 "The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation [Wellingtone](https://wellingtone.co.uk/). In dem Bericht werden zahlreiche namenhafte Unternehmen [^1] aus verschiedenen Sektoren interviewet, um den aktuellen Probleme, Entwicklungen des Projektmanagement als auch Mehtoden und Ansätze für die Zukunft zu präsentieren, die wiederum Unternehmen dazu bewegen sollen ihre Prozesse im Projektablauf zu hinterfragen und mit neuen Techniken effizenter zu gestalten. 
+
 Im Allgemeinen zeichnet sich seit mehereren Jahren ab, dass beim Project Management über die Performance nachlässt und sowohl Durchführung als auch der Erfolg des Projekt zunehmend abnimmt. Durch die Analyse, Auswertung & Darstellung bestimmter Fragen wird die aktuelle Entwicklung dargestellt, Maturity Levels spiegeln Leistungen wieder und durch sogenannte Key Drivers wird beschrieben, welche Faktoren wichtig sind, damit das Projekt Management erfolgreich ist.[^2][^3]
+
 Das Berichtschema der Organisation [Wellingtone](https://wellingtone.co.uk/) wird im Nachfolgenden mit den wichtigsten Aspekten wiedergegeben. 
 
 # Project Management Basics:
