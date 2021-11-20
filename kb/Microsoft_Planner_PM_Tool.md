@@ -9,7 +9,7 @@ anrechnung: k
 
 #
 
-Microsoft Planner ist ein Aufgabenverwaltungs-Tool, entwickelt von Microsoft, und seit dem 06.Juni.2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education bzw. Enterprise Umgebung[^1].
+Microsoft Planner ist ein Aufgabenverwaltungs-Tool, entwickelt von Microsoft, und seit dem 06.Juni.2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education bzw. Enterprise Umgebung.[^1] [^2]
 
 Seitens Microsoft wird dafür eine webbasierte Anwendung, sowie die Möglichkeit der lokalen Verwendung über gängige Betriebssysteme wie Microsoft Windows, MacOS und mobile Betriebssysteme wie Android, iOS und iPadOS angeboten.[^1] [^3]
 
@@ -64,6 +64,13 @@ Der Microsoft Planner wird besonders aufgrund der intuitiven Oberfläche und der
 [^7]: [Welches Tool zu welchem Zeitpunkt: Microsoft Project oder Microsoft Planner?](https://www.avepoint.com/blog/de/avepoint-blog-de/microsoft-project-oder-planner/)  
  <br>
 #
+
+# Quellen
+
+[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 
 <!--Kurzbeschreibung zu Microsoft_Planner_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
