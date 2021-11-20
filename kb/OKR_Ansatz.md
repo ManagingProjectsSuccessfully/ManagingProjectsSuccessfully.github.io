@@ -78,9 +78,9 @@ Beim Management einzelner Projekte sollten diese an den OKRs ausgerichtet sein. 
 * [SMART-Methode](SMART_Ziele.md)
 
 # Weiterführende Literatur
-* Growe, Andrew: High Output Management
-* Kudernatsch, Daniela: Objectives and Key Results : Die Grundlagen der agilen Managementmethode OKR
-* Doerr, John: OKR - Objectives & Key Results: Wie Sie Ziele, auf die es wirklich ankommt, entwickeln, messen und umsetzen
+* Growe, Andrew: *High Output Management*
+* Kudernatsch, Daniela: *Objectives and Key Results : Die Grundlagen der agilen Managementmethode OKR*
+* Doerr, John: *OKR - Objectives & Key Results: Wie Sie Ziele, auf die es wirklich ankommt, entwickeln, messen und umsetzen*
 
 # Quellen
 
