@@ -13,7 +13,7 @@ Allgemein wird bei einer Abschlussanalyse ein Soll-Ist Abgleich für Projektziel
 Abschlussbericht erstellt und an dem Auftraggeber übergeben werden. Abschließend wird eine Abschlusskostenkalkulation und zusätzlich eine 
 Wirtschaftlichkeitsbetrachtung erledigt[^2].
 
-![Ablauf Abschlussanalyse](Abschlussanalyse/Ablauf Abschlussanalyse.jpg)
+![Beispielabbildung](Abschlussanalyse/Ablauf Abschlussanalyse.jpg)
 
 Zu Beginn werden Kennzahlen vergleichbarer Produktkategorien benötigt, um sie mit den Messzahlen des abgeschlossenen Projektes abgleichen zu können. Durch den 
 Vergleich treten in der Regel Abweichungen hervor, deren Ursachen man danach untersucht.
