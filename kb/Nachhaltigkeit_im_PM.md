@@ -93,9 +93,9 @@ Diese Methode der Nachhaltigkeit reduziert die Menge an Energie und Ressourcen, 
 
 # Quellen
 
-[^1]: https://de.wikipedia.org/wiki/Nachhaltigkeit#Begriffsgeschichte
-[^2]: https://www.societybyte.swiss/2018/05/01/maiausgabe-nachhaltiges-projektmanagement/)
-[^3]: https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf
-[^4]: https://link.springer.com/content/pdf/10.1007%2F978-3-658-20500-3.pdf
-[^5]: https://www.inloox.de/unternehmen/blog/artikel/nachhaltiges-projektmanagement/
-[^6]: https://www.researchgate.net/publication/317233730_Sustainable_Development_An_Overview
+[^1]: [Nachhaltigkeit] (https://de.wikipedia.org/wiki/Nachhaltigkeit#Begriffsgeschichte)
+[^2]: [Nachhaltiges Projektmanagement] (https://www.societybyte.swiss/2018/05/01/maiausgabe-nachhaltiges-projektmanagement/)
+[^3]: [Sustainability im Projektmanagement] (https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf)
+[^4]: [Nachhaltigkeit im Projektmanagement] (https://link.springer.com/content/pdf/10.1007%2F978-3-658-20500-3.pdf)
+[^5]: [Nachhaltiges Projektmanagement] (https://www.inloox.de/unternehmen/blog/artikel/nachhaltiges-projektmanagement/)
+[^6]: [Project Sustainability: Overview of Sustainability in Project Management (https://www.researchgate.net/publication/317233730_Sustainable_Development_An_Overview)
