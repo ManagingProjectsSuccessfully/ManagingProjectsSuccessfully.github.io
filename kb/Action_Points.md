@@ -10,7 +10,7 @@ Action Points, welche auch unter dem Namen Arbeitspaketen bekannt sind, sind die
 
 # Action Points im Allgemeinen
 
-Gerade in anspruchsvollen Projekten ist es von hoher Priorität, das Projekt () zu strukturieren und erfolgreich zu bewältigen. 
+Gerade in anspruchsvollen Projekten ist es von hoher Priorität, das [Projekt](Projekt.md) zu strukturieren und erfolgreich zu bewältigen. 
 Das Projekt im Ganzen unterteilt sich dabei in mehrere Teilprojekte. Aus den Teilprojekten können wiederum Arbeitspakete gebildet werden. Arbeitspakete beinhalten dabei, ähnlich wie das Hauptprojekt, Kosten- Zeit- und Strukturpläne. 
 Die Arbeitspakete können dabei, je nach Umfang, von mehreren Personen abgearbeitet werden. Diese werden jeweils von einer verantwortlichen Person betreut, die im direkten Kontakt zum Teilprojektleiter steht. Dabei muss von dieser Person Sorge getragen werden, dass die im Vorfeld festgelegten Kosten und Zeiten eingehalten werden.
 
@@ -36,7 +36,7 @@ Ebenfalls ist es auch wichtig, für wen dabei die Arbeitspakete erstellt werden.
 
 # Projektstrukturplan
 
-Die Grundlage für die Visualisierung des Projektes bildet der Projektstrukturplan (PSP). Der Projektstrukturplan definiert das Projektziel. Der Aufbau des Projektstrukturplans ist, wie bereits in der Einleitung beschrieben, hierarchisch geordnet. Die Arbeitspakete bilden dabei die letzte Instanz. Der Projektstrukturplan kann nach drei Methoden entworfen werden:
+Die Grundlage für die Visualisierung des Projektes bildet der Projektstrukturplan (PSP). Der Projektstrukturplan definiert das Projektziel. Der Aufbau des Projektstrukturplans ist, wie bereits in der Einleitung beschrieben, hierarchisch geordnet. Die Arbeitspakete bilden dabei die letzte Instanz. Der Projektstrukturplan kann nach drei [Methoden](Methoden.md) entworfen werden:
 
 1. Top down Ansatz
 2. Bottom Up Ansatz
@@ -47,6 +47,8 @@ Beim Top down Ansatz wird der Projektstrukturplan von Oben nach Unten Aufgebaut.
 Der Bottom Up Ansatz geht genau in umgekehrter Herangehensweise vor. Aus den Arbeitspaketen werden Teilprojekte entworfen. Aus den erstellten Teilprojekten ergibt sich schlussendlich das Gesamtprojekt.
 
 Das Yo-Yo-Verfahren ist eine Kombination aus dem Top down Ansatz und dem Bottom Up Ansatz. Zum einen wird der Strukturplan von den Arbeitspaketen und zum anderen von dem Gesamtprojekt entworfen.
+
+Genaueres hierzu bei der [Projektstrukturplanung](Projektstrukturplan.md).
 
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
