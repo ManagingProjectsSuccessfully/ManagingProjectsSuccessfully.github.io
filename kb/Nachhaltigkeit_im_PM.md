@@ -79,7 +79,7 @@ Der Lebenszyklusansatz ist einzigartig und auch eine allgemein akzeptierte Metho
 
 Diese Methode der Nachhaltigkeit reduziert die Menge an Energie und Ressourcen, die vor der Gewinnung der Rohstoffe eingesetzt wurden. Die Gewinnung der Rohstoffe ist der Ausgangspunkt, d. h. der Beginn des zu analysierenden Projektlebenszyklus. Sie würde auch die derzeitige Situation der Regeneration berücksichtigen. Mit anderen Worten, die Frage, wie die gewonnenen Rohstoffe ersetzt oder reproduziert werden können, muss beantwortet werden. Danach geht sie in eine andere Phase über, nämlich die Produktionsphase, auf der auch alle Tätigkeiten erfasst werden, die in dieser Phase durchgeführt werden. Es prüft die Energiemenge und die Qualität, um die es hier geht. Dann ist der nächste Schritt, der analysiert werden muss, die Nutzungsphase. Es wird geprüft, wer das Produkt verwenden wird, das aus der Produktionsphase hervorgegangen ist. Sie berücksichtigt auch die Sicherheit und das Wohlbefinden der Menschen oder Einzelpersonen, die das Produkt verwenden. Es werden so viele Annahmen darüber gemacht, wie bequem das Produkt in dieser Phase seinen Dienst leisten wird. Schliesslich wird die Frage, wie Abfälle um jeden Preis minimiert werden können, im Rahmen der derzeit durchgeführten Analyse beantwortet.[^6]
 
-# siehe auch
+# Siehe auch
 
 * [Projektmanagement](Projektmanagement.md)
 * [Projectmanagement](Who_is_Who_Projectmanagement.md)
@@ -93,9 +93,9 @@ Diese Methode der Nachhaltigkeit reduziert die Menge an Energie und Ressourcen, 
 
 # Quellen
 
-[^1]: [Nachhaltigkeit](https://de.wikipedia.org/wiki/Nachhaltigkeit#Begriffsgeschichte)
+[^1]: [Nachhaltigkeit](https://de.wikipedia.org/wiki/Nachhaltigkeit#Begriffsgeschichte) 
 [^2]: [Nachhaltiges Projektmanagement](https://www.societybyte.swiss/2018/05/01/maiausgabe-nachhaltiges-projektmanagement/)
-[^3]: [Sustainability im Projektmanagement](https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf)
-[^4]: [Nachhaltigkeit im Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-658-20500-3.pdf)
+[^3]: [Sustainability im Projektmanagement](https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf) (S.29)
+[^4]: [Nachhaltigkeit im Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-658-20500-3.pdf) (S. 109f.)
 [^5]: [Nachhaltiges Projektmanagement](https://www.inloox.de/unternehmen/blog/artikel/nachhaltiges-projektmanagement/)
-[^6]: [Project Sustainability: Overview of Sustainability in Project Management](https://www.researchgate.net/publication/317233730_Sustainable_Development_An_Overview)
+[^6]: [Project Sustainability: Overview of Sustainability in Project Management] (https://www.researchgate.net/publication/317233730_Sustainable_Development_An_Overview) (S.8f.)
