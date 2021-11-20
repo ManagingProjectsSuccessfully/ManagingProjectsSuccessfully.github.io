@@ -41,8 +41,7 @@ In Level 1 bis 2 werden Projekte in kleineren Maßstäben durchgeführt, die nic
 
 1. Methodology
 
-Define consistent, practial, fit for purpose PPM
-Methodology, Lifecycle & Governance structures based on best practice, but tailored to the organisation
+Die Methodik, bestehend aus einer Bündelung von Methoden, verhindert Stagnation im Projekt Management, zu beachten ist, dass die einzelnen Methoden in Abhängigkeit zueinander stehen. Bestandteil der Methodik sind Analyse-, Kreatvitäts-, Progrnose-, Bewertungs-, Planungs- und Abwicklungsmethoden.
 
 2. PMO
 
