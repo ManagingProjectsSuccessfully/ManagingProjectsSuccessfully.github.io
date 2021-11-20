@@ -40,17 +40,17 @@ Mit Hilfe der fünf Maturity Levels wird die Reife des Projekt Managements genau
 
 In Level 1 bis 2 werden Projekte in kleineren Maßstäben durchgeführt, die nicht all zu viel Planung mit sich bringen. Umso höher die Level sind, desto struktierter werden das Projekt Management arbeiten und damit auch Projekte größeren Maßes abwickeln.
 
-# Key Drives to PPM Maturity:
+# Key Drives:
 
-1. Methodology
+1. Methodik:
 
 Die Methodik, eine Bündelung von Methoden, verhindert Stagnation im Projekt Management. Hierzu gehören vor allem die Methoden der Analyse-, Kreatvität-, Progrnose-, Bewertung-, Planung- und Abwicklung. Zu beachten ist, dass die einzelnen Methoden in Abhängigkeit zueinander stehen. So entsteht das Gefühl des erarbeiteten Kompromiss, der zur besten Lösung führt. [^4]
 
-2. PMO
+2. Projektmanagement Office:
 
 Das Projektmanagement Office, kurz PMO, betreut alle Projekte eines Unternehmens. Durch die Steuerung in strategischer Hinsicht, der Ressourcenkoordinierung, der schnellen Entscheidungsfindung aufgrund eines oftmals dynamischen Umfeldes, der Weitergabe wichtiger Informationen an die Geschäftsleitung [^5] sowie der Gewährleistung, dass in allen Projekten die gleichen Methoden angewandt werden, ist das PMO durch Planungs-, Informations- und Erfassungsaufgaben ein wesentlicher Antreiber des Projektmanagements. [^6]
 
-3. Technology
+3. Technolgien:
 
 Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich wiederrum auf die Wirtschaftlichkeit der Projekte auswirkt. Zu den Tools gehören unter anderem die Verwendung von Software zum Termin- und Kostenüberblick, Know-How-Datenbanken und eine einfachde Kommunikation via Skype, Teams oder ähnlichen. [^7] Je nach größe des Unternehmens und Anzahl der durchgeführten Projekte im Jahr kommt es zum Einsatz verschiedener Software. Hierzu gehören die Folgenden: 
 
@@ -59,7 +59,7 @@ Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich w
 * Professionelle Software ist unausweichlich, sobald ein Unternehmen mehrere Projekte parallel oder im Jahr am laufen hat. Diese Art von Software kann oftmals auf das Unternehmen angepasst werden. Durch ein einheitliches Erscheinungsbild ist die Verwendung durch die Mitarbeiter einfach gestaltet, muss jedoch erstmals erlernt werden, wozu nicht alle Mitarbeiter bereit sind.
 * Web 2.0-Software bietet den Vorteil der ständigen Weiterentwicklung. So ist die direkte Kommunikation bspw. mit dem Stakeholdern ein Vorteil, gleichzeitig aber auch ein Nachteil, da Gruppierungen, welche sich gegen das Projekt aussprechen die nahezu gleiche Informationsbasis zugrunde liegen haben. [^8]
 
-4. Training & Support
+4. Beratung:
 
 Die Beratung ermöglicht dem Unternehmen unterstüzende Hilfestellung im Bezug auf die Definiton der Projektgrenzen, -kontexte und -pläne sowie die Analyse sozialer und ökologischer Auswirkungen. Des Weiteren ist Berartung entscheidend bei der Implementierung von Investitonen, Software oder auch Auswahl des Auftragsgebers. [^9]
 
