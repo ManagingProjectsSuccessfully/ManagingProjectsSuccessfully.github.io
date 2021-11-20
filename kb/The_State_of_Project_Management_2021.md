@@ -25,20 +25,18 @@ So wird im diesjährigen Bericht mit Hilfe eines Diagramme Rückschlüsse gewonn
 
 # Maturity Levels:
 
-Mit Hilfe der fünf Maturity Levels wird die Reife des Projekt Managements genauer beschrieben. Damit wird Unternehmen aufgezeigt, auf welchem Level sich einzelne Abschnitte im Projekt Management befinden, um hier besser anzugreifen & eine Entwicklung einzuleiten. 
+Mit Hilfe der fünf Maturity Levels wird die Reife des Projekt Managements genauer beschrieben. Damit wird Unternehmen aufgezeigt, auf welchem Level sich einzelne Abschnitte im Projekt Management befinden, um hier besser anzugreifen & eine Entwicklung einzuleiten. [^10]
 
-* Level 1: Initial
-   - Beschreibt ein Projekt Management, welches in Wirklichkeit nicht vorhanden ist. Prozesse werden ohne Daten erhoben & sind ad-hoc geplant. Es gibt folglich kein klar strukturiertes Vorgehen
-* Level 2: Defined
-   - Im Gegensatz zu Level 1 wird ein einheitliches Vorgehen praktiziert, jedoch nicht in allen Prozessen gibt es eine Struktur. Weiterhin ist der Unterschied nicht sehr groß. Es werden immer noch keine Daten erhoben.
-* Level 3: Standardised
-   - Sämtliche Prozesse sind genausten ausgearbeitet & können wiederholt angewandt werden. Dies ermöglicht die Durchführung Projekte jeglicher Größe. Darüberhinaus werden erste Daten erhoben.
-* Level 4: Managed
-   - Abgrenzend zu Level 3 gibt es in Level 4 eine fest zugeordnete PMO-Funktion für Veränderungen, Kommunikation & Lerneffekte ermöglicht. Die gewonnenen Erkenntnisse werden durch das PMO gemessen.
-* Level 5: Optimising
-   - Alle Prozesse werden immer wieder betrachtet & verbessert, sodass ein Prozess kontinuierlicher Optimierung entsteht. Performance des eigentlichen Projekts & des PMO werden gemessen & fließen in die Entscheidungsgebung mit ein.
-
-In Level 1 bis 2 werden Projekte in kleineren Maßstäben durchgeführt, die nicht all zu viel Planung mit sich bringen. Umso höher die Level sind, desto struktierter werden das Projekt Management arbeiten und damit auch Projekte größeren Maßes abwickeln.
+* Level 1: Beginnend
+   - Beschreibt ein Projektmanagement, welches nicht vorhanden ist oder keine oder nur wenig vollständige Prozesse hat. Es werden kein Dokumente erhoben & sind ad-hoc geplant. Daraus resultiert, dass Erfolg oder Misserfolg, Kosten, Zeiten und Qualtität des Projekts von einzelnen Personen abhängig sind.
+* Level 2: Wiederholbar
+   - Im Gegensatz zu Level 1 wird ein systematische Analyse durchgeführt. Mit den gewonnenen Erkenntnissen werden Prozesse festgelegt, wodurch Projektziele, -zeiten und -kosten für die Zukunft abgeschätzt werden können.
+* Level 3: Definiert
+   - Sämtliche Prozesse sind genausten ausgearbeitet, können wiederholt angewandt werden, transparent und überprüfbar. Die standartisierten Prozesse ermöglichen eine Durchführung von Projekten jeglicher Größe.
+* Level 4: Gesteuert
+   - Abgrenzend zu Level 3 gibt es in Level 4 eine fest zugeordnete PMO-Funktion für Veränderungen, Kommunikation & Lerneffekte. Alle Projektparameter werden überwacht und gesteuert. Durch die Implementierung des Risikomanagements wird der Erfolg und Misserfolg des Projekts vorhersehbar.
+* Level 5: Optimierend
+   - Alle Prozesse werden immer wieder betrachtet & verbessert, sodass ein Prozess kontinuierlicher Optimierung entsteht. Performance des eigentlichen Projekts und des PMO werden gemessen und fließen in die Entscheidungsgebung mit ein, wodurch Fehler vermieden werden können. [^11]
 
 # Key Drives:
 
@@ -189,6 +187,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^7]: [Wie Technologien Probleme im Projektmanagement lösen] (https://promx.net/2021/06/wie-technologie-probleme-im-projektmanagement-loest/#)
 [^8]: [Projektmanagement - Theorie und Praxis aus einer Hand, Bernd-J. Madauss (PDF)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-54432-7.pdf)
 [^9]: [Beartung von Organisationen im Projektmanagement, Reinhard Wagner (PDF)](https://www.projektivisten.de/fileadmin/_migrated/content_uploads/Beratung-von-Organisationen-im-Projektmanagement.pdf)
+[^10]: [Cpability Maturity Model](https://de.wikipedia.org/wiki/Capability_Maturity_Model)
+[^11]: [Projektmanagement Reifegrad] (https://quality-engineering.industrie.de/allgemein/projektmanagement-reifegrad-2/#slider-intro-1)
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
