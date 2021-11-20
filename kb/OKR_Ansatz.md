@@ -1,6 +1,6 @@
 ---
 title: OKR_Ansatz
-tags: klassisch okr_ansatz okr objectives and key results
+tags: klassisch agil okr-ansatz okr objectives and key results
 author: domirow-fau
 anrechnung: k
 ---
