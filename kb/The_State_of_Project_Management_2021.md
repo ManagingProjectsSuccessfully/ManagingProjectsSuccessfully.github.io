@@ -61,8 +61,9 @@ Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich w
 
 Die Beratung ermöglicht dem Unternehmen unterstüzende Hilfestellung im Bezug auf die Definiton der Projektgrenzen, -kontexte und -pläne sowie die Analyse sozialer und ökologischer Auswirkungen. Des Weiteren ist Berartung entscheidend bei der Implementierung von Investitonen, Software oder auch Auswahl des Auftragsgebers. [^9]
 
-# The Future of PMO & Work:
+# Die Zukunft von Projektmanagement:
 
+Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in verschiedenen Situationen. So sind Halbleiter bis heute noch knapp und Wartezeiten von mehreren Monaten auf ein Auto sind mittlerweile Normaität. Daraus zeichnet sich ab, dass Flexibiltät und Resilienz entscheidene Faktoren im Allgemeinen sind. Begrifflichkeiten aus dem Projektmanagement werden immer bedeutender und öfters angewandt. So zeichnen sich Trends ab wie der Wunsch nach vollständiger Ressourcenplanung, dass feste Teams bessere Ergebnisse erzielen oder auch, dass klassische und agile Tools parallel betrieben werden sollen. [^12]
 Unsurprising given the impact of COVID-19. Only 38% see a headcount increase, but 57% seeing greater scope & responsibilities. This suggests a real need to increase productivity. Automation through PPM technology can play a key role in bridging this productivity gap.
 
 71% believe people will need more project management skills and a similar number see increases in the use of collaboration tools.
@@ -189,6 +190,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^9]: [Beartung von Organisationen im Projektmanagement, Reinhard Wagner (PDF)](https://www.projektivisten.de/fileadmin/_migrated/content_uploads/Beratung-von-Organisationen-im-Projektmanagement.pdf)
 [^10]: [Cpability Maturity Model](https://de.wikipedia.org/wiki/Capability_Maturity_Model)
 [^11]: [Projektmanagement Reifegrad] (https://quality-engineering.industrie.de/allgemein/projektmanagement-reifegrad-2/#slider-intro-1)
+[^12]: [Die 12 wichtigsten Projektmanagement-Trends 2021](https://www.theprojectgroup.com/blog/projektmanagement-trends/)
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
