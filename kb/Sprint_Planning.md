@@ -17,12 +17,18 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 Spint-Planung ist das Sprint-Planungsmeeting. Es ist da, um zu definieren `was` zu machen ist und `wie` dies umgesetzt werden soll. Das Ziel von Sprint-Planungsmeeting ist von `Produk-Backlog`[^1] das `Sprin-Backlog`[^2] zu erstellen.
 
-Sprint Planung ist ein "EVENT" in SCRUM.
+Sprint-Planung ist ein "EVENT" in SCRUM.
 Die andere Events sind Spint, Daily Scrum, Sprint Review, Retrospektive. Events sind ein zentralles strukturelles [Element](link) von Scrum. Event nach Scrum haben eine ganz spezielle Charakteristika[^3]. Sie müssen regelmäßig stattfinden. Es sorgt für den interaktiven Charakter von Scrum sicherzustellen. Für jedes Event nach Scrum ist ein fester Zeitraum vorgegeben. Zum Beispiel Daily Scrum ist jeden Tag 15 min.
 
+## Sprint 
+Ein Sprint ist ein festgelegten Zeitraum, in dem man die Arbeit erldigt. Bevor man losgehen kann, muss man den Sprint planen. Und so fängt man mit `Spint-Planing`. Im Sprint-Planing plant das gesamte Scrum-Team (Product Owner, Scrum-Master, Entwlickerteam) das Ziel und legt das Sprint Backlog fest. Das Sprint-Planungsmeeting umfast 2 Teile. 
+### was?
+Der erste fokusiert sich auf WAS und klärt, welche Anforderungen im Laufe des Sprints umgesetz werden sollen.
+### wie?
+Der zweite fokusiert sich auf WIE die Anforderugen (Ziele) zum Erreichen sind. Das Entwlicklerteam plant die Aufgaben, um das Ziel des Sptrints zu erreichen.
 
-
-```Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
+```
+Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
