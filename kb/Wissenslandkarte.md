@@ -7,7 +7,7 @@ anrechnung: a
 
 Ein [Unternehmen](https://de.wikipedia.org/wiki/Unternehmen), viele Standorte und eine große Mitarbeiterzahl. Unter diesen Umständen kann sich sehr schnell viel Wissen ansammeln und die Herausforderung besteht dann darin, den Überblick beizubehalten und Transparenz zu schaffen. 
 In diesem Beitrag wird es um sogenannte „Wissenslandkarten“ gehen. 
-Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und deren Zusammenhänge und eignen sich besonders dafür Arbeitsverläufe effektiver und effizienter dazustellen. Sie referenzieren auf Experten-, Team-, Mitarbeiterwissen, Wissensentwicklungsphasen und organisatorische Abläufe und Fährigkeiten. Wichtig zu erwähnen ist, dass die Wissensinhalte an sich nicht dort abgelegt wird, sondern lediglich der Verweis auf das verankterte Wissen. 
+Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und deren Zusammenhänge und eignen sich besonders dafür Arbeitsverläufe effektiver und effizienter dazustellen. Sie referenzieren auf Experten-, Team-, Mitarbeiterwissen, Wissensentwicklungsphasen und organisatorische Abläufe und Fähigkeiten. Wichtig zu erwähnen ist, dass die Wissensinhalte an sich nicht dort abgelegt werden, sondern lediglich der Verweis auf das verankerte Wissen. 
 
 
 # Inhaltsverzeichnis
