@@ -1,62 +1,54 @@
 ---
 title: Action_Points
-tags: agil klassisch
+tags: klassisch
 author: SaskiaHe 
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Action_Points um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Action Points, welche auch unter dem Namen Arbeitspaketen bekannt sind, sind die kleinsten, nicht mehr untergliederbaren Einheiten in einem komplexen Projekt. 
 
 
-# Aspekt 1
+# Action Points im Allgemeinen
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Gerade in anspruchsvollen Projekten ist es von hoher Priorität, das Projekt () zu strukturieren und erfolgreich zu bewältigen. 
+Das Projekt im Ganzen unterteilt sich dabei in mehrere Teilprojekte. Aus den Teilprojekten können wiederum Arbeitspakete gebildet werden. Arbeitspakete beinhalten dabei, ähnlich wie das Hauptprojekt, Kosten- Zeit- und Strukturpläne. 
+Die Arbeitspakete können dabei, je nach Umfang, von mehreren Personen abgearbeitet werden. Diese werden jeweils von einer verantwortlichen Person betreut, die im direkten Kontakt zum Teilprojektleiter steht. Dabei muss von dieser Person Sorge getragen werden, dass die im Vorfeld festgelegten Kosten und Zeiten eingehalten werden.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Die Relevanz von Arbeitspaketen wird dabei oft unterschätzt. Das ganze Projekt kann nur dann erfolgreich abgeschlossen werden, wenn auch alle Arbeitspakete adäquat angegangen werden. Eine besondere Herausforderung stellt dabei oft die Vielzahl von Arbeitspaketen und Teilprojekten dar, die in komplexen Projekten anfallen. Nachfolgendes Bild veranschaulicht die Abhängigkeit der Arbeitspakete hin zum Gesamtprojekt. Hier wird das Arbeitspaket als Puzzle-Teil dargestellt. Fehlt letztendlich ein Arbeitspaket oder ist es unvollständig, hat das Projekt an dieser Stelle ein Loch und kann nicht fertiggestellt werden.
 
 ![Beispielabbildung](Action_Points/test-file.jpg)
 
-*lustiges Testbild*
+*Veranschaulichung der wichtigen Arbeitspakete*
 
-# Aspekt 2
+# Größe und Inhalt von Action Points
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Um ein Arbeitspaket transparent und unkompliziert zu gestalten, ist die Definition der Größe und des Inhaltes entscheidend. 
+Für die Definition der Größe gibt es verschiedene Möglichkeiten. Zum einen bietet die Prozent-Regel eine schnelle Orientierung.
+Bei der Prozent-Regel wird empfohlen, den Umfang des Arbeitspaketes von bis zu 5% des Gesamtprojektes nicht zu überschreiten. Dabei ergeben sich ca. 20 Arbeitspakete, welche eine gute Basis und Transparenz bilden. 
+
+Der Inhalt der Arbeitspakete muss individuell auf das Projekt angepasst werden. Mögliche Inhalte bestehen dabei aus:
+
+•	Fortschritt
+•	Beschreibung / Erläuterung des Arbeitspaketes
+•	Budget und Zeit
+•	Schnittstellen mit anderen Arbeitspaketen
+
+Ebenfalls ist es auch wichtig, für wen dabei die Arbeitspakete erstellt werden. Schreibt man ein Arbeitspaket für sich selbst, sind nur wenige Stichpunkte bzw. Notizen notwendig. Wird das Arbeitspaket einem direkten Mitarbeiter übergeben, sind mehr Informationen über die durchzuführenden Tätigkeiten notwendig. Die höchste Informationsdichte fällt bei einer externen Beauftragung an. Da ein externer Dienstleister sich im Vorfeld nicht mit dem Projekt auseinander setzten konnte, ist ein genaues Verständnis der Tätigkeiten relevant. Dabei muss bei einer externen Vergabe auch an mögliche Geheimhaltungen geachtet werden.
+
+# Projektstrukturplan
+
+Die Grundlage für die Visualisierung des Projektes bildet der Projektstrukturplan (PSP). Der Projektstrukturplan definiert das Projektziel. Der Aufbau des Projektstrukturplans ist, wie bereits in der Einleitung beschrieben, hierarchisch geordnet. Die Arbeitspakete bilden dabei die letzte Instanz. Der Projektstrukturplan kann nach drei Methoden entworfen werden:
+
+•	Top down Ansatz
+•	Bottom Up Ansatz
+•	Yo-yo-Verfahren
+
+Beim Top down Ansatz wird der Projektstrukturplan von Oben nach Unten Aufgebaut. Das Gesamtprojekt wird zuerst in Teilprojekte untergliedert. Aus den Teilprojekten werden letztendlich die Arbeitspakete geschnürt.
+
+Der Bottom Up Ansatz geht genau in umgekehrter Herangehensweise vor. Aus den Arbeitspaketen werden Teilprojekte entworfen. Aus den erstellten Teilprojekten ergibt sich schlussendlich das Gesamtprojekt.
+
+Das Yo-Yo-Verfahren ist eine Kombination aus dem Top down Ansatz und dem Bottom Up Ansatz. Zum einen wird der Strukturplan von den Arbeitspaketen und zum anderen von dem Gesamtprojekt entworfen.
+
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -67,23 +59,7 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
