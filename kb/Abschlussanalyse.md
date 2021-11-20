@@ -45,7 +45,7 @@ Zusammenfassend hat die Plan-/Istkostenvergleich (bzw. Soll-Ist Abgleich) einen 
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Abschlussanalyse.md)
-
+ 
 # Quellen
 
 [^1]: (https://www.peterjohann-consulting.de/projektabschluss/#21_der_projektabschlussbericht)
