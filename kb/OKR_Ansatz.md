@@ -16,7 +16,7 @@ Die Basis des OKR-Ansatzes bildet der Strategieplanungsprozess. Hierbei werden k
 Abbildung: [Objectives and Key Results : Die Grundlagen der agilen Managementmethode OKR](https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6668403)
 
 ## Objectives
-Objectives sollen in einem Satz beschreiben, was im nächsten Zyklus erreicht werden soll und gleichzeitig alle [Stakeholder](Stakeholdermanagement.md) begeistern [^2].
+Objectives sollen in einem Satz beschreiben, was im nächsten Zyklus erreicht werden soll und gleichzeitig alle [Stakeholder](Stakeholdermanagement.md) begeistern[^2].
 Sie bilden somit ab, was es im folgenden Quartal zu erreichen gilt[^1].
 Für die Definiton ist es wichtig, dass das Management sich auf die wichtigsten Ziele der kommenden Periode fokussiert, diese Initiativen dann in die einzelnen Teams trägt und so  alle Ebenen des Unternehmens klare Prioritäten vorgegeben bekommen, nach denen jede:r handeln möchte und handelt.
 Zur Evaluation werden am Ende Objectives und Key Results gegenübergestellt[^3].
