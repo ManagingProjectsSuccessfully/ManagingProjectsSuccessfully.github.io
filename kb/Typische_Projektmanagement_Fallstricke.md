@@ -39,7 +39,7 @@ Man muss realistisch die Situation betrachten, in Abhängigkeit von Ressourcen, 
 
 Projekte sind in der Regel riesig und langfristig. Ohne der Aufteilung der Aufgaben, kann es schnell dazu kommen, dass man den roten Faden verliert, und somit führt das zu Verunsicherungen.
 ## Lösung: 
-Um diese Fallstricke im Projektmanagement zu vermeiden, muss man die Arbeit in Sektionen mit klaren kurzfristigen Fristen, eindeutigen Zielen und Werkzeugen zersplittern. Letzten endlich, eine Aufgabe, die nur eine Woche dauert, klingt besser als ein 3-Monats-Projekt.[^2]
+Um diese Fallstricke im Projektmanagement zu vermeiden, muss man die Arbeit in Sektionen mit klaren kurzfristigen Fristen, eindeutigen Zielen und Werkzeugen zersplittern. Letztenendlich klingt eine Aufgabe, die nur eine Woche dauert, besser als ein 3-Monats-Projekt.[^2]
 
 
 
