@@ -1,8 +1,8 @@
 ---
 title: Vorgehensmodelle
-tags: agil klassisch
+tags: agil klassisch Projektmanagement Planung Organisation
 author: hello-pukeko
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Vorgehensmodelle um ein erstes Verständnis dafür zu schaffen um was es hier geht.
