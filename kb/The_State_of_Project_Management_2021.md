@@ -49,7 +49,7 @@ Das Projektmanagement Office, kurz PMO, betreut alle Projekte eines Unternehmens
 
 3. Technology
 
-Leverage enterprise PPM solution to enable consistency in approach, one version of the truth, transparency & collaboration
+Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich wiederrum auf die Wirtschaftlichkeit der Projekte auswirkt. Zu den Tools gehören unter anderem die Verwendung von Software zum Termin- und Kostenüberblick, Know-How-Datenbanken und eine einfachde Kommunikation via Skype, Teams oder ähnlichen. Je nach größe des Unternehmens und Anzahl der durchgeführten Projekte im Jahr kommt es zum Einsatz verschiedener Software. Hierzu gehören die Folgenden: 
 
 4. Training & Support
 
