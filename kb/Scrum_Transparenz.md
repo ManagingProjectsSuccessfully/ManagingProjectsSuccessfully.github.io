@@ -56,7 +56,7 @@ Damit die konsistente Arbeit gesichert wird, muss jeder Mitarbeiter, der CEO und
 
 # 3. Fazit
 
-Zusammenfassend lässt sich sagen, dass Scrum-Transparenz eine wichtige Voraussetzung für eine konsistente, widerspruchsfreie und transparente Arbeit ist, dass dementsprechend den Prozess erleichtert, eine Übersicht gewährleistet und die eindeutige Kommunikation zwischen den Teilnehmer sichert.
+Zusammenfassend lässt sich sagen, dass Scrum-Transparenz eine wichtige Voraussetzung für eine konsistente, widerspruchsfreie und transparente Arbeit ist, welche dementsprechend den Prozess erleichtert, eine Übersicht gewährleistet und die eindeutige Kommunikation zwischen den Teilnehmer sichert.
 
 
 # Siehe auch
