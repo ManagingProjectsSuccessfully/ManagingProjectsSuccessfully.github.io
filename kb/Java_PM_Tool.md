@@ -5,7 +5,7 @@ author: AbderrahmaneBennani
 anrechnung: a
 ---
 
-Kurzbeschreibung zu Java_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Java Project management tools.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
