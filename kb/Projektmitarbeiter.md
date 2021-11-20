@@ -1,8 +1,8 @@
 ---
 title: Projektmitarbeiter
-tags: agil klassisch
+tags: agil klassisch 
 author: Emi1404
-anrechnung: k oder a
+anrechnung:  agil
 ---
 
 Kurzbeschreibung zu Projektmitarbeiter um ein erstes Verständnis dafür zu schaffen um was es hier geht.
