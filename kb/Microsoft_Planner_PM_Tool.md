@@ -61,18 +61,7 @@ Der Microsoft Planner wird besonders aufgrund der intuitiven Oberfläche und der
 [^4]: [Mercurio, Ralph (2018): Beginning Office 365 Collaboration Apps: Working in the Microsoft Cloud](https://link.springer.com/book/10.1007%2F978-1-4842-3849-3) ^
 [^5]: [Microsoft Planner – was ist das und was kann er?](https://www.theprojectgroup.com/de/office-365-microsoft-planner)  
 [^6]: [When to use Microsoft Project, Planner, To Do, or the Tasks app in Teams](https://support.microsoft.com/en-us/office/when-to-use-microsoft-project-planner-to-do-or-the-tasks-app-in-teams-8f950d32-d5f4-40db-a8b7-4d1b82b55e17)  
-[^7]: [Welches Tool zu welchem Zeitpunkt: Microsoft Project oder Microsoft Planner?](https://www.avepoint.com/blog/de/avepoint-blog-de/microsoft-project-oder-planner/)  
- <br>
-#
-
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
-
+[^7]: [Welches Tool zu welchem Zeitpunkt: Microsoft Project oder Microsoft Planner?](https://www.avepoint.com/blog/de/avepoint-blog-de/microsoft-project-oder-planner/)
 <!--Kurzbeschreibung zu Microsoft_Planner_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht. --!>
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
