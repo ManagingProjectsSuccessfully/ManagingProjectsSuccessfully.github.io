@@ -5,12 +5,10 @@ author: AbderrahmaneBennani
 anrechnung: a
 ---
 
-Java Project management tools.
+**Java** ist eine objektorientierte Programmiersprache und eine eingetragene Marke des Unternehmens [Sun Microsystems](https://de.wikipedia.org/wiki/Sun_Microsystems), welches 2010 von [Oracle](https://de.wikipedia.org/wiki/Oracle) aufgekauft wurde. Die Programmiersprache ist ein Bestandteil der Java-Technologie – diese besteht grundsätzlich aus dem Java-Entwicklungswerkzeug ([JDK](https://de.wikipedia.org/wiki/Java_Development_Kit)) zum Erstellen von Java-Programmen und der Java-Laufzeitumgebung ([JRE](https://de.wikipedia.org/wiki/Java-Laufzeitumgebung)) zu deren Ausführung.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Java Project Management Tools
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -101,4 +99,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^5]: [Java Wikipediaseite](https://de.wikipedia.org/wiki/Java_(Programmiersprache))
 
