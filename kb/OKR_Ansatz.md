@@ -32,7 +32,8 @@ In der Regel sollten zwei bis vier Key Results pro Objective formuliert werden, 
 Der Grund für die Mehrdimensionalität der Key Results ist die Vermeidung von Zielkonflikten, die bei Verfolgung nur eines quantitativen Ziels auftreten können[^1].
 
 **Beispiele:**[^4]
-*(bezugnehmend auf die Objectives-Beispeiele)*
+
+*(bezugnehmend auf die Objectives-Beispiele)*
 1. : 
    * In jedem [Sprint](SCRUM.md) werden mindestens 69 [Story Points](SCRUM.md) erreicht
    * Von der Idee zum Release vergehen 4 Wochen weniger
