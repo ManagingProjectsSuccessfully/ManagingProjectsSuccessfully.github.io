@@ -7,8 +7,8 @@ anrechnung: k
 
 Die Root-Cause-Analysis (oder Fehler-Ursachen-Analyse) ist ein Instrument der Unternehmensführung, deren Ziel die Identifikation der Hauptursache eines Problems ist und daraus folgend langfriste Maßnahmen zur Fehlerreduzierung einzuleiten [^1]. Konkret geht es darum, die Kernprobleme zu ermitteln, sowie deren Abhängigkeiten darzustellen, um die gesamte Ursachen-Wirkungs-Reaktion nachzuvollziehen [^2].
 
-# Einordnung in Unternehmensgeschehen
-
+# Einordnung in das Unternehmensgeschehen
+Generell gibt es zwei Wege der Störungsbeseitigung und Problembehebung das Reaktives und das Proaktives Management. Bei Ersterem liegt der Fokus auf der schnellen und kurzfristigen Beseitigung von Symptomen eines Problems. Das geschieht unter anderem durch adaptive Systeme. Bei Proaktiven Management geht es allerdem eher darum zu verhindern, dass Probleme überhaupt entstehen. Die Root-Cause-Analysis wird deshalb dem proaktiven Teil zugeteilt[^4].
 
 # Grundlegende Vorgehensweise
 Das Fundament der Analyse beruht darauf die Ursachen von Fehlern zu analysieren, wobei meist eine Gruppierung der Ursachen sinnvoll ist. Denn gemäß dem Paretoprinzip beruhen oft viele, unterschiedliche Fehler auf nur wenigen, gleichen Ursachen [^1]. Dementsprechend ist es effizienter zugrundeliegende Probleme zu verhindern anstelle der Symptome [^3].  Darauf aufbauend werden Maßnahmen zur Reduzierung der Fehler, sowie daraus resultierende Kosten. Dieser Prozess ist allerdings nicht nach einer einmaligen Durchführung beendet sondern besteht aus mehreren iterativen Durchläufen (vgl. Kontinuierlicher Verbesserungsprozess).
