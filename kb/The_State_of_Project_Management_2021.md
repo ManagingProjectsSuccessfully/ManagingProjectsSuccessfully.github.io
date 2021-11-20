@@ -54,7 +54,7 @@ Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich w
 * Allgemeine Software ist oftmals hinderlich im Bezug auf die Möglichkeit der Nutzung. Dies ist vor allem bei Grafiken ersichtlich. Im Hinblick auf die Verwendbarkeit der Software von Mitarbeiter gibt es nicht viel zu beachten, da es sich hierbei um Office-Anwendungen wie Excel oder Teams handelt. 
 * Freeware-Software bietet vor allem die Möglichkeit der grafischen Darstellung übersichtlicher darzustellen und sind einfach in das Projektmanagement mit einzubinden. Jedoch sollte hier vorsicht gewaltet werden, da vertrauliche und sensible Daten gerade bei cloud-basierten Sofware von externen Dritten abgeriffen werden können. 
 * Professionelle Software ist unausweichlich, sobald ein Unternehmen mehrere Projekte parallel oder im Jahr am laufen hat. Diese Art von Software kann oftmals auf das Unternehmen angepasst werden. Durch ein einheitliches Erscheinungsbild ist die Verwendung durch die Mitarbeiter einfach gestaltet, muss jedoch erstmals erlernt werden, wozu nicht alle Mitarbeiter bereit sind.
-* Web 2.0-Software bietet den Vorteil der ständigen Weiterentwicklung. 
+* Web 2.0-Software bietet den Vorteil der ständigen Weiterentwicklung. So ist die direkte Kommunikation bspw. mit dem Stakeholdern ein Vorteil, gleichzeitig aber auch ein Nachteil, da Gruppierungen, welche sich gegen das Projekt aussprechen die nahezu gleiche Informationsbasis zugrunde liegen haben.
 
 
 4. Training & Support
