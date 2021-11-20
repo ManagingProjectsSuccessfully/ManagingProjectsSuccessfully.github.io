@@ -60,8 +60,8 @@ So kann man eine Tabelle erstellen:
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projekthandbuch.md)
+* [Projektdokumentation](Projektdokumentation.md)
+* [Projektmanagementhandbuch](Projektmanagementhandbuch.md)
 
 # Weiterführende Literatur
 
