@@ -39,7 +39,22 @@ Als eine Firma versucht das SAFe Agile Management zu implementieren, ist es wich
 * Das ART-Team hat regelmäßig einTreffen
 * IP (Innovation and Planning) veranstalten immer am Ende einen Teil. 
 * I&A (Inspect and Adapt) veranstalten auch immer am Ende einen Teil.
-* Develop on Cadence, Release on Demand 
+* Develop on Cadence, Release on Demand
+
+## Organisation um den Wert
+Wie schon gesagt war, die ARTs sind organisiert, um den Wert zu bringen. ARTs sind am meistens virtuelle Teams, in denen die Leute zusammen arbeiten, aber sehr häufig bleiben die Leute unter dem klassischen Struktur des Unternehmens. Das Bild unten zeigt wie sind die ARTs gebildet.
+
+![ARTs construction](https://user-images.githubusercontent.com/93159758/142731182-0c99e1c6-2983-4ef2-8e79-2a2ff094c728.png)
+*ARTs sind cross-functional Teams* , Quelle: noch erfüllen
+
+## ART Teamstruktur und wichtige Teamrollen
+Die Struktur der ART Teams ist zwar nicht fest festgestellt, aber es gibt hier eine bestimmte Rollen, die für erfolgreiches Funktionieren wichtig sind. Am meisten enthalten die Teams zwichen 50 und 125 Leute. Für jedes Team gibt es ein Release train engineer (RTE), Product manager und System architect. Außer dem AGT-Team sind auch business owner, die verantwortlich für die Businessergebnisse eines ART-Teams sind, und die Kunden, denen die Lösungen von einem ART-Team geliefert sind.
+
+**Kurze Rollenbeschreibung:**
+* [Release train engineer](https://www.scaledagileframework.com/release-train-engineer-and-solution-train-engineer/) - ist der ART-führer und ist verantwortlich für die Leitung des ART-Teams. Dazu zählt man die Exekution, das Riskmanagement und die Verbesserung des Prozesses im ART-Team.
+* [Product manager](https://www.scaledagileframework.com/product-management/) - ist verantworlich für den Auftritt. Er kommuniziert mit den Kunden und Product owners und achtet darauf, dass der Auftritt nach der festgestellten Vision und Roadmap ist.
+* [System architect](https://www.scaledagileframework.com/system-architect-engineering/) - kann ein Person oder ein Team sein. Er definiziert die allgemeine Struktur des Systems.
+* [Business owner](https://www.scaledagileframework.com/business-owners/) - ist verantwortlich für die Businessergebnisse eines ART-Teams
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -123,8 +138,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: Benefits of SAFe: How it Benefits Organizations (no date) Scaled Agile. Available at: https://scaledagile.com/what-is-safe/scaled-agile-benefits/ (Accessed: 18 November 2021).
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
 
