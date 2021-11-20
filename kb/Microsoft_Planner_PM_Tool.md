@@ -4,13 +4,15 @@ tags: agil klassisch
 author: BeratGuen
 anrechnung: k
 ---
-<img src="https://github.com/BeratGuen/ManagingProjectsSuccessfully.github.io/blob/main/kb/Microsoft_Planner_PM_Tool/Microsoft%20Planner%20Logo.png" width="50" height="50">
+![Microsoft Planner - Logo](Microsoft_Planner_PM_Tool/Microsoft%20Planner%20Logo.png) 
+*Microsoft Planner - Logo*
 
-![Microsoft Planner - Logo](Microsoft_Planner_PM_Tool/Microsoft%20Planner%20Logo.png)
+#
 
-Microsoft Planner ist ein Aufgabenverwaltungs-Tool, entwickelt von Microsoft, und seit dem 06.Juni.2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education bzw. Enterprise Umgebung.[1]
-Seitens Microsoft wird dafür eine webbasierte Anwendung, (*evtl. Verlinkung zu Cloud Services) sowie die Möglichkeit der lokalen Verwendung über gängige Betriebssysteme wie Microsoft Windows, MacOS und mobile Betriebssysteme wie Android, iOS und iPadOS angeboten.2
-Der Microsoft Planner bietet sehr vielseitige Anwendungsmöglichkeiten darunter z.B. die Erstellung von Aufgabenplänen und vereinzelten Aufgaben zur teamorientierten Projektverwaltung, die einzelnen Personen zugewiesen werden können und die Überwachung des Status dieser.
+Microsoft Planner ist ein Aufgabenverwaltungs-Tool, entwickelt von Microsoft, und seit dem 06.Juni.2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education bzw. Enterprise Umgebung.[1] [2] <br>
+Seitens Microsoft wird dafür eine webbasierte Anwendung,sowie die Möglichkeit der lokalen Verwendung über gängige Betriebssysteme wie Microsoft Windows, MacOS und mobile Betriebssysteme wie Android, iOS und iPadOS angeboten.[1] [3]  <br>
+Der Microsoft Planner bietet vielseitige Anwendungsmöglichkeiten darunter z.B. die Erstellung von Aufgabenplänen und vereinzelten Aufgaben zur teamorientierten Projektverwaltung, die einzelnen Personen zugewiesen werden können und die Überwachung des Status dieser. [3] <br>
+
 Besonders aufgrund der intuitiven Oberfläche und der Office 365 Integration wird das Tool in vielen Unternehmen eingesetzt.
 
 <br>
@@ -19,13 +21,22 @@ Besonders aufgrund der intuitiven Oberfläche und der Office 365 Integration wir
 
 | Abbildung     | Beschreibung |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+|![Planerstellung beim First Start](Microsoft_Planner_PM_Tool/MS_Planner_01.png) Planerstellung| <br> * Plannamen vergeben <br> * Plan zu einer bereits existierenden Microsoft 365 Gruppe hinzufügen <br>*	Sichtbereich des Plans beschränken (besonders in großen Unternehmen mit zentraler IT relevant) <br> * optionale Gruppenbeschreibung |
+|a|b
+
+# Siehe auch
 
 
+# Quellen
+[^1]: [Microsoft Planner - Wikipedia EN](https://en.wikipedia.org/wiki/Microsoft_Planner)
 
+[^2]: [Microsoft 365 - Wikipedia EN](https://en.wikipedia.org/wiki/Microsoft_365)
 
-<!-Kurzbeschreibung zu Microsoft_Planner_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+[^3]: [Microsoft Planner - Microsoft.com](https://www.microsoft.com/de-de/microsoft-365/business/task-management-software)
+
+[^4]: [Beginning Office 365 Collaboration Apps: Working in the Microsoft Cloud]()
+
+<!--Kurzbeschreibung zu Microsoft_Planner_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`). 
@@ -113,7 +124,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... 
+
 
 # Quellen
 
