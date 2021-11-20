@@ -2,7 +2,7 @@
 title: Abschlussanalyse
 tags: agil klassisch
 author: medjeara
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Um ein Projekt bewerten zu können gehört dazu eine Abschlussanalyse, um festzustellen, ob das Projekt erfolgreich durchgeführt oder insgesamt das Ziel verfehlt wurde. 
