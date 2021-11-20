@@ -21,7 +21,7 @@ Ein Projektplan-ein formelles Dokument, in dem alle Entscheidungen und Schritte 
 
 # 2. Mangelhafte Kommunikation 
 
-Schlechte Kommunikation ist ein wichtiger Faktor, der den Erfolg eines Projekts stark beeinflussen gefährden kann. Ein Mangel an effektiver Kommunikation kann zu Verwirrung und Verzögerungen führen und die Qualität der Arbeit und der Aufgaben des Projekts beeinträchtigen. [^1] (siehe: [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md))
+Schlechte Kommunikation ist ein maßgeblicher Faktor, der den Erfolg eines Projekts stark beeinflussen und gefährden kann. Ein Mangel an effektiver Kommunikation kann zu Verwirrung, Verzögerungen oder Konflikte führen, und somit die Qualität der Arbeit und der Aufgaben des Projekts beeinträchtigen. [^1] (siehe: [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md))
 ## Lösung: 
 * Eine effektive Kommunikation steht im Mittelpunkt der Teamzusammenarbeit [^1]. Tägliche oder wöchentliche Besprechungen, indem jeder Mitarbeiter Mitspracherecht hat und Feedbacks geben kann, können dabei helfen, sich gegenseitig besser zu verstehen um effektiver das Ziel zu erreichen (siehe [Daily Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md))[^3]. 
 *	Eine gute Technische Infrastruktur mit Projektmanagement-Tools, kann ebenso den Teammitgliedern ermöglichen, ihren Fortschritt in Echtzeit zu aktualisieren und somit mit anderen zu kommunizieren. [^1]
