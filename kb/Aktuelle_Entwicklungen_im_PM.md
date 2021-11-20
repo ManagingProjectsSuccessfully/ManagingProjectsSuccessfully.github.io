@@ -85,7 +85,7 @@ Sowohl [Kanban](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.
 
 
 
-![Beispielabbildung](https://office-roxx.de/wp-content/uploads/2019/01/20180921.png)
+![Beispielabbildung](/kb/Aktuelle_Entwicklungen_im_PM/Aktuelle_EntwicklungenPM.png)
 
 *Aktuelle Trends bei Projektmanagement-Tools*
 
