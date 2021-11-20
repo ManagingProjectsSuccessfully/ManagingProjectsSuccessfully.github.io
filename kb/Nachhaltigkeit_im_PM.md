@@ -5,7 +5,7 @@ author: Miki2701
 anrechnung: k
 ---
 
-Nachhaltigkeit ist ein Handlungsprinzip, zur Nutzung von Ressourcen, wobei eine permanente Bedürfnisbefriedigung durch die
+[Nachhaltigkeit](https://de.wikipedia.org/wiki/Nachhaltigkeit#Begriffsgeschichte) ist ein Handlungsprinzip, zur Nutzung von Ressourcen, wobei eine permanente Bedürfnisbefriedigung durch die
 Erhaltung der natürlichen Regenerationsfähigkeit der beteiligten Systeme (insbesondere Lebewesen und Ökosytemen) gewährleisten
 werden soll [^1]. Im Kontext von Projekten bedeutet dies, dass man die Interessen von Fach- und Stakeholdern kombiniert und die Zukunft und das 
 Unvorhergesehene berücksichtigt.[^2]
