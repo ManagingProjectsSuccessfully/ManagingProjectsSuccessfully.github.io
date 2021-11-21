@@ -67,7 +67,8 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 *	Der Report ist auf der Internetseite des PMI kostenlos zur Verfügung gestellt
 *	Die Befragung wird jährlich, je nach Interessenslage, variiert. So wurde 2020/2021 beispielsweise Corona besondere Beachtung geschenkt.
 *	Der Report stellt Versionen für verschiedene Regionen zur Verfügung, um Unterschiede herausstellen zu können und einen tieferen Einblick je nach Region zu gewähren. Der 
-  Hauptreport und die Regionalen Reports sind in mehreren Sprachen verfügbar. 
+  Hauptreport und die Regionalen Reports sind in mehreren Sprachen verfügbar:
+  
 ![Sprachvarianten der Surveys](Global_Project_Management_Survey/Bild1_Sprachauswahl.jpg).
 *	Seit 2021 lassen sich die Daten der Reports nach eigens gewählten Kriterien filtern, um noch schneller und übersichtlicher die Benchmark mit dem eigenen Unternehmen Regional 
 und weltweit vergleichen zu können:
