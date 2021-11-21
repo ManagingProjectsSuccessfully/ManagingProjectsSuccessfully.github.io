@@ -5,7 +5,7 @@ author: thujavanj
 anrechnung: a
 ---
 # Inhaltsverzeichnis
-1  [Definition](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#definition)  
+1. [Definition](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#definition)  
 2  [Intention von Scrumbuts](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#die-intention-von-scrumbuts)  
 3  [Scrumbut Syntax](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#scrumbut-syntax)  
 4  [Gründe für Scrumbuts](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#gr%C3%BCnde-f%C3%BCr-scrumbuts)  
