@@ -16,11 +16,13 @@ Storytelling ist eine weit verbreitete Erzählmethode der Rhetorik, welche in vi
 
 ## Was ist Storytelling im Projektmanagement?
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Geschichten haben meistens eine tieferen Sinn. Durch das Storytelling wird versucht dem Publikum etwas zu vermitteln:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* Weitergabe von Wissen
+* Wiedergabe von Erfahrung 
+* Übertragung von Lebensweisheiten
+* Vermittlung von Werten und Normen
+
 
 ![Beispielabbildung](Storrytelling/test-file.jpg)
 
