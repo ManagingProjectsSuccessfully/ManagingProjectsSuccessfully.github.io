@@ -14,9 +14,6 @@ Immer öfter neigen Unternehmen dazu, Projekte anhand des agilen Projektmanageme
 des agilen Managements und deren Kernpunkte sind es, dass es Projekten und Prozessen *breiteren Raum an Flexibilität* bietet, was es möglich macht, *schneller und
 effektiver* auf Veränderungen einzugehen.[^1]
 
-
-# Historischer Hintergrund
-
 Eine Methodik, welche das agile Konzept verfolgt, ist Scrum. Diese hat ihren Ursprung in den *frühen 90er Jahren* und wurde primär als Entwicklungsmethodik für Software
 eingeführt.[^2]  
 
@@ -26,6 +23,7 @@ Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^3]. Darunter fallen
 2. an dem Prozess beteiligte Personen
 3. daraus resultiernde Ergebnisse
 
+Die Agilität von Scrumt zeichnet sich dardurch aus, dass der Workflow in zeitlich festgelegte Schritte, sog. Sprints eingeteilt wird.
 
 # Sprints
 
@@ -87,7 +85,7 @@ Was auch bereits im darunterstehenden Bild illustriert wurde, soll im Folgenden 
 
 
 Demnach beinhaltet ein Sprint den Sprint Review, welcher nochmals in mehrere Bestandteile aufgegliedert werden kann. Schlüsselelement dabei ist vor allem die Demo des
-Entwicklerteams, auf welche dann ein Feedback der Anwesenden folgt. Dies geschieht immer im Hinblick auf die Anpassung des Product Backlogs und der kontinuierlichen
+Entwicklerteams, auf welche dann ein Feedback der Anwesenden folgt. Dies geschieht immer im Hinblick auf die Anpassung des **Product Backlogs** und der kontinuierlichen
 Fortschritte des Produktes in Richtung des vorgegebenen Ziels.[^6]
 
 
