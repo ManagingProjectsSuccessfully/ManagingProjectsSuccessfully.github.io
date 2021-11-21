@@ -39,10 +39,15 @@ So kann man eine Tabelle erstellen:
 ## 5.1 Hier gleich noch eine Ebene-2-Überschrift :-)
 
 Eng damit verknüpft ist die Rückmeldung an den Kunden. Im Gegensatz zu agilen Projekten können dem Kunden keine Zwischenprodukte oder –ergebnisse präsentiert werden.[^3] Dadurch gehen entscheidende [Feedbackgespräche](Feedbackgespräche.md) im Projektverlauf verloren, welches für die weiteren Prozessschritte hätte berücksichtigt werden können. Stattdessen werden die Projektergebnisse 
-am Ende einer Projektphase oder sogar erst am Ende des Projekts bereitgestellt. Somit haben die Anspruchsgruppen so gut wie keinerlei Einfluss während des Projektes, wodurch wiederum neue Missverständnisse entstehen. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben wodurch umfangreiche nachträgliche Anpassungen notwendig werden.[^5]
+am Ende einer Projektphase oder sogar erst am Ende des Projekts bereitgestellt.
 
 ![Beispielabbildung](Klassische_Missverstaendnisse/Feedback.jpg)        
-*Zeitpunkt des Feedbacks beim klassichen Projektmanagement*             
+*Zeitpunkt des Feedbacks beim klassichen Projektmanagement*      
+
+Somit haben die Anspruchsgruppen so gut wie keinerlei Einfluss während des Projektes, wodurch wiederum neue Missverständnisse entstehen. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben wodurch umfangreiche nachträgliche Anpassungen notwendig werden.[^5]
+
+![Beispielabbildung](Klassische_Missverstaendnisse/Änderungen.jpg)        
+*Anstieg der Anpassungskosten im Verhältnis zur Zeit* 
 
 # 6. Unverhältnismäßige Rahmenbedingungen
 
