@@ -8,7 +8,7 @@ anrechnung: k
 Der folgende Artikel widmet sich dem Thema Gantt-Diagramme, die im klassischen Projektmanagement ein häufig verwendetes Werkzeug darstellen.
 
 # 1 Was ist ein Gantt Diagramm
-Gantt-Diagramme  sind Tools zur Projektplanung. Sie unterstützen im klassischen [Projektmanagement]( https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)  (hier den Artikel verlinken!!), indem sie die zeitliche Abfolge, sowie Beginn und Ende der einzelnen Aktivitäten des Projekts in Balkenform visualisieren [^1].
+Gantt-Diagramme  sind Tools zur Projektplanung. Sie unterstützen im klassischen [Projektmanagement]( https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), indem sie die zeitliche Abfolge, sowie Beginn und Ende der einzelnen Aktivitäten des Projekts in Balkenform visualisieren [^1].
 
 ## 1.1 Entstehung
 Die erste Form des Gantt-Diagramms wurde 1896 von einem polnischen Hüttentechniker namens Karol Adamiecki entworfen. Er bezeichnete es als Harmonogram, was aus dem Polnischen übersetzt „Arbeitsablaufschild“ bedeutet. Unabhängig von Adamieckis Diagramm erstellte Henry Laurence Gantt im Jahr 1910 das erste Gantt-Diagramm, anhand dessen er Produktionsprozesse im Schiffsbau plante. Die Gantt-Chart wie sie heute eingesetzt wird, wurde jedoch nach seinem Tod durch einen Kollegen von H. L. Gantt verbreitet. Dies erfolgte durch Henry Wallace Clark unter anderem durch die Publikation des Buches „The Gantt chart, a working tool of management“ im Jahr 1922 [^2]. 
