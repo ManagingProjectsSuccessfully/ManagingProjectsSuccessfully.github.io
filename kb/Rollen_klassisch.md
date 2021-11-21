@@ -147,9 +147,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Wikipedia-Artikel Projektmanagement] (https://de.wikipedia.org/wiki/Projektmanagement)
-[^4]: [Projektrollen diese Stellen müssen besetzt sein] (https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/rollen-im-projekt-diese-stellen-muessen-besetzt-sein/)
-[^5]: [Projektmanagement erklärt] (https://omr.com/de/projektmanagement/#Welche%20Projektbeteiligten%20bzw.%20Projektrollen%20gibt%20es?)
+[^3]: [Wikipedia-Artikel Projektmanagement](https://de.wikipedia.org/wiki/Projektmanagement)
+[^4]: [Projektrollen diese Stellen müssen besetzt sein](https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/rollen-im-projekt-diese-stellen-muessen-besetzt-sein/)
+[^5]: [Projektmanagement erklärt](https://omr.com/de/projektmanagement/#Welche%20Projektbeteiligten%20bzw.%20Projektrollen%20gibt%20es?)
 [^6]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^7]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
