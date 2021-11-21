@@ -7,6 +7,8 @@ anrechnung: k
 
 Kurzbeschreibung zu {Projekt} um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
+Das Integrationsmanagement ist ein Teilgebiet des Projektmanagements und dient dazu alle Prozesse und Vorgänge, welche Teil des Projekts sind, zu koordinieren und an alle Prozessgruppen anzupassen.[^2]
+
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
@@ -48,6 +50,19 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 ![Beispielabbildung]({Projekt}/test-file.jpg)
 
 *lustiges Testbild*
+# Prozesse 
+
+Bei erfolgreicher Anwendung des Integrationsmanagements kann erkennen, dass der Ablauf in kleine einzelne Schritte aufgeteilt ist. Es zieht sich also vom Entwickeln des Projektauftrages bis hin zur Abschließung es Projekts hin.
+
+![image](https://user-images.githubusercontent.com/92979613/142760466-3cb71557-6d49-4938-822f-5e84b1ad5eda.png)
+(Eigene Abbildung in Power Point erstellt auf Basis von [^1]
+
+Nach dem Entwickeln des Projektauftrags bzw. nachdem ein Auftrag für ein Projekt angenommen wurde, wird ein Projektmanagementplan entwickelt, welcher der rote Faden sein soll. Der Plan dient als Orientierung über die verschiedenen Prozesse und Tätigkeiten, die erledigt werden müssen.
+
+Darauf folgen die wichtigsten Phasen innerhalb des Integrationsmanagements. Dazu zählen das Lenken und Steuern der Projektausführung, das Verwalten des Projektwissens, das Überwachen der Projektarbeit und das Umsetzen von Änderungen des Projektplans aufgrund von Problemen und Hindernissen, die aufgrund von äußeren Umständen auftreten. Um gewisse Probleme zu umgehen oder zu lösen, ist es oft von Nöten, den Projektplan nochmal zu optimieren und den neuen Situationen anzupassen.
+
+Bei jedem Projekt kommt es zu Problemen und Hindernissen, die es zu überwältigen gilt. Deshalb ist es wichtig stets alle Entscheidungen und deren Folgen für ein Projekt zu verstehen, um so den maximalen Erfolg für ein Projekt garantieren zu können.[^1]
+
 
 # Aspekt 2
 
@@ -97,8 +112,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: https://www.wrike.com/de/project-management-guide/faq/was-ist-integrationsmanagement-bei-projekten/
+[^2]: http://projektmanagement-definitionen.de/glossar/integrationsmanagement-in-projekten/
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
