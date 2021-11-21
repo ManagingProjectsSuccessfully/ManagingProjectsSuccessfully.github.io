@@ -5,10 +5,7 @@ author: SimonM211
 anrechnung: a
 ---
 
-Kurzbeschreibung zu SCRUM_org_Institution um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Scrum.org ist eine Institution, die es sich zum Auftrag gemacht hat, Teams bei der Lösung von komplexen Problemen mit Hilfe von Scrum zu unterstützen. Sie wurde 2009 von Ken Schwaber, einem der Mitbegründer von Scrum und Unterzeichner des Agilen Manifests, ins Leben gerufen. Kern des Angebotes sind Scrum Kurse für alle wichtigen Rollen eines Scrum Projekts und eine darauf aufbauende Zertifizierung, um einen gewissen Qualitätsstandart sicher zu stellen.
 
 # Hintergrundgeschichte
 
@@ -17,8 +14,6 @@ oben im Front-Matter (Bereich zwischen den `---`).
 # Angebot
 
 # Konkurrenten
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
