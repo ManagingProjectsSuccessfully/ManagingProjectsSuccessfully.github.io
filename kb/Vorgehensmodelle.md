@@ -5,6 +5,30 @@ author: hello-pukeko
 anrechnung: k
 ---
 
+Kurzbeschreibung zu Vorgehensmodelle
+
+# Begriffsdefinition "Vorgehensmodelle"
+
+# Stoffsammlung/Checkliste
+* Einführung, die gut auf den Punkt bringt / Bild malt, was Vorgehensmodelle sind
+* Definition des Begriffs?
+* Gängige Vorgehensmodelle?
+* Englische Synonyme / ähnlich verwendete Begriffe
+  - (approach) (- nur im Zusammenhang z.B. "agile approach" aber dann nicht zwingend "Vorgehensmodell", sondern auch Herangehensweise etc.)
+  - process model
+  - procedure model
+  - method?? könnte im PMBOK guide Vorgehensmodell unter deren Definition Method fallen?
+  - development approach / life cycle?
+* Einordnung agil/klassisch (gibt sowohl als auch, evtl. mehr Beispiele ausführen für k, da Anrechnung k)
+* Mehrere Beispiele für Vorgehensmodelle erklären? Oder nur verlinken? (Was bietet sich an/wozu gibt es eigenen Artikel?)
+  - Wasserfall: verlinken
+  - V-Modell
+
+
+
+
+-----------------
+-----------------
 Kurzbeschreibung zu Vorgehensmodelle um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
@@ -84,20 +108,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 4. eine
 7. nummerierte liste
    1. und hier eine Ebene tiefer
-# Stoffsammlung/Checkliste
-* Einführung, die gut auf den Punkt bringt / Bild malt, was Vorgehensmodelle sind
-* Definition des Begriffs?
-* Gängige Vorgehensmodelle?
-* Englische Synonyme / ähnlich verwendete Begriffe
-  - (approach) (- nur im Zusammenhang z.B. "agile approach" aber dann nicht zwingend "Vorgehensmodell", sondern auch Herangehensweise etc.)
-  - process model
-  - procedure model
-  - method?? könnte im PMBOK guide Vorgehensmodell unter deren Definition Method fallen?
-  - development approach / life cycle?
-* Einordnung agil/klassisch (gibt sowohl als auch, evtl. mehr Beispiele ausführen für k, da Anrechnung k)
-* Mehrere Beispiele für Vorgehensmodelle erklären? Oder nur verlinken? (Was bietet sich an/wozu gibt es eigenen Artikel?)
-  - Wasserfall: verlinken
-  - V-Modell
 
 # Siehe auch
 
