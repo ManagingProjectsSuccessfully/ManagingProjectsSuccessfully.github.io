@@ -1,6 +1,6 @@
 ---
 title: The_State_of_Project_Management_2021
-tags: agil klassisch projektmanagement bericht verbessern zukunft
+tags: agil klassisch projektmanagement entwicklung reife schluesselfaktoren methoden projektmanagementoffice technologien beratung zukunft
 author: michaelstnt
 anrechnung: k 
 ---
