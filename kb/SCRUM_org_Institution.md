@@ -11,6 +11,8 @@ Scrum.org ist eine Institution, die es sich zum Auftrag gemacht hat, Teams bei d
 
 ![Beispielabbildung](SCRUM_org_Institution/Scrumorg-Logo_tagline-TM_(1)_(1)_(2).jpg)
 
+*Scrum.org Logo*
+
 # Angebot
 
 # Konkurrenten
