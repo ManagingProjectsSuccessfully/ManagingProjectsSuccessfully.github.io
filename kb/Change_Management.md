@@ -35,7 +35,7 @@ Weitere hervorzuhebende Faktoren stellen die Berücksichtigung vorliegender Unte
 
 # Anleitung und Modelle
 Auch wenn aufgrund der Komplexität der Faktoren eine pauschale Anleitung zur erfolgreichen Gestaltung des Wandels nicht vorhanden sein kann,
-existieren eine Vielzahl an Modellen zur Gestaltung von Change Management [^3].
+existieren eine Vielzahl an Modellen zur Gestaltung von [Link auf diese Seite](Change_Projekte) [^3].
 Eine oft zu beobachtende Gemeinsamkeit ist die sequentielle Abfolge einzelner Schritte im Verlauf des Veränderungsprozesses [^8]. 
 Zwei der bekanntesten Modelle sind das 8-Stufen Modell von Kotter und das 3-Stufen Modell von Lewin [^9][^10].
 
@@ -51,7 +51,7 @@ Erst im folgenden Schritt werden die Neuerungen eingeführt und anschließend al
 3-Stufen Modell nach Lewin [^13]. 
 
 ## Kotter Modell
-Kotter schlägt 8 Stufen auf dem Weg zu erfolgreichem Change Management vor. 
+Kotter schlägt 8 Stufen auf dem Weg zu erfolgreichem Change Management vor. [Link auf diese Seite](Change_Management.md)
 Insbesondere stellt dieser die Bedeutung und das Kommunizieren einer gemeinsamen Vision heraus [^10].
 
 ![Beispielabbildung](Change_Management/Kotter_Bild.png)
