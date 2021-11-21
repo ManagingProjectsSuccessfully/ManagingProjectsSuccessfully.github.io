@@ -23,7 +23,7 @@ In der Realität kommt es durchaus auch zu Scrumbuts die nicht unbedingt positiv
 Jedes Scrumbut hat meistens folgende Syntax: 
 -	Scrumbut, 
 -	Grund, 
--	Workaround.
+-	Workaround.  
 Die Abbildung 1 verdeutlicht dabei die typische Syntax eines Scrumbuts anhand eines Beispiels. [2]
 ![image](SCRUM_but/scrumbut-syntax.jpeg)
 *Abbildung 1 [^2]*
