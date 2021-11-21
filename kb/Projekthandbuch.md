@@ -53,7 +53,7 @@ Eine weitere Form des Projekthandbuchs ist der Project Management Plan des [PMBO
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Projekthandbuch Vorlage](https://muster-vorlage.ch/projekthandbuch-vorlage/#Projekthandbuch_Vorlage)
 
 # Quellen
 
