@@ -48,11 +48,11 @@ Feed-Funktion:
 
 Share-Optionen: 
 * Co-Authoring-Funktion von Office 365-Anwendungen zur parallelen Bearbeitung von Dokumenten 
-*	Anwendungen müssen nicht mehr gewechselt werden, sondern Dokumente können direkt in MS Teams bearbeiten 
+*	Anwendungen müssen nicht mehr gewechselt werden, sondern Dokumente können direkt in MS Teams bearbeit werden
 
 Verschiedene Tools zur optimalen Projektbearbeitung: 
 *	Workspace in MS Teams individuell an verschiedene Arbeitsgruppen anpassbar
-*	So könnt ihr alle möglichen Inhalte aus verschiedenen Microsoft-Anwendungen und von mehr als 150 Drittanbietern [^6]
+*	So kann man alle möglichen Inhalte aus verschiedenen Microsoft-Anwendungen und von mehr als 150 Drittanbietern nutzen [^6]
 
 # 5. Qullenverzeichnis
 [^1]: Digitale Kommunikation: https://kmu-digitalisierung.agency/digitale-loesungen/digitale-kommunikation/
