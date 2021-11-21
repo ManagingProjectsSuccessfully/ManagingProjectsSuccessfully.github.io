@@ -28,11 +28,11 @@ Nicht immer findet man das Projekthandbuch unter diesem Namen, oftmals wird unte
 
 ## Das V-Modell XT
 
-In Deutschland wird unter dem Begriff Projekthandbuch meist das gemeint, welches sich nach den Richtlinien des [V-Modell](V_Modell.md) XT richtet und vor allem für IT-Projekte der öffentlichen Hand Anwendung findet. Hiernach beinhaltet das Projekthandbuch "(..) eine Kurzbeschreibung des Projekts, die Beschreibung des Tailoring-Ergebnisses, den grundlegenden Projektdurchführungsplan, die notwendige und vereinbarte Unterstützung des Auftraggebers sowie Organisation und Vorgaben für die Planung und Durchführung des Projekts und die anstehenden Entwicklungsaufgaben.“ [^8]
+In Deutschland wird unter dem Begriff Projekthandbuch meist das gemeint, welches sich nach den Richtlinien des [V-Modell](VModell.md) XT richtet und vor allem für IT-Projekte der öffentlichen Hand Anwendung findet. Hiernach beinhaltet das Projekthandbuch "(..) eine Kurzbeschreibung des Projekts, die Beschreibung des Tailoring-Ergebnisses, den grundlegenden Projektdurchführungsplan, die notwendige und vereinbarte Unterstützung des Auftraggebers sowie Organisation und Vorgaben für die Planung und Durchführung des Projekts und die anstehenden Entwicklungsaufgaben.“ [^8]
 
 ## Die Projektleitdokumentationen
 
-Ähnlich wie beim [V-Modell](V_Modell.md) XT, definiert das britisches Projektmanagementsystem [Prince 2](PRINCE2.md) seine Projektleitdokumentationen (PID), die dem deutschen Projekthandbuch entsprechen. Bestandteile der PID sind zum Beispiel, die Projektdefinition, die Struktur des Projektmanagementteams, der Projektplan und die Qualitäts-, Konfigurations-, Risiko-, und Kommunikationsmanagementstrategie [^4] [^9]. 
+Ähnlich wie beim [V-Modell](VModell.md) XT, definiert das britisches Projektmanagementsystem [Prince 2](PRINCE2.md) seine Projektleitdokumentationen (PID), die dem deutschen Projekthandbuch entsprechen. Bestandteile der PID sind zum Beispiel, die Projektdefinition, die Struktur des Projektmanagementteams, der Projektplan und die Qualitäts-, Konfigurations-, Risiko-, und Kommunikationsmanagementstrategie [^4] [^9]. 
 
 ## Der Project Management Plan
 
