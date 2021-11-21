@@ -1,89 +1,47 @@
 ---
 title: Projektplanung
-tags: agil klassisch
+tags: klassisch Projektplanung
 author: MarleneMMeyer
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Projektplanung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+„Die Projektplanung ist eine der wichtigsten Aufgaben in dem weiten Feld des Projektmanagements"[^1], von der das Erreichen des angestrebten Ergebnisses abhängt. Sie stellt die zweite von vier Phasen eines Projekts dar, die für das Gelingen der Projektdurchführung verantwortlich ist und auf die Projektdefinition folgt.[^2] Unter Projektplanung versteht man die systematische Informationsgewinnung über den künftigen Ablauf des Projekts und die gedankliche Vorwegnahme des notwendigen Handelns im Projekt.“[^3]
 
 
-# Aspekt 1
+# Projektplanung im klassischen Projektmanagement
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Das Klassische Projektmanagement ist durch genaue Planung, Steuerung und Koordination geprägt. Dies bedeutet, dass die einzelnen Phasen der Projektplanung von Beginn an genaustens durchgeplant und die Anforderungen an das Endprodukt bereits bekannt sind.[^4] Durch das lineare Vorgehen und die genaue Terminplanung ist die Überschaubarkeit des Projekts gewährleistet. Klare Hierarchien und die genaue Definition der einzelnen Phasen verringern die Komplexität der Projekte.[^5] Durch die Rangordnung wird die Aufgabenteilung vorgegeben und die Kommunikation zwischen den Teammitgliedern erleichtert. Das Projektmanagement agiert im Spannungsfeld des Magischen Dreiecks, das heißt unter Beachtung der zur Verfügung stehenden Zeit, Qualität und Ressourcen. Die einzelnen Phasen des Projektmanagements sind alle auf den erfolgreichen Abschluss des Projekts ausgerichtet.[^6] Die genaue Dokumentation der einzelnen Arbeitsschritte macht die ständige Anwesenheit des Kunden überflüssig. Das Zugegensein des Kunden ist nur in der Anfangs- und Abschlussphase erforderlich.[^7]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Des Weiteren lässt sich das klassische Projektmanagement in das strategische und operative Projektmanagement unterteilen. Die Aufgabe des strategischen Projektmanagements ist die Projektplanung gemäß den Vorgaben der Unternehmensstrategie.[^8] Das operative Projektmanagement bezeichnet das Management eins Projekts von der Planung bis zum Abschluss. Dies beinhaltet „das Verwalten einzelner Projekte, das Erstellen von Schnittstellen zum strategischen Projektmanagement und die Koordination des Einsatzes von Instrumenten“[^9].
 
-![Beispielabbildung](Projektplanung/test-file.jpg)
 
-*lustiges Testbild*
+# Perspektiven des klassischen Projektmanagements
 
-# Aspekt 2
+Das Klassische Projektmanagement kann aus der institutionellen, der funktionalen und der instrumentellen Sicht betrachtet werden. Die erste Perspektive beschäftigt sich mit den Organisationseinheiten. Aufgaben die während des Projektmanagements auftreten, wie beispielsweise die Projektüberwachung, werden von der funktionalen Sicht beobachtet. Die letzte Perspektive beschäftigt sich mit verschiedensten Planungsinstrumenten, die die funktionalen Aufgaben unterstützen sollen.[^10]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Modelle der Projektplanung im klassischen Projektmanagement
 
-So kann man eine Tabelle erstellen:
+## Wasserfallmodell 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Zwei bekannte Vorgehensmodelle des klassischen Projektmanagements sind einerseits das Wasserfallmodell und andererseits das Spiralmodell. „Das Wasserfallmodell ist die einfachste Form der Vorgehensmodelle und besteht in seiner ursprünglichen Form aus den Phasen Anforderungsdefinition, Analyse, Entwurf, Implementierung, Test und Inbetriebnahme.“[^11] Das lineare Modell eignet sich vor allem für Projekte mit bekannten Anforderungen, die wenige Änderungen vorhersehen.
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+![Beispielabbildung](Projektplanung/Wasserfallmodell.jpg) 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+*Wasserfallmodell*
 
-### Ebene-3-Überschrift
+## Spiralmodell
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Eine Erweiterung des linearen Modells stellt das Spiralmodell dar. „Es besteht aus vier zyklischen Schritten, die durchgängig bis zur Außerbetriebnahme der Software stattfinden“[^12]. Dieses beginnt mit der Definition der Ziele in der Phase „Voraussetzungen“ gefolgt von der „Risikoanalyse“ in der Lösungsansätze in Bezug auf mögliche Risiken bewertet werden. Die „Umsetzung“ der angepeilten Ziele erfolgt im dritten Schritt. Die letzte Phase, die zugleich den Beginn eines neuen Zyklus darstellt, beschäftigt sich mit der „Planung“ der weiteren Vorgehensweise.[^13]
 
-# Aspekt n
+![Beispielabbildung](Projektplanung/Spiralmodell.jpg) 
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+*Spiralmodell*
+
+
+# Kritik an der Projektplanung im klassischen Projektmanagement
+
+Die Ausrichtung aller Handlungsaspekte auf das Endprodukt und die genaue Vorausplanung und Festlegung der Vorgehensweise machen kurzfristige Änderungen nahezu unmöglich. Sie sind durch einen enormen Zeitaufwand und hohe Kosten gekennzeichnet. „Der Fokus liegt auf dem Einhalten eines Plans, nicht im ständigen Reagieren auf Änderungen im Projektumfeld.“[^14] Die Kunden werden außerdem nicht in den Entstehungsprozess des Produktes mit eingebunden, da das Endprodukt von Beginn an klar definiert ist.[^15] Aufgrund der mangelnden Zwischenergebnisse und des dadurch fehlenden Feedbacks der Kunden werden Fehler erst spät bemerkt. Aus diesen Gründen ist das klassische Projektmanagement für dynamische Märkte ungeeiget.[^16]
 
 
 # Siehe auch
@@ -97,8 +55,19 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://www.projektarbeit-projektplanung.de/projektplanung-beispiele/projektplanung-definition/ 
+[^2]: https://de.wikipedia.org/wiki/Projektplanung
+[^3]: https://www.projektmagazin.de/pmplanung
+[^4]: https://www.brainymotion.de/blog/projektmanagement-klassisch-und-agil-im-vergleich
+[^5]: https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/ 
+[^6]: https://link.springer.com/content/pdf/10.1007%2F978-3-8349-4202-9_3.pdf Buch 
+[^7]: https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/ 
+[^8]: https://www.projektmagazin.de/glossarterm/strategisches-projektmanagement 
+[^9]: https://link.springer.com/content/pdf/10.1007%2F978-3-8349-4202-9_3.pdf 
+[^10]: https://link.springer.com/content/pdf/10.1007%2F978-3-8349-4202-9_3.pdf 
+[^11]: https://link.springer.com/content/pdf/10.1007%2F978-3-8349-4202-9_3.pdf 
+[^12]: https://link.springer.com/content/pdf/10.1007%2F978-3-8349-4202-9_3.pdf 
+[^13]: https://link.springer.com/content/pdf/10.1007%2F978-3-8349-4202-9_3.pdf 
+[^14]: https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/ 
+[^15]: https://www.brainymotion.de/blog/projektmanagement-klassisch-und-agil-im-vergleich 
+[^16]: https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/ 
