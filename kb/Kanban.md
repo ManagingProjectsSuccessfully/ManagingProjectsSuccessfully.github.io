@@ -41,10 +41,26 @@ Man kann mit dem Aufbau des Kanban-Systems beginnen, indem man das einfachste [K
 
 ![Beispielabbildung](Kanban/Kanban_board-elements.png)
 
-*Kanban-Board*
+*[Kanban-Board](Kanban_Boards.md)*
 
 Wenn es richtig aufgebaut, verwaltet und funktioniert, dient es als Echtzeit-Informationsspeicher, der Engpässe innerhalb des Systems und alles andere aufzeigt, 
 was eine reibungslose Arbeitspraxis stören könnte[^4].
+
+# Vergleich Kanban und Scrum
+
+Grundsätzlich hilft Kanban [Scrum](Scrum.md)-Projekten, die Transparenz aller Teammitglieder zu erhöhen[^5]. 
+Eine höhere Transparenz kann beispielsweise sinnvoll sein, wenn ein Team von einem anderen Team abhängig ist und daher Identitäten austauschen muss[^5]. 
+Durch die Anzeige- und Nutzungsbeschränkungen kann jedes Team sehen, wie beschäftigt andere Teams sind und was sie gerade tun[^5]. 
+Darüber hinaus kann der Einsatz von [Swim-Lanes](Kanban_Swim_Lanes.md) für eine bessere Übersicht sorgen und soll die Qualität der Kommunikation mit den Kunden verbessern[^5]. 
+
+| [Scrum](Scrum.md)         | Kanban        |
+| ------------- | ------------- |
+| Verwendung von Kompläxität bzw. Storypoints als Kennzahl, um Prozessverbesserungen zu planen. | Verwendet Durchlaufzeit (Leadtime) als Kennzahl, um Prozessverbesserungen zu planen und zu avaluieren.|
+| Schätzungen werden vorgeschrieben.  | Schätzungen sind optimal.|
+| Setzt voraus, dass ein Scrum-Board nach jedem Sprint zurückgesetzt wird. | Ein [Kanban-Boards](Kanban_Boards.md) ist presistent|
+| Setzt ein priorisiertes Produkt-Backlog voraus. | Priorisierung ist optimal. Eine Selektion am Eingang der Dienstleistung ermöglicht ein Zusammenführen mehrerer Bachlogs.|
+
+*Vergleich von Scrum und Kanban[^5]*
 
 # Siehe auch
 
@@ -53,6 +69,7 @@ was eine reibungslose Arbeitspraxis stören könnte[^4].
 * [Kanban_Work_in_Progress](Kanban_Work_in_Progress.md)
 * [Kanban_Karten](Kanban_Karten.md)
 * [Kanban_Swim_Lanes](Kanban_Swim_Lanes.md)
+* [Scrum](Scrum.md)
 
 # Weiterführende Literatur
 
@@ -65,4 +82,4 @@ https://www.youtube.com/watch?v=iVaFVa7HYj4 - Atlassian
 [^2]: https://de.wikipedia.org/wiki/Produktionsplanung_und_-steuerung
 [^3]: https://magazin.weka-elearning.de/kanban
 [^4]: https://kanbanize.com/kanban-resources/getting-started/what-is-kanban
-
+[^5]: Michael Städler, André von Zobeltitz 2020, Entwicklung und Erprobung von IT-Anrechnungsstudiengängen: Abschließende Erkenntnisse aus dem deutschlandweit ersten derartigen Forschungsprojekt "Open IT", 1.Auflage
