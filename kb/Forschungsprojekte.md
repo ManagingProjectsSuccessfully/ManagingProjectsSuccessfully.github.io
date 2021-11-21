@@ -21,7 +21,7 @@ Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt 
 * Meist Teamarbeit in interdisziplinären Arbeitsgruppen [^1]
 
 # Forschungsprojekte im Projektmanagement
-Das Projektmanagement ist für die Forschung von wichtiger Bedeutung, da ohne PM das ohnehin schon hohe Risiko des Misslingens noch zusätzlich gesteigert wird [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialiserte Agenturen können so zum Beispiel auch die Qualität sichern, die in der Medizintechnik eine wichtige Rolle spielt. [^5] Auch wenn es Schwierigkeiten bereitet, klare Anforderungen zu formulieren und Fortschritte zu dokumentieren, ist es dennoch wichtig, dies zu versuchen. Dabei darf auch die Risikobeurteilung und Ressourcenplanung nicht zu knapp kommen, nur weil es das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und Ehrgeiz der Forscher. Management wird nicht direkt mit Forschung assoziiert, eher als lästig empfunden. Daher ist es wichtig, dass auch auf die Organisation eingegangen wird. Ansonsten folgen nicht erreichte Ziele. Forschungsinhalt und Management gehören zusammen [^2]
+Das Projektmanagement ist für die Forschung von wichtiger Bedeutung, da ohne PM das ohnehin schon hohe Risiko des Misslingens noch zusätzlich gesteigert wird [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialiserte Agenturen können so zum Beispiel auch die Qualität sichern, die in der Medizintechnik eine wichtige Rolle spielt. [^5] Auch wenn es Schwierigkeiten bereitet, klare Anforderungen zu formulieren und Fortschritte zu dokumentieren, ist es dennoch wichtig, dies zu versuchen. Dabei darf auch die Risikobeurteilung und Ressourcenplanung nicht zu knapp kommen, nur weil es das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und Ehrgeiz der Forscher. Management wird nicht direkt mit Forschung assoziiert, eher als lästig empfunden. Daher ist es wichtig, dass auch auf die Organisation eingegangen wird. Ansonsten folgen nicht erreichte Ziele. Forschungsinhalt und Management gehören zusammen [^2]. Das abgebildete Diagramm zeigt, warum Projekte scheitern. Eines der wichtigsten Faktoren stellt hierbei die Kommunikation dar. Weswegen dieser Aspekt besonders in den Lösungsansätzen berücksichtigt werden muss. Aber auch die Wahl der Pro
 
 ![Beispielabbildung](Forschungsprojekte/test-file.jpg)
 
@@ -73,6 +73,7 @@ Nützliche Funktionen:
 * Forschungsprojekte entwickeln, von der Idee bis zur Publikation, W.Bauer, J.Bleck-Neuhaus, R.Dombois, I.Wehrtmann, 2018
 * Das Forschngsprojekt, Planung, Durchführung und Auswertung einer quantitativen Auswertung, W.Voß, N.Schöneck, 2013
 * https://www.youtube.com/watch?v=Ar-qjMOsh7U
+* https://pm-blog.com/ Projektmanagement Blog
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
