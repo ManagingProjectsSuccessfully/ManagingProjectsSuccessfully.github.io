@@ -16,6 +16,7 @@ Grundsätzlich liegt die Intention eines Scrumbuts meist in der Optimierung bzw.
 -	Nutzung von Commitments (Product Goal, Sprint Goal oder Definition od Done) [^2]
 
 Die Anwendungsmöglichkeiten für Scrumbuts sind riesig. Sie reichen von der Interpretation der Verantwortlichkeiten („Für uns sind Product Owner nicht wichtig“ über die Dauer und Frequenz von bestimmten Events bis hin zu den Artefakten („Statt Product oder Sprint Backlogs verwenden wir unsere internen Projektdokumente“). [^2]
+
 In der Realität kommt es durchaus auch zu Scrumbuts die nicht unbedingt positive Ziele verfolgen. Die Durchführung von Workshops zur Ermittlung von Anforderungen wir in Scrum nicht definiert, auch wenn solche Workshops sinnvoll sind. [^2] Etwas nicht zu tun, obwohl es positiv für die Entwicklung einer Lösung wäre, ist nicht im Sinne von Scrum, so dass auch hier von einem Scrumbut gesprochen werden kann [^2].
 
 # Scrumbut Syntax
@@ -24,7 +25,9 @@ Jedes Scrumbut hat meistens folgende Syntax:
 -	Grund, 
 -	Workaround.
 Die Abbildung 1 verdeutlicht dabei die typische Syntax eines Scrumbuts anhand eines Beispiels. [2]
-![image](https://user-images.githubusercontent.com/92809831/142771082-73707ea2-3135-45c7-b41f-6996bfe278b0.png)
+![image](SCRUM_but/scrumbut-syntax.jpeg)
+*Abbildung 1 [^2]*
+
 
 
 
