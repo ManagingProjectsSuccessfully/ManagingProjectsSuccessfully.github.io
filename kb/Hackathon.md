@@ -5,10 +5,9 @@ author: eberto99
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Hackathon um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Als Hackathon wird eine kollaborative Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen eine Lösung zu einer zuvor definierten Problemstellung erarbeiten.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf den zeitlich befristeten Rahmen des Events.
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
