@@ -4,7 +4,8 @@ tags: agil klassisch
 author: FCN478
 anrechnung: k 
 ---
-Projektmanagement lässt sich allgemein als Sammelbegriff für sämtliche Handlungen verstehen, die steuernd, planend, koordinierend und überwachend die Neu- oder Umgestaltung von Prozessen oder Systemen zum Ziel haben.[^1] Dabei kann man, unterscheidend nach Ziel und Methodik, verschiedene Arten des Projektmanagements differenzieren. Die grobe Trennung erfolgt zwischen einer klassischen und einer agilen Herangehensweise, die sich bereits durch ihre Grundauffassung, wie sich ein Problem oder Prozess lösen lässt, unterscheiden. Darüber hinaus existiert eine Mischform aus beiden Ansätzen. Welche Art gewählt wird, hängt eng mit der zu bewältigenden Projektart zusammen und wird von dieser bestimmt. 
+Projektmanagement lässt sich allgemein als Sammelbegriff für sämtliche Handlungen verstehen, die steuernd, planend, koordinierend und überwachend die Neu- oder Umgestaltung von Prozessen oder Systemen zum Ziel haben.[^1] Dabei kann man, unterscheidend nach Ziel und Methodik, verschiedene Arten des Projektmanagements differenzieren. Die grobe Trennung erfolgt zwischen einer klassischen und einer agilen Herangehensweise, die sich bereits durch ihre Grundauffassung, wie sich ein Problem oder Prozess lösen lässt, unterscheiden. Darüber hinaus existiert eine Mischform aus beiden Ansätzen. Welche Art gewählt wird, hängt eng mit der zu bewältigenden Projektart zusammen und wird von dieser bestimmt. Weiterhin befindet sich sich alle Arten im Spannungsfeld des Magischen Dreiecks des Projektmanagements.
+![Magisches Dreieck](Projektmanagement/projektmanagement.png)
 
 # Klassisches Projektmanagement
 Das klassische Projektmanagement zeichnet sich grundsätzlich durch ein bestehendes festes Endziel des Projekts aus. Diesem Ziel werden die Ressourcen vorab bereitgestellt und nach einem festen Modell erfolgt der Projektablauf. Weiterhin wird davon ausgegangen, dass das Projektumfeld relativ stabil ist und sich demzufolge das Projekt von Start bis Abschluss durchplanen lässt. Dahingehend erfolgt die Wahl des Ablaufmodells projektbezogen. Die bekanntesten Modelle sind das Wasserfallmodell und das Spiralmodell.[^2]
@@ -29,8 +30,8 @@ Das Spiralmodell lässt sich als Modell, welches die Risikominimierung in den Fo
 2.	Risikoanalyse
 3.	Umsetzung
 4.	Review der vorangegangenen Schritte und Planung der nächsten Iteration
-5.	
-Bei der Risikoanalyse werde die Rahmenbedingungen definiert und konkrete Lösungen vorgeschlagen. Danach erfolgt die Evaluierung der Lösungen und etwaige Risiken systematisiert und versucht, diese möglichst zu minimieren. Im dritten und vierten Schritt erfolgt dann die Prüfung der vorangegangenen Schritte und die Planung der nächsten Iteration.[^2]
+
+Bei der Risikoanalyse werden die Rahmenbedingungen definiert und konkrete Lösungen vorgeschlagen. Danach erfolgt die Evaluierung der Lösungen und etwaige Risiken werden systematisiert und versucht, diese möglichst zu minimieren. Im dritten und vierten Schritt erfolgt dann die Prüfung der vorangegangenen Schritte und die Planung der nächsten Iteration.[^2]
 
 Zentral ist hierbei die Erstellung von Prototypen, welche von Iteration zu Iteration verfeinert werden und am Projektende das Ergebnis darstellen.[^4]
 
@@ -41,7 +42,6 @@ Basierend auf dem agilen Manifest aus dem Jahr 2001, besteht das agile Projektma
 * Funktionen und Software sind wichtiger als umfassende Dokumentation
 *	Kundenzusammenarbeit ist wichtiger als Vertragsverhandlungen
 *	Auf Änderungen reagieren ist wichtiger als einem Plan zu folgen
-
 
 In diesem Rahmen nimmt der Mensch eine wichtige Rolle ein und mithin stellen Kommunikation, Einfachheit, Rückkopplung, Mut und Respekt zentrale Werte dar.[^2]
 
