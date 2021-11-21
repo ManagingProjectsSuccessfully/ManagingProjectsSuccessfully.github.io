@@ -73,7 +73,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 *	Seit 2021 lassen sich die Daten der Reports nach eigens gewählten Kriterien filtern, um noch schneller und übersichtlicher die Benchmark mit dem eigenen Unternehmen Regional 
 und weltweit vergleichen zu können:
 
-![Datenbank zur Informationsfilterung](Global_Project_Management_Survey/Bild2_Datenbank.jpg).
+![Datenbank zur Informationsfilterung](Global_Project_Management_Survey/Bild3_Datenbank.jpg).
 
 Die Daten lassen sich unter folgendem Link beliebig Filtern:
 [Datenbank Survey 2021](https://public.tableau.com/app/profile/pmi2161/viz/PulseoftheProfession/PulseoftheProfession)
