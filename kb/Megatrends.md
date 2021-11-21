@@ -1,13 +1,13 @@
 ---
 title: Megatrends
-tags: agil
+tags: agil klassisch 
 author: SaskiaHe 
 anrechnung: a
 ---
 
 Megatrends im Projektmanagement sind Veränderungen, mit denen sich ein Projektmanager auseinandersetzen muss, um seine Projekte trotz diesen Herausforderungen erfolgreich abschließen zu können. 
 
-# Megatrends im Projektmanagement im Jahr 2021
+# Megatrends im Projektmanagement im Jahr 2021 [^1] [^2] 
 
 Die Corona-Pandemie bewirkt, dass es immer mehr Projekte gibt. Deswegen ist es immer wichtiger sich mit den neuen Trends zu beschäftigen und diese zu meistern.
 
@@ -15,10 +15,6 @@ Die Corona-Pandemie bewirkt, dass es immer mehr Projekte gibt. Deswegen ist es i
 
 Um ein Projekt erfolgreich zu managen, ist die perfekte Anzahl an Mitarbeitern essenziell. Zu viele Mitarbeiter können ein Projekt schnell unübersichtlich machen. Dies kann bewirken, dass manche Mitarbeiter möglicherweise unterfordert sind.
 Bei zu wenigen Mitarbeiten kann es geschehen, dass Deadlines nicht eingehalten werden können und die Mitarbeiter durch zu viel Stress demotiviert werden. Auch sollten Mitarbeiter nach ihren Fähigkeiten eingesetzt werden und für ihre Aufgaben eine interne Deadline haben, damit sich das Projekt positiv entwickelt. Insgesamt ist es wichtig, dass der Projektmanager weiß, wie viele Mitarbeiter gerade an einem Projekt arbeiten, wie viele Anlagen eingesetzt sind und auf welchem Stand sie sind.
-
-![Beispielabbildung](Megatrends/test-file.jpg)
-
-*lustiges Testbild*
 
 ## 2. Digitalisierung 
 
@@ -44,7 +40,13 @@ So kann man eine Tabelle erstellen:
 
 Gig-Economy wird im Zeitalter der neuen Technologien immer beliebter. Es ist sinnvoll, kleine Aufgaben, die auch extern bearbeitet werden können, auszusourcen. So können diese Aufgaben meist günstiger und auch schneller bearbeitet werden und die internen Mitarbeiter können sich besser auf ihre Aufgaben konzentrieren.
 
-Remote-Work ist seit Beginn der Pandemie 2020 sehr beliebt geworden. Remote Work oder auch Homeoffice kann nicht nur von internen, sondern auch von externen Mitarbeitern, welche möglicher Weise auch im Ausland tätig sind, wahrgenommen werden. Das Knowledge-Sharing wird dadurch gut gefördert. Auch für die Kommunikation ist es einfacher geworden. Der Projektmanager hat einen besseren Überblick über seine Mitarbeiter. Er kann den Status aller Projekte und Mitarbeiter im Auge behalten. So kann er gut sehen, welche Mitarbeiter noch freie Kapazitäten haben und ob eventuell noch weitere Projekte bearbeitet werden können.
+Remote-Work ist seit Beginn der Pandemie 2020 sehr beliebt geworden. Remote Work oder auch Homeoffice kann nicht nur von internen, sondern auch von externen Mitarbeitern, welche möglicher Weise auch im Ausland tätig sind, wahrgenommen werden.
+
+![Abbildung](kb/Megatrends/3-Common-Solutions-for-Remote-Team-Management-Problems.jpg)
+
+
+
+Das Knowledge-Sharing wird dadurch gut gefördert. Auch für die Kommunikation ist es einfacher geworden. Der Projektmanager hat einen besseren Überblick über seine Mitarbeiter. Er kann den Status aller Projekte und Mitarbeiter im Auge behalten. So kann er gut sehen, welche Mitarbeiter noch freie Kapazitäten haben und ob eventuell noch weitere Projekte bearbeitet werden können.
 
 ## 5. Datenmengen
 
@@ -65,8 +67,8 @@ Zeit in Anspruch, hilft aber andererseits beim Vereinfachen der Projekte. Techno
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.theprojectgroup.com/blog/projektmanagement-trends/
+[^2]: 
+[^3]: 
+[^4]: 
 
