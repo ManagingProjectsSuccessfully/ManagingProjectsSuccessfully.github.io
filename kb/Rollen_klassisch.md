@@ -96,14 +96,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+ 
 
 ![Beispielabbildung](Rollen_klassisch/test-file.jpg)
 
@@ -128,7 +121,6 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * [Projektmitarbeiter](Projektmitarbeiter.md)
 * [Spezialistenteams](Spezialistenteams.md)
 * [Aufgabenteilung](Aufgabenteilung.md)
-* [Link auf diese Seite](Rollen_klassisch.md)
 
 # Weiterführende Literatur
 
