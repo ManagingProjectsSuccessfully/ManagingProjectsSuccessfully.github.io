@@ -5,7 +5,7 @@ author: Irishcoffee09
 anrechnung: k
 ---
 
-Die Nutzwertanalyse (kurz: NWA; aber auch Punktwertverfahren, Punktbewertungsverfahren oder Scoring-Modell genannt) gehört zu den qualitativen, nicht-monetären Analysemethoden der Entscheidungstheorie.[^1] Im Projektmanagement dient die Nutzwertanalyse als Methode zur rationalen Entscheidungsfindung bei komplexen Problemen.[^1] 
+Die Nutzwertanalyse (kurz: NWA; aber auch Punktwertverfahren, Punktbewertungsverfahren oder Scoring-Modell genannt) gehört zu den qualitativen, nicht-monetären Analysemethoden der Entscheidungstheorie.[^1] Im Projektmanagement dient die Nutzwertanalyse als Methode zur rationalen Entscheidungsfindung bei komplexen Problemen.[^1] Sie wird vorallem herangezogen für Entscheidungsfindungen, bei denen nicht in Geldeinheiten oder Zeiteinheiten messbare Aufwendungen als Faktoren verwendet werden können, sondern beispielsweise Umweltfaktoren, Image oder soziale Faktoren eine Rolle spielen.[^4]
 
 
 # Hintergrund
@@ -15,12 +15,12 @@ Eine dieser Maßnahmen ist die „Nutzwertanalyse“.[^2]
 
 # Vorgehen
 
-Bei der Nutzwertanalyse werden mehrere Projekte oder Projektalternativen gegenübergestellt und ihr jeweiliger “Nutzwert” ermittelt. Die Kriterien, die zur Bewertung des Nutzens herangezogen werden, werden ermittelt und verschwieden gewichtet.[^5] Die Methode folgt einer 6-Schritte-Anleitung:[^3]
+Bei der Nutzwertanalyse werden mehrere Projekte oder Projektalternativen gegenübergestellt und ihr jeweiliger “Nutzwert” ermittelt. Die Kriterien, die zur Bewertung des Nutzens herangezogen werden, werden ermittelt und verschieden gewichtet.[^5] Die Methode folgt einer 6-Schritte-Anleitung:[^3]
 
 ## 6-Schritte der NWA
 
 ### Schritt 1: Festlegung der Alternativen bzw. Entscheidungsvarianten
-Die verschiedenen Varianten werden gesammelt und festgehalten. Es ist hilfreich, wenn diese Liste nicht allzu lang wird, weil die Methode sonst sehr aufwändig wird. Mit 2-5 Alternativen bist du gut aufgestellt.
+Die verschiedenen Varianten werden gesammelt und festgehalten. Es ist hilfreich, wenn diese Liste nicht allzu lang wird, weil die Methode sonst sehr aufwändig wird. Mit 2-5 Alternativen ist man gut aufgestellt.
 
 ### Schritt 2: Definition von Bewertungskriterien
 Es werden die Kriterien festgelegt, anhand derer eine Entscheidung getroffen werden soll. Diese Kriterien sind häufig Anforderungen an das Produkt oder zu erreichende Ziele. Hier entsteht meist eine Liste von bis zu 10 Kriterien.
@@ -36,7 +36,6 @@ Hier erfolgt die eigentliche Bewertung: Pro Kriterium und Alternative werden Pun
 
 ### Schritt 6: Summierung und Auswahl
 Durch Summierung der Einzelgewichtungen ergibt sich die gewichtete Punktzahl pro Alternative. Die Alternative mit der höchsten Punktzahl entspricht den definierten Kriterien am besten.
-
 
 ## Beispiel
 
