@@ -1,8 +1,8 @@
 ---
 title: Interactive_Planning
-tags: agil klassisch
+tags: agil
 author: Vallejk
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Interactive_Approach um ein erstes Verständnis dafür zu schaffen um was es hier geht.
