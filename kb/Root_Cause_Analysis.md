@@ -5,13 +5,13 @@ author: xyjaxy
 anrechnung: k
 ---
 
-Die Root-Cause-Analysis (oder Fehler-Ursachen-Analyse) ist ein Instrument der Unternehmensführung, deren Ziel die Identifikation der Hauptursache eines Problems ist und daraus folgend langfriste Maßnahmen zur Fehlerreduzierung einzuleiten [^1]. Konkret geht es darum, die Kernprobleme zu ermitteln, sowie deren Abhängigkeiten darzustellen, um die gesamte Ursachen-Wirkungs-Reaktion nachzuvollziehen [^2].
+Die Root-Cause-Analysis (oder Fehler-Ursachen-Analyse) ist eine Sammlung von Techniken, deren Ziel die Identifikation der Hauptursache eines Problems ist und daraus folgend langfriste Maßnahmen zur Fehlerreduzierung einzuleiten [^1]. Konkret geht es darum, die Kernprobleme zu ermitteln, sowie deren Abhängigkeiten darzustellen, um die gesamte Ursachen-Wirkungs-Reaktion nachzuvollziehen [^2].
 
 # Einordnung in das Unternehmensgeschehen
-Generell gibt es zwei Wege der Störungsbeseitigung und Problembehebung das Reaktives und das Proaktives Management. Bei Ersterem liegt der Fokus auf der schnellen und kurzfristigen Beseitigung von Symptomen eines Problems. Das geschieht unter anderem durch adaptive Systeme. Bei Proaktiven Management geht es allerdem eher darum zu verhindern, dass Probleme überhaupt entstehen. Die Root-Cause-Analysis wird deshalb dem proaktiven Teil zugeteilt[^4].
+Die Techniken der Root-Cause-Analysis werden unter anderem in Geschäftsprozess-, Herstellungsprozessanalysen oder Analysen zu Stör- und Zwischenfällen eingesetz [^5]. Generell gibt es zwei Arten der Störungsbeseitigung und Problembehebung: das Reaktives und das Proaktives Management. Bei Ersterem liegt der Fokus auf der schnellen und kurzfristigen Beseitigung von Symptomen eines Problems. Das geschieht unter anderem durch adaptive Systeme. Bei Proaktiven Management geht es vor allem darum zu verhindern, dass Probleme überhaupt entstehen. Die Root-Cause-Analysis wird deshalb dem proaktiven Management zugeordnet[^4].
 
 # Grundlegende Vorgehensweise
-Das Fundament der Analyse beruht darauf die Ursachen von Fehlern zu analysieren, wobei meist eine Gruppierung der Ursachen sinnvoll ist. Denn gemäß dem Paretoprinzip beruhen oft viele, unterschiedliche Fehler auf nur wenigen, gleichen Ursachen [^1]. Dementsprechend ist es effizienter zugrundeliegende Probleme zu verhindern anstelle der Symptome [^3].  Darauf aufbauend werden Maßnahmen zur Reduzierung der Fehler, sowie daraus resultierende Kosten. Dieser Prozess ist allerdings nicht nach einer einmaligen Durchführung beendet sondern besteht aus mehreren iterativen Durchläufen (vgl. Kontinuierlicher Verbesserungsprozess).
+Das Fundament der Analyse beruht darauf die Ursachen von Fehlern zu analysieren, wobei meist eine Gruppierung der Ursachen sinnvoll ist. Denn gemäß dem Paretoprinzip beruhen oft viele, unterschiedliche Fehler auf nur wenigen, gleichen Ursachen [^1]. Dementsprechend ist es effizienter zugrundeliegende Probleme zu verhindern anstelle der Symptome [^3].  Darauf aufbauend werden Maßnahmen zur Reduzierung der Fehler, sowie daraus resultierende Kosten eingeführt. Dieser Prozess ist allerdings nicht nach einer einmaligen Durchführung beendet sondern besteht aus mehreren iterativen Durchläufen (vgl. Kontinuierlicher Verbesserungsprozess).
 
 # Schritte
 1. Problemidentifikation und -definition [^4]
@@ -28,9 +28,13 @@ Das Fundament der Analyse beruht darauf die Ursachen von Fehlern zu analysieren,
 - Ausreichende Informationen als Belege für Kausalzusammenhänege und Basis für Korrekturmaßnahmen [^3]
 
 # Techniken und Werkzeuge
+Im folgenden werde die zwei bekanntesten Techniken der Root-Cause-Analysis dargestellt.
 ## 5-Why-Methode
-## Änderungs- / Ereignisanalyse
+Kernidee diese Methode ist sich ausgehend von einem Problem fünf-mal die Frage "Warum?" zu stellen, um so an die eigentliche Ursache zu gelangen. 
+Nachdem ein zu untersuchendes Problem identifiziert und definiert wurde wird die Frage gestellt "Warum ist das passier?" bzw. "Welche Unter-Probleme könnten zu diesem Problem führen?". Als Resultat ergeben sich mehrere mögliche Faktoren, die zum Problem beitragen. Ist dies geschen wird wieder pro Faktor gefragt "Warum ist das passier?" bzw. "Welche Unter-Probleme könnten zu diesem Problem führen?", wobei sich hier wieder mehrere Faktoren aks Resultat ergeben. Insgesamt wird dies fünf mal ausgeführt und führt letzendlich zu einer Baumstruktur (siehe Abbildung 1) und mehreren möglichen Kernursachen. Häufig wird diese Technik zu Beginn eingesetz, um beispielsweise erste Brainstorming-Sessions zu strukturieren [^5].
+
 ## Fischgrätendiagramm
+Das Fischgräten- oder auch Cause-Effect-Diagramm stellt die Bezeihung zwischen einem gegebenen negativen Efekt und potenziellen Ursachen dar. Wobei zwischen kausalen und beitragenden Ursachen unterschieden wird. Ersteres sind Faktoren, deren vorhanden sein direkt zu dem Fehler führen, während letzeres Faktoren sind deren vorhanden sein das Auftreten eines Fehlers wahrscheinlicher machen. Die besonderheit des Fischgrätendiagramms ist, dass Faktoren in Kategorien gruppiert werden, um sie zu strukturieren. Dabei ist zu beachten, dass die vorgeschlagenen Kategorien einen Rahmen bieten und nicht als obligatorisch gesehen werden sollen. Bekannte Kategorien sind z.B. Technologie, Methoden, Material, Personal, Milieu und Messung. Pro Kategorie können Ursachen wiederum in primäre und sekundäre aufgeteilt werden, um Ursachenketten zu identifizieren (siehe Abbildung 2) [^5].
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -123,7 +127,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [Was ist die Ursachenanalyse](https://asq.org/quality-resources/root-cause-analysis)
 [^3]: [Die Ursacheenanalyse](https://www.tableau.com/de-de/learn/articles/root-cause-analysis)
 [^4]: [Root cause analysis](https://en.wikipedia.org/wiki/Root_cause_analysis)
-
+[^5]: [Fundaments of Business Process Management]
 [^3]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
