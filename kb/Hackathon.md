@@ -5,16 +5,16 @@ author: eberto99
 anrechnung: k
 ---
 
-Als Hackathon wird eine kollaborative Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine Lösung zu einer zuvor definierten Problemstellung erarbeiten.
+Als Hackathon wird eine kollaborative Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine Lösung zu einer zuvor definierten Problemstellung erarbeiten.[^]
 
-Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird hier das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf die zeitliche Komponente des Events.
+Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird hier das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf die zeitliche Komponente des Events.[^]
 
-Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Hinter allen steckt jedoch ein und dieselbe grundlegende Idee, was einen Hackathon im Kern charakterisiert und als Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat.
+Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Hinter allen steckt jedoch ein und dieselbe grundlegende Idee, was einen Hackathon im Kern charakterisiert und als Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat.[^]
 
 
 # Grundlegende Idee und Ziel
 
-Die grundlegende Idee liegt in der eventspezifischen Herangehensweise an die gestellte Problemsituation. Diese erfolgt auf eine intuitive, kreative und experimentierfreudige Art und Weise. Das Ziel soll nicht eine in allen Belangen absolut perfekte Lösung sein, sondern ein Prototyp, der erste problemlösende Funktionalitäten enthält. 
+Die grundlegende Idee liegt in der eventspezifischen Herangehensweise an die gestellte Problemsituation. Diese erfolgt auf eine intuitive, kreative und experimentierfreudige Art und Weise. Das Ziel soll nicht eine in allen Belangen absolut perfekte Lösung sein, sondern ein Prototyp, der erste problemlösende Funktionalitäten enthält.[^] 
 
 Der innovative Kern des Hackathons lässt sich anhand von drei wesentlichen Merkmalen charakterisieren:
 
@@ -27,11 +27,11 @@ Der innovative Kern des Hackathons lässt sich anhand von drei wesentlichen Merk
 *Abbildung 1: Minimalstruktur eines Hackathons* [^]
 
 
-Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen verstärkt, die zum einen im Zuge der Entwicklung des Formats hinzugekommen sind, und zum anderen den Anreiz des Hackens steigern. Dazu gehört die Kreation einer Wettbewerbssituation durch ein Organisationsteam, Präsentation der Ergebnisse vor einer Jury, als auch vielversprechende Preise.
+Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen verstärkt, die zum einen im Zuge der Entwicklung des Formats hinzugekommen sind, und zum anderen den Anreiz des Hackens steigern. Dazu gehört die Kreation einer Wettbewerbssituation durch ein Organisationsteam, Präsentation der Ergebnisse vor einer Jury, als auch vielversprechende Preise.[^]
 
 ![Beispielabbildung](Hackathon/Elemente-Hackathon.png)
 
-*Abbildung 2: Charackteristische Elemente eines Hackathons mit mehreren Teams*
+*Abbildung 2: Charackteristische Elemente eines Hackathons mit mehreren Teams*[^]
 
 
 # Ablauf
