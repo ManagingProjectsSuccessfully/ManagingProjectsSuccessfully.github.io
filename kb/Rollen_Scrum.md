@@ -39,4 +39,3 @@ Die optimale Teamgröße richtet sich nach dem jeweiligen Projekt. Sehr kleine T
 [^1]: Jeff Sutherland Ken Schwaber: Der Scrum Guide. (PDF) scrum.org (https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-German.pdf), aufgerufen am 21.11.2021
 [^2]: Scrum-Rollen, scrumguide.de (https://scrumguide.de/scrum-rollen/), aufgerufen am 21.11.2021
 [^3]: Scrum-Master, scrumguide.de (https://scrumguide.de/scrum-master/), aufgerufen am 21.11.2021
-[^4]: 
