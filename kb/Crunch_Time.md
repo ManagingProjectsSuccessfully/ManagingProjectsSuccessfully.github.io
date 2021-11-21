@@ -12,6 +12,7 @@ Wenn man ein Projekt managet läuft nicht immer alles nach Plan. Durch unvorhers
 # Folgen
 
 ![Beispielabbildung](Crunch_Time/Magisches-Dreieck-Mint.png)
+*Magisches Dreieck im Projektmanagement*
 
 # Lösungen
 
