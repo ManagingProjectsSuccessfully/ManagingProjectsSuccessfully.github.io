@@ -109,34 +109,25 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Projekt](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projektteam_Kultur](Projektteam_Kultur.md)
+* [Project_Management_Office](Project_Management_Office.md)
+* [Faehigkeiten_Projektleiter](Faehigkeiten_Projektleiter.md)
+* [Projektcontrolling](Projektcontrolling.md)
+* [Qualitaetsmanagement](Qualitaetsmanagement.md)
+* [Qualitaetssicherung](Qualitaetssicherung.md)
+* [Verantwortlichkeiten](Verantwortlichkeiten.md)
+* [Empowerment](Empowerment.md)
+* [Kommunikation_Projektbeteiligte](Kommunikation_Projektbeteiligte.md)
+* [Teammanagement](Teammanagement.md)
+* [Projektleiter](Projektleiter.md)
+* [Projektmitarbeiter](Projektmitarbeiter.md)
+* [Spezialistenteams](Spezialistenteams.md)
+* [Aufgabenteilung](Aufgabenteilung.md)
 * [Link auf diese Seite](Rollen_klassisch.md)
 
 # Weiterführende Literatur
