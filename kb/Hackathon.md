@@ -66,7 +66,7 @@ Am Ende werden vor einer Jury, die zumeist aus den Veranstaltern, Vertreter von 
 
 ![Beispielabbildung](Hackathon/D20Ek7-X0AA-V20.jpg)
 
-*Abbildung 3: Hacker bei dem HackBay des Gründerzentrums aus Nürnberg: ZOLLHOF im Jahr 2019*
+*Abbildung 3: Hacker bei dem HackBay des Gründerzentrums aus Nürnberg: [ZOLLHOF](https://www.zollhof.de) im Jahr 2019*
 
 # Siehe auch
 
