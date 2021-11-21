@@ -5,14 +5,18 @@ author: 21Nila
 anrechnung: k
 ---
 Das **Stakeholder Register** ist ein Werkzeug für die Projektplanung.
-Dabei handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben. [^1]
 
 # Inhalte
-1. [Erstellung eines Registers](#erstellung-eines-registers)
-2. [Vorteile eines Registers](#vorteile-eines-registers)
-3. [Siehe auch](#siehe-auch)
-4. [Weiterführende Literatur](#weiterführende-literatur)
-5. [Quellen](#quellen)
+1. [Definition](#definition)
+2. [Erstellung eines Registers](#erstellung-eines-registers)  
+3. [Vorteile eines Registers](#vorteile-eines-registers)  
+4. [Siehe auch](#siehe-auch)  
+5. [Weiterführende Literatur](#weiterführende-literatur)  
+6. [Quellen](#quellen)
+
+# Definition
+
+Beim Stakeholder Register handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben, sogenannte Stakeholder, besitzt. [^1]
 
 # Erstellung eines Registers
 
@@ -26,6 +30,11 @@ Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, so
 ## 2. Erstellen des Dokuments
 
 Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird häufig Microsoft Excel benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt das Register Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2] 
+
+
+![Stakeholder Register Beispiel](https://github.com/21Nila/ManagingProjectsSuccessfully.github.io/tree/main/kb/Stakeholder_Register/stakeholder-register.jpg "Stakeholder Register Beispiel")
+
+[RegisterBeispiel]: https://github.com/21Nila/ManagingProjectsSuccessfully.github.io/tree/main/kb/Stakeholder_Register/stakeholder-register "RegisterBeispiel"
 
 Unabhängig von der Größe des Unternehmens sollte sich jeder Projekt Manager aufgrund der Individualität des Stakeholder Managements selbstständig ein eigenes Register anfertigen. Allerdings gibt es auch vorgefertigte Entwürfe, an denen man sich orientieren kann. [^1]
 
