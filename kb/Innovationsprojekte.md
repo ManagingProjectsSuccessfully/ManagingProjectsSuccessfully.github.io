@@ -14,18 +14,18 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 Innovation ist einer der wichtigsten Erfolgsfaktoren eines Unternehmens in Bezug auf ihre Wettbewerbsfähigkeit und wird deshalb auch primär mit Produktneuerungen in Verbindung gebracht, was allerdings eine verbreitete Fehlansicht ist.[^1] Der Begriff der Innovation umfasst nicht nur Produkte, sondern beispielsweise auch neue Prozesse oder Dienstleistungen sowie deren erfolgreiche Kommerzialisierung am Markt.[^2]
 
-Umgesetzt werden solche Innovationen in einem Unternehmen häufig im Rahmen eines Projekts, welches grundsätzlich drei Hauptmerkmale erfüllen muss. Es muss neu sein, innerhalb eines vorgegebenen zeitlichen Rahmens durchgeführt werden und eine eindeutig definierte Absicht verfolgen. Insbesondere die Projektsteuerung bei Innovationsprojekten stellt möglicherweise eine Herausforderung dar. Da sich in der Regel in Bezug auf Zeit, Qualität und Kosten verschiedene Zielsetzungen herauskristallisieren, die jedoch nicht immer komplementär sind, kann dies folglich zu Zielkonflikten führen.[^3]
+Umgesetzt werden solche Innovationen in einem Unternehmen häufig im Rahmen eines [Projekts](Projekt.md), welches grundsätzlich drei Hauptmerkmale erfüllen muss. Es muss neu sein, innerhalb eines vorgegebenen zeitlichen Rahmens (siehe [Zeitplanung](Zeitplanung.md)) durchgeführt werden und eine eindeutig definierte Absicht verfolgen. Insbesondere die [Projektsteuerung](Projektsteuerung.md) bei Innovationsprojekten stellt möglicherweise eine Herausforderung dar. Da sich in der Regel in Bezug auf Zeit, Qualität und Kosten verschiedene Zielsetzungen herauskristallisieren, die jedoch nicht immer komplementär sind, kann dies folglich zu [Zielkonflikten](Zielkonflikte.md) führen.[^3]
 
 <img src="Innovationsprojekte/magisches-dreieck-pm.jpg" alt="Magisches Dreieck" width="500"/>
 
-*Magisches Dreieck*
+*[Magisches Dreieck](Magisches_Dreieck.md)*
 
 # 2.	Eigenschaften von Innovationsprojekten
 
 Innovationsprojekte erfüllen für gewöhnlich vier grundlegende Eigenschaften. Die erste und wichtigste Eigenschaft ist dabei der Neuheitsgrad. Das Ergebnis des Projekts bringt einen neuen und bisher unbekannten Nutzen mit sich.[^3]
 Dadurch entsteht auch immer ein bestimmtes Maß an Unsicherheit, welche die zweite Eigenschaft verkörpert. Bei Projekten, die stärker von Routineaufgaben des Unternehmens abweichen, entsteht unweigerlich eine finanzielle sowie operative Unsicherheit.[^3]
 Das dritte Charakteristikum von Innovationsprojekten ist die Komplexität, die eng mit der Unsicherheit und der Neuheit verknüpft ist. Aufgrund der unsicheren Abläufe wegen des hohen Grades an Neuheit kommt es zu einem höheren und somit weitaus komplexeren Organisationsumfang.[^3]
-Die letzte Eigenschaft bildet das Konfliktpotential, welches auf verschiedenen Ebenen auftreten kann. Es kann sowohl zu Konflikten innerhalb des Projektteams als auch zu Zielkonflikten bezüglich vorher festgelegter Zielvorgaben kommen.[^3]
+Die letzte Eigenschaft bildet das Konfliktpotential, welches auf verschiedenen Ebenen auftreten kann. Es kann sowohl zu Konflikten innerhalb des Projektteams (siehe [Konfliktmanagement](Konfliktmanagement.md)) als auch zu Zielkonflikten bezüglich vorher festgelegter Zielvorgaben kommen.[^3]
 
 # 3.	Arten von Innovationsprojekten
 
@@ -33,7 +33,7 @@ Je nach Neuheitsgrad des Marktes und der Technologie lassen sich vier verschiede
 
 |         |<img width=150/><br>Bestehende Technologie|<img width=200/><br>Neue Technologie|
 | -------------: | :-------------: | :-------------: |
-|**Bestehender Markt**|Inkrementelles<br>Innovationsprojekt|Disruptives<br>Innovationsprojekt|
+|**Bestehender Markt**|[Inkrementelles](Increment.md)<br>Innovationsprojekt|Disruptives<br>Innovationsprojekt|
 |**Neuer Markt**|Architektonisches<br>Innovationsprojekt|Radikales<br>Innovationsprojekt|
 
 # 4.	Träger des Innovationsprojekts
@@ -48,19 +48,19 @@ Diese Invention wird dann in der zweiten Phase, die durch die erfolgreiche Markt
 
 # 6.	Management
 
-Bei Innovationsprojekten mit kurzer Dauer kann im Management das sogenannte Stage-Gate-Tracking angewendet werden. Dabei werden vorweg mehrere Meilensteine festgelegt, anhand derer sich später Planabweichungen nachweisen lassen.[^3]
-Bei mehrjährigen Projekten hilft es, eine Meilensteintrendanalyse zu nutzen. Damit können vorher bereits mögliche spätere Abweichungen abgeschätzt werden und Verzögerungen in gewissem Maße prognostiziert werden.[^3]
+Bei Innovationsprojekten mit kurzer Dauer kann im Management das sogenannte Stage-Gate-Tracking angewendet werden. Dabei werden vorweg mehrere [Meilensteine](Meilensteine.md) festgelegt, anhand derer sich später Planabweichungen nachweisen lassen.[^3]
+Bei mehrjährigen Projekten hilft es, eine [Meilensteintrendanalyse](Meilensteintrendanalyse.md) zu nutzen. Damit können vorher bereits mögliche spätere Abweichungen abgeschätzt werden und Verzögerungen in gewissem Maße prognostiziert werden.[^3]
 
 # 7.	Erfolgsfaktoren eines Innovationsprojekts
 
-Um den Erfolg eines Innovationsprojekts zu messen, werden die Faktoren Zeit, Qualität und Kosten herangezogen. Dabei werden die Soll-Werte mit den Ist-Werten verglichen und infolgedessen die mittlere negative Abweichung berechnet. Sowohl negative als auch positive Abweichungen des Ist-Zustands vom Soll-Zustand können sich negativ auf den Projekterfolg auswirken. Weicht man zu stark von Qualitätsanforderungen, Meilensteinterminen oder geplantem Kostenbudget ab, verursacht das in den meisten Fällen hohe Kosten. Werden die Planwerte allerdings eingehalten, so führt das zu einer erfolgreichen Umsetzung eines Innovationsprojekts.[^5]
+Um den [Erfolg eines Innovationsprojekts zu messen](Erfolgsmessung.md), werden die Faktoren Zeit, Qualität und Kosten herangezogen. Dabei werden die Soll-Werte mit den Ist-Werten verglichen und infolgedessen die mittlere negative Abweichung berechnet. Sowohl negative als auch positive Abweichungen des Ist-Zustands vom Soll-Zustand können sich negativ auf den Projekterfolg auswirken. Weicht man zu stark von Qualitätsanforderungen, Meilensteinterminen oder geplantem Kostenbudget ab, verursacht das in den meisten Fällen hohe Kosten. Werden die Planwerte allerdings eingehalten, so führt das zu einer erfolgreichen Umsetzung eines Innovationsprojekts.[^5]
 
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Innovationsprojekte.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Praxisbeispiele für erfolgreiche Projekte](Praxisbeispiele_erfolgreiche_Projekte.md)
 
 # Weiterführende Literatur
 
