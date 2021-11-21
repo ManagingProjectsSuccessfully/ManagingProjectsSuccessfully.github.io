@@ -86,7 +86,7 @@ Gruppen-Interviews adäquate Lösungsvorschläge ergeben, die durch Recherche we
 konkretisiert werden. 
 
 
-## Eingrenzung der erlfogsversprechendsten Lösungen
+## Eingrenzung der erfolgsversprechendsten Lösungen
 
 Es ist hilfreich mit Hypothesen, welche aus den Stakeholder-Interviews abgeleitet werden zu arbeiten 
 und diese zu priorisieren. 
