@@ -12,7 +12,17 @@ Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hack
 Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Hinter allen steckt jedoch ein und dieselbe grundlegende Idee, was einen Hackathon im Kern charakterisiert und als Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat.
 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Grundlegende Idee und Ziel
+
+Die grundlegende Idee liegt in der eventspezifischen Herangehensweise an die gestellte Problemsituation. Diese erfolgt auf eine intuitive, kreative und experimentierfreudige Art und Weise. Das Ziel soll nicht eine in allen Belangen absolut perfekte Lösung sein, sondern ein Prototyp, der erste problemlösende Funktionalitäten enthält. 
+
+Der innovative Kern des Hackathons lässt sich anhand von drei wesentlichen Merkmalen charakterisieren:
+
+* __Arbeitsmodus:__ die Zusammenarbeit ist sehr intensiv und erfolgt kollaborativ
+* __Gemeinsames Ziel:__ ein klares, problemlösendes Produkt
+* __Rahmen:__ gibt dem Event eine Dauer und eine feste Deadline
+
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
