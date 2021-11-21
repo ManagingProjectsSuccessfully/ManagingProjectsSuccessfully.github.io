@@ -8,7 +8,7 @@ anrechnung: k
 
 "Es war einmal… der Mensch. Und mit ihm eine Geschichte. Storytelling, die Kunst des Erzählens, ist so alt wie die Menschheit. Geschichten haben eine einzigartige Kraft richtig eingesetzt sorgen sie für starkes Projekt Management[^1]."
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Storytelling
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -86,12 +86,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Storrytelling.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Storytelling - Geschichten für Projektmanager] (https://www.gohswriter.de/storytelling-geschichten-fuer-projektmanager/)
 
 # Quellen
 
