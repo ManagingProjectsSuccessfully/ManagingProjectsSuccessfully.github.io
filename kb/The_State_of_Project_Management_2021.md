@@ -109,7 +109,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 [^1]: [The State of Project Management Annual Report 2021 (YouTube)](https://www.youtube.com/watch?v=hZd5SgZWoWU)
 [^2]: [Annual Report - The State of Project Management 2021 (PDF)](https://wellingtone.co.uk/wp-content/uploads/2021/03/The-State-of-PM-2021.pdf)
 [^3]: [Identifying the State of Project Management (PDF)](https://www.sciencedirect.com/science/article/pii/S1877705816302144)
-[^4]: [Lexikon der Projektmanagement-Methoden (Buch)]
+[^4]: [Lexikon der Projektmanagement-Methoden (Buch)](https://books.google.de/books?hl=de&lr=&id=1dJE3EYYpasC&oi=fnd&pg=PA6&dq=lexikon+der+Projektmanagement-Methoden&ots=8tbNhMWYYg&sig=aObvoIyZxRQIIpZa1DC0Hu7oVjY#v=onepage&q=lexikon%20der%20Projektmanagement-Methoden&f=false)
 [^5]: [PMO: Definition, Vorteile & wann ist es gut](https://www.theprojectgroup.com/blog/pmo-project-management-office/#Kapitel1)
 [^6]: [Projektbüro - Wikipedia](https://de.wikipedia.org/wiki/Projektb%C3%BCro)
 [^7]: [Wie Technologien Probleme im Projektmanagement lösen](https://promx.net/2021/06/wie-technologie-probleme-im-projektmanagement-loest/#)
