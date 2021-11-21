@@ -58,10 +58,10 @@ Wenn man nun die eingetragenen Kosten über das gesamte Projekt miteinander verb
 ## Siehe auch
 * [Kostenplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md)
 * [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)
+* [Kosten_Nutzen_Analyse](https://github.com/Maximilian219/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Nutzen_Analyse.md)
 
 ## Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Kostentrendanalyse (Projektmagazin)](https://www.projektmagazin.de/methoden/kostentrendanalyse)
 
 ## Quellen
 
