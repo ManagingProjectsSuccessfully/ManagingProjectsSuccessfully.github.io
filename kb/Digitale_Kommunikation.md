@@ -17,7 +17,7 @@ Mit multikulturellen Projektteams und verstreuten Interessengruppen bieten diese
 
 ![Abbildung 1: Kommunikationsmodell Alister Cockburn](Digitale_Kommunikation/communicationModes.gif)[^3]
 
-Das Kommunikationsmodell nach Cockburn beschreibt auf der Y-Achse die „Effektivität der Kommunikationsart“ und auf der X-Achse „Die Richness von Kommunikationskanälen“. Richness“ oder auch „Media Richness“ beinhaltet verschiede Eigenschaften zur optimalen Kommunikation.                                     Diese Fähigkeiten zeichnen die Media Richness Theory aus: 
+Das Kommunikationsmodell nach Cockburn beschreibt auf der Y-Achse die „Effektivität der Kommunikationsart“ und auf der X-Achse „Die Richness von Kommunikationskanälen“. Richness“ oder auch „Media Richness“ beinhaltet verschiede Eigenschaften zur optimalen Kommunikation.                                     Diese Fähigkeiten zeichnen die [Media Richness Theory](https://dorsch.hogrefe.com/stichwort/media-richness-theory) aus: 
 *	Mehrere Informationen gleichzeitig verarbeiten
 *	Erleichterung schnelles Feedback zu geben 
 *	Einen individuellen Schwerpunkt für jedes Projektmitglied zu setzen, und 
