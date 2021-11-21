@@ -36,9 +36,9 @@ Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführun
 * Punkteliste
   - mit unterpunkt
 
-![Beispielabbildung](Storrytelling/test-file.jpg)
+![Storykurve](Storrytelling/Storytelling.png)
 
-*lustiges Testbild*
+*Storytelling durch Erzählen zum Projekterfolg[^3]*
 
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
