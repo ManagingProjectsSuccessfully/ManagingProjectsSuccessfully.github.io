@@ -14,7 +14,7 @@ Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Day
 
 # Grundlegende Idee und Ziel
 
-Die grundlegende Idee liegt in der eventspezifischen Herangehensweise an die gestellte Problemsituation. Diese erfolgt auf eine intuitive, kreative und experimentierfreudige Art und Weise. Das Ziel soll nicht eine in allen Belangen absolut perfekte Lösung sein, sondern ein Prototyp, der erste problemlösende Funktionalitäten enthält.[^] 
+Die grundlegende Idee liegt in der eventspezifischen Herangehensweise an die gestellte Problemsituation. Diese erfolgt auf eine intuitive, kreative und experimentierfreudige Art und Weise. Das Ziel soll nicht eine in allen Belangen absolut perfekte Lösung sein, sondern ein [Prototyp](https://wirtschaftslexikon.gabler.de/definition/prototyp-122469), der erste problemlösende Funktionalitäten enthält.[^] 
 
 Der innovative Kern des Hackathons lässt sich anhand von drei wesentlichen Merkmalen charakterisieren:
 
