@@ -56,7 +56,8 @@ Preis bezieht sich auf pro Nutzer pro Monat [^2]
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Asana-Guide](https://asana.com/de/guide)
+* [Asana Projektmanagement](https://asana.com/de/uses/project-management)
 
 # Quellen
 
