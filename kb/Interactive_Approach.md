@@ -1,5 +1,5 @@
 ---
-title: Interactive_Approach
+title: Interactive_Planning
 tags: agil klassisch
 author: Vallejk
 anrechnung: k oder a
