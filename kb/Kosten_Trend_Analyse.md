@@ -1,9 +1,22 @@
 ---
 title: {Kostentrendanalyse}
-tags: agil klassisch
+tags: agil klassisch Kostenplanung Kostentrendanalyse 
 author: {thujavanj}
 anrechnung: k 
 ---
+# Inhaltsverzeichnis 
+1 [Definiton] 
+2 [Ziele der Kostentrendanalyse] 
+3 [Vorteile der KTA] 
+4 [Nachteile der KTA] 
+5 [Ablauf einer Kostentrendanalyse] 
+  5.1 [Schritt 1: Diagramm erstellen] 
+  5.2 [Schritt 2: Plankosten zusammenstellen] 
+  5.3 [Schritt 3: Berichtstermine definieren]
+  5.4 [Schritt 4: Kosten eintragen] 
+  5.5 [Schritt 5: Kostenabweichungen erkennen] 
+
+## Definition 
 Genau wie Terminverzögerungen sind Kostenabweichungen ein wichtiges Thema, welches im Projektmanagement gut durchdacht werden muss. Wenn beispielsweise ein Teil der Lieferkette nicht so funktioniert, wie vorgesehen, können Mehrkosten entstehen, wodurch man ziemlich schnell die geplanten Kosten überschreiten kann. Deshalb ist es in der Planung wichtig gewisse Kostenrisiken schon vorher abschätzen zu können. Dabei wird im klassischen Projektmanagement sehr oft die Kostentrendanalyse als Hilfsmittel genutzt! [^1]
 
 ## Ziele der Kostentrendanalyse 
