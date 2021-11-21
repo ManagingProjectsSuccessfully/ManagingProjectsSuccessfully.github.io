@@ -37,7 +37,7 @@ Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtig
 | 2. Umzugsfirma holt sie ab und transportiert sie  | 21.11.2021  | 1|
 |3. Kartons auspacken| 22.11.2021| 4|
 | 4. Montagefirma baut neue Möbel auf  | 23.11.2021  | 3 | <br>
-<br>
+
 _Erstellt durch den Autor_
 
 
