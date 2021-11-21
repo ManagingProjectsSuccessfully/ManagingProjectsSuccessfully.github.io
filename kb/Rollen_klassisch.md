@@ -69,7 +69,7 @@ Innerhalb und außerhalb der Projektorganisation kann es zudem Experten geben, d
 # Festlegung der Projektrollen
 Die Frage wer innerhalb eines Projektes welche Projektrolle einnimmt wird meist in der Projektorganisation in der Planungsphase eines Projekts festgelegt. Dabei wird neben der Verteilung der Rollen auch geklärt, welche Aufgaben, Kompetenzen und Verantwortungen die einzelnen Rollen erhalten, wie die Zusammenarbeit zwischen den Rollen organisiert wird und wie das Einzelprojekt in die Stammorganisation eigebunden wird.
 
-![Bild](Rollen_klassisch/test-file.jpg)
+![Bild](Rollen_klassisch/Bild 1.jpg)
 
 *Übersicht über die wichtigsten Rollen im klassischen Projektmanagement*
 
