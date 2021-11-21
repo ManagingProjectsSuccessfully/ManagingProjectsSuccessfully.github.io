@@ -23,19 +23,20 @@ In der Realität kommt es durchaus auch zu Scrumbuts die nicht unbedingt positiv
 Jedes Scrumbut hat meistens folgende Syntax: 
 -	Scrumbut, 
 -	Grund, 
--	Workaround.  
+-	Workaround.
 
-Gründe für Scrumbuts 
-Es gibt viele verschieden Gründe warum heutzutage im agilen Projektmanagement oft Scrumbuts genutzt werden. Meistens werden Scrumbuts aber verwendet um kurzfristig Probleme zu lösen. Oft stehen Teams unter Zeitdruck und sehen die Modifizierung des Scrum Guides, durch Scrumbuts, als einzige Lösung um ein Problem möglichst schnell zu beseitigen. Um Zeit zu sparen, könnten beispielsweise einzelne Daily Scrums entfallen, da die Sorge besteht, ein Sprint Ziel zu verpassen [2]. Ein dringendes Problem würde sich so lösen lassen, dauerhaft sollte dies aber nicht mit solchen Begründungen zur Reduzierung von Daily Scrums führen [2]. 
+Die Abbildung 1 verdeutlicht dabei die typische Syntax eines Scrumbuts anhand eines Beispiels. [^2]
 
-Ist ein Scrumbut gut oder schlecht?
-Oft entsteht der Eindruck, die Anpassung von Scrum sei eine schlechte Idee – dem ist nicht so. Die Anpassung auf individuelle Situationen ist oft sogar erforderlich. Auch wenn die Autoren des agilen Manifests und des Scrum Guides viel Erfahrung bei der Entwicklung von Produkten und der Zusammenarbeit von Teams haben, ist es nicht möglich, dass sie jede individuelle Situation und Herausforderung kennen. [2]
-Bei einer Modifizierung des Scrums ist die Auseinandersetzung mit einem konkreten Problem besonders wichtig. Voraussetzung dafür ist es, dass es sich um eine kurzfristige Anpassung handelt. Probleme sollen kurz gesagt mit Hilfe von Scrumbuts gelöst und nicht verschleiert werden. 
-![image](https://user-images.githubusercontent.com/92809831/142771931-e2692c13-f9d1-49ac-bf65-f56cb2a3252a.png)
-
-Die Abbildung 1 verdeutlicht dabei die typische Syntax eines Scrumbuts anhand eines Beispiels. [2]
-![image](SCRUM_but/scrumbut-syntax.jpeg)
+![Beispielabbildung](SCRUM_but/scrumbut-syntax.jpeg)  
 *Abbildung 1 [^2]*
+
+# Gründe für Scrumbuts 
+Es gibt viele verschieden Gründe warum heutzutage im agilen Projektmanagement oft Scrumbuts genutzt werden. Meistens werden Scrumbuts aber verwendet um kurzfristig Probleme zu lösen. Oft stehen Teams unter Zeitdruck und sehen die Modifizierung des Scrum Guides, durch Scrumbuts, als einzige Lösung um ein Problem möglichst schnell zu beseitigen. Um Zeit zu sparen, könnten beispielsweise einzelne Daily Scrums entfallen, da die Sorge besteht, ein Sprint Ziel zu verpassen [^2]. Ein dringendes Problem würde sich so lösen lassen, dauerhaft sollte dies aber nicht mit solchen Begründungen zur Reduzierung von Daily Scrums führen [^2]. 
+
+# Ist ein Scrumbut gut oder schlecht?
+Oft entsteht der Eindruck, die Anpassung von Scrum sei eine schlechte Idee – dem ist nicht so. Die Anpassung auf individuelle Situationen ist oft sogar erforderlich. Auch wenn die Autoren des agilen Manifests und des Scrum Guides viel Erfahrung bei der Entwicklung von Produkten und der Zusammenarbeit von Teams haben, ist es nicht möglich, dass sie jede individuelle Situation und Herausforderung kennen. [^2]
+Bei einer Modifizierung des Scrums ist die Auseinandersetzung mit einem konkreten Problem besonders wichtig. Voraussetzung dafür ist es, dass es sich um eine kurzfristige Anpassung handelt. Probleme sollen kurz gesagt mit Hilfe von Scrumbuts gelöst und nicht verschleiert werden. 
+
 
 
 
