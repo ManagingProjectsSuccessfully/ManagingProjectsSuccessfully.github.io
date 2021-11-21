@@ -62,7 +62,7 @@ Eine Möglichkeit für agile Teams, das Scheitern eines Projektes aufgrund von F
 * [Link auf diese Seite](Abhaengigkeitsmanagement.md)
 * [Grundlagen des Projektmanagements: Abhängigkeiten verstehen](https://www.affde.com/de/fundamentals-of-project-management-understanding-dependencies.html)
 * [Was jeder Projektmanager über Abhängigkeiten wissen sollte](https://www.trackplus.com/blog/de/was-jeder-projektmanager-uber-abhangigkeiten-wissen-sollte/)
-* [die Top 3 der Agile-Methoden für das Projektmanagement und ihre Unterschiede[(https://kanbanize.com/de/agile-de/projektmanagement/methoden) 
+* [die Top 3 der Agile-Methoden für das Projektmanagement und ihre Unterschiede](https://kanbanize.com/de/agile-de/projektmanagement/methoden) 
 
 # Weiterführende Literatur
 
