@@ -45,15 +45,20 @@ Der Ablauf eines Hackathons variiert je nach Thema, Dauer, Teilnehmergröße ode
 
 __1. Vorstellung und Vorträge__
 
+In einer Eröffnungsrede werden zumeist der Ablauf und der Rahmen der Veranstaltung erläutert. Anschließend wird in einem Vortrag die Problemstellung vorgestellt, die es in den folgenden Stunden oder Tagen zu lösen gilt.[^]
+
 
 __2. Teambuilding__
 
+Die verschiedenen Teams bilden sich in der Regel erst vor Ort, nach gemeinsamen möglichen Lösungsvorstellungen. Eine möglichst heterogene Zusammenstellung ist nicht nur üblich, sondern auch empfohlen. Denn die Mitglieder sollen sich mit unterschiedlichen Fähigkeiten und Kenntnissen gegenseitig ergänzen.[^]
 
 __3. Let's Hack__
 
+Damit ist die eigentliche Entwicklungsarbeit gemeint. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototyps auch die Vorbereitungen auf die Präsentation.[^]
 
 __4. Pitchen__
 
+Am Ende werden vor einer Jury, die zumeist aus den Veranstaltern, Vertreter von Unternehmern und Experten besteht, die Ergebnisse vorgestellt – was in der Startup-Branche als pitchen bezeichnet wird. Neben einem Hauptgewinner werden oft auch die besten Lösungen in bestimmten Kategorien gekürt, natürlich mit einem entsprechenden Preis.
 
 
 
