@@ -5,37 +5,22 @@ author: HAhmedFAU
 anrechnung: a
 ---
 
-Kurzbeschreibung zu Kanban um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Kanban gehört als Methode zur Produktionsprozesssteuerung[^1]. Produktionsprozesssteuerung befasst sich mit der Betriebs-, Zeit-, Mengen- und Raumplanung, -steuerung sowie der Steuerung aller für die Warenproduktion erforderlichen Prozesse[^2].
+Das Kanban-Verfahren basiert vollständig auf dem tatsächlichen Materialverbrauch an den Versorgungs- und
+Verbrauchsstellen[^1]. Kanban kann den lokalen Bestand an Vorprodukten in und in der Nähe der Produktion reduzieren, 
+die in der nächsten Integrationsstufe installiert werden[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Kanban in Bezug auf Projektmanagement ist einer der einfachsten und am schnellsten umsetzbaren Prozesse im agilen Projektmanagement und zusammen mit Scrum in vielen Unternehmen sehr beliebt[^3]. Zum einen lassen sich alle Arbeitsschritte und Workflows einfach in einen übersichtlichen Plan einfügen, strukturieren und Schritt für Schritt abarbeiten[^3]. Andererseits kann die Verwendung des entsprechenden Kanbans die Aufgabe für alle Projektbeteiligten sichtbar machen[^3].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Entstehung des Kanban-Systems
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
+Diese Methode wurde 1947 von Toichi Ōno für den Automobilkonzern Toyota entwickelt[^3]. 
+So entwickelte Ōno aufgrund von teueren Speicherplätzen ein Konzept zur kurzfristigen Terminplanung und Bestandsreduzierung[^3]. 
+Als Orientierung diente hier das Beispiel Supermarkt-Einkauf: Wenn Sie eine bestimmte Art und Menge an Waren aus dem Regal nehmen, 
+werden diese schnellstmöglich entsprechend nachgefüllt[^3].
+Bei der Übergabe an den Produktionsprozess gibt es Karten mit Kanbans: Mit Hilfe von Kanbans sendet eine Abteilung ein Signal an die vorgelagerte Abteilung,
+um der vorgelagerten Abteilung mitzuteilen, welche Nummer und welches Produkt reproduziert werden soll[^3]. 
+Kanban bedeutet auf Japanisch so viel wie eine "Karte" oder "Tafel"[^3]. Das System wurde in Japan schnell erfolgreich und gelangte schließlich in den 1970er Jahren in die Vereinigten Staaten und in Europa[^3].
 
 # Aspekt 1
 
@@ -93,12 +78,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+https://www.youtube.com/watch?v=iVaFVa7HYj4 - Atlassian
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://de.wikipedia.org/wiki/Kanban
+[^2]: https://de.wikipedia.org/wiki/Produktionsplanung_und_-steuerung
+[^3]: https://magazin.weka-elearning.de/kanban
+[^4]: 
 
