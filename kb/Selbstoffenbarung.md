@@ -83,6 +83,4 @@ Mehr zu Selbstoffenbarung und Kommunikation im Projektmanagement:
 
 [^7]: [So gelingt konstruktives Feedback im Team](https://www.cio.de/a/so-gelingt-konstruktives-feedback-im-team,3244848)
 
-# Abbildungen
-
 [^8]: [Kommunikationsquadrat ](https://intense-eu.info/courses/onlinekurs-transition-coaches-deutsch/lessons/the-4-sides-of-a-message-or-communication-square-copy-2/)
