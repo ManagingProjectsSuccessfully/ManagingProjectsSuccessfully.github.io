@@ -1,89 +1,64 @@
 ---
 title: Rollenkonflikte
-tags: agil klassisch
+tags: klassisch konflikte rollen 
 author: martina-bchtl 
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Rollenkonflikte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Thema Rollenkonflikte ist eines der häufigsten Konflikthemen im Bereich Projektmanagement. Allerdings müssen hierbei die unterschiedlichen Arten des Rollenkonfliktes 
+berücksichtigt werden und wie sich diese zusammensetzen.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Rollenkonflikte entstehen einerseits dadurch, dass man sich in seinen „Rollen“ unsicher ist oder andere Personen unterschiedliche Erwartungen an die einzelnen „Rollen“ haben. 
+Einige Beispiele für die verschiedenen Rollen einer bestimmten Frau wären „Mutter“, „Schwester“, „Abteilungsleitung“ und „Vereinsmitglied“. [^1]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Wie bereits erwähnt gibt es zwei Möglichkeiten, wie Rollenkonflikte entstehen können und wie diese aussehen. Im Folgenden soll deshalb auf die Arten der Rollenkonflikte genauer 
+eingegangen werden.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Arten von Rollenkonflikten
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Im Alltag eines Projektmanagers ist es nicht ungewöhnlich, dass dieser mehrere "Rollen" besitzt. Als Beispiel hierfür nennen wir den Abteilungsleiter Leon, welcher zum Beispiel 
+die Rollen "Abteilungsleiter", „Controller“, "Vater", "guter Freund" und noch "Fußballspieler" hat. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Jetzt stellt sich die Frage: Welche Rollenkonflikte sind hier möglich?
+Um diese Frage zu beantworten, veranschaulichen wir anhand unseres Beispiels die zwei Arten eines Rollenkonfliktes.
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+## 1. Der Inter-Rollenkonflikt
+Diese Art ist die offensichtlichste und verständlichste Art eines Rollenkonfliktes. Hierbei besteht das Problem darin, dass man seine Rollen nicht bewusst voneinander 
+unterscheidet. Zudem fällt es einem meist schwer, in der richtigen Rolle richtig zu handeln.[^1]
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Angewandt auf unser Beispiel des Abteilungsleiters, würde er seine vorher genannten Rollen nicht klar trennen, was im Alltag auch sehr schwierig ist. Folgende Situation soll 
+dies veranschaulichen: Ein guter Freund namens Luis, welcher zugleich sein Mitarbeiter ist, bittet ihn ihm zwei unbezahlte Wochen mehr Urlaub zu geben. Leon kennt seine 
+persönliche Situation und weiß daher, wie wichtig seinem Freund dieser Urlaub ist und gewährt ihm dies, obwohl er auch weiß, wie ungünstig sich das auf das Geschäft auswirkt.[^2] 
 
+Hierbei hat sich Leon in seiner Rolle des Freundes verpflichtet gefühlt, jedoch hätte er eigentlich eher in seiner Rolle des Abteilungsleiters handeln sollen. 
+Daher sollte man sich immer bewusst sein, welche Rolle nun zu der Situation passt. 
 
-# Aspekt 1
+## 2. Der Intra-Rollenkonflikt
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Eine weitere Art des Rollenkonfliktes ist der Intra-Rollenkonflikt. Dieser ist gekennzeichnet durch die verschiedenen Erwartungen, die verschiedene Rollen an einen haben.[^1]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+In unserem Beispiel ist der Abteilungsleiter Leon in Kontakt mit Kunden, Lieferanten, höheren Führungskräften und seinen Mitarbeitern. All diese Personen haben die 
+unterschiedlichsten Erwartungen in der Berufswelt an ihn, sodass es kaum möglich ist, alle zu 100% zu erfüllen.[^2]
 
-![Beispielabbildung](Rollenkonflikte/test-file.jpg)
+Nach dem Psychologen Bernd Schmid kann man diese Art jedoch nochmal unterteilen bezogen auf die Professionswelt und die Organisationswelt, welche beide zu dem sogenannten „Drei 
+Welten Modell“ zählen.[^3]
 
-*lustiges Testbild*
+### Professionswelt
+In der Professionswelt werden die verschiedenen fachlichen Rollen angenommen, in unserem Fall zum Beispiel der Controller Leon.[^3]
 
-# Aspekt 2
+### Organisationswelt 
+Mit der Organisationswelt werden die hierarchischen Rollen definiert, beim oberen Beispiel der Abteilungsleiter Leon.[^3]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Bei einem Intra-Rollenkonflikt sollte man beachten, welche Punkte an einer bestimmten Rolle wichtig sind und sich auf diese konzentrieren.
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+[Das drei Welten Modell]![image](https://user-images.githubusercontent.com/92875269/142039822-dfc47614-49e5-48cb-82e8-7f0519fdea25.png)
 
-So kann man eine Tabelle erstellen:
+# Fazit
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Insgesamt ist es wichtig zu verstehen, dass man sich stehts bewusst sein sollte in welcher Rolle man sich gerade befindet und welche Rolle hingegen im Einzelfall adäquat wäre.
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Zudem sollte feststehen, worauf man seinen Fokus in den einzelnen Rollen legen möchte und um welche Art von Rollenkonflikt es sich handelt, falls man in einen gerät und diesen 
+somit gezielt lösen kann.
 
 
 # Siehe auch
@@ -97,8 +72,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Konfliktarten – Diese 5 sollten Sie kennen](https://www.andyamo.de/konfliktarten/)
+[^2]: [Typische Konfliktarten in Projekten](https://blog.setzwein.com/2009/10/12/typische-konfliktarten-in-projekten/)
+[^3]: [Der unerkannte Rollenkonflikt – Selbsterkenntnis mit dem 3-Welten-Modell](https://www.microtool.de/projektmanagement/der-unerkannte-rollenkonflikt-selbsterkenntnis-mit-dem-3-welten-modell/)
+[^4]: [Das drei Welten Modell](https://user-images.githubusercontent.com/92875269/142039822-dfc47614-49e5-48cb-82e8-7f0519fdea25.png)
+
 
