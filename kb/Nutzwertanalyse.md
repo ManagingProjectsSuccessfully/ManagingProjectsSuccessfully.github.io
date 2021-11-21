@@ -5,12 +5,13 @@ author: Irishcoffee09
 anrechnung: k
 ---
 
-Die Nutzwertanalyse (kurz: NWA; aber auch Punktwertverfahren, Punktbewertungsverfahren oder Scoring-Modell genannt) gehört zu den qualitativen, nicht-monetären Analysemethoden der Entscheidungstheorie.[^1] Im Projektmanagement dient die Nutzwertanalyse als Methode zur rationalen Entscheidungsfindung bei komplexen Problemen.[^1] Sie wird vorallem herangezogen für Entscheidungsfindungen, bei denen nicht in Geldeinheiten oder Zeiteinheiten messbare Aufwendungen als Faktoren verwendet werden können, sondern beispielsweise Umweltfaktoren, Image oder soziale Faktoren eine Rolle spielen.[^4]
+Die Nutzwertanalyse (kurz: NWA; aber auch Punktwertverfahren, Punktbewertungsverfahren oder Scoring-Modell genannt) gehört zu den qualitativen, nicht-monetären Analysemethoden der Entscheidungstheorie.[^1] Im [Projektmanagement](Projektmanagement.md) dient die Nutzwertanalyse als Methode zur rationalen Entscheidungsfindung bei komplexen Problemen.[^1] Sie wird vorallem herangezogen für Entscheidungsfindungen, bei denen nicht in Geldeinheiten oder Zeiteinheiten messbare Aufwendungen als Faktoren verwendet werden können, sondern beispielsweise Umweltfaktoren, Image oder soziale Faktoren eine Rolle spielen.[^4]
 
 
 # Hintergrund
 
-Im Rahmen von Projekten ist es notwendig, Entscheidungen hinsichtlich vieler Details zu treffen. Dies beginnt bereits bei der Entscheidung für oder gegen ein bestimmtes Projekt, geht weiter zur Auswahl der geeigneten Mitarbeiter, Make-Or-Buy-Entscheidungen, Auswahl von Kooperationspartnern, Ressourcen, bis hin zu letzendlichen, direkt das Ergebnis beeinflussenden Entscheidungen. Um eine transparente, nachvollziehbare und schnelle Entscheidung zu gewährleisten, haben sich verschiedene Maßnahmen etabliert. 
+Im Rahmen von Projekten ist es notwendig, Entscheidungen hinsichtlich vieler Details zu treffen. Dies beginnt bereits bei der Entscheidung für oder gegen ein bestimmtes Projekt, geht weiter zur Auswahl der geeigneten Mitarbeiter, Make-Or-Buy-Entscheidungen, Auswahl von Kooperationspartnern, Ressourcen, bis hin zu letzendlichen, direkt das Ergebnis beeinflussenden Entscheidungen. Während eine normale [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md) verschiedene Kriterien nur unter Effizienzgesichtspunkten betrachtet, bewertet die Nutzwertanalyse die Effektivität. [^1] 
+Um trotzdem eine transparente, für andere nachvollziehbare und schnelle Entscheidung zu gewährleisten, haben sich verschiedene Maßnahmen etabliert. 
 Eine dieser Maßnahmen ist die „Nutzwertanalyse“.[^2]
 
 # Vorgehen
@@ -53,8 +54,7 @@ Die NWA hat sowohl Vorteile als auch Nachteile.
 | Analyse in Teamarbeit gut möglich  | Verfälschung der Ergebnisse möglich durch Überlappungen von Alternativen  |
 | Vergleichbarkeit von Unvergleichbaren anhand gemeinsamer Kriterien  | Problem der Einigung bei mehreren Anwendern  |
 
-Hauptkritikpunkt an der NWA ist ihre Subjektivität. Um diese auszugleichen, ist es empfehlenswert die Analyse in einem Gruppenmeeting ( z.B. in einem Jour-Fixe) anzuwenden. Verschiedene Köpfe bringen verschiedene Sichtweisen ein, was das Gesamtergebnis ausgewogener und objektiver macht.[^4]
-
+Hauptkritikpunkt an der NWA ist ihre Subjektivität. Um diese auszugleichen, ist es empfehlenswert die Analyse in einem Gruppenmeeting ( z.B. in einem [Jour Fixe](Jour_Fixe.md) oder auch im Rahmen der [Projektkommunikation](Projektkommunikation.md) )anzuwenden. Verschiedene Köpfe bringen verschiedene Sichtweisen ein, was das Gesamtergebnis ausgewogener und objektiver macht.[^4]
 
 # Weitere Anwendungsfelder
 
@@ -64,11 +64,15 @@ Die Nutzwertanalyse findet nicht nur im Projektmanagement Anwendung. Sie wird in
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Nutzwertanalyse.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md)
+* [Jour Fixe](Jour_Fixe.md)
+* [Projektkommunikation](Projektkommunikation.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* "Nutzwertanalyse im Projektmanagement" von Sven Jansen (Taschenbuch, Erscheinungsdatum 06.10.2011, ISBN 978-3-656-02158-2)
+* "Nutzwertanalyse einfach erklärt" Video: https://www.youtube.com/watch?v=rSL_5YOEsvE
 
 # Quellen
 
