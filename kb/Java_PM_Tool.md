@@ -21,14 +21,14 @@ Viele Begriffe und Verfahrensweisen im Projektmanagement sind etabliert und stan
 Durch [Open source]() Java Tools kann man verschiedene Aspekte eines Projekts steuern, planen usw. In Diesem Artikel werden wir ein paar Tools kennenlernen.
 
 
-#Projektplanen & Verfolgung
+# Projektplanen & Verfolgung
 
 **Xplanner**  ist ein webbasiertes Projektplanungs- und -verfolgungstool für eXtreme Programming (XP)-Teams. XPlanner ist mit Java, JSP und Struts, Hibernate und MySQL implementiert.
 Um den XP-Planungsprozess zusammenzufassen, wählen die Kunden die hinzuzufügenden Funktionen (User Stories) für jede Entwicklungsiteration (in der Regel eine bis drei Wochen) aus. Die Entwickler schätzen den Aufwand für die Fertigstellung der Storys entweder auf der Ebene der Story oder durch Zerlegung der Story in Aufgaben und deren Schätzung. Informationen über die Entwicklungsgeschwindigkeit des Teams aus der vorherigen Iteration werden verwendet, um abzuschätzen, ob das Team die vom Kunden vorgeschlagenen Storys fertigstellen kann. Wenn sich herausstellt, dass das Team überfordert ist, wird die Menge der Storys mit dem Kunden neu verhandelt. Das XPlanner-Tool wurde zur Unterstützung dieses Prozesses entwickelt.[^3]
 
 Projekte wie **XPlannerPlus** setzen dort an, wo das alte XPlanner-Projekt aufgehört hat. XPlannerPlus erweitert die Funktionen und macht die Benutzeroberfläche ein wenig schicker.
 
-#Projektverwaltung
+# Projektverwaltung
 
 **Activity Manager** ist ein Werkzeug für die Projektverwaltung. Es hilft einem Projektleiter, die Aktivitäten seiner Mitarbeiter zu verwalten und zu überprüfen. Einfach zu bedienen, leichtgewichtig, aber sehr effizient und anpassbar!
 
@@ -43,7 +43,7 @@ Die Merkmale des Tools sind:
 * EXCEL-Export
 
 Die Anwendung ermöglicht den Aufbau und die Pflege eines hierarchischen Aufgabenbaums. Sie arbeitet mit einem sehr einfachen Datenbankmodell, das es ermöglicht, schnell benutzerdefinierte Berichte über die Berichtsfunktion oder über einfache SQL-Anfragen zu erstellen.[^4]
-#Auswertung & Prognosen
+# Auswertung & Prognosen
 
 **GanttProject** ist ein kostenloses und einfach zu bedienendes, auf Gantt-Diagrammen basierendes Werkzeug zur Projektplanung und -evaluation.
 
