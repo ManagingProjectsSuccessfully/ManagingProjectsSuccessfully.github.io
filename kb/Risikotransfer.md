@@ -35,12 +35,13 @@ Ein weiterer Nachteil ist das meistens der Abschluss einer Versicherung oder die
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Risikotransfer.md)
+* [Katastrophenanleihe](https://de.wikipedia.org/wiki/Katastrophenanleihe)
+
+* [Versicherungsderivate](https://www.versicherungsmagazin.de/lexikon/versicherungsderivate-1947038.html)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Alternativer Risikotransfer: Vorteile und Risiken des Transfers](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Fachartikel/2013/fa_bj_2013_06_alternativer_risikotransfer.html)
 
 # Quellen
 
