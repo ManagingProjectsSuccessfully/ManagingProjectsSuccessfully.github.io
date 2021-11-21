@@ -25,7 +25,7 @@ anrechnung: k
 Genau wie Terminverzögerungen sind Kostenabweichungen ein wichtiges Thema, welches im [Projektmanagement](https://github.com/FCN478/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) gut durchdacht werden muss. Wenn beispielsweise ein Teil der Lieferkette nicht so funktioniert, wie vorgesehen, können Mehrkosten entstehen, wodurch man ziemlich schnell die geplanten Kosten überschreiten kann. Deshalb ist es in der Planung wichtig gewisse Kostenrisiken schon vorher abschätzen zu können. Dabei wird im klassischen Projektmanagement sehr oft die Kostentrendanalyse als Hilfsmittel genutzt! [^1]
 
 ## Ziele der Kostentrendanalyse 
-Die Kostentrendanalyse ist in ihrer Umsetzung und Darstellung ähnlich zur Meilensteintrendanalyse. Jedoch wäre anders als dort, hier auch die Kosten als Faktor miteinbezogen. Die anfangs geplanten Kosten eines jeden Teilprojekts, werden den Ist-Kosten gegenübergestellt und durch geschätzte Restkosten bis zum Projektende ergänzt. So erhält man Angaben zu den anfallenden Kostendifferenzen. Zudem können so Risiken frühzeitig erkannt werden und Prognosen für den weiteren Verlauf des Projekts erstellt werden [^2]. 
+Die Kostentrendanalyse ist in ihrer Umsetzung und Darstellung ähnlich zur [Meilensteintrendanalyse](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse.md). Jedoch wäre anders als dort, hier auch die Kosten als Faktor miteinbezogen. Die anfangs geplanten Kosten eines jeden Teilprojekts, werden den Ist-Kosten gegenübergestellt und durch geschätzte Restkosten bis zum Projektende ergänzt. So erhält man Angaben zu den anfallenden Kostendifferenzen. Zudem können so Risiken frühzeitig erkannt werden und Prognosen für den weiteren Verlauf des Projekts erstellt werden [^2]. 
 
 ## Vorteile der KTA
 Die wichtigsten Vorteile dieser Methode im Bereich Kostencontrolling ist, dass man zu jedem Zeitpunkt des Projekts die Kostenentwicklung inklusive einer Prognose für die Zukunft betrachten und eventuelle Kostenrisiken frühzeitig erkennen kann. Die Darstellung ist dabei übersichtlich, verständlich und unterscheidet sich nicht von der Meilensteintrendanalyse. Diese Ähnlichkeit zur Meilensteintrendanalyse macht es möglich beide Methoden optimal zu kombinieren. [^1]
@@ -37,7 +37,7 @@ Jede Analyse sowie jede Prognose und nur so gut wie die Daten aus der sie hervor
 Die folgenden fünf Schritte sind grundsätzlich immer gleich bei einer Kostentrendanalyse. Je nach Projekt können jedoch die Berichtstermine wöchentlich, monatlich, quartalsweise oder jährlich angesetzt werden. [^2]
 
 ### Schritt 1: Diagramm erstellen 
-Genau wie bei der Meilensteintrendanalyse benötigt man auch hier ein Diagramm bestehend aus zwei Achsen. Dabei wird die X-Achse üblicherweise für die Berichtstermine und die Y-Achse für die Kosten verwendet. [^1]
+Genau wie bei der [Meilensteintrendanalyse](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse.md) benötigt man auch hier ein Diagramm bestehend aus zwei Achsen. Dabei wird die X-Achse üblicherweise für die Berichtstermine und die Y-Achse für die Kosten verwendet. [^1]
 
 
 ![Beispielabbildung](Kosten_Trend_Analyse/Download.jpeg)  
