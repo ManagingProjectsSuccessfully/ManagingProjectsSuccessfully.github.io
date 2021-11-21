@@ -52,7 +52,8 @@ angefallenen Aufwendungen in Bezug auf das Projekt eingehen, wie beispielsweise 
 * Zeitmanagement
 
 Auch der Faktor Zeit spielt eine wichtige Rolle und sollte stets im Auge behalten werden, da dies wiederum direkten Einfluss auf die Kosten hat, welche sich mit 
-Verlängerung der Zeit schnell über den geplanten Betrag hinausentwickeln können. Des Weiteren kann bei Nichteinhaltung der Termine der Auftraggeber unzufrieden sein.
+Verlängerung der Zeit schnell über den geplanten Betrag hinausentwickeln können. Des Weiteren kann die Nichteinhaltung der Termine beim Auftraggeber zur Unzufriedenheit
+führen.
 
 ### Soft Facts[^2]
 
