@@ -35,8 +35,7 @@ Die Bundesregierung veröffentlicht regelmäßig einen [Leitfaden](https://www.b
 | 2. Definition  | Projektdefinition  |
 | 3. Planung  | Projekthandbuch  |
 | 4. Durchführung  | Produkt/Leistung  |
-| 5. Abschluss | Abschlussbericht  |                                                  ![Beispielabbildung](Oeffentliche_Projekte/images.jpg)
-
+| 5. Abschluss | Abschlussbericht  |                                                 
 ![Beispielabbildung](Oeffentliche_Projekte/images.jpg)
 
 
