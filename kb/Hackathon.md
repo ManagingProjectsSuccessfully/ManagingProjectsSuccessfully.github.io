@@ -5,7 +5,7 @@ author: eberto99
 anrechnung: k
 ---
 
-Als Hackathon wird eine kollaborative Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine Lösung zu einer zuvor definierten Problemstellung erarbeiten.[^]
+Als Hackathon wird eine [kollaborative](https://www.duden.de/rechtschreibung/kollaborativ) Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine Lösung zu einer zuvor definierten Problemstellung erarbeiten.[^]
 
 Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird hier das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf die zeitliche Komponente des Events, wobei die Teilnehmer zwischen 12 und 48 Stunden Zeit haben.[^]
 
