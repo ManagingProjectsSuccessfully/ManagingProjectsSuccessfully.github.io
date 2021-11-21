@@ -1,6 +1,6 @@
 ---
 title: Innovationsprojekte
-tags: agil klassisch
+tags: innovation projekt
 author: pamerkl
 anrechnung: k
 ---
@@ -65,7 +65,9 @@ Um den [Erfolg eines Innovationsprojekts zu messen](Erfolgsmessung.md), werden d
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Project strategy: strategy types and their contents in innovation projects](https://www.emerald.com/insight/content/doi/10.1108/17538370810846414/full/html?skipTracking=true)
+* [A complex adaptive perspective on learning within innovation projects](https://www.emerald.com/insight/content/doi/10.1108/09696470310497177/full/html?casa_token=sGYcffGP2QIAAAAA:Y-vCtYQIiCmw0WQ_dl4H_jlzhjgFd4WTset6XZL2SJE84cjCv7_guhodcM4HHH2SJD4YEvr-ecyJzjLYnA21jSMyxinkMcO3R8rYa8020Jb6r3x7vRFl)
+* [Risks of Development and Implementation of Innovative Projects](https://www.richtmann.org/journal/index.php/mjss/article/view/7373)
 
 # Quellen
 
