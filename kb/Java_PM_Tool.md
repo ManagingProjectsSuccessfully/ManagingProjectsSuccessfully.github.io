@@ -15,10 +15,10 @@ Java-Technologie – diese besteht grundsätzlich aus dem Java-Entwicklungswerkz
 (JDK) zum Erstellen von Java-Programmen und der
 Java-Laufzeitumgebung (JRE) zu deren Ausführung.[^1]
 
-Als [Projektmanagement]() wird das Initiieren, Planen, Steuern, Kontrollieren und Abschließen von Projekten bezeichnet.
+Als [Projektmanagement](Projektmanagement.md) wird das Initiieren, Planen, Steuern, Kontrollieren und Abschließen von Projekten bezeichnet.
 Viele Begriffe und Verfahrensweisen im Projektmanagement sind etabliert und standardisiert.[^2]
 
-Durch [Open source]() Java Tools kann man verschiedene Aspekte eines Projekts steuern, planen usw. In Diesem Artikel werden wir ein paar Tools kennenlernen.
+Durch [Open source](Open_Source_Projekte.md) Java [Projekte](Projekt.md) (Tools) kann man verschiedene Aspekte eines Projekts steuern, planen usw. In Diesem Artikel werden wir ein paar Tools kennenlernen.
 
 
 ## Projektplanen & Verfolgung
@@ -30,7 +30,7 @@ Projekte wie **XPlannerPlus** setzen dort an, wo das alte XPlanner-Projekt aufge
 
 ## Projektverwaltung
 
-**Activity Manager** ist ein Werkzeug für die Projektverwaltung. Es hilft einem Projektleiter, die Aktivitäten seiner Mitarbeiter zu verwalten und zu überprüfen. Einfach zu bedienen, leichtgewichtig, aber sehr effizient und anpassbar!
+**Activity Manager** ist ein Werkzeug für die Projektverwaltung. Es hilft einem [Projektleiter](Projektleiter.md), die Aktivitäten seiner Mitarbeiter zu verwalten und zu überprüfen. Einfach zu bedienen, leichtgewichtig, aber sehr effizient und anpassbar!
 
 Die Merkmale des Tools sind:
 
@@ -50,11 +50,11 @@ Die Anwendung ermöglicht den Aufbau und die Pflege eines hierarchischen Aufgabe
 Es kommt mit:
 
 * Aufgabenhierarchie und Abhängigkeiten, Meilensteine, Baselines.
-* Gantt-Diagramm mit einer Option zur Erstellung eines PERT-Diagramms.
+* [Gantt-Diagramm](Gantt_Diagramme.md) mit einer Option zur Erstellung eines PERT-Diagramms.
 * Diagramm der Ressourcenauslastung.
 * Berechnung der Aufgabenkosten.
 * Exportieren in PDF, HTML, PNG.
-* Interoperabilität mit MS Project, Excel und anderen Tabellenkalkulationsprogrammen.
+* Interoperabilität mit [MS Project](Microsoft_Project_PM_Tool.md), Excel und anderen Tabellenkalkulationsprogrammen.
 * Einfache WebDAV-basierte Zusammenarbeit.
 
 Außerdem ist ein kommerzieller Kollaborationsdienst, GanttProject Cloud, in GanttProject integriert.[^5]
@@ -66,8 +66,12 @@ Das **Plandora-Projekt** wurde als Werkzeug zur Unterstützung des **Softwareent
 Mit **Baralga** können Sie den Überblick über die Zeit behalten, die Sie für verschiedene Projekte aufwenden. Sie können die Projekte, an denen Sie arbeiten, aufzeichnen, oder Sie können Projektaktivitäten manuell eingeben und bearbeiten. So können Sie sich leicht merken, wann und wie lange Sie an jedem Projekt gearbeitet haben.[^7]
 
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Java_PM_Tool.md)
+# Verlinkungen zu angrenzenden Themen
+* [Projekt](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Open_Source_Projekte](Open_Source_Projekte.md)
+* [Gantt_Diagramme](Gantt_Diagramme.md)
+* [Microsoft_Project_PM_Tool](Microsoft_Project_PM_Tool.md)
 
 # Weiterführende Literatur
 
