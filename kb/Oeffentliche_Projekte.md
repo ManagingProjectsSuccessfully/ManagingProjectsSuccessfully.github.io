@@ -78,10 +78,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
 7. nummerierte liste
    1. und hier eine Ebene tiefer
 
@@ -121,15 +117,7 @@ Ein Projekt durchzuführen bzw das erforderliche Projektmanagment ist nicht mit 
 | 4. Durchführung  | Produkt/Leistung  |
 | 5. Abschluss | Abschlussbericht  |                            
 
-1. Initialisierung
-2. Definition
-3. Planung
-4. Durchführung
-5. Abschluss
-   
-
-In der freien Wirtschaft kontrolliert der Erfolg eines UNternehemns oder salopp gesagt der Markt den Erfolg. In der öffetnlichen verwaltungen gibt es solche Gesetztmäßigkeiten jedoch nicht. Als KOntrollinstituin ist der immmer merh an Einfluss gewinnende Bundesrechnungshof oder auch Organisationen wie der Bun der Steuerzahler. Hier wird aufgepasst wie das Geld verwendet wurde und darauf geachtet dasss nichts verschwendet wirtd.
-
+  
 # Kritik
 In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Dinge gedacht.
 
@@ -142,7 +130,7 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 
 
 ## Kontrolle
-In der freien Wirtschaft wird der Erfolg eines Unternehemns durch den Markt bzw den Erfolg kontrolliert. In der öffentlichen Verwaltungen gibt es solche Gesetztmäßigkeiten jedoch nicht. Als Kontrollinstitution gibt es deshalb den Bundesrechnungshof oder auch Organisationen wie den Bund der Steuerzahler. Hier wird kontrolliert, wie die Projekte durchgeführt werden und ob das dafür vorgesehene Geld effizient und sachgemäß eingesetzt wurde. Es wird jedoch immer wieder moniert das der Bundesrechunungshof mit zu wenig Kompetenzen ausgestattet ist.
+In der freien Wirtschaft wird ein ineffizienter Umgang mit den eigenen Ressourcen bestraft und führt zu Verlusten oder auch zur Pleite. In der öffentlichen Verwaltungen gibt es solche Gesetztmäßigkeiten nicht. Als Kontrollinstitution gibt es deshalb den Bundesrechnungshof oder auch Organisationen wie den Bund der Steuerzahler. Der Bundesrechnungshof ist dafür zuständig die Behörden im Nachhinein auf eine effiziente und sachgemäße Verwendung des öffentlichen Geldes zu kontrollieren. In letzter Zeit wird jedoch immer wieder moniert dass dieser mit zu wenig Befugnissen augestattet ist.
 
 Aufgrund solcher dramatischen Fehlplanungen gibt es schon seit langem die Forderung die öffentliche Projektplanung zu reformieren. Es wird nie ganz wie in der freien Wirtschaft funktionieren jedoch gibt es schon Ansätze die Strukturen des agilen Projektmanagments mit in die öffentliche Planung einfliesen zu lassen. Auch eine engere Zusammenarbeit von öffentlicher und privater Wirtschaft im Sinne von PPP(public-private-partnership) kann Hilfestellung geben. Das bedeutet sich an exterene Berater zu wenden die eine hohe Expertise und viel Erfahrung beim Thema Projektmangment aufweisen und so die öffentliche Verwaltung dabei unterstützen können.
 
