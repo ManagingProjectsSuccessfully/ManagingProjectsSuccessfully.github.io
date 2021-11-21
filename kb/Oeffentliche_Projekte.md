@@ -22,11 +22,11 @@ Es gibt keine einheitliche Definition von öffentlichen Projekten aber eine prä
 
 # Die öffentliche Verwaltung
 Die öffentliche Verwaltung ist ein Teil der Exekutive[^7]. Dazu gehören sämtliche Ämter und Behörenden auf komunall-, regional- aber auch Bundesebene. Zwar gilt hier die Maßgabe ausschließlich das zu erfüllen, was für die Bürger am besten ist, im Rahmen der legislativen Vorgaben, jedoch kommt es auch hier oft zu parteilichen Interessenskonflikten[^8].
-
 Dies hat Vor- und Nachteile. Die Vergangenheit hat gezeigt dass es deswegen immer wieder zu Konflikten aufgrund verschiedener politischer Ansichten kommt und sich Projekte wegen mangelnder Einigkeit verzögern. Andereseits zeigt sich das so nicht nur vom Rechnungshof sondern auch von Kollegen besodners genau auf die Finger geschaut.
 
 # Projektmanagement im öffentlichen Sektor
 Ein Projekt durchzuführen bzw das erforderliche Projektmanagment ist nicht mit dem in der freien Wirtschaft zu vergleichen. Es handelt sich nämlich oftmals um eine Verwaltungsbüro, dass oft nicht die nötigen Kompetenzen oder Erfahrungen hat. Zwar gibt es auch Behörden wie beispielsweise das Bauamt, dessen Aufgabe hauptsächlich daraus besteht Projekte durchzuführen, jedoch ist das meistens nicht die Kernaufgabe einer Behörde. Beim Projektmanagement gibt es viele Vorschriften und Regeln für nahezu jeden Schritt und jede Phase des Projektmanagements zu befolgen. Das ist in sofern sinvoll, da es sich in den meisten Fällen um öffentliche Gelder handelt, jedoch führt diese Herangehensweise nicht immer zur effizientesten Verwendung des Geldes.
+
 Die Bundesregierung veröffentlicht regelmäßig einen [Leitfaden](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/moderne-verwaltung/praxisleitfaden-projektmanagement.html) für das Projektmanagement in der öffentlichen Verwaltung an dem sich die Behörden zu orientieren haben. Dieser Leitfaden hält sich an bekannte Konzepte wie das magsiche Dreieck des Projektmanagements und gibt einen sehr starren und durchgeplanten Ablauf vor, der sehr an das klassische Projektmanament angelehnt ist. Die fünf Phasen eines Projekts sehen wie folgt aus:
 
 | Phase  | Ergebniss |
@@ -52,7 +52,8 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 | Elbphilharmonie    | 77 Mio       | 866 Mio      |
 
 
-Aufgrund solcher dramatischen Fehlplanungen gibt es schon seit langem die Forderung die öffentliche Projektplanung zu reformieren. Die umständlichen und komplizierten Richtlinien und Gesetze stellen ein großes Hinderniss für effzientes und agiles Projektmanagement dar[^5]. Es wird nie wie in der freien Wirtschaft funktionieren jedoch gibt es Ansätze die Strukturen des agilen Projektmanagments mit in die öffentliche Planung einfliesen zu lassen[^2]. 
+Aufgrund solcher dramatischen Fehlplanungen gibt es schon seit langem die Forderung die öffentliche Projektplanung zu reformieren. Die umständlichen und komplizierten Richtlinien und Gesetze stellen ein großes Hinderniss für effzientes und agiles Projektmanagement dar[^5]. Es wird nie wie in der freien Wirtschaft funktionieren jedoch gibt es Ansätze die Strukturen des agilen Projektmanagments mit in die öffentliche Planung einfliesen zu lassen[^2].
+
 Eine durchdachte Zusammenarbeit von öffentlicher und privater Wirtschaft im Sinne von PPP(public-private-partnership) kann Hilfestellung leisten[^3]. Das bedeutet sich an exterene Berater zu wenden, die eine hohe Expertise und viel Erfahrung beim Thema Projektmangment aufweisen und so die öffentliche Verwaltung dabei unterstützen können.
 
 # Ausblick
