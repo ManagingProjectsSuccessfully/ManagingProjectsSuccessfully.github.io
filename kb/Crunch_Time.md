@@ -5,12 +5,7 @@ author: SimonM211
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Crunch_Time um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Wenn man ein Projekt managet läuft nicht immer alles nach Plan. Durch unvorhersehbar auftretende Probleme oder einfach nur durch schlechtes Projektmanagement können Projekte zeitlich in Verzug kommen. Da es in Unternehmen meistens einen festen Zeitplan gibt und Verspätungen vermieden werden sollen, wird die verlorene Zeit häufig einfach durch Mehrarbeit der Mitarbeiter wieder aufgeholt. Dieses insbesondere für die Softwareentwicklung typische Phänomen nennt man Crunch Time.
 
 # Ursachen
 
