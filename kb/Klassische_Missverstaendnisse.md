@@ -18,9 +18,6 @@ Das [traditionelles Projektmanagement](https://www.projektmagazin.de/glossarterm
 In nahezu allen Projekten kommt es im Laufe der Zeit zu sich veränderten Anforderungen und Bedürfnissen. Aufgrund der klassischen Vorgehensweise hat die Projektplanung allerdings nicht die notwendigen Freiheiten um auf Veränderungen flexibel einzugehen, da sie aufwendige und oftmals kostspielige Projektanpassungen nach sich ziehen würden.[^1]  Stattdessen wird strikt an dem ursprünglichen Plan festgehalten. Somit gibt es kaum Möglichkeiten Ziel- und Planänderungen zu treffen, was vor allem bei den immer komplexer werdenden Projekten zu maßgeblichen Missverständnissen führt.[^3]  
 
 
-![Beispielabbildung](Klassische_Missverstaendnisse/test-file.jpg)
-
-*lustiges Testbild*
 
 # 4. Unschärfe bereits zu Beginn des Projektes
 
@@ -43,6 +40,9 @@ So kann man eine Tabelle erstellen:
 
 Eng damit verknüpft ist die Rückmeldung an den Kunden. Im Gegensatz zu agilen Projekten können dem Kunden keine Zwischenprodukte oder –ergebnisse präsentiert werden.[^3] Dadurch gehen entscheidende [Feedbackgespräche](Feedbackgespräche.md) im Projektverlauf verloren, welches für die weiteren Prozessschritte hätte berücksichtigt werden können. Stattdessen werden die Projektergebnisse 
 am Ende einer Projektphase oder sogar erst am Ende des Projekts bereitgestellt. Somit haben die Anspruchsgruppen so gut wie keinerlei Einfluss während des Projektes, wodurch wiederum neue Missverständnisse entstehen. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben wodurch umfangreiche nachträgliche Anpassungen notwendig werden.[^5]
+
+![Beispielabbildung](Klassische_Missverstaendnisse/Feedback.jpg)        
+*Zeitpunkt des Feedbacks beim klassichen Projektmanagement*             
 
 # 6. Unverhältnismäßige Rahmenbedingungen
 
