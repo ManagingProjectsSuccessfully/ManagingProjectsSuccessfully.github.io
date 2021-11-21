@@ -58,7 +58,7 @@ Damit ist die eigentliche Entwicklungsarbeit gemeint. Diese beinhaltet von dem a
 
 __4. Pitchen__
 
-Am Ende werden vor einer Jury, die zumeist aus den Veranstaltern, Vertreter von Unternehmern und Experten besteht, die Ergebnisse vorgestellt – was in der Startup-Branche als pitchen bezeichnet wird. Neben einem Hauptgewinner werden oft auch die besten Lösungen in bestimmten Kategorien gekürt, natürlich mit einem entsprechenden Preis.
+Am Ende werden vor einer Jury, die zumeist aus den Veranstaltern, Vertreter von Unternehmern und Experten besteht, die Ergebnisse vorgestellt – was in der Startup-Branche als pitchen bezeichnet wird. Neben einem Hauptgewinner werden oft auch die besten Lösungen in bestimmten Kategorien gekürt, natürlich mit einem entsprechenden Preis.[^]
 
 
 
