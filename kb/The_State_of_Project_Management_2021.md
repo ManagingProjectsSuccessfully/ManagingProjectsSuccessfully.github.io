@@ -112,11 +112,11 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 [^4]: [Lexikon der Projektmanagement-Methoden (Buch)]
 [^5]: [PMO: Definition, Vorteile & wann ist es gut](https://www.theprojectgroup.com/blog/pmo-project-management-office/#Kapitel1)
 [^6]: [Projektbüro - Wikipedia](https://de.wikipedia.org/wiki/Projektb%C3%BCro)
-[^7]: [Wie Technologien Probleme im Projektmanagement lösen] (https://promx.net/2021/06/wie-technologie-probleme-im-projektmanagement-loest/#)
+[^7]: [Wie Technologien Probleme im Projektmanagement lösen](https://promx.net/2021/06/wie-technologie-probleme-im-projektmanagement-loest/#)
 [^8]: [Projektmanagement - Theorie und Praxis aus einer Hand, Bernd-J. Madauss (PDF)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-54432-7.pdf)
 [^9]: [Beartung von Organisationen im Projektmanagement, Reinhard Wagner (PDF)](https://www.projektivisten.de/fileadmin/_migrated/content_uploads/Beratung-von-Organisationen-im-Projektmanagement.pdf)
 [^10]: [Cpability Maturity Model](https://de.wikipedia.org/wiki/Capability_Maturity_Model)
-[^11]: [Projektmanagement Reifegrad] (https://quality-engineering.industrie.de/allgemein/projektmanagement-reifegrad-2/#slider-intro-1)
+[^11]: [Projektmanagement Reifegrad](https://quality-engineering.industrie.de/allgemein/projektmanagement-reifegrad-2/#slider-intro-1)
 [^12]: [Die 12 wichtigsten Projektmanagement-Trends 2021](https://www.theprojectgroup.com/blog/projektmanagement-trends/)
 
 
