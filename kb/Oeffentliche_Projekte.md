@@ -119,7 +119,7 @@ Ein Projekt durchzuführen bzw das erforderliche Projektmanagment ist nicht mit 
 | 2. Definition  | Projektdefinition  |
 | 3. Planung  | Projekthandbuch  |
 | 4. Durchführung  | Produkt/Leistung  |
-| 5. Abschluss | Abschlussbericht  |
+| 5. Abschluss | Abschlussbericht  |                                                        ![Beispielabbildung](Oeffentliche_Projekte/1200x675.jpg)
 
 1. Initialisierung 
 2. Definition
