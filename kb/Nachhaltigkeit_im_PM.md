@@ -25,7 +25,7 @@ werden, etwas zu erhalten.[^3]
 Vorteile
 
 - mehr Chancen und Risiken können vor Projektbeginn identifiziert werden, da nachhaltige Betrachtung eine breitere Sichtweise ermöglicht
-- transparentere Kommunikation und Entscheidungen. Dadurch werden die Akzeptanz und die Motivation der MitarbeiterInnen als auch der 
+- transparentere Kommunikation und Entscheidungen. Dadurch werden die Akzeptanz und die Motivation der MitarbeiterInnen als auch der, 
 der Stakeholder erhöht[^4]
 
 
