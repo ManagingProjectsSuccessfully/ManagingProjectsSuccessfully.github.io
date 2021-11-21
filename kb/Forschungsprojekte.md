@@ -22,22 +22,13 @@ Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt 
 
 # Forschungsprojekte im Projektmanagement
 Das Projektmanagement ist für die Forschung von wichtiger Bedeutung, da ohne PM das ohnehin schon hohe Risiko des Misslingens noch zusätzlich gesteigert wird [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialiserte Agenturen können so zum Beispiel auch die Qualität sichern, die in der Medizintechnik eine wichtige Rolle spielt. [^5] Auch wenn es Schwierigkeiten bereitet, klare Anforderungen zu formulieren und Fortschritte zu dokumentieren, ist es dennoch wichtig, dies zu versuchen. Dabei darf auch die Risikobeurteilung und Ressourcenplanung nicht zu knapp kommen, nur weil es das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und Ehrgeiz der Forscher. Management wird nicht direkt mit Forschung assoziiert, eher als lästig empfunden. Daher ist es wichtig, dass auch auf die Organisation eingegangen wird. Ansonsten folgen nicht erreichte Ziele. Forschungsinhalt und Management gehören zusammen [^2]
-Eine mögliche Lösung stellt hier bei das Microsoft Project Server/Project Online (Microsoft PPM) link. Es ist ein benutzerfreundliches Tool für zentrales Projektmanagement, da eine eine gemeines Arbeits- und Informationsplattform für Forscher und Projektbeteiligte bereitstellt. [^4] 
-Nützliche Funktionen:
-1. PPM: zentrales Speichern und Auswerten, standardisierte Dokumentablage durch Sharepoint
-2. Erweiterung Multiprojekt: Top-down-Kommunikation, Bottum-up-Prinzip, Meilensteinübersicht, Projektampeln
-3. Erweiterung Softlinks: Verknüpfung zum eigenen/firmenübergreifenden Termin-/Projektplan
-4. Erweiterung ERP-Sytem: detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und Controllern [^4]
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
 ![Beispielabbildung](Forschungsprojekte/test-file.jpg)
 
 *lustiges Testbild*
 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-# Klassisch vs. Agil
+## Klassisch vs. Agil
 Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Auch wenn leichte Tendenz zum agilen Projektmanagement existiert, gegeben dadurch, dass in der Anfangsphase oftmals die Anforderungen teils unbekannt sind, hat es jedoch auch Aspekte des klassischen Projektmanagements (z.B. detaillierter Projektantrag). Die unten aufgehführte Tabelle zeigt die Leitfragen und deren Einordnung von Forschungsprojekten (fettgedruckt) in das jeweilige Projektmanagement. Eine geeignete Methode im agilen Projektmanagement stellt hierbei die SCORE Methode dar.
 
 
@@ -53,9 +44,21 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 
 [^3]
 
-# Aktuelle Forschungsprojekte
 
-## Hier gleich noch eine Ebene-2-Überschrift 
+## Lösungsansätze
+Eine mögliche Lösung stellt hier bei das Microsoft Project Server/Project Online (Microsoft PPM) link. Es ist ein benutzerfreundliches Tool für zentrales Projektmanagement, da eine eine gemeines Arbeits- und Informationsplattform für Forscher und Projektbeteiligte bereitstellt. [^4] 
+Nützliche Funktionen:
+1. PPM: zentrales Speichern und Auswerten, standardisierte Dokumentablage durch Sharepoint
+2. Erweiterung Multiprojekt: Top-down-Kommunikation, Bottum-up-Prinzip, Meilensteinübersicht, Projektampeln
+3. Erweiterung Softlinks: Verknüpfung zum eigenen/firmenübergreifenden Termin-/Projektplan
+4. Erweiterung ERP-Sytem: detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und Controllern [^4]
+
+![Beispielabbildung](Forschungsprojekte/test-file.jpg)
+
+*lustiges Testbild*
+
+
+# Aktuelle Forschungsprojekte
 
 # Siehe auch
 
