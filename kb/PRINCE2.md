@@ -29,6 +29,8 @@ Die PRINCE2-Methode setzt sich aus vier Grundbausteinen zusammen, auf welche in 
 
 Daneben definiert PRINCE2 festgelegte Rollen & Verantwortlichkeiten innerhalb des Projektteams und gibt konkrete Handlungsempfehlungen für jede Projektphase (maxpert & qrp)
 
+![Schlüsselelemente von PRINCE2](PRINCE2/QYrQCDWcQN2D4W0u9vOHQnjGOkAHXF0m3a5XGacS.png)
+
 # Die 7 Themen von PRINCE2
 
 Die 7 PRINCE2 Themen (auch als Arbeitsdimensionen zu verstehen) beschreiben die Umsetzung der 7 Grundprinzipien genauer. 
