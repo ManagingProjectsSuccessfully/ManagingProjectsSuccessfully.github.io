@@ -63,8 +63,9 @@ Konkrete Methoden stellen hierbei Scrum, Extreme Programming und Crystal Methods
 
 # Quellen
 
-[^1]: Handbuch Projektmanagement (https://link.springer.com/book/10.1007/978-3-662-57878-0)
-[^2]: Klassisches Projektmanagement(https://doi.org/10.1007/978-3-8349-4202-9_3)
-[^3]: Wasserfallmodell - factro (https://www.factro.de/blog/wasserfallmodell/)
-[^4]: Enzyklopädie der Wirtschaftsinformatik(https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Spiralmodell)
+[^1]: Literaturverzeichnis
+Kuster, J., Bachmann, C., Huber, E., Hubmann, M., Lippmann, R., Schneider, E., Schneider, P., Witschi, U. & Wüst, R. (2019). Handbuch Projektmanagement. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-662-57878-0
+[^2]: Trepper T. (2012) Klassisches Projektmanagement. In: Agil-systemisches Softwareprojektmanagement. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-8349-4202-9_3
+[^3]: Wasserfallmodell - factro (https://www.factro.de/blog/wasserfallmodell/), aufgerufen am 21.11.2021
+[^4]: Enzyklopädie der Wirtschaftsinformatik(https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Spiralmodell), aufgerufen am 21.11.2021
 
