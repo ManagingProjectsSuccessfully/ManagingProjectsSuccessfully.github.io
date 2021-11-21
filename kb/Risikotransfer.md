@@ -21,7 +21,7 @@ Auch das Factoring ist eine Methode des Risikotransfers. Dabei schaltet ein Fact
 Beim Leasing wird zwischen dem Operating-Leasing und das Financial-Leasing unterschieden. Der wesentliche Unterschied dabei liegt daran, dass beim Operating-Leasing eine kurzfristige Kündigung möglich ist, wodurch nur das Financial-Leasing unter den Risikotransfer fällt. Beim Leasing wird ein Leasingobjekt durch ein Leasingnehmer bei einem Lieferanten ausgewählt und durch eine Leasinggeber erworben. Ein Leasingvertrag zwischen Leasingnehmer und Leasinggeber ist entstanden. Darin wird die allgemeine Laufzeit, die Mindestvertragslaufzeit und die Höhe der Leasingrate festgelegt, die der Leasingnehmer dann beim Leasinggeber zu begleichen hat. Der Risikotransfer entsteht dadurch, dass die Leasingrate die Kosten des Leasinggebers deckt. 
 Jedoch hat der Leasingnehmer trotz Risikos Vorteile wie z.B. der Zugang zur neusten Technologie nach Ablauf der Leasingzeit, da danach ein neues Model ausgesucht werden darf, falls das Leasingobjekt nicht erworben wird. (3)
 
-[Beispielabbildung](Risikotransfer/Schema_Leasing.jpg)
+[Beispielabbildung](Risikotransfer/Schema_Leasing.jpeg)
 
 
 
