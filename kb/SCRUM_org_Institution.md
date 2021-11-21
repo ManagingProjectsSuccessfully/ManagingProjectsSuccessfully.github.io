@@ -10,6 +10,12 @@ Kurzbeschreibung zu SCRUM_org_Institution um ein erstes Verständnis dafür zu s
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
+# Hintergrundgeschichte
+
+# Angebot
+
+# Konkurrenten
+
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
