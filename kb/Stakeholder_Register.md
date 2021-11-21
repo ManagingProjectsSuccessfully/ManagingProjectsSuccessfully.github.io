@@ -4,15 +4,17 @@ tags: agil klassisch stakeholder register
 author: 21Nila
 anrechnung: k
 ---
-
-# Definition
-
-Das Stakeholder Register dient als Werkzeug für die Projektplanung.
+Das **Stakeholder Register** ist ein Werkzeug für die Projektplanung.
 Dabei handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben. [^1]
 
-<!-- Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut oben im Front-Matter (Bereich zwischen den `---`). Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht. -->
+# Inhalte
+1. [Erstellung eines Registers](#erstellung-eines-registers)
+2. [Vorteile eines Registers](#vorteile-eines-registers)
+3. [Siehe auch](#siehe-auch)
+4. [Weiterführende Literatur](#weiterführende-literatur)
+5. [Quellen](#quellen)
 
-# Vorgehensweise
+# Erstellung eines Registers
 
 Das Register wird früh im Planungsprozess von Projektmanagern angelegt und erfolgt die Erstellung eines Registers in den folgenden drei Schritten: [^1] [^2]
 
@@ -86,6 +88,9 @@ Wie bereits erwähnt, sollte das Register schon am Anfang eines Projektes erstel
 [^2]: [What is a Stakeholder Register? (projectmanagementacademy)](https://projectmanagementacademy.net/resources/blog/what-is-a-stakeholder-register/)  
 
 <!--
+
+<!-- Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut oben im Front-Matter (Bereich zwischen den `---`). Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+
  [^2]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^3]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
