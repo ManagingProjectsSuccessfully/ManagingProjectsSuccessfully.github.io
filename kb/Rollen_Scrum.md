@@ -1,104 +1,47 @@
 ---
 title: Rollen_Scrum
-tags: agil klassisch
+tags: agil 
 author: FCN478
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Rollen_Scrum um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+SCRUM ist ein Framework aus dem Bereich des agilen Projektmanagements und spezifiziert die handelnden Personen in verschiedene Kategorien. Grundsätzlich existieren drei verschiedene Rollen. Zum einen gibt es den Product Owner, dazu den Scrum Master und zuletzt das Development Team. Die jeweiligen Rollen besitzen je eigene Anforderungen, die sie in das Projekt miteinbringen müssen. Das Zusammenspiel aller handelnden Personen hat dabei oberste Priorität.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## Product Owner
+Der Product Owner ist eine einzelne Person und kann nicht aus einer Gruppe bestehen. Die zentrale Aufgabe dieser Position besteht darin, den Wert des Produkts, welches im Rahmen des jeweiligen SCRUM-Projekts bearbeitet wird, zu maximieren. Dabei ist diese Person ebenfalls für den Product Backlog zuständig, welcher eine Liste mit sämtlichen Anforderungen und Aufgaben eines Projekts ist. Dahingehend kümmert sich der Product Owner um eine klare und verständliche Struktur und verwaltet ebenfalls die Beiträge und die Beitragserstellung. Das Ziel dahinter ist es, die Arbeit des Development Teams zu optimieren und aufzuzeigen, woran gerade gearbeitet wird.[^1] [^2]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+## SCRUM Master
+Der SCRUM Master ist dafür zuständig, dass das gesamte Team das SCRUM Konzept hinsichtlich der Werte, Regeln und Theorien versteht und umsetzt. Dabei ist er ebenfalls eine einzelne Person und tritt nicht als Projektleiter auf. In seinen Aufgabenbereich fällt darüber hinaus, externen Akteuren den SCRUM Ablauf in seinem Projekt verständlich zu machen und ist somit Ansprechpartner für sämtliche Personen, die mit dem Projekt in Verbindung stehen. 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Im Rahmen seiner Tätigkeit unterstützt der SCRUM Master den Product Owner, dessen Aufgaben effizienter und verständlicher zu gestalten. So wirkt er beratend bei der Erstellung des Product Backlogs mit und sorgt für einen reibungslosen Ablauf.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Des Weiteren steht er auch mit dem Development Team in Kontakt. Er lehrt dem Team wichtige Eigenschaften zur Selbstorganisation und einer funktionsübergreifenden Zusammenarbeit. Dazu beseitigt er für das Team sämtliche Probleme, die einem reibungslosen Arbeitsablauf im Weg stehen und organisiert je nach Bedarf Meetings. In diesem Kontext lässt sich seine Rolle als Berater und Organisator beschreiben. 
+Für die gesamte Organisation ist der SCRUM Master als empirischer Produktentwickler wichtig.[^1][^2][^3]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Development Team
+Das Development Team besteht aus den jeweiligen Spezialisten, die direkt am verwertbaren Endprodukt eines Projekts arbeiten. Die Zusammensetzung ist dabei projektbezogen, interdisziplinär und individuell. Eine Rollenunterscheidung oder beispielsweise eine Hierarchie innerhalb des Teams existieren im Rahmen von SCRUM nicht und grundsätzlich ist das Team dazu befähigt, selbstorganisiert zu arbeiten und zu planen. Dennoch ist das Team für den Output des Projekts verantwortlich und als Ganzes rechenschaftspflichtig. 
+Die optimale Teamgröße richtet sich nach dem jeweiligen Projekt. Sehr kleine Teams setzen sich der Gefahr aus, nicht genügend Kapazität für die Entwicklung zu haben. Jedoch vereinfacht sich die Kommunikation. Zu große Teams führen zu einer höheren Komplexität und innerhalb der Gruppe und zu etwaigen unklaren Abläufen. Dahingehend befindet sich die Teamgröße in einem Spannungsfeld und muss möglichst passend bestimmt werden. In den meisten Fällen besteht das Team aus drei bis neun Mitgliedern.[^1][^2]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Rollen_Scrum/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Rollen_Scrum.md)
+* [SCRUM](SCRUM.md)
+* [Product Owner](Product_Owner.md)
+* [Scrum Master](Scrum_Master.md)
+* [Development Team](Development_Team.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* www.scrumguide.de
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: Jeff Sutherland Ken Schwaber: Der Scrum Guide. (PDF) scrum.org (https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-German.pdf), aufgerufen am 21.11.2021
+[^2]: Scrum-Rollen, scrumguide.de (https://scrumguide.de/scrum-rollen/), aufgerufen am 21.11.2021
+[^3]: Scrum-Master, scrumguide.de (https://scrumguide.de/scrum-master/), aufgerufen am 21.11.2021
+[^4]: 
