@@ -2,7 +2,7 @@
 title: Innovationsprojekte
 tags: agil klassisch
 author: pamerkl
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Innovationsprojekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -10,7 +10,11 @@ Kurzbeschreibung zu Innovationsprojekte um ein erstes Verständnis dafür zu sch
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# 1.	Innovation und Projekte
+
+Innovation ist einer der wichtigsten Erfolgsfaktoren eines Unternehmens in Bezug auf ihre Wettbewerbsfähigkeit und wird deshalb auch primär mit Produktneuerungen in Verbindung gebracht, was allerdings eine verbreitete Fehlansicht ist.[^1] Der Begriff der Innovation umfasst nicht nur Produkte, sondern beispielsweise auch neue Prozesse oder Dienstleistungen sowie deren erfolgreiche Kommerzialisierung am Markt.[^2]
+
+Umgesetzt werden solche Innovationen in einem Unternehmen häufig im Rahmen eines Projekts, welches grundsätzlich drei Hauptmerkmale erfüllen muss. Es muss neu sein, innerhalb eines vorgegebenen zeitlichen Rahmens durchgeführt werden und eine eindeutig definierte Absicht verfolgen. Insbesondere die Projektsteuerung bei Innovationsprojekten stellt möglicherweise eine Herausforderung dar. Da sich in der Regel in Bezug auf Zeit, Qualität und Kosten verschiedene Zielsetzungen herauskristallisieren, die jedoch nicht immer komplementär sind, kann dies folglich zu Zielkonflikten führen.[^3]
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -97,8 +101,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^1]: [Eric von Hippel: The Sources of Innovation, Oxford, 1988](https://link.springer.com/content/pdf/10.1007/978-3-8349-9320-5_10.pdf)
+[^2]: [Jan Eric Borchert: Operatives Innovationsmanagement in Unternehmensnetzwerken: Gestaltung von Instrumenten für Innovationsprojekte, Göttingen, 2006](https://books.google.de/books?hl=de&lr=&id=SBH_DwAAQBAJ&oi=fnd&pg=PR14&dq=innovationsprojekte&ots=ysHBRqOPqJ&sig=hWOvhN2a1oV1_59y_G0V0SzSxcU&redir_esc=y#v=onepage&q=innovationsprojekte&f=false)
+[^3]: [ Björn F. Söndgerath: Steuerung von Innovationsprojekten unter Einbeziehung von Erfolgsfaktoren, Magdeburg, 2002](https://opendata.uni-halle.de/bitstream/1981185920/10766/1/bjosoendgerath.pdf)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
