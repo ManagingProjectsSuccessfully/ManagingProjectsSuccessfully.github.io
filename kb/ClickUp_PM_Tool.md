@@ -5,7 +5,8 @@ author: urimi0
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu ClickUp_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+ClickUp ist ein [Projekt-Management Tool] (Uebersicht_PM_Tools.md) welches verschiedene Features von mehreren Internetseiten und Apps wie Trellozu einer Plattform kombiniert. 
+Organisation 
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
