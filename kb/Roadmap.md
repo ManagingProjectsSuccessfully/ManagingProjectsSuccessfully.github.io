@@ -40,9 +40,8 @@ Der Prozess, eine Roadmap zu erstellen und stets auf dem aktuellen Stand zu halt
 genannt. Die Entwicklung einer Roadmap lässt sich in fünf Kernschritte unterteilen, die in der 
 nachfolgenden Abbildung zusammengefasst werden. Die Vorgehensweise kann ebenfalls auf die verschiedenen 
 Arten von Roadmaps übertragen werden. 
+![Roadm_Erst_Abb1](Roadmap/Roadm_Erst_Abb1.PNG).
 
-
---Bild einfügen
 
 ## Definition von Untersuchungsfeldern
 Im ersten Schritt findet eine Abgrenzung der zu untersuchenden Objekte statt. Hierzu werden die 
@@ -79,14 +78,8 @@ werden:
 4. Verknüpfung zwischen den Objekten zur Darstellung der Wirkungszusammenhänge [^3]
 
 In der nachfolgenden Abbildung ist eine beispielhafte Visualisierung einer Roadmap skizziert:
+![Roadm_Erst_Abb1](Roadmap/Roadm_Erst_Abb2.PNG).
 
---Bild einfügen
-
-
-
-![Beispielabbildung](Roadmap/test-file.jpg)
-
-*lustiges Testbild*
 
 
 
