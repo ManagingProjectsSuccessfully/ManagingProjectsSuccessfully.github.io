@@ -54,7 +54,7 @@ Die verschiedenen Teams bilden sich in der Regel erst vor Ort, nach gemeinsamen 
 
 __3. Let's Hack__
 
-Damit ist die eigentliche Entwicklungsarbeit gemeint. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototyps auch die Vorbereitungen auf die Präsentation.[^]
+Damit ist die eigentliche Entwicklungsarbeit gemeint. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototyps auch die Vorbereitungen auf die Präsentation. Dabei folgen die Mitglieder oftmals den Prinzipien von [Desinged Thinking][^]
 
 __4. Pitchen__
 
