@@ -49,9 +49,9 @@ was eine reibungslose Arbeitspraxis stören könnte[^4].
 # Siehe auch
 
 * [Kanban_Pull_Prinzip](Kanban_Pull_Prinzip.md)
+* [Kanban_Boards](Kanban_Boards.md)
 * [Kanban_Work_in_Progress](Kanban_Work_in_Progress.md)
 * [Kanban_Karten](Kanban_Karten.md)
-* [Kanban_Boards](Kanban_Boards.md)
 * [Kanban_Swim_Lanes](Kanban_Swim_Lanes.md)
 
 # Weiterführende Literatur
