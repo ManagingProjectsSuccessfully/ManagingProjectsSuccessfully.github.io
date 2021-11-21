@@ -121,7 +121,7 @@ Ein Projekt durchzuführen bzw das erforderliche Projektmanagment ist nicht mit 
 | 4. Durchführung  | Produkt/Leistung  |
 | 5. Abschluss | Abschlussbericht  |                                                        ![Beispielabbildung](Oeffentliche_Projekte/1200x675.jpg)
 
-1. Initialisierung1 
+1. Initialisierung
 2. Definition
 3. Planung
 4. Durchführung
