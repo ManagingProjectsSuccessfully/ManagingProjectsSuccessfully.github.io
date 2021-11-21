@@ -41,7 +41,7 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 
 # Ablauf
 
-Der Ablauf eines Hackathons variiert je nach Thema, Dauer oder Teilnehmergröße. Dennoch weisen sie alle eine gemeinsame Grundstruktur auf.
+Der Ablauf eines Hackathons variiert je nach Thema, Dauer, Teilnehmergröße oder Programmiersprache. Dennoch weisen sie alle eine gemeinsame Grundstruktur auf.
 
 __1. Vorstellung und Vorträge__
 
