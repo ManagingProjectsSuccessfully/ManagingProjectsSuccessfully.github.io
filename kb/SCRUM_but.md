@@ -20,7 +20,7 @@ Bei sogenannten ScrumButs handelt es sich um verschiedene Gründe, warum ein Tea
 # Die Intention von Scrumbuts
 Grundsätzlich liegt die Intention eines Scrumbuts meist in der Optimierung bzw.  Adaption der Arbeit nach [Scrum](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) in einer oder für eine bestimmte Organisation. In folgenden Bereichen können beispielsweise Scrumbuts auftreten: 
 -	Verantwortlichkeiten und Aufgaben des Product Owners, des [Scrum](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) Masters und der Entwickler 
--	Durchführung von Events (Sprints, Sprint Planning, Daily Scrum, Sprint Review oder Retroperspektive)
+-	Durchführung von Events (Sprints, Sprint Planning, [Daily Scrum](https://github.com/JonathanBauerFau/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md), Sprint Review oder Retroperspektive)
 -	Verwendung der Artefakte (Product Backlog, Sprint Backlog)
 -	Nutzung von Commitments (Product Goal, Sprint Goal oder Definition od Done) [^2]
 
@@ -52,21 +52,18 @@ Bei einer Modifizierung des Scrums ist die Auseinandersetzung mit einem konkrete
 
 # Siehe auch
 
-* Scrum_Master
-* Scrum_Artefakte
-* Scrum_Values
-* Scrum_Priciples
-* Scrum_Rules
-* Scrum_Guide
+* [Scrum_Artefakte](https://github.com/Christoph-Mantsch/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Artefakte.md)  
+* [Scrum_Values](https://github.com/Lukas1401/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Values.md)
+* [Scrum_Priciples](https://github.com/lianalia/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Principles.md) 
+* [Scrum_Guide](https://github.com/MrSommC/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Guide.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Whats is ScrumBut?](https://www.scrum.org/resources/what-scrumbut)
+* [ScrumBut (SeriousScrum)](https://medium.com/serious-scrum/scrumbut-10335be4a5e4)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Scrumbut-was soll das sein?](https://alphanodes.com/de/scrumbut-soll-sein) 
+[^2]: [Was ist ein Scrumbut? (t2informatik)](https://t2informatik.de/wissen-kompakt/scrumbut/)
 
