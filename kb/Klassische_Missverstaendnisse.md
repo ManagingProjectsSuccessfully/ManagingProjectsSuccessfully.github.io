@@ -66,6 +66,8 @@ Um klassische Missverständnisse bei Projekten zu vermeiden ist es deshalb beson
 # Weiterführende Literatur
 
 * [Traditionelles Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement)
+* [Unterschiede zwischen klassischem und agilem Projektmanagement Teil 2](https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/klassisches-agiles-projektmanagement-teil-2/)
+* [Unterschiede zwischen klassischem und agilem Projektmanagement Teil 3](https://projekte-leicht-gemacht.de/blog/klassisches-agiles-projektmanagement-teil-3/)
 
 # Quellen
 
