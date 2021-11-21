@@ -154,6 +154,11 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 
 
 
+
+
+
+
+
 ## Kontrolle
 In der freien Wirtschaft wird der Erfolg eines Unternehemns durch den Markt bzw den Erfolg kontrolliert. In der öffentlichen Verwaltungen gibt es solche Gesetztmäßigkeiten jedoch nicht. Als Kontrollinstitution gibt es deshalb den Bundesrechnungshof oder auch Organisationen wie den Bund der Steuerzahler. Hier wird kontrolliert, wie die Projekte durchgeführt werden und ob das dafür vorgesehene Geld effizient und sachgemäß eingesetzt wurde. Es wird jedoch immer wieder moniert das der Bundesrechunungshof mit zu wenig Kompetenzen ausgestattet ist.
 
