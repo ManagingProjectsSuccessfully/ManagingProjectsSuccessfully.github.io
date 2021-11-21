@@ -37,13 +37,13 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Einleitung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Interactive Planning ist ein Konzept, das vom Theoretiker Russell L. Ackoff entwickelt wurde. 
+Dahinter steckt die Idee, dass, um ein wünschenswertes Zukunftsbild zu erreichen, man zuerst eine wünschenswerte Gegenwart kreieren muss, um dann Wege und Mittel zu finden diese nachzustellen. Zudem lässt dieses Konzept zu, dass die Stakeholder der Organisation im Planungsprozess involviert sind.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Interactive Planning besteht aus 2 Teilen, der Idealisierung und der Realisierung. Diese zwei Teile sind zudem in 6 voneinander abhängigen Teilen unterteilt.
+
 
 ![Beispielabbildung](Interactive_Approach/test-file.jpg)
 
