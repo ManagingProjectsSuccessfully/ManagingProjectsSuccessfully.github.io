@@ -19,7 +19,7 @@ Beim **Stakeholder Register** handelt es sich um ein Dokument, welches alle rele
 
 # Erstellung eines Registers
 
-Das Register wird früh im Planungsprozess von Projektleitern [Projektleiter](Projektleiter.md) angelegt und erfolgt die Erstellung eines Registers in den folgenden drei Schritten: [^1] [^2]
+Das Register wird früh im Planungsprozess von [Projektleitern](Projektleiter.md) angelegt und erfolgt die Erstellung eines Registers in den folgenden drei Schritten: [^1] [^2]
 
 ## 1. Identifizierung der Stakeholder 
 
