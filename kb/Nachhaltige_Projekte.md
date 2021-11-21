@@ -1,41 +1,28 @@
 ---
 title: Nachhaltige_Projekte
-tags: agil klassisch
+tags: agil klassisch Nachhaltigkeit Projekte nachhaltige_Entwicklung 
 author: MarcelFAU
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Nachhaltige_Projekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+In diesem Beitrag wird das Thema nachhaltige Projekte behandelt. Wobei zuerst auf das Thema Nachhaltigkeit eingegangen wird und im späteren Verlauf des Beitrags genaueres zu 
+nachhaltigen Projekten, mithilfe von Beispielen, erläutert wird.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Nachhaltigkeit als tragende Säule der Zukunft
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
+In der modernen Gesellschaft ist Nachhaltigkeit einer der zentralen Aspekte bei der Innovierung von Unternehmen, Haushalten und sogar Ländern, wodurch die Anzahl an 
+nachhaltigen Projekten immer mehr steigt, um Umweltschutz und wirtschaftliche Ziele zu [komplementären Zielen](https://www.rechnungswesen-verstehen.de/lexikon/komplementaere-ziele.php) zu machen und einen positiven Zukunftsausblick zu schaffen.
+Was ist eigentlich Nachhaltigkeit? Ursprünglich wurde Nachhaltigkeit nur als Synonym für Umweltschutz verwendet, was sich aber über die Zeit hinweg geändert hat 
+Nachhaltigkeit kann in vielen Bereichen Anwendung finden wie z.B Bildung, Forschung, Ernährung und so weiter. Folglich hat sich auch die Wichtigkeit der Nachhaltigkeit erhöht 
+und ist in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt.[^1] Nachhaltige Projekte ist ein Thema, dass sehr eng mit der nachhaltigen Entwicklung oder im 
+englischen „sustainable development“ zusammenhängt. Die Nachhaltige Entwicklung ist in nahezu allen Ländern der Welt ein Thema auf welches großes Augenmerk gelegt wird, denn 
+schon seit dem Erdgipfel 1992 in Rio de Janeiro ist dies ein Fokuspunkt der UN und bekommt, wie am Klimagipfel 2021 in Glasgow zu sehen war, große Aufmerksamkeit.[^2] 
+Allgemein ist ein deutlicher Anstieg von nachhaltigen Projekten in den vergangenen Jahren zu erkennen, da das Thema Klimaschutz immer und immer mehr in den Vordergrund gerät. 
+Auch ist das Interesse an nachhaltigen Produkten deutlich gestiegen, weshalb Nachhaltigkeit auch ein Verkaufsargument für Unternehmen ist und Kunden generieren kann.[^3] Aber 
+nicht nur das, wie man in der Infografik, die unten dargestellt ist, sehen kann, wollen junge Menschen lieber für nachhaltige Unternehmen arbeiten, was bedeutet, dass Firmen 
+auch deshalb sich für Nachhaltigkeit einsetzen müssen, um neue qualitative Arbeitskräfte zu bekommen und diese nicht an andere Unternehmen zu verlieren.[^4] Jedoch gibt es 
+noch Hürden, die überwindet werden müssen, da laut einer Umfrage aus dem Jahr 2014 rund 58% behaupteten sie würden keinen Aufpreis für nachhaltige Produkte zahlen. 
+Unglücklicherweise ist aber der Preis nachhaltiger Produkte meist teurer, da ein höherer Aufwand betrieben werden muss.[^5] 
 
 # Aspekt 1
 
