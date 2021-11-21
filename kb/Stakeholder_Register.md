@@ -19,11 +19,11 @@ Beim **Stakeholder Register** handelt es sich um ein Dokument, welches alle rele
 
 # Erstellung eines Registers
 
-Das *Register* wird früh im Planungsprozess von [Projektleitern](Projektleiter.md) angelegt und erfolgt die Erstellung eines Registers in den folgenden drei Schritten: [^1] [^2]
+Das *Register* wird früh im Planungsprozess von [Projektleitern](Projektleiter.md) angelegt. Die Erstellung eines Registers in den folgenden drei Schritten: [^1] [^2]
 
 ## 1. Identifizierung der Stakeholder 
 
-Zunächst müssen die *Stakeholder* ausfindig gemacht werden. Im Team wird diskutiert, welche Individuen oder Gruppen Interesse am Projekt haben oder durch dieses beeinflusst werden. 
+Zunächst müssen die Stakeholder ausfindig gemacht werden. Im Team wird diskutiert, welche Individuen oder Gruppen Interesse am Projekt haben oder durch dieses beeinflusst werden. 
 Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, sodass das Dokument stets auf dem neuesten Stand gehalten werden muss. [^1]
 
 ## 2. Erstellen des Dokuments
@@ -32,14 +32,14 @@ Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird h�
 
 ![Stakeholder Register Beispiel](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")
 
-Unabhängig von der Größe des Unternehmens sollte sich jeder [*Projektleiter*](Projektleiter.md) aufgrund der Individualität des [*Stakeholdermanagements*](Stakeholdermanagement.md) selbstständig ein eigenes Register anfertigen. Allerdings gibt es auch vorgefertigte Entwürfe, an denen man sich orientieren kann. [^1]
+Unabhängig von der Größe des Unternehmens sollte sich jeder [Projektleiter](Projektleiter.md) aufgrund der Individualität des [Stakeholdermanagements](Stakeholdermanagement.md) selbstständig ein eigenes Register anfertigen. Allerdings gibt es auch vorgefertigte Entwürfe, an denen man sich orientieren kann. [^1]
 
 Im Folgenden sind die gängigsten Kategorien aufgelistet [^1]:
 
-* Name des *Stakeholders*
-* Art von *Stakeholder*
+* Name des Stakeholders
+* Art von Stakeholder
 * Interne oder Externe
-* Verbindungen oder Abhängigkeiten der *Stakeholder*
+* Verbindungen oder Abhängigkeiten der Stakeholder
 * Rolle im Projekt
 * Interessen am Projekt
 * Anforderungen an das Projekt
@@ -47,21 +47,21 @@ Im Folgenden sind die gängigsten Kategorien aufgelistet [^1]:
 * Bevorzugte Art & Häufigkeit der Kommunikation
 * Strategien
 
-Weitere Leitsätze, die zur Erstellung des *Registers* wichtig zu beachten sind [^2]:
+Weitere Leitsätze, die zur Erstellung des Registers wichtig zu beachten sind [^2]:
 
-* Fragen, die du von deinen Stakeholdern beantwortet haben willst, sollten im Voraus klar sein, bevor das Register erstellt wird.
-* Die Formulierung des *Registers* sollte so gestaltet sein, als würde es für die gesamte Welt, besonders für deine Stakeholder, veröffentlicht werden 
+* Fragen, die du von deinen Stakeholdern beantwortet haben willst, sollten im Voraus klar sein, *bevor* das Register erstellt wird.
+* Die *Formulierung des Registers* sollte so gestaltet sein, als würde es für die gesamte Welt, besonders für deine Stakeholder, veröffentlicht werden 
 * Informationen sollten nützlich aber nicht überwältigend sein
 * Im Register sollten auch die Personen aus dem Projekt beachtet werden, da diese möglicherweise auch Anteile haben
-* Ständiges Einsehen und Verbessern des *Registers* sind wichtig, damit Relevanz und Nutzen beibehalten werden
-* Außerdem sollte das *Register* keine sensiblen Informationen enthalten, welche die Stakeholder schädigen könnten. 
+* *Ständiges Einsehen und Verbessern* des Registers sind wichtig, damit Relevanz und Nutzen beibehalten werden
+* Außerdem sollte das Register *keine sensiblen Informationen* enthalten, welche die Stakeholder schädigen könnten. 
 
 Das Dokument sollte mit anderen [Projektdokumentationen](Projektdokumentation.md) aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein. [^2]
 
 ## 3. Analyse der Stakeholder
 
 Die Analyse ist der wichtigste Prozess im Erstellungsprozess. 
-Hier wird das *Register* mit den nötigen Daten ausgefüllt. Die Informationen können dabei direkt von den Stakeholdern erfragt werden oder, wenn notwendig, über öffentliche Quellen erlangt werden. [^1]
+Hier wird das Register mit den nötigen Daten ausgefüllt. Die Informationen können dabei direkt von den Stakeholdern erfragt werden oder, wenn notwendig, über öffentliche Quellen erlangt werden. [^1]
 
 # Vorteile eines Registers
 
@@ -69,15 +69,15 @@ Hier wird das *Register* mit den nötigen Daten ausgefüllt. Die Informationen k
 
 ## Breite Anwendung
 
-Das *Register* kann vielseitig eingesetzt werden. Es dient neben der Projekt/- und Programmplanung zur Teamformung und -entwicklung, Definieren von Erfolgskriterien, [Kommunikation](Projektkommunikation.md), Regierungsführung und Definieren von Aufgaben und Verantwortung. [^1]
+Das Register kann vielseitig eingesetzt werden. Es dient neben der Projekt/- und Programmplanung zur Teamformung und -entwicklung, Definieren von Erfolgskriterien, [Kommunikation](Projektkommunikation.md), Regierungsführung und Definieren von Aufgaben und Verantwortung. [^1]
 
 ## Bessere Kommunikation
 
-Ein gutes *Stakeholder Register* hilft bei der Identifizierung der Präferenzen der Stakeholder und ermöglicht eine effektive Kommunikation. Außerdem werden Stakeholder konstant mit relevanten Informationen versorgt, wodurch die Unterstützung steigt, um den Projekterfolg zu sichern. [^1]
+Ein gutes Stakeholder Register hilft bei der Identifizierung der Präferenzen der Stakeholder und ermöglicht eine effektive Kommunikation. Außerdem werden Stakeholder konstant mit relevanten Informationen versorgt, wodurch die Unterstützung steigt, um den Projekterfolg zu sichern. [^1]
 
 ## Fördern des Teamgeists
 
-Aufgrund der Erstellung des *Registers* im frühen Projektverlauf, werden durch frühzeitige Einbinden anderer Stakeholder nicht nur Informationen für das *Register* gesammelt, sondern auch Selbstbewusstsein und Vertrauen der Projektbeteiligten gestärkt, welches sich im Endprodukt widerspiegelt. [^1]
+Aufgrund der Erstellung des Registers im frühen Projektverlauf, werden durch frühzeitige Einbinden anderer Stakeholder nicht nur Informationen für das Register gesammelt, sondern auch Selbstbewusstsein und Vertrauen der Projektbeteiligten gestärkt, welches sich im Endprodukt widerspiegelt. [^1]
 
 # Siehe auch
 
