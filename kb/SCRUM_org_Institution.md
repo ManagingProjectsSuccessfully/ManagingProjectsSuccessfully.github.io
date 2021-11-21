@@ -2,7 +2,7 @@
 title: SCRUM_org_Institution
 tags: agil klassisch
 author: SimonM211
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu SCRUM_org_Institution um ein erstes Verständnis dafür zu schaffen um was es hier geht.
