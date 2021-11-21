@@ -50,7 +50,7 @@ einen Beitrag zum Unternehmenserfolg und zum Erhalt einer zukunftsfähigen Wirts
 Hauptgedanke ist, Projektergebnis und Prozesse nachhaltig zu gestalten
 
 - Einsatz von ökologisch wertvollen und vertretbaren Materialien
-- Achten auf die Vertretbarkeit der eingesetzten Materialien und probieren ein ressourcenschonendes Endprodukt bereitzustellen
+- Achten auf die Vertretbarkeit der eingesetzten Materialien und versuchen ein ressourcenschonendes Endprodukt bereitzustellen
 
 Ökonomische Dimension
 
