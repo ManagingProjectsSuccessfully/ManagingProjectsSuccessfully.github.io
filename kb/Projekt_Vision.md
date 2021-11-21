@@ -1,8 +1,8 @@
 ---
 title: Projekt_Vision
-tags: agil klassisch
+tags: klassisch
 author: Vallejk
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Projekt_Vision um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -37,53 +37,79 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Einleitung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die Projekt-Vision ist immer ein strategisches Ziel, mit dem in die strategische Ausrichtung eines Unternehmens oder eines 
+Tätigkeitsfeldes eingegriffen werden kann. Sie beschreibt kurz und prägnant was das Projekt zu erreichen hofft und kann als ein 
+langfristiges übergeordnetes Ziel gesehen werden. Die Projekt-Vision beschreibt einen gewünschten Endzustand, im Falle, dass alles 
+optimal läuft und die Voraussetzungen stimmen.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Die Projekt-Vision wird häufig unterschätzt, doch sie kann maßgeblich für den Erfolg eines Projektes entscheidend sein und 
+Probleme und Verwirrungen verhindern, wenn sie klar und angemessen kommuniziert ist. 
+Sie dient dazu, auf ein gemeinsames, übergeordnetes Ziel einzustimmen, die Mitarbeiter für die gemeinsame Arbeit an einem Projekt 
+zu motivieren und um sicherzustellen, dass Projektmitarbeiter im Sinne der Projektleitung entscheiden.
+Zudem kann die Projekt-Vision auch als Marketing für das Projekt angesehen werden, um potenzielle Investoren davon zu überzeugen 
+personelle und/oder finanzielle Mittel zu bewilligen. 
+
 
 ![Beispielabbildung](Projekt_Vision/test-file.jpg)
 
 *lustiges Testbild*
 
-# BLIBLABLUB
+# Phasen der Projekt-Vision
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## Vorbereitung einer Projekt-Vision
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Im allerersten Schritt muss zunächst ein konkretes Problem thematisiert werden, für das ein 
+Lösungsvorschlag gefunden werden muss. Oftmals scheitert das Vorhaben schon daran. 
+Zunächst benötigt die Projekt-Vision Argumente. Dabei ist es nötig, unrealistische Lösungsansätze zu 
+eliminieren, sodass nur noch zielführende Lösungsansätze übrigbleiben. 
 
-So kann man eine Tabelle erstellen:
+Man beginnt nun die deduktive projektbezogene Recherche an, bei der nicht nur klassische Medien, wie 
+das Internet benutzt werden, sondern auch Stakeholder-Interviews, auch Fokus-Gruppen-Interviews 
+genannt.
+Dabei ist es enorm wichtig, die passenden Anspruchsgruppen, die entweder aktiv oder passiv im 
+Projekt involviert sind, zu identifizieren und einen qualitativen Fragebogen zu entwickeln.
+Dabei ist es ratsam mit einer offenen Fragestellung zu beginnen und sich explorativ durch die 
+Thematik durchzuarbeiten, bis man glaubt das Problem hinreichend verstanden zu haben.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## Projekt-Vision
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Die Projekt-Vision sollte so visionär wie möglich und so konkret wie nötig sein. Sie ist eine erste 
+Bewertung der bereits gesammelten Informationen, eine Weiterführung der möglichen Lösungsansätzen 
+und zeitgleich eine Beschränkung auf die erfolgversprechendsten Lösungen. 
+Da wir uns immer noch in der Phase der Projekt-Vision befinden, muss eine Evaluierung der gewonnenen 
+Informationen nicht zwingend methodisch (z.B. Einsatz einer Entscheidungsmatrix) sein. 
+Zudem führt die Projekt-Vision Lösungsansätze weiter aus, wenn sich beispielsweise aus Fokus-
+Gruppen-Interviews adäquate Lösungsvorschläge ergeben, die durch Recherche weiterentwickelt und 
+konkretisiert werden. 
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## Eingrenzung der erlfogsversprechendsten Lösungen
 
-# Aspekt n
+Es ist hilfreich mit Hypothesen, welche aus den Stakeholder-Interviews abgeleitet werden zu arbeiten 
+und diese zu priorisieren. 
+Diese Hypothese wird dann als endgültige Projekt-Vision verwendet.
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+
+## Vorstellung der Projekt-Vision
+
+Nun gilt es im letzten Schritt die Resultate zu vermarkten. Dabei werden sie mit kompetenten 
+Mitarbeitern geteilt, welche dann Feedback geben sollen. Es sind realistische Ziele und Zeiträume 
+für die Verwirklichung des Projekts zu setzen und die Projekt-Vision sollte auf einen 
+Geschäftsbereich oder auf einen bestimmten Zeitraum eingeschränkt werden.
+Bei der Präsentation vor der Geschäftsführung oder anderen relevanten Entscheidern, gelten die 
+Grundsätze für eine gute Präsentation. Zudem ist es wichtig, ein Handout herauszugeben mit allen 
+relevanten Informationen für die Entscheidungsträger.
+
+# Zusammenfassung
+
+Zusammenfassend kann man sagen, dass der Großteil der Projekt-Vision Vorbereitung ist.
+Zunächst wird ein Problem ermittelt. Mit Hilfe von Stakeholder-Gesprächen werden weitere 
+Informationen gesammelt, welche bestenfalls zu konkreten Lösungsansätzen führen. Zuletzt wird die 
+Projekt-Vision präsentiert.
+
 
 
 # Siehe auch
