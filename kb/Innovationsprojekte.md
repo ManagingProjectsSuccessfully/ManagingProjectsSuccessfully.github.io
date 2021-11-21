@@ -27,6 +27,16 @@ Dadurch entsteht auch immer ein bestimmtes Maß an Unsicherheit, welche die zwei
 Das dritte Charakteristikum von Innovationsprojekten ist die Komplexität, die eng mit der Unsicherheit und der Neuheit verknüpft ist. Aufgrund der unsicheren Abläufe wegen des hohen Grades an Neuheit kommt es zu einem höheren und somit weitaus komplexeren Organisationsumfang.[^3]
 Die letzte Eigenschaft bildet das Konfliktpotential, welches auf verschiedenen Ebenen auftreten kann. Es kann sowohl zu Konflikten innerhalb des Projektteams als auch zu Zielkonflikten bezüglich vorher festgelegter Zielvorgaben kommen.[^3]
 
+# 3.	Arten von Innovationsprojekten
+
+Je nach Neuheitsgrad des Marktes und der Technologie lassen sich vier verschiedene Formen von Innovationsprojekten unterscheiden:[^5]
+
+|         |<img width=150/><br>Bestehende Technologie|<img width=200/><br>Neue Technologie|
+| -------------: | :-------------: | :-------------: |
+|**Bestehender Markt**|Inkrementelles<br>Innovationsprojekt|Disruptives<br>Innovationsprojekt|
+|**Neuer Markt**|Architektonisches<br>Innovationsprojekt|Radikales<br>Innovationsprojekt|
+
+
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
