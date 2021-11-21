@@ -41,25 +41,33 @@ Der Auftraggeber beauftragt das Projekt und stellt formal die Ressourcen bereit.
 Sofern es neben den Auftraggeber eine spezielle Kundenrolle gibt, ist dieser der Abnehmer aller Ergebnisse aus dem Projekt.
 
 ## Projektlenkungsausschuss/Multiprojektlenkungsausschuss:
+Der Projektlenkungsausschuss besteht aus mehreren Mitgliedern, die innerhalb des Projekts als Berater, Entscheidungsträger auftreten. Außerdem übernehmen sie oftmals eine Genehmigungsfunktion. Da dieses Gremium eine außenstehende und neutrale Funktion einnehmen soll, sollte der Projektleiter möglichst kein Mitglied des Ausschusses sein. 
 
 ## Projektleiter:
 Er ist verantwortlich für das Ergebnis des Projekts und ist fachlich und teilweise auch disziplinarisch der Projektorganisation vorgestellt.
 Bei größeren Projekten ist es oft sinnvoll die Leitung des Projekts auf mehrere Personen aufzuteilen, die jeweils einen Teilaspekt des Projekts übernehmen und dafür verantwortlich sind. Diese werden als Teilprojektleiter bzw. Modulleiter bezeichnet.
 
 ## Projektcontroller:
+Für die Überwachung und Steuerung des Projektfortrschritts ist der Projektcontroller verantwortlich. Zum Teil gehört es auch zu seinen Aufgaben die Kosten des Projektes zu überwachen. Diese Rolle wird häufig vom Projektleiter mit ausgeführt. 
+
+## Projektkaufmann
+Der Projektkaufmann trägt die Verantwortung über die Finanzen des Projekts. Er ist sowohl für die Beschaffung der finanziellen Mittel aus als für die Überwachung der Kostenentwicklung zuständig. Auch diese Rolle kann durch den Projektleiter ausgeübt werden. 
 
 ## Projektteam:
-Die Projektmitarbeiter sind für die Erstellung eines Ergebnisses verantwortlich. Diese können sowohl in Teilzeit als auch in Vollzeit im Unternehmen angestellt.
+Die Projektmitarbeiter sind für die Erstellung eines Ergebnisses verantwortlich. Diese können sowohl in Teilzeit als auch in Vollzeit im Unternehmen angestellt und bearbeiten die einzelnen Aufgaben.
 
 ## Projekt Management Office:
-Das Projekt Management Office (PMO) unterstützt den Projektleiter bei seiner Arbeit. Allerging sind die Aufgaben und Kompetenzen des PMO sehr heterogen verteilt.
+Das Projekt Management Office (PMO) unterstützt den Projektleiter bei seiner Arbeit. Allerdings sind die Aufgaben und Kompetenzen des PMO sehr heterogen verteilt. Sie können zudem die Rollen des Projektkaufmanns oder des Projektcontrollers übernehmen.
+
+## Qualitätsmanager
+Bei größeren Projekten ist es möglicih einen Qualitätsmanager innerhalb des Teams zu benennen. DIeser nimmt eine neutrale Position innerhalb des Projektes ein und überwacht die Erreichung der zuvor definierten Qualitätsziele. Bei kleineren Projekten kann auch diese Rolle durch den Projektleiter übernommen werden.
 
 ## Experten:
-Innerhalb und außerhalb der Projektorganisation kann es Experten geben, die selektiv in das Projekt miteingebunden werden und das Projekt mit ihrem Fachwissen unterscheiden können.
+Innerhalb und außerhalb der Projektorganisation kann es zudem Experten geben, die selektiv in das Projekt miteingebunden werden und das Projekt mit ihrem Fachwissen unterstützen können.
 
 
-
-# Zusammenarbeit zwischen den einzelnen Rollen
+# Festlegung der Projektrollen
+Die Frage wer innerhalb eines Projektes welche Projektrolle einnimmt wird meist in der Projektorganisation in der Planungsphase eines Projekts festgelegt. Dabei wird neben der Verteilung der Rollen auch geklärt, welche Aufgaben, Kompetenzen und Verantwortungen die einzelnen Rollen erhalten, wie die Zusammenarbeit zwischen den Rollen organisiert wird und wie das Einzelprojekt in die Stammorganisation eigebunden wird.
 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
