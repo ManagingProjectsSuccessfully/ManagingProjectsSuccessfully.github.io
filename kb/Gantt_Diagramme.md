@@ -73,7 +73,7 @@ _Erstellt durch den Autor_
 # Siehe auch
 
 * [Projektphasen_klassisch](https://github.com/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektphasen_klassisch.md)
-* [Projektmanagementhandbuch](https://github.com/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagementhandbuch.md)
+* [Projektmanagementhandbuch](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagementhandbuch.md)
 
 # Weiterführende Literatur
 
