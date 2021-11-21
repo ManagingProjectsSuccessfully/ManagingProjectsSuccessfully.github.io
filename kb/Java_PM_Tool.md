@@ -62,46 +62,9 @@ Außerdem ist ein kommerzieller Kollaborationsdienst, GanttProject Cloud, in Gan
 
 # JAVA PM Tools: Weitere Anwendungen
 
-
-# Siehe auch
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-1. das
-2. hier
-4. ist
-4. eine
-7. nummerierte liste
-    1. und hier eine Ebene tiefer
+Das **Plandora-Projekt** wurde als Werkzeug zur Unterstützung des **Softwareentwicklungsprozesses** von der Kundenanforderung bis zum Abschluss der Aufgabe und somit zur Erfassung der "Geschichte" eines Projekts entwickelt. Das Plandora-System kann für Teams nützlich sein, die Probleme mit Ressourcenengpässen, parallelen Projekten, kritischen Terminen, der Notwendigkeit der Dokumentation des Umfangs von Aufgaben und Anforderungen usw. haben.
 
 
-* das
-* hier
-* ist
-* eine
-* Punkteliste
-    - mit unterpunkt
-    
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas
-* Historische Entwicklung
-* Kritik
   ![Beispielabbildung](Java_PM_Tool/test-file.jpg)
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Java_PM_Tool.md)
