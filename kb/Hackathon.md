@@ -33,6 +33,11 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 
 *Abbildung 2: Charackteristische Elemente eines Hackathons mit mehreren Teams*
 
+
+# Ablauf
+
+
+
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
@@ -106,10 +111,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 7. nummerierte liste
    1. und hier eine Ebene tiefer
 
-
-![Beispielabbildung](Hackathon/Elemente-Hackathon.png)
-
-*Abbildung 2: Charackteristische Elemente eines Hackathons mit mehreren Teams*
 
 # Siehe auch
 
