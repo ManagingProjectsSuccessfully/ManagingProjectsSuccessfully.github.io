@@ -2,10 +2,12 @@
 title: Global_Project_Management_Survey
 tags: agil klassisch
 author: danielleilei
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Global_Project_Management_Survey um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+
+Die Global Project Management Survey dienen dazu, von Firmen bereits durchgeführte Projekte im Nachgang zu untersuchen, um realistische Aussagen über den Ablauf, die Art, den Erfolg/Misserfolg und alle weiteren wichtigen Faktoren innerhalb der weltweit in Unternehmen durchgeführten Projektmanagements zu erhalten und darauf aufbauend für die Zukunft neue Trends zu identifizieren beziehungsweise neuen Entwicklungsbedarf zu sichten/abzuleiten.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
@@ -37,7 +39,12 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Historische und aktueller Stand zu den Global Project Management Surveys
+Von der Deutschen Gesellschaft für Projektmanagement e.V. (GPM) wurde erst und auch einmalig eine solche Studie im Jahr 2010 durchgeführt[^1].
+Da es sich hier um einen veraltetet und nicht jährlich aktualisierten Report handelt, wird dieser im weiterem nicht betrachtet und analysiert. Jedoch lässt sich der Report in
+Hinblick auf die Entwicklung des Projektmanagements innerhalb der letzten 10 Jahre als Vergleich zu aktuellen Reports heranziehen.
+
+Aktuelle Entwicklungen werden vom Project Management Institute (PMI) in einem jährlich veröffentlichten Report, beginnend im Jahr 2006, erfasst[^2].
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -49,14 +56,24 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Eckdaten der Pulse of the Profession Reports von PMI:
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+*	Erstmals 2006 durchgeführt
+*	Erste weltweite Untersuchung von Projektmanagement innerhalb von Unternehmen
+*	Hauptreport erscheint einmal jährlich, kleinere (auch zwischen-)Reports auch mehrmals innerhalb eines Jahres 
+*	Zeigt aktuelle und zukünftige Entwicklungen im Bereich des Projektmanagements unter Einbezug von Marktforschungen die Einblicke in das Arbeitsleben von Projekt-, Programm und 
+  Portfoliomanagers gewähren
+*	Im Report wird eine große Anzahl an unterschiedlichen Branchen und Regionen abgefragt
+*	Der Report ist auf der Internetseite des PMI kostenlos zur Verfügung gestellt
+*	Die Befragung wird jährlich, je nach Interessenslage, variiert. So wurde 2020/2021 beispielsweise Corona besondere Beachtung geschenkt.
+*	Der Report stellt Versionen für verschiedene Regionen zur Verfügung, um Unterschiede herausstellen zu können und einen tieferen Einblick je nach Region zu gewähren. Der 
+  Hauptreport und die Regionalen Reports sind in mehreren Sprachen verfügbar. 
+![Sprachvarianten der Surveys](Global_Project_Management_Survey/Bild1_Sprachauswahl.jpg).
+*	Seit 2021 lassen sich die Daten der Reports nach eigens gewählten Kriterien filtern, um noch schneller und übersichtlicher die Benchmark mit dem eigenen Unternehmen Regional 
+und weltweit vergleichen zu können:
+![Datenbank zur Informationsfilterung](Global_Project_Management_Survey/Bild2_Datenbank.jpg).
+Die Daten lassen sich unter folgendem Link beliebig Filtern:
+[Datenbank Survey 2021](https://public.tableau.com/app/profile/pmi2161/viz/PulseoftheProfession/PulseoftheProfession)
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -76,7 +93,7 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+# Kernaussagen und Erkenntnisse aus dem Report 2021
 
 1. das
 2. hier 
@@ -84,6 +101,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 4. eine
 7. nummerierte liste
    1. und hier eine Ebene tiefer
+
+# Kernaussagen und Erkenntnisse aus dem Report 2020
+
+
+# Kernaussagen und Erkenntnisse aus dem Report 2019
+
 
 
 # Siehe auch
@@ -97,8 +120,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: [Deutsche Gesellschaft für Projektmanagement e.V.](https://www.gpm-ipma.de/know_how/studienergebnisse/global_project_management_survey.html)
+[^2]: [Project Management Institute (2021). Beyond Agility: Flex to the Future. Pulse of the Profession](https://www.pmi.org/learning/thought-leadership/pulse)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
