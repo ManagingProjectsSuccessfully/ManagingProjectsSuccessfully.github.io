@@ -6,6 +6,7 @@ anrechnung: k
 ---
 Projektmanagement lässt sich allgemein als Sammelbegriff für sämtliche Handlungen verstehen, die steuernd, planend, koordinierend und überwachend die Neu- oder Umgestaltung von Prozessen oder Systemen zum Ziel haben.[^1] Dabei kann man, unterscheidend nach Ziel und Methodik, verschiedene Arten des Projektmanagements differenzieren. Die grobe Trennung erfolgt zwischen einer klassischen und einer agilen Herangehensweise, die sich bereits durch ihre Grundauffassung, wie sich ein Problem oder Prozess lösen lässt, unterscheiden. Darüber hinaus existiert eine Mischform aus beiden Ansätzen. Welche Art gewählt wird, hängt eng mit der zu bewältigenden Projektart zusammen und wird von dieser bestimmt. Weiterhin befinden sich beide grundlegenden Herangehensweisen im Spannungsfeld des Magischen Dreiecks des Projektmanagements.
 ![Magisches Dreieck](Projektmanagement/projektmanagement.png)
+[InLoox Abbildung](https://inlooxcdn.azureedge.net/var/corporate_site/storage/images/media/images/seo-page-project-management/grafik-project-triangle-neu-2020/1635537-2-ger-DE/grafik-project-triangle-neu-2020.png)
 
 # Klassisches Projektmanagement
 Das klassische Projektmanagement zeichnet sich grundsätzlich durch ein bestehendes festes Endziel des Projekts aus. Diesem Ziel werden die Ressourcen vorab bereitgestellt und nach einem festen Modell erfolgt der Projektablauf. Weiterhin wird davon ausgegangen, dass das Projektumfeld relativ stabil ist und sich demzufolge das Projekt von Start bis Abschluss durchplanen lässt. Dahingehend erfolgt die Wahl des Ablaufmodells projektbezogen. Die bekanntesten Modelle sind das Wasserfallmodell und das Spiralmodell.[^2]
@@ -55,7 +56,6 @@ Konkrete Methoden stellen hierbei Scrum, Extreme Programming und Crystal Methods
 * [Crystal Methods](Crystal_Methods.md)
 * [SCRUM](SCRUM.md)
 * [Projektmanagement 4.0](Projektmanagement_4_0.md)
-* [Link auf diese Seite](Projektmanagement.md)
 
 # Weiterführende Literatur
 
