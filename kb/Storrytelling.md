@@ -29,14 +29,16 @@ Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführun
 
 ## Praktische Anwendung
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
+* Keine puren Zahlen/Fakten
+* kreativ
+* mittelmaß
+* Projektbezogen
+* Beispielsweise
   
   
 ## Der Aufbau einer passenden Geschichte
+
+
 
 
 ![Storykurve](Storrytelling/Storytelling.png)
@@ -44,6 +46,8 @@ Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführun
 *Storytelling durch Erzählen zum Projekterfolg[^3]*
 
 ### Einführung / Kick-Off
+
+Geschichte der Realität, Produkt des Prohjekt stellt Lösung dar
 
 ### Hauptteil / Projektprozess 
 
