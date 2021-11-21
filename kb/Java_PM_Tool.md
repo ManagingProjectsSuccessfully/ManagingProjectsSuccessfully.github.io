@@ -5,7 +5,7 @@ author: AbderrahmaneBennani
 anrechnung: a
 ---
 
-Im Folgenden wird beschrieben, wie man Java tools um Projekte agile zu managen.
+Im Folgenden wird beschrieben, wie man Java tools benutzt, um Projekte agile zu managen.
 # Java Projektmanagement Tools
 
 **Java** ist eine objektorientierte Programmiersprache und eine eingetragene Marke des Unternehmens
