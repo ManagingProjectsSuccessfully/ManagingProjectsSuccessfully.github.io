@@ -4,7 +4,6 @@ tags: agil
 author: FCN478
 anrechnung: a
 ---
-
 SCRUM ist ein Framework aus dem Bereich des agilen Projektmanagements und spezifiziert die handelnden Personen in verschiedene Kategorien. Grundsätzlich existieren drei verschiedene Rollen. Zum einen gibt es den Product Owner, dazu den Scrum Master und zuletzt das Development Team. Die jeweiligen Rollen besitzen je eigene Anforderungen, die sie in das Projekt miteinbringen müssen. Das Zusammenspiel aller handelnden Personen hat dabei oberste Priorität.[^1]
 
 ## Product Owner
@@ -22,12 +21,8 @@ Für die gesamte Organisation ist der SCRUM Master als empirischer Produktentwic
 Das Development Team besteht aus den jeweiligen Spezialisten, die direkt am verwertbaren Endprodukt eines Projekts arbeiten. Die Zusammensetzung ist dabei projektbezogen, interdisziplinär und individuell. Eine Rollenunterscheidung oder beispielsweise eine Hierarchie innerhalb des Teams existieren im Rahmen von SCRUM nicht und grundsätzlich ist das Team dazu befähigt, selbstorganisiert zu arbeiten und zu planen. Dennoch ist das Team für den Output des Projekts verantwortlich und als Ganzes rechenschaftspflichtig. 
 Die optimale Teamgröße richtet sich nach dem jeweiligen Projekt. Sehr kleine Teams setzen sich der Gefahr aus, nicht genügend Kapazität für die Entwicklung zu haben. Jedoch vereinfacht sich die Kommunikation. Zu große Teams führen zu einer höheren Komplexität und innerhalb der Gruppe und zu etwaigen unklaren Abläufen. Dahingehend befindet sich die Teamgröße in einem Spannungsfeld und muss möglichst passend bestimmt werden. In den meisten Fällen besteht das Team aus drei bis neun Mitgliedern.[^1][^2]
 
-
-![Beispielabbildung](Rollen_Scrum/test-file.jpg)
-
-*lustiges Testbild*
-
-
+![Scrum Rollen](Rollen_Scrum/scrum_rollen.png)
+[EnergyBrainPool](https://blog.energybrainpool.com/wp-content/uploads/2020/07/Bild2.png)
 # Siehe auch
 
 * [SCRUM](SCRUM.md)
