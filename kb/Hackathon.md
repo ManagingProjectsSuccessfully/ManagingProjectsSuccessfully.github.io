@@ -36,8 +36,9 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 
 # Entstehung und Geschichte - Wrap-Up
 
-
-
+Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Dabei handelte es sich zum einen um die Ausbesserung des Betriebssystems OpenBSD und zum anderen um die Weiterentwicklung von Software für den damals beliebten Taschenkommunikator „Palm Pilot“, der Firma Sun Microsystems.[^]
+ 
+Seitdem haben sich die Hackathon in ihrer Art und Weise, ihrem Ausmaß und ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen sehr stark weiterentwickelt.[^]
 
 # Ablauf
 
@@ -60,6 +61,7 @@ __4. Pitchen__
 
 Am Ende werden vor einer Jury, die zumeist aus den Veranstaltern, Vertreter von Unternehmern und Experten besteht, die Ergebnisse vorgestellt – was in der Startup-Branche als pitchen bezeichnet wird. Neben einem Hauptgewinner werden oft auch die besten Lösungen in bestimmten Kategorien gekürt, natürlich mit einem entsprechenden Preis.[^]
 
+# Chancen für die Teilnehmer und Unternehmen
 
 
 # Ausgewählte Beispiele
