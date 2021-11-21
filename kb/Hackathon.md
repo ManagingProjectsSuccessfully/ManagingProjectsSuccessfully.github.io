@@ -36,6 +36,20 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 
 # Ablauf
 
+Der Ablauf eines Hackathons variiert je nach Thema, Dauer oder Teilnehmergröße. Dennoch weisen sie alle eine gemeinsame Grundstruktur auf.
+
+__1. Vorstellung und Vorträge__
+
+
+__2. Teambuilding__
+
+
+__3. Let's Hack__
+
+
+__4. Pitchen__
+
+
 
 
 # Aspekt 1
