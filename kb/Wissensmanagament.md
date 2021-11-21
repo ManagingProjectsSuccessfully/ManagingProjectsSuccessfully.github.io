@@ -2,42 +2,41 @@
 title: Wissensmanagament
 tags: agil klassisch
 author: Lukas1401
-anrechnung: k oder a
+anrechnung: k
 ---
+Wissensmanagement ist „die systematische Gestaltung von Rahmenbedingungen und Prozessen um Wissen als Fähigkeit zum effektiven Handeln in der richtigen Qualität, d.h. Tiefe, Verteilung, Vernetzung und Kodifizierung, für eine Organisation oder eine Einzelperson und deren Ziele bereit zu stellen“[^1]. 
 
-Kurzbeschreibung zu Wissensmanagament um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Aufgaben des Wissensmanagements 
+Die Aufgabe des Wissensmanagements liegt darin, einen reibungslosen Informationsfluss zwischen Projektbeteiligten, Technologie und Projektorganisation zu schaffen und gleichzeitig einen langfristigen Zugang zu diesen gewonnenen Informationen zu ermöglichen[^2]. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Dabei werden folgende Funktionen erfüllt: 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+* Kompetenz der Mitarbeiter transparent machen
+*	Projektergebnisse dokumentieren
+*	Wissensaustausch unterstützen
+*	Raum für informellen Austausch schaffen
+*	Wissen erwerben
+*	Wissen entwickeln
+*	Wissen speichern
+*	Wissen nutzen
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Dabei spielt vor allem der Transfer von Wissen eine entscheidende Rolle. Das Ziel hierbei ist, implizites Wissen in explizites Wissen um zu wandeln und so eine Art kollektives Wissen zu schaffen[^3].  (siehe [Wissenstransfer](Wissenstransfer.md))
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Unterscheidung implizites und explizites Wissen
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Implizites Wissen
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Implizites Wissen wird oftmals auch als stilles Wissen bezeichnet, denn es steht in direktem Bezug zu dem individuellen Können einer Person, ohne dass dieser ihr Wissen bewusst ist. Dieses Wissen basiert auf Erinnerungen, Überzeugungen und Erfahrungen und ist daher schwer in sprachlicher Form auf andere Personen übertragbar. Dies wird erst möglich, wenn implizites Wissen in explizites Wissen transformiert wird[^4].
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Explizites Wissen
 
+Explizites Wissen bezeichnet ein formulierbares Wissen und ist deshalb leicht reproduzierbar. Es kann ohne Probleme beschrieben und nachvollzogen werden, da es sich durch eine systematische, formale Sprache, wie beispielsweise durch Wörter und Zahlen vermitteln lässt. In diesem Zusammenhang wird es oft auch als methodisches oder spezifisches Wissen bezeichnet[^5]. 
 
-# Aspekt 1
+# Modelle des Wissensmanagements
+
+## Bausteinmodell nach Probst/Raub/Romhardt:
+
+Das Bausteinmodell stellt ein weit verbreitetes Modell des Wissensmanagements dar. Dieses Modell bildet einen traditionellen Managementprozess ab und besteht aus 8 Bausteinen, welche sich in einen äußeren Kreislauf (strategische Steuerungsaufgaben) und einen inneren Kreislauf (Umsetzung) aufteilen lassen[^6]. 
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -97,8 +96,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Projektassistenz Blog](https://www.projektassistenz-blog.de/ich-weiss-dass-ich-nichts-weiss-wissensmanagement-und-projektmanagement-2020/)
+[^2]: [Projektmanagement Glossar/ Wissensmanagement](https://www.inloox.de/projektmanagement-glossar/wissensmanagement/)
+[^3]: [Wissensmanagement-Definition](https://www.capterra.com.de/blog/1957/wissensmanagement-definition-und-wissensmanagement-methodenx)
+[^4]: [Implizites Wissen Definition und Beispiele](https://www.wcg.de/glossar/implizites-wissen/)
+[^5]: [Explizites Wissen Definition](https://www.wcg.de/glossar/explizites-wissen/)
+[^6]: [Wissensmanagement, Bausteinmodell](https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Wissensmanagement/Wissensmanagement--Modelle-des/Wissensmanagement--Bausteinmodell-des-)
 
