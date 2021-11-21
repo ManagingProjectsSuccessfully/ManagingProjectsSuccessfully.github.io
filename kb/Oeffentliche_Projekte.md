@@ -14,7 +14,6 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 
 
-# Quellen
 
 [^1]: https://www.netinbag.com/de/business/what-is-a-public-project.html
 [^2]: https://dl.gi.de/handle/20.500.12116/16777
@@ -70,4 +69,6 @@ Zu den größten Herausforderungen für das Management von Projekten in öffentl
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
-# Siehe auch
+
+
+# Quellen
