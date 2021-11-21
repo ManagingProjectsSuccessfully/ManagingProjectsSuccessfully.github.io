@@ -53,7 +53,7 @@ Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf gen
 Dies wird auch in der folgenden Abbildung leicht sichtbar: 
 
 ![image]
-(/kb/Pareto_Prinzip/Bildschirmfoto 2021-11-19 um 19.05.53.png) [^6]
+(https://github.com/nahihiry/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pareto_Prinzip/Bildschirmfoto%202021-11-19%20um%2019.05.53.png)[^6]
 
 
 Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des Pareto Prinzips. Oftmals sind die letzten 20% des Ergebnisses, die die Erledigung der Aufgabe perfektionieren würden, nicht zwingend notwendig, sodass die Zeit, die dadurch gespart wird, wiederum für andere Bereiche genutzt werden kann.[^7]
