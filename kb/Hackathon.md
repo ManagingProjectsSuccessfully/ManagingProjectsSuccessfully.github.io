@@ -34,9 +34,14 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 *Abbildung 2: Charackteristische Elemente eines Hackathons mit mehreren Teams*[^]
 
 
+# Entstehung und Geschichte - Wrap-Up
+
+
+
+
 # Ablauf
 
-Der Ablauf eines Hackathons variiert je nach Thema, Dauer oder Teilnehmergröße. Zudem können sich Unterschiede ergeben, wenn dieser von einem Unternehmen intern oder von Veranstaltern extern bzw. öffentlich durchgeführt werden. Dennoch weisen sie alle eine gemeinsame Grundstruktur auf.
+Der Ablauf eines Hackathons variiert je nach Thema, Dauer oder Teilnehmergröße. Dennoch weisen sie alle eine gemeinsame Grundstruktur auf.
 
 __1. Vorstellung und Vorträge__
 
