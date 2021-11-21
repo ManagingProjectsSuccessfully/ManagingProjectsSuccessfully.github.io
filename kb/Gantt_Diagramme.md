@@ -63,11 +63,11 @@ _Erstellt durch den Autor mittels Microsoft PowerBI_
 3. undynamisch: Um ein Gantt-Diagramm erfolgreich einsetzen zu können , müssen zum Projektstart alle nötigen Aktivitäten geplant sein. Infolgedessen sind Gantt-Diagramme aufgrund ihrer Starrheit nicht für agiles Projektmanagement geeignet[^5].
 
 ## 2.3 Alternativen zur Gantt-Chart
-
+Mögliche Alternativen zur Gantt-Chart sind
+* Aufgabenlisten: Sie enthalten die zu einem Projekt gehörigen Aufgaben in Form einer Liste und zusätzliche Informationen, wie Start und Ende einer Aufgabe, Verantwortliche und Abhängigkeiten zwischen den Aufgaben[^7], [^8].
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Projektphasen_klassisch](https://github.com/xyily/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektphasen_klassisch.md)
 
 # Weiterführende Literatur
@@ -82,3 +82,5 @@ _Erstellt durch den Autor mittels Microsoft PowerBI_
 [^4]: https://de.wikipedia.org/wiki/Gantt-Diagramm#Software
 [^5]: https://www.teamleader.de/blog/gantt-diagramm
 [^6]: https://asana.com/de/resources/gantt-chart-basics
+[^7]: https://www.projectmanager.com/blog/5-alternatives-to-gantt-charts
+[^8]: https://www.projectengineer.net/how-to-create-a-project-task-list/
