@@ -65,7 +65,7 @@ Das **Plandora-Projekt** wurde als Werkzeug zur Unterstützung des **Softwareent
 ### Zeitverfolgung
 Mit **Baralga** können Sie den Überblick über die Zeit behalten, die Sie für verschiedene Projekte aufwenden. Sie können die Projekte, an denen Sie arbeiten, aufzeichnen, oder Sie können Projektaktivitäten manuell eingeben und bearbeiten. So können Sie sich leicht merken, wann und wie lange Sie an jedem Projekt gearbeitet haben.[^7]
 
-  ![Beispielabbildung](Java_PM_Tool/test-file.jpg)
+
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Java_PM_Tool.md)
 
