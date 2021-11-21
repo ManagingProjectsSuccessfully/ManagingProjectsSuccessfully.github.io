@@ -76,4 +76,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: [Storytelling im Projektmanagement](https://zistemo.de/blog/storytelling-im-projektmanagement/)
 [^2]: [Storytelling: Definition, Aufbau, 10 Tipps + 3 Beispiele](https://karrierebibel.de/storytelling/)
 [^3]: [Storytelling – durch Erzählen zum Projekterfolg](https://docplayer.org/31538949-Storytelling-durch-erzaehlen-zum-projekterfolg.html)
-[^3]: [Storytelling (Methode)](https://de.wikipedia.org/wiki/Storytelling_(Methode))
+[^4]: [Storytelling (Methode)](https://de.wikipedia.org/wiki/Storytelling_(Methode))
