@@ -22,6 +22,7 @@ Beim Leasing wird zwischen dem Operating-Leasing und das Financial-Leasing unter
 Jedoch hat der Leasingnehmer trotz Risikos Vorteile wie z.B. der Zugang zur neusten Technologie nach Ablauf der Leasingzeit, da danach ein neues Model ausgesucht werden darf, falls das Leasingobjekt nicht erworben wird. (3)
 
 ![Beispielabbildung](Risikotransfer/Schema_Leasing.jpg)
+*Leasingdreieck[^3]
 
 
 
