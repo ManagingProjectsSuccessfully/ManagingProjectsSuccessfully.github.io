@@ -22,10 +22,11 @@ Umgesetzt werden solche Innovationen in einem Unternehmen häufig im Rahmen eine
 
 # 2.	Eigenschaften von Innovationsprojekten
 
-Innovationsprojekte erfüllen für gewöhnlich vier grundlegende Eigenschaften. Die erste und wichtigste Eigenschaft ist dabei der Neuheitsgrad. Das Ergebnis des Projekts bringt einen neuen und bisher unbekannten Nutzen mit sich.[^3]
-Dadurch entsteht auch immer ein bestimmtes Maß an Unsicherheit, welche die zweite Eigenschaft verkörpert. Bei Projekten, die stärker von Routineaufgaben des Unternehmens abweichen, entsteht unweigerlich eine finanzielle sowie operative Unsicherheit.[^3]
-Das dritte Charakteristikum von Innovationsprojekten ist die Komplexität, die eng mit der Unsicherheit und der Neuheit verknüpft ist. Aufgrund der unsicheren Abläufe wegen des hohen Grades an Neuheit kommt es zu einem höheren und somit weitaus komplexeren Organisationsumfang.[^3]
-Die letzte Eigenschaft bildet das Konfliktpotential, welches auf verschiedenen Ebenen auftreten kann. Es kann sowohl zu Konflikten innerhalb des Projektteams (siehe [Konfliktmanagement](Konfliktmanagement.md)) als auch zu Zielkonflikten bezüglich vorher festgelegter Zielvorgaben kommen.[^3]
+Innovationsprojekte erfüllen für gewöhnlich vier grundlegende Eigenschaften:
+1. Die erste und wichtigste Eigenschaft ist dabei der Neuheitsgrad. Das Ergebnis des Projekts bringt einen neuen und bisher unbekannten Nutzen mit sich.[^3]
+2. Dadurch entsteht auch immer ein bestimmtes Maß an Unsicherheit, welche die zweite Eigenschaft verkörpert. Bei Projekten, die stärker von Routineaufgaben des Unternehmens abweichen, entsteht unweigerlich eine finanzielle sowie operative Unsicherheit.[^3]
+3. Das dritte Charakteristikum von Innovationsprojekten ist die Komplexität, die eng mit der Unsicherheit und der Neuheit verknüpft ist. Aufgrund der unsicheren Abläufe wegen des hohen Grades an Neuheit kommt es zu einem höheren und somit weitaus komplexeren Organisationsumfang.[^3]
+4. Die letzte Eigenschaft bildet das Konfliktpotential, welches auf verschiedenen Ebenen auftreten kann. Es kann sowohl zu Konflikten innerhalb des Projektteams (siehe [Konfliktmanagement](Konfliktmanagement.md)) als auch zu Zielkonflikten bezüglich vorher festgelegter Zielvorgaben kommen.[^3]
 
 # 3.	Arten von Innovationsprojekten
 
@@ -48,7 +49,7 @@ Diese Invention wird dann in der zweiten Phase, die durch die erfolgreiche Markt
 
 # 6.	Management
 
-Bei Innovationsprojekten mit kurzer Dauer kann im Management das sogenannte Stage-Gate-Tracking angewendet werden. Dabei werden vorweg mehrere [Meilensteine](Meilensteine.md) festgelegt, anhand derer sich später Planabweichungen nachweisen lassen.[^3]
+Bei Innovationsprojekten mit kurzer Dauer kann im Management das sogenannte [Stage-Gate-Tracking](https://de.wikipedia.org/wiki/Stage-Gate-Modell#:~:text=Das%20Stage%2DGate%2DModell%20wurde,lediglich%20eine%20suboptimale%20Ber%C3%BCcksichtigung%20fanden.) angewendet werden. Dabei werden vorweg mehrere [Meilensteine](Meilensteine.md) festgelegt, anhand derer sich später Planabweichungen nachweisen lassen.[^3]
 Bei mehrjährigen Projekten hilft es, eine [Meilensteintrendanalyse](Meilensteintrendanalyse.md) zu nutzen. Damit können vorher bereits mögliche spätere Abweichungen abgeschätzt werden und Verzögerungen in gewissem Maße prognostiziert werden.[^3]
 
 # 7.	Erfolgsfaktoren eines Innovationsprojekts
