@@ -15,7 +15,7 @@ Eine dieser Maßnahmen ist die „Nutzwertanalyse“.[^2]
 
 # Vorgehen
 
-Prinzipiell ist die Nutzwertanalyse eine Methode zur Auswahl von Optionen. Die Methode folgt einer 6-Schritte-Anleitung:[^3]
+Bei der Nutzwertanalyse werden mehrere Projekte oder Projektalternativen gegenübergestellt und ihr jeweiliger “Nutzwert” ermittelt. Die Kriterien, die zur Bewertung des Nutzens herangezogen werden, werden ermittelt und verschwieden gewichtet.[^5] Die Methode folgt einer 6-Schritte-Anleitung:[^3]
 
 ## 6-Schritte der NWA
 
@@ -41,15 +41,14 @@ Durch Summierung der Einzelgewichtungen ergibt sich die gewichtete Punktzahl pro
 ## Beispiel
 
 Veranschaulichen kann man die Vorgehensweise an einem einfachen Beispiel:[^5]
-https://www.peterjohann-consulting.de/_images/peco-nutzwertanalyse-beispiel-neue-website-xl.png
+![Screenshot (25)](https://user-images.githubusercontent.com/92951062/142764229-4c3c7ba9-ccf4-4be2-b544-2ace6f4c68c9.png)
 
 # Vor- und Nachteile der Nutzwertanalyse[^1][^3]
 
 Die NWA hat sowohl Vorteile als auch Nachteile. 
 
-| Vorteile  | Nachteile |
-| ------------- | ------------- |![Screenshot (25)](https://user-images.githubusercontent.com/92951062/142764229-4c3c7ba9-ccf4-4be2-b544-2ace6f4c68c9.png)
-
+| Vorteile  | Nachteile | 
+| ------------- | ------------- |
 | Transparenz der Entscheidungsgründe  | Subjektive Bewertung  |
 | Schriftlichkeit & Nachvollziehbarkeit  | Bei zu vielen Alternativen wird Methode zu aufwändig  |
 | Analyse in Teamarbeit gut möglich  | Verfälschung der Ergebnisse möglich durch Überlappungen von Alternativen  |
@@ -60,16 +59,7 @@ Hauptkritikpunkt an der NWA ist ihre Subjektivität. Um diese auszugleichen, ist
 
 # Weitere Anwendungsfelder
 
-Die Nutzwertanalyse findet nicht nur im Projektmanagement Anwendung. Sie wird in allen Bereichen genutzt, in denen eine Entscheidung auf Basis mehrerer quantitativer und qualitativer Kriterien getroffen werden muss. Dies ist unter anderem der Fall im Controlling, in der Volkswirtschaftslehree generell oder auch im Vergaberecht. [^1] 
-
-
-
-
-
-![Beispielabbildung](Nutzwertanalyse/test-file.jpg)
-
-*lustiges Testbild*
-
+Die Nutzwertanalyse findet nicht nur im Projektmanagement Anwendung. Sie wird in allen Bereichen genutzt, in denen eine Entscheidung auf Basis mehrerer quantitativer und qualitativer Kriterien getroffen werden muss, beispielsweise bei Lieferantenbewertungen oder Vergleichen zur Unterstützung von Kaufentscheidungen.[^1][^5] Abgesehen davon ist die Nutzwertanalyse auch ein Tool im Controlling, in der Volkswirtschaftslehre generell oder auch im Vergaberecht. [^1] 
 
 
 # Siehe auch
