@@ -20,6 +20,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 [^3]: https://wirtschaftslexikon.gabler.de/definition/oeffentlich-private-partnerschaften-oepp-54537
 [^4]: http://projekt-manager.eu/gescheiterte-projekte.html
 [^5]: https://www.handelsblatt.com/politik/deutschland/infrastruktur-ausbau-die-blockierte-republik-woran-oeffentliche-projekte-in-deutschland-scheitern/25078986.html?ticket=ST-10378787-waZ0M4WEBBTMgHtZ12d7-cas01.example.org
+[^6]: https://www.bpb.de/nachschlagen/lexika/handwoerterbuch-politisches-system/201994/bundesrechnungshof
 
 # Öffentliche Projekte
 
@@ -38,7 +39,11 @@ Ein Projekt durchzuführen bzw das erforderliche Projektmanagment ist nicht mit 
 | 2. Definition  | Projektdefinition  |
 | 3. Planung  | Projekthandbuch  |
 | 4. Durchführung  | Produkt/Leistung  |
-| 5. Abschluss | Abschlussbericht  |                            
+| 5. Abschluss | Abschlussbericht  |    
+
+## Kontrolle
+In der freien Wirtschaft wird ein ineffizienter Umgang mit den eigenen Ressourcen bestraft und führt zu Verlusten oder auch zur Pleite. In der öffentlichen Verwaltungen gibt es solche Gesetztmäßigkeiten nicht. Als Kontrollinstitution gibt es deshalb den Bundesrechnungshof oder auch Organisationen wie den Bund der Steuerzahler. Der Bundesrechnungshof prüft die Rechnung sowie die Wirtschaftlichkeit und Ordnungsmäßigkeit der Haushalts-und Wirtschaftsführung[^6]. In letzter Zeit wird jedoch immer wieder moniert dass dieser mit zu wenig Befugnissen augestattet ist.
+
 
   
 # Kritik
@@ -51,9 +56,6 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 | Main-Donau-Kanal    | 400 Mio       | 2,4 Mrd      |
 | Elbphilharmonie    | 77 Mio       | 866 Mio      |
 
-
-## Kontrolle
-In der freien Wirtschaft wird ein ineffizienter Umgang mit den eigenen Ressourcen bestraft und führt zu Verlusten oder auch zur Pleite. In der öffentlichen Verwaltungen gibt es solche Gesetztmäßigkeiten nicht. Als Kontrollinstitution gibt es deshalb den Bundesrechnungshof oder auch Organisationen wie den Bund der Steuerzahler. Der Bundesrechnungshof ist dafür zuständig die Behörden im Nachhinein auf eine effiziente und sachgemäße Verwendung des öffentlichen Geldes zu kontrollieren. In letzter Zeit wird jedoch immer wieder moniert dass dieser mit zu wenig Befugnissen augestattet ist.
 
 Aufgrund solcher dramatischen Fehlplanungen gibt es schon seit langem die Forderung die öffentliche Projektplanung zu reformieren. Die umständlichen und komplizierten Richtlinien und Gesetze stellen ein großes Hinderniss für effzientes und agiles Projektmanagement dar[^5]. Es wird nie ganz wie in der freien Wirtschaft funktionieren jedoch gibt es schon Ansätze die Strukturen des agilen Projektmanagments mit in die öffentliche Planung einfliesen zu lassen[^2].Die Forderung nach einer Reform zur Reduzierung des Bürokratieaufwands existiert schon lange, passiet ist bis jetzt wenig. 
 Eine durchdachte Zusammenarbeit von öffentlicher und privater Wirtschaft im Sinne von PPP(public-private-partnership) kann Hilfestellung leisten[^3]. Das bedeutet sich an exterene Berater zu wenden die eine hohe Expertise und viel Erfahrung beim Thema Projektmangment aufweisen und so die öffentliche Verwaltung dabei unterstützen können.
