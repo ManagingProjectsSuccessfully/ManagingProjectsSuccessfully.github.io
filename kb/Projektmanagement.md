@@ -4,10 +4,10 @@ tags: agil klassisch
 author: FCN478
 anrechnung: k 
 ---
-Projektmanagement lässt sich allgemein als Sammelbegriff für sämtliche Handlungen verstehen, die steuernd, planend, koordinierend und überwachend die Neu- oder Umgestaltung von Prozessen oder Systemen zum Ziel haben. [1] Dabei kann man, unterscheidend nach Ziel und Methodik, verschiedene Arten des Projektmanagements differenzieren. Die grobe Trennung erfolgt zwischen einer klassischen und einer agilen Herangehensweise, die sich bereits durch ihre Grundauffassung, wie sich ein Problem oder Prozess lösen lässt, unterscheiden. Darüber hinaus existiert eine Mischform aus beiden Ansätzen. Welche Art gewählt wird, hängt eng mit der zu bewältigenden Projektart zusammen und wird von dieser bestimmt. 
+Projektmanagement lässt sich allgemein als Sammelbegriff für sämtliche Handlungen verstehen, die steuernd, planend, koordinierend und überwachend die Neu- oder Umgestaltung von Prozessen oder Systemen zum Ziel haben.[^1] Dabei kann man, unterscheidend nach Ziel und Methodik, verschiedene Arten des Projektmanagements differenzieren. Die grobe Trennung erfolgt zwischen einer klassischen und einer agilen Herangehensweise, die sich bereits durch ihre Grundauffassung, wie sich ein Problem oder Prozess lösen lässt, unterscheiden. Darüber hinaus existiert eine Mischform aus beiden Ansätzen. Welche Art gewählt wird, hängt eng mit der zu bewältigenden Projektart zusammen und wird von dieser bestimmt. 
 
 # Klassisches Projektmanagement
-Das klassische Projektmanagement zeichnet sich grundsätzlich durch ein bestehendes festes Endziel des Projekts aus. Diesem Ziel werden die Ressourcen vorab bereitgestellt und nach einem festen Modell erfolgt der Projektablauf. Weiterhin wird davon ausgegangen, dass das Projektumfeld relativ stabil ist und sich demzufolge das Projekt von Start bis Abschluss durchplanen lässt. Dahingehend erfolgt die Wahl des Ablaufmodells projektbezogen. Die bekanntesten Modelle sind das Wasserfallmodell und das Spiralmodell.
+Das klassische Projektmanagement zeichnet sich grundsätzlich durch ein bestehendes festes Endziel des Projekts aus. Diesem Ziel werden die Ressourcen vorab bereitgestellt und nach einem festen Modell erfolgt der Projektablauf. Weiterhin wird davon ausgegangen, dass das Projektumfeld relativ stabil ist und sich demzufolge das Projekt von Start bis Abschluss durchplanen lässt. Dahingehend erfolgt die Wahl des Ablaufmodells projektbezogen. Die bekanntesten Modelle sind das Wasserfallmodell und das Spiralmodell.[^2]
 
 ## Wasserfallmodell
 Das Wasserfallmodell ist ein lineares Phasenmodell. In diesem System erfolgt der Ablauf der vorab definierten Phasen nacheinander. Erst wenn der vorherige Abschnitt beendet ist, beginnt der Nächste. Die Abschnittseinteilung erfolgt projektbezogen, jedoch lassen sich 5 Grundphasen identifizieren:
@@ -18,9 +18,9 @@ Das Wasserfallmodell ist ein lineares Phasenmodell. In diesem System erfolgt der
 4.	Test durchführen
 5.	Inbetriebnahme
 
-Dieser Aufbau ist vergleichsweise einfach und gibt den Projektmitarbeitern eine klare Vorgabe und eine einfache Orientierung. Weiterhin lässt sich der Arbeitsumfang und der Zeitplan durch die vor Beginn durchgeführte Planung bereits abschätzen. Dahingehend vereinfacht sich ebenfalls die Kalkulation des Budgets. [4]
+Dieser Aufbau ist vergleichsweise einfach und gibt den Projektmitarbeitern eine klare Vorgabe und eine einfache Orientierung. Weiterhin lässt sich der Arbeitsumfang und der Zeitplan durch die vor Beginn durchgeführte Planung bereits abschätzen. Dahingehend vereinfacht sich ebenfalls die Kalkulation des Budgets.[^3]
 
-Problematisch ist bei diesem Modell jedoch die mangelnde Flexibilität, die sich aus der gegebenen Struktur ergibt. Ebenso wirken sich Umsetzungsfehler stark im Projektablauf aus und man muss gegebenenfalls wieder in die Entwurfsphase zurückkehren. [4]
+Problematisch ist bei diesem Modell jedoch die mangelnde Flexibilität, die sich aus der gegebenen Struktur ergibt. Ebenso wirken sich Umsetzungsfehler stark im Projektablauf aus und man muss gegebenenfalls wieder in die Entwurfsphase zurückkehren. [^3]
 
 ## Spiralmodell
 Das Spiralmodell lässt sich als Modell, welches die Risikominimierung in den Fokus stellt, charakterisieren. Dabei werden durch Iteration jeweils 4 Phasen durchlaufen:
@@ -30,9 +30,9 @@ Das Spiralmodell lässt sich als Modell, welches die Risikominimierung in den Fo
 3.	Umsetzung
 4.	Review der vorangegangenen Schritte und Planung der nächsten Iteration
 5.	
-Bei der Risikoanalyse werde die Rahmenbedingungen definiert und konkrete Lösungen vorgeschlagen. Danach erfolgt die Evaluierung der Lösungen und etwaige Risiken systematisiert und versucht, diese möglichst zu minimieren. Im dritten und vierten Schritt erfolgt dann die Prüfung der vorangegangenen Schritte und die Planung der nächsten Iteration. [2]
+Bei der Risikoanalyse werde die Rahmenbedingungen definiert und konkrete Lösungen vorgeschlagen. Danach erfolgt die Evaluierung der Lösungen und etwaige Risiken systematisiert und versucht, diese möglichst zu minimieren. Im dritten und vierten Schritt erfolgt dann die Prüfung der vorangegangenen Schritte und die Planung der nächsten Iteration.[^2]
 
-Zentral ist hierbei die Erstellung von Prototypen, welche von Iteration zu Iteration verfeinert werden und am Projektende das Ergebnis darstellen. [5]
+Zentral ist hierbei die Erstellung von Prototypen, welche von Iteration zu Iteration verfeinert werden und am Projektende das Ergebnis darstellen.[^4]
 
 # Agiles Projektmanagement
 Basierend auf dem agilen Manifest aus dem Jahr 2001, besteht das agile Projektmanagement aus vier Leitsätzen:
@@ -43,23 +43,16 @@ Basierend auf dem agilen Manifest aus dem Jahr 2001, besteht das agile Projektma
 *	Auf Änderungen reagieren ist wichtiger als einem Plan zu folgen
 
 
-In diesem Rahmen nimmt der Mensch eine wichtige Rolle ein und mithin stellen Kommunikation, Einfachheit, Rückkopplung, Mut und Respekt zentrale Werte dar. [2]
+In diesem Rahmen nimmt der Mensch eine wichtige Rolle ein und mithin stellen Kommunikation, Einfachheit, Rückkopplung, Mut und Respekt zentrale Werte dar.[^2]
 
-Dahingehend existiert im Gegensatz zum klassischen Projektmanagement keine fixe Struktur. Veränderung und Flexibilität finden Einzug in diesem System und der Ablauf eines Projekts baut sich iterativ auf den bisherigen Teilergebnissen auf. [2]
+Dahingehend existiert im Gegensatz zum klassischen Projektmanagement keine fixe Struktur. Veränderung und Flexibilität finden Einzug in diesem System und der Ablauf eines Projekts baut sich iterativ auf den bisherigen Teilergebnissen auf.[^2]
 
-Konkrete Methoden stellen hierbei Scrum, Extreme Programming und Crystal Methods dar, welche alle mit dem agilen Manifest vereinbar sind. [2]
-
-
+Konkrete Methoden stellen hierbei Scrum, Extreme Programming und Crystal Methods dar, welche alle mit dem agilen Manifest vereinbar sind.[^2]
 
 
 
 
 
-
-Kurzbeschreibung zu Projektmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -88,46 +81,9 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Projektmanagement/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
 
 1. das
 2. hier 
@@ -148,8 +104,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: Handbuch Projektmanagement (https://link.springer.com/book/10.1007/978-3-662-57878-0)
+[^2]: Klassisches Projektmanagement(https://doi.org/10.1007/978-3-8349-4202-9_3)
+[^3]: Wasserfallmodell - factro (https://www.factro.de/blog/wasserfallmodell/)
+[^4]: Enzyklopädie der Wirtschaftsinformatik(https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Spiralmodell)
 
