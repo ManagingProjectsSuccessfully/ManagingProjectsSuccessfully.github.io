@@ -134,7 +134,7 @@ In der freien Wirtschaft kontrolliert der Erfolg eines UNternehemns oder salopp 
 In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Dinge gedacht.
 
 | Projekt | Kostenplanung | Tatsächliche Kosten |
-| ------------ |  ------------- | ------------- |
+| ------------ |  ------------- | ------------- |                                           
 | Stuttgart21    | 2,5 Mrd       | 9,6 Mrd      |
 | Flughafen BER   | 2,7 Mrd     | 6 Mrd    |
 | Main-Donau-Kanal    | 400 Mio       | 2,4 Mrd      |
@@ -144,7 +144,7 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 
 
 
-![Beispielabbildung](Oeffentliche_Projekte/1200x675.jpg)
+![Beispielabbildung](Oeffentliche_Projekte/1200x675.jpg)                                                    ![Beispielabbildung](Oeffentliche_Projekte/1200x675.jpg)
 
 
 
