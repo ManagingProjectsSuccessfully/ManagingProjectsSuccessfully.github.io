@@ -7,18 +7,17 @@ anrechnung: k
 
 Die Nutzwertanalyse (kurz: NWA; aber auch Punktwertverfahren, Punktbewertungsverfahren oder Scoring-Modell genannt) gehört zu den qualitativen, nicht-monetären Analysemethoden der Entscheidungstheorie.[^1] Im [Projektmanagement](Projektmanagement.md) dient die Nutzwertanalyse als Methode zur rationalen Entscheidungsfindung bei komplexen Problemen.[^1] Sie wird vorallem herangezogen für Entscheidungsfindungen, bei denen nicht in Geldeinheiten oder Zeiteinheiten messbare Aufwendungen als Faktoren verwendet werden können, sondern beispielsweise Umweltfaktoren, Image oder soziale Faktoren eine Rolle spielen.[^4]
 
-
 # Hintergrund
 
-Im Rahmen von Projekten ist es notwendig, Entscheidungen hinsichtlich vieler Details zu treffen. Dies beginnt bereits bei der Entscheidung für oder gegen ein bestimmtes Projekt, geht weiter zur Auswahl der geeigneten Mitarbeiter, Make-Or-Buy-Entscheidungen, Auswahl von Kooperationspartnern, Ressourcen, bis hin zu letzendlichen, direkt das Ergebnis beeinflussenden Entscheidungen. Während eine normale [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md) verschiedene Kriterien nur unter Effizienzgesichtspunkten betrachtet, bewertet die Nutzwertanalyse die Effektivität. [^1] 
+Im Rahmen von Projekten ist es notwendig, Entscheidungen hinsichtlich vieler Details zu treffen. Dies beginnt bereits bei der Entscheidung für oder gegen ein bestimmtes Projekt, geht weiter zur Auswahl der geeigneten Mitarbeiter, Make-Or-Buy-Entscheidungen, Auswahl von Kooperationspartnern, Ressourcen, bis hin zu letzendlichen, direkt das Ergebnis beeinflussenden Entscheidungen.[^2] Während eine normale [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md) verschiedene Kriterien nur unter Effizienzgesichtspunkten betrachtet, bewertet die Nutzwertanalyse die Effektivität. [^1] 
 Um trotzdem eine transparente, für andere nachvollziehbare und schnelle Entscheidung zu gewährleisten, haben sich verschiedene Maßnahmen etabliert. 
 Eine dieser Maßnahmen ist die „Nutzwertanalyse“.[^2]
 
 # Vorgehen
 
-Bei der Nutzwertanalyse werden mehrere Projekte oder Projektalternativen gegenübergestellt und ihr jeweiliger “Nutzwert” ermittelt. Die Kriterien, die zur Bewertung des Nutzens herangezogen werden, werden ermittelt und verschieden gewichtet.[^5] Die Methode folgt einer 6-Schritte-Anleitung:[^3]
+Bei der Nutzwertanalyse werden mehrere Projekte oder Projektalternativen gegenübergestellt und ihr jeweiliger “Nutzwert” ermittelt. Die Kriterien, die zur Bewertung des Nutzens herangezogen werden, werden ermittelt und verschieden gewichtet.[^5] Die Methode folgt einer 6-Schritte-Anleitung:
 
-## 6-Schritte der NWA
+## 6-Schritte der NWA[^3]
 
 ### Schritt 1: Festlegung der Alternativen bzw. Entscheidungsvarianten
 Die verschiedenen Varianten werden gesammelt und festgehalten. Es ist hilfreich, wenn diese Liste nicht allzu lang wird, weil die Methode sonst sehr aufwändig wird. Mit 2-5 Alternativen ist man gut aufgestellt.
@@ -54,16 +53,14 @@ Die NWA hat sowohl Vorteile als auch Nachteile.
 | Analyse in Teamarbeit gut möglich  | Verfälschung der Ergebnisse möglich durch Überlappungen von Alternativen  |
 | Vergleichbarkeit von Unvergleichbaren anhand gemeinsamer Kriterien  | Problem der Einigung bei mehreren Anwendern  |
 
-Hauptkritikpunkt an der NWA ist ihre Subjektivität. Um diese auszugleichen, ist es empfehlenswert die Analyse in einem Gruppenmeeting ( z.B. in einem [Jour Fixe](Jour_Fixe.md) oder auch im Rahmen der [Projektkommunikation](Projektkommunikation.md) )anzuwenden. Verschiedene Köpfe bringen verschiedene Sichtweisen ein, was das Gesamtergebnis ausgewogener und objektiver macht.[^4]
+Hauptkritikpunkt an der NWA ist ihre Subjektivität. Um diese auszugleichen, ist es empfehlenswert die Analyse in einem Gruppenmeeting ( z.B. in einem [Jour Fixe](Jour_Fixe.md) oder auch im Rahmen der [Projektkommunikation](Projektkommunikation.md) )anzuwenden.[^4] Verschiedene Köpfe bringen verschiedene Sichtweisen ein, was das Gesamtergebnis ausgewogener und objektiver macht.[^4]
 
 # Weitere Anwendungsfelder
 
 Die Nutzwertanalyse findet nicht nur im Projektmanagement Anwendung. Sie wird in allen Bereichen genutzt, in denen eine Entscheidung auf Basis mehrerer quantitativer und qualitativer Kriterien getroffen werden muss, beispielsweise bei Lieferantenbewertungen oder Vergleichen zur Unterstützung von Kaufentscheidungen.[^1][^5] Abgesehen davon ist die Nutzwertanalyse auch ein Tool im Controlling, in der Volkswirtschaftslehre generell oder auch im Vergaberecht. [^1] 
 
-
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Projektmanagement](Projektmanagement.md)
 * [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md)
 * [Jour Fixe](Jour_Fixe.md)
