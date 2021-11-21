@@ -18,27 +18,18 @@ Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt 
 * Komplexe, neuartige Aufgabenstellungen (Erforderlichkeit von Erfahrung v.a. durch Institutionen) 
 * Begrenzte Ressourcen (Budget und Zeit) 
 * Hohes Fehlerpotenzial 
-* Meist Teamarbeit in interdisziplinären Arbeitsgruppen
+* Meist Teamarbeit in interdisziplinären Arbeitsgruppen [^1]
 
 # Forschungsprojekte im Projektmanagement
-Das Projektmanagement ist für die Forschung von wichtiger Bedeutung, da ohne PM das ohnehin schon hohe Risiko des Misslingens noch zusätzlich gesteigert wird. Auch wenn es Schwierigkeiten bereitet, klare Anforderungen zu formulieren und Fortschritte zu dokumentieren, ist es dennoch wichtig, dies zu versuchen. Dabei darf auch die Risikobeurteilung und Ressourcenplanung nicht zu knapp kommen, nur weil es das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und Ehrgeiz der Forscher. Management wird nicht direkt mit Forschung assoziiert, eher als lästig empfunden. Daher ist es wichtig, dass auch auf die Organisation eingegangen wird. Ansonsten folgen nicht erreichte Ziele. Forschungsinhalt und Management gehören zusammen [^2]
+Das Projektmanagement ist für die Forschung von wichtiger Bedeutung, da ohne PM das ohnehin schon hohe Risiko des Misslingens noch zusätzlich gesteigert wird [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialiserte Agenturen können so zum Beispiel auch die Qualität sichern, die in der Medizintechnik eine wichtige Rolle spielt. [^5] Auch wenn es Schwierigkeiten bereitet, klare Anforderungen zu formulieren und Fortschritte zu dokumentieren, ist es dennoch wichtig, dies zu versuchen. Dabei darf auch die Risikobeurteilung und Ressourcenplanung nicht zu knapp kommen, nur weil es das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und Ehrgeiz der Forscher. Management wird nicht direkt mit Forschung assoziiert, eher als lästig empfunden. Daher ist es wichtig, dass auch auf die Organisation eingegangen wird. Ansonsten folgen nicht erreichte Ziele. Forschungsinhalt und Management gehören zusammen [^2]
 Eine mögliche Lösung stellt hier bei das Microsoft Project Server/Project Online (Microsoft PPM) link. Es ist ein benutzerfreundliches Tool für zentrales Projektmanagement, da eine eine gemeines Arbeits- und Informationsplattform für Forscher und Projektbeteiligte bereitstellt. [^4] 
 Nützliche Funktionen:
 1. PPM: zentrales Speichern und Auswerten, standardisierte Dokumentablage durch Sharepoint
 2. Erweiterung Multiprojekt: Top-down-Kommunikation, Bottum-up-Prinzip, Meilensteinübersicht, Projektampeln
 3. Erweiterung Softlinks: Verknüpfung zum eigenen/firmenübergreifenden Termin-/Projektplan
-4. ERweiterung ERP-Sytem: detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und Controllern [^4]
-
-
- Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+4. Erweiterung ERP-Sytem: detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und Controllern [^4]
 
 Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) 
-
 
 ![Beispielabbildung](Forschungsprojekte/test-file.jpg)
 
@@ -76,6 +67,9 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 
 # Weiterführende Literatur
 
+* Forschungsprojekte entwickeln, von der Idee bis zur Publikation, W.Bauer, J.Bleck-Neuhaus, R.Dombois, I.Wehrtmann, 2018
+* Das Forschngsprojekt, Planung, Durchführung und Auswertung einer quantitativen Auswertung, W.Voß, N.Schöneck, 2013
+* https://www.youtube.com/watch?v=Ar-qjMOsh7U
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
@@ -84,4 +78,4 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 [^2]: [Projektmanagement der Forschung](https://www.projektmagazin.de/artikel/projektmanagement-der-forschung_6806)
 [^3]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/)
 [^4]: [Projektlösungen](https://www.theprojectgroup.com/de/ms-project-loesungen/projektmanagement-forschung)
-
+[^5]: [Forschung und Entwicklung - Projektmanagement in der Medizintechnik](https://www.youtube.com/watch?v=6YxbcjEYUj0)
