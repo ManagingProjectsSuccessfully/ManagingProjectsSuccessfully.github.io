@@ -12,9 +12,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
@@ -63,3 +61,13 @@ Eine durchdachte Zusammenarbeit von öffentlicher und privater Wirtschaft im Sin
 
 # Ausblick
 Zu den größten Herausforderungen für das Management von Projekten in öffentlicher Hand gehört die seit Jahren geforderte Digitalisierung und Verschlankung des Bürokratieapperats[^5]. Gerade die Coronapandemie hat gezeigt dass auch eine öfftenliche Verwaltung gut ausgestattet und flexibel sein muss um Herausforderungen von öffentlichen Projekten und dessen Projektmanagement gewachsen zu sein.
+
+# Siehe auch
+
+[Infrastrukturprojekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Infrastruktur_Projekte.md)
+
+# Weiterführende Literatur
+
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
+# Siehe auch
