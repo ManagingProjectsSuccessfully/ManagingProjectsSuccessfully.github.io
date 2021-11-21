@@ -4,8 +4,46 @@ tags: agil klassisch
 author: BeratGuen
 anrechnung: k oder a
 ---
+## Inhaltsverzeichnis
+> - Definition
+> - Quellen
 
-Kurzbeschreibung zu SAFe_Lean_Agile_Mindset um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+---
+
+# Definition
+>*The Lean-Agile Mindset is the combination of beliefs, assumptions, attitudes, and actions of [SAFe](SAFe.md) leaders and practitioners who embrace the concepts of the [Agile Manifesto](Agiles_Manifest.md) and Lean thinking. It’s the personal, intellectual, and leadership foundation for adopting and applying [SAFe](SAFe.md) principles and practices.*[^1]  
+
+>Das Lean-Agile Mindset ist eine Kombination von Überzeugungen, Annahmen, Einstellungen und Handlungen von [SAFe](SAFe.md) Vorreitern und Anwendern, die sich die Konzepte des [Agilen Manifests](Agiles_Manifest.md) und des Lean-Denkens zu eigen machen.
+
+Es beschreibt, wie Lean und Agile als Herzstück von [SAFe](SAFe.md) und wird von vielen Beiträgen des Frameworks untermauert, die erklären, wie Lean-Agile-Praktiken im großem Umfang implementiert werden können.[^2]
+
+# Änderung des momentanen Mindsets zur Umsetzung vom [Scaled Agile Framework®](SAFe.md)
+Zur Umsetzung des [Scaled Agile Framework](SAFe.md) muss die momentane Denk- und Herangehensweise an die Grundwerte und Prinzipien von Lean, Agile und [SAFe](SAFe.md) angepasst werden. [^2]  
+Dabei müssen die SAFe Leader offen bleiben für die Möglichkeit, dass bestehende Denkweisen, die auf traditionellen Managementpraktiken beruhen, sich weiterentwickeln müssen. Sie sind dafür zuständig den organisatorischen Wandel zu leiten, der erforderlich ist, um ein schlankes Unternehmen zu werden.[^1]
+Ein Lean-Agile Mindset erfordert, dass die Führungskräfte sowohl Lean als auch Agile in ihrem Verhalten erlernen und umsetzen und die Implementierung im Unternehmen unterstützen. [^2]
+
+# Lean Denkweise mit dem "SAFe House of Lean"
+
+!["SAFe House of Lean"](SAFe_Lean_Agile_Mindset/House-of-Lean-1.png)
+
+
+
+# Siehe Auch
+# Weiterführende Literatur
+
+
+# 
+
+# Quellen
+
+[^1]: [Lean-Agile Mindset](https://www.scaledagileframework.com/lean-agile-mindset/)  
+[^2]: [Developing a New Mindset](https://www.scaledagileframework.com/lean-agile-leadership/)   
+[^3]: []()  
+
+
+
+
+<!--Kurzbeschreibung zu SAFe_Lean_Agile_Mindset um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).

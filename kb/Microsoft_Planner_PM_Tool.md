@@ -41,7 +41,7 @@ Der Microsoft Planner wird besonders aufgrund der intuitiven Oberfläche und der
 
 
 ## Verwendung zur klassischen Aufgabenverwaltung
-
+Der Planner kann als klassiches Aufgabenverwaltungstool genutzt werden, bei dem die Aufgaben den 
 
 
 ## Verwendung als KANBAN-Board [Link] 
