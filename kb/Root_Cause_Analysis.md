@@ -118,7 +118,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Root_Cause_Analysis.md)
+* [Pareto-Prinzipt](Pareto_Prinzip.md)
+* [Konfliktmanagement](Konfliktmanagement.md)
+* [Risikomanagement](Risikomanagement.md)
 
 # Weiterführende Literatur
 
