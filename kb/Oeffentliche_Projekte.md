@@ -94,6 +94,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: https://www.netinbag.com/de/business/what-is-a-public-project.html
 [^2]: https://dl.gi.de/handle/20.500.12116/16777
+[^3]: https://wirtschaftslexikon.gabler.de/definition/oeffentlich-private-partnerschaften-oepp-54537
 
 # Öffentliche Projekte
 
@@ -129,7 +130,7 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 ## Kontrolle
 In der freien Wirtschaft wird ein ineffizienter Umgang mit den eigenen Ressourcen bestraft und führt zu Verlusten oder auch zur Pleite. In der öffentlichen Verwaltungen gibt es solche Gesetztmäßigkeiten nicht. Als Kontrollinstitution gibt es deshalb den Bundesrechnungshof oder auch Organisationen wie den Bund der Steuerzahler. Der Bundesrechnungshof ist dafür zuständig die Behörden im Nachhinein auf eine effiziente und sachgemäße Verwendung des öffentlichen Geldes zu kontrollieren. In letzter Zeit wird jedoch immer wieder moniert dass dieser mit zu wenig Befugnissen augestattet ist.
 
-Aufgrund solcher dramatischen Fehlplanungen gibt es schon seit langem die Forderung die öffentliche Projektplanung zu reformieren. Es wird nie ganz wie in der freien Wirtschaft funktionieren jedoch gibt es schon Ansätze die Strukturen des agilen Projektmanagments mit in die öffentliche Planung einfliesen zu lassen[^2]. Auch eine engere Zusammenarbeit von öffentlicher und privater Wirtschaft im Sinne von PPP(public-private-partnership) kann Hilfestellung geben. Das bedeutet sich an exterene Berater zu wenden die eine hohe Expertise und viel Erfahrung beim Thema Projektmangment aufweisen und so die öffentliche Verwaltung dabei unterstützen können.
+Aufgrund solcher dramatischen Fehlplanungen gibt es schon seit langem die Forderung die öffentliche Projektplanung zu reformieren. Es wird nie ganz wie in der freien Wirtschaft funktionieren jedoch gibt es schon Ansätze die Strukturen des agilen Projektmanagments mit in die öffentliche Planung einfliesen zu lassen[^2]. Auch eine engere Zusammenarbeit von öffentlicher und privater Wirtschaft im Sinne von PPP(public-private-partnership) kann Hilfestellung geben[^3]. Das bedeutet sich an exterene Berater zu wenden die eine hohe Expertise und viel Erfahrung beim Thema Projektmangment aufweisen und so die öffentliche Verwaltung dabei unterstützen können.
 
 # Ausblick
 Zu den größten Herausforderungen für das Management von Projekten in öffentlicher Hand gehört die seit Jahren geforderte Digitalisierung und Verschlankung des Bürokratieapperats. Gerade die Coronapandemie hat gezeigt dass auch eine öfftenliche Verwaltung gut ausgestattet und flexibel sein muss um Herausforderungen von öffentlichen Projekten und dessen Projektmanagement gewachsen zu sein.
