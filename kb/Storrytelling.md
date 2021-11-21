@@ -34,14 +34,20 @@ Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführun
 * ist
 * eine 
 * Punkteliste
-  - mit unterpunkt
+  
+  
+## Der Aufbau einer passenden Geschichte
+
 
 ![Storykurve](Storrytelling/Storytelling.png)
 
 *Storytelling durch Erzählen zum Projekterfolg[^3]*
 
+### Einführung / Kick-Off
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+### Hauptteil / Projektprozess 
+
+### Projektabschluss
 
 So kann man eine Tabelle erstellen:
 
@@ -50,23 +56,9 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
