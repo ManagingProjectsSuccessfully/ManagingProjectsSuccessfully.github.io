@@ -38,15 +38,24 @@ Explizites Wissen bezeichnet ein formulierbares Wissen und ist deshalb leicht re
 
 Das Bausteinmodell stellt ein weit verbreitetes Modell des Wissensmanagements dar. Dieses Modell bildet einen traditionellen Managementprozess ab und besteht aus 8 Bausteinen, welche sich in einen äußeren Kreislauf (strategische Steuerungsaufgaben) und einen inneren Kreislauf (Umsetzung) aufteilen lassen[^6]. 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![Bausteinmodell](Wissensmanagament/Wissensmanagement.jpg)
 
-![Beispielabbildung](Wissensmanagament/test-file.jpg)
+Äußerer Kreislauf: 
 
-*lustiges Testbild*
+* Wissensziele (Beschreibung des organisationalen Kernwissens)
+* Wissensbewertung (Messung des Erfolgs)
+
+Innerer Kreislauf: 
+
+*	Wissensidentifikation (Schaffung von Transparenz über Informationen und Fähigkeiten)
+*	Wissenserwerb (Steigerung des eigenen Wissens)
+*	Wissensentwicklung (Aufbau neuen Wissens)
+*	Wissensverteilung (Verteilung vorhandenen Wissens)
+*	Wissensnutzung (Anwendung von Wissen) 
+*	Wissensbewahrung (Speicherung von Wissen)
+
+
 
 # Aspekt 2
 
