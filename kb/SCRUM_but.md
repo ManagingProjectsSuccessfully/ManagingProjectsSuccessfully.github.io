@@ -1,89 +1,31 @@
 ---
 title: SCRUM_but
-tags: agil klassisch
+tags: agil klassisch SCRUM SCRUMbut
 author: thujavanj
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu SCRUM_but um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Definition 
+Bei sogenannten ScrumButs handelt es sich um verschiedene Gründe, warum ein Team, welches die agile Projektmanagement Methode Scrum einsetzt, nicht das komplette Potential aus Scrum herausholen kann [^1]. Das Team ist an einem Punkt angelangt, an dem es der Meinung ist, Scrum funktioniert für das Team bzw. das Projekt nicht so wie es vorgesehen war und muss verbessert werden. Kurz gesagt muss auf einzelne Elemente in Scrum verzichtet werden, wodurch Abweichungen zum Standard wie dieser im Scrumguide beschrieben ist auftreten.  Das Motto lautet hier: „We use Scrum, but…“. [^2] 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Die Intention von Scrumbuts
+Grundsätzlich liegt die Intention eines Scrumbuts meist in der Optimierung bzw.  Adaption der Arbeit nach Scrum in einer oder für eine bestimmte Organisation. In folgenden Bereichen können beispielsweise Scrumbuts auftreten: 
+-	Verantwortlichkeiten und Aufgaben des Product Owners, des Scrum Masters und der Entwickler 
+-	Durchführung von Events (Sprints, Sprint Planning, Daily Scrum, Sprint Review oder Retroperspektive)
+-	Verwendung der Artefakte (Product Backlog, Sprint Backlog)
+-	Nutzung von Commitments (Product Goal, Sprint Goal oder Definition od Done) [^2]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Die Anwendungsmöglichkeiten für Scrumbuts sind riesig. Sie reichen von der Interpretation der Verantwortlichkeiten („Für uns sind Product Owner nicht wichtig“ über die Dauer und Frequenz von bestimmten Events bis hin zu den Artefakten („Statt Product oder Sprint Backlogs verwenden wir unsere internen Projektdokumente“). [^2]
+In der Realität kommt es durchaus auch zu Scrumbuts die nicht unbedingt positive Ziele verfolgen. Die Durchführung von Workshops zur Ermittlung von Anforderungen wir in Scrum nicht definiert, auch wenn solche Workshops sinnvoll sind. [^2] Etwas nicht zu tun, obwohl es positiv für die Entwicklung einer Lösung wäre, ist nicht im Sinne von Scrum, so dass auch hier von einem Scrumbut gesprochen werden kann [^2].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Scrumbut Syntax
+Jedes Scrumbut hat meistens folgende Syntax: 
+-	Scrumbut, 
+-	Grund, 
+-	Workaround.
+Die Abbildung 1 verdeutlicht dabei die typische Syntax eines Scrumbuts anhand eines Beispiels. [2]
+![image](https://user-images.githubusercontent.com/92809831/142771082-73707ea2-3135-45c7-b41f-6996bfe278b0.png)
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](SCRUM_but/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
