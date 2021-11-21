@@ -1,13 +1,13 @@
 ---
 title: {Feedbackgespräche}
-tags: klassisch
+tags: {klassisch}
 author: {Leni2505}
-anrechnung: k 
+anrechnung: {k}
 ---
 
 
 # Feedbackgespräche
-## Feed-back, das
+## 1. Definition: Feed-back, das
 *„Reaktion, die jemandem anzeigt, dass ein bestimmtes Verhalten, eine Äußerung o. Ä. vom Kommunikationspartner verstanden wird [und zu einer bestimmten Verhaltensweise oder -änderung geführt hat]; Rückkoppelung, Rückmeldung.“* [^1]
 
 
@@ -20,7 +20,7 @@ Im Job erhalten Mitarbeiter von Ihren Vorgesetzten mit Hilfe von Feedbackgesprä
 Diese konstruktiven Rückmeldungen können den Mitarbeitern dabei helfen, die eigene Motivation zu steigern, die allgemeine Zusammenarbeit zu verbessern, potenzielle Konflikte frühzeitig erkennen und beheben, berufliche Orientierung zu schaffen und Ziele festzulegen. [^4]
 
 
-## Mögliche Inhalte von Feedbackgesprächen können dabei sein:  
+## 2. Mögliche Feedbackgesprächsthemen:
 
 *	Ziele und Zielerreichung
 *	Aktuelle Konflikte (und deren Lösungen)
@@ -28,7 +28,7 @@ Diese konstruktiven Rückmeldungen können den Mitarbeitern dabei helfen, die ei
 *	Wünsche und Anregungen
 
 
-| **Schritt für Schritt zum Feedback:** [^5]| 
+| **Schritt für Schritt zum Feedback:** [^5]|  
 | ------------- |
 | **Was** möchte ich rüberbringen?|
 | **Warum** möchte ich es sagen?|
@@ -37,7 +37,7 @@ Diese konstruktiven Rückmeldungen können den Mitarbeitern dabei helfen, die ei
 | **Wie** möchte ich es ausdrücken?|
 
 
-## Darauf sollte beim Gespräch geachtet werden: [^6]
+## 3. Darauf sollte beim Gespräch geachtet werden: [^6]
 
 *	Höflicher und wertschätzender Umgang miteinander
 *	Lösungsorientierte Ansätze
@@ -48,7 +48,7 @@ Diese konstruktiven Rückmeldungen können den Mitarbeitern dabei helfen, die ei
 *	Vor- und Nachbereitung des Gesprächs
 
 
-| Kriterien für ein erfolgreiches Feedback: [^7]| | 
+| Kriterien für ein erfolgreiches Feedback: [^7] | | 
 | -------------------- | ------------- |
 | **Respektvoll**| Auch wenn Ihr Gegenüber ein aus Ihrer Sicht negatives Verhalten zeigt, ist gegenseitiger Respekt die Grundhaltung für das Gespräch.|
 | **Konkret**| Hingeworfene Bemerkungen, indirektes Feedback durch Mimik bzw. Tonfall oder allgemeine Urteile haben keinen positiven Effekt – im Gegenteil.|
@@ -59,7 +59,7 @@ Diese konstruktiven Rückmeldungen können den Mitarbeitern dabei helfen, die ei
 | **Gegenseitig**| Wer Feedback gibt, sollte auch selbst offen für Feedback sein.|
 
 
-# Die vier Phasen eines (erfolgreichen) Feedbackgesprächs: [^8] 
+# 4. Die vier Phasen eines (erfolgreichen) Feedbackgesprächs: [^8] 
 ## Phase 1: Beurteilung und Feedback
 
 *	Anerkennung von Erfolgen und Fortschritten sowie Erörterung von Verbesserungspotenzialen und Kritikpunkten
@@ -83,7 +83,14 @@ Mitarbeiter kommuniziert eigene Wünsche, Ziele und Planung der beruflichen Zuku
 *	Regelmäßiger Austausch 
 
 
-# Warum ist regelmäßiges Feedback wichtig? [^9] 
+
+
+![Ablauf Fedbackgespräch](Feedbackgespräche/fbg-ablauf.jpeg) [^9]
+
+
+
+
+# 5. Warum ist regelmäßiges Feedback so wichtig? [^10] 
 
 Feedback...
 <ol>
@@ -98,12 +105,14 @@ Feedback...
 </ol>
 
 
-# Siehe auch
+# 6. Siehe auch:
 
-* Checkliste für dein Feedbackgespräch: (https://user-images.githubusercontent.com/92356175/142725032-b0bf47de-3c4e-4873-b933-00371807f0be.png)
+  * Checkliste für dein Feedbackgespräch: [^11] 
 
-* YouTube Video zur Vorbereitung:
-So gelingt dir das Mitarbeitergespräch: https://www.youtube.com/watch?v=uDk8fSi2OsE
+  ![Checkliste Fedbackgespräch](Feedbackgespräche/Mitarbeitergespraech-Checkliste-724x1024.jpeg)
+
+  * YouTube Video zur Vorbereitung:
+  So gelingt dir das Mitarbeitergespräch: https://www.youtube.com/watch?v=uDk8fSi2OsE
 
 # Weiterführende Literatur: 
 * Scherm, Martin (2019): 360°-Feedback, Hogrefe Verlag, 2. Auflage, Göttingen
@@ -120,4 +129,6 @@ So gelingt dir das Mitarbeitergespräch: https://www.youtube.com/watch?v=uDk8fSi
 [^6]: Brückner Benjamin: Feedbackgespräch: Leitfaden + Tipps. Internetquelle: https://www.fuer-gruender.de/blog/feedbackgespraech/, abgerufen am 19.11.2021.
 [^7]: Kanitz, Anja; Feedbackgespräche. S. 26.
 [^8]: Brückner Benjamin: Feedbackgespräch: Leitfaden + Tipps. Internetquelle: https://www.fuer-gruender.de/blog/feedbackgespraech/, abgerufen am 19.11.2021.
-[^9]: Mai, Jochen (2021): Feedbackgespräch: Ablauf, Vorbereitung, Tipps. Internetquelle: https://karrierebibel.de/wp-content/uploads/2013/04/Feedbackgespraech-Ablauf-Inhalt-Grafik-650x433.jpg, abgerufen am 19.11.2021.
+[^9]: Bildquelle: https://karrierebibel.de/feedbackgespraech/
+[^10]: Mai, Jochen (2021): Feedbackgespräch: Ablauf, Vorbereitung, Tipps. Internetquelle: https://karrierebibel.de/wp-content/uploads/2013/04/Feedbackgespraech-Ablauf-Inhalt-Grafik-650x433.jpg, abgerufen am 19.11.2021.
+[^11]: Bildquelle: https://www.karriere.at/blog/mitarbeitergespraech-checkliste.html![image]
