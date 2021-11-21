@@ -41,11 +41,11 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 Interactive Planning ist ein Konzept, das vom Theoretiker Russell L. Ackoff entwickelt wurde. 
 Dahinter steckt die Idee, dass, um ein wünschenswertes Zukunftsbild zu erreichen, man zuerst eine 
-wünschenswerte Gegenwart kreieren muss, um dann Wege und Mittel zu finden diese nachzustellen. Zudem lässt 
-dieses Konzept zu, dass die Stakeholder der Organisation im Planungsprozess involviert sind.
+wünschenswerte Gegenwart kreieren muss, um dann Wege und Mittel zu finden diese nachzustellen. Zudem 
+lässt dieses Konzept zu, dass die Stakeholder der Organisation im Planungsprozess involviert sind.
 
-Interactive Planning besteht aus zwei Teilen, der Idealisierung und der Realisierung. Diese zwei Teile sind 
-zudem in sechs voneinander abhängigen Teilen unterteilt.
+Interactive Planning besteht aus zwei Teilen, der Idealisierung und der Realisierung. Diese zwei 
+Teile sind zudem in sechs voneinander abhängigen Teilen unterteilt.
 
 
 ![Beispielabbildung](Interactive_Approach/test-file.jpg)
@@ -53,13 +53,6 @@ zudem in sechs voneinander abhängigen Teilen unterteilt.
 *lustiges Testbild*
 
 # Idealisierung
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
 ## Formulierung der Unordnung (Formulating the Mess)
 
