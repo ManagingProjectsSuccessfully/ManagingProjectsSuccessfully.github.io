@@ -44,8 +44,11 @@ Da es nicht pauschal eine richtige Lösung gibt, sollte man also für jedes Proj
 
 * Verlinkungen zu angrenzenden Themen -Projekte
 * [Link auf diese Seite](Infrastruktur_Projekte.md)
+* [Gegenüberstellungen der Hauptmerkmale von klassischem versus agilem Projektmanagement](https://link.springer.com/article/10.1007/s11612-021-00563-z/tables/1)
 
 # Weiterführende Literatur
+
+[Agiles Projektmanagement. Auf Änderungen schnell reagieren.](https://www.microtool.de/wissen-online/was-ist-agiles-projektmanagement/)
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... -gute Quellen, die biseher nicht verwendet
 
