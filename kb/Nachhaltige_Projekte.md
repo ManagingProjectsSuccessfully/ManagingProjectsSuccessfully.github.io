@@ -12,25 +12,29 @@ nachhaltigen Projekten, mithilfe von Beispielen, erläutert wird.
 
 In der modernen Gesellschaft ist Nachhaltigkeit einer der zentralen Aspekte bei der Innovierung von Unternehmen, Haushalten und sogar Ländern, wodurch die Anzahl an 
 nachhaltigen Projekten immer mehr steigt, um Umweltschutz und wirtschaftliche Ziele zu [komplementären Zielen](https://www.rechnungswesen-verstehen.de/lexikon/komplementaere-ziele.php) zu machen und einen positiven Zukunftsausblick zu schaffen.
-Was ist eigentlich Nachhaltigkeit? Ursprünglich wurde Nachhaltigkeit nur als Synonym für Umweltschutz verwendet, was sich aber über die Zeit hinweg geändert hat 
-Nachhaltigkeit kann in vielen Bereichen Anwendung finden wie z.B Bildung, Forschung, Ernährung und so weiter. Folglich hat sich auch die Wichtigkeit der Nachhaltigkeit erhöht 
-und ist in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt.[^1] Nachhaltige Projekte ist ein Thema, dass sehr eng mit der nachhaltigen Entwicklung oder im 
-englischen „sustainable development“ zusammenhängt. Die Nachhaltige Entwicklung ist in nahezu allen Ländern der Welt ein Thema auf welches großes Augenmerk gelegt wird, denn 
-schon seit dem Erdgipfel 1992 in Rio de Janeiro ist dies ein Fokuspunkt der UN und bekommt, wie am Klimagipfel 2021 in Glasgow zu sehen war, große Aufmerksamkeit.[^2] 
-Allgemein ist ein deutlicher Anstieg von nachhaltigen Projekten in den vergangenen Jahren zu erkennen, da das Thema Klimaschutz immer und immer mehr in den Vordergrund gerät. 
-Auch ist das Interesse an nachhaltigen Produkten deutlich gestiegen, weshalb Nachhaltigkeit auch ein Verkaufsargument für Unternehmen ist und Kunden generieren kann.[^3] Aber 
-nicht nur das, wie man in der Infografik, die unten dargestellt ist, sehen kann, wollen junge Menschen lieber für nachhaltige Unternehmen arbeiten, was bedeutet, dass Firmen 
-auch deshalb sich für Nachhaltigkeit einsetzen müssen, um neue qualitative Arbeitskräfte zu bekommen und diese nicht an andere Unternehmen zu verlieren.[^4] Jedoch gibt es 
+
+Aber was ist eigentlich Nachhaltigkeit? Ursprünglich wurde Nachhaltigkeit nur als Synonym für Umweltschutz verwendet, was sich aber über die Zeit hinweg geändert hat 
+Nachhaltigkeit kann in vielen Bereichen Anwendung finden wie z.B Bildung, Forschung, Ernährung und so weiter. Folglich hat sich auch die Bedeutung der Nachhaltigkeit erhöht 
+und ist in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt[^1]. Auch sind nachhaltige Projekte sehr eng mit der [nachhaltigen Entwicklung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Nachhaltige_Entwicklung) oder im 
+englischen „sustainable development“ verbunden und hängen von einandner ab. 
+Allgemein ist ein deutlicher Anstieg von nachhaltigen Projekten in den vergangenen Jahren zu erkennen, da das Thema Klimaschutz immer und immer mehr in den Vordergrund gerät.
+
+Zudem ist das Interesse an nachhaltigen Produkten deutlich gestiegen, weshalb Nachhaltigkeit auch ein Verkaufsargument für Unternehmen ist und Kunden generieren 
+kann(s.Abbildung 1)[^2]. Aber nicht nur das, wie man in der Infografik, die unten dargestellt ist, sehen kann, wollen junge Menschen lieber für nachhaltige Unternehmen 
+arbeiten, was bedeutet, dass Firmen auch deshalb sich für Nachhaltigkeit einsetzen müssen, um neue qualitative Arbeitskräfte zu bekommen und diese nicht an andere Unternehmen 
+zu verlieren(s.Abbildung 2)[^3]. Jedoch gibt es 
 noch Hürden, die überwindet werden müssen, da laut einer Umfrage aus dem Jahr 2014 rund 58% behaupteten sie würden keinen Aufpreis für nachhaltige Produkte zahlen. 
-Unglücklicherweise ist aber der Preis nachhaltiger Produkte meist teurer, da ein höherer Aufwand betrieben werden muss.[^5] 
+Unglücklicherweise ist aber der Preis nachhaltiger Produkte meist teurer, da ein höherer Aufwand betrieben werden muss (s.Abbildung 3)[^4]. 
 
-# Aspekt 1
+![image](https://user-images.githubusercontent.com/92987986/142769796-913730a0-c613-4edb-a731-37687f066f84.png)
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Nachhaltige Projekte von Städten Europas  
+
+Kommen wir nun aber zu Beispielen für nachhaltige Projekte. Zunächst werden Städte als Beispiele für nachhaltige Projekte angesprochen und zum Schluss noch Unternehmensprojekte. Das erste Projekt, dass ich erwähnen möchte, wurde in der Stadt Utrecht realisiert. In der niederländischen Stadt wurden die Dächer der Bushaltestellen mit Grünflächen bedeckt, um Bienen und Insekten zu schützen und dem urbanen Artensterben dieser entgegenzuwirken. Dies könnte ein kleiner Anfang für Großstädte auf der ganzen Welt sein dem Artensterben einiger Tiere entgegenzuwirken, ohne große Summen auszugeben. Auch ist dies wichtig, da Grünflächen in Großstädten immer öfter zu Bauland werden und somit die letzten Lebensräume einiger Tierarten verschwinden[^5].
+Ein komplett anderes Projekt wurde in Schwedens Hauptstadt Stockholm verwirklicht. Nämlich wird am Hauptbahnhof, einem der Knotenverkehrspunkte, Körperwärme durch die Lüftungsanlage abgesaugt, um damit Wassertanks zu erhitzen und umlegende Gebäude zu beheizen. Dies sorgt für Nachhaltige Energieverwendung und führt zugleich zur einer Einsparung von Kosten für Strom[^5].
+Als nächstes möchte ich die Stadt Nürnberg, Heimstätte unserer Uni anführen. Diese hat zwar keine aktuellen Großprojekte wie die oben erwähnten Städte, jedoch gilt Nürnberg als sehr nachhaltige Stadt und wurde 2016 zu Deutschlands nachhaltigster Großstadt ausgezeichnet. Vor allem in Sachen nachhaltige Bildung und Forschung für nachhaltige Technologien ist Nürnberg ein guter Standort. Dies zeigt, dass Städte nicht unbedingt bahnbrechende Technologien nutzen müssen, um für Nachhaltigkeit zu sorgen, sondern auch viele kleinere Initiativen helfen können[^6].
+ 
 
 ![Beispielabbildung](Nachhaltige_Projekte/test-file.jpg)
 
