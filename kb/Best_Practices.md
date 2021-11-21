@@ -19,10 +19,10 @@ Im Projekt ist es sehr wichtig mögliche Risiken zu identifizieren, einzuschätz
 ## 4. Detaillierter Projektplan:
 Der Projektplan soll zur Organisation von Aufgaben und Verantwortlichkeiten dienen. Hierzu sind neben Zeit, Budget und Umfang auch Ziele und Probleme in die [Projektplanung](kb/Projektplanung.md) zu integrieren. Bei der Verteilung von Aufgaben auf Ebene einzelner Arbeitspakete ist es wichtig darauf zu achten, dass diese in vorgegebener Zeit erledigt werden können.  Überarbeitung und Demotivation können dadurch verhindert werden. Ein ständiges Monitoring des Projektfortschritts ist hierfür hilfreich.[^2]
 Der beigefügte Arbeitsplan zeigt beispielhaft von oben nach unten abgebildet die jeweiligen Projektphasen inklusive jeweiliger Arbeitspakete und weiteren Informationen wie dem Zuständigen, dem Status und das Enddatum des Arbeitspakets. Von links nach rechts wird der geplante zeitliche Verlauf des Projekts abgebildet.
-![IC-Work-Plan-Template-GERMAN.png](Best_Practices/IC-Work-Plan-Template-GERMAN.png)
+![IC-Work-Plan-Template-GERMAN.png](Best_Practices/IC-Work-Plan-Template-GERMAN.png) [^3]
 
 ## 5. Schriftliche Dokumentation:
-Das schriftliche Festhalten von allen Informationen ist in einem Projekt ein sehr wichtiges Instrument um sicherzustellen, dass den Stakeholdern für sie relevante Daten zur Verfügung stehen. Des Weiteren kann die [Projektdokumentation](kb/Projektdokumentation.md) später dazu dienen Entscheidungen zu treffen oder nachzuvollziehen, warum bestimmte Entscheidungen getroffen wurden.[^3] 
+Das schriftliche Festhalten von allen Informationen ist in einem Projekt ein sehr wichtiges Instrument um sicherzustellen, dass den Stakeholdern für sie relevante Daten zur Verfügung stehen. Des Weiteren kann die [Projektdokumentation](kb/Projektdokumentation.md) später dazu dienen Entscheidungen zu treffen oder nachzuvollziehen, warum bestimmte Entscheidungen getroffen wurden.[^4] 
 
 ## 6. Definierte Start- und Endpunkte:
 Zu Beginn eines Projekts sollte ein [Projekt_Kick_Off](kb/Projekt_Kick_Off.md) abgehalten werden. Das bietet die Gelegenheit in einer Veranstaltung alle Projektbeteiligten zu versammeln, sich kennenzulernen und auf das gemeinsame Arbeiten einzustimmen.[^2] Nach dem Projektende wiederum ist der Moment erreicht, an dem es Zeit ist zu analysieren wie das Projekt abgelaufen ist, welche Fehler gemacht worden sind und was gut gelaufen ist. Hier sollten erneut alle Projektbeteiligten in einer Besprechung zusammengebracht werden, um deren Ansichten über Erfolge und Misserfolge zu sammeln. Ziel ist es die [Lessons_learned](kb/Lessons_learned.md) zu nutzen, um nächste Projekte zu optimieren und ggf. neue Best Practices zu formulieren. Dadurch können idealerweise auch Kosten und Zeit gespart werden.[^1]
@@ -32,6 +32,6 @@ Zu Beginn eines Projekts sollte ein [Projekt_Kick_Off](kb/Projekt_Kick_Off.md) a
 
 [^1]: https://www.wrike.com/de/blog/10-best-practices-im-projektmanagement/
 [^2]: https://www.pebco.ag/impuls/projektmanagement-9-best-practices-zur-steigerung-der-erfolgschancen-ihrer-projekte/ 
-[^3]: https://www.wrike.com/de/blog/projektmanagement-best-practices-infografik/
-
+[^3]: https://de.smartsheet.com/top-excel-project-plan-templates 
+[^4]: https://www.wrike.com/de/blog/projektmanagement-best-practices-infografik/
 
