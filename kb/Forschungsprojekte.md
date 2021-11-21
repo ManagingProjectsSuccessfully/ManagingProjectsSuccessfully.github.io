@@ -44,14 +44,6 @@ Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter)
 
 *lustiges Testbild*
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 # Klassisch vs. Agil
@@ -66,15 +58,13 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 | Wichtigkeit der Dokumentation | **Ja**  | Nein |
 | Selbstorganisation der Projektteams | Nein  | **Ja** |
 | klar definierte Kosten | **Ja**  | Nein |
-| klar definierte Projektdauer | Ja  | **Nein** |  [^3]
+| klar definierte Projektdauer | **Ja**  | Nein | 
 
-#Aktuelle Forschungsprojekte
+[^3]
+
+# Aktuelle Forschungsprojekte
 
 ## Hier gleich noch eine Ebene-2-Überschrift 
-
-1. das
-2. hier 
-
 
 # Siehe auch
 
@@ -92,6 +82,6 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 
 [^1]: [Forschungsprojekte](https://de.wikipedia.org/wiki/Forschungsprojekt)
 [^2]: [Projektmanagement der Forschung](https://www.projektmagazin.de/artikel/projektmanagement-der-forschung_6806)
-[^3]: [Über das Projektmanagement in der Forschung](https://www.teamwille.com/aktuelles/detail/ueber-das-projektmanagement-in-der-forschung/)
+[^3]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/)
 [^4]: [Projektlösungen](https://www.theprojectgroup.com/de/ms-project-loesungen/projektmanagement-forschung)
 
