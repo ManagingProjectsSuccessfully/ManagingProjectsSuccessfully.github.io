@@ -14,7 +14,7 @@ anrechnung: k
 Storytelling ist eine weit verbreitete Erzählmethode der Rhetorik, welche in vielen verschiedenen Bereichen ihre Anwendung findet. Sei es die Religion, in der Psychotherapie oder als generelle Kunstform. Auch in Unternehmen findet das Storytelling ihren Nutzen, wobei es im Folgenden um das Storytelling im Projektmanagement gehen soll[^2].
 
 
-# Was ist Storytelling im Projektmanagement?
+## Was ist Storytelling im Projektmanagement?
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
