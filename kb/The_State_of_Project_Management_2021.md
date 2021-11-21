@@ -5,6 +5,11 @@ author: michaelstnt
 anrechnung: k 
 ---
 
+________________________________________________________________________________________________________________
+Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
+oben im Front-Matter (Bereich zwischen den `---`).
+
+
 "The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation [Wellingtone](https://wellingtone.co.uk/). In dem Bericht werden zahlreiche namenhafte Unternehmen [^1] aus verschiedenen Sektoren interviewet, um den aktuellen Probleme, Entwicklungen des Projektmanagement als auch Mehtoden und Ansätze für die Zukunft zu präsentieren, die wiederum Unternehmen dazu bewegen sollen ihre Prozesse im Projektablauf zu hinterfragen und mit neuen Techniken effizenter zu gestalten. 
 
 Im Allgemeinen zeichnet sich seit mehereren Jahren ab, dass beim Project Management über die Performance nachlässt und sowohl Durchführung als auch der Erfolg des Projekt zunehmend abnimmt. Durch die Analyse, Auswertung & Darstellung bestimmter Fragen wird die aktuelle Entwicklung dargestellt, Maturity Levels spiegeln Leistungen wieder und durch sogenannte Key Drivers wird beschrieben, welche Faktoren wichtig sind, damit das Projekt Management erfolgreich ist.[^2][^3]
@@ -63,38 +68,6 @@ Die Beratung ermöglicht dem Unternehmen unterstüzende Hilfestellung im Bezug a
 
 Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in verschiedensten Situationen. So sind Halbleiter bis heute noch knapp und Lieferverzögerungen sind mittlerweile Normaität. Daraus zeichnet sich ab, dass Flexibiltät und Resilienz entscheidene Faktoren sind. So zeichnen sich Trends ab wie der Wunsch nach vollständiger Ressourcenplanung, dass feste Teams bessere Ergebnisse erzielen oder auch, dass klassische und agile Tools parallel betrieben werden sollen. [^12] Darüberhinaus glauben 71%, dass Menschen mehr Projektmanagement Skills haben sollten und auch in Zukunft immer mehr Projekte mithilfe von Methoden des Projektmanagements erfolgen. [^2]
 
-
-________________________________________________________________________________________________________________
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^10]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
@@ -118,10 +91,4 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 [^10]: [Cpability Maturity Model](https://de.wikipedia.org/wiki/Capability_Maturity_Model)
 [^11]: [Projektmanagement Reifegrad](https://quality-engineering.industrie.de/allgemein/projektmanagement-reifegrad-2/#slider-intro-1)
 [^12]: [Die 12 wichtigsten Projektmanagement-Trends 2021](https://www.theprojectgroup.com/blog/projektmanagement-trends/)
-
-
-Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
