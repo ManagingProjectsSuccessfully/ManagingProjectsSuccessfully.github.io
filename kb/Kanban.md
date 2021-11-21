@@ -41,7 +41,7 @@ Man kann mit dem Aufbau des Kanban-Systems beginnen, indem man das einfachste [K
 
 ![Beispielabbildung](Kanban/Kanban_board-elements.png)
 
-*[Kanban-Board](Kanban_Boards.md)*
+*[Kanban-Board](Kanban_Boards.md)[^4]*
 
 Wenn es richtig aufgebaut, verwaltet und funktioniert, dient es als Echtzeit-Informationsspeicher, der Engpässe innerhalb des Systems und alles andere aufzeigt, 
 was eine reibungslose Arbeitspraxis stören könnte[^4].
