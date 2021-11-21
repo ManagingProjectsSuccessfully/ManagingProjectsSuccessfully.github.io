@@ -89,12 +89,13 @@ Eine Kosten-Nutzen-Analyse ist für eine [erfolgreiche Umsetzung von Projektziel
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kosten_Nutzen_Analyse.md)
+* [Ressourcenplanung](Ressourcenplanung.md)
+* [Kostenplanung](Kostenplanung.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Erfolgsmessung im Projektmanagement](https://books.google.de/books?hl=de&lr=&id=4kPIHKKHfCEC&oi=fnd&pg=PA7&dq=kosten+nutzen+analyse+projektmanagement&ots=PyrPUX18Rh&sig=CejH8p9z8ulZOxnk81A1ToNdyAM&redir_esc=y#v=onepage&q=kosten%20nutzen%20analyse%20projektmanagement&f=false)
+* [Wirtschaftlichkeitsanalysen](https://www.informationsmanagement-buch.org/index.php/2-uncategorised/80-wirtschaftlichkeitsanalyse-wirta)
 
 # Quellen
 
