@@ -13,43 +13,53 @@ Die Nutzwertanalyse (kurz: NWA; aber auch Punktwertverfahren, Punktbewertungsver
 Im Rahmen von Projekten ist es notwendig, Entscheidungen hinsichtlich vieler Details zu treffen. Dies beginnt bereits bei der Entscheidung für oder gegen ein bestimmtes Projekt, geht weiter zur Auswahl der geeigneten Mitarbeiter, Make-Or-Buy-Entscheidungen, Auswahl von Kooperationspartnern, Ressourcen, bis hin zu letzendlichen, direkt das Ergebnis beeinflussenden Entscheidungen. Um eine transparente, nachvollziehbare und schnelle Entscheidung zu gewährleisten, haben sich verschiedene Maßnahmen etabliert. 
 Eine dieser Maßnahmen ist die „Nutzwertanalyse“.[^2]
 
-# Methode
+# Vorgehen
 
 Prinzipiell ist die Nutzwertanalyse eine Methode zur Auswahl von Optionen. Die Methode folgt einer 6-Schritte-Anleitung:[^3]
 
-## Schritt 1: Festlegung der Alternativen bzw. Entscheidungsvarianten
+## 6-Schritte der NWA
+
+### Schritt 1: Festlegung der Alternativen bzw. Entscheidungsvarianten
 Die verschiedenen Varianten werden gesammelt und festgehalten. Es ist hilfreich, wenn diese Liste nicht allzu lang wird, weil die Methode sonst sehr aufwändig wird. Mit 2-5 Alternativen bist du gut aufgestellt.
 
-## Schritt 2: Definition von Bewertungskriterien
+### Schritt 2: Definition von Bewertungskriterien
 Es werden die Kriterien festgelegt, anhand derer eine Entscheidung getroffen werden soll. Diese Kriterien sind häufig Anforderungen an das Produkt oder zu erreichende Ziele. Hier entsteht meist eine Liste von bis zu 10 Kriterien.
 
-## Schritt 3: Gewichtung der Bewertungskriterien
+### Schritt 3: Gewichtung der Bewertungskriterien
 Jedem Kriterium wird ein Prozentsatz hinterlegt, der die Wichtigkeit des Kriteriums belegt. Die Summe der Einzelgewichtungen muss 100% ergeben.
 
-## Schritt 4: Festlegung des Bewertungsmaßstabs
+### Schritt 4: Festlegung des Bewertungsmaßstabs
 Die einzelnen Kriterien werden mit Punkten bewertet. Um hier eine Eindeutigkeit sicherzustellen, muss der Bewertungsmaßstab genau definiert werden, z.B. 5 Punkte = sehr gut, 1 Punkt = mangelhaft.
 
-## Schritt 5: Bewertung der Alternativen
+### Schritt 5: Bewertung der Alternativen
 Hier erfolgt die eigentliche Bewertung: Pro Kriterium und Alternative werden Punkte vergeben und die gewichteten Punkte berechnet.
 
-## Schritt 6: Summierung und Auswahl
+### Schritt 6: Summierung und Auswahl
 Durch Summierung der Einzelgewichtungen ergibt sich die gewichtete Punktzahl pro Alternative. Die Alternative mit der höchsten Punktzahl entspricht den definierten Kriterien am besten.
 
 
-# Beispiel
+## Beispiel
+
+Veranschaulichen kann man die Vorgehensweise an einem einfachen Beispiel:[^5]
 
 
-# Vor- und Nachteile der Nutzwertanalyse
+# Vor- und Nachteile der Nutzwertanalyse[^1][^3]
 
+Die NWA hat sowohl Vorteile als auch Nachteile. 
 
-| First Header  | Second Header |
+| Vorteile  | Nachteile |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Transparenz der Entscheidungsgründe  | Subjektive Bewertung  |
+| Schriftlichkeit & Nachvollziehbarkeit  | Bei zu vielen Alternativen wird Methode zu aufwändig  |
+| Analyse in Teamarbeit gut möglich  | Verfälschung der Ergebnisse möglich durch Überlappungen von Alternativen  |
+| Vergleichbarkeit von Unvergleichbaren anhand gemeinsamer Kriterien  | Problem der Einigung bei mehreren Anwendern  |
+
+Hauptkritikpunkt an der NWA ist ihre Subjektivität. Um diese auszugleichen, ist es empfehlenswert die Analyse in einem Gruppenmeeting ( z.B. in einem Jour-Fixe) anzuwenden. Verschiedene Köpfe bringen verschiedene Sichtweisen ein, was das Gesamtergebnis ausgewogener und objektiver macht.[^4]
+
 
 # Weitere Anwendungsfelder
 
-Die Nutzwertanalyse findet nicht nur im Projektmanagement Anwendung. Sie wird in allen Bereichen genutzt, in denen eine Entscheidung auf Basis mehrerer quantitativer und qualitativer Kriterien getroffen werden muss. Dies ist unter anderem der Fall im Controlling, in der Volkswirtschaftslehree generell doer auch im Vergaberecht. [^1] 
+Die Nutzwertanalyse findet nicht nur im Projektmanagement Anwendung. Sie wird in allen Bereichen genutzt, in denen eine Entscheidung auf Basis mehrerer quantitativer und qualitativer Kriterien getroffen werden muss. Dies ist unter anderem der Fall im Controlling, in der Volkswirtschaftslehree generell oder auch im Vergaberecht. [^1] 
 
 
 
@@ -59,24 +69,6 @@ Die Nutzwertanalyse findet nicht nur im Projektmanagement Anwendung. Sie wird in
 
 *lustiges Testbild*
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -93,5 +85,6 @@ Die Nutzwertanalyse findet nicht nur im Projektmanagement Anwendung. Sie wird in
 [^1]: https://de.wikipedia.org/wiki/Nutzwertanalyse 
 [^2]: B.Sc Sven Jansen (Autor:in), 2008, Nutzwertanalyse im Projektmanagement, München, GRIN Verlag, https://www.grin.com/document/179719
 [^3]: https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/nutzwertanalyse/
-
+[^4]: https://www.braintool.com/blog/so-erstellen-sie-eine-nutzwertanalyse/
+[^5]: https://www.peterjohann-consulting.de/nutzwertanalyse/
 
