@@ -33,8 +33,11 @@ Im folgenden werde die zwei bekanntesten Techniken der Root-Cause-Analysis darge
 Kernidee diese Methode ist sich ausgehend von einem Problem fünf-mal die Frage "Warum?" zu stellen, um so an die eigentliche Ursache zu gelangen. 
 Nachdem ein zu untersuchendes Problem identifiziert und definiert wurde wird die Frage gestellt "Warum ist das passier?" bzw. "Welche Unter-Probleme könnten zu diesem Problem führen?". Als Resultat ergeben sich mehrere mögliche Faktoren, die zum Problem beitragen. Ist dies geschen wird wieder pro Faktor gefragt "Warum ist das passier?" bzw. "Welche Unter-Probleme könnten zu diesem Problem führen?", wobei sich hier wieder mehrere Faktoren aks Resultat ergeben. Insgesamt wird dies fünf mal ausgeführt und führt letzendlich zu einer Baumstruktur (siehe Abbildung 1) und mehreren möglichen Kernursachen. Häufig wird diese Technik zu Beginn eingesetz, um beispielsweise erste Brainstorming-Sessions zu strukturieren [^5].
 
+![Abbildung1](Root_Cause_Analysis/5-Why.png)
+
 ## Fischgrätendiagramm
 Das Fischgräten- oder auch Cause-Effect-Diagramm stellt die Bezeihung zwischen einem gegebenen negativen Efekt und potenziellen Ursachen dar. Wobei zwischen kausalen und beitragenden Ursachen unterschieden wird. Ersteres sind Faktoren, deren vorhanden sein direkt zu dem Fehler führen, während letzeres Faktoren sind deren vorhanden sein das Auftreten eines Fehlers wahrscheinlicher machen. Die besonderheit des Fischgrätendiagramms ist, dass Faktoren in Kategorien gruppiert werden, um sie zu strukturieren. Dabei ist zu beachten, dass die vorgeschlagenen Kategorien einen Rahmen bieten und nicht als obligatorisch gesehen werden sollen. Bekannte Kategorien sind z.B. Technologie, Methoden, Material, Personal, Milieu und Messung. Pro Kategorie können Ursachen wiederum in primäre und sekundäre aufgeteilt werden, um Ursachenketten zu identifizieren (siehe Abbildung 2) [^5].
+![Abbildung2](Root_Cause_Analysis/Fishbone.png)
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
