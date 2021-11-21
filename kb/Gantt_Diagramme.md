@@ -65,7 +65,7 @@ _Erstellt durch den Autor mittels Microsoft PowerBI_
 ## 2.3 Alternativen zur Gantt-Chart
 Mögliche Alternativen zur Gantt-Chart sind
 * Aufgabenlisten: Sie enthalten die zu einem Projekt gehörigen Aufgaben in Form einer Liste und zusätzliche Informationen, wie Start und Ende einer Aufgabe, Verantwortliche und Abhängigkeiten zwischen den Aufgaben[^7], [^8].
-* Flussdiagramme: Flussdiagramme visualisieren die Aktivitäten und weitere Informationen des Projekts in der Reihenfolge, in der sie ausgeführt werden sollen [^9].
+* Flussdiagramme: Flussdiagramme visualisieren die Aktivitäten und weitere Informationen des Projekts in der Reihenfolge, in der sie ausgeführt werden sollen [^9]. <br>
 _Beispiel Flussdiagramm_
 ![Abb](Gantt_Diagramme/Flussdiagramm-Umzug.PNG)
 _Erstellt durch den Autor_
