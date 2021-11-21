@@ -6,8 +6,10 @@ anrechnung: a
 ---
 
 Kanban gehört als Methode zur Produktionsprozesssteuerung[^1]. Produktionsprozesssteuerung befasst sich mit der Betriebs-, Zeit-, Mengen- und Raumplanung, -steuerung sowie der Steuerung aller für die Warenproduktion erforderlichen Prozesse[^2].
+Kanban ist eine Umsetzung des unter den Synonym [Pull-Prinzip](Kanban_Pull_Prinzip.md) bekannten Steuerungsverfahrens[^1].
+
 Das Kanban-Verfahren basiert vollständig auf dem tatsächlichen Materialverbrauch an den Versorgungs- und
-Verbrauchsstellen[^1]. Kanban kann den lokalen Bestand an Vorprodukten in und in der Nähe der Produktion reduzieren, 
+Verbrauchsstellen[^1]. Es kann den lokalen Bestand an Vorprodukten in und in der Nähe der Produktion reduzieren, 
 die in der nächsten Integrationsstufe installiert werden[^1].
 
 Kanban in Bezug auf Projektmanagement ist einer der einfachsten und am schnellsten umsetzbaren Prozesse im agilen Projektmanagement und zusammen mit Scrum in vielen Unternehmen sehr beliebt[^3]. Zum einen lassen sich alle Arbeitsschritte und Workflows einfach in einen übersichtlichen Plan einfügen, strukturieren und Schritt für Schritt abarbeiten[^3]. Andererseits kann die Verwendung des entsprechenden Kanbans die Aufgabe für alle Projektbeteiligten sichtbar machen[^3].
@@ -16,65 +18,41 @@ Kanban in Bezug auf Projektmanagement ist einer der einfachsten und am schnellst
 
 Diese Methode wurde 1947 von Toichi Ōno für den Automobilkonzern Toyota entwickelt[^3]. 
 So entwickelte Ōno aufgrund von teueren Speicherplätzen ein Konzept zur kurzfristigen Terminplanung und Bestandsreduzierung[^3]. 
-Als Orientierung diente hier das Beispiel Supermarkt-Einkauf: Wenn Sie eine bestimmte Art und Menge an Waren aus dem Regal nehmen, 
+Als Orientierung diente hier das Beispiel Supermarkt-Einkauf: Wenn eine bestimmte Art und Menge an Waren aus dem Regal genommen wird, 
 werden diese schnellstmöglich entsprechend nachgefüllt[^3].
-Bei der Übergabe an den Produktionsprozess gibt es Karten mit Kanbans: Mit Hilfe von Kanbans sendet eine Abteilung ein Signal an die vorgelagerte Abteilung,
-um der vorgelagerten Abteilung mitzuteilen, welche Nummer und welches Produkt reproduziert werden soll[^3]. 
-Kanban bedeutet auf Japanisch so viel wie eine "Karte" oder "Tafel"[^3]. Das System wurde in Japan schnell erfolgreich und gelangte schließlich in den 1970er Jahren in die Vereinigten Staaten und in Europa[^3].
 
-# Aspekt 1
+Im übertragenen Sinn auf Produktionsprozess gibt es [Kanban-Karten](Kanban_Karten.md): Mit Hilfe derer wird ein Signal an die vorgelagerte Abteilung gesendet,
+um ihnen mitzuteilen, welche Anzahl und welches Produkt reproduziert werden soll[^3]. 
+Kanban bedeutet auf Japanisch so viel wie eine "Karte" oder "Tafel"[^3]. 
+Das System wurde in Japan schnell erfolgreich und gelangte schließlich in den 1970er Jahren in die Vereinigten Staaten und in Europa[^3].
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Zu Beginn des 21. Jahrhunderts sahen die großen Akteure der Softwarebranche schnell, wie Kanban aktiv die Art und Weise verändert, wie Produkte und Dienstleistungen bereitgestellt werden[^4]. 
+Mit der zunehmenden Aufmerksamkeit für Effizienz und den Einsatz von Computertechnologie hat Kanban den Automobilbereich verlassen und wurde erfolgreich auf andere komplexe Geschäftsfelder wie IT, Softwareentwicklung sowie Forschung und Entwicklung angewendet[^4]. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Tatsächlich wurde Anfang 2007 unsere heute anerkannte Kanban-Methode geboren[^4]. Dies ist das Ergebnis jahrelanger Tests, Erfahrung und Zusammenarbeit von Führungskräften in der Lean und Agil Community (wie David Aderson, Dan Vacanti, Darren Davis, Corey Ladas, Dominica DeGrandis, Rick Garber usw.)[^4].
 
-![Beispielabbildung](Kanban/test-file.jpg)
+# Aufbau des Kanban-Systems
 
-*lustiges Testbild*
+Man kann mit dem Aufbau des Kanban-Systems beginnen, indem man das einfachste [Kanban-Board](Kanban_Boards.md) mit drei grundlegenden Spalten einrichten:
 
-# Aspekt 2
+* „Angefordert“
+* „In Bearbeitung“
+* „Fertig“
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+![Beispielabbildung](Kanban/Kanban_board-elements.png)
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+*Kanban-Board*
 
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Wenn es richtig aufgebaut, verwaltet und funktioniert, dient es als Echtzeit-Informationsspeicher, der Engpässe innerhalb des Systems und alles andere aufzeigt, 
+was eine reibungslose Arbeitspraxis stören könnte[^4].
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kanban.md)
+* [Kanban_Pull_Prinzip](Kanban_Pull_Prinzip.md)
+* [Kanban_Work_in_Progress](Kanban_Work_in_Progress.md)
+* [Kanban_Karten](Kanban_Karten.md)
+* [Kanban_Boards](Kanban_Boards.md)
+* [Kanban_Swim_Lanes](Kanban_Swim_Lanes.md)
 
 # Weiterführende Literatur
 
@@ -86,5 +64,5 @@ https://www.youtube.com/watch?v=iVaFVa7HYj4 - Atlassian
 [^1]: https://de.wikipedia.org/wiki/Kanban
 [^2]: https://de.wikipedia.org/wiki/Produktionsplanung_und_-steuerung
 [^3]: https://magazin.weka-elearning.de/kanban
-[^4]: 
+[^4]: https://kanbanize.com/kanban-resources/getting-started/what-is-kanban
 
