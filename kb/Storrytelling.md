@@ -23,12 +23,11 @@ Geschichten haben meistens eine tieferen Sinn. Durch das Storytelling wird versu
 * Übertragung von Lebensweisheiten
 * Vermittlung von Werten und Normen
 
+Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführung der Mitarbeiter als Projektmanager kann man seine Kollegen und Mitarbeiter durch eine gut erzählte Geschichte mit Vermittlung von relevanten Projekt-bezogenen Inhalten, die Projektinvolvierten abholen und ihnen den Sinn und die Wichtigkeit des Projekts nahe bringen. Dadurch kann man deren intrinsische Motivation steigern, was sowohl für die Mentalität der Mitarbeiter förderlich ist, als auch diese produktiver arbeiten lässt[^1]. 
 
-![Beispielabbildung](Storrytelling/test-file.jpg)
 
-*lustiges Testbild*
 
-# Aspekt 2
+## Praktische Anwendung
 
 * das
 * hier 
@@ -36,6 +35,11 @@ Geschichten haben meistens eine tieferen Sinn. Durch das Storytelling wird versu
 * eine 
 * Punkteliste
   - mit unterpunkt
+
+![Beispielabbildung](Storrytelling/test-file.jpg)
+
+*lustiges Testbild*
+
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
