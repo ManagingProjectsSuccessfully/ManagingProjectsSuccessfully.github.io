@@ -2,16 +2,8 @@
 title: Oeffentliche_Projekte
 tags: agil klassisch
 author: AbleAn
-anrechnung: k oder a
+anrechnung: k 
 ---
-
-Kurzbeschreibung zu Oeffentliche_Projekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-
-
 
 
 
