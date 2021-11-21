@@ -57,14 +57,14 @@ Hauptgedanke ist, Projektergebnis und Prozesse nachhaltig zu gestalten
 In der ökonomischen Dimension steht der finanzielle Aspekt stark im Vordergrund
 
 - Beschäftigung von regionalen Arbeitskräften mit angemessener Bezahlung
-- Beim entwickeln von neuen Produkten, möglichst auf regionale Lieferanten zurückgreifen
+- beim entwickeln von neuen Produkten, möglichst auf regionale Lieferanten zurückgreifen
 
 
 Soziale Dimension
 
 Die soziale Dimension beschreibt den Umgang mit Stakeholdern und Beziehungen zu relevanten Umwelten
 
-- Hochqualifizierte Mitarbeiter, um Arbeitsunfälle zu vermeiden
+- hochqualifizierte Mitarbeiter, um Arbeitsunfälle zu vermeiden
 - Mitarbeiterentwicklung als gesondertes Ziel betrachten. Schulungen zur interkulturellen und digitalen Kompetenz sind 
 ausschlaggebend für den Projekterfolg[^5]
 
