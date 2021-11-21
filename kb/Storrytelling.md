@@ -11,8 +11,7 @@ anrechnung: k
 
 # Storytelling
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Storytelling ist eine weit verbreitete Erzählmethode der Rhetorik, welche in vielen verschiedenen Bereichen ihre Anwendung findet. Sei es die Religion, in der Psychotherapie oder als generelle Kunstform. Auch in Unternehmen findet das Storytelling ihren Nutzen, wobei es im Folgenden um das Storytelling im Projektmanagement gehen soll[^2].
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -98,3 +97,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: [Storytelling im Projektmanagement](https://zistemo.de/blog/storytelling-im-projektmanagement/)
 [^2]: [Storytelling: Definition, Aufbau, 10 Tipps + 3 Beispiele](https://karrierebibel.de/storytelling/)
 [^3]: [Storytelling – durch Erzählen zum Projekterfolg](https://docplayer.org/31538949-Storytelling-durch-erzaehlen-zum-projekterfolg.html)
+[^3]: [Storytelling (Methode)](https://de.wikipedia.org/wiki/Storytelling_(Methode))
