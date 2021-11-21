@@ -1,89 +1,63 @@
 ---
 title: PMBOK_Guide
-tags: agil klassisch
+tags: klassisch
 author: FerYilm
-anrechnung: k oder a
+anrechnung: k
 ---
+Der erstmals 1996 veröffentlichte PMBOK- Guide (A Guide to the Project Management Body of Knowledge) gilt als das zentrale Nachschlagwerk des [PMI]( ManagingProjectsSuccessfully.github.io/kb/PMI_Institution.md ) und ist der vom ANSI und IEEE anerkannte Standard des Projektmanagements. Neben [PRINCE2](
+ManagingProjectsSuccessfully.github.io/kb/PRINCE2.md) und IPMA ICB gehört der PMBOK Guide zu bekanntesten klassischen Methoden im [Projektmanagement](ManagingProjectsSuccessfully.github.io/kb/Projektmanagement.md).
+Die vom PMI angebotene PMP [Zertifizierung]( ManagingProjectsSuccessfully.github.io/kb/Zertifizierungen.md ) baut u.a. auf dem Guide auf und gilt daher als wichtiges Referenzdokument [^1].
 
-Kurzbeschreibung zu PMBOK_Guide um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Aufbau des PMBOK-Guides
+Das Handbuch wird inhaltlich in den Standard und einen Leitfaden für das Projektmanagement gegliedert. Mit der 7. Edition, die 2021 erschienen ist, wurden unter Berücksichtigung der technologischen und wirtschaftlichen Entwicklungen grundlegende Änderungen vorgenommen. Diese sollen aktuelle Herausforderungen im Projektmanagement besser widerspiegeln und Projektmanagern mehr Flexibilität und verbesserte Handlungsmöglichkeiten auf Marktveränderungen erlauben.
+Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer prozessorientierten Methodik, sondern auf Werten und Prinzipien. Zudem wurden die 10 Wissensgebiete (Knowledge Areas) und die fünf Prozessgruppen durch das Wertschöpfungssystem, die Grundsätze und Projekt-Leistungsbereichen ersetzt. [^2]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Gegenüberstellung der Struktur
 
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](PMBOK_Guide/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
+|Leitfaden| Standard |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+![]()
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# Inhalt des Standards
 
-### Ebene-3-Überschrift
+## Wertschöpfungssystem (System for Value Delivery) [^3]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Verschiedene Faktoren können, wenn sie in / zu? einem System kombiniert werden, dazu beitragen, je nach Organisationsstrategie einen bestimmten Wert zu schaffen. Zu diesen Komponenten gehören u.a. Portfolios, Programme und Produkte. Damit die Übereinstimmung mit der Strategie und eine optimale Anpassung an das Umfeld gewährleistet sind, sollte zwischen den beteiligten Elementen ein regelmäßiger Austausch von Informationen stattfinden. Das sog. Governance System unterstützt dabei das Wertschöpfungssystem und stellt einen Rahmen für verschiedene Funktionen wie Aufsicht, Kontrolle und Entscheidungsfindung dar. Diese Funktionen können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik/treibende Kraft der [Projektmitarbeiter](ManagingProjectsSuccessfully.github.io/kb/Projektmitarbeiter.md) und schreibt keinen Führungsansatz vor. Deshalb ist v.a die regelmäßige Kooperation zwischen Mitgliedern und Stakeholdern entscheidend für den Projekterfolg, unabhängig davon, ob eine zentrale Koordination oder eine Selbstorganisation Anwendung findet. Jedes Projekt wird zudem von seinem internen Umfeld (z.B. Datenbestände, Verfügbarkeit von Ressourcen, Mitarbeiterkompetenz) als auch vom externen (z.B. Marktbedingungen, soziokulturelle Einflüsse, Gesetzgebungen) günstig, ungünstig oder neutral beeinflusst. 
 
-# Aspekt n
+## Grundsätze des Projektmanagements (Project Management Principles) [^4]
+Die Grundsätze wurden in Kooperation mit einer globalen Gemeinschaft von Projektspezialisten verschiedener kultureller und beruflicher Hintergründe erstellt. Sie ergänzen den Code of Ethics and Professional Conduct des PMI und sind nicht präskritpiv. Projektteams sollen sich lediglich an den Grundsätzen orientieren. Die Prinzipien sind konsistent, können sich aber untereinander oder mit allgemeinen Managementprinzipien überschneiden. Die Grundsätze snid ohne besondere Gewichtung aufgelistet.
+* Stewardship: 
+* Team
+* Stakeholders
+* Value
+* System Thinking
+* Leadership
+* Tailoring
+* Quality
+* Complexity
+* Risk
+* Adaptability and Resiliency
+* Change
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+
+# Leitfaden
+
+## Projekt-Leistungsbereiche (Project Performance Domains)
+
+Zusammenhängende Aktivitäten, die zu erfolgreichen Projektergebnisse beitragen, werden zu acht Project Performance Domain gezählt/zusammengefasst. Aufgrund der gegenseitigen Abhängigkeit der Bereiche stellen sie ein integriertes System dar und sind durch einen simultanen Ablauf gekennzeichnet. Der genaue Zusammenhang der Bereiche kann je nach Projekt variieren, ist jedoch grundsätzlich immer vorhanden. Eine isolierte Betrachtung der Bereiche ist deshalb nicht vorgesehen. Abhängig von der Organisation, des Projektteams, der Ziele und anderen Faktoren setzen sich die speziellen Aufgaben innerhalb jedes Bereichs zusammen.
+
+*	Stakeholders
+*	Team
+*	Development Approach and Life Cycle
+*	Planning
+*	Project Work
+*	Delivery
+*	Measurement 
+*	Uncertainty
 
 
 # Siehe auch
@@ -97,8 +71,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]https://www.inloox.de/unternehmen/blog/artikel/kurz-und-knapp-das-ist-neu-beim-pmbok-guide-edition-7/
+
+[^2]https://www.tiba-business-school.de/pmbok-guide-7-ausgabe-ueberblick/
+
+[^3]PMBOK Guide
 
