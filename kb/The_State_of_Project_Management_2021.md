@@ -12,13 +12,13 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 "The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation [Wellingtone](https://wellingtone.co.uk/). In dem Bericht werden zahlreiche namenhafte Unternehmen [^1] aus verschiedenen Sektoren interviewet, um den aktuellen Probleme, Entwicklungen des Projektmanagement als auch Mehtoden und Ansätze für die Zukunft zu präsentieren, die wiederum Unternehmen dazu bewegen sollen ihre Prozesse im Projektablauf zu hinterfragen und mit neuen Techniken effizenter zu gestalten. 
 
-Im Allgemeinen zeichnet sich seit mehereren Jahren ab, dass beim Project Management über die Performance nachlässt und sowohl Durchführung als auch der Erfolg des Projekt zunehmend abnimmt. Durch die Analyse, Auswertung & Darstellung bestimmter Fragen wird die aktuelle Entwicklung dargestellt, Maturity Levels spiegeln Leistungen wieder und durch sogenannte Key Drivers wird beschrieben, welche Faktoren wichtig sind, damit das Projekt Management erfolgreich ist.[^2][^3]
+Im Allgemeinen zeichnet sich seit mehereren Jahren ab, dass beim Project Management über die Performance nachlässt und sowohl Durchführung als auch der Erfolg des Projekt zunehmend abnimmt. Durch die Analyse, Auswertung & Darstellung bestimmter Fragen wird die aktuelle Entwicklung dargestellt, Maturity Levels spiegeln Leistungen wieder und durch sogenannte Key Drivers wird beschrieben, welche Faktoren wichtig sind, damit das Projektmanagement erfolgreich ist.[^2][^3]
 
 Das Berichtschema der Organisation [Wellingtone](https://wellingtone.co.uk/) wird im Nachfolgenden mit den wichtigsten Aspekten wiedergegeben. 
 
 # Project Management Basics:
 
-Unter den Project Management Basics sind Fragen zu verstehen, die Aufschluss über aktuelle Entwicklungen im Projekt Management wiederspiegeln und allgemeine Kennzahlen darstellen. So wird im Bericht 2021 festgestellt, ob mit einer festgelegten Methode und Zeitplan, einem Planungsprotokoll und mit möglichen Risikomanagement gearbeitet wird. [^2] Mit Hilfe dieser Fragen können Schlussfolgerungen über ein mögliches Verbesserungspotenzial als auch die Entwicklungsrichtung von Projekt Management dargestellt werden
+Unter den Project Management Basics sind Fragen zu verstehen, die Aufschluss über aktuelle Entwicklungen im Projektmanagement wiederspiegeln und allgemeine Kennzahlen darstellen. So wird im Bericht 2021 festgestellt, ob mit einer festgelegten Methode und Zeitplan, einem Planungsprotokoll und mit möglichen Risikomanagement gearbeitet wird. [^2] Mit Hilfe dieser Fragen können Schlussfolgerungen über ein mögliches Verbesserungspotenzial als auch die Entwicklungsrichtung von Projekt Management dargestellt werden
 
 So wird im diesjährigen Bericht mit Hilfe eines Diagramme Rückschlüsse gewonnen, die aufzeigen, welche Aufgaben die größten Herausforderungen mit dem damit zusammenhängenden Wert im Portfolio des Projektmanagements haben.
 
@@ -28,7 +28,7 @@ So wird im diesjährigen Bericht mit Hilfe eines Diagramme Rückschlüsse gewonn
 
 # Maturity Levels:
 
-Mit Hilfe der fünf Maturity Levels wird die Reife des Projekt Managements genauer beschrieben. Damit wird Unternehmen aufgezeigt, auf welchem Level sich einzelne Abschnitte im Projekt Management befinden, um hier besser anzugreifen & eine Entwicklung einzuleiten. [^10]
+Mit Hilfe der fünf Maturity Levels wird die Reife des Projektmanagements genauer beschrieben. Damit wird Unternehmen aufgezeigt, auf welchem Level sich einzelne Abschnitte im Projektmanagement befinden, um hier besser anzugreifen & eine Entwicklung einzuleiten. [^10]
 
 * Level 1: Beginnend
    - Beschreibt ein Projektmanagement, welches nicht vorhanden ist oder keine oder nur wenig vollständige Prozesse hat. Es werden kein Dokumente erhoben & sind ad-hoc geplant. Daraus resultiert, dass Erfolg oder Misserfolg, Kosten, Zeiten und Qualtität des Projekts von einzelnen Personen abhängig sind.
@@ -70,8 +70,11 @@ Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in versch
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](The_State_of_Project_Management_2021.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Risikomanagement](Risikomanagement.md)
+* [Projekt Management Office](Project_Management_Office.md)
+* [Methoden](Methoden.md)
+* [Zukunftswerkstatt](Zukunftswerkstatt.md)
 
 # Weiterführende Literatur
 
