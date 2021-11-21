@@ -31,8 +31,9 @@ Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, so
 
 Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird häufig Microsoft Excel benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt das Register Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2] 
 
+![Stakeholder Register Beispiel][Stakeholder Register Beispiel]
 
-![Stakeholder Register Beispiel](https://github.com/21Nila/ManagingProjectsSuccessfully.github.io/tree/main/kb/Stakeholder_Register/stakeholder-register.jpg "Stakeholder Register Beispiel")
+[Stakeholder Register Beispiel]: https://github.com/21Nila/ManagingProjectsSuccessfully.github.io/tree/main/kb/Stakeholder_Register/stakeholder-register.jpg "Stakeholder Register Beispiel"
 
 [RegisterBeispiel]: https://github.com/21Nila/ManagingProjectsSuccessfully.github.io/tree/main/kb/Stakeholder_Register/stakeholder-register "RegisterBeispiel"
 
