@@ -4,7 +4,7 @@ tags: agil
 author: CatPec
 anrechnung: a
 ---
-Die Stacey-Matrix, benannt nach ihrem Begründer Ralph Douglas Stacey, einem britischen Organisationstheoretiker und Managementprofessor, diente ursprünglich zur erleichterten Entscheidungsfindung in komplexen Situationen. Heutzutage hilft sie bei der Auswahl des passenden Projektmanagement-Ansatzes und bei der Findung des richtigen Methodenmixes, indem ein Verständnis für den Umfang des Projektes inklusive seiner Herausforderungen geschaffen wird [^1].
+Die Stacey-Matrix aus dem Jahr 1996, benannt nach ihrem Begründer Ralph Douglas Stacey, einem britischen Organisationstheoretiker und Managementprofessor, diente ursprünglich zur erleichterten Entscheidungsfindung in komplexen Situationen. Heutzutage hilft sie bei der Auswahl des passenden Projektmanagement-Ansatzes und bei der Findung des richtigen Methodenmixes, indem ein Verständnis für den Umfang des Projektes inklusive seiner Herausforderungen geschaffen wird [^1].
 
 # Die Stacey-Matrix im Projektmanagementkontext
 
@@ -19,25 +19,25 @@ Die horizontale Achse wird durch den Begriff "Technologie "beschrieben (in der A
 
 ![image](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stacey_Matrix/Stacey-Matrix-Stacey-1996-adapted-to-software-development.png)
 
-### Simpel
+### Simple Situationen
 
-Das Feld "Simple" beschreibt Projekte bei denen sowohl die Anforderungen als auch die Technologie klar und bekannt sind. Diese Projekte sind kaum der Gefahr von unvorhersehbaren Hindernissen ausgesetzt. Hierbei handelt es sich meist um einen Projekttyp, der in der Vergangenheit schon mehrfach bearbeitet wurde und die Bearbeitungsschritte weitgehend bekannt sind [^1]. Es lassen sich also "Best Practices" aus der Vergangenheit ableiten. Bei dieser Einordnung stellt das klassische Projektmanagement mit der Wasserfall- oder V-Methode die beste Herangehensweise dar [^4].
+Das Feld "Simple" beschreibt Projekte bei denen sowohl die Anforderungen als auch die Technologie klar und bekannt sind. Diese Projekte sind kaum der Gefahr von unvorhersehbaren Hindernissen ausgesetzt. Hierbei handelt es sich meist um einen Projekttyp, der in der Vergangenheit schon mehrfach bearbeitet wurde und die Bearbeitungsschritte weitgehend bekannt sind [^1]. Es lassen sich also "Best Practices" aus der Vergangenheit ableiten. Bei dieser Einordnung stellen klassische Prozesse die beste Herangehensweise dar. Projektmanagementmenthoden müssen hierbei oft nicht angewendet werden, da es sich um bekannte Abläufe handelt [^4].
 
-### kompliziert
+### Komplizierte Situationen
 
-Das zweite Feld,"complicated" genannt, beschreibt Projekte, bei denen die Anforderungen klar, die Technologien zur Zielerreichung aber nicht völlig bekannt sind. Dabei handelt es sich um "technisch komplizierte" Projekte [^1]. 
-Sind die Anforderungen unklar, die Technologie aber bekannt, liegen politisch/ sozial komplizierte Projekte vor. Es herrscht Uneinigkeit zwischen den Entscheidungspersonen. Viele offene Fragen lassen sich hierbei durch Analysen, Verhandlungen ("political decisionmaking") oder Beratung durch externe Experten klären ("judgemental decisionmaking")[^4]. Hier eignen sich sowohl klassische als auch agile Methoden, wobei zweitere vorgezogen werden.
+Das zweite Feld,"complicated" genannt lässt sich intern weiter unterteilen. Entweder können Projekte beschrieben werden, bei denen die Anforderungen klar, die Technologien zur Zielerreichung aber nicht hundertprozentig bekannt sind. Dabei handelt es sich um "technisch komplizierte" Projekte [^1]. 
+Sind die Anforderungen unklar, die Technologie aber bekannt, liegen "politisch/ sozial komplizierte" Projekte vor. Es herrscht Uneinigkeit zwischen den Entscheidungspersonen. Viele offene Fragen lassen sich hierbei durch Analysen, Verhandlungen ("political decisionmaking") oder Beratung durch externe Experten klären ("judgemental decisionmaking")[^4]. Hier eignen sich besonders klasische Methoden wie die Wasserfallmethode [^4].
 
-### komplex
-Das Feld, bei dem entweder die Technologien oder die Anforderungen überwiegend unbekannt sind, wird als "complex" bezeichnet. Bei komplexen Projekten existieren viele Risiken. Die einzelnen Phasen dieser Projekte sind zu Beginn nicht vorhersehbar[^1]. Hier steht deshalb vor allem Transparenz, Innovation, Kreativität sowie Flexibilität im Mittelpunkt. Das Projekt sollte daher in kurze Iterationen zerlegt werden, wobei die ständige Überwachung der einzelnen Schritte nie außer Acht gelassen werden darf. Erwünschte Ergebnisse werden dadurch durchgehend verfolgt und Fehlentwicklungen schnell korrigiert. Hier finden agile Vorgehensweisen, vor allem die Scrum-Methode Anwendung [^4].
+### Komplexe Situationen
+Im komplexen Umfeld ändern sich Technologien und Anforderungen ständig, Probleme sind nicht vorhersehbar und es existieren viele Risiken [^4]. Auch die einzelnen Phasen dieser Projekte sind zu Beginn nicht planbar[^1]. Hier steht deshalb vor allem Transparenz, Innovation, Kreativität sowie Flexibilität im Mittelpunkt. Das Projekt sollte daher in kurze Iterationen zerlegt werden, wobei die ständige Überwachung der einzelnen Schritte nie außer Acht gelassen werden darf. Erwünschte Ergebnisse werden dadurch durchgehend verfolgt und Fehlentwicklungen schnell korrigiert. Hier finden agile Vorgehensweisen, vor allem die [Scrum-Methode](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) Anwendung [^4].
 
-### chaotisch
-Chaotisch eingeordnete Projekte definieren sich durch völlig unklare Anforderungen und komplett unbekannte Technologien stellen eine enorme Herausforderung dar [^1]. Als Herangehensweise wird hier empfohlen, sich bereits von Projektbeginn ein gewisses Maß an Klarheit über die Anforderungen zu schaffen und die Projektziele vorab zu klären. Es müssen vorläufige Entscheidungen getroffen werden, um das Projekt in den "Komplex-Bereich" verschieben zu können. Agile Methoden hier sind besonders [Design Thinking](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Design_Thinking.md) , [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)  und [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) [^4].
+### Chaotische Situationen
+Chaotisch eingeordnete Projekte definieren sich durch völlig unklare Anforderungen und komplett unbekannte Technologien und stellen eine enorme Herausforderung dar [^1]. Als Herangehensweise wird hier empfohlen, sich bereits von Projektbeginn Klarheit über die Anforderungen zu schaffen und die Projektziele vorab zu klären. Es müssen vorläufige Entscheidungen getroffen werden, um das Projekt in den "Komplex-Bereich" verschieben zu können. Als agile Methoden eignen sich hier besonders [Design Thinking](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Design_Thinking.md) , [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)  und [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) [^1].
 
 # Kritik an der Stacey-Matrix
 
-Eine der größten Kritiken an der Stacey-Matrix ist, dass sie zu schnell fehlinterpretiert wird. Sie stellt laut Ralph Stacey keine Anleitung zur Findung der perfekten Projektmanagementmethode dar und wird oft auf eigene Interessen abgewandelt[^5].
-Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts ein sinnvolles Kriterium für die Wahl der Projektmanagementmethode geeignet ist[^3].
+Eine der größten Kritiken an der Stacey-Matrix ist, dass sie zu schnell fehlinterpretiert wird. Sie stellt keine Anleitung zur Findung der perfekten Projektmanagementmethode dar, wird aber mittlerweile als regelbasierte Normenstrategie missbraucht [^3]c. Der Ursprungsgedanke von Stacey jedoch war, die Auswirkung von Komplexität auf die Entscheidungsfindung darzustellen [^6].
+Auch wird mittlerweile generell hinterfragt, ob der Grad der Komplexität eines Projekts ein sinnvolles Kriterium für die Wahl der Projektmanagementmethode geeignet ist[^3].
 
 # Siehe auch
 
@@ -54,7 +54,8 @@ Auch wird mittlerweile hinterfragt, ob der Grad der Komplexität eines Projekts 
 [^2]: [Mit der Stacey-Matrix zur richtigen PM-Methode](https://www.projektmagazin.de/artikel/mit-der-stacey-matrix-zur-richtigen-pm-methode_1128468)
 [^3]: [Stacey-Matrix](https://www.projektmagazin.de/glossarterm/stacey-matrix)
 [^4]: [Ganz einfach die richtige Projektmanagement-Methode finden](https://erfolgreich-projekte-leiten.de/stacey-matrix/)
-[^5]: [Ralph D. Stacey](https://en.wikipedia.org/wiki/Ralph_D._Stacey)
+[^5]: [Vorsicht vor der Stacey Matrix! Die trügerische Sicherheit bei der Entscheidung für agile Frameworks](https://www.netzwerkknoten.com/vorsicht-vor-der-stacey-matrix-die-truegerische-sicherheit-bei-der-entscheidung-fuer-agile-frameworks)
+[^6]: [Der Fluch der Vier-Felder-Matrix](https://www.linkedin.com/pulse/der-fluch-vier-felder-matrix-niels-pflaeging)
 
 
 
