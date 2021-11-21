@@ -14,8 +14,8 @@ Unvorhergesehene berücksichtigt.[^2]
 
 # Begriffsherleitung
 
-Der englische Ausdruck [Sustainability](https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf) kann aus dem Lateinischen von den Wörtern "sustineo" und "habilitas" abgeleitet werden, welche
-die Bedeutung "erhalten, bewahren" und "Geschicklichkeit, Fähigkeit" besitzen. Zusammengesetzt kann Sustainability als Fähigkeit verstanden
+Der englische Ausdruck [Sustainability](https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf) kann aus dem Lateinischen von den Wörtern "„sustineo" und „habilitas" abgeleitet werden, welche
+die Bedeutung „erhalten, bewahren" und „Geschicklichkeit, Fähigkeit" besitzen. Zusammengesetzt kann Sustainability als Fähigkeit verstanden
 werden, etwas zu erhalten.[^3]
  
 
