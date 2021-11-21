@@ -5,7 +5,6 @@ author: GiuliaAng
 anrechnung: k
 ---
 
-# Interne Synergieeffekte
 
 ### Definition: Synergieeffekt
 
@@ -14,13 +13,13 @@ Ein Synergieeffekt ist eine positive Wirkung oder Resultat, welches durch einen 
 ## Wobei entstehen Synergieeffekte
 
 Synergieeffekte können durch verschiedene Kooperationen entstehen. Am Anfang solcher Kooperationen stehen oft Merger & Aquisition-Projekte, kurz M&A-Projekte. Damit sind generell Unternehmensfusionen oder -übernahmen gemeint. [^1]
-Sinnvoll ist ein solches M&A-Projekt erst dann, wenn es interessante Überschneidungen zwischen den Produkten, Dienstleistungen oder Aktionsfeldern zwischen den beiden Unternehmen gibt. Anders können keine Synergien erzeugt werden. Gesprochen wird bei solchen Überschneidungen von Ergänzungspotentialen oder operativem und strategischem Fit. Nicht sinnvoll wäre demnach eine Fusion eines Maschienenbau-Unternehmens und einer Bäckerei. Es könnten sich in der Theorie zwar Synergien in Verwaltungsbereichen ergeben, würden in der Praxis jedoch eher zu Mehrkosten durch die wachsende Komplexität führen. [^2]
+Sinnvoll ist ein solches M&A-Projekt erst dann, wenn es interessante Überschneidungen zwischen den Produkten, Dienstleistungen oder Aktionsfeldern der beiden Unternehmen gibt. Anders können keine Synergieeffekte erzielt werden. Gesprochen wird bei solchen Überschneidungen von Ergänzungspotentialen oder operativem und strategischem Fit. Nicht sinnvoll wäre demnach eine Fusion eines Maschienenbau-Unternehmens und einer Bäckerei. Es könnten sich in der Theorie zwar Synergien in Verwaltungsbereichen ergeben, diese würden in der Praxis jedoch eher zu Mehrkosten durch die wachsende Komplexität führen. [^2]
 
 ## Ziele eines M&A-Projektes
 
 ![M&A Wortwolke](Interne_Synergieeffekte/mergers-and-acquisitions.jpg)
 
-Das Ziel eines M&A-Projektes ist es in einem reifen Markt weiterhin wachsen zu können. Dadurch kann in weitere Regionen expandiert werden oder neue Produkte können besser vermarktet werden. Blockiert wird dies vor der Akquisition durch fehlende Vertriebsstrukturen oder das nötige Know-How, um Innovationen wie die anderen Unternehmen voranzutreiben, fehlen bislang. Es kristallisieren sich folgende Hauptgründe für eine Akquisition heraus:[^3] 
+Das Ziel eines M&A-Projektes ist es in einem reifen Markt weiterhin wachsen zu können. Dadurch kann in weitere Regionen expandiert werden oder neue Produkte können besser vermarktet werden. Blockiert wird dies vor der Akquisition durch fehlende Vertriebsstrukturen oder das nötige Know-How, um Innovationen wie die anderen Unternehmen voranzutreiben. Es kristallisieren sich folgende Hauptgründe für eine Akquisition heraus:[^3] 
 * Stärkung und Ausweitung des bestehenden Kerngeschäftes
 * Verbessern der Wettbewerbschancen
 * Transfer des nötigen Know-Hows
