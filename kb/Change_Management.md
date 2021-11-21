@@ -39,6 +39,7 @@ existieren eine Vielzahl an Modellen zur Gestaltung von Change Management [^3].
 Eine oft zu beobachtende Gemeinsamkeit ist die sequentielle Abfolge einzelner Schritte im Verlauf des Veränderungsprozesses [^8]. 
 Zwei der bekanntesten Modelle sind das 8-Stufen Modell von Kotter und das 3-Stufen Modell von Lewin [^9][^10].
 
+## Lewin Modell
 Lewin unterteilt den Veränderungsprozess in 3 Stufen ein:
 1. unfreezing
 2. moving
@@ -49,6 +50,7 @@ Erst im folgenden Schritt werden die Neuerungen eingeführt und anschließend al
 ![Beispielabbildung](Change_Management/Lewin_Bild.jpeg)
 3-Stufen Modell nach Lewin [^13]. 
 
+## Kotter Modell
 Kotter schlägt 8 Stufen auf dem Weg zu erfolgreichem Change Management vor. 
 Insbesondere stellt dieser die Bedeutung und das Kommunizieren einer gemeinsamen Vision heraus [^10].
 
