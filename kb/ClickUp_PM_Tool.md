@@ -5,11 +5,7 @@ author: urimi0
 anrechnung: k 
 ---
 
-ClickUp ist ein [Projekt-Management Tool] (Uebersicht_PM_Tools.md) welches verschiedene Features von mehreren Internetseiten und Apps wie Trellozu einer Plattform kombiniert. 
-Organisation 
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+ClickUp ist ein [Projekt-Management Tool](Uebersicht_PM_Tools.md) welches verschiedene Features von mehreren Internetseiten und Apps wie [Trello](Trello_PM_Tool.md) oder [Asana](Asana_PM_Tool.md) zu einer Plattform kombiniert. Arbeit, Organisation und Kommunikation wird auf einer Seite vereint.
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -104,7 +100,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [ClickUp]       (https://clickup.com)
 [^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
 [^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 
