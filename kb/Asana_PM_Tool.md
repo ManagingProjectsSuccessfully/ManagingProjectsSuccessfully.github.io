@@ -57,7 +57,8 @@ Preis bezieht sich auf pro Nutzer pro Monat [^2]
 # Weiterführende Literatur
 
 * [Asana-Guide](https://asana.com/de/guide)
-* [Asana Projektmanagement](https://asana.com/de/uses/project-management)
+* [Features von Asana](https://asana.com/de/features)
+* [Projektmanagement mit Asana](https://asana.com/de/uses/project-management)
 
 # Quellen
 
