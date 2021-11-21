@@ -45,7 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](ClickUp_PM_Tool/test-file.jpg)
+![Beispielabbildung](ClickUp_PM_Tool/logo.png)
 
 *lustiges Testbild*
 
