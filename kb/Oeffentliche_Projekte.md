@@ -119,7 +119,7 @@ Ein Projekt durchzuführen bzw das erforderliche Projektmanagment ist nicht mit 
 | 2. Definition  | Projektdefinition  |
 | 3. Planung  | Projekthandbuch  |
 | 4. Durchführung  | Produkt/Leistung  |
-| 5. Abschluss | Abschlussbericht  |                            ![Beispielabbildung](Oeffentliche_Projekte/1200x675.jpg)
+| 5. Abschluss | Abschlussbericht  |                            
 
 1. Initialisierung
 2. Definition
@@ -139,24 +139,6 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 | Flughafen BER   | 2,7 Mrd     | 6 Mrd    |
 | Main-Donau-Kanal    | 400 Mio       | 2,4 Mrd      |
 | Elbphilharmonie    | 77 Mio       | 866 Mio      |
-
-
-
-
-
-                                                                                              ![Beispielabbildung](Oeffentliche_Projekte/1200x675.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Kontrolle
