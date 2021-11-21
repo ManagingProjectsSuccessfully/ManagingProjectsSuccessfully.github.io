@@ -12,7 +12,6 @@ author: anniSc
 | [Who_is_Who_Projectmanagement](kb/Who_is_Who_Projectmanagement.md)                                                                 | [ne88peni](https://github.com/ne88peni)                       |
 | [Zertifizierungen](kb/Zertifizierungen.md)                                                                                         | [JonasMallwitz](https://github.com/JonasMallwitz)             |
 | [PMI_Institution](kb/PMI_Institution.md)                                                                                           | [CHESLYNN](https://github.com/CHESLYNN)                       |
-| [IPMA_Institution](kb/IPMA_Institution.md)                                                                                         | [AliciaVetters](https://github.com/AliciaVetters)             |
 | [GPM_Institution](kb/GPM_Institution.md)                                                                                           | [zo54hoko](https://github.com/zo54hoko)                       |
 | [SCRUM_org_Institution](kb/SCRUM_org_Institution.md)                                                                               | [SimonM211](https://github.com/SimonM211)                     |
 | [Internationale_Projektmanagement_Standards](kb/Internationale_Projektmanagement_Standards.md)                                     | [laura1mueller](https://github.com/laura1mueller)             |
@@ -97,7 +96,6 @@ author: anniSc
 | [Datenmanagement_im_PM](kb/Datenmanagement_im_PM.md)                                                                               | [aq07yhug](https://github.com/aq07yhug)                       |
 | [Nachhaltigkeit_im_PM](kb/Nachhaltigkeit_im_PM.md)                                                                                 | [Miki2701](https://github.com/Miki2701)                       |
 | [Methoden](kb/Methoden.md)                                                                                                         | [Theresa1703](https://github.com/Theresa1703)                 |
-| [Brainstorming](kb/Brainstorming.md)                                                                                               | [DasKettchup](https://github.com/DasKettchup)                 |
 | [Crystal_Methods](kb/Crystal_Methods.md)                                                                                           | [creepol](https://github.com/creepol)                         |
 | [Pomodoro](kb/Pomodoro.md)                                                                                                         | [Mezhonnov](https://github.com/Mezhonnov)                     |
 | [Eisenhower_Matrix](kb/Eisenhower_Matrix.md)                                                                                       | [Ersan42](https://github.com/Ersan42)                         |
@@ -123,7 +121,7 @@ author: anniSc
 | [Deliverable](kb/Deliverable.md)                                                                                                   | [starni26](https://github.com/starni26)                       |
 | [Forecasts](kb/Forecasts.md)                                                                                                       | [eftalyaumat](https://github.com/eftalyaumat)                 |
 | [Timeboxing](kb/Timeboxing.md)                                                                                                     | [janetteschuller](https://github.com/janetteschuller)         |
-| [Compliance_im_Projektmanagment](kb/Compliance_im_Projektmanagment.md)                                                             | [phigeit](https://github.com/phigeit)                         |
+| [Compliance_im_Projektmanagment](kb/Compliance_im_Projektmanagment.md)                                                             | [moritzgrt](https://github.com/moritzgrt)                     |
 | [Vorgehensmodelle](kb/Vorgehensmodelle.md)                                                                                         | [hello-pukeko](https://github.com/hello-pukeko)               |
 | [SCRUM_but](kb/SCRUM_but.md)                                                                                                       | [thujavanj](https://github.com/thujavanj)                     |
 | [SCRUMBAN](kb/SCRUMBAN.md)                                                                                                         | [mickey0684](https://github.com/mickey0684)                   |
@@ -136,7 +134,6 @@ author: anniSc
 | [Kaizen](kb/Kaizen.md)                                                                                                             | [tkessler94](https://github.com/tkessler94)                   |
 | [Muda_7_Arten_von_Verschwendung](kb/Muda_7_Arten_von_Verschwendung.md)                                                             | [AmrouHasan](https://github.com/AmrouHasan)                   |
 | [Toyota_Produktionssystem](kb/Toyota_Produktionssystem.md)                                                                         | [YeldaUzun](https://github.com/YeldaUzun)                     |
-| [SAFe](kb/SAFe.md)                                                                                                                 | [nahihiry](https://github.com/nahihiry)                       |
 | [SAFe_Program_Increment_Planning](kb/SAFe_Program_Increment_Planning.md)                                                           | [starni26](https://github.com/starni26)                       |
 | [SAFe_Lean_Agile_Mindset](kb/SAFe_Lean_Agile_Mindset.md)                                                                           | [BeratGuen](https://github.com/BeratGuen)                     |
 | [SAFe_Agile_Release_Trains](kb/SAFe_Agile_Release_Trains.md)                                                                       | [FilipPrecik](https://github.com/FilipPrecik)                 |
@@ -145,8 +142,6 @@ author: anniSc
 | [Six_Sigma](kb/Six_Sigma.md)                                                                                                       | [flxrbnk](https://github.com/flxrbnk)                         |
 | [PRINCE2](kb/PRINCE2.md)                                                                                                           | [patrick203494](https://github.com/patrick203494)             |
 | [PRINCE2_7_Grundprinzipien](kb/PRINCE2_7_Grundprinzipien.md)                                                                       | [Za22Regi](https://github.com/Za22Regi)                       |
-| [PRINCE2_7_Themen](kb/PRINCE2_7_Themen.md)                                                                                         | [AliciaVetters](https://github.com/AliciaVetters)             |
-| [PRINCE2_7_Prozesse](kb/PRINCE2_7_Prozesse.md)                                                                                     | [aculsalocin](https://github.com/aculsalocin)                 |
 | [PRINCE2_Projektumgebung](kb/PRINCE2_Projektumgebung.md)                                                                           | [corinnaneubauer](https://github.com/corinnaneubauer)         |
 | [SWAT_Analyse](kb/SWAT_Analyse.md)                                                                                                 | [AlperK61](https://github.com/AlperK61)                       |
 | [Hybrides_Projektmanagment](kb/Hybrides_Projektmanagment.md)                                                                       | [juliwebair](https://github.com/juliwebair)                   |
@@ -167,13 +162,12 @@ author: anniSc
 | [Jour_Fixe](kb/Jour_Fixe.md)                                                                                                       | [MoritzBock](https://github.com/MoritzBock)                   |
 | [Projektplanung](kb/Projektplanung.md)                                                                                             | [MarleneMMeyer](https://github.com/MarleneMMeyer)             |
 | [Anforderungsmanagement](kb/Anforderungsmanagement.md)                                                                             | [Karina255](https://github.com/Karina255)                     |
-| [Mindset](kb/Mindset.md)                                                                                                           | [ebressel](https://github.com/ebressel)                       |
 | [Funktionale_Anforderungen](kb/Funktionale_Anforderungen.md)                                                                       | [LysanderBenke ](https://github.com/LysanderBenke )           |
 | [Nicht_Funktionale_Anforderungen](kb/Nicht_Funktionale_Anforderungen.md)                                                           | [seriousTake](https://github.com/seriousTake)                 |
 | [Project_Management_Office](kb/Project_Management_Office.md)                                                                       | [nicolasrmg](https://github.com/nicolasrmg)                   |
 | [Proof_of_Concept](kb/Proof_of_Concept.md)                                                                                         | [PhilippWolfrum](https://github.com/PhilippWolfrum)           |
 | [Obeya_Raum](kb/Obeya_Raum.md)                                                                                                     | [xe28dita](https://github.com/xe28dita)                       |
-| [Minimum_Viable_Product](kb/Minimum_Viable_Product.md)                                                                             | [Charles0209](https://github.com/Charles0209)                 |
+| [Minimum_Viable_Product](kb/Minimum_Viable_Product.md)                                                                             | [charles0209](https://github.com/charles0209)                 |
 | [Methode_des_kritischen_Pfades](kb/Methode_des_kritischen_Pfades.md)                                                               | [ChristinaHartung](https://github.com/ChristinaHartung)       |
 | [Machbarkeit](kb/Machbarkeit.md)                                                                                                   | [ninaporwik](https://github.com/ninaporwik)                   |
 | [Leuchtturmprojekt](kb/Leuchtturmprojekt.md)                                                                                       | [LucaH12](https://github.com/LucaH12)                         |
@@ -185,7 +179,6 @@ author: anniSc
 | [Pflichtenheft](kb/Pflichtenheft.md)                                                                                               | [fa97fyka](https://github.com/fa97fyka)                       |
 | [Projektphasen_klassisch](kb/Projektphasen_klassisch.md)                                                                           | [vegas1337](https://github.com/vegas1337)                     |
 | [Risikomanagement](kb/Risikomanagement.md)                                                                                         | [jnsdhr](https://github.com/jnsdhr)                           |
-| [Risikodimensionen](kb/Risikodimensionen.md)                                                                                       | [martina-bchtl](https://github.com/martina-bchtl)             |
 | [Risikoanalyse_und_Visualisierung](kb/Risikoanalyse_und_Visualisierung.md)                                                         | [CTM-development](https://github.com/CTM-development)         |
 | [Risikobewertung_von_Umweltrisiken](kb/Risikobewertung_von_Umweltrisiken.md)                                                       | [loritschka](https://github.com/loritschka)                   |
 | [Risikotransfer](kb/Risikotransfer.md)                                                                                             | [niru1999](https://github.com/niru1999)                       |
@@ -214,7 +207,6 @@ author: anniSc
 | [Ziel_Planung](kb/Ziel_Planung.md)                                                                                                 | [emre12345678](https://github.com/emre12345678)               |
 | [Projektcontrolling](kb/Projektcontrolling.md)                                                                                     | [hake1110](https://github.com/hake1110)                       |
 | [Qualitaetsmanagement](kb/Qualitaetsmanagement.md)                                                                                 | [noahbrunnhuber](https://github.com/noahbrunnhuber)           |
-| [Projekt_Lebenszyklus](kb/Projekt_Lebenszyklus.md)                                                                                 | [arminwelte](https://github.com/arminwelte)                   |
 | [Qualitaetssicherung](kb/Qualitaetssicherung.md)                                                                                   | [Burcu12](https://github.com/Burcu12)                         |
 | [Berichtswesen](kb/Berichtswesen.md)                                                                                               | [FerdinandMerbecks](https://github.com/FerdinandMerbecks)     |
 | [SMART_Ziele](kb/SMART_Ziele.md)                                                                                                   | [Tjara1](https://github.com/Tjara1)                           |
@@ -252,7 +244,6 @@ author: anniSc
 | [Projektabschlussbericht](kb/Projektabschlussbericht.md)                                                                           | [DeniseWt](https://github.com/DeniseWt)                       |
 | [Lessons_Learned](kb/Lessons_Learned.md)                                                                                           | [JanAmend](https://github.com/JanAmend)                       |
 | [Erfolgsmessung](kb/Erfolgsmessung.md)                                                                                             | [JacquelineRal](https://github.com/JacquelineRal)             |
-| [Evaluation](kb/Evaluation.md)                                                                                                     | [Fraaanzel](https://github.com/Fraaanzel)                     |
 | [Reflexion](kb/Reflexion.md)                                                                                                       | [goekcen01](https://github.com/goekcen01)                     |
 | [Abschlussanalyse](kb/Abschlussanalyse.md)                                                                                         | [medjeara](https://github.com/medjeara)                       |
 | [Projektaufloesung](kb/Projektaufloesung.md)                                                                                       | [Quapoapo](https://github.com/Quapoapo)                       |
@@ -271,7 +262,6 @@ author: anniSc
 | [Product_Owner](kb/Product_Owner.md)                                                                                               | [Leon1906](https://github.com/Leon1906)                       |
 | [Scrum_Master](kb/Scrum_Master.md)                                                                                                 | [Phr4nk20](https://github.com/Phr4nk20)                       |
 | [Development_Team](kb/Development_Team.md)                                                                                         | [greifchristina](https://github.com/greifchristina)           |
-| [Sprint](kb/Sprint.md)                                                                                                             | [LKmps2021](https://github.com/LKmps2021)                     |
 | [Sprint_Planning](kb/Sprint_Planning.md)                                                                                           | [fauchavd](https://github.com/fauchavd)                       |
 | [Daily_Scrum](kb/Daily_Scrum.md)                                                                                                   | [JonathanBauerFau](https://github.com/JonathanBauerFau)       |
 | [Sprint_Review](kb/Sprint_Review.md)                                                                                               | [DeniseWt](https://github.com/DeniseWt)                       |
@@ -297,7 +287,6 @@ author: anniSc
 | [KISS_Prinzip](kb/KISS_Prinzip.md)                                                                                                 | [qu68paka](https://github.com/qu68paka)                       |
 | [Impediment_Backlog](kb/Impediment_Backlog.md)                                                                                     | [patrick203494](https://github.com/patrick203494)             |
 | [Taskboard](kb/Taskboard.md)                                                                                                       | [schooschef](https://github.com/schooschef)                   |
-| [Burndown_Chart](kb/Burndown_Chart.md)                                                                                             | [tobi0211](https://github.com/tobi0211)                       |
 | [Selbstorganisierende_Teams](kb/Selbstorganisierende_Teams.md)                                                                     | [IremAkin ](https://github.com/IremAkin )                     |
 | [Stand_Ups](kb/Stand_Ups.md)                                                                                                       | [Gilchus](https://github.com/Gilchus)                         |
 | [Interactive_Planning](kb/Interactive_Planning.md)                                                                                 | [Vallejk](https://github.com/Vallejk)                         |
