@@ -15,7 +15,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
+Literatur kann via Fußnoten angegeben werden. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
@@ -93,14 +93,14 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: https://www.netinbag.com/de/business/what-is-a-public-project.html
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 # Öffentliche Projekte
 
-Es gibt keine einheitliche Definition von öffentlichen Projekten aber eine prägnante und sehr allgemein gehaltene Erklärung lautet wie folgt: "Ein öffentliches Projekt ist jedes Projekt, das von einer Regierung finaziert wird und dessen Eigentümer oder Betreiber diese Regierung sein soll". Solche Projekte an dennen sich die Regierung lediglich finanziell beteiligt zählen nicht zu den öffentlichen Projekten, obwohl die Öffentlichkeit beteiligt ist. Beispiele für öffentliche Projekte sind Infrastrukturprojekte(Link) und BLA(LInk) oder konkret Straßenbeleuchtung und Modernisierung der Verwaltung.
+Es gibt keine einheitliche Definition von öffentlichen Projekten aber eine prägnante und sehr allgemein gehaltene Erklärung lautet wie folgt: "Ein öffentliches Projekt ist jedes Projekt, das von einer Regierung finaziert wird und dessen Eigentümer oder Betreiber diese Regierung sein soll"[^1]. Solche Projekte an dennen sich die Regierung lediglich finanziell beteiligt zählen nicht zu den öffentlichen Projekten, obwohl die Öffentlichkeit beteiligt ist. Beispiele für öffentliche Projekte sind Infrastrukturprojekte(Link) und BLA(LInk) oder konkret Straßenbeleuchtung und Modernisierung der Verwaltung.
 
 # Die öffentliche Verwaltung
 Die öffentliche Verwaltung ist ein Teil der Exekutive. Dazu gehören sämtliche Ämter und Behörenden auf komunall-, regional- aber auch Bundesebene. Zwar gilt hier die Maßgabe ausschließlich das zu erfüllen, was für die Bürger am besten ist, im Rahmen der legislativen Vorgaben, jedoch kommt es auch hier oft zu parteilichen Interessenskonflikten.
