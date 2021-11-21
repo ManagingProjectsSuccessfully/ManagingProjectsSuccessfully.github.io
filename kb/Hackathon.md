@@ -86,6 +86,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
    1. und hier eine Ebene tiefer
 
 
+![Beispielabbildung](Hackathon/Elemente-Hackathon.png)
+
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
