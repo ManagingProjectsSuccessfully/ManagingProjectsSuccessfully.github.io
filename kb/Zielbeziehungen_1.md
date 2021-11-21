@@ -5,7 +5,7 @@ author: AnjaKlostermeier
 anrechnung: k
 ---
 # Überblick über das Thema - kurze Begriffsklärung 
-Bevor tiefer in das Thema eingestiegen wird, werden zuerst die Begriffe Zielbeziehungen“ und „klassisches Projektmanagement“ kurz erklärt. 
+Bevor tiefer in das Thema eingestiegen wird, werden zuerst die Begriffe "Zielbeziehungen“ und "klassisches Projektmanagement“ kurz erklärt. 
 
 ## Zielbeziehungen
 
@@ -21,8 +21,8 @@ Unter Zielbeziehungen wir die Beziehung zwischen den einzelnen Ziele (meist Unte
 ## Klassisches Projektmanagement 
 
 Projektmanagement allgemein beinhaltet die Anwendung von Wissen, Fähigkeiten und Techniken für Management- und Führungstätigkeiten [^2]
-Beim klassischen Ansatz geht es eher darum, dass man Methoden und Erzeugnisse des Projektmanagement zu standardisierten Projektabläufen zusammenfasst (=Projektmanagementsysteme). Die Projektphasen sind also strikt durchgeplant und es herrscht somit eine hohe Planungssicherheit. [^3] [^4]
-Es gibt auch noch das agile Projektmanagement auf dieses in diesem Artikel aber nicht näher eingegangen wird.[Linktext](andere_seite.md)     
+Beim klassischen Ansatz geht es eher darum, dass man Methoden und Erzeugnisse des Projektmanagement zu standardisierten Projektabläufen zusammenfasst [(=Projektmanagementsysteme)](https://www.capterra.com.de/sem/compare/directory/30002/project-management/software?account_campaign_id=11412926622&account_adgroup_id=111801304956&target=projektmanagement%20system&ad_id=542893678485&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=EAIaIQobChMInqOVjMqp9AIVA893Ch0V3QyJEAAYAiAAEgJ01_D_BwE). Die Projektphasen sind also strikt durchgeplant und es herrscht somit eine hohe Planungssicherheit. [^3] [^4]
+Es gibt auch noch das [agile Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement).    
 
 Im nächsten Schritt wird der Zusammenhang zwischen Zielbeziehungen im klassischen Projektmanagement erklärt. 
 
@@ -37,7 +37,7 @@ Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht einzel
 |Kostenziel hat Priorität (Kosten sinken) |Leistungs-& Zeitziel steigt 
 |Terminziel hat Priorität               |Kosten steigen & Leistungen einsparen
 
-Der Projektmanager muss sich also hier im Klaren werden, was er wie und unter welche Priorität erreichen will. Hier gilt immer zu beachten, dass die Anforderungen des Kundens an erster Stelle stehen. [^5].
+Der Projektmanager muss sich also hier im Klaren werden, was er wie und unter welche Priorität erreichen will. Hier gilt immer zu beachten, dass die Anforderungen des Kundens an erster Stelle stehen. [^5]
 
 ## Zielbeziehungsmatrix/Präferenzmatrix
 
@@ -54,13 +54,14 @@ Nachfolgend ein Beispiel einer Präferenzmatrix[^7]:
 ![Zielbeziehungen](Zielbeziehungen/Präferenzmatrix_Bild.jpg) 
 
 # Siehe auch:
-* Agiles Projektmanagement [https://www.projektmagazin.de/glossarterm/agiles-projektmanagement](Zielbeziehungen.md) 
-*	Präferenzmatrix [https://de.wikipedia.org/wiki/Pr%C3%A4ferenzmatrix#:~:text=Die%20Pr%C3%A4ferenzmatrix%20ist%20ein%20einfaches,das%20jeweils%20wichtigere%20Kriterium%20vermerkt.&text=Das%20Kriterium%20mit%20den%20meisten%20Nennungen%20ist%20das%20wichtigste%20Kriterium](Zielbeziehungen.md) 
-* Zielbeziehungsmatrix [https://de.wikipedia.org/wiki/Zielbeziehungsmatrix](Zielbeziehungen.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Agiles Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement) 
+*	[Präferenzmatrix](https://de.wikipedia.org/wiki/Pr%C3%A4ferenzmatrix#:~:text=Die%20Pr%C3%A4ferenzmatrix%20ist%20ein%20einfaches,das%20jeweils%20wichtigere%20Kriterium%20vermerkt.&text=Das%20Kriterium%20mit%20den%20meisten%20Nennungen%20ist%20das%20wichtigste%20Kriterium)
+* [Zielbeziehungsmatrix](https://de.wikipedia.org/wiki/Zielbeziehungsmatrix)
 
 # Weiterführende Literatur 
 
-* Video: https://www.youtube.com/watch?v=3rx5u1GmX1o
+* Video: [Welche Gefahren lauern in Projektzielen? - Zielbeziehungen und ihre Bedeutung](https://www.youtube.com/watch?v=3rx5u1GmX1o)
 
 # Quellen
 
