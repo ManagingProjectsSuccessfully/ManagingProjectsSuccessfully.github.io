@@ -4,14 +4,12 @@ tags: agil klassisch
 author: ux49azap
 anrechnung: k
 ---
-# Missverständnisse im klassischen Projektmanagement
-Bei der falschen Anwendung des klassischen [Projektmanagements](Projektmanagement.md) kann es schnell zu Missverständnissen kommen, welche einen großen Einflussfaktor auf die Erfolgswahrscheinlichkeit des jeweiligen [Projektes](Projekt.md) haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
+# Missverständnisse beim klassischen Projektmanagement
+Bei der falschen Anwendung des klassischen [Projektmanagements](Projektmanagement.md) kann es schnell zu Missverständnissen kommen, welche einen großen Einfluss auf die Erfolgswahrscheinlichkeit des jeweiligen [Projektes](Projekt.md) haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
 
-# 1. Ursache der Missverständnisse
-Das [traditionelles Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) beruht auf einem monolithischen Ansatz, bei welchem bereits zu [Projektstart](Projektstart.md) der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, [Termine](Zeitplanung.md) und [Ressourcen](Ressourcenplanung.md) festgelegt.[^1][^2]  Durch diesen standardisierten Vorgang entstehen im Laufe des Projekts allerdings gleich mehrere Missverständnisse.
+# 1. Ursachen der Missverständnisse
+Das [traditionelle Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) beruht auf einem monolithischen Ansatz, bei welchem bereits zu [Projektstart](Projektstart.md) der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, [Termine](Zeitplanung.md) und [Ressourcen](Ressourcenplanung.md) festgelegt.[^1][^2]  Durch diesen standardisierten Vorgang entstehen im Laufe des Projekts allerdings gleich mehrere Missverständnisse.
  
-
-
 
 # 2. Fehlende Flexibilität bei Veränderungen
 
@@ -19,13 +17,13 @@ In nahezu allen Projekten kommt es im Laufe der Zeit zu sich veränderten Anford
 
 
 
-# 3. Unschärfe bereits zu Beginn des Projektes
+# 3. Unschärfe in der Projektplanung
 
 Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird bereits zu Beginn des Projektes Reserve in die Planung mit einbezogen. Dies führt allerdings zu neuen Missverständnissen. Durch den Einbezug von Reserve besteht von Anfang eine gewisse Unschärfe, welche im späteren Projektverlauf sogar noch zunehmen kann. Außerdem handelt es sich bei den Reservefaktoren vor allem um die Terminierung und Budgetierung des Projektes, weshalb es bei klassischen Projekten oftmals zu Verzögerungen und Kostensteigerungen kommen kann.[^1][^2]
 
 
 # 4. Komplexe Arbeitsblöcke
-Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum [agilen Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement) gibt es keine kleineren Aufgabenblöcke, die früh zu nutzbaren Ergebnissen oder überprüfbaren Prototypen führen. Es entstehen somit auch nicht regelmäßig Zwischenprodukte, welche durch kontinuierliche Anpassungsprozesse überprüft und verbessert werden können (sog. Sprints beim agilen Projektmanagementmodell [SCRUM](SCRUM.md)). 
+Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum [agilen Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement) gibt es keine kleineren Aufgabenblöcke, die früh zu nutzbaren Ergebnissen oder überprüfbaren Prototypen führen. Es fehlen somit auch regelmäßige Zwischenprodukte, welche durch kontinuierliche Anpassungsprozesse überprüft und verbessert werden könnten (sog. Sprints beim agilen Projektmanagementmodell [SCRUM](SCRUM.md)). 
 Stattdessen werden einzelne größere [Projektphasen](Projektphasen_klassisch.md) nacheinander und nicht parallel abgearbeitet. Die komplexeren Arbeitsblöcke lassen sich schwerer verwalten, wodurch ein deutlich höheres Risiko für Fehlentscheidungen entsteht. Außerdem geht der Motivationsaspekt für das arbeitende Team verloren, da beim klassischen Projektmanagement kein frühzeitig nutzbarer Mehrwert entsteht.[^4]
 
 
