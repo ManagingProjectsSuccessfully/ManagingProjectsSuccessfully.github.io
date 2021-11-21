@@ -287,7 +287,6 @@ author: anniSc
 | [KISS_Prinzip](kb/KISS_Prinzip.md)                                                                                                 | [qu68paka](https://github.com/qu68paka)                       |
 | [Impediment_Backlog](kb/Impediment_Backlog.md)                                                                                     | [patrick203494](https://github.com/patrick203494)             |
 | [Taskboard](kb/Taskboard.md)                                                                                                       | [schooschef](https://github.com/schooschef)                   |
-| [Burndown_Chart](kb/Burndown_Chart.md)                                                                                             | [tobi0211](https://github.com/tobi0211)                       |
 | [Selbstorganisierende_Teams](kb/Selbstorganisierende_Teams.md)                                                                     | [IremAkin ](https://github.com/IremAkin )                     |
 | [Stand_Ups](kb/Stand_Ups.md)                                                                                                       | [Gilchus](https://github.com/Gilchus)                         |
 | [Interactive_Planning](kb/Interactive_Planning.md)                                                                                 | [Vallejk](https://github.com/Vallejk)                         |
