@@ -52,8 +52,12 @@ Bei einer Modifizierung des Scrums ist die Auseinandersetzung mit einem konkrete
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](SCRUM_but.md)
+* Scrum_Master
+* Scrum_Artefakte
+* Scrum_Values
+* Scrum_Priciples
+* Scrum_Rules
+* Scrum_Guide
 
 # Weiterführende Literatur
 
