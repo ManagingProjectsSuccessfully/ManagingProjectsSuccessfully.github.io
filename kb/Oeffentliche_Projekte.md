@@ -21,13 +21,15 @@ oben im Front-Matter (Bereich zwischen den `---`).
 [^4]: http://projekt-manager.eu/gescheiterte-projekte.html
 [^5]: https://www.handelsblatt.com/politik/deutschland/infrastruktur-ausbau-die-blockierte-republik-woran-oeffentliche-projekte-in-deutschland-scheitern/25078986.html?ticket=ST-10378787-waZ0M4WEBBTMgHtZ12d7-cas01.example.org
 [^6]: https://www.bpb.de/nachschlagen/lexika/handwoerterbuch-politisches-system/201994/bundesrechnungshof
+[^7]: https://www.arl-net.de/de/lexica/de/%C3%B6ffentliche-verwaltung
+[^8]: https://link.springer.com/book/10.1007%2F978-3-322-80689-5
 
 # Öffentliche Projekte
 
 Es gibt keine einheitliche Definition von öffentlichen Projekten aber eine prägnante und sehr allgemein gehaltene Erklärung lautet wie folgt: "Ein öffentliches Projekt ist jedes Projekt, das von einer Regierung finanziert wird und dessen Eigentümer oder Betreiber diese Regierung sein soll"[^1]. Solche Projekte an dennen sich die Regierung lediglich finanziell beteiligt zählen nicht zu den öffentlichen Projekten, obwohl die Öffentlichkeit beteiligt ist.Nicht zu verwechseln sind öffetnliche Projekte mit öffetnlichen Gütern, die sich durch nicht-Rivalität auszeichnen, obwohl das Ergebnis von einem öffentlichen Projekt oft ein öffetnliches Gut ist. Die wohl am häuigsten durchgefhührten öffentlichen Projekte sind [Infrastrukturprojekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Infrastruktur_Projekte.md). Beispiele für öffentliche Projekte sind der Bau von Autobahnen, Flughäfen und Schulen[^4].
 
 # Die öffentliche Verwaltung
-Die öffentliche Verwaltung ist ein Teil der Exekutive. Dazu gehören sämtliche Ämter und Behörenden auf komunall-, regional- aber auch Bundesebene. Zwar gilt hier die Maßgabe ausschließlich das zu erfüllen, was für die Bürger am besten ist, im Rahmen der legislativen Vorgaben, jedoch kommt es auch hier oft zu parteilichen Interessenskonflikten.
+Die öffentliche Verwaltung ist ein Teil der Exekutive[^7]. Dazu gehören sämtliche Ämter und Behörenden auf komunall-, regional- aber auch Bundesebene. Zwar gilt hier die Maßgabe ausschließlich das zu erfüllen, was für die Bürger am besten ist, im Rahmen der legislativen Vorgaben, jedoch kommt es auch hier oft zu parteilichen Interessenskonflikten[^8].
 Dies hat Vor- und Nachteile. Die Vergangenheit hat gezeigt dass es deswegen immer wieder zu Konflikten aufgrund verschiedener politischer Ansichten kommt und sich Projekte wegen mangelnder Uneinigkeit verzögern. Andereseits zeigt sich das so nicht nur vom Rechnungshof sondern auch von Kollegen besodners genau auf die Finger geschaut.
 
 # Projektmanagement im öffentlichen Sektor
