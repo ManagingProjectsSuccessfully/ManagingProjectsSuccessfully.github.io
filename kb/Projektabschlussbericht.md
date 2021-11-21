@@ -10,11 +10,9 @@ anrechnung: k
 
 # Was ist ein Projektabschlussbericht?
 
-Wie es der Begriff bereits erahnen lässt, beginnt die Phase des Projektabschlussberichtes üblicherweise am Ende eines durchgeführten Projekts, welches zuvor Schritt für 
-Schritt erarbeitet wurde und einem geplanten Ablauf folgt. Zudem stellt dieser einen Unterpunkt des Projektsabschlusses dar, welcher im Vorfeld des
-Kompendiums bereits behandelt wurde. Der Projektabschluss stellt den letzten Abschnitt der Unternehmung dar und enthält zusätzlich Schritte wie die Produktabnahme oder 
- die Projektauflösung, was als allerletztes durchgeführt wird[^1]. 
-
+Der Projektabschlussbericht ist der letze Prozess im Projektfortschritt und wird im Rahmen des Projektabschlusses durchgeführt, welcher bereits im Vorfeld des 
+Kompendiums erläutert wurde. Der Projektabschluss stellt den letzten Abschnitt der Unternehmung dar und enthält zusätzlich Schritte wie die Produktabnahme oder die
+Projektauflösung, was anschließend durchgeführt wird[^1]. 
 
 # Inhalt
 
