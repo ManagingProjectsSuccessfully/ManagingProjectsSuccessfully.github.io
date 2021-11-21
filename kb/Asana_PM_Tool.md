@@ -50,8 +50,8 @@ Preis bezieht sich auf pro Nutzer pro Monat [^2]
 * [Hive_PM_Tool](Hive_PM_Tool.md)
 * [Trello_PM_Tool](Trello_PM_Tool.md)
 * [Podio_PM_Tool](Podio_PM_Tool.md)
-* [Stackfiled_PM_Tool](Stackfiled_PM_Tool.md)
-* [Awork_PM-Tool](Awork_PM-Tool.md)
+* [Stackfield_PM_Tool](Stackfield_PM_Tool.md)
+* [Awork_PM-Tool](Awork_PM_Tool.md)
 * [Java_PM_Tool](Java_PM_Tool.md)
 
 # Weiterführende Literatur
