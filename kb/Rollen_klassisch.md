@@ -19,7 +19,7 @@ anrechnung: k
 |Projektleiter          |                      |
 |Projektcontroller      |                      |
 |Projektteam            |                      |
-|Projektmanagement-Office(PMO)|                |
+|Projektmanagement-Office(PMO)|                |[^1] [^2] [^3] [^4]
 
  
 # Aufgabenbereiche und Kompetenzen der einzelnen Rollen
@@ -41,7 +41,7 @@ Der Auftraggeber beauftragt das Projekt und stellt formal die Ressourcen bereit.
 Sofern es neben den Auftraggeber eine spezielle Kundenrolle gibt, ist dieser der Abnehmer aller Ergebnisse aus dem Projekt.
 
 ## Projektlenkungsausschuss/Multiprojektlenkungsausschuss:
-Der Projektlenkungsausschuss besteht aus mehreren Mitgliedern, die innerhalb des Projekts als Berater, Entscheidungsträger auftreten. Außerdem übernehmen sie oftmals eine Genehmigungsfunktion. Da dieses Gremium eine außenstehende und neutrale Funktion einnehmen soll, sollte der Projektleiter möglichst kein Mitglied des Ausschusses sein. 
+Der [Projektlenkungsausschuss](https://de.wikipedia.org/wiki/Lenkungsausschuss)  besteht aus mehreren Mitgliedern, die innerhalb des Projekts als Berater, Entscheidungsträger auftreten. Außerdem übernehmen sie oftmals eine Genehmigungsfunktion. Da dieses Gremium eine außenstehende und neutrale Funktion einnehmen soll, sollte der Projektleiter möglichst kein Mitglied des Ausschusses sein. 
 
 ## Projektleiter:
 Er ist verantwortlich für das Ergebnis des Projekts und ist fachlich und teilweise auch disziplinarisch der Projektorganisation vorgestellt.
@@ -69,38 +69,9 @@ Innerhalb und außerhalb der Projektorganisation kann es zudem Experten geben, d
 # Festlegung der Projektrollen
 Die Frage wer innerhalb eines Projektes welche Projektrolle einnimmt wird meist in der Projektorganisation in der Planungsphase eines Projekts festgelegt. Dabei wird neben der Verteilung der Rollen auch geklärt, welche Aufgaben, Kompetenzen und Verantwortungen die einzelnen Rollen erhalten, wie die Zusammenarbeit zwischen den Rollen organisiert wird und wie das Einzelprojekt in die Stammorganisation eigebunden wird.
 
+![Bild](Rollen_klassisch/test-file.jpg)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
- 
-
-![Beispielabbildung](Rollen_klassisch/test-file.jpg)
-
-*lustiges Testbild*
+*Übersicht über die wichtigsten Rollen im klassischen Projektmanagement*
 
 
 # Siehe auch
