@@ -19,7 +19,7 @@ Im Projekt ist es sehr wichtig mögliche Risiken zu identifizieren, einzuschätz
 ## 4. Detaillierter Projektplan:
 Der Projektplan soll zur Organisation von Aufgaben und Verantwortlichkeiten dienen. Hierzu sind neben Zeit, Budget und Umfang auch Ziele und Probleme in die [Projektplanung](kb/Projektplanung.md) zu integrieren. Bei der Verteilung von Aufgaben auf Ebene einzelner Arbeitspakete ist es wichtig darauf zu achten, dass diese in vorgegebener Zeit erledigt werden können.  Überarbeitung und Demotivation können dadurch verhindert werden. Ein ständiges Monitoring des Projektfortschritts ist hierfür hilfreich.[^2]
 Der beigefügte Arbeitsplan zeigt beispielhaft von oben nach unten abgebildet die jeweiligen Projektphasen inklusive jeweiliger Arbeitspakete und weiteren Informationen wie dem Zuständigen, dem Status und das Enddatum des Arbeitspakets. Von links nach rechts wird der geplante zeitliche Verlauf des Projekts abgebildet.
-![IC-Work-Plan-Template-GERMAN.png](Best_Practices/IC-Work-Plan-Template-GERMAN.png) [^3]
+![IC-Work-Plan-Template-GERMAN.png](Best_Practices/IC-Work-Plan-Template-GERMAN.png)[^3]
 
 ## 5. Schriftliche Dokumentation:
 Das schriftliche Festhalten von allen Informationen ist in einem Projekt ein sehr wichtiges Instrument um sicherzustellen, dass den Stakeholdern für sie relevante Daten zur Verfügung stehen. Des Weiteren kann die [Projektdokumentation](kb/Projektdokumentation.md) später dazu dienen Entscheidungen zu treffen oder nachzuvollziehen, warum bestimmte Entscheidungen getroffen wurden.[^4] 
