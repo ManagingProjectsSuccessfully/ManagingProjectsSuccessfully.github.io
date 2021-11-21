@@ -144,12 +144,7 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 
 
 
-![Beispielabbildung](Oeffentliche_Projekte/1200x675.jpg)                                                    ![Beispielabbildung](Oeffentliche_Projekte/1200x675.jpg)
-
-
-
-
-
+                                                                                              ![Beispielabbildung](Oeffentliche_Projekte/1200x675.jpg)
 
 
 
