@@ -29,7 +29,7 @@ Das Projektmanagement ist für die Forschung von wichtiger Bedeutung, da ohne PM
 
 
 ## Klassisch vs. Agil
-Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Auch wenn leichte Tendenz zum agilen Projektmanagement existiert, gegeben dadurch, dass in der Anfangsphase oftmals die Anforderungen teils unbekannt sind, hat es jedoch auch Aspekte des klassischen Projektmanagements (z.B. detaillierter Projektantrag). Die unten aufgehführte Tabelle zeigt die Leitfragen und deren Einordnung von Forschungsprojekten (fettgedruckt) in das jeweilige Projektmanagement. Eine geeignete Methode im agilen Projektmanagement stellt hierbei die SCORE Methode dar.
+Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Auch wenn leichte Tendenz zum agilen Projektmanagement existiert, gegeben dadurch, dass in der Anfangsphase oftmals die Anforderungen teils unbekannt sind, hat es jedoch auch Aspekte des klassischen Projektmanagements (z.B. detaillierter Projektantrag). Die unten aufgehführte Tabelle zeigt die Leitfragen und deren Einordnung von Forschungsprojekten (fettgedruckt) in das jeweilige Projektmanagement.
 
 
 | Kategorien | Klassisches PM | Agiles PM |
