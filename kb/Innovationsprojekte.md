@@ -42,7 +42,7 @@ Durchgeführt werden alle Formen der Innovationsprojekte durch ein bereichsüber
 
 # 5.	Phasen des Innovationsprojekts
 
-Ein Innovationsprojekt lässt sich in zwei große Phasen unterteilen, die ebenso Teil des Innovationsprozesses sind.[^3]
+Ein Innovationsprojekt lässt sich in zwei große Phasen unterteilen, die ebenso Teil des [Innovationsprozesses](https://wirtschaftslexikon.gabler.de/definition/innovationsprozess-41599) sind.[^3]
 Die erste Phase ist dabei die Forschung und Entwicklung, durch welche in erster Linie die innovative Idee umgesetzt wird und folglich eine Invention, also eine Erfindung, entsteht.[^3]
 Diese Invention wird dann in der zweiten Phase, die durch die erfolgreiche Markteinführung repräsentiert wird, zu einer Innovation.[^3]
 
