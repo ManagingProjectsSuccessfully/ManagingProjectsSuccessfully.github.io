@@ -16,6 +16,17 @@ Innovation ist einer der wichtigsten Erfolgsfaktoren eines Unternehmens in Bezug
 
 Umgesetzt werden solche Innovationen in einem Unternehmen häufig im Rahmen eines Projekts, welches grundsätzlich drei Hauptmerkmale erfüllen muss. Es muss neu sein, innerhalb eines vorgegebenen zeitlichen Rahmens durchgeführt werden und eine eindeutig definierte Absicht verfolgen. Insbesondere die Projektsteuerung bei Innovationsprojekten stellt möglicherweise eine Herausforderung dar. Da sich in der Regel in Bezug auf Zeit, Qualität und Kosten verschiedene Zielsetzungen herauskristallisieren, die jedoch nicht immer komplementär sind, kann dies folglich zu Zielkonflikten führen.[^3]
 
+<img src="Innovationsprojekte/magisches-dreieck-pm.jpg" alt="Magisches Dreieck" width="500"/>
+
+*Magisches Dreieck*
+
+# 2.	Eigenschaften von Innovationsprojekten
+
+Innovationsprojekte erfüllen für gewöhnlich vier grundlegende Eigenschaften. Die erste und wichtigste Eigenschaft ist dabei der Neuheitsgrad. Das Ergebnis des Projekts bringt einen neuen und bisher unbekannten Nutzen mit sich.[^3]
+Dadurch entsteht auch immer ein bestimmtes Maß an Unsicherheit, welche die zweite Eigenschaft verkörpert. Bei Projekten, die stärker von Routineaufgaben des Unternehmens abweichen, entsteht unweigerlich eine finanzielle sowie operative Unsicherheit.[^3]
+Das dritte Charakteristikum von Innovationsprojekten ist die Komplexität, die eng mit der Unsicherheit und der Neuheit verknüpft ist. Aufgrund der unsicheren Abläufe wegen des hohen Grades an Neuheit kommt es zu einem höheren und somit weitaus komplexeren Organisationsumfang.[^3]
+Die letzte Eigenschaft bildet das Konfliktpotential, welches auf verschiedenen Ebenen auftreten kann. Es kann sowohl zu Konflikten innerhalb des Projektteams als auch zu Zielkonflikten bezüglich vorher festgelegter Zielvorgaben kommen.[^3]
+
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
@@ -25,20 +36,13 @@ Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4].
 
 Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
+Hulzkaschber i hob denkt ooschnulln 
 Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
 Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
 [Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
+[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl.
 
 
 # Aspekt 1
