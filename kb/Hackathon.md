@@ -88,6 +88,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 ![Beispielabbildung](Hackathon/Elemente-Hackathon.png)
 
+*Abbildung 2: Charackteristische Elemente eines Hackathons mit mehreren Teams*
+
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
