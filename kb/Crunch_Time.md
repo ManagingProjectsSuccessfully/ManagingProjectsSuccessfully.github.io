@@ -16,7 +16,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Folgen
 
-![Beispielabbildung](Crunch_Time/Magisches-Dreieck-Mint-1.png)
+![Beispielabbildung](Crunch_Time/Magisches-Dreieck-Mint.png)
 
 # Lösungen
 
