@@ -19,6 +19,8 @@ Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
+![Beispielabbildung](Kommunikation_Projektbeteiligte/Bild-01.jpg)
+
 Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
@@ -43,9 +45,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 * Verschiedene Teile eines Themas 
 * Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Kommunikation_Projektbeteiligte/test-file.jpg)
+* Kritik
 
 *lustiges Testbild*
 
