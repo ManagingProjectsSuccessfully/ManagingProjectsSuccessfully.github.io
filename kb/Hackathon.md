@@ -132,3 +132,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^7]: [Kollaborative Innovationsprozesse - Hackathons in Theorie und Praxis](https://link.springer.com/chapter/10.1007/978-3-658-16223-8_6) (S. ,S. )
 [^8]: [Grundlagen zu Hackathons](https://link.springer.com/book/10.1007/978-3-658-26028-6)
 
+
+
+
