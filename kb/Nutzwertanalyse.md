@@ -41,14 +41,15 @@ Durch Summierung der Einzelgewichtungen ergibt sich die gewichtete Punktzahl pro
 ## Beispiel
 
 Veranschaulichen kann man die Vorgehensweise an einem einfachen Beispiel:[^5]
-
+https://www.peterjohann-consulting.de/_images/peco-nutzwertanalyse-beispiel-neue-website-xl.png
 
 # Vor- und Nachteile der Nutzwertanalyse[^1][^3]
 
 Die NWA hat sowohl Vorteile als auch Nachteile. 
 
 | Vorteile  | Nachteile |
-| ------------- | ------------- |
+| ------------- | ------------- |![Screenshot (25)](https://user-images.githubusercontent.com/92951062/142764229-4c3c7ba9-ccf4-4be2-b544-2ace6f4c68c9.png)
+
 | Transparenz der Entscheidungsgründe  | Subjektive Bewertung  |
 | Schriftlichkeit & Nachvollziehbarkeit  | Bei zu vielen Alternativen wird Methode zu aufwändig  |
 | Analyse in Teamarbeit gut möglich  | Verfälschung der Ergebnisse möglich durch Überlappungen von Alternativen  |
