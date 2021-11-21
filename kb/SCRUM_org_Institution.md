@@ -12,6 +12,8 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hintergrundgeschichte
 
+![Beispielabbildung](SCRUM_org_Institution/Scrumorg-Logo_tagline-TM_(1)_(1)_(2).jpg)
+
 # Angebot
 
 # Konkurrenten
