@@ -29,79 +29,32 @@ Die letzte Eigenschaft bildet das Konfliktpotential, welches auf verschiedenen E
 
 # 3.	Arten von Innovationsprojekten
 
-Je nach Neuheitsgrad des Marktes und der Technologie lassen sich vier verschiedene Formen von Innovationsprojekten unterscheiden:[^5]
+Je nach Neuheitsgrad des Marktes und der Technologie lassen sich vier verschiedene Formen von Innovationsprojekten unterscheiden:[^4]
 
 |         |<img width=150/><br>Bestehende Technologie|<img width=200/><br>Neue Technologie|
 | -------------: | :-------------: | :-------------: |
 |**Bestehender Markt**|Inkrementelles<br>Innovationsprojekt|Disruptives<br>Innovationsprojekt|
 |**Neuer Markt**|Architektonisches<br>Innovationsprojekt|Radikales<br>Innovationsprojekt|
 
+# 4.	Träger des Innovationsprojekts
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Durchgeführt werden alle Formen der Innovationsprojekte durch ein bereichsübergreifendes Projektteam, welches sich aus Experten von verschiedenen Standorten zusammensetzt. Dieses Projektteam umfasst nicht nur Mitglieder aus den verschiedenen Funktionen des Unternehmens, sondern integriert in manchen Fällen auch Kunden oder Lieferanten, die das Innovationsprojekt mit Informationen aus den vor- oder nachgelagerten Wertschöpfungsstufen unterstützen.[^3]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# 5.	Phasen des Innovationsprojekts
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Ein Innovationsprojekt lässt sich in zwei große Phasen unterteilen, die ebenso Teil des Innovationsprozesses sind.[^3]
+Die erste Phase ist dabei die Forschung und Entwicklung, durch welche in erster Linie die innovative Idee umgesetzt wird und folglich eine Invention, also eine Erfindung, entsteht.[^3]
+Diese Invention wird dann in der zweiten Phase, die durch die erfolgreiche Markteinführung repräsentiert wird, zu einer Innovation.[^3]
 
-Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
+# 6.	Management
 
-Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl.
+Bei Innovationsprojekten mit kurzer Dauer kann im Management das sogenannte Stage-Gate-Tracking angewendet werden. Dabei werden vorweg mehrere Meilensteine festgelegt, anhand derer sich später Planabweichungen nachweisen lassen.[^3]
+Bei mehrjährigen Projekten hilft es, eine Meilensteintrendanalyse zu nutzen. Damit können vorher bereits mögliche spätere Abweichungen abgeschätzt werden und Verzögerungen in gewissem Maße prognostiziert werden.[^3]
 
+# 7.	Erfolgsfaktoren eines Innovationsprojekts
 
-# Aspekt 1
+Um den Erfolg eines Innovationsprojekts zu messen, werden die Faktoren Zeit, Qualität und Kosten herangezogen. Dabei werden die Soll-Werte mit den Ist-Werten verglichen und infolgedessen die mittlere negative Abweichung berechnet. Sowohl negative als auch positive Abweichungen des Ist-Zustands vom Soll-Zustand können sich negativ auf den Projekterfolg auswirken. Weicht man zu stark von Qualitätsanforderungen, Meilensteinterminen oder geplantem Kostenbudget ab, verursacht das in den meisten Fällen hohe Kosten. Werden die Planwerte allerdings eingehalten, so führt das zu einer erfolgreichen Umsetzung eines Innovationsprojekts.[^5]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Innovationsprojekte/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -118,5 +71,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: [Eric von Hippel: The Sources of Innovation, Oxford, 1988](https://link.springer.com/content/pdf/10.1007/978-3-8349-9320-5_10.pdf)
 [^2]: [Jan Eric Borchert: Operatives Innovationsmanagement in Unternehmensnetzwerken: Gestaltung von Instrumenten für Innovationsprojekte, Göttingen, 2006](https://books.google.de/books?hl=de&lr=&id=SBH_DwAAQBAJ&oi=fnd&pg=PR14&dq=innovationsprojekte&ots=ysHBRqOPqJ&sig=hWOvhN2a1oV1_59y_G0V0SzSxcU&redir_esc=y#v=onepage&q=innovationsprojekte&f=false)
 [^3]: [ Björn F. Söndgerath: Steuerung von Innovationsprojekten unter Einbeziehung von Erfolgsfaktoren, Magdeburg, 2002](https://opendata.uni-halle.de/bitstream/1981185920/10766/1/bjosoendgerath.pdf)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: [Ian Chaston: TECHNOLOGICAL ENTREPRENEURSHIP. Technology-Driven vs Market-Driven Innovation, Schweiz, 2017](https://link.springer.com/content/pdf/10.1007%2F978-3-319-45850-2.pdf)
+[^5]: [Rainer Erne: Wie wirksam sind Methoden des Projektmanagements für die Produktivität von Innovationsprojekten, Dornbirn, 2008](https://idp-lab.org/wp-content/uploads/IDP-Lab-Rainer-Erne-Wie-wirksam-sind-Methoden-des-Projektmanagements-f%C3%BCr-die-Produktivit%C3%A4t-von-Innovationsprojekten.pdf)
 
