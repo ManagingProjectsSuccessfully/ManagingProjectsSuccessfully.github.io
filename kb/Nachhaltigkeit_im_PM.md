@@ -83,7 +83,7 @@ Diese Methode der Nachhaltigkeit reduziert die Menge an Energie und Ressourcen, 
 
 * [Projektmanagement](Projektmanagement.md)
 * [Projectmanagement](Who_is_Who_Projectmanagement.md)
-
+* [Verantwortlichkeiten](Verantwortlichkeiten.md)
 
 # Weiterführende Literatur
 
