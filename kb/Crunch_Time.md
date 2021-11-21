@@ -2,7 +2,7 @@
 title: Crunch_Time
 tags: agil klassisch
 author: SimonM211
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Crunch_Time um ein erstes Verständnis dafür zu schaffen um was es hier geht.
