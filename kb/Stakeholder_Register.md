@@ -11,16 +11,15 @@ Das **Stakeholder Register** ist ein Werkzeug für die Projektplanung.
 2. [Erstellung eines Registers](#erstellung-eines-registers)  
 3. [Vorteile eines Registers](#vorteile-eines-registers)  
 4. [Siehe auch](#siehe-auch)  
-5. [Weiterführende Literatur](#weiterführende-literatur)  
-6. [Quellen](#quellen)
+5. [Quellen](#quellen)
 
 # Definition
 
-Beim Stakeholder Register handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben, sogenannte Stakeholder, besitzt. [^1]
+Beim **Stakeholder Register** handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines Projekts haben, sogenannte Stakeholder, besitzt. [^1]
 
 # Erstellung eines Registers
 
-Das Register wird früh im Planungsprozess von Projektmanagern angelegt und erfolgt die Erstellung eines Registers in den folgenden drei Schritten: [^1] [^2]
+Das Register wird früh im Planungsprozess von Projektleitern [^Projektleiter] angelegt und erfolgt die Erstellung eines Registers in den folgenden drei Schritten: [^1] [^2]
 
 ## 1. Identifizierung der Stakeholder 
 
@@ -29,13 +28,9 @@ Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, so
 
 ## 2. Erstellen des Dokuments
 
-Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird häufig Microsoft Excel benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt das Register Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2] 
+Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird häufig Microsoft Excel benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt, das Register Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2] 
 
-![Stakeholder Register Beispiel][Stakeholder Register Beispiel]
-
-[Stakeholder Register Beispiel]: https://github.com/21Nila/ManagingProjectsSuccessfully.github.io/tree/main/kb/Stakeholder_Register/stakeholder-register.jpg "Stakeholder Register Beispiel"
-
-[RegisterBeispiel]: https://github.com/21Nila/ManagingProjectsSuccessfully.github.io/tree/main/kb/Stakeholder_Register/stakeholder-register "RegisterBeispiel"
+![Stakeholder Register Beispiel](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")
 
 Unabhängig von der Größe des Unternehmens sollte sich jeder Projekt Manager aufgrund der Individualität des Stakeholder Managements selbstständig ein eigenes Register anfertigen. Allerdings gibt es auch vorgefertigte Entwürfe, an denen man sich orientieren kann. [^1]
 
@@ -89,17 +84,12 @@ Wie bereits erwähnt, sollte das Register schon am Anfang eines Projektes erstel
 * [Stakeholdermanagement](Stakeholdermanagement.md)
 * [Stakeholderanalyse](Stakeholderanalyse.md)
 
-# Weiterführende Literatur
-
-<!-- * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... -->
-
 # Quellen
+
 [^1]: [What is a Stakeholder Register and how to create a Stakeholder Register? (remote.tools)](https://www.remote.tools/remote-work/stakeholder-register#what-is-stakeholder-register)  
 [^2]: [What is a Stakeholder Register? (projectmanagementacademy)](https://projectmanagementacademy.net/resources/blog/what-is-a-stakeholder-register/)  
 
-<!--
-
-<!-- Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut oben im Front-Matter (Bereich zwischen den `---`). Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+<!-- * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... -- Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut oben im Front-Matter (Bereich zwischen den `---`). Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
  [^2]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^3]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
