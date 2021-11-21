@@ -22,6 +22,7 @@ Es gibt keine einheitliche Definition von öffentlichen Projekten aber eine prä
 
 # Die öffentliche Verwaltung
 Die öffentliche Verwaltung ist ein Teil der Exekutive[^7]. Dazu gehören sämtliche Ämter und Behörenden auf komunall-, regional- aber auch Bundesebene. Zwar gilt hier die Maßgabe ausschließlich das zu erfüllen, was für die Bürger am besten ist, im Rahmen der legislativen Vorgaben, jedoch kommt es auch hier oft zu parteilichen Interessenskonflikten[^8].
+
 Dies hat Vor- und Nachteile. Die Vergangenheit hat gezeigt dass es deswegen immer wieder zu Konflikten aufgrund verschiedener politischer Ansichten kommt und sich Projekte wegen mangelnder Einigkeit verzögern. Andereseits zeigt sich das so nicht nur vom Rechnungshof sondern auch von Kollegen besodners genau auf die Finger geschaut.
 
 # Projektmanagement im öffentlichen Sektor
