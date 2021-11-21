@@ -7,7 +7,7 @@ anrechnung: k
 
 
 
-"Es war einmal… der Mensch. Und mit ihm eine Geschichte. Storytelling, die Kunst des Erzählens, ist so alt wie die Menschheit. Geschichten haben eine einzigartige Kraft richtig eingesetzt sorgen sie für starkes Projekt Management[^1]."
+*"Es war einmal… der Mensch. Und mit ihm eine Geschichte. Storytelling, die Kunst des Erzählens, ist so alt wie die Menschheit. Geschichten haben eine einzigartige Kraft richtig eingesetzt sorgen sie für starkes Projekt Management[^1]."*
 
 # Storytelling
 
@@ -23,7 +23,7 @@ Geschichten haben meistens eine tieferen Sinn. Durch das Storytelling wird versu
 * Übertragung von Lebensweisheiten
 * Vermittlung von Werten und Normen
 
-Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführung der Mitarbeiter als Projektmanager kann man seine Kollegen und Mitarbeiter durch eine gut erzählte Geschichte mit Vermittlung von relevanten Projekt-bezogenen Inhalten, die Projektinvolvierten abholen und ihnen den Sinn und die Wichtigkeit des Projekts nahe bringen. Dadurch kann man deren intrinsische Motivation steigern, was sowohl für die Mentalität der Mitarbeiter förderlich ist, als auch diese produktiver arbeiten lässt[^1]. 
+Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführung der Kollegen und Mitarbeiter als Projektmanager kann man durch eine gut erzählte Geschichte mit Vermittlung von relevanten Projekt-bezogenen Inhalten, die Projektinvolvierten abholen und ihnen den Sinn und die Wichtigkeit des Projekts nahe bringen. Dadurch kann man deren intrinsische Motivation steigern, was sowohl für die Mentalität der Mitarbeiter förderlich ist, als auch diese produktiver arbeiten lässt[^1]. 
 
 
 
