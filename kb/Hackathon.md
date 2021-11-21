@@ -123,9 +123,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: (https://de.wikipedia.org/wiki/Hackathon)
-[^2]: (https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-hackathon/)
-[^3]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://de.wikipedia.org/wiki/Hackathon
+[^2]: https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-hackathon/
+[^3]: https://www.elektrotechnik.vogel.de/was-ist-ein-hackathon-definition-ablauf-vor-und-nachteile-a-841459/
+[^4]: https://digitaleneuordnung.de/blog/hackathon/
+[^5]: https://www.dev-insider.de/was-ist-ein-hackathon-a-810665/
+[^6]: https://www.vgsd.de/hackathon-ideen-fuer-die-zukunft-der-wirtschaft-in-rheinland-pfalz-gesucht/
+[^7]: [Kollaborative Innovationsprozesse - Hackathons in Theorie und Praxis](https://link.springer.com/chapter/10.1007/978-3-658-16223-8_6) (S. ,S. )
+[^8]: [Grundlagen zu Hackathons](https://link.springer.com/book/10.1007/978-3-658-26028-6)
 
