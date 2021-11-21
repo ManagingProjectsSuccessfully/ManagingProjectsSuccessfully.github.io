@@ -81,7 +81,6 @@ Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in versch
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
-
 [^1]: [The State of Project Management Annual Report 2021 (YouTube)](https://www.youtube.com/watch?v=hZd5SgZWoWU)
 [^2]: [Annual Report - The State of Project Management 2021 (PDF)](https://wellingtone.co.uk/wp-content/uploads/2021/03/The-State-of-PM-2021.pdf)
 [^3]: [Identifying the State of Project Management (PDF)](https://www.sciencedirect.com/science/article/pii/S1877705816302144)
