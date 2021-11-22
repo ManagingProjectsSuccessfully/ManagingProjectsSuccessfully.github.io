@@ -45,10 +45,9 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![projektmit 2](https://user-images.githubusercontent.com/92817695/142926241-77e0111b-78b9-410c-915e-f8ff14508fb7.jpg)
+![image](https://user-images.githubusercontent.com/92817695/142926386-c6e8bba3-c7f9-48c1-9b8c-9afc2c1b4a35.png)
 
 
-*lustiges Testbild*
 
 # Aspekt 2
 
