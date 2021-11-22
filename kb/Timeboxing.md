@@ -53,10 +53,11 @@ Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten 
 * Weniger Flexibilität
 * Weniger Zeit für Kreativität [^3][^4]
 
-# Konkrete Beispiele für Timeboxen
+# Konkrete Beispiele
 
-![Timeboxing-Beispiel](Timeboxing/Timeboxing-Beispiel.jpg)
-*Beispielhafter Wochenablauf Timeboxing* [^4]
+ Wochenablauf mit Timeboxing: 
+![Timeboxing-Beispiel](Timeboxing/Timeboxing_Beispiel.jpg)
+[^4]
 
 Weitere Beispiele:
 * Bis zum 10.07 soll das Angebot für den Kunden ausgearbeitet werden
@@ -70,6 +71,7 @@ Weitere Beispiele:
 * [Projektmanagement](kb/Projektmanagement.md)
 * [Pomodoro](kb/Pomodoro.md)
 * [SCRUM](kb/SCRUM.md)
+* [Daily SCRUM](kb/Daily_Scrum.md)
 * [Methoden](kb/Methoden.md)
 * [Zeitplanung](kb/Zeitplanung.md)
 * [Self-Management](kb/Self_Management.md)
