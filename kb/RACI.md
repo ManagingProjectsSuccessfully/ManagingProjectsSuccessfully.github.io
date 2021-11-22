@@ -34,15 +34,15 @@ Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umf
 
   
 Pro Aktivität sollte in der Regel nur **eine** Person *accountable* und *responsible* sein. Hingegen können **mehrere** Personen bei einer Aktivität *consulted* oder *informed* sein. Es kann auch vorkommen, dass eine Person für eine Aktivität **gleichzeitig** *accountable* und *responsible* ist. Wenn für eine Aktivität **keine** Person als *responsible* definiert ist, nennt man dies "Lack of responsibility". Wenn **mehr als eine Person**
-responsible ist, spricht man von "overlap in responsibility". [^3]
+responsible ist, spricht man von "overlap in responsibility". [^2]
 
 
 
 ![Beispielabbildung](RACI/Bild1.png)
 
-Beispielhafte RACI-Matrix [^2]
+Beispielhafte RACI-Matrix [^3]
 
-# Vorteile von RACI
+# Vorteile von RACI [^4]
 
 * Sie stellt die Beteiligten und Verantwortlichen **übersichtlich grafisch** dar.
 
@@ -55,9 +55,8 @@ Beispielhafte RACI-Matrix [^2]
 
 * Sie ist **einfach zu erstellen** in Excel oder PowerPoint.
 <br>
-<br>
 
-# Nachteile von RACI
+# Nachteile von RACI [^4]
 *  Die Matrix wird schnell **unübersichtlich**, wenn zu viele Aufgaben oder Mitarbeiter aufgeführt werden.
 
 * Große Tabellen sind sehr **aufwendig zu pflegen**, falls sich Projektinhalte oder –beteiligte ändern.
@@ -92,7 +91,6 @@ Es gibt eine Reihe von Varianten oder Alternativen, die einen ähnlichen Matrix-
 # Quellen
 
 [^1]: [Wer ist wofür verantwortlich? Diese Methode schafft Übersicht!](https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/raci-matrix/)
-[^2]: [RACI Matrix im Projekt verwenden](https://www.itnator.net/raci-matrix-im-projekt-verwenden/)
-[^3]: [RACI Matrix in der Praxis](https://www.trackplus.com/de/aufgabenmanagement/raci-matrix.html)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^2]:[RACI Matrix in der Praxis](https://www.trackplus.com/de/aufgabenmanagement/raci-matrix.html) 
+[^3]:[RACI Matrix im Projekt verwenden](https://www.itnator.net/raci-matrix-im-projekt-verwenden/)
+[^4]: [RACI-Matrix – Vorteile und Nachteile](https://t2informatik.de/wissen-kompakt/raci-matrix/)
