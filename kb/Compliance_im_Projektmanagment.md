@@ -5,7 +5,7 @@ author: moritzgrt
 anrechnung: k
 ---
 
-Comliance im Projektmanagement beschreibt im Prinzip, das regelgetreue Verhalten eines Unternehmens im gesetzlichen Kontext. Durch gezieltes Compliance Management sollen durch Prophylaxe gezielt Pflichtverletzungen, Schaden und Haftungsfälle eines Unternehmens vermieden werden. (Szabo, Bela: Compliance Management System) Ein Werkzeug um beispielsweise Lieferungszusagen einhalten zu können ist zum Beispiel das sogenannte [Timeboxing](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Timeboxing.md) sein.
+Comliance im Projektmanagement beschreibt im Prinzip, das regelgetreue Verhalten eines Unternehmens im gesetzlichen Kontext. Durch gezieltes Compliance Management sollen durch Prophylaxe gezielt Pflichtverletzungen, Schaden und Haftungsfälle eines Unternehmens vermieden werden. (Szabo, Bela: Compliance Management System) Ein Werkzeug um beispielsweise Lieferungszusagen einhalten zu können ist zum Beispiel das sogenannte [Timeboxing](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Timeboxing.md) sein. Compliance ist somit am Beginn einer Planungsphase für Projekte innerhalb von Unternehmen einzuordnen.
 
 
 # Rechtliche Grundlagen
@@ -30,15 +30,12 @@ Compliance dient in erster Linie dazu, Unternehmen und deren Akteure vor juristi
 
 # Abschließende Bemerkung und Einordnung in den Gesamtkontext
 
-Compliance ist essentiell für Unternehmen und sonstige Organisationen. Diese müssen bereits in der Planungsphase neuer Projekte die rechtlichen Grundlagen des Zielmarktes analysieren und in weitere Schritte mit einbeziehen. Deshalb ist Compliance im Projektmanagement unbedingt in den Beginn einer jedesn Planungsphase eines neuen Projektes einzuordnen und unumgänglich wenn wirtschaftlicher und juristischer Schaden vermieden werden soll. Interessant um zu verstehen an welcher Stelle Compliance bei der Projektplanung steht sind vor allem beispielsweise verschiedenste [Vorgehensmodell](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Vorgehensmodelle.md) die ein Projekt in mehrere Phasen unterteilt. Auch die [Digitalisierung im Projektmanagement](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM.md) spielt bei der Compliance eine große Rolle. Der ständige und schnelle Datenaustausch ermöglichen schnelle Reaktionen auf sich ändernde Umstände.
+Compliance ist essentiell für Unternehmen und sonstige Organisationen. Diese müssen bereits in der Planungsphase neuer Projekte die rechtlichen Grundlagen des Zielmarktes analysieren und in weitere Schritte mit einbeziehen. Es muss sichergestellt werden ob aktuell rechtliche Bestimmungen verletzt werden und daraufhin gehandelt werden und es muss für zukünftige Projekte die Basisinformationen der rechtlichen Verordnungen sowohl lokaler als auch internationaler Märkte zur Verfügung stellen um so das Unternehmen vor Schaden zu bewahren. Deshalb ist Compliance im Projektmanagement unbedingt in den Beginn einer jeden Planungsphase eines neuen Projektes einzuordnen und unumgänglich wenn wirtschaftlicher und juristischer Schaden vermieden werden soll. Interessant um zu verstehen an welcher Stelle Compliance bei der Projektplanung steht sind vor allem beispielsweise verschiedenste [Vorgehensmodell](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Vorgehensmodelle.md) die ein Projekt in mehrere Phasen unterteilt. Auch die [Digitalisierung im Projektmanagement](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM.md) spielt bei der Compliance eine große Rolle. Der ständige und schnelle Datenaustausch ermöglichen schnelle Reaktionen auf sich ändernde Umstände.
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Compliance_im_Projektmanagment.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Digitalisierung im Projektmanagement](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM.md)
+* [Timeboxing](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Timeboxing.md)
+* [Vorgehensmodelle](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Vorgehensmodelle.md)
 
 # Quellen
 
