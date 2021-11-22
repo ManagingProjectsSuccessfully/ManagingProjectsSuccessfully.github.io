@@ -4,8 +4,10 @@ tags: agil klassisch
 author: mirela08
 anrechnung: a
 ---
-Was ist Scrum at Scale?
-Scrum at Scale – oft auch Scrum@Scale mit dem ‘@’ Zeichen, ScrumAtScale zusammengefasst bzw. Scrum at Scale Framework – ist ein agiler Ansatz, um das parallele Vorgehen von nach Scrum agierenden Entwicklungsteams zu koordinieren. Im Scope sind dabei nicht nur Entwicklungsabteilungen, sondern alle Bereiche die arbeitsteilig Produkte hervorbringen.
+
+Kurzbeschreibung zu Scrum_at_Scale
+Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
+oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -81,8 +83,6 @@ So kann man eine Tabelle erstellen:
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^] [How to scale Scrum across a company with the help of Scrum@Scale](https://hygger.io/guides/agile/agile-at-scale/scrumscale/)
+[^] [Scrum@Scale – Ein echtes “Scrum of Scrums” Framework](https://digitaleneuordnung.de/blog/scrum-at-scale/)
+[^] [The Scrum@Scale Guide] (https://www.scruminc.com/wp-content/uploads/2014/07/Scrum-at-Scale-A-Modular-Approach.pdf)
