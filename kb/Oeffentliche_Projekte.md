@@ -42,7 +42,7 @@ Die Bundesregierung veröffentlicht regelmäßig einen [Leitfaden](https://www.b
 
 
 ## Kontrolle
-In der freien Wirtschaft wird ein ineffizienter Umgang mit den eigenen Ressourcen bestraft und führt zu Verlusten oder langfrisitg zur Insolvenz. In der öffentlichen Verwaltungen gibt es solche Gesetztmäßigkeiten nicht. Als Kontrollinstitution gibt es deshalb den Bundesrechnungshof. Der Bundesrechnungshof prüft die Rechnung sowie die Wirtschaftlichkeit und Ordnungsmäßigkeit der Haushalts-und Wirtschaftsführung[^6]. 
+In der freien Wirtschaft wird ein ineffizienter Umgang mit den eigenen Ressourcen bestraft und führt zu Verlusten oder langfristig zur Insolvenz. In der öffentlichen Verwaltung gibt es solche Gesetzmäßigkeiten nicht. Als Kontrollinstitution gibt es deshalb den Bundesrechnungshof. Der Bundesrechnungshof prüft die Rechnung sowie die Wirtschaftlichkeit und Ordnungsmäßigkeit der Haushalts-und Wirtschaftsführung[^6]. 
 
   
 # Kritik
