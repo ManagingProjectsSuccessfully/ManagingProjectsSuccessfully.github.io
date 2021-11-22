@@ -14,17 +14,17 @@ anrechnung: {k}
 
 
 Feedback wird oft mit Lob oder Kritik verwechselt- allerdings wird uns mit Hilfe von Feedback lediglich eine Rückmeldung über unsere Verhaltensweisen gegeben. 
-Feedback von Vorgesetzten, Kollegen, Freunden etc. kann uns dabei helfen, uns selbst weiterzuentwickeln, unsere Kompetenzen weiter auszubauen und (persönliche) Defizite aufzuarbeiten. [^2]
+Feedback von Vorgesetzten, Kollegen, Freunden etc. kann dabei helfen, uns selbst weiterzuentwickeln, unsere Kompetenzen weiter auszubauen und (persönliche) Defizite aufzuarbeiten. [^2]
 
 Im Job erhalten Mitarbeiter von Ihren Vorgesetzten mit Hilfe von Feedbackgesprächen Rückmeldung von Ihren Vorgesetzten in Bezug auf ihre Leistung und ihre Verhaltensweisen der vergangenen Wochen und Monate. [^3]
-Diese konstruktiven Rückmeldungen können den Mitarbeitern dabei helfen, die eigene Motivation zu steigern, die allgemeine Zusammenarbeit zu verbessern, potenzielle Konflikte frühzeitig erkennen und beheben, berufliche Orientierung zu schaffen und Ziele festzulegen. [^4]
+Diese konstruktiven Rückmeldungen können den Mitarbeitern dabei helfen, die eigene Motivation zu steigern, die allgemeine Zusammenarbeit zu verbessern, potenzielle Konflikte frühzeitig zu erkennen und anschließend zu beheben, berufliche Orientierung zu schaffen und Ziele festzulegen. [^4]
 
 
 ## 2. Mögliche Feedbackgesprächsthemen:
 
 *	Ziele und Zielerreichung
 *	Aktuelle Konflikte (und deren Lösungen)
-*	Motivation ubd Motivationsanreize
+*	Motivation und Motivationsanreize
 *	Wünsche und Anregungen
 
 
