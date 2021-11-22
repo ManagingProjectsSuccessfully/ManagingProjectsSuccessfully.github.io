@@ -1,6 +1,6 @@
 ---
 title: Szenario_Technik
-tags: agil klassisch
+tags: agil klassisch 
 author: JanEhrFAU
 anrechnung: k
 ---
@@ -12,8 +12,8 @@ zu erreichen.
 
 ## Vorgehen
 
-Den Grundstein des Verfahrens bilden in der Regel ein positives Extrem-Szenario(Best Case), sowie ein negatives Extrem-Szenario(Worst Case).
-Häufig zu sehen ist zum Beispiel auch das sogenannte Trend-Szenario, welches dasjenige Szenario ist, das als am wahrscheinlichsten erklärt wird.[^2]
+Den Grundstein des Verfahrens bildet in der Regel die Erarbetung eines positiven Extrem-Szenarios (Best Case), sowie eines negativen Extrem-Szenarios (Worst Case).
+Häufig zu sehen ist auch das sogenannte Trend-Szenario, welches dasjenige Szenario ist, das unter unveränderten Umwelteinflüssen und ohne Störereignisse entstehen würde.[^2]
 Analysiert man diese möglichen Ergebnisse, sodass weitestgehend Erklärungen für die Entwicklung zu dem jeweiligen Endzustand gefunden wurden, 
 lassen sich deutlich einfacher Entscheidungen treffen, die einen mit größerer Wahrscheinlichkeit in Richtung
 des Best-Case-Szenarios bringen.
@@ -21,32 +21,40 @@ des Best-Case-Szenarios bringen.
 <img src="Szenario_Technik/Szenariotrichter.jpg" width="400"/>
 
 Abb.1[^5]: Der Szenariotrichter ist eine Visualisierung des Prozesses und zeigt die wachsende Diskrepanz zwischen den beden Extremszenarien und den 
-Verlauf des Trendszenarios, welches sich in der Regel ungefähr in der Mitte der extremen Prognosen befindet.
+Verlauf des Trendszenarios, welches sich in der Regel ungefähr in der Mitte der extremen Prognosen befindet. Trends sind in nahezu jedem (v.a. wirtschaftlichen) Bereich beobachtbar und können sehr hilfreich sein um Prognosen zu treffen. So findet man Trends zum Beispiel auch in der
+[Kosten-Trend-Analyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md), 
+sowie in der [Meilensteintrendanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse.md).
+
 
 Der Zeitverlauf startet in der Gegenwart (linkes Ende) und führt bis zu einem gewünschten Zeitpunkt in der Zukunft (rechtes Ende). Der Abstand zwischen
 der oberen und unteren Begrenzung repräsentiert die unterschiedlichen Bewertungen der jeweiligen Situationen. Bei dieser Abbildung ist auch in der Gegenwart
 eine Diskrepanz zwischen den Szenarien zu erkennen, welche durch alternative Sichtweisen und Meinungen zur aktuellen Situation erklärt wird.[^2]
 Andere Abbildungen verzichten auf dieses Merkmal (s. Abb.2).
 
+<img src="Szenario_Technik/szenariotrichter2.png" width="400"/>
 
+Abb.2[^4]: Alternative Darstellung des Szenariotrichters mit Beispielen.
 
-Trends sind in nahezu jedem (v.a. wirtschaftlichen) Bereich beobachtbar und können sehr hilfreich sein um Prognosen zu treffen. So findet man Trends zum Beispiel auch in der
-[Kosten-Trend-Analyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md), 
-sowie in der [Meilensteintrendanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse.md).
 
 
 
 ## Herkunft und Anwendungsbereiche
 
-Ihren Ursprung hat die Technik im militärischen Bereich[^3], heutzutage findet sie jedoch in zahlreichen Feldern Gebrauch. Dazu gehören Politik, 
-Wissenschaft, Wirtschaft, aber auch in der Psychologie und Psychotherapie.[^2]
+Ihren Ursprung hat die Technik im militärischen Bereich[^3][^6], heutzutage findet sie jedoch in zahlreichen Feldern Gebrauch. Dazu gehören Politik, 
+Wissenschaft, Wirtschaft, aber auch in der Psychologie und Psychotherapie.[^2] Diese nahezu universelle Einsatzmöglichkeit hängt mit der allgemeinen
+Definition und Vorgehensweise der Szenariotechnik zusammen. In jedem Bereich können realistische Positiv-, sowie Negativszenarien ermittelt werden
+und Gegen- oder Präventivmaßnahmen ausgearbeitet werden. So eignet sich die Methode sehr gut um Projekt erfolgreich zu leiten und durchzuführen, da
+das Team auf möglichst viele Risiken vorbereitet wird.
 
 ## Vergleich mit anderen Methoden
 
 <img src="Szenario_Technik/Vergleichstabelle.png" width="400"/>
 
 Abb.1[^3] Hier wird die Szenariotechnik anhand ausgewählter Kriterien mit ähnlichen Verfahren verglichen. Einen tieferen Einblick ins Portfoliomanagement
-finden Sie im zugehörigen [Artikel](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md).
+finden Sie im zugehörigen [Artikel](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md). In diesem Vergleich 
+schneidet die Szenariotechnik am Besten ab, auch wenn sie selbstverständlich Nachteile hat. Einerseits ist die Methode recht aufwendig, da verschiedenste
+Szenarien, sowie entsprechende Maßnahmen entworfen und formuliert werden müssen. Eine weitere Herausforderung ist es dabei, das Modell in der Gesamtheit
+so übersichtlich und verständlich wie möglich zu halten.
 
 Kurzbeschreibung zu Szenario_Technik um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
@@ -143,8 +151,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: https://www.duden.de/rechtschreibung/Szenario#bedeutungen
 [^2]: https://de.wikipedia.org/wiki/Szenariotechnik
 [^3]: https://books.google.de/books?hl=en&lr=&id=IwXyBgAAQBAJ&oi=fnd&pg=PA255&dq=Szenario+technik&ots=n8xhd-v6GO&sig=ZBDkIuKaDVY-umf8WjX9ALC1DnE&redir_esc=y#v=onepage&q=Szenario%20technik&f=false
-[^4]:
+[^4]: https://www.lexoffice.de/lexikon/szenariotechnik/
 [^5]: [Von Benutzer:Beschloss - eigenerstellt, CC BY-SA 3.0] https://commons.wikimedia.org/w/index.php?curid=23781638
+[^6]: https://www.grin.com/document/115846
 
 [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
