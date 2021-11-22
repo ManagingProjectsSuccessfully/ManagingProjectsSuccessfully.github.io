@@ -17,7 +17,7 @@ Scrum ist für Teams mit einer Größe von drei bis neun Entwicklern konzipiert,
 Das Ziel von Scrum ist die schnelle und kostengünstige Entwicklung hochwertiger Produkte.
 Zur Scrum Theorie gehören die drei Säulen "Transparenz", "Überprüfung" und "Anpassung".
 
-# ![image](https://user-images.githubusercontent.com/92396490/140649160-db302520-d38e-44d8-9f54-52269063565a.png)
+![image](/kb/Scrum_Ueberpruefung/Scrum_Ueberpruefung.png)
 
 
 # 2. Säule - Überprüfung 
