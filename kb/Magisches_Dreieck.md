@@ -10,20 +10,20 @@ Während des Projektverlaufs und nach dem Abschluss gilt das magische Dreieck al
 
 ## 1.Dimensionen des Magisches Dreiecks
 ### 1.1	Zeitdimension
-Der Parameter Zeit beschreibt relevante Zeitpunkte und Fristen. Neben der zentralen Frage wie viel Zeit das Projekt in Anspruch nehmen soll, spielen auch Zwischentermine und Meilensteine eine wichtige Rolle.
+Der Parameter Zeit beschreibt relevante Zeitpunkte und Fristen. Neben der zentralen Frage wie viel Zeit das Projekt in Anspruch nehmen soll, spielen auch Zwischentermine und Meilensteine eine wichtige Rolle.[^1]
 ### 1.2	Kostendimension
-Die Kostendimension bezeichnet die finanziellen Aufwände und das für das Projekt verfügbare Budget. Dieses meint neben finanziellen und Sachmitteln auch das interne und externe Personal. Für die Garantie der Wirtschaftlichkeit sollte das Budget im Vorhinein bestimmt und im Laufe des Projektes nicht überschritten werden.
+Die Kostendimension bezeichnet die finanziellen Aufwände und das für das Projekt verfügbare Budget. Dieses meint neben finanziellen und Sachmitteln auch das interne und externe Personal. Für die Garantie der Wirtschaftlichkeit sollte das Budget im Vorhinein bestimmt und im Laufe des Projektes nicht überschritten werden.[^1]
 ### 1.3	Leistungsdimension
-Unter Leistungs-, oder Qualitätsdimension versteht man die zu erfüllenden Aufgaben und das daraus resultierende, erwünschte Ergebnis. Damit beeinflusst sie den Inhalt und Umfang des Projekts entscheidend und sollte mit jedem Steakholder und Beteiligten abgesprochen sein. Die Ziele der Leistungsdimension müssen nach der Smart-Formel aufgebaut sein.
+Unter Leistungs-, oder Qualitätsdimension versteht man die zu erfüllenden Aufgaben und das daraus resultierende, erwünschte Ergebnis. Damit beeinflusst sie den Inhalt und Umfang des Projekts entscheidend und sollte mit jedem Steakholder und Beteiligten abgesprochen sein. Die Ziele der Leistungsdimension müssen nach der Smart-Formel aufgebaut sein.[^1]
 
 Alle 3 Dimensionen haben eine direkte Verbindung und Wirkung zueinander. Die Hauptaufgabe des magischen Dreiecks ist dabei, diese darzustellen und somit das Planen eines Projektes zu erleichtern. Praktische Anwendungen des magischen Dreiecks sind dabei beispielsweise die umfassende Planung eines Projekts, das Festlegen von klaren Zielen, das Erkennen von Risiken, die Möglichkeit auf kurzfristige Änderungen des Projekts dynamisch und flexibel zu reagieren und die Überprüfung, ob die Ziele am Ende des Projekts erreicht wurden. [^1]
 
 ## 2. Zielkonflikte des magischen Dreiecks
 Eine der Kernfunktionen des magischen Dreiecks ist es zudem, die Konflikte zwischen den einzelnen Dimensionen aufzuzeigen. Dabei fällt auf, dass die individuelle Veränderung einer Dimension zwangsläufig auch die Veränderung und Verschiebung der anderen bedeutet. 
 ### 2.1 Kosten vs. Zeit
-Die Dimensionen Kosten und Zeit geraten besonders dann in Konflikt, wenn der angestrebte Zeitpunkt der Beendigung des Projekts nur schwer einzuhalten ist oder sich zu verschieben droht. Dann gilt es zu entscheiden, ob man die Kosten erhöht, um das angestrebte Datum einzuhalten oder die Frist verlängert. Eine solche Kostenerhöhung würde zum Beispiel mehr Überstunden für die Mitarbeiter oder die Einstellung neuen Personals bedeuten. Allerdings würde man dann das gesteckte Ziel der Kostendimension in Gefahr bringen.
+Die Dimensionen Kosten und Zeit geraten besonders dann in Konflikt, wenn der angestrebte Zeitpunkt der Beendigung des Projekts nur schwer einzuhalten ist oder sich zu verschieben droht. Dann gilt es zu entscheiden, ob man die Kosten erhöht, um das angestrebte Datum einzuhalten oder die Frist verlängert. Eine solche Kostenerhöhung würde zum Beispiel mehr Überstunden für die Mitarbeiter oder die Einstellung neuen Personals bedeuten. Allerdings würde man dann das gesteckte Ziel der Kostendimension in Gefahr bringen.[^3]
 ### 2.2 Leistung vs. Zeit
-Eine weitere Möglichkeit die Projektfrist einzuhalten wäre die Qualität des Produktes anzupassen, was zur Folge eine Beeinträchtigung der Leistungsdimension hätte. Die Ziele werden dann -außer man ist bereit zu akzeptieren, dass die Zeitdimension sich verschiebt- nicht erreicht.
+Eine weitere Möglichkeit die Projektfrist einzuhalten wäre die Qualität des Produktes anzupassen, was zur Folge eine Beeinträchtigung der Leistungsdimension hätte. Die Ziele werden dann -außer man ist bereit zu akzeptieren, dass die Zeitdimension sich verschiebt- nicht erreicht.[^2]
 ### 2.3Leistung vs. Kosten
 Diese beiden Größen stehen besonders dann in Konflikt, wenn Probleme bei der Einhaltung der Leistungsdimension bestehen. Dann gilt es abzuwägen, ob man diese Probleme mit einer Kostenerhöhung anpasst und damit die Ziele der Kostendimension in Gefahr bringt oder die Leistung des Produkts und somit auch die Leistungsdimension schmälert.[^2]
 
@@ -120,7 +120,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: https://www.factro.de/blog/magisches-dreieck/ 
-[^2]: https://www.inloox.de/projektmanagement-glossar/magisches-dreieck/
-[^3]: https://blog.hubspot.de/marketing/magisches-dreieck
+[^1]: [Magisches Dreieck im Projektmanagement](https://www.factro.de/blog/magisches-dreieck/)
+[^2]: [Magisches Dreieck](https://www.inloox.de/projektmanagement-glossar/magisches-dreieck/)
+[^3]: [Das magische Dreieck: Zaubern im Projektmanagement](https://blog.hubspot.de/marketing/magisches-dreieck)
 
