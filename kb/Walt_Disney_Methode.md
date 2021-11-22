@@ -6,66 +6,54 @@ anrechnung: k
 ---
 
 Die **Walt-Disney-Methode**, welche nach ihrem Urheber [Walt Disney](https://de.wikipedia.org/wiki/Walt_Disney) benannt wurde, ist eine [Kreativitätstechnik](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) auf Basis eines Rollenspiels. Dabei nehmen verschiedene Personen die Positionen eines „Träumers“, „Realisten“ und „Kritiker“ ein, um sich mit einem Problem auseinanderzusetzen. Die Methode wurde von [Robert B. Dilts](https://de.wikipedia.org/wiki/Robert_Dilts) im Jahr 1994 veröffentlicht[^1]. 
-
 # Einordnung der Methode
-Methoden zur Beschleunigung des Ideenflusses in einer Gruppe, zur Überwindung mentaler Blockaden, zur Erweiterung der Suchrichtung sowie zur expliziteren Formulierung von Problemen sind alles Methoden für Kreativitätstechniken. Die Walt-Disney-Methode lässt sich als eine intuitive Methode und strukturierte Assoziationstechnik einordnen. Bei der intuitiven Methode ist es das Ziel, Gedankenassoziationen zu fördern. 
+Methoden zur Beschleunigung des Ideenflusses in einer Gruppe, zur Überwindung mentaler Blockaden, zur Erweiterung der Suchrichtung sowie zur expliziteren Formulierung von Problemen sind alles Methoden für Kreativitätstechniken. Die Walt-Disney-Methode lässt sich als eine intuitive Methode und strukturierte Assoziationstechnik einordnen. Bei der intuitiven Methode ist es das Ziel, Gedankenassoziationen zu fördern[^2]. 
 # Ursprung
 Walt Disney war berühmt für seine ehrgeizigen und kreativen Projekte, welche er sich ausgedacht als auch umgesetzt hat. Selbst fünfzig Jahre nach seinem Tod ist sein Name noch immer weltweit bekannt und schmückt eine Vielzahl von Filmen, Serien und Themenparks. 
 Der Erfolg von Walt Disney lag wohl unter anderem daran, dass es für ihn scheinbar keine Grenzen gab. Walt Disney selbst, sagte einst 
 >„If you can dream it, you can do it.“. 
 
-Und genau dieses berühmte Zitat zeigte sich auch beim Kreativitätsprozess der Walt Disney Company. Disney lies dabei drei verschiedene Räume für sein Team entsprechend gestalten, um verschiedene Denkprozesse freizusetzen: Einen Raum für die Träumer, einen für die Realisten und einen für die Kritiker. 
-Robert B. Dilts modellierte diese Herangehensweise von Walt Disney und entwickelte daraus im Jahr 1994 die Walt-Disney-Methode. 
+Und genau dieses berühmte Zitat zeigte sich auch beim Kreativitätsprozess der Walt Disney Company. Disney lies dabei drei verschiedene Räume für sein Team entsprechend gestalten, um verschiedene Denkprozesse freizusetzen: Einen Raum für die Träumer, einen für die Realisten und einen für die Kritiker[^3]. 
+Robert B. Dilts modellierte diese Herangehensweise von Walt Disney und entwickelte daraus im Jahr 1994 die Walt-Disney-Methode[^4]. 
+# Methode
+Die Methode besteht aus einem Rollenspiel mit drei verschiedenen Rollen: der Träumer, der Realist und der Kritiker. Zudem macht es bei unerfahrenen Gruppen Sinn noch einen Moderator beziehungsweise Beobachter mit einzubinden. Um jede Rolle ihrem Platz zu bieten, kann man beispielsweise 3 Stühle mit etwas Dekoration in verschiedene Ecken eines Raumes stellen oder am Boden eines Raumes jeweils drei Karten mit unterschiedlichen Farben legen[^5]. Dies kann die Haltung der Teilnehmer in der jeweiligen Rolle beeinflussen[^4] 
+Jede Rolle wird von jedem Teilnehmer mindestens einmal durchlaufen. 
+# Ablauf
 
-# 
+
+# Die Rollen
+
+![image](https://user-images.githubusercontent.com/92786176/142843301-82491015-25e8-4a16-9a41-8ad72ffe2003.png)
+## Der Träumer
+
+## Der Realist
+
+## Der Kritiker
+
+## Der Moderator/Beobachter
+
+# Ablauf
+Das Team beginnt mit der Rolle des Träumers. Alle Teilnehmer lassen Ihre Fantasie freien Lauf - ohne Grenzen oder Vorgaben. Denn selbst die verrückteste Ideen können neue Ideen oder Lösungen nach sich ziehen. Es folgt dir Rolle des REalisten. Jede Idee wird geprüft, ob beispielsweise schon Grudlagen vorhanden sind, was für die Umsetzung benötigt werd oder wie man sich bei der Idee fühlt. Bei einer solchen ANalysen kann sich mancher versponnene Einfall als innovativer Ansatz entpuppen. 
+Nun übernimmt das Team die Rolle des Kritikiers. Er soll isich mind mit der Frage beschäftigen, inwieweit eine Idee verbessert werden kann, welche Chanchen und Risiken sie eröffnent, was eventuell übersehen wurde und was von Vorschlag insgesamt zu halten ist.
+
+# Anwendungsbereiche
+Womöglich hat der Name des Urhebers für viele eine eigene Zugkraft - ist doch Walt Disney die prototypische Traumfabrik Hollywoods. Insgesamt lösst sich die Methode mit relativ geringen Aufwand einsetze. Sie kann bei der Ideenfindung, Problemlösung, bei Entschieudngen und Bewertungen helfen. 
 
 # Quellen
 [^1]: [Individuelle Persönlichkeitsentwicklung: Growing by Transformation](https://link.springer.com/content/pdf/10.1007%2F978-3-658-09453-9.pdf) 
-Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^2]: [Der Kunde als Innovationspartner S. 156 f](https://books.google.de/books?id=0rZlZ1Z_OCkC&pg=PT150&lpg=PT150&dq=strukturierte+assoziationstechnik+walt+disney&source=bl&ots=FthndGPfjR&sig=ACfU3U2QIBmMTMWdlYRXwaIyCGRIku5FQw&hl=de&sa=X&ved=2ahUKEwjgv_HGlZ30AhUQGewKHYL7AiMQ6AF6BAghEAM#v=onepage&q=strukturierte%20assoziationstechnik%20walt%20disney&f=false)
+[^3]: [Lösungsorientierte Kurzberatung - Was auf schnellem Wege Nutzen bringt S. 190](https://link.springer.com/content/pdf/10.1007%2F978-3-658-07752-5.pdf)
+[^4]: [Kreativ wie Walt Disney](https://blog.wellke.de/wp-content/uploads/2017/08/Disney-Strategie-blog-Kreativ-wie-Walt-Disney-pdf-dowload-Hans-Peter-Wellke.pdf)
+[^5]: [Individuelle Persönlichkeitsentwicklung: Growing by Transformation S. 108ff](https://link.springer.com/content/pdf/10.1007%2F978-3-658-09453-9.pdf)
 
 
-Kurzbeschreibung zu Walt_Disney_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+[Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+
 
 ![Beispielabbildung](Walt_Disney_Methode/test-file.jpg)
 
