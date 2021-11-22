@@ -5,17 +5,19 @@ author: 5SY5
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Cynefin-Framework um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Cynefin Framework wurde vom britisch walischen Forscher und Berater für Wissensmanagement David Snowden Johnson entwickelt. Das Wort "Cynefin" stammt aus dem walischen und 
+bedeutet so viel wie "Lebensraum", damit wollte Snowden ausdrücken, dass zwischen den Individuen und ihrer Umwelt eine Vielfalt von Wechselwirkungen bestehen. Diese 
+Wechselwirkung macht eine vollkommene analytische Beschreibung des realen Systems unmöglich[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das Modell hat die Aufgabe Probleme, Situationen und Systeme zu beschreiben. Dabei kategorisiert das Model die einzelnen Probleme in sogenannte Problemdomänen, die wiederum 
+einen Anhaltspunkt bieten, welche Erklärungen oder Lösungen zutreffen könnten.
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
+Literatur kann via Fußnoten angegeben werden. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
@@ -37,13 +39,15 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# 
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
 * Verschiedene Teile eines Themas 
 * Historische Entwicklung
 * Kritik 
+![image](https://user-images.githubusercontent.com/92875736/142922356-6b5b9276-4f43-4ab4-b25b-f23b7c9f800f.png)
+
 
 ![Beispielabbildung](Cynefin-Framework/test-file.jpg)
 
@@ -97,7 +101,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [Cynefin Framework (Projektmagazin)](https://www.projektmagazin.de/glossarterm/cynefin-framework)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
