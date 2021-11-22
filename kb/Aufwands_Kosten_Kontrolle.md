@@ -20,7 +20,7 @@ Beispiele hierfür sind Personalkosten, Materialkosten, Kosten für Beratungen u
 Wichtig für die Bestimmung der Projektkosten ist die Erstellung eines Projektplans. Dieser ist ein zentraler Bestandteil einer exakten Budgetierung. Ohne das Wissen über die nötigen Arbeitsschritte und den dafür vorgesehenen Material- und Zeitaufwand lässt sich eine Vorab-Kostenrechnung nicht durchführen.
 Die Stundenkontierung und die Rechnungsprüfung sind die wichtigsten Elemente einer zielorientierten Aufwands- und Kostenkontrolle. 
 Mittels der Stundenkontierung werden die angefallenen Entwicklungsstunden jeweils für die Personen, die Aufgabe und die dafür aufgewendete Zeit erfasst und können anschließend in einer Plan/Ist-Tabelle einem Vergleich unterzogen werden. 
-Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Prokjekt vorgesehenen Budgets zu sichern.[^3]
+Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Projekt vorgesehenen Budgets zu sichern.[^3]
 
 
 
@@ -50,8 +50,8 @@ Liegen die Ist-Kosten über dem Fertigungsstellungswert, dann wurden entweder ei
 
 Für eine genauere Beschreibung siehe: [Earned Value Analyse](Earned_Value_Analyse.md)
 
-# Nutzen der Aufwans- und Kostenanalyse 
-Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Prokjekt vorgesehenen Budgets zu sichern.
+# Nutzen der Aufwands- und Kostenanalyse 
+Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Projekt vorgesehenen Budgets zu sichern.
 Meist wird der Arbeitsfortschritt in wöchentlichen Abständen überprüft. Bei Projekten mit einer deutlich längeren Laufzeiten von mehreren Monaten reicht auch ein monatlicher Check.
 Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, nämlich wenn bestimmte Arbeitspakete zu geplanten Meilensteinen abgeschlossen sind. 
 
