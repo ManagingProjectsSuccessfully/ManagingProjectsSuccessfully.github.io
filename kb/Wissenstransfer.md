@@ -104,7 +104,7 @@ in diesem Kontext eine essenzielle Rolle ein.[^14][^15]
 
 [^1]: [Wissenstransfer - Weiterentwicklung durch den Austausch von Wissen](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
 [^2]: [Wissenstransfer - einfach erklärt, YouTube](https://www.youtube.com/watch?v=wlNf-T9LqV0)
-[^3]: Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.* Heft 5, 1998, S. 235–263.
+[^3]: Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.* Heft 5, 1998, S. 235–252.
 [^4]: [Phasen Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer)
 [^5]: [Phasenmodell nach Krogh und Köhne](https://www.google.de/url?sa=i&url=https%3A%2F%2Funipub.uni-graz.at%2Fobvugrhs%2Fcontent%2Ftitleinfo%2F408896%2Ffull.pdf&psig=AOvVaw1dosZ_jsmGKr2-k36fpIKS&ust=1637082234697000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJCxkdrsmvQCFQAAAAAdAAAAABAc)
 [^6]: [Wasserfall-Modell](https://de.wikipedia.org/wiki/Wasserfallmodell)
