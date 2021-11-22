@@ -34,7 +34,7 @@ New Work übt des Weiteren schwere Kritik an der Lohnarbeit, da der Mensch nur a
 
 # New Work heute
 
-In den letzten zwei Jahrzehnten hat New Work durch die zunehmende Forderung nach selbstbestimmter und erfüllender Arbeit erheblich an Bedeutung in Unternehmen gewonnen. [^6] So setzten Unternehmen auf eine Vielzahl an Methoden um sich "New Work auf die Fahne zu schreiben". [^10] Solche Methoden umfassen bspw. das Anbieten von Homeoffice, Tischtennisplatten und "recreation areas" im Allgemeinen. [^10]
+In den letzten zwei Jahrzehnten hat New Work durch die zunehmende Forderung nach selbstbestimmter und erfüllender Arbeit erheblich an Bedeutung in Unternehmen gewonnen. [^6] So setzten Unternehmen auf eine Vielzahl an Methoden um sich "New Work auf die Fahne zu schreiben". [^9] Solche Methoden umfassen bspw. das Anbieten von Homeoffice, Tischtennisplatten und "recreation areas" im Allgemeinen. [^9]
 Friethjof bezeichnet dieses Verständnis jedoch als "Lohnarbeit im Minirock" und als einen, von der ursprünglichen Definition, abweichenden Modebegriff. [^6]
 
 Im Gegensatz dazu gibt es auch Unternehmen die versuchen New Work zu verstehen und auf die Anforderungen der Wirtschaft umzusetzen.
@@ -45,6 +45,7 @@ Die von [Humanfy](https://humanfy.de/new-work-charta/) definierte "New Work Char
 
 
 ![New Work Charta](New_Work/new_work.jpg)
+
 
 *Die 5 Prinzipien von New Work (Ausgearbeitet von [Humanfy](https://humanfy.de/new-work-charta/))* [^3]
 
@@ -95,6 +96,5 @@ Um den Mitarbeitenden eine erfüllende Beschäftigung zu bieten, orientieren sic
 [^6]: [Hornung S (2018) Interview zu New Work Frithjof Bergmann](https://www.haufe.de/personal/hr-management/frithjof-bergmann-uebt-kritik-an-akteuller-new-work-debatte_80_467516.html)
 [^7]: [University of Michigan](https://news.umich.edu/eight-faculty-members-retire/)
 [^8]: [New Work Definition](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/new-work/)
-[^9]: B. Frithjof, Neue Arbeit neue Kultur, Arbor Verlag 2017, EAN 9783867812085
-[^10]: [On the Way to New Work Folge #100 mit Fritjhof Bergmann](https://open.spotify.com/episode/29PXaxK6U0I6BM5FCmlMgY?si=G5N6I79RQT6Bxp3hEEUQ0A)
+[^9]: [On the Way to New Work Folge #100 mit Fritjhof Bergmann](https://open.spotify.com/episode/29PXaxK6U0I6BM5FCmlMgY?si=G5N6I79RQT6Bxp3hEEUQ0A)
 
