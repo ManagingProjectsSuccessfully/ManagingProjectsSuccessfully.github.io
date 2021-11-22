@@ -2,7 +2,7 @@
 title: Scrum_at_Scale
 tags: agil klassisch
 author: mirela08
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Scrum_at_Scale
