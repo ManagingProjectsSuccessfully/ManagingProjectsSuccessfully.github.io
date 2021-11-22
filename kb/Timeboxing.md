@@ -84,7 +84,7 @@ Weitere Beispiele:
 * [Zeitmanagement: Timeboxing mit Pomodoro Technik](https://www.leclere-solutions.com/2020/05/18/zeitmanagement-timeboxing-mit-pomodoro-technik/)
 * [Time-Boxing bei SCRUM](https://scrum-master.de/Scrum-Meetings/Time-Boxing)
 
-
+ 
 # Quellen
 
 [^1]: [Timeboxing: Produktiver arbeiten durch klare Zeiten](https://karrierebibel.de/timeboxing/), abgerufen am 20.11.2021
