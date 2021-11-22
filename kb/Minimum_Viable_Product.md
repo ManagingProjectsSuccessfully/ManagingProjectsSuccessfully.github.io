@@ -5,7 +5,7 @@ author: Charles0209
 anrechnung: k 
 ---
 
-Das Minimum Viable Product ist eine Entwicklungstechnik, das Anwendung im agilen [Projektmanagement](Projektmanagement.md) findet.[^1][^2]
+Das Minimum Viable Product ist eine Entwicklungskonzept, das Anwendung im agilen [Projektmanagement](Projektmanagement.md) findet.[^1][^2]
 
 # Definition
 Ein Minimum Viable Product ist die erste Version eines Produktes beziehungsweise der erste Lösungsansatz eines bestehenden Problems. Es muss genügend Features mit ausreichender Qualität enthalten, um eine Kundengruppe zu erwerben. Im Vordergrund steht das Sammeln von möglichst vielen Informationen und Feedback, wie Kunden das neue Produkt verwenden.[^3]
@@ -93,12 +93,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * [Interaktion](Interaktion.md)
 
 * [Entwicklungsprojekte](Entwicklungsprojekte.md)
-* [IT-Projekte](IT-Projekte.md)
 * [Projektmanagement_in_Startups](Projektmanagement_in_Startups.md)
-* [Methoden](Methoden.md)
 * [Projektstart](Projektstart.md)
-* [Projektmanagement](Projektmanagement.md)
 
+* [Methoden](Methoden.md)
 
 # Weiterführende Literatur
 
