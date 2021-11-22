@@ -5,6 +5,70 @@ author: Tjara1
 anrechnung: k 
 ---
 
+Die SMART-Methode und deren damit verbundenen Zielanforderungen werden im Projektmanagement oft genutzt, um Ziele einzelner Projekte besser definieren zu können. Der US-amerikanische Management Consultant und Ökonom Peter F. Ducker hat die einzelnen SMART-Merkmale erstmals formuliert. Das Akronym S.M.A.R.T steht für spezifisch, messbar, attraktiv, realistisch und terminiert. Im Projektmanagement tragen SMARTe Ziele dazu bei, aus einem Ist-Zustand einen gewollten Soll-Zustand zu erzeugen und dabei nie den Fokus auf das Projekt zu verlieren. 
+
+# S.M.A.R.T im klassischen Projektmanagement
+
+Ein Ziel ist nur dann SMART, wenn es alle fünf Aspekte der SMART-Methode berücksichtigt. Da es zu Konflikten zwischen den einzelnen Kriterien kommen kann, ist es wichtig diese gegeneinander abzuwägen. 
+
+![SMART_Ziele](SMART_Ziele)
+
+*Die einzelnen SMART-Kriterien im Überblick*
+
+## Spezifisch
+
+Laut der SMART-Methode müssen Ziele stets spezifisch formuliert sein. Das heißt, um ein Projekt erfolgreich abschließen zu können, benötigt man unmissverständliche und detaillierte Angaben. Vage Beschreibungen und Vorgaben könnten für Verwirrung sorgen und die Erreichung der einzelnen Ziele somit gefährden. Wird ein Ziel spezifisch definiert, sollten folgende Fragen beantwortet werden:
+
+* Welches Ziel wird verfolgt?
+* Was soll in welchem Umfang erreicht werden?
+
+## Messbar
+
+Die Erfolge innerhalb des Zielerreichungsprozesses sollten jederzeit messbar sein. Dabei kann anhand quantitativer und qualitativer Kriterien ermittelt werden, ob einzelne Etappen während des Prozesses erreicht wurden. Es soll jederzeit ein Vergleich zwischen dem derzeitigen Ist-Zustand und dem gewollten Soll-Zustand gemacht werden können. Wichtige Fragen bei diesem Schritt der Zieldefinition sind beispielsweise:
+
+* Wie ist der derzeitige Stand?
+* Welche Kriterien oder Meilensteine müssen definiert werden, um den Erfolg messen zu können?
+
+## Attraktiv
+
+Ein Ziel sollte für alle involvierten Personen attraktiv gestaltet sein, um deren Motivation positiv und nicht negativ zu beeinflussen. Das persönliche Engagement der Verantwortlichen steigt an, wenn sie sich mit dem Ziel identifizieren können und dieses akzeptieren. Folgende Punkte sollten den Beteiligten vermittelt werden, um die Attraktivität des Ziels zu erhöhen:
+
+* Gründe, die für die Zielerreichung sprechen?
+* Welcher positive Nutzen resultiert aus der Zielerreichung?
+
+## Realistisch
+
+Ziele sollten zwar herausfordernd, jedoch nicht utopisch sein. Ist ein Ziel schon bei erster Betrachtung zu kompliziert, oder aufgrund von fehlenden Kompetenzen und Ressourcen nicht umsetzbar, kann das schnell demotivierend wirken. Wichtig ist deshalb, dass das Ziel nach folgenden Kriterien ausgerichtet werden soll:
+
+* Was ist aufgrund der vorhandenen Fähigkeiten und Ressourcen möglich?
+* Müssen weitere Kompetenzen und Ressourcen mit einbezogen werden?
+* Können Hindernisse auftreten, wenn ja, welche?
+
+## Terminiert
+
+Der fünfte Punkt von SMARTen Zielen ist die Terminierung. Für ein Ziel sollte ein zeitlicher Rahmen mit vorgegebenem Fristende festgelegt werden. Zu einem bestimmten Zeitpunkt zu erreichende Meilensteine dienen zur Kontrolle und motivieren die Beteiligten. Bei der Planung von Zielen sollten deshalb folgende Punkte immer mit einbezogen werden:
+
+* Bis zu welchem Zeitpunkt soll das Ziel erreicht werden?
+* Wann werden die Meilensteine und deren Fälligkeiten sein?
+* Wie viel Zeit muss für die Zielerreichung eingeplant werden?
+* Gibt es Konsequenten bei nicht Einhaltung der Fristen, wenn ja, welche?
+
+# Ein Beispiel für ein SMARTes Ziel
+
+| Falsch                                                  | Richtig       |
+| -------------                                           | ------------- |
+| „Ich möchte einen Beitrag über SMART-Ziele verfassen.“  | „Ich werde für eine gute Note innerhalb von zwei Wochen einen GitHub-Beitrag mit 500 Wörtern über              SMART-Ziele verfassen, indem ich jeden zweiten Tag daran arbeite.“  |
+
+1. Spezifisch: Ich werde einen GitHub-Beitrag über SMART-Ziele verfassen.
+2. Messbar: Ein Beitrag mit 500 Wörtern.
+3. Attraktiv: Eine gute Note wird erzielt.
+4. Realistisch: Der Zeitumfang wirkt herausfordernd, jedoch nicht unerreichbar.
+5. Terminiert: Ich werde den Beitrag innerhalb von zwei Wochen schreiben, indem ich jeden zweiten Tag daran arbeite.
+
+# Siehe auch
+
+
+
 Kurzbeschreibung zu SMART_Ziele um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
