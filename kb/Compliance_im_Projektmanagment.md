@@ -23,7 +23,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 ![Beispielabbildung](Compliance_im_Projektmanagment/Compliance-Management-System-CMS.jpg)
 
-*lustiges Testbild*
+*Compliance Management System (CMS) (Leitner, Andreas: Compliance Management System)*
 
 ## Risiken und Prävention
 
@@ -77,5 +77,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 2. Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen (https://www.validatis.de/kyc-prozess/news-fachwissen/compliance/ , zuletzt aufgerufen am 21.11.2021)
 3. International Organization for Standardization: ISO 37301:2021
 Compliance management systems — Requirements with guidance for use (https://www.iso.org/standard/75080.html , zuletzt aufgerufen am 19.11.2021)
+4. Leitner, Andreas: Compliance Management System (CMS) (https://andreasleitner.de/compliance-management-system/ , zuletzt aufgerufen am 22.11.2021)
 
 
