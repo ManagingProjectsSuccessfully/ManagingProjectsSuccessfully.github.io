@@ -9,7 +9,7 @@ Zeitplanung bzw. Zeitmanagement ist der Prozess seine zur Verfügung stehende Ze
 Das Ziel der Zeitplanung bei Projekten ist die Feststellung, in welcher Zeitspanne ein Projekt abgeschlossen werden kann. Hierbei hilft die [Netzplantechnik](Netzplantechniken.md) bei der Terminplanung [^2]
 
 
-# Einbindung ins Magische Dreieck
+# Einbindung ins [Magische Dreieck](Magisches_Dreieck.md)
 Das Projektmanagement befindet sich in einem Spannungsfeld zwischen Qualität, Ressourceneinsatz und Zeit. Dieses Spannungsfeld bezeichnet man in der klassischen Literatur als Magisches Dreieck. Alle drei Dimensionen beeinflussen sich gegenseitig, sowohl positiv, als auch negativ. Zeit ist wie die anderen zwei Punkte ein limitierender Faktor. Hierbei legt sie nicht nur ein Start- und Endpunkt des Projektes, sondern auch zwischenzeitliche Termine, wie Deadlines fest. [^3]
 Zudem wird hier die Exaktheit der Termine festgelegt und die Wahrscheinlichkeit für Terminüberschreitungen berücksichtigt. [^2]
 
