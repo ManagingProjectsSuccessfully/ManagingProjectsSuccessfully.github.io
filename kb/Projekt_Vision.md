@@ -1,8 +1,8 @@
 ---
 title: Projekt_Vision
-tags: agil klassisch
+tags: klassisch
 author: Vallejk
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Projekt_Vision um ein erstes Verständnis dafür zu schaffen um was es hier geht.
