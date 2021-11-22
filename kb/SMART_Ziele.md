@@ -11,7 +11,7 @@ Die SMART-Methode und deren damit verbundenen Zielanforderungen werden im Projek
 
 Ein Ziel ist nur dann SMART, wenn es alle fünf Aspekte der SMART-Methode berücksichtigt. Da es zu Konflikten zwischen den einzelnen Kriterien kommen kann, ist es wichtig diese gegeneinander abzuwägen.[^1] 
 
-![SMART_Ziele](SMART_Ziele)
+![SMART_Ziele](SMART_Ziele/SMART_Ziele.png)
 
 *Die einzelnen SMART-Kriterien im Überblick*[^6]
 
