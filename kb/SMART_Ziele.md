@@ -5,7 +5,7 @@ author: Tjara1
 anrechnung: k 
 ---
 
-Die SMART-Methode und deren damit verbundenen Zielanforderungen werden im Projektmanagement oft genutzt, um Ziele einzelner Projekte besser definieren zu können. Der US-amerikanische Management Consultant und Ökonom Peter F. Ducker hat die einzelnen SMART-Merkmale erstmals formuliert. Das [Akronym](https://de.wiktionary.org/wiki/Akronym) S.M.A.R.T steht für spezifisch, messbar, attraktiv, realistisch und terminiert. Im Projektmanagement tragen SMARTe Ziele dazu bei, aus einem Ist-Zustand einen gewollten Soll-Zustand zu erzeugen und dabei nie den Fokus auf das Projekt zu verlieren. 
+Die SMART-Methode und deren damit verbundenen Zielanforderungen werden im Projektmanagement oft genutzt, um Ziele einzelner Projekte besser definieren zu können. Der US-amerikanische Management Consultant und Ökonom Peter F. Ducker hat die einzelnen SMART-Merkmale erstmals formuliert. Das [Akronym](https://de.wiktionary.org/wiki/Akronym) S.M.A.R.T steht für spezifisch, messbar, attraktiv, realistisch und terminiert. Im Projektmanagement tragen SMARTe Ziele dazu bei, aus einem Ist-Zustand einen gewollten Soll-Zustand zu erzeugen und dabei nie den Fokus auf das Projekt zu verlieren.[^1][^2]
 
 # S.M.A.R.T im klassischen Projektmanagement
 
@@ -76,7 +76,11 @@ Der fünfte Punkt von SMARTen Zielen ist die Terminierung. Für ein Ziel sollte 
 
 # Quellen
 
-
+[^1]: [Definition SMART-Ziele](https://karrierebibel.de/smart-methode/)
+[^2]: [S.M.A.R.T.-Methode- Specific Measurable Accepted Realistic Timely](https://link.springer.com/content/pdf/10.1007%2F978-3-658-09453-9.pdf)
+[^3]: [SMART-Ziele ein Überblick](https://projektmanagement-manufaktur.de/smart-ziele)
+[^4]: [There´s a S.M.A.R.T way to write management´s goals and objectives](https://community.mis.temple.edu/mis0855002fall2015/files/2015/10/S.M.A.R.T-Way-Management-Review.pdf)
+[^5]: [Die SMART-Methode: So setzen Sie SMART-Ziele](https://blog.hubspot.de/marketing/smart-ziele)
 
 
 
