@@ -52,7 +52,7 @@ Viele Konzepte in der die Europäische Investitionsbank als Geldgeber ohne Risik
 * Versicherbarkeit nur bei bestand eines Wartungsvertrags [^1]
 
 # Derzeitiger Stand
-Der Anteil der Erneuerbaren am deutschen Stromverbrauch lag 2020 bereits bei 45 Prozent.
+Der Anteil der Erneuerbaren Energien am deutschen Stromverbrauch lag 2020 bereits bei 45 Prozent.
 Der Anteil der erneuerbaren Energien am gesamten Energieverbrauch – also Strom, Wärme und Verkehr – beträgt mittlerweile fast 20 Prozent.
 Dennoch auch negative Nachrichten, da der Netzausbau nur schleppend vorrangeht 
 
