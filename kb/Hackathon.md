@@ -89,6 +89,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die Möglichkeit auf Networking, 
 
 # Weiterführende Literatur
 
+* [Open Data Hackathon – Vergleich von in Präsenz und online durchgeführten Projektseminaren](https://link.springer.com/article/10.1365/s40702-021-00794-0#ref-CR6)
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
