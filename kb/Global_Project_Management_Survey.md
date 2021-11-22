@@ -31,8 +31,8 @@ deren Erhebung, Verarbeitung und Veröffentlicung als valide angesehen werden ka
 *	Erstmals 2006 durchgeführt
 *	Erste weltweite Untersuchung von Projektmanagement innerhalb von Unternehmen
 *	Hauptreport erscheint einmal jährlich, kleinere (auch zwischen-)Reports teilweise mehrmals innerhalb eines Jahres 
-*	Zeigt aktuelle und zukünftige Entwicklungen im Bereich des Projektmanagements unter Einbezug von Marktforschungen die Einblicke in das Arbeitsleben von Projekt-, Programm und 
-  Portfoliomanagers gewähren
+*	Zeigt aktuelle und zukünftige Entwicklungen im Bereich des Projektmanagements unter Einbezug von Marktforschungen die Einblicke in das Arbeitsleben von Projekt-, Programm- und 
+  Portfoliomanagern gewähren
 *	Für den Report wird eine große Anzahl an unterschiedlichen Branchen und Regionen befragt
 *	Der Report ist auf der Internetseite des PMI kostenlos zur Verfügung gestellt
 *	Die Befragung wird jährlich, je nach aktueller Situation, variiert. Bei der Befragung 2020/2021 wurde vor allem der weltweiten Coronapandemie im Zusammenhang mit tradionellen 
