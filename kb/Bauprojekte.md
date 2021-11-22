@@ -10,7 +10,10 @@ Ein Bauprojekt, auch Bauvorhaben genannt, beschreibt die Errichtung eines in der
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Projektmanagement bei Bauprojekten
+
+Das Bauprojektmanagement kann als die Urform des Projektmanagements betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren.[^5]
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -102,3 +105,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
+[^5] [Bauprojektmanagement](https://www.projektmagazin.de/glossarterm/bauprojektmanagement)
