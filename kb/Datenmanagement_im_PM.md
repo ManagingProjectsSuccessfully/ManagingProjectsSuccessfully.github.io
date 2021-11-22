@@ -2,8 +2,16 @@
 title: Datenmanagement_im_PM
 tags: agil klassisch
 author: aq07yhug
-anrechnung: k oder a
+anrechnung: k
 ---
+
+Alle Projektaufgaben, von der punktuellen theoretischen Phase direkt bis hin zum Ende des [Projektlebenszyklus] (Projektmanagement.md), produzieren Informationen. Je größer das Projekt ist, desto größer ist die Summe und die Vielfalt von Informationen bzw. Daten, die überwacht werden müssen. Deswegen sind Projekte von der angemessenen Handhabung, Lagerung und Korrespondenz enormer Mengen an Daten abhängig.[^1]
+
+
+
+
+
+
 
 Kurzbeschreibung zu Datenmanagement_im_PM um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
