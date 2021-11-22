@@ -1,104 +1,67 @@
 ---
 title: Scrum_Principles
-tags: agil klassisch
+tags: agil
 author: lianalia
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Scrum_Principles um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Im agilen Projektmanagement kann Scrum eingesetzt werden, um große Projekte in kleinere, kürzere Aufgaben zu unterteilen und diese in selbstorganisierten Teams abzuschließen.
+Dabei folgt man verschiedenen Rahmenbedingungen, um Scrum erfolgreich zu implementieren. Neben den fünf [Scrum Values](Scrum_Values.md) Engagement, Fokus, Offenheit, Respekt und 
+Mut, gibt es auch sechs Prinzipien, die alle Scrum User befolgen sollten. Die Prinzipien bilden dabei das Fundament für das Agile Scrum Framework und sorgen gemeinsam mit den 
+Werten für mehr Transparenz innerhalb des Projektteams.[^1]
 
 
-# Aspekt 1
+# Die sechs Scrum Principles
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+1. Kontrolle über den empirischen Prozess
+In Scrum basiert der empirische Prozess eher auf den Beobachtungen und Experimenten als auf Theorie. Es gibt drei Ansatzpunkte der empirischen Prozesskontrolle: Transparenz, 
+Inspektion und Anpassung.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+2. Selbstorganisation
+Da der Scrum-Prozess von vielen Personen abhängt, ist Selbstorganisation unerlässlich. Alle Beteiligten werden befähigt, selbstständig zu arbeiten. Das 
+Selbstorganisationsprinzip ermöglicht eine stärkere Zustimmung aller Beteiligten und erleichtert die Bewertung der einzelnen Beiträge.
 
-![Beispielabbildung](Scrum_Principles/test-file.jpg)
+3. Zusammenarbeit
+Die tägliche offene Kommunikation zwischen dem Product Owner, dem Scrum Master und dem Scrum-Team ist ein sehr wichtiger Aspekt der Scrum-Agile-Implementierung. Scrum ist ein 
+kollaborativer Prozess, wie die vielen beteiligten Rollen zeigen. Dieses Prinzip konzentriert sich auch auf drei Dimensionen der Zusammenarbeit: Bewusstsein, 
+Artikulation und Aneignung.
 
-*lustiges Testbild*
+4. Wertorientierte Priorisierung
+Das Prinzip beinhaltet die Organisation und Priorisierung von Aufgaben basierend auf ihrem Wert und der Art und Weise, wie sie erledigt werden müssen. Diese Priorisierung ist 
+ein sich ständig weiterentwickelnder Prozess, der zu Beginn des Projekts beginnt und bis zu seinem erfolgreichen Abschluss andauert.
 
-# Aspekt 2
+5. Time-boxing
+In Scrum werden Aufgaben in „Sprints“ erledigt, wobei jedem eine bestimmte Zeitdauer zugewiesen wird. Auch andere Elemente wie [„Sprint_Planning“](Sprint_Planning.md) und 
+tägliche Meetings erhalten konkrete Start- und Stoppzeiten. Darunter gibt es folgende: 
+* Sprints: (work-related release cycles 2-4 Wochen)
+* Sprint planning meetings: (1-2 Stunden, um die Aufgaben festzulegen) 
+* Daily standup meetings: (zirca 15 Minuten, um Tasks zu besprechen und zu kontrollieren)
+* Sprint review meetings: (1-2 Stunden Evaluation der Tasks and release cycles)
+Das Time-Boxing stellt sicher, dass alle Beteiligten wissen, wie viel Zeit jedem Schritt zugeteilt wird, mit dem Ziel, Zeitverschwendung und Verzögerungen zu vermeiden.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+6. Iterative Entwicklung
+Dieses letzte Prinzip spricht für das Verständnis, dass ein Projekt während des Entwicklungsprozesses möglicherweise mehrmals verfeinert werden muss. Die iterative Entwicklung 
+ermöglicht es dem Team, Anpassungen vorzunehmen und Änderungen einfacher zu verwalten.[^2]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+![image](https://user-images.githubusercontent.com/92790509/142939309-a892d933-5d32-4353-aca9-3af4c005c311.png) [^3]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Die oben genannten sechs Prinzipien sind die Richtlinien für die Verwendung von Scrum, damit Ihr Softwareprojekt das beste Ergebnis erzielt. 
+Die Befolgung dieser Prinzipien kann helfen, ein Umfeld zu schaffen, in dem sich jeder beteiligt fühlt und Verantwortung übernimmt, um ein qualitativ hochwertiges Produkt 
+rechtzeitig zu liefern. Die Scrum Principles fördern folglich die Teamarbeit, um auch bei komplexen Projekten effektiv zusammenzuarbeiten.[^4]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Scrum_Principles.md)
+* [Scrum_Guide](Scrum_Guide.md)
+* [Scrum_Rules](Scrum_Rules.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [What is Scrum](https://www.uagc.edu/blog/what-is-scrum)
+[^2]: [Scrum values and principles](https://www.simplilearn.com/scrum-values-and-principles-article)
+[^3]: [Abbildung 1](http://blog.scrumstudy.com/wp-content/uploads/SCRUM-principles.jpg)
+[^4]: [What are the 6 scrum principles](https://evontech.com/component/easyblog/what-are-the-6-scrum-principles.html?Itemid=159)
