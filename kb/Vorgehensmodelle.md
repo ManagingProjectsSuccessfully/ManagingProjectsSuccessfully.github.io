@@ -24,11 +24,24 @@ Kurzbeschreibung zu Vorgehensmodelle
   - development approach / life cycle?
 * Einordnung agil/klassisch (gibt sowohl als auch, evtl. mehr Beispiele ausführen für k, da Anrechnung k)
 * Mehrere Beispiele für Vorgehensmodelle erklären? Oder nur verlinken? (Was bietet sich an/wozu gibt es eigenen Artikel?)
-  - Wasserfall: verlinken
+  - Wasserfall *Link*
   - V-Modell
+  - Spiralmodell
+  - (PRINCE2 *Link*)
+  - Extreme Programmierung/Xtreme Programming *Link*
+  - Scrum *Link*
+  - (Six Sigma *Link*)
 
+* Verschiedene Arten von Vorgehensmodellen:
+  - lineare Vorgehensmodelle oder Phasenmodelle
+  - iterative Vorgehnesmodelle
+  - Prototyping Modelle [^30]
 
+# Quellen
 
+[^10]: [Angermeier, Georg (2017): Vorgehensmodell. In: Projektmagazin, 21.09.2017. Zuletzt geprüft am 22.11.2021.](https://www.projektmagazin.de/glossarterm/vorgehensmodell)
+[^20]: [Kneuper, Ralf; Müller-Luschnat, Günther; Oberweis, Andreas (Hg.) (1998): Vorgehensmodelle für die betriebliche Anwendungsentwicklung. Wiesbaden, s.l.: Vieweg+Teubner Verlag (Springer eBook Collection Computer Science and Engineering).](https://books.google.de/books?hl=de&lr=&id=mm2tBgAAQBAJ&oi=fnd&pg=PA13&dq=vorgehensmodelle&ots=tFWOULgo7u&sig=NTxRWv8s8lr4qoikRCPk7sYenZo#v=onepage&q=vorgehensmodelle&f=false)
+[^30]: [Schneider, Kristof; Daun, Christine; Behrens, Hermann; Wagner, Daniel (2006): Vorgehensmodelle und Standards zur systematischen Entwicklung von Dienstleistungen. In: Kristof Schneider, Hans-Jörg Bullinger und August-Wilhelm Scheer (Hg.): Service Engineering. Entwicklung und Gestaltung innovativer Dienstleistungen : mit 24 Tabellen. 2., vollst. überarb. und erw. Aufl. Berlin, Heidelberg: Springer Berlin Heidelberg, S. 113–138.](http://www.producao.ufrgs.br/arquivos/disciplinas/508_din_1998.pdf)
 
 -----------------
 -----------------
