@@ -2,21 +2,18 @@
 title: Toyota_Produktionssystem
 tags: agil klassisch
 author: YeldaUzun
-anrechnung: a
+anrechnung: k
 ---
 
 Das Toyota Produktionssystem ist ein für Toyota entwickelter Produktionsprozess für Serienverfahren, dass sich auf die Verbesserung der organisatorischen Abläufe konzentriert. Nach dem zweiten Weltkrieg ergab sich eine Krisensituation für das japanische Unternehmen Toyota, da nur wenige Fertigungsmittel und geringes Kapital zur Verfügung stand. Schlussfolgernd war es wichtig Fahrzeuge effizient zu produzieren. Der Ingenieur Taiichi Ohno entwickelte im Jahr 1950 das Toyota Produktionssystem, indem er Just-in-Time, Jidoka (Automation) und Kaizen in einem System zusammenführte.1 Das Ziel des Produktionssystems ist es hohe Qualität bei hoher Produktivität und pünktlicher Lieferung zu erreichen. Dieses Ziel soll durch Eliminierung von Überbeanspruchung, jegliche Art von Verschwendung und ungleichmäßiger Produktionsauslastung gewährleistet werden. Verglichen wird das Toyota Produktionssystem mit einem Haus. Die Säulen des Hauses bilden die Prinzipien Jidoka und Just-in-Time. Das Fundament, bestehend aus Kaizen, Standardisierung und Heijunka, tragen zur Erreichung des Daches und somit zum Ziel bei.2
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+![Beispielabbildung](Toyota_Produktionssystem/test-file.jpg)
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+*lustiges Testbild*
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Jidoka
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Die erste der beiden Hauptsäulen stellt das Jidoka Prinzip dar, welches zur Vermeidung von Fehlern führt, indem der Produktionsprozess bei einer Fehlermeldung automatisch unterbrochen und eine Meldung ausgegeben wird. Aufgrund der Autonomisierung von Maschinen ist die Überwachung durch Menschen nicht notwendig. Somit kann ein Toyota Maschinenführer gleichzeitig mehrere Maschinen überwachen. Die Trennung von Mensch und Maschine steigert somit die Arbeitsproduktivität. Das Ziel des Jidoka ist die Sicherung der Qualität und die Steigerung der Produktivität.[^1]
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
@@ -25,26 +22,11 @@ Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a 
 Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
 [Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
 Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Gniedlaskubf daneem.
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# Just-in-Time
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Toyota_Produktionssystem/test-file.jpg)
-
-*lustiges Testbild*
+Nach Jidoka stellt Just-in-Time die zweite Säule des Hauses dar. Das Just-in-Time Prinzip bezieht sich auf Prozessanforderungen mit genauen Zeitvorgaben. Hierbei liegt das Grundprinzip darin nur die Menge an Produkten zu produzieren oder zu liefern die bestellt wurden. Das Ziel des Just-in-Time ist es, das richtige Produkt, in der richtigen Mengen- und Zeitvorgabe, sowie in der richtigen Qualität und am richtigen Ort zu einem richtigen Preis zu liefern. Das Prinzip wird an Kundenbedürfnisse angepasst.1
 
 # Aspekt 2
 
