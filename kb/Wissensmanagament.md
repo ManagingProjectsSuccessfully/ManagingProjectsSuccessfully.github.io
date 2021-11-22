@@ -41,12 +41,12 @@ Das Bausteinmodell stellt ein weit verbreitetes Modell des Wissensmanagements da
 
 ![Bausteinmodell](Wissensmanagament/Wissensmanagement.jpg)
 
-Äußerer Kreislauf: 
+**Äußerer Kreislauf:** 
 
 * Wissensziele (Beschreibung des organisationalen Kernwissens)
 * Wissensbewertung (Messung des Erfolgs)
 
-Innerer Kreislauf: 
+**Innerer Kreislauf:** 
 
 *	Wissensidentifikation (Schaffung von Transparenz über Informationen und Fähigkeiten)
 *	Wissenserwerb (Steigerung des eigenen Wissens)
@@ -55,53 +55,71 @@ Innerer Kreislauf:
 *	Wissensnutzung (Anwendung von Wissen) 
 *	Wissensbewahrung (Speicherung von Wissen)
 
+## Wissensspirale (SECI-Modell) nach Nonaka und Takeuchi
 
+Die Wissensspirale ist ein dynamisches Modell und basiert auf der Annahme, dass sich unser Wissen als Ergebnis eines ständigen Transformationsprozesses von implizitem Wissen auf explizites Wissen wandelt. Dadurch kann das Wissen einer einzelnen Person mehreren Personen zur Verfügung gestellt werden[^7].   
 
-# Aspekt 2
+Dabei gibt es 4 Schritte: 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+**Sozialisation:** Wissen beruht auf Erfahrungsaustausch (implizit zu implizit)
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+**Externalisierung:** implizites Wissen wird in explizites Wissen transferiert (implizit zu explizit)
 
-So kann man eine Tabelle erstellen:
+**Kombination:** neu geschaffenes Wissen wird mit vorhandenem explizitem Wissen kombiniert (explizit zu explizit)
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+**Internalisierung:** neues Wissen wird verinnerlicht und somit implizit (explizit zu implizit)
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+(Siehe auch [Wissensspirale](Wissensspirale.md))
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+**Weitere Modelle:**
 
-### Ebene-3-Überschrift
+* Geschäftsprozessorientiertes Wissensmanagement
+*	Knowledge Engineering
+*	Wissensmarkt
+*	Wissensgarten nach Vollmar
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+# Methoden des Wissensmanagements
 
-# Aspekt n
+Methoden und Instrumente dienen zur konkreten Umsetzung von Wissenszielen. Dabei können folgende ausgewählte Methoden verwendet werden:
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+**Methoden Wissen zu identifizieren:**
+
+*	Kompetenzrad
+*	Wissensträgerkarte
+*	Wissenslandkarten
+*	Fehlermanagement-Methoden
+
+**Methoden Wissen zu erlangen, entwickeln und zu vernetzen:**
+
+*	Experten-Netzwerke
+*	Wissenswerkstätten
+*	Open Space
+*	Ideen-Treff
+*	Brainstorming 
+*	Project Debriefing (SCRUM)
+
+**Methoden Wissen zu dokumentieren, strukturieren und weiterzugeben:**
+
+* Expert Debriefing 
+*	Interview-Methoden
+*	Story Telling 
+*	Mentoring 
+*	Wissensmarktplatz
+*	Wiki
+*	Wissenspool
 
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Wissensmanagament.md)
+* [Wissenstransfer](Wissenstransfer.md)
+* [Wissensspirale](Wissensspirale.md)
+* [Wissenslandkarte](Wissenslandskarte.md)
+* [Wissensmanagementsoftware](Wissensmanagementsoftware.md)
+* [Wissensmarkt](Wissensmrkt.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* W. Kreitel: Ressource Wissen: Wissensbasiertes Projektmanagement erfolgreich einführen und nutzen. Mit Empfehlungen und Fallbeispielen. Gabler, Wiesbaden 2008
+* [Projektmanagement mit wbi](https://www.wbi-wissensmanagement.com/wissensmanagement-in-projekten/)
 
 # Quellen
 
@@ -111,4 +129,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^4]: [Implizites Wissen Definition und Beispiele](https://www.wcg.de/glossar/implizites-wissen/)
 [^5]: [Explizites Wissen Definition](https://www.wcg.de/glossar/explizites-wissen/)
 [^6]: [Wissensmanagement, Bausteinmodell](https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Wissensmanagement/Wissensmanagement--Modelle-des/Wissensmanagement--Bausteinmodell-des-)
-
+[^7]: [Wissensspirale nach Nonaka und Takeuchi](https://www.qmbase.com/die-organisation-des-wissens-seci/)
