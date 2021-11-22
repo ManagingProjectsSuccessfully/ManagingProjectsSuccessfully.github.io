@@ -15,10 +15,10 @@ Original:[^1]
 
 # Was ist ein Barcamp?
 
-Barcamps sind eine Moderationsmethode für Großgruppen und eignen sich für etwa 30 bis mehrere Hunderte Teilnehmerinnen und Teilnehmer. Dabei stehen ausschließlich die Teilnehmenden mit ihren Themen, Fragen und Beiträgen im Mittelpunkt der Veranstaltung. Welche Themen vor Ort genau besprochen werden legen die Teilnehmer gemeinsam fest. Ziele von Barcamps sind meist das Lösen von Problemen wie auch das Provozieren von Innovationen durch Zusammentreffen von Teilnehmer aus den verschiedensten Bereichen des Unternehmens bzw. der Forschungsgruppe.
+Barcamps sind eine Moderationsmethode für Großgruppen und eignen sich für etwa zwei Duzent bis mehrere Hunderte Teilnehmerinnen und Teilnehmer.[^2] Dabei stehen ausschließlich die Teilnehmenden mit ihren Themen, Fragen und Beiträgen im Mittelpunkt der Veranstaltung. Welche Themen vor Ort genau besprochen werden legen die Teilnehmer gemeinsam fest. Ziele von Barcamps sind meist das Lösen von Problemen wie auch das Provozieren von Innovationen durch Zusammentreffen von Teilnehmer aus den verschiedensten Bereichen des Unternehmens bzw. der Forschungsgruppe.[^3]
 
 
-# Allgemeiner Ablauf eines Barcamps
+# Allgemeiner Ablauf eines Barcamps[^3]
 
 #### 1. Eröffnung 
 Der Barcamp Moderator begrüßt die Teilnehmer und stellt ihnen das Konzept der Barcamp-Methode vor. Dabei lege man besonders Augenmerk auf die Vermittlung der Wertwelt eines Barcamps, etwa die Begegnung auf Augenhöhe oder das niemand perfekt sein muss. So stellt man sicher, dass jeder Teilnehmer ermutigt wird sein volles Potenital auszuschöpfen und bewilligt ist, seinen Beitrag zum Barcamp zu leisten.
@@ -44,7 +44,7 @@ Nach dem Barcamp werden die Dokumentationen der Teilnehmer gesammelt und in eine
 |Entfaltung der Teilnehmer|ungeordeter Ablauf|
 |Teambuilding Maßnahme|Unstimmigkeiten zwischen Teilnehmern|
 
-# No-Gos
+# No-Gos[^3]
 | ~~No-Gos~~:  | 
 | ------------- | 
 | Vordefinierte Themen, die auf jeden Fall auf das Sessionboard kommen müssen  |
@@ -58,17 +58,17 @@ Nach dem Barcamp werden die Dokumentationen der Teilnehmer gesammelt und in eine
 # Gut zu wissen
 Teilnehmer die das erste Mal in einem Barcamp mitwirken werden zu Beginn eventuell leicht überfordert sein, daher ist es wichtig den Teilnehmern in der Eröffnungrede Mut zuzusprechen und klarzustellen das nicht alles glatt laufen muss. Das Orga-Team steht jederzeit zur Unterstützung bei Fragen und Hindernissen bereit. Wichtig ist das der Barcamp Moderator den Mut hat das "Zepter" aus der Hand zu geben und seinen Teilnehmern während des Barcamps blind vertraut.
 
-
-# Siehe auch
-
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Youtube-Video´s: 
+* https://www.youtube.com/watch?v=hJpTQpLLK7E
+* https://www.youtube.com/watch?v=GiPSORwsImY
+* https://www.youtube.com/watch?v=w0-AUIVAt7Y
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-[^1]: [Barcamp Koblenz](https://www.google.com/search?q=barcamp&rlz=1C1CHBF_deDE925DE925&sxsrf=AOaemvI_xkjd5EX7DQSDHTe8NRh2TE_FFQ:1637064980591&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjhiJGl7pz0AhUe8LsIHRCrBEEQ_AUoAXoECAEQAw&biw=1745&bih=845&dpr=1.1#imgrc=0YiaNGPD0FX5KM&imgdii=-259atIR1xWCAM)
+[^1]: https://barcamp-koblenz.de/wp-content/uploads/2017/03/rsz_sam_0490.jpg
+[^2]: https://de.wikipedia.org/wiki/Barcamp
+[^3]: https://www.theofel.com/barcamp-methode.html
+
+
