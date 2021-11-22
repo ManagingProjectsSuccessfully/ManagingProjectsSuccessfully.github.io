@@ -57,11 +57,11 @@ Dabei wurde vor allem hinsichtlich der in den Unternehmen genutzten Projektmanag
 Im ersten Schritt wurden dabei die größten Veränderungen innerhalb des Unternehmens innerhalb der letzten 12 Monate im Vergleich zu den vorausgegangenen 12 Monaten, also vor der 
 Corona-Pandemie, abgefragt: 
 
-![Big Changes](Global_Project_Management_Survey/2021_Business Changes due to Corona.jpg).
+![Big Changes](Global_Project_Management_Survey/2021_Business_Changes_due_to_Corona.jpg).
 
 Nachfolgend wurde abgefragt wie der Projekterfolg, im Vergleich zu den Vorangegangenen Jahren, eingestuft wird:
 
-![Project Success_and_failure](Global_Project_Management_Survey/2021_Project sucess_failure.jpg)
+![Project Success_and_failure](Global_Project_Management_Survey/2021_Project_sucess_failure.jpg)
 
 
 Des weiteren wurde eine Aufteilung der Unternehmen in "Gymnastic Enterprises" und "Tradional Enterprises" durchgeführt.
@@ -75,7 +75,7 @@ negativere Ergebnissen innerhalb der Projektarbeit.
 Bei der Befragung wurden 1/3 der Unternehmen als „Gymnastic Enterprises“ eingestuft, und 30 % als „Traditional Enterprises“, die restlichen konnten nicht eindeutig zuge-
 ordnet werden:
 
-![classification of the Enterprises](Global_Project_Management_Survey/2021_Gymnastic and traditonal enterprises.jpg]
+![classification of the Enterprises](Global_Project_Management_Survey/2021_Gymnastic_and_traditional_enterprises.jpg]
 
 Kernerkenntisse waren dabei unter anderem:
 
@@ -87,11 +87,11 @@ muss berücksichtigt werden, dass die unteren drei Zeilen eine negative Situatio
 2. Die "Gymnastic Enterprises" erfuhren in den letzten 12 Monate im Vergleich zu den "Tradional Enterprises" mehr Veränderungen innerhalb des Unternehmens
 oder trieben diese aktiv voran:
 
-![Recent Business Changes Gymnastic and Traditional](Global_Project_Management_Survey/2021_traditional vs gymnastic enterprises.jpg)
+![Recent Business Changes Gymnastic and Traditional](Global_Project_Management_Survey/2021_traditional_vs_gymnastic_enterprises.jpg)
 
 3. Die "Gymnastic Enterprises" nutzten bei der Umsetzung der Projekte vermehrt aktuelle technolgische Trends und Möglichkeiten:
 
-![Technology usage](Global_Project_Management_Survey/2021_Technolgy usage.jpg].
+![Technology usage](Global_Project_Management_Survey/2021_Technolgy_usage.jpg].
 
 4. Als zusätzlicher Erfolgsfaktor wurde herausgefunden, dass die "Gymnastic Enterprises" neben des hohen Grades an Agilität innerhalb des Unternehmens zusätzlich 
 standardisierte Risikoanalyse und -managementverfahren nutzten sowie eine geringere schleichende Umfangsausweitung innerhalb eines Projektes aufwiesen. Diese Kombination ist 
@@ -100,6 +100,8 @@ laut PMI[^6] neben weiteren Faktoren ursächlich für den erhöhten Projekterfol
 performance." 
 
 # Siehe auch
+
+Verlinkungen zu Angrenzenden Themen kann erst durchgeführt werden, wenn alle anderen Beiträge verfasst wurden -- Nachtrag in Korrekturphase 1 
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Global_Project_Management_Survey.md)
