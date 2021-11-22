@@ -61,8 +61,8 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 |   Kostenlos     |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
 | --------------  | ------------- | ------------- | ------------ | ------------- | ------------  |
-|   Speicher      | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
-|Synchronisierung¹| Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+|   Speicher      | 100 MB        | Unbegrenzt    | Unbegrenzt   |  Unbegrenzt   |  Unbegrenzt   |
+|Synchronisierung¹| Nein          | Ja            | Ja           |  Ja           | Ja            |
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
