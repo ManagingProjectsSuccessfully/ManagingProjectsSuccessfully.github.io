@@ -278,6 +278,7 @@ author: anniSc
 | [Scrum_Transparenz](kb/Scrum_Transparenz.md)                                                                                       | [Lorybr](https://github.com/Lorybr)                           |
 | [Scrum_Ueberpruefung](kb/Scrum_Ueberpruefung.md)                                                                                   | [Steffi226](https://github.com/Steffi226)                     |
 | [Scrum_Anpassung](kb/Scrum_Anpassung.md)                                                                                           | [MariaKaisa ](https://github.com/MariaKaisa )                 |
+| [Scrum_Termine](kb/Scrum_Termine.md)                                                                                               | [fadiarabo](https://github.com/fadiarabo)                     |
 | [Planning_Poker](kb/Planning_Poker.md)                                                                                             | [jsk0lb](https://github.com/jsk0lb)                           |
 | [User_Story_INVEST_Methode](kb/User_Story_INVEST_Methode.md)                                                                       | [Juliakau](https://github.com/Juliakau)                       |
 | [KISS_Prinzip](kb/KISS_Prinzip.md)                                                                                                 | [qu68paka](https://github.com/qu68paka)                       |
