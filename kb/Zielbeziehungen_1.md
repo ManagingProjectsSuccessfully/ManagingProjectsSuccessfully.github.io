@@ -32,7 +32,7 @@ Bevor ein Projekt gestartet wird, werden immer gewisse Ziele vereinbart werden, 
 Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht einzelne Ziele möglichst schnell und zugleich qualitativ hochwertig zu erreichen. Bedeutet je anspruchsvoller das Ziel/Ergebnis ist beispielsweise hinsichtlich der Qualität oder Funktion umso höher sind die damit verbundenen Kosten, Leistungen und Zeitlicher Bedarf. Dahingegend müssen wichtige Abstimmungen gemacht werden. Zum besseren Verständnis nachfolgend einige Beispiele: 
 
 |Das zu erreichende priorisierte Ziel  |Damit verbunden Leistungen  |
-| -------------                         |               ------------- |
+| :-------------:                        |               :-------------: |
 |Leistungsumfang/ziel erhöhen          |Kosten und Projektdauer steigen |
 |Kostenziel hat Priorität (Kosten sinken) |Leistungs-& Zeitziel steigt 
 |Terminziel hat Priorität               |Kosten steigen & Leistungen einsparen
