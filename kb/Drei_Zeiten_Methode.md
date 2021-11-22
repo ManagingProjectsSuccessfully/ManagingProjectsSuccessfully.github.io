@@ -37,9 +37,9 @@ Die Schätzmethode eignet sich in frühen Projektphasen besonders gut, wenn der 
 
 ### Vorteile:
 * Internationale Anerkennung in der [Projektplanung](Projektplanung.md)
-* bezieht Erfahrungswissen in die Schätzung mit ein
-* gibt zusätzliche Informationen über die Unsicherheit des Schätzwerts
-* berücksichtigt die Asymmetrie von optimistischer und pessimistischer Schätzung
+* Bezieht Erfahrungswissen in die Schätzung mit ein
+* Gibt zusätzliche Informationen über die Unsicherheit des Schätzwerts
+* Berücksichtigt die Asymmetrie von optimistischer und pessimistischer Schätzung
 
 
 ### Nachteile:
