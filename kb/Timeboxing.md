@@ -1,6 +1,6 @@
 ---
 title: Timeboxing
-tags: agil klassisch
+tags: agil
 author: janetteschuller
 anrechnung: k
 ---
