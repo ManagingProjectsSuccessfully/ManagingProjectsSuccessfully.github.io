@@ -40,6 +40,9 @@ Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufge
  
 Seitdem haben sich die Hackathon in ihrer Art und Weise, ihrem Ausmaß und ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen sehr stark weiterentwickelt.[^]
 
+Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Aber auch Unternehmen haben in der Vergangenheit feststellen können, dass ein solches Format, intern organisiert, die Initialzündung für neue Ideen, Geschäftsmodelle und vieles mehr sein kann, ohne dabei lange erstphasige Entwicklungszeiten in Kauf zu nehmen. [^]
+
+
 # Ablauf
 
 Der Ablauf eines Hackathons variiert je nach Thema, Dauer, Teilnehmergröße oder Programmiersprache. Dennoch weisen sie alle eine gemeinsame Grundstruktur auf.
