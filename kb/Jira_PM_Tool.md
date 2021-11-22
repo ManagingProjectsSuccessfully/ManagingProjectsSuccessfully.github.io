@@ -41,7 +41,14 @@ Aufgaben oder Tickets werden in Jira als Vorgang angelegt. Hierbei kann je nach 
 ## 6. Filter
 Mit Hilfe von Filtern kann nach bestimmten Vorgängen gesucht werden. Zum einen kann man als Benutzer direkt auf dem Projektboard mit hinzugefügten Schnell-Filtern per Auswahlliste oder Suchfeld die Ergebnisse einschränken, andererseits hat man die Möglichkeit über Jira-Query-Language (JQL) erweiterte suchen auszuführen. [QUELLE] Diese erweiterten Suchen können auch getrennt von dem Projektboard als eigene Filter abgespeichert werden und so an verschiedenen Stellen wiederverwendet werden.
 
-![JQL_Beispiel](Jira_PM_Tool/JQL_Example.png)
+## 6.1 JQL-Code Beispiel
+ 
+**Select all issues you are interested in**
+
+```
+(assignee = currentUser() or reporter = currentUser()) AND (fixVersion in unreleasedVersions() or fixVersion is empty) 
+```
+
 
 ## 7. Dashboards
 Neben den Projektboards gibt es noch Dashboards, die unabhängig davon befüllbar sind. Hier können mit sogenannten Gadgets verschiedene Ergebnisse visualisiert werden. Neben Filterergebnissen, die mit JQL erstellt worden sind, können hier auch Grafiken und Reports eingebunden werden um einen schnellen Überblick über ein bestimmtes Thema innerhalb eines Projekts zu gewinnen.
