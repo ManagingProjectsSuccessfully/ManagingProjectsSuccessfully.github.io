@@ -39,6 +39,25 @@ Kommunikationskanäle schaffen
 
 
 
+# Vorteile einer Projektmanagement-Software:
+• Die Organisation des Projektes ist zentralisiert möglich
+• Es gibt einen Gesamtüberblick über das Projekt in Echtzeit zu den wichtigsten Kennzahlen
+(Stichwort magisches Dreieck aus Leistung, Kosten und Terminen.
+• Durch die Verwendung einer Software hat man eine hohe Zeitersparnis während der
+Projektdurchführung. Gerade wiederkehrende Aufgaben wie das Projektcontrolling werden
+vereinfacht.
+• Das ergebnisorientierte Arbeiten wird durch die Transparenz der Aufgaben verbessert.
+• Unternehmensziele werden durch Projekte schneller erreicht
+
+
+# Nachteile durch die Unterstützung mit Projektmanagement Tools
+• In komplexere Software muss sich erst eingearbeitet werden
+• Die Einführung und Auswahl einer passenden Lösung kostet Zeit
+• Das Projektteam muss die Software akzeptieren und darf diese nicht als Hindernis sehen
+• Eine Projektmanagment Software kostet in den meisten Fällen Geld
+
+
+
 
 
 
