@@ -1,41 +1,43 @@
 ---
 title: Pomodoro
-tags: agil klassisch
+tags: agil projektmanagement entwicklung pomodoro produktivitaet technologien  
 author: Mezhonnov
-anrechnung: k oder a
+anrechnung: a
 ---
-
-Kurzbeschreibung zu Pomodoro um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Die Pomodoro-Technik (orig. pomodoro technique von italienisch pomodoro = Tomate und englisch technique = Methode, Technik) ist eine Methode des Zeitmanagements, die von Francesco Cirillo in den 1980er Jahren entwickelt wurde. Das System verwendet einen Kurzzeitwecker, um Arbeit in 25-Minuten-Abschnitte – die sogenannten pomodori – und Pausenzeiten zu unterteilen. Der Name pomodoro stammt von der Küchenuhr, die Cirillo bei seinen ersten Versuchen benutzte.[^1]
+Die Methode basiert auf der Idee, dass häufige Pausen die geistige Beweglichkeit verbessern können.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# So funktioniert die Pomodoro-Technik
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Das Grundprinzip der Pomodoro-Technik ist simpel: Phasen konzentrierter Arbeit wechseln sich ab mit regelmäßigen kurzen und längeren Pausen. So soll es möglich sein, produktiver zu arbeiten. In einem Pomodoro – so nennt man die 25-minütigen Arbeitseinheiten – widmet man sich voll und ganz nur einer einzigen Aufgabe. Dieses Prinzip des Monotaskings ist ganz zentral für die Methode.
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Auf seiner [Webseite](https://francescocirillo.com/pages/pomodoro-technique) skizziert Cirillo folgende Schritte für einen Pomodoro-Zyklus:
+1. Aufgabe auswählen.
+2. Wecker auf 25 Minuten stellen.
+3. Aufgabe bis zum Klingeln bearbeiten.
+4. Wenn der Timer klingelt, die erledigte Aufgabe von der To-do-Liste abhaken.
+5. Drei bis fünf Minuten Pause machen.
+6. Punkte 2 bis 5 wiederholen.
+7. Nach dem vierten Durchgang 20 bis 30 Minuten Pause machen.
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+![Beispielabbildung](Pomodoro/pomodoro-technik-620x340.jpg)
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+*Pomodoro Technik*
 
+Dadurch entsteht folgender Ablauf:
+- Pomodoro 1
+- 5 Minuten Pause
+- Pomodoro 2
+- 5 Minuten Pause
+- Pomodoro 3
+- 5 Minuten Pause
+- Pomodoro 4
+- 30 Minuten Pause
+Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
 
 # Aspekt 1
 
@@ -97,7 +99,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: pomodorotechnique.com
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
