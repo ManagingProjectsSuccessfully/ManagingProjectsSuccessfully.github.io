@@ -9,7 +9,7 @@ Als Hackathon wird eine [kollaborative](https://www.duden.de/rechtschreibung/kol
 
 Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird hier das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf die zeitliche Komponente des Events, wobei die Teilnehmer zwischen 12 und 48 Stunden Zeit haben.[^]
 
-Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Hinter allen steckt jedoch ein und dieselbe grundlegende Idee, was einen Hackathon im Kern charakterisiert und als Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat.[^]
+Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Alle verbindet jedoch ein und dieselbe grundlegende Idee, was einen Hackathon im Kern charakterisiert und als Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat.[^]
 
 
 # Grundlegende Idee und Ziel
@@ -42,7 +42,6 @@ Seitdem haben sich die Hackathon in ihrer Art und Weise, ihrem Ausmaß und ihrer
 
 Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Aber auch Unternehmen haben in der Vergangenheit feststellen können, dass ein solches Format, intern organisiert, die Initialzündung für neue Ideen, Geschäftsmodelle und vieles mehr sein kann, ohne dabei lange erstphasige Entwicklungszeiten in Kauf zu nehmen. [^]
 
-
 # Ablauf
 
 Der Ablauf eines Hackathons variiert je nach Thema, Dauer, Teilnehmergröße oder Programmiersprache. Dennoch weisen sie alle eine gemeinsame Grundstruktur auf.
@@ -66,6 +65,7 @@ Am Ende werden vor einer Jury, die zumeist aus den Veranstaltern, Vertreter von 
 
 # Chancen für die Teilnehmer und Unternehmen
 
+Den Teilnehmern bieten Hackathons
 
 # Ausgewählte Beispiele
 
