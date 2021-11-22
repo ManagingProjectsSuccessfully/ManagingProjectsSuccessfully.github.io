@@ -17,11 +17,11 @@ Die in der Regel negativen Folgen von Crunch Time betreffen sowohl das Projekt a
 
 ![Magisches Dreieck im Projektmanagement](Crunch_Time/Magisches-Dreieck-Mint.png)
 
-*Magisches Dreieck im Projektmanagement*
+*Magisches Dreieck im Projektmanagement[^5]*
 
 # Lösungen
 
-Ein gutes Projektmanagement ist essenziell, um Crunch Time zu vermeiden. Zur Planung gehört es natürlich die Ursachen zu vermeiden, also neben der genauen und realistischen [Zeitplanung](Zeitplanung.md), auch ein gutes Ressourcenmanagement und regelmäßige Kommunikation im Team[^5]. Dabei ist dies insbesondere im klassischen Projektmanagement teils nur schwer umzusetzen, wodurch die Chance, dass es hier häufig zu Crunch Time kommt, erhöht ist. Ein möglicher Ansatz das Problem durch ein gutes Management des Projekts zu lösen ist durch agiles Projektmanagement[^6]. Ansätze wie [Scrum](Scrum.md) oder Kanban bieten eine höhere zeitliche Flexibilität, und eine regelmäßige Kontrolle des Fortschritts. Dies kann dazu beitragen Crunch Time, wenn möglich zu vermeiden, eine Garantie dafür gibt es aber natürlich nicht[^7]. Ist ein Projekt bereits in Verzug kann man sich auch nach anderen Lösungen umsehen. Dazu zählen beispielsweise, das Hinzuziehen von Mitarbeitern aus anderen Projekten zur Unterstützung, die parallele Bearbeitung von Schritten, die ursprünglich nacheinander geplant waren, oder das Weglassen weniger wichtiger Features[^8].
+Ein gutes Projektmanagement ist essenziell, um Crunch Time zu vermeiden. Zur Planung gehört es natürlich die Ursachen zu vermeiden, also neben der genauen und realistischen [Zeitplanung](Zeitplanung.md), auch ein gutes Ressourcenmanagement und regelmäßige Kommunikation im Team[^6]. Dabei ist dies insbesondere im klassischen Projektmanagement teils nur schwer umzusetzen, wodurch die Chance, dass es hier häufig zu Crunch Time kommt, erhöht ist. Ein möglicher Ansatz das Problem durch ein gutes Management des Projekts zu lösen ist durch agiles Projektmanagement[^7]. Ansätze wie [Scrum](Scrum.md) oder Kanban bieten eine höhere zeitliche Flexibilität, und eine regelmäßige Kontrolle des Fortschritts. Dies kann dazu beitragen Crunch Time, wenn möglich zu vermeiden, eine Garantie dafür gibt es aber natürlich nicht[^8]. Ist ein Projekt bereits in Verzug kann man sich auch nach anderen Lösungen umsehen. Dazu zählen beispielsweise, das Hinzuziehen von Mitarbeitern aus anderen Projekten zur Unterstützung, die parallele Bearbeitung von Schritten, die ursprünglich nacheinander geplant waren, oder das Weglassen weniger wichtiger Features[^9].
 
 # Siehe auch
 
@@ -37,7 +37,8 @@ Ein gutes Projektmanagement ist essenziell, um Crunch Time zu vermeiden. Zur Pla
 [^2]: [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/)
 [^3]: [Crunch time in software development: a theory](https://elib.uni-stuttgart.de/bitstream/11682/11110/1/Master%20Thesis_Ruzica%20Jozin.pdf)
 [^4]: [What Is the Project Management Triangle?](https://www.coursera.org/articles/project-management-triangle)
-[^5]: [Tips for Improving Bad Time Management to Boost Productivity and Reduce Stress](https://www.freshbooks.com/hub/productivity/poor-time-management?fb_dnt=1)
-[^6]: [Projektmanagement-Methoden: klassisch, agil und hybrid](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden_node.html;jsessionid=87298AEC46E44A72560858EBF7715CBD.delivery2-master)
-[^7]: [10 Scrum benefits and how to realize them](https://searchsoftwarequality.techtarget.com/tip/10-Scrum-benefits-and-how-to-realize-them)
-[^8]: [Erste-Hilfe bei Projektverzögerungen](https://www.zeitblueten.com/news/projektmanagement-verzoegerungen/)
+[^5]: [Magisches Dreieck im Projektmanagement](https://www.factro.de/blog/projekte-erfolgreich-managen/)
+[^6]: [Tips for Improving Bad Time Management to Boost Productivity and Reduce Stress](https://www.freshbooks.com/hub/productivity/poor-time-management?fb_dnt=1)
+[^7]: [Projektmanagement-Methoden: klassisch, agil und hybrid](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden_node.html;jsessionid=87298AEC46E44A72560858EBF7715CBD.delivery2-master)
+[^8]: [10 Scrum benefits and how to realize them](https://searchsoftwarequality.techtarget.com/tip/10-Scrum-benefits-and-how-to-realize-them)
+[^9]: [Erste-Hilfe bei Projektverzögerungen](https://www.zeitblueten.com/news/projektmanagement-verzoegerungen/)
