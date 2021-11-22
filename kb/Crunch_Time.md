@@ -1,6 +1,6 @@
 ---
 title: Crunch_Time
-tags: agil klassisch
+tags: Projektmanagement Zeitmanagement
 author: SimonM211
 anrechnung: k
 ---
