@@ -13,11 +13,11 @@ Ken Schwaber, der Gründer von Scrum.org, nahm bereits in den Anfangstagen groß
 
 ![Scrum.org Logo](SCRUM_org_Institution/Scrumorg-Logo_tagline-TM_(1)_(1)_(2).jpg)
 
-*Scrum.org Logo[^7]*
+*Scrum.org Logo[^3]*
 
 # Angebot
 
-Scrum.org bietet eine breite Bandbreite an Zertifikaten im Scrum Kontext. Dazu zählen die wichtigsten Scrum Rollen, aber auch weiter für agiles Projektmanagement relevante Angebote[^3]:
+Scrum.org bietet eine breite Bandbreite an Zertifikaten im Scrum Kontext. Dazu zählen die wichtigsten Scrum Rollen, aber auch weiter für agiles Projektmanagement relevante Angebote[^4]:
 
 * Professional Scrum Master
 *	Professional Scrum Product Owner
@@ -29,11 +29,11 @@ Scrum.org bietet eine breite Bandbreite an Zertifikaten im Scrum Kontext. Dazu z
 *	Professional Scrum with User Experience
 
 
-Die Zertifikate zählen dabei, neben denen von ScrumAlliance, zu den angesehensten Nachweisen von sehr guten Kenntnissen in Scrum. Zusätzlich bietet Scrum.org ein großes Kursangebot an, um sich auf die Prüfungen vorzubereiten. Die Kurse sind dabei nicht verpflichtend, zum Bestehen der Prüfung ist eine gute Vorbereitung jedoch von Vorteil. Die meisten Kurse gehen dabei ganztägig über zwei Tage. Aktuell gibt es durch die Corona Lage in vielen Ländern nur Onlinekurse, jedoch werden auch, wie in der Zeit vor der Pandemie, auch noch Kurse in Präsenz angeboten. Es gibt auch die Möglichkeit einen Privaten Lehrer zu engagieren oder als Unternehmen einen Workshop für die eigenen Mitarbeiter zu buchen[^4].
+Die Zertifikate zählen dabei, neben denen von ScrumAlliance, zu den angesehensten Nachweisen von sehr guten Kenntnissen in Scrum. Zusätzlich bietet Scrum.org ein großes Kursangebot an, um sich auf die Prüfungen vorzubereiten. Die Kurse sind dabei nicht verpflichtend, zum Bestehen der Prüfung ist eine gute Vorbereitung jedoch von Vorteil. Die meisten Kurse gehen dabei ganztägig über zwei Tage. Aktuell gibt es durch die Corona Lage in vielen Ländern nur Onlinekurse, jedoch werden auch, wie in der Zeit vor der Pandemie, auch noch Kurse in Präsenz angeboten. Es gibt auch die Möglichkeit einen Privaten Lehrer zu engagieren oder als Unternehmen einen Workshop für die eigenen Mitarbeiter zu buchen[^5].
 
 # Konkurrenten
 
-Der größte Konkurrent von Scrum.org ist bis heute ScrumAlliance. Es gibt auch kleinere Anbieter von Scrum Zertifizierungen, wie zum Beispiel die von Jeff Sutherland gegründete Plattform Scrum Inc., jedoch sind diese deutlich kleiner. Bis heute hat ScrumAlliance etwa doppelt so viele Zertifizierungen ausgestellt, jedoch kann man dies in Teilen auch auf die frühere Gründung zurückführen[^5]. Größter Unterschied zwischen den beiden Programmen ist die Kostenstruktur. Bei Scrum.org fallen lediglich einmalig niedrige, dreistellige Kosten für das Zertifikat an[^3]. Bei ScrumAlliance hingegen muss zusätzlich ein notwendiger Kurs im Vorfeld belegt werden, dessen Kosten meistens schon bei über eintausend US-Dollar liegen. Hinzu kommt, dass man das Zertifikat alle zwei Jahre erneuern muss, was ebenfalls wieder Geld kostet[^6].
+Der größte Konkurrent von Scrum.org ist bis heute ScrumAlliance. Es gibt auch kleinere Anbieter von Scrum Zertifizierungen, wie zum Beispiel die von Jeff Sutherland gegründete Plattform Scrum Inc., jedoch sind diese deutlich kleiner. Bis heute hat ScrumAlliance etwa doppelt so viele Zertifizierungen ausgestellt, jedoch kann man dies in Teilen auch auf die frühere Gründung zurückführen[^6]. Größter Unterschied zwischen den beiden Programmen ist die Kostenstruktur. Bei Scrum.org fallen lediglich einmalig niedrige, dreistellige Kosten für das Zertifikat an[^4]. Bei ScrumAlliance hingegen muss zusätzlich ein notwendiger Kurs im Vorfeld belegt werden, dessen Kosten meistens schon bei über eintausend US-Dollar liegen. Hinzu kommt, dass man das Zertifikat alle zwei Jahre erneuern muss, was ebenfalls wieder Geld kostet[^7].
 
 # Siehe auch
 
@@ -43,8 +43,8 @@ Der größte Konkurrent von Scrum.org ist bis heute ScrumAlliance. Es gibt auch 
 
 [^1]: [Ken Schwaber](https://www.scrum.org/team/ken-schwaber)
 [^2]: [About Scrum.org](https://www.scrum.org/about)
-[^3]: [PROFESSIONAL SCRUM™ CERTIFICATIONS](https://www.scrum.org/professional-scrum-certifications)
-[^4]: [PROFESSIONAL SCRUM™ TRAINING](https://www.scrum.org/courses)
-[^5]: [Scrum](https://de.wikipedia.org/wiki/Scrum)
-[^6]: [Certification Types & Tracks](https://www.scrumalliance.org/get-certified)
-[^7]: [Scrum.org Logo](https://www.agilealliance.org/organizations/scrum-org-2/)
+[^3]: [Scrum.org Logo](https://www.agilealliance.org/organizations/scrum-org-2/)
+[^4]: [PROFESSIONAL SCRUM™ CERTIFICATIONS](https://www.scrum.org/professional-scrum-certifications)
+[^5]: [PROFESSIONAL SCRUM™ TRAINING](https://www.scrum.org/courses)
+[^6]: [Scrum](https://de.wikipedia.org/wiki/Scrum)
+[^7]: [Certification Types & Tracks](https://www.scrumalliance.org/get-certified)
