@@ -13,8 +13,14 @@ Im Bereich der Softwareentwicklung sind die klassischen Vorgehensmethoden „Her
 Bei Hermes spielen die Vorgabe von Projektergebnissen und Strukturierung eine wichtige Rolle. Daraus werden die erforderlichen Projekttätigkeiten und Verantwortlichkeiten abgeleitet werden. Die Ergebnisse sind eindeutig definiert, wodurch der Anfang- und Endpunkt der Phasen vordefiniert sind und somit eine präzise Vorgehensweise gewährleistet wird. Hermes ist ebenfalls gekennzeichnet durch eine lineare Abfolge der Aktivitäten, was den Einsatz in IT-Projekten ermöglicht. Diese Methode wird hauptsächlich in der Schweiz angewendet[^3].
 
 ### PRINCE2
-PRINCE2 (Projects in Controlled Environments) steht für Projekte unter Kontrolle, das heißt, dass das Vorgehen vom Start bis zum Ende eines Projektes vordefiniert ist. Wie etwas hergestellt wird, ist nicht definiert, sondern von wem und wann etwas erzeugt werden soll. Durch diese Trennung zwischen der Herstellung von Produkten und dem Management von Projekten unterscheidet sich PRINCE2 von anderen Methoden und eignet sich zugleich sehr gut für das Zusammenspiel mit Methoden, die sich um die Produktherstellung kümmern. Prince2 zählt zu den meistgenutzten Methoden weltweit 
-##### Die 4 Elemente von Prince2
+PRINCE2 (Projects in Controlled Environments) steht für Projekte unter Kontrolle, das heißt, dass das Vorgehen vom Start bis zum Ende eines Projektes vordefiniert ist. Wie etwas hergestellt wird, ist nicht definiert, sondern von wem und wann etwas erzeugt werden soll. Durch diese Trennung zwischen der Herstellung von Produkten und dem Management von Projekten unterscheidet sich PRINCE2 von anderen Methoden und eignet sich zugleich sehr gut für das Zusammenspiel mit Methoden, die sich um die Produktherstellung kümmern. Prince2 zählt zu den meistgenutzten Methoden weltweit[^4] 
+#### Die Elemente von Prince2
+| 7 Grundprinzipien                                   | 7 themen             | 7 Prozesse                         | 
+| --------------------------------------------------- | -------------------  |----------------------------------  |
+|Prinzip 1 Fortlaufende geschäftliche Rechtfertigung  |THEMA 1: Business Case|PROZESS 1: Vorbereiten eines Projekt| 
+|PRINZIP 2: Lernen aus Erfahrungen                    |THEMA 2: Organisation |PROZESS 2: Lenken eines Projekts    |  |PRINZIP 3: Definierte Rollen und Verantwortlichkeiten|THEMA 3: Qualität     |PROZESS 3: Initiieren eines Projekts|
+|PRINZIP 4: Steuern über Managementphasen             |THEMA 4: Pläne        |PROZESS 4: Steuern einer Phase      |  |PRINZIP 5: Managen nach dem Ausnahmeprinzip          |THEMA 5: Risiken   |PROZESS 5: Managen der Produktlieferung|
+|PRINZIP 6: Fokus auf Produkte                        |THEMA 6: Änderungen|PROZESS 6: Managen des Phasenübergangs |  |PRINZIP 7: Anpassen an die Projektsituation          |THEMA 7: Fortschritt|PROZESS 7: Abschließen eines Projekts | 
 [^4]
 
 Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
