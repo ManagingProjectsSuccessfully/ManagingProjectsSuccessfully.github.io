@@ -6,7 +6,7 @@ anrechnung: k
 ---
 ![Projektplanung](Projekthandbuch/Projektplanung.jpg)
 
-*Das Projekthandbuch als wichtiger Bestandteil eines erfolgreichen Projektmanagements*
+*Das Projekthandbuch als wichtiger Bestandteil eines erfolgreichen Projektmanagements*[^11]
 
 # Kurzbeschreibung Projekthandbuch
 
@@ -68,3 +68,4 @@ Eine weitere Form des Projekthandbuchs ist der Project Management Plan des [PMBO
 [^8]: [Projekthandbuch](http://download.gsb.bund.de/BundesCIO/V-Modell_XT_Bund/V-Modell%20XT%20Bund-2.0-HTML/7d9bf684e9bf2c.html)
 [^9]: [Wie schreibt man eine Projektleitdokumentation (PID)?](https://www.qrpinternational.ch/blog/faq/wie-schreibt-man-eine-projektleitdokumentation-pid/)
 [^10]: [What is a Project Management Plan and How to Create One](https://www-simplilearn-com.translate.goog/what-is-a-project-management-plan-article?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=nui,op,sc)
+[^11]: [Abbildung 1: Das Projekthandbuch als wichtiger Bestandteil eines erfolgreichen Projektmanagements](http://com-mainz-akademie.de/projektmanagement-1-projektplanung)
