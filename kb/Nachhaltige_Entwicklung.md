@@ -17,7 +17,8 @@ Das Konzept der nachhaltigen Entwicklung wurde ursprünglich 1987 im Brundtland-
 
 Um eine nachhaltige Entwicklung zu erreichen, müssen die drei Imperative der nachhaltigen Entwicklung berücksichtigt werden: (1) die Befriedigung der menschlichen Bedürfnisse, (2) die Gewährleistung sozialer Gerechtigkeit und (3) die Einhaltung der ökologischen Grenzen.
 
-![Abbildung der drei Imperativen](kb/Nachhaltige_Entwicklung/Imperativen_der_nachhaltigen_Entwicklung.PNG)
+![Abbildung der drei Imperativen](https://user-images.githubusercontent.com/92792648/142837085-2ffc8a3a-9d2a-4782-bff3-17396e7772e0.PNG)
+
 
 Politische Maßnahmen, die zu einer nachhaltigen Entwicklung führen, sind, im Grunde genommen, Maßnahmen, die gesellschaftlich wünschenswerte Ziele erreichen, ohne im Widerspruch zu den drei Einschränkungen der nachhaltigen Entwicklung zu stehen. Gesellschaftlich erwünschte Ziele können, zum Beispiel, Wirtschaftswachstum oder Wohlstand sein.
 
@@ -34,7 +35,7 @@ Soziale Gerechtigkeit hängt von vier wesentlichen Zielen ab: Menschenrechte, Ve
 
 Planetare ökologische Grenzen sind globale, biophysikalische Limitierungen, die für uns Menschen einen sicheren Handlungsraum definieren, in dem sich auch die Folgegenerationen nachhaltig entwickeln können. Laut The Natural Step[^13] „in vier Bereichen sind die Grenzen bereits heute überschritten: Klimawandel, Beeinträchtigung der Biosphärenintegration (Stichwort biologische Vielfalt), Wandel der Boden-/Landnutzung und bei den biogeochemischen Abläufen, u.a. den globalen Phosphor- und Stickstoffkreisläufen. Die weiteren Grenzbereiche sind: Stratosphärischer Ozonabbau, atmosphärische Aerosolbelastung, Versauerung der Meere, Süßwasserverbrauch und neue, erst von Menschen geschaffene Entitäten, im organischen wie im anorganischen Bereich“.
 
-![Abbildung der ökologischen Grenzen](kb/Nachhaltige_Entwicklung/Planetary-boundaries.PNG)
+![Planetary-boundaries](https://user-images.githubusercontent.com/92792648/142837362-178791d3-e008-4e61-9f46-cf3c60ee4111.PNG)
 
 Die Stabilität dieser neun Prozesse ist unerlässlich, um die Atmosphäre, die Ozeane und die Ökosysteme der Erde im Gleichgewicht zu halten, das das menschliche Leben ermöglicht. Wir brauchen also eine globale Systemperspektive, um diesen sozial-ökologischen Herausforderungen zu begegnen und den Planeten für zukünftige Generationen bewohnbar zu halten.
 
