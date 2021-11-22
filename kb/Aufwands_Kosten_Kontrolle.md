@@ -74,7 +74,7 @@ Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, näm
 [^4]: http://www.pm-schluessel.com/index.php?option=com_content&view=article&id=213&Itemid=331 
 [^5]: https://wiki.hslu.ch/controlling/Earned_Value_Analyse#Soll-Kosten_.28Earned_Value_.28EV.29.29
 [^6]: https://www.microtool.de/wissen-online/was-ist-die-earned-value-analyse/
-[^7]: https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html 
+[^7]: https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html  
 
 
 
