@@ -28,7 +28,7 @@ Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführun
 
 ## Praktische Anwendung
 
-Zunächst ist es wichtig zu verstehen, das es hier nicht um pure Fakten und Statistiken geht. Hierbei geht es darum die Mitarbeiter durch kreative und emotionale Geschichten zu begeistern und von dem Projekt zu überzeugen. Man muss ein Mittelmaß zwischen Fantasie und projektbezogenen Inhalten finden. Die Thematik muss dabei passend und nicht zu realitätsfern gewählt sein. Beispielsweise kann man bei der Entwicklung einer App, welche für mehr Barrierefreiheit sorgen soll, die Sichtweise betroffener Personen und deren Geschichten erzählen, um so das Engagement der Mitarbeiter zu steigern, da ihnen der Sinn hinter dem bevorstehenden Projekt klar ist.
+Zunächst ist es wichtig zu verstehen, das es hier nicht um pure Fakten und Statistiken geht. Hierbei geht es darum die Mitarbeiter durch kreative und emotionale Geschichten zu begeistern und von dem Projekt zu überzeugen. Man muss ein Mittelmaß zwischen Fantasie und projektbezogenen Inhalten finden. Die Thematik muss dabei passend und nicht zu realitätsfern gewählt sein[^1]. Beispielsweise kann man bei der Entwicklung einer App, welche für mehr Barrierefreiheit sorgen soll, die Sichtweise betroffener Personen und deren Geschichten erzählen, um so das Engagement der Mitarbeiter zu steigern, da ihnen der Sinn hinter dem bevorstehenden Projekt klar ist.
 
   
 ## Der Aufbau einer passenden Geschichte
@@ -37,7 +37,6 @@ Zunächst ist es wichtig zu verstehen, das es hier nicht um pure Fakten und Stat
 
 
 ![Storykurve](Storrytelling/Storytelling.png)
-
 *Storytelling durch Erzählen zum Projekterfolg[^3]*
 
 ### Einführung / Kick-Off
