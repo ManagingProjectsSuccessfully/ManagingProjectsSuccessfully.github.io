@@ -39,9 +39,10 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Minimum_Viable_Product/test-file.jpg)
 
-*lustiges Testbild*
+![Darstellung](Minimum_Viable_Product/MVP_Darstellung.png)
+
+*Abbildung*
 
 # Aspekt 2
 
