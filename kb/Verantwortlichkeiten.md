@@ -19,9 +19,9 @@ Beispiele, die das Tragen der Verantwortung widerspiegeln:
 
 Zusätzlich kann man diese Beispiele in freiwillige und nicht unfreiwillige Übernahme der Verantwortung unterteilen. So wäre die Übernahme der Verantwortung über ein Projekt meist eine freiwillige Aktion, die Übernahme der Verantwortung durch eine ungewollte Schwangerschaft.
 
-Verantwortung wir meist philosophisch erklärt und beschrieben, da es auch sehr vielschichtig und nicht eindeutig ist. Mit dem Begriff ***Verantwortlichkeit*** jedoch wird oft die Zuweisung einer Aufgabe verbunden, wie zum Beispiel etwas zu Leiten.
+Verantwortung wir meist philosophisch erklärt und beschrieben, da es auch sehr vielschichtig und nicht eindeutig ist. Mit dem Begriff ***Verantwortlichkeit*** jedoch wird oft die Zuweisung einer Aufgabe verbunden, wie ein Projekt zu leiten.
 
-# Verantwortung in Verbindung zu Projekten
+# Projektverantwortung
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
