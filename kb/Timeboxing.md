@@ -8,7 +8,7 @@ anrechnung: k
 Das Timeboxing ist eine Zeitmanagement-Methode im agilen Projektmanagement. Hierbei werden für die zu erledigenden Aufgaben bestimme Zeitslots, die sogenannten Timeboxes, reserviert. Es wird vorher genau festgelegt was in einer Timebox zu erledigen ist und was das Ziel der jeweiligen Timebox ist. Dadurch sind eine klare Planung sowie Struktur der Aufgaben und damit des Projekts garantiert[^1].
 
 
-# Wie genau funktioniert Timeboxing?
+# Wie funktioniert Timeboxing?
 
 Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfenster. Die Zeit ist der wichtigste Faktor im Timeboxing und steht maßgeblich für den Projekterfolg. Timeboxing arbeitet mit dem sogenannten Parkinsonschen Gesetz, nach dem die Erledigung einer Aufgabe umso länger dauert, je mehr Zeit wir dafür haben. Ein Zeitfenster kann Minuten, Stunden, Tage oder sogar Wochen umfassen, je nach Aufgabe. Hierbei ist es allerdings wichtig realistische Zeitslots zu wählen. Die zu erledigenden Aufgaben müssen auch wirklich in der gesetzten Timebox zu bewältigen sein. Durch das Timeboxing soll also vermieden werden, dass man sich mit unwichtigen Details aufhält oder gar stagniert. Dementsprechend soll erreicht werden, dass man sich auf das Wesentliche konzentriert und effizient arbeitet. Timeboxing kann sowohl für Gruppen als auch für das persönliche Zeitmanagement genutzt werden.[^2][^4]
 
@@ -16,7 +16,7 @@ Vor jeder Timebox muss entschieden werden ob die jeweilige Timebox hart oder wei
 Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten werden. Sie verstehen sich eher als Hinweis darauf, dass die aktuelle Aufgabe beendet werden sollte und eine neue voransteht. Sinnvoll sind sie vor allem bei neuen Aufgaben, bei denen der Arbeitsaufwand vorher noch nicht ganz klar ist. Durch die weiche Timebox kann in einem Team sichergestellt werden, dass alle den gleichen Zeitrahmen verfolgen, dabei jedoch immer noch flexibel sind. In Meetings trägt eine weiche Timebox auch dazu bei, dass alle Tagesordnungspunkte abgearbeitet werden, allerdings mit weniger Druck und ohne möglichen Abbruch gewisser Themen, wie es bei einer harten Timebox der Fall wäre[^3]. Man muss sich bei einem Projekt aber nicht für eine Art Timebox entscheiden, es ist oft sinnvoll zu mixen, je nach dem was eine Aufgabe von einem fordert. Umso mehr Disziplin eine Aufgabe fordert, umso mehr eignen sich harte Tineboxen[^4].
 
 
-# Der genaue Ablauf von Timeboxing 
+# Der Ablauf von Timeboxing 
 
 1. Erstellen einer To-do Liste über alle zu erledigenden Aufgaben
 
