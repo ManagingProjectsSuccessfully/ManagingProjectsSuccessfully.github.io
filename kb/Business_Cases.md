@@ -9,13 +9,13 @@ Ein Business Case ist ein wichtiges Projektdokument. Er analysiert die Wirtschaf
 ![Business_Case_Abbildung](Business_Cases/Business_Case_Abbildung.jpg)
 
 ## Inhaltsverzeichnis
-* [1. Definition](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#1-definition)
-* [2. Etymologie](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#2etymologie)
-* [3. Bestandteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#3bestandteile)
-* [4. Bedeutung](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#4bedeutung)
-* [5. Vorteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#5vorteile)
-* [6. Nachteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#6nachteile)
-* [7. Fazit](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#7fazit)
+* [1. Etymologie](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#1etymologie)
+* [2. Bestandteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#2bestandteile)
+* [3. Bedeutung](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#3bedeutung)
+* [4. Vorteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#4vorteile)
+* [5. Nachteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#5nachteile)
+* [6. Fazit](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#6fazit)
+
 
 ## 1.	Etymologie
 Der Anglizismus „Business Case“ hat sich aufgrund fehlender passender Übersetzungen auch im Deutschen durchgesetzt. Zwar werden in der Literatur hier und da Begriffe wie [„Geschäftsfall”](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsvorfall) oder [„Geschäftsszenario”](https://consolut.com/de/supportportal/sap-online-help/sap-dokumentation/ansicht-dokumentation/?article=g-wb2_business_scenario) verwendet, diese haben aber eine andere Bedeutung. Unzutreffend sind ebenfalls Begriffe wie [„Business Plan"](https://www.deutschland-startet.de/businessplan/) oder [„Business Model”](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodell). Durchgesetzt hat sich daher der Begriff „Business Case“, der nicht übersetzt wird.[^1] 
