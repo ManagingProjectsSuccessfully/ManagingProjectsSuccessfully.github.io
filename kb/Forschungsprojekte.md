@@ -14,18 +14,17 @@ Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt 
 # Typische Kriterien
 * Bereiche: Medizin, Naturwissenschaft, Technik 
 * Unklare Anforderungen bei (neuen) Forschungsgebieten in der Zielsetzung 
-* Flexibilität in der Zieledefinition 
 * Komplexe, neuartige Aufgabenstellungen (Erforderlichkeit von Erfahrung v.a. durch Institutionen) 
 * Begrenzte Ressourcen (Budget und Zeit) 
-* Hohes Fehlerpotenzial 
+* Hohes Risiko des Scheiterns
 * Meist Teamarbeit in interdisziplinären Arbeitsgruppen [^1]
 
 # Forschungsprojekte im Projektmanagement
-Das Projektmanagement ist für die Forschung von wichtiger Bedeutung, da ohne PM das ohnehin schon hohe Risiko des Misslingens noch zusätzlich gesteigert wird [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialiserte Agenturen können so zum Beispiel auch die Qualität sichern, die in der Medizintechnik eine wichtige Rolle spielt. [^5] Auch wenn es Schwierigkeiten bereitet, klare Anforderungen zu formulieren und Fortschritte zu dokumentieren, ist es dennoch wichtig, dies zu versuchen. Dabei darf auch die Risikobeurteilung und Ressourcenplanung nicht zu knapp kommen, nur weil es das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und Ehrgeiz der Forscher. Management wird nicht direkt mit Forschung assoziiert, eher als lästig empfunden. Daher ist es wichtig, dass auch auf die Organisation eingegangen wird. Ansonsten folgen nicht erreichte Ziele. Forschungsinhalt und Management gehören zusammen [^2]. Das abgebildete Diagramm zeigt, warum Projekte scheitern. Eines der wichtigsten Faktoren stellt hierbei die Kommunikation dar. Weswegen dieser Aspekt besonders in den Lösungsansätzen berücksichtigt werden muss. Aber auch die Wahl der PM-methode ist wichtig, dauz muss man sich bewusst machen, ob eine agile oder klassische Methode in Frage ommt. Deshalb sollte man sch darüber Gedanken machen.
+Das Projektmanagement ist für die Forschung von großer Bedeutung, da ohne Projektmanagement das ohnehin schon hohe Risiko des Misslingens noch zusätzlich gesteigert wird [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialiserte Agenturen können so zum Beispiel auch die Qualität sichern, die in der Medizintechnik eine wichtige Rolle spielt. [^5] Auch wenn es Schwierigkeiten bereitet, klare Anforderungen zu formulieren und Fortschritte zu dokumentieren, ist es dennoch wichtig, dies anzustreben. Dabei muss die Risikobeurteilung und Ressourcenplanung ausreichend berücksichtigt werden, auch wenn das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und Ehrgeiz der Forscher. Management wird nicht direkt mit Forschung assoziiert bzw. eher als lästig empfunden.  Forschungsinhalt und Management gehören zusammen [^2]. Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie andere Faktoren Ursachen für ein gescheitertes Projekt sein können. Weswegen dieser Aspekt besonders in den Lösungsansätzen berücksichtigt werden muss. Aber auch die Wahl der PM-methode ist wichtig, dauz muss man sich bewusst machen, ob eine agile oder klassische Methode in Frage ommt. Deshalb sollte man sch darüber Gedanken machen.
 
-![Beispielabbildung](Forschungsprojekte/test-file.jpg)
+![Warum-scheitern-Projekte](Forschungsprojekte/Warum-scheitern-Projekte.jpg)
 
-*lustiges Testbild*
+*Warum scheitern Projekte?* [^6]
 
 
 ## Klassisch vs. Agil
@@ -60,6 +59,11 @@ Nützliche Funktionen:
 
 # Aktuelle Forschungsprojekte
 
+* [Frauenhofer](https://www.ise.fraunhofer.de/de/forschungsprojekte/aktuell.html)
+* [BASE](https://www.base.bund.de/DE/themen/fa/soa/projekte-aktuell/projekte-aktuell.html)
+* [FAU](https://www.fau.de/research/)
+
+
 # Siehe auch
 
 * [Projektmanagement](Projektmanagement.md)
@@ -83,3 +87,4 @@ Nützliche Funktionen:
 [^3]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/)
 [^4]: [Projektlösungen](https://www.theprojectgroup.com/de/ms-project-loesungen/projektmanagement-forschung)
 [^5]: [Forschung und Entwicklung - Projektmanagement in der Medizintechnik](https://www.youtube.com/watch?v=6YxbcjEYUj0)
+[^6]: [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/)
