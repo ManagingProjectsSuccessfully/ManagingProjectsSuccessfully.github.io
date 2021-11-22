@@ -2,7 +2,7 @@
 title: Minimum_Viable_Product
 tags: agil klassisch
 author: Charles0209
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Minimum_Viable_Product um ein erstes Verständnis dafür zu schaffen um was es hier geht.
