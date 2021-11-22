@@ -10,10 +10,10 @@ Jira ist eine von der Firma Atlassian entwickelte Software, die Ursprünglich f�
 Für den Themenbereich des Projektmanagements ist das Produkt Jira Software relevant. Hier können Workflows definiert, Aufgaben erstellt und zugewiesen, sowie Fortschritt und Produktivität verfolgt werden[^2] . Neben den Grundfunktionen die Atlassian in Jira selbst anbieten, hat man als Nutzer die Möglichkeit mit Hilfe des Marketplace Applikationen von Drittanbietern zu installieren und somit noch mehr Funktionen zur Verfügung zu haben.
 
 ## 1. Hosting
-Jira kann sowohl als Cloud-Hosting oder als selbstverwaltetes Hosting betrieben werden. Beim selbstständigen Hosten kann mittels Jira Software Data Center die Umgebung auf der eigenen Serverlandschaft oder bei Infrastructure-as-a-Service-Anbietern (IaaS)[^3], wie bei Amazon Web Services, Microsoft, Google oder diversen Anbietern verwalten. 
+Jira kann sowohl als Cloud-Hosting oder als selbstverwaltetes Hosting betrieben werden[^3]. Beim selbstständigen Hosten kann mittels Jira Software Data Center die Umgebung auf der eigenen Serverlandschaft oder bei Infrastructure-as-a-Service-Anbietern (IaaS)[^4], wie bei Amazon Web Services, Microsoft, Google oder diversen Anbietern verwalten. 
 
 ## 2. Preisliste
-Bei Atlassian gibt es sehr viele Preismodelle[^4]. Hier wird zwischen Cloud- und selbstverwaltetem Hosting unterschieden, aber auch die Nutzerzahl spielt eine Rolle. Ausgehend von 500 Benutzern ergeben sich bei jährlichem Zahlungsturnus folgende Preise: 
+Bei Atlassian gibt es mehrere Preismodelle[^5]. Hier wird zwischen Cloud- und selbstverwaltetem Hosting unterschieden, aber auch die Nutzerzahl spielt eine Rolle. Ausgehend von 500 Benutzern ergeben sich bei jährlichem Zahlungsturnus folgende Preise: 
 
 
 | Cloud-Hosting | Cloud-Hosting | Selbstverwaltetes Hosting |
@@ -23,26 +23,17 @@ Bei Atlassian gibt es sehr viele Preismodelle[^4]. Hier wird zwischen Cloud- und
 | $30.000 pro Jahr  | $48.500 pro Jahr  | $42.000 pro Jahr |
 
 ## 3. Funktionsweise
-In Jira muss zunächst ein Projekt angelegt werden. Im Anschluss kann eine Vorlage für das Projekt ausgewählt werden, was die Darstellung der Aufgaben beeinflusst. Man kann sich bei Jira-Software zwischen [Scrum](Jira_PM_Tool.md#31-scrum-board)- und [Kanbanboards](Jira_PM_Tool.md#32-kanban-board) entscheiden. Im Jira-Projekt können sogenannte [Vorgänge](Jira_PM_Tool.md#5-vorgänge) erstellt werden, die als Aufgaben, Risiken, Bugs aber auch diverse andere Typen gekennzeichnet werden. Diese Vorgänge müssen während ihrer Bearbeitung einen Workflow durchlaufen, der in den Projekteinstellungen definiert werden kann und für jede Aufgabe gilt. Auf den Projektboards oder extra erstellen [Dashboards]((Jira_PM_Tool.md#7-dashboards)) können die Vorgänge nach bestimmten Kriterien gefiltert dargestellt werden.
+In Jira muss zunächst ein Projekt angelegt werden. Im Anschluss kann eine Vorlage für das Projekt ausgewählt werden, was die Darstellung der Aufgaben beeinflusst. Man kann sich bei Jira-Software zwischen [Scrum](Jira_PM_Tool.md#61-scrum-board)- und [Kanban Boards](Jira_PM_Tool.md#62-kanban-board) entscheiden. Im Jira-Projekt können sogenannte [Vorgänge](Jira_PM_Tool.md#4-vorgänge) erstellt werden, die als Aufgaben, Risiken, Bugs aber auch diverse andere Typen gekennzeichnet werden. Diese Vorgänge müssen während ihrer Bearbeitung einen Workflow durchlaufen, der in den Projekteinstellungen definiert werden kann und für jede Aufgabe gilt. Auf den Projektboards oder extra erstellen [Dashboards](Jira_PM_Tool.md#63-dashboards) können die Vorgänge nach bestimmten Kriterien gefiltert dargestellt werden.
 
-### 3.1 Scrum Board
-![Scrum Board](Jira_PM_Tool/scrum_backlog_full.png)
-
-### 3.2 Kanban Board
-![Jira Kanban Board](Jira_PM_Tool/screenshot_JSW_KanbanBoard.png)
-
-## 4. Berechtigungen 
-In Jira können vom Administrator diverse Rollen konfiguriert werden, wodurch sichergestellt werden kann, dass nur berechtigte Personen innerhalb eines Projektes die Vorgänge bearbeiten und mitarbeiten können.
-
-## 5. Vorgänge
+## 4. Vorgänge
 Aufgaben oder Tickets werden in Jira als Vorgang angelegt. Hierbei kann je nach Bedarf entschieden werden, um welche Art es sich dabei Handeln soll und aus verschiedenen Formaten wie „Aufgabe“, „Unteraufgabe“, „Themes“ eine passende Vorlage auswählen. Beim Erstellen muss ein Titel, sowie eine Beschreibung der Aufgabe hinzugefügt werden bevor diese angelegt werden kann.
 
 ![Jira Vorgangserstellung](Jira_PM_Tool/Jira_Issue.png)
 
-## 6. Filter
+## 5. Filter
 Mit Hilfe von Filtern kann nach bestimmten Vorgängen gesucht werden. Zum einen kann man als Benutzer direkt auf dem Projektboard mit hinzugefügten Schnell-Filtern per Auswahlliste oder Suchfeld die Ergebnisse einschränken, andererseits hat man die Möglichkeit über Jira-Query-Language (JQL) erweiterte suchen auszuführen. [QUELLE] Diese erweiterten Suchen können auch getrennt von dem Projektboard als eigene Filter abgespeichert werden und so an verschiedenen Stellen wiederverwendet werden.
 
-### 6.1 JQL-Code Beispiel
+### 5.1 JQL-Code Beispiel
  
 **Select all issues you are interested in**
 
@@ -50,11 +41,19 @@ Mit Hilfe von Filtern kann nach bestimmten Vorgängen gesucht werden. Zum einen 
 (assignee = currentUser() or reporter = currentUser()) AND (fixVersion in unreleasedVersions() or fixVersion is empty) 
 ```
 
-
-## 7. Dashboards
+## 6. Jira-Boards
 Neben den Projektboards gibt es noch Dashboards, die unabhängig davon befüllbar sind. Hier können mit sogenannten Gadgets verschiedene Ergebnisse visualisiert werden. Neben Filterergebnissen, die mit JQL erstellt worden sind, können hier auch Grafiken und Reports eingebunden werden um einen schnellen Überblick über ein bestimmtes Thema innerhalb eines Projekts zu gewinnen.
 
-## 8. Herausforderungen
+### 6.1 Scrum Board
+![Scrum Board](Jira_PM_Tool/scrum_backlog_full.png)
+
+### 6.2 Kanban Board
+![Jira Kanban Board](Jira_PM_Tool/screenshot_JSW_KanbanBoard.png)
+
+### 6.3 Dashboards
+![Jira Dashboard](Jira_PM_Tool/jira_dashboard.png)
+
+## 7. Herausforderungen
 Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als Unternehmen muss hier eine klare Vorgehensweise beim Anlegen und Arbeiten mit den Vorgängen gesetzt werden, da sonst unter anpassungsbedarf und Mehraufwand entstehen kann. 
 
 # Siehe auch
@@ -76,8 +75,9 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 
 [^1]: [Jira-Produktfamilie](https://www.atlassian.com/de/software/jira/guides/getting-started/overview#about-the-jira-platform)
 [^2]: [Jira für Projektmanagementteams](https://www.atlassian.com/de/software/jira/guides/use-cases/what-is-jira-used-for#jira-for-project-management-teams)
-[^2]: [Infrastructure-as-a-Service-Anbietern (IaaS)](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
-[^4]: [Preismodelle Jira](https://www.atlassian.com/de/software/jira/pricing)
+[^3]: [Hosting Modelle](https://www.atlassian.com/migration/assess/compare-cloud-data-center)
+[^4]: [Infrastructure-as-a-Service-Anbietern (IaaS)](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
+[^5]: [Preismodelle Jira](https://www.atlassian.com/de/software/jira/pricing)
 [^0]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 [^5]: [What is a Board](https://confluence.atlassian.com/jirasoftwareserver/what-is-a-board-938845235.html)
 [^6]: [What is a Jira-SoftwareBoard](https://support.atlassian.com/jira-software-cloud/docs/what-is-a-jira-software-board/)
@@ -88,6 +88,7 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
  Scrum Backlog https://confluence.atlassian.com/jirasoftwareserver/using-your-scrum-backlog-938845361.html
  Kanban Board https://support.atlassian.com/jira-software-cloud/docs/monitor-work-in-a-kanban-project/
  Jira Issue https://stiltsoft.com/blog/2020/06/best-practices-for-creating-a-jira-issue-with-templates/
+ Jira Dashboard https://www.atlassian.com/blog/jira-core/jira-core-dashboard-project-status-glance
 
  
 
