@@ -65,8 +65,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 |   Speicher        | 100 MB        | Unbegrenzt    | Unbegrenzt   |  Unbegrenzt   |  Unbegrenzt   |
 |Synchronisierung¹  | Nein          | Ja            | Ja           |  Ja           | Ja            |
 |Security (Features)| 1 von 16      | 1 von 16      |     3 von 16 |     5 von 16  |    16 von 16  |
-|   Kostenlos       | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
-|   Kostenlos       | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+|   Collaboration   |     9 von 15  |    13 von 15  |    14 von 15 |    15 von 15  |    15 von 15  |
 | Priority Support  | Nein          | Nein          | Nein         | Ja            | Ja            |
 
 
