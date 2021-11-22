@@ -50,26 +50,26 @@ Der Ablauf eines Hackathons variiert je nach Thema, Dauer, Teilnehmergröße ode
 
 __1. Vorstellung und Vorträge__
 
-In einer Eröffnungsrede werden zumeist der Ablauf und der Rahmen der Veranstaltung erläutert. Anschließend wird in einem Vortrag die Problemstellung vorgestellt, die es in den folgenden Stunden oder Tagen zu lösen gilt. [^]
+In einer Eröffnungsrede werden zumeist der Ablauf und der Rahmen der Veranstaltung erläutert. Anschließend wird in einem Vortrag die Problemstellung vorgestellt, die es in den folgenden Stunden oder Tagen zu lösen gilt. [^2] [^4]
 
 
 __2. Teambuilding__
 
-Die verschiedenen Teams bilden sich in der Regel erst vor Ort, nach gemeinsamen möglichen Lösungsvorstellungen. Eine möglichst heterogene Zusammenstellung ist nicht nur üblich, sondern auch empfohlen. Denn die Mitglieder sollen sich mit unterschiedlichen Fähigkeiten und Kenntnissen gegenseitig ergänzen. [^]
+Die verschiedenen Teams bilden sich in der Regel erst vor Ort, nach gemeinsamen möglichen Lösungsvorstellungen. Eine möglichst heterogene Zusammenstellung ist nicht nur üblich, sondern auch empfohlen. Denn die Mitglieder sollen sich mit unterschiedlichen Fähigkeiten und Kenntnissen gegenseitig ergänzen. [^2] [^1]
 
-__3. Let's Hack__
+__3. Hacken__
 
-Damit ist die eigentliche Entwicklungsarbeit gemeint. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototyps auch die Vorbereitungen auf die Präsentation. Dabei folgen die Mitglieder oftmals den Prinzipien von [Desing Thinking](Design_Thinking.md) [^]
+Damit ist die eigentliche Entwicklungsarbeit gemeint und nimmt den größten Anteil ein. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototyps auch die Vorbereitungen auf die Präsentation. Dabei folgen die Mitglieder oftmals den Prinzipien von [Desing Thinking](Design_Thinking.md) [^2] [^4] [^5]
 
 __4. Pitchen__
 
-Am Ende werden vor einer Jury, die zumeist aus den Veranstaltern, Vertreter von Unternehmern und Experten besteht, die Ergebnisse vorgestellt – was in der Startup-Branche als pitchen bezeichnet wird. Neben einem Hauptgewinner werden oft auch die besten Lösungen in bestimmten Kategorien gekürt, natürlich mit einem entsprechenden Preis. [^]
+Am Ende werden vor einer Jury, die zumeist aus den Veranstaltern, Vertreter von Unternehmern und Experten besteht, die Ergebnisse vorgestellt – was in der Startup-Branche als pitchen bezeichnet wird. Neben einem Hauptgewinner werden oft auch die besten Lösungen in bestimmten Kategorien gekürt, natürlich mit einem entsprechenden Preis. [^2] [^4] [^7]
 
 # Chancen für die Teilnehmer und Unternehmen
 
-Den Teilnehmern bietet ein Hackathon nicht nur die Möglichkeit auf Networking, Wissensaustausch und Preise, sondern auch die Aussicht auf eine längerfristige Zusammenarbeit oder Jobangebot. Denn Unternehmen nutzen die Gelegenheit um auf sich aufmerksam zu machen und die besten Hacker für sich zu gewinnen. [^]
+Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit auf Networking, Wissensaustausch und Preise, sondern auch die Aussicht auf eine längerfristige Zusammenarbeit oder Jobangebot. Denn Unternehmen nutzen die Gelegenheit um auf sich aufmerksam zu machen und die besten Hacker für sich zu gewinnen. [^2] [^6]
 
-# Ausgewählte Beispiele
+# Ausgewählte Beispiele [^1] [^2] 
 
 * OpenCodes Hackathon
 * Coding da Vinci
@@ -98,6 +98,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die Möglichkeit auf Networking, 
 [^3]: https://www.elektrotechnik.vogel.de/was-ist-ein-hackathon-definition-ablauf-vor-und-nachteile-a-841459/
 [^4]: https://digitaleneuordnung.de/blog/hackathon/
 [^5]: https://www.dev-insider.de/was-ist-ein-hackathon-a-810665/
+[^6]: https://www.vgsd.de/hackathon-ideen-fuer-die-zukunft-der-wirtschaft-in-rheinland-pfalz-gesucht/
 [^7]: [Schroll W. (2017) Kollaborative Innovationsprozesse – Hackathons in Theorie und Praxis. In: Knoll T. (eds) Veranstaltungen 4.0. Springer Gabler, Wiesbaden.](https://doi.org/10.1007/978-3-658-16223-8_6) (S. ,S. )
 [^8]: [Kohne A., Wehmeier V. (2019) Grundlagen. In: Hackathons. Springer Vieweg, Wiesbaden.](https://doi.org/10.1007/978-3-658-26028-6_2)
 [^9]: https://twitter.com/zollhofhq/status/1111549947890012161
