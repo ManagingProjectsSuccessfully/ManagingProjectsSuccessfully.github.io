@@ -2,88 +2,79 @@
 title: Schaetzverfahren_Kosten
 tags: agil klassisch
 author: Sven017
-anrechnung: k oder a
+anrechnung: klassisch 
 ---
 
-Kurzbeschreibung zu Schaetzverfahren_Kosten um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Schätzungen als Prozess um Kosten eines Projekts zu bestimmen
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Schätzungen gehören tagtäglich zu einer zentralen Aufgabe im Bereich des Projektmanagements. 
+Es ist kein einmaliger Prozess, der am Anfang eines Projekts stattfindet, sondern ist vielmehr ein kontinuierlicher Prozess, 
+welcher sich von Anfang bis zum Ende des gesamten Projekts hindurch zieht (Msg-systems, 2013). 
+Diese Schätzungen bzw. Schätzverfahren werden dazu verwendet, um unter anderem die Kosten eines Projekts besser abschätzen zu können. 
+Somit können beispielsweise unrentable Projekte ausfindig gemacht werden, welche Aufgabe dann den Projektmanager/-mitglieder unterliegt, 
+diese Kosten entsprechend den Vorgaben anzupassen oder das Projekt rechtzeitig einzustellen. 
+Mit diesem Prozess können so unnötige Kosten eingespart werden. Andererseits können so rentable Projekte frühzeitig erkannt und entsprechend gefördert werden.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Da Projekte zumeist neu und innovativ sind ist es nicht immer möglich Erfahrungen aus der Vergangenheit unverändert zu übernehmen 
+und auf jedes neue Projekt anzuwenden. Deshalb gibt es zahlreiche Schätzverfahren, welche den Projektleitern helfen, die Kosten annähernd richtig zu kalkulieren. 
+Diese müssen auch Projektabhängig gewählt werden, da verschiedene Faktoren die Dauer, sowie auch die Kosten eines Projektes beeinflussen 
+und von den meisten Schätzverfahren nicht berücksichtigt werden, z.B. (Bertkoch, 2021):
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+*	die Komplexität der Aufbauorganisation, z.B. die Zahl der beteiligten Dienststellen.
+*	der Umfang der Wiederverwendung von bereits entwickelten Modulen,
+*	die Art, Anzahl und Zeitpunkte von Qualitätssicherungsmaßnahmen,
+*	etc (ebda).
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Methoden des Schätzens
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Um die Kosten richtig abschätzen zu können, werden unter anderem neben Erfahrungswerten, mathematische Algorithmen, 
+parametrisierte Funktionen auch die Hilfe von Experten benötigt. Darunter ist die Delphi-methode, die Schätzklausur 
+wie auch die Bottom-up Schätzung am weitläufigsten verbreitet (Msg-systems, 2013).
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+![Schätzverfahren](https://user-images.githubusercontent.com/92786983/142908450-9e7ba794-7acc-464d-af63-1de9291c2dc6.jpg)
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Schaetzverfahren_Kosten/test-file.jpg)
 
-*lustiges Testbild*
 
-# Aspekt 2
+## Kostenverlauf beim schätzen
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Mit der Einführung dieser Methoden gelingt es die Projektrisiken zu minimieren und einen kostentreuen Projektverlauf zu gestalten (Msg-systems, 2013). 
+Wobei man in den ersten Phasen noch nicht genau bestimmen kann, wie hoch diese Kosten sein werden. 
+Eine Nachschätzung ist in jeder Projektphase notwendig und wird im Laufe des Projektes immer genauer. 
+Erst gegen Ende des Projektzyklus ist eine präzisere Annäherung der Gesamtkosten erreichbar (Wiersing, 2007 S.6). 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+![Schätzung Verlauf](https://user-images.githubusercontent.com/92786983/142908638-2952ff7d-048d-4e1a-90e8-974715665edb.jpg)
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+# Risiken in der Praxis
 
-# Aspekt n
+Doch gehen einige Gefahren mit einer Schätzung einher. Die Schätzung passiert zu einem sehr frühen Zeitpunkt und bildet die Grundlage des Projekts. 
+In der Praxis sind oft Schätzungen gefragt, noch bevor man halbwegs den Projektinhalt versteht.
+Dennoch wird man später auf die Schätzergebnisse festgenagelt (Wirsing, 2007 S.3).
+Zudem werden von vielen Firmen Aufwandsdaten nicht gesammelt und sind meist nur in den Köpfen der Projektleiter zu finden, 
+was dazu führt, dass die Schätzungen ungenauer werden (ebda).
+Einzelne Projektbereiche zur Kostenschätzung werden zumeist nicht erfasst. Kosten der Angebotserstellung und die Garantieleistungen 
+werden dem Projekt nicht zugerechnet. Reparatur oder Wartungsarbeiten, sowie die Qualitätssicherung werden zunächst kaum beachtet, 
+obwohl ein enger Zusammenhang mit dem Projekt besteht (Bertkoch, 2021). Auch der Aufwand für das Schätzverfahren wird oft unterschätzt. 
+Demnach betragen die Kosten einer guten Schätzung bis zu 3 Prozent des Projektumfangs (Wikipedia, 2021).
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## Einfluss durch Vorgaben
+
+Das Ergebnis der Schätzung wird oftmals nicht akzeptiert, es gibt stattdessen politischen Druck die Schätzung, somit die Kosten zu verringern. 
+Schätzungen liegen daher auch mal 50 Prozent oder mehr unterhalb realistischer Werte. 
+Dennoch werden sie zur verbindlichen Vorgabe des Projektteams (Wirsing, 2007 S.46). Dies führt dazu, dass das Geld nicht reicht 
+und das Projekt mit dem vorgegebenen Budget nicht durchführbar ist. Eine zu hohe Schätzung dagegen ist kaum festzustellen, 
+da bei jedem Projekt der Kostenrahmen vollständig ausgeschöpft wird. Der Business Case rechnet sich nicht und das Projekt kann dadurch 
+an Mitbewerber verloren werden. Ob der geschätzte Kostenrahmen realistisch war, lässt sich im Nachhinein schwer feststellen, 
+da das Projektmanagement großen Einfluss auf die verbrauchten Aufwände eines Projekts hat (Wirsing, 2007 S.5).
+
+
 
 
 # Siehe auch
@@ -91,14 +82,21 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Schaetzverfahren_Kosten.md)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+Wirsing, M (2006/07). Projektmanagement Schätzverfahren. 
+Institut für Informatik – Ludwig- Maximilians-Universität München. Retrieved November 20, 2021 from:
+https://www.pst.ifi.lmu.de/Lehre/WS0607/pm/vorlesung/PM-05-Schaetzung.pdf
 
+Msg-Systems. (2013). Aufwandschätzung und Schätzverfahren. Projekterfolge schätzen lernen. 
+Retrieved November 20, 2021 from msg systems ag website:
+https://www.msg.group/images/msggroup/services/techrefresh/2013-09-24_TD_AUF.pdf
+
+Koch,B (2021). Projektmanagement Methode: Schätzverfahren. 
+Retrieved November 20, 2021 from Bertkoch website: 
+https://www.bertkoch.de/schaetzverfahren-pm
+
+Wikipedia (2021). Aufwandsschätzung (Softwaretechnik) – Kosten des Schätzverfahrens
+Retrieved November 20, 2021 from Wikipedia website:
+https://de.wikipedia.org/wiki/Aufwandsschätzung_(Softwaretechnik)
