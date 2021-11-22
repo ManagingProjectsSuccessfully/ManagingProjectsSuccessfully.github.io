@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 Zeitplanung bzw. Zeitmanagement ist der Prozess seine zur Verfügung stehende Zeit effektiv und produktiv zu nutzen. [^1] 
-Das Ziel der Zeitplanung bei Projekten ist die Feststellung, in welcher Zeitspanne ein Projekt abgeschlossen werden kann. Hierbei hilft die Netzplantechnik bei der Terminplanung [^2]
+Das Ziel der Zeitplanung bei Projekten ist die Feststellung, in welcher Zeitspanne ein Projekt abgeschlossen werden kann. Hierbei hilft die [Netzplantechnik](Netzplantechniken.md) bei der Terminplanung [^2]
 
 
 # Einbindung ins Magische Dreieck
