@@ -42,6 +42,8 @@ Seitdem haben sich die Hackathon in ihrer Art und Weise, ihrem Ausmaß und ihrer
 
 Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Aber auch Unternehmen haben in der Vergangenheit feststellen können, dass ein solches Format, intern organisiert, die Initialzündung für neue Ideen, Geschäftsmodelle und vieles mehr sein kann, ohne dabei lange erstphasige Entwicklungszeiten in Kauf zu nehmen. [^]
 
+Auch die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen von Corona nicht verwehrt geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause hacken konnten. Aber auch zur Corona-Krise an sich gab es mehrere Hackathons, weltweit als auch in Deutschland.[^]
+
 # Ablauf
 
 Der Ablauf eines Hackathons variiert je nach Thema, Dauer, Teilnehmergröße oder Programmiersprache. Dennoch weisen sie alle eine gemeinsame Grundstruktur auf.
