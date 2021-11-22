@@ -16,6 +16,7 @@ anrechnung: k
 [^7]: https://www.arl-net.de/de/lexica/de/%C3%B6ffentliche-verwaltung
 [^8]: https://link.springer.com/book/10.1007%2F978-3-322-80689-5
 [^9]: https://link.springer.com/content/pdf/10.1007/s00287-012-0640-5.pdf
+[^10]: https://books.google.de/books?hl=de&lr=&id=lJlf5nLOMfgC&oi=fnd&pg=PR5&dq=%C3%B6ffentliche+projekte+projektmanagement&ots=9reLD5Uho1&sig=8sS7FEphLDQBY-ep-q8bgi-FKic#v=onepage&q=%C3%B6ffentliche%20projekte%20projektmanagement&f=false
 
 # Öffentliche Projekte
 
@@ -25,7 +26,7 @@ Es gibt keine einheitliche Definition von öffentlichen Projekten aber eine prä
 Die öffentliche Verwaltung ist ein Teil der Exekutive und zuständig für das Projektmanagement[^7] . Dazu gehören sämtliche Ämter und Behörenden auf kommunal-, regional- und auch Bundesebene. Zwar gilt hier die Maßgabe ausschließlich das zu erfüllen, was für die Bürger am besten im Rahmen der legislativen Vorgaben ist, jedoch kommt es hier oft zu parteilichen Interessenskonflikten[^8].
 
 # Projektmanagement im öffentlichen Sektor
-Ein Projekt durchzuführen bzw. das erforderliche Projektmanagement ist nicht mit dem in der freien Wirtschaft zu vergleichen. Es handelt sich nämlich oftmals um eine Verwaltungsbüro, das oft nicht die nötigen Kompetenzen oder Erfahrungen hat. Zwar gibt es auch Behörden wie beispielsweise das Bauamt, dessen Aufgabe hauptsächlich daraus besteht Projekte durchzuführen, meistens ist das aber nicht die Kernaufgabe einer Behörde. Beim Projektmanagement gibt es viele Vorschriften und Regeln für nahezu jeden Schritt und jede Phase des Projektmanagements zu befolgen. Das ist insofern sinnvoll, da es sich in den meisten Fällen um öffentliche Gelder handelt, jedoch führt diese Herangehensweise nicht immer zur effizientesten Verwendung des Geldes.
+Ein Projekt durchzuführen bzw. das erforderliche Projektmanagement ist nicht mit dem in der freien Wirtschaft zu vergleichen. Es handelt sich nämlich oftmals um eine Verwaltungsbüro, das oft nicht die nötigen Kompetenzen oder Erfahrungen hat. Zwar gibt es auch Behörden wie beispielsweise das Bauamt, dessen Aufgabe hauptsächlich daraus besteht Projekte durchzuführen, meistens ist das aber nicht die Kernaufgabe einer Behörde. Beim Projektmanagement gibt es viele Vorschriften und Regeln für nahezu jeden Schritt und jede Phase des Projektmanagements zu befolgen.[^10] Das ist insofern sinnvoll, da es sich in den meisten Fällen um öffentliche Gelder handelt, jedoch führt diese Herangehensweise nicht immer zur effizientesten Verwendung des Geldes.
 
 Die Bundesregierung veröffentlicht regelmäßig einen [Leitfaden](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/moderne-verwaltung/praxisleitfaden-projektmanagement.html) für das Projektmanagement in der öffentlichen Verwaltung an dem sich die Behörden zu orientieren haben. Dieser Leitfaden hält sich an bekannte Konzepte wie das magische Dreieck des Projektmanagements und gibt einen sehr starren und durchgeplanten Ablauf vor, der sehr an das klassische Projektmanagement angelehnt ist. Die fünf Phasen eines Projekts sehen wie folgt aus:
 
