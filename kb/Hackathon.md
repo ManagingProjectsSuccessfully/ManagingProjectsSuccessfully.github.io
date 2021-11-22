@@ -85,6 +85,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die Möglichkeit auf Networking, 
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Hackathon.md)
+* Anmeldeplattform für Hackathons: [Eventbrite](https://www.eventbrite.de/d/germany/hackathon/)
 
 # Weiterführende Literatur
 
