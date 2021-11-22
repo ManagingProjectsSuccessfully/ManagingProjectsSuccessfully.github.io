@@ -101,7 +101,7 @@ performance."
 
 # Siehe auch
 
-Verlinkungen zu Angrenzenden Themen kann erst durchgeführt werden, wenn alle anderen Beiträge verfasst wurden -- Nachtrag in Korrekturphase 1 
+Verlinkungen zu Angrenzenden Themen kann erst durchgeführt werden, wenn alle anderen Beiträge verfasst wurden -- Nachtrag in Korrekturphase 1 ....
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Global_Project_Management_Survey.md)
