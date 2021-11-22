@@ -22,12 +22,12 @@ Nachfolgend eine kleine Übersicht wie in allgemeinen Situationen mit Kritik umg
 
 
 ## Begriffsklärung des Agilen Projektmanagement
-Im Agilen Projektmanagement wird anders als beim klassischen [Projektmanagement](kb/Projektmanagement.md) meistens in kleineren interdisziplinäreren Teams kurz und zeitlich beschränkt an einer Sache gearbeitet, um flexibel auf Veränderungen reagieren zu können. Daneben werden regelmäßige Treffen vereinbart, um alle Teams miteinander zu verknüpfen. Somit wird produktiver gearbeitet und es werden schnellere Zwischenergebnisse erzielt.
+Im Agilen Projektmanagement wird anders als beim klassischen [Projektmanagement](Projektmanagement.md) meistens in kleineren interdisziplinäreren Teams kurz und zeitlich beschränkt an einer Sache gearbeitet, um flexibel auf Veränderungen reagieren zu können. Daneben werden regelmäßige Treffen vereinbart, um alle Teams miteinander zu verknüpfen. Somit wird produktiver gearbeitet und es werden schnellere Zwischenergebnisse erzielt.
 
 Die Arbeitsweise im agilen Projektmanagement ist geprägt von Schnelligkeit, Flexibilität und ständigem "Up-to-Date" sein. Diese Arbeitsweise rückt immer mehr in den Vordergrund aufgrund der stetig vorschreitenden Digitalisierung und Globalisierung. Unternehmen werden nach und nach stärker mit steigender Komplexität und Dynamik konfrontiert und müssen unverzüglich darauf reagieren. 
 Projektteams müssen in ihrer Vorgehensweise oft über sehr hohe Toleranzen hinsichtlich Qualität, Umfang, Leistung, Zeit und Kosten verfügen. Ebenso ist es notwenig, dass der Auftraggeber des jeweiligen Projekts mitinvolviert ist und eng mit dem Projektteam zusammenarbeitet.[^8] 
 
-Als Referenz für das agile Projektmanagement wird das [Agile Manifest](kb/Agiles_Manifest.md) herangezogen. 
+Als Referenz für das agile Projektmanagement wird das [Agile Manifest](Agiles_Manifest.md) herangezogen. 
 Um Projekte effektiver und schneller zu steuern, gibt es verschiedene Agile Methoden wie z.B. [Scrum](SCRUM.md) und [Design Thinking](Design_Thinking.md) oder auch weitere [Agile Tools](https://www.projektmagazin.de/agile-methoden).[^8] 
 Die Kanban-Methode mit den bekannten [Kanban-Boards](Kanban_Boards.md) gehört zu den geläufigsten Tools im Projektmanagement.[^4]
 
@@ -54,8 +54,8 @@ Konflikte gehören zum Leben und sich nicht vermeidbar. Die Gründe warum Konfli
 
 # Siehe auch 
 
-* [Projektmanagement](kb/Projektmanagement.md)
-* [Agile Manifest](kb/Agiles_Manifest.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Agile Manifest](Agiles_Manifest.md)
 * [Agile Tools](https://www.projektmagazin.de/agile-methoden)
 * [Kanban-Boards](Kanban_Boards.md)
 
