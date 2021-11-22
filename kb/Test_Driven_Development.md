@@ -2,13 +2,10 @@
 title: Test_Driven_Development
 tags: agil klassisch
 author: Ferdi-nand
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Test_Driven_Development um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Im Kontext der Softwareentwicklung bezeichnet Test Driven Development die Strategie, zuerst die Tests für Code zu schreiben und danach mithilfe der Tests den Code zu erstellen.
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -97,7 +94,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
