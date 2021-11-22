@@ -79,7 +79,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die Möglichkeit auf Networking, 
 
 ![Beispielabbildung](Hackathon/D20Ek7-X0AA-V20.jpg)
 
-*Abbildung 3: Hacker bei dem HackBay des Gründerzentrums aus Nürnberg: [ZOLLHOF](https://www.zollhof.de) im Jahr 2019*
+*Abbildung 3: Hacker bei dem HackBay des Gründerzentrums aus Nürnberg: [ZOLLHOF](https://www.zollhof.de) im Jahr 2019 [^9]*
 
 # Siehe auch
 
@@ -101,6 +101,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die Möglichkeit auf Networking, 
 [^6]: https://www.vgsd.de/hackathon-ideen-fuer-die-zukunft-der-wirtschaft-in-rheinland-pfalz-gesucht/
 [^7]: [Kollaborative Innovationsprozesse - Hackathons in Theorie und Praxis](https://link.springer.com/chapter/10.1007/978-3-658-16223-8_6) (S. ,S. )
 [^8]: [Grundlagen zu Hackathons](https://link.springer.com/book/10.1007/978-3-658-26028-6)
+[^9]: https://twitter.com/zollhofhq/status/1111549947890012161
 
 
 
