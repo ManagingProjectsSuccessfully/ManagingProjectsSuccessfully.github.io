@@ -1,6 +1,6 @@
 ---
 title: Digitale_Kommunikation
-tags: klassisch allgemein
+tags: agil klassisch 
 author: DaLob98
 anrechnung: k
 ---
@@ -54,7 +54,15 @@ Verschiedene Tools zur optimalen Projektbearbeitung:
 *	Workspace in MS Teams individuell an verschiedene Arbeitsgruppen anpassbar
 *	So kann man alle möglichen Inhalte aus verschiedenen Microsoft-Anwendungen und von mehr als 150 Drittanbietern nutzen [^6]
 
-# 5. Quellenverzeichnis
+# Siehe auch
+* [Übersicht PM-Tools](Uebersicht_PM_Tools.md)
+* [Microsoft Project PM-Tool](Microsoft_Project_PM_Tool.md)
+* [Projektkommunikation](Projektkommunikation.md)
+
+# Weiterführende Literatur 
+*[Digitale Kommunikation-Vernetzen, Multimedia, Sicherheit](https://link.springer.com/content/pdf/10.1007%2F978-3-540-92923-9.pdf)
+
+# Quellenverzeichnis
 [^1]: Digitale Kommunikation: https://link.springer.com/content/pdf/10.1007%2F978-3-540-92923-9.pdf (S. 12 ff.)
 [^2]: A Guide to the Project Management Body of Knowledge - PMBOK® GUIDE (S. 157)
 [^3]: Communication on Agile Software Teams: http://agilemodeling.com/essays/communication.htm
