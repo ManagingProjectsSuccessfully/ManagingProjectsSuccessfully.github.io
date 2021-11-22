@@ -6,7 +6,7 @@ anrechnung: k
 ---
 # Business Cases
 ## 1. Definition
-Ein Business Case analysiert die Wirtschaftlichkeit eines [Projekts] (Projekt.md) oder einer Investition. Er verschafft den Entscheidungsträgern einen umfassenden Überblick über Kosten, Nutzen und Risiken eines Projekts. Der Business Case gibt eine Aussage darüber, ob sich die Durchführung eines Vorhabens lohnen würde oder nicht und stellt damit eine wichtige Entscheidungs- und Rechtfertigungsgrundlage für Projekte dar. Ist ein Projekt dann erst einmal genehmigt und im Gange, wird der Business Case stetig aktualisiert, sodass sich damit auch laufende Projekte überprüfen und rechtfertigen lassen.[^1] 
+Ein Business Case analysiert die Wirtschaftlichkeit eines [Projekts](Projekt.md) oder einer Investition. Er verschafft den Entscheidungsträgern einen umfassenden Überblick über Kosten, Nutzen und Risiken eines Projekts. Der Business Case gibt eine Aussage darüber, ob sich die Durchführung eines Vorhabens lohnen würde oder nicht und stellt damit eine wichtige Entscheidungs- und Rechtfertigungsgrundlage für Projekte dar. Ist ein Projekt dann erst einmal genehmigt und im Gange, wird der Business Case stetig aktualisiert, sodass sich damit auch laufende Projekte überprüfen und rechtfertigen lassen.[^1] 
 
 ## 2.	Etymologie
 Der Anglizismus „Business Case“ hat sich aufgrund fehlender passender Übersetzungen auch im Deutschen durchgesetzt. Zwar werden in der Literatur hier und da Begriffe wie „Geschäftsfall” oder „Geschäftsszenario” verwendet, diese haben aber eine andere Bedeutung. Unzutreffend sind ebenfalls Begriffe wie „Business Plan” oder „Business Model”. Durchgesetzt hat sich daher der Begriff „Business Case“, der nicht übersetzt wird.[^1] 
