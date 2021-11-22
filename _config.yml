@@ -1,1 +1,15 @@
-theme: jekyll-theme-midnight
+title: MPS Kompendium
+description: Kompendium zu Projektmanagement
+
+header_pages:
+  - index.md
+  - eintrag-anlegen.md
+  - Themenzuordnung.md
+  
+theme: minima
+markdown: kramdown
+defaults:
+  -
+    scope:
+      path: "kb"
+      type: "pages"

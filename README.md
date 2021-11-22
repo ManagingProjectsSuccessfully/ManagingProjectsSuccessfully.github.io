@@ -1,1 +1,3 @@
-# MPS Kompendium
+# ManagingProjectsSuccessfully.github.io
+
+MPS Kompendium
