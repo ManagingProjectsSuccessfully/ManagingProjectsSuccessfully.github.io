@@ -13,7 +13,7 @@ Crunch Time tritt immer dann auf, wenn ein Projekt in Zeitverzug kommt[^1]. Die 
 
 # Folgen
 
-Die in der Regel negativen Folgen von Crunch Time betreffen sowohl das Projekt als auch die Mitarbeiter des Unternehmens. Für dieses kommen meist auch noch finanzielle Einbußen hinzu. Die Mitarbeiter stehen in dieser Phase des Projekts in der Regel unter sehr großem Stress und müssen viele Überstunden machen. Damit einher gehen potenziell negative Folgen für ihr Privatleben und ihre Psyche. Da die Mehrarbeit natürlich bezahlt wird, führen die Überstunden somit natürlich auch zu höheren Kosten des Projekts. Im Projektmanagement stehen dabei immer die drei Größen der Zeit, der Kosten und des Umfangs des Projekts im Konflikt. Ist das Projekt im Verzug, kann dies entweder durch höhere Kosten oder einen niedrigeren Leistungsumfang kompensiert werden. Sollen alle drei Faktoren eingehalten werden, hat dies negative Auswirkungen auf die Qualität des Ergebnisses.
+Die in der Regel negativen Folgen von Crunch Time betreffen sowohl das Projekt als auch die Mitarbeiter des Unternehmens. Für dieses kommen meist auch noch finanzielle Einbußen hinzu. Die Mitarbeiter stehen in dieser Phase des Projekts in der Regel unter sehr großem Stress und müssen viele Überstunden machen. Damit einher gehen potenziell negative Folgen für ihr Privatleben und ihre Psyche. Da die Mehrarbeit natürlich bezahlt wird, führen die Überstunden somit natürlich auch zu höheren Kosten des Projekts[^3]. Im Projektmanagement stehen dabei immer die drei Größen der Zeit, der Kosten und des Umfangs des Projekts im Konflikt. Ist das Projekt im Verzug, kann dies entweder durch höhere Kosten oder einen niedrigeren Leistungsumfang kompensiert werden. Sollen alle drei Faktoren eingehalten werden, hat dies negative Auswirkungen auf die Qualität des Ergebnisses[^4].
 
 ![Beispielabbildung](Crunch_Time/Magisches-Dreieck-Mint.png)
 
@@ -31,4 +31,6 @@ Ein gutes Projektmanagement ist essenziell, um Crunch Time zu vermeiden. Zur Pla
 
 [^1]: [Crunch Time](http://www.projectmanagementguide.org/project-management/crunch-time)
 [^2]: [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/)
+[^3]: [Crunch time in software development: a theory](https://elib.uni-stuttgart.de/bitstream/11682/11110/1/Master%20Thesis_Ruzica%20Jozin.pdf)
+[^4]: [Project management triangle](https://en.wikipedia.org/wiki/Project_management_triangle)
 
