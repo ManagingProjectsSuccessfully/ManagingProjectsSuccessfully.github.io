@@ -46,17 +46,18 @@ Anders als bei einem Proof of Concept im IT-Bereich werden betriebswirtschaftlic
 
 # Siehe auch
 
-* [Proof-Of-Technologie](Proof_of_Technologie.md)
 * [Business Cases](Business_Cases.md)
 * [Funktionale Anforderungen](Funktionale_Anforderungen.md)
 * [Kosten Nutzen Analyse](Kosten_Nutzen_Analyse.md)
 * [Machbarkeit](Machbarkeit.md)
 * [Meilensteine](Meilensteine.md)
 * [Projektplanung](Projektplanung.md)
+* [Proof-Of-Technologie](Proof_of_Technologie.md)
 
 # Weiterführende Literatur
 
-* Wikipediaartikel zum [Proof of Concept](https://de.wikipedia.org/wiki/Proof_of_Concept)
+* Proof of Concept [https://de.wikipedia.org/wiki/Proof_of_Concept](https://de.wikipedia.org/wiki/Proof_of_Concept)
+* Proof of Konzept: Zeig die Machbarkeit deiner Idee [https://www.avantgarde-experts.de/de/magazin/proof-of-concept/](https://www.avantgarde-experts.de/de/magazin/proof-of-concept/)
 
 
 # Quellen
