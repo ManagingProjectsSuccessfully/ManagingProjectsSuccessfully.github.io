@@ -8,10 +8,13 @@ anrechnung: k
 Comliance im Projektmanagement beschreibt im Prinzip, das regelgetreue Verhalten eines Unternehmens im gesetzlichen Kontext. Durch gezieltes Compliance Management sollen durch Prophylaxe gezielt Pflichtverletzungen, Schaden und Haftungsfälle eines Unternehmens vermieden werden. (Szabo, Bela: Compliance Management System) Ein Werkzeug um beispielsweise Lieferungszusagen einhalten zu können ist zum Beispiel das sogenannte [Timeboxing](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Timeboxing.md) sein.
 
 
-## Rechtliche Grundlagen bezüglich Compliance
+## Rechtliche Grundlagen
 
 Ein elementares Bestreben eines jeden Unternehmens sollte es sein, die nationalen und internationalen Rechtsverordnungen und Bestimmungen einzuhalten. So gibt es spezifisch im Bezug auf Compliance eine entsprechende ISO-Norm: [ISO 37301:2021](https://www.iso.org/standard/75080.html). Diese Norm spezifiziert Anforderungen und enthält Richtlinien für die Einrichtung, Entwicklung, Implementierung, Bewertung, Aufrechterhaltung und Verbesserung eines effektiven Compliance-Managements innerhalb einer Organisation. (International Organization for Standardization: ISO 37301:2021)
- 
+# Nationale Verordnungen
+In Deutschland ist der Begriff Cpmpliance juristisch nicht eindeutig definiert. Als Grundlage wird oftmals jedoch der Deutsche Corporate Governance Kodex (DCGK) herangezogen. Der Kodex beinhalten grundsätzlich Vorschriften zur Überwachung und Leitung deutscher börsennotierter Gesellschaften. Er besitzt jedoch keines Wegs eine rechtliche Verbindlichkeit. (Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen)
+# Internationale Richtlinien
+Wichtig für Unternehmen ist der Fakt sich auch an Gesetze anderer Länder im internationalen Geschäftsverkehr halten zu müssen. So müssen die gesetzlichen Verbindlichkeiten vor einer Partnerschaft beidseitig gut analysiert werden. Es gibt beispielsweise den Foreign Corrupt Practices Act (FCPA) zur Bekämpfung von Korruption oder den UK Bribary Act als Compliance Vorschrift in Großbritannien. (Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen)
  
 ## Integration von Compliance im Unternehmen
 
