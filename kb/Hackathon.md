@@ -67,7 +67,7 @@ Am Ende werden vor einer Jury, die zumeist aus den Veranstaltern, Vertreter von 
 
 # Chancen für die Teilnehmer und Unternehmen
 
-Den Teilnehmern bieten Hackathons
+Den Teilnehmern bietet ein Hackathon nicht nur die Möglichkeit auf Networking und Wissensaustausch, sondern auch die Aussicht auf eine längerfristige Zusammenarbeit oder Jobangebot. Denn Unternehmen nutzen die Gelegenheit um auf sich aufmerksam zu machen und die besten Hacker für sich zu gewinnen.[^]
 
 # Ausgewählte Beispiele
 
