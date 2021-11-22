@@ -67,6 +67,7 @@ Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten 
 
 * [Timeboxing 2 - Ein Praxisbeispiel](https://www.youtube.com/watch?v=PK1FGQL9ea0)
 * [Zeitmanagement: Timeboxing mit Pomodoro Technik](https://www.leclere-solutions.com/2020/05/18/zeitmanagement-timeboxing-mit-pomodoro-technik/)
+* [Time-Boxing bei SCRUM](https://scrum-master.de/Scrum-Meetings/Time-Boxing)
 
 
 # Quellen
