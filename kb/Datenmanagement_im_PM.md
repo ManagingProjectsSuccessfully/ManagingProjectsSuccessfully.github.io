@@ -5,10 +5,6 @@ author: aq07yhug
 anrechnung: k 
 ---
 
-# 1. Allgemein über Datenmanagement in PM
-
-Alle Projektaufgaben, von der punktuellen theoretischen Phase direkt bis hin zum Ende des [Projektlebenszyklus] (Projektlebenszyklus.md), produzieren Informationen. Je größer das Projekt ist, desto größer ist die Summe und die Vielfalt von Informationen bzw. Daten, die überwacht werden müssen. Deswegen sind Projekte von der angemessenen Handhabung, Lagerung und Qualität (Qualitätsmanagement)  enormer Mengen an Daten abhängig.[^1] (https://www.goodreads.com/book/show/42049169-project-management![image](https://user-images.githubusercontent.com/93120047/142829638-cc59c76b-5300-4eca-9b8e-f17870dfcd3b.png)) Pascal erklärt sogar schlechte Kommunikation (Projektkommunikation), Übermittlung und Implementierung der Daten zur "Hauptquelle des möglichen Scheiterns eines Projektes"[ ]. Informationen haben viele Formen, werden über viele Kanäle und Medien übermittelt und die Welt wird mit ihnen überschwemmt. Der klassische Projektmitarbeiter (Projektmitarbeiter) ist jedoch nur mit dem beschränkten Teil dieser Informationen beschäftigt, der für seine Aufgaben von Bedeutung ist.[ ]  
-
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
