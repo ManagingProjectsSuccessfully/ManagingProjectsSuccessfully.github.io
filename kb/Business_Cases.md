@@ -5,6 +5,14 @@ author: lukasheinrich9
 anrechnung: k
 ---
 # Business Cases
+## Inhaltsverzeichnis
+* [1. Definition]
+* 2. Etymologie
+* 3. Bestandteile
+* 4. Bedeutung
+* 5. Vorteile
+* 6. Nachteile
+* 7. Fazit
 ## 1. Definition
 Ein Business Case analysiert die Wirtschaftlichkeit eines [Projekts](Projekt.md) oder einer Investition. Er verschafft den Entscheidungsträgern einen umfassenden Überblick über Kosten, Nutzen und Risiken eines Projekts. Der Business Case gibt eine Aussage darüber, ob sich die Durchführung eines Vorhabens lohnen würde oder nicht und stellt damit eine wichtige Entscheidungs- und Rechtfertigungsgrundlage für Projekte dar. Ist ein Projekt dann erst einmal genehmigt und im Gange, wird der Business Case stetig aktualisiert, sodass sich damit auch laufende Projekte überprüfen und rechtfertigen lassen.[^1] 
 
