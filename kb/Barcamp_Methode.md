@@ -7,7 +7,9 @@ anrechnung: a
 
 ---
 
-![das](https://user-images.githubusercontent.com/92790072/141985691-412d3819-490b-4efc-9eef-7f488a7cc444.jpg)[^1]
+![das](https://user-images.githubusercontent.com/92790072/141985691-412d3819-490b-4efc-9eef-7f488a7cc444.jpg)
+
+Original:[^1]
 
 ---
 
@@ -42,41 +44,20 @@ Nach dem Barcamp werden die Dokumentationen der Teilnehmer gesammelt und in eine
 |Entfaltung der Teilnehmer|ungeordeter Ablauf|
 |Teambuilding Maßnahme|Unstimmigkeiten zwischen Teilnehmern|
 
-# Aspekt 2
+# No-Gos
+| ~~Zu vermeiden sind~~:  | 
+| ------------- | 
+| Vordefinierte Themen, die auf jeden Fall auf das Sessionboard kommen müssen  |
+| Abwählen von Themen, bei zu geringer Interesse  | 
+| Zusammenlegen/Anpassen von Themen durch den Barcamp-Moderator |
+| Moderation der Sessions durch das Orga-Team |
+| Dokumentation der Sessions durch das Orga-Team |
+| Live-Streaming/Aufnahmen der Sessions, weil dies den geschützten Rahmen stört |
+| Auschluss von Personen |
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
