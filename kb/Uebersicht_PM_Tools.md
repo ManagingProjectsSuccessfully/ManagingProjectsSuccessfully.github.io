@@ -52,7 +52,7 @@ vereinfacht.
 
 # Nachteile durch die Unterstützung mit Projektmanagement Tools
 * Zeitintesive Einarbeitung in neue Software
-* Das Tool
+* Das Tool muss vom Team akzeptiert werden
 * Eine Projektmanagment Software kostet in den meisten Fällen Geld
 
 
