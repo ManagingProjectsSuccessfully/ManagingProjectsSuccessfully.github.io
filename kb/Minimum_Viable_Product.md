@@ -5,7 +5,7 @@ author: Charles0209
 anrechnung: k 
 ---
 
-Das Minimum Viable Product ist eine Technik der Produktentwicklung, das Anwendung im agilen Projektmanagement findet.
+Das Minimum Viable Product ist eine Entwicklungstechnik, das Anwendung im agilen Projektmanagement findet.[^1][^2]
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 ## Test
@@ -13,9 +13,7 @@ Das Minimum Viable Product ist eine Technik der Produktentwicklung, das Anwendun
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Literatur kann via Fußnoten angegeben werden[^1]. 
 
 Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
@@ -94,9 +92,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [Definition of 'Minimum Viable Product' (theeconomictimes)](https://economictimes.indiatimes.com/definition/minimum-viable-product)
+[^2]: [Minimum Viable Product: A maximally misunderstood idea (slalom)](https://www.slalom.com/insights/mvp-maximally-misunderstood-term)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
