@@ -6,7 +6,7 @@ anrechnung: k
 ---
 # Business Cases
 Ein Business Case ist ein wichtiges Projektdokument. Er analysiert die Wirtschaftlichkeit eines [Projekts](Projekt.md) oder einer Investition und verschafft den Entscheidungsträgern einen umfassenden Überblick über Kosten, Nutzen und Risiken eines Projekts. Der Business Case gibt eine Aussage darüber, ob sich die Durchführung eines Vorhabens lohnen würde oder nicht und stellt damit eine wichtige Entscheidungs- und Rechtfertigungsgrundlage für Projekte dar. Ist ein Projekt dann erst einmal genehmigt und im Gange, wird der Business Case stetig aktualisiert, sodass sich damit auch laufende Projekte überprüfen und rechtfertigen lassen.[^1] 
-![Business_Case_Abbildung](Business_Cases/Business_Case_Abbildung.jpg)
+![Business_Case_Abbildung](Business_Cases/Business_Case_Abbildung.jpg) [^8]
 
 ## Inhaltsverzeichnis
 * [1. Etymologie](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#1etymologie)
@@ -90,3 +90,4 @@ So kann man eine Tabelle erstellen:
 [^5]: [Business Case: Alles Wichtige auf einen Blick](https://projekte-leicht-gemacht.de/blog/methoden/projektstart/business-case/)
 [^6]: [Auf den Punkt - der Business Case](https://www.youtube.com/watch?v=gCbXCawrT8k)
 [^7]: [Business Case](https://www.projektmagazin.de/methoden/business-case)
+[^8]: [Business Case - Abbildung](https://greenprojectsconsulting.com/wp-content/uploads/2021/07/Business_Case_4_Bubbles.jpg)
