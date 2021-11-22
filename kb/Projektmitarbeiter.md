@@ -2,7 +2,7 @@
 title: Projektmitarbeiter
 tags: agil klassisch 
 author: Emi1404
-anrechnung:  agil
+anrechnung:  klassich
 ---
 
 Kurzbeschreibung zu Projektmitarbeiter um ein erstes Verständnis dafür zu schaffen um was es hier geht.
