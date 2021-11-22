@@ -24,17 +24,14 @@ Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a 
 
 
 # Historie
-Scrumban wurde ursprünglich entwickelt um kleinen Scrum-Teams neue Möglichkeiten zu eröffnen und Kanban Konzepte in ihre Arbeit mit einzubinden[^5]. Dabei wird weiterhin auf einen   
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Der Scrum Begiff wurde bereits in den 1990er Jahrewn von Jeff Sutherland und Ken Schwaber geprägt, wohingegen Kanban sich erst Jahre später in der Softwareentwicklung etablierte. Man erkannte realtiv schnell dass Scrum von den Visualisierungstechniken aus Kanban stark profitieren kann.
+Scrumban wurde dementsprechend entwickelt um kleinen Scrum-Teams neue Möglichkeiten zu eröffnen und Kanban Konzepte in ihre Arbeit mit einzubinden[^5]. Der Schwerpunkt liegt darin Scrum durch einige Ideen aus dem Kanban Framework vor allem flexibler und reaktiver zu gestalten[^6].
 
 ![Beispielabbildung](SCRUMBAN/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Methodik
 
 * das
 * hier 
@@ -87,3 +84,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 [^5]: https://en.wikipedia.org/wiki/Scrumban#Tooling
+[^6]: https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/
