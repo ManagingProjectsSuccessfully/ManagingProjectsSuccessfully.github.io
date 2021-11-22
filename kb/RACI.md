@@ -42,7 +42,7 @@ responsible ist, spricht man von "overlap in responsibility". [^2]
 
 Beispielhafte RACI-Matrix [^3]
 
-# Vorteile von RACI [^4]
+# Vorteile der RACI-Matrix [^4]
 
 * Sie stellt die Beteiligten und Verantwortlichen **übersichtlich grafisch** dar.
 
@@ -55,7 +55,7 @@ Beispielhafte RACI-Matrix [^3]
 
 * Sie ist **einfach zu erstellen** in Excel oder PowerPoint.
 
-# Nachteile von RACI [^4]
+# Nachteile der RACI-Matrix [^4]
 *  Die Matrix wird schnell **unübersichtlich**, wenn zu viele Aufgaben oder Mitarbeiter aufgeführt werden.
 
 * Große Tabellen sind sehr **aufwendig zu pflegen**, falls sich Projektinhalte oder –beteiligte ändern.
