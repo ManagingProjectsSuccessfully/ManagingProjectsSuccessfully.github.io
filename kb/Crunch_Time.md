@@ -5,7 +5,7 @@ author: SimonM211
 anrechnung: k
 ---
 
-Wenn man ein Projekt managet läuft nicht immer alles nach Plan. Durch unvorhersehbar auftretende Probleme oder einfach nur durch schlechtes Projektmanagement können Projekte zeitlich in Verzug kommen. Da es in Unternehmen meistens einen festen Zeitplan gibt und Verspätungen vermieden werden sollen, wird die verlorene Zeit häufig einfach durch Mehrarbeit der Mitarbeiter wieder aufgeholt. Dieses insbesondere für die Softwareentwicklung typische Phänomen nennt man Crunch Time.
+Wenn man ein Projekt managet läuft nicht immer alles nach Plan. Durch unvorhersehbar auftretende Probleme oder einfach nur durch schlechtes [Projektmanagement](Projektmanagement.md) können Projekte zeitlich in Verzug kommen. Da es in Unternehmen meistens einen festen Zeitplan gibt und Verspätungen vermieden werden sollen, wird die verlorene Zeit häufig einfach durch Mehrarbeit der Mitarbeiter wieder aufgeholt. Dieses insbesondere für die Softwareentwicklung typische Phänomen nennt man Crunch Time.
 
 # Ursachen
 
@@ -23,14 +23,7 @@ Die in der Regel negativen Folgen von Crunch Time betreffen sowohl das Projekt a
 
 Ein gutes Projektmanagement ist essenziell, um Crunch Time zu vermeiden. Zur Planung gehört es natürlich die Ursachen zu vermeiden, also neben der genauen und realistischen Planung der Zeit, auch ein gutes Ressourcenmanagement und regelmäßige Kommunikation im Team. Dabei ist dies insbesondere im klassischen Projektmanagement teils nur schwer umzusetzen, wodurch die Chance, dass es hier häufig zu Crunch Time kommt, erhöht ist. Ein möglicher Ansatz das Problem durch ein gutes Management des Projekts zu lösen ist durch agiles Projektmanagement. Ansätze wie Scrum oder Kanban bieten eine höhere zeitliche Flexibilität, und eine regelmäßige Kontrolle des Fortschritts. Dies kann dazu beitragen Crunch Time, wenn möglich zu vermeiden, eine Garantie dafür gibt es aber natürlich nicht. Ist ein Projekt bereits in Verzug kann man sich auch nach anderen Lösungen umsehen. Dazu zählen beispielsweise, das Hinzuziehen von Mitarbeitern aus anderen Projekten zur Unterstützung, die parallele Bearbeitung von Schritten, die ursprünglich nacheinander geplant waren, oder das Weglassen weniger wichtiger Features.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
