@@ -60,23 +60,17 @@ Bei jedem Projekt kommt es zu Problemen und Hindernissen, die es zu überwältig
 
 
 # Kommunikation
-Auch die [Kommunikation](Projektkommunikation.md) spielt hierbei eine tragende Rolle. Ein stetiger Austausch über Ziele oder eine Veränderung des Projektplans sind essenziell. Bei jedem Projekt kommt es zu exogenen Einflüssen, die den geplanten Verlauf oder die Verwendung von speziellen Ressourcen verändern. Um diesen Problemen so früh wie möglich entgegenzuwirken, ist die ständige Weitergabe von Informationen die beste Methode. So besteht die Chance eine Problematik schnellstmöglich zu erkennen und Lösungen zu finden. Auch wird so die Abstimmung über die Wünsche der Kunden oder die Qualitätsansprüche, die sich im Laufe des Projekts nochmals ändern könnten, ermöglicht. 
+Auch die [Kommunikation]({Projektkommunikation}.md) spielt hierbei eine tragende Rolle. Ein stetiger Austausch über Ziele oder eine Veränderung des Projektplans sind essenziell. Bei jedem Projekt kommt es zu exogenen Einflüssen, die den geplanten Verlauf oder die Verwendung von speziellen Ressourcen verändern. Um diesen Problemen so früh wie möglich entgegenzuwirken, ist die ständige Weitergabe von Informationen die beste Methode. So besteht die Chance eine Problematik schnellstmöglich zu erkennen und Lösungen zu finden. Auch wird so die Abstimmung über die Wünsche der Kunden oder die Qualitätsansprüche, die sich im Laufe des Projekts nochmals ändern könnten, ermöglicht. 
 
 Des Weiteren stärkt die Kommunikation auch das Teamklima. Dadurch, dass beteiligte Personen ohne Umstände die Informationen, die sie für ihren Arbeitsprozess im Projekt benötigen, bekommen, wird Unzufriedenheit oder Unverständnis vorgebeugt. Auch werden Arbeitsabläufe dadurch beschleunigt, da so Leerläufe verhindert werden können.[^2]
 
 Hinzu kommt, dass gute Kommunikation die berufliche Zufriedenheit steigert und damit auch die Motivation.[^3]
 
 
-# Aspekt 2
+# Projektleiter
+Da sich im Integrationsmanagement alles um die Organisation und die Steuerung eines Projekts dreht, hat der Projektleiter eine besonders wichtige Stellung.[^4] 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Aufgaben
 
 So kann man eine Tabelle erstellen:
 
@@ -85,14 +79,7 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## Softskills
 
 # Aspekt n
 
@@ -118,5 +105,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: https://www.wrike.com/de/project-management-guide/faq/was-ist-integrationsmanagement-bei-projekten/
 [^2]: http://projektmanagement-definitionen.de/glossar/integrationsmanagement-in-projekten/
 [^3]: https://de.wikipedia.org/wiki/Integrationsmanagement
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^4]: https://de.wikipedia.org/wiki/Projektleiter#:~:text=Der%20Projektleiter%20ist%20f%C3%BCr%20die,im%20Rahmen%20des%20Projekts%20zust%C3%A4ndig.
