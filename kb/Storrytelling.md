@@ -37,6 +37,7 @@ Zunächst ist es wichtig zu verstehen, das es hier nicht um pure Fakten und Stat
 
 
 ![Storykurve](Storrytelling/Storytelling.png)
+
 *Storytelling durch Erzählen zum Projekterfolg[^3]*
 
 ### Einführung / Kick-Off
