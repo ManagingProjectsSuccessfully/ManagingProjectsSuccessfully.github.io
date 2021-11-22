@@ -1,6 +1,6 @@
 ---
 title: Digitalisierung_im_PM
-tags: klassisch, Digiatlisierung
+tags: klassisch, Digitalisierung
 author: Viktoria1412
 anrechnung: k
 ---
