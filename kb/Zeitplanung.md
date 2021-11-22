@@ -5,85 +5,45 @@ author: NinaNagel
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu Zeitplanung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Zeitplanung bzw. Zeitmanagement ist der Prozess seine zur Verfügung stehende Zeit effektiv und produktiv zu nutzen. (10) 
+Das Ziel der Zeitplanung bei Projekten ist die Feststellung, in welcher Zeitspanne ein Projekt abgeschlossen werden kann. Hierbei hilft die Netzplantechnik bei der Terminplanung (3)
 
 
-# Aspekt 1
+# Einbindung ins Magische Dreieck
+Das Projektmanagement befindet sich in einem Spannungsfeld zwischen Qualität, Ressourceneinsatz und Zeit. Dieses Spannungsfeld bezeichnet man in der klassischen Literatur als Magisches Dreieck. Alle drei Dimensionen beeinflussen sich gegenseitig, sowohl positiv, als auch negativ. Zeit ist wie die anderen zwei Punkte ein limitierender Faktor. Hierbei legt sie nicht nur ein Start- und Endpunkt des Projektes, sondern auch zwischenzeitliche Termine, wie Deadlines fest. (2) 
+Zudem wird hier die Exaktheit der Termine festgelegt und die Wahrscheinlichkeit für Terminüberschreitungen berücksichtigt. (3)
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Vergleich der Zeitplanung im agilem und klassischem Projektmanagement
 
-![Beispielabbildung](Zeitplanung/test-file.jpg)
+Ein grundlegender Unterschied zwischen beiden Projektmangementarten ist die Zeitplanung. Im agilen Projektmanagement wird kurzfristig und detailliert geplant, wohingegen im klassischen Projektmanagement eher längerfristig und nicht genauestens im Detail geplant wird. (4)
 
-*lustiges Testbild*
+## Agiles Projektmanagement
+Das agile Projektmanagement folgt iterativen Prozessen. Jede Iteration ist hierbei ein Zeitfenster, in welchem eine bestimmte Aufgabe erledigt werden muss. Danach wird das Ergebnis kurz bewertet und die nächste Iteration beginnt. Wichtig hierbei ist zu wissen, dass das Ziel nur grob vorformuliert ist und es sich durch die Prozesse erst genauer definiert. (4)
 
-# Aspekt 2
+## Klassisches Projektmanagement
+Das klassische Projektmanagement folgt einem Schritt-für-Schritt Vorgehen. Das Ziel ist bereits von Anfang an genauestens definiert. Zunächst werden die erforderlichen Tätigkeiten festgelegt, anschließend wird der jeweilige Zeitverbrauch von diesen bestimmt. Die kumulierten Zeitverbräuche der einzelnen Tätigkeiten ergeben dann in der Summe die Zeitspanne des Projekts. Durch dieses Vorgehen wird der Projektablaufplan, mit den genauen Etappen festgelegt. Hierbei bestimmt das jeweilige Projektverlaufsmodell die Gestalt des Planes. (5)
+Zeitplanung im klassischen Sinne ist somit ist die Bestimmung der Projektdauer, mit Einberechnung von Zeitreserven und den damit entstehenden Anfangs- und Endzeitpunkten für einzelne Prozesse. (1)
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Projektablaufplan
+Der Projektablaufplan ist der Terminkalender für das Projekt. In ihm wird chronologisch der Ablauf der Arbeiten bestimmt. Es ist genau beschrieben, wie die einzelnen Arbeitspakete zeitlich abgearbeitet werden müssen. Außerdem wird eingetragen, wann gewünschte Meilensteine erreicht werden sollen und in welcher Beziehung Arbeitspakete und Meilensteine zueinanderstehen. 
+Es müssen bestimmte Risiken vorausgesehen und berücksichtigen werden. Zum Beispiel Verzögerungen von Lieferterminen, erkrankte Mitarbeiter, mehr Aufwand, Ausfall von Maschinen, etc. Deshalb darf im Projektablaufplan nichts zu knapp kalkuliert werden. (6)
 
-So kann man eine Tabelle erstellen:
+# Vor- und Nachteile der Zeitplanung im klassischem Projektmanagement
+Klassisches Projektmanagement eignet sich am besten für Projekte, welche kompliziert und genauestens ausgearbeitet werden müssen. Aber auch für Projekte die bereits in vergleichbarere Form stattgefunden haben. (7) 
+Ein Beispiel hierfür wäre ein Hausbau. Man weiß genau zu Beginn, wie lange es dauert bis Beton trocknet oder wie lange der Handwerker im Schnitt zum Bodenverlegen braucht. (5)
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Vorteile
+*	Präzise zeitliche Planung
+*	Transparenz
+*	Klare Aufteilung von Zuständigkeiten
+*	Verschaffung eines Überblicks für jeden
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## Nachteile
+*	Kaum Flexibilität 
+*	Risiko von Realitätsfernheit 
+* Schnelles reaktives Handeln nicht möglich
 
 
 # Siehe auch
