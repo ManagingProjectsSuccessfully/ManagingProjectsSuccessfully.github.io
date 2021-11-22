@@ -116,7 +116,7 @@ Datenbank unter Einbezug der eigenen Unternehmenssituation und Ausrichtung.
 Beispiele frei zugänglicher Zusammenfassungen sind:
 
 * Zusammenfassung von businesswire der Kernaussagen des Berichtes von 2021: [Businesswire](https://www.businesswire.com/news/home/20210324005874/de/)
-* Zusammenfassung von onvista der Kernaussagen des Berichtes von 2021:[Onvista](https://www.onvista.de/news/der-bericht-pulse-of-the-profession-von-2021-des-pmi-enthuellt-die-vorteile-der-organisatorischen-flexibilitaet-in-zeiten-grosser-veraenderungen-444246997)
+* Zusammenfassung von onvista der Kernaussagen des Berichtes von 2021: [Onvista](https://www.onvista.de/news/der-bericht-pulse-of-the-profession-von-2021-des-pmi-enthuellt-die-vorteile-der-organisatorischen-flexibilitaet-in-zeiten-grosser-veraenderungen-444246997)
 
 
 # Quellen
