@@ -5,10 +5,7 @@ author: Charles0209
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu Minimum_Viable_Product um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das Minimum Viable Product ist eine Technik der Produktentwicklung, das Anwendung im agilen Projektmanagement findet.
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 ## Test
