@@ -86,7 +86,9 @@ Es gibt eine Reihe von Varianten oder Alternativen, die einen ähnlichen Matrix-
 > Responsible, Expert, Work, Approver. Der Expert entspricht ungefähr dem „Consulted“ von RACI, Work adressiert die tatsächliche Ausführung einer Tätigkeit und A steht für Approver und somit für die Abnahme einer Tätigkeit bzw. eines Ergebnisses.
 
 
-
+# Weiterführende Literatur
+* [Impact of RACI on Delivery and Outcome of Software Development Projects](https://ieeexplore.ieee.org/abstract/document/6783449)
+* [RACI Getting Projects "Unstuck"](https://www.proquest.com/docview/1008861466?pq-origsite=primo)
 # Quellen
 
 [^1]: [Wer ist wofür verantwortlich? Diese Methode schafft Übersicht!](https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/raci-matrix/)
