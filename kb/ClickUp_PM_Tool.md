@@ -58,14 +58,17 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * ClickUp ist kostenlos nutzbar. Es gibt aber auch die Möglichkeit bei Zahlung verschieden Features freizuschalten.
 * Bei der folgenden Tabelle wurden die monatlichen Preise betrachtet. Bei Abschluss von jährlichen Abonnements sinken die Preise monatlich betrachtet.
 
-|   Kostenlos     |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
-| --------------  | ------------- | ------------- | ------------ | ------------- | ------------  |
-|   Speicher      | 100 MB        | Unbegrenzt    | Unbegrenzt   |  Unbegrenzt   |  Unbegrenzt   |
-|Synchronisierung¹| Nein          | Ja            | Ja           |  Ja           | Ja            |
-|   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
-|   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
-| Priority Support| Nein          | Nein          | Nein         | Ja            | Ja            |
-|   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+*(Tabelle gekürzt, bei ClickUp[^1] weitere Kategorien) 
+
+|   Kostenlos       |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
+| ---------------   | ------------- | ------------- | ------------ | ------------- | ------------  |
+|   Speicher        | 100 MB        | Unbegrenzt    | Unbegrenzt   |  Unbegrenzt   |  Unbegrenzt   |
+|Synchronisierung¹  | Nein          | Ja            | Ja           |  Ja           | Ja            |
+|Security (Features)| 1 von 16      | 1 von 16      |     3 von 16 |     5 von 16  |    16 von 16  |
+|   Kostenlos       | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+|   Kostenlos       | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+| Priority Support  | Nein          | Nein          | Nein         | Ja            | Ja            |
+
 
 * ¹(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
 
