@@ -24,14 +24,14 @@ Der innovative Kern des Hackathons lässt sich anhand von drei wesentlichen Merk
 
 ![Beispielabbildung](Hackathon/Minimalstruktur.png)
 
-*Abbildung 1: Minimalstruktur eines Hackathons* [^]
+*Abbildung 1: Minimalstruktur eines Hackathons* [^7]
 
 
 Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen verstärkt, die zum einen im Zuge der Entwicklung des Formats hinzugekommen sind, und zum anderen den Anreiz des Hackens steigern. Dazu gehört die Kreation einer Wettbewerbssituation durch ein Organisationsteam, Präsentation der Ergebnisse vor einer Jury, als auch vielversprechende Preise.[^]
 
 ![Beispielabbildung](Hackathon/Elemente-Hackathon.png)
 
-*Abbildung 2: Charackteristische Elemente eines Hackathons mit mehreren Teams*[^]
+*Abbildung 2: Charackteristische Elemente eines Hackathons mit mehreren Teams*[^7]
 
 
 # Entstehung und Geschichte - Wrap-Up
