@@ -41,7 +41,7 @@ Der größte Konkurrent von Scrum.org ist bis heute ScrumAlliance. Es gibt auch 
 
 # Quellen
 
-[^1]: [Ken Schwaber] (https://www.scrum.org/team/ken-schwaber)
+[^1]: [Ken Schwaber](https://www.scrum.org/team/ken-schwaber)
 [^2]: [About Scrum.org](https://www.scrum.org/about)
 [^3]: [PROFESSIONAL SCRUM™ CERTIFICATIONS](https://www.scrum.org/professional-scrum-certifications)
 [^4]: [PROFESSIONAL SCRUM™ TRAINING](https://www.scrum.org/courses)
