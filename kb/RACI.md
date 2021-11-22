@@ -84,6 +84,8 @@ Es gibt eine Reihe von Varianten oder Alternativen, die einen ähnlichen Matrix-
  ## REWA
 > Responsible, Expert, Work, Approver. Der Expert entspricht ungefähr dem „Consulted“ von RACI, Work adressiert die tatsächliche Ausführung einer Tätigkeit und A steht für Approver und somit für die Abnahme einer Tätigkeit bzw. eines Ergebnisses.
 
+# Siehe auch
+* [Projekt](https://github.com/mirela08/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
 
 # Weiterführende Literatur
 * [Impact of RACI on Delivery and Outcome of Software Development Projects](https://ieeexplore.ieee.org/abstract/document/6783449)
