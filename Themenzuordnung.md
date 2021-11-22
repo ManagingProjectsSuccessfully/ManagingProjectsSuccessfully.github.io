@@ -265,7 +265,6 @@ author: anniSc
 | [Daily_Scrum](kb/Daily_Scrum.md)                                                                                                   | [JonathanBauerFau](https://github.com/JonathanBauerFau)       |
 | [Sprint_Review](kb/Sprint_Review.md)                                                                                               | [DeniseWt](https://github.com/DeniseWt)                       |
 | [Retrospective](kb/Retrospective.md)                                                                                               | [nta01](https://github.com/nta01)                             |
-| [Increment](kb/Increment.md)                                                                                                       | [up67enyq](https://github.com/up67enyq)                       |
 | [Product_Backlog](kb/Product_Backlog.md)                                                                                           | [PhilippWolfrum](https://github.com/PhilippWolfrum)           |
 | [Definition_of_Done](kb/Definition_of_Done.md)                                                                                     | [Akshat7777](https://github.com/Akshat7777)                   |
 | [Scrum_Values](kb/Scrum_Values.md)                                                                                                 | [Lukas1401](https://github.com/Lukas1401)                     |
