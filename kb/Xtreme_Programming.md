@@ -27,7 +27,7 @@ Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien u
 ![Beispielabbildung] (https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
 
 
-# Rollen
+## Rollen
 
 Der <b> Kunde </b> ist der Auftragggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll.
 Innerhalb des Entwicklerteams gibt es keine Rollentrennung, jeder Mitarbeiter wird unabhängig von seinen Fähigkeiten als <b> Entwickler </b> bezeichnet.
@@ -36,7 +36,7 @@ Der <b> Produktmanager </b> ist meist ein disziplinarischer Vorgesetzter, allerd
 Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler.
 
 
-# Werte
+## Werte
  
 Die <b> Kommunikation </b> zwischen allen Rollen ist extrem wichtig, um Probleme direkt adressieren zu können. 
 So können Missstände direkt behoben werden und permanenter Austausch führt zu gleichem Wissensstand der Entwickler.
@@ -51,7 +51,7 @@ Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Änd
 Damit die gemeinsame Arbeit im Team gut funktionieren kann, müssen sich die Teammitglieder gegenseitig <b> Respekt </b> entgegenbringen, auch über das Team hinaus ist Wertschätzung wichtig, zum Beispiel im Kontakt mit dem Kunden.
 
 
-# Prinzipien
+## Prinzipien
 
 * Unmittelbares Feedback
 * Einfachheit anstreben
@@ -60,7 +60,7 @@ Damit die gemeinsame Arbeit im Team gut funktionieren kann, müssen sich die Tea
 * Hochwertige Arbeit
 
 
-# Techniken
+## Techniken
 
 
 * Feinstufiges Feedback
@@ -69,7 +69,7 @@ Damit die gemeinsame Arbeit im Team gut funktionieren kann, müssen sich die Tea
 * Wohlergehen der Entwickler
 
 
-# Vor- und Nachteile
+## Vor- und Nachteile
 
 Durch das inkrementelle Vorgehen kann das Produkt genau nach Kundenwünschen entwickelt werden und Kosten schnell wieder hereinholen, 
 da beispielsweise eine Software zu einem frühen Zeitpunkt produktiv gehen kann.
@@ -78,16 +78,16 @@ Die Entwickler werden von den Erfolgserlebnissen, wenn eine neue Version ausgeli
 Natürlich ist die Methode des Extreme Programming sehr anspruchsvoll und 
 
 
-# Siehe auch
+## Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Xtreme_Programming.md)
 
-# Weiterführende Literatur
+## Weiterführende Literatur
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
-# Quellen
+## Quellen
 
 [^1]: https://www.ionos.de/digitalguide/websites/web-entwicklung/extreme-programming/
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
