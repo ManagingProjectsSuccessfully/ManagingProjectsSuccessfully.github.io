@@ -7,7 +7,7 @@ anrechnung: k
 
 
 
-*"Es war einmal… der Mensch. Und mit ihm eine Geschichte. Storytelling, die Kunst des Erzählens, ist so alt wie die Menschheit. Geschichten haben eine einzigartige Kraft richtig eingesetzt sorgen sie für starkes Projekt Management[^1]."*
+*"Es war einmal… der Mensch. Und mit ihm eine Geschichte. Storytelling, die Kunst des Erzählens, ist so alt wie die Menschheit. Geschichten haben eine einzigartige Kraft, richtig eingesetzt sorgen sie für starkes Projekt Management[^1]."*
 
 # Storytelling
 
