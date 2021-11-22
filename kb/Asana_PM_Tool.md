@@ -11,9 +11,9 @@ Der Name des Unternehmens "Asana" stammt dabei aus dem Sanskrit, der Literatur- 
 Als US-amerikanisches Unternehmen werden die mit dem Unternehmen geteilten Daten grundsätzlich nach den amerikanischen Datenschutzrichtlinien behandelt. Allerdings bietet Asana auch die Möglichkeit ein Übereinkommen für eine Datenverarbeitungsvereinbarung zu treffen, nach der die Daten gemäß der DSGVO verarbeitet werden [^2].
 
 # Funktionen von Asana 
-Nach der Anmeldung bei Asana, mit zum Beispiel seinem Google Konto, gelangt man zur Homepage. Auf dieser sieht man alle Projekte und Aufgaben die demnächst fällig sind [^5].
+Nach der Anmeldung bei Asana, mit zum Beispiel seinem Google Konto, gelangt man zur Homepage, auf der man alle Projekte und Aufgaben sieht, die demnächst fällig sind [^5].
 
-Im Register meine Aufgaben, befinden sich alle Aufgaben, die einem zugeordnet wurden. Für einen besseren zeitlichen Überblick können sie in die Kategorien „Heute erledigen“, „nächste Woche erledigen“ oder „Später erledigen“ sortiert werden [^6]. Um die Zuordnung zu veranschaulichen kann zwischen einer Listenansicht, einem [Kanban-Board](Kanban.md) und einer [Gantt Chart](Gantt_Diagramme.md) gewählt werden [^2] [^6]. 
+Im Register "Meine Aufgaben", befinden sich alle Aufgaben, die einem zugeordnet wurden. Für einen besseren zeitlichen Überblick können diese in die Kategorien "Heute erledigen“, "nächste Woche erledigen“ oder "Später erledigen“ sortiert werden [^6]. Um die Zuordnung zu veranschaulichen, kann zwischen einer Listenansicht, einem [Kanban-Board](Kanban.md) und einer [Gantt Chart](Gantt_Diagramme.md) gewählt werden [^2] [^6]. 
 
 Damit alle Teammitglieder eines Projektes immer auf dem aktuellen Stand sind, gibt es die Infobox. In dieser befinden sich alle Benachrichtigungen die man bekommt, zum Beispiel, weil man zu einem Projekt oder einer Aufgabe neu hinzugefügt wurde, ein Dokument hinzugefügt wurde oder jemand einen in einem Kommentar unter einer Aufgabe getaggt hat. Asana bietet dazu die Option bei jeder Benachrichtigung in der Inbox eine E-Mail zu versenden [^2] [^5]. Auch hat man hier die Möglichkeit Nachrichten zu senden, um sich mit seinen Teammitgliedern auszutauschen und Diskussionen zu führen [^7].
 
