@@ -7,6 +7,9 @@ anrechnung: k
 
 ClickUp ist ein [Projekt-Management Tool](Uebersicht_PM_Tools.md) welches verschiedene Features von mehreren Internetseiten und Apps wie [Trello](Trello_PM_Tool.md) oder [Asana](Asana_PM_Tool.md) zu einer Plattform kombiniert. Arbeit, Organisation und Kommunikation wird auf einer Seite vereint.
 
+
+![Beispielabbildung](ClickUp_PM_Tool/logo.png)
+
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -55,14 +58,16 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Punkteliste
   - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Preisliste
 
-So kann man eine Tabelle erstellen:
+* ClickUp ist kostenlos nutzbar. Es gibt aber auch die Möglichkeit bei Zahlung verschieden Features freizuschalten.
+* (Bei der folgenden Tabelle wurden die monatlichen Preise betrachtet. Bei Abschluss von jährlichen Abonnements sinken die Preise monatlich betrachtet.)
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+| Kostenlos | Second Header | | Kostenlos     | Second Header | | Kostenlos     |
+| ------------- | ------------- | | ------------- | ------------- | | ------------- |
+| Content Cell  | Content Cell  | | Content Cell  | Content Cell  | | Content Cell  |
+| Content Cell  | Content Cell  | | Content Cell  | Content Cell  | | Content Cell  | 
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
