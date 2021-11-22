@@ -16,7 +16,7 @@ Wirtschaftlichkeitsbetrachtung erledigt[^2].
 ![Beispielabbildung](Abschlussanalyse/Screenshot-2165.jpg)[^3]
 
 # Prozessablauf Abschlussanalyse
-
+ 
 Zu Beginn werden Kennzahlen vergleichbarer Produktkategorien benötigt, um sie mit den Messzahlen des abgeschlossenen Projektes abgleichen zu können. Durch den 
 Vergleich treten in der Regel Abweichungen hervor, deren Ursachen man danach untersucht.
 Es gibt personelle, technische oder auch organisatorische Ursachen für Abweichungen. Zum Beispiel kann als technische Abweichungsprobleme schlechte Testdaten sein, 
