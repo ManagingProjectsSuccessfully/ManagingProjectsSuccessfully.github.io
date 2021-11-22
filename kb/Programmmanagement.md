@@ -28,9 +28,11 @@ Programme sind grundlegend Managementaufgaben auf Zeit. Auch besteht meist eine 
 
 # 3. Abgrenzung
 
-Das Programmmanagement besitzt meist zyklische oder sich wiederholende Vorgänge. Im Vergleich dazu fokussiert sich das Projektmanagement auf ein einzelnes Projekt.[^4] 
+Das PM besitzt meist zyklische oder sich wiederholende Vorgänge. 
 
-Das Projektportfolio bezeichnet dagegen die Zusammenfassung aller geplanten, genehmigten und laufenden Projekte und Programme eines Unternehmens.[^1]
+Im Vergleich dazu fokussiert sich das Projektmanagement auf ein einzelnes Projekt.[^4] 
+
+Projektportfolio bezeichnet dagegen die Zusammenfassung aller geplanten, genehmigten und laufenden Projekte und Programme eines Unternehmens.[^1]
 
 
 # 4. Aufgaben des Programmmanagers
