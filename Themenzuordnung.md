@@ -125,7 +125,6 @@ author: anniSc
 | [Vorgehensmodelle](kb/Vorgehensmodelle.md)                                                                                         | [hello-pukeko](https://github.com/hello-pukeko)               |
 | [SCRUM_but](kb/SCRUM_but.md)                                                                                                       | [thujavanj](https://github.com/thujavanj)                     |
 | [SCRUMBAN](kb/SCRUMBAN.md)                                                                                                         | [mickey0684](https://github.com/mickey0684)                   |
-| [Scrum_of_Scrums](kb/Scrum_of_Scrums.md)                                                                                           | [Viktoria1412](https://github.com/Viktoria1412)               |
 | [SCRUM](kb/SCRUM.md)                                                                                                               | [Harthauer](https://github.com/Harthauer)                     |
 | [Kanban](kb/Kanban.md)                                                                                                             | [HAhmedFAU](https://github.com/HAhmedFAU)                     |
 | [Kanban_Pull_Prinzip](kb/Kanban_Pull_Prinzip.md)                                                                                   | [LindaStu](https://github.com/LindaStu)                       |
@@ -260,7 +259,6 @@ author: anniSc
 | [Rollen_Scrum](kb/Rollen_Scrum.md)                                                                                                 | [FCN478](https://github.com/FCN478)                           |
 | [Product_Owner](kb/Product_Owner.md)                                                                                               | [Leon1906](https://github.com/Leon1906)                       |
 | [Scrum_Master](kb/Scrum_Master.md)                                                                                                 | [Phr4nk20](https://github.com/Phr4nk20)                       |
-| [Development_Team](kb/Development_Team.md)                                                                                         | [greifchristina](https://github.com/greifchristina)           |
 | [Sprint_Planning](kb/Sprint_Planning.md)                                                                                           | [fauchavd](https://github.com/fauchavd)                       |
 | [Daily_Scrum](kb/Daily_Scrum.md)                                                                                                   | [JonathanBauerFau](https://github.com/JonathanBauerFau)       |
 | [Sprint_Review](kb/Sprint_Review.md)                                                                                               | [DeniseWt](https://github.com/DeniseWt)                       |
@@ -287,7 +285,6 @@ author: anniSc
 | [Selbstorganisierende_Teams](kb/Selbstorganisierende_Teams.md)                                                                     | [IremAkin ](https://github.com/IremAkin )                     |
 | [Stand_Ups](kb/Stand_Ups.md)                                                                                                       | [Gilchus](https://github.com/Gilchus)                         |
 | [Interactive_Planning](kb/Interactive_Planning.md)                                                                                 | [Vallejk](https://github.com/Vallejk)                         |
-| [Interaktion](kb/Interaktion.md)                                                                                                   | [SimaSol](https://github.com/SimaSol)                         |
 | [Umgang_mit_Kritik](kb/Umgang_mit_Kritik.md)                                                                                       | [AnjaKlostermeier](https://github.com/AnjaKlostermeier)       |
 | [Rollenkonflikte](kb/Rollenkonflikte.md)                                                                                           | [martina-bchtl ](https://github.com/martina-bchtl )           |
 | [Scrum_at_Scale](kb/Scrum_at_Scale.md)                                                                                             | [mirela08](https://github.com/mirela08)                       |
