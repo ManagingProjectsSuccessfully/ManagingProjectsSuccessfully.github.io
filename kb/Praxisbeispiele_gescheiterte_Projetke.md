@@ -1,95 +1,84 @@
 ---
-title: Praxisbeispiele_gescheiterte_Projetke
+title: Praxisbeispiele_gescheiterte_Projekte
 tags: agil klassisch
 author: at33fau
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Praxisbeispiele_gescheiterte_Projetke um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Tagtäglich kommt man mehrmals indirekt oder direkt mit Projekten oder deren Ergebnissen in Kontakt. Doch was definiert ein Projekt genau und was sind die Gründe für das Gelingen bzw. das Scheitern eines Projekts? Im Folgenden soll, anhand mehrerer Beispiele, geklärt werden, ab wann ein Projekt gescheitert ist. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Inhaltsverzeichnis
+1 Definitionen
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+  >1.1 Projekt 
+  
+  >1.2 Gescheitertes Projekt - Kriterien
+  
+2 Gescheiterte Projekte
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+3 Zahlen, Daten & Fakten
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+4 Quellen
 
 
-# Aspekt 1
+# 1 Definitionen
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## 1.1 Projekt
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Für den Begriff „Projekt“ gibt es viele verschiedene Definitionen. Betrachtet man die einzelnen Definitionen und bringt diese auf einen Punkt, so zeichnet sich ein Projekt durch eine klare Zielvorgabe, einschränkende Rahmenbedingungen, zeitliche Befristung, eine temporäre Projektorganisation, Einmaligkeit bzw. Neuartigkeit und Komplexität aus.[^1] 
 
-![Beispielabbildung](Praxisbeispiele_gescheiterte_Projetke/test-file.jpg)
+## 1.2 Gescheitertes Projekt – Kriterien 
 
-*lustiges Testbild*
+Ein Projekt gilt als nicht erfüllt, wenn
+* Es die Projektanforderungen nicht erfüllt: Das eigentliche Ziel ist hinfällig geworden oder kann nicht mehr erreicht werden.
+* Die Kosten außer Kontrolle geraten und das bereits Investierte nicht mehr zurückerhalten werden kann.
+* Die Kosten das Budget auf erhebliche Weise übersteigen.
+* Äußere Umstände das Projekt so beeinflussen, dass seine Erfüllung unmöglich wird.
+* Rechtliche oder ethische Gründe für einen Projektabbruch sprechen.
 
-# Aspekt 2
+Ein Projekt kann also fertiggestellt werden und trotzdem scheitern. Darüber hinaus gibt es noch weitere Gründe, welche gegen die Projektdefinition verstoßen können.[^2] 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# 2 Gescheiterte Projekte
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Flughafen Berlin Brandenburg
 
-So kann man eine Tabelle erstellen:
+Der Flughafen BER ist das wohl mit bekannteste Gescheiterte Projekt in Deutschland in jüngster Vergangenheit. Dieses Projekt ist eine Aneinanderreihung von Fehlentscheidungen und gescheiterten Vorgaben:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+* Der Eröffnungstermin wurde sechsmal verschoben; zeitweise ohne einen neuen Termin zu nennen.
+* Die Bauzeit hat sich um neun Jahre auf insgesamt 14 Jahre verzögert.
+* 2013 ergab eine Prüfung 14.750 bauliche Brandschutzmängel.
+* 2014 gab es 1.300 falsche Raumnummern (ca. ein Drittel aller Räume).
+* Bereits 2013 bemängelte der TÜV 70% aller verlegten Kabel.
+* Bisher hat das Projekt BER den Steuerzahle deutlich mehr als sechs Milliarden Euro gekostet und damit mehr als das dreifache der ursprünglich geplanten Summe.[^3]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## Die Elbphilharmonie
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Die Elbphilharmonie sollte ursprünglich 2010 eröffnet werden und insgesamt 77 Millionen Euro kosten. Sieben Jahre später als geplant wurde sie schließlich eröffnet und kostete letztlich mit 789 Millionen Euro mehr als das zehnfache der ursprünglich veranschlagten Kosten. Bereits während der Bauphase wurde das Projekt von Konflikten, Gerichtsprozessen und einem von der Hamburgischen Bürgerschaft eingerichteten Untersuchungsausschuss begleitet.[^4]
 
-### Ebene-3-Überschrift
+## Stadtautobahn Boston 
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Plan des Bauvorhabens „The Big Dig“ („Das große Graben“) war es, die Stadtautobahn Bostons auf einer Strecke von 5,6 Kilometern unterirdisch in einen Tunnel zu verlegen. Das teuerste US-Straßenbauprojekt wurde letztlich 2007 fertiggestellt, mit neun Jahren Verspätung und einer Kostenexplosion von ursprünglichen 2,8 Milliarden auf 14,8 Milliarden Dollar.[^4] 
 
-# Aspekt n
+## Stuttgart 21
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projektvorstellung 1994 bis heute an. Die Eröffnung wäre nach ursprünglichen Plänen 2008 gewesen und wurde auf 2025 verschoben. [^5] Doch es gibt bereits Zweifel, ob dieses Ziel erreichbar sein wird. Ebenso haben sich die geplanten Kosten von ursprünglich 2,5 Milliarden auf über 8 Milliarden Euro vervielfacht.[^6]
+
+# 3 Zahlen, Daten & Fakten
+
+* Weltweit verschwenden Organisationen alle 20 Sekunden ca. 1 Million US-Dollar durch schlechtes Projektmanagement. 
+* Eine Analyse von 1471 IT-Projekten ergab, dass die Istkosten durchschnittlich 27% über den Sollkosten lagen und 70% das zeitliche Ziel nicht einhalten konnten.
+* PwC stellte nach der Untersuchung von 10.640 Projekten fest, dass nur 2,5% der Unternehmen all ihre Projekte erfolgreich umsetzen. 
+* McKinsey analysierte über 5.000 Projekte und stellte fest, dass
+  - 56% die Renditeerwartung verfehlten,
+  - 45% das Budget überschritten,
+  - 17% sogar das Überleben des Unternehmens gefährdeten.[4]
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Praxisbeispiele_gescheiterte_Projetke.md)
+* Verlinkungen zu angrenzenden Themen:
+   - [Erfolgreiche Projekte](Praxisbeispiele_erfolgreiche_Projekte.md)
 
 # Weiterführende Literatur
 
@@ -97,8 +86,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Projektmanagement Definition](https://projekte-leicht-gemacht.de/blog/projektmanagement/definition-projekt/)
+[^2]: [Wann ist ein Projekt gescheitert](https://www.iapm.net/de/blog/wann-ist-ein-projekt-gescheitert/)
+[^3]: [BER in Zahlen](https://www.tagesschau.de/inland/ber-in-zahlen-101.html)
+[^4]: [Das Geheimnis erfolgreicher Projekte](https://www.manager-magazin.de/harvard/management/das-geheimnis-erfolgreicher-projekte-a-00000000-0002-0001-0000-000159313152)
+[^5]: [Stuttgart 21 wird für die Bahn wohl zum Finanzdesaster](https://www.handelsblatt.com/unternehmen/handel-konsumgueter/bahnhofsprojekt-stuttgart-21-wird-fuer-die-bahn-wohl-zum-finanzdesaster/24680390.html)
+[^6]: [Bis zu 1,4 Milliarden Euro Mehrkosten bei S 21?](https://www.kontextwochenzeitung.de/wirtschaft/506/bis-zu-14-milliarden-euro-mehrkosten-bei-s-21-7177.html)
