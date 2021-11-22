@@ -40,7 +40,7 @@ Der Projektleiter hat die Aufgabe das Projekt zu leiten und erfolgreich zum Absc
 
 ## Soft skills
 
-Um eine solch tragende Rolle erfolgreich erfüllen zu können ist es wichtig, alle nötigen Kompetenzen und das gewisse Know-how mitzubringen. Basis ist meist ein Studium mit der Fachrichtung Wirtschaftswissenschaften oder einer Ingenieurswissenschaft. Hinzu kommen ausgeprägte [Soft skills](https://en.wikipedia.org/wiki/Soft_skills), welche überfachliche Qualifikationen beschreiben, die sich nicht messen lassen.[^6]
+Um eine solch tragende Rolle erfolgreich erfüllen zu können ist es wichtig, alle nötigen Kompetenzen und das gewisse Know-how mitzubringen. Basis ist meist ein Studium mit der Fachrichtung Wirtschaftswissenschaften oder einer Ingenieurswissenschaft. Hinzu kommen ausgeprägte [Soft skills](https://en.wikipedia.org/wiki/Soft_skills), welche überfachliche Qualifikationen beschreiben, die sich nicht messen lassen. Diese werden in der Regel nach persönlicher, sozialer und methodischer Kompetenz geordnet.[^6]
 
 
 | Art  | Bespiel |
