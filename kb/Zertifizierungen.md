@@ -48,7 +48,7 @@ Die Abbildung zeigt, dass nicht jede erlangte Zertifizierung Verdienstmöglichke
 
 Durch eine erlangete Zertifizierung im PM werden nicht nur Einarbeitungszeiten aufgrund der bereits erworbenen fachlichen und/oder methodischen Fähigkeiten für neue Mitarbeiter verkürzt, sondern auch Karrieresprünge für bestehende Mitarbeiter ermöglicht.[^9][^10]
 
-# Fazit
+# Zusammenfassung
 
 Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Projektmanagern eine Zertifizierung anhand der persönlichen Bedürfnissen auszuwählen. Auch wenn eine Zertifizierung nicht immer zu einer überdurchschnittliche Bezahlung führt, wurde eine Vielzahl an Vorteilen aufgezeigt, wie beispielsweise die Verkürzung der Einarbeitungszeit oder schlichtweg eine objektive Darlegung der eigenen Fähigkeiten, was wiederum auch berufliche Eintrittsbarrieren mindern kann.
 
