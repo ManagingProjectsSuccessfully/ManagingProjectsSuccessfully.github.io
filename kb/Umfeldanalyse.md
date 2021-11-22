@@ -24,7 +24,7 @@ interne Faktoren sind diese Faktoren, die Innerhalb des Unternehmens oder des Pr
 externe Faktoren sind diese Faktoren, die außerhalb des Unternehmens liegen und nicht direkt beeinflussbar sind.
 Eine Abbildung zu einer bessern Übersicht:
 
-![image](https://user-images.githubusercontent.com/92881395/140652245-9f8e88c6-c5f8-4113-828d-283697daffb4.png)
+![Beispielabbildung](Umfeldanalyse/Einflussfaktoren.jpg)
 
 Die Umfeldanalyse kann ebenfalls der Analyse der Makroumwelt und der Branchenumwelt zugeteilt werden. Die Makroumwelt beinhaltet die Einflussgröße wie zum Beispiel: Rechtliche/politische Umwelt, Ökonomische Umwelt und technologische Umwelt. Die Analyse der Branchenumwelt kann in fünf Wettbewerbskräften erfolgen: 
 Eigenes Unternehmen, Kunden Konkurrenz, Lieferanten und Substitution.
