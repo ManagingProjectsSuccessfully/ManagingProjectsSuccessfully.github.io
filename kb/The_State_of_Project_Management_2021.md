@@ -67,7 +67,7 @@ Die Beratung ermöglicht dem Unternehmen unterstützende Hilfestellung im Bezug 
 
 Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in verschiedensten Situationen. So besteht weiterhin eine [Halbleiterknappheit](https://www.wiwo.de/politik/europa/halbleiter-knappheit-eu-erleichtert-finanzierung-von-chipfabriken/27812942.html) und Lieferverzögerungen sind mittlerweile Normalität. Daraus zeichnet sich ab, dass Flexibilität und Resilienz entscheidende Faktoren sind. So zeichnen sich Trends ab wie der Wunsch nach vollständiger Ressourcenplanung, dass feste Teams bessere Ergebnisse erzielen oder auch, dass klassische und agile Tools parallel betrieben werden sollen. [^12] Darüber hinaus glauben 71% der Befraften, dass Menschen mehr Projektmanagement Skills haben sollten und auch in Zukunft immer mehr Projekte mithilfe von Methoden des Projektmanagements erfolgen. [^2]
 
-# Siehe auch
+# Siehe auch:
 
 * [Projektmanagement](Projektmanagement.md)
 * [Risikomanagement](Risikomanagement.md)
@@ -75,12 +75,12 @@ Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in versch
 * [Methoden](Methoden.md)
 * [Zukunftswerkstatt](Zukunftswerkstatt.md)
 
-# Weiterführende Literatur
+# Weiterführende Literatur:
 
 * [Wellington](https://wellingtone.co.uk/)
 * [PMI](https://www.pmi.org/)
 
-# Quellen
+# Quellen:
 [^1]: [The State of Project Management Annual Report 2021 (YouTube)](https://www.youtube.com/watch?v=hZd5SgZWoWU)
 [^2]: [Annual Report - The State of Project Management 2021 (PDF)](https://wellingtone.co.uk/wp-content/uploads/2021/03/The-State-of-PM-2021.pdf)
 [^3]: [Identifying the State of Project Management (PDF)](https://www.sciencedirect.com/science/article/pii/S1877705816302144)
