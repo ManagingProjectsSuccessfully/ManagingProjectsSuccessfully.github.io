@@ -24,7 +24,7 @@ So wird im diesjährigen Bericht mit Hilfe eines Diagramme Rückschlüsse gewonn
 
 ![PPM Process Value vs. Difficulty to embed](The_State_of_Project_Management_2021/PV_v_DTE.jpg)
 
-[*PPM Process Value vs. Difficulty to embed*](https://wellingtone.co.uk/increase-project-success-the-state-of-project-management/)
+[*Abbildung: PPM Process Value vs. Difficulty to embed*](https://wellingtone.co.uk/increase-project-success-the-state-of-project-management/)
 
 # Maturity Levels:
 
@@ -42,6 +42,8 @@ Mit Hilfe der fünf Maturity Levels wird die Reife des Projektmanagements genaue
    - Alle Prozesse werden immer wieder betrachtet & verbessert, sodass ein Prozess kontinuierlicher Optimierung entsteht. Performance des eigentlichen Projekts und des PMO werden gemessen und fließen in die Entscheidungsgebung mit ein, wodurch Fehler vermieden werden können. [^11]
 
 # Schlüsselfaktoren:
+
+Unter Schlüsselfaktoren sind einzelne Bereiche des Projektmanagements zu verstehen, die den Erfolg eines Projekts beeinflussen können. Ein Faktor alleine zu betrachten wird den Erfolg auf langfristiger Sicht nicht positiv beeinflussen. Es ist ein Zusammenspiel aus den gesamten Schlüsselfaktoren.
 
 1. Methodik:
 
