@@ -11,7 +11,6 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 
 
-Die Planung und Bearbeitung von Projekten erfordert einiges an Arbeit. Um diese konstruktiv zu gestalten, haben sich Methoden bezüglich der Heransgehensweise und Durchführung von Projekten entwickelt sowie Methoden zur Ideenfindung.
 
 Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von Projekten. Die Ausführung dieser Projekte wird komplett oder teilweise vorgegeben.[^1]
 
@@ -24,17 +23,25 @@ Projektmanagement-Methoden sind spezielle Methoden, bspw. Kanban-Board, die inne
 
 
 # Methoden des klassischen Projektmanagements
-Typische Methoden: Netzplantechnik, Meilensteintrendanalyse, Projektstrukturplanung, Erstellung eines Gantt-Charts[^7]
+
+Im klassischen oder auch traditionellen Projektmanagement werden Aktivitäten und Abläufe im Vornherein genau geplant und dokumentiert. Die Projektdurchführung sollte abgesehen von kleinen Änderungen möglichst genau an diesen vorgefertigten Plänen angelehnt sein. Dadurch ergeben sich entsprechende Methoden, die einzelne Elemente des Projektes wie Phasen, Meilensteine und Inhalte festlegen. Typische Methoden sind dabei Netzplantechnik, Meilensteintrendanalyse, Projektstrukturplanung und die Erstellung eines Gantt-Charts.[^7]
 
 ## Netzplantechnik
+Die Netzplantechnik dient, meistens als Softwareprogramm, zur Unterstützung der zeitlichen und organisatorischen Planung von Projekten. [^8]
+Mit dessen Hilfe kann der Ablauf eines Projekts sinnvoll strukturiert werden. Konkret werden verschiedene Aktivitäten als Kästen dargestellt und in der zu bearbeitenden Reihenfolge miteinander verbunden.[^9]
+
 ## Meilensteintrendanalyse
+
 ## Projektstrukturplanung
+
 ## Gantt-Chart
 
 
 
 # Methoden des agilen Projektmanagements
-Typische Methoden: Backlog-Management, Kanban-Board, Daily Scrum, Sprint Review[^7]
+
+
+Backlog-Management, Kanban-Board, Daily Scrum und das Sprint Review sind typische Methoden für das agile Projektmanagement.[^7]
 
 ## Backlog-Management
 ## Kanban-Board
@@ -176,7 +183,8 @@ Scheiferla Nemberch nä Bledzla Affnhidz.
 
 [^6]: [Grundlagen des Projektmanagements](https://link.springer.com/content/pdf/10.1007%2F978-3-662-48216-2.pdf)
 [^7]: [Projektmanagement-Methoden: Der ultimative Überblick](https://projekte-leicht-gemacht.de/pm-methoden/)
-
+[^8]: [Netzplantechnik](https://www.unternehmerlexikon.de/netzplantechnik/)
+[^9]: [Netzplantechnik im Projektmanagement – einfach erklärt](https://www.factro.de/blog/netzplantechnik/)
 
 
 [^111]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
