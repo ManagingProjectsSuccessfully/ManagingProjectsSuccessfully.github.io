@@ -16,14 +16,21 @@ Die Entscheidung zur Ermittlung und Festhaltung dieser Messwerte sollte dem Team
 
 ## Mögliche Vorteile durch Scrum Metrics im Projektverlauf
 
+Scrum Metrics können Teams helfen, Grenzen und Möglichkeiten leichter zu erkennen und unter Betracht deren das Projekt sowie Aufgaben Zielorientiert zu gestalten. Dies gilt nicht nur für neue, sondern auch für vorhandene Teams.
 
+Die Auswertung von Messwerten ermöglicht den Durchblick, durch unterschiedliche Aspekte der Effektivität eines Teams:
 
--
--
--
--
+- Geschwindigkeit
+- Kapazität
+- Produktivität
+- Performance
+- Zufriedenheit
+- Laune
 
+Diese haben dann Einfluss auf:
 
+- Voraussichtliches Abschlussdatum
+- Qualität des Produkts
 
 ## Unterschied zu Key Performance Indicators (KPI's)
 
@@ -40,6 +47,7 @@ Die Entscheidung zur Ermittlung und Festhaltung dieser Messwerte sollte dem Team
 
 Was ist Scrum
 Was sind Key Performance Indicators(KPI's)
+Teammanagement
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Scrum_Metrics.md)
