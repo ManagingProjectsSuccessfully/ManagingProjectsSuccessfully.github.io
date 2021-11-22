@@ -12,9 +12,9 @@ Extreme Programming, kurz XP, ist die radikalste Umsetzung der agilen Softwareen
 Zurückzuführen ist die Methode auf die Softwareentwickler Kent Beck, Ward Cunningham und Ron Jeffries. 
 Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen , da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte.
 
-# Agile Methode
+# Eine Agile Methode
 
-Wie Scrum und Kanban, andere agile Methoden, stellt Extreme Programming den Kunden und seine Anforderungen in den Mittelpunkt .
+Wie Scrum und Kanban, andere agile Methoden, stellt Extreme Programming den Kunden und seine Anforderungen in den Mittelpunkt.
 Dies ist oftmals schwierig bei einem klassischen Ansatz, vor allem, wenn sich die die Kundenwünsche regelmäßig ändern.
 
 Es wird von iterativen Prozessen ausgegangen. 
@@ -45,11 +45,15 @@ Der Productowner übernimmt die Verantwortung für das Projekt, organisiert als 
 * Mut
 * Respekt
  
-Die Kommunikation zwischen allen Rollen (Rollen zuerst erklären?) ist extrem wichtig, um Probleme direkt adressieren zu können. 
+Die Kommunikation zwischen allen Rollen ist extrem wichtig, um Probleme direkt adressieren zu können. 
 So können Missstände direkt behoben werden und permanenter Austausch führt zu gleichem Wissensstand der Entwickler.
 Ein wichtiger Wert der Methode XP ist die Einfachheit. Es wird nach der einfachsten Lösung gestrebt und die Entwickler halten sich so nicht mit Unwichtigem auf. 
 Es werden möglichst nur die im Moment benötigten Features entwickelt und nicht für zukünftige Anforderungen vorgearbeitet. Ein schlankes Produkt ist sowohl bei der Weiterentwicklung als auch bei der Wartung einfacher zu handhaben und ein simpler Programmcode vereinfacht die Kommunikation, da so alle Teammitglieder den Quelltext verstehen können.
 Bei dem Punkt Feedback geht es nicht nur um die Kritik des Kunden, sondern auch um Meldungen des Systems (Logs). Das Team arbeitet in kleinen Zyklen, testet häufig und kann so Änderungen und Fehlerbehebungen kurzfristig vornehmen.
+
+# Prinzipien
+
+# Techniken
 
 # Vor- und Nachteile
 
