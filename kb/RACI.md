@@ -22,7 +22,7 @@ Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umf
 **I** – Informed: Wer wird über die Ergebnisse der Aufgabe informiert? Hier findet in der Regel keine zweiseitige Kommunikation statt, sondern es werden lediglich Informationen übertragen. 
 
 
-## So kann eine RACI-Matrix aussehen
+## So kann eine RACI-Matrix aussehen:
 
 <br>
 
