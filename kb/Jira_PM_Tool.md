@@ -24,7 +24,7 @@ Bei Atlassian gibt es mehrere Preismodelle[^5]. Hier wird zwischen Cloud- und se
 
 Tabelle 1: Preisliste
 
-Quelle: Atlassian. (2021). Modelle und Preise. https://www.atlassian.com/de/software/jira/pricing
+Quelle: Atlassian. (o. D.). Modelle und Preise. https://www.atlassian.com/de/software/jira/pricing
 
 ## 3. Funktionsweise
 In Jira muss zunächst vom Administrator ein Projekt angelegt werden. Im Anschluss kann eine Vorlage für das Projekt ausgewählt werden, was die Darstellung der Aufgaben beeinflusst. Man kann sich bei Jira-Software zwischen [Scrum](Jira_PM_Tool.md#61-scrum-board)- und [Kanban Boards](Jira_PM_Tool.md#62-kanban-board) entscheiden[^7]. Im Jira-Projekt können sogenannte [Vorgänge](Jira_PM_Tool.md#4-vorgänge) erstellt werden, die als Aufgaben, Risiken, Bugs aber auch diverse andere Typen gekennzeichnet werden[^8]. Diese Vorgänge müssen während ihrer Bearbeitung einen Workflow durchlaufen, der in den Projekteinstellungen definiert werden kann und für jede Aufgabe gilt. Auf den Projektboards oder extra erstellen [Dashboards](Jira_PM_Tool.md#63-dashboards) können die Vorgänge nach bestimmten Kriterien gefiltert dargestellt werden und somit eine leichtere Auswertung erfolgen.
@@ -33,6 +33,10 @@ In Jira muss zunächst vom Administrator ein Projekt angelegt werden. Im Anschlu
 Aufgaben oder Tickets werden in Jira als Vorgang angelegt. Hierbei kann je nach Bedarf entschieden werden, um welche Art es sich dabei Handeln soll und aus verschiedenen Formaten wie „Aufgabe“, „Unteraufgabe“, „Themes“ eine passende Vorlage auswählen. Beim Erstellen muss ein Titel, sowie eine Beschreibung der Aufgabe hinzugefügt werden bevor diese angelegt werden kann[^9].
 
 ![Jira Vorgangserstellung](Jira_PM_Tool/Jira_Issue.png)
+
+Abbildung 1: Vorgangserstellung in Jira
+
+Quelle: Sanikovich, I. (2020). Best Practices for Creating a Jira Issue With Templates. https://stiltsoft.com/blog/2020/06/best-practices-for-creating-a-jira-issue-with-templates/
 
 ## 5. Filter
 Mit Hilfe von Filtern kann nach bestimmten Vorgängen gesucht werden. Zum einen kann man als Benutzer direkt auf dem Projektboard mit hinzugefügten Schnell-Filtern per Auswahlliste oder Suchfeld die Ergebnisse einschränken, andererseits hat man die Möglichkeit über Jira-Query-Language (JQL)[^10] erweiterte suchen auszuführen. Diese erweiterten Suchen können auch getrennt von dem Projektboard als eigene Filter abgespeichert werden[^11] und so an verschiedenen Stellen wiederverwendet werden.
@@ -51,11 +55,23 @@ Neben den Projektboards gibt es noch [Dashboards](Jira_PM_Tool.md#63-dashboards)
 ### 6.1 Scrum Board
 ![Scrum Board](Jira_PM_Tool/scrum_backlog_full.png)
 
+Abbildung 2: Jira Scrum Board
+
+Quelle: Atlassian. (2020). Using your Scrum backlog. https://confluence.atlassian.com/jirasoftwareserver/using-your-scrum-backlog-938845361.html
+
 ### 6.2 Kanban Board
 ![Jira Kanban Board](Jira_PM_Tool/screenshot_JSW_KanbanBoard.png)
 
+Abbildung 3: Jira Kanban Board
+
+Quelle: Atlassian. (2021). Monitor work in a kanban project. https://support.atlassian.com/jira-software-cloud/docs/monitor-work-in-a-kanban-project/
+
 ### 6.3 Dashboards
 ![Jira Dashboard](Jira_PM_Tool/jira_dashboard.png)
+
+Abbildung 4: Jira Dashboard
+
+Quelle: Forman, A. (2015). Jira Core dashboard: your project status at a glance. https://www.atlassian.com/blog/jira-core/jira-core-dashboard-project-status-glance
 
 ## 7. Herausforderungen
 Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als Unternehmen muss hier eine klare Vorgehensweise beim Anlegen und Arbeiten mit den Vorgängen gesetzt werden, da sonst hoher Anpassungsbedarf und Mehraufwand entstehen kann. 
@@ -70,7 +86,6 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 * [Kanban Boards in Jira](https://support.atlassian.com/jira-software-cloud/docs/monitor-work-in-a-kanban-project/)
 * [Jira Issue Types](https://support.atlassian.com/jira-cloud-administration/docs/what-are-issue-types/)
 * [Jira Best Practices](https://www.atlassian.com/de/software/jira/guides/getting-started/best-practices)
@@ -92,12 +107,6 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 [^12]: [JQL Syntax](https://www.atlassian.com/software/jira/guides/expand-jira/jql#jql-syntax)
 [^13]: [What is a Jira Dashboard](https://support.atlassian.com/jira-work-management/docs/what-is-a-jira-dashboard/)
 
-
-## Bilder
- 4. Jira Issue https://stiltsoft.com/blog/2020/06/best-practices-for-creating-a-jira-issue-with-templates/
- 6.1 Scrum Backlog https://confluence.atlassian.com/jirasoftwareserver/using-your-scrum-backlog-938845361.html
- 6.2 Kanban Board https://support.atlassian.com/jira-software-cloud/docs/monitor-work-in-a-kanban-project/
- 6.3 Jira Dashboard https://www.atlassian.com/blog/jira-core/jira-core-dashboard-project-status-glance
 
  
 
