@@ -21,6 +21,8 @@ Ein grundlegender Unterschied zwischen beiden Projektmangementarten ist die Zeit
 ## Agiles Projektmanagement
 Das agile Projektmanagement folgt iterativen Prozessen. Jede Iteration ist hierbei ein Zeitfenster, in welchem eine bestimmte Aufgabe erledigt werden muss. Danach wird das Ergebnis kurz bewertet und die nächste Iteration beginnt. Wichtig hierbei ist zu wissen, dass das Ziel nur grob vorformuliert ist und es sich durch die Prozesse erst genauer definiert. [^4]
 
+![Zeitplanung agiles PM](ManagingProjectsSuccessfully.github.io/kb/Zeitplanung/agiles_PM.pdf)
+
 ## Klassisches Projektmanagement
 Das klassische Projektmanagement folgt einem Schritt-für-Schritt Vorgehen. Das Ziel ist bereits von Anfang an genauestens definiert. Zunächst werden die erforderlichen Tätigkeiten festgelegt, anschließend wird der jeweilige Zeitverbrauch von diesen bestimmt. Die kumulierten Zeitverbräuche der einzelnen Tätigkeiten ergeben dann in der Summe die Zeitspanne des Projekts. Durch dieses Vorgehen wird der Projektablaufplan, mit den genauen Etappen festgelegt. Hierbei bestimmt das jeweilige Projektverlaufsmodell die Gestalt des Planes. [^5]
 Zeitplanung im klassischen Sinne ist somit ist die Bestimmung der Projektdauer, mit Einberechnung von Zeitreserven und den damit entstehenden Anfangs- und Endzeitpunkten für einzelne Prozesse. [^6]
