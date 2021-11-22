@@ -25,14 +25,12 @@ Eine der Kernfunktionen des magischen Dreiecks ist es zudem, die Konflikte zwisc
 Die Dimensionen Kosten und Zeit geraten besonders dann in Konflikt, wenn der angestrebte Zeitpunkt der Beendigung des Projekts nur schwer einzuhalten ist oder sich zu verschieben droht. Dann gilt es zu entscheiden, ob man die Kosten erhöht, um das angestrebte Datum einzuhalten oder die Frist verlängert. Eine solche Kostenerhöhung würde zum Beispiel mehr Überstunden für die Mitarbeiter oder die Einstellung neuen Personals bedeuten. Allerdings würde man dann das gesteckte Ziel der Kostendimension in Gefahr bringen.[^3]
 ### 2.2 Leistung vs. Zeit
 Eine weitere Möglichkeit die Projektfrist einzuhalten wäre die Qualität des Produktes anzupassen, was zur Folge eine Beeinträchtigung der Leistungsdimension hätte. Die Ziele werden dann -außer man ist bereit zu akzeptieren, dass die Zeitdimension sich verschiebt- nicht erreicht.[^2]
-### 2.3Leistung vs. Kosten
+### 2.3 Leistung vs. Kosten
 Diese beiden Größen stehen besonders dann in Konflikt, wenn Probleme bei der Einhaltung der Leistungsdimension bestehen. Dann gilt es abzuwägen, ob man diese Probleme mit einer Kostenerhöhung anpasst und damit die Ziele der Kostendimension in Gefahr bringt oder die Leistung des Produkts und somit auch die Leistungsdimension schmälert.[^2]
 
 Diese Konflikte sind unvermeidbar, entscheidend ist es jedoch sie möglich gering zu halten. Das passiert, indem man die beispielsweise offen kommuniziert, die Erwartung aller Stakeholder zusammenführt und ausbalanciert oder für alle Dimensionen einen Puffer einbaut, damit die Beziehung innerhalb des Dreiecks intakt bleibt, selbst wenn sich unerwartete Veränderungen ergeben. [^3]
 Kurzbeschreibung zu Magisches_Dreieck um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`)
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -61,28 +59,12 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Magisches_Dreieck/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
 So kann man eine Tabelle erstellen:
 
@@ -91,29 +73,12 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
 * [SMART_Ziele](SMART_Ziele.md)
+* [Zeitdimension](Zeitplanung.md)
+* [Kostendimension](Kostenplanung.md)
 
 # Weiterführende Literatur
 
