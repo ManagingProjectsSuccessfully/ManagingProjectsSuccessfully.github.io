@@ -26,39 +26,9 @@ Compliance in Organisationen umzusetzten bedarf zunächst einer umfangreichenden
 
 # Risiken und Prävention
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Compliance dient in erster Linie dazu, Unternehmen und deren Akteure vor juristischen und wirtschaftlichen Konsequenzen zu bewahren. Oftmals sind für Verstöße gegen rechtliche Verordnungen hohe Geldstrafen fällig. Nicht selten besteht auch die Möglichkeit einer Freiheitsstrafe bei Vergehen härterer Art. (Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen) Mit einer Verurteilung bei Missachtung einer Vorschrift geht häufig ein Imageverlust einher, der dem Unternehmen zusätzlichen wirtschaftlichen Schaden kosten kann. (Otte, Holger: Einführung von Compliance Management Systemen)
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+# Abschließende Bemerkung und Einordnung in den Gesamtkontext
 
 
 # Siehe auch
@@ -77,5 +47,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 3. International Organization for Standardization: ISO 37301:2021
 Compliance management systems — Requirements with guidance for use (https://www.iso.org/standard/75080.html , zuletzt aufgerufen am 19.11.2021)
 4. Leitner, Andreas: Compliance Management System (CMS) (https://andreasleitner.de/compliance-management-system/ , zuletzt aufgerufen am 22.11.2021)
+5. Otte, Holger: Einführung von Compliance Management Systemen (https://www.bdo.de/de-de/services/audit-assurance/forensic,-risk-compliance/compliance/compliance-management-system-cms , zuletzt aufgerufen am 20.11.2021)
 
 
