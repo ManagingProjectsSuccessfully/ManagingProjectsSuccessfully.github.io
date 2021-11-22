@@ -2,22 +2,20 @@
 title: IT-Projekte
 tags: agil klassisch
 author: Adaye1e
-anrechnung: k oder a
+anrechnung: k 
 ---
+# IT-Projekte
+Unter IT-Projekte versteht man die Entwicklung von Informations- und Kommunikationssystemen. Die Hauptaufgabe dabei ist die Entwicklung bzw. Anpassung von Software[^1].
 
-Kurzbeschreibung zu IT-Projekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+## Klassische Methoden 
+Im Bereich der Softwareentwicklung sind die klassischen Vorgehensmethoden „Hermes“, „PRINCE2“ und „V-Model XT geeignet[^2].
+### HERMES
+Bei Hermes spielen die Vorgabe von Projektergebnissen und Strukturierung eine wichtige Rolle. Daraus werden die erforderlichen Projekttätigkeiten und Verantwortlichkeiten abgeleitet werden. Die Ergebnisse sind eindeutig definiert, wodurch der Anfang- und Endpunkt der Phasen vordefiniert sind und somit eine präzise Vorgehensweise gewährleistet wird. Hermes ist ebenfalls gekennzeichnet durch eine lineare Abfolge der Aktivitäten, was den Einsatz in IT-Projekten ermöglicht. Diese Methode wird hauptsächlich in der Schweiz angewendet[^3].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+### PRINCE2
+PRINCE2 (Projects in Controlled Environments) steht für Projekte unter Kontrolle, das heißt, dass das Vorgehen vom Start bis zum Ende eines Projektes vordefiniert ist. Wie etwas hergestellt wird, ist nicht definiert, sondern von wem und wann etwas erzeugt werden soll. Durch diese Trennung zwischen der Herstellung von Produkten und dem Management von Projekten unterscheidet sich PRINCE2 von anderen Methoden und eignet sich zugleich sehr gut für das Zusammenspiel mit Methoden, die sich um die Produktherstellung kümmern. Prince2 zählt zu den meistgenutzten Methoden weltweit 
+##### Die 4 Elemente von Prince2
+[^4]
 
 Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
@@ -97,8 +95,21 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Projektart: IT-Projekte](https://www.guteprojekte.ch/projektarten/it-projekte)
+[^2]: [Vorgehensmethoden](https://www.guteprojekte.ch/methoden/hermes)
+[^3]: [Methode Hermes](https://www.kpm.unibe.ch/weiterbildung/weiterbildung/cas_arbeiten_frueher_zertifikatsarbeiten/e237093/e237217/Bachmann_CeMaP_ger.pdf)
+[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^5]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^6]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^7]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^8]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^9]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+
 
