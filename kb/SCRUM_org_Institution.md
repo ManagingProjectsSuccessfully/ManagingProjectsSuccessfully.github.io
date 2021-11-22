@@ -5,11 +5,11 @@ author: SimonM211
 anrechnung: a
 ---
 
-Scrum.org ist eine Institution, die es sich zum Auftrag gemacht hat, Teams bei der Lösung von komplexen Problemen mit Hilfe von Scrum zu unterstützen. Sie wurde 2009 von Ken Schwaber, einem der Mitbegründer von Scrum und Unterzeichner des Agilen Manifests, ins Leben gerufen. Kern des Angebotes sind Scrum Kurse für alle wichtigen Rollen eines Scrum Projekts und eine darauf aufbauende Zertifizierung, um einen gewissen Qualitätsstandart sicher zu stellen.
+Scrum.org ist eine Institution, die es sich zum Auftrag gemacht hat, Teams bei der Lösung von komplexen Problemen mit Hilfe von [Scrum](Scrum.md) zu unterstützen. Sie wurde 2009 von Ken Schwaber, einem der Mitbegründer von Scrum und Unterzeichner des [Agiles Manifests](Agiles_Manifest.md), ins Leben gerufen. Kern des Angebotes sind Scrum Kurse für alle wichtigen Rollen eines Scrum Projekts und eine darauf aufbauende Zertifizierung, um einen gewissen Qualitätsstandart sicher zu stellen.
 
 # Hintergrundgeschichte
 
-Ken Schwaber, der Gründer von Scrum.org, nahm bereits in den Anfangstagen großen Einfluss auf die Entstehung von Scrum, auch heute noch schreibt er gemeinsam mit Jeff Sutherland den Scrum Guide, den zentralen Leitfaden der Scrum Entwicklung. Bereits 2001 hatte er ScrumAlliance mitgegründet, eine Organisation mit ähnlichem Angebot, wie Scrum.org[^1]. Hauptgrund für die Gründung war, dass zwar viele Unternehmen versuchten Scrum umzusetzen, die Anwendung zu einem großen Teil aber nicht den Vorstellungen der Gründer entsprach. Durch ein Kursprogramm und eine Zertifizierung konnte ein neuer Qualitätsstandart in der Softwareentwicklung mit Scrum eingeführt werden. Doch nachdem es Differenzen über die Ziele des Vorhabens gegeben hatte, entschied sich Ken Schwaber dazu sich von dem Unternehmen zu trennen und mit einem höheren Fokus auf das Lehren von Scrum an sich von vorne zu beginnen. So gründete er 2009 Scrum.org, ähnlich wie sein vorangegangenes Projekt, eine Organisation zur Ausbildung und Zertifizierung von Teams und deren Mitgliedern im Arbeiten mit Scrum[^2].
+Ken Schwaber, der Gründer von Scrum.org, nahm bereits in den Anfangstagen großen Einfluss auf die Entstehung von Scrum, auch heute noch schreibt er gemeinsam mit Jeff Sutherland den [Scrum Guide](Scrum_Guide.md), den zentralen Leitfaden der Scrum Entwicklung. Bereits 2001 hatte er ScrumAlliance mitgegründet, eine Organisation mit ähnlichem Angebot, wie Scrum.org[^1]. Hauptgrund für die Gründung war, dass zwar viele Unternehmen versuchten Scrum umzusetzen, die Anwendung zu einem großen Teil aber nicht den Vorstellungen der Gründer entsprach. Durch ein Kursprogramm und eine Zertifizierung konnte ein neuer Qualitätsstandart in der Softwareentwicklung mit Scrum eingeführt werden. Doch nachdem es Differenzen über die Ziele des Vorhabens gegeben hatte, entschied sich Ken Schwaber dazu sich von dem Unternehmen zu trennen und mit einem höheren Fokus auf das Lehren von Scrum an sich von vorne zu beginnen. So gründete er 2009 Scrum.org, ähnlich wie sein vorangegangenes Projekt, eine Organisation zur Ausbildung und Zertifizierung von Teams und deren Mitgliedern im Arbeiten mit Scrum[^2].
 
 ![Scrum.org Logo](SCRUM_org_Institution/Scrumorg-Logo_tagline-TM_(1)_(1)_(2).jpg)
 
@@ -17,7 +17,7 @@ Ken Schwaber, der Gründer von Scrum.org, nahm bereits in den Anfangstagen groß
 
 # Angebot
 
-Scrum.org bietet eine breite Bandbreite an Zertifikaten im Scrum Kontext. Dazu zählen die wichtigsten Scrum Rollen, aber auch weiter für agiles Projektmanagement relevante Angebote[^4]:
+Scrum.org bietet eine breite Bandbreite an Zertifikaten im Scrum Kontext. Dazu zählen die wichtigsten [Scrum Rollen](Rollen_Scrum.md), aber auch weiter für agiles Projektmanagement relevante Angebote[^4]:
 
 * Professional Scrum Master
 *	Professional Scrum Product Owner
@@ -38,6 +38,9 @@ Der größte Konkurrent von Scrum.org ist bis heute ScrumAlliance. Es gibt auch 
 # Siehe auch
 
 * [Scrum](Scrum.md)
+* [Agiles Manifest](Agiles_Manifest.md)
+* [Rollen Scrum](Rollen_Scrum.md)
+* [Scrum Guide](Scrum_Guide.md)
 
 # Quellen
 
