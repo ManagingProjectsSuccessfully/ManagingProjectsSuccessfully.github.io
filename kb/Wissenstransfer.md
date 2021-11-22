@@ -97,14 +97,14 @@ in diesem Kontext eine essenzielle Rolle ein.[^14][^15]
 
 # Weiterführende Literatur
 
-* Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.*
+* Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen: Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.*
 * Kirsten A. Schröder: *Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Identifikation von Einflussfaktoren am Beispiel von Projektteams.*
 
 # Quellen
 
 [^1]: [Wissenstransfer - Weiterentwicklung durch den Austausch von Wissen](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
 [^2]: [Wissenstransfer - einfach erklärt, YouTube](https://www.youtube.com/watch?v=wlNf-T9LqV0)
-[^3]: Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.* Heft 5, 1998, S. 235–252.
+[^3]: [Der Wissenstransfer in Unternehmen: Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung. Heft 5, 1998, S. 235–252.](https://www.jstor.org/stable/pdf/24183239.pdf?refreqid=excelsior%3A77fd38f51da5a53c7a9dc15276f819f1)
 [^4]: [Phasen Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer)
 [^5]: [Phasenmodell nach Krogh und Köhne](https://www.jstor.org/stable/pdf/24183239.pdf?refreqid=excelsior%3A77fd38f51da5a53c7a9dc15276f819f1)
 [^6]: [Wasserfall-Modell](https://de.wikipedia.org/wiki/Wasserfallmodell)
@@ -113,7 +113,7 @@ in diesem Kontext eine essenzielle Rolle ein.[^14][^15]
 [^9]: [Vorteile eines erfolgreichen Wissenstransfers](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
 [^10]: [Wissenstransfer im Projektmanagement - Sinn und Unsinn von Anreizsystemen](https://www.projektmagazin.de/artikel/wissenstransfer-im-projektmanagement-sinn-und-unsinn-von-anreizsystemen_6939)
 [^11]: [Wissensweitergabe als Ziel](https://www.projektmagazin.de/artikel/wissenstransfer-im-projektmanagement-sinn-und-unsinn-von-anreizsystemen_6939)
-[^12]: Kirsten A. Schröder: *Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Identifikation von Einflussfaktoren am Beispiel von Projektteams.* Springer-Verlag, 2013, S. 57ff.
+[^12]: [Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Einflussfaktoren auf den teaminternen Wissenstransfer. Springer-Verlag, 2013, S. 57ff.](https://link.springer.com/chapter/10.1007/978-3-322-81576-7_3)
 [^13]: [Personifizierter und kodifizierter Transfer/Methoden und Instrumente für den Wissenstransfer](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
 [^14]: [Betriebsinterner Wissenstransfer: Die 8 wichtigsten Maßnahmen](https://www.lecturio.de/magazin/wissenstransfer/#:~:text=Wissenstransfer%20%C3%BCber%20Mitarbeiter%201%20Altersgemischte%20Teams.%20Altersgemischte%20Teams,4%20Moderierte%20%C3%9Cbergabegespr%C3%A4che.%20...%205%20Lessons%20Learned.%20)
 [^15]: [Methoden zum Wissenstransfer: Reden ist Silber, Schweigen der Tod](https://www.lecturio.de/magazin/methoden-zum-wissenstransfer/)
