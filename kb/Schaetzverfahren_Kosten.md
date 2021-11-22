@@ -97,6 +97,6 @@ Koch,B (2021). Projektmanagement Methode: Schätzverfahren.
 Retrieved November 20, 2021 from Bertkoch website: 
 https://www.bertkoch.de/schaetzverfahren-pm
 
-Wikipedia (2021). Aufwandsschätzung (Softwaretechnik) – Kosten des Schätzverfahrens
+Wikipedia (2021). Aufwandsschätzung (Softwaretechnik) – Kosten des Schätzverfahrens.
 Retrieved November 20, 2021 from Wikipedia website:
 https://de.wikipedia.org/wiki/Aufwandsschätzung_(Softwaretechnik)
