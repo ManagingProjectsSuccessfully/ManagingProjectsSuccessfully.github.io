@@ -34,7 +34,8 @@ umgewandelt werden"*[^4].
 
 # Sprint Review
 
-[Sprint Retrospective](Sprint_Retrospective.md), Sprint Review, [Sprint Planning](Sprint_Planning.md) und [Daily Scrum](Daily_Scrum.md) sind die Bausteine und ergeben zusammen einen Sprint. Dabei wird immer wieder der gleiche Ablauf
+Sprint Retrospective, Sprint Review, [Sprint Planning](Sprint_Planning.md) und [Daily Scrum](Daily_Scrum.md) sind die Bausteine und ergeben zusammen einen Sprint. Dabei 
+wird immer wieder der gleiche Ablauf
 befolgt, wobei der Sprint Review **vor** der Sprint Retrospective stattfindet[^4].
 
 Während der Phase des Sprint Reviews kommt dann das ganze Scrum Team zusammen, die dort die Möglichkeit haben Feedback zu geben. Diese Gruppe besteht demnach aus dem
