@@ -49,24 +49,16 @@ Um eine solch tragende Rolle erfolgreich erfüllen zu können ist es wichtig, al
 | Soziale Kompetenz | Teamfähigkeit  |
 |Methodische Kompetenz |Präsentationstechniken |
 
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
 # Siehe auch
+## Verlinkungen zu angrenzenden Themen
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite]({Projekt}.md)
+* [Projektphasen_klassisch](kb/Projektphasen_klassisch.md)
+* [Projektkommunikation](kb/Projektkommunikation.md)
+* [Projektleiter](kb/Projektleiter.md)
 
-# Weiterführende Literatur
+## Weiterführende Literatur zum Thema Projektmanagement
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [A Guide to the Project Management Body of Knowledge(PMBOK Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok)
 
 # Quellen
 
