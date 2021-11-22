@@ -60,13 +60,13 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *(Tabelle gekürzt, bei ClickUp[^1] weitere Kategorien) 
 
-|   Kostenlos       |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
-| ---------------   | ------------- | ------------- | ------------ | ------------- | ------------  |
-|   Speicher        | 100 MB        | Unbegrenzt    | Unbegrenzt   |  Unbegrenzt   |  Unbegrenzt   |
-|Synchronisierung¹  | Nein          | Ja            | Ja           |  Ja           | Ja            |
-|Security (Features)| 1 von 16      | 1 von 16      |     3 von 16 |     5 von 16  |    16 von 16  |
-|   Collaboration   |     9 von 15  |    13 von 15  |    14 von 15 |    15 von 15  |    15 von 15  |
-| Priority Support  | Nein          | Nein          | Nein         | Ja            | Ja            |
+|   Kostenlos            |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
+| ---------------------- | ------------- | ------------- | ------------ | ------------- | ------------  |
+|   Speicher             | 100 MB        | Unbegrenzt    | Unbegrenzt   |  Unbegrenzt   |  Unbegrenzt   |
+|Synchronisierung¹       | Nein          | Ja            | Ja           |  Ja           | Ja            |
+|Security (Features)     | 1 von 16      | 1 von 16      |     3 von 16 |     5 von 16  |    16 von 16  |
+|Collaboration (Features)|     9 von 15  |    13 von 15  |    14 von 15 |    15 von 15  |    15 von 15  |
+| Priority Support       | Nein          | Nein          | Nein         | Ja            | Ja            |
 
 
 * ¹(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
