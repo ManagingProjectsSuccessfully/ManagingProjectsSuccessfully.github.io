@@ -18,7 +18,9 @@ sie auf dieses haben und welche Interessen sie vertreten. In einer Matrix mit de
 
 Nach der Identifikation und der Analyse sollte in die Planung übergegangen werden. Hauptsächlich muss die Einbindung der Stakeholder in das Projekt geplant werden. Die 
 einzelnen Ziele, Motivationen und Rollen dienen für eine gute Einordnung. Die Planung kombiniert die zuvor erfassten Informationen und Einschätzungen aus der Identifikation 
-und der Analyse. Am Ende des Prozesses steht die Umsetzung die sich aus den vorherigen Teilen ergibt. Für eine erfolgreichen Ausgang des Projekts ist hier die Zusammenarbeit 
+und der Analyse. 
+
+Am Ende des Prozesses steht die Umsetzung die sich aus den vorherigen Teilen ergibt. Für eine erfolgreichen Ausgang des Projekts ist hier die Zusammenarbeit 
 vor allem mit den am stärksten betroffenen Stakeholdern sehr wichtig. Die  Stakeholder müssen gut in das Projekt eingebunden werden damit sie genauestens verstehen was dort 
 passiert und es zu keinen Missverständnissen kommt. So baut man auch im Projektverlauf immer mehr Vertrauen auf.
 
