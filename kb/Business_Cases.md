@@ -22,7 +22,7 @@ Der Anglizismus „Business Case“ hat sich aufgrund fehlender passender Übers
 
 
 ## 2.	Bestandteile
-Für einen Business Case existiert keine allgemein gültige Vorlage. Er kann daher unterschiedlich aufgebaut sein. Einen Leitfaden bietet jedoch das britische Vorgehensmodell [PRINCE2](PRINCE2.md), nach welchem ein Business Case die folgenden acht Bestandteile aufweist:
+Für einen Business Case existiert keine allgemein gültige Vorlage. Er kann daher unterschiedlich aufgebaut sein. Einen Leitfaden bietet das britische Vorgehensmodell [PRINCE2](PRINCE2.md), nach welchem ein Business Case die folgenden acht Bestandteile aufweist:
 * **Gründe für das Projekt:** z.B.: Rückgang der Nachfrage
 * **Optionen/Handlungsalternativen:** z.B.: Marketingkampagne
 * **Erwarteter Nutzen:** z.B.: Steigerung der Nachfrage
