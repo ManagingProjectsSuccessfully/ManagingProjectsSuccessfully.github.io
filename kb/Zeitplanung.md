@@ -65,12 +65,12 @@ Ein Beispiel hierfür wäre ein Hausbau. Man weiß genau zu Beginn, wie lange es
 # Quellen
 
 [^1]: [Oxford English Dictionary](https://www.oed.com/view/Entry/202100?redirectedFrom=Time+Management#eid261247456)
-[^2]: https://link.springer.com/content/pdf/10.1007/978-3-8348-9338-3_2.pdf
-[^3]: https://www.factro.de/blog/magisches-dreieck/
-[^4]: https://link.springer.com/content/pdf/10.1007/BF03341189.pdf
-[^5]: https://link.springer.com/content/pdf/10.1007%2F978-3-540-72051-5.pdf
-[^6]: https://link.springer.com/content/pdf/10.1007%2F978-3-662-48216-2.pdf
-[^7]: https://link.springer.com/content/pdf/10.1007/978-3-8274-2240-8_4.pdf
-[^8]: https://link.springer.com/content/pdf/10.1007/BF03340857.pdf
-[^9]: https://filestage.io/de/blog/projektablaufplan/
-[^10]: https://link.springer.com/content/pdf/10.1007%2F978-3-8349-4202-9.pdf
+[^2]: [Management von Projekten und Prozessen](https://link.springer.com/content/pdf/10.1007/978-3-8348-9338-3_2.pdf)
+[^3]: [Magisches Dreieck im Projektmanagement](https://www.factro.de/blog/magisches-dreieck/)
+[^4]: [Agiles Projektmanagement](https://link.springer.com/content/pdf/10.1007/BF03341189.pdf)
+[^5]: [Geschäftsprojekte zum Erfolg führen](https://link.springer.com/content/pdf/10.1007%2F978-3-540-72051-5.pdf)
+[^6]: [Einführung in Operations Research](https://link.springer.com/content/pdf/10.1007%2F978-3-662-48216-2.pdf)
+[^7]: [Projekte](https://link.springer.com/content/pdf/10.1007/978-3-8274-2240-8_4.pdf)
+[^8]: [Hybrides Projektmanagement – agile und klassische Vorgehensmodelle im Zusammenspiel](https://link.springer.com/content/pdf/10.1007/BF03340857.pdf)
+[^9]: [Projektablaufplan – So behalten Sie die Übersicht und Kontrolle über Ihre Projekte](https://filestage.io/de/blog/projektablaufplan/)
+[^10]: [Agil-systemisches Softwareprojektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-8349-4202-9.pdf)
