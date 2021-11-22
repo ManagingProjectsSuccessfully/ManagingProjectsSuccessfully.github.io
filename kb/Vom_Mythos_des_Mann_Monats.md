@@ -10,6 +10,11 @@ Kurzbeschreibung zu Vom_Mythos_des_Mann_Monats um ein erstes Verständnis dafür
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
+Einfügen: „Vom Mythos des Mann-Monats“ ist ein Essay des amerikanischen Informatikers Fred Brooks aus dem gleichnamigen Buch „The Mythical Man-Month: Essays on Software Engineering“ (deutsch: Vom Mythos des Mann-Monats: Essays über Software-Engineering). In seinen Essays befasst er sich mit seinen Eindrücken und Erfahrungen in Bezug auf Software-Engineering und [Projektmanagement](Projektmanagement.md), die er als ehemaliger Leiter des Projekts OS/360(Link?) bei IBM(Link) gesammelt hat, und den daraus geschlossenen Erkenntnissen.
+
+
+
+
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -36,7 +41,8 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
-
+# Der Mann-Monat
+Der Mann-Monat ist eine Einheit, die als Maßstab von Schätzungen und Zeitvorgaben zugrunde gelegt wird. Der Mann-Monat stellt eine Maßeinheit für die Menge an Arbeit, die eine Person durchschnittlich in einem Monat schafft, dar und ist somit das Produkt von Zeit und Personal. (Quelle: Die Projekt-Methode) 
 # Aspekt 1
 
 Aspekte zu Themen können ganz unterschiedlich sein:
@@ -97,8 +103,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: Brooks, Frederick P.: [Vom Mythos des Mann-Monats. Essays über Software-Engineering](https://books.google.de/books?hl=de&lr=&id=-dSU0IxvfzMC&oi=fnd&pg=PA3&dq=mythos+von+mann+monats&ots=ekrC7IHjO5&sig=I7Jhh12LZFxYNlzPyxFBclx86Y8&redir_esc=y#v=onepage&q&f=false). mitp Verlags GmbH & Co. KG, 2003.
+
+[^2] Quelle für Def Mann-monat (https://wirtschaftslexikon.gabler.de/definition/mannjahr-39390/version-262799)..
+
+[^1.5]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^2.5]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
