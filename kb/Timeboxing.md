@@ -5,12 +5,12 @@ author: janetteschuller
 anrechnung: k
 ---
 
-Das Timeboxing ist eine Zeitmanagement-Methode im Projektmanagement. Hierbei werden für die zu erledigenden Aufgaben bestimme Zeitslots, die sogenannten Timeboxes, reserviert. Es wird vorher genau festgelegt was in einer Timebox zu erledigen ist und was das Ziel der jeweiligen Timebox ist. Dadurch sind eine klare Planung sowie Struktur der Aufgaben und damit des Projekts garantiert[^1].
+Das Timeboxing ist eine Zeitmanagement-Methode im [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md). Hierbei werden für die zu erledigenden Aufgaben bestimme Zeitslots, die sogenannten Timeboxes, reserviert. Es wird vorher genau festgelegt was in einer Timebox zu erledigen ist und was das Ziel der jeweiligen Timebox ist. Dadurch sind eine klare Planung sowie Struktur der Aufgaben und damit des Projekts garantiert[^1].
 
 
 # Wie funktioniert Timeboxing?
 
-Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfenster. Die Zeit ist der wichtigste Faktor im Timeboxing und steht maßgeblich für den Projekterfolg. Timeboxing verfolgt das sogenannten Parkinsonschen Gesetz, welches besagt, dass die Erledigung einer Aufgabe umso länger dauert, je mehr Zeit dafür zur Verfügung steht. Ein Zeitfenster, also eine Timebox, kann Minuten, Stunden, Tage oder sogar Wochen umfassen, je nach Aufgabe. Hierbei ist es allerdings wichtig realistische Zeitfenster zu wählen. Die zu erledigenden Aufgaben müssen auch wirklich in der gesetzten Timebox zu bewältigen sein. Durch das Timeboxing soll also vermieden werden, dass man sich mit unwichtigen Details aufhält oder gar stagniert. Dementsprechend soll erreicht werden, dass man sich auf das Wesentliche konzentriert und effizient arbeitet. Timeboxing kann sowohl für Gruppen als auch für das persönliche Zeitmanagement genutzt werden[^2][^4].
+Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfenster. Die Zeit ist der wichtigste Faktor im Timeboxing und steht maßgeblich für den Projekterfolg. Timeboxing verfolgt das sogenannten Parkinsonschen Gesetz, welches besagt, dass die Erledigung einer Aufgabe umso länger dauert, je mehr Zeit dafür zur Verfügung steht. Ein Zeitfenster, also eine Timebox, kann Minuten, Stunden, Tage oder sogar Wochen umfassen, je nach Aufgabe. Hierbei ist es allerdings wichtig realistische Zeitfenster zu wählen. Die zu erledigenden Aufgaben müssen auch wirklich in der gesetzten Timebox zu bewältigen sein. Es ist zudem wichtig Pausen und extra Timeboxen als Puffer für unvorhersehbaren Mehraufwand einzuplanen. Durch das Timeboxing soll also vermieden werden, dass man sich mit unwichtigen Details aufhält oder gar stagniert. Dementsprechend soll erreicht werden, dass man sich auf das Wesentliche konzentriert und effizient arbeitet. Timeboxing kann sowohl für Gruppen als auch für die persönliche [Zeitplanung](kb/Zeitplanung.md) genutzt werden[^2][^4].
 
 
 # Der Ablauf von Timeboxing 
@@ -26,7 +26,7 @@ Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfens
 
 # Harte versus weiche Timeboxen
 
-Vor dem Timeboxing muss entschieden werden ob die jeweiligen Timeboxen hart oder weich sind. Man muss sich bei einem Projekt jedoch nicht auf eine Art Timebox beschränken. Es ist oft sinnvoll zu mixen, je nach dem was eine Aufgabe von einem fordert. Z.B. eignen sich harte Timeboxen umso mehr, umso mehr Disziplin eine Aufgabe fordert[^4].
+Vor dem Timeboxing muss entschieden werden ob die jeweiligen Timeboxen hart oder weich sind. Man muss sich bei einem [Projekt](kb/Projekt.md) jedoch nicht auf eine Art Timebox beschränken. Es ist oft sinnvoll zu mixen, je nach dem was eine Aufgabe von einem fordert. Z.B. eignen sich harte Timeboxen umso besser, umso mehr Disziplin eine Aufgabe fordert[^4].
 
 ## Harte Timeboxen 
 Eine harte Timebox endet, wenn die vorgegebene Zeit abgelaufen ist, unabhängig davon, ob die Aufgabe erledigt werden konnte. Somit stellen harte Timeboxen die Erledigung sämtlicher anstehender Aufgaben sicher, erzeugen aber auch mehr Druck. Sie sind besonders dann sinnvoll, wenn bestimmte Aufgaben wiederholt überarbeitet werden müssen. In einem Meeting kann eine Timebox dazu beitragen, dass wirklich alle Tagesordnungspunkte abgearbeitet werden[^3]. 
@@ -53,15 +53,28 @@ Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten 
 * Weniger Flexibilität
 * Weniger Zeit für Kreativität [^3][^4]
 
+# Konkrete Beispiele für Timeboxen
 
-![Beispielabbildung](Timeboxing/test-file.jpg)
-| 
+![Timeboxing-Beispiel](Timeboxing/Timeboxing-Beispiel.jpg)
+*Beispielhafter Wochenablauf Timeboxing* [^4]
 
+Weitere Beispiele:
+* Bis zum 10.07 soll das Angebot für den Kunden ausgearbeitet werden
+* Die [Stakeholderanalyse](kb/Stakeholderanalyse.md) muss bis 15.12, 12:00 abgeschlossen sein
+* Bis übermorgen 15:00 soll die Kostenanalyse überarbeitet werden
+* Wir haben jetzt drei Stunden Zeit um xy zu besprechen
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Timeboxing.md)
+* [Projekt](kb/Projekt.md)
+* [Projektmanagement](kb/Projektmanagement.md)
+* [Pomodoro](kb/Pomodoro.md)
+* [SCRUM](kb/SCRUM.md)
+* [Methoden](kb/Methoden.md)
+* [Zeitplanung](kb/Zeitplanung.md)
+* [Self-Management](kb/Self_Management.md)
+* [Ziel Planung](kb/Ziel_Planung.md)
+
 
 # Weiterführende Literatur
 
