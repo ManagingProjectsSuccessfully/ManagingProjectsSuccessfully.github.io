@@ -5,12 +5,7 @@ author: {ow79arux}
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu {Projekt} um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Das Integrationsmanagement ist ein Teilgebiet des Projektmanagements und dient dazu alle Prozesse und Vorgänge, welche Teil des Projekts sind, zu koordinieren und an alle Prozessgruppen anzupassen.[^2]
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das Integrationsmanagement ist ein Teilgebiet des [Projektmanagements](https://de.wikipedia.org/wiki/Projektmanagement) und dient dazu alle Prozesse und Vorgänge, welche Teil des Projekts sind, zu koordinieren und an alle Prozessgruppen anzupassen.[^2]
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -65,7 +60,7 @@ Bei jedem Projekt kommt es zu Problemen und Hindernissen, die es zu überwältig
 
 
 # Kommunikation
-Auch die Kommunikation spielt hierbei eine tragende Rolle. Ein stetiger Austausch über Ziele oder eine Veränderung des Projektplans sind essenziell. Bei jedem Projekt kommt es zu exogenen Einflüssen, die den geplanten Verlauf oder die Verwendung von speziellen Ressourcen verändern. Um diesen Problemen so früh wie möglich entgegenzuwirken, ist die ständige Weitergabe von Informationen die beste Methode. So besteht die Chance eine Problematik schnellstmöglich zu erkennen und Lösungen zu finden. Auch wird so die Abstimmung über die Wünsche der Kunden oder die Qualitätsansprüche, die sich im Laufe des Projekts nochmals ändern könnten, ermöglicht. (wrike/wikipedia)
+Auch die Kommunikation spielt hierbei eine tragende Rolle. Ein stetiger Austausch über Ziele oder eine Veränderung des Projektplans sind essenziell. Bei jedem Projekt kommt es zu exogenen Einflüssen, die den geplanten Verlauf oder die Verwendung von speziellen Ressourcen verändern. Um diesen Problemen so früh wie möglich entgegenzuwirken, ist die ständige Weitergabe von Informationen die beste Methode. So besteht die Chance eine Problematik schnellstmöglich zu erkennen und Lösungen zu finden. Auch wird so die Abstimmung über die Wünsche der Kunden oder die Qualitätsansprüche, die sich im Laufe des Projekts nochmals ändern könnten, ermöglicht. 
 
 Des Weiteren stärkt die Kommunikation auch das Teamklima. Dadurch, dass beteiligte Personen ohne Umstände die Informationen, die sie für ihren Arbeitsprozess im Projekt benötigen, bekommen, wird Unzufriedenheit oder Unverständnis vorgebeugt. Auch werden Arbeitsabläufe dadurch beschleunigt, da so Leerläufe verhindert werden können.[^2]
 
