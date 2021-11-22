@@ -90,7 +90,6 @@ Es gibt eine Reihe von Varianten oder Alternativen, die einen ähnlichen Matrix-
 * [Impact of RACI on Delivery and Outcome of Software Development Projects](https://ieeexplore.ieee.org/abstract/document/6783449)
 * [RACI Getting Projects "Unstuck"](https://www.proquest.com/docview/1008861466?pq-origsite=primo)
 # Quellen
-
 [^1]: [Wer ist wofür verantwortlich? Diese Methode schafft Übersicht!](https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/raci-matrix/)
 [^2]:[RACI Matrix in der Praxis](https://www.trackplus.com/de/aufgabenmanagement/raci-matrix.html) 
 [^3]:[RACI Matrix im Projekt verwenden](https://www.itnator.net/raci-matrix-im-projekt-verwenden/)
