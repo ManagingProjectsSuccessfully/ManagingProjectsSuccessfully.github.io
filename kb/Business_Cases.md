@@ -5,6 +5,7 @@ author: lukasheinrich9
 anrechnung: k
 ---
 # Business Cases
+Der Business Case ist ein wichtiges Projektdokument und gibt eine Aussage darüber, ob sich die Durchführung eines Vorhabens lohnen würde oder nicht.[^1]
 ## Inhaltsverzeichnis
 * [1. Definition](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#1-definition)
 * [2. Etymologie](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#2etymologie)
