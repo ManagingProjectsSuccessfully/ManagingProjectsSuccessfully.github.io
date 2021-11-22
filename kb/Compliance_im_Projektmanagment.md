@@ -5,39 +5,15 @@ author: moritzgrt
 anrechnung: k
 ---
 
-Comliance im Projektmanagement beschreibt im Prinzip, das regelgetreue Verhalten eines Unternehmens im gesetzlichen Kontext. Durch gezieltes Compliance Management sollen durch Prophylaxe gezielt Pflichtverletzungen, Schaden und Haftungsfälle eines Unternehmens vermieden werden. (Szabo, Bela: Compliance Management System) Werkzeuge um beispielsweise Lieferungszusagen einzuhalten können zum Beispiel das sogenannte [Timeboxing](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Timeboxing.md) sein.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Comliance im Projektmanagement beschreibt im Prinzip, das regelgetreue Verhalten eines Unternehmens im gesetzlichen Kontext. Durch gezieltes Compliance Management sollen durch Prophylaxe gezielt Pflichtverletzungen, Schaden und Haftungsfälle eines Unternehmens vermieden werden. (Szabo, Bela: Compliance Management System) Ein Werkzeug um beispielsweise Lieferungszusagen einhalten zu können ist zum Beispiel das sogenannte [Timeboxing](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Timeboxing.md) sein.
 
 
-# Aspekt 1
+## Rechtliche Grundlagen bezüglich Compliance
+
+Ein elementares Bestreben eines jeden Unternehmens sollte es sein, die nationalen und internationalen Rechtsverordnungen und Bestimmungen einzuhalten. So gibt es spezifisch im Bezug auf Compliance eine entsprechende ISO-Norm: [ISO 37301:2021](https://www.iso.org/standard/75080.html). Diese Norm spezifiziert Anforderungen und enthält Richtlinien für die Einrichtung, Entwicklung, Implementierung, Bewertung, Aufrechterhaltung und Verbesserung eines effektiven Compliance-Managements innerhalb einer Organisation. (International Organization for Standardization: ISO 37301:2021)
+ 
+ 
+## Risiken und Prävention
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -49,7 +25,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
+## Integration von Compliance im Unternehmen
 
 * das
 * hier 
@@ -98,7 +74,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: Szabo, Bela: Compliance Management System (https://www.haufe.de/compliance/management-praxis/compliance-management-systeme/compliance-management-system_230130_455824.html , zuletzt aufgerufen am 20.11.2021)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^2]: Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen (https://www.validatis.de/kyc-prozess/news-fachwissen/compliance/ , zuletzt aufgerufen am 21.11.2021)
+[^3]: International Organization for Standardization: ISO 37301:2021
+Compliance management systems — Requirements with guidance for use (https://www.iso.org/standard/75080.html , zuletzt aufgerufen am 19.11.2021)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
