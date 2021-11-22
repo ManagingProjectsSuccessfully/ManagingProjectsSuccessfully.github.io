@@ -59,14 +59,14 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * ClickUp ist kostenlos nutzbar. Es gibt aber auch die Möglichkeit bei Zahlung verschieden Features freizuschalten.
 * Bei der folgenden Tabelle wurden die monatlichen Preise betrachtet. Bei Abschluss von jährlichen Abonnements sinken die Preise monatlich betrachtet.
 
-|   Kostenlos    |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
-| -------------- | ------------- | ------------- | ------------ | ------------- | ------------  |
-|   Speicher     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
-|Synchronisierung| Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
-|   Kostenlos    | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
-|   Kostenlos    | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
-|   Kostenlos    | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
-|   Kostenlos    | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+|   Kostenlos     |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
+| --------------  | ------------- | ------------- | ------------ | ------------- | ------------  |
+|   Speicher      | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+|Synchronisierung*| Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+|   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+|   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+|   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+|   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 
 *(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
 
