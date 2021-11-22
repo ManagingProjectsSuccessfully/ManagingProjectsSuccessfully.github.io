@@ -125,7 +125,6 @@ author: anniSc
 | [Vorgehensmodelle](kb/Vorgehensmodelle.md)                                                                                         | [hello-pukeko](https://github.com/hello-pukeko)               |
 | [SCRUM_but](kb/SCRUM_but.md)                                                                                                       | [thujavanj](https://github.com/thujavanj)                     |
 | [SCRUMBAN](kb/SCRUMBAN.md)                                                                                                         | [mickey0684](https://github.com/mickey0684)                   |
-| [Scrum_of_Scrums](kb/Scrum_of_Scrums.md)                                                                                           | [Viktoria1412](https://github.com/Viktoria1412)               |
 | [SCRUM](kb/SCRUM.md)                                                                                                               | [Harthauer](https://github.com/Harthauer)                     |
 | [Kanban](kb/Kanban.md)                                                                                                             | [HAhmedFAU](https://github.com/HAhmedFAU)                     |
 | [Kanban_Pull_Prinzip](kb/Kanban_Pull_Prinzip.md)                                                                                   | [LindaStu](https://github.com/LindaStu)                       |
@@ -158,7 +157,6 @@ author: anniSc
 | [Feature_Creep](kb/Feature_Creep.md)                                                                                               | [creepol](https://github.com/creepol)                         |
 | [Ausgangsanalyse](kb/Ausgangsanalyse.md)                                                                                           | [ksushaW](https://github.com/ksushaW)                         |
 | [Integrationsmanagement](kb/Integrationsmanagement.md)                                                                             | [ow79arux](https://github.com/ow79arux)                       |
-| [Projektumfang](kb/Projektumfang.md)                                                                                               | [jessymrc](https://github.com/jessymrc)                       |
 | [Jour_Fixe](kb/Jour_Fixe.md)                                                                                                       | [MoritzBock](https://github.com/MoritzBock)                   |
 | [Projektplanung](kb/Projektplanung.md)                                                                                             | [MarleneMMeyer](https://github.com/MarleneMMeyer)             |
 | [Anforderungsmanagement](kb/Anforderungsmanagement.md)                                                                             | [Karina255](https://github.com/Karina255)                     |
@@ -261,13 +259,11 @@ author: anniSc
 | [Rollen_Scrum](kb/Rollen_Scrum.md)                                                                                                 | [FCN478](https://github.com/FCN478)                           |
 | [Product_Owner](kb/Product_Owner.md)                                                                                               | [Leon1906](https://github.com/Leon1906)                       |
 | [Scrum_Master](kb/Scrum_Master.md)                                                                                                 | [Phr4nk20](https://github.com/Phr4nk20)                       |
-| [Development_Team](kb/Development_Team.md)                                                                                         | [greifchristina](https://github.com/greifchristina)           |
 | [Sprint_Planning](kb/Sprint_Planning.md)                                                                                           | [fauchavd](https://github.com/fauchavd)                       |
 | [Daily_Scrum](kb/Daily_Scrum.md)                                                                                                   | [JonathanBauerFau](https://github.com/JonathanBauerFau)       |
 | [Sprint_Review](kb/Sprint_Review.md)                                                                                               | [DeniseWt](https://github.com/DeniseWt)                       |
 | [Retrospective](kb/Retrospective.md)                                                                                               | [nta01](https://github.com/nta01)                             |
-| [Scrum_Artefakte](kb/Scrum_Artefakte.md)                                                                                           | [Christoph-Mantsch](https://github.com/Christoph-Mantsch)     |
-| [Increment](kb/Increment.md)                                                                                                       | [up67enyq](https://github.com/up67enyq)                       |
+| [Scrum_Artefakte](kb/Scrum_Artefakte.md)                                                                                           | [kutaydogan](https://github.com/kutaydogan)                   |
 | [Product_Backlog](kb/Product_Backlog.md)                                                                                           | [PhilippWolfrum](https://github.com/PhilippWolfrum)           |
 | [Definition_of_Done](kb/Definition_of_Done.md)                                                                                     | [Akshat7777](https://github.com/Akshat7777)                   |
 | [Scrum_Values](kb/Scrum_Values.md)                                                                                                 | [Lukas1401](https://github.com/Lukas1401)                     |
@@ -275,13 +271,12 @@ author: anniSc
 | [Scrum_Rules](kb/Scrum_Rules.md)                                                                                                   | [HanLing132](https://github.com/HanLing132)                   |
 | [Scrum_Guide](kb/Scrum_Guide.md)                                                                                                   | [MrSommC](https://github.com/MrSommC)                         |
 | [Agiles_Manifest](kb/Agiles_Manifest.md)                                                                                           | [LaHe27](https://github.com/LaHe27)                           |
-| [Epic](kb/Epic.md)                                                                                                                 | [jessymrc](https://github.com/jessymrc)                       |
-| [Extreme_Project_Management](kb/Extreme_Project_Management.md)                                                                     | [FAUdennis96](https://github.com/FAUdennis96)                 |
 | [User_Story](kb/User_Story.md)                                                                                                     | [Phr4nk20](https://github.com/Phr4nk20)                       |
 | [The_3_5_3_of_Scrum](kb/The_3_5_3_of_Scrum.md)                                                                                     | [GiuliaAng](https://github.com/GiuliaAng)                     |
 | [Scrum_Transparenz](kb/Scrum_Transparenz.md)                                                                                       | [Lorybr](https://github.com/Lorybr)                           |
 | [Scrum_Ueberpruefung](kb/Scrum_Ueberpruefung.md)                                                                                   | [Steffi226](https://github.com/Steffi226)                     |
 | [Scrum_Anpassung](kb/Scrum_Anpassung.md)                                                                                           | [MariaKaisa ](https://github.com/MariaKaisa )                 |
+| [Scrum_Termine](kb/Scrum_Termine.md)                                                                                               | [fadiarabo](https://github.com/fadiarabo)                     |
 | [Planning_Poker](kb/Planning_Poker.md)                                                                                             | [jsk0lb](https://github.com/jsk0lb)                           |
 | [User_Story_INVEST_Methode](kb/User_Story_INVEST_Methode.md)                                                                       | [Juliakau](https://github.com/Juliakau)                       |
 | [KISS_Prinzip](kb/KISS_Prinzip.md)                                                                                                 | [qu68paka](https://github.com/qu68paka)                       |
@@ -290,7 +285,6 @@ author: anniSc
 | [Selbstorganisierende_Teams](kb/Selbstorganisierende_Teams.md)                                                                     | [IremAkin ](https://github.com/IremAkin )                     |
 | [Stand_Ups](kb/Stand_Ups.md)                                                                                                       | [Gilchus](https://github.com/Gilchus)                         |
 | [Interactive_Planning](kb/Interactive_Planning.md)                                                                                 | [Vallejk](https://github.com/Vallejk)                         |
-| [Interaktion](kb/Interaktion.md)                                                                                                   | [SimaSol](https://github.com/SimaSol)                         |
 | [Umgang_mit_Kritik](kb/Umgang_mit_Kritik.md)                                                                                       | [AnjaKlostermeier](https://github.com/AnjaKlostermeier)       |
 | [Rollenkonflikte](kb/Rollenkonflikte.md)                                                                                           | [martina-bchtl ](https://github.com/martina-bchtl )           |
 | [Scrum_at_Scale](kb/Scrum_at_Scale.md)                                                                                             | [mirela08](https://github.com/mirela08)                       |
@@ -312,7 +306,6 @@ author: anniSc
 | [Kanban_Boards](kb/Kanban_Boards.md)                                                                                               | [leusl8](https://github.com/leusl8)                           |
 | [Kanban_Swim_Lanes](kb/Kanban_Swim_Lanes.md)                                                                                       | [Creed229](https://github.com/Creed229)                       |
 | [Gender_Bias](kb/Gender_Bias.md)                                                                                                   | [Philip290899](https://github.com/Philip290899)               |
-| [Rückschaufehler](kb/Rückschaufehler.md)                                                                                           | [Leni2505](https://github.com/Leni2505)                       |
 | [Johari_Fenster](kb/Johari_Fenster.md)                                                                                             | [ChrisBohl](https://github.com/ChrisBohl)                     |
 | [Kennenlernspiele](kb/Kennenlernspiele.md)                                                                                         | [viktoria110](https://github.com/viktoria110)                 |
 | [Selbstoffenbarung](kb/Selbstoffenbarung.md)                                                                                       | [sebswier](https://github.com/sebswier)                       |
