@@ -44,7 +44,7 @@ Unter Schlüsselfaktoren sind einzelne Bereiche des Projektmanagements zu verste
 
 1. Methodik:
 
-Die Methodik, eine Bündelung von Methoden, verhindert Stagnation im Projekt Management. Hierzu gehören vor allem die Methoden der Analyse-, Kreativität-, Prognose-, Bewertung-, Planung- und Abwicklung. Zu beachten ist, dass die einzelnen Methoden in Abhängigkeit zueinander stehen. So entsteht das Gefühl des erarbeiteten Kompromiss, der zur besten Lösung führt. [^4]
+Die Methodik, eine Bündelung von Methoden, verhindert Stagnation im Projekt Management. Hierzu gehören vor allem die Methoden der Analyse-, Kreativität-, Prognose-, Bewertung-, Planung- und Abwicklung. Zu beachten ist, dass die einzelnen Methoden in Abhängigkeit zueinander stehen. So entsteht das Gefühl eines erarbeiteten Kompromisses, der zur besten Lösung führt. [^4]
 
 2. Projektmanagement Office:
 
