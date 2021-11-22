@@ -14,7 +14,8 @@ Der Parameter Zeit beschreibt relevante Zeitpunkte und Fristen. Neben der zentra
 ### 1.2	Kostendimension
 Die Kostendimension bezeichnet die finanziellen Aufwände und das für das Projekt verfügbare Budget. Dieses meint neben finanziellen und Sachmitteln auch das interne und externe Personal. Für die Garantie der Wirtschaftlichkeit sollte das Budget im Vorhinein bestimmt und im Laufe des Projektes nicht überschritten werden.[^1]
 ### 1.3	Leistungsdimension
-Unter Leistungs-, oder Qualitätsdimension versteht man die zu erfüllenden Aufgaben und das daraus resultierende, erwünschte Ergebnis. Damit beeinflusst sie den Inhalt und Umfang des Projekts entscheidend und sollte mit jedem Steakholder und Beteiligten abgesprochen sein. Die Ziele der Leistungsdimension müssen nach der Smart-Formel aufgebaut sein.[^1]
+Unter Leistungs-, oder Qualitätsdimension versteht man die zu erfüllenden Aufgaben und das daraus resultierende, erwünschte Ergebnis. Damit beeinflusst sie den Inhalt und Umfang des Projekts entscheidend und sollte mit jedem Steakholder und Beteiligten abgesprochen sein. Die Ziele der Leistungsdimension müssen nach den [SMART_Zielen](SMART_Ziele.md)
+ aufgebaut sein.[^1]
 
 Alle 3 Dimensionen haben eine direkte Verbindung und Wirkung zueinander. Die Hauptaufgabe des magischen Dreiecks ist dabei, diese darzustellen und somit das Planen eines Projektes zu erleichtern. Praktische Anwendungen des magischen Dreiecks sind dabei beispielsweise die umfassende Planung eines Projekts, das Festlegen von klaren Zielen, das Erkennen von Risiken, die Möglichkeit auf kurzfristige Änderungen des Projekts dynamisch und flexibel zu reagieren und die Überprüfung, ob die Ziele am Ende des Projekts erreicht wurden. [^1]
 
