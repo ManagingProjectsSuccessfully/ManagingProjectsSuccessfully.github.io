@@ -40,13 +40,13 @@ Es ist wichtig die Projektinhalte zu definieren, also im Vorhinein festzulegen w
 * Projektdokumentation während der Projektdurchführung
 * Projektdokumentation während des Projektabschlusses
 
- ![Beispielabbildung](Projektdokumentation/test-file.jpg) 
+ <img src="https://www.derpade.de/wp-content/uploads/2016/01/Projektdokumentation.jpg" width="250">
 
 ## Projektdokumentation während der Projektplanung
 
 Die Projektdokumentation im Kontext der Projektplanung beschränkt sich auf das Protokollieren von Entscheidungen zur Projektplangestaltung. Neben der Planung von Zeit und Budget liefert der Projektleiter die Grundlage für alles , was im Projekt passieren wird. Wenn Sie Ihre Entscheidungsfindung bereits gut dokumentieren, ist es bei der späteren Bewertung des Projekterfolgs leichter zu erkennen, ob Ungleichgewichte während des Projekts bereits etwas mit der Planung zu tun haben könnten. [^5]
 
-
+<img src="https://www.derpade.de/wp-content/uploads/2016/01/Projektdokumentation.jpg" width="250">
 
 
 ## Projektdokumentation während der Projektdurchführung
