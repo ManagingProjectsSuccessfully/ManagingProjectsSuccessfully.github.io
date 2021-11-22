@@ -5,7 +5,7 @@ author: Constll
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Bauprojekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Ein Bauprojekt, auch Bauvorhaben genannt, beschreibt die Errichtung eines in der Regel einmaligen Bauwerks.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
