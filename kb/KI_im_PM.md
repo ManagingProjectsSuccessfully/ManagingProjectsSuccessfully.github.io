@@ -65,32 +65,18 @@ Die KI hat das Potential das [Projektmanagement](Projektmanagement.md) an mehrer
 So können Anpassungen und Optimierungen von Projektplänen aufgrund von Verzögerungen, Kapazitätsengpässen oder anderen Elementen des [Risikomanagements](Risikomanagement.md) vorgenommen werden. 
 Außerdem können große Datenmengen schnell analysiert werden und nebenbei auf Erfahrungswerte zurückgegriffen werden [^6]. <br>
 KI gibt den Unternehmen des Weiteren die Möglichkeit durch das [Maschinellen Lernen](Machine_Learning_im_Projektmanagement.md) einige Schritte im Verlauf eines [Projektes](Projekt.md) besser zu organisieren. 
-Verbesserungspotenzial durch Machine Learning ist in Phasen wie der Planung, Ausführung und dem Controlling möglich [^1].
+Verbesserungspotenzial durch Machine Learning ist in Phasen wie der Planung, Ausführung und dem Controlling möglich [^1]. <br>
+
+![Machine Learning](KI_im_PM/Machine_Learning.png)
 
 ## 2.4 Einsatz von KI in [Invensity](https://www.invensity.com/)
 
 [Invensity](https://www.invensity.com/) ist eine globale Technologie- und Innovationsberatung, die ihre Unternehmenspartnern und Kunden bei Produktentwicklungen unterstützen. 
 Sie hat sich die KI und ihr [Maschinelles Lernen](Machine_Learning_im_Projektmanagement.md) zu Nutze gemacht und mit der „AI Use Case Analysis“ eine Methode entwickelt, um das [Projektmanagement](Projektmanagement.md) zu optimieren. 
 Hierbei gibt es kein zentrales Tool, sondern ein Set an unterschiedlichen Werkzeugen in Form von Algorithmen, die ineinandergreifen. 
-Ihre Absicht ist es, verschiedene Arten von Daten zu analysieren und auszuwerten, damit Probleme in Projekten gelöst werden können, die bislang nicht lösbar erschienen, wie beispielsweise in den Bereichen der Aufwandsschätzung, Zeitplanerstellung, Ressourcenzuordnung oder im Projektreporting [^6].
+Ihre Absicht ist es, verschiedene Arten von Daten zu analysieren und auszuwerten, damit Probleme in Projekten gelöst werden können, die bislang nicht lösbar erschienen, wie beispielsweise in den Bereichen der Aufwandsschätzung, Zeitplanerstellung, Ressourcenzuordnung oder im Projektreporting [^6]. <br>
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](KI_im_PM/test-file.jpg)
-
-*lustiges Testbild*
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](KI_im_PM.md)
+![Beispielabbildung](KI_im_PM/KI_im_PM.png)
 
 # Abkürzungsverzeichnis
 KI = Künstliche Intelligenz <br>
