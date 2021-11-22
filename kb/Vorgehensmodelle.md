@@ -8,7 +8,7 @@ anrechnung: k
 Kurzbeschreibung zu Vorgehensmodelle
 
 # Begriffsdefinition "Vorgehensmodelle"
-
+Der Begriff "Vorgehensmodell" beschreibt eine... -definiertes Vorgehen -Standardvorgehen [^30]
 
 ![Ordnungsschema](Vorgehensmodelle/Ordnungsschema%20Kneuper%20et%20al.JPG)
 
@@ -30,7 +30,7 @@ Kurzbeschreibung zu Vorgehensmodelle
   - (PRINCE2 *Link*)
   - Extreme Programmierung/Xtreme Programming *Link*
   - Scrum *Link*
-  - (Six Sigma *Link*)
+  - (Six Sigma *Link*) [^10]
 
 * Verschiedene Arten von Vorgehensmodellen:
   - lineare Vorgehensmodelle oder Phasenmodelle
