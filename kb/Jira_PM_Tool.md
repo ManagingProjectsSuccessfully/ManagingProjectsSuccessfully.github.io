@@ -14,7 +14,7 @@ Jira kann sowohl als Cloud-Hosting oder als selbstverwaltetes Hosting betrieben 
 
 ## 3. Preisliste
 Bei Atlassian gibt es sehr viele Preismodelle [Quelle]. Hier wird zwischen Cloud- und selbstverwaltetem Hosting unterschieden, aber auch die Nutzerzahl spielt eine Rolle. Ausgehend von 500 Benutzern ergeben sich bei jährlichem Zahlungsturnus folgende Preise: 
-ier eine Ebene-2-Überschrift unter Aspekt 2
+
 
 | Cloud-Hosting | Cloud-Hosting | Selbstverwaltetes Hosting |
 | ------------- | ------------- | -------------|
@@ -43,6 +43,11 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Jira_PM_Tool.md)
+* [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
+* [Kanban Boards](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban_Boards.md)
+* [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
+* [Product Backlog](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Backlog.md)
+* [Sprint Backlog](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Sprint_Backlog.md)
 
 # Weiterführende Literatur
 
