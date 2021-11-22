@@ -15,20 +15,56 @@ anrechnung: k oder a
 
 >Das Lean-Agile Mindset ist eine Kombination von Überzeugungen, Annahmen, Einstellungen und Handlungen von [SAFe](SAFe.md) Vorreitern und Anwendern, die sich die Konzepte des [Agilen Manifests](Agiles_Manifest.md) und des Lean-Denkens zu eigen machen.
 
-Es beschreibt, wie Lean und Agile als Herzstück von [SAFe](SAFe.md) und wird von vielen Beiträgen des Frameworks untermauert, die erklären, wie Lean-Agile-Praktiken im großem Umfang implementiert werden können.[^2]
+Es beschreibt, Lean und Agile als Herzstück von [SAFe](SAFe.md) und wird von vielen Beiträgen des Frameworks untermauert, die erklären, wie Lean-Agile-Praktiken im großem Umfang implementiert werden können.[^2]
 
-# Änderung des momentanen Mindsets zur Umsetzung vom [Scaled Agile Framework®](SAFe.md)
-Zur Umsetzung des [Scaled Agile Framework](SAFe.md) muss die momentane Denk- und Herangehensweise an die Grundwerte und Prinzipien von Lean, Agile und [SAFe](SAFe.md) angepasst werden. [^2]  
-Dabei müssen die SAFe Leader offen bleiben für die Möglichkeit, dass bestehende Denkweisen, die auf traditionellen Managementpraktiken beruhen, sich weiterentwickeln müssen. Sie sind dafür zuständig den organisatorischen Wandel zu leiten, der erforderlich ist, um ein schlankes Unternehmen zu werden.[^1]
-Ein Lean-Agile Mindset erfordert, dass die Führungskräfte sowohl Lean als auch Agile in ihrem Verhalten erlernen und umsetzen und die Implementierung im Unternehmen unterstützen. [^2]
-
-# Lean Denkweise mit dem "SAFe House of Lean"
-
-!["SAFe House of Lean"](SAFe_Lean_Agile_Mindset/House-of-Lean-1.png)
+# Änderung des momentanen Mindsets zur Umsetzung vom [Scaled Agile Framework](SAFe.md)
+Zur Umsetzung des [Scaled Agile Framework](SAFe.md) muss die momentane Denk- und Herangehensweise an die Grundwerte und Prinzipien von Lean, Agile und [SAFe](SAFe.md) angepasst werden.[^2]   
 
 
+# Lean Denkweise mit dem "SAFe House of Lean"[^1]
 
-# Siehe Auch
+!["SAFe House of Lean"](SAFe_Lean_Agile_Mindset/House-of-Lean-1.png)  
+*Abbildung 1 - SAFe House of Lean*[^1]  
+
+Das "SAFe House of Lean", wie in Abbildung 1 dargestellt, wurde vom Toyota "House of Lean" und denen weiterer Unternehmen inspiriert.[^1]  
+
+## Maximaler Kundenwert als Ziel
+Das Ziel von Lean liegt darin, den größtmöglichen Kundenwert mit kürzester Durchlaufzeit zu erzielen und gleichzeitig dem Kunden und der Gesellschaft insgesamt die beste Qualität zu bieten. Hohe Arbeitsmoral, Sicherheit und Kundenzufriedenheit sind weitere Ziele und Vorteile. [^1]
+
+## Säule 1 - Respekt für Menschen und Kultur
+Gutes Management fördert den Wandel der Mitarbeiter und kann sie zu besseren Arbeitsmethoden hinführen, jedoch sind es die Einzelpersonen und Teams selbst, die für diese Entwicklung verantwortlich sind.
+Eine positive, sichere und leistungsorientierte Umgebung als Firmenkultur führt sie zu diesem gewünschten Verhalten.[^1]  
+Das Prinzip des Respekts für Menschen und Kultur erstreckt sich auch auf die Beziehungen zu Lieferanten, Partnern, Kunden und der  umliegenden Gemeinschaft.[^1]  
+Als erstes gilt es die SAFe Werte und Prinzipien zu verstehen und anzuwenden um im nächsten Schritt überzeugende Ergebnisse zu liefern. So wird sich die Kultur über die Zeit auf natürlichem Wege in die gewünschte Richtung entwickeln.[^1]
+
+## Säule 2 - Arbeitsverlauf
+Ähnlich wie bei anderen Agilen Vorgehensweisen sind kontinuierliches Feedback und Anpassungen an der Durchführung zur erfolgreichen Durchführung von SAFe essentiell.  [^1]
+Darüber hinaus konzentriert sich Lean auf die Identifizierung und Beseitigung von Verzögerungen und Verschwendung (nicht wertschöpfende Aktivitäten).[^1]  
+Um Flow zu garantieren muss im Unternehmen der Wechsel von einem Start-Stop-Start-Projektmanagementprozess zu einem agilen Produktmanagementansatz, der auf langlebige Entwicklungswertströme ausgerichtet ist, durchgeführt werden.[^1]
+
+## Säule 3 - Innovation
+Zur Vermeidung der Verschlechterung von Produkt und Prozess wenden Lean-Agile-Leader die folgenden Praktiken an:
+
+* Innovation und Unternehmertum in der Belegschaft des Unternehmens einführen und betreuen
+* Zeit und Raum für Kreativität schaffen
+* Prozess der ständigen Erforschung des Marktes und der Kundenbedürfnisse[^1]
+
+## Säule 4 - Unermüdliche Verbesserung
+Ständige Selbstreflexion, Prozessverbesserungen und Gefährdung durch Wettbewerb treibt das Unternehmen dazu, Verbesserungsmöglichkeiten hartnäckig zu verfolgen.
+Dazu müssen folgende Punkte umgesetzt werden: 
+* Organisation und Entwicklungsprozesses als Gesamtkonstrukt optimieren
+* Verstärkung der Problemlösungsmentalität im gesamten Unternehmen 
+* Reflexion bei wichtigen Meilensteinen
+* Anwendung von Lean-Tools und Lean-Techniken, um Ineffizienzen durch Gegenmaßnahmen zu beseitigen[^1]
+
+## Fundament - Führung 
+Führungskräfte müssen in neuen und innovativen Denkweisen geschult sein und die Grundsätze und Verhaltensweisen der schlanken und agilen Führung anwenden.
+Aus der Führungsperspektive ist Lean etwas anderes als Agile. Agile wurde als teambasierter Prozess für kleinere Teams entwickelt. Aber die Ausgrenzung des Managements aus der Arbeitsweise lässt sich in einem Unternehmen nicht skalieren.
+Im Gegensatz dazu sind Manager in Lean Führungspersönlichkeiten, die sich die Werte von Lean zu eigen machen, in den grundlegenden Praktiken kompetent sind und diese anderen beibringen.[^1]
+
+# Siehe auch
+[]
+
 # Weiterführende Literatur
 
 
@@ -38,8 +74,8 @@ Ein Lean-Agile Mindset erfordert, dass die Führungskräfte sowohl Lean als auch
 
 [^1]: [Lean-Agile Mindset](https://www.scaledagileframework.com/lean-agile-mindset/)  
 [^2]: [Developing a New Mindset](https://www.scaledagileframework.com/lean-agile-leadership/)   
-[^3]: []()  
-
+[^3]: [Womack, James & Daniel Jones (2003): Lean Thinking: Banish Waste and Create Wealth in your Corporation. Free Press]  
+[^4]. []()
 
 
 
