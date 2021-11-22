@@ -5,9 +5,19 @@ author: mirela08
 anrechnung: a
 ---
 
-Kurzbeschreibung zu Scrum_at_Scale
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+
+Was ist Scrum at Scale?
+
+Scrum at Scale, oft auch Scrum@Scale mit dem ‘@’ Zeichen zusammengefasst bzw. Scrum at Scale Framework, ist ein agiler Ansatz, um das parallele Vorgehen von nach Scrum agierenden Entwicklungsteams zu koordinieren. Im Scope sind dabei nicht nur Entwicklungsabteilungen, sondern alle Bereiche die arbeitsteilig Produkte hervorbringen.
+
+Scrum at Scale hebt agiles Arbeiten von Einzelprojekt auf Programm- bzw. Organisationsebene. Nicht zwangsläufig muss das Ergebnis dabei ein Softwareprodukte sein. Der 21-seitige Scrum@Scale Guide versteht unter ‘Produkt’ jede Form von System, also gleichsam Prozesse, Services und Hardware
+
+Dabei schreibt sich das Framework folgende Eigenschaften ganz oben auf die Fahne (bzw. vorn in den dazugehörigen Guide)
+
+    Leichtgewichtig – minimale überlebensfähige Bürokratie
+    Einfach verständlich – ausschließlich Scrum Teams
+    Schwierig zu meistern – Umsetzung eines neuen Betriebsmodells erforderlich
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
