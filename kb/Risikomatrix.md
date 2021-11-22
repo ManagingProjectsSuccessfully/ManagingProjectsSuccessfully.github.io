@@ -23,7 +23,6 @@ Bild 1[^1]:
 ![Risikomatrix](https://user-images.githubusercontent.com/78257976/140325882-d67014be-7d19-49cd-bd07-ae6e92c8b808.jpg)
 
 # Nutzen und Kritik
-
 ## Nutzen Allgemein
 Die Risikomatrix hilft bei der Beurteilung von Risiken, da es das Ergebnis der Risikoanalyse und [Risikobewertung](https://de.wikipedia.org/wiki/Risikobewertung) ist, ist es ein wichtiges Instrument des Projekt- und [Risikomanagements](https://de.wikipedia.org/wiki/Risikomanagement)[^9]. Durch Multiplikation der Eintrittswahrscheinlichkeit und der Schadenshöhe des Risikos kann der Schadenserwartungswert berechnet werden. Unter anderem ist es möglich, dass bei der Berechnung des [Schadenserwartungswertes](https://www.controlling-wiki.com/de/index.php/Risikomanagementsystem_(RMS)) sich die beiden Faktoren gegenseitig einschränken und es zu einer falschen Beurteilung über ein Risiko kommt[^10].
 Des Weiteren ist die Risikomatrix ideal für die Visualisierung und Kommunikation von Risikobewertungen und geben Auskunft über die Anzahl der Kritikalität von Risiken. Durch die Risikomatrix wird die Transparenz im Umgang mit Risiken als auch das Risikoverständnis in den Organisationen gefördert[^1].  
