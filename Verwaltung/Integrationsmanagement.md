@@ -49,7 +49,7 @@ Um eine solch tragende Rolle erfolgreich erfüllen zu können ist es wichtig, al
 | Soziale Kompetenz | Teamfähigkeit <br /> Empathie <br /> Menschenkenntnis <br /> Kommunikationsfähigkleit <br /> Integrationsbereitschaft <br /> Kritikfähigkeit <br /> Umgangsstil|
 |Methodische Kompetenz |Präsentationstechniken <br /> Umgang mit neuen Medien <br /> Strukturierte und zielgeordnete Arbeitsweise <br /> Analytische Fähigkeiten <br /> Problemlösungskompetenz <br /> Stressresistenz <br /> Organisationstalent <br /> Zeitmanagement |
 
-*[Tabelle Soft skills](https://www.praktikum.info/karrieremagazin/bewerbung/soft-skills)*
+*[Tabelle Soft skills](https://www.praktikum.info/karrieremagazin/bewerbung/soft-skills#content_block_8380)*
 
 # Siehe auch
 ## Verlinkungen zu angrenzenden Themen
