@@ -4,7 +4,7 @@ tags: klassisch
 author: FerYilm
 anrechnung: k
 ---
-Der erstmals 1996 veröffentlichte PMBOK- Guide (A Guide to the Project Management Body of Knowledge) gilt als das zentrale Nachschlagwerk des [PMI](PMI_Institution.md) und ist ein anerkannter Standard des Projektmanagements. Neben [PRINCE2](PRINCE2.md) gehört der PMBOK Guide zu bekanntesten klassischen Methoden im [Projektmanagement](Projektmanagement.md).
+Der erstmals 1996 veröffentlichte PMBOK- Guide (A Guide to the Project Management Body of Knowledge) gilt als das zentrale Nachschlagwerk des [PMI](PMI_Institution.md) und ist ein anerkannter Standard des Projektmanagements. Neben [PRINCE2](PRINCE2.md) gehört der PMBOK Guide zu den bekanntesten klassischen Methoden im [Projektmanagement](Projektmanagement.md).
 Die vom PMI angebotene PMP [Zertifizierung](Zertifizierungen.md) baut u.a. auf dem Guide auf und gilt daher als wichtiges Referenzdokument [^1][^2].
 
 # Aufbau des aktuellen PMBOK-Guides
@@ -32,7 +32,7 @@ _Gegenüberstellung der Themenbereiche der aktuellen Edition_ [^5]
 
 ## System for Value Delivery [^6]
 
-Verschiedene Elemente wie Portfolios, Programme und Produkte können, wenn sie in einem System kombiniert werden, dazu beitragen, je nach Organisationsstrategie einen bestimmten Wert zu schaffen. Damit die Übereinstimmung mit der Strategie und eine Anpassung an das Umfeld gewährleistet sind, sollte zwischen den beteiligten Elementen ein regelmäßiger Informationsaustausch stattfinden. Das Governance System unterstützt dabei das Wertschöpfungssystem und stellt einen Rahmen für verschiedene Funktionen wie Aufsicht und Kontrolle dar. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter](Projektmitarbeiter.md) betont, die unabhängig vom Führungsansatz ist. Entscheidend für das Projektergebnis ist daher die regelmäßige Kooperation zwischen Prijektmitgliedern und Stakeholdern. Jedes Projekt wird zudem von seinem internen als auch vom externen Umfeld günstig, ungünstig oder neutral beeinflusst. 
+Verschiedene Elemente wie Portfolios, Programme und Produkte können, wenn sie in einem System kombiniert werden, dazu beitragen, je nach Organisationsstrategie einen bestimmten Wert zu schaffen. Damit die Übereinstimmung mit der Strategie und eine Anpassung an das Umfeld gewährleistet sind, sollte zwischen den beteiligten Elementen ein regelmäßiger Informationsaustausch stattfinden. Das Governance System unterstützt dabei das Wertschöpfungssystem und stellt einen Rahmen für verschiedene Funktionen wie Aufsicht und Kontrolle dar. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter](Projektmitarbeiter.md) betont, die unabhängig vom Führungsansatz ist. Entscheidend für das Projektergebnis ist daher die regelmäßige Kooperation zwischen Projektmitgliedern und Stakeholdern. Jedes Projekt wird zudem von seinem internen als auch vom externen Umfeld günstig, ungünstig oder neutral beeinflusst. 
 
 |Internes Umfeld| Externes Umfeld|
 | ------------- | ------------- | 
