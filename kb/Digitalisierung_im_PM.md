@@ -1,8 +1,8 @@
 ---
 title: Digitalisierung_im_PM
-tags: agil klassisch
+tags: klassisch, Digiatlisierung
 author: Viktoria1412
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Digitalisierung_im_PM um ein erstes Verständnis dafür zu schaffen um was es hier geht.
