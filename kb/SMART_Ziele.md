@@ -67,6 +67,20 @@ Der fünfte Punkt von SMARTen Zielen ist die Terminierung. Für ein Ziel sollte 
 
 # Siehe auch
 
+* [Link auf diese Seite](Zeitplanung.md)
+* [Link auf diese Seite](Timeboxing.md)
+
+# Weiterführende Literatur
+
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
+# Quellen
+
+
+
+
+
+
 
 
 Kurzbeschreibung zu SMART_Ziele um ein erstes Verständnis dafür zu schaffen um was es hier geht.
