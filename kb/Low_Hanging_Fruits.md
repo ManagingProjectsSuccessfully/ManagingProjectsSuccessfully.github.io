@@ -12,7 +12,11 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Low Hanging Fruits
 
-Low Hanging Fruits bezeichnet Aufgaben, welche mit minimalem Aufwand einen maximalen Erfolg erzielen. Der Begriff stammt aus dem Englischen und bedeut übersetzt in etwa "niedrig hängende Früchte".
+Low Hanging Fruits -zu deutsch "niedrig hängende Früchte"- bezeichnet Aufgaben, welche mit minimalem Aufwand einen maximalen Ertrag erzielen. Metaphorisch sind es die niedrig hängenden Obststücke, welche man besonders einfach und ohne große Mühe von einem Baum pflücken kann. Hoch hängende Früchte dagegen, sind schwerer zu erreichen und mit zusätzlichen Aufwänden verbunden.  
+
+# Low Hanging Fruits in der Betriebswirtschaft
+
+Der Begriff Low Hanging Fruits wird zu meist im Business-Bereich benutzt und beschreibt dort jene Aufgaben, die mit wenig Aufwand 
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
