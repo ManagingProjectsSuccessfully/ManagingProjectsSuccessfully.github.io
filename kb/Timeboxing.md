@@ -21,9 +21,9 @@ Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten 
 
 2. Aufgaben priorisieren
 
-3. Dauer der To-dos abschätzen 
+3. Dauer der Aufgaben abschätzen 
 
-4. Timeboxen setzen und mit Zeitslot schriftlich festhalten
+4. Timeboxen setzen und mit Zeitrahmen schriftlich festhalten
 
 
 # Vor- und Nachteile des Timeboxing
