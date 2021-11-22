@@ -56,19 +56,6 @@ Unternehmen treffen viele ihrer Entscheidungen auf Basis wirtschaftlicher Überl
 Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement etabliert und trägt durch seine detaillierte Analyse der Wirtschaftlichkeit von Projekten zu der erfolgreichen Umsetzung der rentabelsten Vorhaben bei.[^7] 
 
 
-![Beispielabbildung](Business_Cases/test-file.jpg)
-
-*lustiges Testbild*
-
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
 # Siehe auch
 
 * [Projekt](Projekt.md)
@@ -77,10 +64,6 @@ So kann man eine Tabelle erstellen:
 * [PRINCE2](PRINCE2.md)
 * [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md)
 
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
