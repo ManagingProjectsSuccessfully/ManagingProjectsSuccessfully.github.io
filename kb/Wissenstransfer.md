@@ -20,7 +20,7 @@ Unabhängig vom Umfang des vorhandenen Wissens durchläuft der Wissenstransfer i
 wird der Wissenstransfer eingeleitet, sprich das Wissen wird identifiziert, dokumentiert und auch bewertet. In der Wissensflussphase findet die tatsächliche Transaktion 
 des Wissens statt und in der letzten Phase wird das transferierte Wissen erneut überprüft und dann gegebenenfalls integriert.[^4]
 
-![Phasen des Wissenstransfers](Wissenstransfer/Phasen_des_Wissenstransfer_nach_KK.png)
+![Phasen des Wissenstransfers](Wissenstransfer/Phasen_des_Wissenstransfers_nach_Krogh_und_Köhne.png)
 
 *Abbildung 1: Phasenmodell nach Krogh und Köhne* [^5]
 
