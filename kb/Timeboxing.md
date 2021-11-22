@@ -43,7 +43,7 @@ Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten 
 * Effektives Arbeiten durch verbindlichen Zietrahmen
 * Reduzierung von Multitasking und Prokrastination
 * Fokus auf das Wesentliche
-* Steigert Motivation und Konzentration
+* Steigert Motivation und Konzentration [^3][^4]
 
 ## Nachteile
 
@@ -72,8 +72,8 @@ Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten 
 
 # Quellen
 
-[^1]: [Timeboxing: Produktiver arbeiten durch klare Zeiten](https://karrierebibel.de/timeboxing/)
-[^2]: [Timeboxing: So wirst du produktiver!](https://projekte-leicht-gemacht.de/blog/softskills/zeitmanagement/timeboxing/#Was-ist-Timeboxing)
-[^3]: [Testen Sie Timeboxing: Die zielorientierte Zeitmanagement-Strategie](https://asana.com/de/resources/what-is-timeboxing) 
-[^4]: [Timeboxing: pünktlich Aufgaben erledigen](https://www.fuer-gruender.de/blog/timeboxing/)
+[^1]: [Timeboxing: Produktiver arbeiten durch klare Zeiten](https://karrierebibel.de/timeboxing/), abgerufen am 20.11.2021
+[^2]: [Timeboxing: So wirst du produktiver!](https://projekte-leicht-gemacht.de/blog/softskills/zeitmanagement/timeboxing/#Was-ist-Timeboxing), abgerufen am 19.11.2021
+[^3]: [Testen Sie Timeboxing: Die zielorientierte Zeitmanagement-Strategie](https://asana.com/de/resources/what-is-timeboxing), abgerufen am 22.11.2021
+[^4]: [Timeboxing: pünktlich Aufgaben erledigen](https://www.fuer-gruender.de/blog/timeboxing/), abgerufen am 21.11.2021
 
