@@ -2,7 +2,7 @@
 title: Forecasts
 tags: agil klassisch
 author: eftalyaumat
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Forecasts um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -10,16 +10,12 @@ Kurzbeschreibung zu Forecasts um ein erstes Verständnis dafür zu schaffen um w
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Definition 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Forecasts werden im Projektmanagement als Steuerungselement eingesetzt, um die Erreichung von sowohl kurzfristigen als auch mittelfristigen Zielen zu kontrollieren und zu unterstützen. Durch die Erzeugung von Informationen und den Vergleich vorhergesagter Werte mit den tatsächlich eingetretenen sollen Abweichungen von der Planung frühzeitig erkannt und entgegenwirkende Maßnahmen so früh wie möglich entwickelt und angewendet werden. Forecasts sind hierbei nicht als eine normale Prognose anzusehen, da sie darüber hinausgehen und neben finanziellen und nicht-finanziellen Aspekten auch Simulations- und Szenariotechniken umfassen[^1]. 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
@@ -36,8 +32,35 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
+# Merkmale erfolgreicher Forecasts
+Um zuverlässige Vorhersagen zu erhalten und die gesetzten Ziele zu erreichen, sollten bei der Erstellung eines Forecasts diese Aspekte berücksichtigt werden.
+## 1. Ehrlichkeit
+Eine rein zielorientierte Herangehensweise ohne die Berücksichtigung vorhandener Ressourcen wird mit höherer Wahrscheinlichkeit zu falschen Vorhersagen führen. Den Forecast so zu bearbeiten, dass er die top down gesetzten Vorgaben erfüllt, wird zu Beginn eines Projekts vielversprechend wirken, jedoch am Ende häufiger die Ziele verfehlen. Deswegen ist eine bottom up Planung, die ehrlich zeigt, wo die Grenzen des Projektes liegen und Probleme frühzeitig aufdeckt, empfehlenswerter[^2]. 
+## 2. Systematik
+Jeder Projektteilnehmer sollte auf dem ersten Blick erkennen können:
+* Wo man sich im Projekt befindet
+* Was bereits erreicht wurde
+* Welche Schritte von wem als Nächstes gemacht werden müssen[^2]
+## 3. Einheitlichkeit
+Wichtig für die Vergleichbarkeit verschiedener Kennzahlen ist die Wahl einer einheitlichen Methode. Dies umfasst ein gemeinsames Bewertungssystem mit einheitlicher Begriffsdefinition und einer transparenten Wahrscheinlichkeitsbewertung[^2]. 
+## 4. Regelmäßigkeit
+Eine regelmäßige Überprüfung der geplanten Vorgänge und deren Erfolg ermöglicht es notwendige Korrekturen schon in frühen Phasen des Projektes zu erkennen und durchzuführen und verringert somit den damit verbundenen Aufwand. Die Chancen die im Forecast gesetzten Ziele zu erreichen, werden so aufrechterhalten[^2]. 
+## 5. Anpassungsfähigkeit
+Vorhersagen treffen realistisch gesehen nie zu 100% ein, da unkontrollierbare Faktoren existieren, die den Verlauf des Projektes maßgeblich beeinflussen können. Aus diesem Grund ist es wichtig, Raum für gewisse Anpassungen einzuplanen[^2]. 
 
-# Aspekt 1
+# Grundlegende Instrumente von Prognosen 
+Die Vorausbestimmung eines zukünftigen Zustands kann anhand mehrerer Instrumente geschehen. Die folgenden drei Herangehensweisen werden situationsbedingt in unterschiedlichen Projektarten angewendet. 
+## Erfahrungswissen 
+Prognosen, die auf Erfahrungswerten basieren, stellen zwar die zuverlässigste Methode dar, scheitern jedoch sobald es sich um ein sehr neues und innovatives Projekt handelt, wofür noch kein Repertoire an Wissen existiert, auf das man zurückgreifen könnte. 
+## Expertenschätzung 
+Wenn kein bereits vorhandenes Erfahrungswissen existiert, dienen Schätzungen von Experten als Orientierungsrahmen. Diese beruhen jedoch meist auf Annahmen, die eine hohe Unsicherheit aufweisen können. 
+## Szenarien 
+"Wenn-dann-Szenarien" prognostizieren potenzielle Entwicklungen und zeigen in großem Umfang die unterschiedlichen Möglichkeiten eines Projektverlaufs auf. 
+
+# Unterschiedliche Methoden des Forecastings 
+## Effektbasierter Forecast und werttreiberbasierter Forecast 
+## Cost Forecast und Scheduled Forecast 
+
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -55,7 +78,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * hier 
 * ist
 * eine 
-* Punkteliste
+* Punktelist
   - mit unterpunkt
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
@@ -97,8 +120,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: [Forecast Controlling - Definition: Was bedeutet Forecast im Controlling?](https:/https://www.haufe.de/controlling/controllerpraxis/forecast-controlling/definition-was-bedeutet-forecast-im-controlling_112_453392.html)
+[^2]: [7 Regeln für einen qualitativen Forecast](https://unternehmer.de/marketing-vertrieb/72056-7-regeln-fur-einen-qualitativen-forecast)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
