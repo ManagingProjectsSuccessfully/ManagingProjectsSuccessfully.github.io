@@ -71,6 +71,12 @@ Den Teilnehmern bietet ein Hackathon nicht nur die Möglichkeit auf Networking, 
 
 # Ausgewählte Beispiele
 
+* OpenCodes Hackathon
+* Coding da Vinci
+* #Wir vs. Virus
+* HackBay vom Gründerzentrum ZOLLHOF
+* BCX – Hackathon von Bosch
+
 ![Beispielabbildung](Hackathon/D20Ek7-X0AA-V20.jpg)
 
 *Abbildung 3: Hacker bei dem HackBay des Gründerzentrums aus Nürnberg: [ZOLLHOF](https://www.zollhof.de) im Jahr 2019*
