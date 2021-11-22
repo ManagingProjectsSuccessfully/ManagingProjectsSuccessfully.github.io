@@ -9,10 +9,10 @@ anrechnung: k
 * [1. Definition](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#1-definition)
 * [2. Etymologie](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#2etymologie)
 * [3. Bestandteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#3bestandteile)
-* [4. Bedeutung]()
-* [5. Vorteile]()
-* [6. Nachteile]()
-* [7. Fazit]()
+* [4. Bedeutung](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#4bedeutung)
+* [5. Vorteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#5vorteile)
+* [6. Nachteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#6nachteile)
+* [7. Fazit](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#7fazit)
 ## 1. Definition
 Ein Business Case analysiert die Wirtschaftlichkeit eines [Projekts](Projekt.md) oder einer Investition. Er verschafft den Entscheidungsträgern einen umfassenden Überblick über Kosten, Nutzen und Risiken eines Projekts. Der Business Case gibt eine Aussage darüber, ob sich die Durchführung eines Vorhabens lohnen würde oder nicht und stellt damit eine wichtige Entscheidungs- und Rechtfertigungsgrundlage für Projekte dar. Ist ein Projekt dann erst einmal genehmigt und im Gange, wird der Business Case stetig aktualisiert, sodass sich damit auch laufende Projekte überprüfen und rechtfertigen lassen.[^1] 
 
