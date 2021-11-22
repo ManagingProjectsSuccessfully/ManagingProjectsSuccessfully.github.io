@@ -26,7 +26,7 @@ Auf seiner [Webseite](https://francescocirillo.com/pages/pomodoro-technique) ski
 
 ![Beispielabbildung](Pomodoro/pomodoro-technik-620x340.jpg)
 
-*Pomodoro Technik*
+*Pomodoro-Timer*
 
 Dadurch entsteht folgender Ablauf:
 - Pomodoro 1
@@ -37,6 +37,7 @@ Dadurch entsteht folgender Ablauf:
 - 5 Minuten Pause
 - Pomodoro 4
 - 30 Minuten Pause
+
 Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
 
 # Aspekt 1
@@ -47,9 +48,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Pomodoro/test-file.jpg)
 
-*lustiges Testbild*
 
 # Aspekt 2
 
