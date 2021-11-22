@@ -47,6 +47,7 @@ Hinzu kommt, dass gute Kommunikation die berufliche Zufriedenheit steigert und d
 Da sich im Integrationsmanagement alles um die Organisation und die Steuerung eines Projekts dreht, hat der Projektleiter eine besonders wichtige Stellung.[^4] 
 
 ## Aufgaben
+Der Projektleiter hat die Aufgabe das Projekt zu leiten und erfolgreich zum Abschluss zu bringen. Das heißt er kümmert sich in der Vorbereitungsphase um den Projektplan, die Termine, den Ablauf und stellt das ganze Team zusammen. Während der Projektdurchführung geht es vor allem um die Überwachung des Projektablaufs. Dazu zählen zum Bespiel die Absprache mit Kunden, die Einhaltung von Terminen und Budget oder Motivation des Teams. In der Abschlussphase muss nachkalkuliert werden oder Abschlussbericht erstellt werden. Gegebenenfalls wird dem Kunden das Projekt noch präsentiert.[^5] 
 
 So kann man eine Tabelle erstellen:
 
@@ -82,3 +83,4 @@ So kann man eine Tabelle erstellen:
 [^2]: http://projektmanagement-definitionen.de/glossar/integrationsmanagement-in-projekten/
 [^3]: https://de.wikipedia.org/wiki/Integrationsmanagement
 [^4]: https://de.wikipedia.org/wiki/Projektleiter#:~:text=Der%20Projektleiter%20ist%20f%C3%BCr%20die,im%20Rahmen%20des%20Projekts%20zust%C3%A4ndig.
+[^5]: https://refa.de/berufe/projektleiter
