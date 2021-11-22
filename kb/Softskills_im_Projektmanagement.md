@@ -59,9 +59,7 @@ Innovationsfähigkeit heißt für Projektteams den Horizont zu erweitern und das
 * [Projekten](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
 * [nachhaltige Projekte](https://github.com/ig27oqaf/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Projekte.md)
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
