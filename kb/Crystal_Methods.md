@@ -1,40 +1,81 @@
 ---
 title: Crystal_Methods
-tags: agil klassisch
+tags: agil 
 author: creepol
-anrechnung: k oder a
+anrechnung:  a
 ---
 
-Kurzbeschreibung zu Crystal_Methods um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die vorliegende Arbeit setzt sich mit der Crystal Methode und ihren Anwendungsmöglichkeiten im agilen Projektmanagement auseinander. Crystal ist nicht nur eine agile Methode im Projektmanegemnt, sondern eine ganze Familie von einzelnen Methoden. Diese werden abhängig von der Größe und der Kritikalität (Höhe der Risiken) angewandt. Der amerikanische Informatiker Alistair Cockburn entwickelte in den frühen 90er Jahren die Crystal Familie. Im Laufe seiner Forschung wurde ihm klar, dass jedes Projekt und jedes Team einzigartig in Ihrer Zusammensetzung ist und keine allgemeine Vorgehensweise existiert. Deshalb ordnete Cockburn den einzelnen Methoden Farben zu, wobei jede Farbe Größe und Kritikalität eines Projekts repräsentiert.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# 1. Verschiedene Crystal- Varianten 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Welche Methode letztendlich für das Projekt ausgewählt wird, entscheidet die Anzahl der teilnehmenden Personen und die Höhe der Risiken. Die Crystal Familie benutzt verschiedene Farben um die verwendete Methode zu kennzeichnen.Die aktuellen Farben sind:
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+* Crystal Clear 
+  - (bis zu 6 Mitgliedern)
+* Crystal Yellow 
+  - (7-20)
+* Crystal Orange 
+  - (21- 40)
+* Crystal Red 
+  - ( 40-80)
+* Crystal Maroon 
+   - (80-200)
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Die folgende Graphik bildet auf der waagerechten Achse die Größe des Projekts und auf der senkrechten das mit der Software verbundene Risiko ab. C steht für „Loss of Comfort“, D für „Loss of discretionary monies“, E für „Loss of essential monies“ und L für „Loss of Life“. Die Zahl hinter dem Buchstaben kennzeichnet die Anzahl der an einem Projekt beteiligten Leute. 
+Ein Beispiel wäre E20, in dem Fall handelt es sich um ein Projekt mit essentiellen Geldern und 20 Leuten. 
+Projekte mit lebensbedrohlichen Risiken hat er absichtlich weggelassen, da er keine Erfahrung in solchen Projekten hat. 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+ ![Beispielabbildung](Crystal_Methods/CrystalMethods.png)
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+
+
+*lustiges Testbild*
+
+# 2. Die 7 Prinzipien der Crystal Methoden
+
+Die Methoden zeichnen vor allem sieben gemeinsame und vorherrschende Eigenschaften aus. Im Laufe der Zeit fand Cockburn heraus, dass e mehr von diesen Eigenschaften in den Projekten umgesetzt wurden, desto erfolgreicher wurde das Projekt abgeschlossen.
+
+1. Frequent delivery
+
+	- Es werden regelmäßig Testversionen und Entwürfe an den Auftraggeber geschickt um 			Feedback am laufenden Projekt zu bekommen
+
+
+2. Reflective Improvement
+
+   -	In regelmäßigen Abständen werden Teammeetings einberufen um Projektaufgaben zu 			besprechen und Verbesserungsvorschläge ezu sammeln und in das Projekt einzubauen.
+  
+
+3. Close communication
+	
+    - Eine der wichtigsten Vorraussetzungen liegt darin, durch räumliche Nähe einen natürlichen 		Informationsfluss zu generieren. Teams sollten daher nicht zu groß sein
+
+
+4. Personal safety
+	
+	  - Meinungsverschiedenheiten und Kritik sollten offen geäußert werden können ohne 			Konsequenzen. 
+
+
+5. Focus
+
+	  - Jeder Mitarbeiter arbeitet ziel- und lösungsorientiert an ihren Aufgaben.
+
+	
+6. Early Access to expert users
+	
+	  - Experten sind jederzeit für das Team erreichbar um bespielsweise schnell Detailfragen zu 		klären.
+
+
+7. Technical environment
+	 - Automatisierte Tests, Konfigurationsmanagement und Versionsverwaltung. Mit Hilfe von diesen tools werden Fehler frühzeitig erkannt und Probleme schneller gelöst.
+
+
+# 3. Verschiedene Rollen in Crystal Methods
+
+Unabhängig von der Größe des Projekts existieren ein Sponsor, verschiedene User, der Lead Designer und Designer Programmer. Diese 4 Rollen sollten von unterschiedlichen Persone ausgeführt werden um Verantwortlichkeiten klar abzugrenzen. Je größer das Projekt, desto mehr spezialisierte Rollen können im Team auftauchen. Siehe Abbildung 2.
+
+
 
 
 # Aspekt 1
