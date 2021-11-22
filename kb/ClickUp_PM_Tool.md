@@ -62,13 +62,13 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 |   Kostenlos     |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
 | --------------  | ------------- | ------------- | ------------ | ------------- | ------------  |
 |   Speicher      | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
-|Synchronisierung*| Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+|Synchronisierung¹| Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 
-*(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
+*¹(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
