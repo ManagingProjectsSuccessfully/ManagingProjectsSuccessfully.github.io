@@ -5,7 +5,7 @@ author: mirela08
 anrechnung: k
 ---
 
-Mit RACI wird eine Technik zur Analyse und Darstellung von Verantwortlichkeiten bezeichnet. Der Name leitet sich aus den Anfangsbuchstaben der englischen Begriffe Responsible, Accountable, Consulted, Informed ab. Davon Abgeleitet wird die RACI-Matrix erstellt, welche auch RAM (Responsibility Assignment Matrix) genannt wird. 
+Mit RACI wird eine Technik zur Analyse und Darstellung von Verantwortlichkeiten bezeichnet. Der Name leitet sich aus den Anfangsbuchstaben der englischen Begriffe Responsible, Accountable, Consulted, Informed ab. Davon Abgeleitet wird die RACI-Matrix erstellt, welche auch RAM (Responsibility Assignment Matrix) genannt wird. [^1]
 
 Aus dieser Matrix geht hervor, welche Team-Mitglieder wofür im Projekt verantwortlich sind.
 Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umfangreicher das Projekt oder die Entwicklung ist, desto schwieriger ist es, Verantwortlichkeiten zu definieren und den Überblick über Verantwortlichkeiten zu behalten. Die RACI-Matrix ist ein Hilfsmittel zur Analyse und Darstellung von Verantwortlichkeiten.
@@ -19,7 +19,7 @@ Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umf
 
 **C** – Consulted: Wer wird zur Durchführung der Aufgabe befragt? Hier handelt es sich oft um Fachexperten oder Dritte, die nicht direkt an der Durchführung beteiligt sind, die jedoch beratend zur Seite stehen.
 
-**I** – Informed: Wer wird über die Ergebnisse der Aufgabe informiert? Hier findet in der Regel keine zweiseitige Kommunikation statt, sondern es werden lediglich Informationen übertragen.
+**I** – Informed: Wer wird über die Ergebnisse der Aufgabe informiert? Hier findet in der Regel keine zweiseitige Kommunikation statt, sondern es werden lediglich Informationen übertragen. 
 
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -111,12 +111,7 @@ Es gibt eine Reihe von Varianten oder Alternativen, die einen ähnlichen Matrix-
  ## REWA
 > Responsible, Expert, Work, Approver. Der Expert entspricht ungefähr dem „Consulted“ von RACI, Work adressiert die tatsächliche Ausführung einer Tätigkeit und A steht für Approver und somit für die Abnahme einer Tätigkeit bzw. eines Ergebnisses.
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+
 
 
 # Siehe auch
@@ -130,7 +125,8 @@ Es gibt eine Reihe von Varianten oder Alternativen, die einen ähnlichen Matrix-
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+[^1]: [Die RACI-Matrix einfach erklärt]
+(https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/raci-matrix/)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
