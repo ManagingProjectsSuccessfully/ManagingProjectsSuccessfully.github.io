@@ -28,7 +28,7 @@ Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Prokjekt vorge
 Die Earned Value Analysis oder auch Ertragswertanalyse bezieht die Kosten und Leistungen eines Projekts aufeinander und erlaubt so eine präziese Kostenkontrolle.
 Zum Stichtag werden sowohl die Kosten als auch die Leistungen mit den Planwerten verglichen.
 
-![image](https://user-images.githubusercontent.com/92396490/141166513-24ad95c1-02c7-40e9-8d1c-ec3405cb887a.png) [^4]
+![Beispielabbildung](Kosten_Aufwands_Kontrolle/test-file.jpg) [^4]
 
 
 
