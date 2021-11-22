@@ -1,104 +1,38 @@
 ---
-title: Ikea_Effekt
-tags: agil
-author: julianTR4
-anrechnung: a
+Title: Ikea_Effekt
+Tags: agil
+Author: julianTR4
+Anrechnung: a
 ---
+Wenn der Name IKEA fällt, denken die meisten Menschen an moderne Inneneinrichtungen, oder das im Laden verkaufte Fleischgericht Köttbullar. Andererseits wird der schwedische Möbelhersteller auch mit einem psychologischen Phänomen in Verbindung gebracht – dem „IKEA-Effekt“. 
+Doch was hat es damit auf sich, und welche Relevanz hat es für das Projektmanagement? 
 
-Kurzbeschreibung zu Ikea_Effekt um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+![köttbullar](https://user-images.githubusercontent.com/92935784/142879347-2ed09af3-cc60-4c4f-a833-1babd23bf699.jpg)
+https://images.bstatic.de/kjvxNP7TxRn7ax2Ocg8F1QfpEig=/1200x680/filters:focal(617x408:637x428)/images/b4508039/2f5d/4af1/a9da/12fccf450529.jpg
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Definition
+Der Effekt stammt ursprünglich aus der Verhaltensökonomik und beschreibt das Phänomen, dass selbst montierte Objekte vom Monteur eine subjektiv höhere Wertschätzung erhalten, als in Massen vorgefertigte Gegenstände, bei denen kein eigener Aufwand erbracht wurde. [^1]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Die Studie zum Effekt
+Erarbeitet wurde der Effekt in dem Arbeitspapier „The IKEA effect: When labor leads to love“ aus 2012, verfasst von u.a. Michael Norton. In dem Experiment zur Studie teilten sich Probanden in die Gruppe der „builder“ oder „non-builder“ ein. Die erste Gruppe bekam den Auftrag, mithilfe einer Aufbauanleitung IKEA-Aufbewahrungsboxen selbst aufzubauen. Die zweite Gruppe erhielt eine schon montierte Box, die sie lediglich auf Makellosigkeit inspizieren sollten. Anschließend wurden beide Fraktionen nach ihrer Zahlungsbereitschaft für das Produkt gefragt, wobei die „builder“ im Schnitt 0,78$ boten, die „non-builder“ nur 0,48$. Dieses Ergebnis war statistisch signifikant und verdeutlichte, dass die Teilnehmer der Baugruppe allein durch ihren Aufwand dazu bereit waren, ein höheres Gebot abzugeben. Jedoch stand die Frage im Raum, ob der erhöhte Preis durch eine Individualisierung des Massenprodukts erfolgte. Das vermieden die Durchführer des Experiments, indem sie vorgefertigte Bausätze einsetzten, bei denen kein eigener Einfluss möglich war. Um diese Resultate zu erzielen, ist es unabdingbar, den Zusammenbau vollständig abzuschließen. Mussten die Versuchspersonen die Box etwa wieder auseinanderbauen, oder durften sie nicht zu Ende bauen, stellte sich kein Effekt ein. [^2] [^3]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Weiterführende Forschung
+In einer weiterführenden Forschung konnte man dieses Phänomen auch in Bezug auf Mäuse feststellen. Den Labortieren stellte man zwei Nahrungsquellen mit unterschiedlichen Geschmacksrichtungen zur Auswahl. Für beide Portionen betätigen die Tiere den jeweiligen Schalter. Nach und nach erhöhte man für eine Geschmacksrichtung den Aufwand, um an das Futter zu gelangen. Es zeigte sich, dass die Mäuse die Quelle bevorzugten, für die sie bis zu 15-mal den Hebel betätigen mussten. [^4]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Anwendung im Projektmanagement
+Doch wie lässt sich das auf das Projektmanagement anwenden? Ein Projektleiter kann dieses Wissen für sich nutzen. Etwa können Teammitglieder, die von der Qualität einer Sache in der Planungsphase nicht überzeugt sind, beauftragt werden, ebendiesen Arbeitsschritt selbst durchzuführen. Im Idealfall ist der Skeptiker nun von der Qualität überzeugt, da er den Aufwand selber erbracht hat, und ihm das Ergebnis nicht nur vorgesetzt wurde – er gewinnt Vertrauen in das Projekt zurück. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+# Kritik
+Jedoch sollte ein jeder Projektleiter vorsichtig sein, möchte er den IKEA-Effekt für sich nutzen. Denn dieser beruht auf der subjektiven Einschätzung des Teammitglieds. Eventuell schätzt dieser sein Ergebnis deutlich besser ein, als es in Wirklichkeit ist. Eine solche Verblendung kann zu weiteren Konflikten führen, wenn andere dessen Arbeit nicht in gleichem Maße wertschätzen. Diese Problematik beschreibt schon der [Dunning-Kruger-Effekt](https://de.wikipedia.org/wiki/Dunning-Kruger-Effekt). Dieser besagt, dass Menschen ihr eigenes Wissen und Können wegen mangelnder Selbsteinschätzung überbewerten. Daraus folgt ebenfalls die Geringschätzung der Leistung anderer. [^5]
+In der kaufmännischen Betrachtung muss zusätzlich kritisiert werden, dass der IKEA-Effekt für höherpreisige Artikel noch nicht nachgewiesen wurde. [^3] Außerdem kann es passieren, dass Kunden durch Überforderung in der Montage frustriert werden, und das Produkt, sowie ihre Erfahrung damit als negativ bewerten. [^6]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Ikea_Effekt/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Ikea_Effekt.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/ikea-effect/
+[^2]: Journal Of Consumer Psychology, Volume 22: The IKEA effect: When labor leads to love https://www.hbs.edu/ris/Publication%20Files/norton%20mochon%20ariely_6f7b1134-06ef-4940-a2a5-ba1b3be7e47e.pdf
+[^3]: https://de.wikipedia.org/wiki/IKEA-Effekt#Studie_von_Norton_und_Kollegen
+[^4]: https://de.wikipedia.org/wiki/IKEA-Effekt#Weitere_Forschung
+[^5]: https://de.wikipedia.org/wiki/Dunning-Kruger-Effekt
+[^6]: https://www.sueddeutsche.de/wissen/psychologie-ikea-effekt-selbstgebaut-moebel-1.5350871
 
