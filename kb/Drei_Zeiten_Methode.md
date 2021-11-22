@@ -20,19 +20,16 @@ Bei der 3-Zeiten-Methode, oder auch Dreipunkt-Schätzung genannt, schätzen die 
 
 Die Dauer des Vorgangs wird dann mit der folgenden Formel ermittelt:
 
-<img width="515" alt="Bildschirmfoto 2021-11-11 um 14 35 29" src="https://user-images.githubusercontent.com/92893773/141490178-1cae4f49-8952-4f1a-a179-63d90641ed07.png">
+![Beispielabbildung](Drei_Zeiten_Methode/Einzelwert_Berechnung.png)
 ..
 
 Der Schätzfehler wird durch die Standardabweichung angegeben. Er wird mit der folgenden Formel berechnet:
 
-„STANDARDABWEICHUNG“
+![Beispielabbildung](Drei_Zeiten_Methode/Standardabweichung.png)
 
 Die Dreipunkt-Schätzung gleicht Schätzfehler aus und liefert so realistischere Werte als die Einzelwert-Schätzung. Abbildung 3 zeigt, wie der Mittelwert bei der Dreipunkt-Schätzung ermittelt wird. Die Schätzwerte werden an die horizontale Achse geschrieben und an die dazugehörigen Wahrscheinlichkeiten der Prognosen an die vertikale Achse. Der Verlauf der Schätzwerte ist eine Kurve. Die absolute Wahrscheinlichkeit wird durch Fläche unter der Kurve dargestellt. Das Dreieck ist eine Annäherung an die Kurve und lässt sich vereinfacht durch folgende Formel berechnen. [^1]
 
-
-„MITTELWERT BERECHNUNG“
-
-
+![Beispielabbildung](Drei_Zeiten_Methode/Mittelwert.png)
 
 ## Einsatzmöglichkeiten
 
