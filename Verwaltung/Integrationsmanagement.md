@@ -9,7 +9,6 @@ Das Integrationsmanagement ist ein Teilgebiet des [Projektmanagements](https://d
 
 
 # Prozesse 
-
 Bei erfolgreicher Anwendung des Integrationsmanagements kann erkennen, dass der Ablauf in kleine einzelne Schritte aufgeteilt ist. Es zieht sich also vom Entwickeln des Projektauftrages bis hin zur Abschließung es Projekts hin.
 
 ![image](https://user-images.githubusercontent.com/92979613/142760466-3cb71557-6d49-4938-822f-5e84b1ad5eda.png)
@@ -23,6 +22,7 @@ Bei jedem Projekt kommt es zu Problemen und Hindernissen, die es zu überwältig
 
 
 # Kommunikation
+
 Auch die [Kommunikation]({Projektkommunikation}.md) spielt hierbei eine tragende Rolle. Ein stetiger Austausch über Ziele oder eine Veränderung des Projektplans sind essenziell. Bei jedem Projekt kommt es zu exogenen Einflüssen, die den geplanten Verlauf oder die Verwendung von speziellen Ressourcen verändern. Um diesen Problemen so früh wie möglich entgegenzuwirken, ist die ständige Weitergabe von Informationen die beste Methode. So besteht die Chance eine Problematik schnellstmöglich zu erkennen und Lösungen zu finden. Auch wird so die Abstimmung über die Wünsche der Kunden oder die Qualitätsansprüche, die sich im Laufe des Projekts nochmals ändern könnten, ermöglicht. 
 
 Des Weiteren stärkt die Kommunikation auch das Teamklima. Dadurch, dass beteiligte Personen ohne Umstände die Informationen, die sie für ihren Arbeitsprozess im Projekt benötigen, bekommen, wird Unzufriedenheit oder Unverständnis vorgebeugt. Auch werden Arbeitsabläufe dadurch beschleunigt, da so Leerläufe verhindert werden können.[^2]
@@ -31,12 +31,16 @@ Hinzu kommt, dass gute Kommunikation die berufliche Zufriedenheit steigert und d
 
 
 # Projektleiter
+
 Da sich im Integrationsmanagement alles um die Organisation und die Steuerung eines Projekts dreht, hat der Projektleiter eine besonders wichtige Stellung.[^4] 
 
 ## Aufgaben
+
 Der Projektleiter hat die Aufgabe das Projekt zu leiten und erfolgreich zum Abschluss zu bringen. Das heißt er kümmert sich in der Vorbereitungsphase um den Projektplan, die Termine, den Ablauf und stellt das ganze Team zusammen. Während der Projektdurchführung geht es vor allem um die Überwachung des Projektablaufs. Dazu zählen zum Bespiel die Absprache mit Kunden, die Einhaltung von Terminen und Budget oder Motivation des Teams. In der Abschlussphase muss nachkalkuliert werden oder Abschlussbericht erstellt werden. Gegebenenfalls wird dem Kunden das Projekt noch präsentiert.[^5]
 
-## Softskills
+## Soft skills
+
+Um eine solch tragende Rolle erfolgreich erfüllen zu können ist es wichtig, alle nötigen Kompetenzen und das gewisse Know-how mitzubringen. Basis ist meist ein Studium mit der Fachrichtung Wirtschaftswissenschaften oder einer Ingenieurswissenschaft. Hinzu kommen ausgeprägte [Soft skills](https://en.wikipedia.org/wiki/Soft_skills), welche überfachliche Qualifikationen beschreiben, die sich nicht messen lassen.[^6]
 
 
 | Art  | Bespiel |
