@@ -59,7 +59,7 @@ Die verschiedenen Teams bilden sich in der Regel erst vor Ort, nach gemeinsamen 
 
 __3. Hacken__
 
-Damit ist die eigentliche Entwicklungsarbeit gemeint und nimmt den größten Anteil ein. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototyps auch die Vorbereitungen auf die Präsentation. Dabei folgen die Mitglieder oftmals den Prinzipien von [Desing Thinking](Design_Thinking.md) [^2] [^4] [^5]
+Damit ist die eigentliche Entwicklungsarbeit gemeint und nimmt den größten Anteil ein. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototyps auch die Vorbereitungen auf die Präsentation. Dabei folgen die Mitglieder oftmals den Prinzipien von [Desing Thinking](Design_Thinking.md). [^2] [^4] [^5]
 
 __4. Pitchen__
 
