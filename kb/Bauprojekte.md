@@ -2,7 +2,7 @@
 title: Bauprojekte
 tags: agil klassisch
 author: Constll
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Bauprojekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
