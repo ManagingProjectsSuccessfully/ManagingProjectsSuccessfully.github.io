@@ -6,14 +6,14 @@ anrechnung: k
 ---
 
 
-Jira ist eine von der Firma Atlassian entwickelte Software, die Ursprünglich für die Planung bei agile Softwareentwicklung erstellt wurde. Mittlerweile haben sich aber aus dem Ursprünglichen Programm die Unterprodukte Jira Software, Jira Service Management, Jira Work Management und Jira Align entwickelt. [QUELLE]
-Für den Themenbereich des Projektmanagements ist das Produkt Jira Software relevant. Hier können Workflows definiert, Aufgaben erstellt und zugewiesen, sowie Fortschritt und Produktivität verfolgt werden. [QUELLE EINFÜGEN]. Neben den Grundfunktionen die Atlassian in Jira selbst anbieten, hat man als Nutzer die Möglichkeit mit Hilfe des Marketplace Applikationen von Drittanbietern zu installieren und somit noch mehr Funktionen zur Verfügung zu haben.
+Jira ist eine von der Firma Atlassian entwickelte Software, die Ursprünglich für die Planung bei agile Softwareentwicklung erstellt wurde. Mittlerweile haben sich aber aus dem Ursprünglichen Programm die Unterprodukte Jira Software, Jira Service Management, Jira Work Management und Jira Align entwickelt[^1].
+Für den Themenbereich des Projektmanagements ist das Produkt Jira Software relevant. Hier können Workflows definiert, Aufgaben erstellt und zugewiesen, sowie Fortschritt und Produktivität verfolgt werden[^2] . Neben den Grundfunktionen die Atlassian in Jira selbst anbieten, hat man als Nutzer die Möglichkeit mit Hilfe des Marketplace Applikationen von Drittanbietern zu installieren und somit noch mehr Funktionen zur Verfügung zu haben.
 
 ## 1. Hosting
-Jira kann sowohl als Cloud-Hosting oder als selbstverwaltetes Hosting betrieben werden. Beim selbstständigen Hosten kann mittels Jira Software Data Center die Umgebung auf der eigenen Serverlandschaft oder bei Infrastructure-as-a-Service-Anbietern (IaaS), wie bei Amazon Web Services, Microsoft, Google oder diversen Anbietern verwalten. 
+Jira kann sowohl als Cloud-Hosting oder als selbstverwaltetes Hosting betrieben werden. Beim selbstständigen Hosten kann mittels Jira Software Data Center die Umgebung auf der eigenen Serverlandschaft oder bei Infrastructure-as-a-Service-Anbietern (IaaS)[^3], wie bei Amazon Web Services, Microsoft, Google oder diversen Anbietern verwalten. 
 
 ## 2. Preisliste
-Bei Atlassian gibt es sehr viele Preismodelle [Quelle]. Hier wird zwischen Cloud- und selbstverwaltetem Hosting unterschieden, aber auch die Nutzerzahl spielt eine Rolle. Ausgehend von 500 Benutzern ergeben sich bei jährlichem Zahlungsturnus folgende Preise: 
+Bei Atlassian gibt es sehr viele Preismodelle[^4]. Hier wird zwischen Cloud- und selbstverwaltetem Hosting unterschieden, aber auch die Nutzerzahl spielt eine Rolle. Ausgehend von 500 Benutzern ergeben sich bei jährlichem Zahlungsturnus folgende Preise: 
 
 
 | Cloud-Hosting | Cloud-Hosting | Selbstverwaltetes Hosting |
@@ -23,7 +23,7 @@ Bei Atlassian gibt es sehr viele Preismodelle [Quelle]. Hier wird zwischen Cloud
 | $30.000 pro Jahr  | $48.500 pro Jahr  | $42.000 pro Jahr |
 
 ## 3. Funktionsweise
-In Jira muss zunächst ein Projekt angelegt werden. Im Anschluss kann eine Vorlage für das Projekt ausgewählt werden, was die Darstellung der Aufgaben beeinflusst. Man kann sich bei Jira-Software zwischen Scrum- und Kanbanboards entscheiden. Im Jira-Projekt können sogenannte [Vorgänge](Jira_PM_Tool.md#5-vorgänge) erstellt werden, die als Aufgaben, Risiken, Bugs aber auch diverse andere Typen gekennzeichnet werden. Diese Vorgänge müssen während ihrer Bearbeitung einen Workflow durchlaufen, der in den Projekteinstellungen definiert werden kann und für jede Aufgabe gilt. Auf den Projektboards oder extra erstellen Dashboards können die Vorgänge nach bestimmten Kriterien gefiltert dargestellt werden.
+In Jira muss zunächst ein Projekt angelegt werden. Im Anschluss kann eine Vorlage für das Projekt ausgewählt werden, was die Darstellung der Aufgaben beeinflusst. Man kann sich bei Jira-Software zwischen [Scrum](Jira_PM_Tool.md#31-scrum-board)- und [Kanbanboards](Jira_PM_Tool.md#32-kanban-board) entscheiden. Im Jira-Projekt können sogenannte [Vorgänge](Jira_PM_Tool.md#5-vorgänge) erstellt werden, die als Aufgaben, Risiken, Bugs aber auch diverse andere Typen gekennzeichnet werden. Diese Vorgänge müssen während ihrer Bearbeitung einen Workflow durchlaufen, der in den Projekteinstellungen definiert werden kann und für jede Aufgabe gilt. Auf den Projektboards oder extra erstellen [Dashboards]((Jira_PM_Tool.md#7-dashboards)) können die Vorgänge nach bestimmten Kriterien gefiltert dargestellt werden.
 
 ### 3.1 Scrum Board
 ![Scrum Board](Jira_PM_Tool/scrum_backlog_full.png)
@@ -70,11 +70,15 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 * [Kanban Boards in Jira](https://support.atlassian.com/jira-software-cloud/docs/monitor-work-in-a-kanban-project/)
 * [Jira Issue Types](https://support.atlassian.com/jira-cloud-administration/docs/what-are-issue-types/)
+* [Jira Best Practices](https://www.atlassian.com/de/software/jira/guides/getting-started/best-practices)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Jira-Produktfamilie](https://www.atlassian.com/de/software/jira/guides/getting-started/overview#about-the-jira-platform)
+[^2]: [Jira für Projektmanagementteams](https://www.atlassian.com/de/software/jira/guides/use-cases/what-is-jira-used-for#jira-for-project-management-teams)
+[^2]: [Infrastructure-as-a-Service-Anbietern (IaaS)](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
+[^4]: [Preismodelle Jira](https://www.atlassian.com/de/software/jira/pricing)
+[^0]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 [^5]: [What is a Board](https://confluence.atlassian.com/jirasoftwareserver/what-is-a-board-938845235.html)
 [^6]: [What is a Jira-SoftwareBoard](https://support.atlassian.com/jira-software-cloud/docs/what-is-a-jira-software-board/)
 [^7]: [Jira Issue](https://stiltsoft.com/blog/2020/06/best-practices-for-creating-a-jira-issue-with-templates/)
