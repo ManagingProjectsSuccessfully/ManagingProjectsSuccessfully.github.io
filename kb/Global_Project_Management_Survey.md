@@ -75,7 +75,7 @@ negativere Ergebnissen innerhalb der Projektarbeit.
 Bei der Befragung wurden 1/3 der Unternehmen als „Gymnastic Enterprises“ eingestuft, und 30 % als „Traditional Enterprises“, die restlichen konnten nicht eindeutig zuge-
 ordnet werden:
 
-![classification of the Enterprises](Global_Project_Management_Survey/2021_Gymnastic_and_traditional_enterprises.jpg]
+![classification of the Enterprises](Global_Project_Management_Survey/2021_Gymnastic_and_traditional_enterprises.jpg)
 
 Kernerkenntisse waren dabei unter anderem:
 
@@ -91,7 +91,7 @@ oder trieben diese aktiv voran:
 
 3. Die "Gymnastic Enterprises" nutzten bei der Umsetzung der Projekte vermehrt aktuelle technolgische Trends und Möglichkeiten:
 
-![Technology usage](Global_Project_Management_Survey/2021_Technolgy_usage.jpg].
+![Technology usage](Global_Project_Management_Survey/2021_Technolgy_usage.jpg).
 
 4. Als zusätzlicher Erfolgsfaktor wurde herausgefunden, dass die "Gymnastic Enterprises" neben des hohen Grades an Agilität innerhalb des Unternehmens zusätzlich 
 standardisierte Risikoanalyse und -managementverfahren nutzten sowie eine geringere schleichende Umfangsausweitung innerhalb eines Projektes aufwiesen. Diese Kombination ist 
