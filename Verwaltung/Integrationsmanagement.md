@@ -50,7 +50,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 Bei erfolgreicher Anwendung des Integrationsmanagements kann erkennen, dass der Ablauf in kleine einzelne Schritte aufgeteilt ist. Es zieht sich also vom Entwickeln des Projektauftrages bis hin zur Abschließung es Projekts hin.
 
 ![image](https://user-images.githubusercontent.com/92979613/142760466-3cb71557-6d49-4938-822f-5e84b1ad5eda.png)
-(Eigene Abbildung in Power Point erstellt auf Basis von [^1])
+(*Eigene Abbildung in Power Point erstellt auf Basis von [^1]*)
 
 Nach dem Entwickeln des Projektauftrags bzw. nachdem ein Auftrag für ein Projekt angenommen wurde, wird ein Projektmanagementplan entwickelt, welcher der rote Faden sein soll. Der Plan dient als Orientierung über die verschiedenen Prozesse und Tätigkeiten, die erledigt werden müssen.
 
