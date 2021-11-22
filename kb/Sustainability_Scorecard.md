@@ -15,7 +15,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 ## 1.	Entstehung und Definition
 
-Vorab ist zu klären, was sich hinter diesem Begriff verbirgt. Anfang der 1990er Jahre entstand zunächst das Konzept der klassischen Balanced Scorecard. Sie wurde vor allem im Rechnungswesen genutzt, um finanzielle Kennzahlen leichter erfassen zu können. Diese recht vergangenheitsorientierte Herangehensweise des Rechnungswesens geriet jedoch schnell in die Kritik, da auch ökologische und soziale Nachhaltigkeitsaspekte berücksichtigt werden müssten, um Unternehmen langfristig Erfolg zu garantieren[^1]. 
+Vorab ist zu klären, was sich hinter diesem Begriff verbirgt. Anfang der 1990er Jahre entstand zunächst das Konzept der klassischen [Balanced_Scorecard](Balanced_Scorecard.md). Sie wurde vor allem im Rechnungswesen genutzt, um finanzielle Kennzahlen leichter erfassen zu können. Diese recht vergangenheitsorientierte Herangehensweise des Rechnungswesens geriet jedoch schnell in die Kritik, da auch ökologische und soziale Nachhaltigkeitsaspekte berücksichtigt werden müssten, um Unternehmen langfristig Erfolg zu garantieren[^1]. 
 
 ## 2.	Funktionsweise und Abgrenzung zur klassischen Scorecard
 
@@ -118,12 +118,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Balanced_Scorecard.md)
+* [Balanced_Scorecard](Balanced_Scorecard.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [The Sustainability Scorecard: How to Implement and Profit from Unexpected Solutions](https://www.hugendubel.de/de/taschenbuch/urvashi_bhatnagar_paul_anastas-the_sustainability_scorecard_how_to_implement_and_profit_from_unexpected_solutions-40276686-produkt-details.html?adCode=020R10B40L30C&gclid=CjwKCAiAnO2MBhApEiwA8q0HYaAKlDxw4Ip5W9iwMZqYl-zUhVIGQND0Zm645hKjZrtgp5-QfJA3EhoCQokQAvD_BwE)
+* [Performance measurement tools for sustainable business: A systematic literature review on the sustainability balanced scorecard use](https://onlinelibrary.wiley.com/doi/full/10.1002/csr.2206)
 
 # Quellen
 
