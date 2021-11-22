@@ -33,6 +33,7 @@ Im Laufe des Projekts müssen alle drei Punkte des [Projektdreiecks](Magisches_D
 * Termine
 * Ressourcen
 * Qualität
+
 ![Projekt Controlling](Projektcontrolling/projectcontrolling.jpg)
 
 ## Methoden
