@@ -60,7 +60,7 @@ Bei jedem Projekt kommt es zu Problemen und Hindernissen, die es zu überwältig
 
 
 # Kommunikation
-Auch die Kommunikation spielt hierbei eine tragende Rolle. Ein stetiger Austausch über Ziele oder eine Veränderung des Projektplans sind essenziell. Bei jedem Projekt kommt es zu exogenen Einflüssen, die den geplanten Verlauf oder die Verwendung von speziellen Ressourcen verändern. Um diesen Problemen so früh wie möglich entgegenzuwirken, ist die ständige Weitergabe von Informationen die beste Methode. So besteht die Chance eine Problematik schnellstmöglich zu erkennen und Lösungen zu finden. Auch wird so die Abstimmung über die Wünsche der Kunden oder die Qualitätsansprüche, die sich im Laufe des Projekts nochmals ändern könnten, ermöglicht. 
+Auch die [Kommunikation](Projektkommunikation.md) spielt hierbei eine tragende Rolle. Ein stetiger Austausch über Ziele oder eine Veränderung des Projektplans sind essenziell. Bei jedem Projekt kommt es zu exogenen Einflüssen, die den geplanten Verlauf oder die Verwendung von speziellen Ressourcen verändern. Um diesen Problemen so früh wie möglich entgegenzuwirken, ist die ständige Weitergabe von Informationen die beste Methode. So besteht die Chance eine Problematik schnellstmöglich zu erkennen und Lösungen zu finden. Auch wird so die Abstimmung über die Wünsche der Kunden oder die Qualitätsansprüche, die sich im Laufe des Projekts nochmals ändern könnten, ermöglicht. 
 
 Des Weiteren stärkt die Kommunikation auch das Teamklima. Dadurch, dass beteiligte Personen ohne Umstände die Informationen, die sie für ihren Arbeitsprozess im Projekt benötigen, bekommen, wird Unzufriedenheit oder Unverständnis vorgebeugt. Auch werden Arbeitsabläufe dadurch beschleunigt, da so Leerläufe verhindert werden können.[^2]
 
