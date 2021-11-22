@@ -53,7 +53,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 
 ![Beispielabbildung](RACI/Bild1.png)
 
-Egal wie groß das Unternehmen ist, Tätigkeitsbeschreibungen sollten eindeutig definiert sein, wobei man Zuständigkeiten und Verantwortlichkeiten darstellen sollte. Ob 15 Personen an einem Standort tätig sind oder hunderte Mitarbeiter weltweit vernetzt arbeiten, jeder muss seine Aufgabe genau verstehen. Dies bedeutet, dass bei der Aufgabenverteilung zwischen verschiedenen Punkten unterschieden werden muss
+Beispielhafte RACI-Matrix [^2]
 
 # Vorteile von RACI
 
@@ -88,7 +88,7 @@ Egal wie groß das Unternehmen ist, Tätigkeitsbeschreibungen sollten eindeutig 
 
   
 Pro Aktivität sollte in der Regel nur **eine** Person *accountable* und *responsible* sein. Hingegen können **mehrere** Personen bei einer Aktivität *consulted* oder *informed* sein. Es kann auch vorkommen, dass eine Person für eine Aktivität **gleichzeitig** *accountable* und *responsible* ist. Wenn für eine Aktivität **keine** Person als *responsible* definiert ist, nennt man dies "Lack of responsibility". Wenn **mehr als eine Person**
-responsible ist, spricht man von "overlap in responsibility". 
+responsible ist, spricht man von "overlap in responsibility". [^3]
 
 <br>
 
@@ -125,9 +125,8 @@ Es gibt eine Reihe von Varianten oder Alternativen, die einen ähnlichen Matrix-
 
 # Quellen
 
-[^1]: [Die RACI-Matrix einfach erklärt]
-(https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/raci-matrix/)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^1]: [Wer ist wofür verantwortlich? Diese Methode schafft Übersicht!](https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/raci-matrix/)
+[^2]: [RACI Matrix im Projekt verwenden](https://www.itnator.net/raci-matrix-im-projekt-verwenden/)
+[^3]: [RACI Matrix in der Praxis](https://www.trackplus.com/de/aufgabenmanagement/raci-matrix.html)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
