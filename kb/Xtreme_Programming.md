@@ -5,12 +5,14 @@ author: 29834
 anrechnung: a
 ---
 
+
 # Was ist Extreme Programming?
 
 Extreme Programming, kurz XP, ist die radikalste Umsetzung der agilen Softwareentwicklung. [^1]
 
 Zurückzuführen ist die Methode auf die Softwareentwickler Kent Beck, Ward Cunningham und Ron Jeffries. 
 Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen , da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte.
+
 
 # Eine Agile Methode
 
@@ -24,6 +26,7 @@ Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien u
 
 ![Beispielabbildung] (https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
 
+
 # Rollen
 
 Der <b> Kunde </b> ist der Auftragggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll.
@@ -32,13 +35,8 @@ Diese sind für die Produktentwicklung zuständig.
 Der <b> Produktmanager </b> ist meist ein disziplinarischer Vorgesetzter, allerdings ist diese Rolle im Vergleich zum Productowner eher unwichtig. 
 Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler.
 
-# Werte
 
-* Kommunikation
-* Einfachheit
-* Feedback
-* Mut
-* Respekt
+# Werte
  
 Die <b> Kommunikation </b> zwischen allen Rollen ist extrem wichtig, um Probleme direkt adressieren zu können. 
 So können Missstände direkt behoben werden und permanenter Austausch führt zu gleichem Wissensstand der Entwickler.
@@ -52,6 +50,7 @@ Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Änd
 
 Damit die gemeinsame Arbeit im Team gut funktionieren kann, müssen sich die Teammitglieder gegenseitig <b> Respekt </b> entgegenbringen, auch über das Team hinaus ist Wertschätzung wichtig, zum Beispiel im Kontakt mit dem Kunden.
 
+
 # Prinzipien
 
 * Unmittelbares Feedback
@@ -60,12 +59,15 @@ Damit die gemeinsame Arbeit im Team gut funktionieren kann, müssen sich die Tea
 * Veränderungen annehmen
 * Hochwertige Arbeit
 
+
 # Techniken
+
 
 * Feinstufiges Feedback
 * Kontinuierlicher Prozess
 * Gemeinsames Verständnis
 * Wohlergehen der Entwickler
+
 
 # Vor- und Nachteile
 
