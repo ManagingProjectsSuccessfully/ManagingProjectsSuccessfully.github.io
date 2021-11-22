@@ -89,7 +89,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektmitarbeiter.md)
+* [https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter/projektmit%202.jpg](projektmit 2.jpg)
 
 # Weiterführende Literatur
 
