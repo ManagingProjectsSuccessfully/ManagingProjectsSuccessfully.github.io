@@ -22,6 +22,7 @@ des Best-Case-Szenarios bringen.
 
 Abb.1[^5]: Der Szenariotrichter ist eine Visualisierung des Prozesses und zeigt die wachsende Diskrepanz zwischen den beden Extremszenarien und den 
 Verlauf des Trendszenarios, welches sich in der Regel ungefähr in der Mitte der extremen Prognosen befindet.
+
 Der Zeitverlauf startet in der Gegenwart (linkes Ende) und führt bis zu einem gewünschten Zeitpunkt in der Zukunft (rechtes Ende). Der Abstand zwischen
 der oberen und unteren Begrenzung repräsentiert die unterschiedlichen Bewertungen der jeweiligen Situationen. Bei dieser Abbildung ist auch in der Gegenwart
 eine Diskrepanz zwischen den Szenarien zu erkennen, welche durch alternative Sichtweisen und Meinungen zur aktuellen Situation erklärt wird.[^2]
@@ -29,7 +30,7 @@ Andere Abbildungen verzichten auf dieses Merkmal (s. Abb.2).
 
 
 
-Trends sind in nahezu jedem Bereich beobachtbar und können sehr hilfreich sein um Prognosen zu treffen. So findet man Trends zum Beispiel auch in der
+Trends sind in nahezu jedem (v.a. wirtschaftlichen) Bereich beobachtbar und können sehr hilfreich sein um Prognosen zu treffen. So findet man Trends zum Beispiel auch in der
 [Kosten-Trend-Analyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md), 
 sowie in der [Meilensteintrendanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse.md).
 
