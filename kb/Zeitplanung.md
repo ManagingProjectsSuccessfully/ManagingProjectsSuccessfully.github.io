@@ -64,7 +64,7 @@ Ein Beispiel hierfür wäre ein Hausbau. Man weiß genau zu Beginn, wie lange es
 
 # Quellen
 
-[^1]: [Oxford English Dictionary] (https://www.oed.com/view/Entry/202100?redirectedFrom=Time+Management#eid261247456)
+[^1]: [Oxford English Dictionary](https://www.oed.com/view/Entry/202100?redirectedFrom=Time+Management#eid261247456)
 [^2]: https://link.springer.com/content/pdf/10.1007/978-3-8348-9338-3_2.pdf
 [^3]: https://www.factro.de/blog/magisches-dreieck/
 [^4]: https://link.springer.com/content/pdf/10.1007/BF03341189.pdf
