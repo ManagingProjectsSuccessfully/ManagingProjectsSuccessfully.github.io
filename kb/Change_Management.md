@@ -22,7 +22,7 @@ Mitarbeitenden einer Organisation ausgelegte Sichtweise.
 Dies ist ein wesentlicher Unterschied zu strategischem Management, welches sich an Faktoren im Unternehmensumfeld orientiert[^2][^3].
 
 # Aufgaben und Ziele
-Die Initiierung und Einleitung von Veränderungen in Unternehmen beginnen im Rahmen der strategischen Planung. 
+Die Initiierung und Einleitung von Veränderungen in Unternehmen beginnt im Rahmen der strategischen Planung. 
 Change Management geht einen Schritt weiter. 
 Ziel ist es, den Weg zur Umsetzung der getroffenen Strategie zu fördern und zu gestalten [^2].  
 Die Durchführung von [Change Management in Organisationen](Managing_Change_in_Organisations.md) erfolgt 
@@ -41,10 +41,10 @@ in der Berücksichtigung vorliegender Unternehmensstrukturen- und kulturen[^2].
 Aufgrund der Komplexität der Faktoren ist eine pauschale Anleitung zur erfolgreichen Gestaltung des Wandels nicht vorhanden. 
 Jedoch existieren eine Vielzahl an Modellen zur Gestaltung von [Change Projekten](Change_Projekte.md)[^3].
 Eine oft zu beobachtende Gemeinsamkeit ist die sequentielle Abfolge einzelner Schritte im Verlauf des Veränderungsprozesses [^8]. 
-Zwei der bekanntesten Modelle sind das [8 Stufen Modell von Kotter](8_Step_Process_for_Leading_Change.md) und das 3-Stufen Modell von Lewin [^9][^10].
+Zwei der bekanntesten Modelle sind das [8-Stufen Modell von Kotter](8_Step_Process_for_Leading_Change.md) und das 3-Stufen Modell von Lewin [^9][^10].
 
 ## Lewin Modell
-Lewin unterteilt den Veränderungsprozess in 3 Stufen ein[^9]:
+Lewin unterteilt den Veränderungsprozess in drei Stufen ein[^9]:
 1. unfreezing
 2. moving
 3. freezing
@@ -57,7 +57,7 @@ Erst im folgenden Schritt werden die Neuerungen eingeführt und anschließend al
 *3-Stufen Modell nach Lewin [^13]*
 
 ## Kotter Modell
-Kotter schlägt [8 Stufen auf dem Weg zu erfolgreichem Change Management](8_Step_Process_for_Leading_Change.md) vor.
+Kotter schlägt [8-Stufen auf dem Weg zu erfolgreichem Change Management](8_Step_Process_for_Leading_Change.md) vor.
 Insbesondere stellt dieser die Bedeutung und das Kommunizieren einer gemeinsamen Vision heraus [^10].
 
 ![Beispielabbildung](Change_Management/Kotter_Bild.png)
@@ -66,14 +66,14 @@ Insbesondere stellt dieser die Bedeutung und das Kommunizieren einer gemeinsamen
 
 # Forschung und Praxis
 
-Durch immer kürzere Veränderungszyklen und die zunehmende Schnelllebigkeit in einer globalisierten Welt, hat das Change Management in den letzten 
+Durch immer kürzere Veränderungszyklen und die zunehmende Schnelllebigkeit in einer globalisierten Welt hat das Change Management in den letzten 
 Jahrzehnten eine erhöhte Aufmerksamkeit in Forschung und Praxis erfahren. Trotz dieser Anstrengungen und 
-der daraus entstandenden Vielzahl an Modellen bzw. Vorschläge zur Gestaltungsmöglichkeit, scheitern weiterhin viele [Change-Management-Projekte](Change_Projekte.md) in der Praxis[^12]. 
+der daraus entstandenden Vielzahl an Modellen bzw. Vorschläge zur Gestaltungsmöglichkeit, scheitern weiterhin viele [Change Management Projekte](Change_Projekte.md) in der Praxis[^12]. 
 
 # Siehe auch
 
 * [Projektmanagement](Change_Management.md)
-* [Change-Projekte](Change_Projekte.md)
+* [Change Projekte](Change_Projekte.md)
 * [Veränderungen in Unternehmen gestalten](Managing_Change_in_Organisations)
 * [8-Stufen Modell von John Kotter](8_Step_Process_for_Leading_Change)
 
