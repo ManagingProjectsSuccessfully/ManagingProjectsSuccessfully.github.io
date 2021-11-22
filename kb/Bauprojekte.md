@@ -7,15 +7,14 @@ anrechnung: k
 
 Ein Bauprojekt, auch Bauvorhaben genannt, beschreibt die Errichtung eines in der Regel einmaligen Bauwerks.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Projektmanagement bei Bauprojekten
 
 Das Bauprojektmanagement kann als die Urform des Projektmanagements betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren. 
 Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements[^5]. 
 
-## Aufgaben des Bauprojektmanagements 
+## Aufgaben des Bauprojektmanagements
+
 * Abstimmung aller Entscheidungen mit dem Bauherren
 * Planen des Bauwerks in unterschiedlichen Detaillierungsgraden
 * Schätzung und Kalkulation der Baukosten
@@ -23,9 +22,14 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 * Einholen der Baugenehmigung durch die zuständige Behörde / Kommune
 * Ausschreibung, Vergabe und Abrechnung der Bauleistungen (AVA)
 * Überwachung und Steuerung des Bauprozesses
-* Abnahme und Übergabe des fertigen Gebäudes an den Bauherren und an das nachgelagerte Facility Management [^5]
+* Abnahme und Übergabe des fertigen Gebäudes an den Bauherren und an das nachgelagerte Facility Management 
+[^5]
 
-
+## Klassisches Projektmanagement bei Bauprojekten
+## Agiles Projektmanagament bei Bauprojekten
+## Missglückte Bauprojekte
+## Erfolgreiche Bauprojekte
+### Bachelorstudiengang Projektmanagement Bau
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
