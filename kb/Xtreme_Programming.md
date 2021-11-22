@@ -30,8 +30,10 @@ Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien u
 ## Rollen
 
 Der <b> Kunde </b> ist der Auftragggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll.
+
 Innerhalb des Entwicklerteams gibt es keine Rollentrennung, jeder Mitarbeiter wird unabhängig von seinen Fähigkeiten als <b> Entwickler </b> bezeichnet.
 Diese sind für die Produktentwicklung zuständig.
+
 Der <b> Produktmanager </b> ist meist ein disziplinarischer Vorgesetzter, allerdings ist diese Rolle im Vergleich zum Productowner eher unwichtig. 
 Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler.
 
