@@ -6,22 +6,31 @@ anrechnung: k oder a
 ---
 ## Inhaltsverzeichnis
 > - Definition
+> - Änderung des momentanen Mindsets zur Umsetzung vom Scaled Agile Framework
+> - "SAFe House of Lean
+>   - Maximaler Kundenwert als Ziel
+>   - Säule 1 - Respekt für Menschen und Kultur
+>   - Säule 2 - Flow
+>   - Säule 3 - Innovation
+>   - Säule 4 - Unermüdliche Verbesserung
+>   - Fundament - Führung 
+> - Siehe auch
+> - Weiterführende Literatur
 > - Quellen
 
 ---
 
 # Definition
->*The Lean-Agile Mindset is the combination of beliefs, assumptions, attitudes, and actions of [SAFe](SAFe.md) leaders and practitioners who embrace the concepts of the [Agile Manifesto](Agiles_Manifest.md) and Lean thinking. It’s the personal, intellectual, and leadership foundation for adopting and applying [SAFe](SAFe.md) principles and practices.*[^1]  
+>*The Lean-Agile Mindset is the combination of beliefs, assumptions, attitudes, and actions of [SAFe](SAFe.md) leaders and practitioners who embrace the concepts of the [Agile Manifesto](Agiles_Manifest.md) and Lean thinking. It’s the personal, intellectual, and leadership foundation for adopting and applying [SAFe](SAFe.md) principles and practices.*  
+>Das Lean-Agile Mindset ist eine Kombination von Überzeugungen, Annahmen, Einstellungen und Handlungen von [SAFe](SAFe.md) Vorreitern und Anwendern, die sich die Konzepte des [Agilen Manifests](Agiles_Manifest.md) und des Lean-Denkens zu eigen machen.[^1]
 
->Das Lean-Agile Mindset ist eine Kombination von Überzeugungen, Annahmen, Einstellungen und Handlungen von [SAFe](SAFe.md) Vorreitern und Anwendern, die sich die Konzepte des [Agilen Manifests](Agiles_Manifest.md) und des Lean-Denkens zu eigen machen.
-
-Es beschreibt, Lean und Agile als Herzstück von [SAFe](SAFe.md) und wird von vielen Beiträgen des Frameworks untermauert, die erklären, wie Lean-Agile-Praktiken im großem Umfang implementiert werden können.[^2]
+Es beschreibt, Lean und Agile als Herzstück vom [Scaled Agile Framework](SAFe.md) und stützt sich darauf in vielen Beiträgen des Frameworks. Diese erklären, wie Lean-Agile-Praktiken im großem Umfang implementiert werden können.[^2]
 
 # Änderung des momentanen Mindsets zur Umsetzung vom [Scaled Agile Framework](SAFe.md)
-Zur Umsetzung des [Scaled Agile Framework](SAFe.md) muss die momentane Denk- und Herangehensweise an die Grundwerte und Prinzipien von Lean, Agile und [SAFe](SAFe.md) angepasst werden.[^2]   
+Zur Umsetzung des [Scaled Agile Framework](SAFe.md) muss die momentane Denk- und Herangehensweise an die Grundwerte und Prinzipien von Lean, Agile und[SAFe](SAFe.md) angepasst werden.[^2]   
 
 
-# Lean Denkweise mit dem "SAFe House of Lean"[^1]
+# SAFe House of Lean[^1]
 
 !["SAFe House of Lean"](SAFe_Lean_Agile_Mindset/House-of-Lean-1.png)  
 *Abbildung 1 - SAFe House of Lean*[^1]  
@@ -37,8 +46,8 @@ Eine positive, sichere und leistungsorientierte Umgebung als Firmenkultur führt
 Das Prinzip des Respekts für Menschen und Kultur erstreckt sich auch auf die Beziehungen zu Lieferanten, Partnern, Kunden und der  umliegenden Gemeinschaft.[^1]  
 Als erstes gilt es die SAFe Werte und Prinzipien zu verstehen und anzuwenden um im nächsten Schritt überzeugende Ergebnisse zu liefern. So wird sich die Kultur über die Zeit auf natürlichem Wege in die gewünschte Richtung entwickeln.[^1]
 
-## Säule 2 - Arbeitsverlauf
-Ähnlich wie bei anderen Agilen Vorgehensweisen sind kontinuierliches Feedback und Anpassungen an der Durchführung zur erfolgreichen Durchführung von SAFe essentiell.  [^1]
+## Säule 2 - Flow
+Ähnlich wie bei anderen Agilen Vorgehensweisen sind kontinuierliches Feedback und Anpassungen an der Durchführung zur erfolgreichen Durchführung von [SAFe](SAFe.md) essentiell.  [^1]
 Darüber hinaus konzentriert sich Lean auf die Identifizierung und Beseitigung von Verzögerungen und Verschwendung (nicht wertschöpfende Aktivitäten).[^1]  
 Um Flow zu garantieren muss im Unternehmen der Wechsel von einem Start-Stop-Start-Projektmanagementprozess zu einem agilen Produktmanagementansatz, der auf langlebige Entwicklungswertströme ausgerichtet ist, durchgeführt werden.[^1]
 
@@ -63,9 +72,15 @@ Aus der Führungsperspektive ist Lean etwas anderes als Agile. Agile wurde als t
 Im Gegensatz dazu sind Manager in Lean Führungspersönlichkeiten, die sich die Werte von Lean zu eigen machen, in den grundlegenden Praktiken kompetent sind und diese anderen beibringen.[^1]
 
 # Siehe auch
-[]
+[SAFe Core Values](SAFe_Core_Values.md)  
+[SAFe Agile Release Trains](SAFe_Agile_Release_Trains.md)  
+[SAFe Program Increment Planning](SAFe_Program_Increment_Planning.md)  
+[Lean Projektmanagement](Lean_Projektmanagement.md)
 
 # Weiterführende Literatur
+[Pfannstiel, Mario A. & Steinhoff, Peter F.-J. (2018): Der Enterprise Transformation Cycle: Theorie, Anwendung, Praxis. Wiesbaden: Springer Gabler](https://link.springer.com/book/10.1007%2F978-3-658-22694-7)
+
+[Pfannstiel, Mario A.; Siedl, Werner & Steinhoff, Peter F.-J. (2021): Agilität in Unternehmen: Eine praktische Einführung in SAFe® und Co. Wiesbaden: Springer Gabler](https://link.springer.com/book/10.1007/978-3-658-31001-1)
 
 
 # 
@@ -73,11 +88,8 @@ Im Gegensatz dazu sind Manager in Lean Führungspersönlichkeiten, die sich die 
 # Quellen
 
 [^1]: [Lean-Agile Mindset](https://www.scaledagileframework.com/lean-agile-mindset/)  
-[^2]: [Developing a New Mindset](https://www.scaledagileframework.com/lean-agile-leadership/)   
-[^3]: [Womack, James & Daniel Jones (2003): Lean Thinking: Banish Waste and Create Wealth in your Corporation. Free Press]  
-[^4]. []()
-
-
+[^2]: [Developing a New Mindset](https://www.scaledagileframework.com/lean-agile-mindset/)   
+ 
 
 <!--Kurzbeschreibung zu SAFe_Lean_Agile_Mindset um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
