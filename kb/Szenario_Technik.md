@@ -33,7 +33,7 @@ Andere Abbildungen verzichten auf dieses Merkmal (s. Abb.2).
 
 <img src="Szenario_Technik/szenariotrichter2.png" width="400"/>
 
-Abb.2[^4]: Alternative Darstellung des Szenariotrichters mit Beispielen.
+Abb.2[^4]: Alternative Darstellung des Szenariotrichters mit Beispielbeschriftung.
 
 
 
@@ -46,15 +46,15 @@ Definition und Vorgehensweise der Szenariotechnik zusammen. In jedem Bereich kö
 und Gegen- oder Präventivmaßnahmen ausgearbeitet werden. So eignet sich die Methode sehr gut um Projekt erfolgreich zu leiten und durchzuführen, da
 das Team auf möglichst viele Risiken vorbereitet wird.
 
-## Vergleich mit anderen Methoden
+## Vor- und Nachteile
 
 <img src="Szenario_Technik/Vergleichstabelle.png" width="400"/>
 
-Abb.1[^3] Hier wird die Szenariotechnik anhand ausgewählter Kriterien mit ähnlichen Verfahren verglichen. Einen tieferen Einblick ins Portfoliomanagement
-finden Sie im zugehörigen [Artikel](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md). In diesem Vergleich 
-schneidet die Szenariotechnik am Besten ab, auch wenn sie selbstverständlich Nachteile hat. Einerseits ist die Methode recht aufwendig, da verschiedenste
-Szenarien, sowie entsprechende Maßnahmen entworfen und formuliert werden müssen. Eine weitere Herausforderung ist es dabei, das Modell in der Gesamtheit
-so übersichtlich und verständlich wie möglich zu halten.
+Abb.1[^3] Hier wird die Szenariotechnik anhand ausgewählter Kriterien mit ähnlichen Verfahren verglichen, sodass die Vorteile der Technik gut erkennbar sind. 
+Einen tieferen Einblick ins Portfoliomanagement finden Sie im zugehörigen [Artikel](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md). 
+In diesem Vergleich schneidet die Szenariotechnik am Besten ab, auch wenn sie selbstverständlich Nachteile hat. Einerseits ist die Methode recht aufwendig, da verschiedenste Szenarien, sowie entsprechende Maßnahmen entworfen und formuliert werden müssen. Eine weitere Herausforderung ist es dabei, das Modell in der Gesamtheit so übersichtlich und verständlich wie möglich zu halten. Da aber jeder berücksichtigte Einflussfaktor die Anzahl der möglichen Szenarien vervielfacht[^2], ist es kaum möglich, eine ausführliche Analyse zu erstellen, ohne sehr viel Zeit und Arbeit zu investieren.
+Ein weiteres Problem bilden Extrem-Ereignisse, sogenannte "Wild Cards", wie Kriege oder eine globale Pandemie[^2]. Diese in die Planung miteinzubeziehen ist
+kaum umsetzbar, da entsprechende Vorkehrungsmaßnahmen enorm hohe Kosten bergen.
 
 Kurzbeschreibung zu Szenario_Technik um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
@@ -139,7 +139,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Szenarioanalyse](https://de.wikipedia.org/wiki/Szenarioanalyse)
 * [Link auf diese Seite](Szenario_Technik.md)
 
 # Weiterführende Literatur
