@@ -4,15 +4,11 @@ tags: agil klassisch
 author: eftalyaumat
 anrechnung: k 
 ---
-
-Kurzbeschreibung zu Forecasts um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Forecasts sind Prognosen, die auf aktuellen und vergangenen Daten sowie Trends basieren und anhand unterschiedlicher Methoden für das Projekt wichtige Kennzahlen versuchen so präzise wie möglich vorherzubestimmen. 
 
 # Definition 
 
-Forecasts werden im Projektmanagement als Steuerungselement eingesetzt, um die Erreichung von sowohl kurzfristigen als auch mittelfristigen Zielen zu kontrollieren und zu unterstützen. Durch die Erzeugung von Informationen und den Vergleich vorhergesagter Werte mit den tatsächlich eingetretenen sollen Abweichungen von der Planung frühzeitig erkannt und entgegenwirkende Maßnahmen so früh wie möglich entwickelt und angewendet werden. Forecasts sind hierbei nicht als eine normale Prognose anzusehen, da sie darüber hinausgehen und neben finanziellen und nicht-finanziellen Aspekten auch Simulations- und Szenariotechniken umfassen[^1]. 
+Im Projektmanagement werden Forecasts als Steuerungselement eingesetzt, um die Erreichung von sowohl kurzfristigen als auch mittelfristigen Zielen zu kontrollieren und zu unterstützen. Durch die Erzeugung von Informationen und den Vergleich vorhergesagter Werte mit den tatsächlich eingetretenen sollen Abweichungen von der Planung frühzeitig erkannt und entgegenwirkende Maßnahmen so früh wie möglich entwickelt und angewendet werden. Forecasts sind hierbei nicht als eine normale Prognose anzusehen, da sie darüber hinausgehen und neben finanziellen und nicht-finanziellen Aspekten auch Simulations- und Szenariotechniken umfassen[^1]. Forecasts bilden die Grundlage für die gesamte Projektplanung sowie die Beurteilung der Realisierbarkeit und Rentabilität des Projektziels, die Aufwandsschätzung und die Risikoanalyse[^3].
 
 
 
@@ -35,7 +31,7 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 # Merkmale erfolgreicher Forecasts
 Um zuverlässige Vorhersagen zu erhalten und die gesetzten Ziele zu erreichen, sollten bei der Erstellung eines Forecasts diese Aspekte berücksichtigt werden.
 ## 1. Ehrlichkeit
-Eine rein zielorientierte Herangehensweise ohne die Berücksichtigung vorhandener Ressourcen wird mit höherer Wahrscheinlichkeit zu falschen Vorhersagen führen. Den Forecast so zu bearbeiten, dass er die top down gesetzten Vorgaben erfüllt, wird zu Beginn eines Projekts vielversprechend wirken, jedoch am Ende häufiger die Ziele verfehlen. Deswegen ist eine bottom up Planung, die ehrlich zeigt, wo die Grenzen des Projektes liegen und Probleme frühzeitig aufdeckt, empfehlenswerter[^2]. 
+Eine rein zielorientierte Herangehensweise ohne die Berücksichtigung vorhandener Ressourcen wird mit höherer Wahrscheinlichkeit zu falschen Vorhersagen führen. Den Forecast so zu bearbeiten, dass er die [top down](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Top_Down_Planning.md) gesetzten Vorgaben erfüllt, wird zu Beginn eines Projekts vielversprechend wirken, jedoch am Ende häufiger die Ziele verfehlen. Deswegen ist eine bottom up Planung, die ehrlich zeigt, wo die Grenzen des Projektes liegen und Probleme frühzeitig aufdeckt, empfehlenswerter[^2]. 
 ## 2. Systematik
 Jeder Projektteilnehmer sollte auf dem ersten Blick erkennen können:
 * Wo man sich im Projekt befindet
@@ -51,22 +47,27 @@ Vorhersagen treffen realistisch gesehen nie zu 100% ein, da unkontrollierbare Fa
 # Grundlegende Instrumente von Prognosen 
 Die Vorausbestimmung eines zukünftigen Zustands kann anhand mehrerer Instrumente geschehen. Die folgenden drei Herangehensweisen werden situationsbedingt in unterschiedlichen Projektarten angewendet. 
 ## Erfahrungswissen 
-Prognosen, die auf Erfahrungswerten basieren, stellen zwar die zuverlässigste Methode dar, scheitern jedoch sobald es sich um ein sehr neues und innovatives Projekt handelt, wofür noch kein Repertoire an Wissen existiert, auf das man zurückgreifen könnte. 
+Prognosen, die auf Erfahrungswerten basieren, stellen zwar die zuverlässigste Methode dar, scheitern jedoch sobald es sich um ein sehr neues und innovatives Projekt handelt, wofür noch kein Repertoire an Wissen existiert, auf das man zurückgreifen könnte[^3]. 
 ## Expertenschätzung 
-Wenn kein bereits vorhandenes Erfahrungswissen existiert, dienen Schätzungen von Experten als Orientierungsrahmen. Diese beruhen jedoch meist auf Annahmen, die eine hohe Unsicherheit aufweisen können. 
+Wenn kein bereits vorhandenes Erfahrungswissen existiert, dienen Schätzungen von Experten als Orientierungsrahmen. Diese beruhen jedoch meist auf Annahmen, die eine hohe Unsicherheit aufweisen können[^3]. 
 ## Szenarien 
-"Wenn-dann-Szenarien" prognostizieren potenzielle Entwicklungen und zeigen in großem Umfang die unterschiedlichen Möglichkeiten eines Projektverlaufs auf. 
+"Wenn-dann-Szenarien" prognostizieren potenzielle Entwicklungen und zeigen in großem Umfang die unterschiedlichen Möglichkeiten eines Projektverlaufs auf[^3]. 
 
 # Unterschiedliche Methoden des Forecastings 
-## Effektbasierter Forecast und werttreiberbasierter Forecast 
-## Cost Forecast und Scheduled Forecast 
+Grundsätzlich kann zwischen zwei Arten von Forecasts unterschieden werden. Standard-Forecasts, die regelmäßig angepasst werden, und Ad-hoc-Forecast, die unregelmäßig durchgeführt werden[^1]. Da mit dem Fortschritt des Projektes das Wissen über den tatsächlichen Projektverlauf steigt, können durch Anpassungen präszisere Vorhersagen vorgenommen und der Business Case überprüft und aktualisert werden.
+
+## Earned Value Analysis
+Diese Methode stellt eine Variante des laufenden und regelmäßigen Forecastings dar, welche durch die Berechnung des Schedule Performance Index (SPI) eine Prognose über den Endtermin und und mit dem Cost Performance Index Aussagen über die Entwicklung der Projektkosten bereitstellt. 
+
+## Effektbasierter Forecast 
+Beim effektbasierten Forecast liegt der Fokus auf Effekten und Maßnahmen, die große Veränderungen vorhersagen. Hier wird zwischen wenig beeinflussbaren Effekten wie zum Beispiel den Wegfall von Patenten und beeinflussbaren Maßnahmen wie zum Beispiel der Kürzung des Werbeetats unterschieden. Es werden hier insbesondere Effekte berücksichtigt, die stark vom Basis-Forecast abweichen, um große Effekte in den Fokus zu stellen sowie diese transparent und berichtsfähig zu machen. 
+
+## Werttreiberbasierter Forecast 
+Der werttreiberbasierte Ansatz setzt auf eine Prognose anhand weniger Kennzahlen. Das Hauptaugenmerk liegt bei dieser Methode auf zuvor festgelegten relevanten Geschäftstreiber wie beispielsweise Menge, Preis, Personalkosten. Auf Basis der Vorhersage dieser Werttreiber errechnet sich damit der Forecast für die relevanten Kennzahlen des Projektes. 
+ 
 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Forecasts/test-file.jpg)
 
@@ -122,6 +123,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [Forecast Controlling - Definition: Was bedeutet Forecast im Controlling?](https:/https://www.haufe.de/controlling/controllerpraxis/forecast-controlling/definition-was-bedeutet-forecast-im-controlling_112_453392.html)
 [^2]: [7 Regeln für einen qualitativen Forecast](https://unternehmer.de/marketing-vertrieb/72056-7-regeln-fur-einen-qualitativen-forecast)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [Projektmagazin: Prognose](https://www.projektmagazin.de/glossarterm/prognose)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
