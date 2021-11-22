@@ -4,6 +4,9 @@ tags: agil klassisch
 author: aq07yhug
 anrechnung: k 
 ---
+Alle Projektaufgaben, von der punktuellen theoretischen Phase direkt bis hin zum Ende des Projektlebenszyklus (
+Projektlebenszyklus), produzieren Informationen. Je größer das Projekt ist, desto größer ist die Summe und die Vielfalt von [Informationen](https://www.goodreads.com/book/show/42049169-project-management![image](https://user-images.githubusercontent.com/93120047/142829960-1fee589f-b920-46e1-946e-112af54ded82.png)
+
 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
