@@ -31,6 +31,7 @@ Ein gutes Projektmanagement ist essenziell, um Crunch Time zu vermeiden. Zur Pla
 * [Aufwands_Kosten_Kontrolle](Aufwands_Kosten_Kontrolle.md)
 * [Zeitplanung](Zeitplanung.md)
 * [Magisches Dreieck](Magisches_Dreieck.md)
+* [Kanban](Kanban.md)
 
 # Quellen
 
