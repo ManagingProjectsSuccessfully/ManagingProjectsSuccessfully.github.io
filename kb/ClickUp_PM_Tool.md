@@ -45,10 +45,6 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](ClickUp_PM_Tool/logo.png)
-
-*lustiges Testbild*
-
 # Aspekt 2
 
 * das
@@ -112,7 +108,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: [ClickUp](https://clickup.com)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: [nazrulhoque](https://nazrulhoque.com/blog/my-top-5-project-management-tools/)
 
 
 
