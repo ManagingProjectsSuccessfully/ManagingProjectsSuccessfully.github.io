@@ -20,6 +20,13 @@ Die Durchführung eines Projektes muss ein integriertes Projektmanagementsystem 
 •	ein durchgängig verbundenes und kohärent gestaltetes [Kodierungssystem](https://bizfluent.com/info-7814909-projectcoding-systems.html), das die Projektstruktur bzw. -organisation widerspiegelt
 •	ein vernünftiges IT-System, das mit geeigneter Software ausgestattet ist und das als Datenbank funktioniert.[^5]
 
+## 2.2	Datenbankmanagementsysteme in PM
+
+Jeder Projektleiter (Projektleiter) muss sich auf ein leistungsfähiges Projektmanagementinformationssystem (PMIS) http://projektmanagement-definitionen.de/glossar/projektmanagement-informationssystem-pmis/ angewiesen sein. Es ist unrealistisch, sich mit einem unvorhersehbares Element ein fortgeschrittenes Projekt zu bewältigen. Systeme zur Planung (Projektplanung), Budgetierung, Beobachtung, Informationenaufschlüsselung und spezifische Berichterstattung (Projektabschlussbericht) haben sich als grundlegend erwiesen.[^6] Ohne ein anständiges Informationssystem können die Manager ihr Projekt nicht kontrollieren und werden bis zum ["Point of no Return"](https://en.wikipedia.org/wiki/Point_of_no_return ) nicht wissen, was vor sich geht oder was von ihnen erwartet wird. Sie sollten die Zeit für die Suche nach Informationen aufwenden.[^7]
+
+Das PMIS sollte ein Datenbankmanagementsystem sein, bei dem alle Datensätze in einer Datenbank gespeichert werden, die allen Informationsmodulen regelmäßig zur Verfügung steht. Ein Teil der höherwertigen Projektmanagementsoftwarepakete (Projektmanagementsoftware) werden mit solchen Datenbanken geliefert.[^8] Außerdem ist die Entwicklung eines vollständig integrierten und absolut guten Systems zu entwerfen, ein bedeutendes Unterfangen, das viel Analyse der bestehenden Strategien über ein Projekt voraussetzt.[^9]
+
+
 
 
 
