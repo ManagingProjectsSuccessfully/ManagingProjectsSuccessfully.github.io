@@ -13,7 +13,7 @@ Comliance im Projektmanagement beschreibt im Prinzip, das regelgetreue Verhalten
 Ein elementares Bestreben eines jeden Unternehmens sollte es sein, die nationalen und internationalen Rechtsverordnungen und Bestimmungen einzuhalten. So gibt es spezifisch im Bezug auf Compliance eine entsprechende ISO-Norm: [ISO 37301:2021](https://www.iso.org/standard/75080.html). Diese Norm spezifiziert Anforderungen und enthält Richtlinien für die Einrichtung, Entwicklung, Implementierung, Bewertung, Aufrechterhaltung und Verbesserung eines effektiven Compliance-Managements innerhalb einer Organisation. (International Organization for Standardization: ISO 37301:2021)
  
  
-## Risiken und Prävention
+## Integration von Compliance im Unternehmen
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -21,11 +21,11 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Compliance_im_Projektmanagment/test-file.jpg)
+![Beispielabbildung](Compliance_im_Projektmanagment/Compliance-Management-System-CMS.jpg)
 
 *lustiges Testbild*
 
-## Integration von Compliance im Unternehmen
+## Risiken und Prävention
 
 * das
 * hier 
