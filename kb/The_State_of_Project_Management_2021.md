@@ -77,8 +77,8 @@ Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in versch
 
 # Weiterführende Literatur
 
-* Wellington (https://wellingtone.co.uk/)
-* PMI (https://www.pmi.org/)
+* [Wellington](https://wellingtone.co.uk/)
+* [PMI](https://www.pmi.org/)
 
 # Quellen
 [^1]: [The State of Project Management Annual Report 2021 (YouTube)](https://www.youtube.com/watch?v=hZd5SgZWoWU)
