@@ -23,12 +23,15 @@ Es ist wichtig die Projektinhalte zu definieren, also im Vorhinein festzulegen w
 
 ## Beispiele für Dokumentationsinhalte [^4]
 
-* fachliche Konzepte 
-* technische Konzepte
-* Design-Vorgaben
-* Projektreports / Statusberichte
-* Protokolle
-* Dokumente der Projektplanung (Projektauftrag, Projektstrukturplan, Meilensteinplanung, Risikoanalyse, Umfeldanalyse, ….)
+| Name         | Erklärung     |
+| ------------ | ------------- |
+| Unterlagen zum Projektablauf  |   Unterlagen wie Dokumente über das Projekt, abgeschlossene Aufgaben, Verträge und Vereinbarungen mit Kunden aus vergangenen Projekten haben für kommende Projekte einen großen Nutzen.|
+| Meilensteine  | Klare Ziele zu definieren und Meilensteine zusetzen sind Grundlage einer guten Zusammenarbeit im Team. Durch die Dokumentation sind Entscheidungen gebündelt, für alle sichtbar und noch im Nachhinein nachvollziehbar.  |
+| Statusberichte | In einem Team mit mehreren Beteiligten, wird zeitgleich an unterschiedlichen Prozessen gearbeitet. Damit eine Übersicht über die einzelnen Arbeitsschritte entsteht, sind Reportings von den einzelnen Teammitgliedern wichtig. |
+| Protokolle aus Meetings und Workshops | In gemeinsamen Meetings wird die Projektkommunikation gefördert. Es wird auf Fehler und Mängel eingegangen und Lösungen erarbeitet. Wenn sich Aufgaben wiederholen helfen die daraus entstehenden Protokolle die selben Fehler zu vermeiden, oder Informationen zur Lösungsbehebung parat zu haben |
+| Projektplanung | Der Projektplan beinhaltet alle Aufgaben, die im Zusammenhang mit dem Projekt stehen. Er besteht aus einzelnen Arbeitsschritten, auf die Mitarbeiter und Ressourcen aufgeteilt werden. Aufgaben werden mit verschiedenen Prioritäten versehen, um die Relevanz zu stützen |
+| Zeiterfassung | Durch die Strukturierung der Aufgaben entsteht ein genauer Zeitplan, mit dem die zukünftige Dauer von ähnlichen Aufgaben bestimmt werden kann. |
+| Verwendete Projektmethoen | Werkzeuge mit denen Aufgaben umgesetzt werden konnten. Wie beispielsweise Projektstrukturpläne (PSP), Gantt-Diagramme oder der Projektumfeldanalyse. |
 
 ![Beispielabbildung](Projektdokumentation/test-file.jpg)
 
@@ -45,12 +48,7 @@ Es ist wichtig die Projektinhalte zu definieren, also im Vorhinein festzulegen w
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
@@ -85,5 +83,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
 [^2]: https://www.factro.de/blog/projektdokumentation/
 [^3]: https://dieprojektmanager.com/projektdokumentation-wichtige-grundregeln/
-[^4]: https://dieprojektmanager.com/projektdokumentation-wichtige-grundregeln/
+[^4]: https://www.factro.de/blog/projektdokumentation/
 
