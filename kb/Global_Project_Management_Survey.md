@@ -5,52 +5,26 @@ author: danielleilei
 anrechnung: a
 ---
 
-Kurzbeschreibung zu Global_Project_Management_Survey um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Die Global Project Management Survey dienen dazu, von Firmen bereits durchgeführte Projekte im Nachgang zu untersuchen, um realistische Aussagen über den Ablauf, die Art, den Erfolg/Misserfolg und alle weiteren wichtigen Faktoren innerhalb der weltweit in Unternehmen durchgeführten Projektmanagements zu erhalten und darauf aufbauend für die Zukunft neue Trends zu identifizieren beziehungsweise neuen Entwicklungsbedarf zu sichten/abzuleiten.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums soll natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Global Project Management Survey dienen dazu, von Firmen bereits durchgeführte Projekte im Nachgang zu untersuchen, um realistische Aussagen über den Ablauf, die Art, den
+Erfolg/Misserfolg und alle weiteren wichtigen Faktoren innerhalb der weltweit in Unternehmen durchgeführten Projektmanagements zu erhalten und darauf aufbauend für die Zukunft 
+neue Trends zu identifizieren beziehungsweise neuen Entwicklungsbedarf zu sichten/abzuleiten.
 
 
-# Historische und aktueller Stand zu den Global Project Management Surveys
+# Historische Entwicklung und aktueller Stand zu den Global Project Management Surveys
+
 Von der Deutschen Gesellschaft für Projektmanagement e.V. (GPM) wurde erst und auch einmalig eine solche Studie im Jahr 2010 durchgeführt[^1].
 Da es sich hier um einen veraltetet und nicht jährlich aktualisierten Report handelt, wird dieser im weiterem nicht betrachtet und analysiert. Jedoch lässt sich der Report in
 Hinblick auf die Entwicklung des Projektmanagements innerhalb der letzten 10 Jahre als Vergleich zu aktuellen Reports heranziehen.
 
 Aktuelle Entwicklungen werden vom Project Management Institute (PMI) in einem jährlich veröffentlichten Report, beginnend im Jahr 2006, erfasst[^2].
+Dieser Report trägt den Namen "Pulse of Profession" und wird durch die Zusammenarbeit und Befragung weltweit agierender Unternehmen und deren mit dem Projektmanagement betrauten
+Mitarbeitern erstellt. Durch die Vielzahl an Daten und den jährlichen Befragungsturnus kann der "Pulse of Profession" als eine der wichtigsten Studien in Bezug
+auf Projektmanagement weltweit angesehen werden, der den aktuellen Stand innerhalb der Unternehmen abbilden kann.
+Die Herausgeber der Studie, das Project Management Institute wird "als die weltweit führende Autorität im Projektmanagement"[^3][^4][^5] angesehen, wodurch die Daten, 
+deren Erhebung, Verarbeitung und Veröffentlicung als valide angesehen werden kann. 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Global_Project_Management_Survey/test-file.jpg)
 
@@ -125,6 +99,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [Deutsche Gesellschaft für Projektmanagement e.V.](https://www.gpm-ipma.de/know_how/studienergebnisse/global_project_management_survey.html)
 [^2]: [Project Management Institute (2021). Beyond Agility: Flex to the Future. Pulse of the Profession](https://www.pmi.org/learning/thought-leadership/pulse)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^3]: [Businesswire (2021)](https://www.businesswire.com/news/home/20210324005874/de/)
+[^4]: [Onvista (2021)](https://www.onvista.de/news/der-bericht-pulse-of-the-profession-von-2021-des-pmi-enthuellt-die-vorteile-der-organisatorischen-flexibilitaet-in-zeitengrosser-veraenderungen-444246997)
+[^5]: [Boerse.de (2018)](https://www.boerse.de/nachrichten/PMI-2018-Pulse-of-the-Profession-Detailbericht/7955140)
