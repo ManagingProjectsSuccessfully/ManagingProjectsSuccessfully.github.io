@@ -6,8 +6,8 @@ anrechnung: k
 ---
 # Business Cases
 ## Inhaltsverzeichnis
-* [1. Definition]
-* 2. Etymologie
+* [1. Definition](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#1-definition)
+* [2. Etymologie](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#2-etymologie)
 * 3. Bestandteile
 * 4. Bedeutung
 * 5. Vorteile
