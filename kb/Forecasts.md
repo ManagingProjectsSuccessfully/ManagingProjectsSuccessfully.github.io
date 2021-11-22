@@ -7,31 +7,12 @@ anrechnung: k
 Forecasts sind Prognosen, die auf aktuellen und vergangenen Daten sowie Trends basieren und anhand unterschiedlicher Methoden für das Projekt wichtige Kennzahlen versuchen so präzise wie möglich vorherzubestimmen. 
 
 # Definition 
-
-Im Projektmanagement werden Forecasts als Steuerungselement eingesetzt, um die Erreichung von sowohl kurzfristigen als auch mittelfristigen Zielen zu kontrollieren und zu unterstützen. Durch die Erzeugung von Informationen und den Vergleich vorhergesagter Werte mit den tatsächlich eingetretenen sollen Abweichungen von der Planung frühzeitig erkannt und entgegenwirkende Maßnahmen so früh wie möglich entwickelt und angewendet werden. Forecasts sind hierbei nicht als eine normale Prognose anzusehen, da sie darüber hinausgehen und neben finanziellen und nicht-finanziellen Aspekten auch Simulations- und Szenariotechniken umfassen[^1]. Forecasts bilden die Grundlage für die gesamte Projektplanung sowie die Beurteilung der Realisierbarkeit und Rentabilität des Projektziels, die Aufwandsschätzung und die Risikoanalyse[^3].
-
-
-
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Im Projektmanagement werden Forecasts als Steuerungselement eingesetzt, um die Erreichung von sowohl kurzfristigen als auch mittelfristigen Zielen zu kontrollieren und zu unterstützen. Durch die Erzeugung von Informationen und den Vergleich vorhergesagter Werte mit den tatsächlich eingetretenen sollen Abweichungen von der Planung frühzeitig erkannt und entgegenwirkende Maßnahmen so früh wie möglich entwickelt und angewendet werden. Forecasts sind hierbei nicht als eine normale Prognose anzusehen, da sie darüber hinausgehen und neben finanziellen und nicht-finanziellen Aspekten auch Simulations- und [Szenariotechniken](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Szenario_Technik.md) umfassen[^1]. Forecasts bilden die Grundlage für die gesamte Projektplanung sowie die Beurteilung der Realisierbarkeit und Rentabilität des Projektziels, die Aufwandsschätzung und die [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md)[^3].
 
 # Merkmale erfolgreicher Forecasts
 Um zuverlässige Vorhersagen zu erhalten und die gesetzten Ziele zu erreichen, sollten bei der Erstellung eines Forecasts diese Aspekte berücksichtigt werden.
 ## 1. Ehrlichkeit
-Eine rein zielorientierte Herangehensweise ohne die Berücksichtigung vorhandener Ressourcen wird mit höherer Wahrscheinlichkeit zu falschen Vorhersagen führen. Den Forecast so zu bearbeiten, dass er die [top down](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Top_Down_Planning.md) gesetzten Vorgaben erfüllt, wird zu Beginn eines Projekts vielversprechend wirken, jedoch am Ende häufiger die Ziele verfehlen. Deswegen ist eine bottom up Planung, die ehrlich zeigt, wo die Grenzen des Projektes liegen und Probleme frühzeitig aufdeckt, empfehlenswerter[^2]. 
+Eine rein zielorientierte Herangehensweise ohne die Berücksichtigung vorhandener Ressourcen wird mit höherer Wahrscheinlichkeit zu falschen Vorhersagen führen. Den Forecast so zu bearbeiten, dass er die [top down](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Top_Down_Planning.md) gesetzten Vorgaben erfüllt, wird zu Beginn eines Projekts vielversprechend wirken, jedoch am Ende häufiger die Ziele verfehlen. Deswegen ist eine [bottom up](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Bottom_Up_Planning.md) Planung, die ehrlich zeigt, wo die Grenzen des Projektes liegen und Probleme frühzeitig aufdeckt, empfehlenswerter[^2]. 
 ## 2. Systematik
 Jeder Projektteilnehmer sollte auf dem ersten Blick erkennen können:
 * Wo man sich im Projekt befindet
@@ -54,9 +35,9 @@ Wenn kein bereits vorhandenes Erfahrungswissen existiert, dienen Schätzungen vo
 "Wenn-dann-Szenarien" prognostizieren potenzielle Entwicklungen und zeigen in großem Umfang die unterschiedlichen Möglichkeiten eines Projektverlaufs auf[^3]. 
 
 # Unterschiedliche Methoden des Forecastings 
-Grundsätzlich kann zwischen zwei Arten von Forecasts unterschieden werden. Standard-Forecasts, die regelmäßig angepasst werden, und Ad-hoc-Forecast, die unregelmäßig durchgeführt werden[^1]. Da mit dem Fortschritt des Projektes das Wissen über den tatsächlichen Projektverlauf steigt, können durch Anpassungen präszisere Vorhersagen vorgenommen und der Business Case überprüft und aktualisert werden.
+Grundsätzlich kann zwischen zwei Arten von Forecasts unterschieden werden. Standard-Forecasts, die regelmäßig angepasst werden, und Ad-hoc-Forecast, die unregelmäßig durchgeführt werden[^1]. Da mit dem Fortschritt des Projektes das Wissen über den tatsächlichen Projektverlauf steigt, können durch Anpassungen präszisere Vorhersagen vorgenommen und der [Business Case](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md) überprüft und aktualisert werden.
 
-## Earned Value Analysis
+## [Earned Value Analysis](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Earned_Value_Analyse.md)
 Diese Methode stellt eine Variante des laufenden und regelmäßigen Forecastings dar, welche durch die Berechnung des Schedule Performance Index (SPI) eine Prognose über den Endtermin und und mit dem Cost Performance Index Aussagen über die Entwicklung der Projektkosten bereitstellt. 
 
 ## Effektbasierter Forecast 
@@ -73,41 +54,11 @@ Der werttreiberbasierte Ansatz setzt auf eine Prognose anhand weniger Kennzahlen
 
 *lustiges Testbild*
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punktelist
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
