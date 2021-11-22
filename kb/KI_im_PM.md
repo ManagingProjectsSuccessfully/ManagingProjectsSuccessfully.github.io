@@ -1,50 +1,78 @@
 ---
 title: KI_im_PM
-tags: agil klassisch
+tags: klassisch
 author: SimaSol
 anrechnung: k
 ---
 
 
-# Künstliche Intelligenz im Projektmanagement
+# Künstliche Intelligenz im [Projektmanagement](Projektmanagement.md)
 
 Künstliche Intelligenz (KI) oder im Englischen Artificial Intelligence (AI) genannt, ist ein Teilbereich von Data Science, welcher abermals ein Teilbereich der Informatik ist. 
-KI als Oberbegriff lässt sich folglich in Maschinelles Lernen (eng. Machine Learning), Neuronale Netze und Deep Learning unterteilen. 
+KI als Oberbegriff lässt sich folglich in [Maschinelles Lernen](Machine_Learning_im_Projektmanagement.md) (eng. [Machine Learning](Machine_Learning_im_Projektmanagement.md)), Neuronale Netze und Deep Learning unterteilen. 
 Das Forschungsgebiet der KI versucht, menschliche Wahrnehmung und menschliches Handeln sowie Denken durch Maschinen zu erfassen und nachzubilden[^1]. 
 
 # Inhaltsverzeichnis
 1. Allgemeines über die KI <br>
     1.1 Aufgaben der KI <br>
     1.2 Bedeutsamkeit der KI
-2. KI im Projektmanagement <br>
-  2.1 Voraussetzungen der KI im Projekmanagement <br> 
+2. KI im [Projektmanagement](Projektmanagement.md) <br>
+  2.1 Voraussetzungen der KI im [Projekmanagement](Projektmanagement.md) <br> 
   2.2 Einführung in Projekmanagement-KI <br>
-  2.3 Einsatz von KI in Projekten <br>
-  2.4 Einsatz von KI in Invensity
+  2.3 Einsatz von KI in [Projekten](Projekt.md) <br>
+  2.4 Einsatz von KI in [Invensity](https://www.invensity.com/)
   
 # 1. Allgemeines über die KI
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Heutzutage gewinnt die Künstliche Intelligenz aufgrund von großen Datenmengen, hoch entwickelter Algorithmen und Verbesserungen bei Rechenleistung und Datenspeicherung immer mehr an Bedeutung. 
+Dadurch werden die KI und ihre Fähigkeiten nun auch in verschiedenen Bereichen wie Gesundheitswesen, Forschung und Sport als auch in der und Unternehmenswelt vermehrt eingesetzt [^2].
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## 1.1 Aufgaben der KI
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Eine der Hauptaufgaben der KI ist es, Maschinen die Fähigkeit zu verleihen, Aufgaben autonom und mit der Hilfe von Algorithmen ausführen zu können. 
+Außerdem wird gleichzeitig versucht menschliches Lernen und Denken auf einen Computer zu übertragen und ihm damit Intelligenz zu verleihen, sodass dieser aus Erfahrung lernen, sich auf neu eingehende Informationen einstellen und verschiedene Aufgaben und Probleme bewältigen kann [^3]. 
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## 1.2 Bedeutsamkeit der KI
 
+Warum künstliche Intelligenz so wichtig ist, lässt sich durch verschiedene Aspekte begründen. 
+Zum einen ermöglicht die KI mithilfe von neuronalen Netzen die Analyse größerer Datenmengen, zum anderen ist sie mittels progressiven Lernalgorithmen viel wandlungsfähiger. 
+Außerdem schöpft die künstliche Intelligenz das volle Potenzial von Daten aus und kann Unternehmen somit einen Wettbewerbsvorteil verschaffen [^2].
+
+# 2. KI im Projekmanagement 
+
+Künstliche Intelligenz gewinnt auch im [Projektmanagement](Projektmanagement.md) der Unternehmensbranche immer mehr an Bedeutung. 
+Bis heute können [Projekte](Projekt.md) noch nicht vollumfänglich durch die KI gesteuert werden, jedoch sind diese mittlerweile im Arbeitsalltag deutlich bemerkbar. 
+Auf lange Sicht gesehen wird die AI Projektmanager*Innen weitestgehend von administrativen Tätigkeiten entlasten, sodass zwischenmenschliche Kernkompetenzen wie beispielsweise Kommunikation, Führung und Empathie stärker in den Fokus gerückt werden können [^4].
+
+## 2.1 Voraussetzungen der KI im Projektmanagement
+
+Es werden drei Faktoren als wichtig für die Einführung von KI im Bereich des [Projektmanagements](Projektmanagement.md) angesehen. 
+Eine der wichtigsten Triebkräfte sind grundsätzlich die Verfügbarkeit von KI-gesteuerten Systemen innerhalb der Organisation, die vorhandene Erfahrung sowie die Nachfrage nach Innovation und Wertschöpfung. 
+Außerdem gehören die Produktivitätssteigerung, Entscheidungsfindung und Gesamtleistung im [Projektmanagement](Projektmanagement.md) zu den wichtigsten Vorteilen der Einführung von KI-Technologien in [Projekten](Projekt.md) [^5].
+
+## 2.2 Einführung in Projektmanagement-KI
+
+Das Projektmanagement-KI ist ein System, welches in der Lage ist, das Tagesgeschehen in verschiedenen [Projekten](Projekt.md) zu managen, ohne dabei auf den menschlichen Input angewiesen zu sein.
+Zum einen bedeutet dies die Automatisierung von Routinetätigkeiten wie zum Beispiel die Erstellung von Statusreports. 
+Zum anderen generiert das System neue Einsichten in die Projekt-Performance. 
+KI ist also in der Lage, im Rahmen der [Software](KI_Software_fuer_Projektmanagement.md)-Entwicklung jede Änderung am Quellcode nachzuvollziehen, sodass sich eine Verbindung zwischen auftretenden Bugs, den zugehörigen Codes und den damit verbundenen Arbeitspaketen herstellen lässt. 
+Eine solche Analyse deckt die Feinheiten in den Arbeits- und Verhaltensmustern des Projektteams auf. 
+Sie befähigt es allen Mitarbeiter*Innen, das angemessenste Arbeitspaket in Bezug auf individuelle Fähigkeiten und Arbeitstempo auszufiltern, so schnell wie möglich aus Fehlern zu lernen und damit ein nachhaltigeres Wissensmanagement aufzubauen [^4].
+
+## 2.3 Einsatz von KI in [Projekten](Projekt.md)
+
+Die KI hat das Potential das [Projektmanagement](Projektmanagement.md) an mehreren Stellen entscheidend zu entlasten. 
+So können Anpassungen und Optimierungen von Projektplänen aufgrund von Verzögerungen, Kapazitätsengpässen oder anderen Elementen des [Risikomanagements](Risikomanagement.md) vorgenommen werden. 
+Außerdem können große Datenmengen schnell analysiert werden und nebenbei auf Erfahrungswerte zurückgegriffen werden [^6]. <br>
+KI gibt den Unternehmen des Weiteren die Möglichkeit durch das [Maschinellen Lernen](Machine_Learning_im_Projektmanagement.md) einige Schritte im Verlauf eines [Projektes](Projekt.md) besser zu organisieren. 
+Verbesserungspotenzial durch Machine Learning ist in Phasen wie der Planung, Ausführung und dem Controlling möglich [^1].
+
+## 2.4 Einsatz von KI in [Invensity](https://www.invensity.com/)
+
+[Invensity](https://www.invensity.com/) ist eine globale Technologie- und Innovationsberatung, die ihre Unternehmenspartnern und Kunden bei Produktentwicklungen unterstützen. 
+Sie hat sich die KI und ihr [Maschinelles Lernen](Machine_Learning_im_Projektmanagement.md) zu Nutze gemacht und mit der „AI Use Case Analysis“ eine Methode entwickelt, um das [Projektmanagement](Projektmanagement.md) zu optimieren. 
+Hierbei gibt es kein zentrales Tool, sondern ein Set an unterschiedlichen Werkzeugen in Form von Algorithmen, die ineinandergreifen. 
+Ihre Absicht ist es, verschiedene Arten von Daten zu analysieren und auszuwerten, damit Probleme in Projekten gelöst werden können, die bislang nicht lösbar erschienen, wie beispielsweise in den Bereichen der Aufwandsschätzung, Zeitplanerstellung, Ressourcenzuordnung oder im Projektreporting [^6].
 
 # Aspekt 1
 
@@ -58,51 +86,16 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
 
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](KI_im_PM.md)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+# Abkürzungsverzeichnis
+KI = Künstliche Intelligenz <br>
+AI = Artificiale Intelligence <br>
+PM = Projektmanagement
 
 # Quellen
 
