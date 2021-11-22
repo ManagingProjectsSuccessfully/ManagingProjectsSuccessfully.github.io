@@ -16,7 +16,7 @@ Die Kostendimension bezeichnet die finanziellen Aufwände und das für das Proje
 ### 1.3	Leistungsdimension
 Unter Leistungs-, oder Qualitätsdimension versteht man die zu erfüllenden Aufgaben und das daraus resultierende, erwünschte Ergebnis. Damit beeinflusst sie den Inhalt und Umfang des Projekts entscheidend und sollte mit jedem Steakholder und Beteiligten abgesprochen sein. Die Ziele der Leistungsdimension müssen nach der Smart-Formel aufgebaut sein.
 
-Alle 3 Dimensionen haben eine direkte Verbindung und Wirkung zueinander. Die Hauptaufgabe des magischen Dreiecks ist dabei, diese darzustellen und somit das Planen eines Projektes zu erleichtern. Praktische Anwendungen des magischen Dreiecks sind dabei beispielsweise die umfassende Planung eines Projekts, das Festlegen von klaren Zielen, das Erkennen von Risiken, die Möglichkeit auf kurzfristige Änderungen des Projekts dynamisch und flexibel zu reagieren und die Überprüfung, ob die Ziele am Ende des Projekts erreicht wurden.
+Alle 3 Dimensionen haben eine direkte Verbindung und Wirkung zueinander. Die Hauptaufgabe des magischen Dreiecks ist dabei, diese darzustellen und somit das Planen eines Projektes zu erleichtern. Praktische Anwendungen des magischen Dreiecks sind dabei beispielsweise die umfassende Planung eines Projekts, das Festlegen von klaren Zielen, das Erkennen von Risiken, die Möglichkeit auf kurzfristige Änderungen des Projekts dynamisch und flexibel zu reagieren und die Überprüfung, ob die Ziele am Ende des Projekts erreicht wurden. [^1]
 
 ## 2. Zielkonflikte des magischen Dreiecks
 Eine der Kernfunktionen des magischen Dreiecks ist es zudem, die Konflikte zwischen den einzelnen Dimensionen aufzuzeigen. Dabei fällt auf, dass die individuelle Veränderung einer Dimension zwangsläufig auch die Veränderung und Verschiebung der anderen bedeutet. 
@@ -25,9 +25,9 @@ Die Dimensionen Kosten und Zeit geraten besonders dann in Konflikt, wenn der ang
 ### 2.2 Leistung vs. Zeit
 Eine weitere Möglichkeit die Projektfrist einzuhalten wäre die Qualität des Produktes anzupassen, was zur Folge eine Beeinträchtigung der Leistungsdimension hätte. Die Ziele werden dann -außer man ist bereit zu akzeptieren, dass die Zeitdimension sich verschiebt- nicht erreicht.
 ### 2.3Leistung vs. Kosten
-Diese beiden Größen stehen besonders dann in Konflikt, wenn Probleme bei der Einhaltung der Leistungsdimension bestehen. Dann gilt es abzuwägen, ob man diese Probleme mit einer Kostenerhöhung anpasst und damit die Ziele der Kostendimension in Gefahr bringt oder die Leistung des Produkts und somit auch die Leistungsdimension schmälert.
+Diese beiden Größen stehen besonders dann in Konflikt, wenn Probleme bei der Einhaltung der Leistungsdimension bestehen. Dann gilt es abzuwägen, ob man diese Probleme mit einer Kostenerhöhung anpasst und damit die Ziele der Kostendimension in Gefahr bringt oder die Leistung des Produkts und somit auch die Leistungsdimension schmälert.[^2]
 
-Diese Konflikte sind unvermeidbar, entscheidend ist es jedoch sie möglich gering zu halten. Das passiert, indem man die beispielsweise offen kommuniziert, die Erwartung aller Stakeholder zusammenführt und ausbalanciert oder für alle Dimensionen einen Puffer einbaut, damit die Beziehung innerhalb des Dreiecks intakt bleibt, selbst wenn sich unerwartete Veränderungen ergeben.
+Diese Konflikte sind unvermeidbar, entscheidend ist es jedoch sie möglich gering zu halten. Das passiert, indem man die beispielsweise offen kommuniziert, die Erwartung aller Stakeholder zusammenführt und ausbalanciert oder für alle Dimensionen einen Puffer einbaut, damit die Beziehung innerhalb des Dreiecks intakt bleibt, selbst wenn sich unerwartete Veränderungen ergeben. [^3]
 Kurzbeschreibung zu Magisches_Dreieck um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
