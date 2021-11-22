@@ -19,8 +19,9 @@ Der Begriff "Vorgehensmodell" beschreibt eine... -definiertes Vorgehen -Standard
   - Aktivitäten in logischer Ordnung verknüpft
   - Vorgehensmodell als Rahmen, Richtlinie, ...
   - andere Übersicht siehe [^70]
-* Definition des Begriffs?
-* Gängige Vorgehensmodelle?
+* Definition des Begriffs
+* Nutzen/Vorteile eines Vorgehensmodells
+* Geschichte von Vorgehensmodellen?
 * Englische Synonyme / ähnlich verwendete Begriffe
   - (approach) (- nur im Zusammenhang z.B. "agile approach" aber dann nicht zwingend "Vorgehensmodell", sondern auch Herangehensweise etc.)
   - process model
@@ -28,17 +29,20 @@ Der Begriff "Vorgehensmodell" beschreibt eine... -definiertes Vorgehen -Standard
   - method?? könnte im PMBOK guide Vorgehensmodell unter deren Definition Method fallen?
   - development approach / life cycle?
 * Einordnung agil/klassisch (gibt sowohl als auch, evtl. mehr Beispiele ausführen für k, da Anrechnung k)
+* Gängige Vorgehensmodelle?
 * Mehrere Beispiele für Vorgehensmodelle erklären? Oder nur verlinken? (Was bietet sich an/wozu gibt es eigenen Artikel?)
-  - Wasserfall *Link*
-  - V-Modell
+  - Wasserfall *Link* (k)
+  - V-Modell (XT) (k)
   - Spiralmodell
   - (PRINCE2 *Link*)
-  - Extreme Programmierung/Xtreme Programming *Link*
+  - Extreme Programmierung/Xtreme Programming *Link* (a)
   - Scrum *Link*
   - (Six Sigma *Link*) [^10]
-  - Rational Unified Process [^40]
+  - Rational Unified Process [^40] (k) [^70]
   - PMBOK [^50]
   - weitere Kurzübersicht siehe https://www.itwissen.info/Vorgehensmodell-V-Modell.html
+  - Crystal (a)
+  - Microsoft Solutions Framework (a) [^70]
 
 * Verschiedene Arten von Vorgehensmodellen:
   - lineare Vorgehensmodelle oder Phasenmodelle
