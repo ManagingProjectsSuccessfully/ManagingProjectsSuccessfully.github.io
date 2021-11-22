@@ -5,7 +5,7 @@ author: eberto99
 anrechnung: k
 ---
 
-Als Hackathon wird eine [kollaborative](https://www.duden.de/rechtschreibung/kollaborativ) Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine Lösung zu einer zuvor definierten Problemstellung erarbeiten.[^]
+Als Hackathon wird eine [kollaborative](https://www.duden.de/rechtschreibung/kollaborativ) Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine Lösung zu einer zuvor definierten Problemstellung erarbeiten.[^7]
 
 Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird hier das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf die zeitliche Komponente des Events, wobei die Teilnehmer zwischen 12 und 48 Stunden Zeit haben.[^]
 
@@ -36,7 +36,7 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 
 # Entstehung und Geschichte - Wrap-Up
 
-Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Dabei handelte es sich zum einen um die Ausbesserung des Betriebssystems [OpenBSD](https://de.wikipedia.org/wiki/OpenBSD) und zum anderen um die Weiterentwicklung von Software für den damals beliebten Taschenkommunikator [„Palm Pilot“](https://de.wikipedia.org/wiki/Palm_Pilot), der Firma [Sun Microsystems](https://de.wikipedia.org/wiki/Sun_Microsystems).[^]
+Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Dabei handelte es sich zum einen um die Ausbesserung des Betriebssystems [OpenBSD](https://de.wikipedia.org/wiki/OpenBSD) und zum anderen um die Weiterentwicklung von Software für den damals beliebten Taschenkommunikator [„Palm Pilot“](https://de.wikipedia.org/wiki/Palm_Pilot), der Firma [Sun Microsystems](https://de.wikipedia.org/wiki/Sun_Microsystems). [^1][^1]
  
 Seitdem haben sich die Hackathon in ihrer Art und Weise, ihrem Ausmaß und ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen sehr stark weiterentwickelt.[^]
 
