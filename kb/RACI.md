@@ -8,7 +8,7 @@ anrechnung: k
 Mit RACI wird eine Technik zur Analyse und Darstellung von Verantwortlichkeiten bezeichnet. Der Name leitet sich aus den Anfangsbuchstaben der englischen Begriffe Responsible, Accountable, Consulted, Informed ab. Davon Abgeleitet wird die RACI-Matrix erstellt, welche auch RAM (Responsibility Assignment Matrix) genannt wird. [^1]
 
 Aus dieser Matrix geht hervor, welche Team-Mitglieder wofür im Projekt verantwortlich sind.
-Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umfangreicher das Projekt oder die Entwicklung ist, desto schwieriger ist es, Verantwortlichkeiten zu definieren und den Überblick über Verantwortlichkeiten zu behalten. Die RACI-Matrix ist ein Hilfsmittel zur Analyse und Darstellung von Verantwortlichkeiten.
+Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umfangreicher das Projekt oder die Entwicklung ist, desto schwieriger ist es, Verantwortlichkeiten zu definieren und den Überblick über Verantwortlichkeiten zu behalten.[^2] Die RACI-Matrix ist ein Hilfsmittel zur Analyse und Darstellung von Verantwortlichkeiten.
 
 
 # Aufschlüsselung der Anfangsbuchstaben
@@ -54,7 +54,6 @@ Beispielhafte RACI-Matrix [^3]
 * **Missverständnisse** durch unklare Erwartungshaltungen können **eliminiert** werden: Jeder weiß, wo er steht und welche Aufgaben bei ihm liegen.
 
 * Sie ist **einfach zu erstellen** in Excel oder PowerPoint.
-<br>
 
 # Nachteile von RACI [^4]
 *  Die Matrix wird schnell **unübersichtlich**, wenn zu viele Aufgaben oder Mitarbeiter aufgeführt werden.
@@ -70,7 +69,7 @@ Beispielhafte RACI-Matrix [^3]
 
 
 
-# Varianten von RACI
+# Varianten von RACI [^3]
 
 Es gibt eine Reihe von Varianten oder Alternativen, die einen ähnlichen Matrix-Ansatz verfolgen, aber andere Begriffe verwenden. Hier finden Sie einige dieser Varianten:
 ## RASCI:
