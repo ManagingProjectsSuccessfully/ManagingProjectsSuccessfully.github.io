@@ -15,14 +15,12 @@ Standards sollte ein pragmatisches Vorgehen gewählt werden, welches zudem regel
 Im folgenden werden drei Internationale Projektmanagement Standards vorgestellt.
 
 ## PMI: Project Management Body of Knowledge (PMBOK)
-Das Project Management Institute (PMI) wurde 1969 gegründet. Dort gibt es verschiedene PM Zertifikate wie beispielsweise PM Professional und PM Business Analysis                    basierend auf verschiedenen Standards.[^3] Der weit verbreitest, besonders in den USA kaum wegzudenkende PM Standard, ist das PMBOK. Auch weltweit gibt es über 
-890.000 Zertifizierungen.[^2]    
+Das Project Management Institute (PMI) wurde 1969 gegründet. Dort gibt es verschiedene PM Zertifikate wie beispielsweise PM Professional und PM Business Analysis                    basierend auf verschiedenen Standards.[^3] Der weit verbreitest, besonders in den USA kaum wegzudenkende PM Standard, ist das PMBOK. Auch weltweit gibt es davon über 890.000 Zertifizierungen.[^2]    
 Als Zulassungskriterium müssen mindestens 4.500 Projektstunden (mit Hochschulabschluss) bzw. 7.500 Projektstunden (ohne Hochschulabschluss) sowie 35 Stunden 
-Schulung nachgewiesen werden. Höhere Zertifizierung Level erfordern zusätzlich den Nachweis von bis zu 6.000 Stunden PM-Erfahrung.[^4]
+Schulung nachgewiesen werden. Höhere Zertifizierungs Level erfordern zusätzlich den Nachweis von bis zu 6.000 Stunden PM-Erfahrung.[^4]
 
-Bei der Anwendung des PMBOK werden innerhalb des Projektes 49 Prozesse in einer Matrix von 5 Prozessgruppen und 10 Wissensgebieten definiert. Diese beschrieben für                            
-jeden Prozess den Input, Output, die Werkzeuge und das Verfahren. Dadurch hat man sich zum Ziel gesetzt besonders die Prozesse und Terminologien zu 
-vereinheitlichen. Benötigte Fähigkeiten werden bei diesem Standard nicht weiter ausgebaut. Hauptmerkmal ist die Projektausrichtung, die sich an den einzelnen 
+Bei der Anwendung des PMBOK werden innerhalb des Projektes 49 Prozesse in einer Matrix von 5 Prozessgruppen und 10 Wissensgebieten definiert. Diese beschreiben für                            
+jeden Prozess den Input, Output, die Werkzeuge und das Verfahren. Dadurch hat man sich zum Ziel gesetzt besonders die Prozesse und Terminologien bei einem Projekt zu vereinheitlichen. Benötigte Fähigkeiten werden bei diesem Standard nicht weiter ausgebaut. Hauptmerkmal ist die Projektausrichtung, die sich an den einzelnen 
 Projektphasen orientiert. 
 Ebenfalls hervorzuheben ist der sogenannte PMI’s Code of Ethics and Professional Conduct, der vor der Zertifizierung akzeptiert werden muss und zur Rechtschaffenheit verpflichtet.[^5]
 
