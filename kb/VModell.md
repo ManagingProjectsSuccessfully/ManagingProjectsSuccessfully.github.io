@@ -2,103 +2,72 @@
 title: VModell
 tags: agil klassisch
 author: fabriGH
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu VModell um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+---
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![v-modell](https://user-images.githubusercontent.com/92790072/142849508-172e4421-7a7d-435e-bc29-652fe4992df0.jpg)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Original:[^1]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+---
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Was ist ein Barcamp?
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Barcamps sind eine Moderationsmethode für Großgruppen und eignen sich für etwa zwei Duzent bis mehrere Hunderte Teilnehmerinnen und Teilnehmer.[^2] Dabei stehen ausschließlich die Teilnehmenden mit ihren Themen, Fragen und Beiträgen im Mittelpunkt der Veranstaltung. Welche Themen vor Ort genau besprochen werden legen die Teilnehmer gemeinsam fest. Ziele von Barcamps sind meist das Lösen von Problemen wie auch das Provozieren von Innovationen durch Zusammentreffen von Teilnehmer aus den verschiedensten Bereichen des Unternehmens bzw. der Forschungsgruppe.[^3]
 
 
-# Aspekt 1
+# Allgemeiner Ablauf eines Barcamps[^3]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+#### 1. Eröffnung 
+Der Barcamp Moderator begrüßt die Teilnehmer und stellt ihnen das Konzept der Barcamp-Methode vor. Dabei lege man besonders Augenmerk auf die Vermittlung der Wertwelt eines Barcamps, etwa die Begegnung auf Augenhöhe oder das niemand perfekt sein muss. So stellt man sicher, dass jeder Teilnehmer ermutigt wird sein volles Potenital auszuschöpfen und bewilligt ist, seinen Beitrag zum Barcamp zu leisten.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+#### 2. Themenfindung und Sessionplanung
+Die Teilnehmer stellen nun nacheinander ein oder mehrere Themen vor und erfragen jenes Interesse. Jedes Thema, für das Interesse besteht, findet seinen Platz. Angelegenheiten können auch derzeitige Probleme oder Konflikte sein, welche gelöst werden sollen. Dabei werden die Themen auf einer Metaplanwand geordnet und der jeweilige Raum und die jeweilige Uhrzeit werden gewählt. Wenn die Anbieter zwei oder mehrere ähnliche Themen erkennen, können diese auch zusammengelegt werden.
 
-![Beispielabbildung](VModell/test-file.jpg)
+#### 3. Sessionstart
+Direkt nach der Sessionplanung beginnen die ersten Sessions. Diese laufen je nach Interesse der verschiedenen Themen parallel oder nacheinander ab. Teilnehmer die zu einem Thema bereits alles beigetragen haben wechseln selbständig zum Nächsten, sodass die Effizienz stets hoch bleibt. Zwischen des Sessions liegen kurze Pausen von etwa 15 Minuten. Für Trinken und kleine Snacks sollte in den Pausen gesorgt sein.
 
-*lustiges Testbild*
+#### 4. Abschluss
+Ein Barcamp kann einige Stunden, sogar mehere Tage dauern. Es endet erst wenn alle Themen abgeschlossen sind. Wenn dies der Fall ist sieht die klassische Barcamp-Methode noch eine offene Feedbackrunde zum Abschluss vor.
 
-# Aspekt 2
+#### 5. Nach dem Barcamp
+Nach dem Barcamp werden die Dokumentationen der Teilnehmer gesammelt und in einem großen Dokument zusammengefasst und für alle zugänglich gemacht, beispielsweise inform einer Software-Lösung. Einige Tage später sollte eine Auswertung des Barcamps mit dem gesamten Team stattfinden um möglicherweise Prozesse und Abläufe für zukünftige Barcamps zu optimieren und um festzustellen wie effizient diese Methode für das jeweilige Unternehmen bzw. der Forschungsgruppe ist.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Vor und Nachteile von Barcamps
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+|Vorteile | Nachteile |
+|---|---|
+|erstaunliche Ergebnisse|Kosten-/Zeitaufwand|
+|Abwechslung für Teilnehmer |unmotivierte Teilnehmer|
+|Entfaltung der Teilnehmer|ungeordeter Ablauf|
+|Teambuilding Maßnahme|Unstimmigkeiten zwischen Teilnehmern|
 
-So kann man eine Tabelle erstellen:
+# No-Gos[^3]
+| ~~No-Gos~~:  | 
+| ------------- | 
+| Vordefinierte Themen, die auf jeden Fall auf das Sessionboard kommen müssen  |
+| Abwählen von Themen, bei zu geringer Interesse  | 
+| Zusammenlegen/Anpassen von Themen durch den Barcamp-Moderator |
+| Moderation der Sessions durch das Orga-Team |
+| Dokumentation der Sessions durch das Orga-Team |
+| Live-Streaming/Aufnahmen der Sessions, weil dies den geschützten Rahmen stört |
+| Auschluss von Personen |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](VModell.md)
+# Gut zu wissen
+Teilnehmer die das erste Mal in einem Barcamp mitwirken werden zu Beginn eventuell leicht überfordert sein, daher ist es wichtig den Teilnehmern in der Eröffnungrede Mut zuzusprechen und klarzustellen das nicht alles glatt laufen muss. Das Orga-Team steht jederzeit zur Unterstützung bei Fragen und Hindernissen bereit. Wichtig ist das der Barcamp Moderator den Mut hat das "Zepter" aus der Hand zu geben und seinen Teilnehmern während des Barcamps blind vertraut.
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Youtube-Video: https://www.youtube.com/watch?v=hJpTQpLLK7E
+* Youtube-Video: https://www.youtube.com/watch?v=GiPSORwsImY
+* Kurzerklärung von Stadt Nürnberg (online): https://www.nuernberg.de/internet/menschenrechte/dasisteinbarcampabc.html
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/v-modell/
+[^2]: https://de.wikipedia.org/wiki/Barcamp
+[^3]: https://www.theofel.com/barcamp-methode.html
+
 
