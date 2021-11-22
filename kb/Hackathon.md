@@ -89,7 +89,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 
 # Weiterführende Literatur
 
-* [König, F., Wessel, D. & Heine, M. Open Data Hackathon – Vergleich von in Präsenz und online durchgeführten Projektseminaren. HMD 58, 1406–1419 (2021)](https://doi.org/10.1365/s40702-021-00794-0) In diesem Beitrag wird die Durchführung eines Projektseminars in Form eines Hackathons in Präsenz mit einem Online-Format kontrastriert. Auf Basis des Stands der Forschung werden das Konzept, die Durchführung und die Ergebnisse dieser beiden Veranstaltungsformate verglichen.
+* [König, F., Wessel, D. & Heine, M. Open Data Hackathon – Vergleich von in Präsenz und online durchgeführten Projektseminaren. HMD 58, 1406–1419 (2021)](https://doi.org/10.1365/s40702-021-00794-0). In diesem Beitrag wird die Durchführung eines Projektseminars in Form eines Hackathons in Präsenz mit einem Online-Format kontrastriert. Auf Basis des Stands der Forschung werden das Konzept, die Durchführung und die Ergebnisse dieser beiden Veranstaltungsformate verglichen.
 
 # Quellen
 
