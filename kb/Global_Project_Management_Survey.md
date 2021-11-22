@@ -44,7 +44,7 @@ deren Erhebung, Verarbeitung und Veröffentlicung als valide angesehen werden ka
 
 *	Seit 2021 lassen sich die Daten der Reports nach eigens gewählten weiteren Kriterien filtern:
 
-![Datenbank zur Informationsfilterung](Global_Project_Management_Survey/Bild3_Datenbank.jpg).
+![Datenbank zur Informationsfilterung](Global_Project_Management_Survey/3 Project Outcomes.png).
 
 Die Daten lassen sich unter folgendem Link beliebig filtern:
 [Datenbank Survey 2021](https://public.tableau.com/app/profile/pmi2161/viz/PulseoftheProfession/PulseoftheProfession)
@@ -57,11 +57,11 @@ Dabei wurde vor allem hinsichtlich der in den Unternehmen genutzten Projektmanag
 Im ersten Schritt wurden dabei die größten Veränderungen innerhalb des Unternehmens innerhalb der letzten 12 Monate im Vergleich zu den vorausgegangenen 12 Monaten, also vor der 
 Corona-Pandemie, abgefragt: 
 
-![Big Changes](Global_Project_Management_Survey/2021_BusinessChanges due to Corona.png).
+![Big Changes](Global_Project_Management_Survey/2021_Business Changes due to Corona.png).
 
 Nachfolgend wurde abgefragt wie der Projekterfolg, im Vergleich zu den Vorangegangenen Jahren, eingestuft wird:
 
-![Project Success_and_failure](Global_Project_Management_Survey/2021_Projectsuccess_failure.png)
+![Project Success_and_failure](Global_Project_Management_Survey/2021_Project success_failure.png)
 
 
 
