@@ -5,13 +5,25 @@ author: efdil
 anrechnung: a
 ---
 
-Unter Scrum Metrics sind Messwerte zu verstehen, die von Scrum Teams ermittelt, ausgewertet und benutzt werden um ihre Effizienz und Effektivität zu beobachten und zu steigern. Durch richtige Ermittlung, Auswertung und Einsetzung dieser Messwerte, können Scrum Metrics Erkenntnisse vermitteln, die das Scrum Team  während des Scrum durchlaufs unterstützen und verbessern oder Beziehungen zwischen Scrum Team und Kunden verbessern.
+Unter Scrum Metrics sind Messwerte zu verstehen, die von Scrum Teams ermittelt, ausgewertet und benutzt werden um ihre Effizienz und Effektivität zu beobachten und zu steigern. Durch richtige Ermittlung, Auswertung und Einsetzung dieser Messwerte, können Scrum Metrics Erkenntnisse vermitteln, die das Scrum Team während des Scrum durchlaufs unterstützen und verbessern oder Beziehungen zwischen Scrum Team und Kunden verbessern.
 
 # Was sind Scrum Metrics?
-Scrum Teams benutzen Scrum Metrics um Entscheidungen auf deren basis zu treffen und effizienter in Planung und Umsetzung zu werden. 
+Scrum Teams benutzen Scrum Metrics um Entscheidungen auf deren basis zu treffen und somit, effizienter in Planung und Umsetzung zu werden. Diese können beispielsweise dazu angewendet werden um einen Überblick über den gegenwertigen Stand des Projekts zu verschaffen und dadurch Zielsetzungen und Verbesserungen durchzuführen. Dazu gibt es keine allgemeinübergreifenden Maßstäbe, die diese gegenwertigen Scrum Metrics ersetzen könnten. Denn jede Situation und Projekt hat seinen eigenen Verlauf, jedes Team ist anders groß und es kommen unterschiedliche Methoden sowie Technologien zum Einsatz. Daher sind die jeweiligen Messwerte nicht ideal mit anderen Projekten als auch Teams vergleichbar oder kombinierbar.
+
+Die Entscheidung zur Ermittlung und Festhaltung dieser Messwerte sollte dem Team überlasen werden. Weil es nicht daran liegt ob der Projektmanager oder andere beteiligte individuen das für das ganze Team bestimmen, die Umsetzung erfolgt nur wenn das ganze Team dafür zustimmt und seinen Beitrag leistet.
 
 
-## Wieso braucht man Scrum Metrics?
+
+## Mögliche Vorteile durch Scrum Metrics im Projektverlauf
+
+
+
+-
+-
+-
+-
+
+
 
 ## Unterschied zu Key Performance Indicators (KPI's)
 
