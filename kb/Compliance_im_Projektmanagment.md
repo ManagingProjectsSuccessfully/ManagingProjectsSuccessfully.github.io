@@ -14,7 +14,7 @@ Ein elementares Bestreben eines jeden Unternehmens sollte es sein, die nationale
 ## Nationale Verordnungen
 In Deutschland ist der Begriff Compliance juristisch nicht eindeutig definiert. Als Grundlage wird oftmals jedoch der Deutsche Corporate Governance Kodex (DCGK) herangezogen. Der Kodex beinhalten grundsätzlich Vorschriften zur Überwachung und Leitung deutscher börsennotierter Gesellschaften. Er besitzt jedoch keines Wegs eine rechtliche Verbindlichkeit. (Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen)
 ## Internationale Richtlinien
-Wichtig für Unternehmen ist der Fakt sich auch an Gesetze anderer Länder im internationalen Geschäftsverkehr halten zu müssen. So müssen die gesetzlichen Verbindlichkeiten vor einer Partnerschaft beidseitig gut analysiert werden. Es gibt beispielsweise den Foreign Corrupt Practices Act (FCPA) zur Bekämpfung von Korruption oder den UK Bribary Act als Compliance Vorschrift in Großbritannien. (Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen)
+Wichtig für Unternehmen ist der Fakt sich auch an Gesetze anderer Länder im internationalen Geschäftsverkehr halten zu müssen. So müssen die gesetzlichen Verbindlichkeiten vor einer Partnerschaft beidseitig gut analysiert werden. Es gibt beispielsweise den [Foreign Corrupt Practices Act](https://www.justice.gov/criminal-fraud/foreign-corrupt-practices-act) (FCPA) zur Bekämpfung von Korruption oder den [UK Bribary Act](https://de.wikipedia.org/wiki/Bribery_Act_2010) als Compliance Vorschrift in Großbritannien. (Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen)
  
 # Integration von Compliance im Unternehmen
 
