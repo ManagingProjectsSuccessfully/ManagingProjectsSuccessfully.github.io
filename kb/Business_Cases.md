@@ -8,7 +8,7 @@ anrechnung: k
 ## Inhaltsverzeichnis
 * [1. Definition](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#1-definition)
 * [2. Etymologie](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#2etymologie)
-* [3. Bestandteile]()
+* [3. Bestandteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#3bestandteile)
 * [4. Bedeutung]()
 * [5. Vorteile]()
 * [6. Nachteile]()
