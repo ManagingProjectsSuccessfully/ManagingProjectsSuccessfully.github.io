@@ -1,8 +1,8 @@
 ---
 title: Compliance_im_Projektmanagment
-tags: agil klassisch
-author: phigeit
-anrechnung: k oder a
+tags: compliance projektmanagement klassisch
+author: moritzgrt
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Compliance_im_Projektmanagment um ein erstes Verständnis dafür zu schaffen um was es hier geht.
