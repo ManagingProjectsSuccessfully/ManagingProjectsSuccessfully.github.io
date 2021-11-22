@@ -9,7 +9,7 @@ Diese Arbeit setzt sich mit der Drei-Zeiten-Methode, auch 3-Punkt-Schätzung gen
 ## Schätzungen in Projekten
 Schätzungen liefern immer unsichere Ergebnisse, da sie sich auf die Zukunft beziehen. „Es kann sich um eine pessimistische oder auch um eine optimistische Berechnung handeln.“[^1] Beide sind schlecht für das [Projektmanagement](Projektmanagement.md), denn bei der zu pessimistischen Variante wird der Endtermin des Projekts zu weit nach hinten geschoben, bei der zu optimistischen gerät das Projekt in Verzug. Die Terminplanung innerhalb eines Projektes ist allerdings auf gute Berechnung angewiesen. Je realistischer die Schätzung ist, umso genauer kann der Endtermin des Projekts geplant werden. Oft erhält man aber erst im Verlauf eines Projektes immer bessere Daten, mit denen die Schätzungen genauer bestimmt werden können.
 
-Verantwortlich für die Prognose ist der [Projektleiter](Projektleiter.md). Um diese bestmöglich festzulegen, können sie für die Schätzung folgenden Quellen nutzen: 
+Verantwortlich für die Prognose sind die [Projektleiter](Projektleiter.md). Um diese bestmöglich festzulegen, können sie für die Schätzung folgenden Quellen nutzen: 
 
 * die Erfahrungen von Experten abfragen
 * bereits bekannte Kosten für Material und Personal planen
