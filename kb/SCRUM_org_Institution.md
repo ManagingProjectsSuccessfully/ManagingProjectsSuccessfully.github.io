@@ -47,4 +47,4 @@ Der größte Konkurrent von Scrum.org ist bis heute ScrumAlliance. Es gibt auch 
 [^4]: [PROFESSIONAL SCRUM™ TRAINING](https://www.scrum.org/courses)
 [^5]: [Scrum](https://de.wikipedia.org/wiki/Scrum)
 [^6]: [Certification Types & Tracks](https://www.scrumalliance.org/get-certified)
-[^7]: [Scrum.org Logo] (https://www.agilealliance.org/organizations/scrum-org-2/)
+[^7]: [Scrum.org Logo](https://www.agilealliance.org/organizations/scrum-org-2/)
