@@ -45,7 +45,8 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Projektmitarbeiter/test-file.jpg)
+![projektmit 2](https://user-images.githubusercontent.com/92817695/142926241-77e0111b-78b9-410c-915e-f8ff14508fb7.jpg)
+
 
 *lustiges Testbild*
 
@@ -89,8 +90,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter/projektmit%202.jpg](projektmit 2.jpg)
-
+* 
 # Weiterführende Literatur
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
