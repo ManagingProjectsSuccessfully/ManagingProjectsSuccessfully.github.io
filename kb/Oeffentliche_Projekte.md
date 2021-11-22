@@ -68,7 +68,8 @@ Zu den größten Herausforderungen für das Management von Projekten in öffentl
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Projektmanagement in der öffentlichen Verwaltung. Anreizsysteme für eine Implementierung](https://www.google.de/books/edition/Projektmanagement_in_der_%C3%B6ffentlichen_V/9Ek3CwAAQBAJ?hl=de&gbpv=0)
+
 
 
 
