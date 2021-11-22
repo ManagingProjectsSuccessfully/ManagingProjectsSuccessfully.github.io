@@ -22,6 +22,9 @@ Bei Atlassian gibt es mehrere Preismodelle[^5]. Hier wird zwischen Cloud- und se
 | Standard  | Premium  | Data Center |
 | $30.000 pro Jahr  | $48.500 pro Jahr  | $42.000 pro Jahr |
 
+Tabelle 1: Preisliste
+Quelle: Atlassian. (2021). Modelle und Preise. https://www.atlassian.com/de/software/jira/pricing
+
 ## 3. Funktionsweise
 In Jira muss zunächst vom Administrator ein Projekt angelegt werden. Im Anschluss kann eine Vorlage für das Projekt ausgewählt werden, was die Darstellung der Aufgaben beeinflusst. Man kann sich bei Jira-Software zwischen [Scrum](Jira_PM_Tool.md#61-scrum-board)- und [Kanban Boards](Jira_PM_Tool.md#62-kanban-board) entscheiden[^7]. Im Jira-Projekt können sogenannte [Vorgänge](Jira_PM_Tool.md#4-vorgänge) erstellt werden, die als Aufgaben, Risiken, Bugs aber auch diverse andere Typen gekennzeichnet werden[^8]. Diese Vorgänge müssen während ihrer Bearbeitung einen Workflow durchlaufen, der in den Projekteinstellungen definiert werden kann und für jede Aufgabe gilt. Auf den Projektboards oder extra erstellen [Dashboards](Jira_PM_Tool.md#63-dashboards) können die Vorgänge nach bestimmten Kriterien gefiltert dargestellt werden und somit eine leichtere Auswertung erfolgen.
 
@@ -54,7 +57,7 @@ Neben den Projektboards gibt es noch [Dashboards](Jira_PM_Tool.md#63-dashboards)
 ![Jira Dashboard](Jira_PM_Tool/jira_dashboard.png)
 
 ## 7. Herausforderungen
-Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als Unternehmen muss hier eine klare Vorgehensweise beim Anlegen und Arbeiten mit den Vorgängen gesetzt werden, da sonst unter anpassungsbedarf und Mehraufwand entstehen kann. 
+Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als Unternehmen muss hier eine klare Vorgehensweise beim Anlegen und Arbeiten mit den Vorgängen gesetzt werden, da sonst hoher Anpassungsbedarf und Mehraufwand entstehen kann. 
 
 # Siehe auch
 
@@ -70,6 +73,7 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 * [Kanban Boards in Jira](https://support.atlassian.com/jira-software-cloud/docs/monitor-work-in-a-kanban-project/)
 * [Jira Issue Types](https://support.atlassian.com/jira-cloud-administration/docs/what-are-issue-types/)
 * [Jira Best Practices](https://www.atlassian.com/de/software/jira/guides/getting-started/best-practices)
+* [What is a Jira-SoftwareBoard](https://support.atlassian.com/jira-software-cloud/docs/what-is-a-jira-software-board/
 
 # Quellen
 
@@ -88,18 +92,11 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 [^13]: [What is a Jira Dashboard](https://support.atlassian.com/jira-work-management/docs/what-is-a-jira-dashboard/)
 
 
-
-[^0]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-[^5]: [What is a Board](https://confluence.atlassian.com/jirasoftwareserver/what-is-a-board-938845235.html)
-[^6]: [What is a Jira-SoftwareBoard](https://support.atlassian.com/jira-software-cloud/docs/what-is-a-jira-software-board/)
-[^7]: [Jira Issue](https://stiltsoft.com/blog/2020/06/best-practices-for-creating-a-jira-issue-with-templates/)
-
-
 ## Bilder
- Scrum Backlog https://confluence.atlassian.com/jirasoftwareserver/using-your-scrum-backlog-938845361.html
- Kanban Board https://support.atlassian.com/jira-software-cloud/docs/monitor-work-in-a-kanban-project/
- Jira Issue https://stiltsoft.com/blog/2020/06/best-practices-for-creating-a-jira-issue-with-templates/
- Jira Dashboard https://www.atlassian.com/blog/jira-core/jira-core-dashboard-project-status-glance
+ 4. Jira Issue https://stiltsoft.com/blog/2020/06/best-practices-for-creating-a-jira-issue-with-templates/
+ 6.1 Scrum Backlog https://confluence.atlassian.com/jirasoftwareserver/using-your-scrum-backlog-938845361.html
+ 6.2 Kanban Board https://support.atlassian.com/jira-software-cloud/docs/monitor-work-in-a-kanban-project/
+ 6.3 Jira Dashboard https://www.atlassian.com/blog/jira-core/jira-core-dashboard-project-status-glance
 
  
 
