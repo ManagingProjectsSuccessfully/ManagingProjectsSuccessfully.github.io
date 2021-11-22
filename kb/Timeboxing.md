@@ -40,7 +40,7 @@ Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten 
 ## Nachteile
 
 * Druck
-* Viel Disziplin gefordert 
+* Erfordert viel Disziplin 
 * Qualität leidet bei zu kurz gesetzten Timeboxen
 * Weniger Flexibilität
 * Weniger Zeit für Kreativität
