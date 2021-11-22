@@ -5,10 +5,12 @@ author: Christoph-Mantsch
 anrechnung:    k 
 ---
 
-Kurzbeschreibung zu Projektberatung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+
+Projekte sind ein sehr zentraler Baustein in Unternehmen, allgegenwärtig genutzt und unverzichtbar für Firmen, da sie die Vorraussetzung für die Wertschöpfung und somit sehr bedeutungsvoll für das langfristige und erfolgreiche Wirtschaften des Unternehmens ist.
+Jedoch werden Projekte sehr schnell kompliziert und unübersichtlich, da sie an einem sehr breiten Spektrum an Problemen scheitern können. Die häufigsten Ursachen für das Scheitern eines solchen Projektes sind unzureichende Kommunikation zwischen den Mitarbeitern und dem Auftraggeber oder auch mangelnde Auftragsklärung. Dadurch führen viele solcher Besprechungen zu keinem aussagekräftigen Ergebnis und sind daher oftmals nicht profitabel für das Unternehmen. In diesem Fall greifen Unternehmen gerne auf das Konzept der Projektberatung zurück. Hierbei werden externe Projektberatungs-Unternehmen engagiert, die an den Projekten teilnehmen, diese mit vielseitigen Kompetenzen wie IT-Software oder Projektmanagement-Strategien unterstützen und zusätzlich Probleme der Besprechungen analysieren und dem Unternehmen Lösungsansätze bereitstellen.
+Zusätzlich sind diese Dienstleistungsunternehmen nicht direkt am Projekt beteiligt, was ihnen eine sehr objektive Sicht auf die Problemlage des Klienten ermöglicht und ihm dadurch auch einen Aufschwung an Erfahrung und Strukturierung des Projektes bieten kann [^2].
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -98,7 +100,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: http://www.entdecken-entwickeln.de/projektberatung.html
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
