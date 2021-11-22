@@ -17,7 +17,9 @@ Die Projektinformationen müssen gesichtet und in vergleichender Form zusammenge
 Die Durchführung eines Projektes muss ein integriertes Projektmanagementsystem eingerichtet haben, und zwar unter Berücksichtigung der folgenden Punkte:
 
 •	eine strukturierte Art, mit dem Projekt und seinen Systemen umgehen zu können
+
 •	ein durchgängig verbundenes und kohärent gestaltetes [Kodierungssystem](https://bizfluent.com/info-7814909-projectcoding-systems.html), das die Projektstruktur bzw. -organisation widerspiegelt
+
 •	ein vernünftiges IT-System, das mit geeigneter Software ausgestattet ist und das als Datenbank funktioniert.[^5]
 
 ## 2.2	Datenbankmanagementsysteme in PM
@@ -33,8 +35,11 @@ Das PMIS sollte ein Datenbankmanagementsystem sein, bei dem alle Datensätze in 
 Das PMIS sollte sinnvoll gestaltet sein, um zu gewährleisten, dass die einzelnen Module funktionsfähig und aufeinander abgestimmt sind. Diese Gestaltung und Nutzung sollte einfach sein, was auf die begleitenden Elemente zurückzuführen ist:
 
 •	Der Ansatz des Projektmanagements (Projektmanagement) ist festgelegt.
+
 •	Die IT-Ausstattung und Software sind einfach zu verstehen, vor allem mit zufriedenstellender Geschwindigkeit und Kontrolle. 
+
 •	Es gibt eine umfangreichere Auswahl an Projektmanagementsoftwarepakete (Projektmanagementsoftware), von denen eine große Anzahl flexibel, vielseitig einsetzbar und sinnvoll bewertet ist.
+
 •	Datenbankmanagementinformationspakete sind weithin zugänglich und werden bei vielen unterschiedlichen Projekten genutzt. Die meisten modernen Projektmanagementpakete sind so konzipiert, dass sie sich mit ihnen verbinden lassen.[^10]
 
 ## 3.2	Implementierung und Integration der Informationssysteme
