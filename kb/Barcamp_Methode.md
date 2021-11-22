@@ -60,10 +60,9 @@ Teilnehmer die das erste Mal in einem Barcamp mitwirken werden zu Beginn eventue
 
 # Weiterführende Literatur
 
-* Youtube-Video´s: 
-* https://www.youtube.com/watch?v=hJpTQpLLK7E
-* https://www.youtube.com/watch?v=GiPSORwsImY
-* https://www.youtube.com/watch?v=w0-AUIVAt7Y
+* Youtube-Video: https://www.youtube.com/watch?v=hJpTQpLLK7E
+* Youtube-Video: https://www.youtube.com/watch?v=GiPSORwsImY
+* Kurzerklärung von Stadt Nürnberg: https://www.nuernberg.de/internet/menschenrechte/dasisteinbarcampabc.html
 
 # Quellen
 
