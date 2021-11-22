@@ -22,7 +22,6 @@ Es gibt keine einheitliche Definition von öffentlichen Projekten aber eine prä
 
 # Die öffentliche Verwaltung
 Die öffentliche Verwaltung ist ein Teil der Exekutive und zuständig für das Projektmanagement[^7] . Dazu gehören sämtliche Ämter und Behörenden auf kommunal-, regional- und auch Bundesebene. Zwar gilt hier die Maßgabe ausschließlich das zu erfüllen, was für die Bürger am besten im Rahmen der legislativen Vorgaben ist, jedoch kommt es auch hier oft zu parteilichen Interessenskonflikten[^8].
-Dies hat Vor- und Nachteile. Die Vergangenheit hat gezeigt, dass es deswegen zu Konflikten aufgrund verschiedener politischer Ansichten kommt und sich Projekte wegen mangelnder Einigkeit verzögern. 
 
 # Projektmanagement im öffentlichen Sektor
 Ein Projekt durchzuführen bzw. das erforderliche Projektmanagement ist nicht mit dem in der freien Wirtschaft zu vergleichen. Es handelt sich nämlich oftmals um eine Verwaltungsbüro, dass oft nicht die nötigen Kompetenzen oder Erfahrungen hat. Zwar gibt es auch Behörden wie beispielsweise das Bauamt, dessen Aufgabe hauptsächlich daraus besteht Projekte durchzuführen, meistens ist das aber nicht die Kernaufgabe einer Behörde. Beim Projektmanagement gibt es viele Vorschriften und Regeln für nahezu jeden Schritt und jede Phase des Projektmanagements zu befolgen. Das ist insofern sinnvoll, da es sich in den meisten Fällen um öffentliche Gelder handelt, jedoch führt diese Herangehensweise nicht immer zur effizientesten Verwendung des Geldes.
