@@ -5,7 +5,7 @@ author: AnjaKlostermeier
 anrechnung: a
 ---
 # Umgang mit Kritik
-In dem nachfolgenden Artikel wird zuerst der allgemeine Bezug von Umgang mit Kritik und agiles Projektmanagement beleutet. Anschließend werden die beiden Komponenten in Verbindung gesetzt und analysiert, wie man mit Kritik im agilen Projektmanagement umgehen kann. 
+In dem nachfolgenden Artikel wird zuerst der allgemeine Bezug von Umgang mit Kritik und agiles Projektmanagement beleuchtet. Anschließend werden die beiden Komponenten in Verbindung gesetzt und analysiert, wie man mit Kritik im agilen Projektmanagement umgehen kann. 
 
 ## Begriffserklärung von Kritik 
 Mit Kritik verbinden die meisten Menschen etwas Negatives. Im Allgemeinen versteht man unter Kritik die Beurteilung eines Gegenstandes oder auch einer Handlung. Diese Kritik wird anhand verschiedener Maßstäbe gemessen, z.B. unter verschiedenen [Feedbackregeln](https://www.hochschuldidaktik.uni-freiburg.de/koll_hospi/checklisten/feedback). Synonyme zu [Kritik](https://www.duden.de/rechtschreibung/Kritik) sind unter anderem auch [Monierung](https://www.duden.de/rechtschreibung/Monierung), Beanstandung oder Bemängelung.[^1] 
