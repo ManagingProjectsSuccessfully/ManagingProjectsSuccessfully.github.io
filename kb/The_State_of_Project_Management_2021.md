@@ -65,7 +65,7 @@ Die Beratung ermöglicht dem Unternehmen unterstützende Hilfestellung im Bezug 
 
 # Die Zukunft von Projektmanagement:
 
-Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in verschiedensten Situationen. So sind Halbleiter bis heute noch knapp und Lieferverzögerungen sind mittlerweile Normalität. Daraus zeichnet sich ab, dass Flexibilität und Resilienz entscheidende Faktoren sind. So zeichnen sich Trends ab wie der Wunsch nach vollständiger Ressourcenplanung, dass feste Teams bessere Ergebnisse erzielen oder auch, dass klassische und agile Tools parallel betrieben werden sollen. [^12] Darüber hinaus glauben 71% , dass Menschen mehr Projektmanagement Skills haben sollten und auch in Zukunft immer mehr Projekte mithilfe von Methoden des Projektmanagements erfolgen. [^2]
+Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in verschiedensten Situationen. So sind Halbleiter bis heute noch knapp und Lieferverzögerungen sind mittlerweile Normalität. Daraus zeichnet sich ab, dass Flexibilität und Resilienz entscheidende Faktoren sind. So zeichnen sich Trends ab wie der Wunsch nach vollständiger Ressourcenplanung, dass feste Teams bessere Ergebnisse erzielen oder auch, dass klassische und agile Tools parallel betrieben werden sollen. [^12] Darüber hinaus glauben 71% der Befraften, dass Menschen mehr Projektmanagement Skills haben sollten und auch in Zukunft immer mehr Projekte mithilfe von Methoden des Projektmanagements erfolgen. [^2]
 
 # Siehe auch
 
@@ -77,7 +77,8 @@ Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in versch
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Wellington (https://wellingtone.co.uk/)
+* PMI (https://www.pmi.org/)
 
 # Quellen
 [^1]: [The State of Project Management Annual Report 2021 (YouTube)](https://www.youtube.com/watch?v=hZd5SgZWoWU)
