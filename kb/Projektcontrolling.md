@@ -28,7 +28,10 @@ Zu Beginn werden qualitative Merkmale des Projekts, die Projektleistung, determi
 Soll und Ist-Kosten des Projekts werden durch die Projektkontrolle über den gesamten [Projektlebenszyklus](Projektlebenszyklus.md) im Blick behalten, um Kostenabweichungen zu identifizieren. Eine reine Gegenüberstellung der Kosten liefert nur bedingt einen Mehrwert. Diese Vorgehensweise berücksichtigt nicht, ob das Projekt durch Beschleunigungskosten vorzeitig fertiggestellt werden kann. Eine Termin-Kosten-Kontrolle hingegen, verschafft einen genaueren Einblick in die Gesamtkosten. [^2]
 
 # Kennzahlen und Methoden
-Im Laufe des Projekts müssen alle drei Punkte des [Projektdreiecks](Magisches_Dreieck.md) geplant und überwacht werden.[^9]
+Im Laufe des Projekts müssen alle drei Punkte des [Projektdreiecks](Magisches_Dreieck.md) geplant und überwacht werden.[^9] Die Kennzahlen des Dreiecks beinhalten:
+* Termine
+* Ressourcen
+* Qualität
 
 Mittlerweile finden viele, größtenteils standardisierte Methoden ihre Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten Umfang, Dauer und Komplexität des Projektes berücksichtigt werden. Grundsätzlich gilt hier die Devise: Je einfacher und durschaubarer die Methode, desto besser.[^7]
 
