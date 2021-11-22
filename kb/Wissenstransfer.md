@@ -74,7 +74,7 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 
 Ausschlaggebend für die Anwendung gewisser Methoden ist die Art des Transfers. Hierbei wird zwischen personifiziertem und kodifizierten 
 Wissenstransfer unterschieden. Der Austausch des Wissens findet beim personifizierten Wissenstransfer auf persönlicher Ebene statt. Dies kann auf vielen 
-verschiedenen Wegen geschehen[^13]:
+verschiedenen Wegen geschehen:[^13]
 
 * [Mitarbeiterworkshops](https://de.wikipedia.org/wiki/Workshop)
 * [Interviews](https://de.wikipedia.org/wiki/Interview)
