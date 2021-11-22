@@ -5,11 +5,11 @@ author: eberto99
 anrechnung: k
 ---
 
-Als Hackathon wird eine [kollaborative](https://www.duden.de/rechtschreibung/kollaborativ) Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine Lösung zu einer zuvor definierten Problemstellung erarbeiten. [^7]
+Als Hackathon wird eine [kollaborative](https://www.duden.de/rechtschreibung/kollaborativ) Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine Lösung zu einer zuvor definierten Problemstellung erarbeiten. [^7] [^1] [^3]
 
 Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird hier das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf die zeitliche Komponente des Events, wobei die Teilnehmer zwischen 12 und 48 Stunden Zeit haben. [^4] [^8] [^5] 
 
-Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Alle verbindet jedoch ein und dieselbe grundlegende Idee, was einen Hackathon im Kern charakterisiert und als Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat. [^8] 
+Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Alle verbindet jedoch ein und dieselbe grundlegende Idee, was einen Hackathon im Kern charakterisiert und als Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat. [^8] [^1] 
 
 
 # Grundlegende Idee und Ziel
@@ -36,13 +36,13 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 
 # Entstehung und Geschichte - Wrap-Up
 
-Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Dabei handelte es sich zum einen um die Ausbesserung des Betriebssystems [OpenBSD](https://de.wikipedia.org/wiki/OpenBSD) und zum anderen um die Weiterentwicklung von Software für den damals beliebten Taschenkommunikator [„Palm Pilot“](https://de.wikipedia.org/wiki/Palm_Pilot), der Firma [Sun Microsystems](https://de.wikipedia.org/wiki/Sun_Microsystems). [^1] [^1]
+Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Dabei handelte es sich zum einen um die Ausbesserung des Betriebssystems [OpenBSD](https://de.wikipedia.org/wiki/OpenBSD) und zum anderen um die Weiterentwicklung von Software für den damals beliebten Taschenkommunikator [„Palm Pilot“](https://de.wikipedia.org/wiki/Palm_Pilot), der Firma [Sun Microsystems](https://de.wikipedia.org/wiki/Sun_Microsystems). [^1] [^5]
  
 Seitdem haben sich die Hackathon in ihrer Art und Weise, ihrem Ausmaß und ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen sehr stark weiterentwickelt. [^8]
 
 Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Aber auch Unternehmen haben in der Vergangenheit feststellen können, dass ein solches Format, intern organisiert, die Initialzündung für neue Ideen, Geschäftsmodelle und vieles mehr sein kann, ohne dabei lange erstphasige Entwicklungszeiten in Kauf zu nehmen. [^8]
 
-Auch die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen von Corona nicht verwehrt geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause hacken konnten. Aber auch zur Corona-Krise an sich gab es mehrere Hackathons, weltweit als auch in Deutschland. [^]
+Auch die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen von Corona nicht verwehrt geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause hacken konnten. Aber auch zur Corona-Krise an sich gab es mehrere Hackathons, weltweit als auch in Deutschland. [^11] [^10]
 
 # Ablauf
 
@@ -90,7 +90,6 @@ Den Teilnehmern bietet ein Hackathon nicht nur die Möglichkeit auf Networking, 
 # Weiterführende Literatur
 
 * [Open Data Hackathon – Vergleich von in Präsenz und online durchgeführten Projektseminaren](https://link.springer.com/article/10.1365/s40702-021-00794-0#ref-CR6)
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
@@ -101,8 +100,10 @@ Den Teilnehmern bietet ein Hackathon nicht nur die Möglichkeit auf Networking, 
 [^5]: https://www.dev-insider.de/was-ist-ein-hackathon-a-810665/
 [^6]: https://www.vgsd.de/hackathon-ideen-fuer-die-zukunft-der-wirtschaft-in-rheinland-pfalz-gesucht/
 [^7]: [Kollaborative Innovationsprozesse - Hackathons in Theorie und Praxis](https://link.springer.com/chapter/10.1007/978-3-658-16223-8_6) (S. ,S. )
-[^8]: [Grundlagen zu Hackathons](https://link.springer.com/book/10.1007/978-3-658-26028-6)
+[^8]: [Grundlagen zu Hackathons](https://link.springer.com/book/10.1007/978-3-658-26028-6) (S. ,S. )
 [^9]: https://twitter.com/zollhofhq/status/1111549947890012161
+[^10]: https://www.dw.com/de/lösungen-hacken-in-der-coronakrise/a-53295894
+[^11]: [König, F., Wessel, D. & Heine, M. Open Data Hackathon – Vergleich von in Präsenz und online durchgeführten Projektseminaren. HMD 58, 1406–1419 (2021)](https://doi.org/10.1365/s40702-021-00794-0)
 
 
 
