@@ -10,22 +10,17 @@ Das Timeboxing ist eine Zeitmanagement-Methode im agilen Projektmanagement. Hier
 
 # Wie genau funktioniert Timeboxing?
 
-Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfenster. Die Zeit ist der wichtigste Faktor im Timeboxing und steht maßgeblich für den Projekterfolg. Ein Zeitfenster kann Minuten, Stunden, Tage oder sogar Wochen umfassen, je nach Aufgabe. Hierbei ist es allerdings wichtig realistische Zeitslots zu wählen. Die zu erledigenden Aufgaben müssen auch wirklich in der gesetzten Timebox zu bewältigen sein. Durch das Timeboxing soll also vermieden werden, dass man sich mit unwichtigen Details aufhält oder gar stagniert. Dementsprechend soll erreicht werden, dass man sich auf das Wesentliche konzentriert und effizient arbeitet.[^2]
+Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfenster. Die Zeit ist der wichtigste Faktor im Timeboxing und steht maßgeblich für den Projekterfolg. Ein Zeitfenster kann Minuten, Stunden, Tage oder sogar Wochen umfassen, je nach Aufgabe. Hierbei ist es allerdings wichtig realistische Zeitslots zu wählen. Die zu erledigenden Aufgaben müssen auch wirklich in der gesetzten Timebox zu bewältigen sein. Durch das Timeboxing soll also vermieden werden, dass man sich mit unwichtigen Details aufhält oder gar stagniert. Dementsprechend soll erreicht werden, dass man sich auf das Wesentliche konzentriert und effizient arbeitet. Timeboxing kann sowohl für Gruppen als auch für das persönliche Zeitmanagement genutzt werden.[^2]
 
 Vor jeder Timebox muss entschieden werden ob die jeweilige Timebox hart oder weich ist. Eine harte Timebox endet, wenn die vorgegebene Zeit abgelaufen ist, unabhängig davon, ob die Aufgabe erledigt werden konnte. Somit stellen harte Timeboxen die Erledigung sämtlicher anstehender Aufgaben sicher, erzeugen aber auch mehr Druck. Sie sind besonders dann sinnvoll, wenn bestimmte Aufgaben wiederholt überarbeitet werden müssen. In einem Meeting kann eine Timebox dazu beitragen, dass wirklich alle Tagesordnungspunkte abgearbeitet werden. 
 Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten werden. Sie verstehen sich eher als Hinweis darauf, dass die aktuelle Aufgabe beendet werden sollte und eine neue voransteht. Sinnvoll sind sie vor allem bei neuen Aufgaben, bei denen der Arbeitsaufwand vorher noch nicht ganz klar ist. Durch die weiche Timebox kann in einem Team sichergestellt werden, dass alle den gleichen Zeitrahmen verfolgen, dabei jedoch immer noch flexibel sind. In Meetings trägt eine weiche Timebox auch dazu bei, dass alle Tagesordnungspunkte abgearbeitet werden, allerdings mit weniger Druck und ohne möglichen Abbruch gewisser Themen, wie es bei einer harten Timebox der Fall wäre[^3].
 
-Timeboxing kann sowohl für Gruppen als auch für das persönliche Zeitmanagement genutzt werden.
-Timeboxing in Gruppen:
+## Ablauf von Timeboxing 
 
+1. nddk
 
+2. dnklnk
 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
 # Vor- und Nachteile des Timeboxing
@@ -99,6 +94,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [Testen Sie Timeboxing: Die zielorientierte Zeitmanagement-Strategie](https://asana.com/de/resources/what-is-timeboxing) 
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
