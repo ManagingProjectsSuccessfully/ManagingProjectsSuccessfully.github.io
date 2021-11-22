@@ -9,7 +9,7 @@ anrechnung: k
 
 Der in verschiedenen Branchen verbreitete Anglizismus Roadmap bedeutet in der deutschen Übersetzung 
 wörtlich "Straßenkarte"[^1]. In Analogie dazu kann sie einen groben Fahrplan für verschiedene 
-Entwicklungsbereiche eines Unternehmens prognostizieren und darstellen. Im Projektmanagement dient die 
+Entwicklungsbereiche eines Unternehmens prognostizieren und darstellen. Im [Projektmanagement](Projektmanagement.md) dient die 
 Roadmap vorallem als strategisches Planungswerkzeug.
 
 
@@ -29,10 +29,10 @@ Integrierte Produkt- und Technologie-Roadmap sowie die Projekt-Roadmap [^3].
 # Projekt-Roadmap
 Speziell im Projektmanagement dient die sogenannte Projekt-Roadmap als strategisches Planungswerkzeug. Es 
 wird ein grober visueller Gesamtüberblick über Aufgaben, Ziele und Ergebnisse geschaffen und dabei das 
-Projekt in zeitliche Etappen bzw. Zwischenprojekte unterteilt. Damit wird eine einheitliche Basis zur 
+[Projekt](Projekt.md) in zeitliche Etappen bzw. Zwischenprojekte unterteilt. Damit wird eine einheitliche Basis zur 
 Kommunikation zwischen den Interessensgruppen auf allen Ebenen des Vorhabens erstellt [^4]. 
 Charakteristisch ist außerdem der Instrumentenmix, aus dem eine Roadmap besteht. Bekannte 
-Vorausschau-Methoden wie etwa die [Szenario-Technik] (Link) oder auch die Delphi-Methode vereinfachen den 
+Vorausschau-Methoden wie etwa die [Szenario-Technik](Szenario_Technik.md) oder auch die Delphi-Methode vereinfachen den 
 Prozess, zukünftige Entwicklungen darzustellen und zu bewerten [^2].
 
 # Roadmapping
@@ -58,7 +58,7 @@ und Zukunftsbilder gestaltet werden. Zudem werden Arbeitsgruppen zusammengestell
 [^2].
 
 ## Erstellung der Roadmap
-Für die Erstellung der Roadmap werden alle Ergebnisse der vorherigen Schritte in Meilensteine überführt 
+Für die Erstellung der Roadmap werden alle Ergebnisse der vorherigen Schritte in [Meilensteine](Meilensteine.md) überführt 
 und in die Zeitskala eingetragen. Hiervon lassen sich schließlich Handlungsempfehlungen ableiten und 
 Aktivitäten definieren. Wichtig ist außerdem die Vollständigkeits- und Konsistenzanalyse, bei der die 
 Roadmap auf Lücken sowie inhaltliche und zeitliche Konsistenz überprüft wird [^2].
@@ -85,8 +85,12 @@ In der nachfolgenden Abbildung ist eine beispielhafte Visualisierung einer Roadm
 
 # Siehe auch
 
-* Szenario-Technik [Link] (Szenario-Technik.md)
-* [Link auf diese Seite](Roadmap.md)
+* [Meilensteine](Meilensteine.md)
+* [Projekt](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projektplanung](Projektplanung.md)
+* [Szenario-Technik](Szenario_Technik.md)
+
 
 # Weiterführende Literatur
 
