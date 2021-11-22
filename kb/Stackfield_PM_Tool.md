@@ -5,7 +5,9 @@ author: YSmithers46
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Stackfield_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+(Kurzbeschreibung zu Stackfield_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.)
+Stackfield ist ein Projektmanagement-Tool der Stackfield GmbH.
+Die Software kombiniert Funktionen, die die Zusammenarbeit im Team erleichtert und somit die Produktivität der Mitarbeiter steigern kann
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
