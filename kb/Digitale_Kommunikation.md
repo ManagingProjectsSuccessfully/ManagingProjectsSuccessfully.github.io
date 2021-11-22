@@ -7,7 +7,7 @@ anrechnung: k
 
 # 1. Definiton Digitale Kommunikation
 
-Digitale Kommunikation bezeichnet im Grunde Kommunikation, die mithilfe digitaler Medien stattfindet. Schicken Sie also eine Email an jemand anderes oder teilen Sie einen Artikel auf Ihrer Website, ist das Digitale Kommunikation[^1].
+Die Grundlage der Kommunikation bezeichnet den Austausch von Informationen zwischen mindestens zwei Kommunikationspartnern. Die Kommunikationspartner können dabei sowohl menschlich als auch technische Systeme sein. Bei der digitalen Kommunikation wird die Nachricht dann von einem digitalen Kommunikationskanal wie dem Internet von einem Sender zum Empfänger übertragen. Dies kann dann in verschiedenen Medienformaten wie Text, Video, Bild oder Audio geschehen. Die digitale Kommunikation zeichnet dabei auch die Virtualität aus, dass bedeutet die Entkopplung von Zeit und Raum. Sie wird auch als ”ubiquitär “, d.h. allgegenwärtig möglich bezeichnet[^1].
 
 # 2. Kommunikationsmodell Alister Cockburn
 
@@ -21,7 +21,7 @@ Das Kommunikationsmodell nach Cockburn beschreibt auf der Y-Achse die „Effekti
 *	Mehrere Informationen gleichzeitig verarbeiten
 *	Erleichterung schnelles Feedback zu geben 
 *	Einen individuellen Schwerpunkt für jedes Projektmitglied zu setzen, und 
-* Eine einheitliche Sprache zu verwenden [^2]
+* Eine ["natürliche Sprache"](https://www.inbenta.com/de/technologie/natural-language-processing/) zu nutzen [^2]
 
 
 Nach Cockburn ist dadurch die effektivste Kommunikationsform von Angesicht zu Angesicht, insbesondere wenn sie durch ein gemeinsames Modellierungsmedium wie ein einfaches Whiteboard, ein Flipchart, Papier oder Karteikarten unterstützt wird. Wenn man sich von dieser Situation entfernt, etwa indem man das gemeinsame Medium entfernt oder nicht mehr von Angesicht zu Angesicht kommuniziert, sinkt die Effektivität der Kommunikation [^3].
@@ -55,7 +55,7 @@ Verschiedene Tools zur optimalen Projektbearbeitung:
 *	So kann man alle möglichen Inhalte aus verschiedenen Microsoft-Anwendungen und von mehr als 150 Drittanbietern nutzen [^6]
 
 # 5. Qullenverzeichnis
-[^1]: Digitale Kommunikation: https://kmu-digitalisierung.agency/digitale-loesungen/digitale-kommunikation/
+[^1]: Digitale Kommunikation: https://link.springer.com/content/pdf/10.1007%2F978-3-540-92923-9.pdf (S. 12 ff.)
 [^2]: A Guide to the Project Management Body of Knowledge - PMBOK® GUIDE (S. 157)
 [^3]: Communication on Agile Software Teams: http://agilemodeling.com/essays/communication.htm
 [^4]: Digital ist alles: https://www.perwiss.de/digitale-kommunikation.html
