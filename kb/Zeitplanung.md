@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 Zeitplanung bzw. Zeitmanagement ist der Prozess seine zur Verfügung stehende Zeit effektiv und produktiv zu nutzen. [^1] 
-Das Ziel der Zeitplanung bei Projekten ist die Feststellung, in welcher Zeitspanne ein Projekt abgeschlossen werden kann. Hierbei hilft die [Netzplantechnik](Netzplantechnik.md) bei der Terminplanung [^2]
+Das Ziel der Zeitplanung bei Projekten ist die Feststellung, in welcher Zeitspanne ein Projekt abgeschlossen werden kann. [^2]
 
 
 # Einbindung ins [Magische Dreieck](Magisches_Dreieck.md)
@@ -29,6 +29,8 @@ Zeitplanung im klassischen Sinne ist somit ist die Bestimmung der Projektdauer, 
 # Projektablaufplan
 Der Projektablaufplan ist der Terminkalender für das Projekt. In ihm wird chronologisch der Ablauf der Arbeiten bestimmt. Es ist genau beschrieben, wie die einzelnen Arbeitspakete zeitlich abgearbeitet werden müssen. Außerdem wird eingetragen, wann gewünschte Meilensteine erreicht werden sollen und in welcher Beziehung Arbeitspakete und Meilensteine zueinanderstehen. 
 Es müssen bestimmte Risiken vorausgesehen und berücksichtigen werden. Zum Beispiel Verzögerungen von Lieferterminen, erkrankte Mitarbeiter, mehr Aufwand, Ausfall von Maschinen, etc. Deshalb darf im Projektablaufplan nichts zu knapp kalkuliert werden. [^7]
+
+Beispielsweise gibts es hierfür [Gantt-Diagramme](Gantt_Diagramme.md) oder [Netzplantechniken](Netzplantechnik.md).
 
 # Vor- und Nachteile der Zeitplanung im klassischem Projektmanagement
 Klassisches Projektmanagement eignet sich am besten für Projekte, welche kompliziert und genauestens ausgearbeitet werden müssen. Aber auch für Projekte die bereits in vergleichbarere Form stattgefunden haben. [^8] 
