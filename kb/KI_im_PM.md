@@ -16,7 +16,7 @@ Das Forschungsgebiet der KI versucht, menschliche Wahrnehmung und menschliches H
 1. Allgemeines über die KI <br>
     1.1 Aufgaben der KI <br>
     1.2 Bedeutsamkeit der KI
-2. KI im Projektmanagement
+2. KI im Projektmanagement <br>
   2.1 Voraussetzungen der KI im Projekmanagement <br> 
   2.2 Einführung in Projekmanagement-KI <br>
   2.3 Einsatz von KI in Projekten <br>
