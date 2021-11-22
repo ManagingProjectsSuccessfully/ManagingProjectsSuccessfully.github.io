@@ -89,7 +89,7 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 * [Kanban Boards in Jira](https://support.atlassian.com/jira-software-cloud/docs/monitor-work-in-a-kanban-project/)
 * [Jira Issue Types](https://support.atlassian.com/jira-cloud-administration/docs/what-are-issue-types/)
 * [Jira Best Practices](https://www.atlassian.com/de/software/jira/guides/getting-started/best-practices)
-* [What is a Jira-SoftwareBoard](https://support.atlassian.com/jira-software-cloud/docs/what-is-a-jira-software-board/
+* [What is a Jira-Software Board](https://support.atlassian.com/jira-software-cloud/docs/what-is-a-jira-software-board/)
 
 # Quellen
 
