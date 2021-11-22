@@ -64,7 +64,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 |Synchronisierung¹| Nein          | Ja            | Ja           |  Ja           | Ja            |
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
-|   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+| Priority Support| Nein          | Nein          | Nein         | Ja            | Ja            |
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 
 * ¹(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
