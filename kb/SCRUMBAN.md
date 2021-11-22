@@ -47,8 +47,6 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
-
 1. das
 2. hier 
 4. ist 
