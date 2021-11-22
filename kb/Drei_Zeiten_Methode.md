@@ -1,8 +1,8 @@
 ---
 title: Drei_Zeiten_Methode
-tags: agil klassisch
+tags: klassisch
 author: jsk0lb
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Diese Arbeit setzt sich mit der Drei-Zeiten-Methode, auch 3-Punkt-Schätzung genannt, auseinander. Dabei handelt es sich um eine Schätzmethode des [Projektmanagements](Projektmanagement.md). 
