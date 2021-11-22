@@ -6,7 +6,7 @@ anrechnung: k
 ---
 ![Projektplanung](Projekthandbuch/Projektplanung.jpg)
 
-*Das Projekthandbuch als wichtiger Bestandteil eines erfolgreichen Projektmanagements*[^11]
+*Abbildung 1: Das Projekthandbuch als wichtiger Bestandteil eines erfolgreichen Projektmanagements*[^11]
 
 # Kurzbeschreibung Projekthandbuch
 
