@@ -13,10 +13,17 @@ oben im Front-Matter (Bereich zwischen den `---`).
 # Projektmanagement bei Bauprojekten
 
 Das Bauprojektmanagement kann als die Urform des Projektmanagements betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren. 
-Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements. 
+Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements[^5]. 
 
 ## Aufgaben des Bauprojektmanagements 
-[^5]
+*Abstimmung aller Entscheidungen mit dem Bauherren
+*Planen des Bauwerks in unterschiedlichen Detaillierungsgraden
+*Schätzung und Kalkulation der Baukosten
+*Planen der Baudurchführung
+*Einholen der Baugenehmigung durch die zuständige Behörde / Kommune
+*Ausschreibung, Vergabe und Abrechnung der Bauleistungen (AVA)
+*Überwachung und Steuerung des Bauprozesses
+*Abnahme und Übergabe des fertigen Gebäudes an den Bauherren und an das nachgelagerte Facility Management [^5]
 
 
 
