@@ -2,13 +2,10 @@
 title: Toyota_Produktionssystem
 tags: agil klassisch
 author: YeldaUzun
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Toyota_Produktionssystem um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das Toyota Produktionssystem ist ein für Toyota entwickelter Produktionsprozess für Serienverfahren, dass sich auf die Verbesserung der organisatorischen Abläufe konzentriert. Nach dem zweiten Weltkrieg ergab sich eine Krisensituation für das japanische Unternehmen Toyota, da nur wenige Fertigungsmittel und geringes Kapital zur Verfügung stand. Schlussfolgernd war es wichtig Fahrzeuge effizient zu produzieren. Der Ingenieur Taiichi Ohno entwickelte im Jahr 1950 das Toyota Produktionssystem, indem er Just-in-Time, Jidoka (Automation) und Kaizen in einem System zusammenführte.1 Das Ziel des Produktionssystems ist es hohe Qualität bei hoher Produktivität und pünktlicher Lieferung zu erreichen. Dieses Ziel soll durch Eliminierung von Überbeanspruchung, jegliche Art von Verschwendung und ungleichmäßiger Produktionsauslastung gewährleistet werden. Verglichen wird das Toyota Produktionssystem mit einem Haus. Die Säulen des Hauses bilden die Prinzipien Jidoka und Just-in-Time. Das Fundament, bestehend aus Kaizen, Standardisierung und Heijunka, tragen zur Erreichung des Daches und somit zum Ziel bei.2
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
