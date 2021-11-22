@@ -18,13 +18,9 @@ Wichtig für Unternehmen ist der Fakt sich auch an Gesetze anderer Länder im in
  
 # Integration von Compliance im Unternehmen
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Compliance in Organisationen umzusetzten bedarf zunächst einer umfangreichenden Ist-Analyse. Vollstädigkeit ist hier tatsächlich sehr umfangreich und deshalb nicht unbedingt einfach. Dieser Schritt ist in der Abbildung als Compliance Kultur zu sehen. Anschließend muss der Soll-Zustand definiert werden. Nun muss analysiert werden durch welche Änderungen und Anpassungen der angestrebte Zustand nun erreicht werden soll. (Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen) Da sich Gestze aber ändern können bedarf Compliance einer städigen Kontrolle auf ihrer Aktualität hin. Vor allem im internationalen Geschäftsraum ist es zunehmend schwerer allen Verordnungen und lokalen juristischen Gegebenheiten gerecht zu werden. (Szabo, Bela: Compliance Management System)
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Compliance_im_Projektmanagment/Compliance-Management-System-CMS.jpg)
+![CMS](Compliance_im_Projektmanagment/Compliance-Management-System-CMS.jpg)
 
 *Compliance Management System (CMS) (Leitner, Andreas: Compliance Management System)*
 
