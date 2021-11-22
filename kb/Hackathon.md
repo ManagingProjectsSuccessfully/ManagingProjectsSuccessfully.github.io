@@ -48,7 +48,7 @@ Der Ablauf eines Hackathons variiert je nach Thema, Dauer, Teilnehmergröße ode
 
 __1. Vorstellung und Vorträge__
 
-In einer Eröffnungsrede werden zumeist der Ablauf und der Rahmen der Veranstaltung erläutert. Anschließend wird in einem Vortrag die Problemstellung vorgestellt, die es in den folgenden Stunden oder Tagen zu lösen gilt.[^]
+In einer Eröffnungsrede werden zumeist der Ablauf und der Rahmen der Veranstaltung erläutert. Anschließend wird in einem Vortrag die Problemstellung vorgestellt, die es in den folgenden Stunden oder Tagen zu lösen gilt.[^1]
 
 
 __2. Teambuilding__
