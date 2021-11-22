@@ -61,26 +61,37 @@ Corona-Pandemie, abgefragt:
 
 Nachfolgend wurde abgefragt wie der Projekterfolg, im Vergleich zu den Vorangegangenen Jahren, eingestuft wird:
 
-![Project Success_and_failure](2021_Project sucess_failure.jpg)
-
-
-
+![Project Success_and_failure](Global_Project_Management_Survey/2021_Project sucess_failure.jpg)
 
 
 Des weiteren wurde eine Aufteilung der Unternehmen in "Gymnastic Enterprises" und "Tradional Enterprises" durchgeführt.
 Die Unternehmen, die bei der Anwendung von Projektmanagement eine "agile" Ausrichtung aufwiesen, wurden als "Gymnastic Enterprises" bezeichnet. Unternehmen,
 die eher auf traditionelle bzw. bereits angewendete/bewährte Methoden setzten, wurden als "traditional enterprises" eingestuft. 
+Charakteristisch für die „Gymnastic Enterprises“ ist die vielfältige Anwendung unterschiedlicher Projektmanagement Methoden, wohingegen „traditionel enterprises“ Unternehmen 
+darstellen, die sich auf bewährte bereits verwendete Methoden konzentriert haben. Zusätzlich konzentrieren sich die "Gynmastic Enterprises" verstärkt auf das Ergebnis als
+auf die Prozesse und fokussieren sich auf Ihre Mitarbeitenden und deren individuellen Leistungen/Fähigkeiten. Die  traditionellen Unternehmen erlangten insgesamt eher 
+negativere Ergebnissen innerhalb der Projektarbeit. 
+
+Bei der Befragung wurden 1/3 der Unternehmen als „Gymnastic Enterprises“ eingestuft, und 30 % als „Traditional Enterprises“, die restlichen konnten nicht eindeutig zuge-
+ordnet werden:
+
+![classification of the Enterprises](Global_Project_Management_Survey/2021_Gymnastic and traditonal enterprises.jpg]
 
 Kernerkenntisse waren dabei unter anderem:
 
-1. Sogenannte „Gymnastic Enterprises“ sind besser durch die Krise gekommen, wenn es um den Erfolg einzelner Projekte im Unternehmen geht
+1. Sogenannte „Gymnastic Enterprises“ sind besser durch die Krise gekommen, wenn es um den Erfolg einzelner Projekte im Unternehmen geht. Bei der Betrachtung der Grafik
+muss berücksichtigt werden, dass die unteren drei Zeilen eine negative Situation darstellen und somit ein niedrigerer Wert als "besser" anzusehen ist.
 
+![Project Success_Failure_Gymnastic and Traditonal](Global_Project_Management_Survey/Project_Sucess_failure_comparison.jpg)
 
+2. Die "Gymnastic Enterprises" erfuhren in den letzten 12 Monate im Vergleich zu den "Tradional Enterprises" mehr Veränderungen innerhalb des Unternehmens
+oder trieben diese aktiv voran:
 
+![Recent Business Changes Gymnastic and Traditional](Global_Project_Management_Survey/2021_traditional vs gymnastic enterprises.jpg)
 
+3. Die "Gymnastic Enterprises" nutzten bei der Umsetzung der Projekte vermehrt aktuelle technolgische Trends und Möglichkeiten:
 
-Charakteristisch für die „Gymnastic Enterprises“ ist die vielfältige Anwendung unterschiedlicher Projektmanagement Methoden, wohingegen „traditionel enterprises“ Unternehmen darstellen, die sich auf bewährte bereits verwendete Methoden konzentriert haben. Diese  traditionellen Unternehmen erlangten insgesamt eher negativere Ergebnissen innerhalb der verschiedenen Projekte. 
-Bei der Befragung wurden 1/3 der Unternehmen als „gymnastic enterprises“ eingestuft, und 30% als „traditional enterprises“. 
+![Technology usage](Global_Project_Management_Survey/2021_Technolgy usage.jpg].
 
 # Kernaussagen und Erkenntnisse aus dem Report 2020
 
