@@ -22,6 +22,19 @@ Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umf
 **I** – Informed: Wer wird über die Ergebnisse der Aufgabe informiert? Hier findet in der Regel keine zweiseitige Kommunikation statt, sondern es werden lediglich Informationen übertragen. 
 
 
+## So kann eine RACI-Matrix aussehen
+
+<br>
+
+|               |    Person 1   |    Person 2    |    Person 3    |
+| ------------- | ------------- | -------------- | -------------- |
+|    Task 1     |      R  |         -               |  I |
+|    Task 2     | C  |  R  |  A   |
+|    Task 3     |    I           |      A          |  C  |
+
+  
+Pro Aktivität sollte in der Regel nur **eine** Person *accountable* und *responsible* sein. Hingegen können **mehrere** Personen bei einer Aktivität *consulted* oder *informed* sein. Es kann auch vorkommen, dass eine Person für eine Aktivität **gleichzeitig** *accountable* und *responsible* ist. Wenn für eine Aktivität **keine** Person als *responsible* definiert ist, nennt man dies "Lack of responsibility". Wenn **mehr als eine Person**
+responsible ist, spricht man von "overlap in responsibility". [^3]
 
 
 
@@ -50,19 +63,8 @@ Beispielhafte RACI-Matrix [^2]
 * Große Tabellen sind sehr **aufwendig zu pflegen**, falls sich Projektinhalte oder –beteiligte ändern.
 
 * Die Methode ordnet zwar Beteiligten Aufgaben zu, die **genaue Ausgestaltung** der Rolle muss jedoch zusätzlich in Form einer **Rollenbeschreibung** erfolgen.
-## So kann eine RACI-Matrix aussehen
-
 <br>
 
-|               |    Person 1   |    Person 2    |    Person 3    |
-| ------------- | ------------- | -------------- | -------------- |
-|    Task 1     |      R  |         -               |  I |
-|    Task 2     | C  |  R  |  A   |
-|    Task 3     |    I           |      A          |  C  |
-
-  
-Pro Aktivität sollte in der Regel nur **eine** Person *accountable* und *responsible* sein. Hingegen können **mehrere** Personen bei einer Aktivität *consulted* oder *informed* sein. Es kann auch vorkommen, dass eine Person für eine Aktivität **gleichzeitig** *accountable* und *responsible* ist. Wenn für eine Aktivität **keine** Person als *responsible* definiert ist, nennt man dies "Lack of responsibility". Wenn **mehr als eine Person**
-responsible ist, spricht man von "overlap in responsibility". [^3]
 
 <br>
 
