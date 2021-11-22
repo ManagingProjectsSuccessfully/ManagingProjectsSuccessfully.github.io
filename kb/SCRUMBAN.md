@@ -8,8 +8,8 @@ anrechnung: klassisch
 Scrumban ist ein aus [Scrum](SCRUM.md) und [Kanban](Kanban.md) gebildetes Kunstwort und beschreibt einen Methodenmix der beiden agilen Frameworks im Bereich des [Projektmanagements](Projektmanagement.md)[^1]. Dafür werden verschiedene Aspekte beider Methoden angewandt, auf die ich hier anschließend näher eingehen werde.
 
 # Historie
-Der Scrum Begiff wurde bereits in den 1990er Jahrewn von Jeff Sutherland und Ken Schwaber geprägt, wohingegen Kanban sich erst Jahre später in der Softwareentwicklung etablierte. Man erkannte realtiv schnell dass Scrum von den Visualisierungstechniken aus Kanban stark profitieren kann.
-Scrumban wurde dementsprechend entwickelt um kleinen Scrum-Teams neue Möglichkeiten zu eröffnen und Kanban Konzepte in ihre Arbeit mit einzubinden[^2]. Der Schwerpunkt liegt darin Scrum durch einige Ideen aus dem Kanban Framework vor allem flexibler und reaktiver zu gestalten[^3].
+Der Scrum Begiff wurde bereits in den 1990er Jahrewn von Jeff Sutherland und Ken Schwaber geprägt, wohingegen Kanban sich erst zehn Jahre später in der Softwareentwicklung etablierte. Man erkannte jedoch realtiv schnell dass Scrum von den Visualisierungstechniken aus Kanban stark profitieren kann.
+Scrumban wurde entwickelt um das beste aus beiden agilen Frameworks zu kombinieren und Scrum-Teams neue Möglichkeiten zu eröffnen und Kanban Konzepte in ihre Arbeit mit einzubinden[^2]. Der Schwerpunkt liegt darin Scrum durch einige Ideen aus dem Kanban Framework vor allem flexibler und reaktiver zu gestalten[^3].
 
 ![Beispielabbildung](SCRUMBAN/test-file.jpg)
 
@@ -30,7 +30,7 @@ Man unterscheidet zwischen vier verschiedenen "buckets" mit jeweils unterschiedl
 * der 1 Year Bucket enthält grob definierte Ziele, welche ein Team innerhalb eines Jahres erreichen möchte.
 * der 6 Months Bucket definiert Ziele die kurz vor der Umsetzung stehen.
 * der 3 Months Bucket ist für Pläne die fast fertig sind vorbehalten.
-* der Current Bucket beinhaltet allle Aufgaben die das Team als nächstes bearbeiten wird. [^3]
+* der Current Bucket beinhaltet alle Aufgaben die das Team als nächstes bearbeiten wird. [^3]
 ## Methoden aus Kanban
 ### Scrumbanboard
 ### WIP-Limits
