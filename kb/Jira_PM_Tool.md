@@ -41,7 +41,7 @@ Aufgaben oder Tickets werden in Jira als Vorgang angelegt. Hierbei kann je nach 
 ## 6. Filter
 Mit Hilfe von Filtern kann nach bestimmten Vorgängen gesucht werden. Zum einen kann man als Benutzer direkt auf dem Projektboard mit hinzugefügten Schnell-Filtern per Auswahlliste oder Suchfeld die Ergebnisse einschränken, andererseits hat man die Möglichkeit über Jira-Query-Language (JQL) erweiterte suchen auszuführen. [QUELLE] Diese erweiterten Suchen können auch getrennt von dem Projektboard als eigene Filter abgespeichert werden und so an verschiedenen Stellen wiederverwendet werden.
 
-## 6.1 JQL-Code Beispiel
+### 6.1 JQL-Code Beispiel
  
 **Select all issues you are interested in**
 
