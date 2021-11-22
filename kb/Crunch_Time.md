@@ -34,6 +34,6 @@ Ein gutes Projektmanagement ist essenziell, um Crunch Time zu vermeiden. Zur Pla
 [^3]: [Crunch time in software development: a theory](https://elib.uni-stuttgart.de/bitstream/11682/11110/1/Master%20Thesis_Ruzica%20Jozin.pdf)
 [^4]: [Project management triangle](https://en.wikipedia.org/wiki/Project_management_triangle)
 [^5]: [Tips for Improving Bad Time Management to Boost Productivity and Reduce Stress](https://www.freshbooks.com/hub/productivity/poor-time-management?fb_dnt=1)
-[^6]: [Projektmanagement-Methoden: klassisch, agil und hybrid] (https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden_node.html;jsessionid=87298AEC46E44A72560858EBF7715CBD.delivery2-master)
+[^6]: [Projektmanagement-Methoden: klassisch, agil und hybrid](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden_node.html;jsessionid=87298AEC46E44A72560858EBF7715CBD.delivery2-master)
 [^7]: [10 Scrum benefits and how to realize them](https://searchsoftwarequality.techtarget.com/tip/10-Scrum-benefits-and-how-to-realize-them)
 [^8]: [Erste-Hilfe bei Projektverzögerungen](https://www.zeitblueten.com/news/projektmanagement-verzoegerungen/)
