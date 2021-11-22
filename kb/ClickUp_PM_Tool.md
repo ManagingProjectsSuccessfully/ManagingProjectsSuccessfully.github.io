@@ -68,7 +68,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 |   Kostenlos     | Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 
-*¹(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
+* ¹(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
