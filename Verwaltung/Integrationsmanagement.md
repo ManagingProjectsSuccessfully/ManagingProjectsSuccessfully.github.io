@@ -45,9 +45,11 @@ Um eine solch tragende Rolle erfolgreich erfüllen zu können ist es wichtig, al
 
 | Art  | Bespiel |
 | ------------- | ------------- |
-| Persönliche Kompetenz  |Selbstvertrauen |
-| Soziale Kompetenz | Teamfähigkeit  |
-|Methodische Kompetenz |Präsentationstechniken |
+| Persönliche Kompetenz  |Selbstvertrauen <br /> Selbstdisziplin <br /> Selbstreflexion <br /> Engagement <br /> Motivation <br /> Neugier <br /> Belastbarkeit <br /> Eigenverantwortung |
+| Soziale Kompetenz | Teamfähigkeit <br /> Empathie <br /> Menschenkenntnis <br /> Kommunikationsfähigkleit <br /> Integrationsbereitschaft <br /> Kritikfähigkeit <br /> Umgangsstil|
+|Methodische Kompetenz |Präsentationstechniken <br /> Umgang mit neuen Medien <br /> Strukturierte und zielgeordnete Arbeitsweise <br /> Analytische Fähigkeiten <br /> Problemlösungskompetenz <br /> Stressresistenz <br /> Organisationstalent <br /> Zeitmanagement |
+
+*[Tabelle Soft skills](https://www.praktikum.info/karrieremagazin/bewerbung/soft-skills)*
 
 # Siehe auch
 ## Verlinkungen zu angrenzenden Themen
@@ -67,4 +69,3 @@ Um eine solch tragende Rolle erfolgreich erfüllen zu können ist es wichtig, al
 [^3]: https://de.wikipedia.org/wiki/Integrationsmanagement
 [^4]: https://de.wikipedia.org/wiki/Projektleiter#:~:text=Der%20Projektleiter%20ist%20f%C3%BCr%20die,im%20Rahmen%20des%20Projekts%20zust%C3%A4ndig.
 [^5]: https://refa.de/berufe/projektleiter
-[^6]: https://www.praktikum.info/karrieremagazin/bewerbung/soft-skills
