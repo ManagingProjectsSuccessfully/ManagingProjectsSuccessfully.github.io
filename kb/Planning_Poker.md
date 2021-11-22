@@ -34,6 +34,9 @@ Zum Schätzen erhält jeder Teilnehmer einen Satz Karten, auf denen eine Fibonac
 
 Zur Einleitung stellt der Moderator eine Aufgabe vor und bittet dann um Schätzungen dazu. Alle Teilnehmer bekommen kurz Zeit, um sich für eine Karte zu entscheiden. Daraufhin halten alle gleichzeitig die jeweils von ihnen gewählte Karte hoch oder legen sie sichtbar auf den Tisch. Damit wird verhindert, dass die Mitspieler sich bewusst oder unbewusst den Schätzungen anderer anpassen. Dieser Anpassungseffekt wird in der Verhaltenspsychologie auch Anker-Effekt genannt. [^1] 
 
+![Beispielabbildung](Planning_Poker/Planning_Poker.pdf)
+
+
 Die Teilnehmer mit den höchsten und niedrigsten Schätzungen begründen ihre Meinung um die Auswahl nachvollziehen zu können. Es folgt nun eine weitere Schätzrunde, auf Basis der neuen Informationen und Meinungen. Im Allgemeinen werden die Schätzungen nun näher beieinanderliegen als in der ersten Runde. „Liegen sie nach Meinung des Sitzungsleiters jedoch noch immer zu weit auseinander, so lässt er wieder die Extrempositionen zu Wort kommen.“ [^4] Diese Schätzzyklen werden bis zur Einigung wiederholt. 
 
 ## Der Nutzen
