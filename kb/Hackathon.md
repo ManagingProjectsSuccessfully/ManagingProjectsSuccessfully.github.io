@@ -99,7 +99,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die Möglichkeit auf Networking, 
 [^4]: https://digitaleneuordnung.de/blog/hackathon/
 [^5]: https://www.dev-insider.de/was-ist-ein-hackathon-a-810665/
 [^6]: https://www.vgsd.de/hackathon-ideen-fuer-die-zukunft-der-wirtschaft-in-rheinland-pfalz-gesucht/
-[^7]: [Kollaborative Innovationsprozesse - Hackathons in Theorie und Praxis](https://link.springer.com/chapter/10.1007/978-3-658-16223-8_6) (S. ,S. )
+[^7]: [Schroll W. (2017) Kollaborative Innovationsprozesse – Hackathons in Theorie und Praxis. In: Knoll T. (eds) Veranstaltungen 4.0. Springer Gabler, Wiesbaden.](hhttps://doi.org/10.1007/978-3-658-16223-8_6) (S. ,S. )
 [^8]: [Grundlagen zu Hackathons](https://link.springer.com/book/10.1007/978-3-658-26028-6) (S. ,S. )
 [^9]: https://twitter.com/zollhofhq/status/1111549947890012161
 [^10]: https://www.dw.com/de/lösungen-hacken-in-der-coronakrise/a-53295894
