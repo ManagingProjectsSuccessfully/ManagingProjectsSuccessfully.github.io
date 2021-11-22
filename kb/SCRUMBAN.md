@@ -22,6 +22,7 @@ Die Arbeit wird in einzelne Sprints aufgeteilt. Ein Sprint ist ein Arbeitsabschn
 ### Langzeitorientierte Planung
 Scrumban implementiert langfristige Planungsmöglichkeiten durch das sogenannte "bucket-size-planning". Auf der folgenden Abbildung ist dieses Prinzip näher dargestellt. 
 ![bucket-size-planning](SCRUMBAN/Bucket-size-planning.jpg)
+
 Man unterscheidet zwischen vier verschiedenen "buckets" mit jeweils unterschiedlichen Zielen und Inhalten:
 * der 1 Year Bucket enthält grob definierte Ziele, welche ein Team innerhalb eines Jahres erreichen möchte.
 * der 6 Months Bucket definiert Ziele die kurz vor der Umsetzung stehen.
