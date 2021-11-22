@@ -5,18 +5,18 @@ author: BeratGuen
 anrechnung: k oder a
 ---
 ## Inhaltsverzeichnis
-> - Definition
-> - Änderung des momentanen Mindsets zur Umsetzung vom Scaled Agile Framework
-> - "SAFe House of Lean
->   - Maximaler Kundenwert als Ziel
->   - Säule 1 - Respekt für Menschen und Kultur
->   - Säule 2 - Flow
->   - Säule 3 - Innovation
->   - Säule 4 - Unermüdliche Verbesserung
->   - Fundament - Führung 
-> - Siehe auch
-> - Weiterführende Literatur
-> - Quellen
+> - [Definition](SAFe_Lean_Agile_Mindset.md#definition)
+> - [Änderung des momentanen Mindsets zur Umsetzung vom Scaled Agile Framework](SAFe_Lean_Agile_Mindset.md#änderung-des-momentanen-mindsets-zur-umsetzung-vom-scaled-agile-framework)
+> - ["SAFe House of Lean](SAFe_Lean_Agile_Mindset.md#lean-denkweise-mit-dem-safe-house-of-lean1)
+>   - [Maximaler Kundenwert als Ziel](SAFe_Lean_Agile_Mindset.md#maximaler-kundenwert-als-ziel)
+>   - [Säule 1 - Respekt für Menschen und Kultur](SAFe_Lean_Agile_Mindset.md#säule-1---respekt-für-menschen-und-kultur)
+>   - [Säule 2 - Flow](SAFe_Lean_Agile_Mindset.md#säule-2---arbeitsverlauf)
+>   - [Säule 3 - Innovation](SAFe_Lean_Agile_Mindset.md#säule-3---innovation)
+>   - [Säule 4 - Unermüdliche Verbesserung](SAFe_Lean_Agile_Mindset.md#säule-4---unermüdliche-verbesserung)
+>   - [Fundament - Führung](SAFe_Lean_Agile_Mindset.md#fundament---führung) 
+> - [Siehe auch](SAFe_Lean_Agile_Mindset.md#siehe-auch)
+> - [Weiterführende Literatur](SAFe_Lean_Agile_Mindset.md#weiterführende-literatur)
+> - [Quellen](SAFe_Lean_Agile_Mindset.md#quellen)
 
 ---
 
