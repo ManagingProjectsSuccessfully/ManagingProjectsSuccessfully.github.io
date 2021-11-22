@@ -12,7 +12,12 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Projektmanagement bei Bauprojekten
 
-Das Bauprojektmanagement kann als die Urform des Projektmanagements betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren.[^5]
+Das Bauprojektmanagement kann als die Urform des Projektmanagements betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren. 
+Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements. 
+
+## Aufgaben des Bauprojektmanagements 
+[^5]
+
 
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
