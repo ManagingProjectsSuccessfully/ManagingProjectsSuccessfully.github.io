@@ -11,10 +11,10 @@ betriebliche und persönliche Bereiche. Um [Veränderungen auf betrieblicher Sei
 
 # Begriff und Ursprung
 Der Begriff Change Management ist in Deutschland vorwiegend unter Veränderungs- und Transformationsmanagement bekannt [^3]. 
-Moran und Brightman beschreiben Change Management als "the process of  continually renewing an organization's direction, structure, and capablities to serve 
-the ever-changing needs of external and inernal customer" [^4].
+Moran und Brightman beschreiben Change Management als "the process of  continually renewing an organization's direction, structure, and capabilities to serve 
+the ever-changing needs of external and internal customer" [^4].
 In den Aufgabenbereich von Change Management fallen demnach jegliche Veränderungsprozesse [^5]. 
-Der Ursprungs von Change Management kann auf die Hawthorne-Experimente zu Beginn der 1930er Jahre zurückgeführt werden [^3].
+Der Ursprung von Change Management kann auf die "Hawthorne" Experimente zu Beginn der 1930er Jahre zurückgeführt werden [^3].
 Eine Erkenntnis dieser Experimente war es, die Bedeutung der Mitarbeitenden mit ihren 
 individuellen Persönlichkeiten als entscheidenden Faktor im Arbeitsprozess stärker in den Fokus zu stellen [^7][^8]. 
 Ein kennzeichnendes Merkmal von Change Management ist demnach die nach innen gerichtete und auf die 
@@ -22,30 +22,32 @@ Mitarbeitenden einer Organisation ausgelegte Sichtweise.
 Dies ist ein wesentlicher Unterschied zu strategischem Management, welches sich an Faktoren im Unternehmensumfeld orientiert[^2][^3].
 
 # Aufgaben und Ziele
-Die Initiierung und Einleitung von Veränderungen beginnen im Rahmen der strategischen Planung. Change Management geht einen Schritt weiter. 
+Die Initiierung und Einleitung von Veränderungen in Unternehmen beginnen im Rahmen der strategischen Planung. 
+Change Management geht einen Schritt weiter. 
 Ziel ist es, den Weg zur Umsetzung der getroffenen Strategie zu fördern und zu gestalten [^2].  
-Zur Durchführung von [Change Management in Organisationen](Managing_Change_in_Organisations.md) erfolgt 
+Die Durchführung von [Change Management in Organisationen](Managing_Change_in_Organisations.md) erfolgt 
 in Form von [Change Projekten](Change_Projekte.md). Die Steuerung und Planung von [Change Projekten](Change_Projekte.md) ist 
 ein vielseitiges und kompliziertes Vorhaben, dass unterschiedliche Aspekte zu berücksichtigen hat [^2]. 
-Ein wichtiger Baustein innerhalb dieses Prozesses sind die Mitarbeitenden des Unternehmens [^4]. 
+Ein wichtiger Baustein innerhalb dieses Prozesses ist es, die Mitarbeitenden des Unternehmens in den Fokus zu stellen
+und im Veränderungsgeschehen zu begleiten. [^4]. 
 Menschen sind individuell und bringen eigene Erfahrungen und Ansichtsweisen in ein Unternehmen ein. Aus diesem Grund
 gilt es im Zuge von Change Management neben der Entwicklung fehlender Kompetenzen vor allem darum, eine positive Einstellung 
 der Mitarbeitenden gegenüber den bevorstehenden Veränderungen zu schaffen [^2]. Insbesondere ein
 sensibler Umgang mit Widerständen stellt einen wichtigen Erfolgsfaktor im Veränderungsprozess dar [^7]. 
-Weitere hervorzuhebende Faktoren liegen in der Berücksichtigung vorliegender Unternehmensstrukturen- und kulturen[^2]. 
+Weitere hervorzuhebende Faktoren außerhalb der individuellen Ebene liegen vor allem 
+in der Berücksichtigung vorliegender Unternehmensstrukturen- und kulturen[^2]. 
 
 # Anleitung und Modelle
-Auch wenn aufgrund der Komplexität der Faktoren eine pauschale Anleitung zur erfolgreichen Gestaltung des Wandels nicht vorhanden sein kann,
-existieren eine Vielzahl an Modellen zur Gestaltung von [Change Projekten](Change_Projekte.md)[^3].
+Aufgrund der Komplexität der Faktoren ist eine pauschale Anleitung zur erfolgreichen Gestaltung des Wandels nicht vorhanden. 
+Jedoch existieren eine Vielzahl an Modellen zur Gestaltung von [Change Projekten](Change_Projekte.md)[^3].
 Eine oft zu beobachtende Gemeinsamkeit ist die sequentielle Abfolge einzelner Schritte im Verlauf des Veränderungsprozesses [^8]. 
 Zwei der bekanntesten Modelle sind das [8 Stufen Modell von Kotter](8_Step_Process_for_Leading_Change.md) und das 3-Stufen Modell von Lewin [^9][^10].
 
 ## Lewin Modell
-Lewin unterteilt den Veränderungsprozess in 3 Stufen ein:
+Lewin unterteilt den Veränderungsprozess in 3 Stufen ein[^9]:
 1. unfreezing
 2. moving
 3. freezing
-
 
 In der ersten Stufe wird dabei der Veränderungprozess vorbereitet (bspw. durch Diskussionen und Begründungen) [^11].
 Erst im folgenden Schritt werden die Neuerungen eingeführt und anschließend als Standards abgesichert[^12]. 
@@ -62,19 +64,11 @@ Insbesondere stellt dieser die Bedeutung und das Kommunizieren einer gemeinsamen
 
 *8-Stufen Modell nach Kotter [^14]*
 
+# Forschung und Praxis
 
-
-Trotz der Vielzahl der Modelle und Vorschläge zur Gestaltungsmöglichkeit scheitern
-in der Praxis weiterhin viele Change-Management-Projekte in der Praxis[^12]. 
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Durch immer kürzere Veränderungszyklen und die zunehmende Schnelllebigkeit in einer globalisierten Welt, hat das Change Management in den letzten 
+Jahrzehnten eine erhöhte Aufmerksamkeit in Forschung und Praxis erfahren. Trotz dieser Anstrengungen und 
+der daraus entstandenden Vielzahl an Modellen bzw. Vorschläge zur Gestaltungsmöglichkeit, scheitern weiterhin viele [Change-Management-Projekte](Change_Projekte.md) in der Praxis[^12]. 
 
 # Siehe auch
 
@@ -90,9 +84,9 @@ So kann man eine Tabelle erstellen:
 * [Wissenschaftlicher Artikel zur Differenzierung von Change Management und Change Leadership](https://doi.org/10.1080/714023845)
 * [Buch zu Grundlagen und Erfolgsfaktoren im Change Management](https://link.springer.com/content/pdf/10.1007%2F978-3-662-59102-4.pdf)
 * [Buch zur erfolgreichen Gestaltung von Veränderungsprozessen](https://link.springer.com/content/pdf/10.1007%2F978-3-540-78855-3.pdf)
-* [Video zu den 3 Stufen von Lewin](https://www.youtube.com/watch?v=kerDFvln7hU)
-* [Video zu den 8 Stufen von John Kotter](https://www.youtube.com/watch?v=xMhfhuB2SME)
-* [Weitere Erläuterungen zu den 8 Stufen von John Kotter](https://www.youtube.com/watch?v=7qlJ_Y8w5Yk)
+* [Video zu den 3-Stufen von Lewin](https://www.youtube.com/watch?v=kerDFvln7hU)
+* [Video zu den 8-Stufen von John Kotter](https://www.youtube.com/watch?v=xMhfhuB2SME)
+* [Weitere Erläuterungen zu den 8-Stufen von John Kotter](https://www.youtube.com/watch?v=7qlJ_Y8w5Yk)
 * [Website mit ausführlichen Erklärungen zum 8-Stufen Modell von John Kotter](https://digitaleneuordnung.de/blog/kotter-modell/)
 * [Verschiedene Change Management Modelle im Vergleich](https://organisationsberatung.net/change-management-modelle-im-vergleich/)
 
