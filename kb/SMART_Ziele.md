@@ -13,7 +13,7 @@ Ein Ziel ist nur dann SMART, wenn es alle fünf Aspekte der SMART-Methode berüc
 
 ![SMART_Ziele](SMART_Ziele)
 
-*Die einzelnen SMART-Kriterien im Überblick*
+*Die einzelnen SMART-Kriterien im Überblick*[^6]
 
 ## Spezifisch
 
@@ -73,6 +73,7 @@ Der fünfte Punkt von SMARTen Zielen ist die Terminierung. Für ein Ziel sollte 
 # Weiterführende Literatur
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* 
 
 # Quellen
 
@@ -81,6 +82,7 @@ Der fünfte Punkt von SMARTen Zielen ist die Terminierung. Für ein Ziel sollte 
 [^3]: [SMART-Ziele ein Überblick](https://projektmanagement-manufaktur.de/smart-ziele)
 [^4]: [There´s a S.M.A.R.T way to write management´s goals and objectives](https://community.mis.temple.edu/mis0855002fall2015/files/2015/10/S.M.A.R.T-Way-Management-Review.pdf)
 [^5]: [Die SMART-Methode: So setzen Sie SMART-Ziele](https://blog.hubspot.de/marketing/smart-ziele)
+[^6]: [Bild SMART-Kriterien](https://blog.iconnewmedia.de/de/warum-sollte-ich-mir-nur-ziele-setzen-die-smart-sind/)
 
 
 
