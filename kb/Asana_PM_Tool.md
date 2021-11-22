@@ -5,7 +5,6 @@ author: Saskia1403
 anrechnung: a
 ---
 
-# Kurzbeschreibung von Asana Inc.
 Asana Inc. ist ein US-amerikanisches Unternehmen aus San Francisco für agile [Projektmanagement-Software](Projektmanagementsoftware.md), welches 2008 gegründet und erst 2012 offiziell auf den Markt gekommen ist [^1] [^2]. Die beiden Gründer Dustin Moskovitz und Justin Rosenstein lernten sich bereits zuvor bei ihrer Arbeit für Facebook kennen. Dort entstand auch ihre Idee für ein Tool, dass die Organisation eines Teams erleichtert und es Teams ermöglicht auf der ganzen Welt zusammenzuarbeiten [^3]. 
 Asana, der Name des Unternehmens stammt dabei aus dem Sanskrit, der Literatur- und Gelehrtensprache in Indien. Ursprünglich wird es im Yoga verwendet und ist namensgebend für verschiedene Haltungsgruppen, die sowohl Dynamik als auch Beständigkeit ausdrücken [^3] [^4]. 
 Als US-amerikanisches Unternehmen werden die mit dem Unternehmen geteilten Daten grundsätzlich nach den amerikanischen Richtlinien behandelt. Allerdings bietet Asana auch die Möglichkeit ein Übereinkommen für eine Datenverarbeitungsvereinbarung zu treffen, nach der die Daten gemäß der DSGVO verarbeitet werden [^2].
