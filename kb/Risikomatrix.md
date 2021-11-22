@@ -37,9 +37,6 @@ Im Projektmanagement dient die Risikomatrix der übersichtlichen Veranschaulichu
 Zunächst ist die Aussagekraft der Risikomatrix sehr schwach, da sie nur eine zeitabhängige Darstellung von Einzelrisken ist, bedeutet die Variablen können sich jederzeit verändern. Des Weiteren ist zu verstehen, dass die Wechselwirkungen zwischen den Einzelrisiken, als auch die Dynamik von Einzelrisiken in der Riskomatrix nicht betrachtet werden[^10]. Außerdem ist die Risikomatrix auf eine Binominalverteilung der Risiken angewiesen, damit die Einzelrisiken durch Schadensausmaß und Eintrittswahrscheinlichkeit bewertet werden können, jedoch ist diese Verteilung im Rahmen eines Unternehmens selten vorzufinden[^3]. Unter anderem sind die qualitativen und quantitativen Aussagen begrenzt, denn viele Risiken mit geringen Wahrscheinlichkeiten und Auswirkungen können äquivalent wirken zu einem Risiko mit großer Wahrscheinlichkeit und Auswirkung[^1]. 
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Risikomatrix.md)
 * [Eintrittwahrscheinlichkeit](https://de.wikipedia.org/wiki/Eintrittswahrscheinlichkeit)
 * [Schadenserwartungswert](https://www.controlling-wiki.com/de/index.php/Risikomanagementsystem_(RMS))
 * [Risikobereitschaft](https://www.projektmagazin.de/glossarterm/risikobereitschaft)
