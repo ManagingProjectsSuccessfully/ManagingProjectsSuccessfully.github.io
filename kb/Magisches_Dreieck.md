@@ -117,7 +117,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Das Wesen des Projektmanagements](https://link.springer.com/chapter/10.1007/978-3-658-23714-1_2)
+* [Projektmanagement: Leitfaden zur Steuerung und Führung von Projekten](https://books.google.de/books?hl=de&lr=&id=ZUgjBgAAQBAJ&oi=fnd&pg=PA1&dq=magisches+Dreieck+des+Projektmanagements&ots=7i_tGUC1oC&sig=c35P6idGeP6UYyoxwPiKqhchvIE#v=onepage&q=magisches%20Dreieck%20des%20Projektmanagements&f=false)
 
 # Quellen
 
