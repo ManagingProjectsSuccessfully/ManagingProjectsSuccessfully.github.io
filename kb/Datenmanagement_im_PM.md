@@ -26,6 +26,21 @@ Jeder Projektleiter (Projektleiter) muss sich auf ein leistungsfähiges [Projekt
 
 Das PMIS sollte ein Datenbankmanagementsystem sein, bei dem alle Datensätze in einer Datenbank gespeichert werden, die allen Informationsmodulen regelmäßig zur Verfügung steht. Ein Teil der höherwertigen Projektmanagementsoftwarepakete (Projektmanagementsoftware) werden mit solchen Datenbanken geliefert.[^8] Außerdem ist die Entwicklung eines vollständig integrierten und absolut guten Systems zu entwerfen, ein bedeutendes Unterfangen, das viel Analyse der bestehenden Strategien über ein Projekt voraussetzt.[^9]
 
+# 3.	Informationssysteme im PM 
+
+## 3.1	Gestaltung der Informationssysteme
+
+Das PMIS sollte sinnvoll gestaltet sein, um zu gewährleisten, dass die einzelnen Module funktionsfähig und aufeinander abgestimmt sind. Diese Gestaltung und Nutzung sollte einfach sein, was auf die begleitenden Elemente zurückzuführen ist:
+
+•	Der Ansatz des Projektmanagements (Projektmanagement) ist festgelegt.
+•	Die IT-Ausstattung und Software sind einfach zu verstehen, vor allem mit zufriedenstellender Geschwindigkeit und Kontrolle. 
+•	Es gibt eine umfangreichere Auswahl an Projektmanagementsoftwarepakete (Projektmanagementsoftware), von denen eine große Anzahl flexibel, vielseitig einsetzbar und sinnvoll bewertet ist.
+•	Datenbankmanagementinformationspakete sind weithin zugänglich und werden bei vielen unterschiedlichen Projekten genutzt. Die meisten modernen Projektmanagementpakete sind so konzipiert, dass sie sich mit ihnen verbinden lassen.[^10]
+
+## 3.2	Implementierung und Integration der Informationssysteme
+
+Alle Module des Informationssystems sind bis zu einem gewissen Grad integriert, insbesondere die primären Module (siehe Abbildung – Interaktion der primären Module).[^11]-Project Management Normalerweise produziert jedes Modul Informationen, die von anderen Modulen genutzt werden; nutzt die Informationen, die von anderen Modulen erzeugt werden; oder auch beides parallel. In diesem Sinne ist die Verbindung dieser Module des Informationssystems zu einem koordinierten PMIS von unglaublicher Bedeutung für ein leistungsfähiges Projektmanagement (Projektmanagement).
+
 
 
 
@@ -128,3 +143,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^7]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^8]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^9]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^10]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^11]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
