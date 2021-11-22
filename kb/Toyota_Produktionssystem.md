@@ -8,7 +8,7 @@ anrechnung: k
 Das Toyota Produktionssystem ist ein für Toyota entwickelter Produktionsprozess für Serienverfahren, dass sich auf die Verbesserung der organisatorischen Abläufe konzentriert. Nach dem zweiten Weltkrieg ergab sich eine Krisensituation für das japanische Unternehmen Toyota, da nur wenige Fertigungsmittel und geringes Kapital zur Verfügung stand. Schlussfolgernd war es wichtig Fahrzeuge effizient zu produzieren. Der Ingenieur Taiichi Ohno entwickelte im Jahr 1950 das Toyota Produktionssystem, indem er Just-in-Time, Jidoka (Automation) und Kaizen in einem System zusammenführte.1 Das Ziel des Produktionssystems ist es hohe Qualität bei hoher Produktivität und pünktlicher Lieferung zu erreichen. Dieses Ziel soll durch Eliminierung von Überbeanspruchung, jegliche Art von Verschwendung und ungleichmäßiger Produktionsauslastung gewährleistet werden. Verglichen wird das Toyota Produktionssystem mit einem Haus. Die Säulen des Hauses bilden die Prinzipien Jidoka und Just-in-Time. Das Fundament, bestehend aus Kaizen, Standardisierung und Heijunka, tragen zur Erreichung des Daches und somit zum Ziel bei.2
 
 <img src="Toyota_Produktionssystem/TPS.png" alt="Elemente des Toyota Prodkutionssystem" width="600"/>
-*Elemente des Toyota Prodkutionssystem*
+Elemente des Toyota Prodkutionssystems
 
 # Jidoka
 
@@ -27,42 +27,17 @@ Gniedlaskubf daneem.
 
 Nach Jidoka stellt Just-in-Time die zweite Säule des Hauses dar. Das Just-in-Time Prinzip bezieht sich auf Prozessanforderungen mit genauen Zeitvorgaben. Hierbei liegt das Grundprinzip darin nur die Menge an Produkten zu produzieren oder zu liefern die bestellt wurden. Das Ziel des Just-in-Time ist es, das richtige Produkt, in der richtigen Mengen- und Zeitvorgabe, sowie in der richtigen Qualität und am richtigen Ort zu einem richtigen Preis zu liefern. Das Prinzip wird an Kundenbedürfnisse angepasst.1
 
-# Aspekt 2
+# Kaizen
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+In der japanischen Kultur ist Kaizen (jap. kai „Veränderung“, zen „zum Guten oder Besseren“) eine Lebens- und Arbeitsphilosophie, die immer unter Einbeziehung der Belegschaft für eine kontinuierliche und ständige Verbesserung von Produkten und Prozessen, sowie Leistungen in kleinen Schritten steht. Hierbei werden Verbesserungsvorschläge der Belegschaft eigenständig und sofort beurteilt, außerdem vor Ort geprüft und konsequent realisiert. Die Umsetzung der Optimierungen im Sinne des Kaizens erfordern Zeit. Dabei darf die Verbesserung nicht zu einem Mehraufwand der Belegschaft, sowie Platz oder finanzieller Mittel führen. Das Ziel des Kaizens ist die schnelle Realisierung von Verbesserungsvorschlägen und die Beseitigung von Verschwendungen. (Quelle 1 und 3)
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Standardisierung
 
-So kann man eine Tabelle erstellen:
+Die Standardisierung ist eine Komponente der Qualitätssicherung und dient als weiteres Fundament des Hauses. Standards sind verbesserungsfähig und wiederholbar, daher sind sie im Lean-Management die sicherste und effizienteste Art, um Tätigkeiten auszuführen. Für einen kontinuierlichen Verbesserungsprozess und die Eliminierung von Problemstellungen schaffen Standards ein systematisches Verständnis.  Das Ziel der Standarisierung ist die Erreichung von personenunabhängigen Prozessergebnissen, welches zu stabilen Prozessen führen soll, um die Zusammenarbeit mit Prozessen zu anderen Organisationseinheiten zu verbessern.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# Heijunka
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Das letzte Fundament des Hauses ist Heijunka. Heijunka ist eine Methodik zur Vermeidung von Überproduktion, bei der es sich um die interne Störfähigkeit und die Akquisition von Materialien handelt. Verglichen wird Heijunka mit einem Steckkartenbrett an dem Produktaufträge und Kapazitäten gruppiert werden. Auf dem Heijunka ist die Fächeranzahl so hoch wie die verfügbare Kapazität. Eine Variante wird erst bei ausreichenden Produktaufträgen eingeplant. Diese Methodik wird oft von Spezialisten für das eigene Zeitmanagement verwendet. Im Hinblick auf die Produktionsvorgänge und die Abarbeitung der Bestellungen schafft Heijunka eine wichtige Gesamtübersicht. Das Ziel der Eliminierung von instabilen Prozessvorgängen oder die Variabilität verfolgt Heijunka, um einen ungleichmäßigen Produktionsdurchlauf zu vermeiden. 1
 
 # Siehe auch
 
