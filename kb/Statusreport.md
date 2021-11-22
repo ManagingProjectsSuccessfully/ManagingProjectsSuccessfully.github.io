@@ -1,104 +1,56 @@
 ---
 title: Statusreport
-tags: agil klassisch
+tags: klassisch
 author: julianTR4
-anrechnung: k oder a
+anrechnung: k
 ---
+# Einleitung
+„Houston wir haben ein Problem“. Dieser weltberühmte Satz ist Teil des wohl bekanntesten Statusreports aller Zeiten. Der Tank der Apollo 13 wurde durch eine Explosion beschädigt, weshalb das Projekt vorzeitig abgebrochen werden musste. In Unternehmen sind die Umstände eines Statusreports meist unspektakulärer, aber dennoch essentieller Bestandteil eines jeden Projektes
 
-Kurzbeschreibung zu Statusreport um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+## Definition und Zweck
+Per Definition ist ein solcher Bericht eine Darstellung des aktuellen Stands eines Projektes. Der Fortschritt des Unterfangens wird dokumentiert und nächste Maßnahmen festgehalten. In regelmäßigen Abständen werden Stakeholder unterrichtet, um ihnen einen Einblick in die Vorgänge zu präsentieren. [^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## Verantwortung
+Verantwortlich für das Verfassen des Papiers ist zumeist der Projektleiter selbst. Ihm obliegt die Aufgabe, die relevanten Informationen aufzubereiten und sich an fällige Deadlines zu halten. [^2]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Explizite Inhalte
+## Aufbau
+Doch wie genau sieht der Aufbau nun aus? Das fertige Resultat sollte nicht mehr als drei Seiten überschreiten, da es sich primär um eine schnelle Einordnung des Fortschrittes handelt. Sollte tieferes Interesse bestehen, kann auf Dokumente verwiesen werden, die sich in der detaillierten Projektdokumentation finden lassen. 
+Schon zu Beginn des Statusreports gilt es wesentliche Daten aufzuzeigen. Diese enthalten etwa: [^2]
+* Name des Projektes und des Leiters
+* Datum und Nummer des Berichts
+* Grundlegende Kennzahlen
+  - Time to complete
+  - Cost to complete
+  - Fertigstellungsgrad
+ 
+ ## Projektampel
+ Auch die „Projektampel“ sollte direkt ersichtlich sein. Diese dient dazu, den Gesamtzustand passend zu visualisieren. Ein Vorteil der Ampel ist, dass sich der Grad des Handlungsbedarfes bei mehreren Projekten, gut nach der Farbe der Ampel sortieren lässt. Um die Projektentwicklung ablesen zu können, ist auch eine „Ampel-Historie“ ratsam. Der Ampelstand alleine reicht jedoch nicht aus. Deshalb sollte zum besseren Verständnis die Farbe mit Fließtext erläutert werden. [^3]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+![ampel](https://user-images.githubusercontent.com/92935784/142887051-4fdb07e0-5f4e-456a-a2b8-4245d1844686.png)
+https://www.business-wissen.de/res/images/Screenshot_Ampel.png
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+## Zielabweichungen erkennen
+Um Abweichungen von angestrebten Resultaten zu erkennen, werden Meilensteintrendanalysen (MTA) und Soll-Ist-Vergleiche angewandt. Für Ersteres müssen zu Beginn Meilensteine terminiert werden. Im Verlauf der MTA können dann Verzögerungen einzelner Meilensteine durch Besprechungen frühzeitig erkannt und vermieden werden. Ein Trendmuster sieht dann beispielweise so aus: [^4]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+![meilensteinanalyse](https://user-images.githubusercontent.com/92935784/142887336-e8306f44-1d24-4a89-95ee-d39e0c624db5.png)
+https://de.wikipedia.org/wiki/Datei:MTA2.png
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Bei dem Soll-Ist-Vergleich wird beispielsweise mithilfe eines Säulendiagramms der aktuelle Ist-, und der gewünschte Soll-Zustand verglichen. [^3]
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Risiken des Projektes
+Unentbehrlich für den Report ist die Auflistung verschiedener Risiken, die das Potential haben, das Projekt zu gefährden. Ob interne oder externe Faktoren, gilt es stets ein Auge auf die Störfaktoren zu haben, die sich als Stolperstein entpuppen könnten. Häufig werden diese Gefahren in einer Liste zusammengetragen. Eine weitere Möglichkeit besteht darin, die Auswirkungen und Wahrscheinlichkeiten zu quantifizieren und dann in einer Matrix zu visualisieren. [^3]
 
+# Frequenz der Statusberichte
+Abgesehen vom Inhalt gibt es Diskussionen darüber, wie oft ein solcher Bericht anzufertigen ist. Von wöchentlich bis quartalsweise ist alles möglich. Dennoch gilt zu beachten, dass Reports in zu hoher Frequenz an Qualität einbüßen können. Zudem kann die Zeit, die für das Erstellen benötigt wird, nicht mehr für die eigentliche Projektarbeit genutzt werden. Generell gibt es keine Standardlösung, vielmehr sollte auf die aktuelle Projektphase und die spezifischen Anforderungen eingegangen werden. Beispielsweise benötigt ein [Routineprojekt](https://www.kraus-und-partner.de/wissen-und-co/wiki/projekt-arten-charakter-projekte-beratung) [^5] seltener Statusreports als ein [Innovationsprojekt](https://www.kraus-und-partner.de/wissen-und-co/wiki/projekt-arten-charakter-projekte-beratung) [^5]. [^2]
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Statusreport/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Statusreport.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+# Häufig auftretende Fehler 
+Ein Statusbericht ist also von großem Wert, um dem internen, sowie externen Team zu zeigen, wo genau sich das Projekt zurzeit befindet. Außerdem kann durch transparente und akribische Informationsaufbereitung zusätzliche Ressourcen und Mittel von Stakeholdern organisiert werden. Die Kommunikation zwischen den beiden Parteien sollte es jedoch ausdrücklich nicht ersetzen. [^1] Wird das beachtet, so steht einem erfolgreichen Projektabschluss nichts mehr im Weg.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://www.kraus-und-partner.de/wissen-und-co/wiki/statusbericht
+[^2]: https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/statusreport/
+[^3]: https://www.business-wissen.de/artikel/projektmanagement-das-muss-ein-projektstatusbericht-beinhalten/
+[^4]: https://de.wikipedia.org/wiki/Meilensteintrendanalyse
+[^5]: https://www.kraus-und-partner.de/wissen-und-co/wiki/projekt-arten-charakter-projekte-beratung
