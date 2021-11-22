@@ -50,7 +50,7 @@ Der werttreiberbasierte Ansatz setzt auf eine Prognose anhand weniger Kennzahlen
 
 
 
-![Beispielabbildung](Forecasts/test-file.jpg)
+![Abbildung-Werttreiber](ManagingProjectsSuccessfully.github.io/Verwaltung/Projekt/forecast-controlling-abb-3-453398-4.jpg)
 
 *lustiges Testbild*
 
