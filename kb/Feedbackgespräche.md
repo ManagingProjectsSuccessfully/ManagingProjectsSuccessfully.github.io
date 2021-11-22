@@ -37,12 +37,12 @@ Diese konstruktiven Rückmeldungen können den Mitarbeitern dabei helfen, die ei
 | **Wie** möchte ich es ausdrücken?|
 
 
-## 3. Darauf sollte beim Gespräch geachtet werden: [^6]
+## 3. Darauf sollte beim Gespräch geachtet werden: [^3]
 
 *	Höflicher und wertschätzender Umgang miteinander
 *	Lösungsorientierte Ansätze
 *	Strukturierter Gesprächsverlauf
-*	Allgemeine Gesprächsregeln beachten (Ausredenlassen etc.)
+*	Allgemeine Gesprächsregeln beachten (Ausreden lassen etc.)
 *	Keine Schuldzuweisungen
 *	Konstruktive Kritik 
 *	Vor- und Nachbereitung des Gesprächs
@@ -59,7 +59,7 @@ Diese konstruktiven Rückmeldungen können den Mitarbeitern dabei helfen, die ei
 | **Gegenseitig**| Wer Feedback gibt, sollte auch selbst offen für Feedback sein.|
 
 
-# 4. Die vier Phasen eines (erfolgreichen) Feedbackgesprächs: [^8] 
+# 4. Die vier Phasen eines (erfolgreichen) Feedbackgesprächs: [^3] 
 ## Phase 1: Beurteilung und Feedback
 
 *	Anerkennung von Erfolgen und Fortschritten sowie Erörterung von Verbesserungspotenzialen und Kritikpunkten
@@ -70,8 +70,10 @@ Diese konstruktiven Rückmeldungen können den Mitarbeitern dabei helfen, die ei
 
 *	Analysieren von Verbesserungspotenzialen 
 *	Möglicherweise Verantwortungsbereiche des Mitarbeiters ausbauen/reduzieren 
-* Ziele für kommende Monate definieren
-u.a. mit Hilfe der SMART- Regel: https://www.youtube.com/watch?v=_nwvWHePqUo
+* Ziele für kommende Monate definieren:
+u.a. mit Hilfe der [SMART-Regel](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SMART_Ziele.md) 
+* YouTube Video: [SMART Ziele - erfolgreich mit S.M.A.R.T. formulierten Zielen](https://www.youtube.com/watch?v=_nwvWHePqUo)
+ 
 
 ## Phase 3: Wünsche und Perspektiven 
 
@@ -84,13 +86,12 @@ Mitarbeiter kommuniziert eigene Wünsche, Ziele und Planung der beruflichen Zuku
 
 
 
-
-![Ablauf Fedbackgespräch](Feedbackgespräche/fbg-ablauf.jpeg) [^9]
-
+[![Ablauf Fedbackgespräch](Feedbackgespräche/fbg-ablauf.jpeg)](https://karrierebibel.de/feedbackgespraech/)
 
 
 
-# 5. Warum ist regelmäßiges Feedback so wichtig? [^10] 
+
+# 5. Warum ist regelmäßiges Feedback so wichtig? [^8] 
 
 Feedback...
 <ol>
@@ -108,11 +109,11 @@ Feedback...
 # 6. Siehe auch:
 
   * YouTube Video zur Vorbereitung:
-  "So gelingt dir das Mitarbeitergespräch": https://www.youtube.com/watch?v=uDk8fSi2OsE
+  [So gelingt dir das Mitarbeitergespräch](https://www.youtube.com/watch?v=uDk8fSi2OsE)
 
-  * Checkliste für dein Feedbackgespräch: [^11] 
+  * Checkliste für dein Feedbackgespräch:  
 
-  ![Checkliste Fedbackgespräch](Feedbackgespräche/Mitarbeitergespraech-Checkliste-724x1024.jpeg)
+  [![Checkliste Fedbackgespräch](Feedbackgespräche/Mitarbeitergespraech-Checkliste-724x1024.jpeg)](https://www.karriere.at/blog/mitarbeitergespraech-checkliste.html)
 
 
 # Weiterführende Literatur: 
@@ -127,10 +128,5 @@ Feedback...
 [^3]: Brückner Benjamin: Feedbackgespräch: Leitfaden + Tipps. Internetquelle: https://www.fuer-gruender.de/blog/feedbackgespraech/, abgerufen am 19.11.2021.
 [^4]: Vgl.: Kanitz, Anja; Feedbackgespräche. S. 22.
 [^5]: Kanitz, Anja; Feedbackgespräche. S. 31.
-[^6]: Brückner Benjamin: Feedbackgespräch: Leitfaden + Tipps. Internetquelle: https://www.fuer-gruender.de/blog/feedbackgespraech/, abgerufen am 19.11.2021.
 [^7]: Kanitz, Anja; Feedbackgespräche. S. 26.
-[^8]: Brückner Benjamin: Feedbackgespräch: Leitfaden + Tipps. Internetquelle: https://www.fuer-gruender.de/blog/feedbackgespraech/, abgerufen am 19.11.2021.
-[^9]: Bildquelle: https://karrierebibel.de/feedbackgespraech/
-[^10]: Mai, Jochen (2021): Feedbackgespräch: Ablauf, Vorbereitung, Tipps. Internetquelle: https://karrierebibel.de/feedbackgespraech/, abgerufen am 19.11.2021.
-[^11]: Bildquelle: https://www.karriere.at/blog/mitarbeitergespraech-checkliste.html
-
+[^8]: Mai, Jochen (2021): Feedbackgespräch: Ablauf, Vorbereitung, Tipps. Internetquelle: https://karrierebibel.de/feedbackgespraech/, abgerufen am 19.11.2021.
