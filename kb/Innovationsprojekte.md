@@ -50,7 +50,7 @@ Diese Invention wird dann in der zweiten Phase, die erfolgreiche Markteinführun
 Bei Innovationsprojekten mit kurzer Dauer kann im Management das sogenannte [Stage-Gate-Tracking](https://de.wikipedia.org/wiki/Stage-Gate-Modell#:~:text=Das%20Stage%2DGate%2DModell%20wurde,lediglich%20eine%20suboptimale%20Ber%C3%BCcksichtigung%20fanden.) angewendet werden. Dabei werden vorweg mehrere [Meilensteine](Meilensteine.md) festgelegt, anhand derer sich später Planabweichungen nachweisen lassen.[^3]
 Bei mehrjährigen Projekten hilft es, eine [Meilensteintrendanalyse](Meilensteintrendanalyse.md) zu nutzen. Damit können vorher bereits mögliche spätere Abweichungen abgeschätzt werden und Verzögerungen in gewissem Maße prognostiziert werden.[^3]
 
-# 3.	Erfolgsfaktoren eines Innovationsprojekts
+## 2.6	Erfolgsfaktoren
 
 Um den [Erfolg eines Innovationsprojekts zu messen](Erfolgsmessung.md), werden die Faktoren Zeit, Qualität und Kosten herangezogen. Dabei werden die Soll-Werte mit den Ist-Werten verglichen und infolgedessen die mittlere negative Abweichung berechnet. Sowohl negative als auch positive Abweichungen können sich negativ auf den Projekterfolg auswirken. Weicht man zu stark von Qualitätsanforderungen, Meilensteinterminen oder geplantem Kostenbudget ab, verursacht das üblicherweise hohe Kosten. Werden die Planwerte eingehalten, so führt das zu einer erfolgreichen Umsetzung eines Innovationsprojekts.[^5]
 
