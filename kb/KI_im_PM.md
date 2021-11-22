@@ -2,18 +2,27 @@
 title: KI_im_PM
 tags: agil klassisch
 author: SimaSol
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu KI_im_PM um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Künstliche Intelligenz im Projektmanagement
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Künstliche Intelligenz (KI) oder im Englischen Artificial Intelligence (AI) genannt, ist ein Teilbereich von Data Science, welcher abermals ein Teilbereich der Informatik ist. 
+KI als Oberbegriff lässt sich folglich in Maschinelles Lernen (eng. Machine Learning), Neuronale Netze und Deep Learning unterteilen. 
+Das Forschungsgebiet der KI versucht, menschliche Wahrnehmung und menschliches Handeln sowie Denken durch Maschinen zu erfassen und nachzubilden[^1]. 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Inhaltsverzeichnis
+1. Allgemeines über die KI <br>
+    1.1 Aufgaben der KI <br>
+    1.2 Bedeutsamkeit der KI
+2. KI im Projektmanagement
+  2.1 Voraussetzungen der KI im Projekmanagement <br> 
+  2.2 Einführung in Projekmanagement-KI <br>
+  2.3 Einsatz von KI in Projekten <br>
+  2.4 Einsatz von KI in Invensity
+  
+# 1. Allgemeines über die KI
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -97,8 +106,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.projektmagazin.de/artikel/kuenstliche-intelligenz-ki-projektmanagement
+[^2]: https://www.sas.com/de_de/insights/analytics/what-is-artificial-intelligence.html 
+[^3]: https://mindsquare.de/knowhow/kuenstliche-intelligenz/ 
+[^4]: https://www.assure.de/de/blog/projektmanagement-ki-chance-oder-risiko 
+[^5]: https://www.tiba.de/wie-kuenstliche-intelligenz-ki-das-projektmanagement-beeinflusst/ 
+[^6]: https://www.invensity.com/consulting/project-management/ki-im-projektmanagement/ 
 
