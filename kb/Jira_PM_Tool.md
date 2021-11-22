@@ -23,6 +23,7 @@ Bei Atlassian gibt es mehrere Preismodelle[^5]. Hier wird zwischen Cloud- und se
 | $30.000 pro Jahr  | $48.500 pro Jahr  | $42.000 pro Jahr |
 
 Tabelle 1: Preisliste
+
 Quelle: Atlassian. (2021). Modelle und Preise. https://www.atlassian.com/de/software/jira/pricing
 
 ## 3. Funktionsweise
