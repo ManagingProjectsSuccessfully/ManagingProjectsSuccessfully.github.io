@@ -8,7 +8,7 @@ tags: orga
 Pro Beitrag werden den Teilnehmer:innen von MPS durch das MPS-Team drei Beiträge für ein Review zugeordnet. Die Reviewer:innen sollten entsprechend eine Mail von GitHub erhalten, in der sie zu einem Review eingeladen werden. Bei Öffnen des Pull-Requests des zu prüfenden Beitrags erscheint oben eine Aufforderung zum Review. 
 
 # Erstellen des Reviews
-Der Screencast zeigt, in welchen Schritten ein Review zu einem Beitrag erstellt wird. 
+Der Screencast [Screencast_Review_Process](Screencast_Review_Process.mp4) zeigt, in welchen Schritten ein Review zu einem Beitrag erstellt wird. 
 
 ## Einfügen der vorgegebenen Bewertungstabelle
 Wie im Video zu sehen, soll dazu die folgende Bewertungstabelle kopiert und in das Kommentarfeld eingefügt werden (am besten die Datei als "Raw" anzeigen lassen zum Kopieren):
@@ -73,6 +73,4 @@ In der folgenden Tabelle, die lediglich als Hilfestellung dient und nicht kopier
 | Einordnung in den Kontext | Einordnung in Bezug auf angrenzende Themengebiete |1-10|
 | Ansprechend für Zielgruppe | Kommiliton:innen erhalten durch den Beitrag einen guten Überblick über das entsprechende Thema, haben Spaß beim Lesen des Artikels und folgen den Verlinkungen |1-10|
 
-
-## Kurze Zusammenfassung des Beitrags
-Unter der Bewertungstabelle soll im Rahmen einer kurzen Zusammenfassung nochmal in Textform ein Gesamtfeedback gegeben werden. Dabei sind positive und negative Aspekte des Berichts zu beleuchten. Dieser Freitext dient als kurze Begründung der vergebenen Bewertungen in der Tabelle.
+Unter der Bewertungstabelle soll außerdem unter dem Punkt "Zusammenfassung" in Textform eine kurze Zusammenfassung des Beitrages gegeben werden. Darunter sollen positive und negative Aspekte des Berichts beleuchtet werden, um nochmal kurz die vergebenen Bewertungen in der Tabelle zu begründen.
