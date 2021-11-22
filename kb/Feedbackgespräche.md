@@ -107,12 +107,13 @@ Feedback...
 
 # 6. Siehe auch:
 
+  * YouTube Video zur Vorbereitung:
+  "So gelingt dir das Mitarbeitergespräch": https://www.youtube.com/watch?v=uDk8fSi2OsE
+
   * Checkliste für dein Feedbackgespräch: [^11] 
 
   ![Checkliste Fedbackgespräch](Feedbackgespräche/Mitarbeitergespraech-Checkliste-724x1024.jpeg)
 
-  * YouTube Video zur Vorbereitung:
-  So gelingt dir das Mitarbeitergespräch: https://www.youtube.com/watch?v=uDk8fSi2OsE
 
 # Weiterführende Literatur: 
 * Scherm, Martin (2019): 360°-Feedback, Hogrefe Verlag, 2. Auflage, Göttingen
@@ -130,5 +131,6 @@ Feedback...
 [^7]: Kanitz, Anja; Feedbackgespräche. S. 26.
 [^8]: Brückner Benjamin: Feedbackgespräch: Leitfaden + Tipps. Internetquelle: https://www.fuer-gruender.de/blog/feedbackgespraech/, abgerufen am 19.11.2021.
 [^9]: Bildquelle: https://karrierebibel.de/feedbackgespraech/
-[^10]: Mai, Jochen (2021): Feedbackgespräch: Ablauf, Vorbereitung, Tipps. Internetquelle: https://karrierebibel.de/wp-content/uploads/2013/04/Feedbackgespraech-Ablauf-Inhalt-Grafik-650x433.jpg, abgerufen am 19.11.2021.
-[^11]: Bildquelle: https://www.karriere.at/blog/mitarbeitergespraech-checkliste.html![image]
+[^10]: Mai, Jochen (2021): Feedbackgespräch: Ablauf, Vorbereitung, Tipps. Internetquelle: https://karrierebibel.de/feedbackgespraech/, abgerufen am 19.11.2021.
+[^11]: Bildquelle: https://www.karriere.at/blog/mitarbeitergespraech-checkliste.html
+
