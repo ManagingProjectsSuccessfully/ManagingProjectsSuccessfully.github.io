@@ -5,7 +5,7 @@ author: moritzgrt
 anrechnung: k
 ---
 
-Comliance im Projektmanagement beschreibt im Prinzip, das regelgetreue Verhalten eines Unternehmens im gesetzlichen Kontext. Durch gezieltes Compliance Management sollen durch Prophylaxe gezielt Pflichtverletzungen, Schaden und Haftungsfälle eines Unternehmens vermieden werden. (Szabo, Bela: Compliance Management System) Ein Werkzeug um beispielsweise Lieferungszusagen einhalten zu können ist zum Beispiel das sogenannte [Timeboxing](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Timeboxing.md) sein. Compliance ist somit am Beginn einer Planungsphase für Projekte innerhalb von Unternehmen einzuordnen.
+Compliance im Projektmanagement beschreibt im Prinzip, das regelgetreue Verhalten eines Unternehmens im gesetzlichen Kontext. Durch gezieltes Compliance Management sollen durch Prophylaxe gezielt Pflichtverletzungen, Schaden und Haftungsfälle eines Unternehmens vermieden werden. (Szabo, Bela: Compliance Management System) Ein Werkzeug um beispielsweise Lieferungszusagen einhalten zu können ist zum Beispiel das sogenannte [Timeboxing.](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Timeboxing.md) Compliance ist somit am Beginn einer Planungsphase für Projekte innerhalb von Unternehmen einzuordnen.
 
 
 # Rechtliche Grundlagen
