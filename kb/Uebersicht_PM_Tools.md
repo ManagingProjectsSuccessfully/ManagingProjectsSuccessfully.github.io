@@ -21,7 +21,6 @@ In den darauffolgenden Jahren folgten viele Verbesserungen und verschiedene Soft
 
 Die Projektplanung ist ein Kernbereich des Projektmanagements. Wichtige Features sind:
 
-
 | Feature  | genaue Funktion |
 | ------------- | ------------- |
 | Verwaltung allgemeiner Projektdaten  | Grundlegende Informationen, um schnellen Einblick in das Projekt zu bekommen |
@@ -31,6 +30,67 @@ Die Projektplanung ist ein Kernbereich des Projektmanagements. Wichtige Features
 | Task Management  | welche Aufgaben noch umzusetzen sind und welchen aktuellen Stand man hat  |
 | Netzplan  | stellt die Dauer von Vorgängen im Projekt, ihre zeitliche Anordnung und logische Abhängigkeiten zwischen den Vorgängen dar  |
 
+## Kommunikation und Zusammenarbeit
+
+Immer wichtiger und auch beliebter werden Tools und Softwarelösungen im Bereich der Kommunikation und für die Zusammenarbeit des Projektteams. Gerade in agilen Projekten wird Zusammenarbeit
+deutlich gegenüber Prozessen hervorgehoben. Es ist wichtig unkomplizierte
+Kommunikationskanäle schaffen
+
+
+
+
+
+
+
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073732485 9 0 511 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}div.WordSection1
+	{page:WordSection1;}
 Aspekte zu Themen können ganz unterschiedlich sein:
 
 * Verschiedene Teile eines Themas 
