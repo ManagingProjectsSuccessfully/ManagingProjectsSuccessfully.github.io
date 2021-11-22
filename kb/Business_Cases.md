@@ -6,7 +6,7 @@ anrechnung: k
 ---
 # Business Cases
 Ein Business Case ist ein wichtiges Projektdokument. Er analysiert die Wirtschaftlichkeit eines [Projekts](Projekt.md) oder einer Investition und verschafft den Entscheidungsträgern einen umfassenden Überblick über Kosten, Nutzen und Risiken eines Projekts. Der Business Case gibt eine Aussage darüber, ob sich die Durchführung eines Vorhabens lohnen würde oder nicht und stellt damit eine wichtige Entscheidungs- und Rechtfertigungsgrundlage für Projekte dar. Ist ein Projekt dann erst einmal genehmigt und im Gange, wird der Business Case stetig aktualisiert, sodass sich damit auch laufende Projekte überprüfen und rechtfertigen lassen.[^1] 
-![Business_Case_Abbildung](Business_Cases/Business_Case_Abbildung.jpg) [^8]
+![Business_Case_Abbildung](Business_Cases/Business_Case_Abbildung.jpg) [^2]
 
 ## Inhaltsverzeichnis
 * [1. Etymologie](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#1etymologie)
@@ -30,30 +30,30 @@ Für einen Business Case existiert keine allgemein gültige Vorlage. Er kann dah
 * **Kosten:** sind dem Projektplan zu entnehmen
 * **Zeitrahmen:** sind dem Projektplan zu entnehmen
 * **Investitionsrechnung:** Analyse der finanziellen Auswirkungen
-* **Bewertung des Nutzens und der Investitionsrechnung:** Bewertung der Analyseergebnisse.[^2] 
+* **Bewertung des Nutzens und der Investitionsrechnung:** Bewertung der Analyseergebnisse.[^3] 
 
 
 ## 3.	Bedeutung
-Unternehmen treffen viele ihrer Entscheidungen auf Basis wirtschaftlicher Überlegungen. Hierbei kommt dem Business Case eine entscheidende Rolle zu, da er beurteilt, welche Vorhaben wirtschaftlich sind und eine Priorisierung von Projekten erlaubt.[^3] Im [Projektmanagement](Projektmanagement.md)-System PRINCE2 ist er sogar das wichtigste Projektdokument.[^4] Mithilfe eines strukturierten Business Case kann ein Unternehmen seinen Fokus gezielt auf die aussichtsreichsten Projekte legen und Ressourcen, Arbeitskräfte und Finanzmittel entsprechend einsetzen. Selbst wenn der Business Case eine negative Rentabilitätsbeurteilung liefert, das Vorhaben sich also nicht lohnt, war der Aufwand für dessen Erstellung nicht umsonst, da die hohen Kosten einer Durchführung des Projekts vermieden werden können.[^3]  
+Unternehmen treffen viele ihrer Entscheidungen auf Basis wirtschaftlicher Überlegungen. Hierbei kommt dem Business Case eine entscheidende Rolle zu, da er beurteilt, welche Vorhaben wirtschaftlich sind und eine Priorisierung von Projekten erlaubt.[^4] Im [Projektmanagement](Projektmanagement.md)-System PRINCE2 ist er sogar das wichtigste Projektdokument.[^5] Mithilfe eines strukturierten Business Case kann ein Unternehmen seinen Fokus gezielt auf die aussichtsreichsten Projekte legen und Ressourcen, Arbeitskräfte und Finanzmittel entsprechend einsetzen. Selbst wenn der Business Case eine negative Rentabilitätsbeurteilung liefert, das Vorhaben sich also nicht lohnt, war der Aufwand für dessen Erstellung nicht umsonst, da die hohen Kosten einer Durchführung des Projekts vermieden werden können.[^4]  
 
 
 ## 4.	Vorteile 
 * **Erhöhte Entscheidungssicherheit:** Der Business Case trifft klare Aussagen über die wirtschaftlichen Folgen eines Vorhabens für das Unternehmen.[^1] 
-* **Erleichterte Entscheidungsfindungen:** Einheitliche Formate von Business Cases ermöglichen die Vergleichbarkeit von verschiedenen Projekten und die anschließende Umsetzung der rentabelsten.[^5] 
+* **Erleichterte Entscheidungsfindungen:** Einheitliche Formate von Business Cases ermöglichen die Vergleichbarkeit von verschiedenen Projekten und die anschließende Umsetzung der rentabelsten.[^6] 
 * **Übersicht:** Der Business Case stellt den Entscheidungsträgern einen Gesamtüberblick über das Projekt zur Verfügung.
 * **Risikoerkennung:** Der durch den Business Case erlangte Überblick hilft den Entscheidungsträgern dabei, Risiken frühzeitig zu identifizieren und entgegenzuwirken.[^1]
-* **Erleichterung des [Projektcontrollings](Projektcontrolling.md):** Die Annahmen zum Projektverlauf im Rahmen des Business Cases lassen sich gut mit dem tatsächlichen Projektverlauf abgleichen.[^3] 
+* **Erleichterung des [Projektcontrollings](Projektcontrolling.md):** Die Annahmen zum Projektverlauf im Rahmen des Business Cases lassen sich gut mit dem tatsächlichen Projektverlauf abgleichen.[^4] 
 
 
 ## 5.	Nachteile 
 * **Momentaufnahme:** Der Business Case stellt nur eine Momentaufnahme dar, sodass sich die Rentabilität des Projekts im Laufe der Zeit mit zusätzlich erlangten Informationen ändern kann.
-* **Hoher Aufwand:** Insbesondere bei großen Investitionen ist der Business Case sehr aufwändig zu erstellen.[^6] 
+* **Hoher Aufwand:** Insbesondere bei großen Investitionen ist der Business Case sehr aufwändig zu erstellen.[^7] 
 * **Widersprüchlichkeit:** Sind an einem Projekt mehrere Organisationen oder Unternehmen beteiligt können für ein Projekt verschiedene Business Cases vorliegen, die sich widersprechen.
-* **Verfälschung:** Da der Business Case eine wichtige Entscheidungsgrundlage für ein Projekt darstellt, wird der erwartete Nutzen oft besser dargestellt als in Wirklichkeit, um die Projektgenehmigung herbeizuführen.[^7] 
+* **Verfälschung:** Da der Business Case eine wichtige Entscheidungsgrundlage für ein Projekt darstellt, wird der erwartete Nutzen oft besser dargestellt als in Wirklichkeit, um die Projektgenehmigung herbeizuführen.[^8] 
 
 
 ## 6.	Fazit
-Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement etabliert und trägt durch seine detaillierte Analyse der Wirtschaftlichkeit von Projekten zu der erfolgreichen Umsetzung der rentabelsten Vorhaben bei.[^5] 
+Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement etabliert und trägt durch seine detaillierte Analyse der Wirtschaftlichkeit von Projekten zu der erfolgreichen Umsetzung der rentabelsten Vorhaben bei.[^6] 
 
 
 ![Beispielabbildung](Business_Cases/test-file.jpg)
@@ -84,10 +84,11 @@ So kann man eine Tabelle erstellen:
 # Quellen
 
 [^1]: [Was ist ein Business Case?](https://www.microtool.de/wissen-online/was-ist-ein-business-case/)
-[^2]: [Business Case - Definition/Inhalte/Beispiele](https://www.projektmagazin.de/glossarterm/business-case)
-[^3]: [Was ist ein Business Case?](https://t2informatik.de/wissen-kompakt/business-case/)
-[^4]: [So schreiben Sie einen Business Case](https://www.solutionmatrix.de/presse/projektmagazin_business_case_1.pdf)
-[^5]: [Business Case: Alles Wichtige auf einen Blick](https://projekte-leicht-gemacht.de/blog/methoden/projektstart/business-case/)
-[^6]: [Auf den Punkt - der Business Case](https://www.youtube.com/watch?v=gCbXCawrT8k)
-[^7]: [Business Case](https://www.projektmagazin.de/methoden/business-case)
-[^8]: [Business Case - Abbildung](https://greenprojectsconsulting.com/wp-content/uploads/2021/07/Business_Case_4_Bubbles.jpg)
+[^2]: [Business Case - Abbildung](https://greenprojectsconsulting.com/wp-content/uploads/2021/07/Business_Case_4_Bubbles.jpg)
+[^3]: [Business Case - Definition/Inhalte/Beispiele](https://www.projektmagazin.de/glossarterm/business-case)
+[^4]: [Was ist ein Business Case?](https://t2informatik.de/wissen-kompakt/business-case/)
+[^5]: [So schreiben Sie einen Business Case](https://www.solutionmatrix.de/presse/projektmagazin_business_case_1.pdf)
+[^6]: [Business Case: Alles Wichtige auf einen Blick](https://projekte-leicht-gemacht.de/blog/methoden/projektstart/business-case/)
+[^7]: [Auf den Punkt - der Business Case](https://www.youtube.com/watch?v=gCbXCawrT8k)
+[^8]: [Business Case](https://www.projektmagazin.de/methoden/business-case)
+
