@@ -1,8 +1,8 @@
 ---
 title: Planning_Poker
-tags: agil klassisch
+tags: agil
 author: jsk0lb
-anrechnung: k oder a
+anrechnung: a
 ---
 
 In der vorliegenden Arbeit geht es um Planning Poker, eine spielerische Variante der Aufwandsschätzung im Team. Die Schätzmethode wurde 2002 von James Grenning entwickelt und später von Mike Cohn in dem Buch „Agile Estimating and Planning“ populär gemacht. Ursprünglich wurde sie im Bereich Extreme Programming verwendet und ist dann für das agile [Projektmanagement](Projektmanagement.md) übernommen worden. [^3] 
