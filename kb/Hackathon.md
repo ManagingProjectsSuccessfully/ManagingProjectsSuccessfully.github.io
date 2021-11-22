@@ -84,7 +84,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Hackathon.md)
+* [Desing Thinking](Design_Thinking.md)
 * Anmeldeplattform für Hackathons: [Eventbrite](https://www.eventbrite.de/d/germany/hackathon/)
 
 # Weiterführende Literatur
