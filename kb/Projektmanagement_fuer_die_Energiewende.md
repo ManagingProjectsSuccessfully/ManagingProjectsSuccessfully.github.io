@@ -31,7 +31,7 @@ Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Pho
 
 # Stakeholder
 
-Neben Netzbetreibern auch Landes- und Bundesbehörden, Baufirmen, Anwohner- und Interessenverbände sowie Ingenieur- und Planungsbüros.
+[Stakeholder](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholdermanagement.md) sind neben Netzbetreibern auch Landes- und Bundesbehörden, Baufirmen, Anwohner- und Interessenverbände sowie Ingenieur- und Planungsbüros.
 
 # Risiken 
 Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) befassen sich Projektleiter mit folgenden Problemen:
@@ -63,7 +63,7 @@ Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reak
 PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Marchbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^3]
 
 # Expertise
-Experten raten bei großen Bauprojekten/Infrastrukturprojekten zu Klassischen Methoden, da agile Methoden aufgrund der mangelnden Flexibilität der Projekte an neue Rahmenbedinungen ungeeignet sind.
+Experten raten bei großen [Bauprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Bauprojekte.md)/Infrastrukturprojekten zu Klassischen Methoden, da agile Methoden aufgrund der mangelnden Flexibilität der Projekte an neue Rahmenbedinungen ungeeignet sind.
 Dennoch werden ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^3]
 
 # Weiterführende Literatur
