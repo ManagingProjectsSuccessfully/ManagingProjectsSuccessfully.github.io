@@ -1,9 +1,12 @@
 ---
 title: Stakeholderanalyse
-tags: agil klassisch
+tags: klassisch
 author: DanielLu21
-anrechnung: k oder a
+anrechnung: k
 ---
+
+
+# Stakeholderanalyse
 
 Kurzbeschreibung zu Stakeholderanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
