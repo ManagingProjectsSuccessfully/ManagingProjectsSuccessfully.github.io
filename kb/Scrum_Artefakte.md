@@ -1,7 +1,7 @@
 ---
 title: Scrum_Artefakte
 tags: agil klassisch
-author: Christoph-Mantsch
+author: kutaydogan
 anrechnung: k oder a
 ---
 
