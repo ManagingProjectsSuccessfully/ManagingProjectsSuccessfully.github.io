@@ -158,7 +158,6 @@ author: anniSc
 | [Feature_Creep](kb/Feature_Creep.md)                                                                                               | [creepol](https://github.com/creepol)                         |
 | [Ausgangsanalyse](kb/Ausgangsanalyse.md)                                                                                           | [ksushaW](https://github.com/ksushaW)                         |
 | [Integrationsmanagement](kb/Integrationsmanagement.md)                                                                             | [ow79arux](https://github.com/ow79arux)                       |
-| [Projektumfang](kb/Projektumfang.md)                                                                                               | [jessymrc](https://github.com/jessymrc)                       |
 | [Jour_Fixe](kb/Jour_Fixe.md)                                                                                                       | [MoritzBock](https://github.com/MoritzBock)                   |
 | [Projektplanung](kb/Projektplanung.md)                                                                                             | [MarleneMMeyer](https://github.com/MarleneMMeyer)             |
 | [Anforderungsmanagement](kb/Anforderungsmanagement.md)                                                                             | [Karina255](https://github.com/Karina255)                     |
@@ -266,8 +265,6 @@ author: anniSc
 | [Daily_Scrum](kb/Daily_Scrum.md)                                                                                                   | [JonathanBauerFau](https://github.com/JonathanBauerFau)       |
 | [Sprint_Review](kb/Sprint_Review.md)                                                                                               | [DeniseWt](https://github.com/DeniseWt)                       |
 | [Retrospective](kb/Retrospective.md)                                                                                               | [nta01](https://github.com/nta01)                             |
-| [Scrum_Artefakte](kb/Scrum_Artefakte.md)                                                                                           | [Christoph-Mantsch](https://github.com/Christoph-Mantsch)     |
-| [Increment](kb/Increment.md)                                                                                                       | [up67enyq](https://github.com/up67enyq)                       |
 | [Product_Backlog](kb/Product_Backlog.md)                                                                                           | [PhilippWolfrum](https://github.com/PhilippWolfrum)           |
 | [Definition_of_Done](kb/Definition_of_Done.md)                                                                                     | [Akshat7777](https://github.com/Akshat7777)                   |
 | [Scrum_Values](kb/Scrum_Values.md)                                                                                                 | [Lukas1401](https://github.com/Lukas1401)                     |
@@ -275,8 +272,6 @@ author: anniSc
 | [Scrum_Rules](kb/Scrum_Rules.md)                                                                                                   | [HanLing132](https://github.com/HanLing132)                   |
 | [Scrum_Guide](kb/Scrum_Guide.md)                                                                                                   | [MrSommC](https://github.com/MrSommC)                         |
 | [Agiles_Manifest](kb/Agiles_Manifest.md)                                                                                           | [LaHe27](https://github.com/LaHe27)                           |
-| [Epic](kb/Epic.md)                                                                                                                 | [jessymrc](https://github.com/jessymrc)                       |
-| [Extreme_Project_Management](kb/Extreme_Project_Management.md)                                                                     | [FAUdennis96](https://github.com/FAUdennis96)                 |
 | [User_Story](kb/User_Story.md)                                                                                                     | [Phr4nk20](https://github.com/Phr4nk20)                       |
 | [The_3_5_3_of_Scrum](kb/The_3_5_3_of_Scrum.md)                                                                                     | [GiuliaAng](https://github.com/GiuliaAng)                     |
 | [Scrum_Transparenz](kb/Scrum_Transparenz.md)                                                                                       | [Lorybr](https://github.com/Lorybr)                           |
@@ -312,7 +307,6 @@ author: anniSc
 | [Kanban_Boards](kb/Kanban_Boards.md)                                                                                               | [leusl8](https://github.com/leusl8)                           |
 | [Kanban_Swim_Lanes](kb/Kanban_Swim_Lanes.md)                                                                                       | [Creed229](https://github.com/Creed229)                       |
 | [Gender_Bias](kb/Gender_Bias.md)                                                                                                   | [Philip290899](https://github.com/Philip290899)               |
-| [Rückschaufehler](kb/Rückschaufehler.md)                                                                                           | [Leni2505](https://github.com/Leni2505)                       |
 | [Johari_Fenster](kb/Johari_Fenster.md)                                                                                             | [ChrisBohl](https://github.com/ChrisBohl)                     |
 | [Kennenlernspiele](kb/Kennenlernspiele.md)                                                                                         | [viktoria110](https://github.com/viktoria110)                 |
 | [Selbstoffenbarung](kb/Selbstoffenbarung.md)                                                                                       | [sebswier](https://github.com/sebswier)                       |
