@@ -7,10 +7,10 @@ anrechnung: k
 
 
 Jira ist eine von der Firma Atlassian entwickelte Software, die Ursprünglich für die Planung bei agile Softwareentwicklung erstellt wurde. Mittlerweile haben sich aber aus dem Ursprünglichen Programm die Unterprodukte Jira Software, Jira Service Management, Jira Work Management und Jira Align entwickelt[^1].
-Für den Themenbereich des Projektmanagements ist das Produkt Jira Software relevant. Hier können Workflows definiert, Aufgaben erstellt und zugewiesen, sowie Fortschritt und Produktivität verfolgt werden[^2] . Neben den Grundfunktionen die Atlassian in Jira selbst anbieten, hat man als Nutzer die Möglichkeit mit Hilfe des Marketplace Applikationen von Drittanbietern zu installieren und somit noch mehr Funktionen zur Verfügung zu haben.
+Für den Themenbereich des Projektmanagements ist das Produkt Jira Software relevant. Hier können Workflows definiert, Aufgaben erstellt und zugewiesen, sowie Fortschritt und Produktivität verfolgt werden[^2] . Neben den Grundfunktionen die Atlassian in Jira selbst anbieten, hat man als Nutzer die Möglichkeit mit Hilfe des Marketplace Applikationen von Drittanbietern zu installieren um somit noch mehr Funktionen zur Verfügung zu haben.
 
 ## 1. Hosting
-Jira kann sowohl als Cloud-Hosting oder als selbstverwaltetes Hosting betrieben werden[^3]. Beim selbstständigen Hosten kann mittels Jira Software Data Center die Umgebung auf der eigenen Serverlandschaft oder bei Infrastructure-as-a-Service-Anbietern (IaaS)[^4], wie bei Amazon Web Services, Microsoft, Google oder diversen Anbietern verwalten. 
+Jira kann sowohl als Cloud-Hosting oder als selbstverwaltetes Hosting betrieben werden[^3]. Beim selbstständigen Hosten kann mittels Jira Software Data Center die Umgebung auf der eigenen Serverlandschaft oder bei Infrastructure-as-a-Service-Anbietern (IaaS)[^4], wie bei Amazon Web Services, Microsoft, Google oder diversen Anbietern verwaltet werden. 
 
 ## 2. Preisliste
 Bei Atlassian gibt es mehrere Preismodelle[^5]. Hier wird zwischen Cloud- und selbstverwaltetem Hosting unterschieden, aber auch die Nutzerzahl spielt eine Rolle. Ausgehend von 500 Benutzern ergeben sich bei jährlichem Zahlungsturnus folgende Preise: 
@@ -74,7 +74,7 @@ Abbildung 4: Jira Dashboard
 Quelle: Forman, A. (2015). Jira Core dashboard: your project status at a glance. https://www.atlassian.com/blog/jira-core/jira-core-dashboard-project-status-glance
 
 ## 7. Herausforderungen
-Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als Unternehmen muss hier eine klare Vorgehensweise beim Anlegen und Arbeiten mit den Vorgängen gesetzt werden, da sonst hoher Anpassungsbedarf und Mehraufwand entstehen kann. 
+Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als Unternehmen muss hier eine klare Vorgehensweise beim Anlegen und Arbeiten mit den Vorgängen gesetzt werden, da sonst hoher Anpassungsbedarf und Mehraufwand bei Nachbesserung entstehen kann. 
 
 # Siehe auch
 
