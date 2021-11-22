@@ -10,7 +10,7 @@ anrechnung: k
 
 # Kurzbeschreibung Projekthandbuch
 
-Ziel eines Projekthandbuchs ist es, dass alle Teammitglieder eines Projektes jederzeit einen Überblick über Vorgehen, Ziele und Inhalte haben [^1]. Als wichtiges Artefakt des klassischen Projektmanagements, kann das Projekthandbuch nach der DIN 69905 definiert werden: Ein Projekthandbuch ist die „Zusammenstellung von Informationen und Regelungen, die für die Planung und Durchführung eines bestimmten Projekts gelten sollen“ [^2]. Welche Bestandteile das Projekthandbuch im Speziellen umfasst ist nicht festgelegt, jedoch gibt es einige gängige Komponenten. Diese sind unter anderem die zu erreichenden Projektziele, eine Aufzählung aller Projektbeteiligten, sowie ihrer Rollen, die Stakeholder, eine genaue Projektbeschreibung, alle festgelegten Standards und Richtlinien und die bei der Umsetzung verwendeten Methoden und Werkzeuge [^2] [^3].
+Ziel eines Projekthandbuchs ist es, dass alle Teammitglieder eines Projektes jederzeit einen Überblick über dessen Vorgehen, Ziele und Inhalte haben [^1]. Als wichtiges Artefakt des klassischen Projektmanagements, kann das Projekthandbuch nach der DIN 69905 definiert werden: Ein Projekthandbuch ist die „Zusammenstellung von Informationen und Regelungen, die für die Planung und Durchführung eines bestimmten Projekts gelten sollen“ [^2]. Welche Bestandteile das Projekthandbuch im Speziellen umfasst ist nicht festgelegt, jedoch gibt es einige gängige Komponenten. Diese sind unter anderem die zu erreichenden Projektziele, eine Aufzählung aller Projektbeteiligten, sowie ihrer Rollen, die Stakeholder, eine genaue Projektbeschreibung, alle festgelegten Standards und Richtlinien und die bei der Umsetzung verwendeten Methoden und Werkzeuge [^2] [^3].
 
 Des Weiteren ist festgelegt, dass der [Projektleiter](Projektleiter.md) sowohl für die Erstellung, als auch die regelmäßige Aktualisierung des Projekthandbuchs verantwortlich ist. Gibt es eine Projektassistenz, so kann diese Abwandlungen versionieren und speichern. Darüber hinaus muss nicht nur die ursprüngliche Version des Projekthandbuchs, sondern auch jede neue Version, von dem für das Projekt bestimmten Lenkungsausschuss freigegeben werden [^3] [^4].
 
@@ -18,7 +18,7 @@ Da das übergeordnete Ziel des Projekthandbuchs ist, ein Überblick über das Pr
 
 # Begriffliche Abgrenzung 
 
-Als erstes ist das Projekthandbuch vom [Projektmanagementhandbuch](Projektmanagementhandbuch.md) zu unterscheiden, welches eine „"Zusammenstellung von Regelungen, die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten“ [^6] ist. Das Projektmanagementhandbuch bezieht sich folglich allgemein auf die Regelungen die bei einem Projekt in diesem Unternehmen gelten sollen und das Projekthandbuch bezieht sich auf Regelungen die für ein spezielles Projekt gelten [^2] [^4].
+Als erstes ist das Projekthandbuch vom [Projektmanagementhandbuch](Projektmanagementhandbuch.md) zu unterscheiden, welches eine „Zusammenstellung von Regelungen [ist], die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten“ [^6]. Das Projektmanagementhandbuch bezieht sich folglich allgemein auf die Regelungen die bei einem Projekt in diesem Unternehmen gelten sollen und das Projekthandbuch bezieht sich auf Regelungen die für ein spezielles Projekt gelten [^2] [^4].
 
 An zweiter Stelle ist das Projekthandbuch von der [Projektdokumentation](Projektdokumentation.md) zu unterscheiden. Die Projektdokumentation beschreibt eine Sammlung aller wichtigen Dokumente, die während dem Projektverlauf erstellt wurden und die Ergebnisse dessen veranschaulicht. Dahingegen bezieht sich das Projekthandbuch auf die Planung des Projektes [^5] [^7].
 
@@ -28,7 +28,7 @@ Nicht immer findet man das Projekthandbuch unter diesem Namen, oftmals wird unte
 
 ## Das V-Modell XT
 
-In Deutschland wird unter dem Begriff Projekthandbuch meist das gemeint, welches sich nach den Richtlinien des [V-Modell](VModell.md) XT richtet und vor allem für IT-Projekte der öffentlichen Hand Anwendung findet. Hiernach beinhaltet das Projekthandbuch "(..) eine Kurzbeschreibung des Projekts, die Beschreibung des Tailoring-Ergebnisses, den grundlegenden Projektdurchführungsplan, die notwendige und vereinbarte Unterstützung des Auftraggebers sowie Organisation und Vorgaben für die Planung und Durchführung des Projekts und die anstehenden Entwicklungsaufgaben.“ [^8]
+In Deutschland wird unter dem Begriff Projekthandbuch meist das gemeint, welches sich nach den Richtlinien des [V-Modell](VModell.md) XT richtet und vor allem für IT-Projekte der öffentlichen Hand Anwendung findet. Hiernach beinhaltet das Projekthandbuch „[...] eine Kurzbeschreibung des Projekts, die Beschreibung des Tailoring-Ergebnisses, den grundlegenden Projektdurchführungsplan, die notwendige und vereinbarte Unterstützung des Auftraggebers sowie Organisation und Vorgaben für die Planung und Durchführung des Projekts und die anstehenden Entwicklungsaufgaben.“ [^8]
 
 ## Die Projektleitdokumentationen
 
