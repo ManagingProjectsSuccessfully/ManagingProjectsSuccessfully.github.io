@@ -40,11 +40,13 @@ Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organis
 * Mut
 * Respekt
  
-Die Kommunikation zwischen allen Rollen ist extrem wichtig, um Probleme direkt adressieren zu können. 
+Die <b> Kommunikation </b> zwischen allen Rollen ist extrem wichtig, um Probleme direkt adressieren zu können. 
 So können Missstände direkt behoben werden und permanenter Austausch führt zu gleichem Wissensstand der Entwickler.
-Ein wichtiger Wert der Methode XP ist die Einfachheit. Es wird nach der einfachsten Lösung gestrebt und die Entwickler halten sich so nicht mit Unwichtigem auf. 
+Ein wichtiger Wert der Methode XP ist die <b> Einfachheit </b> . Es wird nach der einfachsten Lösung gestrebt und die Entwickler halten sich so nicht mit Unwichtigem auf. 
 Es werden möglichst nur die im Moment benötigten Features entwickelt und nicht für zukünftige Anforderungen vorgearbeitet. Ein schlankes Produkt ist sowohl bei der Weiterentwicklung als auch bei der Wartung einfacher zu handhaben und ein simpler Programmcode vereinfacht die Kommunikation, da so alle Teammitglieder den Quelltext verstehen können.
-Bei dem Punkt Feedback geht es nicht nur um die Kritik des Kunden, sondern auch um Meldungen des Systems (Logs). Das Team arbeitet in kleinen Zyklen, testet häufig und kann so Änderungen und Fehlerbehebungen kurzfristig vornehmen.
+Bei dem Punkt <b> Feedback </b> geht es nicht nur um die Kritik des Kunden, sondern auch um Meldungen des Systems (Logs). Das Team arbeitet in kleinen Zyklen, testet häufig und kann so Änderungen und Fehlerbehebungen kurzfristig vornehmen.
+Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Ändern von Organisationsstrukturen zu verstehen.
+Damit die gemeinsame Arbeit im Team gut funktionieren kann, müssen sich die Teammitglieder gegenseitig <b> Respekt </b> entgegenbringen, auch über das Team hinaus ist Wertschätzung wichtig, zum Beispiel im Kontakt mit dem Kunden.
 
 # Prinzipien
 
