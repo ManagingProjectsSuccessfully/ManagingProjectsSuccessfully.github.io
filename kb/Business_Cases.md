@@ -75,6 +75,7 @@ So kann man eine Tabelle erstellen:
 * [Projektmanagement](Projektmanagement.md)
 * [Projektcontrolling](Projektcontrolling.md)
 * [PRINCE2](PRINCE2.md)
+* [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md)
 
 
 # Weiterführende Literatur
