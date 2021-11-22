@@ -85,14 +85,21 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](ClickUp_PM_Tool.md)
-*
+* [Jira](Jira_PM_Tool.md)
+* [MeisterTask](MeisterTask_PM_Tool.md)
+* [Hive](Hive_PM_Tool.md)
+* [Trello](Trello_PM_Tool.md)
+* [Podio](Podio_PM_Tool.md)
+* [Microsoft Project](Microsoft_Project_PM_Tool.md)
+* [Microsoft Planner](Microsoft_Planner_PM_Tool.md)
+* [Asana](Asana_PM_Tool.md)
+* [Stackfield](Stackfield_PM_Tool.md)
+* [Awork](Awork_PM_Tool.md)
+* [Java](Java_PM_Tool.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-* Webseite: https://clickup.com
+* Homepage: https://clickup.com
 
 # Quellen
 
@@ -101,10 +108,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: [ClickUp](https://clickup.com)
 [^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
-
-
-
-
-
 
