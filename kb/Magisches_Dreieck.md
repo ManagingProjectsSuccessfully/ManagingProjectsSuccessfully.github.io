@@ -1,8 +1,8 @@
 ---
 title: Magisches_Dreieck
-tags: agil klassisch
+tags: klassisch
 author: ha52piha
-anrechnung: k oder a
+anrechnung: k
 ---
 # Das magische Dreick des Projektmanagements
 Das magische Dreieck ist das Symbol für die drei zentrale Faktoren des Projektmanagements: Zeit, Kosten und Leistung. In der Mitte des Dreiecks befindet sich das Projektziel. Vor Projektbeginn werden alle 3 Größen bestimmt und priorisiert. 
@@ -112,7 +112,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Magisches_Dreieck.md)
+* [SMART_Ziele](SMART_Ziele.md)
 
 # Weiterführende Literatur
 
