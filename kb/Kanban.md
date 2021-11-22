@@ -12,7 +12,7 @@ Das Kanban-Verfahren basiert vollständig auf dem tatsächlichen Materialverbrau
 Verbrauchsstellen[^1]. Es kann den lokalen Bestand an Vorprodukten in und in der Nähe der Produktion reduzieren, 
 die in der nächsten Integrationsstufe installiert werden[^1].
 
-Kanban in Bezug auf Projektmanagement ist einer der einfachsten und am schnellsten umsetzbaren Prozesse im agilen Projektmanagement und zusammen mit Scrum in vielen Unternehmen sehr beliebt[^3]. Zum einen lassen sich alle Arbeitsschritte und Workflows einfach in einen übersichtlichen Plan einfügen, strukturieren und Schritt für Schritt abarbeiten[^3]. Andererseits kann die Verwendung des entsprechenden Kanbans die Aufgabe für alle Projektbeteiligten sichtbar machen[^3].
+Kanban in Bezug auf Projektmanagement ist einer der einfachsten und am schnellsten umsetzbaren Prozesse im agilen Projektmanagement und zusammen mit Scrum in vielen Unternehmen sehr beliebt[^3]. Zum einen lassen sich alle Arbeitsschritte und Workflows einfach in einen übersichtlichen Plan einfügen, strukturieren und Schritt für Schritt abarbeiten[^3]. Andererseits kann die Verwendung von Kanban die Aufgabe für alle Projektbeteiligten sichtbar machen[^3].
 
 # Entstehung des Kanban-Systems
 
