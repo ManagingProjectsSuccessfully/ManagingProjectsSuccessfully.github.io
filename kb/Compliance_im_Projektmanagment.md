@@ -73,9 +73,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Szabo, Bela: Compliance Management System (https://www.haufe.de/compliance/management-praxis/compliance-management-systeme/compliance-management-system_230130_455824.html , zuletzt aufgerufen am 20.11.2021)
-[^2]: Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen (https://www.validatis.de/kyc-prozess/news-fachwissen/compliance/ , zuletzt aufgerufen am 21.11.2021)
-[^3]: International Organization for Standardization: ISO 37301:2021
+Szabo, Bela: Compliance Management System (https://www.haufe.de/compliance/management-praxis/compliance-management-systeme/compliance-management-system_230130_455824.html , zuletzt aufgerufen am 20.11.2021)
+Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen (https://www.validatis.de/kyc-prozess/news-fachwissen/compliance/ , zuletzt aufgerufen am 21.11.2021)
+International Organization for Standardization: ISO 37301:2021
 Compliance management systems — Requirements with guidance for use (https://www.iso.org/standard/75080.html , zuletzt aufgerufen am 19.11.2021)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
 
