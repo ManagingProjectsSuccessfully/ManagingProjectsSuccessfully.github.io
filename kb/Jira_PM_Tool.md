@@ -5,16 +5,9 @@ author: MKFAUGithub
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Jira_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# 1. JIRA als PM Tool
 
 Jira ist eine von der Firma Atlassian entwickelte Software, die Ursprünglich für die agile Softwareentwicklung erstellt wurde. Mittlerweile haben sich aber aus dem Ursprünglichen Programm die Unterprodukte Jira Software, Jira Service Management, Jira Work Management und Jira Align entwickelt. [QUELLE]
 Für den Themenbereich des Projektmanagements ist das Produkt Jira Software relevant. Hier können Workflows definiert, Aufgaben erstellt und zugewiesen, sowie Fortschritt und Produktivität verfolgt werden. [QUELLE EINFÜGEN]. Neben den Grundfunktionen die Atlassian in Jira selbst anbieten, hat man als Nutzer die Möglichkeit mit Hilfe des Marketplace Applikationen von Drittanbietern zu installieren und somit noch mehr Funktionen zur Verfügung zu haben.
-
 
 ## 2. Hosting
 Jira kann sowohl als Cloud-Hosting oder als selbstverwaltetes Hosting betrieben werden. Beim Cloud-Hosting wird der Service von Atlassian selber zur Verfügung gestellt und der Nutzer hat lediglich einen finanziellen Aufwand. [QUELLE] Beim selbstständigen Hosten kann mittels Jira Software Data Center die Umgebung auf der eigenen Serverlandschaft oder bei Infrastructure-as-a-Service-Anbietern (IaaS), wie bei Amazon Web Services, Microsoft, Google oder diversen Anbietern verwalten. 
@@ -23,8 +16,8 @@ Jira kann sowohl als Cloud-Hosting oder als selbstverwaltetes Hosting betrieben 
 Bei Atlassian gibt es sehr viele Preismodelle [Quelle]. Hier wird zwischen Cloud- und selbstverwaltetem Hosting unterschieden, aber auch die Nutzerzahl spielt eine Rolle. Ausgehend von 500 Benutzern ergeben sich bei jährlichem Zahlungsturnus folgende Preise: 
 ier eine Ebene-2-Überschrift unter Aspekt 2
 
-| Cloud-Hosting | Selbstverwaltetes Hosting |
-| ------------- | -------------|
+| Cloud-Hosting | Cloud-Hosting | Selbstverwaltetes Hosting |
+| ------------- | ------------- | -------------|
 | Standard  | Premium  | Data Center |
 | $30.000 pro Jahr  | $48.500 pro Jahr  | $42.000 pro Jahr |
 
@@ -61,14 +54,5 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
-
-
-###########################
-JIRA als PM Tool
-Jira ist eine von der Firma Atlassian entwickelte Software, die Ursprünglich für die agile Softwareentwicklung erstellt wurde. Mittlerweile haben sich aber aus dem Ursprünglichen Programm die Unterprodukte Jira Software, Jira Service Management, Jira Work Management und Jira Align entwickelt. [QUELLE EINFÜGEN]. 
-Für den Themenbereich des Projektmanagements ist das Produkt Jira Software relevant. Hier können Workflows definiert, Aufgaben erstellt und zugewiesen, sowie Fortschritt und Produktivität verfolgt werden. [QUELLE EINFÜGEN]. Neben den Grundfunktionen die Atlassian in Jira selbst anbieten, hat man als Nutzer die Möglichkeit mit Hilfe des Marketplace Applikationen von Drittanbietern zu installieren und somit noch mehr Funktionen zur Verfügung zu haben.
-Hosting
-Jira kann sowohl als Cloud-Hosting oder als selbstverwaltetes Hosting betrieben werden. Beim Cloud-Hosting wird der Service von Atlassian selber zur Verfügung gestellt und der Nutzer hat lediglich einen finanziellen Aufwand. [QUELLE] Beim selbstständigen Hosten kann mittels Jira Software Data Center die Umgebung auf der eigenen Serverlandschaft oder bei Infrastructure as a Service-Anbietern (IaaS), wie bei Amazon Web Services, Microsoft, Google oder diversen Anbietern verwalten. Während dieser Ansatz für Enterprise-Teams empfohlen wird, da die verwaltung und Administration in eigener Hand liegt, ist es für kleinere Unternehmen und Teams meist sinnvoll auf die Cloud zurückzugreifen, da hier keine extra Ressourcen für das eigenständige Betreiben der Software notwendig sind. [Quelle]
 
 
