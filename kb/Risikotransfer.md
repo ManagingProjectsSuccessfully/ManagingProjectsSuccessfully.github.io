@@ -14,10 +14,11 @@ anrechnung: k
 7. [Quellen](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#quellen)
 
 # Definition 
-Unter den Begriff des Risikotransfers, auch Risikoüberwälzung genannt, versteht man im [Risikomanagement](https://github.com/jnsdhr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) die Verteilung zukünftiger Risiken, oder die Auswirkung von Risiken einer Person oder einer Organisation, auf eine andere Partei. Dabei kann diese Partei für eine einzelne Person oder auch eine Organisation stehen wie z.B. eine Versicherungsgesellschaft. Diese Risiken müssen nicht zwangsläufig auftreten. Eines der gängigsten Methode des Risikotransfers ist das Abschließen einer Versicherung bei einer Versicherungsgesellschaft, und dadurch den Erwerb einer Versicherungspolice. [^1]
+Unter den Begriff des *Risikotransfers*, auch *Risikoüberwälzung* genannt, versteht man im [Risikomanagement](https://github.com/jnsdhr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) die Verteilung zukünftiger Risiken oder die Auswirkung von Risiken einer Person oder einer Organisation, auf eine andere Partei. Dabei kann diese Partei für eine einzelne Person oder auch eine Organisation stehen wie z.B. eine Versicherungsgesellschaft. Diese Risiken müssen nicht zwangsläufig auftreten. Eines der gängigsten Methode des Risikotransfers ist das Abschließen einer Versicherung bei einer Versicherungsgesellschaft, und somit den Erwerb einer Versicherungspolice. [^1]
 
 
 # Verschiedene Methoden des Risikotransfers
+Es gibt mehrere Methoden, um das Risiko zu streuen. Im Folgenden sind die gängigsten aufgelistet.
 * ## Versicherungen
 Durch den Kauf einer Versicherungspolice wird eine Partei bei einer Versicherungsgesellschaft auf zukünftigen potentiellen finanziellen Risken abgesichert. Als Gegenleistung erhält die Versicherungsgesellschaft regelmäßige Zahlungen um die Police aufrecht zu halten. [^1]
 * ## Derivate
