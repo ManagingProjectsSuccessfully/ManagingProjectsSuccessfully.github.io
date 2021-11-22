@@ -26,15 +26,10 @@ Geschichten haben meistens eine tieferen Sinn. Durch das Storytelling wird versu
 Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführung der Kollegen und Mitarbeiter als Projektmanager kann man durch eine gut erzählte Geschichte mit Vermittlung von relevanten Projekt-bezogenen Inhalten, die Projektinvolvierten abholen und ihnen den Sinn und die Wichtigkeit des Projekts nahe bringen. Dadurch kann man deren intrinsische Motivation steigern, was sowohl für die Mentalität der Mitarbeiter förderlich ist, als auch diese produktiver arbeiten lässt[^1]. 
 
 
-
 ## Praktische Anwendung
 
-* Keine puren Zahlen/Fakten
-* kreativ
-* mittelmaß
-* Projektbezogen
-* Beispielsweise
-  
+Zunächst ist es wichtig zu verstehen, das es hier nicht um pure Fakten und Statistiken geht. Hierbei geht es darum die Mitarbeiter durch kreative und emotionale Geschichten zu begeistern und von dem Projekt zu überzeugen. Man muss ein Mittelmaß zwischen Fantasie und projektbezogenen Inhalten finden. Die Thematik muss dabei passend und nicht zu realitätsfern gewählt sein. Beispielsweise kann man bei der Entwicklung einer App, welche für mehr Barrierefreiheit sorgen soll, die Sichtweise betroffener Personen und deren Geschichten erzählen, um so das Engagement der Mitarbeiter zu steigern, da ihnen der Sinn hinter dem bevorstehenden Projekt klar ist.
+
   
 ## Der Aufbau einer passenden Geschichte
 
@@ -49,16 +44,14 @@ Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführun
 
 Geschichte der Realität, Produkt des Prohjekt stellt Lösung dar
 
-### Hauptteil / Projektprozess 
+
+### Hauptteil / Projektprozess
+
+
+
 
 ### Projektabschluss
 
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
 
