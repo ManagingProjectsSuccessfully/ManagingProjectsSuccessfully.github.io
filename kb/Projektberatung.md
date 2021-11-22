@@ -4,11 +4,12 @@ tags: klassisch
 author: Christoph-Mantsch
 anrechnung:    k 
 ---
+Unter einem Projekt versteht man ein einmaliges und zielorientiertes Vorhaben, welches im Rahmen von verschiedenen Kriterien und einem definierten Ziel erfüllt werden soll. Beispiele für Kriterien eines projektes sind Zeit, Betriebsmittel, verfügbare Ressourcen, Qualitätsansprüche oder Arbeits- und Produktionsbedingungen. 
+Der Begriff Projekt leitet sich aus dem lateinischen Wort "proiectum" ab und bedeutet übersetzt "nach vorn geworfen". Im Kontext von Projekten versteht man unter "nach vorn" eine zeiliche Bedeutung wie beispielsweise einen Terminplan [^1].
 
+Projekte sind ein sehr zentraler Baustein in Unternehmen, allgegenwärtig genutzt und unverzichtbar für Firmen, da sie die Vorraussetzung für die Wertschöpfung und somit sehr bedeutungsvoll für das langfristige und erfolgreiche Wirtschaften des Unternehmens sind.
 
-
-Projekte sind ein sehr zentraler Baustein in Unternehmen, allgegenwärtig genutzt und unverzichtbar für Firmen, da sie die Vorraussetzung für die Wertschöpfung und somit sehr bedeutungsvoll für das langfristige und erfolgreiche Wirtschaften des Unternehmens ist.
-Jedoch werden Projekte sehr schnell kompliziert und unübersichtlich, da sie an einem sehr breiten Spektrum an Problemen scheitern können. Die häufigsten Ursachen für das Scheitern eines solchen Projektes sind unzureichende Kommunikation zwischen den Mitarbeitern und dem Auftraggeber oder auch mangelnde Auftragsklärung. Dadurch führen viele solcher Besprechungen zu keinem aussagekräftigen Ergebnis und sind daher oftmals nicht profitabel für das Unternehmen. In diesem Fall greifen Unternehmen gerne auf das Konzept der Projektberatung zurück. Hierbei werden externe Projektberatungs-Unternehmen engagiert, die an den Projekten teilnehmen, diese mit vielseitigen Kompetenzen wie IT-Software oder Projektmanagement-Strategien unterstützen und zusätzlich Probleme der Besprechungen analysieren und dem Unternehmen Lösungsansätze bereitstellen.
+Jedoch können Projekte sehr schnell kompliziert und unübersichtlich werden, was dazu führt, dass sie an einem sehr breiten Spektrum an Problemen scheitern können. Die häufigsten Ursachen für das Scheitern eines solchen Projektes sind unzureichende Kommunikation zwischen den Mitarbeitern und dem Auftraggeber oder auch mangelnde Auftragsklärung. Dadurch führen viele solcher Besprechungen zu keinem aussagekräftigen Ergebnis und sind daher oftmals nicht profitabel für das Unternehmen. In diesem Fall greifen Unternehmen gerne auf das Konzept der Projektberatung zurück. Hierbei werden externe Projektberatungs-Unternehmen engagiert, die an den Projekten teilnehmen, diese mit vielseitigen Kompetenzen wie IT-Software oder Projektmanagement-Strategien unterstützen und zusätzlich Probleme der Besprechungen analysieren und dem Unternehmen Lösungsansätze bereitstellen.
 Zusätzlich sind diese Dienstleistungsunternehmen nicht direkt am Projekt beteiligt, was ihnen eine sehr objektive Sicht auf die Problemlage des Klienten ermöglicht und ihm dadurch auch einen Aufschwung an Erfahrung und Strukturierung des Projektes bieten kann [^2].
 
 
