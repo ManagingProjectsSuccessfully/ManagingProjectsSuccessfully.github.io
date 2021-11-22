@@ -18,13 +18,13 @@ Die Meilensteintrendanalyse soll den Projektverantwortlichen einen visuellen Üb
 Um eine erfolgreiche Meilensteintrendanalyse durchzuführen, muss das Projekt zu Beginn in sinnvolle Teilprojekte zerlegt werden und eindeutig definierte Meilensteine festgelegt werden. Dabei müssen die Ziele klar und realistisch gesetzt sein[^4].
 
 ## Einsatzbereiche
-Die Meilensteintrendanalyse kann grundsätzlich bei allen Arten von Projekten angewendet werden. Sie dienen neben der Übersicht für die Interessensgruppen des Projekts auch als Zwischenbericht an das höhere Management[^5].
+Die Meilensteintrendanalyse kann grundsätzlich bei allen Arten von Projekten angewendet werden. Sie dienen neben der Übersicht für die Interessensgruppen des Projekts auch als Zwischenbericht an das höhere Management[^5]. Außerdem sollte sie bei keinem Projektabschluss fehlen
 
 ## Ablauf
-Nachdem am Anfang des Projektes die Meilensteine festgelegt werden, folgen im Laufe der Projektdurchführung regelmäßige Statusbesprechungen, um die Entwicklung der Meilensteine im Blick zu haben. Dabei sollten alle Mitarbeiter anwesend sein, die für einen oder mehrere Meilensteine verantwortlich sind. Bei diesen Meetings werden neben bereits erledigten Aufgaben dabei aufgetretene Probleme, Planungsschwächen und weitere Vorgehensweisen für darauffolgende Meilensteine besprochen[^4]. 
+Nachdem am Anfang des Projektes die Meilensteine festgelegt werden, folgen im Laufe der Projektdurchführung regelmäßige Statusbesprechungen, um die Entwicklung der Meilensteine im Blick zu haben. Dabei sollten alle Mitarbeiter anwesend sein, die für einen oder mehrere Meilensteine verantwortlich sind. Bei diesen Meetings werden neben bereits erledigten Aufgaben, dabei aufgetretene Probleme, Planungsschwächen und die weitere Vorgehensweise für darauffolgende Meilensteine besprochen[^4]. 
 
 ## Aufbau
-Besonders wirkungsvoll ist die grafische Darstellung der Meilensteine. Dazu wird ein Diagramm erstellt. An der y-Achse werden die geplanten Termine der Meilensteine abgetragen. An der x-Achse werden die tatsächlichen Berichtszeitpunkte eingetragen. Dabei entsteht eine Winkelhalbierende. Idealerweise fallen die geplanten Termine mit den letzten Berichtszeitpunkten zusammen. Das bedeutet, dass der Termin eingehalten wurde. Dies passiert in der Realität aber sehr selten[^6].
+Besonders wirkungsvoll ist die grafische Darstellung der Meilensteine. Dazu wird ein Diagramm erstellt. An der y-Achse werden die geplanten Termine der Meilensteine abgetragen. An der x-Achse werden die tatsächlichen Berichtszeitpunkte eingetragen. Dabei entsteht eine Winkelhalbierende. Idealerweise fallen die geplanten Termine mit den letzten Berichtszeitpunkten zusammen. Das bedeutet, dass der Termin eingehalten wurde. Dies passiert in der Realität aber sehr selten da Projekte meist schnell in Verzug geraten[^6].
 
 ![image](https://user-images.githubusercontent.com/92922561/141102712-a9303b9b-83bd-424f-9a6b-8bb75ccfd1aa.png)
 
