@@ -2,15 +2,13 @@
 title: Scrum_Values
 tags: agil klassisch
 author: Lukas1401
-anrechnung: k oder a
+anrechnung:  a
 ---
+Scrum ist ein Rahmenwerk aus Regeln, Prinzipien und Werte. Die Scrum Werte stellen einen wichtigen Bestandteil der Scrum Methode dar, denn bei Scrum geht es um mehr als nur um Regeln und Prinzipien. Diese Werte wurden nicht explizit als Teil von Scrum erfunden, aber dennoch geben sie der Arbeit, dem Verhalten und den Handlungen in Scrum eine Richtung vor. Alle Aktivitäten, die innerhalb von Scrum durchgeführt werden, sollen diese Werte verstärken und nicht schmälern oder untergraben. Nur so können ihre Vorteile realisiert werden[^1]. Diese Werte werden nun genauer erläutert. 
 
-Kurzbeschreibung zu Scrum_Values um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# 5 Scrum Values
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Das Konzept definiert 5 verschiedene Werte, die für den Erfolg von großer Bedeutung sind. Diese sind Commitment, Fokus (Focus), Offenheit (Openness), Respekt (Respect) und Mut (Courage).
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -97,7 +95,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [The Scrum Values](https://guntherverheyen.com/the-scrum-values/)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
