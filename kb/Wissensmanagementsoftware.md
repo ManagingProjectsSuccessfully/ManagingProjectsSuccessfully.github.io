@@ -2,7 +2,7 @@
 title: Wissensmanagementsoftware
 tags: agil klassisch
 author: gelfertfelix
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Wissensmanagementsoftware um ein erstes Verständnis dafür zu schaffen um was es hier geht.
