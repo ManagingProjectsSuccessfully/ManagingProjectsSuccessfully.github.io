@@ -8,7 +8,7 @@ anrechnung: k oder a
 Kurzbeschreibung zu Magisches_Dreieck um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+oben im Front-Matter (Bereich zwischen den `---`)
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
