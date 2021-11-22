@@ -9,7 +9,7 @@ Wenn man ein Projekt managet läuft nicht immer alles nach Plan. Durch unvorhers
 
 # Ursachen
 
-Crunch Time tritt immer dann auf, wenn ein Projekt in Zeitverzug kommt. Die Gründe dafür können natürlich vielfältig sein. Irgendwann im Verlauf des Projekts muss es einen Punkt geben, an dem etwas nicht so läuft, wie geplant. Entweder ist bereits in der Planung etwas schiefgelaufen, oder es tritt im Verlauf des Projekts ein Fehler auf, der nicht adäquat behoben wird. Eine schlechte Projektplanung, eine mangelnde Vorbereitung, zu geringe Ressourcen oder zu optimistische Annahmen können dazu führen, dass das Projekt trotz optimaler Ausführung nicht innerhalb des gesetzten Zeitplans fertig werden kann. Während des Projekts auftretende Verzögerungen können unter anderem durch ein schlechtes Projektmanagement, durch zu wenig Kommunikation, oder eine unklare Rollenverteilung im Team auftreten. Unvorhersehbare Störungen, wie der dauerhafte oder temporäre Ausfall eines Teammitglieds, oder eine Forderung des Kunden nach zusätzlichen Features können zusätzliche negative Faktoren sein. Meist wird die Crunch Time dann als der einzige Ausweg gesehen das Projekt noch innerhalb des gesetzten Zeitraums zu vollenden, ohne dass es scheitert oder erst nach der Deadline abgeschlossen werden kann[^1].
+Crunch Time tritt immer dann auf, wenn ein Projekt in Zeitverzug kommt[^1]. Die Gründe dafür können natürlich vielfältig sein. Irgendwann im Verlauf des Projekts muss es einen Punkt geben, an dem etwas nicht so läuft, wie geplant. Entweder ist bereits in der Planung etwas schiefgelaufen, oder es tritt im Verlauf des Projekts ein Fehler auf, der nicht adäquat behoben wird. Eine schlechte Projektplanung, eine mangelnde Vorbereitung, zu geringe Ressourcen oder zu optimistische Annahmen können dazu führen, dass das Projekt trotz optimaler Ausführung nicht innerhalb des gesetzten Zeitplans fertig werden kann. Während des Projekts auftretende Verzögerungen können unter anderem durch ein schlechtes Projektmanagement, durch zu wenig Kommunikation, oder eine unklare Rollenverteilung im Team auftreten. Unvorhersehbare Störungen, wie der dauerhafte oder temporäre Ausfall eines Teammitglieds, oder eine Forderung des Kunden nach zusätzlichen Features können zusätzliche negative Faktoren sein. Meist wird die Crunch Time dann als der einzige Ausweg gesehen das Projekt noch innerhalb des gesetzten Zeitraums zu vollenden, ohne dass es scheitert oder erst nach der Deadline abgeschlossen werden kann[^2].
 
 # Folgen
 
@@ -30,6 +30,5 @@ Ein gutes Projektmanagement ist essenziell, um Crunch Time zu vermeiden. Zur Pla
 # Quellen
 
 [^1]: [Crunch Time](http://www.projectmanagementguide.org/project-management/crunch-time)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^2]: [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/)
 
