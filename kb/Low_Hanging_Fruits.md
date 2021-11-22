@@ -2,7 +2,7 @@
 title: Low_Hanging_Fruits
 tags: agil klassisch
 author: seif0123
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Low_Hanging_Fruits um ein erstes Verständnis dafür zu schaffen um was es hier geht.
