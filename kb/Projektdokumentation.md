@@ -8,6 +8,7 @@ anrechnung: k
 Die Projektdokumentation gibt einen detaillierten Überblick über die relevanten Kenntnisse und grundlegenden Inhalte des durchgeführten Projekts und ist für jedes Projekt unerlässlich. Alle wichtigen Schritte während des Projekts werden gut strukturiert zu einer aussagekräftigen Dokumentensammlung zusammengefasst.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
+
 oben im Front-Matter (Bereich zwischen den `---`).
 
 # Allgemeines über Projektdokumentation
@@ -36,38 +37,24 @@ Es ist wichtig die Projektinhalte zu definieren, also im Vorhinein festzulegen w
 
 # Verschiedene Phasen der Projektdokumentation
 
+<img src="https://www.derpade.de/wp-content/uploads/2016/01/Projektdokumentation.jpg" width="250">
+
 * Projektdokumentation während der Projektplanung
 * Projektdokumentation während der Projektdurchführung
 * Projektdokumentation während des Projektabschlusses
-
- <img src="https://www.derpade.de/wp-content/uploads/2016/01/Projektdokumentation.jpg" width="250">
 
 ## Projektdokumentation während der Projektplanung
 
 Die Projektdokumentation im Kontext der Projektplanung beschränkt sich auf das Protokollieren von Entscheidungen zur Projektplangestaltung. Neben der Planung von Zeit und Budget liefert der Projektleiter die Grundlage für alles , was im Projekt passieren wird. Wenn Sie Ihre Entscheidungsfindung bereits gut dokumentieren, ist es bei der späteren Bewertung des Projekterfolgs leichter zu erkennen, ob Ungleichgewichte während des Projekts bereits etwas mit der Planung zu tun haben könnten. [^5]
 
-<img src="https://www.derpade.de/wp-content/uploads/2016/01/Projektdokumentation.jpg" width="250">
-
 
 ## Projektdokumentation während der Projektdurchführung
 
-Projektdokumentation während der Projektdurchführung bezieht sich vor allem auf die Aufgaben des Projektcontrolling und die Projektzeiterfassung. 
+Projektdokumentation während der Projektdurchführung bezieht sich vor allem auf die Aufgaben des Projektcontrolling und die Projektzeiterfassung. Indem im Laufe des Projektes laufend dokumentiert wird, welche Ressourcen genutzt werden, lassen sich laufende Soll-Ist Vergleiche anstellen. Schon während des Projektes kann man so entdecken, welche Projekte effizient und welche weniger effizient ablaufen. [^6]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## Projektdokumentation während des Projektabschlusses
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Beim Projektabschluss geht es vor allem darum, die bisher gesammelten Daten der Projektdokumentation zusammenzufügen und das Projekt auszuwerten. Auf der bisherigen Dokumentation basierend lassen sich Projektberichte erstellen, die für verschiedene Zwecke als Diskussionsgrundlage dienen können. Eine gute Projektdokumentation kann jedoch eine solide Grundlage für eine differenzierte Meinung über den Erfolgsgehalt des Projekts darstellen. Vor allem für einzelne Bereiche und Tätigkeiten. Wird von Anfang an gut dokumentiert, lässt sich spätestens im Anschluss an das Projekt sagen, wo effizient und wo weniger effizient gearbeitet wurde. Die Produktivität von Mitarbeitenden, Abteilungen und Projektabschnitten lässt sich spätestens jetzt auswerten. Spätestens jetzt kann man aus seinen Fehlern lernen und Verbesserungsansätze überlegen. [^7]
 
 
 # Siehe auch
@@ -86,4 +73,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: https://dieprojektmanager.com/projektdokumentation-wichtige-grundregeln/
 [^4]: https://www.factro.de/blog/projektdokumentation/
 [^5]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
+[^6]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
+[^7]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
 
