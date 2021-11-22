@@ -23,11 +23,11 @@ Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^3]. Darunter fallen
 2. an dem Prozess beteiligte Personen
 3. daraus resultiernde Ergebnisse
 
-Die Agilität von Scrumt zeichnet sich dardurch aus, dass der Workflow in zeitlich festgelegte Schritte, sog. Sprints eingeteilt wird.
+Die Agilität von Scrum zeichnet sich dadurch aus, dass der Workflow in zeitlich festgelegte Schritte, sog. Sprints eingeteilt wird.
 
 # Sprints
 
-Kernelemente der Ereignisse sind die sogenannten Sprints, welche einen hohen Stellenwert einnehmen und dementsprechend *"der Herzschlag von Scrum ist, wo Ideen in Wert
+Kernelemente der Ereignisse sind die Sprints, welche einen hohen Stellenwert einnehmen und dementsprechend *"der Herzschlag von Scrum ist, wo Ideen in Wert
 umgewandelt werden"*[^4].
   Taucht man nun tiefer in den Ablauf eines einzigen Sprints ein, lässt sich feststellen, dass dieser nochmals in Etappen unterteilt ist.
   
