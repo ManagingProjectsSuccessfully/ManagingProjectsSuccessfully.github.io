@@ -27,7 +27,7 @@ Klassisches Projektmanagement setzt auf Vorausplanen und Einhalten einer Strateg
 
 # Was wird dafür benötigt?
 
-Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovoltaik, Biomasse und Geothermie (untergeordnete Rolle bei Stromerzeugung) und eine Erweiterung der Infrastruktur in Form von Netzen, als auch in Digitaler Form. Insbesondere auch die Anbindung von weit vom Festland entfernten Windkraftwerken und auch ein Aufbau von Speichermöglichkeiten für erneuerbare Energien und Investitionen in Forschung und Entwicklung, um diese zu optimieren.
+Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovoltaik, Biomasse und Geothermie (untergeordnete Rolle bei Stromerzeugung) und eine Erweiterung der Infrastruktur in Form von Netzen, als auch in digitaler Form. Insbesondere auch die Anbindung von weit vom Festland entfernten Windkraftwerken und auch ein Aufbau von Speichermöglichkeiten für erneuerbare Energien und Investitionen in Forschung und Entwicklung, um diese zu optimieren.
 
 # Stakeholder
 
