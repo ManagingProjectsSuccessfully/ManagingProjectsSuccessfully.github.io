@@ -13,9 +13,12 @@ Das heißt es muss herausgefunden werden wer das Projekt beeinflussen kann oder 
 Hierbei gilt es die unterstützenden Stakeholder von den möglicherweise fürs Projekt gefährlichen Stakeholdern zu unterscheiden. Außerdem gibt es interne und externe 
 Stakeholder. 
 Die internen Stakeholder befinden sich innerhalb des Unternehmens, wie zum Beispiel der Eigentümer, während die externen Stakeholder sich außerhalb des Unternehmens befinden. 
-Ein Beispiel wären Lieferanten oder Kunden. Am wichtigsten sind aber die sogenannten Key-Stakeholder, die den meisten Einfluss auf das Projekt haben. Hat man diesen Schritt 
-erledigt kann man sich der Analyse der Stakeholder zuwenden. Das Projektmanagement muss sich genauestens überlegen wie die Stakeholder zum Projekt stehen, wie viel Einfluss 
-sie auf dieses haben und welche Interessen sie vertreten. In einer Matrix mit den wichtigsten Faktoren Einfluss und Interesse lässt sich dies am besten darstellen (Bild). 
+Ein Beispiel wären Lieferanten oder Kunden. Am wichtigsten sind aber die sogenannten Key-Stakeholder, die den meisten Einfluss auf das Projekt haben. 
+
+# Analyse
+Hat man diesen Schritt erledigt kann man sich der Analyse der Stakeholder zuwenden. Das Projektmanagement muss sich genauestens überlegen wie die Stakeholder zum Projekt
+stehen, wie viel Einfluss sie auf dieses haben und welche Interessen sie vertreten. In einer Matrix mit den wichtigsten Faktoren Einfluss und Interesse lässt sich dies am 
+besten darstellen (Bild). 
 
 # Planung
 Nach der Identifikation und der Analyse sollte in die Planung übergegangen werden. Hauptsächlich muss die Einbindung der Stakeholder in das Projekt geplant werden. Die 
