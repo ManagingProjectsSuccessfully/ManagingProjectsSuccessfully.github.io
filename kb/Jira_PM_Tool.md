@@ -23,26 +23,26 @@ Bei Atlassian gibt es mehrere Preismodelle[^5]. Hier wird zwischen Cloud- und se
 | $30.000 pro Jahr  | $48.500 pro Jahr  | $42.000 pro Jahr |
 
 ## 3. Funktionsweise
-In Jira muss zunächst ein Projekt angelegt werden. Im Anschluss kann eine Vorlage für das Projekt ausgewählt werden, was die Darstellung der Aufgaben beeinflusst. Man kann sich bei Jira-Software zwischen [Scrum](Jira_PM_Tool.md#61-scrum-board)- und [Kanban Boards](Jira_PM_Tool.md#62-kanban-board) entscheiden. Im Jira-Projekt können sogenannte [Vorgänge](Jira_PM_Tool.md#4-vorgänge) erstellt werden, die als Aufgaben, Risiken, Bugs aber auch diverse andere Typen gekennzeichnet werden. Diese Vorgänge müssen während ihrer Bearbeitung einen Workflow durchlaufen, der in den Projekteinstellungen definiert werden kann und für jede Aufgabe gilt. Auf den Projektboards oder extra erstellen [Dashboards](Jira_PM_Tool.md#63-dashboards) können die Vorgänge nach bestimmten Kriterien gefiltert dargestellt werden.
+In Jira muss zunächst vom Administrator ein Projekt angelegt werden. Im Anschluss kann eine Vorlage für das Projekt ausgewählt werden, was die Darstellung der Aufgaben beeinflusst. Man kann sich bei Jira-Software zwischen [Scrum](Jira_PM_Tool.md#61-scrum-board)- und [Kanban Boards](Jira_PM_Tool.md#62-kanban-board) entscheiden[^7]. Im Jira-Projekt können sogenannte [Vorgänge](Jira_PM_Tool.md#4-vorgänge) erstellt werden, die als Aufgaben, Risiken, Bugs aber auch diverse andere Typen gekennzeichnet werden[^8]. Diese Vorgänge müssen während ihrer Bearbeitung einen Workflow durchlaufen, der in den Projekteinstellungen definiert werden kann und für jede Aufgabe gilt. Auf den Projektboards oder extra erstellen [Dashboards](Jira_PM_Tool.md#63-dashboards) können die Vorgänge nach bestimmten Kriterien gefiltert dargestellt werden und somit eine leichtere Auswertung erfolgen.
 
 ## 4. Vorgänge
-Aufgaben oder Tickets werden in Jira als Vorgang angelegt. Hierbei kann je nach Bedarf entschieden werden, um welche Art es sich dabei Handeln soll und aus verschiedenen Formaten wie „Aufgabe“, „Unteraufgabe“, „Themes“ eine passende Vorlage auswählen. Beim Erstellen muss ein Titel, sowie eine Beschreibung der Aufgabe hinzugefügt werden bevor diese angelegt werden kann.
+Aufgaben oder Tickets werden in Jira als Vorgang angelegt. Hierbei kann je nach Bedarf entschieden werden, um welche Art es sich dabei Handeln soll und aus verschiedenen Formaten wie „Aufgabe“, „Unteraufgabe“, „Themes“ eine passende Vorlage auswählen. Beim Erstellen muss ein Titel, sowie eine Beschreibung der Aufgabe hinzugefügt werden bevor diese angelegt werden kann[^9].
 
 ![Jira Vorgangserstellung](Jira_PM_Tool/Jira_Issue.png)
 
 ## 5. Filter
-Mit Hilfe von Filtern kann nach bestimmten Vorgängen gesucht werden. Zum einen kann man als Benutzer direkt auf dem Projektboard mit hinzugefügten Schnell-Filtern per Auswahlliste oder Suchfeld die Ergebnisse einschränken, andererseits hat man die Möglichkeit über Jira-Query-Language (JQL) erweiterte suchen auszuführen. [QUELLE] Diese erweiterten Suchen können auch getrennt von dem Projektboard als eigene Filter abgespeichert werden und so an verschiedenen Stellen wiederverwendet werden.
+Mit Hilfe von Filtern kann nach bestimmten Vorgängen gesucht werden. Zum einen kann man als Benutzer direkt auf dem Projektboard mit hinzugefügten Schnell-Filtern per Auswahlliste oder Suchfeld die Ergebnisse einschränken, andererseits hat man die Möglichkeit über Jira-Query-Language (JQL)[^10] erweiterte suchen auszuführen. Diese erweiterten Suchen können auch getrennt von dem Projektboard als eigene Filter abgespeichert werden[^11] und so an verschiedenen Stellen wiederverwendet werden.
 
 ### 5.1 JQL-Code Beispiel
  
-**Select all issues you are interested in**
+**Ausgabe alle Vorgänge, die dem aktuell angemeldeten Benutzer zugewiesen sind**[^12]
 
 ```
-(assignee = currentUser() or reporter = currentUser()) AND (fixVersion in unreleasedVersions() or fixVersion is empty) 
+Project = Test AND assignee in (currentUser()) 
 ```
 
 ## 6. Jira-Boards
-Neben den Projektboards gibt es noch Dashboards, die unabhängig davon befüllbar sind. Hier können mit sogenannten Gadgets verschiedene Ergebnisse visualisiert werden. Neben Filterergebnissen, die mit JQL erstellt worden sind, können hier auch Grafiken und Reports eingebunden werden um einen schnellen Überblick über ein bestimmtes Thema innerhalb eines Projekts zu gewinnen.
+Neben den Projektboards gibt es noch [Dashboards](Jira_PM_Tool.md#63-dashboards), die unabhängig davon befüllbar sind. Hier können mit sogenannten Gadgets verschiedene Ergebnisse visualisiert werden. Neben Filterergebnissen, die mit JQL erstellt worden sind, können hier auch Grafiken und Reports eingebunden werden um einen schnellen Überblick über ein bestimmtes Thema innerhalb eines Projekts zu gewinnen.
 
 ### 6.1 Scrum Board
 ![Scrum Board](Jira_PM_Tool/scrum_backlog_full.png)
@@ -78,6 +78,17 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 [^3]: [Hosting Modelle](https://www.atlassian.com/migration/assess/compare-cloud-data-center)
 [^4]: [Infrastructure-as-a-Service-Anbietern (IaaS)](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
 [^5]: [Preismodelle Jira](https://www.atlassian.com/de/software/jira/pricing)
+[^6]: [Create a Project](https://www.atlassian.com/de/software/jira/guides/getting-started/basics#step-1-create-a-project)
+[^7]: [Vorlagenauswahl](https://www.atlassian.com/de/software/jira/guides/getting-started/basics#step-2-pick-a-template)
+[^8]: [Create Issues](https://support.atlassian.com/jira-software-cloud/docs/create-an-issue-and-a-sub-task/)
+[^9]: [What is an issue](https://support.atlassian.com/jira-software-cloud/docs/what-is-an-issue/)
+[^10]: [Jira Advanced Search (JQL)](https://support.atlassian.com/jira-software-cloud/docs/save-your-search-as-a-filter/)
+[^11]: [Eigene Filter erstellen](https://support.atlassian.com/jira-software-cloud/docs/save-your-search-as-a-filter/)
+[^12]: [JQL Syntax](https://www.atlassian.com/software/jira/guides/expand-jira/jql#jql-syntax)
+[^13]: [What is a Jira Dashboard](https://support.atlassian.com/jira-work-management/docs/what-is-a-jira-dashboard/)
+
+
+
 [^0]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 [^5]: [What is a Board](https://confluence.atlassian.com/jirasoftwareserver/what-is-a-board-938845235.html)
 [^6]: [What is a Jira-SoftwareBoard](https://support.atlassian.com/jira-software-cloud/docs/what-is-a-jira-software-board/)
