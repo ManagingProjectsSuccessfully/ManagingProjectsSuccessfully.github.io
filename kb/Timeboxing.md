@@ -17,17 +17,13 @@ Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten 
 
 ## Ablauf von Timeboxing 
 
-1. Erstellen einer To-do Liste 
-Zunächst sollte man sich einen Überblick über alle Aufgaben verschaffen, dies gelingt am bestem mit einer klassischen To-do Liste.
+1. Erstellen einer To-do Liste über alle zu erledigenden Aufgaben
 
 2. Aufgaben priorisieren
-Nun sollten die Aufgaben der To-do Liste nach Wichtigkeit absteigend sortiert werden. Hierbei hilft einem das sogenannten Eisenhower-Prinzip oder die ABC-Methode.
 
 3. Dauer der To-dos abschätzen 
-Um abzuschätzen wie lang die Erledigung der jeweiligen Aufgaben brauchen könnte, sollte man u.a. die Erfahrung von Mitarbeitern und Expertenwissen nutzen. Die Schätzungen entsprechen dann den Timeboxen. Hierbei können zusammenhängende Aufgaben in einer Timebox zusammengefasst werden. 
 
-4. Timeboxen setzen
-Beim Setzen der Timeboxen muss zunächst entschieden werden ob die Timebox hart oder weich sein soll. Es ist zudem wichtig Pausen und extra Timeboxen als Puffer für unvorhersehbaren Mehraufwand einzuplanen. Die Aufgaben sollten schriftlich mit den Zeitfenstern festgehalten werden. Zur Reflexion sollte nach Ablauf der Timebox notiert werden wie lang man tatsächlich für die Aufgabe gebraucht hat.  
+4. Timeboxen setzen und mit Zeitslot schriftlich festhalten
 
 
 # Vor- und Nachteile des Timeboxing
