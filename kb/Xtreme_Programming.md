@@ -22,7 +22,7 @@ Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes
 
 Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken entwickelt.
 
-![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
+![Beispielabbildung] (https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
 
 # Rollen
 
