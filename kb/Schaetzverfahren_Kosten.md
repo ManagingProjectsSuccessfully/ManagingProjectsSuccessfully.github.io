@@ -2,7 +2,7 @@
 title: Schaetzverfahren_Kosten
 tags: agil klassisch
 author: Sven017
-anrechnung: klassisch 
+anrechnung: k 
 ---
 
 # Schätzungen als Prozess um Kosten eines Projekts zu bestimmen
