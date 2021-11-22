@@ -97,7 +97,7 @@ in diesem Kontext eine essenzielle Rolle ein.[^14][^15]
 
 # Weiterführende Literatur
 
-* Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren
+* Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.*
 
 # Quellen
 
