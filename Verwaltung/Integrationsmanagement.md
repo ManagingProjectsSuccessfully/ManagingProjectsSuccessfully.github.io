@@ -8,19 +8,6 @@ anrechnung: k
 Das Integrationsmanagement ist ein Teilgebiet des [Projektmanagements](https://de.wikipedia.org/wiki/Projektmanagement) und dient dazu alle Prozesse und Vorgänge, welche Teil des Projekts sind, zu koordinieren und an alle Prozessgruppen anzupassen.[^2]
 
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung]({Projekt}/test-file.jpg)
-
-*lustiges Testbild*
-
-
 # Prozesse 
 
 Bei erfolgreicher Anwendung des Integrationsmanagements kann erkennen, dass der Ablauf in kleine einzelne Schritte aufgeteilt ist. Es zieht sich also vom Entwickeln des Projektauftrages bis hin zur Abschließung es Projekts hin.
