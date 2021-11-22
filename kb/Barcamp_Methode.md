@@ -44,8 +44,8 @@ Nach dem Barcamp werden die Dokumentationen der Teilnehmer gesammelt und in eine
 |Entfaltung der Teilnehmer|ungeordeter Ablauf|
 |Teambuilding Maßnahme|Unstimmigkeiten zwischen Teilnehmern|
 
-# No-Gos
-| ~~Zu vermeiden sind~~:  | 
+# ~~No-Gos~~
+| Zu vermeiden:  | 
 | ------------- | 
 | Vordefinierte Themen, die auf jeden Fall auf das Sessionboard kommen müssen  |
 | Abwählen von Themen, bei zu geringer Interesse  | 
