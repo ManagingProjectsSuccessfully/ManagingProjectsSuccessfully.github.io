@@ -106,7 +106,7 @@ in diesem Kontext eine essenzielle Rolle ein.[^14][^15]
 [^2]: [Wissenstransfer - einfach erklärt, YouTube](https://www.youtube.com/watch?v=wlNf-T9LqV0)
 [^3]: Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen. Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.* Heft 5, 1998, S. 235–252.
 [^4]: [Phasen Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer)
-[^5]: [Phasenmodell nach Krogh und Köhne](https://www.google.de/url?sa=i&url=https%3A%2F%2Funipub.uni-graz.at%2Fobvugrhs%2Fcontent%2Ftitleinfo%2F408896%2Ffull.pdf&psig=AOvVaw1dosZ_jsmGKr2-k36fpIKS&ust=1637082234697000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJCxkdrsmvQCFQAAAAAdAAAAABAc)
+[^5]: [Phasenmodell nach Krogh und Köhne](https://www.jstor.org/stable/pdf/24183239.pdf?refreqid=excelsior%3A77fd38f51da5a53c7a9dc15276f819f1)
 [^6]: [Wasserfall-Modell](https://de.wikipedia.org/wiki/Wasserfallmodell)
 [^7]: [Klassisches und agiles Projektmanagement im Vergleich](https://dl.gi.de/bitstream/handle/20.500.12116/3061/47.pdf?sequence=1&isAllowed=y)
 [^8]: [Wie funktioniert agiles Projektmanagement?](https://www.cobra.de/wie-funktioniert-agiles-projektmanagement/?utm_source=google&utm_medium=cpc&utm_campaign=crm_software_testversion&pk_campaign=crm_software_testversion&msclkid=faba32df3ce5149e407c53526e2c943f)
