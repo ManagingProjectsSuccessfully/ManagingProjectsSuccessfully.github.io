@@ -16,15 +16,15 @@ Jira ist eine von der Firma Atlassian entwickelte Software, die Ursprünglich f�
 Für den Themenbereich des Projektmanagements ist das Produkt Jira Software relevant. Hier können Workflows definiert, Aufgaben erstellt und zugewiesen, sowie Fortschritt und Produktivität verfolgt werden. [QUELLE EINFÜGEN]. Neben den Grundfunktionen die Atlassian in Jira selbst anbieten, hat man als Nutzer die Möglichkeit mit Hilfe des Marketplace Applikationen von Drittanbietern zu installieren und somit noch mehr Funktionen zur Verfügung zu haben.
 
 
-##2. Hosting
+## 2. Hosting
 Jira kann sowohl als Cloud-Hosting oder als selbstverwaltetes Hosting betrieben werden. Beim Cloud-Hosting wird der Service von Atlassian selber zur Verfügung gestellt und der Nutzer hat lediglich einen finanziellen Aufwand. [QUELLE] Beim selbstständigen Hosten kann mittels Jira Software Data Center die Umgebung auf der eigenen Serverlandschaft oder bei Infrastructure-as-a-Service-Anbietern (IaaS), wie bei Amazon Web Services, Microsoft, Google oder diversen Anbietern verwalten. 
 
 ## 3. Preisliste
 Bei Atlassian gibt es sehr viele Preismodelle [Quelle]. Hier wird zwischen Cloud- und selbstverwaltetem Hosting unterschieden, aber auch die Nutzerzahl spielt eine Rolle. Ausgehend von 500 Benutzern ergeben sich bei jährlichem Zahlungsturnus folgende Preise: 
 ier eine Ebene-2-Überschrift unter Aspekt 2
 
-| Cloud-Hosting | Cloud-Hosting | Selbstverwaltetes Hosting |
-| ------------- | ------------- | -------------|
+| Cloud-Hosting | Selbstverwaltetes Hosting |
+| ------------- | -------------|
 | Standard  | Premium  | Data Center |
 | $30.000 pro Jahr  | $48.500 pro Jahr  | $42.000 pro Jahr |
 
