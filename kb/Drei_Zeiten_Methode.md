@@ -27,13 +27,13 @@ Der Schätzfehler wird durch die Standardabweichung angegeben. Er wird mit der f
 
 ![Beispielabbildung](Drei_Zeiten_Methode/Standardabweichung.png)
 
-Die Dreipunkt-Schätzung gleicht Schätzfehler aus und liefert so realistischere Werte als die Einzelwert-Schätzung. Abbildung 3 zeigt, wie der Mittelwert bei der Dreipunkt-Schätzung ermittelt wird. Die Schätzwerte werden an die horizontale Achse geschrieben und an die dazugehörigen Wahrscheinlichkeiten der Prognosen an die vertikale Achse. Der Verlauf der Schätzwerte ist eine Kurve. Die absolute Wahrscheinlichkeit wird durch Fläche unter der Kurve dargestellt. Das Dreieck ist eine Annäherung an die Kurve und lässt sich vereinfacht durch folgende Formel berechnen. [^1]
+Die Dreipunkt-Schätzung gleicht Schätzfehler aus und liefert so realistischere Werte als die Einzelwert-Schätzung. [Abbildung 3](Drei_Zeiten_Methode/Mittelwert.png) zeigt, wie der Mittelwert bei der Dreipunkt-Schätzung ermittelt wird. Die Schätzwerte werden an die horizontale Achse geschrieben und an die dazugehörigen Wahrscheinlichkeiten der Prognosen an die vertikale Achse. Der Verlauf der Schätzwerte ist eine Kurve. Die absolute Wahrscheinlichkeit wird durch Fläche unter der Kurve dargestellt. Das Dreieck ist eine Annäherung an die Kurve und lässt sich vereinfacht durch folgende Formel berechnen. [^1]
 
 ![Beispielabbildung](Drei_Zeiten_Methode/Mittelwert.png)
 
 ### Einsatzmöglichkeiten
 
-Die Schätzmethode eignet sich besonders in frühen Projektphasen, wenn der Leistungsumfang noch nicht eingegrenzt worden ist. Angewendet werden kann sie des weiteren für alle [Aufwands- & Kostenkontrollen](Aufwands_Kosten_Kontrolle.md). Außerdem ist sie nicht nur auf den Einsatz im [Projektmanagement](Projektmanagement.md) beschränkt. 
+Die Schätzmethode eignet sich in frühen Projektphasen besonders gut, wenn der Leistungsumfang noch nicht eingegrenzt worden ist. Angewendet werden kann sie des weiteren für alle [Aufwands- & Kostenkontrollen](Aufwands_Kosten_Kontrolle.md). Außerdem ist sie nicht nur auf den Einsatz im [Projektmanagement](Projektmanagement.md) beschränkt. 
 
 ### Vorteile:
 * Internationale Anerkennung in der [Projektplanung](Projektplanung.md)
@@ -52,8 +52,10 @@ Die Schätzmethode eignet sich besonders in frühen Projektphasen, wenn der Leis
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Bohinc, T. (2019). Grundlagen des Projektmanagements
+Methoden, Techniken und Tools für Projektleiter (GABAL-Verlag)](https://wiso.genios.de/document/GABA__9783956238512240)
+
+[^2]: [Niklas, C. (2017). PERT Drei-Punkt-Schätzung (Projekt Magazin)](https://www.projektmagazin.de/methoden/pert-drei-punkt-schaetzung)
+
+[^3]: [Lüth, K. (2018). Realistische Aufwandsschätzung schnell und systematisch](https://www.wiso-net.de/document/PROJ__1127854)
 
