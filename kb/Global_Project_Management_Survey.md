@@ -93,12 +93,11 @@ oder trieben diese aktiv voran:
 
 ![Technology usage](Global_Project_Management_Survey/2021_Technolgy usage.jpg].
 
-# Kernaussagen und Erkenntnisse aus dem Report 2020
-
-
-# Kernaussagen und Erkenntnisse aus dem Report 2019
-
-
+4. Als zusätzlicher Erfolgsfaktor wurde herausgefunden, dass die "Gymnastic Enterprises" neben des hohen Grades an Agilität innerhalb des Unternehmens zusätzlich 
+standardisierte Risikoanalyse und -managementverfahren nutzten sowie eine geringere schleichende Umfangsausweitung innerhalb eines Projektes aufwiesen. Diese Kombination ist 
+laut PMI[^6] neben weiteren Faktoren ursächlich für den erhöhten Projekterfolg im Vergleich zu den "Tradional Enterprises": 
+"Higher levels of organizational agility, more standardized risk management practices, and less project scope creep, among other benefits, all contributing to better project 
+performance." 
 
 # Siehe auch
 
@@ -107,7 +106,16 @@ oder trieben diese aktiv voran:
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+Durch die individuelle Datenauswertung mittels der Datenbank lohnt es sich, Zusammenfassungen der Ergebnisse des Berichtes von 2021 von unterschiedlichen 
+Internetseiten zu lesen. Hierbei wird jeweils der Fokus auf verschiedene Branchen, Regionen und damit einhergehende Zusammenhänge gesetzt, die im Bericht
+des Project Management Institute nicht berücksichtigt wurden. Für Mitarbeitende innerhalb verschiedener Branchen lohnt sich eine eigenständige Betrachtung der 
+Datenbank unter Einbezug der eigenen Unternehmenssituation und Ausrichtung.
+
+Beispiele frei zugänglicher Zusammenfassungen sind:
+
+* Zusammenfassung von businesswire der Kernaussagen des Berichtes von 2021: [Businesswire](https://www.businesswire.com/news/home/20210324005874/de/)
+* Zusammenfassung von onvista der Kernaussagen des Berichtes von 2021:[Onvista](https://www.onvista.de/news/der-bericht-pulse-of-the-profession-von-2021-des-pmi-enthuellt-die-vorteile-der-organisatorischen-flexibilitaet-in-zeiten-grosser-veraenderungen-444246997)
+
 
 # Quellen
 
