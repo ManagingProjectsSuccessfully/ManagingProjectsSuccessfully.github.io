@@ -25,7 +25,7 @@ Welche Methode letztendlich für das Projekt ausgewählt wird, entscheidet die A
 
 Die folgende Graphik bildet auf der waagerechten Achse die Größe des Projekts und auf der senkrechten das mit der Software verbundene Risiko ab. C steht für „Loss of Comfort“, D für „Loss of discretionary monies“, E für „Loss of essential monies“ und L für „Loss of Life“. Die Zahl hinter dem Buchstaben kennzeichnet die Anzahl der an einem Projekt beteiligten Leute. 
 Ein Beispiel wäre E20, in dem Fall handelt es sich um ein Projekt mit essentiellen Geldern und 20 Leuten. 
-Projekte mit lebensbedrohlichen Risiken hat er absichtlich weggelassen, da er keine Erfahrung in solchen Projekten hat. 
+Projekte mit lebensbedrohlichen Risiken hat er absichtlich weggelassen, da er keine Erfahrung in solchen Projekten hat. [^2]
 
  ![Beispielabbildung](Crystal_Methods/CrystalMethods.png)
 
@@ -39,7 +39,7 @@ Die Methoden zeichnen vor allem sieben gemeinsame und vorherrschende Eigenschaft
 
 1. Frequent delivery[^4]
 
-	- Es werden regelmäßig Testversionen und Entwürfe an den Auftraggeber geschickt um 			Feedback am laufenden Projekt zu bekommen
+	- Es werden regelmäßig Testversionen und Entwürfe an den Auftraggeber geschickt um 			Feedback am laufenden Projekt zu bekommen [^3]
 
 
 2. Reflective Improvement
@@ -75,6 +75,7 @@ Die Methoden zeichnen vor allem sieben gemeinsame und vorherrschende Eigenschaft
 
 Unabhängig von der Größe des Projekts existieren ein Sponsor, verschiedene User, der Lead Designer und Designer Programmer. Diese 4 Rollen sollten von unterschiedlichen Persone ausgeführt werden um Verantwortlichkeiten klar abzugrenzen. Je größer das Projekt, desto mehr spezialisierte Rollen können im Team auftauchen. Siehe Abbildung 2.
 
+![Beispielabbildung](Crystal_Methods/Projektrollen.png)
 
 
 
