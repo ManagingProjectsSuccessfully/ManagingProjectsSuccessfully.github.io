@@ -5,7 +5,7 @@ author: mickey0684
 anrechnung: klassisch
 ---
 
-Scrumban ist ein aus [Scrum](SCRUM.md) und [Kanban](Kanban.md) gebildetes Kunstwort und beschreibt einen Methodenmix der beiden agilen Frameworks im Bereich des [Projektmanagements](Projektmanagement.md) [^1]. Dafür werden verschiedene Aspekte beider Methoden angewandt, auf die ich hier anschließend näher eingehen werde.
+Scrumban ist ein aus [Scrum](SCRUM.md) und [Kanban](Kanban.md) gebildetes Kunstwort und beschreibt einen Methodenmix der beiden agilen Frameworks im Bereich des [Projektmanagements](Projektmanagement.md)[^1]. Dafür werden verschiedene Aspekte beider Methoden angewandt, auf die ich hier anschließend näher eingehen werde.
 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
@@ -33,14 +33,8 @@ Scrumban wurde dementsprechend entwickelt um kleinen Scrum-Teams neue Möglichke
 
 # Methodik
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Methoden aus Scrum
+## Methoden aus Kanban
 
 So kann man eine Tabelle erstellen:
 
