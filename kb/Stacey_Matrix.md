@@ -21,7 +21,7 @@ Die Matrix ist in vier Umfelder aufgeteilt, die jeweils den Komplexitätsgrad de
 
 ### Simple Situationen
 
-Das Feld "Simple" beschreibt Projekte bei denen sowohl die Anforderungen als auch die Technologie bekannt sind. Diese Projekte sind kaum der Gefahr von unvorhersehbaren Hindernissen ausgesetzt. Hierbei handelt es sich um einen Projekttyp, der in der Vergangenheit schon mehrfach bearbeitet wurde und die Bearbeitungsschritte bekannt sind [^1]. Es lassen sich also "Best Practices" aus der Vergangenheit ableiten. Bei dieser Einordnung stellen klassische Prozesse die beste Herangehensweise dar. Projektmanagementmenthoden müssen hierbei oft nicht angewendet werden, da es sich um bekannte Abläufe handelt [^4].
+Das Feld "Simple" beschreibt Projekte bei denen sowohl die Anforderungen als auch die Technologie bekannt sind. Diese Projekte sind kaum der Gefahr von unvorhersehbaren Hindernissen ausgesetzt. Hierbei handelt es sich um einen Projekttyp, der in der Vergangenheit schon mehrfach bearbeitet wurde und die Bearbeitungsschritte bekannt sind [^1]. Es lassen sich also "Best Practices" aus der Vergangenheit ableiten. Bei dieser Einordnung stellen klassische Prozesse die beste Herangehensweise dar. Projektmanagementmethoden müssen hierbei oft nicht angewendet werden, da es sich um bekannte Abläufe handelt [^4].
 
 ### Komplizierte Situationen
 
