@@ -45,7 +45,7 @@ In der freien Wirtschaft wird ein ineffizienter Umgang mit den eigenen Ressource
 
   
 # Kritik
-In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Dinge gedacht.
+In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Dinge gedacht:
 
 | Projekt | Kostenplanung | Tatsächliche Kosten |
 | ------------ |  ------------- | ------------- |                                           
@@ -55,7 +55,7 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 | Elbphilharmonie    | 77 Mio       | 866 Mio      |
 
 
-Aufgrund solcher dramatischen Fehlplanungen gibt es schon seit langem die Forderung die öffentliche Projektplanung zu reformieren. Die umständlichen und komplizierten Richtlinien und Gesetze stellen ein großes Hindernis für effizientes und agiles Projektmanagement dar[^5]. Es wird nie wie in der freien Wirtschaft funktionieren jedoch gibt es Ansätze die Strukturen des agilen Projektmanagements mit in die öffentliche Planung einfließen zu lassen[^2].
+Aufgrund solcher Fehlplanungen gibt es schon seit langem die Forderung die öffentliche Projektplanung zu reformieren. Die umständlichen und komplizierten Richtlinien und Gesetze stellen ein großes Hindernis für effizientes und agiles Projektmanagement dar[^5]. Es wird nie wie in der freien Wirtschaft funktionieren jedoch gibt es Ansätze die Strukturen des agilen Projektmanagements mit in die öffentliche Planung einfließen zu lassen[^2].
 
 Eine durchdachte Zusammenarbeit von öffentlicher und privater Wirtschaft im Sinne von PPP(public-private-partnership) kann Hilfestellung leisten[^3]. Das bedeutet sich an externe Berater zu wenden, die eine hohe Expertise und viel Erfahrung beim Thema Projektmanagement aufweisen und so die öffentliche Verwaltung dabei unterstützen können.
 
