@@ -98,7 +98,7 @@ in diesem Kontext eine essenzielle Rolle ein.[^14][^15]
 # Weiterführende Literatur
 
 * Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen: Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.*
-* Kirsten A. Schröder: *Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Identifikation von Einflussfaktoren am Beispiel von Projektteams.*
+* Kirsten A. Schröder: *Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Einflussfaktoren auf den teaminternen Wissenstransfer.*
 
 # Quellen
 
