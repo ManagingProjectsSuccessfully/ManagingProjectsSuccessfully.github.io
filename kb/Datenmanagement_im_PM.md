@@ -4,8 +4,23 @@ tags: agil klassisch
 author: aq07yhug
 anrechnung: k 
 ---
-Alle Projektaufgaben, von der punktuellen theoretischen Phase direkt bis hin zum Ende des Projektlebenszyklus (
-Projektlebenszyklus), produzieren Informationen. Je größer das Projekt ist, desto größer ist die Summe und die Vielfalt von [Informationen](https://user-images.githubusercontent.com/93120047/142829960-1fee589f-b920-46e1-946e-112af54ded82.png)
+#1.	Allgemein über Datenmanagement in PM
+
+Alle Projektaufgaben, von der punktuellen theoretischen Phase direkt bis hin zum Ende des Projektlebenszyklus (Projektlebenszyklus), produzieren Informationen. Je größer das Projekt ist, desto größer ist die Summe und die Vielfalt von Informationen bzw. Daten, die überwacht werden müssen. Deswegen sind Projekte von der angemessenen Handhabung, Lagerung und Qualität (Qualitätsmanagement)  enormer Mengen an Daten abhängig.[^1] Pascal erklärt sogar schlechte Kommunikation (Projektkommunikation), Übermittlung und Implementierung der Daten zur "Hauptquelle des möglichen Scheiterns eines Projektes"[^2]. Informationen haben viele Formen, werden über viele Kanäle und Medien übermittelt und die Welt wird mit ihnen überschwemmt. Der klassische Projektmitarbeiter (Projektmitarbeiter) ist jedoch nur mit dem beschränkten Teil dieser Informationen beschäftigt, der für seine Aufgaben von Bedeutung ist.[^3]   
+
+#2.	Verwaltung der Projektinformationen bzw. -daten
+
+##2.1	Einsatz der Projektmanagementsysteme und Daten
+
+Die Projektinformationen müssen gesichtet und in vergleichender Form zusammengestellt werden damit jeder, der die Verantwortung übernehmen muss, die Daten zum richtigen Zeitpunkt erhält. Wenn ein Projekt effektiv strukturiert ist, kann das wichtige Trennen und Ordnen durch ein IT-System (IT-Projekte) erledigt werden, das dafür sorgt, dass jede Information einen angemessenen Erkennungscode erhält.[^4]
+
+Die Durchführung eines Projektes muss ein integriertes Projektmanagementsystem eingerichtet haben, und zwar unter Berücksichtigung der folgenden Punkte:
+
+•	eine strukturierte Art, mit dem Projekt und seinen Systemen umgehen zu können
+•	ein durchgängig verbundenes und kohärent gestaltetes [Kodierungssystem](https://bizfluent.com/info-7814909-projectcoding-systems.html), das die Projektstruktur bzw. -organisation widerspiegelt
+•	ein vernünftiges IT-System, das mit geeigneter Software ausgestattet ist und das als Datenbank funktioniert.[^5]
+
+
 
 
 
