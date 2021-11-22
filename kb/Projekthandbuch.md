@@ -4,17 +4,16 @@ tags: agil klassisch
 author: Saskia1403
 anrechnung: k 
 ---
-![Projektplanung](Projekthandbuch/Projektplanung.jpg)
-
-*Abbildung 1: Das Projekthandbuch als wichtiger Bestandteil eines erfolgreichen Projektmanagements*[^11]
-
-# Kurzbeschreibung Projekthandbuch
 
 Ziel eines Projekthandbuchs ist es, dass alle Teammitglieder eines Projektes jederzeit einen Überblick über dessen Vorgehen, Ziele und Inhalte haben [^1]. Als wichtiges Artefakt des klassischen Projektmanagements, kann das Projekthandbuch nach der DIN 69905 definiert werden: Ein Projekthandbuch ist die „Zusammenstellung von Informationen und Regelungen, die für die Planung und Durchführung eines bestimmten Projekts gelten sollen“ [^2]. Welche Bestandteile das Projekthandbuch im Speziellen umfasst ist nicht festgelegt, jedoch gibt es einige gängige Komponenten. Diese sind unter anderem die zu erreichenden Projektziele, eine Aufzählung aller Projektbeteiligten, sowie ihrer Rollen, die Stakeholder, eine genaue Projektbeschreibung, alle festgelegten Standards und Richtlinien und die bei der Umsetzung verwendeten Methoden und Werkzeuge [^2] [^3].
 
 Des Weiteren ist festgelegt, dass der [Projektleiter](Projektleiter.md) sowohl für die Erstellung, als auch die regelmäßige Aktualisierung des Projekthandbuchs verantwortlich ist. Gibt es eine Projektassistenz, so kann diese Abwandlungen versionieren und speichern. Darüber hinaus muss nicht nur die ursprüngliche Version des Projekthandbuchs, sondern auch jede neue Version, von dem für das Projekt bestimmten Lenkungsausschuss freigegeben werden [^3] [^4].
 
 Da das übergeordnete Ziel des Projekthandbuchs ist, ein Überblick über das Projekt zu verschaffen, ist es in seiner Ausführung relativ knapp zu halten, sodass es nur alle wichtigen Informationen beinhaltet. Hierfür kann an geeigneter Stelle auf einschlägige Bestandteile des [Projektmanagementhandbuchs](Projektmanagementhandbuch.md) verwiesen werden [^3] [^5]. 
+
+![Projektplanung](Projekthandbuch/Projektplanung.jpg)
+
+*Abbildung 1: Das Projekthandbuch als wichtiger Bestandteil eines erfolgreichen Projektmanagements*[^11]
 
 # Begriffliche Abgrenzung 
 
