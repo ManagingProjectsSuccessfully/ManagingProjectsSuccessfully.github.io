@@ -2,7 +2,7 @@
 title: Vom_Mythos_des_Mann_Monats
 tags: agil klassisch
 author: nrivo
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Vom_Mythos_des_Mann_Monats um ein erstes Verständnis dafür zu schaffen um was es hier geht.
