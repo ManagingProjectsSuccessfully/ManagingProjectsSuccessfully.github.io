@@ -1,6 +1,6 @@
 ---
 title: SCRUM_org_Institution
-tags: Agil Scrum Zertifikat
+tags: Scrum.org Institution Agiles Projektmanagement Scrum Zertifikat
 author: SimonM211
 anrechnung: a
 ---
