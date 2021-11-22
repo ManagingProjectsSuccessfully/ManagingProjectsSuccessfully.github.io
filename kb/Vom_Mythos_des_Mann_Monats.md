@@ -105,7 +105,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: Brooks, Frederick P.: [Vom Mythos des Mann-Monats. Essays über Software-Engineering](https://books.google.de/books?hl=de&lr=&id=-dSU0IxvfzMC&oi=fnd&pg=PA3&dq=mythos+von+mann+monats&ots=ekrC7IHjO5&sig=I7Jhh12LZFxYNlzPyxFBclx86Y8&redir_esc=y#v=onepage&q&f=false). mitp Verlags GmbH & Co. KG, 2003.
 
-[^2] Quelle für Def Mann-monat (https://wirtschaftslexikon.gabler.de/definition/mannjahr-39390/version-262799)..
+[^2] Quelle für Def Mann-monat suche (https://wirtschaftslexikon.gabler.de/definition/mannjahr-39390/version-262799)..
 
 [^1.5]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2.5]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
