@@ -14,6 +14,11 @@ Der Begriff "Vorgehensmodell" beschreibt eine... -definiertes Vorgehen -Standard
 
 # Stoffsammlung/Checkliste
 * Einführung, die gut auf den Punkt bringt / Bild malt, was Vorgehensmodelle sind
+  - Phasen
+  - Methoden
+  - Aktivitäten in logischer Ordnung verknüpft
+  - Vorgehensmodell als Rahmen, Richtlinie, ...
+  - andere Übersicht siehe [^70]
 * Definition des Begriffs?
 * Gängige Vorgehensmodelle?
 * Englische Synonyme / ähnlich verwendete Begriffe
@@ -31,17 +36,30 @@ Der Begriff "Vorgehensmodell" beschreibt eine... -definiertes Vorgehen -Standard
   - Extreme Programmierung/Xtreme Programming *Link*
   - Scrum *Link*
   - (Six Sigma *Link*) [^10]
+  - Rational Unified Process [^40]
+  - PMBOK [^50]
+  - weitere Kurzübersicht siehe https://www.itwissen.info/Vorgehensmodell-V-Modell.html
 
 * Verschiedene Arten von Vorgehensmodellen:
   - lineare Vorgehensmodelle oder Phasenmodelle
   - iterative Vorgehnesmodelle
   - Prototyping Modelle [^30]
+  - agil
+  - klassisch, sequentiell
+  - hybrid [^60]
+
+* Wie wählt man ein passendes Vorgehensmodell aus?
+  - Tailoring: Anpassung (oftmals "zuschneiden") eines konkreten Vorgehensmodells vs. Adaption: Anpassung eines Referenzmodells, um daraus ein Vorgehensmodell abzuleiten [^50]
 
 # Quellen
 
 [^10]: [Angermeier, Georg (2017): Vorgehensmodell. In: Projektmagazin, 21.09.2017. Zuletzt geprüft am 22.11.2021.](https://www.projektmagazin.de/glossarterm/vorgehensmodell)
 [^20]: [Kneuper, Ralf; Müller-Luschnat, Günther; Oberweis, Andreas (Hg.) (1998): Vorgehensmodelle für die betriebliche Anwendungsentwicklung. Wiesbaden, s.l.: Vieweg+Teubner Verlag (Springer eBook Collection Computer Science and Engineering).](https://books.google.de/books?hl=de&lr=&id=mm2tBgAAQBAJ&oi=fnd&pg=PA13&dq=vorgehensmodelle&ots=tFWOULgo7u&sig=NTxRWv8s8lr4qoikRCPk7sYenZo#v=onepage&q=vorgehensmodelle&f=false)
 [^30]: [Schneider, Kristof; Daun, Christine; Behrens, Hermann; Wagner, Daniel (2006): Vorgehensmodelle und Standards zur systematischen Entwicklung von Dienstleistungen. In: Kristof Schneider, Hans-Jörg Bullinger und August-Wilhelm Scheer (Hg.): Service Engineering. Entwicklung und Gestaltung innovativer Dienstleistungen : mit 24 Tabellen. 2., vollst. überarb. und erw. Aufl. Berlin, Heidelberg: Springer Berlin Heidelberg, S. 113–138.](http://www.producao.ufrgs.br/arquivos/disciplinas/508_din_1998.pdf)
+[^40]: [Kuhrmann, Marco; Linssen, Oliver (1988): Welche Vorgehensmodelle nutzt Deutschland? Unter Mitarbeit von Oliver Linssen Marco Kuhrmann. In: Klaus Grubmüller und Bernhard Schnell (Hg.): Vocabularius Ex quo. Band I Einleitung: De Gruyter (Texte und Textgeschichte, 22), S. 17–32.](https://dl.gi.de/bitstream/handle/20.500.12116/3055/17.pdf?sequence=1)
+[^50]: [Königbauer, Martina (2021): Adaptives Referenzmodell für hybrides Projektmanagement. Julius-Maximilians-Universität, Würzburg. Institut für Informatik.](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/24751/file/Dissertation_Koenigbauer.pdf)
+[^60]: [](https://dl.gi.de/bitstream/handle/20.500.12116/4894/PVM2017_paper_16.pdf?sequence=1)
+[^70]: [](https://www.pst.ifi.lmu.de/Lehre/wise-15-16/jur-pm/vorgehensmodelle-1.pdf)
 
 -----------------
 -----------------
