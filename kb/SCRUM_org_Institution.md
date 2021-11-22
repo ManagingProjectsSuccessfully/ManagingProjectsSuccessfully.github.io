@@ -13,7 +13,7 @@ Ken Schwaber, der Gründer von Scrum.org, nahm bereits in den Anfangstagen groß
 
 ![Scrum.org Logo](SCRUM_org_Institution/Scrumorg-Logo_tagline-TM_(1)_(1)_(2).jpg)
 
-*Scrum.org Logo*
+*Scrum.org Logo[^7]*
 
 # Angebot
 
