@@ -18,7 +18,7 @@ Ein Business Case ist ein wichtiges Projektdokument. Er analysiert die Wirtschaf
 
 
 ## 1.	Etymologie
-Der Anglizismus „Business Case“ hat sich aufgrund fehlender passender Übersetzungen auch im Deutschen durchgesetzt. Zwar werden in der Literatur hier und da Begriffe wie [„Geschäftsfall”](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsvorfall) oder [„Geschäftsszenario”](https://consolut.com/de/supportportal/sap-online-help/sap-dokumentation/ansicht-dokumentation/?article=g-wb2_business_scenario) verwendet, diese haben aber eine andere Bedeutung. Unzutreffend sind ebenfalls Begriffe wie [„Business Plan"](https://www.deutschland-startet.de/businessplan/) oder [„Business Model”](https://de.wikipedia.org/wiki/Gesch%C3%A4ftsmodell). Durchgesetzt hat sich daher der Begriff „Business Case“, der nicht übersetzt wird.[^1] 
+Der Anglizismus „Business Case“ hat sich aufgrund fehlender passender Übersetzungen auch im Deutschen durchgesetzt. Zwar werden in der Literatur hier und da Begriffe wie [„Geschäftsfall”](https://wirtschaftslexikon.gabler.de/definition/geschaeftsvorfaelle-35319) oder [„Geschäftsszenario”](https://www.netinbag.com/de/business/what-is-a-business-scenario.html) verwendet, diese haben aber eine andere Bedeutung. Unzutreffend sind ebenfalls Begriffe wie [„Business Plan"](https://wirtschaftslexikon.gabler.de/definition/businessplan-31252) oder [„Business Model”](https://wirtschaftslexikon.gabler.de/definition/geschaeftsmodell-52275). Durchgesetzt hat sich daher der Begriff „Business Case“, der nicht übersetzt wird.[^1] 
 
 
 ## 2.	Bestandteile
