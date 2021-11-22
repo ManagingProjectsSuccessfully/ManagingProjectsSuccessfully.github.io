@@ -5,6 +5,7 @@ author: MarcelFAU
 anrechnung: k oder a
 ---
 
+
 In diesem Beitrag wird das Thema nachhaltige Projekte behandelt. Wobei zuerst auf das Thema Nachhaltigkeit eingegangen wird und im späteren Verlauf des Beitrags genaueres zu 
 nachhaltigen Projekten, mithilfe von Beispielen, erläutert wird.
 
@@ -13,11 +14,12 @@ nachhaltigen Projekten, mithilfe von Beispielen, erläutert wird.
 In der modernen Gesellschaft ist Nachhaltigkeit einer der zentralen Aspekte bei der Innovierung von Unternehmen, Haushalten und sogar Ländern, wodurch die Anzahl an 
 nachhaltigen Projekten immer mehr steigt, um Umweltschutz und wirtschaftliche Ziele zu [komplementären Zielen](https://www.rechnungswesen-verstehen.de/lexikon/komplementaere-ziele.php) zu machen und einen positiven Zukunftsausblick zu schaffen.
 
-Aber was ist eigentlich Nachhaltigkeit? Ursprünglich wurde Nachhaltigkeit nur als Synonym für Umweltschutz verwendet, was sich aber über die Zeit hinweg geändert hat 
-Nachhaltigkeit kann in vielen Bereichen Anwendung finden wie z.B Bildung, Forschung, Ernährung und so weiter. Außerdem kann man Nachhaltigkeit in drei Kernbereiche aufteilen: ökologische Nachhaltigkeit, ökonomische Nachhaltigkeit und soziale Nachhaltigkeit[^1]. Folglich hat sich auch die Bedeutung der Nachhaltigkeit 
+Nachhaltigkeit kann allgemein in drei Kernbereiche aufgeteilt werden: ökologische Nachhaltigkeit, ökonomische Nachhaltigkeit und soziale Nachhaltigkeit[^1], wobei stets versucht wird diese Bereiche möglichst gut zu vereinen. Folglich hat sich auch die Bedeutung der Nachhaltigkeit 
 erhöht und ist in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt. Auch sind nachhaltige Projekte sehr eng mit der [nachhaltigen Entwicklung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Nachhaltige_Entwicklung) oder im 
 englischen „sustainable development“ verbunden und hängen von einandner ab. 
-Allgemein ist ein deutlicher Anstieg von nachhaltigen Projekten in den vergangenen Jahren zu erkennen, da das Thema Klimaschutz immer und immer mehr in den Vordergrund gerät.
+Nachhaltige Projekte wurden somit in den letzten 20 Jahren zu einem der zentralen Themen, da das Thema Klimaschutz immer und immer mehr in den Vordergrund gerät.
+
+## Nachhaltigkeit in der Gesellschaft 
 
 Zudem ist das Interesse an nachhaltigen Produkten deutlich gestiegen, weshalb Nachhaltigkeit auch ein Verkaufsargument für Unternehmen ist und Kunden generieren 
 kann, dies kann man der linken der drei Darstellungen unter diesem Abschnitt entnehmen[^2]. Aber nicht nur das, wie man in der Infografik in der Mitte, die unten dargestellt ist, sehen kann, wollen junge Menschen lieber für nachhaltige Unternehmen 
@@ -38,7 +40,7 @@ Um weitere nachhaltige Projekte zu finden klicke [hier](https://reisevergnuegen.
 
 # Nachhaltige Projekte von Unternehmen
 
-Wie schon vorher erwähnt setzen sich auch Unternehmen Ziele nachhaltiger zu werden. Beispielsweise das IT-Unternehmen Cisco aus den USA, welches ein Forum namens SustainX, eine Nachhaltigkeitsplattform namens GreenHouse und sogar eine mitarbeitergeführte Nachhaltigkeitsorganisation Cisco Green Team auf die Beine gestellt haben. Dadurch wurde es durch das Business Magazine [Corporate Knights](https://en.wikipedia.org/wiki/Corporate_Knights) 2020 als viert nachhaltigstes Unternehmen betitelt[^7]. All diese Projekte sorgen dafür, dass das Unternehmen nachhaltiger agiert und kann potenziell Kunden und qualifizierte Mitarbeiter anziehen, was einer Win-Win Situation ziemlich nah kommt. Grund aber das nicht alle Unternehmen diesem Beispiel folgen sind Kosten- und Zeitaufwände, die manche Unternehmen davon abschrecken zu agieren und ihren Beitrag für nachhaltigere Unternehmen zu leisten.  
+Wie schon vorher erwähnt setzen sich auch Unternehmen Ziele nachhaltiger zu werden. Beispielsweise das IT-Unternehmen Cisco aus den USA, welches ein Forum namens SustainX, eine Nachhaltigkeitsplattform namens GreenHouse und sogar eine mitarbeitergeführte Nachhaltigkeitsorganisation Cisco Green Team auf die Beine gestellt haben. Dadurch wurde es durch das Business Magazine [Corporate Knights](https://en.wikipedia.org/wiki/Corporate_Knights) 2020 als viert nachhaltigstes Unternehmen betitelt[^7]. All diese Projekte sorgen dafür, dass das Unternehmen nachhaltiger agiert und kann potenziell Kunden und qualifizierte Mitarbeiter anziehen. Grund aber das nicht alle Unternehmen diesem Beispiel folgen sind Kosten- und Zeitaufwände, welche den Wandel zu mehr Nachhaltigkeit in der Gesellschaft verlangsamen. 
 
 Diese Unternehmen jedoch agieren beispielhaft und gehören zu den 10 nachhaltigsten Unternehmen 2021[^8]:
 
@@ -52,13 +54,15 @@ Diese Unternehmen jedoch agieren beispielhaft und gehören zu den 10 nachhaltigs
 
 # Zusammenfassung
 
-Abschließend lässt sich zusammenfassen, dass nachhaltige Projekte mehr und mehr in allen Bereichen der Gesellschaft zum Einsatz kommen. Zudem wird die Bedeutung von nachhaltigen Projekten und auch deren Umfang noch ansteigen, da noch ein großer Schritt in Richtung Umweltschutz bzw. [Klimaneutralität](https://de.wikipedia.org/wiki/Klimaneutralit%C3%A4t) gemacht werden muss. Wie in den Beispielen ersichtlich ist handeln schon einige Städte und Unternehmen, jedoch hadern noch viele aufgrund von zu tragenden Kosten. Sofern aber nicht viele oder sogar alle
-den Nutzen über die Kosten stellen wird der Umweltschutz und Nachhaltigkeit zwar immer ein Thema bleiben, aber die Lebensweise der Menschen nicht nachhaltig für den Planeten sein und einen positiven Einfluss auf das Ökosystem haben.
+Abschließend lässt sich zusammenfassen, dass nachhaltige Projekte mehr und mehr in allen Bereichen der Gesellschaft zum Einsatz kommen. Zudem wird die Bedeutung von nachhaltigen Projekten und auch deren Umfang noch ansteigen, da noch ein großer Schritt in Richtung Umweltschutz bzw. [Klimaneutralität](https://de.wikipedia.org/wiki/Klimaneutralit%C3%A4t) Wie in den Beispielen ersichtlich ist handeln schon einige Städte und Unternehmen, wie es eigentlich alle machen sollten. Sofern aber nicht viele oder sogar alle den Nutzen über die Kosten stellen wird der Umweltschutz und Nachhaltigkeit zwar immer ein Thema bleiben, aber die Lebensweise der Menschen nicht nachhaltig für den Planeten sein und der negative Einfluss auf das Ökosystem bleibt.
+
 
 # Siehe auch
 
 [Nachhaltige Entwicklung]()
+
 [Nachhaltigkeit im PM]()
+
 Bei Interesse für eigenes Engagement: https://ozeankind.de/?gclid=CjwKCAiAs92MBhAXEiwAXTi251Xq49dp_Pl3abTVTVf44FnNuw6ZFhzhATsQUX-pvklNsOSNfwwf6xoCddgQAvD_BwE
 
 # Weiterführende Literatur
