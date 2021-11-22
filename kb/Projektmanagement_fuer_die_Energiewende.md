@@ -63,8 +63,8 @@ Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reak
 PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Marchbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^3]
 
 # Expertise
-Experten raten bei großen [Bauprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Bauprojekte.md)/Infrastrukturprojekten zu Klassischen Methoden, da agile Methoden aufgrund der mangelnden Flexibilität der Projekte an neue Rahmenbedingungen ungeeignet sind.
-Dennoch werden ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^3]
+Experten raten bei großen [Bauprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Bauprojekte.md)/Infrastrukturprojekten zu klassischen Methoden, da agile Methoden aufgrund der mangelnden Flexibilität der Projekte an neue Rahmenbedingungen ungeeignet sind.
+Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^3]
 
 # Weiterführende Literatur
 
