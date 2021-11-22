@@ -2,7 +2,7 @@
 title: Aenderungsmanagement
 tags: agil klassisch
 author: Sina5222
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Aenderungsmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
