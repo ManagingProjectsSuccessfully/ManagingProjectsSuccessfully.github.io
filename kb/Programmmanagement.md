@@ -95,4 +95,3 @@ Eine striktere Abgrenzung von weiteren Managementbegriffen erscheint dennoch sin
 [^5]: [Aufgaben des Programmmanagers](https://www.planview.com/de/resources/guide/ppm-solution-guide-beginners/project-management-vs-program-management-vs-portfolio-management/)
 [^6]: [Gründe für das Programmmanagement](https://www.can-do.de/blog/it-program-management-office-richtig-strukturieren)
 [^7]: [Expertenmeinung zum Programmmanagement](https://www.projektmagazin.de/glossarterm/programm-management)
-
