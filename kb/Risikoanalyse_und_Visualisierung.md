@@ -2,94 +2,38 @@
 title: Risikoanalyse_und_Visualisierung
 tags: agil klassisch
 author: CTM-development
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Risikoanalyse_und_Visualisierung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+## Abstrakt
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Risikoanalyse ist ein Teil des [Risikomanagements](Risikomanagement.md), welcher sich mit der Analyse und Einordnung von, durch Risikoidentifikation aufgedeckten, Risiken beschaeftigt.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Risikoanalyse ordnet sich neben Risikoaggregation, Risikobewältigung, Risikoüberwachung im Risikomanagement ein [^4]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Risikoidentifikation je nach Quelle ein Teil von Risikoanalyse (Gabler) oder ein seperater Prozessschritt im Risikomanagement (PM Institute).
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Risikoidentifikation ist der Prozess des systematischen Auffindens von Risiken (eines Projektes).
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Risikoanalyse laesst sich in zwei Kategorien unterteilen:
+1. Qualitative Risikoanalyse
+2. Quantitative Risikoanalyse
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Qualitative Risikoanalyse ist die ?? subjektive Analyse von Risiken.
+Quantitative Risikoanalyse ist die objektive, mathematische Analyse von Risiken, die sich verschiedene mathematische Modelle, z.B. Monte-Carlo-Simulationen, zu nutze macht.
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Allgemeines
+Unter einem Risiko versteht man ein ungewisses Ereignis oder eine ungewisse Bedingung, die, wenn sie eintritt, einen positiven oder negativen Effekt auf ein oder mehrere Projektziele hat.[^1]
 
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Risikoanalyse_und_Visualisierung/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Risikoanalyse_und_Visualisierung.md)
+* [Risikomatrix](Risikomatrix.md)
+* [Risikodimensionen](Risikodimensionen.md)
+* [Risikomanagement](Risikomanagement.md)
+* [PMBOK Guide](PMBOK_Guide.md)
 
 # Weiterführende Literatur
 
@@ -97,8 +41,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: [Practice Standart for Project Risk Management](https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/practice-standard-project-risk-management.pdf?v=1e0b5985-74af-4c57-963c-b91a9af6fecb)
+[^3]: [Gabler Wirtschaftslexikon: Risikoanalyse](https://wirtschaftslexikon.gabler.de/definition/risikoanalyse-45109/version-335506)
+[^4]: [Gabler Wirtschaftslexikon: Risikomanagement](https://wirtschaftslexikon.gabler.de/definition/risikomanagement-42454)
 
