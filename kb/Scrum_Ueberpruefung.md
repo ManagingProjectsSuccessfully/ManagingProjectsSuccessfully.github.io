@@ -21,9 +21,9 @@ Zur Scrum Theorie gehören die drei Säulen "Transparenz", "Überprüfung" und "
 
 
 # 2. Säule - Überprüfung 
-Überprüfung oder auch Inspection ist die zweite der drei Scrum Säulen. Sie umfasst das regelmäßige Prügen aller Vorgehensweisen und Arbeitsergebnisse. Für die Überprüfung  schreibt Scrum die Ereignisse „Sprint Planning“, „Daily Scrum“, „Sprint Review“ und „Sprint-Retrospektive“ vor. 
+Überprüfung oder auch Inspection ist die zweite der drei Scrum Säulen. Sie umfasst das regelmäßige Prüfen aller Vorgehensweisen und Arbeitsergebnisse. Für die Überprüfung  schreibt Scrum die Ereignisse „Sprint Planning“, „Daily Scrum“, „Sprint Review“ und „Sprint-Retrospektive“ vor. 
 Im Sprint Planning fokussieren sich Überprüfung und Anpassung auf die Product-Backlog-Einträge, also auf den fachlichen Inhalt des kommenden Sprints. Im Daily Scrum hingegen stehen die Arbeitsergebnisse seit dem letzten Daily Scrum und die Prognose auf die bevorstehende Arbeit, also die aktive Umsetzung der zu erledigenden Arbeit im Vordergrund.
-Das Ergebnis des abgelaufenen Sprints steht im Sprint Review auf dem Prüfstand. Abhängig davon, wie viel der ursprünglich für den Sprint geplanten User Storys erfolgreich umgesetzt werden konnten, wird das Product Backlog einer Überprüfung und gegegbenenfalls einer Anpassung unterzogen. [^4][^5]
+Das Ergebnis des abgelaufenen Sprints steht im Sprint Review auf dem Prüfstand. Abhängig davon, wie viel der ursprünglich für den Sprint geplanten User Storys erfolgreich umgesetzt werden konnten, wird das Product Backlog einer Überprüfung und gegebenenfalls einer Anpassung unterzogen. [^4][^5]
 
 In der Sprint-Retrospektive hinterfragt sich das Entwicklungsteam kritisch selbst und erörtert, welche Abläufe oder Prozesse besonders gut abgelaufen sind, aber auch, was nicht optimal durchgeführt wurde und verbessert werden kann. 
 
@@ -32,7 +32,7 @@ Die gewonnen Erkenntnisse können beispielsweise folgende Fragen beantworten: [^
 * Ist man noch auf dem geplanten Kurs? 
 * Hat sich etwas an den Kundenwünschen oder Marktgegebenheiten geändert?
 * Ist die Zusammenarbeit effektiv?
-* Wo gibt es noch Aufklärung- oder Änderungsbedarf?
+* Wo gibt es noch Aufklärungs- oder Änderungsbedarf?
 
 Die gefundenen Aspekte mit Optimierungsbedarf werden nach ihrer Wichtigkeit und/oder Dringlichkeit geordnet. Für die priorisierten Themen werden Verbesserungsvorschläge erarbeitet, deren Umsetzung dann für den folgenden Sprint eingeplant werden.
 
