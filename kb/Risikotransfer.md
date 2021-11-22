@@ -7,10 +7,6 @@ anrechnung: k
 # Inhaltsverzeichnis
 1. [Definition](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#definition)
 2. [Verschiedene Methoden des Risikotransfers](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#verschiedene-methoden-des-risikotransfers)  
-* 2.1 [Versicherungen](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#versicherungen)  
-* 2.2 [Derivate](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#derivate)  
-* 2.3 [Factoring](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#factoring)  
-* 2.4 [Leasing](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#leasing)
 3. [Vorteile](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#vorteile)
 4. [Nachteile](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#nachteile)
 5. [Siehe auch](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#siehe-auch)
