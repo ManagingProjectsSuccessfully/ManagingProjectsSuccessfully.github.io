@@ -5,16 +5,13 @@ author: pamerkl
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Innovationsprojekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Innovationsprojekte verknüpfen Innovationen mit Projekten. Dabei sollen Lösungen verschiedenster Arten und deren Umsetzbarkeit überprüft und erarbeitet werden. Im Hinblick auf die verschiedenen Formen und Eigenschaften solcher Projekte, braucht es eine detaillierte Aufteilung in einzelne Phasen sowie angepasste Management-Methoden, um das Innovationsprojekt erfolgreich zu realisieren.
 
 # 1.	Innovation und Projekte
 
-Innovation ist einer der wichtigsten Erfolgsfaktoren eines Unternehmens in Bezug auf ihre Wettbewerbsfähigkeit und wird deshalb auch primär mit Produktneuerungen in Verbindung gebracht, was allerdings eine verbreitete Fehlansicht ist.[^1] Der Begriff der Innovation umfasst nicht nur Produkte, sondern beispielsweise auch neue Prozesse oder Dienstleistungen sowie deren erfolgreiche Kommerzialisierung am Markt.[^2]
+Innovation wird oft primär mit Produktneuerungen in Verbindung gebracht, was allerdings eine verbreitete Fehlansicht ist.[^1] Der Begriff der Innovation umfasst nicht nur Produkte, sondern beispielsweise auch neue Prozesse oder Dienstleistungen sowie deren erfolgreiche Kommerzialisierung am Markt.[^2]
 
-Umgesetzt werden solche Innovationen in einem Unternehmen häufig im Rahmen eines [Projekts](Projekt.md), welches grundsätzlich drei Hauptmerkmale erfüllen muss. Es muss neu sein, innerhalb eines vorgegebenen zeitlichen Rahmens (siehe [Zeitplanung](Zeitplanung.md)) durchgeführt werden und eine eindeutig definierte Absicht verfolgen. Insbesondere die [Projektsteuerung](Projektsteuerung.md) bei Innovationsprojekten stellt möglicherweise eine Herausforderung dar. Da sich in der Regel in Bezug auf Zeit, Qualität und Kosten verschiedene Zielsetzungen herauskristallisieren, die jedoch nicht immer komplementär sind, kann dies folglich zu [Zielkonflikten](Zielkonflikte.md) führen.[^3]
+Umgesetzt werden solche Innovationen in einem Unternehmen häufig im Rahmen eines [Projekts](Projekt.md), welches neu sein muss, innerhalb eines vorgegebenen zeitlichen Rahmens (siehe [Zeitplanung](Zeitplanung.md)) durchgeführt werden und eine eindeutig definierte Absicht verfolgen muss. Insbesondere die [Projektsteuerung](Projektsteuerung.md) bei Innovationsprojekten stellt eine Herausforderung dar. Da sich in der Regel in Bezug auf Zeit, Qualität und Kosten verschiedene Zielsetzungen herauskristallisieren, kann dies folglich zu [Zielkonflikten](Zielkonflikte.md) führen.[^3]
 
 <img src="Innovationsprojekte/magisches-dreieck-pm.jpg" alt="Magisches Dreieck" width="500"/>
 
@@ -23,9 +20,9 @@ Umgesetzt werden solche Innovationen in einem Unternehmen häufig im Rahmen eine
 # 2.	Eigenschaften von Innovationsprojekten
 
 Innovationsprojekte erfüllen für gewöhnlich vier grundlegende Eigenschaften:
-1. Die erste und wichtigste Eigenschaft ist dabei der Neuheitsgrad. Das Ergebnis des Projekts bringt einen neuen und bisher unbekannten Nutzen mit sich.[^3]
-2. Dadurch entsteht auch immer ein bestimmtes Maß an Unsicherheit, welche die zweite Eigenschaft verkörpert. Bei Projekten, die stärker von Routineaufgaben des Unternehmens abweichen, entsteht unweigerlich eine finanzielle sowie operative Unsicherheit.[^3]
-3. Das dritte Charakteristikum von Innovationsprojekten ist die Komplexität, die eng mit der Unsicherheit und der Neuheit verknüpft ist. Aufgrund der unsicheren Abläufe wegen des hohen Grades an Neuheit kommt es zu einem höheren und somit weitaus komplexeren Organisationsumfang.[^3]
+1. Die erste und wichtigste Eigenschaft ist dabei der Neuheitsgrad. Das Ergebnis des Projekts bringt einen bisher unbekannten Nutzen mit sich.[^3]
+2. Dadurch entsteht auch immer ein bestimmtes Maß an Unsicherheit. Bei Projekten, die stärker von Routineaufgaben des Unternehmens abweichen, entsteht unweigerlich eine finanzielle sowie operative Unsicherheit.[^3]
+3. Das dritte Charakteristikum ist die Komplexität, die eng mit der Unsicherheit und der Neuheit verknüpft ist. Aufgrund der unsicheren Abläufe wegen des hohen Grades an Neuheit kommt es zu einem höheren und somit weitaus komplexeren Organisationsumfang.[^3]
 4. Die letzte Eigenschaft bildet das Konfliktpotential, welches auf verschiedenen Ebenen auftreten kann. Es kann sowohl zu Konflikten innerhalb des Projektteams (siehe [Konfliktmanagement](Konfliktmanagement.md)) als auch zu Zielkonflikten bezüglich vorher festgelegter Zielvorgaben kommen.[^3]
 
 # 3.	Arten von Innovationsprojekten
@@ -39,7 +36,7 @@ Je nach Neuheitsgrad des Marktes und der Technologie lassen sich vier verschiede
 
 # 4.	Träger des Innovationsprojekts
 
-Durchgeführt werden alle Formen der Innovationsprojekte durch ein bereichsübergreifendes Projektteam, welches sich aus Experten von verschiedenen Standorten zusammensetzt. Dieses Projektteam umfasst nicht nur Mitglieder aus den verschiedenen Funktionen des Unternehmens, sondern integriert in manchen Fällen auch Kunden oder Lieferanten, die das Innovationsprojekt mit Informationen aus den vor- oder nachgelagerten Wertschöpfungsstufen unterstützen.[^3]
+Durchgeführt werden alle Formen der Innovationsprojekte durch ein bereichsübergreifendes Projektteam, welches sich aus Experten von verschiedenen Standorten zusammensetzt. Dieses Projektteam integriert aber unter anderem auch Kunden oder Lieferanten, die das Innovationsprojekt mit Informationen aus den vor- oder nachgelagerten Wertschöpfungsstufen unterstützen.[^3]
 
 # 5.	Phasen des Innovationsprojekts
 
