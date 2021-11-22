@@ -32,10 +32,19 @@ Scrumban wurde dementsprechend entwickelt um kleinen Scrum-Teams neue Möglichke
 *lustiges Testbild*
 
 # Methodik
+Die Idee von Scrumban lässt den dem Anwender eine gewisse Freiheit in der Frage welche Methoden und Konzepte man aus beiden agilen Frameworks für sein Team verwenden möchte. Flexibler als Scrum, welches klare Aufgaben und Rollen für bestimmte Personen im Team festlegt, während bei Kanban jeder im Team seine ursprüngliche Arbeit einfach weiter macht. Im Folgenden werden die wichtigesten Ansätze aus den beiden Frameworks welche welche für Scrumban essentiell sind näher dargestellt.
 
 ## Methoden aus Scrum
+### Meetings 
+Die Meetingstruktur verhält sich sehr ähnlich zu der von Scrum. Empfohlen sind sogenannte Dailys, also kurze 15-minütige Treffen im Team, um sich über den aktuellen Bearbeitungsstand auszutauschen und möglichen Probleme oder Verzögerungen im Arbeitsablauf zu notieren[^7].
+### Sprints
+Die Arbeit wird in einzelne Sprints aufgeteilt. Ein Sprint ist ein Arbeitsabschnitt, in dem ein Inkrement einer Produktfunktionalität implementiert wird[^7]. Die Länge eines Sprints wird jedoch nicht auf ein bis vier Wochen begrenzt, wie es bei Scrum der Fall ist, sodass die Erfüllungsphase so lange andauern kann, wie es für das gewünchte Endergebnis erforderlich ist[^1].
+### Langzeitorientierte Planung
+Scrumban implementiert langfristige Planungsmöglichkeiten in Scrum durch das sogenannte "bucket-size-planning". 
 ## Methoden aus Kanban
-
+### Scrumbanboard
+### WIP-Limits
+### Pull-Prinzip
 So kann man eine Tabelle erstellen:
 
 | First Header  | Second Header |
@@ -73,9 +82,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: https://kanbantool.com/de/kanban-guide/scrumban-was-ist-das
+[^1]: https://kanbantool.com/de/kanban-guide
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 [^5]: https://en.wikipedia.org/wiki/Scrumban#Tooling
 [^6]: https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/
+[^7]: https://de.wikipedia.org/wiki/Scrum#Sprint
