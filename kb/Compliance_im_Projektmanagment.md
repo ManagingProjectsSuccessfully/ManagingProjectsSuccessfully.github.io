@@ -30,7 +30,7 @@ Compliance dient in erster Linie dazu, Unternehmen und deren Akteure vor juristi
 
 # Abschließende Bemerkung und Einordnung in den Gesamtkontext
 
-
+Compliance ist essentiell für Unternehmen und sonstige Organisationen. Diese müssen bereits in der Planungsphase neuer Projekte die rechtlichen Grundlagen des Zielmarktes analysieren und in weitere Schritte mit einbeziehen. Deshalb ist Compliance im Projektmanagement unbedingt in den Beginn einer jedesn Planungsphase eines neuen Projektes einzuordnen und unumgänglich wenn wirtschaftlicher und juristischer Schaden vermieden werden soll. Interessant um zu verstehen an welcher Stelle Compliance bei der Projektplanung steht sind vor allem beispielsweise verschiedenste [Vorgehensmodell](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Vorgehensmodelle.md) die ein Projekt in mehrere Phasen unterteilt. Auch die [Digitalisierung im Projektmanagement](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM.md) spielt bei der Compliance eine große Rolle. Der ständige und schnelle Datenaustausch ermöglichen schnelle Reaktionen auf sich ändernde Umstände.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
