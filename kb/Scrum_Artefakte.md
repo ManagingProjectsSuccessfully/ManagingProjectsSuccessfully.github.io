@@ -2,7 +2,7 @@
 title: Scrum_Artefakte
 tags: agil klassisch
 author: kutaydogan
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Scrum_Artefakte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
