@@ -24,7 +24,7 @@ So wird im diesjährigen Bericht mit Hilfe eines Diagramme Rückschlüsse gewonn
 
 ![PPM Process Value vs. Difficulty to embed](The_State_of_Project_Management_2021/PV_v_DTE.jpg)
 
-*PPM Process Value vs. Difficulty to embed*
+[*PPM Process Value vs. Difficulty to embed*](https://wellingtone.co.uk/increase-project-success-the-state-of-project-management/)
 
 # Maturity Levels:
 
