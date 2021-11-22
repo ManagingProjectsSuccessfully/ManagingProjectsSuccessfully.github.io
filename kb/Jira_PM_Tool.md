@@ -24,6 +24,12 @@ Bei Atlassian gibt es sehr viele Preismodelle [Quelle]. Hier wird zwischen Cloud
 ## 3. Funktionsweise
 In Jira muss zunächst ein Projekt angelegt werden. Im Anschluss kann eine Vorlage für das Projekt ausgewählt werden, was die Darstellung der Aufgaben beeinflusst. Man kann sich bei Jira-Software zwischen Scrum- und Kanbanboards entscheiden. Im Jira-Projekt können sogenannte Vorgänge erstellt werden, die als Aufgaben, Risiken, Bugs aber auch diverse andere Typen gekennzeichnet werden. Diese Vorgänge müssen während ihrer Bearbeitung einen Workflow durchlaufen, der in den Projekteinstellungen definiert werden kann und für jede Aufgabe gilt. Auf den Projektboards oder extra erstellen Dashboards können die Vorgänge nach bestimmten Kriterien gefiltert dargestellt werden.
 
+### 3.1 Scrum Board
+![Scrum Board](Jira_PM_Tool/scrum_backlog_full.png)
+
+### 3.2 Kanban Board
+![Jira Kanban Board](Jira_PM_Tool/screenshot_JSW_KanbanBoard.png)
+
 ## 4. Berechtigungen 
 In Jira können vom Administrator diverse Rollen konfiguriert werden, wodurch sichergestellt werden kann, dass nur berechtigte Personen innerhalb eines Projektes die Vorgänge bearbeiten und mitarbeiten können.
 
@@ -52,6 +58,7 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 # Weiterführende Literatur
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
++ [Kanban Boards in Jira](https://support.atlassian.com/jira-software-cloud/docs/monitor-work-in-a-kanban-project/)
 
 # Quellen
 
@@ -59,4 +66,12 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^5]: [What is a Board](https://confluence.atlassian.com/jirasoftwareserver/what-is-a-board-938845235.html)
+[^5]: [What is a Board](https://support.atlassian.com/jira-software-cloud/docs/what-is-a-jira-software-board/)
+
+## Bilder
+ Scrum Backlog https://confluence.atlassian.com/jirasoftwareserver/using-your-scrum-backlog-938845361.html
+ Kanban Board https://support.atlassian.com/jira-software-cloud/docs/monitor-work-in-a-kanban-project/
+ 
+ 
 
