@@ -2,7 +2,7 @@
 title: Cloud_Services
 tags: agil klassisch
 author: kutaydogan
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Cloud_Services um ein erstes Verständnis dafür zu schaffen um was es hier geht.
