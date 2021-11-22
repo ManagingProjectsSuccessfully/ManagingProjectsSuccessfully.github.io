@@ -10,7 +10,7 @@ anrechnung: k
 
 # Was ist ein Projektabschlussbericht?
 
-Der Projektabschlussbericht ist der letze Prozess im Projektfortschritt und wird im Rahmen des Projektabschlusses durchgeführt, welcher bereits im Vorfeld des 
+Der Projektabschlussbericht ist der letzte Prozess im Projektfortschritt und wird im Rahmen des Projektabschlusses durchgeführt, welcher bereits im Vorfeld des 
 Kompendiums erläutert wurde. Der Projektabschluss stellt den letzten Abschnitt der Unternehmung dar und enthält zusätzlich Schritte wie die Produktabnahme oder die
 Projektauflösung, was anschließend durchgeführt wird[^1]. 
 
