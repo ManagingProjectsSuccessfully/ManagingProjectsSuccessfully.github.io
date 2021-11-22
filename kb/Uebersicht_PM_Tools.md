@@ -19,8 +19,10 @@ In den darauffolgenden Jahren folgten viele Verbesserungen und verschiedene Soft
 
 ## Projektplanung
 
+Die Projektplanung ist ein Kernbereich des Projektmanagements. Wichtige Features sind:
 
-| First Header  | Second Header |
+
+| Feature  | genaue Funktion |
 | ------------- | ------------- |
 | Verwaltung allgemeiner Projektdaten  | Grundlegende Informationen, um schnellen Einblick in das Projekt zu bekommen |
 | Projektstrukturplanung  | Gliederung des Projekts in plan- und kontrollierbare Elemente  |
