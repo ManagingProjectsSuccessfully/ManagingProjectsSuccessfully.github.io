@@ -15,9 +15,9 @@ Der Projekterfolg hängt von einer effektiven Kommunikation ab. Kommunikationsmo
 Kommunikation beeinflusst und welche Arten von Diskrepanzen zwischen den Erwartungen der Endbenutzer und der Realität bestehen. 
 Mit multikulturellen Projektteams und verstreuten Interessengruppen bieten diese Modelle eine Möglichkeit, Kommunikationsstile und -methoden zu betrachten, um die Effizienz und Effektivität zu verbessern [^2].
 
-![Abbildung 1: Kommunikationsmodell Alister Cockburn](Digitale_Kommunikation/communicationModes.gif)[^3]
+![Abbildung 1: Kommunikationsmodell Alistair Cockburn](Digitale_Kommunikation/communicationModes.gif)[^3]
 
-Das Kommunikationsmodell nach Cockburn beschreibt auf der Y-Achse die „Effektivität der Kommunikationsart“ und auf der X-Achse „Die Richness von Kommunikationskanälen“. Richness“ oder auch „Media Richness“ beinhaltet verschiede Eigenschaften zur optimalen Kommunikation.                                     Diese Fähigkeiten zeichnen die [Media Richness Theory](https://dorsch.hogrefe.com/stichwort/media-richness-theory) aus: 
+Das Kommunikationsmodell von Alistair Cockburn beschreibt auf der Y-Achse die „Effektivität der Kommunikationsart“ und auf der X-Achse „Die Richness von Kommunikationskanälen“. Richness“ oder auch „Media Richness“ beinhaltet verschiede Eigenschaften zur optimalen Kommunikation.                                     Diese Fähigkeiten zeichnen die [Media Richness Theory](https://dorsch.hogrefe.com/stichwort/media-richness-theory) aus: 
 *	Mehrere Informationen gleichzeitig verarbeiten
 *	Erleichterung schnelles Feedback zu geben 
 *	Einen individuellen Schwerpunkt für jedes Projektmitglied zu setzen, und 
