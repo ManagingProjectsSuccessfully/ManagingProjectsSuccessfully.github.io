@@ -67,7 +67,9 @@ Außerdem können große Datenmengen schnell analysiert werden und nebenbei auf 
 KI gibt den Unternehmen des Weiteren die Möglichkeit durch das [Maschinellen Lernen](Machine_Learning_im_Projektmanagement.md) einige Schritte im Verlauf eines [Projektes](Projekt.md) besser zu organisieren. 
 Verbesserungspotenzial durch Machine Learning ist in Phasen wie der Planung, Ausführung und dem Controlling möglich [^1]. <br>
 
-![Machine Learning](KI_im_PM/Machine_Learning.png)
+![Machine Learning](KI_im_PM/Machine_Learning.png) <br>
+
+*Verbesserungspotential durch Machine Learning* [^1]
 
 ## 2.4 Einsatz von KI in [Invensity](https://www.invensity.com/)
 
@@ -76,7 +78,9 @@ Sie hat sich die KI und ihr [Maschinelles Lernen](Machine_Learning_im_Projektman
 Hierbei gibt es kein zentrales Tool, sondern ein Set an unterschiedlichen Werkzeugen in Form von Algorithmen, die ineinandergreifen. 
 Ihre Absicht ist es, verschiedene Arten von Daten zu analysieren und auszuwerten, damit Probleme in Projekten gelöst werden können, die bislang nicht lösbar erschienen, wie beispielsweise in den Bereichen der Aufwandsschätzung, Zeitplanerstellung, Ressourcenzuordnung oder im Projektreporting [^6]. <br>
 
-![Beispielabbildung](KI_im_PM/KI_im_PM.png)
+![Beispielabbildung](KI_im_PM/KI_im_PM.png) <br>
+
+*KI im Projektmangement* [^6]
 
 # Abkürzungsverzeichnis
 KI = Künstliche Intelligenz <br>
