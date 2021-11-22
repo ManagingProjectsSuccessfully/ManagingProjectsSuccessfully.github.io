@@ -15,6 +15,7 @@ anrechnung: k
 [^6]: https://www.bpb.de/nachschlagen/lexika/handwoerterbuch-politisches-system/201994/bundesrechnungshof
 [^7]: https://www.arl-net.de/de/lexica/de/%C3%B6ffentliche-verwaltung
 [^8]: https://link.springer.com/book/10.1007%2F978-3-322-80689-5
+[^9]: https://link.springer.com/content/pdf/10.1007/s00287-012-0640-5.pdf
 
 # Öffentliche Projekte
 
@@ -60,7 +61,7 @@ Aufgrund solcher Fehlplanungen gibt es schon seit langem die Forderung die öffe
 Eine durchdachte Zusammenarbeit von öffentlicher und privater Wirtschaft im Sinne von PPP(public-private-partnership) kann Hilfestellung leisten[^3]. Das bedeutet sich an externe Berater zu wenden, die eine hohe Expertise und viel Erfahrung beim Thema Projektmanagement aufweisen und so die öffentliche Verwaltung dabei unterstützen können.
 
 # Ausblick
-Zu den größten Herausforderungen für das Management von Projekten in öffentlicher Hand gehört die seit Jahren geforderte Digitalisierung und Verschlankung des Bürokratieapperats[^5]. Gerade die Coronapandemie hat gezeigt, dass auch eine öffentliche Verwaltung gut ausgestattet und flexibel sein muss, um Herausforderungen von öffentlichen Projekten und dessen Projektmanagement gewachsen zu sein.
+Zu den größten Herausforderungen für das Management von Projekten in öffentlicher Hand gehört die seit Jahren geforderte Digitalisierung und Verschlankung des Bürokratieapperats[^5][^9]. Gerade die Coronapandemie hat gezeigt, dass auch eine öffentliche Verwaltung gut ausgestattet und flexibel sein muss, um Herausforderungen von öffentlichen Projekten und dessen Projektmanagement gewachsen zu sein.
 
 # Siehe auch
 
@@ -70,7 +71,7 @@ Zu den größten Herausforderungen für das Management von Projekten in öffentl
 
 * [Projektmanagement in der öffentlichen Verwaltung. Anreizsysteme für eine Implementierung](https://www.google.de/books/edition/Projektmanagement_in_der_%C3%B6ffentlichen_V/9Ek3CwAAQBAJ?hl=de&gbpv=0)
 * [Projektmanagement in der öffentlichen Verwaltung](https://books.google.de/books?hl=de&lr=&id=lJlf5nLOMfgC&oi=fnd&pg=PR5&dq=%C3%B6ffentliche+projekte+projektmanagement&ots=9reLD5Uho1&sig=8sS7FEphLDQBY-ep-q8bgi-FKic#v=onepage&q=%C3%B6ffentliche%20projekte%20projektmanagement&f=false)
-* [Investitionen un public-private-partnership](https://epub.uni-regensburg.de/5900/6/43.pdf)
+* [Investitionen in public-private-partnership](https://epub.uni-regensburg.de/5900/6/43.pdf)
 * [Schwierigkeiten mit IT-Projekten der Öffentlichen Verwaltung–Neuere Entwicklungen](https://link.springer.com/content/pdf/10.1007/s00287-012-0640-5.pdf)
 
 
