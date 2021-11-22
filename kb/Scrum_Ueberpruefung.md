@@ -34,7 +34,8 @@ Die gewonnen Erkenntnisse können beispielsweise folgende Fragen beantworten: [^
 * Ist die Zusammenarbeit effektiv?
 * Wo gibt es noch Aufklärung- oder Änderungsbedarf?
 
-Die gefundenen Aspekte mit Optimierungsbedarf werden nach ihrer Wichtigkeit und/oder Dringlichkeit priorisiert. Für die hochprioren Themen werden Verbesserungsvorschläge erarbeitet, deren Umsetzung dann für den folgenden Sprint eingeplant werden.
+Die gefundenen Aspekte mit Optimierungsbedarf werden nach ihrer Wichtigkeit und/oder Dringlichkeit geordnet. Für die priorisierten Themen werden Verbesserungsvorschläge erarbeitet, deren Umsetzung dann für den folgenden Sprint eingeplant werden.
+
 Die Überprüfung darf jedoch nicht zu oft stattfinden, da so die Gefahr besteht, die eigentliche Projektarbeit zu behindern. 
 Die Inspektionen müssen in einer Weise stattfinden, dass auch sie einen Mehrwert für die Projektarbeit darstellen.[^6]
 
