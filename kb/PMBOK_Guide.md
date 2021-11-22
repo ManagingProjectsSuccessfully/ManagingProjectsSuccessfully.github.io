@@ -9,7 +9,7 @@ Die vom PMI angebotene PMP [Zertifizierung](Zertifizierungen.md) baut u.a. auf d
 
 # Aufbau des aktuellen PMBOK-Guides
 Das Handbuch wird inhaltlich in den Standard und einen Leitfaden für das Projektmanagement gegliedert. Mit der 7. Edition wurden unter Berücksichtigung der technologischen und wirtschaftlichen Entwicklungen grundlegende Änderungen vorgenommen. Diese sollen aktuelle Herausforderungen im Projektmanagement besser widerspiegeln und Projektmanagern verbesserte Handlungsmöglichkeiten auf Marktveränderungen erlauben.
-Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer prozessorientierten Methodik, sondern auf Werten und Prinzipien. Zudem wurden die *Knowledge Areas* und die *Prozessgruppen* durch das Wertschöpfungssystem, die Grundsätze und Projekt-Leistungsbereichen ersetzt [^3].
+Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer prozessorientierten Methodik, sondern auf Werten und Prinzipien. Zudem wurden die *Knowledge Areas* und die *Prozessgruppen* durch das Wertschöpfungssystem, die Grundsätze und Projekt-Leistungsbereiche ersetzt [^3].
 
 ![Abbildung](PMBOK_Guide/foto.jpg)
 
