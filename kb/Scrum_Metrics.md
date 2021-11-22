@@ -1,8 +1,8 @@
 ---
 title: Scrum_Metrics
-tags: agil klassisch
+tags: agil
 author: efdil
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Scrum_Metrics um ein erstes Verständnis dafür zu schaffen um was es hier geht.
