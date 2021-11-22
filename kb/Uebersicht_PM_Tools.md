@@ -23,7 +23,11 @@ In den darauffolgenden Jahren folgten viele Verbesserungen und verschiedene Soft
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Verwaltung allgemeiner Projektdaten  | Grundlegende Informationen, um schnellen Einblick in das Projekt zu bekommen |
-| Content Cell  | Content Cell  |
+| Projektstrukturplanung  | Gliederung des Projekts in plan- und kontrollierbare Elemente  |
+| Meilensteinplanung  | Grundlage, um zu bestimmten Zeitpunkten den Projektstatus hinsichtlich von Zielen, Kosten und Terminen beurteilen zu können  |
+| Gantt Chart | stellt die verschiedenen Projektphasen übersichtlich dar  |
+| Task Management  | welche Aufgaben noch umzusetzen sind und welchen aktuellen Stand man hat  |
+| Netzplan  | stellt die Dauer von Vorgängen im Projekt, ihre zeitliche Anordnung und logische Abhängigkeiten zwischen den Vorgängen dar  |
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
