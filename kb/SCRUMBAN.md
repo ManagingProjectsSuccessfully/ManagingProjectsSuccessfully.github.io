@@ -7,22 +7,6 @@ anrechnung: klassisch
 
 Scrumban ist ein aus [Scrum](SCRUM.md) und [Kanban](Kanban.md) gebildetes Kunstwort und beschreibt einen Methodenmix der beiden agilen Frameworks im Bereich des [Projektmanagements](Projektmanagement.md)[^1]. Dafür werden verschiedene Aspekte beider Methoden angewandt, auf die ich hier anschließend näher eingehen werde.
 
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-
-
-
 # Historie
 Der Scrum Begiff wurde bereits in den 1990er Jahrewn von Jeff Sutherland und Ken Schwaber geprägt, wohingegen Kanban sich erst Jahre später in der Softwareentwicklung etablierte. Man erkannte realtiv schnell dass Scrum von den Visualisierungstechniken aus Kanban stark profitieren kann.
 Scrumban wurde dementsprechend entwickelt um kleinen Scrum-Teams neue Möglichkeiten zu eröffnen und Kanban Konzepte in ihre Arbeit mit einzubinden[^5]. Der Schwerpunkt liegt darin Scrum durch einige Ideen aus dem Kanban Framework vor allem flexibler und reaktiver zu gestalten[^6].
@@ -41,6 +25,9 @@ Die Meetingstruktur verhält sich sehr ähnlich zu der von Scrum. Empfohlen sind
 Die Arbeit wird in einzelne Sprints aufgeteilt. Ein Sprint ist ein Arbeitsabschnitt, in dem ein Inkrement einer Produktfunktionalität implementiert wird[^7]. Die Länge eines Sprints wird jedoch nicht auf ein bis vier Wochen begrenzt, wie es bei Scrum der Fall ist, sodass die Erfüllungsphase so lange andauern kann, wie es für das gewünchte Endergebnis erforderlich ist[^1].
 ### Langzeitorientierte Planung
 Scrumban implementiert langfristige Planungsmöglichkeiten in Scrum durch das sogenannte "bucket-size-planning". 
+
+![bucket-size-planning](Scrumban/
+
 ## Methoden aus Kanban
 ### Scrumbanboard
 ### WIP-Limits
@@ -83,9 +70,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: https://kanbantool.com/de/kanban-guide
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 [^5]: https://en.wikipedia.org/wiki/Scrumban#Tooling
 [^6]: https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/
 [^7]: https://de.wikipedia.org/wiki/Scrum#Sprint
