@@ -1,6 +1,6 @@
 ---
 title: Vorgehensmodelle
-tags: agil klassisch Projektmanagement Planung Organisation Vorgehensweise
+tags: agil klassisch Projektmanagement Planung Organisation Vorgehensweise Entwicklungsmodell Entwicklungskonzept
 author: hello-pukeko
 anrechnung: k
 ---
