@@ -58,16 +58,19 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Punkteliste
   - mit unterpunkt
 
-## Preisliste
+# Preisliste
 
 * ClickUp ist kostenlos nutzbar. Es gibt aber auch die Möglichkeit bei Zahlung verschieden Features freizuschalten.
-* (Bei der folgenden Tabelle wurden die monatlichen Preise betrachtet. Bei Abschluss von jährlichen Abonnements sinken die Preise monatlich betrachtet.)
+* Bei der folgenden Tabelle wurden die monatlichen Preise betrachtet. Bei Abschluss von jährlichen Abonnements sinken die Preise monatlich betrachtet.
 
-
-| Kostenlos | Second Header | | Kostenlos     | Second Header | | Kostenlos     |
-| ------------- | ------------- | | ------------- | ------------- | | ------------- |
-| Content Cell  | Content Cell  | | Content Cell  | Content Cell  | | Content Cell  |
-| Content Cell  | Content Cell  | | Content Cell  | Content Cell  | | Content Cell  | 
+|   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
+| ------------- | ------------- | ------------ | ------------- | ------------  |
+| Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell | Content Cell  | Content Cell  |
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
@@ -108,9 +111,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [ClickUp](https://clickup.com)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [ClickUp](https://clickup.com)
-[^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+
 
