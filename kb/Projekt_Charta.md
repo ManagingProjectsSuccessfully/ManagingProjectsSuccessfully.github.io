@@ -120,7 +120,7 @@ Beispiel anhand eines Fast Food App Projekts.
 
 ---
 Weiterführendes:
-Wer ist der Projektmanager, Projekt Sponsor, Projektantrag, Stakeholder
+Wer ist der Projektmanager, Projekt Sponsor, Projektantrag, Stakeholder 
 
 
 ---
