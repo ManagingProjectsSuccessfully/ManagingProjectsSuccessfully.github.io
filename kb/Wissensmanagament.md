@@ -39,7 +39,7 @@ Explizites Wissen bezeichnet ein formulierbares Wissen und ist deshalb leicht re
 Das Bausteinmodell stellt ein weit verbreitetes Modell des Wissensmanagements dar. Dieses Modell bildet einen traditionellen Managementprozess ab und besteht aus 8 Bausteinen, welche sich in einen äußeren Kreislauf (strategische Steuerungsaufgaben) und einen inneren Kreislauf (Umsetzung) aufteilen lassen[^6]. 
 
 
-![Bausteinmodell](Wissensmanagament/Wissensmanagement.jpg)
+![Bausteinmodell](Wissensmanagament/Wissensmanagement.jpg) [^7]
 
 **Äußerer Kreislauf:** 
 
@@ -57,7 +57,7 @@ Das Bausteinmodell stellt ein weit verbreitetes Modell des Wissensmanagements da
 
 ## Wissensspirale (SECI-Modell) nach Nonaka und Takeuchi
 
-Die Wissensspirale ist ein dynamisches Modell und basiert auf der Annahme, dass sich unser Wissen als Ergebnis eines ständigen Transformationsprozesses von implizitem Wissen auf explizites Wissen wandelt. Dadurch kann das Wissen einer einzelnen Person mehreren Personen zur Verfügung gestellt werden[^7].   
+Die Wissensspirale ist ein dynamisches Modell und basiert auf der Annahme, dass sich unser Wissen als Ergebnis eines ständigen Transformationsprozesses von implizitem Wissen auf explizites Wissen wandelt. Dadurch kann das Wissen einer einzelnen Person mehreren Personen zur Verfügung gestellt werden[^8].   
 
 Dabei gibt es 4 Schritte: 
 
@@ -129,4 +129,5 @@ Methoden und Instrumente dienen zur konkreten Umsetzung von Wissenszielen. Dabei
 [^4]: [Implizites Wissen Definition und Beispiele](https://www.wcg.de/glossar/implizites-wissen/)
 [^5]: [Explizites Wissen Definition](https://www.wcg.de/glossar/explizites-wissen/)
 [^6]: [Wissensmanagement, Bausteinmodell](https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Wissensmanagement/Wissensmanagement--Modelle-des/Wissensmanagement--Bausteinmodell-des-)
-[^7]: [Wissensspirale nach Nonaka und Takeuchi](https://www.qmbase.com/die-organisation-des-wissens-seci/)
+[^7]: [Bild](https://www.enzyklopaedie-der-wirtschaftsinformatik.de/wi-enzyklopaedie/Members/bick/copy_of_Bausteinmodell.jpg/image_large)
+[^8]: [Wissensspirale nach Nonaka und Takeuchi](https://www.qmbase.com/die-organisation-des-wissens-seci/)
