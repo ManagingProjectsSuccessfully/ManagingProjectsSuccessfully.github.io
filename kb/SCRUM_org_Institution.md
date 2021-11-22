@@ -1,6 +1,6 @@
 ---
 title: SCRUM_org_Institution
-tags: agil klassisch
+tags: Agil Scrum Zertifikat
 author: SimonM211
 anrechnung: a
 ---
