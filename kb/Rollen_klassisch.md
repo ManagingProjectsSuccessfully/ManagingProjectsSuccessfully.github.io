@@ -7,8 +7,11 @@ anrechnung: k
 
 
 # Unterschiedliche Rollen im klassischen Projektmanagement
+Für die erfolgreiche Durchführung eines Projektes ist es 
 
-## Was ist eine Rolle
+![Bild 1](Rollen_klassisch/Bild_1.png)
+
+*Übersicht über die wichtigsten Rollen im klassischen Projektmanagement*
 
 # Rollen im Einzelprojektmanagement vs im Multiprojektmanagement
 
@@ -26,19 +29,27 @@ anrechnung: k
 
 Innerhalb eines Projektes gibt es im klassischen Projektmanagement verschiedene Rollen, die besetzt werden müssen. Dazu ist es zunächst wichtig eine Unterscheidung zwischen den Organisationseinheiten im Einzelprojektmanagement und den Organisationsheiten im Multiprojektmanagement zu machen: 
 
-1. Projektauftraggeber
-2. Projektlenkungsausschuss/Multiprojektlenkungsausschuss
-3. Projektleiter
-4.	Projektcontroller
-5.	Projektteam
-6. Projektmanagement-Office (PMO)
-7. Experten
+Im Einzelprojektmanagement sind die folgenden Rollen zu finden: 
 
-Diesen kommen unterschiedliche Aufgaben innerhalb eines Projektes zu. Im folgenden werden diese 7 Rollen kurz beschrieben und die ihnen zugeteilten Aufgaben näher erläutert.
+* Projektauftraggeber
+* Projektlenkungsausschuss
+* Projektleiter
+*	Projektcontroller
+*	Projektteam
+* Projektmanagement-Office (PMO)
+* Experten
+
+Diesen kommen unterschiedliche Aufgaben innerhalb eines Projektes zu. Im folgenden werden diese Rollen kurz beschrieben und die ihnen zugeteilten Aufgaben näher erläutert.
+
+Im Multiprojektmanagement ist es erforderlich zusätzliche Rollen zu definieren. Diese schaffen eine Verbindung zwischen der Organisation des Unternehmens und der Organisation des Projekts.
+Dazu gehören:
+
+* Multiprojektlenkungsausschuss
+* Projektmanagement-Office(PMO)
 
 ## Projektauftraggeber:
 Der Auftraggeber beauftragt das Projekt und stellt formal die Ressourcen bereit. Für interne Projekte ist dies oft der Geschäftsführer oder Vorstand des Unternehmens, bei externen Projekten sind es die Kunden.
-Sofern es neben den Auftraggeber eine spezielle Kundenrolle gibt, ist dieser der Abnehmer aller Ergebnisse aus dem Projekt.
+Sofern es neben den Auftraggeber eine spezielle Kundenrolle gibt, ist der Kunde der Abnehmer aller Ergebnisse aus dem Projekt.
 
 ## Projektlenkungsausschuss/Multiprojektlenkungsausschuss:
 Der [Projektlenkungsausschuss](https://de.wikipedia.org/wiki/Lenkungsausschuss)  besteht aus mehreren Mitgliedern, die innerhalb des Projekts als Berater, Entscheidungsträger auftreten. Außerdem übernehmen sie oftmals eine Genehmigungsfunktion. Da dieses Gremium eine außenstehende und neutrale Funktion einnehmen soll, sollte der Projektleiter möglichst kein Mitglied des Ausschusses sein. 
@@ -68,10 +79,6 @@ Innerhalb und außerhalb der Projektorganisation kann es zudem Experten geben, d
 
 # Festlegung der Projektrollen
 Die Frage wer innerhalb eines Projektes welche Projektrolle einnimmt wird meist in der Projektorganisation in der Planungsphase eines Projekts festgelegt. Dabei wird neben der Verteilung der Rollen auch geklärt, welche Aufgaben, Kompetenzen und Verantwortungen die einzelnen Rollen erhalten, wie die Zusammenarbeit zwischen den Rollen organisiert wird und wie das Einzelprojekt in die Stammorganisation eigebunden wird.
-
-![Bild 1](Rollen_klassisch/Bild_1.png)
-
-*Übersicht über die wichtigsten Rollen im klassischen Projektmanagement*
 
 
 # Siehe auch
