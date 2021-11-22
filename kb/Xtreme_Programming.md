@@ -5,14 +5,14 @@ author: 29834
 anrechnung: a
 ---
 
-# Was ist Extreme Programming?
+# Was ist Extreme Programming? (fertig)
 
 Extreme Programming, kurz XP, ist die radikalste Umsetzung der agilen Softwareentwicklung. [^1]
 
 Zurückzuführen ist die Methode auf die Softwareentwickler Kent Beck, Ward Cunningham und Ron Jeffries. 
 Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen , da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte.
 
-# Eine Agile Methode
+# Eine Agile Methode (fertig)
 
 Wie Scrum und Kanban, andere agile Methoden, stellt Extreme Programming den Kunden und seine Anforderungen in den Mittelpunkt.
 Dies ist oftmals schwierig bei einem klassischen Ansatz, vor allem, wenn sich die die Kundenwünsche regelmäßig ändern.
@@ -24,7 +24,7 @@ Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien u
 
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
 
-# Rollen
+# Rollen (fertig)
 
 * Kunde
 * Productowner
@@ -53,7 +53,18 @@ Bei dem Punkt Feedback geht es nicht nur um die Kritik des Kunden, sondern auch 
 
 # Prinzipien
 
+* Unmittelbares Feedback
+* Einfachheit anstreben
+* Inkrementelle Änderungen
+* Veränderungen annehmen
+* Hochwertige Arbeit
+
 # Techniken
+
+* Feinstufiges Feedback
+* Kontinuierlicher Prozess
+* Gemeinsames Verständnis
+* Wohlergehen der Entwickler
 
 # Vor- und Nachteile
 
