@@ -26,7 +26,7 @@ Die Arbeit wird in einzelne Sprints aufgeteilt. Ein Sprint ist ein Arbeitsabschn
 ### Langzeitorientierte Planung
 Scrumban implementiert langfristige Planungsmöglichkeiten in Scrum durch das sogenannte "bucket-size-planning". 
 
-![bucket-size-planning](Scrumban/Bucket-size-planning.webp)
+![bucket-size-planning](Scrumban/Bucket-size-planning.jpeg)
 
 ## Methoden aus Kanban
 ### Scrumbanboard
