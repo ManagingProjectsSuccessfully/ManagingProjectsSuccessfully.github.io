@@ -77,10 +77,6 @@ Erfolgreiches PI Planing liefert folgende Erebnisse:
 
 * [Scrum of Scrums](https://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_of_scrums)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
 # Quellen
 
 [^1]: [Was ist SAFe?](https://www.atlassian.com/de/agile/agile-at-scale/what-is-safe)
