@@ -10,7 +10,7 @@ Die vorliegende Arbeit setzt sich mit der Crystal Methode und ihren Anwendungsm�
 
 # 1. Verschiedene Crystal- Varianten 
 
-Welche Methode letztendlich für das Projekt ausgewählt wird, entscheidet die Anzahl der teilnehmenden Personen und die Höhe der Risiken. Die Crystal Familie benutzt verschiedene Farben um die verwendete Methode zu kennzeichnen.Die aktuellen Farben sind:
+Welche Methode letztendlich für das Projekt ausgewählt wird, entscheidet die Anzahl der teilnehmenden Personen und die Höhe der Risiken. Die Crystal Familie benutzt verschiedene Farben um die verwendete Methode zu kennzeichnen.Die aktuellen Farben sind:[^2]
 
 * Crystal Clear 
   - (bis zu 6 Mitgliedern)
@@ -37,7 +37,7 @@ Projekte mit lebensbedrohlichen Risiken hat er absichtlich weggelassen, da er ke
 
 Die Methoden zeichnen vor allem sieben gemeinsame und vorherrschende Eigenschaften aus. Im Laufe der Zeit fand Cockburn heraus, dass e mehr von diesen Eigenschaften in den Projekten umgesetzt wurden, desto erfolgreicher wurde das Projekt abgeschlossen.
 
-1. Frequent delivery
+1. Frequent delivery[^4]
 
 	- Es werden regelmäßig Testversionen und Entwürfe an den Auftraggeber geschickt um 			Feedback am laufenden Projekt zu bekommen
 
@@ -78,53 +78,6 @@ Unabhängig von der Größe des Projekts existieren ein Sponsor, verschiedene Us
 
 
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Crystal_Methods/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -138,8 +91,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Crystal] (https://www.onlinesolutionsgroup.de/blog/glossar/c/crystal/
+
+)
+[^2]: [The Crystal family](https://files.ifi.uzh.ch/rerg/amadeus/teaching/seminars/seminar_ws0304/04_05_Hollenstein_Rutz_Crystal_Ausarbeitung.pdf)
+[^3]: [Agile Patterns- Teil 2/4 Prinzipien Crystal Family](http://www.anecon.com/blog/agile-patterns-teil-2-prinzipien-crystal-family/
+)
+[^4]: [Crystal Method in Agile](https://www.toolsqa.com/agile/crystal-method/)
+[^5]: [Dokumentieren in agilen Methoden Teil 4 - Crystal](https://blog.sophist.de/2013/11/13/dokumentieren-in-agilen-methoden-teil-4-crystal/
+)
 
