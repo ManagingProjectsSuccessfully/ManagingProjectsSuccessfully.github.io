@@ -1,6 +1,6 @@
 ---
 title: Vorgehensmodelle
-tags: agil klassisch Projektmanagement Planung Organisation
+tags: agil klassisch Projektmanagement Planung Organisation Vorgehensweise
 author: hello-pukeko
 anrechnung: k
 ---
