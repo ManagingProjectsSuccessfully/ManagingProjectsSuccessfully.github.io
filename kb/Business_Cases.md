@@ -15,6 +15,8 @@ Ein Business Case ist ein wichtiges Projektdokument. Er analysiert die Wirtschaf
 * [4. Vorteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#4vorteile)
 * [5. Nachteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#5nachteile)
 * [6. Fazit](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#6fazit)
+* [7. Siehe auch](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#7-siehe-auch)
+* [8. Quellen](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#8-quellen)
 
 
 ## 1.	Etymologie
