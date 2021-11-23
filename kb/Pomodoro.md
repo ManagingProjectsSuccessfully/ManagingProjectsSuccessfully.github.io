@@ -5,12 +5,12 @@ author: Mezhonnov
 anrechnung: a
 ---
 
-Die Pomodoro-Technik (orig. pomodoro technique von italienisch pomodoro = Tomate und englisch technique = Methode, Technik) ist eine Methode des Zeitmanagements, die von Francesco Cirillo in den 1980er Jahren entwickelt wurde. Das System verwendet einen Kurzzeitwecker, um Arbeit in 25-Minuten-Abschnitte – die sogenannten pomodori – und Pausenzeiten zu unterteilen. Der Name pomodoro stammt von der Küchenuhr, die Cirillo bei seinen ersten Versuchen benutzte.[^1]
-Die Methode basiert auf der Idee, dass häufige Pausen die geistige Beweglichkeit verbessern können.
-
 ![Beispielabbildung](Pomodoro/pomodoro-technik-620x340.jpg)
 
 *Pomodoro-Timer*
+
+Die Pomodoro-Technik (orig. pomodoro technique von italienisch pomodoro = Tomate und englisch technique = Methode, Technik) ist eine Methode des Zeitmanagements, die von Francesco Cirillo in den 1980er Jahren entwickelt wurde. Das System verwendet einen Kurzzeitwecker, um Arbeit in 25-Minuten-Abschnitte – die sogenannten pomodori – und Pausenzeiten zu unterteilen. Der Name pomodoro stammt von der Küchenuhr, die Cirillo bei seinen ersten Versuchen benutzte.[^1]
+Die Methode basiert auf der Idee, dass häufige Pausen die geistige Beweglichkeit verbessern können.
 
 # So funktioniert die Pomodoro-Technik
 
@@ -26,7 +26,7 @@ Auf seiner [Webseite](https://francescocirillo.com/pages/pomodoro-technique) ski
 7. Nach dem vierten Durchgang 20 bis 30 Minuten Pause machen.
 
 Dadurch entsteht folgender Ablauf:
-- Pomodoro 1
+- Pomodoro :one:
 - 5 Minuten Pause
 - Pomodoro 2
 - 5 Minuten Pause
