@@ -17,7 +17,7 @@ Mögliche Ursachen für Änderungen sind:
 * die Veränderung äußerer Faktoren (z.B. Markt, Politik, Technik, Wissenschaft, Gesetzte, Umwelt)
 * der Widerstand von Stakeholdern
 
-Das Änderungsmanagement umfasst die Behandlung und Steuerung von Änderungen im Verlauf eines Projektes.
+"Das Änderungsmanagement umfasst daher die Behandlung und Steuerung von Änderungen im Verlauf eines Projektes."[^2]
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -105,7 +105,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: https://link.springer.com/book/10.1007%2F978-3-662-46458-8
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: https://link.springer.com/book/10.1007%2F978-3-662-46458-8
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
