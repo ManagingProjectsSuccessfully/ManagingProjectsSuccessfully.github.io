@@ -78,7 +78,6 @@ Der fünfte Punkt von SMARTen Zielen ist die Terminierung. Für ein Ziel sollte 
 * Eremit B. und Weber K. (2016): [Individuelle Persönlichkeitsentwicklung: Growing by Transformation](https://link.springer.com/chapter/10.1007/978-3-658-09453-9_16). Wiesbaden: Springer Fachmedien Wiesbaden. (Kapitel 16, S. 93-99)
 
 # Quellen
-
 [^1]: [SMART-Methode: Ziele richtig setzen und erreichen](https://karrierebibel.de/smart-methode/)
 [^2]: [S.M.A.R.T.-Methode- Specific Measurable Accepted Realistic Timely](https://link.springer.com/content/pdf/10.1007%2F978-3-658-09453-9.pdf)
 [^3]: [SMART-Ziele ein Überblick](https://projektmanagement-manufaktur.de/smart-ziele)
