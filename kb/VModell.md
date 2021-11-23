@@ -9,13 +9,14 @@ anrechnung: k
 
 # Was ist das V-Modell?
 
-Das V-Modell ist ein V-förmiges lineares [Vorgehensmodell](https://de.wikipedia.org/wiki/Vorgehensmodell_zur_Softwareentwicklung) im Projektmanagement, das ein Projekt in fest definierte Phasen unterteilt, welches ursprünglich für die Softwareentwicklung konzipiert wurde. Es ähnelt dem ebenfalls [linearen Wasserfallmodell](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md), mit dem Unterschied, dass es zusätzlich Testphasen gibt, welche den jeweiligen Entwicklungsphasen gegenübergestellt sind. Dies soll beim Entwickeln eines Projekts helfen, die einzelnen Phasen sauber zu testen, zu integrieren und letztendlich als Ganzes zusammenzufügen. 
+Das V-Modell ist ein V-förmiges lineares [Vorgehensmodell](https://de.wikipedia.org/wiki/Vorgehensmodell_zur_Softwareentwicklung) im Projektmanagement, das ein Projekt in fest definierte Phasen unterteilt, welches ursprünglich für die Softwareentwicklung konzipiert wurde. Es ähnelt dem ebenfalls [linearen Wasserfallmodell](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md), mit dem Unterschied, dass es zusätzlich Testphasen gibt, welche den jeweiligen Entwicklungsphasen gegenübergestellt sind. Dies soll beim Entwickeln eines Projekts helfen, die einzelnen Phasen sauber zu testen, zu integrieren und letztendlich als Ganzes zusammenzufügen.[^1][^2] 
 
 ## Abbildung V-Modell
 
 ![v-modell](https://user-images.githubusercontent.com/92790072/142849508-172e4421-7a7d-435e-bc29-652fe4992df0.jpg)
+Original:[^3]
 
-Original:[]
+
 
 1. Auf der linken Seite des V wird mit dem funktionalen/fachlichen Ausbau begonnen, welcher immer tiefer bis zur Komponentenspezifikation und Implementierung detailliert wird. Auf der untersten Ebene wird klar beschrieben, wie die Anforderungen technisch umgesetzt werden sollen.
 
@@ -69,8 +70,8 @@ zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebe
 
 # Quellen
 
-[]: 
-[]: 
-[]:
+[^1]: https://de.wikipedia.org/wiki/V-Modell
+[^2]: https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/v-modell/
+[^3]: https://projekte-leicht-gemacht.de/wp-content/uploads/2021/08/v-modell.jpg
 
 
