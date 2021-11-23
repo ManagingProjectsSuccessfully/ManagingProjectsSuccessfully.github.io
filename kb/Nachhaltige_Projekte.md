@@ -16,7 +16,7 @@ nachhaltigen Projekten immer mehr steigt, um Umweltschutz und wirtschaftliche Zi
 Genaueres dazu gibt es beim Beitrag über [Nachhaltigkeit im PM](Nachhaltigkeit_im_PM.md)
 
 Nachhaltigkeit kann allgemein in drei Kernbereiche aufgeteilt werden: ökologische Nachhaltigkeit, ökonomische Nachhaltigkeit und soziale Nachhaltigkeit[^1], wobei stets versucht wird diese Bereiche möglichst gut zu vereinen. Folglich hat sich auch die Bedeutung der Nachhaltigkeit 
-erhöht und ist in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt. Auch sind nachhaltige Projekte sehr eng mit der [nachhaltigen Entwicklung](Nachhaltlige_Entwicklung.md) oder im 
+erhöht und ist in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt. Auch sind nachhaltige Projekte sehr eng mit der [nachhaltigen Entwicklung](Nachhaltige_Entwicklung.md) oder im 
 englischen „sustainable development“ verbunden und hängen von einandner ab. 
 Nachhaltige Projekte wurden somit in den letzten 20 Jahren zu einem der zentralen Themen, da das Thema Klimaschutz immer und immer mehr in den Vordergrund gerät.
 
@@ -31,7 +31,7 @@ Jedoch gibt es noch Hürden, die überwindet werden müssen, da in einer Umfrage
 
 # Nachhaltige Projekte von Städten Europas  
 
-Kommen wir nun aber zu Beispielen für nachhaltige Projekte. Das erste Projekt, dass ich erwähnen möchte, wurde in der Stadt [Utrecht](https://de.wikipedia.org/wiki/Utrecht) realisiert. In der niederländischen Stadt wurden die Dächer der Bushaltestellen mit Grünflächen bedeckt, um Bienen und Insekten zu schützen und dem urbanen Artensterben dieser entgegenzuwirken. Dies könnte ein kleiner Anfang für Großstädte auf der ganzen Welt sein dem Artensterben einiger Tiere entgegenzuwirken, ohne große Summen auszugeben. Auch ist dies wichtig, da Grünflächen in Großstädten immer öfter zu Bauland werden und somit die letzten Lebensräume einiger Tierarten verschwinden[^5].
+Kommen wir nun aber zu Beispielen für nachhaltige Projekte. Das erste Projekt, dass ich erwähnen möchte, wurde in der Stadt Utrecht realisiert. In der niederländischen Stadt wurden die Dächer der Bushaltestellen mit Grünflächen bedeckt, um Bienen und Insekten zu schützen und dem urbanen Artensterben dieser entgegenzuwirken. Dies könnte ein kleiner Anfang für Großstädte auf der ganzen Welt sein dem Artensterben einiger Tiere entgegenzuwirken, ohne große Summen auszugeben. Auch ist dies wichtig, da Grünflächen in Großstädten immer öfter zu Bauland werden und somit die letzten Lebensräume einiger Tierarten verschwinden[^5].
 
 Ein komplett anderes Projekt wurde in Schwedens Hauptstadt Stockholm verwirklicht. Nämlich wird am Hauptbahnhof, einem der Knotenverkehrspunkte, Körperwärme durch die Lüftungsanlage abgesaugt, um damit Wassertanks zu erhitzen und umlegende Gebäude zu beheizen. Dies sorgt für Nachhaltige Energieverwendung und führt zugleich zur einer Einsparung von Kosten für Strom[^5].
 
