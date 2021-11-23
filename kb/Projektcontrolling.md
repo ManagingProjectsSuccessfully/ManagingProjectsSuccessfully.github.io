@@ -58,7 +58,9 @@ Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszei
 # Siehe auch
 * [Projektmanagement](Projektmanagement.md)
 * [Projektsteuerung](Projektsteuerung.md)
-* 
+* [Projektumfang](Projektumfang.md)
+* [Erfolgsmessung](Erfolgsmessung.md)
+* [Aufgabenteilung](Aufgabenteilung.md)
 
 # Weiterführende Literatur
 
