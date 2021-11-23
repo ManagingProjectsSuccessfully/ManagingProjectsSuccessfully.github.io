@@ -4,7 +4,7 @@ tags: agil klassisch
 author: christian-anghel
 anrechnung: k
 ---
-Projektmanagement-Tools im klassischen Sinn unterstützen die Projektmanager, Führungskräfte und das Projektteam bei der Durchführung von Projekten in allen Projektphasen von der Entstehung der Projektidee bis Abschluss. In agilen Projekten soll zudem die Unterstützung über alle Iterationen erfolgen und die Kollaboration erleichtern. Eine Projektmanagement Software kombiniert dabei verschiedene Werkzeuge des Projektmanagements unter einem System.
+Projektmanagement-Tools unterstützen die Projektmanager, Führungskräfte und das Projektteam bei der Durchführung von Projekten in allen Projektphasen von der Entstehung der Projektidee bis Abschluss. In agilen Projekten soll zudem die Unterstützung über alle Iterationen erfolgen und die Kollaboration erleichtern. Eine Projektmanagement Software kombiniert dabei verschiedene Werkzeuge des Projektmanagements unter einem System.
 
 
 # Geschichte
