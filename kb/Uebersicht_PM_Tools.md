@@ -37,7 +37,8 @@ deutlich gegenüber Prozessen hervorgehoben. Es ist wichtig unkomplizierte
 Kommunikationskanäle schaffen
 
 
-
+![meistgenutzte PMTool Funktionen](https://user-images.githubusercontent.com/92924821/143053169-32e9cb99-74cf-41f3-bef9-a906c48a4f3d.png)
+*Studie zu den meistgenutzten Funktionen von Projektmanagement-Software für kleine und mittlere Unternhemen*
 
 # Vorteile einer Projektmanagement-Software:
 * Die Organisation des Projektes ist zentralisiert möglich
@@ -48,6 +49,8 @@ Projektdurchführung. Gerade wiederkehrende Aufgaben wie das Projektcontrolling 
 vereinfacht.
 * Das ergebnisorientierte Arbeiten wird durch die Transparenz der Aufgaben verbessert.
 * Unternehmensziele werden durch Projekte schneller erreicht
+
+
 
 
 # Nachteile durch die Unterstützung mit Projektmanagement Tools
