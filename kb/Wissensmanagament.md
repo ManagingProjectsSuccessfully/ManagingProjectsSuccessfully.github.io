@@ -1,6 +1,6 @@
 ---
 title: Wissensmanagament
-tags: agil klassisch
+tags:  klassisch
 author: Lukas1401
 anrechnung: k
 ---
