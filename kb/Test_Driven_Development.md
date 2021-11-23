@@ -5,9 +5,17 @@ author: Ferdi-nand
 anrechnung: k
 ---
 
-Im Kontext der Softwareentwicklung bezeichnet Test Driven Development die Strategie, vor der Entwicklung von Code bereits die Tets dafür zu erstellen und den eigentlichen Code erst danach zu entwickeln.[^1][^2]
+Im Kontext der Softwareentwicklung bezeichnet Test Driven Development die Strategie, vor der Entwicklung von Code bereits die Tests dafür zu erstellen und den eigentlichen Code erst danach zu entwickeln.[^1][^2]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Geschichte
+
+Ursprünglich vorgestellt wurde der Ansatz 2002 von Kent Beck in seinem Buch Test-Driven Development By Example[^3]. 
+
+# Vorgehensweise
+
+TODO
+
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -96,3 +104,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/
 [^2]: [L. Williams, E. M. Maximilien and M. Vouk, "Test-driven development as a defect-reduction practice," 14th International Symposium on Software Reliability Engineering, 2003. ISSRE 2003., 2003, pp. 34-45, doi: 10.1109/ISSRE.2003.1251029.](https://ieeexplore.ieee.org/document/1251029)
+[^3]: http://ce.sharif.edu/courses/99-00/1/ce475-1/resources/root/Books/KentBeck_TestDrivenDevelopmentByExample-2002.pdf
