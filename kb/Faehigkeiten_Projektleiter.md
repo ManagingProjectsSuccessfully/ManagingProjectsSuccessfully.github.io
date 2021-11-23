@@ -104,6 +104,11 @@ Entwicklungen bei digitalen Technologien verändern Verhalten, Produktivität un
 
 Erfahrung in Projektarbeit und Zertifizierung im Projektmanagement sind gute Möglichkeiten, die Fähigkeiten zu vertiefen und zu erweitern. 
 
+Projektleiter Schritt für Schritt entwickeln: Projektteammitarbeiter, (Junior-)Projektleiter, Senior Projektleiter[^2]
+
+Zertifizierungen im Projektmanagement sind ein Signal für Professionalität und Erfahrung. Es dominieren die internationale Projektlandschaft: PMI®, IPMA® und PRINCE2®.[^5] 
+
+
 # Siehe auch
 
 * [10 wichtige Fähigkeiten für effektives Projektmanagement](https://www.projectwizards.net/de/blog/2020/03/pm-skills#prioritization)
@@ -126,4 +131,6 @@ Erfahrung in Projektarbeit und Zertifizierung im Projektmanagement sind gute Mö
 [^3]: [Projektleiter DAA Wirtschaftslexikon](https://media.daa-pm.de/ufv_wirtschaftslexikon/Html/P/Projektleiter.htm)
 
 [^4]: [Fähigkeiten und Eigenschaften, die Projektleiter für den Erfolg benötigen](https://de.itpedia.nl/2021/05/11/skills-and-traits-project-leaders-need-for-success/)
+
+[^5]: [PROJEKTMANAGEMENT-ZERTIFIZIERUNGEN - DIE WICHTIGSTEN ZERTIFIKATE IM ÜBERBLICK](https://www.kayenta.de/training-seminar/artikel/projektmanagement-zertifizierungen-die-wichtigsten-zertifikate-im-ueberblick.html)
 
