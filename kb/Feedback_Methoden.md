@@ -6,7 +6,7 @@ anrechnung: a
 ---
 
 Der Begriff des Feedbacks hat seinen Ursprung in der Kybernetik und bedeutet so viel wie Rückmeldung oder Rückkoppelung. Wenn man Feedback gibt, teilt man seine Wahrnehmung über
-eine Person oder Leistung dieser mit. Es gibt verschiedene Formen des Feedbacks beispielsweise im klassischen oder agilen Projektmanagement.[^1][^2]
+eine Person oder Leistung dieser mit. Es gibt verschiedene Formen des Feedbacks beispielsweise im klassischen oder agilen [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md).[^1][^2]
 Jede einzelne bezeichnet man als Feedbackmethode.
 
 
@@ -15,7 +15,8 @@ Jede einzelne bezeichnet man als Feedbackmethode.
 Die Wahl der passenden Art des Feedbacks hängt von einigen Faktoren ab. Zum einen an wen oder über was Rückmeldung gegeben werden soll oder ob dieses fachlich oder personell
 ist. Zum anderen der Zeitpunkt – falls nötig – die Frequenz der Rückmeldung.[^2][^3]
 Im Prinzip gibt es drei verschiedene Feedbackmethoden: Individuelles, kollaboratives und qualitatives Feedback. Individuelles Feedback gibt Rückmeldung zur Leistung des
-einzelnen Teammitglieds, während kollaboratives das Projektteam und dessen Zusammenspiel als Ganzes bewertet. Am Ende eines Projektes steht vor allem die Einschätzung des
+einzelnen [Teammitglieds](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md), während kollaboratives das
+Projektteam und dessen Zusammenspiel als Ganzes bewertet. Am Ende eines Projektes steht vor allem die Einschätzung des
 finalen Produkts durch den Auftraggeber im Fokus, also das qualitative Feedback.[^6]
 Hierbei gibt es wesentliche Unterschiede zwischen klassischem und agilem Projektmanagement.
 
@@ -40,23 +41,30 @@ Kostenaufwand verbunden.[^3]
 Im Gegensatz zum klassischen Projektmanagement haben die Stakeholder beim agilen Projektmanagement regelmäßig Gelegenheit Feedback einzubringen. So wird nach jeder Iteration 
 bzw. Sprint Rückmeldung vom Kunden eingeholt, welches im nächsten Zyklus umgesetzt werden kann. Diese Methode wird auch als Feedback-Schleife bezeichnet.[^7][^8]
 
-![FeedbackAgil]
+![FeedbackAgil](Feedback_Methoden/FeedbackAgil.png)
 
 *Abbildung 2[^3]*
-# Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Ferner führen die Teams und Teilnehmer eines agilen Projekts nach jeder Iteration eine sog. [Retrospektive](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Retrospective.md), als kollaboratives Feedback, durch. Hierbei wird das
+Zusammenspiel der verschiedenen Mitglieder analysiert und Verbesserungsvorschläge gegeben.[^8]
+Der große Vorteil dieses Feedback-Modells ist, dass durch das regelmäßige qualitative Feedback der Stakeholder, vor allem der Kunden, kaum Gefahr besteht den vorab gestellten
+Anfforderungen nicht gerecht zu werden.[^3] Deswegen wird agiles Projektmanagement häufig für Produkte verwendet, die durch rasante Entwicklung vielen Aänderungen der
+Anforderungsansprüche ausgesetzt sind, wie beispielsweise in der Softwareentwicklung.[^8]
 
+
+# Vergleich der Feedbackmethoden im klassischen und agilen Projektmanagement
+
+Während beim klassischen Projektmanagement vor allem das qualitative Feedback zur Beurteilung des Erfolges eines Projektes herangezogen wird, so wird beim agilen auch noch 
+teilweise das individuelle, aber durch die Retrospektive auch das kollaborative Feedback mit einbezogen. Dadurch und durch die Regelmäßigkeit der Rückkopplung mit den
+verschiedenen Stakeholdern, bietet das agile Projektmanagement ein geringeres Risiko, dass sich ein [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) in eine falsche Richtung zu entwickeln.[^3][^6]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Feedback_Methoden.md)
+* [Feedback_Methoden](Feedback_Methoden.md)
+* [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
+* [Retrospective](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Retrospective.md)
+* [Projektmitarbeiter](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
 
 # Weiterführende Literatur
 
