@@ -10,6 +10,7 @@ anrechnung: a
 *Pomodoro-Timer*
 
 Die Pomodoro-Technik (orig. pomodoro technique von italienisch pomodoro = Tomate und englisch technique = Methode, Technik) ist eine Methode des Zeitmanagements, die von Francesco Cirillo in den 1980er Jahren entwickelt wurde. Das System verwendet einen Kurzzeitwecker, um Arbeit in 25-Minuten-Abschnitte – die sogenannten pomodori – und Pausenzeiten zu unterteilen. Der Name pomodoro stammt von der Küchenuhr, die Cirillo bei seinen ersten Versuchen benutzte.[^1]
+
 Die Methode basiert auf der Idee, dass häufige Pausen die geistige Beweglichkeit verbessern können.
 
 # So funktioniert die Pomodoro-Technik
@@ -79,11 +80,14 @@ Kopf- und Fußzeile geben die Möglichkeit für Notizen, beziehungsweise wann un
 
 # Vorteile und Nachteile 
 Wirkliche Pomodoro-Technik Nachteile gibt es nicht. Sie lässt genügend Flexibilität, die Zeitintervalle und den Tag so einzuteilen, dass es für Sie passt. Dafür sind die Vorteile umso zahlreicher.
-+ Simplizität
++ Simplizität:
+
 Einfacher geht es kaum: Für die die Pomodoro Technik brauchen Sie nur einen Timer, Zettel und Stift.
-+ Impulskontrolle
++ Impulskontrolle:
+
 Die Technik hilft, für die Dauer von 25 Minuten oder länger den Wunsch zu unterdrücken, sich ablenken zu lassen.
-+ Motivation
++ Motivation:
+
 Die regelmäßigen Pausen sorgen nicht nur für neue Energie. Sie geben ebenso einen Motivationskick, weil Sie sich damit für jeden Teilschritt und Teilerfolg belohnen.
 + Selbstdisziplin
 Durch das feste Gerüst der Pomodoro-Intervalle haben lernen Sie, diszipliniert an einer Sache zu arbeiten – ganz gleich, ob es 10, 15 oder 25 Minuten sind.
