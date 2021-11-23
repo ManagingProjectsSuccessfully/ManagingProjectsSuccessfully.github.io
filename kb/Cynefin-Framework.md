@@ -24,7 +24,9 @@ Cynefin beschreibt fünf Problemdomänen, die wie folgt lauten
 * Chaotic,
 * Disorder 
 
-![image](https://user-images.githubusercontent.com/92875736/142939211-2104c2f0-feec-47b6-89a3-04323b451745.png)
+![image](Cynefin-Framework/Cynefin_as_of_1st_June_2014.png)
+
+Cynefin Framework [^6]
 
 Die ersten vier Hauptdomänen sind:
 
@@ -105,4 +107,5 @@ Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, da
 [^3]: [Komplexität im Projektmanagement-Methoden und Fallbeispiele für erfolgreiche Projekte (von Sabrina Lang)](https://link.springer.com/content/pdf/10.1007%2F978-3-658-09972-5.pdf)
 [^4]: [The Cynefin Framework (Cognitive Edge)](https://www.youtube.com/watch?v=N7oz366X0-8)
 [^5]: [Unerwarter Herausforderung in Projekten erfolgreich managen (von Andreas Nachbagauer, etc.)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-60944-6.pdf)
+[^6]: [Cynefin Framework](Cynefin-Framework/Cynefin_as_of_1st_June_2014.png)
 
