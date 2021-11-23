@@ -33,7 +33,7 @@ Mit der Meilensteintrendanalyse können Termine prognostiziert und gesteuert wer
 # Methoden des agilen Projektmanagements
 
 Mit Hilfe von agilem Projektmanamement ist es möglich, sich laufend an verändernde Umstände anzupassen und somit flexibel zu sein und schnell auf bestimmte Situationen zu reagieren.[^10] Gerade die Anpassungsfähigkeit dieser Art des Projektmanagements macht es in der modernen Zeit zu einem sehr beliebtem Instrument.[^7] Dabei ist diese Bezeichnung jedoch eher ein Oberbegriff für die Anwendung verschiedener agiler Vorgehensweisen und Methoden.[^10]
-Backlog-Management, Kanban-Board, Daily Scrum und das Sprint Review sind typische Methoden für das agile Projektmanagement.[^7]
+[Backlog-Management](), [Kanban-Board](Kanban_Boards.md), [Daily Scrum](Daily_Scrum.md) und das [Sprint Review](Sprint_Review.md) sind typische Methoden für das agile Projektmanagement.[^7]
 
 ## Backlog-Management
 ## Kanban-Board
@@ -45,7 +45,7 @@ Daily Scrum bezeichnet ein kurzes tägliches Meeting des Entwicklerteams, welche
 
 
 # Allgemein nutzbare Methoden
-Typische Methoden: Stakeholderanalyse, Risikoanalyse, Business Case, ABC-Analyse, Plan-Ist-Vergleich, Project Canvas, Kommunikationsmatrix[^7]
+Oft genutzte Methoden sind [Stakeholderanalyse](Stakeholderanalyse.md), [Risikoanalyse](Risikoanalyse_und_Visualisierung.md), [Business Case](Business_Cases.md), ABC-Analyse, Plan-Ist-Vergleich, [Project Canvas](Project_Canvas.md) und die Kommunikationsmatrix.[^7]
 
 ## Stakeholderanalyse
 ## Risikoanalyse
