@@ -9,17 +9,6 @@ anrechnung: k
 # Unterschiedliche Rollen im klassischen Projektmanagement
 Für die erfolgreiche Durchführung eines Projektes ist es 
 
-![Bild 1](Rollen_klassisch/Bild_1.png)
-
-*Übersicht über die wichtigsten Rollen im klassischen Projektmanagement*
-
-# Rollen im Einzelprojektmanagement vs im Multiprojektmanagement
-
-
-
- 
-# Aufgabenbereiche und Kompetenzen der einzelnen Rollen
-
 Innerhalb eines Projektes gibt es im klassischen Projektmanagement verschiedene Rollen, die besetzt werden müssen. Dazu gehören:  
 
 * Der Auftraggeber
@@ -29,13 +18,13 @@ Innerhalb eines Projektes gibt es im klassischen Projektmanagement verschiedene 
 * Experten
 * Sponsoren
 
-Diesen kommen unterschiedliche Aufgaben innerhalb eines Projektes zu. Im folgenden werden diese Rollen kurz beschrieben und die ihnen zugeteilten Aufgaben näher erläutert.
-
+[^1] [^2] [^3] [^4] 
 ![Bild 1](Rollen_klassisch/Bild_1.png)
 
-*Übersicht über die wichtigsten Rollen im klassischen Projektmanagement*
+*Übersicht über die wichtigsten Rollen im klassischen Projektmanagement* [^5]
 
-
+# Aufgabenbereiche und Kompetenzen der einzelnen Rollen
+Diesen kommen unterschiedliche Aufgaben innerhalb eines Projektes zu. Im folgenden werden diese Rollen kurz beschrieben und die ihnen zugeteilten Aufgaben näher erläutert.
 
 ## Projektauftraggeber:
 Der Auftraggeber beauftragt das Projekt und stellt formal die Ressourcen bereit. Für interne Projekte ist dies oft der Geschäftsführer oder Vorstand des Unternehmens, bei externen Projekten sind es die Kunden.
@@ -97,12 +86,12 @@ Die Frage wer innerhalb eines Projektes welche Projektrolle einnimmt wird meist 
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Wikipedia-Artikel Projektmanagement](https://de.wikipedia.org/wiki/Projektmanagement)
-[^4]: [Projektrollen diese Stellen müssen besetzt sein](https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/rollen-im-projekt-diese-stellen-muessen-besetzt-sein/)
-[^5]: [Projektmanagement erklärt](https://omr.com/de/projektmanagement/#Welche%20Projektbeteiligten%20bzw.%20Projektrollen%20gibt%20es?)
+[^1]: [Bea, Franz X., Scheurer, Steffen, Hesselmann, Sabine; Projektmanagement, Böhlua Verlag, 2020](https://elibrary.utb.de/doi/book/10.36198/9783838587066) 
+[^2]: [Wikipedia-Artikel Projektmanagement](https://de.wikipedia.org/wiki/Projektmanagement)
+[^3]: [Projektrollen diese Stellen müssen besetzt sein](https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/rollen-im-projekt-diese-stellen-muessen-besetzt-sein/)
+[^4]: [Projektmanagement erklärt](https://omr.com/de/projektmanagement/#Welche%20Projektbeteiligten%20bzw.%20Projektrollen%20gibt%20es?)
+[^5]: [Rollenbeschreibung im Projekt](https://projektmanagement24.de/rollenbeschreibung-im-projekt-als-powerpoint-vorlage-zum-download)
