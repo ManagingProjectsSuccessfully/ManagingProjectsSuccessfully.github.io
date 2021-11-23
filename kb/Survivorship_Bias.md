@@ -5,100 +5,72 @@ author: pu79xube
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Survivorship_Bias um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# Survivorship Bias
 
 
-# Aspekt 1
+## Definition von Survivorship Bias [^1] : 
+Survivorship Bias bezeichnet den Effekt der kognitiven Verzerrung. Dies beschreibt besonders das Phänomen, dass Ergebnisse gewisser Handlungen überschätzt werden. Das Phänomen entsteht besonders dadurch, dass über Erfolge mehr berichtet wird als über Misserfolge. Deshalb wird die kognitive Wahrnehmung dahin gehend verzerrt, dass Personen die Leistungen überschätzen.
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Abbildung der historischen Auswertung[^2]
+<img width="855" alt="Bildschirmfoto 2021-11-23 um 12 10 48" src="https://user-images.githubusercontent.com/93227993/143014236-6b3c0832-7fed-45b0-a8b1-c76a92d459c3.png">
+*Flugzeug mit der punktuellen Auswertung der Einschusslöcher*
 
-![Beispielabbildung](Survivorship_Bias/test-file.jpg)
 
-*lustiges Testbild*
+## Historie:
+Der Begriff stammt aus der zeit des zweiten Weltkriegs. Dort hat die Statstical Research Group (SRG) der Columbia University die Einschusslöcher verschiedener Flugzeuge untersucht. Das Ziel war es die Panzerung zu optimieren. Jedoch hat der Wissenschaftler Abraham Wald festgestellt dass nur Flugzeuge untersucht wurden, die nicht abgestürzt sind. Abgeschossene Flieger wurden nicht untersucht. Deshalb zog er die Schlussfolgerung, dass die bisherigen Untersuchungen zeigten, wo Flugzeuge getroffen werden konnten ohne abzustürzen. Daraus folgt, dass besonders die Stellen, an denen Flugzeuge keine Einschusslöcher haben, besser gepanzert werden sollen. 
 
-# Aspekt 2
+Durch diese Feststellung wird Abraham Wald, das Entdecken des Survivorship Bias zugesagt. 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Mögliche Felder in denen Survivorship Bias vorkommt:
 
-So kann man eine Tabelle erstellen:
+### Es gibt etliche Felder in denen Survivorship Bias vorkommt, welche besonders durch Medienberichte sowie falsche oder fehlende Informationen verzerrt werden. Im folgenden werden einige dieser Felder weiter ausformuliert:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+* Finanzen : 
+Gesellschaften entfernen erfolglose Fonds aus der Bilanz. So werden die Erfolgsbilanzen der Firmen positiv verzerrt. Gerade hier ist der Effekt für "Survivors" gefährlich und birgt große finanzielle Gefahren 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+* Wissenschaft: 
+Medien veröffentlichen meist nur die großen Erfolge. Deshalb werden, die viel häufigeren, Misserfolge und das Scheitern vieler [Forschungsprojekte](https://github.com/pu79xube/ManagingProjectsSuccessfully.github.io/blob/main/kb/Forschungsprojekte.md) nicht wahrgenommen. 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+* Umfragen: 
+Besonders Umfragen bilden häufig eine verzerrte Perspektive ab. Da sich z.B. Stammkunden häufiger für Umfragen melden als Erstkunden. Auch das Unternehmen Netflix ist auf das Problem gestoßen . 
 
-### Ebene-3-Überschrift
+“We want to estimate the conditional probability
+that a subscriber will like a film, given his or her particular viewing
+history, in light of the ratings data from all other subscribers. This will
+allow us to personalize film recommendations for each viewer. But
+much of the data is missing: most subscribers haven't watched most
+films.“ [^3]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+* Medizin:
+Es werden nur Personen aufgenommen, die schon länger eine gewisse Krankheit haben. Personen, die erst die Diagnose erhalten haben oder direkt nach der Diagnose versterben,  werden häufig nicht berücksichtigt. Dadurch verzerrt sich auch hier die Studie in eine „positive Richtung“
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+* Firmengründungen:
+Es wird häufig über wirtschaftliche starke Start-Ups berichtet. So dass in der Gesellschaft der Eindruck erschaffen wird, dass viele Neugründungen ein Erfolg sind. Jedoch ist dies in der Realität, nur ein kleiner Bruchteil. Die [Erfolgsmessung](https://github.com/pu79xube/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md) wird durch den Survivorship Bias auch verzerrt.
+ 
+
+
+# Wie man die kognitive Verzerrung vermeidet : 
+
+Es hilft, wenn die Gesellschaft dahingehend ausgerichtet wird erst jede Möglichkeit in Betracht zu ziehen. So werden vorschnelle Schlüsse vermieden. Sehr wichtig ist es sich zu fragen ob die Kausalitäten zu den Erfolgen führen und ob dies auch reproduzierbar ist. Zudem hilft es, besonders bei großen Erfolgen, zu sehen welche Faktoren ausgelassen wurden. 
 
 
 # Siehe auch
+## Andere Beiträge in Github
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Survivorship_Bias.md)
+* [Erfolgsmessung](https://github.com/pu79xube/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md)
+* [Forschungsprojekte](https://github.com/pu79xube/ManagingProjectsSuccessfully.github.io/blob/main/kb/Forschungsprojekte.md)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
+[^1]: [Definiton ausführlich](https://dorsch.hogrefe.com/stichwort/ueberlebensirrtum/)
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^2]: [Abbildung](https://de.wikipedia.org/wiki/Survivorship_Bias#/media/Datei:Survivorship-bias.svg)
+
+[^3]: [Zitat Netflix AIQ: How artificial intelligence works and how we can harness its power for a better World von Nick Polson, James Scott abgerufen am 23.11 um 10:17](https://books.google.de/books?id=vvkvDwAAQBAJ&pg=PT31&dq=wald+survivorship+bias+armor&hl=de&sa=X&ved=2ahUKEwjIjo6lnNXtAhWIC-wKHT6MAggQuwUwAHoECAMQCg#v=onepage&q&f=false)
+
+
+
 
