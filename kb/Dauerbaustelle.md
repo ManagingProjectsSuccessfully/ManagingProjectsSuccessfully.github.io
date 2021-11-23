@@ -26,6 +26,7 @@ Häufige Rückfragen treten auch dann auf, wenn vor Projektbeginn nicht alle not
 Um all diesen Ursachen vorzubeugen, ist es wichtig dem Projektmanager einen umfangreicher [Methoden](Methoden.md)koffer an die Hand zu gegeben, damit dieser ausreichend definierte Arbeitspakete schnüren und Projektaktivitäten ausreichend beeinflussen und steuern kann.[^5]
 
 ![Beispielabbildung](https://github.com/EuleW/ManagingProjectsSuccessfully.github.io/blob/main/kb/Dauerbaustelle/Magisches%20Dreieck.JPG)
+
 *[Das magische Projektmanagement Dreieck](Magisches_Dreieck.md) visualisiert die untrennbare Verbindung zwischen Output, Zeit und Budget*
 
 # Aspekt 2
