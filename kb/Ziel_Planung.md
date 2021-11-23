@@ -2,7 +2,7 @@
 title: Ziel_Planung
 tags: agil klassisch
 author: emre12345678
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 # 1.	Allgemeines zur Projektplanung im klassischen Projektmanagement:
@@ -46,6 +46,13 @@ Ziele sind stets ein Motivationsfaktor. Deshalb kann es durchaus kontraproduktiv
 Dies bedeutet, dass das Ziel so deutlich wie möglich gesetzt werden sollen, um später nicht darüber diskutieren zu müssen, ob das Ziel erreicht wurde oder nicht.
 
 
+# Inhaltsverzeichnis
+
+* [Allgemeines zu Projektplanung im klassischen Projektmanagement]
+* [Schritte die in der Projektplanung durchlaufen werden]
+* [Projektplanung in der Praxis]
+* [Ziele im klassischen Projektmanagement ]
+* [Zieldefinierung mit der SMART Regel ]
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
