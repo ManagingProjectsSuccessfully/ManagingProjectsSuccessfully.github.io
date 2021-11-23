@@ -67,12 +67,12 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
    - Bei Projektabschluss: Weitergeben der gemachten Erfahrungen
    
 ### 3. Definierte Rollen und Verantwortlichkeiten
-   - Innerhalb einer Organisationsstruktur klar definiert 
-   - Wichtigsten Stakeholder: Unternehmen, Liefersnten, Benutzer
+   - Innerhalb einer Organisationsstruktur klar definierte Rollenverteilung 
+   - Wichtigsten Stakeholder: Unternehmen, Lieferanten, Benutzer
    - Interessen werden jeweils vertreten 
-   - Verteter der geschäftlichen Unternehmensinteressen: Sicherstellung, dass Zielsetzung des Projekts geschäftlich sinnvoll ist
-   - Verteter der Benutzer: Erzielung des angestrebten Nutzens, durch Einsetzen hergestellter Produkte 
-   - Vertreter der Lieferanten: Bereitstellung von Ressourcen und erforderliche Kenntnisse für Herstellung der Produkte 
+   - *Verteter der geschäftlichen Unternehmensinteressen:* Sicherstellung, dass Zielsetzung des Projekts geschäftlich sinnvoll ist
+   - *Verteter der Benutzer:* Erzielung des angestrebten Nutzens, durch Einsetzen hergestellter Produkte 
+   - *Vertreter der Lieferanten* Bereitstellung von Ressourcen und erforderliche Kenntnisse für Herstellung der Produkte 
    
 ### 4. Definierte Phasen 
    - Planung, Überwachung, Steuerung    
