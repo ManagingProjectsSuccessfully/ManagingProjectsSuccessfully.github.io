@@ -9,7 +9,7 @@ Self-management bezeichnet die Fähigkeit unabhängig von anderen und völlig se
 Um es konkreter zu beschreiben, geht es darum, dass man lernt sich eine Übersicht zu schaffen und seine Aufgaben selbstständig einzuteilen und abzuarbeiten, sie zu priorisieren und organisieren zu können und dabei seine Motivation beizubehalten. 
 Im Wesentlichen geht es darum effektiver Entscheidungen treffen zu können und den Prozess zu erleichtern. Vor allem Führungspositionen und Manager wenden diese Kompetenz an, als eine Methode um ihre Produktivität und Leistungsfähigkeiten dauerhaft zu verbessern.
 Self-management wird gerne mit Zeitmanagement verwechselt, jedoch ist das Zeitmanagement lediglich eine Teil Kompetenz die in das Self-management mitwirkt. Self-management umfasst um einige mehr Kompetenzen, die benötigt werden, um es richtig umzusetzen.
-
+![Selbstmanagement](Selbstmanagement-Beispiele-Psychologie-Tools-Methoden-Zeitmanagement-Grafik.jpg)
 # Inhaltsverzeichnis
  [Self-management Methoden](#self-management-methoden)  
 [Pomodoro Methode](#-pomodoro-methode)  
