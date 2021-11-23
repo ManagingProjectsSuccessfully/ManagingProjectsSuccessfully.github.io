@@ -56,7 +56,7 @@ Dieses Zitat von Gero Lomnitz, ein Experte auf dem Gebiet des Projektmanagements
 * [Projektstrukturplan](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektstrukturplan.md)
 * [Projektsteuerung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektsteuerung.md)
 
-# Weiterführende Literatur
+# Weiterführende Literatur 
 
 * [Projekte und Projektmanagement](https://link-1springer-1com-1v0gnf2p0009b.han.ub.fau.de/content/pdf/10.1007%2F978-3-658-30085-2.pdf)
 * [Handbuch für Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-662-57878-0.pdf)
