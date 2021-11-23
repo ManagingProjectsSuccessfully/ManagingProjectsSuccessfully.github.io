@@ -1,5 +1,5 @@
 ---
-title: Tuckmann_Ladder
+title: `Tuckmann Ladder`
 tags: klassisch
 author: ebressel
 anrechnung: k 
@@ -10,13 +10,9 @@ Neue Teams leiden häufig unter Wachstumsschmerzen - die Mitglieder eines Teams 
 kennenzulernen. Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie Teams in verschiedenen Bereichen die gleichen Phasen der
 Gruppenentwicklung durchlaufen. Wenn Sie diese fünf Phasen der Teamentwicklung kennen, können Sie erfolgreiche Teams bilden, die ihr volles Potenzial ausschöpfen.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter 
-
-`Tuckmann Ladder`
 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Tuckman´s-Modell der Gruppenentwicklung - Der Weg zu einem erfolgreichem Team
 
 
 Der Psychologe Bruce Tuckman entwickelte 1965 sein Gruppenentwicklungsmodell, um zu erklären, wie gesunde Teams mit der Zeit zusammenwachsen. In Tuckmans Modell werden fünf
