@@ -10,7 +10,7 @@ Alle Projektaufgaben, von der punktuellen theoretischen Phase direkt bis hin zum
 
 ![Datenmanagement und Projektmanagement](Datenmanagement_im_PM/Picture_1.png)
 
-*Abbildung 1 Schnittpunkte des Datenmanagements und Projektmanagements*
+*Abbildung 1 Schnittpunkte des Datenmanagements und Projektmanagements*[^12]
 
 # 2.	Verwaltung der Projektinformationen bzw. -daten
 
@@ -167,4 +167,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^9]: [Project management information systems](https://portailqualite.acodev.be/fr/system/files/node/342/project_management_information_systems.pdf)
 [^10]: [Data Managemen Modules](https://bluesoft.com/product/data-management-module-dmm/)
 [^11]: [Project Management](https://www.goodreads.com/book/show/42049169-project-management)
-
+[^12]: [Data Management vs. Project Management Venn Diagram](https://www.usgs.gov/media/images/data-management-vs-project-management-venn-diagram)
