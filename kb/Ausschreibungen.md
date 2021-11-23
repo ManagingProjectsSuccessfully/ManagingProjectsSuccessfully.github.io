@@ -33,9 +33,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Ausschreibungen/test-file.jpg)
-
-*lustiges Testbild*
+![Beispielabbildung](Vergabe.jpg)
 
 # Aspekt 2
 
