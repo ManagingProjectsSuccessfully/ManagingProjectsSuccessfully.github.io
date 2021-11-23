@@ -15,7 +15,7 @@ Zu unterscheiden sind Methoden von Methodiken.[^7] Per definitionem ist eine Met
 
 # Methoden des klassischen Projektmanagements
 
-Im klassischen oder auch traditionellen Projektmanagement werden Aktivitäten und Abläufe im Vornherein genau geplant und dokumentiert. Die Projektdurchführung sollte abgesehen von kleinen Änderungen möglichst genau an diesen vorgefertigten Plänen angelehnt sein. Dadurch ergeben sich entsprechende Methoden, die einzelne Elemente des Projektes wie Phasen, Meilensteine und Inhalte festlegen. Typische Methoden sind dabei Netzplantechnik, Meilensteintrendanalyse, Projektstrukturplanung und die Erstellung eines Gantt-Charts.[^7]
+Im klassischen oder auch traditionellen Projektmanagement werden Aktivitäten und Abläufe im Vornherein genau geplant und dokumentiert. Die Projektdurchführung sollte abgesehen von kleinen Änderungen möglichst genau an diesen vorgefertigten Plänen angelehnt sein. Dadurch ergeben sich entsprechende Methoden, die einzelne Elemente des Projektes wie Phasen, Meilensteine und Inhalte festlegen. Typische Methoden sind dabei [Netzplantechnik](Netzplantechnik.md), [Meilensteintrendanalyse](Meilensteintrendanalyse.md), [Projektstrukturplanung](Projektstrukturplan.md) und die Erstellung eines [Gantt-Charts](Gantt_Diagramme.md).[^7]
 
 ## Netzplantechnik
 Die Netzplantechnik dient, meistens als Softwareprogramm, zur Unterstützung der zeitlichen und organisatorischen Planung von Projekten.[^8]
