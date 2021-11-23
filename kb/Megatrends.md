@@ -11,7 +11,7 @@ Megatrends im Projektmanagement sind Veränderungen, mit denen sich ein Projektm
 
 ## 1. Corona-Pandemie
 
-Schon im Jahr 2020 hat sich der Covid-19-Virus angefangen zu verbeiten und veränderte die gesamte Welt. Fast die gesamte Wirtschaft wurde vor große Herausforderungen gestellt. Viele der Unternehmen gingen pleite, aber es gründeten sich auch eine Menge neuer Unternehmen. Die Führungskräfte aller Unternehmen mussten nun entscheiden wie sie ihr Unternehmen aufrechterhalten. Dabei mussten sie oft selten genutzte Technologien nutzen und ausbauen oder sogar neue [Methoden](kb/Methoden.md) entwickeln. Die Manager mussten zum einen ihren Mitarbeiten durch Remote-Work oder Homeoffice den Arbeitsablauf weiterhin ermöglichen. Zum anderen mussten sie aber auch dafür Sorge tragen, dass ihre Mitarbeiter psychisch gesund bleiben. Dies kann mit Hilfe täglich virtuelle Kaffeepausen beispielweie die Teamfähigkeit weiterhin fördern und möglicherweise alleinstehende vor desozialisierung schützen. Doch da dies eine sehr große Aufgabe ist kann der Manager die Mitarbeiter nur unterstützen.
+Schon im Jahr 2020 hat sich der Covid-19-Virus angefangen zu verbeiten und veränderte die gesamte Welt. Fast die gesamte Wirtschaft wurde vor große Herausforderungen gestellt. Viele der Unternehmen gingen pleite, aber es gründeten sich auch eine Menge neuer Unternehmen. Die Führungskräfte aller Unternehmen mussten nun entscheiden wie sie ihr Unternehmen aufrechterhalten. Dabei mussten sie oft selten genutzte Technologien nutzen und ausbauen oder sogar neue [Methoden](Methoden.md) entwickeln. Die Manager mussten zum einen ihren Mitarbeiten durch Remote-Work oder Homeoffice den Arbeitsablauf weiterhin ermöglichen. Zum anderen mussten sie aber auch dafür Sorge tragen, dass ihre Mitarbeiter psychisch gesund bleiben. Dies kann mit Hilfe täglich virtuelle Kaffeepausen beispielweie die Teamfähigkeit weiterhin fördern und möglicherweise alleinstehende vor desozialisierung schützen. Doch da dies eine sehr große Aufgabe ist kann der Manager die Mitarbeiter nur unterstützen.
 
 ## 2. Klimakrise [^2]
 
@@ -32,9 +32,9 @@ In den letzten Jahren hat die Anzahl an Demonstrationen zugenommen. Es wurde vor
 
 Arbeitskräfte in den Schwellen- und Entwicklungsländern sind günstiger als in den Industrieländern. Da Länder, wie Indien, sehr früh in den Dienstleistungssektor der Industrieländer eingestiegen sind, blieb die eigene Industrialisierung auf der Strecke. Um diesen Ländern dabei zu helfen, sind Projekte mit sozialen Auswirkungen wichtig. Organisationen erarbeiten eigene Projekte, wie Brunnenbau und Bewässerung in Schwellenländern und helfen so auf doppelte Weise. Sie schaffen Arbeit und helfen gleichzeitig den Ländern. 
 
-## 5. [Digitalisierung](kb/Digitalisierung_im_PM.md) und Datenmengen [^5]
+## 5. [Digitalisierung](Digitalisierung_im_PM.md) und Datenmengen [^5]
 
-Durch neue Technologien, die Einsetzung von [KI](kb/KI_im_PM.md) fallen immer mehr Daten an. Projektmanager werden vor eine große Herausforderung, da diese Daten auch verwaltet werden müssen.
+Durch neue Technologien, die Einsetzung von [KI](KI_im_PM.md) fallen immer mehr Daten an. Projektmanager werden vor eine große Herausforderung, da diese Daten auch verwaltet werden müssen.
 Dies nimmt viel Zeit in Anspruch, hilft aber andererseits beim Vereinfachen der Projekte.
 
 Um diese ganzen Daten zu speichern, werden immer öfter Clouds verwendet. 
@@ -46,12 +46,12 @@ Folgende Grafik zeigt wie die Datenmengen weltweit wachsen. Die Daten werden hie
 # Siehe auch
 
 * [Link auf diese Seite](Megatrends.md)
-* [Ressourcenplanung](kb/Ressourcenplanung.md)
-* [Action_Points](kb/Action_Points.md)
-* [Cloud_Services](kb/Cloud_Services.md)
-* [Datenmanagement_im_PM](kb/Datenmanagement_im_PM.md)
-* [Entwicklungsprojekte](kb/Entwicklungsprojekte.md)
-* [Remote](kb/Remote_Projekte.md)
+* [Ressourcenplanung](Ressourcenplanung.md)
+* [Action_Points](Action_Points.md)
+* [Cloud_Services](Cloud_Services.md)
+* [Datenmanagement_im_PM](Datenmanagement_im_PM.md)
+* [Entwicklungsprojekte](Entwicklungsprojekte.md)
+* [Remote](Remote_Projekte.md)
 
 
 
