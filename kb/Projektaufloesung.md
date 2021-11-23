@@ -44,7 +44,10 @@ Die Organisation von Abschlussveranstaltungen ist nicht zwingend notwendig, jedo
 # Quellen
 
 [^1]: [Projektabschluss](https://www.arksolutions.de/gs/project/blog/gs-projektabschluss)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^2]: [Auflösung des Projekts,des Projektmanagements,der Projektstrukturen,
+der Projektorganisation.](http://www.begriffe.vpma.de/phasen/phasen_08.html)
+[^3]: [Time to say Goodbye: Projektabbruch in 4 Schritten!](https://www.rolandgareis.com/time-to-say-goodbye-projektabbruch-in-4-schritten/)
+[^4]: [Projektmanagement: Projektabschluss](https://www.ibim.de/projekt/5-5.htm)
+[^5]: [Projektabschluss, Projekteinführung](von Känel, S. (2020). Projektabschluss, Projekteinführung. In Projekte und Projektmanagement (pp. 293-295). Springer Gabler, Wiesbaden.)
+[^6]: [Projektabschluss](Schneider, H., & Marti, A. (2006). Projektabschluss. Krisen vermeiden in IT-Projekten(pp.176-177). Springer Gabler, Wiesbaden.)
+[^7] [Auflösung der Projektorganisation](https://mediencommunity.de/system/files/wbts/projektmanagement/le05/34_auflsung_der_projektorganisation.html)
