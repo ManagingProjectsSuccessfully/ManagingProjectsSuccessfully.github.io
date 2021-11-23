@@ -3,7 +3,8 @@
  tags: agil SAFe Lean Mindset
  author: BeratGuen
  anrechnung: a
- ---
+---
+
  ## Inhaltsverzeichnis
  > - [Definition](SAFe_Lean_Agile_Mindset.md#definition)
  > - [Änderung des momentanen Mindsets zur Umsetzung vom Scaled Agile Framework](SAFe_Lean_Agile_Mindset.md#änderung-des-momentanen-mindsets-zur-umsetzung-vom-scaled-agile-framework)
