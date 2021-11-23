@@ -18,11 +18,11 @@ Ein Beispiel wären Lieferanten oder Kunden. Am wichtigsten sind aber die sogena
 # Analyse
 Hat man diesen Schritt erledigt kann man sich der Analyse der Stakeholder zuwenden. Das Projektmanagement muss sich genauestens überlegen wie die Stakeholder zum Projekt
 stehen, wie viel Einfluss sie auf dieses haben und welche Interessen sie vertreten. In einer Matrix mit den wichtigsten Faktoren Einfluss und Interesse lässt sich dies am 
-besten darstellen. Nachdem man die unerschiedlichen Stakeholder dort eingeordnet ist es leichter das Projekt zu planen und sich auf die Reaktionen der Stakeholder vorzubereiten.[^3]
+besten darstellen. Nachdem man die unerschiedlichen Stakeholder dort eingeordnet hat, ist es leichter das Projekt zu planen und sich auf die Reaktionen der Stakeholder vorzubereiten.[^3]
 ![StakeholderMatrix](https://user-images.githubusercontent.com/92984271/142934621-3e0e289f-0b86-47f0-a6cc-fc8397af9f02.png)
 
 # Planung
-Nach der Identifikation und der Analyse sollte in die Planung übergegangen werden. Hauptsächlich muss die Einbindung der Stakeholder in das Projekt geplant werden. Die 
+Nach der Identifikation und der Analyse sollte in die Planung übergegangen werden. Hauptsächlich muss das Mitwirken der Stakeholder im Projekt geplant werden. Die 
 einzelnen Ziele, Motivationen und Rollen dienen für eine gute Einordnung. Die Planung kombiniert die zuvor erfassten Informationen und Einschätzungen aus der Identifikation 
 und der Analyse.[^3]
 
@@ -36,11 +36,10 @@ Dies ist in den meisten Projekten nicht möglich und führt nur zu Schwierigkeit
 achten und auf diese bestmöglich eingehen, auch wenn das Ergebnis nicht allen Gruppen gerecht wird.[^5]
 
 # Fazit
-Das Ziel des Stakeholdermanagements ist letztendlich die Einbindung der Stakeholder in das Projekt. Die Kommunikation und der Informationsaustausch mit den verschiedenen 
-Gruppen steht hier im Mittelpunkt. So können viele Probleme und Sorgen geklärt werden und das erfolgreiche Ende des Projekts gewährleistet werden. Optimal wäre es wenn alle 
-Bedürfnisse aller Stakeholder befriedigt werden können. Dies ist aber recht unwahrscheinlich da es in einem Projekt immer auch sehr gegensätzliche Stakeholder mit sehr 
-unterschiedlichen Ansprüchen gibt.[^1]
-
+Das Ziel des Stakeholdermanagements ist letztendlich die Einbindung aller relevanten Stakeholder in das Projekt. Die Kommunikation und der Informationsaustausch mit den
+verschiedenen Gruppen steht hier im Mittelpunkt. So können viele Probleme und Sorgen geklärt werden und das erfolgreiche Ende des Projekts gewährleistet werden. Optimal wäre
+es wenn alle Bedürfnisse aller Stakeholder befriedigt werden können. Dies ist aber recht unwahrscheinlich da es in einem Projekt immer auch sehr gegensätzliche Stakeholder 
+mit sehr unterschiedlichen Ansprüchen gibt.[^1]
 
 
 # Siehe auch
