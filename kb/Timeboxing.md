@@ -19,7 +19,7 @@ Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfens
 
 2. Priorisierung dieser Aufgaben
 
-3. Abschätzung der Dauer der Aufagben 
+3. Abschätzung der Dauer der Aufagben
 
 4. Timeboxen setzen und mit Zeitrahmen schriftlich festhalten [^4]
 
