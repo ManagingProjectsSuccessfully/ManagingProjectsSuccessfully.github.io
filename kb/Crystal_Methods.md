@@ -31,7 +31,7 @@ Projekte mit lebensbedrohlichen Risiken hat er absichtlich weggelassen, da er ke
 
 
 
-*lustiges Testbild*
+*Abbildung 1:* *Klassifizierung der Crystal-Projekte*
 
 # 2. Die 7 Prinzipien der Crystal Methoden
 
@@ -73,10 +73,11 @@ Die Methoden zeichnen vor allem sieben gemeinsame und vorherrschende Eigenschaft
 
 # 3. Verschiedene Rollen in Crystal Methods
 
-Unabhängig von der Größe des Projekts existieren ein Sponsor, verschiedene User, der Lead Designer und Designer Programmer. Diese 4 Rollen sollten von unterschiedlichen Persone ausgeführt werden um Verantwortlichkeiten klar abzugrenzen. Je größer das Projekt, desto mehr spezialisierte Rollen können im Team auftauchen. Siehe Abbildung 2.
+Unabhängig von der Größe des Projekts existieren ein Sponsor, verschiedene User, der Lead Designer und Designer Programmer. Diese 4 Rollen sollten von unterschiedlichen Persone ausgeführt werden um Verantwortlichkeiten klar abzugrenzen. Je größer das Projekt, desto mehr spezialisierte Rollen können im Team auftauchen. Siehe Abbildung 2. [^5]
 
 ![Beispielabbildung](Crystal_Methods/Projektrollen.png)
 
+*Abbildung 2:* *Die Rollen in Crystal im Überblick*
 
 
 
