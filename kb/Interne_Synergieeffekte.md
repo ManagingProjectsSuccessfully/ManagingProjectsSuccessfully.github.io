@@ -1,6 +1,6 @@
 ---
 title: Interne_Synergieeffekte
-tags: klassisch
+tags: klassisch synergie m&a kommunikation
 author: GiuliaAng
 anrechnung: k
 ---
