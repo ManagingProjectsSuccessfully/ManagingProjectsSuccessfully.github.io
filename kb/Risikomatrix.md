@@ -50,13 +50,13 @@ Zunächst ist die Aussagekraft der Risikomatrix sehr schwach, da sie nur eine ze
 * Buch zur Risikoanalyse: Risikoanalyse von Claudia Cottin und Sebastian Döhler: "Modellierung, Beurteilung und Management von Risiken mit Praxisbeispielen"
 
 # Quellen
-[^1]: https://t2informatik.de/wissen-kompakt/risikomatrix/ Autor: Unbekannt, Aufgerufen 04.11.2021 12:00 Uhr
+[^1]: [Was ist eine Risikomatrix?](https://t2informatik.de/wissen-kompakt/risikomatrix/) Autor: Unbekannt, Aufgerufen 04.11.2021 12:00 Uhr
 [^2]: Norm Sicherheit von Maschinen - Risikobeurteilung – Teil 2: Praktischer Leitfaden und Verfahrensbeispiele.
 [^3]: Werner Gleißner: Grundlagen des Risikomanagements im Unternehmen. 2. Auflage. Vahlen Verlag, München 2011, S. 145.
 [^4]: Bruno Brühwiler/Frank Romeike: Praxisleitfaden Risikomanagement. Erich Schmidt Verlag, Berlin 2010, ISBN 978-3-503-12476-3, S. 157.
-[^5]: https://www.projektmagazin.de/glossarterm/risikomatrix Autor: Dr. Georg Angermeier, Aufgerufen 03.11.2021 13:30 Uhr 
+[^5]: [Risikomatrix](https://www.projektmagazin.de/glossarterm/risikomatrix) Autor: Dr. Georg Angermeier, Aufgerufen 03.11.2021 13:30 Uhr 
 [^6]: Martin Werdlich (Hrsg.): FMEA - Einführung und Moderation. 2. Auflage. Springer, Vieweg, Wiesbaden 2012, ISBN 978-3-8348-2217-8, S. 147–148.
-[^7]: https://www.microtool.de/wissen-online/was-ist-eine-risikomatrix/ Autor: Unbekannt, Aufgerufen: 03.11.2021 14:00 Uhr
+[^7]: [Risikomatrix. Risiken in einem Diagramm visualisieren.](https://www.microtool.de/wissen-online/was-ist-eine-risikomatrix/) Autor: Unbekannt, Aufgerufen: 03.11.2021 14:00 Uhr
 [^8]: Müller und Arenz: Sichere Lagerung gefährlicher Stoffe: von der Theorie zur Praxis. 6. Auflage. Hüthing Jehle Rehm, Heidelberg, München, Landsberg, Frechen, Hamburg 2011. S. 117
-[^9]: https://project-base.org/projektmanagement-glossar/risikomatrix/ Aufgerufen: 03.11.2021 16:00 Uhr
+[^9]: [Risikomatrix](https://project-base.org/projektmanagement-glossar/risikomatrix/) Autor: Unbekannt, Aufgerufen: 03.11.2021 16:00 Uhr
 [^10]: Marc Diedrichs: Risikomanagement und Risikocontrolling. 3. Auflage. Vahlen Verlag, München 2012, S. 93–95.
