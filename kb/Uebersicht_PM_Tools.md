@@ -39,6 +39,13 @@ Immer wichtiger und auch beliebter werden Tools und Softwarelösungen im Bereich
 In großen Projekten lohnt sich eine eigene Plattform zum Wissenstransfer, und auch eigene oder externe Cloud Speicher können mit Projektmanagement-Tools verknüpft werden.
 Weiterhin können Suchfunktionen und Archivierungsmöglichkeiten sinnvoll sein, um auf alte Dokumente zugreifen zu können.
 
+## Budgetplanung
+
+Bei Projekten ist es wichtig, dass die Kosten proaktiv gesteuert werden können und das Budget eingehalten wird. Ein Projekt ist oft mit anderen Projekt verbunden und hat das Potenzial, die gesamte Kampagne zu beeinflussen. Mit Projektmanagement-Software wird die Budgetverwaltung einfacher und die Ausgaben können besser verfolgt und das Budget schnell eingerichtet werden. Indem man die vorhergesagten Ausgaben mit den tatsächlichen vergleicht kann ein besserer Überblick gewonnen werden
+
+
+
+
 ![meistgenutzte PMTool Funktionen](https://user-images.githubusercontent.com/92924821/143053169-32e9cb99-74cf-41f3-bef9-a906c48a4f3d.png)
 *Studie zu den meistgenutzten Funktionen von Projektmanagement-Software für kleine und mittlere Unternhemen*
 
