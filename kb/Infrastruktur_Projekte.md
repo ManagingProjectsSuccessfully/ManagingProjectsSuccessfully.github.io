@@ -36,6 +36,7 @@ Es stellt sich die Frage, ob es alternative Methoden zum klassischen Projektmana
 Eine Möglichkeit, die Vorteile der klassischen- und agilen Projektmanagement-Methoden zu verbinden ist das hybride Projektmanagement. Hierbei werden die Struktur-Elemente des klassischen Projektmanagements, hinsichtlich Aufbau- und Ablauforganisation, übernommen und um agile Elemente erweitert. Vor allem bei Großprojekten mit verschiedenen Teilprojekten ist der hybride Ansatz vorteilhaft, da die Teilprojekte entsprechend ihrer Bedürfnisse individuell agil und effizienzsteigernd gesteuert werden können. Die klassischen Elemente bringen wiederum Sicherheit und Struktur und so schafft diese Kombination Effizienz bei der [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)- und Durchführung[^4].(Visualisierung hyprides Projektmanagement siehe Abb.1[^11]).
 
 ![image](https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Infrastruktur_Projekte/Grafik_HybridesPM.png)
+Abb.1
 
 
 Da es nicht pauschal eine richtige Lösung gibt, sollte man also für jedes Projekt Faktoren wie Projektgröße, Projektkomplexität, Stakeholder, Projektrisiken und Ressourcenverfügbarkeit analysieren und neu abwiegen, welche Art des Projektmanagements sich besser eignet [^12][^13].
