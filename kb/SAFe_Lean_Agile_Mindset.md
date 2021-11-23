@@ -1,6 +1,6 @@
 ---
 title: SAFe_Lean_Agile_Mindset
-tags: agil klassisch
+tags: agil SAFe Lean Mindset
 author: BeratGuen
 anrechnung: k oder a
 ---
@@ -52,19 +52,19 @@ Darüber hinaus konzentriert sich Lean auf die Identifizierung und Beseitigung v
 Um Flow zu garantieren muss im Unternehmen der Wechsel von einem Start-Stop-Start-Projektmanagementprozess zu einem agilen Produktmanagementansatz, der auf langlebige Entwicklungswertströme ausgerichtet ist, durchgeführt werden.[^1]
 
 ## Säule 3 - Innovation
-Zur Vermeidung der Verschlechterung von Produkt und Prozess wenden Lean-Agile-Leader die folgenden Praktiken an:
+Zur Vermeidung der Verschlechterung von Produkt und Prozess wenden Lean-Agile-Leader die folgenden Praktiken an:[^1]
 
 * Innovation und Unternehmertum in der Belegschaft des Unternehmens einführen und betreuen
 * Zeit und Raum für Kreativität schaffen
-* Prozess der ständigen Erforschung des Marktes und der Kundenbedürfnisse[^1]
+* Prozess der ständigen Erforschung des Marktes und der Kundenbedürfnisse
 
 ## Säule 4 - Unermüdliche Verbesserung
 Ständige Selbstreflexion, Prozessverbesserungen und Gefährdung durch Wettbewerb treibt das Unternehmen dazu, Verbesserungsmöglichkeiten hartnäckig zu verfolgen.
-Dazu müssen folgende Punkte umgesetzt werden: 
+Dazu müssen folgende Punkte umgesetzt werden:[^1]
 * Organisation und Entwicklungsprozesses als Gesamtkonstrukt optimieren
 * Verstärkung der Problemlösungsmentalität im gesamten Unternehmen 
 * Reflexion bei wichtigen Meilensteinen
-* Anwendung von Lean-Tools und Lean-Techniken, um Ineffizienzen durch Gegenmaßnahmen zu beseitigen[^1]
+* Anwendung von Lean-Tools und Lean-Techniken, um Ineffizienzen durch Gegenmaßnahmen zu beseitigen
 
 ## Fundament - Führung 
 Führungskräfte müssen in neuen und innovativen Denkweisen geschult sein und die Grundsätze und Verhaltensweisen der schlanken und agilen Führung anwenden.
@@ -78,12 +78,9 @@ Im Gegensatz dazu sind Manager in Lean Führungspersönlichkeiten, die sich die 
 [Lean Projektmanagement](Lean_Projektmanagement.md)
 
 # Weiterführende Literatur
-[Pfannstiel, Mario A. & Steinhoff, Peter F.-J. (2018): Der Enterprise Transformation Cycle: Theorie, Anwendung, Praxis. Wiesbaden: Springer Gabler](https://link.springer.com/book/10.1007%2F978-3-658-22694-7)
+[Pfannstiel, Mario A. & Steinhoff, Peter F.-J. (2018): Der Enterprise Transformation Cycle: Theorie, Anwendung, Praxis. Wiesbaden: Springer Gabler](https://link.springer.com/book/10.1007%2F978-3-658-22694-7) 
 
 [Pfannstiel, Mario A.; Siedl, Werner & Steinhoff, Peter F.-J. (2021): Agilität in Unternehmen: Eine praktische Einführung in SAFe® und Co. Wiesbaden: Springer Gabler](https://link.springer.com/book/10.1007/978-3-658-31001-1)
-
-
-# 
 
 # Quellen
 
