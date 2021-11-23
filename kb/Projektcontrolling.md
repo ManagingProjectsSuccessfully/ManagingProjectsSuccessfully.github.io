@@ -56,9 +56,9 @@ Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszei
 ### Ampelmethode
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektcontrolling.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projektsteuerung](Projektsteuerung.md)
+* 
 
 # Weiterführende Literatur
 
