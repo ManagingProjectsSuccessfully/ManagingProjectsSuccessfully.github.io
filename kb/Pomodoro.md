@@ -49,16 +49,19 @@ Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
 
 Ein Problem und Kritikpunkt an der Pomodoro Technik sind die 25-Minuten-Einheiten. Welche Aufgabe dauert schon exakt 25 Minuten? Damit die Zeitmanagement-Methode optimal funktioniert, sollten Sie daher folgende Tipps zur Vorbereitung nutzen:
 
-** Aufgaben priorisieren (bold) **
+**Aufgaben priorisieren (bold)**
+**Zeitaufwand schätzen (bold)**
+**Tag einteilen (bold)**
+**Fokussiert bleiben (bold)**
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Beispieltabelle für die Pomodoro-Technik
 
 So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Priorität  | Aufgaben | Zeiteinheiten | +/- | OK |
+| -----------| -------- | ------------- | --- | -- |
+|            |          |               |     |    |
+|            |          |               |     |    |
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
