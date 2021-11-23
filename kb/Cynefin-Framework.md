@@ -6,7 +6,7 @@ anrechnung: a
 ---
 
 Das Cynefin Framework wurde vom britisch walischen Forscher und Berater für Wissensmanagement David Snowden Johnson entwickelt. Das Wort "Cynefin" stammt aus dem walischen und 
-bedeutet so viel wie "Lebensraum", damit wollte Snowden ausdrücken, dass zwischen den Individuen und ihrer Umwelt eine Vielfalt von Wechselwirkungen bestehen.[^1] Diese 
+bedeutet so viel wie "Lebensraum", damit möchte Snowden ausdrücken, dass zwischen den Individuen und ihrer Umwelt eine Vielfalt von Wechselwirkungen bestehen.[^1] Diese 
 Wechselwirkung macht eine vollkommene analytische Beschreibung des realen Systems unmöglich[^1].
 
 Das Modell hat die Aufgabe Probleme, Situationen und Systeme zu beschreiben. Dabei kategorisiert das Model die einzelnen Probleme in sogenannte Problemdomänen, die wiederum 
@@ -49,32 +49,47 @@ Wirkung zu erkennen. Dies hat zu Folge, dass es keine richtige Antwort gibt. Sol
 
 Im "chaotischen" Bereich ist das wichtigste Ziel schnell und agil zu arbeiten, um das Problem zu stabilisieren und in Ordnung zu bringen. Daher lautet auch hierbei der Ansatz beim Vorgehen "Handeln-Erkennen-Reagieren"[^4].
 
-Die fünfte Domäne nennt sich Disorder, der Zustand des Nichts-Wissen, indem man nicht weiß in welcher der Domänen man sich gerade befindet[^5]. Dabei greifen Menschen meist auf 
+Die fünfte Domäne nennt sich Disorder, der Zustand des Nichts-Wissens, indem man nicht weiß in welcher der Domänen man sich gerade befindet[^5]. Dabei greifen Menschen meist auf 
 gewohnte und einfache Problemlösungsmöglichkeiten zurück. Prinzipiell ist das Ziel hierbei mehr Informationen zu sammeln, um anschließend das Problem bzw. die dahinterstehende 
 Herangehensweise einer Domäne zu zuordnen.[^4]
 
 
-# Die complacent Zone 
+# Probleme
 
-* Die Grenze zwischen "obvious" und "chaotic" unterschiedet sich in ihrer Wirkung von den anderen. Die Regel hierbei lautet: Sobald angenommen wird, dass die Probleme bzw. 
+* Die complacent Zone
+
+Die Grenze zwischen "obvious" und "chaotic" unterschiedet sich in ihrer Wirkung von den anderen. Die Regel hierbei lautet: Sobald angenommen wird, dass die Probleme bzw. 
 Situationen einfach und geordnet sind, befindet man sich in der "complacent Zone" und das Ergebnis ist katastrophal. Daher ist es empfehlenswerter an den komplexen und 
 komplizierten Zonen zu managen.[^4]
 
+* Das Prinzip der Roten Königin
+
+
+
 # Anwendung auf Projekte [^1]
 
-| Deming-Cyle          |	Plan	    |  Do       | Check          |	Act       | Beispiele                   | PM Nutzung  |
-|----------------------|------------|-----------|----------------|------------|-----------------------------|-------------|
-| einfache Systeme     | beobachten |	          | kategorisieren | reagieren  | Produktimplementierung      |             |
-| komplizierte Systeme | beobachten |	          | analysieren    | reagieren  | Support-Projekte            |             |
-| komplexe Systeme		 |            | probieren | beobachten	   | reagieren  | Produktentwicklung          |             |
-| chaotische Systeme	 |            | handeln   | beobachten	   | reagieren  | Ausfall von Kerntechnologie |             |
+| Deming-Cyle          |	Plan	    |  Do       | Check          |	Act       | Beispiele                   |
+|----------------------|------------|-----------|----------------|------------|-----------------------------|
+| einfache Systeme     | beobachten |	          | kategorisieren | reagieren  | Produktimplementierung      |     
+| komplizierte Systeme | beobachten |	          | analysieren    | reagieren  | Support-Projekte            |   
+| komplexe Systeme		 |            | probieren | beobachten	   | reagieren  | Produktentwicklung          |                
+| chaotische Systeme	 |            | handeln   | beobachten	   | reagieren  | Ausfall von Kerntechnologie | 
 
-Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework zusammen und zeigt Beispiel Projekte für die einzelnen Domänen auf.
+Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework zusammen und zeigt Beispielprojekte für die einzelnen Domänen auf.
+
+
+# Fazit
+
+"Alle Modelle sind falsch, aber einige nützlich." George Box
+
+Das Cynefin Framework sollte nciht als das Perfekte Modell angesehen werden, um Situationen abschließend zu erklären. Es ist vielmehr eine Hilfestellung um die Ursache, den 
+Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, dass einige Probleme mehrschichtig sein können z.B. sowohl komplex als auch kompliziert.
 
 # Siehe auch
 
 * Projektmanagement.md
 * Wissensmanagament.md
+* Stacey_Matrix.md
 * SCRUM.md
 
 # Weiterführende Literatur
