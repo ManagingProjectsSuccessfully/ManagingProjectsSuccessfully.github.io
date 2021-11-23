@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 Verantwortlichkeit trägt die Bedeutung des Verantwortlichseins und/oder die Verantwortung für eine bestimmte Handlung tragen.[^1]
-In Verbindung mit dem Projektmanagement spielt die Verantwortlichkeit eine entscheidende Rolle.
+In Verbindung mit dem [Projektmanagement](kb/Projektmanagement.md) spielt die Verantwortlichkeit eine entscheidende Rolle.
 
 # Grundlegendes zu Verantwortung
 
