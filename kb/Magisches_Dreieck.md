@@ -8,6 +8,11 @@ anrechnung: k
 Das magische Dreieck ist das Symbol für die drei zentrale Faktoren des Projektmanagements: Zeit, Kosten und Leistung. In der Mitte des Dreiecks befindet sich das Projektziel. Vor Projektbeginn werden alle 3 Größen bestimmt und priorisiert. 
 Während des Projektverlaufs und nach dem Abschluss gilt das magische Dreieck als Orientierung, ob und wie erfolgsversprechend die Planung und Durchführung des Projekts war. [^1]
 
+![Beispielabbildung](Magisches_Dreieck/Bild.jpg)
+
+[Magisches Dreieck Abbildung](https://www.factro.de/wp-content/uploads/2020/05/magisches-dreieck-projektmanagement.png)
+
+
 ## 1.Dimensionen des Magisches Dreiecks
 ### 1.1	Zeitdimension
 Der Parameter Zeit beschreibt relevante Zeitpunkte und Fristen. Neben der zentralen Frage wie viel Zeit das Projekt in Anspruch nehmen soll, spielen auch Zwischentermine und Meilensteine eine wichtige Rolle.[^2]
@@ -28,17 +33,6 @@ Eine weitere Möglichkeit die Projektfrist einzuhalten wäre die Qualität des P
 Diese beiden Größen stehen besonders dann in Konflikt, wenn Probleme bei der Einhaltung der Leistungsdimension bestehen. Dann gilt es abzuwägen, ob man diese Probleme mit einer Kostenerhöhung anpasst und damit die Ziele der Kostendimension in Gefahr bringt oder die Leistung des Produkts und somit auch die Leistungsdimension schmälert.[^3]
 
 Diese Konflikte sind unvermeidbar, entscheidend ist es jedoch sie möglich gering zu halten. Das passiert, indem man die beispielsweise offen kommuniziert, die Erwartung aller Stakeholder zusammenführt und ausbalanciert oder für alle Dimensionen einen Puffer einbaut, damit die Beziehung innerhalb des Dreiecks intakt bleibt, selbst wenn sich unerwartete Veränderungen ergeben.[^2], [^3]
-
-
-
-
-
-
-![Beispielabbildung](Magisches_Dreieck/Bild.jpg)
-
-*lustiges Testbild*
-
-
 
 
 # Siehe auch
