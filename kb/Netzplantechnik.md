@@ -17,14 +17,11 @@ Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt.
 
 In der Ablaufdarstellung mithilfe eines Netzplans existieren verschiedene Darstellungsformen, allerdings bestehen Netzpläne immer aus Vorgängen und Ereignissen. Ein Vorgang beschreibt den Sachverhalt des Projektablaufs mit einem bestimmten Anfang und einem bestimmten Ende. Es ist ein Ablaufelement, welches immer durch eine bestimmte Dauer gekennzeichnet ist, die benötigt wird um den Vorgang auszuführen. Wenn ein Vorgang beginnt oder endet, dann immer mit dem Eintritt eines Ereignisses. Solch ein Ereignis beschreibt lediglich den Eintritt eines bestimmten Zustandes, und verfügt daher über keine Dauer.
 
-[^1]
 
-![Beispielabbildung](Netzplantechnik/Bild 1.jpg)
 
-kb/Netzplantechnik/Bild 1.jpg
-!kb/Netzplantechnik/Bild 1.jpg
+![BILD1](https://user-images.githubusercontent.com/92942732/143136980-598270d2-f11d-471c-b123-d31cfe5c757f.jpg)       ![Abbildung 2 (1)](https://user-images.githubusercontent.com/92942732/143137303-a0aa56e0-2962-4e2a-88be-c13925d9d675.jpg)
 
-*Abbildung.1 Darstellung eines Graphen*     
+*Abb.1 Darstellung eines Graphen (links)* *;* *Abb.2 Darstellung eines vereinfachten Netzplans (rechts)*
 
 ### Arten der Netzplandarstellung
 Für die Darstellung von Projektabläufen mit der In der NPT existieren verschiedene Möglichkeiten um Projektabläufe dazustellen.
@@ -41,11 +38,6 @@ Die Projektplanung mithilfe der Netzplantechnik wird besonders in folgende Schri
 3. Kostenplanung
 4. Kapazitätsplanung
 
-
-![Beispielabbildung](Netzplantechnik/test-file.jpg)
-
-![Beispielabbildung](Netzplantechnik/Bild 1.jpg)
-
 Im Rahmen der Ablaufplanung zerlegt man das Projekt in die einzelnen Vorgänge und identifiziert
 die Anordnungsbeziehungen zwischen diesen Vorgängen.
 Danach folgt mithilfe des Netzplans die strukturelle Darstellung des Projekts. 
@@ -58,7 +50,7 @@ Die Verbindung dieser kritischen Vorgänge ergibt den kritischen Pfad und somit 
 Mittels der Gegenüberstellung angefallener Ist-Kosten mit den ermittelten Plan-Kosten ist es möglich Abweichungen früh genug zu erkennen und dementsprechend zu Handeln. 
 Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen Voraussetzungen für die Durchführung des Projekts geschaffen werden. Dabei wird eine hohe und gleichmäßige Auslastung der vorhandenen Ressourcen angestrebt.
 
-
+# Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Netzplantechnik.md)
@@ -69,11 +61,11 @@ Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen 
 
 # Quellen
 
-[^1]: [NETZPLANTECHNIK: SO GELINGT DIE ERFOLGREICHE PROJEKTPLANUNG ✔] (https://www.kayenta.de/training-seminar/artikel/netzplantechnik-so-gelingt-die-erfolgreiche-projektplanung.html#ce-1142)
-[^2]: [Netzplantechnik](https://www.bwl-lexikon.de/wiki/netzplantechnik/#3-schritt-die-rueckwaertsterminierung)
-[^3]: [Netzplantechnik](https://de.wikipedia.org/wiki/Netzplantechnik#Ziele_der_Netzplantechnik)
-[^4]: [Netzplantechnik](https://www.quality.de/lexikon/netzplantechnik/#Anwendungsempfehlung)
-[^5]: [Was ist ein Netzplan?] (https://t2informatik.de/wissen-kompakt/netzplan/)
+[^]: [NETZPLANTECHNIK: SO GELINGT DIE ERFOLGREICHE PROJEKTPLANUNG ✔] (https://www.kayenta.de/training-seminar/artikel/netzplantechnik-so-gelingt-die-erfolgreiche-projektplanung.html#ce-1142)
+[^]: [Netzplantechnik](https://www.bwl-lexikon.de/wiki/netzplantechnik/#3-schritt-die-rueckwaertsterminierung)
+[^]: [Netzplantechnik](https://de.wikipedia.org/wiki/Netzplantechnik#Ziele_der_Netzplantechnik)
+[^]: [Netzplantechnik](https://www.quality.de/lexikon/netzplantechnik/#Anwendungsempfehlung)
+[^]: [Was ist ein Netzplan?] (https://t2informatik.de/wissen-kompakt/netzplan/)
 [^6]: 
 [^7]:
 [^8]:
