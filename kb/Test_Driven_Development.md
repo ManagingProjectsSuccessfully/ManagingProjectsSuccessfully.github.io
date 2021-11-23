@@ -5,7 +5,7 @@ author: Ferdi-nand
 anrechnung: k
 ---
 
-Im Kontext der Softwareentwicklung bezeichnet Test Driven Development die Strategie, zuerst die Tests für Code zu schreiben und danach mithilfe der Tests den Code zu erstellen.
+Im Kontext der Softwareentwicklung bezeichnet Test Driven Development die Strategie, vor der Entwicklung von Code bereits die Tets dafür zu erstellen und den eigentlichen Code erst danach zu entwickeln.[^1][^2]
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -95,7 +95,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^2]: [L. Williams, E. M. Maximilien and M. Vouk, "Test-driven development as a defect-reduction practice," 14th International Symposium on Software Reliability Engineering, 2003. ISSRE 2003., 2003, pp. 34-45, doi: 10.1109/ISSRE.2003.1251029.](https://ieeexplore.ieee.org/document/1251029)
