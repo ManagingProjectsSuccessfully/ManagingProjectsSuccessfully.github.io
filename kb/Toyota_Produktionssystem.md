@@ -51,7 +51,7 @@ Das letzte Fundament des Hauses ist Heijunka. Heijunka ist eine Methodik zur Ver
 
 # Quellen
 
-[^1]: Frank Bertagnolli: Lean Management - Einführung und Vertiefung in die japanische Management-Philosophie. Springer Gabler, Wiesbaden 2020, [978-3-658-31240-4] (https://www.doi.org/10.1007/978-3-658-31240-4).
+[^1]: Frank Bertagnolli: Lean Management - Einführung und Vertiefung in die japanische Management-Philosophie. Springer Gabler, Wiesbaden 2020, [978-3-658-31240-4](https://www.doi.org/10.1007/978-3-658-31240-4).
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
