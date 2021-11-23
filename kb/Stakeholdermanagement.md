@@ -54,18 +54,9 @@ unterschiedlichen Ansprüchen gibt.[^1]
 
 # Quellen
 
-https://www.peterjohann-consulting.de/stakeholdermanagement-in-projekten/
-
-http://projektmanagement-definitionen.de/glossar/stakeholdermanagement/
-
-https://www.affinis.de/fachartikel/projektmanagement/stakeholdermanagement-vier-schritte-zur-erfolgreichen-strategieplanung/
-
-https://blog.hubspot.de/marketing/stakeholder-management
-
-https://projekte-leicht-gemacht.de/blog/methoden/stakeholder/stakeholder-fallstricke/
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.peterjohann-consulting.de/stakeholdermanagement-in-projekten/
+[^2]: http://projektmanagement-definitionen.de/glossar/stakeholdermanagement/
+[^3]: https://www.affinis.de/fachartikel/projektmanagement/stakeholdermanagement-vier-schritte-zur-erfolgreichen-strategieplanung/
+[^4]: https://blog.hubspot.de/marketing/stakeholder-management
+[^5]: https://projekte-leicht-gemacht.de/blog/methoden/stakeholder/stakeholder-fallstricke/
 
