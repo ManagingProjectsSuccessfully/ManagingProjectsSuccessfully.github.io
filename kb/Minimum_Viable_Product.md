@@ -16,7 +16,7 @@ Ein Minimum Viable Product ist die erste Version eines Produktes beziehungsweise
 
 [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) 
 
-# Aspekt 1
+# Ziele des MVP
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
