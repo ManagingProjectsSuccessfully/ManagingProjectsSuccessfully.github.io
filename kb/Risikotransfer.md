@@ -9,7 +9,7 @@ anrechnung: k
 2. [Verschiedene Methoden des Risikotransfers](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#verschiedene-methoden-des-risikotransfers)  
 3. [Vorteile](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#vorteile)
 4. [Nachteile](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#nachteile)
-5. [Fazit](
+5. [Fazit](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#fazit)
 6. [Siehe auch](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#siehe-auch)
 7. [Weiterführende Literatur](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#weiterf%C3%BChrende-literatur)
 8. [Quellen](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#quellen)
