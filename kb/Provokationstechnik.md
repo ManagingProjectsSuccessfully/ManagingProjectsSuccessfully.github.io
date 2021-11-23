@@ -16,7 +16,7 @@ Für die Findung von Ideen werden Provokationen benutzt, welche das Denken aus d
 Ziel ist es, bezogen auf einen bestimmten Kontext, alte Denkmuster zu überwinden und neue Sichtweisen zu schaffen. 
 In diesem Kontext können Provokationen gezielte Verfälschungen von Fakten oder auch bloße Zufallsbegriffe sein. [^2] 
 
-Aufgrund der Verwechslungsgefahr mit der üblichen Bedeutung des Wortes [Provokation](https://de.wikipedia.org/wiki/Provokation) werden sie auch als *Mentale Provokation* bezeichnet. 
+Aufgrund der Verwechslungsgefahr mit der üblichen Bedeutung des Wortes [Provokation](https://de.wikipedia.org/wiki/Provokation) werden sie auch als *Mentale Provokationen* bezeichnet. 
 Hierbei wird hervorgehoben, dass die Wirkung der Provokation lediglich im Denken stattfindet.
 Provokationen stellen hierbei nie festgelegte Aussagen dar, sondern sollen lediglich der Anregung dienen. 
 
@@ -42,7 +42,7 @@ Als eine Form der [Kreativitätstechniken](https://de.wikipedia.org/wiki/Kreativ
 
 ![movement-technique](https://user-images.githubusercontent.com/92984346/143011134-748857c9-a40e-480c-9b88-bfc51285b270.png)
 
-*Kreislauf der mentalen Provokation*
+*Kreislauf der mentalen Provokation* [^5]
 
 
 
@@ -153,4 +153,5 @@ Am Beispiel Schule könnte dies zum Beispiel sein:
 [^1]: Edward de Bono: Serious Creativity. Die Entwicklung neuer Ideen durch die Kraft lateralen Denkens. Erscheinungsjahr: 1996
 [^2]: Anja Rassek: Provokationstechnik: Kreativ zu neuen Ideen. Erscheinungsjahr: 2020. https://karrierebibel.de/provokationstechnik/ aufgerufen am 22.11.2021
 [^3]: Edward de Bono: Po: Beyond Yes and No. Erscheinungsjahr: 1972
-[^4]: Innovationslabor der Universität Magdeburg: Die Provokationstechnik: Ideenfindung durch Infragestellen von Wissen und Annahmen 
+[^4]: Innovationslabor der Universität Magdeburg: Die Provokationstechnik: Ideenfindung durch Infragestellen von Wissen und Annahmen, o.J. 
+[^5]: Abbildung: o.A, smartvisualideas.com, o.J. https://smartvisualideas.com/tools-and-methods-to-become-more-creative-today/ aufgerufen am 21.11.2021
