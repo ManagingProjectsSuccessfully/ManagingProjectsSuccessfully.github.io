@@ -69,7 +69,7 @@ Takeo Higuchi beabsichtigt die Kreativitätstechnik auch in Zukunft weiterhin nu
 
 ![Beispielabbildung](Ideen_Marathon/GrafikIM.png) [^7]
 
-*Visualierung des Prozesses*
+*Selbsterstellte Grafik zur Visualierung des Prozesses*
 
 
 # Siehe auch
