@@ -81,7 +81,8 @@ Takeo Higuchi beabsichtigt die Kreativitätstechnik auch in Zukunft weiterhin nu
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* K.Ladensack: Kreativität im Management, Management Revue 4. Jahrg., H. 3. (1993)
+* [Kreativität in Projekten – was soll das?](https://www.projektmagazin.de/meilenstein/projektmanagement-blog/kreativitaet-projekten-was-soll-das_1097100)
 
 # Quellen
 
