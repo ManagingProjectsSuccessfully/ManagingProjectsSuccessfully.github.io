@@ -2,94 +2,71 @@
 title: Triple_Bottomline_Nachhaltigkeit
 tags: agil klassisch
 author: JaBa3000
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Triple_Bottomline_Nachhaltigkeit um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Triple Bottom Line ist ein Ansatz für nachhaltiges [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), bei dem der Unternehmenserfolg neben der Ökonomie auf
+zwei weitere Dimensionen, nämlich Ökologie und Soziales beruht. Um nachhaltigen Erfolg zu haben müssen  alle drei Bereiche berücksichtigt werden.[^1]
 
 
-# Aspekt 1
+# Enstehung des Triple Bottom Line Ansatzes
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Der Begriff der Triple Bottom Line wurde vor allem von dem amerikanischen Unternehmensberater John Elkington Mitte der 1990er Jahre geprägt. Er erweiterte damit die Sichtweise
+von Unternehmen, nicht nur wirtschaftliche, sondern auch soziale und ökologische Aspekte gleichzeitig zu berücksichtigen, um langfristig eine erfolgreiche und [nachhaltige 
+Entwicklung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Entwicklung.md) zu erreichen.[^2][^3] 
+Zur gleichen Zeit wurde in Deutschland vom Verband der chemischen Industrie ein ähnliches Modell entwickelt.[^4]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Triple_Bottomline_Nachhaltigkeit/test-file.jpg)
+# Konzept der Triple Bottom Line
 
-*lustiges Testbild*
+Die Triple Bottom Line ist eine Art der Bilanzierung, ähnlich dem unteren Strich – Bottom Line – einer Gewinn-und-Verlust-Rechnung und besteht aus den Leistungsdimensionen
+Wirtschaft, Soziales und Ökologie.[^2][^3] Dabei besteht die Herausforderung die unterschiedlichen Dimensionen einheitlich zu messen, da sie anschließend miteinander verrechnet
+werden.[^2] Das Ziel dabei ist alle drei Bereiche zu berücksichtigen, um unterm Strich ein positives Ergebnis zu erzielen.[^3] Die Triple Bottom Line spiegelt somit den
+Kernpunkt der Nachhaltigkeit wider, durch Messung der Auswirkungen aller Aktivitäten eines Unternehmens auf die Welt.[^2]
+Die Definition von Nachhaltigkeit an der sich das Konzept der Triple Bottom Line orientiert wurde erstmals im Brundtland-Report 1987 beschrieben. Dieser besagt, dass eine
+Entwicklung nachhaltig ist, wenn diese den Bedürfnissen der heutigen Generation entspricht, ohne die Bedürfnisse und Lebensstile folgender Generationen zu gefährden.[^5] 
+Vom Modell der Triple Bottom Line gibt es bzgl. der Umsetzung verschiedene Abwandlungen und Erweiterungen.
 
-# Aspekt 2
+## Drei-Säulen-Modell der Nachhaltigkeit
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Beim klassichen Ansatz, dem Drei-Säulen-Modell der Triple Bottom Line oder manchmal auch als magisches Dreieck dargestellt, werden alle drei Dimensionen als gleich wichtig
+anerkannt.[^8]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+![DreiSäulenModell](Triple_Bottomline_Nachhaltigkeit/DreiSäulenModell.png)
 
-So kann man eine Tabelle erstellen:
+*Abbildung 1[^6]*
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Es erweitert den Aspekt der Nachhaltigkeit von dem ökologischen Bereich auch in die Bereiche Ökonomie und Soziales.[^7] Alle diese Bereiche müssen somit zwingend gleich
+behandelt werden um nachhaltig zu sein. Die Nachhaltigkeit baut also auf der Dreidimensionalität auf und sobald eine davon vernachlässigt wird, kann ein Unternehmen bzw. Projekt
+nicht nachhaltig erfolgreich sein.[^9]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## Vorrangmodell der Nachhaltigkeit
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Im Gegensatz zum Drei-Säulen-Modell wird bei dem Vorrangmodell der Nachhaltigkeit eine Reihenfolge nach Wichtigkeit vorgenommen. An erster Stelle steht Ökologie, danach Soziales
+und abschließend Ökonomie.[^10]
 
-### Ebene-3-Überschrift
+![Vorrangmodell](Triple_Bottomline_Nachhaltigkeit/Vorrangmodell.png)
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+*Abbildung 2[^10]*
 
-# Aspekt n
+Dadurch, dass die Bereiche anderen untergeordnet sind, lässt sich eine Verhaltensmaxime daraus ableiten. So werden soziale Anliegen nur umgesetzt, wenn diese auch einen 
+ökologischen Mehrwert besitzen. Ferner gilt dies auch für wirtschaftliche. So gibt es ohne ökologische Stabilität keine soziale und erst recht keine ökonmoische.[^4][^10]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+
+# Kritik an den Modellen der Triple Bottom Line
+
+Der Hauptkritikpunkt am klassichen Drei-Säulen-Modell ist die sog. schwache Nachhaltigkeit, d.h. die Verschlechterung in einer Dimension wird mit der gleichzeitigen Verbesserung
+in einer anderen verrechnet. Baut man beispielsweise ein Schwimmbad, wo ursprünglich ein See war, so zerstört man das Ökosystem, schafft aber auch sozialen und ökonomischen 
+Nutzen.[^10] Ein weiterer Nachteil dieses Modells ist die nicht vorhandene einheitliche Messbarkeit der drei Bereiche für die Berechnung der Triple Bottom Line.[^2]
+Im Vorrangmodell besteht das Prinzip der starken Nachhaltigkeit. Hier kann eine ökologische Verschlechterung nicht verrechnet werden bzw. kommt nicht zustande, da das 
+ökonomische und soziale Handeln durch ökologische Grenzen eingeschränkt wird.[^10]
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Triple_Bottomline_Nachhaltigkeit.md)
+* [Triple_Bottom_Line_Nachhaltigkeit](Triple_Bottomline_Nachhaltigkeit.md)
+* [Nachhaltige_Entwicklung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Entwicklung.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
 
 # Weiterführende Literatur
 
@@ -97,8 +74,14 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Nachhaltigkeit im Projektmanagement](https://link.springer.com/content/pdf/10.1007/978-3-658-20500-3.pdf)
+[^2]: [The Triple Bottom Line: What Is It and How Does It Work?](http://web.mit.edu/afs.new/athena/course/2/2.813/www/readings/TripleBottomLine.pdf)
+[^3]: [Finanzlexikon HZ: Triple-Bottom-Line](https://www.handelszeitung.ch/finanzlexikon/triple-bottom-line)
+[^4]: [Nachhaltigkeit und Controlling](https://books.google.de/books?id=0r2OFMYRXL0C&pg=PA17&lpg=PA17&dq=VCI+triple+bottom+line&source=bl&ots=ca9bpT38Lc&sig=ACfU3U3NraWaKaB66BIjhwsOWWlHo2kjsA&hl=de&sa=X&ved=2ahUKEwjJjN3Tuov0AhUCif0HHZHWAG0Q6AF6BAgnEAM#v=onepage&q=VCI%20triple%20bottom%20line&f=false)
+[^5]: [Nachhaltige Verwaltungsmodernisierung](https://dopus.uni-speyer.de/frontdoor/deliver/index/docId/493/file/DP-030.pdf)
+[^6]: [Was bedeutet nachhaltig](https://www.finanzadmin.at/2020/was-bedeutet-nachhaltig)
+[^7]: [Wissenschaftliche Dienste des deutschen Bundestags - Der aktuelle Begriff](http://webarchiv.bundestag.de/archive/2008/0506/wissen/analysen/2004/2004_04_06.pdf)
+[^8]: [Was ist eigentlich die Triple-Bottom-Line?](https://lippold.bab-consulting.de/was-ist-eigentlich-die-triple-bottom-line)
+[^9]: [Triple Bottom Line - wirtschaftlich beleuchtet](https://www.alexandria.unisg.ch/17725/1/TripleBottomLine.pdf)
+[^10]: [Nachhaltigkeitsmodelle](https://klimaschutz.neustadt.eu/Ziele-Umsetzung/Klimawandel-Nachhaltigkeit/Nachhaltigkeitsmodelle/)
 
