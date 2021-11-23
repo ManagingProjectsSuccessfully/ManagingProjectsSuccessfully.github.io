@@ -20,7 +20,7 @@ In der Ablaufdarstellung mithilfe eines Netzplans existieren verschiedene Darste
 [^1]
 
 
-![Beispielabbildung](Netzplantechnik/Abbildung 1..JPG) 
+![Beispielabbildung](Netzplantechnik/Bild 1.JPG) 
 
 *Abbildung.1 Darstellung eines Graphen*     
 
