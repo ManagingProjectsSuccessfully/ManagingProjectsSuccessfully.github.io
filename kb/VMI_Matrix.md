@@ -12,7 +12,7 @@ Der Name VMI beschreibt dabei diese Visualisierungsmöglichkeiten, V steht hierb
 Durch die Simplizität bei gleichzeitig leichter Konstruktionsmöglichkeit stellt die VMI-Matrix einen absoluten Klassiker in Bezug auf Projektmanagementinstrumente dar. [^3][^1]
 
 ![Beispielmatrix](VMI_Matrix/VMI_Beispiel.jpg)
-
+*Beispielhafte VMI-Matrix*[^3]
 
 # Erstellung der Matrix
 Bevor die VMI-Matrix erstellt werden kann, ist das Vorliegen eines [Projektstrukturplans](Projektstrukturplan.md) zwingend notwendig, da sich die Arbeitspakete der VMI-Matrix aus dem PSP ableiten. 
