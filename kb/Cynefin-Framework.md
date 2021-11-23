@@ -45,7 +45,7 @@ Wirkung zu erkennen. Dies hat zu Folge, dass es keine richtige Antwort gibt. Sol
 4. Chaotic
 Im "chaotischen" Bereich ist das wichtigste Ziel schnell und agil zu arbeiten, um das Problem zu stabilisieren und in Ordnung zu bringen. Daher lautet auch hierbei der Ansatz beim Vorgehen "Handeln-Erkennen-Reagieren"[^4].
 
-Die fünfte Domäne nennt sich Disorder, der Zustand des Nichts-Wissen, indem man nicht weiß in welcher der Domänen man sich gerade befindet[^4]. Dabei greifen Menschen meist auf 
+Die fünfte Domäne nennt sich Disorder, der Zustand des Nichts-Wissen, indem man nicht weiß in welcher der Domänen man sich gerade befindet[^5]. Dabei greifen Menschen meist auf 
 gewohnte und einfache Problemlösungsmöglichkeiten zurück. Prinzipiell ist das Ziel hierbei mehr Informationen zu sammeln, um anschließend das Problem bzw. die dahinterstehende 
 Herangehensweise einer Domäne zu zuordnen.[^4]
 
@@ -54,7 +54,7 @@ Herangehensweise einer Domäne zu zuordnen.[^4]
 
 * Die Grenze zwischen "obvious" und "chaotic" unterschiedet sich in ihrer Wirkung von den anderen. Die Regle hierbei lautet: Sobald angenommen wird, dass die Probleme bzw. 
 Situationen einfach und geordnet sind, befindet man sich in der "complacent Zone" und das Ergebnis ist katastrophal. Daher ist es empfehlenswerter an den komplexen und 
-komplizierten Zonen zu managen.[^4][^5]
+komplizierten Zonen zu managen.[^4]
 
 # Anwendung auf Projekte [^1]
 
