@@ -30,8 +30,8 @@ Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, so
 
 Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird häufig *Microsoft Excel* benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt, das Register nach Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2] 
 
-Unabhängig von der Größe des Unternehmens sollte sich jeder Projektleiter aufgrund der Individualität des [Stakeholdermanagements](Stakeholdermanagement.md) selbstständig ein eigenes Register anfertigen. Häufig unterscheiden sich die Kategorien der Tabelle, da man von Projekt zu Projekt auf unterschiedliche Sachen Wert legt.
-Allerdings gibt es auch vorgefertigte Entwürfe, an denen man sich orientieren kann bzw. die man übernehmen kann. [^1]
+Unabhängig von der Größe des Unternehmens sollte sich jeder Projektleiter aufgrund der Individualität des [Stakeholdermanagements](Stakeholdermanagement.md) selbstständig ein eigenes Register anfertigen. Häufig unterscheiden sich die Kategorien der Tabelle, da von Projekt zu Projekt auf unterschiedliche Sachen Wert gelegt wird.
+Allerdings gibt es auch vorgefertigte Entwürfe, an denen sich orientiert werden kann bzw. die übernommen werden können. [^1]
 
 ![Beispiel für ein Register](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")  
 
