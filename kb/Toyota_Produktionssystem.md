@@ -9,6 +9,8 @@ Das Toyota Produktionssystem ist ein für Toyota entwickelter Produktionsprozess
 
 <img src="Toyota_Produktionssystem/ToyotaPS.png" alt="Elemente des Toyota Prodkutionssystems" width="600"/>
 Elemente des Toyota Prodkutionssystems
+Abbildung 1: Elemente des Toyota Produktionssystems
+(Eigene Darstellung in Anlehnung an [^1][^2])
 
 # Jidoka
 
