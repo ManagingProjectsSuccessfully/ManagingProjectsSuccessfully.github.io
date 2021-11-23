@@ -50,13 +50,21 @@ Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
 
 Ein Problem und Kritikpunkt an der Pomodoro Technik sind die 25-Minuten-Einheiten. Welche Aufgabe dauert schon exakt 25 Minuten? Damit die Zeitmanagement-Methode optimal funktioniert, sollten Sie daher folgende Tipps zur Vorbereitung nutzen:
 
-**Aufgaben priorisieren**
+* **Aufgaben priorisieren**
 
-**Zeitaufwand schätzen**
+Bevor es losgeht, verschaffen Sie sich einen kurzen Überblick der anstehenden Aufgaben. Notieren Sie sich kurz (!), was alles erledigt werden muss. Danach priorisieren Sie die Aufgaben.
 
-**Tag einteilen**
+* **Zeitaufwand schätzen**
 
-**Fokussiert bleiben**
+Im zweiten Schritt schätzen Sie grob, wie viel Zeit jede der Aufgaben benötigt. Eine grobe Schätzung reicht. Wichtiger ist, dass Sie größere Aufgaben in kurze Intervalle von rund 25 kalkulierten Minuten aufteilen.
+
+* **Tag einteilen**
+
+Da Sie dank Schritt 1 die wichtigsten Aufgaben des Tages kennen und diese nun in kalkulierte Pomidori eingeteilt haben, sollten Sie diese nun in Ihrem Tagesplaner (eine kostenlose Vorlage erhalten Sie HIER) eintragen. Idealerweise planen Sie die Pomodoro-Intervalle am Vorabend oder gleich morgens als erstes.
+
+* **Fokussiert bleiben**
+
+Damit die Pomodoro-Technik funktioniert, müssen Sie diese eine Weile praktizieren und sich an die 25-Minuten-Einheiten gewöhnen. Ob Sie dazu eine Küchenuhr, eine Eieruhr oder das Smartphone nutzen, ist egal. Entscheidender ist, dass in dieser Zeit wirklich konzentriert und fokussiert arbeiten. Sobald der Timer klingelt, gönnen Sie sich eine kurze Verschnaufpause. Ziel ist, den Kopf frei zu bekommen und neue Kraft zu tanken. Weil die Konzentration so oder so nachlässt, ist nach dem vierten Durchgang eine bis zu 30-minütige Auszeit erforderlich.
 
 ## Beispieltabelle für die Pomodoro-Technik
 
