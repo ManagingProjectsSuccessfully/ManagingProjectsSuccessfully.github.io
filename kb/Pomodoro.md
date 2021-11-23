@@ -85,12 +85,11 @@ Die zweite Spalte ist für die Aufgaben reserviert. Sonst nichts.
 
 Jetzt wird es etwas interessanter. In der Spalte „Zeiteinheiten“ sind fünf leere Kästchen. Jedes steht für eine Pomodoro-Einheit. Bei der Planung überlege ich mir vorab, wie groß der Zeitbedarf für eine Aufgabe etwa sein könnte. Gehe ich von drei Pomodori aus, ziehe ich einen Rahmen um drei Kästchen. So kann ich im Nachhinein überprüfen, inwieweit es mir gelungen ist, den Zeitbedarf einzuschätzen. Abweichungen von der Schätzung sind eine Spalte weiter (+/-) einzutragen.
 
-In der letzten Spalte ist zum Abhaken der erledigten Aufgaben.
-
-Kopf- und Fußzeile geben die Möglichkeit für Notizen, beziehungsweise wann und in welchem Kontext gearbeitet wurde.[^2]
+In der letzten Spalte ist zum Abhaken der erledigten Aufgaben.[^2]
 
 # Vorteile und Nachteile 
 Wirkliche Pomodoro-Technik Nachteile gibt es nicht. Sie lässt genügend Flexibilität, die Zeitintervalle und den Tag so einzuteilen, dass es für Sie passt. Dafür sind die Vorteile umso zahlreicher.
+
 + Simplizität:
 
 Einfacher geht es kaum: Für die die Pomodoro Technik brauchen Sie nur einen Timer, Zettel und Stift.
