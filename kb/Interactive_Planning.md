@@ -1,5 +1,6 @@
 ---
 title: Interactive_Planning
+
 tags: agil
 author: Vallejk
 anrechnung: a
@@ -7,10 +8,12 @@ anrechnung: a
 
 Kurzbeschreibung zu Interactive_Approach um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
+
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
+
 
 # Einleitung
 
@@ -88,6 +91,7 @@ Die daraus resultierenden Ergebnisse dienen der nachträglichen Überarbeitung.
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Interactive_Approach.md)
+
 
 # Weiterführende Literatur
 
