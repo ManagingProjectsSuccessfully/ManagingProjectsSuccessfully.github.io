@@ -20,7 +20,7 @@ Lean-Management findet seinen Ursprung in den 50er Jahren im japanischen [Toyota
 
 **Mura** bedeutet Unausgeglichenheit. Es bedeutet, dass Dinge zu verschiedenen Zeiten auf unterschiedliche Weise getan werden. LPM versucht, Mura durch Standardisierung zu überwinden.[^2]
 
-**Muri** bezeichnet Überlastung, Unzumutbarkeit, Stress und all die Folgen, die entstehen, wenn wir Menschen hart arbeiten und mehr leisten müssen, als wir in der zur Verfügung stehenden Zeit schaffen können, aber auch, wenn Maschinen überlastet sind und deshalb ihre Wartungsintervalle versäumt werden und diese schließlich ausfallen.[^2]
+**Muri** bezeichnet Überlastung, Unzumutbarkeit, Stress und all die Folgen, die entstehen, wenn Menschen hart arbeiten und mehr leisten müssen, als wir in der zur Verfügung stehenden Zeit schaffen können, aber auch, wenn Maschinen überlastet sind und deshalb ihre Wartungsintervalle versäumt werden und diese schließlich ausfallen.[^2]
 
 ## 3.	Anwendung im Projektmanagement
 Die Philosophie des Lean, wurde in den 90er Jahren erstmalig als Management-Methode eingeführt.[^3] Anfang der 2000er Jahre begann man schließlich auch damit, diese Grundsätze auf das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) anzuwenden.[^2]
