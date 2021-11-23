@@ -91,14 +91,12 @@ So kann man eine Tabelle erstellen:
 
 ## Hier gleich noch eine Überschrift :-)
 
-# Aspekt n
+# Zusammenfassung
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Mit Hilfe von Scrum@Scale können Unternehmen und Organisationen im eigenen Tempo organisch wachsen und eine vielzahl von Teams, durch die skalenfreie Architektur des Konzeptes, koordinieren.
+Die Konzepte des Frameworks sind gut dokumentiert und im Vergleich zu anderen Frameworks weniger präskriptiv. Daher kann Scrum at Scale im gesamten Unternehmen angewendet werden, wenn Scrum auf Teamebene effektiv eingesetzt wird.
+Bei Anwendung von Scrum@Scale, sollte man sich vor der Skalierung auf Scrum-Praktiken konzentrieren und ein Executive Action Team (EAT) einrichten, das befugt ist, Änderungen vorzunehmen und Hindernisse zu beseitigen.
+
 
 
 # Siehe auch
