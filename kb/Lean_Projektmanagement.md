@@ -27,15 +27,15 @@ Die Philosophie des Lean, wurde in den 90er Jahren erstmalig als Management-Meth
 
 Die fünf Kernprinzipien des Lean Management von Womack und Jones eignen sich für den Übergang vom Lean Management zum Lean Project Management. Das Grundprinzip besteht darin, überflüssige Aktivitäten bzw. Verschwendung zu reduzieren.[^6]
 
-1. Betrachtung des Nutzens aus Sicht des Kunden. Die Produkte werden genau auf die Bedürfnisse des Kunden zugeschnitten, um den größtmöglichen Nutzen aus Kundensicht zu erzielen.4 Der Wert kann die Qualität, der Zeitrahmen oder der Preis der Leistung sein - erfahrungsgemäß ist es aber ein bisschen von allen dreien.[^5]
+**1. Betrachtung des Nutzens aus Sicht des Kunden.** Die Produkte werden genau auf die Bedürfnisse des Kunden zugeschnitten, um den größtmöglichen Nutzen aus Kundensicht zu erzielen.4 Der Wert kann die Qualität, der Zeitrahmen oder der Preis der Leistung sein - erfahrungsgemäß ist es aber ein bisschen von allen dreien.[^5]
 
-2. Identifizierung des Wertstroms. Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produktes erforderlich sind. Das bedeutet, dass eine detaillierte Betrachtung der Prozesse zur Erstellung des Produktes erforderlich ist. Alles was hierfür nicht notwendig ist, ist Verschwendung.[^6]
+**2. Identifizierung des Wertstroms.** Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produktes erforderlich sind. Das bedeutet, dass eine detaillierte Betrachtung der Prozesse zur Erstellung des Produktes erforderlich ist. Alles was hierfür nicht notwendig ist, ist Verschwendung.[^6]
 
-3. Umsetzung des Flussprinzips. Beim Flussprinzip geht es darum, den gesamten Wertstrom zu optimieren und nicht nur einzelne Abschnitte zu betrachten. Der Fokus liegt auf dem Gesamtfluss und den Engpässen innerhalb des Gesamtflusses. Die Aktivitäten des Wertstroms sollen so reibungslos wie möglich ablaufen können.[^6]
+**3. Umsetzung des Flussprinzips.** Beim Flussprinzip geht es darum, den gesamten Wertstrom zu optimieren und nicht nur einzelne Abschnitte zu betrachten. Der Fokus liegt auf dem Gesamtfluss und den Engpässen innerhalb des Gesamtflusses. Die Aktivitäten des Wertstroms sollen so reibungslos wie möglich ablaufen können.[^6]
 
-4. Pull statt Push. Der Kunde "zieht" das Produkt oder die Dienstleistung nach Bedarf aus dem Projekt ab. Mit anderen Worten: Die Verbesserungen aus dem vorherigen Schritt führen zu einer schnelleren Markteinführung. Der Vorteil des Pull-Systems besteht darin, dass keine Lagerhaltung oder Bestandsaufnahme erforderlich ist. Das spart dem Unternehmen Geld, das es dann an seine Kunden weitergeben kann.[^5]
+**4. Pull statt Push.** Der Kunde "zieht" das Produkt oder die Dienstleistung nach Bedarf aus dem Projekt ab. Mit anderen Worten: Die Verbesserungen aus dem vorherigen Schritt führen zu einer schnelleren Markteinführung. Der Vorteil des Pull-Systems besteht darin, dass keine Lagerhaltung oder Bestandsaufnahme erforderlich ist. Das spart dem Unternehmen Geld, das es dann an seine Kunden weitergeben kann.[^5]
 
-5. Perfektion. Das bedeutet, dass Perfektion nicht erreicht werden muss, aber immer angestrebt werden sollte. Hier kommt der Gedanke des kontinuierlichen Verbesserungsprozesses auf, denn es wird immer Formen der Verschwendung und Ansätze zur Verbesserung geben.[^3]
+**5. Perfektion.** Das bedeutet, dass Perfektion nicht erreicht werden muss, aber immer angestrebt werden sollte. Hier kommt der Gedanke des kontinuierlichen Verbesserungsprozesses auf, denn es wird immer Formen der Verschwendung und Ansätze zur Verbesserung geben.[^3]
 
 Bei diesen fünf Kernprinzipien fällt auf, dass nur das erste Kernprinzip eine externe, d.h. kundenorientierte Sichtweise beinhaltet, während die Kernprinzipien zwei bis fünf auf interne Prozesse ausgerichtet sind.[^6]
 
