@@ -38,7 +38,7 @@ Allerdings gibt es auch vorgefertigte Entwürfe, an denen man sich orientieren k
 *Beispiel für ein Register*
 
 
-Im Folgenden sind die gängigsten Kategorien aufgelistet[^1] :
+Im Folgenden sind die gängigsten Kategorien aufgelistet [^1] :
 
 * Name des Stakeholders
 * Art von Stakeholder
@@ -51,7 +51,7 @@ Im Folgenden sind die gängigsten Kategorien aufgelistet[^1] :
 * Bevorzugte Art & Häufigkeit der Kommunikation
 * Strategien
 
-Weitere Leitsätze, die bei der Erstellung des Registers wichtig zu beachten sind[^2] :
+Weitere Leitsätze, die bei der Erstellung des Registers wichtig zu beachten sind [^2] :
 
 * Fragen, die du von deinen Stakeholdern beantwortet haben willst, sollten im Voraus klar sein, *bevor* das Register erstellt wird.
 * Die *Formulierung des Registers* sollte so gestaltet sein, als würde es für die gesamte Welt, besonders für deine Stakeholder, veröffentlicht werden 
