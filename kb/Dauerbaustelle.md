@@ -35,7 +35,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Kritik 
 
 ![Beispielabbildung](Dauerbaustelle/test-file.jpg)
-![https://benjamin-michels.de/wp-content/uploads/2017/12/magisches-projektmanagement-dreieck.jpg]
+![Beispielabbildung](Dauerbaustelle/magisches-projektmanagement-dreieck.jpg)
 
 *lustiges Testbild*
 
