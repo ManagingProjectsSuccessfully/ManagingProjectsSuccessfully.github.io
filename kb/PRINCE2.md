@@ -20,7 +20,7 @@ Im Jahr 2015 wurde das PRINCE2-Framework um das Konzept PRINCE2 Agile ergänzt, 
 
 # Schlüsselelemente von PRINCE2
 
-Die PRINCE2-Methode setzt sich aus vier Grundbausteinen zusammen, auf welche in den folgenden Abschnitten dieses Kompendiums noch genauer eingegangen wird: [^7]
+Die PRINCE2-Methode setzt sich aus vier Grundbausteinen zusammen, auf welche im Rahmen dieses Kompendiums noch genauer eingegangen wird: [^7]
 
 *	Die [7 PRINCE2 Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
 *	Die 7 PRINCE2 Themen
@@ -36,7 +36,7 @@ Daneben definiert PRINCE2 festgelegte Rollen & Verantwortlichkeiten innerhalb de
 Die 7 PRINCE2 Themen (auch als Arbeitsdimensionen zu verstehen) beschreiben die Umsetzung der [7 Grundprinzipien](PRINCE2_7_Grundprinzipien.md) genauer. 
 Jedes der Themen beantwortet eine eigene, wichtige Fragestellung und soll einen erfolgreichen Projektablauf möglichst positiv beeinflussen. Die Themen geben also Hilfestellung, wie ein Projekt anzugehen ist und müssen daher während des Projektablaufs fortlaufend beachtet werden.
 
-1. **Business Case (Warum?):**
+1. [**Business Case**](Business_Cases.md) *(Warum?)*:
 Sicherstellung, dass das Projekt während der gesamten Dauer auf die Ziele der Unternehmung ausgerichtet bleibt und einen Nutzen stiftet (geschäftliche  Rechtfertigung)
 
 
@@ -48,7 +48,7 @@ Festlegung von Rollenverteilung und Verantwortlichkeiten im PRINCE2- Managementt
 Schaffung von Klarheit über die Qualitätsanforderungen -und Maßnahmen, Qualitätskontrolle
 
 
-4. **Pläne** *(Wie und Wann?)*:
+4. [**Pläne**](Projektplanung.md) *(Wie und Wann?)*:
 Entwicklung des Projektplans, Festlegung und Umsetzung der anzuwendenden PRINCE2-Techniken
 
 
@@ -61,10 +61,10 @@ Bewertung und Behandlung offener Punkte, die eventuelle Auswirkungen auf das Pro
 
 
 7. **Fortschritt** *(Wo steht das Projekt?)*:
-Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststellung, Reporting ob und wie das Projekt fortgeführt werden soll
+Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststellung und Reporting ob und wie das Projekt fortgeführt werden soll
 
 
-# Stärken und mögliche Probleme von PRINCE2
+# Stärken und mögliche Probleme von PRINCE2[^9]
 
 ## Stärken:
 
@@ -79,18 +79,18 @@ Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststel
 ## Mögliche Probleme:
 
 *	stark dokumentenorientiert
-*	Ggf. Gefühl von "Machtverlust" bei Projektmanagern, da Rollen und Befugnisse streng festgelegt sind
-*	Sorgfältige Anpassung an Erfordernisse eines Projekts nötig (sonst kann PRINCE2 ein zu aufwendiges Vorgehen für kleine Projekte sein)
-*	Trotz freier Verfügbarkeit oft teure Schulungen notwendig
+*	ggf. Gefühl von "Machtverlust" bei Projektmanagern, da Rollen und Befugnisse streng festgelegt sind
+*	sorgfältige Anpassung an Erfordernisse eines Projekts nötig (sonst kann PRINCE2 ein zu aufwendiges Vorgehen für kleine Projekte sein)
+*	trotz freier Verfügbarkeit oft teure Schulungen notwendig
 
 # 5. Zertifizierung nach PRINCE2
 
-Die [Zertifizierung](Zertifizierungen.md) nach PRINCE2 kann über drei verschiedene aufeinander aufbauende Stufen erreicht werden: 
+Die [Zertifizierung](Zertifizierungen.md) nach PRINCE2 kann über zwei verschiedene aufeinander aufbauende Stufen erreicht werden: 
 
-|  | **Foundation-Prüfung** | **Practitioner-Prüfung**| **Advanced-Practitioner-Prüfung** |
-| ------------- | ------------- | ------------ | ------------- |
-| **Zielgruppe**  | Projektmitarbeiter  | Projektleiter oder Teilprojektleiter | Projektmanagementspezialisten und Senior Projektmanager  |
-| **Inhalte**  | Grundlagenwissen über Themen und Prozesse  | Anpassung und Zuschneiden von Maßnahmen auf spezifisches Projekt | Content Cell  |
+|  | **Foundation-Prüfung** | **Practitioner-Prüfung**|
+| ------------- | ------------- | ------------ |
+| **Zielgruppe**  | Projektmitarbeiter  | Projektleiter oder Teilprojektleiter |
+| **Inhalte**  | Grundlagenwissen über Themen und Prozesse  | Anpassung und Zuschneiden von Maßnahmen auf spezifisches Projekt |
 
 # Siehe auch
 
@@ -111,7 +111,7 @@ Die [Zertifizierung](Zertifizierungen.md) nach PRINCE2 kann über drei verschied
 [^6]: [Axelos - PRINCE2 Agile](https://www.axelos.com/certifications/propath/prince2-agile-project-management)
 [^7]: [MAXPERT](https://www.maxpert.de/de/profil/schulungsspektrum/prince2-methode-definitionen/506)
 [^8]: [qrp](https://www.qrpinternational.ch/blog/glossar/prince2-was-ist-prince2-grundprinzipien-prozesse-themen/)
-
+[^9]: [qrp](https://www.qrp.de/auf-dem-pruefstand-staerken-und-schwaechen-von-prince2)
 
 
 
