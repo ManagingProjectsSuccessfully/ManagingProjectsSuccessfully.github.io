@@ -2,7 +2,7 @@
 title: Kennenlernspiele
 tags: agil klassisch
 author: viktoria110
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Kennenlernspiele um ein erstes Verständnis dafür zu schaffen um was es hier geht.
