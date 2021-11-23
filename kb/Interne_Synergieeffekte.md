@@ -17,9 +17,9 @@ Sinnvoll ist ein solches M&A-Projekt erst dann, wenn es interessante Überschnei
 
 ## Ziele eines M&A-Projektes
 
-![M&A Wortwolke](Interne_Synergieeffekte/mergers-and-acquisitions.jpg)
+![M&A Wortwolke](Interne_Synergieeffekte/mergers-and-acquisitions.jpg)[^3] 
 
-Das Ziel eines M&A-Projektes ist es in einem reifen Markt weiterhin wachsen zu können. Dadurch kann in weitere Regionen expandiert werden oder neue Produkte können besser vermarktet werden. Blockiert wird dies vor der Akquisition durch fehlende Vertriebsstrukturen oder das nötige Know-How, um Innovationen wie die anderen Unternehmen voranzutreiben. Es kristallisieren sich folgende Hauptgründe für eine Akquisition heraus:[^3] 
+Das Ziel eines M&A-Projektes ist es in einem reifen Markt weiterhin wachsen zu können. Dadurch kann in weitere Regionen expandiert werden oder neue Produkte können besser vermarktet werden. Blockiert wird dies vor der Akquisition durch fehlende Vertriebsstrukturen oder das nötige Know-How, um Innovationen wie die anderen Unternehmen voranzutreiben. Es kristallisieren sich folgende Hauptgründe für eine Akquisition heraus:[^4] 
 * Stärkung und Ausweitung des bestehenden Kerngeschäftes
 * Verbessern der Wettbewerbschancen
 * Transfer des nötigen Know-Hows
@@ -37,13 +37,13 @@ Damit aber aus einer Fusion auch ein Mehrwert folgt, müssen diese Synergien her
 
 ## Bekannte M&A-Projekte
 
-Jährlich finden kleine sowie große Fusionen statt, die nicht nur auf regionaler, sondern auch internationaler Ebene stattfinden. Im Jahr 2019 gab es rund 50000 Merges & Aquisitions. [^4]
-Eine der größten Fusionen war die von Google und Android im Jahr 2005. Google ist bekannt für ihre großen M&A-Projekte doch besonders dieser ist herausgestochen, da das Unternehmen Android für circa 50 Billionen Dollar gekauft wurde. Dabei war es zu diesem Zeitpunkt noch ein kleines Startup Unternehmen, welches noch keine Bekanntheit erlangt hat. Das durch Android erlangte Know-How verhalf Google sich in einem von Microsoft und Apple dominiertem Markt zu etablieren. [^4]
+Jährlich finden kleine sowie große Fusionen statt, die nicht nur auf regionaler, sondern auch internationaler Ebene stattfinden. Im Jahr 2019 gab es rund 50000 Merges & Aquisitions. [^5]
+Eine der größten Fusionen war die von Google und Android im Jahr 2005. Google ist bekannt für ihre großen M&A-Projekte doch besonders dieser ist herausgestochen, da das Unternehmen Android für circa 50 Billionen Dollar gekauft wurde. Dabei war es zu diesem Zeitpunkt noch ein kleines Startup Unternehmen, welches noch keine Bekanntheit erlangt hat. Das durch Android erlangte Know-How verhalf Google sich in einem von Microsoft und Apple dominiertem Markt zu etablieren. [^5]
 
 ## Synergien aus Schnittstellenmanagement
 
-Ein weiterer Teilaspekt der internen Synergieeffekte ist es die einzelnen Bereiche eines Unternehmens für ein Projekt mit sinnvollem Schnittstellenmanagement zu koordinieren. Dies ist im speziellen auch bei M&A-Projekten notwendig, um überhaupt einen Mehrwert zu erzielen. Wichtige Informationen durch die gezielte Kommunikation in alle Teilprojekte weiterzugeben kann zu einem Wertzuwachs führen, indem die Wiederverwendbarkeit eines Lösungsansatzes genutzt wird. Das Wissen eines Fachbereiches wird somit Abteilungsübergreifend verwendet und kann auch zu einer neuen Betrachtungsweise führen. [^5]
-Für Schnittstellenmanagement werden sogenannte Project Management Offices aufgestellt, oder auch kurz PMO. Sie sind für die zentrale Steuerung von Projekten verantwortlich. Dadurch gestaltet sich die Kommunikation zwischen den Stakeholdern effizienter. Die Mitarbeiter unterstützen strategisch sowie operativ, um der Qualitätssicherung und effizienteres Arbeiten durch Wissens- und Ressourcenmanagement auszuhelfen. [^5]
+Ein weiterer Teilaspekt der internen Synergieeffekte ist es die einzelnen Bereiche eines Unternehmens für ein Projekt mit sinnvollem Schnittstellenmanagement zu koordinieren. Dies ist im speziellen auch bei M&A-Projekten notwendig, um überhaupt einen Mehrwert zu erzielen. Wichtige Informationen durch die gezielte Kommunikation in alle Teilprojekte weiterzugeben kann zu einem Wertzuwachs führen, indem die Wiederverwendbarkeit eines Lösungsansatzes genutzt wird. Das Wissen eines Fachbereiches wird somit Abteilungsübergreifend verwendet und kann auch zu einer neuen Betrachtungsweise führen. [^6]
+Für Schnittstellenmanagement werden sogenannte Project Management Offices aufgestellt, oder auch kurz PMO. Sie sind für die zentrale Steuerung von Projekten verantwortlich. Dadurch gestaltet sich die Kommunikation zwischen den Stakeholdern effizienter. Die Mitarbeiter unterstützen strategisch sowie operativ, um der Qualitätssicherung und effizienteres Arbeiten durch Wissens- und Ressourcenmanagement auszuhelfen. [^6]
 
 # Siehe auch
 
@@ -61,6 +61,7 @@ Für Schnittstellenmanagement werden sogenannte Project Management Offices aufge
 
 [^1]: [Synergieeffekt](https://www.projektmagazin.de/glossarterm/synergieeffekt#beispiele)
 [^2]: [Synergieeffekte: Grund und zwingende Vorgabe für Fusionen](https://www.umsetzungsberatung.de/pmi-post-merger-integration/synergieeffekte.php)
-[^3]: [Mergers & Aquisition](http://www.wirtschaftslexikon24.com/d/mergers-acquisitions/mergers-acquisitions.htm)
-[^4]: [The 7 biggest Mergers and aquisitions](https://www.globalexpansion.com/blog/the-largest-mergers-and-acquisitions)
-[^5]: [Zentrales Projektmanagement - Alles an einem Ort](https://www.nordantech.com/de/blog/project-management/zentrales-projektmanagement)
+[^3]: [Why Mergers And Acquisitions Take Place](https://www.reacpa.com/why-mergers-and-acquisitions-take-place/)
+[^4]: [Mergers & Aquisition](http://www.wirtschaftslexikon24.com/d/mergers-acquisitions/mergers-acquisitions.htm)
+[^5]: [The 7 biggest Mergers and aquisitions](https://www.globalexpansion.com/blog/the-largest-mergers-and-acquisitions)
+[^6]: [Zentrales Projektmanagement - Alles an einem Ort](https://www.nordantech.com/de/blog/project-management/zentrales-projektmanagement)
