@@ -7,7 +7,7 @@ author: anniSc
 |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | [Projekt](kb/Projekt.md)                                                                                 | [jonaskarg187](https://github.com/jonaskarg187)               |
 | [Projektmanagement](kb/Projektmanagement.md)                                                             | [FCN478](https://github.com/FCN478)                           |
-| [Projektportfoliomanagement](kb/Projektportfoliomanagement.md)                                           | [jy59zadi](https://github.com/jy59zadi)                       |
+| [Projektportfoliomanagement](kb/Projektportfoliomanagement.md)                                           | [TobiasVoigt92](https://github.com/TobiasVoigt92)             |
 | [Programmmanagement](kb/Programmmanagement.md)                                                           | [si18k1](https://github.com/si18k1)                           |
 | [Who_is_Who_Projectmanagement](kb/Who_is_Who_Projectmanagement.md)                                       | [ne88peni](https://github.com/ne88peni)                       |
 | [Zertifizierungen](kb/Zertifizierungen.md)                                                               | [JonasMallwitz](https://github.com/JonasMallwitz)             |
