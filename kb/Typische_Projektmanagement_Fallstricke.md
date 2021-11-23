@@ -8,7 +8,7 @@ anrechnung: k
 Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen Elementen, wie Zeit, Ressourcen und Menschen (siehe: [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ).Um ein erfolgreiches Projekt zu managen, müssen diese Elemente effektiv integriert und verwaltet werden. [^1]
 
 Aufgrund der Komplexität des Projektmanagements können sogenannte ,,Projektmanagement-Stolpersteine“ während des Prozesses auftreten. Auch wenn zum Beginn eines Projekts Optimismus herrschen kann, dass diesmal alles glatt gehen wird, kann man währenddessen überrascht werden, dass alles doch nicht nach dem Plan läuft, wie gewünscht.[^2]
-Im Folgenden werden die typischen Projektmanagement Fallstricken dargestellt und des Weiteren, wie man sie vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu verbessern (Bild.1[^5])
+Im Folgenden werden die typischen Projektmanagement Fallstricken dargestellt und des Weiteren, wie man sie vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu verbessern (siehe Bild.1[^5]).
 
 <p align="center">
   <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Typische_Projektmanagement_Fallstricke/Screenshot%20(127).png"/>
