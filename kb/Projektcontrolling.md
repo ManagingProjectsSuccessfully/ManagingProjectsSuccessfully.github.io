@@ -63,7 +63,7 @@ Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszei
 
 [^2]: [Projektcontrolling](https://refa.de/service/refa-lexikon/projektcontrolling)
 [^3]: [Controlling-Regelkreis](https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/projektcontrolling/)
-[^4]: [https://doi.org/10.1007/978-3-658-23714-1)
+[^4]: (https://doi.org/10.1007/978-3-658-23714-1)
 [^5]: [https://doi.org/10.1007/978-3-658-28032-1)
 [^6]: [https://refa.de/service/refa-lexikon/projektcontrolling)
 [^7]: [https://doi.org/10.1007/978-3-662-52974-4_8)
