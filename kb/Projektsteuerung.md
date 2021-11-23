@@ -143,7 +143,9 @@ Außerdem haben beide Bereiche verschiedene Schwerpunkte. Auf der einen Seite li
 # Was sind die Kennzahlen der Projektsteuerung?
 
 Ein nützlicher Indikator für die Projektsteuerung sind das Cost-Performance-Index (CPI), auf Deutsch Verbraucherindex und der Schedule-Performance-Index (SPI), der die Zeiteffizienz des Teams misst. Beide Kennzahlen werden der Earned Value Analyse entnommen. Diese zwei Indikatoren dienen der Projektsteuerung als „Frühwarnsystem“.  [^4]
-Welche Tools werden zur Projektsteuerung verwendet?
+
+# Welche Tools werden zur Projektsteuerung verwendet?
+
 Durch den eingeschränkten Funktionsumfang, werden zum Großteil kostenpflichte Tools verwendet. Alle Tools sollten einen groben Überblick über den momentanen Stand der Dinge verschaffen. 
 Für die Verwaltung von Projekten mittleren Umfangs, ist Trello ein ideales Programm. Es basiert auf dem Funktionsprinzip von Kanban und erfordert eine geringe Einarbeitungszeit. 
 Auch Jira ist eine beliebte Anwendung, da sie sich auf verschiedenste Kriterien vieler Domänen anpassen lässt. Hier wird die Vorgehensweise des agilen Projektmanagements und von Scrum angewendet. Dabei wird auch eine erleichterte Kommunikation garantiert, indem Mitarbeiter sich austauschen können und um weitere Werkzeuge eingesetzt werden können.  [^5]
