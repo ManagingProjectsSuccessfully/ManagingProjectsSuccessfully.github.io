@@ -3,9 +3,9 @@ title: Roadmap
 tags: agil klassisch
 author: uc00ekun
 anrechnung: k 
----
+--- 
 
-
+# Roadmap
 
 Der in verschiedenen Branchen verbreitete Anglizismus Roadmap bedeutet in der deutschen Übersetzung 
 wörtlich "Straßenkarte"[^1]. In Analogie dazu kann sie einen groben Fahrplan für verschiedene 
@@ -94,13 +94,13 @@ In der nachfolgenden Abbildung ist eine beispielhafte Visualisierung einer Roadm
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Dieter Specht, Stefan Behrens: _Kapitel 8: Strategische Planung mit Roadmaps - Möglichkeiten für das Innovationsmanagement und die Personalbedarfsplanung_. Bremen 2008 (URL: https://link.springer.com/book/10.1007%2F978-3-540-74755-0, zuletzt aufgerufen am 23.11.2021)
+* Siegfried Behrendt: _Integriertes Roadmapping_. Berlin 2010 (URL: https://link.springer.com/book/10.1007%2F978-3-642-10754-2, zuletzt aufgerufen am 19.11.2021)
 
 # Quellen
 
-[^1]: Dudenredaktion, URL: https://www.duden.de/rechtschreibung/Roadmap (zuletzt abgerufen am 19.11.2021)
-[^2]: Siegfried Behrendt, Integriertes Roadmapping (Berlin 2010)
-[^3]: Oliver Gassmann und Philipp Sutter, Praxiswissen Innovationsmanagement (München, 2013)
-[^4]: Dieter Specht und Christian Mieke, Projekt-Roadmapping (Zeitschrift für wirtschaftlichen Fabrikbetrieb, 24. Februar 2004)
-
+[^1]: Dudenredaktion, o.D. (URL: https://www.duden.de/rechtschreibung/Roadmap, zuletzt abgerufen am 19.11.2021)
+[^2]: Siegfried Behrendt: _Integriertes Roadmapping_. Springer-Verlag, Berlin 2010, ISBN 978-3-64210-7535-5 (URL:https://link.springer.com/book/10.1007%2F978-3-642-10754-2, zuletzt aufgerufen am 19.11.2021) 
+[^3]: Oliver Gassmann, Philipp Sutter: _Praxiswissen Innovationsmanagement_. Hanser-Verlag, München 2013, ISBN 978-3-44643-513-1 (URL: https://www.hanser-elibrary.com/doi/book/10.3139/9783446435131, zuletzt aufgerufen am 19.11.2021)
+[^4]: Dieter Specht, Christian Mieke: _Projekt-Roadmapping_. Zeitschrift für wirtschaftlichen Fabrikbetrieb, 24. Februar 2004, ISSN 0947-0085 , 2511-0896 , 0947-0085 (URL: https://www.degruyter.com/journal/key/zwf/html, zuletzt aufgerufen am 19.11.2021)
 
