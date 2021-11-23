@@ -35,10 +35,6 @@ Team noch nicht festgelegt sind, übernimmt der Teamleiter oft die Führung und 
 Teammitglieder über Teamziele, Grundregeln und individuelle Rollen diskutieren. 
 
 ![stages_of_team_development_in_relation_to_the_team_effectiveness](https://user-images.githubusercontent.com/92668932/143008033-45f63bf0-dc55-45c9-9605-eefe37d484e2.png)
-
-
-![Beispielabbildung](Tuckmann_Ladder/test-file.jpg)
-
 *Tuckman´s stages of team development in relation to the team effectiveness*
 
 # Storming
@@ -57,7 +53,7 @@ So kann man eine Tabelle erstellen:
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Allgemeine Feststellungen | Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende | Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen | Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
 | Prozessbezogene Probleme | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
-| Gefühlsbezogene Fragen | Die Menschen fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
+| Gefühlsbezogene Fragen | Die Menschen fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen fühlen sich noch unsicher und versuchen, ihre Individualität zum Ausdruck zu bringen. Es entstehen Bedenken hinsichtlich der Teamhierarchie | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
