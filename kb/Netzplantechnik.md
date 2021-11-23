@@ -13,7 +13,7 @@ Die Netzplantechnik ist ein wichtiges Instrument für die Planung und Steuerung 
 
 Zum Verständnis der Methodik der Netzplantechnik, ist es zunächst notwendig, grundlegende Begriffe zu erklären und die Elemente von Netzplänen deutlich zu machen. Unter einem Graphen im Sinne der Netzplantechnik versteht man eine Menge von Knoten, die durch eine Menge von Kanten einander zugeordnet sind. Einen solchen Graphen zeigt Abb. 1.
 Wird hierauf aufbauend einer Kante durch einen Pfeil eine Richtung gegeben und werden zwei Knoten miteinander verbunden, entsteht ein sogenannter Diagraph.
-Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt. In der Ablaufdarstellung mithilfe eines Netzplans existieren verschiedene Darstellungsformen, allerdings bestehen Netzpläne immer aus Vorgängen und Ereignissen. Ein Vorgang beschreibt den Sachverhalt des Projektablaufs mit einem bestimmten Anfang und einem bestimmten Ende. Es ist ein Ablaufelement, welches immer durch eine bestimmte Dauer gekennzeichnet ist, die benötigt wird um den Vorgang auszuführen. Wenn ein Vorgang beginnt oder endet, dann immer mit dem Eintritt eines Ereignisses. Solch ein Ereignis beschreibt lediglich den Eintritt eines bestimmten Zustandes, und verfügt daher über keine Dauer.[^1] [^4]
+Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt. In der Ablaufdarstellung mithilfe eines Netzplans existieren verschiedene Darstellungsformen, allerdings bestehen Netzpläne immer aus Vorgängen und Ereignissen. Ein Vorgang beschreibt den Sachverhalt des Projektablaufs mit einem bestimmten Anfang und einem bestimmten Ende. Es ist ein Ablaufelement, welches immer durch eine bestimmte Dauer gekennzeichnet ist, die benötigt wird um den Vorgang auszuführen. Wenn ein Vorgang beginnt oder endet, dann immer mit dem Eintritt eines Ereignisses. Solch ein Ereignis beschreibt lediglich den Eintritt eines bestimmten Zustandes, und verfügt daher über keine Dauer.[^1]
 
 ![BILD1](https://user-images.githubusercontent.com/92942732/143136980-598270d2-f11d-471c-b123-d31cfe5c757f.jpg)   
 
@@ -25,7 +25,7 @@ Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt. In der Ablauf
 
 ### Arten der Netzplandarstellung
 Für die Darstellung von Projektabläufen mit der In der NPT existieren verschiedene Möglichkeiten um Projektabläufe dazustellen.
-Bei der Ablaufdarstellung  von Projektabläufen mithilfe der  Netzplantechnik gibt es drei Grundarten von Netzplänen. Diese bezeichnet man als Ereignisknoten-, Vorgangspfeil- und Vorgangsknoten-Netzplan [3^] .
+Bei der Ablaufdarstellung  von Projektabläufen mithilfe der  Netzplantechnik gibt es drei Grundarten von Netzplänen. Diese bezeichnet man als Ereignisknoten-, Vorgangspfeil- und Vorgangsknoten-Netzplan[^3] .
 Grundsätzlich sind zwischen diesen Netzplandarstellungen auch Mischformen möglich. Bei diesen gemischtorientierten Netzplänen werden allerdings im Vergleich zu den nichtgemischten Netzplänen dennoch Vorgänge als auch Ereignisse abgebildet.[^1]
 
 
