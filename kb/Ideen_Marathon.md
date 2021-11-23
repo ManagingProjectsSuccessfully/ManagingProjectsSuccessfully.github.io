@@ -67,7 +67,7 @@ Takeo Higuchi beabsichtigt die Kreativitätstechnik auch in Zukunft weiterhin nu
 
 
 
-![Beispielabbildung](Ideen_Marathon/GrafikIM.png)
+![Beispielabbildung](Ideen_Marathon/GrafikIM.png) [^7]
 
 *Visualierung des Prozesses*
 
@@ -88,5 +88,6 @@ Takeo Higuchi beabsichtigt die Kreativitätstechnik auch in Zukunft weiterhin nu
 [^4]: [Warum Kreativität so wichtig für den Projekterfolg ist](https://projekte-leicht-gemacht.de/blog/softskills/kreativitaet/kreativitaet-projektmanagement/)
 [^5]: [Ideen-Marathon](https://www.deinlexikon.de/wiki/Ideen-Marathon)
 [^6]: [Ideen_Marathon](https://de.wikipedia.org/wiki/Ideen-Marathon)
+[^7]: [Bild](https://de.wikipedia.org/wiki/Ideen-Marathon)
 
 
