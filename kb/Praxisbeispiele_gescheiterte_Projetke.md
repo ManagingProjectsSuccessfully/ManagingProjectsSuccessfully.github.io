@@ -18,16 +18,20 @@ Tagtäglich kommt man mehrmals indirekt oder direkt mit Projekten oder deren Erg
 
 3 Zahlen, Daten & Fakten
 
-4 Quellen
+4 Siehe auch
+  
+5 Weiterführende Literatur
+
+6 Quellen
 
 
-# 1 Definitionen
+# Definitionen
 
-## 1.1 Projekt
+## Projekt
 
 Für den Begriff „Projekt“ gibt es viele verschiedene Definitionen. Betrachtet man die einzelnen Definitionen und bringt diese auf einen Punkt, so zeichnet sich ein Projekt durch eine klare Zielvorgabe, einschränkende Rahmenbedingungen, zeitliche Befristung, eine temporäre Projektorganisation, Einmaligkeit bzw. Neuartigkeit und Komplexität aus.[^1] 
 
-## 1.2 Gescheitertes Projekt – Kriterien 
+## Gescheitertes Projekt – Kriterien 
 
 Ein Projekt gilt als nicht erfüllt, wenn
 * Es die Projektanforderungen nicht erfüllt: Das eigentliche Ziel ist hinfällig geworden oder kann nicht mehr erreicht werden.
@@ -38,7 +42,7 @@ Ein Projekt gilt als nicht erfüllt, wenn
 
 Ein Projekt kann also fertiggestellt werden und trotzdem scheitern. Darüber hinaus gibt es noch weitere Gründe, welche gegen die Projektdefinition verstoßen können.[^2] 
 
-# 2 Gescheiterte Projekte
+# Gescheiterte Projekte
 
 ## Flughafen Berlin Brandenburg
 
@@ -53,7 +57,7 @@ Der Flughafen BER ist das wohl mit bekannteste Gescheiterte Projekt in Deutschla
 * 2013 ergab eine Prüfung 14.750 bauliche Brandschutzmängel.
 * 2014 gab es 1.300 falsche Raumnummern (ca. ein Drittel aller Räume).
 * Bereits 2013 bemängelte der TÜV 70% aller verlegten Kabel.
-* Bisher hat das Projekt BER den Steuerzahle deutlich mehr als sechs Milliarden Euro gekostet und damit mehr als das dreifache der ursprünglich geplanten Summe.[^4]
+* Bisher hat das Projekt BER den Steuerzahler deutlich mehr als sechs Milliarden Euro gekostet und damit mehr als das dreifache der ursprünglich geplanten Summe.[^4]
 
 ## Die Elbphilharmonie
 
@@ -61,13 +65,13 @@ Die Elbphilharmonie sollte ursprünglich 2010 eröffnet werden und insgesamt 77 
 
 ## Stadtautobahn Boston 
 
-Plan des Bauvorhabens „The Big Dig“ („Das große Graben“) war es, die Stadtautobahn Bostons auf einer Strecke von 5,6 Kilometern unterirdisch in einen Tunnel zu verlegen. Das teuerste US-Straßenbauprojekt wurde letztlich 2007 fertiggestellt, mit neun Jahren Verspätung und einer Kostenexplosion von ursprünglichen 2,8 Milliarden auf 14,8 Milliarden Dollar.[^5] 
+ Plan des Bauvorhabens „The Big Dig“ („Das große Graben“) war es, die Stadtautobahn Bostons auf einer Strecke von 5,6 Kilometern unterirdisch in einen Tunnel zu verlegen. Das teuerste US-Straßenbauprojekt wurde letztlich 2007 fertiggestellt, mit neun Jahren Verspätung und einer Kostenexplosion von ursprünglichen 2,8 Milliarden auf 14,8 Milliarden Dollar.[^5] 
 
 ## Stuttgart 21
 
 Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projektvorstellung 1994 bis heute an. Die Eröffnung wäre nach ursprünglichen Plänen 2008 gewesen und wurde auf 2025 verschoben.[^6] Doch es gibt bereits Zweifel, ob dieses Ziel erreichbar sein wird. Ebenso haben sich die geplanten Kosten von ursprünglich 2,5 Milliarden auf über 8 Milliarden Euro vervielfacht.[^7]
 
-# 3 Zahlen, Daten & Fakten
+# Zahlen, Daten & Fakten
 
 * Weltweit verschwenden Organisationen alle 20 Sekunden ca. 1 Million US-Dollar durch schlechtes Projektmanagement. 
 * Eine Analyse von 1471 IT-Projekten ergab, dass die Istkosten durchschnittlich 27% über den Sollkosten lagen und 70% das zeitliche Ziel nicht einhalten konnten.
