@@ -69,9 +69,9 @@ Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework z
 
 # Siehe auch
 
-* Projektmanagement.md
-* Wissensmanagament.md
-* SCRUM.md
+* /Projektmanagement.md
+* /Wissensmanagament.md
+* /SCRUM.md
 
 # Weiterführende Literatur
 
