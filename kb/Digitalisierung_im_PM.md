@@ -44,7 +44,7 @@ Bei einer großen Anzahl an Projekten kann zudem der Überblick schnell verloren
 
 Ebenfalls werden neue Kompetenzprofile von den Projektleitern und allen weiteren Teammitgliedern notwendig. Dazu gehören einerseits fachliche Qualifikationen, aber auch Flexibilität und kommunikative Fähigkeiten.[^5] 
 
-Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes, effizientes und flexibles Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.
+Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes, effizientes und flexibles Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.[^8]
 
 
 ![DIHK](https://github.com/Viktoria1412/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM/grafik-herausforderungen-digitalisierungsumfrage-21-data.png)
@@ -72,3 +72,4 @@ Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Strukt
 [^5]: https://www.arksolutions.de/themen/digitalisierung-im-projektmanagement/
 [^6]: https://executiveacademy.at/de/news/detail/die-kunst-des-digitalen-projektmanagements
 [^7]: https://smallbiztrends.com/2021/06/digital-transformation-project-management.html
+[^8]: https://www.dihk.de/de/themen-und-positionen/wirtschaft-digital/digitalisierung/dihk-umfrage-wie-digital-ist-die-deutsche-wirtschaft--35408
