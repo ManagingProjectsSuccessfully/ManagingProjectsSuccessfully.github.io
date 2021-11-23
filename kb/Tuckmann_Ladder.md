@@ -1,10 +1,11 @@
 ---
-title: `Tuckmann Ladder`
+title: Tuckmann_Ladder
 tags: klassisch
 author: ebressel
 anrechnung: k 
 ---
 
+`Tuckmann Ladder`
 
 Neue Teams leiden häufig unter Wachstumsschmerzen - die Mitglieder eines Teams können nicht effizient zusammenarbeiten, wenn sie keine Zeit haben, sich gegenseitig
 kennenzulernen. Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie Teams in verschiedenen Bereichen die gleichen Phasen der
