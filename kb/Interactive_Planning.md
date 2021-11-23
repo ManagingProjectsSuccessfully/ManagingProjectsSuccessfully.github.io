@@ -92,7 +92,7 @@ Die daraus resultierenden Ergebnisse dienen der nachträglichen Überarbeitung[^
 
 # Quellen
 
-[^1]: [Ackoff, R. L., 2001, A Brief Guide to Interactive Planning and Idealized Design] (https://www.ida.liu.se/~steho87/und/htdd01/AckoffGuidetoIdealizedRedesign.pdf)
+[^1]: [Ackoff, R. L., 2001, A Brief Guide to Interactive Planning and Idealized Design](https://www.ida.liu.se/~steho87/und/htdd01/AckoffGuidetoIdealizedRedesign.pdf)
 [^2]: [Interactive Planning](https://en.wikipedia.org/wiki/Interactive_planning), abgerufen am 18.11.2021
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
