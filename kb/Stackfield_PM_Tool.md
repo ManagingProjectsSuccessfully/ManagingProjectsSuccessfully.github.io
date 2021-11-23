@@ -5,17 +5,12 @@ author: YSmithers46
 anrechnung: a
 ---
 
-(Kurzbeschreibung zu Stackfield_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.)
-Stackfield ist ein Projektmanagement-Tool der Stackfield GmbH.
-Die Software kombiniert Funktionen, die die Zusammenarbeit im Team erleichtert und somit die Produktivität der Mitarbeiter steigern kann
+Stackfield ist ein Projektmanagement-Tool der Stackfield GmbH, die in München ansässig ist.
+Die Software kombiniert einige Funktionen in einer Anwendung. Bei der Kommunikation zwischen Team-Mitgliedern angefangen, über Dateien die in der Anwendung abgelegt werden können, bis hin zur Übersicht der anstehenden Aufgaben[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Stackfield
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Die Anmeldung bei Stackfield verlief reibungslos. In wenigen Schritten ist es möglich ein eigenes Projekt anzulegen
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -99,6 +94,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
+[^1]: https://www.stackfield.com/de/tour
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
