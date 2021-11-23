@@ -57,7 +57,7 @@ Wir unterscheiden die folgenden primären bzw. sekundären Module.[^11] In der f
 
 Alle Module des Informationssystems sind bis zu einem gewissen Grad integriert, insbesondere die primären Module. (siehe Abbildung – Interaktion der primären Module).[^12] Normalerweise produziert jedes Modul Informationen, die von anderen Modulen genutzt werden; nutzt die Informationen, die von anderen Modulen erzeugt werden; oder auch beides parallel. In diesem Sinne ist die Verbindung dieser Module des Informationssystems zu einem koordinierten PMIS von sehr großer Bedeutung für ein leistungsfähiges[ Projektmanagement](Projektmanagement.md).
 
-![Primäre Module in PM](Datenmanagement_im_PM/Picture_2.jpg)
+![Primäre Module in PM](Datenmanagement_im_PM/Picture_2.png)
 
 *Interaktion der primären Module*
 
