@@ -48,9 +48,9 @@ Das PMIS sollte sinnvoll gestaltet sein, um zu gewährleisten, dass die einzelne
 
 ### 3.1.1 Primäre und sekundäre Module 
 
-Wir unterscheiden die folgenden primären bzw. sekundären Module. In der folgenden Tabelle sind nur einige genannt.
+Wir unterscheiden die folgenden primären bzw. sekundären Module des Informationssystems. In der folgenden Tabelle sind nur einige genannt.
 
-| Primäre Module  | Sekudäre Module   |
+| Primäre Module  | Sekundäre Module   |
 | --------------- | ---------------   |
 | Kostenmanagement| Vertragsgestaltung|
 | Design          | Korrespondenz     |
