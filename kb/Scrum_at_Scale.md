@@ -10,22 +10,24 @@ Was ist Scrum at Scale?
 
 Scrum at Scale, oft auch Scrum@Scale mit dem ‘@’ Zeichen zusammengefasst bzw. Scrum at Scale Framework, ist ein agiler Ansatz, um das parallele Vorgehen von nach Scrum agierenden Entwicklungsteams zu koordinieren. Im Scope sind dabei nicht nur Entwicklungsabteilungen, sondern alle Bereiche die arbeitsteilig Produkte hervorbringen.
 
-Scrum at Scale hebt agiles Arbeiten von Einzelprojekt auf Programm- bzw. Organisationsebene. Nicht zwangsläufig muss das Ergebnis dabei ein Softwareprodukte sein. Der 21-seitige Scrum@Scale Guide versteht unter ‘Produkt’ jede Form von System, also gleichsam Prozesse, Services und Hardware
+Scrum at Scale hebt agiles Arbeiten von Einzelprojekt auf Programm- bzw. Organisationsebene. Nicht zwangsläufig muss das Ergebnis dabei ein Softwareprodukte sein. Der 21-seitige Scrum@Scale Guide versteht unter ‘Produkt’ jede Form von System, also gleichsam Prozesse, Services und Hardware.
 
-Dabei schreibt sich das Framework folgende Eigenschaften ganz oben auf die Fahne (bzw. vorn in den dazugehörigen Guide)
+Dabei schreibt sich das Framework folgende Eigenschaften ganz oben auf die Fahne:
 
     Leichtgewichtig – minimale überlebensfähige Bürokratie
     Einfach verständlich – ausschließlich Scrum Teams
     Schwierig zu meistern – Umsetzung eines neuen Betriebsmodells erforderlich
 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Konzept
 
 Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist das Framework durch folgenden einfachen Aufbau gekennzeichnet, mit einem Scrum of Scrums als zentralen Baustein. Damit kann man Scrum theoretisch beliebig über die folgenden Ebenen skalieren. 
 
- *  Teams arbeiten regulär nach Scrum mit einem PO, einem Scrum Master und   einer optimalen Teamgröße bis zu 5 Entwickler.
- * Ab zwei Teams synchronisiert ein Scrum of Scrums (SoS) die Arbeit der angeschlossenen Scrum-Teams, optimale Größe eines SoS sind 4 bis  5 Teams.
+ *  Teams arbeiten regulär nach Scrum mit einem Product Owner (PO), einem Scrum Master und einer optimalen Teamgröße bis zu 5 Entwickler.
+ * Ab zwei Teams synchronisiert ein Scrum of Scrums (SoS) die Arbeit der angeschlossenen Scrum-Teams, optimale Größe eines SoS sind 4 bis 5 Teams.
 *  Ein Scrum of Scrum of Scrums (SoSoS) synchronisiert die Arbeit mehrerer Scrum of Scrums (SoS). 
+
+(Scrum_at_scale/pasted image 0.png)
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
