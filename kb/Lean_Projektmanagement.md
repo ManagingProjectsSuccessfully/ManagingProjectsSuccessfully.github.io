@@ -39,6 +39,10 @@ Die fünf Kernprinzipien des Lean Management von Womack und Jones eignen sich f�
 
 Bei diesen fünf Kernprinzipien fällt auf, dass nur das erste Kernprinzip eine externe, d.h. kundenorientierte Sichtweise beinhaltet, während die Kernprinzipien zwei bis fünf auf interne Prozesse ausgerichtet sind.[^6]
 
+![Beispielabbildung](Lean_Projektmanagement/lean-principles.png)
+
+*lustiges Testbild*
+
 ## 4.	Lean vs Agile
 Häufig werden die Begriffe Lean und Agile im selben Kontext verwendet, was nicht ganz korrekt ist. Sowohl Lean als auch Agile beschreiben eine Art und Weise, wie man wertschöpfungsorientiert an die Arbeit herangehen kann, aber sie empfehlen etwas andere Wege, dies zu erreichen. Das Ausmaß, auf das sich die beiden Ansätze in einem Unternehmen ausdehnen lassen, ist auch hier ein starkes Unterscheidungsmerkmal.[^4]
 
@@ -51,20 +55,6 @@ Sowohl Lean als auch Agile Teams helfen dabei, besser zu arbeiten und Kunden ein
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-![Beispielabbildung](Lean_Projektmanagement/lean-principles.png)
-
-*lustiges Testbild*
 
 
 # Siehe auch
