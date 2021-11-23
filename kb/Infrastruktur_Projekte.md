@@ -33,13 +33,13 @@ Es stellt sich die Frage, ob es alternative Methoden zum klassischen Projektmana
 
 # Hybrides Projektmanagement - die Lösung?
 
-Eine Möglichkeit, die Vorteile der klassischen- und agilen Projektmanagement-Methoden zu verbinden ist das hybride Projektmanagement. Hierbei werden die Struktur-Elemente des klassischen Projektmanagements, hinsichtlich Aufbau- und Ablauforganisation, übernommen und um agile Elemente erweitert. Vor allem bei Großprojekten mit verschiedenen Teilprojekten ist der hybride Ansatz vorteilhaft, da die Teilprojekte entsprechend ihrer Bedürfnisse individuell agil und effizienzsteigernd gesteuert werden können. Die klassischen Elemente bringen wiederum Sicherheit und Struktur und so schafft diese Kombination Effizienz bei der [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)- und Durchführung[^4].(Visualisierung hyprides Projektmanagement siehe Abb.1[^11]).
+Eine Möglichkeit, die Vorteile der klassischen- und agilen Projektmanagement-Methoden zu verbinden ist das hybride Projektmanagement. Hierbei werden die Struktur-Elemente des klassischen Projektmanagements, hinsichtlich Aufbau- und Ablauforganisation, übernommen und um agile Elemente erweitert. Vor allem bei Großprojekten mit verschiedenen Teilprojekten ist der hybride Ansatz vorteilhaft, da die Teilprojekte entsprechend ihrer Bedürfnisse individuell agil und effizienzsteigernd gesteuert werden können. Die klassischen Elemente bringen wiederum Sicherheit und Struktur und so schafft diese Kombination Effizienz bei der [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)- und Durchführung[^4].(Visualisierung hyprides Projektmanagement siehe Abb.1[^5]).
 
 ![image](https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Infrastruktur_Projekte/Grafik_HybridesPM.png)
 Abb.1
 
 
-Da es nicht pauschal eine richtige Lösung gibt, sollte man also für jedes Projekt Faktoren wie Projektgröße, Projektkomplexität, Stakeholder, Projektrisiken und Ressourcenverfügbarkeit analysieren und neu abwiegen, welche Art des Projektmanagements sich besser eignet [^12][^13].
+Da es nicht pauschal eine richtige Lösung gibt, sollte man also für jedes Projekt Faktoren wie Projektgröße, Projektkomplexität, Stakeholder, Projektrisiken und Ressourcenverfügbarkeit analysieren und neu abwiegen, welche Art des Projektmanagements sich besser eignet [^11][^12].
 
 # Siehe auch
 
@@ -70,6 +70,5 @@ Da es nicht pauschal eine richtige Lösung gibt, sollte man also für jedes Proj
 [^8]: [Infrastrukturmanagement](https://www.nps-pm.de/wp-content/uploads/2016/12/nps_2574_faltblatt_infra_WEB.pdf)
 [^9]: [Hybrides Projektmanagement](https://link.springer.com/article/10.1007/s11612-021-00563-z)
 [^10]: [FLUGHAFEN BERLIN-BRANDENBURG (BER)](http://projekt-manager.eu/projektmanagement-BER.html)
-[^11]: [Mehrwert durch die Symbiose von traditionellem und agilem Projektmanagement](https://rpma.de/mehrwert-durch-die-symbiose-von-traditionellem-und-agilem-projektmanagement/)
-[^12]: [Die 7 meistgenutzten Projektmanagement-Methoden im Vergleich](https://zenkit.com/de/blog/7-meistgenutzte-projektmanagement-methoden-im-vergleich/)
-[^13]: [So geht Projektmanagement! Flughafen BER-St.Gotthard-Tunnel](https://www.berlinerteam.de/magazin/so-geht-projektmanagement-flughafen-ber-st-gotthard-tunnel/)
+[^11]: [Die 7 meistgenutzten Projektmanagement-Methoden im Vergleich](https://zenkit.com/de/blog/7-meistgenutzte-projektmanagement-methoden-im-vergleich/)
+[^12]: [So geht Projektmanagement! Flughafen BER-St.Gotthard-Tunnel](https://www.berlinerteam.de/magazin/so-geht-projektmanagement-flughafen-ber-st-gotthard-tunnel/)
