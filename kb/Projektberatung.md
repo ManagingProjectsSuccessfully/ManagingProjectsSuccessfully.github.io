@@ -33,7 +33,7 @@ Mögliche Gründe für diese hohe Misserfolgsquote können sehr vielseitig sein 
 
 
 
-                                  ![Beispielabbildung](Projektberatung/Projektscheitern2.PNG)
+![Beispielabbildung](Projektberatung/Projektscheitern2.PNG)
 
 *lustiges Testbild*
 
