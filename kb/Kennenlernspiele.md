@@ -39,7 +39,7 @@ Je nach Kontext, Umfang und geplanter Dauer des Projekts, der Größe des Teams,
 
 Einige davon erfordern das Zusammenkommen vor Ort, während andere auch im Home Office durchführbar sind, siehe Tabelle.
 
-                |    Vor Ort               |  Home Office             |
+|               |    Vor Ort               |  Home Office             |
 | ------------- | ------------------------ | -------------------------|
 | Oberflächlich |- Fadennetz               |- Alle, die…“             |
 |               |- Speed Meeting           |- Touch blue              | 
