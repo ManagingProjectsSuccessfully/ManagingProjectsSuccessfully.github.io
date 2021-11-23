@@ -13,6 +13,7 @@ anrechnung: k oder a
 
 
 # 2.	Schritte die in der Projektplanung durchlaufen werden:
+
 Wie bereits oben erwähnt, gibt es die Grobplanung und die Detailplanung. Die ersten drei Schritte bilden die Grobplanung. Dagegen ergibt sich die Detailplanung aus der Prozess-, Termin- und Kostenplanung.
 
 **1.	Phasenplanung:** Festlegung der Phasen                     
@@ -26,19 +27,22 @@ Wie bereits oben erwähnt, gibt es die Grobplanung und die Detailplanung. Die er
 
 Oftmals stellt sich die Frage „Kann man mit seinem Team nicht einfach rauslaufen und schauen wie es läuft? “. Dies kann funktionieren ist jedoch sehr unwahrscheinlich, da man mit hoher Wahrscheinlichkeit einige Dinge vergessen wird. Es kann aber durchaus auch dazu kommen, dass die notwendigen Ressourcen oder finanzielle Mittel vor Abschluss des Projekts ausgeschöpft werden.
 In der Praxis kann aber eine Anfrage zur „Entwicklung eines Projektplans ganz andere Erwartungen haben, da der Begriff „Projektplanung“ als Sammelbegriff interpretiert werden kann. Deshalb stellen die 7W-Fragen einen guten Leitfaden zum Entwickeln eines Projektplans. Es ist aber von essentieller Bedeutung, die Projektplanung genau auf die festgelegten Ziele abzustimmen.
+
 # 4.	Ziele im klassischen Projektmanagement:
+
 Im klassischen Projektmanagement geht es darum, möglichst klare Ziele zu haben, die in der gewünschten Zeit und zu den gewünschten Kosten erreicht werden können. Deshalb spricht man oftmals in diesem Zusammenhang vom „magischen Dreieck“. Die Aufgabe des Projektmanagers bezieht sich auf das Finden eines goldenen Mittelwegs. Dies bedeutet, dass die drei Faktoren „Kosten, Zeit und Leistung“ stets im Gleichgewicht sein müssen. Je kürzer die Zeit, desto höher die Kosten. Je umfangreicher die Dienste, desto länger die Zeit usw. Eine konstante Balance zu halten, die Kunde und Projektteam vertragen, ist eine verantwortungsvolle und schwierige Aufgabe, die eine gute Kommunikation voraussetzt. Allgemein kann man sagen, dass die Hauptziele des Projektmanagements Organisation, Planung, Steuerung und Leitung sind.
 
 ![bild](Ziel_Planung/mpsbild.jpg "MagischesDreieck")
 
 # 5.	Zieldefinierung mit der SMART Regel:
+
 Ziele sind stets ein Motivationsfaktor. Deshalb kann es durchaus kontraproduktiv sein, sich unangemessene Ziele zu setzen, bei denen vom vornhinein klar ist, dass das Erreichen dieser Ziele sehr schwer sein wird. Um Ziele sinnvoll zu definieren gibt es die deshalb sogenannte SMART-Regel.
 -	**Spezifisch**
 -	**Messbar**
 -	**Akzeptiert**
 -	**Realistisch**
 -	**Terminierbar**.  
-   
+
 Dies bedeutet, dass das Ziel so deutlich wie möglich gesetzt werden sollen, um später nicht darüber diskutieren zu müssen, ob das Ziel erreicht wurde oder nicht.
 
 
