@@ -83,24 +83,23 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Desing Thinking](Design_Thinking.md)
-* Anmeldeplattform für Hackathons: [Eventbrite](https://www.eventbrite.de/d/germany/hackathon/)
 
 # Weiterführende Literatur
 
 * [König, F., Wessel, D. & Heine, M. Open Data Hackathon – Vergleich von in Präsenz und online durchgeführten Projektseminaren. HMD 58, 1406–1419 (2021)](https://doi.org/10.1365/s40702-021-00794-0). In diesem Beitrag wird die Durchführung eines Projektseminars in Form eines Hackathons in Präsenz mit einem Online-Format kontrastriert. Auf Basis des Stands der Forschung werden das Konzept, die Durchführung und die Ergebnisse dieser beiden Veranstaltungsformate verglichen.
+* Anmeldeplattform für Hackathons: [Eventbrite](https://www.eventbrite.de/d/germany/hackathon/)
 
 # Quellen
 
-[^1]: https://de.wikipedia.org/wiki/Hackathon
-[^2]: https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-hackathon/
-[^3]: https://www.elektrotechnik.vogel.de/was-ist-ein-hackathon-definition-ablauf-vor-und-nachteile-a-841459/
-[^4]: https://digitaleneuordnung.de/blog/hackathon/
-[^5]: https://www.dev-insider.de/was-ist-ein-hackathon-a-810665/
-[^6]: https://www.vgsd.de/hackathon-ideen-fuer-die-zukunft-der-wirtschaft-in-rheinland-pfalz-gesucht/
+[^1]: [Hackathon](https://de.wikipedia.org/wiki/Hackathon)
+[^2]: [Hackathon: Die Kurzstrecke für Programmierer](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-hackathon/)
+[^3]: [Was ist ein Hackathon? Definition, Ablauf, Vor- und Nachteile](https://www.elektrotechnik.vogel.de/was-ist-ein-hackathon-definition-ablauf-vor-und-nachteile-a-841459/)
+[^4]: [Hackathon – Hier entstehen Innovationen](https://digitaleneuordnung.de/blog/hackathon/)
+[^5]: [Was ist ein Hackathon?](https://www.dev-insider.de/was-ist-ein-hackathon-a-810665/)
+[^6]: [Was ist eigentlich ein Hackathon? - Beispiel Rheinland Pfalz](https://www.vgsd.de/hackathon-ideen-fuer-die-zukunft-der-wirtschaft-in-rheinland-pfalz-gesucht/)
 [^7]: [Schroll W. (2017) Kollaborative Innovationsprozesse – Hackathons in Theorie und Praxis. In: Knoll T. (eds) Veranstaltungen 4.0. Springer Gabler, Wiesbaden.](https://doi.org/10.1007/978-3-658-16223-8_6) (S. ,S. )
 [^8]: [Kohne A., Wehmeier V. (2019) Grundlagen. In: Hackathons. Springer Vieweg, Wiesbaden.](https://doi.org/10.1007/978-3-658-26028-6_2)
-[^9]: https://twitter.com/zollhofhq/status/1111549947890012161
-[^10]: https://www.dw.com/de/lösungen-hacken-in-der-coronakrise/a-53295894
+[^9]: [Hackbay goes 2019](https://twitter.com/zollhofhq/status/1111549947890012161)
+[^10]: [Lösungen hacken in der Coronakrise](https://www.dw.com/de/lösungen-hacken-in-der-coronakrise/a-53295894)
 [^11]: [König, F., Wessel, D. & Heine, M. Open Data Hackathon – Vergleich von in Präsenz und online durchgeführten Projektseminaren. HMD 58, 1406–1419 (2021)](https://doi.org/10.1365/s40702-021-00794-0)
