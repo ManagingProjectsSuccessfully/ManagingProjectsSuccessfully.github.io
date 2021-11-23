@@ -52,5 +52,5 @@ Das letzte Fundament des Hauses ist Heijunka. Heijunka ist eine Methodik zur Ver
 # Quellen
 
 [^1]: Frank Bertagnolli: Lean Management - Einführung und Vertiefung in die japanische Management-Philosophie. Springer Gabler, Wiesbaden 2020, [978-3-658-31240-4](https://www.doi.org/10.1007/978-3-658-31240-4).
-[^2]: [Toyota Produktionssystem (TPS)](https://www.der-prozessmanager.de/aktuell/wissensdatenbank/toyota-produktionssystem)
+[^2]: [Toyota Produktionssystem (TPS)](https://der-prozessmanager.de/aktuell/wissensdatenbank/toyota-produktionssystem)
 [^3]: [Kaizen](https://de.wikipedia.org/wiki/Kaizen)
