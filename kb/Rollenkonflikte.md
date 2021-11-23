@@ -13,7 +13,7 @@ Im Folgenden soll auf die Arten der Rollenkonflikte genauer eingegangen werden.
 
 # Arten von Rollenkonflikten
 
-Im Alltag eines Projektmanagers ist es nicht ungewöhnlich, dass dieser mehrere ["Rollen"](https://github.com/martina-bchtl/ManagingProjectsSuccessfully.github.io/tree/main/kb/Rollen_klassisch) besitzt. Als Beispiel hierfür nennen wir den Abteilungsleiter Leon, welcher 
+Im Alltag eines Projektmanagers ist es nicht ungewöhnlich, dass dieser mehrere ["Rollen"](Rollen_klassisch.md) besitzt. Als Beispiel hierfür nennen wir den Abteilungsleiter Leon, welcher 
 die Rollen "Abteilungsleiter", „Controller“, "Vater", "guter Freund" und noch "Fußballspieler" hat. 
 
 Nun stellt sich jedoch die Frage, welche Rollenkonflikte hierbei möglich sind.
@@ -71,9 +71,8 @@ Privatwelt adäquat zu verhalten.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Konfliktrmanagement](https://github.com/martina-bchtl/ManagingProjectsSuccessfully.github.io/tree/main/kb/Konfliktmanagement)
-* [Rollen-klassisch](https://github.com/martina-bchtl/ManagingProjectsSuccessfully.github.io/tree/main/kb/Rollen_klassisch)
-
+* [Konfliktmanagement](Konfliktmanagement.md)
+* [Rollen_klassisch](Rollen_klassisch.md)
 # Quellen
 
 [^1]: [Konfliktarten – Diese 5 sollten Sie kennen](https://www.andyamo.de/konfliktarten/)
