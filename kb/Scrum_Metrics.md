@@ -55,8 +55,11 @@ Die Geschwindigkeit eines Teams, kann anhand eines Balkendiagramms interpretiert
 
 Zum Ende des Sprints, meist im Sprint Review, wird diese Darstellung ergänzt.
 
-FOTO BALKENDIAGRAMM
+> ![Image](/kb/Scrum_Metrics/Team_Velocity_Scrum_Metrics_02.jpg)
 
+>   - Story Points auf der Y Achse
+    > - Sprints auf der X Achse
+    > - der vorgenommene und wirklich abgeschlossene Arbeitsaufwand in Balken
 
 ### Team Kapazität
 
