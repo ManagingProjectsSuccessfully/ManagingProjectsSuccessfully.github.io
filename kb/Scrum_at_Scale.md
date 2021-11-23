@@ -56,12 +56,13 @@ Bei Anwendung von Scrum@Scale, sollte man sich vor der Skalierung auf Scrum-Prak
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Scrum_at_Scale.md)
+* [Product Owner](Product_Owner.md)
+* [Scrum of Scrums](Scrum_of_Scrums.md)
 
 # Weiterführende Literatur
 * [Agile Development at 
 Scale: The Next FrontierTorgeir Din](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8648272)
+* [The Official Scrum@Scale Guide](https://www.scrumatscale.com/scrum-at-scale-guide/)
 
 
 # Quellen
