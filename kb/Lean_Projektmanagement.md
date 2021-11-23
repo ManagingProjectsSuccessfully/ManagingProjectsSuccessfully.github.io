@@ -50,7 +50,7 @@ Sowohl Lean als auch Agile Teams helfen dabei, besser zu arbeiten und Kunden ein
 
 
 
-![Beispielabbildung](Lean_Projektmanagement/lean-principles.png)
+                                                  ![Beispielabbildung](Lean_Projektmanagement/lean-principles.png)
 
 *lustiges Testbild*
 
