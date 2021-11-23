@@ -28,11 +28,11 @@ Es ist wichtig die Projektinhalte zu definieren, also im Vorhinein festzulegen w
 | ------------ | ------------- |
 | Unterlagen zum Projektablauf  |   Unterlagen wie Dokumente über das Projekt, fertige Aufgaben, Verträge und Vereinbarungen mit Kunden aus vergangenen Projekten haben für zukünftige Projekte einen großen Nutzen.|
 | Meilensteine  | Genaue Ziele zu setzen und Meilensteine zu definieren ist die Basis einer guten Zusammenarbeit innerhalb eines Teams. Entscheidungen sind durch die Dokumentation zusmmengefasst, für alle erkennbar und auch nach dem Projekt noch nachvollziehbar.  |
-| Statusberichte | In einem Team mit mehreren Beteiligten, wird zeitgleich an verschiedenen Prozessen gearbeitet. Eine Übersicht über die einzelnen Arbeitsschritte innerhalb eines Projekts ist daher von großer Bedutung. Durch Berichte der einzelnen Teammitglieder kann dies efizient erreicht werden.  |
-| Protokolle aus Meetings und Workshops | In gemeinsamen Meetings wird die [Projektkommunikation](Projektkommunikation.md) gefördert. Es wird auf Fehler und Mängel hingewiesen und Lösungen erarbeitet. Wenn sich Aufgaben wiederholen helfen die daraus entstehenden Protokolle die selben Fehler zu vermeiden, oder Informationen für die Lösungsbehebung parat zu haben. |
-| Projektplanung | Der Projektplan beinhaltet alle Aufgaben, die im Verbindung mit dem Projekt stehen. Er besteht aus einzelnen Arbeitsschritten, auf die Mitarbeiter und Ressourcen aufgeteilt werden. |
+| Statusberichte | In einem Team mit mehreren Beteiligten, wird zeitgleich an verschiedenen Prozessen gearbeitet. Eine Übersicht über die einzelnen Arbeitsschritte innerhalb eines Projekts ist daher von großer Bedutung. Durch Berichte der einzelnen [Projektmitarbeiter](Projektmitarbeiter.md) kann dies efizient erreicht werden.  |
+| Protokolle aus Meetings und Workshops | In gemeinsamen Meetings wird die [Projektkommunikation](Projektkommunikation.md) gefördert. Es wird auf Fehler und Mängel hingewiesen und Lösungen erarbeitet. Um selbe Fehler zu vermeiden oder Informationen für die Lösungsbehebung parat zu haben, helfen die aus Meetings und Workshops enstehenden Protokolle. |
+| Projektplanung | Alle Aufgaben die mit dem Projekt in Verbindung stehen beinhaltet der Projektplan. Er besteht aus einzelnen Arbeitspahsen, die auf die Mitarbeiter und Ressourcen aufgeteilt werden. |
 | Zeiterfassung | Durch die Strukturierung der Aufgaben entsteht ein exakter Zeitplan, mit dem die zukünftige Dauer von ähnlichen Aufgaben bestimmt werden kann. |
-| Verwendete Projektmethoden | Methoden mit denen Aufgaben umgesetzt werden konnten. Beispiele dafür sind [Projektstrukturpläne](Projektstrukturplan.md) , [Gantt-Diagramme](Gantt_Diagramme.md) oder die Projekt[umfeldanalyse](Umfeldanalyse.md). |
+| Verwendete Projektmethoden | Methoden mit denen Aufgaben umgesetzt wurden. Beispiele dafür sind der [Projektstrukturplan](Projektstrukturplan.md) , das [Gantt-Diagramm](Gantt_Diagramme.md) oder die Projekt[umfeldanalyse](Umfeldanalyse.md). |
 
 
 # Verschiedene Phasen der Projektdokumentation
@@ -45,7 +45,7 @@ Es ist wichtig die Projektinhalte zu definieren, also im Vorhinein festzulegen w
 
 ## Projektdokumentation während der Projektplanung
 
-Die Projektdokumentation im Sinne der Projektplanung wird auf das Protokollieren von Entscheidungen zur Projektplangestaltung reduziert. Neben der Planung von Zeit und Budget liefert der [Projektstrukturplan](Projektstrukturplan.md) die Basis für alles , was im Projekt noch passieren wird. Wenn die Entscheidungsfindung bereits gut dokumentiert wird, ist es bei der späteren Bewertung des Projekterfolgs leichter zu erkennen, ob Ungleichgewichte während des Projekts bereits etwas mit der Planung zu tun haben könnten. [^6]
+Die Projektdokumentation im Sinne der Projektplanung wird auf das Protokollieren von Entscheidungen zur Projektplangestaltung reduziert. Neben der Planung von Zeit und Budget liefert der Projektstrukturplan die Basis für alles , was im Projekt noch passieren wird. Wenn die Entscheidungsfindung bereits gut dokumentiert wird, ist es bei der späteren Bewertung des Projekterfolgs leichter zu erkennen, ob Ungleichgewichte während des Projekts bereits etwas mit der Planung zu tun haben könnten. [^6]
 
 
 ## Projektdokumentation während der Projektdurchführung
