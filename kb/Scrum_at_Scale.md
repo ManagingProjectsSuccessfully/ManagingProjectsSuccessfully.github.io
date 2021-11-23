@@ -24,7 +24,7 @@ Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist
 [Abbildung 1 zu Scrum@Scale](https://digitaleneuordnung.de/blog/scrum-at-scale/)
 
 Somit entsteht ein pyramidenförmiger Organisationsaufbau, mit SoS als zentralem Konzept.
-Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen adaptiven Systemen. Bei Scrum@Scale sind alle Teil eines austauschbaren Scrum-Teams.[^3] Je nach den vorgegebenen Zielen werden mehrere Scrum-Teamnetzwerke zu einem ganzen Ökosystem zusammengefasst. Scrum@Scale ist für die Skalierung von Scrum in Großunternehmen konzipiert.
+Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen adaptiven Systemen. Bei Scrum@Scale sind alle Teil eines austauschbaren Scrum-Teams.[^3] Je nach den vorgegebenen Zielen werden mehrere Scrum-Teamnetzwerke zu einem ganzen Ökosystem zusammengefasst. Scrum@Scale ist für die Skalierung von [Scrum](SCRUM.md) in Großunternehmen konzipiert.
 
 <br>
 
@@ -57,6 +57,7 @@ Bei Anwendung von Scrum@Scale, sollte man sich vor der Skalierung auf Scrum-Prak
 # Siehe auch
 
 * [Product Owner](Product_Owner.md)
+* [SCRUM](SCRUM.md)
 * [Scrum of Scrums](Scrum_of_Scrums.md)
 
 # Weiterführende Literatur
