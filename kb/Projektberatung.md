@@ -27,11 +27,13 @@ Da jedes Projekt unterschiedlich und individuell ist, setzen Projektberatungsunt
 Ein Projekt orientiert sich stets an einem strategischen Vorgehen, das von der Definition eines vom Kunden beschriebenen Projektziels abhängt. Alle Entscheidungen innerhalb eines Projektes leiten sich also von diesem Projektziel ab und sollen auf direktem Weg zur Erreichung und erfolgreichem Abschluss des Projektes führen. 
 Basierend darauf werden nötige Tätigkeiten und Prozesse in Gang gesetzt und der Umgang mit den verfügbaren Ressourcen definiert [^1].
 
-Jedoch gibt es viele Stolpersteine, die den Erfolg des Projektes verhindern können: 
+Nach Aussagen einer erfahrenen Expertin für Kommunikation und Kollaboration scheitern mehr als 50% aller Projekte in Unternehmen. Diese überschritten zudem auch den Rahmen des Budgets, sprengten den geplanten Zeitrahmen oder erfüllten nicht den erwarteten Nutzen [^5]. 
+
+Mögliche Gründe für diese hohe Misserfolgsquote können sehr vielseitig sein oder auch kombiniert zum Scheitern eines Projekts führen [^1]:
 
 
 
-![Beispielabbildung](Projektberatung/test-file.jpg)
+![Beispielabbildung](Projektberatung/Projektscheitern2.jpg)
 
 *lustiges Testbild*
 
@@ -87,4 +89,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: http://www.entdecken-entwickeln.de/projektberatung.html
 [^3]: https://cpc-services.de/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1NSPMrDkeYPs1tsYUfjeslCH27blFqOtn48FnbUaF3-GZZil9gjXLBoCS64QAvD_BwE
 [^4]: https://www.pmcc-consulting.com/kompetenzen/projektmanagement/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1Nab-UuWxjKJAyHdjgzy5-NMN--GWtfk7fFmFaP0GTt2OsT5lxPMThoCvlUQAvD_BwE
+[^5]: https://smodin.io/de/text-automatisch-in-deutscher-sprache-umformulieren
 
