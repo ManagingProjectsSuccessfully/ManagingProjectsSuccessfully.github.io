@@ -28,7 +28,7 @@ Das weisende PMO übernimmt die Kontrolle über die Projekte, indem es die Proje
 ## 3.	Aufgaben
 Das PMO unterstützt die [Projektleiter](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md) in vielfältiger Weise und übernimmt verschiedene Funktionen:[^3]
 
-Es übernimmt operative Aufgaben, wie die Projektplanung und das Projektcontrolling, um so direkten Einfluss auf die auf Ressourcen, Budgets und Zeitpläne.[^6] Ein PMO mit entsprechender Kompetenz könnte sogar das Projektportfoliomanagement übernehmen. Damit erhalten das PMO und das gesamte Projektmanagement einen neuen Stellenwert im Unternehmen. Der Schwerpunkt des Projektportfoliomanagements liegt in der Optimierung und Steuerung aller laufenden und geplanten Projekte eines oder mehrerer Projektportfolios.[^4]
+Es übernimmt operative Aufgaben, wie die [**Projektplanung**](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md) und das [**Projektcontrolling**](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektcontrolling.md), um so direkten Einfluss auf die auf Ressourcen, Budgets und Zeitpläne.[^6] Ein PMO mit entsprechender Kompetenz könnte sogar das [**Projektportfoliomanagement**](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md) übernehmen. Damit erhalten das PMO und das gesamte Projektmanagement einen neuen Stellenwert im Unternehmen. Der Schwerpunkt des Projektportfoliomanagements liegt in der Optimierung und Steuerung aller laufenden und geplanten Projekte eines oder mehrerer Projektportfolios.[^4]
 
 Auch verwaltet es die gemeinsamen Ressourcen aller Projekte und ermöglicht eine effiziente Zuteilung.[^5] Ein effizientes [**Ressourcenmanagement**](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Ressourcenplanung.md) ist von großer Bedeutung, da sichergestellt werden muss, dass die richtigen Kompetenzen zur richtigen Zeit im richtigen Projekt eingesetzt werden.[^2]
 
@@ -38,7 +38,7 @@ Zudem übernimmt es **Coaching**, **Mentoring**, **Schulung** und die **Aufsicht
 
 Darüber hinaus ist es verantwortlich für die Entwicklung und Verwaltung von Projektrichtlinien, -verfahren, -vorlagen und anderen [Dokumentationen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektdokumentation.md). Die Projektergebnisse werden in einer zentralen Wissensdatenbank archiviert und für eine zukünftige Nutzung bereitgestellt.[^6] Ein projektorientiertes [**Wissensmanagement**](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wissensmanagament.md) wird erfahrungsgemäß erst durch ein aktives PMO gelebt.[^4]
 
-Zuletzt übernimmt es die **Koordinierung und Kommunikation** und gewährleistet so einen reibungslosen Informationsfluss über alle Projekte hinweg.[^3]
+Zu guter Letzt übernimmt es die **Koordinierung und Kommunikation** und gewährleistet so einen reibungslosen Informationsfluss über alle Projekte hinweg.[^3]
 
 ## 4.	Einordnung im klassischen und agilen Projektmanagement
 Abschließend kann nicht genau gesagt werden, ob das PMO eher dem klassischen oder dem agilen Projektmanagement zugeordnet werden kann. Im ersten Moment klingen Stichworte wie einheitliche Projektmanagement-Standards erst einmal sehr starr und unflexiblen, aber man darf nicht vergessen, dass sich das PMO stets an den Anforderungen des Unternehmens anpasst und durchaus auch in einem agilen Umfeld funktionieren kann.
@@ -55,9 +55,6 @@ Abschließend kann nicht genau gesagt werden, ob das PMO eher dem klassischen od
 * [Internationale Projektmanagement Standards](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Internationale_Projektmanagement_Standards.md)
 * [Konfliktmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Konfliktmanagement.md)
 * [Projektberatung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektberatung.md)
-* [Projektcontrolling](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektcontrolling.md)
-* [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)
-* [Projektportfoliomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md)
 * [Projektsteuerung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektsteuerung.md)
 * [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md)
 * [Stakeholdermanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholdermanagement.md)
