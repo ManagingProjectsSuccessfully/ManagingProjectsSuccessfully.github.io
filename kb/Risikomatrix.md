@@ -34,7 +34,6 @@ Falls eine Annahme des Risikos in Betracht gezogen wird werden keine Steuerungsm
 ## Nutzen im Projektmanagement
 Im [Projektmanagement](https://de.wikipedia.org/wiki/Projektmanagement) dient die Risikomatrix der übersichtlichen Veranschaulichung der Risiken eines Projekts oder Projektgruppe und der Darstellung von der [Risikobereitschaft](https://www.projektmagazin.de/glossarterm/risikobereitschaft) der [Trägerorganisation](https://www.projektmagazin.de/glossarterm/traegerorganisation). Des Weiteren wird die Matrix zur Priorisierung von Risiken und zur Erhebung von Maßnahmen für das Risikomanagement verwendet[^5].
 
-
 ## Kritik
 Zunächst ist die Aussagekraft der Risikomatrix sehr schwach, da sie nur eine zeitabhängige Darstellung von Einzelrisken ist, bedeutet die Variablen können sich jederzeit verändern. Des Weiteren ist zu verstehen, dass die Wechselwirkungen zwischen den Einzelrisiken, als auch die Dynamik von Einzelrisiken in der Risikomatrix nicht betrachtet werden[^10]. Außerdem ist die Risikomatrix auf eine [Binominalverteilung](https://de.wikipedia.org/wiki/Binomialverteilung) der Risiken angewiesen, damit die Einzelrisiken durch Schadensausmaß und Eintrittswahrscheinlichkeit bewertet werden können, jedoch ist diese Verteilung im Rahmen eines Unternehmens selten vorzufinden[^3]. Unter anderem sind die qualitativen und quantitativen Aussagen begrenzt, denn viele Risiken mit geringen Wahrscheinlichkeiten und Auswirkungen können äquivalent wirken zu einem Risiko mit großer Wahrscheinlichkeit und Auswirkung[^1].  
 
