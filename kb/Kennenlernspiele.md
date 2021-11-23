@@ -42,9 +42,9 @@ Einige davon erfordern das Zusammenkommen vor Ort, während andere auch im Home 
                 |    Vor Ort               |  Home Office             |
 | ------------- | ------------------------ | -------------------------|
 | Oberflächlich |- Fadennetz               |- Alle, die…“             |
-                |- Speed Meeting           |- Touch blue              | 
-                |- Zip-Zap                 |- Two kinds               |
-                |- Sales Pitch             |- Hashtags nutzen         |
+|               |- Speed Meeting           |- Touch blue              | 
+|               |- Zip-Zap                 |- Two kinds               |
+|               |- Sales Pitch             |- Hashtags nutzen         |
 |Tiefergehend   |- Gerüchteküche           |- Schlüsselbund           |
 |               |- Value Activity          |- Gemeinsamkeiten finden  |
 |               |- Was gehört wem?         |- 10 things to do in life | 
