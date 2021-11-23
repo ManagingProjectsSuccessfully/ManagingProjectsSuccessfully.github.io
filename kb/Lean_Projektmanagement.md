@@ -61,6 +61,13 @@ Sowohl Lean als auch Agile Teams helfen dabei, besser zu arbeiten und Kunden ein
 # Siehe auch
 
 * [Link auf diese Seite](Lean_Projektmanagement.md)
+* [Anforderungsmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Anforderungsmanagement.md)
+* [Kaizen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kaizen.md)
+* [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md)
+* [Six Sigma](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Six_Sigma.md)
+* [Stakeholdermanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholdermanagement.md)
+* [Top-Down-Planning](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Top_Down_Planning.md)
+* [Voice of the Customer](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Voice_of_the_Customer.md)
 
 # Weiterführende Literatur
 
