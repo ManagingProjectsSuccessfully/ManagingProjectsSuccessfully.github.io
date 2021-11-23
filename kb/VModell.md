@@ -1,6 +1,6 @@
 ---
 title: VModell
-tags: agil klassisch
+tags: klassisch
 author: fabriGH
 anrechnung: k
 ---
