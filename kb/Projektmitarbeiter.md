@@ -19,15 +19,15 @@ Der Begriff Projektmitarbeiter wird oft als Übergriff für unterschiedliche Rol
 die abhängig von der Art und Größe des Projekts besetzt werden oder auch nicht. 
 Viele Projektmanagment-Methoden definieren den Begriff anders oder überhaupt nicht, oft werden Projektmitarbeiter jedoch als dijenigen Personen bezeichnet,
 die in Arbeitspaketen beschriebene Aufgaben tätsächlich ausführen. [^2]
-Projekt
 
+**Rollen** 
 
-In der Follgende Abbildung sind **Rollen** von Projektmitarbeiter gezeigt. [^3]
+In der Follgende Abbildung sind Rolllen von Projektmitarbeiter gezeigt. [^3]
 ![image](https://user-images.githubusercontent.com/92817695/142926386-c6e8bba3-c7f9-48c1-9b8c-9afc2c1b4a35.png)
 
 
 
-# Aspekt 2
+**
 
 * das
 * hier 
