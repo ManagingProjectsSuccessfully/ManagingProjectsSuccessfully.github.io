@@ -48,6 +48,9 @@ In der Privatwirtschaft sind Ausschreibungen, im Gegensatz zu öffentlichen Auss
 3.	Request for Proposal (RFP): Ist inhaltlich sehr ähnlich zu einer öffentlichen Ausschreibung; das ausschreibende Unternehmen ist aber nicht daran gebunden ein bestimmtes Angebot anzunehmen.
 4.	Request for Feature (RFF): Ist eine Aufforderung zur Angebotserweiterung.
 
+# Kritik
+Vor allem kleine und mittelständische Unternehmen kritisieren den hohen Bürokratischen Aufwand und dass man durch kleinste Fehler bei den Formalitäten schon ausscheiden kann. Außerdem können deutsche Unternehmen, auf Grund der unterschiedlichen Lohnniveaus oder Mehrwertsteuersätze, nicht mit der Konkurrenz aus dem Ausland wie zum Beispiel Polen mithalten[^9].
+
 
 # Quellen
 
@@ -59,4 +62,5 @@ In der Privatwirtschaft sind Ausschreibungen, im Gegensatz zu öffentlichen Auss
 [^6]: https://dejure.org/gesetze/VOB-A/12.html    
 [^7]: https://www.vergabevorschriften.de/uvgo/28 
 [^8]: https://www.ionos.de/startupguide/unternehmensfuehrung/ausschreibung/
+[^9]: https://www.sueddeutsche.de/muenchen/erding/europaweite-ausschreibungen-viel-aufwand-fuer-wenig-kostenvorteile-1.4458021
 
