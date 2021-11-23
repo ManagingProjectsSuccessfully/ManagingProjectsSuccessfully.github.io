@@ -15,6 +15,7 @@ Der Einsatzbereich eines PMOs, variiert stark mit der Rolle des Projektmanagemen
 
 ## 2.	PMO-Strukturen 
 Das PMO ist eine Managementstruktur, die projektbezogene Governance-Prozesse standardisiert und die gemeinsame Nutzung von Ressourcen, Methoden, Tools und Techniken erleichtert. Seine Zuständigkeiten reichen von der Unterstützung des Managements bis zur direkten Leitung eines oder mehrerer Projekte. Es gibt mehrere Arten von PMO-Strukturen. Diese unterscheiden sich durch den Grad der Kontrolle und des Einflusses, den sie auf die Projekte innerhalb der Organisation haben.1
+
 ### 2.1	Supportive PMO
 Das unterstützende PMO hat eine beratende Funktion für die Projekte. Es unterstützt durch die Bereitstellung von Vorlagen, Best Practices, Schulungen, Zugang zu Informationen und Erfahrungen aus anderen Projekten.1 Es steht den Projektleitern jedoch frei, ob sie diese Vorschläge annehmen. Daher ist der Grad der Kontrolle über die Projekte insgesamt eher gering.4
 
