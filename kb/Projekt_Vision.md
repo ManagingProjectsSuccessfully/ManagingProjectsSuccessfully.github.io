@@ -71,7 +71,7 @@ konkreten Lösungsansätzen führen. Zuletzt wird die Projekt-Vision präsentier
 # Quellen
 
 [^1]: [Werden Sie zum Visionär: Wie man eine Projekt-Vision entwicklet](https://www.coliquio-insights.de/wie-sie-eine-projekt-vision-entwickeln/)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: [7 Schritte zum Schreiben eines effektiven Projektvision-Statements](https://teamhood.com/de/produktivitat/7-schritte-projektvision-statement/)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
