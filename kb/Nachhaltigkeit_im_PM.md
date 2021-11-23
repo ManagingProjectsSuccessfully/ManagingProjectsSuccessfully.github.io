@@ -5,7 +5,7 @@ author: Miki2701
 anrechnung: k
 ---
 
-[Nachhaltigkeit](https://de.wikipedia.org/wiki/Nachhaltigkeit#Begriffsgeschichte) ist ein Handlungsprinzip, zur Nutzung von Ressourcen, wobei eine permanente Bedürfnisbefriedigung durch die
+Nachhaltigkeit ist ein Handlungsprinzip, zur Nutzung von Ressourcen, wobei eine permanente Bedürfnisbefriedigung durch die
 Erhaltung der natürlichen Regenerationsfähigkeit der beteiligten Systeme (insbesondere Lebewesen und Ökosyteme) gewährleisten
 werden soll [^1]. Im Kontext von Projekten bedeutet dies, dass man die Interessen von Fach- und Stakeholdern kombiniert und die Zukunft und das 
 Unvorhergesehene berücksichtigt.[^2]
@@ -14,7 +14,7 @@ Unvorhergesehene berücksichtigt.[^2]
 
 # Begriffsherleitung
 
-Der englische Ausdruck [Sustainability](https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf) kann aus dem Lateinischen von den Wörtern "„sustineo" und „habilitas" abgeleitet werden, welche
+Der englische Ausdruck Sustainability kann aus dem Lateinischen von den Wörtern "„sustineo" und „habilitas" abgeleitet werden, welche
 die Bedeutung „erhalten, bewahren" und „Geschicklichkeit, Fähigkeit" besitzen. Zusammengesetzt kann Sustainability als Fähigkeit verstanden
 werden, etwas zu erhalten.[^3]
  
@@ -37,7 +37,7 @@ Nachteile
 
 # Beispiele für Nachhaltigkeit im Projektmanagement anhand des Drei-Säulen-Modells
 
-Nachhaltige Projekte sind [zukunftsorientierte und langfristige Projekte](https://www.inloox.de/unternehmen/blog/artikel/nachhaltiges-projektmanagement/). Dementsprechend leistet nachhaltiges Projektmanagement auf langer Sicht
+Nachhaltige Projekte sind zukunftsorientierte und langfristige Projekte. Dementsprechend leistet nachhaltiges Projektmanagement auf langer Sicht
 einen Beitrag zum Unternehmenserfolg und zum Erhalt einer zukunftsfähigen Wirtschaft und Umwelt.[^5][^6]
 
 <img src=/kb/Nachhaltigkeit_im_PM/Drei-Säulen-Modell.png width=300/>
@@ -71,7 +71,7 @@ ausschlaggebend für den Projekterfolg[^5]
 
 # Lebenszyklus-Methode der Nachhaltigkeit
 
-Der [Lebenszyklusansatz](https://www.researchgate.net/publication/30438173_Sustainable_development_An_overview_of_economic_proposals) ist einzigartig und auch eine allgemein akzeptierte Methode, um eine nachhaltige Entwicklung im [Projektmanagement](Projektmanagement.md) zu erreichen. Die Lebenszyklus-Methode hat einen Ausgangspunkt, von dem aus sie ihre Tätigkeit beginnt und schliesslich auf einen anderen Punkt zugeht, der als Endpunkt bezeichnet werden kann. Hier wird eine gründliche Hintergrundanalyse des Projektlebenszyklus durchgeführt.[^6]
+Der Lebenszyklusansatz ist einzigartig und auch eine allgemein akzeptierte Methode, um eine nachhaltige Entwicklung im [Projektmanagement](Projektmanagement.md) zu erreichen. Die Lebenszyklus-Methode hat einen Ausgangspunkt, von dem aus sie ihre Tätigkeit beginnt und schliesslich auf einen anderen Punkt zugeht, der als Endpunkt bezeichnet werden kann. Hier wird eine gründliche Hintergrundanalyse des Projektlebenszyklus durchgeführt.[^6]
 
 <img src=/kb/Nachhaltigkeit_im_PM/Lebenszyklus-Methode.png width=300/>
 
