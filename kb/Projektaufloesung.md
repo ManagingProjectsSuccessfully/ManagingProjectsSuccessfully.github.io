@@ -6,6 +6,14 @@ anrechnung: k oder a
 ---
 
 Jedes zielgerichtete, einmalige [Projekt](Projekt.md) besitzt, neben einem klar bestimmten Anfang, auch ein eindeutiges Ende. Das definierte Ende und somit der letzte Schritt im [Projektabschluss](Projektabschluss.md), aber auch im gesamten Projekt ist, die Projektauflösung. [^1] Die Phase „Auflösung“ eines Projekts endet, sobald das Projektpersonal auf neue Aufgaben und neue Projekte übergeleitet wurde und alle verwendeten Ressourcen zurückgegeben bzw. neuen Projekten zugeführt wurden. Alles Weitere kann schlussendlich den Archiven und der Geschichtsschreibung überlassen werden. [^2] Wird das Projekt jedoch beendet bevor die Projektziele erreicht wurden, so spricht man vom [Projektabbruch](Projektabbruch.md). [^3]  
+# Inhaltsverzeichnis
+* [Archivierung der Unterlagen](#archivierung-der-unterlagen)
+* [Rückgabe aller Ressourcen](#rückgabe-aller-ressourcen)
+* [Abschluss der Buchhaltung und der Projektkostenstellen](#abschluss-der-buchhaltung-und-der-projektkostensetellen)
+* [Vermittlung des Projektpersonaös](#vermittlung-des-projektpersonals)
+* [Organisation von Abschlussveranstaltungen und Erfahrungsaustausch](organisation-von-abschlussveranstaltungen-und-erfahrungsaustausch)
+* [Siehe auch](#siehe-auch)
+* [Quellen](#quellen)
 <!-- 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`). -->
