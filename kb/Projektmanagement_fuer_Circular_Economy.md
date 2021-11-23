@@ -17,6 +17,7 @@ verändert.[^1]
 *Circular Economy Modell[^4]
 
 
+
 # Die drei Grundsätze von Circular Economy
 
 1. Die Schonung der Ressourcen
@@ -43,6 +44,9 @@ wieder etwas zurückgegeben werden.[^2]
 
 *Cradle to Cradle [^6]
 
+Kreislaufwirtschaft bezieht sich normalerweise auf die Menge an recycelten Materialien oder die Reduzierung von Abfall. Das Design von Cradle zu Cradle konzentriert sich jedoch 
+auf die Produktqualität, einschließlich der Sicherheit für Mensch und Umwelt. 
+
 # Vorteile einer Kreislaufwirtschaft
 
 * Kosteneinsparungen
@@ -61,24 +65,6 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
 
 # Siehe auch
 
@@ -91,7 +77,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Weiterführende Literatur
 
 * Walcher, D., Leube, M.(2017).Kreislaufwirtschaft in Design und Produktmanagement - Co-Creation im Zentrum der zirkulären Wertschöpfung. Wiesbaden: Soringer Gabler Fachmedien.
-* 
+* Läpple, F.(2007). Abfall- und kreislaufwirtschaftlicher Transformationsprozess in Deutschland und China - Analyse, Verglecih und Übertragbarkeit (Dissertation Fakultät für Wirschafts- und Sozialwissenschaften). Heidelberg
 
 # Quellen
 
@@ -101,3 +87,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^4]: [Circular Economy Modell](Projektmanagement_fuer_Circular_Economy/R.jpg)
 [^5]: [Kreisaufwirtschaft: Definiton und Vorteile (Europäische Parlament](https://www.europarl.europa.eu/news/de/headlines/economy/20151201STO05603/kreislaufwirtschaft-definition-und-vorteile)
 [^6]: [Cradle to Cradle](Projektmanagement_fuer_Circular_Economy/Cradle_to_Cradle.jpg)
+[^7]: [Towards the circular economy](https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/sustainability/pdfs/towards_the_circular_economy.ashx)
