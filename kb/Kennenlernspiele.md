@@ -26,8 +26,6 @@ Letztere können, mit Blick auf den Gruppenzusammenhalt und damit den Projekterf
 * Schaffung eines guten Klimas und eines Willkommenseins-Gefühls
 * Förderung des Kennenlernprozesses, der Einfindung im Team und des Zusammenhalts
 * Erkennen und Sichtbar-Machen der Kompetenzen im verteilten Team
-* Aktive Steuerung des Teams und auftretender Konflikte
-* Vorbereitung der Mitarbeitenden auf Besonderheiten bei virtueller Zusammenarbeit
 
 Durch Kennenlernspiele können diese entscheidenden Aspekte in lockerer Atmosphäre erzielt werden.
 
@@ -41,12 +39,12 @@ Je nach Kontext, Umfang und geplanter Dauer des Projekts, der Größe des Teams,
 
 Einige davon erfordern das Zusammenkommen vor Ort, während andere auch im Home Office durchführbar sind, siehe Tabelle.
 
-|               |    Vor Ort               |  Home Office             |
+                |    Vor Ort               |  Home Office             |
 | ------------- | ------------------------ | -------------------------|
 | Oberflächlich |- Fadennetz               |- Alle, die…“             |
-|               |- Speed Meeting           |- Touch blue              | 
-|               |- Zip-Zap                 |- Two kinds               |
-|               |- Sales Pitch             |- Hashtags nutzen         |
+                |- Speed Meeting           |- Touch blue              | 
+                |- Zip-Zap                 |- Two kinds               |
+                |- Sales Pitch             |- Hashtags nutzen         |
 |Tiefergehend   |- Gerüchteküche           |- Schlüsselbund           |
 |               |- Value Activity          |- Gemeinsamkeiten finden  |
 |               |- Was gehört wem?         |- 10 things to do in life | 
