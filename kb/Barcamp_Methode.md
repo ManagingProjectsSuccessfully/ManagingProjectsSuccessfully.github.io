@@ -1,6 +1,6 @@
 ---
 title: Barcamp_Methode
-tags: agil barecamp methode 
+tags: agil barcamp methode 
 author: fabriGH
 anrechnung: a
 ---
