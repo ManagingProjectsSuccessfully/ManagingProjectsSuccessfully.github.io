@@ -46,13 +46,13 @@ Laut dem offiziellen Scrum_Guide aus dem Jahr 2020 enthält der Scrum_Guide folg
 *	Schlussbemerkung[^4]
 
 
-
 ## Scrum-Rollen, Ereignissen und Artefakte 
 
 Wie zu Beginn beschrieben enthält der Scrum_Guide die Definition von Scrum. Diese Definition besteht aus den Scrum-Rollen, Ereignissen, Artefakten und den Regeln. Um den 
 Scrum_Guide umfassend zu verstehen, müssen die einzelnen Bereiche verstanden werden. 
 
-### Scrum-Rollen
+
+## Scrum-Rollen
 
 Bei Scrum gibt es drei Rollen die direkt am Prozess beteiligt sind, den Product Owner, den ScrumMaster und den Developer[^4]. 
 Kurzgesagt, stellt der Product Owner fachliche Anforderungen und priorisiert sie. 
@@ -61,13 +61,31 @@ Der ScrumMaster hat die Aufgabe den Prozess zu managen und Hindernisse zu beseit
 Der Developer hat das Ziel, wie sein Name schon vermuten lässt, das Produkt zu entwickeln[^6]. 
 
 
+## Scrum_Eregnisse
+### Der Sprint 
 
+Für den Sprint ist das Entwicklungsteam verantwortlich, sie bestimmen die Dauer des Sprints. Der Sprint kann mehrere Wochen dauern und Ziel ist es Entwicklungsarbeit zu leisten[^7].
 
+### Das Sprint Planning
 
+Beim Sprint Planning wird der Sprint geplant, es dauert mehrere Stunden. Der Product Owner klärt gemeinsam mit dem Entwicklungsteam was entwickelt werden soll[^7].
 
+### Der Daily Scrum
 
+Der Daily Scrum ist ein maximal 15-minütiges Treffen des Entwicklungsteams. Ziel ist es alle Beteiligten auf den gleichen Kenntnisstand zu bringen[^7].
 
+### Der Sprint Review
 
+Der Sprint Review hat das Ziel die Ergebnisse des Sprints zu bewerten, es wird analysiert ob die Ziele des Sprints sowie das Ergebnisse (Increment) erreicht wurden[^7].
+
+### Die Sprint-Retrospektive
+
+Bei der Sprint-Retrospektive werden im Gegensatz zum Review nicht die Increments bewertet, sondern die Arbeitsatmosphäre des Scrum-Teams. Es wird nach möglichen Problemen und 
+Lösungen gesucht[7].
+
+### Scrum-Artefakte
+
+Die Scrum-Artefakte lauten Product Backlog, Sprint Backlog und Produktinkrement. Die Artefakte werden zum dauerhaften Informationsaustausch genutzt[^8].
 
 
 
@@ -97,6 +115,8 @@ Der Developer hat das Ziel, wie sein Name schon vermuten lässt, das Produkt zu 
 [^4]: [Der Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf)
 [^5]: [Bild](https://www.bing.com/images/search?view=detailV2&ccid=QfyEah%2b1&id=B7DECA9FBBB98F3723EEFC0B8DAFA331DE30B322&thid=OIP.QfyEah-1aXpqK7RSJJJ7qAHaE7&mediaurl=https%3a%2f%2fimage.freepik.com%2fvektoren-kostenlos%2fscrum-infografik_23-2148582396.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.41fc846a1fb5697a6a2bb45224927ba8%3frik%3dIrMw3jGjr40L%252fA%26pid%3dImgRaw%26r%3d0&exph=417&expw=626&q=scrum+guide+grafik&simid=607988806035197205&FORM=IRPRST&ck=902968CA6FB2836A04D392B51E5415C9&selectedIndex=3&qpvt=scrum+guide+grafik&ajaxhist=0&ajaxserp=0)
 [^6]: [Was ist Scrum](https://scrum-master.de/Was_ist_Scrum/Scrum_auf_einer_Seite_erklaert)
+[^7]: [Die-Scrum-Ereignisse](http://scrum.wollsieffer.de/die-scrum-ereignisse)
+[^8]: [Was sind Scrum Artefakte und welche Rolle spielen sie im Projektmanagement?](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-artefakte)
 
 
 
