@@ -5,36 +5,22 @@ author: HAhmedFAU
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Lastenheft um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Lastenheft beschreibt alle Anforderungen des Auftraggebers an die Lieferung und Leistung des Auftragnehmers[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Die Anforderungen in der Spezifikation sollten so weit wie möglich zusammengefasst und bei Bedarf eingeschränkt werden[^1]. 
+Dies gibt dem Auftragnehmer die Möglichkeit, geeignete Lösungen (zB Software) zu entwickeln, ohne seine Lösungsfähigkeiten durch zu spezifische Anforderungen einzuschränken[^1].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Der Kunde kann das Lastenheft im Angebot verwenden und an mehrere mögliche Auftragnehmer senden[^1]. Jeder von ihnen erstellte ein Lastenheft, in dem in genauerer Form beschrieben wird, wie sie die Anforderungen im Lastenheft adressieren wollen[^1]. Der Auftraggeber wählt dann aus den Vorschlägen möglicher Auftragnehmer den für ihn am besten geeigneten aus[^1].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Aufbau eines Lastenhefts
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+In der Gliederung des Lastenhefts sind in der Regel folgende Punkte enthalten:
+* Spezifikation der auszuführenden Arbeiten (Lieferprojekt, Lieferprojekt, Projektprodukt)
+* Anforderungen an die spätere Verwendung des Produkts (z. B. Temperaturbereich)
+* Rahmenbedingungen für die Bereitstellung von Produkten und Dienstleistungen (wie Normen, Richtlinien, Materialien etc.)
+* Vertragsbedingungen (wie Erbringung von Teilleistungen, Gewährleistungspflichten, Risikomanagement, etc.)
+* Anforderungen an Auftragnehmer (z. B. Zertifizierung)
+* Anforderungen an das Projektmanagement des Auftragnehmers (z. B. Projektdokumente, Kontrollmethoden)
 
 
 # Aspekt 1
@@ -45,7 +31,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Lastenheft/test-file.jpg)
+![Beispielabbildung](Lastenheft/lastenheft.png)
 
 *lustiges Testbild*
 
@@ -97,8 +83,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: https://de.wikipedia.org/wiki/Lastenheft
+[^2]: https://www.projektmagazin.de/glossarterm/lastenheft
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
