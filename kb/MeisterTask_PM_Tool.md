@@ -5,39 +5,19 @@ author: nazarelsaifi
 anrechnung: a
 ---
 
-Kurzbeschreibung zu MeisterTask_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+
+
+Meister Task ist ein Online-Tool der deutsch-österreichischen Softwarefirma Meisterlabs, das agiles Arbeiten ermöglichen soll. Der Nutzer hat die Möglichkeit über ein Cloud-System Projekte und Aufgaben zu visualisieren, zu teilen und mit einer Benutzergruppe zu organisieren.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Überblick
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Meister Task, wie auch aus dem Namen hervorgehen kann, ist ein Task Management- Tool , das Anwendern ein Weg bietet kollaborativ Aufgaben zu organisieren und koordinieren. Das Tool eignet sich nicht nur für einzelne Aufgaben, es unterstützt auch Kanban Projekte mit einem virtuellen Board. Für größere Projekte können alle Tools der Meister Suite integriert werden, um einen reibungslosen Workflow für Teams zu ermöglichen. Zudem wird Meistertask weiterentwickelt, um eine Synchronisation mit anderen Tools für das agile Projektmanagement zu ermöglichen. Das Motto der Firma lautet “Im Mittelpunkt unserer Arbeit stehen die Menschen und die Vision, gemeinsam etwas Großes aufzubauen.”, was ausdrücken soll, dass bei Meistertask auf Kommunikation der Anwender großen Wert gelegt wird. Meister Task ist ein Freemium Produkt. Der Nutzer hat die Wahl zwischen Basic, Pro, Businnes und Enterprise Versionen, wobei nur die Basic Version frei zugänglich ist. Die kostenpflichtigen Versionen bieten wenige funktionelle und hauptsächlich quantitative Vorteile, daher ist für die private Anwendung mit wenigen Projekten die Basis Version keine Einschränkung für die Funktionalität.
 
 
-# Aspekt 1
+# Entwicklung
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -49,7 +29,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Vergleich mit Trello
 
 * das
 * hier 
@@ -58,7 +38,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Punkteliste
   - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Funktionen
 
 So kann man eine Tabelle erstellen:
 
