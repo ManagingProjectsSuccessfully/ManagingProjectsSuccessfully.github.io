@@ -22,7 +22,7 @@ Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme dire
 „Die Customer Experience umfasst jede einzelne Interaktion eines Kunden mit einem Unternehmen, in jeder einzelnen Phase der Customer Journey, darunter das Marketingmaterial, das er sieht, ehe er Kunde wird, das Verkaufserlebnis, die Qualität des Produkts und der Kundenservice im Anschluss an den Kauf.“, sagt Dave Dyson, Senior Customer Service Evangelist, Zendesk[^1]
 
 
-![grafik](https://user-images.githubusercontent.com/92948697/141685275-1bc32f23-d897-4b8b-8e91-4ad8a7561b1f.png)
+![Beispielabbildung](Customer_Experience/Customer_Experience.png)
 
 
 
