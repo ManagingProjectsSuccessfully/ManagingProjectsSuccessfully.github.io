@@ -84,6 +84,7 @@ Die daraus resultierenden Ergebnisse dienen der nachträglichen Überarbeitung[^
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Interactive_Approach.md)
+* 
 
 
 # Weiterführende Literatur
