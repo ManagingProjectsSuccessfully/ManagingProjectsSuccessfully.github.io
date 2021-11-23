@@ -41,7 +41,7 @@ Beurteilungsprozess wird das subjektiv vorhandene Erfahrungswissen durch systema
 computergestützten) Datenbank sind Erfahrungsdaten schneller und leichter auswertbar. 
 Die abschließende Bewertung des Projekts sollte dann anhand von vorab festgelegten Kriterien erfolgen. So kann es beispielsweise sind, dass eine Abweichung von bis 
 zu 10 % bei allen Zielgrößen als “gutes Ergebnis” gesehen wird[^1]. 
-
+ 
 # Fazit
 Zusammenfassend hat die Plan-/Istkostenvergleich (bzw. Soll-Ist Abgleich) einen sehr großen Anteil an der Abschlussanalyse, aber man darf auch nicht die anderen Aspekte vernachlässigen. 
 
