@@ -10,7 +10,7 @@ Kurzbeschreibung zu Kennenlernspiele um ein erstes Verständnis dafür zu schaff
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Einsatz
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -37,7 +37,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Beispiele
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -58,7 +58,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Punkteliste
   - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Kennenlernspiele vor Ort
 
 So kann man eine Tabelle erstellen:
 
@@ -67,14 +67,9 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## Kennenlernspiele im Home Office
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
