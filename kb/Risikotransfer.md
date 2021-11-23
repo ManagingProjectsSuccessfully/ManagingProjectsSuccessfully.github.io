@@ -40,7 +40,7 @@ Bei einer [Projektplanung](https://github.com/MarleneMMeyer/ManagingProjectsSucc
 Eines der Nachteile vom Risikotransfer ist, dass eine Absicherung oftmals mit zusätzlichen Kosten verbunden ist. Außerdem bringt der Abschluss einer Versicherung oder auch die Risikostreuung mit Derivaten hohen Zeitaufwand mit sich.[^1]
 
 # Fazit
-Der kostspielige Finanz- und Zeitaspekt des [Risikomanagements] (https://github.com/jnsdhr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) kann dabei vor allem für kleinere Unterhemen (Start Ups) abwegig und untragbar erscheinen. Im Hinblick auf Langzeitprognosen ergibt ein ordentlicher Risikotransfer allerdings nur Vorteile. Um potenziell mögliche, schwerwiegendere Kostenverluste zu vermeiden, sollte eine Investition im Bereich Risikotransfer nicht vernachlässigt werden.
+Der kostspielige Finanz- und Zeitaspekt des [Risikomanagements](https://github.com/jnsdhr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) kann dabei vor allem für kleinere Unterhemen (Start Ups) abwegig und untragbar erscheinen. Im Hinblick auf Langzeitprognosen ergibt ein ordentlicher Risikotransfer allerdings nur Vorteile. Um potenziell mögliche, schwerwiegendere Kostenverluste zu vermeiden, sollte eine Investition im Bereich Risikotransfer nicht vernachlässigt werden.
 
 # Siehe auch
 
