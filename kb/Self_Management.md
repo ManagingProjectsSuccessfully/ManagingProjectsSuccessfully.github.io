@@ -47,6 +47,7 @@ Jedoch bietet das Self-management nicht nur Vorteile für den Manager oder die F
 
 
 # Quellen
+
 [^1]: [Selbstmanagement – Definition, Erklärung und Tipps (Frankfurter Allgemeine)](https://stellenmarkt.faz.net/karriere-lounge/selbstmanagement-definition-erklaerung-tipps/)
 [^2]: [Selbstmanagement - Methoden und Definition (Karriere Bibel)](https://karrierebibel.de/selbstmanagement/)
 
