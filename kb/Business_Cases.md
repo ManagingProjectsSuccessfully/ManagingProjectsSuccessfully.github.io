@@ -63,6 +63,7 @@ Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement e
 * [Projektcontrolling](Projektcontrolling.md)
 * [PRINCE2](PRINCE2.md)
 * [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md)
+* [Ausgangsanalyse](Ausgangsanalyse.md)
 
 
 # Quellen
