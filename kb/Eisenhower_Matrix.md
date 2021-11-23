@@ -25,7 +25,7 @@ Der Name leitet sich vom ehemaligen US-Präsidenten und Alliierten-General Dwigh
 
 # Aufgaben-Varianten
 
-![bild](Eisenhower_Matrix/EisenhowerMatrix.PNG "Eisenhower-Matrix")
+![bild](Eisenhower_Matrix/EisenhowerMatrix.PNG "Eisenhower-Matrix")[^1]
 
 **A-Aufgaben:** jene die dringend und wichtig sind. Sie sollten sofort selbst erledigt werden
 
