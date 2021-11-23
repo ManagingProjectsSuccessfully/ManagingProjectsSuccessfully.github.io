@@ -55,3 +55,5 @@ Dies bedeutet, dass das Ziel so deutlich wie möglich gesetzt werden sollen, um 
 * [Zieldefinierung mit der SMART Regel](Zieldefinierung-mit-der-SMART-Regel)
 
 
+
+# Quellen
