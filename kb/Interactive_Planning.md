@@ -16,7 +16,7 @@ Interactive Planning besteht aus zwei Teilen, der Idealisierung und der Realisie
 
 ![Beispielabbildung](Interactive_Planning/Interactiveplanning.png)
 
-[*Prism of Interactive Planning, Ackoff (2011)*](https://researchgate.net/figure/Prism-of-Interactive-Planning-Source-Ackoff-2011_fig1_305396436
+[Prism of Interactive Planning, Ackoff (2011)](https://researchgate.net/figure/Prism-of-Interactive-Planning-Source-Ackoff-2011_fig1_305396436
 
 # Idealisierung
 
