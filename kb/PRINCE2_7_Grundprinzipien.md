@@ -43,7 +43,7 @@ Die weltweit führende Projektmanagementmethode basiert auf 7 Grundprinzipien, w
 
 In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich zu dem Jahr 2005 deutlich hervorgehoben[^3]. 
 
-<img width="232" alt="PRINCE2" src="https://user-images.githubusercontent.com/92877971/140659667-eaa44817-bd55-44f9-ad80-0ca6ab41c7b9.PNG">
+<img width="232" alt="PRINCE2" src="PRINCE2_7_Grundprinzipien/PRINCE2.PNG">
 
 *Änderungen in 2009[^3] *
 
@@ -147,5 +147,5 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 
 [^1]: [Prince Charming](PRINCE2_7_Grundprinzipien/PRINCE.jpg)
 [^2]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
-[^3]: [Änderungen im Jahr 2009](https://silo.tips/download/methoden-des-projektmanagements-im-vergleich)
+[^3]: [Änderungen im Jahr 2009](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
 
