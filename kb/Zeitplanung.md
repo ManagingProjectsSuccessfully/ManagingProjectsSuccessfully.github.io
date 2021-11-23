@@ -35,7 +35,11 @@ Quelle: [^5]
 Der Projektablaufplan ist der Terminkalender für das Projekt. In ihm wird chronologisch der Ablauf der Arbeiten bestimmt. Es ist genau beschrieben, wie die einzelnen Arbeitspakete zeitlich abgearbeitet werden müssen. Außerdem wird eingetragen, wann gewünschte Meilensteine erreicht werden sollen und in welcher Beziehung Arbeitspakete und Meilensteine zueinanderstehen. 
 Es müssen bestimmte Risiken vorausgesehen und berücksichtigen werden. Zum Beispiel Verzögerungen von Lieferterminen, erkrankte Mitarbeiter, mehr Aufwand, Ausfall von Maschinen, etc. Deshalb darf im Projektablaufplan nichts zu knapp kalkuliert werden. [^7]
 
-Beispielsweise gibts es hierfür [Gantt-Diagramme](Gantt_Diagramme.md) oder [Netzplantechniken](Netzplantechnik.md).
+[Netzplantechniken](Netzplantechnik.md) helfen dabei einen möglichst gute Projektplan aufzustellen. Graphische Darstellungen hierfür sind beispielsweise  [Gantt-Diagramme](Gantt_Diagramme.md).
+
+## Schätzungen
+Schätzungen sind in allen Phasen von Projekten wichtig. Besonders bei der Zeitplanung kann man nie sicher sein, ob die angestrebte Zeit eingehalten wird, weshalb hier eine möglichst gute Schätzung unabdingbar ist. Faktoren, welche zu Abweichungen führen können, sind die oben genannten Beispiele, aber auch vor allem die Produktivität von Mitarbeiter. Diese kann täglich schwanken, jedoch sollte sie im Mittel schätzbar sein. 
+Die beste Schätzung gelingt nur auf der Basis von Daten ähnlicher Projekte. Diese können während des Projekts immer genauer werden, da mehr Information zur Verfügung steht. [^2]
 
 # Vor- und Nachteile der Zeitplanung im klassischem Projektmanagement
 Klassisches Projektmanagement eignet sich am besten für Projekte, welche kompliziert und genauestens ausgearbeitet werden müssen. Aber auch für Projekte die bereits in vergleichbarere Form stattgefunden haben. [^8] 
