@@ -5,36 +5,36 @@ author: SaskiaHe
 anrechnung: a
 ---
 
-Megatrends im Projektmanagement sind Veränderungen, mit denen sich ein Projektmanager auseinandersetzen muss. Er entscheidet welche seiner Projekte er trotz diesen Herausforderungen weiterführen möchte oder welche neuen Projekte sinnvoller wären.
+Megatrends im Projektmanagement sind Veränderungen, mit denen sich ein Projektmanager auseinandersetzen muss. Er entscheidet, welche seiner Projekte er trotz diesen Herausforderungen weiterführen möchte oder welche neuen Projekte sinnvoller wären.
 
 # Megatrends im Projektmanagement im Jahr 2021 [^1]
 
 ## 1. Corona-Pandemie
 
-Schon im Jahr 2020 hat sich der Covid-19-Virus angefangen zu verbeiten und veränderte die gesamte Welt. Fast die gesamte Wirtschaft wurde vor große Herausforderungen gestellt. Viele der Unternehmen gingen pleite, aber es gründeten sich auch eine Menge neuer Unternehmen. Die Führungskräfte aller Unternehmen mussten nun entscheiden wie sie ihr Unternehmen aufrechterhalten. Dabei mussten sie oft selten genutzte Technologien nutzen und ausbauen oder sogar neue [Methoden](Methoden.md) entwickeln. Die Manager mussten zum einen ihren Mitarbeiten durch Remote-Work oder Homeoffice den Arbeitsablauf weiterhin ermöglichen. Zum anderen mussten sie aber auch dafür Sorge tragen, dass ihre Mitarbeiter psychisch gesund bleiben. Dies kann mit Hilfe täglich virtuelle Kaffeepausen beispielweie die Teamfähigkeit weiterhin fördern und möglicherweise alleinstehende vor desozialisierung schützen. Doch da dies eine sehr große Aufgabe ist kann der Manager die Mitarbeiter nur unterstützen.
+Schon im Jahr 2020 hat sich der Covid-19-Virus angefangen zu verbreiten und veränderte die gesamte Welt. Fast die gesamte Wirtschaft wurde vor große Herausforderungen gestellt. Viele der Unternehmen gingen pleite, aber es gründeten sich auch eine Menge neuer Unternehmen. Die Führungskräfte aller Unternehmen mussten nun entscheiden wie sie ihr Unternehmen aufrechterhalten. Dabei mussten sie auf selten genutzte Technologien zurückgreifen und ausbauen oder sogar neue [Methoden](Methoden.md) entwickeln. Die Manager mussten zum einen ihren Mitarbeiten durch Remote-Work oder Homeoffice den Arbeitsablauf weiterhin ermöglichen. Zum anderen mussten sie aber auch dafür Sorge tragen, dass ihre Mitarbeiter psychisch gesund bleiben. So kann beispielsweise mit Hilfe von virtuellen Kaffeepausen die Teamfähigkeit weiterhin gefördert werden und möglicherweise alleinstehende vor Desozialisierung schützen. Doch da dies eine sehr große Aufgabe ist kann der Manager die Mitarbeiter dabei nur unterstützen.
 
 ## 2. Klimakrise [^2]
 
-Das Eis überall auf der Welt schmilzt immer weiter. Der Meeresspiegel steigt und die Ozeane und die Erde werden immer wärmer, wodurch die Artenvielfalt immer mehr schrumpft. Der Klimawandel hat sehr viele negative Folgen, die dringend reduziert werden müssen. 
+Das Eis überall auf der Welt schmilzt permanent weiter. Der Meeresspiegel, die Temperatur der Ozeane und der Erde steigen kontinuerlich, wodurch die Artenvielfalt immer mehr schrumpft. Der Klimawandel hat sehr viele negative Folgen, die dringend reduziert werden müssen. 
 
-Da wie man auf der Abbildung sieht ein sehr großer Teil des CO²-Ausstoßes durch die Industrie hervorgerufen wird, müssen unbedingt auch die Projektmanager sich mit der Reduzierung auseinandersetzen.
+Nachfolgende Abbildung zeigt, dass ein sehr großer Teil des CO2-Ausstoßes  durch die Industrie hervorgerufen wird.Deswegen müssen unbedingt auch die Projektmanager sich mit der Reduzierung des CO2-Ausstoßes auseinandersetzen.
 
 ![Abbildung](https://github.com/SaskiaHe/ManagingProjectsSuccessfully.github.io/blob/cd402f9fcec0d79f1cf0a51ff1efcfedb74b8ab9/kb/Megatrends/Co2%20aussto%C3%9F.jpeg) [^3]
 
-Dies wirkt sich auf den gesamten Projektablauf aus. Unternehmen müssen zum einen versuchen ihre Produkte klimaneutral herzustellen und dabei die Luftverschmutzung zu reduzieren. Auch um die Ressourcenknappheit und – beschaffung muss sich gesorgt werden
+Dies wirkt sich auf den gesamten Projektablauf aus. Unternehmen müssen versuchen ihre Produkte klimaneutral herzustellen und dabei die Luftverschmutzung zu reduzieren. Auch um die Ressourcenknappheit und –beschaffung muss sich gesorgt werden
 
 ## 3. Bürger- und Gleichstellungsbewegungen
 
-In den letzten Jahren hat die Anzahl an Demonstrationen zugenommen. Es wurde vor allem gegen Polizeigewalt, gegen Rassismus und für eine Gleichstellung der Geschlechter protestiert. Dieses Thema rückte mehr und mehr in den Vordergrund. Unternehmen können dies nun nicht mehr stillschweigend betrachten, sondern müssen darauf reagieren.  In Deutschland gibt es seit März 2015 ein Gesetzt [^4], dass eine 30%ige Frauenquote in Aufsitzräten vorschreibt. Um diesen Bewegungen entgegenzuwirken müssen in allen Bereichen eines Unternehmens, auch als Teilprojektverantwortliche oder als Arbeitspaketverantwortliche Personen öfter Frauen, Menschen mit Behinderung oder mit Migrationshintergrund eingestellt werden.
+In den letzten Jahren hat die Anzahl an Demonstrationen zugenommen. Es wurde vor allem gegen Polizeigewalt, gegen Rassismus und für eine Gleichstellung der Geschlechter protestiert. Dieses Thema rückte mehr und mehr in den Vordergrund. Unternehmen können dies nun nicht mehr stillschweigend betrachten, sondern müssen darauf reagieren.  In Deutschland gibt es seit März 2015 ein Gesetzt [^4], dass eine 30%ige Frauenquote in Aufsitzräten vorschreibt. Um diesen Bewegungen entgegenzuwirken, müssen in allen Bereichen eines Unternehmens öfter Frauen, Menschen mit Behinderung oder mit Migrationshintergrund eingestellt werden. Dies kann auch bei den Positionen als Teilprojektverantwortliche oder als Arbeitspaketverantwortliche berücksichtigt werden.
 
 
 ## 4. Veränderliche Globalisierungsdynamik [^1]
 
-Arbeitskräfte in den Schwellen- und Entwicklungsländern sind günstiger als in den Industrieländern. Da Länder, wie Indien, sehr früh in den Dienstleistungssektor der Industrieländer eingestiegen sind, blieb die eigene Industrialisierung auf der Strecke. Um diesen Ländern dabei zu helfen, sind Projekte mit sozialen Auswirkungen wichtig. Organisationen erarbeiten eigene Projekte, wie Brunnenbau und Bewässerung in Schwellenländern und helfen so auf doppelte Weise. Sie schaffen Arbeit und helfen gleichzeitig den Ländern. 
+Arbeitskräfte in den Schwellen- und Entwicklungsländern sind günstiger als in den Industrieländern. Da Länder, wie Indien und China, sehr früh in den Dienstleistungssektor der Industrieländer eingestiegen sind, blieb die eigene Industrialisierung auf der Strecke. Um diesen Ländern dabei zu helfen, sind Projekte mit sozialen Auswirkungen wichtig. Organisationen erarbeiten eigene Projekte, wie Brunnenbau und Bewässerung in Schwellenländern und helfen so auf doppelte Weise. Sie schaffen Arbeit und helfen gleichzeitig den Ländern. 
 
 ## 5. [Digitalisierung](Digitalisierung_im_PM.md) und Datenmengen [^5]
 
-Durch neue Technologien, die Einsetzung von [KI](KI_im_PM.md) fallen immer mehr Daten an. Projektmanager werden vor eine große Herausforderung, da diese Daten auch verwaltet werden müssen.
+Durch neue Technologien, die Einsetzung von [KI](KI_im_PM.md) fallen immer mehr Daten an. Projektmanager werden vor eine große Herausforderung gestellt, da diese Daten auch verwaltet werden müssen.
 Dies nimmt viel Zeit in Anspruch, hilft aber andererseits beim Vereinfachen der Projekte.
 
 Um diese ganzen Daten zu speichern, werden immer öfter Clouds verwendet. 
@@ -45,7 +45,6 @@ Folgende Grafik zeigt wie die Datenmengen weltweit wachsen. Die Daten werden hie
 
 # Siehe auch
 
-* [Link auf diese Seite](Megatrends.md)
 * [Ressourcenplanung](Ressourcenplanung.md)
 * [Action_Points](Action_Points.md)
 * [Cloud_Services](Cloud_Services.md)
