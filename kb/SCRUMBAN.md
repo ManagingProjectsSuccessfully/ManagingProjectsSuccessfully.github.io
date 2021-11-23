@@ -30,7 +30,8 @@ Man unterscheidet zwischen vier verschiedenen "buckets" mit jeweils unterschiedl
 * der Current Bucket beinhaltet alle Aufgaben die das Team als nächstes bearbeiten wird. [^3]
 ## 2.2 Methoden aus Kanban
 ### 2.2.1 Scrumbanboard
-Das Scrumbanboard ist ähnlich zu einem [Kanban Board](Kanban_Boards.md), jedoch mit deutlich mehr Spalten. In der folgenden Abbildung ist ein Beispiel eines Scrumban Boards zu sehen
+Das Scrumbanboard ist ähnlich zu einem [Kanban Board](Kanban_Boards.md), jedoch mit deutlich mehr Spalten. In der folgenden Abbildung ist ein Beispiel eines Scrumban Boards zu sehen.
+
 ![Scrumbanboard](SCRUMBAN/scrumban-kanban-and-scrum.jpeg)
 
 Man erkennt auf der linken Seite die To Do's die in vorherigen Sprints noch nicht bearbeitet wurden, sowie Aufgaben die im aktuellen Sprint noch zu erledigen sind. Mittig sind die aktuellen Aufgaben zu finden, welche derzeit bearbeitet werden und welche im nächsten Sprint zu erledigen sind. Auf der rechten Seite des Boards sind die Pläne zu finden die noch genehmigt werden müssen sowie alles was im aktuellen Sprint schon erledigt worden ist.[^5]
