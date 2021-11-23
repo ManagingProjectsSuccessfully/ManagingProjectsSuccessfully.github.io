@@ -34,6 +34,10 @@ _Die Themenbereiche der aktuellen Edition_ [^5]
 
 Verschiedene Elemente wie Portfolios, Programme und Produkte können, wenn sie in einem System kombiniert werden, dazu beitragen, je nach Organisationsstrategie einen bestimmten Wert zu schaffen. Damit die Übereinstimmung mit der Strategie und eine Anpassung an das Umfeld gewährleistet sind, sollte zwischen den beteiligten Elementen ein regelmäßiger Informationsaustausch stattfinden. Das Governance System unterstützt dabei das Wertschöpfungssystem und stellt einen Rahmen für verschiedene Funktionen wie Aufsicht und Kontrolle dar. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter](Projektmitarbeiter.md) betont, die unabhängig vom Führungsansatz ist. Entscheidend für das Projektergebnis ist daher die regelmäßige Kooperation zwischen Projektmitgliedern und Stakeholdern. Jedes Projekt wird zudem von seinem internen als auch vom externen Umfeld günstig, ungünstig oder neutral beeinflusst [^6].
 
+![Abbildung](PMBOK_Guide/system.jpg)
+
+*Beispiel für ein Wertschöpfungssystem* [^6]
+
 ## Project Management Principles 
 Die Grundsätze wurden von Projektspezialisten verschiedener kultureller und beruflicher Hintergründe erstellt. Sie ergänzen den *Code of Ethics and Professional Conduct* des PMI und sind nicht präskritpiv. Projektteams sollen sich lediglich an den Grundsätzen orientieren. Die Prinzipien sind konsistent und können sich untereinander oder mit allgemeinen Managementprinzipien überschneiden [^7].
 
