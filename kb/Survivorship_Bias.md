@@ -70,8 +70,7 @@ Es hilft, wenn die Gesellschaft dahingehend ausgerichtet wird erst jede Möglich
 Grundsätzlich hilft es sich bewusst zumachen, dass es in fast allen Feldern Survivorship Bias gibt. Allein durch dieses Denken werden schon viele Verzerrungen aufgedeckt. 
 
 
-# Siehe auch
-## Andere Beiträge in Github
+## Siehe auch andere Beiträge in Github
 
 * [Erfolgsmessung](https://github.com/pu79xube/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md)
 * [Forschungsprojekte](https://github.com/pu79xube/ManagingProjectsSuccessfully.github.io/blob/main/kb/Forschungsprojekte.md)
