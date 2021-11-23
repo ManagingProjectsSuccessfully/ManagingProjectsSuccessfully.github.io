@@ -11,16 +11,18 @@ Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen
 
 Projektmanagement-Methoden sind spezielle Methoden, bspw. Kanban-Board, die innerhalb eines generellen Vorgehensmodells wie zum Beispiel Kanban angewendet werden.[^7]
 
+Zu unterscheiden sind Methoden von Methodiken.[^7] Per definitionem ist eine Methode genau genommen die Art und Weise, wie ein Vorgehen von Statten geht [^12] oder auch ein Untersuchungs-, Forschungsverfahren oder planmäßiges Vorgehen.[^13] Eine Methodik dagegen ist die "Gesamtheit von Methoden, als Teildisziplin einer Fachwissenschaft auch die Lehre von den in dieser Wissenschaft angewandten Methoden", also die generelle Anwendung von verschiedenen Methoden.[^13] Methodiken fassen mehrere Methoden in einem Vorgehensmodell zusammen.[^7]
 
 # Methoden des klassischen Projektmanagements
 
 Im klassischen oder auch traditionellen Projektmanagement werden Aktivitäten und Abläufe im Vornherein genau geplant und dokumentiert. Die Projektdurchführung sollte abgesehen von kleinen Änderungen möglichst genau an diesen vorgefertigten Plänen angelehnt sein. Dadurch ergeben sich entsprechende Methoden, die einzelne Elemente des Projektes wie Phasen, Meilensteine und Inhalte festlegen. Typische Methoden sind dabei Netzplantechnik, Meilensteintrendanalyse, Projektstrukturplanung und die Erstellung eines Gantt-Charts.[^7]
 
 ## Netzplantechnik
-Die Netzplantechnik dient, meistens als Softwareprogramm, zur Unterstützung der zeitlichen und organisatorischen Planung von Projekten. [^8]
+Die Netzplantechnik dient, meistens als Softwareprogramm, zur Unterstützung der zeitlichen und organisatorischen Planung von Projekten.[^8]
 Mit dessen Hilfe kann der Ablauf eines Projekts sinnvoll strukturiert werden. Konkret werden verschiedene Aktivitäten als Kästen dargestellt und in der zu bearbeitenden Reihenfolge miteinander verbunden.[^9]
 
 ## Meilensteintrendanalyse
+Mit der Meilensteintrendanalyse können Termine prognostiziert und gesteuert werden. Vorher dokumentierte Meilensteine werden hierbei auf Erreichen überprüft.[^11]
 
 ## Projektstrukturplanung
 
@@ -54,6 +56,10 @@ Typische Methoden: Stakeholderanalyse, Risikoanalyse, Business Case, ABC-Analyse
 ## Kommunikationsmatrix
 
 
+ 
+# Softskill-Management in Projekten
+
+Die Methoden für Kompetenzen im Projektmanagement kann prinzipiell jedes Teammitglied übernehmen. Besonders der Projektleiter benötigt jedoch bestimmte Kompetenzen, um den erfolgreichen Ablauf seines Projektes sicherzustellen.[^14]
 
 
 ## Kreativitätsmethoden
@@ -68,10 +74,6 @@ Besonders bekannt:
 * Mind Mapping
 * Morphologischer Kasten
 * Walt Disney Methode[^2]
- 
-
-
-
 
 
 
@@ -170,9 +172,10 @@ Scheiferla Nemberch nä Bledzla Affnhidz.
 [^8]: [Netzplantechnik](https://www.unternehmerlexikon.de/netzplantechnik/)
 [^9]: [Netzplantechnik im Projektmanagement – einfach erklärt](https://www.factro.de/blog/netzplantechnik/)
 [^10]: [Agiles Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement)
-
-
-
+[^11]: [Die Meilensteintrendanalyse einfach erklärt](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/die-meilensteintrendanalyse-einfach-erklaert/)
+[^12]: [Duden](https://www.duden.de/rechtschreibung/Methode)
+[^13]: [1.3 Methode, Methodik und Methologie](http://www.dennis-oswald.de/BLOG/?p=20)
+[^14]: [25 wichtige Projektmanagement-Kompetenzen, die Sie für Ihren Erfolg benötigen](https://asana.com/de/resources/project-management-skills)
 
 
 [^111]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
