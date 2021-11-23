@@ -31,7 +31,6 @@ Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen ada
 ![BSP](Scrum_at_Scale/Bild5.png)
 
 [Abbildung 2 zu Scrum@Scale](https://www.palladio-consulting.de/scrum-at-scale/)
-
 Das Framework lässt sich in zwei Zyklen darstellen.
 
 # Die zwei Zyklen
