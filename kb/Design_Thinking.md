@@ -47,9 +47,9 @@ Es existieren mehrere Vorgehensmodelle mit einer unterschiedlichen Anzahl an Sch
 
 ### Phase 1: Verstehen 
 Im ersten Schritt wird die Ausgangssituation definiert und sichergestellt, dass alle beteiligten Personen sich auf demselben Wissensstand befinden. Mögliche Standardfragen mit denen Probleme definiert werden können sind:
-* Was soll neu entwickelt werden?
-* Für wen soll die Entwicklung relevant sein? 
-* Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? 
+* Was soll neu entwickelt werden?[^5]
+* Für wen soll die Entwicklung relevant sein?[^5]
+* Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden?[^5]
 * Welcher Endzustand soll durch die Lösung erreicht werden?[^5]
 
 ### Phase 2: Beobachten
@@ -68,6 +68,8 @@ In dieser Phase werden für die ausgewählten Ideen Prototypen gebaut, damit die
 ### Phase 6: Testen 
 Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden nun unter der Einbindung der Kunden weiter validiert und getestet. Das Ziel hierbei ist es nicht den Kunden von den Prototypen zu überzeugen, sondern vor allem [Feedback](Feedbackgespräche.md) zu erhalten und zu analysieren. Daraus werden weitere Ideen und Verbesserungen generiert und es soll frühzeitig erkannt werden, ob die Innovation den Kundenbedürfnissen entspricht. Gegeben falls werden auch nicht funktionierende Prototypen verworfen. Es kann auch zu mehreren Design Thinking-Durchläufen kommen, bis der Kunde und die Entwickler zufrieden sind mit dem Endprodukt. 
 
+[^6][^7][^8][^9]
+
 # Vor- und Nachteile
 
 | Vorteile des Design Thinkings|  Nachteile des Design Thinkings |
@@ -78,106 +80,37 @@ Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden n
 | Ausschöpfen des kreativen Potentials von Mitarbeitern  | / |
 | Unterstützung von Positive Fehlerkultur  | / |
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+[^10]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Design_Thinking/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Design_Thinking.md)
+* [Innovationsprojekte](Innovationsprojekte.md)
+* [Methoden](Methoden.md)
 
 # Weiterführende Literatur
 * [Design Thinking – Kreativität als Methode](https://www.fu-berlin.de/en/sites/nachhaltigkeit/10_dokumente/DesignThinking-Kreativitaet-als-Methode.pdf) 
 * [Design Thinking - Wikipedia](https://de.wikipedia.org/wiki/Design_Thinking)
-* [Design Thinking – Mit Methode komplexe Aufgaben lösen und neue Ideen entwickeln](https://digitaleneuordnung.de/blog/design-thinking-methode/)
 * [Design Thinking einfach erklärt (mit Workshop-Beispiel)](https://www.youtube.com/watch?v=KH_zqH8EgDo)
 * [What Is Design Thinking? An Overview](https://www.youtube.com/watch?v=gHGN6hs2gZY)
 * [Design Thinking - Gabler Wirtschaftslexikon](https://wirtschaftslexikon.gabler.de/definition/design-thinking-54120)
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
 
 # Quellen
 
 [^1]:[Einige ausgewählte Zitate zum Thema Design Thinking](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiSt-fh8ab0AhW2hP0HHWnnCxYQFnoECAoQAw&url=https%3A%2F%2Fhpi.de%2Ffileadmin%2Fuser_upload%2Fhpi%2Fdokumente%2Fpressemitteilungen%2F2015%2F20151012_Zitate_DesignThinking_final.pdf&usg=AOvVaw1V7xMxVHaKRkGpU3s36465), Abgerufen am 17. November 2021
-[^2]:[Bild1, Design Thinking Workshop]( https://startups-nordwest.de/wp-content/uploads/2018/04/Design-Thinking.jpg), Abgerufen am 17. November 2021
-[^3]:[Bild2, HPI Academy, Was ist Design Thinking?](https://hpi-academy.de/fileadmin/_processed_/b/9/csm_Design_Thinking_Prozess_DE_6c695bcd10.png), Abgerufen am 17. November 2021
-[^4]: [Design Thinking – Methode, Prozess und Workshops](https://iconstorm.com/design-thinking/), Abgerufen am 17. November 2021
+[^2]:[Bild1, Design Thinking Workshop](https://startups-nordwest.de/wp-content/uploads/2018/04/Design-Thinking.jpg), Abgerufen am 17. November 2021
+[^3]:[Die Kerngedanken von Design Thinking](https://www.diegluehbirne.de/innovationen-mit-design-thinking/), Abgerufen am 17. November 2021
+[^4]:[Bild2, HPI Academy, Was ist Design Thinking?](https://hpi-academy.de/fileadmin/_processed_/b/9/csm_Design_Thinking_Prozess_DE_6c695bcd10.png), Abgerufen am 17. November 2021
+[^5]: [Design Thinking – Methode, Prozess und Workshops](https://iconstorm.com/design-thinking/), Abgerufen am 17. November 2021
 
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^5]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^6]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^7]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^6]:[Design Thinking: So entwickeln Sie in 6 Schritten eine innovative Lösung](https://digitalzentrum.berlin/design-thinking-prozess-erklaert), Abgerufen am 17. November 2021
+[^7]:[Was ist Design Thinking?](https://hpi-academy.de/design-thinking/was-ist-design-thinking.html), Abgerufen am 17. November 2021
+[^8]:[[Design Thinking - Wikipedia](https://de.wikipedia.org/wiki/Design_Thinking), Abgerufen am 17. November 2021
+[^9]:[[Design Thinking – Mit Methode komplexe Aufgaben lösen und neue Ideen entwickeln](https://digitaleneuordnung.de/blog/design-thinking-methode/), Abgerufen am 17. November 2021
+[^10]:[Die agile Arbeitsmethode “Design Thinking”](https://www.sigel-office.com/de/magazin/die-agile-arbeitsmethode-design-thinking/), Abgerufen am 17. November 2021
 
