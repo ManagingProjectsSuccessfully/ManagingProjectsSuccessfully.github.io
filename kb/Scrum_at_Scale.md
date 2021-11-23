@@ -23,23 +23,21 @@ Dabei schreibt sich das Framework folgende Eigenschaften ganz oben auf die Fahne
 
 Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist das Framework durch folgenden einfachen Aufbau gekennzeichnet, mit einem Scrum of Scrums als zentralen Baustein. Damit kann man Scrum theoretisch beliebig über die folgenden Ebenen skalieren. 
 
- *  Teams arbeiten regulär nach Scrum mit einem Product Owner (PO), einem Scrum Master und einer optimalen Teamgröße bis zu 5 Entwickler.
- * Ab zwei Teams synchronisiert ein Scrum of Scrums (SoS) die Arbeit der angeschlossenen Scrum-Teams, optimale Größe eines SoS sind 4 bis 5 Teams.
+ *  Teams arbeiten regulär nach Scrum mit einem (Product Owner)[Product_Owner.md] (PO), einem (Scrum Master)[Scrum_Master.md] und einer optimalen Teamgröße bis zu 5 Entwickler.
+ * Ab zwei Teams synchronisiert ein (Scrum of Scrums)[Scrum_of_Scrums.md] (SoS) die Arbeit der angeschlossenen Scrum-Teams, optimale Größe eines SoS sind 4 bis 5 Teams.
 *  Ein Scrum of Scrum of Scrums (SoSoS) synchronisiert die Arbeit mehrerer Scrum of Scrum (SoS). 
 <br>
 
 ![BSP](Scrum_at_Scale/biild1.png)
+[Abbildung 1 zu Scrum@Scale](https://digitaleneuordnung.de/blog/scrum-at-scale/)
 
 Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen adaptiven Systemen. Bei Scrum@Scale sind alle Teil eines austauschbaren Scrum-Teams. Je nach den vorgegebenen Zielen werden mehrere Scrum-Teamnetzwerke zu einem ganzen Ökosystem zusammengefasst. Scrum@Scale ist für die Skalierung von Scrum in Großunternehmen konzipiert.
-Scrum@Scale basiert auf drei grundlegenden Konzepten:
 
-*	Kleine Teams
-* Skalierung im gesamten Unternehmen
-* Einrichtung einer Minimum Viable Bureaucracy
 <br>
 
 ![BSP](Scrum_at_Scale/Bild5.png)
-
+[Abbildung 2 zu Scrum@Scale](https://www.palladio-consulting.de/scrum-at-scale/)
+Das Framework lässt sich in zwei Zyklen darstellen: Scrum-Master-Zyklus und Produktinhaber-Zyklus. Im erstgenannten Zyklus geht es um das "Wie", im zweitgenannten um das "Was". Auch Überschneidungen werden so ersichtlich.
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
