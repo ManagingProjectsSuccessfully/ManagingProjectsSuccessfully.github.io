@@ -91,7 +91,7 @@ Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework z
 
 "Alle Modelle sind falsch, aber einige nützlich." George Box
 
-Das Cynefin Framework sollte nciht als das Perfekte Modell angesehen werden, um Situationen abschließend zu erklären. Es ist vielmehr eine Hilfestellung um die Ursache, den 
+Das Cynefin Framework sollte nicht als das "Perfekte" Modell angesehen werden, um Situationen abschließend zu erklären. Es ist vielmehr eine Hilfestellung um die Ursache, den 
 Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, dass einige Probleme mehrschichtig sein können z.B. sowohl komplex als auch kompliziert.
 
 # Siehe auch
