@@ -8,6 +8,9 @@ anrechnung: k
 
 Alle Projektaufgaben, von der punktuellen theoretischen Phase direkt bis hin zum Ende des [Projektlebenszyklus](Projektlebenszyklus.md), produzieren Informationen. Je größer das Projekt ist, desto größer ist die Summe und die Vielfalt von Informationen beziehungsweise Daten, die überwacht werden müssen. Deswegen sind Projekte von der angemessenen Handhabung, Lagerung und [Qualität](Qualitätsmanagement.md)  enormer Mengen an Daten abhängig.[^1] Pascal erklärt sogar schlechte [Kommunikation](Projektkommunikation.md), Übermittlung und Implementierung der Daten zur "Hauptquelle des möglichen Scheiterns eines Projektes"[^2]. Informationen haben viele Formen. Sie werden über Kanäle und Medien übermittelt und die Welt wird mit ihnen überschwemmt. Der klassische [Projektmitarbeiter](Projektmitarbeiter.md) beschäftigt sich aber nur mit dem Teil der Informationen, die für seine Aufgaben von Bedeutung sind.[^3]   
 
+![Datenmanagement und Projektmanagement](Datenmanagement_im_PM/Picture_1.png)
+*Schnittpunkte des Datenmanagements und Projektmanagements*
+
 # 2.	Verwaltung der Projektinformationen bzw. -daten
 
 ## 2.1	Einsatz der Projektmanagementsysteme und Daten
@@ -55,7 +58,7 @@ Wir unterscheiden die folgenden primären bzw. sekundären Module.[^11] In der f
 
 ## 3.2	Implementierung und Integration der Informationssysteme
 
-Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmanagement integriert, insbesondere die primären Module. (siehe Abbildung – Interaktion der primären Module).[^12] Normalerweise produziert jedes Modul Informationen, die von anderen Modulen genutzt werden; nutzt die Informationen, die von anderen Modulen erzeugt werden; oder auch beides parallel. In diesem Sinne ist die Verbindung dieser Module des Informationssystems zu einem koordinierten PMIS von sehr großer Bedeutung für ein leistungsfähiges[ Projektmanagement](Projektmanagement.md).
+Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmanagement integriert, insbesondere die primären Module. (siehe Abbildung unten).[^12] Normalerweise produziert jedes Modul Informationen, die von anderen Modulen genutzt werden; nutzt die Informationen, die von anderen Modulen erzeugt werden; oder auch beides parallel. In diesem Sinne ist die Verbindung dieser Module des Informationssystems zu einem koordinierten PMIS von sehr großer Bedeutung für ein leistungsfähiges[ Projektmanagement](Projektmanagement.md).
 
 ![Primäre Module in PM](Datenmanagement_im_PM/Picture_3.png)
 
