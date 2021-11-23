@@ -6,8 +6,7 @@ anrechnung: k
 ---
 
 Die **Walt-Disney-Methode**, welche nach ihrem Urheber [Walt Disney](https://de.wikipedia.org/wiki/Walt_Disney) benannt wurde, ist eine [Kreativitätstechnik](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) auf Basis eines Rollenspiels. Dabei nehmen verschiedene Personen die Positionen eines „Träumers“, „Realisten“ und „Kritiker“ ein, um sich mit einem Problem auseinanderzusetzen. Die Methode wurde von [Robert B. Dilts](https://de.wikipedia.org/wiki/Robert_Dilts) im Jahr 1994 veröffentlicht[^1]. 
-# Einordnung der Methode
-Methoden zur Beschleunigung des Ideenflusses in einer Gruppe, zur Überwindung mentaler Blockaden, zur Erweiterung der Suchrichtung sowie zur expliziteren Formulierung von Problemen sind alles Methoden für Kreativitätstechniken. Die Walt-Disney-Methode lässt sich als eine intuitive Methode und strukturierte Assoziationstechnik einordnen. Bei der intuitiven Methode ist es das Ziel, Gedankenassoziationen zu fördern[^2]. 
+
 # Ursprung
 Walt Disney war berühmt für seine ehrgeizigen und kreativen Projekte, welche er sich ausgedacht als auch umgesetzt hat. Selbst fünfzig Jahre nach seinem Tod ist sein Name noch immer weltweit bekannt und schmückt eine Vielzahl von Filmen, Serien und Themenparks. 
 Der Erfolg von Walt Disney lag wohl unter anderem daran, dass es für ihn scheinbar keine Grenzen gab. Walt Disney selbst, sagte einst 
@@ -19,25 +18,46 @@ Robert B. Dilts modellierte diese Herangehensweise von Walt Disney und entwickel
 Die Methode besteht aus einem Rollenspiel mit drei verschiedenen Rollen: der Träumer, der Realist und der Kritiker. Zudem macht es bei unerfahrenen Gruppen Sinn noch einen Moderator beziehungsweise Beobachter mit einzubinden. Um jede Rolle ihrem Platz zu bieten, kann man beispielsweise 3 Stühle mit etwas Dekoration in verschiedene Ecken eines Raumes stellen oder am Boden eines Raumes jeweils drei Karten mit unterschiedlichen Farben legen[^5]. Dies kann die Haltung der Teilnehmer in der jeweiligen Rolle beeinflussen[^4] 
 Jede Rolle wird von jedem Teilnehmer mindestens einmal durchlaufen. 
 # Ablauf
+![image](https://user-images.githubusercontent.com/92786176/143034599-f9c1ddc9-b3c3-41dd-91fe-142c8182e966.png)
+
+*vgl. mit [Abbildung Disney Strategie S. 103](https://link.springer.com/content/pdf/10.1007%2F978-3-658-09453-9.pdf)*
+## 1. Der Träumer
+Zuerst nimmt jeder Teilnehmer die Rolle des **Träumers** ein[^6]. Die Träumer träumen dabei vorbehaltlos von neue Ideen oder Visionen[^4]. Sie können sich dabei unter anderem folgende Fragen zur Hilfestellung nehmen: 
+- Was wäre schön?
+- Was wäre die ideale Situation? 
+- Was ist mein Traum dazu? 
+- Was fällt mir Verrücktes und Ausgefallenes dazu ein?[^6]
+
+Dabei wird in der Rolle des Träumers nicht darauf geachtet ob und wie realistisch bzw. machbar eine Idee ist. Jede Idee wird aufgenommen und nicht kritisiert[^7]. Schließlich könnte selbst aus der verrückteste Idee neue Ideen oder Lösungen ergeben.
+
+## 2. Der Realist
+Nachdem die Träumer ihre Ideen ausgearbeitet haben, gehen diese Ideen zu den **Realisten** über[^6]. Nun nimmt jeder Teilnehmer die Position des Realisten ein. Dabei wird jede Idee geprüft und ein realistischer Umsetzungsplan entworfen[^4]. Dabei kann sich der Realist folgende Fragen stellen: 
+- Was wird für die Umsetzung benötigt (Material, Menschen, Wissen, Techniken etc.)?
+- Wie kann realisiert werden, was der Träumer sich ausgedacht hat?
+- Welche Grundlagen sind schon vorhanden?[^6]
+
+## 3. Der Kritiker
+Zuletzt erhält die Position des **Kritikers** ihren Raum[^6]. Er ehält die ausgearbeite Idee des Realisten. Der Kritiker ist nicht dafür zuständig die Ideen zu verwerfen, sondern er soll die Ideen auf ihre Schwachpunkte überprüfen, um diese zu verbessern[^7]. Er kann sich dabei folgende Fragen stellen:
+- Kann das realisiert werden?
+- Was kann gar nicht funktionieren?
+- Was könnte verbessert werden? Welches sind Chancen und Risiken?
+- Was wurde übersehen?[^6]
+
+Nachdem der Kritiker die Chancen und Risiken der Ideen aufgezeigt hat, geht diese Idee wieder zurück zum Träumer. Nun stellt sich die Frage, ob dies noch seinem "Traum" entspricht. Wenn der Träumer dies als seinen "Traum" weiterhin wiedererkennt, endet die Methode. Erkennt er diesen nicht, durchläuft man erneut den Prozess[^1].  
+
+## Der Beobachter
+Zusätzlich macht es Sinn - vor allem bei noch unerfahrenen Teams - einen Beobachter mit einzubinden[^7]. Dieser wird nach jeder Rolle kurz mit einbezogen, um die Ergebnisse der jeweiligen Positionen neutral zu bewerten. Er kann dabei folgende Fragen stellen: 
+- Was fehlt noch?
+- Was brauchen Sie noch?
+- Welche Erwartungen sind noch nicht erfüllt?[^1]
+
+# Siehe auch
 
 
-# Die Rollen
+# Weiterführende Literatur
+[Methodenpool - Walt Disney Methode](https://methodenpool.salzburgresearch.at/methode/walt-disney-method/)
 
-![image](https://user-images.githubusercontent.com/92786176/142843301-82491015-25e8-4a16-9a41-8ad72ffe2003.png)
-## Der Träumer
-
-## Der Realist
-
-## Der Kritiker
-
-## Der Moderator/Beobachter
-
-# Ablauf
-Das Team beginnt mit der Rolle des Träumers. Alle Teilnehmer lassen Ihre Fantasie freien Lauf - ohne Grenzen oder Vorgaben. Denn selbst die verrückteste Ideen können neue Ideen oder Lösungen nach sich ziehen. Es folgt dir Rolle des REalisten. Jede Idee wird geprüft, ob beispielsweise schon Grudlagen vorhanden sind, was für die Umsetzung benötigt werd oder wie man sich bei der Idee fühlt. Bei einer solchen ANalysen kann sich mancher versponnene Einfall als innovativer Ansatz entpuppen. 
-Nun übernimmt das Team die Rolle des Kritikiers. Er soll isich mind mit der Frage beschäftigen, inwieweit eine Idee verbessert werden kann, welche Chanchen und Risiken sie eröffnent, was eventuell übersehen wurde und was von Vorschlag insgesamt zu halten ist.
-
-# Anwendungsbereiche
-Womöglich hat der Name des Urhebers für viele eine eigene Zugkraft - ist doch Walt Disney die prototypische Traumfabrik Hollywoods. Insgesamt lösst sich die Methode mit relativ geringen Aufwand einsetze. Sie kann bei der Ideenfindung, Problemlösung, bei Entschieudngen und Bewertungen helfen. 
+[Technique Library. The Open University - Disney, Walter Elias](http://www.nlpuniversitypress.com/html/D30.html)
 
 # Quellen
 [^1]: [Individuelle Persönlichkeitsentwicklung: Growing by Transformation](https://link.springer.com/content/pdf/10.1007%2F978-3-658-09453-9.pdf) 
@@ -45,70 +65,6 @@ Womöglich hat der Name des Urhebers für viele eine eigene Zugkraft - ist doch 
 [^3]: [Lösungsorientierte Kurzberatung - Was auf schnellem Wege Nutzen bringt S. 190](https://link.springer.com/content/pdf/10.1007%2F978-3-658-07752-5.pdf)
 [^4]: [Kreativ wie Walt Disney](https://blog.wellke.de/wp-content/uploads/2017/08/Disney-Strategie-blog-Kreativ-wie-Walt-Disney-pdf-dowload-Hans-Peter-Wellke.pdf)
 [^5]: [Individuelle Persönlichkeitsentwicklung: Growing by Transformation S. 108ff](https://link.springer.com/content/pdf/10.1007%2F978-3-658-09453-9.pdf)
-
-
-[Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
-
-
-
-
-
-![Beispielabbildung](Walt_Disney_Methode/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Walt_Disney_Methode.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^6]: [Arbeitsblatt "Walt-Disney-Methode](https://www.unternehmergeist-macht-schule.de/SharedDocs/Downloads/materialien-schueler/Walt-Disney-Methode.pdf?__blob=publicationFile)
+[^7]: [Disney Methode: Denkblockaden überwinden](https://karrierebibel.de/disney-methode/)
 
