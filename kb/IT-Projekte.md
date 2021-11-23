@@ -35,7 +35,7 @@ Im für Südenglang zuständigen Auslieferungszentrum Waltham Point in Essex wur
 ### Das Größte Lidl IT-Projekt
 Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das von SAP entwickelt wurde, anwenden. Dieses sollte das selbst programmierte und jahrzehntealte System Wawi ablösen. Eine Reduzierung des Aufwands für die Stammdatenpflege und die Möglichkeit für Prognosen in Echtzeit waren die Ziele, die das System schaffen sollte. Das Elektronisches Lidl-Warenwirtschaftsinformationssystem (Elwis) wurde nach sieben Jahren Entwicklungszeit im Jahr 2018 gestoppt. Die Ziele waren mit dem gegeben Aufwand nicht realisierbar[^8].
 
-# Angrenzenden Themen
+# Angrenzende Themen
 [Microsoft_Project_PM_Tool](https://github.com/AbderrahmaneBennani/ManagingProjectsSuccessfully.github.io/blob/main/kb/Microsoft_Project_PM_Tool.md)
 
 [Java Projektmanagement Tools](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Java_PM_Tool.md)
