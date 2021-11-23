@@ -11,8 +11,8 @@ Im Wesentlichen geht es darum effektiver Entscheidungen treffen zu können und d
 Self-management wird gerne mit Zeitmanagement verwechselt, jedoch ist das Zeitmanagement lediglich eine Teil Kompetenz die in das Self-management mitwirkt. Self-management umfasst um einige mehr Kompetenzen, die benötigt werden, um es richtig umzusetzen.
 ![Selfmanagement](Self_Management/Selbstmanagement-Beispiele-Psychologie-Tools-Methoden-Zeitmanagement-Grafik.jpg)
 # Inhaltsverzeichnis
-1. [Selfmanagement Methoden](#selfmanagement-methoden)  
-2. [Pomodoro Methode](#pomodoro-methode)  
+[Selfmanagement Methoden](#selfmanagement-methoden)  
+[Pomodoro Methode](#pomodoro-methode)  
 [Amore Methode](#amore-methode)  
 [80-20 Pareto-Prinzip](#80-20-pareto-prinzip)  
 [Eisenhower-Methode](#eisenhower-methode)  
