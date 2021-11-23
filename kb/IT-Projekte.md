@@ -12,7 +12,7 @@ Im Bereich der Softwareentwicklung sind die klassischen Vorgehensmethoden „Her
 ### HERMES
 Bei Hermes wird nach den Prinzipien des Wasserfallmodells gearbeitet, siehe folgende Abbildung:![Beispielabbildung](IT-Projekte/Wasserfallmodell.png)[^3].  
 
-Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Rolle, was dazu führt, dass die erforderlichen Projekttätigkeiten und Verantwortlichkeiten abgeleitet werden. Die Ergebnisse sind eindeutig definiert, wodurch der Anfang- und Endpunkt der Phasen vordefiniert sind und somit eine präzise Vorgehensweise gewährleistet wird. Hermes ist gekennzeichnet durch eine lineare Abfolge der Aktivitäten, was den Einsatz dieser Methode in IT-Projekten ermöglicht. Hermes wird hauptsächlich in der Schweiz angewendet[^4].
+Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Rolle, was dazu führt, dass die erforderlichen Projekttätigkeiten und Verantwortlichkeiten abgeleitet werden. Die Ergebnisse sind eindeutig definiert, wodurch der Anfang- und Endpunkt der Phasen vordefiniert sind und somit eine präzise Vorgehensweise gewährleistet wird. Hermes ist gekennzeichnet durch eine lineare Abfolge der Aktivitäten, was den Einsatz dieser Methode in IT-Projekten ermöglicht. Hermes wird hauptsächlich in der Schweiz angewendet[^4]. 
 
 
 ### PRINCE2
