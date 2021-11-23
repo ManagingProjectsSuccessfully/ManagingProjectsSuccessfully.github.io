@@ -33,9 +33,7 @@ Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird h�
 Unabhängig von der Größe des Unternehmens sollte sich jeder Projektleiter aufgrund der Individualität des [Stakeholdermanagements](Stakeholdermanagement.md) selbstständig ein eigenes Register anfertigen. Häufig unterscheiden sich die Kategorien der Tabelle, da man von Projekt zu Projekt auf unterschiedliche Sachen Wert legt.
 Allerdings gibt es auch vorgefertigte Entwürfe, an denen man sich orientieren kann bzw. die man übernehmen kann. [^1]
 
-![Beispiel für ein Register](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")
-
-*Beispiel für ein Register*
+![Beispiel für ein Register](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")  *Beispiel für ein Register*
 
 
 Im Folgenden sind die gängigsten Kategorien aufgelistet [^1]:
