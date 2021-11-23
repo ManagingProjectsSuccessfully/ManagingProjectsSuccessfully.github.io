@@ -40,11 +40,12 @@ So kann man eine Tabelle erstellen:
 
 | Funktionsart  | Beschreibung |
 | ------------- | ------------- |
-| Projektfunktionen  | Funktionen zur bearbeitung eines Boardes. Hierzu zählen Spalten, Filter Zeitleisten, Automationen und Aufgabenmanagement. |
-| Aufgabenfunktionen  | Funktionen zu bearbeitung von einzelnen Aufgaben. Hierzu zählen Aufgabeninhaber/beobachter, Fälligkeitstermine, Zeiterfassung, Checklisten oder anhänge  |
-| Funktionen für einzelne Nutzer  | Content Cell  |
-| Analysefunktionen  | Content Cell  |
-| Funktionen zu Kommunikation  | Content Cell  |
+| Projektfunktionen  | Funktionen zur Bearbeitung eines Boardes. Hierzu zählen Spalten, Filter Zeitleisten, Automationen und Aufgabenmanagement. |
+| Aufgabenfunktionen  | Funktionen zur Bearbeitung von einzelnen Aufgaben. Hierzu zählen Aufgabeninhaber/-beobachter, Fälligkeitstermine, Zeiterfassung, Checklisten, Aufgabenbeziehungen, Tags oder Anhänge.  |
+| Funktionen für einzelne Nutzer  | Funktionen damit der Nutzer den Überblick über Teams und Projekte behält. Hierzu zählen Angenda, Dashboards und Desktopanwendungen.   |
+| Analysefunktionen  | Funktionen zur Überwachung der Produktivität mithilfe von Statistiken und Berichten. Hierzu zählen Fortschritts- und Sicherheitsbereichte.  |
+| Funktionen zu Administration  | Funktionen zur Verwaltung von MeisterTask. Hierzu zählen Rollen- und Rechtevergabe.   |
+| Funktionen zu Kommunikation  | Funktionen zur Infromationsübertragung. Hierzu zählen Kommentare, Erwähnungen, Email-Benachrichtigungen und mobile Apps.  |
 
 
 
@@ -52,16 +53,16 @@ So kann man eine Tabelle erstellen:
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](MeisterTask_PM_Tool.md)
+* [Kanban](https://github.com/nazarelsaifi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
+* [Taskboard](https://github.com/nazarelsaifi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Taskboard.md)
+* [Trello](https://github.com/nazarelsaifi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Trello_PM_Tool.md)
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [MeisterTask Webpage](https://www.meistertask.com/)
+[^2]: [Wikipedia Eintrag](https://en.wikipedia.org/wiki/MindMeister)
+[^3]: [Berater Wiki](https://www.berater-wiki.de/Meistertask)
+
 
