@@ -36,7 +36,7 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 
 # Entstehung und Geschichte - Wrap-Up
 
-Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Dabei handelte es sich zum einen um die Ausbesserung des Betriebssystems OpenBSD [^13] und zum anderen um die Weiterentwicklung von Software für den damals beliebten Taschenkommunikator Palm [^14], der Firma Sun Microsystems. [^1] [^5]
+Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Dabei handelte es sich zum einen um die Ausbesserung des Betriebssystems OpenBSD [^13] und zum anderen um die Weiterentwicklung von Software für den damals beliebten Taschenkommunikator Palm [^14] der Firma Sun Microsystems. [^1] [^5]
  
 Seitdem haben sich die Hackathon in ihrer Art und Weise, ihrem Ausmaß und ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen sehr stark weiterentwickelt. [^8]
 
