@@ -25,7 +25,6 @@ author: anniSc
 | [Projektarten](kb/Projektarten.md)                                                                                                 | [Loris18](https://github.com/Loris18)                         |
 | [Typische_Projektmanagement_Fallstricke](kb/Typische_Projektmanagement_Fallstricke.md)                                             | [Lorybr](https://github.com/Lorybr)                           |
 | [Zielbeziehungen](kb/Zielbeziehungen.md)                                                                                           | [AnjaKlostermeier](https://github.com/AnjaKlostermeier)       |
-| [Zielkonflikte](kb/Zielkonflikte.md)                                                                                               | [AlperK61](https://github.com/AlperK61)                       |
 | [Routineprojekte](kb/Routineprojekte.md)                                                                                           | [fadiarabo](https://github.com/fadiarabo)                     |
 | [Innovationsprojekte](kb/Innovationsprojekte.md)                                                                                   | [pamerkl](https://github.com/pamerkl)                         |
 | [Forschungsprojekte](kb/Forschungsprojekte.md)                                                                                     | [CatrinSc](https://github.com/CatrinSc)                       |
