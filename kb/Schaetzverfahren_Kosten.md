@@ -79,8 +79,7 @@ da das Projektmanagement großen Einfluss auf die verbrauchten Aufwände eines P
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Schaetzverfahren_Kosten.md)
+* [Schätzverfahren Aufwände](Schaetzverfahren_Aufwaende.md)
 
 
 # Quellen
