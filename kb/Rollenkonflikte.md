@@ -5,9 +5,7 @@ author: martina-bchtl
 anrechnung: k
 ---
 
-Unter dem Begriff Rollenkonflikte versteht man eine weitere und oft vorkommende Konfliktmöglichkeit im Projekmanagement, wobei hier die unterschiedlichen Arten des 
-Rollenkonfliktes berücksichtigt werden müssen und wie sich diese zusammensetzen.
-
+Unter dem Begriff Rollenkonflikte werden verschiedene rollenbezogene Konfliktherde im Projektmanagement zusammengefasst.
 Rollenkonflikte entstehen einerseits dadurch, dass man sich in seinen „Rollen“ unsicher ist oder andere Personen unterschiedliche Erwartungen an die einzelnen „Rollen“ haben. 
 Einige Beispiele für die verschiedenen Rollen einer bestimmten Frau wären „Mutter“, „Schwester“, „Abteilungsleitung“ und „Vereinsmitglied“. [^1]
 
