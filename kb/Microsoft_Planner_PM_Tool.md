@@ -1,6 +1,6 @@
 ---
 title: Microsoft_Planner_PM_Tool
-tags: agil klassisch
+tags: agil klassisch Planner Microsoft Aufgabenverwaltung KANBAN
 author: BeratGuen
 anrechnung: k
 ---
