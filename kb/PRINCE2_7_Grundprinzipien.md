@@ -30,11 +30,11 @@ Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind
 3. Vor- und Nachteile
 
 ## 1. Begriffserklärung
-PRINCE2 steht für "[Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2) oder auf deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
+PRINCE2 steht für "Projects in Controlled Environments[^2] oder auf deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
 
 Die weltweit führende Projektmanagementmethode basiert auf 7 Grundprinzipien, welche sich auf die Erfahrung guter und schlechter Projekte stützen. Diese wurden im Jahr 2009 neu eingeführt. 
 
-In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich zu dem Jahr 2005 deutlich hervorgehoben[^2]. 
+In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich zu dem Jahr 2005 deutlich hervorgehoben[^3]. 
 
 <img width="232" alt="PRINCE2" src="https://user-images.githubusercontent.com/92877971/140659667-eaa44817-bd55-44f9-ad80-0ca6ab41c7b9.PNG">
 
@@ -142,7 +142,6 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 
 
 [^1]: [Prince Charming](https://quotesgram.com/img/my-prince-quotes/12903458/)
-[^2]: [Änderungen im Jahr 2009](https://silo.tips/download/methoden-des-projektmanagements-im-vergleich)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^2]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
+[^3]: [Änderungen im Jahr 2009](https://silo.tips/download/methoden-des-projektmanagements-im-vergleich)
 
