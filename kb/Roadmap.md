@@ -5,7 +5,7 @@ author: uc00ekun
 anrechnung: k 
 --- 
 
-# Roadmap
+
 
 Der in verschiedenen Branchen verbreitete Anglizismus Roadmap bedeutet in der deutschen Übersetzung 
 wörtlich "Straßenkarte"[^1]. In Analogie dazu kann sie einen groben Fahrplan für verschiedene 
