@@ -24,26 +24,18 @@ Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer proze
 | System for Value Delivery  | Tailoring |
 | Projecet Management Principles | Models, Methods, Artifacts
 
-_Gegenüberstellung der Themenbereiche der aktuellen Edition_ [^5]
+_Die Themenbereiche der aktuellen Edition_ [^5]
 
 
 
 # Inhalt des Standards
 
-## System for Value Delivery [^6]
+## System for Value Delivery
 
-Verschiedene Elemente wie Portfolios, Programme und Produkte können, wenn sie in einem System kombiniert werden, dazu beitragen, je nach Organisationsstrategie einen bestimmten Wert zu schaffen. Damit die Übereinstimmung mit der Strategie und eine Anpassung an das Umfeld gewährleistet sind, sollte zwischen den beteiligten Elementen ein regelmäßiger Informationsaustausch stattfinden. Das Governance System unterstützt dabei das Wertschöpfungssystem und stellt einen Rahmen für verschiedene Funktionen wie Aufsicht und Kontrolle dar. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter](Projektmitarbeiter.md) betont, die unabhängig vom Führungsansatz ist. Entscheidend für das Projektergebnis ist daher die regelmäßige Kooperation zwischen Projektmitgliedern und Stakeholdern. Jedes Projekt wird zudem von seinem internen als auch vom externen Umfeld günstig, ungünstig oder neutral beeinflusst. 
+Verschiedene Elemente wie Portfolios, Programme und Produkte können, wenn sie in einem System kombiniert werden, dazu beitragen, je nach Organisationsstrategie einen bestimmten Wert zu schaffen. Damit die Übereinstimmung mit der Strategie und eine Anpassung an das Umfeld gewährleistet sind, sollte zwischen den beteiligten Elementen ein regelmäßiger Informationsaustausch stattfinden. Das Governance System unterstützt dabei das Wertschöpfungssystem und stellt einen Rahmen für verschiedene Funktionen wie Aufsicht und Kontrolle dar. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter](Projektmitarbeiter.md) betont, die unabhängig vom Führungsansatz ist. Entscheidend für das Projektergebnis ist daher die regelmäßige Kooperation zwischen Projektmitgliedern und Stakeholdern. Jedes Projekt wird zudem von seinem internen als auch vom externen Umfeld günstig, ungünstig oder neutral beeinflusst [^6].
 
-|Internes Umfeld| Externes Umfeld|
-| ------------- | ------------- | 
-|Datenbestände| Marktbedingungen|
-|Verfügbarkeit von Ressourcen| Soziokulturelle Einflüsse|
-|Mitarbeiterkompetenz| Gesetzgebungen|
-
-_Beispiele für internes und externes Umfeld_
-
-## Project Management Principles [^7]
-Die Grundsätze wurden von Projektspezialisten verschiedener kultureller und beruflicher Hintergründe erstellt. Sie ergänzen den *Code of Ethics and Professional Conduct* des PMI und sind nicht präskritpiv. Projektteams sollen sich lediglich an den Grundsätzen orientieren. Die Prinzipien sind konsistent und können sich untereinander oder mit allgemeinen Managementprinzipien überschneiden.
+## Project Management Principles 
+Die Grundsätze wurden von Projektspezialisten verschiedener kultureller und beruflicher Hintergründe erstellt. Sie ergänzen den *Code of Ethics and Professional Conduct* des PMI und sind nicht präskritpiv. Projektteams sollen sich lediglich an den Grundsätzen orientieren. Die Prinzipien sind konsistent und können sich untereinander oder mit allgemeinen Managementprinzipien überschneiden [^7].
 
 * Stewardship
 * Team
@@ -61,7 +53,7 @@ Die Grundsätze wurden von Projektspezialisten verschiedener kultureller und ber
 
 # Inhalt des Leitfadens
 
-## Project Performance Domains[^8]
+## Project Performance Domains
 
 Alle zusammenhängenden Aktivitäten, die zum Erfolg eines Projekts beitragen, werden zu den acht Project Performance Domain gezählt. Aufgrund der gegenseitigen Abhängigkeit stellen sie ein integriertes System dar und sind durch einen simultanen Ablauf gekennzeichnet. Der genaue Zusammenhang der Bereiche kann je nach Projekt variieren, ist jedoch grundsätzlich immer vorhanden. Eine isolierte Betrachtung der Bereiche ist deshalb nicht vorgesehen. Abhängig von der Organisation, des Projektteams oder der Ziele setzen sich spezielle Aufgaben zusammen.
 
@@ -72,16 +64,12 @@ Alle zusammenhängenden Aktivitäten, die zum Erfolg eines Projekts beitragen, w
 *	Project Work
 *	Delivery
 *	Measurement 
-*	Uncertainty
+*	Uncertainty [^8]
 
-## Tailoring [^9]
+## Tailoring 
 
-Aufgrund der besonderen Beschaffenheit jedes Projekts sind keine einheitlichen Ansätze möglich. Das Tailoring passt daher unter Berücksichtigung des Projektlebenszyklus, der erwünschten Ergebnisse und der beteiligten Mitarbeiter den Ansatz und die Prozesse an das jeweilige Projekt an. Die Project Management Principles, die Werte und Kultur des Unternehmens bilden dabei die Basis für den Tailoring- Vorgang.
+Aufgrund der besonderen Beschaffenheit jedes Projekts sind keine einheitlichen Ansätze möglich. Das Tailoring passt daher unter Berücksichtigung des Projektlebenszyklus, der erwünschten Ergebnisse und der beteiligten Mitarbeiter den Ansatz und die Prozesse an das jeweilige Projekt an. Die Project Management Principles, die Werte und Kultur des Unternehmens bilden dabei die Basis für den Tailoring- Vorgang [^9].
 
-Einige Vorteile des Tailoring:
-* Engagierte Mitarbeiter
-* stärkere Berücksichtigung der Kundenwünsche
-* besserer Umgang mit Ressourcen 
 
 # Siehe auch
 
@@ -97,10 +85,10 @@ Einige Vorteile des Tailoring:
 * PMBOK Guide 7th Edition (12 Principles) https://www.youtube.com/watch?v=fGrsUSw1_Vw
 
 # Quellen
-[^1]:PMBOK Guide 7th Edition: Was PMP-Kandidaten wissen müssen https://www.theprojectgroup.com/blog/pmbok-guide-7th-edition/
-[^2]:Kurz und knapp: Das ist neu beim PMBOK-Guide Edition 7 https://www.inloox.de/unternehmen/blog/artikel/kurz-und-knapp-das-ist-neu-beim-pmbok-guide-edition-7/
-[^3]:PMBOK Guide 7. Ausgabe – Ein Überblick https://www.tiba-business-school.de/pmbok-guide-7-ausgabe-ueberblick/
-[^4]:PMBOK® Guide https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK
+[^1]:PMBOK Guide 7th Edition: Was PMP-Kandidaten wissen müssen https://www.theprojectgroup.com/blog/pmbok-guide-7th-edition/ Abgerufen am 23. November 2021.
+[^2]:Kurz und knapp: Das ist neu beim PMBOK-Guide Edition 7 https://www.inloox.de/unternehmen/blog/artikel/kurz-und-knapp-das-ist-neu-beim-pmbok-guide-edition-7/ Abgerufen am 23. November 2021.
+[^3]:PMBOK Guide 7. Ausgabe – Ein Überblick https://www.tiba-business-school.de/pmbok-guide-7-ausgabe-ueberblick/ Abgerufen am 23. November 2021.
+[^4]:PMBOK® Guide https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK Abgerufen am 23. November 2021.
 [^5]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.14
 [^6]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.34-47
 [^7]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.48-86
