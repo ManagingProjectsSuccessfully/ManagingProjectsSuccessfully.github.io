@@ -5,10 +5,7 @@ author: faucahvd
 anrechnung: a
 ---
 
-Sprint Planung (Von englischem Sprint Planing) ist einer von alle fünf "Events" des agilen Tools Scrum.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+*Sprint Planung* (Von englischem Sprint Planing) ist einer von alle fünf "Events" des agilen Tools Scrum.
 
 # Sprint Planung
 
@@ -55,8 +52,5 @@ Und so fängt der Sprint.
 
 # Quellen
 
-[^1]: [Sprint Planing| Projektmagzin](https://www.projektmagazin.de/methoden/sprint-planning)
-[^2]: [Die Events in SCRUM](https://www.agile-heroes.de/magazine/scrum-events/)
-[^3]: [Timeboxing](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)
-[^4]: [Sprint-Planungsmeeting](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)
+[^1]: [Sprint Planing| Projektmagzin](https://www.projektmagazin.de/methoden/sprint-planning)[^2]: [Die Events in SCRUM](https://www.agile-heroes.de/magazine/scrum-events/)[^3]: [Timeboxing](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)[^4]: [Sprint-Planungsmeeting](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)
 
