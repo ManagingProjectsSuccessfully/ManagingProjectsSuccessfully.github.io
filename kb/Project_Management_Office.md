@@ -2,88 +2,48 @@
 title: Project_Management_Office
 tags: agil klassisch
 author: nicolasrmg
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Project_Management_Office um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## 1.	Grundlagen und Verwendung
+Das Project Management Office (kurz PMO) ist eine permanente organisatorische Einheit im Unternehmen, ähnlich einer Stabsstelle, die für das zentralisierte und koordinierte Management aller Projekte zuständig ist.1 Es befindet sich häufig direkt unterhalb der Geschäftsführung und setzt die Vision und Mission des Unternehmens in Strategien und Ziele um.5
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+„Das PMO sollte den Stakeholdern in der Multiprojekt-Landschaft das gute Gefühl geben, alles im Griff zu haben.“ - Johann Strasser 6
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Der Einsatzbereich eines PMOs, variiert stark mit der Rolle des Projektmanagements im Unternehmen. In kleineren Unternehmen mit wenigen Projekten kann auf ein PMO eher verzichtet werden als in einem größeren Betrieb mit vielen abteilungs- und standortübergreifenden Projekten.5 Aufgrund seines flexiblen Einsatzbereiches ist es schwierig konkret festzulegen, was die genauen Tätigkeiten eines PMOs sind, da sich diese stets an den individuellen Anforderungen orientieren.3
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+## 2.	PMO-Strukturen 
+Das PMO ist eine Managementstruktur, die projektbezogene Governance-Prozesse standardisiert und die gemeinsame Nutzung von Ressourcen, Methoden, Tools und Techniken erleichtert. Seine Zuständigkeiten reichen von der Unterstützung des Managements bis zur direkten Leitung eines oder mehrerer Projekte. Es gibt mehrere Arten von PMO-Strukturen. Diese unterscheiden sich durch den Grad der Kontrolle und des Einflusses, den sie auf die Projekte innerhalb der Organisation haben.1
+### 2.1	Supportive PMO
+Das unterstützende PMO hat eine beratende Funktion für die Projekte. Es unterstützt durch die Bereitstellung von Vorlagen, Best Practices, Schulungen, Zugang zu Informationen und Erfahrungen aus anderen Projekten.1 Es steht den Projektleitern jedoch frei, ob sie diese Vorschläge annehmen. Daher ist der Grad der Kontrolle über die Projekte insgesamt eher gering.4
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+### 2.2	Controlling PMO
+Das steuernde PMO bietet Unterstützung und fordert die Einhaltung der Vorschriften mit verschiedenen Mitteln. Die Einhaltung kann die Übernahme bestimmter Managementrahmen oder -methoden unter Verwendung bestimmter Vorlagen, Formulare und Tools oder die Einhaltung der Governance umfassen. Der Grad der Kontrolle ist hier moderat.1
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+### 2.3	Directive PMO
+Das weisende PMO übernimmt die Kontrolle über die Projekte, indem es die Projekte direkt verwaltet. Es übernimmt selbst die Funktionen der Initiierung, Planung, Durchführung, Überwachung und des Abschlusses der Projekte.3 Der Grad der Kontrolle ist daher sehr hoch.1
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## 3.	Aufgaben
+Das PMO unterstützt die Projektleiter in vielfältiger Weise und übernimmt verschiedene Funktionen:3
 
+Es verwaltet zum einen die gemeinsamen Ressourcen aller Projekte und ermöglicht eine effiziente Zuteilung.6 Ein effizientes Ressourcenmanagement ist von großer Bedeutung, da sichergestellt werden muss, dass die richtigen Kompetenzen zur richtigen Zeit im richtigen Projekt eingesetzt werden.2
 
-# Aspekt 1
+Des Weiteren identifiziert und entwickelt es Projektmanagement-Methoden, Best Practices und Standards, die bei zukünftigen Projekten angewendet werden können. Durch diese einheitlichen Projektmanagement-Standards wird allen Projektbeteiligten ein möglichst einfacher und klaren Leitfaden vermittelt.4 Dadurch kann zum einen die gewünschte Planungsqualität sichergestellt werden, während sich gleichzeitig der administrative Verwaltungsaufwand verringert.1 Außerdem wird so eine leichtere Vergleichbarkeit zwischen den Projekten ermöglicht.3 Solche organisatorischen Standards sind zum Beispiel bereits vordefinierte Rollen oder die Nutzung einheitlicher Formulare und Checklisten. Gleichzeitig überwacht das PMO auch die Einhaltung der festgelegten Projektmanagementstandards.2
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Zudem übernimmt es Coaching, Mentoring, Schulung und die Aufsicht bei Projekten. Bevor diese überhaupt an das Projektteam abgegeben werden können, muss erst einmal das nötige Knowhow durch eine Personalentwicklung vermittelt werden.4
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Darüber hinaus ist es verantwortlich für die Entwicklung und Verwaltung von Projektrichtlinien, -verfahren, -vorlagen und anderen gemeinsamen Dokumentationen. Die Projektergebnisse werden in einer zentralen Wissensdatenbank archiviert und für eine zukünftige Nutzung bereitgestellt.5 Ein projektorientiertes Wissensmanagement wird erfahrungsgemäß erst durch ein aktives PMO gelebt.2
+
+Zuletzt übernimmt es die Koordinierung und Kommunikation und gewährleistet so einen reibungslosen Informationsfluss über alle Projekte hinweg.3
+
+## 4.	Einordnung im klassischen und agilen Projektmanagement
+Abschließend kann nicht klar gesagt werden, ob das PMO eher dem klassischen oder dem agilen Projektmanagement zugeordnet werden kann. Im ersten Moment klingen Stichworte wie einheitliche Projektmanagement-Standards erst einmal sehr starr und unflexiblen, aber man darf nicht vergessen, dass sich das PMO stets an den Anforderungen des Unternehmens anpasst und durchaus auch in einem agilen Umfeld funktionieren kann.
+
 
 ![Beispielabbildung](Project_Management_Office/test-file.jpg)
 
 *lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
