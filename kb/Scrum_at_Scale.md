@@ -27,7 +27,7 @@ Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist
  * Ab zwei Teams synchronisiert ein Scrum of Scrums (SoS) die Arbeit der angeschlossenen Scrum-Teams, optimale Größe eines SoS sind 4 bis 5 Teams.
 *  Ein Scrum of Scrum of Scrums (SoSoS) synchronisiert die Arbeit mehrerer Scrum of Scrums (SoS). 
 
-(Scrum_at_scale/pasted image 0.png)
+[Beispielbild](Scrum_at_scale/pasted image 0.png)
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
