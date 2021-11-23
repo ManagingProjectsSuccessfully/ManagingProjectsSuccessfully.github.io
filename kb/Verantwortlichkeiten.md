@@ -5,7 +5,7 @@ author: Polina0402
 anrechnung: k
 ---
 
-Verantwortlichkeit trägt die Bedeutung des Verantwortlichseins und/oder die Verantwortung für eine bestimmte Handlung tragen[^1].
+Verantwortlichkeit trägt die Bedeutung des Verantwortlichseins und/oder die Verantwortung für eine bestimmte Handlung tragen.[^1]
 In Verbindung mit dem Projektmanagement spielt die Verantwortlichkeit eine entscheidende Rolle.
 
 # Grundlegendes zu Verantwortung
@@ -19,11 +19,9 @@ Beispiele, die das Tragen der Verantwortung widerspiegeln:
 
 Zusätzlich kann man diese Beispiele in freiwillige und nicht unfreiwillige Übernahme der Verantwortung unterteilen. So wäre die Übernahme der Verantwortung über ein Projekt meist eine freiwillige Aktion, die Übernahme der Verantwortung durch eine ungewollte Schwangerschaft.
 
-Verantwortung wir meist philosophisch erklärt und beschrieben, da es auch sehr vielschichtig und nicht eindeutig ist. Mit dem Begriff ***Verantwortlichkeit*** jedoch wird oft die Zuweisung einer Aufgabe verbunden, wie ein Projekt zu leiten.
+Verantwortung wir meist philosophisch erklärt und beschrieben, da es auch sehr vielschichtig und nicht eindeutig ist. Mit dem Begriff ***Verantwortlichkeit*** jedoch wird oft die Zuweisung einer Aufgabe verbunden, wie ein Projekt zu leiten.[^2]
 
-![Abbildung](Verantwortlichkeiten/Grundbeziehungen der Verantwortung.jpg)
 
-*Grundbeziehungen der Verantwortung*
 
 # Projektverantwortung
 
@@ -33,7 +31,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Verantwortlichkeiten/test-file.jpg)
+![Beispielabbildung](Verantwortlichkeiten/Grundbeziehungen der Verantwortung.jpg)
 
 *lustiges Testbild*
 
@@ -85,8 +83,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: https://www.duden.de/rechtschreibung/Verantwortlichkeit
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: ( https://www.duden.de/rechtschreibung/Verantwortlichkeit )
+[^2]: ( https://de.wikipedia.org/wiki/Verantwortung#cite_note-8 )
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
