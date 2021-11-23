@@ -10,7 +10,7 @@ Kurzbeschreibung zu Kennenlernspiele um ein erstes Verständnis dafür zu schaff
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Einsatz
+# Einsatz in Projekten
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -35,6 +35,8 @@ Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Mogge
 die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+
+Die Bereitschaft zum Wissensaustausch und zur Kollaboration ist bei Mitgliedern eines Teams geringer je größer die Diversität und Unbekanntheit in der Gruppe ist[^1]. 
 
 
 # Beispiele
