@@ -5,15 +5,23 @@ author: Ferdi-nand
 anrechnung: k
 ---
 
-Im Kontext der Softwareentwicklung bezeichnet Test Driven Development die Strategie, vor der Entwicklung von Code bereits die Tests dafür zu erstellen und den eigentlichen Code erst danach zu entwickeln.[^1][^2]
-
-# Geschichte
-
-Ursprünglich vorgestellt wurde der Ansatz 2002 von Kent Beck in seinem Buch Test-Driven Development By Example[^3]. 
+Im Kontext der Softwareentwicklung bezeichnet Test Driven Development (TDD) die Strategie, vor der Entwicklung von Code bereits die Tests dafür zu erstellen und den eigentlichen Code erst danach zu entwickeln.[^1][^2]
 
 # Vorgehensweise
 
-TODO
+Ursprünglich vorgestellt wurde der Ansatz 2002 von Kent Beck, einem Mitentwickler des [Extreme Programming](Xtreme_Programming.md), in seinem Buch "Test-Driven Development By Example"[^3]. 
+
+Darin zeigte er die erfolgreiche Anwendung an verschiedenen Beispielen und erklärte dessen Zyklus "Red/green/refactor", der die Entwicklung in drei Phasen einteilt, die immer wieder nacheinander ablaufen.
+
+## Der RGR-Zyklus
+
+| Schritt  | Aufgabe |
+| ------------- | ------------- |
+| Red  | Schreibe einen neuen Test für die Funktion, die du einbauen möchtest.<br/>Weil das Programm die Funktion noch nicht beherrscht, muss er fehlschlagen.  |
+| Green  | Schreibe deinen Code so um, dass der Code funktioniert. Dabei wird nicht auf guten Stil (z.B. Kommentare, Vermeidung von Duplikationen) geachtet, wichtig ist die Funktion.  |
+| Refactor  | Jetzt wird der funktionierende Code überarbeitet, sodass er weiterhin funktioniert, aber die Richtlinien zu gutem Stil erfüllt, die im zweiten Schritt ignoriert wurden.  |
+
+
 
 
 
@@ -94,6 +102,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
+* [Xtreme Programming](Xtreme_Programming.md)
 * [Link auf diese Seite](Test_Driven_Development.md)
 
 # Weiterführende Literatur
