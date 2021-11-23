@@ -40,7 +40,6 @@ Zunächst ist KI-Software nicht dazu da die Mitarbeiter zu überwachen[^6] oder 
 
 
 # Siehe auch
-- [Von Chatbots bis zu Waffensystemen - Fluch und Segen der Künstlichen Intelligenz | SWR Doku](https://www.youtube.com/watch?v=oNk6ESLpxKI)
 - [KI_im_Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/KI_im_PM.md)
 - [Machine_Learning_im_Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Machine_Learning_im_Projektmanagement.md)
 
@@ -50,7 +49,7 @@ Zunächst ist KI-Software nicht dazu da die Mitarbeiter zu überwachen[^6] oder 
 - Buch: [Crashkurs KI im Unternehmen](https://shop.haufe.de/prod/cashkurs-ki-im-unternehmen),
 - Video: [KI im Projektmanagement – was kann's? (Teil 1)](https://www.youtube.com/watch?v=eBtxz60kCjY),
 - Video: [KI im Projektmanagement – was kann's? (Teil 2)](https://www.youtube.com/watch?v=mr5EBwpVR4Y)
-        
+- Video: [Von Chatbots bis zu Waffensystemen - Fluch und Segen der Künstlichen Intelligenz | SWR Doku](https://www.youtube.com/watch?v=oNk6ESLpxKI)
 
 # Quellen
 [^1]: https://www.tiba.de/wie-kuenstliche-intelligenz-ki-das-projektmanagement-beeinflusst/ Autor: Reinhard Wagner geöffnet am 11.11.2021 16:00 Uhr
