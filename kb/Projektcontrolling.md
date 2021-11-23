@@ -36,7 +36,7 @@ Im Laufe des Projekts müssen alle drei Punkte des [Projektdreiecks](Magisches_D
 
 ![Projekt Controlling](Projektcontrolling/projectcontrolling.jpg)
 
-*Kennzahlen des Projektcontrollings.*[^10]
+*Überwachung der Kennzahlen im Projektcontrolling Kontext.*[^10]
 
 ## Methoden
 Mittlerweile finden viele, größtenteils standardisierte Methoden ihre Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten Umfang, Dauer und Komplexität des Projektes berücksichtigt werden. Grundsätzlich gilt hier die Devise: Je einfacher und durschaubarer die Methode, desto besser.[^7]
