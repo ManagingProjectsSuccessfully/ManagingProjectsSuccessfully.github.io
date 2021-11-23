@@ -8,7 +8,6 @@ anrechnung: k
 
 „Vom Mythos des Mann-Monats“ ist ein Essay des amerikanischen Informatikers Fred Brooks aus dem gleichnamigen Buch „The Mythical Man-Month: Essays on Software Engineering“ (deutsch: Vom Mythos des Mann-Monats: Essays über Software-Engineering). In seinen Essays befasst er sich mit seinen Eindrücken und Erfahrungen in Bezug auf Software-Engineering und [Projektmanagement](Projektmanagement.md), die er als ehemaliger Leiter des Projekts [OS/360](https://de.wikipedia.org/wiki/OS/360) bei [IBM](https://de.wikipedia.org/wiki/IBM) gesammelt hat, und den daraus geschlossenen Erkenntnissen. Aus diesen leitete Brooks das [Brook'sche Gesetz](https://de.wikipedia.org/wiki/Anti-Pattern#Brooks.E2.80.99sches_Gesetz) ab.
 
-
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -28,14 +27,12 @@ Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, h
 Gniedlaskubf daneem. 
 
 
-
 # Der Mythos Mann-Monat
 Zeitnot stellt die häufigste Ursache für das Scheitern von Software-Projekten dar und entsteht laut Brooks aus folgenden Gründen:[^1]
 * Optimismus
 * Der Mann-Monat
 * System-Prüfung
 * Schätzen ohne Risikobereitschaft
-
 
 ## Optimismus
 Brooks sieht in dem bei allen Programmierern aufgrund ihrer eigenen Arbeitsweise verankerten Gedankengang, alles werde schon gutgehen, einen der Gründe für das Entstehen von Zeitnot. Aus der Annahme eines reinen Gedankengebäudes mit Konzepten und deren formbarer Repräsentation schlussfolgern Programmierer eine problemlose Umsetzung ihrer Gedanken. Sie verkennen, dass auch ihre Ideen durchaus mangelhaft sein können, wodurch auch ihre Implementierung fehlerbehaftet ist. Durch diesen Irrtum gehen Programmierer daher übereilt davon aus, dass schon alles klappen wird.[^1] Dieser Optimismus führt regelmäßig dazu, dass der für die Umsetzung benötigte Zeitaufwand unterschätzt wird.[^2]
@@ -89,7 +86,6 @@ So kann man eine Tabelle erstellen:
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-
 # Aspekt n
 
 1. das
@@ -98,7 +94,6 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 4. eine
 7. nummerierte liste
    1. und hier eine Ebene tiefer
-
 
 # Siehe auch
 
@@ -118,8 +113,9 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 
 [^3]: [Mannjahr](https://wirtschaftslexikon.gabler.de/definition/mannjahr-39390/version-262799), 19.02.2018, abgerufen am 23.11.2021.
 
-
 [^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+
 
