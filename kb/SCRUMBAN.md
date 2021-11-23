@@ -70,7 +70,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: https://kanbantool.com/de/kanban-guide
+[^1]: [Kanban Guide](https://kanbantool.com/de/kanban-guide)
 [^2]: https://en.wikipedia.org/wiki/Scrumban#Tooling
 [^3]: https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/
 [^4]: https://de.wikipedia.org/wiki/Scrum#Sprint
