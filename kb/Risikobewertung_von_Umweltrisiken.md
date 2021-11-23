@@ -37,56 +37,6 @@ Sobald die potenziellen Umweltrisiken identifiziert sind, können sie bewertet w
 Eine Maßnahme zur Vermeidung und Minimierung von Umweltrisiken und ihrer Schäden ist beispielsweise die nachhaltige Gestaltung von Produktionsprozessen. Ein Produktionsprozess wird als nachhaltig betitelt, wenn dieser auf umweltfreundliche Materialien und Stoffe zurückgreift und diese in effizienter Abfolge von Teilschritten verarbeitet. Das ist häufig mit hohen Anfangsinvestitionen verbunden, jedoch können durch die Nachhaltigkeit und innovative Lösungen langfristig Kosten gespart werden. Eine weitere sinnvolle Maßnahme sind Versicherungen. Sie sind besonders gut bei externen Umweltrisiken geeignet, weil diese schwierig vorhergesehen und vermieden werden können. 
 
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Risikobewertung_von_Umweltrisiken/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
 # Siehe auch
 
 Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten gespart werden können:
