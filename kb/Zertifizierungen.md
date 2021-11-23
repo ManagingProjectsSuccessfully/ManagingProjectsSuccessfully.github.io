@@ -2,103 +2,90 @@
 title: Zertifizierungen
 tags: agil klassisch
 author: JonasMallwitz
-anrechnung: k oder a
+anrechnung: k
 ---
+# 1. Zertifizierungen und deren Bedeutung im Projektmanagement 
 
-Kurzbeschreibung zu Zertifizierungen um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Bereits in den vorherigen Artikeln wurde deutlich betont, dass es nicht nur eine gültige Definition von [Projektmanagement](Projektmanagement.md) (PM) gibt und es neben der klassischen und agilen Variante zu Abweichungen in der praktischen Umsetzung kommen kann. 
+Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der Umsetzung des PM treffen zu können, ist es notwendig, die Fähigkeiten von unabhängigen und breitflächig akzeptierten Instanzen zertifizieren zu lassen. Dies geschieht über Zertifizierungsstellen wie z.B. der DEKRA, dem TÜV oder der Deutschen Gesellschaft zur Zertifizierung von Managementsystemen (DQS), die neben dem Lehrangebot für die Zertifizierung auch eine Prüfung zur Zertifikatsausstellung anbieten.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# 2. Vergleich der Zertifizierung im PM
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besonders relevant sind und wie weit dieser bereits qualifiziert ist, bieten sich Zertifizierungen für unterschiedliche PM-Standards an. Diese Projektmanagementstandards werden oft in unterschiedlicher Modifikation von einer Organisation angeboten. Die folgende Tabelle gibt einen ersten Überblick über vier der beliebtesten Zertifizierungen in den unterschiedlichen Projektmanagementstandards.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Übersicht etablierter PM-Standards[^2][^3][^4][^5][^6][^7]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+| PM-Organisation / Anbieter                   | IPMA                     | PMI                                | PMI                                | Prince2            | Scrum.org      |
+|-----------------------------------------|--------------------------|------------------------------------|------------------------------------|--------------------|----------------|
+| Beliebte Zertifizierung<br>als Beispiel | IPMA Level D             | PMI-ACP-Zerifizierung              | PMP-Zertifikat                     | Prince2 Foundation | PSM1           |
+| Einordnung klassisches /<br>agiles PM   | Klassisch                | Agil                               | Klassisch                          | Agil               | Agil           |
+| Schwerpunkt                             | Hard- und Softskills     | Methodiken wie Scrum, Kanban, etc. | Prozesse und Methoden              | Prince-2 Methodik  | Scrum Methodik |
+| Zielgruppe                              | Mittlere Erfahrung im PM | Projektmanager mit Berufserfahrung | Projektmanager mit Berufserfahrung | Anfänger           | Anfänger       |
+| Gültigkeit                              | 5 Jahre                  | 2 Jahre                            | 3 Jahre                            | 3 Jahre            | Lebenslang     |
+| Kosten                                  | Ca. 4.000 Euro           | Ca. 400 Euro                       | Ca. 3.000 Euro                     | Bis zu 1500 Euro   | Kurs: ca. 1.500; Prüfung: 150 Euro       |
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Ziel dieser Tabelle ist es, einen ersten Überblick über PM-Zertifizierungen zu geben und deren Unterschiede aufzuzeigen. Einzelne Organisationen und deren angebotenen Zertifizierungen, wie die IPMA, das [PMI](PMI_Institution.md) oder [Scrum.org](SCRUM_org_Institution.md) werden in den seperaten Arikeln näher beleuchtet.
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+# 3. Auswahl der passenden Zertifizierung
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget, dem aktuellen Wissensstand oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitnehmer die Anerkennung des [Zertifikats bei internationalen Arbeitgebern](Internationale_Projektmanagement_Standards.md), so bietet sich ein Zertifikat der IPMA-Organisation an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PM Zertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das PMP-Zertifikat oder die PMI-ACP-Zertifizierung der PMI eine höhere Chance, anerkannt zu werden.[^2][^3]
 
+# 4. Praktische Relevanz von Zertifizierungen im PM
 
-# Aspekt 1
+Bereits zu Beginn dieses Artikels (vgl. 1. Zertifizierungen und deren Bedeutung im Projektmanagment) wurde aufgezeit, dass PM-Zertifizierungen eine objektive Darlegung des Wissenstands und der Fähigkeiten von Projektmangern verkörpern.[^1] Darüber hinaus gibt es weitere Beweggründe, eine PM-Zertifizierung zu erwerden. Diese werden im Folgenden kurz dargestellt.
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## 4.1. Höhere Einstell- und Verdienstchancen auf dem Arbeitsmarkt
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Mit der Aufnahme einer PM-Zertifizierung in den Lebenslauf, steigt nicht nur nicht die Einstellwahrscheinlichkeit, sondern auch die Gehaltaussichten in Anhägigkeit von der Branche und der Unternehmensgröße. Nicht zu vernachlässigen ist, dass Projektmanager mit 6 bis 10 Jahren Berufserfahrung im Durschnitt bereits über 87.000 Euro Brutto-Jahresgehalt erzielen und monetär weniger Anreize zur Weiterbildung haben.[^8] Demnach stärkt eine Zertifizierung ungemein die Reputation des Projektmanagers.
 
-![Beispielabbildung](Zertifizierungen/test-file.jpg)
+Die folgende [Grafik](https://www.theprojectgroup.com/blog/projektmanagement-zertifizierung/) verdeutlicht den Gehaltsvorsprung, den zertifizierte Projektmanager im Durchschnitt erzielen. 
 
-*lustiges Testbild*
+![Abbildung 1](Zertifizierungen/Gehaltsvergleich.jpg)
 
-# Aspekt 2
+Die Abbildung zeigt, dass nicht jede erlangte Zertifizierung Verdienstmöglichkeiten über dem Durchschnittsgehalt von 80.251 Euro Brutto-Jahresgehalt im PM garantiert. Dennoch ist der Erwartungwert des Mehrverdienstes mit 1.551 Euro (Durschnitts Brutto-Jahresgehalt mit Zertifizierung - Durschnitts Brutto-Jahresgehalt ohne Zertifizierung = 80.251 Euro - 78.700 Euro = 1.551 Euro) positiv und oft bereits deutlich höher als die Kosten der Zertifizierung. Setzt man die Mehrverdienstmöglichkeiten für Projektmanager mit einer Zertifizierung im Verhältnis zu den Zertifizierungskosten, so ist der Return on Investment mit einer   Prince2 Foundation- und einer PMP-Zertifizierung am höchsten. Diese Tatsache berücksichtigt jedoch nicht die zuvor (vgl. 3. Auswahl der passenden Zertifizierung) Faktoren wie Kenntnisstand, Anforderungen des Arbeitgebers, oder individuell unterschiedliche Faktoren wie der Vorbereitungsdauer.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## 4.2. Kürzere Einarbeitungszeiten und Karrieresprünge
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Durch eine erlangete Zertifizierung im PM werden nicht nur Einarbeitungszeiten aufgrund der bereits erworbenen fachlichen und/oder methodischen Fähigkeiten für neue Mitarbeiter verkürzt, sondern auch Karrieresprünge für bestehende Mitarbeiter ermöglicht.[^9][^10]
 
-So kann man eine Tabelle erstellen:
+# Zusammenfassung
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Projektmanagern eine Zertifizierung anhand der persönlichen Bedürfnissen auszuwählen. Auch wenn eine Zertifizierung nicht immer zu einer überdurchschnittliche Bezahlung führt, wurde eine Vielzahl an Vorteilen aufgezeigt, wie beispielsweise die Verkürzung der Einarbeitungszeit oder schlichtweg eine objektive Darlegung der eigenen Fähigkeiten, was wiederum auch berufliche Eintrittsbarrieren mindern kann.
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+# Abkürzungsverzeichnis
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+* PM: Projektmanagement
+* PMI: Project Management Institute
+* PMP:Project Management Professional
+* IPMA: International Project Management Association
+* PSM1: Professional Scrum Master 1
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Zertifizierungen.md)
+* [Projektmanagement](Projektmanagement.md)
+* [PMI_Institution](PMI_Institution.md)
+* [GPM_Institution](GPM_Institution.md)
+* [SCRUM_org_Institution](SCRUM_org_Institution.md)
+* [Internationale_Projektmanagement_Standards](Internationale_Projektmanagement_Standards.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Projektmanagement – ein Überblick](https://link-1springer-1com-1v0gnf2jn00cb.han.ub.fau.de/content/pdf/10.1007%2F978-3-658-30085-2.pdf)
+* [Projektmanagement-Zertifizierungen und Projektmanager-Gehalt: Vergleich der bekanntesten Zertifikate (Update 2020)](https://www.theprojectgroup.com/blog/projektmanagement-zertifizierung/)
+* [Zertifizierungen im Projektmanagement – Wie Sie Skills und Professionalität „modellieren“](https://www.youtube.com/watch?v=URlhhieZfg0)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Projekte und Projektmanagement](https://link-1springer-1com-1v0gnf2jn006b.han.ub.fau.de/content/pdf/10.1007%2F978-3-658-30085-2.pdf) (S. 103ff.)
+[^2]: [Zertifizierungen](https://www.peterjohann-consulting.de/zertifizierungen/#1_zertifizierungen_im_projektmanagement)
+[^3]: [Karriere: IPMA®, PMI® oder PRINCE2® - welche Projektmanagement-Zertifizierung ist die richtige?](https://firmen.handelsblatt.com/projektmanagement-zertifizierung.html)
+[^4]: [Projektmanagement Zertifizierung – Überblick und Empfehlungen](https://greenprojectsconsulting.com/projektmanagement/projektmanagement-zertifizierung/#t-1626027170949)
+[^5]: [Prince2 Häufig gestellte Fragen](https://www.prince2.com/de/prince2-frequently-asked-questions)
+[^6]: [Professional Scrum Master - Essen, APR 29-30, 2019](https://www.scrum.org/courses/professional-scrum-master-essen-2019-04-29-26497)
+[^7]: [Was bietet die Zertifizierung zum "PMI Agile Certified Practitioner" (PMI-ACP)?Projektmanagement Zertifizierung – Überblick und Empfehlungen](https://www.projektmagazin.de/artikel/was-bietet-die-zertifizierung-zum-pmi-agile-certified-practitioner-pmi-acp_1078661)
+[^8]: [Projektmanagement: Wer verdient wie viel](https://www.academics.de/ratgeber/projektmanager-gehalt)
+[^9]: [Projektmanagement-Zertifizierung: Sinn oder Unsinn?](https://www.haufe-akademie.de/blog/themen/projekt-prozessmanagement/projektmanagement-zertifizierungen-sinn-oder-unsinn/)
+[^10]: [Strategisches Projektmanagement](https://link-1springer-1com-1v0gnf2jn0092.han.ub.fau.de/content/pdf/10.1007%2F978-3-642-34761-0.pdf) (S. 129)
+
+
 
