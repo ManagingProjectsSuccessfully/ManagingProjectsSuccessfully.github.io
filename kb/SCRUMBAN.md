@@ -1,6 +1,6 @@
 ---
 title: SCRUMBAN
-tags: klassisch
+tags: klassisch scrum
 author: mickey0684
 anrechnung: klassisch
 ---
@@ -12,7 +12,7 @@ Der Scrum Begiff wurde bereits in den 1990er Jahrewn von Jeff Sutherland und Ken
 Scrumban wurde entwickelt um das beste aus beiden agilen Frameworks zu kombinieren und Scrum-Teams neue Möglichkeiten zu eröffnen und Kanban Konzepte in ihre Arbeit mit einzubinden[^2]. Der Schwerpunkt liegt darin Scrum durch einige Ideen aus dem Kanban Framework vor allem flexibler und reaktiver zu gestalten[^3].
 
 # 2. Methodik
-Die Idee von Scrumban lässt den dem Anwender eine gewisse Freiheit in der Frage welche Methoden und Konzepte man aus beiden agilen Frameworks für sein Team verwenden möchte. Flexibler als Scrum, welches klare Aufgaben und Rollen für bestimmte Personen im Team festlegt, während bei Kanban jeder im Team seine ursprüngliche Arbeit einfach weiter macht. Im Folgenden werden die wichtigesten Ansätze aus den beiden Frameworks welche welche für Scrumban essentiell sind näher dargestellt.
+Die Idee von Scrumban lässt den dem Anwender eine gewisse Freiheit in der Frage welche Methoden und Konzepte man aus beiden agilen Frameworks für sein Team verwenden möchte. Es ist flexibler als in Scrum, welches klare Aufgaben und Rollen für bestimmte Personen im Team festlegt, während bei Kanban jeder im Team seine ursprüngliche Arbeit einfach weiter macht. Im Folgenden werden die wichtigesten Ansätze aus den beiden Frameworks welche für Scrumban essentiell sind näher dargestellt.
 
 ## 2.1 Methoden aus Scrum
 ### 2.1.1 Meetings 
@@ -40,20 +40,7 @@ Eine weitere sehr wichtige Praktik aus Kanban ist die Limitierung des sogenannte
 ### 2.2.3 Pull-Prinzip
 Das Pull Prinzip ist ein aus Kanban entnommenes Konzept wonach jedes Teammitglied sich seine Aufgaben selbst aus dem Sprint-Backlog ziehen darf. Dadurch wird keine Arbeit von außen zugeteilt, sondern das Team entscheidet selbst welche Aufgaben sie als nächstes bearbeiten wollen.[^5]
 # 3. Fazit
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Wie in den obigen Absätzen dargestellt verbindet Scrumban die beiden agilen Frameworks Scrum und Kanban zu einem neuen alleinstehenden Rahmenkonzept, dass einerseits deutlich dynamischer auf Veränderungen reagieren kann als dies bei Scrum der Fall ist. 
 
 # Siehe auch
 
@@ -64,7 +51,6 @@ So kann man eine Tabelle erstellen:
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 * [Scrumban-essays on kanban systems for lean software development](https://books.google.de/books?hl=de&lr=&id=SQFdAgAAQBAJ&oi=fnd&pg=PA7&dq=wip+limits+scrumban&ots=ca61YFYzSf&sig=lvA3ZpYKeCpF959zZPPAFbsO3vI&redir_esc=y#v=onepage&q=wip%20limits%20scrumban&f=false)
 * [DevOps by Scrumban](https://link.springer.com/article/10.1365/s40702-017-0301-x)
 
