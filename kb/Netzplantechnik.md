@@ -20,9 +20,9 @@ In der Ablaufdarstellung mithilfe eines Netzplans existieren verschiedene Darste
 [^1]
 
 
-![Beispielabbildung](Netzplantechnik/Abbildung.1JPG) ![Abbildung.2](Netzplantechnik/Abbildung.2JPG)
+![Beispielabbildung](Netzplantechnik/Abbildung 1..JPG) 
 
-*Abbildung.1 Darstellung eines Graphen*         *Abbildung.2 Darstellung eines Vereinfachten Netzplans*
+*Abbildung.1 Darstellung eines Graphen*     
 
 ### Arten der Netzplandarstellung
 Für die Darstellung von Projektabläufen mit der In der NPT existieren verschiedene Möglichkeiten um Projektabläufe dazustellen.
