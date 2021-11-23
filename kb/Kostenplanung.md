@@ -1,6 +1,6 @@
 ---
 title: Kostenplanung
-tags: klassisch
+tags: klassisch, kosten, planung
 author: seposer
 anrechnung: k
 ---
