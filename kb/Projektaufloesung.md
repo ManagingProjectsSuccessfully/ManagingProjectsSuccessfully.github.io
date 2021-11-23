@@ -50,4 +50,4 @@ der Projektorganisation.](http://www.begriffe.vpma.de/phasen/phasen_08.html)
 [^4]: [Projektmanagement: Projektabschluss](https://www.ibim.de/projekt/5-5.htm)
 [^5]: von Känel, S. (2020). Projektabschluss, Projekteinführung. In Projekte und Projektmanagement (pp. 293-295). Springer Gabler, Wiesbaden.
 [^6]: Schneider, H., & Marti, A. (2006). Projektabschluss. Krisen vermeiden in IT-Projekten(pp.176-177). Springer Gabler, Wiesbaden.
-[^7] [Auflösung der Projektorganisation](https://mediencommunity.de/system/files/wbts/projektmanagement/le05/34_auflsung_der_projektorganisation.html)
+[^7]: [Auflösung der Projektorganisation](https://mediencommunity.de/system/files/wbts/projektmanagement/le05/34_auflsung_der_projektorganisation.html)
