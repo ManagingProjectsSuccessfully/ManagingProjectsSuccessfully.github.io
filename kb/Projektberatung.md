@@ -22,7 +22,7 @@ Durch diese fachliche Unterstützung und Zusammenarbeit von Experten hat das Unt
 Da jedes Projekt unterschiedlich und individuell ist, setzen Projektberatungsunternehmen hohen Wert auf Flexibilität und individuell an jedes Unternehmen angepasste Lösungen für Ihre Probleme. Dadurch ist jeder Lösungsansatz des Beratungsunternehmen perfekt auf die Problemlage und Bedürfnisse der Kunden abgestimmt. Dies ermöglicht eine sehr hohe Qualität des Endproduktes und hervorragende Kundenzufriedenheit der Auftraggeber [^4].
 
 
-# mögliche Ursachen für das Scheitern eines Projektes
+# Mögliche Ursachen für das Scheitern eines Projektes
 
 Ein Projekt orientiert sich stets an einem strategischen Vorgehen, das von der Definition eines vom Kunden beschriebenen Projektziels abhängt. Alle Entscheidungen innerhalb eines Projektes leiten sich also von diesem Projektziel ab und sollen auf direktem Weg zur Erreichung und erfolgreichem Abschluss des Projektes führen. 
 Basierend darauf werden nötige Tätigkeiten und Prozesse in Gang gesetzt und der Umgang mit den verfügbaren Ressourcen definiert [^1].
@@ -35,7 +35,7 @@ Mögliche Gründe für diese hohe Misserfolgsquote können sehr vielseitig sein 
 
 ![Beispielabbildung](Projektberatung/Projektscheitern2.PNG)
 
-          *häufigste Gründe für das Scheitern von Projekten*
+   *häufigste Gründe für das Scheitern von Projekten*
 
 # Aspekt 2
 
