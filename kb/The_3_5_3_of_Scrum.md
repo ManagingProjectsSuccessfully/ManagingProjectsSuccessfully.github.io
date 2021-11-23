@@ -15,6 +15,8 @@ Dies folgt aus dem erweiterten Verständnis für die allgemeine Definition von [
 
 ![Grundprinzip](The_3_5_3_of_Scrum/Scrum.jpg)
 
+*Das Grundprinzip von 3-5-3*[^2]
+
 ## Die 3 Rollen
 
 * [Product Owner (PO)](Product_Owner.md)
