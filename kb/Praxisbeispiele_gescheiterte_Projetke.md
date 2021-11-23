@@ -87,6 +87,11 @@ Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projekt
 
 * Verlinkungen zu angrenzenden Themen:
    - [Erfolgreiche Projekte](Praxisbeispiele_erfolgreiche_Projekte.md)
+   - [Erfolgsmessung](Erfolgsmessung.md)
+   - [Konfliktmanagement](Konfliktmanagement.md)
+   - [Projektmanagement](Projektmanagement.md)
+   - [Projektplanung](Projektplanung.md)
+   - [Machbarkeit](Machbarkeit.md)
 
 # Weiterführende Literatur
 
