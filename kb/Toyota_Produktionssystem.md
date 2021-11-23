@@ -5,7 +5,7 @@ author: YeldaUzun
 anrechnung: k
 ---
 
-Das Toyota Produktionssystem ist ein für Toyota entwickelter Produktionsprozess für Serienverfahren, dass sich auf die Verbesserung der organisatorischen Abläufe konzentriert. Nach dem zweiten Weltkrieg ergab sich eine Krisensituation für das japanische Unternehmen Toyota, da nur wenige Fertigungsmittel und geringes Kapital zur Verfügung stand. Schlussfolgernd war es wichtig Fahrzeuge effizient zu produzieren. Der Ingenieur Taiichi Ohno entwickelte im Jahr 1950 das Toyota Produktionssystem, indem er Just-in-Time, Jidoka (Automation) und Kaizen in einem System zusammenführte.1 Das Ziel des Produktionssystems ist es hohe Qualität bei hoher Produktivität und pünktlicher Lieferung zu erreichen. Dieses Ziel soll durch Eliminierung von Überbeanspruchung, jegliche Art von Verschwendung und ungleichmäßiger Produktionsauslastung gewährleistet werden. Verglichen wird das Toyota Produktionssystem mit einem Haus. Die Säulen des Hauses bilden die Prinzipien Jidoka und Just-in-Time. Das Fundament, bestehend aus Kaizen, Standardisierung und Heijunka, tragen zur Erreichung des Daches und somit zum Ziel bei.[^1]
+Das Toyota Produktionssystem ist ein für Toyota entwickelter Produktionsprozess für Serienverfahren, dass sich auf die Verbesserung der organisatorischen Abläufe konzentriert. Nach dem zweiten Weltkrieg ergab sich eine Krisensituation für das japanische Unternehmen Toyota, da nur wenige Fertigungsmittel und geringes Kapital zur Verfügung stand. Schlussfolgernd war es wichtig Fahrzeuge effizient zu produzieren. Der Ingenieur Taiichi Ohno entwickelte im Jahr 1950 das Toyota Produktionssystem, indem er Just-in-Time, Jidoka (Automation) und Kaizen in einem System zusammenführte.[^1] Das Ziel des Produktionssystems ist es hohe Qualität bei hoher Produktivität und pünktlicher Lieferung zu erreichen. Dieses Ziel soll durch Eliminierung von Überbeanspruchung, jegliche Art von Verschwendung und ungleichmäßiger Produktionsauslastung gewährleistet werden. Verglichen wird das Toyota Produktionssystem mit einem Haus. Die Säulen des Hauses bilden die Prinzipien Jidoka und Just-in-Time. Das Fundament, bestehend aus Kaizen, Standardisierung und Heijunka, tragen zur Erreichung des Daches und somit zum Ziel bei.[^1][^2]
 
 <img src="Toyota_Produktionssystem/ToyotaPS.png" alt="Elemente des Toyota Prodkutionssystems" width="600"/>
 Elemente des Toyota Prodkutionssystems
@@ -52,8 +52,5 @@ Das letzte Fundament des Hauses ist Heijunka. Heijunka ist eine Methodik zur Ver
 # Quellen
 
 [^1]: Frank Bertagnolli: Lean Management - Einführung und Vertiefung in die japanische Management-Philosophie. Springer Gabler, Wiesbaden 2020, [978-3-658-31240-4](https://www.doi.org/10.1007/978-3-658-31240-4).
-
 [^2]: [Toyota Produktionssystem (TPS)](https://www.der-prozessmanager.de/aktuell/wissensdatenbank/toyota-produktionssystem)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^3]: [Kaizen](https://de.wikipedia.org/wiki/Kaizen)
