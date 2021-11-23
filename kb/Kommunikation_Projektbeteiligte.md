@@ -39,5 +39,5 @@ Seit längerer Zeit beschäftigten sich auch schon Große Philosophen mit dem Th
 # Sender Empfänger Modell 
 Eines der grundlegendsten Kommunikationsmodelle ist das Sender Empfänger Modell nach Shanon Weaver. Es beschreibt die den Kommunikationsverlauf zwischen dem Sender und dem Empfänger. Hier wird eine Nachricht vom Sender kodiert und nach der Übertragung auf der Empfängerseite wieder dekodiert. Im ideal fall funktioniert das, jedoch kann es durch aus passieren das Störungen auftreten und beispielsweise Informationen auf der Empfänger Seite verfälscht ankommen. Die Störungen können unterschiedliche Ursachen haben. „Dies können einerseits uneinheitlicher Code auf Sender- und Empfängerseite z. B. Mehrdeutigkeiten, implizit vorausgesetztes Vorwissen, Transformationseffekte, unterschiedliche Sprachen und evtl. daraus entstehende Übersetzungsfehler, kulturelle Unterschiede und andererseits Störungen während der Übertragung sein“.
 
-![Beispielabbildung](Kommunikation_Projektbeteiligte/Bild-01.jpg)
+![Beispielabbildung](Kommunikation_Projektbeteiligte/Sender-Empfänger-Modell_nach_Shannon_und_Weaver.jpg)
 
