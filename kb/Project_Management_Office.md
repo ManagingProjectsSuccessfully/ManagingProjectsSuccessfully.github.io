@@ -44,7 +44,8 @@ Abschließend kann nicht klar gesagt werden, ob das PMO eher dem klassischen ode
 
 ![Beispielabbildung](Project_Management_Office/pmo_roles.png)
 
-*lustiges Testbild*
+### *Die Hauptaufgaben eines PMO*
+(https://i.pinimg.com/originals/98/01/86/98018650736a4a909dd1e3bc73375506.png)
 
 
 # Siehe auch
