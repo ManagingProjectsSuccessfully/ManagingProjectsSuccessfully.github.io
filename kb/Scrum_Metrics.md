@@ -28,7 +28,6 @@ Die Auswertung von Messwerten ermöglicht den Durchblick, durch unterschiedliche
 - Laune
 
 Diese haben dann Einfluss auf:[2]
-
 - Voraussichtliches Abschlussdatum
 - Qualität des Produkts
 
@@ -44,40 +43,28 @@ Im laufe eines Scrum Sprint sind viele wiederkehrende Erreignisse;, Sprint Planu
 ![Image](/kb/Scrum_Metrics/Scrum_Sprint_Scrum_Metrics_01.jpg)
 
 ## Sprint Planung (Sprint Planning)
-Während der Sprint Planung werden Große Projektziele auf detailierte kleinere Aufgaben runtergebrochen. Dadurch werden Sprint Ziele, Ziele die während eines Sprints erreicht werden sollen, nach priorität festgelegt (User Storys). Es ist daher sinvoll Scrum Metrics als Grundlage der Zielsetzungen einzusetzen.
+Während der Sprint Planung werden Große Projektziele auf detailierte kleinere Aufgaben runtergebrochen. Dadurch werden Sprint Ziele, nach priorität festgelegt. Es ist daher sinvoll Scrum Metrics als Grundlage der Zielsetzungen einzusetzen.
 
-Wie viel Aufgabenlast ein Team tragen kann hängt davon ab, wie effizient das Team ihre Zeit verwenden kann, wie schnell das Team arbeitet oder welche Kapazitat das Team besitzt.
-
+Wie viel Aufgabenlast ein Team tragen kann hängt davon ab, wie effizient das Team ihre Zeit verwenden kann oder welche Kapazitat das Team besitzt.
 
 ### Team Geschwindigkeit (Team Velocity)
 
-Die Geschwindigkeit eines Teams, kann anhand eines Balkendiagramms interpretiert werden. Dabei werden je nach Sprint, der vorgenommene und wirklich abgeschlossene Arbeitsaufwand anschaulich gegenüber gestellt. Der Arbeitsaufwand wird dabei an Story Points, Stunden,Geschäftswerten oder Anzahl an Aufgaben gemessen und angegeben.
-
+Die Geschwindigkeit eines Teams, kann anhand eines Balkendiagramms interpretiert werden. Dabei werden je nach Sprint, der vorgenommene und wirklich abgeschlossene Arbeitsaufwand anschaulich gegenüber gestellt. Der Arbeitsaufwand wird dabei an Story Points, Stunden oder Anzahl an Aufgaben angegeben.
 > Durchschnittliche realisierte Anzahl an Story Points pro Sprint = Team Geschwindigkeit 
-
-Zum Ende des Sprints, meist im Sprint Review, wird diese Darstellung ergänzt.
 
  ![Image](/kb/Scrum_Metrics/Team_Velocity_Scrum_Metrics_02.jpg)
 
->    - Story Points auf der Y Achse
->    - Sprints auf der X Achse
->    - der vorgenommene und wirklich abgeschlossene Arbeitsaufwand in Balken
+>    - Story Points auf Y Achse
+>    - Sprints auf X Achse
+>    - Arbeitsaufwand auf Balken
 
 ### Team Kapazität
-Die Geschwindigkeit des Teams alleine ist über die Effektivität nicht aussagekräftig genug. Verfügbarkeit der Teammitglieder ist genauso effektiv. Beurlaubung und Krankheit sind zwei Beispiele wieso ein Teammitglied fehlen könnte. 
-
-Zur berechnung der maximalen Team Kapazität sind folgende Fragen zu stellen:
-- Wie lange dauert der Sprint?
-- Wie viele Teammitglieder gibt es?
-- Wie viele Stunden arbeitet ein Teammitglied?
-
+Verfügbarkeit der Teammitglieder ist genauso effektiv wie die Geschwindigkeit. Beurlaubung und Krankheit sind zwei Beispiele wieso ein Teammitglied fehlen könnte. 
 > Sprint Dauer x Arbeitsstunden pro Mitglied x Teammitglieder = Maximale Teamkapazität
 
 Um die wirkliche Team Kapazität zu ermitteln sind folgende Fragen zu stellen:
 - Sind während des Sprints Feiertage?
-- Wie viele Teammitglieder meldeten, dass sie fehlen werden? (Wegen Beurlaubung etc.)
-- und ähnliches.
-
+- Haben Mitglieder Urlaubstage?
 > Feiertaganzahl x Arbeitsstunden pro Mitglied x Teammitglieder = Feiertagsausgfall
 
 > Fehltage x Arbeitsstunden pro Mitglied x Teammitglieder = Allgemeinausfall
@@ -85,8 +72,6 @@ Um die wirkliche Team Kapazität zu ermitteln sind folgende Fragen zu stellen:
 Nach vorhersehbarem Stand, ist die Teamkapazität:[5]
 
 > Maximale Teamkapazität - (Feiertagsausfall + Allgemeinausfall) = Teamkapazität
-
-> Teamkapazität / Max. Teamkapazität = Teamkapazität in % 
 
 Um spontane Ausfälle von Teammitgliedern mit einzubeziehen ist es ratsam die Arbeitslast, in der Sprint Planung, um 10% niedriger zu halten.[2]
 
