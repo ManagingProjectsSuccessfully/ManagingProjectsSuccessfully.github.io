@@ -31,12 +31,12 @@ Soll und Ist-Kosten des Projekts werden durch die Projektkontrolle über den ges
 ## Kennzahlen
 Im Laufe des Projekts müssen alle drei Punkte des [Projektdreiecks](Magisches_Dreieck.md) geplant und überwacht werden.[^9] Die Kennzahlen des Dreiecks umfassen:
 * Termine
-* Ressourcen
+* Kosten
 * Qualität
 
 ![Projekt Controlling](Projektcontrolling/projectcontrolling.jpg)
 
-*Projektcontrolling.*[^10]
+*Kennzahlen des Projektcontrollings.*[^10]
 
 ## Methoden
 Mittlerweile finden viele, größtenteils standardisierte Methoden ihre Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten Umfang, Dauer und Komplexität des Projektes berücksichtigt werden. Grundsätzlich gilt hier die Devise: Je einfacher und durschaubarer die Methode, desto besser.[^7]
