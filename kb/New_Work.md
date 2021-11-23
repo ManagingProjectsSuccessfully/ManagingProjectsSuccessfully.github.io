@@ -27,13 +27,13 @@ Menschen leiden häufig darunter, dass ihre Begierde nachlässt und das Wollen d
 Es geht beim New Work darum, diesen Mangel abzubauen und in den Arbeitenden eine Verbindung zwischen Sehnsucht, Leidenschaft, Erfüllung und Arbeit herzustellen.[^2]
 Um Arbeit mit Begierde und positiven Eigenschaften zu verbinden postuliert Bergmann des Weiteren den Zentralen Ausdruck <b>"wirklich, wirklich wollen"</b>. 
 Die bewusst gewählte Dopplung verdeutlicht, dass hiermit keine einmalige Überlegung gemeint ist, sondern, eine wiederkehrende Auseinandersetzung mit der eigenen Begierde.[^1]
-Es soll die Beschäftigung gefunden werden, die das Leben erfüllt und nicht als ein milderes Übel angesehen wird. New Work versucht zwischen dem ""wirklich, wirklich wollen" und dem davon leben können eine Brücke zu schlagen.[^2][^5]
+Es soll die Beschäftigung gefunden werden, die das Leben erfüllt und nicht als ein milderes Übel angesehen wird. New Work versucht zwischen dem "wirklich, wirklich Wollen" und dem "davon leben Können" eine Brücke zu schlagen.[^2][^5]
 
 New Work übt auch schwere Kritik an der Lohnarbeit, da der Mensch nur arbeitet, um Wünsche eines anderen für Geld zu erfüllen. Die Lohnarbeit steht somit im Konflikt mit dem Grundgedanken der neuen Arbeit: die Arbeit zu machen, weil das Individuum sie wirklich, wirklich will.[^9]
 
 # New Work heute
 
-New Work hat durch die zunehmende Forderung nach selbstbestimmter und erfüllender Arbeit an Bedeutung, im Unternehmenskontext, gewonnen.[^6] So setzten Unternehmen auf eine Vielzahl an Methoden um sich "New Work auf die Fahne zu schreiben".[^9] Solche Methoden umfassen bspw. das Anbieten von Homeoffice, Tischtennisplatten und "recreation areas".[^9]
+New Work hat durch die zunehmende Forderung nach selbstbestimmter und erfüllender Arbeit an Bedeutung, im Unternehmenskontext, gewonnen.[^6] So setzten Unternehmen auf eine Vielzahl an Methoden+, um sich "New Work auf die Fahne zu schreiben".[^9] Solche Methoden umfassen bspw. das Anbieten von Homeoffice, Tischtennisplatten und "recreation areas".[^9]
 Bergmann bezeichnet dieses Verständnis jedoch als "Lohnarbeit im Minirock" und als einen, von der ursprünglichen Definition, abweichenden Modebegriff.[^6]
 
 Im Gegensatz dazu gibt es Unternehmen die versuchen New Work zu verstehen und auf die Anforderungen der Wirtschaft anzupassen.
