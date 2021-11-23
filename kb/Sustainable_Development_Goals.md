@@ -1,14 +1,12 @@
 ---
 title: Sustainable_Development_Goals
-tags: agil klassisch
+tags: agil
 author: Teemoma
 anrechnung: a
 ---
 
-Kurzbeschreibung zu Sustainable_Development_Goals um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Agenda 2030 für nachhaltige Entwicklung, die 2015 von allen Mitgliedstaaten der Vereinten Nationen angenommen wurde, ist ein gemeinsames Konzept für Frieden und Wohlstand für die Menschen und den Planeten, jetzt und in Zukunft. Ihr Kernstück sind die 17 Ziele für nachhaltige Entwicklung (SDGs), die einen dringenden Aufruf zum Handeln aller Länder - Industrie- und Entwicklungsländer - im Rahmen einer globalen Partnerschaft darstellen. Sie erkennen an, dass die Beseitigung von Armut und anderen Entbehrungen Hand in Hand gehen muss mit Strategien zur Verbesserung von Gesundheit und Bildung, zur Verringerung von Ungleichheit und zur Ankurbelung des Wirtschaftswachstums - und das alles bei gleichzeitiger Bekämpfung des Klimawandels und dem Schutz unserer Ozeane und Wälder.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
