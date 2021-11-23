@@ -12,8 +12,7 @@ Scrum wurde ursprünglich entwickelt, um Teams bei der Bereitstellung von Produk
 
 # Konzept
 
-Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist das Framework durch folgenden einfachen Aufbau gekennzeichnet, mit einem Scrum of Scrums als zentralen Baustein. Damit kann man Scrum theoretisch beliebig über die folgenden Ebenen skalieren. 
-
+Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist das Framework durch folgenden einfachen Aufbau gekennzeichnet, mit einem Scrum of Scrums als zentralen Baustein. Damit kann man Scrum theoretisch beliebig über die folgenden Ebenen skalieren.[^2]
  *  Teams arbeiten regulär nach Scrum mit einem [Product Owner](Product_Owner.md) (PO), einem Scrum Master und einer optimalen Teamgröße bis zu 5 Entwickler.
  * Ab zwei Teams synchronisiert ein [Scrum of Scrums](Scrum_of_Scrums.md)
  (SoS) die Arbeit der angeschlossenen Scrum-Teams, optimale Größe eines SoS sind 4 bis 5 Teams.
@@ -68,6 +67,6 @@ Bei Anwendung von Scrum@Scale, sollte man sich vor der Skalierung auf Scrum-Prak
 # Quellen
 
 [^1]:[How to scale Scrum across a company with the help of Scrum@Scale](https://hygger.io/guides/agile/agile-at-scale/scrumscale/)
-[^] [Scrum@Scale – Ein echtes “Scrum of Scrums” Framework](https://digitaleneuordnung.de/blog/scrum-at-scale/)
-[^] [The Scrum@Scale Guide] (https://www.scruminc.com/wp-content/uploads/2014/07/Scrum-at-Scale-A-Modular-Approach.pdf)
-[^] [Scrum At Scale – die wichtigsten Infos zum agilen Skalierungsansatz](https://www.palladio-consulting.de/scrum-at-scale/)
+[^2]:[Scrum@Scale – Ein echtes “Scrum of Scrums” Framework](https://digitaleneuordnung.de/blog/scrum-at-scale/)
+[^]:[The Scrum@Scale Guide] (https://www.scruminc.com/wp-content/uploads/2014/07/Scrum-at-Scale-A-Modular-Approach.pdf)
+[^]:[Scrum At Scale – die wichtigsten Infos zum agilen Skalierungsansatz](https://www.palladio-consulting.de/scrum-at-scale/)
