@@ -13,6 +13,8 @@ Projektmanagement-Methoden sind spezielle Methoden, bspw. Kanban-Board, die inne
 
 Zu unterscheiden sind Methoden von Methodiken.[^7] Per definitionem ist eine Methode genau genommen die Art und Weise, wie ein Vorgehen von Statten geht [^12] oder auch ein Untersuchungs-, Forschungsverfahren oder planmäßiges Vorgehen.[^13] Eine Methodik dagegen ist die "Gesamtheit von Methoden, als Teildisziplin einer Fachwissenschaft auch die Lehre von den in dieser Wissenschaft angewandten Methoden", also die generelle Anwendung von verschiedenen Methoden.[^13] Methodiken fassen mehrere Methoden in einem Vorgehensmodell zusammen.[^7]
 
+
+
 # Methoden des klassischen Projektmanagements
 
 Im klassischen oder auch traditionellen Projektmanagement werden Aktivitäten und Abläufe im Vornherein genau geplant und dokumentiert. Die Projektdurchführung sollte abgesehen von kleinen Änderungen möglichst genau an diesen vorgefertigten Plänen angelehnt sein. Dadurch ergeben sich entsprechende Methoden, die einzelne Elemente des Projektes wie Phasen, Meilensteine und Inhalte festlegen. Typische Methoden sind dabei [Netzplantechnik](Netzplantechnik.md), [Meilensteintrendanalyse](Meilensteintrendanalyse.md), [Projektstrukturplanung](Projektstrukturplan.md) und die Erstellung eines [Gantt-Charts](Gantt_Diagramme.md).[^7]
@@ -57,31 +59,25 @@ Oft genutzte Methoden sind [Stakeholderanalyse](Stakeholderanalyse.md), [Risikoa
 
 
  
-# Softskill-Management in Projekten
+## Softskill-Management in Projekten
 
 Die Methoden für Kompetenzen im Projektmanagement kann prinzipiell jedes Teammitglied übernehmen. Besonders der Projektleiter benötigt jedoch bestimmte Kompetenzen, um den erfolgreichen Ablauf seines Projektes sicherzustellen.[^14]
 
 
-## Kreativitätsmethoden
+Für ein effizientes Selbstmanagement werden Techniken wie [Pomodoro](Pomodoro.md), [Pareto-Prinzip](Pareto_Prinzip) oder die [Eisenhower-Matrix](Eisenhower_Matrix.md) eingesetzt.[^7]
 
-Kreativitätsmethoden dienen im Bezug auf Projektmanagement dazu, innovative Ideen zu sammeln.
+Dem Projektleiter stehen verschiedene Mittel zur Verfügung, um die Kommunikation in der Gruppe zu verbessern und die Teammitglieder anzuführen. Es können Feedback-Gespräche(Feedbackgespräche.md), richtiges Delegieren und Teambuilding verwendet werden. 
 
-Besonders bekannt:
-* 6-3-5-Methode
-* Brainstorming
-* Brainwriting
-* Design Thinking
-* Mind Mapping
-* Morphologischer Kasten
-* Walt Disney Methode[^2]
+
+### Kreativitätsmethoden
+
+Kreativitätsmethoden dienen im Allgemeinen dazu, innovative Ideen zu sammeln. 
+Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapping.md) und die [Walt-Disney-Methode](Walt_Disney_Methode.md).[^7]
 
 
 
 
 
-
-
-## Ebene-2-Überschrift
 
 ### Ebene-3-Überschrift
 
