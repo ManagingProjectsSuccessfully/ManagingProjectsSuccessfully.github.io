@@ -1,9 +1,46 @@
 ---
 title: Top_Down_Planning
-tags: agil klassisch
+tags: klassisch
 author: laradag
-anrechnung: k oder a
+anrechnung: k
 ---
+
+Das Top-Down Planning beschreibt einen Ansatz, bei dem eine bestimmte Richtung bei der Planung eines Projekts gefolgt wird [^1]
+
+# Top-Down Planning
+##  Konzept
+
+
+##  Kritische Auseinandersetzung mit Top-Down Planning
+Aus der Top-Down Planung lassen sich sowohl Vorteile als auch Nachteile ableiten. Nachteile entstehen vor allem, wenn keine Möglichkeit zur Flexibilität besteht oder keine klare Führungsstruktur herrscht. Im Folgenden wird eine Auswahl dieser aufgeführt. 
+* Vorteile
+  - Das Gesamtziel des Unternehmens spiegelt sich einheitlich in den Teilplänen auf allen Ebenen wider
+  - Es besteht keine Konkurrenz von Einzelplänen zueinander
+  - Durch verrignerten Koordinationsaufwand können Zeit und Ressourcen eingespart werden
+  - Mitarbeiter auf niedrigerer Organisationsebene können durch den klaren Führungsstil verbessert delegiert werden
+  - Es besteht eine unternehmensweite Einheitlichkeit von Anforderungen
+* Nachteile
+  - Es besteht keine Möglichkeit zur kollaborativen Entscheidungsfindung, wodurch die kreative Lösung eines Problems durch das jeweilige Team verhindert wird
+  - Es besteht die Gefahr, dass unerreichbare und unrealistische Ziele festgelegt werden, in dem Fall, dass das Management keine klare Vorstellung über die niedrigeren Organisationsebenen besitzt
+
+## Anwendungen von Top-Down Planning
+Das Top-Down Planning findet in vielen verschiedenen Bereichen Anwendung. Im Folgenden werden Beispiele aus verschiedenen Sektoren aufgeführt.
+
+| Bereich  | Umsetzung von Top-Down Planning |
+| ------------- | ------------- |
+| Unternehmen  | Strategien und Unternehmensziele werden auf hoher Ebene definiert und anschließend auf den niedrigeren Organisationsebenen bzw. Geschäftseinheiten spezifiziert und weiterentwickelt[^1]  |
+| IT-Systementwicklung  | Systeme werden in aggregierter Ebene oder vereinfacht beschrieben. Anschließend folgt eine Verfeinerung, die zu einer detaillierten Spezifikation führt[^6]  |
+| Staat - Bildungssystem  | Innovationen, wie beispielsweise die Einführung neuer Lehrpläne, werden von den Kultusministerien eingeleitet und anschließend auf unterer Organisationsebene, den Schulen, umgesetzt [^4]   |
+| Politik  | In der Politik werden Entscheidungen der Regierung getroffen, die bis zur untersten Organisationsebene, dem Bürger, anzuwenden sind. OFtmals findet dieser Ansatz in abgewandelter Form statt, da eine strikte Umsetzung als teilweise zu unflexibel gilt [^5].  |
+| Mitarbeiter  | Mitarbeiter eines Unternehmens bringen laut Douglas McGregors Models Theorie X beim Einsatz des Top.Down Management Einsatz die größte Motivation auf. Die Unternehmensumgebung dieses Führungsstils ist oft produktions- oder arbeitsintensiv mit Augenmerk auf monetäre Anreize anstatt sozialen [^3].  |
+| 8-Step Process for Leading Change  | Bei dem von John Kotter vorgestelltem Ansatz wird mithilfe von 8 Schritten Veränderung auf der obersten Organisationsebene festgelegt und durch die Managementebene bis zur untersten Ebene durchgeführt [^3].  |
+# Quellen
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
 
 Kurzbeschreibung zu Top_Down_Planning um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
