@@ -29,7 +29,7 @@ Soll und Ist-Kosten des Projekts werden durch die Projektkontrolle über den ges
 
 # Kennzahlen und Methoden
 ## Kennzahlen
-Im Laufe des Projekts müssen alle drei Punkte des [Projektdreiecks](Magisches_Dreieck.md) geplant und überwacht werden.[^9] Die Kennzahlen des Dreiecks beinhalten:
+Im Laufe des Projekts müssen alle drei Punkte des [Projektdreiecks](Magisches_Dreieck.md) geplant und überwacht werden.[^9] Die Kennzahlen des Dreiecks umfassen:
 * Termine
 * Ressourcen
 * Qualität
