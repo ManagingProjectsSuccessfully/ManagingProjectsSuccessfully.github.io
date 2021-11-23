@@ -7,7 +7,7 @@ anrechnung: k
 # 1. Zertifizierungen und deren Bedeutung im Projektmanagement 
 
 Bereits in den vorherigen Artikeln wurde deutlich betont, dass es nicht nur eine gültige Definition von [Projektmanagement](Projektmanagement.md) (PM) gibt und es neben der klassischen und agilen Variante zu Abweichungen in der praktischen Umsetzung kommen kann. 
-Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der Umsetzung des PM treffen zu können, ist es notwendig, die Fähigkeiten von unabhängigen und breitflächig akzeptierten Instanzen zertifizieren zu lassen. Dies geschieht über Zertifizierungsstellen wie z.B. der [DEKRA](https://www.dekra-akademie.de), dem [TÜV](https://akademie.tuv.com/catalogsearch/result/?q=Projektmanager) oder der [Deutschen Gesellschaft zur Zertifizierung von Managementsystemen (DQS)](https://www.dqs.de/de/), die neben dem Lehrangebot für die Zertifizierung auch eine Prüfung zur Zertifikatsausstellung anbieten.[^1]
+Um nun eine allgemeingültige Aussage über die Fähigkeiten einer Person in der Umsetzung des PM treffen zu können, ist es notwendig, die Fähigkeiten von unabhängigen und breitflächig akzeptierten Instanzen zertifizieren zu lassen. Dies geschieht über Zertifizierungsstellen wie z.B. der DEKRA, dem TÜV oder der Deutschen Gesellschaft zur Zertifizierung von Managementsystemen (DQS), die neben dem Lehrangebot für die Zertifizierung auch eine Prüfung zur Zertifikatsausstellung anbieten.[^1]
 
 # 2. Vergleich der Zertifizierung im PM
 
@@ -24,11 +24,11 @@ Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besond
 | Gültigkeit                              | 5 Jahre                  | 2 Jahre                            | 3 Jahre                            | 3 Jahre            | Lebenslang     |
 | Kosten                                  | Ca. 4.000 Euro           | Ca. 400 Euro                       | Ca. 3.000 Euro                     | Bis zu 1500 Euro   | Kurs: ca. 1.500; Prüfung: 150 Euro       |
 
-Ziel dieser Tabelle ist es, einen ersten Überblick über PM-Zertifizierungen zu geben und deren Unterschiede aufzuzeigen. Einzelne Organisationen und deren angebotenen Zertifizierungen, wie die [IPMA](IPMA_Institution.md), das [PMI](PMI_Institution.md) oder [Scrum.org](SCRUM_org_Institution.md) werden in den seperaten Arikeln näher beleuchtet.
+Ziel dieser Tabelle ist es, einen ersten Überblick über PM-Zertifizierungen zu geben und deren Unterschiede aufzuzeigen. Einzelne Organisationen und deren angebotenen Zertifizierungen, wie die IPMA, das [PMI](PMI_Institution.md) oder [Scrum.org](SCRUM_org_Institution.md) werden in den seperaten Arikeln näher beleuchtet.
 
 # 3. Auswahl der passenden Zertifizierung
 
-Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget, dem aktuellen Wissensstand oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitnehmer die Anerkennung des [Zertifikats bei internationalen Arbeitgebern](Internationale_Projektmanagement_Standards.md), so bietet sich ein Zertifikat der [IPMA-Organisation](https://www.gpm-ipma.de/ueber_uns/ipma.html) an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PM Zertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das [PMP-Zertifikat](https://www.pmi-gc.de/das-chapter/pmi) oder die [PMI-ACP-Zertifizierung](https://www.pmi.org/certifications/agile-acp) der PMI eine höhere Chance, anerkannt zu werden.[^2][^3]
+Neben den offensichtlichen Auswahlkriterien, wie das zur Verfügung stehende Budget, dem aktuellen Wissensstand oder die Gültigkeitsdauer des Zertifikats (vgl. 2. Vergleich der Zertifizierung im PM), spielen auch Aspekte, wie der bereits etablierte PM-Standards des Arbeitgebers bzw. des Unternehmens eine Rolle. Erhofft sich ein Arbeitnehmer die Anerkennung des [Zertifikats bei internationalen Arbeitgebern](Internationale_Projektmanagement_Standards.md), so bietet sich ein Zertifikat der IPMA-Organisation an, welche in 60 Ländern vertreten ist; diese bietet neben der Vermittlung von Softskills auch eine Einflussnahme von Projektarbeiten in die PM Zertifizierung an, was je nach Lerntyp von Bedeutung sein kann. Für Arbeitgeber im asiatischen Raum hat hingegen das PMP-Zertifikat oder die PMI-ACP-Zertifizierung der PMI eine höhere Chance, anerkannt zu werden.[^2][^3]
 
 # 4. Praktische Relevanz von Zertifizierungen im PM
 
@@ -42,7 +42,7 @@ Die folgende [Grafik](https://www.theprojectgroup.com/blog/projektmanagement-zer
 
 ![Abbildung 1](Zertifizierungen/Gehaltsvergleich.jpg)
 
-Die Abbildung zeigt, dass nicht jede erlangte Zertifizierung Verdienstmöglichkeiten über dem Durchschnittsgehalt von 80.251 Euro Brutto-Jahresgehalt im PM garantiert. Dennoch ist der Erwartungwert des Mehrverdienstes mit 1.551 Euro (Durschnitts Brutto-Jahresgehalt mit Zertifizierung - Durschnitts Brutto-Jahresgehalt ohne Zertifizierung = 80.251 Euro - 78.700 Euro = 1.551 Euro) positiv und oft bereits deutlich höher als die Kosten der Zertifizierung. Setzt man die Mehrverdienstmöglichkeiten für Projektmanager mit einer Zertifizierung im Verhältnis zu den Zertifizierungskosten, so ist der Return on Investment mit einer   [Prince2 Foundation-](https://www.prince2.com/de) und einer [PMP-Zertifizierung](https://www.pmi-gc.de/das-chapter/pmi) am höchsten. Diese Tatsache berücksichtigt jedoch nicht die zuvor (vgl. 3. Auswahl der passenden Zertifizierung) Faktoren wie Kenntnisstand, Anforderungen des Arbeitgebers, oder individuell unterschiedliche Faktoren wie der Vorbereitungsdauer.
+Die Abbildung zeigt, dass nicht jede erlangte Zertifizierung Verdienstmöglichkeiten über dem Durchschnittsgehalt von 80.251 Euro Brutto-Jahresgehalt im PM garantiert. Dennoch ist der Erwartungwert des Mehrverdienstes mit 1.551 Euro (Durschnitts Brutto-Jahresgehalt mit Zertifizierung - Durschnitts Brutto-Jahresgehalt ohne Zertifizierung = 80.251 Euro - 78.700 Euro = 1.551 Euro) positiv und oft bereits deutlich höher als die Kosten der Zertifizierung. Setzt man die Mehrverdienstmöglichkeiten für Projektmanager mit einer Zertifizierung im Verhältnis zu den Zertifizierungskosten, so ist der Return on Investment mit einer   Prince2 Foundation- und einer PMP-Zertifizierung am höchsten. Diese Tatsache berücksichtigt jedoch nicht die zuvor (vgl. 3. Auswahl der passenden Zertifizierung) Faktoren wie Kenntnisstand, Anforderungen des Arbeitgebers, oder individuell unterschiedliche Faktoren wie der Vorbereitungsdauer.
 
 ## 4.2. Kürzere Einarbeitungszeiten und Karrieresprünge
 
@@ -64,7 +64,6 @@ Insgesamt gibt es eine Vielzahl an Zertifizierungen im PM. Dies ermöglicht Proj
 
 * [Projektmanagement](Projektmanagement.md)
 * [PMI_Institution](PMI_Institution.md)
-* [IPMA_Institution](IPMA_Institution.md)
 * [GPM_Institution](GPM_Institution.md)
 * [SCRUM_org_Institution](SCRUM_org_Institution.md)
 * [Internationale_Projektmanagement_Standards](Internationale_Projektmanagement_Standards.md)
