@@ -162,9 +162,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^4]: [Projektmanagement-Tool](https://www.eurice.eu/privacy/project-management-tool/)
 [^5]: [Data Management](https://searchdatamanagement.techtarget.com/definition/data-management)
 [^6]: [Project Management](https://www.goodreads.com/book/show/42049169-project-management)
-[^7]: [Project management information systems - An empirical study of their impact on project managers and project success](https://www.researchgate.net/publication/222572029_Project_management_information_systems_An_empirical_study_of_their_impact_on_project_managers_and_project_success)
+[^7]: [Project management information systems - An empirical study of their impact on project managers and project success](https://www.researchgate.net/publication/222572029_Project_management_information_systems_An_empirical_study_of_their_impact_on_project_managers_and_project_success) S. 3
 [^8]: [Project Management](https://www.goodreads.com/book/show/42049169-project-management)
-[^9]: [Project management information systems](https://portailqualite.acodev.be/fr/system/files/node/342/project_management_information_systems.pdf)
+[^9]: [Project management information systems](https://portailqualite.acodev.be/fr/system/files/node/342/project_management_information_systems.pdf) S. 92
 [^10]: [Data Managemen Modules](https://bluesoft.com/product/data-management-module-dmm/)
 [^11]: [Project Management](https://www.goodreads.com/book/show/42049169-project-management)
 [^12]: [Data Management vs. Project Management Venn Diagram](https://www.usgs.gov/media/images/data-management-vs-project-management-venn-diagram)
