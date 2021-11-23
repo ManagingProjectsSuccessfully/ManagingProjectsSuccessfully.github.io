@@ -71,7 +71,7 @@ Abb.1
 
 # Weiterführende Literatur
 
-* [Grundlagen des Projektmanagements: Abhängigkeiten verstehen](https://www.affde.com/de/fundamentals-of-project-management-understanding-dependencies.html)
+* [Projektmanagement nach der Agile- oder Wasserfall-Methode](https://www.atlassian.com/de/agile/project-management/project-management-intro)
 * [Was jeder Projektmanager über Abhängigkeiten wissen sollte](https://www.trackplus.com/blog/de/was-jeder-projektmanager-uber-abhangigkeiten-wissen-sollte/)
 * [die Top 3 der Agile-Methoden für das Projektmanagement und ihre Unterschiede](https://kanbanize.com/de/agile-de/projektmanagement/methoden) 
 
