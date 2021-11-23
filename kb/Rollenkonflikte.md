@@ -34,13 +34,14 @@ Hierbei hat sich Leon in seiner Rolle des Freundes verpflichtet gefühlt, jedoch
 Daher sollte man sich immer bewusst sein, welche Rolle im Moment die richtige ist und nach welcher das Handeln auszurichten ist.
 
 ## 2. Der Intra-Rollenkonflikt
-Eine weitere Art des Rollenkonfliktes ist der Intra-Rollenkonflikt. Dieser ist gekennzeichnet durch die verschiedenen Erwartungen, die verschiedene Rollen an einen haben.[^1]
+Eine weitere Art des Rollenkonfliktes ist der Intra-Rollenkonflikt. Dieser ist gekennzeichnet durch die unterschiedlichen Erwartungen, die verschiedene Rollen an einen haben.
+[^1]
 
-In unserem Beispiel ist der Abteilungsleiter Leon in Kontakt mit Kunden, Lieferanten, höheren Führungskräften und seinen Mitarbeitern. All diese Personen haben die 
-unterschiedlichsten Erwartungen in der Berufswelt an ihn, sodass es kaum möglich ist, alle zu 100% zu erfüllen.[^2]
+In unserem Beispiel steht der Abteilungsleiter Leon in Kontakt mit Kunden, Lieferanten, höheren Führungskräften und seinen Mitarbeitern. All diese Personen haben diverse
+Erwartungen an ihn, sodass es kaum möglich ist, alle zu vollster Zufriedenheit zu erfüllen.[^2]
 
-Nach dem Psychologen Bernd Schmid kann man diese Art jedoch nochmal unterteilen bezogen auf die Professionswelt, die Organisationswelt und die Privatwelt, welche alle zu dem 
-sogenannten „Drei Welten Modell“ zählen.[^3] Über die einzelnen Teile soll im Folgenden kurz ein Überblick gegeben werden. 
+Nach dem Psychologen Bernd Schmid kann man diese Art jedoch nochmal weiter unterteilen.Hierbei wird nach Professionswelt,Organisationswelt und Privatwelt gegliedert, welche alle 
+zu dem sogenannten „Drei Welten Modell“ zählen.[^3] Über die einzelnen Teile soll im Folgenden kurz ein Überblick gegeben werden. 
 
 ### Privatwelt 
 Diese Bezeichnung fasst alle privaten Rollen zusammen, zum Beispiel "Vater", "Freund" und "Vereinsmitglied". Also jegliche Rollen, die nicht in Verbindung mit der Berufung und
@@ -52,12 +53,13 @@ In der Professionswelt werden die verschiedenen fachlichen Rollen angenommen, be
 ### Organisationswelt 
 Mit der Organisationswelt werden die hierarchischen Rollen definiert, welche "Führungskraft", "Abteilungsleiter" oder "CFO" sein könnten.[^3]
 
-Außerdem ist hierbei anzumerken, dass es zudem oft Rollenkonflikte zwischen der Organisationswelt und der Professionswelt kommt. Obwohl diese seltener wahrgenommen werden sollte
-man diese bewusst berücksichtigen, sodass einige Konflikte vermieden werden. Bei unserem Beispiel kann der Controller Leon, welcher zugleich Abteilunsleiter ist, sich nicht vor
-seinem Chef als einen Abteilunsgleiter präsentieren und so handeln.
 
-Zusammenfassend sollte man also bei einem Intra-Rollenkonflikt beachten, welche Charakteristika an einer bestimmten Rolle wichtig sind und sich auf diese konzentrieren und 
-danach handeln. 
+Außerdem ist bei diesem Modell anzumerken, dass es zudem oft Rollenkonflikte zwischen der Organisationswelt und der Professionswelt kommt. Obwohl diese seltener wahrgenommen 
+werden sollte man diese bewusst berücksichtigen, sodass einige Konflikte vermieden werden. Bei unserem Beispiel kann der Controller Leon, welcher zugleich Abteilunsleiter ist, 
+sich nicht vor seinem Chef als einen Abteilunsgleiter präsentieren und so handeln.
+
+Zusammenfassend sollte also bei einem Intra-Rollenkonflikt beachtet werden, welche Charakteristika an einer bestimmten Rolle wichtig sind und auf diese sollte die Konzentration 
+gesetzt und das Handel ausgelegt werden.
 
 [Das drei Welten Modell]![image](https://user-images.githubusercontent.com/92875269/142039822-dfc47614-49e5-48cb-82e8-7f0519fdea25.png)
 
