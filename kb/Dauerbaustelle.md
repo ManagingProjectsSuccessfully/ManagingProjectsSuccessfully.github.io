@@ -11,7 +11,7 @@ Unterliegt ein Projekt einem ständigen Veränderungs- bzw. Erweiterungsprozess 
 
 „Ein [Projekt](Projekt.md) ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist …“. Der temporäre Charakter von Projekten bezeichnet einen Beginn und ein Ende der Projektarbeit. Der Projektmanager definiert Ziele und steuert verschiedene Einzelaktivitäten, die ihm Rahmen des Projekts der Aufgabenerfüllung dienen. Außerdem wird für diese Zielerreichung sowohl ein zeitlicher, finanzieller als auch personeller Rahmen gesteckt. Darüber hinaus von zentraler Wichtigkeit ist, dass Projekttätigkeiten in Form von Arbeitspaketen gegenüber anderen Vorhaben sauber getrennt sind.[^2]
 Die Überwachung der Einhaltung der verschiedenen Rahmenbedingung eines Projekts liegt im [Projektmanagement](Projektmanagement.md).
-Das Projektmanagement beschreibt die Anwendung von Wissen, Fähigkeiten, Werkzeugen und Techniken auf Projektaktivitäten, um die Projektanforderungen zu erfüllen. Die[^3] 
+Das Projektmanagement beschreibt die Anwendung von Wissen, Fähigkeiten, Werkzeugen und Techniken auf Projektaktivitäten, um die Projektanforderungen zu erfüllen.[^3] 
 
 
 # Warum wird ein Projekt zur Dauerbaustelle?
@@ -24,16 +24,11 @@ Häufig fehlt es aber nicht nur an klaren Entscheidungskriterien, ebenso oft kom
 Mit Verzögerungen ist auch dann zu rechnen, wenn innerhalb der Projektteams [Verantwortlichkeiten](Verantwortlichkeiten.md) nicht klar ausgesprochen werden oder den Beteiligten nicht bewusst gemacht werden. Dies führt unwillkürlich zu häufigeren Rückfragen und einer Verlängerung der Prozesskette. 
 Häufige Rückfragen treten auch dann auf, wenn vor Projektbeginn nicht alle notwendigen Berechtigungen eingeholt wurden. Damit das Team ohne unnötige Abhängigkeiten agieren kann sollte der Bedarf noch vor [Projektstart](Projektstart.md) erkannt und an die notwendigen Stellen weitergeleitet werden.[^5]
 
-Es wir deutlich, dass das Projektmanagement als umfassendes Führungskonzept zu verstehen ist und dass, Ziele, Aufgaben und Methoden des Projektmanagements mit der stra-tegischen Entwicklung des Unternehmens verknüpft werden müssen. Daher sollte, um diesen Ursachen vorzubeugen dem Projektmanager einen umfangreicher Methodenkoffer an die Hand gegeben werden, damit dieser ausreichend definierte Arbeitspakete schnüren und Projektaktivitäten ausreichend beeinflussen und steuern kann.[^4]
+Es wir deutlich, dass das Projektmanagement als umfassendes Führungskonzept zu verstehen ist und dass, Ziele, Aufgaben und Methoden des Projektmanagements mit der strategischen Entwicklung des Unternehmens verknüpft werden müssen. Daher sollte, um diesen Ursachen vorzubeugen dem Projektmanager einen umfangreicher Methodenkoffer an die Hand gegeben werden, damit dieser ausreichend definierte Arbeitspakete schnüren und Projektaktivitäten ausreichend beeinflussen und steuern kann.[^4]
 
 ![Beispielabbildung](https://github.com/EuleW/ManagingProjectsSuccessfully.github.io/blob/main/kb/Dauerbaustelle/Magisches%20Dreieck.JPG)
 
 *[Das magische Projektmanagement Dreieck](Magisches_Dreieck.md) visualisiert die untrennbare Verbindung zwischen der Zielfunktion, dem gesteckten Zeitrahmen und dem Budget*
-
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
