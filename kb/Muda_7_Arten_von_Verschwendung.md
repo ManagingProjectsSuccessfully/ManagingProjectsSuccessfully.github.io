@@ -24,7 +24,8 @@ Die Beseitigung verschwenderischer Aktivitäten ist entscheidend für den Erfolg
 
 Hier führt nur ein systematisches Vorgehen zum Ziel. Das sind Komplexe Fragen: Welche Hebel führen wirklich zu Verschwendung? Wie Kann man es am effektivsten bekämpfen? Der Begriff  ‚Muda‘ kommt aus den Japanisches Wort ‚Muda‘ und es lässt sich auf deutsch als ‚sinnlose Tätigkeit‘ defnieren. Die 7 Arten der Verschwendungen sowie die Tipps um denen zu vermeiden werden unten in der Liste veranschaulicht.[^1]
 
-![Beispielabbildung](Muda_7_Arten_von_Verschwendung/7_Arten_Verschwendung.jpg)
+![Beispielabbildung](Muda_7_Arten_von_Verschwendung/7_Arten_Verschwendung.jpg) 
+
 
 
 *7 Arten der Verschwendung*
