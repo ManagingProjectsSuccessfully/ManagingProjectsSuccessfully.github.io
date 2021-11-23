@@ -15,7 +15,7 @@ einen Anhaltspunkt bieten, welche Erklärungen oder Lösungen zutreffen könnten
 
 # Beschreibung des Frameworks
 
-Cynefin beschreibt fünf Problemdomänen, die wie folgt lauten                      ![image](https://user-images.githubusercontent.com/92875736/142939211-2104c2f0-feec-47b6-89a3-04323b451745.png)
+Cynefin beschreibt fünf Problemdomänen, die wie folgt lauten 
 
 
 * Obvious or simple, 
