@@ -16,7 +16,7 @@ Da Bezugspreise in der Regel zu Projektstart vertraglich fixiert werden, sinkt d
 ![Beeinflussbarkeit der Kosten im Projektverlauf](Kostenplanung/Kostenbeeinflussbarkeit.png)
 
 # Zerlegung des gesamten Projekts in Arbeitspakete
-Um eine genaue Schätzung zu gewährleisten, wird das gesamte Projekt in mehrere, kleinere Arbeitspakte aufgeteilt [^3]. Dafür wird vom gesamten Projekt ein [Projektstrukturplan]({Projektstrukturplan.md}) gebildet, der die Übersicht über die Kostenstruktur erheblich vereinfacht. Die Kosten der einzelnen Arbeitsschritte werden nach oben im Plan akkumuliert und bilden am Ende die Gesamtkosten des Projekts
+Um eine genaue Schätzung zu gewährleisten, wird das gesamte Projekt in mehrere, kleinere Arbeitspakte aufgeteilt [^3]. Dafür wird vom gesamten Projekt ein [Projektstrukturplan](Projektstrukturplan.md) gebildet, der die Übersicht über die Kostenstruktur erheblich vereinfacht. Die Kosten der einzelnen Arbeitsschritte werden nach oben im Plan akkumuliert und bilden am Ende die Gesamtkosten des Projekts
 
 # Planungs- und Schätzverfahren
 Zuerst erfolgt die sogenannte Einzelkostenplanung. Einzelkosten sind alle Kosten, die sich direkt einem Projekt/Produkt zurechnen lassen. Sie werden in drei Kategorien eingeteilt: Material,- Personal-, und Sondereinzelkosten. Je nach Typ wird geschätzt, wie viel von diesem Faktor verbraucht wird und welche Kosten eine Einheit erzeugt. Kumuliert ergibt dies die Summe der Einzelkosten für ein Projekt. Die Verbrauchsmengen können z.B. über Stücklisten, Vergangenheitswerte oder Konstruktionszeichnungen geplant werden. [4]
