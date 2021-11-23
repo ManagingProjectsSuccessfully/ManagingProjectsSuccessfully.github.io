@@ -31,7 +31,8 @@ Man unterscheidet zwischen vier verschiedenen "buckets" mit jeweils unterschiedl
 ## 2.2 Methoden aus Kanban
 ### 2.2.1 Scrumbanboard
 Das Scrumbanboard ist ähnlich zu einem [Kanban Board](Kanban_Boards.md), jedoch mit deutlich mehr Spalten. In der folgenden Abbildung ist ein Beispiel eines Scrumban Boards zu sehen
-!
+![Scrumbanboard](SCRUMBAN/scrumban-kanban-and-scrum.jpeg)
+
 ### 2.2.2 WIP-Limits
 ### 2.2.3 Pull-Prinzip
 # 3. Fazit
