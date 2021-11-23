@@ -2,103 +2,92 @@
 title: Funktionale_Anforderungen
 tags: agil klassisch
 author: LysanderBenke 
-anrechnung: k oder a
+anrechnung:k
 ---
 
-Kurzbeschreibung zu Funktionale_Anforderungen um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Funktionale Anforderungen beschreiben genau was ein Produkt oder System aus der Sicht der Stakeholder tun oder können soll.
+Sie werden zu Beginn eines Projektes durch Befragung der Stakeholder ermittelt und in einem Pflichtenheft festgehalten.
+Funktionale Anforderungen gehören zum Anforderungsmanagement, welches für klassisches wie agiles Projektmanagement relevant ist[^1].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+
+
+
+# Funktionale und nicht-funktionale Anforderungen 
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Jedes Projekt hat funktionale und nicht funktionale Anforderungen. Im Gegensatz 
+zu den nicht-funktionalen Anforderungen sind die funktionalen Anforderungen von Produkt zu Produkt 
+verschieden und bilden den Kern der Anforderungserhebung. Die nicht-funktionalen Anforderungen 
+bilden die Rahmenbedingungen eines Produkts und beziehen sich auf mehrere Teilaspekte davon. 
+Da eine funktionale Anforderung hingegen sich meist nur auf einen Teil eines Produkts auswirkt,
+sind Änderungen daran im Verhältnis zu den nicht-funktionalen Anforderungen leichter umsetzbar
+und haben weniger Einfluss auf das gesamte Produkt[^2]. 
 
 
-# Aspekt 1
+# Relevanz der Klarheit von Anforderungen
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Anforderungen an ein Produkt sollten immer geklärt werden. Da die Anforderungen zu Beginn eines Projektes
+gestellt werden,können fehlerhafte, unzureichende oder fehlende Anforderungen zu viel Arbeitsaufwand und Zeitverlust
+oder gar zum Scheitern eines Projektes führen. Somit hat das vollständige Ermitteln der funktionalen Anforderungen eine hohe Wichtigkeit,
+auch wenn dies nur einen sehr kleinen Teil des Projektaufwandes ausmacht[^3]. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Durchführung der Ermittlung der funktionalen Anforderungen
 
-![Beispielabbildung](Funktionale_Anforderungen/test-file.jpg)
+Die zu ermittelnden funktionalen Anforderungen der Stakeholder lassen sich nach dem [Kano-Modell](https://de.wikipedia.org/wiki/Kano-Modell),
+ein Modell welches systematisch hilft die Kundenzufriedenheit in einem Projekt oder für ein Produkt zu erlangen,
+in drei Kategorien einteilen. Die drei Kategorien bestehen aus den Basisfaktoren, den Leistungsfaktoren und den Begeisterungsfaktoren[^4].
 
-*lustiges Testbild*
+## Basisfaktoren
 
-# Aspekt 2
+Die Basisfaktoren bestehen aus Eigenschaften, die ein Produkt auf jeden Fall haben muss. 
+Da diese Eigenschaften oft als selbstverständlich angesehen werden, muss man darauf achten, keine davon zu vergessen.
+Da es zunächst als offensichtlich erscheint, dass ein Produkt eine gewisse Eigenschaft hat, kann es sein, 
+dass die Eigenschaft den formalen Anforderungen von den Stakeholdern nicht hinzugefügt wird. 
+Da dies zu Unklarheiten in den Anforderungen führen würde, muss sich nach Basisfaktoren extra erkundigt werden
+oder durch schon vorhandene Produkte der Stakeholder ermittelt werden[^4]. 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## Leistungsfaktoren
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+Die Leistungsfaktoren sind die Eigenschaften, welche die Stakeholder explizit fordern. 
+Somit sind sie die Bedürfnisse oder Wünsche der Stakeholder an das Produkt. 
+Wie die Basisfaktoren sollten alle Leistungsfaktoren unbedingt in den funktionalen Anforderungen 
+enthalten sein und im Produkt umgesetzt werden[^4].
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Begeisterungsfaktoren
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Die Begeisterungsfaktoren sind zusätzliche Besonderheiten. Sie sind nicht von den Stakeholdern gefragt,
+dienen aber trotzdem der Verbesserung des Produkts. Begeisterungsfaktoren sollten nachdem Basis- 
+und Leistungsfaktoren bekannt sind von dem Projektteam selbst ermittelt werden. 
+Auch wenn Begeisterungsfaktoren nicht notwendig für ein von den Stakeholdern gewünschtes Produkt sind,
+sollten sie ermittelt und den funktionalen Anforderungen hinzugefügt werden,
+da sie zu einer positiven Überraschung von Stakeholdern führen und somit die Wahrscheinlichkeit einer erneuten Zusammenarbeit erhöhen kann[^4]. 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
+# Änderung von funktionalen Anforderungen
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Es ist kaum möglich, alle Anforderungen für ein Projekt zu erheben. Es kann immer dazu kommen,
+dass Anforderungen nicht dokumentiert werden oder sie sich im Laufe des Projekts ändern. 
+Deshalb sollte man bei der Zeitplanung, die auf den Anforderungen des Projekts basieren immer einen Puffer einplanen,
+damit man auf Änderungen reagieren kann. Diese Änderungen sollten immer mit den Stakeholdern diskutiert und vermerkt werden,
+da sie meist mit einer Kostenerhöhung des Projekts verbunden sind[^3]. 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* Verlinkungen zu angrenzenden Themen:
+* [Nicht_Funktionale_Anforderungen](Nicht_Funktionale_Anforderungen.md)
 * [Link auf diese Seite](Funktionale_Anforderungen.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Ebert, Christof (2019), Systematisches Requirement Engeneering, 6.Auflage, dpunkt.verlag](https://dpunkt.de/produkt/systematisches-requirements-engineering/)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Definition Funktionale Anforderungen](https://project-base.org/projektmanagement-glossar/funktionale-anforderungen/)
+[^2]: [Unterschiede Formale und nicht-formale Anforderungen](http://www.anforderungsmanagement.ch/in_depth_vertiefung/funktionale_nicht_funktionale_anforderungen/index.html)
+[^3]: [Systematisches Requirement Engeneering(siehe Weiterführende Literatur)](https://books.google.de/books?hl=de&lr=&id=n7X2DwAAQBAJ&oi=fnd&pg=PR9&dq=requirements+engineering+projektmanagement&ots=49j6k2Us3D&sig=3_plVjfNay_Va4xRdblTYaB2abM#v=onepage&q=requirements%20engineering%20projektmanagement&f=false)
+[^4]: [Erhebung Funktionaler Anforderungen](http://www.pq4agile.de/PQ4WP/wp-content/uploads/2015/02/PQ4Agile-AP-2.2-Funktionale-Anforderungen-erheben-V.2.pdf)
 
