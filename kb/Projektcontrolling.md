@@ -29,7 +29,9 @@ Soll und Ist-Kosten des Projekts werden durch die Projektkontrolle über den ges
 
 # Kennzahlen und Methoden
 ## Kennzahlen
-Im Laufe des Projekts müssen alle drei Punkte des [Projektdreiecks](Magisches_Dreieck.md) geplant und überwacht werden.[^9] Die Kenngrüßem des Dreiecks umfassen:
+Die elementare Basisgröße des Projektcontrollings ist der Projekterfolg.[^11] Dieser kann anhand der drei Kenngrößen des [Projektdreiecks](Magisches_Dreieck.md) bestimmt werden, welche im Laufe des Projekts geplant und überwacht werden müssen.[^9]
+Die Kenngrüßem des Dreiecks umfassen:
+
 * Termine
 * Kosten
 * Qualität
