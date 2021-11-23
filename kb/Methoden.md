@@ -2,24 +2,14 @@
 title: Methoden
 tags: agil klassisch
 author: Theresa1703
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Methoden um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von Projekten oder Projektschritten. Die Ausführung dieser Projekte wird durch die Anwendung von bestimmten Methoden komplett oder teilweise vorgegeben.[^1] Es wird somit eine mögliche Herangehensweise an einzelne oder mehrere Schritte dargestellt, welches durch seine Dokumentierbarkeit besonders nachvollziebar und korrigierbar ist. Außerdem wird das Vorgehen durch Methoden besser vertändlich und einzelne Schritte können einfacher kommuniziert werden.[^4]S.44
 
-
-
-
-Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von Projekten. Die Ausführung dieser Projekte wird komplett oder teilweise vorgegeben.[^1]
-
-Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen. Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]S.316
-Methoden geben Projekten Transparenz und Struktur.[^4]S.43
-Sie stellen ein mögliches Vorgehen dar, welches durch seine Dokumentierbarkeit ebenso nachvollziebar und korrigierbar ist. Außerdem wird das Vorgehen durch Methoden besser vertändlich und einzelne Schritte können einfacher kommuniziert werden.[^4]S.44
+Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen und geben Projekten Transparenz und Struktur.[^4]S.43 Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]S.316
 
 Projektmanagement-Methoden sind spezielle Methoden, bspw. Kanban-Board, die innerhalb eines generellen Vorgehensmodells wie zum Beispiel Kanban angewendet werden.[^7]
-
 
 
 # Methoden des klassischen Projektmanagements
@@ -40,7 +30,7 @@ Mit dessen Hilfe kann der Ablauf eines Projekts sinnvoll strukturiert werden. Ko
 
 # Methoden des agilen Projektmanagements
 
-
+Mit Hilfe von agilem Projektmanamement ist es möglich, sich laufend an verändernde Umstände anzupassen und somit flexibel zu sein und schnell auf bestimmte Situationen zu reagieren.[^10] Gerade die Anpassungsfähigkeit dieser Art des Projektmanagements macht es in der modernen Zeit zu einem sehr beliebtem Instrument.[^7] Dabei ist diese Bezeichnung jedoch eher ein Oberbegriff für die Anwendung verschiedener agiler Vorgehensweisen und Methoden.[^10]
 Backlog-Management, Kanban-Board, Daily Scrum und das Sprint Review sind typische Methoden für das agile Projektmanagement.[^7]
 
 ## Backlog-Management
@@ -96,20 +86,14 @@ Besonders bekannt:
 Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 ![Beispielabbildung](Methoden/test-file.jpg)
 *lustiges Testbild*
-
 
 * das 
 * ist 
 * eine 
 * Punkteliste
   - mit Unterpunkt
-
 
 1. das
 2. hier 
@@ -126,6 +110,7 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+
 Beispieltext:
 Literatur kann via Fußnoten angegeben werden[^111]. Es gibt auch das PMBOK[^222].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^333] nachsehen. 
@@ -137,7 +122,6 @@ Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a 
 Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
 [Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
 Scheiferla Nemberch nä Bledzla Affnhidz.
-
 
 
 
@@ -185,6 +169,10 @@ Scheiferla Nemberch nä Bledzla Affnhidz.
 [^7]: [Projektmanagement-Methoden: Der ultimative Überblick](https://projekte-leicht-gemacht.de/pm-methoden/)
 [^8]: [Netzplantechnik](https://www.unternehmerlexikon.de/netzplantechnik/)
 [^9]: [Netzplantechnik im Projektmanagement – einfach erklärt](https://www.factro.de/blog/netzplantechnik/)
+[^10]: [Agiles Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement)
+
+
+
 
 
 [^111]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
