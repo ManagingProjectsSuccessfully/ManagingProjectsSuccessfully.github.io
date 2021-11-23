@@ -28,7 +28,6 @@ Für die Darstellung von Projektabläufen mit der In der NPT existieren verschie
 Bei der Ablaufdarstellung  von Projektabläufen mithilfe der  Netzplantechnik gibt es drei Grundarten von Netzplänen. Diese bezeichnet man als Ereignisknoten-, Vorgangspfeil- und Vorgangsknoten-Netzplan[^3] .
 Grundsätzlich sind zwischen diesen Netzplandarstellungen auch Mischformen möglich. Bei diesen gemischtorientierten Netzplänen werden allerdings im Vergleich zu den nichtgemischten Netzplänen dennoch Vorgänge als auch Ereignisse abgebildet.[^1]
 
-
 # Projektplanung der Netzplantechnik
 
 Die Projektplanung mithilfe der Netzplantechnik wird besonders in folgende Schritte unterteilt:
