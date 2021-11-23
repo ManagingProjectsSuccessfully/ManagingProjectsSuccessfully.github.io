@@ -89,19 +89,30 @@ Die Technik hilft, für die Dauer von 25 Minuten oder länger den Wunsch zu unte
 + Motivation:
 
 Die regelmäßigen Pausen sorgen nicht nur für neue Energie. Sie geben ebenso einen Motivationskick, weil Sie sich damit für jeden Teilschritt und Teilerfolg belohnen.
+
 + Selbstdisziplin
+
 Durch das feste Gerüst der Pomodoro-Intervalle haben lernen Sie, diszipliniert an einer Sache zu arbeiten – ganz gleich, ob es 10, 15 oder 25 Minuten sind.
 + Regeneration
+
 Weil Sie gezwungen sind, Pause zu machen, schützen Sie die Pomidori vor Überanstrengung und Selbstausbeutung. So bleiben Sie über den Tag hinweg geistig fit.
 + Konzentration
+
 Studien zeigen: Länger als 90 Minuten kann sich niemand am Stück konzentrieren. Die Pomodoro-Einheiten sind deutlich kürzer und verbessern so zusätzlich die Konzentration.
 + Produktivität
+
 Die Pomodoro Technik verhindert Multitasking und die Gefahr, sich zu verzetteln. Das steigert die Effizienz.
 + Zielerreichung
-Indem Sie sich nur auf eine Sache pro Intervall konzentrieren, arbeiten Sie insgesamt zielgerichteter. Und weil Sie große Aufgaben in überschaubare Teile zerlegen, fällt auch das Anfangen leichter. Effekt: Sie erreichen am Ende mehr und müssen sich weniger überwinden.
+
+Indem Sie sich nur auf eine Sache pro Intervall konzentrieren, arbeiten Sie insgesamt zielgerichteter. Und weil Sie große Aufgaben in überschaubare Teile zerlegen, fällt auch das Anfangen leichter. Effekt: Sie erreichen am Ende mehr und müssen sich weniger überwinden.[^3]
 
 # Kritik
+Natürlich gibt es auch an der Pomodoro-Technik Kritik. Die Hauptvorwürfe sind:
 
+◾ Zu unflexibel
+Die 25-Minuten-Abschnitte seien ein zu enges Korsett. Manche Aufgaben lassen sich einfach nicht darauf zuschneiden. So führe die Einhaltung doch nur zu einer anderen Unterbrechung. Dagegen lässt sich allerdings einwenden, dass sich die Methode den jeweiligen Bedürfnissen anpassen lässt. Entscheidend ist, dass Sie das Grundprinzip – den Wechsel aus fokussierter Arbeit und regelmäßigen Pausen – beibehalten.
+◾ Zu unrealistisch
+Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchhalten könne. Einen derart ablenkungsfreien, strikt durchgetakteten und fokussierten Tag gibt es nicht. Mag sein. Sie können sich den Tag allerdings auch in Blöcke einteilen: jene, in denen Sie mit der Pomodoro-Technik arbeiten und andere, die freier bleiben.
 
 # Siehe auch
 
