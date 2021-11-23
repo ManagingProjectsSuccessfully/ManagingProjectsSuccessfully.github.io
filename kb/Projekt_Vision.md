@@ -18,7 +18,7 @@ einem Projekt zu motivieren und um sicherzustellen, dass Projektmitarbeiter im S
 Zudem kann die Projekt-Vision auch als Marketing für das Projekt angesehen werden, um potenzielle Investoren davon zu überzeugen personelle und/oder finanzielle 
 Mittel zu bewilligen. 
 
-![Beispielabbildung](Projekt_Vision/test-file.jpg)
+![Beispielabbildung](Projekt_Vision/Projektvision.png)
 
 *lustiges Testbild*
 
