@@ -10,7 +10,7 @@ Alle Projektaufgaben, von der punktuellen theoretischen Phase direkt bis hin zum
 
 ![Datenmanagement und Projektmanagement](Datenmanagement_im_PM/Picture_1.png)
 
-*Schnittpunkte des Datenmanagements und Projektmanagements*
+*Abb. 1 Schnittpunkte des Datenmanagements und Projektmanagements*
 
 # 2.	Verwaltung der Projektinformationen bzw. -daten
 
@@ -59,11 +59,11 @@ Wir unterscheiden die folgenden primären bzw. sekundären Module des Informatio
 
 ## 3.2	Implementierung und Integration der Informationssysteme
 
-Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmanagement integriert, insbesondere die primären Module. (siehe Abbildung unten).[^1] Normalerweise produziert jedes Modul Informationen, die von anderen Modulen genutzt werden; nutzt die Informationen, die von anderen Modulen erzeugt werden; oder auch beides parallel. In diesem Sinne ist die Verbindung dieser Module des Informationssystems zu einem koordinierten PMIS von sehr großer Bedeutung für ein leistungsfähiges[ Projektmanagement](Projektmanagement.md).
+Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmanagement integriert, insbesondere die primären Module. (siehe Abb. 2).[^1] Normalerweise produziert jedes Modul Informationen, die von anderen Modulen genutzt werden; nutzt die Informationen, die von anderen Modulen erzeugt werden; oder auch beides parallel. In diesem Sinne ist die Verbindung dieser Module des Informationssystems zu einem koordinierten PMIS von sehr großer Bedeutung für ein leistungsfähiges[ Projektmanagement](Projektmanagement.md).
 
 ![Primäre Module in PM](Datenmanagement_im_PM/Picture_3.png)
 
-*Interaktion der primären Module*
+*Abb. 2 Interaktion der primären Module*
 
 
 
