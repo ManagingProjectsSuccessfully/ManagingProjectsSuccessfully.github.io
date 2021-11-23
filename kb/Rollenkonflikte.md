@@ -5,29 +5,28 @@ author: martina-bchtl
 anrechnung: k
 ---
 
-Das Thema Rollenkonflikte ist eines der häufigsten Konflikthemen im Bereich Projektmanagement. Allerdings müssen hierbei die unterschiedlichen Arten des Rollenkonfliktes 
-berücksichtigt werden und wie sich diese zusammensetzen.
+Unter dem Begriff Rollenkonflikte versteht man eine weitere und oft vorkommende Konfliktmöglichkeit im Projekmanagement, wobei hier die unterschiedlichen Arten des 
+Rollenkonfliktes berücksichtigt werden müssen und wie sich diese zusammensetzen.
 
 Rollenkonflikte entstehen einerseits dadurch, dass man sich in seinen „Rollen“ unsicher ist oder andere Personen unterschiedliche Erwartungen an die einzelnen „Rollen“ haben. 
 Einige Beispiele für die verschiedenen Rollen einer bestimmten Frau wären „Mutter“, „Schwester“, „Abteilungsleitung“ und „Vereinsmitglied“. [^1]
 
-Wie bereits erwähnt gibt es zwei Möglichkeiten, wie Rollenkonflikte entstehen können und wie diese aussehen. Im Folgenden soll deshalb auf die Arten der Rollenkonflikte genauer 
-eingegangen werden.
+Im Folgenden soll auf die Arten der Rollenkonflikte genauer eingegangen werden.
 
 # Arten von Rollenkonflikten
 
 Im Alltag eines Projektmanagers ist es nicht ungewöhnlich, dass dieser mehrere "Rollen" besitzt. Als Beispiel hierfür nennen wir den Abteilungsleiter Leon, welcher 
 die Rollen "Abteilungsleiter", „Controller“, "Vater", "guter Freund" und noch "Fußballspieler" hat. 
 
-Jetzt stellt sich die Frage: Welche Rollenkonflikte sind hier möglich?
+Nun stellt sich jedoch die Frage, welche Rollenkonflikte hierbei möglich sind.
 Um diese Frage zu beantworten, veranschaulichen wir anhand unseres Beispiels die zwei Arten eines Rollenkonfliktes.
 
 ## 1. Der Inter-Rollenkonflikt
 Der Intra-Rollenkonflikt ist die offensichtlichste und verständlichste Art eines Rollenkonfliktes. Hierbei besteht das Problem darin, dass man seine Rollen nicht bewusst 
-voneinander unterscheidet. Zudem fällt es einem meist schwer, in der richtigen Rolle richtig zu handeln.[^1]
+voneinander unterscheidet. Zudem fällt es einem meist schwer, in der richtigen Rolle auch richtig zu handeln.[^1]
 
-Angewandt auf unser Beispiel des Abteilungsleiters, würde er seine vorher genannten Rollen nicht klar trennen, was sich im Alltag jedoch auch als schwierig erweist. Folgende
-Situation soll  dies veranschaulichen: Ein guter Freund namens Luis, welcher zugleich sein Mitarbeiter ist, bittet ihn um zwei unbezahlte Wochen mehr Urlaub. 
+Angewandt auf unser Beispiel des Abteilungsleiters, würde er seine vorher genannten Rollen nicht klar trennen, was sich insbesondere im Alltag als schwierig erweist. Folgende
+Situation soll  dies veranschaulichen: Ein guter Freund des Abteilungsleiters, welcher zugleich sein Mitarbeiter ist, bittet ihn um zwei unbezahlte Wochen mehr Urlaub. 
 Leon kennt seine persönliche Situation und weiß daher, wie wichtig seinem Freund dieser Urlaub ist und gewährt ihm dies, obwohl er auch weiß, wie ungünstig sich das auf das 
 Geschäft auswirkt.[^2] 
 
