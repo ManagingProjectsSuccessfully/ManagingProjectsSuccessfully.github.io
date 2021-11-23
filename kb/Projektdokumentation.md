@@ -13,16 +13,21 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Allgemeines
 
+
 Die Projektdokumentation beinhaltet alle Dokumente die für ein Projekt selbst erstellt werden. Sie lässt sich als Gedächtniscontainer aller Vorgänge im Projektverlauf verstehen. Verschiedene Budgets und Ressourcen werden mit der Projektdokumntation festgehalten und überwacht. Damit erfüllt die Projektdokumentation gleich mehrere wichtige Aufgaben. Sie besitzt neben der Protokollfunktion auch die Basis für Entscheidungen, Änderungen, Maßnahmen, Verwaltung und anderer Abläufe während des Projektprozesses. [^1] 
+
 
 Eine gut geführte Projektdokumentation spiegelt Projektschritte wider und erleichtert die Kommunikation innerhalb des Teams und des Auftraggebers. Die notwendigen Zusammenhänge und Ergebnisse sind an einer Stelle zu finden, was unter anderem eine Rechtsgrundlage schafft und Fehler für zukünftige Projekte vermeidet. [^2]
 
 
 # Dokumentationsinhalte festlegen
 
+
 Es ist wichtig die Projektinhalte zu definieren, also im Vorhinein festzulegen was alles dokumentiert werden soll und was nicht. So vermindert sich die Informationsmenge sowie der personelle Aufwand, ohne dass dabei relevante Informationen weggelssen werden. [^3]
 
+
 ## Beispiele für Dokumentationsinhalte [^4]
+
 
 | Beispiel         | Erklärung     |
 | ------------ | ------------- |
@@ -37,35 +42,47 @@ Es ist wichtig die Projektinhalte zu definieren, also im Vorhinein festzulegen w
 
 # Verschiedene Phasen der Projektdokumentation
 
+
 <img src="https://www.derpade.de/wp-content/uploads/2016/01/Projektdokumentation.jpg" width="250"> [^5]
+
 
 * Projektdokumentation während der [Projektplanung](Projektplanung.md)
 * Projektdokumentation während der Projektdurchführung
 * Projektdokumentation während des [Projektabschlusses](Projektabschluss.md)
 
+
 ## Projektdokumentation während der Projektplanung
+
 
 Die Projektdokumentation im Sinne der Projektplanung wird auf das Protokollieren von Entscheidungen zur Projektplangestaltung reduziert. Neben der Planung von Zeit und Budget liefert der Projektstrukturplan die Basis für alles , was im Projekt noch passieren wird. Wenn die Entscheidungsfindung bereits gut dokumentiert wird, ist es bei der späteren Bewertung des Projekterfolgs leichter zu erkennen, ob Ungleichgewichte während des Projekts bereits etwas mit der Planung zu tun haben könnten. [^6]
 
 
 ## Projektdokumentation während der Projektdurchführung
 
+
 Die Projektdokumentation während der Projektdurchführung umfasst hauptsächlich die Aufgaben des [Projektcontrollings](Projektcontrolling.md) und der Projektzeiterfassung. Durch die kontinuierliche dokumentierung, welche Ressourcen während des Projekts eingesetzt werden, können ständige Soll-Ist-Vergleiche durchgeführt werden. Schon während des Projekts können Sie so feststellen, welche Projekte effizient und welche weniger effizient ablaufen. [^7]
+
 
 ## Projektdokumentation während des Projektabschlusses
 
+
 Am Ende des Projekts besteht der Hauptzweck darin, die bisher, in der Projektdokumentation, gesammelten Daten zusammenzuführen und das Projekt auszuwerten. Auf Basis der bisherigen Unterlagen kann ein [Projektabschlussbericht](Projektabschlussbericht.md) erstellt werden, der als Diskussionsgrundlage für verschiedene Zwecke dienen kann. Eine gute Projektdokumentation bietet jedoch eine solide Grundlage für unterschiedliche Perspektiven auf das Erfolgspotenzial des Projekts. Speziell für einzelne Bereiche und Tätigkeiten. Spätestens jetzt ist es möglich, die Produktivität von Mitarbeitern, Abteilungen und Projektabteilungen zu bewerten und aus potentiellen Fehlern zu lernen und über Verbesserungsmöglichkeiten nachdenken. [^8]
+
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+
 * [Link auf diese Seite](Projektdokumentation.md)
+
 
 # Weiterführende Literatur
 
+
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
+
 # Quellen
+
 
 [^1]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
 [^2]: https://www.factro.de/blog/projektdokumentation/
