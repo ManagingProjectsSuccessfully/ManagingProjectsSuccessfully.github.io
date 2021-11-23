@@ -58,21 +58,20 @@ komplizierten Zonen zu managen.[^4]
 
 # Anwendung auf Projekte [^1]
 
-| Deming-Cyle          |	Plan	    |  Do            | Check          |	Act        | Beispiele                   |
-|----------------------|------------|----------------|----------------|------------|-----------------------------|
-| einfache Systeme     | beobachten |	               | kategorisieren | reagieren  | Produktimplementierung      |
-| komplizierte Systeme | beobachten |	               | analysieren    | reagieren  | Support-Projekte            |
-| komplexe Systeme		 |            | probieren      | beobachten	    | reagieren  | Produktentwicklung          |
-| chaotische Systeme	 |            | handeln        | beobachten	    | reagieren  | Ausfall von Kerntechnologie |
+| Deming-Cyle          |	Plan	    |  Do       | Check          |	Act       | Beispiele                   | PM Nutzung  |
+|----------------------|------------|-----------|----------------|------------|-----------------------------|-------------|
+| einfache Systeme     | beobachten |	          | kategorisieren | reagieren  | Produktimplementierung      |             |
+| komplizierte Systeme | beobachten |	          | analysieren    | reagieren  | Support-Projekte            |             |
+| komplexe Systeme		 |            | probieren | beobachten	   | reagieren  | Produktentwicklung          |             |
+| chaotische Systeme	 |            | handeln   | beobachten	   | reagieren  | Ausfall von Kerntechnologie |             |
 
 Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework zusammen und zeigt Beispiel Projekte für die einzelnen Domänen auf.
 
 # Siehe auch
 
-* /Projektmanagement.md
-* /Wissensmanagament.md
-* /SCRUM.md
-* /SCRUM.md
+* Projektmanagement.md
+* Wissensmanagament.md
+* SCRUM.md
 
 # Weiterführende Literatur
 
