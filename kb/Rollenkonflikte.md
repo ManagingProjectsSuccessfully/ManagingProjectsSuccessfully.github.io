@@ -15,7 +15,7 @@ Im Folgenden soll auf die Arten der Rollenkonflikte genauer eingegangen werden.
 
 # Arten von Rollenkonflikten
 
-Im Alltag eines Projektmanagers ist es nicht ungewöhnlich, dass dieser mehrere "Rollen" besitzt. Als Beispiel hierfür nennen wir den Abteilungsleiter Leon, welcher 
+Im Alltag eines Projektmanagers ist es nicht ungewöhnlich, dass dieser mehrere ["Rollen"](https://github.com/martina-bchtl/ManagingProjectsSuccessfully.github.io/tree/main/kb/Rollen_klassisch) besitzt. Als Beispiel hierfür nennen wir den Abteilungsleiter Leon, welcher 
 die Rollen "Abteilungsleiter", „Controller“, "Vater", "guter Freund" und noch "Fußballspieler" hat. 
 
 Nun stellt sich jedoch die Frage, welche Rollenkonflikte hierbei möglich sind.
@@ -41,7 +41,7 @@ In unserem Beispiel steht der Abteilungsleiter Leon in Kontakt mit Kunden, Liefe
 Erwartungen an ihn, sodass es kaum möglich ist, alle zu vollster Zufriedenheit zu erfüllen.[^2]
 
 Nach dem Psychologen Bernd Schmid kann man diese Art jedoch nochmal weiter unterteilen.Hierbei wird nach Professionswelt,Organisationswelt und Privatwelt gegliedert, welche alle 
-zu dem sogenannten „Drei Welten Modell“ zählen.[^3] Über die einzelnen Teile soll im Folgenden kurz ein Überblick gegeben werden. 
+zu dem sogenannten „Drei Welten Modell“ zählen.[^3][^4] Über die einzelnen Teile soll im Folgenden kurz ein Überblick gegeben werden. 
 
 ### Privatwelt 
 Diese Bezeichnung fasst alle privaten Rollen zusammen, zum Beispiel "Vater", "Freund" und "Vereinsmitglied". Also jegliche Rollen, die nicht in Verbindung mit der Berufung und
@@ -61,7 +61,7 @@ sich nicht vor seinem Chef als einen Abteilunsgleiter präsentieren und so hande
 Zusammenfassend sollte also bei einem Intra-Rollenkonflikt beachtet werden, welche Charakteristika an einer bestimmten Rolle wichtig sind und auf diese sollte die Konzentration 
 gesetzt und das Handel ausgelegt werden.
 
-[Das drei Welten Modell]![image](https://user-images.githubusercontent.com/92875269/142039822-dfc47614-49e5-48cb-82e8-7f0519fdea25.png)
+[Das drei Welten Modell]![image](https://github.com/martina-bchtl/ManagingProjectsSuccessfully.github.io/blob/main/kb/Rollenkonflikte/Das%20drei%20Welten%20Modell.png)
 
 # Fazit
 
@@ -73,11 +73,8 @@ Privatwelt adäquat zu verhalten.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Rollenkonflikte.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Konfliktrmanagement](https://github.com/martina-bchtl/ManagingProjectsSuccessfully.github.io/tree/main/kb/Konfliktmanagement)
+* [Rollen-klassisch](https://github.com/martina-bchtl/ManagingProjectsSuccessfully.github.io/tree/main/kb/Rollen_klassisch)
 
 # Quellen
 
