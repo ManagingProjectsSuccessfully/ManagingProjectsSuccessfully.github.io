@@ -94,7 +94,6 @@ Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projekt
 
 [Projekte beerdigen](https://www.handelsblatt.com/unternehmen/management/management-ein-guter-vorsatz-fuer-2019-projekte-beerdigen/23799132.html)
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
