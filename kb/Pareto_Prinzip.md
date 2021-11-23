@@ -12,7 +12,6 @@ Das Pareto Prinzip hat ein großes Ziel: Man möchte mit einem minimalen Aufwand
 ## Inhaltsverzeichnis
 1. Bedeutung des Pareto-Prinzips
 2. Ursprung des Pareto-Prinzips 
-3. Beispielhafte Situationen, in denen die 80/20-Regel zutrifft 
 4. Zeitersparnis durch die Anwendung des Pareto-Prinzips
    1. Zeitersparnis durch die Anwendung des Pareto-Prinzips
    2. Vergleich der Zeitersparnis mit der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
@@ -35,7 +34,7 @@ Das Ergebnis seiner Analyse war, dass 80% des Gesamtvermögens im Besitz von nur
 Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilung des Vermögens zutrifft. In vielen Situation ist seine 80/20-Regel genauso passend.[^4]
 
 
-### 3. Beispielhafte Situationen, in denen die 80/20-Regel zutrifft:[^2]
+#### Beispielhafte Situationen, in denen die 80/20-Regel zutrifft:[^2]
 
 | 20% Aufwand   | 80% Ergebnis  | 
 | ------------- | ------------- |
