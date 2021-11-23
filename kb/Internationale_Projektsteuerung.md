@@ -1,104 +1,32 @@
 ---
 title: Internationale_Projektsteuerung
-tags: agil klassisch
+tags: klassisch
 author: ValerieGF
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Internationale_Projektsteuerung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+`Einordnung`
+Um das Thema der internationalen Projektsteuerung zu verstehen, muss man diese im Kontext des Projektes einordnen. Die Projektsteuerung gehört zusammen mit der Projektleitung zu den Aufgaben des Projektmanagements(Projektmanagement.md). Dabei übernimmt die Projektleitung die „Führungsverantwortung"[^1], und die Projektsteuerung(Projektsteuerung.md) die operativen Aufgaben.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+`Definition`
+Unter dem Wort Projektsteuerung verstehen wir das Steuern von Projekten, genauer gesagt, das Veranlassen, kontrollieren und das Gewähren von Durchführungen von freigegebenen Projekten[^2]. Dabei ist zu beachten, dass das Projekt bevor es bei der Projektsteuerung, oder im Allgemeinen beim Projektmanagement angelangt, schon die Planungsphase durchlaufen hat. Das bedeutet, die Aufgabe ist es, das Projekt in die davor festgelegte Richtung zu bewegen. Die festgelegte Richtung wurde davor durch „den Projektstrukturplan, den Ablaufplan und den Ressourcenplan“ etabliert. Diese Aufgabe der Projektumsetzung übernimmt der Projektleiter oder der Projektmanager, diese Umsetzung wird dann Projektsteuerung genannt. Bei diesem Konstrukt ist zu erkennen, dass die Grenzen zueinander verwischen. Das Unternehmen muss selbst beschließen, was der Projektsteuerung zugeordnet wird, denn es gibt „keine eindeutige Struktur in den Unternehmen“. Es gibt nur einen Aspekt, der immer gleich ist: Die Projektsteuerung ist eine „offene Wirkungskette“, sie muss funktionieren, ohne andauern Feedback zu bekommen, denn „Steuerung ist etwas, das ohne fortdauernde Rückkopplung“ funktionieren muss.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+`Was gehört zur Projektsteuerung?`
+Wie im vorherigen Abschnitt schon kurz beleuchtet ist es schwierig, ohne ein konkretes Projektbeispiel die einzelnen Schritte voneinander abzugrenzen und zu betrachten, welche Aufgabenfelder zur Projektsteuerung gehören. Hier kann nur eine allgemeine Aussage getroffen werden. Zur Projektsteuerung gehört zum einen, einen „Überblick über alle relevanten Tools und Methoden“ zu haben. Allerdings muss auch mit den Menschen interagiert werden, damit die Mitarbeitenden eine Vision vor Augen haben und diese auch umsetzen können. Diese Vision muss auch mit der des Projektleiters übereinstimmen, um das Projekt erfolgreich abzuschließen.[^5]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+`Welche Aufgaben gehören zur Projektsteuerung?`
+Auch hier, kann nur eine allgemeine Aussage getroffen werden, denn dies wird für jedes einzelne Projekt entschieden. Die üblichen Aufgabenfelder beschäftigen sich mit Daten oder sind Controlling basierte Themen. Konkrete Aufgaben könnten sein, das Starten und Beenden von Vorgängen, die Führung von Projektmitarbeitern, darunter fällt zum Beispiel die Freistellung von Projektmitarbeitern sowie die Veränderung der Aufgabenstellung an Projektmitarbeitern. Weitere Aufgaben sind die Erarbeitung von Alternativplänen bei Abweichungen vom geplanten Projektablauf, die Überwachung der Projektkennzahlen, die Veränderung des Projektplans zur Erreichung des ursprünglichen Projektziels. Außerdem kann im schlimmsten Fall der Projektabbruch (Projekabbruch.md) beantragt werden und die wichtigste Aufgabe ist die Feststellung des Projektabschlussses (Projektsteuerung.md). Um diese Aufgabentypen in einen zusammenfassenden Kontext zu bringen, ist es die Hauptaufgabe der Projektsteuerung, einen Überblick zu haben über die unterschiedlichen Arbeitspakete, welche schon erledigt und welche noch offen sind und ob sich das Projekt im Allgemeinen im Zeitplan befindet. Wenn dies nicht der Fall ist, muss eingegriffen und dafür gesorgt werden, dass das Projekt zurück in den Zeitplan findet.[^5]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+`Welche Tools werden in der Projektsteuerung genutzt?`
+Es steht eine Vielzahl an Projektmanagement-Software zur Verfügung, welche davon genutzt wird, hängt vom einzelnen Unternehmen ab und der Entscheidung, welchen Mehrwert die einzelnen Tools bringen und welche Informationen dabei helfen, das Projekt auszuwerten und gezielt den Punkt zu finden, an dem ggf. nachgesteuert werden muss, damit das Projekt im Zeitplan bleibt oder zurück in die Spur kommt. Viele Unternehmen arbeiten mit MS Project, denn dies ist gut geeignet, um viele Projektmanagementmethoden abzubilden, es eignet sich insbesondere für Arbeitspaketplanung, Projektablaufplanung und Ressourcenplannung. Eine weitere Option ist das agile Arbeiten, beispielsweise mit einem Trello oder einem KanbanFlow (Kanban.md) zusätzlich wird oft für die Kommunikation Slack verwendet.[^3]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Internationale_Projektsteuerung/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Internationale_Projektsteuerung.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+`Was ist internationale Projektsteuerung?`
+Auslandsprojekte erfordern, dass die Projektmanager ihre Methoden und Leistungen an lokalen Kulturen und Arbeitsweisen ausrichten. Kenntnisse internationaler Projektmanagementstandards sind ebenso erforderlich, wie Kompetenz in internationalem Rechts- und Vertragsverständnis.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: (http://www.profund-gmbh.de/leistungen/projektmanagement)
+[^2]: (https://refa.de/berufe/projektleiter)
+[^3]: (https://www.projektmagazin.de/glossarterm/projektsteuerung#aufgaben)
+[^4]: (https://conwick.de/2017/03/projektleitung-vs-projektsteuerung-bei-bauvorhaben/)
+[^5]: (https://benjamin-michels.de/projektsteuerung-das-projekt-in-die-richtige-richtung-lenken/)
