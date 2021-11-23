@@ -29,6 +29,7 @@ Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist
 <br>
 
 ![BSP](Scrum_at_Scale/biild1.png)
+
 [Abbildung 1 zu Scrum@Scale](https://digitaleneuordnung.de/blog/scrum-at-scale/)
 
 Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen adaptiven Systemen. Bei Scrum@Scale sind alle Teil eines austauschbaren Scrum-Teams. Je nach den vorgegebenen Zielen werden mehrere Scrum-Teamnetzwerke zu einem ganzen Ökosystem zusammengefasst. Scrum@Scale ist für die Skalierung von Scrum in Großunternehmen konzipiert.
@@ -36,6 +37,7 @@ Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen ada
 <br>
 
 ![BSP](Scrum_at_Scale/Bild5.png)
+
 [Abbildung 2 zu Scrum@Scale](https://www.palladio-consulting.de/scrum-at-scale/)
 
 Das Framework lässt sich in zwei Zyklen darstellen: Scrum-Master-Zyklus und Produktinhaber-Zyklus. Im erstgenannten Zyklus geht es um das "Wie", im zweitgenannten um das "Was". Auch Überschneidungen werden so ersichtlich.
