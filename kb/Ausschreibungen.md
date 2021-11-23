@@ -14,7 +14,18 @@ Insbesondere für staatliche Auftragsvergaben ist die öffentliche Ausschreibung
 Abbildung1[^3]
 
 Es gibt gemäß § 3 der VOB/A und § 8 der UVgO zwei verschiedene Arten von Ausschreibungen. Öffentliche Ausschreibungen (Offenes Verfahren) und Beschränkte Ausschreibungen (Nichtoffenes Verfahren). Zweitere können im Bereich der Bauleistungen durchgeführt werden[^4][^5]:
-
+1.	Wenn eine Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit Teilnahmewettbewerb kein annehmbares Ergebnis gehabt hat.
+2.	Wenn die Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit Teilnahmewettbewerb aus anderen Gründen (z. B. Dringlichkeit, Geheimhaltung) unzweckmäßig ist.
+3.	Unter einem bestimmten Auftragswert der Bauleistung ohne Umsatzsteuer:
+    1.	50.000 € für Ausbaugewerke (ohne Energie- und Gebäudetechnik), Landschaftsbau und Straßenausstattung
+    2.	150.000 € für Tief-, Verkehrswege- und Ingenieurbau
+    3.	100.000 € für alle übrigen Gewerke 
+  
+Die dritte Ausschreibungsart ist die Freihändige Vergabe bzw. das Verhandlungsverfahren. Bei dieser wendet sich der Auftraggeber direkt an ein oder mehrere ausgewählte Unternehmen. Diese Art der Vergabe darf nur unter bestimmten Bedingungen angewendet werden[^1]:
+*	Wenn die Leistung besonders dringlich ist
+*	Wenn es aus Gründen der Geheimhaltung erforderlich
+* Wenn aus besonderen Gründen nur ein bestimmtes Unternehmen in Betracht kommt (z.B. Patentschutz)
+ 
 # Aspekt 2
 
 * das
@@ -49,7 +60,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 4. ist 
 4. eine
 7. nummerierte liste
-   1. und hier eine Ebene tiefer
+      1. und hier eine Ebene tiefer
 
 
 # Siehe auch
