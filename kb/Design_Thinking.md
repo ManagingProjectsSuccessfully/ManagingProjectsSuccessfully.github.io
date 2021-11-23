@@ -30,7 +30,7 @@ Design Thinking ist ein menschen-zentrierter Ansatz für die Generierung von Lö
 Design Thinking hat eine flache Hierarchie und die Teammitglieder begegnen sich auf Augenhöhe. Dabei sind wichtige Einstellungen der Projektteilnehmer:
 
 * Akzeptanz von neuen Denkweisen
-* Scheitern als Chance sehen
+* Scheitern als Chance sehen [^3]
 * Offenheit für das Unerwartete 
 
 
@@ -41,7 +41,7 @@ Es existieren mehrere Vorgehensmodelle mit einer unterschiedlichen Anzahl an Sch
 
 ![Beispielabbildung](Design_Thinking/design_Thinking_Bild1.png)
 
-*6 Schritte des Design Thinkings*[^3]
+*6 Schritte des Design Thinkings*[^4]
 
 <br />
 
@@ -50,7 +50,7 @@ Im ersten Schritt wird die Ausgangssituation definiert und sichergestellt, dass 
 * Was soll neu entwickelt werden?
 * Für wen soll die Entwicklung relevant sein? 
 * Welche wesentlichen (aktuellen oder zukünftigen) Rahmenbedingungen müssen berücksichtigt werden? 
-* Welcher Endzustand soll durch die Lösung erreicht werden?[^3]
+* Welcher Endzustand soll durch die Lösung erreicht werden?[^5]
 
 ### Phase 2: Beobachten
 Im Schritt des Beobachtens geht es darum, die Ziele, die Bedürfnisse sowie die Prioritäten der Kunden zu analysieren und zu verstehen. Wichtig ist es hierbei den Kunden zu interviewen. Hierbei können die Interviewtechniken von strukturiert bis unstrukturiert reichen, um ein tieferes Verständnis der Kundenbedürfnisse zu erlangen. Dazu gehört auch das aktive Zuhören, um Missverständnisse zu vermeiden.
@@ -161,10 +161,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Weiterführende Literatur
 * [Design Thinking – Kreativität als Methode](https://www.fu-berlin.de/en/sites/nachhaltigkeit/10_dokumente/DesignThinking-Kreativitaet-als-Methode.pdf) 
-* [Design Thinking-Wikipedia](https://de.wikipedia.org/wiki/Design_Thinking)
+* [Design Thinking - Wikipedia](https://de.wikipedia.org/wiki/Design_Thinking)
 * [Design Thinking – Mit Methode komplexe Aufgaben lösen und neue Ideen entwickeln](https://digitaleneuordnung.de/blog/design-thinking-methode/)
 * [Design Thinking einfach erklärt (mit Workshop-Beispiel)](https://www.youtube.com/watch?v=KH_zqH8EgDo)
 * [What Is Design Thinking? An Overview](https://www.youtube.com/watch?v=gHGN6hs2gZY)
+* [Design Thinking - Gabler Wirtschaftslexikon](https://wirtschaftslexikon.gabler.de/definition/design-thinking-54120)
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
