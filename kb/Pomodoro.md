@@ -31,11 +31,11 @@ Dadurch entsteht folgender Ablauf:
 
 - 5 Minuten Pause
 
-✅ Pomodoro 2
+🍅 Pomodoro 2
 
 - 5 Minuten Pause
 
-✅ Pomodoro 3
+🍅 Pomodoro 3
 
 - 5 Minuten Pause
 
@@ -60,6 +60,8 @@ So kann man eine Tabelle erstellen:
 
 | Priorität  | Aufgaben | Zeiteinheiten | +/- | OK |
 | -----------| -------- | ------------- | --- | -- |
+| HIGH       |  MPS Kompendium        |               |     |    |
+|            |          |               |     |    |
 |            |          |               |     |    |
 |            |          |               |     |    |
 
