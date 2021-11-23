@@ -34,7 +34,7 @@ Des Weiteren identifiziert und entwickelt es Projektmanagement-Methoden, Best Pr
 
 Zudem übernimmt es Coaching, Mentoring, Schulung und die Aufsicht bei Projekten. Bevor diese überhaupt an das Projektteam abgegeben werden können, muss erst einmal das nötige Knowhow durch eine Personalentwicklung vermittelt werden.[^2]
 
-Darüber hinaus ist es verantwortlich für die Entwicklung und Verwaltung von Projektrichtlinien, -verfahren, -vorlagen und anderen gemeinsamen Dokumentationen. Die Projektergebnisse werden in einer zentralen Wissensdatenbank archiviert und für eine zukünftige Nutzung bereitgestellt.6 Ein projektorientiertes Wissensmanagement wird erfahrungsgemäß erst durch ein aktives PMO gelebt.[^4]
+Darüber hinaus ist es verantwortlich für die Entwicklung und Verwaltung von Projektrichtlinien, -verfahren, -vorlagen und anderen gemeinsamen Dokumentationen. Die Projektergebnisse werden in einer zentralen Wissensdatenbank archiviert und für eine zukünftige Nutzung bereitgestellt.[^6] Ein projektorientiertes Wissensmanagement wird erfahrungsgemäß erst durch ein aktives PMO gelebt.[^4]
 
 Zuletzt übernimmt es die Koordinierung und Kommunikation und gewährleistet so einen reibungslosen Informationsfluss über alle Projekte hinweg.[^3]
 
