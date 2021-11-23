@@ -1,5 +1,5 @@
 ---
-title: {Projekt}
+title: {Projektstart}
 tags: agil klassisch
 author: {GitHubUserName}
 anrechnung: k oder a
