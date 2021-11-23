@@ -9,37 +9,38 @@ anrechnung: k
 2. [Verschiedene Methoden des Risikotransfers](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#verschiedene-methoden-des-risikotransfers)  
 3. [Vorteile](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#vorteile)
 4. [Nachteile](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#nachteile)
-5. [Siehe auch](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#siehe-auch)
-6. [Weiterführende Literatur](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#weiterf%C3%BChrende-literatur)
-7. [Quellen](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#quellen)
+5. [Fazit](
+6. [Siehe auch](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#siehe-auch)
+7. [Weiterführende Literatur](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#weiterf%C3%BChrende-literatur)
+8. [Quellen](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#quellen)
 
 # Definition 
-Unter den Begriff des *Risikotransfers*, auch *Risikoüberwälzung* genannt, versteht man im [Risikomanagement](https://github.com/jnsdhr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) die Verteilung zukünftiger Risiken oder die Auswirkung von Risiken einer Person oder einer Organisation, auf eine andere Partei. Dabei kann diese Partei für eine einzelne Person oder auch eine Organisation stehen wie z.B. eine Versicherungsgesellschaft. Diese Risiken müssen nicht zwangsläufig auftreten. Eines der gängigsten Methode des Risikotransfers ist das Abschließen einer Versicherung bei einer Versicherungsgesellschaft, und somit den Erwerb einer Versicherungspolice. [^1]
+Der Begriff *Risikotransfer*, auch *Risikoüberwälzung* genannt, steht im [Risikomanagement](https://github.com/jnsdhr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) für die Planung zur Risikovorbeugung. Die Maßnahme einer solchen Planung wäre die Risikostreuung. Dabei wird das Risiko einer Privatperson oder eines Unternehmens, auf dritte (z.B. Versicherungsgesellschaften) übertragen. So werden beispielsweise finanzielle Risiken abgesichert. Das bestehende Risiko muss dabei nicht zwangsläufig auftreten.  [^1]
 
 
 # Verschiedene Methoden des Risikotransfers
-Es gibt mehrere Methoden, um das Risiko zu streuen. Im Folgenden sind die gängigsten aufgelistet.
+Es gibt mehrere Methoden des Risikotransfers. Im Folgenden werden einige aufgelistet.
 * ## Versicherungen
-Durch den Kauf einer Versicherungspolice wird eine Partei bei einer Versicherungsgesellschaft auf zukünftigen potentiellen finanziellen Risken abgesichert. Als Gegenleistung erhält die Versicherungsgesellschaft regelmäßige Zahlungen um die Police aufrecht zu halten. [^1]
+Mit dem Kauf einer Versicherungspolice ist eine Privatperson oder ein Unternehmen bei einer Versicherungsgesellschaft gegen potenzielle finanzielle Risken abgesichert. Ein Aufrechterhalten der Police wird durch regelmäßige Abonnementzahlungen an den Assekuranten ermöglicht. [^1]
 * ## Derivate
-Derivate sind Anlageprodukte die von Unternehmen erworben werden um sich vor Wechselkursrisiken und ähnliches abzusichern und somit dem finanziellen Risiko entgegen zu wirken. [^2]
+Derivate sind von Unternehmen erworbene Anlageprodukte, welche das Unternehmen vor finanziellen Risiken, unter anderem Wechselkursrisiken, schützen sollen. [^2]
 * ## Factoring
-Auch das Factoring ist eine Methode des Risikotransfers. Dabei schaltet ein Factoring Nutzer (das Unternehmen) einen Factor ein, falls ein Kauf von einem Debitor (Kunden) nicht sofort vollständig bezahlt wird und der Käufer diesen später oder sogar in Raten bezahlen möchte. Der Factor prüft dann die Bonität des Kunden und kauft dann dem Unternehmen die Forderung ab. Somit ist für die Liquidität des Unternehmens gesorgt und der Kunde zahlt den offenen Betrag an den Factor. [^3]
+Das Factoring ist eine weitere Methode des Risikotransfers. Hierbei wird vom Unternehmen (Factoring Nutzer) ein sogenannter Factor einbezogen. Kann ein Debitor (Kunde oder Käufer) den vorgenommenen Kaufbetrag nicht sofort vollständig begleichen, und möchte diesen später oder in Raten abbezahlen, wird erstmals seine Bonität vom Factor geprüft. Stellt sich diese als positiv heraus, kauft der Factor die vom Käufer gewünschte Ware dem Unternehmen (Factoring Nutzer) ab. Die Ware wird an den Kunden ausgehändigt und der offene Betrag wird vom ihm an den Factor gezahlt. Somit ist für die Liquidität des Unternehmens gesorgt. [^3]
 * ## Leasing 
-Beim Leasing wird zwischen dem Operating-Leasing und das Financial-Leasing unterschieden. Der wesentliche Unterschied dabei liegt daran, dass beim Operating-Leasing eine kurzfristige Kündigung möglich ist, wodurch nur das Financial-Leasing unter den Risikotransfer fällt. Beim Leasing wird ein Leasingobjekt durch ein Leasingnehmer bei einem Lieferanten ausgewählt und durch eine Leasinggeber erworben. Ein Leasingvertrag zwischen Leasingnehmer und Leasinggeber ist entstanden. Darin wird die allgemeine Laufzeit, die Mindestvertragslaufzeit und die Höhe der Leasingrate festgelegt, die der Leasingnehmer dann beim Leasinggeber zu begleichen hat. Der Risikotransfer entsteht dadurch, dass die Leasingrate die Kosten des Leasinggebers deckt. 
-Jedoch hat der Leasingnehmer trotz Risikos Vorteile wie z.B. der Zugang zur neusten Technologie nach Ablauf der Leasingzeit, da danach ein neues Model ausgesucht werden darf, falls das Leasingobjekt nicht erworben wird. [^3]
+Beim „Leasing“ wird zwischen dem Operating-Leasing und dem Financial-Leasing differenziert. Der dabei wesentliche Unterschied liegt darin, dass beim Operating-Leasing eine kurzfristige Kündigung möglich ist, wodurch nur das Financial-Leasing unter den Risikotransfer fallen kann. Der Leasingnehmer wählt ein Leasingobjekt bei einem Lieferanten aus. Der Leasinggeber erwirbt dann für den Leasingnehmer dieses Objekt. Ein Leasingvertrag zwischen Leasingnehmer und Leasinggeber entsteht. Darin wird die allgemeine Laufzeit, die Mindestvertragslaufzeit und die Höhe der vom Leasingnehmer zu begleichende Leasingrate bestimmt.  Der Risikotransfer ergibt sich durch den Leasingnehmer, da er mit der Leasingrate den Kaufbetrag des Leasinggebers deckt. 
+Es ergeben sich außerdem auch Vorteile für den Leasingnehmer.  Falls das Leasingobjekt nicht erworben wird, kann nach Ablauf der Leasingzeit ein neues Model (z.B. Automodel) ausgesucht werden. So hat der Leasingnehmer Zugang zu den neusten Technologien. [^3]
 
 ![Beispielabbildung](Risikotransfer/Leasingdreieck.jpg)  
 *Leasingdreieck* [^3]
 
 # Vorteile
-Durch den Risikotransfer können gegen Risiken, die bei einer [Risikoanalyse](https://github.com/CTM-development/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) hervorgekommen sind, vorgegangen werden. Selbst Risiken, die nicht vorhersehbar sind, wie z.B. Schäden durch den Einfluss der Umwelt können abgesichert werden. Eine Privatperson oder auch ein Unternehmen schützt sich und seine Zukunft so vor den finanziellen Abgrund da er durch eine Versicherung nicht selbst für solche Schäden aufkommen muss. [^3]
+Bei einer [Projektplanung](https://github.com/MarleneMMeyer/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md) sollte bereits im Vorfeld eine [Risikoanalyse](https://github.com/CTM-development/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) durchgeführt werden. Mit den Risikotransfer können Maßnahmen gegen die formulierten Risiken getroffen werden. Zudem kann auch Sicherheit bei unvorhersehbaren Risiken wie z.B. Schäden durch Umwelteinflüsse, geboten werden. Sollten in Folge reale Schäden oder Verluste auftreten, übernimmt die Versicherung die Verantwortung für den Kostenaufwand. Auf diese Weise bleibt eine Privatperson oder auch ein Unternehmen in finanziellen Krisen geschützt und kann für eine sichere Zukunft sorgen.[^3]
 
 # Nachteile
-Eines der Nachteile vom Risikotransfer ist, dass eine Absicherung immer mit Kosten verbunden ist, da auch Organisationen wie Versicherungsgesellschaften ihren Gewinn erwirtschaften müssen.
-Ein weiterer Nachteil ist das meistens der Abschluss einer Versicherung oder die Absicherung mit Derivaten auch mit einem zeitlichen Aufwand verbunden ist. Dies führt vor allem bei Einzelpersonen dazu, dass sie kein Risikotransfer betreiben, was denen dann in der Zukunft zur lasst fällt. [^1]
+Eines der Nachteile vom Risikotransfer ist, dass eine Absicherung oftmals mit zusätzlichen Kosten verbunden ist. Außerdem bringt der Abschluss einer Versicherung oder auch die Risikostreuung mit Derivaten hohen Zeitaufwand mit sich.[^1]
 
-
+# Fazit
+Der kostspielige Finanz- und Zeitaspekt des [Risikomanagements] (https://github.com/jnsdhr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) kann dabei vor allem für kleinere Unterhemen (Start Ups) abwegig und untragbar erscheinen. Im Hinblick auf Langzeitprognosen ergibt ein ordentlicher Risikotransfer allerdings nur Vorteile. Um potenziell mögliche, schwerwiegendere Kostenverluste zu vermeiden, sollte eine Investition im Bereich Risikotransfer nicht vernachlässigt werden.
 
 # Siehe auch
 
