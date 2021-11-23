@@ -48,7 +48,6 @@ Zunächst ist KI-Software nicht dazu da die Mitarbeiter zu überwachen[^6] oder 
         
 
 # Quellen
-
 [^1]: https://www.tiba.de/wie-kuenstliche-intelligenz-ki-das-projektmanagement-beeinflusst/ Autor: Reinhard Wagner geöffnet am 11.11.2021 16:00 Uhr
 [^2]: Nils J. Nilsson: The Quest for Artificial Intelligence. A History of Ideas and Achievements. Cambridge University Press, New York 2009. S. 615-617
 [^3]: https://www.ibm.com/cloud/learn/strong-ai Autor: IBM Cloud Education, veröffentlicht am: 31.08.2020, aufgerufen am 11.11.2021 um 17:37 Uhr
