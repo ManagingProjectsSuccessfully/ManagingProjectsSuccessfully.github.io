@@ -4,20 +4,25 @@ tags: agil klassisch
 author: Emi1404
 anrechnung:  klassich
 ---
-Ganz am Anfang, eine kurze Definition von Projektmitarbeiter, um einen Überblick über das Thema zu haben.
+Zu Anfang, eine kurze Definition von dem Begriff **Projektmitarbeiter**, um einen Überblick über das Thema zu erhalten.
 
-Projektmitarbeiter sind Rollen im [Projektmanagment](https://www.ibo.de/glossar/definition/projektmanagement), die, koordiniert durch der [Projektleiter](https://www.ibo.de/glossar/definition/projektleiter), Aufgaben im [Projekt]( https://www.ibo.de/glossar/definition/projekt) realisiren.[^1] 
-
-
+"Projektmitarbeiter sind Rollen im [Projektmanagment](https://www.ibo.de/glossar/definition/projektmanagement), die, koordiniert durch der [Projektleiter](https://www.ibo.de/glossar/definition/projektleiter), Aufgaben im [Projekt]( https://www.ibo.de/glossar/definition/projekt) realisiren."[^1] 
 
 
 
 
-**Mitglieder des Projektteams**
 
 
+**Was versteht man unter dem Wort Projektmitarbeiter?**
 
-In der Follgende Abbildung sind **Rollen** von Projektmitarbeiter gezeigt. [^2]
+Der Begriff Projektmitarbeiter wird oft als Übergriff für unterschiedliche Rollen innerhalb eines Projekts genutzt, 
+die abhängig von der Art und Größe des Projekts besetzt werden oder auch nicht. 
+Viele Projektmanagment-Methoden definieren den Begriff anders oder überhaupt nicht, oft werden Projektmitarbeiter jedoch als dijenigen Personen bezeichnet,
+die in Arbeitspaketen beschriebene Aufgaben tätsächlich ausführen. [^2]
+Projekt
+
+
+In der Follgende Abbildung sind **Rollen** von Projektmitarbeiter gezeigt. [^3]
 ![image](https://user-images.githubusercontent.com/92817695/142926386-c6e8bba3-c7f9-48c1-9b8c-9afc2c1b4a35.png)
 
 
@@ -39,7 +44,7 @@ So kann man eine Tabelle erstellen:
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
+|               |               |
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
@@ -70,7 +75,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: (https://www.ibo.de/glossar/definition/projektmitarbeiter)
-[^2]: (https://projektmanagement24.de/rolle-projektmitarbeiter-im-projekt)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^2]: (https://www.guteprojekte.ch/rollen/projektmitarbeiter)
+[^3]: (https://projektmanagement24.de/rolle-projektmitarbeiter-im-projekt)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
