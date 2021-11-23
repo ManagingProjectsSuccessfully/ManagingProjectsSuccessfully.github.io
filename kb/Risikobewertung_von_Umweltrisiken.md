@@ -8,10 +8,10 @@ anrechnung: k
 Die rechtzeitige Identifizierung und Bewertung von potenziellen Bedrohungen und Gefahren ist für Unternehmen von wesentlicher Bedeutung, um Folgeschäden zu minimieren, oder idealerweise vollständig zu vermeiden. 
 
 Es gibt verschiedene Risikoarten: [^1]
-1. wirtschaftliche Risiken 
-2. technische Risiken  
-3. rechtliche Risiken
-4.  Umweltrisiken
+* wirtschaftliche Risiken 
+* technische Risiken  
+* rechtliche Risiken
+*  Umweltrisiken
 
 Die Umweltrisiken stehen im Vordergrund dieses Beitrags. Diese können nicht nur zu schweren Verlusten für Unternehmen führen und ihre Existenz bedrohen, sondern auch die Natur und die Lebewesen in Gefahr bringen. Deshalb ist ihre Beseitigung von wesentlicher Bedeutung. 
 
