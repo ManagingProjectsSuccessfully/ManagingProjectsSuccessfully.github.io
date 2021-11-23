@@ -28,9 +28,9 @@ Die Durchführung eines Projektes muss ein integriertes Projektmanagementsystem 
 
 ## 2.2	Datenbankmanagementsysteme in PM
 
-Jeder [Projektleiter](Projektleiter.md) ist auf ein leistungsfähiges [Projektmanagementinformationssystem (PMIS)]( http://projektmanagement-definitionen.de/glossar/projektmanagement-informationssystem-pmis/) angewiesen, da es in laufenden Projekten jederzeit zu unkalkulierbaren Informationen beziehungsweise Daten kommen kann, die die Fertigstellung des Projekts erschweren. Systeme zur [Planung](Projektplanung.md), Budgetierung, Beobachtung, Informationenaufschlüsselung und spezifische [Berichterstattung](Projektabschlussbericht.md) haben sich hierfur als grundlegend erwiesen.[^6] Ohne ein anständiges Informationssystem können die Manager ihr Projekt nicht kontrollieren und werden bis zum ["Point of no Return" (PONR)](https://en.wikipedia.org/wiki/Point_of_no_return ) nicht wissen, was vor sich geht oder was von ihnen erwartet wird. Daher wird empfohlen, dass sie ihre Zeit vielmehr in die Suche nach Informationen investieren sollten.[^7]
+Jeder [Projektleiter](Projektleiter.md) ist auf ein leistungsfähiges [Projektmanagementinformationssystem (PMIS)]( http://projektmanagement-definitionen.de/glossar/projektmanagement-informationssystem-pmis/) angewiesen, da es in laufenden Projekten jederzeit zu unkalkulierbaren Informationen beziehungsweise Daten kommen kann, die die Fertigstellung des Projekts erschweren. Systeme zur [Planung](Projektplanung.md), Budgetierung, Beobachtung, Informationenaufschlüsselung und spezifische [Berichterstattung](Projektabschlussbericht.md) haben sich hierfur als grundlegend erwiesen.[^1] Ohne ein anständiges Informationssystem können die Manager ihr Projekt nicht kontrollieren und werden bis zum ["Point of no Return" (PONR)](https://en.wikipedia.org/wiki/Point_of_no_return ) nicht wissen, was vor sich geht oder was von ihnen erwartet wird. Daher wird empfohlen, dass sie ihre Zeit vielmehr in die Suche nach Informationen investieren sollten.[^7]
 
-Das PMIS sollte ein Datenbankmanagementsystem sein, bei dem alle Datensätze in einer Datenbank gespeichert werden, die allen Informationsmodulen regelmäßig zur Verfügung steht. Ein Teil der höherwertigen [Projektmanagementsoftwarepakete](Projektmanagementsoftware.md) werden mit solchen Datenbanken geliefert.[^8] Außerdem ist die Entwicklung eines vollständig integrierten und absolut guten Systems zu entwerfen, ein bedeutendes Unterfangen, das viel Analyse der bestehenden Strategien über ein Projekt voraussetzt.[^9]
+Das PMIS sollte ein Datenbankmanagementsystem sein, bei dem alle Datensätze in einer Datenbank gespeichert werden, die allen Informationsmodulen regelmäßig zur Verfügung steht. Ein Teil der höherwertigen [Projektmanagementsoftwarepakete](Projektmanagementsoftware.md) werden mit solchen Datenbanken geliefert.[^1] Außerdem ist die Entwicklung eines vollständig integrierten und absolut guten Systems zu entwerfen, ein bedeutendes Unterfangen, das viel Analyse der bestehenden Strategien über ein Projekt voraussetzt.[^9]
 
 # 3.	Informationssysteme im PM 
 
@@ -59,7 +59,7 @@ Wir unterscheiden die folgenden primären bzw. sekundären Module. In der folgen
 
 ## 3.2	Implementierung und Integration der Informationssysteme
 
-Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmanagement integriert, insbesondere die primären Module. (siehe Abbildung unten).[^11] Normalerweise produziert jedes Modul Informationen, die von anderen Modulen genutzt werden; nutzt die Informationen, die von anderen Modulen erzeugt werden; oder auch beides parallel. In diesem Sinne ist die Verbindung dieser Module des Informationssystems zu einem koordinierten PMIS von sehr großer Bedeutung für ein leistungsfähiges[ Projektmanagement](Projektmanagement.md).
+Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmanagement integriert, insbesondere die primären Module. (siehe Abbildung unten).[^1] Normalerweise produziert jedes Modul Informationen, die von anderen Modulen genutzt werden; nutzt die Informationen, die von anderen Modulen erzeugt werden; oder auch beides parallel. In diesem Sinne ist die Verbindung dieser Module des Informationssystems zu einem koordinierten PMIS von sehr großer Bedeutung für ein leistungsfähiges[ Projektmanagement](Projektmanagement.md).
 
 ![Primäre Module in PM](Datenmanagement_im_PM/Picture_3.png)
 
@@ -156,7 +156,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: [Project Management](https://www.goodreads.com/book/show/42049169-project-management)
+[^1]: [Project Management](https://www.goodreads.com/book/show/42049169-project-management) S. 137, 138, 142, 143
 [^2]: [Practical Issues in Database Management](https://www.pearson.com/uk/educators/higher-education-educators/program/Pascal-Practical-Issues-in-Database-Management-A-Reference-for-the-Thinking-Practitioner/PGM405773.html)
 [^3]: [Why manage data](https://www.usgs.gov/products/data-and-tools/data-management/why-manage-data)
 [^4]: [Projektmanagement-Tool](https://www.eurice.eu/privacy/project-management-tool/)
