@@ -34,7 +34,7 @@ Diese Konflikte sind unvermeidbar, entscheidend ist es jedoch sie möglich gerin
 
 
 
-![Beispielabbildung](Magisches_Dreieck/test-file.jpg)
+![Beispielabbildung](Magisches_Dreieck/Bild.jpg)
 
 *lustiges Testbild*
 
