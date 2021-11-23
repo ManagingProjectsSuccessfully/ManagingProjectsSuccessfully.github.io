@@ -2,7 +2,7 @@
 title: SAFe_Lean_Agile_Mindset
 tags: agil SAFe Lean Mindset
 author: BeratGuen
-anrechnung: k oder a
+anrechnung: a
 ---
 ## Inhaltsverzeichnis
 > - [Definition](SAFe_Lean_Agile_Mindset.md#definition)
