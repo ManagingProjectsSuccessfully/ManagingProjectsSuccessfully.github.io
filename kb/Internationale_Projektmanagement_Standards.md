@@ -2,7 +2,7 @@
 title: Internationale_Projektmanagement_Standards
 tags: klassisch
 author: laura1mueller
-anrechnung: k
+anrechnung: k a
 ---
 
 # Zielsetzung
