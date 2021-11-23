@@ -60,4 +60,3 @@ Zunächst ist die Aussagekraft der Risikomatrix sehr schwach, da sie nur eine ze
 [^8]: Müller und Arenz: Sichere Lagerung gefährlicher Stoffe: von der Theorie zur Praxis. 6. Auflage. Hüthing Jehle Rehm, Heidelberg, München, Landsberg, Frechen, Hamburg 2011. S. 117
 [^9]: https://project-base.org/projektmanagement-glossar/risikomatrix/ Aufgerufen: 03.11.2021 16:00 Uhr
 [^10]: Marc Diedrichs: Risikomanagement und Risikocontrolling. 3. Auflage. Vahlen Verlag, München 2012, S. 93–95.
-
