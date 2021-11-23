@@ -133,7 +133,7 @@ Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchha
 
 # Quellen
 
-[^1]: pomodorotechnique.com
+[^1]: [Pomodorotechnique](pomodorotechnique.com)
 [^2]: [Zeitakrobat](https://zeitakrobat.de/pomodoro-methode-einfach-und-wirkungsvoll)
 [^3]: [Karrierbibel.de](https://karrierebibel.de/pomodoro-technik/)
 
