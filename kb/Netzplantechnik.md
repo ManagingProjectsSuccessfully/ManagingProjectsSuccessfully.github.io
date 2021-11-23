@@ -23,7 +23,8 @@ Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt. In der Ablauf
 
 *Abb.1 Darstellung eines Graphen* *;* *Abb.2 Darstellung eines vereinfachten Netzplans (rechts)*
 
-### Arten der Netzplandarstellung
+## Arten der Netzplandarstellung
+
 Für die Darstellung von Projektabläufen mit der In der NPT existieren verschiedene Möglichkeiten um Projektabläufe dazustellen.
 Bei der Ablaufdarstellung  von Projektabläufen mithilfe der  Netzplantechnik gibt es drei Grundarten von Netzplänen. Diese bezeichnet man als Ereignisknoten-, Vorgangspfeil- und Vorgangsknoten-Netzplan[^3] .
 Grundsätzlich sind zwischen diesen Netzplandarstellungen auch Mischformen möglich. Bei diesen gemischtorientierten Netzplänen werden allerdings im Vergleich zu den nichtgemischten Netzplänen dennoch Vorgänge als auch Ereignisse abgebildet.[^1]
