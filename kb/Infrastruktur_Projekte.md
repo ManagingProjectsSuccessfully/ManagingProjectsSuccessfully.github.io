@@ -37,18 +37,24 @@ Eine Möglichkeit, die Vorteile der klassischen- und agilen Projektmanagement-Me
 
 ![image](https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Infrastruktur_Projekte/Grafik_HybridesPM.png)
 
+
 Da es nicht pauschal eine richtige Lösung gibt, sollte man also für jedes Projekt Faktoren wie Projektgröße, Projektkomplexität, Stakeholder, Projektrisiken und Ressourcenverfügbarkeit analysieren und neu abwiegen, welche Art des Projektmanagements sich besser eignet [^12][^13].
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen -Projekte
-* [Link auf diese Seite](Infrastruktur_Projekte.md)
+* [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
+* [öffentliche Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Oeffentliche_Projekte.md)
+* [IT-Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/IT-Projekte.md)
+* [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)
+* [Hybrides Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Hybrides_Projektmanagment.md)
+* [agiles Manifest](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Agiles_Manifest.md)
 
 # Weiterführende Literatur
 
 * [Agiles Projektmanagement. Auf Änderungen schnell reagieren.](https://www.microtool.de/wissen-online/was-ist-agiles-projektmanagement/)
 * [Gegenüberstellungen der Hauptmerkmale von klassischem versus agilem Projektmanagement](https://link.springer.com/article/10.1007/s11612-021-00563-z/tables/1)
 * [Öffentliche Infrastruktur in Deutschland: Probleme und Reformbedarf](https://www.bmwi.de/Redaktion/DE/Publikationen/Ministerium/Veroeffentlichung-Wissenschaftlicher-Beirat/gutachten-oeffentliche-infrastruktur-in-deutschland.pdf?__blob=publicationFile&v=12)
+* [Planungssicherheit](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Planungssicherheit.md)
 
 # Quellen
 
