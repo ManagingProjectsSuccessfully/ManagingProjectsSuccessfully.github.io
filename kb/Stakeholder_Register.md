@@ -35,7 +35,7 @@ Allerdings gibt es auch vorgefertigte Entwürfe, an denen sich orientiert werden
 
 ![Beispiel für ein Register](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")  
 
-*Beispiel für ein Register*
+*Beispiel für ein Register* [^3]
 
 
 Im Folgenden sind die gängigsten Kategorien aufgelistet [^1] :
@@ -95,6 +95,7 @@ Aufgrund der Erstellung des Registers im frühen Projektverlauf, werden durch da
 
 [^1]: [What is a Stakeholder Register and how to create a Stakeholder Register? (remote.tools)](https://www.remote.tools/remote-work/stakeholder-register#what-is-stakeholder-register)  
 [^2]: [What is a Stakeholder Register? (projectmanagementacademy)](https://projectmanagementacademy.net/resources/blog/what-is-a-stakeholder-register/)  
+[^3]: [How to Create a Stakeholder Management Plan [+ Templates]](https://www.paymoapp.com/blog/stakeholder-management-plan/)
 
 <!-- * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... -- Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut oben im Front-Matter (Bereich zwischen den `---`). Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
