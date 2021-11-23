@@ -5,23 +5,25 @@ author: Nikleldi
 anrechnung: k 
 ---
 
-Die Provokationstechnik ist eine Methode zur Ideenfindung, eingeführt von Edward de Bono. Sie wirkt, indem sie mit Hilfe von so genannten Provokationen bestehende Annahmen und Sichtweisen in Frage stellt. Sie existiert in vielen Variationen und gehört zu den wichtigsten Kategorien von Kreativitätstechniken. [^1]
+# Provokationstechnik
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
-# Provokation
+Die Provokationstechnik ist eine Methode zur Ideenfindung, eingeführt von Edward de Bono. Sie wirkt, indem sie mit Hilfe von so genannten Provokationen bestehende Annahmen und Sichtweisen in Frage gestellt. [^1]
+
+## Provokation
 
 Für die Findung von Ideen werden Provokationen benutzt, welche das Denken aus dem gewohnten Rahmen wirft, indem gezielt bestehende Annahmen und Erfahrungen in Frage gestellt werden oder neuartige Anregungen geschaffen werden. 
-
 Ziel ist es, bezogen auf einen bestimmten Kontext, alte Denkmuster zu überwinden und neue Sichtweisen zu schaffen. 
-In diesem Kontext können Provokationen gezielte Verfälschungen von Fakten oder auch bloße Zufallsbegriffe sein. 
+In diesem Kontext können Provokationen gezielte Verfälschungen von Fakten oder auch bloße Zufallsbegriffe sein. [^2] 
+
 Aufgrund der Verwechslungsgefahr mit der üblichen Bedeutung des Wortes [Provokation](https://de.wikipedia.org/wiki/Provokation) werden sie auch als *Mentale Provokation* bezeichnet. 
 Hierbei wird hevorgehoben, dass die Wirkung der Provokation lediglich im Denken stattfindet.
+Provokationen stellen hierbei nie festgelegete Aussagen dar, sondern sollen lediglich der Anregung dienen. 
 
-Provokationen stellen hierbei nie festgelegete Aussagen dar, sondern sollen lediglich der Anregung dienen. Ansonsten können diese Aussagen zu Ablehnung oder unerwünschten Disskussionen führen. 
+Ansonsten können diese Aussagen zu Ablehnung oder unerwünschten Disskussionen führen. 
 Es empfiehlt sich daher Provokationen immer anzukündigen, indem man das Wort **PO** voranstellt. 
-Das Wort PO unterliegt hier keiner Bedeutung, sondern verweist lediglich darauf, dass der drauf folgende Satz als Anregung zu verstehen ist.
+Das Wort PO unterliegt hier keiner Bedeutung, sondern verweist lediglich darauf, dass der drauf folgende Satz als Anregung zu verstehen ist. [^3]
+
 Die folgenden Sätze sind daher unterschiedlich zu verstehen:
 
 * Alle Lehrer lieben ihre Schüler
@@ -32,103 +34,129 @@ Am einfachsten kann man PO als „Was wäre, wenn…?“ interpretieren, also
 
     Was wäre, wenn alle Lehrer ihre Schüler liebten?
 
-# Nutzen
+## Nutzen
 
-Der Nutzen von (mentalen) Provokationen liegt in der Möglichkeit neue Dinge in Betracht zu ziehen, auf welche man normalerweise nie gekommen wäre, weil sie entweder entgegen jeder Erfahrung sprechen würden oder zu abstrus wirken könnten. Als eine Form der [Kreativitätstechniken](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) hilft sie durch Ideenfindungsworkshops beispielweise, neue Produkt und Marketingideen aufzudecken.
-
-
-
+Der Nutzen von (mentalen) Provokationen liegt in der Möglichkeit neue Dinge in Betracht zu ziehen, auf welche man normalerweise nie gekommen wäre, weil sie entweder entgegen jeder Erfahrung sprechen würden oder zu abstrus wirken könnten. 
+Als eine Form der [Kreativitätstechniken](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) hilft sie durch Ideenfindungsworkshops beispielweise, neue Produkt und Marketingideen aufzudecken.
 
 
+![movement-technique](https://user-images.githubusercontent.com/92984346/143011134-748857c9-a40e-480c-9b88-bfc51285b270.png)
+
+*Kreislauf der mentalen Provokation*
 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+Die Provokationstechnik ist zudem eine Möglichkeit die geistige Flexibilität zu steigern. Man beobachtet Vorkommnisse im Altag und und bildet eine mentale Provokation bestimmter Prozesse und evaluiert welche Ideen beziehungsweise Vorteile sich hieraus ergeben könnten.
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Beispiele für mentale Provokationen aus dem Alltag:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* PO Das Mittelmeer ist voll mit Apfelschorle.
+* PO Hauptstadt von Bayern ist Nürnberg.
+* PO Es gibt kein feste Regeln im Fussball.
+* PO Der Lehrer schreibt die Hausaufgaben.
+* PO Das Ziffernblatt einer Uhr bewegt sich, die Zeiger bleiben stehen.
+* PO Der Arbeitgegeber arbeitet für den Arbeitnehmer.
+* PO Der Gast fährt den Taxifahrer.
+* PO Je länger man im Internet surft, desto weniger Datenvolumen verbraucht man.
+* PO Der Professor schreibt die Bachelorarbeit.
 
-![Beispielabbildung](Provokationstechnik/test-file.jpg)
 
-*lustiges Testbild*
+## Reale Anwendungsbeispiele
 
-# Aspekt 2
+Im Buch *Serious Creativity* beschreibt De Bono wie die Provokation "PO Autos haben quadratische Räder" zur Entwicklung des intelligenten Stoßdämpers geführt hat. Wenn Autos quadratische Räder hätten, wäre die Fahrt erstmal sehr unruhig. Intelligente Stoßdämpfer könnten die vorherseebaren Unebenheiten kompensieren. Diese Provokation ist ein Beispiel einer Verfälschung(s.u.).
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+In einem anderen Beispiel wird beschrieben wie die Provokation "PO Orangensaft trinkt mich zum Frühstück " zur Entwicklung von Dufttabletten, die man in den Brausekopf der Dusche einsetzen kann, geführt hat. Einem Teilnehmer fiel das Bild ein, wie er in einem großenn Glas Orangensaft schwimmt. Eine Folge wäre, dass er nach Orange riechen würde. Daraus entstand letztendlich die Idee dem Baden in der Dusche einen angenehmen Duft zu verleihen. Das stellt ein Beispiel einer Umkehrung dar(s.u.).
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Methoden, um Provokationen zu generieren
 
-So kann man eine Tabelle erstellen:
+Es gibt folgende Ansätze, um Provokationen zu gewinnen:[^4]
 
-| First Header  | Second Header |
+* Annahme aufheben
+* Idealfall
+* Umkehrung
+* Übertreibung
+* Zufall
+* Verfälschung
+
+Die Ansätze werden erklärt anhand des Beispiels einer Schule. 
+
+### Annahme aufheben
+
+Hier hebt man gezielt Annahmen auf, die man über die Aufgabenstellung macht, z. B.
+
+   * PO In der Schulbibliothek gibt es keine Bücher.
+   * PO Die Schule hat keine Gebäude.
+
+### Idealfall
+
+Hier nennt man einen Zustand, der im Idealfall gelten würde, z. B.
+
+   * PO Jeder Schulanfänger bekommt einen Abschluss.
+   * PO Niemand fällt durch eine Prüfung.
+
+### Umkehrung
+
+Bei der Umkehrung stellt man einen Sachverhalt oder eine Beziehung auf den Kopf, z. B.
+
+   * PO Schüler unterrichten Lehrer.
+   * PO Erst kommt der Berufsanfang, dann das Schule.
+
+### Übertreibung
+
+Bei der Übertreibung wird eine bestimmte quantitative Eigenschaft verändert, z. B.
+
+   * PO Die Schulpflicht geht bis zur 13. Klasse.
+   * PO Jeder Schüler muss nur eine Prüfung machen.
+
+### Zufall
+
+Hier wird einfach ein zufälliger Begriff neben die Ausgangssituation gestellt, z. B.
+
+   * Schule PO Dinosaurier
+   * Schule PO Lasagne
+
+### Verfälschung
+
+Hier wird eine qualitative Eigenschaft der Problemstellung verändert, z. B.
+
+   * PO Die Schulmauern sind aus Duplosteinen gebaut.
+   * PO Alle Schüler und Lehrer tragen eine Mütze.
+
+
+## Anwendnung
+   
+Der schwierigste Part nach der Bildung einer Provokation liegt darrin eine Lösungsidee zu entwickeln. 
+Erfahrungsgemäß ist dies der schwerste Teil der Technik. 
+Am Beispiel Schule könnte dies zumm Beispiel sein:
+
+* Aus "PO Die Schule hat keine Gebäude" könnte die Idee des Homeschooling entstehen.
+* Aus "PO Die Schulpflicht geht bis zur 13. Klasse" könnte die Idee, das G9 wiedereinzuführen entstehen.
+* Aus "PO Erst kommt der Berufsanfang, dann das Schule" könnte die Idee von Praxisnäheren Schulen entstehen.   
+* Aus "PO Schüler unterrichten Lehrer" könnte die Idee, verstärkt den Fokus auf Referate und Präsentationen im Unterricht zu legen.
+
+(Diese Ideen wurden bereichts verwirklicht.)
+
+
+## Vor- und Nachteile
+
+| Vorteile      | Nachteile     |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+| Methode durchbricht gezielt alte Denkmuster und produziert innovative Ideen| Manche Menschen tun sich im Umgang mit Provokationen schwer und dadurch sinkt die Motivation  |
+| Regt die Kreativität an  | Methode schlägt oft fehl, da Provokationen meist weit von der Realität entfernt sind und sich dadurch keine nützliche Idee ergibt  |
 
 
-# Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Provokationstechnik.md)
+## Weiterführende Literatur
 
-# Weiterführende Literatur
+* Edward de Bono: Serious Creativity. Die Entwicklung neuer Ideen durch die Kraft lateralen Denkens. Erscheinungsjahr: 1996
+* Edward de Bono: Po: Beyond Yes and No. New York 1972
+* Innovationslabor der Universität Magdeburg: Die Provokationstechnik: Ideenfindung durch Infragestellen von Wissen und Annahmen
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
-# Quellen
+## Quellen
 
 [^1]: Edward de Bono: Serious Creativity. Die Entwicklung neuer Ideen durch die Kraft lateralen Denkens. Erscheinungsjahr: 1996
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^2]: Anja Rassek: Provokationstechnik: Kreativ zu neuen Ideen. Erscheinungsjahr: 2020. https://karrierebibel.de/provokationstechnik/ aufgerufen am 22.11.2021
+[^3]: Edward de Bono: Po: Beyond Yes and No. Erscheinungsjahr: 1972
+[^4]: Innovationslabor der Universität Magdeburg: Die Provokationstechnik: Ideenfindung durch Infragestellen von Wissen und Annahmen 
