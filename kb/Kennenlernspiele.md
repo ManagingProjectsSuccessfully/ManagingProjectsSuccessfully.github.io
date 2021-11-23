@@ -40,11 +40,17 @@ Durch Kennenlernspiele können diese entscheidenden Aspekte in lockerer Atmosph�
 Je nach Kontext, Umfang und geplanter Dauer des Projekts, der Größe des Teams, sprachlicher und technologischer Gegebenheiten, sowie weiterer Einflussfaktoren kommen unterschiedliche Kennenlernspiele in Frage.
 Einige davon erfordern das Zusammenkommen vor Ort, während andere auch im Home Office durchführbar sind, siehe Tabelle.
 
-|               | First  Header | Second Header |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-
+|               |    Vor Ort               |  Home Office             |
+| ------------- | ------------------------ | -------------------------|
+| Oberflächlich |- Fadennetz               |- Alle, die…“             |
+|               |- Speed Meeting           |- Touch blue              | 
+|               |- Zip-Zap                 |- Two kinds               |
+|               |- Sales Pitch             |- Hashtags nutzen         |
+|Tiefergehend   |- Gerüchteküche           |- Schlüsselbund           |
+|               |- Value Activity          |- Gemeinsamkeiten finden  |
+|               |- Was gehört wem?         |- 10 things to do in life | 
+|               |- Namen malen             |                          |
+               
 ## Kennenlernspiele vor Ort
 
 Die meisten Kennenlernspiele sind solche, die vor Ort ...
