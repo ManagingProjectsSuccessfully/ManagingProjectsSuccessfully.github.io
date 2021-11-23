@@ -66,7 +66,7 @@ konkreten Lösungsansätzen führen. Zuletzt wird die Projekt-Vision präsentier
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Dale Christenson, Derek H.T. Walker, Using vision as a critical success element in project management, International Journal of Managing Projects in Business, 2008, Volume 1 Issue 4](https://www.emerald.com/insight/content/doi/10.1108/17538370810906291/full/html?casa_token=E_uiN0GA_OwAAAAA:ZKu-OzSQ_klpzC6hn2LimyB_Fk9pygs4Qc2cS3n8nUIlykGkn_yf37sPDyilv7eLjsb7E1EfH-jhLbc74ApzqvhaV_LIqG3a9GetZi9T_niSnwrcbXs)
 
 # Quellen
 
