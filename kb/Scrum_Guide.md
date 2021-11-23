@@ -38,11 +38,11 @@ Laut dem offiziellen Scrum_Guide aus dem Jahr 2020 enthält der Scrum_Guide folg
 
 *	Scrum Events 
 
-*	Scrum Artefakte 
+*	[Scrum Artefakte](Scrum_Artefakte.md)
 
-*	Sprint Backlog
+*	[Sprint Backlog](Sprint_Backlog.md)
 
-*	Increment
+*	[Increment](Increment.md)
 
 *	Schlussbemerkung[^4]
 
@@ -65,7 +65,7 @@ Der Developer hat das Ziel, wie sein Name schon vermuten lässt, das Produkt zu 
 ## Scrum_Eregnisse
 ### Der Sprint 
 
-Für den Sprint ist das Entwicklungsteam verantwortlich, sie bestimmen die Dauer des Sprints. Der Sprint kann mehrere Wochen dauern und Ziel ist es Entwicklungsarbeit zu leisten[^7].
+Für den [Sprint](Sprint.md) ist das Entwicklungsteam verantwortlich, sie bestimmen die Dauer des Sprints. Der Sprint kann mehrere Wochen dauern und Ziel ist es Entwicklungsarbeit zu leisten[^7].
 
 ### Das Sprint Planning
 
@@ -73,7 +73,7 @@ Beim Sprint Planning wird der Sprint geplant, es dauert mehrere Stunden. Der Pro
 
 ### Der Daily Scrum
 
-Der Daily Scrum ist ein maximal 15-minütiges Treffen des Entwicklungsteams. Ziel ist es alle Beteiligten auf den gleichen Kenntnisstand zu bringen[^7].
+Der [Daily Scrum](Daily_Scrum.md) ist ein maximal 15-minütiges Treffen des Entwicklungsteams. Ziel ist es alle Beteiligten auf den gleichen Kenntnisstand zu bringen[^7].
 
 ### Der Sprint Review
 
@@ -86,7 +86,7 @@ Lösungen gesucht[7].
 
 ### Scrum-Artefakte
 
-Die Scrum-Artefakte lauten Product Backlog, Sprint Backlog und Produktinkrement. Die Artefakte werden zum dauerhaften Informationsaustausch genutzt[^8].
+Die [Scrum-Artefakte](Scrum_Artefakte.md) lauten Product Backlog, Sprint Backlog und Produktinkrement. Die Artefakte werden zum dauerhaften Informationsaustausch genutzt[^8].
 
 
 
@@ -98,11 +98,21 @@ Die Scrum-Artefakte lauten Product Backlog, Sprint Backlog und Produktinkrement.
 
 
 
-
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Scrum_Guide.md)
+
+* [Sprint](Sprint.md)
+
+* [Daily Scrum](Daily_Scrum.md)
+
+* [Scrum-Artefakte](Scrum_Artefakte.md)
+ 
+* [Scrum_Rules.mdScrum_Rules](Scrum_Rules.md)
+ 
+* [Sprint Backlog](Sprint_Backlog.md)
+ 
+* [Increment](Increment.md)
+ 
 
 # Weiterführende Literatur
 
