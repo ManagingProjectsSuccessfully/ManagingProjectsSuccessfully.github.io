@@ -8,9 +8,9 @@ anrechnung: k
 
 # Änderungsmanagement
 
-## Definiton
+## Definition
 
-Die typischen Eigenschaften eines Projektes wie besipielsweise die Einmaligkeit oder die Neuartigkeit führen dazu, dass der Verlauf eines Projektes nicht vollständig geplant werden kann. Dies hst zur Folge, dass während dem Projektablauf immer wieder Änderungen nötig sind. Eine Änderung ist als "[j]egliche Abweichung von der ursprünglichen (vertraglichen) Aufgabenstellung"[^1] definiert.
+Die typischen Eigenschaften eines Projektes wie bespielsweise die Einmaligkeit oder die Neuartigkeit führen dazu, dass der Verlauf eines Projektes nicht vollständig geplant werden kann. Dies hat zur Folge, dass während dem Projektablauf immer wieder Änderungen nötig sind. Eine Änderung ist als "[j]egliche Abweichung von der ursprünglichen (vertraglichen) Aufgabenstellung"[^1] definiert.
 
 Mögliche Ursachen für Änderungen sind:
 * die Veränderung der Projektziele beim Auftraggeber
