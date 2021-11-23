@@ -9,16 +9,16 @@ anrechnung: k
 
 ![v-modell](https://user-images.githubusercontent.com/92790072/142849508-172e4421-7a7d-435e-bc29-652fe4992df0.jpg)
 
-Original:[^1]
+Original:[]
 
 ---
 
-# Was ist ein Barcamp?
+# Was ist das V-Modell?
 
-Barcamps sind eine Moderationsmethode für Großgruppen und eignen sich für etwa zwei Duzent bis mehrere Hunderte Teilnehmerinnen und Teilnehmer.[^2] Dabei stehen ausschließlich die Teilnehmenden mit ihren Themen, Fragen und Beiträgen im Mittelpunkt der Veranstaltung. Welche Themen vor Ort genau besprochen werden legen die Teilnehmer gemeinsam fest. Ziele von Barcamps sind meist das Lösen von Problemen wie auch das Provozieren von Innovationen durch Zusammentreffen von Teilnehmer aus den verschiedensten Bereichen des Unternehmens bzw. der Forschungsgruppe.[^3]
+[]
 
 
-# Allgemeiner Ablauf eines Barcamps[^3]
+# Allgemeiner Ablauf eines Barcamps[]
 
 #### 1. Eröffnung 
 Der Barcamp Moderator begrüßt die Teilnehmer und stellt ihnen das Konzept der Barcamp-Methode vor. Dabei lege man besonders Augenmerk auf die Vermittlung der Wertwelt eines Barcamps, etwa die Begegnung auf Augenhöhe oder das niemand perfekt sein muss. So stellt man sicher, dass jeder Teilnehmer ermutigt wird sein volles Potenital auszuschöpfen und bewilligt ist, seinen Beitrag zum Barcamp zu leisten.
@@ -44,7 +44,7 @@ Nach dem Barcamp werden die Dokumentationen der Teilnehmer gesammelt und in eine
 |Entfaltung der Teilnehmer|ungeordeter Ablauf|
 |Teambuilding Maßnahme|Unstimmigkeiten zwischen Teilnehmern|
 
-# No-Gos[^3]
+# No-Gos[]
 | ~~No-Gos~~:  | 
 | ------------- | 
 | Vordefinierte Themen, die auf jeden Fall auf das Sessionboard kommen müssen  |
@@ -66,8 +66,8 @@ Teilnehmer die das erste Mal in einem Barcamp mitwirken werden zu Beginn eventue
 
 # Quellen
 
-[^1]: https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/v-modell/
-[^2]: https://de.wikipedia.org/wiki/Barcamp
-[^3]: https://www.theofel.com/barcamp-methode.html
+[]: 
+[]: 
+[]:
 
 
