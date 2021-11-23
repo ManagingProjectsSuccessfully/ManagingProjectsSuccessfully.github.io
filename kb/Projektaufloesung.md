@@ -1,8 +1,8 @@
 ---
 title: Projektaufloesung
-tags: agil klassisch
+tags: klassisch
 author: Quapoapo
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Jedes zielgerichtete, einmalige [Projekt](Projekt.md) besitzt, neben einem klar bestimmten Anfang, auch ein eindeutiges Ende. Das definierte Ende und somit der letzte Schritt im [Projektabschluss](Projektabschluss.md), aber auch im gesamten Projekt ist, die Projektauflösung. [^1] Die Phase „Auflösung“ eines Projekts endet, sobald das Projektpersonal auf neue Aufgaben und neue Projekte übergeleitet wurde und alle verwendeten Ressourcen zurückgegeben bzw. neuen Projekten zugeführt wurden. Alles Weitere kann schlussendlich den Archiven und der Geschichtsschreibung überlassen werden. [^2] Wird das Projekt jedoch beendet bevor die Projektziele erreicht wurden, so spricht man vom [Projektabbruch](Projektabbruch.md). [^3]  
