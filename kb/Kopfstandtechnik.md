@@ -2,13 +2,58 @@
 title: Kopfstandtechnik
 tags: agil klassisch
 author: Aaron-WS
-anrechnung: k oder a
+anrechnung: k
 ---
+Mögliche Tags oder Verlinkungen:
+Kreativitätstechnik, Problemlösung, Ideenfindung, Provokationstechnik von Edward de Bono, Timeboxing
+
+Synonyme von Kopfstandtechnik:
+Umkehrtechnik, Flip-Flop-Technik
+
+
+# Definition
+Die Kopfstandtechnik ist eine Form von Brainstorming und wird auch als Umkehrtechnik oder Flip-Flop-Technik bezeichnet.
+Ziel ist es, mit Hilfe eines unkonventionellen Denkmusters den Lösungsraum für ein Problem zu erweitern.
+Da die Technik mit einer Verfälschung arbeitet, ist sie verwandt mit der Provokationstechnik von Edward de Bono.
+
+# Vorgehensweise
+1. Tatsächliche Fragestellung formulieren
+2. Antithese aufstellen
+3. Brainstorming zur Lösung der Antithese
+4. Ideen umkehren, sodass sie wieder zur Ursprungsfrage passen
+
+# Erweiterungen und Tipps
+| Schritt  | Erweiterung oder Tipp |
+| 1 | Je detaillierter die tatsächliche Fragestellung, desto einfacher wird Schritt 2. |
+| 2 | Statt Verneinungen wie "Nicht" und "Kein" aussagekräftige Verben benutzen. |
+| 3 | Brainwriting |
+|    | Timeboxing* |
+| 4 | Ideen gut sichtbar im Raum verteilen. |
+
+# Vorteile & Nachteile
+| Vorteile | Nachteile |
+| Leicht verständliche Regeln | Häufig sind die Ergebnisse Selbstverständlichkeiten|
+| Wenig Aufwand und Vorbereitung | Nicht jede Antilösung führt zu einer positiven Lösung.|
+|  unkonventionelle Ideen  | Um Antilösungen zu finden wird ähnliches Fachwissen benötigt, wie zur Lösung der eigentlichen Aufgabenstellung.|
+| niedrigere Hemmschwelle für Introvertierte | |
+| Spaß | |
+
+# Beispiel
+
+1. Wie gestalten wir das Newsletter-Anmeldeformular, damit es jeder Interessent sicher abonniert?
+2. Wie gestalten wir das Newsletter-Anmeldeformular, damit es jeden Interessenten sicher vergrault?
+3. Viele Pflichtfelder; Viele Seiten, damit der Interessent einen hohen Aufwand vermutet; Keine Autovervollständigung; Navigation per Tabulator-Taste deaktivieren
+4. Unser Online-Formular zur Newsletter-Anmeldung besteht aus einem einzigen Feld, in dem die E-Mail-Adresse mit Vorschlägen in einer Drop-Down Liste eingetragen wird.
+
+
 
 Kurzbeschreibung zu Kopfstandtechnik um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
+bbb
+Löschen:
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
+bbb
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
