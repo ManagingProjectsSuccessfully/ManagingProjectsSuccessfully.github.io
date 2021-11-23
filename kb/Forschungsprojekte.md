@@ -43,13 +43,13 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 
 | Kategorien | Klassisches PM | Agiles PM |
 | ------------- | ------------- | ------------- |
-| klar definierte Projektziele | Ja | **Nein**  |
-| klar definierter Projektumfang | Ja | **Nein** |
-| viele zu erwartende Änderungen | Nein | **Ja**  |
+| Klar definierte Projektziele | Ja | **Nein**  |
+| Klar definierter Projektumfang | Ja | **Nein** |
+| Viele zu erwartende Änderungen | Nein | **Ja**  |
 | Wichtigkeit der Dokumentation | **Ja**  | Nein |
 | Selbstorganisation der Projektteams | Nein  | **Ja** |
-| klar definierte Kosten | **Ja**  | Nein |
-| klar definierte Projektdauer | **Ja**  | Nein | 
+| Klar definierte Kosten | **Ja**  | Nein |
+| Klar definierte Projektdauer | **Ja**  | Nein | 
 
 
 ## Lösungsansatz
