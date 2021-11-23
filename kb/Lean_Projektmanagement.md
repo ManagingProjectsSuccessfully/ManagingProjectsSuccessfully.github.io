@@ -27,7 +27,7 @@ Die Philosophie des Lean, wurde in den 90er Jahren erstmalig als Management-Meth
 
 Die fünf Kernprinzipien des Lean Management von Womack und Jones eignen sich für den Übergang vom Lean Management zum Lean Project Management. Das Grundprinzip besteht darin, überflüssige Aktivitäten bzw. Verschwendung zu reduzieren.[^6]
 
-**1. Betrachtung des Nutzens aus Sicht des Kunden.** Die Produkte werden genau auf die Bedürfnisse des Kunden zugeschnitten, um den größtmöglichen Nutzen aus Kundensicht zu erzielen.4 Der Wert kann die Qualität, der Zeitrahmen oder der Preis der Leistung sein - erfahrungsgemäß ist es aber ein bisschen von allen dreien.[^5]
+**1. Betrachtung des Nutzens aus Sicht des Kunden.** Die Produkte werden genau auf die Bedürfnisse des Kunden zugeschnitten, um den größtmöglichen Nutzen aus Kundensicht zu erzielen.[^4] Der Wert kann die Qualität, der Zeitrahmen oder der Preis der Leistung sein - erfahrungsgemäß ist es aber ein bisschen von allen dreien.[^5]
 
 **2. Identifizierung des Wertstroms.** Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produktes erforderlich sind. Das bedeutet, dass eine detaillierte Betrachtung der Prozesse zur Erstellung des Produktes erforderlich ist. Alles was hierfür nicht notwendig ist, ist Verschwendung.[^6]
 
