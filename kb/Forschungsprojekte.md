@@ -18,6 +18,7 @@ Aufgrund ihrer Gegebenheiten sind Forschungsprojekte nicht selten von einem erh�
 * Meist Teamarbeit in interdisziplinären Arbeitsgruppen [^1]
 
 # Forschungsprojekte entwickeln
+ "Die Forschungsfrage stellt das Forschungsziel ins Verhältnis zum gegenwärtigen Stand der Wissenschaft, zur gewählten Methodik und zum aktuellen Paradigma" [^8].
 
 
 ![Forschungsfrage entwickeln](Forschungsprojekte/Forschungsfrage-entwickeln.jpg)
@@ -52,12 +53,12 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 [^3]
 
 
-## Lösungsansätze
+## Lösungsansatz
 Eine mögliche Lösung stellt hier bei das [Microsoft PPM](https://www.microsoft.com/de-de/microsoft-365/project/project-portfolio-management)-Tool dar. Es ist ein benutzerfreundliches Tool für zentrales Projektmanagement, da es eine gemeines Arbeits- und Informationsplattform für Forscher und Projektbeteiligte bereitstellt. [^4] 
 
 Nützliche Funktionen für Forschungsprojekte:
 1. PPM: zentrales Speichern und Auswerten, standardisierte Dokumentablage durch Sharepoint
-2. Erweiterung Multiprojekt: Top-down-Kommunikation, Bottum-up-Prinzip, Meilensteinübersicht, Projektampeln
+2. Erweiterung Multiprojekt: [Top-down-Kommunikation](https://de.wikipedia.org/wiki/Top-down_und_Bottom-up), [Bottum-up-Prinzip](https://de.wikipedia.org/wiki/Top-down_und_Bottom-up), Meilensteinübersicht, Projektampeln
 3. Erweiterung Softlinks: Verknüpfung zum eigenen/firmenübergreifenden Termin-/Projektplan
 4. Erweiterung ERP-Sytem: detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und Controllern [^4]
 
@@ -95,3 +96,4 @@ Nützliche Funktionen für Forschungsprojekte:
 [^5]: [Forschung und Entwicklung - Projektmanagement in der Medizintechnik](https://www.youtube.com/watch?v=6YxbcjEYUj0)
 [^6]: [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/)
 [^7]: [Forschungsfrage entwickeln](https://novustat.com/statistik-blog/forschungsfrage-entwickeln-und-datenanalyse-planen.html#:~:text=%20Forschungsfrage%20entwickeln%20und%20Datenanalyse%20planen%3A%20In%209,entwickeln%20Sie%20nun%20die%20Hypothesen.%20Hypothesen...%20More%20)
+[^8]:  [Forschungsfrage](https://de.wikipedia.org/wiki/Forschungsfrage)
