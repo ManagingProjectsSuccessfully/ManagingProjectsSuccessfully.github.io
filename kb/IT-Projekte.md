@@ -26,25 +26,15 @@ Bei Hermes wird nach den Prinzipien des Wasserfallmodells gearbeitet. Die Vorgab
 ### V-Modell XT
 Eine in Deutschland stark genutzte Variante ist das V-Modell XT, welches erstmals im Jahre 1992 von der Bundeswehr veröffentlicht wurde. Sie ist ein Vorgehensmodell für die Durchführung von IT-Projekten, insbesondere zur Entwicklung von Softwaresystemen. Ergebnisse und Abläufe sind bei dieser Methode vorgegeben, wodurch möglichst viel Zeit gespart werden kann. Die wichtigste Aufgabe des V-Modell XT ist Regelung der Kommunikation zwischen dem Auftraggeber und den Auftragnehmern, um typische Quellen für Missverständnisse zwischen den Beteiligten auszuschließen. Der Zusatz "XT" steht dabei für "eXtreme Tailoring" und unterstreicht die flexible Anpassbarkeit an spezifische Projektumfelder. Die aktuelle Version 2.3 gewährleistet eine verbesserte Anwendbarkeit durch das Neugestalten der Produktabhängigkeiten. Somit ist eine Qualitätssicherung möglich[^5].
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Gescheiterte IT-Projekte
+### 7030-Projekt von IBM
+Die International Business Machine Corporation (IBM) begann im Jahre 1956 die Entwicklung des 7030 Rechners, welches zu der Zeit zwar der schnellste Rechner war, aber die versprochene Leistung nicht gewährleistet werden konnte. Der Rechner war nur 30-mal so schnell wie das vorherige System, statt die Versprochene Leistung[^6].
+### Barcode-Scanner mit Lesefehler
+Im für Südenglang zuständigen Auslieferungszentrum Waltham Point in Essex wurde im Jahr 2003 ein System eingesetzt, welches Barcodes scannen und Auslieferungen beschleunigen sollte. Das Barcode-System war fehlerhaft, was zu Schäden im Millionenbereich führte und somit das Projekt 4 Jahre später beendet wurde[^7].
 
 
-# Aspekt 1
+
+# Aspekt 1beendet wurde.
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -109,8 +99,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: [Methode Hermes](https://www.kpm.unibe.ch/weiterbildung/weiterbildung/cas_arbeiten_frueher_zertifikatsarbeiten/e237093/e237217/Bachmann_CeMaP_ger.pdf)
 [^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
 [^5]: [Methode V-Modell XT](https://www.cio.bund.de/Web/DE/Architekturen-und-Standards/V-Modell-XT/vmodell_xt_node.html)
-[^6]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
-[^7]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^6]: [Gescheitertes IBM-Projekt](https://www.cio.de/a/elf-it-projekte-im-sturzflug,859906)
+[^7]: [Barcode-Scanner mit Lesefehler](https://www.cio.de/a/elf-it-projekte-im-sturzflug,859906,3)
 [^8]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
 [^9]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
 [^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
