@@ -16,9 +16,7 @@ Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind
 
 
 # PRINCE2 - Die 7 Grundprinzipien
-Beitrag von Ola Abu-Khousa
 
-*Erstellt am 08.November 2021*
 
 ![PRINCE](https://user-images.githubusercontent.com/92877971/140651330-26dd4a9f-9eb8-4a5f-8587-575a44468753.jpg)
 
