@@ -58,7 +58,7 @@ Innerhalb und außerhalb der Projektorganisation kann es zudem Experten geben, d
 Sponsoren sind unternehmensinterne Befürworter des Projektes, die zumeist im oberen Management zu finden sind. Sie unterstützen seine Durchführung, indem sie Widerstände abbauen, sind jedoch nicht in den operativen Ablauf eingebunden.[^4]
 
 ## Zusätzliche Rollen im Multiprojektmanagement
-Neben diesen Hauptrollen gibt es im Multiprojektmanagement Organisationseinheiten, die 
+Neben diesen Hauptrollen gibt es im Multiprojektmanagement zusätzliche Organisationseinheiten. 
 Dazu zählen:
 
 ### Das Projekt Management Office:
