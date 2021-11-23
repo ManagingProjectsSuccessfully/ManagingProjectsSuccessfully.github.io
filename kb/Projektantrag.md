@@ -2,24 +2,46 @@
 title: Projektantrag
 tags: agil klassisch
 author: JennyKonn
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Projektantrag um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# 1.	Grundlegendes zum Projektantrag
+## 1.1 Definition
+Der Projektantrag ist ein offizielles Projektplanungsdokument und ein wesentlicher Bestandteil des Projektmanagements. Er dient vorerst als Vorlage für die Entscheidung des Auftraggebers das Projekt freizugeben, zu vertagen oder abzulehnen. Durch die Freigabe des Auftraggebers entsteht zwischen ihm und dem Auftragnehmer eine Vereinbarung, wobei der Projektantrag als Vertragsgrundlage für das weiter Vorgehen im Projekt fungiert. Eine klare Norm über die Form des Projektantrages gibt es nicht, weshalb dieser sowohl mündlich also auch schriftlich formuliert werden kann. Das Ziel des Projektantrages ist es, ein für alle Beteiligten einheitliches Bild über das durchzuführende Projekt (Aufgaben und Zielsetzung) zu erstellen.[^1][^2]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## 1.2 Einordnung in das Projekt 
+Der Projektantrag wird typischerweise für interne sowie öffentlich geförderte Projekte erstellt. Diese haben anders als privatwirtschaftliche Projekte kein externes Auftragsverhältnis (über Ausschreibung, Angebot und Auftrag) und können somit durch Diskussion und Abstimmung mit den Projektbeteiligten ausgearbeitet werden. Einordnen lässt sich die Erstellung des Projektantrags in die Planungsphase, welche eine der wichtigsten Bestandteile des Projektmanagement-Prozesses ist.[^2][^3]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# 2. Inhalt des Projektantrages
+Der Inhalt eines Projektantrages ist nicht allgemein vorgeschrieben und kann somit frei an die Anforderungen des jeweiligen Unternehmens angepasst werden. Dennoch gibt es einige wichtige Punkte, die in jedem Projektantrag erfasst werden sollten. Hierzu gehören:[^1] 
+* Name des Projektes
+* Projektbeschreibung (Art des Projektes, Ausgangssituation/Problemlage etc.)
+* Rahmenbedingungen
+* Projektbeteiligte (Projektleiter, Projektteammitglieder, erweitertes Projektteam, Auftraggeber etc.) 
+* Aufgaben, Verantwortungen und Entscheidungskompetenzen
+* Projektziel (inhaltlich) und Meilensteine 
+* Budget- und Wirtschaftlichkeitsbetrachtung (Projektkosten, Projektfinanzierung etc.)
+* Risikobetrachtung 
+* In Scope / Out of Scope Betrachtung 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Je nach den projekt- bzw. unternehmensspezifischen Anforderungen kann der Projektantrag durch zusätzliche Inhalte erweitert werden. Diese können sein:[^4]
+* Eindeutige Projektnummer 
+* Projekttimeline (in unterschiedlichen Detaillierungsgraden möglich)  
+* Strategischer Beitrag des Projektes
+* Dringlichkeit der Umsetzung 
+* Stakeholderanalyse / Shareholderanalyse
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Ein Beispiel für einen Projektantrag (unausgefüllte Vorlage) ist der Abbildung 1 zu entnehmen. 
+
+![Vorlage_Projektantrag](Projektantrag/test-file.jpg)
+
+*Abbildung 1: Vorlage eines Projektantrages*
+
+# 3. Nutzen des Projektantrages für das Projekt
+„Sage mir, wie Dein Projekt beginnt und ich sage Dir wie es endet.“[^5]
+Dieses Zitat von Gero Lomnitz, ein Experte auf dem Gebiet des Projektmanagements, beschreibt den Nutzen eines Projektantrages schon sehr gut. Durch den Projektantrag werden unter anderem wichtige Projektakteure wie der Projektleiter benannt, welcher ab der Genehmigung des Antrags offiziell als Leiter seiner Sonderorganisation (der Projektorganisation) agiert. Dies ist ein wichtiger Schritt in der Planungsphase eines Projektes, da das Vorhaben hierdurch als offizielles Projekt anerkannt wird. Außerdem kann der Projektleiter nach der Freigabe die entsprechenden Ressourcen abrufen und somit anfangen, aktiv an dem Projekt zu arbeiten. Der Projektauftrag ist somit also der offizielle Startschuss für das Projekt. Viele Projekte scheitern daran, den zweiten Schritt vor dem Ersten zu gehen. Hierauf spielt auch Gero Lomnitz mit seinem Zitat an. Menschen haben oft das Bedürfnis haben schon mal anzufangen ohne dass eine konkrete Planung vorliegt. Durch solchen blinden Aktionismus werden häufig wertvolle Projekt-Ressourcen verschwendet. Ein sorgfältig ausgearbeiteter Projektantrag kann das vermeiden und hat damit einen wesentlichen Einfluss auf den Erfolg des Projektes.[^4][^6]
+
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
@@ -37,13 +59,6 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Projektantrag/test-file.jpg)
 
@@ -97,8 +112,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [„8 Schritte“ im Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-658-31310-4_5.pdf)
+[^2]: [Projektantrag](https://www.projektmagazin.de/glossarterm/projektantrag)
+[^3]: [Die fünf Phasen des Management Prozesses](https://blog.mindmanager.com/de/blog/die-funf-phasen-des-projektmanagement-prozesses/)
+[^4]: [Warum ein Projektantrag der erste wichtige Schritt in Projekten ist - Projektstart](https://projektstart.com/warum-ein-projektantrag-der-erste-wichtige-schritt-in-projekten-ist/)
+[^5]: [Beiderwieden Projektmanagement - Philosophie](http://www.beiderwieden-projektmanagement.de/philosophie)
+[^6]: [Systematisches Vorgehen](http://www.beiderwieden-projektmanagement.de/philosophie/15-systematisches-vorgehen)
 
