@@ -75,6 +75,12 @@ Man unterscheidet folgende Ebenen:
 
 Alle Ebenen müssen Ihre Ziele kontinuierlich miteinander abstimmen. [^1] 
 
+
+Fragen an Reviewer/Lehrstuhl (Beitrag hat schon über 500 Wörter): 
+1. Bedeutung Software hinzufügen ? 
+2. Abgrenzung zu Lean Projektmanagement aufführen ? 
+3. Nennung und Verlinkung von Scaled Agile Framework (SAFe) ? 
+
 ## Quellen
 
 [^1]: [Was ist Projektportfoliomanagement?](https://www.microtool.de/wissen-online/was-ist-projektportfoliomanagement)
@@ -85,10 +91,7 @@ Alle Ebenen müssen Ihre Ziele kontinuierlich miteinander abstimmen. [^1]
 [^6]: [Projektportfoliomanagement](https://www.projektmagazin.de/artikel/projektportfoliomanagement-der-praxis-teil-1_1111324) 
 
 
-Fragen an Reviewer/Lehrstuhl (Beitrag hat schon über 500 Wörter): 
-1. Bedeutung Software hinzufügen ? 
-2. Abgrenzung zu Lean Projektmanagement aufführen ? 
-3. Nennung und Verlinkung von Scaled Agile Framework (SAFe) ? 
+
 
 
 
