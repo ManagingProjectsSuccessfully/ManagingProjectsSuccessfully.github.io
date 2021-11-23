@@ -61,11 +61,8 @@ So kann man eine Tabelle erstellen:
 | Priorität  | Aufgaben | Zeiteinheiten | +/- | OK |
 | -----------| -------- | ------------- | --- | -- |
 | HIGH       |  MPS Kompendium | ⬛⬛⬛⬛🔲| / |  ✅ |
-
 |            |          |               |     |    |
-
 |            |          |               |     |    |
-
 |            |          |               |     |    |
 
 Die Tabelle von links nach rechts:
@@ -80,7 +77,24 @@ In der letzten Spalte ist zum Abhaken der erledigten Aufgaben.
 
 Kopf- und Fußzeile geben die Möglichkeit für Notizen, beziehungsweise wann und in welchem Kontext gearbeitet wurde.[^2]
 
-# Vorteile
+# Vorteile und Nachteile 
+Wirkliche Pomodoro-Technik Nachteile gibt es nicht. Sie lässt genügend Flexibilität, die Zeitintervalle und den Tag so einzuteilen, dass es für Sie passt. Dafür sind die Vorteile umso zahlreicher.
++ Simplizität
+Einfacher geht es kaum: Für die die Pomodoro Technik brauchen Sie nur einen Timer, Zettel und Stift.
++ Impulskontrolle
+Die Technik hilft, für die Dauer von 25 Minuten oder länger den Wunsch zu unterdrücken, sich ablenken zu lassen.
++ Motivation
+Die regelmäßigen Pausen sorgen nicht nur für neue Energie. Sie geben ebenso einen Motivationskick, weil Sie sich damit für jeden Teilschritt und Teilerfolg belohnen.
++ Selbstdisziplin
+Durch das feste Gerüst der Pomodoro-Intervalle haben lernen Sie, diszipliniert an einer Sache zu arbeiten – ganz gleich, ob es 10, 15 oder 25 Minuten sind.
++ Regeneration
+Weil Sie gezwungen sind, Pause zu machen, schützen Sie die Pomidori vor Überanstrengung und Selbstausbeutung. So bleiben Sie über den Tag hinweg geistig fit.
++ Konzentration
+Studien zeigen: Länger als 90 Minuten kann sich niemand am Stück konzentrieren. Die Pomodoro-Einheiten sind deutlich kürzer und verbessern so zusätzlich die Konzentration.
++ Produktivität
+Die Pomodoro Technik verhindert Multitasking und die Gefahr, sich zu verzetteln. Das steigert die Effizienz.
++ Zielerreichung
+Indem Sie sich nur auf eine Sache pro Intervall konzentrieren, arbeiten Sie insgesamt zielgerichteter. Und weil Sie große Aufgaben in überschaubare Teile zerlegen, fällt auch das Anfangen leichter. Effekt: Sie erreichen am Ende mehr und müssen sich weniger überwinden.
 
 # Kritik
 
@@ -92,7 +106,8 @@ Kopf- und Fußzeile geben die Möglichkeit für Notizen, beziehungsweise wann un
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Francesco Cirillo: The Pomodoro Technique. 3. Auflage. FC Garage, Berlin 2013, ISBN 978-3-9815679-0-8 
+* Staffan Nöteberg: Die Pomodoro-Technik in der Praxis. dpunkt, Heidelberg 2011, ISBN 978-3-89864-717-5
 
 # Quellen
 
