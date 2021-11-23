@@ -51,8 +51,11 @@ Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
 Ein Problem und Kritikpunkt an der Pomodoro Technik sind die 25-Minuten-Einheiten. Welche Aufgabe dauert schon exakt 25 Minuten? Damit die Zeitmanagement-Methode optimal funktioniert, sollten Sie daher folgende Tipps zur Vorbereitung nutzen:
 
 **Aufgaben priorisieren (bold)**
+
 **Zeitaufwand schätzen (bold)**
+
 **Tag einteilen (bold)**
+
 **Fokussiert bleiben (bold)**
 
 ## Beispieltabelle für die Pomodoro-Technik
@@ -109,15 +112,19 @@ Indem Sie sich nur auf eine Sache pro Intervall konzentrieren, arbeiten Sie insg
 # Kritik
 Natürlich gibt es auch an der Pomodoro-Technik Kritik. Die Hauptvorwürfe sind:
 
-◾ Zu unflexibel
+◾ Zu unflexibel:
+
 Die 25-Minuten-Abschnitte seien ein zu enges Korsett. Manche Aufgaben lassen sich einfach nicht darauf zuschneiden. So führe die Einhaltung doch nur zu einer anderen Unterbrechung. Dagegen lässt sich allerdings einwenden, dass sich die Methode den jeweiligen Bedürfnissen anpassen lässt. Entscheidend ist, dass Sie das Grundprinzip – den Wechsel aus fokussierter Arbeit und regelmäßigen Pausen – beibehalten.
-◾ Zu unrealistisch
-Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchhalten könne. Einen derart ablenkungsfreien, strikt durchgetakteten und fokussierten Tag gibt es nicht. Mag sein. Sie können sich den Tag allerdings auch in Blöcke einteilen: jene, in denen Sie mit der Pomodoro-Technik arbeiten und andere, die freier bleiben.
+◾ Zu unrealistisch:
+
+Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchhalten könne. Einen derart ablenkungsfreien, strikt durchgetakteten und fokussierten Tag gibt es nicht. Mag sein. Sie können sich den Tag allerdings auch in Blöcke einteilen: jene, in denen Sie mit der Pomodoro-Technik arbeiten und andere, die freier bleiben.[^3]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Pomodoro.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projekt Management Office](Project_Management_Office.md)
+* [Methoden](Methoden.md)
+* [Zukunftswerkstatt](Zukunftswerkstatt.md)
 
 # Weiterführende Literatur
 
@@ -128,6 +135,6 @@ Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchha
 
 [^1]: pomodorotechnique.com
 [^2]: [Zeitakrobat](https://zeitakrobat.de/pomodoro-methode-einfach-und-wirkungsvoll)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^3]: [Karrierbibel.de](https://karrierebibel.de/pomodoro-technik/)
+
 
