@@ -42,8 +42,9 @@ einrechnen. Außerdem wird die Geschwindigkeit immer für das ganze Team berechn
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.projektmagazin.de/glossarterm/velocity-agiles-projektmanagement
+[^2]: https://t2informatik.de/wissen-kompakt/velocity/
+[^3]: https://project-base.org/projektmanagement-glossar/velocity/
+[^4]: https://www.agile-academy.com/de/scrum-master/was-bedeutet-velocity-fuer-ihr-team/
+[^5]: https://www.iapm.net/de/blog/velocity-agile-pm/
 
