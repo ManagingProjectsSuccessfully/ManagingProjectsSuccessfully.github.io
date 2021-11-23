@@ -61,10 +61,6 @@ Nützliche Funktionen für Forschungsprojekte:
 3. Erweiterung Softlinks: Verknüpfung zum eigenen/firmenübergreifenden Termin-/Projektplan
 4. Erweiterung ERP-Sytem: detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und Controllern [^4]
 
-![Beispielabbildung](Forschungsprojekte/test-file.jpg)
-
-*lustiges Testbild*
-
 
 # Aktuelle Forschungsprojekte
 
