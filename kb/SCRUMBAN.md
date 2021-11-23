@@ -54,12 +54,13 @@ Wie in den obigen Absätzen dargestellt verbindet Scrumban die beiden agilen Fra
 
 * [Scrumban-essays on kanban systems for lean software development](https://books.google.de/books?hl=de&lr=&id=SQFdAgAAQBAJ&oi=fnd&pg=PA7&dq=wip+limits+scrumban&ots=ca61YFYzSf&sig=lvA3ZpYKeCpF959zZPPAFbsO3vI&redir_esc=y#v=onepage&q=wip%20limits%20scrumban&f=false)
 * [DevOps by Scrumban](https://link.springer.com/article/10.1365/s40702-017-0301-x)
+* [The Scrum Guide 2017](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)
 
 # Quellen
 
 [^1]: [Kanban Guide](https://kanbantool.com/de/kanban-guide)
 [^2]: [Scrumban Wiki](https://en.wikipedia.org/wiki/Scrumban#Tooling)
-[^3]: https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/
+[^3]: [Agile Ressourcen](https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/)
 [^4]: [Sprints Wiki](https://de.wikipedia.org/wiki/Scrum#Sprint)
 [^5]: [Das beste aus Scrum und Kanban](https://www.agile-heroes.de/magazine/scrumban-das-beste-aus-scrum-und-kanban-einfach-erklaert/)
 [^6]: [WIP-Limits](https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how)
