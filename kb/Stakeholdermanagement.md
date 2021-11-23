@@ -13,23 +13,23 @@ Das heißt es muss herausgefunden werden wer das Projekt beeinflussen kann oder 
 Hierbei gilt es die unterstützenden Stakeholder von den möglicherweise fürs Projekt gefährlichen Stakeholdern zu unterscheiden. Außerdem gibt es interne und externe 
 Stakeholder. 
 Die internen Stakeholder befinden sich innerhalb des Unternehmens, wie zum Beispiel der Eigentümer, während die externen Stakeholder sich außerhalb des Unternehmens befinden. 
-Ein Beispiel wären Lieferanten oder Kunden. Am wichtigsten sind aber die sogenannten Key-Stakeholder, die den meisten Einfluss auf das Projekt haben. 
+Ein Beispiel wären Lieferanten oder Kunden. Am wichtigsten sind aber die sogenannten Key-Stakeholder, die den meisten Einfluss auf das Projekt haben.[^2] 
 
 # Analyse
 Hat man diesen Schritt erledigt kann man sich der Analyse der Stakeholder zuwenden. Das Projektmanagement muss sich genauestens überlegen wie die Stakeholder zum Projekt
 stehen, wie viel Einfluss sie auf dieses haben und welche Interessen sie vertreten. In einer Matrix mit den wichtigsten Faktoren Einfluss und Interesse lässt sich dies am 
-besten darstellen.
+besten darstellen.[^3]
 ![StakeholderMatrix](https://user-images.githubusercontent.com/92984271/142934621-3e0e289f-0b86-47f0-a6cc-fc8397af9f02.png)
 
 # Planung
 Nach der Identifikation und der Analyse sollte in die Planung übergegangen werden. Hauptsächlich muss die Einbindung der Stakeholder in das Projekt geplant werden. Die 
 einzelnen Ziele, Motivationen und Rollen dienen für eine gute Einordnung. Die Planung kombiniert die zuvor erfassten Informationen und Einschätzungen aus der Identifikation 
-und der Analyse. 
+und der Analyse.[^4]
 
 # Umsetzung
 Am Ende des Prozesses steht die Umsetzung die sich aus den vorherigen Teilen ergibt. Für eine erfolgreichen Ausgang des Projekts ist hier die Zusammenarbeit 
 vor allem mit den am stärksten betroffenen Stakeholdern sehr wichtig. Die  Stakeholder müssen gut in das Projekt eingebunden werden damit sie genauestens verstehen was dort 
-passiert und es zu keinen Missverständnissen kommt. So baut man auch im Projektverlauf immer mehr Vertrauen auf.
+passiert und es zu keinen Missverständnissen kommt. So baut man auch im Projektverlauf immer mehr Vertrauen auf.[^5]
 
 Es gibt trotz genauer Planung und Analyse auch ein paar Dinge auf die man achten sollte. Ein Fehler der häufig vorkommt ist es, es allen Stakeholdern Recht machen zu wollen. 
 Dies ist in den meisten Projekten nicht möglich und führt nur zu Schwierigkeiten im Projektverlauf. Stattdessen sollte man auf die verschiedenen Reaktionen der Stakeholder 
