@@ -35,9 +35,9 @@ Es ist wichtig die Projektinhalte zu definieren, also im Vorhinein festzulegen w
 | Meilensteine  | Genaue Ziele zu setzen und Meilensteine zu definieren ist die Basis einer guten Zusammenarbeit innerhalb eines Teams. Entscheidungen sind durch die Dokumentation zusmmengefasst, für alle erkennbar und auch nach dem Projekt noch nachvollziehbar.  |
 | Statusberichte | In einem Team mit mehreren Beteiligten, wird zeitgleich an verschiedenen Prozessen gearbeitet. Eine Übersicht über die einzelnen Arbeitsschritte innerhalb eines Projekts ist daher von großer Bedutung. Durch Berichte der einzelnen [Projektmitarbeiter](Projektmitarbeiter.md) kann dies efizient erreicht werden.  |
 | Protokolle aus Meetings und Workshops | In gemeinsamen Meetings wird die [Projektkommunikation](Projektkommunikation.md) gefördert. Es wird auf Fehler und Mängel hingewiesen und Lösungen erarbeitet. Um selbe Fehler zu vermeiden oder Informationen für die Lösungsbehebung parat zu haben, helfen die aus Meetings und Workshops enstehenden Protokolle. |
-| Projektplanung | Alle Aufgaben die mit dem Projekt in Verbindung stehen beinhaltet der Projektplan. Er besteht aus einzelnen Arbeitspahsen, die auf die Mitarbeiter und Ressourcen aufgeteilt werden. |
+| Projektplanung | Alle Aufgaben die mit dem Projekt in Verbindung stehen beinhaltet der Projektplan. Er besteht aus einzelnen Arbeitsphasen, die auf die Mitarbeiter und Ressourcen aufgeteilt werden. |
 | Zeiterfassung | Durch die Strukturierung der Aufgaben entsteht ein exakter Zeitplan, mit dem die zukünftige Dauer von ähnlichen Aufgaben bestimmt werden kann. |
-| Verwendete Projektmethoden | Methoden mit denen Aufgaben umgesetzt wurden. Beispiele dafür sind der [Projektstrukturplan](Projektstrukturplan.md) , das [Gantt-Diagramm](Gantt_Diagramme.md) oder die Projekt[umfeldanalyse](Umfeldanalyse.md). |
+| Verwendete Projektmethoden | Methoden mit denen Aufgaben umgesetzt wurden. Beispiele dafür sind der [Projektstrukturplan](Projektstrukturplan.md) , das [Gantt-Diagramm](Gantt_Diagramme.md) oder die [Umfeldanalyse](Umfeldanalyse.md). |
 
 
 # Verschiedene Phasen der Projektdokumentation
@@ -66,7 +66,7 @@ Die Projektdokumentation während der Projektdurchführung umfasst hauptsächlic
 ## Projektdokumentation während des Projektabschlusses
 
 
-Am Ende des Projekts besteht der Hauptzweck darin, die bisher, in der Projektdokumentation, gesammelten Daten zusammenzuführen und das Projekt auszuwerten. Auf Basis der bisherigen Unterlagen kann ein [Projektabschlussbericht](Projektabschlussbericht.md) erstellt werden, der als Diskussionsgrundlage für verschiedene Zwecke dienen kann. Eine gute Projektdokumentation bietet jedoch eine solide Grundlage für unterschiedliche Perspektiven auf das Erfolgspotenzial des Projekts. Speziell für einzelne Bereiche und Tätigkeiten. Spätestens jetzt ist es möglich, die Produktivität von Mitarbeitern, Abteilungen und Projektabteilungen zu bewerten und aus potentiellen Fehlern zu lernen und über Verbesserungsmöglichkeiten nachdenken. [^8]
+Am Ende des Projekts besteht der Hauptzweck darin die bisher, in der Projektdokumentation, gesammelten Daten zusammenzuführen und das Projekt auszuwerten. Auf Basis der bisherigen Unterlagen kann ein [Projektabschlussbericht](Projektabschlussbericht.md) erstellt werden, der als Diskussionsgrundlage für verschiedene Zwecke dienen kann. Eine gute Projektdokumentation bietet jedoch eine solide Grundlage für unterschiedliche Perspektiven auf das Erfolgspotenzial des Projekts. Speziell für einzelne Bereiche und Tätigkeiten. Spätestens jetzt ist es möglich, die Produktivität von Mitarbeitern, Abteilungen und Projektabteilungen zu bewerten und aus potentiellen Fehlern zu lernen und über Verbesserungsmöglichkeiten nachdenken. [^8]
 
 
 # Siehe auch
