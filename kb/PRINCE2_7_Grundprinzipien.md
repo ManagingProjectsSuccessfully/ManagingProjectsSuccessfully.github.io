@@ -102,8 +102,6 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 
 
 ## 3. Vor- und Nachteile
-### Vorteile
-### Nachteile 
 
 
 | Vorteile                | Nachteile     |
@@ -123,9 +121,9 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 
 # Siehe auch
 
-* [PRINCE2_7_Themen](kb/PRINCE2_7_Themen.md)
-* [PRINCE2_7_Prozesse](kb/PRINCE2_7_Prozesse.md)
-* [PRINCE2_Projektumgebung](kb/PRINCE2_Projektumgebung.md)
+* [PRINCE2_7_Themen](PRINCE2_7_Themen.md)
+* [PRINCE2_7_Prozesse](PRINCE2_7_Prozesse.md)
+* [PRINCE2_Projektumgebung](PRINCE2_Projektumgebung.md)
 * [Link auf diese Seite](PRINCE2_7_Grundprinzipien.md)
 
 # Weiterführende Literatur
