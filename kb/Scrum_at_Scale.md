@@ -21,6 +21,12 @@ Dabei schreibt sich das Framework folgende Eigenschaften ganz oben auf die Fahne
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
+Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist das Framework durch folgenden einfachen Aufbau gekennzeichnet, mit einem Scrum of Scrums als zentralen Baustein. Damit kann man Scrum theoretisch beliebig über die folgenden Ebenen skalieren. 
+
+ *  Teams arbeiten regulär nach Scrum mit einem PO, einem Scrum Master und   einer optimalen Teamgröße bis zu 5 Entwickler.
+ * Ab zwei Teams synchronisiert ein Scrum of Scrums (SoS) die Arbeit der angeschlossenen Scrum-Teams, optimale Größe eines SoS sind 4 bis  5 Teams.
+*  Ein Scrum of Scrum of Scrums (SoSoS) synchronisiert die Arbeit mehrerer Scrum of Scrums (SoS). 
+
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
