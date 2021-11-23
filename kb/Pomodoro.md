@@ -60,9 +60,12 @@ So kann man eine Tabelle erstellen:
 
 | Priorität  | Aufgaben | Zeiteinheiten | +/- | OK |
 | -----------| -------- | ------------- | --- | -- |
-| HIGH       |  MPS Kompendium | ⬛⬛⬛⬛🔲|   /  |  ✅ |
+| HIGH       |  MPS Kompendium | ⬛⬛⬛⬛🔲| / |  ✅ |
+
 |            |          |               |     |    |
+
 |            |          |               |     |    |
+
 |            |          |               |     |    |
 
 Die Tabelle von links nach rechts:
