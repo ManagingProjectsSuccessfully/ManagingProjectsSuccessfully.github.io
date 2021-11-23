@@ -1,6 +1,6 @@
 ---
 title: Eisenhower_Matrix
-tags: agil klassisch
+tags: klassisch
 author: Ersan42
 anrechnung: k
 ---
