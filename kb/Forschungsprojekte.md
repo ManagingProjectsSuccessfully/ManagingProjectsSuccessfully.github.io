@@ -18,7 +18,7 @@ Aufgrund ihrer Gegebenheiten sind Forschungsprojekte nicht selten von einem erh�
 * Meist Teamarbeit in interdisziplinären Arbeitsgruppen [^1]
 
 # Forschungsprojekte entwickeln
- "Die Forschungsfrage stellt das Forschungsziel ins Verhältnis zum gegenwärtigen Stand der Wissenschaft, zur gewählten Methodik und zum aktuellen Paradigma" [^8].
+ "Die Forschungsfrage stellt das Forschungsziel ins Verhältnis zum gegenwärtigen Stand der Wissenschaft, zur gewählten Methodik und zum aktuellen Paradigma" [^8]. Die Forschugsfrage, typischerweise hervorgebracht aus einem Problem, stellt das Fundament des Forschungsprojektes dar. Diese wird iterativ durch konkretisierende Forschungsfragen erschlossen. Damit ein Forschungsprojekt, erfolgreich durchgeführt werden kann, ist ein detailierter Projektplan nötig. Wie ein mögliches Vorgehen hierbei ist, zeigt die untenstehende Abbildung. Der letzte Schritt zur Vollendung des Forschungsplan ist die Erstellung eines Analyseplans, um die spätere statistische Auswertung zu erleichtern. [^7] 
 
 
 ![Forschungsfrage entwickeln](Forschungsprojekte/Forschungsfrage-entwickeln.jpg)
