@@ -26,9 +26,9 @@ Die Projektplanung ist ein Kernbereich des Projektmanagements. Wichtige Features
 | Verwaltung allgemeiner Projektdaten  | Grundlegende Informationen, um schnellen Einblick in das Projekt zu bekommen |
 | [Projektstrukturplanung](Projektstrukturplan.md)  | Gliederung des Projekts in plan- und kontrollierbare Elemente  |
 | [Meilensteinplanung](Meilensteine.md)  | Grundlage, um zu bestimmten Zeitpunkten den Projektstatus hinsichtlich von Zielen, Kosten und Terminen beurteilen zu können  |
-| [Gantt Diagramme](Gantt_Diagramme.md) | stellt die verschiedenen Projektphasen übersichtlich dar  |
-| Task Management  | welche Aufgaben noch umzusetzen sind und welchen aktuellen Stand man hat  |
-| [Netzplan](Netzplantechnik.md)  | stellt die Dauer von Vorgängen im Projekt, ihre zeitliche Anordnung und logische Abhängigkeiten zwischen den Vorgängen dar  |
+| [Gantt Diagramme](Gantt_Diagramme.md) | Stellt die verschiedenen Projektphasen übersichtlich dar  |
+| Task Management  | Welche Aufgaben noch umzusetzen sind und welchen aktuellen Stand man hat  |
+| [Netzplan](Netzplantechnik.md)  | Stellt die Dauer von Vorgängen im Projekt, ihre zeitliche Anordnung und logische Abhängigkeiten zwischen den Vorgängen dar  |
 
 
 ## Kommunikation und Zusammenarbeit
