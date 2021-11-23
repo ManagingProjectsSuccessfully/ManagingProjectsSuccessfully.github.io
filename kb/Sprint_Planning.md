@@ -52,5 +52,7 @@ Und so fängt der Sprint.
 
 # Quellen
 
-[^1]: [Sprint Planing| Projektmagzin](https://www.projektmagazin.de/methoden/sprint-planning)[^2]: [Die Events in SCRUM](https://www.agile-heroes.de/magazine/scrum-events/)[^3]: [Timeboxing](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)[^4]: [Sprint-Planungsmeeting](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)
-
+[^1]: [Sprint Planing| Projektmagzin](https://www.projektmagazin.de/methoden/sprint-planning)
+[^2]: [Die Events in SCRUM](https://www.agile-heroes.de/magazine/scrum-events)
+[^3]: [Timeboxing](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)
+^4]: [Sprint-Planungsmeeting](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)
