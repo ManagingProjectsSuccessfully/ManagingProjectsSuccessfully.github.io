@@ -11,7 +11,7 @@ anrechnung: a
 ## 1.	Definition
 **Lean** = Einstellung / Denkweise / systematischer Ansatz zur Beseitigung von Verschwendung
 
-Lean Project Management (kurz LPM) ist in erster Linie eine Einstellung zur Durchführung von [Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md). Es ist eine Denkweise, die darauf abzielt, Verschwendung zu vermeiden, Projekte effizienter und effektiver zu gestalten und Kunden und Auftraggeber besser bedienen zu können.[^2]
+**Lean Project Management** (kurz LPM) ist in erster Linie eine Einstellung zur Durchführung von [Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md). Es ist eine Denkweise, die darauf abzielt, Verschwendung zu vermeiden, Projekte effizienter und effektiver zu gestalten und Kunden und Auftraggeber besser bedienen zu können.[^2]
 
 ## 2.	Toyota-Produktionssystem
 Lean-Management findet seinen Ursprung in den 50er Jahren im japanischen [Toyota-Produktionssystem](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Toyota_Produktionssystem.md), welches Verschwendung vermeidet, interne Abläufe und die Interaktion mit Lieferanten und Kunden optimiert und somit dem Prinzip der „Just-in-time-Produktion“ folgt.[^1] Toyota fasst drei Hauptquellen für Verschwendung: [Muda](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Muda_7_Arten_von_Verschwendung.md), Mura und Muri.[^2]
