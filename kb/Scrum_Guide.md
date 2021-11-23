@@ -5,10 +5,10 @@ author: MrSommC
 anrechnung: a
 ---
 
-Um zu Beginn ein grobes Verständnis über den Scrum-Guide zu schaffen, soll zunächst eine Kurzbeschreibung folgen. Der Scrum_Guide ist ein Rahmenwerk für die Entwicklung, 
+Um zu Beginn ein grobes Verständnis über den Scrum-Guide zu schaffen, soll zunächst eine Kurzbeschreibung folgen. Der Scrum-Guide ist ein Rahmenwerk für die Entwicklung, 
 Bereitstellung und Aufrechterhaltung komplexer Produkte im Bereich der Softwareentwicklung.
 Dieser Leitfaden enthält die Definition von Scrum, bestehend aus den Scrum-Rollen, Ereignissen, Artefakten und den Regeln, die sie miteinander verbinden. 
-Ken Schwaber und Jeff Sutherland haben Scrum entwickelt. Der Scrum Guide wurde von ihnen geschrieben und bereitgestellt. Gemeinsam stehen sie hinter dem Scrum Guide[^1]. 
+Ken Schwaber und Jeff Sutherland haben Scrum entwickelt. Der Scrum-Guide wurde von ihnen geschrieben und bereitgestellt. Gemeinsam stehen sie hinter dem Scrum-Guide[^1]. 
 
 
 # Der Scrum-Guide
@@ -26,7 +26,7 @@ miteinander verbinden[^3].
 
 ## Konkrete Inhalte des Scrum-Guides
 
-Laut dem offiziellen Scrum_Guide aus dem Jahr 2020 enthält der Scrum_Guide folgende Inhalte:
+Laut dem offiziellen Scrum-Guide aus dem Jahr 2020 enthält der Guide folgende Inhalte:
 
 * Scrum-Definition 
 
@@ -49,8 +49,8 @@ Laut dem offiziellen Scrum_Guide aus dem Jahr 2020 enthält der Scrum_Guide folg
 
 ## Scrum-Rollen, Ereignissen und Artefakte 
 
-Wie zu Beginn beschrieben enthält der Scrum_Guide die Definition von Scrum. Diese Definition besteht aus den Scrum-Rollen, Ereignissen, Artefakten und den Regeln. Um den 
-Scrum_Guide umfassend zu verstehen, müssen die einzelnen Bereiche verstanden werden. 
+Wie zu Beginn beschrieben enthält der Scrum-Guide die Definition von Scrum. Diese Definition besteht aus den Scrum-Rollen, Ereignissen, Artefakten und den Regeln. Um den 
+Scrum-Guide umfassend zu verstehen, müssen die einzelnen Bereiche verstanden werden. 
 
 
 ## Scrum-Rollen
