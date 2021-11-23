@@ -36,8 +36,7 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
-Die Bereitschaft zum Wissensaustausch und zur Kollaboration ist bei Mitgliedern eines Teams geringer je  
-größer die Diversität und Unbekanntheit in der Gruppe ist[^1].
+Die Bereitschaft zum Wissensaustausch und zur Kollaboration ist bei Mitgliedern eines Teams geringer je  größer die Diversität und Unbekanntheit in der Gruppe ist[^1].
 
 Um den Einstieg in und die Grundlage für eine erfolgreiche Zusammenarbeit zu schaffen, können Kennenlernspiele, die in einer Vielzahl existieren, verwendet werden[^2].
 
@@ -102,7 +101,12 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 # Quellen
 
 [^1]: https://www.marconomy.de/vier-erstaunliche-erfolgsfaktoren-fuer-die-agile-zusammenarbeit-a-853629/
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^2]: https://asana.com/de/resources/icebreaker-questions-team-building
+[^3]: https://link.springer.com/content/pdf/10.1007%2F978-3-658-12008-5.pdf
+[^4]: https://psycnet.apa.org/fulltext/1965-12187-001.pdf?auth_token=ab14c987a05299f8f0fb073cdffd37cec38e61f5&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F1965-12187-001, S.396
+[^5]: https://link.springer.com/content/pdf/10.1007%2F978-3-658-12008-5.pdf
+[^6]: https://link.springer.com/content/pdf/10.1007%2F978-3-662-56013-6.pdf, S.215…….die haben es aus: Boos, M., Hardwig, T., & Riethmüller, M. (2017). Führung und Zusammenarbeit in verteilten Teams. Göttingen: Hogrefe.“ (komme ich nicht dran)
+[^7]:
+[^8]:
+[^9]:
+[^10]:
