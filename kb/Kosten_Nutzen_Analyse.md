@@ -2,7 +2,7 @@
 title: Kosten_Nutzen_Analyse
 tags: agil klassisch
 author: Maximilian219
-anrechnung: k oder a
+anrechnung: k 
 ---
 Die Kosten-Nutzen-Analyse ist ein Bewertungsverfahren, das die Wirtschaftlichkeit von [Projekten](Projekt.md) prüft und den monetär bewerteten Nutzen mit den Kosten einer Maßnahme vergleicht.
 > „Zweck der Analyse ist die Auswahl der Alternative aus einer Menge von möglichen Alternativen, deren Realisierung ein Gesamtziel am effektivsten erfüllt.“(Hüftle, 2006)[^1]
