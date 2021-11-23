@@ -8,14 +8,14 @@ anrechnung: a
 Die KI-Software für das Projektmanagement ist ein sehr neues Thema, denn nur 23% der Befragten gaben an im Projektmanagement mit künstlicher Intelligenz gearbeitet zu haben. 
 Obwohl 90% der Projektmanagement-Fachleute überzeugt sind vom Einsatz von KI im Projekt und Projektmanagement, scheinen dennoch nur 4% der Unternehmen KI großflächig einzusetzen. Die KI-Software die am häufigsten verwendet werden sind beispielsweise [Analysetools](https://www.onlinemarketing-praxis.de/web-controlling/web-analyse-tools), [Chat-Bots](https://www.ibm.com/de-de/campaign/was-ist-ein-chatbot) oder [robotergestützte Prozessautomatisierung](https://de.wikipedia.org/wiki/Robotic_Process_Automation)[^1].
 
-* [Was ist KI-Software?](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Software%20f%C3%BCr%20Projektmanagement-,Was%20ist%20KI%2DSoftware%3F,-Zun%C3%A4chst%20ist%20die)
+* [Was ist KI-Software?](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Quelle-,Was%20ist%20KI%2DSoftware%3F,-Zun%C3%A4chst%20ist%20die)
   - [Arten von KI-Software](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Entscheidungen%20f%C3%A4llen%20k%C3%B6nnen.-,Arten%20von%20KI%2DSoftware,-Unter%20anderem%20wird)
-* [Nutzen und Relativierung]()
-  - [Nutzen von KI-Software für Projektmanagement]()
-  - [Relativierung von Bedenken an die KI-Software für Projektmanagement]()
-* [Siehe auch]()
-* [Weiterführende Literatur]
-* [Quelle] 
+* [Nutzen und Relativierung](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=wie%20Watson%20Assistant3.-,Nutzen%20und%20Relativierung,-Nutzen%20von%20KI)
+  - [Nutzen von KI-Software für Projektmanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Nutzen%20und%20Relativierung-,Nutzen%20von%20KI%2DSoftware%20f%C3%BCr%20Projektmanagement,-Die%20K%C3%BCnstliche%20Intelligenz)
+  - [Relativierung von Bedenken an die KI-Software für Projektmanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Mitarbeiter%20unterst%C3%BCtzen%20kann.-,Relativierung%20von%20Bedenken%20an%20die%20KI%2DSoftware%20f%C3%BCr%20Projektmanagement,-Zun%C3%A4chst%20ist%20KI)
+* [Siehe auch](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=von%2050%25%20hat6.-,Siehe%20auch,-Von%20Chatbots%20bis)
+* [Weiterführende Literatur](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Machine_Learning_im_Projektmanagement-,Weiterf%C3%BChrende%20Literatur,-Buch%3A%20Crashkurs%20KI)
+* [Quellen](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=kann%27s%3F%20(Teil%202)-,Quellen,-Footnotes) 
 
 # Was ist KI-Software? 
 Zunächst ist die Künstliche Intelligenz ein Gebiet aus der [Informatik](https://de.wikipedia.org/wiki/Informatik), dabei beschäftigt sie sich mit der [Automatisierung](https://de.wikipedia.org/wiki/Automatisierung), [maschinellen Lernen](https://de.wikipedia.org/wiki/Maschinelles_Lernen) oder dem intelligenten Verhalten[^2]. Des Weiteren soll die KI menschliche Verhaltensmuster imitieren oder bestimmte Entscheidungen fällen können.
