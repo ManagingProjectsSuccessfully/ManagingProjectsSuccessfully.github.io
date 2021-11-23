@@ -65,7 +65,7 @@ Die Elbphilharmonie sollte ursprünglich 2010 eröffnet werden und insgesamt 77 
 
 ## Stadtautobahn Boston 
 
- Plan des Bauvorhabens „The Big Dig“ („Das große Graben“) war es, die Stadtautobahn Bostons auf einer Strecke von 5,6 Kilometern unterirdisch in einen Tunnel zu verlegen. Das teuerste US-Straßenbauprojekt wurde letztlich 2007 fertiggestellt, mit neun Jahren Verspätung und einer Kostenexplosion von ursprünglichen 2,8 Milliarden auf 14,8 Milliarden Dollar.[^5] 
+Plan des Bauvorhabens „The Big Dig“ („Das große Graben“) war es, die Stadtautobahn Bostons auf einer Strecke von 5,6 Kilometern unterirdisch in einen Tunnel zu verlegen. Das teuerste US-Straßenbauprojekt wurde letztlich 2007 fertiggestellt, mit neun Jahren Verspätung und einer Kostenexplosion von ursprünglichen 2,8 Milliarden auf 14,8 Milliarden Dollar.[^5] 
 
 ## Stuttgart 21
 
