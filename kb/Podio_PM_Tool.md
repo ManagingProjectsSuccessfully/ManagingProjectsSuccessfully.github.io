@@ -4,6 +4,7 @@ tags: agil klassisch
 author: Paulqe42kuno
 anrechnung: k oder a
 ---
+# Podio
 
 Podio ist eine ... des US-amerikanischen Softwareunternehmens Citrix Systems[^1]. 
 (Kurzbeschreibung zu Podio_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
