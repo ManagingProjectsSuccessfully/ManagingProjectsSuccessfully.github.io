@@ -6,7 +6,7 @@ anrechnung: a
 ---
 
 Das Cynefin Framework wurde vom britisch walischen Forscher und Berater für Wissensmanagement David Snowden Johnson entwickelt. Das Wort "Cynefin" stammt aus dem walischen und 
-bedeutet so viel wie "Lebensraum", damit wollte Snowden ausdrücken, dass zwischen den Individuen und ihrer Umwelt eine Vielfalt von Wechselwirkungen bestehen. Diese 
+bedeutet so viel wie "Lebensraum", damit wollte Snowden ausdrücken, dass zwischen den Individuen und ihrer Umwelt eine Vielfalt von Wechselwirkungen bestehen.[^1] Diese 
 Wechselwirkung macht eine vollkommene analytische Beschreibung des realen Systems unmöglich[^1].
 
 Das Modell hat die Aufgabe Probleme, Situationen und Systeme zu beschreiben. Dabei kategorisiert das Model die einzelnen Probleme in sogenannte Problemdomänen, die wiederum 
@@ -35,7 +35,7 @@ offensichtlichen Entscheidungen nach dem Prinzip "Erkennen - Kategorisieren - Re
 2. Complicated
 Bei "komplizierten" Problemen sind die Ursachen und Wirkungen immer noch eindeutig zu beschreiben, aber nicht für alle verständlich. In anderen Worten das Problem ist für einige 
 zu kompliziert, weshalb die Lösungen (es sind mehrere möglich) für "Nicht-Experten" schwer zu erkennen sind[^3]. Daher beläuft sich der Ansatz für die Entscheidungsfindung auf 
-folgende drei Punkte "Erkennen - Analysieren - Reagieren"[^2]. Diese Domäne wird auch "Good Practice" genannt.
+folgende drei Punkte "Erkennen - Analysieren - Reagieren"[^5]. Diese Domäne wird auch "Good Practice" genannt.
 
 3. Complex
 In "komplexen" Situationen ist es fast unmöglich eine Lösung zu erkennen, da es zu viele Unbekannte gibt. Auch für Experten ist es schwierig die Beziehung der Ursache und der 
@@ -50,20 +50,31 @@ gewohnte und einfache Problemlösungsmöglichkeiten zurück. Prinzipiell ist das
 Herangehensweise einer Domäne zu zuordnen.[^4]
 
 
-# Probleme bei der Anwendung
+# Die complacent Zone 
 
-* Die Grenze zwischen "obvious" und "chaotic"
+* Die Grenze zwischen "obvious" und "chaotic" unterschiedet sich in ihrer Wirkung von den anderen. Die Regle hierbei lautet: Sobald angenommen wird, dass die Probleme bzw. 
+Situationen einfach und geordnet sind, befindet man sich in der "complacent Zone" und das Ergebnis ist katastrophal. Daher ist es empfehlenswerter an den komplexen und 
+komplizierten Zonen zu managen.[^4][^5]
 
+# Anwendung auf Projekte [^1]
+
+| Deming-Cyle          |	Plan	    |  Do            | Check          |	Act        | Beispiele                   |
+|----------------------|------------|----------------|----------------|------------|-----------------------------|
+| einfache Systeme     | beobachten |	               | kategorisieren | reagieren  | Produktimplementierung      |
+| komplizierte Systeme | beobachten |	               | analysieren    | reagieren  | Support-Projekte            |
+| komplexe Systeme		 |            | probieren      | beobachten	    | reagieren  | Produktentwicklung          |
+| chaotische Systeme	 |            | handeln        | beobachten	    | reagieren  | Ausfall von Kerntechnologie |
+
+Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework zusammen und zeigt Beispiel Projekte für die einzelnen Domänen auf.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Cynefin-Framework.md)
+* 
 
 # Weiterführende Literatur
 
 * Lang, S.(2015). Komplexität im Projektmanagement - Methoden und Fallbeispiele für erfolgreiche Projekte. Wiesbaden: Springer Vieweg Fachmedien
-* 
+* Nachbagauer, A., Schril-Böck, I., Weiss, E.(2020). Unerwartete Herausforderungen in Projekten erfolgreich managen - Erfahrungen aus der Human-Factors-, Hochsicherheits- und Resilienzforschung. Berlin: Springer Gabler Verlag 
 
 # Quellen
 
@@ -71,4 +82,5 @@ Herangehensweise einer Domäne zu zuordnen.[^4]
 [^2]: [The Cynefin Framework - Problem - Solving Skills (from MindTools.com)](https://www.mindtools.com/pages/article/cynefin-framework.htm#:~:text=The%20Cynefin%20framework%20was%20developed%20by%20David%20J.,by%20cause-and-effect%20relationships.%20They%20are%3A%20Obvious.%20Complicated.%20Complex.)
 [^3]: [Komplexität im Projektmanagement-Methoden und Fallbeispiele für erfolgreiche Projekte (von Sabrina Lang)](https://link.springer.com/content/pdf/10.1007%2F978-3-658-09972-5.pdf)
 [^4]: [The Cynefin Framework (Cognitive Edge)](https://www.youtube.com/watch?v=N7oz366X0-8)
+[^5]: [Unerwarter Herausforderung in Projekten erfolgreich managen (von Andreas Nachbagauer, etc.)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-60944-6.pdf)
 
