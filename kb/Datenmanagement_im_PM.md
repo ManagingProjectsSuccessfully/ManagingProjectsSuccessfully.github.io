@@ -46,13 +46,6 @@ Das PMIS sollte sinnvoll gestaltet sein, um zu gewährleisten, dass die einzelne
 
 Wir unterscheiden die folgenden primären bzw. sekundären Module.[^11] In der folgenden Tabelle sind nur einige genannt.
 
-| Primäre Module | Sekundäre Module |
-| -------------    | ------------- |
-| Kostenmanagement | Vertragsgestaltung  |
-| Design           | Korrespondenz  |
-| Qualität         | Sicherheit  |
-| Planung          | [Work packs](https://www.wrike.com/project-management-guide/faq/what-is-a-work-package-in-project-management) |
-
 | Primäre Module  | Sekudäre Module   |
 | --------------- | ---------------   |
 | Kostenmanagement| Vertragsgestaltung|
