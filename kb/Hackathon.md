@@ -42,7 +42,7 @@ Seitdem haben sich die Hackathon in ihrer Art und Weise, ihrem Ausmaß und ihrer
 
 Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Aber auch Unternehmen haben in der Vergangenheit feststellen können, dass ein solches Format, intern organisiert, die Initialzündung für neue Ideen, Geschäftsmodelle und vieles mehr sein kann, ohne dabei lange erstphasige Entwicklungszeiten in Kauf zu nehmen. [^8]
 
-Auch die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen von Corona nicht verwehrt geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause hacken konnten. Aber auch zur Corona-Krise an sich gab es mehrere Hackathons, weltweit als auch in Deutschland. [^11] [^10]
+Die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen Coronas nicht verschont geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause aus hacken konnten. Aber auch zur Corona-Krise an sich gab es mehrere Hackathons, weltweit als auch in Deutschland. [^11] [^10]
 
 # Ablauf
 
@@ -50,24 +50,24 @@ Der Ablauf eines Hackathons variiert je nach Thema, Dauer, Teilnehmergröße ode
 
 __1. Vorstellung und Vorträge__
 
-In einer Eröffnungsrede werden zumeist der Ablauf und der Rahmen der Veranstaltung erläutert. Anschließend wird in einem Vortrag die Problemstellung vorgestellt, die es in den folgenden Stunden oder Tagen zu lösen gilt. [^2] [^4]
+In einer Eröffnungsrede werden der Ablauf und der Rahmen der Veranstaltung erläutert. Anschließend wird in einem Vortrag die Problemstellung vorgestellt, die es in den folgenden Stunden oder Tagen zu lösen gilt. [^2] [^4]
 
 
 __2. Teambuilding__
 
-Die verschiedenen Teams bilden sich in der Regel erst vor Ort, nach gemeinsamen möglichen Lösungsvorstellungen. Eine möglichst heterogene Zusammenstellung ist nicht nur üblich, sondern auch empfohlen. Denn die Mitglieder sollen sich mit unterschiedlichen Fähigkeiten und Kenntnissen gegenseitig ergänzen. [^2] [^1]
+Die verschiedenen Teams bilden sich in der Regel erst vor Ort, nach gemeinsamen möglichen Lösungsvorstellungen. Eine möglichst heterogene Zusammenstellung ist nicht nur üblich, sondern auch empfohlen. Denn die Mitglieder sollen sich mit ihren unterschiedlichen Fähigkeiten und Kenntnissen gegenseitig ergänzen. [^2] [^1]
 
 __3. Hacken__
 
-Damit ist die eigentliche Entwicklungsarbeit gemeint und nimmt den größten Anteil ein. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototyps auch die Vorbereitungen auf die Präsentation. Dabei folgen die Mitglieder oftmals den Prinzipien von [Desing Thinking](Design_Thinking.md). [^2] [^4] [^5]
+Damit ist die eigentliche Entwicklungsarbeit gemeint und nimmt den größten Anteil ein. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototypen auch die Vorbereitungen auf die Präsentation. Dabei folgen die Mitglieder oftmals den Prinzipien von [Desing Thinking](Design_Thinking.md). [^2] [^4] [^5]
 
 __4. Pitchen__
 
-Am Ende werden vor einer Jury, die zumeist aus den Veranstaltern, Vertreter von Unternehmern und Experten besteht, die Ergebnisse vorgestellt – was in der Startup-Branche als pitchen bezeichnet wird. Neben einem Hauptgewinner werden oft auch die besten Lösungen in bestimmten Kategorien gekürt, natürlich mit einem entsprechenden Preis. [^2] [^4] [^7]
+Am Ende werden vor einer Jury, die meistens aus den Veranstaltern, Vertreter von Unternehmern und Experten besteht, die Ergebnisse vorgestellt – was in der Start-up-Branche als pitchen bezeichnet wird. Neben einem Hauptgewinner werden oft auch die besten Lösungen in bestimmten Kategorien gekürt, natürlich mit einem entsprechenden Preis. [^2] [^4] [^7]
 
 # Chancen für die Teilnehmer und Unternehmen
 
-Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit auf Networking, Wissensaustausch und Preise, sondern auch die Aussicht auf eine längerfristige Zusammenarbeit oder Jobangebot. Denn Unternehmen nutzen die Gelegenheit um auf sich aufmerksam zu machen und die besten Hacker für sich zu gewinnen. [^2] [^6]
+Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit auf Networking, Wissensaustausch und Preise, sondern auch die Aussicht auf eine längerfristige Zusammenarbeit oder Jobangebot. Denn etablierte, als auch junge Unternehmen nutzen die Gelegenheit um auf sich aufmerksam. So können sie die besten Hacker für sich gewinnen und sich mit interessierten Investoren austauschen. [^2] [^6]
 
 # Ausgewählte Beispiele 
 
