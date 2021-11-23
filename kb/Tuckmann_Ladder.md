@@ -54,9 +54,6 @@ So kann man eine Tabelle erstellen:
 | Allgemeine Feststellungen | Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende | Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen | Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
 | Prozessbezogene Probleme | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
 | Gefühlsbezogene Fragen | Die Menschen fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen fühlen sich noch unsicher und versuchen, ihre Individualität zum Ausdruck zu bringen. Es entstehen Bedenken hinsichtlich der Teamhierarchie | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
 
 
@@ -77,8 +74,15 @@ die Leistung Ihres Teams so hoch wie nie zuvor. Dieses hohe Leistungsniveau bede
 Problemlösungsfähigkeiten haben, dass sie ohne Aufsicht durch die Leiter funktionieren können. Alle arbeiten wie eine gut geölte Maschine, konfliktfrei und synchron auf ein
 gemeinsames Endziel hin.
 
-## Aufgaben des Projektleiters in der Performing Phase
+## Übersicht der verschiedenen Stages
 
+Die folgende Tabelle fasst die Phasen mit jeweiligen Herausfoerungen zusammen, die im Zusammenhang mit einer neuen Teambildung und -entwicklung aufkommen können. 
+
+| * | Forming | Storming | Norming | Performing |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Allgemeine Feststellungen | Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende | Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen | Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
+| Prozessbezogene Probleme | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
+| Gefühlsbezogene Probleme | Die Mitglieder fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen fühlen sich noch unsicher und versuchen, ihre Individualität zum Ausdruck zu bringen. Es entstehen Bedenken hinsichtlich der Teamhierarchie | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
 
 # Adjouring
 
