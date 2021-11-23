@@ -42,7 +42,7 @@ Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen ada
 
 [Abbildung 2 zu Scrum@Scale](https://www.palladio-consulting.de/scrum-at-scale/)
 
-Das Framework lässt sich in zwei Zyklen darstellen: Scrum-Master-Zyklus und Produktinhaber-Zyklus. Im erstgenannten Zyklus geht es um das "Wie", im zweitgenannten um das "Was". Auch Überschneidungen werden so ersichtlich.
+Das Framework lässt sich in zwei Zyklen darstellen: Scrum-Master-Zyklus und Produktinhaber-Zyklus. Im ersten Zyklus geht es um das "Wie", im zweiten um das "Was". Auch Überschneidungen werden so ersichtlich.
 
 
 # Zusammenfassung
