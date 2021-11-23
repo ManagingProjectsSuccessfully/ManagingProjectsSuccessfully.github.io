@@ -24,12 +24,6 @@ Die Nutzung von Plattformen, wie Asana, Microsoft Projekt oder Trello, helfen di
 Ein weiterer Bereich, wo digitale Tools zum Einsatz kommen, ist die Kommunikation, die einen wichtigen Erfolgsfaktor im Projektmanagement darstellt.[^4] 
 Die altbewährte E-Mail reicht für eine gelungene Zusammenarbeit nicht mehr aus. Dagegen erlauben Messanger-Dienste sich in Echtzeit zu vernetzten[^7] und Online-Meeting Tools, wie Zoom oder Skype, schaffen „neue flexible Möglichkeiten für alle Beteiligten, Besprechungen effizienter zu organisieren, [...].“ Das hat den Vorteil, dass Meetings häufiger virtuell stattfinden und so räumliche Distanzen nun viel leichter überbrückt werden können,[^4] was sich im Rahmen der Covid-19 Krise als essenziell erwiesen hat.[^7]                      
                 
-
-![Beispielabbildung](Digitalisierung_im_PM/test-file.jpg)
-
-*lustiges Testbild*
-
-
 # Potenziale
 
 Mit der gewonnenen Effizienz durch einen gezielten Tooleinsatz wird die Produktivität der Teams gesteigert und es entsteht ein großes Potenzial darin, „eine Vielzahl von Projekten zeitgleich durchzuführen und trotzdem stets den Überblick zu behalten.“[^6] 
@@ -51,6 +45,11 @@ Bei einer großen Anzahl an Projekten kann zudem der Überblick schnell verloren
 Ebenfalls werden neue Kompetenzprofile von den Projektleitern und allen weiteren Teammitgliedern notwendig. Dazu gehören einerseits fachliche Qualifikationen, aber auch Flexibilität und kommunikative Fähigkeiten.[^5] 
 
 Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes, effizientes und flexibles Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.
+
+
+![DIHK](https://github.com/Viktoria1412/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM/grafik-herausforderungen-digitalisierungsumfrage-21-data.png)
+
+*DIHK*
 
 # Siehe auch
 
