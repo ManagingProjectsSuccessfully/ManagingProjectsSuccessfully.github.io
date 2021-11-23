@@ -5,7 +5,7 @@ author: Charles0209
 anrechnung: k 
 ---
 
-Das Minimum Viable Product ist ein Entwicklungskonzept, das Anwendung im agilen [Projektmanagement](Projektmanagement.md) findet.[^1][^2]
+Das **Minimum Viable Product** ist ein Entwicklungskonzept, das Anwendung im agilen [Projektmanagement](Projektmanagement.md) findet.[^1][^2]
 
 # Inhaltsverzeichnis
 1. [Definition](#definition)
