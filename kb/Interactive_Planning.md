@@ -5,9 +5,6 @@ author: Vallejk
 anrechnung: a
 ---
 
-
-
-
 # Einleitung
 
 Interactive Planning ist ein Konzept, das vom Theoretiker Russell L. Ackoff entwickelt wurde[^2]. 
@@ -17,7 +14,6 @@ lässt dieses Konzept zu, dass die Stakeholder der Organisation im Planungsproze
 
 Interactive Planning besteht aus zwei Teilen, der Idealisierung und der Realisierung. Diese zwei 
 Teile sind zudem in sechs voneinander abhängigen Teilen unterteilt.
-
 
 ![Beispielabbildung](Interactive_Planning/Interactiveplanning.png)
 
@@ -31,13 +27,13 @@ Jedes Unternehmen ist konfrontiert mit interagierenden Gefahren und Möglichkeit
 Problemen, das nach Russell L. Ackoff „mess“ genannt wird.
 Diese Phase der Planung hat das Ziel festzulegen, wie die Organisation sich früher oder später selbst schaden könnte, wenn so weiter operiert werden würde, wie es zum aktuellen Zeitpunkt der Fall ist.
 
-Diese Phase beinhaltet die Vorbereitung einer Systemanalyse (detaillierte Beschreibung wie das System 
-aktuell arbeitet) und eine Hindernisanalyse (Identifikation der Eigenschaften der Organisation, 
-welche den Fortschritt der Organisation behindern), sowie Referenzprojektionen (Projektionen der 
-Aspekte auf die Zukunft der Organisation; erstens auf der Annahme, dass keine Veränderungen an 
+Diese Phase beinhaltet Folgendes
+* die Vorbereitung einer Systemanalyse (detaillierte Beschreibung wie das System aktuell arbeitet) 
+* eine Hindernisanalyse (Identifikation der Eigenschaften der Organisation, welche den Fortschritt der Organisation behindern) 
+* Referenzprojektionen (Projektionen der Aspekte auf die Zukunft der Organisation; erstens auf der Annahme, dass keine Veränderungen an 
 aktuellen Plänen, Richtlinien oder Programmen stattfinden und zweitens, dass das künftige Umfeld, so 
-eintritt wie aktuell erwartet) und einem Referenzszenario (Beschreibung, wie und warum sich die 
-Organisation selber schaden würde, wenn die Annahmen, die gemacht wurden, sich bewahrheiten[^1]. 
+eintritt wie aktuell erwartet) 
+* und einem Referenzszenario (Beschreibung, wie und warum sich die Organisation selber schaden würde, wenn die Annahmen, die gemacht wurden, sich bewahrheiten[^1]. 
 
 
 ## Beendigung der Planung (Ends Planning)
