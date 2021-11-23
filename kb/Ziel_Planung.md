@@ -59,6 +59,6 @@ Dies bedeutet, dass das Ziel so deutlich wie möglich gesetzt werden sollen, um 
 # Quellen
 
 
-[^1] : https://sevdesk.de/blog/projektmanagement/  
-[^2] : https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/projektplanung/  
-[^3] : https://link.springer.com/chapter/10.1007%2F978-3-642-60144-6_6
+[^1] : [Projektmanagement – Der optimale Einsatz für dein Unternehmen ](https://sevdesk.de/blog/projektmanagement/ )   
+[^2] : [Projektplanung: Alle Schritte der Planungsphase auf einen Blick ](https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/projektplanung/ )   
+[^3] : [Ziele und Aufgaben des Projektmanagements](https://link.springer.com/chapter/10.1007%2F978-3-642-60144-6_6)
