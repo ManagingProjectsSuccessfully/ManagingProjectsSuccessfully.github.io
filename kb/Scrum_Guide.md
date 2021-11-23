@@ -1,53 +1,56 @@
 ---
 title: Scrum_Guide
-tags: agil klassisch
+tags: agil
 author: MrSommC
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Scrum_Guide um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Um zu Beginn ein grobes Verständnis über den Scrum-Guide zu schaffen, soll zunächst eine Kurzbeschreibung folgen. Der Scrum_Guide ist ein Rahmenwerk für die Entwicklung, 
+Bereitstellung und Aufrechterhaltung komplexer Produkte im Bereich der Softwareentwicklung.
+Dieser Leitfaden enthält die Definition von Scrum, bestehend aus den Scrum-Rollen, Ereignissen, Artefakten und den Regeln, die sie miteinander verbinden. 
+Ken Schwaber und Jeff Sutherland haben Scrum entwickelt. Der Scrum Guide wurde von ihnen geschrieben und bereitgestellt. Gemeinsam stehen sie hinter dem Scrum Guide[^1]. 
 
 
-# Aspekt 1
+# Der Scrum-Guide
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die wichtige Bedeutung von Scrum im agilen Projektmanagement ist unumstritten, so fallen die beiden Begriffe Scrum und agiles Projektmanagement häufig im gleichen Kontext. 
+Es ist also wenig überraschend, dass Scrum der beliebteste agile Ansatz im Projektmanagement ist[^2]. Bevor der konkrete Scrum_Guide beschrieben wird, soll ein allgemeiner 
+Überblick über Scrum gegeben werden. Was also genau ist Scrum. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Scrum ist ein Rahmenwerk, in dem Menschen komplexe, adaptive Probleme angehen und dabei produktiv und kreativ Produkte von größtmöglichem Wert liefern können.
+Scrum hilft Menschen, Teams und Organisationen adaptive Lösungen für komplexe Probleme zu schaffen. Die Scrumgründer haben den Scrum Guide geschrieben, um Scrum klar und 
+prägnant zu erklären. Dieser Leitfaden enthält die Definition von Scrum. Diese Definition besteht aus den Verantwortlichkeiten, Ereignissen, Artefakten und den Regeln, die Scrum 
+miteinander verbinden[^3].
 
-![Beispielabbildung](Scrum_Guide/test-file.jpg)
 
-*lustiges Testbild*
+
+## Konkrete Inhalte des Scrum-Guides
+
+Laut dem offiziellen Scrum_Guide aus dem Jahr 2020 enthält der Scrum_Guide folgende Inhalte:
+*Scrum-Definition 
+
+*	Scrum-Theorie
+
+*	Scrum-Werte
+
+*	Scrum Team
+
+*	Scrum Events 
+
+*	Scrum Artefakte 
+
+*	Sprint Backlog
+
+*	Increment
+
+*	Schlussbemerkung [^4]
+
+
+## Visualisierung des Scrum-Prozesses
+
+![Beispielabbildung](Scrum_Guide/ScrumProzess.png)  [^5]
+
+*Visualisierung des Scrum-Prozesses*
 
 # Aspekt 2
 
@@ -97,8 +100,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [The Scrum Guide](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)
+[^2]: [Agiles Projektmanagement: Der ultimative Überblick](https://projekte-leicht-gemacht.de/projektmanagement/agiles-projektmanagement/)
+[^3]: [What is Scrum](https://www.scrum.org/resources/what-is-scrum )
+[^4]: [Der Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf)
+[^5]: [Bild](https://www.bing.com/images/search?view=detailV2&ccid=QfyEah%2b1&id=B7DECA9FBBB98F3723EEFC0B8DAFA331DE30B322&thid=OIP.QfyEah-1aXpqK7RSJJJ7qAHaE7&mediaurl=https%3a%2f%2fimage.freepik.com%2fvektoren-kostenlos%2fscrum-infografik_23-2148582396.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.41fc846a1fb5697a6a2bb45224927ba8%3frik%3dIrMw3jGjr40L%252fA%26pid%3dImgRaw%26r%3d0&exph=417&expw=626&q=scrum+guide+grafik&simid=607988806035197205&FORM=IRPRST&ck=902968CA6FB2836A04D392B51E5415C9&selectedIndex=3&qpvt=scrum+guide+grafik&ajaxhist=0&ajaxserp=0)
+
+
+
+
 
