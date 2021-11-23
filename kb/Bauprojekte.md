@@ -28,7 +28,7 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 ## Klassisches Projektmanagement bei Bauprojekten
 ## Agiles Projektmanagament bei Bauprojekten
 ## Missglückte Bauprojekte
-![Chemikum FAU](Bauprojekte/MPS Beitrag Chemikum.jpeg)
+![Chemikum FAU](Bauprojekte/MPS_Beitrag_Chemikum.jpeg)
 ## Erfolgreiche Bauprojekte
 ### Bachelorstudiengang Projektmanagement Bau
 
