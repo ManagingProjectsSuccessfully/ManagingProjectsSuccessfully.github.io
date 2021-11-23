@@ -11,7 +11,7 @@ Ein Bauprojekt, auch Bauvorhaben genannt, beschreibt die Errichtung eines in der
 # Projektmanagement bei Bauprojekten
 
 Das Bauprojektmanagement kann als die Urform des Projektmanagements betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren. 
-Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements[^5]. 
+Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements[^5]. Es gibt insgesamt drei Funktionäre bei einem Bauprojekt: Bauherr, Planer und den Ausführenden (z.B. Bauunternehmer)[^6].
 
 ## Aufgaben des Bauprojektmanagements
 
@@ -122,3 +122,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 [^5]: [Bauprojektmanagement](https://www.projektmagazin.de/glossarterm/bauprojektmanagement)
+[^6]: [Bauprojekt: Wer macht was? Wen brauche ich? Bauunternehmer, Planer, Bauherr / Bauwerkplan erklärt](https://www.youtube.com/watch?v=UVjm9xbqXws)
