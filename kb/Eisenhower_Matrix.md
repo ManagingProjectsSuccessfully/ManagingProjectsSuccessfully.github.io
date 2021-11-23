@@ -45,13 +45,14 @@ Der größte Nachteil ist, dass das Eisenhower Prinzip überwiegend für Persone
 
 Ein weiterer Kritikpunkt richtet sich an das Kriterium Wichtigkeit. Sie ist oft nur subjektiv und daher nicht immer eindeutig, ob eine Aufgabe wichtig oder unwichtig ist. Es gibt oft keinen äußeren Faktor, der die Wichtigkeit bestimmt im Gegensatz zum Kriterium Dringlichkeit, wo z.B. Deadlines anstehen.
 Kritiker kamen zu der Erkenntnis, dass wichtige Aufgaben nur selten dringend seien und dringende Aufgaben nur selten wichtig seien.
-Diese Betrachtungsweise stellt das gesamte Prinzip infrage.
+Diese Betrachtungsweise stellt das gesamte Prinzip infrage.[^3]
 
 # Fazit
 Die Methode ist hilfreich, Prioritäten besser zu setzen.
-Im besten Fall bearbeitet jeder Mensch überwiegend Aufgaben, die als dringlich und wichtig eingestuft werden können. Wird die Herangehensweise der Matrix effektiv umgesetzt, sollte sich also ein Zeitgewinn deutlich erkennen lassen. Die gewonnene Zeit kann wiederum für andere Dinge genutzt werden.
+Im besten Fall bearbeitet jeder Mensch überwiegend Aufgaben, die als dringlich und wichtig eingestuft werden können. Wird die Herangehensweise der Matrix effektiv umgesetzt, sollte sich also ein Zeitgewinn deutlich erkennen lassen. Die gewonnene Zeit kann wiederum für andere Dinge genutzt werden.[^2]
 
 # Quellenverzeichnis
 
 [^1]: [Definition Eisenhower-Methode (Wikipedia)](https://de.wikipedia.org/wiki/Eisenhower-Prinzip#cite_note-1)   
-[^2]: 
+[^2]: [Fazit (bigKarriere)](https://www.bigkarriere.de/karrierewelt/querbeet/zeitmanagement-das-eisenhower-prinzip-do-or-not-do)  
+[^3]: [Ziele der Eisenhauer Matrix(t2informatik)](https://t2informatik.de/wissen-kompakt/eisenhower-matrix/)
