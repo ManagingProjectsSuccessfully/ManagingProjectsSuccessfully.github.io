@@ -60,19 +60,26 @@ So kann man eine Tabelle erstellen:
 
 | Priorität  | Aufgaben | Zeiteinheiten | +/- | OK |
 | -----------| -------- | ------------- | --- | -- |
-| HIGH       |  MPS Kompendium        |               |     |    |
+| HIGH       |  MPS Kompendium | ⬛⬛⬛⬛🔲|   /  |  ✅ |
 |            |          |               |     |    |
 |            |          |               |     |    |
 |            |          |               |     |    |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Die Tabelle von links nach rechts:
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+In der ersten Spalte wird die Priorität eingetragen, was nichts anderes bedeutet, als die Reihenfolge für den heutigen Tag.
 
-### Ebene-3-Überschrift
+Die zweite Spalte ist für die Aufgaben reserviert. Sonst nichts.
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Jetzt wird es etwas interessanter. In der Spalte „Zeiteinheiten“ sind fünf leere Kästchen. Jedes steht für eine Pomodoro-Einheit. Bei der Planung überlege ich mir vorab, wie groß der Zeitbedarf für eine Aufgabe etwa sein könnte. Gehe ich von drei Pomodori aus, ziehe ich einen Rahmen um drei Kästchen. So kann ich im Nachhinein überprüfen, inwieweit es mir gelungen ist, den Zeitbedarf einzuschätzen. Abweichungen von der Schätzung sind eine Spalte weiter (+/-) einzutragen.
+
+In der letzten Spalte ist zum Abhaken der erledigten Aufgaben.
+
+Kopf- und Fußzeile geben die Möglichkeit für Notizen, beziehungsweise wann und in welchem Kontext gearbeitet wurde.[^2]
+
+# Vorteile
+
+# Kritik
 
 
 # Siehe auch
@@ -87,7 +94,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: pomodorotechnique.com
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: [Zeitakrobat](https://zeitakrobat.de/pomodoro-methode-einfach-und-wirkungsvoll)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
