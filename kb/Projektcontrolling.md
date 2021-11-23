@@ -69,3 +69,4 @@ Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszei
 [^7]: https://doi.org/10.1007/978-3-662-52974-4_8
 [^8]: https://de.wikipedia.org/wiki/Projektcontrolling#Kennzahlen_und_Methoden_des_Projektcontrollings
 [^9]: Beifuss A., Holzbaur U. (2020) Projektcontrolling. In: Projektmanagement für Studierende. essentials. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-658-32664-7_4
+[^10]:[Projektcontrolling](https://www.geo.fu-berlin.de/en/v/proposal_writing/learning_content/7_project_management/controlling/index.html)
