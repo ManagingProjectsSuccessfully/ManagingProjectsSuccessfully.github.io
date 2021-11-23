@@ -12,43 +12,47 @@ Das dazustehende Gegenüber ist die Linearwirtschaft, welches ein "take-make-dis
 Circular Economy nicht nur darauf ab, die Mängel einer linearen Wirtschaft auszubessern, sondern stellt auch ein systematischen Wandel dar, der das Wirtschaftssystem vollständig 
 verändert.[^1]
 
+![image](Projektmanagement_fuer_Circular_Economy/R.jpg)
+
+*Circular Economy Modell[^4]
+
 
 # Die drei Grundsätze von Circular Economy
 
-1. Umweltverschmutzung und Abfall überdenken und minimieren
+1. Die Schonung der Ressourcen
 
 Das Konzept bezieht sich auf die Minimierung von Abfällen und Umweltverschmutzung. Die Schäden durch wirtschaftliche Aktivitäten sollen reduziert werden. Dieser Einfluss auf die 
 Umwelt kann bereits bei der Gestaltung und dem Design des Produkts bestimmt werden. Durch neue Technologien und Materialien kann die Verschmutzung und der Abfall vermieden 
 werden. [^2]
 
-2. Materialien und Produkte nachhaltig nutzen
+2. Hohe effiziente Nutzung der Ressourcen
+
+Die Circular Economy hatt mitunter als Ziel, die Nutzungsdauer von Produkten und Materialien zu verlängern. Dies kann nur dann funktionieren, indem ein Kreislauf für die in der 
+Wirtschaft zirkulierenden Materialien und Produkte ensteht. Dabei erreicht man das Ziel durch die aktive Wiederverwendung, Reparatur und Wiederaufbereitung der verwendeten 
+Produkte und Materialien.[^1]
+
+3. Recycling
+
+Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und besteht darauß dem Ökosystem Nährstoffe zurückzugeben. Heißt: Ein ständiges nehmen führt zu nichts es, muss auch 
+wieder etwas zurückgegeben werden.[^2]
 
 
+# Cradle to Cradle
 
-3. Systeme umgestalten
+![image](Projektmanagement_fuer_Circular_Economy/Cradle_to_Cradle.jpg)
+
+*Cradle to Cradle [^6]
+
+# Vorteile einer Kreislaufwirtschaft
+
+* Kosteneinsparungen
+* Treibhausgasemission wird gesenkt
+* Umweltbelastung wird verringert
+* Rohstoffversorgungssteigerung
+* Förderung der Innovation udn Wachstum [^5]
 
 
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![image](Projektmanagement_fuer_Circular_Economy/R.jpg)
-
-*Circular Economy Modell[^4]
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# 
 
 So kann man eine Tabelle erstellen:
 
@@ -94,5 +98,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: [Circular Economy - Overview, Principles, Types of Cycles (coporatedfinanceinstitute.com)](https://corporatefinanceinstitute.com/resources/knowledge/economics/circular-economy/#:~:text=What%20is%20a%20Circular%20Economy%3F%201%20Principles%20of,and%20an%20indicator%20of%20its%20standard%20of%20living.)
 [^2]: [Circular Economy - Was ist eine Kreislaufwirtschaft? (tempo-world.com)](https://www.tempo-world.com/de-de/leben-mehr/wie-eine-circular-economy-der-umwelt-helfen-kann/)
 [^3]: [Kreislaufwirtschaft in Design und Produktmanagement - Co-Creation im Zentrum der zirkulären Wertschöpfung (von Dominik Wlacher etc.)](https://link.springer.com/content/pdf/10.1007%2F978-3-658-18512-1.pdf)
-[^4]: [Circular Economy Modell](Projektmanagement_fuer_Circular_Economy/circular economy modell.jpg)
-
+[^4]: [Circular Economy Modell](Projektmanagement_fuer_Circular_Economy/R.jpg)
+[^5]: [Kreisaufwirtschaft: Definiton und Vorteile (Europäische Parlament](https://www.europarl.europa.eu/news/de/headlines/economy/20151201STO05603/kreislaufwirtschaft-definition-und-vorteile)
+[^6]: [Cradle to Cradle](Projektmanagement_fuer_Circular_Economy/Cradle_to_Cradle.jpg)
