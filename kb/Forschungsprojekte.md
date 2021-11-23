@@ -38,7 +38,7 @@ Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie sch
 
 
 ## Klassisch vs. Agil
-Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Auch wenn eine Tendenz zum agilen Projektmanagement besteht, gegeben dadurch, dass in der Anfangsphase oftmals die Anforderungen teils unbekannt sind, hat es jedoch auch Aspekte des klassischen Projektmanagements (z.B. detaillierter Projektantrag). Die unten aufgeführte Tabelle zeigt die Leitfragen und deren Einordnung von Forschungsprojekten (fettgedruckt) in das jeweilige Projektmanagement. [^3]
+Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Auch wenn eine Tendenz zum agilen Projektmanagement besteht, gegeben dadurch, dass in der Anfangsphase oftmals die Anforderungen teils unbekannt sind, hat es jedoch auch Aspekte des klassischen Projektmanagements (z.B. detaillierter Projektantrag). Die unten aufgeführte Tabelle zeigt die Leitfragen und deren Einordnung von Forschungsprojekten in das jeweilige Projektmanagement (fettgedruckt). [^3]
 
 
 | Kategorien | Klassisches PM | Agiles PM |
@@ -53,20 +53,20 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 
 
 ## Lösungsansatz
-Eine mögliche Lösung stellt hierbei das [Microsoft PPM](https://www.microsoft.com/de-de/microsoft-365/project/project-portfolio-management)-Tool dar. Gerade in Puncto mangelnde Kommunikation und fehelnde projektplanung ist es hilfreich, da es ein benutzerfreundliches Tool für zentrales Projektmanagement mit einer gemeinsamen Arbeits- und Informationsplattform für Forscher und Projektbeteiligte ist. [^4] 
+Eine mögliche Lösung stellt hierbei das [Microsoft PPM](https://www.microsoft.com/de-de/microsoft-365/project/project-portfolio-management)-Tool dar. Da es ein benutzerfreundliches Tool für zentrales Projektmanagement mit einer gemeinsamen Arbeits- und Informationsplattform für Forscher und Projektbeteiligte ist, kann es besonders mangelnde Kommunikation verhindern und die Projektplanung verbessern. [^4] 
 
-Nützliche Funktionen für Forschungsprojekte:
-1. PPM: zentrales Speichern und Auswerten, standardisierte Dokumentablage durch Sharepoint
-2. Erweiterung Multiprojekt: [Top-down-Kommunikation](https://de.wikipedia.org/wiki/Top-down_und_Bottom-up), [Bottum-up-Prinzip](https://de.wikipedia.org/wiki/Top-down_und_Bottom-up), Meilensteinübersicht, Projektampeln
-3. Erweiterung Softlinks: Verknüpfung zum eigenen/firmenübergreifenden Termin-/Projektplan
-4. Erweiterung ERP-Sytem: detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und Controllern [^4]
+Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
+1. zentrales Speichern und Auswerten, standardisierte Dokumentablage durch SharePoint
+2. [Top-down-Kommunikation](https://de.wikipedia.org/wiki/Top-down_und_Bottom-up), [Bottom-up-Prinzip](https://de.wikipedia.org/wiki/Top-down_und_Bottom-up), Meilensteinübersicht, Projektampeln (Erweiterung Multiprojekt)
+3. Verknüpfung zum eigenen/firmenübergreifenden Termin-/Projektplan (Erweiterung Softlinks)
+4. detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und Controllern (Erweiterung ERP-System) [^4]
 
 
 # Aktuelle Forschungsprojekte
 
-* [Frauenhofer](https://www.ise.fraunhofer.de/de/forschungsprojekte/aktuell.html)
-* [BASE](https://www.base.bund.de/DE/themen/fa/soa/projekte-aktuell/projekte-aktuell.html)
-* [FAU](https://www.fau.de/research/)
+* [Fraunhofer-Institut](https://www.ise.fraunhofer.de/de/forschungsprojekte/aktuell.html)
+* [Bundesamt für die Sicherheit der nuklearen Entsorgung](https://www.base.bund.de/DE/themen/fa/soa/projekte-aktuell/projekte-aktuell.html)
+* [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/research/)
 
 
 # Siehe auch
@@ -81,7 +81,7 @@ Nützliche Funktionen für Forschungsprojekte:
 # Weiterführende Literatur
 
 * Bauer W., Bleck-Neuhaus J., Dombois R., Wehrtmann I. (2018). Forschungsprojekte entwickeln – von der Idee bis zur Publikation. NOMOS VERLAGSGES.MBH + CO.
-* Schöneck N. & Voß W. (2013). Das Forschngsprojekt, Planung, Durchführung und Auswertung einer quantitativen Auswertung. SpringerVS.
+* Schöneck N. & Voß W. (2013). Das Forschungsprojekt, Planung, Durchführung und Auswertung einer quantitativen Auswertung. SpringerVS.
 * Projekt Forum. (07.07.2020). [Herausforderungen an das Projektmanagement: Unterschiedliche Arten von Projekten](https://www.youtube.com/watch?v=Ar-qjMOsh7U). Youtube. 
 * Hagen Management GmbH. [Projektmanagement Blog](https://pm-blog.com/).
 
