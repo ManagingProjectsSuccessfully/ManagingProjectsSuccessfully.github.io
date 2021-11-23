@@ -38,7 +38,7 @@ Die Kenngrößen des Dreiecks umfassen:
 
 ![Projekt Controlling](Projektcontrolling/projectcontrolling.jpg)
 
-*Überwachung der Kennzahlen im Projektcontrolling Kontext.*[^10]
+*Überwachung der Kennzahlen des Projektdreiecks im Projektcontrolling-Kontext.*[^10]
 
 ## Methoden
 Mittlerweile finden viele, größtenteils standardisierte Methoden ihre Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten Umfang, Dauer und Komplexität des Projektes berücksichtigt werden. Grundsätzlich gilt hier die Devise: Je einfacher und durschaubarer die Methode, desto besser.[^7]
