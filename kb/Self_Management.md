@@ -104,6 +104,17 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
+
+
+
+
+
+
+
+
+
+
+
 # Quellen
 
 [^1]: [Selbstmanagement – Definition, Erklärung und Tipps (Frankfurter Allgemeine)](https://stellenmarkt.faz.net/karriere-lounge/selbstmanagement-definition-erklaerung-tipps/)
