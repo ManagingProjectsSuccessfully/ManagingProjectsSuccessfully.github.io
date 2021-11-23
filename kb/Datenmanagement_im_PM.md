@@ -48,7 +48,7 @@ Das PMIS sollte sinnvoll gestaltet sein, um zu gewährleisten, dass die einzelne
 
 ### 3.1.1 Primäre und sekundäre Module 
 
-Wir unterscheiden die folgenden primären bzw. sekundären Module.[^11] In der folgenden Tabelle sind nur einige genannt.
+Wir unterscheiden die folgenden primären bzw. sekundären Module. In der folgenden Tabelle sind nur einige genannt.
 
 | Primäre Module  | Sekudäre Module   |
 | --------------- | ---------------   |
@@ -59,7 +59,7 @@ Wir unterscheiden die folgenden primären bzw. sekundären Module.[^11] In der f
 
 ## 3.2	Implementierung und Integration der Informationssysteme
 
-Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmanagement integriert, insbesondere die primären Module. (siehe Abbildung unten).[^12] Normalerweise produziert jedes Modul Informationen, die von anderen Modulen genutzt werden; nutzt die Informationen, die von anderen Modulen erzeugt werden; oder auch beides parallel. In diesem Sinne ist die Verbindung dieser Module des Informationssystems zu einem koordinierten PMIS von sehr großer Bedeutung für ein leistungsfähiges[ Projektmanagement](Projektmanagement.md).
+Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmanagement integriert, insbesondere die primären Module. (siehe Abbildung unten).[^11] Normalerweise produziert jedes Modul Informationen, die von anderen Modulen genutzt werden; nutzt die Informationen, die von anderen Modulen erzeugt werden; oder auch beides parallel. In diesem Sinne ist die Verbindung dieser Module des Informationssystems zu einem koordinierten PMIS von sehr großer Bedeutung für ein leistungsfähiges[ Projektmanagement](Projektmanagement.md).
 
 ![Primäre Module in PM](Datenmanagement_im_PM/Picture_3.png)
 
@@ -160,11 +160,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [Practical Issues in Database Management](https://www.pearson.com/uk/educators/higher-education-educators/program/Pascal-Practical-Issues-in-Database-Management-A-Reference-for-the-Thinking-Practitioner/PGM405773.html)
 [^3]: [Why manage data](https://www.usgs.gov/products/data-and-tools/data-management/why-manage-data)
 [^4]: [Projektmanagement-Tool](https://www.eurice.eu/privacy/project-management-tool/)
-[^5]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^6]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^7]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^8]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^9]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^10]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^11]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^12]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^5]: [Data Management](https://searchdatamanagement.techtarget.com/definition/data-management)
+[^6]: [Project Management](https://www.goodreads.com/book/show/42049169-project-management)
+[^7]: [Project management information systems - An empirical study of their impact on project managers and project success](https://www.researchgate.net/publication/222572029_Project_management_information_systems_An_empirical_study_of_their_impact_on_project_managers_and_project_success)
+[^8]: [Project Management](https://www.goodreads.com/book/show/42049169-project-management)
+[^9]: [Project management information systems](https://portailqualite.acodev.be/fr/system/files/node/342/project_management_information_systems.pdf)
+[^10]: [Data Managemen Modules](https://bluesoft.com/product/data-management-module-dmm/)
+[^11]: [Project Management](https://www.goodreads.com/book/show/42049169-project-management)
+
