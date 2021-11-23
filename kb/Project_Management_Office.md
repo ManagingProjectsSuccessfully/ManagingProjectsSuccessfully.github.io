@@ -7,7 +7,7 @@ anrechnung: k
 
 
 ## 1.	Grundlagen und Verwendung
-Das Project Management Office (kurz PMO) ist eine permanente organisatorische Einheit im Unternehmen, ähnlich einer Stabsstelle, die für das zentralisierte und koordinierte Management aller Projekte zuständig ist.[^1] Es befindet sich häufig direkt unterhalb der Geschäftsführung und setzt die Vision und Mission des Unternehmens in Strategien und Ziele um.[^6]
+Das **Project Management Office** (kurz PMO) ist eine permanente organisatorische Einheit im Unternehmen, ähnlich einer Stabsstelle, die für das zentralisierte und koordinierte Management aller Projekte zuständig ist.[^1] Es befindet sich häufig direkt unterhalb der Geschäftsführung und setzt die Vision und Mission des Unternehmens in Strategien und Ziele um.[^6]
 
 „Das PMO sollte den Stakeholdern in der Multiprojekt-Landschaft das gute Gefühl geben, alles im Griff zu haben.“ - Johann Strasser, Managing Partner TPG [^5]
 
@@ -28,15 +28,15 @@ Das weisende PMO übernimmt die Kontrolle über die Projekte, indem es die Proje
 ## 3.	Aufgaben
 Das PMO unterstützt die Projektleiter in vielfältiger Weise und übernimmt verschiedene Funktionen:[^3]
 
-Es verwaltet zum einen die gemeinsamen Ressourcen aller Projekte und ermöglicht eine effiziente Zuteilung.[^5] Ein effizientes Ressourcenmanagement ist von großer Bedeutung, da sichergestellt werden muss, dass die richtigen Kompetenzen zur richtigen Zeit im richtigen Projekt eingesetzt werden.[^2]
+Es verwaltet zum einen die gemeinsamen Ressourcen aller Projekte und ermöglicht eine effiziente Zuteilung.[^5] Ein effizientes **Ressourcenmanagement** ist von großer Bedeutung, da sichergestellt werden muss, dass die richtigen Kompetenzen zur richtigen Zeit im richtigen Projekt eingesetzt werden.[^2]
 
-Des Weiteren identifiziert und entwickelt es Projektmanagement-Methoden, Best Practices und Standards, die bei zukünftigen Projekten angewendet werden können. Durch diese einheitlichen Projektmanagement-Standards wird allen Projektbeteiligten ein möglichst einfacher und klaren Leitfaden vermittelt.[^2] Dadurch kann zum einen die gewünschte Planungsqualität sichergestellt werden, während sich gleichzeitig der administrative Verwaltungsaufwand verringert.[^1] Außerdem wird so eine leichtere Vergleichbarkeit zwischen den Projekten ermöglicht.[^3] Solche organisatorischen Standards sind zum Beispiel bereits vordefinierte Rollen oder die Nutzung einheitlicher Formulare und Checklisten. Gleichzeitig überwacht das PMO auch die Einhaltung der festgelegten Projektmanagementstandards.[^4]
+Des Weiteren identifiziert und entwickelt es Projektmanagement-Methoden, Best Practices und Standards, die bei zukünftigen Projekten angewendet werden können. Durch diese einheitlichen **Projektmanagement-Standards** wird allen Projektbeteiligten ein möglichst einfacher und klaren Leitfaden vermittelt.[^2] Dadurch kann zum einen die gewünschte Planungsqualität sichergestellt werden, während sich gleichzeitig der administrative Verwaltungsaufwand verringert.[^1] Außerdem wird so eine leichtere Vergleichbarkeit zwischen den Projekten ermöglicht.[^3] Solche organisatorischen Standards sind zum Beispiel bereits vordefinierte Rollen oder die Nutzung einheitlicher Formulare und Checklisten. Gleichzeitig **überwacht** das PMO auch die **Einhaltung** der festgelegten Projektmanagementstandards.[^4]
 
-Zudem übernimmt es Coaching, Mentoring, Schulung und die Aufsicht bei Projekten. Bevor diese überhaupt an das Projektteam abgegeben werden können, muss erst einmal das nötige Knowhow durch eine Personalentwicklung vermittelt werden.[^2]
+Zudem übernimmt es **Coaching**, **Mentoring**, **Schulung** und die **Aufsicht** bei Projekten. Bevor diese überhaupt an das Projektteam abgegeben werden können, muss erst einmal das nötige Knowhow durch eine **Personalentwicklung** vermittelt werden.[^2]
 
-Darüber hinaus ist es verantwortlich für die Entwicklung und Verwaltung von Projektrichtlinien, -verfahren, -vorlagen und anderen gemeinsamen Dokumentationen. Die Projektergebnisse werden in einer zentralen Wissensdatenbank archiviert und für eine zukünftige Nutzung bereitgestellt.[^6] Ein projektorientiertes Wissensmanagement wird erfahrungsgemäß erst durch ein aktives PMO gelebt.[^4]
+Darüber hinaus ist es verantwortlich für die Entwicklung und Verwaltung von Projektrichtlinien, -verfahren, -vorlagen und anderen gemeinsamen Dokumentationen. Die Projektergebnisse werden in einer zentralen Wissensdatenbank archiviert und für eine zukünftige Nutzung bereitgestellt.[^6] Ein projektorientiertes **Wissensmanagement** wird erfahrungsgemäß erst durch ein aktives PMO gelebt.[^4]
 
-Zuletzt übernimmt es die Koordinierung und Kommunikation und gewährleistet so einen reibungslosen Informationsfluss über alle Projekte hinweg.[^3]
+Zuletzt übernimmt es die **Koordinierung und Kommunikation** und gewährleistet so einen reibungslosen Informationsfluss über alle Projekte hinweg.[^3]
 
 ## 4.	Einordnung im klassischen und agilen Projektmanagement
 Abschließend kann nicht klar gesagt werden, ob das PMO eher dem klassischen oder dem agilen Projektmanagement zugeordnet werden kann. Im ersten Moment klingen Stichworte wie einheitliche Projektmanagement-Standards erst einmal sehr starr und unflexiblen, aber man darf nicht vergessen, dass sich das PMO stets an den Anforderungen des Unternehmens anpasst und durchaus auch in einem agilen Umfeld funktionieren kann.
