@@ -17,6 +17,8 @@ Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt.
 
 In der Ablaufdarstellung mithilfe eines Netzplans existieren verschiedene Darstellungsformen, allerdings bestehen Netzpläne immer aus Vorgängen und Ereignissen. Ein Vorgang beschreibt den Sachverhalt des Projektablaufs mit einem bestimmten Anfang und einem bestimmten Ende. Es ist ein Ablaufelement, welches immer durch eine bestimmte Dauer gekennzeichnet ist, die benötigt wird um den Vorgang auszuführen. Wenn ein Vorgang beginnt oder endet, dann immer mit dem Eintritt eines Ereignisses. Solch ein Ereignis beschreibt lediglich den Eintritt eines bestimmten Zustandes, und verfügt daher über keine Dauer.
 
+[^1]
+
 
 ![Beispielabbildung](Netzplantechnik/test-file.jpg)
 
