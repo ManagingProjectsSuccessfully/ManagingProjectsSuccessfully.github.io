@@ -21,14 +21,14 @@ Unter Zielbeziehungen wir die Beziehung zwischen den einzelnen Ziele (meist Unte
 ## Klassisches Projektmanagement 
 
 Projektmanagement allgemein beinhaltet die Anwendung von Wissen, Fähigkeiten und Techniken für Management- und Führungstätigkeiten [^2]
-Beim klassischen Ansatz geht es eher darum, dass man Methoden und Erzeugnisse des Projektmanagement zu standardisierten Projektabläufen zusammenfasst [(=Projektmanagementsysteme)](https://www.capterra.com.de/sem/compare/directory/30002/project-management/software?account_campaign_id=11412926622&account_adgroup_id=111801304956&target=projektmanagement%20system&ad_id=542893678485&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=EAIaIQobChMInqOVjMqp9AIVA893Ch0V3QyJEAAYAiAAEgJ01_D_BwE). Die Projektphasen sind also strikt durchgeplant und es herrscht somit eine hohe Planungssicherheit. [^3] [^4]
-Es gibt auch noch das [agile Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement).    
+Beim klassischen Ansatz geht es eher darum, dass man Methoden und Erzeugnisse des Projektmanagement zu standardisierten Projektabläufen zusammenfasst (=Projektmanagementsysteme[^8]). Die Projektphasen sind also strikt durchgeplant und es herrscht somit eine hohe Planungssicherheit. [^3] [^4]
+Neben dem klassischen Projektmanagement gibt es auch noch das [agile Projektmanagement](Umgang_mit_Kritik.md) 
 
 Im nächsten Schritt wird der Zusammenhang zwischen Zielbeziehungen im klassischen Projektmanagement erklärt. 
 
 # Zielbeziehungen im Klassischen Projektmanagement
 
-Bevor ein Projekt gestartet wird, werden immer gewisse Ziele vereinbart werden, die zu erreichen sind. Dementsprechend sollten Ziele klar und deutlich formuliert werden. Dementsprechend gibt es  die  „SMART“ Regel und steht für „Specific Measurable Accepted Realistic Timely“ also „Spezifisch, messbar, Attraktiv, Realistisch und Terminiert“. [^5]
+Bevor ein Projekt gestartet wird, werden immer gewisse Ziele vereinbart werden, die zu erreichen sind. Dementsprechend sollten Ziele klar und deutlich formuliert werden. Hierfür gibt es  die  [„SMART“ Regel](SMART_Ziele.md) und steht für „Specific Measurable Accepted Realistic Timely“ also „Spezifisch, messbar, Attraktiv, Realistisch und Terminiert“. [^5]
 Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht einzelne Ziele möglichst schnell und zugleich qualitativ hochwertig zu erreichen. Bedeutet je anspruchsvoller das Ziel/Ergebnis ist beispielsweise hinsichtlich der Qualität oder Funktion umso höher sind die damit verbundenen Kosten, Leistungen und Zeitlicher Bedarf. Dahingegend müssen wichtige Abstimmungen gemacht werden. Zum besseren Verständnis nachfolgend einige Beispiele: 
 
 |Das zu erreichende priorisierte Ziel  |Damit verbunden Leistungen  |
@@ -72,3 +72,4 @@ Nachfolgend ein Beispiel einer Präferenzmatrix[^7]:
 [^5]: [Projektmanagement:lernen, lehren und für die Praxis](https://de.scribd.com/book/348063388/Projektmanagement-lernen-lehren-und-fur-die-Praxis)
 [^6]: [Präferenzmatrix](https://de.wikipedia.org/wiki/Pr%C3%A4ferenzmatrix) 
 [^7]: [Innovation 2.0 pp 257-323|  Die Werkzeuge, Manfred Noe ](https://link.springer.com/book/10.1007/978-3-658-02583-0) 
+[^8]: [Projektmanagementsysteme](https://www.capterra.com.de/sem/compare/directory/30002/project-management/software?account_campaign_id=11412926622&account_adgroup_id=111801304956&target=projektmanagement%20system&ad_id=542893678485&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=EAIaIQobChMInqOVjMqp9AIVA893Ch0V3QyJEAAYAiAAEgJ01_D_BwE)
