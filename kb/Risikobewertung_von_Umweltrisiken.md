@@ -15,29 +15,18 @@ Die internen Umweltrisiken entstehen als Folge unternehmerischer Tätigkeiten un
 Die externen Umweltrisiken treten als Folge von Naturkatastrophen und Umweltänderungen, wie Stürme, Hochwasser und Erdbeben auf und gefährden die Unternehmen. Zum Beispiel, bei einem Erdbeben, können Gebäude und Maschinen zerstört werden, dessen Wiederbeschaffungswert in der Regel sehr hoch ist. Beschädigungen von Technischen Anlagen sind oft ein Grund für Produktionsausfälle, die weitere finanzielle Verluste für Unternehmen mit sich bringen. Als externe Umweltrisiken können ebenso Veränderungen des Umweltbewusstseins angesehen werden. Sie können zu Image- und Kundenverlust für Unternehmen, die den Vorstellungen der Gesellschaft nicht entsprechen, führen. [^2]
 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Identifizierung und Bewertung von Umweltrisiken
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Die Bewertung von Umweltrisiken, sowie die Planung von Gegenmaßnahmen, ist ein wichtiger Teil der Entwicklung und des Managements von Projekten in Unternehmen. 
+Der erste Schritt ist die Erkennung und Erfassung der potenziellen Risiken. Mithilfe der Analyse von Prozessabläufen, technischen Kontrollen von Maschinen und Anlagen, sowie Auswertung von Daten die in der Produktion anfallen, können wichtige Erkenntnisse über interne Schwachstellen gewonnen werden. Befragungen von externen Experten und Mitarbeiter können auch relevante Informationen liefern. 
+Der Umweltrisikoidentifikation und -bewertung dienen verschiede Methoden. Die [Fehlerbaumanalyse](https://de.wikipedia.org/wiki/Fehlerbaumanalyse), zum Beispiel, ist eine Methode, die sich für die Erkennung von Umweltrisiken, die als Konsequenz von technischen Fehlern auftreten, eignet. Sie berechnet die Wahrscheinlichkeit eines Ausfalls von Anlagen und Systemen. Die Auswirkung solcher Ausfälle lässt sich durch die [Ereignisbaumanalyse](https://de.wikipedia.org/wiki/Ereignisbaumanalyse) betrachten. Weitere Methoden zur Identifikation von Umweltrisiken sind die [Fehlermöglichkeits- und Einflussanalyse](https://de.wikipedia.org/wiki/FMEA). Sie betrachten die möglichen Fehler nach ihrer Eintritts- und Entdeckungswahrscheinlichkeit und berücksichtigen ebenso die daraus folgenden Auswirkungen auf die Kundenzufriedenheit. 
+Sobald die potenziellen Umweltrisiken identifiziert sind, können sie bewertet werden. Die Bewertung ist oft komplex und mit Schwierigkeiten verbunden, weil die Umweltrisiken vorhersehbar sind. Zuerst wird die Eintrittswahrscheinlichkeit von jedem Risiko berechnet und die damit verbundenen Schäden für die Umwelt bzw. das Unternehmen abgeschätzt, um die finanziellen Folgen beziffern zu können.  Bei der Umweltrisikobewertung erhält man eine Schadensumverteilung, die angibt, mit welcher Wahrscheinlichkeit ein Schaden einen bestimmten Wert übersteigt.[^3]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+# Maßnahmen zur Vermeidung und Minimierung von Umweltrisiken
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Eine Maßnahme zur Vermeidung und Minimierung von Umweltrisiken und ihrer Schäden ist beispielsweise die nachhaltige Gestaltung von Produktionsprozessen. Ein Produktionsprozess wird als nachhaltig betitelt, wenn dieser auf umweltfreundliche Materialien und Stoffe zurückgreift und diese in effizienter Abfolge von Teilschritten verarbeitet. Das ist häufig mit hohen Anfangsinvestitionen verbunden, jedoch können durch die Nachhaltigkeit und innovative Lösungen langfristig Kosten gespart werden. Eine weitere sinnvolle Maßnahme sind Versicherungen. Sie sind besonders gut bei externen Umweltrisiken geeignet, weil diese schwierig vorhergesehen und vermieden werden können. 
+
 
 
 # Aspekt 1
@@ -102,6 +91,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: https://www.business-wissen.de/hb/ziele-und-aufgaben-des-risikomanagements-im-unternehmen/ 
 [^2]: https://de.wikipedia.org/wiki/Umweltrisikomanagement#Allgemeines 
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^3]: https://www.biologie-seite.de/Biologie/Umweltrisikomanagement 
+
 
