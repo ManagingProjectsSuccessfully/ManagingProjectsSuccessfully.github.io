@@ -2,80 +2,47 @@
 title: Feedback_Methoden
 tags: agil klassisch
 author: JaBa3000
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Feedback_Methoden um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Der Begriff des Feedbacks hat seinen Ursprung in der Kybernetik und bedeutet so viel wie Rückmeldung oder Rückkoppelung. Wenn man Feedback gibt, teilt man seine Wahrnehmung über
+eine Person oder Leistung dieser mit. Es gibt verschiedene Formen des Feedbacks beispielsweise im klassischen oder agilen Projektmanagement.[^1][^2]
+Jede einzelne bezeichnet man als Feedbackmethode.
 
 
-# Aspekt 1
+# Auswahl der richtigen Feedbackmethode
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die Wahl der passenden Art des Feedbacks hängt von einigen Faktoren ab. Zum einen an wen oder über was Rückmeldung gegeben werden soll oder ob dieses fachlich oder personell
+ist. Zum anderen der Zeitpunkt – falls nötig – die Frequenz der Rückmeldung.[^2][^3]
+Im Prinzip gibt es drei verschiedene Feedbackmethoden: Individuelles, kollaboratives und qualitatives Feedback. Individuelles Feedback gibt Rückmeldung zur Leistung des
+einzelnen Teammitglieds, während kollaboratives das Projektteam und dessen Zusammenspiel als Ganzes bewertet. Am Ende eines Projektes steht vor allem die Einschätzung des
+finalen Produkts durch den Auftraggeber im Fokus, also das qualitative Feedback.[^6]
+Hierbei gibt es wesentliche Unterschiede zwischen klassischem und agilem Projektmanagement.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Feedback_Methoden/test-file.jpg)
+# Feedback im klassischen Projektmanagement
 
-*lustiges Testbild*
+Im klassischen Projektmanagement werden Ressourcen, Ziele und Ende vor Start festgelegt, sodass das Feedback fast immer erst nach Abschluss des Projektes erfolgt. Das Feedback 
+wird hauptsächlich vom Auftraggeber, dessen Wünsche vorher erfasst wurden, aber auch intern vom Projektleiter und den Teammitgliedern gegeben.[^3][^4] 
+Ein großer Nachteil dieser Feedbackmethode ist, dass es sehr lange dauert bis der Kunde das fertige Produkt testen kann. In dieser Zeit besteht die Gefahr, dass sich die
+Anforderungen des Kunden geändert haben und nicht mehr den Ursprünglichen entsprechen.[^5]
 
-# Aspekt 2
+![FeedbackKlassisch](Feedback_Methoden/FeedbackKlassisch.png)
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+*Abbildung 1[^3]*
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Dennoch gibt es auch beim klassichen Projektmanagement die Möglichkeit während des Projektes Feedback einzubringen, um dieser Unsicherheit entgegenzusteuern. Diese Methode wird
+allerdings meist nur angewandt, wenn das Projekt Gefahr läuft zu scheitern. Wird dann auf das Feedback eingegangen, so ist das in der Regel mit einem hohen Umplanungs- und
+Kostenaufwand verbunden.[^3]
 
-So kann man eine Tabelle erstellen:
+# Feedback im agilen Projektmanagement
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Im Gegensatz zum klassischen Projektmanagement haben die Stakeholder beim agilen Projektmanagement regelmäßig Gelegenheit Feedback einzubringen. So wird nach jeder Iteration 
+bzw. Sprint Rückmeldung vom Kunden eingeholt, welches im nächsten Zyklus umgesetzt werden kann. Diese Methode wird auch als Feedback-Schleife bezeichnet.[^7][^8]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+![FeedbackAgil]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
+*Abbildung 2[^3]*
 # Aspekt n
 
 1. das
@@ -97,8 +64,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Feedback geben](https://ebooks-fachzeitungen-de.ciando.com/img/books/extract/3407295065_lp.pdf)
+[^2]: [Was ist Feedback?](https://managementstellen.ch/was-ist-feedback)
+[^3]: [Unterschiede zwischen klassischem und agilem Projektmanagement](https://projekte-leicht-gemacht.de/blog/projektmanagement/agil/klassisch-agiles-projektmanagement-1/)
+[^4]: [Standardisierung vs. Kultur: Klassisches und agiles Projektmanagement im Vergleich](https://dl.gi.de/bitstream/handle/20.500.12116/3061/47.pdf?sequence=1&isAllowed=y)
+[^5]: [Klassisches Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-8349-4202-9_3.pdf)
+[^6]: [Drei Feedback-Regeln für agile Unternehmen](https://www.channelpartner.de/a/feedback-ja-klar-aber-richtig,3336722)
+[^7]: [Agiles Projektmanagement: Scrum, Use Cases, Task Boards & Co.](https://books.google.de/books?hl=de&lr=&id=HzppDwAAQBAJ&oi=fnd&pg=PP1&dq=agiles+projektmanagement&ots=FHNGEtK50p&sig=k23Pp736cyuXhdZvd1d08u6TMT8&redir_esc=y#v=onepage&q=feedback&f=false)
+[^8]: [Agiles Projektmanagement](https://link.springer.com/content/pdf/10.1007/BF03341189.pdf)
 
