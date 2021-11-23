@@ -21,7 +21,7 @@ Wie bereits oben erwähnt, gibt es die Grobplanung und die Detailplanung. Die er
 **3.	Planung der Projektorganisation:** Verteilung der Rollen und Verantwortlichkeiten                               
 **4.	Ablauf- und Terminplanung:** Erstellung einer chronologischen Rheinfolge der Arbeitspakete           
 **5.	Ressourcenplanung:** Ermittlung der notwendigen Ressourcen    
-**6.	Kostenplanung:** Bildung der Projektkosten (Ressourcen + Dauer) [^2]
+**6.	Kostenplanung:** Bildung der Projektkosten (Ressourcen + Dauer)[^2]
 
 # 3.	Projektplanung in der Praxis:
 
