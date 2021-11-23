@@ -58,7 +58,7 @@ Scrum-Guide umfassend zu verstehen, müssen die einzelnen Bereiche verstanden we
 Bei Scrum gibt es drei Rollen die direkt am Prozess beteiligt sind, den Product Owner, den ScrumMaster und den Developer[^4]. 
 Kurzgesagt, stellt der Product Owner fachliche Anforderungen und priorisiert sie. 
 
-Der ScrumMaster hat die Aufgabe den Prozess zu managen und Hindernisse zu beseitigen. Er sorgt dafür, dass während dem Prozess die Scrum_Regeln eingehalten werden.
+Der [Scrum-Master](Scrum_Master.md) hat die Aufgabe den Prozess zu managen und Hindernisse zu beseitigen. Er sorgt dafür, dass während dem Prozess die Scrum_Regeln eingehalten werden.
 Der Developer hat das Ziel, wie sein Name schon vermuten lässt, das Produkt zu entwickeln[^6]. 
 
 
@@ -112,11 +112,16 @@ Die [Scrum-Artefakte](Scrum_Artefakte.md) lauten Product Backlog, Sprint Backlog
 * [Sprint Backlog](Sprint_Backlog.md)
  
 * [Increment](Increment.md)
+
+* [Scrum-Master](Scrum_Master.md)
  
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* W.Glogner: Scrum Der Pradigmenwechsel im Projekt- und Produktmanagement – Eine Einführung, Informatik-Spektrum, 2010 - Springer
+
+* [Scrum](https://www.atlassian.com/de/agile/scrum)
+
 
 # Quellen
 
