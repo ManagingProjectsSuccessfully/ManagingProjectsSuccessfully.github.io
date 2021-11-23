@@ -16,19 +16,19 @@ Storytelling ist eine weit verbreitete Erzählmethode der Rhetorik, welche in vi
 
 ## Was ist Storytelling im Projektmanagement?
 
-Geschichten haben meist eine tieferen Sinn. Durch das Storytelling wird versucht dem Publikum etwas zu vermitteln:
+Geschichten haben meist einen tieferen Sinn. Durch das Storytelling wird versucht dem Publikum etwas zu vermitteln:
 
 * Weitergabe von Wissen
 * Wiedergabe von Erfahrung 
 * Übertragung von Lebensweisheiten
 * Vermittlung von Werten und Normen
 
-Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführung der Kollegen und Mitarbeiter als Projektmanager kann man durch eine gut erzählte Geschichte mit Vermittlung von relevanten Projekt-bezogenen Inhalten, die Projektinvolvierten abholen und ihnen den Sinn und die Wichtigkeit des Projekts nahe bringen. Dadurch kann man deren intrinsische Motivation steigern, was sowohl für die Mentalität der Mitarbeiter förderlich ist, als auch diese produktiver arbeiten lässt[^1]. 
+Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführung der Kollegen und Mitarbeiter als Projektmanager kann man durch eine gut erzählte Geschichte mit Vermittlung von relevanten Projekt-bezogenen Inhalten, die Projektinvolvierten abholen und ihnen den Sinn und die Wichtigkeit des Projekts verdeutlichen. Dadurch kann man deren intrinsische Motivation steigern, was sowohl für die Mentalität der Mitarbeiter förderlich ist, als auch diese produktiver arbeiten lässt[^1]. 
 
 
 ## Praktische Anwendung
 
-Zunächst ist es wichtig zu verstehen, das es hier nicht um pure Fakten und Statistiken geht. Hierbei geht es darum die Mitarbeiter durch kreative und emotionale Geschichten zu begeistern und von dem Projekt zu überzeugen. Man muss ein Mittelmaß zwischen Fantasie und projektbezogenen Inhalten finden. Die Thematik muss dabei passend und nicht zu realitätsfern gewählt sein[^1]. Beispielsweise kann man bei der Entwicklung einer App, welche für mehr Barrierefreiheit sorgen soll, die Sichtweise betroffener Personen und deren Geschichten erzählen, um so das Engagement der Mitarbeiter zu steigern, da ihnen der Sinn hinter dem bevorstehenden Projekt klar ist.
+Zunächst ist es wichtig zu verstehen, dass es hier nicht um pure Fakten und Statistiken geht. Hierbei geht es darum die Mitarbeiter durch kreative und emotionale Geschichten zu begeistern und von dem Projekt zu überzeugen. Man muss ein Mittelmaß zwischen Fantasie und projektbezogenen Inhalten finden. Die Thematik muss dabei passend und nicht zu realitätsfern gewählt sein[^1]. Beispielsweise kann man bei der Entwicklung einer App, welche für mehr Barrierefreiheit sorgen soll, die Sichtweise betroffener Personen und deren Geschichten erzählen, um so das Engagement der Mitarbeiter zu steigern, da ihnen der Sinn hinter dem bevorstehenden Projekt klar ist.
 
   
 ## Der Aufbau einer passenden Geschichte
@@ -47,14 +47,14 @@ Die Einführung ist einer der wichtigsten Momente im Projekt. Sie zeigt die Ziel
 
 ### Hauptteil / Projektprozess
 
-Nun muss man den Kollegen den Projektprozess und die Projektdurchführung durch die Geschichte nahe bringen. Hierbei kann man mögliche Probleme als Antagonisten darstellen. Neue Erfahrung und Wissen, welches die Mitarbeiter während dem Projekt erwerben, sollten kein Hindernis. Sie sollten eine Chance sein, die eigenen Fähigkeiten zu verbessern und den eigene Horizont zu erweitern, was man dementsprechend in der Geschichte vermitteln sollte. Wie die Grafik aufzeigt, ist die Durchführung des Projekts im Vergleich zum Anfang und Ende, weniger spannend und monotone Aufgaben gehören ebenfalls dazu. Deshalb ist es wichtig, auch das den Menschen durch die Geschichte mitzuteilen, aber trotzdem immer das Ziel im Blick zubehalten.
+Nun muss man den Kollegen den Projektprozess und die Projektdurchführung durch die Geschichte vermitteln. Hierbei kann man mögliche Probleme als Antagonisten darstellen. Neue Erfahrung und Wissen, welches die Mitarbeiter während dem Projekt erwerben, sollten kein Hindernis. Sie sollten eine Chance sein, die eigenen Fähigkeiten zu verbessern und den eigenen Horizont zu erweitern, was man dementsprechend in der Geschichte vermitteln sollte. Wie die Grafik aufzeigt, ist die Durchführung des Projekts im Vergleich zum Anfang und Ende, weniger spannend und monotone Aufgaben gehören ebenfalls dazu. Deshalb ist es wichtig, auch das den Menschen durch die Geschichte mitzuteilen, aber trotzdem immer das Ziel im Blick zu behalten.
 
 
 ### Projektabschluss
 
 Abschließend kann man, fantasievoll verpackt, die konkreten Ziele erläutern, wo es Abweichung geben könnte und welche Probleme oder Aufgaben man in der Realität erfolgreich gelöst hat.
 
-Nach dem tatsächlichen Projektabschluss kann man ebenfalls das Projekte durch eine Geschichte revué-passieren lassen und Kritikpunkte und gut gelungenes hervorheben.
+Nach dem tatsächlichen Projektabschluss kann man ebenfalls das Projekte durch eine Geschichte wiederholen und sowohl Kritikpunkte als auch positives hervorheben.
 
 
 
