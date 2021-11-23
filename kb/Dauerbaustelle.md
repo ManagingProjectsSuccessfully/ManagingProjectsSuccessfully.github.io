@@ -9,9 +9,9 @@ Unterliegt ein Projekt einem ständigen Veränderungs- bzw. Erweiterungsprozess 
 
 ## Was ist ein Projekt?
 
-„Ein [Projekt](Projekt.md) ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist …“. Der temporäre Charakter von Projekten bezeichnet einen Beginn und ein Ende der Projektarbeit. Der Projektmanager definiert Ziele, die ihm Rahmen des Projekts zu erfüllen sind. Außerdem wird für diese Zielerreichung sowohl ein zeitlicher, finanzieller als auch personeller Rahmen gesteckt. Darüber hinaus von zentraler Wichtigkeit ist, dass Projekttätigkeiten in Form von Arbeitspaketen gegenüber anderen Vorhaben sauber getrennt sind.[^2]
+„Ein [Projekt](Projekt.md) ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist …“. Der temporäre Charakter von Projekten bezeichnet einen Beginn und ein Ende der Projektarbeit. Der Projektmanager definiert Ziele und steuert verschiedene Einzelaktivitäten, die ihm Rahmen des Projekts der Zielerfüllung dienen. Außerdem wird für diese Zielerreichung sowohl ein zeitlicher, finanzieller als auch personeller Rahmen gesteckt. Darüber hinaus von zentraler Wichtigkeit ist, dass Projekttätigkeiten in Form von Arbeitspaketen gegenüber anderen Vorhaben sauber getrennt sind.[^2]
 Die Überwachung der Einhaltung der verschiedenen Rahmenbedingung eines Projekts liegt im [Projektmanagement](Projektmanagement.md).
-Das Projektmanagement beschreibt die Anwendung von Wissen, Fähigkeiten, Werkzeugen und Techniken auf Projektaktivitäten, um die Projektanforderungen zu erfüllen.[^3] 
+Das Projektmanagement beschreibt die Anwendung von Wissen, Fähigkeiten, Werkzeugen und Techniken auf Projektaktivitäten, um die Projektanforderungen zu erfüllen. Die[^3] 
 
 
 # Warum wird ein Projekt zur Dauerbaustelle?
@@ -25,7 +25,7 @@ Mit Verzögerungen ist auch dann zu rechnen, wenn innerhalb der Projektteams [Ve
 Häufige Rückfragen treten auch dann auf, wenn vor Projektbeginn nicht alle notwendigen Berechtigungen eingeholt wurden. Damit das Team ohne unnötige Abhängigkeiten agieren kann sollte der Bedarf noch vor [Projektstart](Projektstart.md) erkannt und an die notwendigen Stellen weitergeleitet werden.
 Um all diesen Ursachen vorzubeugen, ist es wichtig dem Projektmanager einen umfangreicher [Methoden](Methoden.md)koffer an die Hand zu gegeben, damit dieser ausreichend definierte Arbeitspakete schnüren und Projektaktivitäten ausreichend beeinflussen und steuern kann.[^5]
 
-![Beispielabbildung](Dauerbaustelle/magisches-projektmanagement-dreieck.jpg)
+![Beispielabbildung](Dauerbaustelle/Magisches Dreieck.jpg)
 
 *[Das magische Projektmanagement Dreieck](Magisches_Dreieck.md) visualisiert die untrennbare Verbindung zwischen Output, Zeit und Budget*
 
@@ -38,23 +38,6 @@ Um all diesen Ursachen vorzubeugen, ist es wichtig dem Projektmanager einen umfa
 * Punkteliste
   - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
@@ -72,9 +55,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: (https://de.set18.net/wiki/Dauerbaustelle_(Projektmanagement)) 
+[^1]: [Dauerbaustelle_(Projektmanagement)](https://de.set18.net/wiki/Dauerbaustelle_(Projektmanagement)) 
 [^2]: [Projekte zum Erfolg führen: Projektmanagement systematisch und kompakt](https://books.google.de/books?hl=de&lr=&id=lq54DwAAQBAJ&oi=fnd&pg=PT5&dq=Gr%C3%BCnde+schlechtes+Projektmanagement&ots=Y2Yrf9i2l9&sig=D7XHUzi6ZwI2WcvesHrzRCCMoeM#v=onepage&q&f=false)
 [^3]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^4]: [Projekte zum Erfolg führen: Projektmanagement systematisch und kompakt](https://books.google.de/books?hl=de&lr=&id=lq54DwAAQBAJ&oi=fnd&pg=PT5&dq=Gründe+schlechtes+Projektmanagement&ots=Y2Yrf9i2l9&sig=D7XHUzi6ZwI2WcvesHrzRCCMoeM#v=onepage&q&f=false)
 [^5]: [Agiles Projektmanagement: Agilität und Scrum im klassischen Projektumfeld](https://books.google.de/books?hl=de&lr=&id=pnHbDwAAQBAJ&oi=fnd&pg=PP1&dq=klassisches+projektmanagement+schulung&ots=eGtJPSLtEK&sig=IFBLf7FJ3bzL_hx-t-XygD2BGnc&redir_esc=y#v=onepage&q&f=false)
-
+[^6]:[Das magische Projektmanagement Dreieck](https://books.google.de/books?hl=de&lr=&id=lq54DwAAQBAJ&oi=fnd&pg=PT5&dq=Gründe+schlechtes+Projektmanagement&ots=Y2Yrf9i2l9&sig=D7XHUzi6ZwI2WcvesHrzRCCMoeM#v=onepage&q&f=false)
