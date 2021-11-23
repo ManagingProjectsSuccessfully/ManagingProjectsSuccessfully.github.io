@@ -46,7 +46,7 @@ Man kann mit dem Aufbau des Kanban-Systems beginnen, indem man das einfachste [K
 Wenn es richtig aufgebaut, verwaltet und funktioniert, dient es als Echtzeit-Informationsspeicher, der Engpässe innerhalb des Systems und alles andere aufzeigt, 
 was eine reibungslose Arbeitspraxis stören könnte[^4].
 
-# Vergleich Kanban und Scrum
+# Vergleich Kanban und [Scrum](Scrum.md)
 
 Grundsätzlich hilft Kanban [Scrum](Scrum.md)-Projekten, die Transparenz aller Teammitglieder zu erhöhen[^5]. 
 Eine höhere Transparenz kann beispielsweise sinnvoll sein, wenn ein Team von einem anderen Team abhängig ist und daher Identitäten austauschen muss[^5]. 
@@ -60,7 +60,7 @@ Darüber hinaus kann der Einsatz von [Swim-Lanes](Kanban_Swim_Lanes.md) für ein
 | Setzt voraus, dass ein Scrum-Board nach jedem Sprint zurückgesetzt wird. | Ein [Kanban-Boards](Kanban_Boards.md) ist presistent|
 | Setzt ein priorisiertes Produkt-Backlog voraus. | Priorisierung ist optimal. Eine Selektion am Eingang der Dienstleistung ermöglicht ein Zusammenführen mehrerer Bachlogs.|
 
-*Vergleich von Scrum und Kanban[^5]*
+*Vergleich von [Scrum](Scrum.md) und Kanban[^5]*
 
 # Siehe auch
 
