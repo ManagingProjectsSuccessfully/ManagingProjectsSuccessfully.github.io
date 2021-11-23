@@ -2,88 +2,68 @@
 title: FMEA_Methode
 tags: agil klassisch
 author: JacquelineRal
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu FMEA_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# FMEA-Methode
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Die FMEA-Methode wird definiert als die Fehlermöglichkeits- und Einflussanalyse (englisch: Failure Mode and Effects Analysis)[^1].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+## Definition und Ziel
+## Durchführung
+## Vor- und Nachteile
+## Einsatzmöglichkeiten
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Definition und Ziel 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Ziel der FMEA-Methode ist es potenzielle Fehler bereits im Produktentstehungsprozess, kurz PEP, durch die Analyse und Bewertung möglicher Risiken zu identifizieren und somit zu vermeiden. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Mit Hilfe der FMEA-Methode werden die Ursachen und die Auswirkungen von Fehlern frühzeitig erkannt und es können Maßnahmen zur Vermeidung oder Minimierung erarbeitet werden. Solche Fehler werden in Hinblick auf die Auftrittswahrscheinlichkeit, der Bedeutung für den Kunden und der Entdeckungswahrscheinlichkeit analysiert. Es gibt verschiedene Fehlermöglichkeiten[^3], häufige Fehler sind eine unzureichende Vorbereitung, mangelndes Fachwissen, nicht eingeplante Pufferzeiten aber auch mangelnde Führungskompetenz und Inflexibilität. Somit dient die FMEA generell der Fehlerprävention. [^2] 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Methode der FMEA gilt als Werkzeug des Qualitätsmanagements und ist sowohl für das klassiche als auch das agile Projektmanagement relevant.
 
 
-# Aspekt 1
+# Durchführung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die Durchführung einer FMEA erfolgt in mehreren Schritten. Kernelemente dabei sind die Systemanalyse (Schritt 1 & 2), Funktionsanalyse und die Fehleranalyse.[^5]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+  1. Planung und Vorbereitung ([Scoping](https://de.wikipedia.org/wiki/Scoping)):
+    Identifikation und Definition des Projekts und Abgrenzung des Produkts (bzw. Prozesses)
+  2. Strukturanalyse:
+    Struktur des Systems analysieren, welches mit der FMEA betrachtet wird
+  3. Funktionsanalyse:
+    Zusammenstellung aller relevanten Produktfunktionen
+  4. Fehleranalyse: Identifikation möglicher Fehler und Erkennen von Fehlerursachen und Folgen, sowie die Fehlereintrittswahrscheinlichkeit
+  5. Risikoanalyse: Erkennen und bewerten von Risiken und Folgen, wenn der Fehler entsteht und nicht rechtzeitig beseitigt wird; mögliche und notwendige Maßnahmen identifizieren
+  6. Optimierung: Maßnahmen zur Fehlerprävention festlegen und umsetzen, als auch kontinuierlich verbessern
+  7. Ergebnisdokumentation [^4]
 
-![Beispielabbildung](FMEA_Methode/test-file.jpg)
+![Beispielabbildung](https://www.fmea.wiki/wp-content/uploads/2019/06/sieben-schritte-der-fmea.png)
 
-*lustiges Testbild*
+*Die Schritte zur Entstehung einer FMEA* [^4]
 
-# Aspekt 2
+# Vor- und Nachteile
+## Vorteile
+Die FMEA-Methode hat sehr viele Vorteile. Einer der grundlegendsten ist, dass Fehler und Schwachstellen in einer sehr frühen Phase des Projekts entdeckt werden und die dadurch entstehenden Fehlerkosten minimiert werden können. Durch die Entdeckung können vor allem die Fehlerursachen behoben werden, damit kann viel Entwicklungszeit eingespart werden und die Kosten für das Endprodukt sinken. Auch die Kommunikation und die Zusammenarbeit im Unternehmen sowie mit Kunden und Lieferanten wird verbessert. Als Resultat daraus generiert das Unternehmen weniger Reklamationen und Rückrufaktionen. [^2]  [^6]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## Nachteile
+Zwar ist die Methode der FMEA vorteilhaft, birgt aber auch Nachteile. Die Erstellung und detaillierte Ausarbeitung einer FMEA-Methode ist sehr zeitaufwendig, da sie individuell auf das Produkt angepasst werden muss. Außerdem ist die Akzeptanz bei manchen Stakeholdern eher niedrig, da die FMEA mit hohem Aufwand verbunden ist, aber nicht viel Fortschritt generiert. Die Erstellung einer FMEA ist zudem sehr zeitaufwändig und es fallen hohe Kosten an. Die eingesparten Fehlerkosten treten erst zeitverzögert oder auch zu gering auf. [^2]  [^6]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+# Einsatzmöglichkeiten
+Die FMEA-Methode wird in vielen, technischen, Bereichen eingesetzt. Vor allem ist sie in der Automobilindustrie, aber auch der Lebensmittelindustrie im Einsatz. Zweck der FMEA ist dort die Fehleranalyse im Qualitätsmanagement und der Qualitätssicherung bei der Produkt- oder Prozessentwicklung, sowie bei der Entwicklung von Diensteleistungen. [^1]  [^2]  [^7]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Weitere Einsatzmöglichkeiten: 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+* Neuentwicklung eines Produkts
+* Produktänderung
+* Analyse von komplexen Herstellverfahren
+* Gefahrenanalyse von sicherheitsrelevanten Produkten oder Prozessen
+* Einsatz neuer Maschinen und Anlagen
+* Analyse von Prozessen und Produkten mit hohem Umweltrisiko oder Risiken für den Arbeits- und Gesundheitsschutz
+* Analyse von veränderten Einsatzbedingungen beim Kunden
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Generell kann eine FMEA auch in nicht technischen Bereichen angewandt werden. Sie ist in allen bereichen hilfreich, in welchen ein vorausplanendes Denken zur Fehlerprävetion notwenig ist. [^1]  [^2]  [^7]
 
 
 # Siehe auch
@@ -91,14 +71,15 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](FMEA_Methode.md)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://de.wikipedia.org/wiki/FMEA#Ziele_der_FMEA
+[^2]: https://www.iph-hannover.de/de/dienstleistungen/fertigungsverfahren/fmea/
+[^3]: https://project-base.org/projektmanagement-glossar/fehlermoeglichkeit/
+[^4]: https://www.fmea.wiki/wiki/7-schritte-der-fmea/
+[^5]: https://www.business-wissen.de/hb/systematik-und-durchfuehrung-der-fmea/
+[^6]: https://www.projektmagazin.de/methoden/fmea
+[^7]: https://www.intqua.de/fehlermoeglichkeits-und-einflussanalyse-fmea/
+
 
