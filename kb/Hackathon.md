@@ -5,7 +5,7 @@ author: eberto99
 anrechnung: k
 ---
 
-Als Hackathon wird eine [kollaborative](https://www.duden.de/rechtschreibung/kollaborativ) Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine Lösung zu einer zuvor definierten Problemstellung erarbeiten. [^7] [^1] [^3]
+Als Hackathon wird eine kollaborative Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine Lösung zu einer zuvor definierten Problemstellung erarbeiten. [^7] [^1] [^3]
 
 Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird hier das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf die zeitliche Komponente des Events, wobei die Teilnehmer zwischen 12 und 48 Stunden Zeit haben. [^4] [^8] [^5] 
 
@@ -14,7 +14,7 @@ Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Day
 
 # Grundlegende Idee und Ziel
 
-Die grundlegende Idee liegt in der eventspezifischen Herangehensweise an die gestellte Problemsituation. Diese erfolgt auf eine intuitive, kreative und experimentierfreudige Art und Weise. Das Ziel soll nicht eine in allen Belangen absolut perfekte Lösung sein, sondern ein [Prototyp](https://wirtschaftslexikon.gabler.de/definition/prototyp-122469), der erste problemlösende Funktionalitäten enthält. [^4] [^2] [^5]
+Die grundlegende Idee liegt in der eventspezifischen Herangehensweise an die gestellte Problemsituation. Diese erfolgt auf eine intuitive, kreative und experimentierfreudige Art und Weise. Das Ziel soll nicht eine in allen Belangen absolut perfekte Lösung sein, sondern ein Prototyp [^12], der erste problemlösende Funktionalitäten enthält. [^4] [^2] [^5]
 
 Der innovative Kern des Hackathons lässt sich anhand von drei wesentlichen Merkmalen charakterisieren [^7]:
 
@@ -36,7 +36,7 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 
 # Entstehung und Geschichte - Wrap-Up
 
-Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Dabei handelte es sich zum einen um die Ausbesserung des Betriebssystems [OpenBSD](https://de.wikipedia.org/wiki/OpenBSD) und zum anderen um die Weiterentwicklung von Software für den damals beliebten Taschenkommunikator [„Palm Pilot“](https://de.wikipedia.org/wiki/Palm_Pilot), der Firma [Sun Microsystems](https://de.wikipedia.org/wiki/Sun_Microsystems). [^1] [^5]
+Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Dabei handelte es sich zum einen um die Ausbesserung des Betriebssystems OpenBSD [^13] und zum anderen um die Weiterentwicklung von Software für den damals beliebten Taschenkommunikator Palm [^14], der Firma Sun Microsystems. [^1] [^5]
  
 Seitdem haben sich die Hackathon in ihrer Art und Weise, ihrem Ausmaß und ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen sehr stark weiterentwickelt. [^8]
 
@@ -79,7 +79,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 
 ![Beispielabbildung](Hackathon/D20Ek7-X0AA-V20.jpg)
 
-*Abbildung 3: Hacker bei dem HackBay des Gründerzentrums aus Nürnberg: [ZOLLHOF](https://www.zollhof.de) im Jahr 2019 [^9]*
+*Abbildung 3: Hacker bei dem HackBay des Gründerzentrums aus Nürnberg: ZOLLHOF [^15] im Jahr 2019 [^9]*
 
 # Siehe auch
 
@@ -103,3 +103,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 [^9]: [Hackbay goes 2019](https://twitter.com/zollhofhq/status/1111549947890012161)
 [^10]: [Lösungen hacken in der Coronakrise](https://www.dw.com/de/lösungen-hacken-in-der-coronakrise/a-53295894)
 [^11]: [König, F., Wessel, D. & Heine, M. Open Data Hackathon – Vergleich von in Präsenz und online durchgeführten Projektseminaren. HMD 58, 1406–1419 (2021)](https://doi.org/10.1365/s40702-021-00794-0)
+[^12]: [Definition Prototyp](https://wirtschaftslexikon.gabler.de/definition/prototyp-122469)
+[^13]: [Erklärung OpenBSD](https://de.wikipedia.org/wiki/OpenBSD)
+[^14]: [Erklärung Palm](https://de.wikipedia.org/wiki/Palm_Pilot)
+[^15]: [Website des Tech Incubators: ZOLLHOF](https://www.zollhof.de)
