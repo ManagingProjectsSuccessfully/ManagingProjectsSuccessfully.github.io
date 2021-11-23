@@ -35,7 +35,7 @@ Mögliche Gründe für diese hohe Misserfolgsquote können sehr vielseitig sein 
 
 ![Beispielabbildung](Projektberatung/Projektscheitern2.PNG)
 
-*lustiges Testbild*
+*häufigste Gründe für das Scheitern von Projekten*
 
 # Aspekt 2
 
