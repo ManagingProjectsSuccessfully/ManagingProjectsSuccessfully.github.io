@@ -46,7 +46,7 @@ Mittlerweile finden viele, größtenteils standardisierte Methoden ihre Anwendun
 ### [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 Die Definition von [Meilenstein](Meilenstein.md)en ist Grundlage dieser Methode. Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilenstein.md)-Termine chronologisch auf, wodurch sich frühzeitig abzeichnende Trends erkenntlich werden. Die Überschaubarkeit der Methode ermöglicht es auch Laien, den Überblick zu behalten und zu beurteilen, ob das Projekt planmäßig verläuft.
 ### Earned Value Analyse
-Eine weiteres Controlling-Instrument ist die Earned Value Analyse, mit der man den Fertigstellungsgrad des Projekts bzw. einzelner Phasen ermitteln kann. Sie dient dem Projekt als Kontrollinstrument des Fortschritts. Diese Methode ist ebenfalls unter den Namen Leistungswertanalyse, Fertigstellungswertmethode oder Arbeitswertanalyse bekannt.
+Eine weiteres Controlling-Instrument ist die Earned Value Analyse, mit der man den Fertigstellungsgrad des Projekts bzw. einzelner Phasen ermitteln kann. Sie dient dem Projekt als Kontrollinstrument des Fortschritts. Diese Methode ist ebenfalls unter den Namen Leistungswertanalyse, Fertigstellungswertmethode oder Arbeitswertanalyse bekannt.[^7]
 
 ### Projektplan
 Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszeiträume zugeteilt. Der Projektmanager hat somit stets den Überblick über die [Aufgabenteilung](Aufgabenteilung.md) und Termintreue der jeweiligen Projektabschnitte.[^8]
@@ -70,7 +70,7 @@ Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszei
 [^4]: https://doi.org/10.1007/978-3-658-23714-1
 [^5]: https://doi.org/10.1007/978-3-658-28032-1
 [^6]: https://refa.de/service/refa-lexikon/projektcontrolling
-[^7]: https://doi.org/10.1007/978-3-662-52974-4_8
+[^7]: Bär C., Fiege J., Weiß M. (2017) Projektcontrolling. In: Anwendungsbezogenes Projektmanagement. Xpert.press. Springer Vieweg, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-52974-4_8
 [^8]: https://de.wikipedia.org/wiki/Projektcontrolling#Kennzahlen_und_Methoden_des_Projektcontrollings
 [^9]: Beifuss A., Holzbaur U. (2020) Projektcontrolling. In: Projektmanagement für Studierende. essentials. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-658-32664-7_4
 [^10]: [Projektcontrolling](https://www.geo.fu-berlin.de/en/v/proposal_writing/learning_content/7_project_management/controlling/index.html)
