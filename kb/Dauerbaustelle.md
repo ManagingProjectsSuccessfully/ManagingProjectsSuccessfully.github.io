@@ -9,7 +9,7 @@ Unterliegt ein Projekt einem ständigen Veränderungs- bzw. Erweiterungsprozess 
 
 ## Was ist ein Projekt?
 
-„Ein [Projekt](Projekt.md) ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist …“. Der temporäre Charakter von Projekten bezeichnet einen Beginn und ein Ende der Projektarbeit. Der Projektmanager definiert Ziele und steuert verschiedene Einzelaktivitäten, die ihm Rahmen des Projekts der Zielerfüllung dienen. Außerdem wird für diese Zielerreichung sowohl ein zeitlicher, finanzieller als auch personeller Rahmen gesteckt. Darüber hinaus von zentraler Wichtigkeit ist, dass Projekttätigkeiten in Form von Arbeitspaketen gegenüber anderen Vorhaben sauber getrennt sind.[^2]
+„Ein [Projekt](Projekt.md) ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist …“. Der temporäre Charakter von Projekten bezeichnet einen Beginn und ein Ende der Projektarbeit. Der Projektmanager definiert Ziele und steuert verschiedene Einzelaktivitäten, die ihm Rahmen des Projekts der Aufgabenerfüllung dienen. Außerdem wird für diese Zielerreichung sowohl ein zeitlicher, finanzieller als auch personeller Rahmen gesteckt. Darüber hinaus von zentraler Wichtigkeit ist, dass Projekttätigkeiten in Form von Arbeitspaketen gegenüber anderen Vorhaben sauber getrennt sind.[^2]
 Die Überwachung der Einhaltung der verschiedenen Rahmenbedingung eines Projekts liegt im [Projektmanagement](Projektmanagement.md).
 Das Projektmanagement beschreibt die Anwendung von Wissen, Fähigkeiten, Werkzeugen und Techniken auf Projektaktivitäten, um die Projektanforderungen zu erfüllen. Die[^3] 
 
@@ -22,31 +22,13 @@ Eine andere häufige Ursache von Dauerbaustellen ist, dass Projekte nicht system
 Im Rahmen des strategischen Managements sollten stehts Gründe für eine Projektpriorisierung angegeben werden. Dies hilft dem umsetzenden Team dabei die entsprechenden Pain Points zu identifizieren und effizienter an einer Lösung zu arbeiten.
 Häufig fehlt es aber nicht nur an klaren Entscheidungskriterien, ebenso oft kommt es vor, dass Projekte ohne einen klaren Auftrag gestartet werden. Es existiert kein Projektportfolio und es werden keine Prioritäten festgelegt. Wenn es keine definierten [Meilensteine](Meilensteine.md) gibt, wird es auch schwierig Zwischenergebnisse zu überprüfen und zu bewerten. Je später Fehler erkannt werden, desto aufwendiger wird es die Quellen zu identifizieren und Gegenmaßnahmen einzuleiten. Prozesse müssen gegebenen Falls rückabgewickelt und neugestartet werden wodurch sich der zeitliche Projektrahmen automatisch verlängert.
 Mit Verzögerungen ist auch dann zu rechnen, wenn innerhalb der Projektteams [Verantwortlichkeiten](Verantwortlichkeiten.md) nicht klar ausgesprochen werden oder den Beteiligten nicht bewusst gemacht werden. Dies führt unwillkürlich zu häufigeren Rückfragen und einer Verlängerung der Prozesskette. 
-Häufige Rückfragen treten auch dann auf, wenn vor Projektbeginn nicht alle notwendigen Berechtigungen eingeholt wurden. Damit das Team ohne unnötige Abhängigkeiten agieren kann sollte der Bedarf noch vor [Projektstart](Projektstart.md) erkannt und an die notwendigen Stellen weitergeleitet werden.
-Um all diesen Ursachen vorzubeugen, ist es wichtig dem Projektmanager einen umfangreicher [Methoden](Methoden.md)koffer an die Hand zu gegeben, damit dieser ausreichend definierte Arbeitspakete schnüren und Projektaktivitäten ausreichend beeinflussen und steuern kann.[^5]
+Häufige Rückfragen treten auch dann auf, wenn vor Projektbeginn nicht alle notwendigen Berechtigungen eingeholt wurden. Damit das Team ohne unnötige Abhängigkeiten agieren kann sollte der Bedarf noch vor [Projektstart](Projektstart.md) erkannt und an die notwendigen Stellen weitergeleitet werden.[^5]
+
+Es wir deutlich, dass das Projektmanagement als umfassendes Führungskonzept zu verstehen ist und dass, Ziele, Aufgaben und Methoden des Projektmanagements mit der stra-tegischen Entwicklung des Unternehmens verknüpft werden müssen. Daher sollte, um diesen Ursachen vorzubeugen dem Projektmanager einen umfangreicher Methodenkoffer an die Hand gegeben werden, damit dieser ausreichend definierte Arbeitspakete schnüren und Projektaktivitäten ausreichend beeinflussen und steuern kann.[^4]
 
 ![Beispielabbildung](https://github.com/EuleW/ManagingProjectsSuccessfully.github.io/blob/main/kb/Dauerbaustelle/Magisches%20Dreieck.JPG)
 
-*[Das magische Projektmanagement Dreieck](Magisches_Dreieck.md) visualisiert die untrennbare Verbindung zwischen Output, Zeit und Budget*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+*[Das magische Projektmanagement Dreieck](Magisches_Dreieck.md) visualisiert die untrennbare Verbindung zwischen der Zielfunktion, dem gesteckten Zeitrahmen und dem Budget*
 
 
 # Weiterführende Literatur
