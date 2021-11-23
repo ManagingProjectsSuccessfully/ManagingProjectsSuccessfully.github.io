@@ -5,7 +5,7 @@ author: YeldaUzun
 anrechnung: k
 ---
 
-Das Toyota Produktionssystem ist ein für Toyota entwickelter Produktionsprozess für Serienverfahren, dass sich auf die Verbesserung der organisatorischen Abläufe konzentriert. Nach dem zweiten Weltkrieg ergab sich eine Krisensituation für das japanische Unternehmen Toyota, da nur wenige Fertigungsmittel und geringes Kapital zur Verfügung stand. Schlussfolgernd war es wichtig Fahrzeuge effizient zu produzieren. Der Ingenieur Taiichi Ohno entwickelte im Jahr 1950 das Toyota Produktionssystem, indem er Just-in-Time, Jidoka (Automation) und Kaizen in einem System zusammenführte.[^1] Das Ziel des Produktionssystems ist es hohe Qualität bei hoher Produktivität und pünktlicher Lieferung zu erreichen. Dieses Ziel soll durch Eliminierung von Überbeanspruchung, jegliche Art von Verschwendung und ungleichmäßiger Produktionsauslastung gewährleistet werden. Verglichen wird das Toyota Produktionssystem mit einem Haus. Die Säulen des Hauses bilden die Prinzipien Jidoka und Just-in-Time. Das Fundament, bestehend aus Kaizen, Standardisierung und Heijunka, tragen zur Erreichung des Daches und somit zum Ziel bei.[^1][^2]
+Das Toyota Produktionssystem ist ein für Toyota entwickelter Produktionsprozess für Serienverfahren, dass sich auf die Verbesserung der organisatorischen Abläufe konzentriert. Nach dem zweiten Weltkrieg ergab sich eine Krisensituation für das japanische Unternehmen Toyota, da nur wenige Fertigungsmittel und geringes Kapital zur Verfügung stand. Schlussfolgernd war es wichtig Fahrzeuge effizient zu produzieren. Der Ingenieur Taiichi Ohno entwickelte im Jahr 1950 das Toyota Produktionssystem, indem er Just-in-Time, Jidoka (Automation) und Kaizen in einem System zusammenführte.[^1] Das Ziel des Produktionssystems ist es hohe Qualität bei hoher Produktivität und pünktlicher Lieferung zu erreichen. Dieses Ziel soll durch Eliminierung von Überbeanspruchung, jegliche Art von Verschwendung und ungleichmäßiger Produktionsauslastung gewährleistet werden. Verglichen wird das Toyota Produktionssystem mit einem Haus. Die Säulen des Hauses bilden die Prinzipien Jidoka und Just-in-Time. Das Fundament, bestehend aus [Kaizen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kaizen.md), Standardisierung und Heijunka, tragen zur Erreichung des Daches und somit zum Ziel bei.[^1][^2]
 
 <img src="Toyota_Produktionssystem/ToyotaPS.png" alt="Elemente des Toyota Prodkutionssystems" width="600"/>
 
@@ -15,14 +15,9 @@ Elemente des Toyota Prodkutionssystems (vgl.[^1][^2])
 
 Die erste der beiden Hauptsäulen stellt das Jidoka Prinzip dar, welches zur Vermeidung von Fehlern führt, indem der Produktionsprozess bei einer Fehlermeldung automatisch unterbrochen und eine Meldung ausgegeben wird. Aufgrund der Autonomisierung von Maschinen ist die Überwachung durch Menschen nicht notwendig. Somit kann ein Toyota Maschinenführer gleichzeitig mehrere Maschinen überwachen. Die Trennung von Mensch und Maschine steigert somit die Arbeitsproduktivität. Das Ziel des Jidoka ist die Sicherung der Qualität und die Steigerung der Produktivität.[^1]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem.
+
+[Kaizen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kaizen.md)
+
 
 # Just-in-Time
 
@@ -31,7 +26,7 @@ Nach Jidoka stellt Just-in-Time die zweite Säule des Hauses dar. Das Just-in-Ti
 # Kaizen
 
 In der japanischen Kultur ist Kaizen (jap. kai „Veränderung“, zen „zum Guten oder Besseren“) eine Lebens- und Arbeitsphilosophie,
-die immer unter Einbeziehung der Belegschaft für eine kontinuierliche und ständige Verbesserung von Produkten und Prozessen, sowie Leistungen in kleinen Schritten steht. Hierbei werden Verbesserungsvorschläge der Belegschaft eigenständig und sofort beurteilt, außerdem vor Ort geprüft und konsequent realisiert. Die Umsetzung der Optimierungen im Sinne des Kaizens erfordern Zeit. Dabei darf die Verbesserung nicht zu einem Mehraufwand der Belegschaft, sowie Platz oder finanzieller Mittel führen. Das Ziel des Kaizens ist die schnelle Realisierung von Verbesserungsvorschlägen und die Beseitigung von Verschwendungen. [^1][^3]
+die immer unter Einbeziehung der Belegschaft für eine kontinuierliche und ständige Verbesserung von Produkten und Prozessen, sowie Leistungen in kleinen Schritten steht. Hierbei werden Verbesserungsvorschläge der Belegschaft eigenständig und sofort beurteilt, außerdem vor Ort geprüft und konsequent realisiert. Die Umsetzung der Optimierungen im Sinne des [Kaizens](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kaizen.md) erfordern Zeit. Dabei darf die Verbesserung nicht zu einem Mehraufwand der Belegschaft, sowie Platz oder finanzieller Mittel führen. Das Ziel des Kaizens ist die schnelle Realisierung von Verbesserungsvorschlägen und die Beseitigung von Verschwendungen. [^1][^3]
 
 # Standardisierung
 
