@@ -28,7 +28,7 @@ Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist
 *  Ein Scrum of Scrum of Scrums (SoSoS) synchronisiert die Arbeit mehrerer Scrum of Scrum (SoS). 
 <br>
 
-[BSP](Scrum_at_Scale/biild1.png)
+![BSP](Scrum_at_Scale/biild1.png)
 
 Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen adaptiven Systemen. Bei Scrum@Scale sind alle Teil eines austauschbaren Scrum-Teams. Je nach den vorgegebenen Zielen werden mehrere Scrum-Teamnetzwerke zu einem ganzen Ökosystem zusammengefasst. Scrum@Scale ist für die Skalierung von Scrum in Großunternehmen konzipiert.
 Scrum@Scale basiert auf drei grundlegenden Konzepten:
@@ -38,7 +38,7 @@ Scrum@Scale basiert auf drei grundlegenden Konzepten:
 * Einrichtung einer Minimum Viable Bureaucracy
 <br>
 
-[BSP](Scrum_at_Scale/Bild5.png)
+![BSP](Scrum_at_Scale/Bild5.png)
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
