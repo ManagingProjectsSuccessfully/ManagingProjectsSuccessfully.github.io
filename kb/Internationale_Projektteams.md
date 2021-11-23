@@ -28,6 +28,7 @@ Diese sind:
 * die Fähigkeit zuzuhören
 * die Feinfühligkeit, die unausgesprochenen Anliegen zu erkennen
 * die Fähigkeit, klar und deutlich zu kommunizieren, so dass die anderen Personen es verstehen [^3].
+
 Gerade dadurch, dass in internationalen Projekten die Projektmitarbeiter räumlich getrennt sind und kaum direkter Kontakt vorliegt, wird der Wissensaustausch und gegenseitige Information erschwert. Hier kann es dann vorkommen, dass z.B. ein Mitarbeiter vergisst, notwendige Informationen seinem Kollegen im Ausland zukommen zu lassen. Für die Führungskräfte ist es also wichtig am Anfang des Projektes Kommunikationsstandards festzulegen, z.B. indem festgelegt wird, wie oft sich das Team zusammensetzt und austauschen soll bzw. ist auch die verwendete Sprache von entscheidender Bedeutung, sodass sowohl Verständlichkeit gewährleistet wird, als auch der Informationsverlust möglichst gering gehalten wird [^4].
 
 # Kulturübergreifendes Führen
