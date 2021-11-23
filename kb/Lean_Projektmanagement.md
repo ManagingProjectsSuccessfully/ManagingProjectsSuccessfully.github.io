@@ -41,7 +41,7 @@ Bei diesen fünf Kernprinzipien fällt auf, dass nur das erste Kernprinzip eine 
 
 ![Beispielabbildung](Lean_Projektmanagement/lean-principles.png)
 
-[*Lean Prinzipien*](https://i.pinimg.com/originals/7a/1b/ac/7a1bacd481a17e016b4e94a435f594fb.png)
+### [*Lean Prinzipien*](https://i.pinimg.com/originals/7a/1b/ac/7a1bacd481a17e016b4e94a435f594fb.png)
 
 ## 4.	Lean vs Agile
 Häufig werden die Begriffe Lean und Agile im selben Kontext verwendet, was nicht ganz korrekt ist. Sowohl Lean als auch Agile beschreiben eine Art und Weise, wie man wertschöpfungsorientiert an die Arbeit herangehen kann, aber sie empfehlen etwas andere Wege, dies zu erreichen. Das Ausmaß, auf das sich die beiden Ansätze in einem Unternehmen ausdehnen lassen, ist auch hier ein starkes Unterscheidungsmerkmal.[^4]
