@@ -20,6 +20,8 @@ In der Ablaufdarstellung mithilfe eines Netzplans existieren verschiedene Darste
 [^1]
 
 ![Beispielabbildung](Netzplantechnik/Bild 1.jpg)
+kb/Netzplantechnik/Bild 1.jpg
+!kb/Netzplantechnik/Bild 1.jpg
 
 *Abbildung.1 Darstellung eines Graphen*     
 
@@ -40,6 +42,8 @@ Die Projektplanung mithilfe der Netzplantechnik wird besonders in folgende Schri
 
 
 ![Beispielabbildung](Netzplantechnik/test-file.jpg)
+
+![Beispielabbildung](Netzplantechnik/Bild 1.jpg)
 
 Im Rahmen der Ablaufplanung zerlegt man das Projekt in die einzelnen Vorgänge und identifiziert
 die Anordnungsbeziehungen zwischen diesen Vorgängen.
