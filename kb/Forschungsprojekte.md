@@ -21,7 +21,7 @@ Aufgrund ihrer Gegebenheiten sind Forschungsprojekte nicht selten von einem erh�
 Das Projektmanagement ist für die Forschung von großer Bedeutung, da ohne Projektmanagement das ohnehin schon hohe Risiko des Misslingens noch zusätzlich gesteigert wird [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialiserte Agenturen können so zum Beispiel auch die Qualität sichern, die in der Medizintechnik eine wichtige Rolle spielt. [^5] 
 Auch wenn es Schwierigkeiten bereitet, klare Anforderungen zu formulieren und Fortschritte zu dokumentieren, ist es dennoch wichtig, dies anzustreben. Dabei muss die Risikobeurteilung und Ressourcenplanung ausreichend berücksichtigt werden, auch wenn das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und Ehrgeiz der Forscher. Management wird nicht direkt mit Forschung assoziiert bzw. eher als lästig empfunden. Forschungsinhalt und Management gehören zusammen [^2]. 
 
-Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie schlechte Projektplaung und andere Faktoren Ursachen für ein gescheitertes Projekt sein können. Weswegen diese Aspekte besonders in den Lösungsansätzen berücksichtigt werden müssen. Eine geeignete Projektmanagemt-Methode kann ausgewählt werden, indem man sich bewusst macht, ob eine agile oder klassische Methode in Frage kommt. 
+Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie schlechte Projektplaung Ursachen für ein gescheitertes Projekt sein können. Weswegen diese Aspekte besonders in den Lösungsansätzen berücksichtigt werden müssen. Eine geeignete Projektmanagemt-Methode kann ausgewählt werden, indem man sich bewusst macht, ob eine agile oder klassische Methode in Frage kommt. 
 
 ![Warum-scheitern-Projekte](Forschungsprojekte/Warum-scheitern-Projekte.jpg)
 
@@ -29,7 +29,7 @@ Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie sch
 
 
 ## Klassisch vs. Agil
-Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Auch wenn leichte Tendenz zum agilen Projektmanagement existiert, gegeben dadurch, dass in der Anfangsphase oftmals die Anforderungen teils unbekannt sind, hat es jedoch auch Aspekte des klassischen Projektmanagements (z.B. detaillierter Projektantrag). Die unten aufgehführte Tabelle zeigt die Leitfragen und deren Einordnung von Forschungsprojekten (fettgedruckt) in das jeweilige Projektmanagement.
+Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Auch wenn Tendenz zum agilen Projektmanagement besteht, gegeben dadurch, dass in der Anfangsphase oftmals die Anforderungen teils unbekannt sind, hat es jedoch auch Aspekte des klassischen Projektmanagements (z.B. detaillierter Projektantrag). Die unten aufgehführte Tabelle zeigt die Leitfragen und deren Einordnung von Forschungsprojekten (fettgedruckt) in das jeweilige Projektmanagement.
 
 
 | Kategorien | Klassisches PM | Agiles PM |
@@ -46,7 +46,7 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 
 
 ## Lösungsansätze
-Eine mögliche Lösung stellt hier bei das Microsoft Project Server/Project Online (Microsoft PPM) link. Es ist ein benutzerfreundliches Tool für zentrales Projektmanagement, da eine eine gemeines Arbeits- und Informationsplattform für Forscher und Projektbeteiligte bereitstellt. [^4] 
+Eine mögliche Lösung stellt hier bei das [Microsoft PPM](https://www.microsoft.com/de-de/microsoft-365/project/project-portfolio-management)-Tool dar. Es ist ein benutzerfreundliches Tool für zentrales Projektmanagement, da es eine gemeines Arbeits- und Informationsplattform für Forscher und Projektbeteiligte bereitstellt. [^4] 
 Nützliche Funktionen:
 1. PPM: zentrales Speichern und Auswerten, standardisierte Dokumentablage durch Sharepoint
 2. Erweiterung Multiprojekt: Top-down-Kommunikation, Bottum-up-Prinzip, Meilensteinübersicht, Projektampeln
