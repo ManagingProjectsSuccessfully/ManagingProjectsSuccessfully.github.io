@@ -53,6 +53,12 @@ Wir unterscheiden die folgenden primären bzw. sekundären Module.[^11] In der f
 | Qualität         | Sicherheit  |
 | Planung          | [Work packs](https://www.wrike.com/project-management-guide/faq/what-is-a-work-package-in-project-management) |
 
+| Primäre Module  | Sekudäre Module   |
+| --------------- | ---------------   |
+| Kostenmanagement| Vertragsgestaltung|
+| Design          | Korrespondenz     |
+| Qualität        | Sicherheit        |
+| Planung         | [Work packs](https://www.wrike.com/project-management-guide/faq/what-is-a-work-package-in-project-management)    |
 
 ## 3.2	Implementierung und Integration der Informationssysteme
 
