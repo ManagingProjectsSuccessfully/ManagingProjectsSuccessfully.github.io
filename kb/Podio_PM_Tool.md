@@ -6,7 +6,9 @@ anrechnung: k oder a
 ---
 # Podio
 
-Podio ist eine ... des US-amerikanischen Softwareunternehmens Citrix Systems[^1]. 
+Podio ist ein cloudbasiertes Tool für soziale Zusammenarbeit, das Flexibilität im Arbeitsablauf unterstützt[^1]. Es wurde durch das US-amerikanische Softwareunternehmen Citrix-Systems entwickelt[^2].
+
+
 (Kurzbeschreibung zu Podio_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
@@ -99,9 +101,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Citrix Systems. (2021). Podio. Zugriff am 10.11.2021. Verfügbar unter: https://www.citrix.com/products/podio.html.
+[^1]: Keiser, B. E. (2014). Tools Will Keep Us Together: Collaboration for Library Teams. Online Searcher, S. 52-57.
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: Citrix Systems. (2021). Podio. Zugriff am 10.11.2021. Verfügbar unter: https://www.citrix.com/products/podio.html.
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
