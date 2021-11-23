@@ -10,6 +10,14 @@ Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen
 Aufgrund der Komplexität des Projektmanagements können sogenannte ,,Projektmanagement-Stolpersteine“ während des Prozesses auftreten. Auch wenn zum Beginn eines Projekts Optimismus herrschen kann, dass diesmal alles glatt gehen wird, kann man währenddessen überrascht werden, dass alles doch nicht nach dem Plan läuft, wie gewünscht.[^2]
 Im Folgenden werden die typischen Projektmanagement Fallstricken dargestellt und des Weiteren, wie man sie vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu verbessern.
 
+<p align="center">
+  <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Typische_Projektmanagement_Fallstricke/Screenshot%20(127).png"/>
+</p>
+
+<p align="center">
+ Bild.1: Fallstricken vermeiden
+</p>
+
 
 # 1.Das Fehlen eines konkreten Projektplans und somit eines Ziels
 
@@ -70,4 +78,5 @@ Zusammenfassend lässt sich sagen, dass man mit einem klar definierten Ziel, ein
 [^2]: Stepanov, Andrew (2017):10 Pitfalls in Project Management to Avoid (ganttpro.com) : https://blog.ganttpro.com/en/top-project-management-pitfalls-to-avoid/
 [^3]: Reinold, Daniel: Daily Scrum - kurz erklärt [Varianten & Tipps]: https://www.projektmagazin.de/methoden/daily-scrum
 [^4]: T2informatik: Was ist eine Stakeholderkommunikation? - Wissen kompakt - t2informatik: https://t2informatik.de/wissen-kompakt/stakeholderkommunikation/
+[^5]: Bild 1: https://blog.ganttpro.com/en/top-project-management-pitfalls-to-avoid/
 
