@@ -34,6 +34,7 @@ Unabhängig von der Größe des Unternehmens sollte sich jeder Projektleiter auf
 Allerdings gibt es auch vorgefertigte Entwürfe, an denen man sich orientieren kann bzw. die man übernehmen kann. [^1]
 
 ![Beispiel für ein Register](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")
+
 *Beispiel für ein Register*
 
 
