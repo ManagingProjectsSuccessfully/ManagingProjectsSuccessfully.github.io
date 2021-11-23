@@ -16,20 +16,20 @@ anrechnung: k
  > - [Quellen](Microsoft_Planner_PM_Tool.md#quellen)
 
 
-Microsoft Planner ist ein Aufgabenverwaltungs-Tool, entwickelt von Microsoft, und seit dem 06.Juni.2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education bzw. Enterprise Umgebung.[^1] [^2]
+Microsoft Planner ist ein Aufgabenverwaltungs-Tool entwickelt von Microsoft und seit dem 06.Juni.2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education und Enterprise Umgebung.[^1] [^2]
 
 Seitens Microsoft wird dafür eine webbasierte Anwendung, sowie die Möglichkeit der lokalen Verwendung über gängige Betriebssysteme wie Microsoft Windows, MacOS und mobile Betriebssysteme wie Android, iOS und iPadOS angeboten.[^1] [^3]
 
-Der Microsoft Planner bietet vielseitige Anwendungsmöglichkeiten darunter z.B. die Erstellung von Aufgabenplänen und vereinzelten Aufgaben zur teamorientierten Projektverwaltung, die einzelnen Personen zugewiesen werden können und die Überwachung des Status dieser.[^3]  
+Der Microsoft Planner bietet vielseitige Funktionen darunter z.B. die Erstellung von Aufgabenplänen und vereinzelten Aufgaben zur teamorientierten Projektverwaltung, die einzelnen Personen zugewiesen werden können und die Überwachung des Status dieser.[^3]  
 
 Der Microsoft Planner wird besonders aufgrund der intuitiven Oberfläche und der Office 365 Integration in vielen Unternehmen eingesetzt.[^3]
 # Oberfläche und Funktionen [^4]
 
 | Abbildung     | Beschreibung |
 | ----------- | ----------- |
-|![Planerstellung beim First Start](Microsoft_Planner_PM_Tool/MS_Planner_01.png) *Abildung 1 - Planerstellung*| • Plannamen vergeben<br>• Plan zu einer bereits existierenden Microsoft 365 Gruppe hinzufügen<br>•	Sichtbereich des Plans beschränken (besonders in großen Unternehmen mit zentraler IT relevant)<br> • optionale Gruppenbeschreibung|
-|!["Planner Hub"](Microsoft_Planner_PM_Tool/MS_Planner_02.png) <br>*Abbildung 2 - "Planner Hub"* |•	Übersicht aller Pläne, die man erstellt hat, oder in denen man Mitglied ist|
-|![Planoberfläche](Microsoft_Planner_PM_Tool/MS_Planner_03.png) <br>*Abbildung 3 - Planoberfläche in "Board" Übersicht* |•	Zugriff über Auswahl eines Plans <br>•	Aufgaben lassen sich in drei verschiedenen Übersichten anzeigen<br>•	"Board" Übersicht als digitales [KANBAN-Board](Kanban_Boards.md) mit [KANBAN-Karten](Kanban_Karten.md) <br>•	"Board" Übersicht stellt Aufgaben in Form von Kärtchen in Spalten, sogenannten "Buckets" dar<br> •	"Buckets"	beliebig benennbar und Anzahl unbeschränkt<br>•	Aufgaben nach selbstbestimmten Faktoren gruppierbar (hier: Gruppierung nach Bearbeitungsstand)|
+|![Planerstellung beim First Start](Microsoft_Planner_PM_Tool/MS_Planner_01.png) *Abbildung 1 - Planerstellung*| • Plannamen vergeben<br>• Plan zu einer bereits existierenden Microsoft 365 Gruppe hinzufügen<br>•	Sichtbereich des Plans beschränken (besonders in großen Unternehmen mit zentraler IT relevant)<br> • optionale Gruppenbeschreibung|
+|!["Planner Hub"](Microsoft_Planner_PM_Tool/MS_Planner_02.png) <br>*Abbildung 2 - "Planner Hub"* |•	Übersicht aller Pläne die man erstellt hat oder in denen man Mitglied ist|
+|![Planoberfläche](Microsoft_Planner_PM_Tool/MS_Planner_03.png) <br>*Abbildung 3 - Planoberfläche in "Board" Übersicht* |•	Zugriff über Auswahl eines Plans <br>•	Aufgaben lassen sich in drei verschiedenen Übersichten anzeigen<br>•	"Board" Übersicht als digitales [KANBAN-Board](Kanban_Boards.md) mit [KANBAN-Karten](Kanban_Karten.md) <br>•	"Board" Übersicht stellt Aufgaben in Form von Kärtchen in Spalten ("Buckets") dar<br> •	"Buckets"	beliebig benennbar und Anzahl unbeschränkt<br>•	Aufgaben nach selbstbestimmten Faktoren gruppierbar (hier: Gruppierung nach Bearbeitungsstand)|
 |![Aufgaben hinzufügen](Microsoft_Planner_PM_Tool/MS_Planner_04.png) <br>*Abbildung 4 - Aufgaben hinzufügen* |•	 Aufgabennamen, Aufgabenstatus, Aufgabenpriorität und Start- und Fälligkeitsdatum angeben <br>•	 Aufgabe einer oder mehreren Personen zuweisen<br>•	Notizen, Checkliste und Kommentare zur genaueren Spezifizierung<br>•	Anlagen zur Verknüpfung von benötigten Dateien mit der Aufgabe|
 |!["Diagramme"](Microsoft_Planner_PM_Tool/MS_Planner_05.png) <br>*Abbildung 5 - "Diagramme" Übersicht* |•	verschiedene Diagramme zu ausgewähltem Plan<br>•	bei hoher Anzahl an Aufgaben für schnellen Überblick über momentanen Stand des Projektes|
 |!["Zeitplan"](Microsoft_Planner_PM_Tool/MS_Planner_06.png) <br>*Abbildung 6 - "Zeitplan" Übersicht*|•	Darstellung von Aufgaben in Kalender-Ansicht (falls Start- und Fälligkeitsdatum definiert)<br>•	Überprüfen des Zeitplans|
