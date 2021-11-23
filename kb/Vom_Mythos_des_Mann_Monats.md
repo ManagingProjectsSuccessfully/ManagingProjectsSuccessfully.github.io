@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 
-Einfügen: „Vom Mythos des Mann-Monats“ ist ein Essay des amerikanischen Informatikers Fred Brooks aus dem gleichnamigen Buch „The Mythical Man-Month: Essays on Software Engineering“ (deutsch: Vom Mythos des Mann-Monats: Essays über Software-Engineering). In seinen Essays befasst er sich mit seinen Eindrücken und Erfahrungen in Bezug auf Software-Engineering und [Projektmanagement](Projektmanagement.md), die er als ehemaliger Leiter des Projekts [OS/360](https://de.wikipedia.org/wiki/OS/360) bei [IBM](https://de.wikipedia.org/wiki/IBM) gesammelt hat, und den daraus geschlossenen Erkenntnissen. Aus diesen leitete Brooks das [Brook'sche Gesetz](https://de.wikipedia.org/wiki/Anti-Pattern#Brooks.E2.80.99sches_Gesetz) ab.
+„Vom Mythos des Mann-Monats“ ist ein Essay des amerikanischen Informatikers Fred Brooks aus dem gleichnamigen Buch „The Mythical Man-Month: Essays on Software Engineering“ (deutsch: Vom Mythos des Mann-Monats: Essays über Software-Engineering). In seinen Essays befasst er sich mit seinen Eindrücken und Erfahrungen in Bezug auf Software-Engineering und [Projektmanagement](Projektmanagement.md), die er als ehemaliger Leiter des Projekts [OS/360](https://de.wikipedia.org/wiki/OS/360) bei [IBM](https://de.wikipedia.org/wiki/IBM) gesammelt hat, und den daraus geschlossenen Erkenntnissen. Aus diesen leitete Brooks das [Brook'sche Gesetz](https://de.wikipedia.org/wiki/Anti-Pattern#Brooks.E2.80.99sches_Gesetz) ab.
 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
@@ -30,15 +30,18 @@ Gniedlaskubf daneem.
 
 
 # Der Mythos Mann-Monat
-Obersatz
+Zeitnot stellt die häufigste Ursache für das Scheitern von Software-Projekten dar und entsteht laut Brooks aus folgenden Gründen:[^1]
+* Optimismus
+* Der Mann-Monat
+* System-Prüfung
+* Schätzen ohne Risikobereitschaft
 
-Hier evtl Stichpunkte der Gründe
 
 ## Optimismus
-Brooks sieht in dem bei allen Programmierern aufgrund ihrer eigenen Arbeitsweise verankerten Gedankengang, alles werde schon gutgehen, einen der Gründe für das Entstehen von Zeitnot. Aus der Annahme eines reinen Gedankengebäudes mit Konzepten und deren formbarer Repräsentation schlussfolgern Programmierer eine problemlose Umsetzung ihrer Gedanken. Sie verkennen, dass auch ihre Ideen durchaus mangelhaft sein können, wodurch auch ihre Implementierung fehlerbehaftet ist. Durch diesen Irrtum gehen Programmierer daher übereilt davon aus, dass schon alles klappen wird. (Quelle Brook Buch S. 16) Der bei Programmierern übliche, übersteigerte Optimismus ist nicht nur ein Risiko in Bezug auf die technische Realisierung eines Softwareprojektes, sondern er führt auch regelmäßig dazu, dass der für die Umsetzung benötigte Zeitaufwand unterschätzt wird. (Software due dilligence)
+Brooks sieht in dem bei allen Programmierern aufgrund ihrer eigenen Arbeitsweise verankerten Gedankengang, alles werde schon gutgehen, einen der Gründe für das Entstehen von Zeitnot. Aus der Annahme eines reinen Gedankengebäudes mit Konzepten und deren formbarer Repräsentation schlussfolgern Programmierer eine problemlose Umsetzung ihrer Gedanken. Sie verkennen, dass auch ihre Ideen durchaus mangelhaft sein können, wodurch auch ihre Implementierung fehlerbehaftet ist. Durch diesen Irrtum gehen Programmierer daher übereilt davon aus, dass schon alles klappen wird.[^1] Dieser Optimismus führt regelmäßig dazu, dass der für die Umsetzung benötigte Zeitaufwand unterschätzt wird.[^2]
 
 ## Der Mann-Monat
-Weitere Ursache für den Zeitverzug ist der Mann-Monat als Schätzeinheit. Der Mann-Monat ist eine Einheit, die als Maßstab von Schätzungen und Zeitvorgaben zugrunde gelegt wird. Der Mann-Monat stellt eine Maßeinheit für die Menge an Arbeit, die eine Person durchschnittlich in einem Monat schafft, dar und ist somit das Produkt von Zeit und Personal.[^2] 
+Weitere Ursache für den Zeitverzug ist der Mann-Monat als Schätzeinheit. Der Mann-Monat ist eine Einheit, die als Maßstab von Schätzungen und Zeitvorgaben zugrunde gelegt wird. Der Mann-Monat stellt eine Maßeinheit für die Menge an Arbeit, die eine Person durchschnittlich in einem Monat schafft, dar und ist somit das Produkt von Zeit und Personal.[^3] 
 
 ## Grund 3
 ## Grund 4
@@ -86,10 +89,6 @@ So kann man eine Tabelle erstellen:
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
@@ -104,6 +103,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
+* [Zeitplanung](Zeitplanung.md)
 * [Link auf diese Seite](Vom_Mythos_des_Mann_Monats.md)
 
 # Weiterführende Literatur
@@ -112,12 +112,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Brooks, Frederick P.: [Vom Mythos des Mann-Monats. Essays über Software-Engineering](https://books.google.de/books?hl=de&lr=&id=-dSU0IxvfzMC&oi=fnd&pg=PA3&dq=mythos+von+mann+monats&ots=ekrC7IHjO5&sig=I7Jhh12LZFxYNlzPyxFBclx86Y8&redir_esc=y#v=onepage&q&f=false). mitp Verlags GmbH & Co. KG, 2003.
+[^1]: Brooks, Frederick P.: [Vom Mythos des Mann-Monats. Essays über Software-Engineering.](https://books.google.de/books?hl=de&lr=&id=-dSU0IxvfzMC&oi=fnd&pg=PA3&dq=mythos+von+mann+monats&ots=ekrC7IHjO5&sig=I7Jhh12LZFxYNlzPyxFBclx86Y8&redir_esc=y#v=onepage&q&f=false) mitp Verlags GmbH & Co. KG, 2003, S. 13-27.
 
-[^2] [Mannjahr](https://wirtschaftslexikon.gabler.de/definition/mannjahr-39390/version-262799), 19.02.2018, abgerufen am 23.11.2021.
+[^2]: Demant, Christian. [Software Due Diligence: Softwareentwicklung als Asset bewertet.](https://link.springer.com/book/10.1007/978-3-662-53062-7)Springer-Verlag, 2017, S. 97f.
 
-[^1.5]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-
+[^3]: [Mannjahr](https://wirtschaftslexikon.gabler.de/definition/mannjahr-39390/version-262799), 19.02.2018, abgerufen am 23.11.2021.
 
 
 [^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
