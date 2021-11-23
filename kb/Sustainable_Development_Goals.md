@@ -2,7 +2,7 @@
 title: Sustainable_Development_Goals
 tags: agil klassisch
 author: Teemoma
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Sustainable_Development_Goals um ein erstes Verständnis dafür zu schaffen um was es hier geht.
