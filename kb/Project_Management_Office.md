@@ -17,13 +17,13 @@ Der Einsatzbereich eines PMOs, variiert stark mit der Rolle des Projektmanagemen
 Das PMO ist eine Managementstruktur, die projektbezogene Governance-Prozesse standardisiert und die gemeinsame Nutzung von Ressourcen, Methoden, Tools und Techniken erleichtert. Seine Zuständigkeiten reichen von der Unterstützung des Managements bis zur direkten Leitung eines oder mehrerer Projekte. Es gibt mehrere Arten von PMO-Strukturen. Diese unterscheiden sich durch den Grad der Kontrolle und des Einflusses, den sie auf die Projekte innerhalb der Organisation haben.[^1]
 
 ### 2.1	Supportive PMO
-Das unterstützende PMO hat eine beratende Funktion für die Projekte. Es unterstützt durch die Bereitstellung von Vorlagen, Best Practices, Schulungen, Zugang zu Informationen und Erfahrungen aus anderen Projekten.1 Es steht den Projektleitern jedoch frei, ob sie diese Vorschläge annehmen. Daher ist der Grad der Kontrolle über die Projekte insgesamt eher gering.[^2]
+Das unterstützende PMO hat eine beratende Funktion für die Projekte. Es unterstützt durch die Bereitstellung von Vorlagen, Best Practices, Schulungen, Zugang zu Informationen und Erfahrungen aus anderen Projekten.[^1] Es steht den Projektleitern jedoch frei, ob sie diese Vorschläge annehmen. Daher ist der Grad der Kontrolle über die Projekte insgesamt eher gering.[^2]
 
 ### 2.2	Controlling PMO
 Das steuernde PMO bietet Unterstützung und fordert die Einhaltung der Vorschriften mit verschiedenen Mitteln. Die Einhaltung kann die Übernahme bestimmter Managementrahmen oder -methoden unter Verwendung bestimmter Vorlagen, Formulare und Tools oder die Einhaltung der Governance umfassen. Der Grad der Kontrolle ist hier moderat.[^1]
 
 ### 2.3	Directive PMO
-Das weisende PMO übernimmt die Kontrolle über die Projekte, indem es die Projekte direkt verwaltet. Es übernimmt selbst die Funktionen der Initiierung, Planung, Durchführung, Überwachung und des Abschlusses der Projekte.3 Der Grad der Kontrolle ist daher sehr hoch.[^1]
+Das weisende PMO übernimmt die Kontrolle über die Projekte, indem es die Projekte direkt verwaltet. Es übernimmt selbst die Funktionen der Initiierung, Planung, Durchführung, Überwachung und des Abschlusses der Projekte.[^3] Der Grad der Kontrolle ist daher sehr hoch.[^1]
 
 ## 3.	Aufgaben
 Das PMO unterstützt die Projektleiter in vielfältiger Weise und übernimmt verschiedene Funktionen:[^3]
@@ -58,8 +58,10 @@ Abschließend kann nicht klar gesagt werden, ob das PMO eher dem klassischen ode
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [AIMS Education, UK (2016): „What is Project Management Office Definition & PMO Roles and Responsibilities | AIMS (UK)“] (https://www.youtube.com/watch?v=WFO2sZd8oh4)
+[^2]: [Martins, Julia (2021): „Wie ein Project Management Office (PMO) Zusammenarbeit und Informationsaustausch fördert“](https://asana.com/de/resources/pmo-project-management-office)
+[^3]: [Ortner, Gerhard/Stur, Bettina (2019): „Das Projektmanagement-Office“](https://link.springer.com/book/10.1007/978-3-662-59486-5)
+[^4]: [Pavlik, Franz (2017): „PMO – Project Management Office“](https://dieprojektmanager.com/project-management-office-pmo/)
+[^5]: [Strasser, Johann/Schmidt-Sibeth, Achim (2021): „Warum ein PMO? Definition, Vorteile und Mehrwert eines Projektmanagement Office“](https://www.theprojectgroup.com/blog/pmo-project-management-office/)
+[^6]: [Widmer, Annegret (2021): „Was ist ein Project Management Office, ein PMO – und warum brauche ich das?“](https://meisterplan.com/de/blog/was-ist-ein-project-management-office/)
 
