@@ -15,7 +15,6 @@ anrechnung: k
   >* 5.3  [Schritt 3: Berichtstermine definieren](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-3-berichtstermine-definieren)  
   >* 5.4  [Schritt 4: Kosten eintragen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-4-kosten-eintragen)   
   >* 5.5  [Schritt 5: Kostenabweichungen erkennen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-5-kostenabweichungen-erkennen)   
-
 >6. [Siehe auch](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#siehe-auch)  
 >7. [Weiterführende Literatur](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#weiterf%C3%BChrende-literatur)  
 >8. [Quellen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#quellen)
