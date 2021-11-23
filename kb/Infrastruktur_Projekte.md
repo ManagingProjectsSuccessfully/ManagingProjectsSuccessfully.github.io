@@ -46,6 +46,7 @@ Da es nicht pauschal eine richtige Lösung gibt, sollte man also für jedes Proj
 * [öffentliche Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Oeffentliche_Projekte.md)
 * [IT-Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/IT-Projekte.md)
 * [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)
+* [Planungssicherheit](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Planungssicherheit.md)
 * [Hybrides Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Hybrides_Projektmanagment.md)
 * [agiles Manifest](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Agiles_Manifest.md)
 
@@ -54,7 +55,6 @@ Da es nicht pauschal eine richtige Lösung gibt, sollte man also für jedes Proj
 * [Agiles Projektmanagement. Auf Änderungen schnell reagieren.](https://www.microtool.de/wissen-online/was-ist-agiles-projektmanagement/)
 * [Gegenüberstellungen der Hauptmerkmale von klassischem versus agilem Projektmanagement](https://link.springer.com/article/10.1007/s11612-021-00563-z/tables/1)
 * [Öffentliche Infrastruktur in Deutschland: Probleme und Reformbedarf](https://www.bmwi.de/Redaktion/DE/Publikationen/Ministerium/Veroeffentlichung-Wissenschaftlicher-Beirat/gutachten-oeffentliche-infrastruktur-in-deutschland.pdf?__blob=publicationFile&v=12)
-* [Planungssicherheit](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Planungssicherheit.md)
 * [Projektmanagement nach der Agile- oder Wasserfall-Methode](https://www.atlassian.com/de/agile/project-management/project-management-intro)
 
 # Quellen
