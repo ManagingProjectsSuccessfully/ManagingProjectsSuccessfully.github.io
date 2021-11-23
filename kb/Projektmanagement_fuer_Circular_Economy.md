@@ -35,7 +35,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Circular Economy Modell](Projektmanagement_fuer_Circular_Economy/circular economy modell.jpg)
+![image](Projektmanagement_fuer_Circular_Economy/circular economy modell.jpg)
 
 *Circular Economy Modell
 
