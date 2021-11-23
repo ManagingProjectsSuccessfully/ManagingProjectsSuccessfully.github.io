@@ -50,13 +50,13 @@ Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
 
 Ein Problem und Kritikpunkt an der Pomodoro Technik sind die 25-Minuten-Einheiten. Welche Aufgabe dauert schon exakt 25 Minuten? Damit die Zeitmanagement-Methode optimal funktioniert, sollten Sie daher folgende Tipps zur Vorbereitung nutzen:
 
-**Aufgaben priorisieren (bold)**
+**Aufgaben priorisieren**
 
-**Zeitaufwand schätzen (bold)**
+**Zeitaufwand schätzen**
 
-**Tag einteilen (bold)**
+**Tag einteilen**
 
-**Fokussiert bleiben (bold)**
+**Fokussiert bleiben**
 
 ## Beispieltabelle für die Pomodoro-Technik
 
@@ -115,6 +115,7 @@ Natürlich gibt es auch an der Pomodoro-Technik Kritik. Die Hauptvorwürfe sind:
 ◾ Zu unflexibel:
 
 Die 25-Minuten-Abschnitte seien ein zu enges Korsett. Manche Aufgaben lassen sich einfach nicht darauf zuschneiden. So führe die Einhaltung doch nur zu einer anderen Unterbrechung. Dagegen lässt sich allerdings einwenden, dass sich die Methode den jeweiligen Bedürfnissen anpassen lässt. Entscheidend ist, dass Sie das Grundprinzip – den Wechsel aus fokussierter Arbeit und regelmäßigen Pausen – beibehalten.
+
 ◾ Zu unrealistisch:
 
 Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchhalten könne. Einen derart ablenkungsfreien, strikt durchgetakteten und fokussierten Tag gibt es nicht. Mag sein. Sie können sich den Tag allerdings auch in Blöcke einteilen: jene, in denen Sie mit der Pomodoro-Technik arbeiten und andere, die freier bleiben.[^3]
@@ -122,9 +123,8 @@ Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchha
 # Siehe auch
 
 * [Projektmanagement](Projektmanagement.md)
-* [Projekt Management Office](Project_Management_Office.md)
-* [Methoden](Methoden.md)
-* [Zukunftswerkstatt](Zukunftswerkstatt.md)
+* [Selbstoffenbarung](Selbstoffenbarung.md)
+* [Aufgabenteilung](Aufgabenteilung.md)
 
 # Weiterführende Literatur
 
