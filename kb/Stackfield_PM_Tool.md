@@ -12,6 +12,7 @@ Die Software kombiniert einige Funktionen in einer Anwendung. Bei der Kommunikat
 
 Die Anmeldung bei Stackfield verlief reibungslos. In wenigen Schritten ist es möglich ein eigenes Projekt anzulegen und direkt zu starten.
 
+/*
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
@@ -32,11 +33,13 @@ Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Mogge
 die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
+*/
 
 # Überblick
 
-![Overview](Stackfield_PM_Tool/Stackfield_Overview.jpg)
+![Overview](Stackfield_PM_Tool/Stackfield_Overview.JPG)
+
+*Überblick Startseite*
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -54,21 +57,33 @@ Aspekte zu Themen können ganz unterschiedlich sein:
   - Kalender
   - Einstellungen
 
-![Beispielabbildung](Stackfield_PM_Tool/test-file.jpg)
+## Firma
+### Meine Woche
+text
+### Berichte
+text
+### Direkte Nachrichten
+text
+### Räume
+text
 
-*lustiges Testbild*
+## Projekt
+### Kommunikation
+text
+### Diskussionen
+text
+### Aufgaben
+text
+### Seiten
+text
+### Dateien
+text
+### Kalender
+text
+### Einstellungen
+text
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
+/*
 So kann man eine Tabelle erstellen:
 
 | First Header  | Second Header |
@@ -93,7 +108,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 4. eine
 7. nummerierte liste
    1. und hier eine Ebene tiefer
+*/
 
+# Vorteil/Nachteil
 
 # Siehe auch
 
