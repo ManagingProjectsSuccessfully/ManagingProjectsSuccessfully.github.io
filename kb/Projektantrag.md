@@ -38,7 +38,7 @@ Ein Beispiel für einen Projektantrag (unausgefüllte Vorlage) ist der [Abbildun
 
 ![Vorlage_Projektantrag](https://github.com/JennyKonn/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektantrag/Vorlage_Projektantrag.PNG)
 
-*Abbildung 1: Vorlage eines Projektantrages*
+*Abbildung 1: Vorlage eines Projektantrages* 
 
 # 3. Nutzen des Projektantrages für das Projekt
 *„Sage mir, wie Dein Projekt beginnt und ich sage Dir wie es endet.“[^5]*
