@@ -5,7 +5,7 @@ author: nikl9
 anrechnung: k
 ---
 
-Die Projektdokumentation gibt einen detaillierten Überblick über die relevanten Kenntnisse und grundlegenden Inhalte des durchgeführten Projekts und ist für jedes Projekt unerlässlich. Alle wichtigen Schritte während des Projekts werden gut strukturiert zu einer aussagekräftigen Dokumentensammlung zusammengefasst.
+Die Projektdokumentation gibt einen detaillierten Überblick über die relevanten Kenntnisse und grundlegenden Inhalte des durchgeführten [Projekts](Projekt.md) und ist für jedes Projekt unerlässlich. Alle wichtigen Schritte während des Projekts werden gut strukturiert zu einer aussagekräftigen Dokumentensammlung zusammengefasst.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 
@@ -26,35 +26,35 @@ Es ist wichtig die Projektinhalte zu definieren, also im Vorhinein festzulegen w
 
 | Beispiel         | Erklärung     |
 | ------------ | ------------- |
-| Unterlagen zum Projektablauf  |   Unterlagen wie Dokumente über das Projekt, abgeschlossene Aufgaben, Verträge und Vereinbarungen mit Kunden aus vergangenen Projekten haben für kommende Projekte einen großen Nutzen.|
-| Meilensteine  | Klare Ziele zu definieren und Meilensteine zusetzen sind Grundlage einer guten Zusammenarbeit im Team. Durch die Dokumentation sind Entscheidungen gebündelt, für alle sichtbar und noch im Nachhinein nachvollziehbar.  |
-| Statusberichte | In einem Team mit mehreren Beteiligten, wird zeitgleich an unterschiedlichen Prozessen gearbeitet. Damit eine Übersicht über die einzelnen Arbeitsschritte entsteht, sind Reportings von den einzelnen Teammitgliedern wichtig. |
-| Protokolle aus Meetings und Workshops | In gemeinsamen Meetings wird die Projektkommunikation gefördert. Es wird auf Fehler und Mängel eingegangen und Lösungen erarbeitet. Wenn sich Aufgaben wiederholen helfen die daraus entstehenden Protokolle die selben Fehler zu vermeiden, oder Informationen zur Lösungsbehebung parat zu haben. |
-| Projektplanung | Der Projektplan beinhaltet alle Aufgaben, die im Zusammenhang mit dem Projekt stehen. Er besteht aus einzelnen Arbeitsschritten, auf die Mitarbeiter und Ressourcen aufgeteilt werden. Aufgaben werden mit verschiedenen Prioritäten versehen, um die Relevanz zu stützen |
-| Zeiterfassung | Durch die Strukturierung der Aufgaben entsteht ein genauer Zeitplan, mit dem die zukünftige Dauer von ähnlichen Aufgaben bestimmt werden kann. |
-| Verwendete Projektmethoden | Werkzeuge mit denen Aufgaben umgesetzt werden konnten. Wie beispielsweise Projektstrukturpläne (PSP), Gantt-Diagramme oder der Projektumfeldanalyse. |
+| Unterlagen zum Projektablauf  |   Unterlagen wie Dokumente über das Projekt, fertige Aufgaben, Verträge und Vereinbarungen mit Kunden aus vergangenen Projekten haben für zukünftige Projekte einen großen Nutzen.|
+| Meilensteine  | Klare Ziele zu setzen und Meilensteine zu definieren sind die Grundlage einer guten Zusammenarbeit innerhalb des Teams. Durch die Dokumentation sind Entscheidungen gebündelt, für alle erkennbar und auch noch nach dem Projekt nachvollziehbar.  |
+| Statusberichte | In einem Team mit mehreren Beteiligten, wird zeitgleich an verschiedenen Prozessen gearbeitet. Damit eine Übersicht über die einzelnen Arbeitsschritte entsteht, sind Berichte von den einzelnen Teammitgliedern von großer Bedeutung. |
+| Protokolle aus Meetings und Workshops | In gemeinsamen Meetings wird die [Projektkommunikation](Projektkommunikation.md) gefördert. Es wird auf Fehler und Mängel hingewiesen und Lösungen erarbeitet. Wenn sich Aufgaben wiederholen helfen die daraus entstehenden Protokolle die selben Fehler zu vermeiden, oder Informationen für die Lösungsbehebung parat zu haben. |
+| [Projektplanung](Projektplanung.md) | Der Projektplan beinhaltet alle Aufgaben, die im Verbindung mit dem Projekt stehen. Er besteht aus einzelnen Arbeitsschritten, auf die Mitarbeiter und Ressourcen aufgeteilt werden. |
+| Zeiterfassung | Durch die Strukturierung der Aufgaben entsteht ein exakter Zeitplan, mit dem die zukünftige Dauer von ähnlichen Aufgaben bestimmt werden kann. |
+| Verwendete Projektmethoden | Methoden mit denen Aufgaben umgesetzt werden konnten. Wie beispielsweise [Projektstrukturpläne](Projektstrukturplan.md) , [Gantt-Diagramme](Gantt_Diagramme.md) oder die Projekt[umfeldanalyse](Umfeldanalyse.md). |
 
 
 # Verschiedene Phasen der Projektdokumentation
 
-<img src="https://www.derpade.de/wp-content/uploads/2016/01/Projektdokumentation.jpg" width="250">
+<img src="https://www.derpade.de/wp-content/uploads/2016/01/Projektdokumentation.jpg" width="250"> [^5]
 
-* Projektdokumentation während der Projektplanung
+* Projektdokumentation während der [Projektplanung](Projektplanung.md)
 * Projektdokumentation während der Projektdurchführung
-* Projektdokumentation während des Projektabschlusses
+* Projektdokumentation während des [Projektabschlusses](Projektabschluss.md)
 
 ## Projektdokumentation während der Projektplanung
 
-Die Projektdokumentation im Kontext der Projektplanung beschränkt sich auf das Protokollieren von Entscheidungen zur Projektplangestaltung. Neben der Planung von Zeit und Budget liefert der Projektleiter die Grundlage für alles , was im Projekt passieren wird. Wenn Sie Ihre Entscheidungsfindung bereits gut dokumentieren, ist es bei der späteren Bewertung des Projekterfolgs leichter zu erkennen, ob Ungleichgewichte während des Projekts bereits etwas mit der Planung zu tun haben könnten. [^5]
+Die Projektdokumentation im Sinne der Projektplanung wird auf das Protokollieren von Entscheidungen zur Projektplangestaltung reduziert. Neben der Planung von Zeit und Budget liefert der [Projektleiter](Projektleiter.md) die Basis für alles , was im Projekt passieren wird. Wenn die Entscheidungsfindung bereits gut dokumentiert wird, ist es bei der späteren Bewertung des Projekterfolgs leichter zu erkennen, ob Ungleichgewichte während des Projekts bereits etwas mit der Planung zu tun haben könnten. [^6]
 
 
 ## Projektdokumentation während der Projektdurchführung
 
-Projektdokumentation während der Projektdurchführung bezieht sich vor allem auf die Aufgaben des Projektcontrolling und die Projektzeiterfassung. Indem im Laufe des Projektes laufend dokumentiert wird, welche Ressourcen genutzt werden, lassen sich laufende Soll-Ist Vergleiche anstellen. Schon während des Projektes kann man so entdecken, welche Projekte effizient und welche weniger effizient ablaufen. [^6]
+Projektdokumentation während der Projektdurchführung bezieht sich vor allem auf die Aufgaben des Projektcontrolling und die Projektzeiterfassung. Indem im Laufe des Projektes kontinuierlich dokumentiert wird, welche Ressourcen genutzt werden, lassen sich laufende Soll-Ist Vergleiche anstellen. Schon während des Projektes kann man so entdecken, welche Projekte effizient und welche weniger effizient ablaufen. [^7]
 
 ## Projektdokumentation während des Projektabschlusses
 
-Beim Projektabschluss geht es vor allem darum, die bisher gesammelten Daten der Projektdokumentation zusammenzufügen und das Projekt auszuwerten. Auf der bisherigen Dokumentation basierend lassen sich Projektberichte erstellen, die für verschiedene Zwecke als Diskussionsgrundlage dienen können. Eine gute Projektdokumentation kann jedoch eine solide Grundlage für eine differenzierte Meinung über den Erfolgsgehalt des Projekts darstellen. Vor allem für einzelne Bereiche und Tätigkeiten. Wird von Anfang an gut dokumentiert, lässt sich spätestens im Anschluss an das Projekt sagen, wo effizient und wo weniger effizient gearbeitet wurde. Die Produktivität von Mitarbeitenden, Abteilungen und Projektabschnitten lässt sich spätestens jetzt auswerten. Spätestens jetzt kann man aus seinen Fehlern lernen und Verbesserungsansätze überlegen. [^7]
+Beim Projektabschluss geht es vor allem darum, die bisher gesammelten Daten der Projektdokumentation zusammenzufügen und das Projekt auszuwerten. Auf der bisherigen Dokumentation basierend lassen sich [Projektabschlussberichte](Projektabschlussbericht.md) erstellen, die für verschiedene Zwecke als Diskussionsgrundlage dienen können. Eine gute Projektdokumentation kann jedoch eine solide Grundlage für unterschiedliche Ansichten über den Erfolgsgehalt des Projekts darstellen. Vor allem für einzelne Bereiche und Tätigkeiten. Die Produktivität von Mitarbeitenden, Abteilungen und Projektabschnitten lässt sich spätestens jetzt auswerten. Spätestens jetzt kann man aus seinen Fehlern lernen und Verbesserungsansätze überlegen. [^8]
 
 
 # Siehe auch
@@ -72,7 +72,8 @@ Beim Projektabschluss geht es vor allem darum, die bisher gesammelten Daten der 
 [^2]: https://www.factro.de/blog/projektdokumentation/
 [^3]: https://dieprojektmanager.com/projektdokumentation-wichtige-grundregeln/
 [^4]: https://www.factro.de/blog/projektdokumentation/
-[^5]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
+[^5]: https://www.derpade.de/leitfaden-projektdokumentation-fachinformatiker-fuer-anwendungsentwicklungsystemintegration/
 [^6]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
 [^7]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
+[^8]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
 
