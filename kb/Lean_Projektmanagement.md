@@ -70,7 +70,8 @@ Sowohl Lean als auch Agile Teams helfen dabei, besser zu arbeiten und Kunden ein
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Thompson, Eric (2020): "Lean Project Management"](https://www.amazon.de/Lean-Project-Management-Kanban-Kaizen/dp/B086L16F49)
+* [Bertagnolli, Frank (2018): "Lean Management"](https://link.springer.com/book/10.1007/978-3-658-13124-1)
 
 # Quellen
 
