@@ -53,13 +53,13 @@ Zunächst ist KI-Software nicht dazu da die Mitarbeiter zu überwachen[^6] oder 
 
 # Quellen
 [^1]: [WIE KÜNSTLICHE INTELLIGENZ (KI) DAS PROJEKTMANAGEMENT BEEINFLUSST](https://www.tiba.de/wie-kuenstliche-intelligenz-ki-das-projektmanagement-beeinflusst/) Autor: Reinhard Wagner geöffnet am 11.11.2021 16:00 Uhr
-[^2]: Nils J. Nilsson: The Quest for Artificial Intelligence. A History of Ideas and Achievements. Cambridge University Press, New York 2009. S. 615-617
+[^2]: [ The Quest for Artificial Intelligence, A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) Nils J. Nilsson: Cambridge University Press, New York 2009. S. 615-617
 [^3]: [Strong AI](https://www.ibm.com/cloud/learn/strong-ai) Autor: IBM Cloud Education, veröffentlicht am: 31.08.2020, aufgerufen am 11.11.2021 um 17:37 Uhr
 [^4]: [Künstliche Intelligenz im Projektmanagement](https://www.projektmagazin.de/artikel/kuenstliche-intelligenz-ki-projektmanagement) Autor: Marc Bollmann, Andreas Janiak, veröffentlicht am: 10.03.2021, aufgerufen am 11.11.2021 um 18:15 Uhr
 [^5]: [Effizienzsteigerung im Projektmanagement – Ist AI die Lösung?
 ](https://www.capgemini.com/de-de/2021/09/effizienzsteigerung-im-projektmanagement-ist-ai-die-loesung/) Autorin: Sandra Imelmann, veröffentlicht am: 20.09.2021, aufgerufen am 11.11.2021 um 18:38 Uhr
 [^6]: [PROJEKTMANAGEMENT-KI: CHANCE ODER RISIKO?](https://www.assure.de/de/blog/projektmanagement-ki-chance-oder-risiko) Autor: David Treffenstädt veröffentlicht am: unbekannt , aufgerufen am 12.11.2021 12:00 Uhr
-[^7]: Daniela Geretshuber, Hendrik Reese  Studie von pwc: Künstliche Intelligenz in Unternehemen, Befragung von 500 Entscheidern deutscher Unternehmen zum Status quo - mit Bewertungen und Handlunsoptionen von PwC, veröffentlicht am: 02.2019 S. 13
+[^7]: [Künstliche Intelligenz in Unternehmen](https://www.pwc.de/de/digitale-transformation/kuenstliche-intelligenz/studie-kuenstliche-intelligenz-in-unternehmen.pdf) Autor: Daniela Geretshuber, Hendrik Reese  Studie von pwc: Künstliche Intelligenz in Unternehemen, Befragung von 500 Entscheidern deutscher Unternehmen zum Status quo - mit Bewertungen und Handlunsoptionen von PwC, veröffentlicht am: 02.2019 S. 13
 [^8]: [Analysetools](https://www.onlinemarketing-praxis.de/web-controlling/web-analyse-tools)
 [^9]: [Chatsbots](https://www.ibm.com/de-de/campaign/was-ist-ein-chatbot)
 [^10]: [robotergestützte Prozessautomatisierung](https://de.wikipedia.org/wiki/Robotic_Process_Automation)
