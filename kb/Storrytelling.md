@@ -42,7 +42,7 @@ Zunächst ist es wichtig zu verstehen, das es hier nicht um pure Fakten und Stat
 
 ### Einführung / Kick-Off
 
-Die Einführung ist einer der wichtigsten Momente im Projekt. Sie zeigt die Ziele, die Herangehensweise und den Weg auf. Hierbei können Geschichten wie oben bereits erwähnt, ein guter Anfang sein, um den tieferen Sinn des Projekts zu vermitteln. Da Projekte ein insgesamt einmaliges Vorhaben sind, welches oftmals geplant und strukturiert ist, kann man auch den gesamten Ablauf des Projekts als Geschichte erzählen und interessant verpacken. Durch ein spannendes Kick-Off, bei welchem man die Mitarbeiter als Protagonisten vorstellt, können Mitarbeiter sich mit neuen Kollegen verknüpfen und sind gespannt auf den Projektablauf. Hierbei erlernen die Mitarbeiter ihre zukünftigen Zuständigkeiten und Aufgaben von selbst, anstatt starrer Zuweisungen.
+Die Einführung ist einer der wichtigsten Momente im Projekt. Sie zeigt die Ziele, die Herangehensweise und den Weg auf. Hierbei können Geschichten wie oben bereits erwähnt, ein guter Anfang sein, um den tieferen Sinn des Projekts zu vermitteln. Da Projekte ein insgesamt einmaliges Vorhaben sind, welches oftmals geplant und strukturiert ist, kann man auch den gesamten Ablauf des Projekts als Geschichte erzählen und interessant verpacken. Durch ein spannendes Kick-Off, bei welchem man die Mitarbeiter als Protagonisten vorstellt, können Mitarbeiter sich mit neuen Kollegen verknüpfen und sind gespannt auf den Projektablauf[^1]. Hierbei erlernen die Mitarbeiter ihre zukünftigen Zuständigkeiten und Aufgaben von selbst, anstatt starrer Zuweisungen.
 
 
 ### Hauptteil / Projektprozess
