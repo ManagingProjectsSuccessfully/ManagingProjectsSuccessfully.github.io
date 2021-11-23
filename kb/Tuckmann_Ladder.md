@@ -19,12 +19,14 @@ Gruppenentwicklung durchlaufen. Wenn Sie diese fünf Phasen der Teamentwicklung 
 
 Der Psychologe Bruce Tuckman entwickelte 1965 sein Gruppenentwicklungsmodell, um zu erklären, wie gesunde Teams mit der Zeit zusammenwachsen. In Tuckmans Modell werden fünf
 Phasen unterschieden, die Gruppen durchlaufen: Forming, Storming, Norming, Performing und Adjourning. Jede der fünf Phasen der Teamentwicklung stellt eine Stufe auf der Leiter
-der Teamentwicklung darv[^1]. Während die Gruppenmitglieder die Leiter erklimmen, verwandeln sie sich von einer zufälligen Ansammlung von Fremden in ein leistungsstarkes Team,
+der Teamentwicklung dar[^1]. Während die Gruppenmitglieder die Leiter erklimmen, verwandeln sie sich von einer zufälligen Ansammlung von Fremden in ein leistungsstarkes Team,
 das auf ein gemeinsames Ziel hinarbeiten kann. Im Folgenden werden die fünf Stufen der Gruppenentwicklung von Tuckman im Detail erläutert:
 
 [^2].
 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle)
+
+![Stages_Tuckman_Model](https://user-images.githubusercontent.com/92668932/143059132-939a20c6-5c41-4331-ad74-fcde281a048f.png)
 
 
 ## Forming: die Orientierungsphase
@@ -62,7 +64,7 @@ gemeinsames Endziel hin.
 
 ### Übersicht der ersten vier Phasen
 
-  Die folgende Tabelle fasst die Phasen mit jeweiligen Herausforderungen zusammen, die im Zusammenhang mit einer neuen Teambildung und -entwicklung aufkommen können. 
+Die folgende Tabelle fasst die Phasen mit jeweiligen Herausforderungen zusammen, die im Zusammenhang mit einer neuen Teambildung und -entwicklung aufkommen können. 
 
   | * | Forming | Storming | Norming | Performing |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -70,7 +72,7 @@ gemeinsames Endziel hin.
   | Prozessbezogene Probleme | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach         Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
   | Gefühlsbezogene Probleme | Die Mitglieder fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen fühlen sich noch unsicher und versuchen, ihre          Individualität zum Ausdruck zu bringen. Es entstehen Bedenken hinsichtlich der Teamhierarchie | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander        mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
 
-# Adjouring: die Auflösungsphase
+## Adjouring: die Auflösungsphase
 
 Die fünfte Phase geht davon aus, dass Projektteams nur für einen bestimmten Zeitraum bestehen; sobald die Aufgabe des Teams erfüllt ist, löst sich das Team selbst auf. 
 Nicht selten wird diese Phase manchmal auch als "Trauerphase" bezeichnet, da die Teammitglieder häufig ein Gefühl des Verlustes empfinden, wenn die Gruppe aufgelöst wird.
