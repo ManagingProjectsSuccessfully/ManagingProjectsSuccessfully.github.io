@@ -14,9 +14,9 @@ anrechnung: a
 Lean Project Management (kurz LPM) ist in erster Linie eine Einstellung zur Durchführung von [Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md). Es ist eine Denkweise, die darauf abzielt, Verschwendung zu vermeiden, Projekte effizienter und effektiver zu gestalten und Kunden und Auftraggeber besser bedienen zu können.[^2]
 
 ## 2.	Lean-Management
-Lean-Management findet seinen Ursprung in den 50er Jahren im japanischen [Toyota-Produktionssystem](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Toyota_Produktionssystem.md), welches Verschwendung vermeidet, interne Abläufe und die Interaktion mit Lieferanten und Kunden optimiert und somit dem Prinzip der „Just-in-time-Produktion“ folgt.[^1] Toyota fasst drei Hauptquellen für Verschwendung: Muda, Mura und Muri.[^2]
+Lean-Management findet seinen Ursprung in den 50er Jahren im japanischen [Toyota-Produktionssystem](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Toyota_Produktionssystem.md), welches Verschwendung vermeidet, interne Abläufe und die Interaktion mit Lieferanten und Kunden optimiert und somit dem Prinzip der „Just-in-time-Produktion“ folgt.[^1] Toyota fasst drei Hauptquellen für Verschwendung: [Muda](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Muda_7_Arten_von_Verschwendung.md), Mura und Muri.[^2]
 
-[**Muda**](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Muda_7_Arten_von_Verschwendung.md) bedeutet verschwendete Zeit und Mühe. Es umfasst alles was getan oder an Ressourcen eingesetzt wird, was für die Stakeholder in keiner Weise einen Mehrwert oder Nutzen bringt.[^4]
+**Muda** bedeutet verschwendete Zeit und Mühe. Es umfasst alles was getan oder an Ressourcen eingesetzt wird, was für die Stakeholder in keiner Weise einen Mehrwert oder Nutzen bringt.[^4]
 
 **Mura** bedeutet Unausgeglichenheit. Es bedeutet, dass Dinge zu verschiedenen Zeiten auf unterschiedliche Weise getan werden. LPM versucht, Mura durch Standardisierung zu überwinden.[^2]
 
