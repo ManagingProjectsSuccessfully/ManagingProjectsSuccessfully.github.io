@@ -7,9 +7,7 @@ anrechnung: k
 
 # Zielsetzung
 
-Die Bedeutung Internationaler Projekte wird in Zukunft deutlich zunehmen [^1]. Neben den Projektmanagement Normen, die besonders deutlich im Grundsatzpapier der verschiedenen Organisationen und Projekten definiert werden, ist es dagegen bei Projektmanagement Standards deutlich schwerer den genauen Inhalt und die Zielsetzung 
-herauszufinden. Standards können daher unter anderem als Richtlinie oder als eine Referenzdarstellung verstanden werden. Bei der Wahl der Projektmanagement (PM)
-Standards sollte ein pragmatisches Vorgehen gewählt werden, welches zudem regelmäßig in der Literatur diskutiert wird. [^2] 
+Die Bedeutung Internationaler Projekte wird in Zukunft deutlich zunehmen [^1]. Neben den Projektmanagement Normen, die besonders deutlich im Grundsatzpapier der verschiedenen Organisationen und Projekten definiert werden, ist es dagegen bei Projektmanagement Standards deutlich schwerer, den genauen Inhalt und die Zielsetzung herauszufinden. Standards können daher unter anderem als Richtlinie oder als eine Referenzdarstellung verstanden werden. Bei der Wahl der Projektmanagement (PM) Standards sollte ein pragmatisches Vorgehen gewählt werden, welches zudem regelmäßig in der Literatur diskutiert wird. [^2] 
 
 # Internationale Standards
 Im folgenden werden drei Internationale Projektmanagement Standards vorgestellt.
@@ -19,8 +17,7 @@ Das Project Management Institute (PMI) wurde 1969 gegründet. Dort gibt es versc
 Als Zulassungskriterium müssen mindestens 4.500 Projektstunden (mit Hochschulabschluss) bzw. 7.500 Projektstunden (ohne Hochschulabschluss) sowie 35 Stunden 
 Schulung nachgewiesen werden. Höhere Zertifizierungs Level erfordern zusätzlich den Nachweis von bis zu 6.000 Stunden PM-Erfahrung.[^4]
 
-Bei der Anwendung des PMBOK werden innerhalb des Projektes 49 Prozesse in einer Matrix von 5 Prozessgruppen und 10 Wissensgebieten definiert. Diese beschreiben für                            
-jeden Prozess den Input, Output, die Werkzeuge und das Verfahren. Dadurch hat man sich zum Ziel gesetzt besonders die Prozesse und Terminologien bei einem Projekt zu vereinheitlichen. Benötigte Fähigkeiten werden bei diesem Standard nicht weiter ausgebaut. Hauptmerkmal ist die Projektausrichtung, die sich an den einzelnen 
+Bei der Anwendung des PMBOK werden innerhalb des Projektes 49 Prozesse in einer Matrix von 5 Prozessgruppen und 10 Wissensgebieten definiert. Diese beschreiben für jeden Prozess den Input, Output, die Werkzeuge und das Verfahren. Dadurch hat man sich zum Ziel gesetzt, besonders die Prozesse und Terminologien bei einem Projekt zu vereinheitlichen. Benötigte Fähigkeiten werden bei diesem Standard nicht weiter ausgebaut. Hauptmerkmal ist die Projektausrichtung, die sich an den einzelnen 
 Projektphasen orientiert. 
 Ebenfalls hervorzuheben ist der sogenannte PMI’s Code of Ethics and Professional Conduct, der vor der Zertifizierung akzeptiert werden muss und zur Rechtschaffenheit verpflichtet.[^5]
 
@@ -31,7 +28,7 @@ Abbildung: Beispiel Projektgruppen und Wissensgebiete des PMBOK PM.
 
 Die International Project Management Association (IPMA) wurde 1965 gegründet und ist geprägt durch eine sehr individuelle Herangehensweise, da es kein festes Modell 
 zum Vorgehen gibt, sondern die Projektleitung die Vorgehensweise sowohl national als auch branchenspezifisch festlegt. Dabei ist die Kompetenzorientierung, sowie das Fach-und Methodenwissen der Führungspersönlichkeit besonders wichtig. Aber auch Softskills und soziale Fähigkeiten werden stark gewichtet. Ein von IPMA
-herausgegebenen Buch beschriebt zudem detailliert, die verschiedenen Kompetenzelemente. Methoden, Wissen und diverse Tools werden mit an die Hand gegeben,
+herausgegebenen Buch beschreibt zudem detailliert, die verschiedenen Kompetenzelemente. Methoden, Wissen und diverse Tools werden mit an die Hand gegeben,
 Prozessmodelle fehlen allerdings, da davon ausgegangen wird, dass qualifizierte Personen in der Lage sind in bestimmten Handlungen zu bestimmen, welche Schritte 
 notwendig sind, was auch als „Eye of Competence“ bezeichnet wird. Der Standard gliedert sich in vier verschiedenen Stufen, vom niedrigsten Level D, bis zum höchsten Level A. Je nach Level unterscheiden sich auch die Zulassungsvoraussetzungen und abgeleitete Maßnahmen.[^5]
 
