@@ -14,12 +14,12 @@ anrechnung: k oder a
 
 # 2.	Schritte die in der Projektplanung durchlaufen werden:
 Wie bereits oben erwähnt, gibt es die Grobplanung und die Detailplanung. Die ersten drei Schritte bilden die Grobplanung. Dagegen ergibt sich die Detailplanung aus der Prozess-, Termin- und Kostenplanung.
-1.	**Phasenplanung:** Festlegung der Phasen
-2.	**Projektstrukturplanung:** Gliederung der Projektinhalte in kleinere Teilprojekte
-3.	**Planung der Projektorganisation:** Verteilung der Rollen und Verantwortlichkeiten
-4.	**Ablauf- und Terminplanung:** Erstellung einer chronologischen Rheinfolge der Arbeitspakete
-5.	**Ressourcenplanung:** Ermittlung der notwendigen Ressourcen
-6.	**Kostenplanung:** Bildung der Projektkosten (Ressourcen + Dauer)
+**1.	Phasenplanung:** Festlegung der Phasen
+**2.	Projektstrukturplanung:** Gliederung der Projektinhalte in kleinere Teilprojekte
+**3.	Planung der Projektorganisation:** Verteilung der Rollen und Verantwortlichkeiten
+**4.	Ablauf- und Terminplanung:** Erstellung einer chronologischen Rheinfolge der Arbeitspakete
+**5.	Ressourcenplanung:** Ermittlung der notwendigen Ressourcen
+**6.	Kostenplanung:** Bildung der Projektkosten (Ressourcen + Dauer)
 
 # 3.	Projektplanung in der Praxis:
 
