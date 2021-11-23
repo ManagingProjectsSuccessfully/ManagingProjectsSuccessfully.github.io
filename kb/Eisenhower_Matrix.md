@@ -10,10 +10,10 @@ anrechnung: k oder a
 
 Das Eisenhower Prinzip (auch genannt Eisenhower Methode, Eisenhower Matrix) kann dabei helfen, anstehende Aufgaben in Kategorien einzuteilen und diese zu priorisieren. Dabei wird jede Aufgabe auf Dringlichkeit und Wichtigkeit überprüft. Dadurch sollen die wichtigsten Aufgaben zuerst erledigt werden und die unwichtigen aussortiert. Eine Aufgabe kann wichtig/nicht wichtig sowie dringend/nicht dringend sein. Insgesamt ergeben sich vier Kombinationsmöglichkeiten, die in einer Matrix mit vier Quadranten sichtbar gemacht werden können. Jedem Aufgabentyp wird eine bestimmte Art der Bearbeitung zugeordnet.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Aufgaben-Varianten
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+![bild](Eisenhower_Matrix/EisenhowerMatrix.PNG "Eisenhower-Matrix")
+
 **A-Aufgaben:** jene die dringend und wichtig sind. Sie sollten sofort selbst erledigt werden
 
 **B-Aufgaben:** jene die wichtig, aber nicht dringend sind. Sie können auf einen anderen Termin verschoben werden, an dem sie selbst erledigt werden.
