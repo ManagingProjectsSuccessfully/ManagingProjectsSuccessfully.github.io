@@ -2,88 +2,54 @@
 title: Eskalationsstufen
 tags: agil klassisch
 author: annaflbr
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Eskalationsstufen um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Beim Zusammenleben und der Zusammenarbeit von Menschen treten durch beispielsweise Meinungsverschiedenheiten, verschiedene Haltungen und Sympathien sowie Antipathien häufig Konflikte auf. Diese sind normal und werden erst zu einer Schwierigkeit, wenn diese eskalieren. [^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Unter einer Eskalation versteht man Verhaltensmuster, die bewusst oder intuitiv eingesetzt werden und Konfliktsituationen intensivieren. Diese Verhaltensmuster können bewusst oder intuitiv eingesetzt werden. Der Gegensatz hierzu ist die Deeskalation.[^2] 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Um eine Eskalation möglichst zu vermeiden oder zu deeskalieren, gibt es verschiedene Ansätze. Hierdurch entstanden verschiedene Modelle zur Analyse und zum Ablauf von Konfliktsituationen. [^1]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# 9 Eskaltionsstufen mit 3 Ebenen
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+![9-eskalationsstufen](Eskalationsstufen/9-eskalationsstufen.png)
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+*9 Eskalationsstufen nach Friedrich Glasl* [^2] 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+## 1. Ebene WIN-WIN
+In dieser Ebene kann der Konflikt noch gelöst werden. Beide Parteien würden hier von einer Einigung profitieren.
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+| 1) Verhärtung  | 2) Polarisation | 3) Taten statt Worte |
+| ------------- | ------------- | ---------------|
+| Hier werden erste Spannungen spürbar und die Fronten verhärten sich. In der ersten Stufe ist die Situation noch harmlos und es treten noch keine Lager- oder Parteibildungen auf.  | Die Gegner versuchen sich durch rationale Argumente zu überzeugen und setzen sich gegenseitig unter Druck. Die Meinungsverschiedenheiten werden fundamentaler und jeder beharrt auf seiner Meinung. | Durch Misstrauen und negativen Erwartungen wird der Konflikt noch mehr verschärft. Gespräche werden frustriert und ergebnislos abgebrochen und die verbale Kommunikation tritt in den Hintergrund.  |
 
+## 2. Ebene WIN-LOSE
+In der Lose-Win Ebene ist der Konflikt bereits so weit fortgeschritten, dass es nun mehr einen Gewinner und einen Verlierer geben kann.
 
-# Aspekt 1
+| 4) Sorge um Image  | 5) Gesichtsverlust | 6) Drohstrategie |
+| ------------- | ------------- | ---------------|
+| In dieser Stufe suchen sich die Parteien Verbündete. Hierbei steht nicht mehr im Mittelpunkt den Konflikt zu lösen, sondern letztendlich der Gewinner der Konfliktsituation zu werden. | Die Parteien greifen sich öffentlich und direkt an. Es erfolgt ein vollständiger Vertrauensverlust der Konfliktparteien miteinander. | Eine Konfliktpartei versucht durch Drohung und Erpressung als Gewinner aus dem Konflikt zu gehen. |
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## 3. Ebene LOSE-LOSE
+Ist der Konflikt so weit fortgeschritten, gibt es nur noch Verlierer. Eine Konfliktlösung ist nur noch durch einen Machteingriff von außen bzw. ein gerichtliches Verfahren möglich.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+| 7) Begrenzte Vernichtungsschläge  | 8) Zersplitterung | 9) Gemeinsam in den Abgrund |
+| ------------- | ------------- | ---------------|
+| Der Konflikt gerät außer Kontrolle und die eigentliche Konfliktursache steht lange nicht mehr im Vordergrund. Beide Parteien wollen ihrem Gegner möglichst großen Schaden zufügen. Der mit dem geringeren Schaden fühlt sich hierbei als Gewinner.  | Die gegnerische Konfliktpartei soll so weit wie möglich zerstört werden. In dieser Stufe ist die Anwendung von Gewalt nicht ausgeschlossen.  | Die Parteien sind bereit sich selbst zu vernichten, solange der Gegner mit ihnen untergeht. Wenn ein Konflikt so weit fortschreitet, ist ein lösen des Konfliktes ohne Hilfe nicht mehr möglich. |
 
-![Beispielabbildung](Eskalationsstufen/test-file.jpg)
+# Kernmechanismen der Eskalation
+In den Konfliktstufen nach Glasl finden sich die fünf Kernmechanismen der Eskalation. Das sind:
 
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+*	Wachsende Selbstfrustration: 
+Parteien sind frustriert, wenn sie nicht das bekommen, was sie wollen
+*	Ausweitung der strittigen Themen:
+Die Partei mit den besseren Argumenten gewinnt die Auseinandersetzung, dadurch versuchen die Konfliktparteien mit unwesentlichen Inhalten die Auseinandersetzung für sich zu entscheiden. Hierdurch steigt die Komplexität und der Konflikt wird unübersichtlich.
+*	Wechselseitige Verflechtung von Ursache und Wirkung
+*	Tendenz zum Personifizieren des Konfliktes:
+Einer bestimmten Person wird die Schuld an einer Streitigkeit gegeben, somit wird für das eigene Handeln keine Verantwortung mehr übernommen.
+*	Konflikt-Beschleunigung durch pessimistische Erwartungshaltung: 
+Wenn Parteien überzeugt sind, dass ein Konflikt nicht lösbar ist, führt dies dazu das die Konfliktlösung massiv erschwert wird.
 
 
 # Siehe auch
@@ -96,9 +62,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Eskalationsstufen von Konflikten] (https://www.landsiedel-seminare.de/coaching-welt/wissen/lexikon/eskalationsstufen.html)
+[^2]: [Eskalation] (https://de.wikipedia.org/wiki/Eskalation)
 
