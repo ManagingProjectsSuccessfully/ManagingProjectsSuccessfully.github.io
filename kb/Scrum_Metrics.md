@@ -37,7 +37,7 @@ Diese haben dann Einfluss auf:[2]
 Schlüssel Performance Indikatoren (KPI), dienen zur Evaluation des Unternehmenerfolgs bezogen auf Unternehmensziele.[1] Scrum Metrics können nicht alleinstehend, nicht wie KPI's, über den Kundennutzen (Customer Value) oder ob das Team das richtige Produkt geliefert hat aussagen. Scrum Metrics werden zur Team-internen Effektivitätsanalyse angewendet.[2]
 
 
-# Mögliche Scrum Metrics im Scrum Sprint
+# Einige Scrum Metrics im Scrum Sprint
 
 Im laufe eines Scrum Sprint sind viele wiederkehrende Erreignisse;, Sprint Planung, Daily Scrum, Sprint Review, Sprint Retrospective. Diese ermöglichen den Teammitgliedern, Austausch, Inspektion und Adaptation mit der Art wie sie am Projekt arbeiten.
 
@@ -53,6 +53,8 @@ Wie viel Aufgabenlast ein Team tragen kann hängt davon ab, wie effizient das Te
 
 Die Geschwindigkeit eines Teams, kann anhand eines Balkendiagramms interpretiert werden. Dabei werden je nach Sprint, der vorgenommene und wirklich abgeschlossene Arbeitsaufwand anschaulich gegenüber gestellt. Der Arbeitsaufwand wird dabei an Story Points, Stunden,Geschäftswerten oder Anzahl an Aufgaben gemessen und angegeben.
 
+> Durchschnittliche realisierte Anzahl an Story Points pro Sprint = Team Geschwindigkeit 
+
 Zum Ende des Sprints, meist im Sprint Review, wird diese Darstellung ergänzt.
 
  ![Image](/kb/Scrum_Metrics/Team_Velocity_Scrum_Metrics_02.jpg)
@@ -62,7 +64,36 @@ Zum Ende des Sprints, meist im Sprint Review, wird diese Darstellung ergänzt.
 >    - der vorgenommene und wirklich abgeschlossene Arbeitsaufwand in Balken
 
 ### Team Kapazität
+Die Geschwindigkeit des Teams alleine ist über die Effektivität nicht aussagekräftig genug. Verfügbarkeit der Teammitglieder ist genauso effektiv. Beurlaubung und Krankheit sind zwei Beispiele wieso ein Teammitglied fehlen könnte. 
 
+Zur berechnung der maximalen Team Kapazität sind folgende Fragen zu stellen:
+- Wie lange dauert der Sprint?
+- Wie viele Teammitglieder gibt es?
+- Wie viele Stunden arbeitet ein Teammitglied?
+
+> Sprint Dauer x Arbeitsstunden pro Mitglied x Teammitglieder = Maximale Teamkapazität
+
+Um die wirkliche Team Kapazität zu ermitteln sind folgende Fragen zu stellen:
+- Sind während des Sprints Feiertage?
+- Wie viele Teammitglieder meldeten, dass sie fehlen werden? (Wegen Beurlaubung etc.)
+- und ähnliches.
+
+> Feiertaganzahl x Arbeitsstunden pro Mitglied x Teammitglieder = Feiertagsausgfall
+
+> Fehltage x Arbeitsstunden pro Mitglied x Teammitglieder = Allgemeinausfall
+
+Nach vorhersehbarem Stand, ist die Teamkapazität:[5]
+
+> Maximale Teamkapazität - (Feiertagsausfall + Allgemeinausfall) = Teamkapazität
+
+> Teamkapazität / Max. Teamkapazität = Teamkapazität in % 
+
+Um spontane Ausfälle von Teammitgliedern mit einzubeziehen ist es ratsam die Arbeitslast, in der Sprint Planung, um 10% niedriger zu halten.[2]
+
+### Focus Faktor
+Der Focus Faktor, definiert die Zeit, wo das Team konzentriert auf den Aufgaben arbeiten. Diese ist wie folgt zu berechnen:
+
+> Sprint Geschwindigkeit / Team Kapazität = Focus Faktor
 
 ### Daily Scrum
 
@@ -103,3 +134,7 @@ Sprint Review
 3- https://producttribe.com/project-management/agile-sdlc-guide
 
 4- https://t2informatik.de/wissen-kompakt/velocity-chart/
+
+5- https://www.youtube.com/watch?v=CZDNWTuR3i8&ab_channel=EvolvingAgilist
+
+6- https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams
