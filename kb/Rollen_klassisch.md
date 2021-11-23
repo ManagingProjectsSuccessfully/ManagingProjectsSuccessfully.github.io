@@ -42,16 +42,14 @@ Der [Projektleiter](Projektleiter.md) ist verantwortlich für das Ergebnis des P
 ## Projektteam:
 Das Projektteam besteht aus [Projektmitarbeiter](Projektmitarbeiter.md), die für die im Projekt nötigen Aufgaben qualifiziert sind und diese erfüllen können. [Spezialistenteams](Spezialistenteams.md). Dabei werden von verschieden Teammitgliedern [unterschiedliche Aufgaben](Aufgabenteilung.md) erfüllt. Dazu gehören unter anderem:
 
-* Der [Projektcontroller](Projektcontrolling.md)
-- Er ist für die Überwachung und Steuerung des Projektfortschritts verantwortlich. Zum Teil gehört es auch zu seinen Aufgaben die Kosten des Projektes zu überwachen.
-* Der Projektkaufmann
-- Der Projektkaufmann trägt die Verantwortung über die Finanzen des Projekts. Er ist sowohl für die Beschaffung der finanziellen Mittel aus als für die Überwachung der Kostenentwicklung zuständig.
-* Der [Qualitätsmanager](Qualitaetsmanagement.md)
-- Bei größeren Projekten ist es möglich einen Qualitätsmanager im Team zu benennen. Dieser nimmt eine neutrale Position innerhalb des Projektes ein und überwacht die Erreichung der zuvor [definierten Qualitätsziele](Qualitaetssicherung.md).
-[Projektteam_Kultur](Projektteam_Kultur.md) 
-[Kommunikation_Projektbeteiligte](Kommunikation_Projektbeteiligte.md)
+* Der [Projektcontroller](Projektcontrolling.md): Er ist für die Überwachung und Steuerung des Projektfortschritts verantwortlich. Zum Teil gehört es auch zu seinen Aufgaben die Kosten des Projektes zu überwachen.
+* Der Projektkaufmann: Der Projektkaufmann trägt die Verantwortung über die Finanzen des Projekts. Er ist sowohl für die Beschaffung der finanziellen Mittel aus als für die Überwachung der Kostenentwicklung zuständig.
+* Der [Qualitätsmanager](Qualitaetsmanagement.md): Bei größeren Projekten ist es möglich einen Qualitätsmanager im Team zu benennen. Dieser nimmt eine neutrale Position innerhalb des Projektes ein und überwacht die Erreichung der zuvor [definierten Qualitätsziele](Qualitaetssicherung.md) und trägt somit zur [Qualitätssicherung](Qualitätssicherung.md) bei.
 
-Je nach Größe des Projektes bzw. des Teams können diese Rollen auch von Projektleiter übernommen werden.[^1]
+Je nach Größe des Projektes bzw. des Teams können diese Rollen auch vom Projektleiter übernommen werden.[^1]
+
+Wichtig ist es dabei eine gute [Kultur](Projektteam_Kultur.md) der Zusammenarbeit im Team zu etablieren und durch [Kommunikation](Kommunikation_Projektbeteiligte.md) aufrecht zu erhalten.
+
 
 ## Experten:
 Innerhalb und außerhalb der Projektorganisation kann es zudem Experten geben, die selektiv in das Projekt miteingebunden werden und das Projekt mit ihrem Fachwissen unterstützen können.[^4]
@@ -59,14 +57,14 @@ Innerhalb und außerhalb der Projektorganisation kann es zudem Experten geben, d
 ## Sponsoren
 Sponsoren sind unternehmensinterne Befürworter des Projektes, die zumeist im oberen Management zu finden sind. Sie unterstützen seine Durchführung, indem sie Widerstände abbauen, sind jedoch nicht in den operativen Ablauf eingebunden.[^4]
 
-# Rollen im Multiprojektmanagement
+## Zusätzliche Rollen im Multiprojektmanagement
 Neben diesen Hauptrollen gibt es im Multiprojektmanagement Organisationseinheiten, die 
 Dazu zählen:
 
-## Das Projekt Management Office:
+### Das Projekt Management Office:
 Das [Projekt Management Office](Project_Management_Office.md) (PMO) unterstützt den Projektleiter bei seiner Arbeit. Allerdings sind die Aufgaben und Kompetenzen des PMO sehr heterogen verteilt. Sie können zudem die Rollen des Projektkaufmanns oder des Projektcontrollers übernehmen.[^1]
 
-## Der Multiprojektlenkungsausschuss
+### Der Multiprojektlenkungsausschuss
 Der Multiprojektlenkungsausschuss nimmt eine strategische Funktion innerhalb eines Unternehmens ein und entscheidet über die strategische Ausrichtung des Unternehmens, indem er bestimmt, welche Projekte im Unternehmen durchgeführt werden. Er ist der Projektauftragsgeber auf der Gesamtunternehmensebene.[^1]
 
 # Festlegung der Projektrollen
