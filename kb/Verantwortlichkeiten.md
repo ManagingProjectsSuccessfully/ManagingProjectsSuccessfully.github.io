@@ -31,7 +31,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Verantwortlichkeiten/Grundbeziehungen der Verantwortung.jpg)
+![Beispielabbildung](Verantwortlichkeiten/test-file.jpg)
 
 *lustiges Testbild*
 
