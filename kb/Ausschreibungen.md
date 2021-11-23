@@ -1,14 +1,11 @@
 ---
 title: Ausschreibungen
-tags: agil klassisch
+tags: klassisch Ausschreibung Ausschreibungen Vergabeverordnung Vergaberecht
 author: Lars428
-anrechnung: k oder a
+anrechnung: k
 ---
 
 "Unter einer Ausschreibung versteht man im europäischen Rechtsraum die öffentliche Bekanntmachung von offenen Aufträgen mit der Aufforderung an interessierte Unternehmen, ein passendes Angebot an die verantwortlichen Stellen abzugeben." [^1]
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
