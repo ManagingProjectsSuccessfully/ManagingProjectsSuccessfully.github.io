@@ -55,8 +55,7 @@ Zuletzt wird der Fertigstellungswert (Earned Value = EV) betrachtet, welcher bei
 Dieser gibt eine Kennzahl an, die den Wert der Projektarbeit darstellt und wird wie folgt berechnet: 
 "EV = Istmenge x Plankosten". [^4]
 
-
-![EVA Graph](https://user-images.githubusercontent.com/93198016/143000649-99fad025-13b4-47ff-a430-0e51ea7d5b02.jpg)
+![Earned_Value_Analyse](Earned_Value_Analyse/EVA_Graph.jpg)
 
 *Graphische Darstellung der Earned Value Analyse* [^3]
 
