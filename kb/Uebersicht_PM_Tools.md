@@ -32,29 +32,27 @@ Die Projektplanung ist ein Kernbereich des Projektmanagements. Wichtige Features
 
 ## Kommunikation und Zusammenarbeit
 
-Immer wichtiger und auch beliebter werden Tools und Softwarelösungen im Bereich der Kommunikation und für die Zusammenarbeit des Projektteams. Gerade in agilen Projekten wird Zusammenarbeit
-deutlich gegenüber Prozessen hervorgehoben. Es ist wichtig unkomplizierte
-Kommunikationskanäle schaffen
+Immer wichtiger und auch beliebter werden Tools und Softwarelösungen im Bereich der Kommunikation und für die Zusammenarbeit des Projektteams. Gerade in agilen Projekten wird Zusammenarbeit deutlich gegenüber Prozessen hervorgehoben. Es ist wichtig unkomplizierte Kommunikationskanäle schaffen
 
+## Dokumentenmanagement
+
+In großen Projekten lohnt sich eine eigene Plattform zum Wissenstransfer, und auch eigene oder externe Cloud Speicher können mit Projektmanagement-Tools verknüpft werden.
+Weiterhin können Suchfunktionen und Archivierungsmöglichkeiten sinnvoll sein, um auf alte Dokumente zugreifen zu können.
 
 ![meistgenutzte PMTool Funktionen](https://user-images.githubusercontent.com/92924821/143053169-32e9cb99-74cf-41f3-bef9-a906c48a4f3d.png)
 *Studie zu den meistgenutzten Funktionen von Projektmanagement-Software für kleine und mittlere Unternhemen*
 
+
+
 # Vorteile einer Projektmanagement-Software:
 * Die Organisation des Projektes ist zentralisiert möglich
-* Es gibt einen Gesamtüberblick über das Projekt in Echtzeit zu den wichtigsten Kennzahlen
-(Stichwort magisches Dreieck aus Leistung, Kosten und Terminen.
-* Durch die Verwendung einer Software hat man eine hohe Zeitersparnis während der
-Projektdurchführung. Gerade wiederkehrende Aufgaben wie das Projektcontrolling werden
-vereinfacht.
+* Liefert einen Gesamtblick über das Projekt mit den wichtigsten Informationen
+* Vereinfacht viele wiederkehrende Aufgaben und kann so Zeit sparen
 * Das ergebnisorientierte Arbeiten wird durch die Transparenz der Aufgaben verbessert.
 * Unternehmensziele werden durch Projekte schneller erreicht
 
-
-
-
 # Nachteile durch die Unterstützung mit Projektmanagement Tools
-* Zeitintesive Einarbeitung in neue Software
+* Zeitintensive Einarbeitung in neue Software
 * Das Tool muss vom Team akzeptiert werden
 * Eine Projektmanagment Software kostet in den meisten Fällen Geld
 
