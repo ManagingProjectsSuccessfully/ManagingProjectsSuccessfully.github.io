@@ -5,15 +5,22 @@ author: leusl8
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Kanban_Boards um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Effizienter und produktiver arbeiten durch Kanban Boards. Das Tool zur Abbildung und Visualisierung des Workflows.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Was ist ein Kanban Board ?
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Das Kanban Board ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus gibt und die Kommunikation im Team erleichtert. 
+Außerdem auch ein Schlüsselelement der Kanban Methode, die zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses beiträgt. 
+Die Visualisierung der Arbeit auf einem Kanban Board steigert die Produktivität und erleichtert das Chaos eines Prozesses.
+
+## Verschiedene Kanbanboards
+
+Durch die beliebtheit der Kanban Boards findet man sie in vielen Industrien.
+Häufig um Geschäftsprozesse abzubilden, jedoch auch zur förderung der Teamwork oder dem organisieren privater Aufgaben.
+Sie unterscheiden sich in ihrer struktur durch ihre zunehmenden Spalten und Reihen, die Komplexität aufzeigen.
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -36,20 +43,29 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
+# Die Geschichte des Kanban Boards
 
-# Aspekt 1
+Kanban ist eine Arbeitsmanagement-Methode, die aus dem Toyota Production System (TPS) entstanden ist. 
+Ende  der 1940er führte Toyota die „Just-in-Time“-Produktion ein. Der Ansatz basiert auf einem Pull-System. Die Produktion wird dabei an der Kundennachfrage 
+ausgerichtet und nicht wie bei Push-Systemen üblich auf bestimmte Mengen festgesetzt, die dann auf den Markt kommen.
+Dieses einzigartige Produktionssystem legte den Grundstein für eine Lean-Produktion. 
+Dessen Ziel ist die Minimierung von Aktivitäten, die zu Verlusten führen, ohne die Produktivität zu beeinträchtigen um so mehr Wert für die Kunden zu schaffen 
+ohne Zusatzkosten zu benötigen.
+Kanban erfordert keine bestimmte Konfiguration und kann über einen vorhandenen Workflow oder Prozess gelegt werden, um Probleme zu erkennen. 
+So kann Kanban in jedem Unternehmen leicht eingeführt werden, weil für den Einstieg keine umfassenden Änderungen nötig sind.
+Kanban
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
+# Wie funktioniert ein Kanban Board ?
+Kanban Boards funktionieren 
 * Verschiedene Teile eines Themas 
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Kanban_Boards/test-file.jpg)
+![](Kanban_Boards/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Hauptvorteile der verwendung von Kanbanboards
 
 * das
 * hier 
@@ -58,29 +74,29 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Punkteliste
   - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Wie ist ein Kanban Board aufgebaut
 
 So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
+|   To Do       |  In Progress  |   Done
+| ------------- | ------------- | -----------
+| Content Cell  | Content Cell  | 
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## SCHRITT 1
+## SCHRITT 2
+## SCHRITT 3
+## SCHRITT 4
+## SCHRITT 5
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+# Prinzipien
 
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
+1. Visualisieren ( To Do, In Progress, Done )[https://www.personalkanban.com/pkandyou]
+2. Begrenzung (WorkInProgress)
+3. Verbesserung 
 4. eine
 7. nummerierte liste
    1. und hier eine Ebene tiefer
