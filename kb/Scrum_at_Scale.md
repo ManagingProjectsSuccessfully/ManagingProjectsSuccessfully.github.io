@@ -7,7 +7,7 @@ anrechnung: a
 
 
 Scrum at Scale (oder Scrum@Scale) ist ein Framework zur Skalierung von Scrum. Es wurde von Jeff Sutherland im Jahr 2014 erfunden. Der Autor war einer der Schöpfer von Scrum und Unterzeichner des berühmten Agilen Manifests.
-Scrum wurde ursprünglich entwickelt, um Teams bei der Bereitstellung von Produkten in einer komplexen Umgebung zu unterstützen. Scrum at Scale zielt darauf ab, mehreren Teams zu helfen, Produkte gemeinsam in derselben komplexen Umgebung zu liefern. Nach dem Scrum@Scale-Konzept ist jeder Teil eines austauschbaren Scrum-Teams. Je nach Zielsetzung schließen sich Netzwerke von Scrum-Teams zusammen, um ein Ökosystem zu bilden. [^1]
+Scrum wurde ursprünglich entwickelt, um Teams bei der Bereitstellung von Produkten in einer komplexen Umgebung zu unterstützen. Scrum at Scale zielt darauf ab, mehreren Teams zu helfen, Produkte gemeinsam in derselben komplexen Umgebung zu liefern. Nach dem Scrum@Scale-Konzept ist jeder Teil eines austauschbaren Scrum-Teams. Je nach Zielsetzung schließen sich Netzwerke von Scrum-Teams zusammen, um ein Ökosystem zu bilden.[^1]
 
 
 # Konzept
@@ -67,7 +67,7 @@ Bei Anwendung von Scrum@Scale, sollte man sich vor der Skalierung auf Scrum-Prak
 
 # Quellen
 
-[^1] [How to scale Scrum across a company with the help of Scrum@Scale](https://hygger.io/guides/agile/agile-at-scale/scrumscale/)
+[^1]:[How to scale Scrum across a company with the help of Scrum@Scale](https://hygger.io/guides/agile/agile-at-scale/scrumscale/)
 [^] [Scrum@Scale – Ein echtes “Scrum of Scrums” Framework](https://digitaleneuordnung.de/blog/scrum-at-scale/)
 [^] [The Scrum@Scale Guide] (https://www.scruminc.com/wp-content/uploads/2014/07/Scrum-at-Scale-A-Modular-Approach.pdf)
 [^] [Scrum At Scale – die wichtigsten Infos zum agilen Skalierungsansatz](https://www.palladio-consulting.de/scrum-at-scale/)
