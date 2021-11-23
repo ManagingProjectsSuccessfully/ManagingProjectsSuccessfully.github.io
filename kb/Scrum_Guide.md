@@ -27,6 +27,7 @@ miteinander verbinden[^3].
 ## Konkrete Inhalte des Scrum-Guides
 
 Laut dem offiziellen Scrum_Guide aus dem Jahr 2020 enthält der Scrum_Guide folgende Inhalte:
+
 *Scrum-Definition 
 
 *	Scrum-Theorie
