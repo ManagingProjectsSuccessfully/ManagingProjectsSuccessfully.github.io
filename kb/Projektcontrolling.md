@@ -35,6 +35,7 @@ Im Laufe des Projekts müssen alle drei Punkte des [Projektdreiecks](Magisches_D
 * Qualität
 
 ![Projekt Controlling](Projektcontrolling/projectcontrolling.jpg)
+
 *Projektcontrolling.*[^6]
 
 ## Methoden
