@@ -37,18 +37,29 @@ Diese haben dann Einfluss auf:[2]
 Schlüssel Performance Indikatoren (KPI), dienen zur Evaluation des Unternehmenerfolgs bezogen auf Unternehmensziele.[1] Scrum Metrics können nicht alleinstehend, nicht wie KPI's, über den Kundennutzen (Customer Value) oder ob das Team das richtige Produkt geliefert hat aussagen. Scrum Metrics werden zur Team-internen Effektivitätsanalyse angewendet.[2]
 
 
-# Scrum Sprint und welche Metrics zu untersuchen sind
+# Mögliche Scrum Metrics im Scrum Sprint
 
-Im laufe eines Scrum sind viele wiederkehrende Erreignisse; der Sprint, Sprint Planung, Daily Scrum, Sprint Review, Sprint Retrospective. Diese ermöglichen den Teammitgliedern, Austausch, Inspektion und Adaptation mit der Art wie sie am Projekt arbeiten.
+Im laufe eines Scrum Sprint sind viele wiederkehrende Erreignisse;, Sprint Planung, Daily Scrum, Sprint Review, Sprint Retrospective. Diese ermöglichen den Teammitgliedern, Austausch, Inspektion und Adaptation mit der Art wie sie am Projekt arbeiten.
 
-FOTO SPRINT
+![Image](/kb/Scrum_Metrics/Scrum_Sprint_Scrum_Metrics_01.jpg)
 
-### Sprint Planung (Sprint Planning)
+## Sprint Planung (Sprint Planning)
+Während der Sprint Planung werden Große Projektziele auf detailierte kleinere Aufgaben runtergebrochen. Dadurch werden Sprint Ziele, Ziele die während eines Sprints erreicht werden sollen, nach priorität festgelegt (User Storys). Es ist daher sinvoll Scrum Metrics als Grundlage der Zielsetzungen einzusetzen.
+
+Wie viel Aufgabenlast ein Team tragen kann hängt davon ab, wie effizient das Team ihre Zeit verwenden kann, wie schnell das Team arbeitet oder welche Kapazitat das Team besitzt.
 
 
 ### Team Geschwindigkeit (Team Velocity)
 
-### Team Kapazität (Team Capacity)
+Die Geschwindigkeit eines Teams, kann anhand eines Balkendiagramms interpretiert werden. Dabei werden je nach Sprint, der vorgenommene und wirklich abgeschlossene Arbeitsaufwand anschaulich gegenüber gestellt. Der Arbeitsaufwand wird dabei an Story Points, Stunden,Geschäftswerten oder Anzahl an Aufgaben gemessen und angegeben.
+
+Zum Ende des Sprints, meist im Sprint Review, wird diese Darstellung ergänzt.
+
+FOTO BALKENDIAGRAMM
+
+
+### Team Kapazität
+
 
 ### Daily Scrum
 
@@ -85,3 +96,7 @@ Sprint Review
 1- https://www.soldevelo.com/blog/7-effective-metrics-for-successful-scrum-projects-delivery/
 
 2- https://www.atlassian.com/agile/scrum/scrum-metrics
+
+3- https://producttribe.com/project-management/agile-sdlc-guide
+
+4- https://t2informatik.de/wissen-kompakt/velocity-chart/
