@@ -71,7 +71,7 @@ Die daraus [resultierenden Ergebnisse](Erfolgsmessung.md) dienen der nachträgli
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Russell Ackoff, 1997, Systems, Messes and Interactive Planning, The Social Engagement of Social Science, a Tavistock Anthology, Volume 3](https://www.degruyter.com/document/doi/10.9783/9781512819069-021/html)
 
 # Quellen
 
