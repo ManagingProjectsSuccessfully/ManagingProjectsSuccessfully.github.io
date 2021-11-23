@@ -25,9 +25,9 @@ Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist
 
  *  Teams arbeiten regulär nach Scrum mit einem Product Owner (PO), einem Scrum Master und einer optimalen Teamgröße bis zu 5 Entwickler.
  * Ab zwei Teams synchronisiert ein Scrum of Scrums (SoS) die Arbeit der angeschlossenen Scrum-Teams, optimale Größe eines SoS sind 4 bis 5 Teams.
-*  Ein Scrum of Scrum of Scrums (SoSoS) synchronisiert die Arbeit mehrerer Scrum of Scrums (SoS). 
-
-![Beispielabbildung](Scrum_at_Scale/Bild5.png)
+*  Ein Scrum of Scrum of Scrums (SoSoS) synchronisiert die Arbeit mehrerer Scrum of Scrum (SoS). 
+<br>
+![Beispielabbildung](Scrum_at_Scale/biild1.png)
 
 Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen adaptiven Systemen. Bei Scrum@Scale sind alle Teil eines austauschbaren Scrum-Teams. Je nach den vorgegebenen Zielen werden mehrere Scrum-Teamnetzwerke zu einem ganzen Ökosystem zusammengefasst. Scrum@Scale ist für die Skalierung von Scrum in Großunternehmen konzipiert.
 Scrum@Scale basiert auf drei grundlegenden Konzepten:
@@ -35,7 +35,8 @@ Scrum@Scale basiert auf drei grundlegenden Konzepten:
 *	Kleine Teams
 * Skalierung im gesamten Unternehmen
 * Einrichtung einer Minimum Viable Bureaucracy
-
+<br>
+![Beispielabbildung](Scrum_at_Scale/Bild5.png)
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
