@@ -53,8 +53,8 @@ akzeptieren.
 
 So kann man eine Tabelle erstellen:
 
-|               | Forming | Storming      | Norming      | Performing    |
-| ------------- | ------------- |
+|         *      | Forming | Storming      | Norming      | Performing    |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Allgemeine Feststellungen| Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende| Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen | Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
 | Content Cell  | Content Cell  |
 
