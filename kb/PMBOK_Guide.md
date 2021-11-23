@@ -4,12 +4,12 @@ tags: klassisch
 author: FerYilm
 anrechnung: k
 ---
-Der erstmals 1996 veröffentlichte PMBOK- Guide (A Guide to the Project Management Body of Knowledge) gilt als das zentrale Nachschlagwerk des [PMI](PMI_Institution.md) und ist ein anerkannter Standard des Projektmanagements. Neben [PRINCE2](PRINCE2.md) gehört der PMBOK Guide zu den bekanntesten klassischen Methoden im [Projektmanagement](Projektmanagement.md).
-Die vom PMI angebotene PMP [Zertifizierung](Zertifizierungen.md) baut u.a. auf dem Guide auf und gilt daher als wichtiges Referenzdokument [^1][^2].
+Der erstmals 1996 veröffentlichte PMBOK- Guide (A Guide to the Project Management Body of Knowledge) gilt als das zentrale Nachschlagwerk des [PMI](PMI_Institution.md) und ist ein anerkannter Standard des [Projektmanagements](Projektmanagement.md). Der PMBOK Guide gehört wie [PRINCE2](PRINCE2.md) zu den bekanntesten Ansätzen im [Projektmanagement](Projektmanagement.md).
+Die vom PMI angebotene PMP [Zertifizierung](Zertifizierungen.md) baut u. a. auf dem Guide auf und gilt daher als wichtiges Referenzdokument [^1][^2].
 
 # Aufbau des aktuellen PMBOK-Guides
 Das Handbuch wird inhaltlich in den Standard und einen Leitfaden für das Projektmanagement gegliedert. Mit der 7. Edition wurden unter Berücksichtigung der technologischen und wirtschaftlichen Entwicklungen grundlegende Änderungen vorgenommen. Diese sollen aktuelle Herausforderungen im Projektmanagement besser widerspiegeln und Projektmanagern verbesserte Handlungsmöglichkeiten auf Marktveränderungen erlauben.
-Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer prozessorientierten Methodik, sondern auf Werten und Prinzipien. Zudem wurden die *Knowledge Areas* und die *Prozessgruppen* durch das Wertschöpfungssystem, die Grundsätze und Projekt-Leistungsbereiche ersetzt [^3].
+Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer prozessorientierten Methodik, sondern auf Werten und Prinzipien. Zudem wurden die *Knowledge Areas* und die *Prozessgruppen* durch das sog. System für Wertlieferung, die Grundsätze und Projekt-Leistungsbereiche ersetzt [^3].
 
 ![Abbildung](PMBOK_Guide/foto.jpg)
 
@@ -32,14 +32,14 @@ _Die Themenbereiche der aktuellen Edition_ [^5]
 
 ## System for Value Delivery
 
-Verschiedene Elemente wie Portfolios, Programme und Produkte können, wenn sie in einem System kombiniert werden, dazu beitragen, je nach Organisationsstrategie einen bestimmten Wert zu schaffen. Damit die Übereinstimmung mit der Strategie und eine Anpassung an das Umfeld gewährleistet sind, sollte zwischen den beteiligten Elementen ein regelmäßiger Informationsaustausch stattfinden. Das Governance System unterstützt dabei das Wertschöpfungssystem und stellt einen Rahmen für verschiedene Funktionen wie Aufsicht und Kontrolle dar. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter](Projektmitarbeiter.md) betont, die unabhängig vom Führungsansatz ist. Entscheidend für das Projektergebnis ist daher die regelmäßige Kooperation zwischen Projektmitgliedern und Stakeholdern. Jedes Projekt wird zudem von seinem internen als auch vom externen Umfeld günstig, ungünstig oder neutral beeinflusst [^6].
+Verschiedene Elemente wie Portfolios, Programme und Produkte können, wenn sie in einem System kombiniert werden, dazu beitragen, je nach Organisationsstrategie einen bestimmten Wert zu schaffen. Damit die Übereinstimmung mit der Strategie und eine Anpassung an das interne und externe Umfeld gewährleistet sind, sollte zwischen den beteiligten Elementen ein regelmäßiger Informationsaustausch stattfinden. Das Governance System unterstützt dabei das System für Wertlieferung und stellt einen Rahmen für verschiedene Funktionen wie Aufsicht und Kontrolle dar. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter](Projektmitarbeiter.md) betont, die unabhängig vom Führungsstil ist. Der PMBOK Guide schreibt den Anwenden zudem keinen speziellen Führungsansatz vor. Entscheidend für das Projektergebnis ist daher die regelmäßige Kooperation zwischen Projektmitgliedern und Stakeholdern [^6].
 
 ![Abbildung](PMBOK_Guide/system.jpg)
 
-*Beispiel für ein Wertschöpfungssystem* [^6]
+*Beispiel für das Wertlieferungssystem* [^6]
 
 ## Project Management Principles 
-Die Grundsätze wurden von Projektspezialisten verschiedener kultureller und beruflicher Hintergründe erstellt. Sie ergänzen den *Code of Ethics and Professional Conduct* des PMI und sind nicht präskritpiv. Projektteams sollen sich lediglich an den Grundsätzen orientieren. Die Prinzipien sind konsistent und können sich untereinander oder mit allgemeinen Managementprinzipien überschneiden [^7].
+Die folgenden Grundsätze wurden von Projektspezialisten verschiedener kultureller und beruflicher Hintergründe erarbeitet. Sie ergänzen den *Code of Ethics and Professional Conduct* des [PMI](PMI_Institution.md) und sind nicht präskritpiv. Projektteams sollen sich lediglich an den Grundsätzen orientieren. Die Prinzipien sind konsistent und können sich untereinander oder mit anderen Managementprinzipien überschneiden [^7].
 
 * Stewardship
 * Team
@@ -59,9 +59,9 @@ Die Grundsätze wurden von Projektspezialisten verschiedener kultureller und ber
 
 ## Project Performance Domains
 
-Alle zusammenhängenden Aktivitäten, die zum Erfolg eines Projekts beitragen, werden zu den acht Project Performance Domain gezählt. Aufgrund der gegenseitigen Abhängigkeit stellen sie ein integriertes System dar und sind durch einen simultanen Ablauf gekennzeichnet. Der genaue Zusammenhang der Bereiche kann je nach Projekt variieren, ist jedoch grundsätzlich immer vorhanden. Eine isolierte Betrachtung der Bereiche ist deshalb nicht vorgesehen. Abhängig von der Organisation, des Projektteams oder der Ziele setzen sich spezielle Aufgaben zusammen.
+Alle Aktivitäten, die zusammenhängen und zum Erfolg eines Projekts beitragen, werden zu den acht Project Performance Domains gezählt. Aufgrund der gegenseitigen Abhängigkeit stellen sie ein integriertes System dar und sind durch einen simultanen Ablauf gekennzeichnet. Der Zusammenhang der Bereiche kann je nach Projekt Unterschiede aufweisen, ist jedoch immer vorhanden. Eine isolierte Betrachtung der Domains ist deshalb nicht vorgesehen. Abhängig von der Organisation, des Projektteams oder der Ziele setzen sich für die Bereiche, die nachfolgend aufgelistet sind, spezielle Aufgaben zusammen.
 
-*	Stakeholders
+*	Stakeholder
 *	Team
 *	Development Approach and Life Cycle
 *	Planning
@@ -72,7 +72,7 @@ Alle zusammenhängenden Aktivitäten, die zum Erfolg eines Projekts beitragen, w
 
 ## Tailoring 
 
-Aufgrund der besonderen Beschaffenheit jedes Projekts sind keine einheitlichen Ansätze möglich. Das Tailoring passt daher unter Berücksichtigung des Projektlebenszyklus, der erwünschten Ergebnisse und der beteiligten Mitarbeiter den Ansatz und die Prozesse an das jeweilige Projekt an. Die Project Management Principles, die Werte und Kultur des Unternehmens bilden dabei die Basis für den Tailoring- Vorgang [^9].
+Aufgrund der individuellen Zusammensetzung jedes Projekts sind keine einheitlichen Ansätze möglich. Das Tailoring passt daher unter Berücksichtigung des Projektlebenszyklus, der erwünschten Ergebnisse und der beteiligten Mitarbeiter den Ansatz und die Prozesse an das jeweilige Projekt an. Die Project Management Principles, die Werte und Kultur des Unternehmens bilden dabei die Basis für den Tailoring- Vorgang [^9].
 
 
 # Siehe auch
