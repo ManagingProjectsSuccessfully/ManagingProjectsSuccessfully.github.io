@@ -29,6 +29,7 @@ Eine zentrale Rolle für den Erfolg des MVP spielt die Einbeziehung des Kunden i
 ## Zielgerichtetes Management
 Oft konzentrieren sich Produkt- oder [Projektmanager](Projektmanager.md) so stark auf die Veröffentlichung neuer Features, sodass die Optimierung der wertvollsten Ressource, der Zeit, scheitert. Das MVP soll ermöglichen, mit möglichst wenig Aufwand, einem angemessenen Budget und schonenden Ressourcen, einen bestimmten Wert zu liefern. Wichtig dabei ist die Auswahl der wesentlichen Handlungen, die eine tatsächliche Auswirkungen haben. [^3][^6]
 
+## Risikominimierung
 
 ![Darstellung](Minimum_Viable_Product/MVP_Darstellung.png)
 
