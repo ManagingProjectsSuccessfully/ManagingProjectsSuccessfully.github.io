@@ -54,32 +54,35 @@ Letztere können, mit Blick auf den Gruppenzusammenhalt und damit den Projekterf
 
 Durch Kennenlernspiele können diese entscheidenden Aspekte in lockerer Atmosphäre erzielt werden.
 
-# Beispiele
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
 ![Beispielabbildung](Kennenlernspiele/test-file.jpg)
 
 *lustiges Testbild*
 
-## Kennenlernspiele vor Ort
+# Beispiele
 
-So kann man eine Tabelle erstellen:
+Je nach Kontext, Umfang und geplanter Dauer des Projekts, der Größe des Teams, sprachlicher und technologischer Gegebenheiten, sowie weiterer Einflussfaktoren kommen unterschiedliche Kennenlernspiele in Frage.
+Einige davon erfordern das Zusammenkommen vor Ort, während andere auch im Home Office durchführbar sind, siehe Tabelle.
 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+## Kennenlernspiele vor Ort
+
+Die meisten Kennenlernspiele sind solche, die vor Ort ...
+
+Beim Spiel Fadennetz bilden die Teilnehmer sitzend einen Kreis. Das Ende des Fadens haltend, wirft der Spielleiter einen Wollknäuel einer Person zu, welche etwas über sich erzählt, den Faden um eine Hand legt und den Knäuel weiterwirft. Im Spielverlauf bildet sich ein Netz aus dem Faden und jeder Teilnehmer stellt sich kurz vor, sodass ein oberflächliches Kennenlernen erfolgt[^7].
+
+Einen tiefergehenden Austausch ermöglicht das Spiel Gerüchteküche. Dabei erzählt jeder Teilnehmer einem Mitspieler eine kleine Geschichte über sich, woraufhin dieser sie dem nächsten Partner wiedergibt. Dadurch sind alle Beteiligten gefordert gut zuzuhören und es entstehen Anknüpfpunkte für weitere Gespräche[^8].
+
 ## Kennenlernspiele im Home Office
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Bei der virtuellen Variante des Spiels „Alle, die…“ schalten die Mitspieler ihre Kameras ein, kleben sie mit einem farbigen Klebezettel ab und aktivieren die Gallerie-Ansicht. Der Moderator stellt Fragen, die mit „Alle, die …“ beginnen, z.B. „Alle, die heute schon sportlich waren.“ oder „Alle, die nicht ohne Kaffee können.“ Jene Teammitglieder, die sich dazu zählen, decken die Kamera ab. Schnell wird das Verschaffen eines ersten Eindrucks sowie die Identifikation von Gemeinsamkeiten, Unterschieden sowie dem Ausmaß an Diversität des Teams möglich[^9].
 
-# Aspekt n
+Das Spiel Schlüsselbund gibt den Teilnehmenden die Gelegenheit sich über ihre Wohnsituation, Freizeitgestaltung, Fortbewegung und weitere Aspekte ihres Alltags auszutauschen. Durch das Beschreiben der einzelnen Schlüssel kommen verschiedenste Informationen über deren Besitzer gebündelt zu Tage, sodass ein facettenreiches Kennenlernen der Teammitglieder gelingt. Alternativ kann das Spiel mit sonstigen persönlichen Gegenständen durchgeführt werden[^10].
+
+# Nummerierte Liste
 
 1. das
 2. hier 
@@ -106,7 +109,7 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 [^4]: https://psycnet.apa.org/fulltext/1965-12187-001.pdf?auth_token=ab14c987a05299f8f0fb073cdffd37cec38e61f5&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F1965-12187-001, S.396
 [^5]: https://link.springer.com/content/pdf/10.1007%2F978-3-658-12008-5.pdf
 [^6]: https://link.springer.com/content/pdf/10.1007%2F978-3-662-56013-6.pdf, S.215…….die haben es aus: Boos, M., Hardwig, T., & Riethmüller, M. (2017). Führung und Zusammenarbeit in verteilten Teams. Göttingen: Hogrefe.“ (komme ich nicht dran)
-[^7]:
-[^8]:
-[^9]:
-[^10]:
+[^7]: https://karrierebibel.de/teambuilding/
+[^8]: https://www.factro.de/blog/teambuilding-spiele/
+[^9]: https://www.workshop-spiele.de/schnelles-kennenlernspiel-fuer-video-meetings-und-online-seminare/
+[^10]: https://www.xing.com/communities/posts/kennenlern-uebung-schluesselbund-1002838141
