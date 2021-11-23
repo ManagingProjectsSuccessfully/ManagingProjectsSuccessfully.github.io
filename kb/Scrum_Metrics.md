@@ -109,6 +109,7 @@ Scrum Daily
 # Weiterführende Literatur
 
 Burndown Chart -> https://www.visual-paradigm.com/scrum/scrum-burndown-chart/
+                  https://www.microtool.de/wissen-online/was-ist-ein-burn-down-chart/
 Team Kapazität -> https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams
 
 
