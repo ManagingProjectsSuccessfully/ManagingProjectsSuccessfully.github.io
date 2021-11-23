@@ -8,7 +8,7 @@ anrechnung: k
 # Eisenhower Matrix
 
 
-Das Eisenhower Prinzip (auch genannt Eisenhower Methode, Eisenhower Matrix) kann dabei helfen, anstehende Aufgaben in Kategorien einzuteilen und diese zu priorisieren. Dabei wird jede Aufgabe auf Dringlichkeit und Wichtigkeit überprüft. Dadurch sollen die wichtigsten Aufgaben zuerst erledigt werden und die unwichtigen aussortiert. Eine Aufgabe kann wichtig/nicht wichtig sowie dringend/nicht dringend sein. Insgesamt ergeben sich vier Kombinationsmöglichkeiten, die in einer Matrix mit vier Quadranten sichtbar gemacht werden können. Jedem Aufgabentyp wird eine bestimmte Art der Bearbeitung zugeordnet.[1]
+Das Eisenhower Prinzip (auch genannt Eisenhower Methode, Eisenhower Matrix) kann dabei helfen, anstehende Aufgaben in Kategorien einzuteilen und diese zu priorisieren. Dabei wird jede Aufgabe auf Dringlichkeit und Wichtigkeit überprüft. Dadurch sollen die wichtigsten Aufgaben zuerst erledigt werden und die unwichtigen aussortiert. Eine Aufgabe kann wichtig/nicht wichtig sowie dringend/nicht dringend sein. Insgesamt ergeben sich vier Kombinationsmöglichkeiten, die in einer Matrix mit vier Quadranten sichtbar gemacht werden können. Jedem Aufgabentyp wird eine bestimmte Art der Bearbeitung zugeordnet. [^1]
 
 # Inhaltsverzeichnis
 
@@ -48,10 +48,10 @@ Kritiker kamen zu der Erkenntnis, dass wichtige Aufgaben nur selten dringend sei
 Diese Betrachtungsweise stellt das gesamte Prinzip infrage.
 
 # Fazit
-Die Lösung aller Zeitmanagementprobleme ist das Eisenhower Prinzip wohl nicht. Die Methode kann jedoch hilfreich sein, Prioritäten besser zu setzen.
+Die Methode ist hilfreich, Prioritäten besser zu setzen.
 Im besten Fall bearbeitet jeder Mensch überwiegend Aufgaben, die als dringlich und wichtig eingestuft werden können. Wird die Herangehensweise der Matrix effektiv umgesetzt, sollte sich also ein Zeitgewinn deutlich erkennen lassen. Die gewonnene Zeit kann wiederum für andere Dinge genutzt werden.
 
 # Quellenverzeichnis
 
-[^1]: [Definition Eisenhower-Methode (Wikipedia)](https://de.wikipedia.org/wiki/Eisenhower-Prinzip#cite_note-1)
+[^1]: [Definition Eisenhower-Methode (Wikipedia)](https://de.wikipedia.org/wiki/Eisenhower-Prinzip#cite_note-1)   
 [^2]: 
