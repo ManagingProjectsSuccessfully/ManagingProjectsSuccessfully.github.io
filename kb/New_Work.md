@@ -61,7 +61,7 @@ Um den Mitarbeitenden eine erfüllende Beschäftigung zu bieten, orientieren sic
 * <b> [Vision](Projekt_Vision.md) </b>
   
   Die verinnerlichte und verbildlichte Zukunftsvorstellung, auf die sich das Unternehmen bezieht, ist was eine Vision ausmacht.[^1] Die Vision dient dem Unternehmen als Wegweiser und Bild der Zukunft welches die Mitarbeiter leiten und motivieren soll. Somit ist die Vision dem Unterpunkt "Sinn" der New Work Charta zuzuordnen.[^1][^3]
-* <b> [Retrospektive](Retrospektive.md) </b>
+* <b> [Retrospektive](Retrospective.md) </b>
 
   Um Arbeitsprozesse und Ergebnisse zu reflektieren werden, sogenannte, Retrospektiven veranstaltet. Das Ziel dieser Teammeetings besteht darin, Lerneffekte aus Arbeitsprozessen abzuleiten und als Team und Individuum dazuzulernen. Durch den kontinuierlichen Lerneffekt ist dieses Projektmanagementkonzept dem Punkt "Entwicklung" der New Work Charta zuzuschreiben.[^1][^3]
 
