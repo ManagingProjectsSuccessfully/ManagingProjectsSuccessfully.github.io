@@ -20,11 +20,8 @@ Ein Minimum Viable Product ist die erste Version eines Produktes beziehungsweise
 ## Startups
 Der Begriff MVP wurde 2001 von Frank Robinson in die Produktentwicklung eingeführt. Erst nach Veröffentlichung der Arbeiten von Eric Ries und Steve Black gelang das Konzept des MVP weltweite Bekanntheit und betonte vor allem für das Projektmanagement im Lean [Startup](Projektmanagement_in_Startups.md) die Bedeutsamkeit des Lernens während dem Produktentwicklungsprozess. [^2][^3][^4]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+## Besonderer Einfluss der Anwender
+Eine zentrale Rolle für den Erfolg des MVP spielt die Einbeziehung des Kunden in der frühen Entwicklungsphase. Dadurch ist der Anbieter von Anfang bis zum Ende des Prozesses in der Lage Feedback, beispielsweise durch Erstellung von [User Storys](User_Story.md), einzuholen. Diese Informationen sollen helfen die gewünschten Veränderungen im Endprodukt zu realisieren. [^1][^5] 
 
 
 ![Darstellung](Minimum_Viable_Product/MVP_Darstellung.png)
@@ -95,3 +92,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [Minimum Viable Product: A maximally misunderstood idea (slalom)](https://www.slalom.com/insights/mvp-maximally-misunderstood-term)
 [^3]: [Minimum Viable Product (MVP) (productboard)](https://www.productboard.com/glossary/minimum-viable-product-mvp/)
 [^4]: [Definition MVP – Herkunft des Begriffes (digitaleneuordnung)](https://digitaleneuordnung.de/blog/mvp-minimum-viable-product/)
+[^5]: [Minimum Viable Product – ein Blog geht live (Scrum@Sciosoft)](https://scrumatsciosoft.de/minimum-viable-product/)
