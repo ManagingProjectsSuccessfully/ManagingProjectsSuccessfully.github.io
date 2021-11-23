@@ -5,7 +5,7 @@ author: at33fau
 anrechnung: k 
 ---
 
-Tagtäglich kommt man mehrmals indirekt oder direkt mit Projekten oder deren Ergebnissen in Kontakt. Doch was definiert ein Projekt genau und was sind die Gründe für das Gelingen bzw. das Scheitern eines Projekts? Im Folgenden soll, anhand mehrerer Beispiele, geklärt werden, ab wann ein Projekt gescheitert ist. 
+Tagtäglich kommt man mehrmals indirekt oder direkt mit Projekten oder deren Ergebnissen in Kontakt. Doch was definiert ein Projekt genau und was sind die Gründe für das [Gelingen](Praxisbeispiele_erfolgreiche_Projekte.md) bzw. das Scheitern eines Projekts? Im Folgenden soll, anhand mehrerer Beispiele, geklärt werden, ab wann ein Projekt gescheitert ist. 
 
 # Inhaltsverzeichnis
 1 Definitionen
@@ -85,6 +85,14 @@ Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projekt
    - [Erfolgreiche Projekte](Praxisbeispiele_erfolgreiche_Projekte.md)
 
 # Weiterführende Literatur
+
+[Gescheiterte Projekte](http://projekt-manager.eu/gescheiterte-projekte.html)
+
+[Warum scheitern Projekte?](https://www.meetyourmaster.de/de/blog/warum-scheitern-projekte)
+
+[Gescheiterte Projekte profitabel verwerten](https://www.manager-magazin.de/harvard/innovation/gescheiterte-projekte-profitabel-verwerten-a-09b01706-0002-0001-0000-000052601710)
+
+[Projekte beerdigen](https://www.handelsblatt.com/unternehmen/management/management-ein-guter-vorsatz-fuer-2019-projekte-beerdigen/23799132.html)
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
