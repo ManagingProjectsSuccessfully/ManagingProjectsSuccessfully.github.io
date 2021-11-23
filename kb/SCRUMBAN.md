@@ -33,7 +33,9 @@ Man unterscheidet zwischen vier verschiedenen "buckets" mit jeweils unterschiedl
 Das Scrumbanboard ist ähnlich zu einem [Kanban Board](Kanban_Boards.md), jedoch mit deutlich mehr Spalten. In der folgenden Abbildung ist ein Beispiel eines Scrumban Boards zu sehen
 ![Scrumbanboard](SCRUMBAN/scrumban-kanban-and-scrum.jpeg)
 
+Man erkennt auf der linken Seite die To Do's die in vorherigen Sprints noch nicht bearbeitet wurden, sowie Aufgaben die im aktuellen Sprint noch zu erledigen sind. Mittig sind die aktuellen Aufgaben zu finden, welche derzeit bearbeitet werden und welche im nächsten Sprint zu erledigen sind. Auf der rechten Seite des Boards sind die Pläne zu finden die noch genehmigt werden müssen sowie alles was im aktuellen Sprint schon erledigt worden ist.[^5]
 ### 2.2.2 WIP-Limits
+
 ### 2.2.3 Pull-Prinzip
 # 3. Fazit
 So kann man eine Tabelle erstellen:
@@ -61,6 +63,7 @@ So kann man eine Tabelle erstellen:
 # Weiterführende Literatur
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Scrumban-essays on kanban systems for lean software development](https://books.google.de/books?hl=de&lr=&id=SQFdAgAAQBAJ&oi=fnd&pg=PA7&dq=wip+limits+scrumban&ots=ca61YFYzSf&sig=lvA3ZpYKeCpF959zZPPAFbsO3vI&redir_esc=y#v=onepage&q=wip%20limits%20scrumban&f=false)
 
 # Quellen
 
