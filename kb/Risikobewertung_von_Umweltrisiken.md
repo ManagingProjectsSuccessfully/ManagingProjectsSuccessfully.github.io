@@ -5,10 +5,8 @@ author: loritschka
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Risikobewertung_von_Umweltrisiken um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die rechtzeitige Identifizierung und Bewertung von potenziellen Bedrohungen und Gefahren ist für Unternehmen von wesentlicher Bedeutung, um Folgeschäden zu minimieren, oder idealerweise vollständig zu vermeiden. Es gibt verschiedene Risikoarten, die berücksichtigt werden müssen. Beispiele hierfür sind die wirtschaftlichen, technischen und rechtlichen Risiken, sowie die Umweltrisiken, die im Vordergrund dieses Beitrags stehen. Die Umweltrisiken können nicht nur zu schweren Verlusten für Unternehmen führen und ihre Existenz bedrohen, sondern auch die Natur und die Lebewesen in Gefahr bringen. Deshalb ist ihre Beseitigung von wesentlicher Bedeutung. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
