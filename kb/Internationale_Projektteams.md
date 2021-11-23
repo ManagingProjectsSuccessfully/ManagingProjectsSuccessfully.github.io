@@ -1,89 +1,43 @@
 ---
 title: Internationale_Projektteams
-tags: agil klassisch
+tags: klassisch
 author: Meyu23
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Internationale_Projektteams um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Internationale Projektteams führen
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Große Projekte involvieren oftmals Menschen aus verschiedensten Teilen der Welt. Dies erweitert die Bandbreite der Fähigkeiten, welche Projektmanager besitzen sollten. In der heutigen globalisierten Wirtschaft scheinen sowohl Projektteams aus diversen Ländern als auch die Zusammensetzung virtueller Projektteams die Norm zu sein. Der Übergang vom Management von Projekten bei welchen das gesamte Team vor Ort ist, zum Management von Teams, die verschiedene Zeitzonen und Nationalitäten repräsentieren, wird immer herausfordernder. Daher sollten Projektmanager, welche solche Projekte leiten, zusätzliche Planungszeit einplanen, um alle Hindernisse zu vermeiden, die zu Spannungen und damit zu Konflikten führen könnten [^1]. 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# Prozess der Entstehung von Teams
 
 
-# Aspekt 1
+![Beispielabbildung](Internationale_Projektteams/Phasenmodell_Tuckmann.PNG)
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+*Abb. 1*
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Internationale und interkulturelle Projekte basieren immer auf der effektiven Zusammenarbeit eines Teams. Bereits in den 1960ern entwickelte der US-amerikanische Psychologe Bruce Tuckmann ein Phasenmodell, welches den Prozess der Entstehung von Teams plastisch skizziert.
 
-![Beispielabbildung](Internationale_Projektteams/test-file.jpg)
+Bruce Tuckmann erklärte im Wesentlichen, welche Schritte die Teams durchlaufen müssen (siehe Abb 1) damit diese gemeinsam ihr maximales Potential entfalten können. Vor allem der Anfang dieses Prozesses ist häufiger mit Spannungen und Konflikten verbunden. Dieses Modell kann die Führungskräfte dabei unterstützen die Dynamiken der Gruppe besser zu verstehen und angemessene Maßnahmen zu ergreifen, um den Reifeprozess zu beschleunigen, damit schließlich die Performing-Phase größtenteils unproblematisch erreicht wird [^2].
 
-*lustiges Testbild*
+# Die Bedeutung von Kommunikation
 
-# Aspekt 2
+Unabhängig davon, ob die Projektmitarbeiter zentral an einem Ort oder dezentral in mehreren Ländern verteilt sind, ist ein gemeinsames Treffen zu kritischen Zeitpunkten im Projekt, ein sicherer Weg, um mit einem Minimum an Misskommunikation fortzufahren.
+Die größten Problemstellen bei internationalen Projektteams sind vor allem das kulturelle Verständnis und die Kommunikation. Ersteres hängt von der emotionalen Intelligenz des Projektleiters, seinen Führungsqualitäten, seiner Anpassungsfähigkeit und seiner Fähigkeit ab, die Teams zu informieren und zu schulen. Eine erfolgreiche Kommunikation hängt auch von den Soft Skills ab, die ein Projektmanager mitbringt.
+Diese sind:
+* die Fähigkeit zuzuhören
+* die Feinfühligkeit, die unausgesprochenen Anliegen zu erkennen
+* die Fähigkeit, klar und deutlich zu kommunizieren, so dass die anderen Personen es verstehen [^3].
+Gerade dadurch, dass in internationalen Projekten die Projektmitarbeiter räumlich getrennt sind und kaum direkter Kontakt vorliegt, wird der Wissensaustausch und gegenseitige Information erschwert. Hier kann es dann vorkommen, dass z.B. ein Mitarbeiter vergisst, notwendige Informationen seinem Kollegen im Ausland zukommen zu lassen. Für die Führungskräfte ist es also wichtig am Anfang des Projektes Kommunikationsstandards festzulegen, z.B. indem festgelegt wird, wie oft sich das Team zusammensetzt und austauschen soll bzw. ist auch die verwendete Sprache von entscheidender Bedeutung, sodass sowohl Verständlichkeit gewährleistet wird, als auch der Informationsverlust möglichst gering gehalten wird [^4].
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Kulturübergreifendes Führen
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Um die Mentalitäten, Werte und Erwartungen des Teams aufeinander anzupassen ist ein offener Austausch wichtig. 
+Bei der Zusammenarbeit von internationalen Projektteams treffen unterschiedliche Menschen mit unterschiedlichen Kulturen aufeinander. Dies muss dementsprechend von den führenden Projektmanagern berücksichtigt werden.  Denn kulturell diverse Teams können Unternehmen und Projekten einige Vorteile verschaffen. 
+Da Verschiedene Kulturen unterschiedliche Blickwinkel einnehmen können, kann die Zusammenarbeit des internationalen Projektteams zu kreativen, unkonventionellen Lösungen für Probleme führen. Wichtig hierbei ist nur, dass die Kulturen im Projektteam ausgeglichen vertreten sind und dass sich in diesem Sinne keine Hierarchie bildet [^5].
 
-So kann man eine Tabelle erstellen:
+[kb/Internationale_Projektteams/Phasenmodell_Tuckmann.PNG]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -97,8 +51,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.projecttimes.com/articles/managing-international-teams-the-importance-of-cultural-management-and-communications/#:~:text=Managing%20International%20Teams%3A%20The%20Importance%20of%20Cultural%20Management,easy%20with%20these%20diverse%20teams.%20Weitere%20Artikel...%20
+[^2]: https://www.me-company.de/magazin/forming-storming-norming-performing/ 
+[^3]: https://www.girlsguidetopm.com/6-tips-for-managing-international-project-teams/
+[^4]: https://www.projektmagazin.de/internationales-PM
+[^5]: https://www.managementcircle.de/blog/kulturelle-unterschiede.html
+[^6]: https://www.managementcircle.de/blog/internationale-projektteams.html
 
