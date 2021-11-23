@@ -104,8 +104,6 @@ Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden n
 [^3]:[Die Kerngedanken von Design Thinking](https://www.diegluehbirne.de/innovationen-mit-design-thinking/), Abgerufen am 17. November 2021
 [^4]:[Bild2, HPI Academy, Was ist Design Thinking?](https://hpi-academy.de/fileadmin/_processed_/b/9/csm_Design_Thinking_Prozess_DE_6c695bcd10.png), Abgerufen am 17. November 2021
 [^5]: [Design Thinking – Methode, Prozess und Workshops](https://iconstorm.com/design-thinking/), Abgerufen am 17. November 2021
-
-Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^5]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^6]:[Design Thinking: So entwickeln Sie in 6 Schritten eine innovative Lösung](https://digitalzentrum.berlin/design-thinking-prozess-erklaert), Abgerufen am 17. November 2021
 [^7]:[Was ist Design Thinking?](https://hpi-academy.de/design-thinking/was-ist-design-thinking.html), Abgerufen am 17. November 2021
