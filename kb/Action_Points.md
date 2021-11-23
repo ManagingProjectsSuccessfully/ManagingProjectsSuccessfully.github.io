@@ -38,8 +38,8 @@ Ebenfalls ist es auch wichtig, für wen dabei die Arbeitspakete erstellt werden.
 
 Die Grundlage für die Visualisierung des Projektes bildet der Projektstrukturplan (PSP). Der Projektstrukturplan definiert das Projektziel. Der Aufbau des Projektstrukturplans ist, wie bereits in der Einleitung beschrieben, hierarchisch geordnet. Die Arbeitspakete bilden dabei die letzte Instanz. Der Projektstrukturplan kann nach drei [Methoden](Methoden.md) entworfen werden:[^5]
 
-1. Top down Ansatz
-2. Bottom Up Ansatz
+1. [Top down Ansatz](kb/Top_Down_Planning.md)
+2. [Bottom up Ansatz](kb/Bottom_Up_Planning.md)
 3. Yo-Yo-Verfahren
 
 Beim Top down Ansatz wird der Projektstrukturplan von Oben nach Unten Aufgebaut. Das Gesamtprojekt wird zuerst in Teilprojekte untergliedert. Aus den Teilprojekten werden letztendlich die Arbeitspakete geschnürt.
@@ -52,11 +52,9 @@ Genaueres hierzu bei der [Projektstrukturplanung](Projektstrukturplan.md).
 
 # Siehe auch
 
-* [Link auf diese Seite](Action_Points.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Projekt](Projekt.md)
+* [Bottom_up](kb/Bottom_Up_Planning.md)
+* [Top_Down](kb/Top_Down_Planning.md)
 
 # Quellen
 
