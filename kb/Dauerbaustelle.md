@@ -28,7 +28,7 @@ Es wir deutlich, dass das Projektmanagement als umfassendes Führungskonzept zu 
 
 ![Beispielabbildung](https://github.com/EuleW/ManagingProjectsSuccessfully.github.io/blob/main/kb/Dauerbaustelle/Magisches%20Dreieck.JPG)
 
-*[Das magische Projektmanagement Dreieck](Magisches_Dreieck.md) visualisiert die untrennbare Verbindung zwischen der Zielfunktion, dem gesteckten Zeitrahmen und dem Budget*
+*[Das magische Projektmanagement Dreieck](Magisches_Dreieck.md) visualisiert die untrennbare Verbindung zwischen der zu erreichenden Zielfunktion, dem gesteckten Zeitrahmen und dem Budget, dessen Einhaltung drch den Projektmanager überwacht wird.*
 
 # Weiterführende Literatur:
 * Projekte zum Erfolg führen: Projektmanagement systematisch und kompakt von Heinz Schelle, Oliver Linssen
