@@ -40,10 +40,19 @@ Die Bereitschaft zum Wissensaustausch und zur Kollaboration ist bei Mitgliedern 
 
 Um den Einstieg in und die Grundlage für eine erfolgreiche Zusammenarbeit zu schaffen, können Kennenlernspiele, die in einer Vielzahl existieren, verwendet werden[^2].
 
-Ihr Einsatz eignet sich insbesondere zu Beginn des Projektes, in der sog. Forming-Phase des Phasenmodells nach Tuckman (1965), vgl Abb.1[^3]. Hier treffen die Teammitglieder zum ersten Mal aufeinander und lernen sich kennen. Dabei besteht noch Unklarheit bezüglich der Rollen und Positionen im Team. „Diese Phase ist [als Folge dessen] oft von einem eher formellen und vorsichtigen „Abtasten“ gekennzeichnet“[^4]. Es werden jedoch auch die Grenzen des zwischenmenschlichen und des aufgabenbezogenen Verhaltens erforscht und Abhängigkeitsbeziehungen zu den übrigen Gruppenmitgliedern und zu möglichen Leitern aufgebaut[^5]. 
+Ihr Einsatz eignet sich insbesondere zu Beginn des Projektes, in der sog. Forming-Phase des Phasenmodells nach Tuckman (1965), vgl Abb.1. Hier treffen die Teammitglieder zum ersten Mal aufeinander und lernen sich kennen. Dabei besteht noch Unklarheit bezüglich der Rollen und Positionen im Team. „Diese Phase ist [als Folge dessen] oft von einem eher formellen und vorsichtigen „Abtasten“ gekennzeichnet“[^3]. Es werden jedoch auch die Grenzen des zwischenmenschlichen und des aufgabenbezogenen Verhaltens erforscht und Abhängigkeitsbeziehungen zu den übrigen Gruppenmitgliedern und zu möglichen Leitern aufgebaut[^4]. 
 
-Dabei können letztere, mit Blick auf den Gruppenzusammenhalt und damit den Projekterfolg, u.a. folgende Maßnahmen koordinativ ergreifen[^6][^7]: 
+Letztere können, mit Blick auf den Gruppenzusammenhalt und damit den Projekterfolg, u.a. folgende Maßnahmen koordinativ ergreifen[^5][^6]: 
 
+* Rahmenschaffung durch gemeinsam vereinbarte Regeln
+* Stärkung des Vertrauens und des Commitments der Einzelnen
+* Schaffung eines guten Klimas und eines Willkommenseins-Gefühls
+* Förderung des Kennenlernprozesses, der Einfindung im Team und des Zusammenhalts
+* Erkennen und Sichtbar-Machen der Kompetenzen im verteilten Team
+* Aktive Steuerung des Teams und auftretender Konflikte
+* Vorbereitung der Mitarbeitenden auf Besonderheiten bei virtueller Zusammenarbeit
+
+Durch Kennenlernspiele können diese entscheidenden Aspekte in lockerer Atmosphäre erzielt werden.
 
 # Beispiele
 
@@ -56,15 +65,6 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 ![Beispielabbildung](Kennenlernspiele/test-file.jpg)
 
 *lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
 ## Kennenlernspiele vor Ort
 
