@@ -1,8 +1,8 @@
 ---
 title: Stackfield_PM_Tool
-tags: agil klassisch
+tags: agil
 author: YSmithers46
-anrechnung: k oder a
+anrechnung: a
 ---
 
 (Kurzbeschreibung zu Stackfield_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.)
