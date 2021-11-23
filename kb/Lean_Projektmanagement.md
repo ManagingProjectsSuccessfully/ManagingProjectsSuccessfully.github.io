@@ -33,7 +33,7 @@ Die fünf Kernprinzipien des Lean Management von Womack und Jones eignen sich f�
 
 **3. Umsetzung des Flussprinzips.** Beim Flussprinzip geht es darum, den gesamten Wertstrom zu optimieren und nicht nur einzelne Abschnitte zu betrachten. Der Fokus liegt auf dem Gesamtfluss und den Engpässen innerhalb des Gesamtflusses. Die Aktivitäten des Wertstroms sollen so reibungslos wie möglich ablaufen können.[^6]
 
-**4. Pull statt Push.** Es wird (nur) das gemacht, was gefordert ist: Jede Stelle im Wertschöpfungsprozess „holt“ sich die Aufgaben, die verrichtet werden müssen, von der vorangegangenen Stelle ab. Der Fluss im Wertstrom wird also vom Ergebnis „gezogen“, nicht vom Startpunkt des Prozesses „geschoben“. Auf diese Weise wird sichergestellt, dass nur die Leistungen erbracht werden, die der Kunde auch tatsächlich nachfragt.[^3]
+**4. Pull statt Push.** Es wird (nur) das gemacht, was gefordert ist. Jede Stelle im Wertschöpfungsprozess „holt“ sich die Aufgaben, die verrichtet werden müssen, von der vorangegangenen Stelle ab. Der Fluss im Wertstrom wird so vom Ergebnis „gezogen“, nicht vom Startpunkt des Prozesses „geschoben“. Auf diese Weise wird sichergestellt, dass nur die Leistungen erbracht werden, die der Kunde auch tatsächlich nachfragt.[^3]
 
 **5. Perfektion.** Das bedeutet, dass Perfektion nicht erreicht werden muss, aber immer angestrebt werden sollte. Hier kommt der Gedanke des kontinuierlichen Verbesserungsprozesses auf, denn es wird immer Formen der Verschwendung und Ansätze zur Verbesserung geben.[^3]
 
