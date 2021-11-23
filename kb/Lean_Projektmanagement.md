@@ -68,5 +68,5 @@ Sowohl Lean als auch Agile Teams helfen dabei, besser zu arbeiten und Kunden ein
 [^3]: [Erne, Rainer (2019): „Lean Project Management – Wie man den Lean-Gedanken im Projektmanagement einsetzen kann“](https://link.springer.com/book/10.1007/978-3-658-26988-3)
 [^4]: [Kanban Tool (2021): „Was ist Lean-Projektmanagement?“](https://kanbantool.com/de/kanban-guide/lean-projektmanagement)
 [^5]: [Landau, Peter (2021): „What Is Lean Project Management?“](https://www.projectmanager.com/blog/lean-project-management)
-[^6]: [6.	Wuttke, Thomas (2018): „Lean Project Management – mit weniger mehr erreichen!“ in Grote, Sven/Goyk, Rüdiger (Hrsg): „Führungsinstrumente aus dem Silicon Valley“](https://link.springer.com/book/10.1007/978-3-662-54885-1)
+[^6]: [Wuttke, Thomas (2018): „Lean Project Management – mit weniger mehr erreichen!“ in Grote, Sven/Goyk, Rüdiger (Hrsg): „Führungsinstrumente aus dem Silicon Valley“](https://link.springer.com/book/10.1007/978-3-662-54885-1)
 
