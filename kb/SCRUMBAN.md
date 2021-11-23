@@ -30,14 +30,15 @@ Man unterscheidet zwischen vier verschiedenen "buckets" mit jeweils unterschiedl
 * der Current Bucket beinhaltet alle Aufgaben die das Team als nächstes bearbeiten wird. [^3]
 ## 2.2 Methoden aus Kanban
 ### 2.2.1 Scrumbanboard
-Das Scrumbanboard ist ähnlich zu einem [Kanban Board](Kanban_Boards.md), jedoch mit deutlich mehr Spalten. In der folgenden Abbildung ist ein Beispiel eines Scrumban Boards zu sehen.
+Ein wichtiger Aspekt mit dem Scrum verbessert werden kann ist die Visualisierung der Arbeitsmenge auf einem Scrumban Board. Das Scrumbanboard ist ähnlich zu einem [Kanban Board](Kanban_Boards.md), jedoch mit deutlich mehr Spalten. In der folgenden Abbildung ist ein Beispiel eines Scrumban Boards zu sehen.
 
 ![Scrumbanboard](SCRUMBAN/scrumban-kanban-and-scrum.jpeg)
 
 Man erkennt auf der linken Seite die To Do's die in vorherigen Sprints noch nicht bearbeitet wurden, sowie Aufgaben die im aktuellen Sprint noch zu erledigen sind. Mittig sind die aktuellen Aufgaben zu finden, welche derzeit bearbeitet werden und welche im nächsten Sprint zu erledigen sind. Auf der rechten Seite des Boards sind die Pläne zu finden die noch genehmigt werden müssen sowie alles was im aktuellen Sprint schon erledigt worden ist.[^5]
 ### 2.2.2 WIP-Limits
-
+Eine weitere sehr wichtige Praktik aus Kanban ist die Limitierung des sogenannten "Work in Progress", also der laufenden Arbeit. Diese Praktik zielt auf die Reduzierung und dadurch auch Stabilisierung des Arbeitsvolumens ab. Es verbessert den Arbeitsfluss und ist für ein Pull-basiertes System von zentraler Bedeutung.[^6]
 ### 2.2.3 Pull-Prinzip
+Das Pull Prinzip ist ein aus Kanban entnommenes Konzept wonach jedes Teammitglied sich seine Aufgaben selbst aus dem Sprint-Backlog ziehen darf. Dadurch wird keine Arbeit von außen zugeteilt, sondern das Team entscheidet selbst welche Aufgaben sie als nächstes bearbeiten wollen.[^5]
 # 3. Fazit
 So kann man eine Tabelle erstellen:
 
@@ -65,6 +66,7 @@ So kann man eine Tabelle erstellen:
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 * [Scrumban-essays on kanban systems for lean software development](https://books.google.de/books?hl=de&lr=&id=SQFdAgAAQBAJ&oi=fnd&pg=PA7&dq=wip+limits+scrumban&ots=ca61YFYzSf&sig=lvA3ZpYKeCpF959zZPPAFbsO3vI&redir_esc=y#v=onepage&q=wip%20limits%20scrumban&f=false)
+* [DevOps by Scrumban](https://link.springer.com/article/10.1365/s40702-017-0301-x)
 
 # Quellen
 
@@ -73,3 +75,4 @@ So kann man eine Tabelle erstellen:
 [^3]: https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/
 [^4]: https://de.wikipedia.org/wiki/Scrum#Sprint
 [^5]: [Das beste aus Scrum und Kanban](https://www.agile-heroes.de/magazine/scrumban-das-beste-aus-scrum-und-kanban-einfach-erklaert/)
+[^6]: [WIP-Limits](https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how)
