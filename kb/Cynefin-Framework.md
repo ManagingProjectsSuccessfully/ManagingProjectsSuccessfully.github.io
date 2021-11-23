@@ -24,7 +24,6 @@ Cynefin beschreibt fünf Problemdomänen, die wie folgt lauten
 * Chaotic,
 * Disorder 
 
-![image](https://user-images.githubusercontent.com/92875736/143130323-b2c91f07-908b-41d3-97ad-8ded4ff737a6.png)
 
 ![image](Cynefin-Framework/Cynefin_as_of_1st_June_2014.png)
 
@@ -67,8 +66,11 @@ Die Grenze zwischen "obvious" und "chaotic" unterschiedet sich in ihrer Wirkung 
 Situationen einfach und geordnet sind, befindet man sich in der "complacent Zone" und das Ergebnis ist katastrophal. Daher ist es empfehlenswerter an den komplexen und 
 komplizierten Zonen zu managen.[^4]
 
-* Das Prinzip der Roten Königin
+* Das Wicked Problem
 
+![image](Cynefin-Framework/Wicked Problem.png)
+
+Vor der Formulierung der Lösung kann das Problem nicht verstanden werden und solange das Proble nicht identifizeirt wurde kann auch die Lösung nicht beschrieben werden. Rückkopplungseffekt! [^3]  
 
 
 # Anwendung auf Projekte [^1]
@@ -110,4 +112,5 @@ Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, da
 [^4]: [The Cynefin Framework (Cognitive Edge)](https://www.youtube.com/watch?v=N7oz366X0-8)
 [^5]: [Unerwarter Herausforderung in Projekten erfolgreich managen (von Andreas Nachbagauer, etc.)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-60944-6.pdf)
 [^6]: [Cynefin Framework](Cynefin-Framework/Cynefin_as_of_1st_June_2014.png)
+[^7]: [Wicked Problem](Cynefin-Framework/Wicked Problem.png)
 
