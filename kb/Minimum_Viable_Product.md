@@ -17,8 +17,8 @@ Ein Minimum Viable Product ist die erste Version eines Produktes beziehungsweise
 [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) 
 
 # Relevanz im Projektmanagement
-## Projektmanagement in Startups
-Der Begriff MVP wurde 2001 von Frank Robinson in die Produktentwicklung eingeführt. Erst nach Veröffentlichung der Arbeiten von Eric Ries und Steve Black gelang das Konzept des MVP weltweite Bekanntheit und betonte vor allem für Lean Startups die Bedeutsamkeit des Lernens während dem Produktentwicklungsprozess. [^2][^3][^4]
+## Startups
+Der Begriff MVP wurde 2001 von Frank Robinson in die Produktentwicklung eingeführt. Erst nach Veröffentlichung der Arbeiten von Eric Ries und Steve Black gelang das Konzept des MVP weltweite Bekanntheit und betonte vor allem für das Projektmanagement im Lean Startup die Bedeutsamkeit des Lernens während dem Produktentwicklungsprozess. [^2][^3][^4]
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
