@@ -2,7 +2,7 @@
 title: Project_Management_bei_Tesla
 tags: agil klassisch
 author: lucas100700
-anrechnung: k oder a
+anrechnung: a
 ---
 
 
