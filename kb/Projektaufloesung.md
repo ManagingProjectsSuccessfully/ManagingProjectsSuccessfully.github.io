@@ -5,99 +5,45 @@ author: Quapoapo
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Projektaufloesung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
+Jedes zielgerichtete, einmalige [Projekt](Projekt.md) besitzt, neben einem klar bestimmten Anfang, auch ein eindeutiges Ende. Das definierte Ende und somit der letzte Schritt im [Projektabschluss](Projektabschluss.md), aber auch im gesamten Projekt ist, die Projektauflösung. [^1] Die Phase „Auflösung“ eines Projekts endet, sobald das Projektpersonal auf neue Aufgaben und neue Projekte übergeleitet wurde und alle verwendeten Ressourcen zurückgegeben bzw. neuen Projekten zugeführt wurden. Alles Weitere kann schlussendlich den Archiven und der Geschichtsschreibung überlassen werden. [^2] Wird das Projekt jedoch beendet bevor die Projektziele erreicht wurden, so spricht man vom [Projektabbruch](Projektabbruch.md). [^3]  
+<!-- 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+oben im Front-Matter (Bereich zwischen den `---`). -->
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+![Phasen des Projektabschlusses](Projektaufloesung/Projektaufloesung.png "Projektabschluss")
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+*Projektabschluss*
+# 	Archivierung der Unterlagen 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Bei der Auflösung eines Projekts sind verschiedene Aufgaben zu erledigen, um dieses erfolgreich abzuschließen. Alle erarbeiteten Daten, Passwörter, Zugänge, Unterlagen und die [Projektdokumentation](Projektdokumentation.md) sind ordnungsgemäß zu archivieren. [^4] Dadurch wird bei möglicher zukünftiger Einsicht des Projekts sichergestellt, dass auf jegliche Unterlagen problemlos zugegriffen werden kann. 
 
 
-# Aspekt 1
+# 	Rückgabe aller Ressourcen
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Im Projekt wurden diverse Ressourcen verwendet. Nach Beendigung müssen die Sachmittel zurückgeführt werden. [^5] Beispielsweise sollen Mobiliar, Hardware, Mittel zur [digitalen Kommunikation](Digitate_Kommunikation.md) und vieles mehr[^4] abgegeben werden, da nun kein Nutzen mehr für jene gegeben ist. Weitere Sachmittel, welche einen Nutzen in Zukunft haben könnten, sollten ebenfalls zurückgeführt werden. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Projektaufloesung/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
+# 	Abschluss der Buchhaltung und der Projektkostenstellen
+Die Buchhaltung listet die letzten noch offenen Rechnungen auf. Zum Schluss werden dann die Projektkonten und die Projektkostenstelle im Buchhaltungssystem geschlossen. [^6]
+# Vermittlung des Projektpersonals
+Zunächst wird durch die Auflösung des Projekts der [Projektleiter](Projektleiter) entlastet[^5] und es werden die Projektteams und Gremien offiziell aufgelöst. Über die Auflösung des Projektteams muss weiterhin kommuniziert werden. Jeder [Projektmitarbeiter](Projektmitarbeiter.md), aber auch der Projektleiter müssen einen neuen Aufgabenbereich finden bzw. einem neuen Aufgabenbereich zugeteilt werden. [^4]Dies erweist sich als einfacher, wenn das Projekt ein Erfolg war und die angestrebten Ziele erreicht wurden. Die schwierigste, aber auch die wichtigste Aufgabe bei der Projektauflösung, ist die Integration jedes Beteiligten in ein neues Projekt und in ein neues Aufgabengebiet.[^5] Im Laufe des Projekts haben sich oft Kompetenzen und Beziehungen gebildet, welche unbedingt für den weiteren allgemeinen Führungs- und Leistungsprozess gesichert werden müssen.[^2] Außerdem sind diese Kompetenzen und Beziehungen sehr wertvoll für zukünftige Projekte. Bevor also komplett aufgelöst wird, sind diese unbedingt zu sichern. Nachdem verstanden wurde, welche Stärken eine Person im letzten Projekt gezeigt hat, kann dieser Mitarbeiter in eine für ihn perfektes Projekt vermittelt werden. Auch der Projektleiter soll anhand seiner Kompetenzen in ein für ihn vorteilhaftes Projekt übergeben werden. Hier ist vor allem ein sozialer und psychologischer Hintergrund gegeben[^5], welcher nachvollzogen und verstanden werden muss. 
+#	Organisation von Abschlussveranstaltungen und Erfahrungsaustausch
+Die Organisation von Abschlussveranstaltungen ist nicht zwingend notwendig, jedoch können diese zum emotionalen Abschluss des Projekts beitragen.[^7] Das Team hat während des Projekts Höhen und Tiefen durchlebt, welche aber schlussendlich zu einem erfolgreichen Projekt geführt haben. Eine offizielle Veranstaltung ermöglicht den Mitgliedern einen persönlichen Ausstieg aus dem Projekt und hilft dem Projektteam mit bester Motivation in ihr neues Projekt zu starten. Noch dazu könnte ein Erfahrungsaustausch in regelmäßigen Abständen organisiert werden, um die Ergebnisse und die Erfahrungen eines Projektes in die Projektplanung neuer Projekte einfließen zu lassen. [^4]
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektaufloesung.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Projekt](Projekt.md)
+* [Projektabbruch](Projektabbruch.md)
+* [Projektabschluss](Projektabschluss.md)
+* [Projektabschlussbericht](Projektanschlussbericht.md)
+* [Projektdokumentation](Projektdokumentation)
+* [Projektkommunikation](Projektkommunikation.md)
+* [Projektleiter](Projektleiter.md)
+* [Projektmanagment](Projektmanagment.md)
+* [Projektmitarbeiter](Projektmitarbeiter.md)
+* [Projektphasen klassisch](Projektphasen_klassisch)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [Projektabschluss](https://www.arksolutions.de/gs/project/blog/gs-projektabschluss)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
