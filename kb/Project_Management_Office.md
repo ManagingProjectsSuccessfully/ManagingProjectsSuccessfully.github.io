@@ -58,7 +58,7 @@ Abschließend kann nicht klar gesagt werden, ob das PMO eher dem klassischen ode
 
 # Quellen
 
-[^1]: [AIMS Education, UK (2016): „What is Project Management Office Definition & PMO Roles and Responsibilities | AIMS (UK)“] (https://www.youtube.com/watch?v=WFO2sZd8oh4)
+[^1]: [AIMS Education, UK (2016): „What is Project Management Office Definition & PMO Roles and Responsibilities | AIMS (UK)“](https://www.youtube.com/watch?v=WFO2sZd8oh4)
 [^2]: [Martins, Julia (2021): „Wie ein Project Management Office (PMO) Zusammenarbeit und Informationsaustausch fördert“](https://asana.com/de/resources/pmo-project-management-office)
 [^3]: [Ortner, Gerhard/Stur, Bettina (2019): „Das Projektmanagement-Office“](https://link.springer.com/book/10.1007/978-3-662-59486-5)
 [^4]: [Pavlik, Franz (2017): „PMO – Project Management Office“](https://dieprojektmanager.com/project-management-office-pmo/)
