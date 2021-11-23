@@ -2,7 +2,7 @@
 title: Self_Management
 tags: agil klassisch
 author: Dolunay76
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Self-management bezeichnet die Fähigkeit unabhängig von anderen und völlig selbstständig seinen Berufsalltag zu gestalten. Dies bedeutet, dass man seinen Arbeitsalltag selbstständig aufbaut, die Selbstgestaltung umfasst mehrere Punkte, wie z.B. die Planung. Organisation sowie die Motivation und Zielsetzung. 
