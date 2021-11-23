@@ -18,9 +18,9 @@ Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und
    1. Vorteile
    2. Nachteile
 
-<img width="185" alt="projectPNG" src="https://user-images.githubusercontent.com/92877971/140620513-f9d5cb31-4a7f-4bb0-afef-32c2f2f420bc.PNG">
+<img width="185" alt="projectPNG" src="Wissenslandkarte/projectPNG.PNG">
 
-*ProjectManager[^2] *
+*ProjectManager[^2]*
 
 ## 1. Begriffserklärung
 
@@ -35,9 +35,9 @@ Wissenslandkarten sind eine grafische Darstellung von Wissensgebieten und deren 
 Nach Heyer[^6] ist es mit Wissenslandkarten möglich in Form eines Grafen eine Übersicht wesentlicher Schlüsselwörter einer Textsammlung und deren inhaltliche Vernetzung darzustellen. Viel wichtiger als die Strukturierung der Tiefenebenen, ist die Vermessung der unterschiedlichen Themenfelder. 
 Im Folgenden ist ein Beispiel für eine Wissenslandkarte abgezeichnet.
 
-![Wissenslandkarte](https://user-images.githubusercontent.com/92877971/140643090-1a0c210a-0243-4269-8d97-4df3c448bc27.png)
+![Wissenslandkarte](Wissenslandkarte/Wissenslandkarte.png)
 
-*Wissenslandkarte[^7] *
+*Wissenslandkarte[^7]*
 
 ## 2. Arten von Wissenslandkarten
 Folglich werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufgeführt: 
@@ -102,12 +102,12 @@ Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine 
 # Quellen
 
 [^1]: [Unternehmen](https://de.wikipedia.org/wiki/Unternehmen)
-[^2]: [ProjectManager](https://www.pinterest.de/pin/407012885071440518/)
+[^2]: [ProjectManager](Wissenslandkarte/projectPNG.PNG)
 [^3]: Hildebrand, 1998: Mapping the Invisible Workplace
 [^4]: [Agile Verwaltung](https://agile-verwaltung.org/tag/wissenslandkarte/)
 [^5]: [Wissenslandkarten als Instrument des kollektiven Wissensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?forumid=286&v=1&id=166113)
 [^6]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/file/BA_Tina_Giersch.pdf)
-[^7]: [Wissenslandkarte](https://wissendenken.com/wp-content/uploads/2017/12/Wissenslandkarten_Hexelschneider.pdf)
+[^7]: [Wissenslandkarte](Wissenslandkarte/Wissenslandkarte.png)
 [^8]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
 
 
