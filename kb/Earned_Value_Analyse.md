@@ -1,103 +1,82 @@
 ---
 title: Earned_Value_Analyse
-tags: klassisch
+tags: klassisch Earned Value Analyse Management Projektfortschritt Plan-Daten Ist-Daten Fertigstellungswert
 author: Juliakau
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Earned_Value_Analyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Definition
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Den Projektfortschritt im Blick zu halten ist von hoher Bedeutung. 
+Um diesen zu kontrollieren kann eine Earned Value Analyse (EVA), auch Earned Value Management genannt, herangezogen werden.
+Anhand von Plan- und Ist-Daten werden Kennzahlen berechnet, die den Earned Value (Fertigstellungswert) beschreiben. 
+Diese Daten beziehen sich auf Kosten, Zeit und Leistungsumfang, also dem [magischen Dreieck](Magisches_Dreieck.md).
+Der Fertigstellungswert kann zur Überwachung der Termintreue, der Kostentreue sowie zur Prognose von Gesamtkosten und Endtermin herangezogen werden. 
+Daraus resultiert bei Nichterfüllung ein Frühwarnsystem und das Projekt kann gesteuert und angepasst werden. [^1]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Ein Fertigstellungswert, also der Earned Value, ist ein Maß für die bereits geleistete Arbeit. 
+Somit entspricht die Earned Value Analyse einem Messverfahren, um den tatsächlich erzielten Fortschritt in Relation zu dem geplanten Ziel zu ermitteln und anschließend zu bewerten. [^2]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Nutzen
+Im Hinblick auf das magische Dreieck des Projektmanagements, wird oftmals nur der Aufwand und die Zeit betrachtet. 
+Dabei werden Soll- und Ist-Werte verglichen. 
+Bei der Earned Value Analyse im Gegensatz wird auch der Leistungsumfang als Fertigstellungswert mit einberechnet und somit eine Verbindung zwischen den drei Gebieten geschaffen. 
+So wird bei abweichenden Ist-Werten nicht nur dieser eine Wert betrachtet, sondern der Wert im Verhältnis zu den anderen beiden. 
+Übersteigen beispielsweise die Ist-Kosten die Plan-Kosten ist das zunächst negativ. 
+Betrachtet man jedoch ebenso die Fertigstellung, so kann geprüft werden, ob die Kosten insgesamt anstiegen oder ob das Projekt schneller bearbeitet wurde und die zu diesem Zeitpunkt erhöhten Kosten dadurch entstanden sind. 
+Das Ergebnis wäre trotz Kostenüberschreitung in diesem Moment positiv, denn die Kosten im Gesamtprojekt blieben gleich, jedoch wurde das Projekt schneller erledigt als geplant. 
+Dieses Beispiel dient zur Veranschaulichung, wie wichtig es ist alle drei Komponenten im Zusammenspiel zu betrachten. [^3]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Durchführung
+Die Durchführung einer Earned Value Analyse erfolgt in acht Schritten.
+1. Vorgänge auswählen
+2. Plan-, Ist- und Fertigstellungswert berechnen
+3. Kosten- und Terminvarianz berechnen
+4. Kosten- und Termimvarianzindex berechnen
+5. Projektkosten prognostizieren
+6. Projektdauer prognostizieren
+7. Interpretation der berechneten Kennzahlen
+8. Projekt steuern [^1]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Kennzahlen
+Bei der EVA werden also drei Kennzahlen berücksichtigt.
+Der Vergleich aus Plan- und Istwert kann mit Hilfe des Fertigstellungswert interpretiert werden. [^4]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+### Planwert
+Der Planwert (planned value = PV) beschreibt sowohl die geplante Leistung als auch die geplanten Kosten.
+Diese beiden Werte ergeben multipliziert den Planwert: "PV = Planmenge x Plankosten". [^4]
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+### Istwert
+Der Istwert (actual cost = AC) hingegen beschreibt die tatsächlichen Kosten zu einem bestimmten Zeitpunkt, die für die geleistete Arbeit aufgewendet wurden.
+Der Wert setzt sich wie folgt zusammen: "AC = Istmenge x Istkosten". [^4]
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Earned_Value_Analyse/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+### Fertigstellungswert
+Zuletzt wird der Fertigstellungswert (Earned Value = EV) betrachtet, welcher bei dieser Analyse entscheidend ist. 
+Dieser gibt eine Kennzahl an, die den Wert der Projektarbeit darstellt und wird wie folgt berechnet: 
+"EV = Istmenge x Plankosten". [^4]
 
 
-# Siehe auch
+![EVA Graph](https://user-images.githubusercontent.com/93198016/143000649-99fad025-13b4-47ff-a430-0e51ea7d5b02.jpg)
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Earned_Value_Analyse.md)
+*Graphische Darstellung der Earned Value Analyse* [^3]
 
-# Weiterführende Literatur
+In dieser Abbildung ist der Ist-Aufwand geringer als der Plan-Aufwand, weswegen der Fertigstellungswert über dem Plan liegt. [^3]
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+### Kosten- und Terminvarianzindex
+Die Kosten und Terminvarianz beschreiben die Abweichungen des Istwertes von dem Planwert.
+Die Kostenvarianz gibt also an, ob in einem Projekt mehr Kosten entstanden sind oder ob weniger Kosten anfallen.
+Die Terminvarianz beschreibt, inwiefern der Zeitplan eingehalten wird und stellt dar, ob man schneller fertig wird oder länger gebraucht hat.
+Der Index der beiden gibt eine relative Darstellung dieser Abweichungen, wodurch die Werte leichter verglichen werden können. 
+Die Indexe berechnen sich wie folgt:
+* CPI (cost performance index) = EV x AC
+* SPI (schedule performance index) = EV x PV 
+Anschließend können daraus Prognosen für die Gesamtkosten und Gesamtdauer abgeleitet werden.
+Anhand einer Interpretation dieser Kennzahlen kann das weitere Vorgehen des Projektes entschieden werden.
+Unterschieden werden kann bei Kostenüberschreitung beispielsweise zwischen Gesamtkosten anpassen und erhöhen oder Maßnahmen zur Kosteneinsparung einzuleiten. [^5]
 
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Earned Value Management](https://www.projektmagazin.de/methoden/earned-value-management)
+[^2]: [Earned-Value-Analyse: Einführung und Beispiele](https://www.econstor.eu/handle/10419/214916) 
+[^3]: [Earned Value Analyse. Projektcontrolling mit dem Fertigstellungswert.](https://www.microtool.de/wissen-online/was-ist-die-earned-value-analyse/)
+[^4]: [Earned Value Management - einfach erklärt](https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html)
+[^5]: [Die Earned-Value-Analyse einfach erklärt](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/earned-value-analyse)
