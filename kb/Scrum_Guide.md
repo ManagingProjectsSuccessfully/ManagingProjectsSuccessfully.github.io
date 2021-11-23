@@ -28,7 +28,7 @@ miteinander verbinden[^3].
 
 Laut dem offiziellen Scrum_Guide aus dem Jahr 2020 enthält der Scrum_Guide folgende Inhalte:
 
-*Scrum-Definition 
+* Scrum-Definition 
 
 *	Scrum-Theorie
 
