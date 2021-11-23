@@ -34,10 +34,9 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Dauerbaustelle/test-file.jpg)
 ![Beispielabbildung](Dauerbaustelle/magisches-projektmanagement-dreieck.jpg)
 
-*lustiges Testbild*
+*[Das magische Projektmanagement Dreieck](Magisches_Dreieck.md)*
 
 # Aspekt 2
 
