@@ -5,7 +5,6 @@ author: GiuliaAng
 anrechnung: a
 ---
 
-# The 3-5-3 of SCRUM
 
 The 3-5-3 of Scrum umfasst die Methode, nach der sich ein agiles Team in ihrem Projekt organisiert. Hierbei steht 3-5-3 für folgendes: [^1]
 
