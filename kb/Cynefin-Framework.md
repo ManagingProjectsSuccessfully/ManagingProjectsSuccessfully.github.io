@@ -24,6 +24,8 @@ Cynefin beschreibt fünf Problemdomänen, die wie folgt lauten
 * Chaotic,
 * Disorder 
 
+![image](https://user-images.githubusercontent.com/92875736/143130323-b2c91f07-908b-41d3-97ad-8ded4ff737a6.png)
+
 ![image](Cynefin-Framework/Cynefin_as_of_1st_June_2014.png)
 
 Cynefin Framework [^6]
