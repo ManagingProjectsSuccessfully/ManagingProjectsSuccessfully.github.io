@@ -33,7 +33,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Vergabe.jpg)
+![Ausschreibungsarten](/Verwaltung/Projekt/Vergabe.jpg)
 
 # Aspekt 2
 
