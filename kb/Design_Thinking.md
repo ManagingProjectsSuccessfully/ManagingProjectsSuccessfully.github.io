@@ -15,13 +15,14 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 <img align="right" width="270" height="150" src="Design_Thinking/Design-Thinking.jpg">
 
-
-*“Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.”*[^1][^2]  
+*„Beim Desing Thinking geht es darum, Probleme an ihrer Wurzel zu packen, statt nur einige der Symptome zu behandeln.“*[^1] [^2] 
 
 <br />
 
-[Tim Brown, Executive Chair: IDEO](https://de.wikipedia.org/wiki/Tim_Brown_(Designer))           
+[Hasso Plattner, Stifter Hasso Plattner Institut](https://de.wikipedia.org/wiki/Hasso_Plattner)           
 
+  
+<br />
 <br />
 Design Thinking ist ein menschen-zentrierter Ansatz für die Generierung von Lösungen und Innovationen, wobei es sowohl eine Denkweise als auch ein Prozess-Modell ist. Dabei ist es wichtig zuerst die wahren Bedürfnisse und Wünsche des Kunden zu bestimmen und mit einem Kreativprozess innovativen Lösungsmöglichkeiten zu finden.  Der Prozess ist hierbei nicht-linear und iterativ.
 
@@ -168,7 +169,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]:[Design Thinking Defined](https://designthinking.ideo.com/), Abgerufen am 17. November 2021
+[^1]:[Einige ausgewählte Zitate zum Thema Design Thinking](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiSt-fh8ab0AhW2hP0HHWnnCxYQFnoECAoQAw&url=https%3A%2F%2Fhpi.de%2Ffileadmin%2Fuser_upload%2Fhpi%2Fdokumente%2Fpressemitteilungen%2F2015%2F20151012_Zitate_DesignThinking_final.pdf&usg=AOvVaw1V7xMxVHaKRkGpU3s36465), Abgerufen am 17. November 2021
 [^2]:[Bild1, Design Thinking Workshop]( https://startups-nordwest.de/wp-content/uploads/2018/04/Design-Thinking.jpg), Abgerufen am 17. November 2021
 [^3]:[Bild2, HPI Academy, Was ist Design Thinking?](https://hpi-academy.de/fileadmin/_processed_/b/9/csm_Design_Thinking_Prozess_DE_6c695bcd10.png), Abgerufen am 17. November 2021
 [^4]: [Design Thinking – Methode, Prozess und Workshops](https://iconstorm.com/design-thinking/), Abgerufen am 17. November 2021
