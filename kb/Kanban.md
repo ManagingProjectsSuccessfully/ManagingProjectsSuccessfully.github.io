@@ -29,11 +29,11 @@ Das System wurde in Japan schnell erfolgreich und gelangte schließlich in den 1
 Zu Beginn des 21. Jahrhunderts sahen die großen Akteure der Softwarebranche schnell, wie Kanban aktiv die Art und Weise verändert, wie Produkte und Dienstleistungen bereitgestellt werden[^4]. 
 Mit der zunehmenden Aufmerksamkeit für Effizienz und den Einsatz von Computertechnologie hat Kanban den Automobilbereich verlassen und wurde erfolgreich auf andere komplexe Geschäftsfelder wie IT, Softwareentwicklung sowie Forschung und Entwicklung angewendet[^4]. 
 
-Tatsächlich wurde Anfang 2007 unsere heute anerkannte Kanban-Methode geboren[^4]. Dies ist das Ergebnis jahrelanger Tests, Erfahrung und Zusammenarbeit von Führungskräften in der Lean und Agil Community (wie David Aderson, Dan Vacanti, Darren Davis, Corey Ladas, Dominica DeGrandis, Rick Garber usw.)[^4].
+Anfang 2007 wurde die heute anerkannte Kanban-Methode geboren[^4]. Dies ist das Ergebnis jahrelanger Tests, Erfahrung und Zusammenarbeit von Führungskräften in der Lean und Agil Community (wie David Aderson, Dan Vacanti, Darren Davis, Corey Ladas, Dominica DeGrandis, Rick Garber usw.)[^4].
 
 # Aufbau des Kanban-Systems
 
-Man kann mit dem Aufbau des Kanban-Systems beginnen, indem man das einfachste [Kanban-Board](Kanban_Boards.md) mit drei grundlegenden Spalten einrichten:
+Der Aufbau des Kanban-Systems beginnt mit dem einfachsten [Kanban-Board](Kanban_Boards.md) mit drei grundlegenden Spalten:
 
 * „Angefordert“
 * „In Bearbeitung“
@@ -43,7 +43,7 @@ Man kann mit dem Aufbau des Kanban-Systems beginnen, indem man das einfachste [K
 
 *[Kanban-Board](Kanban_Boards.md)[^4]*
 
-Wenn es richtig aufgebaut, verwaltet und funktioniert, dient es als Echtzeit-Informationsspeicher, der Engpässe innerhalb des Systems und alles andere aufzeigt, 
+Bei richtigem Aufbau, Verwaltung und Funktion dient es als Echtzeit-Informationsspeicher, der Engpässe innerhalb des Systems und alles andere aufzeigt, 
 was eine reibungslose Arbeitspraxis stören könnte[^4].
 
 # Vergleich Kanban und [Scrum](Scrum.md)
