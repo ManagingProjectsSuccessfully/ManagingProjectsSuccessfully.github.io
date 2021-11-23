@@ -12,7 +12,7 @@ Das Minimum Viable Product ist ein Entwicklungskonzept, das Anwendung im agilen 
 
 
 # Definition
-Ein Minimum Viable Product ist die erste Version eines Produktes beziehungsweise der erste Lösungsansatz eines bestehenden Problems. Es muss genügend Features mit ausreichender Qualität enthalten, um eine Kundengruppe zu erwerben. Im Vordergrund steht das Sammeln von möglichst vielen Informationen und Feedback, wie Kunden das neue Produkt verwenden.[^3]
+Ein Minimum Viable Product ist die erste Version eines Produktes beziehungsweise der erste Lösungsansatz eines bestehenden Problems, das in den Markt gebracht wird. Es muss genügend Features mit ausreichender Qualität enthalten, um eine Kundengruppe erwerben zu können. Im Vordergrund steht das Sammeln von möglichst vielen Informationen und Feedback, wie Kunden das neue Produkt verwenden.[^1][^3]
 
 [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) 
 
