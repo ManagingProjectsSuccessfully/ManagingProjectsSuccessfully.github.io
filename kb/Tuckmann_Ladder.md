@@ -53,11 +53,11 @@ akzeptieren.
 
 So kann man eine Tabelle erstellen:
 
-|         *      | Forming | Storming      | Norming      | Performing    |
+| * | Forming | Storming | Norming | Performing |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Allgemeine Feststellungen| Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende| Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen | Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
-| Prozessbezogene Probleme  | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
-
+| Allgemeine Feststellungen | Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende | Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen | Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
+| Prozessbezogene Probleme | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
+| Gefühlsbezogene Fragen | Die Menschen fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
