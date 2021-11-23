@@ -44,7 +44,19 @@ Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen ada
 
 Das Framework lässt sich in zwei Zyklen darstellen: Scrum-Master-Zyklus und Produktinhaber-Zyklus. Im ersten Zyklus geht es um das "Wie", im zweiten um das "Was". Auch Überschneidungen werden so ersichtlich.
 
+# Die zwei Zyklen
 
+Im Kern besteht Scrum at Scale aus zwei parallel verlaufenden Prozessen:
+
+1. Einem **Product Owner Zyklus**, der das ‚Was‘ des Produktes definiert sowie
+2. einem **Scrum Master Zyklus**, der das ‚Wie‘ der Entwicklungsarbeiten festlegt.
+
+## Product Owner Zyklus
+
+Konzentrieren wir uns zunächst auf das ‚Was‘. In jedem nach Scrum arbeitenden Entwicklungsteam verantwortet ein Product Owner ein Teil des Produkts. Die Product Owners von bis zu fünf Scrum Teams finden sich in einem Product Owner Team zusammen, ein sogenannter Chief Product Owner (CPO) fungiert als oberster Repräsentant. Gemeinsam arbeiten die Product Owner eine Produktvision & -roadmap sowie eine Definition of Done heraus. Zudem identifizieren Sie Abhängigkeiten und Redundanzen mit Hilfe eines gemeinsamen Product Backlogs. Übersteigt die Produktgröße 25 entwickelnde Teams, dann wird ein Executive MetaScrum (EMS) ins Leben gerufen. Diese oberste Instanz setzt die strategischen Prioritäten und Ziele für das Gesamtergebnis.
+
+## Scrum Master Zyklus
+Kommen wir nun zum ‚Wie‘ Zyklus. Scrum at Scale sieht bis fünf Scrum Teams ein Scrum-of-Scrums (SoS) Team vor. Dieses verantwortet die Ablieferung eines integrierten Produkt-Inkrements zum Sprintende. Ein Scrum-of-Scrums Master (SoSM) stellt dabei die Einhaltung von Scrum at Scale in allen Teams sicher. Sein Fokus liegt insbesondere auf organisatorischer, prozessualer und inhaltlicher Integration. Steigt Produktumfang und -komplexität weiter an, ist damit eine größere Entwicklungsmannschaft erforderlich, wächst Scaled at Agile weiter zum Scrum-of-Scrums-of-Scrums Ansatz. Das Limit liegt nun bei 25 synchronisierten Teams. Nun ist ebenfalls ein Execution Action Team (EAT) bestehend aus einem Product Owner und Scrum Master erforderlich. Ausgestattet mit einem politischen Mandat und ausreichendem Budget verantwortet und optimiert das EAT organisationsübergreifend die Ablaufqualität von Scrum auf Basis eines Organizational Transformation Backlogs.
 # Zusammenfassung
 
 Mit Hilfe von Scrum@Scale können Unternehmen und Organisationen im eigenen Tempo organisch wachsen und eine vielzahl von Teams, durch die skalenfreie Architektur des Konzeptes, koordinieren.
