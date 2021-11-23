@@ -32,7 +32,7 @@ In den letzten Jahren hat die Anzahl an Demonstrationen zugenommen. Es wurde vor
 
 Arbeitskräfte in den Schwellen- und Entwicklungsländern sind günstiger als in den Industrieländern. Da Länder, wie Indien, sehr früh in den Dienstleistungssektor der Industrieländer eingestiegen sind, blieb die eigene Industrialisierung auf der Strecke. Um diesen Ländern dabei zu helfen, sind Projekte mit sozialen Auswirkungen wichtig. Organisationen erarbeiten eigene Projekte, wie Brunnenbau und Bewässerung in Schwellenländern und helfen so auf doppelte Weise. Sie schaffen Arbeit und helfen gleichzeitig den Ländern. 
 
-## 5. [Digitalisierung](kb/Digitalisierung_im_PM.md)und Datenmengen [^5]
+## 5. [Digitalisierung](kb/Digitalisierung_im_PM.md) und Datenmengen [^5]
 
 Durch neue Technologien, die Einsetzung von KI fallen immer mehr Daten an. Projektmanager werden vor eine große Herausforderung, da diese Daten auch verwaltet werden müssen.
 Dies nimmt viel Zeit in Anspruch, hilft aber andererseits beim Vereinfachen der Projekte.
@@ -40,7 +40,7 @@ Dies nimmt viel Zeit in Anspruch, hilft aber andererseits beim Vereinfachen der 
 Um diese ganzen Daten zu speichern, werden immer öfter Clouds verwendet. 
 Folgende Grafik zeigt wie die Datenmengen weltweit wachsen. Die Daten werden hier in Exabyte angeben, wobei ein Exabyte ca. einer Milliarde Gigabyte entspricht. Zum Vergleich ein Gigabyte entspricht 1 Millionen Text-Whatsappnachrichten.[^6]
 
-![Abbildung](https://github.com/SaskiaHe/ManagingProjectsSuccessfully.github.io/blob/5329365ce7afb12f8c512705252d9cff140b4d08/kb/Megatrends/iwd_2018_15_8-9_Clouds_Das_Datenvolumen_waechst.jpg)[^5]
+![Abbildung](https://github.com/SaskiaHe/ManagingProjectsSuccessfully.github.io/blob/5329365ce7afb12f8c512705252d9cff140b4d08/kb/Megatrends/iwd_2018_15_8-9_Clouds_Das_Datenvolumen_waechst.jpg)[^7]
 
 
 # Siehe auch
