@@ -19,7 +19,8 @@ In der Ablaufdarstellung mithilfe eines Netzplans existieren verschiedene Darste
 
 [^1]
 
-![Beispielabbildung](Netzplantechnik/Bild 1.jpg)
+![Beispielabbildung](kb/Netzplantechnik/Bild 1.jpg)
+
 kb/Netzplantechnik/Bild 1.jpg
 !kb/Netzplantechnik/Bild 1.jpg
 
