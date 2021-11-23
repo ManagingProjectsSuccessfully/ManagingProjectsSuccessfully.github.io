@@ -84,12 +84,11 @@ Der Focus Faktor, definiert die Zeit, wo das Team konzentriert auf den Aufgaben 
 ### Sprint Burndown
 Ein Sprint Burndown Diagramm, veranschaulicht den Sprint Fortschritt in bezug auf erledigte Aufgaben und wird in Stunden oder Story Points gemessen. Dadurch kann der Arbeitsaufwand angepasst werden.
 
+![Image](/kb/Scrum_Metrics/Burndown_Chart_Scrum_Metrics_03.png)
 
-
-FOTO BURNDOWN CHART
-
-
-
+>    - Restaufwand auf Y Achse
+>    - Sprintzeit auf X Achse
+>    - Leistung in Linien
 
 
 # Siehe auch
