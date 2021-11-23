@@ -40,8 +40,12 @@ So kann man eine Tabelle erstellen:
 
 | Funktionsart  | Beschreibung |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Projektfunktionen  | Funktionen zur bearbeitung eines Boardes. Hierzu zählen Spalten, Filter Zeitleisten, Automationen und Aufgabenmanagement. |
+| Aufgabenfunktionen  | Funktionen zu bearbeitung von einzelnen Aufgaben. Hierzu zählen Aufgabeninhaber/beobachter, Fälligkeitstermine, Zeiterfassung, Checklisten oder anhänge  |
+| Funktionen für einzelne Nutzer  | Content Cell  |
+| Analysefunktionen  | Content Cell  |
+| Funktionen zu Kommunikation  | Content Cell  |
+
 
 
 
