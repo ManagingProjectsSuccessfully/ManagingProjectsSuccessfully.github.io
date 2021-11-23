@@ -13,14 +13,11 @@ Projektmitarbeiter sind Rollen im [Projektmanagment](https://www.ibo.de/glossar/
 
 
 
-# Aspekt 1
+**Mitglieder des Projektteams**
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
+In der Follgende Abbildung sind **Rollen** von Projektmitarbeiter gezeigt. [^2]
 ![image](https://user-images.githubusercontent.com/92817695/142926386-c6e8bba3-c7f9-48c1-9b8c-9afc2c1b4a35.png)
 
 
@@ -72,8 +69,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: (https://www.ibo.de/glossar/definition/projektmitarbeiter)
+[^2]: (https://projektmanagement24.de/rolle-projektmitarbeiter-im-projekt)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
