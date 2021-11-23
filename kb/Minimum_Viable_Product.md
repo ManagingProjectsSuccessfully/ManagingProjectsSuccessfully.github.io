@@ -30,6 +30,7 @@ Eine zentrale Rolle für den Erfolg des MVP spielt die Einbeziehung des Kunden i
 Oft konzentrieren sich Produkt- oder [Projektmanager](Projektmanager.md) so stark auf die Veröffentlichung neuer Funktionen, sodass die Optimierung der wertvollsten Ressource, der Zeit, scheitert. Das MVP soll ermöglichen, mit möglichst wenig Aufwand, einem angemessenen Budget und schonenden Ressourcen, einen bestimmten Wert zu liefern. Wichtig dabei ist die Auswahl der wesentlichen Handlungen, die eine tatsächliche Auswirkungen haben. [^3][^6]
 
 ## Risikominimierung
+Das Minimum Viable Product trägt auch einen Teil im Risikomanagement bei. Häufig besteht die Meinung, dass eine hohe Anzahl an Features das Geschäft verbessern. In der Realität ist dies jedoch nicht der Fall. Stattdessen führt diese Behauptung meist zu unhandlicheren Produkten und einer Erhöhung des Risikos. Das MVP wägt dabei zwischen der Kapitalrendite (ROI) und dem Risiko ab, das vom Aufwand und von der Zeit abhängig ist. [^3] Durch die stetigen Feedbacks von Kunden, kann schon kurz nach der Einführung des Produktes auf dem Markt erkannt werden, ob die Weiterentwicklung sinnvoll ist. Wird das Produkt von den Kunden nicht akzeptiert, so kann frühzeitig ein Projektabbruch eingeleitet werden, um Verluste zu minimieren.
 
 ![Darstellung](Minimum_Viable_Product/MVP_Darstellung.png)
 
