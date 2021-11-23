@@ -2,103 +2,76 @@
 title: Pareto_Prinzip
 tags: agil klassisch
 author: nahihiry
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Pareto_Prinzip um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Das Pareto-Prinzip
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das Pareto Prinzip hat ein großes Ziel: Man möchte mit einem minimalen Aufwand ein halbwegs vollständiges Ergebnis erzielen.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Inhaltsverzeichnis
+1. Bedeutung des Pareto-Prinzips
+2. Ursprung des Pareto-Prinzips 
+3. Beispielhafte Situationen, in denen die 80/20-Regel zutrifft 
+4. Zeitersparnis durch die Anwendung des Pareto-Prinzips
+   1. Zeitersparnis durch die Anwendung des Pareto-Prinzips
+   2. Vergleich der Zeitersparnis mit der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
+5. Quellen
 
 
-# Aspekt 1
+### 1. Bedeutung des Pareto-Prinzips:
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Das Pareto-Prinzip wird gerne auch als "80/20-Prinzip" bezeichnet. Bei den zwei gegebenen Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand sowie das letzliche Endergebnis darstellen sollen. Mit einem Aufwand von etwa 20 Prozent kann demnach ein Endergebnis erzielt werden, das zu 80 % vollständig ist.[^1]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen kann.[^2] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient ist, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann.
 
-![Beispielabbildung](Pareto_Prinzip/test-file.jpg)
 
-*lustiges Testbild*
+### 2. Ursprung des Pareto-Prinzips:
 
-# Aspekt 2
+Die Einkommensschere ist schon seit Jahrhunderten von großer Bedeutung - insbesondere in der Politik. Es wird häufig betont, dass die Armen immer ärmer und die Reichen immer reicher werden. Die Diskrepanz zwischen Arm und Reich scheint immer größer zu werden und durch die Coronavirus-Krise hat sich die Gesamtsituation noch weiter zugespitzt.[^3]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Vilfredo Pareto war ein italienischer Ökonom und hat bereits im 19. Jahrhundert die Unterschiede im Vermögen der Population analysiert.
+Das Ergebnis seiner Analyse war, dass 80% des Gesamtvermögens im Besitz von nur 20% der Bevölkerung sei.
+Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilung des Vermögens zutrifft. In vielen Situation ist seine 80/20-Regel genauso passend.[^4]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+### 3. Beispielhafte Situationen, in denen die 80/20-Regel zutrifft:[^2]
 
-| First Header  | Second Header |
+| 20% Aufwand   | 80% Ergebnis  | 
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+|  Kunden       |   Umsatz      |
+|  Produkte     |   Umsatz      |
+|  Mitarbeiter  |   Fehltage    |
 
 
-# Siehe auch
+### 4. Zeitmanagement 
+#### 4.i. Zeitersparnis durch die Anwendung des Pareto-Prinzips:
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Pareto_Prinzip.md)
+Aus den oben genannten Gründen ist im Bereich des Zeitmanagements des Öfteren vom Pareto-Prinzip die Rede. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches bereits die wichtigsten Bedingungen erfüllt.[^5]
+Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf genau diese Aspekte beschränkt, wird also bereits ein großer Teil der Dinge erreicht, die man erzielen will. Der Aufwand, der in dem steckt, das nur 20% des Ergebnisses erfüllt, liegt also bei 80% und ist schlussfolgernd viel zeitintensiver. 
 
-# Weiterführende Literatur
+Dies wird auch in der folgenden Abbildung leicht sichtbar:[^6]
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+![image](https://github.com/nahihiry/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pareto_Prinzip/Bildschirmfoto%202021-11-19%20um%2019.05.53.png)
 
-# Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des Pareto Prinzips. Oftmals sind die letzten 20% des Ergebnisses, die die Erledigung der Aufgabe perfektionieren würden, nicht zwingend notwendig, sodass die Zeit, die dadurch gespart wird, wiederum für andere Bereiche genutzt werden kann.[^7]
+
+Bei der Anwendung des Pareto Prinzips trennt man sich somit bestenfalls gleichzeitig von seinem Perfektionismus, da dieser in den meisten Fällen nicht von Nöten ist. Auf diese Weise spart man sich nicht nur Nerven, sondern generiert gleichzeit auch mehr Zeit, um die Kernaufgaben besonders gut erledigen zu können. Insbesondere wenn man eine große Anzahl auf Aufgaben zu erledigen hat eignet sich das Pareto Prinzip, da man mithilfe dieses Prinzips alle Aufgaben bereits fast vollständig abarbeitet und nicht nur wenige Aufgaben "perfekt", also zu 100%, ausarbeitet.[^8]
+
+#### 4.ii. Vergleich der Zeitersparnis zu der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
+
+Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik hat man auch das Ziel in möglichst kurzer Zeit viel zu erreichen. Die Zeit, in der man arbeitet sowie die Zeit der Pausen, wird hier zwar lediglich eingeteilt, aber durch die Zeiteinteilung steigert sich auch hier die Produktivität. Man versucht sich nicht ablenken zu lassen und vermeidet Zeitfresser, um, wie beim Pareto- Prinzip, in kurzer Zeit möglichst vieles zu schaffen.[^9]
+
+
+### 5. Quellen:
+[^1]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
+[^2]: Alfred Ultsch, Marburg, 2001, "Eine Begründung der Pareto-80/20 Regel und Grenzwerte für die ABC-Analyse", S. 1
+[^3]: https://www.dw.com/de/wachsende-kluft-zwischen-arm-und-reich-in-deutschland/a-57506792
+[^4]: Hauke Christiansen, Münster, 2020, "Schulentwicklung proaktiv, kreativ, effektiv - Rückenwind für Schulleitungen", S. 203
+[^5]: Stephan Rusch, 2019, "Stressmanagement - Ein Arbeitsbuch für die Aus-, Fort- und Weiterbildung", S. 118
+[^6]: https://der-prozessmanager.de/aktuell/wissensdatenbank/pareto-prinzip
+[^7]: https://www.gruenderlexikon.de/checkliste/fuehren/zeitmanagement/pareto-prinzip/
+[^8]: https://www.flowfinder.de/pareto-prinzip/
+[^9]: https://www.selbst-management.biz/pomodoro-technik/
 
