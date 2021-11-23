@@ -38,7 +38,7 @@ Ist der Konflikt so weit fortgeschritten, gibt es nur noch Verlierer. Eine Konfl
 | ------------- | ------------- | ---------------|
 | Der Konflikt gerät außer Kontrolle und die eigentliche Konfliktursache steht lange nicht mehr im Vordergrund. Beide Parteien wollen ihrem Gegner möglichst großen Schaden zufügen. Der mit dem geringeren Schaden fühlt sich hierbei als Gewinner.  | Die gegnerische Konfliktpartei soll so weit wie möglich zerstört werden. In dieser Stufe ist die Anwendung von Gewalt nicht ausgeschlossen.  | Die Parteien sind bereit sich selbst zu vernichten, solange der Gegner mit ihnen untergeht. Wenn ein Konflikt so weit fortschreitet, ist ein lösen des Konfliktes ohne Hilfe nicht mehr möglich. |
 
-# Kernmechanismen der Eskalation
+# Kernmechanismen der Eskalation [^4]
 In den Konfliktstufen nach Glasl finden sich die fünf Kernmechanismen der Eskalation. Das sind:
 
 *	Wachsende Selbstfrustration: 
@@ -64,4 +64,5 @@ Wenn Parteien überzeugt sind, dass ein Konflikt nicht lösbar ist, führt dies 
 # Quellen
 [^1]: [Eskalationsstufen von Konflikten] (https://www.landsiedel-seminare.de/coaching-welt/wissen/lexikon/eskalationsstufen.html)
 [^2]: [Eskalation] (https://de.wikipedia.org/wiki/Eskalation)
-
+[^3]: [9 Eskalationsstufen] (https://www.projektmagazin.de/methoden/9-eskalationsstufen-konfliktmanagement)
+[^4]: [Die 9 Eskalationsstufen und wie Konflikte sich lösen lassen!] (https://greator.com/eskalationsstufen/)
