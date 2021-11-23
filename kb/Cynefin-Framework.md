@@ -1,6 +1,6 @@
 ---
 title: Cynefin-Framework
-tags: agil klassisch
+tags: agil 
 author: 5SY5
 anrechnung: a
 ---
@@ -69,7 +69,9 @@ Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework z
 
 # Siehe auch
 
-* 
+* Projektmanagement.md
+* Wissensmanagament.md
+* SCRUM.md
 
 # Weiterführende Literatur
 
