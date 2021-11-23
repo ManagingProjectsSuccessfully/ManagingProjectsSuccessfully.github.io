@@ -10,6 +10,7 @@ Das Minimum Viable Product ist ein Entwicklungskonzept, das Anwendung im agilen 
 # Inhaltsverzeichnis
 1. [Definition](#definition)
 2. [Konzept des MVP](#konzept-des-MVP)
+3. [Relevanz im Projektmanagement](#Relevanz-im-Projektmanagement)
 
 
 # Definition
