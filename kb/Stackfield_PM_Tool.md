@@ -1,6 +1,6 @@
 ---
 title: Stackfield_PM_Tool
-tags: agil
+tags: agil, stackfield
 author: YSmithers46
 anrechnung: a
 ---
@@ -8,9 +8,9 @@ anrechnung: a
 Stackfield ist ein Projektmanagement-Tool der Stackfield GmbH, die in München ansässig ist.
 Die Software kombiniert einige Funktionen in einer Anwendung. Bei der Kommunikation zwischen Team-Mitgliedern angefangen, über Dateien die in der Anwendung abgelegt werden können, bis hin zur Übersicht der anstehenden Aufgaben[^1].
 
-# Stackfield
+# [Stackfield](https://www.stackfield.com/de/tour)
 
-Die Anmeldung bei Stackfield verlief reibungslos. In wenigen Schritten ist es möglich ein eigenes Projekt anzulegen
+Die Anmeldung bei Stackfield verlief reibungslos. In wenigen Schritten ist es möglich ein eigenes Projekt anzulegen und direkt zu starten.
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -34,13 +34,25 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Überblick
+
+![Overview](Stackfield_PM_Tool/Stackfield_Overview.jpg)
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* Firma (hier Smithers GmbH; blauer Balken)
+  - Meine Woche 
+  - Berichte
+  - Direkte Nachrichten
+  - Räume 
+* Projekt (hier MPS; mitte oben)
+  - Kommunikation
+  - Diskussionen
+  - Aufgaben
+  - Seiten
+  - Dateien
+  - Kalender
+  - Einstellungen
 
 ![Beispielabbildung](Stackfield_PM_Tool/test-file.jpg)
 
