@@ -25,7 +25,7 @@ Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt. In der Ablauf
 
 ### Arten der Netzplandarstellung
 Für die Darstellung von Projektabläufen mit der In der NPT existieren verschiedene Möglichkeiten um Projektabläufe dazustellen.
-Bei der Ablaufdarstellung  von Projektabläufen mithilfe der  Netzplantechnik gibt es drei Grundarten von Netzplänen. Diese bezeichnet man als Ereignisknoten-, Vorgangspfeil- und Vorgangsknoten-Netzplan [3^].
+Bei der Ablaufdarstellung  von Projektabläufen mithilfe der  Netzplantechnik gibt es drei Grundarten von Netzplänen. Diese bezeichnet man als Ereignisknoten-, Vorgangspfeil- und Vorgangsknoten-Netzplan [3^] .
 Grundsätzlich sind zwischen diesen Netzplandarstellungen auch Mischformen möglich. Bei diesen gemischtorientierten Netzplänen werden allerdings im Vergleich zu den nichtgemischten Netzplänen dennoch Vorgänge als auch Ereignisse abgebildet.[^1]
 
 
@@ -44,7 +44,7 @@ Danach folgt mithilfe des Netzplans die strukturelle Darstellung des Projekts.
 Als nächstes erfolgt mit dem erstellten Netzplan die Zeitplanung des Projekts. 
 Diese umfasst die Bestimmung der frühesten und spätesten Anfangs- sowie Endzeitpunkte der einzelnen Vorgänge.
 Der Zeitbedarf für jeden Vorgang variiert nach den vorhandenen Ressourcen des Unternehmens. 
-Zuerst werden in der Zeitplanung die frühestmöglichen Anfangs- und Endzeitpunkte der einzelnen Vorgänge durch die Vorwärtrechnung [^4] ermittelt. Anschließend bestimmt man die spätestmöglichen Anfangs- und Endzeitpunkte mit der Rückwärtsrechnung [^4].
+Zuerst werden in der Zeitplanung die frühestmöglichen Anfangs- und Endzeitpunkte der einzelnen Vorgänge durch die Vorwärtrechnung[^4] ermittelt. Anschließend bestimmt man die spätestmöglichen Anfangs- und Endzeitpunkte mit der Rückwärtsrechnung[^4].
 Nun erhält man aus der Differenz der spätesten und frühesten Zeitpunkten die Zeitreserven für die Durchführung der Vorgänge. Diese Zeitreserven werden auch Pufferzeiten genannt. Vorgänge die keine Pufferzeiten enthalten, werden kritische Vorgänge genannt.
 Die Verbindung dieser kritischen Vorgänge ergibt den kritischen Pfad und somit den längsten Weg im Netzplan. Sobald sich nur ein einziger kritischer Vorgang verzögert, verlängert sich die gesamte Projektdauer. In jedem Projekt befindet sich mindestens ein kritischer Pfad, welcher den Fertigstellungstermin des Projektes angibt.  Anhand des ermittelten Zeitbedarfs, können von den einzelnen Vorgängen die Kosten bestimmt werden und dadurch die Gesamtkosten des Projekts.
 Mittels der Gegenüberstellung angefallener Ist-Kosten mit den ermittelten Plan-Kosten ist es möglich Abweichungen früh genug zu erkennen und dementsprechend zu Handeln. 
@@ -63,5 +63,5 @@ Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen 
 
 [^1]: [Kapahnke (2018): "Grundlagen der Netzplantechnik"]
 [^2]: [Homepage Kayenta, Plewa (2021): "NETZPLANTECHNIK: SO GELINGT DIE ERFOLGREICHE PROJEKTPLANUNG ✔"] 
-[^3]: [Wikipedia (2021): "Netzplantechnik"]
-[^4]: [Netzplantechnik]: (https://www.bwl-lexikon.de/wiki/netzplantechnik/#3-schritt-die-rueckwaertsterminierung)
+[^3]: [Wikipedia (2021):"Netzplantechnik"]
+[^4]: [Netzplantechnik] (https://www.bwl-lexikon.de/wiki/netzplantechnik/#3-schritt-die-rueckwaertsterminierung)
