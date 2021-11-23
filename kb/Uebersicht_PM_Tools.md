@@ -10,7 +10,7 @@ Projektmanagement-Tools im klassischen Sinn unterstützen die Projektmanager, F�
 # Geschichte
 
 Das erste Projektmanagement-Tool für Computer (bisher nur für Mainframes) war Artemis,
-entwickelt vom Unternehmen Metier Management Systems im Jahr 1978. Artemis kombinierte Projektplanung und Terminplanung mit Kostenkontrolle und Ressourcenmanagement.
+entwickelt vom Unternehmen Metier Management Systems im Jahr 1978. Artemis kombinierte Projektplanung und Terminplanung mit Kostenkontrolle und Ressourcenmanagement. [^1]
 
 In den darauffolgenden Jahren folgten viele Verbesserungen und verschiedene Software-Produkte erschienen mit mehr Funktionen für komplexere Projekte. Ab Anfang der 2000er wurden auch mehr Projektmanagement-Tools für agiles Projektmanagement entwickelt. Außerdem entwickelte sich der Trend zu cloudbasierten Programmen und Software as a Service, also dass die Software und die IT-Infrastruktur bei einem externen IT-Dienstleister betrieben und vom Kunden als Dienstleistung genutzt werden.
 
@@ -19,16 +19,17 @@ In den darauffolgenden Jahren folgten viele Verbesserungen und verschiedene Soft
 
 ## Projektplanung
 
-Die Projektplanung ist ein Kernbereich des Projektmanagements. Wichtige Features sind:
+Die Projektplanung ist ein Kernbereich des Projektmanagements. Wichtige Features sind:[^2]
 
 | Feature  | genaue Funktion |
 | ------------- | ------------- |
 | Verwaltung allgemeiner Projektdaten  | Grundlegende Informationen, um schnellen Einblick in das Projekt zu bekommen |
 | Projektstrukturplanung  | Gliederung des Projekts in plan- und kontrollierbare Elemente  |
-| Meilensteinplanung  | Grundlage, um zu bestimmten Zeitpunkten den Projektstatus hinsichtlich von Zielen, Kosten und Terminen beurteilen zu können  |
-| Gantt Chart | stellt die verschiedenen Projektphasen übersichtlich dar  |
+| [Meilensteinplanung](Meilensteine.md)  | Grundlage, um zu bestimmten Zeitpunkten den Projektstatus hinsichtlich von Zielen, Kosten und Terminen beurteilen zu können  |
+| [Gantt Diagramme](Gantt_Diagramme.md) | stellt die verschiedenen Projektphasen übersichtlich dar  |
 | Task Management  | welche Aufgaben noch umzusetzen sind und welchen aktuellen Stand man hat  |
-| Netzplan  | stellt die Dauer von Vorgängen im Projekt, ihre zeitliche Anordnung und logische Abhängigkeiten zwischen den Vorgängen dar  |
+| [Netzplan](Netzplantechnik.md)  | stellt die Dauer von Vorgängen im Projekt, ihre zeitliche Anordnung und logische Abhängigkeiten zwischen den Vorgängen dar  |
+
 
 ## Kommunikation und Zusammenarbeit
 
@@ -37,28 +38,32 @@ Immer wichtiger und auch beliebter werden Tools und Softwarelösungen im Bereich
 ## Dokumentenmanagement
 
 In großen Projekten lohnt sich eine eigene Plattform zum Wissenstransfer, und auch eigene oder externe Cloud Speicher können mit Projektmanagement-Tools verknüpft werden.
-Weiterhin können Suchfunktionen und Archivierungsmöglichkeiten sinnvoll sein, um auf alte Dokumente zugreifen zu können.
+Weiterhin können Suchfunktionen und Archivierungsmöglichkeiten sinnvoll sein, um auf alte Dokumente zugreifen zu können. [^2]
 
 ## Budgetplanung
 
-Bei Projekten ist es wichtig, dass die Kosten proaktiv gesteuert werden können und das Budget eingehalten wird. Ein Projekt ist oft mit anderen Projekt verbunden und hat das Potenzial, die gesamte Kampagne zu beeinflussen. Mit Projektmanagement-Software wird die Budgetverwaltung einfacher und die Ausgaben können besser verfolgt und das Budget schnell eingerichtet werden. Indem man die vorhergesagten Ausgaben mit den tatsächlichen vergleicht kann ein besserer Überblick gewonnen werden
+Bei Projekten ist es wichtig, dass die Kosten proaktiv gesteuert werden können und das Budget eingehalten wird. Ein Projekt ist oft mit anderen Projekt verbunden und hat das Potenzial, die gesamte Kampagne zu beeinflussen. Mit Projektmanagement-Software wird die Budgetverwaltung einfacher und die Ausgaben können besser verfolgt und das Budget schnell eingerichtet werden. Indem man die vorhergesagten Ausgaben mit den tatsächlichen vergleicht kann ein besserer Überblick gewonnen werden [^3]
 
 
 
 
 ![meistgenutzte PMTool Funktionen](https://user-images.githubusercontent.com/92924821/143053169-32e9cb99-74cf-41f3-bef9-a906c48a4f3d.png)
-*Studie zu den meistgenutzten Funktionen von Projektmanagement-Software für kleine und mittlere Unternhemen*
+*Studie zu den meistgenutzten Funktionen von Projektmanagement-Software für kleine und mittlere Unternhemen* [^4]
 
 
 
-# Vorteile einer Projektmanagement-Software:
+# Vor- und Nachteile einer Projektmanagement-Software:[^2]
+
+## Vorteile
+
 * Die Organisation des Projektes ist zentralisiert möglich
 * Liefert einen Gesamtblick über das Projekt mit den wichtigsten Informationen
 * Vereinfacht viele wiederkehrende Aufgaben und kann so Zeit sparen
 * Das ergebnisorientierte Arbeiten wird durch die Transparenz der Aufgaben verbessert.
 * Unternehmensziele werden durch Projekte schneller erreicht
 
-# Nachteile durch die Unterstützung mit Projektmanagement Tools
+## Nachteile 
+
 * Zeitintensive Einarbeitung in neue Software
 * Das Tool muss vom Team akzeptiert werden
 * Eine Projektmanagment Software kostet in den meisten Fällen Geld
@@ -68,54 +73,6 @@ Bei Projekten ist es wichtig, dass die Kosten proaktiv gesteuert werden können 
 ![pm marktanteil](https://user-images.githubusercontent.com/92924821/143071468-eb38bca1-6769-4335-97f3-56e06656e459.png)
 *Marktanteil der Meistgenutzten Proketmanagement Tools*
 https://www.datanyze.com/market-share/project-management--217
-
-
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Uebersicht_PM_Tools/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -129,8 +86,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: http://www.computinghistory.org.uk/det/14416/Metier-Artemis/
+[^2]: https://pm-tools.info/projektmanagement-software-eine-einfuehrung/
+[^3]: https://www.proofhub.com/articles/importance-of-project-management-software
+[^4]: https://www.capterra.com.de/blog/407/nutzerstudie-wie-wird-projektmanagement-software-in-deutschland-genutzt
 
