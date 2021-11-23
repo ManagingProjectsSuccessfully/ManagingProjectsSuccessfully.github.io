@@ -54,6 +54,7 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 
 ## Lösungsansätze
 Eine mögliche Lösung stellt hier bei das [Microsoft PPM](https://www.microsoft.com/de-de/microsoft-365/project/project-portfolio-management)-Tool dar. Es ist ein benutzerfreundliches Tool für zentrales Projektmanagement, da es eine gemeines Arbeits- und Informationsplattform für Forscher und Projektbeteiligte bereitstellt. [^4] 
+
 Nützliche Funktionen für Forschungsprojekte:
 1. PPM: zentrales Speichern und Auswerten, standardisierte Dokumentablage durch Sharepoint
 2. Erweiterung Multiprojekt: Top-down-Kommunikation, Bottum-up-Prinzip, Meilensteinübersicht, Projektampeln
