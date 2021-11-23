@@ -28,21 +28,25 @@ Cynefin beschreibt fünf Problemdomänen, die wie folgt lauten
 Die ersten vier Hauptdomänen sind:
 
 1. Obvious/simple
+
 Befinden wir uns in einem "einfachen" Umfeld sind die Beziehungen und ihre Abhängigkeit offensichtlich. Ursachen und Wirkungen können einfach beschrieben werden und beurteilt 
 werden. Daher gibt es auch eine eindeutige Antwort auf die einzelnen Probleme, weshalb auch oft von "Best Practice" gesprochen wird. Snowden ist der Ansicht, dass man bei 
 offensichtlichen Entscheidungen nach dem Prinzip "Erkennen - Kategorisieren - Reagieren" vorgehen sollte[^2].
 
 2. Complicated
+
 Bei "komplizierten" Problemen sind die Ursachen und Wirkungen immer noch eindeutig zu beschreiben, aber nicht für alle verständlich. In anderen Worten das Problem ist für einige 
 zu kompliziert, weshalb die Lösungen (es sind mehrere möglich) für "Nicht-Experten" schwer zu erkennen sind[^3]. Daher beläuft sich der Ansatz für die Entscheidungsfindung auf 
 folgende drei Punkte "Erkennen - Analysieren - Reagieren"[^5]. Diese Domäne wird auch "Good Practice" genannt.
 
 3. Complex
+
 In "komplexen" Situationen ist es fast unmöglich eine Lösung zu erkennen, da es zu viele Unbekannte gibt. Auch für Experten ist es schwierig die Beziehung der Ursache und der 
 Wirkung zu erkennen. Dies hat zu Folge, dass es keine richtige Antwort gibt. Solche Situationen sind meist unvorhersehbar und daher schlägt Snowden folgende Herangehensweise an 
 "Sondieren - Erkennen - Reagieren"[^3].
 
 4. Chaotic
+
 Im "chaotischen" Bereich ist das wichtigste Ziel schnell und agil zu arbeiten, um das Problem zu stabilisieren und in Ordnung zu bringen. Daher lautet auch hierbei der Ansatz beim Vorgehen "Handeln-Erkennen-Reagieren"[^4].
 
 Die fünfte Domäne nennt sich Disorder, der Zustand des Nichts-Wissen, indem man nicht weiß in welcher der Domänen man sich gerade befindet[^5]. Dabei greifen Menschen meist auf 
@@ -52,7 +56,7 @@ Herangehensweise einer Domäne zu zuordnen.[^4]
 
 # Die complacent Zone 
 
-* Die Grenze zwischen "obvious" und "chaotic" unterschiedet sich in ihrer Wirkung von den anderen. Die Regle hierbei lautet: Sobald angenommen wird, dass die Probleme bzw. 
+* Die Grenze zwischen "obvious" und "chaotic" unterschiedet sich in ihrer Wirkung von den anderen. Die Regel hierbei lautet: Sobald angenommen wird, dass die Probleme bzw. 
 Situationen einfach und geordnet sind, befindet man sich in der "complacent Zone" und das Ergebnis ist katastrophal. Daher ist es empfehlenswerter an den komplexen und 
 komplizierten Zonen zu managen.[^4]
 
