@@ -25,6 +25,9 @@ Der Begriff MVP wurde 2001 von Frank Robinson in die Produktentwicklung eingefü
 ## Besonderer Berücksichtigung der Anwender
 Eine zentrale Rolle für den Erfolg des MVP spielt die Einbeziehung des Kunden in der frühen Entwicklungsphase. Dadurch ist der Anbieter von Anfang bis zum Ende des Prozesses in der Lage Feedback, beispielsweise durch Erstellung von [User Storys](User_Story.md), einzuholen. Diese Informationen sollen helfen die gewünschten Veränderungen des Anwenders im Endprodukt zu realisieren. [^1][^5] 
 
+## Zielgerichtetes Management
+Oft konzentrieren sich Produkt- oder Projektmanager so stark auf die Veröffentlichung neuer Features, sodass die Optimierung der wertvollsten Ressource, der Zeit, scheitert. Das MVP soll ermöglichen, mit möglichst wenig Aufwand, einem angemessenen Budget und schonenden Ressourcen, einen bestimmten Wert zu liefern. Wichtig dabei ist die Auswahl der wesentlichen Handlungen, die eine tatsächliche Auswirkung haben. [^3] 
+
 
 ![Darstellung](Minimum_Viable_Product/MVP_Darstellung.png)
 
