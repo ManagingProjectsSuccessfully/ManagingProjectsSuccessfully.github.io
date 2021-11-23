@@ -18,7 +18,16 @@ Sprint Planung ist ein "EVENT" in SCRUM.
 Die andere Events sind Spint, Daily Scrum, Sprint Review, Retrospektive. Events sind ein zentralles strukturelles Element von Scrum. Event[^2] nach Scrum haben eine ganz spezielle Charakteristika[^2]. Sie müssen regelmäßig stattfinden. Es sorgt für den interaktiven Charakter von Scrum sicherzustellen. Für jedes Event nach Scrum ist ein fester Zeitraum vorgegeben. Zum Beispiel Daily Scrum ist jeden Tag 15 min[^3].
 
 
-![test](Sprint_Planning//sprint-planungsmeeting.png)
+## Sprint 
+Ein Sprint ist ein festgelegten Zeitraum, in dem man die Arbeit erldigt. Bevor man losgehen kann, muss man den Sprint planen. Und so fängt man mit `Spint-Planing`. Im Sprint-Planing plant das gesamte Scrum-Team (Product Owner, Scrum-Master, Entwlickerteam) das Ziel und legt das Sprint Backlog fest. Das Sprint-Planungsmeeting umfast 2 Teile. 
+### was?
+Der erste fokusiert sich auf WAS und klärt, welche Anforderungen im Laufe des Sprints umgesetz werden sollen.
+### wie?
+Der zweite fokusiert sich auf WIE die Anforderugen (Ziele) zum Erreichen sind. Das Entwlicklerteam plant die Aufgaben, um das Ziel des Sptrints zu erreichen.
+
+
+![SCRUM](Sprint_Planning//sprint-planungsmeeting.png)
+
 # Das Meeting
 Das Event Sprint-Planing steht am Anfang eines Spints. Bei dem Sprint-Planungsmeeting ist das Entwicklerteam und der Product-Owner dabei. Beide zusammen planen den nächsten Sprint. Das Blick wird gerichtet auf den nächste 2 oder 3 Wochen (unterschiedlich um je nachdem wie lange der Sprint dauert). Die Sprint-Planing dient dazu die Anfordeung, die in Product-Backlog vorhanden sind, mit dem Team durchzusprechen und zwar die wichtigsten Requiraments und daraus das sogenanten Sprint-Backlog zu formen. Die Anforderung in den Sprint hineinzunehmen, die dann in diesem Sprint auch umgesetzt wird. Also das Ziel des Events ist aus dem Product-Backlog die wichtigsten Anforderungen in Sprint-Backlog zu überführen. Deswegen ist die Sprint-Planing in zwei getielt. 
 
