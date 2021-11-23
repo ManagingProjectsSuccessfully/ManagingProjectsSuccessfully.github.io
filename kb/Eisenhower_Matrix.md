@@ -2,7 +2,7 @@
 title: Eisenhower_Matrix
 tags: agil klassisch
 author: Ersan42
-anrechnung: k oder a
+anrechnung: k
 ---
 
 # Eisenhower Matrix
@@ -11,6 +11,13 @@ anrechnung: k oder a
 Das Eisenhower Prinzip (auch genannt Eisenhower Methode, Eisenhower Matrix) kann dabei helfen, anstehende Aufgaben in Kategorien einzuteilen und diese zu priorisieren. Dabei wird jede Aufgabe auf Dringlichkeit und Wichtigkeit überprüft. Dadurch sollen die wichtigsten Aufgaben zuerst erledigt werden und die unwichtigen aussortiert. Eine Aufgabe kann wichtig/nicht wichtig sowie dringend/nicht dringend sein. Insgesamt ergeben sich vier Kombinationsmöglichkeiten, die in einer Matrix mit vier Quadranten sichtbar gemacht werden können. Jedem Aufgabentyp wird eine bestimmte Art der Bearbeitung zugeordnet.
 
 # Inhaltsverzeichnis
+
+* [Wortherkunft](#wortherkunft)
+* [Aufgaben-Varianten](#aufgaben-varianten)
+* [Vorteile und Nachteile des Eisenhower Prinzips](#vorteile-und-nachteile-des-eisenhower-prinzips)
+* [Fazit](#fazit)
+* [Quellenverzeichnis](#quellenverzeichnis)
+
 
 # Wortherkunft
 
@@ -43,6 +50,8 @@ Diese Betrachtungsweise stellt das gesamte Prinzip infrage.
 # Fazit
 Die Lösung aller Zeitmanagementprobleme ist das Eisenhower Prinzip wohl nicht. Die Methode kann jedoch hilfreich sein, Prioritäten besser zu setzen.
 Im besten Fall bearbeitet jeder Mensch überwiegend Aufgaben, die als dringlich und wichtig eingestuft werden können. Wird die Herangehensweise der Matrix effektiv umgesetzt, sollte sich also ein Zeitgewinn deutlich erkennen lassen. Die gewonnene Zeit kann wiederum für andere Dinge genutzt werden.
+
+# Quellenverzeichnis
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
