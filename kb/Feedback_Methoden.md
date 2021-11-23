@@ -32,7 +32,7 @@ Anforderungen des Kunden geändert haben und nicht mehr den Ursprünglichen ents
 
 *Abbildung 1[^3]*
 
-Dennoch gibt es auch beim klassichen Projektmanagement die Möglichkeit während des Projektes Feedback einzubringen, um dieser Unsicherheit entgegenzusteuern. Diese Methode wird
+Dennoch gibt es auch beim klassischen Projektmanagement die Möglichkeit während des Projektes Feedback einzubringen, um dieser Unsicherheit entgegenzusteuern. Diese Methode wird
 allerdings meist nur angewandt, wenn das Projekt Gefahr läuft zu scheitern. Wird dann auf das Feedback eingegangen, so ist das in der Regel mit einem hohen Umplanungs- und
 Kostenaufwand verbunden.[^3]
 
@@ -48,7 +48,7 @@ bzw. Sprint Rückmeldung vom Kunden eingeholt, welches im nächsten Zyklus umges
 Ferner führen die Teams und Teilnehmer eines agilen Projekts nach jeder Iteration eine sog. [Retrospektive](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Retrospective.md), als kollaboratives Feedback, durch. Hierbei wird das
 Zusammenspiel der verschiedenen Mitglieder analysiert und Verbesserungsvorschläge gegeben.[^8]
 Der große Vorteil dieses Feedback-Modells ist, dass durch das regelmäßige qualitative Feedback der Stakeholder, vor allem der Kunden, kaum Gefahr besteht den vorab gestellten
-Anfforderungen nicht gerecht zu werden.[^3] Deswegen wird agiles Projektmanagement häufig für Produkte verwendet, die durch rasante Entwicklung vielen Aänderungen der
+Anforderungen nicht gerecht zu werden.[^3] Deswegen wird agiles Projektmanagement häufig für Produkte verwendet, die durch rasante Entwicklung vielen Änderungen der
 Anforderungsansprüche ausgesetzt sind, wie beispielsweise in der Softwareentwicklung.[^8]
 
 
