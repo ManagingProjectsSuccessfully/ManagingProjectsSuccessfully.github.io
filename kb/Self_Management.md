@@ -5,7 +5,7 @@ author: Dolunay76
 anrechnung: k
 ---
 Self-management bezeichnet die Fähigkeit unabhängig von anderen und völlig selbstständig seinen Berufsalltag zu gestalten. Dies bedeutet, dass man seinen Arbeitsalltag selbstständig aufbaut, die Selbstgestaltung umfasst mehrere Punkte, wie z.B. die Planung. Organisation sowie die Motivation und Zielsetzung. 
-Um es konkreter zu beschreiben, geht es darum, dass man lernt sich eine Übersicht zu schaffen und seine Aufgaben selbstständig einzuteilen und abzuarbeiten, sie zu priorisieren und organisieren zu können und dabei seine Motivation beizubehalten. 
+Um es konkreter zu beschreiben, geht es darum, dass man lernt sich eine Übersicht zu schaffen und seine Aufgaben selbstständig einzuteilen und abzuarbeiten, sie zu priorisieren und organisieren zu können und dabei seine Motivation beizubehalten. [^2]
 Im Wesentlichen geht es darum effektiver Entscheidungen treffen zu können und den Prozess zu erleichtern. Vor allem Führungspositionen und Manager wenden diese Kompetenz an, als eine Methode um ihre Produktivität und Leistungsfähigkeiten dauerhaft zu verbessern.
 Self-management wird gerne mit Zeitmanagement verwechselt, jedoch ist das Zeitmanagement lediglich eine Teil Kompetenz die in das Self-management mitwirkt. Self-management umfasst um einige mehr Kompetenzen, die benötigt werden, um es richtig umzusetzen.[^1]
 ![Selfmanagement](Self_Management/Selbstmanagement-Beispiele-Psychologie-Tools-Methoden-Zeitmanagement-Grafik.jpg) [^2]
