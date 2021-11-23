@@ -69,7 +69,7 @@ Am Ende werden vor einer Jury, die zumeist aus den Veranstaltern, Vertreter von 
 
 Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit auf Networking, Wissensaustausch und Preise, sondern auch die Aussicht auf eine längerfristige Zusammenarbeit oder Jobangebot. Denn Unternehmen nutzen die Gelegenheit um auf sich aufmerksam zu machen und die besten Hacker für sich zu gewinnen. [^2] [^6]
 
-# Ausgewählte Beispiele [^1] [^2] 
+# Ausgewählte Beispiele 
 
 * OpenCodes Hackathon
 * Coding da Vinci [^16]
@@ -109,5 +109,5 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 [^15]: [Website des Tech Incubators: ZOLLHOF](https://www.zollhof.de)
 [^16]: [Coding da Vinci](https://codingdavinci.de)
 [^17]: [#WirVsVirus](https://wirvsvirus.org)
-[^18]: [HackBay 2021] (https://www.hackbay.de)
+[^18]: [HackBay 2021](https://www.hackbay.de)
 [^19]: [BCX - Hackathon von Bosch](https://bosch-connected-world.com/hackathon/)
