@@ -8,12 +8,12 @@ anrechnung: k
 *Microsoft Planner - Logo*
 
 ## Inhaltsverzeichnis
- > - [Oberfläche und Funktionen]()
- > - [Vergleich zu Microsoft Project und To Do]()
- >    - [Microsoft To Do]()
- >    - [Microsoft Project]()
- > - [Siehe auch]()
- > - [Quellen]()
+ > - [Oberfläche und Funktionen](Microsoft_Planner_PM_Tool.md#oberfläche-und-funktionen-4)
+ > - [Vergleich zu Microsoft Project und To Do](Microsoft_Planner_PM_Tool.md#vergleich-zu-microsoft-project-und-to-do)
+ >    - [Microsoft To Do](Microsoft_Planner_PM_Tool.md#microsoft-to-do)
+ >    - [Microsoft Project](Microsoft_Planner_PM_Tool.md#microsoft-project)
+ > - [Siehe auch](Microsoft_Planner_PM_Tool.md#siehe-auch)
+ > - [Quellen](Microsoft_Planner_PM_Tool.md#quellen)
 
 
 Microsoft Planner ist ein Aufgabenverwaltungs-Tool, entwickelt von Microsoft, und seit dem 06.Juni.2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education bzw. Enterprise Umgebung.[^1] [^2]
