@@ -11,7 +11,7 @@ ClickUp[^1] ist ein [Projekt-Management Tool](Uebersicht_PM_Tools.md) welches ve
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
-Hier wurde beispielhaft auf externe [^2]Seiten verlinkt. Verlinkungen zu 
+Hier wurde beispielhaft auf externe [^2]Seiten verlinkt. Verlinkungen zu  
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
 Literatur kann via Fußnoten angegeben werden. Es gibt auch das PMBOK.
