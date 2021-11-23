@@ -67,8 +67,8 @@ Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmana
 
 # Abkürzungen 
 
-PM - Projektmanagement 
-PMIS - Projektmanagementinformationssystem
+* PM - Projektmanagement 
+* PMIS - Projektmanagementinformationssystem
 
 # Siehe auch
 
