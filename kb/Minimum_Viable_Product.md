@@ -92,3 +92,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: [Definition of 'Minimum Viable Product' (theeconomictimes)](https://economictimes.indiatimes.com/definition/minimum-viable-product)
 [^2]: [Minimum Viable Product: A maximally misunderstood idea (slalom)](https://www.slalom.com/insights/mvp-maximally-misunderstood-term)
 [^3]: [Minimum Viable Product (MVP) (productboard)](https://www.productboard.com/glossary/minimum-viable-product-mvp/)
+[^4]: [Definition MVP – Herkunft des Begriffes (digitaleneuordnung)](https://digitaleneuordnung.de/blog/mvp-minimum-viable-product/)
