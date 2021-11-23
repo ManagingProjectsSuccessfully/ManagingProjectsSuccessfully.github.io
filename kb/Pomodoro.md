@@ -26,13 +26,17 @@ Auf seiner [Webseite](https://francescocirillo.com/pages/pomodoro-technique) ski
 7. Nach dem vierten Durchgang 20 bis 30 Minuten Pause machen.
 
 Dadurch entsteht folgender Ablauf:
-✅ Pomodoro 1
+
+🍅 Pomodoro 1
+
 - 5 Minuten Pause
 ✅ Pomodoro 2
 - 5 Minuten Pause
 ✅ Pomodoro 3
 - 5 Minuten Pause
-✅ Pomodoro 4
+- 
+🍅 Pomodoro 4
+
 - 30 Minuten Pause
 
 Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
