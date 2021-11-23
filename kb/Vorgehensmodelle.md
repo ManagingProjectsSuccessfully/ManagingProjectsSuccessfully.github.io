@@ -4,18 +4,16 @@ tags: agil klassisch Projektmanagement Planung Organisation Vorgehensweise Entwi
 author: hello-pukeko
 anrechnung: k
 ---
-
+Kompendium: was zum Lesen und man hat's kapiert
 Kurzbeschreibung zu Vorgehensmodelle
 
 # Begriffsdefinition "Vorgehensmodelle"
 Der Begriff "Vorgehensmodell" beschreibt eine... -definiertes Vorgehen -Standardvorgehen [^30]
 ![Ordnungsschema](Vorgehensmodelle/Ordnungsschema%20Kneuper%20et%20al.JPG)
 
-# Nutzen/Vorteile Vorgehensmodell
-Entstanden aus 
-
-# Arten von Vorgehensmodellen
-
+Ein Vorgehensmodell ist ein Rahmen zur Bewältigung von Projekten. Ein Vorgehensmodell ist Anleitung, Rahmen, regelt, Vorgaben, beschreibt, ...
+Vorgehensmodelle strukturieren das Vorgehen in . Ein Vorgehensmodell bildet einen Rahmen, d
+Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise 
 
 
 # Stoffsammlung/Checkliste
@@ -35,6 +33,11 @@ Entstanden aus
   - agil
   - klassisch, sequentiell
   - hybrid [^60]
+  - sequenziell
+  - nebenläufig/paralelle
+  - wiederholende
+  - agile
+  - ... (Leseprobe abgeschnitten) [^80]
 
 * Nutzen/Vorteile eines Vorgehensmodells
 
@@ -73,8 +76,9 @@ Entstanden aus
 [^30]: [Schneider, Kristof; Daun, Christine; Behrens, Hermann; Wagner, Daniel (2006): Vorgehensmodelle und Standards zur systematischen Entwicklung von Dienstleistungen. In: Kristof Schneider, Hans-Jörg Bullinger und August-Wilhelm Scheer (Hg.): Service Engineering. Entwicklung und Gestaltung innovativer Dienstleistungen : mit 24 Tabellen. 2., vollst. überarb. und erw. Aufl. Berlin, Heidelberg: Springer Berlin Heidelberg, S. 113–138.](http://www.producao.ufrgs.br/arquivos/disciplinas/508_din_1998.pdf)
 [^40]: [Kuhrmann, Marco; Linssen, Oliver (2014): Welche Vorgehensmodelle nutzt Deutschland? Unter Mitarbeit von Oliver Linssen Marco Kuhrmann. In: Klaus Grubmüller und Bernhard Schnell (Hg.): Vocabularius Ex quo. Band I Einleitung: De Gruyter (Texte und Textgeschichte, 22), S. 17–32.](https://dl.gi.de/bitstream/handle/20.500.12116/3055/17.pdf?sequence=1)
 [^50]: [Königbauer, Martina (2021): Adaptives Referenzmodell für hybrides Projektmanagement. Julius-Maximilians-Universität, Würzburg. Institut für Informatik.](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/24751/file/Dissertation_Koenigbauer.pdf)
-[^60]: [](https://dl.gi.de/bitstream/handle/20.500.12116/4894/PVM2017_paper_16.pdf?sequence=1)
-[^70]: [](https://www.pst.ifi.lmu.de/Lehre/wise-15-16/jur-pm/vorgehensmodelle-1.pdf)
+[^60]: [x](https://dl.gi.de/bitstream/handle/20.500.12116/4894/PVM2017_paper_16.pdf?sequence=1)
+[^70]: [x](https://www.pst.ifi.lmu.de/Lehre/wise-15-16/jur-pm/vorgehensmodelle-1.pdf)
+[^80]: [Timinger, Holger (2015): Wiley-Schnellkurs Projektmanagement. 1. Auflage. Weinheim: Wiley-VCH (Wiley Schnellkurs).](https://books.google.de/books?id=8zElCQAAQBAJ&newbks=1&newbks_redir=0&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 
 -----------------
 -----------------
