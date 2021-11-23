@@ -38,6 +38,9 @@ Die Projektplanung mithilfe der Netzplantechnik wird besonders in folgende Schri
 3. Kostenplanung
 4. Kapazitätsplanung
 
+
+![Beispielabbildung](Netzplantechnik/test-file.jpg)
+
 Im Rahmen der Ablaufplanung zerlegt man das Projekt in die einzelnen Vorgänge und identifiziert
 die Anordnungsbeziehungen zwischen diesen Vorgängen.
 Danach folgt mithilfe des Netzplans die strukturelle Darstellung des Projekts. 
