@@ -61,6 +61,8 @@ Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszei
 * [Projektumfang](Projektumfang.md)
 * [Erfolgsmessung](Erfolgsmessung.md)
 * [Aufgabenteilung](Aufgabenteilung.md)
+* [Meilenstein](Meilenstein.md)
+* [Projektlebenszyklus](Projektlebenszyklus.md)
 
 # Weiterführende Literatur
 
