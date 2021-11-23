@@ -64,7 +64,7 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 | ------------------------------------| -------------------------------------------------------------------------------------------------------------------------------| 
 | Zeitliche Begrenztheit              | Um das erworbene Wissen zu strukturieren und zu dokumentieren fehlt die Nachbearbeitungszeit.                                  |
 | Zuordnung personeller Ressourcen    | Generierte Erfahrung und das erlangte Wissen bleiben nur innerhalb des Projektteams und werden nicht mit Externen kommuniziert.|
-| Personelle [Fluktuation](https://de.wikipedia.org/wiki/Fluktuation)| Erlangtes Expertenwissen geht durch die zeitlich begrenzte Tätigkeit verloren.                  |
+| Personelle [Fluktuation](https://de.wikipedia.org/wiki/Fluktuation)| Durch die zeitlich begrenzte Tätigkeit im Projekt, geht Expertenwissen verloren.                |
 | Neuartige, komplexe Aufgabenstellung| Übertragbarkeit des erworbenen Wissens auf andere Projekte und Aufgabenstellungen ist ungewiss.                                |
 
 *Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer* [^11][^12]
