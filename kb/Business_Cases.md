@@ -56,7 +56,7 @@ Unternehmen treffen viele ihrer Entscheidungen auf Basis wirtschaftlicher Überl
 Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement etabliert und trägt durch seine detaillierte Analyse der Wirtschaftlichkeit von Projekten zu der erfolgreichen Umsetzung der rentabelsten Vorhaben bei.[^7] 
 
 
-## 8. Siehe auch
+## 7. Siehe auch
 
 * [Projekt](Projekt.md)
 * [Projektmanagement](Projektmanagement.md)
@@ -66,7 +66,7 @@ Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement e
 * [Ausgangsanalyse](Ausgangsanalyse.md)
 
 
-## 9. Quellen
+## 8. Quellen
 
 [^1]: [Was ist ein Business Case?](https://www.microtool.de/wissen-online/was-ist-ein-business-case/)
 [^2]: [Business Case - Definition](https://wirtschaftslexikon.gabler.de/definition/business-case-123490#definition)
