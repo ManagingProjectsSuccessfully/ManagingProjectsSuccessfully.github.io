@@ -15,7 +15,7 @@ Eine [User Story](User_Story.md) ist also die Beschreibung (Story) eines Benutze
 In wenigen Sätzen wird dort beschrieben, was ein Benutzer mit dem zu entwickelnden Produkt oder der Software machen will. 
 Dabei ist der Aufbau der Formulierung wichtig, welcher wie folgt aussieht: 
 
-![User_Story](User_Stpry_INVEST_Methode/User_Story.jpg)
+![User_Story](User_Story_INVEST_Methode/User_Story.jpg)
 
 *Aufbau einer User Story* [^2]
 
