@@ -34,7 +34,7 @@ Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen ada
 
 Das Framework lässt sich in zwei Zyklen darstellen.
 
-# Die zwei Zyklen
+# Die zwei Zyklen des Scrum@Scale
 
 Im Kern besteht Scrum at Scale aus zwei parallel verlaufenden Prozessen:
 
