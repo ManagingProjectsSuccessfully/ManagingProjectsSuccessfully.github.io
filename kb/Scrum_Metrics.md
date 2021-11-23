@@ -80,13 +80,13 @@ Der Focus Faktor, definiert die Zeit, wo das Team konzentriert auf den Aufgaben 
 
 > Sprint Geschwindigkeit / Team Kapazität = Focus Faktor
 
-### Daily Scrum
 
 ### Sprint Burndown
+Ein Sprint Burndown Diagramm, veranschaulicht den Sprint Fortschritt in bezug auf erledigte Aufgaben und wird in Stunden oder Story Points gemessen. Dadurch kann der Arbeitsaufwand angepasst werden.
 
-### Workload Distribution
 
 
+FOTO BURNDOWN CHART
 
 
 
@@ -102,13 +102,16 @@ Scrum Sprint
 Daily Scrum
 Sprint Retrospective
 Sprint Review
+Scrum Daily
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Scrum_Metrics.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+Burndown Chart -> https://www.visual-paradigm.com/scrum/scrum-burndown-chart/
+Team Kapazität -> https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams
+
 
 # Quellen
 
