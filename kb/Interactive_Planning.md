@@ -19,7 +19,7 @@ Interactive Planning besteht aus zwei Teilen, der Idealisierung und der Realisie
 Teile sind zudem in sechs voneinander abhängigen Teilen unterteilt.
 
 
-![Beispielabbildung](Interactive_Approach/test-file.jpg)
+![Beispielabbildung](Bildschirmfoto 2021-11-23 um 13.39.56.png)
 
 *lustiges Testbild*
 
