@@ -46,6 +46,7 @@ Wie in den obigen Absätzen dargestellt verbindet Scrumban die beiden agilen Fra
 
 * [Scrum](Scrum.md)
 * [Kanban](Kanban.md)
+* [Kanban Boards](Kanban_Boards.md)
 * [Projektmanagement](Projektmanagement.md)
 * [Daily Scrum](Daily_Scrum.md)
 
@@ -57,8 +58,8 @@ Wie in den obigen Absätzen dargestellt verbindet Scrumban die beiden agilen Fra
 # Quellen
 
 [^1]: [Kanban Guide](https://kanbantool.com/de/kanban-guide)
-[^2]: https://en.wikipedia.org/wiki/Scrumban#Tooling
+[^2]: [Scrumban Wiki](https://en.wikipedia.org/wiki/Scrumban#Tooling)
 [^3]: https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/
-[^4]: https://de.wikipedia.org/wiki/Scrum#Sprint
+[^4]: [Sprints Wiki](https://de.wikipedia.org/wiki/Scrum#Sprint)
 [^5]: [Das beste aus Scrum und Kanban](https://www.agile-heroes.de/magazine/scrumban-das-beste-aus-scrum-und-kanban-einfach-erklaert/)
 [^6]: [WIP-Limits](https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how)
