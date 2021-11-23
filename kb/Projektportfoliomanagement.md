@@ -1,104 +1,104 @@
 ---
 title: Projektportfoliomanagement
 tags: agil klassisch
-author: jy59zadi
-anrechnung: k oder a
+author: jy59zadi 
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Projektportfoliomanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Projektportfoliomanagement 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das Projektportfoliomanagement, kurz PPM, beschreibt die permanente Planung, Priorisierung, übergreifende Steuerung und Überwachung aller Projekte einer Organisation oder eines abgeschlossenen Teilbereichs einer Organisation. Dabei können Projekte innerhalb eines Portfolios untereinander konkurrieren. Dies führt zum Ziel des Projektportfoliomanagements, passende Projekte oder Programme zur Umsetzung der Unternehmensstrategie auszuwählen und durchzuführen. Die Projektübergreifenden Risiken zu minimieren und Ressourcen einzuplanen liegt dabei in der Verantwortung des Projektportfoliomanager. [^1] 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+[Abbildung_Einordnung-des-Projektportfoliomanagements](https://www.microtool.de/wp-content/uploads/2020/05/was_ist_projektportfoliomanagement.svg)
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Definition 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+"Gegenstand des Portfoliomanagements sind Auswahl, Planung, Steuerung und Überwachung der gesamten Projektlandschaft eines Unternehmens oder einer Einheit." [^3] 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Standard DIN 69909 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Das Projektportfolio wird als: "Zusammenfassung von Projekten und Programmen in einem abgegrenztem Verantwortungsbereich zum Zwecke einer permanenten übergeordneten Planung und Steuerung" beschrieben. [^5] 
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Aufgaben des Projektportfoliomanagement
+
+* Projektanträge bewerten, priorisieren, genehmigen oder ablehnen 
+* Analysieren und Identifizieren von Abhängigkeiten 
+* Gruppieren von Projekten 
+* Controlling und Koordination von laufenden Projekten 
+* Bewertung von beendeten Projekten 
+* Definition und Initiierung neuer Projekte
+* Transparente Kommunikation [^1][^2] 
+
+## Bedeutung des Projektportfoliomanagement 
+
+In Unternehmen laufen oft viele Projekte gleichzeitig, was die Gefahr birgt, schnell die Übersicht zu verlieren. Jeder Fachbereich richtet das Augenmerk auf seine Projekte, wodurch viele Bereiche oft nichts von denen anderer Bereiche im Unternehmen wissen. Ebenso wenig ist bekannt, welche Ziele mit diesen verfolgt werden und in welcher Form Sie zur Unternehmensstrategie beitragen. Projekte bergen auch Risiken. Zur Verwirklichung von Projekten sind Ressourcen notwendig, welche nur begrenzt vorhanden sind, was zu Konflikten zwischen den verschiedenen Fachbereichen führen kann. Zudem sollen durch die Bündelung von Projekten und Programmen zu einem Portfolio Synergien geschaffen werden. Dinge die auf der Einzelporjektebene übersehen werden, können von der übergeordneten Ebene des Projektportfolios aus leichter erkannt und in einen konkreten Nutzen für das Unternehmen transformiert werden. Beispielsweise können die Lessons Learned [Lessons Learned](Lessons_Learned.md) aus einem abgeschlossenen Projekt für zukünftige genutzt werden oder das Wiederholen von Fehlern vermeiden. [^6] Das Projektportfolio gibt allen im Unternehmen tätigen Mitarbeitern und Mitarbeiterinnen, aber insbesondere der Geschäftsleitung eine verständliche und übersichtliche Darstellung über alle geplanten und laufenden Projekte. Ein geeignetes Instrument zur Visualisierung ist das Portfolio-Diagramm. [^1]  
+
+## Portfolio-Diagramm 
+
+Im Portfolio-Diagramm werden einzelne Merkmale der Projekte miteinander in Relation gesetzt, um Gemeinsamkeiten und Unterschiede zwischen Projekten aufzuzeigen. Es liefert Erkenntnisse, ob diese freigegeben werden können, Risiken besonders abgesichert werden müssen oder weitere Ressourcen und Kompetenzen erfoderlich sind. Neben inhaltlichen Merkmalen informiert das Portfolio-Diagramm auch über weitere Merkmale, wie z.B. Zeit und Kosten. Durch den erweiterten Blick auf weitere Faktoren wird sichtbar, welche Bedeutung ein Projekt haben kann, welche Risiken und wie komplex oder teuer es ist. Die Visualisierung hilft der Geschäftsführung, bei der Bewertung von einzelnen Projekten, Prioritätenbildung und bei der Zusammensetzung der gesamten Projektlandschaft im Unternehmen. [^4] 
+
+![lg_9919810_1_01](https://user-images.githubusercontent.com/93007349/142864924-2c1f2e9e-a1f8-4ae1-9c0b-29eda2535393.png)
+
+Aufbau eines Portfolio-Diagramms:  
+
+X-Achse: 
+- Merkmal A 
+- Einteilung Skala
+
+Y-Achse: 
+- Merkmal B 
+- Einteilung Skala 
+
+Optional: Merkmal, welches mit Kreisform dargestellt wird 
+
+## Abgrenzung 
+
+Im Vergleich zum Projektportfoliomanagement bezieht sich das klasische Projektmanagement [Projektmanagement](Projektmanagement.md) auf ein einzelnes Projekt mit den dazugehörigen Projektphasen. [^2] 
+
+Im Unterschied zum Portfoliomanagement ist das Programmmanagement [Progtammmanagement](Programmmanagement.md) zeitlich begrenzt. 
+
+Im Gegensatz zum Projektportfoliomanagement liegt der Fokus beim Multiprojektmanagement nicht auf der Umsetzung der Gesamtstrategie einer Organisation, sondern auf der Koordination und Kontrolle der gemeinsam gemanagten Projekte. [^1] 
+
+Abgrenzung zu Lean Projektmanagement aufführen ? (komplex) 
+
+## Klassisches Projektportfoliomanagement vs. Agiles Projektportfoliomanagement
+
+Klassisches Projektportfoliomanagement vergibt Budgets pro Jahr und setzt den Rahmen, sowie die Ziele für die Umsetzung von Projekten auf operativer Ebene. 
+
+Beim agilen Projektportfoliomanagement hingegen werden Entscheidungen auf mehreren Ebenen getroffen, welche für die operative Umsetzung der Strategie sorgen. Aus diesem Grund müssen die Ebenen an der Bestimmung der Unternehmensziele mitwirken.
+
+Man unterscheidet folgende Ebenen: 
+* Operative Ebene: Sprints 
+  - Dauer: 1-4 Wochen 
+* Taktische Ebene: Iterationen
+  - Dauer: 2-3 Monate 
+* Strategische Ebene: Zieldefinitionen 
+  - Dauer: 1-2 Jahre 
+
+Alle Ebenen müssen Ihre Ziele kontinuierlich miteinander abstimmen. [^1] 
+
+## Quellen
+
+[^1]: [Was ist Projektportfoliomanagement?](https://www.microtool.de/wissen-online/was-ist-projektportfoliomanagement)
+[^2]: [Projektportfoliomanagement](https://www.factro.de/blog/projektportfoliomanagement) 
+[^3]: [Definition Projektportfoliomanagement](https://wirtschaftslexikon.gabler.de/definition/multiprojektmanagement-40074)
+[^4]: [Projektportfolio](https://www.business-wissen.de/hb/projektportfolio-als-uebersicht-fuer-das-multiprojektmanagement) 
+[^5]: [Standard Projektportfoliomanagement](https://de.wikipedia.org/wiki/Projektportfoliomanagement) 
+[^6]: [Projektportfoliomanagement](https://www.projektmagazin.de/artikel/projektportfoliomanagement-der-praxis-teil-1_1111324) 
 
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Projektportfoliomanagement/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
-# Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektportfoliomanagement.md)
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
-# Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+
+
+
+
+
+
 
