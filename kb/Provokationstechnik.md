@@ -1,16 +1,24 @@
 ---
 title: Provokationstechnik
-tags: agil klassisch
+tags:  klassisch
 author: Nikleldi
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Provokationstechnik um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Provokationstechnik ist eine Methode zur Ideenfindung, eingeführt von Edward de Bono. Sie wirkt, indem sie mit Hilfe von so genannten Provokationen bestehende Annahmen und Sichtweisen in Frage stellt. Sie existiert in vielen Variationen und gehört zu den wichtigsten Kategorien von Kreativitätstechniken. [^1]
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Provokation
+
+Für die Findung von Ideen werden Provokationen benutzt, welche das Denken aus dem gewohnten Rahmen wirft, indem gezielt bestehende Annahmen und Erfahrungen in Frage gestellt werden oder neuartige Anregungen geschaffen werden. 
+
+Ziel ist dabei bezogen auf einen bestimmten Kontext alte Denkmuster zu überwinden und neue Sichtweisen zu schaffen. 
+In diesem Kontext können Provokationen gezielte Verfälschungen von Fakten oder auch bloße Zufallsbegriffe sein. Aufgrund der Verwechslungsgefahr mit der üblichen Bedeutung des Wortes werden sie auch als *Mentale Provokation* bezeichnet. 
+Hierbei wird hevorgehoben, dass die Wirkung der Provokation lediglich im Denken stattfindet.
+
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -97,7 +105,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: Edward de Bono: Serious Creativity. Die Entwicklung neuer Ideen durch die Kraft lateralen Denkens. Erscheinungsjahr: 1996
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
