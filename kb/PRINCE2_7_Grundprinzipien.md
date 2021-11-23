@@ -18,7 +18,7 @@ Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind
 # PRINCE2 - Die 7 Grundprinzipien
 
 
-![PRINCE](https://user-images.githubusercontent.com/92877971/140651330-26dd4a9f-9eb8-4a5f-8587-575a44468753.jpg)
+![PRINCE](PRINCE2_7_Grundprinzipien/PRINCE.jpg)
 
 
 *Prince Charming[^1]*
@@ -145,7 +145,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 * https://www.tiba-business-school.de/prince2-methode-vorteile/
 
 
-[^1]: [Prince Charming](https://quotesgram.com/img/my-prince-quotes/12903458/)
+[^1]: [Prince Charming](PRINCE2_7_Grundprinzipien/PRINCE.jpg)
 [^2]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
 [^3]: [Änderungen im Jahr 2009](https://silo.tips/download/methoden-des-projektmanagements-im-vergleich)
 
