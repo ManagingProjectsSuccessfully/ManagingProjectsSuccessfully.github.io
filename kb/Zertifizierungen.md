@@ -18,7 +18,7 @@ Abhängig davon, welche Kompetenzen oder Themen für einen Projektmanager besond
 | PM-Organisation / Anbieter                   | IPMA                     | PMI                                | PMI                                | Prince2            | Scrum.org      |
 |-----------------------------------------|--------------------------|------------------------------------|------------------------------------|--------------------|----------------|
 | Beliebte Zertifizierung<br>als Beispiel | IPMA Level D             | PMI-ACP-Zerifizierung              | PMP-Zertifikat                     | Prince2 Foundation | PSM1           |
-| Einordnung klassisches /<br>agiles PM   | Klassisch                | Agil                               | Klassisch                          | Agil               | Agil           |
+| Einordnung klassisches /<br>agiles PM   | Klassisch                | Agil                               | Klassisch                          | Klassisch               | Agil           |
 | Schwerpunkt                             | Hard- und Softskills     | Methodiken wie Scrum, Kanban, etc. | Prozesse und Methoden              | Prince-2 Methodik  | Scrum Methodik |
 | Zielgruppe                              | Mittlere Erfahrung im PM | Projektmanager mit Berufserfahrung | Projektmanager mit Berufserfahrung | Anfänger           | Anfänger       |
 | Gültigkeit                              | 5 Jahre                  | 2 Jahre                            | 3 Jahre                            | 3 Jahre            | Lebenslang     |
