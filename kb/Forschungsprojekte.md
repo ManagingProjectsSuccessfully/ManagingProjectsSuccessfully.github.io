@@ -70,13 +70,14 @@ Nützliche Funktionen:
 * [Projektmanagement](Projektmanagement.md)
 * [Innovationsprojekte](Innovationsprojekte.md)
 * [Entwicklungsprojekte](Entwicklungsprojekte.md)
-* [Organisationsprojekte](Organisationsprojekte.md)
-* [IT-Projekte](IT-Projekte.md)
+* [Uebersicht_PM_Tools](Uebersicht_PM_Tools.md)
+* [Microsoft_Planner_PM_Tool](Microsoft_Project_PM_Tool.md)
+* [Microsoft_Project_PM_Tool](Microsoft_Project_PM_Tool.md)
 
 # Weiterführende Literatur
 
-* Forschungsprojekte entwickeln, von der Idee bis zur Publikation, W.Bauer, J.Bleck-Neuhaus, R.Dombois, I.Wehrtmann, 2018
-* Das Forschngsprojekt, Planung, Durchführung und Auswertung einer quantitativen Auswertung, W.Voß, N.Schöneck, 2013
+* Bauer W., Bleck-Neuhaus J., Dombois R., Wehrtmann I.(2018).Forschungsprojekte entwickeln – von der Idee bis zur Publikation. NOMOS VERLAGSGES.MBH + CO.
+* Schöneck N. & Voß W. (2013).Das Forschngsprojekt, Planung, Durchführung und Auswertung einer quantitativen Auswertung. SpringerVS.
 * https://www.youtube.com/watch?v=Ar-qjMOsh7U
 * https://pm-blog.com/ Projektmanagement Blog
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
