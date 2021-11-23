@@ -8,7 +8,7 @@ anrechnung: a
 
 
 
-## 1.	Grundlagen
+## 1.	Definition
 **Lean** = Einstellung / Denkweise / systematischer Ansatz zur Beseitigung von Verschwendung
 
 Lean Project Management (kurz LPM) ist in erster Linie eine Einstellung zur Durchführung von [Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md). Es ist eine Denkweise, die darauf abzielt, Verschwendung zu vermeiden, Projekte effizienter und effektiver zu gestalten und Kunden und Auftraggeber besser bedienen zu können.[^2]
