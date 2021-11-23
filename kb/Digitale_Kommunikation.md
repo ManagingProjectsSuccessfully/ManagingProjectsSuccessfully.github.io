@@ -17,11 +17,11 @@ Mit multikulturellen Projektteams und verstreuten Interessengruppen bieten diese
 
 ![Abbildung 1: Kommunikationsmodell Alistair Cockburn](Digitale_Kommunikation/communicationModes.gif)[^3]
 
-Das Kommunikationsmodell von [Alistair Cockburn](https://heartofagile.com/alistair-cockburn/) beschreibt auf der Y-Achse die „Effektivität der Kommunikationsart“ und auf der X-Achse die „Medienreichhaltigkeit von Kommunikationskanälen“. "Medien Reichhaltigkeit“ beinhaltet verschiedene Eigenschaften zur optimalen Kommunikation.                                     Diese Merkmale zeichnen die [Media Richness Theory](https://dorsch.hogrefe.com/stichwort/media-richness-theory) aus: 
+Das Kommunikationsmodell von Alistair Cockburn beschreibt auf der Y-Achse die „Effektivität der Kommunikationsart“ und auf der X-Achse die „Medienreichhaltigkeit von Kommunikationskanälen“. "Medien Reichhaltigkeit“ beinhaltet verschiedene Eigenschaften zur optimalen Kommunikation.                                     Diese Merkmale zeichnen die Media Richness Theory aus: 
 *	Mehrere Informationen gleichzeitig verarbeiten
 *	Erleichterung schnelles Feedback zu geben 
 *	Einen individuellen Schwerpunkt für jedes Projektmitglied zu setzen, und 
-* Eine ["natürliche Sprache"](https://www.inbenta.com/de/technologie/natural-language-processing/) zu nutzen [^2]
+* Eine "natürliche Sprache" zu nutzen [^2]
 
 
 Nach Cockburn ist dadurch die effektivste Kommunikationsform von Angesicht zu Angesicht, insbesondere wenn sie durch ein gemeinsames Modellierungsmedium, wie ein einfaches Whiteboard, ein Flipchart, Papier oder Karteikarten unterstützt wird. Wenn man sich von dieser Kommunikationsform abwendet, etwa indem man das gemeinsame Medium entfernt oder nicht mehr von Angesicht zu Angesicht kommuniziert, sinkt die Effektivität der Kommunikation [^3].
