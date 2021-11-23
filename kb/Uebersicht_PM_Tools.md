@@ -44,14 +44,12 @@ Weiterhin können Suchfunktionen und Archivierungsmöglichkeiten sinnvoll sein, 
 
 Bei Projekten ist es wichtig, dass die Kosten proaktiv gesteuert werden können und das Budget eingehalten wird. Ein Projekt ist oft mit anderen Projekt verbunden und hat das Potenzial, die gesamte Kampagne zu beeinflussen. Mit Projektmanagement-Software wird die Budgetverwaltung einfacher und die Ausgaben können besser verfolgt und das Budget schnell eingerichtet werden. Indem man die vorhergesagten Ausgaben mit den tatsächlichen vergleicht kann ein besserer Überblick gewonnen werden [^3]
 
-<br>
-
 ___
 
 ![Bild4](https://user-images.githubusercontent.com/92924821/143098084-fa811c2c-0056-499b-962d-d0cac43235ae.png)
 *Studie zu den meistgenutzten Funktionen von Projektmanagement-Software für kleine und mittlere Unternhemen* [^4]
 
-
+___
 
 
 # Vor- und Nachteile einer Projektmanagement-Software:[^2]
