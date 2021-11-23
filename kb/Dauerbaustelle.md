@@ -7,9 +7,9 @@ anrechnung: k
 
 Unterliegt ein Projekt einem ständigen Veränderungs- bzw. Erweiterungsprozess und wurde kein klares Ende definiert so wird dieses im Rahmen des Projektmanagements als „Dauerbaustelle“ bezeichnet.[^1]
 
-„Ein [https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md](Projekt.md) ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist …“. Der temporäre Charakter von Projekten bezeichnet einen Beginn und ein Ende der Projektarbeit.Es wird eine konkrete Zielvorgabe aufgestellt, die ihm Rahmen des Projekts zu erfüllen ist. Außerdem wird für diese Zielerreichung sowohl ein zeitlicher, finanzieller als auch personeller Rahmen gesteckt. Darüber hinaus von zentraler Wichtigkeit ist, dass das Projekt gegenüber anderen Vorhaben sauber getrennt ist.[^2]
+„Ein [Projekt](Projekt.md) ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist …“. Der temporäre Charakter von Projekten bezeichnet einen Beginn und ein Ende der Projektarbeit.Es wird eine konkrete Zielvorgabe aufgestellt, die ihm Rahmen des Projekts zu erfüllen ist. Außerdem wird für diese Zielerreichung sowohl ein zeitlicher, finanzieller als auch personeller Rahmen gesteckt. Darüber hinaus von zentraler Wichtigkeit ist, dass das Projekt gegenüber anderen Vorhaben sauber getrennt ist.[^2]
 
-Die Überwachung der Einhaltung der verschiedenen Rahmenbedingung eines Projekts liegt im [https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md](Projektmanagement.md).
+Die Überwachung der Einhaltung der verschiedenen Rahmenbedingung eines Projekts liegt im [Projektmanagement](Projektmanagement.md).
 Das Projektmanagement beschreibt die Anwendung von Wissen, Fähigkeiten, Werkzeugen und Techniken auf Projektaktivitäten, um die Projektanforderungen zu erfüllen.[^3] 
 Das klassische Projektumfeld zeichnet sich dadurch aus, dass die vom Projektmanager definierten Arbeitspakete und Ziele mittels eines definierten Budgets erreicht werden sollen. Die dazu erforderlichen Prozesse im Rahmen der Projektentwicklung sind in der Regel aufeinander folgend gestaltet und häufig werden auch mehrere Projekte parallel bearbeitet.
 
@@ -19,10 +19,10 @@ Es gibt eine Vielzahl von Fehlerquellen im Projektmanagement die dazu führen k�
 
 Eine andere häufige Ursache von Dauerbaustellen ist, dass Projekte nicht systematisch ausgewählt werden und es dafür an klar definierten Entscheidungskriterien fehlt. 
 Im Rahmen des strategischen Managements sollten stehts Gründe für eine Projektpriorisierung angegeben werden. Dies hilft dem umsetzenden Team dabei die entsprechenden Pain Points zu identifizieren und effizienter an einer Lösung zu arbeiten.
-Häufig fehlt es aber nicht nur an klaren Entscheidungskriterien, ebenso oft kommt es vor, dass Projekte ohne einen klaren Auftrag gestartet werden. Es existiert kein Projektportfolio und es werden keine Prioritäten festgelegt. Wenn es keine definierten Meilensteine gibt, wird es auch schwierig Zwischenergebnisse zu überprüfen und zu bewerten. Je später Fehler erkannt werden, desto aufwendiger wird es die Quellen zu identifizieren und Gegenmaßnahmen einzuleiten. Prozesse müssen gegebenen Falls rückabgewickelt und neugestartet werden wodurch sich der zeitliche Projektrahmen automatisch verlängert.
-Mit Verzögerungen ist auch dann zu rechnen, wenn innerhalb der Projektteams Zuständigkeiten nicht klar ausgesprochen werden oder den Beteiligten nicht bewusst gemacht werden. Dies führt unwillkürlich zu häufigeren Rückfragen und einer Verlängerung der Prozesskette. 
-Häufige Rückfragen treten auch dann auf, wenn vor Projektbeginn nicht alle notwendigen Berechtigungen eingeholt wurden. Damit das Team ohne unnötige Abhängigkeiten agieren kann sollte der Bedarf noch vor Projektbeginn erkannt und an die notwendigen Stellen weitergeleitet werden.
-Um all diesen Ursachen vorzubeugen, ist es wichtig dem Projektmanager einen umfangreicher Methodenkoffer an die Hand zu gegeben, damit dieser ausreichend definierte Arbeitspakete schnüren und Projektaktivitäten ausreichend beeinflussen und steuern kann.[^5]
+Häufig fehlt es aber nicht nur an klaren Entscheidungskriterien, ebenso oft kommt es vor, dass Projekte ohne einen klaren Auftrag gestartet werden. Es existiert kein Projektportfolio und es werden keine Prioritäten festgelegt. Wenn es keine definierten [Meilensteine](Meilensteine.md) gibt, wird es auch schwierig Zwischenergebnisse zu überprüfen und zu bewerten. Je später Fehler erkannt werden, desto aufwendiger wird es die Quellen zu identifizieren und Gegenmaßnahmen einzuleiten. Prozesse müssen gegebenen Falls rückabgewickelt und neugestartet werden wodurch sich der zeitliche Projektrahmen automatisch verlängert.
+Mit Verzögerungen ist auch dann zu rechnen, wenn innerhalb der Projektteams [Verantwortlichkeiten](Verantwortlichkeiten.md) nicht klar ausgesprochen werden oder den Beteiligten nicht bewusst gemacht werden. Dies führt unwillkürlich zu häufigeren Rückfragen und einer Verlängerung der Prozesskette. 
+Häufige Rückfragen treten auch dann auf, wenn vor Projektbeginn nicht alle notwendigen Berechtigungen eingeholt wurden. Damit das Team ohne unnötige Abhängigkeiten agieren kann sollte der Bedarf noch vor [Projektstart](Projektstart.md) erkannt und an die notwendigen Stellen weitergeleitet werden.
+Um all diesen Ursachen vorzubeugen, ist es wichtig dem Projektmanager einen umfangreicher [Methoden](Methoden.md)-Koffer an die Hand zu gegeben, damit dieser ausreichend definierte Arbeitspakete schnüren und Projektaktivitäten ausreichend beeinflussen und steuern kann.[^5]
 
 
 
@@ -90,13 +90,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 7. nummerierte liste
    1. und hier eine Ebene tiefer
 
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Dauerbaustelle.md)
-* [Projektmanagement](Projektmanagement.md)
-* [Projekt](Projekt.md)
 
 # Weiterführende Literatur
 
