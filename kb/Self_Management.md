@@ -11,13 +11,13 @@ Im Wesentlichen geht es darum effektiver Entscheidungen treffen zu können und d
 Self-management wird gerne mit Zeitmanagement verwechselt, jedoch ist das Zeitmanagement lediglich eine Teil Kompetenz die in das Self-management mitwirkt. Self-management umfasst um einige mehr Kompetenzen, die benötigt werden, um es richtig umzusetzen.
 
 # Inhaltsverzeichnis
-1. [Self-management Methoden](#self-management-methoden)  
-    1.1 [Pomodoro Methode](#pomodoro-methode)  
-    1.2 [Amore Methode](#amore-methode)  
-    1.3 [80-20 Pareto-Prinzip](#80-20-pareto-prinzip)  
-    1.4 [Eisenhower-Methode](#eisenhower-methode)  
-    1.5 [SMART-Methode](#smart-methode)  
-    1.6 [ALPEN-Methode](#alpen-methode)
+ [Self-management Methoden](#self-management-methoden)  
+[Pomodoro Methode](#-pomodoro-methode)  
+[Amore Methode](#-amore-methode)  
+[80-20 Pareto-Prinzip](#-80-20-pareto-prinzip)  
+[Eisenhower-Methode](#-eisenhower-methode)  
+[SMART-Methode](#-smart-methode)  
+[ALPEN-Methode](#-alpen-methode)
     
 
 
@@ -25,17 +25,17 @@ Self-management wird gerne mit Zeitmanagement verwechselt, jedoch ist das Zeitma
 
 Self-management umfasst viele Methoden, die man anwenden kann, nur um dieses Thema anzuschneiden werden hier einige dieser Methoden aufgezählt.
 
-## 1.1 Pomodoro Methode
+## Pomodoro Methode
 Bei dieser Methode geht es darum Aufgaben in einem bestimmten Zeitraum zu erledigen und daraufhin immer wieder Pausen einzulegen. Dies hilft die Aufgaben in diesem Zeitraum so konzentriert wie möglich durchzuziehen.
-## 1.2 Amore Methode
+## Amore Methode
 Die einzelnen Buchstaben der Methode beschreiben die Formulierung der Ziele, die man sich setzt. Das A steht für ambitiös, was bedeutet, dass das Ziel ambitioniert sein sollte. Des Weiteren steht das M für motiviert, das O für Organisiert, das R für Realistisch und das E für echt. Im Allgemeinen basiert die Idee dieser Methode darauf, dass mit Liebe am Ziel gearbeitet werden sollte, wie der Name bereits vorwegnimmt. 
-## 1.3 80-20 Pareto-Prinzip
+## 80-20 Pareto-Prinzip
 Bei dieser Methode geht es darum, dass idealerweise 20 Prozent in das Projekt investiert wird und das Resultat einen 80-prozentigen Effekt hat. Diese Methode benötigt allerdings viel Zeit im Aufbauprozess.
-## 1.4 Eisenhower-Methode
+## Eisenhower-Methode
 Bei dieser Methode werden die Aufgaben aufgeteilt, wodurch einem der Priorisierungs-prozess erleichtert wird. Die Aufgaben werden wie folgt aufgeteilt: 
 Wichtig/eilig, wichtig/nicht eilig, unwichtig/eilig, unwichtig/nicht eilig. 
 Zu dieser Methode gibt es einige ähnliche Methoden wie z.B. die ABC-Methode, wo die Aufgaben jedoch nur in 3 Kategorien aufgeteilt werden (sehr wichtig, weniger wichtig und kaum wichtig).
-## 1.5 SMART-Methode
+## SMART-Methode
 Hier geht es um die Organisation und Priorisierung der Ziele, die man sich vornimmt.
 Wobei die Ziele in Kriterien eingeteilt werden und der Fokus liegt darin sie positiv zu formulieren. Die Kriterien sind wie folgt: Spezifisch, messbar, aktionsorientiert, realistisch und terminiert. 
 ## ALPEN-Methode 
