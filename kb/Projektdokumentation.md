@@ -74,13 +74,14 @@ Am Ende des Projekts besteht der Hauptzweck darin, die bisher, in der Projektdok
 
 * [Projektstrukturplan](Projektstrukturplan.md)
 * [Projekthandbuch](Projekthandbuch.md)
-* 
 
 
 # Weiterführende Literatur
 
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* https://www.projektassistenz-blog.de/praxistipps-darauf-kommt-es-bei-der-projektdokumentation-an/?cn-reloaded=1
+* https://de.wikipedia.org/wiki/Projektdokumentation
+* https://www.kayenta.de/training-seminar/artikel/projektdokumentation.html
 
 
 # Quellen
