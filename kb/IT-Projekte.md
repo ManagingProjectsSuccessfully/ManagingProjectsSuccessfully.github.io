@@ -31,69 +31,8 @@ Eine in Deutschland stark genutzte Variante ist das V-Modell XT, welches erstmal
 Die International Business Machine Corporation (IBM) begann im Jahre 1956 die Entwicklung des 7030 Rechners, welches zu der Zeit zwar der schnellste Rechner war, aber die versprochene Leistung nicht gewährleistet werden konnte. Der Rechner war nur 30-mal so schnell wie das vorherige System, statt die Versprochene Leistung[^6].
 ### Barcode-Scanner mit Lesefehler
 Im für Südenglang zuständigen Auslieferungszentrum Waltham Point in Essex wurde im Jahr 2003 ein System eingesetzt, welches Barcodes scannen und Auslieferungen beschleunigen sollte. Das Barcode-System war fehlerhaft, was zu Schäden im Millionenbereich führte und somit das Projekt 4 Jahre später beendet wurde[^7].
-### das Größte Lidl IT-Projekt
-Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das von SAP entwickelt wurde, anwenden. Dieses sollte das selbst programmierte und jahrzehntealte System Wawi ablösen. Eine Reduzierung des Aufwands für die Stammdatenpflege und die Möglichkeit für Prognosen in Echtzeit waren die Ziele, die das System schaffen sollte. Das Elektronisches Lidl-Warenwirtschaftsinformationssystem (Elwis) wurde nach sieben Jahren Entwicklungszeit im Jahr 2018 gestoppt. Die Ziele waren mit dem gegeben Aufwand nicht realisierbar.
-
-
-
-
-# Aspekt 1beendet wurde.
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](IT-Projekte/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](IT-Projekte.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+### Das Größte Lidl IT-Projekt
+Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das von SAP entwickelt wurde, anwenden. Dieses sollte das selbst programmierte und jahrzehntealte System Wawi ablösen. Eine Reduzierung des Aufwands für die Stammdatenpflege und die Möglichkeit für Prognosen in Echtzeit waren die Ziele, die das System schaffen sollte. Das Elektronisches Lidl-Warenwirtschaftsinformationssystem (Elwis) wurde nach sieben Jahren Entwicklungszeit im Jahr 2018 gestoppt. Die Ziele waren mit dem gegeben Aufwand nicht realisierbar[^8].
 
 # Quellen
 
@@ -104,7 +43,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^5]: [Methode V-Modell XT](https://www.cio.bund.de/Web/DE/Architekturen-und-Standards/V-Modell-XT/vmodell_xt_node.html)
 [^6]: [Gescheitertes IBM-Projekt](https://www.cio.de/a/elf-it-projekte-im-sturzflug,859906)
 [^7]: [Barcode-Scanner mit Lesefehler](https://www.cio.de/a/elf-it-projekte-im-sturzflug,859906,3)
-[^8]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+[^8]: [Elwis Lidl Projekt](https://www.com-magazin.de/praxis/business-it/erfolgreiche-it-projekte-in-stuermischen-zeiten-2656021.html)
 [^9]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
 [^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
 [^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
