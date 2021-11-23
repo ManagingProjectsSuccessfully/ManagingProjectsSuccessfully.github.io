@@ -43,7 +43,7 @@ Mit Microsoft To Do lassen sich To-Do Listen erstellen, die dem Einzelanwender b
 Im Vergleich zum Microsoft Planner wird der Fokus bei [Microsoft Project](Microsoft_Project_PM_Tool.md) nicht nur auf einzelne Aufgaben und Projekte gelegt.
 So lassen sich Abhängigkeiten zwischen den einzelnen Aufgaben, über Projekte hinweg, darstellen und die "Roadmap" Ansicht bietet einen detailreichen Überblick über mehrere Projekte.[^6] [^7]
 
-Seitens Microsoft wird der Planner für kleinere Teams und kurzweilige Projekte und Project für größere umfangreichere Projekte und Teams empfohlen. Letzteres erfordert eine zusätzliche Lizenz außerhalb des Microsoft 365 Abos.[^6] [^7]
+Seitens Microsoft wird der Planner für kleinere Teams und kurzweilige Projekte und [Project](Microsoft_Project_PM_Tool.md) für größere umfangreichere Projekte und Teams empfohlen. Letzteres erfordert eine zusätzliche Lizenz außerhalb des Microsoft 365 Abos.[^6] [^7]
 
 # Siehe auch
 [KANBAN](KANBAN.md)  
