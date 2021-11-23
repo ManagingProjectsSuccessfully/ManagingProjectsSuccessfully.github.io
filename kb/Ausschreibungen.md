@@ -4,36 +4,16 @@ tags: klassisch Ausschreibung Ausschreibungen Vergabeverordnung Vergaberecht
 author: Lars428
 anrechnung: k
 ---
+# Definition 
+"Unter einer Ausschreibung versteht man im europäischen Rechtsraum die öffentliche Bekanntmachung von offenen Aufträgen mit der Aufforderung an interessierte Unternehmen, ein passendes Angebot an die verantwortlichen Stellen abzugeben[^1]."
 
-"Unter einer Ausschreibung versteht man im europäischen Rechtsraum die öffentliche Bekanntmachung von offenen Aufträgen mit der Aufforderung an interessierte Unternehmen, ein passendes Angebot an die verantwortlichen Stellen abzugeben." [^1]
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4].
-Testverlinkung [^5]
-
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
+Insbesondere für staatliche Auftragsvergaben ist die öffentliche Ausschreibung üblicherweise vorgeschrieben, um Korruption und Vetternwirtschaft zu verhindern. Ein weiterer Vorteil ist, dass der Auftraggeber durch eine Ausschreibung ein optimales Preis-Leistungs-Verhältnis erzielen kann[^2].
 
 # Ausschreibungsarten
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
 ![Ausschreibungsarten](/Verwaltung/Projekt/Vergabe.jpg)
+Abbildung1[^3]
+
+Es gibt gemäß § 3 der VOB/A und § 8 der UVgO zwei verschiedene Arten von Ausschreibungen. Öffentliche Ausschreibungen (Offenes Verfahren) und Beschränkte Ausschreibungen (Nichtoffenes Verfahren). Zweitere können im Bereich der Bauleistungen durchgeführt werden[^4][^5]:
 
 # Aspekt 2
 
@@ -84,8 +64,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: https://buildingradar.com/de/construction-blog/ausschreibung/
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-[^5]: https://buildingradar.com/de/construction-blog/ausschreibung/
+[^2]: https://www.digital-sales.de/ausschreibungen-als-verfahren-des-projektmanagements/#title1
+[^3]: https://buildingradar.com/de/construction-blog/ausschreibung/ 
+[^4]: https://dejure.org/gesetze/VOB-A/3.html
+[^5]: https://www.vergabevorschriften.de/uvgo/8
 
