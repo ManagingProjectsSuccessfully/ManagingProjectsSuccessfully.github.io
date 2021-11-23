@@ -72,7 +72,9 @@ Am Ende des Projekts besteht der Hauptzweck darin, die bisher, in der Projektdok
 # Siehe auch
 
 
-* [Link auf diese Seite](Projektdokumentation.md)
+* [Projektstrukturplan](Projektstrukturplan.md)
+* [Projekthandbuch](Projekthandbuch.md)
+* 
 
 
 # Weiterführende Literatur
