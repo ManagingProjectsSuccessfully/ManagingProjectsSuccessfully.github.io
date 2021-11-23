@@ -40,7 +40,7 @@ Ein Projekt gilt als nicht erfüllt, wenn
 * Äußere Umstände das Projekt so beeinflussen, dass seine Erfüllung unmöglich wird.
 * Rechtliche oder ethische Gründe für einen Projektabbruch sprechen.
 
-Ein Projekt kann also fertiggestellt werden und trotzdem scheitern. Darüber hinaus gibt es noch weitere Gründe, welche gegen die Projektdefinition verstoßen können.[^2] 
+Ein Projekt kann also fertiggestellt werden und trotzdem scheitern. Darüber hinaus kann es noch weitere Gründe geben, welche gegen die Projektdefinition verstoßen.[^2] 
 
 # Gescheiterte Projekte
 
@@ -102,7 +102,7 @@ Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projekt
 # Quellen
 
 [^1]: [Projektmanagement Definition](https://projekte-leicht-gemacht.de/blog/projektmanagement/definition-projekt/)
-[^2]: [Wann ist ein Projekt gescheitert](https://www.iapm.net/de/blog/wann-ist-ein-projekt-gescheitert/)
+[^2]: [Wann kann man ein Projekt als gescheitert betrachten?](https://www.iapm.net/de/blog/wann-ist-ein-projekt-gescheitert/)
 [^3]: [Bild BER](https://www.rbb24.de/content/dam/rbb/rbb/rbb24/2020/2020_10/dpa-account/easyjet_london.jpg.jpg/size=708x398.jpg)
 [^4]: [BER in Zahlen](https://www.tagesschau.de/inland/ber-in-zahlen-101.html)
 [^5]: [Das Geheimnis erfolgreicher Projekte](https://www.manager-magazin.de/harvard/management/das-geheimnis-erfolgreicher-projekte-a-00000000-0002-0001-0000-000159313152)
