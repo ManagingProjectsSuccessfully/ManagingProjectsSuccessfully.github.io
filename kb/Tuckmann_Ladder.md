@@ -60,7 +60,7 @@ die Leistung Ihres Teams so hoch wie nie zuvor. Dieses hohe Leistungsniveau bede
 Problemlösungsfähigkeiten haben, dass sie ohne Aufsicht durch die Leiter funktionieren können. Alle arbeiten wie eine gut geölte Maschine, konfliktfrei und synchron auf ein
 gemeinsames Endziel hin.
 
-### Übersicht der verschiedenen Stages
+### Übersicht der ersten vier Stages
 
   Die folgende Tabelle fasst die Phasen mit jeweiligen Herausfoerungen zusammen, die im Zusammenhang mit einer neuen Teambildung und -entwicklung aufkommen können. 
 
@@ -88,7 +88,7 @@ Tatsächlich wird diese Phase manchmal auch als "Trauerphase" bezeichnet, da die
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [Das Phasenmodell nach Tuckman im Überblick](https://projekte-leicht-gemacht.de/blog/softskills/fuehrung/teams/die-phasen-der-teamentwicklung-wie-produktiv-ist-dein-team/)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
