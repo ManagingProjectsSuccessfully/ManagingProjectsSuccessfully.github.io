@@ -12,7 +12,7 @@ Projektmanagement-Tools im klassischen Sinn unterstützen die Projektmanager, F�
 Das erste Projektmanagement-Tool für Computer (bisher nur für Mainframes) war Artemis,
 entwickelt vom Unternehmen Metier Management Systems im Jahr 1978. Artemis kombinierte Projektplanung und Terminplanung mit Kostenkontrolle und Ressourcenmanagement. [^1]
 
-In den darauffolgenden Jahren folgten viele Verbesserungen und verschiedene Software-Produkte erschienen mit mehr Funktionen für komplexere Projekte. Ab Anfang der 2000er wurden auch mehr Projektmanagement-Tools für agiles Projektmanagement entwickelt. Außerdem entwickelte sich der Trend zu cloudbasierten Programmen und Software as a Service, also dass die Software und die IT-Infrastruktur bei einem externen IT-Dienstleister betrieben und vom Kunden als Dienstleistung genutzt werden.
+In den darauffolgenden Jahren folgten viele Verbesserungen und verschiedene Software-Produkte erschienen mit mehr Funktionen für komplexere Projekte. Ab Anfang der 2000er wurden auch mehr Projektmanagement-Tools für agiles Projektmanagement entwickelt. Außerdem entwickelte sich der Trend zu cloudbasierten Programmen und Software as a Service[^3], also dass die Software und die IT-Infrastruktur bei einem externen IT-Dienstleister betrieben und vom Kunden als Dienstleistung genutzt werden.
 
 
 # Wichtige Aufgaben eines Projektmanagement-Tools
@@ -59,25 +59,23 @@ Bei Projekten ist es wichtig, dass die Kosten proaktiv gesteuert werden können 
 * Die Organisation des Projektes ist zentralisiert möglich
 * Liefert einen Gesamtblick über das Projekt mit den wichtigsten Informationen
 * Vereinfacht viele wiederkehrende Aufgaben und kann so Zeit sparen
-* Das ergebnisorientierte Arbeiten wird durch die Transparenz der Aufgaben verbessert.
-* Unternehmensziele werden durch Projekte schneller erreicht
+* Aufgaben werden transparent dargestellt
+* Unternehmensziele werden schneller erreicht
 
 ## Nachteile 
 
 * Zeitintensive Einarbeitung in neue Software
 * Das Tool muss vom Team akzeptiert werden
-* Eine Projektmanagment Software kostet in den meisten Fällen Geld
+* Kosten
 
 # Meist genutzte Projektmanagement Tools
 
 ![pm marktanteil](https://user-images.githubusercontent.com/92924821/143071468-eb38bca1-6769-4335-97f3-56e06656e459.png)
-*Marktanteil der Meistgenutzten Proketmanagement Tools*
-https://www.datanyze.com/market-share/project-management--217
+*Marktanteil der Meistgenutzten Proketmanagement Tools* [^5]
 
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
+Projektmanagement Tools:
 * [Asana](Asana_PM_Tools.md)
 * [Awork](Awork_PM_Tool.md)
 * [ClickUp](ClickUp_PM_Tool.md)
@@ -103,4 +101,5 @@ https://www.datanyze.com/market-share/project-management--217
 [^2]: https://pm-tools.info/projektmanagement-software-eine-einfuehrung/
 [^3]: https://www.proofhub.com/articles/importance-of-project-management-software
 [^4]: https://www.capterra.com.de/blog/407/nutzerstudie-wie-wird-projektmanagement-software-in-deutschland-genutzt
+[^5]: https://www.datanyze.com/market-share/project-management--217
 
