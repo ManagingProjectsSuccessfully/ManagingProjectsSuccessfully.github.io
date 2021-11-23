@@ -11,7 +11,8 @@ Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basi
 oben im Front-Matter (Bereich zwischen den `---`).
 
  # **Was ist Teammanagement**  
-„Teammanagement umfasst die aktive und zielorientierte Steuerung einer kleinen Gruppe von Personen, die gemeinsam mit geteilter Zielsetzung an einer Aufgabe bzw. einem Thema arbeiten“.[^1] 
+„Teammanagement umfasst die aktive und zielorientierte Steuerung einer kleinen Gruppe von Personen, die gemeinsam mit geteilter Zielsetzung an einer Aufgabe bzw. einem Thema arbeiten“.[^1] <br>
+
 <img src="Teammanagement/TeamManagement.PNG" width="400" />
 
 # **Wo und warum effektives Teammanagement** 
