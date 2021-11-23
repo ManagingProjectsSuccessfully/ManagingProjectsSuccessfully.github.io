@@ -50,7 +50,7 @@ Unternehmen treffen viele ihrer Entscheidungen auf Basis wirtschaftlicher Überl
 ## 5.	Nachteile 
 * **Momentaufnahme:** Der Business Case stellt nur eine Momentaufnahme dar, sodass sich die Rentabilität des Projekts im Laufe der Zeit mit zusätzlich erlangten Informationen ändern kann.
 * **Hoher Aufwand:** Insbesondere bei großen Investitionen ist der Business Case sehr aufwändig zu erstellen.[^8] 
-* **Widersprüchlichkeit:** Sind an einem Projekt mehrere Organisationen oder Unternehmen beteiligt, können für ein Projekt verschiedene Business Cases vorliegen, die sich widersprechen.
+* **Widersprüchlichkeit:** Sind an einem Projekt mehrere Organisationen oder Unternehmen beteiligt, können für dieses verschiedene Business Cases vorliegen, die sich widersprechen.
 * **Verfälschung:** Da der Business Case eine wichtige Entscheidungsgrundlage für ein Projekt darstellt, wird der erwartete Nutzen oft besser dargestellt als in Wirklichkeit, um die Projektgenehmigung herbeizuführen.[^9] 
 
 
