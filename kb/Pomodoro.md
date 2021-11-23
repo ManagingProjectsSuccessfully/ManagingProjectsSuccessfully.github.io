@@ -26,35 +26,20 @@ Auf seiner [Webseite](https://francescocirillo.com/pages/pomodoro-technique) ski
 7. Nach dem vierten Durchgang 20 bis 30 Minuten Pause machen.
 
 Dadurch entsteht folgender Ablauf:
-- Pomodoro :one:
+✅ Pomodoro 1
 - 5 Minuten Pause
-- Pomodoro 2
+✅ Pomodoro 2
 - 5 Minuten Pause
-- Pomodoro 3
+✅ Pomodoro 3
 - 5 Minuten Pause
-- Pomodoro 4
+✅ Pomodoro 4
 - 30 Minuten Pause
 
 Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
 
-# Aspekt 1
+# Anwendung und Tipps zur Pomodoro-Technik
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Ein Problem und Kritikpunkt an der Pomodoro Technik sind die 25-Minuten-Einheiten. Welche Aufgabe dauert schon exakt 25 Minuten? Damit die Zeitmanagement-Methode optimal funktioniert, sollten Sie daher folgende Tipps zur Vorbereitung nutzen:
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -73,15 +58,6 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 
 Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
