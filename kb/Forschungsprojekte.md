@@ -37,7 +37,7 @@ Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie sch
 
 
 ## Klassisch vs. Agil
-Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Auch wenn Tendenz zum agilen Projektmanagement besteht, gegeben dadurch, dass in der Anfangsphase oftmals die Anforderungen teils unbekannt sind, hat es jedoch auch Aspekte des klassischen Projektmanagements (z.B. detaillierter Projektantrag). Die unten aufgehführte Tabelle zeigt die Leitfragen und deren Einordnung von Forschungsprojekten (fettgedruckt) in das jeweilige Projektmanagement.
+Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Auch wenn Tendenz zum agilen Projektmanagement besteht, gegeben dadurch, dass in der Anfangsphase oftmals die Anforderungen teils unbekannt sind, hat es jedoch auch Aspekte des klassischen Projektmanagements (z.B. detaillierter Projektantrag). Die unten aufgehführte Tabelle zeigt die Leitfragen und deren Einordnung von Forschungsprojekten (fettgedruckt) in das jeweilige Projektmanagement. [^3]
 
 
 | Kategorien | Klassisches PM | Agiles PM |
@@ -49,8 +49,6 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 | Selbstorganisation der Projektteams | Nein  | **Ja** |
 | klar definierte Kosten | **Ja**  | Nein |
 | klar definierte Projektdauer | **Ja**  | Nein | 
-
-[^3]
 
 
 ## Lösungsansatz
