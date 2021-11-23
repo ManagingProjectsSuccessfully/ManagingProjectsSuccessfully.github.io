@@ -19,6 +19,8 @@ Ein Minimum Viable Product ist die erste Version eines Produktes beziehungsweise
 
 # Konzept des MVP
 
+![Darstellung](Minimum_Viable_Product/MVP_Darstellung.png)
+
 # Relevanz im agilen Projektmanagement
 Durch Globalisierung, technischen Fortschritt und viel Konkurrenz werden die Produktlebenszyklen immer kürzer, was zu einem enormen Druck auf Unternehmen führt. Um diese Anforderungen zu erfüllen, werden agile Projektmanagement-Methoden und MVPs verwendet.[^7][^6]
 
@@ -34,7 +36,6 @@ Oft konzentrieren sich Produkt- oder Projektmanager so stark auf die Veröffentl
 ## Risikominimierung
 Das Minimum Viable Product trägt auch einen Teil im [Risikomanagement](Risikomanagement.md) bei. Häufig besteht die Meinung, dass eine hohe Anzahl an Features das Geschäft verbessern. In der Realität ist dies jedoch nicht der Fall. Stattdessen führt diese Behauptung meist zu unhandlicheren Produkten und einer Erhöhung des Risikos. Das MVP wägt dabei zwischen der Kapitalrendite (ROI) und dem Risiko ab, das vom Aufwand und von der Zeit abhängig ist.[^3] Durch die stetigen Feedbacks von Kunden, kann schon kurz nach der Einführung des Produktes auf dem Markt erkannt werden, ob die Weiterentwicklung sinnvoll ist. Wird das Produkt von den Kunden nicht akzeptiert, so kann frühzeitig ein [Projektabbruch](Projektabbruch.md) eingeleitet werden, um Verluste zu minimieren.[^4]
 
-![Darstellung](Minimum_Viable_Product/MVP_Darstellung.png)
 
 *Abbildung*
 
