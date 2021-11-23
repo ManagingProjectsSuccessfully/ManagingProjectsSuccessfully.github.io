@@ -90,11 +90,6 @@ Projektmanagement Tools:
 * [Trello](Trello_PM_Tool.md)
 * [WRIKE](WRIKE_PM_Tool.md)
 
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
 # Quellen
 
 [^1]: http://www.computinghistory.org.uk/det/14416/Metier-Artemis/
