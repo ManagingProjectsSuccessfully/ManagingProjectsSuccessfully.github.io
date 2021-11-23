@@ -6,17 +6,8 @@ anrechnung: a
 ---
 
 
-Was ist Scrum at Scale?
-
-Scrum at Scale, oft auch Scrum@Scale mit dem ‘@’ Zeichen zusammengefasst bzw. Scrum at Scale Framework, ist ein agiler Ansatz, um das parallele Vorgehen von nach Scrum agierenden Entwicklungsteams zu koordinieren. Im Scope sind dabei nicht nur Entwicklungsabteilungen, sondern alle Bereiche die arbeitsteilig Produkte hervorbringen.
-
-Scrum at Scale hebt agiles Arbeiten von Einzelprojekt auf Programm- bzw. Organisationsebene. Nicht zwangsläufig muss das Ergebnis dabei ein Softwareprodukte sein. Der 21-seitige Scrum@Scale Guide versteht unter ‘Produkt’ jede Form von System, also gleichsam Prozesse, Services und Hardware.
-
-Dabei schreibt sich das Framework folgende Eigenschaften ganz oben auf die Fahne:
-
-    Leichtgewichtig – minimale überlebensfähige Bürokratie
-    Einfach verständlich – ausschließlich Scrum Teams
-    Schwierig zu meistern – Umsetzung eines neuen Betriebsmodells erforderlich
+Scrum at Scale (oder Scrum@Scale) ist ein Framework zur Skalierung von Scrum. Es wurde von Jeff Sutherland im Jahr 2014 erfunden. Der Autor war einer der Schöpfer von Scrum und Unterzeichner des berühmten Agilen Manifests.
+Scrum wurde ursprünglich entwickelt, um Teams bei der Bereitstellung von Produkten in einer komplexen Umgebung zu unterstützen. Scrum at Scale zielt darauf ab, mehreren Teams zu helfen, Produkte gemeinsam in derselben komplexen Umgebung zu liefern. Nach dem Scrum@Scale-Konzept ist jeder Teil eines austauschbaren Scrum-Teams. Je nach Zielsetzung schließen sich Netzwerke von Scrum-Teams zusammen, um ein Ökosystem zu bilden.[^1]
 
 
 # Konzept
@@ -76,7 +67,7 @@ Bei Anwendung von Scrum@Scale, sollte man sich vor der Skalierung auf Scrum-Prak
 
 # Quellen
 
-[^] [How to scale Scrum across a company with the help of Scrum@Scale](https://hygger.io/guides/agile/agile-at-scale/scrumscale/)
+[^1] [How to scale Scrum across a company with the help of Scrum@Scale](https://hygger.io/guides/agile/agile-at-scale/scrumscale/)
 [^] [Scrum@Scale – Ein echtes “Scrum of Scrums” Framework](https://digitaleneuordnung.de/blog/scrum-at-scale/)
 [^] [The Scrum@Scale Guide] (https://www.scruminc.com/wp-content/uploads/2014/07/Scrum-at-Scale-A-Modular-Approach.pdf)
 [^] [Scrum At Scale – die wichtigsten Infos zum agilen Skalierungsansatz](https://www.palladio-consulting.de/scrum-at-scale/)
