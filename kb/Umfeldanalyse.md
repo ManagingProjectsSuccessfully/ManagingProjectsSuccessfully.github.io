@@ -30,6 +30,19 @@ Die Umfeldanalyse kann ebenfalls der Analyse der Makroumwelt und der Branchenumw
 Eigenes Unternehmen, Kunden Konkurrenz, Lieferanten und Substitution.
 Die Branche beeinflusst Unternehmen und Wettbewerb unmittelbar und die Makroumwelt beeinflusst die Branche und damit mittelbar das Unternehmen.
 
+# Das Vorgehen bei der Umfeldanalyse
+## Faktoren sammeln:
+Hier werden zunächst die gegebenen Situationen und zu erwartenden Entwicklungen untersucht. In diesem Schritt geht man zunächst in die Breite und versucht alle Einflussfaktoren zu ermitteln. Es gibt hilfsreiche Fragen, um die Einflussfaktoren zu ermitteln:
+* Was muss beachtet werden?
+* Wo findet das Projekt statt?
+* Welche Übergeordente Ziele müssen beachtet werden?
+* Welche Personen oder Gruppen können den Erfolg des Projektes beeinflussen?
+* Welche rechtlichen Aspekte müssen berücksichtigt werden?
+
+## Faktoren ordenen und visualisieren:
+Welche Wirkungen erwarten Sie von den Einflussfaktoren? 
+Mit den gefundenen Einflussfaktoren wird dann weiter gearbeitet. Hier geht die Analyse in die Tiefe. Es gilt abzuschätzen, welche möglichen Wirkungen der Einflussfaktoren auf das Projekt zu erwarten sind. Ist die Wirkung für das Projekt positiv oder negativ. Wie stark ist die erwartete Wirkung.
+
 # Was Sind die vor- und Nachteile der Umfeldanalyse?
 ## Vorteile:
 * Die Entdeckung von Störfaktoren und Schwächen im Projekt.
