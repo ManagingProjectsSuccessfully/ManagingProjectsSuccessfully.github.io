@@ -13,7 +13,8 @@ oben im Front-Matter (Bereich zwischen den `---`).
 # Low Hanging Fruits
 
 Low Hanging Fruits -zu deutsch "niedrig hängende Früchte"- bezeichnet Aufgaben, welche mit minimalem Aufwand einen maximalen Ertrag erzielen. Metaphorisch sind es die niedrig hängenden Obststücke, welche man besonders einfach und ohne große Mühe von einem Baum pflücken kann. Hoch hängende Früchte dagegen, sind schwerer zu erreichen und mit zusätzlichen Aufwänden verbunden. 
-![Low hanhing fruits bildlich](Low_Hanging_Fruits/istockphoto-981592510-612x612.jpg)
+
+![Baum mit low hanging fruits](Low_Hanging_Fruits/istockphoto-981592510-612x612.jpg)
 
 # Low Hanging Fruits in der Betriebswirtschaft
 
