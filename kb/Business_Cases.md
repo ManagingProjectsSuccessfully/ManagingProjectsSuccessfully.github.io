@@ -36,7 +36,7 @@ Für einen Business Case existiert keine allgemein gültige Vorlage. Er kann dah
 
 
 ## 3.	Bedeutung
-Unternehmen treffen viele ihrer Entscheidungen auf Basis wirtschaftlicher Überlegungen. Hierbei spielt der Business Case eine entscheidende Rolle zu, da er beurteilt, welche Vorhaben wirtschaftlich sind und eine Priorisierung von Projekten erlaubt.[^5] Im [Projektmanagement](Projektmanagement.md)-System PRINCE2 ist er sogar das wichtigste Projektdokument.[^6] Mithilfe eines strukturierten Business Cases kann ein Unternehmen seinen Fokus gezielt auf die aussichtsreichsten Projekte legen und Ressourcen, Arbeitskräfte und Finanzmittel entsprechend einsetzen. Selbst wenn der Business Case eine negative Rentabilitätsbeurteilung liefert, das Vorhaben sich also nicht lohnt, war der Aufwand für dessen Erstellung nicht umsonst, da die hohen Kosten einer Durchführung des Projekts vermieden werden können.[^5]  
+Unternehmen treffen viele ihrer Entscheidungen auf Basis wirtschaftlicher Überlegungen. Hierbei spielt der Business Case eine entscheidende Rolle, da er beurteilt, welche Vorhaben wirtschaftlich sind und eine Priorisierung von Projekten erlaubt.[^5] Im [Projektmanagement](Projektmanagement.md)-System PRINCE2 ist er sogar das wichtigste Projektdokument.[^6] Mithilfe eines strukturierten Business Cases kann ein Unternehmen seinen Fokus gezielt auf die aussichtsreichsten Projekte legen und Ressourcen, Arbeitskräfte und Finanzmittel entsprechend einsetzen. Selbst wenn der Business Case eine negative Rentabilitätsbeurteilung liefert, das Vorhaben sich also nicht lohnt, war der Aufwand für dessen Erstellung nicht umsonst, da die hohen Kosten einer Durchführung des Projekts vermieden werden können.[^5]  
 
 
 ## 4.	Vorteile 
