@@ -56,7 +56,7 @@ So kann man eine Tabelle erstellen:
 |         *      | Forming | Storming      | Norming      | Performing    |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Allgemeine Feststellungen| Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende| Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen | Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
-| Content Cell  | Content Cell  |
+| Prozessbezogene Probleme  | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
