@@ -2,42 +2,21 @@
 title: Virtual_Reality
 tags: agil klassisch
 author: NK0100
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Virtual_Reality um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# 1. Virtual Reality im PM 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+"This meeting could have been an e-mail" – heute setzen Unternehmen mehr denn je auf virtuelle Teams zur Durchführung von Projekten. Eine der größten Herausforderungen für Unternehmen und Projektteams in einem globalen Markt ist die Schaffung einer nahtlosen Mitarbeiter- und Kundenerfahrung über Städte, Länder und Kontinente hinweg. Kunden und Projektleiter sind über die ganze Welt verteilt, sodass herkömmliche Lösungen für Tele- und Webkonferenzen häufig nicht mehr zeitgemäß erscheinen. Da immer mehr Unternehmen Richtlinien für die Fernarbeit entwickeln, entwickelt sich Virtual Reality zu einem Tool, dessen Möglichkeiten der Zusammenarbeit und Projektkommunikation und -durchführung weit über die Möglichkeiten von Video-Chatrooms und Bildschirmkonferenzen hinausgehen und lebendiger macht. Immersive Technologien, wie die Virtual Reality u.A. im PM stellen somit den nächsten logische Schritt dar. 
 
 
-# Aspekt 1
+# 2. Definition und Abgrenzung des Begriffs
+[Virtual Reality (VR)](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-78414-4_85) ist eine (immersive) Technologie, die nahezu reale und/oder glaubwürdige Erfahrungen auf künstliche oder virtuelle Weise vermittelt. Das Ziel der immersiven VR ist es, den Nutzer vollständig in die computergenerierte Welt eintauchen zu lassen und ihm den Eindruck zu vermitteln, dass er/sie diese synthetisch erzeugte Welt "betreten" hat. Dies kann entweder durch die Verwendung von Head-Mounted Displays (HMD) oder durch Mehrfachprojektionen erreicht werden. Bei der immersiven VR mit HMD wird die VR direkt vor die Augen projiziert, so dass sich die Benutzer ohne Ablenkung auf die Anzeige konzentrieren können. Ein Magnetsensor im Inneren des HMD erkennt die Kopfbewegungen des Benutzers und leitet diese Informationen an den angeschlossenen Prozessor weiter. Folglich dreht der Benutzer seinen Kopf; die angezeigten Grafiken können den wechselnden Blickwinkel widerspiegeln. Die virtuelle Welt scheint auf die Kopfbewegungen in gewohnter Weise zu reagieren.[^1]
+
+Abgegrenzt muss Virtual Reality auch zu [Augmented Reality (AR):](https://de.linkedin.com/pulse/ein-%C3%BCberblick-%C3%BCber-immersive-technologien-mirko-peters) „Virtual Reality (VR) bringt die Nutzer/innen an jeden beliebigen Ort, während Augmented Reality (AR) Dinge hinzufügt, die nicht da sind, oder das, was schon da ist, verbessert.“ [^2]
+
+Des Weiteren spricht man auch häufig von [Mixed Reality (MR)](https://news.microsoft.com/de-de/microsoft-erklaert-was-ist-mixed-reality-definition-funktionen/). Mixed Reality bringt die reale Welt in die digitale Welt und/oder erweitert digital, das was bereits vorhanden ist. Ein Beispiel dafür ist die Nutzung von Hologrammen, welche ihre Umgebung wahrnehmen können. MR vermischt somit AR/VR mit traditionellen menschlichen Kommunikationsmethoden, um völlig neue Formen der Kommunikation zu schaffen.[^2]
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -49,56 +28,59 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 *lustiges Testbild*
 
-# Aspekt 2
+# 3. Anwendungsbereiche im PM
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+VR ist nicht nur Spaß und Spiel. Es gibt unzählige Möglichkeiten für die Anwendung von Virtual Reality in verschiedenen Bereichen. PwC geht davon aus, dass VR in Unternehmen in den nächsten zehn Jahren exponentiell zunehmen wird, da Unternehmen sie für Brainstorming, 3D-Produktdesign, Datenvisualisierung und andere gemeinsame Arbeiten, wie Projekten, bereits einsetzen oder werden, die früher ohne persönliche Treffen unmöglich zu koordinieren schienen.[^4]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Der Einsatz von VR-Technologien im PM ist vielfältig:
+- VR als Projektthema: z.B. Ausbildung von Chirurgen, Piloten oder Spezialkräften zur Terrorismusbekämpfung unter Verwendung von AR/VR-Technologien
+- VR-basierte Projekte für (Mitarbeiter-) Bildung: z. B. E-Learnings
+- VR in der Projektkommunikation und Kollaboration: z.B. in der Automobilindustrie zum Testen von Autos (Audi), Ausbildung (Volkswagen), virtuelle Ausstellungsräume (Cadillac), usw.
+- Ein Projekt kann sich auf die Entwicklung von Produkten beziehen, die eine Art von AR/VR enthalten: z.B. ein Projekt im kommerziellen Flugverkehr - die Produktion eines HUD, dass eine Überlagerung der geplanten Landebahn zeigt
+- Entwicklungsprojekte kompletter VR-basierter Plattformen für die Echtzeit Remote-Kollaboration, die die Hardware, Software, Wissensaustausch und Echtzeit Remote-Unterstützung in vielen verschiedenen Arten von Projekten umfassen
+- VR kann außerdem in verschiedenen Phasen des Projektmanagements eingesetzt werden, wie in den oben genannten Beispielen veranschaulicht
+Zwar sind alle Unternehmen und Projektteams von menschlichen Transaktionen und Interaktionen abhängig, doch zwei Sektoren bzw. Branchen veranschaulichen besonders exemplarisch die kollaborative Kraft und zahlreichen Möglichkeiten von VR in Projekten: Architektur, Technik und Bauwesen (AEC) und Gesundheitswesen (siehe Tabelle und weiterführende Literatur „VR in Construction). 
+Einige branchenspezifische Beispiele für Einsatzmöglichkeiten im Projekt Management sind in Tabelle 1 [^3] aufgeführt:
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
+| Branche       | Beispiel Anwendungen     |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Architektur, Bauwesen und Ingenieurwesen  | Anstelle der üblichen 2D-Zeichnungen und Renderings können Investoren und Kunden jetzt einen realistischen Eindruck von ihren zukünftigen Gebäuden, Wohnungen, Geschäftsräume, sowohl von außen als auch von innen. Anwendung von AR/VR-Technologien bei derartigen Projekten senkt Kosten und Zeitaufwand, verbessert das Design und erleichtert die Bauplanung. Außerdem gibt es eine Studie, die die aktuellen VR/AR-Anwendungen unter dem Gesichtspunkt der Bausicherheit zusammenfasst, mit dem Ergebnis, dass AR/VR-Anwendungen in diesem Bereich bereits viel erreicht haben, und es noch Raum für weitere Verbesserung ihrer Anwendung in der Bausicherheit gibt [(siehe weiterführende Literatur Li, Yi, Chi, Wang, & Chan, 2018)](https://doi.org/10.1016/j.autcon.2017.11.003) |           
+| Automobilindustrie  | VR-Lösungen werden für Probefahrten, Tests von Autoelementen, Autohäuser etc. eingesetzt. Zum Beispiel Volkswagen setzt VR- als auch AR-Lösungen ein, in der Überzeugung, dass sie dem so Unternehmen helfen, mit den steigenden Anforderungen an die Automobilindustrie erfolgreich zu bewältigen. Das Unternehmen lädt Mitarbeiter systematisch dazu ein, VR- und AR-Lösungen für Schulungen und Zusammenarbeit zu nutzen, um ihre Marken und Abteilungen zu stärken. Sie entwickelten eine intelligente Infrastruktur, die Schulung, Zusammenarbeit und Service-Integration weltweit ermöglicht. Mitarbeiter und ganze Teams lernen in einem interaktiven 3D-Raum. Diese Lösung erhöht die Schulungseffizienz, reduziert Lernzeit und Reisekosten und unterstützt den Transfer von relevantem Wissen bei der Lösung praktischer Aufgaben. |
+| Gesundheitswesen  | Die Ausbildung von Chirurgen ist einer der wichtigsten Anwendungsbereiche der AR/VR-Technologien im Gesundheitswesen. Es gibt Beispiele für den Einsatz in der Triage und der Notfallversorgung, zum Beispiel Red Cross Triage AR (Anwendung von Google Glasses) |
+| Militär/Verteidigung/Sicherheit  | TARGET (Training Augmented Reality Generalized Environment Toolkit) ist ein europäisches Projekt und entwickelt AR und VR-Lösungen für das Training von sicherheitskritischen Agenten (z.B. Polizisten, Feuerwehrleute, medizinisches Notfallpersonal, Anti-Terror-Einheiten usw.). Das Projekt verwendet verschiedene Ansätze, die eine Fernverbindung von AR und VR-Systemen mit Geolokalisierung und anderen Werkzeugen, einschließlich 3D-Modellierung, Photogrammmetrie, Drohnen und viele andere moderne Technologien und schafft somit eine neuartige Mixed-Reality-Umgebung. Die Verbesserung und Optimierung der Ausbildung ist das Ziel des Projekts, das mehrere wichtige Auswirkungen hat, darunter die Entwicklung leicht anpassbarer und kostengünstiger fortgeschrittener Trainings Umgebungen.  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# 4.	Vorteile und Nachteile von Virtual Reality im PM 
+VR-gestützte (Projekt-)Teams können nicht nur von der Zusammenarbeit profitieren, die durch immersive 3D-Erlebnisse möglich wird. Unternehmen, die VR einsetzen, verzeichnen häufig auch engagiertere Mitarbeiter, eine höhere Produktivität und geringere Reise-, Umwelt und andere Kosten. Meetings können somit einen weitaus geringeren ökologischen Fußabdruck generieren. Weniger Reisen bedeutet auch weniger Stress, höhere Produktivität und geringere Burnout- und Fluktuationsraten. Die dadurch eingesparte Zeit trägt somit auch zu einer besseren Work-Life-Balance bei. 
+Kritisch gesehen wird vorallem der potenzeielle Einfluss dieser Technologien auf unsere Gesellschaft. VR und Co. können sehr eindringliche Erlebnisse schaffen, die es den Nutzern ermöglichen, der Realität mühelos zu entkommen. Während viele Menschen dies für eine gute Sache halten, argumentieren andere, dass es dazu führen kann, dass sich die Menschen in ihren Bildschirmen verlieren, anstatt von Angesicht zu Angesicht miteinander zu interagieren.
 
-### Ebene-3-Überschrift
+Weitere Vor- und Nachteile können den Stärken, Schwächen, Chancen und Risiken der Implementierung von AR/VR-Technologien im PM (siehe 4.1.) entnommen werden. 
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## 4.1. SWOT Analyse
+Da AR/VR-Technologien einen stetig wachsenden Bereich darstellen, in dem fast täglich neue Ideen und Anwendungsbereiche zum Vorschein kommen, beschreibt die von Dodevska, Z. A., & Mihić, M. M. [^3] durchgeführte SWOT-Analyse die Stärken, Schwächen, Chancen und Risiken der Implementierung von AR/VR-Technologien im PM lediglich eine Momentaufnahme aus der bisher bestehenden Literatur und Forschung. 
 
-# Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+# Future Trends
+Seitdem die ersten Prototypen der bahnbrechenden VR-Technologie vorgestellt wurden, haben Regierungen, Unternehmen und Technologiekonzerne ihr Potenzial erkannt. Sie investieren eine Vielzahl an Ressourcen und Geldern in VR-Projekte. Für das PM bedeutet dies, dass es mit einem Anstieg der Anfragen für das Management solcher Projekte rechnen muss und dass die PM-Ausbildung Experten hervorbringen muss, die mit solchen Projekten effizient umgehen können. 
+
+Insbesondere im kollaborativen Anwendungsfeld von VR gibt es noch Verbesserungspotenzial. Oft konzentriert sich die Anwendung von VR mehr auf das gemeinsame Anschauen von Inhalten und weniger auf das kollaborative Arbeiten mit einer Vielzahl an Team- und/oder Projektmitgliedern. VR-Anwendungen, die uns mehr Werkzeuge (wie z.B. Post-its), die für Methoden wie u.A. [Kanban](Kanban.md) notwendig sind, zur Verfügung stellen und mehr auf Zusammenarbeit als auf soziales Beisammensein zugeschnitten sind werden in diesem Zusammenhang immer wichtiger. 
 
 
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Virtual_Reality.md)
+* [Link auf diese Seite](Virtual_Reality.md) 
+* [Kanban](Kanban.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [VR Project Development – How Project Managers Should Prepare](https://www.toptal.com/project-managers/technical/vr-project-management)
+* [Li, X., Yi, W., Chi, H. L., Wang, X., & Chan, A. P.  C.  (2018).  Automation  in Construction 86 (2018)](https://doi.org/10.1016/j.autcon.2017.11.003)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Furht, B. (2008). Encyclopedia of Multimedia. Encyclopedia of Multimedia. Springer, Boston, MA.](https://doi.org/10.1007/978-0-387-78414-4)
+[^2]: [Peters, M. (2021). Ein Überblick über immersive Technologien. Linkedin.](https://de.linkedin.com/pulse/ein-%C3%BCberblick-%C3%BCber-immersive-technologien-mirko-peters)
+[^3]: [Dodevska, Z. A., & Mihić, M. M. (2018). Augmented Reality and Virtual Reality Technologies in Project Management: What Can We Expect? European Project Management Journal, 8(1), 17–24.](https://doi.org/10.18485/EPMJ.2018.8.1.3)
+[^4]: [Harvard Business Review. (2020). Using VR to Unlock the Power of Remote Collaboration.] (https://hbr.org/sponsored/2020/10/using-vr-to-unlock-the-power-of-remote-collaboration)
