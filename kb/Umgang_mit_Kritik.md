@@ -8,7 +8,7 @@ anrechnung: a
 In dem nachfolgenden Artikel wird zuerst der allgemeine Bezug von Umgang mit Kritik und agiles Projektmanagement beleuchtet. Anschließend werden die beiden Komponenten in Verbindung gesetzt und analysiert, wie man mit Kritik im agilen Projektmanagement umgehen kann. 
 
 ## Begriffserklärung von Kritik 
-Mit Kritik verbinden die meisten Menschen etwas Negatives. Im Allgemeinen versteht man unter Kritik die Beurteilung eines Gegenstandes oder auch einer Handlung. Diese Kritik wird anhand verschiedener Maßstäbe gemessen, z.B. unter verschiedenen [Feedbackregeln](https://www.hochschuldidaktik.uni-freiburg.de/koll_hospi/checklisten/feedback). Synonyme zu [Kritik](https://www.duden.de/rechtschreibung/Kritik) sind unter anderem auch [Monierung](https://www.duden.de/rechtschreibung/Monierung), Beanstandung oder Bemängelung.[^1] 
+Mit Kritik verbinden die meisten Menschen etwas Negatives. Im Allgemeinen versteht man unter Kritik die Beurteilung eines Gegenstandes oder auch einer Handlung. Diese Kritik wird anhand verschiedener Maßstäbe gemessen, z.B. unter verschiedenen Feedbackregeln[^12]. Synonyme zu Kritik sind unter anderem auch Monierung[^10], Beanstandung oder Bemängelung.[^1] 
 Zudem werden oft mehrere Kritikarten in bestimmten Situationen unterschieden. Hierfür ein paar Beispiele:
 
 * "Groll" für den Perfektionismus
@@ -28,7 +28,7 @@ Die Arbeitsweise im agilen Projektmanagement ist geprägt von Schnelligkeit, Fle
 Projektteams müssen in ihrer Vorgehensweise oft über sehr hohe Toleranzen hinsichtlich Qualität, Umfang, Leistung, Zeit und Kosten verfügen. Ebenso ist es notwenig, dass der Auftraggeber des jeweiligen Projekts mitinvolviert ist und eng mit dem Projektteam zusammenarbeitet.[^8] 
 
 Als Referenz für das agile Projektmanagement wird das [Agile Manifest](Agiles_Manifest.md) herangezogen. 
-Um Projekte effektiver und schneller zu steuern, gibt es verschiedene Agile Methoden wie z.B. [Scrum](SCRUM.md) und [Design Thinking](Design_Thinking.md) oder auch weitere [Agile Tools](https://www.projektmagazin.de/agile-methoden).[^8] 
+Um Projekte effektiver und schneller zu steuern, gibt es verschiedene Agile Methoden wie z.B. [Scrum](SCRUM.md) und [Design Thinking](Design_Thinking.md) oder auch weitere Agile Tools[^11].[^8] 
 Die Kanban-Methode mit den bekannten [Kanban-Boards](Kanban_Boards.md) gehört zu den geläufigsten Tools im Projektmanagement.[^4]
 
 # Der Umgang mit Kritik im agilen Projektmanagement
@@ -73,5 +73,7 @@ Konflikte gehören zum Leben und sich nicht vermeidbar. Die Gründe warum Konfli
 [^7]: [Der richtige Umgang mit Kritik: Dos and Don’ts](https://www.stellenanzeigen.de/der-richtige-umgang-mit-kritik-dos-and-donts-sde87255/)
 [^8]: [Agiles Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement)
 [^9]: [Mit Kritik richtig umgehen](https://www.youtube.com/watch?v=PZtSxFI1nbQ]
-
+[^10]: [Monierung](https://www.duden.de/rechtschreibung/Monierung)
+[^11]: [Agile Tools](https://www.projektmagazin.de/agile-methoden) 
+[^12]: [Feedbackregeln](https://www.hochschuldidaktik.uni-freiburg.de/koll_hospi/checklisten/feedback)
 
