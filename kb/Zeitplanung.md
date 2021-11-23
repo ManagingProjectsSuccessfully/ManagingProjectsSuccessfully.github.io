@@ -66,7 +66,9 @@ Ein Beispiel hierfür wäre ein Hausbau. Man weiß genau zu Beginn, wie lange es
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Projektorganisation, Projektleitung, Projektteam](https://link.springer.com/content/pdf/10.1007/978-3-658-30085-2_3.pdf)
+* [Hybrides Projektmanagement](https://www.degruyter.com/document/doi/10.3139/104.112075/html)
+* [Handbuch Projektmanagement](https://link.springer.com/content/pdf/10.1007/978-3-662-57878-0.pdf)
 
 # Quellen
 
