@@ -23,7 +23,12 @@ Original:[]
 
 3. Die rechte Seite des V ist die "Testseite" des V-Modells. Sie beschreibt, wie die einzelnen entwickelten Bausteine und Funktionen getestet und zu einem Gesamtsystem zusammengefasst werden.
 
-# Die Phasen einzelnen Phasen des V-Modells
+# Die einzelnen Phasen des V-Modells
+Zu 1: Die linke Seite des V wird auch "Entwurfsphase" gennant. Sie übersetzt Anforderungen in einen Systementwurf, der nach dem Top-Down-Prinzip immer weiter verfeinert wird. Wenn sich in einer darüberliegenden Ebene etwas verändert, müssen die darunterliegenden Ebenen angepasst werden, da diese aufeinander aufbauen.
+  1.1 Anforderungsanalyse: Diese Ebene beschäftigt sich mit der Bestimmung der Anforderungen. Was soll das fertige Produkt können?
+  1.2 Systementwurf: Hier wird ein Design für das Gesamtsystem erstellt, inklusive Organisation und grafischer Ausgestaltung. Wie können die Anforderungen umgesetzt werden?
+  1.3 Architektur: Auf dieser Ebene wird das Gesamtsystem in einzelne Komponenten aufgeteilt und deren Schnittstelle und Abhägigkeit beschrieben.
+  1.4 Komponentenspezifikation: Auf dieser letzten Ebene der Entwurfsphase wird spezifiziert, wie die Funktionen und Komponenten implementiert werden sollen.
 
 
 # Verschiedene Typen des V-Modells
