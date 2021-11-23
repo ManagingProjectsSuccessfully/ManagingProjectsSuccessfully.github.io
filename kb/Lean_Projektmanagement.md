@@ -41,7 +41,7 @@ Bei diesen fünf Kernprinzipien fällt auf, dass nur das erste Kernprinzip eine 
 
 ![Beispielabbildung](Lean_Projektmanagement/lean-principles.png)
 
-### *Lean Prinzipien*
+### *Die 5 Lean Prinzipien*
 (https://i.pinimg.com/originals/7a/1b/ac/7a1bacd481a17e016b4e94a435f594fb.png)
 
 ## 4.	Lean vs Agile
