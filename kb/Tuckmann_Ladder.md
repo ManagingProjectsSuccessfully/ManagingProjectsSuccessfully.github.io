@@ -5,15 +5,24 @@ author: ebressel
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu Tuckmann_Ladder um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+
+Neue Teams leiden häufig unter Wachstumsschmerzen - die Mitglieder eines Teams können nicht effizient zusammenarbeiten, wenn sie keine Zeit haben, sich gegenseitig
+kennenzulernen. Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie Teams in verschiedenen Bereichen die gleichen Phasen der
+Gruppenentwicklung durchlaufen. Wenn Sie diese fünf Phasen der Teamentwicklung kennen, können Sie erfolgreiche Teams bilden, die ihr volles Potenzial ausschöpfen.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+oben im Front-Matter 
+
+`Tuckmann Ladder`
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+
+Der Psychologe Bruce Tuckman entwickelte 1965 sein Gruppenentwicklungsmodell, um zu erklären, wie gesunde Teams mit der Zeit zusammenwachsen. In Tuckmans Modell werden fünf
+Phasen unterschieden, die Gruppen durchlaufen: Forming, Storming, Norming, Performing und Adjourning. Jede der fünf Phasen der Teamentwicklung stellt eine Stufe auf der Leiter
+der Teamentwicklung dar. Während die Gruppenmitglieder die Leiter erklimmen, verwandeln sie sich von einer zufälligen Ansammlung von Fremden in ein leistungsstarkes Team, das
+auf ein gemeinsames Ziel hinarbeiten kann. Im Folgenden werden die fünf Stufen der Gruppenentwicklung von Tuckman im Detail erläutert:
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -37,26 +46,26 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Aspekt 1 Forming
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die Formierungsphase ist die erste Phase in Tuckmans Phasen der Gruppenentwicklung und ähnelt der Erfahrung, die Sie an Ihrem ersten Tag in einem neuen Job machen. Hier lernt
+sich das Team kennen und es geht hauptsächlich darum, allen Mitgliedern eine Orientierung zu geben, wie die Gruppe zusammenarbeiten wird. Da die Gruppendynamik und die Rollen im
+Team noch nicht festgelegt sind, übernimmt der Teamleiter oft die Führung und leitet die einzelnen Mitglieder an. Während der Forming-Phase nach Tuckman können die neuen
+Teammitglieder über Teamziele, Grundregeln und individuelle Rollen diskutieren. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+
 
 ![Beispielabbildung](Tuckmann_Ladder/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Aspekt 2 Storming
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Eine entscheidende, aber vielleicht auch die wichtigste Phase ist die "Storming"-Phase. Diese Phase ist vor allem von Konflikten, Spannungen und Wettbewerb geprägt, da sich die
+einzelnen Persönlichkeiten herausbilden. Bei Teams entsteht der Konflikt oft durch gegensätzliche Arbeitsstile der Teammitglieder. Manche beginnen sogar, an den zuvor
+besprochenen Zielen des Teams zu zweifeln und stellen ihre Arbeit ganz ein. Als Folge kann sich dies negativ und belastend auf diejenigen auswirken, die die harte Arbeit
+fortsetzen, da die zuvor etablierten Gruppenprozesse nicht mehr reibungslos funktionieren. Um ein Scheitern zu verhindern, müssen die Mitglieder individuelle Unterschiede
+akzeptieren.
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -76,14 +85,25 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
 Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+# Aspekt 3 Norming
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Wenn die Mitglieder die "Sturm"-Phase hinter sich gelassen haben, akzeptieren sie sich gegenseitig mehr und beginnen, sich auf gemeinsame Ziele zu konzentrieren. In der
+"Norming"-Phase werden zwischenmenschliche Differenzen abgebaut, und die Mitglieder suchen nun aktiv nach gegenseitiger Unterstützung, um auf ein gemeinsames Ziel hinzuarbeiten.
+Das Team ist in der Lage effektiv mit konstruktivem Feedback zu arbeiten, da sich die Mitglieder mit den Teamabläufen vertraut gemacht haben und neuer Aufgaben bewältigen
+können. Da diese neuen Aufgaben oft mit einem hohen Schwierigkeitsgrad verbunden sind, ist es nicht ungewöhnlich, dass Gruppen wieder in die Storming-Phase zurückfallen. 
+
+# Aspekt 4 Performing
+
+In der Durchführungsphase konzentrieren sich alle Mitglieder gemeinsam auf die Erledigung der Aufgabe und sind nun in der Lage, effektiv zu kommunizieren. In dieser Phase ist
+die Leistung Ihres Teams so hoch wie nie zuvor. Dieses hohe Leistungsniveau bedeutet, dass alle Teammitglieder selbständig sind und so viel Vertrauen in ihre eigenen
+Problemlösungsfähigkeiten haben, dass sie ohne Aufsicht durch die Leiter funktionieren können. Alle arbeiten wie eine gut geölte Maschine, konfliktfrei und synchron auf ein
+gemeinsames Endziel hin.
+
+# Aspekt 5 Adjouring
+
+Die Vertagungsphase geht davon aus, dass Projektteams nur für einen bestimmten Zeitraum bestehen; sobald die Aufgabe des Teams erfüllt ist, löst sich das Team selbst auf. 
+Tatsächlich wird diese Phase manchmal auch als "Trauerphase" bezeichnet, da die Teammitglieder häufig ein Gefühl des Verlustes empfinden, wenn die Gruppe aufgelöst wird.
+
 
 
 # Siehe auch
