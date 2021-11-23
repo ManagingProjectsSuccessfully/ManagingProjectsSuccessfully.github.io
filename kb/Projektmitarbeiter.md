@@ -24,6 +24,8 @@ die in Arbeitspaketen beschriebene Aufgaben tatsächlich ausführen. [^2]
 
 "Sie sind nicht nur ausführend tätig, sondern nehmen aktiv an der Planung, Diagnose und Steuerung teil."[^1]
 
+Projektmitarbeiter haben Verantwortung gegenüber dem Projektleiter für die ihnen übertragene Teilprojekte oder Arbeitspakete.[^1]
+
 In der Folgende Abbildung sind Rollen von Projektmitarbeiter gezeigt. [^3]
 ![image](https://user-images.githubusercontent.com/92817695/142926386-c6e8bba3-c7f9-48c1-9b8c-9afc2c1b4a35.png)
 
@@ -32,8 +34,9 @@ In der Folgende Abbildung sind Rollen von Projektmitarbeiter gezeigt. [^3]
 
 **Projektmitarbeiter als das Mitglied des Projektteams**
 
-Projektmitarbeiter sind häufig Mitglied in einer Projektgruppe. Besonders bei kleinen Projekten können sie auch zum
+Projektmitarbeiter sind häufig Mitglied in einer Projektgruppe oder in einer Arbeitsgruppe. Besonders bei kleinen Projekten können sie auch zum
 Projektteam oder Projektkernteam gehören.[^4]
+
 
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
