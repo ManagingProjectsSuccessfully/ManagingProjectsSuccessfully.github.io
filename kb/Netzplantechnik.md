@@ -5,7 +5,7 @@ author: On11ybid
 anrechnung: k oder a
 ---
 
-Die Netzplantechnik ist ein wichtiges Instrument für die Planung und Steuerung von Projekten und somit die Basis einer erfolgreichen Projektplanung. Dabei werden einzelne Teilschritte des Projektes als Knoten dargestellt und gemäß Ihrer zeitlichen Abhängigkeit voneinander als Netz verbunden, um die Reihenfolge aufzuzeigen, in der die Vorgänge durchgeführt werden müssen. 
+Die Netzplantechnik ist ein wichtiges Instrument für die Planung und Steuerung von Projekten und somit die Basis einer erfolgreichen Projektplanung. Dabei werden einzelne Teilschritte des Projektes als Knoten dargestellt und gemäß Ihrer zeitlichen Abhängigkeit voneinander als Netz verbunden, um die Reihenfolge aufzuzeigen, in der die Vorgänge durchgeführt werden müssen.[^1] [^2]
 
 # Methodik der Netzplantechnik
 
@@ -13,20 +13,20 @@ Die Netzplantechnik ist ein wichtiges Instrument für die Planung und Steuerung 
 
 Zum Verständnis der Methodik der Netzplantechnik, ist es zunächst notwendig, grundlegende Begriffe zu erklären und die Elemente von Netzplänen deutlich zu machen. Unter einem Graphen im Sinne der Netzplantechnik versteht man eine Menge von Knoten, die durch eine Menge von Kanten einander zugeordnet sind. Einen solchen Graphen zeigt Abb. 1.
 Wird hierauf aufbauend einer Kante durch einen Pfeil eine Richtung gegeben und werden zwei Knoten miteinander verbunden, entsteht ein sogenannter Diagraph.
-Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt.
+Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt. In der Ablaufdarstellung mithilfe eines Netzplans existieren verschiedene Darstellungsformen, allerdings bestehen Netzpläne immer aus Vorgängen und Ereignissen. Ein Vorgang beschreibt den Sachverhalt des Projektablaufs mit einem bestimmten Anfang und einem bestimmten Ende. Es ist ein Ablaufelement, welches immer durch eine bestimmte Dauer gekennzeichnet ist, die benötigt wird um den Vorgang auszuführen. Wenn ein Vorgang beginnt oder endet, dann immer mit dem Eintritt eines Ereignisses. Solch ein Ereignis beschreibt lediglich den Eintritt eines bestimmten Zustandes, und verfügt daher über keine Dauer.[^1] [^4]
 
-In der Ablaufdarstellung mithilfe eines Netzplans existieren verschiedene Darstellungsformen, allerdings bestehen Netzpläne immer aus Vorgängen und Ereignissen. Ein Vorgang beschreibt den Sachverhalt des Projektablaufs mit einem bestimmten Anfang und einem bestimmten Ende. Es ist ein Ablaufelement, welches immer durch eine bestimmte Dauer gekennzeichnet ist, die benötigt wird um den Vorgang auszuführen. Wenn ein Vorgang beginnt oder endet, dann immer mit dem Eintritt eines Ereignisses. Solch ein Ereignis beschreibt lediglich den Eintritt eines bestimmten Zustandes, und verfügt daher über keine Dauer.
+![BILD1](https://user-images.githubusercontent.com/92942732/143136980-598270d2-f11d-471c-b123-d31cfe5c757f.jpg)   
 
+*Abb.1 Darstellung eines Graphen*
 
+![Abbildung 2 (1)](https://user-images.githubusercontent.com/92942732/143137303-a0aa56e0-2962-4e2a-88be-c13925d9d675.jpg)
 
-![BILD1](https://user-images.githubusercontent.com/92942732/143136980-598270d2-f11d-471c-b123-d31cfe5c757f.jpg)       ![Abbildung 2 (1)](https://user-images.githubusercontent.com/92942732/143137303-a0aa56e0-2962-4e2a-88be-c13925d9d675.jpg)
-
-*Abb.1 Darstellung eines Graphen (links)* *;* *Abb.2 Darstellung eines vereinfachten Netzplans (rechts)*
+*Abb.1 Darstellung eines Graphen* *;* *Abb.2 Darstellung eines vereinfachten Netzplans (rechts)*
 
 ### Arten der Netzplandarstellung
 Für die Darstellung von Projektabläufen mit der In der NPT existieren verschiedene Möglichkeiten um Projektabläufe dazustellen.
-Bei der Ablaufdarstellung  von Projektabläufen mithilfe der  Netzplantechnik gibt es drei Grundarten von Netzplänen. Diese bezeichnet man als [Ereignisknoten-, Vorgangspfeil- und Vorgangsknoten-Netzplan] (https://de.wikipedia.org/wiki/Netzplantechnik#Ziele_der_Netzplantechnik).
-Grundsätzlich sind zwischen diesen Netzplandarstellungen auch Mischformen möglich. Bei diesen gemischtorientierten Netzplänen werden allerdings im Vergleich zu den nichtgemischten Netzplänen dennoch Vorgänge als auch Ereignisse abgebildet.
+Bei der Ablaufdarstellung  von Projektabläufen mithilfe der  Netzplantechnik gibt es drei Grundarten von Netzplänen. Diese bezeichnet man als Ereignisknoten-, Vorgangspfeil- und Vorgangsknoten-Netzplan [3^].
+Grundsätzlich sind zwischen diesen Netzplandarstellungen auch Mischformen möglich. Bei diesen gemischtorientierten Netzplänen werden allerdings im Vergleich zu den nichtgemischten Netzplänen dennoch Vorgänge als auch Ereignisse abgebildet.[^1]
 
 
 # Projektplanung der Netzplantechnik
@@ -44,11 +44,11 @@ Danach folgt mithilfe des Netzplans die strukturelle Darstellung des Projekts.
 Als nächstes erfolgt mit dem erstellten Netzplan die Zeitplanung des Projekts. 
 Diese umfasst die Bestimmung der frühesten und spätesten Anfangs- sowie Endzeitpunkte der einzelnen Vorgänge.
 Der Zeitbedarf für jeden Vorgang variiert nach den vorhandenen Ressourcen des Unternehmens. 
-Zuerst werden in der Zeitplanung die frühestmöglichen Anfangs- und Endzeitpunkte der einzelnen Vorgänge durch die [Vorwärtsrechnung] (https://www.bwl-lexikon.de/wiki/netzplantechnik/#2-schritt-die-vorwaertsterminierung) ermittelt. Anschließend bestimmt man die spätestmöglichen Anfangs- und Endzeitpunkte mit der [Rückwärtsrechnung] (https://www.bwl-lexikon.de/wiki/netzplantechnik/#3-schritt-die-rueckwaertsterminierung).
+Zuerst werden in der Zeitplanung die frühestmöglichen Anfangs- und Endzeitpunkte der einzelnen Vorgänge durch die Vorwärtrechnung[^4] ermittelt. Anschließend bestimmt man die spätestmöglichen Anfangs- und Endzeitpunkte mit der Rückwärtsrechnung[^4].
 Nun erhält man aus der Differenz der spätesten und frühesten Zeitpunkten die Zeitreserven für die Durchführung der Vorgänge. Diese Zeitreserven werden auch Pufferzeiten genannt. Vorgänge die keine Pufferzeiten enthalten, werden kritische Vorgänge genannt.
 Die Verbindung dieser kritischen Vorgänge ergibt den kritischen Pfad und somit den längsten Weg im Netzplan. Sobald sich nur ein einziger kritischer Vorgang verzögert, verlängert sich die gesamte Projektdauer. In jedem Projekt befindet sich mindestens ein kritischer Pfad, welcher den Fertigstellungstermin des Projektes angibt.  Anhand des ermittelten Zeitbedarfs, können von den einzelnen Vorgängen die Kosten bestimmt werden und dadurch die Gesamtkosten des Projekts.
 Mittels der Gegenüberstellung angefallener Ist-Kosten mit den ermittelten Plan-Kosten ist es möglich Abweichungen früh genug zu erkennen und dementsprechend zu Handeln. 
-Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen Voraussetzungen für die Durchführung des Projekts geschaffen werden. Dabei wird eine hohe und gleichmäßige Auslastung der vorhandenen Ressourcen angestrebt.
+Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen Voraussetzungen für die Durchführung des Projekts geschaffen werden. Dabei wird eine hohe und gleichmäßige Auslastung der vorhandenen Ressourcen angestrebt.[^1]
 
 # Siehe auch
 
@@ -61,12 +61,7 @@ Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen 
 
 # Quellen
 
-[^]: [NETZPLANTECHNIK: SO GELINGT DIE ERFOLGREICHE PROJEKTPLANUNG ✔] (https://www.kayenta.de/training-seminar/artikel/netzplantechnik-so-gelingt-die-erfolgreiche-projektplanung.html#ce-1142)
-[^]: [Netzplantechnik](https://www.bwl-lexikon.de/wiki/netzplantechnik/#3-schritt-die-rueckwaertsterminierung)
-[^]: [Netzplantechnik](https://de.wikipedia.org/wiki/Netzplantechnik#Ziele_der_Netzplantechnik)
-[^]: [Netzplantechnik](https://www.quality.de/lexikon/netzplantechnik/#Anwendungsempfehlung)
-[^]: [Was ist ein Netzplan?] (https://t2informatik.de/wissen-kompakt/netzplan/)
-[^6]: 
-[^7]:
-[^8]:
-[^9]:
+[^1]: Kapahnke (2018): "Grundlagen der Netzplantechnik"
+[^2]:[NETZPLANTECHNIK: SO GELINGT DIE ERFOLGREICHE PROJEKTPLANUNG ✔] (https://www.kayenta.de/training-seminar/artikel/netzplantechnik-so-gelingt-die-erfolgreiche-projektplanung.html#ce-1142) 
+[^3]: [Netzplantechnik](https://de.wikipedia.org/wiki/Netzplantechnik#Ziele_der_Netzplantechnik)
+[^4]: [Netzplantechnik](https://www.bwl-lexikon.de/wiki/netzplantechnik/#3-schritt-die-rueckwaertsterminierung)
