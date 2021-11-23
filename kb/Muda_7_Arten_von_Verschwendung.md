@@ -2,7 +2,7 @@
 title: Muda_7_Arten_von_Verschwendung
 tags: agil klassisch
 author: AmrouHasan
-anrechnung:  a
+anrechnung:  k
 ---
 
 Kurzbeschreibung zu Muda_7_Arten_von_Verschwendung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
