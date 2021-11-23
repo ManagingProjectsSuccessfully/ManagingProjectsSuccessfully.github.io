@@ -7,19 +7,16 @@ anrechnung: k
 
 Unterliegt ein Projekt einem ständigen Veränderungs- bzw. Erweiterungsprozess und wurde kein klares Ende definiert so wird dieses im Rahmen des Projektmanagements als „Dauerbaustelle“ bezeichnet.[^1]
 
-## Wie ist ein Projekt definiert?
+## Was ist ein Projekt?
 
-„Ein [Projekt](Projekt.md) ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist …“. Der temporäre Charakter von Projekten bezeichnet einen Beginn und ein Ende der Projektarbeit.Es wird eine konkrete Zielvorgabe aufgestellt, die ihm Rahmen des Projekts zu erfüllen ist. Außerdem wird für diese Zielerreichung sowohl ein zeitlicher, finanzieller als auch personeller Rahmen gesteckt. Darüber hinaus von zentraler Wichtigkeit ist, dass das Projekt gegenüber anderen Vorhaben sauber getrennt ist.[^2]
-
-## Was macht das Projektmanagement?
-
+„Ein [Projekt](Projekt.md) ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist …“. Der temporäre Charakter von Projekten bezeichnet einen Beginn und ein Ende der Projektarbeit. Der Projektmanager definiert Ziele, die ihm Rahmen des Projekts zu erfüllen sind. Außerdem wird für diese Zielerreichung sowohl ein zeitlicher, finanzieller als auch personeller Rahmen gesteckt. Darüber hinaus von zentraler Wichtigkeit ist, dass Projekttätigkeiten in Form von Arbeitspaketen gegenüber anderen Vorhaben sauber getrennt sind.[^2]
 Die Überwachung der Einhaltung der verschiedenen Rahmenbedingung eines Projekts liegt im [Projektmanagement](Projektmanagement.md).
 Das Projektmanagement beschreibt die Anwendung von Wissen, Fähigkeiten, Werkzeugen und Techniken auf Projektaktivitäten, um die Projektanforderungen zu erfüllen.[^3] 
-Das klassische Projektumfeld zeichnet sich dadurch aus, dass die vom Projektmanager definierten Arbeitspakete und Ziele mittels eines definierten Budgets erreicht werden sollen. Die dazu erforderlichen Prozesse im Rahmen der Projektentwicklung sind in der Regel aufeinander folgend gestaltet und häufig werden auch mehrere Projekte parallel bearbeitet.
+
 
 # Warum wird ein Projekt zur Dauerbaustelle?
 
-Es gibt eine Vielzahl von Fehlerquellen im Projektmanagement die dazu führen können, dass ein Projekt zu einer Dauerbaustelle wird. Häufig werden Projekte nicht innerhalb des dafür vorgesehenen Zeitrahmen abgeschlossen. Beispielsweise weil das Projekt die geplanten Kosten übersteigt oder weil nicht ausreichend personelle Ressourcen zu Verfügung stehen. Auch benötigtes Spezialwissen, welches nicht zur Verfügung steht, kann ein Grund hierfür sein. Mitarbeiter müssen zunächst geschult oder externe Berater eingekauft werden, wodurch sich der Projektbeginn verzögern kann. Es können auch Neuanforderungen an das Projektteam herangetragen werden, welche die Zielsetzung maßgeblich beeinflussen und in zu großem Umfang verändern. Somit werden erarbeitet Zwischenstände möglicherweise unbrauchbar, wodurch das Projektteam zeitlich zurückfällt.[^4] 
+Es gibt eine Vielzahl von Fehlerquellen im Projektmanagement die dazu führen können, dass ein Projekt zu einer Dauerbaustelle wird. Häufig werden Projekte nicht innerhalb des dafür vorgesehenen Zeitrahmen abgeschlossen. Beispielsweise weil das Projekt die geplanten Kosten übersteigt oder weil nicht ausreichend personelle Ressourcen zur Verfügung stehen. Mitarbeiter werden für die Arbeit im Rahmen eines Projekts abgestellt, werden aber nicht von ihrem Tagesgeschäft entlastet. Die Doppelbelastung führt dazu, dass sich die Mitarbeiter nicht vollständig auf das Projektthema konzentrieren können, was mit Zeitverlusten einher geht. Auch benötigtes Spezialwissen, welches nicht zur Verfügung steht, kann ein Grund hierfür sein. Mitarbeiter müssen zunächst geschult oder externe Berater eingekauft werden, wodurch sich der Projektbeginn verzögern kann. Es können auch Neuanforderungen an das Projektteam herangetragen werden, welche die Zielsetzung maßgeblich beeinflussen und in zu großem Umfang verändern. Somit werden erarbeitet Zwischenstände möglicherweise unbrauchbar, wodurch das Projektteam zeitlich zurückfällt.[^4] 
 
 Eine andere häufige Ursache von Dauerbaustellen ist, dass Projekte nicht systematisch ausgewählt werden und es dafür an klar definierten Entscheidungskriterien fehlt. 
 Im Rahmen des strategischen Managements sollten stehts Gründe für eine Projektpriorisierung angegeben werden. Dies hilft dem umsetzenden Team dabei die entsprechenden Pain Points zu identifizieren und effizienter an einer Lösung zu arbeiten.
@@ -30,7 +27,7 @@ Um all diesen Ursachen vorzubeugen, ist es wichtig dem Projektmanager einen umfa
 
 ![Beispielabbildung](Dauerbaustelle/magisches-projektmanagement-dreieck.jpg)
 
-*[Das magische Projektmanagement Dreieck](Magisches_Dreieck.md) visualisiert die untrennbare Verbindung zwischen Outpuz, Zeit und Budget*
+*[Das magische Projektmanagement Dreieck](Magisches_Dreieck.md) visualisiert die untrennbare Verbindung zwischen Output, Zeit und Budget*
 
 # Aspekt 2
 
