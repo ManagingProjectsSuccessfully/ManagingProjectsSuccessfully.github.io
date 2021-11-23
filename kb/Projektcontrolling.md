@@ -63,6 +63,7 @@ Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszei
 * [Aufgabenteilung](Aufgabenteilung.md)
 * [Meilenstein](Meilenstein.md)
 * [Projektlebenszyklus](Projektlebenszyklus.md)
+* [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 
 # Weiterführende Literatur
 
