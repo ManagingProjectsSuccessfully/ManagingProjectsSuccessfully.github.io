@@ -54,7 +54,7 @@ Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmana
 
 
 ## Lösungsansatz
-Eine mögliche Lösung stellt hier bei das [Microsoft PPM](https://www.microsoft.com/de-de/microsoft-365/project/project-portfolio-management)-Tool dar. Es ist ein benutzerfreundliches Tool für zentrales Projektmanagement, da es eine gemeines Arbeits- und Informationsplattform für Forscher und Projektbeteiligte bereitstellt. [^4] 
+Eine mögliche Lösung stellt hierbei das [Microsoft PPM](https://www.microsoft.com/de-de/microsoft-365/project/project-portfolio-management)-Tool dar. Gerade in Puncto mangelnde Kommunikation und fehelnde projektplanung ist es hilfreich, da es ein benutzerfreundliches Tool für zentrales Projektmanagement mit einer gemeinsamen Arbeits- und Informationsplattform für Forscher und Projektbeteiligte ist. [^4] 
 
 Nützliche Funktionen für Forschungsprojekte:
 1. PPM: zentrales Speichern und Auswerten, standardisierte Dokumentablage durch Sharepoint
@@ -83,17 +83,17 @@ Nützliche Funktionen für Forschungsprojekte:
 
 * Bauer W., Bleck-Neuhaus J., Dombois R., Wehrtmann I. (2018). Forschungsprojekte entwickeln – von der Idee bis zur Publikation. NOMOS VERLAGSGES.MBH + CO.
 * Schöneck N. & Voß W. (2013). Das Forschngsprojekt, Planung, Durchführung und Auswertung einer quantitativen Auswertung. SpringerVS.
-* Projekt Forum. (2020, 07. Juli). [Herausforderungen an das Projektmanagement: Unterschiedliche Arten von Projekten](https://www.youtube.com/watch?v=Ar-qjMOsh7U). Youtube. 
+* Projekt Forum. (07.07.2020). [Herausforderungen an das Projektmanagement: Unterschiedliche Arten von Projekten](https://www.youtube.com/watch?v=Ar-qjMOsh7U). Youtube. 
 * Hagen Management GmbH. [Projektmanagement Blog](https://pm-blog.com/).
 
 
 # Quellen
 
-[^1]: [Forschungsprojekte](https://de.wikipedia.org/wiki/Forschungsprojekt)
-[^2]: [Projektmanagement der Forschung](https://www.projektmagazin.de/artikel/projektmanagement-der-forschung_6806)
-[^3]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/)
-[^4]: [Projektlösungen](https://www.theprojectgroup.com/de/ms-project-loesungen/projektmanagement-forschung)
-[^5]: [Forschung und Entwicklung - Projektmanagement in der Medizintechnik](https://www.youtube.com/watch?v=6YxbcjEYUj0)
-[^6]: [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/)
-[^7]: [Forschungsfrage entwickeln](https://novustat.com/statistik-blog/forschungsfrage-entwickeln-und-datenanalyse-planen.html#:~:text=%20Forschungsfrage%20entwickeln%20und%20Datenanalyse%20planen%3A%20In%209,entwickeln%20Sie%20nun%20die%20Hypothesen.%20Hypothesen...%20More%20)
-[^8]:  [Forschungsfrage](https://de.wikipedia.org/wiki/Forschungsfrage)
+[^1]: [Forschungsprojekte](https://de.wikipedia.org/wiki/Forschungsprojekt) (12.02.2021). In Wikipedia.
+[^2]: [Projektmanagement der Forschung](https://www.projektmagazin.de/artikel/projektmanagement-der-forschung_6806) (13.06.2005). Projektmagazin. 19.11.2021.
+[^3]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/). Roth Institut. 18.11.2021.
+[^4]: [Projektlösungen](https://www.theprojectgroup.com/de/ms-project-loesungen/projektmanagement-forschung). TPG. 20.11.2021.
+[^5]: [Forschung und Entwicklung - Projektmanagement in der Medizintechnik](https://www.youtube.com/watch?v=6YxbcjEYUj0) (23.09.2013). In Youtube.
+[^6]: Hagen S. (04.07.2009). [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/). 
+[^7]: [Forschungsfrage entwickeln](https://novustat.com/statistik-blog/forschungsfrage-entwickeln-und-datenanalyse-planen.html#:~:text=%20Forschungsfrage%20entwickeln%20und%20Datenanalyse%20planen%3A%20In%209,entwickeln%20Sie%20nun%20die%20Hypothesen.%20Hypothesen...%20More%20) (22.01.2018). Novustat.
+[^8]:  [Forschungsfrage](https://de.wikipedia.org/wiki/Forschungsfrage) (07.11.2021). In Wikipedia.
