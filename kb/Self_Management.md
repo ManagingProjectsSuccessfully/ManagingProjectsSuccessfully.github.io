@@ -31,7 +31,7 @@ Bei dieser Methode geht es darum Aufgaben in einem bestimmten Zeitraum zu erledi
 Die einzelnen Buchstaben der Methode beschreiben die Formulierung der Ziele, die man sich setzt. Das A steht für ambitiös, was bedeutet, dass das Ziel ambitioniert sein sollte. Des Weiteren steht das M für motiviert, das O für Organisiert, das R für Realistisch und das E für echt. Im Allgemeinen basiert die Idee dieser Methode darauf, dass mit Liebe am Ziel gearbeitet werden sollte, wie der Name bereits vorwegnimmt. 
 ## 80-20 Pareto-Prinzip
 Bei dieser Methode geht es darum, dass idealerweise 20 Prozent in das Projekt investiert wird und das Resultat einen 80-prozentigen Effekt hat. Diese Methode benötigt allerdings viel Zeit im Aufbauprozess.
-## Eisenhower-Methode
+## [Eisenhower-Methode](Eisenhower_Matrix.md)
 Bei dieser Methode werden die Aufgaben aufgeteilt, wodurch einem der Priorisierungs-prozess erleichtert wird. Die Aufgaben werden wie folgt aufgeteilt: 
 Wichtig/eilig, wichtig/nicht eilig, unwichtig/eilig, unwichtig/nicht eilig. 
 Zu dieser Methode gibt es einige ähnliche Methoden wie z.B. die ABC-Methode, wo die Aufgaben jedoch nur in 3 Kategorien aufgeteilt werden (sehr wichtig, weniger wichtig und kaum wichtig).
