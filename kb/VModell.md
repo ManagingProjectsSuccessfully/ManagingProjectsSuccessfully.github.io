@@ -1,6 +1,6 @@
 ---
 title: VModell
-tags: klassisch
+tags: klassisch vmodell wasserfallmodell
 author: fabriGH
 anrechnung: k
 ---
