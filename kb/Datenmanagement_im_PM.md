@@ -65,14 +65,25 @@ Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmana
 
 *Abbildung 2 Interaktion der primären Module*[^1]
 
+# Abkürzungen 
+
+PM - Projektmanagement 
+PMIS - Projektmanagementinformationssystem
+
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Datenmanagement](https://de.wikipedia.org/wiki/Datenmanagement)
+* [Projektmanagement](https://de.wikipedia.org/wiki/Projektmanagement)
+* [Informationsqualität](https://de.wikipedia.org/wiki/Informationsqualit%C3%A4t)
 * [Link auf diese Seite](Datenmanagement_im_PM.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Project Data Management](https://www.landmark.solutions/ProjectDataManagement)
+* [Data management plan](https://en.wikipedia.org/wiki/Data_management_plan)
+* [7 Master Data Management Project Best Practices](https://www.informationweek.com/big-data-analytics/7-master-data-management-project-best-practices)
+* [Agile Project Management for Data Projects](https://www.youtube.com/watch?v=ERWZhMZuJfs)
+* [An Agile Approach to Data Management](https://www.youtube.com/watch?v=Xe2YgNMU8pg)
 
 # Quellen
 
