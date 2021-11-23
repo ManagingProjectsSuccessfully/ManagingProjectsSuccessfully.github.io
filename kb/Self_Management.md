@@ -22,23 +22,23 @@ Self-management wird gerne mit Zeitmanagement verwechselt, jedoch ist das Zeitma
 
 # Selfmanagement Methoden
 
-Self-management umfasst viele Methoden, die man anwenden kann, nur um dieses Thema anzuschneiden werden hier einige dieser Methoden aufgezählt.
+Self-management umfasst viele Methoden, die man anwenden kann, nur um dieses Thema anzuschneiden werden hier einige dieser Methoden aufgezählt.[^1]
 
 ## [Pomodoro Methode](Pomodoro.md)
-Bei dieser Methode geht es darum Aufgaben in einem bestimmten Zeitraum zu erledigen und daraufhin immer wieder Pausen einzulegen. Dies hilft die Aufgaben in diesem Zeitraum so konzentriert wie möglich durchzuziehen.
+Bei dieser Methode geht es darum Aufgaben in einem bestimmten Zeitraum zu erledigen und daraufhin immer wieder Pausen einzulegen. Dies hilft die Aufgaben in diesem Zeitraum so konzentriert wie möglich durchzuziehen. [^1]
 ## Amore Methode
-Die einzelnen Buchstaben der Methode beschreiben die Formulierung der Ziele, die man sich setzt. Das A steht für ambitiös, was bedeutet, dass das Ziel ambitioniert sein sollte. Des Weiteren steht das M für motiviert, das O für Organisiert, das R für Realistisch und das E für echt. Im Allgemeinen basiert die Idee dieser Methode darauf, dass mit Liebe am Ziel gearbeitet werden sollte, wie der Name bereits vorwegnimmt. 
+Die einzelnen Buchstaben der Methode beschreiben die Formulierung der Ziele, die man sich setzt. Das A steht für ambitiös, was bedeutet, dass das Ziel ambitioniert sein sollte. Des Weiteren steht das M für motiviert, das O für Organisiert, das R für Realistisch und das E für echt. Im Allgemeinen basiert die Idee dieser Methode darauf, dass mit Liebe am Ziel gearbeitet werden sollte, wie der Name bereits vorwegnimmt. [^1]
 ## 80-20 Pareto-Prinzip
-Bei dieser Methode geht es darum, dass idealerweise 20 Prozent in das Projekt investiert wird und das Resultat einen 80-prozentigen Effekt hat. Diese Methode benötigt allerdings viel Zeit im Aufbauprozess.
+Bei dieser Methode geht es darum, dass idealerweise 20 Prozent in das Projekt investiert wird und das Resultat einen 80-prozentigen Effekt hat. Diese Methode benötigt allerdings viel Zeit im Aufbauprozess. [^1]
 ## [Eisenhower-Methode](Eisenhower_Matrix.md)
 Bei dieser Methode werden die Aufgaben aufgeteilt, wodurch einem der Priorisierungs-prozess erleichtert wird. Die Aufgaben werden wie folgt aufgeteilt: 
 Wichtig/eilig, wichtig/nicht eilig, unwichtig/eilig, unwichtig/nicht eilig. 
-Zu dieser Methode gibt es einige ähnliche Methoden wie z.B. die ABC-Methode, wo die Aufgaben jedoch nur in 3 Kategorien aufgeteilt werden (sehr wichtig, weniger wichtig und kaum wichtig).
-## SMART-Methode
+Zu dieser Methode gibt es einige ähnliche Methoden wie z.B. die ABC-Methode, wo die Aufgaben jedoch nur in 3 Kategorien aufgeteilt werden (sehr wichtig, weniger wichtig und kaum wichtig). [^1]
+## SMART-Methode 
 Hier geht es um die Organisation und Priorisierung der Ziele, die man sich vornimmt.
-Wobei die Ziele in Kriterien eingeteilt werden und der Fokus liegt darin sie positiv zu formulieren. Die Kriterien sind wie folgt: Spezifisch, messbar, aktionsorientiert, realistisch und terminiert. 
+Wobei die Ziele in Kriterien eingeteilt werden und der Fokus liegt darin sie positiv zu formulieren. Die Kriterien sind wie folgt: Spezifisch, messbar, aktionsorientiert, realistisch und terminiert. [^1]
 ## ALPEN-Methode 
-Bei dieser Methode geht es darum sich einen Überblick zu schaffen, was erledigt werden muss und dies in eine Liste umzuformulieren und diese des weiteren zu priorisieren. Am Ende des Tages schafft man sich eine Übersicht was geschafft werden muss und die Aufgaben die übrig bleiben werden auf den nächsten Tag verschoben. 
+Bei dieser Methode geht es darum sich einen Überblick zu schaffen, was erledigt werden muss und dies in eine Liste umzuformulieren und diese des weiteren zu priorisieren. Am Ende des Tages schafft man sich eine Übersicht was geschafft werden muss und die Aufgaben die übrig bleiben werden auf den nächsten Tag verschoben. [^1]
 
 # Fazit
 Im Allgemeinen lässt sich sagen, dass man durch effektives Selbstmanagement strukturierter und effizienter arbeitet, man viele Kompetenzen dazu lernen kann, viel stress vermeidet werden kann und im Allgemeinen die work-life-balance um einiges verbessert wird. 
