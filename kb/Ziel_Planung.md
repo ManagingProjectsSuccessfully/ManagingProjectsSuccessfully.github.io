@@ -32,7 +32,7 @@ In der Praxis kann aber eine Anfrage zur „Entwicklung eines Projektplans ganz 
 
 Im klassischen Projektmanagement geht es darum, möglichst klare Ziele zu haben, die in der gewünschten Zeit und zu den gewünschten Kosten erreicht werden können. Deshalb spricht man oftmals in diesem Zusammenhang vom „magischen Dreieck“. Die Aufgabe des Projektmanagers bezieht sich auf das Finden eines goldenen Mittelwegs. Dies bedeutet, dass die drei Faktoren „Kosten, Zeit und Leistung“ stets im Gleichgewicht sein müssen. Je kürzer die Zeit, desto höher die Kosten. Je umfangreicher die Dienste, desto länger die Zeit usw. Eine konstante Balance zu halten, die Kunde und Projektteam vertragen, ist eine verantwortungsvolle und schwierige Aufgabe, die eine gute Kommunikation voraussetzt. Allgemein kann man sagen, dass die Hauptziele des Projektmanagements Organisation, Planung, Steuerung und Leitung sind. [^3]
 
-![bild](Ziel_Planung/mpsbild.jpg "MagischesDreieck")
+![bild](Ziel_Planung/mpsbild.jpg "MagischesDreieck") [^1] 
 
 # 5.	Zieldefinierung mit der SMART Regel:
 
@@ -61,4 +61,4 @@ Dies bedeutet, dass das Ziel so deutlich wie möglich gesetzt werden sollen, um 
 
 [^1] : [Projektmanagement – Der optimale Einsatz für dein Unternehmen ](https://sevdesk.de/blog/projektmanagement/ )   
 [^2] : [Projektplanung: Alle Schritte der Planungsphase auf einen Blick ](https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/projektplanung/ )   
-[^3] : [Ziele und Aufgaben des Projektmanagements](https://link.springer.com/chapter/10.1007%2F978-3-642-60144-6_6)
+[^3] : [Ziele und Aufgaben des Projektmanagements](https://link.springer.com/chapter/10.1007%2F978-3-642-60144-6_6). 
