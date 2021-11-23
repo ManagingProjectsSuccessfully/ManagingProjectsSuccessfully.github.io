@@ -1,6 +1,6 @@
 ---
 title: Self_Management
-tags: agil klassisch
+tags: klassisch
 author: Dolunay76
 anrechnung: k
 ---
