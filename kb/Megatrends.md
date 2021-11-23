@@ -34,7 +34,7 @@ Arbeitskräfte in den Schwellen- und Entwicklungsländern sind günstiger als in
 
 ## 5. [Digitalisierung](kb/Digitalisierung_im_PM.md) und Datenmengen [^5]
 
-Durch neue Technologien, die Einsetzung von KI fallen immer mehr Daten an. Projektmanager werden vor eine große Herausforderung, da diese Daten auch verwaltet werden müssen.
+Durch neue Technologien, die Einsetzung von [KI](kb/KI_im_PM.md) fallen immer mehr Daten an. Projektmanager werden vor eine große Herausforderung, da diese Daten auch verwaltet werden müssen.
 Dies nimmt viel Zeit in Anspruch, hilft aber andererseits beim Vereinfachen der Projekte.
 
 Um diese ganzen Daten zu speichern, werden immer öfter Clouds verwendet. 
