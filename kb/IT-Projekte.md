@@ -10,7 +10,8 @@ Unter IT-Projekte versteht man die Entwicklung von Informations- und Kommunikati
 ## Klassische Methoden 
 Im Bereich der Softwareentwicklung sind die klassischen Vorgehensmethoden „Hermes“, „PRINCE2“ und „V-Model XT geeignet[^2].
 ### HERMES
-Bei Hermes wird nach den Prinzipien des Wasserfallmodells gearbeitet. Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Rolle, was dazu führt, dass die erforderlichen Projekttätigkeiten und Verantwortlichkeiten abgeleitet werden. Die Ergebnisse sind eindeutig definiert, wodurch der Anfang- und Endpunkt der Phasen vordefiniert sind und somit eine präzise Vorgehensweise gewährleistet wird. Hermes ist ebenfalls gekennzeichnet durch eine lineare Abfolge der Aktivitäten, was den Einsatz in IT-Projekten ermöglicht. Diese Methode wird hauptsächlich in der Schweiz angewendet[^3].
+Bei Hermes wird nach den Prinzipien des Wasserfallmodells (siehe abb. 1) gearbeitet. Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Rolle, was dazu führt, dass die erforderlichen Projekttätigkeiten und Verantwortlichkeiten abgeleitet werden. Die Ergebnisse sind eindeutig definiert, wodurch der Anfang- und Endpunkt der Phasen vordefiniert sind und somit eine präzise Vorgehensweise gewährleistet wird. Hermes ist ebenfalls gekennzeichnet durch eine lineare Abfolge der Aktivitäten, was den Einsatz in IT-Projekten ermöglicht. Diese Methode wird hauptsächlich in der Schweiz angewendet[^3].
+
 
 ### PRINCE2
 "PRINCE2" (Projects in Controlled Environments) steht für Projekte unter Kontrolle, das heißt, dass das Vorgehen vom Start bis zum Ende eines Projektes vordefiniert ist. Wie etwas hergestellt wird, ist nicht definiert, sondern von wem und wann etwas erzeugt werden soll. Durch diese Trennung zwischen der Herstellung von Produkten und dem Management von Projekten unterscheidet sich Prince2 von anderen Methoden und eignet sich zugleich sehr gut für das Zusammenspiel mit Methoden, die sich um die Produktherstellung kümmern. Prince2 zählt zu den meistgenutzten Methoden weltweit[^4] 
@@ -34,6 +35,11 @@ Im für Südenglang zuständigen Auslieferungszentrum Waltham Point in Essex wur
 ### Das Größte Lidl IT-Projekt
 Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das von SAP entwickelt wurde, anwenden. Dieses sollte das selbst programmierte und jahrzehntealte System Wawi ablösen. Eine Reduzierung des Aufwands für die Stammdatenpflege und die Möglichkeit für Prognosen in Echtzeit waren die Ziele, die das System schaffen sollte. Das Elektronisches Lidl-Warenwirtschaftsinformationssystem (Elwis) wurde nach sieben Jahren Entwicklungszeit im Jahr 2018 gestoppt. Die Ziele waren mit dem gegeben Aufwand nicht realisierbar[^8].
 
+# Angrenzenden Themen
+[Microsoft_Project_PM_Tool](https://github.com/AbderrahmaneBennani/ManagingProjectsSuccessfully.github.io/blob/main/kb/Microsoft_Project_PM_Tool.md)
+
+[Java Projektmanagement Tools](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Java_PM_Tool.md)
+
 # Quellen
 
 [^1]: [Projektart: IT-Projekte](https://www.guteprojekte.ch/projektarten/it-projekte)
@@ -44,13 +50,6 @@ Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das v
 [^6]: [Gescheitertes IBM-Projekt](https://www.cio.de/a/elf-it-projekte-im-sturzflug,859906)
 [^7]: [Barcode-Scanner mit Lesefehler](https://www.cio.de/a/elf-it-projekte-im-sturzflug,859906,3)
 [^8]: [Elwis Lidl Projekt](https://www.com-magazin.de/praxis/business-it/erfolgreiche-it-projekte-in-stuermischen-zeiten-2656021.html)
-[^9]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
-[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
-[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
-[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
-[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
-[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
-[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
-[^4]: [Methode Prince2](https://www.microtool.de/wissen-online/wie-funktioniert-prince2/)
+
 
 
