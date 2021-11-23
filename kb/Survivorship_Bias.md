@@ -26,7 +26,7 @@ Durch diese Feststellung wird Abraham Wald, das Entdecken des Survivorship Bias 
 
 ## Mögliche Felder in denen Survivorship Bias vorkommt:
 
-### Es gibt etliche Felder in denen Survivorship Bias vorkommt, welche besonders durch Medienberichte sowie falsche oder fehlende Informationen verzerrt werden. Im folgenden werden einige dieser Felder weiter ausformuliert:
+ Es gibt etliche Felder in denen Survivorship Bias vorkommt, welche besonders durch Medienberichte sowie falsche oder fehlende Informationen verzerrt werden. Im folgenden werden einige dieser Felder weiter ausformuliert:
 
   
 |   Verschiedene Felder  | 
