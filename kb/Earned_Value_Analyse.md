@@ -67,8 +67,8 @@ Die Kostenvarianz gibt also an, ob in einem Projekt mehr Kosten entstanden sind 
 Die Terminvarianz beschreibt, inwiefern der Zeitplan eingehalten wird und stellt dar, ob man schneller fertig wird oder länger gebraucht hat.
 Der Index der beiden gibt eine relative Darstellung dieser Abweichungen, wodurch die Werte leichter verglichen werden können. 
 Die Indexe berechnen sich wie folgt:
-* CPI (cost performance index) = EV x AC
-* SPI (schedule performance index) = EV x PV 
+* CPI (cost performance index = Kostenvarianzindex) = EV x AC
+* SPI (schedule performance index = Terminvarianzindex) = EV x PV 
 Anschließend können daraus Prognosen für die Gesamtkosten und Gesamtdauer abgeleitet werden.
 Anhand einer Interpretation dieser Kennzahlen kann das weitere Vorgehen des Projektes entschieden werden.
 Unterschieden werden kann bei Kostenüberschreitung beispielsweise zwischen Gesamtkosten anpassen und erhöhen oder Maßnahmen zur Kosteneinsparung einzuleiten. [^5]
