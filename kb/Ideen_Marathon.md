@@ -74,7 +74,7 @@ Takeo Higuchi beabsichtigt die Kreativitätstechnik auch in Zukunft weiterhin nu
 
 # Siehe auch
 
-*[Projektmanagements](Projektmanagement.md)
+*[Projektmanagement](Projektmanagement.md)
 *[Projektmanagementsoftware](Projektmanagementsoftware.md)
 *[Hackathon](Hackathon.md)
 *[Provokationstechnik](Provokationstechnik.md)
