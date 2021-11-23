@@ -72,6 +72,7 @@ Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework z
 * /Projektmanagement.md
 * /Wissensmanagament.md
 * /SCRUM.md
+* https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/9901f2566b2e46f08475294723848d308218af24/SCRUM.md
 
 # Weiterführende Literatur
 
