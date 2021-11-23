@@ -43,7 +43,32 @@ Laut dem offiziellen Scrum_Guide aus dem Jahr 2020 enthält der Scrum_Guide folg
 
 *	Increment
 
-*	Schlussbemerkung [^4]
+*	Schlussbemerkung[^4]
+
+
+
+## Scrum-Rollen, Ereignissen und Artefakte 
+
+Wie zu Beginn beschrieben enthält der Scrum_Guide die Definition von Scrum. Diese Definition besteht aus den Scrum-Rollen, Ereignissen, Artefakten und den Regeln. Um den 
+Scrum_Guide umfassend zu verstehen, müssen die einzelnen Bereiche verstanden werden. 
+
+### Scrum-Rollen
+
+Bei Scrum gibt es drei Rollen die direkt am Prozess beteiligt sind, den Product Owner, den ScrumMaster und den Developer[^4]. 
+Kurzgesagt, stellt der Product Owner fachliche Anforderungen und priorisiert sie. 
+
+Der ScrumMaster hat die Aufgabe den Prozess zu managen und Hindernisse zu beseitigen. Er sorgt dafür, dass während dem Prozess die Scrum_Regeln eingehalten werden.
+Der Developer hat das Ziel, wie sein Name schon vermuten lässt, das Produkt zu entwickeln[^6]. 
+
+
+
+
+
+
+
+
+
+
 
 
 ## Visualisierung des Scrum-Prozesses
@@ -52,41 +77,7 @@ Laut dem offiziellen Scrum_Guide aus dem Jahr 2020 enthält der Scrum_Guide folg
 
 *Visualisierung des Scrum-Prozesses*
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -105,7 +96,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: [What is Scrum](https://www.scrum.org/resources/what-is-scrum )
 [^4]: [Der Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf)
 [^5]: [Bild](https://www.bing.com/images/search?view=detailV2&ccid=QfyEah%2b1&id=B7DECA9FBBB98F3723EEFC0B8DAFA331DE30B322&thid=OIP.QfyEah-1aXpqK7RSJJJ7qAHaE7&mediaurl=https%3a%2f%2fimage.freepik.com%2fvektoren-kostenlos%2fscrum-infografik_23-2148582396.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.41fc846a1fb5697a6a2bb45224927ba8%3frik%3dIrMw3jGjr40L%252fA%26pid%3dImgRaw%26r%3d0&exph=417&expw=626&q=scrum+guide+grafik&simid=607988806035197205&FORM=IRPRST&ck=902968CA6FB2836A04D392B51E5415C9&selectedIndex=3&qpvt=scrum+guide+grafik&ajaxhist=0&ajaxserp=0)
-
+[^6]: [Was ist Scrum](https://scrum-master.de/Was_ist_Scrum/Scrum_auf_einer_Seite_erklaert)
 
 
 
