@@ -12,7 +12,7 @@ Wasserfall-Modell ist nicht anders als ein lineares sequenzielles Vorgehensmodel
 
 Die Hauptgrundidee ist die Aufteilung des Projekts in Phasen, hier springt man von einer Phase auf die Nächste, sobald man die Phase erfolgreich abgeschlossen hat. Zurückspringen ist dementsprechend auch möglich, wenn es ein Fehler in einer abgeschlossenen Phase aufgetreten ist, ist einem möglich wieder auf die letzte Phase zurückzugreifen, das nennen wir: Feedback-Looping[^1]
 Trotz der Feedback-Looping ist Wasserfall-Modell kein Agiles-Modell, da lineare und starre Abfolge das Ganze ist.[^2]
-![grafik](https://user-images.githubusercontent.com/92948697/140793137-1926260c-4338-4e2d-8604-38e557577bbc.png)
+![Beispielabbildung](Wasserfall_Modell/Phasen.jpg)
 
 
 1.  Anforderung:
