@@ -13,7 +13,7 @@ Ken Schwaber und Jeff Sutherland haben Scrum entwickelt. Der Scrum-Guide wurde v
 
 # Der Scrum-Guide
 
-Die wichtige Bedeutung von Scrum im agilen Projektmanagement ist unumstritten, so fallen die beiden Begriffe Scrum und agiles Projektmanagement häufig im gleichen Kontext. 
+Die wichtige Bedeutung von Scrum im agilen (Projektmanagement)[Projektmanagement.md] ist unumstritten, so fallen die beiden Begriffe Scrum und agiles Projektmanagement häufig im gleichen Kontext. 
 Es ist also wenig überraschend, dass Scrum der beliebteste agile Ansatz im Projektmanagement ist[^2]. Bevor der konkrete Scrum_Guide beschrieben wird, soll ein allgemeiner 
 Überblick über Scrum gegeben werden. Was also genau ist Scrum. 
 
@@ -114,6 +114,8 @@ Die [Scrum-Artefakte](Scrum_Artefakte.md) lauten Product Backlog, Sprint Backlog
 * [Increment](Increment.md)
 
 * [Scrum-Master](Scrum_Master.md)
+
+* (Projektmanagement)[Projektmanagement.md] 
  
 
 # Weiterführende Literatur
