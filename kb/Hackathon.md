@@ -72,10 +72,10 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 # Ausgewählte Beispiele [^1] [^2] 
 
 * OpenCodes Hackathon
-* Coding da Vinci
-* #Wir vs. Virus
-* HackBay vom Gründerzentrum ZOLLHOF
-* BCX – Hackathon von Bosch
+* Coding da Vinci [^16]
+* #Wir vs. Virus [^17]
+* HackBay 2021 vom Gründerzentrum ZOLLHOF [^18]
+* BCX – Hackathon von Bosch [^19]
 
 ![Beispielabbildung](Hackathon/D20Ek7-X0AA-V20.jpg)
 
@@ -107,3 +107,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 [^13]: [Erklärung OpenBSD](https://de.wikipedia.org/wiki/OpenBSD)
 [^14]: [Erklärung Palm](https://de.wikipedia.org/wiki/Palm_Pilot)
 [^15]: [Website des Tech Incubators: ZOLLHOF](https://www.zollhof.de)
+[^16]: [Coding da Vinci](https://codingdavinci.de)
+[^17]: [#WirVsVirus](https://wirvsvirus.org)
+[^18]: [HackBay 2021] (https://www.hackbay.de)
+[^19]: [BCX - Hackathon von Bosch](https://bosch-connected-world.com/hackathon/)
