@@ -5,7 +5,15 @@ author: loritschka
 anrechnung: k
 ---
 
-Die rechtzeitige Identifizierung und Bewertung von potenziellen Bedrohungen und Gefahren ist für Unternehmen von wesentlicher Bedeutung, um Folgeschäden zu minimieren, oder idealerweise vollständig zu vermeiden. Es gibt verschiedene Risikoarten, die berücksichtigt werden müssen. Beispiele hierfür sind die wirtschaftlichen, technischen und rechtlichen Risiken, sowie die Umweltrisiken, die im Vordergrund dieses Beitrags stehen. [^1] Die Umweltrisiken können nicht nur zu schweren Verlusten für Unternehmen führen und ihre Existenz bedrohen, sondern auch die Natur und die Lebewesen in Gefahr bringen. Deshalb ist ihre Beseitigung von wesentlicher Bedeutung. 
+Die rechtzeitige Identifizierung und Bewertung von potenziellen Bedrohungen und Gefahren ist für Unternehmen von wesentlicher Bedeutung, um Folgeschäden zu minimieren, oder idealerweise vollständig zu vermeiden. 
+
+Es gibt verschiedene Risikoarten: [^1]
+1. wirtschaftliche Risiken 
+2. technische Risiken  
+3. rechtliche Risiken
+4.  Umweltrisiken
+
+Die Umweltrisiken stehen im Vordergrund dieses Beitrags. Diese können nicht nur zu schweren Verlusten für Unternehmen führen und ihre Existenz bedrohen, sondern auch die Natur und die Lebewesen in Gefahr bringen. Deshalb ist ihre Beseitigung von wesentlicher Bedeutung. 
 
 
 # Arten von Umweltrisiken
