@@ -1,6 +1,6 @@
 ---
 title: Netzplantechnik
-tags: agil klassisch
+tags: klassisch
 author: On11ybid
 anrechnung: k 
 ---
