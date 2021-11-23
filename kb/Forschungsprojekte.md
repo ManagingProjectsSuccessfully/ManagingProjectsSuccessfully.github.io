@@ -82,7 +82,7 @@ Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 
 * Bauer W., Bleck-Neuhaus J., Dombois R., Wehrtmann I. (2018). Forschungsprojekte entwickeln – von der Idee bis zur Publikation. NOMOS VERLAGSGES.MBH + CO.
 * Schöneck N. & Voß W. (2013). Das Forschungsprojekt, Planung, Durchführung und Auswertung einer quantitativen Auswertung. SpringerVS.
-* Projekt Forum. (07.07.2020). [Herausforderungen an das Projektmanagement: Unterschiedliche Arten von Projekten](https://www.youtube.com/watch?v=Ar-qjMOsh7U). Youtube. 
+* Projekt Forum. (07.07.2020). [Herausforderungen an das Projektmanagement: Unterschiedliche Arten von Projekten](https://www.youtube.com/watch?v=Ar-qjMOsh7U). YouTube. 
 * Hagen Management GmbH. [Projektmanagement Blog](https://pm-blog.com/).
 
 
