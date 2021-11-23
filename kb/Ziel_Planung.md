@@ -37,14 +37,11 @@ Ziele sind stets ein Motivationsfaktor. Deshalb kann es durchaus kontraproduktiv
 -	**Messbar**
 -	**Akzeptiert**
 -	**Realistisch**
--	**Terminierbar**
+-	**Terminierbar**.  
+   
 Dies bedeutet, dass das Ziel so deutlich wie möglich gesetzt werden sollen, um später nicht darüber diskutieren zu müssen, ob das Ziel erreicht wurde oder nicht.
 
 
-Kurzbeschreibung zu Ziel_Planung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
