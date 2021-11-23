@@ -9,13 +9,26 @@ Kurzbeschreibung zu Vorgehensmodelle
 
 # Begriffsdefinition "Vorgehensmodelle"
 Der Begriff "Vorgehensmodell" beschreibt eine... -definiertes Vorgehen -Standardvorgehen [^30]
-![Ordnungsschema](Vorgehensmodelle/Ordnungsschema%20Kneuper%20et%20al.JPG)
 
-Ein Vorgehensmodell ist ein Rahmen zur Bewältigung von Projekten. Ein Vorgehensmodell ist Anleitung, Rahmen, regelt, Vorgaben, beschreibt, ...
+
+Ein Vorgehensmodell ist ein Rahmen zur Bewältigung von Projekten. Ein Vorgehensmodell ist Anleitung, Rahmen, regelt, Vorgaben, beschreibt, legt Vorgehen fest, definiert ...
 Vorgehensmodelle strukturieren das Vorgehen in . Ein Vorgehensmodell bildet einen Rahmen, d
-Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise 
+Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise
+
+Ein Vorgehensmodell definiert ein projektspezifisches Vorgehen. 
+Brabblsgrampfj dsfkj aku ker ljkhf sakj adkjf fkann doch nicht so schwer sein...!
+Vorgehensmodelle sind doch eigentlich ganz einfach. Sie legen was fest, das bestimmt,  wie  man das Projekt machen musss. bzw iwe man handeln muss. Es gibt Festlegungen für zeitliche Abläufe, Aktivitäten, Rollen, wer wann wa smacht und manchmal auch genauere Inhalte wie M enthält es enthalten sie auch Methoden oder konkrete Werkzeuge. Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geiignetes auszuwählen ist keine leichte Sache. Es gibt untreschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur ANpassung. Es gibt einige Standard-Vorgehensmodelle ebenso wie abgewandelte z.B. firmenspezifische Vorgehensmdoelle. (Nicht abgewandelt, das einfach löschen) Genau. 
+Wie kann man VM jetzt einteilen? Was gibt es für unterschieldihce Arten?
+Vorgehensmodelle können in "klassische" und agile Vorgehensweisen, sowie hybride Varianten unterscheiden werden. Klassische Vorgehensmodelle sind Phasenmodelle, die ein sequentielles Vorghen haben. Eine Phase muss dabei abgeschlossen sein, bevor eine nächste beginnt. Sie werden auch  "herrkömmlich", oder lineare VM genannt.
+Agile VM beruhen auf einem iterativen Vorgehen. Beispeiele für agile Vorgehensmodelle sind Scrum *Link* oder Kanban.
+Beispeiele für klassische VM sind 
+
+Einige Literatur unterscheidet/erweitert/erwähnt auch noch noch weitere Arten an Vorgehensmodelle, wie Modelle, des Change-Managemetn oder
 
 
+
+![Bestandteile eines Vorgehensmodells](Vorgehensmodelle/Bestandteile_eines_Vorgehensmodells.png)
+![Ordnungsschema](Vorgehensmodelle/Ordnungsschema%20Kneuper%20et%20al.JPG)
 # Stoffsammlung/Checkliste
 * Einführung, die gut auf den Punkt bringt / Bild malt, was Vorgehensmodelle sind
   
