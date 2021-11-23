@@ -20,7 +20,7 @@ oben im Front-Matter (Bereich zwischen den `---`). -->
 
 ![Phasen des Projektabschlusses](Projektaufloesung/Projektaufloesung.png "Projektabschluss")
 
-*Projektabschluss*
+*Projektabschluss*[^8]
 # 	Archivierung der Unterlagen 
 
 Bei der Auflösung eines Projekts sind verschiedene Aufgaben zu erledigen, um dieses erfolgreich abzuschließen. Alle erarbeiteten Daten, Passwörter, Zugänge, Unterlagen und die [Projektdokumentation](Projektdokumentation.md) sind ordnungsgemäß zu archivieren. [^4] Dadurch wird bei möglicher zukünftiger Einsicht des Projekts sichergestellt, dass auf jegliche Unterlagen problemlos zugegriffen werden kann. 
@@ -59,3 +59,4 @@ der Projektorganisation.](http://www.begriffe.vpma.de/phasen/phasen_08.html)
 [^5]: von Känel, S. (2020). Projektabschluss, Projekteinführung. In Projekte und Projektmanagement (pp. 293-295). Springer Gabler, Wiesbaden.
 [^6]: Schneider, H., & Marti, A. (2006). Projektabschluss. Krisen vermeiden in IT-Projekten(pp.176-177). Springer Gabler, Wiesbaden.
 [^7]: [Auflösung der Projektorganisation](https://mediencommunity.de/system/files/wbts/projektmanagement/le05/34_auflsung_der_projektorganisation.html)
+[^8]: [Phasen des Projektabschlusses](https://www.peterjohann-consulting.de/projektabschluss/)
