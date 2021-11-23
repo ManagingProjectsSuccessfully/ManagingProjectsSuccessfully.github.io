@@ -41,6 +41,9 @@ Zunächst ist die Aussagekraft der Risikomatrix sehr schwach, da sie nur eine ze
 # Siehe auch
 * [ALARP](https://de.wikipedia.org/wiki/ALARP)
 * [Risikomatrix nach Nohl](https://www.dguv.de/medien/ifa/de/pra/container/pdf/risikomatrix-nohl.pdf)
+* [Risikoanalyse_und_Visualisierung](https://github.com/CTM-development/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md)
+* [Risikotransfer](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md)
+* [Risikobewertung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/22a5366030a3320ee2b77c4c2ba5b22cbca273e3/kb/Risikomanagement.md)
 
 # Weiterführende Literatur
 * [Risikomatrix Erklärvideo](https://www.youtube.com/watch?v=j_c2qN-waCk)
