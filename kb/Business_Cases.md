@@ -75,7 +75,7 @@ Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement e
 [^3]: [Business Case - Abbildung](https://greenprojectsconsulting.com/wp-content/uploads/2021/07/Business_Case_4_Bubbles.jpg)
 [^4]: [Business Case - Definition/Inhalte/Beispiele](https://www.projektmagazin.de/glossarterm/business-case)
 [^5]: [Was ist ein Business Case?](https://t2informatik.de/wissen-kompakt/business-case/)
-[^6]: [So schreiben Sie einen Business Case. Teil 1: Formalien und Einstieg](https://www.solutionmatrix.de/presse/projektmagazin_business_case_1.pdf)
+[^6]: [So schreiben Sie einen Business Case. Teil 1: Formalien und Einstieg](https://www.solutionmatrix.de/presse/projektmagazin_business_case_1.pdf) (S.1)
 [^7]: [Business Case: Alles Wichtige auf einen Blick](https://projekte-leicht-gemacht.de/blog/methoden/projektstart/business-case/)
 [^8]: [Auf den Punkt - der Business Case](https://www.youtube.com/watch?v=gCbXCawrT8k)
 [^9]: [Business Case](https://www.projektmagazin.de/methoden/business-case)
