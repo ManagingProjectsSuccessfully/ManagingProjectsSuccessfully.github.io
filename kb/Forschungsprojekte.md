@@ -92,7 +92,7 @@ Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 [^2]: [Projektmanagement der Forschung](https://www.projektmagazin.de/artikel/projektmanagement-der-forschung_6806) (13.06.2005). Projektmagazin. 19.11.2021.
 [^3]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/). Roth Institut. 18.11.2021.
 [^4]: [Projektlösungen](https://www.theprojectgroup.com/de/ms-project-loesungen/projektmanagement-forschung). TPG. 20.11.2021.
-[^5]: [Forschung und Entwicklung - Projektmanagement in der Medizintechnik](https://www.youtube.com/watch?v=6YxbcjEYUj0) (23.09.2013). In Youtube.
+[^5]: [Forschung und Entwicklung - Projektmanagement in der Medizintechnik](https://www.youtube.com/watch?v=6YxbcjEYUj0) (23.09.2013). In YouTube.
 [^6]: Hagen S. (04.07.2009). [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/). 
 [^7]: [Forschungsfrage entwickeln](https://novustat.com/statistik-blog/forschungsfrage-entwickeln-und-datenanalyse-planen.html#:~:text=%20Forschungsfrage%20entwickeln%20und%20Datenanalyse%20planen%3A%20In%209,entwickeln%20Sie%20nun%20die%20Hypothesen.%20Hypothesen...%20More%20) (22.01.2018). Novustat.
 [^8]:  [Forschungsfrage](https://de.wikipedia.org/wiki/Forschungsfrage) (07.11.2021). In Wikipedia.
