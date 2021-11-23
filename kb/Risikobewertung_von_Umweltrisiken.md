@@ -12,7 +12,7 @@ Die rechtzeitige Identifizierung und Bewertung von potenziellen Bedrohungen und 
 
 Die Umweltrisiken können sowohl aus interner, als auch aus externer Perspektive betrachtet werden. 
 Die internen Umweltrisiken entstehen als Folge unternehmerischer Tätigkeiten und stellen eine Gefahr für die Gesundheit von Menschen, Tieren , sowie für die Natur dar. Erzeuger solcher Risiken sind oft in der Industrie tätige Unternehmen. Durch ihre Produktion entstehen schädliche Stoffe, wie Gase, Lärm, Wärme und Strahlen, die die Umwelt verschmutzen. Wenn jemand dadurch verletzt wird, müssen die dafür verantwortlichen Unternehmen, laut des Umwelthaftungsgesetzes (UmweltHG), Schadenersatz zahlen. Außerdem sind Umweltschäden auch mit Image- und Kundenverlust verbunden. 
-Die externen Umweltrisiken treten als Folge von Naturkatastrophen und Umweltänderungen, wie Stürme, Hochwasser und Erdbeben auf und gefährden die Unternehmen. Zum Beispiel, bei einem Erdbeben, können Gebäude und Maschinen zerstört werden, dessen Wiederbeschaffungswert in der Regel sehr hoch ist. Beschädigungen von Technischen Anlagen sind oft ein Grund für Produktionsausfälle, die weitere finanzielle Verluste für Unternehmen mit sich bringen. Als externe Umweltrisiken können ebenso Veränderungen des Umweltbewusstseins angesehen werden. Sie können zu Image- und Kundenverlust für Unternehmen, die den Vorstellungen der Gesellschaft nicht entsprechen, führen. [2]
+Die externen Umweltrisiken treten als Folge von Naturkatastrophen und Umweltänderungen, wie Stürme, Hochwasser und Erdbeben auf und gefährden die Unternehmen. Zum Beispiel, bei einem Erdbeben, können Gebäude und Maschinen zerstört werden, dessen Wiederbeschaffungswert in der Regel sehr hoch ist. Beschädigungen von Technischen Anlagen sind oft ein Grund für Produktionsausfälle, die weitere finanzielle Verluste für Unternehmen mit sich bringen. Als externe Umweltrisiken können ebenso Veränderungen des Umweltbewusstseins angesehen werden. Sie können zu Image- und Kundenverlust für Unternehmen, die den Vorstellungen der Gesellschaft nicht entsprechen, führen. [^2]
 
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -101,7 +101,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: https://www.business-wissen.de/hb/ziele-und-aufgaben-des-risikomanagements-im-unternehmen/ 
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: https://de.wikipedia.org/wiki/Umweltrisikomanagement#Allgemeines 
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
