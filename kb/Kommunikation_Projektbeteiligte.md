@@ -41,3 +41,4 @@ Eines der grundlegendsten Kommunikationsmodelle ist das Sender Empfänger Modell
 
 ![Beispielabbildung](Kommunikation_Projektbeteiligte/Bild02.jpg)
 .
+[^1]: [Kommunikation(landsiedel-seminare)](https://www.landsiedel-seminare.de/coaching-welt/wissen/lexikon/kommunikation.html)
