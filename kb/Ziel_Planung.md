@@ -9,7 +9,7 @@ anrechnung: k
 
  Grundlage für die Planung ist die Vorgabe der Projektleitung und die Bildung eines Teams, damit die Personen, die später am Projekt arbeiten, bereits in die Planung einbezogen werden. Ausgehend von der Grobplanung geht man später immer mehr ins Detail. Hierbei wird dann ein detaillierter Plan erstellt, welches in Teilprojekte aufgeteilt wird. Der Projektleiter und das Team stimmen dann Kosten und Ressourcen auf Basis der detaillierten Planung genauer ab. Die Projektleiter und das Team müssen auch abklären, ob die getroffenen Annahmen realistisch sind. 
  Grundlage für die Planung ist die Vorgabe der Projektleitung und die Bildung eines Teams, damit die Personen, die später am Projekt arbeiten, bereits in die Planung einbezogen werden. Ausgehend von der Grobplanung geht man später immer mehr ins Detail. Hierbei wird dann ein detaillierter Plan erstellt, welches in Teilprojekte aufgeteilt wird. Der Projektleiter und das Team stimmen dann Kosten und Ressourcen auf Basis der detaillierten Planung genauer ab. Die Projektleiter und das Team müssen auch abklären, ob die getroffenen Annahmen realistisch sind. 
- Es wird außerdem ein Projektmanagementplan erstellt, um die Übersichtlichkeit zu bewahren. Der Projektmanagementplan legt zusätzlich genau fest, welche Verantwortungsbereiche von welchen Mitarbeitern abgedeckt werden.[1]
+ Es wird außerdem ein Projektmanagementplan erstellt, um die Übersichtlichkeit zu bewahren. Der Projektmanagementplan legt zusätzlich genau fest, welche Verantwortungsbereiche von welchen Mitarbeitern abgedeckt werden.[^1]
 
 
 # 2.	Schritte die in der Projektplanung durchlaufen werden:
@@ -21,7 +21,7 @@ Wie bereits oben erwähnt, gibt es die Grobplanung und die Detailplanung. Die er
 **3.	Planung der Projektorganisation:** Verteilung der Rollen und Verantwortlichkeiten                               
 **4.	Ablauf- und Terminplanung:** Erstellung einer chronologischen Rheinfolge der Arbeitspakete           
 **5.	Ressourcenplanung:** Ermittlung der notwendigen Ressourcen    
-**6.	Kostenplanung:** Bildung der Projektkosten (Ressourcen + Dauer) [2]
+**6.	Kostenplanung:** Bildung der Projektkosten (Ressourcen + Dauer) [^2]
 
 # 3.	Projektplanung in der Praxis:
 
