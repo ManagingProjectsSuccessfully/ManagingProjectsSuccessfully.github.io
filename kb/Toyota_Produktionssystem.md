@@ -5,7 +5,7 @@ author: YeldaUzun
 anrechnung: k
 ---
 
-Das Toyota Produktionssystem ist ein für Toyota entwickelter Produktionsprozess für Serienverfahren, dass sich auf die Verbesserung der organisatorischen Abläufe konzentriert. Nach dem zweiten Weltkrieg ergab sich eine Krisensituation für das japanische Unternehmen Toyota, da nur wenige Fertigungsmittel und geringes Kapital zur Verfügung stand. Schlussfolgernd war es wichtig Fahrzeuge effizient zu produzieren. Der Ingenieur Taiichi Ohno entwickelte im Jahr 1950 das Toyota Produktionssystem, indem er Just-in-Time, Jidoka (Automation) und Kaizen in einem System zusammenführte.1 Das Ziel des Produktionssystems ist es hohe Qualität bei hoher Produktivität und pünktlicher Lieferung zu erreichen. Dieses Ziel soll durch Eliminierung von Überbeanspruchung, jegliche Art von Verschwendung und ungleichmäßiger Produktionsauslastung gewährleistet werden. Verglichen wird das Toyota Produktionssystem mit einem Haus. Die Säulen des Hauses bilden die Prinzipien Jidoka und Just-in-Time. Das Fundament, bestehend aus Kaizen, Standardisierung und Heijunka, tragen zur Erreichung des Daches und somit zum Ziel bei.2
+Das Toyota Produktionssystem ist ein für Toyota entwickelter Produktionsprozess für Serienverfahren, dass sich auf die Verbesserung der organisatorischen Abläufe konzentriert. Nach dem zweiten Weltkrieg ergab sich eine Krisensituation für das japanische Unternehmen Toyota, da nur wenige Fertigungsmittel und geringes Kapital zur Verfügung stand. Schlussfolgernd war es wichtig Fahrzeuge effizient zu produzieren. Der Ingenieur Taiichi Ohno entwickelte im Jahr 1950 das Toyota Produktionssystem, indem er Just-in-Time, Jidoka (Automation) und Kaizen in einem System zusammenführte.1 Das Ziel des Produktionssystems ist es hohe Qualität bei hoher Produktivität und pünktlicher Lieferung zu erreichen. Dieses Ziel soll durch Eliminierung von Überbeanspruchung, jegliche Art von Verschwendung und ungleichmäßiger Produktionsauslastung gewährleistet werden. Verglichen wird das Toyota Produktionssystem mit einem Haus. Die Säulen des Hauses bilden die Prinzipien Jidoka und Just-in-Time. Das Fundament, bestehend aus Kaizen, Standardisierung und Heijunka, tragen zur Erreichung des Daches und somit zum Ziel bei.[^2]
 
 <img src="Toyota_Produktionssystem/ToyotaPS.png" alt="Elemente des Toyota Prodkutionssystems" width="600"/>
 Elemente des Toyota Prodkutionssystems
@@ -29,7 +29,8 @@ Nach Jidoka stellt Just-in-Time die zweite Säule des Hauses dar. Das Just-in-Ti
 
 # Kaizen
 
-In der japanischen Kultur ist Kaizen (jap. kai „Veränderung“, zen „zum Guten oder Besseren“) eine Lebens- und Arbeitsphilosophie, die immer unter Einbeziehung der Belegschaft für eine kontinuierliche und ständige Verbesserung von Produkten und Prozessen, sowie Leistungen in kleinen Schritten steht. Hierbei werden Verbesserungsvorschläge der Belegschaft eigenständig und sofort beurteilt, außerdem vor Ort geprüft und konsequent realisiert. Die Umsetzung der Optimierungen im Sinne des Kaizens erfordern Zeit. Dabei darf die Verbesserung nicht zu einem Mehraufwand der Belegschaft, sowie Platz oder finanzieller Mittel führen. Das Ziel des Kaizens ist die schnelle Realisierung von Verbesserungsvorschlägen und die Beseitigung von Verschwendungen. (Quelle 1 und 3)
+In der japanischen Kultur ist Kaizen (jap. kai „Veränderung“, zen „zum Guten oder Besseren“) eine Lebens- und Arbeitsphilosophie,
+die immer unter Einbeziehung der Belegschaft für eine kontinuierliche und ständige Verbesserung von Produkten und Prozessen, sowie Leistungen in kleinen Schritten steht. Hierbei werden Verbesserungsvorschläge der Belegschaft eigenständig und sofort beurteilt, außerdem vor Ort geprüft und konsequent realisiert. Die Umsetzung der Optimierungen im Sinne des Kaizens erfordern Zeit. Dabei darf die Verbesserung nicht zu einem Mehraufwand der Belegschaft, sowie Platz oder finanzieller Mittel führen. Das Ziel des Kaizens ist die schnelle Realisierung von Verbesserungsvorschlägen und die Beseitigung von Verschwendungen. (Quelle 1 und 3)
 
 # Standardisierung
 
@@ -50,7 +51,7 @@ Das letzte Fundament des Hauses ist Heijunka. Heijunka ist eine Methodik zur Ver
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: Frank Bertagnolli: Lean Management - Einführung und Vertiefung in die japanische Management-Philosophie. Springer Gabler, Wiesbaden 2020 (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
