@@ -38,6 +38,7 @@ Durch Kennenlernspiele können diese entscheidenden Aspekte in lockerer Atmosph�
 # Beispiele
 
 Je nach Kontext, Umfang und geplanter Dauer des Projekts, der Größe des Teams, sprachlicher und technologischer Gegebenheiten, sowie weiterer Einflussfaktoren kommen unterschiedliche Kennenlernspiele in Frage.
+
 Einige davon erfordern das Zusammenkommen vor Ort, während andere auch im Home Office durchführbar sind, siehe Tabelle.
 
 |               |    Vor Ort               |  Home Office             |
@@ -64,16 +65,6 @@ Einen tiefergehenden Austausch ermöglicht das Spiel Gerüchteküche. Dabei erz�
 Bei der virtuellen Variante des Spiels „Alle, die…“ schalten die Mitspieler ihre Kameras ein, kleben sie mit einem farbigen Klebezettel ab und aktivieren die Gallerie-Ansicht. Der Moderator stellt Fragen, die mit „Alle, die …“ beginnen, z.B. „Alle, die heute schon sportlich waren.“ oder „Alle, die nicht ohne Kaffee können.“ Jene Teammitglieder, die sich dazu zählen, decken die Kamera ab. Schnell wird das Verschaffen eines ersten Eindrucks sowie die Identifikation von Gemeinsamkeiten, Unterschieden sowie dem Ausmaß an Diversität des Teams möglich[^9].
 
 Das Spiel Schlüsselbund gibt den Teilnehmenden die Gelegenheit sich über ihre Wohnsituation, Freizeitgestaltung, Fortbewegung und weitere Aspekte ihres Alltags auszutauschen. Durch das Beschreiben der einzelnen Schlüssel kommen verschiedenste Informationen über deren Besitzer gebündelt zu Tage, sodass ein facettenreiches Kennenlernen der Teammitglieder gelingt. Alternativ kann das Spiel mit sonstigen persönlichen Gegenständen durchgeführt werden[^10].
-
-# Nummerierte Liste
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
 
 # Siehe auch
 
