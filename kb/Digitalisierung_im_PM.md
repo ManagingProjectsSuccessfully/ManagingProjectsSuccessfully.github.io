@@ -26,7 +26,7 @@ Die altbewährte E-Mail reicht für eine gelungene Zusammenarbeit nicht mehr aus
                 
 # Potenziale
 
-Mit der gewonnenen Effizienz durch einen gezielten Tooleinsatz wird die Produktivität der Teams gesteigert und es entsteht ein großes Potenzial darin, „eine Vielzahl von Projekten zeitgleich durchzuführen und trotzdem stets den Überblick zu behalten.“[^6] 
+Mit der Effizienz, die durch einen gezielten Tooleinsatz gewonnen wird, wird die Produktivität der Teams gesteigert und es entsteht ein großes Potenzial darin, „eine Vielzahl von Projekten zeitgleich durchzuführen und trotzdem stets den Überblick zu behalten.“[^6] 
 
 Zudem können durch die bessere Analyse von Daten und Gebrauch von Monitoring-Software Probleme und Risiken schneller identifiziert werden. Demnach können Projektmitglieder schneller reagieren, wodurch ein effizienterer Einsatz von Ressourcen und Budget erreicht und Kosten reduziert werden können.[^4]
 
@@ -42,7 +42,7 @@ Das Projektmanagement muss sich „auf mehr Geschwindigkeit und eine höhere Kom
 
 Bei einer großen Anzahl an Projekten kann zudem der Überblick schnell verloren gehen, weswegen die Schlüsselprojekte und Kernaufgaben von den jeweiligen Projekten definiert und Prioritäten gekonnt gesetzt werden müssen.[^5]
 
-Ebenfalls werden neue Kompetenzprofile von den Projektleitern und allen weiteren Teammitgliedern notwendig. Dazu gehören einerseits fachliche Qualifikationen, aber auch Flexibilität und kommunikative Fähigkeiten.[^5] 
+Außerdem ändern sich die Anforderungen an die Kompetenzprofile von Projektleitern und allen weiteren Teammitgliedern. Einerseits müssen sie bestimmte fachliche Qualifikationen mitbringen, aber auch Flexibilität und kommunikative Fähigkeiten sind gefragt.[^5] 
 
 Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes, effizientes und flexibles Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.[^8]
 
