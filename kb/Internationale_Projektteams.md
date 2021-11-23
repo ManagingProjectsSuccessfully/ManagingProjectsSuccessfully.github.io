@@ -37,8 +37,6 @@ Um die Mentalitäten, Werte und Erwartungen des Teams aufeinander anzupassen ist
 Bei der Zusammenarbeit von internationalen Projektteams treffen unterschiedliche Menschen mit unterschiedlichen Kulturen aufeinander. Dies muss dementsprechend von den führenden Projektmanagern berücksichtigt werden.  Denn kulturell diverse Teams können Unternehmen und Projekten einige Vorteile verschaffen. 
 Da Verschiedene Kulturen unterschiedliche Blickwinkel einnehmen können, kann die Zusammenarbeit des internationalen Projektteams zu kreativen, unkonventionellen Lösungen für Probleme führen. Wichtig hierbei ist nur, dass die Kulturen im Projektteam ausgeglichen vertreten sind und dass sich in diesem Sinne keine Hierarchie bildet [^5].
 
-[kb/Internationale_Projektteams/Phasenmodell_Tuckmann.PNG]
-
 
 
 # Siehe auch
