@@ -5,14 +5,14 @@ author: thujavanj
 anrechnung: a
 ---
 # Inhaltsverzeichnis
-1. [Definition](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#definition)  
-2. [Intention von Scrumbuts](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#die-intention-von-scrumbuts)  
-3. [Scrumbut Syntax](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#scrumbut-syntax)  
-4. [Gründe für Scrumbuts](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#gr%C3%BCnde-f%C3%BCr-scrumbuts)  
-5. [Ist ein Scrumbut gut oder schlecht?](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#ist-ein-scrumbut-gut-oder-schlecht)  
-6. [Siehe auch](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#siehe-auch)  
-7. [Weiterführende Literatur](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#weiterf%C3%BChrende-literatur)  
-8. [Quellen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#quellen)
+>1. [Definition](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#definition)  
+>2. [Intention von Scrumbuts](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#die-intention-von-scrumbuts)  
+>3. [Scrumbut Syntax](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#scrumbut-syntax)  
+>4. [Gründe für Scrumbuts](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#gr%C3%BCnde-f%C3%BCr-scrumbuts)  
+>5. [Ist ein Scrumbut gut oder schlecht?](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#ist-ein-scrumbut-gut-oder-schlecht)  
+>6. [Siehe auch](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#siehe-auch)  
+>7. [Weiterführende Literatur](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#weiterf%C3%BChrende-literatur)  
+>8. [Quellen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM_but.md#quellen)
 
 # Definition 
 Bei sogenannten ScrumButs handelt es sich um verschiedene Gründe, warum ein Team, welches die agile [Projektmanagement](https://github.com/FCN478/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) Methode [Scrum](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) einsetzt, nicht das komplette Potential aus [Scrum](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) herausholen kann [^1]. Das Team ist an einem Punkt angelangt, an dem es der Meinung ist, [Scrum](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) funktioniert für das Team bzw. das Projekt nicht so wie es vorgesehen war und muss verbessert werden. Kurz gesagt muss auf einzelne Elemente in [Scrum](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) verzichtet werden, wodurch Abweichungen zum Standard wie dieser im Scrumguide beschrieben ist auftreten.  Das Motto lautet hier: „We use [Scrum](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md), but…“. [^2] 
