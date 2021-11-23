@@ -85,7 +85,7 @@ Wohlwender, A. (2014) Analyse der Wissenskommunikation in einer Matrixorganisati
 
 # Quellen
 
-[Beispielabbildung](https://www.bwl-lexikon.de/wiki/matrix-projektorganisation/)
+[Beispielabbildung] (https://www.bwl-lexikon.de/wiki/matrix-projektorganisation/)
 
 [^1]: [Projektorganisation: Diese Formen solltest du kennen] ( https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/projektorganisationsformen/)
 
