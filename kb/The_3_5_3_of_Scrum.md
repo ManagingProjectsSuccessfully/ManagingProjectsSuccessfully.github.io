@@ -1,6 +1,6 @@
 ---
 title: The_3_5_3_of_Scrum
-tags: agil
+tags: agil scrum 3-5-3 events roles attributes
 author: GiuliaAng
 anrechnung: a
 ---
