@@ -29,11 +29,11 @@ und der Analyse.[^3]
 # Umsetzung
 Am Ende des Prozesses steht die Umsetzung die sich aus den vorherigen Teilen ergibt. Für eine erfolgreichen Ausgang des Projekts ist hier die Zusammenarbeit 
 vor allem mit den am stärksten betroffenen Stakeholdern sehr wichtig. Die  Stakeholder müssen gut in das Projekt eingebunden werden damit sie genauestens verstehen was dort 
-passiert und es zu keinen Missverständnissen kommt. So baut man auch im Projektverlauf immer mehr Vertrauen auf.[^5]
+passiert und es zu keinen Missverständnissen kommt. So baut man auch im Projektverlauf immer mehr Vertrauen auf.[^3]
 
 Es gibt trotz genauer Planung und Analyse auch ein paar Dinge auf die man achten sollte. Ein Fehler der häufig vorkommt ist es, es allen Stakeholdern Recht machen zu wollen. 
 Dies ist in den meisten Projekten nicht möglich und führt nur zu Schwierigkeiten im Projektverlauf. Stattdessen sollte man auf die verschiedenen Reaktionen der Stakeholder 
-achten und auf diese bestmöglich eingehen, auch wenn das Ergebnis nicht allen Gruppen gerecht wird.
+achten und auf diese bestmöglich eingehen, auch wenn das Ergebnis nicht allen Gruppen gerecht wird.[^5]
 
 # Fazit
 Das Ziel des Stakeholdermanagements ist letztendlich die Einbindung der Stakeholder in das Projekt. Die Kommunikation und der Informationsaustausch mit den verschiedenen 
