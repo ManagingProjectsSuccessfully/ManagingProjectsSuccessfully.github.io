@@ -136,7 +136,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 
 * https://www.youtube.com/watch?v=if__T71U2ss
 * https://www.youtube.com/watch?v=61RnrsWQE7A
-* Kaiser, Simschek - PRINCE2: Die Erfolgsmethode einfach erklärt. Version 2017
+
 
 # Quellen
 
