@@ -29,7 +29,7 @@ Die fünf Kernprinzipien des Lean Management von Womack und Jones eignen sich f�
 
 **1. Betrachtung des Nutzens aus Sicht des Kunden.** Die Produkte werden genau auf die Bedürfnisse des Kunden zugeschnitten, um den größtmöglichen Nutzen aus Kundensicht zu erzielen.[^4] Der Wert kann die Qualität, der Zeitrahmen oder der Preis der Leistung sein - erfahrungsgemäß ist es aber ein bisschen von allen dreien.[^5]
 
-**2. Identifizierung des Wertstroms.** Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produktes erforderlich sind. Das bedeutet, dass eine detaillierte Betrachtung der Prozesse zur Erstellung des Produktes erforderlich ist. Alles was hierfür nicht notwendig ist, ist Verschwendung.[^6]
+**2. Identifizierung des Wertstroms.** Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produktes erforderlich sind. Das bedeutet, dass eine detaillierte Betrachtung der Prozesse zur Erstellung des Produktes notwendig ist. Alles was hierfür nicht notwendig ist, ist Verschwendung.[^6]
 
 **3. Umsetzung des Flussprinzips.** Beim Flussprinzip geht es darum, den gesamten Wertstrom zu optimieren und nicht nur einzelne Abschnitte zu betrachten. Der Fokus liegt auf dem Gesamtfluss und den Engpässen innerhalb des Gesamtflusses. Die Aktivitäten des Wertstroms sollen so reibungslos wie möglich ablaufen können.[^6]
 
@@ -39,7 +39,7 @@ Die fünf Kernprinzipien des Lean Management von Womack und Jones eignen sich f�
 
 Bei diesen fünf Kernprinzipien fällt auf, dass nur das erste Kernprinzip eine externe, d.h. kundenorientierte Sichtweise beinhaltet, während die Kernprinzipien zwei bis fünf auf interne Prozesse ausgerichtet sind.[^6]
 
-![Beispielabbildung](Lean_Projektmanagement/lean-principles.png)
+![Abbildung](Lean_Projektmanagement/lean-principles.png)
 
 ### *Die 5 Lean Prinzipien*
 (https://i.pinimg.com/originals/7a/1b/ac/7a1bacd481a17e016b4e94a435f594fb.png)
