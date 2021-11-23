@@ -1,8 +1,8 @@
 ---
 title: Nachhaltige_Projekte
-tags: agil klassisch Nachhaltigkeit Projekte nachhaltige_Entwicklung 
+tags: agil Nachhaltigkeit Projekte nachhaltige_Entwicklung 
 author: MarcelFAU
-anrechnung: k oder a
+anrechnung: a
 ---
 
 
@@ -12,10 +12,11 @@ nachhaltigen Projekten, mithilfe von Beispielen, erläutert wird.
 # Nachhaltigkeit als tragende Säule der Zukunft
 
 In der modernen Gesellschaft ist Nachhaltigkeit einer der zentralen Aspekte bei der Innovierung von Unternehmen, Haushalten und sogar Ländern, wodurch die Anzahl an 
-nachhaltigen Projekten immer mehr steigt, um Umweltschutz und wirtschaftliche Ziele zu [komplementären Zielen](https://www.rechnungswesen-verstehen.de/lexikon/komplementaere-ziele.php) zu machen und einen positiven Zukunftsausblick zu schaffen.
+nachhaltigen Projekten immer mehr steigt, um Umweltschutz und wirtschaftliche Ziele zu komplementären Zielen zu machen und einen positiven Zukunftsausblick zu schaffen.
+Genaueres dazu gibt es beim Beitrag über [Nachhaltigkeit im PM](Nachhaltigkeit_im_PM.md)
 
 Nachhaltigkeit kann allgemein in drei Kernbereiche aufgeteilt werden: ökologische Nachhaltigkeit, ökonomische Nachhaltigkeit und soziale Nachhaltigkeit[^1], wobei stets versucht wird diese Bereiche möglichst gut zu vereinen. Folglich hat sich auch die Bedeutung der Nachhaltigkeit 
-erhöht und ist in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt. Auch sind nachhaltige Projekte sehr eng mit der [nachhaltigen Entwicklung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Nachhaltige_Entwicklung) oder im 
+erhöht und ist in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt. Auch sind nachhaltige Projekte sehr eng mit der [nachhaltigen Entwicklung](Nachhaltlige_Entwicklung.md) oder im 
 englischen „sustainable development“ verbunden und hängen von einandner ab. 
 Nachhaltige Projekte wurden somit in den letzten 20 Jahren zu einem der zentralen Themen, da das Thema Klimaschutz immer und immer mehr in den Vordergrund gerät.
 
@@ -32,17 +33,13 @@ Jedoch gibt es noch Hürden, die überwindet werden müssen, da in einer Umfrage
 
 Kommen wir nun aber zu Beispielen für nachhaltige Projekte. Das erste Projekt, dass ich erwähnen möchte, wurde in der Stadt [Utrecht](https://de.wikipedia.org/wiki/Utrecht) realisiert. In der niederländischen Stadt wurden die Dächer der Bushaltestellen mit Grünflächen bedeckt, um Bienen und Insekten zu schützen und dem urbanen Artensterben dieser entgegenzuwirken. Dies könnte ein kleiner Anfang für Großstädte auf der ganzen Welt sein dem Artensterben einiger Tiere entgegenzuwirken, ohne große Summen auszugeben. Auch ist dies wichtig, da Grünflächen in Großstädten immer öfter zu Bauland werden und somit die letzten Lebensräume einiger Tierarten verschwinden[^5].
 
-Ein komplett anderes Projekt wurde in Schwedens Hauptstadt [Stockholm](https://de.wikipedia.org/wiki/Stockholm) verwirklicht. Nämlich wird am Hauptbahnhof, einem der Knotenverkehrspunkte, Körperwärme durch die Lüftungsanlage abgesaugt, um damit Wassertanks zu erhitzen und umlegende Gebäude zu beheizen. Dies sorgt für Nachhaltige Energieverwendung und führt zugleich zur einer Einsparung von Kosten für Strom[^5].
-
-Als nächstes möchte ich die Stadt [Nürnberg](https://de.wikipedia.org/wiki/N%C3%BCrnberg), Heimstätte unserer Uni anführen. Diese hat zwar keine aktuellen Großprojekte wie die oben erwähnten Städte, jedoch gilt Nürnberg als sehr nachhaltige Stadt und wurde 2016 zu Deutschlands nachhaltigster Großstadt ausgezeichnet. Vor allem in Sachen nachhaltige Bildung und Forschung für nachhaltige Technologien ist Nürnberg ein guter Standort. Dies zeigt, dass Städte nicht unbedingt bahnbrechende Technologien nutzen müssen, um für Nachhaltigkeit zu sorgen, sondern auch viele kleinere Initiativen helfen können[^6].
-
-Um weitere nachhaltige Projekte zu finden klicke [hier](https://reisevergnuegen.com/nachhaltigkeitsprojekte-europa/)
+Ein komplett anderes Projekt wurde in Schwedens Hauptstadt Stockholm verwirklicht. Nämlich wird am Hauptbahnhof, einem der Knotenverkehrspunkte, Körperwärme durch die Lüftungsanlage abgesaugt, um damit Wassertanks zu erhitzen und umlegende Gebäude zu beheizen. Dies sorgt für Nachhaltige Energieverwendung und führt zugleich zur einer Einsparung von Kosten für Strom[^5].
 
 # Nachhaltige Projekte von Unternehmen
 
-Wie schon vorher erwähnt setzen sich auch Unternehmen Ziele nachhaltiger zu werden. Beispielsweise das IT-Unternehmen Cisco aus den USA, welches ein Forum namens SustainX, eine Nachhaltigkeitsplattform namens GreenHouse und sogar eine mitarbeitergeführte Nachhaltigkeitsorganisation Cisco Green Team auf die Beine gestellt haben. Dadurch wurde es durch das Business Magazine [Corporate Knights](https://en.wikipedia.org/wiki/Corporate_Knights) 2020 als viert nachhaltigstes Unternehmen betitelt[^7]. All diese Projekte sorgen dafür, dass das Unternehmen nachhaltiger agiert und kann potenziell Kunden und qualifizierte Mitarbeiter anziehen. Grund aber das nicht alle Unternehmen diesem Beispiel folgen sind Kosten- und Zeitaufwände, welche den Wandel zu mehr Nachhaltigkeit in der Gesellschaft verlangsamen. 
+Wie schon vorher erwähnt setzen sich auch Unternehmen Ziele nachhaltiger zu werden. Beispielsweise das IT-Unternehmen Cisco aus den USA, welches ein Forum namens SustainX, eine Nachhaltigkeitsplattform namens GreenHouse und sogar eine mitarbeitergeführte Nachhaltigkeitsorganisation Cisco Green Team auf die Beine gestellt haben. Dadurch wurde es durch das Business Magazine Corporate Knights 2020 als viert nachhaltigstes Unternehmen betitelt[^6]. All diese Projekte sorgen dafür, dass das Unternehmen nachhaltiger agiert und kann potenziell Kunden und qualifizierte Mitarbeiter anziehen. Grund aber das nicht alle Unternehmen diesem Beispiel folgen sind Kosten- und Zeitaufwände, welche den Wandel zu mehr Nachhaltigkeit in der Gesellschaft verlangsamen. 
 
-Diese Unternehmen jedoch agieren beispielhaft und gehören zu den 10 nachhaltigsten Unternehmen 2021[^8]:
+Diese Unternehmen jedoch agieren beispielhaft und gehören zu den 10 nachhaltigsten Unternehmen 2021[^7]:
 
 |Platz| Unternehmen |Platz| Unternehmen |
 | ------------- | ------------- | ------------- | ------------- |
@@ -54,16 +51,17 @@ Diese Unternehmen jedoch agieren beispielhaft und gehören zu den 10 nachhaltigs
 
 # Zusammenfassung
 
-Abschließend lässt sich zusammenfassen, dass nachhaltige Projekte mehr und mehr in allen Bereichen der Gesellschaft zum Einsatz kommen. Zudem wird die Bedeutung von nachhaltigen Projekten und auch deren Umfang noch ansteigen, da noch ein großer Schritt in Richtung Umweltschutz bzw. [Klimaneutralität](https://de.wikipedia.org/wiki/Klimaneutralit%C3%A4t) Wie in den Beispielen ersichtlich ist handeln schon einige Städte und Unternehmen, wie es eigentlich alle machen sollten. Sofern aber nicht viele oder sogar alle den Nutzen über die Kosten stellen wird der Umweltschutz und Nachhaltigkeit zwar immer ein Thema bleiben, aber die Lebensweise der Menschen nicht nachhaltig für den Planeten sein und der negative Einfluss auf das Ökosystem bleibt.
-
+Abschließend lässt sich zusammenfassen, dass nachhaltige Projekte mehr und mehr in allen Bereichen der Gesellschaft zum Einsatz kommen. Zudem wird die Bedeutung von nachhaltigen Projekten und auch deren Umfang noch ansteigen, da noch ein großer Schritt in Richtung Umweltschutz bzw. Klimaneutralität gemacht werden muss.
 
 # Siehe auch
 
-[Nachhaltige Entwicklung]()
+[Nachhaltige Entwicklung](Nachhaltige_Entwicklung.md)
 
-[Nachhaltigkeit im PM]()
+[Nachhaltigkeit im PM](Nachhaltigkeit_im_PM)
 
 Bei Interesse für eigenes Engagement: https://ozeankind.de/?gclid=CjwKCAiAs92MBhAXEiwAXTi251Xq49dp_Pl3abTVTVf44FnNuw6ZFhzhATsQUX-pvklNsOSNfwwf6xoCddgQAvD_BwE
+
+https://reisevergnuegen.com/nachhaltigkeitsprojekte-europa/
 
 # Weiterführende Literatur
 
@@ -76,6 +74,5 @@ https://repositum.tuwien.at/bitstream/20.500.12708/3571/2/Schwarzl%20Martina%20-
 [^3]: https://de.statista.com/infografik/2435/altersverteilung-der-personen-die-bevorzugt-fuer-unternehmen-arbeiten-die-sich-fuer-nachhaltigkeit-einsetzen/, aufgerufen am 21.11.2021
 [^4]: https://de.statista.com/infografik/2406/zahlungsbereitschaft-fuer-nachhaltige-produkte/, aufgerufen am 21.11.2021
 [^5]: https://reisevergnuegen.com/nachhaltigkeitsprojekte-europa/, aufgerufen am 21.11.2021
-[^6]: https://www.nuernberg.de/internet/stadtportal/nachhaltigkeit.html, aufgerufen am 21.11.2021
-[^7]: https://www.produktion.de/co2-neutrale-industrie/das-sind-die-11-nachhaltigsten-unternehmen-der-welt-300.html, aufgerufen am 21.11.2021
-[^8]: https://www.corporateknights.com/rankings/global-100-rankings/2021-global-100-rankings/2021-global-100-ranking/, aufgerufen am 21.11.2021
+[^6]: https://www.produktion.de/co2-neutrale-industrie/das-sind-die-11-nachhaltigsten-unternehmen-der-welt-300.html, aufgerufen am 21.11.2021
+[^7]: https://www.corporateknights.com/rankings/global-100-rankings/2021-global-100-rankings/2021-global-100-ranking/, aufgerufen am 21.11.2021
