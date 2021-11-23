@@ -41,18 +41,21 @@ Da Verschiedene Kulturen unterschiedliche Blickwinkel einnehmen können, kann di
 
 # Siehe auch
 
-* [Link auf diese Seite](ManagingProjectsSuccessfully.github.io/kb/Digitale_Kommunikation.md)
-* [Link auf diese Seite](ManagingProjectsSuccessfully.github.io/kb/Herausforderungen_bei_internationalen_Projekten.md)
-* [Link auf diese Seite](ManagingProjectsSuccessfully.github.io/kb/Internationale_Projektsteuerung.md)
-* [Link auf diese Seite](ManagingProjectsSuccessfully.github.io/kb/Klassische_Missverstaendnisse.md)
-* [Link auf diese Seite](* ManagingProjectsSuccessfully.github.io/kb/Kommunikation_Projektbeteiligte.md)
-* [Link auf diese Seite(ManagingProjectsSuccessfully.github.io/kb/Konfliktmanagement.md)
-* [Link auf diese Seite(ManagingProjectsSuccessfully.github.io/kb/Projektkommunikation.md)
+* [Digitale Kommunikation](Digitale_Kommunikation.md)
+* [Herausforderung bei internationalen Projekten](Herausforderungen_bei_internationalen_Projekten.md)
+* [Internationale Projektsteuerung](Internationale_Projektsteuerung.md)
+* [Klassische Missverständnisse](Klassische_Missverstaendnisse.md)
+* [Kommunikation Projektbeteiligte](Kommunikation_Projektbeteiligte.md)
+* [Konfliktmanagement](Konfliktmanagement.md)
+* [Projektkommunikation](Projektkommunikation.md)
 
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* https://www.haufe-akademie.de/blog/themen/projekt-prozessmanagement/internationalisierung-im-projektmanagement/
+* https://www.management-circle.de/blog/internationale-projektteams-regeln-fuer-die-kommunikation/
+* https://www.pmi.org/learning/library/managing-international-cross-cultural-projects-8924
+* https://www.projektivisten.de/fileadmin/_migrated/content_uploads/Erfolgreiches-interkulturelles-Projektmanagement.pdf
 
 # Quellen
 
