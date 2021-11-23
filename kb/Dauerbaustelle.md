@@ -95,8 +95,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Dauerbaustelle.md)
-* [https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md](Projektmanagement.md)
-* [https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projekt](Projekt.md)
 
 # Weiterführende Literatur
 
