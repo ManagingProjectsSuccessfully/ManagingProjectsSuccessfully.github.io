@@ -36,7 +36,7 @@ Im klassischen Projektmanagement geht es darum, möglichst klare Ziele zu haben,
 
 # 5.	Zieldefinierung mit der SMART Regel:
 
-Ziele sind stets ein Motivationsfaktor. Deshalb kann es durchaus kontraproduktiv sein, sich unangemessene Ziele zu setzen, bei denen vom vornhinein klar ist, dass das Erreichen dieser Ziele sehr schwer sein wird. Um Ziele sinnvoll zu definieren gibt es die deshalb sogenannte SMART-Regel.
+Ziele sind stets ein Motivationsfaktor. Deshalb kann es durchaus kontraproduktiv sein, sich unangemessene Ziele zu setzen, bei denen vom vornhinein klar ist, dass das Erreichen dieser Ziele sehr schwer sein wird. Um Ziele sinnvoll zu definieren gibt es die deshalb sogenannte **SMART-Regel**.
 -	**Spezifisch**
 -	**Messbar**
 -	**Akzeptiert**
