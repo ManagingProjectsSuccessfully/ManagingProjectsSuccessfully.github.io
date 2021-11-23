@@ -33,7 +33,7 @@ Die Projektplanung ist ein Kernbereich des Projektmanagements. Wichtige Features
 
 ## Kommunikation und Zusammenarbeit
 
-Immer wichtiger und auch beliebter werden Tools und Softwarelösungen im Bereich der Kommunikation und für die Zusammenarbeit des Projektteams. Gerade in agilen Projekten wird Zusammenarbeit deutlich gegenüber Prozessen hervorgehoben. Es ist wichtig unkomplizierte Kommunikationskanäle schaffen
+Immer wichtiger und auch beliebter werden Tools und Softwarelösungen im Bereich der Kommunikation und für die Zusammenarbeit des Projektteams. Gerade in agilen Projekten wird Zusammenarbeit deutlich gegenüber Prozessen hervorgehoben. Deswegen ist es wichtig unkomplizierte und zentrale Kommunikationskanäle schaffen.[^2]
 
 ## Dokumentenmanagement
 
