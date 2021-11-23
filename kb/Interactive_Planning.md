@@ -27,7 +27,7 @@ Jedes Unternehmen ist konfrontiert mit interagierenden Gefahren und Möglichkeit
 Problemen, das nach Russell L. Ackoff „mess“ genannt wird.
 Diese Phase der Planung hat das Ziel festzulegen, wie die Organisation sich früher oder später selbst schaden könnte, wenn so weiter operiert werden würde, wie es zum aktuellen Zeitpunkt der Fall ist.
 
-Diese Phase beinhaltet Folgendes
+Diese Phase beinhaltet Folgendes:
 * die Vorbereitung einer Systemanalyse (detaillierte Beschreibung wie das System aktuell arbeitet) 
 * eine Hindernisanalyse (Identifikation der Eigenschaften der Organisation, welche den Fortschritt der Organisation behindern) 
 * Referenzprojektionen (Projektionen der Aspekte auf die Zukunft der Organisation; erstens auf der Annahme, dass keine Veränderungen an 
