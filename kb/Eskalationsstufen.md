@@ -18,7 +18,7 @@ Um eine Eskalation möglichst zu vermeiden oder zu deeskalieren, gibt es verschi
 *9 Eskalationsstufen nach Friedrich Glasl* [^2] 
 
 ## 1. Ebene WIN-WIN
-In dieser Ebene kann der Konflikt noch gelöst werden. Beide Parteien würden hier von einer Einigung profitieren.
+In dieser Ebene kann der Konflikt noch gelöst werden. Beide Parteien würden hier von einer Einigung profitieren.  [^4][^5] 
 
 | 1) Verhärtung  | 2) Polarisation | 3) Taten statt Worte |
 | ------------- | ------------- | ---------------|
@@ -32,7 +32,7 @@ In der Lose-Win Ebene ist der Konflikt bereits so weit fortgeschritten, dass es 
 | In dieser Stufe suchen sich die Parteien Verbündete. Hierbei steht nicht mehr im Mittelpunkt den Konflikt zu lösen, sondern letztendlich der Gewinner der Konfliktsituation zu werden. | Die Parteien greifen sich öffentlich und direkt an. Es erfolgt ein vollständiger Vertrauensverlust der Konfliktparteien miteinander. | Eine Konfliktpartei versucht durch Drohung und Erpressung als Gewinner aus dem Konflikt zu gehen. |
 
 ## 3. Ebene LOSE-LOSE
-Ist der Konflikt so weit fortgeschritten, gibt es nur noch Verlierer. Eine Konfliktlösung ist nur noch durch einen Machteingriff von außen bzw. ein gerichtliches Verfahren möglich.
+Ist der Konflikt so weit fortgeschritten, gibt es nur noch Verlierer. Eine Konfliktlösung ist nur noch durch einen Machteingriff von außen bzw. ein gerichtliches Verfahren möglich. 
 
 | 7) Begrenzte Vernichtungsschläge  | 8) Zersplitterung | 9) Gemeinsam in den Abgrund |
 | ------------- | ------------- | ---------------|
@@ -66,3 +66,4 @@ Wenn Parteien überzeugt sind, dass ein Konflikt nicht lösbar ist, führt dies 
 [^2]: [Eskalation] (https://de.wikipedia.org/wiki/Eskalation)
 [^3]: [9 Eskalationsstufen] (https://www.projektmagazin.de/methoden/9-eskalationsstufen-konfliktmanagement)
 [^4]: [Die 9 Eskalationsstufen und wie Konflikte sich lösen lassen!] (https://greator.com/eskalationsstufen/)
+[^5]: [Konfliktregelung und Friedensstrategie] (https://link.springer.com/book/10.1007/978-3-531-92789-3)
