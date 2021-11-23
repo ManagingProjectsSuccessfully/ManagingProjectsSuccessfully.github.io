@@ -23,7 +23,7 @@ Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist
 
 [Abbildung 1 zu Scrum@Scale](https://digitaleneuordnung.de/blog/scrum-at-scale/)
 
-Somit entsteht ein pyramidenförmiger Organisationsaufbau, mit Scrum of Scrums (SoS) als zentralem Konzept.
+Somit entsteht ein pyramidenförmiger Organisationsaufbau, mit SoS als zentralem Konzept.
 Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen adaptiven Systemen. Bei Scrum@Scale sind alle Teil eines austauschbaren Scrum-Teams. Je nach den vorgegebenen Zielen werden mehrere Scrum-Teamnetzwerke zu einem ganzen Ökosystem zusammengefasst. Scrum@Scale ist für die Skalierung von Scrum in Großunternehmen konzipiert.
 
 <br>
@@ -32,7 +32,7 @@ Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen ada
 
 [Abbildung 2 zu Scrum@Scale](https://www.palladio-consulting.de/scrum-at-scale/)
 
-Das Framework lässt sich in zwei Zyklen darstellen: Scrum-Master-Zyklus und Produktinhaber-Zyklus. Im ersten Zyklus geht es um das "Wie", im zweiten um das "Was". Auch Überschneidungen werden so ersichtlich.
+Das Framework lässt sich in zwei Zyklen darstellen
 
 # Die zwei Zyklen
 
@@ -46,12 +46,12 @@ Im Kern besteht Scrum at Scale aus zwei parallel verlaufenden Prozessen:
 Konzentrieren wir uns zunächst auf das ‚Was‘. In jedem nach Scrum arbeitenden Entwicklungsteam verantwortet ein Product Owner ein Teil des Produkts. Die Product Owners von bis zu fünf Scrum Teams finden sich in einem Product Owner Team zusammen, ein sogenannter Chief Product Owner (CPO) fungiert als oberster Repräsentant. Gemeinsam arbeiten die Product Owner eine Produktvision & -roadmap sowie eine Definition of Done heraus. Zudem identifizieren Sie Abhängigkeiten und Redundanzen mit Hilfe eines gemeinsamen Product Backlogs. Übersteigt die Produktgröße 25 entwickelnde Teams, dann wird ein Executive MetaScrum (EMS) ins Leben gerufen. Diese oberste Instanz setzt die strategischen Prioritäten und Ziele für das Gesamtergebnis.
 
 ## Scrum Master Zyklus
-Kommen wir nun zum ‚Wie‘ Zyklus. Scrum at Scale sieht bis fünf Scrum Teams ein Scrum-of-Scrums (SoS) Team vor. Dieses verantwortet die Ablieferung eines integrierten Produkt-Inkrements zum Sprintende. Ein Scrum-of-Scrums Master (SoSM) stellt dabei die Einhaltung von Scrum at Scale in allen Teams sicher. Sein Fokus liegt insbesondere auf organisatorischer, prozessualer und inhaltlicher Integration. Steigt Produktumfang und -komplexität weiter an, ist damit eine größere Entwicklungsmannschaft erforderlich, wächst Scaled at Agile weiter zum Scrum-of-Scrums-of-Scrums Ansatz. Das Limit liegt nun bei 25 synchronisierten Teams. Nun ist ebenfalls ein Execution Action Team (EAT) bestehend aus einem Product Owner und Scrum Master erforderlich. Ausgestattet mit einem politischen Mandat und ausreichendem Budget verantwortet und optimiert das EAT organisationsübergreifend die Ablaufqualität von Scrum auf Basis eines Organizational Transformation Backlogs.
+Kommen wir nun zum ‚Wie‘ Zyklus. Scrum at Scale sieht bis fünf Scrum Teams ein SoS Team vor. Ein Scrum-of-Scrums Master (SoSM) stellt dabei die Einhaltung von Scrum at Scale in allen Teams sicher. Sein Fokus liegt insbesondere auf organisatorischer, prozessualer und inhaltlicher Integration. Steigt Produktumfang und -komplexität weiter an, ist damit eine größere Entwicklungsmannschaft erforderlich, wächst Scaled at Agile weiter zum Scrum-of-Scrums-of-Scrums Ansatz. Das Limit liegt nun bei 25 synchronisierten Teams. Nun ist ebenfalls ein Execution Action Team (EAT) bestehend aus einem Product Owner und Scrum Master erforderlich. Ausgestattet mit einem politischen Mandat und ausreichendem Budget verantwortet und optimiert das EAT organisationsübergreifend die Ablaufqualität von Scrum auf Basis eines Organizational Transformation Backlogs.
 # Zusammenfassung
 
 Mit Hilfe von Scrum@Scale können Unternehmen und Organisationen im eigenen Tempo organisch wachsen und eine vielzahl von Teams, durch die skalenfreie Architektur des Konzeptes, koordinieren.
 Die Konzepte des Frameworks sind gut dokumentiert und im Vergleich zu anderen Frameworks weniger präskriptiv. Daher kann Scrum at Scale im gesamten Unternehmen angewendet werden, wenn Scrum auf Teamebene effektiv eingesetzt wird.
-Bei Anwendung von Scrum@Scale, sollte man sich vor der Skalierung auf Scrum-Praktiken konzentrieren und ein Executive Action Team (EAT) einrichten, das befugt ist, Änderungen vorzunehmen und Hindernisse zu beseitigen.
+Bei Anwendung von Scrum@Scale, sollte man sich vor der Skalierung auf Scrum-Praktiken konzentrieren und ein EAT einrichten, das befugt ist, Änderungen vorzunehmen und Hindernisse zu beseitigen. [^1]
 
 
 
