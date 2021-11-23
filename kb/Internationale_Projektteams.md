@@ -27,7 +27,7 @@ Die größten Problemstellen bei internationalen Projektteams sind vor allem das
 Diese sind:
 * die Fähigkeit zuzuhören
 * die Feinfühligkeit, die unausgesprochenen Anliegen zu erkennen
-* die Fähigkeit, klar und deutlich zu kommunizieren, so dass die anderen Personen es verstehen [^3].
+* die Fähigkeit, klar und deutlich zu kommunizieren, so dass die anderen jedes Teammitglied die Anliegen und seine Aufgabe versteht [^3].
 
 Gerade dadurch, dass in internationalen Projekten die Projektmitarbeiter räumlich getrennt sind und kaum direkter Kontakt vorliegt, wird der Wissensaustausch und gegenseitige Information erschwert. Hier kann es dann vorkommen, dass z.B. ein Mitarbeiter vergisst, notwendige Informationen seinem Kollegen im Ausland zukommen zu lassen. Für die Führungskräfte ist es also wichtig am Anfang des Projektes Kommunikationsstandards festzulegen, z.B. indem festgelegt wird, wie oft sich das Team zusammensetzt und austauschen soll bzw. ist auch die verwendete Sprache von entscheidender Bedeutung, sodass sowohl Verständlichkeit gewährleistet wird, als auch der Informationsverlust möglichst gering gehalten wird [^4].
 
@@ -41,8 +41,14 @@ Da Verschiedene Kulturen unterschiedliche Blickwinkel einnehmen können, kann di
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Internationale_Projektteams.md)
+* [Link auf diese Seite](ManagingProjectsSuccessfully.github.io/kb/Digitale_Kommunikation.md)
+* [Link auf diese Seite](ManagingProjectsSuccessfully.github.io/kb/Herausforderungen_bei_internationalen_Projekten.md)
+* [Link auf diese Seite](ManagingProjectsSuccessfully.github.io/kb/Internationale_Projektsteuerung.md)
+* [Link auf diese Seite](ManagingProjectsSuccessfully.github.io/kb/Klassische_Missverstaendnisse.md)
+* [Link auf diese Seite](* ManagingProjectsSuccessfully.github.io/kb/Kommunikation_Projektbeteiligte.md)
+* [Link auf diese Seite(ManagingProjectsSuccessfully.github.io/kb/Konfliktmanagement.md)
+* [Link auf diese Seite(ManagingProjectsSuccessfully.github.io/kb/Projektkommunikation.md)
+
 
 # Weiterführende Literatur
 
