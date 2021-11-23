@@ -62,6 +62,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * [Scrum](Scrum.md)
 * [Kanban](Kanban.md)
 * [Projektmanagement](Projektmanagement.md)
+* [Daily Scrum](Daily_Scrum.md)
 
 # Weiterführende Literatur
 
