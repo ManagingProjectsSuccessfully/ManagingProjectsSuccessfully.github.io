@@ -35,10 +35,10 @@ Das letzte Fundament des Hauses ist Heijunka. Heijunka ist eine Methodik zur Ver
 # Siehe auch
 
 * [Kaizen](Kaizen.md)
-* [Lean Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Lean_Projektmanagement.md)
-* [Qualitätssicherung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Qualitaetssicherung.md)
-* [Muda 7 Arten von Verschwendung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Muda_7_Arten_von_Verschwendung.md)
-* [Toyota Produktionssysteme](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Toyota_Produktionssystem.md)
+* [Lean Management](Lean_Projektmanagement.md)
+* [Qualitätssicherung](Qualitaetssicherung.md)
+* [Muda 7 Arten von Verschwendung](Muda_7_Arten_von_Verschwendung.md)
+* [Toyota Produktionssysteme](Toyota_Produktionssystem.md)
 
 # Weiterführende Literatur
 
