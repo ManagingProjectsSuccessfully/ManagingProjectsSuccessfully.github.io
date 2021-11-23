@@ -63,7 +63,7 @@ Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmana
 
 ![Primäre Module in PM](Datenmanagement_im_PM/Picture_3.png)
 
-*Abbildung 2 Interaktion der primären Module*
+*Abbildung 2 Interaktion der primären Module*[^1]
 
 
 
@@ -168,3 +168,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^10]: [Data Managemen Modules](https://bluesoft.com/product/data-management-module-dmm/)
 [^11]: [Project Management](https://www.goodreads.com/book/show/42049169-project-management)
 [^12]: [Data Management vs. Project Management Venn Diagram](https://www.usgs.gov/media/images/data-management-vs-project-management-venn-diagram)
+
