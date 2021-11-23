@@ -26,7 +26,14 @@ Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind
 # Agenda
 
 1. Begriffserklärung
-2. Die 7 Grundprinzipien             
+2. Die 7 Grundprinzipien    
+   1. Fortlaufende geschäftliche Rechtfertigung
+   2. Lernen aus Erfahrungen
+   3. Definierte Rollen und Verantwortlichkeiten
+   4. Definierte Phasen 
+   5. Steuern nach Ausnahmeprinzip
+   6. Produktorientierung
+   7. Angepasste Projektumgebung       
 3. Vor- und Nachteile
 
 ## 1. Begriffserklärung
@@ -44,7 +51,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 ## 2. Die 7 Grundprinzipien
 
 
-1. Fortlaufende geschäftliche Rechtfertigung   
+### 1. Fortlaufende geschäftliche Rechtfertigung   
    *Folgende Anforderungen müssen gegeben sein:* 
    - Berechtigter Grund für Projektstart 
    - Gültigkeit der Rechfertigung muss während des gesamten Projekts beibehalten werden
@@ -52,14 +59,14 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
    - Dokumentation in Form eines Business Case
    - Ziel: Sicherstellen, dass Projekt geschäftlichen Ziele und angestrebten Nutzen erfüllt 
    
-2. Lernen aus Erfahrungen
-   *Projektteam lernt aus früher gemachten Erfahrungen 
+### 2. Lernen aus Erfahrungen
+   - Projektteam lernt aus früher gemachten Erfahrungen 
    - Über gesamten Projektverlauf: Sammlung, Aufzeichnung, Umsetzung neuer Erfahrungen 
    - Bei Projektstart: Überprüfung früherer Erfahrungen aus vergangenen Projekten
    - Während des Projekts: Umsetzung möglichst vieler Verbesserungen
    - Bei Projektabschluss: Weitergeben der gemachten Erfahrungen
    
-3. Definierte Rollen und Verantwortlichkeiten
+### 3. Definierte Rollen und Verantwortlichkeiten
    - Innerhalb einer Organisationsstruktur klar definiert 
    - Wichtigsten Stakeholder: Unternehmen, Liefersnten, Benutzer
    - Interessen werden jeweils vertreten 
@@ -67,7 +74,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
    - Verteter der Benutzer: Erzielung des angestrebten Nutzens, durch Einsetzen hergestellter Produkte 
    - Vertreter der Lieferanten: Bereitstellung von Ressourcen und erforderliche Kenntnisse für Herstellung der Produkte 
    
-4. Definierte Phasen 
+### 4. Definierte Phasen 
    - Planung, Überwachung, Steuerung    
    - Prüfung des Fortschritts 
    - Am Ende einer jeden Phase: Bewertung des Projektstatus und Überprüfung von Business Case und Pläne
@@ -77,7 +84,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
    - Aufwendige kurze Phasen ermöglichen engere Steuerung
    - Längere Phasen entlasten Management-Ebene 
    
-5. Steuern nach Ausnahmeprinzip
+### 5. Steuern nach Ausnahmeprinzip
    - Definierung bestimmter Toleranzen für jedes Projektziel (6 Dimensionen)
    - 6 Dimensionen: Zeit, Kosten, Qualität, Umfang, Nutzen, Risiko
    - Zeitliche Entlastung der Führungskräfte
@@ -85,7 +92,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
    - Treffen von Entscheidungen auf richtigen Ebenen 
    - Festlegung der Handlungsrahmen für delegierte Befugnisse 
          
-6. Produktorientierung: 
+### 6. Produktorientierung: 
    - Ausrichtung auf Defintion und Lieferung von Produkten 
    - Fokus auf Qualitätsanforderungen    
    - Basis für Planung und Steuerung: Menge der Produkte, definiert Inhalt und Umfang des Projekts
@@ -93,7 +100,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
    - Produktbeschreibungen enthalten Festlegungen zu Zweck, Zusammensetzung, Herkunft, Format, Qualitätskriterien und Qualitätsprüfmethoden
    - Erschliesßung von Aufwand, Ressourcenbedarf, Abhängigkeiten
    
-7. Angepasste Projektumgebung
+### 7. Angepasste Projektumgebung
    - Universelle Projektmanagement-Methode
    - Abhänging von Umgebung, Komplexität, Umfang, Leistungsfähigkeit und Risiken des Projekts
    - Anpassung an jedes Unternehmen und Projekt 
@@ -124,7 +131,6 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 * [PRINCE2_7_Themen](PRINCE2_7_Themen.md)
 * [PRINCE2_7_Prozesse](PRINCE2_7_Prozesse.md)
 * [PRINCE2_Projektumgebung](PRINCE2_Projektumgebung.md)
-* [Link auf diese Seite](PRINCE2_7_Grundprinzipien.md)
 
 # Weiterführende Literatur
 
