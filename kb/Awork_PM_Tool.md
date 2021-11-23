@@ -17,10 +17,10 @@ Awork bietet die Möglichkeit mit einem [Gantt-Diagramm](Gantt_Diagramme.md), al
 ## 4. Kanban-Boards
 Das [Kanban-Board](Kanban.md) kann individuell angepasst werden und dient der Abbildung des Arbeitsablaufs[^6]. 
 ## 5. Integrierte Zeiterfassung 
-Awork ermöglicht das Tracken der Zeit für Projekte und Aufgaben über einen Timer oder die nachträgliche Eintragung über das Zeiterfassungsfenster. Zudem gibt es eine Zeitauswertung, welche auch graphisch angezeigt werden kann. Über die Integrationen von Abrechnungstools können dort die Zeiten automatisch übernommmen werden[^5].
+Awork ermöglicht das Tracken der Zeit für Projekte und Aufgaben über einen Timer oder die nachträgliche Eintragung über das Zeiterfassungsfenster. Zudem gibt es eine Zeitauswertung, welche auch graphisch angezeigt werden kann. Über die Integrationen von Abrechnungstools können dort die Zeiten automatisch übernommen werden[^5].
 ## 6. Individuelle Dashboards 
 Auf dem Dashboard[^2], der graphischen Benutzeroberfläche, können relevante Funktionen übersichtlich abgelegt werden, was eine bedarfsorientierte und individuelle Anpassung ermöglicht. 
-Dafür können verschiedene Widgets ausgewählt werden, beispielsweise Textnotizen, Aufgabenliste, Projektliste, Zeitauswertung und Abwesenheit von Usern[^4].
+Dafür können verschiedene Widgets ausgewählt werden, beispielsweise Textnotiz, Aufgabenliste, Projektliste, Zeitauswertung und Abwesenheit von Usern[^4].
 ![Beispielabbildung](Awork_PM_Tool/Dashboard_Bild.jpg)
 ## 7. Weitere Funktionen
 * Überblick über Auslastung, Teamplanung und Abwesenheit mit der Ressourcenplanung 
@@ -29,7 +29,7 @@ Dafür können verschiedene Widgets ausgewählt werden, beispielsweise Textnotiz
 * Automatisiertes Projektmanagement z.B.: smarte Mailings[^1] 
 # Preise 
 Nach den 14 Tagen der kostenlosen Testversion sind nur zahlungspflichtige Abonnements möglich. Die Premium Version wird für Teams bis etwa 50 User empfohlen. Bei monatlicher Zahlung sind es für einen Nutzer 12€, bei jährlicher Zahlung 10€ pro Monat und bei zweijährlicher Zahlung 8€ pro Monat. Die Enterprise Version richtet sich an größere Organisationen und kostet pro Nutzer bei jährlicher Zahlung 15€ pro Monat und bei zweijährlicher Zahlung 12€ pro Monat[^1]. 
-# Auf welchen Geräten kann man awork anwenden? 
+# Auf welchen Geräten kann man awork verwenden? 
 Für die Arbeit mit awork wird nur ein Browser benötigt. Die Software funktioniert plattformunabhängig. Zusätzlich gibt es eine App für iOS und Android[^1]. 
 # Welche Integrationen gibt es? 
 Bei awork können verschiedene Anwendungen integriert werden. Für viele Tools gibt es eine direkte Möglichkeit der Integration. Andere Tools können über Zapier, ein verküpfender Web-Service, integriert werden[^11]. 
@@ -61,7 +61,7 @@ Vorteile:
 Nachteile: 
 * Keine kostenlose Basisversion 
 * Sprachen nur Deutsch und Englisch 
-* kein klassisches Dokumentenmanagement[^3] 
+* Kein klassisches Dokumentenmanagement[^3] 
 
 # Siehe auch
 * [Projektmanagementsoftware](Projektmanagementsoftware.md)
