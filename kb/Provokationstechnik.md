@@ -8,11 +8,11 @@ anrechnung: k
 # Provokationstechnik
 
 
-Die Provokationstechnik ist eine Methode zur Ideenfindung, eingeführt von Edward de Bono. Sie wirkt, indem sie mit Hilfe von so genannten Provokationen bestehende Annahmen und Sichtweisen in Frage gestellt. [^1]
+Die Provokationstechnik ist eine Methode zur Ideenfindung, eingeführt von Edward de Bono. Mithilfe von so genannten Provokationen werden bestehende Annahmen und Sichtweisen in Frage gestellt um neue Ideen zu generieren. [^1]
 
 ## Provokation
 
-Für die Findung von Ideen werden Provokationen benutzt, welche das Denken aus dem gewohnten Rahmen wirft, indem gezielt bestehende Annahmen und Erfahrungen in Frage gestellt werden oder neuartige Anregungen geschaffen werden. 
+Für die Findung von Ideen werden Provokationen benutzt, welche das Denken aus dem gewohnten Rahmen werfen, indem gezielt bestehende Annahmen und Erfahrungen in Frage gestellt werden oder neuartige Anregungen geschaffen werden. 
 Ziel ist es, bezogen auf einen bestimmten Kontext, alte Denkmuster zu überwinden und neue Sichtweisen zu schaffen. 
 In diesem Kontext können Provokationen gezielte Verfälschungen von Fakten oder auch bloße Zufallsbegriffe sein. [^2] 
 
@@ -21,7 +21,7 @@ Hierbei wird hervorgehoben, dass die Wirkung der Provokation lediglich im Denken
 Provokationen stellen hierbei nie festgelegte Aussagen dar, sondern sollen lediglich der Anregung dienen. 
 
 Ansonsten können diese Aussagen zu Ablehnung oder unerwünschten Diskussionen führen. 
-Es empfiehlt sich daher Provokationen immer anzukündigen, indem man das Wort **PO** voranstellt. 
+Es empfiehlt sich daher Provokationen immer anzukündigen, indem man das Wort **PO** vorangestellt wird. 
 Das Wort PO unterliegt hier keiner Bedeutung, sondern verweist lediglich darauf, dass der drauf folgende Satz als Anregung zu verstehen ist. [^3]
 
 Die folgenden Sätze sind daher unterschiedlich zu verstehen:
@@ -62,12 +62,6 @@ Beispiele für mentale Provokationen aus dem Alltag:
 * PO Der Professor schreibt die Bachelorarbeit.
 
 
-## Reale Anwendungsbeispiele
-
-Im Buch *Serious Creativity* beschreibt De Bono wie die Provokation "PO Autos haben quadratische Räder" zur Entwicklung des intelligenten Stoßdämfpers geführt hat. Wenn Autos quadratische Räder hätten, wäre die Fahrt erstmal sehr unruhig. Intelligente Stoßdämpfer könnten die vorherseebaren Unebenheiten kompensieren. Diese Provokation ist ein Beispiel einer Verfälschung(s.u.).
-
-In einem anderen Beispiel wird beschrieben wie die Provokation "PO Orangensaft trinkt mich zum Frühstück " zur Entwicklung von Dufttabletten, die man in den Brausekopf der Dusche einsetzen kann, geführt hat. Einem Teilnehmer fiel das Bild ein, wie er in einem großen Glas Orangensaft schwimmt. Eine Folge wäre, dass er nach Orange riechen würde. Daraus entstand letztendlich die Idee dem Baden in der Dusche einen angenehmen Duft zu verleihen. Das stellt ein Beispiel einer Umkehrung dar(s.u.).
-
 ## Methoden, um Provokationen zu generieren
 
 Es gibt folgende Ansätze, um Provokationen zu gewinnen:[^4]
@@ -100,7 +94,7 @@ Hier nennt man einen Zustand, der im Idealfall gelten würde, z. B.
 Bei der Umkehrung stellt man einen Sachverhalt oder eine Beziehung auf den Kopf, z. B.
 
    * PO Schüler unterrichten Lehrer.
-   * PO Erst kommt der Berufsanfang, dann das Schule.
+   * PO Erst kommt der Berufsanfang, dann die Schule.
 
 ### Übertreibung
 
@@ -127,12 +121,12 @@ Hier wird eine qualitative Eigenschaft der Problemstellung verändert, z. B.
 ## Anwendnung
    
 Der schwierigste Part nach der Bildung einer Provokation liegt darin eine Lösungsidee zu entwickeln. 
-Erfahrungsgemäß ist dies der schwerste Teil der Technik. 
+Erfahrungsgemäß ist dies der komplizierteste Teil der Technik. 
 Am Beispiel Schule könnte dies zum Beispiel sein:
 
 * Aus "PO Die Schule hat keine Gebäude" könnte die Idee des Homeschooling entstehen.
 * Aus "PO Die Schulpflicht geht bis zur 13. Klasse" könnte die Idee, das G9 wiedereinzuführen entstehen.
-* Aus "PO Erst kommt der Berufsanfang, dann das Schule" könnte die Idee von Praxisnäheren Schulen entstehen.   
+* Aus "PO Erst kommt der Berufsanfang, dann die Schule" könnte die Idee von Praxisnäheren Schulen entstehen.   
 * Aus "PO Schüler unterrichten Lehrer" könnte die Idee, verstärkt den Fokus auf Referate und Präsentationen im Unterricht zu legen.
 
 (Diese Ideen wurden bereits verwirklicht.)
@@ -142,15 +136,15 @@ Am Beispiel Schule könnte dies zum Beispiel sein:
 
 | Vorteile      | Nachteile     |
 | ------------- | ------------- |
-| Methode durchbricht gezielt alte Denkmuster und produziert innovative Ideen| Manche Menschen tun sich im Umgang mit Provokationen schwer und dadurch sinkt die Motivation  |
-| Regt die Kreativität an  | Methode schlägt oft fehl, da Provokationen meist weit von der Realität entfernt sind und sich dadurch keine nützliche Idee ergibt  |
+| Methode durchbricht gezielt alte Denkmuster und produziert innovative Ideen| Der Umgang mit Provokationen ist am Anfang tendenziell schwer und viele Menschen werden dadurch entmutigt  |
+| Regt die Kreativität an  | Methode oft nicht erfolgreich, da Provokationen meist weit von der Realität entfernt sind und sich dadurch keine nützliche Idee ergibt  |
 
 
 
 ## Weiterführende Literatur
 
-* Edward de Bono: Serious Creativity. Die Entwicklung neuer Ideen durch die Kraft lateralen Denkens. Erscheinungsjahr: 1996
-* Edward de Bono: Po: Beyond Yes and No. New York 1972
+* Edward de Bono: Serious Creativity. Die Entwicklung neuer Ideen durch die Kraft lateralen Denkens. 1996
+* Edward de Bono: Po: Beyond Yes and No. 1972
 * Innovationslabor der Universität Magdeburg: Die Provokationstechnik: Ideenfindung durch Infragestellen von Wissen und Annahmen
 
 
