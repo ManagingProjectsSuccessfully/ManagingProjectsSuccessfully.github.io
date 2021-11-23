@@ -11,7 +11,7 @@ Durch die Matrix lassen sich Verantwortlichkeiten in Bezug auf das Projekt visua
 Der Name VMI beschreibt dabei diese Visualisierungsmöglichkeiten, V steht hierbei für Verantwortung, M für Mitarbeit und I für Informieren. 
 Durch die Simplizität bei gleichzeitig leichter Konstruktionsmöglichkeit stellt die VMI-Matrix einen absoluten Klassiker in Bezug auf Projektmanagementinstrumente dar. [^3][^1]
 
-![Beispielmatrix](VMI_Matrix/VMI_Design.emf)
+![Beispielmatrix](VMI_Matrix/Bild2_VMI.jpg)
 
 *Beispielhafte VMI-Matrix*[^3]
 
