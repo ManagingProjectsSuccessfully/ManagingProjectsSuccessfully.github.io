@@ -59,8 +59,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](SCRUMBAN.md)
+* [Scrum](Scrum.md)
+* [Kanban](Kanban.md)
+* [Projektmanagement](Projektmanagement.md)
 
 # Weiterführende Literatur
 
