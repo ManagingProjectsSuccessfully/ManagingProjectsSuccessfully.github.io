@@ -42,7 +42,7 @@ Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das v
 
 [Java Projektmanagement Tools](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Java_PM_Tool.md)
 
-# Quellen
+# Quellen 
 
 [^1]: [Projektart: IT-Projekte](https://www.guteprojekte.ch/projektarten/it-projekte)
 [^2]: [Vorgehensmethoden](https://www.guteprojekte.ch/methoden/hermes)
