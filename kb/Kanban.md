@@ -57,7 +57,7 @@ Darüber hinaus kann der Einsatz von [Swim-Lanes](Kanban_Swim_Lanes.md) für ein
 | ------------- | ------------- |
 | Verwendung von Kompläxität bzw. Storypoints als Kennzahl, um Prozessverbesserungen zu planen. | Verwendet Durchlaufzeit (Leadtime) als Kennzahl, um Prozessverbesserungen zu planen und zu avaluieren.|
 | Schätzungen werden vorgeschrieben.  | Schätzungen sind optimal.|
-| Setzt voraus, dass ein Scrum-Board nach jedem Sprint zurückgesetzt wird. | Ein [Kanban-Boards](Kanban_Boards.md) ist presistent|
+| Setzt voraus, dass ein [Scrum](Scrum.md)-Board nach jedem Sprint zurückgesetzt wird. | Ein [Kanban-Boards](Kanban_Boards.md) ist presistent|
 | Setzt ein priorisiertes Produkt-Backlog voraus. | Priorisierung ist optimal. Eine Selektion am Eingang der Dienstleistung ermöglicht ein Zusammenführen mehrerer Bachlogs.|
 
 *Vergleich von [Scrum](Scrum.md) und Kanban[^5]*
