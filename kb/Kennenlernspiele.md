@@ -36,7 +36,14 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
-Die Bereitschaft zum Wissensaustausch und zur Kollaboration ist bei Mitgliedern eines Teams geringer je größer die Diversität und Unbekanntheit in der Gruppe ist[^1]. 
+Die Bereitschaft zum Wissensaustausch und zur Kollaboration ist bei Mitgliedern eines Teams geringer je  
+größer die Diversität und Unbekanntheit in der Gruppe ist[^1].
+
+Um den Einstieg in und die Grundlage für eine erfolgreiche Zusammenarbeit zu schaffen, können Kennenlernspiele, die in einer Vielzahl existieren, verwendet werden[^2].
+
+Ihr Einsatz eignet sich insbesondere zu Beginn des Projektes, in der sog. Forming-Phase des Phasenmodells nach Tuckman (1965), vgl Abb.1[^3]. Hier treffen die Teammitglieder zum ersten Mal aufeinander und lernen sich kennen. Dabei besteht noch Unklarheit bezüglich der Rollen und Positionen im Team. „Diese Phase ist [als Folge dessen] oft von einem eher formellen und vorsichtigen „Abtasten“ gekennzeichnet“[^4]. Es werden jedoch auch die Grenzen des zwischenmenschlichen und des aufgabenbezogenen Verhaltens erforscht und Abhängigkeitsbeziehungen zu den übrigen Gruppenmitgliedern und zu möglichen Leitern aufgebaut[^5]. 
+
+Dabei können letztere, mit Blick auf den Gruppenzusammenhalt und damit den Projekterfolg, u.a. folgende Maßnahmen koordinativ ergreifen[^6][^7]: 
 
 
 # Beispiele
@@ -94,7 +101,7 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: https://www.marconomy.de/vier-erstaunliche-erfolgsfaktoren-fuer-die-agile-zusammenarbeit-a-853629/
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
