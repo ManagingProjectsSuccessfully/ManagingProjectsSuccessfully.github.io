@@ -11,62 +11,38 @@ anrechnung: k
 
 Das V-Modell ist ein V-förmiges lineares [Vorgehensmodell](https://de.wikipedia.org/wiki/Vorgehensmodell_zur_Softwareentwicklung) im Projektmanagement, das ein Projekt in fest definierte Phasen unterteilt, welches ursprünglich für die Softwareentwicklung konzipiert wurde. Es ähnelt dem ebenfalls [linearen Wasserfallmodell](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md), mit dem Unterschied, dass es zusätzlich Testphasen gibt, welche den jeweiligen Entwicklungsphasen gegenübergestellt sind. Dies soll beim Entwickeln eines Projekts helfen, die einzelnen Phasen sauber zu testen, zu integrieren und letztendlich als Ganzes zusammenzufügen. 
 
----
+## Abbildung V-Modell
 
 ![v-modell](https://user-images.githubusercontent.com/92790072/142849508-172e4421-7a7d-435e-bc29-652fe4992df0.jpg)
 
 Original:[]
 
-# Was ist das V-Modell?
+1. Auf der linken Seite des V wird mit dem funktionalen/fachlichen Ausbau begonnen, welcher immer tiefer bis zur Komponentenspezifikation und Implementierung detailliert wird. Auf der untersten Ebene wird klar beschrieben, wie die Anforderungen technisch umgesetzt werden sollen.
 
-Das V-Modell ist ein V-förmiges lineares [Vorgehensmodell](https://de.wikipedia.org/wiki/Vorgehensmodell_zur_Softwareentwicklung) im Projektmanagement, das ein Projekt in fest definierte Phasen unterteilt, welches ursprünglich für die Softwareentwicklung konzipiert wurde. Es ähnelt dem ebenfalls linearen Wasserfallmodell, mit dem Unterschied, dass es zusätzlich Testphasen gibt, welche den jeweiligen Entwicklungsphasen gegenübergestellt sind. Dies soll beim Entwickeln eines Projekts helfen, die einzelnen Phasen sauber zu testen, zu integrieren und letztendlich als Ganzes zusammenzufügen. 
+2. Die untere Spitze des V ist die Implemetierung, hier entsteht das eigentliche Produkt des Projekts.
+
+3. Die rechte Seite des V ist die "Testseite" des V-Modells. Sie beschreibt, wie die einzelnen entwickelten Bausteine und Funktionen getestet und zu einem Gesamtsystem zusammengefasst werden.
+
+# Die Phasen einzelnen Phasen des V-Modells
 
 
-# Allgemeiner Ablauf eines Barcamps[]
-
-#### 1. Eröffnung 
-Der Barcamp Moderator begrüßt die Teilnehmer und stellt ihnen das Konzept der Barcamp-Methode vor. Dabei lege man besonders Augenmerk auf die Vermittlung der Wertwelt eines Barcamps, etwa die Begegnung auf Augenhöhe oder das niemand perfekt sein muss. So stellt man sicher, dass jeder Teilnehmer ermutigt wird sein volles Potenital auszuschöpfen und bewilligt ist, seinen Beitrag zum Barcamp zu leisten.
-
-#### 2. Themenfindung und Sessionplanung
-Die Teilnehmer stellen nun nacheinander ein oder mehrere Themen vor und erfragen jenes Interesse. Jedes Thema, für das Interesse besteht, findet seinen Platz. Angelegenheiten können auch derzeitige Probleme oder Konflikte sein, welche gelöst werden sollen. Dabei werden die Themen auf einer Metaplanwand geordnet und der jeweilige Raum und die jeweilige Uhrzeit werden gewählt. Wenn die Anbieter zwei oder mehrere ähnliche Themen erkennen, können diese auch zusammengelegt werden.
-
-#### 3. Sessionstart
-Direkt nach der Sessionplanung beginnen die ersten Sessions. Diese laufen je nach Interesse der verschiedenen Themen parallel oder nacheinander ab. Teilnehmer die zu einem Thema bereits alles beigetragen haben wechseln selbständig zum Nächsten, sodass die Effizienz stets hoch bleibt. Zwischen des Sessions liegen kurze Pausen von etwa 15 Minuten. Für Trinken und kleine Snacks sollte in den Pausen gesorgt sein.
-
-#### 4. Abschluss
-Ein Barcamp kann einige Stunden, sogar mehere Tage dauern. Es endet erst wenn alle Themen abgeschlossen sind. Wenn dies der Fall ist sieht die klassische Barcamp-Methode noch eine offene Feedbackrunde zum Abschluss vor.
-
-#### 5. Nach dem Barcamp
-Nach dem Barcamp werden die Dokumentationen der Teilnehmer gesammelt und in einem großen Dokument zusammengefasst und für alle zugänglich gemacht, beispielsweise inform einer Software-Lösung. Einige Tage später sollte eine Auswertung des Barcamps mit dem gesamten Team stattfinden um möglicherweise Prozesse und Abläufe für zukünftige Barcamps zu optimieren und um festzustellen wie effizient diese Methode für das jeweilige Unternehmen bzw. der Forschungsgruppe ist.
-
-# Vor und Nachteile von Barcamps
-
-|Vorteile | Nachteile |
+# Verschiedene Typen des V-Modells
+|Typ|Definition|
 |---|---|
-|erstaunliche Ergebnisse|Kosten-/Zeitaufwand|
-|Abwechslung für Teilnehmer |unmotivierte Teilnehmer|
-|Entfaltung der Teilnehmer|ungeordeter Ablauf|
-|Teambuilding Maßnahme|Unstimmigkeiten zwischen Teilnehmern|
+|Das allgemeine V-Modell | Dieser Ansatz wurde vom Wasserfallmodell abgeleitet und gilt als ein genereller Ansatz vorallem für die Softwareentwicklung |
+|Das V-Modell der Bundesrepublik Deutschland | Dieser Typ hat sich für staatliche Projekte der Bundesrepublik etabliert und ist der Entwicklungsstandard für öffentliche IT-Projekte. Er lässt sich leicht auf eigene Bedürnisse maßschneidern |
+|US-Standard |In den Vereinigten Staaten von Amerika wurde ebenfalls ein Standard für öffentliche Projekte entwickelt, welche "V-Model" gennant wurde|
 
-# No-Gos[]
-| ~~No-Gos~~:  | 
-| ------------- | 
-| Vordefinierte Themen, die auf jeden Fall auf das Sessionboard kommen müssen  |
-| Abwählen von Themen, bei zu geringer Interesse  | 
-| Zusammenlegen/Anpassen von Themen durch den Barcamp-Moderator |
-| Moderation der Sessions durch das Orga-Team |
-| Dokumentation der Sessions durch das Orga-Team |
-| Live-Streaming/Aufnahmen der Sessions, weil dies den geschützten Rahmen stört |
-| Auschluss von Personen |
+# Vor und Nachteile des V-Modells
 
-# Gut zu wissen
-Teilnehmer die das erste Mal in einem Barcamp mitwirken werden zu Beginn eventuell leicht überfordert sein, daher ist es wichtig den Teilnehmern in der Eröffnungrede Mut zuzusprechen und klarzustellen das nicht alles glatt laufen muss. Das Orga-Team steht jederzeit zur Unterstützung bei Fragen und Hindernissen bereit. Wichtig ist das der Barcamp Moderator den Mut hat das "Zepter" aus der Hand zu geben und seinen Teilnehmern während des Barcamps blind vertraut.
+
+# Fazit
 
 # Weiterführende Literatur
 
-* Youtube-Video: https://www.youtube.com/watch?v=hJpTQpLLK7E
-* Youtube-Video: https://www.youtube.com/watch?v=GiPSORwsImY
-* Kurzerklärung von Stadt Nürnberg (online): https://www.nuernberg.de/internet/menschenrechte/dasisteinbarcampabc.html
+* Youtube-Video: https://www.youtube.com/watch?v=FxS9LFzpM-o
+* Youtube-Video: https://www.youtube.com/watch?v=P0TgRjj8hQg
+* V-Modell XT der Bundesregierung genauer erklärt: https://www.microtool.de/wissen-online/wie-funktioniert-v-modell-xt-tailoring/
 
 # Quellen
 
