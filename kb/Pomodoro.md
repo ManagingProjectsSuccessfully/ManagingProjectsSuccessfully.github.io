@@ -30,11 +30,15 @@ Dadurch entsteht folgender Ablauf:
 🍅 Pomodoro 1
 
 - 5 Minuten Pause
+
 ✅ Pomodoro 2
+
 - 5 Minuten Pause
+
 ✅ Pomodoro 3
+
 - 5 Minuten Pause
-- 
+
 🍅 Pomodoro 4
 
 - 30 Minuten Pause
@@ -44,6 +48,8 @@ Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
 # Anwendung und Tipps zur Pomodoro-Technik
 
 Ein Problem und Kritikpunkt an der Pomodoro Technik sind die 25-Minuten-Einheiten. Welche Aufgabe dauert schon exakt 25 Minuten? Damit die Zeitmanagement-Methode optimal funktioniert, sollten Sie daher folgende Tipps zur Vorbereitung nutzen:
+
+** Aufgaben priorisieren (bold) **
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
