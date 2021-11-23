@@ -60,7 +60,7 @@
  ## Säule 4 - Unermüdliche Verbesserung
  Ständige Selbstreflexion, Prozessverbesserungen und Gefährdung durch Wettbewerb treibt das Unternehmen dazu, Verbesserungsmöglichkeiten hartnäckig zu verfolgen.
  Dazu müssen folgende Punkte umgesetzt werden:[^1]
- * Organisation und Entwicklungsprozesses als Gesamtkonstrukt optimieren
+ * Organisation und Entwicklungsprozess als Gesamtkonstrukt optimieren
  * Verstärkung der Problemlösungsmentalität im gesamten Unternehmen 
  * Reflexion bei wichtigen Meilensteinen
  * Anwendung von Lean-Tools und Lean-Techniken, um Ineffizienzen durch Gegenmaßnahmen zu beseitigen
