@@ -14,9 +14,31 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 Für die Findung von Ideen werden Provokationen benutzt, welche das Denken aus dem gewohnten Rahmen wirft, indem gezielt bestehende Annahmen und Erfahrungen in Frage gestellt werden oder neuartige Anregungen geschaffen werden. 
 
-Ziel ist dabei bezogen auf einen bestimmten Kontext alte Denkmuster zu überwinden und neue Sichtweisen zu schaffen. 
-In diesem Kontext können Provokationen gezielte Verfälschungen von Fakten oder auch bloße Zufallsbegriffe sein. Aufgrund der Verwechslungsgefahr mit der üblichen Bedeutung des Wortes werden sie auch als *Mentale Provokation* bezeichnet. 
+Ziel ist es, bezogen auf einen bestimmten Kontext, alte Denkmuster zu überwinden und neue Sichtweisen zu schaffen. 
+In diesem Kontext können Provokationen gezielte Verfälschungen von Fakten oder auch bloße Zufallsbegriffe sein. 
+Aufgrund der Verwechslungsgefahr mit der üblichen Bedeutung des Wortes [Provokation](https://de.wikipedia.org/wiki/Provokation) werden sie auch als *Mentale Provokation* bezeichnet. 
 Hierbei wird hevorgehoben, dass die Wirkung der Provokation lediglich im Denken stattfindet.
+
+Provokationen stellen hierbei nie festgelegete Aussagen dar, sondern sollen lediglich der Anregung dienen. Ansonsten können diese Aussagen zu Ablehnung oder unerwünschten Disskussionen führen. 
+Es empfiehlt sich daher Provokationen immer anzukündigen, indem man das Wort **PO** voranstellt. 
+Das Wort PO unterliegt hier keiner Bedeutung, sondern verweist lediglich darauf, dass der drauf folgende Satz als Anregung zu verstehen ist.
+Die folgenden Sätze sind daher unterschiedlich zu verstehen:
+
+* Alle Lehrer lieben ihre Schüler
+* PO Alle Lehrer lieben ihre Schüler
+
+Der erste Satz ist eine Behauptung, die wahr oder falsch sein könnte, während der zweite Satz lediglich als Anregung zu verstehen ist. 
+Am einfachsten kann man PO als „Was wäre, wenn…?“ interpretieren, also
+
+    Was wäre, wenn alle Lehrer ihre Schüler liebten?
+
+# Nutzen
+
+Der Nutzen von (mentalen) Provokationen liegt in der Möglichkeit neue Dinge in Betracht zu ziehen, auf welche man normalerweise nie gekommen wäre, weil sie entweder entgegen jeder Erfahrung sprechen würden oder zu abstrus wirken könnten. Als eine Form der [Kreativitätstechniken](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) hilft sie durch Ideenfindungsworkshops beispielweise, neue Produkt und Marketingideen aufzudecken.
+
+
+
+
 
 
 
