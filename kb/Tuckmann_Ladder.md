@@ -27,7 +27,7 @@ Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Forming
+## Forming
 
 Die Formierungsphase ist die erste Phase in Tuckmans Phasen der Gruppenentwicklung und ähnelt der Erfahrung, die Sie an Ihrem ersten Tag in einem neuen Job machen. Hier lernt
 sich das Team kennen und es geht hauptsächlich darum, allen Mitgliedern eine Orientierung zu geben, wie die Gruppe zusammenarbeiten wird. Da die Gruppendynamik und die Rollen im
@@ -38,7 +38,7 @@ Teammitglieder über Teamziele, Grundregeln und individuelle Rollen diskutieren.
 
 *Tuckman´s stages of team development in relation to the team effectiveness*
 
-# Storming
+## Storming
 
 Eine entscheidende, aber vielleicht auch die wichtigste Phase ist die "Storming"-Phase. Diese Phase ist vor allem von Konflikten, Spannungen und Wettbewerb geprägt, da sich die
 einzelnen Persönlichkeiten herausbilden. Bei Teams entsteht der Konflikt oft durch gegensätzliche Arbeitsstile der Teammitglieder. Manche beginnen sogar, an den zuvor
@@ -46,32 +46,29 @@ besprochenen Zielen des Teams zu zweifeln und stellen ihre Arbeit ganz ein. Als 
 fortsetzen, da die zuvor etablierten Gruppenprozesse nicht mehr reibungslos funktionieren. Um ein Scheitern zu verhindern, müssen die Mitglieder individuelle Unterschiede
 akzeptieren.
 
-# Norming
+## Norming
 
 Wenn die Mitglieder die "Sturm"-Phase hinter sich gelassen haben, akzeptieren sie sich gegenseitig mehr und beginnen, sich auf gemeinsame Ziele zu konzentrieren. In der
 "Norming"-Phase werden zwischenmenschliche Differenzen abgebaut, und die Mitglieder suchen nun aktiv nach gegenseitiger Unterstützung, um auf ein gemeinsames Ziel hinzuarbeiten.
 Das Team ist in der Lage effektiv mit konstruktivem Feedback zu arbeiten, da sich die Mitglieder mit den Teamabläufen vertraut gemacht haben und neuer Aufgaben bewältigen
 können. Da diese neuen Aufgaben oft mit einem hohen Schwierigkeitsgrad verbunden sind, ist es nicht ungewöhnlich, dass Gruppen wieder in die Storming-Phase zurückfallen. 
 
-## Aufgaben des Projektleiters in der Norming Phase
-
-
-# Performing
+## Performing
 
 In der Durchführungsphase konzentrieren sich alle Mitglieder gemeinsam auf die Erledigung der Aufgabe und sind nun in der Lage, effektiv zu kommunizieren. In dieser Phase ist
 die Leistung Ihres Teams so hoch wie nie zuvor. Dieses hohe Leistungsniveau bedeutet, dass alle Teammitglieder selbständig sind und so viel Vertrauen in ihre eigenen
 Problemlösungsfähigkeiten haben, dass sie ohne Aufsicht durch die Leiter funktionieren können. Alle arbeiten wie eine gut geölte Maschine, konfliktfrei und synchron auf ein
 gemeinsames Endziel hin.
 
-## Übersicht der verschiedenen Stages
+### Übersicht der verschiedenen Stages
 
-Die folgende Tabelle fasst die Phasen mit jeweiligen Herausfoerungen zusammen, die im Zusammenhang mit einer neuen Teambildung und -entwicklung aufkommen können. 
+  Die folgende Tabelle fasst die Phasen mit jeweiligen Herausfoerungen zusammen, die im Zusammenhang mit einer neuen Teambildung und -entwicklung aufkommen können. 
 
-| * | Forming | Storming | Norming | Performing |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Allgemeine Feststellungen | Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende | Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen | Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
-| Prozessbezogene Probleme | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
-| Gefühlsbezogene Probleme | Die Mitglieder fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen fühlen sich noch unsicher und versuchen, ihre Individualität zum Ausdruck zu bringen. Es entstehen Bedenken hinsichtlich der Teamhierarchie | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
+  | * | Forming | Storming | Norming | Performing |
+  | ------------- | ------------- | ------------- | ------------- | ------------- |
+  | Allgemeine Feststellungen | Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende | Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen |     Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
+  | Prozessbezogene Probleme | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach         Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
+  | Gefühlsbezogene Probleme | Die Mitglieder fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen fühlen sich noch unsicher und versuchen, ihre          Individualität zum Ausdruck zu bringen. Es entstehen Bedenken hinsichtlich der Teamhierarchie | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander        mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
 
 # Adjouring
 
