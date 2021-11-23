@@ -30,6 +30,8 @@ Man unterscheidet zwischen vier verschiedenen "buckets" mit jeweils unterschiedl
 * der Current Bucket beinhaltet alle Aufgaben die das Team als nächstes bearbeiten wird. [^3]
 ## 2.2 Methoden aus Kanban
 ### 2.2.1 Scrumbanboard
+Das Scrumbanboard ist ähnlich zu einem [Kanban Board](Kanban_Boards.md), jedoch mit deutlich mehr Spalten. In der folgenden Abbildung ist ein Beispiel eines Scrumban Boards zu sehen
+!
 ### 2.2.2 WIP-Limits
 ### 2.2.3 Pull-Prinzip
 # 3. Fazit
@@ -39,15 +41,6 @@ So kann man eine Tabelle erstellen:
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 1. das
 2. hier 
@@ -74,3 +67,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: https://en.wikipedia.org/wiki/Scrumban#Tooling
 [^3]: https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/
 [^4]: https://de.wikipedia.org/wiki/Scrum#Sprint
+[^5]: [Das beste aus Scrum und Kanban](https://www.agile-heroes.de/magazine/scrumban-das-beste-aus-scrum-und-kanban-einfach-erklaert/)
