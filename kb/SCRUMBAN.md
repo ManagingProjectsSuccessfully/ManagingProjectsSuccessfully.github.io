@@ -32,6 +32,7 @@ Man unterscheidet zwischen vier verschiedenen "buckets" mit jeweils unterschiedl
 ### 2.2.1 Scrumbanboard
 ### 2.2.2 WIP-Limits
 ### 2.2.3 Pull-Prinzip
+# 3. Fazit
 So kann man eine Tabelle erstellen:
 
 | First Header  | Second Header |
