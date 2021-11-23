@@ -1,6 +1,6 @@
 ---
 title: Zeitplanung
-tags: agil klassisch
+tags: agil klassisch Zeitplanung Zeit Zeitmangement
 author: NinaNagel
 anrechnung: k 
 ---
@@ -55,7 +55,9 @@ Ein Beispiel hierfür wäre ein Hausbau. Man weiß genau zu Beginn, wie lange es
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Magische Dreieck](Magisches_Dreieck.md)
+* [Gantt-Diagramme](Gantt_Diagramme.md)
+* [Netzplantechniken](Netzplantechnik.md)
 * [Link auf diese Seite](Zeitplanung.md)
 
 # Weiterführende Literatur
