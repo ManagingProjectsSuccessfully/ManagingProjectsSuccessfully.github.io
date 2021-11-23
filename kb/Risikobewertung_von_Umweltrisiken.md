@@ -89,8 +89,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten gespart werden können:
-* [UMAR] (http://nest-umar.net/)
-* [Mavo BauCycle] (https://www.baucycle.de/)
+* [UMAR](http://nest-umar.net/)
+* [Mavo BauCycle](https://www.baucycle.de/)
 * [Link auf diese Seite](Risikobewertung_von_Umweltrisiken.md)
 
 # Weiterführende Literatur
