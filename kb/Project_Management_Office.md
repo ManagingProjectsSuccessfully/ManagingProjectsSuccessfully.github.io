@@ -60,7 +60,7 @@ Abschließend kann nicht genau gesagt werden, ob das PMO eher dem klassischen od
 # Weiterführende Literatur
 
 * [Roden, Eileen J./Dr. Joslin, Robert/Dr. Müller, Ralf (2018): "PMO Principles"](https://www.amazon.de/PMO-Principles-Dr-Robert-Joslin/dp/3906937003)
-* [Taylor, Peter/Mead, Ray (2016): "Delivering Successful PMOs"](https://www.amazon.de/Delivering-Successful-PMOs-Management-Business-ebook/dp/B01CR69HTO)
+* [Taylor, Peter/Mead, Ray (2016): "Delivering Successful PMOs: How to Design and Deliver the Best Project Management Office for your Business"](https://www.amazon.de/Delivering-Successful-PMOs-Management-Business-ebook/dp/B01CR69HTO)
 
 # Quellen
 
