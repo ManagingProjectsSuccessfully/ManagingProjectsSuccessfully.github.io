@@ -28,7 +28,7 @@ Zusammengefasst kann man also sagen: „Das Wesen des Managements ist es, Wissen
 ## Wissensmanagementsoftware
 
 Wissensmanagementsoftware (Knowledge-Management-Software) kann der [Enterprise-Content-Management-Software](https://de.wikipedia.org/wiki/Enterprise-Content-Management-System) untergeordnet werden.[^5]
-Kurz gesagt, kann Wissensmanagementsoftware als eine Plattform für den Wissenstransfer zwischen Internen, aber auch mit Externen verstanden werden. 
+Kurz gesagt, kann Wissensmanagementsoftware als eine Plattform für den [Wissenstransfer](Wissenstransfer.md) zwischen Internen, aber auch mit Externen verstanden werden. 
 Wissensmanagementsoftware bietet Unternehmen somit eine digitale Unterstützung für die Herausforderungen im Wissensmanagement.[^6]
 Das Angebot reicht dabei von kleinen Softwarepaketen für einzelne Personen, bis zu hochspezialisierter Unternehmenssoftware für Großunternehmen. 
 Erfolgreiche Wissensmanagementsoftware kann leicht in bestehende Unternehmensstrukturen integriert werden und hat das Potenzial mit dem Unternehmen zu wachsen.[^5]
