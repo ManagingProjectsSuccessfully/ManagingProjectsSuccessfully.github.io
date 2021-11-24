@@ -75,7 +75,7 @@ Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Cha
   - Leistungsumfang des Projektes, Unternehmensbedarf, Zusammenfassung der wichtigsten Vereinbarungen, etc.
   - Vorprojektphase, Nachprojektphase,
   - Projekt-Nichtziele
-  - Projektbudget (erwartete Projektkosten, aber auch benötigte Ressourcen, Mitarbeiter, Nachlaufkosten, etc.)
+  - Projektbudget (erwartete Projektkosten, aber auch benötigte [Ressourcen](Ressourcenplanung.md), Mitarbeiter, Nachlaufkosten, etc.)
   - Verantwortlichkeiten und Befugnisse
   - Projektzweck, Hindernisse, Beschränkungen, etc.
   - Projektmeilensteine, Projektplan, Projektphasen, etc.
