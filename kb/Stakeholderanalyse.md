@@ -8,7 +8,7 @@ anrechnung: k
 
 # Stakeholderanalyse
 
-Eine [Stakeholderanalyse](Stakeholderanalyse.md) hat das Ziel die Interessensgruppen eines [Projekts](Projekt.md) und deren Einfluss auf Entscheidungen zu identifizieren. Hierbei werden die Stakeholder zueinander in Beziehung gesetzt und kategorisiert. Somit können Sie durch Strategien gezielt gesteuert und in eine gewollte Richtung gelenkt werden [^1][^2].
+Eine [Stakeholderanalyse](Stakeholderanalyse.md) hat das Ziel die Interessensgruppen eines [Projekts](Projekt.md) und deren Einfluss auf Entscheidungen zu identifizieren. Hierbei werden die Stakeholder zueinander in Beziehung gesetzt und kategorisiert. Somit können Sie durch Strategien gezielt gesteuert und in eine bestimmte Richtung gelenkt werden [^1][^2].
 
 ## Hintergrund
 
@@ -64,7 +64,7 @@ Ein zusätzlich oft genutztes Tool ist die Macht/Interesse-Matrx nach Johnson/Sc
 Nach dem Abschluss des Projektes sollte eine Kontrolle der Zielerreichung gemacht werden. Hierbei stellt sich vor allem die Frage, wie zuverlässig die [Stakeholderanalyse](Stakeholderanalyse.md) funktioniert hat. Somit kann aus den Erfahrungen für zukünftige Projekte gelernt werden. Die Wichtigkeit dieser Analyse sollte nicht unterschätzt werden. Die Stakeholder tragen eine wichtige Rolle im Verlauf eines Projekts und daher ist es entscheidend, wie gut das Projektteam diese identifiiert und eingschätzt hat, um entsprechend handeln zu können. 
 
 
-# Quellen
+## Quellen
 
 [^1]: [www.controlling-wiki.de](https://www.controlling-wiki.com/de/index.php/Stakeholderanalyse)
 [^2]: [wwww.betriebswirtschaft-lernen.net](https://www.betriebswirtschaft-lernen.net/erklaerung/stakeholderanalyse/)
