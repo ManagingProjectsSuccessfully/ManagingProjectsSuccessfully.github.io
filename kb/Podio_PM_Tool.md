@@ -28,7 +28,7 @@ Von Podio gehoste Webformulare können in Websites integriert werden, wie beispi
 Durch Podio Share können Appeinträge, wie beispielsweise ein [Projekt](Projekt.md) aus einer Projekt App, intern und extern geteilt werden [^4].
 
 ## Workspaces
-Workspaces dienen zur organisation von Projekten und der Zusammenarbeit in Projekten. Dabei können interne und externe Mitglieder einem Workspace zugeordnet werden. Alle Mitarbeitenden einer Organisation können den Workspace sehen und bei belieben beitreten. In den Einstellungen kann eine eingeschränkte Mitgliedschaft eingestellt werden. Dabei können Mitarbeitende per Einladung beitreten [^4]. 
+Workspaces dienen zur organisation von Projekten und der Zusammenarbeit in Projekten. Dabei können interne und externe Mitglieder einem Workspace zugeordnet werden. Alle Mitarbeitenden einer Organisation können den Workspace sehen und bei belieben beitreten. In den Einstellungen kann eine eingeschränkte Mitgliedschaft eingestellt werden. Dabei können Mitarbeitende per Einladung beitreten [^1][^4]. 
 
 Im Mitarbeiternetzwerk von Podio werden alle Mitarbeitenden einer Organisation in einem Workspace vernetzt [^4]. 
 
@@ -41,7 +41,7 @@ Die GoToMeeting App von Polio ermöglicht Besprechungen [^4].
 ### Aufgaben-Managment
 Auf einer [Aufgabenliste](Aufgabenteilung.md) sieht der Benutzer alle Aufgaben für die er verantwortlich ist. Die Aufgaben können priorisiert und geteilt werden. Aufgaben, die regelmäßig erledigt werden, können wiederkehrend eingestellt werden [^4]. 
 ### File sharing
-Datein können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Einen eigenen Dateispeicher hat Polio nicht. Dateispeicher die mit Podio verknüpft werden können sind[^4]:
+Datein können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Einen eigenen Filesharing Dienst hat Polio nicht. Dateispeicher die mit Podio verknüpft werden können sind[^4]:
 * Google Drive
 * Dropbox
 * ShareFile
@@ -49,21 +49,14 @@ Datein können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Ein
 * HighTail
 * One Drive
 ### Kalender Management
-
-
+Polio stellt den Nutzern einen Kalender bereit. Hier können Termine und Deadlines eingetragen werden. Neben dem persönlichen Kalender hat auch jeder Workspace seinen eigenen Kalender. Die Kalender können in einen externen Kalenderservice ebenfalls exportiert werden [^1][^4].
 
 ## Integration
-
-## API & Mobile SDKs
+Neben den bereits erwähnten Filesharing Diensten können ebenfalls Zendesk, Campaign Monitor, Evernote, FreshBooks und viele integriert werden. Des weiteren können Excel-Tabellen in Apps importiert werden und Tabellen aus Apps in Excel-Tabellen exportiert werden [^4].
 
 # Kosten
 
 Für Teams von einer bis fünf Personen ist die Software kostenlos [^1]. 
-
-# Eignung
-
-Podio eignet sich zum strukturierten und transparenten Organisieren von Kundenprojekten[3].
-Für diejenigen, die es lieben, an ihren Produkten herumzubasteln und sie so weit wie möglich zu optimieren, ist dies ein wahr gewordener Traum ... 1
 
 # Reviews
 
@@ -80,11 +73,20 @@ Für diejenigen, die es lieben, an ihren Produkten herumzubasteln und sie so wei
 
 So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| Feature | Kostenlos | Basis-Paket | Plus-Paket | Premium-Paket |
+| ------------- | ------------- |------------- |------------- |------------- |
+| Preis| 0,00$ | 7,20$ | 11,20$ | 19,20$ |
+| Task management | x | x | x | x |
+| Apps und workspaces | x | x | x | x |
+| Unlimitierte Items |  | x | x | x |
+| Benutzer Management | | x | x | x |
+| Unlimitierte externe Nutzer | | x | x | x |
+| Light user role | | | x | x |
+| Read-only Zugang | | | x | x |
+| Visuelle Reports | | | | x |
+| Kontaktsynchronisation | | | | x |
+| Interaktive Sale Dashboards | | | | x |
+| Erweiterte automatische Workflows | | | | x |
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
@@ -130,4 +132,4 @@ Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, W
 [^3]: https://www.gruenderkueche.de/gruendertalk/gruenderstories/startup-podio-teamwork-tool-neu-gedacht-die-gruenderstory/
 [^4]: https://podio.com/site/de/features-index
 [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^5]:https://podio.com/site/de/pricing
