@@ -32,7 +32,7 @@ Hieraus werden während des Sprint Planning, die zu erledigenden Punkte für den
 
 # 2. Sprint Backlog
 
-Das Sprint Backlog setzt sich aus den ausgewählten Einträgen aus dem Product Backlog, ergänzt um alle notwendigen Informationen zur Erreichung des Sprintziels, zusammen. Die Produktanforderungen werden selbstständig aus dem Product Backlog gezogen und dienen als Ziel während des aktuellen Sprints. Im Normalfall sollte sich das Product Backlog während eines Sprints nicht verändern, denn die Ansprüche werden so gewählt, dass sie während eines Sprints zu erledigen sind und sie im nächsten darauf aufbauen können. Man spricht hier vom Sprint-Schutz, der dazu dient, dass das Team während des Sprints ungestört und ohne Überraschungen ein potenziell auslieferbares Produkt herstellen kann.
+Das Sprint Backlog setzt sich aus den ausgewählten Einträgen aus dem Product Backlog, ergänzt um alle notwendigen Informationen zur Erreichung des Sprintziels, zusammen. Die Produktanforderungen werden selbstständig aus dem Product Backlog gezogen und dienen als Ziel während des aktuellen Sprints. Im Normalfall sollte sich das Product Backlog während eines Sprints nicht verändern, denn die Ansprüche werden so gewählt, dass sie während eines Sprints zu erledigen sind und sie im nächsten darauf aufbauen können. Man spricht hier vom Sprint-Schutz, der dazu dient, dass das Team während des Sprints ungestört und ohne Überraschungen ein potenziell auslieferbares Produkt herstellen kann.[^1][^2][^4]
 
 
 # 3. Produktinkrement
