@@ -45,9 +45,9 @@ Zunächst ist es wichtig zu verstehen, dass es hier nicht um pure Fakten und Sta
 Die Einführung ist einer der wichtigsten Momente im Projekt. Sie zeigt die Ziele, die Herangehensweise und den Weg auf. Hierbei können Geschichten wie oben bereits erwähnt, ein guter Anfang sein, um den tieferen Sinn des Projekts zu vermitteln. Da Projekte ein insgesamt einmaliges Vorhaben sind, welches geplant und strukturiert ist, kann man auch den gesamten Ablauf des Projekts als Geschichte erzählen und interessant verpacken. Durch ein spannendes Kick-Off, bei welchem man die Mitarbeiter als Protagonisten vorstellt, können Mitarbeiter sich mit neuen Kollegen verknüpfen und sind gespannt auf den Projektablauf[^1]. Hierbei erlernen die Mitarbeiter ihre zukünftigen Zuständigkeiten und Aufgaben von selbst, anstatt starrer Zuweisungen.
 
 
-### Hauptteil / Projektprozess
+### Projektdurchführung
 
-Nun muss man den Kollegen den Projektprozess und die Projektdurchführung durch die Geschichte vermitteln. Hierbei kann man mögliche Probleme als Antagonisten darstellen. Neue Erfahrung und Wissen, welches die Mitarbeiter während dem Projekt erwerben, sollten kein Hindernis. Sie sollten eine Chance sein, die eigenen Fähigkeiten zu verbessern und den eigenen Horizont zu erweitern, was man dementsprechend in der Geschichte vermitteln sollte. Wie die Grafik aufzeigt, ist die Durchführung des Projekts im Vergleich zum Anfang und Ende, weniger spannend und monotone Aufgaben gehören ebenfalls dazu. Deshalb ist es wichtig, auch das den Menschen durch die Geschichte mitzuteilen, aber trotzdem immer das Ziel im Blick zu behalten.
+Nun muss man den Kollegen den Projektprozess und die Projektdurchführung durch die Geschichte vermitteln. Hierbei kann man mögliche Probleme als Antagonisten darstellen. Neue Erfahrung und Wissen, welches die Mitarbeiter während dem Projekt erwerben, sollten kein Hindernis sein. Sie sollten eine Chance sein, die eigenen Fähigkeiten zu verbessern und den eigenen Horizont zu erweitern, was man dementsprechend in der Geschichte vermitteln sollte. Wie die Grafik aufzeigt, ist die Durchführung des Projekts im Vergleich zum Anfang und Ende, weniger spannend und monotone Aufgaben gehören ebenfalls dazu. Deshalb ist es wichtig, auch das den Menschen durch die Geschichte mitzuteilen, aber trotzdem immer das Ziel im Blick zu behalten.
 
 
 ### Projektabschluss
