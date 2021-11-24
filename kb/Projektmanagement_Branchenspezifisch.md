@@ -11,17 +11,17 @@ Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basi
 oben im Front-Matter (Bereich zwischen den `---`).
 
 # Projekt
-Ein Projekt beschreibt laut dem Project Management Institute (PMI) ein Vorhaben, welches zeitlich begrenzt ist und einen im Vorhinein definierten Anfang und ein Ende hat[^1]. Darüber hinaus beinhaltet auch jedes Projekt verschiedene Aufgaben in mehreren Teilbereichen, welche allerdings zur Erreichung eines gemeinsamen Ziels dienen. Das Deutsche Institut für Normung (DIN) definiert das zu erreichende Ziel als ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis[^2].
+Ein [Projekt](Projekt.md) beschreibt laut dem Project Management Institute (PMI) ein Vorhaben, welches zeitlich begrenzt ist und einen im Vorhinein definierten Anfang und ein Ende hat[^1]. Darüber hinaus beinhaltet auch jedes Projekt verschiedene Aufgaben in mehreren Teilbereichen, welche allerdings zur Erreichung eines gemeinsamen Ziels dienen. Das Deutsche Institut für Normung (DIN) definiert das zu erreichende Ziel als ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis[^2].
 
 # Projektmanagement
-Das Projektmanagement besteht folglich insgesamt aus den folgenden Komponenten[^2]: 
+Das [Projektmanagement](Projektmanagement.md) besteht folglich insgesamt aus den folgenden Komponenten[^2]: 
 
 * Führungsaufgaben
 * Führungsorganisation
 * Führungsmittel
 * Führungstechniken 
 
-Etwas abstrakter definiert das PMI das Projektmanagement als die „Anwendung von Wissen, Fähigkeiten, Methoden und Techniken auf die Vorgänge innerhalb eines Projekts“[^2]. Beim Anwenden dieser Komponenten wird das Projektziel stets vor Augen gehalten. An dieser Stelle ist zu erwähnen, dass das Projektmanagement darauf hinarbeitet, dass die geplanten Ziele in der jeweils erwarteten Qualität und innerhalb des geplanten Zeitziels erreicht werden. Gleichermaßen ist es einer der Nebenziele, hierbei die verfügbaren Mittel und Ressourcen möglichst effizient einzusetzen.
+Etwas abstrakter definiert das PMI das Projektmanagement als die „Anwendung von Wissen, Fähigkeiten, [Methoden](Methoden.md) und Techniken auf die Vorgänge innerhalb eines Projekts“[^2]. Beim Anwenden dieser Komponenten wird das Projektziel stets vor Augen gehalten. An dieser Stelle ist zu erwähnen, dass das Projektmanagement darauf hinarbeitet, dass die geplanten Ziele in der jeweils erwarteten Qualität und innerhalb des geplanten Zeitziels erreicht werden. Gleichermaßen ist es einer der Nebenziele, hierbei die verfügbaren Mittel und Ressourcen möglichst effizient einzusetzen.
 
 # Projektmanagement in verschiedenen Branchen
 Die Branche, in der ein Projekt durchgeführt werden soll, ist ein relevanter Faktor bei der Wahl der jeweiligen Methode. Insbesondere bei angestrebten Softwarelösungen nimmt das branchenorientierte Projektmanagement immer mehr an Bedeutung zu[^4]. Jede Branche hat branchenspezifische Gegebenheiten und ebenso verschiedene Grade der Komplexität. Die damit verbundenen Besonderheiten aktiv in die Wahl der Vorgehensweise miteinzubeziehen, trägt maßgeblich dazu bei, eine genau passende Lösung zu entwickeln und umzusetzen. 
@@ -48,9 +48,12 @@ So ist bei einem komplizierten Projektvorhaben, welches von einem stabilen Umfel
 
 
 # Siehe auch
-
+* [Projekt](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Methoden](Methoden.md)
 * [Baubranche](IT-Projekte.md)
 * [IT-Branche](IT-Projekte.md)
+
 
 
 # Quellen
