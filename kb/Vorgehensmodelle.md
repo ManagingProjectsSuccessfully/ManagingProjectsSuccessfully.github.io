@@ -32,6 +32,7 @@ Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
 Klassische Vorgehensmodelle sind Phasenmodelle und beschreiben ein sequentielles Vorgehen. Das bedeutet, dass das Projekt in Phasen gegliedert ist, welche nacheinander ablaufen. "Jede dieser Phasen bündelt dabei eine Reihe von Aktivitäten, welche vollständig und in der richtigen Reihenfolge durchzuführen sind."[^90] Eine Phase muss dabei abgeschlossen sein, bevor eine nächste beginnt. Sie werden auch lineare Vorgehensmodelle genannt. [^30]
 Der wohl geläufigste Vertreter klassischer Vorgehensmodelle ist das [Wasserfallmodell](Wasserfall_Modell.md). Weitere bekannte Beispiele sind das [V-Modell XT](VModell)[^80] und Rational Unified Process[^40][^70].
 
+
 *Bild: Schema eines Phasenkonzepts [^120], S. 23
 
 **Vorteil** von klassischen Vorgehensmodellen ist die einfache Struktur mit klarer Einteilung, welche eine hohe Prozesstransparenz gewährleistet.[^30]
@@ -54,7 +55,7 @@ Agile Vorgehensmodelle können auch eingesetzt werden, wenn die genaueren Anford
 
 ## Weitere Vorgehensmodelle
 Es ist möglich klassische und agile Herangehensweise zu kombinieren, beispielsweise indem ausgewählte Projektphasen oder Teilprojekte eines klassischen Vorgehensmodells agil durchgeführt werden. Solche Kombinationen werden auch als hybride Vorgehensmodelle bezeichnet. [^120]
-Als eigene Art von Vorgehensmodellen wird häufig noch Prototyping aufgeführt. Es ähnelt dem agilen Vorgehen, da das Endergebnis ebenfalls durch schrittweises Ausbauen eines hier Prototyps entsteht. Der Prototyp besitzt dabei früh ausgewählte oder kritische Funktionen, um ein Testen in realisitischer Umgebung zu ermöglichen. [^110]
+Als eigene Art von Vorgehensmodellen wird zusätzlich häufig Prototyping aufgeführt. Es ähnelt dem agilen Vorgehen, da das Endergebnis ebenfalls durch schrittweises Ausbauen eines hier Prototyps entsteht. Der Prototyp besitzt dabei früh ausgewählte oder kritische Funktionen, um ein Testen in realisitischer Umgebung zu ermöglichen. [^110]
 
 
 # Auswahl und Anpassung eines Vorgehensmodells
