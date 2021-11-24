@@ -22,16 +22,20 @@ Software-Projekte scheitern laut Brooks am häufigsten an Zeitnot, die auf der A
 Einer der Gründe für das Entstehen von Zeitnot ist laut Brooks die bei allen Programmierern verankerte Denkweise, alles werde schon gutgehen. Aufgrund ihrer eigenen Arbeitsweise nehmen sie an, dass die Repräsentation ihrer gedanklichen Konzepte frei formbar und flexibel ist und daher die Umsetzung ihrer Vorstellungen problemlos erfolgt. Sie verkennen, dass auch ihre Ideen mangelhaft sein können, wodurch auch ihre Implementierung fehlerbehaftet ist.[^1] Durch diesen Optimismus hinsichtlich der Umsetzung wird der für die Umsetzung benötigte Zeitaufwand regelmäßig unterschätzt.[^2]
 
 ## Der Mann-Monat
-Weitere Ursache für den Zeitverzug ist der Mann-Monat als Schätzeinheit. Der Mann-Monat ist eine Einheit, die als Maßstab von Schätzungen und Zeitvorgaben zugrunde gelegt wird. Der Mann-Monat stellt eine Maßeinheit für die Menge an Arbeit, die eine Person durchschnittlich in einem Monat schafft, dar und ist somit das Produkt von Zeit und Personal.[^3] 
+Der Mann-Monat stellt eine Maßeinheit für die Menge an Arbeit dar, die eine Person durchschnittlich in einem Monat schafft, und ist das Produkt von Zeit und Personal. Er wird als Maßstab von Schätzungen und Zeitvorgaben zugrunde gelegt.[^3] 
 
-Diese zugrunde gelegte Einheit führt jedoch zu einem Trugschluss, da irrtümlich angenommen wird, dass die Faktoren Mann und Monat, also Arbeitskraft und Arbeitszeit, austauschbar sind. Das Verhältnis zwischen Aufwand und Zeit ist jedoch nicht linear, sodass ein höherer Aufwand nicht zu einer verkürzten Zeit führt, was eine Austauschbarkeit ausschließt.
+Diese zugrunde gelegte Einheit führt jedoch zu einem Trugschluss, da irrtümlich angenommen wird, dass die Faktoren Mann und Monat, also Arbeitskraft und Arbeitszeit, austauschbar sind. Das Verhältnis zwischen Arbeitskraft und Zeit ist aber nicht linear, sodass mehr Arbeitskraft nicht zu einer verkürzten Zeit führt, was eine Austauschbarkeit ausschließt.[^1]
 
-Ausnahmsweise liegt eine tatsächliche Austauschbarkeit bei denjenigen Aufgaben vor, die so gestellt und aufgeteilt sind, dass viele Arbeitskräfte sie bewältigen können, ohne dass hierfür ein Informationsaustausch notwendig ist (Abbildung 1). Solche Software-Projekte kommen in der Praxis jedoch unwahrscheinlich vor.
+Eine tatsächliche Austauschbarkeit liegt ausnahmsweise bei denjenigen Aufgaben vor, die so gestellt und aufgeteilt sind, dass viele Arbeitskräfte sie bewältigen können, ohne dass hierfür ein Informationsaustausch notwendig ist (Abbildung 1). Solche Software-Projekte kommen in der Praxis jedoch kaum vor.
 
-*Bild 1*
+![Abbildung](Vom_Mythos_des_Mann_Monats/Arbeitszeit%20vs.%20Arbeitskräfte%20vollständig%20unterteilbar.JPG)
+*Abbildung 1*
 
 
-In der Regel wird jedoch bei der Annahme der Austauschbarkeit von Mann und Monat nach Brooks das Ausmaß der Anstrengung mit Fortschritt verwechselt. Denn wenn eine Aufgabe in einer bestimmten Reihenfolge erfolgt und aus diesem Grund nicht aufteilbar ist, dann ist jede hinzugefügte Anstrengung ohne Auswirkung und hat somit keinen Einfluss auf die Zeit (Abbildung 2). [hier Bild 2.2]
+Wenn aber eine Aufgabe in einer bestimmten Reihenfolge erfolgt und deshalb nicht aufteilbar ist, dann hat jede hinzugefügte Anstrengung keinen Einfluss auf die Zeit (Abbildung 2). 
+
+![Abbildung](Vom_Mythos_des_Mann_Monats/Arbeitszeit%20vs.%20Arbeitskräfte%20unteilbar.JPG)
+*Abbildung 2*
 
 Bei aufteilbaren Aufgaben hingegen ist jedoch ein Informationsaustausch notwendig, der als gewisser Aufwand der zu leistenden Arbeit angerechnet werden muss (Bild 2.3), sodass es sich verlängernd auf die Projektzeit auswirkt.
 
