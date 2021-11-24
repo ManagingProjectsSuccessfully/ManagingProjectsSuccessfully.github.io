@@ -67,42 +67,11 @@ Es ist möglich klassische und agile Herangehensweise zu kombinieren, beispielsw
 Als eigene Art von Vorgehensmodellen wird zusätzlich häufig Prototyping aufgeführt. Es ähnelt dem agilen Vorgehen, da das Endergebnis ebenfalls durch schrittweises Ausbauen eines hier Prototyps entsteht. Der Prototyp besitzt dabei früh ausgewählte oder kritische Funktionen, um ein Testen in realisitischer Umgebung zu ermöglichen. [^110]
 
 
-* Nutzen/Vorteile eines Vorgehensmodells
-  - organisatorischer Rahmen
-  - geben Projekten Struktur
-  - bieten Nutzer:innen Hilfestellung
-
-* Geschichte von Vorgehensmodellen?
-
-* Einordnung agil/klassisch (gibt sowohl als auch, evtl. mehr Beispiele ausführen für k, da Anrechnung k)
-* Gängige Vorgehensmodelle?
-* Mehrere Beispiele für Vorgehensmodelle erklären? Oder nur verlinken? (Was bietet sich an/wozu gibt es eigenen Artikel?)
-  - Wasserfall *Link* (k)
-  - V-Modell (XT) (k)
-  - Spiralmodell [^10]
-  - (PRINCE2 *Link*) [^10]
-  - Extreme Programmierung/Xtreme Programming *Link* (a) [^10]
-  - Scrum *Link* (a) [^10][^120]
-  - (Six Sigma *Link*) [^10]
-  - Rational Unified Process [^40] (k) [^70]
-  - PMBOK [^50]
-  - weitere Kurzübersicht siehe https://www.itwissen.info/Vorgehensmodell-V-Modell.html
-  - Crystal (a)
-  - Microsoft Solutions Framework (a) [^70]
-  - Kanban [^120]
-
 * Wie wählt man ein passendes Vorgehensmodell aus?
   - Tailoring: Anpassung (oftmals "zuschneiden") eines konkreten Vorgehensmodells
     vs.
   - Adaption: Anpassung eines Referenzmodells, um daraus ein Vorgehensmodell abzuleiten [^50]
 
-* Englische Synonyme / ähnlich verwendete Begriffe
-  - (approach) (- nur im Zusammenhang z.B. "agile approach" aber dann nicht zwingend "Vorgehensmodell", sondern auch Herangehensweise etc.)
-  - process model
-  - procedure model
-  - method?? könnte im PMBOK guide Vorgehensmodell unter deren Definition Method fallen?
-  - development approach / life cycle?
-  - 
 # Weiterführende Literatur
 Broy, Manfred; Kuhrmann, Marco (2021): Vorgehensmodelle in der Softwareentwicklung. In: Manfred Broy und Marco Kuhrmann (Hg.): Einführung in die Softwaretechnik. Berlin, Heidelberg: SpringerVieweg (Xpert.press), S. 83–124. Online verfügbar unter https://link.springer.com/content/pdf/10.1007%2F978-3-662-50263-1.pdf.
 
