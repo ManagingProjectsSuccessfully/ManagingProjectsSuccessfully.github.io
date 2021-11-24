@@ -7,7 +7,7 @@ anrechnung: k
 
 Reflexion: "das Nachdenken; Überlegung, prüfende Betrachtung".[^1]
 
-In einer Projektreflexion setzt man sich mit dem zurückliegenden Projekt rückblickend auseinander und besinnt unterschiedlichen Aspekte der Zusammenarbeit nach.[^2]
+In einer Projektreflexion setzt man sich mit dem zurückliegenden Projekt rückblickend auseinander und besinnt unterschiedliche Aspekte der Zusammenarbeit nach.[^2]
 
 
 # Reflexion als Fundament für erfolgreiche Projekte
