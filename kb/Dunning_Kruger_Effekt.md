@@ -1,6 +1,6 @@
 ---
 title: Dunning_Kruger_Effekt
-tags: agil klassisch
+tags: klassisch
 author: Philip290899
 anrechnung: k
 ---
