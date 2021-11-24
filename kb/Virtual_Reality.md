@@ -29,7 +29,7 @@ Der Einsatz von VR-Technologien im PM ist vielfältig:
 - VR in der Projektkommunikation und Kollaboration: z.B. in der Automobilindustrie zum Testen von Autos (Audi), Ausbildung (Volkswagen), virtuelle Ausstellungsräume (Cadillac), usw.
 - Ein Projekt kann sich auf die Entwicklung von Produkten beziehen, die eine Art von VR enthalten: z.B. ein Projekt im kommerziellen Flugverkehr - die Produktion eines HUD, dass eine Überlagerung der geplanten Landebahn zeigt
 - Entwicklungsprojekte kompletter VR-basierter Plattformen für die Echtzeit Remote-Kollaboration, die die Hardware, Software, Wissensaustausch und Echtzeit Remote-Unterstützung in vielen verschiedenen Arten von Projekten umfassen
-- VR kann außerdem in verschiedenen Phasen des Projektmanagements eingesetzt werden, wie in den oben genannten Beispielen veranschaulicht
+- VR kann außerdem in verschiedenen [Phasen des Projektmanagements](Projektphasen_klassisch) eingesetzt werden, wie in den oben genannten Beispielen veranschaulicht
 
 Zwar sind alle Unternehmen und Projektteams von menschlichen Transaktionen und Interaktionen abhängig, doch zwei Sektoren bzw. Branchen veranschaulichen besonders exemplarisch die kollaborative Kraft und zahlreichen Möglichkeiten von VR in Projekten: Architektur, Technik und Bauwesen (AEC) und Gesundheitswesen (siehe Tabelle und weiterführende Literatur ["BIM + VR Technology in Construction Management"](https://iopscience.iop.org/article/10.1088/1742-6596/2037/1/012083)). 
 
@@ -52,13 +52,11 @@ AR/VR ein einfacheres und viel schnelleres Verständnis von großen Datenmengen 
 
 Generell verbessert der Einsatz von VR Technologien in der Instandhaltung die Effizienz (Zeit und Ressourceneinsparung) und erhöht Produktivität. Außerdem ermöglichen sie eine sehr effiziente Überwachung von Maschinen und Prozessen[^3].
 
-Zudem kann der Validierungsprozess in vielen Fällen bereits an den Beginn des Projektes verlegt werden (z.B. [Projektplanung](Projektplanung.md)), da die Visualisierung zukünftiger Produkte nun bereits in der Entwicklungsphase dem Kunden präsentiert präsentiert werden können. Auch die Iterationen und die Anzahl der Versuche und Tests in der Entwicklungsphase müssen nicht mehr teuer und streng begrenzt sein, was für innovative Aktivitäten ermutigend ist[^3].
+Zudem kann der Validierungsprozess in vielen Fällen bereits an den Beginn des Projektes verlegt werden (z.B. [Projektplanung](Projektplanung.md)), da die Visualisierung zukünftiger Produkte nun bereits in der Entwicklungsphase dem Kunden präsentiert werden können. Auch die Iterationen und die Anzahl der Versuche und Tests in der Entwicklungsphase müssen nicht mehr teuer und streng begrenzt sein, was für innovative Aktivitäten ermutigend ist[^3].
 
-Kritisch gesehen wird hingegen vorallem der potenzeielle Einfluss der Technologien auf unsere Gesellschaft. VR und Co. können sehr eindringliche Erlebnisse schaffen, die es den Nutzern ermöglichen, der Realität mühelos zu entkommen. Während viele Menschen dies für eine gute Sache halten, argumentieren andere, dass es dazu führen kann, dass sich die Menschen in ihren Bildschirmen verlieren, anstatt von Angesicht zu Angesicht miteinander zu interagieren [^2]. 
+Kritisch gesehen wird hingegen vor allem der potenzeielle Einfluss der Technologien auf unsere Gesellschaft. VR und Co. können sehr eindringliche Erlebnisse schaffen, die es den Nutzern ermöglichen, der Realität mühelos zu entkommen. Während viele Menschen dies für eine gute Sache halten, argumentieren andere, dass es dazu führen kann, dass sich die Menschen in ihren Bildschirmen verlieren, anstatt von Angesicht zu Angesicht miteinander zu interagieren [^2]. 
 
 Das wohl größte Hindernis der VR-Implementierung im PM sind jedoch die unvermeidlichen Hardware- und Software-Anforderungen. Einige der Hardwareanforderungen für VR-Implementierung im PM könnten Headsets oder spezielle Brillen sein, wie z.B. Microsoft HoloLens oder Oculus Rift. Für professionelle Anwendungen im PM müssen die Hardware-Geräte durch entsprechende Software unterstützt werden, was oft erhebliche materielle Investitionen erfordert. Eine Abwägung der Kosten zu den erwarteten Nutzen [(Kosten-Nutzen-Analyse)](Kosten_Nutzen_Analyse.md) erscheint daher sinnvoll. Dennoch gibt es bereits sehr nützliche und hocheffiziente Werkzeuge für VR im PM die nur Software benötigen und mit Smartphones und Tablet-Geräten arbeiten. Allerdings ist der Anwendungsbereich dieser Technologien für Fachleute nicht so breit und professionell[^3].
-
-Außerdem ist es nicht ganz einfach, eine einmal gewählte Plattform für zukünftige Projekte zu ändern[^3].
 
 Weitere Vor- und Nachteile können den Stärken, Schwächen, Chancen und Risiken der Implementierung von AR/VR-Technologien im PM (siehe 4.1.) entnommen werden. 
 
@@ -72,16 +70,15 @@ Da AR/VR-Technologien einen stetig wachsenden Bereich darstellen, in dem fast t�
 # 5. Future Trends
 Seitdem die ersten Prototypen der bahnbrechenden VR-Technologie vorgestellt wurden, haben Regierungen, Unternehmen und Technologiekonzerne ihr Potenzial erkannt. Sie investieren eine Vielzahl an Ressourcen und Geldern in VR-Projekte. Für das PM bedeutet dies, dass es mit einem Anstieg der Anfragen für das Management solcher Projekte rechnen muss und dass die PM-Ausbildung Experten (bzw. [Spezialistenteams](Spezialistenteams.md) hervorbringen muss, die mit solchen Projekten effizient umgehen können. 
 
-Insbesondere im kollaborativen Anwendungsfeld von VR gibt es noch Verbesserungspotenzial. Oft konzentriert sich die Anwendung von VR mehr auf das gemeinsame Anschauen von Inhalten und weniger auf das kollaborative Arbeiten mit einer Vielzahl an Team- und/oder Projektmitgliedern. VR-Anwendungen, die uns mehr Werkzeuge (wie z.B. Post-its), die für Methoden wie u.A. [Kanban](Kanban.md) notwendig sind, zur Verfügung stellen und mehr auf Zusammenarbeit als auf soziales Beisammensein zugeschnitten sind werden in diesem Zusammenhang immer wichtiger. 
+Insbesondere im kollaborativen Anwendungsfeld von VR gibt es noch Verbesserungspotenzial. Oft konzentriert sich die Anwendung von VR mehr auf das gemeinsame Anschauen von Inhalten und weniger auf das kollaborative Arbeiten mit mehreren Team- und/oder Projektmitgliedern. VR-Anwendungen, die uns mehr Werkzeuge (wie z.B. Post-its), die für Methoden wie u.A. [Kanban](Kanban.md) notwendig sind, zur Verfügung stellen und mehr auf Zusammenarbeit als auf soziales Beisammensein zugeschnitten sind werden in diesem Zusammenhang immer wichtiger. 
 
 
 # Siehe auch
 
-* [Link auf diese Seite](Virtual_Reality.md) 
 * [Kanban](Kanban.md)
 * [SWOT-Analyse](SWAT_Analyse.md)
 * [Megatrends](Megatrends.md)
-* [Customer_Experience](Customer_Experience.md)
+* [Customer Experience](Customer_Experience.md)
 
 # Weiterführende Literatur
 
