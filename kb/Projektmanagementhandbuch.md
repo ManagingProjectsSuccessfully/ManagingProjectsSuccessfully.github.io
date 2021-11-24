@@ -2,7 +2,7 @@
 title: Projektmanagementhandbuch
 tags: klassisch Projektmanagementhandbuch PM-Handbuch 
 author: Harthauer
-anrechnung: klassisch
+anrechnung: k
 ---
 
 # Projektmanagementhandbuch
