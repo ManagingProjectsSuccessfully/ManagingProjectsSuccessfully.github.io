@@ -80,7 +80,7 @@ Fragen an Reviewer/Lehrstuhl (Beitrag hat schon über 500 Wörter):
 1. Der Abstand über und unter dem Diagramm liegt am weißen Hintergrund des Bildes, bin für Ideen für eine bessere Einbettung dankbar 
 2. Bedeutung Software hinzufügen ? 
 3. Abgrenzung zu Lean Projektmanagement aufführen ? 
-4. Nennung und Verlinkung von Scaled Agile Framework (SAFe) ? 
+4. Nennung und Verlinkung von Scaled Agile Framework (SAFe) als agiler Ansatz des Projektportfoliomanagements ? 
 
 ## Quellen
 
