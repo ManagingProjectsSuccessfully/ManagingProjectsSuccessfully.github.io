@@ -14,7 +14,7 @@ Das World-Café eignet sich besonders für größere Gruppen, wobei die Teilnehm
 Die Methode kann dabei helfen, unterschiedliche Ideen und Meinungen zu komplexen Themen zu sammeln, um die verschiedenen Sichtweisen zu verdeutlichen. So können neben offensichtlichen Lösungsansätzen auch unkonventionelle Lösungen und Vorgehensweisen erörtert werden werden.[^1]
 
 # Vorteile
-Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen kann unter anderem folgende Vorteile mit sich bringen:
+Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen hat unter anderem folgende Vorteile:
 * das Wissen Vieler wird vernetzt
 * kreatives und innovatives Denken wird gefördert
 * Interdisziplinärer Erfahrungstausch
