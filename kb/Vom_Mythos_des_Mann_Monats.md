@@ -30,25 +30,22 @@ Eine tatsächliche Austauschbarkeit liegt ausnahmsweise bei denjenigen Aufgaben 
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Arbeitszeit%20vs.%20Arbeitskräfte%20vollständig%20unterteilbar.JPG)
 
-*Abbildung 1*
+*Abbildung 1: Arbeitszeit und Arbeitskräfte aufteilbar*[^1]
 
 
-Wenn aber eine Aufgabe in einer bestimmten Reihenfolge erfolgt und deshalb nicht aufteilbar ist, dann hat jede hinzugefügte Anstrengung keinen Einfluss auf die Zeit (Abbildung 2). 
+Wenn aber eine Aufgabe in einer bestimmten Reihenfolge erfolgt und deshalb nicht aufteilbar ist, dann hat jede hinzugefügte Anstrengung keinen Einfluss auf die Zeit (Abbildung 2). (QUEEEEEEELLEEEE)
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Arbeitszeit%20vs.%20Arbeitskräfte%20unteilbar.JPG)
 
-*Abbildung 2*
+*Abbildung 2: Arbeitszeit und Arbeitskräfte unteilbar*[^1]
 
-Bei aufteilbaren Aufgaben ist hingegen ein Informationsaustausch notwendig, der als Aufwand der zu leistenden Arbeit angerechnet werden muss (Abbildung 3), was sich verlängernd auf die Projektzeit auswirkt. Mit mehr Kommunikationsbeziehungen erhöht sich auch der Aufwand für eine Aufgabe zusätzlich zu dem ohnehin hinzuzurechnenden Aufwand des Informationsaustausches als zu leistende Arbeit.
+Bei aufteilbaren Aufgaben ist hingegen ein Informationsaustausch notwendig, der als Aufwand der zu leistenden Arbeit angerechnet werden muss (Abbildung 3), was sich verlängernd auf die Projektzeit auswirkt. Mit mehr Kommunikationsbeziehungen erhöht sich auch der Aufwand für eine Aufgabe zusätzlich zu dem ohnehin hinzuzurechnenden Aufwand des Informationsaustausches als zu leistende Arbeit.[^1]
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Aufgabe%20mit%20Kommunikation.JPG)
 
-*Abbildung 3*
+*Abbildung 3: Projekt mit Informationsaustausch*[^4]
 
-Beim Informationsaustausch von n Personen sinkt ihr Output mit wachsendem n. Sobald dieser negativ wird, verzögert sich das Projekt mit jeder zusätzlich eingesetzten Person (Abbildung 3).
-
-Anzahl der Kommunikationsbeziehungen: n(n − 1) / 2
-
+Beim Informationsaustausch von n Personen sinkt ihr Output mit wachsendem n. Sobald dieser negativ wird, verzögert sich das Projekt mit jeder zusätzlich eingesetzten Person (Abbildung 3).Dabei ist die Anzahl der Kommunikationsbeziehungen definiert durch: n(n − 1) / 2 [^1][^5]
 
 
 ## Systemprüfung
@@ -67,15 +64,7 @@ Gerät ein Projekt in Zeitverzug, so wird zur Problemlösung angewandt
 Durch Optimismus hat man die Zeit eh zu knapp bemessen 
 
 ## Mythos als Schlussfolgerung
-Es ist laut Brooks daher ein Mythos, dass durch eine Erhöhung der Arbeitskraft die Dauer des Projekts verkürzt werden kann, erst recht nicht kürzer sein kann als die Dauer, die ein Projekt an sich erfordert.
-
-
-# Aspekt 1
-
-
-![Beispielabbildung](Vom_Mythos_des_Mann_Monats/test-file.jpg)
-
-*lustiges Testbild*
+Es ist laut Brooks daher ein Mythos, dass durch eine Erhöhung der Arbeitskraft die Dauer des Projekts verkürzt werden kann, erst recht nicht kürzer sein kann als die Dauer, die ein Projekt an sich erfordert.[^1]
 
 
 # Siehe auch
@@ -96,9 +85,10 @@ Es ist laut Brooks daher ein Mythos, dass durch eine Erhöhung der Arbeitskraft 
 
 [^3]: [Mannjahr](https://wirtschaftslexikon.gabler.de/definition/mannjahr-39390/version-262799), 19.02.2018, abgerufen am 23.11.2021.
 
-[^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^4]: [Projektmanagement aus der Praxis der Softwareentwicklung](https://www-seal.cs.tu-dortmund.de/seal/downloads/teaching/pm1415/2b.%20Aufwandssch%C3%A4tzung%20V1.pdf), 27.10.2014, abgerufen am 23.11.2021
 
-[^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^5]: [Vom Mythos des Mann-Monats](https://de.wikipedia.org/wiki/Vom_Mythos_des_Mann-Monats), abgerufen am 23.11.2021
+
 
 
 
