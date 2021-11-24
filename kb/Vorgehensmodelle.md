@@ -7,7 +7,7 @@ anrechnung: k
 >Kompendium: was zum Lesen und man hat's kapiert
 
 # Kurzbeschreibung zu Vorgehensmodelle
-Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, Rollen - kurz *wer wann was* macht - und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. [^110][^90]
+Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, Rollen - kurz *wer wann was* macht - und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. Sie bieten einen organisatorischen Rahmen und dienen Nutzer:innen als Hilfestellung.[^110][^90]
 Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geeignetes auszuwählen ist keine leichte Aufgabe. Es existieren unterschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur Anpassung.[^50]
 
 # Begriffsdefinition Vorgehensmodell
@@ -66,40 +66,6 @@ Agile Vorgehensmodelle können auch eingesetzt werden, wenn die genaueren Anford
 Es ist möglich klassische und agile Herangehensweise zu kombinieren, beispielsweise indem ausgewählte Projektphasen oder Teilprojekte eines klassischen Vorgehensmodells agil durchgeführt werden. Solche Kombinationen werden auch als hybride Vorgehensmodelle bezeichnet. [^120]
 Als eigene Art von Vorgehensmodellen wird zusätzlich häufig Prototyping aufgeführt. Es ähnelt dem agilen Vorgehen, da das Endergebnis ebenfalls durch schrittweises Ausbauen eines hier Prototyps entsteht. Der Prototyp besitzt dabei früh ausgewählte oder kritische Funktionen, um ein Testen in realisitischer Umgebung zu ermöglichen. [^110]
 
-
-# Auswahl und Anpassung eines Vorgehensmodells
-Die Auswahl eines geeigneten Vorgehensmodells beruht auf /obliegt Experten etc. es gibt Arbeiten, die untersuchen, wie die Auswahl eine sVorgehensmodell IT-unterstütz werden kann, Ratgeber, Handbücher
-Innerhalb einer Organisation empfiehlt es sich ähnliche Vorgehen bzw. einheitliche Begrifflichkeiten zu verwenddeen, um Transparenz zuschaffen und Kommunikjation zu ermöglichen. ? (Quelle 100? 90?)
-Es gibt außerdem Referenzmodelle, die
-Zur Anpassung eines Vorgehensmodells wird unterschieden zwischen Adaption und Tailoring.
-Adaption ist das Erstellen eines Vorgehensmodells anhand eines REferenzmodells. Tailoring ist das Verändern eines konkreten Vorgehensmodells, häufig durch "zuschneiden", also weglassen von Teilen.
-# Englische Begriffe für "Vorgehensmodell"
-Eine exakte Übersetzung für "Vorgehensmodell" gibt es nicht. Begriffe wie "Project Management Methodology" oder "Project Management System" https://www.projektmagazin.de/glossarterm/vorgehensmodell ? procedure model / process model (dict.cc, dict.leo.org, linguee)
-![Bestandteile eines Vorgehensmodells](Vorgehensmodelle/Bestandteile_eines_Vorgehensmodells.png)
-![Ordnungsschema](Vorgehensmodelle/Ordnungsschema%20Kneuper%20et%20al.JPG)
-
-# Stoffsammlung/Checkliste
-* Einführung, die gut auf den Punkt bringt / Bild malt, was Vorgehensmodelle sind
-  
-* Definition des Begriffs
-  - Phasen
-  - Methoden
-  - Aktivitäten in logischer Ordnung verknüpft
-  - Vorgehensmodell als Rahmen, Richtlinie, ...
-  - andere Übersicht siehe [^70]
-
-* Verschiedene Arten von Vorgehensmodellen:
-  - lineare Vorgehensmodelle oder Phasenmodelle
-  - iterative Vorgehnesmodelle
-  - Prototyping Modelle [^30]
-  - agil
-  - klassisch, sequentiell
-  - hybrid [^60]
-  - sequenziell
-  - nebenläufig/paralelle
-  - wiederholende
-  - agile
-  - ... (Leseprobe abgeschnitten) [^80]
 
 * Nutzen/Vorteile eines Vorgehensmodells
   - organisatorischer Rahmen
