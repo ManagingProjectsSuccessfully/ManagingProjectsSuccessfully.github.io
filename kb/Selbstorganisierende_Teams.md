@@ -71,9 +71,10 @@ Wenn ein Team passiv ist und erwartet, dass der Coach oder Scrum Master die Selb
 Oft wird befürchtet, dass eine dominante Persönlichkeit seine Meinung dem Team aufzwingt und alle Entscheidungen trifft. In solch einem Fall ist es wichtig, dass der Vorgesetzter aller Teammitglieder, die dominante Person im persönlichen Gespräch auf seine Verhaltensweise aufmerksam macht und oftmals liegt es daran, dass solche Persönlichkeiten ihre Gedanken als eine Entscheidung darstellen, obwohl es ihre Meinung sein muss. Es ist wichtig, dass alle Teammitglieder wachsen und für zukünftige Projekte weitere Kompetenzen und Erfahrungen ansammeln.
 [^5]
 
-
 ## Fazit 
 Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Teams nicht nur die Projektdurchführung effizient verbessern können und somit auch dem Erfolg des Unternehmens beitragen, sondern auch die Teammitglieder selbst in ihrer eigenen Entwicklung und Selbstverwirklichung weiterbringen. Paradoxerweise ist dennoch die Selbstorganisation erst einmal fremdbestimmt, denn bestimmte Voraussetzungen, Richtlinien und organisatorische Strukturen müssen dennoch vorab geschaffen werden. Dies zeigt auch, dass der Mindset der Führung eine große Rolle dabei spielt ob und wie selbstorganisierende Teams verwirklicht werden können. 
+
+<img src="Selbstorganisierende_Teams/Agile Manifesto Principle.png" alt="Agile Manifesto Principle" width="600"/>[^1]
 
 # Siehe auch
 
