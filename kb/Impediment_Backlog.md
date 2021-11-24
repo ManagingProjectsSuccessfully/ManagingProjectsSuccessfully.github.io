@@ -60,7 +60,7 @@ Der Hinweis auf ein Impediment kann einerseits durch die Projektmitglieder erfol
 **2. Priorisieren:** Hat der Scrum Master ausreichend Informationen über jedes Impediment gesammelt, so kann er eine Priorisierung der Hindernisse nach deren Relevanz vornehmen.[^5][^6]
 
 
-**3. Veröffentlichen:** Für das Bewusstsein über die Hindernisse und den Informationsfluss ist es wichtig, dass das Impediment Backlog dem kompletten Team und dem Product Owner, wenn nicht sogar allen Stakeholdern zur Verfügung steht.[^3][^6]
+**3. Veröffentlichen:** Für das Bewusstsein über die Hindernisse und den Informationsfluss ist es wichtig, dass das Impediment Backlog dem kompletten Team und dem [Product Owner](Product_Owner.md), wenn nicht sogar allen Stakeholdern zur Verfügung steht.[^3][^6]
 
 
 **4. Handeln:** Im Anschluss geht der Scrum Master der Lösung der Probleme nach priorisierter Reihenfolge nach. 
@@ -82,6 +82,7 @@ Oft wird das Impediments Backlog unterschätzt, dabei gehört es als zentrales I
 * [Scrum Master](Scrum_Master.md)
 * [Scrum Guide](Scrum_Guide.md)
 * [Daily Scrum](Daily_Scrum.md)
+* [Product Owner](Product_Owner.md)
 * [Projektmanagement Tools](Uebersicht_PM_Tools.md)
 * [Kanban Boards](Kanban_Boards.md)
 
