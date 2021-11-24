@@ -11,6 +11,8 @@ Eine altbewährte Methode, kreatives, flexibles und hirngerechtes Arbeiten zu er
 Hierbei werden das zentrale Thema in der Mitte der Karte platziert und Notizen dazu rund um den Themabegriff gesammelt. Dies eignet sich, um eine schnelle und gehaltvolle Übersicht auf den ersten Blick bereitzustellen.
 Vom mittleren Hauptthema gehen Verzweigungen aus, die zu Gedanken und Unterpunkten dessen führen, die sich wiederum in weiterführende Zweige aufgliedern können.[^1]
 
+![Abbildung](kb/Mindmapping/schema_mindmap.jpg)
+
 „Mind-Mapping ist der meines Wissens nach effektivste Mechanismus, um die erhöhte Flexibilität des Denkens wirklich werden zu lassen.“ [^2]
 
 Das Konzept des Mind-Mappings wurde von Tony Buzan konzipiert, indem er sich die Frage stellte, wie man sich am besten Dinge merken kann. Er sah darin das Potential, durch Verbildlichung von Texten sowohl die linke als auch die rechte Gehirnhälfte gleichzeitig zu aktivieren und so die Erinnerungsleistung zu optimieren.
@@ -28,6 +30,8 @@ Die Option zusätzlicher Funktionen, wie dem Hinterlegen von Notizen zu einzelne
 Eine verbreitete Vorstufe des Mind-Mappings bildet das Clustern. Das Clustern stellt eine Sonderform des Brainstormings dar. Diese Methode stammt aus dem Umfeld kreativen Schreibens. Im Unterschied zur Mindmap soll beim Cluster jede Assoziation aufgeschrieben werden, ohne sie zu bewerten. Ein Cluster hilft dabei, neue Inhalte durch Assoziationen zu generieren und alle Ideen zu einem Thema zu sammeln.[^3][^4] 
 
 Das sogenannte Conceptmapping ist eine abgewandelte Form der Mindmap, bei der Relationen zwischen den einzelnen Unterpunkten hergestellt werden. Durch das komplexe Kombinieren einzelner Stichpunkte miteinander entsteht ein aussagekräftiges Begriffsnetz. Die Beziehungen zwischen den Begriffen werden anhand von teilweise beschrifteten Linien und Pfeilen definiert. 
+
+![Abbildung](kb/Mindmapping/Concept-map_Visual_Header.jpg)
 
 # Einsatzmöglichkeiten von Mindmaps
 
