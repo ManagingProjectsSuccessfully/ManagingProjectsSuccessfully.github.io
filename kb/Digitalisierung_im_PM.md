@@ -49,7 +49,7 @@ Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Strukt
 
 ![DIHK](https://github.com/Viktoria1412/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM/grafik-herausforderungen-digitalisierungsumfrage-21-data.png)
 
-*Unternehmerischen Herausforderungen bei der Digitalisierung*
+*Unternehmerische Herausforderungen bei der Digitalisierung*
 
 # Siehe auch
 
