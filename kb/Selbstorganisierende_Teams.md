@@ -5,7 +5,7 @@ author: IremAkin
 anrechnung: a
 ---
 
-Die Ursprünge des agilen Projektmanagements stammen aus dem [Toyota Production System](https://github.com/YeldaUzun/ManagingProjectsSuccessfully.github.io/blob/main/kb/Toyota_Produktionssystem.md) (TPS). In diesen Unternehmen waren bereits seit den 1950er selbstorganisierende Teams erfolgreich etabliert. 
+Die Ursprünge des agilen Projektmanagements stammen aus dem [Toyota Production System](Toyota_Production_System.md) (TPS). In diesen Unternehmen waren bereits seit den 1950er selbstorganisierende Teams erfolgreich etabliert. 
 Selbstorganisierende Teams sind ein Kernelement in agilen Projekten. Sie haben keinen Manager oder Projektleiter, der für alle entscheidet, sondern das Team übernimmt neben der Verwirklichung und Durchführung auch die Organisation und Entscheidungen innerhalb der Projektdurchführung. Jedoch wird das Team selbst und die Richtlinien für das Projekt fremdbestimmt, denn zu viel Freiraum kann auch zu Misserfolg führen.[^1]
 
 # Was sind selbstorganisierende Teams? 
@@ -84,7 +84,7 @@ Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Team
 * [Daily](Daily_Scrum.md) 
 * [Retrospective](Retrospective.md)
 * [Product Owner](Product_Owner.md)
-* [Scrum Master](User ist nicht mehr in der MPS Gruppe)
+* [Scrum Master](Scrum_Master.md) 
 * [Scrum](Scrum.md) 
 
 # Weiterführende Literatur
