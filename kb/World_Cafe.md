@@ -33,6 +33,7 @@ Bei der Planung müssen folgende Fragen geklärt werden:
 * Wer übernimmt die Moderation ?
 * Wie kann man eine zwangslose Atmosphäre schaffen, die informelle und kreative Gespräche hervorbringt[^5]
 
+
 Zudem werden folgende Hilfsmittel benötigt:
 1. Ein Raum, der groß genug für mehrere Gruppentische ist (dieser kann nach belieben gestaltet werden, doch je mehr die Atmosphäre der eines Cafés ähnelt, desto besser) 
 2. Gruppentische mit 4-6 Stühlen
