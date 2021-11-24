@@ -5,7 +5,7 @@ author: JaBa3000
 anrechnung: k 
 ---
 
-Die Triple Bottom Line ist ein Ansatz für nachhaltiges [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), bei dem der Unternehmenserfolg neben der Ökonomie auf
+Die Triple Bottom Line ist ein Ansatz für nachhaltiges [Projektmanagement](Projektmanagement.md), bei dem der Unternehmenserfolg neben der Ökonomie auf
 zwei weitere Dimensionen, nämlich Ökologie und Soziales beruht. Um nachhaltigen Erfolg zu haben müssen  alle drei Bereiche berücksichtigt werden.[^1]
 
 
@@ -13,7 +13,7 @@ zwei weitere Dimensionen, nämlich Ökologie und Soziales beruht. Um nachhaltige
 
 Der Begriff der Triple Bottom Line wurde vor allem von dem amerikanischen Unternehmensberater John Elkington Mitte der 1990er Jahre geprägt. Er erweiterte damit die Sichtweise
 von Unternehmen, nicht nur wirtschaftliche, sondern auch soziale und ökologische Aspekte gleichzeitig zu berücksichtigen, um langfristig eine erfolgreiche und [nachhaltige 
-Entwicklung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Entwicklung.md) zu erreichen.[^2][^3] 
+Entwicklung](Nachhaltige_Entwicklung.md) zu erreichen.[^2][^3] 
 Zur gleichen Zeit wurde in Deutschland vom Verband der chemischen Industrie ein ähnliches Modell entwickelt.[^4]
 
 
@@ -66,8 +66,8 @@ Im Vorrangmodell besteht das Prinzip der starken Nachhaltigkeit. Hier kann eine 
 # Siehe auch
 
 * [Triple_Bottom_Line_Nachhaltigkeit](Triple_Bottomline_Nachhaltigkeit.md)
-* [Nachhaltige_Entwicklung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Entwicklung.md)
-* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Nachhaltige_Entwicklung](Nachhaltige_Entwicklung.md)
+* [Projektmanagement](Projektmanagement.md)
 
 # Weiterführende Literatur
 
