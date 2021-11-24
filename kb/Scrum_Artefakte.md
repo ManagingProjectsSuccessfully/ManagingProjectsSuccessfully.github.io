@@ -120,7 +120,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/edit/main/kb/Scrum_Artefakte.md)
+* [Link auf diese Seite](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Artefakte.md)
 
 # Weiterführende Literatur
 
