@@ -113,32 +113,44 @@ Der Vorteil, man bleibt beim lesen des Boards bei dieser Spalte hängen und Prod
 2. Messen und Steuerung des Flusses
 
 Das Kanban Board hilft dabei, den Arbeitsfluss gut zu beobachten und Verbesserungen unmittelbar zu identifizieren. 
-Es ist wichtig, diese Boards immer von Rechts nach Links zu lesen, denn man fragt sich dabei automatisch, was es bracuht um den fluss der arbeit aufrecht zu erhalten, wie kann man blocker auflösen oder die arebeit voran bringen?
-es ist wertvoller dinge fertig zu stelen als neue dinge anzufangen.
-STOP STARTING, START FINISHING
+Es ist wichtig, diese Boards immer von Rechts nach Links zu lesen. Grundfrage: "Wie schaffen wir es, genau soviel zu produzieren, wie im nachfolgendem Schritt 
+benötigt wird?". []https://www.pinkuniversity.de/kanban-methode/
+
 
 3. Pull statt Push
-arbeit erst nachziehen, wenn aufgabe ereledigt ist. nicht zugewiesen sondern geholt, automatisch anzahl geregeltz
 
-4. LIMITIERE DEI MENGE ANGEFANGENER ARBEIT
+Die Arbeit erst nachziehen, wenn die Aufgabe ereledigt ist. Sie wird nicht zugewiesen sondern geholt. Es ist wertvoller Dinge fertig zu stellen als neue Dinge 
+anzufangen. STOP STARTING, START FINISHING.[] https://www.youtube.com/watch?v=yW28P8MwCr4
 
-WIP Limits (Work IN Progres LImits), begrenzung der maximalen anzahl an tast für einen bestimmten Bereich.
-Bsp: sytem limit: auf dem ganzen board max. ur 50 Karten
-oder Limit für eine swimlane, jedoch vorallem wiederfindbar in spalten
-hilfreich um den fokus zu wahren und dinge schneller fertig u stellen 
 
-5.Kommunikation 
-mit den karten werden automatisch alle wichtigen Informationen transportiert.
+4. Limitiere die menge angefangener Arbeit
 
-## BEISPIELE VON kANBANBOARDS
+Per WIP-Limits (Work In Progres-Limits), begrenzt man die maximale anzahl an Aufgaben für einen bestimmten Bereich.
+- Bsp. Sytemlimit: auf dem ganzen Board dürfen lediglich maximal  50 Karten erscheinen, Swimlane-limit oder Spalten-limit
+      
+Limits sind hilfreich um den Fokus zu wahren und Dinge schneller zu vollenden.
 
-Durch die beliebtheit der Kanban Boards findet man sie fast überall.
+
+5. Kommunikation 
+
+Mit den Kanban Karten werden automatisch alle wichtigen Informationen transportiert.
+
+
+## Beispiele von Kanban Boards [] https://kanbantool.com/de/kanban-board-beispiele
+
+Durch die beliebtheit der Kanban Boards findet man sie nahezu überall.
 Häufig um Geschäftsprozesse abzubilden, jedoch auch zur Förderung der Teamwork oder dem organisieren privater Aufgaben.
-Sie unterscheiden sich in ihrer struktur durch ihre zunehmenden Spalten und Reihen, durch welche die Komplexität aufgezeigt werden.[^2]
+Sie unterscheiden sich in ihrer Struktur durch ihre zunehmenden Spalten und Reihen, anhand die Komplexitäten der unterschiedlichsten Prozesse aufgezeigt werden.[^2]
 
-* Digitales Board (Tools: trello, planner, jira)
+* Digitales Board 
+ -erstellt mithilfe von Tools: Trello, Planner, Jira uvm.
 
-* Großes physisches Board (whiteboard mit post its)
+
+
+
+
+* Großes physisches Board 
+ -Whiteboard mit Post-it's
 
 hauotziel: Information radiators: information von innen nach aussen sichtbar zu machen
 produktions und arbeitsabläufe in einem kontinuierelichen fluss zu bekommen
