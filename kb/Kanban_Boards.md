@@ -56,7 +56,8 @@ Im Klassischen Modell gibt es 3 Spalten:
 * In Arbeit         
 * Erledigt          
 
-<img width="676" alt="Bildschirmfoto 2021-11-24 um 13 39 58" src="https://user-images.githubusercontent.com/92926914/143240403-76170ead-1dc3-4e88-aaad-7973c3fa0431.png"> [^6]
+<img width="676" alt="Bildschirmfoto 2021-11-24 um 13 39 58" src="https://user-images.githubusercontent.com/92926914/143240403-76170ead-1dc3-4e88-aaad-7973c3fa0431.png"> 
+[^6]
 
 *Klassisches Kanban Board*
 
@@ -108,9 +109,7 @@ Mittels den vorherigen 4 Schritten, ist das Taskboard angelegt und man kann scho
 | 2.    Messen und Steuerung des Flusses                  |
 | 3.    Pull statt Push                                   |
 | 4.    Limitiere die Menge angefangener Arbeit           |
-| 5.    Kommunikation                                     |
-
-[^7]
+| 5.    Kommunikation                                     |[^7]
 
 
 
@@ -176,12 +175,13 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
 [^3]: [Was ist eine Kanban karte?](https://kanbanize.com/de/kanban-ressourcen/kanban-erste-schritte/was-ist-kanban-karte)
 [^4]: [Kanban Board Bestandteile](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
 [^5]: [Die Anwendung von Task Boards](https://www.youtube.com/watch?v=yW28P8MwCr4)
-[^6]: [Klassisches Kanban Board](https://www.istockphoto.com/de/vektor/scrum-management-board-workflow-projekt-auf-tablet-pc-vektor-illustration-gm1206234325-    347809570)
+[^6]: [Klassisches Kanban Board]
+(https://www.istockphoto.com/de/vektor/scrum-management-board-workflow-projekt-auf-tablet-pc-vektor-illustration-gm1206234325-347809570)
 [^7]: [Prinzipien Kanban](https://www.pinkuniversity.de/kanban-methode/)
 [^8]: [Beispiele Kanban Boards](https://kanbantool.com/de/kanban-board-beispiele)
 [^9]: [Organisationsmethoden](https://utopia.de/ratgeber/kanban-board-system-praktische-beispiele-und-tipps/)
-[^10] [Kanban Board in der Software Entwicklung](http://edutechwiki.unige.ch/en/Kanban_board)
-[^11] [Ein familien Kanban Board](http://edutechwiki.unige.ch/en/Kanban_board)
-[^12] [kLassisches Kanban Board Beispiel] (https://kanbantool.com/de/kanban-board-beispiele)
+[^10]: [Kanban Board in der Software Entwicklung](http://edutechwiki.unige.ch/en/Kanban_board)
+[^11]: [Ein familien Kanban Board](http://edutechwiki.unige.ch/en/Kanban_board)
+[^12]: [Klassisches Kanban Board Beispiel] (https://kanbantool.com/de/kanban-board-beispiele)
 
 
