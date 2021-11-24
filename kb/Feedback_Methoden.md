@@ -6,7 +6,7 @@ anrechnung: a
 ---
 
 Der Begriff des Feedbacks hat seinen Ursprung in der Kybernetik und bedeutet so viel wie Rückmeldung oder Rückkoppelung. Wenn man Feedback gibt, teilt man seine Wahrnehmung über
-eine Person oder Leistung dieser mit. Es gibt verschiedene Formen des Feedbacks beispielsweise im klassischen oder agilen [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md).[^1][^2]
+eine Person oder Leistung dieser mit. Es gibt verschiedene Formen des Feedbacks beispielsweise im klassischen oder agilen [Projektmanagement](Projektmanagement.md).[^1][^2]
 Jede einzelne bezeichnet man als Feedbackmethode.
 
 
@@ -15,7 +15,7 @@ Jede einzelne bezeichnet man als Feedbackmethode.
 Die Wahl der passenden Art des Feedbacks hängt von einigen Faktoren ab. Zum einen an wen oder über was Rückmeldung gegeben werden soll oder ob dieses fachlich oder personell
 ist. Zum anderen der Zeitpunkt – falls nötig – die Frequenz der Rückmeldung.[^2][^3]
 Im Prinzip gibt es drei verschiedene Feedbackmethoden: Individuelles, kollaboratives und qualitatives Feedback. Individuelles Feedback gibt Rückmeldung zur Leistung des
-einzelnen [Teammitglieds](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md), während kollaboratives das
+einzelnen [Teammitglieds](Projektmitarbeiter.md), während kollaboratives das
 Projektteam und dessen Zusammenspiel als Ganzes bewertet. Am Ende eines Projektes steht vor allem die Einschätzung des
 finalen Produkts durch den Auftraggeber im Fokus, also das qualitative Feedback.[^6]
 Hierbei gibt es wesentliche Unterschiede zwischen klassischem und agilem Projektmanagement.
@@ -45,8 +45,8 @@ bzw. Sprint Rückmeldung vom Kunden eingeholt, welches im nächsten Zyklus umges
 
 *Abbildung 2[^3]*
 
-Ferner führen die Teams und Teilnehmer eines agilen Projekts nach jeder Iteration eine sog. [Retrospektive](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Retrospective.md), als kollaboratives Feedback, durch. Hierbei wird das
-Zusammenspiel der verschiedenen Mitglieder analysiert und Verbesserungsvorschläge gegeben.[^8]
+Ferner führen die Teams und Teilnehmer eines agilen Projekts nach jeder Iteration eine sog. [Retrospektive](Retrospective.md), als kollaboratives Feedback, durch. Hierbei wird
+das Zusammenspiel der verschiedenen Mitglieder analysiert und Verbesserungsvorschläge gegeben.[^8]
 Der große Vorteil dieses Feedback-Modells ist, dass durch das regelmäßige qualitative Feedback der Stakeholder, vor allem der Kunden, kaum Gefahr besteht den vorab gestellten
 Anforderungen nicht gerecht zu werden.[^3] Deswegen wird agiles Projektmanagement häufig für Produkte verwendet, die durch rasante Entwicklung vielen Änderungen der
 Anforderungsansprüche ausgesetzt sind, wie beispielsweise in der Softwareentwicklung.[^8]
@@ -56,19 +56,22 @@ Anforderungsansprüche ausgesetzt sind, wie beispielsweise in der Softwareentwic
 
 Während beim klassischen Projektmanagement vor allem das qualitative Feedback zur Beurteilung des Erfolges eines Projektes herangezogen wird, so wird beim agilen auch noch 
 teilweise das individuelle, aber durch die Retrospektive auch das kollaborative Feedback mit einbezogen. Dadurch und durch die Regelmäßigkeit der Rückkopplung mit den
-verschiedenen Stakeholdern, bietet das agile Projektmanagement ein geringeres Risiko, dass sich ein [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) in eine falsche Richtung zu entwickeln.[^3][^6]
+verschiedenen Stakeholdern, bietet das agile Projektmanagement ein geringeres Risiko, dass sich ein [Projekt](Projekt.md) in eine falsche Richtung zu entwickeln.[^3][^6]
+
 
 # Siehe auch
 
 * [Feedback_Methoden](Feedback_Methoden.md)
-* [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
-* [Retrospective](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Retrospective.md)
-* [Projektmitarbeiter](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md)
-* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Projekt](Projekt.md)
+* [Retrospective](Retrospective.md)
+* [Projektmitarbeiter](Projektmitarbeiter.md)
+* [Projektmanagement](Projektmanagement.md)
+
 
 # Weiterführende Literatur
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
 
 # Quellen
 
