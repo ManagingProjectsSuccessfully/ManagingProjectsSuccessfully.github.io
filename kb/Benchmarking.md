@@ -5,10 +5,10 @@ author: alexandermueller296
 anrechnung: a
 ---
 
-## Definition des Benchmarkings
+# Definition des Benchmarkings
 „[Benchmarking](https://de.wikipedia.org/wiki/Benchmark) (sinngemäß „Maßstäbe vergleichen“) bezeichnet die vergleichende Analyse von Ergebnissen oder Prozessen mit einem festgelegten Bezugswert oder Bezugsprozess."„Ein/eine Benchmark (von englisch benchmark oder bench mark) ist ein Vergleichsmaßstab.“ [^1]
 
-## Die 5 Schritte des Benchmarkings
+# Die 5 Schritte des Benchmarkings
 ### Phase 1: Beschreibung der der Benchmarking-Aspekte und des Leistungsniveaus
 Die erste Phase des Prozesses beinhaltet die Festlegung der Themen, welche überhaupt verglichen werden sollen. Es soll die Auswahl nach den übergeordneten strategischen Unternehmenszielen getroffen werden.
 Diese Fragen stellen Klarheit über die Auswahl der Unternehmensziele:
@@ -55,31 +55,19 @@ Dieses Diagramm wurde als erstes im Qualitätsmanagement angewandt. Jedoch kann 
 Zum Ende der Prozesskette müssen die vorherigen Phasen umgesetzt werden und die Verbesserungen im eigenen Unternehmen angewandt werden. Zusätzlich sollen die Erkenntnisse am Ende in einer Abschlussdokumentation zusammengefasst werden.[^2]
 
 
+![5 Phasen des Benchmarking](Benchmarking/LeitfadenmitPhasenfüreinBenchmarkingProjekt-e1556105881300.jpg)
 
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-
-![Beispielabbildung](Benchmarking/test-file.jpg)
-
-*lustiges Testbild*
-
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+*Die 5 Phasen des Benchmarkings als Diagramm dargesellt* [^3]
 
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Benchmarking.md)
+* [Aenderungsmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aenderungsmanagement.md)
+* [Umfeldanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umfeldanalyse.md)
+* [Qualitätsmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Qualitaetsmanagement.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Dr. Walter Gruber/Ulrike Janotta (2003). Benchmarking im Projektmanagement. MOVEYOURMIND Projektmanagement
 
 # Quellen
 
