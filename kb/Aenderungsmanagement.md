@@ -47,18 +47,18 @@ Ein Vorteil des Änderungsmangements besteht darin, dass den Änderungen struktu
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Madauss, B. (2000). Projektmanagement. Theorie und Praxis aus einer Hand. Springer.](https://doi.org/10.1007/978-3-662-59384-4)
 
 # Quellen
 
-[^1]: vgl. [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 86-91](https://doi.org/10.1007/978-3-662-46458-8)
-[^2]: [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 86](https://doi.org/10.1007/978-3-662-46458-8)
-[^3]: [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 86](https://doi.org/10.1007/978-3-662-46458-8)
-[^4]: vgl. [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 86-91](https://doi.org/10.1007/978-3-662-46458-8)
-[^5]: [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 88](https://doi.org/10.1007/978-3-662-46458-8)
+[^1]: vgl. [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 86-91.](https://doi.org/10.1007/978-3-662-46458-8)
+[^2]: [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 86.](https://doi.org/10.1007/978-3-662-46458-8)
+[^3]: [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 86.](https://doi.org/10.1007/978-3-662-46458-8)
+[^4]: vgl. [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 86-91.](https://doi.org/10.1007/978-3-662-46458-8)
+[^5]: [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 88.](https://doi.org/10.1007/978-3-662-46458-8)
 [^6]: vgl. https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/aenderungsmanagement/
-[^7]: vgl. [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 86-91](https://doi.org/10.1007/978-3-662-46458-8)
-[^8]: vgl. [Grande, M. (2013). 100 Minuten für Konfigurationsmanagement. Kompaktes Wissen nicht nur für Projektleiter und Entwickler. Springer, 80](https://doi.org/10.1007/978-3-8348-2308-3)
+[^7]: vgl. [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 86-91.](https://doi.org/10.1007/978-3-662-46458-8)
+[^8]: vgl. [Grande, M. (2013). 100 Minuten für Konfigurationsmanagement. Kompaktes Wissen nicht nur für Projektleiter und Entwickler. Springer, 80.](https://doi.org/10.1007/978-3-8348-2308-3)
 
 
 
