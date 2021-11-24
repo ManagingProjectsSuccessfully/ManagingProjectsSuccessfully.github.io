@@ -1,8 +1,8 @@
 ---
 title: Nicht_Funktionale_Anforderungen
-tags: agil klassisch
+tags: klassisch agil anforderungen projektmanagement
 author: seriousTake
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Nicht_Funktionale_Anforderungen um ein erstes Verständnis dafür zu schaffen um was es hier geht.
