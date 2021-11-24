@@ -113,7 +113,7 @@ Mittels den vorherigen 4 Schritten, ist das Taskboard angelegt und man kann scho
 
 
 
-## Beispiele von Kanban Boards [^8]
+# Beispiele von Kanban Boards [^8]
 
 Durch die Beliebtheit der Kanban Boards findet man sie heutzutage nahezu überall.
 Häufig um Geschäftsprozesse abzubilden oder dem organisieren privater Aufgaben.
@@ -160,7 +160,8 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
 
 # Weiterführende Literatur
 
-* https://www.amazon.de/dp/172392959X?tag=dpm-aawp-bubox-21&linkCode=ogi&th=1&psc=1
+* [Kanban für Anfänger](https://www.amazon.de/dp/172392959X?tag=dpm-aawp-bubox-21&linkCode=ogi&th=1&psc=1)
+* [Lessons in Agile Management](https://www.amazon.de/Lessons-Agile-Management-Road-Kanban/dp/0985305126)
 
 # Quellen
 
