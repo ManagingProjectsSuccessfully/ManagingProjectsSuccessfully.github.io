@@ -25,7 +25,7 @@ Apps können durch das Workflow-Feature mit einer Wenn-Dann-Funktion programmier
 ### Webformulare
 Von Podio gehoste Webformulare können in Websites integriert werden, wie beispielsweise eine Kontaktseite. Die Informationen gelangen direkt in die Polio Apps. 
 ### Podio Share
-Durch Podio Share können Appeinträge, wie beispielsweise ein Projekt aus einer Projekt App, intern und extern geteilt werden.
+Durch Podio Share können Appeinträge, wie beispielsweise ein [Projekt](Projekt.md) aus einer Projekt App, intern und extern geteilt werden.
 
 ## Workspaces
 
