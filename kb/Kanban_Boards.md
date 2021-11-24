@@ -26,10 +26,10 @@ Bis heute ist die Lean Produktion und Kanban Methode als Organistationsform in g
 
 # Was ist ein Kanban Board?
 
-[Kanban](https://de.wikipedia.org/wiki/Kanban)kommt aus dem Japaischen und bedeutet "Signal" - "Karte".
+[Kanban](https://de.wikipedia.org/wiki/Kanban) kommt aus dem Japaischen und bedeutet "Signal" - "Karte".
 Das Kanban Bord mit seinen Kanban Karten, ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus verschiedener Prozessabläufe gibt,
 um schnell Problemstellen eines Arbeitsflusses aufzudecken und die Kommunikation im Team erleichtert.
-Zudem ist es auch ein Schlüsselelement der Kanban Methode, die zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses beiträgt.[^1]
+Als Schlüsselelement der Kanban Methode, trägt ein Kanban Board zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses bei.[^1]
 
 
 # Wie funktioniert ein Kanban Board?
