@@ -71,8 +71,6 @@ Neben den bereits erwähnten Filesharing Diensten können ebenfalls Zendesk, Cam
 | Interaktive Sale Dashboards | | | | x |
 | Erweiterte automatische Workflows | | | | x |
 
-# Reviews
-
 # Siehe auch
 
 * [Projektmanagementsoftware](Projektmanagementsoftware.md)
@@ -96,11 +94,9 @@ Neben den bereits erwähnten Filesharing Diensten können ebenfalls Zendesk, Cam
 
 # Quellen
 
-[^1]: Keiser, B. E. (2014). Tools Will Keep Us Together: Collaboration for Library Teams. Online Searcher, S. 52-57.
-Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: https://www.salesforce.com/de/learning-centre/crm/crm-systems/
-[^3]: https://www.gruenderkueche.de/gruendertalk/gruenderstories/startup-podio-teamwork-tool-neu-gedacht-die-gruenderstory/
-[^4]: https://podio.com/site/de/features-index
-[Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-[^5]:https://www.proquest.com/docview/2095554792/9CD7482B82C4B3BPQ/3?accountid=10755
-[^6]:https://podio.com/site/de/pricing
+[^1]: [Tools Will Keep Us Together: Collaboration for Library Teams](https://www.proquest.com/docview/1500950470/9CD7482B82C4B3BPQ/5?accountid=10755)
+[^2]: [CRM-Systeme - Ein Leitfaden für Einsteiger](https://www.salesforce.com/de/learning-centre/crm/crm-systems/)
+[^3]: [Die Gründerstory Podio](https://www.gruenderkueche.de/gruendertalk/gruenderstories/startup-podio-teamwork-tool-neu-gedacht-die-gruenderstory/)
+[^4]: [Features-Index](https://podio.com/site/de/features-index)
+[^5]:[Citrix Unveils Podio Instant Messaging and Video Chat](https://www.proquest.com/docview/2095554792/9CD7482B82C4B3BPQ/3?accountid=10755)
+[^6]:[Pricing](https://podio.com/site/de/pricing)
