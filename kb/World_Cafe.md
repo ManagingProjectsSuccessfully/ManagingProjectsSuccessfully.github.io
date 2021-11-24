@@ -68,7 +68,7 @@ Die zuvor genannte Vorgehensweise ist flexibel anpassbar und Komponenten, wie et
 
 * [World-Café](https://de.wikipedia.org/wiki/World-Café)
 * [Den Austausch und Diskussionen mit einem World Café anregen](https://www.youtube.com/watch?v=ekCPJlcYZ0Y)
-* [World Café (Weltcafé) Methode](https://www.europa-union.de/fileadmin/files_eud/PDF-Dateien_EUD/Best_Practice/Rezepte_WorldCafé.pdf0\)
+* [World Café (Weltcafé) Methode](https://www.europa-union.de/fileadmin/files_eud/PDF-Dateien_EUD/Best_Practice/Rezepte_WorldCafé.pdf)
 
 
 # Quellen
