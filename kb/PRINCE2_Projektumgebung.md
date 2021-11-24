@@ -13,7 +13,7 @@ PRINCE2 steht für Projects in Controlled Environments oder auch Projekte in kon
 PRINCE2 gehört zu den am häufigsten verwendeten [Projektmanagementmethoden](Projektmanagement.md) [^2]. Dank dieser Methode ist es möglich, jederzeit den Beginn, den Verlauf und den Abschluss von Projekten zu kontrollieren. Was genau unter einem [Projekt](Projekt.md) zu verstehen ist, kann man in der Verlinkung nachlesen. Um mehr über PRINCE2 zu erfahren empfehle ich das Kompendium [PRINCE2](PRINCE2.md). 
 
 # Was sind die Bestandteile von PRINCE2?
-* [Sieben Grundprinzipien](PRINCE2_7_Grundprinzipien): Sie definieren die grundlegenden Regeln
+* [Sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md): Sie definieren die grundlegenden Regeln
 * Sieben Prozesse: Sie beschreiben das schrittweise Vorgehen während dem Projekt 
 * Sieben Themen: Das sind die Aspekte des Projektmanagements, die kontinuierlich behandelt werden müssen [^3]
  
