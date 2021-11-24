@@ -7,7 +7,7 @@ anrechnung: k oder a
 
 ![Image](Podio_PM_Tool/podio-logo.png)
 
-[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können [^1]. Podio unterstützt die individuelle Arbeitsweise sowie das flexible, strukturierte, kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe zurück, indem es ihnen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer wichtiger Informationen liefert [^1][^3]. Die Firma Podio Europe hat ihren Hauptsitz in Kopenhagen, Dänemark[^3].
+[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können. Podio unterstützt die individuelle Arbeitsweise sowie das flexible, strukturierte, kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe zurück, indem es ihnen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer wichtiger Informationen liefert [^1][^3]. Die Firma Podio Europe hat ihren Hauptsitz in Kopenhagen, Dänemark[^3].
 
 # Geschichte
 
@@ -18,8 +18,14 @@ Seit 2012 ist Podio Teil des US-amerikanische Softwareunternehmen [Citrix-System
 # Funktionen
 
 ## Apps
+### PodioApps
+Die Nutzer haben durch das cloudbasierte CRM-System die Möglichkeit eine Vielzahl von Apps ihrem Konto hinzuzufügen. Dafür existiert innerhalb von Polio ein App Market der     nach Funktion und Branche sortiert ist. Die Apps bieten die Möglichkeit Informationen zu organisieren, zu visualisieren und mit internen Mitarbeitenden oder externen Partein zu  teilen [^1]. Falls eine gewünschte Funktion einer App noch nicht auf dem Market bedient wird, haben Benutzer die Möglichkeit über ein Drag and Drop Interface eigene Apps zu erstellen. Dabei wurden bereits über eine Millionen Apps von Benutzern entwickelt [^4].
+### Reporting
+Mit den Daten aus den Apps des Kunden können durch Filter und Report Optionen Salespipelines automatisiert und Projektbudgets verfolgt werden[^4].
+### Workflows
+Apps können durch das Workflow-Feature mit einer Wenn-Dann-Funktion programmiert werden. So erstellt eine App beispielsweise eine Aufgabe sobald ein Eintrag erstellt wird [^4].
+### Webformulare
 
-Die Nutzer haben durch das cloudbasierte CRM-System die Möglichkeit 
 
 ## Workspaces
 
@@ -38,6 +44,7 @@ Für Teams von einer bis fünf Personen ist die Software kostenlos [^1].
 # Eignung
 
 Podio eignet sich zum strukturierten und transparenten Organisieren von Kundenprojekten[3].
+Für diejenigen, die es lieben, an ihren Produkten herumzubasteln und sie so weit wie möglich zu optimieren, ist dies ein wahr gewordener Traum ... 1
 
 # Reviews
 
@@ -102,5 +109,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: https://www.salesforce.com/de/learning-centre/crm/crm-systems/
 [^3]: https://www.gruenderkueche.de/gruendertalk/gruenderstories/startup-podio-teamwork-tool-neu-gedacht-die-gruenderstory/
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: https://podio.com/site/de/features-index
+[Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
