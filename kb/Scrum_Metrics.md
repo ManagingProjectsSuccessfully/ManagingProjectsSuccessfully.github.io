@@ -47,7 +47,7 @@ Während der Sprint Planung werden Große Projektziele auf detailierte kleinere 
 
 Wie viel Aufgabenlast ein Team tragen kann hängt davon ab, wie effizient das Team ihre Zeit verwenden kann oder welche Kapazitat das Team besitzt.
 
-### Team Geschwindigkeit (Team Velocity)[^2][^4][^6]
+### Team Geschwindigkeit (Team Velocity)[^2][^4][^5]
 
 Die Geschwindigkeit eines Teams, kann anhand eines Balkendiagramms interpretiert werden. Dabei werden je nach Sprint, der vorgenommene und wirklich abgeschlossene Arbeitsaufwand anschaulich gegenüber gestellt. Der Arbeitsaufwand wird dabei an Story Points, Stunden oder Anzahl an Aufgaben angegeben.
 > Durchschnittliche realisierte Anzahl an Story Points pro Sprint = Team Geschwindigkeit 
@@ -75,7 +75,7 @@ Nach vorhersehbarem Stand, ist die Teamkapazität:[5]
 
 Um spontane Ausfälle von Teammitgliedern mit einzubeziehen ist es ratsam die Arbeitslast, in der Sprint Planung, um 10% niedriger zu halten.[2]
 
-### Focus Faktor[^6]
+### Focus Faktor[^5]
 Der Focus Faktor, definiert die Zeit, wo das Team konzentriert auf den Aufgaben arbeiten. Diese ist wie folgt zu berechnen:
 
 > Sprint Geschwindigkeit / Team Kapazität = Focus Faktor
@@ -129,6 +129,6 @@ Team Kapazität -> https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_
 
 [^4]:  [t2informatik](https://t2informatik.de/wissen-kompakt/velocity-chart)
 
-[^5]: [YouTube] (https://youtu.be/CZDNWTuR3i8)
+[^5]: [www.scrum-institute.org](https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams)
 
-[^6]: [www.scrum-institute.org](https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams)
+[^6]: [YouTube] (https://youtu.be/CZDNWTuR3i8)
