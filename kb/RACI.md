@@ -27,7 +27,6 @@ Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umf
 
 ## So kann eine RACI-Matrix aussehen:
 
-![Beispielabbildung](RACI/test-file.jpg)
 
 <br>
 
