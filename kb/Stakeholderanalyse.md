@@ -13,7 +13,7 @@ Kurzbeschreibung zu Stakeholderanalyse um ein erstes Verständnis dafür zu scha
 
 ## Hintergrund
 
-Der Begriff [Stakeholder](Stakeholder.md) beschreibt in diesem Sinne ein direktes Interesse an einem Projekt von einzelnen Personen, Gruppen, Unternehmen oder Vereinigungen. Viele Stakeholder wollen bei den Verläufen von Projekten mitsprechen und so ihre Belange zu Ihrem Vorteil durchsetzen [^3].
+Der Begriff Stakeholder beschreibt in diesem Sinne ein direktes Interesse an einem Projekt von einzelnen Personen, Gruppen, Unternehmen oder Vereinigungen. Viele Stakeholder wollen bei den Verläufen von Projekten mitsprechen und so ihre Belange zu Ihrem Vorteil durchsetzen [^3].
 
 Stakeholder können in intern und extern gegliedert werden. Nachfolgend sind einige Beispiele von möglichen Stakeholdern aufgezählt [^4]:
 
@@ -29,13 +29,9 @@ Stakeholder können in intern und extern gegliedert werden. Nachfolgend sind ein
 
 Die Notwendigkeit eines [Stakeholdermanagements](Stakeholdermanagement.md) ist essenziell. Ein ungeplantes Einschreiten bzw. ein nicht erwartetes Handeln von Stakeholdern kann Projekte in zeit- und kostentechnischer gefährden, wenn nicht sogar zum Scheitern bringen. Daher ist es das oberste Ziel des Stakeholdermanagements, die Stakeholder einzuschätzen, zu kontrollieren und eine Akzeptanz für das Projekt zu schaffen. Aus diesem Grund ist eine umfangreiche Analyse der Interessensgruppen und deren Einstellungen zu gewissen Themen unabdingbar. Dies geschieht anhand einer Stakeholderanalyse. 
 
+## Anwendung
 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+In einem ersten Schritt sind alle relevanten Stakeholder des Projekts zu identifizieren. Hierbei sollten alle berücksichtigt werden, die in irgendeiner Art und Weise mit dem Projekt in Verbindung stehen. Hierbei kann bereits eine Kategorisierung in interne und externe Stakeholder stattfinden sowie wichtige Schlüsselfunktionen der Personen oder Interessensgruppen notiert werden.
 
 
 # Aspekt 1
