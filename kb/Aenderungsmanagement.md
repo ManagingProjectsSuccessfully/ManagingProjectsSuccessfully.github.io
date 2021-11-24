@@ -10,14 +10,25 @@ anrechnung: k
 
 ## Definition
 
-Die typischen Eigenschaften eines Projektes wie bespielsweise die Einmaligkeit oder die Neuartigkeit führen dazu, dass der Verlauf eines Projektes nicht vollständig geplant werden kann. Dies hat zur Folge, dass während dem Projektablauf immer wieder Änderungen nötig sind. Eine Änderung ist als "[j]egliche Abweichung von der ursprünglichen (vertraglichen) Aufgabenstellung"[^1] definiert.
+Die typischen Eigenschaften eines Projektes wie beispielsweise die Einmaligkeit oder die Neuartigkeit führen dazu, dass der Verlauf eines Projektes nicht vollständig geplant werden kann. Dies hat zur Folge, dass während dem Projektablauf immer wieder Änderungen nötig sind. Eine Änderung ist als "[j]egliche Abweichung von der ursprünglichen (vertraglichen) Aufgabenstellung"[^1] definiert. 
 
 Mögliche Ursachen für Änderungen sind:
 * die Veränderung der Projektziele beim Auftraggeber
 * die Veränderung äußerer Faktoren (z.B. Markt, Politik, Technik, Wissenschaft, Gesetzte, Umwelt)
 * der Widerstand von Stakeholdern
 
-"Das Änderungsmanagement umfasst daher die Behandlung und Steuerung von Änderungen im Verlauf eines Projektes."[^2]
+"Das Änderungsmanagement umfasst daher die Behandlung und Steuerung von Änderungen im Verlauf eines Projektes."[^2] Im Englischen wird Änderungsmanagement als Change Management Process bezeichnet.
+
+# Welche Aufgaben beinhaltet das Änderungsmanagement
+
+Die erste Aufagbe des Änderungsmanageemnts besteht darin, notwendige Änderungen zu erkennen und diese am Anschluss daran genauer zu analysieren. Diese Analyse beinhaltet zum Beispiel den exakten Inhalt und den Größenumfang der Änderung. Im Anschluss daran 
+* welche Folgen auf die Kosten und den Zeitl
+
+# Wie sieht der typische Verlauf im Änderungsmanagement aus?
+
+
+
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
