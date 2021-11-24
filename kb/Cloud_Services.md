@@ -35,7 +35,7 @@ Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, d
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Cloud_Services.md)
+* [Link auf diese Seite](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cloud_Services.md)
 
 # Weiterführende Literatur
 
