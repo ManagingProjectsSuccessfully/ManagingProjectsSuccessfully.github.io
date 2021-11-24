@@ -33,8 +33,10 @@ Klassische Vorgehensmodelle sind Phasenmodelle und beschreiben ein sequentielles
 Der wohl geläufigste Vertreter klassischer Vorgehensmodelle ist das [Wasserfallmodell](Wasserfall_Modell.md). Weitere bekannte Beispiele sind das [V-Modell XT](VModell)[^80] und Rational Unified Process[^40][^70].
 
 
-*Bild: Schema eines Phasenkonzepts [^120], S. 23
-
+![Schema eines Phasenkonzepts](Vorgehensmodelle/Schema_eines_Phasenkonzepts.png)
+Abbildung: Schema eines Phasenkonzepts [^120]
+  
+  
 **Vorteil** von klassischen Vorgehensmodellen ist die einfache Struktur mit klarer Einteilung, welche eine hohe Prozesstransparenz gewährleistet.[^30]
 
 **Nachteil** ist das hohe Risiko durch mangelnde Flexibilität. Auch wenn in Phasenmodellen häufig eine Rückkopplung zwischen benachbarten Phasen möglich ist, ist ein Zurückspringen in weiter zurückliegenden Phasen nicht vorgesehen. Diese sequentielle Struktur wird problematisch, wenn es zu Änderungen kommt/sich die Bedingungen ändern.[^90][^30] oder
