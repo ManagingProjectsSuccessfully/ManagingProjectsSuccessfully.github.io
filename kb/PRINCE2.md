@@ -34,7 +34,7 @@ Daneben definiert PRINCE2 festgelegte Rollen & Verantwortlichkeiten innerhalb de
 ![Schlüsselelemente von PRINCE2](PRINCE2/Transparenttest3.png)                                      
 *Abbildung: Die Schlüsselelemente von PRINCE2*  [^5]
 
-# 7 Themen von PRINCE2
+# Die 7 Themen von PRINCE2
 
 Die 7 PRINCE2 Themen (auch als Arbeitsdimensionen zu verstehen) beschreiben die Umsetzung der [7 Grundprinzipien](PRINCE2_7_Grundprinzipien.md) genauer. 
 Jedes der Themen beantwortet eine eigene, wichtige Fragestellung und soll helfen, einen erfolgreichen Projektablauf möglichst positiv zu beeinflussen. Daher müssen die Themen während des ganzen Projektablaufs fortlaufend beachtet werden: [^3][^4][^7]
