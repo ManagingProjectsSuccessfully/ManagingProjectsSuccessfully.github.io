@@ -5,28 +5,24 @@ author: goekcen01
 anrechnung: k
 ---
 
-In einer Projektreflexion (Reflexion -> Nachbesinnung, Spiegelung) soll die zurückliegende Projektphase noch einmal Revue passiert und verschiedene Aspekte der Zusammenarbeit aufgearbeitet werden.[^1]
+Reflexion: "das Nachdenken; Überlegung, prüfende Betrachtung".[^1]
+In einer Projektreflexion setzt man sich mit dem zurückliegenden Projekt rückblickend auseinander und besinnt unterschiedlichen Aspekte der Zusammenarbeit nach.[^2]
 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Reflexion als unerlässicher Schritt eines erfolgreichen Projekts
 
 Wenn das Projekt abgeschlossen wird, bedarf es einiger Reflexion. Das beginnt damit, messbare Dinge zu prüfen, insbesondere die Zielerreichung. Das Projekt wird an den Projektauftraggeber übergeben und von diesem final abgenommen. Danach steht im Fokus, wie das gesamte Projekt verlaufen ist. Wo gab es unerwartete Hürden? Welche Phasen waren besonders schwierig? Wie lief es zwischenmenschlich und wo kann sich jede und jeder einzelne verbessern?
 
 Die Reflexion dient vor allem auch dazu, Daten für weitere Projekte zu sammeln. Fehler sollen dokumentiert werden, damit andere Projektteams diese nicht ebenfalls begehen. Das Projekt endet also nicht mit der Übergabe an den Auftraggeber, sondern erst mit dem erfolgreichen Abschluss, inklusive Dokumentation und Reflexion für zukünftige Projekte.
 
-# Ablauf
+# Der perfekte Zeitpunkt
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Reflexion/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Fragestellungen
 
 1.	Wurde das Projektziel erreicht? 
 2.	Was trug zum Erreichen des Ziels bei?
@@ -84,7 +80,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: https://blog.internet-halunken.de/agiles-projektmanagement/projektreflexion-vorausschauende-rueckschau/
+[^1]: https://www.duden.de/rechtschreibung/Reflexion
+[^2] https://blog.internet-halunken.de/agiles-projektmanagement/projektreflexion-vorausschauende-rueckschau/
 
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
