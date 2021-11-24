@@ -31,7 +31,7 @@ Das Ziel von Change-Projekten besteht also darin durch neue Strategien, Systeme,
  
 *	Die Phasen des Change Projektes
 
-  ![image](/kb/Change_Projekte/EVOSULT_Change_Management_810px-1.png)
+  ![image](/kb/Change_Projekte/EVOSULT_Change_Management_810px-1.JPG)
 
   1. Phase: Die Analyse des Veränderungsvorhabens
 
