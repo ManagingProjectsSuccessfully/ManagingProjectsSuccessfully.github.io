@@ -50,8 +50,13 @@ Zusätzlich besteht die Möglichkeit Intelligente Automatisierungen zur Optimier
 Die Knowledge Base wird dauerhaft aktualisiert und es können zu jedem beliebigen Zeitpunkt Echtzeitdaten abgerufen werden (Real Time Knowledge). 
 Die AI gestützte Datenabfrage ermöglicht schnelle und akkurate Ergebnisse (AI).  Mitarbeiter aber auch die Kunden sollen in engem Austausch mit der Plattform stehen. 
 Um diesen Austausch zu optimieren werden zusätzlich acht flexible Produkte angeboten, welche je nach Bedürfnis integriert werden können. 
-Die Produkte Digital Dashboard, Digital Communications, eLearning und Digital Work Instructions sollen den Wissensaustausch zwischen der Knowledge Base
-und den Mitarbeitern intensivieren. Genauer gesagt, sollen die Produkte positiv zur Weiterbildung, Vernetzung und Motivation der Mitarbeiter beitragen. 
+Produkte:
+*Digital Dashboard
+*Digital Communications
+*eLearning
+*Digital Work Instructions 
+Diese Produkte sollen den Wissensaustausch zwischen der Knowledge Base und den Mitarbeitern intensivieren. 
+Genauer gesagt, sollen die Produkte positiv zur Weiterbildung, Vernetzung und Motivation der Mitarbeiter beitragen. 
 Auf der anderen Seite stehen die Produkte eCommerce and Sales Support, Digital Customer Communication, Helpcenter with FAQ and Chat Bot und Multimedia User Guide. 
 Diese Produkte sollen die Plattform in den Bereichen Vertrieb, Kundensupport und Kundenbindung erweitern. Damit schließt sich der Kreis und wir können
 ein Prinzip erkennen, wie Wissensmanagementsoftware ein Unternehmen im Bereich Wissensmanagement unterstützt.[^1] 
