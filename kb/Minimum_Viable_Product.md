@@ -29,7 +29,7 @@ Durch Globalisierung, technischen Fortschritt und viel Konkurrenz werden die Pro
 ## Startups
 Der Begriff MVP wurde 2001 von Frank Robinson in die Produktentwicklung eingeführt. Erst nach Veröffentlichung der Arbeiten von Eric Ries und Steve Black gelang das Konzept des MVP weltweite Bekanntheit und betonte vor allem für das Projektmanagement im Lean [Startup](Projektmanagement_in_Startups.md) die Bedeutsamkeit des Lernens während dem Produktentwicklungsprozess.[^2][^3][^4]
 
-## Besondere Berücksichtigung der Anwender / Bedürfnis des Nutzers im Mittelpunkt
+## Bedürfnis des Nutzers im Mittelpunkt
 Eine zentrale Rolle für den Erfolg des MVP spielt die Einbeziehung des Kunden in der frühen Entwicklungsphase. Dadurch ist der Anbieter von Anfang bis zum Ende des Prozesses in der Lage Feedback, beispielsweise durch Erstellung von [User Storys](User_Story.md), einzuholen. Diese Informationen sollen helfen die gewünschten Veränderungen des Anwenders im Endprodukt zu realisieren.[^1][^5] 
 
 ## Zielgerichtetes Management
