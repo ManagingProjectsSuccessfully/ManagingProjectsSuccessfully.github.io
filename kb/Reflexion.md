@@ -26,15 +26,15 @@ Da bei dem klassischen Projektmanagement die Reflexion, einmalig zum [Projektabs
 Sinn und Zweck der Reflektion zum Schluss eines Projektes ist es, die positiven Punkte beim nächsten Projekt wieder anzuwenden und Fehler hingegen nicht nochmal zu wiederholen.
 
 Im Vordergrund steht hier somit das Lernen aus Erfahrungen und das aktive Anwenden der gewonnen Erkenntnisse in Folgeprojekten. 
-Es wird demzufolge durch das Reflektieren zu künftigen Erfolgen beigetragen und der Ablauf für weitere Projekte optimiert.
+Es wird demzufolge durch das Reflektieren zu künftigen Erfolgen beigetragen und der Ablauf für weitere Projekte optimiert.[^8]
 
 ![Abbildung](Reflexion/what-is-project-management-process.png)
 
 ## Ablauf
 
-Die Projektreflexion kann auf unterschiedliche Art und Weise gestaltet werden, einen Musterablauf gibt es nicht.
+Der Reflexionsprozess kann auf unterschiedliche Art und Weise gestaltet werden, einen Musterablauf gibt es nicht.
 
-Die Durchführung der Reflexion unterscheidet sich von Projektmanager zu Projektmanager. Wobei einige starken Wert auf Selbstreflexion legen, bevorzugen andere es hingegen, ein Meeting mit dem gesamten Team zu organisieren und gemeinsam das zurückliegende Projekt zu analysieren und zu reflektieren.
+Die Durchführung der Reflexion unterscheidet sich von Projektmanager zu Projektmanager. Wobei einige starken Wert auf Selbstreflexion legen, bevorzugen andere es hingegen, ein Meeting mit dem gesamten Team zu organisieren und gemeinsam das zurückliegende Projekt zu analysieren und zu reflektieren.[^8]
 
 Was aber auf alle Fälle wichtig ist, ist es das Besprochene zu dokumentieren und Daten für weitere Projekte zu sammeln. Hierfür kommt beispielsweise ein [Projektabschlussbericht](Projektabschlussbericht.md) in Frage.[^5]
 
@@ -78,6 +78,7 @@ Bei so vielen positiven Aspekten kann man abschließend sagen, dass es durchaus 
 
 * [Anbari, F.T., Carayannis, E.G. and Voetsch, R.J., 2008. Post-project reviews as a key project management competence. Technovation, 28(10), pp.633-643](https://www.researchgate.net/profile/Robert-Voetsch/publication/245131310_Post-project_reviews_as_a_key_project_management_competence/links/5ebab3a4458515626ca18fe0/Post-project-reviews-as-a-key-project-management-competence.pdf)
 * [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+* [Oppermann, A., 2011. Ein Unternehmen auf dem Weg zum Projektmanagement: Reflexion einer empirischen Begleitung.](https://hildok.bsz-bw.de/files/131/386760373.pdf)
 
 # Quellen
 
@@ -94,5 +95,8 @@ Bei so vielen positiven Aspekten kann man abschließend sagen, dass es durchaus 
 [^6]: [Nachbesinnung (Reflexion) des Projekts](https://lehrerfortbildung-bw.de/st_kompetenzen/weiteres/projekt/projektkompetenz/instrumente/bewertung/fragebogen_nachbesinnung.htm)
 
 [^7]: [TPG, Lessons Learned im Projektmanagement](https://www.theprojectgroup.com/blog/lessons-learned-im-projektmanagement/)
+
+[^8]:[Oppermann, A., 2011. Ein Unternehmen auf dem Weg zum Projektmanagement: Reflexion einer empirischen Begleitung.](https://hildok.bsz-bw.de/files/131/386760373.pdf)
+
 
 
