@@ -50,12 +50,7 @@ Oft genutzte Methoden sind hierbei [Stakeholderanalyse](Stakeholderanalyse.md), 
 
 Die Methoden für Kompetenzen im Projektmanagement kann prinzipiell jedes Teammitglied übernehmen. Besonders der Projektleiter benötigt jedoch bestimmte Kompetenzen, um den erfolgreichen Ablauf seines Projektes sicherzustellen.[^14] Für ein effizientes Selbstmanagement werden Techniken wie [Pomodoro](Pomodoro.md), [Pareto-Prinzip](Pareto_Prinzip) oder die [Eisenhower-Matrix](Eisenhower_Matrix.md) eingesetzt. Dem Projektleiter stehen außerdem verschiedene Mittel zur Verfügung, um die Kommunikation in der Gruppe zu verbessern und die Teammitglieder anzuführen. Es können [Feedback-Gespräche](Feedbackgespräche.md) und Methoden des [Teammanagements](Teammanagement.md) genutzt werden. Die Entscheidungsfindung der Gruppe können Methoden wie die [Nutzwertanalyse](Nutzwertanalyse.md) unterstützen.[^7]
 
-### Kreativitätsmethoden
-
-Kreativitätsmethoden dienen im Allgemeinen dazu, mit bestimmten Vorgaben die Kreativität der Teammitglieder anzuregen, um Problemlösungen zu finden oder Ideen zu generieren.[^15]
-
-
-Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapping.md) und die [Walt-Disney-Methode](Walt_Disney_Methode.md).[^7]
+Zur Findung innovativer Lösungsideen werden Kreativitätsmethoden eingesetzt. Kreativitätsmethoden dienen im Allgemeinen dazu, mit bestimmten Vorgaben die Kreativität der Teammitglieder anzuregen, um Problemlösungen zu finden oder Ideen zu generieren.[^15] Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapping.md) und die [Walt-Disney-Methode](Walt_Disney_Methode.md).[^7]
 
 
 
