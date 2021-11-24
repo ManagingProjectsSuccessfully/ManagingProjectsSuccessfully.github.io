@@ -20,7 +20,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 Das Ziel eines Projektmanagementhandbuchs ist es, die Grundlagen für die Durchführung der verschiedenen Aufgaben in Projekten zu schaffen. Es steigert die Effizienz der Projektarbeit, indem es Verfahrensabläufe festlegt und somit alle Projektbeteiligten entlastet[^1]. 
 Nach der Definition der DIN 69901-5, ist ein Projektmanagementhandbuch eine „Zusammenstellung von Regelungen, die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten“ und ist somit ein wichtiger Teil des klassischen Projektmanagements[^2]. 
 
-![Hanbuch Icon](https://icon-library.com/icon/project-icon-14.html)
+![Hanbuch Icon]
 
 # Abgrenzung Projektmanagementhandbuch und Projekthandbuch
 
