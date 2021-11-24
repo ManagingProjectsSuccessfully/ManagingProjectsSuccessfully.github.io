@@ -27,10 +27,8 @@ Trello ist ein flexibles Tool, wird meist in Projektmanagement angewendet, mit d
 * Viele Integrationen von Drittanbietern, die bei der Verbindung mit Squad-Favoriten wie GitHub, Dropbox, Slack, Google Drive usw.
 * Power-Ups zum Hinzufügen von Funktionen zu Boards und Karten verfügbar.
 
-
 ## Geschäftsmodell
 Einnahmequelle von Trello basiert auf Premium-Prinzip, d.h dass Grundfunktion dauerhaft kostenlos ist , daneben gibt es auch eine kostenpflichtige Premiumversion welche ein allumfassendes Funktionspaket aufweist. Trello teilt vier Tarife für zwischen 0 und $17,50 USD pro Nutzer und Monat auf:  Free, Standard, Premium und Enterprise.
-
 ## Vergleich Trello mit seinen Konkurrenten (Asana und Monday.com)
 
 |   | Trello | Asana | monday.com|
@@ -40,8 +38,7 @@ Einnahmequelle von Trello basiert auf Premium-Prinzip, d.h dass Grundfunktion da
 | Integration | Integriere mehr als 200 Apps und Tools[^4]   | Integriere  ca 160 Apps und Tools[^6]  | Über 50 Integrationen mit beliebten Software-Apps sind verfügbar[^8] |
 | Preise  | Einfache Preistabelle. Eine kostenlose Version für unbegrentzte Nutzer mit beschränkte Funktion und drei kostenpflichten Versionen: Standard,  Premium, Enterprise ab $5 USD/Nutzer/Monat[^5] | Einfache Preistabelle. Eine kostenlose Version für 15 Nutzer mit beschränkte Funktion und zwei kostenpflichten Versionen: Premium, Enterprise ab $10,99 USD/Nutzer/Monat[^7] | Komplexe Preistabelle. Eine kostenlose Version für 2 Nutzer mit beschränkte Funktion und vier kostenpflichten Versionen:  Basic Standard,  Pro, Enterprise ab $10 USD/Nutzer/Monat |
 | Geeinigt für  |Kleine Start-ups und kleine Unternehmen, die nur Kanban verwenden und keine leistungsstarken Projektverwaltungsfunktionen benötigen | IT und Non-IT Team(unabhängig von Anzahl der Größe). Insbesondere die Design- und Marketingteams, da Asana bei der Teamzusammenarbeit einen hohen Rang einnimmt | IT und Non-IT Unternehemen, die eine Vielzahl von Funktionen von Bug Tracking bis CRM benötigen |
-| Funktion und Views  | Nur Kanban-Board-Ansicht ist eingebaut | Mehrere  Ansichten sind eingebaut z.B Liste, Tafel, Kalender, Meilensteine und Arbeitsbelastung  | Viele integrierte Ansichten wie Kanban-Board, Zeitleiste, Kalender, Arbeitsauslastung und Liste  |
-
+| Funktion und Views  | Nur Kanban-Board-Ansicht ist eingebaut | Mehrere  Ansichten sind eingebaut z.B Liste, Tafel, Kalender, Meilensteine und Arbeitsbelastung  | Viele integrierte Ansichten wie Kanban-Board, Zeitleiste, Kalender, Arbeitsauslastung und Liste|
 ## Quelle
 [^1]: [History of Trello](https://en.wikipedia.org/wiki/Trello)
 [^2]: [Atlassian launches a whole new Trello](https://techcrunch.com/2021/02/16/atlassian-launches-a-whole-new-trello/)
