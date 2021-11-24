@@ -6,7 +6,7 @@ anrechnung: k oder a
 ---
 
 
-Effizienter und produktiver arbeiten durch Kanban Boards. Das Tool zur Visualisierung Strukturierung und Verbesserung des Workflows.
+Effizienter und produktiver arbeiten durch Kanban Boards. Das Tool zur Visualisierung, Strukturierung und Verbesserung des Workflows.
 
 
 
@@ -131,8 +131,7 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
 *Kanban Board in der Software Entwicklung*
 
 
-<img width="588" alt="Bildschirmfoto 2021-11-24 um 15 08 46" src="https://user-images.githubusercontent.com/92926914/143253653-fccf0214-efc4-4924-b335-a918886b644f.png"> 
-[^11]
+<img width="588" alt="Bildschirmfoto 2021-11-24 um 15 08 46" src="https://user-images.githubusercontent.com/92926914/143253653-fccf0214-efc4-4924-b335-a918886b644f.png"> [^11]
 
 
 *Ein Familien Kanban Board*
@@ -146,8 +145,7 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
   - Whiteboard mit Post-it's
  
  
- <img width="569" alt="Bildschirmfoto 2021-11-24 um 14 59 52" src="https://user-images.githubusercontent.com/92926914/143252862-8fe77788-f3a2-4218-b348-2fcb4dabce4c.png"> 
- [^12]
+ <img width="569" alt="Bildschirmfoto 2021-11-24 um 14 59 52" src="https://user-images.githubusercontent.com/92926914/143252862-8fe77788-f3a2-4218-b348-2fcb4dabce4c.png"> [^12]
  
  *Klassisches Kanban Board Beispiel*
  
