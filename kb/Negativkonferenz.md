@@ -8,7 +8,7 @@ anrechnung: k
 Die Negativkonferenz ist eine Kreativitätstechnik zur intuitiven Ideenfindung. 
 Sie lässt sich im direkten Gegensatz zum Brainstorming betrachten: 
 Anstelle über Lösungen für ein Problem nachzudenken, wird sich nur auf die möglichen Probleme eines Aspektes fokussiert. 
-Für diese Probleme können dann zu späteren Schritten erneut Kreativitätstechniken angewendet werden, um wiederum neue Lösungen zu finden. [^1]
+Für diese Probleme können dann zu späteren Schritten erneut Kreativitätstechniken angewendet werden, um wiederum neue Lösungen zu finden.[^1]
 
 # Verschiedene Bezeichnungen und verwandte Methoden
 
@@ -16,14 +16,13 @@ Die Negativkonferenz wird in der Literatur auch als "Umkehrdiagramm" bezeichnet 
 "Kopfstandtechnik" auf. Bei dieser Technik wird die relevante Aufgabenstellung umgekehrt und von der anderen Seite betrachtet. 
 
 Wenn die Aufgabenstellung zum Beispiel die Verbesserung der aktuellen Maschinen ist, dreht die Kopfstandtechnik diese um und sucht nach möglichen Wegen, die Maschinen
-zu verschlechtern. Durch das Umkehren
-der Erkenntnisse darüber, wie man etwas verschlechtern kann, ist es nun wiederum möglich, zu neuen Verbesserungsideen zu gelangen. [^2]
+zu verschlechtern. Durch das Umkehren der Erkenntnisse darüber, wie man etwas verschlechtern kann, ist es nun wiederum möglich, zu neuen Verbesserungsideen zu gelangen.[^3]
 
 ![Screenshot 2021-11-24 165717](https://user-images.githubusercontent.com/92982358/143272932-b3719172-c038-4ccc-a915-b91854ad5e0a.png)
 
 # Negativkonferenz als Umkehrung des Brainstormings
 
-Das Brainstorming ist bekannt als Methode zur Ideenfindung, die zeiteffizient zur Schaffung von Lösungsansätzen und neuen Ideen in einer Gruppe von Menschen beiträgt.
+Das Brainstorming ist bekannt als Methode zur Ideenfindung, die zeiteffizient zur Schaffung von Lösungsansätzen und neuen Ideen in einer Gruppe von Menschen beiträgt.[^4]
 Die Negativkonferenz wirft dieses Konzept auf den Kopf. Die Teilnehmer suchen nun nicht mehr nach Ansätzen und Ideen, sondern nach Problemen.
 Mögliche Probleme eines bestimmten Sachverhalts werden gesammelt und dokumentiert, um daraus negative Szenarien zu entwickeln, für die in einem weiteren Schritt der
 Ideenfindung erneut Kreativitätstechniken wie Brainstorming oder Mindmapping angewendet werden können, um ganz neue Lösungen und Ideen zu erarbeiten.
@@ -65,5 +64,7 @@ werden."
 # Quellen
 
 [^1]: https://de.wikipedia.org/wiki/Negativkonferenz
-[^2]: https://www.sim.ovgu.de/sim_media/downloads/IDEAL/Kopfstandtechnik.pdf
+[^2]:
+[^3]: https://www.sim.ovgu.de/sim_media/downloads/IDEAL/Kopfstandtechnik.pdf
+[^4]: https://de.wikipedia.org/wiki/Brainstorming
 
