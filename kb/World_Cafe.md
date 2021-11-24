@@ -7,10 +7,17 @@ anrechnung: k
 
 Das World Café ist eine interaktive Alternative zu Konferenzen und Seminaren, die eine zwanglose Atmosphäre bietet und Teilnehmer zu Diskussionen anregt, die alltäglichen Gesprächen in einem Café ähneln sollen.[^1] Dabei soll der Austausch von Gedanken und Ideen dazu führen, dass neue Sichtweisen entstehen und Probleme aus vielen verschiedenen Perspektiven betrachtet werden können.[^2]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+#Eignung 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Das World-Café eignet sich besonders für größere Gruppen, wobei die Teilnehmerzahl von ca. 12-2000 Teilnehmern stark variieren kann.[^3]
+
+Die Methode ist sinnvoll, wenn
+* unterschiedliche Ideen und Meinungen einer großen Gruppe für ein komplexes Thema benötigt werden
+* unkonventionelle Lösungen gefunden werden sollen 
+* die unterschiedlichen Sichtweisen zu einem Thema deutlich gemacht werden sollen
+* anstehende oder laufende Projekte geplant oder ausgewertet werden sollen[^1]
+
+
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -96,6 +103,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [World Café – Moderation von Großgruppenveranstaltungen](https://organisationsberatung.net/world-cafe-grossgruppen-methode/)
 [^2]: [MEIN DEIN UNSER WIRKEN](https://www.worldcafe.eu/de/)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [World-Café: Die Pause als Methode](https://www.futur2.org/article/world-cafe-die-pause-als-methode/)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
