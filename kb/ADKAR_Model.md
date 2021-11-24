@@ -42,7 +42,7 @@ Es muss sichergestellt werden, dass die Person die Fähigkeit besitzt, die berei
 ## Reinforcement
 
 Dieser letzte Schritt der Verstärkung wird meistens vergessen oder zu kurz ausgeführt. Damit Veränderungen jedoch langfristig bestehen können, ist es sehr wichtig diesen Schritt auszuüben, denn erst jetzt wird die Veränderung normalisiert. 
-Feedbackgespräche, aber auch das Loben der Mitarbeiter kann helfen die Veränderung zu bestärken. 
+Feedbackgespräche, aber auch das Loben der Mitarbeiter können helfen die Veränderung zu bestärken. 
 Wenn dieser Schritt nicht oder zu wenig durchgeführt wird, kann es sein, dass die Veränderung nicht beständig ist und man daher wieder bei „Awareness“ anfangen muss. [^8]
 
 
