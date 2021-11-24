@@ -61,6 +61,12 @@ innerhalb der ersten 2-4 Reportzyklen evaluierbar sein."
 
 Zur Risikominimierung wird ein Projekt idealerweise in die fünf Phasen Vorbereiten, Initiieren, Planen, Steuern, Abschließen eingeteilt.
 
+1. Phase: Die Entscheidung für oder gegen ein Projekt wird vorbereitet. Es wird geprüft worum es geht, welches Ziel verfolgt wird und welche Ergebnisse erreicht werden sollen. In diesem Sinne wird der Projektantrag gestellt und die Entscheidung vorgelegt.
+2. Phase: Im Zuge des Projektauftrags wird die Grundlage geschaffen und die Rahmenbedingungen geklärt. Ziele, Ergebnisse, Projektgegenstände werden bestimmt, die Risiken idetifiziert und das Team zusammengestellt
+3. Phase: Diese Phase, die Planung, erfolgt über das ganze Projekt. Aufgaben, Termine, Kosten, Kapazitäten, Ergebnisse und Meilensteine werden geplant und in den Plan festgehalten
+4. Phase: Die Umsetzung der einzelnen Maßnahmen, die Ergebnisse werden laufend überprüft und die Arbeitspakete freigegeben.
+5. Phase: Abnahme des Projekts vom Auftraggeber und Überprüfung der Wirtschaftlichkeit vom Projektleiter.[^4]
+
 |  Vorbereiten                 | Initiieren                     | Planen            | Steuern                   | Abschließen        |
 | ---------------------------- | ------------------------------ | ----------------- | ------------------------- | ------------------ |
 | Ideen beschreiben            | Projektziele bestimmen         | Projektphasen     | Arbeitsfortschritt prüfen | Projektabnahme     |
@@ -110,5 +116,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: https://www.projektmagazin.de/glossarterm/projektstart
 [^2]: https://www.business-wissen.de/artikel/projektmanagement-ein-projekt-starten/
 [^3]: https://www.nordantech.com/de/blog/project-management/projekte-richtig-planen
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: https://www.business-wissen.de/hb/phasen-des-projektmanagements-im-ueberblick/
 
