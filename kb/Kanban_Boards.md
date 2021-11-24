@@ -19,7 +19,6 @@ Ab 1970 wird diese Steuerungsmethode auch in den USA und Deutschland eingeführt
 Bis heute ist die Lean Produktion und Kanban Methode als Organistationsform in großen Unternehmen standard.
 
 <img width="449" alt="Bildschirmfoto 2021-11-24 um 15 14 56" src="https://user-images.githubusercontent.com/92926914/143254731-118cd134-07e8-4692-9476-99c3d276a4d5.png">
-
 *Taiichi Ōno*
 
 
@@ -35,7 +34,7 @@ Als Schlüsselelement der Kanban Methode, trägt ein Kanban Board zur Optimierun
 # Wie funktioniert ein Kanban Board?
 
 Ursprünglich handelt es sich um ein Whiteboard, das in Spalten und Swimlanes aufgeteilt wurde.
-Jede Spalte stellt eine Prozessphase dar, Swimlanes die verschiedenen Aufgabenbereiche der Aktivitäten. 
+Jede Spalte stellt eine Prozessphase dar, Swimlanes die verschiedenen Aufgabenbereiche der Aktivitäten. []https://teamhood.com/de/kanban-ressourcen/was-ist-ein-kanban-board/
 Wenn eine Aufgabe in Ihren Arbeitsfluss gelangt, wird sie auf einer Kanban-Karte platziert, die jede Spalte von Links nacht Rechts des Boards durchläuft.[^3]
 Eine Kanban-Karte enthält Informationen über die Aufgabe und deren Status, darunter eine Aufgabenübersicht, den Verantwortlichen, die Frist etc.
 
@@ -202,11 +201,6 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
 
  
 
-
-![](Kanban_Boards/test-file.jpg)
-
-
-
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
@@ -215,6 +209,7 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
 # Weiterführende Literatur
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+https://www.amazon.de/dp/172392959X?tag=dpm-aawp-bubox-21&linkCode=ogi&th=1&psc=1
 
 # Quellen
 
