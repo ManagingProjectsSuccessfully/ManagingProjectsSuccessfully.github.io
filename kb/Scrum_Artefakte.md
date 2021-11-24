@@ -11,7 +11,7 @@ Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basi
 oben im Front-Matter (Bereich zwischen den `---`).
 
 # Scrum Artefakte
-Es gibt im Scrum drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und „Produktinkrement“. Diese haben jeweils einen übergeordneten Leitgedanken, der dabei helfen sollen, in allen Ebenen einen Überblick zu behalten.[^1]
+Es gibt im [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und „Produktinkrement“. Diese haben jeweils einen übergeordneten Leitgedanken, der dabei helfen sollen, in allen Ebenen einen Überblick zu behalten.[^1]
 
 Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maximaler Transparenz, sodass alle auf dem aktuellen Wissensstand sind, weshalb sie zu optimalen Arbeitsbedingungen beitragen.[^2][^3]
 
@@ -20,13 +20,13 @@ Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maxim
 
 ## 1.1 Zusammensetzung des Product Backlogs
 
-Das Product Backlog, welches vom [Product Owner](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/product-owner) in Zusammenarbeit mit den Stakeholdern erstellt wird, könnte man als Kernartefakt von Scrum bezeichnen. Es handelt sich hier um eine Liste, welche geordnet und priorisiert alle Funktionen und Kriterien aufzeigt, die das Endprodukt bieten soll. Sogenannte Product Backlog Items beschreiben diese Anforderungen, wie z.B. User Stories und Verbesserungen, aus Sicht und Sprache des Kunden.[^2][^3][^5]
+Das Product Backlog, welches vom [Product Owner](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Owner.md) in Zusammenarbeit mit den Stakeholdern erstellt wird, könnte man als Kernartefakt von Scrum bezeichnen. Es handelt sich hier um eine Liste, welche geordnet und priorisiert alle Funktionen und Kriterien aufzeigt, die das Endprodukt bieten soll. Sogenannte Product Backlog Items beschreiben diese Anforderungen, wie z.B. User Stories und Verbesserungen, aus Sicht und Sprache des Kunden.[^2][^3][^5]
 
 ## 1.2 Die Dynamik im Product Backlog
 
 Im agilen Projektmanagement sind häufige Feedbacks typisch, weshalb es nicht unwahrscheinlich ist, dass sich die Anforderungen ändern können. Deshalb kann man das Product Backlog als lebendes Dokument betiteln, welches während der gesamten Produktentwicklung erweitert und verändert wird.
 
-Hierbei trägt der Product Owner die volle Verantwortung für die Aktualität und die richtige Priorisierung der Komponente, z.B.: Grad des Risikos und gewünschtes Lieferdatum. Dennoch kann das Product Backlog jederzeit vom [Scrum-Team](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-team) eingesehen werden.
+Hierbei trägt der Product Owner die volle Verantwortung für die Aktualität und die richtige Priorisierung der Komponente, z.B.: Grad des Risikos und gewünschtes Lieferdatum. Dennoch kann das Product Backlog jederzeit vom Scrum-Team eingesehen werden.
 Hieraus werden während des Sprint Planning, die zu erledigenden Punkte für den nächsten Sprint ausgewählt.[^1][^2][^3][^4]
 
 
