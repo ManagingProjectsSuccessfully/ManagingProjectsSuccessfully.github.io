@@ -47,7 +47,7 @@ Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [SCRUM](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
 * [Link auf diese Seite](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Artefakte.md)
 
 # Weiterführende Literatur
