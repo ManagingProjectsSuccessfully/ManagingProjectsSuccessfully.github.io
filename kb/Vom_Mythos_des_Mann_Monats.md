@@ -24,7 +24,7 @@ Einer der Gründe für das Entstehen von Zeitnot ist laut Brooks die bei allen P
 ## Der Mann-Monat
 Der Mann-Monat stellt eine Maßeinheit für die Menge an Arbeit dar, die eine Person durchschnittlich in einem Monat schafft, und ist das Produkt von Zeit und Personal. Er wird als Maßstab von Schätzungen und Zeitvorgaben zugrunde gelegt.[^3] 
 
-Diese zugrunde gelegte Einheit führt jedoch zu einem Trugschluss, da irrtümlich angenommen wird, dass die Faktoren Mann und Monat, also Arbeitskraft und Arbeitszeit, austauschbar sind. Das Verhältnis zwischen Arbeitskraft und Zeit ist aber nicht linear, sodass mehr Arbeitskraft nicht zu einer verkürzten Zeit führt, was eine Austauschbarkeit ausschließt.[^1]
+Diese zugrunde gelegte Einheit führt jedoch zu einem Trugschluss, da irrtümlich angenommen wird, dass die Faktoren Mann und Monat, also Arbeitskraft und Zeit, austauschbar sind. Das Verhältnis zwischen Arbeitskraft und Zeit ist aber nicht linear, sodass mehr Arbeitskraft nicht zu einer verkürzten Zeit führt, was eine Austauschbarkeit ausschließt.[^1]
 
 Eine tatsächliche Austauschbarkeit liegt ausnahmsweise bei denjenigen Aufgaben vor, die so gestellt und aufgeteilt sind, dass viele Arbeitskräfte sie bewältigen können, ohne dass hierfür ein Informationsaustausch notwendig ist (Abbildung 1). Solche Projekte kommen in der Praxis jedoch kaum vor.[^1][^4]
 
