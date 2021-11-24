@@ -21,6 +21,7 @@ Be einem klassischen Ansatzies ist dies oftmals schwierig, vor allem, wenn sich 
 
 Es wird von iterativen Prozessen ausgegangen. 
 Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, besprechen und veröffentlichen. [^5]
+
 Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken entwickelt.
 
 ![Beispielabbildung] (https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
@@ -28,26 +29,28 @@ Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien u
 
 ## Rollen
 
-Der <b> Kunde </b> ist der Auftragggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll.
+Der <b> Kunde </b> ist der Auftragggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll. [^6]
 
 Innerhalb des Entwicklerteams gibt es keine Rollentrennung, jeder Mitarbeiter wird unabhängig von seinen Fähigkeiten als <b> Entwickler </b> bezeichnet.
-Diese sind für die Produktentwicklung zuständig.
+Diese sind für die Produktentwicklung zuständig. [^7]
 
-Der <b> Produktmanager </b> ist meist ein disziplinarischer Vorgesetzter, allerdings ist diese Rolle im Vergleich zum Productowner eher unwichtig. 
-Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler.
+Ein großer Teil der Tests in der Softwareentwicklung übernehmen Entwickler, allerdings gibt es noch die Rolle des <b> Testers </b>. 
+Dieser ist sehr fokussiert auf den Kunden und soll dabei helfen funktionale Tests zu schreiben, diese regelmäßig durchzuführen und die Ergebnisse offenzulegen. [^8]
+
+Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler. [^9]
 
 
 ## Werte
  
 Die <b> Kommunikation </b> zwischen allen Rollen ist extrem wichtig, um Probleme direkt adressieren zu können. 
-So können Missstände direkt behoben werden und permanenter Austausch führt zu gleichem Wissensstand der Entwickler. 
+So können Missstände direkt behoben werden und permanenter Austausch führt zu gleichem Wissensstand der Entwickler. [^10]
 
 Ein wichtiger Wert der Methode XP ist die <b> Einfachheit </b> . Es wird nach der einfachsten Lösung gestrebt und die Entwickler halten sich so nicht mit Unwichtigem auf. 
-Es werden möglichst nur die im Moment benötigten Features entwickelt und nicht für zukünftige Anforderungen vorgearbeitet. Ein schlankes Produkt ist sowohl bei der Weiterentwicklung als auch bei der Wartung einfacher zu handhaben und ein simpler Programmcode vereinfacht die Kommunikation, da so alle Teammitglieder den Quelltext verstehen können.
+Es werden möglichst nur die im Moment benötigten Features entwickelt und nicht für zukünftige Anforderungen vorgearbeitet. Ein schlankes Produkt ist sowohl bei der Weiterentwicklung als auch bei der Wartung einfacher zu handhaben und ein simpler Programmcode vereinfacht die Kommunikation, da so alle Teammitglieder den Quelltext verstehen können. [^11]
 
-Bei dem Punkt <b> Feedback </b> geht es nicht nur um die Kritik des Kunden, sondern auch um Meldungen des Systems (Logs). Das Team arbeitet in kleinen Zyklen, testet häufig und kann so Änderungen und Fehlerbehebungen kurzfristig vornehmen.
+Bei dem Punkt <b> Feedback </b> geht es nicht nur um die Kritik des Kunden, sondern auch um Meldungen des Systems (Logs). Das Team arbeitet in kleinen Zyklen, testet häufig und kann so Änderungen und Fehlerbehebungen kurzfristig vornehmen. [^12]
 
-Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Ändern von Organisationsstrukturen zu verstehen. 
+Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Ändern von Organisationsstrukturen zu verstehen. [^13]
 
 
 
@@ -94,8 +97,14 @@ Natürlich ist die Methode des Extreme Programming sehr anspruchsvoll und
 [^3]: Buch S. Preface XVii
 [^4]: https://www.agile-heroes.de/magazine/extreme-programming/
 [^5]: https://www.ionos.de/digitalguide/websites/web-entwicklung/extreme-programming/
-[^6]:
-[^7]:
-[^8]:
+[^6]: Buch S.142
+[^7]: Buch S. 141
+[^8]: Buch S. 144
+[^9]: Buch S. 147
+[^10]: Buch S. 29
+[^11]: Buch S. 30
+[^12]: Buch S. 31
+[^13]: Buch S. 33
+
 
 
