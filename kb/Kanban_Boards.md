@@ -12,7 +12,7 @@ Effizienter und produktiver arbeiten durch Kanban Boards. Das Tool zur Visualisi
 
 # Was ist ein Kanban Board?
 
-[Kanban](kanban.md)kommt aus dem Japaischen und bedeutet "Signal" - "Karte".
+[Kanban](kanban.md) kommt aus dem Japaischen und bedeutet "Signal" - "Karte".
 Das Kanban Bord mit seinen [Kanban Karten](Kanban_Karten.md), ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus verschiedener Prozessabläufe gibt,
 um schnell Problemstellen eines Arbeitsflusses aufzudecken und die Kommunikation im Team erleichtert.
 Als Schlüsselelement der Kanban Methode, trägt ein Kanban Board zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses bei.
