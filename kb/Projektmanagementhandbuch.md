@@ -26,7 +26,7 @@ Nach der Definition der DIN 69901-5, ist ein Projektmanagementhandbuch eine „Z
 
 # Abgrenzung Projektmanagementhandbuch und Projekthandbuch
 
-Das Projektmanagementhandbuch bezieht sich im Allgemeinem auf die Regelungen, welche für die Durchführung und Planung eines Projekts in einem Unternehmen gelten[^2]. Im Gegensatz dazu, bezieht sich das Projekthandbuch auf die „Zusammenstellung von Informationen und Regelungen, die für die Planung und Durchführung eines bestimmten Projekts gelten sollen“ und enthält damit spezifische Regelungen, welche nur für ein spezielles Projekt gelten[^3].
+Das Projektmanagementhandbuch bezieht sich im Allgemeinem auf die Regelungen, welche für die Durchführung und Planung eines Projekts in einem Unternehmen gelten[^2]. Im Gegensatz dazu, bezieht sich das [Projekthandbuch](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekthandbuch.md) auf die „Zusammenstellung von Informationen und Regelungen, die für die Planung und Durchführung eines bestimmten Projekts gelten sollen“ und enthält damit spezifische Regelungen, welche nur für ein spezielles Projekt gelten[^3].
 Ein Projektmanagementhandbuch beschreibt somit Verfahren und Methoden eines Projekts, welche im Projekthandbuch Anwendung finden[^4].
 
 # Aufbau und Inhalt
@@ -48,22 +48,16 @@ Zwei wesentliche Projektarten sind Entwicklungsprojekte und Veränderungsprojekt
 | ------------- | ------------- |
 | entwickeln neue Produkte oder Dienstleistungen[^6]. |  befassen sich mit der Veränderung von Organisationsstrukturen, wobei die Entwicklung einer neuen Form der Zusammenarbeit von Menschen im Vordergrund steht und nicht die Entwicklung eines neuen Produktes[^6]. |
 
+#Vorteile
+
+Die Vorteile eines Projektmanagement-Handbuchs wären zum Beispiel, dass die Projektleitung erfährt, bei welchen prozentualen Abweichungen von Kosten oder Terminen Gremien oder Vorgesetzte informiert werden müssen. Vorlagen für Statusmeldungen oder Zwischenberichte helfen, Zeit bei der Berichtserstellung zu sparen sowie an alle wichtigen Informationen zu denken, über die berichtet werden muss[^1]
 
 
-Die Vorteile eines Projektmanagement-Handbuchs wären zum Beispiel, dass die Projektleitung erfährt, bei welchen prozentualen Abweichungen von Kosten oder Terminen Gremien oder Vorgesetzte informiert werden müssen. Vorlagen für Statusmeldungen oder Zwischenberichte helfen, Zeit bei der Berichtserstellung zu sparen sowie an alle wichtigen Informationen zu denken, über die berichtet werden muss
-https://www.business-wissen.de/artikel/projektmanagement-so-erstellen-sie-ein-projektmanagement-handbuch/
 
 
 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
 überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
 Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
 Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
