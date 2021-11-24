@@ -5,30 +5,19 @@ author: mirela08
 anrechnung: k
 ---
 
- main
+
 Mit RACI wird eine Technik zur Analyse und Darstellung von Verantwortlichkeiten bezeichnet. Der Name leitet sich aus den Anfangsbuchstaben der englischen Begriffe Responsible, Accountable, Consulted, Informed ab. Davon Abgeleitet wird die RACI-Matrix erstellt, welche auch RAM (Responsibility Assignment Matrix) genannt wird. [^1]
 
 Kurzbeschreibung zu RACI um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
- main
 
 Aus dieser Matrix geht hervor, welche Team-Mitglieder wofür im [Projekt](https://github.com/mirela08/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) verantwortlich sind.
 Je mehr Beteiligte bei einem Projekt oder einer Entwicklung mitwirken und je umfangreicher das Projekt oder die Entwicklung ist, desto schwieriger ist es, Verantwortlichkeiten zu definieren und den Überblick über Verantwortlichkeiten zu behalten.[^2] Die RACI-Matrix ist ein Hilfsmittel zur Analyse und Darstellung von Verantwortlichkeiten.
 
 
- main
+
 # Aufschlüsselung der Anfangsbuchstaben
 
 **R** – Responsible: Wer ist für die Durchführung der Aufgabe verantwortlich? Genannt wird üblicherweise eine Person, auch wenn diese weitere Personen zur Abarbeitung der Aufgabe hinzuziehen kann.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
- main
 
 **A** – Accountable: Wer entscheidet, ob die Aufgabe korrekt durchgeführt wurde? Oft delegiert diese Person eine Aufgabe an die „responsible“ Person und prüft die Ergebnisse der Durchführung.
 
@@ -37,17 +26,10 @@ Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote ref
 **I** – Informed: Wer wird über die Ergebnisse der Aufgabe informiert? Hier findet in der Regel keine zweiseitige Kommunikation statt, sondern es werden lediglich Informationen übertragen. 
 
 
- main
-## So kann eine RACI-Matrix aussehen:
-======
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+## So kann eine RACI-Matrix aussehen:
 
 ![Beispielabbildung](RACI/test-file.jpg)
- main
 
 <br>
 
@@ -61,26 +43,12 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 Pro Aktivität sollte in der Regel nur **eine** Person *accountable* und *responsible* sein. Hingegen können **mehrere** Personen bei einer Aktivität *consulted* oder *informed* sein. Es kann auch vorkommen, dass eine Person für eine Aktivität **gleichzeitig** *accountable* und *responsible* ist. Wenn für eine Aktivität **keine** Person als *responsible* definiert ist, nennt man dies "Lack of responsibility". Wenn **mehr als eine Person**
 responsible ist, spricht man von "overlap in responsibility". [^2]
 
- main
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-> main
 
 
 ![Beispielabbildung](RACI/Bild1.png)
 
- main
+
 Beispielhafte RACI-Matrix [^3]
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
- main
 
 # Vorteile der RACI-Matrix [^4]
 
@@ -108,14 +76,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 
 
- main
- Varianten von RACI [^3]
+# Varianten von RACI [^3]
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
- main
+
 
 Es gibt eine Reihe von Varianten oder Alternativen, die einen ähnlichen Matrix-Ansatz verfolgen, aber andere Begriffe verwenden. Hier finden Sie einige dieser Varianten:
 ## RASCI:
