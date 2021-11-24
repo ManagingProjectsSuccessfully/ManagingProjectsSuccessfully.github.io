@@ -9,7 +9,7 @@ Reflexion: "das Nachdenken; Überlegung, prüfende Betrachtung".[^1]
 In einer Projektreflexion setzt man sich mit dem zurückliegenden Projekt rückblickend auseinander und besinnt unterschiedlichen Aspekte der Zusammenarbeit nach.[^2]
 
 
-# Reflexion als unerlässicher Schritt eines erfolgreichen Projekts
+# Reflexion als Fundament für erfolgreiche Projekte
 
 Wenn das Projekt abgeschlossen wird, bedarf es einiger Reflexion. Das beginnt damit, messbare Dinge zu prüfen, insbesondere die Zielerreichung. Das Projekt wird an den Projektauftraggeber übergeben und von diesem final abgenommen. Danach steht im Fokus, wie das gesamte Projekt verlaufen ist. Wo gab es unerwartete Hürden? Welche Phasen waren besonders schwierig? Wie lief es zwischenmenschlich und wo kann sich jede und jeder einzelne verbessern?
 
