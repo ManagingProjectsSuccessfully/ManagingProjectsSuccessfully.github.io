@@ -9,7 +9,9 @@ Projekt Nearshoring (auf Deutsch Nahverlagerung) gilt als Sonderform des Projekt
 
 # Ziele des Nearshorings
 
-Ein Grund für die Delokalisierung von Unternehmen ist, dass in den Industrienationen Fachkräftemangel herrscht und die Auslandsmärkte stetig wachsen. Deshalb werden verschiedene Ziele verfolgt, die die nahe Verlegung besonders attraktiv machen. Zum einen können Personalkosten gesenkt werden, aufgrund des niedrigeren Einkommensniveaus im Ausland. Andererseits soll durch die Nähe der dienstleistenden Unternehmen ein zeitnaher Abschluss des Projekts gewährleistet werden. Hierbei illustriert eine Grafik den starken Lohnunterschied zwischen den Ländern.
+Ein Grund für die Delokalisierung von Unternehmen ist, dass in den Industrienationen Fachkräftemangel herrscht und die Auslandsmärkte stetig wachsen. Deshalb werden verschiedene Ziele verfolgt, die die nahe Verlegung besonders attraktiv machen. Zum einen können Personalkosten gesenkt werden, aufgrund des niedrigeren Einkommensniveaus im Ausland. Andererseits soll durch die Nähe der dienstleistenden Unternehmen ein zeitnaher Abschluss des Projekts gewährleistet werden. Hierbei illustriert eine [Grafik](https://www.computerwoche.de/a/der-holprige-weg-zum-nearshoring,558176) den starken Lohnunterschied zwischen den Ländern.
+
+![Abbildung_1](Projekt_Nearshoring/Nearshoring.jpg)
 
 
 ## Vorteile
@@ -21,7 +23,6 @@ Ein Grund für die Delokalisierung von Unternehmen ist, dass in den Industrienat
 * In den genannten Nearshoring Regionen liegt eine hohe Qualifikation in fachlicher (und sprachlicher) Hinsicht vor. Des Weiteren sind sie durch Flexibilität, bessere Reaktion auf Marktveränderungen und eine einfachere Risikoanalyse gekennzeichnet.
 
 
-![Beispielabbildung](Projekt_Nearshoring/test-file.jpg)
 
 
 
