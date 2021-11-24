@@ -37,7 +37,7 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 ![Chemikum FAU](Bauprojekte/MPSBeitrag.jpeg)
 *Chemikum FAU*
 ## Erfolgreiche Bauprojekte
-### Bachelorstudiengang Projektmanagement Bau
+# Bachelorstudiengang Projektmanagement Bau
 
 # Begriffsdefinitionen
 
