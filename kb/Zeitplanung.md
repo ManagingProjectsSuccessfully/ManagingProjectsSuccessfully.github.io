@@ -68,10 +68,10 @@ Ein Beispiel hierfür wären klassische [Bauprojekte](Bauprojekte.md). Die gesch
 * [Routineprojekte](Routineprojekte.md)
 * [Projektstrukturplan](Projektstrukturplan.md)
 * [Bauprojekte](Bauprojekte.md)
-* [Link auf diese Seite](Zeitplanung.md)
 * [Schätzungen](Schaetzverfahren_Aufwaende.md)
 * [SMART_Ziele](SMART_Ziele.md)
 * [Projektlebenszyklus](Projekt_Lebenszyklus.md)
+* [Link auf diese Seite](Zeitplanung.md)
 
 # Weiterführende Literatur
 
