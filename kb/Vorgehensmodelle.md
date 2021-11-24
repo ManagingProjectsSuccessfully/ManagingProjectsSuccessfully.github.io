@@ -4,20 +4,21 @@ tags: agil klassisch Projektmanagement Planung Organisation Vorgehensweise Entwi
 author: hello-pukeko
 anrechnung: k
 ---
-Kompendium: was zum Lesen und man hat's kapiert
-Kurzbeschreibung zu Vorgehensmodelle
+>Kompendium: was zum Lesen und man hat's kapiert
+
+# Kurzbeschreibung zu Vorgehensmodelle
+Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, Rollen - kurz *wer wann was* macht - und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. [^110][^90]
+Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geeignetes auszuwählen ist keine leichte Aufgabe. Es existieren unterschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur Anpassung.[^50]
 
 # Begriffsdefinition Vorgehensmodell
 Broy und Kuhrmann[^110] definieren den Begriff Vorgehensmodell folgendermaßen:  
-"Ein Vorgehensmodell beschreibt systematische, ingenieurmäßige und quantifizierbare Vorgehensweisen, um Aufgaben einer bestimmten
+>"Ein Vorgehensmodell beschreibt systematische, ingenieurmäßige und quantifizierbare Vorgehensweisen, um Aufgaben einer bestimmten
 Klasse wiederholbar zu lösen."[^110]
-Vorgehensmodelle sind dabei von Methoden zu unterscheiden. In einem Vorgehensmodell können verschiedene und mehrere Methoden angewandt werden. [^110] Diese können in einem Vorgehensmodell festgelegt werden, aber müssen nicht. Ein Vorgehensmodell kann Festlegungen zur Verwendung von Methoden enthalten, muss es aber nicht. [^90] / VM können verschieden Methoden enthalten. [
 
-Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, Rollen, wer wann was macht und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. [^110][^]
-Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geignetes auszuwählen ist keine leichte Sache. Es gibt unterschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur Anpassung. Es gibt einige Standard-Vorgehensmodelle ebenso wie abgewandelte z.B. firmenspezifische Vorgehensmdoelle. (Nicht abgewandelt, das einfach löschen) Genau.
+Vorgehensmodelle sind dabei von Methoden zu unterscheiden. In einem Vorgehensmodell können verschiedene Methoden angewandt werden,[^110] die durch das Vorgehensmodell vorgegeben sein können.[^30] Abbildung 1 zeichnet einen Überblick über Bestandteile eines Vorgehensmodells.
 
 ![Bestandteile eines Vorgehensmodells](Vorgehensmodelle/Bestandteile_eines_Vorgehensmodells.png)
-![Ordnungsschema](Vorgehensmodelle/Ordnungsschema%20Kneuper%20et%20al.JPG)
+Abbildung 1: Bestandteile eines Vorgehensmodells[^90]
 
 # Arten von Vorgehensmodellen
 Vorgehensmodelle können in klassische und agile Vorgehensweisen, sowie hybride Varianten unterscheiden werden. Die Terminologie ist hierbei analog zur Vorlesung Managing Projects Successfully gewählt. In der Literatur findet sich jedoch eine Vielzahl anderer Bezeichnungen und unterschiedliche Einteilungen. Einen Überblick über mögliche Klassifizerungen liefert Tabelle 1.
@@ -57,7 +58,7 @@ Abbildung: Konzept des Spiralmodells [^90]
 
 **Vorteil** agiler Vorgehensmodelle ist, dass durch das inkrementelle Vorgehen früh erste einsetzbare Ergebnisse vorliegen[^10] und durch die Iterationen auf Fehler und Änderungen leichter eingegangen werden kann als bei Phasenmodellen.
 
-**Nachteil** 
+**Nachteil** ist, dass das Projekt dazu geeignet sein muss Teilaspekte nacheinander zu entwickeln und jeweils an das jeweils vorige Ergebnis anzubauen/....[^110]
 
 Agile Vorgehensmodelle können auch eingesetzt werden, wenn die genaueren Anforderungen zu Beginn noch nicht feststehen.[^120] Sie eignen sich daher besonders für komplexe Aufgabenstellungen in Umgebungen mit stetigen Veränderungen,[^120] sofern das Projektergebnis sich sinnvoll in Teilabschnitte auftrennen lässt. [^100][^90]
 
