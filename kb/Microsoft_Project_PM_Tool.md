@@ -49,11 +49,18 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 
 # Benutzeroberfläche
 
-Die Benutzeroberfläche von MS Project verwendet das übliche Design der Office Familie. Am oberen Bildschirmrand befindet sich eine grüne Bildschirmleiste mit dem Menüband und dessen Reiter. In dieser Ansicht ist der Reiter "Vorgang" geöffnet, welcher die Grundfunktionen für die Tabelle auf der linken sowie dem Balkendiagramm auf der rechten Seite enthält. 
+Die Benutzeroberfläche von MS Project verwendet das übliche Design der Office Familie. Am oberen Bildschirmrand befindet sich eine grüne Bildschirmleiste, mit dem Menüband und dessen Reiter. In der Abbildung 2 ist der Reiter "Vorgang" geöffnet, welcher die Grundfunktionen für die Tabelle auf der linken sowie dem Balkendiagramm auf der rechten Seite enthält. Unterhalb des Menüs befindet sich eine Timeline, die die Meilensteine des Projekts widerspiegelt.
+Die Tabelle gliedert das Projekt in Form von Sammelvorgängen (Überpunkten) und Prozessen (Unterpunkten).
+Die sich in der Beschreibung befindliche Abbildung 1 ist in der Tabelle als Kopfzeile aufzufinden.
+Die Auflistung der Prozesse ist mit dem Balkendiagramm verknüpft, sodass eine Änderung in der Visualisierung mit einem Nachtrag in der Gliederung und umgekehrt einhergeht.
+Im Gantt Diagramm sind Vorgänge abgebildet, die nach Fortschritten prozentual bewertet und farblich gekennzeichnet werden.
+Der Meilenstein am unteren, rechten Bildsschirmrand repräsentiert ein Zwischenziel mit angehängtem Datumsformat, auf welches hingearbeitet wird.
+
+[^4]
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/MS_Project_Rahmenterminplan.jpg)
 
-*Abbildung 2: Rahmenterminplan*
+*Abbildung 2: Rahmenterminplan*[^4]
 
 
 
