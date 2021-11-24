@@ -30,6 +30,25 @@ Wissensmanagementsoftware bietet Unternehmen somit eine digitale Unterstützung 
 Das Angebot reicht dabei von kleinen Softwarepaketen für einzelne Personen, bis zu hochspezialisierter Unternehmenssoftware für Großunternehmen. 
 Erfolgreiche Wissensmanagementsoftware kann leicht in bestehende Unternehmensstrukturen integriert werden und hat das Potenzial mit dem Unternehmen zu wachsen 6.
 
+###Wissensmanagementsoftware am Beispiel der Wisdom+ Wissensmanagement Software
+
+Aufgrund des riesigen Angebots an Wissensmanagementsoftware und deren unterschiedlichen Ansätze, möchte ich mich im Folgenden auf eine bestimmte 
+Software des Unternehmens „Zehnplus GmbH“ konzentrieren. Zehnplus bietet mit ihrer Wisdom+ Wissensmanagementsoftware, eine Plattform rund um das Thema Wissensmanagement. 
+Anhand von diesem Beispiel soll unter Betrachtung der folgenden Grafik, die Grundstruktur solcher WMS dargestellt werden.
+
+Abbildung
+
+Das Grundprodukt und somit der Kern der Plattform ist natürlich die Knowledge Base, hier wird das gesamte vorhandene Wissen zentral 
+an einem Ort gespeichert (Single Source of Information). Durch modernes Datenmanagement (DM) können hier Daten analysiert, kombiniert und verteilt werden. 
+Zusätzlich besteht die Möglichkeit Intelligente Automatisierungen zur Optimierung von Arbeitsprozessen zu integrieren (IA).  
+Die Knowledge Base wird dauerhaft aktualisiert und es können zu jedem beliebigen Zeitpunkt Echtzeitdaten abgerufen werden (Real Time Knowledge). 
+Die AI gestützte Datenabfrage ermöglicht schnelle und akkurate Ergebnisse (AI).  Mitarbeiter aber auch die Kunden sollen in engem Austausch mit der Plattform stehen. 
+Um diesen Austausch zu optimieren werden zusätzlich acht flexible Produkte angeboten, welche je nach Bedürfnis integriert werden können. 
+Die Produkte Digital Dashboard, Digital Communications, eLearning und Digital Work Instructions sollen den Wissensaustausch zwischen der Knowledge Base
+und den Mitarbeitern intensivieren. Genauer gesagt, sollen die Produkte positiv zur Weiterbildung, Vernetzung und Motivation der Mitarbeiter beitragen. 
+Auf der anderen Seite stehen die Produkte eCommerce and Sales Support, Digital Customer Communication, Helpcenter with FAQ and Chat Bot und Multimedia User Guide. 
+Diese Produkte sollen die Plattform in den Bereichen Vertrieb, Kundensupport und Kundenbindung erweitern. Damit schließt sich der Kreis und wir können
+ein Prinzip erkennen, wie WMS ein Unternehmen im Bereich WM unterstützt 11. 
 
 
 
