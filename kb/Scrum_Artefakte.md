@@ -1,6 +1,6 @@
 ---
 title: Scrum_Artefakte
-tags: agil klassisch
+tags: agil, scrum, artefakte
 author: kutaydogan
 anrechnung: a
 ---
