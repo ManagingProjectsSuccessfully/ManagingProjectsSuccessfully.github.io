@@ -13,7 +13,7 @@ Vom mittleren Hauptthema gehen Verzweigungen aus, die zu Gedanken und Unterpunkt
 
 ![Abbildung](kb/Mindmapping/schema_mindmap.jpg)
 
-„Mind-Mapping ist der meines Wissens nach effektivste Mechanismus, um die erhöhte Flexibilität des Denkens wirklich werden zu lassen.“ [^2]
+„Mind-Mapping ist der meines Wissens nach effektivste Mechanismus, um die erhöhte Flexibilität des Denkens wirklich werden zu lassen.“, Peter Kline, Dichter und Lehrer an der University of San Francisco [^2]
 
 Das Konzept des Mind-Mappings wurde von Tony Buzan konzipiert, indem er sich die Frage stellte, wie man sich am besten Dinge merken kann. Er sah darin das Potential, durch Verbildlichung von Texten sowohl die linke als auch die rechte Gehirnhälfte gleichzeitig zu aktivieren und so die Erinnerungsleistung zu optimieren.
 
