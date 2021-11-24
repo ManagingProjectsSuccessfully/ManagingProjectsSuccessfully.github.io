@@ -12,7 +12,7 @@ Der Cone of Uncertainty – im deutschen Kegel der Unsicherheit ist eine graphis
 sind. Diese Faktoren belegen Aussichten in die Zukunft wie beispielsweise Schätzungen mit zeitabhängigen Unsicherheiten. Der Begriff Kegel soll hierbei aufzeigen, dass je weiter 
 man in die Zukunft schaut, desto mehr können sich diese Störfaktoren addieren, „so dass die räumliche Vorstellung eines Kegels, der im Umfang immer größer wird, sehr gut zu 
 diesem Effekt passt". Dabei wird der Kegel kleiner, je weniger die noch zu bestreitende Zeitspanne und näher man vor [Projektabschluss](Projektabschluss.md) steht.[^1] Erst wenn das zuständige 
-[Projektteam](Projektmitarbeiter.md) ihre Tätigkeit abschließt beziehungsweise die Verantwortung dafür weitergibt, erreichen die Unsicherheiten die null Prozent Marke[^5]. 
+[Projektteam](Projektmitarbeiter.md) ihre Tätigkeit abschließt, beziehungsweise die Verantwortung dafür abgibt, erreichen die Unsicherheiten die null-Prozent-Marke[^5]. 
 
 ![Beispielabbildung](Cone_of_Uncertainty/CoU.jpg)
 
@@ -39,16 +39,17 @@ und Maximum von Tag zu Tag größer.[^1] Daneben ist auch die Hurrikan-Vorhersag
 
 # Cone of Uncertainty im Projektmanagement 
 
-Darstellungsmethoden, wie der Cone of Uncertainty sind im [Projektmanagement](Projektmanagement) von großer Bedeutung, um zentrale Punkte aufzuzeigen. Diese sind besonders geeignet zur Illustration 
-von Projektscope und -ziel sowie wesentlicher Projektergebnisse. Im Allgemeinen sind Darstellungsmethoden für agile als auch klassische Projekte anwendbar, sodass der „Cone of 
-Uncertainty unabhängig vom Paradigma (klassisch vs. agil) einsetzbar“ ist.[^1] Zu Beginn jedes Projekts weiß man nicht, wie viel Zeit dieses exakt in Anspruch nehmen wird. Die 
-Gründe hierfür sind vielfältig. Projekte unterscheiden sich in den Anforderungen, Prioritäten, Einschränkungen, Technologien oder auch den Geschäftsbereich und den daran 
+Darstellungsmethoden, wie der Cone of Uncertainty sind im [Projektmanagement](Projektmanagement) von großer Bedeutung, um zentrale Aspekte aufzuzeigen. Diese sind besonders geeignet zur Illustration 
+von Projektscope und -ziel, sowie wesentlicher Projektergebnisse. Im Allgemeinen sind Darstellungsmethoden für agile als auch klassische Projekte anwendbar, sodass der „Cone of 
+Uncertainty unabhängig vom Paradigma (klassisch vs. agil) einsetzbar“ ist.[^1] 
+Zu Beginn jedes Projekts weiß man nicht, wie viel Zeit dieses exakt in Anspruch nehmen wird. Die 
+Gründe hierfür sind vielfältig. Projekte unterscheiden sich in den Anforderungen, Prioritäten, Einschränkungen, Technologien oder auch dem Geschäftsbereich und den daran 
 beteiligten Personen. Jedes [Projekt](Projekt.md) ist individuell, wofür es jedoch einige hilfreiche Umgangsmöglichkeiten gibt. „Sizing the project relatively“, beschreibt den Ansatz, den 
 Umfang eines Projekts mit den anderer zu vergleichen. Dadurch kann verhältnismäßig auf das Ausmaß, des zu betrachtenden Projekts geschlossen werden, was für die Orientierung 
 von Vorteil ist. Daneben kann es nützlich sein, seine Berechnungen oder Schätzungen was benötigte Zeit oder Kosten angeht, etwas höher anzusetzen. Dadurch ergibt sich ein 
 gewisser "Puffer" und im Projekt zusätzlich Spielraum. Hier ist jedoch darauf zu achten, die richtige Balance zu finden. Werden die Vorhersagen zu hochgesteckt, kann dies zum 
 Beispiel mögliche Sponsoren abschrecken. Wird wiederrum zu wenig kalkuliert, läuft man Gefahr, dass finanzielle Mittel oder Zeit ausgehen. Weiterhin wichtig ist es, offen und 
-ehrlich Zahlen und aktuelle Standpunkte mit Projektpartnern zu kommunizieren. Damit kann negativen Überraschungen aus dem Weg gegangen werden[^3]. 
+ehrlich Zahlen und aktuelle Standpunkte mit Projektpartnern zu kommunizieren. Damit kann negativen Überraschungen aus dem Weg gegangen werden.[^3] 
 
 
 
@@ -63,12 +64,16 @@ ehrlich Zahlen und aktuelle Standpunkte mit Projektpartnern zu kommunizieren. Da
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Cone_of_Uncertainty.md)
+* [Projekt](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projektabschluss](Projektabschluss.md)
+* [Projektteam](Projektmitarbeiter.md)
 
 # Weiterführende Literatur
 
 * The Agile Samurai - Jonathan Rassmuson(2016)
+* Software Project Survival Guide - Steve McConnel(1997)
+* Code Complete - Steve McConnel(2016)
 
 # Quellen
 
