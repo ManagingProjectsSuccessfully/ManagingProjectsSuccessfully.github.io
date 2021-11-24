@@ -21,7 +21,7 @@ Zusätzlich kann man diese Beispiele in freiwillige und nicht unfreiwillige Übe
 
 Verantwortung wird meist philosophisch erklärt und beschrieben, da es auch sehr vielschichtig und nicht eindeutig ist. Doch mit dem Begriff Verantwortlichkeit wird oft konkret die Zuweisung einer Aufgabe verbunden, wie ein Projekt zu leiten.[^2]
 
-![Testbild](Verantwortlichkeiten/Grundbeziehungen der Verantwortung.jpg)
+![Testbild](kb/Verantwortlichkeiten/Grundbeziehungen-der-Verantwortung.jpg)
 
 # Projektverantwortung
 
