@@ -5,6 +5,8 @@ author: oliPM
 anrechnung: k 
 ---
 
+# Einleitung
+
 Microsoft Project bezeichnet eine Projektmanagementsoftware, des Entwicklers Microsoft Corporation und ist Bestandteil der Office Familie. 
 Neben der Microsoft Project Standard Software, als Einzelplatzversion, steht Microsoft Project Professional als Server Version zur Verfügung.
 Microsoft Project ist im Jahre 1984 erschienen und wird seit diesem Erscheinungsdatum regelmäßig aktualisiert und überarbeitet. 
@@ -104,7 +106,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: https://de.wikipedia.org/wiki/Microsoft_Project
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
