@@ -6,13 +6,13 @@ anrechnung: k
 ---
 
 <b>Lessons Learned</b> (gewonnene Erkenntnisse) ist ein wichtiger Bestandteil des Projektmanagements. <br><br>
-Ziel ist es aus den praktischen Erfahrungen des zurückliegenden Projekts für die Zukunft zu lernen. 
-Entscheidend hierbei ist das neu erlangte Wissen, sowie die positiven und negativen Ereignisse und Erfahrungen, die im Laufe des Projekts aufgetreten sind und gesammelt werden konnten.[^1] <hr>
+Ziel ist es, aus den praktischen Erfahrungen des zurückliegenden Projekts für die Zukunft zu lernen. 
+Entscheidend hierbei ist das neu erlangte Wissen, sowie die positiven und negativen Erfahrungen, die im Laufe des Projekts gesammelt werden konnten.[^1] <hr>
 
 
-# Warum ist Lessons Learned sinnvoll? 
+# Zweck von Lessons Learned? 
 
-Durch eine konsequente Umsetzung der <b>Lessons Learned</b> kann vermieden werden, die gleichen oder ähnliche Fehler bei der Durchführung eines Projekts zu wiederholen. Außerdem können Ansätze, die gut funktioniert haben, identifiziert werden und bei der Umsetzung des nächsten Projekts angewandt werden.<br> <b>Lessons Learned</b> bietet somit zum einen den Vorteil aufgetretene Fehler beim nächsten Mal besser zu machen (aus ihnen zu lernen), sowie bereits gut funktionierendes Verhalten zu identifizieren und für zukünftige Projekte zu übernehmen. <hr> 
+Die gleichen oder ähnliche Fehler bei der Durchführung eines Projekts zu wiederholen, kann durch eine konsequente Umsetzung der <b>Lessons Learned</b> kann vermieden werden. Außerdem können Ansätze, die gut funktioniert haben, identifiziert werden und bei der Umsetzung des nächsten Projekts angewandt werden.<br> <b>Lessons Learned</b> bietet somit zum einen den Vorteil aufgetretene Fehler beim nächsten Mal besser zu machen, sowie bereits gut funktionierendes Verhalten zu identifizieren und für zukünftige Projekte zu übernehmen. <hr> 
 
 
 # Ablauf
@@ -22,7 +22,7 @@ _Quelle: eigene Darstellung_
 
 ### 1. Identifizieren der Lessons Learned
 
-In der Regel ist der erste Teil des <b>Lessons Learned</b> ein einzelnes Meeting bzw. Workshop, an dem sich die am Projektbeteiligten am Ende des Projekts zusammensetzen und über das vergangene Projekt sprechen. Wichtige Fragen, die hierbei beleuchtet werden und über die das Team redet sind beispielsweise[^3]: <br> 
+In der Regel ist der erste Teil des <b>Lessons Learned</b> ein einzelnes Meeting bzw. Workshop, an dem sich die am Projektbeteiligten am Ende des Projekts zusammensetzen und über das vergangene Projekt sprechen. Wichtige Fragen, die hierbei beleuchtet werden und über die das Team redet, sind beispielsweise[^3]: <br> 
 - Was ist gut gelaufen? <br>
 - Was ist nicht so gut gelaufen? <br>
 - Was können wir verbessern? <br>
@@ -36,7 +36,7 @@ Wichtig ist es, dass die im Workshop besprochenen Erkenntnisse festgehalten und 
 Das Besprochene wird tiefergehend analysiert, um beispielsweise Themengebiete zu identifizieren, die häufiger vorkommen oder besonders kritisch für den reibungslosen Projektablauf sind. 
 
 ### 4. + 5. Speichern und Zugänglich machen
-Abschließend müssen die Lessons Learned noch zum einen gespeichert werden (idealerweise in der Lessons-Learned-Datenbank des Unternehmens) und zum anderen müssen die Informationen den Mitarbeitern zugänglich gemacht werden. Lessons Learned sind nicht nur für das Unternehmen selbst oder den Projektmanager  <br><hr>
+Abschließend müssen die Lessons Learned noch zum einen gespeichert werden (idealerweise in der Lessons-Learned-Datenbank des Unternehmens) und zum anderen müssen die Informationen den Mitarbeitern zugänglich gemacht werden. Lessons Learned sind nicht nur für das Unternehmen selbst oder den Projektmanager wichtig, sondern können auch dem einzelnen Mitarbeiter einen Mehrwert liefern.  <br><hr>
 
 # Schwierigkeit
 
