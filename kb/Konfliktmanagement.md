@@ -11,10 +11,10 @@ Das Wort „[…] Konflikt leitet sich ab vom lateinischen Substantiv „conflic
 und beschreibt dementsprechend eine Situation, in der unterschiedliche Ansichten und Vorlieben aufeinandertreffen.[^3]
 
 Konflikte können bereits sehr früh erkannt werden, da „der Ansatz von Konflikten […] 
-schon in der [Projektstart-Phase] (Projektphasen_klassisch.md) entstehen [kann]."[^4]
-Auf einen fehlgeschlagenen [Projektstart] (Projektstart.md) folgt meist ein Konflikt.[^5]  
+schon in der [Projektstart-Phase](Projektphasen_klassisch.md) entstehen [kann]."[^4]
+Auf einen fehlgeschlagenen [Projektstart](Projektstart.md) folgt meist ein Konflikt.[^5]  
 Die frühzeitige Erkennung und Vermeidung von Konflikten spielt somit bei dem Konzept des klassischen Projektmanagement eine wichtige Rolle, 
-da diese bei der Umfangreichen [Projektplanung] (Projektplanung.md) berücksichtigt werden können.  
+da diese bei der Umfangreichen [Projektplanung](Projektplanung.md) berücksichtigt werden können.  
 Zentrale Aufgaben der Projektleitung, im klassischen Projektmanagement, sind Uneinigkeiten mittels eindeutiger Ansagen und durchdachtem Vorgehen zu umgehen.[^6]
 
 Um Konflikte bestmöglich zu lösen, hat man sich Gedanken gemacht welche verschiedenen Arten es von Konflikten gibt. 
@@ -44,7 +44,7 @@ Deswegen ist es wichtig im klassischen Projektmanagement
 Mithilfe der R.A.S.I.C Matrix kann im klassischen Projektmanagement vorab die Rollenverteilung veranschaulicht und verwaltet werden,
 wobei die Abkürzung R.A.S.I.C für Responsible, Accountable, Support, Informed und Consultet steht.[^7]
 Somit handelt es sich hier um die Rollen der Verantwortlichkeit, der Rechenschaftspflichtigkeit, der Unterstützung, der Information und der Konsultation.
-Die R.A.S.I.C Matrix ist eine erweiterte Form der Standart-Matrix [RACI] (RACI.md),
+Die R.A.S.I.C Matrix ist eine erweiterte Form der Standart-Matrix [RACI](RACI.md),
 welche die Rolle der Verantwortlichkeit noch in die Rolle der Unterstützung unterteilt.[^10]
 
 Im Folgenden ist eine solche RASIC [Matrix] (https://wirtschaftslexikon.gabler.de/definition/matrix-37186) vereinfach dargestellt:
@@ -53,7 +53,7 @@ Im Folgenden ist eine solche RASIC [Matrix] (https://wirtschaftslexikon.gabler.d
 *Rasic-Matrix*
 
 
-Hier ist gut erkennbar, dass durch eine solche [Matrix] (Matrix_Projektorganisation.md) vereinfacht dargestellt werden kann, 
+Hier ist gut erkennbar, dass durch eine solche [Matrix](Matrix_Projektorganisation.md) vereinfacht dargestellt werden kann, 
 welcher Mitarbeiter für welche Tätigkeit zuständig ist.
 
 
@@ -75,11 +75,11 @@ um flexibel auf Veränderungen zu reagieren“[^13] und besser auf spontan auftr
 
 # Siehe auch
 
-* [Projektstart-Phase] (Projektphasen_klassisch.md)
-* [Projektstart] (Projektstart.md)
-* [Projektplanung] (Projektplanung.md)
-* [RACI] (RACI.md)
-* [Matrix] (Matrix_Projektorganisation.md)
+* [Projektstart-Phase](Projektphasen_klassisch.md)
+* [Projektstart](Projektstart.md)
+* [Projektplanung](Projektplanung.md)
+* [RACI](RACI.md)
+* [Matrix](Matrix_Projektorganisation.md)
 
 # Weiterführende Literatur zum Thema Konfliktmanagement 
 
