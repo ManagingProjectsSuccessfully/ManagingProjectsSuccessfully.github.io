@@ -34,7 +34,7 @@ In der Planphase wird der Zustand analysiert und die Potenziale festgestellt. Im
 # Vorteile
 Mit dem Wandel der Zeit und dem Fortschritt der Technologie und Digitilasierung werden ohnehin mehr Mitarbeiter und größere Teams für die Entwicklung eines Autos benötigt. Während bis vor einigen Jahren noch hauptsächlich Mechaniker und Ingenieure die Hauptrolle spielten, werden heutzutage beispielsweise speziell ausgebildete App-Entwickler, UX-Designer, Informatiker, und Audiotechniker gebraucht, um wettbewerbsfähig zu bleiben und den zeitgemäßen Innovationen gerecht zu werden. Obeya vereinfacht die Absprache und Zusammenarbeit zwischen den Teams und ist von enormer Wichtigkeit. Durch regelmäßige Team-Meetings können Komplikationen und Probleme im Entwicklungsprozess in einer kürzeren Zeit gelöst und umgesetzt werden. [^3]
 
-Vor allem bei Toyota wurde Obeya besonders effektiv umgesetzt. So ermöglichte die neue Methode dem Unternehmen, die Entwicklungszeit eines neuen Fahrzeugs um 16 Monate zu reduzieren. Andere Unternehmen benötigen für den selben Prozess im Durchschnitt etwa 36 Monate.[^1]
+Vor allem bei Toyota wurde Obeya besonders effektiv umgesetzt. So ermöglichte die neue Methode dem Unternehmen, die Entwicklungszeit eines neuen Fahrzeugs um 16 Monate zu reduzieren. Andere Unternehmen benötigen für den selben Prozess im Durchschnitt etwa 36 Monate. [^1]
 
 # Quellen
 [Obeya(appvizer)](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/obeya)
