@@ -36,17 +36,17 @@ Wichtig ist es, dass die im Workshop besprochenen Erkenntnisse festgehalten und 
 Das Besprochene wird tiefergehend analysiert, um beispielsweise Themengebiete zu identifizieren, die häufiger vorkommen oder besonders kritisch für den reibungslosen Projektablauf sind. 
 
 ### 4. + 5. Speichern und Zugänglich machen
-Abschließend müssen die Lessons Learned noch zum einen gespeichert werden (idealerweise in der Lessons-Learned-Datenbank des Unternehmens) und zum anderen müssen die Informationen den Mitarbeitern zugänglich gemacht werden. Lessons Learned sind nicht nur für das Unternehmen selbst oder den Projektmanager 
+Abschließend müssen die Lessons Learned noch zum einen gespeichert werden (idealerweise in der Lessons-Learned-Datenbank des Unternehmens) und zum anderen müssen die Informationen den Mitarbeitern zugänglich gemacht werden. Lessons Learned sind nicht nur für das Unternehmen selbst oder den Projektmanager  <br>
 
-<br> 
-## Schwierigkeit
+# Schwierigkeit
+
 Lessons Learned bietet viele Vorteile, allerdings gibt es gewisse Faktoren, die die Durchführung des deutlich erschweren.<br>
 Durch den späten Zeitpunkt des Workshops kommt es teilweise dazu, dass sich die Mitwirkenden am Projekt sich nicht mehr an alles erinnern, was ihnen im Laufe des Projekts Schwierigkeiten bzw. Erleichterung gebracht hat. Deshalb kann das Führen eines Logbuches sinnvoll sein. 
-<br><br>
+<br>
 Eine weitere Schwierigkeit besteht in Stakeholdern, die nicht glauben, dass sich etwas verändern wird durch die Lessons Learned. Sie zeigen deshalb wenig Bereitschaft am Prozess teilzunehmen und ihre Sicht der Dinge offenzulegen. Aus diesem Grund ist es umso wichtiger die zuvor genannten Punkte zu befolgen und die Erkenntnisse nicht nur zu sammeln, sondern auch weiterzureichen und umzusetzen. 
 
-
-
+# Einordnung 
+<b>Lessons Learned</b> finden sowohl im agilen als auch im klassischen Projektmanagement Anwendung. Es ist zwar ähnlich zu der Sprint-Retrospektive, allerdings ist der Zeitpunkt und Häufigkeit der Durchführung unterschiedlich. Während die Sprint-Retrospektive am Ende eines Sprints erfolgt (also ungefähr alle 4 Wochen), findet das <b>Lessons Learned</b> am Ende eines Projekts statt. Damit werden die Verbesserungen, anders als bei den Sprint-Retros, erst im nächsten Projekt verwendet. 
 
 
 
