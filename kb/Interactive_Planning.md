@@ -7,7 +7,7 @@ anrechnung: a
 
 # Einleitung
 
-Interactive Planning ist ein Konzept, das vom Theoretiker Russell L. Ackoff entwickelt wurd. 
+Interactive Planning ist ein Konzept, das vom Theoretiker Russell L. Ackoff entwickelt wurde. 
 Dahinter steckt die Idee, dass, um ein wünschenswertes Zukunftsbild zu erreichen, man zuerst eine wünschenswerte Gegenwart kreieren muss, um dann Wege 
 und Mittel zu finden diese nachzustellen. Zudem lässt dieses Konzept zu, dass die [Stakeholder](Stakeholderanalyse.md) der Organisation im 
 Planungsprozess involviert sind [^1].
