@@ -37,6 +37,7 @@ Das Sprint Backlog setzt sich aus den ausgewählten Einträgen aus dem Product B
 
 # 3. Produktinkrement
 
+k
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
