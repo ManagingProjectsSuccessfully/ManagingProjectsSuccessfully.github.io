@@ -18,7 +18,7 @@ Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maxim
 
 # 1. Product Backlog
 
-## 1.1 Was ist das Product Backlog?
+## 1.1 Zusammensetzung des Product Backlogs
 
 Das Product Backlog könnte man als Kernartefakt von Scrum bezeichnen, da es sich hier um eine Liste handelt, welche geordnet und priorisiert alle Funktionen und Kriterien aufzeigt, die das Endprodukt bieten soll.[^2][^3]
 
