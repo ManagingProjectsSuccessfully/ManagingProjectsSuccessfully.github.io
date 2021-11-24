@@ -23,7 +23,7 @@ Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen kann unte
 * kreatives und innovatives Denken wird gefördert
 * Interdisziplinärer Erfahrungstausch
 * Lösungen werden gemeinsam erarbeitet
-* das Team- und Zusammengehörigkeitsgefühl werden gestärkt
+* das Team- und Zusammengehörigkeitsgefühl wird gestärkt
 * neue oder bestehende Beziehungen und Netzwerke werden aufgebaut oder vertieft[^4]
 
 
