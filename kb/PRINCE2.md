@@ -29,13 +29,15 @@ Die PRINCE2-Methode setzt sich aus vier Grundbausteinen zusammen, auf welche im 
 
 Daneben definiert PRINCE2 festgelegte Rollen & Verantwortlichkeiten innerhalb des Projektteams und gibt konkrete Handlungsempfehlungen für jede Projektphase. [^8]
 
+
+
 ![Schlüsselelemente von PRINCE2](PRINCE2/Transparenttest3.png)                                      
 *Grafik: Die Schlüsselelemente von PRINCE2*  [^9]
 
 # Die 7 Themen von PRINCE2
 
-Die 7 PRINCE2 Themen (auch als Arbeitsdimensionen zu verstehen) beschreiben die Umsetzung der [7 Grundprinzipien] genauer. 
-Jedes der Themen beantwortet eine eigene, wichtige Fragestellung und soll einen erfolgreichen Projektablauf möglichst positiv beeinflussen. Die Themen geben also Hilfestellung, wie ein Projekt anzugehen ist und müssen daher während des Projektablaufs fortlaufend beachtet werden: [^3][^4][7]
+Die 7 PRINCE2 Themen (auch als Arbeitsdimensionen zu verstehen) beschreiben die Umsetzung der 7 Grundprinzipien genauer. 
+Jedes der Themen beantwortet eine eigene, wichtige Fragestellung und soll einen erfolgreichen Projektablauf möglichst positiv beeinflussen. Die Themen geben also Hilfestellung, wie ein Projekt anzugehen ist und müssen daher während des Projektablaufs fortlaufend beachtet werden: [^3][^4][^7]
 
 1. [**Business Case**](Business_Cases.md) *(Warum?)*:
 Sicherstellung, dass das Projekt während der gesamten Dauer auf die Ziele der Unternehmung ausgerichtet bleibt und einen Nutzen stiftet (geschäftliche  Rechtfertigung)
@@ -86,7 +88,7 @@ Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststel
 
 # Zertifizierung nach PRINCE2
 
-Die [Zertifizierung](Zertifizierungen.md) nach PRINCE2 kann über zwei verschiedene aufeinander aufbauende Stufen erreicht werden: [^2][^8][^11]
+Die [Zertifizierung](Zertifizierungen.md) nach PRINCE2 kann auf zwei verschiedenen aufeinander aufbauenden Stufen erreicht werden: [^2][^8][^11]
 
 |  | **Foundation-Prüfung** | **Practitioner-Prüfung**|
 | ------------- | ------------- | ------------ |
