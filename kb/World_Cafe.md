@@ -5,7 +5,7 @@ author: larissadiscua
 anrechnung: k
 ---
 
-Das World Café ist eine interaktive Alternative zu Konferenzen und Seminaren, die eine zwanglose Atmosphäre bietet und Teilnehmer zu Diskussionen anregt, die alltäglichen Gesprächen in einem Café ähneln sollen.[^1] Dabei soll der Austausch von Gedanken und Ideen dazu führen, dass neue Sichtweisen entstehen und Probleme aus vielen verschiedenen Perspektiven betrachtet werden können.[^2]
+Das World Café ist eine interaktive Alternative zu Konferenzen und Seminaren und bietet eine zwanglose Atmosphäre, die Teilnehmer zu Diskussionen anregt, die alltäglichen Gesprächen in einem Café ähneln sollen.[^1] Dabei soll der Austausch von Gedanken und Ideen dazu führen, dass neue Sichtweisen entstehen und Probleme aus vielen verschiedenen Perspektiven betrachtet werden können.[^2]
 
 # Eignung 
 
@@ -35,7 +35,7 @@ Bei der Planung müssen folgende Fragen geklärt werden:
 
 
 Zudem werden folgende Hilfsmittel benötigt:
-1. Ein Raum, der groß genug für mehrere Gruppentische ist (dieser kann nach belieben gestaltet werden, doch je mehr die Atmosphäre der eines Cafés ähnelt, desto besser) 
+1. Ein Raum, groß genug für mehrere Gruppentische (dieser kann nach belieben gestaltet werden, doch je mehr die Atmosphäre einem Cafés ähnelt, desto besser) 
 2. Gruppentische mit 4-6 Stühlen
 3. Papiertischdecken
 4. Stifte[^6]
