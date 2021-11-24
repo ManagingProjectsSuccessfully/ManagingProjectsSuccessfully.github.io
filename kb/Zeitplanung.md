@@ -32,7 +32,7 @@ Zeitplanung im klassischen Sinne ist somit ist die Bestimmung der Projektdauer, 
 Quelle: [^5]
 
 # Projektablaufplan
-Der Projektablaufplan ist der Terminkalender für das Projekt. In ihm wird chronologisch der Ablauf der Arbeiten bestimmt. Es ist genau beschrieben, wie die einzelnen Arbeitspakete zeitlich abgearbeitet werden müssen. Außerdem wird eingetragen, wann gewünschte Meilensteine erreicht werden sollen und in welcher Beziehung Arbeitspakete und Meilensteine zueinanderstehen. 
+Der Projektablaufplan bzw. [Projektstrukturplan](Projektstrukturplan.md) ist der Terminkalender für das Projekt. In ihm wird chronologisch der Ablauf der Arbeiten bestimmt. Es ist genau beschrieben, wie die einzelnen Arbeitspakete zeitlich abgearbeitet werden müssen. Außerdem wird eingetragen, wann gewünschte Meilensteine erreicht werden sollen und in welcher Beziehung Arbeitspakete und [Meilensteine](Meilensteine.md) zueinanderstehen. 
 Es müssen bestimmte Risiken vorausgesehen und berücksichtigen werden. Zum Beispiel Verzögerungen von Lieferterminen, erkrankte Mitarbeiter, mehr Aufwand, Ausfall von Maschinen, etc. Deshalb darf im Projektablaufplan nichts zu knapp kalkuliert werden. [^7]
 
 [Netzplantechniken](Netzplantechnik.md) helfen dabei einen möglichst gute Projektplan aufzustellen. Graphische Darstellungen hierfür sind beispielsweise  [Gantt-Diagramme](Gantt_Diagramme.md).
@@ -42,8 +42,8 @@ Schätzungen sind in allen Phasen von Projekten wichtig. Besonders bei der Zeitp
 Die beste Schätzung gelingt nur auf der Basis von Daten ähnlicher Projekte. Diese können während des Projekts immer genauer werden, da mehr Information zur Verfügung steht. [^2]
 
 # Vor- und Nachteile der Zeitplanung im klassischem Projektmanagement
-Klassisches Projektmanagement eignet sich am besten für Projekte, welche kompliziert und genauestens ausgearbeitet werden müssen. Aber auch für Projekte die bereits in vergleichbarere Form stattgefunden haben. [^8] 
-Ein Beispiel hierfür wäre ein Hausbau. Man weiß genau zu Beginn, wie lange es dauert bis Beton trocknet oder wie lange der Handwerker im Schnitt zum Bodenverlegen braucht. [^5]
+Klassisches Projektmanagement eignet sich am besten für Projekte, welche kompliziert und genauestens ausgearbeitet werden müssen. Aber auch für Projekte die bereits in vergleichbarere Form stattgefunden haben, sogenannte [Routineprojekte](Routineprojekte.md) [^8] 
+Ein Beispiel hierfür wären klassische [Bauprojekte](Bauprojekte.md). Die geschätzte Zeit kann ziemlich genau bestimmt werden, da bestimmte Bauschritte immer gleich lange dauern. [^5]
 
 ## Vorteile [^9]
 *	Präzise zeitliche Planung
@@ -62,7 +62,15 @@ Ein Beispiel hierfür wäre ein Hausbau. Man weiß genau zu Beginn, wie lange es
 * [Magische Dreieck](Magisches_Dreieck.md)
 * [Gantt-Diagramme](Gantt_Diagramme.md)
 * [Netzplantechniken](Netzplantechnik.md)
+* [Meilensteine](Meilensteine.md)
+* [Routineprojekte](Routineprojekte.md)
+* [Projektstrukturplan](Projektstrukturplan.md)
+* [Bauprojekte](Bauprojekte.md)
 * [Link auf diese Seite](Zeitplanung.md)
+* [Schätzungen](Schaetzverfahren_Aufwaende.md)
+* [SMART_Ziele](SMART_Ziele.md)
+* [Projektlebenszyklus](Projekt_Lebenszyklus.md)
+* 
 
 # Weiterführende Literatur
 
