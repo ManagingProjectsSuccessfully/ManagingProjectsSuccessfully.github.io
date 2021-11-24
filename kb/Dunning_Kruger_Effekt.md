@@ -2,103 +2,63 @@
 title: Dunning_Kruger_Effekt
 tags: agil klassisch
 author: Philip290899
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Dunning_Kruger_Effekt um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Dunning-Kruger-Effekt - Die Selbstüberschätzung der Inkompetenten
+## Grundgedanke
+Im Jahre 1995 ereignete sich in Pittsburgh einer der spektakulärsten Banküberfälle aller Zeiten. Zwei Banken wurden am helllichten Tag von einem nicht maskierten Mann ausgeraubt. Er behauptete, dass er keinesfalls fahrlässig gehandelt habe, schließlich habe er sein Gesicht vor dem Raubüberfall mit Zitronensaft beschmiert, damit ihn die Überwachungskameras nicht sehen konnten. Diese Geschichte gilt als Paradebeispiel für das Phänomen, von dem dieser Beitrag handelt.[^1] Der griechische Philosoph Sokrates sagte einst: "Ich weiß, dass ich nichts weiß". Mit dieser Aussage war er einigen Menschen weit voraus. Der Dunning-Kruger Effekt beleuchtet das Gegenteil dieser Erkenntnis.[^2] 
+## Erklärung des Phänomens 
+Die [kognitive](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Gender_Bias.md) [Verzerrung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Survivorship_Bias.md) im Selbstverständnis inkompetenter Menschen, das eigene Können und Wissen zu überschätzen wird als Dunning-Kruger-Effekt bezeichnet. Diese Eigenschaft beruht auf der Unfähigkeit, sich selbst objektiv zu beurteilen.
+## Geschichte und Teufelskreis der Inkompetenz
+Die Sozialpsychologen David Dunning und Justin Kruger veröffentlichten im Jahr 1999 ihre Erkenntnisse, bei denen man zum Entschluss kam, dass Unwissenheit oft zu mehr Selbstvertrauen führt als Wissen. Die Publikation zeigte, dass schlechtere Leistungen bei Menschen, oft mit einer größeren Selbstüberschätzung verbunden sind als bei denjenigen mit stärkeren Leistungen. Durch Experimente an der Cornell University in New York kamen die beiden Psychologen zum Ergebnis, dass weniger kompetente Menschen,
+* eher dazu tendieren, die eigenen Fähigkeiten zu überschätzen,
+* überlegene Fähigkeiten bei anderen Personen unterschätzen und nicht erkennen,
+*	das Ausmaß ihrer fehlenden Kompetenz falsch einschätzen,
+*	durch Übung und Bildung nicht nur die eigene Kompetenz steigern, sondern auch lernen können, sich selbst und andere besser einzuschätzen.[^3] 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Diese Aneinanderreihung von Fehlern ist auch als Teufelskreis der Inkompetenz bekannt. Die Probanden sollten unter anderem Logik- und Grammatiktests bearbeiten. Nach Beendigung der Tests sollten die Teilnehmer einschätzen, wie gut sie im Vergleich zu ihren Kommilitonen abgeschnitten haben. Gerade diejenigen, die am schlechtesten abschnitten glaubten die besten Lösungen gefunden zu haben.[^4] Deshalb ist ein konstruktives [Feedback](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Feedbackgespr%C3%A4che.md) für die Betroffenen besonders wichtig, jedoch stellt die fehlende [Kritikfähigkeit](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umgang_mit_Kritik.md) ein Problem dar.[^5]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+ 
+Abbildung 1: [Die Phasen des Dunning-Kruger-Effekts](https://de.wikipedia.org/wiki/Datei:Dunning%E2%80%93Kruger_Effekt.svg)
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Die Visualisierung zeigt den Dunning-Kruger-Effekt. Es ist zu erkennen, dass es nur einen geringen Anstieg der Erfahrung benötigt, damit Menschen denken, dass sie allwissend sind und ein großes Selbstvertrauen haben. Erst wenn die Personen kompetenter werden, sinkt das Selbstvertrauen. Der Effekt spielt sich überwiegend in diesem beschriebenen Bereich ab.
+## Einordnung des Effekts in aktuelle Beispiele
+Es lässt sich auch in der heutigen Zeit ein Zusammenhang mit dem Dunning-Kruger-Effekt beobachten. Seit März 2020 gibt es zahlreiche Hobby-Virologen, die sich mit dem Coronavirus auskennen.[^6] Ein anderes prominentes Beispiel ist der ehemalige US-Präsident Donald Trump. Sätze wie „Das kann nur ich“ oder „Niemand weiß mehr über diese Sache als ich“ belegen das.[^7] 
+## Kulturelle Unterschiede 
+Die Studien wurden vor allem an Menschen aus Nordamerika durchgeführt. Eine spätere Studie aus dem Jahr 2001 offenbarte, dass sich beispielsweise Japaner aufgrund von kulturellen Unterschieden anders verhalten als Nordamerikaner. Japaner unterschätzen häufiger ihre eigenen Fähigkeiten und sehen Misserfolge als Anlass, sich zu verbessern.[^8] 
+## Siehe auch
+* [Survivorship Bias](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Survivorship_Bias.md)
+* [Gender Bias](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Gender_Bias.md)
+* [Feedback-Kultur](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Feedback_Kultur.md)
+* [Feedback-Methoden](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Feedback_Methoden.md)
+* [Feedbackgespräche](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Feedbackgespr%C3%A4che.md)
+* [Umgang mit Kritik](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umgang_mit_Kritik.md)
+## Quellen
+[^1]: [Dunning-Kruger-Effekt: Warum sich Halbwissende für besonders klug halten | National Geographic](https://www.nationalgeographic.de/wissenschaft/2020/06/dunning-kruger-effekt-warum-sich-halbwissende-fuer-besonders-klug-halten)
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+[^2]: [Dunning-Kruger-Effekt: Die Macht der Selbstüberschätzung - [GEO]](https://www.geo.de/wissen/23942-rtkl-psychologie-dunning-kruger-effekt-weshalb-inkompetente-menschen-oft-das-groesste)
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+[^3]: [Dunning-Kruger-Effekt – Wikipedia](https://de.wikipedia.org/wiki/Dunning-Kruger-Effekt)
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+[^4]: [Dunning-Kruger-Effekt: Warum sich Halbwissende für besonders klug halten | National Geographic](https://www.nationalgeographic.de/wissenschaft/2020/06/dunning-kruger-effekt-warum-sich-halbwissende-fuer-besonders-klug-halten)
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+[^5]: [Dunning-Kruger-Effekt: 4 Phasen der Selbstüberschätzung](https://karrierebibel.de/dunning-kruger-effekt/)
 
+[^6]: [Dunning-Kruger-Effekt: 4 Phasen der Selbstüberschätzung](https://karrierebibel.de/dunning-kruger-effekt/)
 
-# Aspekt 1
+[^7]: [Dunning-Kruger-Effekt: Die Macht der Selbstüberschätzung - [GEO]](https://www.geo.de/wissen/23942-rtkl-psychologie-dunning-kruger-effekt-weshalb-inkompetente-menschen-oft-das-groesste)
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Dunning_Kruger_Effekt/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+[^8]: [Dunning-Kruger-Effekt: Die Macht der Selbstüberschätzung - [GEO]](https://www.geo.de/wissen/23942-rtkl-psychologie-dunning-kruger-effekt-weshalb-inkompetente-menschen-oft-das-groesste)
 
 
-# Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Dunning_Kruger_Effekt.md)
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
-# Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+
+
+
 
