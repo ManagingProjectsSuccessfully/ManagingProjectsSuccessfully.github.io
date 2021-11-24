@@ -34,7 +34,7 @@ Daneben definiert PRINCE2 festgelegte Rollen & Verantwortlichkeiten innerhalb de
 ![Schlüsselelemente von PRINCE2](PRINCE2/Transparenttest3.png)                                      
 *Abbildung: Die Schlüsselelemente von PRINCE2*  [^5]
 
-# Die 7 Themen von PRINCE2
+# 7 Themen von PRINCE2
 
 Die 7 PRINCE2 Themen (auch als Arbeitsdimensionen zu verstehen) beschreiben die Umsetzung der 7 Grundprinzipien genauer. 
 Jedes der Themen beantwortet eine eigene, wichtige Fragestellung und soll einen erfolgreichen Projektablauf möglichst positiv beeinflussen. Die Themen geben also Hilfestellung, wie ein Projekt anzugehen ist und müssen daher während des Projektablaufs fortlaufend beachtet werden: [^3][^4][^7]
@@ -67,7 +67,7 @@ Bewertung und Behandlung offener Punkte, die eventuelle Auswirkungen auf das Pro
 Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststellung und Reporting ob und wie das Projekt fortgeführt werden soll[^3][^4][^7]
 
 
-# Stärken und mögliche Probleme von PRINCE2
+# Stärken und mögliche Nachteile von PRINCE2
 
 ## Stärken:
 
@@ -79,7 +79,7 @@ Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststel
 *	kann auf Bedürfnisse einzelner Organisationen oder Projekte angepasst werden
 *	gebührenfrei: PRINCE2-Materialien liegen als bereits öffentliche Dokumente vor[^3][^9]
 
-## Mögliche Probleme:
+## Mögliche Nachteile:
 
 *	stark dokumentenorientiert
 *	ggf. Gefühl von "Machtverlust" bei Projektmanager:innen, da Rollen und Befugnisse streng festgelegt sind
