@@ -50,10 +50,10 @@ Falls die Ideenfindung durch klassische Methoden wie Brainstorming in einer Grup
 auf neue Ideen zu kommen. 
 
 Das kann zum Beispiel der Fall sein, wenn sich die Expertengruppe schon lange mit einem Thema beschäftigt und nicht mehr weiter weiß. Es ist manchmal leichter
-Probleme zu finden, als neue Lösungsansätze zu entwickeln. Damit lassen sich Denkblockaden überwinden.
+Probleme zu finden, als neue Lösungsansätze zu entwickeln. Damit lassen sich Denkblockaden überwinden. [^5]
 
 "Etwas, was man verschlimmern kann, lässt sich sehr wahrscheinlich auch verbessern, in der Regel müssen die gefundenen Faktoren der Verschlimmerung nur umgekehrt
-werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140)[^5]
+werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140)
 
 # Siehe auch
 
