@@ -30,14 +30,14 @@ Eine tatsächliche Austauschbarkeit liegt ausnahmsweise bei denjenigen Aufgaben 
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Arbeitszeit%20vs.%20Arbeitskräfte%20vollständig%20unterteilbar.JPG)
 
-*Abbildung 1: Arbeitszeit und Arbeitskräfte aufteilbar*[^1]
+*Abbildung 1: aufteilbare Arbeitszeit und Arbeitskräfte*[^1]
 
 
 Erfolgt aber eine Aufgabe in einer bestimmten Reihenfolge und ist deshalb nicht aufteilbar, dann hat jede hinzugefügte Anstrengung keinen Einfluss auf die Zeit (Abbildung 2).[^5]
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Arbeitszeit%20vs.%20Arbeitskräfte%20unteilbar.JPG)
 
-*Abbildung 2: Arbeitszeit und Arbeitskräfte unteilbar*[^1]
+*Abbildung 2: unteilbare Arbeitszeit und Arbeitskräfte*[^1]
 
 Bei aufteilbaren Aufgaben ist hingegen ein Informationsaustausch notwendig, der als Aufwand der zu leistenden Arbeit angerechnet werden muss (Abbildung 3), was sich verlängernd auf die Projektzeit auswirkt. Mit mehr Kommunikationsbeziehungen erhöht sich auch der Aufwand für eine Aufgabe zusätzlich zu dem ohnehin hinzuzurechnenden Aufwand des Informationsaustausches als zu leistende Arbeit.[^1]
 
