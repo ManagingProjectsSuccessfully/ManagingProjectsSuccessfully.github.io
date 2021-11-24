@@ -39,11 +39,9 @@ Vor allem bei Toyota wurde Obeya besonders effektiv umgesetzt. So ermöglichte d
 # Quellen
 [^1]: [Obeya(appvizer)](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/obeya)
 
-[Obeya Raum] [Quality Services&Wissen GmbH]
-https://www.quality.de/lexikon/obeya-raum/
+[^2]: [Obeya Raum(Quality Services&Wissen GmbH)](https://www.quality.de/lexikon/obeya-raum/)
 
-[Obeya] [Projektmagazin]
-https://www.projektmagazin.de/methoden/obeya-raum-methode
+[^3]: [Obeya(Projektmagazin)](https://www.projektmagazin.de/methoden/obeya-raum-methode)
 
 <!--
 Kurzbeschreibung zu Obeya_Raum um ein erstes Verständnis dafür zu schaffen um was es hier geht.
