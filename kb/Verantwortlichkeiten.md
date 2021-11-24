@@ -49,16 +49,13 @@ Und diese Verantwortung muss man schlussendlich richtig und sinnvoll aufteilen, 
 
 Um ein Projekt erfolgreich auf die Beine zu stellen, muss man zum Anfang des Projektes bestimmte Rollen einteilen. Die Aufgabenteilung trägt hierbei der Erleichterung des Arbeitsprozesses bei, aber es wird auch die Verantwortlichkeit aufgeteilt und das macht das Ergebnis damit vielversprechender.
 
-Die Projekthierarchie schaut folgendermaßen aus:
+Die Projekthierarchie schaut folgendermaßen aus [^8][^9] :
 | Bezeichnung     | Aufgabe |
 | ---      | ---       |
 | Projektauftraggeber | trägt die Gesamtverantwortung für das Projekt. Repräsentiert das Projekt der Firma/des Unternehmens |
 | [Projektleiter](Projektleiter.md) | verantwortlich für das Umsetzen des Projektes mit zu beachtenden Zielen (oft zeitliche Ziele) unter stetiger Kontaktaufnahme zum Projektauftraggeber |
 | Teilprojektleiter | verantwortlich für Teilprojekte des Projektleiters |
 | [Projektmitarbeiter](Projektmitarbeiter.md) | verantwortlich für das aktive Erreichen der Ziele durch das Erledigen der Arbeit (hier sieht man die Aufteilung der Verantwortlichkeit am deutlichsten) | 
-
-[^8][^9]
-
 
 # Siehe auch
 
