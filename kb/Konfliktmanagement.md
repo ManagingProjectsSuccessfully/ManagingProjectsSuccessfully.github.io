@@ -20,7 +20,7 @@ Zentrale Aufgaben der Projektleitung, im klassischen Projektmanagement, sind Une
 Um Konflikte bestmöglich zu lösen, hat man sich Gedanken gemacht welche verschiedenen Arten es von Konflikten gibt. 
 Im Folgenden sind einige dieser Möglichkeiten aufgelistet:
 
-| SACHLICHE KONFLIKTE  | PSYCHSOZIALE KONFLIKTE |
+| SACHLICHE KONFLIKTE  | PSYCHOSOZIALE KONFLIKTE |
 | ---------------------| ---------------------- |
 | Zielkonflikt         | Wertekonflikt          |
 | Beurteilungskonflikt | Beziehungskonflikt     |
@@ -97,7 +97,7 @@ um flexibel auf Veränderungen zu reagieren“[^13] und besser auf spontan auftr
 [^7]: [Vgl. Anne Schüßler & Peter Schüßler, Weniger schlechte Projekte Managen; Ohne Krise zum Projekterfolg (4.9.2020)]
 [^8]: [Anne Schüßler & Peter Schüßler, Weniger schlechte Projekte Managen; Ohne Krise zum Projekterfolg (4.9.2020)]
 [^9]: [iDOGrants, How to Use a R.A.S.I.C Roles, Accountability and Responsibility Matrix (20.4.2018)](https://idogrants.org/2018/04/20/how-to-use-a-r-a-s-i-c-roles-accountability-and-responsibility-matrix/)
-[^10]: [Responsibility assignment matrix (last edit: 11.10.21)](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
-[^11]: [Amber Bezahler, RASCI 101: How to move from chaos to order (2.4.2019)](https://medium.com/@abezahler/rasci-101-how-to-move-from-chaos-to-order-5b25db0869f4)
-[^12]: [Nadine Ebel, Projektmanagement](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden)
+[^10]: [Vgl. Responsibility assignment matrix (last edit: 11.10.21)](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+[^11]: [Bildquelle: Amber Bezahler, RASCI 101: How to move from chaos to order (2.4.2019)](https://medium.com/@abezahler/rasci-101-how-to-move-from-chaos-to-order-5b25db0869f4)
+[^12]: [Vgl. Nadine Ebel, Projektmanagement](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden)
 [^13]: [Mahir Kulalic, Was ist agiles Projektmanagement? (19.09.2021)](https://www.factro.de/blog/agiles-projektmanagement/)
