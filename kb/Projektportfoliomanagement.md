@@ -33,7 +33,7 @@ In Unternehmen laufen oft viele Projekte gleichzeitig, was die Gefahr birgt, sch
 
 ## Portfolio-Diagramm 
 
-Im Portfolio-Diagramm werden einzelne Merkmale der Projekte miteinander in Relation gesetzt, um Gemeinsamkeiten und Unterschiede zwischen Projekten aufzuzeigen. Es liefert Erkenntnisse, ob diese freigegeben werden können, Risiken besonders abgesichert werden müssen oder weitere Ressourcen und Kompetenzen erfoderlich sind. Neben inhaltlichen Merkmalen informiert das Portfolio-Diagramm auch über weitere Merkmale, wie z.B. Zeit und Kosten. Durch den erweiterten Blick auf weitere Faktoren wird sichtbar, welche Bedeutung ein Projekt haben kann, welche Risiken und wie komplex oder teuer es ist. Die Visualisierung hilft der Geschäftsführung, bei der Bewertung von einzelnen Projekten, Prioritätenbildung und bei der Zusammensetzung der gesamten Projektlandschaft im Unternehmen. [^4] 
+Im Portfolio-Diagramm werden einzelne Merkmale der Projekte miteinander in Relation gesetzt, um Gemeinsamkeiten und Unterschiede zwischen Projekten aufzuzeigen. Es liefert Erkenntnisse, ob diese freigegeben werden können, Risiken besonders abgesichert werden müssen oder weitere Ressourcen und Kompetenzen erfoderlich sind. Neben inhaltlichen Merkmalen informiert das Portfolio-Diagramm auch über weitere Merkmale, wie z.B. Zeit und Kosten. Durch den erweiterten Blick auf mehrere Faktoren wird sichtbar, welche Bedeutung ein Projekt haben kann, welche Risiken und wie komplex oder teuer es ist. Die Visualisierung hilft der Geschäftsführung, bei der Bewertung von einzelnen Projekten, Prioritätenbildung und bei der Zusammensetzung der gesamten Projektlandschaft im Unternehmen. [^4] 
 
 ### Aufbau eines Portfolio-Diagramms:  
 
