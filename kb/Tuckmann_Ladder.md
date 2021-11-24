@@ -48,7 +48,7 @@ Die folgende Tabelle fasst die Phasen mit jeweiligen Herausforderungen zusammen,
   | **Prozessbezogene Probleme** | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach         Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
   | **Gefühlsbezogene Probleme** | Die Mitglieder fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen fühlen sich noch unsicher und versuchen, ihre          Individualität zum Ausdruck zu bringen. Es entstehen Bedenken hinsichtlich der Teamhierarchie | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander        mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
 
-*Tabelle 1: Überblick der Phasen Forming, Storming, Norming, Performing [^6]
+*Tabelle 1: Überblick der Phasen Forming, Storming, Norming, Performing* [^6]
 
 ## Adjouring: die Auflösungsphase
 
@@ -76,5 +76,5 @@ Nicht selten wird diese Phase manchmal auch als **"Trauerphase"** bezeichnet, da
 [^4]: [Tuckmans Phasenmodell)](https://teamentwicklung-lab.de/tuckman-phasenmodell)
 [^6]: [Stages of Small-Group Development Revisited](https://webspace.science.uu.nl/~daeme101/Stages%20of%20Small-Group%20Development%20Revisted.pdf)
 [^5]: [TEAMPHASEN NACH TUCKMAN](https://www.wsu-beratung.de/blog/teamphasen)
-[^7]: [Scheiden tut weh: Adjourning – die unterschätzte Phase im Teamprozess](https://teamworks-gmbh.de/scheiden-tut-weh-adjourning-die-unterschaetzte-phase-im-teamprozess/
+[^7]: [Scheiden tut weh: Adjourning – die unterschätzte Phase im Teamprozess](https://teamworks-gmbh.de/scheiden-tut-weh-adjourning-die-unterschaetzte-phase-im-teamprozess/)
 [^1]: [Agiles Coaching: Die neue Art, Teams zum Erfolg zu führen](https://books.google.de/books?id=iV6yDwAAQBAJ&lpg=PT335&ots=KQiYmuqrjk&dq=adjourning%20als%20trauerphase&hl=de&pg=PT335#v=onepage&q=adjourning%20als%20trauerphase&f=false)
