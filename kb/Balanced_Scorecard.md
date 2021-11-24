@@ -61,7 +61,7 @@ einzelnen Perspektiven auf die Ziele des Projekts angepasst und überwacht.[^5]
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Erstellung einer Balanced Scorecard](https://blog.hubspot.de/sales/balanced-scorecard)
 
 # Quellen
 
