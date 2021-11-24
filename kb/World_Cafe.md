@@ -67,7 +67,6 @@ Weitere kreative Methoden
 * [Zukunftswerkstatt](Zukunftswerkstatt.md)
 * [Ideen-Marathon](Ideen_Marathon.md)
 * [Kopfstandtechnik](Kopfstandtechnik.md)
-* [Brainwriting](Brainwriting.md)
 
 # Weiterführende Literatur
 
