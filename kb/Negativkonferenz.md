@@ -13,19 +13,23 @@ Für diese Probleme können dann zu späteren Schritten erneut Kreativitätstech
 # Verschiedene Bezeichnungen und verwandte Methoden
 
 Die Negativkonferenz wird in der Literatur auch als "Umkehrdiagramm" bezeichnet und weist eine gewisse Ähnlichkeit zur sogenannten "Flip-Flop-Technik" oder
-"Kopfstandtechnik" auf. Bei dieser Technik wird die relevante Aufgabenstellung umgekehrt und von der anderen Seite betrachtet. 
+"Kopfstandtechnik" auf. Bei dieser Technik wird die relevante Aufgabenstellung umgekehrt und von der anderen Seite betrachtet.
 
-Wenn die Aufgabenstellung zum Beispiel das Reduzieren der Fehlerquote in der Fabrik ist, dreht die Kopfstandtechnik diese um und sucht nach möglichen Wegen, die Fehlerquote zu erhöhen. Durch das Umkehren der Erkenntnisse darüber, wie man etwas verschlechtern kann, ist es nun wiederum möglich, zu neuen Verbesserungsideen zu gelangen.[^3]
+Wenn die Aufgabenstellung zum Beispiel das Reduzieren der Fehlerquote in der Fabrik ist, dreht die Kopfstandtechnik diese um und sucht nach möglichen Wegen, die
+Fehlerquote zu erhöhen. Durch das Umkehren der Erkenntnisse darüber, wie man etwas verschlechtern kann, ist es nun wiederum möglich, zu neuen Verbesserungsideen zu
+gelangen.[^2]
 
 ![Screenshot 2021-11-24 165717](https://user-images.githubusercontent.com/92982358/143272932-b3719172-c038-4ccc-a915-b91854ad5e0a.png)
 
 # Negativkonferenz als Umkehrung des Brainstormings
 
-Das Brainstorming ist bekannt als Methode zur Ideenfindung, die zeiteffizient zur Schaffung von Lösungsansätzen und neuen Ideen in einer Gruppe von Menschen beiträgt.[^4]
+Das Brainstorming ist bekannt als Methode zur Ideenfindung, die zeiteffizient zur Schaffung von Lösungsansätzen und neuen Ideen in einer Gruppe von Menschen
+beiträgt.[^3]
+
 Die Negativkonferenz wirft dieses Konzept auf den Kopf. Die Teilnehmer suchen nun nicht mehr nach Ansätzen und Ideen, sondern nach Problemen.
 Mögliche Probleme eines bestimmten Sachverhalts werden gesammelt und dokumentiert, um daraus negative Szenarien zu entwickeln, für die in einem weiteren Schritt der
 Ideenfindung erneut Kreativitätstechniken wie Brainstorming oder Mindmapping angewendet werden können, um ganz neue Lösungen und Ideen zu erarbeiten.
-Dabei darf auch gerne übertrieben werden.
+Dabei darf auch gerne übertrieben werden. [^4]
 
 ## Anwendungsbeispiel
 
@@ -49,7 +53,7 @@ Das kann zum Beispiel der Fall sein, wenn sich die Expertengruppe schon lange mi
 Probleme zu finden, als neue Lösungsansätze zu entwickeln. Damit lassen sich Denkblockaden überwinden.
 
 "Etwas, was man verschlimmern kann, lässt sich sehr wahrscheinlich auch verbessern, in der Regel müssen die gefundenen Faktoren der Verschlimmerung nur umgekehrt
-werden."
+werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140)[^5]
 
 # Siehe auch
 
@@ -63,7 +67,8 @@ werden."
 # Quellen
 
 [^1]: https://de.wikipedia.org/wiki/Negativkonferenz
-[^2]:
-[^3]: https://www.sim.ovgu.de/sim_media/downloads/IDEAL/Kopfstandtechnik.pdf
-[^4]: https://de.wikipedia.org/wiki/Brainstorming
+[^2]: https://www.sim.ovgu.de/sim_media/downloads/IDEAL/Kopfstandtechnik.pdf
+[^3]: https://de.wikipedia.org/wiki/Brainstorming
+[^4]: https://lerndoku.com/negativkonferenz/
+[^5]: Sven Lundershausen: Die Moderation strategischer Initiativen
 
