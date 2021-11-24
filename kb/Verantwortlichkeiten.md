@@ -74,12 +74,12 @@ Die Projekthierarchie schaut folgendermaßen aus [^8][^9] :
 
 # Quellen
 
-[^1]: (https://www.duden.de/rechtschreibung/Verantwortlichkeit)
-[^2]: (https://de.wikipedia.org/wiki/Verantwortung#cite_note-8)
-[^3]: (http://projektmanagement-definitionen.de/glossar/verantwortung/)
-[^4]: (https://www.inloox.de/projektmanagement-glossar/verantwortlichkeit/)
-[^5]: (https://www.microconsult.de/blog/2020/02/ps_projektverantwortung/)
-[^6]: (https://www.kisp.de/verantwortungsverteilung/)
-[^7]: (https://link.springer.com/content/pdf/10.1007/978-3-540-39519-5_3.pdf)
-[^8]: (https://dieprojektmanager.com/rollen-und-verantwortung-in-projekten/#Vorgehensweise_bei_der_Erstellung_einer_Projektorganisation)
-[^9]: (https://www.business-netz.com/Frage-trifft-Antwort/Projektmanagement/6/Projektverantwortung)
+[^1]: [Verantwortlichkeit](https://www.duden.de/rechtschreibung/Verantwortlichkeit)
+[^2]: [Verantwortung](https://de.wikipedia.org/wiki/Verantwortung#cite_note-8)
+[^3]: [Projektmanagement: Definitionen, Einführungen und Vorlagen](http://projektmanagement-definitionen.de/glossar/verantwortung/)
+[^4]: [Verantwortlichkeit:Zuständigkeit für projektbezogene Aufgaben](https://www.inloox.de/projektmanagement-glossar/verantwortlichkeit/)
+[^5]: [Was heißt hier Projektverantwortung?](https://www.microconsult.de/blog/2020/02/ps_projektverantwortung/)
+[^6]: [Verantwortungverteilung](https://www.kisp.de/verantwortungsverteilung/)
+[^7]: [Projektmanagement](https://link.springer.com/content/pdf/10.1007/978-3-540-39519-5_3.pdf)
+[^8]: [Rollen und Verantwortung in Projekten](https://dieprojektmanager.com/rollen-und-verantwortung-in-projekten/#Vorgehensweise_bei_der_Erstellung_einer_Projektorganisation)
+[^9]: [Projektverantwortung: Wer hat sie und wie verteilt man sie, sodass sie auch gelebt wird?](https://www.business-netz.com/Frage-trifft-Antwort/Projektmanagement/6/Projektverantwortung)
