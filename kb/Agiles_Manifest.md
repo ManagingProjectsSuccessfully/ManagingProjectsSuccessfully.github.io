@@ -7,13 +7,13 @@ anrechnung: a
 
 # Agiles Manifest 
 
-Das „Manifesto for Agile Software Development“ oder auch kurz unter dem Namen „Agiles Manifest“ (engl.: Agile Manifesto) bekannt, wurde im Februar 2001 von 17 projekterfahrenen Software-Entwicklern verabschiedet[]. 
-Sie kamen in einer Lodge im Snowbird-Skigebiet für drei Tage zusammen, um zu reden, Ski zu fahren und eine gemeinsame Basis zu finden[]
+Das „Manifesto for Agile Software Development“ oder auch kurz unter dem Namen „Agiles Manifest“ (engl.: Agile Manifesto) bekannt, wurde im Februar 2001 von 17 projekterfahrenen Software-Entwicklern verabschiedet[^2]. 
+Sie kamen in einer Lodge im Snowbird-Skigebiet für drei Tage zusammen, um zu reden, Ski zu fahren und eine gemeinsame Basis zu finden[^1]
  
 Es besteht aus 4 Leitsätzen und 12 Prinzipien.
-Das agile Manifest ist ein Meilenstein und bietet zu gleich die Grundlage für agiles Projektmanagement[].
+Das agile Manifest ist ein Meilenstein und bietet zu gleich die Grundlage für agiles Projektmanagement[^2].
 
-Unter den Erstunterzeichnern befinden sich auch die beiden Scrum-Gründern Ken Schwaber und Jeff Sutherland, sowie die Vertreter von DSDM, Adaptive Software Development, Crystal und viele weitere. Alle hatten ein gemeinsames Ziel, eine Alternative zu dokumentgetriebenen, schwergewichtigen Softwareentwicklungsprozessen zu finden. Dabei entstand das Agile Manifest, mit Hilfe dessen man endlich den bis dahin unscharfen Begriff der „leichtgewichtigen Software-Entwicklung“ ersetzen konnte[].
+Unter den Erstunterzeichnern befinden sich auch die beiden Scrum-Gründern Ken Schwaber und Jeff Sutherland, sowie die Vertreter von DSDM, Adaptive Software Development, Crystal und viele weitere. Alle hatten ein gemeinsames Ziel, eine Alternative zu dokumentgetriebenen, schwergewichtigen Softwareentwicklungsprozessen zu finden. Dabei entstand das Agile Manifest, mit Hilfe dessen man endlich den bis dahin unscharfen Begriff der „leichtgewichtigen Software-Entwicklung“ ersetzen konnte[^1].
 
 
 Im Folgenden soll nun auf die vier Leitsätze, sowie die 12 Prinzipien des agilen Manifests eingegangen werden, sowie dessen aktuelle Bedeutung. 
@@ -24,13 +24,13 @@ Im Folgenden soll nun auf die vier Leitsätze, sowie die 12 Prinzipien des agile
 * Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge
 * Funktionierende Software ist wichtiger als umfassende Dokumentation
 * Zusammenarbeit mit dem Kunden ist wichtiger als Vertragsverhandlung
-* Reagieren auf Veränderung ist wichtiger als das Befolgen eines Plans[]
+* Reagieren auf Veränderung ist wichtiger als das Befolgen eines Plans[^3]
 
 In der folgenden Grafik sind die vier oben genannten Leitsätze nochmal graphisch dargestellt und zusammengefasst:
 
 ![Beispielabbildung](Agiles_Manifest/AM_Prinzipien.jpeg)
 
-Wichtig hier anzumerken, dass für 17 Unterzeichner die Werte auf der rechten Seite durchaus als wichtig eingeschätzt wurden, jedoch schätzen sie die Werte auf der linken Seite von noch größerer Bedeutung ein[].
+Wichtig hier anzumerken, dass für 17 Unterzeichner die Werte auf der rechten Seite durchaus als wichtig eingeschätzt wurden, jedoch schätzen sie die Werte auf der linken Seite von noch größerer Bedeutung ein[^2].
 
 
 # Zwölf Prinzipien 
@@ -46,19 +46,20 @@ Wichtig hier anzumerken, dass für 17 Unterzeichner die Werte auf der rechten Se
 9. Ständiges Augenmerk auf technische Exzellenz und gutes Design fördert Agilität
 10. Einfachheit – die Kunst, die Menge nicht getaner Arbeit zu maximieren – ist essenziell
 11. Die besten Architekturen, Anforderungen und Entwürfe erstehen durch selbstorganisierte Teams
-12. In regelmäßigen Abständen reflektiert das Team, wie es effektiver werden kann und passt sein Verhalten entsprechend an[] 
+12. In regelmäßigen Abständen reflektiert das Team, wie es effektiver werden kann und passt sein Verhalten entsprechend an[^4] 
 
 
 # Heutige Bedeutung
 
 Wie schon am Anfang erwähnt, bildet das Agile Manifest bis heute die Grundlage für das Agile Projektmanagement. Im Laufe der Jahre sind viele weitere Befürworter hinzugekommen. 
-Bis heute wird das agile Projektmanagement gerne neben den klassischen Methoden genutzt und findet sich vielen verschieden Methoden mit unterschiedlichen Ausprägungen wieder[].
+Bis heute wird das agile Projektmanagement gerne neben den klassischen Methoden genutzt und findet sich vielen verschieden Methoden mit unterschiedlichen Ausprägungen wieder[^2].
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Agiles_Manifest.md)
+* [SCRUM](SCRUM.md)
+* [Projektmanagement](Projektmanagement.md)
+
 
 # Weiterführende Literatur
 [Software Engineering Tutorial Deutsch #6 - Das Agile Manifest](https://www.youtube.com/watch?v=aN-6Ha66Q9U)
