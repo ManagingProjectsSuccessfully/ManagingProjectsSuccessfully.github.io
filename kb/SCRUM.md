@@ -39,6 +39,10 @@ Scrum, englisch für Gedränge, ist ein agiles Vorgehensmodell des Projektmanage
 
 -	Sprint Retroperspective
 
+![Scrum](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/scrumbum.PNG)
+
+*Scrum auf einem Bild*
+
 ## Scrum Artefakte:
 
 -	Product Backlog
