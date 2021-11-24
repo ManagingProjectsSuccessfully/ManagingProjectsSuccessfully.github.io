@@ -9,11 +9,11 @@ Megatrends im Projektmanagement sind Veränderungen, mit denen sich ein Projektm
 
 # Megatrends im Projektmanagement im Jahr 2021 [^1]
 
-## 1. Corona-Pandemie
+## 1. Corona-Pandemie [^1]
 
 Schon im Jahr 2020 hat sich der Covid-19-Virus angefangen zu verbreiten und veränderte die gesamte Welt. Fast die gesamte Wirtschaft wurde vor große Herausforderungen gestellt. Viele der Unternehmen gingen pleite, aber es gründeten sich auch eine Menge neuer Unternehmen. Die Führungskräfte aller Unternehmen mussten nun entscheiden wie sie ihr Unternehmen aufrechterhalten. Dabei mussten sie auf selten genutzte Technologien zurückgreifen und ausbauen oder sogar neue [Methoden](Methoden.md) entwickeln. Die Manager mussten zum einen ihren Mitarbeiten durch Remote-Work oder Homeoffice den Arbeitsablauf weiterhin ermöglichen. Zum anderen mussten sie aber auch dafür Sorge tragen, dass ihre Mitarbeiter psychisch gesund bleiben. So kann beispielsweise mit Hilfe von virtuellen Kaffeepausen die Teamfähigkeit weiterhin gefördert werden und möglicherweise alleinstehende vor Desozialisierung schützen. Doch da dies eine sehr große Aufgabe ist kann der Manager die Mitarbeiter dabei nur unterstützen.
 
-## 2. Klimakrise [^2]
+## 2. Klimakrise [^1][^2]
 
 Das Eis überall auf der Welt schmilzt permanent weiter. Der Meeresspiegel, die Temperatur der Ozeane und der Erde steigen kontinuerlich, wodurch die Artenvielfalt immer mehr schrumpft. Der Klimawandel hat sehr viele negative Folgen, die dringend reduziert werden müssen. 
 
@@ -23,7 +23,7 @@ Nachfolgende Abbildung zeigt, dass ein sehr großer Teil des CO2-Ausstoßes  dur
 
 Dies wirkt sich auf den gesamten Projektablauf aus. Unternehmen müssen versuchen ihre Produkte klimaneutral herzustellen und dabei die Luftverschmutzung zu reduzieren. Auch um die Ressourcenknappheit und –beschaffung muss sich gesorgt werden
 
-## 3. Bürger- und Gleichstellungsbewegungen
+## 3. Bürger- und Gleichstellungsbewegungen [^1]
 
 In den letzten Jahren hat die Anzahl an Demonstrationen zugenommen. Es wurde vor allem gegen Polizeigewalt, gegen Rassismus und für eine Gleichstellung der Geschlechter protestiert. Dieses Thema rückte mehr und mehr in den Vordergrund. Unternehmen können dies nun nicht mehr stillschweigend betrachten, sondern müssen darauf reagieren.  In Deutschland gibt es seit März 2015 ein Gesetzt [^4], dass eine 30%ige Frauenquote in Aufsitzräten vorschreibt. Um diesen Bewegungen entgegenzuwirken, müssen in allen Bereichen eines Unternehmens öfter Frauen, Menschen mit Behinderung oder mit Migrationshintergrund eingestellt werden. Dies kann auch bei den Positionen als Teilprojektverantwortliche oder als Arbeitspaketverantwortliche berücksichtigt werden.
 
@@ -32,7 +32,7 @@ In den letzten Jahren hat die Anzahl an Demonstrationen zugenommen. Es wurde vor
 
 Arbeitskräfte in den Schwellen- und Entwicklungsländern sind günstiger als in den Industrieländern. Da Länder, wie Indien und China, sehr früh in den Dienstleistungssektor der Industrieländer eingestiegen sind, blieb die eigene Industrialisierung auf der Strecke. Um diesen Ländern dabei zu helfen, sind Projekte mit sozialen Auswirkungen wichtig. Organisationen erarbeiten eigene Projekte, wie Brunnenbau und Bewässerung in Schwellenländern und helfen so auf doppelte Weise. Sie schaffen Arbeit und helfen gleichzeitig den Ländern. 
 
-## 5. [Digitalisierung](Digitalisierung_im_PM.md) und Datenmengen [^5]
+## 5. [Digitalisierung](Digitalisierung_im_PM.md) und Datenmengen [^5][^1]
 
 Durch neue Technologien, die Einsetzung von [KI](KI_im_PM.md) fallen immer mehr Daten an. Projektmanager werden vor eine große Herausforderung gestellt, da diese Daten auch verwaltet werden müssen.
 Dies nimmt viel Zeit in Anspruch, hilft aber andererseits beim Vereinfachen der Projekte.
