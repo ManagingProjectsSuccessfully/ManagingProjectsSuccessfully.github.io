@@ -7,7 +7,7 @@ anrechnung: k
 
 Im klassischen Projektmanagement ist der Projektleiter für die Steuerung des Projektes und für die operative Planung zuständig. Für die Planung bestimmt er die Ziele und übernimmt das Management der Ressourcen. Insbesondere ist er für die Termin-, Kosten- und Sachziele unter der Berücksichtigung der angestrebten Produktqualität verantwortlich.
 
-# Die zwei Arten ein Projekt zu leiten:
+# Die zwei Arten ein Projekt zu leiten
 
 * In hierarchiefreien Projektgruppen hat der Projektleiter die Rolle eines Initiators und Moderators. Hierbei tragen alle Teammitglieder gemeinsam die Verantwortung für die Erreichung des Projektergebnisses und sind somit gleichgestellt. 
 
@@ -27,28 +27,28 @@ Ausbildung zum Projektleiter[^3]
 
 
 
-# Die sieben Hauptaufgaben eines Projektleiters in klassischen Projekten: 
+# Die sieben Hauptaufgaben eines Projektleiters in klassischen Projekten 
 
-## Projektdefiniton:
+## Projektdefiniton
 Sofern die Ziele nicht konkret durch einen Arbeitgeber definiert wurden, muss der Projektleiter diese möglichst realistisch und präzise festlegen. Zudem ist er auch für die Dokumentation des Projektauftrags zuständig, um sie dem Lenkungsausschuss für die Genehmigung des Projekts vorweisen zu können. 
 
-## Projektorganisation:
+## Projektorganisation
 Zur Projektdefinition zählen vor allem die Integration des Projektes in die bestehende Unternehmensstruktur, die Rollendefinition, die Zusammensetzung des Teams unter Berücksichtigung der Qualität sowie Anzahl der Mitglieder, weil nur in Gruppen bis zu acht Mitgliedern ein effizientes Arbeiten gilt. 
 
-## Projektplanung:
+## Projektplanung
 Die Planung eines Projekts beginnt mir einer Analyse des Ist-Zustands. Dies ermöglicht eine Problemermittlung und schafft Referenzwerte. Dabei können bei der Planung moderne Instrumente wie Workshops, beispielsweise ein Projektstartworkshop, oder die Analyse des Projektumfelds, aber auch traditionelle Instrumente wie die Einsatzmittelplanung oder Projektkostenplanung behilflich sein.  
 
-## Kommunikation: 
+## Kommunikation
 Die abgestimmte Kommunikation für einen erfolgreichen Informationsaustausch ist die Basis für die Zielerreichung jedes Teams.  
 Hierfür muss der Projektleiter geeignete Kommunikationsmittel bestimmen, benötigte Informationen weiterleiten und Mitglieder zu intensiver Kommunikation motivieren. 
 
-## Umfeldmanagement: 
+## Umfeldmanagement 
 Die Teammitglieder setzen sich oft von unterschiedlichen Abteilungen zusammen, weshalb zunächst abteilungsbezogene Ziele entstehen. Diesbezüglich muss ein Projektleiter für eine Überbrückung von Kulturunterschieden, einen Ausgleich unterschiedlicher Interessen und für eine Bildung eines gemeinsamen Teams sorgen. 
 
 ## Projektcontrolling 
 Im Zusammenhang mit Projektcontrolling übergibt der Projektleiter die Aufgabe das Projekt zu überwachen und zu dokumentieren an ein dafür qualifiziertes Teammitglied. 
 
-## Mitarbeiterführung:
+## Mitarbeiterführung
 Auch wenn ein Projektleiter unter anderem ein [Projektmitarbeiter](https://github.com/IremAkin/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) ist und nicht unbedingt der direkte Vorgesetzte der Teammitglieder ist, stehen ihm jedoch folgende Kompetenzen zu:
   1. Die Planung und Durchführung der Weiterbildungsmaßnahmen des Teams 
   2. Die Zuweisung von Projektteilaufgaben an die Teammitglieder 
@@ -87,7 +87,6 @@ Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt
 
 * [Projektmitarbeiter](Projektmitarbeiter.md)
  
-* [Link auf diese Seite](Projektleiter.md)
 
 # Weiterführende Literatur
 
@@ -98,5 +97,6 @@ Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: 
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) 
+[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^5]: 
  
