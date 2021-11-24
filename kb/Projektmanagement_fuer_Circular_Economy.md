@@ -81,12 +81,13 @@ Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürliche
 
 # Vorteile einer Kreislaufwirtschaft
 
-* Kosteneinsparungen
-* Treibhausgasemission wird gesenkt
-* Umweltbelastung wird verringert
-* Rohstoffversorgungssteigerung
-* Mitarbeiterbindung
-* Förderung der Innovation udn Wachstum [^5]
+* Einsparungen bei den Kosten
+* Die Treibhausgasemission wird gesenkt
+* Die Umweltbelastung wird verringert
+* Steigerung der Rohstoffversorgung
+* stärkere Mitarbeiterbindung an das Unternehmen 
+* Förderung der Innovation udn Wachstum 
+* Image Aufbesserung des Unternehmens[^5]
 
 
 # Siehe auch
