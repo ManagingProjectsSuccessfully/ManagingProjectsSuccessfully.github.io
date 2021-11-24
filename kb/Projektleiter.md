@@ -65,9 +65,7 @@ Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt
 
 
 
-![Beispielabbildung](Projektleiter/test-file.jpg)
 
-*lustiges Testbild*
 
 
 
@@ -83,7 +81,8 @@ Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md](Projektmitarbeiter.md)
+
 * [Link auf diese Seite](Projektleiter.md)
 
 # Weiterführende Literatur
