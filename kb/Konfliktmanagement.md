@@ -92,11 +92,11 @@ um flexibel auf Veränderungen zu reagieren“[^13] und besser auf spontan auftr
 [^3]: [Vgl Wytrzens Hans Karl, Projektleitung (2018)]
 [^4]: [Sabine Peipe, Crashkurs Projektmanagement; Grundlagen für alle Projektphasen (2020)]
 [^5]: [Vgl. Sabine Peipe, Crashkurs Projektmanagement; Grundlagen für alle Projektphasen (2020)]
-[^6]: [Vgl Raffael, Konfliktmanagement in Projekten (5.11.2013)]
+[^6]: [Vgl Raffael, Konfliktmanagement in Projekten (5.11.2013)](https://derwirtschaftsinformatiker.de/2013/11/05/projektmanagement/konfliktmanagement-in-projekten/)
 [^7]: [Vgl. Anne Schüßler & Peter Schüßler, Weniger schlechte Projekte Managen; Ohne Krise zum Projekterfolg (4.9.2020)]
 [^8]: [Anne Schüßler & Peter Schüßler, Weniger schlechte Projekte Managen; Ohne Krise zum Projekterfolg (4.9.2020)]
-[^9]: [iDOGrants, How to Use a R.A.S.I.C Roles, Accountability and Responsibility Matrix (20.4.2018)]
-[^10]: [Responsibility assignment matrix (last edit: 11.10.21)]
-[^11]: [Reinhard Wagner, The Rasic-Chart – a key tool for collaboration in projects (20.4.2017)]
-[^12]: [Nadine Ebel, Projektmanagement]
-[^13]: [Mahir Kulalic, Was ist agiles Projektmanagement? (19.09.2021)]
+[^9]: [iDOGrants, How to Use a R.A.S.I.C Roles, Accountability and Responsibility Matrix (20.4.2018)](https://idogrants.org/2018/04/20/how-to-use-a-r-a-s-i-c-roles-accountability-and-responsibility-matrix/)
+[^10]: [Responsibility assignment matrix (last edit: 11.10.21)](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+[^11]: [Amber Bezahler, RASCI 101: How to move from chaos to order (2.4.2019)](https://medium.com/@abezahler/rasci-101-how-to-move-from-chaos-to-order-5b25db0869f4)
+[^12]: [Nadine Ebel, Projektmanagement](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden)
+[^13]: [Mahir Kulalic, Was ist agiles Projektmanagement? (19.09.2021)](https://www.factro.de/blog/agiles-projektmanagement/)
