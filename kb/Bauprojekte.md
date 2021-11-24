@@ -5,7 +5,6 @@ author: Constll
 anrechnung: k
 ---
 
-# Bauprojekte
 
 Ein Bauprojekt, auch Bauvorhaben genannt, beschreibt die Errichtung eines in der Regel einmaligen Bauwerks.
 
@@ -44,7 +43,10 @@ Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md). Im Jahr 2
 
 ![Chemikum FAU](Bauprojekte/MPSBeitrag.jpeg)
 *Chemikum FAU [^8]*
+
 # Erfolgreiche Bauprojekte
+
+
 # Bachelorstudiengang Projektmanagement Bau
 
 # Begriffsdefinitionen
