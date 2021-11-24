@@ -2,7 +2,7 @@
 title: Kanban_Boards
 tags: agil klassisch
 author: leusl8
-anrechnung: k oder a
+anrechnung: k
 ---
 
 
