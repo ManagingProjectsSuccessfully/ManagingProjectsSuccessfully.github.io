@@ -4,9 +4,7 @@ tags: agil klassisch Projektmanagement Planung Organisation Vorgehensweise Entwi
 author: hello-pukeko
 anrechnung: k
 ---
->Kompendium: was zum Lesen und man hat's kapiert
 
-# Kurzbeschreibung zu Vorgehensmodelle
 Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, Rollen - kurz *wer wann was* macht - und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. Sie bieten einen organisatorischen Rahmen und dienen Nutzer:innen als Hilfestellung.[^110][^90]
 Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geeignetes auszuwählen ist keine leichte Aufgabe. Es existieren unterschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur Anpassung.[^50]
 
@@ -78,7 +76,6 @@ Broy, Manfred; Kuhrmann, Marco (2021): Vorgehensmodelle in der Softwareentwicklu
 Broy, M. & Kuhrmann, M. (2021). Vorgehensmodelle in der Softwareentwicklung. In M. Broy & M. Kuhrmann (Hrsg.), Xpert.press. Einführung in die Softwaretechnik (S. 83–124). SpringerVieweg. https://doi.org/10.1007/978-3-662-50263-1_3
 
 # Quellen
-
 [^10]: [Angermeier, Georg (2017): Vorgehensmodell. In: Projektmagazin, 21.09.2017. Zuletzt geprüft am 22.11.2021.](https://www.projektmagazin.de/glossarterm/vorgehensmodell)
 [^20]: [Kneuper, Ralf; Müller-Luschnat, Günther; Oberweis, Andreas (Hg.) (1998): Vorgehensmodelle für die betriebliche Anwendungsentwicklung. Wiesbaden, s.l.: Vieweg+Teubner Verlag (Springer eBook Collection Computer Science and Engineering).](https://books.google.de/books?hl=de&lr=&id=mm2tBgAAQBAJ&oi=fnd&pg=PA13&dq=vorgehensmodelle&ots=tFWOULgo7u&sig=NTxRWv8s8lr4qoikRCPk7sYenZo#v=onepage&q=vorgehensmodelle&f=false)
 [^30]: [Schneider, Kristof; Daun, Christine; Behrens, Hermann; Wagner, Daniel (2006): Vorgehensmodelle und Standards zur systematischen Entwicklung von Dienstleistungen. In: Kristof Schneider, Hans-Jörg Bullinger und August-Wilhelm Scheer (Hg.): Service Engineering. Entwicklung und Gestaltung innovativer Dienstleistungen : mit 24 Tabellen. 2., vollst. überarb. und erw. Aufl. Berlin, Heidelberg: Springer Berlin Heidelberg, S. 113–138.](http://www.producao.ufrgs.br/arquivos/disciplinas/508_din_1998.pdf)
@@ -91,102 +88,3 @@ Broy, M. & Kuhrmann, M. (2021). Vorgehensmodelle in der Softwareentwicklung. In 
 [^100]: [Wieczorrek, Hans W.; Mertens, Peter: Vorgehen in IT-Projekten. In: Management von IT-Projekten: Springer.](https://link.springer.com/content/pdf/10.1007%2F978-3-642-16127-8.pdf)
 [^110]: [Broy, Manfred (2013): Projektorganisation und Management Im Software Engineering. Unter Mitarbeit von Marco Kuhrmann. 1st ed. Berlin, Heidelberg: Springer Berlin / Heidelberg (Xpert. press Ser).](https://link.springer.com/content/pdf/10.1007%2F978-3-642-29290-3.pdf)
 [^120]: [Kuster, Jürg; Bachmann, Christian; Huber, Eugen; Hubmann, Mike; Lippmann, Robert; Schneider, Emil et al. (2011): Handbuch Projektmanagement. 4. Aufl.: Springer Gabler.](https://link.springer.com/content/pdf/10.1007/978-3-662-57878-0.pdf)
-
------------------
------------------
-Kurzbeschreibung zu Vorgehensmodelle um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Vorgehensmodelle/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Vorgehensmodelle.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
