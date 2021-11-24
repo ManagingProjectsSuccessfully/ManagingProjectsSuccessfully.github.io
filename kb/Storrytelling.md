@@ -57,13 +57,6 @@ Abschließend kann man, fantasievoll verpackt, die konkreten Ziele erläutern, w
 Nach dem tatsächlichen Projektabschluss kann man ebenfalls das Projekte durch eine Geschichte wiederholen und sowohl Kritikpunkte als auch positives hervorheben.
 
 
-
-
-
-# Siehe auch
-
-* [Link auf diese Seite](Storrytelling.md)
-
 # Weiterführende Literatur
 
 * [Storytelling - Geschichten für Projektmanager] (https://www.gohswriter.de/storytelling-geschichten-fuer-projektmanager/)
