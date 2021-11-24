@@ -2,24 +2,25 @@
 title: PRINCE2_Projektumgebung
 tags: agil klassisch
 author: corinnaneubauer
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu PRINCE2_Projektumgebung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+PRINCE2 steht für Projects in Controlled Environments oder auch Projekte in kontrollierten Umgebungen und ist eine auf Prozessen basierende Methode für effektives Projektmanagement. PRINCE2 gilt als das "How to" des Projektmanagements: Es ist flexibel, skalierbar und kann auf die spezifischen Anforderungen eines Unternehmens angepasst werden[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# PRINCE2 Projektumgebung
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+PRINCE2 gehört zu den am häufigsten verwendeten Projektmanagementmethoden [^2], [^3]. Dank dieser Methode ist es möglich, jederzeit den Beginn, den Verlauf und den Abschluss von Projekten zu kontrollieren. Was genau unter einem Projekt zu verstehen ist, kann man hier nachlesen [^4]. Um mehr über PRINCE2 zu erfahren empfehle ich das Kompendium PRINCE2 [^5]. 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Was sind die Bestandteile von PRINCE2?
+* Sieben Grundprinzipien [^6]: Sie definieren die grundlegenden Regeln
+* Sieben Prozesse: Sie beschreiben das schrittweise Vorgehen während dem Projekt 
+* Sieben Themen: Das sind die Aspekte des Projektmanagements, die kontinuierlich behandelt werden müssen [^7|
+ 
+Als wichtigstes Grundprinzip von PRINCE2 kann die Anpassung (Tailoring) an die Projektumgebung genannt werden. Anpassung bezeichnet in diesem Fall die angemessene Anwendung von PRINCE2 auf ein bestimmtes Projekt. Dabei muss der Umfang von Planung und Steuerung sowie der Einsatz von Prozessen und Themen richtig auf das Projekt abgestimmt werden. Nicht zu verwechseln ist die Anpassung mit dem Begriff der Integration, mit dem die reine Einführung (oder auch Embedding) von PRINCE2 in eine Organisation gemeint ist. Oft liegt die Verantwortung nicht zentral bei einer Person, sondern verteilt sich je nach Kompetenz auf mehrere [^8]. 
+ 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Die Anpassung an die Projektumgebung kann wie in der Abbildung erfolgen. 
 
 Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
 Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
@@ -97,8 +98,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://www.axelos.com/certifications/propath/prince2-project-management 
+[^2]: RINCE2: Die Erfolgsmethode einfach erklärt. Version 2017 von Fabian Kaiser, Roman Simschek
+[^3]: Kompendium Projektmanagement
+[^4]: Kompendium Projekt
+[^5]: Kompendium PRINCE2
+[^6]: Kompendium PRINCE2 Grundprinzipien
+[^7]: https://www.maxpert.de/de/profil/schulungsspektrum/prince2-methode-definitionen/506 
+[^8]: YouTube High Performance Projekte mit PRINCE2
