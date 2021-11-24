@@ -20,7 +20,7 @@ PRINCE2 gehört zu den am häufigsten verwendeten [Projektmanagementmethoden](Pr
 Als wichtigstes Grundprinzip von PRINCE2 kann die Anpassung (Tailoring) an die Projektumgebung genannt werden. Anpassung bezeichnet in diesem Fall die angemessene Anwendung von PRINCE2 auf ein bestimmtes Projekt. Dabei muss der Umfang von Planung und Steuerung sowie der Einsatz von Prozessen und Themen richtig auf das Projekt abgestimmt werden. Nicht zu verwechseln ist die Anpassung mit dem Begriff der Integration, mit dem die reine Einführung (oder auch Embedding) von PRINCE2 in eine Organisation gemeint ist. Oft liegt die Verantwortung nicht zentral bei einer Person, sondern verteilt sich je nach Kompetenz auf mehrere [^4]. 
  
 
-Die Anpassung an die Projektumgebung kann wie in der Abbildung erfolgen: 
+Die Anpassung an die Projektumgebung kann wie in der Abbildung [^5] erfolgen: 
 
 ![Abbildung](PRINCE2_Projektumgebung/PRINCE2_Projektumgebung.png)
 
@@ -28,14 +28,15 @@ Die Anpassung an die Projektumgebung kann wie in der Abbildung erfolgen:
 
 Zum einen können die Techniken/Praktiken durch die Methodik vereinfacht werden. Es wird z.B. auf Dokumente und Berichte verzichtet. 
 Zum anderen finden Meetings weniger formell, sondern auch mal beim Mittagessen statt. 
-Formate werden aufgrund externer Anforderungen, wie Style-Guides umgestaltet. 
+Formate werden aufgrund externer Anforderungen, wie Style-Guides, umgestaltet. 
 Die Zusammenführung von einzelnen Berichten zu einem großen kann zu einer Verschlankung bei Projekten führen. 
-PRINCE2 gibt zwar klar definierte Rollen vor, z.B. wird ein Kunde im Projekt als "Abnehmer" definiert. Beim Renaming können aber in PRINCE2 bestehende Rollen an die im Unternehmen etablierten Terminologien angepasst werden. Nicht angepasst werden hingegen die sieben Grundprinzipien. 
-PRINCE2 ermöglicht also für jedes Unternehmen bzw. teilweise sogar für jedes Projekt eine individuelle Anpassung, um so optimal auf die spezifischen Anforderungen hinsichtlich Umgebung, Umfangm Komplexität, Wichtigkeit, Leistungsfähigkrit und Risiko eingehen zu können[^5]. 
+PRINCE2 gibt zwar klar definierte Rollen vor, z.B. wird ein Kunde im Projekt als "Abnehmer" definiert, beim Renaming können jedoch in PRINCE2 bestehende Rollen an die im Unternehmen etablierten Terminologien angepasst werden. Nicht angepasst werden hingegen die sieben Grundprinzipien. 
+
+PRINCE2 ermöglicht also für jedes Unternehmen bzw. teilweise sogar für jedes Projekt eine individuelle Anpassung, um so optimal auf die spezifischen Anforderungen hinsichtlich Umgebung, Umfang, Komplexität, Wichtigkeit, Leistungsfähigkeit und Risiko eingehen zu können [^6]. 
 
 # Fazit
 
-PRINCE2 lässt sich an nahezu jede Projektumgebung anpassen und erweist sich dadurch als äußerst flexibel. Da aber die sieben Grundprinzipien nicht angepasst werden, bleibt immer ein gewisser Rahmen bestehen, an dem man sich orientieren kann [^6].
+PRINCE2 lässt sich an nahezu jede Projektumgebung anpassen und erweist sich dadurch als äußerst flexibel. Da aber die sieben Grundprinzipien nicht angepasst werden, bleibt immer ein gewisser Rahmen bestehen, an dem man sich orientieren kann [^7].
 
 
 
@@ -56,6 +57,6 @@ PRINCE2 lässt sich an nahezu jede Projektumgebung anpassen und erweist sich dad
 [^2]: Buch PRINCE2: Die Erfolgsmethode einfach erklärt. Version 2017 von Fabian Kaiser, Roman Simschek
 [^3]: https://www.maxpert.de/de/profil/schulungsspektrum/prince2-methode-definitionen/506 
 [^4]: https://www.youtube.com/watch?v=zl4zHUtwmSg 
-[^5]: https://de.wikipedia.org/wiki/PRINCE2
-[^6]: https://www.certnow.de/itsm-blog/10-prince2/77-prince2-2017-anpassen-an-die-projektumgebung.html  
-[^7]: https://www.agile-heroes.de/magazine/prince2-prozesse/?related_post_from=57759  
+[^5]: https://www.agile-heroes.de/magazine/prince2-projektumgebung/
+[^6]: https://de.wikipedia.org/wiki/PRINCE2
+[^7]: https://www.certnow.de/itsm-blog/10-prince2/77-prince2-2017-anpassen-an-die-projektumgebung.html  
