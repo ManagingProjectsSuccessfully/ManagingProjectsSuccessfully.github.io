@@ -41,7 +41,7 @@ Bevor das World Café beginnt, sollten die Teilnehmer den Ablauf und die Etikett
 
 
 
-
+ ![Beispielabbildung](World_Cafe/image.jpeg)
 
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
