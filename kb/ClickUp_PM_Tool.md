@@ -5,7 +5,7 @@ author: urimi0
 anrechnung: k 
 ---
 
-ClickUp[^1] ist ein [Projekt-Management Tool](Uebersicht_PM_Tools.md) welches verschiedene Features von mehreren Internetseiten und Apps wie [Trello](Trello_PM_Tool.md) oder [Asana](Asana_PM_Tool.md) zu einer Plattform kombiniert. Arbeit, Organisation und Kommunikation wird auf einer Seite vereint.
+ClickUp[^1] ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für allerlei Art und Größe für Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von Projekten dienen werden auf einer Plattform zusammengefügt. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.
 
 ![Beispielabbildung](ClickUp_PM_Tool/logo.png)
 
