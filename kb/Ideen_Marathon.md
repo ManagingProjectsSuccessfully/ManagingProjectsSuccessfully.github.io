@@ -7,18 +7,18 @@ anrechnung: k
 
 
 
-Um um ein erstes Verständnis zu schaffen, folgt zunächst eine Kurzbeschreibung des Ideen-Marathon.
+Um ein erstes Verständnis zu schaffen, folgt zunächst eine Kurzbeschreibung des Ideen-Marathon.
 Der Ideen-Marathon wurde in den 1980er Jahren von Takeo Higuchi entwickelt. Dabei handelt es sich um eine Kreativitätstechnik zur Ideenfindung für Einzelpersonen. 
-Mit Hilfe des Ideen-Marathon soll ein umfangreicher Ideen-Pool geschaffen werden[^1].
+Mit Hilfe des Ideen-Marathons soll ein umfangreicher Ideen-Pool geschaffen werden[^1].
 
 # Der Ideen-Marathon im klassischen Projektmanagement
 
 Kreativität gilt interdisziplinär als Diktum und ist als Persönlichkeitseigenschaft und Fähigkeit im ökonomischen Kontext unerlässlich. Kreative Talente produzieren „neue, 
 originelle und sinnvolle“ Ideen und können durch ihre hohe kognitive Flexibilität besser auf tägliche Herausforderungen reagieren als ihre weniger kreativen Kollegen[^2][^3]. 
 
-Dank dieser Eigenschaften wird Kreativität auch im fluiden Umfeld des [Projektmanagements](Projektmanagement.md) gefordert - so müssen gerade zu Beginn eines Projekts einige 
-Unsicherheiten beseitigt 
-werden. Beispielsweise gilt es vorab zu klären, welche Stakeholder ins Projekt miteinbezogen werden müssen. Welche Chancen und Risiken das Projekt bürgen könnte, sollte 
+Dank diesen Eigenschaften wird Kreativität auch im fluiden Umfeld des [Projektmanagements](Projektmanagement.md) gefordert - so müssen gerade zu Beginn eines Projekts einige 
+Unsicherheiten beseitigt werden. Beispielsweise gilt es vorab zu klären, welche Stakeholder ins Projekt miteinbezogen werden müssen. Welche Chancen und Risiken das Projekt 
+bürgen könnte, sollte 
 ebenfalls vor Projektbeginn geklärt werden[^4]. Für diese Herausforderungen und für noch viele Weitere ist Kreativität gefragt. 
 
 Kreativität – oder vielmehr kreatives denken – kann gezielt stimuliert werden. Im folgenden Artikel wird die Kreativitätstechnik „Ideen-Marathon“ vorgestellt werden. Zunächst 
@@ -33,7 +33,7 @@ lösen[^1].
 
 ## Grundprinzip des Ideen-Marathons
 
-Zu Beginn des Artikels soll das Grundprinzip eines Ideen-Marathons kurz erläutert werde.
+Zu Beginn des Artikels soll das Grundprinzip eines Ideen-Marathons kurz erläutert werden.
 Um einen Ideen-Marthon durchzuführen wird über einen bestimmten Zeitraum ein sogenanntes „Ideentagebuch“ geführt. Unter der Berücksichtigung von sieben Grundregeln wird jeden 
 Tag mindestens eine Idee konzipiert und in besagtes Tagebuch geschrieben[^5].
 
@@ -45,7 +45,7 @@ Als zweite Regel folgt, dass jede Idee möglichst prägnant formuliert und verfa
 An dieser Stelle kann das bereits beschriebene Notizbuch genutzt werden.
 
 Die dritte Regel besagt, dass die Möglichkeit bestehen muss, dass zu jedem Zeitpunkt eine neue Idee in das Notizbuch geschrieben werden kann. 
-Die darauffolgende vierte Regel gibt an, dass sich die Ideen vervielfachen lassen, indem man mit Freunden, Kollegen oder Familie über die Ideen spricht.  
+Die darauffolgende vierte Regel gibt an, dass sich die Ideen vervielfachen lassen indem man mit Freunden, Kollegen oder Familie über die Ideen spricht.  
 
 An fünfter Stelle steht, dass beim Notieren einer Idee besten Falls das gleiche wiederkehrende Schema angewandt werden sollte. Dies kann sich beispielsweise auf ein 
 fortlaufendes Datum, die Kategorie der Idee, die Beschreibung der Idee sowie den Ideenstatus beziehen. 
@@ -58,7 +58,7 @@ Die siebte und letzte Regel besagt, dass jeden Tag am persönlichen Ideen-Marath
 
 Die Effektivität des Ideen-Marathons lässt sich an den Erfolgen von Takeo Higuchi beweisen. So entwickelte der Japaner seit 1984 über 300.000 Ideen und füllte damit 400 
 Notizbücher.
-Takeo Higuchi beabsichtigt die Kreativitätstechnik auch in Zukunft weiterhin nutzen, er würde damit bis 2035, 1.000.000 Ideen entwickeln[^5].
+Takeo Higuchi beabsichtigt die Kreativitätstechnik auch in Zukunft weiterhin zu nutzen, er würde damit bis 2035 1.000.000 Ideen entwickeln[^5].
 
 
 
