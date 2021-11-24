@@ -45,7 +45,7 @@ Die Teammitglieder setzen sich oft von unterschiedlichen Abteilungen zusammen, w
 Im Zusammenhang mit Projektcontrolling übergibt der Projektleiter die Aufgabe das Projekt zu überwachen und zu dokumentieren an ein dafür qualifiziertes Teammitglied. 
 
 ## Mitarbeiterführung:
-Auch wenn ein Projektleiter nicht unbedingt der direkte Vorgesetzte der Teammitglieder ist, stehen ihm jedoch folgende Kompetenzen zu:
+Auch wenn ein Projektleiter unter anderem ein Projektmitarbeiter ist und nicht unbedingt der direkte Vorgesetzte der Teammitglieder ist, stehen ihm jedoch folgende Kompetenzen zu:
   1. Die Planung und Durchführung der Weiterbildungsmaßnahmen des Teams 
   2. Die Zuweisung von Projektteilaufgaben an die Teammitglieder 
   3. Das Mitsprachrecht für die Urlaubs- und Abwesenheitsplanung von Mitgliedern 
