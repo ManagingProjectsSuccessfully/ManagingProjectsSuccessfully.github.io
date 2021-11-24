@@ -14,7 +14,8 @@ Die Teamleiter sollen sich gegenseitig über die wichtigsten Themen ihres eigene
 Üblicherweise werden die inhaltlich relevanten Punkte mit Hilfe von beispielsweise Post-Its und Plakaten visualisiert. Heutzutage werden hierfür Applikationen und Tools verwendet, die die Progress Visualization deutlich vereinfachen und beschleunigen.
 Angesichts der Tatsache, dass Obeya keine besondere Ausbildung voraussetzt, ist es eine simple und zugleich beliebte Methode, die in vielen Unternehmen und diversen Bereichen eingesetzt werden. Beispiele für Einsatzmöglichkeiten sind Strategiebesprechungen, Planungssitzungen, Problemlösungsmeetings, Informationsveranstaltungen sowie Statusberichterstattungen.
 
-
+![bild](Obeya_Raum/obeya-room.jpg)
+*Obeya Raum*
 
 # Verlauf
 
