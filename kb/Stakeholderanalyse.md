@@ -14,7 +14,7 @@ Eine [Stakeholderanalyse](Stakeholderanalyse.md) hat das Ziel die Interessensgru
 
 Der Begriff Stakeholder beschreibt ein direktes Interesse an einem [Projekt](Projekt.md) von einzelnen Personen, Gruppen, Unternehmen oder Vereinigungen. Viele Stakeholder wollen bei den Verläufen von [Projekten](Projekt.md) eingebunden sein und so ihre Belange zu ihrem Vorteil durchsetzen [^3].
 
-Stakeholder können in interne und externe gegliedert werden. Nachfolgend sind einige Beispiele von möglichen Stakeholdern aufgezählt [^4]:
+Stakeholder können in intern und extern gegliedert werden. Nachfolgend sind einige Beispiele von möglichen Stakeholdern aufgezählt [^4]:
 
 * Konkurrenten
 *	Umweltverbände
