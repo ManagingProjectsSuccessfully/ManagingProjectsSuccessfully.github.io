@@ -48,8 +48,7 @@ Oft genutzte Methoden sind hierbei [Stakeholderanalyse](Stakeholderanalyse.md), 
 
 ### Softskill-Management
 
-Die Methoden für Kompetenzen im Projektmanagement kann prinzipiell jedes Teammitglied übernehmen. Besonders der Projektleiter benötigt jedoch bestimmte Kompetenzen, um den erfolgreichen Ablauf seines Projektes sicherzustellen.[^14] Für ein effizientes Selbstmanagement werden Techniken wie [Pomodoro](Pomodoro.md), [Pareto-Prinzip](Pareto_Prinzip) oder die [Eisenhower-Matrix](Eisenhower_Matrix.md) eingesetzt.[^7] Dem Projektleiter stehen außerdem verschiedene Mittel zur Verfügung, um die Kommunikation in der Gruppe zu verbessern und die Teammitglieder anzuführen. Es können [Feedback-Gespräche](Feedbackgespräche.md) und Methoden des [Teammanagements](Teammanagement.md) genutzt werden.[^7]
-Die Entscheidungsfindung der Gruppe können Methoden wie die [Nutzwertanalyse](Nutzwertanalyse.md) unterstützen.[^7]
+Die Methoden für Kompetenzen im Projektmanagement kann prinzipiell jedes Teammitglied übernehmen. Besonders der Projektleiter benötigt jedoch bestimmte Kompetenzen, um den erfolgreichen Ablauf seines Projektes sicherzustellen.[^14] Für ein effizientes Selbstmanagement werden Techniken wie [Pomodoro](Pomodoro.md), [Pareto-Prinzip](Pareto_Prinzip) oder die [Eisenhower-Matrix](Eisenhower_Matrix.md) eingesetzt. Dem Projektleiter stehen außerdem verschiedene Mittel zur Verfügung, um die Kommunikation in der Gruppe zu verbessern und die Teammitglieder anzuführen. Es können [Feedback-Gespräche](Feedbackgespräche.md) und Methoden des [Teammanagements](Teammanagement.md) genutzt werden. Die Entscheidungsfindung der Gruppe können Methoden wie die [Nutzwertanalyse](Nutzwertanalyse.md) unterstützen.[^7]
 
 ### Kreativitätsmethoden
 
