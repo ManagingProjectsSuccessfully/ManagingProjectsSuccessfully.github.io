@@ -41,19 +41,12 @@ Nicht jede Aufgabe oder Tätigkeit eines Unternehmens ist ein Projekt. Um erkenn
 
 * Projektarten 
 
-Zwei wesentliche Projektarten sind Entwicklungsprojekte und Veränderungsprojekte.
+Zwei wesentliche Projektarten sind Entwicklungsprojekte und Veränderungsprojekte[^6].
 
 
 | Entwicklungsprojekte  | Veränderungsprojekte |
 | ------------- | ------------- |
-| entwickeln neue Produkte oder Dienstleistungen.       |  befassen sich mit der Veränderung von Organisationsstrukturen, wobei die Entwicklung einer neuen Form der Zusammenarbeit von Menschen im Vordergrund steht und nicht die Entwicklung eines neuen Produktes. |
-
-
-
-Entwicklungsprojekte entwickeln neue Produkte oder Dienstleistungen.
-
-Veränderungsprojekte befassen sich mit der Veränderung von Organisationsstrukturen, wobei die Entwicklung einer neuen Form der Zusammenarbeit von Menschen im Vordergrund steht und nicht die Entwicklung eines neuen Produktes. http://www.projektmanagementhandbuch.de/handbuch/projektinitiierung/projektdefinition/
-
+| entwickeln neue Produkte oder Dienstleistungen[^6]. |  befassen sich mit der Veränderung von Organisationsstrukturen, wobei die Entwicklung einer neuen Form der Zusammenarbeit von Menschen im Vordergrund steht und nicht die Entwicklung eines neuen Produktes[^6]. |
 
 
 
