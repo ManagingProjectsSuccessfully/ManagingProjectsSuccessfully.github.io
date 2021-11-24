@@ -17,7 +17,7 @@ Konzeptionsphase | Designphase | Projektphase (vor Baubeginn) | Beschaffungsphas
 # Projektmanagement bei Bauprojekten
 
 Das Bauprojektmanagement kann als die Urform des [Projektmanagements](Projektmanagement.md) betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren. 
-Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements[^1]. Es gibt insgesamt drei Funktionäre bei einem Bauprojekt: Bauherr, Planer und die Ausführenden (z.B. Bauunternehmer)[^2]. Der Projektrahmen wird im Kontext des [Magischen Dreiecks](Magisches_Dreieck.md) anfangs definiert.
+Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements[^1]. Es gibt insgesamt drei Funktionäre bei einem Bauprojekt: Bauherr, Planer und die Ausführenden (z.B. Bauunternehmer)[^2]. Der Projektrahmen wird anfangs im Kontext des [Magischen Dreiecks](Magisches_Dreieck.md) definiert.
 
 ## Aufgaben des Bauprojektmanagements [^1]
 
@@ -34,8 +34,8 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 
 Um das bessere Projektmanagement herauszufinden, muss man das klassische Projektmanagement und das agile Projektmanagement miteinander vergleichen und die Unterschiede und Gemeinsamkeiten näher betrachten.
 Der Vertreter des klassischen Projektmanagements ist das [Wasserfallmodell](Wasserfall_Modell.md). Dieses hat einen einfachen Zugang, ist leicht verständlich und besitzt eine klare Struktur. Jedoch ist bei diesem Modell der [Dokumentationsaufwand](Projektdokumentation.md) sehr groß. Außerdem werden die Kunden bzw. Endbenutzer kaum in das Projekt integriert. [^5]
-Das agile Projektmanagement im Gegenzug ist vorallem in der Planungsphase von Bauvorhaben sinnvoll, da dort eine hohe Dynamik herrscht und diese Art von Projektmanagement die Effektivität und die Effizienz dort erhöhen kann. Eine direkte Übertragung der Scrum-Methode ist jedoch nicht möglich in der Planungsphase. [^6]
-Das beste Projektmanagement für Bauprojekte ist eine Adaption aus der Scrum-Methode und somit dem agilen Projektmanagement. Dadurch entsteht bei Bauprojekten eine effiziente und termingerechte Umsetzung der Prozesse. [^7]
+Das agile Projektmanagement im Gegenzug ist vorallem in der Planungsphase von Bauvorhaben sinnvoll, da dort eine hohe Dynamik herrscht und diese Art von Projektmanagement die Effektivität und die Effizienz dort erhöhen kann. In der Planungsphase ist eine direkte Übertragung der [Scrum-Methode](SCRUM.md) nicht möglich. [^6] 
+Das beste Projektmanagement für Bauprojekte ist eine Adaption aus der [Scrum-Methode](SCRUM.md) und somit dem agilen Projektmanagement. Dadurch entsteht bei Bauprojekten eine effiziente und termingerechte Umsetzung der Prozesse. [^7]
 
 # Gescheiterte Bauprojekte
 
