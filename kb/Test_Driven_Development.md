@@ -15,11 +15,15 @@ Darin zeigte er die erfolgreiche Anwendung an verschiedenen Beispielen und erkl�
 
 ## Der RGR-Zyklus
 
+Das Projekt wird in kleine Funktionalitäten unterteilt, die nacheinander hinzugefügt werden sollen. 
+
 | Schritt  | Aufgabe |
 | ------------- | ------------- |
 | Red  | Schreibe einen neuen Test für die Funktion, die du einbauen möchtest.<br/>Weil das Programm die Funktion noch nicht beherrscht, muss er fehlschlagen.  |
 | Green  | Schreibe deinen Code so um, dass der Code funktioniert. Dabei wird nicht auf guten Stil (z.B. Kommentare, Vermeidung von Duplikationen) geachtet, wichtig ist die Funktion.  |
 | Refactor  | Jetzt wird der funktionierende Code überarbeitet, sodass er weiterhin funktioniert, aber die Richtlinien zu gutem Stil erfüllt, die im zweiten Schritt ignoriert wurden.  |
+
+
 
 # Effekte von TDD
 
