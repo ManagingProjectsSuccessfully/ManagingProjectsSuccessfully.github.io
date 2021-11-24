@@ -14,7 +14,7 @@ Erfolgreiches [Projektmanagement](Projektmanagement.md) resultiert aus einer eff
 
 # Bereiche der [Ressourcenplanung](Ressourcenplanung.md) und deren Herausforderungen (Skill-Management)
 
-![Abbildung](kb/Ressourcenplanung/Abbildung1.jpg)
+![Abbildung](kb/Ressourcenplanung/Abbildung1.png)
 
 [Abbildung 1: Die drei Ebenen und beteiligten Rollen bei der unternehmensweiten Ressourcenplanung]
 
