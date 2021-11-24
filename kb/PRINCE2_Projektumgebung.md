@@ -94,7 +94,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * [Projekt](Projekt.md)
 * [Projektmanagement](Projektmanagement.md)
 * [PRINCE2](PRINCE2) 
-* [PRINCE2_Grundprinzipien](PRINCE2_Grundprinzipien)
+* [PRINCE2_7_Grundprinzipien](PRINCE2_7_Grundprinzipien)
 
 # Weiterführende Literatur
 
