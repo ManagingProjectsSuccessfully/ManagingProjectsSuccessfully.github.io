@@ -52,14 +52,14 @@ Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Änd
 
 Die Methode kann in der Umsetzung schwierig sein, da das gesamte Team gemeinsam an der aktuellen Aufgabe arbeitet. 
 Diese sollte möglichst einfach gehalten werden und nicht zu kompliziert gestaltet werden.
-Dies erfordert kontinuierliche Kommunikation, hochwertige Arbeit und wenn nötig das Annehmen von Veränderungen.
+Dies erfordert kontinuierliche Kommunikation, hochwertige Arbeit und wenn nötig das Annehmen von Veränderungen. [^14]
 
 Wenn das Team jedoch das Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken anwendet, gibt es viele Vorteile.
 
 Durch das inkrementelle Vorgehen kann das Produkt genau nach Kundenwünschen entwickelt werden und Kosten schnell wieder hereinholen, 
 da beispielsweise eine Software zu einem frühen Zeitpunkt produktiv gehen kann.
 Der Code ist durch testgetriebene Entwicklung stets änderbar und erweiterbar und wird in sehr hoher Qualität erstellt. 
-Die Entwickler werden von den Erfolgserlebnissen, wenn eine neue Version ausgeliefert werden kann, motiviert und können sich mit dem Code identifizieren.
+Die Entwickler werden von den Erfolgserlebnissen, wenn eine neue Version ausgeliefert werden kann, motiviert und können sich mit dem Code identifizieren. [^15]
 
 Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeinsamen Verständnis an der aktuellen Aufgabe zusammenarbeitet und das Framework beachtet ist die Methode sehr effizient und erfolgsbringend.
 
@@ -87,6 +87,5 @@ Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeins
 [^11]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 30
 [^12]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 31
 [^13]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 33
-
-
-
+[^14]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 151
+[^15]: http://www.techsphere.de/pageID=pm03.html
