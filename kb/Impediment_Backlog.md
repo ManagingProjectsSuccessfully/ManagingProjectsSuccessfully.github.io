@@ -1,14 +1,79 @@
 ---
 title: Impediment_Backlog
-tags: agil klassisch
+tags: agil
 author: patrick203494
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Impediment_Backlog um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+**Impediments** (engl.: „Behinderungen“) beschreiben Hindernisse und Störungen aller Art, die während eines [Scrum](SCRUM.md) - Projekts auftreten. Sie schränken das Projektteam bei der effektiven Erfüllung seiner Aufgaben und damit zum Beispiel der Erreichung eiens [Sprint](Sprint.md) - Ziels ein. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das **Impediment Backlog** wird zumeist zur Visualisierung und Priorisierung von Impediments verwendet. Darin werden bestehende Hindernisse mit dem Ziel zusammengefasst, sie so schnell wie möglich zu überwinden.
+(onlinesolutionsgroup)
+
+
+# Beispiele für Impediments
+
+Mehr oder weniger deutlich erkennbar sind Impediments in nahezu jedem Scrum - Projekt vorhanden. 
+
+Beispiele:
+
+* Zu hohe Temperaturen im Büro
+* Zu wenig Arbeitsplätze für das komplette Team
+* Veränderungen in der Teamzusammensetzung
+* Ablenkung durch andere Aufgaben außerhalb des Projekts
+* Druck von außen durch Management 
+* Konflikte zwischen Projektmitarbeitern
+* Mangel an Wissen, Fähigkeiten, Ressourcen
+
+(alphanodes)
+
+
+# Darstellung im Impediment Backlog
+
+Der Impediment Backlog stellt das Verzeichnis dar, in dem bestehende Einschränkungen aufgelistet und priorisiert werden. Es gibt keine vorgeschriebene Form für den Aufbau des Backlogs. Wichtig ist lediglich, dass alle Hindernisse erfasst werden, egal wie groß oder wie wichtig. Ansonsten lässt sich die Liste jedoch frei nach den Vorstellungen des Projektteams aufbauen.
+
+Neben einer kurzen Beschreibung des Impediments sollten im Normalfall noch folgende Daten enthalten sein: 
+
+* Betroffene Personen
+* Bisherige Dauer der Störung
+* Mögliche Ansprechpartner (zur Lösungsfindung)
+
+Impediment Backlogs können in unterschiedlichsten Darstellungen geführt werden, beispielsweise als Excel-Tabellen, als Einträge in [Projektmanagement - Tools](Uebersicht_PM_Tools.md) oder als Post-Its an einem Whiteboard. (onlinesolutions, agiles managementprojekt)
+
+
+# Verantwortlichkeit im Scrum-Prozess
+
+Gemäß dem [Scrum Guide 2020](Scrum_Guide.md) liegt die Beseitigung von Impediments in der Verantwortung des [Scrum Masters](Scrum_Master.md). Somit ist er auch für die Dokumentation der Hindernisse im Impediment Backlog zuständig. Wie genau er bei der Erfüllung dieser Aufgabe vorzugehen hat, ist jedoch nicht festgelegt.  (t2informatik, onlinesolutions)
+
+Das Ermitteln der Störungen selbst ist nicht nur die Aufgabe des Scrum Masters, sondern die des gesamten Projektteams. 
+
+# Idealtypischer Ablauf für den Umgang mit Impediments
+
+**1. Aufnehmen:** In den meisten Fällen stößt man während der [Daily Scrums](Daily_Scrum.md) auf Impediments. Diese können dann direkt im Backlog dokumentiert und im Nachgang besprochen werden.
+Der Hinweis auf ein Impediment kann einerseits durch die Projektmitarbeiter erfolgen, oder der Scrum Master selbst erkennt weniger offenkundige Probleme und bringt sie zur Sprache.
+
+
+**2. Priorisieren:** Hat der Scrum Master ausreichend Informationen über jedes Impediment gesammelt, so kann er eine Priorisierung der Hindernisse nach deren Relevanz vornehmen.
+
+
+**3. Veröffentlichen:** Für das Bewusstsein über die Hindernisse und den Informationsfluss ist es wichtig, dass das Impediment Backlog dem kompletten Team und dem Product Owner, wenn nicht sogar allen Stakeholdern zur Verfügung steht.
+
+
+**4. Handeln:** Im Anschluss geht der Scrum Master der Lösung der Probleme nach priorisierter Reihenfolge nach. 
+Scrum Master müssen jedoch nicht alle Hindernisse im Alleingang beseitigen, sondern in Zusammenarbeit mit dem Team feststellen, welche Hindernisse es selbstständig überwinden kann und wie es dabei unterstützt werden kann.
+
+
+**5. Informieren:** Ist das Problem gelöst, bringt der Scrum – Master das Impediment Backlog auf den neusten Stand und unterrichtet alle Projektbeteiligten darüber. 
+
+
+alphanodes
+Unternehmen-organisieren
+
+# Fazit
+
+Oft wird das Impediments Backlog unterschätzt, dabei gehört es als zentrales Instrument zur Veranschaulichung des Problemlösungsfortschritts eigentlich in jedes Scrum – Projekt. In nahezu jedem Projekt gibt es Hindernisse, aber nicht in jedem Projekt werden diese effektiv überwunden. Erst durch das Impediment Backlog finden sie die angemessene Beachtung und können kurzfristig gelöst werden. (ordix)
+
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -16,74 +81,6 @@ Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Impediment_Backlog/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
