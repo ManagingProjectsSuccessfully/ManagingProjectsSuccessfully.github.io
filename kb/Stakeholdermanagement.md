@@ -41,15 +41,9 @@ verschiedenen Gruppen steht hier im Mittelpunkt. So können viele Probleme und S
 es wenn alle Bedürfnisse aller Stakeholder befriedigt werden können. Dies ist aber recht unwahrscheinlich da es in einem Projekt immer auch sehr gegensätzliche Stakeholder 
 mit sehr unterschiedlichen Ansprüchen gibt.[^1]
 
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Stakeholdermanagement.md)
-
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Stakeholder-Management - Möglichkeiten des Umgangs mit Anspruchsgruppen](https://www.ssoar.info/ssoar/handle/document/36221)
 
 # Quellen
 
