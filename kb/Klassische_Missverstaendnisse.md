@@ -4,8 +4,8 @@ tags: agil klassisch
 author: ux49azap
 anrechnung: k
 ---
-# Missverständnisse beim klassischen Projektmanagement
-Die falsche Anwendung des klassischen [Projektmanagements](Projektmanagement.md) kann schnell zu Missverständnissen führen, welche einen großen Einfluss auf die Erfolgswahrscheinlichkeit des jeweiligen [Projektes](Projekt.md) haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten.[^1] Aus diesem Grund ist es wichtig die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
+# Missverständnisse des klassischen Projektmanagements
+Die falsche Anwendung des klassischen [Projektmanagements](Projektmanagement.md) kann schnell zu Missverständnissen führen, welche einen großen Einfluss auf die Erfolgswahrscheinlichkeit des jeweiligen [Projektes](Projekt.md) haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
 
 # 1. Ursache der Missverständnisse
 Das [traditionelle Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) beruht auf einem monolithischen Ansatz, bei welchem bereits zu [Projektstart](Projektstart.md) der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, [Termine](Zeitplanung.md) und [Ressourcen](Ressourcenplanung.md) festgelegt.[^1][^2]  Dieser standardisierte Vorgang kann im Laufe des Projekts allerdings zu gleich mehreren Missverständnissen führen.
@@ -13,7 +13,7 @@ Das [traditionelle Projektmanagement](https://www.projektmagazin.de/glossarterm/
 
 # 2. Fehlende Flexibilität bei Veränderungen
 
-In nahezu allen Projekten kommt es im Laufe der Zeit zu sich veränderten Anforderungen und Bedürfnissen. Aufgrund der klassischen Vorgehensweise hat die Projektplanung jedoch nicht die notwendigen Freiheiten um auf Veränderungen flexibel einzugehen, da sie aufwendige und oftmals kostspielige Projektanpassungen nach sich ziehen würden.[^1]  Stattdessen wird strikt an dem ursprünglichen Plan festgehalten. Somit gibt es kaum Möglichkeiten Ziel- und Planänderungen zu treffen, wodurch vor allem bei den immer komplexer werdenden Projekten Unstimmigkeiten entstehen.[^3]  
+In nahezu allen Projekten kommt es im Laufe der Zeit zu sich veränderten Anforderungen und Bedürfnissen. Aufgrund der klassischen Vorgehensweise hat die Projektplanung jedoch nicht die notwendigen Freiheiten, um auf Veränderungen flexibel einzugehen, da sie aufwendige und oftmals kostspielige Projektanpassungen nach sich ziehen würden.[^1]  Stattdessen wird strikt an dem ursprünglichen Plan festgehalten. Somit gibt es kaum Möglichkeiten Ziel- und Planänderungen zu treffen, wodurch vor allem bei den immer komplexer werdenden Projekten Unstimmigkeiten entstehen.[^3]  
 
 
 
@@ -23,8 +23,8 @@ Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird berei
 
 
 # 4. Unstimmigkeiten beim Projektablauf
-Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum [agilen Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement) wird das Projekt nicht in kleinere Aufgabenblöcke heruntergebrochen, welche zu früh überprüfbaren Ergebnissen  führen würden. Es fehlen somit regelmäßige Zwischenprodukte, welche kontinuierlich angepasst und verbessert werden könnten (sog. Sprints beim agilen Projektmanagementmodell [SCRUM](SCRUM.md)). 
-Stattdessen werden beim klassischen Projektmanagment komplexere [Projektphasen](Projektphasen_klassisch.md) nacheinander und nicht parallel abgearbeitet. Die größeren Arbeitsblöcke lassen sich schwerer verwalten, wodurch ein deutlich höheres Risiko für Fehlentscheidungen entsteht. Zusätzlich geht der Motivationsaspekt für das arbeitende Team verloren, da beim klassischen Projektmanagement kein frühzeitig nutzbarer Mehrwert entsteht.[^4]
+Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum [agilen Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement) wird das Projekt nicht in kleinere Aufgabenblöcke heruntergebrochen, welche zu früh überprüfbaren Ergebnissen führen würden. Es fehlen somit regelmäßige Zwischenprodukte, welche kontinuierlich angepasst und verbessert werden könnten (sog. Sprints beim agilen Projektmanagementmodell [SCRUM](SCRUM.md)). 
+Stattdessen werden beim klassischen Projektmanagment komplexere [Projektphasen](Projektphasen_klassisch.md) nacheinander und nicht parallel bearbeitet. Die größeren Arbeitsblöcke lassen sich schwieriger verwalten, wodurch ein deutlich höheres Risiko für Fehlentscheidungen entsteht. Zusätzlich geht der Motivationsaspekt für das arbeitende Team verloren, da beim klassischen Projektmanagement kein frühzeitig nutzbarer Mehrwert entsteht.[^4]
 
 ## 4.1 Rückmeldung der Projektergebnisse
 
@@ -33,23 +33,23 @@ Eng damit verknüpft ist die Rückmeldung an die Auftragsgeber. Da keine Zwische
 ![Zeitpunkt des Feedbacks beim klassichen Projektmanagement](Klassische_Missverstaendnisse/Feedback.jpg)        
 *Zeitpunkt des Feedbacks beim klassichen Projektmanagement*      
 
-Dadurch entstehen wiederum neue Missverständnisse. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben wodurch umfangreiche Anpassungen notwendig werden, welche vor allem im späteren Verlauf des Projektes zu immer höheren Kosten führen (siehe [Grafik](https://projekte-leicht-gemacht.de/blog/klassisches-agiles-projektmanagement-teil-3/)) .[^6]
+Dadurch entstehen wiederum neue Missverständnisse. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben, wodurch umfangreiche Anpassungen notwendig werden, welche vor allem im späteren Verlauf des Projektes zu immer höheren Kosten führen (siehe [Grafik](https://projekte-leicht-gemacht.de/blog/klassisches-agiles-projektmanagement-teil-3/)) .[^6]
 
 ![Anstieg der Änderungskosten im Verhältnis zur Zeit](Klassische_Missverstaendnisse/Änderungen.jpg)        
-*Anstieg der Anpassungskosten im Verhältnis zur Zeit* 
+*Anstieg der Änderungskosten im Verhältnis zur Zeit* 
 
 # 5. Unverhältnismäßige Rahmenbedingungen
 
-Ein weiterer Aspekt welcher zu klassischen Missverständnissen führt sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, der unterschätzte [Projektumfang](Projektumfang.md) oder mangelnde Abstimmung und fehlerhafte [Projektkommunikation](Projektkommunikation.md) bestärken die bereits genannten Missverständnisse stark.[^7][^8]
+Ein weiterer Aspekt, welcher zu klassischen Missverständnissen führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, der unterschätzte [Projektumfang](Projektumfang.md) sowie fehlerhafte [Projektkommunikation](Projektkommunikation.md) bestärken die bereits genannten Missverständnisse stark.[^7][^8]
 
 # Fazit
-Um klassische Missverständnisse bei Projekten zu vermeiden ist es deshalb besonders wichtig genau abzuwägen, ob das klassische Projektmanagement zur Ausgangslage, zur Aufgabenstellung und zur Zielsetzung passt. Nur wenn diese Vorraussetzungen erfüllt sind kann das Projekt erfolgreich und wirtschaftlich verlaufen.[^1]
+Um klassische Missverständnisse bei Projekten zu vermeiden, ist es deshalb besonders wichtig genau abzuwägen, ob das klassische Projektmanagement zur Ausgangslage, Aufgabenstellung und Zielsetzung passt. Nur wenn diese Vorraussetzungen erfüllt sind, kann das Projekt erfolgreich und wirtschaftlich verlaufen.[^1]
 
 
 # Siehe auch
 
 * [Projektmanagement](Projektmanagement.md)
-* [Praxisbeispiele gescheiterter_Projetke](Praxisbeispiele_gescheiterte_Projetke.md)
+* [Praxisbeispiele gescheiterter Projekte](Praxisbeispiele_gescheiterte_Projetke.md)
 
 # Weiterführende Literatur
 
