@@ -51,7 +51,7 @@ Die Knowledge Base wird dauerhaft aktualisiert und es können zu jedem beliebige
 Die AI gestützte Datenabfrage ermöglicht schnelle und akkurate Ergebnisse (AI).  Mitarbeiter aber auch die Kunden sollen in engem Austausch mit der Plattform stehen. 
 Um diesen Austausch zu optimieren werden zusätzlich acht flexible Produkte angeboten, welche je nach Bedürfnis integriert werden können. 
 
-Produkte:
+# Produkte:
 
 *Digital Dashboard
 *Digital Communications
