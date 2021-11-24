@@ -65,6 +65,7 @@ Hierbei gibt es verschiedene Kriterien:
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite]({Projekt}.md)
+* [klassisches PM](url)
 
 # Weiterführende Literatur
 
