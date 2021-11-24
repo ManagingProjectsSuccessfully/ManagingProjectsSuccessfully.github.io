@@ -22,7 +22,7 @@ Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest g
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
 
 
-## Rollen
+## Rollen  
 
 Der <b> Kunde </b> ist der Auftraggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll. [^6]
 
