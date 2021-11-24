@@ -1,19 +1,30 @@
 ---
 title: Lessons_Learned
-tags: agil klassisch
+tags: Lessons_Learned klassisch
 author: JanAmend
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Lessons_Learned um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Lessons Learned (gewonnene Erkenntnisse) ist ein wichtiger Bestandteil des Projektmanagements. <br><br>
+Ziel ist es aus den praktischen Erfahrungen des zurückliegenden Projekts für die Zukunft zu lernen. 
+Entscheidend hierbei ist das neu erlangte Wissen, sowie die positiven und negativen Ereignisse und Erfahrungen, die im Laufe des Projekts aufgetreten sind und gesammelt werden konnten. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Warum ist Lessons Learned sinnvoll?
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Durch eine konsequente Umsetzung der Lessons Learned Idee kann vermieden werden, die gleichen oder ähnliche Fehler bei der Durchführung eines Projekts zu wiederholen. Außerdem können Ansätze, die gut funktioniert haben, identifiziert werden und bei der Umsetzung des nächsten Projekts angewandt werden.<br> Lessons Learned bietet somit zum einen den Vorteil aufgetretene Fehler beim nächsten Mal besser zu machen (aus ihnen zu lernen), sowie bereits gut funktionierendes Verhalten zu identifizieren und für zukünftige Projekte zu übernehmen. 
+
+
+# Ablauf 
+Das Project Management Institute unterteilt den Prozess in 5 Schritte: <br>
+![Ablauf](Lessons_Learned/Bild1.png)
+
+
+
+
+
+
+
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
