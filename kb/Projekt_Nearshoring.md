@@ -48,7 +48,7 @@ Das Potential des Projekt Nearshorings ist noch nicht ausgereizt und die Anwendu
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Backshoring and nearshoring: An overview](https://onlinelibrary.wiley.com/doi/full/10.1111/grow.12316)
 
 # Quellen
 
