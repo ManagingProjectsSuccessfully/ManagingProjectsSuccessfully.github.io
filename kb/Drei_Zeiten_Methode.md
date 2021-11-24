@@ -14,9 +14,9 @@ Verantwortlich für die Prognose sind die [Projektleiter](Projektleiter.md). Um 
 * die Erfahrungen von Experten abfragen
 * bereits bekannte Kosten für Material und Personal planen
 * Daten aus bereits durchgeführten Projekten berücksichtigen
-## Die 3-Zeiten-Methode
+## Die Drei-Zeiten-Methode
 
-Bei der 3-Zeiten-Methode schätzen die Experten für jeden Vorgang drei Werte. Ein optimistischer, ein wahrscheinlicher und ein pessimistischer Wert. Aus diesen drei Schätzwerten berechnet die Drei-Punkt-Schätzung den Erwartungswert mit Standardabweichung.[^2] Es ist häufig unklar, wann ein Szenario als Best-Case- bzw. Worst-Case-Szenario berücksichtigt werden sollte und wann es ignoriert werden darf, weil es zu unwahrscheinlich ist.[^3] 
+Bei der Drei-Zeiten-Methode schätzen die Experten für jeden Vorgang drei Werte. Ein optimistischer, ein wahrscheinlicher und ein pessimistischer Wert. Aus diesen drei Schätzwerten berechnet die Drei-Punkt-Schätzung den Erwartungswert mit Standardabweichung.[^2] Es ist häufig unklar, wann ein Szenario als Best-Case- bzw. Worst-Case-Szenario berücksichtigt werden sollte und wann es ignoriert werden darf, weil es zu unwahrscheinlich ist.[^3] 
 
 Die Dauer des Vorgangs wird dann mit der folgenden Formel ermittelt:
 
