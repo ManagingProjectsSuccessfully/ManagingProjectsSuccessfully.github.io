@@ -67,6 +67,8 @@ Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapp
 * 
 * [Barcamp-Methode](Barcamp_Methode.md)
 * 
+* [Crystal Methods](Crystal_Methods.md)
+* 
 * [Drei-Zeiten-Methode](Drei_Zeiten_Methode.md)
 * 
 * [FMEA-Methode](FMEA_Methode.md)
@@ -79,8 +81,6 @@ Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapp
 * 
 * [User-Story-INVEST-Methode](User_Story_INVEST_Methode.md)
 * 
-* 
-
 
 # Weiterführende Literatur
 
@@ -103,4 +103,5 @@ Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapp
 [^13]: [1.3 Methode, Methodik und Methologie](http://www.dennis-oswald.de/BLOG/?p=20)
 [^14]: [25 wichtige Projektmanagement-Kompetenzen, die Sie für Ihren Erfolg benötigen](https://asana.com/de/resources/project-management-skills)
 [^15]: [Kreativitätsmethoden](https://xn--kreativittstechniken-jzb.info/kreativitaetsmethoden/)
+
 
