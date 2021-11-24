@@ -28,11 +28,12 @@ Von Podio gehoste Webformulare können in Websites integriert werden, wie beispi
 Durch Podio Share können Appeinträge, wie beispielsweise ein [Projekt](Projekt.md) aus einer Projekt App, intern und extern geteilt werden [^4].
 
 ## Workspaces
-Workspaces dienen zur organisation von Projekten und zur Zusammenarbeit in Projekten. Dabei können interne und externe Mitglieder einem Workspace zugeordnet werden. Alle Mitarbeitenden einer Organisation können den Workspace sehen und bei belieben beitreten. In den Einstellungen kann eine eingeschränkte Mitgliedschaft eingestellt werden. Dabei können Mitarbeitende per Einladung beitreten [^4]. 
+Workspaces dienen zur organisation von Projekten und der Zusammenarbeit in Projekten. Dabei können interne und externe Mitglieder einem Workspace zugeordnet werden. Alle Mitarbeitenden einer Organisation können den Workspace sehen und bei belieben beitreten. In den Einstellungen kann eine eingeschränkte Mitgliedschaft eingestellt werden. Dabei können Mitarbeitende per Einladung beitreten [^4]. 
 
 Im Mitarbeiternetzwerk von Podio werden alle Mitarbeitenden einer Organisation in einem Workspace vernetzt [^4]. 
 
 ## Kommunikation & Online Meeting
+Zu jedem Workspace gibt es einen Aktivitätsverlauf. Dieser zeigt Aktivitäten aus den Apps und Statusnachrichten der Mitglieder des Workspaces auf. Per Statusnachrichten können Fragen und Probleme gestellt werden. Dabei können Bilder, Dateien und Links hinzugefügt werden. Die Statusnachrichten können von anderen Mitgliedern kommentiert und geliked werden. Durch den Podio Chat können Mitarbeitende sich ebenfalls untereinander austauschen per Nachricht und Videotelefonie [^4].
 
 ## Aufgaben Datein & Kalenderfunktionen
 
