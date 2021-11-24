@@ -11,7 +11,7 @@ Das Thema "Projektstart" kann man definieren als dem "Termin, zu dem der Lenkung
 # Der Beginn eines Projekts
 
 Wie schon oben erwähnt stellt sich erst die Frage, wie man überhaupt einen Projekt beginnt. 
-* Auftragsklärung: Um die Wünsche des Auftraggebers zu treffen und Auseinandersetzungen bei der Abnahme der Ergebnisse zu verhindern muss eine Auftragsklärung durchgeführt werden, wobei auch zusätzlihce Ressourcen eingesetz werden können. Dabei wird sichergestellt, dass Projektleitung, Auftraggeber und weitere [Stakeholder](https://de.wikipedia.org/wiki/Stakeholder) dieselben Erwartungen an das Projekt haben. 
+* [Auftragsklärung](http://www.projektmanagementhandbuch.de/handbuch/projektinitiierung/auftragsklaerung/): Um die Wünsche des Auftraggebers zu treffen und Auseinandersetzungen bei der Abnahme der Ergebnisse zu verhindern muss eine Auftragsklärung durchgeführt werden, wobei auch zusätzlihce Ressourcen eingesetz werden können. Dabei wird sichergestellt, dass Projektleitung, Auftraggeber und weitere [Stakeholder](https://de.wikipedia.org/wiki/Stakeholder) dieselben Erwartungen an das Projekt haben. 
 * Zieldefinierung: Hinzu kommt vorallem auch die Zieldefinierung. Das Ziel sollte genau überprüft und sichergestellt werden, um die Aufgabenverteilung klarzustellen und die Absichten einzuordnen. Zusätzlich sollte das Ziel auf die Umsetzbakeit überprüft werden, damit später keine Probleme entstehen.
 
 ![BEISPIELABBILDUNG](https://www.projektmagazin.de/sites/default/files/styles/hero_desktop/public/2020-08/so_formulieren_sie_ein_projektziel_klar_und_ambitioniert_h.jpg?itok=_pWeLCES)
@@ -21,7 +21,7 @@ Wie schon oben erwähnt stellt sich erst die Frage, wie man überhaupt einen Pro
 
 # Vorgehensweise/Planung bei einem Projekt
 
-Eine Projektplanung ist der Grundstein für einen Projekterfolg. Hierbei gibt es sämtliche wichtige Faktoren zur Projektplanung:
+Eine [Projektplanung](https://de.wikipedia.org/wiki/Projektplanung) ist der Grundstein für einen Projekterfolg. Hierbei gibt es sämtliche wichtige Faktoren zur Projektplanung:
 
 * Projektstruktur: Die Strukturierung des Projekts stellt einen sehr wichtigen Schritt für die Durchführung dar. "Sie kann sich an Unternehmensbereichen, Projektphasen oder anderen Kriterien orientieren und sorgt für Transparenz und Überblick."
 * Pakete und Maßnahmen richtig schnüren: Um der möglichen Komplexität eines Projekts entgegnzuwirken werden Projekte in Maßnahmenpakete und darunter liegende einzelne Maßnahmen eingeteilt. Thematisch zusammenpassende Maßnahmen werden zu "Paketen" gebündelt, wobei ein Paket nicht zu viele Maßnahmen enthalten sollte. "Maßnahmenpakete sollten möglichst weniger als 20% vom Gesamtprojekteffekt ausmachen, nicht länger als 1/3 der Zeit des Gesamtprojekthorizontes andauern und
@@ -50,7 +50,7 @@ Zur Risikominimierung wird ein Projekt idealerweise in die fünf Phasen Vorberei
 
 # Die Einflüsse auf den Projektstart
 
-Um die Einflüsse auf den Projektstart klarzustellen wird unter anderem eine Umfeldanalyse durchgeführt. Wie der Name schon sagt wird der Umnfeld eines Projekts analysiert, also alle Rahmenbedingungen, Einflüsse und äußere Faktoren gesammelt, welche auf das Projekt wirken können. Die Umfeldanalyse wird durchgeführt, um bereits bestehende Anforderungen zu ermitteln, eventuelle Probleme zu erkennen, Schnittstellen nach außen zu identifizieren, die Stakeholderanalyse oder die Risikoanalyse vorzubereiten.
+Um die Einflüsse auf den Projektstart klarzustellen wird unter anderem eine [Umfeldanalyse](https://dieprojektmanager.com/umfeldanalyse-stakeholderanalyse/) durchgeführt. Wie der Name schon sagt wird der Umnfeld eines Projekts analysiert, also alle Rahmenbedingungen, Einflüsse und äußere Faktoren gesammelt, welche auf das Projekt wirken können. Die Umfeldanalyse wird durchgeführt, um bereits bestehende Anforderungen zu ermitteln, eventuelle Probleme zu erkennen, Schnittstellen nach außen zu identifizieren, die Stakeholderanalyse oder die Risikoanalyse vorzubereiten.
 
 Hierbei gibt es verschiedene Kriterien:
 
