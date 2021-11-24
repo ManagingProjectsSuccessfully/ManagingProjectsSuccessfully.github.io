@@ -49,9 +49,16 @@ Der Weg zu einem erfolgreichen und selbstorganisierenden Team lässt sich in zwe
   - Aus jedem Projekt Erfahrungen ziehen und sammeln, somit wird mit der Zeit die Selbstorganisation verinnerlicht[^3] 
  
  # Der Unterschied zwischen selbstorganisierenden und traditionellen Teams 
-
-<img src="Selbstorganisierende_Teams/Vergleich von klassischen  und agilen Teams.png" alt="Vergleich von klassischen  und agilen Teams" width="600"/>
-Bild[^4]
+| Selbstorganisierende Teams          | Traditionelle Teams                     |
+| -------------                       | -------------                           |
+| Selbstkontrolliert                  | Managementkontrolliert                  |
+| Kundenorientiert                    | Managementorientiert                    |
+| Weit verbreitete Informationen      | Informationen sind limitiert            |
+| Mehrfachqualifizierte Arbeitskräfte | Mitarbeiter von isolierten Spezialisten |
+| Geteilte Ziele                      | Separate Ziele                          |
+| Hohes Mittarbeiter-Commitment       | Hohes Management Commitment             |
+| Kontinuierliche Verbesserung        | Inkrementelle Verbesserung              |
+| Werte/prinzipienbasiert             | Richtlinien-/prozessbasiert             | (vgl.[^4])
 
 # Mögliche Einwände gegen eine Transition 
 
