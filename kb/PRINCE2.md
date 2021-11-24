@@ -15,7 +15,7 @@ Das PRINCE2 - Framework lässt sich in den Kontext der klassischen [Projektmanag
 
 PRINCE2 stammt ursprünglich aus Großbritannien und wurde anfänglich lediglich für [IT-Projekte](IT-Projekte.md) entwickelt. Wegen seiner universellen und einfachen Anwendbarkeit wurde PRINCE2 schon bald aber bei Projekten ganz unterschiedlicher Arten weltweit verwendet. [^4]
 
-Es gibt mittlerweile weltweit über 1.600.000 zertifizierte PRINCE2 Projektmanager und Projektmitarbeiter. Das Framework ist auf 18 Sprachen in über 150 Ländern verfügbar. [^5]
+Es gibt mittlerweile weltweit über 1.600.000 zertifizierte PRINCE2 Projektmanager:innen und Projektmitarbeitende. Das Framework ist auf 18 Sprachen in über 150 Ländern verfügbar. [^5]
 Im Jahr 2015 wurde das PRINCE2-Framework um das Konzept PRINCE2 Agile ergänzt, welches neuartige, agile Methoden für Projekte zur Verfügung stellt. [^6]
 
 # Schlüsselelemente von PRINCE2
@@ -82,7 +82,7 @@ Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststel
 ## Mögliche Probleme:
 
 *	stark dokumentenorientiert
-*	ggf. Gefühl von "Machtverlust" bei Projektmanagern, da Rollen und Befugnisse streng festgelegt sind
+*	ggf. Gefühl von "Machtverlust" bei Projektmanager:innen, da Rollen und Befugnisse streng festgelegt sind
 *	sorgfältige Anpassung an Erfordernisse eines Projekts nötig (sonst kann PRINCE2 ein zu aufwendiges Vorgehen für kleine Projekte sein)
 *	trotz freier Verfügbarkeit oft teure Schulungen notwendig[^3][^9]
 
@@ -92,7 +92,7 @@ Die [Zertifizierung](Zertifizierungen.md) nach PRINCE2 kann auf zwei verschieden
 
 |  | **Foundation-Prüfung** | **Practitioner-Prüfung**|
 | ------------- | ------------- | ------------ |
-| **Zielgruppe**  | Projektmitarbeiter  | Projektleiter oder Teilprojektleiter |
+| **Zielgruppe**  | Projektmitarbeitende  | (Teil-)Projektleiter:innen |
 | **Inhalte**  | Grundlagenwissen über Themen und Prozesse von PRINCE2  | Anpassung und Zuschneiden von PRINCE2 - Maßnahmen auf spezifisches Projekt in realer Umgebung|
 
 # Siehe auch
