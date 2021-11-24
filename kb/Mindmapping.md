@@ -58,3 +58,4 @@ Tony Buzan, Vanda North: Mind Mapping. Der Weg zu Ihrem persönlichen Erfolg. ö
 [^4]: https://www.stw.berlin/assets/sw-berlin/bereiche/beratung/Schreibzentrum/Lernmaterialien/Handout_Cluster_Mind_Map_Webseite_2020.pdf
 [^5]: https://www.virtuos.uni-osnabrueck.de/en/hochschuldidaktik/methoden/mindmap.html
 [^6]: https://mint-zirkel.de/2019/08/concept-maps/
+
