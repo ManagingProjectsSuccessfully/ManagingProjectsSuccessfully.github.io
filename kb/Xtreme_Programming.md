@@ -78,7 +78,7 @@ Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeins
 
 [^1]: https://www.ionos.de/digitalguide/websites/web-entwicklung/extreme-programming/
 [^2]: https://www.agile-heroes.de/magazine/extreme-programming/
-[^3]: Buch Preface XVii
+[^3]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Preface XVii
 [^4]: https://www.agile-heroes.de/magazine/extreme-programming/
 [^5]: https://www.ionos.de/digitalguide/websites/web-entwicklung/extreme-programming/
 [^6]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S.142
