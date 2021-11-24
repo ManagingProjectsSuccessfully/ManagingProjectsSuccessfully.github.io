@@ -88,7 +88,7 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 
 # Siehe auch
 * [Projektmanagement](Projektmanagement.md)
-* [Projektsteuerung]
+* [Projektsteuerung](Projektsteuerung.md)
 
 # Weiterführende Literatur
 
