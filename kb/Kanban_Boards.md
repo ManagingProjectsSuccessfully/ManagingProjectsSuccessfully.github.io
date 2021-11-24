@@ -12,7 +12,7 @@ Effizienter und produktiver arbeiten durch Kanban Boards. Das Tool zur Visualisi
 
 # Was ist ein Kanban Board?
 
-[Kanban](kanban.md) kommt aus dem Japaischen und bedeutet "Signal" "Karte".
+[Kanban](kanban.md) kommt aus dem Japaischen und bedeutet "Signal" "Karte". [^1]
 Das Kanban Bord mit seinen [Kanban Karten](Kanban_Karten.md), ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus verschiedener Prozessabläufe gibt,
 um schnell Problemstellen eines Arbeitsflusses aufzudecken und die Kommunikation im Team erleichtert.
 Als Schlüsselelement der Kanban Methode, trägt ein Kanban Board zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses bei, mit dem Ziel der [Lean Produktion](Lean_Projektmanagement.md).
@@ -22,12 +22,12 @@ Als Schlüsselelement der Kanban Methode, trägt ein Kanban Board zur Optimierun
 # Wie funktioniert ein Kanban Board?
 
 Ursprünglich handelt es sich um ein Whiteboard, das in Spalten und [Swimlanes](Kanban_Swim_Lanes.md) aufgeteilt wurde.
-Jede Spalte stellt eine Prozessphase dar, Swimlanes die verschiedenen Aufgabenbereiche der Aktivitäten. [^1]https://teamhood.com/de/kanban-ressourcen/was-ist-ein-kanban-board/
+Jede Spalte stellt eine Prozessphase dar, Swimlanes die verschiedenen Aufgabenbereiche der Aktivitäten.[^2]
 Wenn eine Aufgabe in Ihren Arbeitsfluss gelangt, wird sie auf einer Kanban Karte platziert, die jede Spalte von Links nacht Rechts des Boards durchläuft.
-Eine Kanban Karte enthält Informationen über die Aufgabe und deren Status, darunter eine Aufgabenübersicht, den Verantwortlichen, die Frist etc.
+Eine Kanban Karte enthält Informationen über die Aufgabe und deren Status, darunter eine Aufgabenübersicht, den Verantwortlichen, die Frist etc.[^3]
 
 
-<img width="449" alt="Bildschirmfoto 2021-11-24 um 15 19 24" src="https://user-images.githubusercontent.com/92926914/143255407-b53e3b4a-215b-4404-b232-4e3965b4f98d.png">
+<img width="449" alt="Bildschirmfoto 2021-11-24 um 15 19 24" src="https://user-images.githubusercontent.com/92926914/143255407-b53e3b4a-215b-4404-b232-4e3965b4f98d.png"> [^4]
 
 
 *Kanban Board Bestandteile*
@@ -38,7 +38,7 @@ Sie ermöglichen Teams einen klaren Überblick über alle Arbeitselemente und st
 
 # Was braucht man um ein Kanban Board zu erstellen?
 
-Je nach Prozess kann das Board unterschiedlich aufgebaut werden.
+Je nach Prozess kann das Board unterschiedlich aufgebaut werden. [^5]
 
 ## Schritt 1: Flughöhe bestimmen
 
@@ -158,7 +158,7 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
 * [Kanban Karten](Kanban_Karten.md)
 * [Kanban Work in Progress](Kanban_Work_in_Progress.md)
 * [Kanban Pull Prinzip](Kanban_Pull_Prinzip.md)
-* [Kanban_Swimlanes](Kanban_Swim_Lanes.md)
+* [Kanban Swimlanes](Kanban_Swim_Lanes.md)
 
 
 # Weiterführende Literatur
@@ -167,6 +167,10 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
 
 # Quellen
 
-[^1]: [Was ist ein Kanban Board?](https://teamhood.com/de/kanban-ressourcen/was-ist-ein-kanban-board/)
+[^1]: [Kanban](https://de.wikipedia.org/wiki/Kanban)
+[^2]: [Was ist ein Kanban Board?](https://teamhood.com/de/kanban-ressourcen/was-ist-ein-kanban-board/)
+[^3]: [Was ist eine Kanban karte?](https://kanbanize.com/de/kanban-ressourcen/kanban-erste-schritte/was-ist-kanban-karte)
+[^4]: [Kanban Board Bestandteile](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
+[^5]: [Die Anwendung von Task Boards](https://www.youtube.com/watch?v=yW28P8MwCr4)
 
-
+http://edutechwiki.unige.ch/en/Kanban_board
