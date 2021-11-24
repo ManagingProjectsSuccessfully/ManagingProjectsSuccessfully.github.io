@@ -15,7 +15,7 @@ Das **Stakeholder Register** ist ein Werkzeug für die Projektplanung.
 
 # Definition
 
-Beim **Stakeholder Register** handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines [Projekts](Projekt.md) haben, sogenannte *Stakeholder*, besitzt. [^1]
+Beim **Stakeholder Register** handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines [Projekts](https://github.com/jonaskarg187/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) haben, sogenannte *Stakeholder*, besitzt. [^1]
 
 # Erstellung eines Registers
 
