@@ -74,7 +74,7 @@ sondern bis zum nächsten voraussehbaren Schritt. [^8]
 * Verlinkungen zu angrenzenden Themen
 *[Projektstart](Projektstart.md)
 *[Meilensteine](Meilensteine.md)
-*[Prjektphasen-klassisch](Projektphasen_klassisch.md)
+*[Projektphasen-klassisch](Projektphasen_klassisch.md)
 *[Projektplanung](Projektplanung.md)
 *[Projekt](Projekt.md)
 
