@@ -51,14 +51,10 @@ Das Minimum Viable Product trägt auch einen Teil im [Risikomanagement](Risikoma
 * [Projektmanagement](Projektmanagement.md)
 * [Risikomanagement](Risikomanagement.md)
 * [Ressourcenplanung](Ressourcenplanung.md)
-* [Zeitplanung](Zeitplanung.md)
 * [Kostenplanung](Kostenplanung.md)
 * [Projektabbruch](Projektabbruch.md)
 * [User_Story](User_Story.md)
-
-* [Entwicklungsprojekte](Entwicklungsprojekte.md)
 * [Projektmanagement_in_Startups](Projektmanagement_in_Startups.md)
-* [Projektstart](Projektstart.md)
 
 
 # Quellen
