@@ -28,7 +28,7 @@ Eine Methodik ist die "Gesamtheit von Methoden, als Teildisziplin einer Fachwiss
 Methodiken fassen mehrere Methoden in einem Vorgehensmodell zusammen. Eine Projektmanagement-Methode ist beispielsweise das Kanban-Board, welches innerhalb eines übergeordneten Vorgehensmodells wie zum Beispiel Kanban angewendet wird.[^7]
 
 
-# Unterteilung
+# Unterteilung nach Projektart
 
 Die in Projekten genutzten Methoden können je nach Projektart unterteilt werden in Vorgehensweisen für das klassische und das agile Projektmanagement sowie übergreifende Methoden, die sowohl in agilem, klassischen als auch in Mischformen wie hybriden Projektarten Anwendung finden können. [^7]
 
