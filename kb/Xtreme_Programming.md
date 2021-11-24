@@ -14,16 +14,15 @@ Zurückzuführen ist die Methode auf die Softwareentwickler Kent Beck, Ward Cunn
 Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen , da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte. [^2]
 
 Extreme Programmming ist eine agile, effiziente und mit wenig Risiko verbundene Entwicklungsmethode. [^3]
+
 Wie Scrum und Kanban, andere agile Methoden, wird der Kunde und seine Anforderungen in den Mittelpunktgestellt.
 Bei einem klassischen Ansatzies ist dies oftmals schwierig, vor allem, wenn sich die die Kundenwünsche regelmäßig ändern. [^4]
 
-Es wird von iterativen Prozessen ausgegangen. 
-Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, besprechen und veröffentlichen. [^5]
-
-Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken entwickelt.
+Es wird von iterativen Prozessen ausgegangen.  Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, besprechen und veröffentlichen. [^5]
 
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
 
+Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken entwickelt.
 
 ## Rollen
 
