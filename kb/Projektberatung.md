@@ -4,7 +4,7 @@ tags: klassisch
 author: Christoph-Mantsch
 anrechnung:    k 
 ---
-Der Begriff [Projekt](Projekt.md) leitet sich aus dem lateinischen Wort "proiectum" ab und bedeutet übersetzt "nach vorn geworfen". Im Kontext von Projekten versteht man unter "nach vorn" eine zeiliche Bedeutung wie beispielsweise einen Terminplan [^1].
+Der Begriff [Projekt](Projekt.md) leitet sich aus dem lateinischen Wort "proiectum" ab und bedeutet übersetzt "nach vorn geworfen". Im Kontext von Projekten versteht man unter "nach vorn" eine zeitliche Bedeutung wie beispielsweise einen Terminplan [^1].
 
 Unter einem Projekt versteht man ein einmaliges und zielorientiertes Vorhaben, welches im Rahmen von verschiedenen Kriterien und einem definierten Ziel erfüllt werden soll. Beispiele für Kriterien eines Projektes sind Zeit, Betriebsmittel, [Ressourcenplanung](Ressourcenplanung.md), Qualitätsansprüche oder Arbeits- und Produktionsbedingungen. 
 Besonders in Unternehmen spielen Projekte eine sehr zentrale Rolle, da sie die Vorraussetzung für die Wertschöpfung und somit sehr bedeutungsvoll für das langfristige und erfolgreiche Wirtschaften des Unternehmens sind. Aus diesem Grund sind Projekte ein essenzieller Baustein und daher allgegenwärtig und unverzichtbar für Unternehmen[^1].
@@ -19,7 +19,7 @@ Zusätzlich sind diese Dienstleistungsunternehmen nicht direkt am Projekt beteil
 
 Durch diese fachliche Unterstützung und Zusammenarbeit von Experten hat das Unternehmen die Möglichkeit, effektiver und strukturierter an Projekten zu arbeiten, potenzielle Fehler zu vermeiden und ihre Aufträge zielgerichteter zu verrichten [^3].
 
-Da jedes Projekt unterschiedlich und individuell ist, setzen Projektberatungsunternehmen hohen Wert auf Flexibilität und individuell an jedes Unternehmen angepasste Lösungen für Ihre Probleme. Dadurch ist jeder Lösungsansatz des Beratungsunternehmen perfekt auf die Problemlage und Bedürfnisse der Kunden abgestimmt. Dies ermöglicht eine sehr hohe Qualität des Endproduktes und hervorragende Kundenzufriedenheit der Auftraggeber [^4].
+Da jedes Projekt unterschiedlich und individuell ist, setzen Projektberatungsunternehmen hohen Wert auf Flexibilität und individuell an jedes Unternehmen angepasste Lösungen für ihre Probleme. Dadurch ist jeder Lösungsansatz des Beratungsunternehmen perfekt auf die Problemlage und Bedürfnisse der Kunden abgestimmt. Dies ermöglicht eine sehr hohe Qualität des Endproduktes und eine hervorragende Kundenzufriedenheit der Auftraggeber [^4].
 
 
 # Mögliche Ursachen für das Scheitern eines Projektes
@@ -39,7 +39,7 @@ Mögliche Gründe für diese hohe Misserfolgsquote können sehr vielseitig sein 
 
 # Die gängigsten Arten von Projektberatung
 
-Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe, die von sehr vielen Einflussfaktoren und Ereignissen im Markt beeinflusst werden. Beispiele hierfür sind der Marktgegebenheiten, Kunden, politische Einschränkungen oder auch die organisatorische Struktur der Firma. Aufgrund dieser multidimensionalen und individuellen Einflussgrößen haben sich verschiedene Projektberatungs-Varianten mit unterschiedlichen Charakteristika entwickelt, die sehr häufig als unterstützende Kraft in Projekten eingesetzt werden. Diese werden regelmäßig im Rahmen der individuellen Personalentwicklung im Unternehmen eingebunden[^6]:
+Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe, die von sehr vielen Einflussfaktoren und Ereignissen im Markt beeinflusst werden. Beispiele hierfür sind die Marktgegebenheiten, Kunden, politische Einschränkungen oder auch die organisatorische Struktur der Firma. Aufgrund dieser multidimensionalen und individuellen Einflussgrößen haben sich verschiedene Projektberatungs-Varianten mit unterschiedlichen Charakteristika entwickelt, die sehr häufig als unterstützende Kraft in Projekten eingesetzt werden. Diese werden regelmäßig im Rahmen der individuellen Personalentwicklung im Unternehmen eingebunden[^6]:
 
 
 |  Projekt-Coaching  |  Projekt-Mentoring  | 
