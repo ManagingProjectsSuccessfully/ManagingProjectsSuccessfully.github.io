@@ -50,6 +50,7 @@ Zusätzlich besteht die Möglichkeit Intelligente Automatisierungen zur Optimier
 Die Knowledge Base wird dauerhaft aktualisiert und es können zu jedem beliebigen Zeitpunkt Echtzeitdaten abgerufen werden (Real Time Knowledge). 
 Die AI gestützte Datenabfrage ermöglicht schnelle und akkurate Ergebnisse (AI).  Mitarbeiter aber auch die Kunden sollen in engem Austausch mit der Plattform stehen. 
 Um diesen Austausch zu optimieren werden zusätzlich acht flexible Produkte angeboten, welche je nach Bedürfnis integriert werden können. 
+
 Produkte:
 
 *Digital Dashboard
