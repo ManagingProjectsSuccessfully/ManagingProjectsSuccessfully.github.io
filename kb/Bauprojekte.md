@@ -8,18 +8,16 @@ anrechnung: k
 # Bauprojekte
 Ein Bauprojekt, auch Bauvorhaben genannt, beschreibt die Errichtung eines in der Regel einmaligen Bauwerks.
 
-## Phasen eines Bauprojekts
-1.Konzeptionsphase
-2.Designphase
-3.Projektphase (vor Baubeginn)
-4.Beschaffungsphase
-5.Bauphase
-6.Projektphase (nach Bauabschluss)[^7]
+## Phasen eines Bauprojekts [^7]
+
+Phase 1 | Phase 2 | Phase 3 | Phase 4 | Phase 5 | Phase 6 
+------- | ------- | ------- | ------- | ------- | -------
+Konzeptionsphase | Designphase | Projektphase (vor Baubeginn) | Beschaffungsphase | Bauphase | Projektphase (nach Bauabschluss)
 
 # Projektmanagement bei Bauprojekten
 
 Das Bauprojektmanagement kann als die Urform des [Projektmanagements](Projektmanagement.md) betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren. 
-Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements[^5]. Es gibt insgesamt drei Funktionäre bei einem Bauprojekt: Bauherr, Planer und den Ausführenden (z.B. Bauunternehmer)[^6].
+Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements[^5]. Es gibt insgesamt drei Funktionäre bei einem Bauprojekt: Bauherr, Planer und die Ausführenden (z.B. Bauunternehmer)[^6].
 
 ## Aufgaben des Bauprojektmanagements
 
