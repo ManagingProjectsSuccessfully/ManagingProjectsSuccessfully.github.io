@@ -76,17 +76,17 @@ Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeins
 
 [^1]: https://www.ionos.de/digitalguide/websites/web-entwicklung/extreme-programming/
 [^2]: https://www.agile-heroes.de/magazine/extreme-programming/
-[^3]: Buch S. Preface XVii
+[^3]: Buch Preface XVii
 [^4]: https://www.agile-heroes.de/magazine/extreme-programming/
 [^5]: https://www.ionos.de/digitalguide/websites/web-entwicklung/extreme-programming/
-[^6]: Buch S.142
-[^7]: Buch S. 141
-[^8]: Buch S. 144
-[^9]: Buch S. 147
-[^10]: Buch S. 29
-[^11]: Buch S. 30
-[^12]: Buch S. 31
-[^13]: Buch S. 33
+[^6]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S.142
+[^7]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 141
+[^8]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 144
+[^9]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 147
+[^10]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 29
+[^11]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 30
+[^12]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 31
+[^13]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 33
 
 
 
