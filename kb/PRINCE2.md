@@ -13,7 +13,7 @@ Das PRINCE2 - Framework lässt sich in den Kontext der klassischen [Projektmanag
 
 # Entstehung und Verbreitung von PRINCE2
 
-PRINCE2 stammt ursprünglich aus Großbritannien und wurde anfänglich lediglich für [IT-Projekte](IT-Projekte.md) entwickelt. Wegen seiner universellen und einfachen Anwendbarkeit wurde PRINCE2 schon bald aber bei Projekten ganz unterschiedlicher Arten weltweit verwendet. [^4]
+PRINCE2 stammt ursprünglich aus Großbritannien und wurde anfänglich speziell für [IT-Projekte](IT-Projekte.md) entwickelt. Wegen seiner universellen und einfachen Anwendbarkeit wurde die Methode schon bald aber bei unterschiedlichsten Arten von Projekten weltweit verwendet. [^4]
 
 Es gibt mittlerweile weltweit über 1.600.000 zertifizierte PRINCE2 Projektmanager:innen und Projektmitarbeitende. Das Framework ist auf 18 Sprachen in über 150 Ländern verfügbar. [^5]
 Im Jahr 2015 wurde das PRINCE2-Framework um das Konzept PRINCE2 Agile ergänzt, welches neuartige, agile Methoden für Projekte zur Verfügung stellt. [^6]
@@ -36,8 +36,8 @@ Daneben definiert PRINCE2 festgelegte Rollen & Verantwortlichkeiten innerhalb de
 
 # 7 Themen von PRINCE2
 
-Die 7 PRINCE2 Themen (auch als Arbeitsdimensionen zu verstehen) beschreiben die Umsetzung der 7 Grundprinzipien genauer. 
-Jedes der Themen beantwortet eine eigene, wichtige Fragestellung und soll einen erfolgreichen Projektablauf möglichst positiv beeinflussen. Die Themen geben also Hilfestellung, wie ein Projekt anzugehen ist und müssen daher während des Projektablaufs fortlaufend beachtet werden: [^3][^4][^7]
+Die 7 PRINCE2 Themen (auch als Arbeitsdimensionen zu verstehen) beschreiben die Umsetzung der [7 Grundprinzipien](PRINCE2_7_Grundprinzipien.md) genauer. 
+Jedes der Themen beantwortet eine eigene, wichtige Fragestellung und soll helfen, einen erfolgreichen Projektablauf möglichst positiv zu beeinflussen. Daher müssen die Themen während des ganzen Projektablaufs fortlaufend beachtet werden: [^3][^4][^7]
 
 1. [**Business Case**](Business_Cases.md) *(Warum?)*:
 Sicherstellung, dass das Projekt während der gesamten Dauer auf die Ziele der Unternehmung ausgerichtet bleibt und einen Nutzen stiftet (geschäftliche  Rechtfertigung)
@@ -48,7 +48,7 @@ Festlegung von Rollenverteilung und Verantwortlichkeiten im PRINCE2- Managementt
 
 
 3. **Qualität** *(Was?)*:
-Schaffung von Klarheit über die Qualitätsanforderungen -und Maßnahmen, Qualitätskontrolle
+Schaffung von Klarheit über die Qualitätsanforderungen und -maßnahmen, Qualitätskontrolle
 
 
 4. [**Pläne**](Projektplanung.md) *(Wie und Wann?)*:
@@ -71,8 +71,8 @@ Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststel
 
 ## Stärken:
 
-*	standardisierte Projekte, universell einsetzbar
-*	weltweit anerkannt und klar verständliche Arbeitsweise
+*	standardisiertes Vorgehen, universell einsetzbar
+*	weltweit anerkannte und klar verständliche Arbeitsweise
 *	eindeutige Rollenverteilung, keine Unklarheiten über Verantwortlichkeiten
 * „Best Practice“: beinhaltet verschiedene in der Praxis bewährte und beständige Methoden
 *	sorgt für kontrollierten Start, Verlauf und Ende des Projekts
