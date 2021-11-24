@@ -5,7 +5,7 @@ author: verenaschuebel
 anrechnung: k 
 ---
 
-Change-Projekte, im Deutschen auch Veränderungsprojekte genannt, werden durch das sogenannte Change-Management abgewickelt.
+Change-Projekte, im Deutschen auch Veränderungsprojekte genannt, werden durch das sogenannte [Change-Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md) abgewickelt.
 
 Um den Begriff Change-Projekte zu erklären, muss im Folgenden zunächst der Begriff Change-Management erläutert werden:
 Change-Management ist die Vorbereitung, Analyse, Planung, Realisierung, Evaluierung und laufende Weiterentwicklung von ganzheitlichen Veränderungsmaßnahmen mit dem Ziel, in Unternehmen von einem bestimmten Ist-Zustand zu einem erwünschten Soll-Zustand weiterzuentwickeln und so die Effizienz und Effektivität aller Unternehmensaktivitäten nachhaltig zu steigern [^1].
@@ -57,37 +57,38 @@ Das Ziel von Change-Projekten besteht also darin durch neue Strategien, Systeme,
 
 # Siehe auch:
 
-Change_Management
-8_Step_Process_for_Leading_Change
-Nachhaltige_Entwicklung
-Top_Down_Planning
+*  [Change_Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md)
+* [8_Step_Process_for_Leading_Change](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/8_Step_Process_for_Leading_Change.md) 
+* [Nachhaltige_Entwicklung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Entwicklung.md)
+* [Top_Down_Planning](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Top_Down_Planning.md)
 
 
 
 # Weiterführende Literatur:
 
-https://www.esv-campus.de/.download/_sid/OXRN-298696-IN3C/125880/059_061_Change_Management_in_komplexen_Situationen.pdf#search=%22change%20projekt%22
-https://www.esv-campus.de/.download/_sid/OXRN-298696-
-https://link.springer.com/content/pdf/10.1007%2F978-3-658-05851-7_15.pdf
-https://www.mckinsey.com/featured-insights/leadership/changing-change-management
-https://link.springer.com/content/pdf/10.1007%2F978-3-658-03287-6.pdf
+* https://www.esv-campus.de/.download/_sid/OXRN-298696-IN3C/125880/059_061_Change_Management_in_komplexen_Situationen.pdf#search=%22change%20projekt%22
+* https://www.esv-campus.de/.download/_sid/OXRN-298696-
+* https://link.springer.com/content/pdf/10.1007%2F978-3-658-05851-7_15.pdf
+* https://www.mckinsey.com/featured-insights/leadership/changing-change-management
+* https://link.springer.com/content/pdf/10.1007%2F978-3-658-03287-6.pdf
 
 
 
 # Quellen:
-[^1] Workbook Change Management: Methoden und Techniken von Dietmar Vahs und Achim Weiand, Schäffer-Poeschel Verlag für Wirtschaft Steuern Recht GmbH, Datum 04.06.2020, 3. Auflage https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6232361
-[^2]  https://www.pidas.com/blog/5-faktoren-fuer-ein-erfolgreiches-change-projekt
-[^3] Emma Bedford: Topic: Toy Industry. abgerufen in statista.com
-[^4] The LEGO Group - About us - LEGO.com DE
-[^5] ▷ Change Management » Definition, Erklärung & Beispiele + Übungsfragen (bwl-lexikon.de)
-[^6] https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself
-[^7] https://sz-magazin.sueddeutsche.de/wirtschaft-finanzen/steinreich-80333
-[^8] Lego CEO Jørgen Vig Knudstorp on leading through survival and growth (hbr.org)
-[^9] Rebuilding Lego, Brick by Brick (strategy-business.com)
-[^10] Outsourcing and Insourcing - LEGO® History - LEGO.com US
-[^11] Transforming the LEGO Group for the Digital Economy (mit.edu)
 
-Bildquelle: Change Management im Zeichen von Covid-19: Krisen meistern und Zukunftsfähigkeit bewahren | (evosult.de)
+[^1]: Workbook Change Management: Methoden und Techniken von Dietmar Vahs und Achim Weiand, Schäffer-Poeschel Verlag für Wirtschaft Steuern Recht GmbH, 3. Auflage https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6232361 
+[^2]: https://www.pidas.com/blog/5-faktoren-fuer-ein-erfolgreiches-change-projekt
+[^3]: https://www.statista.com/topics/1108/toy-industry/, abgerufen in statista.com
+[^4]: https://www.lego.com/de-de/aboutus/lego-group/
+[^5]: https://www.bwl-lexikon.de/wiki/change-management/
+[^6]: https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself
+[^7]: https://sz-magazin.sueddeutsche.de/wirtschaft-finanzen/steinreich-80333
+[^8]: https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth
+[^9]: https://www.strategy-business.com/article/07306
+[^10]: https://www.lego.com/en-us/history/articles/i-outsourcing-and-insourcing
+[^11]: https://ctl.mit.edu/sites/ctl.mit.edu/files/attachments/MIT_CISRwp407_TheLEGOGroup_AndersenRoss_0.pdf
+
+Bildquelle: https://www.evosult.de/change-management-im-zeichen-von-covid-19-krisen-meistern-und-zukunftsfaehigkeit-bewahren/
 
 
 
