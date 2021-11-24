@@ -71,7 +71,6 @@ In der Abbildung 1 wird ein möglicher Ablauf der Machbarkeitsstudie grafisch ve
 *Abbildung 1: Empfohlener Ablauf der Durchführung einer Machbarkeitsstudie*
 
 
-
 Das Gesamtergebnis einer Machbarkeitsstudie ist der Machbarkeitsnachweis, auch [Proof-of-Concept](Proof-of-Concept.md) genannt, dieser ist die Genehmigung der Durchführbarkeit eines Projekts[^3][^4].
 
 Wenn die Machbarkeit eines Projekts nach der ersten Prüfung nicht gegeben ist, können mit Hilfe einer Simulation mehrere Einflussgrößen hinsichtlich unterschiedlicherer Szenarien getestet werden. Zeigt die Simulation, dass das [Kosten-Nutzen-Verhältnis](Kosten-Nutzen-Analyse.md) nicht passend ist, wird ein Stopp des Projekts beantragt.[^2]
@@ -79,8 +78,12 @@ Wenn die Machbarkeit eines Projekts nach der ersten Prüfung nicht gegeben ist, 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Machbarkeit.md)
+* [Kosten-Nutzen-Analyse](Kosten-Nutzen-Analyse.md)
+* [Projekt](Projekt.md)
+* [Proof-of-Concept](Proof-of-Concept.md)
+* [Ressourcenplanung](Ressourcenplanung.md)
+* [Risikodimensionen](Risikodimensionen.md)
+* [Stakeholdermanagement](Stakeholdermanagement.md)
 
 # Weiterführende Literatur
 
@@ -88,10 +91,10 @@ Wenn die Machbarkeit eines Projekts nach der ersten Prüfung nicht gegeben ist, 
 
 # Quellen
 
-[^1]: Kleer, M., Molz, J.& Weiß, J. (2018). Ausbildung im Dialogmarketing (Band 2, 5. Auflage). Köln: Bildungsverlag EINS GmbH, S. 309. 
-[^2]: Bachmann, C., Huber, E., Hubmann, M., Kuster, J., Lippmann, R., Schneider, E., Schneider, P., Witschi, U.& Wüst, R. (2019). Handbuch Projekktmanagement: Agil - Klassisch - Hybrid (4. Auflage). Berlin: Springer Gabler, S.74-100.
-[^3]: Von Känel, S. (2020). Projekte und Projektmanagement. Wiesbaden: Springer Gabler, S.313.
+[^1]: Kleer, M., Molz, J. & Weiß, J. (2018). Ausbildung im Dialogmarketing (Band 2, 5. Auflage). Köln: Bildungsverlag EINS GmbH, S. 309. 
+[^2]: Bachmann, C., Huber, E., Hubmann, M., Kuster, J., Lippmann, R., Schneider, E., Schneider, P., Witschi, U. & Wüst, R. (2019). Handbuch Projekktmanagement: Agil - Klassisch - Hybrid (4. Auflage). Berlin: Springer Gabler, S. 74-100.
+[^3]: Von Känel, S. (2020). Projekte und Projektmanagement. Wiesbaden: Springer Gabler, S. 313.
 [^4]: Köhler, C. & Mahl, T. (2021). Machbarkeitsanalyse hybrider Wertschöpfung - Ein Ansatz für die Analyse der Machbarkeit von Geschäftsmodellen hybrider Wertschöpfung im Kontext von KMU. Industrie 4.0 MANAGEMENT. 
-[^5]: Felkai, R. & Biederwieden, A. (2015). Projektmanagement für technische Projekte: Ein Leitfaden für Studium und Beruf (3. Auflage). Wiesbaden: Springer Vieweg, S.76f.
-[^6]: Becker, J. H., Hofmann, D., Pastoors, S., Scholz, U., Van Dun, R. (2018). Praxishandbuch Nachhaltige Produktentwicklung: Ein Leitfaden mit Tipps zur Entwicklung und Vermarktung nachhaltiger Produkte. Berlin: Springer Gabler, S. 71.
-[^7]:  Berry, G., Shabana, K.M. (2020). Adding a strategic lens to feasibility analysis. In: New England Journal of Entrepreneurship (Vol. 23, p. 71). Central Connecticut State University.
+[^5]: Felkai, R. & Biederwieden, A. (2015). Projektmanagement für technische Projekte: Ein Leitfaden für Studium und Beruf (3. Auflage). Wiesbaden: Springer Vieweg, S. 76f.
+[^6]: Becker, J. H., Hofmann, D., Pastoors, S., Scholz, U. & Van Dun, R. (2018). Praxishandbuch Nachhaltige Produktentwicklung: Ein Leitfaden mit Tipps zur Entwicklung und Vermarktung nachhaltiger Produkte. Berlin: Springer Gabler, S. 71.
+[^7]:  Berry, G. & Shabana, K.M. (2020). Adding a strategic lens to feasibility analysis. In: New England Journal of Entrepreneurship (Vol. 23, p. 71). Central Connecticut State University.
