@@ -34,7 +34,7 @@ Der erste wichtige Punkt bei der Verantwortlichkeit ist es eine Konkrete Übertr
 ## Sinnvolle Aufspaltung der Verantwortung
 Ein weiterer Faktor, der einen wichtigen Einfluss auf die Verantwortung hat, ist die Anzahl der Menschen, denen die Verantwortung gegeben ist. Je mehr Menschen, desto aufgespaltener ist die Verantwortung und desto mehr Menschen verspüren folglich auch kaum Verantwortung. Jeder nimmt an, der andere denkt mit und so kommt es zu Missverständnissen, Konflikten und Fehlern. Außerdem kann es passieren, dass man zu viel Einfluss auf die eigenen Entscheidungen bekommt, die zu Unsicherheit führen können. [^3]
 
-> Management bedeutet Verantwortung für Ergebnisse“ 
+> Management bedeutet Verantwortung für Ergebnisse 
 [^5]
 
 Und diese Verantwortung muss man schlussendlich richtig und sinnvoll aufteilen, damit positive Ergebnisse erscheinen: eindeutige Ziele verbalisieren und bestätigen und die Aufgabenverteilung sinnvoll gestalten. [^3]
