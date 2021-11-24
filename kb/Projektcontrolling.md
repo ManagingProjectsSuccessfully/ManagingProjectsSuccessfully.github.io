@@ -1,6 +1,6 @@
 ---
 title: Projektcontrolling
-tags: klassisch projektmanagement meilenstein projektsteuerung kontrolle termine kosten qualität
+tags: klassisch projektmanagement meilenstein
 author: hake1110
 anrechnung: k
 ---
@@ -25,7 +25,7 @@ In der Vorbereitungs- und Planungsphase erfolgt die Kalkulation des Projektes. I
 Zu Beginn werden qualitative Merkmale des Projekts, die Projektleistung, determiniert. Das Projektcontrolling hat die Aufgabe, diese zu kontrollieren, um bei potentiellen Abweichungen frühzeitig Gegenmaßnahmen einzuleiten.
 
 ## Projektkontrolle
-Soll und Ist-Kosten des Projekts werden über den gesamten [Projektlebenszyklus](Projektlebenszyklus.md) im Blick behalten, um Kostenabweichungen zu identifizieren. Eine reine Gegenüberstellung der Kosten liefert nur bedingt einen Mehrwert. Diese Vorgehensweise berücksichtigt nicht, ob das Projekt durch Beschleunigungskosten vorzeitig fertiggestellt werden kann. Eine Termin-Kosten-Kontrolle hingegen, verschafft einen genaueren Einblick in die Gesamtkosten. [^6]
+Soll und Ist-Kosten des Projekts werden über den gesamten [Projektlebenszyklus](Projekt_Lebenszyklus.md) im Blick behalten, um Kostenabweichungen zu identifizieren. Eine reine Gegenüberstellung der Kosten liefert nur bedingt einen Mehrwert. Diese Vorgehensweise berücksichtigt nicht, ob das Projekt durch Beschleunigungskosten vorzeitig fertiggestellt werden kann. Eine Termin-Kosten-Kontrolle hingegen, verschafft einen genaueren Einblick in die Gesamtkosten. [^6]
 
 # Kennzahlen und Methoden
 ## Kennzahlen
@@ -72,7 +72,7 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. 
 * [Erfolgsmessung](Erfolgsmessung.md)
 * [Aufgabenteilung](Aufgabenteilung.md)
 * [Meilensteine](Meilensteine.md)
-* [Projektlebenszyklus](Projektlebenszyklus.md)
+* [Projektlebenszyklus](Projekt_Lebens.md)
 * [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 
 # Weiterführende Literatur
