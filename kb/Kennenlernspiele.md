@@ -13,7 +13,12 @@ Kennenlernspiele im Arbeitskontext dienen dazu, ein Team, dessen Teilnehmer sind
 Die Bereitschaft zum Wissensaustausch und zur Kollaboration ist bei Mitgliedern eines Teams geringer je  größer die Diversität und Unbekanntheit in der Gruppe ist[^1]. 
 Um den Einstieg in und die Grundlage für eine erfolgreiche Zusammenarbeit zu schaffen, können Kennenlernspiele, die in einer Vielzahl existieren, verwendet werden[^2].
 
-Ihr Einsatz eignet sich insbesondere zu Beginn des Projektes, in der *Forming-Phase* des Phasenmodells nach Tuckman (1965), vgl Abb.1. Hier treffen die Teammitglieder zum ersten Mal aufeinander und lernen sich kennen. Dabei besteht noch Unklarheit bezüglich der Rollen und Positionen im Team. „Diese Phase ist [als Folge dessen] oft von einem eher formellen und vorsichtigen „Abtasten“ gekennzeichnet“[^3]. Es werden jedoch auch die Grenzen des zwischenmenschlichen und des aufgabenbezogenen Verhaltens erforscht und Abhängigkeitsbeziehungen zu den übrigen Gruppenmitgliedern und zu möglichen Leitern aufgebaut[^4]. 
+Ihr Einsatz eignet sich insbesondere zu Beginn des Projektes, in der *Forming-Phase* des Phasenmodells nach Tuckman (1965). Hier treffen die Teammitglieder zum ersten Mal aufeinander und lernen sich kennen. Dabei besteht noch Unklarheit bezüglich der Rollen und Positionen im Team. „Diese Phase ist [als Folge dessen] oft von einem eher formellen und vorsichtigen „Abtasten“ gekennzeichnet“[^3]. Es werden jedoch auch die Grenzen des zwischenmenschlichen und des aufgabenbezogenen Verhaltens erforscht und Abhängigkeitsbeziehungen zu den übrigen Gruppenmitgliedern und zu möglichen Leitern aufgebaut[^4]. 
+
+![Beispielabbildung](Kennenlernspiele/test-file.jpg)
+![Beispielabbildung](Kennenlernspiele/Phasenmodell nach Tuckman.png)
+
+*lustiges Testbild* Phasenmodell nach Tuckman
 
 Letztere können, mit Blick auf den Gruppenzusammenhalt und damit den Projekterfolg, u.a. folgende Maßnahmen koordinativ ergreifen[^3][^5]: 
 
@@ -24,10 +29,6 @@ Letztere können, mit Blick auf den Gruppenzusammenhalt und damit den Projekterf
 * Erkennen und Sichtbar-Machen der Kompetenzen im verteilten Team
 
 Durch Kennenlernspiele können diese entscheidenden Aspekte in lockerer Atmosphäre erzielt werden.
-
-![Beispielabbildung](Kennenlernspiele/test-file.jpg)
-
-*lustiges Testbild*
 
 # Beispiele
 
