@@ -16,20 +16,27 @@ Verantwortlich für die Prognose sind die [Projektleiter](Projektleiter.md). Um 
 * Daten aus bereits durchgeführten Projekten berücksichtigen
 ## Die Drei-Zeiten-Methode
 
-Bei der Drei-Zeiten-Methode schätzen die Experten für jeden Vorgang drei Werte. Ein optimistischer, ein wahrscheinlicher und ein pessimistischer Wert. Aus diesen drei Schätzwerten berechnet die Drei-Punkt-Schätzung den Erwartungswert mit Standardabweichung.[^2] Es ist häufig unklar, wann ein Szenario als Best-Case- bzw. Worst-Case-Szenario berücksichtigt werden sollte und wann es ignoriert werden darf, weil es zu unwahrscheinlich ist.[^3] 
+Bei der Drei-Zeiten-Methode schätzen die Experten für jeden Vorgang drei Werte. Ein optimistischer (Best-Case), ein wahrscheinlicher (Likely-Case) und ein pessimistischer Wert (Worst-Case). Aus diesen drei Schätzwerten berechnet die Drei-Punkt-Schätzung den Erwartungswert mit Standardabweichung.[^2] Es ist häufig unklar, wann ein Szenario als Best-, Worst- oder Likely-Case-Szenario berücksichtigt werden sollte und wann es ignoriert werden darf, weil es zu unwahrscheinlich ist.[^3] 
 
 Die Dauer des Vorgangs wird dann mit der folgenden Formel ermittelt:
 
 ![Beispielabbildung](Drei_Zeiten_Methode/Einzelwert_Berechnung.png)
+
+*Abbildung 1: Die Einzelwertberechnung* 
+
 
 
 Der Schätzfehler wird durch die Formel der Standardabweichung angegeben: 
 
 ![Beispielabbildung](Drei_Zeiten_Methode/Standardabweichung.png)
 
+*Abbildung 2: Die Berechnung der Standardabweichung*
+
 Die Dreipunkt-Schätzung gleicht Schätzfehler aus und liefert so realistischere Werte als die Einzelwert-Schätzung. [Abbildung 3](Drei_Zeiten_Methode/Mittelwert.png) zeigt, wie der Mittelwert bei der Dreipunkt-Schätzung berechnet wird. Die Schätzwerte werden an die horizontale Achse geschrieben und die dazugehörigen Wahrscheinlichkeiten der Prognosen an die vertikale Achse. Der Verlauf der Schätzwerte ist eine Kurve. Die absolute Wahrscheinlichkeit wird durch Fläche unter der Kurve dargestellt. Das Dreieck ist eine Annäherung an die Kurve und lässt sich vereinfacht durch folgende Formel berechnen. [^1]
 
 ![Beispielabbildung](Drei_Zeiten_Methode/Mittelwert.png)
+
+*Abbildung 3: Die Mittelwertberechnung*
 
 ### Einsatzmöglichkeiten
 
