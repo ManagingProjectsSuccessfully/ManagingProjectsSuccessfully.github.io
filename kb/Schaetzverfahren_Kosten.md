@@ -20,10 +20,10 @@ und auf jedes neue Projekt anzuwenden. Deshalb gibt es zahlreiche Schätzverfahr
 Diese müssen auch Projektabhängig gewählt werden, da verschiedene Faktoren die Dauer, sowie auch die Kosten eines Projektes beeinflussen 
 und von den meisten Schätzverfahren nicht berücksichtigt werden, z.B. (Bertkoch, 2021):
 
-*	die Komplexität der Aufbauorganisation, z.B. die Zahl der beteiligten Dienststellen.
-*	der Umfang der Wiederverwendung von bereits entwickelten Modulen,
-*	die Art, Anzahl und Zeitpunkte von Qualitätssicherungsmaßnahmen,
-*	etc (ebda).
+*	die Komplexität der Aufbauorganisation
+*	der Umfang der Wiederverwendung von bereits entwickelten Modulen
+*	die Art, Anzahl und Zeitpunkte von Qualitätssicherungsmaßnahmen
+*	etc (ebda)
 
 # Methoden des Schätzens
 
@@ -36,7 +36,7 @@ wie auch die Bottom-up Schätzung am weitläufigsten verbreitet (Msg-systems, 20
 ![Schätzverfahren](https://user-images.githubusercontent.com/92786983/142908450-9e7ba794-7acc-464d-af63-1de9291c2dc6.jpg)
 
 
-
+[Abbildung 1](https://www.bertkoch.de/schaetzverfahren-pm)
 
 ## Kostenverlauf beim schätzen
 
@@ -50,7 +50,7 @@ Erst gegen Ende des Projektzyklus ist eine präzisere Annäherung der Gesamtkost
 ![Schätzung Verlauf](https://user-images.githubusercontent.com/92786983/142908638-2952ff7d-048d-4e1a-90e8-974715665edb.jpg)
 
 
-
+[Abbildung 2](https://www.pst.ifi.lmu.de/Lehre/WS0607/pm/vorlesung/PM-05-Schaetzung.pdf)
 
 # Risiken in der Praxis
 
