@@ -44,8 +44,8 @@ PRINCE2 lässt sich an nahezu jede Projektumgebung anpassen und erweist sich dad
 
 * [Projekt](Projekt.md)
 * [Projektmanagement](Projektmanagement.md)
-* [PRINCE2](PRINCE2) 
-* [PRINCE2_7_Grundprinzipien](PRINCE2_7_Grundprinzipien)
+* [PRINCE2](PRINCE2.md) 
+* [PRINCE2_7_Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
 
 # Weiterführende Literatur
 
