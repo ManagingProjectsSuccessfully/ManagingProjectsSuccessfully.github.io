@@ -18,7 +18,7 @@ Die Negativkonferenz wird in der Literatur auch als "Umkehrdiagramm" bezeichnet 
 Wenn die Aufgabenstellung zum Beispiel die Verbesserung der aktuellen Maschinen ist, dreht die Kopfstandtechnik diese um und sucht nach möglichen Wegen, die Maschinen
 zu verschlechtern. Durch das Umkehren
 der Erkenntnisse darüber, wie man etwas verschlechtern kann, ist es nun wiederum möglich, zu neuen Verbesserungsideen zu gelangen.
-![Screenshot 2021-11-24 165717](https://user-images.githubusercontent.com/92982358/143272164-c0efde26-1190-42cb-af7d-d5663c80d707.png)
+![Screenshot 2021-11-24 165717](https://user-images.githubusercontent.com/92982358/143272932-b3719172-c038-4ccc-a915-b91854ad5e0a.png)
 
 # Negativkonferenz als Umkehrung des Brainstormings
 
