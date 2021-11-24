@@ -5,6 +5,8 @@ author: Paulqe42kuno
 anrechnung: k oder a
 ---
 
+![Beispielabbildung](Managing_Change_in_Organisations/podio-logo-png-transparent.jpg)
+
 [Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einem Ökosystem von Apps, die sie beliebig auf sich zuschneiden können [^2]. Podio unterstützt soziale Zusammenarbeit sowie das flexible Arbeiten[^1]. Vertrieben wird das Tool durch das US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3]. 
 
 # Geschichte
