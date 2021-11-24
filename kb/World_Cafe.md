@@ -41,10 +41,10 @@ Zudem werden folgende Hilfsmittel benötigt:
 
 # Ablauf
 
-Die Moderation begrüßt die Teilnehmer zum World Café und erklärt Ihnen den genauen Ablauf. Zudem werden die Themen und Fragestellungen präsentiert, wobei es sich um eine einzige Frage, aber auch um mehrere Fragen, die aufeinander aufbauen, handeln kann. 
+Die Moderation begrüßt die Teilnehmer zum World Café und erklärt Ihnen den genauen Ablauf. Zudem werden die Themen und Fragestellungen präsentiert, wobei es sich um eine einzige Frage, aber auch um mehrere Fragen, die aufeinander aufbauen, handeln kann.[^7] 
 
 Danach wird die Etikette vorgestellt.
-Von allen Teilnehmern wird erwartet, dass sie stets höflich zueinander sind, sich gegenseitig zuhören und aussprechen lassen. Es ist wichtig, dass jeder seine eigenen Ansichten beiträgt und auch auf andere eingeht, um unterschiedliche Sichtweisen zu diskutieren, aufeinander aufzubauen oder auch um mehrere Ideen zu verbinden. Es ist ausdrücklich erwünscht, dass die Teilnehmer während ihren Diskussionsrunden beispielsweise Stichpunkte, Tabellen, Graphiken oder Skizzen auf der Tischdeckecke niederschreiben, wobei deren Kreativität keine Grenzen gesetzt wird.
+Von allen Teilnehmern wird erwartet, dass sie stets höflich zueinander sind, sich gegenseitig zuhören und aussprechen lassen. Es ist wichtig, dass jeder seine eigenen Ansichten beiträgt und auch auf andere eingeht, um unterschiedliche Sichtweisen zu diskutieren, aufeinander aufzubauen oder auch um mehrere Ideen zu verbinden. Es ist ausdrücklich erwünscht, dass die Teilnehmer während ihren Diskussionsrunden beispielsweise Stichpunkte, Tabellen, Graphiken oder Skizzen auf der Tischdeckecke niederschreiben, wobei deren Kreativität keine Grenzen gesetzt wird.[^7]
 
 
 
@@ -140,4 +140,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^4]: [World-Café - Gespräche, die zählen](https://www.agonda.de/World-Cafe/world-cafe.html)
 [^5]: [Methodeneinsatz - World Café](https://www.kas.de/de/web/politische-bildung/world-cafe)
 [^6]: [World-Café](https://www.methodenkartei.uni-oldenburg.de/uni_methode/world-cafe/)
-
+[^7]: [World Café: Gruppendiskussionen mit Café-Atmosphäre](https://wb-web.de/material/methoden/world-cafe-gruppendiskussionen-mit-cafe-atmosphare.html)
