@@ -18,6 +18,8 @@ In einem Projekt sind viele Menschen beteiligt, die ein komplexes soziales Gefü
 
 Der Projektmanager nimmt eine herausragende Rolle ein und muss viele Kompetenzen aufweisen, um ein Team zu führen. Dabei gibt es eine unterschiedliche Gewichtung dieser, wie in dieser Grafik veranschaulicht wird.
 
+![Abbildung_2](Soziale_Aspekte_des_Projektmanagements/pl_kompetenzen.png)
+
 
 Aus der Abbildung wird ersichtlich, dass für die befragten Teilnehmer kommunikative Fähigkeiten und soziale Kompetenz am wichtigsten sind, Führungskompetenz nicht unwichtig ist und das Fachwissen am unwichtigsten. Folgendermaßen dürfen die sozialen Aspekte nicht vernachlässigt werden und müssen bei der Projektleiterwahl entscheidend sein. Die soziale Kompetenz soll folgendermaßen näher betrachtet werden. 
 
