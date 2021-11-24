@@ -9,7 +9,7 @@ anrechnung: k
 
 Heutzutage müssen sich viele Unternehmen den Herausforderungen des Big Data Zeitalters stellen. 
 Cloud-Anwendungen ermöglichen mittlerweile die Speicherung riesiger Datenmengen, somit ist nicht mehr die Speicherung an sich die 
-Herausforderung, sondern die Organisation der Datenmengen. Genau dieser Herausforderung stellt sich das Wissensmanagement. 
+Herausforderung, sondern die Organisation der Datenmengen. Genau dieser Herausforderung stellt sich das [Wissensmanagement](Wissensmanagement.md). 
 Im Zuge der Digitalisierung ist auch Wissensmanagementsoftware nicht mehr wegzudenken.[^1]
 
 Im Folgenden soll Wissensmanagementsoftware in einem Zusammenhang mit Wissensmanagement gebracht werden.
