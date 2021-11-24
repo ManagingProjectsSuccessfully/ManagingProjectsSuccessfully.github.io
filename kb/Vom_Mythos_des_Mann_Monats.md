@@ -50,7 +50,7 @@ Beim Informationsaustausch von n Personen sinkt ihr Output mit wachsendem n. Sob
 
 ## Systemprüfung
 
-Die Dauer der Systemprüfung wird regelmäßig unterschätzt und wird bei der Zeitplanung meist zu kurz bemessen, sodass .
+Ein Projekt verzögert sich zudem durch die Unterschätzung der Dauer einer Systemprüfung. Für diese wird bei der Planung der Projektdauer meist zu wenig Zeit vorgesehen.[^1]
 
 ## Schätzen ohne Risikobereitschaft
 
