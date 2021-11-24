@@ -37,15 +37,19 @@ Diese Fragestellungen oder Überlegungen zur Strukturierung des Projekts, könne
  
 angewendet werden (siehe Abbildung).
 Es gibt viele unterschiedliche Anzeigemöglichkeiten für die Gliederung eines Projekts. Die hier beschriebene Ansicht, bezieht sich auf die Gantt Chart, welche in Kombination mit einer Tabelle angezeigt wird.
-Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines Projektsteuerers. Alle Bereiche können durch regelmäßiges Fortschreiben aktualisiert und korrigiert werden. 
-(Josef Schwab, Projektplanung mit Project 2010)
+Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines Projektsteuerers. Alle Bereiche können durch regelmäßiges Fortschreiben aktualisiert und korrigiert werden.[^2]
 
 # Vor- und Nachteile des EDV - Programms
 
 | Vorteile      | Nachteile     |
 | ------------- | ------------- |
-| * Content Cell  | * Content Cell  |
-| * Content Cell  | * Content Cell  |
+| * umfangreiche Funktionen innerhalb der Projektplanung                    | * anspruchsvolle Einarbeitung verlangt Grundlagenschulung|
+| * sehr genaue Detaillierungsschärfe der Visualisierung                    | * hohe Anschaffungskosten für die Lizenz|
+| * auf Knopfdruck ansprechend, gestatltete Reportings / Berichte           | * Fehlende Intuition bei der Handhabung|
+| * effizientes Managementsystem komplexer, klassischer Projekte            | * beansprucht hohen Pflegeaufwand der bespielte Daten|
+| * etablierter Standard in vielen mittelständischen und großen Unternehmen |
+
+
 
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
