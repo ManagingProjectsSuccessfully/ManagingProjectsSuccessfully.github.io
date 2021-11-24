@@ -17,6 +17,10 @@ Vorab ist zu klären, was sich hinter diesem Begriff verbirgt. Anfang der 1990er
 
 Weiterhin ist abzustecken, welche Aspekte die nun erwähnte Sustainability Scorecard genau umfasst. Dabei handelt es sich nicht um ein starres Gebilde. Die Aspekte der Scorecard müssen eng mit der Strategie des Unternehmens korrespondieren, Strategie und Vision des Unternehmens sogar aus der Scorecard heraus entstehen. Klassisch umfasst diese Balanced Scorecard folgende 4 Faktoren: Finanzen, Prozesse, Lernen & Entwicklung sowie Kunden. Bei der modernen Form wird lediglich der Faktor Umwelt hinzugefügt und betrachtet. Wie auf Abb. 1 zu sehen, sollte aus diesem alleinstehenden Projekt sogar eine eigene Abteilung bzw. Funktionalstrategie werden, welche sich nur damit auseinandersetzt, wie konkret die Strategie auf Basis der klassischen Scorecard umgesetzt werden könnte, um auch Umwelt und Soziales bei der Anwendung zu beachten[^1].
 
+![Beispielabbildung](Sustainability_Scorecard/Bild.jpg)
+
+[Abb. 1](https://www.controlling-wiki.com/de/index.php/Sustainability_Balanced_Scorecard)
+
 ## 3.	Konkrete Messgrößen
 
 Doch wie genau lässt sich der Nachhaltigkeits-Erfolg eines Unternehmens messen? Hierfür gibt es sogenannte Nachhaltigkeits-KPIs, darunter viele verschiedene Kategorien wie zum Beispiel Wasser, Abfall, Emissionen. Im Falle Wasser wäre beispielsweise eine Größe  „% des Wassers recycelt“ oder „genereller Wasserverbrauch“ sinnvoll. Aber wie lässt sich die trockene Theorie in den großen Rahmen bringen? 
@@ -30,19 +34,6 @@ Unabhängig davon gibt es auf dem Markt zahlreiche Dienstleistungsunternehmen, w
 ## 5.	Abwägung
 
 Wägt man die Vor- und Nachteile einer Sustainability Scorecard ab, so stehen auf der einen Seite zusätzlicher Zeitaufwand und zusätzliche Kosten, die durch die Aktivitäten der Scorecard anfallen. Auf der anderen Seite stehen jedoch unvergleichbar viele Vorteile. Dies fängt bei nachhaltigem Branding gegenüber dem Kunden an, geht über Kosteneinsparungen in der Produktion durch das Wegfallen von Umweltstrafzahlungen und endet bei besseren Beziehungen zu Stakeholdern, da diese sich verständlicherweise lieber mit nachhaltigen Unternehmen identifizieren[^4]. Auch ohne weitere Ausführung ist bereits jetzt klar ersichtlich, dass eine Sustainability Scorecard ein wichtiger Bestandteil für den langfristigen Erfolg eines jeden Unternehmens sein sollte.
-
-
-
-
-
-
-
-![Beispielabbildung](Sustainability_Scorecard/Bild.jpg)
-
-*lustiges Testbild*
-
-
-
 
 # Siehe auch
 
