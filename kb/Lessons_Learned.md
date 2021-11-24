@@ -12,7 +12,7 @@ Entscheidend hierbei ist das neu erlangte Wissen, sowie die positiven und negati
 
 # Warum ist Lessons Learned sinnvoll? 
 
-Durch eine konsequente Umsetzung der <b>Lessons Learned</b> kann vermieden werden, die gleichen oder ähnliche Fehler bei der Durchführung eines Projekts zu wiederholen. Außerdem können Ansätze, die gut funktioniert haben, identifiziert werden und bei der Umsetzung des nächsten Projekts angewandt werden.<br> <b>Lessons Learned</b> bietet somit zum einen den Vorteil aufgetretene Fehler beim nächsten Mal besser zu machen (aus ihnen zu lernen), sowie bereits gut funktionierendes Verhalten zu identifizieren und für zukünftige Projekte zu übernehmen.[^5] <hr> 
+Durch eine konsequente Umsetzung der <b>Lessons Learned</b> kann vermieden werden, die gleichen oder ähnliche Fehler bei der Durchführung eines Projekts zu wiederholen. Außerdem können Ansätze, die gut funktioniert haben, identifiziert werden und bei der Umsetzung des nächsten Projekts angewandt werden.<br> <b>Lessons Learned</b> bietet somit zum einen den Vorteil aufgetretene Fehler beim nächsten Mal besser zu machen (aus ihnen zu lernen), sowie bereits gut funktionierendes Verhalten zu identifizieren und für zukünftige Projekte zu übernehmen. <hr> 
 
 
 # Ablauf
@@ -55,7 +55,7 @@ Eine weitere Schwierigkeit besteht in Stakeholdern, die nicht glauben, dass sich
 [^2]: Rowe, S. F. & Sikes, S. (2006). Lessons learned: taking it to the next level. Paper presented at PMI® Global Congress 2006—North America, Seattle, WA. Newtown Square, PA: Project Management Institute.
 [^3]: Dr. Georg Angermeier: https://www.projektmagazin.de/glossarterm/lessons-learned
 [^4]: Thomas Klingenberg: https://t2informatik.de/wissen-kompakt/lessons-learned/
-[^5]: 
+
 
 
 
