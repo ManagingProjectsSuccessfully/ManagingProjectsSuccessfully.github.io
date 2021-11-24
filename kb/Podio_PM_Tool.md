@@ -39,9 +39,9 @@ Die GoToMeeting App von Polio ermöglicht Besprechungen [^4].
 
 ## Aufgaben Datein & Kalenderfunktionen
 ### Aufgaben-Managment
-Auf einer Aufgabenliste sieht der Benutzer alle Aufgaben für die er verantwortlich ist. Die Aufgaben können priorisiert und geteilt werden. Aufgaben, die regelmäßig erledigt werden, können wiederkehrend eingestellt werden [^4]. 
+Auf einer [Aufgabenliste](Aufgabenteilung.md) sieht der Benutzer alle Aufgaben für die er verantwortlich ist. Die Aufgaben können priorisiert und geteilt werden. Aufgaben, die regelmäßig erledigt werden, können wiederkehrend eingestellt werden [^4]. 
 ### File sharing
-Datein können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Einen eigenen Dateispeicher hat Polio nicht. Dateispeicher die mit Podio verknüpft werden können sind:
+Datein können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Einen eigenen Dateispeicher hat Polio nicht. Dateispeicher die mit Podio verknüpft werden können sind[^4]:
 * Google Drive
 * Dropbox
 * ShareFile
