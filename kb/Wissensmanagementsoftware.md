@@ -41,6 +41,7 @@ rund um das Thema Wissensmanagement.
 Anhand von diesem Beispiel soll unter Betrachtung der folgenden Grafik, die Grundstruktur solcher Wissensmanagementsoftware dargestellt werden.
 
 ![Wisdom+_Wissensmanagementsoftware](Wissensmanagementsoftware/Wisdom+_Wissensmanagementsoftware.png)
+
 Wisdom+ Wissensmanagementsoftware[^1]
 
 Das Grundprodukt und somit der Kern der Plattform ist natürlich die Knowledge Base, hier wird das gesamte vorhandene Wissen zentral 
