@@ -5,31 +5,38 @@ author: laradag
 anrechnung: k
 ---
 
-Das Top-Down Planning beschreibt einen Ansatz, bei dem eine bestimmte Richtung, von den oberen Ebenen in die unteren Organisationsebenen, bei der Planung und Durchführung eines Projekts gefolgt wird [^1].
+Das Top-Down Planning beschreibt eine Art der [Projektplanung](Projektplanung.md) und Durchführung, bei dem eine bestimmte Richtung, von den oberen Ebenen in die unteren Organisationsebenen, gefolgt wird [^1].
 # Inhaltsverzeichnis
-
-1 Konzept
+```
+1 [Konzept](#Konzept)
 
 2 Kritische Auseinandersetzung mit Top-Down Planning
 
 3 Anwendungen von Top-Down Planning
 
 4 Quellen
-
+```
 # Konzept
 Das Top-Down Planning erfolgt von "Top" nach "Down", also von oben nach unten [^2]. Das bedeutet, dass Entscheidungen auf oberster Organisationsebene getroffen  und bis an die untersten Ebenen umgesetzt werden. So werden Pläne zentral in einer hohen Ebene erstellt und im Anschluss auf die hierarchisch niedrigeren Ebenen zur Durchführung verteilt [^1].
 
-Diesem Ansatz stehen sowohl das Bottom-Up Planning, als auch das Gegenstrom-Verfahren gegenüber.
-Diese Verfahren unterscheiden sich unter anderem in den Stufen des sozialen Lernens, wodurch die Auswahl des Verfahrens essenziell für den Erfolg des Projekts ist [^5].
+![Beispielabbildung](Top_Down_Planning/Top-Down.jpg)
 
-Der beschriebene Ansatz lässt sich besonders dem klassischen Projektmanagement zuordnen. Er zeichnet sich durch verbindliche Zielvorgaben der Zentrale und wenig Anpassungs- und Verhandlungsspielräume der dezentralen Bereiche aus. Dies steht im Kontrast zur agilen Projektdurchführung. Als erfolgreich gilt eine Implemation dann, wenn die durchgeführten Maßnahmen zu der erstrebten Wirkung führt [^1][^4].
+[*Top-Down Abbildung*](https://lead-conduct.de/2014/05/21/ansaetze-fuer-veraenderungen/)
+
+
+
+
+Diesem Ansatz stehen sowohl das [Bottom-Up Planning](Bottom_Up_Planning.md), als auch das Gegenstrom-Verfahren gegenüber.
+Diese Verfahren unterscheiden sich unter anderem in den Stufen des [sozialen](Soziale_Aspekte_des_Projektmanagements.md) Lernens, wodurch die Auswahl des Verfahrens essenziell für den Erfolg des Projekts ist [^5].
+
+Der beschriebene Ansatz lässt sich besonders dem klassischen Projektmanagement zuordnen. Er zeichnet sich durch verbindliche Zielvorgaben der Zentrale und wenig Anpassungs- und Verhandlungsspielräume der dezentralen Bereiche aus. Dies steht im Kontrast zur [agilen](Agiles_Manifest.md) Projektdurchführung. Als [erfolgreich](Erfolgsmessung.md) gilt eine Implemation dann, wenn die durchgeführten Maßnahmen zu der erstrebten Wirkung führt [^1][^4].
 
 #  Kritische Auseinandersetzung mit Top-Down Planning
 Aus der Top-Down Planung lassen sich sowohl Vorteile als auch Nachteile ableiten. Nachteile entstehen vor allem, wenn keine Möglichkeit zur Flexibilität besteht oder keine klare Führungsstruktur herrscht. Im Folgenden wird eine Auswahl dieser aufgeführt. 
 * Vorteile
   - Das Gesamtziel des Unternehmens spiegelt sich einheitlich in den Teilplänen auf allen Ebenen wider
   - Es besteht keine Konkurrenz von Einzelplänen zueinander
-  - Durch verrignerten Koordinationsaufwand können Zeit und Ressourcen eingespart werden
+  - Durch verringerten Koordinationsaufwand können Zeit und Ressourcen eingespart werden
   - Mitarbeiter auf niedrigerer Organisationsebene können durch den klaren Führungsstil verbessert delegiert werden
   - Es besteht eine unternehmensweite Einheitlichkeit von Anforderungen
 * Nachteile
@@ -45,15 +52,14 @@ Das Top-Down Planning findet in vielen verschiedenen Bereichen Anwendung. Im Fol
 | IT-Systementwicklung  | Systeme werden in aggregierter Ebene oder vereinfacht beschrieben. Anschließend folgt eine Verfeinerung, die zu einer detaillierten Spezifikation führt[^6].  |
 | Staat - Bildungssystem  | Innovationen, wie beispielsweise die Einführung neuer Lehrpläne, werden von den Kultusministerien eingeleitet und anschließend auf unterer Organisationsebene, den Schulen, umgesetzt [^4].   |
 | Politik  | In der Politik werden Entscheidungen der Regierung getroffen, die bis zur untersten Organisationsebene, dem Bürger, anzuwenden sind. OFtmals findet dieser Ansatz in abgewandelter Form statt, da eine strikte Umsetzung als teilweise zu unflexibel gilt [^5].  |
-| Mitarbeiter  | Mitarbeiter eines Unternehmens bringen laut Douglas McGregors Models Theorie X beim Einsatz des Top.Down Management Einsatz die größte Motivation auf. Die Unternehmensumgebung dieses Führungsstils ist oft produktions- oder arbeitsintensiv mit Augenmerk auf monetäre Anreize anstatt sozialen [^3].  |
-| 8-Step Process for Leading Change  | Bei dem von John Kotter vorgestelltem Ansatz wird mithilfe von 8 Schritten Veränderung auf der obersten Organisationsebene festgelegt und durch die Managementebene bis zur untersten Ebene durchgeführt [^3].  |
+| Mitarbeiter  | Mitarbeiter eines Unternehmens bringen laut Douglas McGregors Models Theorie X beim Einsatz des Top.Down Management Einsatz die größte Motivation auf. Die Unternehmensumgebung dieses Führungsstils ist oft produktions- oder arbeitsintensiv mit Augenmerk auf monetäre anstatt soziale Anreize [^3].  |
+| [8-Step Process for Leading Change](8_Step_Process_for_Leading_Change.md)  | Bei dem von John Kotter vorgestelltem Ansatz wird mithilfe von 8 Schritten Veränderung auf der obersten Organisationsebene festgelegt und durch die Managementebene bis zur untersten Ebene durchgeführt [^3].  |
 # Quellen
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
+
+[^1]: [Nevries et al.(2009): Zentrale Gestaltungsgrößen der operativen Planung] Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 Kurzbeschreibung zu Top_Down_Planning um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
@@ -147,8 +153,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
 
