@@ -69,11 +69,11 @@ Scale: The Next FrontierTorgeir Din](https://ieeexplore.ieee.org/stamp/stamp.jsp
 
 # Quellen
 
- main
+
 [^1]:[How to scale Scrum across a company with the help of Scrum@Scale](https://hygger.io/guides/agile/agile-at-scale/scrumscale/)
 [^2]:[Scrum@Scale – Ein echtes “Scrum of Scrums” Framework](https://digitaleneuordnung.de/blog/scrum-at-scale/)
 [^3]:[The Scrum@Scale Guide] (ttps://www.scruminc.com/wp-content/uploads/2014/07/Scrum-at-Scale-A-Modular-Approach.pdf)
 [^4]:[Scrum At Scale – die wichtigsten Infos zum agilen Skalierungsansatz](https://www.palladio-consulting.de/scrum-at-scale/)
 
 
-main
+
