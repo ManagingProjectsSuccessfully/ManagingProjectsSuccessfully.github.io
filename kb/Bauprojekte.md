@@ -40,7 +40,7 @@ Das beste Projektmanagement für Bauprojekte ist eine Adaption aus der Scrum-Met
 
 # Gescheiterte Bauprojekte
 
-Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md). Im Jahr 2010 starteten die ersten Roharbeiten und 2013 sollte das erste Gebäude fertig bezugsfertig sein. Es steht aber immer noch leer. Es ist ein gutes Beispiel für ein [gescheitertes Bauprojekt](Praxisbeispiele_gescheiterte_Projetke.md). Ironischerweise wurde das Chemikum von einer Hochschule aus Berlin in einer Studie auf Platz Eins der Top-Bauprojekte Deutschlands gewählt aufgrund einer angeblichen Kostensenkung von 46 Prozent. Diese gab es jedoch nicht, im Gegenteil die Kosten haben sich von 80 Millionen Euro auf 91,4 Millionen Euro erhöht [^8] - bis zur Einweihung 2018 sogar auf 108 Millionen Euro [^9].
+Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md). Im Jahr 2010 starteten die ersten Roharbeiten und 2013 sollte das erste Gebäude fertig bezugsfertig sein. Es steht aber immer noch leer. Es ist ein gutes Beispiel für ein [gescheitertes Bauprojekt](Praxisbeispiele_gescheiterte_Projetke.md). Ironischerweise wurde das Chemikum von einer Hochschule aus Berlin in einer Studie auf Platz Eins der Top-Bauprojekte Deutschlands gewählt aufgrund einer angeblichen Kostensenkung von 46 Prozent. Diese gab es jedoch nicht, im Gegenteil die Kosten haben sich von 80 Millionen Euro auf 91,4 Millionen Euro erhöht [^8] - bis zur Einweihung 2018 sogar auf 108 Millionen Euro [^9]. All das wegen fehlender bzw. zu wenig Planung.
 
 ![Chemikum FAU](Bauprojekte/MPSBeitrag.jpeg)
 *Chemikum FAU [^8]*
