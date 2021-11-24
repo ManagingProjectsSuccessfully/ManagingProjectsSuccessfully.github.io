@@ -37,12 +37,21 @@ Ein Projektmanagementhandbuch muss pragmatisch und verständlich gehalten werden
 
 * Projektkriterien: Was ist ein Projekt?
 
-Nicht jede Aufgabe oder Tätigkeit eines Unternehmens ist ein Projekt. Um erkennen zu können, ob eine Tätigkeit die Aufmerksamkeit eines strukturierten Managements erfordert, sollten diese einige Kriterien erfüllen, um als Projekt angesehen zu werden. Beispielsweise betreten Projekte Neuland, sie arbeiten an Lösungen, die es so noch nicht gibt. Außerdem sind sie zeitlich begrenzt, es gibt also einen Anfang und ein terminlich vereinbartes Ende. Als letztes Beispiel haben Projekte einen einmaligen Charakter und sind nicht für die Reproduktion bereits vorhandener Dinge geeignet. 
+Nicht jede Aufgabe oder Tätigkeit eines Unternehmens ist ein Projekt. Um erkennen zu können, ob eine Tätigkeit die Aufmerksamkeit eines strukturierten Managements erfordert, sollten diese einige Kriterien erfüllen, um als Projekt angesehen zu werden. Beispielsweise betreten Projekte Neuland, sie arbeiten an Lösungen, die es so noch nicht gibt. Außerdem sind sie zeitlich begrenzt, es gibt also einen Anfang und ein terminlich vereinbartes Ende. Als letztes Beispiel haben Projekte einen einmaligen Charakter und sind nicht für die Reproduktion bereits vorhandener Dinge geeignet[^6]. 
 
 * Projektarten 
 
 Zwei wesentliche Projektarten sind Entwicklungsprojekte und Veränderungsprojekte.
+
+
+| Entwicklungsprojekte  | Veränderungsprojekte |
+| ------------- | ------------- |
+| entwickeln neue Produkte oder Dienstleistungen. |  befassen sich mit der Veränderung von Organisationsstrukturen, wobei die Entwicklung einer neuen Form der Zusammenarbeit von Menschen im Vordergrund steht und nicht die Entwicklung eines neuen Produktes. |
+| Content Cell  | Content Cell  |
+
+
 Entwicklungsprojekte entwickeln neue Produkte oder Dienstleistungen.
+
 Veränderungsprojekte befassen sich mit der Veränderung von Organisationsstrukturen, wobei die Entwicklung einer neuen Form der Zusammenarbeit von Menschen im Vordergrund steht und nicht die Entwicklung eines neuen Produktes. http://www.projektmanagementhandbuch.de/handbuch/projektinitiierung/projektdefinition/
 
 
@@ -141,3 +150,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: https://de.wikipedia.org/wiki/Projekthandbuch
 [^4]: http://www.hs-augsburg.de/pm-bau/Homepage/3-1%20Projekthandbuch.html
 [^5]: https://www.business-wissen.de/artikel/projektmanagement-so-erstellen-sie-ein-projektmanagement-handbuch/
+[^6]: http://www.projektmanagementhandbuch.de/handbuch/projektinitiierung/projektdefinition/
