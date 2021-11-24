@@ -82,7 +82,7 @@ Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt
 # Siehe auch
 
 * [Projektmitarbeiter](Projektmitarbeiter.md)
-
+ 
 * [Link auf diese Seite](Projektleiter.md)
 
 # Weiterführende Literatur
