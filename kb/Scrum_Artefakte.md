@@ -2,7 +2,7 @@
 title: Scrum_Artefakte
 tags: agil scrum artefakte
 author: kutaydogan
-anrechnung: a
+anrechnung: agil
 ---
 
 Kurzbeschreibung zu Scrum_Artefakte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
