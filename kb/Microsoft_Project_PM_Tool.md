@@ -43,15 +43,9 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Die_Grundbegriffe_der_Planung.png)
 
-*Die Grundbegriffe der Planung*
+*Abbildung 1: Die Grundbegriffe der Planung*[^2]
 
 
-
-# Benutzeroberfläche
-
-![Beispielabbildung](Microsoft_Project_PM_Tool/MS_Project_Rahmenterminplan.jpg)
-
-*Abbildung 2: Rahmenterminplan*
 
 
 # Vor- und Nachteile des EDV - Programms
@@ -67,44 +61,13 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 [^3]
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/test-file.jpg)
 
-*lustiges Testbild*
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
@@ -118,17 +81,16 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 * [Projektmanagement](Projektmanagement.md)
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Microsoft_Project_PM_Tool.md)
+* [Projektsteuerung]
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+[Schwab, Josef: Projektplanung mit Project 2010, Carl Hanser Verlag GmbH & Co. KG, 2011](https://www.hanser-elibrary.com/doi/book/10.3139/9783446428423)
 
 # Quellen
 
 [^1]: https://de.wikipedia.org/wiki/Microsoft_Project
 [^2]: [Schwab, Josef: Projektplanung mit Project 2010, Carl Hanser Verlag GmbH & Co. KG, 2011](https://www.hanser-elibrary.com/doi/book/10.3139/9783446428423)
 [^3]: https://www.projektmanager-blog.de/post/ms-project
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: 
 
