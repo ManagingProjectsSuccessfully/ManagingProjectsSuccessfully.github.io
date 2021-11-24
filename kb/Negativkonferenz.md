@@ -13,7 +13,8 @@ Für diese Probleme können dann zu späteren Schritten erneut Kreativitätstech
 # Verschiedene Bezeichnungen und verwandte Methoden
 
 Die Negativkonferenz wird in der Literatur auch als "Umkehrdiagramm" bezeichnet und weist eine gewisse Ähnlichkeit zur sogenannten "Flip-Flop-Technik" oder
-"Kopfstandtechnik" auf. Bei dieser Technik wird die relevante Aufgabenstellung umgekehrt und von der anderen Seite betrachtet. Wenn die Aufgabenstellung zum Beispiel
+"Kopfstandtechnik" auf. Bei dieser Technik wird die relevante Aufgabenstellung umgekehrt und von der anderen Seite betrachtet. 
+* Wenn die Aufgabenstellung zum Beispiel
 die Verbesserung der aktuellen Maschinen ist, dreht die Kopfstandtechnik diese um und sucht nach möglichen Wegen, die Maschinen zu verschlechtern. Durch das Umkehren
 der Erkenntnisse darüber, wie man etwas verschlechtern kann, ist es nun wiederum möglich, zu neuen Verbesserungsideen zu gelangen.
 
