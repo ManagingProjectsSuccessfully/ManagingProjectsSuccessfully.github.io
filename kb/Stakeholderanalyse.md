@@ -47,83 +47,19 @@ Ein nächster wichtiger Schritt ist die Bewertung der Relevanz der betroffenen S
 
 Es ist zu bedenken, dass sich die Meinung von Stakeholdern auch während eines Projekts ändern kann. Aus diesem Grund ist es auch im Rahmen des [Projektcontrollings](Projektcontrolling.md) essenziell, die Interessengruppen auf dem Laufenden zu halten und sich mit diesen abzustimmen, damit ein erfolgreicher [Projektabschluss](Projektabschluss.md) erfolgen kann [^4].
 
-Ein Template für eine Stakeholderanalyse könnte beispielsweise folgendermaßen aussehen:
+Ein Template für eine Stakeholderanalyse könnte beispielsweise folgendermaßen aussehen [^4]::
 
 
 ![Stakeholderanalyse Umsetzung](Stakeholderanalyse/Stakeholderanalyse-Umsetzung.jpeg)
 
 
-Verlinkung strategische Wettbewerbsbeobachtung
+Ein zusätzlich oft genutztes Tool ist die Macht/Interesse Matrx nach Johnson/Scholes (1999)[^5]:
 
-
-Ein zusätzlich oft genutztes Tool ist die Macht/Interesse Matrx nach Johnson/Scholes (1999):
-
-
-
-Verlinkung Buch S. 34
+![Macht/Interesse-Matrix, S.34](Stakeholderanalyse/Macht_Interesse_Matrix.png)
 
 
 Abschließend sollte es nach dem Abschluss des Projektes eine Kontrolle der Zielerreichung geben und wie zuverlässig die Stakeholderanalyse funktioniert hat. Somit kann für zukünftige Projekte aus den Erfahrungen gelernt werden.
 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Stakeholderanalyse/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Stakeholderanalyse.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
