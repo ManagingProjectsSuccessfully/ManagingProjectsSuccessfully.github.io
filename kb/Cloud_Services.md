@@ -10,6 +10,22 @@ Kurzbeschreibung zu Cloud_Services um ein erstes Verständnis dafür zu schaffen
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
+# Definition
+
+Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, die über das Internet on demand Zugriff auf Anwendungen und Ressourcen zur Verfügung stellen, ohne eine spezielle Infrastruktur oder Hardware vorauszusetzen. Beliebte Cloud-Services sind zum Beispiel E-Commerce-Applikationen oder Produktivitäts-Applikationen wie E-Mails. [^1][^2]
+
+# Verschiedene Cloud Service Modelle
+
+| Typ                        | Beschreibung   |
+| -------------------------- | -------------- |
+| Software as a Service      | Content Cell   |
+| Infrastructure as a Service| Content Cell   |
+| Patform as a Service       |
+| Function as a Service      |
+
+
+# Vorteile der Cloud Services
+
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -97,8 +113,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: [Was ist ein Cloud-Service?](https://www.citrix.com/de-de/solutions/digital-workspace/what-is-a-cloud-service.html)
+[^2]: [Was sind Cloud-Services?](https://www.rackspace.com/de-de/library/what-are-cloud-services)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
