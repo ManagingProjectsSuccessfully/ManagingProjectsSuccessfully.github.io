@@ -46,6 +46,8 @@ Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten
 
 # Weiterführende Literatur
 
+[Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md)
+
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
