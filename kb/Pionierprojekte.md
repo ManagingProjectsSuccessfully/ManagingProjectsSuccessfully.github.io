@@ -43,19 +43,14 @@ Die Zielsetzung dieses Projektes bezieht sich auf der Verwandlung von Wüstenbod
 
 
 
-![Beispielabbildung](Pionierprojekte/test-file.jpg)
+![Projektcharakterisierung](Pionierprojekte/Projektcharakterisierung.png)
 
-*lustiges Testbild*
+*Diagramm zur Einteilung der Projektarten*
 
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Pionierprojekte.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+*	[Routineprojekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Routineprojekte.md)
+*	[Innovationsprojekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Innovationsprojekte.md)
 
 # Quellen
 
