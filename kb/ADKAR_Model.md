@@ -17,21 +17,21 @@ ADKAR ist ein Akronym und steht für:
 Den ersten und wichtigsten Schritt stellt "Awareness" dar. Es soll Bewusstsein für die Notwendigkeit der Veränderung geschaffen werden.
 Nachfolgende Fragestellungen können dabei helfen diesen Schritt auszuführen:
 
-- Welche Veränderung ist notwendig? [^4]
-- Warum ist die Veränderung notwendig? [^4]
-- Welche Auswirkungen birgt die Veränderung? [^4]
+- Welche Veränderung ist notwendig? [^3]
+- Warum ist die Veränderung notwendig? [^3]
+- Welche Auswirkungen birgt die Veränderung? [^3]
 - Was passiert, wenn keine Veränderung eintrifft? [^3] [^4]
 
 
 ## Desire 
 
 Die zweite Phase stellt "Desire" dar. Hier muss sichergestellt werden, dass jeder den Wunsch hat die Veränderungen durchzuführen und zu unterstützen.  
-Da dieser Schritt sehr individuell ist, müssen anhand von Coachings und Gesprächen die persönliche Situation und Anreize des Mitarbeiters erkannt werden. [^5]
+Da dieser Schritt sehr individuell ist, müssen anhand von Coachings und Gesprächen die persönliche Situation und Anreize des Mitarbeiters erkannt und angewandt werden. [^5]
 
 
 ## Knowledge
 
-Bei dieser Ebene muss sichergestellt werden, dass die Person das benötigte Wissen hat, die für die Implementierung der Veränderung notwendig ist. Dies kann beispielsweise mit Hilfe von Schulungen erreicht werden. [^3]
+Bei dieser Ebene muss sichergestellt werden, dass die Person das benötigte Wissen hat, die für die Implementierung der Veränderung notwendig ist. Dies kann beispielsweise mit Hilfe von Schulungen erreicht werden. [^4]
 
 
 ## Ability
@@ -48,13 +48,13 @@ Wenn dieser Schritt nicht oder zu wenig durchgeführt wird, kann es sein, dass d
 
 # 3) Wie funktioniert das ADKAR Modell?
 
-Es ist notwendig die oben genannten Schritte nacheinander mit jedem einzelnen Individuum zu bearbeiten. Da die Stufen aufeinander aufbauen, würde ein Überspringen oder mangelhaftes Bearbeiten nicht zu dem gewünschten Ergebnis führen, weshalb man somit gezwungen wäre nochmal von vorne anzufangen. 
+Es ist notwendig die oben genannten Schritte nacheinander mit jedem einzelnen Individuum durchzuführen. Da die Stufen aufeinander aufbauen, würde ein Überspringen oder mangelhaftes Bearbeiten nicht zu dem gewünschten Ergebnis führen, weshalb man somit gezwungen wäre nochmal von vorne anzufangen. 
 
-Neben den oben genannten Schritten ist auch eine regelmäßige Bewertung notwendig. Die Bewertung folgt auf einer Skala von eins bis fünf, wobei eins schlecht und fünf das Optimum darstellt. Erst nachdem man einen der fünf Meilenstein erfolgreich abgeschlossen hat (ab Punkt drei) darf man zu dem nächsten Schritt übergehen. [^3] [^9]
+Neben den oben genannten Schritten ist auch eine regelmäßige Bewertung notwendig. Die Bewertung erfolgt auf einer Skala von eins bis fünf, wobei eins schlecht und fünf das Optimum darstellt. Erst nachdem man einen der fünf Meilenstein erfolgreich abgeschlossen hat (ab Punkt drei) darf man zu dem nächsten Schritt übergehen. [^4] [^9]
 
 # 4) Anwendungsbereiche
 
-Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Veränderung des Unternehmens erfolgen kann. Aus diesem Grund findet dieses Modell bei persönlichen, als auch bei größeren Gruppierungen wie beispielsweise Organisationen Anwendung. [^3] [^9]
+Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Veränderung des Unternehmens erfolgen kann. Aus diesem Grund findet dieses Modell bei persönlichen, als auch bei größeren Gruppierungen wie beispielsweise Organisationen Anwendung. [^4] [^9]
 
 
 # 5) Vor- und Nachteile
@@ -77,8 +77,8 @@ Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Ver
 
 [^1]: https://www.tiba-prosci.com/was-ist-adkar/
 [^2]: https://www.marhelgroup.de/wp-content/uploads/2020/11/adkar-modell-768x248.jpg
-[^3]: https://mind-force.de/vertrieb/wie-das-adkar-change-management-modell-funktioniert/
-[^4]: https://youtube.com/watch?v=PwwoyzVfsS8
+[^3]: https://youtube.com/watch?v=PwwoyzVfsS8
+[^4]: https://mind-force.de/vertrieb/wie-das-adkar-change-management-modell-funktioniert/
 [^5]: https://youtube.com/watch?v=LNT3Rxci-hU
 [^6]: https://youtube.com/watch?v=XvIYdQ8Bp5k
 [^7]: https://www.prosci.com/resources/articles/adkar-model-ability
