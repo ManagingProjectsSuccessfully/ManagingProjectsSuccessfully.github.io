@@ -82,7 +82,7 @@ viele Möglichkeiten den Wissenstransfer anzustoßen:[^13]
 
 Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft, wobei Datenbanken in diesem Kontext eine
 essenzielle Rolle einnehmen. So ist es heutzutage weit verbreitet im Rahmen von Projekten sowohl Interviews und spontane Gespräche unter Kollegen zu nutzen, als 
-auch auf das Wissen von Datenbanken zurückzugreifen..[^14][^15]
+auch auf das Wissen von Datenbanken zurückzugreifen.[^14][^15]
 
 
 # Siehe auch
