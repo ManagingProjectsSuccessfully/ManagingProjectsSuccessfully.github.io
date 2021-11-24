@@ -47,24 +47,14 @@ Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md)
 3. Projektsteuerer: Ein Projektsteuerer überwacht und koordiniert, um die Ist-Situation in einem Bauprojekt an die Soll-Situation anzunähern und dadurch das Projekt hinsichtlich bestimmter Bereiche, wie Termineinhaltung und Kosten zu optimieren [^4]
 
 
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Bauprojekte.md)
 
 # Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Vom Wasserfall zum Daily Scrum – Agile Planung in der Architektur](https://www.dbz.de/artikel/dbz_Vom_Wasserfall_zum_Daily_Scrum_Agile_Planung_in_der_Architektur_3583255.html)
+* [Agil sein oder nicht sein: Ist das wirklich noch die Frage? Agile Design Management in der Planungsphase von Bauvorhaben](https://www.mp-gruppe.de/fileadmin/user_upload/content/blog/2019/Bau_VDI-Jahresausgabe_2019-2020f.pdf)
 
 # Quellen
 
