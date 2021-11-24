@@ -64,7 +64,6 @@ Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapp
 
 * [6-3-5-Methode](6_3_5_Methode.md)
 * [Brainwriting](Brainwriting.md)
-* 
 * [Barcamp-Methode](Barcamp_Methode.md)
 * [Crystal Methods](Crystal_Methods.md)
 * [Drei-Zeiten-Methode](Drei_Zeiten_Methode.md)
@@ -73,7 +72,6 @@ Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapp
 * [Ishikawa-Methode](Ishikawa_Methode.md)
 * [Methode des kritischen Pfades](Methode_des_kritischen_Pfades.md)
 * [User-Story-INVEST-Methode](User_Story_INVEST_Methode.md)
-* 
 
 # Weiterführende Literatur
 
@@ -83,7 +81,9 @@ Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapp
 
 [^1]: [Projektmanagementmethode](https://de.wikipedia.org/wiki/Projektmanagementmethode)
 [^2]: [Kreativitätstechniken: 7 Methoden für neue Ideen](https://www.einstein1.net/kreativitaetstechniken/)
-[^3]: [Handbuch Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Handbuch%20Projektmanagement.pdf)
+[^3]: [Handbuch Projektmanagement](https://www.katalog.fau.de/TouchPoint/singleHit.do?methodToCall=showHit&curPos=1&identifier=2_SOLR_SERVER_90463282)
+
+(file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Handbuch%20Projektmanagement.pdf)
 [^4]: [Projektmanagement mit System: Organisation, Methoden, Steuerung](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Kraus-Westermann2019_Book_ProjektmanagementMitSystem.pdf)
 [^5]: [Systemische Werkzeuge für erf. Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Systemische%20Werkzeuge%20f%C3%BCr%20erf.%20Projektmanagement.pdf)
 [^6]: [Grundlagen des Projektmanagements](https://link.springer.com/content/pdf/10.1007%2F978-3-662-48216-2.pdf)
