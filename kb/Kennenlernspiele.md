@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 
-Kennenlernspiele im Arbeitskontext dienen dazu, ein Team, dessen Teilnehmer sind nicht bzw. kaum kennen und vor einer Kooperation stehen, in der ersten Phase des Projekts zu unterstützen. Sie können sowohl in Präsenz, als auch online in abgewandelter Form eingesetzt werden.
+Kennenlernspiele im Arbeitskontext dienen dazu, ein Team, dessen Teilnehmer sind nicht bzw. kaum kennen und vor einer Kooperation stehen, in der ersten Phase des [Projekts](Projekt.md) zu unterstützen. Sie können sowohl in Präsenz, als auch online in abgewandelter Form eingesetzt werden.
 
 # Einsatz in Projekten
 
@@ -19,8 +19,7 @@ Ihr Einsatz eignet sich insbesondere zu Beginn des Projekts, in der *Forming-Pha
 
 *Phasenmodell nach Tuckman*
 
-
-Die Teamleiter können, mit Blick auf den Gruppenzusammenhalt und damit den Projekterfolg, u.a. folgende Maßnahmen koordinativ ergreifen[^3][^5]: 
+[Projektleiter](Projektleiter.md) können, mit Blick auf den Gruppenzusammenhalt und damit den Projekterfolg, u.a. folgende Maßnahmen koordinativ ergreifen[^3][^5]: 
 
 * Rahmenschaffung durch gemeinsam vereinbarte Regeln
 * Stärkung des Vertrauens und des Commitments der Einzelnen
@@ -28,13 +27,11 @@ Die Teamleiter können, mit Blick auf den Gruppenzusammenhalt und damit den Proj
 * Förderung des Kennenlernprozesses, der Einfindung im Team und des Zusammenhalts
 * Erkennen und Sichtbar-Machen der Kompetenzen im verteilten Team
 
-Durch Kennenlernspiele können diese entscheidenden Aspekte in lockerer Atmosphäre erzielt werden.
-
 # Beispiele
 
 Je nach Kontext, Umfang und geplanter Dauer des Projekts, der Größe des Teams, sprachlicher und technologischer Gegebenheiten, sowie weiterer Einflussfaktoren kommen unterschiedliche Kennenlernspiele in Frage.
 
-Einige davon erfordern das Zusammenkommen vor Ort, während andere auch im Home Office durchführbar sind, siehe Tabelle.
+Einige davon erfordern das Zusammenkommen vor Ort, während andere auch im Home Office durchführbar sind.
 
 |               |  Vor Ort                         |  Home Office                     |
 | ------------- | -------------------------------- | ---------------------------------|
@@ -46,6 +43,8 @@ Einige davon erfordern das Zusammenkommen vor Ort, während andere auch im Home 
 |               |- Value Activity[^9]              |- Gemeinsamkeiten finden[^15]     |
 |               |- Was gehört wem?[^10]            |- 10 things to do in life[^16]    | 
 |               |- Namen malen[^11]                |                                  |
+               
+*Beispiele für Kennenlernspiele*               
                
 ## Kennenlernspiele vor Ort
 
@@ -65,8 +64,11 @@ Das Spiel <a name="Schlüsselbund"></a>*Schlüsselbund* gibt den Teilnehmenden d
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kennenlernspiele.md)
+* [Digitale_Kommunikation](Digitale_Kommunikation.md)
+* [Herausforderungen_bei_internationalen_Projekten](Herausforderungen_bei_internationalen_Projekten.md)
+* [Faehigkeiten_Projektleiter](Faehigkeiten_Projektleiter.md)
+* [Global_Project_Management_Survey](Global_Project_Management_Survey.md)
+* [Internationale_Projektteams](Internationale_Projektteams.md)
 
 # Weiterführende Literatur
 
@@ -77,8 +79,8 @@ Das Spiel <a name="Schlüsselbund"></a>*Schlüsselbund* gibt den Teilnehmenden d
 [^1]: https://www.marconomy.de/vier-erstaunliche-erfolgsfaktoren-fuer-die-agile-zusammenarbeit-a-853629/
 [^2]: https://asana.com/de/resources/icebreaker-questions-team-building
 [^3]: [Volker Johanning, *Organisation und Führung der IT: Die neue Rolle der IT und des CIOs in der digitalen Transformation*, Springer Vieweg, Marl am Dümmersee, 2020, S. 190](https://link.springer.com/book/10.1007%2F978-3-658-12008-5)
-[^4]: [Bruce W. Tuckman, *Developmental sequence in small groups.* In: Psychological Bulletin, 1965, S. 396](https://psycnet.apa.org/fulltext/1965-12187-001.pdf?auth_token=ab14c987a05299f8f0fb073cdffd37cec38e61f5&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F1965-12187-001)
-[^5]: [Simone Kauffeld, *Arbeits-, Organisations- und Personalpsychologie für Bachelor*, 3. Auflage, Springer, 2019, S. 215](https://link.springer.com/content/pdf/10.1007%2F978-3-662-56013-6.pdf)
+[^4]: [Bruce W. Tuckman, *Developmental sequence in small groups.* In: Psychological Bulletin, 1965](https://psycnet.apa.org/record/1965-12187-001)
+[^5]: [Simone Kauffeld, *Arbeits-, Organisations- und Personalpsychologie für Bachelor*, 3. Auflage, Springer, 2019](https://link.springer.com/content/pdf/10.1007%2F978-3-662-56013-6.pdf)
 [^6]: https://www.teamgeist.com/blog/kennenlernspiele/
 [^7]: https://www.seminar-tools.com/8-kennenlernspiele-fuer-erwachsene/
 [^8]: https://www.stellenanzeigen.de/arbeitgeber/wecruit/5-kennenlernspiele-fuer-erwachsene/
