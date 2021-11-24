@@ -5,19 +5,11 @@ author: mirela08
 anrechnung: a
 ---
 
- main
-
-Kurzbeschreibung zu Scrum_at_Scale um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
- main
 
 Scrum at Scale (oder Scrum@Scale) ist ein Framework zur Skalierung von Scrum. Es wurde von Jeff Sutherland im Jahr 2014 erfunden. Der Autor war einer der Schöpfer von Scrum und Unterzeichner des berühmten Agilen Manifests.
 [Scrum](SCRUM.md) wurde ursprünglich entwickelt, um Teams bei der Bereitstellung von Produkten in einer komplexen Umgebung zu unterstützen. Scrum at Scale zielt darauf ab, mehreren Teams zu helfen, Produkte gemeinsam in derselben komplexen Umgebung zu liefern. Nach dem Scrum@Scale-Konzept ist jeder Teil eines austauschbaren Scrum-Teams. Je nach Zielsetzung schließen sich Netzwerke von Scrum-Teams zusammen, um ein Ökosystem zu bilden.[^1]
 
 
- main
 # Konzept
 
 Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist das Framework durch folgenden einfachen Aufbau gekennzeichnet, mit einem Scrum of Scrums als zentralen Baustein. Damit kann man Scrum theoretisch beliebig über die folgenden Ebenen skalieren.[^2]
@@ -26,13 +18,6 @@ Scrum@Scale setzt über alle Organisationsebenen konsequent auf Scrum. Dabei ist
  (SoS) die Arbeit der angeschlossenen Scrum-Teams, optimale Größe eines SoS sind 4 bis 5 Teams.
 *  Ein Scrum of Scrum of Scrums (SoSoS) synchronisiert die Arbeit mehrerer Scrum of Scrum (SoS). 
 <br>
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
- main
 
 ![BSP](Scrum_at_Scale/biild1.png)
 
@@ -43,17 +28,7 @@ Scrum@Scale beruht auf den Grundlagen von Scrum und der Theorie zu komplexen ada
 
 <br>
 
- main
 ![BSP](Scrum_at_Scale/Bild5.png)
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Scrum_at_Scale/test-file.jpg)
- main
 
 [Abbildung 2 zu Scrum@Scale](https://www.palladio-consulting.de/scrum-at-scale/)
 
@@ -61,11 +36,7 @@ Das Framework lässt sich in zwei Zyklen darstellen.
 
 # Die zwei Zyklen des Scrum@Scale
 
- main
 Im Kern besteht Scrum at Scale aus zwei parallel verlaufenden Prozessen:
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
- main
 
 1. Einem **Product Owner Zyklus**, der das ‚Was‘ des Produktes definiert sowie
 2. einem **Scrum Master Zyklus**, der das ‚Wie‘ der Entwicklungsarbeiten festlegt.
@@ -73,20 +44,10 @@ Im Kern besteht Scrum at Scale aus zwei parallel verlaufenden Prozessen:
 ## 1. Product Owner Zyklus
 Konzentrieren wir uns zunächst auf das ‚Was‘. In jedem nach Scrum arbeitenden Entwicklungsteam verantwortet ein Product Owner ein Teil des Produkts. Die Product Owners von bis zu fünf Scrum Teams finden sich in einem Product Owner Team zusammen, ein sogenannter Chief Product Owner (CPO) fungiert als oberster Repräsentant. Gemeinsam arbeiten die Product Owner eine Produktvision & -roadmap sowie eine Definition of Done heraus. Zudem identifizieren Sie Abhängigkeiten und Redundanzen mit Hilfe eines gemeinsamen Product Backlogs. Übersteigt die Produktgröße 25 entwickelnde Teams, dann wird ein Executive MetaScrum (EMS) ins Leben gerufen. Diese oberste Instanz setzt die strategischen Prioritäten und Ziele für das Gesamtergebnis.[^4]
 
- main
 ## 2. Scrum Master Zyklus 
 Kommen wir nun zum ‚Wie‘ Zyklus. Scrum at Scale sieht bis fünf Scrum Teams ein SoS Team vor. Ein Scrum-of-Scrums Master (SoSM) stellt dabei die Einhaltung von Scrum at Scale in allen Teams sicher. Sein Fokus liegt insbesondere auf organisatorischer, prozessualer und inhaltlicher Integration. Steigt Produktumfang und -komplexität weiter an, ist damit eine größere Entwicklungsmannschaft erforderlich, wächst Scaled at Agile weiter zum Scrum-of-Scrums-of-Scrums Ansatz. Das Limit liegt nun bei 25 synchronisierten Teams. Nun ist ebenfalls ein Execution Action Team (EAT) bestehend aus einem Product Owner und Scrum Master erforderlich. Ausgestattet mit einem politischen Mandat und ausreichendem Budget verantwortet und optimiert das EAT organisationsübergreifend die Ablaufqualität von Scrum auf Basis eines Organizational Transformation Backlogs.[^4]
+
 # Zusammenfassung
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
- main
 
 Mit Hilfe von Scrum@Scale können Unternehmen und Organisationen im eigenen Tempo organisch wachsen und eine vielzahl von Teams, durch die skalenfreie Architektur des Konzeptes, koordinieren.
 Die Konzepte des Frameworks sind gut dokumentiert und im Vergleich zu anderen Frameworks weniger präskriptiv. Daher kann Scrum at Scale im gesamten Unternehmen angewendet werden, wenn Scrum auf Teamebene effektiv eingesetzt wird.
@@ -114,9 +75,5 @@ Scale: The Next FrontierTorgeir Din](https://ieeexplore.ieee.org/stamp/stamp.jsp
 [^3]:[The Scrum@Scale Guide] (ttps://www.scruminc.com/wp-content/uploads/2014/07/Scrum-at-Scale-A-Modular-Approach.pdf)
 [^4]:[Scrum At Scale – die wichtigsten Infos zum agilen Skalierungsansatz](https://www.palladio-consulting.de/scrum-at-scale/)
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 main
