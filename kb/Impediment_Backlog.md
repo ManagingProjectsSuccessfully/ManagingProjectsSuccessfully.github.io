@@ -19,11 +19,12 @@ Beispiele:
 
 * Zu hohe Temperaturen im Büro
 * Zu wenig Arbeitsplätze für das komplette Team
-* Veränderungen in der Teamzusammensetzung
+* Störungen in der Zusammenarbeit oder Kommunikation
 * Ablenkung durch andere Aufgaben außerhalb des Projekts
 * Druck von außen durch Management 
-* Konflikte zwischen Projektmitarbeitern
+* persönliche Konflikte zwischen Projektmitarbeitern
 * Mangel an Wissen, Fähigkeiten, Ressourcen
+
 
 (alphanodes)
 
@@ -41,11 +42,19 @@ Neben einer kurzen Beschreibung des Impediments sollten im Normalfall noch folge
 Impediment Backlogs können in unterschiedlichsten Darstellungen geführt werden, beispielsweise als Excel-Tabellen, als Einträge in [Projektmanagement - Tools](Uebersicht_PM_Tools.md) oder als Post-Its an einem Whiteboard. (onlinesolutions, agiles managementprojekt)
 
 
+![Impediment Backlog in Form eines Kanban - Boards](Impediment_Backlog/Kanbanboard.jpg)                                                    
+*Impediment Backlog in Form eines Kanban - Boards*
+
+
+![Impediment Backlog in Form einer Excel - Tabelle](Impediment_Backlog/b2ap3_large_Tabelle_Impedimen_20200805-060323_1.JPG)
+*Impediment Backlog in Form einer Excel - Tabelle*
+
+
 # Verantwortlichkeit im Scrum-Prozess
 
 Gemäß dem [Scrum Guide 2020](Scrum_Guide.md) liegt die Beseitigung von Impediments in der Verantwortung des [Scrum Masters](Scrum_Master.md). Somit ist er auch für die Dokumentation der Hindernisse im Impediment Backlog zuständig. Wie genau er bei der Erfüllung dieser Aufgabe vorzugehen hat, ist jedoch nicht festgelegt.  (t2informatik, onlinesolutions)
 
-Das Ermitteln der Störungen selbst ist nicht nur die Aufgabe des Scrum Masters, sondern die des gesamten Projektteams. 
+Das Ermitteln der Störungen selbst ist dagegen nicht nur die Aufgabe des Scrum Masters, sondern die des gesamten Projektteams. 
 
 # Idealtypischer Ablauf für den Umgang mit Impediments
 
@@ -72,15 +81,6 @@ Unternehmen-organisieren
 # Fazit
 
 Oft wird das Impediments Backlog unterschätzt, dabei gehört es als zentrales Instrument zur Veranschaulichung des Problemlösungsfortschritts eigentlich in jedes Scrum – Projekt. In nahezu jedem Projekt gibt es Hindernisse, aber nicht in jedem Projekt werden diese effektiv überwunden. Erst durch das Impediment Backlog finden sie die angemessene Beachtung und können kurzfristig gelöst werden. (ordix)
-
-
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 
 
 # Siehe auch
