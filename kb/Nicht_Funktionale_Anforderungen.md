@@ -7,12 +7,24 @@ anrechnung: k
 
 Im Projektmanagement unterscheidet man unter anderem zwischen Funktionalen und Nicht-Funktionalen Anforderungen.
 Während funktionale Anforderungen vorgeben was ein Produkt (z.B. Software) können soll bzw. was für Funktionen und Features es haben soll,
-werden bei nicht-funktionalen Anforderungen Randbedingungen wie Qualität und Leistung betrachtet.
+werden bei nicht-funktionalen Anforderungen Randbedingungen, Qualität und Leistung betrachtet.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# 1. Unterschiede zu Funktionalen Anforderungen
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Auch wenn im Projektmanagement zwischen Funktionalen und Nicht-Funktionalen Anforderungen unterschieden wird, ist für den Kunden beides
+meist dasselbe. Deshalb muss der Auftragnehmer von Beginn an, die Anforderungen kategorisieren.
+Während funktionale Anforderungen die Kernanforderungen darstellen, werden nicht-funktionale Anforderungen in einem iterativen Prozess
+weiter ausgebaut und verbessert.
+
+Funktionale Anforderungen beschreiben ein System, während nicht-funktionale Anforderungen die Qualitätseigenschaft eines Systems beschreiben.
+Außerdem bestimmen wie bereits erwähnt meist nicht die Kunden die nicht-funktionalen Anforderungen, sondern Fachkräfte mit besonderer Expertise
+wie z.B. Techniker, Softwareentwickler oder Architekten. Zudem sind nicht-funktionale Anforderungen nicht unbedingt zu erfüllen.[^2]
+
+
+
+Schaut man sich z.B. Leistungsanforderungen an, so fallen Zeit, Raten, Mengen, Genauigkeit und Ressourcenverbrauch darunter.[^1]
+
+# 2. Entscheidend für Erfolg
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -37,7 +49,6 @@ Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Mogge
 die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
 
 # Aspekt 1
 
@@ -99,8 +110,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]: [Nicht funktionale Anforderungen - LMU] (https://www.pst.ifi.lmu.de/Lehre/wise-15-16/jur-pm/braun-praesentation.pdf)
+[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.jamasoftware.com/requirements-management-guide/writing-requirements/functional-vs-non-functional-requirements)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
