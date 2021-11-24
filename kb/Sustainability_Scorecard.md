@@ -37,7 +37,7 @@ Wägt man die Vor- und Nachteile einer Sustainability Scorecard ab, so stehen au
 
 
 
-![Beispielabbildung](Sustainability_Scorecard/test-file.jpg)
+![Beispielabbildung](Sustainability_Scorecard/Bild.jpg)
 
 *lustiges Testbild*
 
