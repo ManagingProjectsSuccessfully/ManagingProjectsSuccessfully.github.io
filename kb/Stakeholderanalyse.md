@@ -53,10 +53,13 @@ Ein Template für eine Stakeholderanalyse könnte beispielsweise folgendermaßen
 ![Stakeholderanalyse Umsetzung](Stakeholderanalyse/Stakeholderanalyse-Umsetzung.jpeg)
 
 
-Ein zusätzlich oft genutztes Tool ist die Macht/Interesse-Matrx nach Johnson/Scholes (1999)[^5]:
+
+
+Ein zusätzlich oft genutztes Tool ist die Macht/Interesse-Matrx nach Johnson/Scholes (1999)[^5], S. 34:
 
 ![Macht/Interesse-Matrix, S.34](Stakeholderanalyse/Macht_Interesse_Matrix.png)
-Macht/Interesse-Matrix, [^5] S.34
+
+
 
 Nach dem Abschluss des Projektes sollte eine Kontrolle der Zielerreichung gemacht werden. Hierbei sollte es vor allem um die Frage gehen, wie zuverlässig die Stakeholderanalyse funktioniert hat. Somit kann für zukünftige Projekte aus den Erfahrungen gelernt werden. Die Wichtigkeit dieser Analyse sollte nicht unterschätzt werden. Die Stakeholder tragen eine wichtige Rolle im Verlauf eines Projekts und daher ist es entscheidend wie gut das Projektteam diese identifiiert und eingschätzt hat, um passend handeln zu können. 
 
