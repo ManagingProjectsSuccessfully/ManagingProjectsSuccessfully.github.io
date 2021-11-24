@@ -46,7 +46,7 @@ Der Aufbau des Kanban-Systems beginnt mit dem einfachsten [Kanban-Board](Kanban_
 Bei richtigem Aufbau, Verwaltung und Funktion dient es als Echtzeit-Informationsspeicher, der Engpässe innerhalb des Systems und alles andere aufzeigt, 
 was eine reibungslose Arbeitspraxis stören könnte[^4].
 
-# Vergleich Kanban und [Scrum](Scrum.md)
+# Vergleich [Scrum](Scrum.md) und Kanban
 
 Grundsätzlich hilft Kanban [Scrum](Scrum.md)-Projekten, die Transparenz aller Teammitglieder zu erhöhen[^5]. 
 Eine höhere Transparenz kann beispielsweise sinnvoll sein, wenn ein Team von einem anderen Team abhängig ist und daher Identitäten austauschen muss[^5]. 
