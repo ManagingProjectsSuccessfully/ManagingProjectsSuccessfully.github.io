@@ -16,12 +16,13 @@ Wenn das Projekt abgeschlossen wird, bedarf es einiger Reflexion. Das beginnt da
 Die Reflexion dient vor allem auch dazu, Daten für weitere Projekte zu sammeln. Fehler sollen dokumentiert werden, damit andere Projektteams diese nicht ebenfalls begehen. Das Projekt endet also nicht mit der Übergabe an den Auftraggeber, sondern erst mit dem erfolgreichen Abschluss, inklusive Dokumentation und Reflexion für zukünftige Projekte.
 
 
-# Der perfekte Zeitpunkt
+# Ablauf einer effektiven Reflexion
+
+Klassisches Instrument des Wissensmanagements in traditionellen Projekten sind die Lessons Learned und die Projektanalyse am Projektende. Regelmäßige Reflexionen sind eher die Ausnahme.
 
 ![Abbildung](Reflexion/what-is-project-management-process.png)
 
-
-# Fragestellungen
+## Fragen
 
 1.	Wurde das Projektziel erreicht? 
 2.	Was trug zum Erreichen des Ziels bei?
@@ -31,51 +32,22 @@ Die Reflexion dient vor allem auch dazu, Daten für weitere Projekte zu sammeln.
 5.	Was haben Sie für sich gelernt?
 6.	Was können wir beim nächsten Projekt besser machen?
 
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 ## Hier gleich noch eine Ebene-2-Überschrift :-)
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. Wurde das Projektziel erreicht? 
-2. Was trug zum Erreichen des Ziels bei?
-3. Welche Schwierigkeiten gab es?
-   1. inhaltlicher / organisatorischer Art
-   2. auf der Beziehungsebene (in der Gruppe ...)?
-4. Wie könnte dieses Projekt weitergeführt werden?
-5. Was haben Sie für sich gelernt?
-6. Was können wir beim nächsten Projekt besser machen?
-
-
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Reflexion.md)
+* [Projektabschluss](Projektabschluss.md)
+* [Lesson Learned](Lessons_Learned.md)
+* [Projektabschlussbericht](Projektabschlussbericht.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+* 
 
 # Quellen
 
