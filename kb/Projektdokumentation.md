@@ -14,7 +14,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 # Allgemeines
 
 
-Die Projektdokumentation beinhaltet alle Dokumente die für ein Projekt selbst erstellt werden. Sie lässt sich als Gedächtniscontainer aller Vorgänge im Projektverlauf verstehen. Verschiedene Budgets und Ressourcen werden mit der Projektdokumntation festgehalten und überwacht. Damit erfüllt die Projektdokumentation gleich mehrere wichtige Aufgaben. Sie besitzt neben der Protokollfunktion auch die Basis für Entscheidungen, Änderungen, Maßnahmen, Verwaltung und anderer Abläufe während des Projektprozesses. [^1] 
+Die Projektdokumentation beinhaltet alle Dokumente die für ein Projekt selbst erstellt werden. Sie lässt sich als Gedächtniscontainer aller Vorgänge im Projektverlauf verstehen. Verschiedene Budgets und Ressourcen werden mit der Projektdokumentation festgehalten und überwacht. Damit erfüllt die Projektdokumentation gleich mehrere wichtige Aufgaben. Sie besitzt neben der Protokollfunktion auch die Basis für Entscheidungen, Änderungen, Maßnahmen, Verwaltung und anderer Abläufe während des Projektprozesses. [^1] 
 
 
 Eine gut geführte Projektdokumentation spiegelt Projektschritte wider und erleichtert die Kommunikation innerhalb des Teams und des Auftraggebers. Die notwendigen Zusammenhänge und Ergebnisse sind an einer Stelle zu finden, was unter anderem eine Rechtsgrundlage schafft und Fehler für zukünftige Projekte vermeidet. [^2]
@@ -66,7 +66,7 @@ Die Projektdokumentation während der Projektdurchführung umfasst hauptsächlic
 ## Projektdokumentation während des Projektabschlusses
 
 
-Am Ende des Projekts besteht der Hauptzweck darin die bisher, in der Projektdokumentation, gesammelten Daten zusammenzuführen und das Projekt auszuwerten. Auf Basis der bisherigen Unterlagen kann ein [Projektabschlussbericht](Projektabschlussbericht.md) erstellt werden, der als Diskussionsgrundlage für verschiedene Zwecke dienen kann. Eine gute Projektdokumentation bietet jedoch eine solide Grundlage für unterschiedliche Perspektiven auf das Erfolgspotenzial des Projekts. Speziell für einzelne Bereiche und Tätigkeiten. Spätestens jetzt ist es möglich, die Produktivität von Mitarbeitern, Abteilungen und Projektabteilungen zu bewerten und aus potentiellen Fehlern zu lernen und über Verbesserungsmöglichkeiten nachdenken. [^8]
+Am Ende des Projekts besteht der Hauptzweck darin die bisher, in der Projektdokumentation, gesammelten Daten zusammenzuführen und das Projekt auszuwerten. Auf Basis der bisherigen Unterlagen kann ein [Projektabschlussbericht](Projektabschlussbericht.md) erstellt werden, der als Diskussionsgrundlage für verschiedene Zwecke dienen kann. Eine gute Projektdokumentation bietet jedoch eine solide Grundlage für unterschiedliche Perspektiven auf das Erfolgspotenzial des Projekts. Speziell für einzelne Bereiche und Tätigkeiten. Spätestens jetzt ist es möglich, die Produktivität von Mitarbeitern und Projektabteilungen zu bewerten und aus potentiellen Fehlern zu lernen und über Verbesserungsmöglichkeiten nachzudenken. [^8]
 
 
 # Siehe auch
