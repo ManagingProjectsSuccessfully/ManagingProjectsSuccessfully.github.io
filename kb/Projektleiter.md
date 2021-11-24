@@ -57,7 +57,7 @@ Auch wenn ein Projektleiter unter anderem ein [Projektmitarbeiter](https://githu
 ## Zusammenfassung 
 Zusammenfassend kann festgestellt werden, dass ein Projektleiter einer hierarchischen Projektgruppe im klassischen Projektmanagement, in erster Linie Verantwortlich für die Planung und Kontrolle eines Projekts ist. Außerdem ist er während der gesamten Projektdurchführung für die Einhaltung der Fristen und Forderungen zuständig. 
 
-Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt das durchschnittliche Gehalt eines Projektleiters in Deutschland bei 63.960 € brutto pro Jahr."[^5].
+Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt das durchschnittliche Gehalt eines Projektleiters in Deutschland bei 63.960 € brutto pro Jahr."[^5]
 Allerdings ist es auch möglich als Projektleiter einen Verdienst von bis zu 90.000€ im Jahr zu erhalten, denn jedes Projekt und jeder Auftraggeber ist verschieden, weshalb ein Projektleiter mit jeder Erfahrung seinen persönlichen Marktwert steigert. 
 
 (Eine Bitte an meine Reviewer: Bitte schreibt mir doch gerne auch noch dazu ob und wenn ja was für Informationen euch bezüglich dieses Themas fehlen. Vielen Dank)
