@@ -40,6 +40,9 @@ und Rahmenbedingungen zu erzielen.“[^5]
 
 Ein Projekt durchläuft mehrere Phasen. Insgesamt gibt es vier grundlegende zeitliche Abschnitte, die man anhand der Tätigkeiten und dem Zeitverlauf darstellen kann.[^7]
 
+![Beispielabbildung](Projekt/Projektphasen.png)
+
+
 ## Definitionsphase
 
 Die Definitionsphase ist die erste Phase direkt nach der Projektinitiierung. Das Projektziel wird festgelegt und die Chancen und Risiken sollen innerhalb von Situations- und
