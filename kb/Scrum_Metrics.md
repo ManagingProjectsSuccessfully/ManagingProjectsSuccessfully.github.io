@@ -91,6 +91,9 @@ Ein Sprint Burndown Diagramm, veranschaulicht den Sprint Fortschritt in bezug au
 >    - Leistung in Linien
 
 
+# Fazit
+Scrum Metrics werden im laufe eines Scrum Projekts zur Effizienzsteigerung des Teams eingesetzt. Scrum Metrics werden durch die analyse der im Scrum Sprint erbrachten Leistungen festgelegt. Dadurch kann beispielsweise die Qualitãt des Produkts gesteigert oder das Abschlussdatum vorgezogen werden. 
+
 # Siehe auch
 
 Was ist Scrum
