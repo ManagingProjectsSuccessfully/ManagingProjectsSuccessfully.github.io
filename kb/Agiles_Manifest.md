@@ -21,10 +21,10 @@ Im Folgenden soll nun auf die vier Leitsätze, sowie die 12 Prinzipien des agile
 
 # Vier Leitsätze
 
--	Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge
--	Funktionierende Software ist wichtiger als umfassende Dokumentation
--	Zusammenarbeit mit dem Kunden ist wichtiger als Vertragsverhandlung
--	Reagieren auf Veränderung ist wichtiger als das Befolgen eines Plans[]
+* Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge
+* Funktionierende Software ist wichtiger als umfassende Dokumentation
+* Zusammenarbeit mit dem Kunden ist wichtiger als Vertragsverhandlung
+* Reagieren auf Veränderung ist wichtiger als das Befolgen eines Plans[]
 
 In der folgenden Grafik sind die vier oben genannten Leitsätze nochmal graphisch dargestellt und zusammengefasst:
 
