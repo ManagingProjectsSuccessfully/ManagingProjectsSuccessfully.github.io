@@ -42,8 +42,22 @@ Spaces können aber noch in Ordner und Lists unterteilt werden. Tasks jedoch wer
 
 ### Lists
 
+Lists unterteilen die Aufgabenfelder so, dass hier dann Tasks eingefügt werden können. Ein Space kann mehrere Lists enthalten. 
+Lists bieten ebenfalls die Möglichkeit Aufgaben zu unterteilen nach ihrer Priorität und Fälligkeit. Diese können dann individuell benannt werden. Standardmäßig wird in To-Do, In-Progress und Complete unterteilt.
+
+### Tasks
+
+Tasks sind so gestaltet, dass sie einen Namen haben eine Box haben, in der ihr grundlegende Idee erklärt wird und in welcher Bearbeitungsstufe sie sich befindet.
+Ebenfalls wird hier rechts eine Chatfunktion eingeblendet, wo Teammitglieder sich miteinander austauschen können.
+
 ## Dashboards
+
+Bieten viele Möglichkeiten eine Timeline wie auf Social Media zu erstellen mit Widgets wie Excel-Tabellen, YouTube-Videos, Chatfunktion und viele weitere
+Funktionen. Hier kann wieder eingestellt werden wer Zugriff haben darf auf das eigene Dashboard. 
+
 ## Docs
+
+Docs gibt die Möglichkeit Dokumente mit Teammitglieder teilen zu können. Eine vergleichbare Funktion wie bei DropBox.
 
 
 # Preisliste
