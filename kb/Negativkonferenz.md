@@ -57,7 +57,7 @@ werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140
 
 # Siehe auch
 
-
+[Kopfstandtechnik](Kopfstandtechnik.md)
 
 # Weiterführende Literatur
 
