@@ -75,7 +75,7 @@ Die Einfachheit eines Produktes darf nicht dessen Nutzwert schmälern. Einige Pr
 
 # Quellen
 
-[^1]:  [Das KISS-Prinzip für Design nutzbar machen, www.twt.de,](https://www.twt.de/news/detail/management-summary-das-kiss-prinzip-fuer-design-nutzbar-machen.html)
+[^1]:  Das KISS-Prinzip für Design nutzbar machen, www.twt.de,[ ](https://www.twt.de/news/detail/management-summary-das-kiss-prinzip-fuer-design-nutzbar-machen.html)
 [^2]:  (https://www.selbstaendig-im-netz.de/usability/das-kiss-prinzip-und-wie-es-euch-helfen-kann/)
 [^3]:  (https://www.arocom.de/fachbegriffe/projektmanagement/kiss-prinzip)
 [^4]:  (https://www.upgreat.de/keep-it-smart-and-simple-2943/)
