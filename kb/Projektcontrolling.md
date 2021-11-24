@@ -61,6 +61,10 @@ Die Ampelmethode ist eine bewährte Methode zur Überwachung aller Steuerungsakt
 * Gelb: Es sind signifikante Planabweichungen zu befürchten
 * Rot:  Eine Zielerreichung scheint nicht mehr möglich[^3]
 
+### Soll-Ist-Vergleich
+Hierbei handelt es sich um eine simple, sich selbsterklärende Methode. Es werden die ermittelten Ist-Werte mit den vom Kunden vorgegebenen Soll-Werten verglichen.
+Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. sein. Aus dem Vergleich ergibt sich letztendlich ein Gesamtunterschied zwischen den geplanten und tatsächlichen Werten. Sind die Ist-Werte besser als die Soll-Werte fällt der Soll-Ist-Vergleich positiv, andernfalls negativ aus.[^14]
+
 # Siehe auch
 * [Projektmanagement](Projektmanagement.md)
 * [Projektsteuerung](Projektsteuerung.md)
@@ -87,3 +91,4 @@ Die Ampelmethode ist eine bewährte Methode zur Überwachung aller Steuerungsakt
 [^11]: Steffens T. (2007) Projektcontrolling. Methoden der Planung, Kontrolle und Steuerung, München, GRIN Verlag. https://www.grin.com/document/89579
 [^12]: https://www.projektmagazin.de/glossarterm/projektplan
 [^13]: https://de.wikipedia.org/wiki/Meilensteintrendanalyse
+[^14]:https://www.kayenta.de/projektmanagement-glossar-lexikon/begriffserklaerung/soll-ist-vergleich.html
