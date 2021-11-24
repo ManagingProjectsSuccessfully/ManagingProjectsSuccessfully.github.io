@@ -68,7 +68,7 @@ Das Ziel von Change-Projekten besteht also darin durch neue Strategien, Systeme,
 
 * [Wippermann, F. (2015). Change Management in komplexen Situationen: Werkzeuge – Organisation – Führung. Berlin: Erich Schmidt Verlag GmbH & Co. doi: 978-3-503-16594-0](https://www.esv-campus.de/.download/_sid/OXRN-298696-IN3C/125880/059_061_Change_Management_in_komplexen_Situationen.pdf#search=%22change%20projekt%22)
 * [Prof. Dr. Rank ,S. ,Scheinpflug, R. (2008) Change Management in der Praxis: Beispiele, Methoden, Instrumente. Berlin: Erich Schmidt Verlag GmbH & Co. doi: 9783503100125](https://www.esv-campus.de/.download/_sid/OXRN-298696-)
-* [Iskan, S., Staudt, E. (2016). Strategic Change: Wie Manager ihre Unternehmen jetzt erneuern müssen. Wiesbaden: Springer Fachmedien Wiesbaden GmbH doi:978-3-658-03286-9](https://link.springer.com/content/pdf/10.1007%2F978-3-658-03287-6.pdf)
+* [Iskan, S., Staudt, E. (2016). Strategic Change: Wie Manager ihre Unternehmen jetzt erneuern müssen. Wiesbaden: Springer Fachmedien Wiesbaden GmbH doi: 978-3-658-03286-9](https://link.springer.com/content/pdf/10.1007%2F978-3-658-03287-6.pdf)
 
 
 
