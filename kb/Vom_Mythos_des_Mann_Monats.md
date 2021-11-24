@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 
-*Vom Mythos des Mann-Monats* ist ein Essay des amerikanischen Informatikers Fred Brooks aus dem gleichnamigen Buch *The Mythical Man-Month: Essays on Software Engineering* (deutsch: Vom Mythos des Mann-Monats: Essays über Software-Engineering). Er befasst sich darin mit seinen Eindrücken und Erfahrungen in Bezug auf Software-Engineering und [Projektmanagement](Projektmanagement.md), die er als ehemaliger Leiter eines Projekts bei [IBM](https://de.wikipedia.org/wiki/IBM) gesammelt hat, und den daraus geschlossenen Erkenntnissen. Aus diesen leitete Brooks das [Brook'sche Gesetz](https://de.wikipedia.org/wiki/Anti-Pattern#Brooks.E2.80.99sches_Gesetz) ab, wonach der Einsatz zusätzlicher Arbeitskräfte bei bereits verzögerten Software-Projekten diese nur noch mehr verzögert[^1].
+*Vom Mythos des Mann-Monats* ist ein Essay des amerikanischen Informatikers Fred Brooks aus dem gleichnamigen Buch *The Mythical Man-Month: Essays on Software Engineering* (deutsch: Vom Mythos des Mann-Monats: Essays über Software-Engineering). Er befasst sich darin mit seinen Eindrücken und Erfahrungen in Bezug auf Software-Engineering und [Projektmanagement](Projektmanagement.md), die er als ehemaliger Leiter eines Projekts bei [IBM](https://de.wikipedia.org/wiki/IBM) gesammelt hat, und den daraus geschlossenen Erkenntnissen. Aus diesen leitete Brooks das [Brook'sche Gesetz](https://de.wikipedia.org/wiki/Anti-Pattern#Brooks.E2.80.99sches_Gesetz) ab, wonach der Einsatz zusätzlicher Arbeitskräfte bei bereits verzögerten Software-Projekten diese nur noch mehr verzögert.[^1]
 
 
 
