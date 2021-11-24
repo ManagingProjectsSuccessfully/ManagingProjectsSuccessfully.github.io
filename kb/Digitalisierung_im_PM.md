@@ -5,51 +5,51 @@ author: Viktoria1412
 anrechnung: k
 ---
 
-Der Begriff „Digitalisierung“ hat an sich keine allgemeingültige Definition und kann abhängig vom jeweiligen Kontext mehrere Bedeutungen haben. 
-In Bezug auf das Projektmanagement bedeutet Digitalisierung „massive Veränderungen bei den Prozessen, der Kommunikation, der Organisation, dem Ressourcenmanagement und dem Monitoring. Gründe [dafür] sind der vermehrte Einsatz digitaler Werkzeuge sowie die neue Art der Erfassung, des Austausches und der Verarbeitung von Daten.“ 
+Der Begriff „Digitalisierung“ hat an sich keine allgemeingültige Definition und kann abhängig vom jeweiligen Kontext mehrere Bedeutungen haben.[^1] 
+In Bezug auf das Projektmanagement bedeutet Digitalisierung „massive Veränderungen bei den Prozessen, der Kommunikation, der Organisation, dem Ressourcenmanagement und dem Monitoring. Gründe [dafür] sind der vermehrte Einsatz digitaler Werkzeuge sowie die neue Art der Erfassung, des Austausches und der Verarbeitung von Daten.“[^2] 
 
 # Grundlegende Aspekte der Digitalisierung im Projektmanagement
 
-Der wesentlichste Aspekt ist die Nutzung von digitalen Arbeitsgeräten, wie Smartphones und Computer. 
+Der wesentlichste Aspekt ist die Nutzung von digitalen Arbeitsgeräten, wie Smartphones und Computer.[^3] 
 
 Ein weiterer zentraler Aspekt ist der Einsatz digitaler Werkzeuge, welche die Arbeit in Projekten erleichtern und effizienter gestalten sollen.  
 
 ## Datenmanagement 
 
-Die Nutzung von Plattformen, wie Asana, Microsoft Projekt oder Trello, helfen die immer komplexeren Prozesse und Projekte zu bewältigen. In Verbindung mit zahlreichen Projektmanagementsoftware und Cloud Services können Informationen viel leichter ausgetauscht und miteinander geteilt werden. So wird ein immer aktueller Projektüberblick sowie Status der Aktivitäten ermöglicht. 
-„Digitale Visualisierungs-Tools erlauben es zudem dem Projektverantwortlichen, unterschiedliche Szenarien visuell darzustellen […] Dadurch werden Projekte für alle Beteiligten transparenter und die organisatorischen Abläufe können einfacher und übersichtlicher gestaltet werden.“ 
+Die Nutzung von Plattformen, wie Asana, Microsoft Projekt oder Trello, helfen die immer komplexeren Prozesse und Projekte zu bewältigen.[^3] In Verbindung mit zahlreichen Projektmanagementsoftware und Cloud Services können Informationen viel leichter ausgetauscht und miteinander geteilt werden. So wird ein immer aktueller Projektüberblick sowie Status der Aktivitäten ermöglicht.[^4] 
+„Digitale Visualisierungs-Tools erlauben es zudem dem Projektverantwortlichen, unterschiedliche Szenarien visuell darzustellen […] Dadurch werden Projekte für alle Beteiligten transparenter und die organisatorischen Abläufe können einfacher und übersichtlicher gestaltet werden.“[^5] 
 
 ## Kommunikation
 
-Ein weiterer Bereich, wo digitale Tools zum Einsatz kommen, ist die Kommunikation, die einen wichtigen Erfolgsfaktor im Projektmanagement darstellt. 
-Die altbewährte E-Mail reicht für eine gelungene Zusammenarbeit nicht mehr aus. Dagegen erlauben Messanger-Dienste sich in Echtzeit zu vernetzten und Online-Meeting Tools, wie Zoom oder Skype, schaffen „neue flexible Möglichkeiten für alle Beteiligten, Besprechungen effizienter zu organisieren, [...].“ Das hat den Vorteil, dass Meetings häufiger virtuell stattfinden und so räumliche Distanzen nun viel leichter überbrückt werden können, was sich im Rahmen der Covid-19 Krise als essenziell erwiesen hat                      
+Ein weiterer Bereich, wo digitale Tools zum Einsatz kommen, ist die Kommunikation, die einen wichtigen Erfolgsfaktor im Projektmanagement darstellt.[^4] 
+Die altbewährte E-Mail reicht für eine gelungene Zusammenarbeit nicht mehr aus. Dagegen erlauben Messanger-Dienste sich in Echtzeit zu vernetzten[^6] und Online-Meeting Tools, wie Zoom oder Skype, schaffen „neue flexible Möglichkeiten für alle Beteiligten, Besprechungen effizienter zu organisieren, [...].“ Das hat den Vorteil, dass Meetings häufiger virtuell stattfinden und so räumliche Distanzen nun viel leichter überbrückt werden können,[^4] was sich im Rahmen der Covid-19 Krise als essenziell erwiesen hat[^6]                      
                 
 # Potenziale
 
-Mit der Effizienz, die durch einen gezielten Tooleinsatz gewonnen wird, wird die Produktivität der Teams gesteigert und es entsteht ein großes Potenzial darin, „eine Vielzahl von Projekten zeitgleich durchzuführen und trotzdem stets den Überblick zu behalten.“ 
+Mit der Effizienz, die durch einen gezielten Tooleinsatz gewonnen wird, wird die Produktivität der Teams gesteigert und es entsteht ein großes Potenzial darin, „eine Vielzahl von Projekten zeitgleich durchzuführen und trotzdem stets den Überblick zu behalten.“[^7] 
 
-Zudem können durch die bessere Analyse von Daten und Gebrauch von Monitoring-Software Probleme und Risiken schneller identifiziert werden. Demnach können Projektmitglieder schneller reagieren, wodurch ein effizienterer Einsatz von Ressourcen und Budget erreicht und Kosten reduziert werden können.
+Zudem können durch die bessere Analyse von Daten und Gebrauch von Monitoring-Software Probleme und Risiken schneller identifiziert werden. Demnach können Projektmitglieder schneller reagieren, wodurch ein effizienterer Einsatz von Ressourcen und Budget erreicht und Kosten reduziert werden können.[^4]
 
-Ebenfalls werden viele klassische Aufgaben von Projektmanagern, wie beispielsweise Zeitplanung, automatisiert. Die daraus resultierende Zeitersparnis bedeutet für den Projektmanager, dass er sich auf die wichtigeren Aufgaben im Projekt konzentrieren kann.  
+Ebenfalls werden viele klassische Aufgaben von Projektmanagern, wie beispielsweise Zeitplanung, automatisiert. Die daraus resultierende Zeitersparnis bedeutet für den Projektmanager, dass er sich auf die wichtigeren Aufgaben im Projekt konzentrieren kann.[^6]  
 
-Ein weiteres Potenzial besteht darin, dass auch externe Partner mit Hilfe von PM- und Kommunikations-Tools viel leichter in Projekte eingebunden werden können.
+Ein weiteres Potenzial besteht darin, dass auch externe Partner mit Hilfe von PM- und Kommunikations-Tools viel leichter in Projekte eingebunden werden können.[^5]
 
 # Herausforderungen
 
-Neben den vielen neuen Möglichkeiten, die die Digitalisierung mit sich bringt, gibt es zahlreiche Herausforderungen, die bewältigt werden müssen.
+Neben den vielen neuen Möglichkeiten, die die Digitalisierung mit sich bringt, gibt es zahlreiche Herausforderungen, die bewältigt werden müssen.[^3]
 
-Das Projektmanagement muss sich „auf mehr Geschwindigkeit und eine höhere Komplexität einstellen.“ Das heißt u.a., dass dezentrale und flexible Lösungswege sich als wichtig erweisen werden. Aus diesem Grund werden vor allem Unternehmen, die bis jetzt primär auf klassische Methoden gesetzt haben, vor einer großen Herausforderung stehen. 
+Das Projektmanagement muss sich „auf mehr Geschwindigkeit und eine höhere Komplexität einstellen.“ Das bedeutet u.a., dass dezentrale und flexible Lösungswege, sowie agile Ansätze sich als wichtig erweisen werden. Aus diesem Grund werden vor allem Unternehmen, die bis jetzt primär auf klassische Methoden gesetzt haben, vor einer großen Herausforderung stehen.[^2] 
 
-Bei einer großen Anzahl an Projekten kann zudem der Überblick schnell verloren gehen, weswegen die Schlüsselprojekte und Kernaufgaben von den jeweiligen Projekten definiert und Prioritäten gekonnt gesetzt werden müssen.
+Bei einer großen Anzahl an Projekten kann zudem der Überblick schnell verloren gehen, weswegen die Schlüsselprojekte und Kernaufgaben von den jeweiligen Projekten definiert und Prioritäten gekonnt gesetzt werden müssen.[^7]
 
-Außerdem ändern sich die Anforderungen an die Kompetenzprofile von Projektleitern und allen weiteren Teammitgliedern. Einerseits müssen sie bestimmte fachliche Qualifikationen mitbringen, aber auch Flexibilität und kommunikative Fähigkeiten sind gefragt. 
+Außerdem ändern sich die Anforderungen an die Kompetenzprofile von Projektleitern und allen weiteren Teammitgliedern. Einerseits müssen sie bestimmte fachliche Qualifikationen mitbringen, aber auch Flexibilität und kommunikative Fähigkeiten sind gefragt.[^7] 
 
-Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes, effizientes und flexibles Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.
+Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes, effizientes und flexibles Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.[^8]
 
 
 ![DIHK](https://github.com/Viktoria1412/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM/grafik-herausforderungen-digitalisierungsumfrage-21-data.png)
 
-*Vor diesen unternehmerischen Herausforderungen stehen die Betriebe bei der Digitalisierung*
+*Unternehmerischen Herausforderungen bei der Digitalisierung*
 
 # Siehe auch
 
@@ -70,5 +70,6 @@ Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Strukt
 [^3]: https://360kompakt.de/management/projektmanagement-digitalisierung/
 [^4]: https://www.management-circle.de/blog/digitalisierung-im-projektmanagement-was-sich-im-projektalltag-aendern-wird/
 [^5]: https://executiveacademy.at/de/news/detail/die-kunst-des-digitalen-projektmanagements
-[^6]: 
-[^8]: 
+[^6]: https://smallbiztrends.com/2021/06/digital-transformation-project-management.html
+[^7]: https://www.arksolutions.de/themen/digitalisierung-im-projektmanagement/
+[^8]: https://www.dihk.de/de/themen-und-positionen/wirtschaft-digital/digitalisierung/dihk-umfrage-wie-digital-ist-die-deutsche-wirtschaft--35408
