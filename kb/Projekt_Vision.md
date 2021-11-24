@@ -8,7 +8,7 @@ anrechnung: k
 # Einleitung
 
 Die Projekt-Vision ist immer ein strategisches Ziel, mit dem in die strategische Ausrichtung eines Unternehmens oder eines Tätigkeitsfeldes eingegriffen 
-werden kann[^1]. Sie beschreibt kurz und prägnant was das [Projekt](Projekt.md) zu erreichen hofft und kann als ein langfristiges übergeordnetes Ziel 
+werden kann[^1]. Sie beschreibt kurz und prägnant was das [Projekt](Projekt.md) erreichen will und kann als ein langfristiges übergeordnetes Ziel 
 gesehen werden. Die Projekt-Vision beschreibt einen gewünschten Endzustand, im Falle, dass alles optimal läuft und die Voraussetzungen stimmen[^2].
 
 ![Beispielabbildung](Projekt_Vision/Projektvision.png)
