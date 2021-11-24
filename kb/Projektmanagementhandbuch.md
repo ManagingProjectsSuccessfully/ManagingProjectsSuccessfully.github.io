@@ -46,7 +46,7 @@ Zwei wesentliche Projektarten sind Entwicklungsprojekte und Veränderungsprojekt
 
 | Entwicklungsprojekte  | Veränderungsprojekte |
 | ------------- | ------------- |
-| entwickeln neue Produkte oder Dienstleistungen. |  befassen sich mit der Veränderung von Organisationsstrukturen, wobei die Entwicklung einer neuen Form der Zusammenarbeit von Menschen im Vordergrund steht und nicht die Entwicklung eines neuen Produktes. |
+| entwickeln neue Produkte oder Dienstleistungen.       |  befassen sich mit der Veränderung von Organisationsstrukturen, wobei die Entwicklung einer neuen Form der Zusammenarbeit von Menschen im Vordergrund steht und nicht die Entwicklung eines neuen Produktes. |
 
 
 
