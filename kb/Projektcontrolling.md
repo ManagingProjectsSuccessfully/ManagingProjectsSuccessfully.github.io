@@ -44,7 +44,7 @@ Die Kenngrößen des Dreiecks umfassen:
 Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten Umfang, Dauer und Komplexität des Projektes berücksichtigt werden. Grundsätzlich gilt hier die Devise: Je einfacher und durschaubarer die Methode, desto besser.
 
 ### [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
-Die Definition von [Meilensteinen](Meilenstein.md) ist Grundlage dieser Methode. Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilenstein.md)-Termine chronologisch auf, wodurch sich frühzeitig abzeichnende Trends erkenntlich werden. Die Überschaubarkeit der Methode ermöglicht es auch Laien, den Überblick zu behalten und zu beurteilen, ob das Projekt planmäßig verläuft.
+Die Definition von [Meilensteinen](Meilenstein.md) ist Grundlage dieser Methode. Diese werden am Anfang des Projekts für die [Projektplanung](Projektplanung.md) festgelegt[^13]. Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilenstein.md)-Termine chronologisch auf, wodurch sich frühzeitig abzeichnende Trends erkenntlich werden. Die Überschaubarkeit der Methode ermöglicht es auch Laien, den Überblick zu behalten und zu beurteilen, ob das Projekt planmäßig verläuft.
 ### Earned Value Analyse
 Eine weitere Methode ist die Earned Value Analyse, mit der man den Fertigstellungsgrad des Projekts bzw. einzelner Phasen ermitteln kann. Sie dient dem Projekt als Kontrollinstrument des Fortschritts. Diese Methode ist ebenfalls unter den Namen Leistungswertanalyse, Fertigstellungswertmethode oder Arbeitswertanalyse bekannt.[^7]
 
@@ -86,3 +86,4 @@ Die Ampelmethode ist eine bewährte Methode zur Überwachung aller Steuerungsakt
 [^10]: https://www.geo.fu-berlin.de/en/v/proposal_writing/learning_content/7_project_management/controlling/index.html
 [^11]: Steffens T. (2007) Projektcontrolling. Methoden der Planung, Kontrolle und Steuerung, München, GRIN Verlag. https://www.grin.com/document/89579
 [^12]: https://www.projektmagazin.de/glossarterm/projektplan
+[^13]: https://de.wikipedia.org/wiki/Meilensteintrendanalyse
