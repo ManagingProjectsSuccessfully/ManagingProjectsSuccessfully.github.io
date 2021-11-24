@@ -5,7 +5,7 @@ author: hello-pukeko
 anrechnung: k
 ---
 
-Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, [Rollen](Verantwortlichkeiten.md) - kurz *wer wann was* macht - und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. Sie bieten einen organisatorischen Rahmen und dienen Nutzer:innen als Hilfestellung.[^110][^90]
+Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise [zeitliche Abläufe](Zeitplanung.md), Aktivitäten, [Rollen](Verantwortlichkeiten.md) - kurz *wer was wann* macht - und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. Sie bieten einen organisatorischen Rahmen und dienen Nutzer:innen als Hilfestellung.[^110][^90]
 Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geeignetes auszuwählen ist keine leichte Aufgabe. Es existieren unterschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur Anpassung.[^50]
 
 # Begriffsdefinition Vorgehensmodell
@@ -19,7 +19,7 @@ Vorgehensmodelle sind dabei von [Methoden](Methoden.md) zu unterscheiden. In ein
 Abbildung 1: Bestandteile eines Vorgehensmodells[^90]
 
 # Arten von Vorgehensmodellen
-Vorgehensmodelle können in klassische und agile Vorgehensweisen, sowie hybride Varianten unterscheiden werden. Die Terminologie ist hierbei analog zur Vorlesung Managing Projects Successfully gewählt. In der Literatur findet sich jedoch eine Vielzahl anderer Bezeichnungen und unterschiedliche Einteilungen. Einen Überblick über mögliche Klassifizerungen liefert Tabelle 1.
+Vorgehensmodelle können in klassische und [agile](Agiles_Manifest.md) Vorgehensweisen, sowie [hybride](Hybrides_Projektmanagment.md) Varianten unterscheiden werden. Die Terminologie ist hierbei analog zur Vorlesung Managing Projects Successfully gewählt. In der Literatur findet sich jedoch eine Vielzahl an Bezeichnungen und unterschiedliche Einteilungen. Einen Überblick über mögliche Klassifizerungen liefert Tabelle 1.
 
 Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
 |Schneider et al.[^30]    |Broy & Kuhrmann[^90]                                 |Wieczorrek & Mertens[^100]|Kneuper et al.[^20]|Timinger[^80] |Kuster et al.[^120]|
@@ -34,34 +34,34 @@ Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
 
 ## Klassische Vorgehensmodelle
 Klassische Vorgehensmodelle, auch lineare Vorgehens- oder Phasenmodelle[^30] genannt, bestehen aus nacheinander abfolgenden [Phasen](Projektphasen_klassisch.md). Ein solches Vorgehen wird als sequentiell[^20][^80] bezeichnet. "Jede dieser Phasen bündelt dabei eine Reihe von Aktivitäten, welche vollständig und in der richtigen Reihenfolge durchzuführen sind."[^90] Zum Abschluss einer Phase wird meist ein [Meilenstein](Meilensteine.md) erzeugt.
-Der wohl geläufigste Vertreter klassischer Vorgehensmodelle ist das [Wasserfallmodell](Wasserfall_Modell.md). Weitere bekannte Beispiele sind das [V-Modell XT](VModell)[^80] und Rational Unified Process[^40][^70].
+Der wohl geläufigste Vertreter klassischer Vorgehensmodelle ist das [Wasserfallmodell](Wasserfall_Modell.md). Weitere bekannte Beispiele sind das [V-Modell XT](VModell)[^80] und Rational Unified Process[^40].
 
 ![Schema eines Phasenkonzepts](Vorgehensmodelle/Schema_eines_Phasenkonzepts.png)
-Abbildung: Schema eines Phasenkonzepts [^120]
+Abbildung: Schema eines Phasenkonzepts[^120]
   
   
 **Vorteil** von klassischen Vorgehensmodellen ist die einfache Struktur mit klarer Einteilung, welche eine hohe Prozesstransparenz gewährleistet.[^30]
 
-**Nachteil** ist das hohe Risiko durch mangelnde Flexibilität. Auch wenn in Phasenmodellen häufig eine Rückkopplung zwischen benachbarten Phasen möglich ist, ist ein Zurückspringen in weiter zurückliegenden Phasen nicht vorgesehen. Diese sequentielle Struktur wird problematisch, wenn es zu Änderungen kommt/sich die Bedingungen ändern.[^90][^30] oder
+**Nachteil** ist das hohe Risiko durch mangelnde Flexibilität. Auch wenn in Phasenmodellen häufig eine Rückkopplung zwischen benachbarten Phasen möglich ist, ist ein Zurückspringen in weiter zurückliegende Phasen nicht vorgesehen. Diese sequentielle Struktur wird problematisch, wenn sich Bedingungen verändern.[^90][^30]
 
 Klassische Vorgehensmodelle eignen sich daher besonders für risikoarme Projekte, bei denen von Anfang an Anforderung und Lösung verhältnismäßig klar sind, und mit geringen Änderungen im Projektverlauf zu rechnen ist.[^90] Beispiele könnten Ausschreibungs- und Vergabeverfahren des öffentlichen Sektors sein.[^100]
 
 ## Agile Vorgehensmodelle
-Agile Vorgehensmodelle beruhen auf iterativem und inkrementellem Vorgehen. Iteratives Vorgehen bedeutet, dass eine Reihe von Aktivitäten bei jedem Durchlauf wiederholt wird. Inkrementell bedeutet, dass zunächst ein Teilsystem entwickelt und dieses dann schrittweise weiter ausgebaut wird. [^90][^100][^110]
+Agile Vorgehensmodelle beruhen auf iterativem und inkrementellem Vorgehen. Iteratives Vorgehen bedeutet, dass eine Reihe von Aktivitäten bei jedem Durchlauf wiederholt wird. Bei einer inkrementellen Vorgehensweise wird zunächst ein Teilsystem entwickelt und dieses dann schrittweise weiter ausgebaut.[^90][^100][^110]
 Weitverbreitete agile Vorgehensmodelle sind beispielsweise das Spiralmodell, [Extreme Programmierung](Xtreme_Programming.md), [Scrum](SCRUM.md) oder [Kanban](Kanban.md).
 
 ![Konzept des Spiralmodells](Vorgehensmodelle/Konzept_des_Spiralmodells.png)
-Abbildung: Konzept des Spiralmodells [^90]
+Abbildung: Konzept des Spiralmodells[^90]
 
 **Vorteil** agiler Vorgehensmodelle ist, dass durch das inkrementelle Vorgehen früh erste einsetzbare Ergebnisse vorliegen[^10] und durch die Iterationen auf Fehler und Änderungen leichter eingegangen werden kann als bei Phasenmodellen.
 
-**Nachteil** ist, dass das Projekt dazu geeignet sein muss Teilaspekte nacheinander zu entwickeln und jeweils an das jeweils vorige Ergebnis anzubauen/....[^110]
+**Nachteil** ist, dass das Projekt dazu geeignet sein muss Teilaspekte nacheinander zu entwickeln und jeweils an das vorige Ergebnis anzufügen.[^110]
 
-Agile Vorgehensmodelle können auch eingesetzt werden, wenn die genaueren Anforderungen zu Beginn noch nicht feststehen.[^120] Sie eignen sich daher besonders für komplexe Aufgabenstellungen in Umgebungen mit stetigen Veränderungen,[^120] sofern das Projektergebnis sich sinnvoll in Teilabschnitte auftrennen lässt. [^100][^90]
+Agile Vorgehensmodelle können auch eingesetzt werden, wenn die genaueren Anforderungen zu Beginn noch nicht feststehen.[^120] Sie eignen sich daher besonders für komplexe Aufgabenstellungen in Umgebungen mit stetigen Veränderungen,[^120] sofern das Projektergebnis sich sinnvoll in Teilabschnitte auftrennen lässt.[^100][^90]
 
 ## Weitere Vorgehensmodelle
-Es ist möglich klassische und agile Herangehensweise zu kombinieren, beispielsweise indem ausgewählte Projektphasen oder Teilprojekte eines klassischen Vorgehensmodells agil durchgeführt werden. Solche Kombinationen werden auch als [hybride](Hybrides_Projektmanagment.md) Vorgehensmodelle bezeichnet. [^120]
-Als eigene Art von Vorgehensmodellen wird zusätzlich häufig Prototyping aufgeführt. Es ähnelt dem agilen Vorgehen, da das Endergebnis ebenfalls durch schrittweises Ausbauen eines hier Prototyps entsteht. Der Prototyp besitzt dabei früh ausgewählte oder kritische Funktionen, um ein Testen in realisitischer Umgebung zu ermöglichen. [^110]
+Es ist möglich klassische und agile Herangehensweise zu kombinieren, beispielsweise indem ausgewählte Projektphasen oder Teilprojekte eines klassischen Vorgehensmodells agil durchgeführt werden. Solche Kombinationen werden auch als [hybride](Hybrides_Projektmanagment.md) Vorgehensmodelle bezeichnet.[^120]
+Als eigene Art von Vorgehensmodellen wird zudem häufig Prototyping aufgeführt. Es ähnelt dem agilen Vorgehen, da das Endergebnis ebenfalls durch schrittweises Ausbauen eines hier Prototyps entsteht. Der Prototyp besitzt zu einem frühen Zeitpunkt ausgewählte oder kritische Funktionen, um ein Testen in realisitischer Umgebung zu ermöglichen.[^110]
 
 # Mögliche weitere Verlinkungen (wenn ich noch mehr Text hinzufügen darf)
 - Projektmanagement (Einordnung??)
@@ -75,13 +75,11 @@ Als eigene Art von Vorgehensmodellen wird zusätzlich häufig Prototyping aufgef
 - Projektstrukturplan (mal reinschauen!)
 - irgendwas mit Risiko für klassisch? mal reinschauen, welcher der vielen Risiko- Beiträge am besten zu meinem angesprochenen Risiko passt
 - Rollen_klassisch (weiß nicht in welchen Satz)
-- evtl. Zeitplanung
+- evtl. Zeitplanung -- hinzugefügt
 - evtl. Zielplanung (besonders zu agil)
 
 # Weiterführende Literatur
 Broy, Manfred; Kuhrmann, Marco (2021): Vorgehensmodelle in der Softwareentwicklung. In: Manfred Broy und Marco Kuhrmann (Hg.): Einführung in die Softwaretechnik. Berlin, Heidelberg: SpringerVieweg (Xpert.press), S. 83–124. Online verfügbar unter https://link.springer.com/content/pdf/10.1007%2F978-3-662-50263-1.pdf.
-
-Broy, M. & Kuhrmann, M. (2021). Vorgehensmodelle in der Softwareentwicklung. In M. Broy & M. Kuhrmann (Hrsg.), Xpert.press. Einführung in die Softwaretechnik (S. 83–124). SpringerVieweg. https://doi.org/10.1007/978-3-662-50263-1_3
 
 # Quellen
 [^10]: [Angermeier, Georg (2017): Vorgehensmodell. In: Projektmagazin, 21.09.2017. Zuletzt geprüft am 22.11.2021.](https://www.projektmagazin.de/glossarterm/vorgehensmodell)
