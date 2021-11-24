@@ -19,8 +19,13 @@ Die Videos zeigen nur die wichtigsten Funktionen. Das Angebot durch ClickUp ist 
 
 ## Homepage
 
-Die Homepage wurde simpel gehalten. Dem User sollen die wichtigsten Aufgaben, die Heute anstehen, gezeigt werden. Es werden Aufgaben angezeigt, die Erledigt werden müssen, mit der jeweiligen Priorität der Aufgaben. Ebenfalls werden dem User Kommentare angezeigt, die von anderen Teammitgliedern verfasst wurden zur eigenen Arbeit. Die wichtigste Funktion auf der Homepage ist der Kalender, der dem User ermöglicht allerlei Tasks in der Zukunft zu managen, verschieben oder zu bearbeiten.
+Die Homepage wurde simpel gehalten. Dem User sollen die wichtigsten Aufgaben, die Heute anstehen, gezeigt werden. Es werden Aufgaben angezeigt, die Erledigt werden
+müssen, mit der jeweiligen Priorität der Aufgaben. 
+Ebenfalls werden dem User Kommentare angezeigt, die von anderen Teammitgliedern verfasst wurden zur eigenen Arbeit. 
+Die wichtigste Funktion auf der Homepage ist der Kalender, der dem User ermöglicht allerlei Tasks in der Zukunft zu managen, verschieben oder zu bearbeiten.
 
+Links im Bildschirm ist eine Sidebar eingeblendet, die weitere Unterfunktionen zeigt wie Notifications (Benachrichtigungen) und Goals (Ziele, die individuell
+erstellt werden können). Weitere Funktionen in der Sidebar werden in den unteren Paragrafen erklärt.
 
 ## Favorites
 ## Spaces 
