@@ -49,6 +49,7 @@ Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md). Im Jahr 2
 
 # Bachelorstudiengang Projektmanagement Bau
 
+
 # Begriffsdefinitionen
 1. Generalübernehmer: gleichzusetzen mit Totalunternehmer; (General-)Planer, der zusätzlich die Bauaufgaben übernimmt [^2]
 2. Generalunternehmer: vereint alle Baugewerke in einem Unternehmen [^2]
