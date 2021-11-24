@@ -70,20 +70,20 @@ Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Cha
   - Vorprojektphase, Nachprojektphase,
   - Projekt-Nichtziele
   - Projektbudget (erwartete Projektkosten, aber auch benötigte Ressourcen, Mitarbeiter, Nachlaufkosten, etc.)
-  - Verantwortlichkeiten und Befugnisse
+  - [Verantwortlichkeiten](Verantwortlichkeiten.md) und Befugnisse
   - Projektzweck, Hindernisse, Beschränkungen, etc.
-  - Projektmeilensteine, Projektplan, Projektphasen, etc.
+  - Projektmeilensteine, Projektplan, [Projektphasen](Projektphasen_klassisch.md), etc.
   - Zu erfüllende Hauptaufgaben
-  - Termin- und Kommunikationsplan, Terminvorgaben, etc.
+  - Termin- und [Kommunikation](Projektkommunikation.md)splan, Terminvorgaben, etc.
   - Projektmanagementplan: Anforderungen an das Projektmanagement
-  - Anzuwendende Managementsysteme (z.B. für Risikomanagement, Qualitätsmanagement, Konfigurationsmanagement)
+  - Anzuwendende Managementsysteme (z.B. für [Risikomanagement](Risikomanagement.md), [Qualitätsmanagement](Qualitaetsmanagement.md), Konfigurationsmanagement)
   - Vertragsbezogene Inhalte (insbes. Vergütungsvereinbarungen)
 
 ## Häufige Fehler beim erstellen einer Projekt Charta[^9]
-- Unklare Zielsetzungen
+- Unklare [Zielsetzungen](Ziel_Planung.md)
 - Unzureichende Formulierung der Problemstellung
 - Viele Statistiken einbauen
-- Unklare definition der Rollen und Verantwortlichkeiten
+- Unklare definition der [Rollen](Rollen_klassisch.md) und Verantwortlichkeiten also [Rollenkonflikte](Rollenkonflikte.md)
 
 ### Wie vermeiden?
 - Einfache Wortwahl treffen
