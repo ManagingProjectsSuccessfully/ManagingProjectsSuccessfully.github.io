@@ -10,7 +10,7 @@ Ein Bauprojekt, auch Bauvorhaben genannt, beschreibt die Errichtung eines in der
 
 # Projektmanagement bei Bauprojekten
 
-Das Bauprojektmanagement kann als die Urform des Projektmanagements betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren. 
+Das Bauprojektmanagement kann als die Urform des [Projektmanagements](Projektmanagement.md) betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren. 
 Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements[^5]. Es gibt insgesamt drei Funktionäre bei einem Bauprojekt: Bauherr, Planer und den Ausführenden (z.B. Bauunternehmer)[^6].
 
 ## Aufgaben des Bauprojektmanagements
