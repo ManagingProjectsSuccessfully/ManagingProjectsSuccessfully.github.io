@@ -61,29 +61,12 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 | ------------- | ------------- |
 | umfangreiche Funktionen innerhalb der Projektplanung                    | anspruchsvolle Einarbeitung verlangt Grundlagenschulung        |
 | sehr genaue Detaillierungsschärfe der Visualisierung                    | hohe Anschaffungskosten für die Lizenz                         |
-| auf Knopfdruck ansprechend, gestatltete Reportings / Berichte           | Fehlende Intuition bei der Handhabung                          |
+| auf Knopfdruck ansprechend, gestaltete Reportings / Berichte           | Fehlende Intuition bei der Handhabung                          |
 | effizientes Managementsystem komplexer, klassischer Projekte            | beansprucht hohen Pflegeaufwand der bespielte Daten            |
 | etablierter Standard in vielen mittelständischen und großen Unternehmen |
 
 [^3]
 
-
-
-
-
-
-
-
-
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -103,5 +86,5 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 [^1]: https://de.wikipedia.org/wiki/Microsoft_Project
 [^2]: [Schwab, Josef: Projektplanung mit Project 2010, Carl Hanser Verlag GmbH & Co. KG, 2011](https://www.hanser-elibrary.com/doi/book/10.3139/9783446428423)
 [^3]: https://www.projektmanager-blog.de/post/ms-project
-[^4]: 
+[^4]: Schmidt, Oliver 2021 
 
