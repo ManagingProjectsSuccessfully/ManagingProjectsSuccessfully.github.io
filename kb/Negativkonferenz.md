@@ -8,7 +8,7 @@ anrechnung: k
 Die Negativkonferenz ist eine Kreativitätstechnik zur intuitiven Ideenfindung. 
 Sie lässt sich im direkten Gegensatz zum Brainstorming betrachten: 
 Anstelle über Lösungen für ein Problem nachzudenken, wird sich nur auf die möglichen Probleme eines Aspektes fokussiert. 
-Für diese Probleme können dann zu späteren Schritten erneut Kreativitätstechniken angewendet werden, um wiederum neue Lösungen zu finden.
+Für diese Probleme können dann zu späteren Schritten erneut Kreativitätstechniken angewendet werden, um wiederum neue Lösungen zu finden. [^1]
 
 # Verschiedene Bezeichnungen und verwandte Methoden
 
@@ -17,7 +17,7 @@ Die Negativkonferenz wird in der Literatur auch als "Umkehrdiagramm" bezeichnet 
 
 Wenn die Aufgabenstellung zum Beispiel die Verbesserung der aktuellen Maschinen ist, dreht die Kopfstandtechnik diese um und sucht nach möglichen Wegen, die Maschinen
 zu verschlechtern. Durch das Umkehren
-der Erkenntnisse darüber, wie man etwas verschlechtern kann, ist es nun wiederum möglich, zu neuen Verbesserungsideen zu gelangen. [^1]
+der Erkenntnisse darüber, wie man etwas verschlechtern kann, ist es nun wiederum möglich, zu neuen Verbesserungsideen zu gelangen. [^2]
 
 ![Screenshot 2021-11-24 165717](https://user-images.githubusercontent.com/92982358/143272932-b3719172-c038-4ccc-a915-b91854ad5e0a.png)
 
@@ -64,5 +64,6 @@ werden."
 
 # Quellen
 
-[^1]: https://www.sim.ovgu.de/sim_media/downloads/IDEAL/Kopfstandtechnik.pdf
+[^1]: https://de.wikipedia.org/wiki/Negativkonferenz
+[^2]: https://www.sim.ovgu.de/sim_media/downloads/IDEAL/Kopfstandtechnik.pdf
 
