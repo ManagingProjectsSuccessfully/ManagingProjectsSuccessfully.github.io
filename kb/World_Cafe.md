@@ -62,8 +62,12 @@ Die zuvor genannte Vorgehensweise ist flexibel anpassbar und Komponenten, wie et
 # Siehe auch
 
 Weitere kreative Methoden
-* [6_3_5_Methode](6_3_5_Methode.md)
+* [6-3-5_Methode](6_3_5_Methode.md)
 * [Walt-Disney-Methode](Walt_Disney_Methode.md)
+* [Zukunftswerkstatt](Zukunftswerkstatt.md)
+* [Ideen-Marathon](Ideen_Marathon.md)
+* [Kopfstandtechnik](Kopfstandtechnik.md)
+* [Brainwriting](Brainwriting.md)
 
 # Weiterführende Literatur
 
