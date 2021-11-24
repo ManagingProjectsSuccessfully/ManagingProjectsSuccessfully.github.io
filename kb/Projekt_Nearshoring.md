@@ -39,7 +39,7 @@ Die Abbildung zeigt, dass Deutschland ein sehr hohes Einkommensniveau hat und im
 
 # Fazit
 
-Das Potential des Projekt Nearshorings ist noch nicht ausgereizt und die Anwendung wird voraussichtlich in der Zukunft stark steigen, wenn das Beste aus den Strategien von Offshoring (die geringeren Kosten) und Backshoring (die Flexibilität sowie geografische Nähe) verbunden wird. [^5]
+Das Potential des Projekt Nearshorings ist noch nicht ausgereizt und die Anwendung wird voraussichtlich in der Zukunft stark steigen, wenn das Beste aus den Strategien von Offshoring (die geringeren Kosten) und Backshoring (die Flexibilität sowie geografische Nähe) verbunden wird. [^5][^3]
 
 
 # Siehe auch
