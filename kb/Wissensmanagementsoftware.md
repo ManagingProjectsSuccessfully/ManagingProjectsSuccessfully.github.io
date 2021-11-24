@@ -5,14 +5,14 @@ author: gelfertfelix
 anrechnung: k
 ---
 
-##Vorwort
+## Vorwort
 
 Heutzutage müssen sich viele Unternehmen den Herausforderungen des Big Data Zeitalters stellen. 
 Cloud-Anwendungen ermöglichen mittlerweile die Speicherung riesiger Datenmengen, somit ist nicht mehr die Speicherung an sich die 
 Herausforderung, sondern die Organisation der Datenmengen. Genau dieser Herausforderung stellt sich das Wissensmanagement. 
 Im Zuge der Digitalisierung ist auch Wissensmanagementsoftware nicht mehr wegzudenken.
 
-##Wissensmanagement und die Bedeutung der Ressource Wissen
+## Wissensmanagement und die Bedeutung der Ressource Wissen
 
 Wissen kann als eine nicht physische Ressource aufgefasst werden. Damit steht das Wissen eines Unternehmens auf einer Ebene 
 mit den klassischen Produktionsfaktoren Arbeit, Boden und Kapital. Klassische Produktionsfaktoren sind Ergebnisse einer 
@@ -22,7 +22,7 @@ gezieltes Wissensmanagement. Akkumulieren von Wissen, Wissen speichern und Wisse
 die Hauptaufgaben des Wissensmanagements 5.
 Zusammengefasst kann man also sagen: „Das Wesen des Managements ist es, Wissen produktiv zu machen.“ Peter F. Drucker (*19.11.1909-†11.11.2005), Ökonom, Management-Vordenker 1.
 
-##Wissensmanagementsoftware
+## Wissensmanagementsoftware
 
 Wissensmanagementsoftware (Knowledge-Management-Software) kann der Enterprise-Content-Management-Software untergeordnet werden 6.
 Kurz gesagt, kann Wissensmanagementsoftware als eine Plattform für den Wissenstransfer zwischen Internen, aber auch mit Externen verstanden werden. 
@@ -30,7 +30,7 @@ Wissensmanagementsoftware bietet Unternehmen somit eine digitale Unterstützung 
 Das Angebot reicht dabei von kleinen Softwarepaketen für einzelne Personen, bis zu hochspezialisierter Unternehmenssoftware für Großunternehmen. 
 Erfolgreiche Wissensmanagementsoftware kann leicht in bestehende Unternehmensstrukturen integriert werden und hat das Potenzial mit dem Unternehmen zu wachsen 6.
 
-###Wissensmanagementsoftware am Beispiel der Wisdom+ Wissensmanagement Software
+### Wissensmanagementsoftware am Beispiel der Wisdom+ Wissensmanagement Software
 
 Aufgrund des riesigen Angebots an Wissensmanagementsoftware und deren unterschiedlichen Ansätze, möchte ich mich im Folgenden auf eine bestimmte 
 Software des Unternehmens „Zehnplus GmbH“ konzentrieren. Zehnplus bietet mit ihrer Wisdom+ Wissensmanagementsoftware, eine Plattform rund um das Thema Wissensmanagement. 
