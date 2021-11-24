@@ -102,7 +102,7 @@ Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt
 
 [^1]: [DIE 7 HAUPTAUFGABEN EINES PROJEKTLEITERS (M/W) (Tintschl AG)](https://blog.tintschl.de/projektleiter) 
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [What is Agile? (Adventures with Agile)](https://www.adventureswithagile.com/2016/08/10/what-is-agile/) 
+[^3]: [Zertifizierung zum/ zur Projektleiter/-in (Bildungskompass)](https://www.ausbildung-berater.de/weiterbildung-projektmanagent/) 
 [^4]: Gotthold Zielasek: Projektmanagement als Führungskonzept - Erfolgreich durch Aktivierung aller Unternehmensebenen. Springer-Verlag,  Berlin, Heidelberg 1999, [978-3-642-60144-6](https://doi.org/10.1007/978-3-642-60144-6) 
 [^5]: [Was macht ein Projektleiter? Aufgaben und mögliche Projekte (appvizer)](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/projektleiter) 
  
