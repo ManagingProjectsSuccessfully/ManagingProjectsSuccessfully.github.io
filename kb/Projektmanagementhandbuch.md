@@ -2,7 +2,7 @@
 title: Projektmanagementhandbuch
 tags: agil klassisch
 author: Harthauer
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu Projektmanagementhandbuch um ein erstes Verständnis dafür zu schaffen um was es hier geht.
