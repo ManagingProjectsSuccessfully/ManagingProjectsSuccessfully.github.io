@@ -12,34 +12,42 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Geschichte des Kanban Boards
 
-1947 von dem Japaner und Ingenieur Toyotas, [Taiichi Ono](https://de.wikipedia.org/wiki/Taiichi_Ōno) als ursprüngliche Planungsmethode aus der 
+1947 von dem Japaner und Ingenieur Toyotas, [Taiichi Ōno](https://de.wikipedia.org/wiki/Taiichi_Ōno) als ursprüngliche Planungsmethode aus der 
 Produktionsprozesssteuerung, um Japan im vergleich zu den USA 
-Konkurrenz fähig zu halten. Mit dem Ziel der Lean Produktion, die produktion ohne Verschwendung. [^4]https://www.pinkuniversity.de/kanban-methode/.
+Konkurrenz fähig zu halten. Mit dem Ziel der Lean Produktion, die produktion ohne Verschwendung.[^4]https://www.pinkuniversity.de/kanban-methode/.
+ZOtat:  Nur das zu produzieren, was nötig ist, wenn es nötig ist und in der Menge, in der es nötig ist. Taiichi Ohno []https://kanbantool.com/de/kanban-guide/die-kanban-geschichte
 Ab 1970 wird diese Steuerungsmethode auch in den USA und Deutschland eingeführt. 2007 übertrug David Anderson dieses Konzept auf die IT und ebnete den Weg nicht
 nur für Produktionsprozesse sondern auch für Projekte, um diese mit Kanban schneller und effizienter zu machen. Bis heute Lean Produktion und Kanban Methode als 
 organistationsform in großen Unternehmen standard.
 
+<img width="449" alt="Bildschirmfoto 2021-11-24 um 15 14 56" src="https://user-images.githubusercontent.com/92926914/143254731-118cd134-07e8-4692-9476-99c3d276a4d5.png">
 
-# Was ist ein Kanban Board ?
+*Taiichi Ōno*
+
+
+
+# Was ist ein Kanban Board?
 
 [Kanban](https://de.wikipedia.org/wiki/Kanban) (japanisch "Signal - Karte" ).
-Das Kanban Bord mit seinen Kanban Karten, ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Aarbeitsstatus verschiedener Prozessabläufe gibt,
+Das Kanban Bord mit seinen Kanban Karten, ist ein visuelles Hilfsmittel, das einen Überblick über 
+den aktuellen Arbeitsstatus verschiedener Prozessabläufe gibt,
 um schnell Problemstellen eines Arbeitsflusses aufzudecken und die Kommunikation im Team erleichtert.
 Zudem ist es auch ein Schlüsselelement der Kanban Methode, die zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses beiträgt.[^1]
 
 
-# Wie fuktioniert ein Kanban Board
+# Wie funktioniert ein Kanban Board?
 
 Ursprünglich handelt es sich um ein Whiteboard, das in Spalten und Swimlanes aufgeteilt wurde.
 Jede Spalte stellt eine Prozessphase dar, Swimlanes die verschiedenen Aufgabenbereiche der Aktivitäten. 
-Wenn eine Aufgabe in Ihren Arbeitsfluss gelangt, wird sie auf einer Kanban-Karte platziert, die jede Spalte des Boards durchläuft.[^3]
+Wenn eine Aufgabe in Ihren Arbeitsfluss gelangt, wird sie auf einer Kanban-Karte platziert, die jede Spalte von Links nacht Rechts des Boards durchläuft.[^3]
 Eine Kanban-Karte enthält Informationen über die Aufgabe und deren Status, darunter eine Aufgabenübersicht, den Verantwortlichen, die Frist etc.
 
-Jedes Kanban-Board ist in drei grundlegende Abschnitte unterteilt, die den Status Ihrer Aufgaben anzeigen:
 
-Sie ermöglichen Teams einen klaren Überblick über alle Arbeitselemente und steuern sie über die verschiedenen Phasen ihres Workflows.Sie ermöglichen Teams einen 
-klaren Überblick über alle Arbeitselemente und steuern sie über die verschiedenen Phasen ihres Workflows.
+<img width="449" alt="Bildschirmfoto 2021-11-24 um 15 19 24" src="https://user-images.githubusercontent.com/92926914/143255407-b53e3b4a-215b-4404-b232-4e3965b4f98d.png">
 
+
+*Kanban Board Bestandteile*
+Sie ermöglichen Teams einen klaren Überblick über alle Arbeitselemente und steuern sie über die verschiedenen Phasen ihres Workflows.Sie ermöglichen Teams einene
 
 # Was braucht man um ein Kanban Board zu erstellen?
 
@@ -55,7 +63,7 @@ Je nach Prozess kann das Board unterschiedlich aufgebaut werden.
 ## Schritt 2: Befüllen des Boards
 
 Das Kanban Board wird mit allen Aufgaben befüllt, an denen das Team gerade arbeitet.
-Im KLassischen Modell gibt es 3 Spalten:
+Im Klassischen Modell gibt es 3 Spalten:
 
 * Zu Erledigen     
 * In Arbeit         
@@ -66,9 +74,9 @@ Im KLassischen Modell gibt es 3 Spalten:
 *Klassisches Kanban Board*
 
 
-Zu Erledigen:     In diese Spalte wird eingetragen, welche Aufgaben noch nicht begonnen wurden.
+Zu Erledigen:     In diese Spalte wird eingetragen, welche Aufgaben noch nicht begonnen wurden aber geplant sind.
 
-In Arbeit:        Hier finden sich alle Aufgaben wieder, die derzeit bearbeitet werden.
+In Arbeit:        Hier finden sich alle Aufgaben wider, die derzeit bearbeitet werden.
 
 Erledigt:         Aufgaben, die fertig gestellt wurden.
 
@@ -138,24 +146,42 @@ Mit den Kanban Karten werden automatisch alle wichtigen Informationen transporti
 
 ## Beispiele von Kanban Boards [] https://kanbantool.com/de/kanban-board-beispiele
 
-Durch die beliebtheit der Kanban Boards findet man sie nahezu überall.
-Häufig um Geschäftsprozesse abzubilden, jedoch auch zur Förderung der Teamwork oder dem organisieren privater Aufgaben.
-Sie unterscheiden sich in ihrer Struktur durch ihre zunehmenden Spalten und Reihen, anhand die Komplexitäten der unterschiedlichsten Prozesse aufgezeigt werden.[^2]
+Durch die Beliebtheit der Kanban Boards findet man sie heutzutage nahezu überall.
+Häufig um Geschäftsprozesse abzubilden oder dem organisieren privater Aufgaben.
+Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen, anhand dessen die Komplexitäten der unterschiedlichsten Prozesse aufgezeigt werden.[^2]
 
 * Digitales Board 
- -erstellt mithilfe von Tools: Trello, Planner, Jira uvm.
+
+  - Erstellung mithilfe von Tools: Trello, Planner, Jira uvm.
+
+
+<img width="588" alt="Bildschirmfoto 2021-11-24 um 15 06 46" src="https://user-images.githubusercontent.com/92926914/143253450-9dc69c01-9dce-4847-b0b8-d46d62b71c6b.png">
+
+
+*Kanban Board in der Software Entwicklung*
+
+
+<img width="588" alt="Bildschirmfoto 2021-11-24 um 15 08 46" src="https://user-images.githubusercontent.com/92926914/143253653-fccf0214-efc4-4924-b335-a918886b644f.png">
+
+
+*Ein Familien Kanban Board*
 
 
 
 
 
 * Großes physisches Board 
- -Whiteboard mit Post-it's
 
-hauotziel: Information radiators: information von innen nach aussen sichtbar zu machen
-produktions und arbeitsabläufe in einem kontinuierelichen fluss zu bekommen
-darf nicht untergehen: strategisch so platzieren, dass es nicht untergeht bsp. startseite
-Erfolgserlebnis physisch spüren, wenn man eine karte ereledight hat und 
+  - Whiteboard mit Post-it's
+ 
+ 
+ <img width="569" alt="Bildschirmfoto 2021-11-24 um 14 59 52" src="https://user-images.githubusercontent.com/92926914/143252862-8fe77788-f3a2-4218-b348-2fcb4dabce4c.png"> 
+ 
+ *Klassisches Kanban Board Beispiel*
+ 
+ https://kanbantool.com/de/kanban-board-beispiele
+
+ 
 
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
@@ -179,32 +205,11 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
-# Die Geschichte des Kanban Boards
-
-Kanban ist eine Arbeitsmanagement-Methode, die aus dem Toyota Production System (TPS) entstanden ist. 
-Ende  der 1940er führte Toyota die „Just-in-Time“-Produktion ein. Der Ansatz basiert auf einem Pull-System. Die Produktion wird dabei an der Kundennachfrage 
-ausgerichtet und nicht wie bei Push-Systemen üblich auf bestimmte Mengen festgesetzt, die dann auf den Markt kommen.
-Dieses einzigartige Produktionssystem legte den Grundstein für eine Lean-Produktion. 
-Dessen Ziel ist die Minimierung von Aktivitäten, die zu Verlusten führen, ohne die Produktivität zu beeinträchtigen um so mehr Wert für die Kunden zu schaffen 
-ohne Zusatzkosten zu benötigen.
-Kanban erfordert keine bestimmte Konfiguration und kann über einen vorhandenen Workflow oder Prozess gelegt werden, um Probleme zu erkennen. 
-So kann Kanban in jedem Unternehmen leicht eingeführt werden, weil für den Einstieg keine umfassenden Änderungen nötig sind.
-Kanban
 
 
 ![](Kanban_Boards/test-file.jpg)
 
 *lustiges Testbild*
-
-# Hauptvorteile der Verwendung von Kanban Boards
-
-* Sichtbarkeit, erlciehterung zur erkennung von Problemen oder zeitfressern des workflows wie zum beispiel, abhängigkeit, oder engpässe um sich so effizienter zu koordinieren.
-* Hilfreich zu verbesserung
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
 
 So kann man eine Tabelle erstellen:
