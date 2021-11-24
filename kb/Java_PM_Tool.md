@@ -7,6 +7,7 @@ anrechnung: a
 
 Im Folgenden wird beschrieben, wie man Java tools benutzt, um Projekte agile zu managen.
 # Java Projektmanagement Tools
+![Beispielabbildung](Java_PM_Tool/Java-Logo.gif)
 
 **Java** ist eine objektorientierte Programmiersprache und eine eingetragene Marke des Unternehmens
 Sun Microsystems, welches 2010 von
@@ -18,19 +19,26 @@ Java-Laufzeitumgebung (JRE) zu deren Ausführung.[^1]
 Als [Projektmanagement](Projektmanagement.md) wird das Initiieren, Planen, Steuern, Kontrollieren und Abschließen von Projekten bezeichnet.
 Viele Begriffe und Verfahrensweisen im Projektmanagement sind etabliert und standardisiert.[^2]
 
-Durch [Open source](Open_Source_Projekte.md) Java [Projekte](Projekt.md) (Tools) kann man verschiedene Aspekte eines Projekts steuern, planen usw. In Diesem Artikel werden wir ein paar Tools kennenlernen.
+Durch [Open source](Open_Source_Projekte.md) Java [Projekte](Projekt.md) (Tools) kann man verschiedene Aspekte eines Projekts steuern, planen usw. In Diesem Artikel kann man ein paar Tools und deren Umsetzung kennenlernen.
 
 
 ## Projektplanen & Verfolgung
 
 **Xplanner**  ist ein webbasiertes Projektplanungs- und -verfolgungstool für eXtreme Programming (XP)-Teams. XPlanner ist mit Java, JSP und Struts, Hibernate und MySQL implementiert.
-Um den XP-Planungsprozess zusammenzufassen, wählen die Kunden die hinzuzufügenden Funktionen (User Stories) für jede Entwicklungsiteration (in der Regel eine bis drei Wochen) aus. Die Entwickler schätzen den Aufwand für die Fertigstellung der Storys entweder auf der Ebene der Story oder durch Zerlegung der Story in Aufgaben und deren Schätzung. Informationen über die Entwicklungsgeschwindigkeit des Teams aus der vorherigen Iteration werden verwendet, um abzuschätzen, ob das Team die vom Kunden vorgeschlagenen Storys fertigstellen kann. Wenn sich herausstellt, dass das Team überfordert ist, wird die Menge der Storys mit dem Kunden neu verhandelt. Das XPlanner-Tool wurde zur Unterstützung dieses Prozesses entwickelt.[^3]
+
+Das XP-Planungsprozess[^3] kann man in 3 Schritte zusammenfassen:
+
+1.	Die Kunden wählen die hinzufügenden Funktionen (User Stories) für jede Entwicklungsiteration aus (in der Regel eine bis drei Wochen).
+2.	Die Entwickler schätzen den Aufwand für die Fertigstellung der Storys, entweder auf der Ebene der Story oder durch Zerlegung der Story in Aufgaben und deren Schätzung.
+3.	Informationen über die Entwicklungsgeschwindigkeit des Teams aus der vorherigen Iteration werden verwendet, um abzuschätzen, ob das Team die vom Kunden vorgeschlagenen Storys rechtzeitig fertigstellen kann.
+
+Wenn das Team überfordert ist, wird die Menge der Storys mit dem Kunden neu verhandelt. Das XPlanner-Tool wurde zur Unterstützung dieses Prozesses entwickelt.
 
 Projekte wie **XPlannerPlus** setzen dort an, wo das alte XPlanner-Projekt aufgehört hat. XPlannerPlus erweitert die Funktionen und macht die Benutzeroberfläche ein wenig schicker.
 
 ## Projektverwaltung
 
-**Activity Manager** ist ein Werkzeug für die Projektverwaltung. Es hilft einem [Projektleiter](Projektleiter.md), die Aktivitäten seiner Mitarbeiter zu verwalten und zu überprüfen. Einfach zu bedienen, leichtgewichtig, aber sehr effizient und anpassbar!
+**Activity Manager** ist ein Werkzeug für die Projektverwaltung. Es hilft einem [Projektleiter](Projektleiter.md), die Aktivitäten seiner Mitarbeiter zu verwalten und zu überprüfen. Einfach zu bedienen, leichtgewichtig, aber sehr effizient und anpassbar.
 
 Die Merkmale des Tools sind:
 
@@ -42,10 +50,10 @@ Die Merkmale des Tools sind:
 * XML-Datenbank Export/Import
 * EXCEL-Export
 
-Die Anwendung ermöglicht den Aufbau und die Pflege eines hierarchischen Aufgabenbaums. Sie arbeitet mit einem sehr einfachen Datenbankmodell, das es ermöglicht, schnell benutzerdefinierte Berichte über die Berichtsfunktion oder über einfache SQL-Anfragen zu erstellen.[^4]
+Activity Manager ermöglicht den Aufbau und die Pflege eines hierarchischen Aufgabenbaums. Mit hilfe eines sehr einfaches Datenbankmodells,ist es möglich, schnell benutzerdefinierte Berichte über die Berichtsfunktion oder über einfache SQL-Anfragen zu erstellen.[^4]
 ## Auswertung & Prognosen
 
-**GanttProject** ist ein kostenloses und einfach zu bedienendes, auf Gantt-Diagrammen basierendes Werkzeug zur Projektplanung und -evaluation.
+**GanttProject** ist ein kostenloses und einfach zu bedienendes, auf Gantt-Diagrammen basierendes Werkzeug zur Projektplanung und -auswertung.
 
 Es kommt mit:
 
