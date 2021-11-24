@@ -5,7 +5,12 @@ author: oliPM
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu Microsoft_Project_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Microsoft Project bezeichnet eine Projektmanagementsoftware, des Entwicklers Microsoft Corporation und ist Bestandteil der Office Familie. Neben der Microsoft Project Standard Software, als Einzelplatzversion, steht Microsoft Project Professional als Server Version zur Verfügung.
+Microsoft Project ist im Jahre 1984 erschienen und wird seit diesem Erscheinungsdatum regelmäßig aktualisiert und überarbeitet. Die aktuelle Version der Microsoft Corporation lautet Project 2019 und wird über das Betriebssystem Windows genutzt.
+Die Software soll Projektmanagern das Planen, Steuern und Überwachen der Projekte ermöglichen.
+(Wikipedia)
+Doch zu welchem Zeitpunkt ist dieses Management Tool erforderlich und was genau kann mit diesem EDV-Programm abgebildet werden?
+
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
