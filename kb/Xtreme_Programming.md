@@ -67,6 +67,7 @@ Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeins
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Xtreme_Programming.md)
+* [Link auf diese Seite](Kanban.md)
 
 ## Weiterführende Literatur
 
