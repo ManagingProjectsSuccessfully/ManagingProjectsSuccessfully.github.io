@@ -32,7 +32,7 @@ Daneben definiert PRINCE2 festgelegte Rollen & Verantwortlichkeiten innerhalb de
 
 
 ![Schlüsselelemente von PRINCE2](PRINCE2/Transparenttest3.png)                                      
-*Grafik: Die Schlüsselelemente von PRINCE2*  [^9]
+*Abbildung: Die Schlüsselelemente von PRINCE2*  [^5]
 
 # Die 7 Themen von PRINCE2
 
@@ -77,18 +77,18 @@ Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststel
 * „Best Practice“: beinhaltet verschiedene in der Praxis bewährte und beständige Methoden
 *	sorgt für kontrollierten Start, Verlauf und Ende des Projekts
 *	kann auf Bedürfnisse einzelner Organisationen oder Projekte angepasst werden
-*	gebührenfrei: PRINCE2-Materialien liegen als bereits öffentliche Dokumente vor[^3][^10]
+*	gebührenfrei: PRINCE2-Materialien liegen als bereits öffentliche Dokumente vor[^3][^9]
 
 ## Mögliche Probleme:
 
 *	stark dokumentenorientiert
 *	ggf. Gefühl von "Machtverlust" bei Projektmanagern, da Rollen und Befugnisse streng festgelegt sind
 *	sorgfältige Anpassung an Erfordernisse eines Projekts nötig (sonst kann PRINCE2 ein zu aufwendiges Vorgehen für kleine Projekte sein)
-*	trotz freier Verfügbarkeit oft teure Schulungen notwendig[^3][^10]
+*	trotz freier Verfügbarkeit oft teure Schulungen notwendig[^3][^9]
 
 # Zertifizierung nach PRINCE2
 
-Die [Zertifizierung](Zertifizierungen.md) nach PRINCE2 kann auf zwei verschiedenen aufeinander aufbauenden Stufen erreicht werden: [^2][^8][^11]
+Die [Zertifizierung](Zertifizierungen.md) nach PRINCE2 kann auf zwei verschiedenen aufeinander aufbauenden Stufen erreicht werden: [^2][^8][^10]
 
 |  | **Foundation-Prüfung** | **Practitioner-Prüfung**|
 | ------------- | ------------- | ------------ |
@@ -125,9 +125,8 @@ Die [Zertifizierung](Zertifizierungen.md) nach PRINCE2 kann auf zwei verschieden
 [^6]: [PRINCE2 Agile: Successfully deliver projects using agile techniques](https://www.axelos.com/certifications/propath/prince2-agile-project-management)
 [^7]: [PRINCE2: METHODE & DEFINITIONEN](https://www.maxpert.de/de/profil/schulungsspektrum/prince2-methode-definitionen/506)
 [^8]: [Was ist PRINCE2?](https://www.qrpinternational.ch/blog/glossar/prince2-was-ist-prince2-grundprinzipien-prozesse-themen/)
-[^9]: [Seminare: PRINCE2](https://www.aregula.com/seminare/prince2/)
-[^10]: [Auf dem Prüfstand: Stärken und Schwächen von PRINCE2](https://www.qrp.de/auf-dem-pruefstand-staerken-und-schwaechen-von-prince2)
-[^11]: [PRINCE2 Project Management Certifications](https://www.axelos.com/certifications/propath/prince2-project-management)
+[^9]: [Auf dem Prüfstand: Stärken und Schwächen von PRINCE2](https://www.qrp.de/auf-dem-pruefstand-staerken-und-schwaechen-von-prince2)
+[^10]: [PRINCE2 Project Management Certifications](https://www.axelos.com/certifications/propath/prince2-project-management)
 
 
 
