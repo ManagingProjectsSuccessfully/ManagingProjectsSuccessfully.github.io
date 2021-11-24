@@ -10,11 +10,11 @@ anrechnung: k
 
 Die [Ressourcenplanung](Ressourcenplanung.md) ist ein wichtiger Bestandteil des [Projektmanagements](Projektmanagement.md), um sicherzustellen, dass die notwendigen Mittel (Personen, Anlagen, etc.) frühzeitig identifiziert werden und über den gesamten Projektverlauf verfügbar sind. Hierzu zählt auch die [Zeit-](Zeitplanung.md) und [Kostenplanung](Kostenplanung.md).
 Das Ziel ist es hierbei für laufende und künftige [Projekte](Projekt.md) perfekt vorbereitet zu sein, damit die wirtschaftlichen Ressourcen optimal genutzt, nicht überlastet und rechtzeitig beschafft werden können [^1]. 
-Erfolgreiches [Projektmanagement](Projektmanagement.md) resultiert aus einer effizienten [Ressourcenplanung](Ressourcenplanung.md) und sollte bereits in der [Projektplanung-Phase](Projektstrukturplan.md) angewandt werden [^5].
+Erfolgreiches [Projektmanagement](Projektmanagement.md) resultiert aus einer effizienten [Ressourcenplanung](Ressourcenplanung.md) und sollte bereits in der [Projektplanung-Phase](Projektstrukturplan.md) angewandt werden [^5].[^6].
 
 # Bereiche der [Ressourcenplanung](Ressourcenplanung.md) und deren Herausforderungen (Skill-Management)
 
-![Abbildung 1](kb/Ressourcenplanung/Abbildung1.png)
+![Abbildung](kb/Ressourcenplanung/Abbildung1.png)
 
 [Abbildung 1: Die drei Ebenen und beteiligten Rollen bei der unternehmensweiten Ressourcenplanung]
 
@@ -66,7 +66,7 @@ Nach der Teamzuteilung kommt die Aufgabenzuteilung. Diese kann/sollte der [Proje
 
 # Prozesse und deren Rollen zur [Ressourcenplanung](Ressourcenplanung.md)
 
-![Abbildung 2](kb/Ressourcenplanung/Abbildung2.png)
+![Abbildung](kb/Ressourcenplanung/Abbildung2.png)
 
 [Abbildung 2: Das Zusammenspiel zwischen den Ebenen bei der Ressourcenplanung im Projektmanagement] 
 
@@ -83,7 +83,7 @@ Matrixorganisation:
 | Planen Projekte im Detail auf Vorgangsebene   | Ermitteln Projektverfügbarkeit ihrer Teammitglieder  |             |
 | -> Ordnen den Vorgängen entweder gewünschte Personen oder Skills zu   | -> Analysieren Ressourcenanfragen und sichern ihre Teammitglieder für freie Zeiträume zu | -> Aufnahme und Umsetzung der Planung                
 
-[^1]. [^3].
+[^1]. [^3].[^7].
 
 # Vorteile durch [Ressourcenplanung](Ressourcenplanung.md)
 
@@ -118,7 +118,7 @@ Durch [Ressourcenplanung ](Ressourcenplanung.md) und die damit verbundene frühz
 
 [^2]: [Skill-Management: welche Fähigkeiten brauchen Ihre Ressourcen wann?](https://www.theprojectgroup.com/blog/skill-management/)
 
-[^3]: [Herausforderungen der Ressourcenplanung im Projektmanagement](hhttps://www.theprojectgroup.com/blog/herausforderungen-der-ressourcenplanung/)
+[^3]: [Herausforderungen der Ressourcenplanung im Projektmanagement](https://www.theprojectgroup.com/blog/herausforderungen-der-ressourcenplanung/)
 
 [^4]: [Vorteile und Argumente für optimale Ressourcenplanung](https://www.projektassistenz-blog.de/vorteile-und-argumente-fuer-optimale-ressourcenplanung/?cn-reloaded=1)
 
