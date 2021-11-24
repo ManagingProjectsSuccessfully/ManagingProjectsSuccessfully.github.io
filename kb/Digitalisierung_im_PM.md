@@ -22,7 +22,7 @@ Die Nutzung von Plattformen, wie Asana, Microsoft Projekt oder Trello, helfen di
 ## Kommunikation
 
 Ein weiterer Bereich, wo digitale Tools zum Einsatz kommen, ist die Kommunikation, die einen wichtigen Erfolgsfaktor im Projektmanagement darstellt.[^4] 
-Die altbewährte E-Mail reicht für eine gelungene Zusammenarbeit nicht mehr aus. Dagegen erlauben Messanger-Dienste sich in Echtzeit zu vernetzten[^6] und Online-Meeting Tools, wie Zoom oder Skype, schaffen „neue flexible Möglichkeiten für alle Beteiligten, Besprechungen effizienter zu organisieren, [...].“ Das hat den Vorteil, dass Meetings häufiger virtuell stattfinden und so räumliche Distanzen nun viel leichter überbrückt werden können,[^4] was sich im Rahmen der Covid-19 Krise als essenziell erwiesen hat[^6]                      
+Die altbewährte E-Mail reicht für eine gelungene Zusammenarbeit nicht mehr aus. Dagegen erlauben Messanger-Dienste sich in Echtzeit zu vernetzten[^6] und Online-Meeting Tools, wie Zoom oder Skype, schaffen „neue flexible Möglichkeiten für alle Beteiligten, Besprechungen effizienter zu organisieren, [...].“ Das hat den Vorteil, dass Meetings häufiger virtuell stattfinden und so räumliche Distanzen leichter überbrückt werden können,[^4] was sich im Rahmen der Covid-19 Krise als essenziell erwiesen hat[^6]                      
                 
 # Potenziale
 
@@ -38,13 +38,13 @@ Ein weiteres Potenzial besteht darin, dass auch externe Partner mit Hilfe von PM
 
 Neben den vielen neuen Möglichkeiten, die die Digitalisierung mit sich bringt, gibt es zahlreiche Herausforderungen, die bewältigt werden müssen.[^3]
 
-Das Projektmanagement muss sich „auf mehr Geschwindigkeit und eine höhere Komplexität einstellen.“ Das bedeutet u.a., dass dezentrale und flexible Lösungswege, sowie agile Ansätze sich als wichtig erweisen werden. Aus diesem Grund werden vor allem Unternehmen, die bis jetzt primär auf klassische Methoden gesetzt haben, vor einer großen Herausforderung stehen.[^2] 
+Das Projektmanagement muss sich „auf mehr Geschwindigkeit und eine höhere Komplexität einstellen.“ Das bedeutet u.a., dass dezentrale und flexible Lösungswege, sowie agile Ansätze sich als wichtig erweisen werden. Aus diesem Grund werden vor allem Unternehmen, die bis jetzt ausschließlich auf klassische Methoden gesetzt haben, vor einer großen Herausforderung stehen.[^2] 
 
 Bei einer großen Anzahl an Projekten kann zudem der Überblick schnell verloren gehen, weswegen die Schlüsselprojekte und Kernaufgaben von den jeweiligen Projekten definiert und Prioritäten gekonnt gesetzt werden müssen.[^7]
 
 Außerdem ändern sich die Anforderungen an die Kompetenzprofile von Projektleitern und allen weiteren Teammitgliedern. Einerseits müssen sie bestimmte fachliche Qualifikationen mitbringen, aber auch Flexibilität und kommunikative Fähigkeiten sind gefragt.[^7] 
 
-Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes, effizientes und flexibles Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.[^8]
+Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes und effizientes Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.[^8]
 
 
 ![DIHK](https://github.com/Viktoria1412/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM/grafik-herausforderungen-digitalisierungsumfrage-21-data.png)
