@@ -35,7 +35,7 @@ Bei der Planung müssen folgende Fragen geklärt werden:
 
 
 Zudem werden folgende Hilfsmittel benötigt:
-1. Ein Raum, groß genug für mehrere Gruppentische (dieser kann nach belieben gestaltet werden, doch je mehr die Atmosphäre einem Cafés ähnelt, desto besser) 
+1. Ein Raum, groß genug für mehrere Gruppentische (dieser kann nach belieben gestaltet werden, doch je mehr die Atmosphäre einem Café ähnelt, desto besser) 
 2. Gruppentische mit 4-6 Stühlen
 3. Papiertischdecken
 4. Stifte[^6]
