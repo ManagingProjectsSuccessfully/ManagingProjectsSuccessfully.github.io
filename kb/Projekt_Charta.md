@@ -12,35 +12,35 @@ Die Projekt Charta ist ein Dokument das die wichtigsten Punkte eines Projekts sc
 # Was ist die Projekt Charta
 Der Begriff "Projekt Charta" ist nicht normiert, daher wird dieses Dokument in Deutsch auch als "Projektauftrag", "Auftrag" oder "Projektvereinbarung" bezeichnet. Auf Englisch wird der Begriff des "Projekt Charter" benutzt.[^4]
 
-Dem Projekt Charta eilt meistens ein Projektantrag bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.[^1][^4]
+Dem Projekt Charta eilt meistens ein [Projektantrag](Projektantrag.md) bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.[^1][^4]
 
-Durch die Projekt Charta wird sichergestellt, dass Sponsor und der Projektleiter auch das gleiche Ziel beim Projekt anstreben und den Mitteln dazu bewusst sind.[^1][^3] Bei externen Dienstleistern wird der Projektauftrag durch einen formellen Vertrag ersetzt.[^4]
+Durch die Projekt Charta wird sichergestellt, dass [Sponsor](Who_is_Who_Projectmanagement.md) und der [Projektleiter](Projektleiter.md) auch das gleiche Ziel beim Projekt anstreben und den Mitteln dazu bewusst sind.[^1][^3] Bei externen Dienstleistern wird der Projektauftrag durch einen formellen Vertrag ersetzt.[^4]
 
 
 ## Funktionen eines Project Charta im Projektverlauf
 
- Die Projekt Charta begleitet den Projektleiter, das Team sowie weitere Stakeholder vom Projektanfang bis -ende.[^2][^7] Daher bietet es im Laufe des Projekts eine Vielzahl an Funktionen.[^1]
+ Die Projekt Charta begleitet den [Projektleiter](Projektleiter.md), das Team sowie weitere [Stakeholder](Who_is_Who_Projectmanagement.md) vom Projektanfang bis -ende.[^2][^7] Daher bietet es im Laufe des Projekts eine Vielzahl an Funktionen.[^1]
 
 ### Zu beginn des Projekts
 
- - Die Übergabe des Projekt Charta stellt, nach einem erfolgreichen und genehmigten Projektantrag, den offiziellen startschuss des Projekts dar.[^1][^4]
+ - Die Übergabe des Projekt Charta stellt, nach einem erfolgreichen und genehmigten [Projektantrag](Projektantrag.md), den offiziellen [Startschuss des Projekts](Projekt_Kick_Off.md) dar.[^1][^4]
 
     - Beginn des Projektes
     - Festlegung des Projektstartzeitpunkts.
     - Schaffung einer verbindlichen Vereinbarung.
  (Berufungsgrundlage für Projektinhalte und -ziele)
-    - Einsetzung des verantwortlichen Projektleiters.
+    - Einsetzung des verantwortlichen [Projektleiter](Projektleiter.md)s.
     - Freigabe der beantragten finanziellen Mittel für das Projekt
     - Freistellung der notwendigen Mitarbeiter für die Projektarbeit
-    - ist eine grobe Vorplanung des Projekts
+    - ist eine grobe [Vorplanung des Projekts](Projektplanung.md)
 
 ### Während des Projekts
 
  - Die Projekt Charta ermöglicht eine einheitliche Übersicht der Projektinhalte für alle beteiligten.[^1]
 
     - Definition der Projektinhalte
-    - Gleiches Bild über Projekt für Projektleiter und Sponsor
-    - Informationsgrundlage für später hinzukommende Teammitglieder
+    - Gleiches Bild über Projekt für [Projektleiter](Projektleiter.md) und [Sponsor](Who_is_Who_Projectmanagement.md)
+    - Informationsgrundlage für später hinzukommende [Teammitglieder](Who_is_Who_Projectmanagement.md)
 
 - Minimiert das Risiko, dass sich der Aufwand nicht gleichmäßig auf die Projektlaufzeit verteilt.[^1]
 
@@ -52,7 +52,7 @@ Durch die Projekt Charta wird sichergestellt, dass Sponsor und der Projektleiter
 - Anhand der Projekt Charta bietet sich die Möglichkeit, Ziele und Ressorcen, mit erreichten Fortschritten und verwendeten Ressourcen abzugleichen.[^1][^7]
     - Überprüfung ob Ziele erreicht sind
     - Überprüfung ob Projektdauer eingehalten wurde
-    - Grundlage zur Planung von zukünftigen, ähnlichen Projekten
+    - Grundlage zur [Planung](Projektplanung.md) von zukünftigen, ähnlichen Projekten
 ---
 
 ## Bestandteile eines Project Charta
@@ -109,15 +109,10 @@ Eine Projekt Charta ist ein Dokument, das eine Übersicht über das Projekt vers
 ---
 ---
 # Siehe auch
-[Projektmanager](Projektleiter.md)
  
 [Rollen im Projektmanagement](Who_is_Who_Projectmanagement.md)
  
-[Projektantrag](Projektantrag.md)
- 
 [Stakeholdermanagement](Stakeholdermanagement.md)  
- 
-[Projektplanung](Projektplanung.md)
 
 [Faehigkeiten_Projektleiter](Faehigkeiten_Projektleiter.md) 
 
