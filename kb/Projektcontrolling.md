@@ -72,7 +72,7 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. 
 * [Erfolgsmessung](Erfolgsmessung.md)
 * [Aufgabenteilung](Aufgabenteilung.md)
 * [Meilensteine](Meilensteine.md)
-* [Projektlebenszyklus](Projekt_Lebens.md)
+* [Projektlebenszyklus](Projekt_Lebenszyklus.md)
 * [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 
 # Weiterführende Literatur
