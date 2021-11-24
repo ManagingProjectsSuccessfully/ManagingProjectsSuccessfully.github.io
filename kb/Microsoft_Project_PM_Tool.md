@@ -18,8 +18,17 @@ Die Software soll Projektmanagern das Planen, Steuern und Überwachen der Projek
 Doch zu welchem Zeitpunkt ist dieses Management Tool erforderlich und was genau kann mit diesem EDV-Programm abgebildet werden?
 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Beschreibung
+
+Zuerst sollte die Frage geklärt werden, zu welchem Zeitpunkt das Werkzeug seinen Zweck erfüllt. Dies ist laut Herrn Josef Schwab der Fall, wenn ein Planungsbedarf besteht und dieser das Projekt definiert.
+Der Planungsbedarf resultiert aus einem anstehenden Vorhaben, bei welchem die Abläufe noch nicht vollständig ausgearbeitet sind und Unsicherheiten bestehen.
+Kurzgefasst, werden mit dem Programm Prozesse und Meilensteine visuell sowie tabellarisch verknüpft und je nach Detaillierungsgrad abgebildet.
+Bevor die Einarbeitung mit dem Programm startet, wäre es nach Herrn Schwab sinnvoll sich folgende Fragen zu stellen: wie lauten die Vorhaben, wie lange dauern sie an, welche Abhängigkeiten existieren und welche Ressourcen sind von Nöten.
+Diese Fragestellungen oder Überlegungen zur Strukturierung des Projekts, können in Projects unter Vorgänge, Dauer, Vorgänger / Nachfolger sowie Ressourcen angewendet werden (siehe Abbildung).
+Es gibt viele unterschiedliche Anzeigemöglichkeiten für die Gliederung eines Projekts. Die hier beschriebene Ansicht, bezieht sich auf die Gantt Chart, welche in Kombination mit einer Tabelle angezeigt wird.
+Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines Projektsteuerers. Alle Bereiche können durch regelmäßiges Fortschreiben aktualisiert und korrigiert werden. 
+(Josef Schwab, Projektplanung mit Project 2010)
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
