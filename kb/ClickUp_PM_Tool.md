@@ -5,7 +5,7 @@ author: urimi0
 anrechnung: k 
 ---
 
-ClickUp[^1] ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für allerlei Art und Größe für Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von Projekten dienen werden auf einer Plattform zusammengefügt. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.
+ClickUp[^1] ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für allerlei Art und Größe für Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von Projekten dienen werden auf einer Plattform zusammengefügt[^3]. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.
 
 ![Beispielabbildung](ClickUp_PM_Tool/logo.png)
 
@@ -112,6 +112,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [ClickUp](https://clickup.com)
 [^2]: [nazrulhoque](https://nazrulhoque.com/blog/my-top-5-project-management-tools/)
+[^3]: [getapp](https://www.getapp.de/software/106331/clickup#features)
 
 
 
