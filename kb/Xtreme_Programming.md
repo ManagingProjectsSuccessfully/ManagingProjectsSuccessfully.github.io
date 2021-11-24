@@ -55,17 +55,12 @@ Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Änd
 
 
 ## Prinzipien
-
 * Unmittelbares Feedback
 * Einfachheit anstreben
 * Inkrementelle Änderungen
 * Veränderungen annehmen
 * Hochwertige Arbeit
-
-
 ## Techniken
-
-
 * Feinstufiges Feedback
 * Kontinuierlicher Prozess
 * Gemeinsames Verständnis
@@ -74,6 +69,11 @@ Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Änd
 
 ## Vor- und Nachteile
 
+Die Mehode ist sehr anspruchsvoll, da das gesamte Team mit einem gemeinsamen Verständnis der aktuellen Aufgabe zusammenarbeiten muss.
+Eine der Herausforderungen für Entwickler ist es Aufgaben einfach zu halten und nicht zu kompliziert zu gestalten. 
+Dies erfordert kontinuierliche Kommunikation, hochwertige Arbeit und wenn nötig das Annehmen von Veränderungen.
+
+Wenn das Team jedoch das Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken anwendet, gibt es viele Vorteile.
 Durch das inkrementelle Vorgehen kann das Produkt genau nach Kundenwünschen entwickelt werden und Kosten schnell wieder hereinholen, 
 da beispielsweise eine Software zu einem frühen Zeitpunkt produktiv gehen kann.
 Der Code ist durch testgetriebene Entwicklung stets änderbar und erweiterbar und wird in sehr hoher Qualität erstellt. 
