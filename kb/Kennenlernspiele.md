@@ -92,6 +92,6 @@ Das Spiel <a name="Schlüsselbund"></a>*Schlüsselbund* gibt den Teilnehmenden d
 [^16]: https://blog.fundraisingbox.com/16-virtuelle-teambuilding-spiele-fuer-remote-teams-im-homeoffice
 [^17]: https://karrierebibel.de/teambuilding/
 [^18]: https://www.factro.de/blog/teambuilding-spiele/
-[^19]: https://de.statista.com/statistik/daten/studie/1204173/umfrage/befragung-zur-homeoffice-nutzung-in-der-corona-pandemie/, Stand 21.22.21
+[^19]: [https://de.statista.com/statistik/daten/studie/1204173/umfrage/befragung-zur-homeoffice-nutzung-in-der-corona-pandemie/, Stand 21.11.21](https://de.statista.com/statistik/daten/studie/1204173/umfrage/befragung-zur-homeoffice-nutzung-in-der-corona-pandemie/)
 [^20]: https://www.workshop-spiele.de/schnelles-kennenlernspiel-fuer-video-meetings-und-online-seminare/
 [^21]: https://www.xing.com/communities/posts/kennenlern-uebung-schluesselbund-1002838141                                                                                       
