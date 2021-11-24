@@ -58,20 +58,20 @@ Die Geschwindigkeit eines Teams, kann anhand eines Balkendiagramms interpretiert
 >    - Sprints auf X Achse
 >    - Arbeitsaufwand auf Balken
 
-### Team Kapazität[^2]
+### Team Kapazität[^2][^6]
 Verfügbarkeit der Teammitglieder ist genauso effektiv wie die Geschwindigkeit. Beurlaubung und Krankheit sind zwei Beispiele wieso ein Teammitglied fehlen könnte. 
-> Sprint Dauer x Arbeitsstunden pro Mitglied x Teammitglieder = Maximale Teamkapazität
+> Sprint Dauer x Arbeitsstunden pro Mitglied x Teammitglieder = Maximale Teamkapazität [^6]
 
 Um die wirkliche Team Kapazität zu ermitteln sind folgende Fragen zu stellen:
 - Sind während des Sprints Feiertage?
 - Haben Mitglieder Urlaubstage?
-> Feiertaganzahl x Arbeitsstunden pro Mitglied x Teammitglieder = Feiertagsausgfall
+> Feiertaganzahl x Arbeitsstunden pro Mitglied x Teammitglieder = Feiertagsausgfall [^6]
 
-> Fehltage x Arbeitsstunden pro Mitglied x Teammitglieder = Allgemeinausfall
+> Fehltage x Arbeitsstunden pro Mitglied x Teammitglieder = Allgemeinausfall [^6]
 
-Nach vorhersehbarem Stand, ist die Teamkapazität:[5]
+Nach vorhersehbarem Stand, ist die Teamkapazität:[^6]
 
-> Maximale Teamkapazität - (Feiertagsausfall + Allgemeinausfall) = Teamkapazität
+> Maximale Teamkapazität - (Feiertagsausfall + Allgemeinausfall) = Teamkapazität 
 
 Um spontane Ausfälle von Teammitgliedern mit einzubeziehen ist es ratsam die Arbeitslast, in der Sprint Planung, um 10% niedriger zu halten.[2]
 
@@ -97,7 +97,7 @@ Scrum Metrics werden im laufe eines Scrum Projekts zur Effizienzsteigerung des T
 ---
 ---
 
-# Siehe auch[^6]
+# Siehe auch
 
 Was ist Scrum
 Was sind Key Performance Indicators(KPI's)
