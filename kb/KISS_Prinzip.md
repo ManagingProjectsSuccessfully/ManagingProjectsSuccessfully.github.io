@@ -13,7 +13,7 @@ Es ist eine Methode des Selbstmanagements, die nicht mit dem Zeitmanagement glei
 
 # [mehr Info zum KISS-Prinzip](https://startupwissen.biz/was-bedeutet-eigentlich-kiss/)
 
-![KISS-Prinzip](KISS_Prinzip/500_F_40606983_EcXZHtkebO0aRseXhnKldBZSuqTTCv7G.jpg)
+
 
 
 # Definition
@@ -40,6 +40,7 @@ Die Buchstaben S in KISS können verschieden interpretiert werden.Für das erste
 5. Keep it simple [and] stupid
    1. Keep it simply stupid
 
+![KISS-Prinzip](KISS_Prinzip/500_F_40606983_EcXZHtkebO0aRseXhnKldBZSuqTTCv7G.jpg)
 
 # Funktion
 
