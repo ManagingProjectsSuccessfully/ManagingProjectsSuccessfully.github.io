@@ -44,6 +44,7 @@ mit sehr unterschiedlichen Ansprüchen gibt.[^1]
 # Weiterführende Literatur
 
 * [Stakeholder-Management - Möglichkeiten des Umgangs mit Anspruchsgruppen](https://www.ssoar.info/ssoar/handle/document/36221)
+* [Stakeholder-Management als Grundlage der Unternehmenskommunikation](https://link.springer.com/chapter/10.1007/978-3-8349-9164-5_3)
 
 # Quellen
 
