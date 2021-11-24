@@ -40,44 +40,35 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Verschiedene Bezeichnungen und verwandte Methoden
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Die Negativkonferenz wird in der Literatur auch als "Umkehrdiagramm" bezeichnet und weist eine gewisse Ähnlichkeit zur sogenannten "Flip-Flop-Technik" oder "Kopfstandtechnik" auf. Bei dieser Technik wird die relevante Aufgabenstellung umgekehrt und von der anderen Seite betrachtet. Wenn die Aufgabenstellung zum Beispiel die Verbesserung der aktuellen Maschinen ist, dreht die Kopfstandtechnik diese um und sucht nach möglichen Wegen, die Maschinen zu verschlechtern. Durch das Umkehren der Erkenntnisse darüber, wie man etwas verschlechtern kann, ist es nun wiederum möglich, zu neuen Verbesserungsideen zu gelangen.
 
 ![Beispielabbildung](Negativkonferenz/test-file.jpg)
 
-*lustiges Testbild*
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Negativkonferenz als Umkehrung des Brainstormings
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Das Brainstorming ist bekannt als Methode zur Ideenfindung, die zeiteffizient zur Schaffung von Lösungsansätzen und neuen Ideen in einer Gruppe von Menschen beiträgt.
+Die Negativkonferenz wirft dieses Konzept auf den Kopf. Die Teilnehmer suchen nun nicht mehr nach Ansätzen und Ideen, sondern nach Problemen.
+Mögliche Probleme eines bestimmten Sachverhalts werden gesammelt und dokumentiert, um daraus negative Szenarien zu entwickeln, für die in einem weiteren Schritt der Ideenfindung erneut Kreativitätstechniken wie Brainstorming oder Mindmapping angewendet werden können, um ganz neue Lösungen und Ideen zu erarbeiten.
+Dabei darf auch gerne übertrieben werden.
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
+## Anwendungsbeispiel
+
+Wenn es zum Beispiel darum geht, einen groben Plan für das Aussehen einer Website zu gestalten, dann wird nicht nach tatsächlichen Gestaltungsideen wie das Einfügen von Bildern oder Nutzerinteraktionen gesucht, sondern nach Problemen die durch die Gestaltung einer solchen Website auftreten können. 
+
+|    Probleme   |Resultierende Gesichtspunkte/Fragestellungen|
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Der Nutzer findet sich nicht gut auf der Website zurecht  |Wie lässt sich eine gute Nutzbarkeit der Website erreichen? |
+| Die Seite kann nicht auf allen Endgeräten richtig dargestellt werden  |Wie kann sichergestellt werden, dass die Seite auf allen Geräten abgerufen werden kann?|
+|Der Kunde könnte durch unattraktives Design abgeschreckt werden|Wie lässt sich eine Website attraktiv gestalten?|
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Durch Bearbeitung dieser Punkte können nun neue Ideen und Lösungen erarbeitet werden.
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
