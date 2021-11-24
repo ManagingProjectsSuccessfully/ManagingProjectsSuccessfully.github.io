@@ -11,11 +11,11 @@ anrechnung: k
 Eine Stakeholderanalyse hat das Ziel die Interessensgruppen eines Projekts und deren Einfluss auf Entscheidungen zu identifizieren. Hierbei werden die Stakeholder zueinander in Beziehung gesetzt und kategorisiert. Somit können Sie durch Strategien gezielt gesteuert und in eine gewollte Richtung gelenkt werden.
 Kurzbeschreibung zu Stakeholderanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht [^1][^2].
 
-# Hintergrund
+## Hintergrund
 
-Der Begriff Stakeholder (Verlinkung) beschreibt in diesem Sinne ein direktes Interesse an einem Projekt von einzelnen Personen, Gruppen, Unternehmen oder Vereinigungen. Viele Stakeholder wollen bei den Verläufen von Projekten mitsprechen und so ihre Belange zu Ihrem Vorteil durchsetzen [^3].
+Der Begriff [Stakeholder](Stakeholder.md) beschreibt in diesem Sinne ein direktes Interesse an einem Projekt von einzelnen Personen, Gruppen, Unternehmen oder Vereinigungen. Viele Stakeholder wollen bei den Verläufen von Projekten mitsprechen und so ihre Belange zu Ihrem Vorteil durchsetzen [^3].
 
-Stakeholder können in intern und extern gegliedert werden. Nachfolgend sind einige Beispiele von möglichen Stakeholdern aufgezählt:
+Stakeholder können in intern und extern gegliedert werden. Nachfolgend sind einige Beispiele von möglichen Stakeholdern aufgezählt [^4]:
 
 * Konkurrenten
 *	Umweltverbände
@@ -27,7 +27,7 @@ Stakeholder können in intern und extern gegliedert werden. Nachfolgend sind ein
 *	Investoren
 *	Kunden
 
-
+Die Notwendigkeit eines [Stakeholdermanagements](Stakeholdermanagement.md) ist essenziell. Ein ungeplantes Einschreiten bzw. ein nicht erwartetes Handeln von Stakeholdern kann Projekte in zeit- und kostentechnischer gefährden, wenn nicht sogar zum Scheitern bringen. Daher ist es das oberste Ziel des Stakeholdermanagements, die Stakeholder einzuschätzen, zu kontrollieren und eine Akzeptanz für das Projekt zu schaffen. Aus diesem Grund ist eine umfangreiche Analyse der Interessensgruppen und deren Einstellungen zu gewissen Themen unabdingbar. Dies geschieht anhand einer Stakeholderanalyse. 
 
 
 
@@ -101,5 +101,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: [www.controlling-wiki.de](https://www.controlling-wiki.com/de/index.php/Stakeholderanalyse)
 [^2]: [wwww.betriebswirtschaft-lernen.net](https://www.betriebswirtschaft-lernen.net/erklaerung/stakeholderanalyse/)
 [^3]: [www.projektmanagement-manufaktur.de](https://projektmanagement-manufaktur.de/stakeholderanalyse)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^4]: [www.strategische-wettbewerbsbeobachtung.com](https://www.strategische-wettbewerbsbeobachtung.com/wiki/stakeholderanalyse/)
+[^5]: [www.strategische-wettbewerbsbeobachtung.com](https://www.strategische-wettbewerbsbeobachtung.com/wiki/stakeholderanalyse/)
