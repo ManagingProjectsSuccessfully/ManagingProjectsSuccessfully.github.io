@@ -26,45 +26,35 @@ die in Arbeitspaketen beschriebene Aufgaben tatsächlich ausführen. [^2]
 
 Projektmitarbeiter haben Verantwortung gegenüber dem Projektleiter für die ihnen übertragene Teilprojekte oder Arbeitspakete.[^1]
 
-In der Folgende Abbildung sind Rollen von Projektmitarbeiter gezeigt. [^3]
+*In der Folgende Abbildung sind Rollen von Projektmitarbeiter gezeigt.* [^3]
 ![image](https://user-images.githubusercontent.com/92817695/142926386-c6e8bba3-c7f9-48c1-9b8c-9afc2c1b4a35.png)
 
 
 
 
-**Projektmitarbeiter als das Mitglied des Projektteams**
+**Projektmitarbeiter als die Mitglieder des Projektteams**
 
 Projektmitarbeiter sind häufig Mitglied in einer Projektgruppe oder in einer Arbeitsgruppe. Besonders bei kleinen Projekten können sie auch zum
 Projektteam oder Projektkernteam gehören.[^4]
+Dabei unterscheidet man das Projektkernteam, das aus dem Projektleiter und der Projektgruppe, die für die Projektdurchführung zuständig sind.
+Die Arbeitsgruppe besteht aus dem Kernteam und den weiteren Personen, die nur für bestimmte Aufgaben oder Phase im Projekt beauftragt werden.
+Hier kann man zwischen die permanenten Mitarbeiter, die ständig im Projekt arbeiten und zum Projektteam gehören und temporären Mitarbeiter, die als
+Fachspezialisten gelten und nicht für die gesamte [Dauer](https://www.inloox.de/projektmanagement-glossar/dauer/) des Projekts beteiligt werden, unterscheiden.
+Die Mitglieder des Kerteams können auch bestimmen, wer als Sprecher gegenüber Vorgestzter des Projekts gelten wird.[^5]
 
 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+*Die Tabelle zeigt die Unterschiede zwischen dem Kernteam und dem Fachteam.*[^6]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-|               |               |
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+| Kernteam                    | Fachteam      |
+| -------------               | ------------- |
+| "Ünterstützung des Projektleiters in der Feststellung des Projektfortschritts, in der Vorbereitung von Entscheidungen in der Ausarbeitung von Lösungsalternativen"              | "Unterstützung des Projektes bei der Erbeitung der für die Zielerreichung notwendingen Lösungen"  |
+| "verantwortlich für die Umsetzung der Arbeitspakete"               | "verantwortlich für die folgenden Aufgaben für das Projekteam"  | 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
@@ -81,4 +71,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: (https://www.guteprojekte.ch/rollen/projektmitarbeiter)
 [^3]: (https://projektmanagement24.de/rolle-projektmitarbeiter-im-projekt)
 [^4]: (https://www.projektmagazin.de/glossarterm/projektmitarbeiterin)
-
+[^5]: (https://www.inloox.de/projektmanagement-glossar/projektmitarbeiter-in/)
+[^6]: (https://wiki.de.it-processmaps.com/index.php/Checkliste_Projektmanagement_-_Projekt-Organisation)
