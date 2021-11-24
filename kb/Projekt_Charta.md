@@ -139,24 +139,22 @@ Eine Projekt Charta ist ein Dokument, das eine Übersicht über das Projekt vers
 
 # Quellen
 
-[^1]: [A](https://www.kvp.de/wp-content/uploads/2017/07/methodenblatt-project-charter.pdf) 
+[^1]: [www.kvp.de](https://www.kvp.de/wp-content/uploads/2017/07/methodenblatt-project-charter.pdf) 
 
-[^2]: [B](https://www.wrike.com/de/project-management-guide/faq/was-ist-eine-projektcharta-im-projektmanagement/)
+[^2]: [www.wrike.com](https://www.wrike.com/de/project-management-guide/faq/was-ist-eine-projektcharta-im-projektmanagement/)
 
-[^3]: [C](https://www.springerprofessional.de/die-project-charter-der-projektauftrag/15976004)
+[^3]: [www.springerprofessional.de](https://www.springerprofessional.de/die-project-charter-der-projektauftrag/15976004)
 
-[^4]: [D](https://de.wikipedia.org/wiki/Projektauftrag)
+[^4]: [wikipedia.org](https://de.wikipedia.org/wiki/Projektauftrag)
 
-[^5]: [E](https://blog.minitab.com/de/verwalten-sie-projekte-beginnen-sie-mit-einer-projektcharta)
+[^5]: [/blog.minitab.com](https://blog.minitab.com/de/verwalten-sie-projekte-beginnen-sie-mit-einer-projektcharta)
 
-[^6]: [F](https://asana.com/de/resources/project-charter)
+[^6]: [asana.com](https://asana.com/de/resources/project-charter)
 
-[^7]: [E](https://kissflow.com/project/project-charter/)
+[^7]: [kissflow.com](https://kissflow.com/project/project-charter/)
 
-[^8]: [F](https://youtu.be/qqiqNb16nbI)
+[^8]: [YouTube:alphadiTV](https://youtu.be/qqiqNb16nbI)
 
-[^9]: [G] (https://www.processexcellencenetwork.com/lean-six-sigma-business-performance/articles/5-common-mistakes-in-project-charters)
+[^9]: [www.processexcellencenetwork.com](https://www.processexcellencenetwork.com/lean-six-sigma-business-performance/articles/5-common-mistakes-in-project-charters)
 
-[^10]: [H](https://thedigitalprojectmanager.com/project-charter/)
-
-<!-- https://monday.com/blog/project-management/project-charter-example/ -->
+[^10]: [thedigitalprojectmanager.com](https://thedigitalprojectmanager.com/project-charter/)
