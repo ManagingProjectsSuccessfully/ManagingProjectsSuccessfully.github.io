@@ -149,9 +149,6 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
  
  *Klassisches Kanban Board Beispiel*
  
- https://kanbantool.com/de/kanban-board-beispiele
-
- 
 
 # Siehe auch
 
@@ -173,13 +170,12 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
 [^3]: [Was ist eine Kanban karte?](https://kanbanize.com/de/kanban-ressourcen/kanban-erste-schritte/was-ist-kanban-karte)
 [^4]: [Kanban Board Bestandteile](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
 [^5]: [Die Anwendung von Task Boards](https://www.youtube.com/watch?v=yW28P8MwCr4)
-[^6]: [Klassisches Kanban Board]
-(https://www.istockphoto.com/de/vektor/scrum-management-board-workflow-projekt-auf-tablet-pc-vektor-illustration-gm1206234325-347809570)
+[^6]: [Klassisches Kanban Board](https://www.istockphoto.com/de/vektor/scrum-management-board-workflow-projekt-auf-tablet-pc-vektor-illustration-gm1206234325-347809570)
 [^7]: [Prinzipien Kanban](https://www.pinkuniversity.de/kanban-methode/)
 [^8]: [Beispiele Kanban Boards](https://kanbantool.com/de/kanban-board-beispiele)
 [^9]: [Organisationsmethoden](https://utopia.de/ratgeber/kanban-board-system-praktische-beispiele-und-tipps/)
 [^10]: [Kanban Board in der Software Entwicklung](http://edutechwiki.unige.ch/en/Kanban_board)
 [^11]: [Ein familien Kanban Board](http://edutechwiki.unige.ch/en/Kanban_board)
-[^12]: [Klassisches Kanban Board Beispiel] (https://kanbantool.com/de/kanban-board-beispiele)
+[^12]: [Klassisches Kanban Board Beispiel](https://kanbantool.com/de/kanban-board-beispiele)
 
 
