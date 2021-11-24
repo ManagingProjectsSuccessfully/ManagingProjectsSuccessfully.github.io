@@ -29,13 +29,13 @@ Ein Projektmanagementhandbuch beschreibt somit Verfahren und Methoden eines Proj
 
 Ein Projektmanagementhandbuch muss pragmatisch und verständlich gehalten werden, da zu komplizierte und umfassende Handbücher in der Praxis selten angewandt oder akzeptiert werden[^2]. Die Kenntnis über die Existenz eines Projektmanagementhandbuchs in einem Unternehmen sollte vorhanden sein, um Mitarbeiterinnen und Mitarbeiter in das Projektmanagementhandbuch mit einzubinden. Diese Mitwirkung sichert Akzeptanz bei den Projektbeteiligten und erhört auch die Bereitschaft, das Projektmanagementhandbuch anzuwenden. Es gibt Vorlagen für den Aufbau eines Projektmanagementhandbuchs, zu beachten ist, dass diese auf das jeweilige Unternehmen angepasst werden[^5]. 
 
-Mögliche Inhalte eines Projektmanagementhandbuchs sind:
+## Mögliche Inhalte eines Projektmanagementhandbuchs sind:
 
-Projektkriterien: Was ist ein Projekt?
+* Projektkriterien: Was ist ein Projekt?
 
 Nicht jede Aufgabe oder Tätigkeit eines Unternehmens ist ein Projekt. Um erkennen zu können, ob eine Tätigkeit die Aufmerksamkeit eines strukturierten Managements erfordert, sollten diese einige Kriterien erfüllen, um als Projekt angesehen zu werden. Beispielsweise betreten Projekte Neuland, sie arbeiten an Lösungen, die es so noch nicht gibt. Außerdem sind sie zeitlich begrenzt, es gibt also einen Anfang und ein terminlich vereinbartes Ende. Als letztes Beispiel haben Projekte einen einmaligen Charakter und sind nicht für die Reproduktion bereits vorhandener Dinge geeignet. 
 
-Projektarten 
+* Projektarten 
 
 Zwei wesentliche Projektarten sind Entwicklungsprojekte und Veränderungsprojekte.
 Entwicklungsprojekte entwickeln neue Produkte oder Dienstleistungen.
