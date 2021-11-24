@@ -57,7 +57,6 @@ author: anniSc
 | [Drei_Zeiten_Methode](kb/Drei_Zeiten_Methode.md)                                                         | [jsk0lb](https://github.com/jsk0lb)                           |
 | [New_Work](kb/New_Work.md)                                                                               | [up67enyq](https://github.com/up67enyq)                       |
 | [Interne_Synergieeffekte](kb/Interne_Synergieeffekte.md)                                                 | [GiuliaAng](https://github.com/GiuliaAng)                     |
-| [Externe_Synergieeffekte](kb/Externe_Synergieeffekte.md)                                                 | [corinnaneubauer](https://github.com/corinnaneubauer)         |
 | [Aktuelle_Entwicklungen_im_PM](kb/Aktuelle_Entwicklungen_im_PM.md)                                       | [zo54hoko](https://github.com/zo54hoko)                       |
 | [Projektteam_Kultur](kb/Projektteam_Kultur.md)                                                           | [LaHe27](https://github.com/LaHe27)                           |
 | [Triple_Bottomline_Nachhaltigkeit](kb/Triple_Bottomline_Nachhaltigkeit.md)                               | [JaBa3000](https://github.com/JaBa3000)                       |
@@ -162,7 +161,6 @@ author: anniSc
 | [Minimum_Viable_Product](kb/Minimum_Viable_Product.md)                                                   | [charles0209](https://github.com/charles0209)                 |
 | [Methode_des_kritischen_Pfades](kb/Methode_des_kritischen_Pfades.md)                                     | [ChristinaHartung](https://github.com/ChristinaHartung)       |
 | [Machbarkeit](kb/Machbarkeit.md)                                                                         | [ninaporwik](https://github.com/ninaporwik)                   |
-| [Leuchtturmprojekt](kb/Leuchtturmprojekt.md)                                                             | [LucaH12](https://github.com/LucaH12)                         |
 | [Matrix_Projektorganisation](kb/Matrix_Projektorganisation.md)                                           | [SeanTR0497](https://github.com/SeanTR0497)                   |
 | [Eskalationsstufen](kb/Eskalationsstufen.md)                                                             | [annaflbr](https://github.com/annaflbr)                       |
 | [Vom_Mythos_des_Mann_Monats](kb/Vom_Mythos_des_Mann_Monats.md)                                           | [nrivo](https://github.com/nrivo)                             |
@@ -313,7 +311,6 @@ author: anniSc
 | [Global_Project_Management_Survey](kb/Global_Project_Management_Survey.md)                               | [danielleilei](https://github.com/danielleilei)               |
 | [Social_Media_Einsatz](kb/Social_Media_Einsatz.md)                                                       | [danielleilei](https://github.com/danielleilei)               |
 | [Machine_Learning_im_Projektmanagement](kb/Machine_Learning_im_Projektmanagement.md)                     | [phiLippFAU](https://github.com/phiLippFAU)                   |
-| [Leadership_Canvas](kb/Leadership_Canvas.md)                                                             | [phiLippFAU](https://github.com/phiLippFAU)                   |
 | [Customer_Experience](kb/Customer_Experience.md)                                                         | [ga88maby](https://github.com/ga88maby)                       |
 | [Netzplantechnik](kb/Netzplantechnik.md)                                                                 | [On11ybid](https://github.com/On11ybid)                       |
 
