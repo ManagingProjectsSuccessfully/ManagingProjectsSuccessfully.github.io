@@ -13,7 +13,7 @@ Broy und Kuhrmann[^110] definieren den Begriff Vorgehensmodell folgendermaßen:
 >"Ein Vorgehensmodell beschreibt systematische, ingenieurmäßige und quantifizierbare Vorgehensweisen, um Aufgaben einer bestimmten
 Klasse wiederholbar zu lösen."[^110]
 
-Vorgehensmodelle sind dabei von Methoden zu unterscheiden. In einem Vorgehensmodell können verschiedene Methoden angewandt werden,[^110] die durch das Vorgehensmodell vorgegeben sein können.[^30] Abbildung 1 zeichnet einen Überblick über Bestandteile eines Vorgehensmodells.
+Vorgehensmodelle sind dabei von [Methoden](Methoden.md) zu unterscheiden. In einem Vorgehensmodell können verschiedene Methoden angewandt werden,[^110] die durch das Vorgehensmodell vorgegeben sein können.[^30] Abbildung 1 zeichnet einen Überblick über Bestandteile eines Vorgehensmodells.
 
 ![Bestandteile eines Vorgehensmodells](Vorgehensmodelle/Bestandteile_eines_Vorgehensmodells.png)
 Abbildung 1: Bestandteile eines Vorgehensmodells[^90]
@@ -33,9 +33,8 @@ Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
 |                         |                                                     |empirisch           |                  |                     |                   |
 
 ## Klassische Vorgehensmodelle
-Klassische Vorgehensmodelle sind Phasenmodelle und beschreiben ein sequentielles Vorgehen. Das bedeutet, dass das Projekt in Phasen gegliedert ist, welche nacheinander ablaufen. "Jede dieser Phasen bündelt dabei eine Reihe von Aktivitäten, welche vollständig und in der richtigen Reihenfolge durchzuführen sind."[^90] Eine Phase muss dabei abgeschlossen sein, bevor eine nächste beginnt. Sie werden auch lineare Vorgehensmodelle genannt. [^30]
+Klassische Vorgehensmodelle, auch lineare Vorgehens- oder Phasenmodelle[^30] genannt, bestehen aus nacheinander abfolgenden Phasen. Ein solches Vorgehen wird als sequentiell[^20][^80] bezeichnet. "Jede dieser Phasen bündelt dabei eine Reihe von Aktivitäten, welche vollständig und in der richtigen Reihenfolge durchzuführen sind."[^90] Zum Abschluss einer Phase wird meist ein [Meilenstein](Meilensteine.md) erzeugt.
 Der wohl geläufigste Vertreter klassischer Vorgehensmodelle ist das [Wasserfallmodell](Wasserfall_Modell.md). Weitere bekannte Beispiele sind das [V-Modell XT](VModell)[^80] und Rational Unified Process[^40][^70].
-
 
 ![Schema eines Phasenkonzepts](Vorgehensmodelle/Schema_eines_Phasenkonzepts.png)
 Abbildung: Schema eines Phasenkonzepts [^120]
@@ -61,7 +60,7 @@ Abbildung: Konzept des Spiralmodells [^90]
 Agile Vorgehensmodelle können auch eingesetzt werden, wenn die genaueren Anforderungen zu Beginn noch nicht feststehen.[^120] Sie eignen sich daher besonders für komplexe Aufgabenstellungen in Umgebungen mit stetigen Veränderungen,[^120] sofern das Projektergebnis sich sinnvoll in Teilabschnitte auftrennen lässt. [^100][^90]
 
 ## Weitere Vorgehensmodelle
-Es ist möglich klassische und agile Herangehensweise zu kombinieren, beispielsweise indem ausgewählte Projektphasen oder Teilprojekte eines klassischen Vorgehensmodells agil durchgeführt werden. Solche Kombinationen werden auch als hybride Vorgehensmodelle bezeichnet. [^120]
+Es ist möglich klassische und agile Herangehensweise zu kombinieren, beispielsweise indem ausgewählte Projektphasen oder Teilprojekte eines klassischen Vorgehensmodells agil durchgeführt werden. Solche Kombinationen werden auch als [hybride](Hybrides_Projektmanagment.md) Vorgehensmodelle bezeichnet. [^120]
 Als eigene Art von Vorgehensmodellen wird zusätzlich häufig Prototyping aufgeführt. Es ähnelt dem agilen Vorgehen, da das Endergebnis ebenfalls durch schrittweises Ausbauen eines hier Prototyps entsteht. Der Prototyp besitzt dabei früh ausgewählte oder kritische Funktionen, um ein Testen in realisitischer Umgebung zu ermöglichen. [^110]
 
 # Weiterführende Literatur
