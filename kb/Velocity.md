@@ -45,7 +45,7 @@ auch das Projekt erfolgreich abgeschlossen werden.
 
 # Weiterführende Literatur
 
-*https://agilemanifesto.org/iso/de/manifesto.html
+*[Agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html)
 
 # Quellen
 
