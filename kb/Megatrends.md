@@ -17,7 +17,7 @@ Schon im Jahr 2020 hat sich der Covid-19-Virus angefangen zu verbreiten und ver�
 
 Das Eis überall auf der Welt schmilzt permanent weiter. Der Meeresspiegel, die Temperatur der Ozeane und der Erde steigen kontinuerlich, wodurch die Artenvielfalt immer mehr schrumpft. Der Klimawandel hat sehr viele negative Folgen, die dringend reduziert werden müssen. 
 
-Nachfolgende Abbildung zeigt, dass ein sehr großer Teil des CO2-Ausstoßes  durch die Industrie hervorgerufen wird.Deswegen müssen unbedingt auch die Projektmanager sich mit der Reduzierung des CO2-Ausstoßes auseinandersetzen.
+Nachfolgende Abbildung zeigt, dass ein sehr großer Teil des CO2-Ausstoßes  durch die Industrie hervorgerufen wird. Deswegen müssen unbedingt auch die Projektmanager sich mit der Reduzierung des CO2-Ausstoßes auseinandersetzen.
 
 ![Abbildung](https://github.com/SaskiaHe/ManagingProjectsSuccessfully.github.io/blob/cd402f9fcec0d79f1cf0a51ff1efcfedb74b8ab9/kb/Megatrends/Co2%20aussto%C3%9F.jpeg) [^3]
 
@@ -25,12 +25,12 @@ Dies wirkt sich auf den gesamten Projektablauf aus. Unternehmen müssen versuche
 
 ## 3. Bürger- und Gleichstellungsbewegungen [^1]
 
-In den letzten Jahren hat die Anzahl an Demonstrationen zugenommen. Es wurde vor allem gegen Polizeigewalt, gegen Rassismus und für eine Gleichstellung der Geschlechter protestiert. Dieses Thema rückte mehr und mehr in den Vordergrund. Unternehmen können dies nun nicht mehr stillschweigend betrachten, sondern müssen darauf reagieren.  In Deutschland gibt es seit März 2015 ein Gesetzt [^4], dass eine 30%ige Frauenquote in Aufsitzräten vorschreibt. Um diesen Bewegungen entgegenzuwirken, müssen in allen Bereichen eines Unternehmens öfter Frauen, Menschen mit Behinderung oder mit Migrationshintergrund eingestellt werden. Dies kann auch bei den Positionen als Teilprojektverantwortliche oder als Arbeitspaketverantwortliche berücksichtigt werden.
+In den letzten Jahren hat die Anzahl an Demonstrationen zugenommen. Es wurde vor allem gegen Polizeigewalt, gegen Rassismus und für eine Gleichstellung der Geschlechter protestiert. Dieses Thema rückte mehr und mehr in den Vordergrund. Unternehmen können dies nun nicht mehr stillschweigend betrachten, sondern müssen darauf reagieren.  In Deutschland gibt es seit März 2015 ein Gesetzt [^4], dass eine 30%ige Frauenquote in Aufsichtsräten vorschreibt. Um diesen Bewegungen entgegenzuwirken, müssen in allen Bereichen eines Unternehmens öfter Frauen, Menschen mit Behinderung oder mit Migrationshintergrund eingestellt werden. Dies kann auch bei den [Positionen als Teilprojektverantwortliche oder als Arbeitspaketverantwortliche](Action_Points.md) berücksichtigt werden.
 
 
 ## 4. Veränderliche Globalisierungsdynamik [^1]
 
-Arbeitskräfte in den Schwellen- und Entwicklungsländern sind günstiger als in den Industrieländern. Da Länder, wie Indien und China, sehr früh in den Dienstleistungssektor der Industrieländer eingestiegen sind, blieb die eigene Industrialisierung auf der Strecke. Um diesen Ländern dabei zu helfen, sind Projekte mit sozialen Auswirkungen wichtig. Organisationen erarbeiten eigene Projekte, wie Brunnenbau und Bewässerung in Schwellenländern und helfen so auf doppelte Weise. Sie schaffen Arbeit und helfen gleichzeitig den Ländern. 
+Arbeitskräfte in den Schwellen- und Entwicklungsländern sind günstiger als in den Industrieländern. Da Länder, wie Indien und China, sehr früh in den Dienstleistungssektor der Industrieländer eingestiegen sind, blieb die eigene Industrialisierung auf der Strecke. Um diesen Ländern dabei zu helfen, sind "Projekte mit sozialen Auswirkungen"[^8] wichtig. Organisationen erarbeiten eigene Projekte in Schwellenländern und helfen so auf doppelte Weise. Sie schaffen Arbeit und helfen gleichzeitig den Ländern. 
 
 ## 5. [Digitalisierung](Digitalisierung_im_PM.md) und Datenmengen [^5][^1]
 
@@ -63,6 +63,7 @@ Folgende Grafik zeigt wie die Datenmengen weltweit wachsen. Die Daten werden hie
 [^5]: https://www.theprojectgroup.com/blog/projektmanagement-trends/
 [^6]: https://www.appdated.de/2020/09/wie-viel-sind-1gb-datenvolumen-und-was-kann-man-alles-damit-machen/
 [^7]: https://www.iwd.de/artikel/die-datenwolke-wird-groesser-397266/
+[^8]: https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pmi-megatrends-2021.pdf?v=98673338-4401-43f3-b220-aef09ae15c12&sc_lang_temp=de-DE (S.15)
 
 
 
