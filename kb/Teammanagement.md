@@ -22,7 +22,7 @@ Was fördert effektives Teammanagement und was sind dessen Ziele?[^1]
 
 * Steigerung der Produktivität
 * Besserer Output  
-* Geschwindigkeitserhöhung durch [Arbeitsteilung](Arbeitsteilung.kb)
+* Geschwindigkeitserhöhung durch [Aufgabenteilung](Aufgabenteilung.kb)
 * Effektiveres [Konfliktmanagement](Konfliktmanagement.kb) 
 * Hochleistungen
 * Verbesserung der Kommunikation im Team
