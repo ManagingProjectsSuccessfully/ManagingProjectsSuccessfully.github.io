@@ -39,7 +39,7 @@ Mögliche Gründe für diese hohe Misserfolgsquote können sehr vielseitig sein 
 
 # Die gängigsten Arten von Projektberatung
 
-Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe, die von sehr vielen Einflussfaktoren und Ereignissen im Markt abhängen. Beispiele hierfür sind der Marktgegebenheiten, Kunden, politische Einschränkungen oder auch die organisatorische Struktur der Firma. Aufgrund dieser multidimensionalen und individuellen Einflussgrößen haben sich verschiedene Projektberatungs-Varianten mit unterschiedlichen Charakteristika entwickelt, die sehr häufig als unterstützende Kraft in Projekten eingesetzt werden. Diese werden regelmäßig im Rahmen der individuellen Personalentwicklung im Unternehmen eingebunden[^6]:
+Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe, die von sehr vielen Einflussfaktoren und Ereignissen im Markt beeinflusst werden. Beispiele hierfür sind der Marktgegebenheiten, Kunden, politische Einschränkungen oder auch die organisatorische Struktur der Firma. Aufgrund dieser multidimensionalen und individuellen Einflussgrößen haben sich verschiedene Projektberatungs-Varianten mit unterschiedlichen Charakteristika entwickelt, die sehr häufig als unterstützende Kraft in Projekten eingesetzt werden. Diese werden regelmäßig im Rahmen der individuellen Personalentwicklung im Unternehmen eingebunden[^6]:
 
 
 |  Projekt-Coaching  |  Projekt-Mentoring  | 
@@ -64,7 +64,10 @@ Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe,
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* https://www.youtube.com/watch?v=VAwsKe5XAVc
+* https://www.batten-company.com/?gclid=CjwKCAiA4veMBhAMEiwAU4XRr4HcfWWpBqhHlTP_sLleeP7K3fTWbf9udz9ADinc7GueVmUTPaBK5BoCGJ4QAvD_BwE
+* https://tarcus.com/projektmanagement/projektberatung/
+* https://axis.de/de/main-de/leistungen/projektberatung-und-projektmanagement.html
 
 # Quellen
 
