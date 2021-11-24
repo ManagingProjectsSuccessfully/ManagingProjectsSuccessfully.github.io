@@ -19,16 +19,7 @@ Zu unterscheiden sind Methoden von Methodiken.[^7] Per definitionem ist eine Met
 
 Im klassischen oder auch traditionellen Projektmanagement werden Aktivitäten und Abläufe im Vornherein genau geplant und dokumentiert. Die Projektdurchführung sollte abgesehen von kleinen Änderungen möglichst genau an diesen vorgefertigten Plänen angelehnt sein. Dadurch ergeben sich entsprechende Methoden, die einzelne Elemente des Projektes wie Phasen, Meilensteine und Inhalte festlegen. Typische Methoden sind dabei [Netzplantechnik](Netzplantechnik.md), [Meilensteintrendanalyse](Meilensteintrendanalyse.md), [Projektstrukturplanung](Projektstrukturplan.md) und die Erstellung eines [Gantt-Charts](Gantt_Diagramme.md).[^7]
 
-## Netzplantechnik
-Die Netzplantechnik dient, meistens als Softwareprogramm, zur Unterstützung der zeitlichen und organisatorischen Planung von Projekten.[^8]
-Mit dessen Hilfe kann der Ablauf eines Projekts sinnvoll strukturiert werden. Konkret werden verschiedene Aktivitäten als Kästen dargestellt und in der zu bearbeitenden Reihenfolge miteinander verbunden.[^9]
 
-## Meilensteintrendanalyse
-Mit der Meilensteintrendanalyse können Termine prognostiziert und gesteuert werden. Vorher dokumentierte Meilensteine werden hierbei auf Erreichen überprüft.[^11]
-
-## Projektstrukturplanung
-
-## Gantt-Chart
 
 
 
@@ -37,26 +28,11 @@ Mit der Meilensteintrendanalyse können Termine prognostiziert und gesteuert wer
 Mit Hilfe von agilem Projektmanamement ist es möglich, sich laufend an verändernde Umstände anzupassen und somit flexibel zu sein und schnell auf bestimmte Situationen zu reagieren.[^10] Gerade die Anpassungsfähigkeit dieser Art des Projektmanagements macht es in der modernen Zeit zu einem sehr beliebtem Instrument.[^7] Dabei ist diese Bezeichnung jedoch eher ein Oberbegriff für die Anwendung verschiedener agiler Vorgehensweisen und Methoden.[^10]
 [Backlog-Management](), [Kanban-Board](Kanban_Boards.md), [Daily Scrum](Daily_Scrum.md) und das [Sprint Review](Sprint_Review.md) sind typische Methoden für das agile Projektmanagement.[^7]
 
-## Backlog-Management
-## Kanban-Board
-## Daily Scrum
-Daily Scrum bezeichnet ein kurzes tägliches Meeting des Entwicklerteams, welches möglichst immer zur gleichen Zeit und an demselben Ort stattfindet und von einem Scrum Master geleitet wird. Die Ergebnisse werden auf einem Task Board festgehalten. Es wird besprochen, welche Aufgaben einzelne Projektmitglieder am Tag zuvor beendet haben, welche für den aktuellen Tag anstehen und welche Fragen und Probleme entstehen können sowie passene Ansprechpersonen.[^6]
-
-## Sprint Review
 
 
 
 # Allgemein nutzbare Methoden
 Oft genutzte Methoden sind [Stakeholderanalyse](Stakeholderanalyse.md), [Risikoanalyse](Risikoanalyse_und_Visualisierung.md), [Business Case](Business_Cases.md), ABC-Analyse, Plan-Ist-Vergleich, [Project Canvas](Project_Canvas.md) und die Kommunikationsmatrix.[^7]
-
-## Stakeholderanalyse
-## Risikoanalyse
-## Business Case
-## ABC-Analyse
-## Plan-Ist-Vergleich
-## Project Canvas
-## Kommunikationsmatrix
-
 
  
 ## Softskill-Management in Projekten
@@ -69,10 +45,12 @@ Für ein effizientes Selbstmanagement werden Techniken wie [Pomodoro](Pomodoro.m
 Dem Projektleiter stehen verschiedene Mittel zur Verfügung, um die Kommunikation in der Gruppe zu verbessern und die Teammitglieder anzuführen. Es können Feedback-Gespräche(Feedbackgespräche.md), richtiges Delegieren und Teambuilding verwendet werden. 
 
 
+
 ### Kreativitätsmethoden
 
 Kreativitätsmethoden dienen im Allgemeinen dazu, innovative Ideen zu sammeln. 
 Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapping.md) und die [Walt-Disney-Methode](Walt_Disney_Methode.md).[^7]
+
 
 
 
@@ -100,26 +78,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 7. nummerierte liste
    1. und hier eine Ebene tiefer
 
-
-So kann man eine Tabelle erstellen:
+Tabelle:
 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
-
-Beispieltext:
-Literatur kann via Fußnoten angegeben werden[^111]. Es gibt auch das PMBOK[^222].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^333] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^444].
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz.
 
 
 
