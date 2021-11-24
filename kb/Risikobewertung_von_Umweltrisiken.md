@@ -46,15 +46,15 @@ Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten
 
 # Weiterführende Literatur
 
-* [Nachhaltigkeit und Umweltrisiken](https://home.uni-leipzig.de/energy/energie-grundlagen/18.html)
 * [Analyse und Beurteilung von betrieblichen Umweltrisiken](http://www.uni-kassel.de/upress/online/frei/978-3-933146-09-0.volltext.frei.pdf)
 * [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md)
+* [Nachhaltigkeit und Umweltrisiken](https://home.uni-leipzig.de/energy/energie-grundlagen/18.html)
 
 
 # Quellen
 
-[^1]: https://www.business-wissen.de/hb/ziele-und-aufgaben-des-risikomanagements-im-unternehmen/ 
-[^2]: https://de.wikipedia.org/wiki/Umweltrisikomanagement#Allgemeines 
-[^3]: https://www.biologie-seite.de/Biologie/Umweltrisikomanagement 
+[^1]: [Risikoarten](https://www.business-wissen.de/hb/ziele-und-aufgaben-des-risikomanagements-im-unternehmen/)
+[^2]: [Interne und Externe Umweltrisiken](https://de.wikipedia.org/wiki/Umweltrisikomanagement#Allgemeines) 
+[^3]: [Bewertung von Umweltrisiken](https://www.biologie-seite.de/Biologie/Umweltrisikomanagement) 
 
 
