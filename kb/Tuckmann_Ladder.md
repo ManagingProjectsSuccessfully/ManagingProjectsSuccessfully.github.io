@@ -32,17 +32,12 @@ fortsetzen, da die zuvor etablierten Gruppenprozesse nicht mehr reibungslos funk
 
 ## Norming: die Organisationsphase
 
-Wenn die Mitglieder die "Storming"-Phase hinter sich gelassen haben, akzeptieren sie sich gegenseitig mehr und beginnen, sich auf gemeinsame Ziele zu konzentrieren. In der
-"Norming"-Phase werden zwischenmenschliche Differenzen abgebaut, und die Mitglieder suchen nun aktiv nach gegenseitiger Unterstützung, um auf ein gemeinsames Ziel hinzuarbeiten.
-Das Team ist in der Lage effektiv mit konstruktivem Feedback zu arbeiten, da sich die Mitglieder mit den Teamabläufen vertraut gemacht haben und neuer Aufgaben bewältigen
-können. Da diese neuen Aufgaben oft mit einem hohen Schwierigkeitsgrad verbunden sind, ist es nicht ungewöhnlich, dass Gruppen wieder in die Storming-Phase zurückfallen[^1]. 
+Wenn die Mitglieder die "Storming"-Phase hinter sich gelassen haben, akzeptieren sie sich gegenseitig mehr und beginnen, sich **auf gemeinsame Ziele zu konzentrieren**. In der
+"Norming"-Phase werden zwischenmenschliche Differenzen abgebaut, und die Mitglieder suchen nun aktiv nach **gegenseitiger Unterstützung**, um auf ein gemeinsames Ziel hinzuarbeiten. Das Team ist in der Lage effektiv mit **konstruktivem Feedback** zu arbeiten, da sich die Mitglieder mit den Teamabläufen vertraut gemacht haben und neuer Aufgaben bewältigen können. Da diese **neuen Aufgaben** oft mit einem hohen Schwierigkeitsgrad verbunden sind, ist es nicht ungewöhnlich, dass Gruppen wieder in die Storming-Phase zurückfallen[^1]. 
 
 ## Performing: die Leistungsphase
 
-In der Durchführungsphase konzentrieren sich alle Mitglieder gemeinsam auf die Erledigung der Aufgabe und sind nun in der Lage, effektiv zu kommunizieren. In dieser Phase ist
-die Leistung Ihres Teams so hoch wie nie zuvor. Dieses hohe Leistungsniveau bedeutet, dass alle Teammitglieder selbständig sind und so viel Vertrauen in ihre eigenen
-Problemlösungsfähigkeiten haben, dass sie ohne Aufsicht durch die Leiter funktionieren können. Alle arbeiten wie eine gut geölte Maschine, konfliktfrei und synchron auf ein
-gemeinsames Endziel hin[^5].
+In der Durchführungsphase konzentrieren sich alle Mitglieder gemeinsam auf die **Erledigung der Aufgabe** und sind nun in der Lage, **effektiv zu kommunizieren**. In dieser Phase ist die Leistung des Teams so hoch wie nie zuvor. Dieses **hohe Leistungsniveau** bedeutet, dass alle Teammitglieder selbständig sind und so viel **Vertrauen** in ihre eigenen Problemlösungsfähigkeiten haben, dass sie ohne Aufsicht durch die Leiter funktionieren können. Alle arbeiten wie eine gut geölte Maschine, konfliktfrei und synchron auf ein gemeinsames Endziel hin[^5].
 
 ### Übersicht der ersten vier Phasen
 
@@ -57,8 +52,8 @@ Tabelle 1: Überblick der Phasen Forming, Storming, Norming, Performing [^6]
 
 ## Adjouring: die Auflösungsphase
 
-Die fünfte Phase geht davon aus, dass Projektteams nur für einen bestimmten Zeitraum bestehen; sobald die Aufgabe des Teams erfüllt ist, löst sich das Team selbst auf. 
-Nicht selten wird diese Phase manchmal auch als "Trauerphase" bezeichnet, da die Teammitglieder häufig ein Gefühl des Verlustes empfinden, wenn die Gruppe aufgelöst wird[^5][^7].
+Die fünfte Phase geht davon aus, dass Projektteams nur für einen **bestimmten Zeitraum** bestehen; sobald die Aufgabe des Teams erfüllt ist, löst sich das Team selbst auf. 
+Nicht selten wird diese Phase manchmal auch als **"Trauerphase"** bezeichnet, da die Teammitglieder häufig ein Gefühl des Verlustes empfinden, wenn die Gruppe aufgelöst wird[^5][^7].
 
 
 # Siehe auch
