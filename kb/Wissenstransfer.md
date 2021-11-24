@@ -105,7 +105,7 @@ auch auf das Wissen von Datenbanken zurückzugreifen.[^14][^15]
 # Quellen
 
 [^1]: [Wissenstransfer - Weiterentwicklung durch den Austausch von Wissen](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
-[^2]: [Wissenstransfer - einfach erklärt, YouTube](https://www.youtube.com/watch?v=wlNf-T9LqV0)
+[^2]: [Wissenstransfer - einfach erklärt](https://www.youtube.com/watch?v=wlNf-T9LqV0)
 [^3]: [Der Wissenstransfer in Unternehmen: Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung. Heft 5, 1998, S. 235–252.](https://www.jstor.org/stable/pdf/24183239.pdf?refreqid=excelsior%3A77fd38f51da5a53c7a9dc15276f819f1)
 [^4]: [Phasen Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer)
 [^5]: [Phasenmodell nach Krogh und Köhne](https://www.jstor.org/stable/pdf/24183239.pdf?refreqid=excelsior%3A77fd38f51da5a53c7a9dc15276f819f1)
