@@ -1,6 +1,6 @@
 ---
 title: PRINCE2
-tags: klassisch PRINCE2 Projektmanagement Framework Organisation Grundlagen Themen
+tags: klassisch PRINCE2 Projektmanagement Framework Organisation Projekmanagementmethode Methode
 author: patrick203494
 anrechnung: k
 ---
