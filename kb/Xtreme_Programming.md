@@ -72,7 +72,10 @@ Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeins
 
 ## Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Beck, K. (2004): Extreme Programming explained - Embrace Chance
+* Lippert, M. (2002): Software entwickeln mit eXtreme programming : Erfahrungen aus der Praxis
+* Wolf, H. (2015): Agile Projekte mit Scrum, XP und Kanban
+
 
 ## Quellen
 
