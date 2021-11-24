@@ -19,18 +19,18 @@ Beim **Stakeholder Register** handelt es sich um ein Dokument, welches alle rele
 
 # Erstellung eines Registers
 
-Das *Register* wird früh im Planungsprozess von [Projektleitern](Projektleiter.md) angelegt. Die Erstellung eines Registers erfolgt in drei Schritten. [^1] [^2]
+Das *Register* wird früh im Planungsprozess von [Projektleitern](https://github.com/IremAkin/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md) angelegt. Die Erstellung eines Registers erfolgt in drei Schritten. [^1] [^2]
 
 ## 1. Identifizierung der Stakeholder 
 
-Zunächst müssen die Stakeholder ausfindig gemacht werden. Im Team diskutieren die [Projektmitarbeiter](Projektmitarbeiter.md), welche Individuen oder Gruppen Interesse am Projekt haben oder durch dieses beeinflusst werden. 
+Zunächst müssen die Stakeholder ausfindig gemacht werden. Im Team diskutieren die [Projektmitarbeiter](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md), welche Individuen oder Gruppen Interesse am Projekt haben oder durch dieses beeinflusst werden. 
 Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, sodass das Dokument stets auf dem neuesten Stand gehalten werden muss. [^1]
 
 ## 2. Erstellen des Dokuments
 
 Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird häufig *Microsoft Excel* benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt, das Register nach Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2] 
 
-Unabhängig von der Größe des Unternehmens sollte sich jeder Projektleiter aufgrund der Individualität des [Stakeholdermanagements](Stakeholdermanagement.md) selbstständig ein eigenes Register anfertigen. Häufig unterscheiden sich die Kategorien der Tabelle, da von Projekt zu Projekt auf unterschiedliche Sachen Wert gelegt wird.
+Unabhängig von der Größe des Unternehmens sollte sich jeder Projektleiter aufgrund der Individualität des [Stakeholdermanagements](https://github.com/JonathanLoewing/Abgabe.github.io/blob/main/kb/Stakeholdermanagement.md) selbstständig ein eigenes Register anfertigen. Häufig unterscheiden sich die Kategorien der Tabelle, da von Projekt zu Projekt auf unterschiedliche Sachen Wert gelegt wird.
 Allerdings gibt es auch vorgefertigte Entwürfe, an denen sich orientiert werden kann bzw. die übernommen werden können. [^1]
 
 ![Beispiel für ein Register](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")  
@@ -60,20 +60,20 @@ Weitere Leitsätze, die bei der Erstellung des Registers wichtig zu beachten sin
 * *Ständiges Einsehen und Verbessern* des Registers sind wichtig, damit Relevanz und Nutzen beibehalten werden
 * Außerdem sollte das Register *keine sensiblen Informationen* enthalten, welche die Stakeholder schädigen könnten. 
 
-Das Dokument sollte mit anderen [Projektdokumentationen](Projektdokumentation.md) aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein. [^2]
+Das Dokument sollte mit anderen [Projektdokumentationen](https://github.com/nikl9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektdokumentation.md) aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein. [^2]
 
 ## 3. Analyse der Stakeholder
 
-Die [*Stakeholderanalyse*](Stakeholderanalyse.md) ist der wichtigste Prozess im Erstellungsprozess. 
+Die [*Stakeholderanalyse*](https://github.com/DanielLu21/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholderanalyse.md) ist der wichtigste Prozess im Erstellungsprozess. 
 Hier wird das Register mit den nötigen Daten ausgefüllt. Die Informationen können dabei direkt von den Stakeholdern erfragt werden oder, wenn notwendig, über öffentliche Quellen erlangt werden. [^1]
 
 # Vorteile eines Registers
 
-Register spielen eine wichtige Rolle im *Stakeholdermanagement*, da sie jede Menge an Vorteilen in der [Projektplanung](Projektplanung.md) mit sich bringen. 
+Register spielen eine wichtige Rolle im *Stakeholdermanagement*, da sie jede Menge an Vorteilen in der [Projektplanung](https://github.com/MarleneMMeyer/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md) mit sich bringen. 
 
 ## Breite Anwendung
 
-Das Register kann vielseitig eingesetzt werden. Es dient neben der Programm/- und [Projektplanung](Projektplanung.md) zur Teamformung und -entwicklung sowie zum Definieren von Erfolgskriterien, [Projektkommunikation](Projektkommunikation.md), Regierungsführung und Definieren von Aufgaben und Verantwortung. [^1]
+Das Register kann vielseitig eingesetzt werden. Es dient neben der Programm/- und Projektplanung zur Teamformung und -entwicklung sowie zum Definieren von Erfolgskriterien, [Projektkommunikation](https://github.com/LindaStu/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md), Regierungsführung und Definieren von Aufgaben und Verantwortung. [^1]
 
 ## Bessere Kommunikation
 
@@ -85,11 +85,11 @@ Aufgrund der Erstellung des Registers im frühen Projektverlauf, werden durch da
 
 # Siehe auch
 
-* [Projektmanagement](Projektmanagement.md)
-* [Projektdokumentation](Projektdokumentation.md)
-* [Projektkommunikation](Projektkommunikation.md)
-* [Stakeholdermanagement](Stakeholdermanagement.md)
-* [Stakeholderanalyse](Stakeholderanalyse.md)
+* [Projektmanagement](https://github.com/FCN478/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Projektdokumentation](https://github.com/nikl9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektdokumentation.md)
+* [Projektkommunikation](https://github.com/LindaStu/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md)
+* [Stakeholdermanagement](https://github.com/JonathanLoewing/Abgabe.github.io/blob/main/kb/Stakeholdermanagement.md)
+* [Stakeholderanalyse](https://github.com/DanielLu21/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholderanalyse.md)
 
 # Quellen
 
