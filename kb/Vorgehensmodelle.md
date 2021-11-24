@@ -25,8 +25,12 @@ Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
 |                         |                                                     |empirisch           |                  |                     |                 |
 
 ## "Klassische" Vorgehensmodelle
-Klassische Vorgehensmodelle sind Phasenmodelle, die ein sequentielles Vorgehen haben. Eine Phase muss dabei abgeschlossen sein, bevor eine nächste beginnt.[^30] Sie werden auch  "herkömmlich", oder lineare VM genannt.
-Beispiele für klassische VM sind das Wasserfallmodell *Link* oder das V-Modell. **Vorteil** von klassischen VM ist die einfache Struktur [^90], die es schnell ermöglicht. **Nachteil** Auch wenn in Phasenmodellen häufig eine Rückkopplung zwischen benachbarten Phasen möglich ist, also dass bei Probllemen /Änderungen eine Phase zurückgesprungen werden kann, ist ein Zurückspringen zu anfänglichen Phasen schwer
+Klassische Vorgehensmodelle sind Phasenmodelle und beschreiben ein sequentielles Vorgehen. Eine Phase muss dabei abgeschlossen sein, bevor eine nächste beginnt.[^30] Sie werden auch lineare[^30] Vorgehensmodelle genannt. [^30]
+Der wohl geläufigste Vertreter klassischer Vorgehensmodelle ist das [Wasserfallmodell](Wasserfall_Modell.md). Weitere bekannte Beispiele sind das [V-Modell XT](VModell)[^80] und Rational Unified Process[^40][^70].
+
+**Vorteil** von klassischen Vorgehensmodellen ist die einfache Struktur, die 
+
+Beispiele für klassische VM sind das Wasserfallmodell *Link* oder das V-Modell[^80]. **Vorteil** von klassischen VM ist die einfache Struktur [^90], die es schnell ermöglicht. **Nachteil** Auch wenn in Phasenmodellen häufig eine Rückkopplung zwischen benachbarten Phasen möglich ist, also dass bei Probllemen /Änderungen eine Phase zurückgesprungen werden kann, ist ein Zurückspringen zu anfänglichen Phasen schwer
 ## "Agile" Vorgehensmodelle
 Agile VM beruhen auf einem iterativen Vorgehen. Beispeiele für agile Vorgehensmodelle sind Scrum *Link* oder Kanban.
 P.S. Die Bezeichnung "agile" VM wirdist weit verbreitet, doch es gibt auch Literatur, die diesen Begriff extra nicht wählen. Denn agil ist ein größeres Framework/Mindset, und werden nicht  . Aber es gibt dennoch UNterschiede c
