@@ -11,7 +11,7 @@ Action Points, welche auch unter dem Namen Arbeitspaketen bekannt sind, sind die
 # Action Points im Allgemeinen
 
 Gerade in anspruchsvollen Projekten ist es von hoher Priorität, das [Projekt](Projekt.md) zu strukturieren und erfolgreich zu bewältigen. 
-Das Projekt im Ganzen unterteilt sich dabei in mehrere Teilprojekte. Aus den Teilprojekten können wiederum Arbeitspakete gebildet werden. Arbeitspakete beinhalten dabei, ähnlich wie das Hauptprojekt, Kosten- Zeit- und Strukturpläne. 
+Das Projekt im Ganzen unterteilt sich dabei in mehrere Teilprojekte. Aus den Teilprojekten können wiederum Arbeitspakete gebildet werden. Arbeitspakete beinhalten dabei, ähnlich wie das Hauptprojekt, Kosten-, Zeit- und Strukturpläne. 
 Die Arbeitspakete können dabei, je nach Umfang, von mehreren Personen abgearbeitet werden. Diese werden jeweils von einer verantwortlichen Person betreut, die im direkten Kontakt zum Teilprojektleiter steht. Dabei muss von dieser Person Sorge getragen werden, dass die im Vorfeld festgelegten Kosten und Zeiten eingehalten werden.
 
 Die Relevanz von Arbeitspaketen wird dabei oft unterschätzt. Das ganze Projekt kann nur dann erfolgreich abgeschlossen werden, wenn auch alle Arbeitspakete adäquat angegangen werden. Eine besondere Herausforderung stellt dabei oft die Vielzahl von Arbeitspaketen und Teilprojekten dar, die in komplexen Projekten anfallen. Nachfolgendes Bild veranschaulicht die Abhängigkeit der Arbeitspakete hin zum Gesamtprojekt. Hier wird das Arbeitspaket als Puzzle-Teil dargestellt. Fehlt letztendlich ein Arbeitspaket oder ist es unvollständig, hat das Projekt an dieser Stelle ein Loch und kann nicht fertiggestellt werden.[^1]
@@ -42,7 +42,7 @@ Die Grundlage für die Visualisierung des Projektes bildet der Projektstrukturpl
 2. [Bottom up Ansatz](Bottom_Up_Planning.md)
 3. Yo-Yo-Verfahren
 
-Beim Top down Ansatz wird der Projektstrukturplan von Oben nach Unten Aufgebaut. Das Gesamtprojekt wird zuerst in Teilprojekte untergliedert. Aus den Teilprojekten werden letztendlich die Arbeitspakete geschnürt.
+Beim Top down Ansatz wird der Projektstrukturplan von Oben nach Unten aufgebaut. Das Gesamtprojekt wird zuerst in Teilprojekte untergliedert. Aus den Teilprojekten werden letztendlich die Arbeitspakete geschnürt.
 
 Der Bottom Up Ansatz geht genau in umgekehrter Herangehensweise vor. Aus den Arbeitspaketen werden Teilprojekte entworfen. Aus den erstellten Teilprojekten ergibt sich schlussendlich das Gesamtprojekt.
 
