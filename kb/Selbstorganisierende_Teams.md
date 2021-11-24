@@ -50,6 +50,7 @@ Der Weg zu einem erfolgreichen und selbstorganisierenden Team lässt sich in zwe
  
  # Der Unterschied zwischen selbstorganisierenden und traditionellen Teams 
 
+<img src="Selbstorganisierende_Teams/Vergleich von klassischen  und agilen Teams.png" alt="Vergleich von klassischen  und agilen Teams" width="600"/>
 Bild[^4]
 
 # Mögliche Einwände gegen eine Transition 
