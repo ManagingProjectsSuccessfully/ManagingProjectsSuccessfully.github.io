@@ -5,9 +5,10 @@ author: Paulqe42kuno
 anrechnung: k oder a
 ---
 
-[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das soziale Zusammenarbeit sowie die Flexibilität im Arbeitsablauf unterstützt[^1]. Es wird durch das US-amerikanische Softwareunternehmen Citrix-Systems vertrieben[^2]. 
+[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einem Ökosystem von Apps, die sie beliebig auf sich zuschneiden können [^2]. Podio unterstützt soziale Zusammenarbeit sowie das flexible Arbeiten[^1]. Vertrieben wird das Tool durch das US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3]. 
 
 # Geschichte
+
 
 # Kosten
 
@@ -78,7 +79,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: Keiser, B. E. (2014). Tools Will Keep Us Together: Collaboration for Library Teams. Online Searcher, S. 52-57.
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: Citrix Systems. (2021). Podio. Zugriff am 10.11.2021. Verfügbar unter: https://www.citrix.com/products/podio.html.
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^2]: https://www.salesforce.com/de/learning-centre/crm/crm-systems/
+[^3]: Citrix Systems. (2021). Podio. Zugriff am 10.11.2021. Verfügbar unter: https://www.citrix.com/products/podio.html.
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
