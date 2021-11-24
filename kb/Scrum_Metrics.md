@@ -97,7 +97,7 @@ Scrum Metrics werden im laufe eines Scrum Projekts zur Effizienzsteigerung des T
 ---
 ---
 
-# Siehe auch
+# Siehe auch[^6]
 
 Was ist Scrum
 Was sind Key Performance Indicators(KPI's)
