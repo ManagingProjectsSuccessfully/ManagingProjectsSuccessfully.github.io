@@ -11,6 +11,7 @@ Neue Teams :family_man_man_girl_boy: leiden häufig unter Wachstumsschmerzen - d
 
 # Das Tuckman-Modell der Gruppenentwicklung
 ## Von Diskrepanz zum Wir-Gefühl 
+:ng_man::no_good_man: :arrow_right: :people_holding_hands:
 
 
 Der Psychologe Bruce Tuckman entwickelte 1965 sein Gruppenentwicklungsmodell, um zu erklären, wie gesunde Teams mit der Zeit zusammenwachsen. In Tuckmans Modell werden fünf
