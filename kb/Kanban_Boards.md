@@ -56,8 +56,7 @@ Im Klassischen Modell gibt es 3 Spalten:
 * In Arbeit         
 * Erledigt          
 
-<img width="676" alt="Bildschirmfoto 2021-11-24 um 13 39 58" src="https://user-images.githubusercontent.com/92926914/143240403-76170ead-1dc3-4e88-aaad-7973c3fa0431.png"> 
-[^6]
+<img width="676" alt="Bildschirmfoto 2021-11-24 um 13 39 58" src="https://user-images.githubusercontent.com/92926914/143240403-76170ead-1dc3-4e88-aaad-7973c3fa0431.png">[^6]
 
 *Klassisches Kanban Board*
 
@@ -124,14 +123,13 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
   - Erstellung mithilfe von Tools: Trello, Planner, Jira uvm.
 
 
-<img width="588" alt="Bildschirmfoto 2021-11-24 um 15 06 46" src="https://user-images.githubusercontent.com/92926914/143253450-9dc69c01-9dce-4847-b0b8-d46d62b71c6b.png"> 
-[^10]
+<img width="588" alt="Bildschirmfoto 2021-11-24 um 15 06 46" src="https://user-images.githubusercontent.com/92926914/143253450-9dc69c01-9dce-4847-b0b8-d46d62b71c6b.png">[^10]
 
 
 *Kanban Board in der Software Entwicklung*
 
 
-<img width="588" alt="Bildschirmfoto 2021-11-24 um 15 08 46" src="https://user-images.githubusercontent.com/92926914/143253653-fccf0214-efc4-4924-b335-a918886b644f.png"> [^11]
+<img width="588" alt="Bildschirmfoto 2021-11-24 um 15 08 46" src="https://user-images.githubusercontent.com/92926914/143253653-fccf0214-efc4-4924-b335-a918886b644f.png">[^11]
 
 
 *Ein Familien Kanban Board*
