@@ -33,7 +33,7 @@ Eine tatsächliche Austauschbarkeit liegt ausnahmsweise bei denjenigen Aufgaben 
 *Abbildung 1: Arbeitszeit und Arbeitskräfte aufteilbar*[^1]
 
 
-Erfolgt aber eine Aufgabe in einer bestimmten Reihenfolge und ist deshalb nicht aufteilbar, dann hat jede hinzugefügte Anstrengung keinen Einfluss auf die Zeit (Abbildung 2). (QUEEEEEEELLEEEE)
+Erfolgt aber eine Aufgabe in einer bestimmten Reihenfolge und ist deshalb nicht aufteilbar, dann hat jede hinzugefügte Anstrengung keinen Einfluss auf die Zeit (Abbildung 2).[^5]
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Arbeitszeit%20vs.%20Arbeitskräfte%20unteilbar.JPG)
 
@@ -43,9 +43,9 @@ Bei aufteilbaren Aufgaben ist hingegen ein Informationsaustausch notwendig, der 
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Aufgabe%20mit%20Kommunikation.JPG)
 
-*Abbildung 3: Projekt mit Informationsaustausch*[^5]
+*Abbildung 3: Projekt mit Informationsaustausch*[^6]
 
-Beim Informationsaustausch von n Personen sinkt ihr Output mit wachsendem n. Sobald dieser negativ wird, verzögert sich das Projekt mit jeder zusätzlich eingesetzten Person (Abbildung 3).Dabei ist die Anzahl der Kommunikationsbeziehungen definiert durch: n(n − 1) / 2 [^1][^6]
+Beim Informationsaustausch von n Personen sinkt ihr Output mit wachsendem n. Sobald dieser negativ wird, verzögert sich das Projekt mit jeder zusätzlich eingesetzten Person (Abbildung 3).Dabei ist die Anzahl der Kommunikationsbeziehungen definiert durch: n(n − 1) / 2 [^1][^7]
 
 
 ## Systemprüfung
@@ -83,11 +83,13 @@ Unter Darstellung der Gründe hält es Brooks daher für einen Mythos, dass durc
 
 [^3]: [Mannjahr](https://wirtschaftslexikon.gabler.de/definition/mannjahr-39390/version-262799), 19.02.2018, abgerufen am 23.11.2021.
 
-[^4]:[Arbeit oder Dauer im Projektmanagement](https://www.proventis.net/de/projektmanagement-begriff/arbeit-oder-dauer)
+[^4]:[Arbeit oder Dauer im Projektmanagement](https://www.proventis.net/de/projektmanagement-begriff/arbeit-oder-dauer), abgerufen am 23.11.2021.
 
-[^5]: [Projektmanagement aus der Praxis der Softwareentwicklung](https://www-seal.cs.tu-dortmund.de/seal/downloads/teaching/pm1415/2b.%20Aufwandssch%C3%A4tzung%20V1.pdf), 27.10.2014, abgerufen am 23.11.2021
+[^5]: Gubbels, H. [Methoden des Projektmanagements.](https://link.springer.com/content/pdf/10.1007/978-3-8348-9967-5_2.pdf) In SAP® ERP–Praxishandbuch Projektmanagement (pp. 5-37). Vieweg+ Teubner, 2009, S. 13.
 
-[^6]: [Vom Mythos des Mann-Monats](https://de.wikipedia.org/wiki/Vom_Mythos_des_Mann-Monats), abgerufen am 23.11.2021
+[^6]: [Projektmanagement aus der Praxis der Softwareentwicklung](https://www-seal.cs.tu-dortmund.de/seal/downloads/teaching/pm1415/2b.%20Aufwandssch%C3%A4tzung%20V1.pdf), 27.10.2014, abgerufen am 23.11.2021.
+
+[^7]: [Vom Mythos des Mann-Monats](https://de.wikipedia.org/wiki/Vom_Mythos_des_Mann-Monats), abgerufen am 23.11.2021.
 
 
 
