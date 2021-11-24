@@ -24,7 +24,7 @@ wie zum Beispiel:
 
 # Darstellung im Impediment Backlog
 
-Der Impediment Backlog stellt das Verzeichnis dar, in dem bestehende Einschränkungen aufgelistet und priorisiert werden. Es gibt keine vorgeschriebene Form für den Aufbau des Backlogs. Wichtig ist lediglich, dass alle Hindernisse erfasst werden, egal wie groß oder wie wichtig. Ansonsten lässt sich die Liste jedoch frei nach den Vorstellungen des Projektteams aufbauen.[^2]
+Der Impediment Backlog stellt das Verzeichnis dar, in dem bestehende Einschränkungen aufgelistet und priorisiert werden. Es gibt keine vorgeschriebene Form für den Aufbau des Backlogs. Wichtig ist lediglich, dass alle Hindernisse erfasst werden (egal wie groß oder wie wichtig), denn alle Hindernisse können Einfluss auf die Zielerreichung nehmen. Ansonsten lässt sich die Liste jedoch frei nach den Vorstellungen des Projektteams aufbauen.[^2]
 
 Neben einer kurzen Beschreibung des Impediments sollten im Backlog noch folgende Daten enthalten sein: 
 
