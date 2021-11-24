@@ -64,5 +64,5 @@ Wenn Parteien überzeugt sind, dass ein Konflikt nicht lösbar ist, führt dies 
 [^1]: [Eskalationsstufen von Konflikten] (https://www.landsiedel-seminare.de/coaching-welt/wissen/lexikon/eskalationsstufen.html)
 [^2]: [Eskalation] (https://de.wikipedia.org/wiki/Eskalation)
 [^3]: [Die 9 Eskalationsstufen und wie Konflikte sich lösen lassen!] (https://greator.com/eskalationsstufen/)
-[^4]: [Konfliktregelung und Friedensstrategie] (https://link.springer.com/book/10.1007/978-3-531-92789-3)
+[^4]: [Meyer, B.(2011). Konfliktregelung und Friedensstrategien. Springer.] (https://link.springer.com/book/10.1007/978-3-531-92789-3)
 
