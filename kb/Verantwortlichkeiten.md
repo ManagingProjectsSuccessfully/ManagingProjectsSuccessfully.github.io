@@ -23,7 +23,8 @@ Zusätzlich kann man diese Beispiele in freiwillige und nicht freiwillige Übern
 Verantwortung wird meist philosophisch erklärt und beschrieben, da es auch sehr vielschichtig und nicht eindeutig ist. Doch mit dem Begriff Verantwortlichkeit wird oft konkret die Zuweisung einer Aufgabe verbunden, wie ein Projekt zu leiten. [^2]
 
 ![Bild 1](Verantwortlichkeiten/Grundbeziehungen-der-Verantwortung.jpg)
-*Grundbeziehungen der Verantwortung*  [^2]
+*Grundbeziehungen der Verantwortung* [^2]
+
 
 Verantwortung liegt dem Kongruenzprinzip zugrunde, besteht also aus drei nicht teilbaren Bausteinen: Aufgabe, Befugnis und Rechenschaftspflicht. Laut diesem Prinzip kann eine Person, die eine Aufgabe bekommen hat, nicht ohne die dazugehörige Befugnis handeln. [^3] [^4]
 
@@ -38,7 +39,7 @@ Der erste wichtige Punkt bei der Verantwortlichkeit ist es eine Konkrete **Über
 ## Sinnvolle Aufspaltung der Verantwortung
 Ein weiterer Faktor, der einen wichtigen Einfluss auf die Verantwortung hat, ist die **Anzahl der Menschen**, denen die Verantwortung gegeben ist. Je mehr Menschen, desto aufgespaltener ist die Verantwortung und desto mehr Menschen verspüren folglich auch kaum Verantwortung. Jeder nimmt an, der andere denkt mit und so kommt es zu [klassischen Missverständnissen](Klassische_Missverstaendnisse.md), Konflikten und Fehlern. Außerdem kann es passieren, dass man zu viel Einfluss auf die eigenen Entscheidungen bekommt, die zu Unsicherheit führen können. [^5]
 
-<img scr=/kb/Verantwortlichkeiten/Karrikatur-Verantwortung-übernehemen.png width=300>
+![Bild 2](Verantwortlichkeiten/Karrikatur-Verantwortung-übernehemen.png)
 
 > Management bedeutet Verantwortung für Ergebnisse 
 [^7]
