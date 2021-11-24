@@ -14,53 +14,25 @@ In einem Projekt sind viele Menschen beteiligt, die ein komplexes soziales Gefü
 *	Projektcoach: Der Coach berät das Team während der Planungsphase und hilft bei der Konfliktbewältigung innerhalb der Gruppe. Rahmenbedingungen für die Entwicklung werden vorgegeben, dennoch muss er den „roten Faden“ verfolgen und dessen Einhaltung überprüfen.
 
 
-# Aspekt 1
+## Projektleiter
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Der Projektmanager nimmt eine herausragende Rolle ein und muss viele Kompetenzen aufweisen, um ein Team zu führen. Dabei gibt es eine unterschiedliche Gewichtung dieser, wie in dieser Grafik veranschaulicht wird.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Soziale_Aspekte_des_Projektmanagements/test-file.jpg)
+Aus der Abbildung wird ersichtlich, dass für die befragten Teilnehmer kommunikative Fähigkeiten und soziale Kompetenz am wichtigsten sind, Führungskompetenz nicht unwichtig ist und das Fachwissen am unwichtigsten. Folgendermaßen dürfen die sozialen Aspekte nicht vernachlässigt werden und müssen bei der Projektleiterwahl entscheidend sein. Die soziale Kompetenz soll folgendermaßen näher betrachtet werden. 
 
-*lustiges Testbild*
 
-# Aspekt 2
+# Soziale Kompetenz
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Ein Projektleiter und die anderen Teilnehmer müssen sich an Regeln halten und eine gewisse soziale Kompetenz im Umgang mit dem Gegenüber aufweisen. Diese lässt sich in verschiedene Komponenten aufteilen, die bei der Kommunikation und Zielerreichung förderlich sind. Teamkompetenz, Empathie, Problemlösungsfähigkeit, Konfliktfähigkeit, Reflexionsfähigkeit, Kritikfähigkeit und Führungskompetenz stellen wichtige Grundlagen dar.
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Erfolgsfaktoren eines Projekts
 
-So kann man eine Tabelle erstellen:
+Damit ein Projekt erfolgreich beendet werden kann, müssen einige Prinzipien eingehalten werden. Das gesamte Team muss am Ende abliefern, denn das Projekt sollte penibel strukturiert sein, klare Zielvorgaben für alle Projektteilnehmer haben, Verantwortung den entsprechenden Personen zuweisen, transparent mit dem Projektzustand umgehen, die Risiken frühzeitig erkennen, schnell auf Probleme und Störungen reagieren und detailliert bei der Projektanalyse vorgehen.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# Fazit und Folgen für das Unternehmen 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Daraus lassen sich Konsequenzen für das Unternehmen und die Projektleitung ableiten. Es soll vermehrt Wert auf soziale Aspekte in den andauernden Projekten gelegt werden. Andererseits müssen Projektleiter und zum Beispiel IT-Mitarbeiter soziale und kommunikative Fähigkeiten in Schulungen verbessern. Bei der Führungskompetenz der Projektleiter muss erheblich nachgebessert werden. Abschließend sollte mehr Unterstützung z. B. durch Projektcoaching zur Verfügung gestellt werden.
 
 
 # Siehe auch
