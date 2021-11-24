@@ -6,7 +6,7 @@ anrechnung: k oder a
 ---
 # Podio
 
-Podio ist ein cloudbasiertes Tool für soziale Zusammenarbeit, das Flexibilität im Arbeitsablauf unterstützt[^1]. Es wurde durch das US-amerikanische Softwareunternehmen Citrix-Systems entwickelt[^2].
+Podio ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das soziale Zusammenarbeit sowie die Flexibilität im Arbeitsablauf unterstützt[^1]. Es wurde durch das US-amerikanische Softwareunternehmen Citrix-Systems entwickelt[^2].
 
 
 (Kurzbeschreibung zu Podio_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
