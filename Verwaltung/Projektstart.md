@@ -11,7 +11,7 @@ Das Thema "Projektstart" kann man definieren als dem "Termin, zu dem der Lenkung
 # Der Beginn eines Projekts
 
 Wie schon oben erwähnt stellt sich erst die Frage, wie man überhaupt einen Projekt beginnt. 
-* Auftragsklärung: Um die Wünsche des Auftraggebers zu treffen und Auseinandersetzungen bei der Abnahme der Ergebnisse zu verhindern muss eine Auftragsklärung durchgeführt werden, wobei auch zusätzlihce Ressourcen eingesetz werden können. Dabei wird sichergestellt, dass Projektleitung, Auftraggeber und weitere Stakeholder dieselben Erwartungen an das Projekt haben. 
+* Auftragsklärung: Um die Wünsche des Auftraggebers zu treffen und Auseinandersetzungen bei der Abnahme der Ergebnisse zu verhindern muss eine Auftragsklärung durchgeführt werden, wobei auch zusätzlihce Ressourcen eingesetz werden können. Dabei wird sichergestellt, dass Projektleitung, Auftraggeber und weitere [Stakeholder](https://de.wikipedia.org/wiki/Stakeholder) dieselben Erwartungen an das Projekt haben. 
 * Zieldefinierung: Hinzu kommt vorallem auch die Zieldefinierung. Das Ziel sollte genau überprüft und sichergestellt werden, um die Aufgabenverteilung klarzustellen und die Absichten einzuordnen. Zusätzlich sollte das Ziel auf die Umsetzbakeit überprüft werden, damit später keine Probleme entstehen.
 
 ![BEISPIELABBILDUNG](https://www.projektmagazin.de/sites/default/files/styles/hero_desktop/public/2020-08/so_formulieren_sie_ein_projektziel_klar_und_ambitioniert_h.jpg?itok=_pWeLCES)
@@ -57,21 +57,21 @@ Hierbei gibt es verschiedene Kriterien:
 * Soziale Umweltfaktoren: Personen/Personengruppen, die das Projekt beeinflussen können. Diese werden gesammelt, um sie anschließend in der Stakeholderanalyse näher zu beleuchten. (Z.b. Betriebsrat, Bauamt, Mitarbeiter des Projektteams, Anwohner beim Bau der neuen Abwasseranlage)
 * Sachliche Umweltfaktoren: Fakten oder Themen, die auf das Projekt wirken. (Z.b. Datenschutzrichtlinien, veraltete Technik, zu wenig Knowhow, vorliegendes Lastenheft, Trend zu mehr Nachhaltigkeit)
 * Interne Faktoren: Faktoren innerhalb des Porjekts/ des Unternehmens (Z.b. bestehende Anforderungen an das Projekt)
-* Externe Faktoren: Faktoren außerhalb des Projekts/des Unternehmens (Z.b. gesetzliche, geografische und klimatische Faktoren)
+* Externe Faktoren: Faktoren außerhalb des Projekts/des Unternehmens (Z.b. gesetzliche, geografische und klimatische Faktoren)[^5]
 
 ![BEISPIELABBILDUNG](https://projekte-leicht-gemacht.de/wp-content/uploads/2015/05/umfeldanalyse.jpg)
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite]({Projekt}.md)
-* [klassisches PM](url)
+* [Umfeldanalyse](https://dieprojektmanager.com/umfeldanalyse-stakeholderanalyse/)
+* [Projektmitarbeiter](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/272/commits/b2d788dbefa2dc3cf946f34663462e9cc15dd50e?short_path=c0bc915#diff-c0bc91534aab632a25ba47296f8f681f002e28c91621ec97aecee3c4377018b8)
+* [Projektabschluss](https://de.wikipedia.org/wiki/Projektabschluss)
 
 # Weiterführende Literatur
 
-* V. M. BrenneckeS. KrugC. M. Winkler: "Projektstart
-* Christian BärJens FiegeMarkus Weiß : "Projektstart/Kick-Off"
-* Levend Seyhan: "Der Projektstart"
+* [V. M. BrenneckeS. KrugC. M. Winkler: "Projektstart"](https://link.springer.com/chapter/10.1007/978-3-642-58743-6_2)
+* [Christian BärJens FiegeMarkus Weiß : "Projektstart/Kick-Off"](https://link.springer.com/chapter/10.1007/978-3-662-52974-4_19)
+* [Levend Seyhan: "Der Projektstart"](https://link.springer.com/chapter/10.1007/978-3-658-35036-9_7)
 
 # Quellen
 
@@ -79,4 +79,5 @@ Hierbei gibt es verschiedene Kriterien:
 [^2]: https://www.business-wissen.de/artikel/projektmanagement-ein-projekt-starten/
 [^3]: https://www.nordantech.com/de/blog/project-management/projekte-richtig-planen
 [^4]: https://www.business-wissen.de/hb/phasen-des-projektmanagements-im-ueberblick/
+[^5]: https://projekte-leicht-gemacht.de/blog/methoden/projektstart/die-umfeldanalyse-einfach-erklaert/
 
