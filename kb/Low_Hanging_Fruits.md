@@ -101,12 +101,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 4. eine
 7. nummerierte liste
    1. und hier eine Ebene tiefer
+   2. [Projekten](https://github.com/jonaskarg187/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Low_Hanging_Fruits.md)
+* [Projekt](https://github.com/jonaskarg187/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
+* [Projektmanagement](https://github.com/FCN478/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
 
 # Weiterführende Literatur
 
