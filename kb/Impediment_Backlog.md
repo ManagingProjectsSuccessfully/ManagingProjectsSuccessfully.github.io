@@ -1,6 +1,6 @@
 ---
 title: Impediment_Backlog
-tags: agil
+tags: agil impediment scrum backlog sprint scrum master
 author: patrick203494
 anrechnung: a
 ---
@@ -12,8 +12,8 @@ Das **Impediment Backlog** wird zumeist zur Visualisierung und Priorisierung von
 
 # Beispiele für Impediments
 
-Impediments sind (mehr oder weniger deutlich erkennbar) in nahezu jedem Scrum - Projekt vorhanden, wie z.B.:[^2]
-
+Impediments sind (mehr oder weniger deutlich erkennbar) in nahezu jedem Scrum - Projekt vorhanden,
+wie zum Beispiel: [^2]
 * Zu hohe Temperaturen im Büro
 * Zu wenig Arbeitsplätze für das komplette Team
 * Störungen in der Zusammenarbeit oder Kommunikation
@@ -72,7 +72,7 @@ Scrum Master müssen jedoch nicht alle Hindernisse im Alleingang beseitigen, son
 
 # Fazit
 
-Oft wird das Impediments Backlog unterschätzt, dabei gehört es als zentrales Instrument zur Veranschaulichung des Problemlösungsfortschritts eigentlich in jedes Scrum – Projekt. In nahezu jedem Projekt gibt es Hindernisse, aber nicht immer werden diese wirklich überwunden. Erst durch das Impediment Backlog finden sie die angemessene Beachtung und können effizient gelöst werden. [^3]
+Oft wird das Impediments Backlog unterschätzt, dabei gehört es als zentrales Instrument zur Veranschaulichung des Problemlösungsfortschritts eigentlich in jedes Scrum – Projekt. In nahezu jedem Projekt gibt es Hindernisse, aber nicht immer werden diese wirklich überwunden. Erst durch das Impediment Backlog finden sie die angemessene Beachtung und können effizient gelöst werden.
 
 
 # Siehe auch
