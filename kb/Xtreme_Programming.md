@@ -24,7 +24,7 @@ Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest g
 
 ## Rollen  
 
-Der <b> Kunde </b> ist der Auftraggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll. [^6]
+Der <b> Kunde </b> ist der Auftraggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll. [^6] 
 
 Innerhalb des Entwicklerteams gibt es keine Rollentrennung. Jeder Mitarbeiter wird unabhängig von seinen Fähigkeiten als <b> Entwickler </b> bezeichnet.
 Diese sind für die Produktentwicklung zuständig. [^7]
