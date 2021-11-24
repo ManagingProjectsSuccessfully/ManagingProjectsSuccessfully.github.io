@@ -7,20 +7,20 @@ anrechnung: k
 
 Im klassischen Projektmanagement ist der Projektleiter für die Steuerung des Projektes und für die operative Planung zuständig. Für die Planung bestimmt er die Ziele und übernimmt das Management der Ressourcen. Insbesondere ist er für die Termin-, Kosten- und Sachziele unter der Berücksichtigung der angestrebten Produktqualität verantwortlich.
 
-<img src="Projektleiter/Projektleiter.png" alt="Der Projektleiter ein Multitalent" width="600"/>
-Ausbildung zum Projektleiter[^1]
-
-
 # Die zwei Arten ein Projekt zu leiten:
 
 * In hierarchiefreien Projektgruppen hat der Projektleiter die Rolle eines Initiators und Moderators. Hierbei tragen alle Teammitglieder gemeinsam die Verantwortung für die Erreichung des Projektergebnisses und sind somit gleichgestellt. 
 
 * Bei hierarchischen Projektgruppen wird ein Teammitglied von einem Vorgesetzten oder einem Team auserwählt und mit einer höheren Verantwortung und besonderer Kompetenz ausgestattet. Die Breite dieser Kompetenz kann auch bis zur uneingeschränkten Führung der jeweiligen Projektgruppe führen. 
-Der folgende Beitrag fokussiert sich genau auf solch einen Projektleiter, einer klassischen und hierarchischen Projektgruppe.[^2]
+Der folgende Beitrag fokussiert sich genau auf solch einen Projektleiter, einer klassischen und hierarchischen Projektgruppe.[^1]
 
 Jedoch sind konstante Anpassungen und Veränderungen fester Bestandteil des Projektmanagements, weshalb sich die Leitungskompetenz der Teammitglieder und auch die des Projektleiters im Laufe der Projektdurchführung verändern können. 
 
 # Wie wird man ein Projektleiter und welche Kompetenzen und Fähigkeiten werden vorausgesetzt? 
+
+<img src="Projektleiter/Projektleiter.png" alt="Der Projektleiter ein Multitalent" width="700"/>
+Ausbildung zum Projektleiter[^2]
+
 Um Projektleiter zu werden gibt es keine Ausbildung im klassischen Sinne, dennoch wird in der Regel ein Universitätsabschluss von Unternehmen vorausgesetzt. Neben dem fachlichen Know-how muss ein Projektleiter auch die Kompetenzen eines Unternehmers, Managers und die einer Führungskraft mitbringen. Weitere Anforderungen an den Projektleiter sind unter anderem die soziale Kompetenz, Kommunikative Fähigkeiten, Kreativität und Risikomanagement. 
 Ein Projektleiter hat verschiedene Aufgaben zu leisten, sei es während der Projektdurchführung oder bereits bei der Planung eines Projekts.[^3]
 
