@@ -56,6 +56,7 @@ Zur Findung innovativer Lösungsideen werden Kreativitätsmethoden eingesetzt. K
 
 # Siehe auch
 
+* [Projektmanagement](Programmmanagement.md)
 * [6-3-5-Methode](6_3_5_Methode.md)
 * [Brainwriting](Brainwriting.md)
 * [Barcamp-Methode](Barcamp_Methode.md)
