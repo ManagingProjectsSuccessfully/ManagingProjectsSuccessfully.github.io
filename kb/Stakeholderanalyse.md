@@ -26,7 +26,7 @@ Stakeholder können in intern und extern gegliedert werden. Nachfolgend sind ein
 *	Investoren
 *	Kunden
 
-Die Notwendigkeit eines [Stakeholdermanagements](Stakeholdermanagement.md) ist essenziell. Ein ungeplantes Einschreiten bzw. ein nicht erwartetes Handeln von Stakeholdern kann Projekte in zeit- und kostentechnischer gefährden, wenn nicht sogar zum Scheitern bringen. Daher ist es das oberste Ziel des [Stakeholdermanagements](Stakeholdermanagement.md) die Stakeholder zu identifizieren, einzuschätzen und durch geeignte Maßnahmen eine Akzeptanz für das Projekt zu schaffen. Aus diesem Grund ist eine umfangreiche Analyse der Interessensgruppen und deren Einstellungen zu den betroffenen Projektthemen unabdingbar. Dies geschieht anhand einer [Stakeholderanalyse](Stakeholderanalyse.md) [^5]. 
+Die Notwendigkeit eines [Stakeholdermanagements](Stakeholdermanagement.md) ist essenziell. Ein ungeplantes Einschreiten bzw. ein nicht erwartetes Handeln von Stakeholdern kann Projekte in zeit- und kostentechnischer gefährden, wenn nicht sogar zum Scheitern bringen. Daher ist es das oberste Ziel des [Stakeholdermanagements](Stakeholdermanagement.md) die Stakeholder zu identifizieren, einzuschätzen und bei diesen durch geeignte Maßnahmen eine Akzeptanz für das Projekt zu schaffen. Aus diesem Grund ist eine umfangreiche Analyse der Interessensgruppen und deren Einstellungen zu den betroffenen Projektthemen unabdingbar. Dies geschieht anhand einer [Stakeholderanalyse](Stakeholderanalyse.md) [^5]. 
 
 ## Anwendung
 
