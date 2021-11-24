@@ -62,7 +62,7 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 
 | typisches Merkmal                   | Konsequenz                                                                                                                     | 
 | ------------------------------------| -------------------------------------------------------------------------------------------------------------------------------| 
-| Zeitliche Begrenztheit              | Um das erworbene Wissen zu strukturieren und zu dokumentieren fehlt die Nachbearbeitungszeit.                                  |
+| Zeitliche Begrenztheit              | Um das erworbene Wissen zu strukturieren und zu dokumentieren, fehlt die Nachbearbeitungszeit.                                  |
 | Zuordnung personeller Ressourcen    | Generierte Erfahrung und das erlangte Wissen bleiben nur innerhalb des Projektteams und werden nicht mit Externen kommuniziert.|
 | Personelle [Fluktuation](https://de.wikipedia.org/wiki/Fluktuation)| Durch die zeitlich begrenzte Tätigkeit im Projekt geht Expertenwissen verloren.                |
 | Neuartige, komplexe Aufgabenstellung| Übertragbarkeit des erworbenen Wissens auf andere Projekte und Aufgabenstellungen ist ungewiss.                                |
@@ -72,7 +72,7 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 
 ## Methoden und Instrumente für den Wissenstransfer
 
-Ausschlaggebend für die Anwendung gewisser Methoden ist die Art des Transfers. Hierbei wird zwischen personifiziertem und kodifizierten 
+Ausschlaggebend für die Anwendung gewisser Methoden ist die Art des Transfers. Hierbei wird zwischen personifiziertem und kodifiziertem 
 Wissenstransfer unterschieden. Der Austausch des Wissens findet beim personifizierten Wissenstransfer auf persönlicher Ebene statt. Dabei gibt es für Unternehmen 
 viele Möglichkeiten den Wissenstransfer anzustoßen:[^13]
 
