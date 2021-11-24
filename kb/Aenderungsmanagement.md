@@ -25,11 +25,15 @@ Mögliche Ursachen für Änderungen sind:
 
 *beispielhafter Änderungsworkflow*[^3]
 
-Das Änderungsmanagement beginnt damit, dass eine Änderung im Projekt notwendig ist. Die Änderung kann entweder von der Seite des Auftragsgebers an das zuständige Unternehmen herangetragen werden oder beim Auftragnehmer selbst erkannt werden. Damit im Unternehmen selbst notwenige Änderungen erkannt werden können ist eine genaue [Aufgabenstellung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aufgabenteilung.md) notwendig. Im Anschluss daran wird die Änderung genauer analysiert. Diese Analyse beinhaltet zum Beispiel den exakten Inhalt und den Größenumfang der Änderung. Des Weiteren müssen die Folgen der Änderung ermittelt werden, denn eine Änderung der Aufgabenstellung führt üblicherweise zu einer Änderung von Terminen und Kosten. Die Kombination aus Leistungsänderung, [Kostenänderung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md) und Terminänderung, die sich daraus ergibt, kann dann mit dem Auftraggeber [abgesprochen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kommunikation_Projektbeteiligte.md) werden.
+Das Änderungsmanagement beginnt damit, dass eine Änderung im Projekt notwendig ist. Die Änderung kann entweder von der Seite des Auftragsgebers an das zuständige Unternehmen herangetragen werden oder beim Auftragnehmer selbst erkannt werden. Damit im Unternehmen selbst notwenige Änderungen erkannt werden können ist eine genaue [Aufgabenstellung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aufgabenteilung.md) notwendig. Im Anschluss daran wird die Änderung genauer analysiert. Diese Analyse beinhaltet zum Beispiel den exakten Inhalt und den Größenumfang der Änderung. Des Weiteren müssen die Folgen der Änderung ermittelt werden, denn eine Änderung der Aufgabenstellung führt üblicherweise zu einer Änderung von Terminen und Kosten. Die Kombination aus Leistungsänderung, [Kostenänderung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md) und Terminänderung, die sich daraus ergibt, kann dann mit dem Auftraggeber [abgesprochen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kommunikation_Projektbeteiligte.md) werden. Der letzte Schritt ist dann die Umsetzung der Änderungen zum Beispiel durch eine Vertragsänderung.
 
 ## Was ist beim Änderungsmanagement zu beachten
 
-Einer der wichtigsten Faktoren im Änderungsmanagement ist, dass die Änderungen transparent behandelt und genau dokumentiert werden. Um Transparenz zu gewährleisten empfiehlt es sich, bei einer großen Anzahl an Projektteilnehmern eine Änderungskonferenz durchzuführen. Für die Dokumentation der jeweiligen Änderungen eignet sich ein Änderungsblatt. Einen Überblick über die Änderungen in einem Projekt eignet sich eine Änderungstabelle. Im Allgemeinen sollten in einem Unternehmen für das Änderungsmanagement Standardprozesse angelegt werden.
+Einer der wichtigsten Faktoren im Änderungsmanagement ist, dass die Änderungen transparent behandelt und genau dokumentiert werden. Um Transparenz zu gewährleisten empfiehlt es sich, bei einer großen Anzahl an Projektteilnehmern eine Änderungskonferenz durchzuführen. Für die Dokumentation der jeweiligen Änderungen eignet sich ein Änderungsblatt. Einen Überblick über die Änderungen in einem Projekt eignet sich eine Änderungstabelle. Die Dokumentation kann auch durch IT wie besipielsweise Datenbankmanagementsysteme unterstützt werden. Im Allgemeinen sollten in einem Unternehmen für das Änderungsmanagement Standardprozesse angelegt werden.
+
+## Welche Vorteile bietet das Änderungsmanagement
+
+ein Vorteil des Änderungsmangements besteht darin, dass den Änderungen strukturiert und mit einem Plan begegnet wird. Aufgrund der strukturierten Vorgehensweise wird es einfacher, die Folgen auf Termine und Kosten abzuschätzen. Zusätzlich macht die ausführliche Dokumentation die durchgeführten Änderungen und deren aktuellen Stand nachvollziehbar. All diese Faktoren führen dazu, dass am Ende die Änderungen mit höherer Qualität behandelt werden.
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -104,7 +108,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 7. nummerierte liste
    1. und hier eine Ebene tiefer
 
-
+86
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
@@ -116,7 +120,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: https://link.springer.com/book/10.1007%2F978-3-662-46458-8
+[^1]: [Spang, K. (2016). Projektmanagement von Verkehrsinfrastrukturprojekten. Springer, 86](https://doi.org/10.1007/978-3-662-46458-8_4)
 [^2]: https://link.springer.com/book/10.1007%2F978-3-662-46458-8
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
