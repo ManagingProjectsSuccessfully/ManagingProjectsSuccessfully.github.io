@@ -1,14 +1,11 @@
 ---
 title: Teammanagement
-tags: agil klassisch
+tags:  klassisch Projekt Management Teamleiter
 author: emir-eroglu
 anrechnung: k 
 ---
 
-Kurzbeschreibung zu Teammanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
  # **Was ist Teammanagement**  
 „Teammanagement umfasst die aktive und zielorientierte Steuerung einer kleinen Gruppe von Personen, die gemeinsam mit geteilter Zielsetzung an einer Aufgabe bzw. einem Thema arbeiten“.[^1] <br>
@@ -22,8 +19,8 @@ Was fördert effektives Teammanagement und was sind dessen Ziele?[^1]
 
 * Steigerung der Produktivität
 * Besserer Output  
-* Geschwindigkeitserhöhung durch [Aufgabenteilung](Aufgabenteilung.kb)
-* Effektiveres [Konfliktmanagement](Konfliktmanagement.kb) 
+* Geschwindigkeitserhöhung durch [Aufgabenteilung](Aufgabenteilung.md)
+* Effektiveres [Konfliktmanagement](Konfliktmanagement.md) 
 * Hochleistungen
 * Verbesserung der Kommunikation im Team
 
@@ -32,16 +29,16 @@ Um die gewünschten Ziele zu erreichen, müssen die wesentlichen Teammanagementa
 
 
 # **Teamentwicklung und dessen Entwicklungsphasen**
-Teamentwicklung ist in erster Linie ein Veränderungs- und Wachstumsprozess einer Gruppe von Individuen, zusammengeführt oder zusammengefügt mit der Orientierung auf ein gemeinsames Ziel oder eine gemeinsame Aufgabe. Mittels gezielter Teamentwicklung kann eine Gruppe eine deutliche Veränderung in ihrem Selbstverständnis und in ihrem Leistungsverhalten erfahren. Dieses Leistungsverhalten kann durch den [Teamleiter](Teamleiter.kb), also dem Teammanager, beachtet und durch gezieltes Teammanagement ideal gestaltet werden. Das richtige Teammanagement entscheidet über die Performance, denn jedes Team durchläuft im Laufe seiner „Lebens- und Entwicklungsgeschichte“ eine Folge von abgrenzbaren Entwicklungsphasen[^2]. Im Folgenden sollen die Entwicklungsphasen durch das Phasenmodell von Bruce Tuckman genauer betrachtet und die richtige Vorgehensweise in der jeweiligen Phase beschrieben werden. 
+Teamentwicklung ist in erster Linie ein Veränderungs- und Wachstumsprozess einer Gruppe von Individuen, zusammengeführt oder zusammengefügt mit der Orientierung auf ein gemeinsames Ziel oder eine gemeinsame Aufgabe. Mittels gezielter Teamentwicklung kann eine Gruppe eine deutliche Veränderung in ihrem Selbstverständnis und in ihrem Leistungsverhalten erfahren. Dieses Leistungsverhalten kann durch den [Teamleiter](Teamleiter.md), also dem Teammanager, beachtet und durch gezieltes Teammanagement ideal gestaltet werden. Das richtige Teammanagement entscheidet über die Performance, denn jedes Team durchläuft im Laufe seiner „Lebens- und Entwicklungsgeschichte“ eine Folge von abgrenzbaren Entwicklungsphasen[^2]. Im Folgenden sollen die Entwicklungsphasen durch das Phasenmodell von Bruce Tuckman genauer betrachtet und die richtige Vorgehensweise in der jeweiligen Phase beschrieben werden. 
  
   * ##  _**1. Forming (=Orientierungsphase)**_ 
-In dieser Phase werden die Teammitglieder bestimmt oder finden sich. Es geht in der Forming-Phase um das erste Kennenlernen der Mitglieder. Der Umgang ist sehr reserviert, vorsichtig und höflich. Ein gutes Teammanagement ist, wenn man in dieser Phase die Erwartungen, Bedenken und womöglich auch Ängste mit Vorsicht behandelt[^3]. Aus diesem Grund muss es ein geregelter, offizieller Rahmen an der Tagesordnung existieren, sodass ein willkommen heißendes und angenehmes Klima entsteht. Diese Tagesordnung könnte man beispielsweise auch mit [Kennenlernspiele](Kennenlernspiele.kb) verknüpfen.
+In dieser Phase werden die Teammitglieder bestimmt oder finden sich. Es geht in der Forming-Phase um das erste Kennenlernen der Mitglieder. Der Umgang ist sehr reserviert, vorsichtig und höflich. Ein gutes Teammanagement ist, wenn man in dieser Phase die Erwartungen, Bedenken und womöglich auch Ängste mit Vorsicht behandelt[^3]. Aus diesem Grund muss es ein geregelter, offizieller Rahmen an der Tagesordnung existieren, sodass ein willkommen heißendes und angenehmes Klima entsteht. Diese Tagesordnung könnte man beispielsweise auch mit [Kennenlernspiele](Kennenlernspiele.md) verknüpfen.
 
   * ## _**2. Storming (=Konfrontationsphase)**_ 
 Die Storming-Phase ist eine unbedenkliche aber jedoch sehr unangenehme Phase. Man kommt sich näher, sowohl im positiven auch im negativen. Grüppchenbildung, Konflikte und Spannungen entstehen, somit ist der Motivationseffekt verblüfft. Das Teammanagement sollte sehr professionell ablaufen. Der Teamleiter dient als Schlichter und Antreiber, sollte jeden zu Wort kommen lassen und sorgen, dass die Konflikte nicht eskalieren. 
 
   * ## _**3. Die Norming-Phase (=Organisationsphase)**_ 
-Die Normierung-Phase ist die Voraussetzung für die Leistungsphase, denn in der werden die Rollen im Team und Arbeiten sinnvoll verteilt. Nach offener Diskussion, öfter auch offene Konfrontation und gemeinsames [Brainstorming](Brainstorming.kb) entstehen Prozesse und Regeln. Gefühl der Zusammengehörigkeit wird verstärkt. Der Teamleiter sollte sein Team bei der Findung der Spielregeln unterstützen und anschließend achten, sodass alle die Regeln befolgen. Er managt das Team als Berater oder Coach. 
+Die Normierung-Phase ist die Voraussetzung für die Leistungsphase, denn in der werden die Rollen im Team und Arbeiten sinnvoll verteilt. Nach offener Diskussion, öfter auch offene Konfrontation und gemeinsames [Brainstorming](Brainstorming.md) entstehen Prozesse und Regeln. Gefühl der Zusammengehörigkeit wird verstärkt. Der Teamleiter sollte sein Team bei der Findung der Spielregeln unterstützen und anschließend achten, sodass alle die Regeln befolgen. Er managt das Team als Berater oder Coach. 
 
   * ## _**4. Performing- Phase (=Hochleistungsphase)**_ 
 Die Performing-Phase, in der das Team leistungsfähig, effizient und eigenständig arbeitet. Die aus Norming-Phase gesetzen Spielregeln führen zu einem konstruktiven und lösungsorientierten Arbeitsstiel. Der Projektleiter muss kaum noch eingreifen. 
