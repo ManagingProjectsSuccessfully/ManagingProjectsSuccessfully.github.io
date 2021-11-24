@@ -107,9 +107,31 @@ Eine Projekt Charta ist ein Dokument, das eine Übersicht über das Projekt vers
 
 
 ---
-Weiterführendes:
-Wer ist der Projektmanager, Projekt Sponsor, Projektantrag, Stakeholder 
+---
+# Siehe auch
+[Projektmanager](Projektleiter.md)
+ 
+[Rollen im Projektmanagement](Who_is_Who_Projectmanagement.md)
+ 
+[Projektantrag](Projektantrag.md)
+ 
+[Stakeholdermanagement](Stakeholdermanagement.md)  
+ 
+[Projektplanung](Projektplanung.md)
 
+[Faehigkeiten_Projektleiter](Faehigkeiten_Projektleiter.md) 
+
+[Projekt Meilensteine](Meilensteine.md)
+
+[Projekt Kick Off](Projekt_Kick_Off.md)
+
+# Weiterführende Literatur
+
+ [Customized project charter for computational scientific software products](https://content.iospress.com/articles/journal-of-computational-methods-in-sciences-and-engineering/jcm778)
+
+ [The Project Charter–Blueprint for Success](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.208.9423&rep=rep1&type=pdf)
+
+ [PMBOK® Guide](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 
 ---
 
