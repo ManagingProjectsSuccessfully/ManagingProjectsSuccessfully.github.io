@@ -9,6 +9,11 @@ anrechnung: k
 
 1. [Definition Kommunikation](#definition-kommunikation)
 2. [Kommunikationsarten](#kommunikationsarten)
+2.1 [Paraverbale Kommunikation](#paraverbale-kommunikation)
+2.2 [Nonverbale Kommunikation](#nonverbale-kommunikation)
+3. [Der Weg zur effizienten Kommunikation unter Projektbeteiligten](#Der-Weg-zur-effizienten-Kommunikation-unter-Projektbeteiligten)
+4. [Sender Empfänger Modell](sender-empfänger-modell)
+5. [Quellen](quellen)
 
 
 # Definition Kommunikation 
@@ -46,6 +51,7 @@ Eines der grundlegendsten Kommunikationsmodelle ist das Sender Empfänger Modell
 ![Beispielabbildung](Kommunikation_Projektbeteiligte/Bild02.jpg)
 *Abbildung 1* [^7]
 
+# Quellen
 
 [^1]: [Kommunikation(landsiedel-seminare)](https://www.landsiedel-seminare.de/coaching-welt/wissen/lexikon/kommunikation.html)
 [^2]: [ParaverbaleKommunikation(ikud)](https://www.ikud.de/glossar/paraverbal.html)
