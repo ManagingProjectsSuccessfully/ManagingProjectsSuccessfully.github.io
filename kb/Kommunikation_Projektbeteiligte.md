@@ -7,7 +7,8 @@ anrechnung: k
 
 # Inhaltsverzeichnis
 
-1. [Definition Kommunikation](#definition_kommunikation)
+1. [Definition Kommunikation](#definition-kommunikation)
+2. [Kommunikationsarten](#kommunikationsarten)
 
 
 # Definition Kommunikation 
