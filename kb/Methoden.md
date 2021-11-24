@@ -5,9 +5,9 @@ author: Theresa1703
 anrechnung: k
 ---
 
-Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von Projekten oder Projektschritten. Die Ausführung dieser Projekte wird durch die Anwendung von bestimmten Methoden komplett oder teilweise vorgegeben.[^1] Es wird somit eine mögliche Herangehensweise an einzelne oder mehrere Schritte dargestellt, welches durch seine Dokumentierbarkeit besonders nachvollziebar und korrigierbar ist. Außerdem wird das Vorgehen durch Methoden besser vertändlich und einzelne Schritte können einfacher kommuniziert werden.[^4]
+Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von einzelnen oder mehreren Projektschritten. Die Durchführung dieser Schritte wird durch die Anwendung von Methoden komplett oder teilweise vorgegeben.[^1]
+Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen und geben Projekten Transparenz und Struktur, das Vorgehen wird durch seine Dokumentierbarkeit besonders nachvollziebar und korrigierbar. Außerdem können einzelne Bestandteile einfacher kommuniziert werden.[^4]
 
-Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen und geben Projekten Transparenz und Struktur.[^4] Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]
 
 
 # Definition
@@ -19,18 +19,19 @@ Der Begriff Methode wird in verschiedenen Quellen inhaltlich ähnlich definiert:
 * „Auf einem Regelsystem aufbauendes Verfahren zur Erlangung von [wissenschaftlichen] Erkenntnissen oder praktischen Ergebnissen“[^12]
 * „planmäßiges Vorgehen, um Erkenntnisse zu erlangen oder Ergebnisse zu erzielen“[^7]
 
-Eine Methode ist dahingehend also ein bestimmtes Vorgehenskonzept, um sich Wissen anzueignen oder Ergebnisse zu erhalten.
+Eine Methode ist also dahingehend ein bestimmtes Vorgehenskonzept, um sich Wissen anzueignen oder Ergebnisse und Lösungen zu erarbeiten.
 
 ## Abgrenzung zu Methodiken
 
 Zu unterscheiden sind Methoden von Methodiken.
 Eine Methodik ist die "Gesamtheit von Methoden, als Teildisziplin einer Fachwissenschaft auch die Lehre von den in dieser Wissenschaft angewandten Methoden"[^13], also die Anwendung von verschiedenen Methoden.
-Methodiken fassen mehrere Methoden in einem Vorgehensmodell zusammen. Eine Projektmanagement-Methode ist beispielsweise das Kanban-Board, welches innerhalb eines übergeordneten Vorgehensmodells wie zum Beispiel Kanban angewendet wird.[^7]
+Methodiken fassen mehrere Methoden in einem Vorgehensmodell zusammen. Eine Projektmanagement-Methode ist beispielsweise das Kanban-Board, welches innerhalb des übergeordneten Vorgehensmodells Kanban angewendet wird.[^7]
+
 
 
 # Unterteilung nach Projektart
 
-Die in Projekten genutzten Methoden können je nach Projektart unterteilt werden in Vorgehensweisen für das klassische und das agile Projektmanagement sowie übergreifende Methoden, die sowohl in agilem, klassischen als auch in Mischformen wie hybriden Projektarten Anwendung finden können. [^7]
+Die in Projekten genutzten Methoden können je nach Projektart unterteilt werden in Vorgehensweisen für das klassische und das agile Projektmanagement sowie übergreifende Methoden, die sowohl in agilem, klassischen als auch in Mischformen wie hybriden Projektarten Anwendung finden können.[^7] Die Auswahl an Methoden ist vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]
 
 ## Methoden des klassischen Projektmanagements
 
@@ -38,18 +39,17 @@ Im klassischen oder auch traditionellen Projektmanagement werden Aktivitäten un
 
 ## Methoden des agilen Projektmanagements
 
-Mit Hilfe von agilem Projektmanamement ist es möglich, sich laufend an verändernde Umstände anzupassen und somit flexibel zu sein und schnell auf bestimmte Situationen zu reagieren.[^10] Gerade die Anpassungsfähigkeit dieser Art des Projektmanagements macht es in der modernen Zeit zu einem sehr beliebtem Instrument.[^7] Dabei ist diese Bezeichnung jedoch eher ein Oberbegriff für die Anwendung verschiedener agiler Vorgehensweisen und Methoden.[^10]
+Mit Hilfe von agilem Projektmanamement ist es möglich, sich laufend an sich verändernde Umstände anzupassen und somit flexibel zu sein und schnell auf bestimmte Situationen reagieren zu können.[^10] Gerade die Anpassungsfähigkeit dieser Art des Projektmanagements macht es in der modernen Zeit zu einem sehr beliebtem Instrument.[^7] Dabei ist diese Bezeichnung jedoch eher ein Oberbegriff für die Anwendung verschiedener agiler Vorgehensweisen und Methoden.[^10]
 [Backlog-Management](), [Kanban-Board](Kanban_Boards.md), [Daily Scrum](Daily_Scrum.md) und das [Sprint Review](Sprint_Review.md) sind typische Methoden für das agile Projektmanagement.[^7]
 
 ## Allgemeine Methoden
 
 Sowohl in klassischem als auch in agilem Projektmanagement oder deren Mischform, dem hybriden Projektmanagement, lassen sich übergreifende Methoden finden, die allgemein und unabhängig von der Projektart angwendet werden können. In nahezu jedem Projekt müssen beispielsweise Risiken und entsprechende Gegenmaßnahmen erarbeitet, wichtige Stakeholder analysiert und die Wirtschaftlichkeit des Vorgehens geprüft werden.[^7]
-Oft genutzte Methoden sind hierbei die [Stakeholderanalyse](Stakeholderanalyse.md), [Risikoanalyse](Risikoanalyse_und_Visualisierung.md), [Business Case](Business_Cases.md), ABC-Analyse, Plan-Ist-Vergleich, [Project Canvas](Project_Canvas.md) und die Kommunikationsmatrix.[^7]
+Oft genutzte Methoden hierbei sind die [Stakeholderanalyse](Stakeholderanalyse.md), [Risikoanalyse](Risikoanalyse_und_Visualisierung.md), [Business Case](Business_Cases.md), ABC-Analyse, Plan-Ist-Vergleich, [Project Canvas](Project_Canvas.md) und die Kommunikationsmatrix.[^7]
 
 ### Softskill-Management
 
-Die Methoden für Kompetenzen im Projektmanagement kann prinzipiell jedes Teammitglied übernehmen. Besonders der Projektleiter benötigt jedoch bestimmte Kompetenzen, um den erfolgreichen Ablauf seines Projektes sicherzustellen.[^14] Für ein effizientes Selbstmanagement werden Techniken wie [Pomodoro](Pomodoro.md), [Pareto-Prinzip](Pareto_Prinzip) oder die [Eisenhower-Matrix](Eisenhower_Matrix.md) eingesetzt. Dem Projektleiter stehen außerdem verschiedene Mittel zur Verfügung, um die Kommunikation in der Gruppe zu verbessern und die Teammitglieder anzuführen. Es können [Feedback-Gespräche](Feedbackgespräche.md) und Methoden des [Teammanagements](Teammanagement.md) genutzt werden. Die Entscheidungsfindung der Gruppe können Methoden wie die [Nutzwertanalyse](Nutzwertanalyse.md) unterstützen.[^7]
-
+Die Methoden für Kompetenzen im Projektmanagement kann prinzipiell jedes Teammitglied übernehmen. Besonders der Projektleiter benötigt jedoch bestimmte Kompetenzen, um den erfolgreichen Ablauf seines Projektes sicherzustellen.[^14] Für ein effizientes Selbstmanagement werden Techniken wie [Pomodoro](Pomodoro.md), [Pareto-Prinzip](Pareto_Prinzip) oder die [Eisenhower-Matrix](Eisenhower_Matrix.md) eingesetzt. Dem Projektleiter stehen außerdem verschiedene Mittel zur Verfügung, um die Kommunikation in der Gruppe zu verbessern und die Teammitglieder anzuführen. Dafür können [Feedback-Gespräche](Feedbackgespräche.md) und Methoden des [Teammanagements](Teammanagement.md) genutzt werden. Die Entscheidungsfindung der Gruppe können Methoden wie die [Nutzwertanalyse](Nutzwertanalyse.md) unterstützen.[^7]
 Zur Findung innovativer Lösungsideen werden Kreativitätsmethoden eingesetzt. Kreativitätsmethoden dienen im Allgemeinen dazu, mit bestimmten Vorgaben die Kreativität der Teammitglieder anzuregen, um Problemlösungen zu finden oder Ideen zu generieren.[^15] Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapping.md) und die [Walt-Disney-Methode](Walt_Disney_Methode.md).[^7]
 
 
