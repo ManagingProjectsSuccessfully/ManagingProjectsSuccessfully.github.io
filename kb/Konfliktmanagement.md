@@ -20,12 +20,12 @@ Zentrale Aufgaben der Projektleitung, im klassischen Projektmanagement, sind Une
 Um Konflikte bestmöglich zu lösen, hat man sich Gedanken gemacht welche verschiedenen Arten es von Konflikten gibt. 
 Im Folgenden sind einige dieser Möglichkeiten aufgelistet:
 
-| SACHLICHE KONFLIKTE  | Second Header      |
-| ---------------------| ------------------ |
-| Zielkonflikt         | Wertekonflikt      |
-| Beurteilungskonflikt | Beziehungskonflikt |
-| Verteilungskonflikt  |                    |
-| Rollenkonflikt       |                    |
+| SACHLICHE KONFLIKTE  | PSYCHSOZIALE KONFLIKTE |
+| ---------------------| ---------------------- |
+| Zielkonflikt         | Wertekonflikt          |
+| Beurteilungskonflikt | Beziehungskonflikt     |
+| Verteilungskonflikt  |                        |
+| Rollenkonflikt       |                        |
 [^7]
  
 Mit Hilfe dieser Untergliederung, kann man auf die einzelnen Konflikte mit bestimmten Lösungsansätzen besser und schneller reagieren.
