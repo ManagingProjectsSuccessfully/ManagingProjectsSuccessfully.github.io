@@ -10,6 +10,12 @@ Effizienter und produktiver arbeiten durch Kanban Boards. Das Tool zur Abbildung
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
+# Geschichte des Kanban Boards
+
+1947 von dem Japaner 
+
+
+
 # Was ist ein Kanban Board ?
 
 Das Kanban Board ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus gibt und die Kommunikation 
@@ -17,6 +23,7 @@ im Team erleichtert.
 Außerdem auch ein Schlüsselelement der Kanban Methode, die zur Optimierung und kontinuierlichen Verbesserung jedes 
 Geschäftsprozesses beiträgt.[^1]
 Die Visualisierung der Arbeit auf einem Kanban Board steigert die Produktivität und ermöglicht es mögliche Probleme im Prozess direkt im Blick zuhaben.
+Sie ermöglichen Teams einen klaren Überblick über alle Arbeitselemente und steuern sie über die verschiedenen Phasen ihres Workflows.
 
 ## Verschiedene Kanbanboards
 
@@ -24,10 +31,12 @@ Durch die beliebtheit der Kanban Boards findet man sie fast überall.
 Häufig um Geschäftsprozesse abzubilden, jedoch auch zur Förderung der Teamwork oder dem organisieren privater Aufgaben.
 Sie unterscheiden sich in ihrer struktur durch ihre zunehmenden Spalten und Reihen, durch welche die Komplexität aufgezeigt werden.[^2]
 
+* Das einfache kanban Board
 *
 *
 *
-*
+
+BILDER
 
 # Wie fuktioniert ein Kanban Board
 
@@ -43,6 +52,12 @@ Jedes Kanban-Board ist in drei grundlegende Abschnitte unterteilt, die den Statu
 
 Zur detaillierten Abbildung des jeweiligen Prozesses können so viele Unterabschnitte erstellen, wie zur präzisen Visualierung des jeweiligen Workflows gebraucht 
 werden.
+
+## So benutzt man ein Kanban Board
+
+## Der aufbau eines Klassischen kanban Boards
+
+
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
