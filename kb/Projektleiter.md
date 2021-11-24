@@ -7,7 +7,7 @@ anrechnung: k
 
 Im klassischen Projektmanagement ist der Projektleiter für die Steuerung des Projektes und für die operative Planung zuständig. Für die Planung bestimmt er die Ziele und übernimmt das Management der Ressourcen. Insbesondere ist er für die Termin-, Kosten- und Sachziele unter der Berücksichtigung der angestrebten Produktqualität verantwortlich.
 
-![Projektleiter-klein](Projektleiter/Projektleiter-klein.webp]
+![Projektleiter](Projektleiter/Projektleiter.png]
 
 # Die zwei Arten ein Projekt zu leiten:
 
