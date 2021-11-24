@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 
-# Projektkultur:
+# Projektteam_Kultur
 
 Die Projektkultur umfasst alle Regeln, Werte und Normen eines Projektteams, die für dessen Verhalten, Umgang und Form der Kommunikation gelten. Projektkultur wird häufig im Team durch die Teamkultur erlebbar gemacht. Durch geltende Werte und Normen ist für alle Mitglieder transparent sichtbar, welche Handlungen als gut und wünschenswert und welche als negativ angesehen werden.
 Eine Projektkultur sollte durch die Projektleitung gefördert werden. Es bietet sich an, am Anfang eines Projekts, eine Projektauftaktsveranstaltung, vielleicht auch über 2 Tage, zu machen. Bei dieser können sich sowohl alle Teammitglieder erstmal kennenlernen und ein Wir-Gefühl entwickeln, sowie erste Grundsätze und Werte für das gemeinsame Arbeiten geschaffen werden[^1].
