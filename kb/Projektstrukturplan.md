@@ -8,7 +8,7 @@ anrechnung: k
 
 Eines der wichtigsten Dokumente für das Projektmanagement, wenn nicht sogar die wichtigste Projektmanagement-Methode stellt der Projektstrukturplan dar. Doch was genau bezweckt ein Projektstrukturplan, wie wird er aufgebaut und was beinhaltet er?
 
-Mit dem Projektstrukturplan, auch PSP abgekürzt, wird die Arbeit des Projekts in kleinere Aufgaben aufgeteilt. Er reduziert die inhaltliche Komplexität und ist das zentrale Planungs-, Kommunikations- und Controlling-Instrument[^3]. Vor allem bei umfassenden Aufgabenstellungen, deren erste große Herausforderung es ist, sich einen Überblick über die Gesamtaufgabe zu schaffen, kann der PSP unterstützend wirken. Die Erstellung eines Projektstrukturplans ist nach heutigem Erkenntnisstand des Projektmanagements eine der zentralen Aufgaben der Projektplanung. Der PSP ist die Grundlage für die Termin- und Ablaufplanung, die Ressourceneinplanung und die Kostenplanung. Zudem fließen die Erkenntnisse aus dem PSP in das Risikomanagement ein. 
+Mit dem Projektstrukturplan, auch PSP abgekürzt, wird die Arbeit des Projekts in kleinere Aufgaben aufgeteilt. Er reduziert die inhaltliche Komplexität und ist das zentrale Planungs-, Kommunikations- und Controlling-Instrument[^1]. Vor allem bei umfassenden Aufgabenstellungen, deren erste große Herausforderung es ist, sich einen Überblick über die Gesamtaufgabe zu schaffen, kann der PSP unterstützend wirken. Die Erstellung eines Projektstrukturplans ist nach heutigem Erkenntnisstand des Projektmanagements eine der zentralen Aufgaben der Projektplanung. Der PSP ist die Grundlage für die Termin- und Ablaufplanung, die Ressourceneinplanung und die Kostenplanung. Zudem fließen die Erkenntnisse aus dem PSP in das Risikomanagement ein. 
 
 Der Projektstrukturplan ist aus dem klassischen Projektmanagement bekannt, in dem man nach dem Wasserfall-Modell arbeitet. Aber auch in agilen Projekten lässt der PSP sich einsetzen, indem zum Beispiel das Projekt in Release- und Sprintaktivitäten zerlegt wird. Da jedoch im PSP vorher alle Aufgaben genau festgelegt werden, steht dies oft im Gegensatz zum agilen Projektmanagement. 
 
@@ -41,17 +41,17 @@ In der phasenorientierten Gliederung teilen Sie das Projekt in Arbeitsetappen. Z
 
 Welche Orientierung gewählt wird, steht grundsätzlich frei. Daneben sind auch Mischformen möglich. Das ist in vielen Projekten unumgänglich und sogar notwendig. Allerdings gilt dann folgende Regel: Sie müssen dieselbe Gliederungsform für Ihre Teilprojekte, Teilaufgaben und Arbeitspakete im Projekt wählen. Was bedeutet das? Man darf ein Teilprojekt bzw. einen Zweig des Projektstrukturplans nicht objektorientiert planen und den anderen Zweig funktionsorientiert. Stattdessen betrachtet man das gesamte Projekt und plant zum Beispiel alle Teilaufgaben objektorientiert und alle Arbeitspakete funktionsorientiert. Werden je nach Branche oder Unternehmen bestimmte Vorgehensmodelle angewendet, kann es sein, dass eine bestimmte Gliederungsart vorgegeben ist. 
 
-Nun zu den großen Vorteilen des Projektstrukturplanes. Er gibt eine sehr gute Übersicht, da er meistes auf eine Seite im Querformat verfasst wird. Die einzelnen Aufgaben sind klar erkennbar und schaffen Klarheit und die Basis für die weitere Projektplanung ist gebildet. Das schafft eine gute Kommunikationsgrundlage und Transparenz. In Meetings kann man sich auf konkrete Teilprojekte oder Arbeitspakete beziehen. Hierdurch werden Missverständnisse vermieden. Der PSP wird im Team erarbeitet. Das Team wird somit frühzeitig in die Planung eingebunden, eine bessere Aufwandsschätzung erfolgt und das Team kann sich besser mit dem Projekt identifizieren. Die Teamarbeit wird erleichtert, da Aufgaben genau zugeteilt und bearbeitet werden können[^3]. Somit kann der Projektstrukturplan eine gute Hilfe sein für die strukturierte Umsetzung eines Projektes nach der klassisches bzw. Wasserfallmethode Für die agile Methode hingegen ist er nur beschränkt anwendbar[^1].
+Nun zu den großen Vorteilen des Projektstrukturplanes. Er gibt eine sehr gute Übersicht, da er meistes auf eine Seite im Querformat verfasst wird. Die einzelnen Aufgaben sind klar erkennbar und schaffen Klarheit und die Basis für die weitere Projektplanung ist gebildet. Das schafft eine gute Kommunikationsgrundlage und Transparenz. In Meetings kann man sich auf konkrete Teilprojekte oder Arbeitspakete beziehen. Hierdurch werden Missverständnisse vermieden. Der PSP wird im Team erarbeitet. Das Team wird somit frühzeitig in die Planung eingebunden, eine bessere Aufwandsschätzung erfolgt und das Team kann sich besser mit dem Projekt identifizieren. Die Teamarbeit wird erleichtert, da Aufgaben genau zugeteilt und bearbeitet werden können[^1]. Somit kann der Projektstrukturplan eine gute Hilfe sein für die strukturierte Umsetzung eines Projektes nach der klassisches bzw. Wasserfallmethode Für die agile Methode hingegen ist er nur beschränkt anwendbar[^1].
 
 
 # Siehe auch
 
 * [ManagingProjectsSuccessfully.github.io/kb/Projektmanagement.md](Projektmanagement.md) 
 * [ManagingProjectsSuccessfully.github.io/kb/Projektarten.md](Projektarten.md)
-* [ManagingProjectsSuccessfully.github.io/kb/Projekthandbuch.md](Projekthandbuch)
-* [ManagingProjectsSuccessfully.github.io/kb/Projektstart.md](Projektstart)
-* [ManagingProjectsSuccessfully.github.io/kb/.md]  Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektstrukturplan.md)
+* [ManagingProjectsSuccessfully.github.io/kb/Projekthandbuch.md](Projekthandbuch.md)
+* [ManagingProjectsSuccessfully.github.io/kb/Projektstart.md](Projektstart.md)
+* [ManagingProjectsSuccessfully.github.io/kb/Projektphasen_klassisch.md](Projektphasen_klassisch.md)
+* [ManagingProjectsSuccessfully.github.io/kb/Projektplanung.md](Projektplanung.md) Verlinkungen zu angrenzenden Themen
 
 # Weiterführende Literatur
 
@@ -60,8 +60,8 @@ Nun zu den großen Vorteilen des Projektstrukturplanes. Er gibt eine sehr gute �
 
 # Quellen
 
-[^1]: [https://www.microtool.de/wissen-online/was-ist-ein-projektstrukturplan/  
+[^1]: [https://dieprojektmanager.com/projektstrukturplan/ 
 [^2]: [https://coman-software.com/projektstrukturplanung-neu-gedacht-vorteile-von-objektorientiertem-projektmanagement/?gclid=EAIaIQobChMIqbGvisiJ9AIVkuR3Ch2Y5wX2EAMYAyAAEgLeT_D_BwE 
-[^3]: [https://dieprojektmanager.com/projektstrukturplan/ 
+[^3]:  [https://www.microtool.de/wissen-online/was-ist-ein-projektstrukturplan/  
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
