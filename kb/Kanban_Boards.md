@@ -12,13 +12,12 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Geschichte des Kanban Boards
 
-1947 von dem Japaner und Ingenieur Toyotas, [Taiichi Ōno](https://de.wikipedia.org/wiki/Taiichi_Ōno) als ursprüngliche Planungsmethode aus der 
-Produktionsprozesssteuerung, um Japan im vergleich zu den USA 
-Konkurrenz fähig zu halten. Mit dem Ziel der Lean Produktion, die produktion ohne Verschwendung.[^4]https://www.pinkuniversity.de/kanban-methode/.
-ZOtat:  Nur das zu produzieren, was nötig ist, wenn es nötig ist und in der Menge, in der es nötig ist. Taiichi Ohno []https://kanbantool.com/de/kanban-guide/die-kanban-geschichte
-Ab 1970 wird diese Steuerungsmethode auch in den USA und Deutschland eingeführt. 2007 übertrug David Anderson dieses Konzept auf die IT und ebnete den Weg nicht
-nur für Produktionsprozesse sondern auch für Projekte, um diese mit Kanban schneller und effizienter zu machen. Bis heute Lean Produktion und Kanban Methode als 
-organistationsform in großen Unternehmen standard.
+1947 von dem Japaner und Ingenieur bei Toyota, [Taiichi Ōno](https://de.wikipedia.org/wiki/Taiichi_Ōno) als ursprüngliche Planungsmethode aus der 
+Produktionsprozesssteuerung entwickelt, um Japan im vergleich zu den USA Konkurrenz fähig zu halten. 
+Mit dem Ziel der Lean Produktion, die Produktion ohne Verschwendung.[^4]https://www.pinkuniversity.de/kanban-methode/.
+Zitat:  Nur das zu produzieren, was nötig ist, wenn es nötig ist und in der Menge, in der es nötig ist. Taiichi Ohno []https://kanbantool.com/de/kanban-guide/die-kanban-geschichte
+Ab 1970 wird diese Steuerungsmethode auch in den USA und Deutschland eingeführt. Erst 2007 übertrug David Anderson dieses Konzept auf die IT und ebnete den Weg nicht nur für Produktionsprozesse sondern auch für Projekte, um diese mit Kanban schneller und effizienter zu machen. 
+Bis heute ist die Lean Produktion und Kanban Methode als Organistationsform in großen Unternehmen standard.
 
 <img width="449" alt="Bildschirmfoto 2021-11-24 um 15 14 56" src="https://user-images.githubusercontent.com/92926914/143254731-118cd134-07e8-4692-9476-99c3d276a4d5.png">
 
@@ -28,9 +27,8 @@ organistationsform in großen Unternehmen standard.
 
 # Was ist ein Kanban Board?
 
-[Kanban](https://de.wikipedia.org/wiki/Kanban) (japanisch "Signal - Karte" ).
-Das Kanban Bord mit seinen Kanban Karten, ist ein visuelles Hilfsmittel, das einen Überblick über 
-den aktuellen Arbeitsstatus verschiedener Prozessabläufe gibt,
+[Kanban](https://de.wikipedia.org/wiki/Kanban)kommt aus dem Japaischen und bedeutet "Signal" - "Karte".
+Das Kanban Bord mit seinen Kanban Karten, ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus verschiedener Prozessabläufe gibt,
 um schnell Problemstellen eines Arbeitsflusses aufzudecken und die Kommunikation im Team erleichtert.
 Zudem ist es auch ein Schlüsselelement der Kanban Methode, die zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses beiträgt.[^1]
 
@@ -47,7 +45,9 @@ Eine Kanban-Karte enthält Informationen über die Aufgabe und deren Status, dar
 
 
 *Kanban Board Bestandteile*
-Sie ermöglichen Teams einen klaren Überblick über alle Arbeitselemente und steuern sie über die verschiedenen Phasen ihres Workflows.Sie ermöglichen Teams einene
+
+Sie ermöglichen Teams einen klaren Überblick über alle Arbeitselemente und steuern sie über die verschiedenen Phasen ihres Workflows.
+
 
 # Was braucht man um ein Kanban Board zu erstellen?
 
@@ -109,7 +109,20 @@ Man erkennt schnell, dass nicht alle Aufgaben den gleichen Prozessschritten folg
 Mittels den vorherigen 4 Schritten, ist das Taskboard angelegt und man kann schon jetzt mit einem Blick sehen, wo Probleme mit dem Arbeitsflusst existieren.
 
 
-# Prinzipien von Kanban auf das Kanban Board
+# Prinzipien von Kanban angewendet auf das Kanban Board
+
+
+
+|   Prinzipien von Kanban angewendet auf das Kanban Board    | 
+| -----------------------------------------------------------
+| 1  | |Visualsisiere den Fluss des Arbeit                   | 
+| 2  | |Messen und Steuerung des Flusses                     |
+| 3  | |Pull statt Push                                      |
+| 4  | |Limitiere die Menge angefangener Arbeit              |
+| 5  | |Kommunikation                                        |
+
+
+
 
 1. Visualisiere den Fluss der Arbeit [https://www.personalkanban.com/pkandyou]durch 
 
@@ -212,15 +225,6 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 *lustiges Testbild*
 
 
-So kann man eine Tabelle erstellen:
-
-|   To Do       |  In Progress  |   Done
-| ------------- | ------------- | -----------
-| Content Cell  | Content Cell  | 
-| Content Cell  | Content Cell  |
-
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
 
 # Siehe auch
