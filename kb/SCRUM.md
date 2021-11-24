@@ -2,7 +2,7 @@
 title: SCRUM
 tags: agil scrum softwareentwicklung
 author: Harthauer
-anrechnung: agil
+anrechnung: a
 ---
 
 
