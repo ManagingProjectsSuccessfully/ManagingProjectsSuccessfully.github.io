@@ -96,6 +96,8 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 
 [Rosenstock, Jürgen: Microsoft Project 2016, Das umfassende Handbuch, Rheinwerk Computing, 3. aktualisierte Auflage, 2016](https://www.rheinwerk-verlag.de/microsoft-project-2016-das-umfassende-handbuch/)
 
+[Holert, Renke: Microsoft Project 2019, holert, 7. aktualisierte Auflage, 2020https://shop.holert.com/products/microsoft-project-2019](https://shop.holert.com/products/microsoft-project-2019)
+
 # Quellen
 
 [^1]: https://de.wikipedia.org/wiki/Microsoft_Project
