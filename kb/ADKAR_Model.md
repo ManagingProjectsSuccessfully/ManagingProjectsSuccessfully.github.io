@@ -65,7 +65,7 @@ Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Ver
 - Der Fortschritt der Veränderung ist messbar [^10] [^11] [^12]
 - Das Modell erkennt die Bedeutung der Mitarbeiter an [^10] [^11] [^12]
 
-
+ 
 ## Nachteile
 
 - Die Komplexität von Veränderungen wird ignoriert [^10] [^11] [^12]
