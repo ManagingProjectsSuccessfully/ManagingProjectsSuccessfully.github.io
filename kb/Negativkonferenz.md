@@ -2,13 +2,16 @@
 title: Negativkonferenz
 tags: agil klassisch
 author: LucaH12
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Negativkonferenz um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Negativkonferenz ist eine Kreativitätstechnik zur intuitiven Ideenfindung. 
+Sie lässt sich im direkten Gegensatz zum Brainstorming betrachten: 
+Anstelle über Lösungen für ein Problem nachzudenken, wird sich nur auf die möglichen Probleme eines Aspektes fokussiert. 
+Für diese Probleme können dann zu späteren Schritten erneut Kreativitätstechniken angewendet werden, um wiederum neue Lösungen zu finden.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
