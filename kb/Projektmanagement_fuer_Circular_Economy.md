@@ -38,32 +38,60 @@ Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und besteht darauß
 wieder etwas zurückgegeben werden.[^2]
 
 
-# Cradle to Cradle
+# Denkansätze zur Circular Economy
+
+1. Performance Economy
+
+Dieser Denkansatz beschreibt eine Kreislaufwirtschaft und ihre Auswirkungen auf Abfallvermeidung, rationelle Nutzung begrenzter Ressourcen, die Schaffung neuer Arbeitsplätze und
+den Wachstum.[^7]
+
+2. Öko-industrielle Entwicklung
+
+Hier beinhaltet es einen geschlossenen Produktionskreislauf zur Minimierung von Umweltprobleme, wie Boden- und Wasserverschmutzung, Energiemanagement, Ressourceneffizienz etc.
+Dabei ist das Hauptziel die deutliche Verbesserung der wirtschaftlichen Umweltleistung.[^8]
+
+3. Regenerative Gestaltung
+
+In diesem Aspekt behandelt man, die Erneuerung oder Revitalisierung von Energie und Materialien für die Produktion und möchte Bedingungen schaffen für ein nachhaltiges
+Wirtschaftssystem.[^8]
+
+4. Biomimicry
+
+Man spricht hierbei von Innovationen die von der Natur inspriert werden. 
+Die drie Grundprinzipien von Biomimicry.
+- Die Natur als Modell für die Lösung menschlicher Probleme.
+- Die Natur als Messlatte.
+- Die Natur als Mentor.[^8]
+
+5. Cradle to Cradle
 
 ![image](Projektmanagement_fuer_Circular_Economy/Cradle_to_Cradle.jpg)
 
 *Cradle to Cradle [^6]
 
 Kreislaufwirtschaft bezieht sich normalerweise auf die Menge an recycelten Materialien oder die Reduzierung von Abfall. Das Design von Cradle zu Cradle konzentriert sich jedoch 
-auf die Produktqualität, einschließlich der Sicherheit für Mensch und Umwelt. 
+auf die Produktqualität, einschließlich der Sicherheit für Mensch und Umwelt. Wieterhin wird durch dieses Modell ersichtlicher, dass die in einer Kreislaufwirtschaft zwei 
+verschiedene Produkte in Kreisläufen fließen. 
+* Im biologischen Kreislauf kehren Ressourcen in die Natur zurück. 
+* Im technologischen Kreislauf zirkulieren Ressourcen endlos im Kreislauf. [^7]
 
-# Vorteile einer Kreislaufwirtschaft
+6. Blue Economy
+
+Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürlichen Ressourcen durch Innovation und Unternehmertum.[^7]
+
+# Technologien in der Circular Economy
+
+Im folgenden werden die Top 5 der Circular Economy basierten Technologien aufgezeigt
+
+1.
+
+# Chancen einer Kreislaufwirtschaft
 
 * Kosteneinsparungen
 * Treibhausgasemission wird gesenkt
 * Umweltbelastung wird verringert
 * Rohstoffversorgungssteigerung
 * Förderung der Innovation udn Wachstum [^5]
-
-
-# 
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
 # Siehe auch
@@ -88,3 +116,4 @@ So kann man eine Tabelle erstellen:
 [^5]: [Kreisaufwirtschaft: Definiton und Vorteile (Europäische Parlament](https://www.europarl.europa.eu/news/de/headlines/economy/20151201STO05603/kreislaufwirtschaft-definition-und-vorteile)
 [^6]: [Cradle to Cradle](Projektmanagement_fuer_Circular_Economy/Cradle_to_Cradle.jpg)
 [^7]: [Towards the circular economy](https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/sustainability/pdfs/towards_the_circular_economy.ashx)
+[^8]: [Circular Economy: Concepts and Principles](https://jss.utm.md/wp-content/uploads/sites/21/2020/06/JSS-2-2020_5-12.pdf)
