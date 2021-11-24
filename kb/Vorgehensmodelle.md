@@ -64,12 +64,6 @@ Agile Vorgehensmodelle können auch eingesetzt werden, wenn die genaueren Anford
 Es ist möglich klassische und agile Herangehensweise zu kombinieren, beispielsweise indem ausgewählte Projektphasen oder Teilprojekte eines klassischen Vorgehensmodells agil durchgeführt werden. Solche Kombinationen werden auch als hybride Vorgehensmodelle bezeichnet. [^120]
 Als eigene Art von Vorgehensmodellen wird zusätzlich häufig Prototyping aufgeführt. Es ähnelt dem agilen Vorgehen, da das Endergebnis ebenfalls durch schrittweises Ausbauen eines hier Prototyps entsteht. Der Prototyp besitzt dabei früh ausgewählte oder kritische Funktionen, um ein Testen in realisitischer Umgebung zu ermöglichen. [^110]
 
-
-* Wie wählt man ein passendes Vorgehensmodell aus?
-  - Tailoring: Anpassung (oftmals "zuschneiden") eines konkreten Vorgehensmodells
-    vs.
-  - Adaption: Anpassung eines Referenzmodells, um daraus ein Vorgehensmodell abzuleiten [^50]
-
 # Weiterführende Literatur
 Broy, Manfred; Kuhrmann, Marco (2021): Vorgehensmodelle in der Softwareentwicklung. In: Manfred Broy und Marco Kuhrmann (Hg.): Einführung in die Softwaretechnik. Berlin, Heidelberg: SpringerVieweg (Xpert.press), S. 83–124. Online verfügbar unter https://link.springer.com/content/pdf/10.1007%2F978-3-662-50263-1.pdf.
 
