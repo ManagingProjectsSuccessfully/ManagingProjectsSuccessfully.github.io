@@ -66,9 +66,9 @@ Unter Darstellung der Gründe hält es Brooks daher für einen Mythos, dass durc
 # Siehe auch
 
 * [Zeitplanung](Zeitplanung.md)
-* [Methode des kritischen Pfades](Methode_des_kritischen_Pfades.md]
+* [Methode des kritischen Pfades](Methode_des_kritischen_Pfades.md)
 * [Ressourcenplanung](Ressourcenplanung.md)
-* [Gantt Diagramme](Gantt_Diagramme.md]
+* [Gantt Diagramme](Gantt_Diagramme.md)
 
 # Weiterführende Literatur
 
