@@ -58,7 +58,8 @@ Der Weg zu einem erfolgreichen und selbstorganisierenden Team lässt sich in zwe
 | Geteilte Ziele                      | Separate Ziele                          |
 | Hohes Mittarbeiter-Commitment       | Hohes Management Commitment             |
 | Kontinuierliche Verbesserung        | Inkrementelle Verbesserung              |
-| Werte/prinzipienbasiert             | Richtlinien-/prozessbasiert             | (vgl.[^4])
+| Werte/prinzipienbasiert             | Richtlinien-/prozessbasiert             | 
+(vgl.[^4])
 
 # Mögliche Einwände gegen eine Transition 
 
@@ -72,18 +73,6 @@ Oft wird befürchtet, dass eine dominante Persönlichkeit seine Meinung dem Team
 
 ## Fazit 
 Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Teams nicht nur die Projektdurchführung effizient verbessern können und somit auch dem Erfolg des Unternehmens beitragen, sondern auch die Teammitglieder selbst in ihrer eigenen Entwicklung und Selbstverwirklichung weiterbringen. Paradoxerweise ist dennoch die Selbstorganisation erst einmal fremdbestimmt, denn bestimmte Voraussetzungen, Richtlinien und organisatorische Strukturen müssen dennoch vorab geschaffen werden. Dies zeigt auch, dass der Mindset der Führung eine große Rolle dabei spielt ob und wie selbstorganisierende Teams verwirklicht werden können. 
-
-
-
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
 
