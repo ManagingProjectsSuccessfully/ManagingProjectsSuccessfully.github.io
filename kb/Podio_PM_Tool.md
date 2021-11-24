@@ -9,7 +9,7 @@ anrechnung: a
 
 # Geschichte
 
-Anfang 2009 gründeten Jon Froda, Anders Pollas, Kasper Hulthin und der Entwickler Andreas Haugstrup Polio. Anfänglich lief das Projekt allerdings unter dem Namen Hoist. Podio kommt aus dem Lateinischen und bedeutet Plattform und fasst damit die Idee der Firma kurz und griffig zusammen. Dass der Name leicht überall auf der Welt auszusprechen ist, war ein weiterer Grund für die Namensänderung [^3]. 
+Anfang 2009 gründeten Jon Froda, Anders Pollas, Kasper Hulthin und der Entwickler Andreas Haugstrup Polio. Anfänglich lief das Projekt unter dem Namen Hoist. Podio kommt aus dem Lateinischen und bedeutet Plattform und fasst damit die Idee der Firma kurz und griffig zusammen. Dass der Name leicht überall auf der Welt auszusprechen ist, war ein weiterer Grund für die Namensänderung [^3]. 
 
 Seit 2012 ist Podio Teil des US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3].
 
