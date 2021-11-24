@@ -16,7 +16,7 @@ Das **Minimum Viable Product** ist ein Entwicklungskonzept, das Anwendung im agi
 Ein Minimum Viable Product ist die erste Version eines Produktes beziehungsweise der erste Lösungsansatz eines bestehenden Problems, das auf den Markt gebracht wird. Es muss genügend [Features](https://www.caseking.de/glossar/f/feature) mit ausreichender Qualität enthalten, um eine Kundengruppe erwerben zu können. Im Vordergrund steht das Sammeln von möglichst vielen Informationen und Feedback, wie Kunden das neue Produkt verwenden.[^1][^3]
 
 # Konzept des MVP
-Folgende Illustration von Henrik Kniberg zeigt zwei unterschiedliche Herangehensweisen zur Veranschaulichung des Minimum Viable Products. In diesem Beispiel wird davon ausgegangen, dass Menschen möglichst schnell von A nach B gelangen möchten. Die obere Reihe stellt das Missverständnis dar, das im Zusammenhang mit dem MVP oft vorliegt. In vielen Projekten wird der Fehler begangen, eine Lösung zu einem Problem, in diesem Fall das Auto, bereits vorzudefinieren. Wenn die benötigten Ressourcen nicht vorhanden sind, werden die Element nacheinander zusammengefügt und als MVP verkauft, beispielsweis einzelne Bauteile. Dadurch ist in keiner Iterationsstufe eine vollständige beziehungsweise funktionierende Lösung gegeben. Dem Kunden wird dementsprechend während dem Entwicklungsprozess kein Nutzen gebracht. In der unteren Reihe wird hauptsächlich auf die Bedürfnisse der Kunden geachtet, und zwar schnell von A nach B zu gelangen. Anhand dessen wird die erste schlichte Lösungsvariante erstellt, die diese Anforderungen erfüllt, den Nutzer aber noch nicht zufriedenstellen muss. Anhand neuen Feedbacks werden die Lösungen weiter überarbeitet und abgestimmt bis der Kunde zufrieden ist.
+Folgende Illustration von Henrik Kniberg zeigt zwei unterschiedliche Herangehensweisen zur Veranschaulichung des Minimum Viable Products. In diesem Beispiel wird davon ausgegangen, dass Menschen möglichst schnell von A nach B gelangen möchten. Die obere Reihe stellt das Missverständnis dar, das im Zusammenhang mit dem MVP oft vorliegt. In vielen [Projekten](Projekt.md) wird der Fehler begangen, eine Lösung zu einem Problem, in diesem Fall das Auto, bereits vorzudefinieren. Wenn die benötigten Ressourcen nicht vorhanden sind, werden die Element nacheinander zusammengefügt und als MVP verkauft, beispielsweis einzelne Bauteile. Dadurch ist in keiner [Iterationsstufe](https://www.fremdwort.de/suchen/bedeutung/iterationsstufe) eine vollständige beziehungsweise funktionierende Lösung gegeben. Dem Kunden wird dementsprechend während dem Entwicklungsprozess kein Nutzen gebracht. In der unteren Reihe wird hauptsächlich auf die Bedürfnisse der Kunden geachtet, und zwar schnell von A nach B zu gelangen. Anhand dessen wird die erste schlichte Lösungsvariante erstellt, die diese Anforderungen erfüllt, den Nutzer aber noch nicht zufriedenstellen muss. Anhand neuen Feedbacks werden die Lösungen weiter überarbeitet und abgestimmt bis der Kunde zufrieden ist.
 
 ![Darstellung](Minimum_Viable_Product/MVP_Darstellung.png)
 
@@ -36,14 +36,6 @@ Oft konzentrieren sich Produkt- oder Projektmanager so stark auf die Veröffentl
 
 ## Risikominimierung
 Das Minimum Viable Product trägt auch einen Teil im [Risikomanagement](Risikomanagement.md) bei. Häufig besteht die Meinung, dass eine hohe Anzahl an Features das Geschäft verbessern. In der Realität ist dies jedoch nicht der Fall. Stattdessen führt diese Behauptung meist zu unhandlicheren Produkten und einer Erhöhung des Risikos. Das MVP wägt dabei zwischen der Kapitalrendite (ROI) und dem Risiko ab, das vom Aufwand und von der Zeit abhängig ist.[^3] Durch die stetigen Feedbacks von Kunden, kann schon kurz nach der Einführung des Produktes auf dem Markt erkannt werden, ob die Weiterentwicklung sinnvoll ist. Wird das Produkt von den Kunden nicht akzeptiert, so kann frühzeitig ein [Projektabbruch](Projektabbruch.md) eingeleitet werden, um Verluste zu minimieren.[^4]
-
-
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 
 # Siehe auch
 
