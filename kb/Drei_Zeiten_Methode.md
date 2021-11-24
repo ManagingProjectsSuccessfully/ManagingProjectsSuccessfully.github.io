@@ -60,7 +60,7 @@ Die Schätzmethode eignet sich in frühen Projektphasen besonders gut, wenn der 
 # Quellen
 
 [^1]: [Bohinc, T. (2019). Grundlagen des Projektmanagements
-Methoden, Techniken und Tools für Projektleiter (GABAL-Verlag)](https://wiso.genios.de/document/GABA__9783956238512240)
+Methoden, Techniken und Tools für Projektleiter (GABAL-Verlag)](https://www.google.de/books/edition/Grundlagen_des_Projektmanagements/o53Fc1f-7g0C?hl=de&gbpv=1&printsec=frontcover)
 
 [^2]: [Niklas, C. (2017). PERT Drei-Punkt-Schätzung (Projekt Magazin)](https://www.projektmagazin.de/methoden/pert-drei-punkt-schaetzung)
 
