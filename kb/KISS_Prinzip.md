@@ -1,5 +1,5 @@
 ---
-title: KISS_Prinzip
+title: **KISS_Prinzip**
 tags: agil klassisch
 author: seposer
 anrechnung: k oder a
@@ -16,7 +16,7 @@ Es ist eine Methode des Selbstmanagements, die nicht mit dem Zeitmanagement glei
 ![KISS-Prinzip](Desktop/500_F_40606983_EcXZHtkebO0aRseXhnKldBZSuqTTCv7G.jpg)
 
 
-# Definition
+# **Definition**
 
 Das KISS-Prinzip dient der Reduzierung von Komplexität. Hierbei gilt es als Leitsatz, um Arbeitsprozesse und Kommunikation möglichst einfach zu gestalten, damit es zu keinen Missverständnissen oder unnötig komplexen Bearbeitungszeiten kommt. Auch in einer Zeit von rasanten Veränderungen konzentriert man sich bei gleichzeitig hohen Leistungsanforderungen auf das Wesentliche. 
 
@@ -75,7 +75,7 @@ Die Einfachheit eines Produktes darf nicht dessen Nutzwert schmälern. Einige Pr
 
 # Quellen
 
-[^1]:  (https://www.twt.de/news/detail/management-summary-das-kiss-prinzip-fuer-design-nutzbar-machen.html)
+[^1]:  [Das KISS-Prinzip für Design nutzbar machen, www.twt.de,](https://www.twt.de/news/detail/management-summary-das-kiss-prinzip-fuer-design-nutzbar-machen.html)
 [^2]:  (https://www.selbstaendig-im-netz.de/usability/das-kiss-prinzip-und-wie-es-euch-helfen-kann/)
 [^3]:  (https://www.arocom.de/fachbegriffe/projektmanagement/kiss-prinzip)
 [^4]:  (https://www.upgreat.de/keep-it-smart-and-simple-2943/)
