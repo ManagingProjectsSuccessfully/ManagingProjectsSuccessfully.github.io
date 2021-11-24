@@ -4,7 +4,7 @@ tags: agil
 author: Eugen0209
 anrechnung: a
 ---
-In einem Projekt sind viele Menschen beteiligt, die ein komplexes soziales Gefüge voller Unterschiede bilden. Dabei ist die soziale Kompetenz der beteiligten Personen, auch Soft Skills genannt, von entscheidender Bedeutung. Abgesehen von den inhaltlichen und fachlichen Faktoren beeinflussen die menschlichen, also die „weichen Faktoren“, den Erfolg eines Projekts maßgeblich. Die Projektarbeit kann aber nur in einem Team erfolgen, welche als Projektteam zielgerichtet kreative Lösungsansätze für komplizierte Problemstellungen erarbeitet. Hierbei haben die verschiedenen Teammitglieder zugewiesene Rollen und Kompetenzen, die sie im Projekt ausüben. Im Folgenden werden die Projektrollen ausführlich erläutert.[^1][^2]
+In einem Projekt sind viele Menschen beteiligt, die ein komplexes soziales Gefüge voller Unterschiede bilden. Dabei ist die soziale Kompetenz der beteiligten Personen, auch [Soft Skills](Softskills_im_Projektmanagement.md) genannt, von entscheidender Bedeutung. Abgesehen von den inhaltlichen und fachlichen Faktoren beeinflussen die menschlichen, also die „weichen Faktoren“, den Erfolg eines Projekts maßgeblich. Die Projektarbeit kann aber nur in einem Team erfolgen, welche als Projektteam zielgerichtet kreative Lösungsansätze für komplizierte Problemstellungen erarbeitet. Hierbei haben die verschiedenen Teammitglieder zugewiesene Rollen und Kompetenzen, die sie im Projekt ausüben. Im Folgenden werden die Projektrollen ausführlich erläutert.[^1][^2]
 
 # Projektrollen
 
@@ -39,8 +39,7 @@ Daraus lassen sich Konsequenzen für das Unternehmen und die Projektleitung able
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Soziale_Aspekte_des_Projektmanagements.md)
+* [Soft Skills im Projektmanagement](Softskills_im_Projektmanagement.md)
 
 # Weiterführende Literatur
 
