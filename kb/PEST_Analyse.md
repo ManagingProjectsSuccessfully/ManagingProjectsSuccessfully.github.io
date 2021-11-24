@@ -1,7 +1,7 @@
 ---
 title: PEST_Analyse
 tags: agil klassisch
-author: FilipPrecik
+author: GEDA9263
 anrechnung: k oder a
 ---
 
