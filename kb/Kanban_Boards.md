@@ -12,18 +12,18 @@ Effizienter und produktiver arbeiten durch Kanban Boards. Das Tool zur Visualisi
 
 # Was ist ein Kanban Board?
 
-[Kanban](https://de.wikipedia.org/wiki/Kanban) kommt aus dem Japaischen und bedeutet "Signal" - "Karte".
-Das Kanban Bord mit seinen Kanban Karten, ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus verschiedener Prozessabläufe gibt,
+[Kanban](kanban.md)kommt aus dem Japaischen und bedeutet "Signal" - "Karte".
+Das Kanban Bord mit seinen [Kanban Karten](Kanban_Karten.md), ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus verschiedener Prozessabläufe gibt,
 um schnell Problemstellen eines Arbeitsflusses aufzudecken und die Kommunikation im Team erleichtert.
-Als Schlüsselelement der Kanban Methode, trägt ein Kanban Board zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses bei.[^1]
+Als Schlüsselelement der Kanban Methode, trägt ein Kanban Board zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses bei.
 
 
 # Wie funktioniert ein Kanban Board?
 
-Ursprünglich handelt es sich um ein Whiteboard, das in Spalten und Swimlanes aufgeteilt wurde.
-Jede Spalte stellt eine Prozessphase dar, Swimlanes die verschiedenen Aufgabenbereiche der Aktivitäten. []https://teamhood.com/de/kanban-ressourcen/was-ist-ein-kanban-board/
-Wenn eine Aufgabe in Ihren Arbeitsfluss gelangt, wird sie auf einer Kanban-Karte platziert, die jede Spalte von Links nacht Rechts des Boards durchläuft.[^3]
-Eine Kanban-Karte enthält Informationen über die Aufgabe und deren Status, darunter eine Aufgabenübersicht, den Verantwortlichen, die Frist etc.
+Ursprünglich handelt es sich um ein Whiteboard, das in Spalten und [Swimlanes](Kanban_Swim_Lanes.md) aufgeteilt wurde.
+Jede Spalte stellt eine Prozessphase dar, Swimlanes die verschiedenen Aufgabenbereiche der Aktivitäten. [^1]https://teamhood.com/de/kanban-ressourcen/was-ist-ein-kanban-board/
+Wenn eine Aufgabe in Ihren Arbeitsfluss gelangt, wird sie auf einer Kanban Karte platziert, die jede Spalte von Links nacht Rechts des Boards durchläuft.
+Eine Kanban Karte enthält Informationen über die Aufgabe und deren Status, darunter eine Aufgabenübersicht, den Verantwortlichen, die Frist etc.
 
 
 <img width="449" alt="Bildschirmfoto 2021-11-24 um 15 19 24" src="https://user-images.githubusercontent.com/92926914/143255407-b53e3b4a-215b-4404-b232-4e3965b4f98d.png">
@@ -84,7 +84,7 @@ Durch das einfache Design des Boards kann es schnell unübersichtlich werden, de
 
 Man erkennt schnell, dass nicht alle Aufgaben den gleichen Prozessschritten folgen, somit:
 
-* Einfügen neuer Zeilen (Swimlanes). Diese können für unterschiedliche Personen oder unterschiedliche Projekte stehen.
+* Einfügen neuer Zeilen (Swimlanes). Diese können für unterschiedliche Personen oder unterschiedliche [Projekte](Projekt.md) stehen.
 
 * Einfügen verschiedener Symbole. Somit kann man zwischen wiederkehrenden und einmaligen Aufgaben unterscheiden.
 
@@ -153,19 +153,19 @@ Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kanban_Boards.md)
+* [Kanban](kanban.md)
+* [Kanban Karten](Kanban_Karten.md)
+* [Kanban Work in Progress](Kanban_Work_in_Progress.md)
+* [Kanban Pull Prinzip](Kanban_Pull_Prinzip.md)
+* [Kanban_Swimlanes](Kanban_Swim_Lanes.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-https://www.amazon.de/dp/172392959X?tag=dpm-aawp-bubox-21&linkCode=ogi&th=1&psc=1
+* https://www.amazon.de/dp/172392959X?tag=dpm-aawp-bubox-21&linkCode=ogi&th=1&psc=1
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-[^3]: [Was ist ein Kanban Board?](https://kanbanize.com/de/kanban-ressourcen/kanban-erste-schritte/was-ist-kanban-board)
+[^1]: https://kanbanize.com/de/kanban-ressourcen/kanban-erste-schritte/was-ist-kanban-board
+
 
