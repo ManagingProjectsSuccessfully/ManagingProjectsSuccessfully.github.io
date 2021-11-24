@@ -28,26 +28,32 @@ Im nächsten Schritt wird der Zusammenhang zwischen Zielbeziehungen im klassisch
 
 # Zielbeziehungen im Klassischen Projektmanagement
 
-Bevor ein Projekt gestartet wird, werden immer gewisse Ziele vereinbart werden, die zu erreichen sind. Dementsprechend sollten Ziele klar und deutlich formuliert werden. Hierfür gibt es  die  [„SMART“ Regel](SMART_Ziele.md) und steht für „Specific Measurable Accepted Realistic Timely“ also „Spezifisch, messbar, Attraktiv, Realistisch und Terminiert“. [^5]
-Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht einzelne Ziele möglichst schnell und zugleich qualitativ hochwertig zu erreichen. Bedeutet je anspruchsvoller das Ziel/Ergebnis ist beispielsweise hinsichtlich der Qualität oder Funktion umso höher sind die damit verbundenen Kosten, Leistungen und Zeitlicher Bedarf. Dahingegend müssen wichtige Abstimmungen gemacht werden. Zum besseren Verständnis nachfolgend einige Beispiele: 
+Bevor ein Projekt gestartet wird, müssen immer gewisse Ziele vereinbart werden, die zu erreichen sind. Dementsprechend sollten Ziele klar und deutlich formuliert werden. Hierfür gibt es  die  [„SMART“ Regel](SMART_Ziele.md) „Specific Measurable Accepted Realistic Timely“ [^5]
+Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht einzelne Ziele möglichst schnell und zugleich qualitativ hochwertig zu erreichen. Bedeutet je anspruchsvoller das Ziel/Ergebnis ist, beispielsweise hinsichtlich der Qualität oder Funktion, umso höher sind die damit verbundenen Kosten, Leistungen und Zeitlicher Bedarf. Dahingegend müssen wichtige Abstimmungen gemacht werden. Zum besseren Verständnis nachfolgend einige Beispiele: 
 
 |Das zu erreichende priorisierte Ziel  |Damit verbunden Leistungen  |
 | :-------------:                        |               :-------------: |
 |Leistungsumfang/ziel erhöhen          |Kosten und Projektdauer steigen |
-|Kostenziel hat Priorität (Kosten sinken) |Leistungs-& Zeitziel steigt 
+|Kostenziel hat Priorität (Kosten sinken) |Leistungs- & Zeitziel steigt 
 |Terminziel hat Priorität               |Kosten steigen & Leistungen einsparen
 
-Der Projektmanager muss sich also hier im Klaren werden, was er wie und unter welche Priorität erreichen will. Hier gilt immer zu beachten, dass die Anforderungen des Kundens an erster Stelle stehen. [^5]
+Der Projektmanager muss sich also hier im Klaren werden, was er wie und unter welche Priorität erreichen will. Stets zu beachten ist, dass die Anforderungen des Kundens an erster Stelle stehen. [^5]
+
+Die am häufigsten vorkommende Form der Zielbeziehungen im Projektmanagement sind die konkurrierenden Zielbeziehungen. Der Grund hierfür ist, dass in einem Projekt nicht nur ein Ziel sondern mehrere Ziele nebeneinander aufgeführt werden. Typische Beispiele von konkurrierenden Zielen sind[^9]:
+
+* **Termineinhaltung vs. Budgeteinhaltung**
+* **Termineinhaltung vs. Leistungserstellung (Qualität und/oder Quantität)**
+* **Budgeteinhaltung vs. Leistungserstellung (Qualität und/oder Quantität)** 
 
 ## Zielbeziehungsmatrix/Präferenzmatrix
 
-Um Ziele in einem Projekt besser zu veranschaulichen, eignet sich auch eine sogenannte Zielbeziehungsmatrix oder auch Präferenzmatrix. Beide Matrizes helfen bestimmte Kriterien, Anforderungen etc. in einem Projekt zu priorisieren und diese auch zu vergleichen. Sie kommen vor allem in der BWL, Controlling, Projektmanagement und Qualitätsmanagement zum Einsatz. Diese Matrizes werden anhand folgender Schritte aufgebaut:
+Um Ziele in einem Projekt besser zu veranschaulichen eignet sich auch eine sogenannte Zielbeziehungsmatrix oder auch Präferenzmatrix. Beide Matrizes helfen bestimmte Kriterien, Anforderungen etc. in einem Projekt zu priorisieren und diese auch zu vergleichen. Sie kommen vor allem in der BWL, Controlling, Projektmanagement und Qualitätsmanagement zum Einsatz. Diese Matrizes werden anhand folgender Schritte aufgebaut:
 
-1.	Kriterien sammeln – Brainstromen
-2.	Matrix erstellen
-3.	Paarweiser Vergleich
-4.	Auswertung und Konsquenzen
-5.	Rangfolge erstellen [^6]
+1. Kriterien sammeln – Brainstromen
+2. Matrix erstellen
+3. Paarweiser Vergleich
+4. Auswertung und Konsquenzen
+5. Rangfolge erstellen [^6]
 
 Nachfolgend ein Beispiel einer Präferenzmatrix[^7]:
 
@@ -73,3 +79,4 @@ Nachfolgend ein Beispiel einer Präferenzmatrix[^7]:
 [^6]: [Präferenzmatrix](https://de.wikipedia.org/wiki/Pr%C3%A4ferenzmatrix) 
 [^7]: [Innovation 2.0 pp 257-323|  Die Werkzeuge, Manfred Noe ](https://link.springer.com/book/10.1007/978-3-658-02583-0) 
 [^8]: [Projektmanagementsysteme](https://www.capterra.com.de/sem/compare/directory/30002/project-management/software?account_campaign_id=11412926622&account_adgroup_id=111801304956&target=projektmanagement%20system&ad_id=542893678485&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=EAIaIQobChMInqOVjMqp9AIVA893Ch0V3QyJEAAYAiAAEgJ01_D_BwE)
+[^9]: [Projektanforderungen und Projektziele](https://www.researchgate.net/profile/Michael-Gessler-2/publication/325659457_Projektanforderungen_und_Projektziele/links/5b1bbe89aca272021cf44c86/Projektanforderungen-und-Projektziele.pdf)
