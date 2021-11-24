@@ -68,7 +68,7 @@ In der Abbildung 1 wird ein möglicher Ablauf der Machbarkeitsstudie grafisch ve
 
 ![Abbildung 1](Machbarkeit/Machbarkeitsdimensionen.png)
 
-*Abbildung 1: Empfohlener Ablauf der Durchführung einer Machbarkeitsstudie*
+*Abbildung 1: Empfohlener Ablauf der Durchführung einer Machbarkeitsstudie[^4]*
 
 
 Das Gesamtergebnis einer Machbarkeitsstudie ist der Machbarkeitsnachweis, auch [Proof-of-Concept](Proof-of-Concept.md) genannt, dieser ist die Genehmigung der Durchführbarkeit eines Projekts[^3][^4].
