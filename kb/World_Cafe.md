@@ -42,7 +42,7 @@ Zudem werden folgende Hilfsmittel benötigt:
 
 # Ablauf
 
-Die Moderation begrüßt die Teilnehmer zum World Café und erklärt Ihnen den genauen Ablauf. Themen und Fragestellungen werden präsentiert, wobei es sich um eine, aber auch um mehrere Fragen, die aufeinander aufbauen, handeln kann.[^7] 
+Die Moderation begrüßt die Teilnehmer zum World Café und erklärt ihnen den genauen Ablauf. Themen und Fragestellungen werden präsentiert, wobei es sich um eine, aber auch um mehrere Fragen, die aufeinander aufbauen, handeln kann.[^7] 
 
 Danach wird die Etikette vorgestellt.
 Von allen Teilnehmern wird erwartet, dass sie stets höflich zueinander sind, sich gegenseitig zuhören und aussprechen lassen. Es ist wichtig, dass jeder seine eigenen Ansichten vorträgt und auch auf andere eingeht, um unterschiedliche Sichtweisen zu diskutieren, aufeinander aufzubauen oder auch um mehrere Ideen zu verbinden.[^7]
