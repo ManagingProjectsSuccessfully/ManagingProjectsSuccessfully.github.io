@@ -15,12 +15,11 @@ Wenn das Projekt abgeschlossen wird, bedarf es einiger Reflexion. Das beginnt da
 
 Die Reflexion dient vor allem auch dazu, Daten für weitere Projekte zu sammeln. Fehler sollen dokumentiert werden, damit andere Projektteams diese nicht ebenfalls begehen. Das Projekt endet also nicht mit der Übergabe an den Auftraggeber, sondern erst mit dem erfolgreichen Abschluss, inklusive Dokumentation und Reflexion für zukünftige Projekte.
 
+
 # Der perfekte Zeitpunkt
 
+![Abbildung](Reflexion/what-is-project-management-process.png)
 
-![Beispielabbildung](Reflexion/test-file.jpg)
-
-*lustiges Testbild*
 
 # Fragestellungen
 
