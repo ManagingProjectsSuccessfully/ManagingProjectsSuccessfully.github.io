@@ -12,12 +12,13 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Geschichte des Kanban Boards
 
-1947 von dem Japaner und MItarbeiter Toyotas, Taiichi Ono als ursprüngliche Planungsmethode aus der Produktionsprozesssteuerung, um Japan im vgl zu den USA 
-Konkurrenz fähig zu halten.
+1947 von dem Japaner und INgenieur Toyotas, Taiichi Ono als ursprüngliche Planungsmethode aus der Produktionsprozesssteuerung, um Japan im vgl zu den USA 
+Konkurrenz fähig zu halten. Mit dem Ziel der Lean Produktion, die produktion ohne Verschwendung. [^4]https://www.pinkuniversity.de/kanban-methode/
 KANBAN (jap. Signal + Karte )
-Ab 1970 wird diese steuerungsmethode auch in den USA und Deutschland verwendet. 
+Ab 1970 wird diese steuerungsmethode auch in den USA und Deutschland eingeführt. 
 2007 übertrug david anderson dieses KOnzept auf die IT und ebnete den Weg nicht nur für Produktionsprozesse sondern auch für projekte um diese mit Kanban
-schneller und effizienter zu machen. Kanban dient als HIlfestellung zur visualisierung des arbeitsflusses und 
+schneller und effizienter zu machen. Bos heute lean produktion und kan als organistationsfor in grossen unternehmen standard.
+Kanban dient als HIlfestellung zur visualisierung des arbeitsflusses und 
 
 
 # Was ist ein Kanban Board ?
@@ -29,19 +30,6 @@ Geschäftsprozesses beiträgt.[^1]
 Die Visualisierung der Arbeit auf einem Kanban Board steigert die Produktivität und ermöglicht es mögliche Probleme im Prozess direkt im Blick zuhaben.
 Sie ermöglichen Teams einen klaren Überblick über alle Arbeitselemente und steuern sie über die verschiedenen Phasen ihres Workflows.
 
-## Verschiedene Kanbanboards
-
-Durch die beliebtheit der Kanban Boards findet man sie fast überall.
-Häufig um Geschäftsprozesse abzubilden, jedoch auch zur Förderung der Teamwork oder dem organisieren privater Aufgaben.
-Sie unterscheiden sich in ihrer struktur durch ihre zunehmenden Spalten und Reihen, durch welche die Komplexität aufgezeigt werden.[^2]
-
-* Das einfache kanban Board
-*
-*
-*
-
-BILDER
-# Wozu braucht man ein Task Board?
 
 # Wie fuktioniert ein Kanban Board
 
@@ -58,7 +46,6 @@ klaren Überblick über alle Arbeitselemente und steuern sie über die verschied
 Zur detaillierten Abbildung des jeweiligen Prozesses können so viele Unterabschnitte erstellen, wie zur präzisen Visualierung des jeweiligen Workflows gebraucht 
 werden.
 
-## So benutzt man ein Kanban Board
 
 ## Was packen wir auf das Kanban Board?
 
@@ -113,19 +100,21 @@ mit den vorherigen 4 schritten ist das Taskboard erstellt und man kann schon jet
 
 # Prinzipien von Kanban auf das Kanban Board
 
-1. Visualisieren den Fluss der Arbeit( To Do, In Progress, Done )[https://www.personalkanban.com/pkandyou]durch 
+1. transparenz durch Visualisierung ( To Do, In Progress, Done )[https://www.personalkanban.com/pkandyou]durch 
 
 karten auf einem board, Phasen durch spalten und um sichtbar zu machen wo der arbeitsfluss blockeirt ist ode rman auf die arbeit einer anderen person oder abteilung warten muss, kann man es durch eine markeirung sichtbar machen.
 wenn man merkt, dass das warten schon standartmäsig zu einem prozess gehört, kann man auch eine extra warten spalte einzubauen. vorteil, man bleibt beim lesen des borads bei deiser spalte hängen und 
 
-2. Miss und steuere den Fluss
+Prodktionsfortschritte können auf einem blick erfasst werden
+
+
+2. transparenz 
 Das Board hilft dabei, den fluss zu gut zu beobachten und verbesserungen zu identifizieren. Hilfreich, Boards imme r von rehcts nach links zu lesen, denn man fragt sich dabei automatisch, was es bracuht um den fluss der arbeit aufrecht zu erhalten, wie kann man blocker auflösen oder die arebeit voran bringen?
 es ist wertvoller dinge fertig zu stelen als neue dinge anzufangen.
 STOP STARTING, START FINISHING
 
-3. pULL PRINZIP
-
-aRBEIT ERST NACHZIEHEN, WENN DEI AKTUELLE AUFGABE ERELDIGT IST,
+3. Pull statt Push
+arbeit erst nachziehen, wenn aufgabe ereledigt ist. nicht zugewiesen sondern geholt, automatisch anzahl geregeltz
 
 4. LIMITIERE DEI MENGE ANGEFANGENER ARBEIT
 
@@ -134,12 +123,21 @@ Bsp: sytem limit: auf dem ganzen board max. ur 50 Karten
 oder Limit für eine swimlane, jedoch vorallem wiederfindbar in spalten
 hilfreich um den fokus zu wahren und dinge schneller fertig u stellen 
 
+5.Kommunikation 
+mit den karten werden automatisch alle wichtigen Informationen transportiert.
+
 ## BEISPIELE VON kANBANBOARDS
 
-* diGITALES bOARD (trello, planner, jira)
-* großes physisches board (whiteboard mit post its)
+Durch die beliebtheit der Kanban Boards findet man sie fast überall.
+Häufig um Geschäftsprozesse abzubilden, jedoch auch zur Förderung der Teamwork oder dem organisieren privater Aufgaben.
+Sie unterscheiden sich in ihrer struktur durch ihre zunehmenden Spalten und Reihen, durch welche die Komplexität aufgezeigt werden.[^2]
+
+* Digitales Board (Tools: trello, planner, jira)
+
+* Großes physisches Board (whiteboard mit post its)
 
 hauotziel: Information radiators: information von innen nach aussen sichtbar zu machen
+produktions und arbeitsabläufe in einem kontinuierelichen fluss zu bekommen
 darf nicht untergehen: strategisch so platzieren, dass es nicht untergeht bsp. startseite
 Erfolgserlebnis physisch spüren, wenn man eine karte ereledight hat und 
 
@@ -177,12 +175,6 @@ Kanban erfordert keine bestimmte Konfiguration und kann über einen vorhandenen 
 So kann Kanban in jedem Unternehmen leicht eingeführt werden, weil für den Einstieg keine umfassenden Änderungen nötig sind.
 Kanban
 
-# Wie funktioniert ein Kanban Board ?
-
-Kanban Boards funktionieren 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![](Kanban_Boards/test-file.jpg)
 
@@ -207,11 +199,6 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  | 
 | Content Cell  | Content Cell  |
 
-## SCHRITT 1
-## SCHRITT 2
-## SCHRITT 3
-## SCHRITT 4
-## SCHRITT 5
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
