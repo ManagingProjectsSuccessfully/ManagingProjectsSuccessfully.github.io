@@ -75,8 +75,6 @@ Oft wird befürchtet, dass eine dominante Persönlichkeit seine Meinung dem Team
 ## Fazit 
 Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Teams nicht nur die Projektdurchführung effizient verbessern können und somit auch dem Erfolg des Unternehmens beitragen, sondern auch die Teammitglieder selbst in ihrer eigenen Entwicklung und Selbstverwirklichung weiterbringen. Paradoxerweise ist dennoch die Selbstorganisation erst einmal fremdbestimmt, denn bestimmte Voraussetzungen, Richtlinien und organisatorische Strukturen müssen dennoch vorab geschaffen werden. Dies zeigt auch, dass der Mindset der Führung eine große Rolle dabei spielt ob und wie selbstorganisierende Teams verwirklicht werden können. 
 
-
-
 # Siehe auch
 
 * [Toyota Produktionssysteme](Toyota_Produktionssysteme.md)
@@ -86,6 +84,7 @@ Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Team
 * [Product Owner](Product_Owner.md)
 * [Scrum Master](Scrum_Master.md) 
 * [Scrum](Scrum.md) 
+* [Bottom up Planning](Bottom_Up_Planning)
 
 # Weiterführende Literatur
 
