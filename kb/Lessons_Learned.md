@@ -40,13 +40,13 @@ Abschließend müssen die Lessons Learned noch zum einen gespeichert werden (ide
 
 # Schwierigkeit
 
-Lessons Learned bietet viele Vorteile, allerdings gibt es gewisse Faktoren, die die Durchführung des deutlich erschweren.<br>
+<b>Lessons Learned</b> bietet viele Vorteile, allerdings gibt es gewisse Faktoren, die die Durchführung des deutlich erschweren.<br>
 Durch den späten Zeitpunkt des Workshops kommt es teilweise dazu, dass sich die Mitwirkenden am Projekt sich nicht mehr an alles erinnern, was ihnen im Laufe des Projekts Schwierigkeiten bzw. Erleichterung gebracht hat. Deshalb kann das Führen eines Logbuches sinnvoll sein. 
 <br>
 Eine weitere Schwierigkeit besteht in Stakeholdern, die nicht glauben, dass sich etwas verändern wird durch die Lessons Learned. Sie zeigen deshalb wenig Bereitschaft am Prozess teilzunehmen und ihre Sicht der Dinge offenzulegen. Aus diesem Grund ist es umso wichtiger die zuvor genannten Punkte zu befolgen und die Erkenntnisse nicht nur zu sammeln, sondern auch weiterzureichen und umzusetzen. 
 
 # Einordnung 
-<b>Lessons Learned</b> finden sowohl im agilen als auch im klassischen Projektmanagement Anwendung. Es ist zwar ähnlich zu der Sprint-Retrospektive, allerdings ist der Zeitpunkt und Häufigkeit der Durchführung unterschiedlich. Während die Sprint-Retrospektive am Ende eines Sprints erfolgt (also ungefähr alle 4 Wochen), findet das <b>Lessons Learned</b> am Ende eines Projekts statt. Damit werden die Verbesserungen, anders als bei den Sprint-Retros, erst im nächsten Projekt verwendet. 
+<b>Lessons Learned</b> finden sowohl im agilen als auch im [klassischen](https://managingprojectssuccessfully.github.io/kb/Projektmanagement.html) Projektmanagement Anwendung. Es ist zwar ähnlich zu der Sprint-Retrospektive, allerdings ist der Zeitpunkt und Häufigkeit der Durchführung unterschiedlich. Während die [Sprint-Retrospektive]( https://managingprojectssuccessfully.github.io/kb/Retrospective.html) am Ende eines Sprints erfolgt (also ungefähr alle 4 Wochen), findet das <b>Lessons Learned</b> am Ende eines Projekts statt. Damit werden die Verbesserungen, anders als bei den Sprint-Retros, erst im nächsten Projekt verwendet. 
 
 
 
