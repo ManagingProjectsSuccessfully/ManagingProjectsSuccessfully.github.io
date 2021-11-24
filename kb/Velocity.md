@@ -20,7 +20,8 @@ A und B vollständig und C nicht ganz fertig. So muss man nur die Punkte von A u
 
 Die Geschwindigkeit kann man mit Hilfe eines Velocity Charts visualisieren. Man stellt die Vorhersage und die wirkliche Velocity der jeweiligen Sprints gegenüber und kann so 
 Abweichungen darstellen. Daraufhin sollte sich das Team die Gründe für die Abweichungen oder die korrekten Vorhersagen überlegen um in Zukunft eine noch bessere Planung und 
-Vorhersage treffen zu können. Bild 
+Vorhersage treffen zu können.
+![VelocityVis](https://user-images.githubusercontent.com/92984271/143246428-644cef43-5a4d-4b3e-9ec9-cb1634cf8f2c.jpg)
 
 Die Velocity bietet viele Vorteile für das Projekt. Zum einen kann die Leistung und der Fortschritt des Entwicklungsteams gemessen werden und man erhält so wertvolles 
 Feedback das zu Optimierungen und einem besseren Verständnis der Arbeitsprozesse führt. Zusätzlich ist die Velocity für den Product Owner sehr nützlich da er durch sie genau 
