@@ -110,8 +110,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 Der ursprüngliche Entdecker des Konzepts TDD, Kent Beck, spielte auch eine wichtige Rolle bei der Entwicklung des [Xtreme Programming](Xtreme_Programming.md) (XP). In seinem Buch über TDD[^3] geht er deshalb auf Seite 217 noch speziell darauf ein, wie sich die Grundsätze dieser beiden Arbeitsweisen kombinieren lassen.
 
-* Ein Problem beim Pair-Programming des XP kann sein, dass die Entwickler versuchen, unterschiedliche Probleme zu lösen oder das Problem unterschiedlich interpretieren. Die Orientierung an Tests im TDD vermeidet dass, sodass allen immer klar ist, woran sie gerade arbeiten sollen.
-* TDD bietet mit seinen Tests sinnvolle Meilensteine, an denen das Konzept "Bei Müdigkeit aufhören" des XP gut umsetzbar ist.
+1. Ein Problem beim Pair-Programming des XP kann sein, dass die Entwickler (**TODO Gender**) versuchen, unterschiedliche Probleme zu lösen oder das Problem unterschiedlich interpretieren. Die Orientierung an Tests im TDD vermeidet dass, sodass allen immer klar ist, woran sie gerade arbeiten sollen.
+2. TDD bietet mit seinen Tests sinnvolle Meilensteine, an denen das Konzept "Bei Müdigkeit aufhören" des XP gut umsetzbar ist.
+3. Auch die kontinuierliche Integration wird durch die klaren Durchläufe des RGR-Zyklus unterstützt.
+4. Das [YAGNI-Prinzip](https://de.wikipedia.org/wiki/YAGNI) des XP hilft, die Testfälle einfacher zu halten, umgekehrt werden auch keine unnötigen Funktionen eingebaut, wenn sie nicht zum Bestehen der Tests benötigt werden.
+5. Das Refactoring am Ende des RGR-Zyklus garantiert die Einhaltung der XP-Regeln (z.B. die Abwesenheit von Duplikaten).
+6. Wenn neue Funktionen bereits ausreichend getestet sind, ist es weniger risikoreich, sie bei Kunden (**TODO Gender**) bereits einzusetzen, was die [Continuous Delivery](https://de.wikipedia.org/wiki/Continuous_Delivery) erleichtert.
 
 # Siehe auch
 
