@@ -5,7 +5,7 @@ author: Eugen0209
 anrechnung: k 
 ---
 
-Projekt Nearshoring (auf Deutsch Nahverlagerung) gilt als Sonderform des Projekt Offshorings und bedeutet, dass betriebliche Aktivitäten in nahegelegene Länder z.B. aus Westeuropa nach Osteuropa verlagert werden. Besonders beliebt ist es im High-Tech Dienstleistungs-bereich wie der IT-Branche, bei den Finanzen, im Management sowie in der Steuerberatung. Das Gegenteil davon ist das Farshoring, wobei Aktivitäten in weiter entfernte Länder wie Indien oder China umgesiedelt werden. Abgesehen von geografischen Verlagerungen gibt es organisatorische Verlagerungen, die als Outsourcing bezeichnet werden.[^1][^2]
+Projekt Nearshoring (auf Deutsch Nahverlagerung) gilt als Sonderform des [Projekt Offshorings](Projekt_Offshoring.md) und bedeutet, dass betriebliche Aktivitäten in nahegelegene Länder z.B. aus Westeuropa nach Osteuropa verlagert werden. Besonders beliebt ist es im High-Tech Dienstleistungs-bereich wie der IT-Branche, bei den Finanzen, im Management sowie in der Steuerberatung. Das Gegenteil davon ist das Farshoring, wobei Aktivitäten in weiter entfernte Länder wie Indien oder China umgesiedelt werden. Abgesehen von geografischen Verlagerungen gibt es organisatorische Verlagerungen, die als Outsourcing bezeichnet werden.[^1][^2]
 
 # Ziele des Nearshorings
 
@@ -44,8 +44,7 @@ Das Potential des Projekt Nearshorings ist noch nicht ausgereizt und die Anwendu
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projekt_Nearshoring.md)
+* [Projekt Offshoring](Projekt_Offshoring.md)
 
 # Weiterführende Literatur
 
