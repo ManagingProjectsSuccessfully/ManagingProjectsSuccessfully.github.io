@@ -5,45 +5,38 @@ author: FilipPrecik
 anrechnung: k
 ---
 
-In diesem Beitrag wird die Kanbantechnik beschreibt. Zuerst ist die Geschichte und die Bedeutung kurz erklärt. Danach sind die Vorteile der Kanbantechnik im Projektmanagement erläutert. Der Beitrag fährt mit den Kanbanprinzipen und Practises fort und am Ende des Beitrags sind die WIP-Limite und ihre Vorteile beschreibt und erklärt.
+In diesem Beitrag ist die Kanbantechnik beschreibt. Zuerst ist die Geschichte und die Bedeutung kurz erklärt. Danach sind die Vorteile der Kanbantechnik im Projektmanagement erläutert. Der Beitrag fährt mit den Kanbanprinzipen und Practises fort und am Ende des Beitrags sind die WIP-Limite und ihre Vorteile beschreibt und erklärt.
 
 # Kanbangeschichte und die Bedeutung des Begriffs
 
-Kanban is eine Technik, die Visualisierung anwendet. Der Begriff Kanban kommt aus Japan und in der orinalen Bedeutung ist es ein visuelles Zeichen oder visuelle Karte[^4]. Als ein Vater der Kanbantechnik ist am meisten verzeichnet Taiichi Ohno[^1], der Kanban für den ersten Mal in Toyota verwendet hat. Die Kanbanmethodik spielt eine wichtige Rolle in JIT (Just in time)[^2][^3], auch wie TPS (Toyota Production System)[^5] bekannt, und es war hier auch für den ersten Mal benutz.
+Kanban is eine Technik, die Visualisierung anwendet. Der Begriff Kanban kommt aus Japan und in der orinalen Bedeutung ist es ein visuelles Zeichen oder visuelle Karte[^4]. Als der Vater der Kanbantechnik ist am meisten verzeichnet Taiichi Ohno[^1], der Kanban für den ersten Mal in Toyota verwendet hat. Die Kanbanmethodik spielt eine wichtige Rolle in JIT (Just in time)[^2][^3], auch wie TPS (Toyota Production System)[^5] bekannt, und es war hier auch zum ersten Mal benutz.
 
 # Die Vorteile des Kanbans für das Projectsmanagement
 
-Die Vorteile des Kanbans sind sehr breit. Ursprünglich ist die Technik gemeint, um WIP und die Gesamtkosten der Bestandszustand zu minimalisieren [^6]. Außerdem, hilft die Kanbantechnik die Arbeit besser zu visualisieren, indem uns die Übersicht der allen Projektsausgaben gibt, und auch limitiert WIP, die auf eigenen Mitarbeitern liegt [^7]. Sogar laut einer Studie zeigt Kanban bessere Ergebnise der Effektivität für die Software development Projekte im Vergleich zu Scrum[^8].
+Die Vorteile des Kanbans sind sehr breit. Ursprünglich ist die Technik gemeint, um WIP und die Gesamtkosten des Bestandszustands zu minimalisieren [^6]. Außerdem, hilft die Kanbantechnik die Arbeit besser zu visualisieren, indem uns die Übersicht der allen Projektsausgaben gibt, und auch limitiert WIP, die auf einzelnen Mitarbeitern liegt [^7]. Sogar laut einer Studie zeigt Kanban bessere Ergebnise der Effektivität für die Software development Projekte im Vergleich zu Scrum[^8].
 
 # Die Prinzipe und Practises in Kanban
 
-Kanban kann man sehr flexibel benutzen und die Nutzung im Praxis ist ziemlich einfach. Trotz gibt es hier 4 Grundprinzipe und Practises[^9], nach denen sich Kanban richtet. Das Bild unten zeigt sie:
+Kanban kann man sehr flexibel benutzen und die Nutzung in der Praxis ist ziemlich einfach. Trotz gibt es hier 4 Grundprinzipe und Practises[^9], nach denen sich Kanban richtet. Das Bild unten zeigt sie:
 
 ![Principles and practises_Kanban](https://user-images.githubusercontent.com/93159758/142882383-041e68f1-48de-46d3-9a21-58d63cc31723.png)
 
-*Foto: Kanban practises and principles[^10]*
+*Bild 1.[^10], Kanban practises and principles*
 
 # WIP-Limite Feststellung and warum sind diese Limite wichtig?
 
-WIP (Work in progress) kann man erklären wie eine Nummer der parallelen Prozesse, die für jedes Prozess erlaubt sind.[^11] Als ein Team arbeitet auf einem Projekt, es ist schwierig eine Aufgabe zu 100% beenden als 10 Aufgaben zu 10%. Warum ist es so? Einfach erklärt – wenn die Leute auf 10 Aufgaben arbeiten, müssen sie auch ihre Konzentration unter die 10 Aufgaben verteilen. Wenn sie auf einer Aufgabe arbeiten wollen, müssen sie sich dann zuerst in der Aufgabe orientieren und das verbraucht eine Zeit. Die Grafik unten zeigt es uns visuell:
+WIP (Work in progress) kann man erklären wie eine Nummer der parallelen Prozesse, die für jedes Prozess erlaubt sind.[^11] Als ein Team arbeitet auf einem Projekt, es ist einfacher eine Aufgabe zu 100% beenden als 10 Aufgaben zu 10%. Warum ist es so? Einfach erklärt – wenn die Leute auf 10 Aufgaben arbeiten, müssen sie auch ihre Konzentration unter die 10 Aufgaben verteilen. Wenn sie auf einer Aufgabe arbeiten wollen, müssen sie sich dann zuerst in der Aufgabe orientieren und das verbraucht eine Zeit. Die Grafik unten zeigt es uns visuell:
 
 <img width="394" alt="Screenshoot from book" src="https://user-images.githubusercontent.com/93159758/142884959-6e9950f7-f468-45c7-a65f-270849b4b4ac.png">
 
-*Foto: Sequential vs. quasisimultaneous operations[^12]*
+*Bild 2.[^12], Sequential vs. quasisimultaneous operations*
 
 Um dieses zu verhindern, kommt Kanban mit dem Begriff WIP Limit oder Work in Progress limit. Wie kann man raten, es limitiert die Nummer der Arbeitsaufgaben. Die WIP Limite ist ein Grundprinzip von den allen Grundprinzipen in Kanban und deshalb ist es wichtig, damit zu arbeiten lernen. Die WIP Limite ist aber nicht nur einmal festgestellt und dann kann man damit nichts machen. Die WIP Limite muss sich der Änderung in der Situation anpassen.[^12]
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 # Die Vorteile der WIP-Limite[^12]
 
 * Die Mitarbeitern konzentrieren sich nur auf eine Aufgabe und überspringen nicht jedes Mal auf die andere
-* Lower lead times
+* Niedriger lead times
 * Höhere Qualität
 * Die Arbeit auf den Aufgaben kann besser vorausgesehen werden. Das bedeutet, dass die Endefristen besser vorausgesehen werden können.
 * Weniger Störungselemente
@@ -52,12 +45,8 @@ So kann man eine Tabelle erstellen:
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kanban_Work_in_Progress.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Mehr über das Thema Kanban ist in diesem [Beitrag](Kanban.md)
+* Hybride Kanbantechnik Dênis, G.L., Sereno, B., Silva, D.S.A. da, Sampaio, M., Massote, A.A., Simões, J.C., 2017. Implementation of hybrid Kanban-CONWIP system: a case study. Journal of Manufacturing Technology Management 28, 714–736. http://dx.doi.org/10.1108/JMTM-03-2016-0043
 
 # Quellen
 
