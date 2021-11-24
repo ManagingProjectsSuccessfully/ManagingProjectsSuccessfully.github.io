@@ -9,7 +9,7 @@ anrechnung: a
 
 # Geschichte
 
-Anfang 2009 gründeten Jon Froda, Anders Pollas, Kasper Hulthin und der Entwickler Andreas Haugstrup Podio. Anfänglich lief das Projekt unter dem Namen Hoist. Podio kommt aus dem Lateinischen und bedeutet Plattform und fasst damit die Idee der Firma kurz und griffig zusammen. Dass der Name leicht überall auf der Welt auszusprechen ist, war ein weiterer Grund für die Namensänderung [^3]. 
+Anfang 2009 gründeten Jon Froda, Anders Pollas, Kasper Hulthin und der Entwickler Andreas Haugstrup Podio. Anfänglich lief das [Projekt](Projekt.md) unter dem Namen Hoist. Podio kommt aus dem Lateinischen und bedeutet Plattform und fasst damit die Idee der Firma kurz und griffig zusammen. Dass der Name leicht überall auf der Welt auszusprechen ist, war ein weiterer Grund für die Namensänderung [^3]. 
 
 Seit 2012 ist Podio Teil des US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3].
 
@@ -28,7 +28,7 @@ Von Podio gehoste Webformulare können in Websites integriert werden, wie beispi
 Durch Podio Share können Appeinträge, wie beispielsweise ein [Projekt](Projekt.md) aus einer Projekt App, intern und extern geteilt werden [^4].
 
 ## Workspaces
-Workspaces dienen zur organisation von Projekten und der Zusammenarbeit in Projekten. Dabei können interne und externe Mitglieder einem Workspace zugeordnet werden. Alle Mitarbeitenden einer Organisation können den Workspace sehen und bei belieben beitreten. In den Einstellungen kann eine eingeschränkte Mitgliedschaft eingestellt werden. Dabei können Mitarbeitende per Einladung beitreten [^1][^4]. 
+Workspaces dienen zur organisation von [Projekten](Projekt.md) und der Zusammenarbeit in Projekten. Dabei können interne und externe Mitglieder einem Workspace zugeordnet werden. Alle Mitarbeitenden einer Organisation können den Workspace sehen und bei belieben beitreten. In den Einstellungen kann eine eingeschränkte Mitgliedschaft eingestellt werden. Dabei können Mitarbeitende per Einladung beitreten [^1][^4]. 
 
 Im Mitarbeiternetzwerk von Podio werden alle Mitarbeitenden einer Organisation in einem Workspace vernetzt [^4]. 
 
