@@ -5,14 +5,19 @@ author: leusl8
 anrechnung: k oder a
 ---
 
-Effizienter und produktiver arbeiten durch Kanban Boards. Das Tool zur Abbildung und Visualisierung des Workflows.
+Effizienter und produktiver arbeiten durch Kanban Boards. Das Tool zur Visualisierung Strukturierung und Verbesserung des Workflows.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
 # Geschichte des Kanban Boards
 
-1947 von dem Japaner 
+1947 von dem Japaner und MItarbeiter Toyotas, Taiichi Ono als ursprüngliche Planungsmethode aus der Produktionsprozesssteuerung, um Japan im vgl zu den USA 
+Konkurrenz fähig zu halten.
+KANBAN (jap. Signal + Karte )
+Ab 1970 wird diese steuerungsmethode auch in den USA und Deutschland verwendet. 
+2007 übertrug david anderson dieses KOnzept auf die IT und ebnete den Weg nicht nur für Produktionsprozesse sondern auch für projekte um diese mit Kanban
+schneller und effizienter zu machen. Kanban dient als HIlfestellung zur visualisierung des arbeitsflusses und 
 
 
 
@@ -42,13 +47,13 @@ BILDER
 
 Ursprünglich war es ein Whiteboard, das in Spalten und Swimlanes aufgeteilt wurde.
 Jede Spalte stellt eine Prozessphase dar, Swimlanes die verschiedenen Aufgabenbereiche der Aktivitäten. 
-Wenn eine Aufgabe in Ihren Workflow gelangt, wird sie auf einer Kanban-Karte platziert, die jede Spalte des Boards durchläuft. Deshalb nennt man es auch Kanban-Aufgaben-Board.[^3]
+Wenn eine Aufgabe in Ihren Workflow gelangt, wird sie auf einer Kanban-Karte platziert, die jede Spalte des Boards durchläuft. Deshalb nennt man es auch Kanban-
+Aufgaben-Board.[^3]
 
 Jedes Kanban-Board ist in drei grundlegende Abschnitte unterteilt, die den Status Ihrer Aufgaben anzeigen:
 
-* zu erledigen
-* in Arbeit
-* Erledigt 
+Sie ermöglichen Teams einen klaren Überblick über alle Arbeitselemente und steuern sie über die verschiedenen Phasen ihres Workflows.Sie ermöglichen Teams einen 
+klaren Überblick über alle Arbeitselemente und steuern sie über die verschiedenen Phasen ihres Workflows.
 
 Zur detaillierten Abbildung des jeweiligen Prozesses können so viele Unterabschnitte erstellen, wie zur präzisen Visualierung des jeweiligen Workflows gebraucht 
 werden.
@@ -56,6 +61,18 @@ werden.
 ## So benutzt man ein Kanban Board
 
 ## Der aufbau eines Klassischen kanban Boards
+
+Im KLassischen Medell gibt es 3 SPalten:
+
+*zu erledigen
+*in Arbeit
+*erledigt
+
+bIld
+
+Zu erledigen: in diese Spalte wird eingetragen, welche Aufgaben noch nicht begonnen wurden
+in arbeit: hier finden sich alle Aufgaben wieder, die derzeit bearbeitet werden
+erledigt: Aufgaben, die fertig gestellt wurden
 
 
 
@@ -93,6 +110,7 @@ So kann Kanban in jedem Unternehmen leicht eingeführt werden, weil für den Ein
 Kanban
 
 # Wie funktioniert ein Kanban Board ?
+
 Kanban Boards funktionieren 
 * Verschiedene Teile eines Themas 
 * Historische Entwicklung
