@@ -22,10 +22,9 @@ leistungsstarkes Team, das auf ein gemeinsames Ziel hinarbeiten kann. Im Folgend
 
 [^2].
 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle)
 
 ![Stages_Tuckman_model](https://user-images.githubusercontent.com/92668932/143244002-85eb062a-88a5-4d62-a6bd-6aa6eec4b78a.png)
-
+*Tuckman´s stages of team development*
 
 ## Forming: die Orientierungsphase
 
@@ -33,10 +32,6 @@ Diese ist die Erste in Tuckmans Phasen der Gruppenentwicklung und ähnelt der Er
 sich das Team kennen und es geht hauptsächlich darum, allen Mitgliedern eine Orientierung zu geben, wie die Gruppe zusammenarbeiten wird. Da die Gruppendynamik und die Rollen im
 Team noch nicht festgelegt sind, übernimmt der Teamleiter oft die Führung und leitet die einzelnen Mitglieder an. Während der Forming-Phase nach Tuckman können die neuen
 Teammitglieder über Teamziele, Grundregeln und individuelle Rollen diskutieren. 
-
-![stages_of_team_development_in_relation_to_the_team_effectiveness](https://user-images.githubusercontent.com/92668932/143008033-45f63bf0-dc55-45c9-9605-eefe37d484e2.png)
-
-*Tuckman´s stages of team development in relation to the team effectiveness*
 
 ## Storming: die Konfrontationsphase
 
