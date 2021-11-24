@@ -18,7 +18,7 @@ verschafft dies dem betreffendem Unternehmen Wettbewerbsvorteile.[^1][^2]
 
 Unabhängig vom Umfang des vorhandenen Wissens durchläuft der Wissenstransfer immer die Phasen Initiierung, Wissensfluss und Integration[^3]. In der Phase der Initiierung 
 wird der Wissenstransfer eingeleitet, sprich das Wissen wird identifiziert, dokumentiert und auch bewertet. In der Wissensflussphase findet die tatsächliche Transaktion 
-des Wissens statt und in der letzten Phase wird das transferierte Wissen erneut überprüft und dann gegebenenfalls integriert.[^4][^5]
+des Wissens statt und in der letzten Phase wird das transferierte Wissen erneut geprüft und dann gegebenenfalls integriert.[^4][^5]
 
 ![Phasen des Wissenstransfers](Wissenstransfer/Phasen_des_Wissenstransfers_nach_Krogh_und_Köhne.png)
 
