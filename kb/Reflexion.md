@@ -21,6 +21,8 @@ Die Reflexion dient vor allem auch dazu, Daten für weitere Projekte zu sammeln.
 
 Klassisches Instrument des Wissensmanagements in traditionellen Projekten sind die Lessons Learned und die Projektanalyse am Projektende. Regelmäßige Reflexionen sind eher die Ausnahme.
 
+Anstatt der regelmäßigen Reflektion zwischendurch greift man beim klassischen Projektmanagement zu klassischen Instrumenten des Wissensmanagements wie etwa die [Lessons Learned](Lessons_Learned.md) und die Projektanalyse am Projektende.
+
 ![Abbildung](Reflexion/what-is-project-management-process.png)
 
 ## Verschiedene Arten der Reflexion
