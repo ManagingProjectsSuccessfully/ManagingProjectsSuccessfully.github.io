@@ -107,6 +107,43 @@ Man kann feststellen, dass nicht alle Aufgaben den gleichen Prozessschritten fol
 
 * Einfügen einer Fast Lane: wird verwendet für aufgaben mit besonderer Priorität, die schnell abgearbeitet werden müssen
 
+### Schritt 5: Taskboard Erstellt
+
+mit den vorherigen 4 schritten ist das Taskboard erstellt und man kann schon jetzt mit einem blick sehen, wo es Probleme mit der arbeit gibt.
+
+# Prinzipien von Kanban auf das Kanban Board
+
+1. Visualisieren den Fluss der Arbeit( To Do, In Progress, Done )[https://www.personalkanban.com/pkandyou]durch 
+
+karten auf einem board, Phasen durch spalten und um sichtbar zu machen wo der arbeitsfluss blockeirt ist ode rman auf die arbeit einer anderen person oder abteilung warten muss, kann man es durch eine markeirung sichtbar machen.
+wenn man merkt, dass das warten schon standartmäsig zu einem prozess gehört, kann man auch eine extra warten spalte einzubauen. vorteil, man bleibt beim lesen des borads bei deiser spalte hängen und 
+
+2. Miss und steuere den Fluss
+Das Board hilft dabei, den fluss zu gut zu beobachten und verbesserungen zu identifizieren. Hilfreich, Boards imme r von rehcts nach links zu lesen, denn man fragt sich dabei automatisch, was es bracuht um den fluss der arbeit aufrecht zu erhalten, wie kann man blocker auflösen oder die arebeit voran bringen?
+es ist wertvoller dinge fertig zu stelen als neue dinge anzufangen.
+STOP STARTING, START FINISHING
+
+3. pULL PRINZIP
+
+aRBEIT ERST NACHZIEHEN, WENN DEI AKTUELLE AUFGABE ERELDIGT IST,
+
+4. LIMITIERE DEI MENGE ANGEFANGENER ARBEIT
+
+WIP Limits (Work IN Progres LImits), begrenzung der maximalen anzahl an tast für einen bestimmten Bereich.
+Bsp: sytem limit: auf dem ganzen board max. ur 50 Karten
+oder Limit für eine swimlane, jedoch vorallem wiederfindbar in spalten
+hilfreich um den fokus zu wahren und dinge schneller fertig u stellen 
+
+## BEISPIELE VON kANBANBOARDS
+
+* diGITALES bOARD (trello, planner, jira)
+* großes physisches board (whiteboard mit post its)
+
+hauotziel: Information radiators: information von innen nach aussen sichtbar zu machen
+darf nicht untergehen: strategisch so platzieren, dass es nicht untergeht bsp. startseite
+Erfolgserlebnis physisch spüren, wenn man eine karte ereledight hat und 
+
+
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
@@ -154,7 +191,7 @@ Kanban Boards funktionieren
 # Hauptvorteile der Verwendung von Kanban Boards
 
 * Sichtbarkeit, erlciehterung zur erkennung von Problemen oder zeitfressern des workflows wie zum beispiel, abhängigkeit, oder engpässe um sich so effizienter zu koordinieren.
-* 
+* Hilfreich zu verbesserung
 * hier 
 * ist
 * eine 
@@ -177,16 +214,6 @@ So kann man eine Tabelle erstellen:
 ## SCHRITT 5
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-
-# Prinzipien
-
-1. Visualisieren ( To Do, In Progress, Done )[https://www.personalkanban.com/pkandyou]
-2. Begrenzung (WorkInProgress)
-3. Verbesserung 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
