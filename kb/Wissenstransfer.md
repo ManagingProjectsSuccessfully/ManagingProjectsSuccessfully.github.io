@@ -39,7 +39,7 @@ Wissensverlust als andere Vorgehensweisen dar.[^7]
 Bezüglich des Ablaufs gibt es beim agilen Projektmanagement einen enormen Unterschied. Dieser ist [iterativ](https://de.wikipedia.org/wiki/Iterativ) 
 aufgebaut, das heißt Arbeitsschritte werden öfter durchlaufen, um das bestmögliche Ergebnis für das Projekt zu erlangen. Diese Herangehensweise hat zur Folge, 
 dass der Wissenstransfer deutlich komplexer und schwieriger zu managen ist, da jederzeit ein Rückschritt möglich ist und dies bei unsorgfältiger 
-Kommunikation zu Verwirrung führen kann.[^8]
+Kommunikation zu Verwirrung führt.[^8]
 
 
 ## Vorteile eines erfolgreichen Wissenstransfers
