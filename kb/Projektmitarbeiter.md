@@ -13,7 +13,7 @@ Zu Anfang, eine kurze Definition von dem Begriff **Projektmitarbeiter**, um eine
 
 
 
- # **Was versteht man unter dem Wort Projektmitarbeiter?**
+ # **Was versteht man unter dem Wort Projektmitarbeiter für das Projekt?**
 
 Der Begriff Projektmitarbeiter wird oft als Übergriff für unterschiedliche Rollen innerhalb eines Projekts genutzt, 
 die abhängig von der Art und Größe des Projekts besetzt werden oder auch nicht. 
