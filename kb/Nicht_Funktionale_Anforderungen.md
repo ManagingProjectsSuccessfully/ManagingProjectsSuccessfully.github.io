@@ -5,7 +5,9 @@ author: seriousTake
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Nicht_Funktionale_Anforderungen um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Im Projektmanagement unterscheidet man unter anderem zwischen Funktionalen und Nicht-Funktionalen Anforderungen.
+Während funktionale Anforderungen vorgeben was ein Produkt (z.B. Software) können soll bzw. was für Funktionen und Features es haben soll,
+werden bei nicht-funktionalen Anforderungen Randbedingungen wie Qualität und Leistung betrachtet.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
