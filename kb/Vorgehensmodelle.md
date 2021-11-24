@@ -7,7 +7,7 @@ anrechnung: k
 Kompendium: was zum Lesen und man hat's kapiert
 Kurzbeschreibung zu Vorgehensmodelle
 
-# Begriffsdefinition "Vorgehensmodelle"
+# Begriffsdefinition Vorgehensmodell
 Der Begriff "Vorgehensmodell" beschreibt eine... -definiertes Vorgehen -Standardvorgehen [^30]
 
 
@@ -27,11 +27,15 @@ Beispeiele für klassische VM sind das Wasserfallmodell *Link* oder das V-Modell
 ## "Agile" Vorgehensmodelle
 Agile VM beruhen auf einem iterativen Vorgehen. Beispeiele für agile Vorgehensmodelle sind Scrum *Link* oder Kanban.
 P.S. Die Bezeichnung "agile" VM wirdist weit verbreitet, doch es gibt auch Literatur, die diesen Begriff extra nicht wählen. Denn agil ist ein größeres Framework/Mindset, und werden nicht  . Aber es gibt dennoch UNterschiede c
-
 Einige Literatur unterscheidet/erweitert/erwähnt auch noch noch weitere Arten an Vorgehensmodelle, wie Modelle, des Change-Managemetn oder
-
-
-
+# Auswahl und Anpassung eines Vorgehensmodells
+Die Auswahl eines geeigneten Vorgehensmodells beruht auf /obliegt Experten etc. es gibt Arbeiten, die untersuchen, wie die Auswahl eine sVorgehensmodell IT-unterstütz werden kann, Ratgeber, Handbücher
+Innerhalb einer Organisation empfiehlt es sich ähnliche Vorgehen bzw. einheitliche Begrifflichkeiten zu verwenddeen, um Transparenz zuschaffen und Kommunikjation zu ermöglichen. ? (Quelle 100? 90?)
+Es gibt außerdem Referenzmodelle, die
+Zur Anpassung eines Vorgehensmodells wird unterschieden zwischen Adaption und Tailoring.
+Adaption ist das Erstellen eines Vorgehensmodells anhand eines REferenzmodells. Tailoring ist das Verändern eines konkreten Vorgehensmodells, häufig durch "zuschneiden", also weglassen von Teilen.
+# Englische Begriffe für "Vorgehensmodell"
+Eine exakte Übersetzung für "Vorgehensmodell" gibt es nicht. Begriffe wie "Project Management Methodology" oder "Project Management System" https://www.projektmagazin.de/glossarterm/vorgehensmodell ? procedure model / process model (dict.cc, dict.leo.org, linguee)
 ![Bestandteile eines Vorgehensmodells](Vorgehensmodelle/Bestandteile_eines_Vorgehensmodells.png)
 ![Ordnungsschema](Vorgehensmodelle/Ordnungsschema%20Kneuper%20et%20al.JPG)
 # Stoffsammlung/Checkliste
@@ -78,7 +82,9 @@ Einige Literatur unterscheidet/erweitert/erwähnt auch noch noch weitere Arten a
   - Microsoft Solutions Framework (a) [^70]
 
 * Wie wählt man ein passendes Vorgehensmodell aus?
-  - Tailoring: Anpassung (oftmals "zuschneiden") eines konkreten Vorgehensmodells vs. Adaption: Anpassung eines Referenzmodells, um daraus ein Vorgehensmodell abzuleiten [^50]
+  - Tailoring: Anpassung (oftmals "zuschneiden") eines konkreten Vorgehensmodells
+    vs.
+  - Adaption: Anpassung eines Referenzmodells, um daraus ein Vorgehensmodell abzuleiten [^50]
 
 * Englische Synonyme / ähnlich verwendete Begriffe
   - (approach) (- nur im Zusammenhang z.B. "agile approach" aber dann nicht zwingend "Vorgehensmodell", sondern auch Herangehensweise etc.)
