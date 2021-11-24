@@ -1,6 +1,6 @@
 ---
 title: Minimum_Viable_Product
-tags: agil klassisch
+tags: agil klassisch Minimum Viable Product
 author: Charles0209
 anrechnung: k 
 ---
