@@ -104,6 +104,10 @@ Eine Projekt Charta ist ein Dokument, das eine Übersicht über das Projekt vers
 ---
 # Siehe auch
  
+[Projektplanung](Projektplanung.md)
+
+[Projekt Kick Off](Projekt_Kick_Off.md)
+
 [Rollen im Projektmanagement](Who_is_Who_Projectmanagement.md)
  
 [Stakeholdermanagement](Stakeholdermanagement.md)  
@@ -111,8 +115,6 @@ Eine Projekt Charta ist ein Dokument, das eine Übersicht über das Projekt vers
 [Faehigkeiten_Projektleiter](Faehigkeiten_Projektleiter.md) 
 
 [Projekt Meilensteine](Meilensteine.md)
-
-[Projekt Kick Off](Projekt_Kick_Off.md)
 
 # Weiterführende Literatur
 
