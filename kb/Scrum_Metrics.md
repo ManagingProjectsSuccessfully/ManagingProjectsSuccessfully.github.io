@@ -38,7 +38,7 @@ Schlüssel Performance Indikatoren (KPI), dienen zur Evaluation des Unternehmene
 
 # Einige Scrum Metrics im Scrum Sprint
 
-Im laufe eines Scrum Sprint sind viele wiederkehrende Erreignisse;, Sprint Planung, Daily Scrum, Sprint Review, Sprint Retrospective. Diese ermöglichen den Teammitgliedern, Austausch, Inspektion und Adaptation mit der Art wie sie am Projekt arbeiten.
+Im laufe eines Scrum Sprint sind viele wiederkehrende Erreignisse;, Sprint Planung, Daily Scrum, Sprint Review, Sprint Retrospective. Diese ermöglichen den Teammitgliedern, Austausch, Inspektion und Adaptation mit der Art wie sie am Projekt arbeiten.[^2]
 
 ![Image](/kb/Scrum_Metrics/Scrum_Sprint_Scrum_Metrics_01.jpg)[^3]
 
@@ -49,7 +49,7 @@ Wie viel Aufgabenlast ein Team tragen kann hängt davon ab, wie effizient das Te
 
 ### Team Geschwindigkeit (Team Velocity)[^2][^4][^5]
 
-Die Geschwindigkeit eines Teams, kann anhand eines Balkendiagramms interpretiert werden. Dabei werden je nach Sprint, der vorgenommene und wirklich abgeschlossene Arbeitsaufwand anschaulich gegenüber gestellt. Der Arbeitsaufwand wird dabei an Story Points, Stunden oder Anzahl an Aufgaben angegeben.
+Die [Geschwindigkeit](Velocity.md) eines Teams, kann anhand eines Balkendiagramms interpretiert werden. Dabei werden je nach Sprint, der vorgenommene und wirklich abgeschlossene Arbeitsaufwand anschaulich gegenüber gestellt. Der Arbeitsaufwand wird dabei an Story Points, Stunden oder Anzahl an Aufgaben angegeben.
 > Durchschnittliche realisierte Anzahl an Story Points pro Sprint = Team Geschwindigkeit 
 
  ![Image](/kb/Scrum_Metrics/Team_Velocity_Scrum_Metrics_02.jpg)[^4]
@@ -99,15 +99,13 @@ Scrum Metrics werden im laufe eines Scrum Projekts zur Effizienzsteigerung des T
 
 # Siehe auch
 
-Was ist Scrum
-Was sind Key Performance Indicators(KPI's)
-Teammanagement
-Value Typen und Customer Value
-Scrum Sprint
-Daily Scrum
-Sprint Retrospective
-Sprint Review
-Scrum Daily
+Was ist [Scrum](SCRUM.md)
+[Sprint_Planning](Sprint_Planning.md)
+[Sprint_Review](Sprint_Review.md)
+[Retrospective](Retrospective.md)
+[Rollen_Scrum](Rollen_Scrum.md)
+[Scrum_Values](Scrum_Values.md)
+[Daily_Scrum](Daily_Scrum.md)
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Scrum_Metrics.md)
@@ -117,6 +115,8 @@ Scrum Daily
 Burndown Chart -> https://www.visual-paradigm.com/scrum/scrum-burndown-chart/
                   https://www.microtool.de/wissen-online/was-ist-ein-burn-down-chart/
 Team Kapazität -> https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams
+
+Was sind Key Performance Indicators(KPI's)
 
 
 # Quellen
