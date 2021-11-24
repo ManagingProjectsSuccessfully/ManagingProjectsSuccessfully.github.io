@@ -16,7 +16,7 @@ In einem Projekt sind viele Menschen beteiligt, die ein komplexes soziales Gefü
 
 ## Projektleiter
 
-Der Projektmanager nimmt eine herausragende Rolle ein und muss viele Kompetenzen aufweisen, um ein Team zu führen. Dabei gibt es eine unterschiedliche Gewichtung dieser, wie in dieser Grafik veranschaulicht wird.
+Der Projektmanager nimmt eine herausragende Rolle ein und muss viele Kompetenzen aufweisen, um ein Team zu führen. Dabei gibt es eine unterschiedliche Gewichtung dieser, wie in dieser [Grafik](https://pm-blog.com/2010/07/01/was-muss-ein-projektleiter-konnen/) veranschaulicht wird.
 
 ![Abbildung_2](Soziale_Aspekte_des_Projektmanagements/pl_kompetenzen.png)
 
