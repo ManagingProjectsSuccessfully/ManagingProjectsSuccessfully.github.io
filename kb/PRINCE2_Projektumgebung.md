@@ -5,19 +5,19 @@ author: corinnaneubauer
 anrechnung: k 
 ---
 
-PRINCE2 steht für Projects in Controlled Environments oder auch Projekte in kontrollierten Umgebungen und ist eine auf Prozessen basierende Methode für effektives Projektmanagement. PRINCE2 gilt als das "How to" des Projektmanagements: Es ist flexibel, skalierbar und kann auf die spezifischen Anforderungen eines Unternehmens angepasst werden[^1].
+PRINCE2 steht für Projects in Controlled Environments oder auch Projekte in kontrollierten Umgebungen und ist eine auf Prozessen basierende Methode für effektives Projektmanagement. PRINCE2 gilt als das "How to" des Projektmanagements: Es ist flexibel, skalierbar und kann auf die spezifischen Anforderungen eines Unternehmens angepasst werden[^1]. Im folgenden Beitrag soll daher die Projektumgebung von PRINCE2 näher betrachtet werden.
 
 
 # PRINCE2 Projektumgebung
 
-PRINCE2 gehört zu den am häufigsten verwendeten Projektmanagementmethoden [^2], [^3]. Dank dieser Methode ist es möglich, jederzeit den Beginn, den Verlauf und den Abschluss von Projekten zu kontrollieren. Was genau unter einem Projekt zu verstehen ist, kann man hier nachlesen [^4]. Um mehr über PRINCE2 zu erfahren empfehle ich das Kompendium PRINCE2 [^5]. 
+PRINCE2 gehört zu den am häufigsten verwendeten [Projektmanagementmethoden](Projektmanagement.md) [^2]. Dank dieser Methode ist es möglich, jederzeit den Beginn, den Verlauf und den Abschluss von Projekten zu kontrollieren. Was genau unter einem [Projekt](Projekt.md) zu verstehen ist, kann man in der Verlinkung nachlesen. Um mehr über PRINCE2 zu erfahren empfehle ich das Kompendium [PRINCE2](PRINCE2.md). 
 
 # Was sind die Bestandteile von PRINCE2?
-* Sieben Grundprinzipien [^6]: Sie definieren die grundlegenden Regeln
+* [Sieben Grundprinzipien](PRINCE2_7_Grundprinzipien): Sie definieren die grundlegenden Regeln
 * Sieben Prozesse: Sie beschreiben das schrittweise Vorgehen während dem Projekt 
-* Sieben Themen: Das sind die Aspekte des Projektmanagements, die kontinuierlich behandelt werden müssen [^7|
+* Sieben Themen: Das sind die Aspekte des Projektmanagements, die kontinuierlich behandelt werden müssen [^3|
  
-Als wichtigstes Grundprinzip von PRINCE2 kann die Anpassung (Tailoring) an die Projektumgebung genannt werden. Anpassung bezeichnet in diesem Fall die angemessene Anwendung von PRINCE2 auf ein bestimmtes Projekt. Dabei muss der Umfang von Planung und Steuerung sowie der Einsatz von Prozessen und Themen richtig auf das Projekt abgestimmt werden. Nicht zu verwechseln ist die Anpassung mit dem Begriff der Integration, mit dem die reine Einführung (oder auch Embedding) von PRINCE2 in eine Organisation gemeint ist. Oft liegt die Verantwortung nicht zentral bei einer Person, sondern verteilt sich je nach Kompetenz auf mehrere [^8]. 
+Als wichtigstes Grundprinzip von PRINCE2 kann die Anpassung (Tailoring) an die Projektumgebung genannt werden. Anpassung bezeichnet in diesem Fall die angemessene Anwendung von PRINCE2 auf ein bestimmtes Projekt. Dabei muss der Umfang von Planung und Steuerung sowie der Einsatz von Prozessen und Themen richtig auf das Projekt abgestimmt werden. Nicht zu verwechseln ist die Anpassung mit dem Begriff der Integration, mit dem die reine Einführung (oder auch Embedding) von PRINCE2 in eine Organisation gemeint ist. Oft liegt die Verantwortung nicht zentral bei einer Person, sondern verteilt sich je nach Kompetenz auf mehrere [^4]. 
  
 
 Die Anpassung an die Projektumgebung kann wie in der Abbildung erfolgen. 
@@ -90,7 +90,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](PRINCE2_Projektumgebung.md)
 * [Projekt](Projekt.md)
 * [Projektmanagement](Projektmanagement.md)
 * [PRINCE2](PRINCE2) 
@@ -104,9 +103,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: https://www.axelos.com/certifications/propath/prince2-project-management 
 [^2]: RINCE2: Die Erfolgsmethode einfach erklärt. Version 2017 von Fabian Kaiser, Roman Simschek
-[^3]: Kompendium Projektmanagement
-[^4]: Kompendium Projekt
-[^5]: Kompendium PRINCE2
-[^6]: Kompendium PRINCE2 Grundprinzipien
-[^7]: https://www.maxpert.de/de/profil/schulungsspektrum/prince2-methode-definitionen/506 
-[^8]: YouTube High Performance Projekte mit PRINCE2
+[^3]: https://www.maxpert.de/de/profil/schulungsspektrum/prince2-methode-definitionen/506 
+[^4]: YouTube High Performance Projekte mit PRINCE2
