@@ -66,19 +66,12 @@ Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapp
 * [Brainwriting](Brainwriting.md)
 * 
 * [Barcamp-Methode](Barcamp_Methode.md)
-* 
 * [Crystal Methods](Crystal_Methods.md)
-* 
 * [Drei-Zeiten-Methode](Drei_Zeiten_Methode.md)
-* 
 * [FMEA-Methode](FMEA_Methode.md)
-* 
 * [Feedback-Methoden](Feedback_Methoden.md)
-* 
 * [Ishikawa-Methode](Ishikawa_Methode.md)
-* 
 * [Methode des kritischen Pfades](Methode_des_kritischen_Pfades.md)
-* 
 * [User-Story-INVEST-Methode](User_Story_INVEST_Methode.md)
 * 
 
