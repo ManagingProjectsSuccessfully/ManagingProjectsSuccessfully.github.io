@@ -24,7 +24,7 @@ müssen, mit der jeweiligen Priorität der Aufgaben.
 Ebenfalls werden dem User Kommentare angezeigt, die von anderen Teammitgliedern verfasst wurden zur eigenen Arbeit. 
 Die wichtigste Funktion auf der Homepage ist der Kalender, der dem User ermöglicht allerlei Tasks in der Zukunft zu managen, verschieben oder zu bearbeiten.
 
-Links im Bildschirm ist eine Sidebar eingeblendet, die weitere Unterfunktionen zeigt wie Notifications (Benachrichtigungen) und Goals (Ziele, die individuell
+Die links eingeblendete Sidebar zeigt, die weiteren Unterfunktionen wie Notifications (Benachrichtigungen) und Goals (Ziele, die individuell
 erstellt werden können). Weitere Funktionen in der Sidebar werden in den unteren Paragrafen erklärt.
 
 ## Favorites
@@ -76,7 +76,7 @@ Docs gibt die Möglichkeit Dokumente mit Teammitglieder teilen zu können. Eine 
 | Priority Support       | Nein          | Nein          | Nein         | Ja            | Ja            |
 
 
-* ¹(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)[^3]
+* ¹(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
 
 # Siehe auch
 
