@@ -21,14 +21,13 @@ Mögliche Ursachen für Änderungen sind:
 
 # Welche Aufgaben beinhaltet das Änderungsmanagement
 
-Die erste Aufagbe des Änderungsmanageemnts besteht darin, notwendige Änderungen zu erkennen und diese am Anschluss daran genauer zu analysieren. Diese Analyse beinhaltet zum Beispiel den exakten Inhalt und den Größenumfang der Änderung. Im Anschluss daran 
-* welche Folgen auf die Kosten und den Zeitl
+
 
 # Wie sieht der typische Verlauf im Änderungsmanagement aus?
 
 ![Änderungsworkflow](Aenderungsmanagement/Änderungsworkflow.png)
 
-
+*beispielhafter Änderungsworkflow*[^3]
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
