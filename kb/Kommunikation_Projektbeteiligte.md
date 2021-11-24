@@ -7,13 +7,13 @@ anrechnung: k
 
 # Inhaltsverzeichnis
 
-1. [Definition Kommunikation](#definition-kommunikation)
-2. [Kommunikationsarten](#kommunikationsarten)
-2.1 [Paraverbale Kommunikation](#paraverbale-kommunikation)
+1. [Definition Kommunikation](#definition-kommunikation)  
+2. [Kommunikationsarten](#kommunikationsarten)  
+2.1 [Paraverbale Kommunikation](#paraverbale-kommunikation)  
 2.2 [Nonverbale Kommunikation](#nonverbale-kommunikation)
 3. [Der Weg zur effizienten Kommunikation unter Projektbeteiligten](#der-weg-zur-effizienten-kommunikation-unter-projektbeteiligten)
-4. [Sender Empfänger Modell](sender-empfänger-modell)
-5. [Quellen](quellen)
+4. [Sender Empfänger Modell](#sender-empfänger-modell)
+5. [Quellen](#quellen)
 
 
 # Definition Kommunikation 
