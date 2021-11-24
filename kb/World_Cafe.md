@@ -26,6 +26,18 @@ Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen kann unte
 * das Team- und Zusammengehörigkeitsgefühl wird gestärkt
 * neue oder bestehende Beziehungen und Netzwerke werden aufgebaut oder vertieft[^4]
 
+# Planung
+
+Bei der Planung müssen folgende Fragen geklärt werden:
+* Was soll mit dem World Café erreicht werden ?
+* Was ist das Kernthema ?
+* Welche Fragen sollen diskutiert werden ?
+* Wer sind die Teilnehmer ?
+* Wie sollen die Teilnehmer in verschiedene Gruppen aufgeteilt werden ? 
+* Wer übernimmt die Moderation ?
+* Wie kann man eine zwangslose Atmosphäre schaffen, die informelle und kreative Gespräche hervorbringt[^5]
+
+
 
 
 
@@ -115,4 +127,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [MEIN DEIN UNSER WIRKEN](https://www.worldcafe.eu/de/)
 [^3]: [World-Café: Die Pause als Methode](https://www.futur2.org/article/world-cafe-die-pause-als-methode/)
 [^4]: [World-Café - Gespräche, die zählen](https://www.agonda.de/World-Cafe/world-cafe.html)
+[^5]: [Methodeneinsatz - World Café](https://www.kas.de/de/web/politische-bildung/world-cafe)
 
