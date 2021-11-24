@@ -7,18 +7,18 @@ anrechnung: k
 
 <b>Lessons Learned</b> (gewonnene Erkenntnisse) ist ein wichtiger Bestandteil des Projektmanagements. <br><br>
 Ziel ist es aus den praktischen Erfahrungen des zurückliegenden Projekts für die Zukunft zu lernen. 
-Entscheidend hierbei ist das neu erlangte Wissen, sowie die positiven und negativen Ereignisse und Erfahrungen, die im Laufe des Projekts aufgetreten sind und gesammelt werden konnten. 
+Entscheidend hierbei ist das neu erlangte Wissen, sowie die positiven und negativen Ereignisse und Erfahrungen, die im Laufe des Projekts aufgetreten sind und gesammelt werden konnten.[^1] <hr>
 
 
 # Warum ist Lessons Learned sinnvoll?
 
-Durch eine konsequente Umsetzung der <b>Lessons Learned</b> kann vermieden werden, die gleichen oder ähnliche Fehler bei der Durchführung eines Projekts zu wiederholen. Außerdem können Ansätze, die gut funktioniert haben, identifiziert werden und bei der Umsetzung des nächsten Projekts angewandt werden.<br> <b>Lessons Learned</b> bietet somit zum einen den Vorteil aufgetretene Fehler beim nächsten Mal besser zu machen (aus ihnen zu lernen), sowie bereits gut funktionierendes Verhalten zu identifizieren und für zukünftige Projekte zu übernehmen. 
+Durch eine konsequente Umsetzung der <b>Lessons Learned</b> kann vermieden werden, die gleichen oder ähnliche Fehler bei der Durchführung eines Projekts zu wiederholen. Außerdem können Ansätze, die gut funktioniert haben, identifiziert werden und bei der Umsetzung des nächsten Projekts angewandt werden.<br> <b>Lessons Learned</b> bietet somit zum einen den Vorteil aufgetretene Fehler beim nächsten Mal besser zu machen (aus ihnen zu lernen), sowie bereits gut funktionierendes Verhalten zu identifizieren und für zukünftige Projekte zu übernehmen. <hr>
 
 
 # Ablauf
 Das Project Management Institute unterteilt den Prozess in 5 Schritte: <br>
 <br> ![Ablauf](Lessons_Learned/Bild1.png)
-_Quelle: eigene Darstellung_
+_Quelle: eigene Darstellung_  
 
 ### 1. Identifizieren der Lessons Learned
 
@@ -36,19 +36,25 @@ Wichtig ist es, dass die im Workshop besprochenen Erkenntnisse festgehalten und 
 Das Besprochene wird tiefergehend analysiert, um beispielsweise Themengebiete zu identifizieren, die häufiger vorkommen oder besonders kritisch für den reibungslosen Projektablauf sind. 
 
 ### 4. + 5. Speichern und Zugänglich machen
-Abschließend müssen die Lessons Learned noch zum einen gespeichert werden (idealerweise in der Lessons-Learned-Datenbank des Unternehmens) und zum anderen müssen die Informationen den Mitarbeitern zugänglich gemacht werden. Lessons Learned sind nicht nur für das Unternehmen selbst oder den Projektmanager  <br>
+Abschließend müssen die Lessons Learned noch zum einen gespeichert werden (idealerweise in der Lessons-Learned-Datenbank des Unternehmens) und zum anderen müssen die Informationen den Mitarbeitern zugänglich gemacht werden. Lessons Learned sind nicht nur für das Unternehmen selbst oder den Projektmanager  <br><hr>
 
 # Schwierigkeit
 
 <b>Lessons Learned</b> bietet viele Vorteile, allerdings gibt es gewisse Faktoren, die die Durchführung des deutlich erschweren.<br>
 Durch den späten Zeitpunkt des Workshops kommt es teilweise dazu, dass sich die Mitwirkenden am Projekt sich nicht mehr an alles erinnern, was ihnen im Laufe des Projekts Schwierigkeiten bzw. Erleichterung gebracht hat. Deshalb kann das Führen eines Logbuches sinnvoll sein. 
 <br>
-Eine weitere Schwierigkeit besteht in Stakeholdern, die nicht glauben, dass sich etwas verändern wird durch die Lessons Learned. Sie zeigen deshalb wenig Bereitschaft am Prozess teilzunehmen und ihre Sicht der Dinge offenzulegen. Aus diesem Grund ist es umso wichtiger die zuvor genannten Punkte zu befolgen und die Erkenntnisse nicht nur zu sammeln, sondern auch weiterzureichen und umzusetzen. 
+Eine weitere Schwierigkeit besteht in Stakeholdern, die nicht glauben, dass sich etwas verändern wird durch die Lessons Learned. Sie zeigen deshalb wenig Bereitschaft am Prozess teilzunehmen und ihre Sicht der Dinge offenzulegen. Aus diesem Grund ist es umso wichtiger die zuvor genannten Punkte zu befolgen und die Erkenntnisse nicht nur zu sammeln, sondern auch weiterzureichen und umzusetzen. <hr>
 
 # Einordnung 
-<b>Lessons Learned</b> finden sowohl im agilen als auch im [klassischen](https://managingprojectssuccessfully.github.io/kb/Projektmanagement.html) Projektmanagement Anwendung. Es ist zwar ähnlich zu der Sprint-Retrospektive, allerdings ist der Zeitpunkt und Häufigkeit der Durchführung unterschiedlich. Während die [Sprint-Retrospektive]( https://managingprojectssuccessfully.github.io/kb/Retrospective.html) am Ende eines Sprints erfolgt (also ungefähr alle 4 Wochen), findet das <b>Lessons Learned</b> am Ende eines Projekts statt. Damit werden die Verbesserungen, anders als bei den Sprint-Retros, erst im nächsten Projekt verwendet. 
+<b>Lessons Learned</b> finden sowohl im agilen als auch im [klassischen](https://managingprojectssuccessfully.github.io/kb/Projektmanagement.html) Projektmanagement Anwendung. Es ist zwar ähnlich zu der Sprint-Retrospektive, allerdings ist der Zeitpunkt und Häufigkeit der Durchführung unterschiedlich. Während die [Sprint-Retrospektive]( https://managingprojectssuccessfully.github.io/kb/Retrospective.html) am Ende eines Sprints erfolgt (also ungefähr alle 4 Wochen), findet das <b>Lessons Learned</b> am Ende eines Projekts statt. Damit werden die Verbesserungen, anders als bei den Sprint-Retros, erst im nächsten Projekt verwendet.
 
 
+# Quellen
+
+[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 
 
