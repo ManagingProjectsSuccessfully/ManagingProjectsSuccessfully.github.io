@@ -21,9 +21,11 @@ Darin zeigte er die erfolgreiche Anwendung an verschiedenen Beispielen und erkl�
 | Green  | Schreibe deinen Code so um, dass der Code funktioniert. Dabei wird nicht auf guten Stil (z.B. Kommentare, Vermeidung von Duplikationen) geachtet, wichtig ist die Funktion.  |
 | Refactor  | Jetzt wird der funktionierende Code überarbeitet, sodass er weiterhin funktioniert, aber die Richtlinien zu gutem Stil erfüllt, die im zweiten Schritt ignoriert wurden.  |
 
-# Vorteile von TDD
+# Effekte von TDD
 
-TODO: Undergraduate Students: https://ieeexplore.ieee.org/document/1423994
+
+
+TODO: Undergraduate[^5] Students: https://ieeexplore.ieee.org/document/1423994
 
 
 
@@ -113,6 +115,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/
+[^1]: [Test Driven Development (TDD): Die Testgetriebene Entwicklung einfach erklärt - IONOS](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/)
 [^2]: [L. Williams, E. M. Maximilien and M. Vouk, "Test-driven development as a defect-reduction practice," 14th International Symposium on Software Reliability Engineering, 2003. ISSRE 2003., 2003, pp. 34-45, doi: 10.1109/ISSRE.2003.1251029.](https://ieeexplore.ieee.org/document/1251029)
-[^3]: http://ce.sharif.edu/courses/99-00/1/ce475-1/resources/root/Books/KentBeck_TestDrivenDevelopmentByExample-2002.pdf
+[^3]: [Kent Beck, "Test-Driven Development By Example"](http://ce.sharif.edu/courses/99-00/1/ce475-1/resources/root/Books/KentBeck_TestDrivenDevelopmentByExample-2002.pdf)
+[^4]: [H. Erdogmus, M. Morisio and M. Torchiano, "On the effectiveness of the test-first approach to programming," in IEEE Transactions on Software Engineering, vol. 31, no. 3, pp. 226-237, March 2005, doi: 10.1109/TSE.2005.37.](https://ieeexplore.ieee.org/document/1423994)
+[^5]: [Padberg, Frank and Matthias M. Müller. “About the Return on Investment of Test-driven Development.” (2003).](https://publikationen.bibliothek.kit.edu/1000061750/3933989)
