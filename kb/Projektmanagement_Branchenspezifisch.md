@@ -11,7 +11,7 @@ Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basi
 oben im Front-Matter (Bereich zwischen den `---`).
 
 # Projekt
-Ein Projekt beschreibt laut dem Project Management Institute (PMI) ein Vorhaben, welches zeitlich begrenzt ist und einen im Vorhinein definierten Anfang und ein Ende hat (teaml. Focus). Darüber hinaus beinhaltet auch jedes Projekt verschiedene Aufgaben in mehreren Teilbereichen, welche allerdings zur Erreichung eines gemeinsamen Ziels dienen. Das Deutsche Institut für Normung (DIN) definiert das zu erreichende Ziel als ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis.
+Ein Projekt beschreibt laut dem Project Management Institute (PMI) ein Vorhaben, welches zeitlich begrenzt ist und einen im Vorhinein definierten Anfang und ein Ende hat[^1]. Darüber hinaus beinhaltet auch jedes Projekt verschiedene Aufgaben in mehreren Teilbereichen, welche allerdings zur Erreichung eines gemeinsamen Ziels dienen. Das Deutsche Institut für Normung (DIN) definiert das zu erreichende Ziel als ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis.
 
 # Projektmanagement
 Das Projektmanagement besteht folglich insgesamt aus den folgenden Komponenten: 
@@ -132,8 +132,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^1]:  [Teamleader focus - Projektmanagement)](https://www.teamleader.de/focus/projektmanagement)
+[^2]:
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
