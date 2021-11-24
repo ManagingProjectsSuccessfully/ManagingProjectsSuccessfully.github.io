@@ -30,7 +30,7 @@ Die Notwendigkeit eines [Stakeholdermanagements](Stakeholdermanagement.md) ist e
 
 ## Anwendung
 
-In einem ersten Schritt sind alle relevanten Stakeholder des Projekts zu identifizieren. Hierbei sollten alle berücksichtigt werden, die in irgendeiner Art und Weise mit dem Projekt in Verbindung stehen. Hierbei kann bereits eine Kategorisierung Stakeholder stattfinden sowie wichtige Schlüsselfunktionen der Personen und Interessensgruppen vermerkt werden. Für die Identifikation der Stakeholder] existieren verschiedene Verfahren. Einige werden nachfolgend beispielhaft aufgelistet [^5].
+In einem ersten Schritt sind die relevanten Stakeholder des Projekts zu identifizieren. Hierbei sollten alle berücksichtigt werden, die in irgendeiner Art und Weise mit dem Projekt in Verbindung stehen. Hierbei kann bereits eine Kategorisierung Stakeholder stattfinden sowie wichtige Schlüsselfunktionen der Personen und Interessensgruppen vermerkt werden. Für die Identifikation der Stakeholder] existieren verschiedene Verfahren. Einige werden nachfolgend beispielhaft aufgelistet [^5].
 
 Identifikation durch:
 
