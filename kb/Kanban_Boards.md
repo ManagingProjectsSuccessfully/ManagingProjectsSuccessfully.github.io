@@ -12,12 +12,13 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Geschichte des Kanban Boards
 
-1947 von dem Japaner und INgenieur Toyotas, Taiichi Ono als ursprüngliche Planungsmethode aus der Produktionsprozesssteuerung, um Japan im vgl zu den USA 
+1947 von dem Japaner und Ingenieur Toyotas, [Taiichi Ono](https://de.wikipedia.org/wiki/Taiichi_Ōno) als ursprüngliche Planungsmethode aus der 
+Produktionsprozesssteuerung, um Japan im vergleich zu den USA 
 Konkurrenz fähig zu halten. Mit dem Ziel der Lean Produktion, die produktion ohne Verschwendung. [^4]https://www.pinkuniversity.de/kanban-methode/
 KANBAN (jap. Signal + Karte )
-Ab 1970 wird diese steuerungsmethode auch in den USA und Deutschland eingeführt. 
-2007 übertrug david anderson dieses KOnzept auf die IT und ebnete den Weg nicht nur für Produktionsprozesse sondern auch für projekte um diese mit Kanban
-schneller und effizienter zu machen. Bos heute lean produktion und kan als organistationsfor in grossen unternehmen standard.
+Ab 1970 wird diese Steuerungsmethode auch in den USA und Deutschland eingeführt. 2007 übertrug David Anderson dieses Konzept auf die IT und ebnete den Weg nicht
+nur für Produktionsprozesse sondern auch für Projekte, um diese mit Kanban schneller und effizienter zu machen. Bis heute Lean Produktion und Kanban Methode als 
+organistationsform in großen Unternehmen standard.
 Kanban dient als HIlfestellung zur visualisierung des arbeitsflusses und 
 
 
