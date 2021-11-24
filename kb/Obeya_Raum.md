@@ -37,7 +37,7 @@ Mit dem Wandel der Zeit und dem Fortschritt der Technologie und Digitilasierung 
 Vor allem bei Toyota wurde Obeya besonders effektiv umgesetzt. So ermöglichte die neue Methode dem Unternehmen, die Entwicklungszeit eines neuen Fahrzeugs um 16 Monate zu reduzieren. Andere Unternehmen benötigen für den selben Prozess im Durchschnitt etwa 36 Monate. [^1]
 
 # Quellen
-[Obeya(appvizer)](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/obeya)
+[^1]: [Obeya(appvizer)](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/obeya)
 
 [Obeya Raum] [Quality Services&Wissen GmbH]
 https://www.quality.de/lexikon/obeya-raum/
