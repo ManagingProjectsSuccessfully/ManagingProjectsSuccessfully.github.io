@@ -39,7 +39,8 @@ Der erste wichtige Punkt bei der Verantwortlichkeit ist es eine Konkrete **Über
 Ein weiterer Faktor, der einen wichtigen Einfluss auf die Verantwortung hat, ist die **Anzahl der Menschen**, denen die Verantwortung gegeben ist. Je mehr Menschen, desto aufgespaltener ist die Verantwortung und desto mehr Menschen verspüren folglich auch kaum Verantwortung. Jeder nimmt an, der andere denkt mit und so kommt es zu [klassischen Missverständnissen](Klassische_Missverstaendnisse.md), Konflikten und Fehlern. Außerdem kann es passieren, dass man zu viel Einfluss auf die eigenen Entscheidungen bekommt, die zu Unsicherheit führen können. [^5]
 
 ![Bild 2](Verantwortlichkeiten/Karrikatur-Verantwortung-übernehemen.png)
-<img scr=/Verantwortlichkeiten/Karrikatur-Verantwortung-übernehemen.png width=300>
+
+<img scr=Verantwortlichkeiten/Karrikatur-Verantwortung-übernehemen.png width=300>
 
 > Management bedeutet Verantwortung für Ergebnisse 
 [^7]
