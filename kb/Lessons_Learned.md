@@ -5,19 +5,51 @@ author: JanAmend
 anrechnung: k 
 ---
 
-Lessons Learned (gewonnene Erkenntnisse) ist ein wichtiger Bestandteil des Projektmanagements. <br><br>
+<b>Lessons Learned</b> (gewonnene Erkenntnisse) ist ein wichtiger Bestandteil des Projektmanagements. <br><br>
 Ziel ist es aus den praktischen Erfahrungen des zurückliegenden Projekts für die Zukunft zu lernen. 
 Entscheidend hierbei ist das neu erlangte Wissen, sowie die positiven und negativen Ereignisse und Erfahrungen, die im Laufe des Projekts aufgetreten sind und gesammelt werden konnten. 
 
 
 # Warum ist Lessons Learned sinnvoll?
 
-Durch eine konsequente Umsetzung der Lessons Learned Idee kann vermieden werden, die gleichen oder ähnliche Fehler bei der Durchführung eines Projekts zu wiederholen. Außerdem können Ansätze, die gut funktioniert haben, identifiziert werden und bei der Umsetzung des nächsten Projekts angewandt werden.<br> Lessons Learned bietet somit zum einen den Vorteil aufgetretene Fehler beim nächsten Mal besser zu machen (aus ihnen zu lernen), sowie bereits gut funktionierendes Verhalten zu identifizieren und für zukünftige Projekte zu übernehmen. 
+Durch eine konsequente Umsetzung der <b>Lessons Learned</b> kann vermieden werden, die gleichen oder ähnliche Fehler bei der Durchführung eines Projekts zu wiederholen. Außerdem können Ansätze, die gut funktioniert haben, identifiziert werden und bei der Umsetzung des nächsten Projekts angewandt werden.<br> <b>Lessons Learned</b> bietet somit zum einen den Vorteil aufgetretene Fehler beim nächsten Mal besser zu machen (aus ihnen zu lernen), sowie bereits gut funktionierendes Verhalten zu identifizieren und für zukünftige Projekte zu übernehmen. 
 
 
-# Ablauf 
+# Ablauf
 Das Project Management Institute unterteilt den Prozess in 5 Schritte: <br>
-![Ablauf](Lessons_Learned/Bild1.png)
+<br> ![Ablauf](Lessons_Learned/Bild1.png)
+_Quelle: eigene Darstellung_
+
+### 1. Identifizieren der Lessons Learned
+
+In der Regel ist der erste Teil des <b>Lessons Learned</b> ein einzelnes Meeting bzw. Workshop, an dem sich die am Projektbeteiligten am Ende des Projekts zusammensetzen und über das vergangene Projekt sprechen. Wichtige Fragen, die hierbei beleuchtet werden und über die das Team redet sind beispielsweise: <br> 
+- Was ist gut gelaufen? <br>
+- Was ist nicht so gut gelaufen? <br>
+- Was können wir verbessern? <br>
+- Was sollten wir direkt stoppen? <br>
+- Was könnte man in zukünftigen Projekten ausprobieren? <br>
+
+### 2. Festhalten der Erkenntnisse
+Wichtig ist es, dass die im Workshop besprochenen Erkenntnisse festgehalten und dokumentiert werden. Es bietet sich an den einzelnen Stakeholdern eine Zusammenfassung des Workshops im Nachhinein auszuhändigen, damit die Ergebnisse nicht verloren gehen. 
+
+### 3. Analysieren 
+Das Besprochene wird tiefergehend analysiert, um beispielsweise Themengebiete zu identifizieren, die häufiger vorkommen oder besonders kritisch für den reibungslosen Projektablauf sind. 
+
+### 4. + 5. Speichern und Zugänglich machen
+Abschließend müssen die Lessons Learned noch zum einen gespeichert werden (idealerweise in der Lessons-Learned-Datenbank des Unternehmens) und zum anderen müssen die Informationen den Mitarbeitern zugänglich gemacht werden. Lessons Learned sind nicht nur für das Unternehmen selbst oder den Projektmanager 
+
+<br> 
+## Schwierigkeit
+Lessons Learned bietet viele Vorteile, allerdings gibt es gewisse Faktoren, die die Durchführung des deutlich erschweren.<br>
+Durch den späten Zeitpunkt des Workshops kommt es teilweise dazu, dass sich die Mitwirkenden am Projekt sich nicht mehr an alles erinnern, was ihnen im Laufe des Projekts Schwierigkeiten bzw. Erleichterung gebracht hat. Deshalb kann das Führen eines Logbuches sinnvoll sein. 
+<br><br>
+Eine weitere Schwierigkeit besteht in Stakeholdern, die nicht glauben, dass sich etwas verändern wird durch die Lessons Learned. Sie zeigen deshalb wenig Bereitschaft am Prozess teilzunehmen und ihre Sicht der Dinge offenzulegen. Aus diesem Grund ist es umso wichtiger die zuvor genannten Punkte zu befolgen und die Erkenntnisse nicht nur zu sammeln, sondern auch weiterzureichen und umzusetzen. 
+
+
+
+
+
+
 
 
 
