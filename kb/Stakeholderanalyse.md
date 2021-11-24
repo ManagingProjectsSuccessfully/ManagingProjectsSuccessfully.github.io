@@ -53,7 +53,7 @@ Ein Template für eine Stakeholderanalyse könnte beispielsweise folgendermaßen
 ![Stakeholderanalyse Umsetzung](Stakeholderanalyse/Stakeholderanalyse-Umsetzung.jpeg)
 
 
-Ein zusätzlich oft genutztes Tool ist die Macht/Interesse Matrx nach Johnson/Scholes (1999)[^5]:
+Ein zusätzlich oft genutztes Tool ist die Macht/Interesse-Matrx nach Johnson/Scholes (1999)[^5]:
 
 ![Macht/Interesse-Matrix, S.34](Stakeholderanalyse/Macht_Interesse_Matrix.png)
 
