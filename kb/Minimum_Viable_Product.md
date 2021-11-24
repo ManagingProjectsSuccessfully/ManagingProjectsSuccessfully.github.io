@@ -24,7 +24,7 @@ Ein Minimum Viable Product ist die erste Version eines Produktes beziehungsweise
 *Konzept des MVP*[^1]
 
 # Relevanz im agilen Projektmanagement
-Durch Globalisierung, technischen Fortschritt und viel Konkurrenz werden die Produktlebenszyklen immer kürzer, was zu einem enormen Druck auf Unternehmen führt. Um diese Anforderungen zu erfüllen, werden agile Projektmanagement-Methoden und MVPs verwendet.[^7][^6]
+Durch Globalisierung, technischen Fortschritt und wachsender Konkurrenz werden die Produktlebenszyklen immer kürzer, was zu einem enormen Druck auf Unternehmen führt. Um diese Anforderungen zu erfüllen, werden agile Projektmanagement-Methoden und MVPs verwendet.[^7][^6]
 
 ## Startups
 Der Begriff MVP wurde 2001 von Frank Robinson in die Produktentwicklung eingeführt. Erst nach Veröffentlichung der Arbeiten von Eric Ries und Steve Black gelang das Konzept des MVP weltweite Bekanntheit und betonte vor allem für das Projektmanagement im Lean [Startup](Projektmanagement_in_Startups.md) die Bedeutsamkeit des Lernens während dem Produktentwicklungsprozess.[^2][^3][^4]
