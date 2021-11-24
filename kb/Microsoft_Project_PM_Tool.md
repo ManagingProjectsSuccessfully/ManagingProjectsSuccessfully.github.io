@@ -40,6 +40,13 @@ Es gibt viele unterschiedliche Anzeigemöglichkeiten für die Gliederung eines P
 Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines Projektsteuerers. Alle Bereiche können durch regelmäßiges Fortschreiben aktualisiert und korrigiert werden. 
 (Josef Schwab, Projektplanung mit Project 2010)
 
+# Vor- und Nachteile des EDV - Programms
+
+| Vorteile      | Nachteile     |
+| ------------- | ------------- |
+| * Content Cell  | * Content Cell  |
+| * Content Cell  | * Content Cell  |
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
