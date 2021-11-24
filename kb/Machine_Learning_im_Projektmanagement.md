@@ -13,7 +13,7 @@ Machine Learning (ML) oder im Deutschen Maschinelles Lernen ist ein Teilbereich 
 
 Die Basis der Arbeitsweise von Algorithmen im Zuge des MLs sind Daten. Das bedeutet, dass die ineinandergreifenden Algorithmen zu Beginn nur dort eingesetzt werden können, wo große Datenmengen anfallen. Sie können für das [Projektmanagement](Projektmanagement.md) (PM) den Mehrwert erzielen, den Projektmanagern bei sehr komplexen oder sehr leichten, aber häufig auftretenden Aufgaben und Problemen, zu unterstützen. [^3]
 
-# Hierfür lässt sich das Konzept der „4 Stufen von Machine Learning“ gut in Betracht ziehen: [^4]
+## Hierfür lässt sich das Konzept der „4 Stufen von Machine Learning“ gut in Betracht ziehen: [^4]
 
 (1) Descriptive Analytics: Analyse des IST-Zustands ohne Verknüpfung von Datenpunkten
 (2) Diagnostic Analytics: Erkennen von Mustern in Daten ermöglicht Rückschlüsse über Ursachen bisheriger Entwicklungen, aber keine Aussagen über künftige Trends
@@ -34,8 +34,7 @@ Zuerst ermittelt der Algorithmus für die Aufwandsschätzung die Aufwände aller
 
 Des Weiteren dient Machine Learning dem Projektmanager in der Praxis, Projektverläufe zu überwachen, Prognosen und Handlungsempfehlungen zu erstellen sowie Aufgaben richtig zu gewichten. Der Algorithmus erkennt Verzögerungen, ermittelt aus vorsortierten und analysierten Informationen Auswirkungen auf das geplante Projektende und dient als Entscheidungsgrundlage, um in Meetings frühzeitige Entscheidungen oder Gegenmaßnahmen zu beschließen. [^5][^6]
 
-## 4.	Fazit: 
-# Aktueller Stand, Ziele und Chancen
+## 4.	Fazit: Aktueller Stand, Ziele und Chancen
 
 Aktuell scheint es so, dass Künstliche Intelligenz und Machine Learning kaum eine Rolle im Bereich des Projektmanagements spielt, aber KI ist längst im Alltag angekommen. Wir lassen uns von Algorithmen Bücher und Filme empfehlen, machen durch Assistenzsysteme die Autofahrt sicherer und sind auf Suchmaschinen angewiesen, um die Masse an verfügbaren Informationen im Internet zu verarbeiten. Also warum werden diese Technologien so selten im PM genutzt, obwohl es wie aufgezeigt durchaus Bereiche gibt, in denen der Einsatz von ML-Algorithmen hilfreich sein kann, um Wissen und Informationen leichter zugänglich zu machen. Der Beruf des Projektmanagers wird daher in naher Zukunft nicht mehr wiederzuerkennen sein, denn die Folge ist häufig, dass ein großer Teil der Zeit mit Routineaufgaben verbracht wird, die dann für weitaus sinnvollere Tätigkeiten fehlt. [^7][^8]
 
