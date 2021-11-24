@@ -5,7 +5,7 @@ author: AnjaKlostermeier
 anrechnung: a
 ---
 # Umgang mit Kritik
-In dem nachfolgenden Artikel wird zuerst der allgemeine Bezug von Umgang mit Kritik und agiles Projektmanagement beleuchtet. Anschließend werden die beiden Komponenten in Verbindung gesetzt und analysiert, wie man mit Kritik im agilen Projektmanagement umgehen kann. 
+In dem nachfolgenden Artikel wird zuerst der allgemeine Bezug von **Umgang mit Kritik** und dem **agilen Projektmanagement** beleuchtet. Anschließend werden die beiden Komponenten in Verbindung gesetzt und analysiert, wie man mit Kritik im agilen Projektmanagement umgehen kann. 
 
 ## Begriffserklärung von Kritik 
 Mit Kritik verbinden die meisten Menschen etwas Negatives. Im Allgemeinen versteht man unter Kritik die Beurteilung eines Gegenstandes oder auch einer Handlung. Diese Kritik wird anhand verschiedener Maßstäbe gemessen, z.B. unter verschiedenen Feedbackregeln[^12]. Synonyme zu Kritik sind unter anderem auch Monierung[^10], Beanstandung oder Bemängelung.[^1] 
@@ -32,7 +32,7 @@ Um Projekte effektiver und schneller zu steuern, gibt es verschiedene Agile Meth
 Die Kanban-Methode mit den bekannten [Kanban-Boards](Kanban_Boards.md) gehört zu den geläufigsten Tools im Projektmanagement.[^4]
 
 # Der Umgang mit Kritik im agilen Projektmanagement
-Durch die Flexibilität und Schnelllebigkeit kann es in einem Projektteam schneller zu Differenzen und dadurch zu Konflikten kommen. Hier ist es einerseits entscheidend, dass die Person selbst gut mit Kritik umgehen kann, als auch gut Kritik äußern kann. Nur so ist eine offene Unternehmensstruktur möglich. [^5]
+Durch die Flexibilität und Schnelllebigkeit kann es in einem Projektteam schneller zu Differenzen und dadurch zu Konflikten kommen. Hier ist es einerseits entscheidend, dass die Person selbst gut mit Kritik umgehen kann, als auch Kritik gut äußern kann. Nur so ist eine offene Unternehmensstruktur möglich. [^5]
 
 In der folgenden Tabelle werden Do's und Don'ts aufgelistet, welche in jedem Projektteam zu Beginn eines Projektsstarts vorgestellt bzw. gemeinsam diskutiert werden können [^7]:
 
@@ -49,8 +49,8 @@ In der folgenden Tabelle werden Do's und Don'ts aufgelistet, welche in jedem Pro
 |Sich selbst verzeihen können| Emotionen nicht unter Kontrolle haben| 
 
 
-Ebenfalls sollten Konflikte im Projektteam sofort angesprochen werden, da ansonsten Konflikte und Spannungen weiter eskalieren können. 
-Konflikte gehören zum Leben und sich nicht vermeidbar. Die Gründe warum Konflikte entstehen sind sehr unterschiedlich, beweglich und veränderbar. Deshalb eignet es sich in einem Projektteam, die Teamstruktur regelmäßig zu reflektieren. Hierfür sollte ein Verantwortlicher, meistens die Teamführung, festgelegt werden. [^6]
+Ebenfalls sollten Uneinigkeiten im Projektteam sofort angesprochen werden, da ansonsten Konflikte und Spannungen weiter eskalieren können. 
+Konflikte gehören zum Leben und sich nicht vermeidbar. Die Gründe warum Unstimmigkeiten entstehen sind sehr unterschiedlich, beweglich und veränderbar. Deshalb eignet es sich in einem Projektteam, die Teamstruktur regelmäßig zu reflektieren. Hierfür sollte ein Verantwortlicher, meistens die Teamführung, festgelegt werden. [^6]
 
 # Siehe auch 
 
