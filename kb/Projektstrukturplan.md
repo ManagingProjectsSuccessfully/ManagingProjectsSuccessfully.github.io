@@ -33,15 +33,15 @@ Diese Gliederungsform des Projektstrukturplans behandelt alle Aufgaben bzw. Eben
 
 ![funktionsorientierter-projektstrukturplan](https://user-images.githubusercontent.com/92889512/143291782-a9846f29-fcc3-4292-b952-f5cce0bfc891.png)
 
-Die Grafik stellt den funktionsorientierten Projektstrukturplan für den Bau eines Hauses dar.
+Die Grafik stellt den funktionsorientierten Projektstrukturplan für den Bau eines Hauses dar[^3].
 
 # Phasenorientierte Gliederung
-In der phasenorientierten Gliederung teilen Sie das Projekt in Arbeitsetappen. Zum Beispiel finden Sie in einem klassischen Projektstrukturplan die Phasen Vorbereitung, Planung und Umsetzung oder beim Hausbau die Phasen Konzept, Firmen, Bau, Abnahme und Rezeption, wie die nachfolgende Grafik verdeutlicht.
+In der phasenorientierten Gliederung teilen Sie das Projekt in Arbeitsetappen. Zum Beispiel finden Sie in einem klassischen Projektstrukturplan die Phasen Vorbereitung, Planung und Umsetzung oder beim Hausbau die Phasen Konzept, Firmen, Bau, Abnahme und Rezeption, wie die nachfolgende Grafik verdeutlicht[^3].
 ![funktionsorientierter-projektstrukturplan](https://user-images.githubusercontent.com/92889512/143292048-ae4d0a53-a418-4c57-826c-5ec786211f86.png)
 
 Welche Orientierung gewählt wird, steht grundsätzlich frei. Daneben sind auch Mischformen möglich. Das ist in vielen Projekten unumgänglich und sogar notwendig. Allerdings gilt dann folgende Regel: Es muss dieselbe Gliederungsform für die Teilprojekte, Teilaufgaben und Arbeitspakete im Projekt gewählt werden. Was bedeutet das? Man darf ein Teilprojekt bzw. einen Zweig des Projektstrukturplans nicht objektorientiert planen und den anderen Zweig funktionsorientiert. Stattdessen betrachtet man das gesamte Projekt und plant zum Beispiel alle Teilaufgaben objektorientiert und alle Arbeitspakete funktionsorientiert. Werden je nach Branche oder Unternehmen bestimmte Vorgehensmodelle angewendet, kann es sein, dass eine bestimmte Gliederungsart vorgegeben ist. 
 
-Nun zu den großen Vorteilen des Projektstrukturplanes. Er gibt eine sehr gute Übersicht, da er meistes auf eine Seite im Querformat verfasst wird. Die einzelnen Aufgaben sind klar erkennbar und schaffen Klarheit und die Basis für die weitere Projektplanung ist gebildet. Das schafft eine gute Kommunikationsgrundlage und Transparenz. In Meetings kann man sich auf konkrete Teilprojekte oder Arbeitspakete beziehen. Hierdurch werden Missverständnisse vermieden. Der PSP wird im Team erarbeitet. Das Team wird somit frühzeitig in die Planung eingebunden, eine bessere Aufwandsschätzung erfolgt und das Team kann sich besser mit dem Projekt identifizieren[^4]. Die Teamarbeit wird erleichtert, da Aufgaben genau zugeteilt und bearbeitet werden können[^1]. Somit kann der Projektstrukturplan eine gute Hilfe sein für die strukturierte Umsetzung eines Projektes nach der klassisches bzw. Wasserfallmethode Für die agile Methode hingegen ist er nur beschränkt anwendbar[^1].
+Nun zu den großen Vorteilen des Projektstrukturplanes. Er gibt eine sehr gute Übersicht, da er meistes auf eine Seite im Querformat verfasst wird. Die einzelnen Aufgaben sind klar erkennbar und schaffen Klarheit und die Basis für die weitere Projektplanung ist gebildet. Das schafft eine gute Kommunikationsgrundlage und Transparenz. In Meetings kann man sich auf konkrete Teilprojekte oder Arbeitspakete beziehen. Hierdurch werden Missverständnisse vermieden. Der PSP wird im Team erarbeitet. Das Team wird somit frühzeitig in die Planung eingebunden, eine bessere Aufwandsschätzung erfolgt und das Team kann sich besser mit dem Projekt identifizieren[^5]. Die Teamarbeit wird erleichtert, da Aufgaben genau zugeteilt und bearbeitet werden können[^1]. Somit kann der Projektstrukturplan eine gute Hilfe sein für die strukturierte Umsetzung eines Projektes nach der klassisches bzw. Wasserfallmethode Für die agile Methode hingegen ist er nur beschränkt anwendbar[^1].
 
 
 # Siehe auch
@@ -55,13 +55,17 @@ Nun zu den großen Vorteilen des Projektstrukturplanes. Er gibt eine sehr gute �
 
 # Weiterführende Literatur
 
-* Youtube-Kanal mit vielen interessanten Videos zum Projektstrukturplan https://www.youtube.com/c/PMBackstage/videosWeiterfuehrende
-* Weiterführende Informationen zur Terminplanung/Ablaufplanung https://mediencommunity.de/system/files/wbts/projektmanagement/le03/12_einen_projektstukturplan_erstellen.html 
+* Youtube-Kanal mit vielen interessanten Videos zum Projektstrukturplan: https://www.youtube.com/c/PMBackstage/videosWeiterfuehrende
+* Weiterführende Informationen zur Terminplanung/Ablaufplanung: https://mediencommunity.de/system/files/wbts/projektmanagement/le03/12_einen_projektstukturplan_erstellen.html 
+* Podcast "Projekte leicht gemacht": https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektplanung/projektstrukturplan/#podcast-player
+* Wikipedia Eintrag: https://de.wikipedia.org/wiki/Projektstrukturplan
 
 # Quellen
 
 [^1]: https://dieprojektmanager.com/projektstrukturplan/ 
 [^2]: https://coman-software.com/projektstrukturplanung-neu-gedacht-vorteile-von-objektorientiertem-projektmanagement/?gclid=EAIaIQobChMIqbGvisiJ9AIVkuR3Ch2Y5wX2EAMYAyAAEgLeT_D_BwE 
-[^3]: https://www.microtool.de/wissen-online/was-ist-ein-projektstrukturplan/  
-[^4]: https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektplanung/projektstrukturplan/#podcast-player
+[^3]: https://www.workbreakdownstructure.com/de/
+[^4]: https://www.microtool.de/wissen-online/was-ist-ein-projektstrukturplan/  
+[^5]: https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektplanung/projektstrukturplan/#podcast-player
+
 
