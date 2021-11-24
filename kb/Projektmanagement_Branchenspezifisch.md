@@ -68,7 +68,7 @@ Gniedlaskubf daneem.
 Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
 Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
 die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
+[ANDERE](https://github.com/enesmvlt/ManagingProjectsSuccessfully.github.io/blob/0714538662ed605f99e71298d199fccbfab1c92e/kb/Bauprojekte.md) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
