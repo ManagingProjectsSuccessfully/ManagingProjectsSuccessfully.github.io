@@ -9,7 +9,12 @@ anrechnung: k
 Ein Bauprojekt, auch Bauvorhaben genannt, beschreibt die Errichtung eines in der Regel einmaligen Bauwerks.
 
 ## Phasen eines Bauprojekts
-[^7]
+1.Konzeptionsphase
+2.Designphase
+3.Projektphase (vor Baubeginn)
+4.Beschaffungsphase
+5.Bauphase
+6.Projektphase (nach Bauabschluss)[^7]
 
 # Projektmanagement bei Bauprojekten
 
