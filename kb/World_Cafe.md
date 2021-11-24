@@ -33,6 +33,12 @@ Bei der Planung müssen folgende Fragen geklärt werden:
 * Wer übernimmt die Moderation ?
 * Wie kann man eine zwangslose Atmosphäre schaffen, die informelle und kreative Gespräche hervorbringt[^5]
 
+Zudem werden folgende Hilfsmittel benötigt:
+1. Ein Raum, der groß genug für mehrere Gruppentische ist (dieser kann nach belieben gestaltet werden, doch je mehr die Atmosphäre der eines Cafés ähnelt, desto besser) 
+2. Gruppentische mit 4-6 Stühlen
+3. Papiertischdecken
+4. Stifte[^6]
+
 # Ablauf
 
 Die Moderation begrüßt die Teilnehmer zum World Café und erklärt Ihnen den genauen Ablauf. Zudem werden die Themen und Fragestellungen präsentiert, wobei es sich um eine einzige Frage, aber auch um mehrere Fragen, die aufeinander aufbauen, handeln kann. 
@@ -133,4 +139,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: [World-Café: Die Pause als Methode](https://www.futur2.org/article/world-cafe-die-pause-als-methode/)
 [^4]: [World-Café - Gespräche, die zählen](https://www.agonda.de/World-Cafe/world-cafe.html)
 [^5]: [Methodeneinsatz - World Café](https://www.kas.de/de/web/politische-bildung/world-cafe)
+[^6]: [World-Café](https://www.methodenkartei.uni-oldenburg.de/uni_methode/world-cafe/)
 
