@@ -4,9 +4,15 @@ tags: agil klassisch
 author: xe28dita
 anrechnung: k oder a
 ---
+# Inhalte
+1. [Definition](#definition)
+2. [Hauptziele](#Hauptziele)
+3. [Verlauf](#Verlauf)
+4. [Vorteile](#Vorteile)
+5. [Quellen](#Quellen)
 
 # Definition
-Obeya Ist eine Form von Projektmanagement bzw. eine visuelle Methode des Lean Managements und verfolgt das Ziel, Barrieren zwischen Stakeholdergruppen abzubauen und so schneller Entscheidungen zu treffen. Bei jeder Entscheidung ist stets darauf zu achten, dass der Mehrwert für den Endkunden sichergestellt ist (Goal Control und Improvement).
+Obeya Ist eine Form von [Projektmanagement](https://github.com/FCN478/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) bzw. eine visuelle Methode des [Lean Managements](https://github.com/nicolasrmg/ManagingProjectsSuccessfully.github.io/blob/main/kb/Lean_Projektmanagement.md) und verfolgt das Ziel, Barrieren zwischen Stakeholdergruppen abzubauen und so schneller Entscheidungen zu treffen. Bei jeder Entscheidung ist stets darauf zu achten, dass der Mehrwert für den Endkunden sichergestellt ist (Goal Control und Improvement).
 Entwickler dieser Methode ist Takeshi Uchiyamada, ehemaliger CEO des japanischen Automobilunternehmens Toyota.
 # Hauptziele
 Das zentrale Merkmal des Obeya-Raums ist es, dass sich von verschiedenen, firmeninternen Abteilungen die jeweiligen Teamleiter regelmäßig in einem Raum treffen und an einem bestimmten Projekt arbeiten. Der Raum ist für jedes Mitglied zu jeder Zeit zugänglich. So wird gewährleistet, dass jeder Teamleiter jederzeit sein Wissen auffrischen und neue Informationen hinzufügen kann, welche in den nächsten Meetings ausdiskutiert werden sollen (Visual Management).
@@ -23,13 +29,22 @@ Zunächst müssen die Oberpunkte des Themas bestimmt werden, um diese später n�
 Oftmals wird in Besprechungen der PDCA-Zyklus eingesetzt, ein Management Process und Visualisierung-System auf 4-Pasen-Basis. Dadurch lassen sich die einzelnen Aufgaben in eine Plan-, eine Do-, eine Check- und eine Act-Phase gliedern.
 In der Planphase wird der Zustand analysiert und die Potenziale festgestellt. Im Do-Prozess werden die zuvor besprochenen Punkte umgesetzt. Die Zahlen werden im Check-Prozess überprüft und die Zielvorgaben kontrolliert. Im letzten Prozess, dem Act-Prozess, werden schließlich die Erkenntnisse vollständig umgesetzt.
 
+![bild](Obeya_Raum/PDCA-Zyklus.png)
+*PDCA-Zyklus*
 # Vorteile
 Mit dem Wandel der Zeit und dem Fortschritt der Technologie und Digitilasierung werden ohnehin mehr Mitarbeiter und größere Teams für die Entwicklung eines Autos benötigt. Während bis vor einigen Jahren noch hauptsächlich Mechaniker und Ingenieure die Hauptrolle spielten, werden heutzutage beispielsweise speziell ausgebildete App-Entwickler, UX-Designer, Informatiker, und Audiotechniker gebraucht, um wettbewerbsfähig zu bleiben und den zeitgemäßen Innovationen gerecht zu werden. Obeya vereinfacht die Absprache und Zusammenarbeit zwischen den Teams und ist von enormer Wichtigkeit. Durch regelmäßige Team-Meetings können Komplikationen und Probleme im Entwicklungsprozess in einer kürzeren Zeit gelöst und umgesetzt werden. 
 
 Vor allem bei Toyota wurde Obeya besonders effektiv umgesetzt. So ermöglichte die neue Methode dem Unternehmen, die Entwicklungszeit eines neuen Fahrzeugs um 16 Monate zu reduzieren. Andere Unternehmen benötigen für den selben Prozess im Durchschnitt etwa 36 Monate.
 
 # Quellen
+[Obeya] (appvizer)
+https://www.appvizer.de/magazin/organisation-planung/projektmanagement/obeya
 
+[Obeya Raum] [Quality Services&Wissen GmbH]
+https://www.quality.de/lexikon/obeya-raum/
+
+[Obeya] [Projektmagazin]
+https://www.projektmagazin.de/methoden/obeya-raum-methode
 
 <!--
 Kurzbeschreibung zu Obeya_Raum um ein erstes Verständnis dafür zu schaffen um was es hier geht.
