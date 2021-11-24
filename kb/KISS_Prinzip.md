@@ -77,8 +77,8 @@ Die Einfachheit eines Produktes darf nicht dessen Nutzwert schmälern. Einige Pr
 
 1. Das KISS-Prinzip für Design nutzbar machen, www.twt.de,(https://www.twt.de/news/detail/management-summary-das-kiss-prinzip-fuer-design-nutzbar-machen.html)
 2. Das KISS-Prinzip und wie es euch helfen kann, selbstaendig-im-netz.de, (https://www.selbstaendig-im-netz.de/usability/das-kiss-prinzip-und-wie-es-euch-helfen-kann/) 13. Februar 2017
-3. (https://www.arocom.de/fachbegriffe/projektmanagement/kiss-prinzip)
-[^4]:  (https://www.upgreat.de/keep-it-smart-and-simple-2943/)
-[^5]:  (https://onma.de/online-marketing-lexikon/kiss-prinzip/)
-[^6]:  (https://t2informatik.de/wissen-kompakt/kiss-prinzip/)
-[^7]:  (https://stock.adobe.com/de/images/kiss-prinzip/40606983?as_campaign=ftmigration2&as_channel=dpcft&as_campclass=brand&as_source=ft_web&as_camptype=acquisition&as_audience=users&as_content=closure_asset-detail-page)
+3. DAS KISS-PRINZIP FACHBEGRIFFE EINFACH ERKLÄRT, www.arocom.de, (https://www.arocom.de/fachbegriffe/projektmanagement/kiss-prinzip)
+4. Keep It Smart And Simple!, www.upgreat.de, (https://www.upgreat.de/keep-it-smart-and-simple-2943/), 27. SEPTEMBER 2019
+5. KISS (-Prinzip), onma.de, (https://onma.de/online-marketing-lexikon/kiss-prinzip/)
+6. Was ist das KISS-Prinzip?, t2informatik.de, (https://t2informatik.de/wissen-kompakt/kiss-prinzip/)
+7. KISS-Prinzip, stock.adobe.com, (https://stock.adobe.com/de/images/kiss-prinzip/40606983?as_campaign=ftmigration2&as_channel=dpcft&as_campclass=brand&as_source=ft_web&as_camptype=acquisition&as_audience=users&as_content=closure_asset-detail-page)
