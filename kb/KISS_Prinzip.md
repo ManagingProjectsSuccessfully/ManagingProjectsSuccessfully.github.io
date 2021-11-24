@@ -13,7 +13,7 @@ Es ist eine Methode des Selbstmanagements, die nicht mit dem Zeitmanagement glei
 
 # [mehr Info zum KISS-Prinzip](https://startupwissen.biz/was-bedeutet-eigentlich-kiss/)
 
-![KISS-Prinzip](C:\Users\Lenovo Yoga\Desktop/500_F_40606983_EcXZHtkebO0aRseXhnKldBZSuqTTCv7G.jpg)
+![KISS-Prinzip](ManagingProjectsSuccessfully.github.io/kb/KISS_Prinzip/kiss-prinzip.png/500_F_40606983_EcXZHtkebO0aRseXhnKldBZSuqTTCv7G.jpg)
 
 
 # Definition
