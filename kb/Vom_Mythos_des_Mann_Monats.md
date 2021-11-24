@@ -57,7 +57,11 @@ Ein Projekt verzögert sich zudem durch die Unterschätzung der Dauer einer Syst
 Ein Projekt erfordert eine gewisse Dauer, worauf auch der ausgeübte Zeitdruck von Kunden keinen Einfluss hat. Durch eine Anpassung an Kundenwünsche erfolgt jedoch eine falsche Arbeitsplanung, die wiederum zum Zeitverzug führt.[^1]
 
 ## Rückkopplung 
-Gerät ein Projekt in Zeitverzug, so werden zur Problemlösung mehr Arbeitskräfte eingesetzt. Dadurch entsteht jedoch ein Rückkopplungseffekt, da die Projektverzögerung durch Hinzukommen der Einarbeitungsdauer und der erhöhten Kommunikation für den Informationsaustausch vergrößert wird.[^1]
+Gerät ein Projekt in Zeitverzug, so werden zur Problemlösung mehr Arbeitskräfte eingesetzt. Dadurch entsteht jedoch ein Rückkopplungseffekt, da die Projektverzögerung durch Hinzukommen der Einarbeitungsdauer und der erhöhten Kommunikation für den Informationsaustausch vergrößert wird (Abbildung 4).[^1]
+
+![Abbildung](Vom_Mythos_des_Mann_Monats/Das%20tatsächliche%20Ergebnis.JPG)
+
+*Abbildung 4: Rückkopplung durch Einsatz weiterer Arbeitskräfte*[^1]
 
 ## Mythos als Schlussfolgerung
 Unter Darstellung der Gründe hält es Brooks daher für einen Mythos, dass durch eine Erhöhung der Arbeitskraft die Projektzeit verkürzt werden kann und erst recht nicht kürzer sein kann als die Dauer, die ein Projekt grundsätzlich erfordert.[^1]
