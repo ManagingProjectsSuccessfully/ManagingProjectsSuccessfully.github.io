@@ -7,7 +7,7 @@ anrechnung: k
 
 ClickUp[^1] ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für allerlei Art und Größe für Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von Projekten dienen werden auf einer Plattform zusammengefügt[^2]. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.
 
-![Beispielabbildung](ClickUp_PM_Tool/logo.png)
+![ClickUp_Logo](ClickUp_PM_Tool/logo.png)
 
 # Aufbau von ClickUp
 
@@ -38,7 +38,6 @@ Aufgabenboard, einer Tabelle oder auf einer Map können Tasks gezeigt werden.
 Weitere Möglichkeiten wie eine Mindmap und einige weitere Features gibt es ebenfalls. 
 
 Spaces können aber noch in Ordner und Lists unterteilt werden. Tasks jedoch werden nicht direkt in Spaces erstellt, sondern in der Unterkategorie Lists, die im nächsten Absatz erklärt werden.
-
 
 ### Lists
 
