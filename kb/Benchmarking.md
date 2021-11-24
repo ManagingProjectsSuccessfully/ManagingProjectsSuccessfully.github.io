@@ -21,9 +21,9 @@ Danach erfolgen die detaillierte Untersuchung und Dokumentation des Ausgewählte
 Auswahl eines oder mehrerer Benchmark-Partner durch verschiedene Vorgehensweisen:
 #### Benchmarking -Varianten
 ##### * Offenes Benchmarking
-Die Suche der Benchmark- Partner wird direkt vom Unternehmen oder es wird über beauftragte spezielle Unternehmen bzw. Vermittlungsstellen durchgeführt. Darunter fallen unter anderem Internetportale. [^3]
+Die Suche der Benchmark- Partner wird direkt vom Unternehmen oder durch beauftragte, spezielle Unternehmen bzw. Vermittlungsstellen durchgeführt. Darunter fallen unter anderem Internetportale. [^3]
 ##### * Verdecktes Benchmarking
-Die Suche der Benchmark- Partner erfolgt durch die Zwischenschaltung von sogenannten Clearingstellen. Die Daten werden somit nicht direkt ausgetauscht, sondern werden anonym zwischen den beiden Parteien verglichen. Dies hat den Vorteil das die Daten dann nicht einem Unternehmen zuordenbar sind und man nicht weiß mit wem man sich vergleicht. Bei diesem Prozess ist es jedoch wichtig, die vorhandenen Differenzen auf eine gemeinsame Basis zu normalisieren. Dies kann durch Standortfaktoren, Mitarbeiterzahl, Marktbedingungen usw. geschehen. [^3]
+Die Suche der Benchmark- Partner erfolgt durch die Zwischenschaltung von sogenannten Clearingstellen. Die Daten werden somit nicht direkt ausgetauscht, sondern werden anonym zwischen den beiden Parteien verglichen. Dies hat den Vorteil das die verglichenen Daten nicht einem Unternehmen zuordenbar sind und der Benchmark- Partner nicht weiß mit wem er sich vergleicht. Bei diesem Prozess ist es jedoch wichtig, die vorhandenen Differenzen auf eine gemeinsame Basis zu normalisieren. Dies kann durch Standortfaktoren, Mitarbeiterzahl, Marktbedingungen usw. geschehen. [^3]
 ##### * Funktionales Benchmarking 
 Es werden die Prozesse mit Unternehmen außerhalb der angestammten Branche verglichen. [^2]
 ##### * Ganzheitliches Benchmarking 
@@ -45,7 +45,7 @@ Für das Durchführen der Benchmarking Analyse sind geeignete Methoden und Tools
 Durch die normalisierten Daten können nun Leistungsunterschiede zwischen den Unternehmen ausgemacht werden. Bei einer großen Abweichung zwischen den Leistungen muss nun genau analysiert werden, wieso der Benchmark-Partner ein höheres Leistungsniveau in den herausstechenden Attributen besitzt.[^2]
 
 ### Phase 4: Überprüfung der Datenbasis und Identifikation von Ursachen
-In dieser Phase werden verschiedene Methoden dargestellt. Diese stellen die Faktoren dar, mit denen das Partner- Unternehmen eine höhere Leistung erreicht. 
+In dieser Phase werden verschiedene Methoden dargestellt. Diese stellen die Faktoren dar, mit denen das Partner- Unternehmen eine höhere Leistung erzielt. 
 * Ablaufdiagramme der Prozesse,
 Ein Ablaufdiagramm (auch Flussdiagramm genannt) ist eine Art der Darstellung von Geschäftsprozessen. [^5]
 * Ursache-Wirkungs-Diagramme, usw.
