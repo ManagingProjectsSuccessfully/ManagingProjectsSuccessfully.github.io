@@ -31,7 +31,7 @@ Diese Phase beinhaltet Folgendes:
 * die Vorbereitung einer Systemanalyse (detaillierte Beschreibung wie das System aktuell arbeitet) 
 * eine [Hindernisanalyse](Hemmnisanalyse.md) (Identifikation der Eigenschaften der Organisation, welche den Fortschritt der Organisation behindern) 
 * Referenzprojektionen (Projektionen der Aspekte auf die Zukunft der Organisation; erstens auf der Annahme, dass keine Veränderungen an aktuellen Plänen, Richtlinien oder [Programmen](Programmmanagement.md) stattfinden und zweitens, dass das künftige Umfeld, so eintritt wie aktuell erwartet) 
-* und einem Referenzszenario (Beschreibung, wie und warum sich die Organisation selber schaden würde, wenn die Annahmen, die gemacht wurden, sich bewahrheiten[^2]. 
+* und einem Referenzszenario (Beschreibung, wie und warum sich die Organisation selbst schaden würde, wenn die Annahmen, die gemacht wurden, sich bewahrheiten[^2]. 
 
 ## Beendigung der Planung (Ends Planning)
 
