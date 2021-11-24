@@ -11,11 +11,7 @@ Das World Café ist eine interaktive Alternative zu Konferenzen und Seminaren, d
 
 Das World-Café eignet sich besonders für größere Gruppen, wobei die Teilnehmerzahl zwischen ca. 12 und 2000 Teilnehmern stark variieren kann.[^3]
 
-Die Methode ist sinnvoll, wenn
-* unterschiedliche Ideen und Meinungen einer großen Gruppe für ein komplexes Thema benötigt werden
-* unkonventionelle Lösungen gefunden werden sollen 
-* die unterschiedlichen Sichtweisen zu einem Thema deutlich gemacht werden sollen
-* anstehende oder laufende Projekte geplant oder ausgewertet werden sollen[^1]
+Die Methode kann dabei helfen, unterschiedliche Ideen und Meinungen zu komplexen Themen zu sammeln, um die unterschiedlichen Sichtweisen deutlich zu machen. So können neben den bereits offensichtlichen Lösungsansätzen auch unkonventionelle Lösungen gefunden werden.[^1]
 
 # Vorteile
 Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen kann unter anderem folgende Vorteile mit sich bringen:
