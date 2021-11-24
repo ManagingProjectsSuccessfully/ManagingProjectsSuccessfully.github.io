@@ -68,5 +68,5 @@ Die letzte und tiefste Ebene umfasst Dinge, die als selbstverständlich angenomm
 
 # Quellen
 
-[^1][Projektkultur und Projektspielregeln](http://projektnachwuchs.de/projektkultur-und-projektspielregeln/)
-[^2][Organisationskultur](https://de.wikipedia.org/wiki/Organisationskultur)
+[^1]: [Projektkultur und Projektspielregeln](http://projektnachwuchs.de/projektkultur-und-projektspielregeln/)
+[^2]: [Organisationskultur](https://de.wikipedia.org/wiki/Organisationskultur)
