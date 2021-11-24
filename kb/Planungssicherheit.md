@@ -8,6 +8,7 @@ anrechnung: k
 Das Planen hat eine wichtige Funktion in unserem Leben, es verschafft vermeintliche Sicherheit.
 So orientiert man sich leichter an vorgegebenen Zielen oder kann den Verlauf bis zu einem bestimmten Grad steuern, 
 um das gewünschte Ergebnis zu erreichen. [^1] 
+
 Typisch für das klassische Projektmanagement ist die detaillierte Planung des gesamten Projektes, 
 von einer genauen Durchführung bis zu den kleinsten Aufwendungen.
 Prinzipiell steht das klassische Projektmanagement daher vor allem für eine große Planungssicherheit. [^2]
