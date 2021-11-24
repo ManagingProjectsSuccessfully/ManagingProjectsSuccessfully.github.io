@@ -30,12 +30,13 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 * Überwachung und Steuerung des Bauprozesses
 * Abnahme und Übergabe des fertigen Gebäudes an den Bauherren und an das nachgelagerte Facility Management 
 
-## Klassisches Projektmanagement bei Bauprojekten
-## Agiles Projektmanagament bei Bauprojekten
-## Missglückte Bauprojekte
+## Das beste Projektmanagement für Bauprojekte
+Um das bessere Projektmanagement herauszufinden, muss man das klassische Projektmanagement und das agile Projektmanagement miteinander vergleichen und die Unterschiede und Gemeinsamkeiten näher betrachten.
+Bei dem klassischen Projektmanagement [^5]
+# Missglückte Bauprojekte
 ![Chemikum FAU](Bauprojekte/MPSBeitrag.jpeg)
 *Chemikum FAU*
-## Erfolgreiche Bauprojekte
+# Erfolgreiche Bauprojekte
 # Bachelorstudiengang Projektmanagement Bau
 
 # Begriffsdefinitionen
@@ -69,3 +70,4 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 [^2]: [Bauprojekt: Wer macht was? Wen brauche ich? Bauunternehmer, Planer, Bauherr / Bauwerkplan erklärt](https://www.youtube.com/watch?v=UVjm9xbqXws)
 [^3]: [Die 6 Phasen eines Bauprojekts](https://www.letsbuild.com/de/blog/die-6-phasen-eines-bauprojekts)
 [^4]: [Was macht ein Projektsteuerer?](https://www.freelancermap.de/blog/was-macht-ein-projektsteuerer/)
+[^5]: [Ist das agile Projektmanagement für die Bauwirtschaft geeignet?: Eine Synopse von klassischem & agilem Projektmanagement](https://books.google.de/books?hl=de&lr=&id=T6TbDwAAQBAJ&oi=fnd&pg=PP1&dq=klassisches+projektmanagement+bei+Bauprojekten&ots=xicw2A9aJr&sig=QTwYuzxAutL_e2n3AlPTjL4zf4g#v=onepage&q=klassisches%20projektmanagement%20bei%20Bauprojekten&f=false)
