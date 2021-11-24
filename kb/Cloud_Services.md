@@ -14,7 +14,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, die über das Internet on demand Zugriff auf Anwendungen und Ressourcen zur Verfügung stellen, ohne eine spezielle Infrastruktur oder Hardware vorauszusetzen. Beliebte Cloud-Services sind zum Beispiel E-Commerce-Applikationen oder Produktivitäts-Applikationen wie E-Mails. [^1][^2]
 
-# Verschiedene Cloud Service Modelle
+# 1.Verschiedene Cloud Service Modelle
 
 | Typ                          | Beschreibung   |
 | ---------------------------- | -------------- |
@@ -24,12 +24,26 @@ Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, d
 | Function as a Service (FaaS)      | FaaS-Anbieter stellen immer wieder gebrauchte Funktionen auf eine einfache Weise zur Verfügung. Somit können beliebte Funktionen oder auch Funktionen mit hohen Rechenleistungen ausgelagert werden.[^3]|
 
 
-# Liefermodelle 
+# 2.Liefermodelle 
 
+## 2.1 Private Cloud Services
+Services, die ein Provider nicht der breiten Öffentlichkeit zur Verfügung stellt, werden als Private Cloud Services bezeichnet. Bei Private Cloud Services werden Anwendungen und Daten über die eigene Infrastruktur des jeweiligen Unternehmens bereitgestellt. Plattform und Software dienen nur einem einzigen Unternehmen und sind für externe Benutzer nicht verfügbar. Unternehmen, die mit hochsensiblen Daten arbeiten, zum Beispiel im Gesundheitswesen oder Bankensektor, verwenden häufig Private Clouds, um erweiterte Sicherheitsprotokolle zu nutzen und Ressourcen nach Bedarf in einer virtualisierten Umgebung zu erweitern.[^1]
 
-# Vorteile der Cloud Services
+## 2.2 Public Cloud Services
+Services, die ein Provider zahlreichen Kunden über das Internet bereitstellt, werden als Public Cloud Services bezeichnet. Alle oben genannten Beispiele für SaaS, IaaS und Platform as a Service (PaaS) bieten Public-Cloud-basierte Services an. Der größte Vorteil von Public Cloud Services besteht darin, dass Ressourcen im großen Umfang bereitgestellt werden können, was Unternehmen ein Angebot ermöglicht, das sie alleine nicht stemmen könnten.[^1]
 
+## 2.3 Hybride Cloud Services
+Eine Hybrid Cloud ist eine Kombination aus Private Cloud und Public Cloud. Dieser Kompromiss ist sinnvoll, wenn ein Unternehmen vertrauliche Daten in der Private Cloud speichert, aber den Mitarbeitern für die alltägliche Kommunikation und Zusammenarbeit auch Zugriff auf Anwendungen und Ressourcen in der Public Cloud bieten möchte. Dabei wird proprietäre Software verwendet, um die Kommunikation zwischen den Cloud-Services zu ermöglichen, was oftmals durch eine zentrale IT-Management-Konsole erleichtert wird.[^1]
 
+# 3.Vorteile der Cloud Services
+## 3.1 Effizienz und höhere Skalierbarkeit
+Cloud-basierte Services wie E-Mail-Hosting, Produktivitäts-Apps und E-Commerce-Plattformen können je nach Bedarf problemlos und schnell nach oben bzw. unten skaliert werden und zu beliebiger Zeit zugegriffen werden. [^1][^2]
+
+## 3.2 Kostengünstig
+Cloud-Technologiedienste sind in der Regel viel günstiger als der Aufbau, die Wartung und das Management Ihres eigenen Rechenzentrums.[^1][^2]
+
+## 3.3 Flexibilität und Agilität
+Es stehen auf Wunsch mehrere Clouds und Supercomputer zur Verfügung, zudem können ganz einfach Server, Speicher und andere IT-Ressourcen hinzugefügt werden. [^1][^2]
 
 
 # Siehe auch
