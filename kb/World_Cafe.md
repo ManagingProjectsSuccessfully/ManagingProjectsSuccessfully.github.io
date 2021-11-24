@@ -7,7 +7,7 @@ anrechnung: k
 
 Das World Café ist eine interaktive Alternative zu Konferenzen und Seminaren, die eine zwanglose Atmosphäre bietet und Teilnehmer zu Diskussionen anregt, die alltäglichen Gesprächen in einem Café ähneln sollen.[^1] Dabei soll der Austausch von Gedanken und Ideen dazu führen, dass neue Sichtweisen entstehen und Probleme aus vielen verschiedenen Perspektiven betrachtet werden können.[^2]
 
-#Eignung 
+# Eignung 
 
 Das World-Café eignet sich besonders für größere Gruppen, wobei die Teilnehmerzahl von ca. 12-2000 Teilnehmern stark variieren kann.[^3]
 
