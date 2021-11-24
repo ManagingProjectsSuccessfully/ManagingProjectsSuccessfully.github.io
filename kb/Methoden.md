@@ -70,6 +70,9 @@ Zur Findung innovativer Lösungsideen werden Kreativitätsmethoden eingesetzt. K
 # Weiterführende Literatur
 
 * [Projekte und Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30085-2.pdf)
+* [Agiles Projektmanagement, klassisch, hybrid? Mit welcher Methode Sie Projekte wann optimal steuern](https://www.youtube.com/watch?v=XQMksIC63xQ)
+* [Organisationstechnik](https://de.wikipedia.org/wiki/Organisationstechnik)
+* [Geballtes Projektmanagement-Wissen für Pragmatiker](https://projekte-leicht-gemacht.de/projektmanagement-blog/)
 
 # Quellen
 
