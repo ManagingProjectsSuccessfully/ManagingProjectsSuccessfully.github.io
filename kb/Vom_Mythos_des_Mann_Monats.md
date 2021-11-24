@@ -65,8 +65,8 @@ Unter Darstellung der Gründe hält es Brooks daher für einen Mythos, dass durc
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Zeitplanung](Zeitplanung.md)
+* [Methode des kritischen Pfades](Methode_des_kritischen_Pfades.md]
 * [Link auf diese Seite](Vom_Mythos_des_Mann_Monats.md)
 
 # Weiterführende Literatur
