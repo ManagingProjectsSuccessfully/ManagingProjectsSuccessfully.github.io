@@ -21,7 +21,6 @@ Um Projektleiter zu werden gibt es keine Ausbildung im klassischen Sinne, dennoc
 Ein Projektleiter hat verschiedene Aufgaben zu leisten, sei es während der Projektdurchführung oder bereits bei der Planung eines Projekts.[^2]
 
 <img src="Projektleiter/Projektleiter.png" alt="Der Projektleiter ein Multitalent" width="500"/> [^3]
-
 Ausbildung zum Projektleiter
 
 
