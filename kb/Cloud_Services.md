@@ -18,10 +18,12 @@ Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, d
 
 | Typ                          | Beschreibung   |
 | ---------------------------- | -------------- |
-| Software as a Service (SaaS) | Content Cell   |
-| Infrastructure as a Service (IaaS)| Content Cell   |
-| Patform as a Service (PaaS)       |
-| Function as a Service (FaaS)      |
+| Software as a Service (SaaS) | SaaS ist der bekannteste Cloud Service Typ, da zu dieser breiten Kategorie vielfältige Services gehören, wie zum Beispiel: Speicherung und Sicherung von Dateien oder webbasierte E-Mail-Angebote. SaaS wird auch als Software on demand bezeichnet und erleichtert die Kollaboration zwischen weit entfernten Teammitgliedern.[^1][^2][^3]   |
+| Infrastructure as a Service (IaaS)| IaaS liefert die Infrastruktur, die viele Cloud-Service-Provider zur Verwaltung von SaaS-Tools benötigen. Sie funktioniert wie das vollständige Framework eines Rechenzentrums, bietet Server und Storage und macht damit ressourcenintensive lokale Installationen unnötig. 
+Typische Beispiele für IaaS sind Amazon Web Services (AWS), Microsoft Azure und Google Compute Engine, wobei diese die gesamte Speicherserver- und Networking-Hardware zur Verfügung stellen und darüber hinaus wichtige Funktionen wie Load Balancing und Anwendungsfirewalls bieten.[^1][^2] |
+| Patform as a Service (PaaS)       |PaaS ist ein Cloud-Service-Modell, das Entwicklern eine webbasierte Umgebung bietet, um Apps zu entwickeln und einzusetzen. PaaS bietet Datenbanken, Betriebssysteme und Programmiersprachen, die Unternehmen verwenden können, um cloudbasierte Software zu entwickeln, ohne sich um die zugrunde liegenden Komponenten kümmern zu müssen.
+Außerdem verfügen viele IaaS-Provider auch über ein PaaS-Angebot.[^1][^2][^3] |
+| Function as a Service (FaaS)      | FaaS-Anbieter stellen immer wieder gebrauchte Funktionen auf eine einfache Weise zur Verfügung. Somit können beliebte Funktionen oder auch Funktionen mit hohen Rechenleistungen ausgelagert werden.[^3]|
 
 
 # Vorteile der Cloud Services
@@ -74,23 +76,7 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Punkteliste
   - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Aspekt n
 
@@ -115,6 +101,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [Was ist ein Cloud-Service?](https://www.citrix.com/de-de/solutions/digital-workspace/what-is-a-cloud-service.html)
 [^2]: [Was sind Cloud-Services?](https://www.rackspace.com/de-de/library/what-are-cloud-services)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [Cloud Computing](https://de.wikipedia.org/wiki/Cloud_Computing)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
