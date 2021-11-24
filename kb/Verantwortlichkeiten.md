@@ -53,10 +53,10 @@ Um ein Projekt erfolgreich auf die Beine zu stellen, muss man zum Anfang des Pro
 Die Projekthierarchie schaut folgendermaßen aus [^8][^9] :
 | Bezeichnung     | Aufgabe |
 | ---      | ---       |
-| Projektauftraggeber | trägt die Gesamtverantwortung für das Projekt. Repräsentiert das Projekt der Firma/des Unternehmens |
-| [Projektleiter](Projektleiter.md) | verantwortlich für das Umsetzen des Projektes mit zu beachtenden Zielen (oft zeitliche Ziele) unter stetiger Kontaktaufnahme zum Projektauftraggeber |
-| Teilprojektleiter | verantwortlich für Teilprojekte des Projektleiters |
-| [Projektmitarbeiter](Projektmitarbeiter.md) | verantwortlich für das aktive Erreichen der Ziele durch das Erledigen der Arbeit (hier sieht man die Aufteilung der Verantwortlichkeit am deutlichsten) | 
+| Projektauftraggeber | Trägt die Gesamtverantwortung für das Projekt. Repräsentiert das Projekt der Firma/des Unternehmens. |
+| [Projektleiter](Projektleiter.md) | Verantwortlich für das Umsetzen des Projektes mit zu beachtenden Zielen (oft zeitliche Ziele) unter stetiger Kontaktaufnahme zum Projektauftraggeber. |
+| Teilprojektleiter | Verantwortlich für Teilprojekte des Projektleiters. |
+| [Projektmitarbeiter](Projektmitarbeiter.md) | Verantwortlich für das aktive Erreichen der Ziele durch das Erledigen der Arbeit (hier sieht man die Aufteilung der Verantwortlichkeit am deutlichsten). | 
 
 # Siehe auch
 
