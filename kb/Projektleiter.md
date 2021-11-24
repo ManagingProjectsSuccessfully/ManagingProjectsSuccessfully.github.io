@@ -5,7 +5,7 @@ author: IremAkin
 anrechnung: k
 ---
 
-Im klassischen Projektmanagement ist der Projektleiter für die Steuerung des Projektes und für die operative Planung zuständig. Für die Planung bestimmt er die Ziele und übernimmt das Management der Ressourcen. Insbesondere ist er für die Termin-, Kosten- und Sachziele unter der Berücksichtigung der angestrebten Produktqualität verantwortlich.
+Im klassischen Projektmanagement ist der Projektleiter für die Steuerung des [Projekt](Projekt.md)es und für die operative Planung zuständig. Für die Planung bestimmt er die Ziele und übernimmt das Management der Ressourcen. Insbesondere ist er für die Termin-, Kosten- und Sachziele unter der Berücksichtigung der angestrebten Produktqualität verantwortlich.
 
 # Die zwei Arten ein Projekt zu leiten
 
@@ -85,7 +85,7 @@ Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt
 
 
 # Siehe auch
-
+* [Projekt](Projekt.md)
 * [Projektmitarbeiter](Projektmitarbeiter.md)
  
 
