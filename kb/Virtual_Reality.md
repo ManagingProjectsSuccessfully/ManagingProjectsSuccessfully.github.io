@@ -24,10 +24,10 @@ Des Weiteren spricht man auch häufig von [Mixed Reality (MR)](https://news.micr
 VR ist nicht nur Spaß und Spiel. Es gibt unzählige Möglichkeiten für die Anwendung von Virtual Reality in verschiedenen Bereichen. PwC geht davon aus, dass VR in Unternehmen in den nächsten zehn Jahren exponentiell zunehmen wird, da Unternehmen sie für Brainstorming, 3D-Produktdesign, Datenvisualisierung und andere gemeinsame Arbeiten, wie Projekten, bereits einsetzen oder werden, die früher ohne persönliche Treffen unmöglich zu koordinieren schienen.[^4]
 
 Der Einsatz von VR-Technologien im PM ist vielfältig:
-- VR als Projektthema: z.B. Ausbildung von Chirurgen, Piloten oder Spezialkräften zur Terrorismusbekämpfung unter Verwendung von AR/VR-Technologien
+- VR als Projektthema: z.B. Ausbildung von Chirurgen, Piloten oder Spezialkräften zur Terrorismusbekämpfung unter Verwendung von VR-Technologien
 - VR-basierte Projekte für (Mitarbeiter-) Bildung: z. B. E-Learnings
 - VR in der Projektkommunikation und Kollaboration: z.B. in der Automobilindustrie zum Testen von Autos (Audi), Ausbildung (Volkswagen), virtuelle Ausstellungsräume (Cadillac), usw.
-- Ein Projekt kann sich auf die Entwicklung von Produkten beziehen, die eine Art von AR/VR enthalten: z.B. ein Projekt im kommerziellen Flugverkehr - die Produktion eines HUD, dass eine Überlagerung der geplanten Landebahn zeigt
+- Ein Projekt kann sich auf die Entwicklung von Produkten beziehen, die eine Art von VR enthalten: z.B. ein Projekt im kommerziellen Flugverkehr - die Produktion eines HUD, dass eine Überlagerung der geplanten Landebahn zeigt
 - Entwicklungsprojekte kompletter VR-basierter Plattformen für die Echtzeit Remote-Kollaboration, die die Hardware, Software, Wissensaustausch und Echtzeit Remote-Unterstützung in vielen verschiedenen Arten von Projekten umfassen
 - VR kann außerdem in verschiedenen Phasen des Projektmanagements eingesetzt werden, wie in den oben genannten Beispielen veranschaulicht
 
@@ -63,7 +63,7 @@ Außerdem ist es nicht ganz einfach, eine einmal gewählte Plattform für zukün
 Weitere Vor- und Nachteile können den Stärken, Schwächen, Chancen und Risiken der Implementierung von AR/VR-Technologien im PM (siehe 4.1.) entnommen werden. 
 
 ## 4.1. SWOT Analyse
-Da AR/VR-Technologien einen stetig wachsenden Bereich darstellen, in dem fast täglich neue Ideen und Anwendungsbereiche zum Vorschein kommen, beschreibt die von Dodevska, Z. A., & Mihić, M. M. (2018)[^3] durchgeführte [SWOT-Analyse](SWAT_Analyse.md) die Stärken, Schwächen, Chancen und Risiken der Implementierung von AR/VR-Technologien im PM lediglich eine Momentaufnahme aus der bisher bestehenden Literatur und Forschung. 
+Da AR/VR-Technologien einen stetig wachsenden Bereich darstellen, in dem fast täglich neue Ideen und Anwendungsbereiche zum Vorschein kommen, beschreibt die von Dodevska, Z. A., & Mihić, M. M. (2018)[^3] durchgeführte [SWOT-Analyse](SWOT_Analyse.md) die Stärken, Schwächen, Chancen und Risiken der Implementierung von AR/VR-Technologien im PM lediglich eine Momentaufnahme aus der bisher bestehenden Literatur und Forschung. 
 
 ![SWOT Analyse](https://user-images.githubusercontent.com/92987061/143143985-1f11161f-12b2-40af-9156-ff45571a9702.png)
 
