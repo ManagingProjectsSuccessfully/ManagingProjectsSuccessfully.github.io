@@ -1,14 +1,9 @@
 ---
 title: SCRUM
-tags: agil klassisch
+tags: agil scrum softwareentwicklung
 author: Harthauer
 anrechnung: agil
 ---
-
-Kurzbeschreibung zu SCRUM um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 
 # SCRUM
@@ -43,15 +38,22 @@ Sinn des Sprint Reviews ist es, das Ergebnis des Sprints zu überprüfen und kü
 
 -	Sprint Retroperspective
 
-Bei der Sprint Retroperspective werden Wege zur Steigerung der Qualität und Effiktivität geplant. Das Scrum Team überprüft wie der letzte Sprint verlief, es bespricht was gut lief, welche Probleme aufgetaucht sind und falls diese gelößt wurde, wie sie gelößt wurden. 
+Bei der Sprint Retroperspective werden Wege zur Steigerung der Qualität und Effiktivität geplant. Das Scrum Team überprüft wie der letzte Sprint verlief, es bespricht was gut lief, welche Probleme aufgetaucht sind und falls diese gelößt wurde, wie sie gelößt wurden[^3]. 
 
 ![Scrum](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/scrumbum.PNG)
 
 *Scrum auf einem Bild*
 
 
-## Vorteile
-Scrum macht die relative Wirksamkeit des aktuellen Managements, der Umgebung und der Arbeitstechniken sichtbar, so dass Verbesserungen vorgenommen werden können.
+## Scrum Team
+
+Wie bereits erwähnt gibt es ein so genanntes Scrum Team, welches aus Folgenden Mitgliedern besteht:
+
+| Name  | Aufgaben |
+| ------------- | ------------- |
+| Developer  | Sind dafür verantwortlich, bei jedem Sprint einen sinnvollen Teil zum Increment zu leisten und das Sprint Backlog zu erstellen[^3]. |
+| Product Owner | Ist für die Maximierung der Wertes des Produkts verantwortlich, welches sich aus der Arbeit des Scrum Teams ergibt. Außerdem ist der Product Owner für das Product Backlog verantwortlich[^3].  |
+| Scrum Master | Der Scrum Master ist zum einem für die Effektivität des Scrum Teams verantwortlich[^3] und zum anderem dafür, dass Scrum als Rahmenwerk erfolgreich umgesetzt wird[^1]  |
 
 
 
@@ -64,12 +66,13 @@ Scrum macht die relative Wirksamkeit des aktuellen Managements, der Umgebung und
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Xtreme Programming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Xtreme_Programming.md)
+* [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
 * [Link auf diese Seite](SCRUM.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+[Scrum of Scrums](https://www.atlassian.com/de/agile/scrum/scrum-of-scrums)
 
 # Quellen
 
