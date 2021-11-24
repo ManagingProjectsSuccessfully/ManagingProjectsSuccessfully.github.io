@@ -94,7 +94,7 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 
 [Schwab, Josef: Projektplanung mit Project 2010, Carl Hanser Verlag GmbH & Co. KG, 2011](https://www.hanser-elibrary.com/doi/book/10.3139/9783446428423)
 
-[Rosenstock, Jürgen: Microsoft Project 2016, Das umfassende Handbuch, Rheinwerk Computing, 3. aktualisierte Auflage, 2016] (https://www.rheinwerk-verlag.de/microsoft-project-2016-das-umfassende-handbuch/)
+[Rosenstock, Jürgen: Microsoft Project 2016, Das umfassende Handbuch, Rheinwerk Computing, 3. aktualisierte Auflage, 2016](https://www.rheinwerk-verlag.de/microsoft-project-2016-das-umfassende-handbuch/)
 
 # Quellen
 
