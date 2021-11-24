@@ -10,14 +10,20 @@ Globalisierung, Digitalisierung und technologischer Wandel bringen vielfältige 
 betriebliche und persönliche Bereiche. Um [Veränderungen auf betrieblicher Seite](Managing_Change_in_Organisations.md) zu fördern und zu gestalten, dient das Change Management [^2].
 
 # Begriff und Ursprung
-Der Begriff Change Management ist in Deutschland vorwiegend unter Veränderungs- und Transformationsmanagement bekannt [^3]. 
-Moran und Brightman beschreiben Change Management als "the process of  continually renewing an organization's direction, structure, and capabilities to serve 
-the ever-changing needs of external and internal customer" [^4].
-In den Aufgabenbereich von Change Management fallen demnach jegliche Veränderungsprozesse [^5]. 
+Der Begriff Change Management ist in Deutschland vorwiegend unter Veränderungs- und Transformationsmanagement bekannt [^3].
+Moran und Brightman definieren Change Management folgendermaßen:
+
+- *Change management is the process of continually renewing an organization's direction, 
+structure, and capabilities to serve the ever-changing needs of external and internal customers [^4].* 
+
+- *Change Management ist der Prozess der kontinuierlichen Erneuerung der Ausrichtung, Struktur und der Fähigkeiten
+einer Organisation, um den sich ständig ändernden Anforderungen externer und interner Kunden gerecht zu werden.* 
+
+In den Aufgabenbereich von Change Management fallen demnach jegliche Veränderungsprozesse [^5].
 Der Ursprung von Change Management kann auf die "Hawthorne" Experimente zu Beginn der 1930er Jahre zurückgeführt werden [^3].
 Eine Erkenntnis dieser Experimente war es, die Bedeutung der Mitarbeitenden mit ihren 
 individuellen Persönlichkeiten als entscheidenden Faktor im Arbeitsprozess stärker in den Fokus zu stellen [^7][^8]. 
-Ein kennzeichnendes Merkmal von Change Management ist demnach die nach innen gerichtete und auf die 
+Ein kennzeichnendes Merkmal von Change Management ist daher vor allem die nach innen gerichtete und auf die 
 Mitarbeitenden einer Organisation ausgelegte Sichtweise. 
 Dies ist ein wesentlicher Unterschied zu strategischem Management, welches sich an Faktoren im Unternehmensumfeld orientiert[^2][^3].
 
@@ -34,7 +40,7 @@ Menschen sind individuell und bringen eigene Erfahrungen und Ansichtsweisen in e
 gilt es im Zuge von Change Management neben der Entwicklung fehlender Kompetenzen vor allem darum, eine positive Einstellung 
 der Mitarbeitenden gegenüber den bevorstehenden Veränderungen zu schaffen [^2]. Insbesondere ein
 sensibler Umgang mit Widerständen stellt einen wichtigen Erfolgsfaktor im Veränderungsprozess dar [^7]. 
-Weitere hervorzuhebende Faktoren außerhalb der individuellen Ebene liegen vor allem 
+Weitere hervorzuhebende Faktoren außerhalb der individuellen Ebene liegen
 in der Berücksichtigung vorliegender Unternehmensstrukturen- und kulturen[^2]. 
 
 # Anleitung und Modelle
@@ -66,7 +72,7 @@ Insbesondere stellt dieser die Bedeutung und das Kommunizieren einer gemeinsamen
 
 # Forschung und Praxis
 
-Durch immer kürzere Veränderungszyklen und die zunehmende Schnelllebigkeit in einer globalisierten Welt hat das Change Management in den letzten 
+Durch immer kürzere Veränderungszyklen und die zunehmende Schnelllebigkeit einer globalisierten Welt hat das Change Management in den letzten 
 Jahrzehnten eine erhöhte Aufmerksamkeit in Forschung und Praxis erfahren. Trotz dieser Anstrengungen und 
 der daraus entstandenden Vielzahl an Modellen bzw. Vorschläge zur Gestaltungsmöglichkeit, scheitern weiterhin viele [Change Management Projekte](Change_Projekte.md) in der Praxis[^12]. 
 
