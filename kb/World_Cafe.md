@@ -9,13 +9,23 @@ Das World Café ist eine interaktive Alternative zu Konferenzen und Seminaren, d
 
 # Eignung 
 
-Das World-Café eignet sich besonders für größere Gruppen, wobei die Teilnehmerzahl von ca. 12-2000 Teilnehmern stark variieren kann.[^3]
+Das World-Café eignet sich besonders für größere Gruppen, wobei die Teilnehmerzahl zwischen ca. 12 und 2000 Teilnehmern stark variieren kann.[^3]
 
 Die Methode ist sinnvoll, wenn
 * unterschiedliche Ideen und Meinungen einer großen Gruppe für ein komplexes Thema benötigt werden
 * unkonventionelle Lösungen gefunden werden sollen 
 * die unterschiedlichen Sichtweisen zu einem Thema deutlich gemacht werden sollen
 * anstehende oder laufende Projekte geplant oder ausgewertet werden sollen[^1]
+
+# Vorteile
+Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen kann unter anderem folgende Vorteile mit sich bringen:
+* das Wissen Vieler wird vernetzt
+* kreatives und innovatives Denken wird gefördert
+* Interdisziplinärer Erfahrungstausch
+* Lösungen werden gemeinsam erarbeitet
+* das Team- und Zusammengehörigkeitsgefühl werden gestärkt
+* neue oder bestehende Beziehungen und Netzwerke werden aufgebaut oder vertieft[^4]
+
 
 
 
@@ -104,5 +114,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: [World Café – Moderation von Großgruppenveranstaltungen](https://organisationsberatung.net/world-cafe-grossgruppen-methode/)
 [^2]: [MEIN DEIN UNSER WIRKEN](https://www.worldcafe.eu/de/)
 [^3]: [World-Café: Die Pause als Methode](https://www.futur2.org/article/world-cafe-die-pause-als-methode/)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: [World-Café - Gespräche, die zählen](https://www.agonda.de/World-Cafe/world-cafe.html)
 
