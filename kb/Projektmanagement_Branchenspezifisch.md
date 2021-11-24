@@ -133,7 +133,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]:  [Teamleader focus - Projektmanagement](https://www.teamleader.de/focus/projektmanagement)
-[^2]: [Gabler Wirtschaftslexikon - Projektmanagement]https://wirtschaftslexikon.gabler.de/definition/projektmanagement-pm-46130
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^2]: [Gabler Wirtschaftslexikon - Projektmanagement](https://wirtschaftslexikon.gabler.de/definition/projektmanagement-pm-46130)
+[^3]: [Lernen - Projektmanagement](https://www.lernen.net/artikel/projektmanagement-methoden-8018/)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
