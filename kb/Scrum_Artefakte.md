@@ -16,6 +16,14 @@ Es gibt im Scrum drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und
 Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maximaler Transparenz, sodass alle auf dem aktuellen Wissensstand sind, weshalb sie zu optimalen Arbeitsbedingungen beitragen.[^2][^3]
 
 
+# Product Backlog
+
+
+# Sprint Backlog
+
+
+# Produktinkrement
+
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
@@ -106,5 +114,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: [Die SCRUM Artefakte](https://www.mitsm.de/wissen/scrum-wissen/die-scrum-artefakte/)
 [^2]: [SCRUM: WAS SIND DIE SCRUM ARTEFAKTE?](https://www.agile-heroes.de/magazine/scrum-artefakte/)
 [^3]: [Was sind Scrum Artefakte und welche Rolle spielen sie im Projektmanagement?](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-artefakte)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: 
 
