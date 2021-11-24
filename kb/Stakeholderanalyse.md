@@ -98,4 +98,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [wwww.betriebswirtschaft-lernen.net](https://www.betriebswirtschaft-lernen.net/erklaerung/stakeholderanalyse/)
 [^3]: [www.projektmanagement-manufaktur.de](https://projektmanagement-manufaktur.de/stakeholderanalyse)
 [^4]: [www.strategische-wettbewerbsbeobachtung.com](https://www.strategische-wettbewerbsbeobachtung.com/wiki/stakeholderanalyse/)
-[^5]: [www.strategische-wettbewerbsbeobachtung.com](https://www.strategische-wettbewerbsbeobachtung.com/wiki/stakeholderanalyse/)
+[^5]: [Krips D. (2017), Stakeholdermanagement. Springer Verlag)](https://link.springer.com/book/10.1007/978-3-662-55634-4)
