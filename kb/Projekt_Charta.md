@@ -1,6 +1,6 @@
 ---
 title: Projekt_Charta
-tags: klassisch
+tags: klassisch projektauftrag projektplanung 
 author: efdil
 anrechnung: k
 ---
