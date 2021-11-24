@@ -17,7 +17,8 @@ Stufe auf der Leiter der Teamentwicklung dar[^1]. Während die Gruppenmitglieder
 leistungsstarkes Team, das auf ein gemeinsames Ziel hinarbeiten kann[^2]. Im Folgenden werden die fünf Stufen der Gruppenentwicklung von Tuckman im Detail erläutert:
 
 ![Stages_Tuckman_model](https://user-images.githubusercontent.com/92668932/143244002-85eb062a-88a5-4d62-a6bd-6aa6eec4b78a.png)
-*Tuckman´s stages of team development*[^3]
+
+*Abbildung 1: Tuckman´s stages of team development*[^3]
 
 ## Forming: die Orientierungsphase
 
@@ -39,7 +40,7 @@ akzeptieren.
 Wenn die Mitglieder die "Storming"-Phase hinter sich gelassen haben, akzeptieren sie sich gegenseitig mehr und beginnen, sich auf gemeinsame Ziele zu konzentrieren. In der
 "Norming"-Phase werden zwischenmenschliche Differenzen abgebaut, und die Mitglieder suchen nun aktiv nach gegenseitiger Unterstützung, um auf ein gemeinsames Ziel hinzuarbeiten.
 Das Team ist in der Lage effektiv mit konstruktivem Feedback zu arbeiten, da sich die Mitglieder mit den Teamabläufen vertraut gemacht haben und neuer Aufgaben bewältigen
-können. Da diese neuen Aufgaben oft mit einem hohen Schwierigkeitsgrad verbunden sind, ist es nicht ungewöhnlich, dass Gruppen wieder in die Storming-Phase zurückfallen. 
+können. Da diese neuen Aufgaben oft mit einem hohen Schwierigkeitsgrad verbunden sind, ist es nicht ungewöhnlich, dass Gruppen wieder in die Storming-Phase zurückfallen[^1]. 
 
 ## Performing: die Leistungsphase
 
@@ -57,12 +58,12 @@ Die folgende Tabelle fasst die Phasen mit jeweiligen Herausforderungen zusammen,
   | Allgemeine Feststellungen | Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende | Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen |     Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
   | Prozessbezogene Probleme | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach         Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
   | Gefühlsbezogene Probleme | Die Mitglieder fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen fühlen sich noch unsicher und versuchen, ihre          Individualität zum Ausdruck zu bringen. Es entstehen Bedenken hinsichtlich der Teamhierarchie | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander        mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
-Quelle: [^6]
+Tabelle 1: Überblick der Phasen Forming, Storming, Norming, Performing [^6]
 
 ## Adjouring: die Auflösungsphase
 
 Die fünfte Phase geht davon aus, dass Projektteams nur für einen bestimmten Zeitraum bestehen; sobald die Aufgabe des Teams erfüllt ist, löst sich das Team selbst auf. 
-Nicht selten wird diese Phase manchmal auch als "Trauerphase" bezeichnet, da die Teammitglieder häufig ein Gefühl des Verlustes empfinden, wenn die Gruppe aufgelöst wird.
+Nicht selten wird diese Phase manchmal auch als "Trauerphase" bezeichnet, da die Teammitglieder häufig ein Gefühl des Verlustes empfinden, wenn die Gruppe aufgelöst wird[^5][^7].
 
 
 # Siehe auch
@@ -84,5 +85,5 @@ Nicht selten wird diese Phase manchmal auch als "Trauerphase" bezeichnet, da die
 [^2]: [Das Phasenmodell nach Tuckman im Überblick](https://projekte-leicht-gemacht.de/blog/softskills/fuehrung/teams/die-phasen-der-teamentwicklung-wie-produktiv-ist-dein-team/)
 [^4]: [Tuckmans Phasenmodell)](https://teamentwicklung-lab.de/tuckman-phasenmodell)
 [^6]: [Stages of Small-Group Development Revisited](https://webspace.science.uu.nl/~daeme101/Stages%20of%20Small-Group%20Development%20Revisted.pdf)
-[^7]: [TEAMPHASEN NACH TUCKMAN](https://www.wsu-beratung.de/blog/teamphasen)
-[^5]: [Scheiden tut weh: Adjourning – die unterschätzte Phase im Teamprozess](https://teamworks-gmbh.de/scheiden-tut-weh-adjourning-die-unterschaetzte-phase-im-teamprozess/)[^1]: [Agiles Coaching: Die neue Art, Teams zum Erfolg zu führen](https://books.google.de/books?id=iV6yDwAAQBAJ&lpg=PT335&ots=KQiYmuqrjk&dq=adjourning%20als%20trauerphase&hl=de&pg=PT335#v=onepage&q=adjourning%20als%20trauerphase&f=false)
+[^5]: [TEAMPHASEN NACH TUCKMAN](https://www.wsu-beratung.de/blog/teamphasen)
+[^7]: [Scheiden tut weh: Adjourning – die unterschätzte Phase im Teamprozess](https://teamworks-gmbh.de/scheiden-tut-weh-adjourning-die-unterschaetzte-phase-im-teamprozess/)[^1]: [Agiles Coaching: Die neue Art, Teams zum Erfolg zu führen](https://books.google.de/books?id=iV6yDwAAQBAJ&lpg=PT335&ots=KQiYmuqrjk&dq=adjourning%20als%20trauerphase&hl=de&pg=PT335#v=onepage&q=adjourning%20als%20trauerphase&f=false)
