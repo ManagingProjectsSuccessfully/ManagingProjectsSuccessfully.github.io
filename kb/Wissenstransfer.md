@@ -73,15 +73,16 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 ## Methoden und Instrumente für den Wissenstransfer
 
 Ausschlaggebend für die Anwendung gewisser Methoden ist die Art des Transfers. Hierbei wird zwischen personifiziertem und kodifizierten 
-Wissenstransfer unterschieden. Der Austausch des Wissens findet beim personifizierten Wissenstransfer auf persönlicher Ebene statt. Dies kann auf vielen 
-verschiedenen Wegen geschehen:[^13]
+Wissenstransfer unterschieden. Der Austausch des Wissens findet beim personifizierten Wissenstransfer auf persönlicher Ebene statt. Dabei gibt es für Unternehmen 
+viele Möglichkeiten den Wissenstransfer anzustoßen:[^13]
 
 * [Mitarbeiterworkshops](https://de.wikipedia.org/wiki/Workshop)
 * [Interviews](https://de.wikipedia.org/wiki/Interview)
 * [Mentoring](https://de.wikipedia.org/wiki/Mentoring)
 
-Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft. Heutzutage nehmen Datenbanken
-in diesem Kontext eine essenzielle Rolle ein.[^14][^15]
+Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft, wobei Datenbanken in diesem Kontext eine
+essenzielle Rolle einnehmen. So ist es heutzutage verbreitet, im Rahmen von Projekten genauso Interviews und spontane Gespräche mit Kollegen zu nutzen, wie auch auf
+das Wissen von Datenbanken zurückzugreifen.[^14][^15]
 
 
 # Siehe auch
