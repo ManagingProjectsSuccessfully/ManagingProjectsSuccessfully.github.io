@@ -49,11 +49,13 @@ Der ursprüngliche Entdecker des Konzepts TDD, Kent Beck, spielte auch eine wich
 # Siehe auch
 
 * [Xtreme Programming](Xtreme_Programming.md)
+* [Bottom-Up Planning](Bottom_Up_Planning.md)
 
 # Weiterführende Literatur
 
 * [Test Driven Development (TDD): Die Testgetriebene Entwicklung einfach erklärt - IONOS](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/)
 * [Padberg, Frank and Matthias M. Müller. “About the Return on Investment of Test-driven Development.” (2003).](https://publikationen.bibliothek.kit.edu/1000061750/3933989)
+* [R. Ramler and C. Klammer, "Enhancing Acceptance Test-Driven Development with Model-Based Test Generation," 2019 IEEE 19th International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2019, pp. 503-504, doi: 10.1109/QRS-C.2019.00096.](https://ieeexplore.ieee.org/document/8859410)
 
 # Quellen
 
