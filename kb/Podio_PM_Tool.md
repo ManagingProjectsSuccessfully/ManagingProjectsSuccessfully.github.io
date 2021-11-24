@@ -7,7 +7,7 @@ anrechnung: k oder a
 
 ![Image](Podio_PM_Tool/podio-logo.png)
 
-[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einem Ökosystem von Apps, die sie beliebig auf sich zuschneiden können [^2]. Podio unterstützt soziale Zusammenarbeit sowie das flexible Arbeiten[^1]. Vertrieben wird das Tool durch das US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3]. 
+[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einem Ökosystem von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können [^1]. Podio unterstützt soziale Zusammenarbeit sowie das flexible Arbeiten[^1]. Vertrieben wird das Tool durch das US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3].
 
 # Geschichte
 
@@ -21,7 +21,8 @@ Für Teams von einer bis fünf Personen ist die Software kostenlos [^1].
 
 # Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Aspekte zu Themen können ganz unterschiedlich sein:![podio-logo](https://user-images.githubusercontent.com/92925048/143275136-dcfb500c-27e8-42e2-9d2c-e1d2e7046083.png)
+
 
 * Verschiedene Teile eines Themas 
 * Historische Entwicklung
