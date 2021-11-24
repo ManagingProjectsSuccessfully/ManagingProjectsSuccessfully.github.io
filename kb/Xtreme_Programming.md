@@ -40,7 +40,7 @@ Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organis
 Die <b> Kommunikation </b> zwischen allen Rollen ist extrem wichtig, um Probleme direkt adressieren zu können. 
 So können Missstände direkt behoben werden und ein permanenter Austausch führt zu gleichem Wissensstand der Entwickler. [^10]
 
-Ein wichtiger Wert der Methode XP ist die <b> Einfachheit </b>. Es wird nach der einfachsten Lösung gestrebt und die Entwickler halten sich so nicht mit Unwichtigem auf. 
+Ein wichtiger Wert der Methode XP ist die <b> Einfachheit</b>. Es wird nach der einfachsten Lösung gestrebt und die Entwickler halten sich so nicht mit Unwichtigem auf. 
 Es werden möglichst nur die im Moment benötigten Features entwickelt und nicht für zukünftige Anforderungen vorgearbeitet. [^11]
 
 Bei dem Punkt <b> Feedback </b> geht es nicht nur um die Kritik des Kunden, sondern auch um Meldungen des Systems (Logs). Das Team arbeitet in kleinen Zyklen, testet häufig und kann so Änderungen und Fehlerbehebungen kurzfristig vornehmen. [^12]
