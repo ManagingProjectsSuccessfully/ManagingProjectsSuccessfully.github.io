@@ -56,36 +56,6 @@ Die Vorteile eines Projektmanagement-Handbuchs wären zum Beispiel, dass die Pro
 
 
 
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-8.
-  1. llll
-
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
@@ -93,7 +63,7 @@ So kann man eine Tabelle erstellen:
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
 
 # Quellen
 
