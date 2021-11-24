@@ -75,6 +75,11 @@ Zunächst wird ein Problem ermittelt. Mit Hilfe von [Stakeholder](Stakeholder_Re
 werden weitere Informationen gesammelt, welche bestenfalls zu konkreten Lösungsansätzen führen und zuletzt 
 wird die Projekt-Vision vor Entscheidungsträgern präsentiert.
 
+# Siehe auch
+
+* [Link auf diese Seite](Projekt.md)
+* 
+
 # Weiterführende Literatur
 
 * [Dale Christenson, Derek H.T. Walker, 2008, Using vision as a critical success element in project management, International Journal of Managing Projects in Business, Volume 1 Issue 4](https://www.emerald.com/insight/content/doi/10.1108/17538370810906291/full/html?casa_token=E_uiN0GA_OwAAAAA:ZKu-OzSQ_klpzC6hn2LimyB_Fk9pygs4Qc2cS3n8nUIlykGkn_yf37sPDyilv7eLjsb7E1EfH-jhLbc74ApzqvhaV_LIqG3a9GetZi9T_niSnwrcbXs)
