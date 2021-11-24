@@ -23,7 +23,7 @@ Zusätzlich kann man diese Beispiele in freiwillige und nicht freiwillige Übern
 Verantwortung wird meist philosophisch erklärt und beschrieben, da es auch sehr vielschichtig und nicht eindeutig ist. Doch mit dem Begriff Verantwortlichkeit wird oft konkret die Zuweisung einer Aufgabe verbunden, wie ein Projekt zu leiten. [^2]
 
 ![Bild 1](Verantwortlichkeiten/Grundbeziehungen-der-Verantwortung.jpg)
-*Hier kann man die Grundbeziehungen der Verantwortung erkennen*  [^2]
+*Grundbeziehungen der Verantwortung erkennen*  [^2]
 
 Verantwortung liegt dem Kongruenzprinzip zugrunde, besteht also aus drei nicht teilbaren Bausteinen: Aufgabe, Befugnis und Rechenschaftspflicht. Laut diesem Prinzip kann eine Person, die eine Aufgabe bekommen hat, nicht ohne die dazugehörige Befugnis handeln. [^3] [^4]
 
