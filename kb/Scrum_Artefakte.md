@@ -20,13 +20,13 @@ Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maxim
 
 ## 1.1 Zusammensetzung des Product Backlogs
 
-Das Product Backlog könnte man als Kernartefakt von Scrum bezeichnen, da es sich hier um eine Liste handelt, welche geordnet und priorisiert alle Funktionen und Kriterien aufzeigt, die das Endprodukt bieten soll.[^2][^3]
+Das Product Backlog, welches vom [Product Owner](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/product-owner) in Zusammenarbeit mit den Stakeholdern erstellt wird, könnte man als Kernartefakt von Scrum bezeichnen. Es handelt sich hier um eine Liste, welche geordnet und priorisiert alle Funktionen und Kriterien aufzeigt, die das Endprodukt bieten soll. Sogenannte Product Backlog Items beschreiben diese Anforderungen, wie z.B. User Stories und Verbesserungen, aus Sicht und Sprache des Kunden.[^2][^3][^5]
 
 ## 1.2 Die Dynamik im Product Backlog
 
 Im agilen Projektmanagement sind häufige Feedbacks typisch, weshalb es nicht unwahrscheinlich ist, dass sich die Anforderungen ändern können. Deshalb kann man das Product Backlog als lebendes Dokument betiteln, welches während der gesamten Produktentwicklung erweitert und verändert wird.
 
-Hierbei trägt der [Product Owner](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/product-owner) die volle Verantwortung für die Aktualität und die richtige Priorisierung der Komponente, z.B.: Grad des Risikos und gewünschtes Lieferdatum. Dennoch kann das Product Backlog jederzeit vom [Scrum-Team](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-team) eingesehen werden.
+Hierbei trägt der Product Owner die volle Verantwortung für die Aktualität und die richtige Priorisierung der Komponente, z.B.: Grad des Risikos und gewünschtes Lieferdatum. Dennoch kann das Product Backlog jederzeit vom [Scrum-Team](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-team) eingesehen werden.
 Hieraus werden während des Sprint Planning, die zu erledigenden Punkte für den nächsten Sprint ausgewählt.[^1][^2][^3][^4]
 
 
@@ -129,4 +129,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [SCRUM: WAS SIND DIE SCRUM ARTEFAKTE?](https://www.agile-heroes.de/magazine/scrum-artefakte/)
 [^3]: [Was sind Scrum Artefakte und welche Rolle spielen sie im Projektmanagement?](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-artefakte)
 [^4]: [Product Backlog](https://www.projektmagazin.de/glossarterm/product-backlog)
-
+[^5]: [Scrum Artefakte](https://www.scrum-events.de/scrum-artefakte.html)
