@@ -5,9 +5,8 @@ author: viktoria110
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Kennenlernspiele um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Kennenlernspiele dienen dazu, ein Team, dessen Teilnehmer sind nicht bzw. kaum kennen und vor einer Kooperation stehen, in der ersten Phase des Projekts zu unterstützen. Sie können sowohl in Präsenz, als auch online in abgewandelter Form eingesetzt werden.
+Kennenlernspiele im Arbeitskontext dienen dazu, ein Team, dessen Teilnehmer sind nicht bzw. kaum kennen und vor einer Kooperation stehen, in der ersten Phase des Projekts zu unterstützen. Sie können sowohl in Präsenz, als auch online in abgewandelter Form eingesetzt werden.
 
 # Einsatz in Projekten
 
@@ -76,9 +75,9 @@ Das Spiel <a name="Schlüsselbund"></a>*Schlüsselbund* gibt den Teilnehmenden d
 
 [^1]: https://www.marconomy.de/vier-erstaunliche-erfolgsfaktoren-fuer-die-agile-zusammenarbeit-a-853629/
 [^2]: https://asana.com/de/resources/icebreaker-questions-team-building
-[^3]: Volker Johanning, *Organisation und Führung der IT: Die neue Rolle der IT und des CIOs in der digitalen Transformation*, Springer Vieweg, Marl am Dümmersee, 2020, [doi: 10.1007%2F978-3-658-12008-5](https://link.springer.com/book/10.1007%2F978-3-658-12008-5), S. 190
-[^4]: Bruce W. Tuckman, *Developmental sequence in small groups.* In: Psychological Bulletin, 1965, [doi: 10.1037/h0022100](https://psycnet.apa.org/fulltext/1965-12187-001.pdf?auth_token=ab14c987a05299f8f0fb073cdffd37cec38e61f5&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F1965-12187-001), S.396
-[^5]: https://link.springer.com/content/pdf/10.1007%2F978-3-662-56013-6.pdf, S.215…….die haben es aus: Boos, M., Hardwig, T., & Riethmüller, M. (2017). Führung und Zusammenarbeit in verteilten Teams. Göttingen: Hogrefe.“ 
+[^3]: [Volker Johanning, *Organisation und Führung der IT: Die neue Rolle der IT und des CIOs in der digitalen Transformation*, Springer Vieweg, Marl am Dümmersee, 2020, S. 190](https://link.springer.com/book/10.1007%2F978-3-658-12008-5)
+[^4]: [Bruce W. Tuckman, *Developmental sequence in small groups.* In: Psychological Bulletin, 1965, S. 396](https://psycnet.apa.org/fulltext/1965-12187-001.pdf?auth_token=ab14c987a05299f8f0fb073cdffd37cec38e61f5&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F1965-12187-001)
+[^5]: [Simone Kauffeld, *Arbeits-, Organisations- und Personalpsychologie für Bachelor*, 3. Auflage, Springer, 2019, S. 215](https://link.springer.com/content/pdf/10.1007%2F978-3-662-56013-6.pdf)
 [^6]: https://www.teamgeist.com/blog/kennenlernspiele/
 [^7]: https://www.seminar-tools.com/8-kennenlernspiele-fuer-erwachsene/
 [^8]: https://www.stellenanzeigen.de/arbeitgeber/wecruit/5-kennenlernspiele-fuer-erwachsene/
