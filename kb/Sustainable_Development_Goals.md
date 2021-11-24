@@ -11,28 +11,25 @@ Die Agenda 2030 für nachhaltige Entwicklung, die 2015 von allen Mitgliedstaaten
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Der interdisziplinäre Ansatz, der die wirtschaftliche, soziale und ökologische Agenda integriert, wurde bei der Forschung im Rahmen der Projektarbeiten angewandt [^1, ^2].
+So sind beispielsweise die Pionieruniversitäten in Russland (zehn föderale und einige Kernuniversitäten) zu einem System der projektbasierten Ausbildung übergegangen, bei dem das Projekt eine eigene akademische Disziplin ist, die in "Credits" bewertet wird, die dem Studenten gutgeschrieben werden, und das Projekt am Ende der Forschung einem potenziellen "Kunden" - dem Arbeitgeber oder der Region - präsentiert wird. Für die Universitäten hat sich das Problem ergeben, potenzielle "Kunden" zu finden, die ihre großen Forschungsprojekte in kleine Forschungseinheiten (Teile) aufteilen und sie den Universitäten als kleine Projektaufgaben im Wert von zwei bis sechs Credits anbieten können, damit jeder Student ein interessantes Thema und eine Vertiefung wählen kann, die seinem persönlichen Bildungsweg entspricht. Eine solche projektbasierte Arbeit wird häufig mit der eduScrum-Technologie [^3] umgesetzt.
 
 
-# Aspekt 1
+# Umweltbezogene Ziele
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* Die umweltbezogenen Ziele können den Zielen 13, 14 und 15 entsprechen und beziehen sich auf die Erziehung zur ökologischen Zivilisation, die Umwelterziehung, die Erziehung zur biologischen Vielfalt, die Erziehung zum Klimawandel und die Erziehung zur Katastrophenvorsorge. Jedes Ziel und die verschiedenen Ziele sind direkt oder indirekt miteinander verknüpft und können in der Praxis auch klassifiziert oder auf eine pädagogischere Weise miteinander verbunden werden.
 
-![Beispielabbildung](Sustainable_Development_Goals/test-file.jpg)
+![Beispielabbildung](https://de.wikipedia.org/wiki/Ziele_für_nachhaltige_Entwicklung#/media/Datei:Sustainable_Development_Goals.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Personalbezogene Ziele
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+* Sozial
+* Wirtschaft
+
+Die Inhalte der Ziele 1 bis 12 und der beiden Schutzziele der Ziele 16 und 17 können kombiniert werden und entsprechen der Erziehung zur Weltbürgerschaft, der Verbrauchererziehung, der Erziehung zur Gleichstellung der Geschlechter, der Erziehung zu gewaltfreiem Frieden usw.
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
