@@ -2,13 +2,13 @@
 title: Crystal_Methods
 tags: agil 
 author: creepol
-anrechnung:  a
+anrechnung:  k
 ---
 
-Die vorliegende Arbeit setzt sich mit der Crystal Methode und ihren Anwendungsmöglichkeiten im [agilen Projektmanagement] auseinander. Crystal ist nicht nur eine agile Methode im [Projektmanagement](Projektmanagement.md), sondern eine ganze Familie von einzelnen [Methoden](Methoden.md). Diese werden abhängig von der Größe und der Kritikalität (Höhe der Risiken) angewandt. Der amerikanische Informatiker Alistair Cockburn entwickelte in den frühen 90er Jahren die Crystal Familie. Im Laufe seiner Forschung wurde ihm klar, dass jedes Projekt und jedes Team einzigartig in Ihrer Zusammensetzung ist und keine allgemeine Vorgehensweise existiert. Deshalb ordnete Cockburn den einzelnen Methoden Farben zu, wobei jede Farbe Größe und Kritikalität eines Projekts repräsentiert.[^1]
+Die vorliegende Arbeit setzt sich mit der Crystal Methode und ihren Anwendungsmöglichkeiten im agilen Projektmanagement auseinander. Crystal ist nicht nur eine agile Methode im [Projektmanagement](Projektmanagement.md), sondern eine ganze Familie von einzelnen [Methoden](Methoden.md). Diese werden abhängig von der Größe und der Kritikalität (Höhe der Risiken) angewandt. Der amerikanische Informatiker Alistair Cockburn entwickelte in den frühen 90er Jahren die Crystal Familie. Im Laufe seiner Forschung wurde ihm klar, dass jedes Projekt und jedes Team einzigartig in Ihrer Zusammensetzung ist und keine allgemeine Vorgehensweise existiert. Deshalb ordnete Cockburn den einzelnen Methoden Farben zu, wobei jede Farbe, Größe und Kritikalität eines Projekts repräsentiert.[^1]
 
 
-# 1. Verschiedene Crystal- Varianten 
+# 1. Verschiedene Crystal-Varianten 
 
 Welche Methode letztendlich für das Projekt ausgewählt wird, entscheidet die Anzahl der teilnehmenden Personen und die Höhe der Risiken. Die Crystal Familie benutzt verschiedene Farben um die verwendete Methode zu kennzeichnen. Die aktuellen Farben sind:[^2]
 
@@ -31,42 +31,42 @@ Projekte mit lebensbedrohlichen Risiken hat er absichtlich weggelassen, da er ke
 
 
 
-*Abbildung 1:* *Klassifizierung der Crystal-Projekte*
+*Abbildung 1: Klassifizierung der Crystal-Projekte*
 
 
 # 2. Die 7 Prinzipien der Crystal Methoden
 
-Die Methoden zeichnen vor allem sieben gemeinsame und vorherrschende Eigenschaften aus. Im Laufe der Zeit fand Cockburn heraus, dass je mehr von diesen Eigenschaften in der [Projektplanung] umgesetzt wurden, desto erfolgreicher wurde das Projekt abgeschlossen.[^3]
+Die Methoden zeichnen vor allem sieben gemeinsame und vorherrschende Eigenschaften aus. Im Laufe der Zeit fand Cockburn heraus, dass je mehr von diesen Eigenschaften in der [Projektplanung](Projektplanung.md) umgesetzt wurden, desto erfolgreicher wurde das Projekt abgeschlossen.[^3]
 
 
 1. Frequent delivery[^4]
 
-	- Es werden regelmäßig Testversionen und Entwürfe an den Auftraggeber geschickt um 			Feedback am laufenden Projekt zu bekommen [^3]
+	- Es werden regelmäßig Testversionen und Entwürfe an den Auftraggeber geschickt um 			Feedback am laufenden Projekt zu bekommen 
 
 
 2. Reflective Improvement
 
-   -	In regelmäßigen Abständen werden Teammeetings einberufen um Projektaufgaben zu 			besprechen und Verbesserungsvorschläge ezu sammeln und in das Projekt einzubauen.[^3]
+   -	In regelmäßigen Abständen werden Teammeetings einberufen um Projektaufgaben zu 			besprechen und Verbesserungsvorschläge zu sammeln und in das Projekt einzubauen.
   
 
 3. Close communication
 	
-    - Eine der wichtigsten Vorraussetzungen liegt darin, durch räumliche Nähe einen natürlichen 		Informationsfluss zu generieren. Teams sollten daher nicht zu groß sein[^3]
+    - Eine der wichtigsten Vorraussetzungen liegt darin, durch räumliche Nähe einen natürlichen 		Informationsfluss zu generieren. Teams sollten daher nicht zu groß sein.
 
 
 4. Personal safety
 	
-	  - Meinungsverschiedenheiten und Kritik sollten offen geäußert werden können ohne 			Konsequenzen. [^3]
+	  - Meinungsverschiedenheiten und Kritik sollten offen geäußert werden können ohne 			Konsequenzen. 
 
 
 5. Focus
 
-	  - Jeder Mitarbeiter arbeitet ziel- und lösungsorientiert an ihren Aufgaben.[^3]
+	  - Jeder Mitarbeiter arbeitet ziel- und lösungsorientiert an ihren Aufgaben.
 
 	
 6. Early Access to expert users
 	
-	  - Experten sind jederzeit für das Team erreichbar um bespielsweise schnell Detailfragen zu 		klären.[^3]
+	  - Experten sind jederzeit für das Team erreichbar um bespielsweise schnell Detailfragen zu 		klären.
 
 
 7. Technical environment
@@ -76,25 +76,18 @@ Die Methoden zeichnen vor allem sieben gemeinsame und vorherrschende Eigenschaft
 
 # 3. Verschiedene Rollen in Crystal Methods
 
-Unabhängig von der Größe des Projekts existieren ein Sponsor, verschiedene User, der Lead Designer und Designer Programmer. Diese vier Rollen sollten von unterschiedlichen Personen ausgeführt werden um Verantwortlichkeiten klar abzugrenzen. Je größer der [Projektumfang], desto mehr spezialisierte Rollen können im Team auftauchen. Siehe Abbildung 2. [^5]
+Unabhängig von der Größe des Projekts existieren ein Sponsor, verschiedene User, der Lead Designer und Designer Programmer. Diese vier Rollen sollten von unterschiedlichen Personen ausgeführt werden um Verantwortlichkeiten klar abzugrenzen. Je größer der [Projektumfang](Projektumfang.md), desto mehr spezialisierte Rollen können im Team auftauchen. Siehe Abbildung 2. [^5]
 
 ![Beispielabbildung](Crystal_Methods/Projektrollen.png)
 
-*Abbildung 2:* *Die Rollen in Crystal im Überblick*
+*Abbildung 2: Die Rollen in Crystal im Überblick*
 
 
 
 
-# Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Crystal_Methods.md)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
-# Quellen
+## Quellen
 
 [^1]: [Crystal] (https://www.onlinesolutionsgroup.de/blog/glossar/c/crystal/
 
