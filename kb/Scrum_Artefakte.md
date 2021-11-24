@@ -1,6 +1,6 @@
 ---
 title: Scrum_Artefakte
-tags: agil, scrum, artefakte
+tags: agil scrum artefakte
 author: kutaydogan
 anrechnung: a
 ---
