@@ -13,9 +13,9 @@ ClickUp[^1] ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_To
 
 ## Anmeldung
 
-Die Anmeldung ist sehr einfach, sobald Email und Passwort eingetragen sind kann die Arbeit schon beginnen. 
-Zuerst hat man die Möglichkeit sich vier Videos anzusehen, die kurz erklären wie ClickUp aufgebaut ist und welche Features es gibt. 
-Die Videos zeigen nur die wichtigsten Funktionen. Das Angebot durch ClickUp ist weitaus größer als in den Videos beschrieben.
+Die Anmeldung ist einfach, sobald Email und Passwort eingetragen sind kann die Arbeit beginnen. 
+Zuerst erhält man die Möglichkeit sich Videos anzusehen, die kurz wiedergeben wie ClickUp aufgebaut ist und kompakt erklären welche Features es gibt. 
+Das Angebot durch ClickUp ist jedoch weitaus größer als in den Videos beschrieben.
 
 ## Homepage
 
