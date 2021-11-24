@@ -5,9 +5,9 @@ author: 5SY5
 anrechnung: k 
 ---
 
-Die Circular Economy oder auch Kreislaufwirtschaft ist ein Wirtschaftsmodell, das danach ausgerichtet ist den Ressourceneinsatz, die Abfallproduktion, die Emissionserzeugnisse 
+Die Circular Economy oder auch Kreislaufwirtschaft ist ein Wirtschaftsmodell, das danach ausgerichtet ist, den Ressourceneinsatz, die Abfallproduktion, die Emissionserzeugnisse 
 zu minimieren. Dabei ist das Ziel die maximale Effizienz bei der Nutzung endlicher Ressourcen, den Übergang zu erneuerbaren Ressourcen und auch die volle Ausschöpfung von 
-Materialien und Produkten bis zum Ende ihres Lebenszyklus zu erreichen.[^3] Im allgemeinen beschreibt die Circular Economy ein regeneratives Wirtschaftssystem.
+Materialien und Produkten bis zum Ende ihres Lebenszyklus zu erreichen.[^3] Im Allgemeinen beschreibt die Circular Economy ein regeneratives Wirtschaftssystem.
 Das dazu stehende Gegenüber ist die Linearwirtschaft, welches ein "take-make-dispose" Modell beschreibt - in anderen Worten eine Wegwerfwirtschaft darstellt. Dabei zielt die 
 Circular Economy nicht nur darauf ab, die Mängel einer linearen Wirtschaft auszubessern, sondern stellt auch ein systematischer Wandel dar, der das Wirtschaftssystem vollständig 
 verändert.[^1]
@@ -69,7 +69,7 @@ Die drei Grundprinzipien von Biomimicry.
 *Cradle to Cradle [^6]
 
 Kreislaufwirtschaft bezieht sich normalerweise auf die Menge an recycelten Materialien oder die Reduzierung von Abfall. Das Design von Cradle zu Cradle konzentriert sich jedoch 
-auf die Produktqualität, einschließlich der Sicherheit für Mensch und Umwelt. Wieterhin wird durch dieses Modell ersichtlicher, dass die in einer Kreislaufwirtschaft zwei 
+auf die Produktqualität, einschließlich der Sicherheit für Mensch und Umwelt. Weiterhin wird durch dieses Modell ersichtlicher, dass die in einer Kreislaufwirtschaft zwei 
 verschiedene Produkte in Kreisläufen fließen. 
 * Im biologischen Kreislauf kehren Ressourcen in die Natur zurück. 
 * Im technologischen Kreislauf zirkulieren Ressourcen endlos im Kreislauf. [^7]
@@ -86,7 +86,7 @@ Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürliche
 * Die Umweltbelastung wird verringert
 * Steigerung der Rohstoffversorgung
 * stärkere Mitarbeiterbindung an das Unternehmen 
-* Förderung der Innovation udn Wachstum 
+* Förderung der Innovation und Wachstum 
 * Image Aufbesserung des Unternehmens[^5]
 
 
