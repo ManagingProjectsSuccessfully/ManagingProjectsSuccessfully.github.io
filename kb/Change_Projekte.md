@@ -1,104 +1,91 @@
 ---
 title: Change_Projekte
-tags: agil klassisch
+tags: agil klassisch 
 author: verenaschuebel
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Change_Projekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Change-Projekte, im Deutschen auch Veränderungsprojekte genannt, werden durch das sogenannte Change-Management abgewickelt.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Um den Begriff Change-Projekte zu erklären, muss im Folgenden zunächst der Begriff Change-Management erläutert werden:
+Change-Management ist die Vorbereitung, Analyse, Planung, Realisierung, Evaluierung und laufende Weiterentwicklung von ganzheitlichen Veränderungsmaßnahmen mit dem Ziel, in Unternehmen von einem bestimmten Ist-Zustand zu einem erwünschten Soll-Zustand weiterzuentwickeln und so die Effizienz und Effektivität aller Unternehmensaktivitäten nachhaltig zu steigern [^1].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Das Ziel von Change-Projekten besteht also darin durch neue Strategien, Systeme, Prozesse oder auch Verhaltensweisen einen Kulturwandel umzusetzen oder einzuführen [^2].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Change-Projekte am Praxisbeispiel der Lego Group
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+*	Unternehmensportrait
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Die Lego Group ist ein dänisches Privatunternehmen. Das Unternehmen wurde 1932 von der Familie Kirk Kristiansen gegründet und gehört mittlerweile zu den drei größten Spielzeugherstellern der Welt nach Erlös. 
+Bekannt wurde das Unternehmen durch die heutzutage zum Kult gewordenen, gleichnamigen Legobausteine. [^3] [^4]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+* Hintergrund für die strategischen Veränderungen
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+-	Wann sollten Change Projekte durchgeführt werden?
+Das Einführen neuer Geschäftsstrategien ist für Unternehmen sinnvoll, wenn diese an einem strategischen Wendepunkt stehen. 
+Strategische Wendepunkte sind beispielsweise der Aufbau neuer Partnerschaften oder Joint Ventures oder auch die Anpassung an neue Technologien oder Geschäftsmodelle. [^5]
 
+-	Der Hintergrund in Bezug auf die Lego Group
+Seit seiner Gründung bis in das Jahr 1998 hatte Lego nie einen Verlust verzeichnet und sehr schnell an Bekanntheit gewonnen. Im Jahre 2003 ging der Umsatz des Unternehmens im Vergleich zum Vorjahr um 30 Prozent zurück und die Schulden betrugen 800 Millionen US-Dollar. 
+Mitte der 2000er Jahre verlor Lego jedes Jahr Hunderte Millionen Dollar, musste Tausenden Angestellten kündigen und wechselte seine Leitung. [^6]
+ 
+*	Die Phasen des Change Projektes
 
-# Aspekt 1
+![image] (/kb/Change_Projekte/EVOSULT_Change_Management_810px-1.png)
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+1. Phase: Die Analyse des Veränderungsvorhabens
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Beobachter spekulierten, dass die Lego-Group ihre Produktpalette überdiversifiziert hatte. Andere machten den Druck von Billigherstellern in China verantwortlich. [^9]
+Bestärkt wurde Zweiteres dadurch, dass Ende der Achtzigerjahre die ersten Urheberrechte ausliefen, wodurch große Konkurrenz durch andere Firmen entstand. [^7] Obwohl an den Vermutungen etwas Wahres lag, behinderten viele andere Faktoren den Erfolg der Lego-Group, einschließlich ihrer Lieferkette. [^9]
 
-![Beispielabbildung](Change_Projekte/test-file.jpg)
+2.	Phase: Die Analyse der Organisation
 
-*lustiges Testbild*
+Jørgen Vig Knudstorp, der 2004 zum CEO der Lego Group ernannt wurde, erkannte, dass der Umsatzrückgang des Unternehmens gestoppt werden musste und die Schulden abgebaut. [^8]
+Die Unternehmensleitung wusste, dass die Lieferkette die unmittelbarste Möglichkeit zur Verbesserung bot. [^9]
+Die Lieferkettenprobleme waren aus dem Engagement des Unternehmens für Innovation entstanden. Knudstorp wusste, dass es dem Unternehmen nicht an Innovation fehlte, doch viele der Innovationen nicht profitabel waren. Beispielsweise wurden Produkte entwickelt, die sich von der Farbe nur sehr leicht von bereits vorhanden Produkten unterschieden. [^11]
 
-# Aspekt 2
+3.	Phase die Entwicklung der Vorgehensarchitektur
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Für die Implementierung des Change Projektes waren laut dem neuen CEO eine strenge fiskalische Kontrolle und ein Top-Down- Management erforderlich. [^8]
+Die Lieferkettenprobleme waren aus dem Engagement des Unternehmens für Innovation entstanden. Knudstorp wusste, dass es dem Unternehmen nicht an Innovation fehlte, doch viele der Innovationen nicht profitabel waren. Beispielsweise wurden Produkte entwickelt, die sich von der Farbe nur sehr leicht von bereits vorhanden Produkten unterschieden. Deshalb fokussierte er seine Strategie auf Effizienz und Kosteneinsparungen, speziell verbunden mit der Lieferkette. [^11]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+4.	Phase: die Umsetzung der Veränderungen
 
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Im Rahmen des Rettungsplans von Jørgen Vig Knudstorp, wurde im Jahre 2006 ein wesentlicher Teil der Produktion an einen Vertragspartner, Flextronics, ausgelagert. Ziel war es die Kosten der Produktion zu senken. Später wurden noch weitere Produktionsstätten an den neuen Partner ausgelagert. [^10]
 
 
-# Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Change_Projekte.md)
+# Siehe auch:
 
-# Weiterführende Literatur
+Change_Management
+8_Step_Process_for_Leading_Change
+Nachhaltige_Entwicklung
+Top_Down_Planning
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+# Weiterführende Literatur:
 
-# Quellen
+https://www.esv-campus.de/.download/_sid/OXRN-298696-IN3C/125880/059_061_Change_Management_in_komplexen_Situationen.pdf#search=%22change%20projekt%22
+https://www.esv-campus.de/.download/_sid/OXRN-298696-
+https://link.springer.com/content/pdf/10.1007%2F978-3-658-05851-7_15.pdf
+https://www.mckinsey.com/featured-insights/leadership/changing-change-management
+https://link.springer.com/content/pdf/10.1007%2F978-3-658-03287-6.pdf
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+# Quellen:
+[^1] Workbook Change Management: Methoden und Techniken von Dietmar Vahs und Achim Weiand, Schäffer-Poeschel Verlag für Wirtschaft Steuern Recht GmbH, Datum 04.06.2020, 3. Auflage https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6232361
+[^2]  https://www.pidas.com/blog/5-faktoren-fuer-ein-erfolgreiches-change-projekt
+[^3] Emma Bedford: Topic: Toy Industry. abgerufen in statista.com
+[^4] The LEGO Group - About us - LEGO.com DE
+[^5] ▷ Change Management » Definition, Erklärung & Beispiele + Übungsfragen (bwl-lexikon.de)
+
+[^6] https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself
+[^7] https://sz-magazin.sueddeutsche.de/wirtschaft-finanzen/steinreich-80333
+[^8] Lego CEO Jørgen Vig Knudstorp on leading through survival and growth (hbr.org)
+[^9] Rebuilding Lego, Brick by Brick (strategy-business.com)
+[^10] Outsourcing and Insourcing - LEGO® History - LEGO.com US
+[^11] Transforming the LEGO Group for the Digital Economy (mit.edu)
+
+Bildquelle: Change Management im Zeichen von Covid-19: Krisen meistern und Zukunftsfähigkeit bewahren | (evosult.de)
+
+
+
 
