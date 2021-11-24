@@ -1,6 +1,6 @@
 ---
 title: Scrum_Metrics
-tags: agil
+tags: agil scrum scrum_sprint effizienz performance produktivitaet projektteam
 author: efdil
 anrechnung: a
 ---
