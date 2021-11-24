@@ -1,8 +1,8 @@
 ---
 title: Benchmarking
-tags: agil klassisch
+tags: agil 
 author: alexandermueller296
-anrechnung: k oder a
+anrechnung: a
 ---
 
 Kurzbeschreibung zu Benchmarking um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -11,6 +11,28 @@ Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basi
 oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
+
+## Die 5 Schritte des Benchmarkings
+
+### Phase 1: Beschreibung der der Benchmarking-Aspekte und des Leistungsniveaus
+
+Die erste Phase des Prozesses beinhaltet die Festlegung der Themen, welche überhaupt verglichen werden sollen. Es soll die Auswahl nach den übergeordneten strategischen Unternehmenszielen getroffen werden.
+Diese Fragen stellen Klarheit über die Auswahl der Unternehmensziele:
+-	Welches sind die strategischen Ziele des Unternehmens?
+-	Welches sind die hierfür relevanten Erfolgsfaktoren?
+-	Welche Schwachstellen müssen schließlich im Interesse der strategischen Ziele behoben werden?
+Danach erfolgen die detaillierte Untersuchung und Dokumentation des Ausgewählten Benchmarking- Objekts und die daraus folgende Feststellung des Leistungsniveaus.
+
+### Phase 2: Wahl des Benchmarkt-Partners und des Benchmarks
+
+Auswahl eines oder mehrerer Benchmark-Partner durch verschiedene Vorgehensweisen:
+Offenes Benchmarking
+Die Suche der Benchmark- Partner wird direkt vom Unternehmen oder es wird über beauftragte spezielle Unternehmen bzw. Vermittlungsstellen durchgeführt. Darunter fallen unter anderem Internetportale.
+Verdecktes Benchmarking
+Die Suche der Benchmark- Partner erfolgt durch die Zwischenschaltung von sogenannten Clearingstellen. Die Daten werden somit nicht direkt ausgetauscht, sondern werden anonym zwischen den beiden Parteien verglichen. Dies hat den Vorteil das die Daten dann nicht einem Unternehmen zuordenbar sind und man nicht weis mit wem man sich vergleicht. Bei diesem Prozess ist es jedoch wichtig, die vorhandenen Differenzen auf eine gemeinsame Basis zu normalisieren. Dies kann durch Standortfaktoren, Mitarbeiterzahl, Marktbedingungen usw. geschehen.
+
+
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
