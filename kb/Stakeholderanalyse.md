@@ -11,25 +11,25 @@ anrechnung: k
 Eine Stakeholderanalyse hat das Ziel die Interessensgruppen eines Projekts und deren Einfluss auf Entscheidungen zu identifizieren. Hierbei werden die Stakeholder zueinander in Beziehung gesetzt und kategorisiert. Somit können Sie durch Strategien gezielt gesteuert und in eine gewollte Richtung gelenkt werden.
 Kurzbeschreibung zu Stakeholderanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht [^1][^2].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Hintergrund
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Der Begriff Stakeholder (Verlinkung) beschreibt in diesem Sinne ein direktes Interesse an einem Projekt von einzelnen Personen, Gruppen, Unternehmen oder Vereinigungen. Viele Stakeholder wollen bei den Verläufen von Projekten mitsprechen und so ihre Belange zu Ihrem Vorteil durchsetzen [^3].
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Stakeholder können in intern und extern gegliedert werden. Nachfolgend sind einige Beispiele von möglichen Stakeholdern aufgezählt:
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+* Konkurrenten
+*	Umweltverbände
+*	Medien
+*	Anwohner
+*	Mitarbeiter
+* Politik
+*	Gewerkschaften
+*	Investoren
+*	Kunden
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+
+
+
 
 Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
 Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
@@ -100,6 +100,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [www.controlling-wiki.de](https://www.controlling-wiki.com/de/index.php/Stakeholderanalyse)
 [^2]: [wwww.betriebswirtschaft-lernen.net](https://www.betriebswirtschaft-lernen.net/erklaerung/stakeholderanalyse/)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [www.projektmanagement-manufaktur.de](https://projektmanagement-manufaktur.de/stakeholderanalyse)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
