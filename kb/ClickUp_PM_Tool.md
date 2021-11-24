@@ -28,6 +28,9 @@ Links im Bildschirm ist eine Sidebar eingeblendet, die weitere Unterfunktionen z
 erstellt werden können). Weitere Funktionen in der Sidebar werden in den unteren Paragrafen erklärt.
 
 ## Favorites
+
+Bei dem Unterpunkt Favorites handelt es sich um die einfache Möglichkeit Odner, Tasks, Dokumente, etc. anzuheften um auf sie schnell zugreifen zu können.
+
 ## Spaces 
 ## Dashboards
 ## Docs
