@@ -20,15 +20,16 @@ Standard- oder Routineprojekte können aufgrund bestehender Erfahrung standardis
 Wichtig zu beachten ist, dass die Grenzen der Matrix nicht starr sind und eine eindeutige Zuordnung nicht immer möglich ist. Darüber hinaus wechseln viele Projekte während der Entwicklung von Vorstudienphase bis zur Realisierung ihre Projektart. Dabei wandeln sich Projekte meist vom Potenzial- zum Pionierprojekt und werden im Anschluss zu Akzeptanz- oder sogar Standardprojekt. 
 Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen internen und externen Auftraggebern eine der wichtigsten Kriterien von Projekten. Häufig erscheint es auch sinnvoll, Projekte anhand ihres Inhalts  oder Branche zu differenzieren, um spezielle Vorgehensweisen und Techniken abzuleiten. Ein klassisches Schema ist die Unterscheidung in Investitions-, Forschungs- und Entwicklung, sowie Organisations- und IT-Projekte.
 
+# Bedeutung für Projektmanagement
+
+Die Zuordnung von Projekten in unterschiedliche Projektarten ist für das Projektmanagement von enormer Bedeutung. Da sich die Projektarten hinsichtlich ihrer Kosten und Risiken teilweise deutlich unterscheiden, muss dies bei der Planung berücksichtigt werden. Die Differenzierung nach verschiedenen Projektarten erleichtert zunächst, sich einen Überblick über die Projektlandschaft im Unternehmen zu verschaffen. Dies ist vor allem dann sinnvoll, wenn eine große Anzahl an Projekten parallel gemanagt werden soll. Jedes Projekt erfordert eine andere Vorgehensweise durch die Einmaligkeit ihrer Bedingungen. Die Klassifizierung von Projekten hilft den Entscheidungsträgern dabei, geeignete Methoden und Vorgehensweisen zu ermitteln, wodurch das Projektmanagement zielgerichtet  und zugeschnitten auf die jeweils vorliegende Projektart eingesetzt werden kann. Dadurch kann beispielsweise Dauer, Risiko, Kosten oder das notwendige Know-how der Mitarbeitenden für ein Projekt beziehungsweise eine bestimmte Projektart abgeleitet werden. Darüber hinaus wird neben der Erleichterung der Unternehmenssteuerung auch der Bedarf an speziellem Know-how deutlich.
+Schlussendlich dient die Differenzierung in verschiedene Projektarten als Grundstein für eine erfolgreiche Projektdurchführung.
+
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Projektarten.md)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
