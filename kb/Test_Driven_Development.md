@@ -106,6 +106,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 7. nummerierte liste
    1. und hier eine Ebene tiefer
 
+# Synergieeffekte mit Extreme Programming (XP)
+
+Der ursprüngliche Entdecker des Konzepts TDD, Kent Beck, spielte auch eine wichtige Rolle bei der Entwicklung des [Xtreme Programming](Xtreme_Programming.md) (XP). In seinem Buch über TDD[^3] geht er deshalb auf Seite 217 noch speziell darauf ein, wie sich die Grundsätze dieser beiden Arbeitsweisen kombinieren lassen.
+
+* Ein Problem beim Pair-Programming des XP kann sein, dass die Entwickler versuchen, unterschiedliche Probleme zu lösen oder das Problem unterschiedlich interpretieren. Die Orientierung an Tests im TDD vermeidet dass, sodass allen immer klar ist, woran sie gerade arbeiten sollen.
+* TDD bietet mit seinen Tests sinnvolle Meilensteine, an denen das Konzept "Bei Müdigkeit aufhören" des XP gut umsetzbar ist.
 
 # Siehe auch
 
