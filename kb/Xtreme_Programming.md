@@ -11,17 +11,16 @@ anrechnung: a
 Extreme Programming, kurz XP, ist die radikalste Umsetzung der agilen Softwareentwicklung. [^1]
 
 Zurückzuführen ist die Methode auf die Softwareentwickler Kent Beck, Ward Cunningham und Ron Jeffries. 
-Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen , da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte.
-
+Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen , da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte. [^2]
 
 ## Eine Agile Methode
 
-Wie Scrum und Kanban, andere agile Methoden, stellt Extreme Programming den Kunden und seine Anforderungen in den Mittelpunkt.
-Dies ist oftmals schwierig bei einem klassischen Ansatz, vor allem, wenn sich die die Kundenwünsche regelmäßig ändern.
+Extreme Programmming ist eine agile, effiziente und mit wenig Risiko verbundene Entwicklungsmethode. [^3]
+Wie Scrum und Kanban, andere agile Methoden, wird der Kunde und seine Anforderungen in den Mittelpunktgestellt.
+Be einem klassischen Ansatzies ist dies oftmals schwierig, vor allem, wenn sich die die Kundenwünsche regelmäßig ändern. [^4]
 
 Es wird von iterativen Prozessen ausgegangen. 
-Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, besprechen und veröffentlichen. 
-
+Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, besprechen und veröffentlichen. [^5]
 Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken entwickelt.
 
 ![Beispielabbildung] (https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
@@ -41,16 +40,15 @@ Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organis
 ## Werte
  
 Die <b> Kommunikation </b> zwischen allen Rollen ist extrem wichtig, um Probleme direkt adressieren zu können. 
-So können Missstände direkt behoben werden und permanenter Austausch führt zu gleichem Wissensstand der Entwickler.
+So können Missstände direkt behoben werden und permanenter Austausch führt zu gleichem Wissensstand der Entwickler. 
 
 Ein wichtiger Wert der Methode XP ist die <b> Einfachheit </b> . Es wird nach der einfachsten Lösung gestrebt und die Entwickler halten sich so nicht mit Unwichtigem auf. 
 Es werden möglichst nur die im Moment benötigten Features entwickelt und nicht für zukünftige Anforderungen vorgearbeitet. Ein schlankes Produkt ist sowohl bei der Weiterentwicklung als auch bei der Wartung einfacher zu handhaben und ein simpler Programmcode vereinfacht die Kommunikation, da so alle Teammitglieder den Quelltext verstehen können.
 
 Bei dem Punkt <b> Feedback </b> geht es nicht nur um die Kritik des Kunden, sondern auch um Meldungen des Systems (Logs). Das Team arbeitet in kleinen Zyklen, testet häufig und kann so Änderungen und Fehlerbehebungen kurzfristig vornehmen.
 
-Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Ändern von Organisationsstrukturen zu verstehen.
+Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Ändern von Organisationsstrukturen zu verstehen. 
 
-Damit die gemeinsame Arbeit im Team gut funktionieren kann, müssen sich die Teammitglieder gegenseitig <b> Respekt </b> entgegenbringen, auch über das Team hinaus ist Wertschätzung wichtig, zum Beispiel im Kontakt mit dem Kunden.
 
 
 ## Prinzipien
@@ -92,7 +90,12 @@ Natürlich ist die Methode des Extreme Programming sehr anspruchsvoll und
 ## Quellen
 
 [^1]: https://www.ionos.de/digitalguide/websites/web-entwicklung/extreme-programming/
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^2]: https://www.agile-heroes.de/magazine/extreme-programming/
+[^3]: Buch S. Preface XVii
+[^4]: https://www.agile-heroes.de/magazine/extreme-programming/
+[^5]: https://www.ionos.de/digitalguide/websites/web-entwicklung/extreme-programming/
+[^6]:
+[^7]:
+[^8]:
+
 
