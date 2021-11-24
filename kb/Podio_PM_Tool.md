@@ -7,11 +7,13 @@ anrechnung: k oder a
 
 ![Image](Podio_PM_Tool/podio-logo.png)
 
-[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können [^1]. Podio unterstützt die individuelle Arbeitsweise sowie das flexible und kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe zurück, indem es ihnen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer wichtiger Informationen liefert [^1][^3]. Seit 2012 ist die Plattform Teil des  US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3].
+[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können [^1]. Podio unterstützt die individuelle Arbeitsweise sowie das flexible und kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe zurück, indem es ihnen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer wichtiger Informationen liefert [^1][^3]. Die Firma Podio Europe hat ihren Hauptsitz in Kopenhagen, Dänemark[^3].
 
 # Geschichte
 
-Anfang 2009 gründeten Jon Froda, Anders Pollas und der Entwicklet Andreas Haugstrup Polio. Anfänglich lief das Projekt allerdings unter dem Namen Hoist. Podio kommt aus dem Lateinischen und bedeutet Plattform und fasst damit die Idee der Firma kurz und griffig zusammen. Dass der Name leicht überall auf der Welt auszusprechen ist, war ein weiterer Grund für die Namensänderung. 
+Anfang 2009 gründeten Jon Froda, Anders Pollas, Kasper Hulthin und der Entwickler Andreas Haugstrup Polio. Anfänglich lief das Projekt allerdings unter dem Namen Hoist. Podio kommt aus dem Lateinischen und bedeutet Plattform und fasst damit die Idee der Firma kurz und griffig zusammen. Dass der Name leicht überall auf der Welt auszusprechen ist, war ein weiterer Grund für die Namensänderung [^3]. 
+
+Seit 2012 ist Podio Teil des US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3].
 
 # Funktionen
 
