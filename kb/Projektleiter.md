@@ -20,7 +20,7 @@ Jedoch sind konstante Anpassungen und Veränderungen fester Bestandteil des Proj
 Um Projektleiter zu werden gibt es keine Ausbildung im klassischen Sinne, dennoch wird in der Regel ein Universitätsabschluss von Unternehmen vorausgesetzt. Neben dem fachlichen Know-how muss ein Projektleiter auch die Kompetenzen eines Unternehmers, Managers und die einer Führungskraft mitbringen. Weitere Anforderungen an den Projektleiter sind unter anderem die soziale Kompetenz, Kommunikative Fähigkeiten, Kreativität und Risikomanagement. 
 Ein Projektleiter hat verschiedene Aufgaben zu leisten, sei es während der Projektdurchführung oder bereits bei der Planung eines Projekts.[^2] 
 
-<img src="Projektleiter/Projektleiter.png" alt="Der Projektleiter ein Multitalent" width="500"/> 
+<img src="Projektleiter/Projektleiter.png" alt="Der Projektleiter ein Multitalent" width="600"/> 
 
 Ausbildung zum Projektleiter [^3]
 
@@ -62,27 +62,6 @@ Zusammenfassend kann festgestellt werden, dass ein Projektleiter einer hierarchi
 Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt das durchschnittliche Gehalt eines Projektleiters in Deutschland bei 63.960 € brutto pro Jahr."[^5]Allerdings ist es auch möglich als Projektleiter einen Verdienst von bis zu 90.000€ im Jahr zu erhalten, denn jedes Projekt und jeder Auftraggeber ist verschieden, weshalb ein Projektleiter mit jeder Erfahrung seinen persönlichen Marktwert steigert. 
 
 (Eine Bitte an meine Reviewer: Bitte schreibt mir doch gerne auch noch dazu ob und wenn ja was für Informationen euch bezüglich dieses Themas fehlen. Und ob ihr einen besseren Vorschlag für eine Graphik/Bild hättet, Vielen Dank)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Siehe auch
 * [Who is Who Projectmanagement](Who_is_Who_Projectmanagement.md) 
