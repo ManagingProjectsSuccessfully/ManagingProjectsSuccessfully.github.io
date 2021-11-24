@@ -5,7 +5,7 @@ author: Philip290899
 anrechnung: k
 ---
 
-# Dunning-Kruger-Effekt - Die Selbstüberschätzung der Inkompetenten
+# Die Selbstüberschätzung der Inkompetenten
 ## Grundgedanke
 Im Jahre 1995 ereignete sich in Pittsburgh einer der spektakulärsten Banküberfälle aller Zeiten. Zwei Banken wurden am helllichten Tag von einem nicht maskierten Mann ausgeraubt. Er behauptete, dass er keinesfalls fahrlässig gehandelt habe, schließlich habe er sein Gesicht vor dem Raubüberfall mit Zitronensaft beschmiert, damit ihn die Überwachungskameras nicht sehen konnten. Diese Geschichte gilt als Paradebeispiel für das Phänomen, von dem dieser Beitrag handelt.[^1] Der griechische Philosoph Sokrates sagte einst: "Ich weiß, dass ich nichts weiß". Mit dieser Aussage war er einigen Menschen weit voraus. Der Dunning-Kruger Effekt beleuchtet das Gegenteil dieser Erkenntnis.[^2] 
 ## Erklärung des Phänomens 
