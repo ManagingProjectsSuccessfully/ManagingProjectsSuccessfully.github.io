@@ -46,52 +46,17 @@ Mit Hilfe von agilem Projektmanamement ist es möglich, sich laufend an verände
 Sowohl in klassischem als auch in agilem Projektmanagement oder deren Mischform, dem hybriden Projektmanagement, lassen sich übergreifende Methoden finden, die unabhängig von der Projektart angwendet werden können. In jedem Projekt müssen Risiken und entsprechende Gegenmaßnahmen erarbeitet, Stakeholder analysiert und die Wirtschaftlichkeit des Vorgehens geprüft werden.[^7]
 Oft genutzte Methoden sind hierbei [Stakeholderanalyse](Stakeholderanalyse.md), [Risikoanalyse](Risikoanalyse_und_Visualisierung.md), [Business Case](Business_Cases.md), ABC-Analyse, Plan-Ist-Vergleich, [Project Canvas](Project_Canvas.md) und die Kommunikationsmatrix.[^7]
 
-### Softskill-Management in Projekten
+### Softskill-Management
 
-Die Methoden für Kompetenzen im Projektmanagement kann prinzipiell jedes Teammitglied übernehmen. Besonders der Projektleiter benötigt jedoch bestimmte Kompetenzen, um den erfolgreichen Ablauf seines Projektes sicherzustellen.[^14]
+Die Methoden für Kompetenzen im Projektmanagement kann prinzipiell jedes Teammitglied übernehmen. Besonders der Projektleiter benötigt jedoch bestimmte Kompetenzen, um den erfolgreichen Ablauf seines Projektes sicherzustellen.[^14] Für ein effizientes Selbstmanagement werden Techniken wie [Pomodoro](Pomodoro.md), [Pareto-Prinzip](Pareto_Prinzip) oder die [Eisenhower-Matrix](Eisenhower_Matrix.md) eingesetzt.[^7] Dem Projektleiter stehen außerdem verschiedene Mittel zur Verfügung, um die Kommunikation in der Gruppe zu verbessern und die Teammitglieder anzuführen. Es können [Feedback-Gespräche](Feedbackgespräche.md) und Methoden des [Teammanagements](Teammanagement.md) genutzt werden.[^7]
+Die Entscheidungsfindung der Gruppe können Methoden wie die [Nutzwertanalyse](Nutzwertanalyse.md) unterstützen.[^7]
 
-Für ein effizientes Selbstmanagement werden Techniken wie [Pomodoro](Pomodoro.md), [Pareto-Prinzip](Pareto_Prinzip) oder die [Eisenhower-Matrix](Eisenhower_Matrix.md) eingesetzt.[^7]
+### Kreativitätsmethoden
 
-Dem Projektleiter stehen verschiedene Mittel zur Verfügung, um die Kommunikation in der Gruppe zu verbessern und die Teammitglieder anzuführen. Es können [Feedback-Gespräche](Feedbackgespräche.md) und Methoden des [Teammanagements](Teammanagement.md) genutzt werden.[^7]
+Kreativitätsmethoden dienen im Allgemeinen dazu, mit bestimmten Vorgaben die Kreativität der Teammitglieder anzuregen, um Problemlösungen zu finden oder Ideen zu generieren.[^15]
 
-Methoden, die zur Entscheidungsfindung beitragen, wie die [Nutzwertanalyse](Nutzwertanalyse.md).[^7]
 
-Kreativitätsmethoden dienen im Allgemeinen dazu, mit bestimmten Vorgaben die Kreativität der Teammitglieder anzuregen, um Problemlösungen zu finden.[^15]
 Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapping.md) und die [Walt-Disney-Methode](Walt_Disney_Methode.md).[^7]
-
-
-
-
-
-
-
-
-
-### Ebene-3-Überschrift
-
-
-![Beispielabbildung](Methoden/test-file.jpg)
-*Testbild*
-
-* das 
-* ist 
-* eine 
-* Punkteliste
-  - mit Unterpunkt
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-Tabelle:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 
 
@@ -99,10 +64,7 @@ Tabelle:
 # Siehe auch
 
 * [6-3-5-Methode](6_3_5_Methode.md)
-* [Brainstorming](Brainstorming.md)
 * [Brainwriting](Brainwriting.md)
-* [Walt Disney Methode](Walt_Disney_Methode.md)
-* 
 * 
 * [Barcamp-Methode](Barcamp_Methode.md)
 * 
@@ -119,9 +81,7 @@ Tabelle:
 * [User-Story-INVEST-Methode](User_Story_INVEST_Methode.md)
 * 
 * 
-* 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Methoden.md)
+
 
 # Weiterführende Literatur
 
