@@ -14,8 +14,8 @@ Nach der Definition der DIN 69901-5, ist ein Projektmanagementhandbuch eine „Z
 
 # Abgrenzung Projektmanagementhandbuch und Projekthandbuch
 
-Das Projektmanagementhandbuch ist eine "Zusammenstellung von Regelungen, die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten". Es bezieht sich also im Allgemeinem auf Regelungen für die Durchführung eines Projekts in einem Unternehmen. (wiki PM Handbuch). Im Gegensatz dazu, bezieht sich das Projekthandbuch auf die „Zusammenstellung von Informationen und Regelungen, die für die Planung und Durchführung eines bestimmten Projekts gelten sollen“ und enthält damit spezifische Regelungen, welche nur für ein spezielles Projekt gelten.
-Ein Projektmanagementhandbuch beschreibt somit Verfahren und Methoden eines Projekts, welche im Projekthandbuch Anwendung finden (http://www.hs-augsburg.de/pm-bau/Homepage/3-1%20Projekthandbuch.html).
+Das Projektmanagementhandbuch bezieht sich im Allgemeinem auf die Regelungen, welche für die Durchführung und Planung eines Projekts in einem Unternehmen gelten[^2]. Im Gegensatz dazu, bezieht sich das Projekthandbuch auf die „Zusammenstellung von Informationen und Regelungen, die für die Planung und Durchführung eines bestimmten Projekts gelten sollen“ und enthält damit spezifische Regelungen, welche nur für ein spezielles Projekt gelten[^3].
+Ein Projektmanagementhandbuch beschreibt somit Verfahren und Methoden eines Projekts, welche im Projekthandbuch Anwendung finden[^4].
 
 
 
@@ -113,6 +113,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: https://www.business-wissen.de/artikel/projektmanagement-so-erstellen-sie-ein-projektmanagement-handbuch/ 
 [^2]: https://de.wikipedia.org/wiki/Projektmanagementhandbuch 
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^3]: https://de.wikipedia.org/wiki/Projekthandbuch
+[^4]: http://www.hs-augsburg.de/pm-bau/Homepage/3-1%20Projekthandbuch.html
 
