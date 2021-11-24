@@ -24,7 +24,7 @@ Albert Einstein hat gesagt; “Wenn du es nicht einfach erklären kannst, hast d
 Minimalistisch also, schnell verständlich und so, dass jeder damit zurechtkommt. Egal ob Studierter, ein unerfahrener Internet-Nutzer, jemand aus einer anderen Branche oder gar eine außenstehende Person, die im Kern gar keine Ahnung von dem Thema hat. Halt es einfach, dann verstehen es auch alle problemlos.
 
 
-![das KISS-Prinzip erkennen](ManagingProjectsSuccessfully.github.io/kb/KISS_Prinzip/kiss-prinzip.png)
+![das KISS-Prinzip erkennen](KISS_Prinzip/kiss-prinzip.png)
 
 
 # Mögliche Übersetzungen
