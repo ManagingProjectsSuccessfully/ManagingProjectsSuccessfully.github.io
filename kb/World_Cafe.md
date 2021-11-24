@@ -61,14 +61,15 @@ Die zuvor genannte Vorgehensweise ist flexibel anpassbar und Komponenten, wie et
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](World_Cafe.md)
+Weitere kreative Methoden
+* [Link auf diese Seite](6_3_5_Methode.md)
 
 # Weiterführende Literatur
 
 * [World-Café](https://de.wikipedia.org/wiki/World-Café)
 * [Den Austausch und Diskussionen mit einem World Café anregen](https://www.youtube.com/watch?v=ekCPJlcYZ0Y)
 * [World Café (Weltcafé) Methode](https://www.europa-union.de/fileadmin/files_eud/PDF-Dateien_EUD/Best_Practice/Rezepte_WorldCafé.pdf)
+* [Die World-Café-Methode: Kooperativ zum Erfolg](https://www.youtube.com/watch?v=N-SgDI4N8E8)
 
 
 # Quellen
