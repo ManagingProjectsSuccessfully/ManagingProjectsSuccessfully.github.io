@@ -50,7 +50,7 @@ Es ist zu bedenken, dass sich die Meinung von Stakeholdern auch während eines P
 Ein Template für eine Stakeholderanalyse könnte beispielsweise folgendermaßen aussehen:
 
 
-
+![Stakeholderanalyse Umsetzung](Stakeholderanalyse/Stakeholderanalyse-Umsetzung.jpeg)
 
 
 Verlinkung strategische Wettbewerbsbeobachtung
