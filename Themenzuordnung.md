@@ -32,7 +32,6 @@ author: anniSc
 | [IT-Projekte](kb/IT-Projekte.md)                                                                         | [Adaye1e](https://github.com/Adaye1e)                         |
 | [Bauprojekte](kb/Bauprojekte.md)                                                                         | [Constll](https://github.com/Constll)                         |
 | [Pionierprojekte](kb/Pionierprojekte.md)                                                                 | [alexandermueller296](https://github.com/alexandermueller296) |
-| [Chaos_Studie](kb/Chaos_Studie.md)                                                                       | [BraNico](https://github.com/BraNico)                         |
 | [Top_Down_Planning](kb/Top_Down_Planning.md)                                                             | [laradag](https://github.com/laradag)                         |
 | [Bottom_Up_Planning](kb/Bottom_Up_Planning.md)                                                           | [FAUdennis96](https://github.com/FAUdennis96)                 |
 | [Change_Projekte](kb/Change_Projekte.md)                                                                 | [verenaschuebel](https://github.com/verenaschuebel)           |
@@ -44,7 +43,6 @@ author: anniSc
 | [Projektmanagement_fuer_Circular_Economy](kb/Projektmanagement_fuer_Circular_Economy.md)                 | [5SY5](https://github.com/5SY5)                               |
 | [Knowledge_Engineering](kb/Knowledge_Engineering.md)                                                     | [laura1mueller](https://github.com/laura1mueller)             |
 | [Wissensmanagament](kb/Wissensmanagament.md)                                                             | [Lukas1401](https://github.com/Lukas1401)                     |
-| [Wissensspirale](kb/Wissensspirale.md)                                                                   | [FabianMartini](https://github.com/FabianMartini)             |
 | [Wissensmarkt](kb/Wissensmarkt.md)                                                                       | [fe94fiqy](https://github.com/fe94fiqy)                       |
 | [Wissenslandkarte](kb/Wissenslandkarte.md)                                                               | [Za22Regi](https://github.com/Za22Regi)                       |
 | [Wissenstransfer](kb/Wissenstransfer.md)                                                                 | [felixba213 ](https://github.com/felixba213 )                 |
