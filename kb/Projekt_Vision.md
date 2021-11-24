@@ -13,7 +13,7 @@ gesehen werden. Die Projekt-Vision beschreibt einen gewünschten Endzustand, im 
 
 ![Beispielabbildung](Projekt_Vision/Projektvision.png)
 
-[*Vision-Statement, Quelle: Wir machen Kommunikation](https://assets.website-files.com/59b76f662cead100013dfc05/5dbab9af03da768b74e06887_Grafik_Vision_Mission_neu.png)
+[*Vision-Statement, Quelle: Wir machen Kommunikation*](https://assets.website-files.com/59b76f662cead100013dfc05/5dbab9af03da768b74e06887_Grafik_Vision_Mission_neu.png)
 
 Die Projekt-Vision wird häufig unterschätzt, doch sie kann maßgeblich für den [Erfolg](Erfolgsmessung.md) eines [Projektes](Projekt.md) entscheidend 
 sein und Probleme und Verwirrungen verhindern, wenn sie klar und angemessen kommuniziert ist[^2]. 
