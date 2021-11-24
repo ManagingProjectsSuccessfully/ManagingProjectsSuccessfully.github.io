@@ -40,7 +40,7 @@ Software des Unternehmens „Zehnplus GmbH“ konzentrieren. Zehnplus bietet mit
 rund um das Thema Wissensmanagement. 
 Anhand von diesem Beispiel soll unter Betrachtung der folgenden Grafik, die Grundstruktur solcher WMS dargestellt werden.
 
-Abbildung
+![Wisdom+ Wissensmanagementsoftware](Wissensmanagementsoftware/Wisdom+ Wissensmanagementsoftware.png)
 
 Das Grundprodukt und somit der Kern der Plattform ist natürlich die Knowledge Base, hier wird das gesamte vorhandene Wissen zentral 
 an einem Ort gespeichert (Single Source of Information). Durch modernes Datenmanagement (DM) können hier Daten analysiert, kombiniert und verteilt werden. 
