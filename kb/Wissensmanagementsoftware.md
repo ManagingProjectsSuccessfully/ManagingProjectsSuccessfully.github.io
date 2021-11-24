@@ -33,7 +33,8 @@ Erfolgreiche Wissensmanagementsoftware kann leicht in bestehende Unternehmensstr
 ### Wissensmanagementsoftware am Beispiel der Wisdom+ Wissensmanagement Software
 
 Aufgrund des riesigen Angebots an Wissensmanagementsoftware und deren unterschiedlichen Ansätze, möchte ich mich im Folgenden auf eine bestimmte 
-Software des Unternehmens „Zehnplus GmbH“ konzentrieren. Zehnplus bietet mit ihrer Wisdom+ Wissensmanagementsoftware, eine Plattform rund um das Thema Wissensmanagement. 
+Software des Unternehmens „Zehnplus GmbH“ konzentrieren. Zehnplus bietet mit ihrer Wisdom+ Wissensmanagementsoftware, eine Plattform 
+rund um das Thema Wissensmanagement. 
 Anhand von diesem Beispiel soll unter Betrachtung der folgenden Grafik, die Grundstruktur solcher WMS dargestellt werden.
 
 Abbildung
