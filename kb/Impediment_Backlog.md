@@ -19,7 +19,7 @@ wie zum Beispiel:
 * Störungen in der Zusammenarbeit oder Kommunikation
 * Ablenkung durch andere Aufgaben außerhalb des Projekts
 * Druck von außen durch Management 
-* Persönliche Konflikte zwischen Projektmitarbeitern
+* Persönliche Konflikte zwischen Teammitgliedern
 * Mangel an Wissen, Fähigkeiten, Ressourcen[^2]
 
 # Darstellung im Impediment Backlog
@@ -30,7 +30,7 @@ Neben einer kurzen Beschreibung des Impediments sollten im Backlog noch folgende
 
 * Betroffene Personen
 * Bisherige Dauer der Störung
-* Mögliche Ansprechpartner (zur Lösungsfindung)[^3]
+* Mögliche Kontaktpersonen (zur Lösungsfindung)[^3]
 
 Impediment Backlogs können in unterschiedlichsten Darstellungen geführt werden, beispielsweise als Excel-Tabellen, als Einträge in [Projektmanagement - Tools](Uebersicht_PM_Tools.md) oder als Post-Its an einem Whiteboard. [^1][^4]
 
@@ -54,7 +54,7 @@ Das reine Ermitteln der Störungen selbst ist dagegen nicht nur die Aufgabe des 
 # Idealtypischer Ablauf für den Umgang mit Impediments
 
 **1. Aufnehmen:** In den meisten Fällen stößt man während der [Daily Scrums](Daily_Scrum.md) auf Impediments. Diese können dann direkt im Backlog dokumentiert und im Nachgang besprochen werden.[^6]
-Der Hinweis auf ein Impediment kann einerseits durch die Projektmitarbeiter erfolgen, oder der Scrum Master selbst erkennt weniger offenkundige Probleme und bringt sie zur Sprache.[^2]
+Der Hinweis auf ein Impediment kann einerseits durch die Projektmitglieder erfolgen, oder der Scrum Master selbst erkennt weniger offenkundige Probleme und bringt sie zur Sprache.[^2]
 
 
 **2. Priorisieren:** Hat der Scrum Master ausreichend Informationen über jedes Impediment gesammelt, so kann er eine Priorisierung der Hindernisse nach deren Relevanz vornehmen.[^5][^6]
