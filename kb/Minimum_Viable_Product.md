@@ -39,12 +39,6 @@ Oft konzentrieren sich Produkt- oder Projektmanager so stark auf die Veröffentl
 Das Minimum Viable Product trägt auch einen Teil im [Risikomanagement](Risikomanagement.md) bei. Häufig besteht die Meinung, dass eine hohe Anzahl an Features das Geschäft verbessern. In der Realität ist dies jedoch nicht der Fall. Stattdessen führt diese Behauptung meist zu unhandlicheren Produkten und einer Erhöhung des Risikos. Das MVP wägt dabei zwischen der Kapitalrendite (ROI) und dem Risiko ab, das vom Aufwand und von der Zeit abhängig ist.[^3] Durch die stetigen Feedbacks von Kunden, kann schon kurz nach der Einführung des Produktes auf dem Markt erkannt werden, ob die Weiterentwicklung sinnvoll ist. Wird das Produkt von den Kunden nicht akzeptiert, so kann frühzeitig ein [Projektabbruch](Projektabbruch.md) eingeleitet werden, um Verluste zu minimieren.[^4]
 
 
-*Abbildung*
-
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
 
 | First Header  | Second Header |
 | ------------- | ------------- |
@@ -69,10 +63,6 @@ So kann man eine Tabelle erstellen:
 * [Projektstart](Projektstart.md)
 
 * [Methoden](Methoden.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 [^1]: [Definition of 'Minimum Viable Product' (theeconomictimes)](https://economictimes.indiatimes.com/definition/minimum-viable-product)
