@@ -5,12 +5,10 @@ author: ebressel
 anrechnung: k 
 ---
 
-`Tuckmann Ladder`
 
 Neue Teams leiden häufig unter Wachstumsschmerzen - die Mitglieder eines Teams können nicht effizient zusammenarbeiten, wenn sie keine Zeit haben, sich gegenseitig
 kennenzulernen. Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie Teams in verschiedenen Bereichen die gleichen Phasen der
 Gruppenentwicklung durchlaufen. Wenn Sie diese fünf Phasen der Teamentwicklung kennen, können Sie erfolgreiche Teams bilden, die ihr volles Potenzial ausschöpfen.
-
 
 
 # Das Tuckman-Modell der Gruppenentwicklung
@@ -18,15 +16,15 @@ Gruppenentwicklung durchlaufen. Wenn Sie diese fünf Phasen der Teamentwicklung 
 
 
 Der Psychologe Bruce Tuckman entwickelte 1965 sein Gruppenentwicklungsmodell, um zu erklären, wie gesunde Teams mit der Zeit zusammenwachsen. In Tuckmans Modell werden fünf
-Phasen unterschieden, die Gruppen durchlaufen: Forming, Storming, Norming, Performing und Adjourning. Jede der fünf Phasen der Teamentwicklung stellt eine Stufe auf der Leiter
-der Teamentwicklung dar[^1]. Während die Gruppenmitglieder die Leiter erklimmen, verwandeln sie sich von einer zufälligen Ansammlung von Fremden in ein leistungsstarkes Team,
-das auf ein gemeinsames Ziel hinarbeiten kann. Im Folgenden werden die fünf Stufen der Gruppenentwicklung von Tuckman im Detail erläutert:
+Phasen unterschieden, die Gruppen durchlaufen: Forming, Storming, Norming, Performing und Adjourning (siehe Abbildung 1). Jede der fünf Phasen der Teamentwicklung stellt eine
+Stufe auf der Leiter der Teamentwicklung dar[^1]. Während die Gruppenmitglieder die Leiter erklimmen, verwandeln sie sich von einer zufälligen Ansammlung von Fremden in ein
+leistungsstarkes Team, das auf ein gemeinsames Ziel hinarbeiten kann. Im Folgenden werden die fünf Stufen der Gruppenentwicklung von Tuckman im Detail erläutert:
 
 [^2].
 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle)
 
-![Stages_Tuckman_Model](https://user-images.githubusercontent.com/92668932/143059132-939a20c6-5c41-4331-ad74-fcde281a048f.png)
+![Stages_Tuckman_model](https://user-images.githubusercontent.com/92668932/143244002-85eb062a-88a5-4d62-a6bd-6aa6eec4b78a.png)
 
 
 ## Forming: die Orientierungsphase
@@ -78,11 +76,11 @@ Die fünfte Phase geht davon aus, dass Projektteams nur für einen bestimmten Ze
 Nicht selten wird diese Phase manchmal auch als "Trauerphase" bezeichnet, da die Teammitglieder häufig ein Gefühl des Verlustes empfinden, wenn die Gruppe aufgelöst wird.
 
 
-
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Tuckmann_Ladder.md)
+* Artikel: [Wie mit Teamcoaching ein Wir-Gefühl entsteht](https://www.business-wissen.de/artikel/teamarbeit-wie-mit-teamcoaching-ein-wir-gefuehl-entsteht/) 
+* Webseite: [Teambood](https://teamhood.com/)
+* Webseite: [Teamentwicklung_Lab](https://teamentwicklung-lab.de/)
 
 # Weiterführende Literatur
 
