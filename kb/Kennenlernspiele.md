@@ -7,7 +7,7 @@ anrechnung: k
 
 Kurzbeschreibung zu Kennenlernspiele um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Kennenlernspiele dienen dazu, ein Team, dessen Teilnehmer sind nicht bzw. kaum kennen und vor einer Kooperation stehen, in der ersten Phase des Projekts zu unterstützen.
+Kennenlernspiele dienen dazu, ein Team, dessen Teilnehmer sind nicht bzw. kaum kennen und vor einer Kooperation stehen, in der ersten Phase des Projekts zu unterstützen. Sie können sowohl in Präsenz, als auch online in abgewandelter Form eingesetzt werden.
 
 # Einsatz in Projekten
 
@@ -36,32 +36,33 @@ Je nach Kontext, Umfang und geplanter Dauer des Projekts, der Größe des Teams,
 
 Einige davon erfordern das Zusammenkommen vor Ort, während andere auch im Home Office durchführbar sind, siehe Tabelle.
 
-|               |    Vor Ort               |  Home Office             |
-| ------------- | ------------------------ | -------------------------|
-| Oberflächlich |- [link Fadennetz](#Fadennetz)               |- Alle, die…“             |
-|               |- Speed Meeting           |- Touch blue              | 
-|               |- Zip-Zap                 |- Two kinds               |
-|               |- Sales Pitch             |- Hashtags nutzen         |
-|Tiefergehend   |- Gerüchteküche           |- Schlüsselbund           |
-|               |- Value Activity          |- Gemeinsamkeiten finden  |
-|               |- Was gehört wem?         |- 10 things to do in life | 
-|               |- Namen malen             |                          |
+|               |  Vor Ort                         |  Home Office                     |
+| ------------- | -------------------------------- | ---------------------------------|
+| Oberflächlich |- [Fadennetz](#Fadennetz)         |- [Alle, die...](#Alle,_die_...) |
+|               |- Speed Meeting                   |- [Touch_blue](#Touch_blue)                      | 
+|               |- Zip-Zap                         |- Two kinds                       |
+|               |- Sales Pitch                     |- Hashtags nutzen                 |
+|Tiefergehend   |- [Gerüchteküche](#Gerüchteküche) |- [Schlüsselbund](#Schlüsselbund) |
+|               |- Value Activity                  |- Gemeinsamkeiten finden          |
+|               |- Was gehört wem?                 |- 10 things to do in life         | 
+|               |- Namen malen                     |                                  |
                
 ## Kennenlernspiele vor Ort
 
-Kennenlernspiele, bei denen alle Teilnehmer vor Ort sind, lasse  
+Kennenlernspiele vor Ort lassen sich sowohl unter Zuhilfenahme von Hilfsmitteln, als auch ohne diese organisieren.  
 
-Beim Spiel *Fadennetz* bilden die Teilnehmer sitzend einen Kreis. Das Ende des Fadens haltend, wirft der Spielleiter einen Wollknäuel einer Person zu, welche etwas über sich erzählt, den Faden um eine Hand legt und den Knäuel weiterwirft. Im Spielverlauf bildet sich ein Netz aus dem Faden und jeder Teilnehmer stellt sich kurz vor, sodass ein oberflächliches Kennenlernen erfolgt[^6].
+Beim Spiel *Fadennetz*<a name="Fadennetz"></a> bilden die Teilnehmer sitzend einen Kreis. Das Ende des Fadens haltend, wirft der Spielleiter einen Wollknäuel einer Person zu, welche etwas über sich erzählt, den Faden um eine Hand legt und den Knäuel weiterwirft. Im Spielverlauf bildet sich ein Netz aus dem Faden und jeder Teilnehmer stellt sich kurz vor, sodass ein oberflächliches Kennenlernen erfolgt[^6].
 
-Einen tiefergehenden Austausch ermöglicht das Spiel *Gerüchteküche*. Dabei erzählt jeder Teilnehmer einem Mitspieler eine kleine Geschichte über sich, woraufhin dieser sie dem nächsten Partner wiedergibt. Dadurch sind alle Beteiligten gefordert gut zuzuhören und es entstehen Anknüpfpunkte für weitere Gespräche[^7].
+Einen tiefergehenden Austausch ermöglicht das Spiel <a name="Gerüchteküche"></a>*Gerüchteküche*. Dabei erzählt jeder Teilnehmer einem Mitspieler eine kleine Geschichte über sich, woraufhin dieser sie dem nächsten Partner wiedergibt. Dadurch sind alle Beteiligten gefordert gut zuzuhören und es entstehen Anknüpfpunkte für weitere Gespräche[^7].
 
 ## Kennenlernspiele im Home Office
 
 Die Covid-19-Pandemie hat in Deutschland zu einer signifikanten Verlagerung der Arbeit in das Home Office geführt.[^8] Virtuelle Kennenlernspiele haben das Potential, diesen Übergang für alle Beteiligten zu erleichtern.
 
-Bei „Alle, die…“ schalten die Mitspieler ihre Kameras ein, kleben sie mit einem farbigen Klebezettel ab und aktivieren die Gallerie-Ansicht. Der Moderator stellt Fragen, die mit „Alle, die …“ beginnen, z.B. „Alle, die heute schon sportlich waren.“ oder „Alle, die nicht ohne Kaffee können.“ Jene Teammitglieder, die sich dazu zählen, decken die Kamera ab. Schnell wird das Verschaffen eines ersten Eindrucks sowie die Identifikation von Gemeinsamkeiten, Unterschieden sowie dem Ausmaß an Diversität des Teams möglich[^9].
+<a name="Touch_blue"></a>*Touch_blue*
+Bei <a name="Alle,_die_..."></a>*Alle, die...* schalten die Mitspieler ihre Kameras ein, kleben sie mit einem farbigen Klebezettel ab und aktivieren die Gallerie-Ansicht. Der Moderator stellt Fragen, die mit „Alle, die …“ beginnen, z.B. „Alle, die heute schon sportlich waren.“ oder „Alle, die nicht ohne Kaffee können.“ Jene Teammitglieder, die sich dazu zählen, decken die Kamera ab. Das Verschaffen eines ersten Eindrucks sowie die Identifikation von Gemeinsamkeiten, Unterschieden sowie dem Ausmaß an Diversität des Teams wird möglich[^9].
 
-Das Spiel *Schlüsselbund* gibt den Teilnehmenden die Gelegenheit sich über ihre Wohnsituation, Freizeitgestaltung, Fortbewegung und weitere Aspekte ihres Alltags auszutauschen. Durch das Beschreiben der einzelnen Schlüssel kommen verschiedenste Informationen über deren Besitzer gebündelt zu Tage, sodass ein facettenreiches Kennenlernen der Teammitglieder gelingt. Alternativ kann das Spiel mit sonstigen persönlichen Gegenständen durchgeführt werden[^10].
+Das Spiel <a name="Schlüsselbund"></a>*Schlüsselbund* gibt den Teilnehmenden die Gelegenheit sich über ihre Wohnsituation, Freizeitgestaltung, Fortbewegung und weitere Aspekte ihres Alltags auszutauschen. Durch das Beschreiben der einzelnen Schlüssel kommen verschiedenste Informationen über deren Besitzer gebündelt zu Tage, sodass ein facettenreiches Kennenlernen der Teammitglieder gelingt. Alternativ kann das Spiel mit sonstigen persönlichen Gegenständen durchgeführt werden[^10].
 
 # Siehe auch
 
