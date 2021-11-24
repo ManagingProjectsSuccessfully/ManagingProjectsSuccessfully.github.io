@@ -77,9 +77,10 @@ Alle Ebenen müssen Ihre Ziele kontinuierlich miteinander abstimmen. [^1]
 
 
 Fragen an Reviewer/Lehrstuhl (Beitrag hat schon über 500 Wörter): 
-1. Bedeutung Software hinzufügen ? 
-2. Abgrenzung zu Lean Projektmanagement aufführen ? 
-3. Nennung und Verlinkung von Scaled Agile Framework (SAFe) ? 
+1. Der Abstand über und unter dem Diagramm liegt am weißen Hintergrund des Bildes, bin für Ideen für eine bessere Einbettung dankbar 
+2. Bedeutung Software hinzufügen ? 
+3. Abgrenzung zu Lean Projektmanagement aufführen ? 
+4. Nennung und Verlinkung von Scaled Agile Framework (SAFe) ? 
 
 ## Quellen
 
