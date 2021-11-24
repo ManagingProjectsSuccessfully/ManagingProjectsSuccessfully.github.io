@@ -38,7 +38,7 @@ Erfolgreiche Wissensmanagementsoftware kann leicht in bestehende Unternehmensstr
 Aufgrund des riesigen Angebots an Wissensmanagementsoftware und deren unterschiedlichen Ansätze, möchte ich mich im Folgenden auf eine bestimmte 
 Software des Unternehmens „Zehnplus GmbH“ konzentrieren. Zehnplus bietet mit ihrer Wisdom+ Wissensmanagementsoftware, eine Plattform 
 rund um das Thema Wissensmanagement. 
-Anhand von diesem Beispiel soll unter Betrachtung der folgenden Grafik, die Grundstruktur solcher WMS dargestellt werden.
+Anhand von diesem Beispiel soll unter Betrachtung der folgenden Grafik, die Grundstruktur solcher Wissensmanagementsoftware dargestellt werden.
 
 ![Wisdom+_Wissensmanagementsoftware](Wissensmanagementsoftware/Wisdom+_Wissensmanagementsoftware.png)
 
@@ -52,7 +52,7 @@ Die Produkte Digital Dashboard, Digital Communications, eLearning und Digital Wo
 und den Mitarbeitern intensivieren. Genauer gesagt, sollen die Produkte positiv zur Weiterbildung, Vernetzung und Motivation der Mitarbeiter beitragen. 
 Auf der anderen Seite stehen die Produkte eCommerce and Sales Support, Digital Customer Communication, Helpcenter with FAQ and Chat Bot und Multimedia User Guide. 
 Diese Produkte sollen die Plattform in den Bereichen Vertrieb, Kundensupport und Kundenbindung erweitern. Damit schließt sich der Kreis und wir können
-ein Prinzip erkennen, wie WMS ein Unternehmen im Bereich WM unterstützt.[^1] 
+ein Prinzip erkennen, wie Wissensmanagementsoftware ein Unternehmen im Bereich Wissensmanagement unterstützt.[^1] 
 
 
 
@@ -165,4 +165,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: [Knowledge Management](https://www.valamis.com/de/hub/wissensmanagement#knowledge-management-systems)
 [^4]: [Wirtschaftszitate Wissensmanagement](https://www.wirtschaftszitate.de/zitate/wissensmanagement/)
 [^5]: [Wissensmanagement-Software](https://www.wikide.wiki/wiki/en/Knowledge_management_software)
-
+[^6]: [Was ist Wissensmanagement-Software?](https://www.innolytics.de/was-ist-wissensmanagement-software/)
