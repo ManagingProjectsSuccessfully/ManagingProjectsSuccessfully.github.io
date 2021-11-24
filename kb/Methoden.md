@@ -21,8 +21,6 @@ Im klassischen oder auch traditionellen Projektmanagement werden Aktivitäten un
 
 
 
-
-
 # Methoden des agilen Projektmanagements
 
 Mit Hilfe von agilem Projektmanamement ist es möglich, sich laufend an verändernde Umstände anzupassen und somit flexibel zu sein und schnell auf bestimmte Situationen zu reagieren.[^10] Gerade die Anpassungsfähigkeit dieser Art des Projektmanagements macht es in der modernen Zeit zu einem sehr beliebtem Instrument.[^7] Dabei ist diese Bezeichnung jedoch eher ein Oberbegriff für die Anwendung verschiedener agiler Vorgehensweisen und Methoden.[^10]
@@ -30,9 +28,10 @@ Mit Hilfe von agilem Projektmanamement ist es möglich, sich laufend an verände
 
 
 
-
 # Allgemein nutzbare Methoden
-Oft genutzte Methoden sind [Stakeholderanalyse](Stakeholderanalyse.md), [Risikoanalyse](Risikoanalyse_und_Visualisierung.md), [Business Case](Business_Cases.md), ABC-Analyse, Plan-Ist-Vergleich, [Project Canvas](Project_Canvas.md) und die Kommunikationsmatrix.[^7]
+
+Sowohl in klassischem als auch in agilem Projektmanagement oder deren Mischform, dem hybriden Projektmanagement, lassen sich übergreifende Methoden finden, die unabhängig von der Projektart angwendet werden können. In jedem Projekt müssen Risiken und entsprechende Gegenmaßnahmen erarbeitet, Stakeholder analysiert und die Wirtschaftlichkeit des Vorgehens geprüft werden.[^7]
+Oft genutzte Methoden sind hierbei [Stakeholderanalyse](Stakeholderanalyse.md), [Risikoanalyse](Risikoanalyse_und_Visualisierung.md), [Business Case](Business_Cases.md), ABC-Analyse, Plan-Ist-Vergleich, [Project Canvas](Project_Canvas.md) und die Kommunikationsmatrix.[^7]
 
  
 ## Softskill-Management in Projekten
