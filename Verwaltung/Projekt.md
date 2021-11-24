@@ -72,35 +72,20 @@ Zur Risikominimierung wird ein Projekt idealerweise in die fünf Phasen Vorberei
 | Ideen beschreiben            | Projektziele bestimmen         | Projektphasen     | Arbeitsfortschritt prüfen | Projektabnahme     |
 | Projektcharakter definieren  | Risiken identifizieren         | Arbeitspakete     | Termine/Kosten prüfen     | Abschlussmeeting   |
 | Projektumfeld analysieren    | Wirtschaftlichkeit analysieren | Aufgaben          | Qualität prüfen           | Rollout            |
-| Projektmachbarkeit prüfen    | Projektteam zusammenstellen    | Liefergegenstände | Berichte erstellen        | Abweichungsanalyse |           
-  
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+| Projektmachbarkeit prüfen    | Projektteam zusammenstellen    | Liefergegenstände | Berichte erstellen        | Abweichungsanalyse |     
 
-So kann man eine Tabelle erstellen:
+# Die Einflüsse auf den Projektstart
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Um die Einflüsse auf den Projektstart klarzustellen wird unter anderem eine Umfeldanalyse durchgeführt. Wie der Name schon sagt wird der Umnfeld eines Projekts analysiert, also alle Rahmenbedingungen, Einflüsse und äußere Faktoren gesammelt, welche auf das Projekt wirken können. Die Umfeldanalyse wird durchgeführt, um bereits bestehende Anforderungen zu ermitteln, eventuelle Probleme zu erkennen, Schnittstellen nach außen zu identifizieren, die Stakeholderanalyse oder die Risikoanalyse vorzubereiten.
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Hierbei gibt es verschiedene Kriterien:
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+* Soziale Umweltfaktoren: Personen/Personengruppen, die das Projekt beeinflussen können. Diese werden gesammelt, um sie anschließend in der Stakeholderanalyse näher zu beleuchten. (Z.b. Betriebsrat, Bauamt, Mitarbeiter des Projektteams, Anwohner beim Bau der neuen Abwasseranlage)
+* Sachliche Umweltfaktoren: Fakten oder Themen, die auf das Projekt wirken. (Z.b. Datenschutzrichtlinien, veraltete Technik, zu wenig Knowhow, vorliegendes Lastenheft, Trend zu mehr Nachhaltigkeit)
+* Interne Faktoren: Faktoren innerhalb des Porjekts/ des Unternehmens (Z.b. bestehende Anforderungen an das Projekt)
+* Externe Faktoren: Faktoren außerhalb des Projekts/des Unternehmens (Z.b. gesetzliche, geografische und klimatische Faktoren)
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+![BEISPIELABBILDUNG](https://projekte-leicht-gemacht.de/wp-content/uploads/2015/05/umfeldanalyse.jpg)
 
 # Siehe auch
 
