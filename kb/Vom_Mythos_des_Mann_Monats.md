@@ -6,12 +6,12 @@ anrechnung: k
 ---
 
 
-*Vom Mythos des Mann-Monats* ist ein Essay des amerikanischen Informatikers Fred Brooks aus dem gleichnamigen Buch *The Mythical Man-Month: Essays on Software Engineering* (deutsch: Vom Mythos des Mann-Monats: Essays über Software-Engineering). In seinen Essays befasst er sich mit seinen Eindrücken und Erfahrungen in Bezug auf Software-Engineering und [Projektmanagement](Projektmanagement.md), die er als ehemaliger Leiter des Projekts [OS/360](https://de.wikipedia.org/wiki/OS/360) bei [IBM](https://de.wikipedia.org/wiki/IBM) gesammelt hat, und den daraus geschlossenen Erkenntnissen. Aus diesen leitete Brooks das [Brook'sche Gesetz](https://de.wikipedia.org/wiki/Anti-Pattern#Brooks.E2.80.99sches_Gesetz) ab, wonach der Einsatz zusätzlicher Arbeitskräfte bei bereits verzögerten Software-Projekten diese nur noch mehr verzögert[^1].
+*Vom Mythos des Mann-Monats* ist ein Essay des amerikanischen Informatikers Fred Brooks aus dem gleichnamigen Buch *The Mythical Man-Month: Essays on Software Engineering* (deutsch: Vom Mythos des Mann-Monats: Essays über Software-Engineering). In seinen Essays befasst er sich mit seinen Eindrücken und Erfahrungen in Bezug auf Software-Engineering und [Projektmanagement](Projektmanagement.md), die er als ehemaliger Leiter eines Projekts bei [IBM](https://de.wikipedia.org/wiki/IBM) gesammelt hat, und den daraus geschlossenen Erkenntnissen. Aus diesen leitete Brooks das [Brook'sche Gesetz](https://de.wikipedia.org/wiki/Anti-Pattern#Brooks.E2.80.99sches_Gesetz) ab, wonach der Einsatz zusätzlicher Arbeitskräfte bei bereits verzögerten Software-Projekten diese nur noch mehr verzögert[^1].
 
 
 
 # Der Mythos Mann-Monat
-Zeitnot stellt die häufigste Ursache für das Scheitern von Software-Projekten dar und entsteht laut Brooks aus folgenden Gründen:[^1]
+Software-Projekte scheitern laut Brooks am häufigsten an Zeitnot, die auf der Annahme eines Mythos basiert. Gründe hierfür sind:[^1]
 * Optimismus
 * Der Mann-Monat
 * System-Prüfung
@@ -19,7 +19,7 @@ Zeitnot stellt die häufigste Ursache für das Scheitern von Software-Projekten 
 * Rückkopplung
 
 ## Optimismus
-Einer der Gründe für das Entstehen von Zeitnot ist laut Brooks die bei allen Programmierern verankerte Denkweise, alles werde schon gutgehen. Aus der Annahme eines reinen Gedankengebäudes mit Konzepten und deren formbarer Repräsentation schlussfolgern Programmierer eine problemlose Umsetzung ihrer Gedanken. Sie verkennen, dass auch ihre Ideen durchaus mangelhaft sein können, wodurch auch ihre Implementierung fehlerbehaftet ist. Durch diesen Irrtum gehen Programmierer daher übereilt davon aus, dass schon alles klappen wird. [^1] Dieser Optimismus führt regelmäßig dazu, dass der für die Umsetzung benötigte Zeitaufwand unterschätzt wird.[^2]
+Einer der Gründe für das Entstehen von Zeitnot ist laut Brooks die bei allen Programmierern verankerte Denkweise, alles werde schon gutgehen. Aufgrund ihrer eigenen Arbeitsweise nehmen sie an, dass die Repräsentation ihrer gedanklichen Konzepte frei formbar und flexibel ist und daher die Umsetzung ihrer Vorstellungen problemlos erfolgt. Sie verkennen, dass auch ihre Ideen mangelhaft sein können, wodurch auch ihre Implementierung fehlerbehaftet ist.[^1] Durch diesen Optimismus hinsichtlich der Umsetzung wird der für die Umsetzung benötigte Zeitaufwand regelmäßig unterschätzt.[^2]
 
 ## Der Mann-Monat
 Weitere Ursache für den Zeitverzug ist der Mann-Monat als Schätzeinheit. Der Mann-Monat ist eine Einheit, die als Maßstab von Schätzungen und Zeitvorgaben zugrunde gelegt wird. Der Mann-Monat stellt eine Maßeinheit für die Menge an Arbeit, die eine Person durchschnittlich in einem Monat schafft, dar und ist somit das Produkt von Zeit und Personal.[^3] 
