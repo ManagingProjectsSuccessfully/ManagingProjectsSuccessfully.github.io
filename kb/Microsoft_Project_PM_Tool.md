@@ -28,11 +28,13 @@ Bevor die Einarbeitung mit dem Programm startet, wäre es nach Herrn Schwab sinn
 * wie lange dauern sie an, 
 * welche Abhängigkeiten existieren 
 * und welche Ressourcen sind von Nöten.
+
 Diese Fragestellungen oder Überlegungen zur Strukturierung des Projekts, können in Projects unter:
 * Vorgänge, 
 * Dauer, 
 * Vorgänger / Nachfolger 
-* sowie Ressourcen 
+* sowie Ressourcen
+ 
 angewendet werden (siehe Abbildung).
 Es gibt viele unterschiedliche Anzeigemöglichkeiten für die Gliederung eines Projekts. Die hier beschriebene Ansicht, bezieht sich auf die Gantt Chart, welche in Kombination mit einer Tabelle angezeigt wird.
 Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines Projektsteuerers. Alle Bereiche können durch regelmäßiges Fortschreiben aktualisiert und korrigiert werden. 
