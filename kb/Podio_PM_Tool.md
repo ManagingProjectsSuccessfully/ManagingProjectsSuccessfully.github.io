@@ -9,7 +9,7 @@ anrechnung: a
 
 # Geschichte
 
-Anfang 2009 gründeten Jon Froda, Anders Pollas, Kasper Hulthin und der Entwickler Andreas Haugstrup Polio. Anfänglich lief das Projekt unter dem Namen Hoist. Podio kommt aus dem Lateinischen und bedeutet Plattform und fasst damit die Idee der Firma kurz und griffig zusammen. Dass der Name leicht überall auf der Welt auszusprechen ist, war ein weiterer Grund für die Namensänderung [^3]. 
+Anfang 2009 gründeten Jon Froda, Anders Pollas, Kasper Hulthin und der Entwickler Andreas Haugstrup Podio. Anfänglich lief das Projekt unter dem Namen Hoist. Podio kommt aus dem Lateinischen und bedeutet Plattform und fasst damit die Idee der Firma kurz und griffig zusammen. Dass der Name leicht überall auf der Welt auszusprechen ist, war ein weiterer Grund für die Namensänderung [^3]. 
 
 Seit 2012 ist Podio Teil des US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3].
 
@@ -17,13 +17,13 @@ Seit 2012 ist Podio Teil des US-amerikanische Softwareunternehmen [Citrix-System
 
 ## Apps
 ### PodioApps
-Die Nutzer haben durch das cloudbasierte CRM-System die Möglichkeit eine Vielzahl von Apps ihrem Konto hinzuzufügen. Dafür existiert innerhalb von Polio ein App Market der     nach Funktion und Branche sortiert ist. Die Apps bieten die Möglichkeit Informationen zu organisieren, zu visualisieren und mit internen Mitarbeitenden oder externen Partein zu  teilen [^1]. Falls eine gewünschte Funktion einer App noch nicht auf dem Market bedient wird, haben Benutzer die Möglichkeit über ein Drag and Drop Interface eigene Apps zu erstellen. Dabei wurden bereits über eine Millionen Apps von Benutzern entwickelt [^4].
+Die Nutzer haben durch das cloudbasierte CRM-System die Möglichkeit eine Vielzahl von Apps ihrem Konto hinzuzufügen. Dafür existiert innerhalb von Podio ein App Market der     nach Funktion und Branche sortiert ist. Die Apps bieten die Möglichkeit Informationen zu organisieren, zu visualisieren und mit internen Mitarbeitenden oder externen Partein zu  teilen [^1]. Falls eine gewünschte Funktion einer App noch nicht auf dem Market bedient wird, haben Benutzer die Möglichkeit über ein Drag and Drop Interface eigene Apps zu erstellen. Dabei wurden bereits über eine Millionen Apps von Benutzern entwickelt [^4].
 ### Reporting
 Mit den Daten aus den Apps des Kunden können durch Filter und Report Optionen Salespipelines automatisiert und Projektbudgets verfolgt werden[^4].
 ### Workflows
 Apps können durch das Workflow-Feature mit einer Wenn-Dann-Funktion programmiert werden. So erstellt eine App beispielsweise eine Aufgabe sobald ein Eintrag erstellt wird [^4].
 ### Webformulare
-Von Podio gehoste Webformulare können in Websites integriert werden, wie beispielsweise eine Kontaktseite. Die Informationen gelangen direkt in die Polio Apps [^4]. 
+Von Podio gehoste Webformulare können in Websites integriert werden, wie beispielsweise eine Kontaktseite. Die Informationen gelangen direkt in die Podio Apps [^4]. 
 ### Podio Share
 Durch Podio Share können Appeinträge, wie beispielsweise ein [Projekt](Projekt.md) aus einer Projekt App, intern und extern geteilt werden [^4].
 
@@ -35,13 +35,13 @@ Im Mitarbeiternetzwerk von Podio werden alle Mitarbeitenden einer Organisation i
 ## Kommunikation & Online Meeting
 Zu jedem Workspace gibt es einen Aktivitätsverlauf. Dieser zeigt Aktivitäten aus den Apps und Statusnachrichten der Mitglieder des Workspaces auf. Per Statusnachrichten können Fragen und Probleme gestellt werden. Dabei können Bilder, Dateien und Links hinzugefügt werden. Die Statusnachrichten können von anderen Mitgliedern kommentiert und geliked werden. Durch den Podio Chat können Mitarbeitende sich ebenfalls untereinander austauschen per Nachricht und Videotelefonie [^4][^5].
 
-Die GoToMeeting App von Polio ermöglicht Besprechungen [^4].
+Die GoToMeeting App von Podio ermöglicht Besprechungen [^4].
 
 ## Aufgaben Datein & Kalenderfunktionen
 ### Aufgaben-Managment
 Auf einer [Aufgabenliste](Aufgabenteilung.md) sieht der Benutzer alle Aufgaben für die er verantwortlich ist. Die Aufgaben können priorisiert und geteilt werden. Aufgaben, die regelmäßig erledigt werden, können wiederkehrend eingestellt werden [^4]. 
 ### File sharing
-Datein können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Einen eigenen Filesharing Dienst hat Polio nicht. Dateispeicher die mit Podio verknüpft werden können sind[^4]:
+Datein können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Einen eigenen Filesharing Dienst hat Podio nicht. Dateispeicher die mit Podio verknüpft werden können sind[^4]:
 * Google Drive
 * Dropbox
 * ShareFile
@@ -49,7 +49,7 @@ Datein können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Ein
 * HighTail
 * One Drive
 ### Kalender Management
-Polio stellt den Nutzern einen Kalender bereit. Hier können Termine und Deadlines eingetragen werden. Neben dem persönlichen Kalender hat auch jeder Workspace seinen eigenen Kalender. Die Kalender können in einen externen Kalenderservice ebenfalls exportiert werden [^1][^4].
+Podio stellt den Nutzern einen Kalender bereit. Hier können Termine und Deadlines eingetragen werden. Neben dem persönlichen Kalender hat auch jeder Workspace seinen eigenen Kalender. Die Kalender können in einen externen Kalenderservice ebenfalls exportiert werden [^1][^4].
 
 ## Integration
 Neben den bereits erwähnten Filesharing Diensten können ebenfalls Zendesk, Campaign Monitor, Evernote, FreshBooks und viele integriert werden. Des weiteren können Excel-Tabellen in Apps importiert werden und Tabellen aus Apps in Excel-Tabellen exportiert werden [^4].
