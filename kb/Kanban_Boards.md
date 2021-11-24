@@ -60,8 +60,19 @@ werden.
 
 ## So benutzt man ein Kanban Board
 
-## Der Aufbau eines Klassischen Kanban Boards
+## Was packen wir auf das Kanban Board?
 
+Je nach Prozess kann das Board unterschiedlich aufgebaut werden.
+
+### Schritt 1: flughöhe bestimmen
+
+* level 1: operative Ebene Bsp: alltägliche To Do's und individuellen Aufgaben
+* level 2: Koordination : Verteilung der arbeitselemente im gesamten TEam
+* level 3: strategischer Überblick: Statusabbildung ganzer Projekte 
+
+### Schritt 2: befüllen des Boards
+
+Das Kanban Board wird mit allesn Aufgaben befüllt, an denen man mit dem team gearde arbeitet
 Im KLassischen Modell gibt es 3 Spalten:
 
 * zu erledigen TO DO 
@@ -76,25 +87,12 @@ In arbeit: hier finden sich alle Aufgaben wieder, die derzeit bearbeitet werden
 
 Erledigt: Aufgaben, die fertig gestellt wurden
 
-## Was packen wir auf das Kanban Board?
 
-Je nach Prozess kann das Board unterschiedlich aufgebaut werden.
-
-## Schritt 1: flughöhe bestimmen
-
-* level 1: operative Ebene Bsp: alltägliche To Do's und individuellen Aufgaben
-* level 2: Koordination : Verteilung der arbeitselemente im gesamten TEam
-* level 3: strategischer Überblick: Statusabbildung ganzer Projekte 
-
-## Schritt 2: befüllen des Boards
-
-Das Kanban Board wird mit allesn Aufgaben befüllt, an denen man mit dem team gearde arbeitet
-
-## Schritt 3: Status der Aufgaben sichtbar machen
+### Schritt 3: Status der Aufgaben sichtbar machen
 
 Durch bewegen der Karten von TO DO zu IN PROGRESS wird der aktuelle status, dass diese aufgabe in arbeit ist für alle Sichtbar. Ist etwas fertig, wandeert diese Karte zu DONE und es wird direkt veranschaulicht, dass diese Karte zuende ist. Die Karten wandern über die zeit immer von links nacht rechts und bilden somit den aktuellen status der aufgaben ab.
 
-## Schritt 4: erweitern
+### Schritt 4: erweitern
 
 Durch das einfache design des boards kann es schnell unübersichtlich werden, deshalb muss man es erweitern und an die individuellen Prozessschritte anpassen
 
