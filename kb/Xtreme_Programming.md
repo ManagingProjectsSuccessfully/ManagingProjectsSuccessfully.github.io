@@ -29,7 +29,7 @@ Der <b> Kunde </b> ist der Auftraggeber und äußert Wünsche, die von Productow
 Innerhalb des Entwicklerteams gibt es keine Rollentrennung. Jeder Mitarbeiter wird unabhängig von seinen Fähigkeiten als <b> Entwickler </b> bezeichnet.
 Diese sind für die Produktentwicklung zuständig. [^7]
 
-Ein großen Teil der Tests innerhalb der Softwareentwicklung übernehmen die Entwickler. Zusätzlich gibt es noch die Rolle des <b> Testers </b>. 
+Ein großen Teil der Tests innerhalb der Softwareentwicklung übernehmen die Entwickler. Zusätzlich gibt es noch die Rolle des <b> Testers</b>. 
 Dieser ist sehr fokussiert auf den Kunden und soll dabei helfen funktionale Tests zu schreiben, diese regelmäßig durchzuführen und die Ergebnisse offenzulegen. [^8]
 
 Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler. [^9]
@@ -38,9 +38,9 @@ Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organis
 ## Werte
  
 Die <b> Kommunikation </b> zwischen allen Rollen ist extrem wichtig, um Probleme direkt adressieren zu können. 
-So können Missstände direkt behoben werden und permanenter Austausch führt zu gleichem Wissensstand der Entwickler. [^10]
+So können Missstände direkt behoben werden und ein permanenter Austausch führt zu gleichem Wissensstand der Entwickler. [^10]
 
-Ein wichtiger Wert der Methode XP ist die <b> Einfachheit </b> . Es wird nach der einfachsten Lösung gestrebt und die Entwickler halten sich so nicht mit Unwichtigem auf. 
+Ein wichtiger Wert der Methode XP ist die <b> Einfachheit </b>. Es wird nach der einfachsten Lösung gestrebt und die Entwickler halten sich so nicht mit Unwichtigem auf. 
 Es werden möglichst nur die im Moment benötigten Features entwickelt und nicht für zukünftige Anforderungen vorgearbeitet. [^11]
 
 Bei dem Punkt <b> Feedback </b> geht es nicht nur um die Kritik des Kunden, sondern auch um Meldungen des Systems (Logs). Das Team arbeitet in kleinen Zyklen, testet häufig und kann so Änderungen und Fehlerbehebungen kurzfristig vornehmen. [^12]
@@ -52,16 +52,16 @@ Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Änd
 
 Die Methode kann in der Umsetzung schwierig sein, da das gesamte Team gemeinsam an der aktuellen Aufgabe arbeitet. 
 Diese sollte möglichst einfach gehalten werden und nicht zu kompliziert gestaltet werden.
-Dies erfordert kontinuierliche Kommunikation, hochwertige Arbeit und wenn nötig das Annehmen von Veränderungen. [^14]
+Kontinuierliche Kommunikation, hochwertige Arbeit und wenn nötig das Annehmen von Veränderungen, sind dafür erforderlich. [^14]
 
 Wenn das Team jedoch das Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken anwendet, gibt es viele Vorteile.
 
-Durch das inkrementelle Vorgehen kann das Produkt genau nach Kundenwünschen entwickelt werden und Kosten schnell wieder hereinholen, 
+Durch das inkrementelle Vorgehen kann das Produkt genau nach Kundenwünschen entwickelt werden und Kosten schnell wieder amortisiert, 
 da beispielsweise eine Software zu einem frühen Zeitpunkt produktiv gehen kann.
-Der Code ist durch testgetriebene Entwicklung stets änderbar und erweiterbar und wird in sehr hoher Qualität erstellt. 
-Die Entwickler werden von den Erfolgserlebnissen, wenn eine neue Version ausgeliefert werden kann, motiviert und können sich mit dem Code identifizieren. [^15]
+Der Code ist durch testgetriebene Entwicklung stets änderbar, erweiterbar und wird in sehr hoher Qualität erstellt. 
+Entwickler werden von den Erfolgserlebnissen, wenn eine neue Version ausgeliefert werden kann, motiviert und können sich mit dem Code identifizieren. [^15]
 
-Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeinsamen Verständnis an der aktuellen Aufgabe zusammenarbeitet und das Framework beachtet ist die Methode sehr effizient und erfolgsbringend.
+Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeinsamen Verständnis an der aktuellen Aufgabe zusammenarbeitet und das Framework beachtet ist die Methode sehr effizient und Erfolg bringend.
 
 ## Siehe auch
 
