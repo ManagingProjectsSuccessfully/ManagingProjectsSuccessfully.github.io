@@ -84,12 +84,8 @@ Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Team
 * [Daily](Daily_Scrum.md) 
 * [Retrospective](Retrospective.md)
 * [Product Owner](Product_Owner.md)
-* [Scrum Maszer]
+* [Scrum Master](User ist nicht mehr in der MPS Gruppe)
 * [Scrum](Scrum.md) 
-* 
-* 
-* 
-* 
 
 # Weiterführende Literatur
 
