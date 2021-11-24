@@ -1,6 +1,6 @@
 ---
 title: Impediment_Backlog
-tags: agil impediment scrum backlog sprint scrum master
+tags: agil agile impediment scrum backlog sprint scrum master
 author: patrick203494
 anrechnung: a
 ---
@@ -13,34 +13,34 @@ Das **Impediment Backlog** wird zumeist zur Visualisierung und Priorisierung von
 # Beispiele für Impediments
 
 Impediments sind (mehr oder weniger deutlich erkennbar) in nahezu jedem Scrum - Projekt vorhanden,
-wie zum Beispiel: [^2]
+wie zum Beispiel:
 * Zu hohe Temperaturen im Büro
 * Zu wenig Arbeitsplätze für das komplette Team
 * Störungen in der Zusammenarbeit oder Kommunikation
 * Ablenkung durch andere Aufgaben außerhalb des Projekts
 * Druck von außen durch Management 
 * Persönliche Konflikte zwischen Projektmitarbeitern
-* Mangel an Wissen, Fähigkeiten, Ressourcen
+* Mangel an Wissen, Fähigkeiten, Ressourcen[^2]
 
 # Darstellung im Impediment Backlog
 
 Der Impediment Backlog stellt das Verzeichnis dar, in dem bestehende Einschränkungen aufgelistet und priorisiert werden. Es gibt keine vorgeschriebene Form für den Aufbau des Backlogs. Wichtig ist lediglich, dass alle Hindernisse erfasst werden, egal wie groß oder wie wichtig. Ansonsten lässt sich die Liste jedoch frei nach den Vorstellungen des Projektteams aufbauen.[^2]
 
-Neben einer kurzen Beschreibung des Impediments sollten im Backlog noch folgende Daten enthalten sein[^3]: 
+Neben einer kurzen Beschreibung des Impediments sollten im Backlog noch folgende Daten enthalten sein: 
 
 * Betroffene Personen
 * Bisherige Dauer der Störung
-* Mögliche Ansprechpartner (zur Lösungsfindung)
+* Mögliche Ansprechpartner (zur Lösungsfindung)[^3]
 
 Impediment Backlogs können in unterschiedlichsten Darstellungen geführt werden, beispielsweise als Excel-Tabellen, als Einträge in [Projektmanagement - Tools](Uebersicht_PM_Tools.md) oder als Post-Its an einem Whiteboard. [^1][^4]
 
 
 ![Impediment Backlog in Form eines Kanban - Boards](Impediment_Backlog/Kanbanboard.jpg)                                                    
-*Impediment Backlog in Form eines [Kanban - Boards](Kanban_Boards.md)*  [^3]
+*Abbildung 1: Impediment Backlog in Form eines [Kanban - Boards](Kanban_Boards.md)*  [^3]
 
 
 ![Impediment Backlog in Form einer Excel - Tabelle](Impediment_Backlog/b2ap3_large_Tabelle_Impedimen_20200805-060323_1.JPG)
-*Impediment Backlog in Form einer Excel - Tabelle*  [^5]
+*Abbildung 2: Impediment Backlog in Form einer Excel - Tabelle*  [^5]
 
 
 # Verantwortlichkeit für Impediments im Scrum-Prozess
@@ -89,7 +89,7 @@ Oft wird das Impediments Backlog unterschätzt, dabei gehört es als zentrales I
 # Weiterführende Literatur
 
 * [The Impediment List and What We Can Do About It](https://www.youtube.com/watch?v=R2LhL6RkUh)
-* [Schwaber, Sutherland. (2020). Der Scrum Guide. Der gültige Leitfaden für Scrum: Die Spielregeln](https://www.itsmgroup.com/fileadmin/user_upload/pdfs/2020-Scrum-Guide-German.pdf)
+* [Schwaber K. & Sutherland,J. (2020). Der Scrum Guide. Der gültige Leitfaden für Scrum: Die Spielregeln](https://www.itsmgroup.com/fileadmin/user_upload/pdfs/2020-Scrum-Guide-German.pdf)
 
 # Quellen
 
