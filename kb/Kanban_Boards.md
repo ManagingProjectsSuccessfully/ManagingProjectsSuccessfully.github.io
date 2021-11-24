@@ -20,7 +20,6 @@ Ab 1970 wird diese steuerungsmethode auch in den USA und Deutschland verwendet.
 schneller und effizienter zu machen. Kanban dient als HIlfestellung zur visualisierung des arbeitsflusses und 
 
 
-
 # Was ist ein Kanban Board ?
 
 Das Kanban Board ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus gibt und die Kommunikation 
@@ -42,6 +41,7 @@ Sie unterscheiden sich in ihrer struktur durch ihre zunehmenden Spalten und Reih
 *
 
 BILDER
+# Wozu braucht man ein Task Board?
 
 # Wie fuktioniert ein Kanban Board
 
@@ -60,21 +60,54 @@ werden.
 
 ## So benutzt man ein Kanban Board
 
-## Der aufbau eines Klassischen kanban Boards
+## Der Aufbau eines Klassischen Kanban Boards
 
-Im KLassischen Medell gibt es 3 SPalten:
+Im KLassischen Modell gibt es 3 Spalten:
 
-*zu erledigen
-*in Arbeit
-*erledigt
+* zu erledigen TO DO 
+* in Arbeit    IN PROGRESS
+* erledigt     DONE
 
 bIld
 
 Zu erledigen: in diese Spalte wird eingetragen, welche Aufgaben noch nicht begonnen wurden
-in arbeit: hier finden sich alle Aufgaben wieder, die derzeit bearbeitet werden
-erledigt: Aufgaben, die fertig gestellt wurden
 
+In arbeit: hier finden sich alle Aufgaben wieder, die derzeit bearbeitet werden
 
+Erledigt: Aufgaben, die fertig gestellt wurden
+
+## Was packen wir auf das Kanban Board?
+
+Je nach Prozess kann das Board unterschiedlich aufgebaut werden.
+
+## Schritt 1: flughöhe bestimmen
+
+* level 1: operative Ebene Bsp: alltägliche To Do's und individuellen Aufgaben
+* level 2: Koordination : Verteilung der arbeitselemente im gesamten TEam
+* level 3: strategischer Überblick: Statusabbildung ganzer Projekte 
+
+## Schritt 2: befüllen des Boards
+
+Das Kanban Board wird mit allesn Aufgaben befüllt, an denen man mit dem team gearde arbeitet
+
+## Schritt 3: Status der Aufgaben sichtbar machen
+
+Durch bewegen der Karten von TO DO zu IN PROGRESS wird der aktuelle status, dass diese aufgabe in arbeit ist für alle Sichtbar. Ist etwas fertig, wandeert diese Karte zu DONE und es wird direkt veranschaulicht, dass diese Karte zuende ist. Die Karten wandern über die zeit immer von links nacht rechts und bilden somit den aktuellen status der aufgaben ab.
+
+## Schritt 4: erweitern
+
+Durch das einfache design des boards kann es schnell unübersichtlich werden, deshalb muss man es erweitern und an die individuellen Prozessschritte anpassen
+
+* Einführen neuer Spalten, die den Arbeitsprozess im Team besser abbilden.
+    Bsp. statt in Progress: Konzept, umsetzung, Prüfung
+
+Man kann feststellen, dass nicht alle Aufgaben den gleichen Prozessschritten folgen, somit
+
+* Einfügen neuer Zeilen (swimlanes), können für unterschiedl. Perosnen oder unterschiedl. Projekte stehen
+
+* durch verschiedene symbole kann man zwischen wiederkehrenden und einmaligen aufgaben unterscheiden
+
+* Einfügen einer Fast Lane: wird verwendet für aufgaben mit besonderer Priorität, die schnell abgearbeitet werden müssen
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -120,9 +153,10 @@ Kanban Boards funktionieren
 
 *lustiges Testbild*
 
-# Hauptvorteile der verwendung von Kanbanboards
+# Hauptvorteile der Verwendung von Kanban Boards
 
-* das
+* Sichtbarkeit, erlciehterung zur erkennung von Problemen oder zeitfressern des workflows wie zum beispiel, abhängigkeit, oder engpässe um sich so effizienter zu koordinieren.
+* 
 * hier 
 * ist
 * eine 
