@@ -1,6 +1,6 @@
 ---
 title: Stakeholderanalyse
-tags: klassisch
+tags: stakeholder analyse projektmanagement projekterfolg
 author: DanielLu21
 anrechnung: k
 ---
