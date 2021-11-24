@@ -131,4 +131,4 @@ Team Kapazität -> https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_
 
 [^5]: [www.scrum-institute.org](https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams)
 
-[^6] [A](https://youtu.be/CZDNWTuR3i8)
+[^6]: [A](https://youtu.be/CZDNWTuR3i8)
