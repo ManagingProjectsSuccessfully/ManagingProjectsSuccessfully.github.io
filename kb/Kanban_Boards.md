@@ -100,7 +100,7 @@ mit den vorherigen 4 schritten ist das Taskboard erstellt und man kann schon jet
 
 # Prinzipien von Kanban auf das Kanban Board
 
-1. transparenz durch Visualisierung ( To Do, In Progress, Done )[https://www.personalkanban.com/pkandyou]durch 
+1. Visualisiere den Fluss der Arbeit ( To Do, In Progress, Done )[https://www.personalkanban.com/pkandyou]durch 
 
 karten auf einem board, Phasen durch spalten und um sichtbar zu machen wo der arbeitsfluss blockeirt ist ode rman auf die arbeit einer anderen person oder abteilung warten muss, kann man es durch eine markeirung sichtbar machen.
 wenn man merkt, dass das warten schon standartmäsig zu einem prozess gehört, kann man auch eine extra warten spalte einzubauen. vorteil, man bleibt beim lesen des borads bei deiser spalte hängen und 
@@ -108,7 +108,7 @@ wenn man merkt, dass das warten schon standartmäsig zu einem prozess gehört, k
 Prodktionsfortschritte können auf einem blick erfasst werden
 
 
-2. transparenz 
+2. Messen und Steuerung des Flusses
 Das Board hilft dabei, den fluss zu gut zu beobachten und verbesserungen zu identifizieren. Hilfreich, Boards imme r von rehcts nach links zu lesen, denn man fragt sich dabei automatisch, was es bracuht um den fluss der arbeit aufrecht zu erhalten, wie kann man blocker auflösen oder die arebeit voran bringen?
 es ist wertvoller dinge fertig zu stelen als neue dinge anzufangen.
 STOP STARTING, START FINISHING
@@ -190,7 +190,6 @@ Kanban
 * Punkteliste
   - mit unterpunkt
 
-# Wie ist ein Kanban Board aufgebaut
 
 So kann man eine Tabelle erstellen:
 
