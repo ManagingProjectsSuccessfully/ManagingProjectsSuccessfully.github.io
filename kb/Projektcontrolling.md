@@ -78,8 +78,8 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. 
 # Weiterführende Literatur
 
 * Basics
- * https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/projektcontrolling/
- * https://www.youtube.com/watch?v=2OTCNh0TzLw
+  * https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/projektcontrolling/
+  * https://www.youtube.com/watch?v=2OTCNh0TzLw
 * Deep Dive: 
   * https://www.youtube.com/watch?v=la1PUSoGBxk
 
