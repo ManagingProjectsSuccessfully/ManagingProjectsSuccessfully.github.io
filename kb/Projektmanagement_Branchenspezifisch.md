@@ -2,7 +2,7 @@
 title: Projektmanagement_Branchenspezifisch
 tags: agil klassisch
 author: enesmvlt
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Projektmanagement_Branchenspezifisch um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -10,7 +10,42 @@ Kurzbeschreibung zu Projektmanagement_Branchenspezifisch um ein erstes Verständ
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Projekt
+Ein Projekt beschreibt laut dem Project Management Institute (PMI) ein Vorhaben, welches zeitlich begrenzt ist und einen im Vorhinein definierten Anfang und ein Ende hat (teaml. Focus). Darüber hinaus beinhaltet auch jedes Projekt verschiedene Aufgaben in mehreren Teilbereichen, welche allerdings zur Erreichung eines gemeinsamen Ziels dienen. Das Deutsche Institut für Normung (DIN) definiert das zu erreichende Ziel als ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis.
+
+# Projektmanagement
+Das Projektmanagement besteht folglich insgesamt aus den folgenden Komponenten: 
+
+* Führungsaufgaben
+* Führungsorganisation
+* Führungsmittel
+* Führungstechniken
+
+Etwas abstrakter definiert das PMI das Projektmanagement als die „Anwendung von Wissen, Fähigkeiten, Methoden und Techniken auf die Vorgänge innerhalb eines Projekts“. (g.wlex.) Beim Anwenden dieser Komponenten wird das Projektziel stets vor Augen gehalten. An dieser Stelle ist zu erwähnen, dass das Projektmanagement darauf hinarbeitet, dass die geplanten Ziele in der jeweils erwarteten Qualität und innerhalb des geplanten Zeitziels erreicht werden. Gleichermaßen ist es einer der Nebenziele, hierbei die verfügbaren Mittel und Ressourcen möglichst effizient einzusetzen.
+
+# Projektmanagement in verschiedenen Branchen
+Die Branche, in der ein Projekt durchgeführt werden soll, ist ein relevanter Faktor bei der Wahl der jeweiligen Methode. Insbesondere bei angestrebten Softwarelösungen nimmt das branchenorientierte Projektmanagement immer mehr an Bedeutung zu (vdz). Jede Branche hat branchenspezifische Gegebenheiten und ebenso verschiedene Grade der Komplexität. Die damit verbundenen Besonderheiten aktiv in die Wahl der Vorgehensweise miteinzubeziehen, trägt maßgeblich dazu bei, eine genau passende Lösung zu entwickeln und umzusetzen. 
+
+# Branchenspezifische Charakteristika
+Jede Branche hat unterschiedliche Eigenschaften und Verhältnisse, und damit zusammenhängend branchenspezifische Rahmenbedingungen, die das Unternehmen bei seinem Projektmanagement beachten muss. Neben dem definierten Ziel und den untergeordneten Teilzielen des Projekts haben Branchen zusätzlich Einflussfaktoren wie: (evtl tabelle der grafik als bild)
+- Stakeholder
+- Risiken
+- Projektgröße
+- Ressourcen
+- Komplexität
+
+# Unternehmensumfeld
+Durch die stärkere Integration der oben genannten branchenspezifischen Faktoren in den Lösungsfindungsprozess ist es für Unternehmen leicht möglich, aus den Projekten des Unternehmensumfelds (vdz) zu profitieren. So werden beispielsweise die Erfahrungen von Projekten anderer Unternehmen der eigenen Branche, welche mit ähnlichen Gegebenheiten konfrontiert sind und ähnliche Rahmenbedingungen haben, auf die eigenen Projektaufgaben angepasst und übertragen.
+
+# Branchenspezifische Anforderungen (proagile)
+Jede Branche hat verschiedene Grade an Unsicherheit und Komplexität der Projekte. Im Vordergrund bei der Wahl der passenden Methode für das Projektmanagement steht vor allem die Frage, wie kompliziert oder wie komplex ein angestrebtes Projekt ist. (proagile) 
+
+![Die Zwei Arten von Projekten](Projektmanagement_Branchenspezifisch/Bildschirmfoto 2021-11-24 um 19.15.43.png)
+
+So ist bei einem komplizierten Projektvorhaben, welches von einem stabilen Umfeld umgeben ist, eher das klassische Projektmanagement anzuwenden. Bei komplexen Projekten mit dynamischem Umfeld ist das agile Projektmanagement besser geeignet. Bei komplizierten Projekten ist dann die Rede, wenn potenziell unbekannte Probleme in einem Projektprozess mit passenden Aneignungen gelöst werden können. (proagile) Des Weiteren ist bei komplizierten Projekten, wie bspw. in der Baubranche aufgrund des relativ stabilen Umfelds eine viel höhere Planbarkeit und Steuerbarkeit vorhanden. Bei komplexen Projekten wie bspw. in der IT-Branche, stellt das agile Projektmanagement sicher, dass sich der Projektplan laufend an die sich ändernden Faktoren und Anforderungskriterien anpassen kann und immer aktuell bleibt. Schließlich kann man die Aussage treffen, dass bei der Wahl der geeigneten Methode die branchenspezifischen Faktoren maßgeblich sind.
+
+
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
