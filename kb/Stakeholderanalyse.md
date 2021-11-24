@@ -8,13 +8,13 @@ anrechnung: k
 
 # Stakeholderanalyse
 
-Eine Stakeholderanalyse hat das Ziel die Interessensgruppen eines [Projekts](Projekt.md) und deren Einfluss auf Entscheidungen zu identifizieren. Hierbei werden die Stakeholder zueinander in Beziehung gesetzt und kategorisiert. Somit können Sie durch Strategien gezielt gesteuert und in eine gewollte Richtung gelenkt werden [^1][^2].
+Eine [Stakeholderanalyse](Stakeholderanalyse.md) hat das Ziel die Interessensgruppen eines [Projekts](Projekt.md) und deren Einfluss auf Entscheidungen zu identifizieren. Hierbei werden die Stakeholder zueinander in Beziehung gesetzt und kategorisiert. Somit können Sie durch Strategien gezielt gesteuert und in eine gewollte Richtung gelenkt werden [^1][^2].
 
 ## Hintergrund
 
-Der Begriff [Stakeholder](Stakeholder.md) beschreibt in diesem Sinne ein direktes Interesse an einem [Projekt](Projekt.md) von einzelnen Personen, Gruppen, Unternehmen oder Vereinigungen. Viele Stakeholder wollen bei den Verläufen von Projekten mitsprechen und so ihre Belange zu Ihrem Vorteil durchsetzen [^3].
+Der Begriff [Stakeholder](Stakeholder.md) beschreibt ein direktes Interesse an einem [Projekt](Projekt.md) von einzelnen Personen, Gruppen, Unternehmen oder Vereinigungen. Viele Stakeholder wollen bei den Verläufen von [Projekten](Projekt.md) eingebunden sein und so ihre Belange zu ihrem Vorteil durchsetzen [^3].
 
-[Stakeholder](Stakeholder.md) können in intern und extern gegliedert werden. Nachfolgend sind einige Beispiele von möglichen Stakeholdern aufgezählt [^4]:
+[Stakeholder](Stakeholder.md) können in interne und externe gegliedert werden. Nachfolgend sind einige Beispiele von möglichen Stakeholdern aufgezählt [^4]:
 
 * Konkurrenten
 *	Umweltverbände
@@ -26,25 +26,26 @@ Der Begriff [Stakeholder](Stakeholder.md) beschreibt in diesem Sinne ein direkte
 *	Investoren
 *	Kunden
 
-Die Notwendigkeit eines [Stakeholdermanagements](Stakeholdermanagement.md) ist essenziell. Ein ungeplantes Einschreiten bzw. ein nicht erwartetes Handeln von [Stakeholdern](Stakeholder.md) kann Projekte in zeit- und kostentechnischer gefährden, wenn nicht sogar zum Scheitern bringen. Daher ist es das oberste Ziel des [Stakeholdermanagements](Stakeholdermanagement.md), die [Stakeholder](Stakeholder.md) einzuschätzen, zu kontrollieren und eine Akzeptanz für das Projekt zu schaffen. Aus diesem Grund ist eine umfangreiche Analyse der Interessensgruppen und deren Einstellungen zu gewissen Themen unabdingbar. Dies geschieht anhand einer [Stakeholderanalyse](Stakeholderanalyse.md) [^5]. 
+Die Notwendigkeit eines [Stakeholdermanagements](Stakeholdermanagement.md) ist essenziell. Ein ungeplantes Einschreiten bzw. ein nicht erwartetes Handeln von [Stakeholdern](Stakeholder.md) kann Projekte in zeit- und kostentechnischer gefährden, wenn nicht sogar zum Scheitern bringen. Daher ist es das oberste Ziel des [Stakeholdermanagements](Stakeholdermanagement.md) die [Stakeholder](Stakeholder.md) zu identifizieren, einzuschätzen und durch geeignte Maßnahmen eine Akzeptanz für das Projekt zu schaffen. Aus diesem Grund ist eine umfangreiche Analyse der Interessensgruppen und deren Einstellungen zu den betroffenen Projektthemen unabdingbar. Dies geschieht anhand einer [Stakeholderanalyse](Stakeholderanalyse.md) [^5]. 
 
 ## Anwendung
 
-In einem ersten Schritt sind alle relevanten [Stakeholder](Stakeholder.md) des Projekts zu identifizieren. Hierbei sollten alle berücksichtigt werden, die in irgendeiner Art und Weise mit dem Projekt in Verbindung stehen. Hierbei kann bereits eine Kategorisierung in interne und externe [Stakeholder](Stakeholder.md) stattfinden sowie wichtige Schlüsselfunktionen der Personen oder Interessensgruppen notiert werden. Für die Identifikation der [Stakeholder](Stakeholder.md) existieren verschiedene Verfahren. Einige werden nachfolgend beispielhaft aufgelistet [^5]:
+In einem ersten Schritt sind alle relevanten [Stakeholder](Stakeholder.md) des Projekts zu identifizieren. Hierbei sollten alle berücksichtigt werden, die in irgendeiner Art und Weise mit dem Projekt in Verbindung stehen. Hierbei kann bereits eine Kategorisierung [Stakeholder](Stakeholder.md) stattfinden sowie wichtige Schlüsselfunktionen der Personen und Interessensgruppen vermerkt werden. Für die Identifikation der [Stakeholder](Stakeholder.md) existieren verschiedene Verfahren. Einige werden nachfolgend beispielhaft aufgelistet [^5].
 
-* Identifikation durch Experten/Delphimethode 
-* Eigene Identifikation durch Stakeholder (Aufruf an Interessierte, sich zu melden) 
-* Identifikation durch andere Stakeholder (Interviews und Diskussionen) 
-* Identifikation durch Sekundärforschung und statistische Daten 
-* Identifikation durch mündliche oder schriftliche Berichte über große Ereignisse 
-* Identifikation durch Kreativitätstechniken wie Brainstorming 
-* Identifikation durch SWOT-Analysen 
+Identifikation durch:
 
-Anschließend muss die Einstellung der Stakeholder gegenüber dem Projekt bewertet werden. Hierbei wird beispielsweise zwischen positiv, neutral und negativ unterschieden. Die Interessen der Stakeholder lassen sich aus seinen Bedürfnissen ableiten und spiegeln sich in Hinsicht auf das Projekt als konkrete Erwartungen und Ziele wider [^5].
+* Experten/Delphimethode 
+* Andere Stakeholder (Interviews und Diskussionen) 
+* Sekundärforschung und statistische Daten 
+* Mündliche oder schriftliche Berichte über große Ereignisse 
+* Kreativitätstechniken wie Brainstorming 
+* SWOT-Analysen 
 
-Ein nächster wichtiger Schritt ist die Bewertung der Relevanz der betroffenen Stakeholder.  In diesem Zusammenhang wird sich die Frage gestellt, wer wie wichtig für das betroffene Projekt ist. So kann ein Ranking erstellt werden, um die bedeutungsvollsten Interessensgruppen von dem Projekt zu überzeugen. Anschließend sollen diese mit passenden Strategien und Maßnahmen in das Projekt eingebunden werden. So wird sich die Unterstützung von diesen Parteien gesichert.
+Anschließend muss die Einstellung der Stakeholder gegenüber dem Projekt bewertet werden. Hierbei wird beispielsweise zwischen positiv, neutral und negativ unterschieden. Die Einschätzungsskalen können variieren, je nachdem wie genau die Bewertung sein soll. Die Interessen der [Stakeholder](Stakeholder.md) lassen sich aus seinen Bedürfnissen ableiten und spiegeln sich in Hinsicht auf das Projekt als konkrete Erwartungen und Ziele wider. Diese Informationen sind entscheidend für das weitere Vorgehen [^5].
 
-Es ist zu bedenken, dass sich die Meinung von Stakeholdern auch während eines Projekts ändern kann. Aus diesem Grund ist es auch im Rahmen des [Projektcontrollings](Projektcontrolling.md) essenziell, die Interessengruppen auf dem Laufenden zu halten und sich mit diesen abzustimmen, damit ein erfolgreicher [Projektabschluss](Projektabschluss.md) erfolgen kann [^4].
+Ein nächster wichtiger Schritt ist die Bewertung der Relevanz der betroffenen Stakeholder.  In diesem Zusammenhang wird sich die Frage gestellt, wer wie wichtig für das jeweilige Projekt ist. So kann ein Ranking erstellt werden, um die bedeutungsvollsten Interessensgruppen von dem Projekt zu überzeugen. Anschließend sollen diese mit passenden Strategien und Maßnahmen in das Projekt eingebunden werden. So wird sich die Unterstützung dieser Parteien gesichert.
+
+Es ist zu bedenken, dass sich die Meinung von Stakeholdern während eines Projekts ändern kann. Aus diesem Grund ist es auch im Rahmen des [Projektcontrollings](Projektcontrolling.md) essenziell, die Interessengruppen auf dem Laufenden zu halten und sich mit diesen abzustimmen, damit ein erfolgreicher [Projektabschluss](Projektabschluss.md) erfolgen kann [^4].
 
 Ein Template für eine Stakeholderanalyse könnte beispielsweise folgendermaßen aussehen [^4]::
 
@@ -54,13 +55,13 @@ Ein Template für eine Stakeholderanalyse könnte beispielsweise folgendermaßen
 
 
 
-Ein zusätzlich oft genutztes Tool ist die Macht/Interesse-Matrx nach Johnson/Scholes (1999)[^5], S. 34:
+Ein zusätzlich oft genutztes Tool ist die Macht/Interesse-Matrx nach Johnson/Scholes (1999). Mit dieser kann das Verhältnis zwischen der Macht und dem Interesse einzelner [Stakeholder](Stakeholder.md) sowie der Entwicklung während des Projektverlaufs grafisch dargestellt werden [^5], S. 34:
 
 ![Macht/Interesse-Matrix, S.34](Stakeholderanalyse/Macht_Interesse_Matrix.png)
 
 
 
-Nach dem Abschluss des Projektes sollte eine Kontrolle der Zielerreichung gemacht werden. Hierbei sollte es vor allem um die Frage gehen, wie zuverlässig die Stakeholderanalyse funktioniert hat. Somit kann für zukünftige Projekte aus den Erfahrungen gelernt werden. Die Wichtigkeit dieser Analyse sollte nicht unterschätzt werden. Die Stakeholder tragen eine wichtige Rolle im Verlauf eines Projekts und daher ist es entscheidend wie gut das Projektteam diese identifiiert und eingschätzt hat, um passend handeln zu können. 
+Nach dem Abschluss des Projektes sollte eine Kontrolle der Zielerreichung gemacht werden. Hierbei stellt sich vor allem die Frage, wie zuverlässig die [Stakeholderanalyse](Stakeholderanalyse.md) funktioniert hat. Somit kann aus den Erfahrungen für zukünftige Projekte gelernt werden. Die Wichtigkeit dieser Analyse sollte nicht unterschätzt werden. Die Stakeholder tragen eine wichtige Rolle im Verlauf eines Projekts und daher ist es entscheidend, wie gut das Projektteam diese identifiiert und eingschätzt hat, um entsprechend handeln zu können. 
 
 
 # Quellen
