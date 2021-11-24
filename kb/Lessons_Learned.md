@@ -54,7 +54,7 @@ Eine weitere Schwierigkeit besteht in Stakeholdern, die nicht glauben, dass sich
 [^1]: Weber, Rosina; Aha, David W.; Muñoz-ávila, Hector; Breslow, Leonard A. (2010): An Intelligent Lessons Learned Process, S. 358–367.
 [^2]: Rowe, S. F. & Sikes, S. (2006). Lessons learned: taking it to the next level. Paper presented at PMI® Global Congress 2006—North America, Seattle, WA. Newtown Square, PA: Project Management Institute.
 [^3]: Dr. Georg Angermeier: https://www.projektmagazin.de/glossarterm/lessons-learned
-
+[^4]: Thomas Klingenberg: https://t2informatik.de/wissen-kompakt/lessons-learned/
 
 
 
