@@ -15,7 +15,8 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 ## Definition
 
-Scrum ist ein leichtgewichtiges Rahmenwerk, welches Menschen, Teams und Organisationen hilft, Wert durch adaptive Lösungen für komplexe Probleme zu generieren. Scrum baut auf der kollektiven Intelligenz der Personen auf, die es anwenden. Anstatt den Menschen detaillierte Anweisungen zu geben, leiten die Regeln von Scrum ihre Beziehungen und Interaktionen[^1].
+Scrum, englisch für Gedränge, ist ein Vorgehensmodell des Projektmanagements. leichtgewichtiges Rahmenwerk, welches Menschen, Teams und Organisationen hilft, Wert durch adaptive Lösungen für komplexe Probleme zu generieren. Scrum baut auf der kollektiven Intelligenz der Personen auf, die es anwenden. Anstatt den Menschen detaillierte Anweisungen zu geben, leiten die Regeln von Scrum ihre Beziehungen und Interaktionen[^1].
+
 
 # Bestandteile von SCRUM
 
@@ -50,10 +51,6 @@ Scrum ist ein leichtgewichtiges Rahmenwerk, welches Menschen, Teams und Organisa
 
 # Vorteile
 Scrum macht die relative Wirksamkeit des aktuellen Managements, der Umgebung und der Arbeitstechniken sichtbar, so dass Verbesserungen vorgenommen werden können.
-
-https://scrumguides.org/scrum-guide.html
-
-
 
 
 
