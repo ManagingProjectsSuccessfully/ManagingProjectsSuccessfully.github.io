@@ -2,7 +2,7 @@
 title: Projektteam_Kultur
 tags: agil klassisch
 author: LaHe27
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Projektteam_Kultur um ein erstes Verständnis dafür zu schaffen um was es hier geht.
