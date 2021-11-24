@@ -121,14 +121,14 @@ Team Kapazität -> https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_
 
 # Quellen
 
-1- https://www.soldevelo.com/blog/7-effective-metrics-for-successful-scrum-projects-delivery/
+[^1]: [www.soldevelo.com](https://www.soldevelo.com/blog/7-effective-metrics-for-successful-scrum-projects-delivery/)
 
-2- https://www.atlassian.com/agile/scrum/scrum-metrics
+[^2]: [www.atlassian.com](https://www.atlassian.com/agile/scrum/scrum-metrics)
 
-3- https://producttribe.com/project-management/agile-sdlc-guide
+[^3]: [producttribe.com](https://producttribe.com/project-management/agile-sdlc-guide)
 
-4- https://t2informatik.de/wissen-kompakt/velocity-chart/
+[^4]: [t2informatik.de](https://t2informatik.de/wissen-kompakt/velocity-chart/)
 
-5- https://www.youtube.com/watch?v=CZDNWTuR3i8&ab_channel=EvolvingAgilist
+[^5]: [YouTube:Evolving Agilist](https://youtu.be/CZDNWTuR3i8)
 
-6- https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams
+[^6]: [www.scrum-institute.org](https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams)
