@@ -1,14 +1,23 @@
 ---
 title: Scrum_Artefakte
 tags: agil klassisch
-author: Christoph-Mantsch
+author: fadiarabo
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Scrum_Artefakte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Es gibt im SCRUM nur 3 Artefakte, die jeweils eine Arbeit oder einen Wert repräsentieren: Das Product Backlog, das Sprint-Backlog und das Produktinkrement. Die Artefakte sollen für maximale Transparenz sorgen und garantieren, dass alle auf demselben Wissensstand sind. Jedes Artefakt hat eine übergeordnete Maxime, die es damit zu erreichen gilt.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+* Artefakt Nr. 1: Product Backlog
+
+Beim Product Backlog handelt es sich um eine Liste von Produktanforderungen. Die oberste Maxime des Product Backlogs ist das Produkt Ziel. Die Hoheit über den Product Backlog liegt beim Product Owner. Dieser sammelt und ergänzt alle Anforderungen, welche die Stakeholder an das fertige Produkt stellen. Alle Arbeiten, welche die Entwickler durchführen, speisen sich aus diesem Artefakt. Gemeinsam mit den Entwicklern legt der Product Owner fest, welche dieser Anforderungen ins aktuelle Sprint-Backlog übernommen werden, je nach Aufwand, Abhängigkeiten und Priorität. Das Product Backlog ist ein lebendes Dokument, das während der gesamten Produktentwicklung erweitert und verändert wird.
+
+* Artefakt Nr. 2: Sprint Backlog
+
+Das Sprint-Backlog setzt sich aus dem Sprint Ziel (warum?), den jeweils ausgewählten Produktanforderungen aus dem Product Backlog (was?) und dem Umsetzungsplan des Produktinkrements (wie?) zusammen. Der Sprint-Backlog enthält also immer eine Teilmenge des Product Backlogs. Die oberste Maxime des Sprint Backlogs ist das Sprint-Ziel. Dieses wird während der Sprint-Planung entwickelt und während des Sprints stets im Auge behalten.
+
+* Artefakt Nr. 3: Produktinkrement
+
+Das Produktinkrement ist das jeweilige Produkt, das nach jedem Sprint entstanden ist. Mit jedem Inkrement wird das Produkt ein Stück vorangebracht und kommt so dem fertigen Produkt Schritt für Schritt näher. Auch für das Produktinkrement gibt es eine übergeordnete Maxime: Die „Definition of Done“ – also wie genau und wie langlebig wurde die jeweilige Anforderung umgesetzt? Nur Arbeiten, die der zuvor im Team festgelegten „Definition of Done“ entsprechen, können Teil eines Produktinkrements sein. Das Produktinkrement wird den Kunden meist direkt zur Verfügung gestellt, um es umgehend in der Praxis getestet zu sehen.
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
