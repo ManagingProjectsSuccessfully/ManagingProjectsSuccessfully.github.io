@@ -72,7 +72,7 @@ Unter Darstellung der Gründe hält es Brooks daher für einen Mythos, dass durc
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... 
+* Brooks Jr, Frederick P.: [The mythical man-month: essays on software engineering.](https://books.google.de/books?hl=de&lr=&id=Yq35BY5Fk3gC&oi=fnd&pg=PT15&dq=myth+of+man+month&ots=21gqPdQoki&sig=KT97gmzafoLLcUtiopJ9l8GlSaE&redir_esc=y#v=onepage&q=myth%20of%20man%20month&f=false) Pearson Education, 1995.
 * [Arbeit oder Dauer im Projektmanagement](https://www.proventis.net/de/projektmanagement-begriff/arbeit-oder-dauer)
 
 # Quellen
