@@ -38,7 +38,7 @@ Durch diese Feststellung wird Abraham Wald, das Entdecken des Survivorship Bias 
 
 
 
-* [In den Finanzen](#Finanzen)  
+* In den Finanzen  
 Gesellschaften entfernen erfolglose Fonds aus der Bilanz. So werden die Erfolgsbilanzen der Firmen positiv verzerrt. Gerade hier ist der Effekt für "Survivors" gefährlich und birgt große finanzielle Gefahren 
 
 * In der Wissenschaft
