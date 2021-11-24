@@ -67,6 +67,7 @@ werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140
 # Weiterführende Literatur
 
 https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken
+
 https://lerndoku.com/negativkonferenz/
 
 # Quellen
