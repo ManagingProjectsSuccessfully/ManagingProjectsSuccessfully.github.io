@@ -75,6 +75,7 @@ Alle Module des Informationssystems sind bis zu einem gewissen Grad in Datenmana
 * [Datenmanagement](https://de.wikipedia.org/wiki/Datenmanagement)
 * [Projektmanagement](https://de.wikipedia.org/wiki/Projektmanagement)
 * [Informationsqualität](https://de.wikipedia.org/wiki/Informationsqualit%C3%A4t)
+* [Information architecture](https://de.wikipedia.org/wiki/Informationsarchitektur)
 * [Link auf diese Seite](Datenmanagement_im_PM.md)
 
 # Weiterführende Literatur
