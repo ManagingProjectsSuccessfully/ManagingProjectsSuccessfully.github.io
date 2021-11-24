@@ -26,7 +26,7 @@ Das Product Backlog könnte man als Kernartefakt von Scrum bezeichnen, da es sic
 
 Im agilen Projektmanagement sind häufige Feedbacks typisch, weshalb es nicht unwahrscheinlich ist, dass sich die Anforderungen ändern können. Deshalb kann man das Product Backlog als lebendes Dokument betiteln, welches während der gesamten Produktentwicklung erweitert und verändert wird.
 
-Hierbei trägt der [Product Owner] (https://www.appvizer.de/magazin/organisation-planung/projektmanagement/product-owner) die volle Verantwortung für die Aktualität und die richtige Priorisierung der Komponente, z.B.: Grad des Risikos und gewünschtes Lieferdatum. Dennoch kann das Product Backlog jederzeit vom [Scrum-Team] (https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-team) eingesehen werden.
+Hierbei trägt der [Product Owner](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/product-owner) die volle Verantwortung für die Aktualität und die richtige Priorisierung der Komponente, z.B.: Grad des Risikos und gewünschtes Lieferdatum. Dennoch kann das Product Backlog jederzeit vom [Scrum-Team](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-team) eingesehen werden.
 Hieraus werden während des Sprint Planning, die zu erledigenden Punkte für den nächsten Sprint ausgewählt.
 
 
