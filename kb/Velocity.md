@@ -41,12 +41,11 @@ auch das Projekt erfolgreich abgeschlossen werden.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Velocity.md)
+* [Scrum](Scrum.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+*https://agilemanifesto.org/iso/de/manifesto.html
 
 # Quellen
 
