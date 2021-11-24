@@ -7,18 +7,18 @@ anrechnung: a
 
 Unter Scrum Metrics sind Messwerte zu verstehen, die von Scrum Teams ermittelt, ausgewertet und benutzt werden um ihre Effizienz und Effektivität zu beobachten und zu steigern. Durch richtige Ermittlung, Auswertung und Einsetzung dieser Messwerte, können Scrum Metrics Erkenntnisse vermitteln, die das Scrum Team während des Scrum durchlaufs unterstützen und verbessern oder Beziehungen zwischen Scrum Team und Kunden verbessern.[^2]
 
-# Was sind Scrum Metrics?[^2]
+# Was sind Scrum Metrics?[^2][^7]
 Scrum Teams benutzen Scrum Metrics um Entscheidungen auf deren basis zu treffen und somit, effizienter in Planung und Umsetzung zu werden. Diese können beispielsweise dazu angewendet werden um einen Überblick über den gegenwertigen Stand des Projekts zu verschaffen und dadurch Zielsetzungen und Verbesserungen durchzuführen. Dazu gibt es keine allgemeinübergreifenden Maßstäbe, die diese gegenwertigen Scrum Metrics ersetzen könnten. Denn jede Situation und Projekt hat seinen eigenen Verlauf, jedes Team ist anders groß und es kommen unterschiedliche Methoden sowie Technologien zum Einsatz. Daher sind die jeweiligen Messwerte nicht ideal mit anderen Projekten als auch Teams vergleichbar oder kombinierbar.
 
 Die Entscheidung zur Ermittlung und Festhaltung dieser Messwerte sollte dem Team überlasen werden. Weil es nicht daran liegt ob der Projektmanager oder andere beteiligte individuen das für das ganze Team bestimmen, die Umsetzung erfolgt nur wenn das ganze Team dafür zustimmt und seinen Beitrag leistet.
 
 
 
-## Mögliche Vorteile durch Scrum Metrics im Projektverlauf
+## Mögliche Vorteile durch Scrum Metrics im Projektverlauf[^2][^7]
 
 Scrum Metrics können Teams helfen, Grenzen und Möglichkeiten leichter zu erkennen und unter Betracht deren das Projekt sowie Aufgaben Zielorientiert zu gestalten. Dies gilt nicht nur für neue, sondern auch für vorhandene Teams.
 
-Die Auswertung von Messwerten ermöglicht den Durchblick, durch unterschiedliche Aspekte der Effektivität eines Teams:[^2]
+Die Auswertung von Messwerten ermöglicht den Durchblick, durch unterschiedliche Aspekte der Effektivität eines Teams:[^2][^8]
 
 - Geschwindigkeit
 - Kapazität
@@ -132,3 +132,7 @@ Team Kapazität -> https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_
 [^5]: [www.scrum-institute.org](https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams)
 
 [^6]: [EvolvingAgilist](https://youtu.be/CZDNWTuR3i8)
+
+[^7]: [plutora](https://www.plutora.com/blog/agile-metrics)
+
+[^8]: [appliedframeworks](https://appliedframeworks.com/agile-metrics-4-balanced-kpis-to-measure-success/)
