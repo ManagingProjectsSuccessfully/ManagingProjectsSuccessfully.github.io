@@ -5,7 +5,7 @@ author: patrick203494
 anrechnung: k
 ---
 
-Beim PRINCE2 Projektmanagement (**PR**ojects **IN** **C**ontrolled **E**nvironments) handelt es sich um einen weltweit anerkannten, frei verwendbaren [Best-Practice](Best-Practices.md)-Ansatz für die Ausgestaltung, die Organisation und das Management von Projekten. [^1]
+Beim PRINCE2 Projektmanagement (**PR**ojects **IN** **C**ontrolled **E**nvironments) handelt es sich um einen weltweit anerkannten, frei verwendbaren [Best-Practice](Best_Practices.md)-Ansatz für die Ausgestaltung, die Organisation und das Management von Projekten. [^1]
 
 PRINCE2 kann auf Projekte jeglicher Art, Dauer oder Größe angewandt werden und strukturiert den Rahmen eines Projekts vom Start bis zum Ende.[^2]
 
