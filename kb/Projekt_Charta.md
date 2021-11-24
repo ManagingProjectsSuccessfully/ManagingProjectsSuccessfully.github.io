@@ -86,22 +86,19 @@ Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Cha
   - Vertragsbezogene Inhalte (insbes. Vergütungsvereinbarungen)
 
 ## Häufige Fehler beim erstellen einer Projekt Charta
-<!--überarbeite -->
 - Unklare Zielsetzungen
 - Unzureichende Formulierung der Problemstellung
-- Statistiken übertreiben
+- Viele Statistiken einbauen
 - Unklare definition der Rollen und Verantwortlichkeiten
 
 ### Wie vermeiden?
-<!--überarbeite -->
 - Einfache Wortwahl treffen
 - Formulierungen und Definitionen mit kurzen Sätzen bilden
 - Auf Anschaulichkeit und klare Übersichtlichkeit achten
 
 
 ## Beispiel einer Projekt Charta
-Beispiel anhand eines Fast Food App Projekts.
-<!--überarbeite -->
+Durch folgende Projekt Charta, ist ein Projekt, das eine Fast Food App abzielt, übersichtlich dargestellt.
 
 ![image](/kb/Projekt_Charta/Projekt_Charta_Example_Fast_Food_App.jpg)
 
