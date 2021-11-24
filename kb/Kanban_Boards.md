@@ -113,13 +113,13 @@ Mittels den vorherigen 4 Schritten, ist das Taskboard angelegt und man kann scho
 
 
 
-|   Prinzipien von Kanban angewendet auf das Kanban Board    | 
+|   Prinzipien von Kanban angewendet auf das Kanban Board | 
 | -----------------------------------------------------------
-| 1  | |Visualsisiere den Fluss des Arbeit                   | 
-| 2  | |Messen und Steuerung des Flusses                     |
-| 3  | |Pull statt Push                                      |
-| 4  | |Limitiere die Menge angefangener Arbeit              |
-| 5  | |Kommunikation                                        |
+| 1.    Visualsisiere den Fluss des Arbeit                | 
+| 2.    Messen und Steuerung des Flusses                  |
+| 3.    Pull statt Push                                   |
+| 4.    Limitiere die Menge angefangener Arbeit           |
+| 5.    Kommunikation                                     |
 
 
 
