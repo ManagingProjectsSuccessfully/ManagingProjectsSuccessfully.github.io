@@ -38,7 +38,7 @@ Das Sprint Backlog setzt sich aus den ausgewählten Einträgen aus dem Product B
 # 3. Product Increment
 
 Ein Produktinkrement ist jenes Produkt, welches nach einem Sprint entstanden ist und wird deshalb auch Teilergebnis des Projekts genannt. Die einzelnen Inkremente bauen aufeinander auf, sowie verbessern und erweitern das angestrebte Produkt von Iteration zu Iteration bis schließlich ein Produkt entsteht, welches den Anforderungen des Kunden entspricht. 
-Die „Definition of Done“, welche bereits beim Sprint Planning festgelegt wird, dient dazu, ein gemeinsames Verständnis der Aufgabestellung und Abnahmekriterien zu haben. Am Ende eines jeden Sprints wird vom Product Owner erklärt, inwiefern diese erfüllt wurde und entscheidet dann, ob das Produktinkrement den Stakeholder zur Verfügung gestellt wird, sodass es umgehend in der Praxis geprüft und getestet werden kann.[^1][^2][^4][^5][^6]
+Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team (Product Owner, [Scrum Master](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Master.md),Developer) festgelegt wird, dient dazu, ein gemeinsames Verständnis der Aufgabestellung und Abnahmekriterien zu haben. Am Ende eines jeden Sprints wird vom Product Owner erklärt, inwiefern diese erfüllt wurde und entscheidet dann, ob das Produktinkrement den Stakeholder zur Verfügung gestellt wird, sodass es umgehend in der Praxis geprüft und getestet werden kann.[^1][^2][^4][^5][^6]
 
 
 ![Beispielabbildung](Scrum_Artefakte/test-file.jpg)
