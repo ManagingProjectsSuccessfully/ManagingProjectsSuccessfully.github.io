@@ -29,7 +29,7 @@ Soll und Ist-Kosten des Projekts werden über den gesamten [Projektlebenszyklus]
 
 # Kennzahlen und Methoden
 ## Kennzahlen
-Die elementare Basisgröße des Projektcontrollings ist der Projekterfolg.[^11] Dieser ist [messbar](Erfolgsmessung.md) anhand der drei Kenngrößen des [Projektdreiecks](Magisches_Dreieck.md), welche im Laufe des Projekts geplant und überwacht werden müssen.[^9]
+Die elementare Basisgröße des Projektcontrollings ist der Projekterfolg.[^11] Dieser ist [messbar](Erfolgsmessung.md) anhand der drei Kenngrößen des [Projektdreiecks](Magisches_Dreieck.md), welche im Laufe des Projekts geplant und anschließend überwacht werden müssen.[^9]
 Die Kenngrößen des Dreiecks umfassen:
 
 * Termine
