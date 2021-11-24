@@ -47,7 +47,8 @@ Klassische Vorgehensmodelle eignen sich daher besonders für risikoarme Projekte
 Agile Vorgehensmodelle beruhen auf iterativem und inkrementellem Vorgehen. Iteratives Vorgehen bedeutet, dass eine Reihe von Aktivitäten bei jedem Durchlauf wiederholt wird. Inkrementell bedeutet, dass zunächst ein Teilsystem entwickelt und dieses dann schrittweise weiter ausgebaut wird. [^90][^100][^110]
 Weitverbreitete agile Vorgehensmodelle sind beispielsweise das Spiralmodell, [Extreme Programmierung](Xtreme_Programming.md), [Scrum](SCRUM.md) oder [Kanban](Kanban.md).
 
-*Bild: Konzept des Spiralmodells [^90], S.91
+![Konzept des Spiralmodells](Vorgehensmodelle/Konzept_des_Spiralmodells.png)
+Abbildung: Konzept des Spiralmodells [^90]
 
 **Vorteil** agiler Vorgehensmodelle ist, dass durch das inkrementelle Vorgehen früh erste einsetzbare Ergebnisse vorliegen[^10] und durch die Iterationen auf Fehler und Änderungen leichter eingegangen werden kann als bei Phasenmodellen.
 
