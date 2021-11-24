@@ -41,8 +41,7 @@ Bei diesen fünf Kernprinzipien fällt auf, dass nur das erste Kernprinzip eine 
 
 ![Abbildung](Lean_Projektmanagement/lean-principles.png)
 
-### *Die 5 Lean Prinzipien*
-(https://i.pinimg.com/originals/7a/1b/ac/7a1bacd481a17e016b4e94a435f594fb.png)
+### *Die 5 Lean Prinzipien*[^7]
 
 ## 4.	Lean vs Agile
 Häufig werden die Begriffe Lean und Agile im selben Kontext verwendet, was nicht ganz korrekt ist. Sowohl Lean als auch Agile beschreiben eine Art und Weise, wie man wertschöpfungsorientiert an die Arbeit herangehen kann, aber sie empfehlen hierfür etwas andere Wege. Lean stammt aus der Produktion und ist eher ein systematischer Ansatz, eine unternehmensweite Methode zur Rationalisierung der Wertschöpfung. Agile hingegen wurzelt in der Softwareentwicklung und zielt zwar auch darauf ab, möglichst schnell einen hohen Nutzen zu erzeugen, doch geschieht dies eher durch kurze Iterationen und die Perfektionierung der Teamzusammenarbeit.[^4] Lean-Projekte haben eine ähnliche iterative Struktur wie agile Projekte, mit dem wichtigen Unterschied, dass der Kunde Teil des Lean-Management-Prozesses ist.[^1]
@@ -81,4 +80,5 @@ Sowohl Lean als auch Agile Teams helfen dabei, besser zu arbeiten und Kunden ein
 [^4]: [Kanban Tool (2021): „Was ist Lean-Projektmanagement?“](https://kanbantool.com/de/kanban-guide/lean-projektmanagement)
 [^5]: [Landau, Peter (2021): „What Is Lean Project Management?“](https://www.projectmanager.com/blog/lean-project-management)
 [^6]: [Wuttke, Thomas (2018): „Lean Project Management – mit weniger mehr erreichen!“ in Grote, Sven/Goyk, Rüdiger (Hrsg): „Führungsinstrumente aus dem Silicon Valley“](https://link.springer.com/book/10.1007/978-3-662-54885-1)
+[^7]: [Infografik](https://i.pinimg.com/originals/7a/1b/ac/7a1bacd481a17e016b4e94a435f594fb.png)
 
