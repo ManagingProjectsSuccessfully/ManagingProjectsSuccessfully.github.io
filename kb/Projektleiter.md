@@ -18,8 +18,9 @@ Jedoch sind konstante Anpassungen und Veränderungen fester Bestandteil des Proj
 
 # Wie wird man ein Projektleiter und welche Kompetenzen und Fähigkeiten werden vorausgesetzt? 
 
-<img src="Projektleiter/Projektleiter.png" alt="Der Projektleiter ein Multitalent" width="700"/>
+<img src="Projektleiter/Projektleiter.png" alt="Der Projektleiter ein Multitalent" width="500"/>
 Ausbildung zum Projektleiter[^2]
+
 
 Um Projektleiter zu werden gibt es keine Ausbildung im klassischen Sinne, dennoch wird in der Regel ein Universitätsabschluss von Unternehmen vorausgesetzt. Neben dem fachlichen Know-how muss ein Projektleiter auch die Kompetenzen eines Unternehmers, Managers und die einer Führungskraft mitbringen. Weitere Anforderungen an den Projektleiter sind unter anderem die soziale Kompetenz, Kommunikative Fähigkeiten, Kreativität und Risikomanagement. 
 Ein Projektleiter hat verschiedene Aufgaben zu leisten, sei es während der Projektdurchführung oder bereits bei der Planung eines Projekts.[^3]
