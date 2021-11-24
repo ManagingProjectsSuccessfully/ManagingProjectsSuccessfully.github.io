@@ -27,12 +27,12 @@ Teammitglieder über Teamziele, Grundregeln und individuelle Rollen diskutieren[
 
 Eine entscheidende, aber vielleicht auch die wichtigste Phase ist die "Storming"-Phase. Diese Phase ist vor allem von **Konflikten, Spannungen und Wettbewerb** geprägt, da sich die **einzelnen Persönlichkeiten herausbilden**. Bei Teams entsteht der Konflikt oft durch gegensätzliche Arbeitsstile der Teammitglieder. Manche beginnen sogar, an den zuvor
 besprochenen Zielen des Teams zu zweifeln und stellen ihre Arbeit ganz ein. Als Folge kann sich dies negativ und belastend auf diejenigen auswirken, die die harte Arbeit
-fortsetzen, da die zuvor etablierten Gruppenprozesse nicht mehr reibungslos funktionieren. Aus diesem Grund ist in dieser Phase ist der **Teamleader** ganz besonders gefragt: Er muss die Konflikte entschärfen und eine gemeinsame Richtung vorgeben. Um ein Scheitern zu verhindern, liegt es am Ende bei den Mitglieder, die individuellen Unterschiede akzeptieren.
+fortsetzen, da die zuvor etablierten Gruppenprozesse nicht mehr reibungslos funktionieren. Aus diesem Grund ist in dieser Phase ist der **Teamleader** ganz besonders gefragt: Er muss die Konflikte entschärfen und eine gemeinsame Richtung vorgeben[^5]. Um ein Scheitern zu verhindern, liegt es am Ende bei den Mitglieder, die individuellen Unterschiede akzeptieren[^3].
 
 ## Norming: die Organisationsphase
 
 Wenn die Mitglieder die "Storming"-Phase hinter sich gelassen haben, akzeptieren sie sich gegenseitig mehr und beginnen, sich **auf gemeinsame Ziele zu konzentrieren**. In der
-"Norming"-Phase werden zwischenmenschliche Differenzen abgebaut, und die Mitglieder suchen nun aktiv nach **gegenseitiger Unterstützung**, um auf ein gemeinsames Ziel hinzuarbeiten. Das Team ist in der Lage effektiv mit **konstruktivem Feedback** zu arbeiten, da sich die Mitglieder mit den Teamabläufen vertraut gemacht haben und neuer Aufgaben bewältigen können. Da diese **neuen Aufgaben** oft mit einem hohen Schwierigkeitsgrad verbunden sind, ist es nicht ungewöhnlich, dass Gruppen wieder in die Storming-Phase zurückfallen[^1]. 
+"Norming"-Phase werden zwischenmenschliche Differenzen abgebaut, und die Mitglieder suchen nun aktiv nach **gegenseitiger Unterstützung**, um auf ein gemeinsames Ziel hinzuarbeiten. Das Team ist in der Lage effektiv mit **konstruktivem Feedback** zu arbeiten, da sich die Mitglieder mit den Teamabläufen vertraut gemacht haben und neuer Aufgaben bewältigen können. Da diese **neuen Aufgaben** oft mit einem hohen Schwierigkeitsgrad verbunden sind, ist es nicht ungewöhnlich, dass Gruppen wieder in die Storming-Phase zurückfallen[^1][^5]. 
 
 ## Performing: die Leistungsphase
 
