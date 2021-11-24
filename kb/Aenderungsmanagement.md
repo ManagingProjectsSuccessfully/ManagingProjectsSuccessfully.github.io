@@ -17,17 +17,19 @@ Mögliche Ursachen für Änderungen sind:
 * die Veränderung äußerer Faktoren (z.B. Markt, Politik, Technik, Wissenschaft, Gesetzte, Umwelt)
 * der Widerstand von Stakeholdern
 
-"Das Änderungsmanagement umfasst daher die Behandlung und Steuerung von Änderungen im Verlauf eines Projektes."[^2] Im Englischen wird Änderungsmanagement als Change Management Process bezeichnet.
+"Das Änderungsmanagement umfasst daher die Behandlung und Steuerung von Änderungen im Verlauf eines Projektes."[^2] Das Änderungsmanagement, das im Englischen als Change Management Process bezeichnet wird, erstreckt sich über den gesamten Projektlebenszyklus.
 
-# Welche Aufgaben beinhaltet das Änderungsmanagement
-
-
-
-# Wie sieht der typische Verlauf im Änderungsmanagement aus?
+## Welche Aufgaben beinhaltet das Änderungsmanagement
 
 ![Änderungsworkflow](Aenderungsmanagement/Änderungsworkflow.png)
 
 *beispielhafter Änderungsworkflow*[^3]
+
+Das Änderungsmanagement beginnt damit, dass eine Änderung im Projekt notwendig ist. Die Änderung kann entweder von der Seite des Auftragsgebers an das zuständige Unternehmen herangetragen werden oder beim Auftragnehmer selbst erkannt werden. Damit im Unternehmen selbst notwenige Änderungen erkannt werden können ist eine genaue Aufgabenstellung notwendig. Im Anschluss daran wird die Änderung genauer analysiert. Diese Analyse beinhaltet zum Beispiel den exakten Inhalt und den Größenumfang der Änderung. Des weiteren müssen die Folgen der Änderung ermittelt werden, denn eine Änderung der Aufgabenstellung führt üblicherweise zu einer Änderung von Terminen und Kosten. Die Kombination aus Leistungsänderung, Kostenändeurung und Terminänderung, die sich daraus ergibt, kann dann mit dem Auftraggeber abgesprochen werden.
+
+## Was ist beim Änderungsmanagement zu beachten
+
+Einer der wichtigsten Faktoren im Änderungsmanagement ist, dass die Änderungen transparent gemanaged und genau dokumentiert werden. Um Transparenz zu gewährleisten empfiehlt es sich, bei einer großen ANzahl an Projektteilnehmern eine Änderungskonferenz durchzuführen. Für die Dokumentation der jeweiligen Ändeurungen eignet sich ein Änderungsblatt. Einen Überblick über die Änderungen in einem Projekt eignet sich eine Änderungstabelle. Im Allgemeinen sollten in einem Unternehmen für das Änderungsmanagement Standardprozesse angelegt werden.
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
