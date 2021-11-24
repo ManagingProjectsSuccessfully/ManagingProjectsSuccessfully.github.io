@@ -19,7 +19,7 @@ Software-Projekte scheitern laut Brooks am häufigsten an Zeitnot, die auf der A
 * Rückkopplung
 
 ## Optimismus
-Einer der Gründe für das Entstehen von Zeitnot ist laut Brooks die bei allen Programmierern verankerte Denkweise, alles werde schon gutgehen. Aufgrund ihrer eigenen Arbeitsweise nehmen sie an, dass die Repräsentation ihrer gedanklichen Konzepte frei formbar und flexibel ist und daher die Umsetzung ihrer Vorstellungen problemlos erfolgt. Sie verkennen, dass auch ihre Ideen mangelhaft sein können, wodurch auch ihre Implementierung fehlerbehaftet ist. Durch diesen Optimismus hinsichtlich der Umsetzung wird der für die Umsetzung benötigte Zeitaufwand regelmäßig unterschätzt.[^1][^2]
+Einer der Gründe für das Entstehen von Zeitnot ist laut Brooks die bei allen Programmierer:innen verankerte Denkweise, alles werde schon gutgehen. Aufgrund ihrer eigenen Arbeitsweise nehmen sie an, dass die Repräsentation ihrer gedanklichen Konzepte frei formbar und flexibel ist und daher die Umsetzung ihrer Vorstellungen problemlos erfolgt. Sie verkennen, dass auch ihre Ideen mangelhaft sein können, wodurch auch ihre Implementierung fehlerbehaftet ist. Durch diesen Optimismus hinsichtlich der Umsetzung wird der für die Umsetzung benötigte Zeitaufwand regelmäßig unterschätzt.[^1][^2]
 
 ## Der Mann-Monat
 Der Mann-Monat stellt eine Maßeinheit für die Menge an Arbeit dar, die eine Person durchschnittlich in einem Monat schafft, und ist das Produkt von Zeit und Personal. Er wird als Maßstab von Schätzungen und Zeitvorgaben zugrunde gelegt.[^3] 
