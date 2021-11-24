@@ -47,7 +47,7 @@ Y-Achse:
 
 Optional: weitere Faktoren, welche mit Kreisform dargestellt werden  
 
-![Portfolio-Diagramm](https://www.projektmagazin.de/sites/default/files/inline/imported/articles/2015/1015-2/bild4a.jpg) 
+![Portfolio-Diagramm](https://www.business-wissen.de/static/bw/product/9919810/lg_9919810_1_01.png) 
 
 ## Abgrenzung 
 
