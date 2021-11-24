@@ -23,7 +23,7 @@ Handlung, wohingegen Wissen die Grundlage einer Handlung darstellt.[^2] Wissen i
 eines Unternehmens. Um dieses Wissen adäquat organisieren und dokumentieren zu können, erfordert es ein 
 gezieltes Wissensmanagement. Akkumulieren von Wissen, Wissen speichern und Wissen teilen sind also 
 die Hauptaufgaben des Wissensmanagements.[^3]
-Zusammengefasst kann man also sagen: „Das Wesen des Managements ist es, Wissen produktiv zu machen.“(Peter F. Drucker)1.
+Zusammengefasst kann man also sagen: „Das Wesen des Managements ist es, Wissen produktiv zu machen.“(Peter F. Drucker).[^4]
 
 ## Wissensmanagementsoftware
 
