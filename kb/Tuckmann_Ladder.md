@@ -75,6 +75,6 @@ Nicht selten wird diese Phase manchmal auch als **"Trauerphase"** bezeichnet, da
 [^2]: [Das Phasenmodell nach Tuckman im Überblick](https://projekte-leicht-gemacht.de/blog/softskills/fuehrung/teams/die-phasen-der-teamentwicklung-wie-produktiv-ist-dein-team/)
 [^4]: [Tuckmans Phasenmodell)](https://teamentwicklung-lab.de/tuckman-phasenmodell)
 [^6]: [Stages of Small-Group Development Revisited](https://webspace.science.uu.nl/~daeme101/Stages%20of%20Small-Group%20Development%20Revisted.pdf)
-[^5]: [TEAMPHASEN NACH TUCKMAN](https://www.wsu-beratung.de/blog/teamphasen)
+[^5]: [Teamphasen nach Tuckman](https://www.wsu-beratung.de/blog/teamphasen)
 [^7]: [Scheiden tut weh: Adjourning – die unterschätzte Phase im Teamprozess](https://teamworks-gmbh.de/scheiden-tut-weh-adjourning-die-unterschaetzte-phase-im-teamprozess/)
 [^1]: [Agiles Coaching: Die neue Art, Teams zum Erfolg zu führen](https://books.google.de/books?id=iV6yDwAAQBAJ&lpg=PT335&ots=KQiYmuqrjk&dq=adjourning%20als%20trauerphase&hl=de&pg=PT335#v=onepage&q=adjourning%20als%20trauerphase&f=false)
