@@ -57,12 +57,11 @@ werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Negativkonferenz.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken
 
 # Quellen
 
