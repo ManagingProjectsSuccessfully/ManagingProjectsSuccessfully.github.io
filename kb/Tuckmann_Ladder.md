@@ -11,10 +11,8 @@ Neue Teams :family_man_man_girl_boy: leiden häufig unter dem Mangel eines Gemei
 # Das Tuckman-Modell der Gruppenentwicklung
 ## Von Diskrepanz zum Wir-Gefühl  :ng_man::arrow_right: :people_holding_hands:
 
-Der Psychologe Bruce Tuckman entwickelte 1965 sein Gruppenentwicklungsmodell, um zu erklären, wie gesunde Teams mit der Zeit zusammenwachsen. In Tuckmans Modell werden fünf
-Phasen unterschieden, die Gruppen durchlaufen: Forming, Storming, Norming, Performing und Adjourning (siehe Abbildung 1). Jede der fünf Phasen der Teamentwicklung stellt eine
-Stufe auf der Leiter der Teamentwicklung dar[^1]. Während die Gruppenmitglieder die "Leiter" erklimmen, verwandeln sie sich von einer zufälligen Ansammlung von Fremden in ein
-leistungsstarkes Team, das auf ein gemeinsames Ziel hinarbeiten kann[^2]. Im Folgenden werden die fünf Stufen der Gruppenentwicklung von Tuckman im Detail erläutert:
+Der Psychologe Bruce Tuckman entwickelte 1965 sein **Gruppenentwicklungsmodell**, um zu erklären, wie gesunde Teams mit der Zeit zusammenwachsen. In Tuckmans Modell werden fünf
+Phasen unterschieden, die Gruppen durchlaufen: **Forming, Storming, Norming, Performing und Adjourning** (siehe Abbildung 1). Jede der fünf Phasen der Teamentwicklung stellt eine Stufe auf der Leiter der Teamentwicklung dar[^1]. Während die Gruppenmitglieder die "Leiter" erklimmen, verwandeln sie sich von einer zufälligen Ansammlung von Fremden in ein leistungsstarkes Team, das auf ein gemeinsames Ziel hinarbeiten kann[^2]. Im Folgenden werden die fünf Stufen der Gruppenentwicklung von Tuckman im Detail erläutert:
 
 ![Stages_Tuckman_model](https://user-images.githubusercontent.com/92668932/143244002-85eb062a-88a5-4d62-a6bd-6aa6eec4b78a.png)
 
@@ -23,17 +21,14 @@ leistungsstarkes Team, das auf ein gemeinsames Ziel hinarbeiten kann[^2]. Im Fol
 ## Forming: die Orientierungsphase
 
 Diese ist die Erste in Tuckmans Phasen der Gruppenentwicklung und ähnelt der Erfahrung, die Sie an Ihrem ersten Tag in einem neuen Job machen. Hier lernt
-sich das Team kennen und es geht hauptsächlich darum, allen Mitgliedern eine Orientierung zu geben, wie die Gruppe zusammenarbeiten wird. Da die Gruppendynamik und die Rollen im
-Team noch nicht festgelegt sind, übernimmt der Teamleiter oft die Führung und leitet die einzelnen Mitglieder an. Während der Forming-Phase nach Tuckman können die neuen
+sich das Team kennen und es geht hauptsächlich darum, allen Mitgliedern eine Orientierung zu geben, wie die Gruppe zusammenarbeiten wird. Da die **Gruppendynamik und die Rollen im Team noch nicht festgelegt** sind, übernimmt der Teamleiter oft die Führung und leitet die einzelnen Mitglieder an. Während der Forming-Phase nach Tuckman können die neuen
 Teammitglieder über Teamziele, Grundregeln und individuelle Rollen diskutieren[^4]. 
 
 ## Storming: die Konfrontationsphase
 
-Eine entscheidende, aber vielleicht auch die wichtigste Phase ist die "Storming"-Phase. Diese Phase ist vor allem von Konflikten, Spannungen und Wettbewerb geprägt, da sich die
-einzelnen Persönlichkeiten herausbilden. Bei Teams entsteht der Konflikt oft durch gegensätzliche Arbeitsstile der Teammitglieder. Manche beginnen sogar, an den zuvor
+Eine entscheidende, aber vielleicht auch die wichtigste Phase ist die "Storming"-Phase. Diese Phase ist vor allem von **Konflikten, Spannungen und Wettbewerb** geprägt, da sich die **einzelnen Persönlichkeiten herausbilden**. Bei Teams entsteht der Konflikt oft durch gegensätzliche Arbeitsstile der Teammitglieder. Manche beginnen sogar, an den zuvor
 besprochenen Zielen des Teams zu zweifeln und stellen ihre Arbeit ganz ein. Als Folge kann sich dies negativ und belastend auf diejenigen auswirken, die die harte Arbeit
-fortsetzen, da die zuvor etablierten Gruppenprozesse nicht mehr reibungslos funktionieren. Um ein Scheitern zu verhindern, müssen die Mitglieder individuelle Unterschiede
-akzeptieren.
+fortsetzen, da die zuvor etablierten Gruppenprozesse nicht mehr reibungslos funktionieren. Aus diesem Grund ist in dieser Phase ist der **Teamleader** ganz besonders gefragt: Er muss die Konflikte entschärfen und eine gemeinsame Richtung vorgeben. Um ein Scheitern zu verhindern, liegt es am Ende bei den Mitglieder, die individuellen Unterschiede akzeptieren.
 
 ## Norming: die Organisationsphase
 
@@ -55,9 +50,9 @@ Die folgende Tabelle fasst die Phasen mit jeweiligen Herausforderungen zusammen,
 
   | :busts_in_silhouette: | Forming | Storming | Norming | Performing |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
-  | Allgemeine Feststellungen | Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende | Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen |     Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
-  | Prozessbezogene Probleme | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach         Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
-  | Gefühlsbezogene Probleme | Die Mitglieder fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen fühlen sich noch unsicher und versuchen, ihre          Individualität zum Ausdruck zu bringen. Es entstehen Bedenken hinsichtlich der Teamhierarchie | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander        mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
+  | **Allgemeine Feststellungen** | Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende | Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen |     Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
+  | **Prozessbezogene Probleme** | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach         Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
+  | **Gefühlsbezogene Probleme** | Die Mitglieder fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen fühlen sich noch unsicher und versuchen, ihre          Individualität zum Ausdruck zu bringen. Es entstehen Bedenken hinsichtlich der Teamhierarchie | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander        mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
 Tabelle 1: Überblick der Phasen Forming, Storming, Norming, Performing [^6]
 
 ## Adjouring: die Auflösungsphase
