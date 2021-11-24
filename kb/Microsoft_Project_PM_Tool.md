@@ -47,6 +47,13 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 
 
 
+# Benutzeroberfläche
+
+![Beispielabbildung](Microsoft_Project_PM_Tool/MS_Project_Rahmenterminplan.jpg)
+
+*Abbildung 2: Rahmenterminplan*
+
+
 
 # Vor- und Nachteile des EDV - Programms
 
