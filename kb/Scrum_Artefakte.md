@@ -22,7 +22,7 @@ Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maxim
 # Sprint Backlog
 
 
-# Produktinkrement
+# Productinkrement
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
