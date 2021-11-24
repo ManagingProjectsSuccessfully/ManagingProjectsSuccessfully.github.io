@@ -54,7 +54,7 @@ Eines der grundlegendsten Kommunikationsmodelle ist das Sender Empfänger Modell
 # Quellen
 
 [^1]: [Kommunikation(landsiedel-seminare)](https://www.landsiedel-seminare.de/coaching-welt/wissen/lexikon/kommunikation.html)
-[^2]: [Kommunikationsarten](knowunity)(https://knowunity.de/knows/deutsch-kommunikationsarten-verbal-nonverbal-paraverbal-87115)
+[^2]: [Kommunikationsarten(knowunity)](https://knowunity.de/knows/deutsch-kommunikationsarten-verbal-nonverbal-paraverbal-87115)
 [^3]: [ParaverbaleKommunikation(ikud)](https://www.ikud.de/glossar/paraverbal.html)
 [^4]: [ParaverbaleKommunikation](kuerzeundwuerze)(https://kuerzeundwuerze.ch/wissenswertes/wissen-von-a-z/paraverbale-kommunikation/)
 [^5]: [NonverbaleKommunikation](onpulson)(https://www.onpulson.de/lexikon/nonverbale-kommunikation/)
