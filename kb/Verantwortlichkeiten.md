@@ -69,8 +69,8 @@ Die Projekthierarchie schaut folgendermaßen aus [^8][^9] :
 
 # Weiterführende Literatur
 
-* [Sustainability im Projektmanagement]https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf
-* [Verantwortungsbereiche und Aufgaben des Projektleiters]https://www.projektmagazin.de/aufgaben-projektmanager-projektleiter
+* [Sustainability im Projektmanagement](https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf)
+* [Verantwortungsbereiche und Aufgaben des Projektleiters](https://www.projektmagazin.de/aufgaben-projektmanager-projektleiter)
 
 # Quellen
 
