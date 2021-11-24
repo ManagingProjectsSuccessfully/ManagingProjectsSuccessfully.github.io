@@ -39,6 +39,10 @@ angewendet werden (siehe Abbildung).
 Es gibt viele unterschiedliche Anzeigemöglichkeiten für die Gliederung eines Projekts. Die hier beschriebene Ansicht, bezieht sich auf die Gantt Chart, welche in Kombination mit einer Tabelle angezeigt wird.
 Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines Projektsteuerers. Alle Bereiche können durch regelmäßiges Fortschreiben aktualisiert und korrigiert werden.[^2]
 
+![Beispielabbildung](Microsoft_Project_PM_Tool/Die_Grundbegriffe_der_Planung.png)
+
+*Die Grundbegriffe der Planung*
+
 # Vor- und Nachteile des EDV - Programms
 
 | Vorteile      | Nachteile     |
