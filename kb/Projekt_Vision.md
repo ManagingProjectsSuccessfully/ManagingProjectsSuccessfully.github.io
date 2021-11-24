@@ -18,7 +18,7 @@ gesehen werden. Die Projekt-Vision beschreibt einen gewünschten Endzustand, im 
 Die Projekt-Vision wird häufig unterschätzt, doch sie kann maßgeblich für den [Erfolg](Erfolgsmessung.md) eines [Projektes](Projekt.md) entscheidend 
 sein und Probleme und Verwirrungen verhindern, wenn sie klar und angemessen kommuniziert ist[^2]. 
 Sie dient dazu, auf ein gemeinsames, übergeordnetes [Ziel](Zielbeziehungen.md) einzustimmen, die [Mitarbeiter](Projektmitarbeiter.md) für die gemeinsame 
-Arbeit an einem Projekt zu motivieren und um sicherzustellen, dass Projektmitarbeiter im Sinne der [Projektleitung](Projektleiter.md) entscheiden[^2].
+Arbeit an einem Projekt zu motivieren und um sicherzustellen, dass [Projektmitarbeiter](Projektmitarbeiter.md) im Sinne der [Projektleitung](Projektleiter.md) entscheiden[^2].
 Zudem kann die Projekt-Vision auch als Marketing für das Projekt angesehen werden, um potenzielle Investoren davon zu überzeugen personelle und/oder 
 finanzielle Mittel zu bewilligen[^1]. 
 
