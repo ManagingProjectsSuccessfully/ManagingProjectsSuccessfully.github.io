@@ -13,7 +13,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # SCRUM
 
-# Definition
+## Definition
 
 Scrum ist ein leichtgewichtiges Rahmenwerk, welches Menschen, Teams und Organisationen hilft, Wert durch adaptive Lösungen für komplexe Probleme zu generieren. Scrum baut auf der kollektiven Intelligenz der Personen auf, die es anwenden. Anstatt den Menschen detaillierte Anweisungen zu geben, leiten die Regeln von Scrum ihre Beziehungen und Interaktionen[^1].
 
