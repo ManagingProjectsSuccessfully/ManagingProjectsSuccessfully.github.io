@@ -10,17 +10,20 @@ anrechnung: k
 Heutzutage müssen sich viele Unternehmen den Herausforderungen des Big Data Zeitalters stellen. 
 Cloud-Anwendungen ermöglichen mittlerweile die Speicherung riesiger Datenmengen, somit ist nicht mehr die Speicherung an sich die 
 Herausforderung, sondern die Organisation der Datenmengen. Genau dieser Herausforderung stellt sich das Wissensmanagement. 
-Im Zuge der Digitalisierung ist auch Wissensmanagementsoftware nicht mehr wegzudenken.
+Im Zuge der Digitalisierung ist auch Wissensmanagementsoftware nicht mehr wegzudenken.[^1]
+
+Im Folgenden soll Wissensmanagementsoftware in einem Zusammenhang mit Wissensmanagement gebracht werden.
+Anschließend wird das Grundprinzip einer Wissensmanagementsoftware anhand eines Beispiels aus der Wirtschaft veranschaulicht. 
 
 ## Wissensmanagement und die Bedeutung der Ressource Wissen
 
 Wissen kann als eine nicht physische Ressource aufgefasst werden. Damit steht das Wissen eines Unternehmens auf einer Ebene 
 mit den klassischen Produktionsfaktoren Arbeit, Boden und Kapital. Klassische Produktionsfaktoren sind Ergebnisse einer 
-Handlung, wohingegen Wissen die Grundlage einer Handlung darstellt 3. Wissen ist also eine der wichtigsten Ressourcen 
+Handlung, wohingegen Wissen die Grundlage einer Handlung darstellt.[^2] Wissen ist also eine der wichtigsten Ressourcen 
 eines Unternehmens. Um dieses Wissen adäquat organisieren und dokumentieren zu können, erfordert es ein 
 gezieltes Wissensmanagement. Akkumulieren von Wissen, Wissen speichern und Wissen teilen sind also 
-die Hauptaufgaben des Wissensmanagements 5.
-Zusammengefasst kann man also sagen: „Das Wesen des Managements ist es, Wissen produktiv zu machen.“ Peter F. Drucker (*19.11.1909-†11.11.2005), Ökonom, Management-Vordenker 1.
+die Hauptaufgaben des Wissensmanagements.[^3]
+Zusammengefasst kann man also sagen: „Das Wesen des Managements ist es, Wissen produktiv zu machen.“(Peter F. Drucker)1.
 
 ## Wissensmanagementsoftware
 
@@ -157,7 +160,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: 
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
