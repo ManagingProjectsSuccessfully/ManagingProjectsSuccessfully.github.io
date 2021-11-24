@@ -10,7 +10,7 @@ anrechnung: k
 # Die Hemmnisanalyse 
 
 
-Die Hemmnisanalyse gehört zu dem Überbegriff des [Klassischen Projektmanagements](https://de.wikipedia.org/wiki/Projektmanagement). 
+Die Hemmnisanalyse gehört zu dem Überbegriff des [Projektmanagements](Projektmanagement.md). 
 Projekte werden sehr strukturiert aufgebaut und es werden zu Beginn alle Ziele und Phasen definiert. 
 Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projektes verzögern oder komplett verhindern. Die Hemmnisanalyse stellt ein Werkzeug da,
 mit welchem mögliche Probleme in der Zukunft entgegengewirkt werden soll.[^1]
