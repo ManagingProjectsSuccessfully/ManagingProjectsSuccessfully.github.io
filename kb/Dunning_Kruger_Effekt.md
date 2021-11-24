@@ -19,7 +19,8 @@ Die Sozialpsychologen David Dunning und Justin Kruger veröffentlichten im Jahr 
 
 Diese Aneinanderreihung von Fehlern ist auch als Teufelskreis der Inkompetenz bekannt. Die Probanden sollten unter anderem Logik- und Grammatiktests bearbeiten. Nach Beendigung der Tests sollten die Teilnehmer einschätzen, wie gut sie im Vergleich zu ihren Kommilitonen abgeschnitten haben. Gerade diejenigen, die am schlechtesten abschnitten glaubten die besten Lösungen gefunden zu haben.[^4] Deshalb ist ein konstruktives [Feedback](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Feedbackgespr%C3%A4che.md) für die Betroffenen besonders wichtig, jedoch stellt die fehlende [Kritikfähigkeit](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umgang_mit_Kritik.md) ein Problem dar.[^5]
 
- 
+![Die Phasen des Dunning-Kruger-Effekts](Dunning_Kruger_Effekt/image.png) 
+
 Abbildung 1: [Die Phasen des Dunning-Kruger-Effekts](https://de.wikipedia.org/wiki/Datei:Dunning%E2%80%93Kruger_Effekt.svg)
 
 Die Visualisierung zeigt den Dunning-Kruger-Effekt. Es ist zu erkennen, dass es nur einen geringen Anstieg der Erfahrung benötigt, damit Menschen denken, dass sie allwissend sind und ein großes Selbstvertrauen haben. Erst wenn die Personen kompetenter werden, sinkt das Selbstvertrauen. Der Effekt spielt sich überwiegend in diesem beschriebenen Bereich ab.
