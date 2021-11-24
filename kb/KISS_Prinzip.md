@@ -6,9 +6,9 @@ anrechnung: k oder a
 ---
 
 
-Die Luftfahrt- und Forschungsingenieurin Clarence Johnson (1910-1990) verwendete erstmals den Satz “Keep It Simple, Stupid” , also "Halte es einfach, Dummkopf!". “Stupid” dem Satz eine flapsige, aber wohlmeinende Bedeutung gibt: "Sei nicht so blöd, Dir den Kopf zu zerbrechen, wenn es auch einfach geht." Daraus entstand das KISS-Prinzip, welches heutzutage allerdings diverse Verständnisweisen bzw. Übersetzungen zur Grundlage haben kann.
+Die Luftfahrt- und Forschungsingenieurin Clarence Johnson (1910-1990) verwendete erstmals den Satz “Keep It Simple, Stupid”, aus Englisch "Halte es einfach, Dummkopf!". “Stupid” dem Satz eine flapsige, aber wohlmeinende Bedeutung gibt: "Zerbreche dir den Kopf nicht, wenn es auch einfach geht." Daraus entstand das KISS-Prinzip, welches heutzutage allerdings diverse Übersetzungen zur Grundlage haben kann.
 
-Es ist eine Methode des Selbstmanagements, die nicht mit dem Zeitmanagement gleichzusetzen ist. Viele Menschen erreichen ihre Ziele nicht, weil sie sich zu viel vornehmen. Sie müssen diese daher mehr „smart and simple“ formulieren. Etwas „simple“ zu halten bedeutet unter anderem, Ziele zeitlich zu terminieren und den Weg zum Ziel in überschaubare Etappen einzuteilen – wiederum mit terminierten Zwischenzielen.
+Das KISS-Prinzip kann als eine Methode des Selbstmanagements verstanden werden. Viele Menschen erreichen ihre Ziele nicht, weil sie sich zu viel vornehmen. Stattdessen müssen sie diese daher mehr „smart and simple“ formulieren. Etwas „simple“ zu halten bedeutet unter anderem, Ziele zeitlich zu terminieren und den Weg zum Ziel einzuteilen – wiederum mit terminierten Zwischenzielen.
 
 
 # [mehr Info zum KISS-Prinzip](https://startupwissen.biz/was-bedeutet-eigentlich-kiss/)
@@ -18,10 +18,10 @@ Es ist eine Methode des Selbstmanagements, die nicht mit dem Zeitmanagement glei
 
 # Definition
 
-Das KISS-Prinzip dient der Reduzierung von Komplexität. Hierbei gilt es als Leitsatz, um Arbeitsprozesse und Kommunikation möglichst einfach zu gestalten, damit es zu keinen Missverständnissen oder unnötig komplexen Bearbeitungszeiten kommt. Auch in einer Zeit von rasanten Veränderungen konzentriert man sich bei gleichzeitig hohen Leistungsanforderungen auf das Wesentliche. 
+Das KISS-Prinzip dient der Reduzierung von Komplexität. Hierbei gilt es als Leitsatz, um Kommunikation möglichst einfach zu gestalten, sodass es zu keinen Missverständnissen oder unnötig komplexen Bearbeitungszeiten kommt. Auch in einer Zeit von rasanten Veränderungen konzentriert man sich bei gleichzeitig hohen Leistungsanforderungen auf das Wesentliche. 
 
-Albert Einstein hat gesagt; “Wenn du es nicht einfach erklären kannst, hast du es nicht gut genug verstanden.” Damit drückte er kurz und knapp das “keep it simple, stupid” (KISS) aus.
-Minimalistisch also, schnell verständlich und so, dass jeder damit zurechtkommt. Egal ob Studierter, ein unerfahrener Internet-Nutzer, jemand aus einer anderen Branche oder gar eine außenstehende Person, die im Kern gar keine Ahnung von dem Thema hat. Halt es einfach, dann verstehen es auch alle problemlos.
+Albert Einstein hat gesagt: “Wenn du es nicht einfach erklären kannst, hast du es nicht gut genug verstanden.” Damit drückte er kurz und knapp das “keep it simple, stupid” (KISS) aus.
+Minimalistisch also, verständlich und so, dass jeder damit zurechtkommt. Egal ob Studierter, ein unerfahrener Internet-Nutzer, jemand aus einer anderen Branche oder eine außenstehende Person, die gar keine Ahnung von dem Thema hat. Jeder kann es problemlos verstehen, wenn man es einfach haltet.
 
 
 ![das KISS-Prinzip erkennen](KISS_Prinzip/kiss-prinzip.png)
@@ -29,7 +29,7 @@ Minimalistisch also, schnell verständlich und so, dass jeder damit zurechtkommt
 
 # Mögliche Übersetzungen
 
-Die Buchstaben S in KISS können verschieden interpretiert werden.Für das erste S kommen folgende Übersetzungen in Frage: Simpel, Small, Short oder Silly.Das zweite S könnte wiederum wie folgt übersetzt werden: Stupid, Smart, Simpel, Straightforward. Da das Akronym KISS selbst wieder ein Wort bildet (englisch kiss, deutsch Kuss). 
+Die beiden Buchstaben S in KISS können verschieden interpretiert werden. Für das erste S kommen folgende Übersetzungen in Frage: Simpel, Small, Short oder Silly. Das zweite S könnte wie folgt übersetzt werden: Stupid, Smart, Simpel, Straightforward. Das Akronym KISS bildet selbst wieder ein Wort (englisch kiss, deutsch Kuss). 
 
 ## Mögliche Bedeutungen der Abkürzung
 
@@ -44,11 +44,11 @@ Die Buchstaben S in KISS können verschieden interpretiert werden.Für das erste
 
 # Funktion
 
-Einfachheit, Verständnis und Erinnerungswert sind Bestandteile des Prinzips. Je umfangreicher etwas gestaltet ist, desto verworrener sind die Wahrnehmung und die Arbeit damit. Besonders hohe Anwendung findet KISS im Marketing, der Kommunikation, der Werbung und dem Management. In der Produktentwicklung und Werbung ist es besonders wichtig, damit Vorgaben eingehalten werden und die Zielgruppe bestens erreicht wird. KISS wird hierbei maßgeblich auf Botschaften und Gestaltung angewandt. Es wird aber auch in Bereiche wie das Webdesign, das Produktdesign und die Softwareentwicklung eingesetzt.
+Außer Einfachheit und Verständnis ist auch der Erinnerungswert ein Bestandteil des Prinzips. Je umfangreicher etwas gestaltet ist, desto verworrener ist die Wahrnehmung damit. Besonders hohe Anwendung findet KISS im Marketing, der Kommunikation, der Werbung und dem Management. In der Produktentwicklung und Werbung ist es besonders wichtig, damit Vorgaben eingehalten werden und die Zielgruppe (oft von Kunden) bestens erreicht wird. KISS wird hierbei maßgeblich auf Botschaften und Gestaltung angewandt. Es wird aber auch in Bereiche wie das Webdesign, das Produktdesign und die Softwareentwicklung eingesetzt.
 
 
 # Priorisierung nach Effektivität und Effizienz
-Ziele sind stets zu priorisieren, wobei die Prioritäten nach Effektivität und Effizienz bei der Erreichung sortiert werden müssen. Das bedeutet: Ein bestimmtes Ziel erzeugt einen großen Effekt, wenn es der Manager erreicht. Doch er muss hinterfragen, wie viel Aufwand die Erreichung kostet. Möglicherweise ist dieser Aufwand so hoch, dass die angestrebte Effektivität verpufft. Vielleicht lassen sich kleinere Ziele mit einem nicht so großen Effekt wesentlich effizienter erreichen und sollten daher eher priorisiert werden.
+Ziele sind immer zu priorisieren, wobei die Prioritäten nach Effizienz und Effektivität bei der Erreichung sortiert werden müssen. Das bedeutet: Wenn ein bestimmtes Ziel erreicht wird, erzeugt es einen großen Effekt. Doch steht die Frage, wie viel Aufwand die Erreichung kostet. Möglicherweise ist dieser Aufwand so hoch, dass die angestrebte Effektivität verpufft. Vielleicht lassen sich kleinere Ziele mit einem nicht so großen Effekt wesentlich effizienter erreichen und sollten daher eher priorisiert werden.
 
 | Effizienz                | Effektivität                |
 | -------------------------| --------------------------- |
