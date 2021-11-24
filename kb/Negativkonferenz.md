@@ -3,6 +3,7 @@ title: Negativkonferenz
 tags: klassisch
 author: LucaH12
 anrechnung: k 
+
 ---
 
 Die Negativkonferenz ist eine Kreativitätstechnik zur intuitiven Ideenfindung. 
