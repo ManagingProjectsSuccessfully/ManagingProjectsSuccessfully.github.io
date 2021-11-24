@@ -72,7 +72,7 @@ Informationen für die Entscheidungsträger[^1].
 
 Zusammenfassend kann man sagen, dass der Großteil der Projekt-Vision Vorbereitung ist. Sie verfolgt wichtige Ziele und ist unabdingbar, um ein Projekt erfolgreich durchzuführen.
 Zunächst wird ein Problem ermittelt. Mit Hilfe von [Stakeholder](Stakeholder_Register.md)-Gesprächen 
-werden weitere Informationen gesammelt, welche bestenfalls zu konkreten Lösungsansätzen führen. Zuletzt 
+werden weitere Informationen gesammelt, welche bestenfalls zu konkreten Lösungsansätzen führen und zuletzt 
 wird die Projekt-Vision vor Entscheidungsträgern präsentiert.
 
 # Weiterführende Literatur
