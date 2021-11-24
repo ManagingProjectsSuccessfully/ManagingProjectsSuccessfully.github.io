@@ -1,8 +1,8 @@
 ---
 title: Podio_PM_Tool
-tags: agil klassisch
+tags: agil 
 author: Paulqe42kuno
-anrechnung: k oder a
+anrechnung: a
 ---
 
 [Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können. Podio unterstützt die individuelle Arbeitsweise sowie das flexible, strukturierte, kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe, indem es ihnen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer wichtiger Informationen liefert [^1][^3]. Ihren Hauptsitz hat sie Firma Podio Europe in Kopenhagen, Dänemark[^3].
@@ -35,7 +35,22 @@ Im Mitarbeiternetzwerk von Podio werden alle Mitarbeitenden einer Organisation i
 ## Kommunikation & Online Meeting
 Zu jedem Workspace gibt es einen Aktivitätsverlauf. Dieser zeigt Aktivitäten aus den Apps und Statusnachrichten der Mitglieder des Workspaces auf. Per Statusnachrichten können Fragen und Probleme gestellt werden. Dabei können Bilder, Dateien und Links hinzugefügt werden. Die Statusnachrichten können von anderen Mitgliedern kommentiert und geliked werden. Durch den Podio Chat können Mitarbeitende sich ebenfalls untereinander austauschen per Nachricht und Videotelefonie [^4].
 
+Die GoToMeeting App von Polio ermöglicht Besprechungen [^4].
+
 ## Aufgaben Datein & Kalenderfunktionen
+### Aufgaben-Managment
+Auf einer Aufgabenliste sieht der Benutzer alle Aufgaben für die er verantwortlich ist. Die Aufgaben können priorisiert und geteilt werden. Aufgaben, die regelmäßig erledigt werden, können wiederkehrend eingestellt werden [^4]. 
+### File sharing
+Datein können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Einen eigenen Dateispeicher hat Polio nicht. Dateispeicher die mit Podio verknüpft werden können sind:
+* Google Drive
+* Dropbox
+* ShareFile
+* Box
+* HighTail
+* One Drive
+### Kalender Management
+
+
 
 ## Integration
 
