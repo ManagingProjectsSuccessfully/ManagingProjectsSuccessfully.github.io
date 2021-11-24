@@ -5,7 +5,6 @@ author: ebressel
 anrechnung: k 
 ---
 
-
 Neue Teams :family_man_man_girl_boy: leiden häufig unter dem Mangel eines Gemeinschaftsgefühls - die Mitglieder eines Teams können nicht effizient zusammenarbeiten, wenn sie keine Zeit haben, sich gegenseitig kennenzulernen. Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie Teams in verschiedenen Bereichen die gleichen Phasen der Gruppenentwicklung durchlaufen[^1]. Wenn Sie diese fünf Phasen der Teamentwicklung kennen, können Sie erfolgreiche Teams bilden, die ihr volles Potenzial ausschöpfen.
 
 # Das Tuckman-Modell der Gruppenentwicklung
@@ -49,7 +48,7 @@ Die folgende Tabelle fasst die Phasen mit jeweiligen Herausforderungen zusammen,
   | **Prozessbezogene Probleme** | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach         Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
   | **Gefühlsbezogene Probleme** | Die Mitglieder fühlen sich verunsichert und sind sich ihrer Rolle nicht sicher | Die Menschen fühlen sich noch unsicher und versuchen, ihre          Individualität zum Ausdruck zu bringen. Es entstehen Bedenken hinsichtlich der Teamhierarchie | Die Menschen ignorieren individuelle Unterschiede und akzeptieren einander        mehr | Die Mitarbeiter haben einen gemeinsamen Fokus, kommunizieren effektiv und werden dadurch effizienter und flexibler |
 
-Tabelle 1: Überblick der Phasen Forming, Storming, Norming, Performing [^6]
+*Tabelle 1: Überblick der Phasen Forming, Storming, Norming, Performing [^6]
 
 ## Adjouring: die Auflösungsphase
 
