@@ -76,7 +76,7 @@ Das Spiel <a name="Schlüsselbund"></a>*Schlüsselbund* gibt den Teilnehmenden d
 
 [^1]: https://www.marconomy.de/vier-erstaunliche-erfolgsfaktoren-fuer-die-agile-zusammenarbeit-a-853629/
 [^2]: https://asana.com/de/resources/icebreaker-questions-team-building
-[^3]: https://link.springer.com/content/pdf/10.1007%2F978-3-658-12008-5.pdf
+[^3]: Volker Johanning, *Organisation und Führung der IT: Die neue Rolle der IT und des CIOs in der digitalen Transformation*, Springer Vieweg, Marl am Dümmersee, 2020, [doi: 10.1007%2F978-3-658-12008-5](https://link.springer.com/book/10.1007%2F978-3-658-12008-5), S. 190
 [^4]: Bruce W. Tuckman, *Developmental sequence in small groups.* In: Psychological Bulletin, 1965, [doi: 10.1037/h0022100](https://psycnet.apa.org/fulltext/1965-12187-001.pdf?auth_token=ab14c987a05299f8f0fb073cdffd37cec38e61f5&returnUrl=https%3A%2F%2Fpsycnet.apa.org%2Frecord%2F1965-12187-001), S.396
 [^5]: https://link.springer.com/content/pdf/10.1007%2F978-3-662-56013-6.pdf, S.215…….die haben es aus: Boos, M., Hardwig, T., & Riethmüller, M. (2017). Führung und Zusammenarbeit in verteilten Teams. Göttingen: Hogrefe.“ 
 [^6]: https://www.teamgeist.com/blog/kennenlernspiele/
