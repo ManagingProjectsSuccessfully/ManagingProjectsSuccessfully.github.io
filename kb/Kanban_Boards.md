@@ -12,15 +12,37 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Was ist ein Kanban Board ?
 
-Das Kanban Board ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus gibt und die Kommunikation im Team erleichtert. 
-Außerdem auch ein Schlüsselelement der Kanban Methode, die zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses beiträgt. 
-Die Visualisierung der Arbeit auf einem Kanban Board steigert die Produktivität und erleichtert das Chaos eines Prozesses.
+Das Kanban Board ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus gibt und die Kommunikation 
+im Team erleichtert. 
+Außerdem auch ein Schlüsselelement der Kanban Methode, die zur Optimierung und kontinuierlichen Verbesserung jedes 
+Geschäftsprozesses beiträgt.[^1]
+Die Visualisierung der Arbeit auf einem Kanban Board steigert die Produktivität und ermöglicht es mögliche Probleme im Prozess direkt im Blick zuhaben.
 
 ## Verschiedene Kanbanboards
 
-Durch die beliebtheit der Kanban Boards findet man sie in vielen Industrien.
-Häufig um Geschäftsprozesse abzubilden, jedoch auch zur förderung der Teamwork oder dem organisieren privater Aufgaben.
-Sie unterscheiden sich in ihrer struktur durch ihre zunehmenden Spalten und Reihen, die Komplexität aufzeigen.
+Durch die beliebtheit der Kanban Boards findet man sie fast überall.
+Häufig um Geschäftsprozesse abzubilden, jedoch auch zur Förderung der Teamwork oder dem organisieren privater Aufgaben.
+Sie unterscheiden sich in ihrer struktur durch ihre zunehmenden Spalten und Reihen, durch welche die Komplexität aufgezeigt werden.[^2]
+
+*
+*
+*
+*
+
+# Wie fuktioniert ein Kanban Board
+
+Ursprünglich war es ein Whiteboard, das in Spalten und Swimlanes aufgeteilt wurde.
+Jede Spalte stellt eine Prozessphase dar, Swimlanes die verschiedenen Aufgabenbereiche der Aktivitäten. 
+Wenn eine Aufgabe in Ihren Workflow gelangt, wird sie auf einer Kanban-Karte platziert, die jede Spalte des Boards durchläuft. Deshalb nennt man es auch Kanban-Aufgaben-Board.[^3]
+
+Jedes Kanban-Board ist in drei grundlegende Abschnitte unterteilt, die den Status Ihrer Aufgaben anzeigen:
+
+* zu erledigen
+* in Arbeit
+* Erledigt 
+
+Zur detaillierten Abbildung des jeweiligen Prozesses können so viele Unterabschnitte erstellen, wie zur präzisen Visualierung des jeweiligen Workflows gebraucht 
+werden.
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
@@ -117,4 +139,5 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^3]: [Was ist ein Kanban Board?](https://kanbanize.com/de/kanban-ressourcen/kanban-erste-schritte/was-ist-kanban-board)
 
