@@ -28,8 +28,7 @@ Um ein selbstorganisiertes Team erfolgreich aufzubauen, braucht es an:
 
 Um jedoch eine Transition von traditionellen zu agilen Prozessen und Strukturen zu verwirklichen ist die Veränderung der ganzen Agilen Onion notwendig. Dafür ist ein Umdenken in Verantwortung und Entscheidungsfindung notwendig. 
 
-<img src="Selbstorganisierende_Teams/Agile Onion.png" alt="Agile Onion" width="600"/>
-BILD[^2] 
+<img src="Selbstorganisierende_Teams/Agile Onion.png" alt="Agile Onion" width="600"/>[^2] 
 
 Der Weg zu einem erfolgreichen und selbstorganisierenden Team lässt sich in zwei Phasen einteilen. In der ersten Phase müssen seitens der Unternehmensinhaber gewisse Rahmenbedingungen geschaffen werden. In der zweiten Phase wiederum werden im Dialog mit den Teams die Selbstorganisation weiter ausgebaut. 
 
