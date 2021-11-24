@@ -43,7 +43,7 @@ Daraus lassen sich Konsequenzen für das Unternehmen und die Projektleitung able
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Soziale Arbeit zwischen Wissenschaft und Profession](https://link.springer.com/content/pdf/10.1007%2F978-3-531-91741-2.pdf)
 
 # Quellen
 
