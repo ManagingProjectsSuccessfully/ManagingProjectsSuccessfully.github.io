@@ -15,9 +15,8 @@ Das **Minimum Viable Product** ist ein Entwicklungskonzept, das Anwendung im agi
 # Definition
 Ein Minimum Viable Product ist die erste Version eines Produktes beziehungsweise der erste Lösungsansatz eines bestehenden Problems, das auf den Markt gebracht wird. Es muss genügend [Features](https://www.caseking.de/glossar/f/feature) mit ausreichender Qualität enthalten, um eine Kundengruppe erwerben zu können. Im Vordergrund steht das Sammeln von möglichst vielen Informationen und Feedback, wie Kunden das neue Produkt verwenden.[^1][^3]
 
-[Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) 
-
 # Konzept des MVP
+Folgende Illustration von Henrik Kniberg zeigt zwei unterschiedliche Herangehensweisen zur Veranschaulichung des Minimum Viable Products. In diesem Beispiel wird davon ausgegangen, dass Menschen möglichst schnell von A nach B gelangen möchten. Die obere Reihe stellt das Missverständnis dar, das im Zusammenhang mit dem MVP oft vorliegt. In vielen Projekten wird der Fehler begangen, eine Lösung zu einem Problem, in diesem Fall das Auto, bereits vorzudefinieren. Wenn die benötigten Ressourcen nicht vorhanden sind, werden die Element nacheinander zusammengefügt und als MVP verkauft, beispielsweis einzelne Bauteile. Dadurch ist in keiner Iterationsstufe eine vollständige beziehungsweise funktionierende Lösung gegeben. Dem Kunden wird dementsprechend während dem Entwicklungsprozess kein Nutzen gebracht. In der unteren Reihe wird hauptsächlich auf die Bedürfnisse der Kunden geachtet, und zwar schnell von A nach B zu gelangen. Anhand dessen wird die erste schlichte Lösungsvariante erstellt, die diese Anforderungen erfüllt, den Nutzer aber noch nicht zufriedenstellen muss. Anhand neuen Feedbacks werden die Lösungen weiter überarbeitet und abgestimmt bis der Kunde zufrieden ist.
 
 ![Darstellung](Minimum_Viable_Product/MVP_Darstellung.png)
 
