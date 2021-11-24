@@ -5,11 +5,11 @@ author: 5SY5
 anrechnung: k 
 ---
 
-Die Circular Economy oder auch Kreislaufwirtschaft ist ein Wirtschaftsmodell, das danach ausgerichtet ist den Resourceneinsatz, die Abfallproduktion, die Emissionserzeugnisse zu 
-minimieren. Dabei ist das Ziel die maximale Effizienz bei der Nutzung endlicher Ressourcen, den Übergang zu erneuerbaren Ressourcen und auch die volle Ausschöpfung von 
-Materialien und Produkten bis zum Ende ihres Lebenszyklus zu erreichen.[^3] Im allgemeinen beschirebt die Circular Economy ein regeneratives Wirtschaftssystem.
-Das dazustehende Gegenüber ist die Linearwirtschaft, welches ein "take-make-dispose" Modell beschreibt - in anderen Worten eine Wegwerfwirtschaft darstellt. Dabei zielt die 
-Circular Economy nicht nur darauf ab, die Mängel einer linearen Wirtschaft auszubessern, sondern stellt auch ein systematischen Wandel dar, der das Wirtschaftssystem vollständig 
+Die Circular Economy oder auch Kreislaufwirtschaft ist ein Wirtschaftsmodell, das danach ausgerichtet ist den Ressourceneinsatz, die Abfallproduktion, die Emissionserzeugnisse 
+zu minimieren. Dabei ist das Ziel die maximale Effizienz bei der Nutzung endlicher Ressourcen, den Übergang zu erneuerbaren Ressourcen und auch die volle Ausschöpfung von 
+Materialien und Produkten bis zum Ende ihres Lebenszyklus zu erreichen.[^3] Im allgemeinen beschreibt die Circular Economy ein regeneratives Wirtschaftssystem.
+Das dazu stehende Gegenüber ist die Linearwirtschaft, welches ein "take-make-dispose" Modell beschreibt - in anderen Worten eine Wegwerfwirtschaft darstellt. Dabei zielt die 
+Circular Economy nicht nur darauf ab, die Mängel einer linearen Wirtschaft auszubessern, sondern stellt auch ein systematischer Wandel dar, der das Wirtschaftssystem vollständig 
 verändert.[^1]
 
 ![image](Projektmanagement_fuer_Circular_Economy/R.jpg)
@@ -28,14 +28,13 @@ werden. [^2]
 
 2. Hohe effiziente Nutzung der Ressourcen
 
-Die Circular Economy hatt mitunter als Ziel, die Nutzungsdauer von Produkten und Materialien zu verlängern. Dies kann nur dann funktionieren, indem ein Kreislauf für die in der 
-Wirtschaft zirkulierenden Materialien und Produkte ensteht. Dabei erreicht man das Ziel durch die aktive Wiederverwendung, Reparatur und Wiederaufbereitung der verwendeten 
-Produkte und Materialien.[^1]
+Die Circular Economy hat mitunter als Ziel, die Lebenszyklen, sowie die Nutzungsdauer von Produkten und Materialien zu verlängern. Dies kann nur dann funktionieren, indem ein 
+Kreislauf für die in der Wirtschaft zirkulierenden Materialien und Produkte entsteht. Dabei erreicht man das Ziel durch die aktive Wiederverwendung, Reparatur und 
+Wiederaufbereitung der verwendeten Produkte und Materialien.[^1]
 
-3. Recycling
+3. Recycling/Regeneration
 
-Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und besteht darauß dem Ökosystem Nährstoffe zurückzugeben. Heißt: Ein ständiges nehmen führt zu nichts es, muss auch 
-wieder etwas zurückgegeben werden.[^2]
+Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und deutet darauf hin bewusstes Recyclen anzuwenden, um so dem Ökosystem etwas zurück zugeben. Heißt: Die Ressourcen sind begrenzt und ein stäniges nehmen wird den Zustand verschlimmern.[^2]
 
 
 # Denkansätze zur Circular Economy
@@ -43,7 +42,7 @@ wieder etwas zurückgegeben werden.[^2]
 1. Performance Economy
 
 Dieser Denkansatz beschreibt eine Kreislaufwirtschaft und ihre Auswirkungen auf Abfallvermeidung, rationelle Nutzung begrenzter Ressourcen, die Schaffung neuer Arbeitsplätze und
-den Wachstum.[^7]
+das Wachstum.[^7]
 
 2. Öko-industrielle Entwicklung
 
@@ -57,8 +56,8 @@ Wirtschaftssystem.[^8]
 
 4. Biomimicry
 
-Man spricht hierbei von Innovationen die von der Natur inspriert werden. 
-Die drie Grundprinzipien von Biomimicry.
+Man spricht hierbei von Innovationen, die von der Natur inspiriert werden. 
+Die drei Grundprinzipien von Biomimicry.
 - Die Natur als Modell für die Lösung menschlicher Probleme.
 - Die Natur als Messlatte.
 - Die Natur als Mentor.[^8]
@@ -79,11 +78,6 @@ verschiedene Produkte in Kreisläufen fließen.
 
 Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürlichen Ressourcen durch Innovation und Unternehmertum.[^7]
 
-# Technologien in der Circular Economy
-
-Im folgenden werden die Top 5 der Circular Economy basierten Technologien aufgezeigt
-
-1.
 
 # Chancen einer Kreislaufwirtschaft
 
