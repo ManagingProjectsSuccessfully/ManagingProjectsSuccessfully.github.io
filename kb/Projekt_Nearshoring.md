@@ -13,6 +13,7 @@ Ein Grund für die Delokalisierung von Unternehmen ist, dass in den Industrienat
 
 ![Abbildung_1](Projekt_Nearshoring/Nearshoring.jpg)
 
+Die Abbildung zeigt, dass Deutschland ein sehr hohes Einkommensniveau hat und im Vergleich dazu die osteuropäischen Staaten deutlich geringere Löhne auszahlen. Rumänien bietet die niedrigsten Löhne für Projektmanager und Programmierer und stellt sich als kostengünstigste VAriante da. Jedoch sind die Gehaltsunterschiede zwischen Tschchien, Polen, Ungarn und Rumänien so niedrig, dass es alle valide Optionen sind und andere Faktoren ausschlaggebend. Im weiteren Verlauf werden die Vor- und nachteile beleuchtet.
 
 ## Vorteile
 * Die Kommunikation und Kooperation wird erleichtert und verbessert, weil es eine größere kulturelle und räumliche Nähe gibt. Die Zeitzone ist nahezu gleich und somit ist der Zeitunterschied deutlich kleiner als zu fernöstlichen Ländern. Aber auch durch geringere sprachliche Barrieren wird mehr Nähe zu Kunden auf dem jeweiligen Markt aufgebaut.
