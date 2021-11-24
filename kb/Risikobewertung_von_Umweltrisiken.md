@@ -42,14 +42,13 @@ Eine Maßnahme zur Vermeidung und Minimierung von Umweltrisiken und ihrer Schäd
 Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten gespart werden können:
 * [UMAR](http://nest-umar.net/)
 * [Mavo BauCycle](https://www.baucycle.de/)
-* [Link auf diese Seite](Risikobewertung_von_Umweltrisiken.md)
 
 # Weiterführende Literatur
 
 * [Analyse und Beurteilung von betrieblichen Umweltrisiken](http://www.uni-kassel.de/upress/online/frei/978-3-933146-09-0.volltext.frei.pdf)
 * [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md)
 * [Nachhaltigkeit und Umweltrisiken](https://home.uni-leipzig.de/energy/energie-grundlagen/18.html)
-
+* [Nachhaltigkeit in Unternehmen: Vorteile](https://www.starting-up.de/praxis/geschaeftsausstattung/registrierkassen.html)
 
 # Quellen
 
