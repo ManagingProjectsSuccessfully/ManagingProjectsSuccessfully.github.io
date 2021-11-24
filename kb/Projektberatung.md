@@ -37,14 +37,18 @@ Mögliche Gründe für diese hohe Misserfolgsquote können sehr vielseitig sein 
    
    *häufigste Gründe für das Scheitern von Projekten*
 
-# Aspekt 2
+# Die gängigsten Arten von Projektberatung
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe, die von sehr vielen Einflussfaktoren und Ereignissen im Markt abhängen. Beispiele hierfür sind der Markt, Kunden, politische Gegebenheiten oder auch die organisatorische Struktur der Firma. Aufgrund dieser multidimensionalen und individuellen Einflussgrößen haben sich verschiedene Projektberatungs-Varianten mit unterschiedlichen Charakteristika entwickelt, die sehr häufig als unterstützende Kraft in Projekten eingesetzt werden. Diese werden  regelmäßig im Rahmen der individuellen Personalentwicklung im Unternehmen eingebunden[^6]:
+
+
+|  Projekt-Coaching  |  Projekt-Mentoring  | 
+|  ----------------  |  -----------------  |  
+|  Expertenberatung für eingesetzte Projektmanagementwerkzeuge  |  Beratungs- und Förderungsprozess einer neu im Unternehmen arbeitenden Person von unternehmenserfahrener Person |       
+|  Klient verbessert Führungskraft und Rolle als Manager zwischen Projekt und Projekteinflüssen  |  unerfahrene Person wird in Unternehmensweisen eingearbeitet  |
+|  Coach hilft Klient, seine Kompetenzen effektiver und bestmöglich einzusetzen  |  Mentor stellt bewährtes Wissen zur Verfügung und gibt Ratschläge      |        
+|  Coach wirkt außerhalb des Unternehmens an Projekten mit  | Mentor wirkt innerhalb des Unternehmens an Projekten mit |        
+
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -90,4 +94,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^3]: https://cpc-services.de/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1NSPMrDkeYPs1tsYUfjeslCH27blFqOtn48FnbUaF3-GZZil9gjXLBoCS64QAvD_BwE
 [^4]: https://www.pmcc-consulting.com/kompetenzen/projektmanagement/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1Nab-UuWxjKJAyHdjgzy5-NMN--GWtfk7fFmFaP0GTt2OsT5lxPMThoCvlUQAvD_BwE
 [^5]: https://smodin.io/de/text-automatisch-in-deutscher-sprache-umformulieren
+[^6]: http://docplayer.org/11051318-6-5-13-projektcoaching-projektmentoring-oder-doch-kollegiale-projektberatung-wann-passt-welches-konzept-der-einzelberatung.html
 
