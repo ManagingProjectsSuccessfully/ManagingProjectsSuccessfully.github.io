@@ -9,7 +9,7 @@ Kurzbeschreibung zu Vorgehensmodelle
 
 # Begriffsdefinition Vorgehensmodell
 Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, Rollen, wer wann was macht und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge.
-Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geignetes auszuwählen ist keine leichte Sache. Es gibt untreschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur Anpassung. Es gibt einige Standard-Vorgehensmodelle ebenso wie abgewandelte z.B. firmenspezifische Vorgehensmdoelle. (Nicht abgewandelt, das einfach löschen) Genau.
+Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geignetes auszuwählen ist keine leichte Sache. Es gibt unterschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur Anpassung. Es gibt einige Standard-Vorgehensmodelle ebenso wie abgewandelte z.B. firmenspezifische Vorgehensmdoelle. (Nicht abgewandelt, das einfach löschen) Genau.
 # Arten von VM
 Vorgehensmodelle können in "klassische" und "agile" Vorgehensweisen, sowie hybride Varianten unterscheiden werden. Die Terminologie ist hierbei analog zur Vorlesung Managing Projects Successfully gewählt. In der Literatur findet sich jedoch eine Vielzahl anderer Bezeichnungen und unterschiedliche Einteilungen. Einen Überblick über mögliche Klassifizerungen liefert Tabelle 1.
 
@@ -25,8 +25,8 @@ Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
 |                         |                                                     |empirisch           |                  |                     |                 |
 
 ## "Klassische" Vorgehensmodelle
-Klassische Vorgehensmodelle sind Phasenmodelle, die ein sequentielles Vorghen haben. Eine Phase muss dabei abgeschlossen sein, bevor eine nächste beginnt. Sie werden auch  "herrkömmlich", oder lineare VM genannt.
-Beispeiele für klassische VM sind das Wasserfallmodell *Link* oder das V-Modell. **Vorteil** von klassischen VM ist die einfache Struktur [^90], die es schnell ermöglicht. **Nachteil** Auch wenn in Phasenmodellen häufig eine Rückkopllung zwischen benachbarten Phasen möglich ist, also dass bei Probllemen /Änderungen eine Phase zurückgesprungen werden kann, ist ein Zurückspringen zu anfänglichen Phasen schwer
+Klassische Vorgehensmodelle sind Phasenmodelle, die ein sequentielles Vorgehen haben. Eine Phase muss dabei abgeschlossen sein, bevor eine nächste beginnt.[^30] Sie werden auch  "herkömmlich", oder lineare VM genannt.
+Beispiele für klassische VM sind das Wasserfallmodell *Link* oder das V-Modell. **Vorteil** von klassischen VM ist die einfache Struktur [^90], die es schnell ermöglicht. **Nachteil** Auch wenn in Phasenmodellen häufig eine Rückkopplung zwischen benachbarten Phasen möglich ist, also dass bei Probllemen /Änderungen eine Phase zurückgesprungen werden kann, ist ein Zurückspringen zu anfänglichen Phasen schwer
 ## "Agile" Vorgehensmodelle
 Agile VM beruhen auf einem iterativen Vorgehen. Beispeiele für agile Vorgehensmodelle sind Scrum *Link* oder Kanban.
 P.S. Die Bezeichnung "agile" VM wirdist weit verbreitet, doch es gibt auch Literatur, die diesen Begriff extra nicht wählen. Denn agil ist ein größeres Framework/Mindset, und werden nicht  . Aber es gibt dennoch UNterschiede c
