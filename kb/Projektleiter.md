@@ -27,7 +27,7 @@ Ein Projektleiter hat verschiedene Aufgaben zu leisten, sei es während der Proj
 1. Projektdefiniton:
 Sofern die Ziele nicht konkret durch einen Arbeitgeber definiert wurden, muss der Projektleiter diese möglichst realistisch und präzise festlegen. Zudem ist er auch für die Dokumentation des Projektauftrags zuständig, um sie dem Lenkungsausschuss für die Genehmigung des Projekts vorweisen zu können. 
 
-## Projektorganisation:
+2. Projektorganisation:
 Zur Projektdefinition zählen vor allem die Integration des Projektes in die bestehende Unternehmensstruktur, die Rollendefinition, die Zusammensetzung des Teams unter Berücksichtigung der Qualität sowie Anzahl der Mitglieder, weil nur in Gruppen bis zu acht Mitgliedern ein effizientes Arbeiten gilt. 
 
 ## Projektplanung:
@@ -42,6 +42,14 @@ Die Teammitglieder setzen sich oft von unterschiedlichen Abteilungen zusammen, w
 
 ## Projektcontrolling 
 Im Zusammenhang mit Projektcontrolling übergibt der Projektleiter die Aufgabe das Projekt zu überwachen und zu dokumentieren an ein dafür qualifiziertes Teammitglied. 
+
+7. Mitarbeiterführung:
+Auch wenn ein Projektleiter nicht unbedingt der direkte Vorgesetzte der Teammitglieder ist, stehen ihm jedoch folgende Kompetenzen zu:
+  1. Die Planung und Durchführung der Weiterbildungsmaßnahmen des Teams 
+  2. Die Zuweisung von Projektteilaufgaben an die Teammitglieder 
+  3. Das Mitsprachrecht für die Urlaubs- und Abwesenheitsplanung von Mitgliedern 
+  4. Motivator und Initiator des Teams 
+
 
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
