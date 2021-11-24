@@ -19,7 +19,7 @@ Konzeptionsphase | Designphase | Projektphase (vor Baubeginn) | Beschaffungsphas
 Das Bauprojektmanagement kann als die Urform des [Projektmanagements](Projektmanagement.md) betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren. 
 Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements[^1]. Es gibt insgesamt drei Funktionäre bei einem Bauprojekt: Bauherr, Planer und die Ausführenden (z.B. Bauunternehmer)[^2].
 
-## Aufgaben des Bauprojektmanagements
+## Aufgaben des Bauprojektmanagements [^1]
 
 * Abstimmung aller Entscheidungen mit dem Bauherren
 * Planen des Bauwerks in unterschiedlichen Detaillierungsgraden
@@ -29,7 +29,6 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 * Ausschreibung, Vergabe und Abrechnung der Bauleistungen (AVA)
 * Überwachung und Steuerung des Bauprozesses
 * Abnahme und Übergabe des fertigen Gebäudes an den Bauherren und an das nachgelagerte Facility Management 
-[^1]
 
 ## Klassisches Projektmanagement bei Bauprojekten
 ## Agiles Projektmanagament bei Bauprojekten
@@ -40,6 +39,10 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 # Bachelorstudiengang Projektmanagement Bau
 
 # Begriffsdefinitionen
+1. Generalübernehmer: gleichzusetzen mit Totalunternehmer; (General-)Planer, der zusätzlich die Bauaufgaben übernimmt [^2]
+2. Generalunternehmer: vereint alle Baugewerke in einem Unternehmen [^2]
+3. Projektsteuerer: Ein Projektsteuerer überwacht und koordiniert, um die Ist-Situation in einem Bauprojekt an die Soll-Situation anzunähern und dadurch das Projekt hinsichtlich bestimmter Bereiche, wie Termineinhaltung und Kosten zu optimieren [^4]
+
 
 # Aspekt n
 
@@ -65,3 +68,4 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 [^1]: [Bauprojektmanagement](https://www.projektmagazin.de/glossarterm/bauprojektmanagement)
 [^2]: [Bauprojekt: Wer macht was? Wen brauche ich? Bauunternehmer, Planer, Bauherr / Bauwerkplan erklärt](https://www.youtube.com/watch?v=UVjm9xbqXws)
 [^3]: [Die 6 Phasen eines Bauprojekts](https://www.letsbuild.com/de/blog/die-6-phasen-eines-bauprojekts)
+[^4]: [Was macht ein Projektsteuerer?](https://www.freelancermap.de/blog/was-macht-ein-projektsteuerer/)
