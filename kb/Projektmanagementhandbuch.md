@@ -6,12 +6,16 @@ anrechnung: k
 ---
 
 
-Projektmanagementhandbuch
+# Projektmanagementhandbuch
 
 
 Das Ziel eines Projektmanagementhandbuchs ist es, die Grundlagen für die Durchführung der verschiedenen Aufgaben in Projekten zu schaffen. Es steigert die Effizienz der Projektarbeit, indem es Verfahrensabläufe festlegt und somit alle Projektbeteiligten entlastet[^1]. 
 Nach der Definition der DIN 69901-5, ist ein Projektmanagementhandbuch eine „Zusammenstellung von Regelungen, die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten“ und ist somit ein wichtiger Teil des klassischen Projektmanagements[^2]. 
-(https://de.wikipedia.org/wiki/Projektmanagementhandbuch
+
+# Abgrenzung Projektmanagementhandbuch und Projekthandbuch
+
+Das Projektmanagementhandbuch ist eine "Zusammenstellung von Regelungen, die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten". Es bezieht sich also im Allgemeinem auf Regelungen für die Durchführung eines Projekts in einem Unternehmen. (wiki PM Handbuch). Im Gegensatz dazu, bezieht sich das Projekthandbuch auf die „Zusammenstellung von Informationen und Regelungen, die für die Planung und Durchführung eines bestimmten Projekts gelten sollen“ und enthält damit spezifische Regelungen, welche nur für ein spezielles Projekt gelten.
+Ein Projektmanagementhandbuch beschreibt somit Verfahren und Methoden eines Projekts, welche im Projekthandbuch Anwendung finden (http://www.hs-augsburg.de/pm-bau/Homepage/3-1%20Projekthandbuch.html).
 
 
 
@@ -108,7 +112,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: https://www.business-wissen.de/artikel/projektmanagement-so-erstellen-sie-ein-projektmanagement-handbuch/ 
-[^2]: https://de.wikipedia.org/wiki/Projektmanagementhandbuch [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: https://de.wikipedia.org/wiki/Projektmanagementhandbuch 
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
