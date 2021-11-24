@@ -51,13 +51,13 @@ Nun zu den großen Vorteilen des Projektstrukturplanes. Er gibt eine sehr gute �
 * [ManagingProjectsSuccessfully.github.io/kb/Projekthandbuch.md](Projekthandbuch.md)
 * [ManagingProjectsSuccessfully.github.io/kb/Projektstart.md](Projektstart.md)
 * [ManagingProjectsSuccessfully.github.io/kb/Projektphasen_klassisch.md](Projektphasen_klassisch.md)
-* [ManagingProjectsSuccessfully.github.io/kb/Projektplanung.md](Projektplanung.md) Verlinkungen zu angrenzenden Themen
+* [ManagingProjectsSuccessfully.github.io/kb/Projektplanung.md](Projektplanung.md) 
 
 # Weiterführende Literatur
 
 * Youtube-Kanal mit vielen interessanten Videos zum Projektstrukturplan: https://www.youtube.com/c/PMBackstage/videosWeiterfuehrende
 * Weiterführende Informationen zur Terminplanung/Ablaufplanung: https://mediencommunity.de/system/files/wbts/projektmanagement/le03/12_einen_projektstukturplan_erstellen.html 
-* Podcast "Projekte leicht gemacht": https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektplanung/projektstrukturplan/#podcast-player
+* Podcast "Projekte leicht gemacht": https://projekteleichtgemacht.podigee.io/9-der-projektstrukturplan-teil-1-nutzen-und-aufbau/embed?context=external">
 * Wikipedia Eintrag: https://de.wikipedia.org/wiki/Projektstrukturplan
 
 # Quellen
