@@ -8,7 +8,7 @@ anrechnung: k
 ## Vorwort
 
 Heutzutage müssen sich viele Unternehmen den Herausforderungen des [Big Data](https://de.wikipedia.org/wiki/Big_Data) Zeitalters stellen. 
-Cloud-Anwendungen ermöglichen mittlerweile die Speicherung riesiger Datenmengen, somit ist nicht mehr die Speicherung an sich die 
+[Cloud-Anwendungen](https://de.wikipedia.org/wiki/Cloud_Computing) ermöglichen mittlerweile die Speicherung riesiger Datenmengen, somit ist nicht mehr die Speicherung an sich die 
 Herausforderung, sondern die Organisation der Datenmengen. Genau dieser Herausforderung stellt sich das [Wissensmanagement](Wissensmanagament.md). 
 Im Zuge der Digitalisierung ist auch Wissensmanagementsoftware nicht mehr wegzudenken.[^1]
 
@@ -27,7 +27,7 @@ Zusammengefasst kann man also sagen: „Das Wesen des Managements ist es, Wissen
 
 ## Wissensmanagementsoftware
 
-Wissensmanagementsoftware (Knowledge-Management-Software) kann der Enterprise-Content-Management-Software untergeordnet werden.[^5]
+Wissensmanagementsoftware (Knowledge-Management-Software) kann der [Enterprise-Content-Management-Software](https://de.wikipedia.org/wiki/Enterprise-Content-Management-System) untergeordnet werden.[^5]
 Kurz gesagt, kann Wissensmanagementsoftware als eine Plattform für den Wissenstransfer zwischen Internen, aber auch mit Externen verstanden werden. 
 Wissensmanagementsoftware bietet Unternehmen somit eine digitale Unterstützung für die Herausforderungen im Wissensmanagement.[^6]
 Das Angebot reicht dabei von kleinen Softwarepaketen für einzelne Personen, bis zu hochspezialisierter Unternehmenssoftware für Großunternehmen. 
@@ -44,7 +44,7 @@ Anhand von diesem Beispiel soll unter Betrachtung der folgenden Grafik, die Grun
 
 Wisdom+ Wissensmanagementsoftware[^1]
 
-Das Grundprodukt und somit der Kern der Plattform ist natürlich die Knowledge Base, hier wird das gesamte vorhandene Wissen zentral 
+Das Grundprodukt und somit der Kern der Plattform ist natürlich die [Knowledge Base](https://de.wikipedia.org/wiki/Wissensdatenbank), hier wird das gesamte vorhandene Wissen zentral 
 an einem Ort gespeichert (Single Source of Information). Durch modernes Datenmanagement (DM) können hier Daten analysiert, kombiniert und verteilt werden. 
 Zusätzlich besteht die Möglichkeit Intelligente Automatisierungen zur Optimierung von Arbeitsprozessen zu integrieren (IA).  
 Die Knowledge Base wird dauerhaft aktualisiert und es können zu jedem beliebigen Zeitpunkt Echtzeitdaten abgerufen werden (Real Time Knowledge). 
