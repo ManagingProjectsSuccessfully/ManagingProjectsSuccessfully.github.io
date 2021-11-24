@@ -87,6 +87,5 @@ Nicht selten wird diese Phase manchmal auch als "Trauerphase" bezeichnet, da die
 [^1]: [Team Development Cycle – from Forming to Performing](https://teamhood.com/team-performance-resources/team-development-cycle-from-forming-to-performing/)
 [^2]: [Das Phasenmodell nach Tuckman im Überblick](https://projekte-leicht-gemacht.de/blog/softskills/fuehrung/teams/die-phasen-der-teamentwicklung-wie-produktiv-ist-dein-team/)
 [^3]: [Tuckmans Phasenmodell)](https://teamentwicklung-lab.de/tuckman-phasenmodell)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: [Stages of Small-Group Development Revisited](https://webspace.science.uu.nl/~daeme101/Stages%20of%20Small-Group%20Development%20Revisted.pdf)
 
