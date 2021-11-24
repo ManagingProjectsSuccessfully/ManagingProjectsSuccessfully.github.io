@@ -1,6 +1,6 @@
 ---
 title: Negativkonferenz
-tags: agil klassisch
+tags: klassisch
 author: LucaH12
 anrechnung: k 
 ---
@@ -58,6 +58,8 @@ werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140
 # Siehe auch
 
 [Kopfstandtechnik](Kopfstandtechnik.md)
+[Provokationstechnik](Provokationstechnik.md)
+[Mindmapping](Mindmapping.md)
 
 # Weiterführende Literatur
 
