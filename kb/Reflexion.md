@@ -66,19 +66,19 @@ Zusammenfassend bedeutet eine ausführliche Reflexion für neue Projekte folgend
 Bei so vielen positiven Aspekten kann man abschließend sagen, dass es durchaus Sinn macht, das zurückliegende Projekt Revue passieren zu lassen, bevor man den erfolgreichen Abschluss des Projektes zusammen mit dem Team feiert.
 
 
-
-
 # Siehe auch
 
 * [Projektabschluss](Projektabschluss.md)
 * [Lesson Learned](Lessons_Learned.md)
 * [Projektabschlussbericht](Projektabschlussbericht.md)
 
+
 # Weiterführende Literatur
 
 * [Anbari, F.T., Carayannis, E.G. and Voetsch, R.J., 2008. Post-project reviews as a key project management competence. Technovation, 28(10), pp.633-643](https://www.researchgate.net/profile/Robert-Voetsch/publication/245131310_Post-project_reviews_as_a_key_project_management_competence/links/5ebab3a4458515626ca18fe0/Post-project-reviews-as-a-key-project-management-competence.pdf)
 * [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 * [Oppermann, A., 2011. Ein Unternehmen auf dem Weg zum Projektmanagement: Reflexion einer empirischen Begleitung.](https://hildok.bsz-bw.de/files/131/386760373.pdf)
+
 
 # Quellen
 
