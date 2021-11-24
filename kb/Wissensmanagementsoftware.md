@@ -27,11 +27,11 @@ Zusammengefasst kann man also sagen: „Das Wesen des Managements ist es, Wissen
 
 ## Wissensmanagementsoftware
 
-Wissensmanagementsoftware (Knowledge-Management-Software) kann der Enterprise-Content-Management-Software untergeordnet werden 6.
+Wissensmanagementsoftware (Knowledge-Management-Software) kann der Enterprise-Content-Management-Software untergeordnet werden.[^5]
 Kurz gesagt, kann Wissensmanagementsoftware als eine Plattform für den Wissenstransfer zwischen Internen, aber auch mit Externen verstanden werden. 
-Wissensmanagementsoftware bietet Unternehmen somit eine digitale Unterstützung für die Herausforderungen im Wissensmanagement 7.
+Wissensmanagementsoftware bietet Unternehmen somit eine digitale Unterstützung für die Herausforderungen im Wissensmanagement.[^6]
 Das Angebot reicht dabei von kleinen Softwarepaketen für einzelne Personen, bis zu hochspezialisierter Unternehmenssoftware für Großunternehmen. 
-Erfolgreiche Wissensmanagementsoftware kann leicht in bestehende Unternehmensstrukturen integriert werden und hat das Potenzial mit dem Unternehmen zu wachsen 6.
+Erfolgreiche Wissensmanagementsoftware kann leicht in bestehende Unternehmensstrukturen integriert werden und hat das Potenzial mit dem Unternehmen zu wachsen.[^5]
 
 ### Wissensmanagementsoftware am Beispiel der Wisdom+ Wissensmanagement Software
 
@@ -52,7 +52,7 @@ Die Produkte Digital Dashboard, Digital Communications, eLearning und Digital Wo
 und den Mitarbeitern intensivieren. Genauer gesagt, sollen die Produkte positiv zur Weiterbildung, Vernetzung und Motivation der Mitarbeiter beitragen. 
 Auf der anderen Seite stehen die Produkte eCommerce and Sales Support, Digital Customer Communication, Helpcenter with FAQ and Chat Bot und Multimedia User Guide. 
 Diese Produkte sollen die Plattform in den Bereichen Vertrieb, Kundensupport und Kundenbindung erweitern. Damit schließt sich der Kreis und wir können
-ein Prinzip erkennen, wie WMS ein Unternehmen im Bereich WM unterstützt 11. 
+ein Prinzip erkennen, wie WMS ein Unternehmen im Bereich WM unterstützt.[^1] 
 
 
 
@@ -160,8 +160,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: 
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [WISDOM Wissensmanagement Plattform](https://zehnplus.ch/de/wisdom-wissensmanagement-plattform)
+[^2]: [Wissensmanagement Blog](https://www.wbi-wissensmanagement.com/was-ist-wissen/)
+[^3]: [Knowledge Management](https://www.valamis.com/de/hub/wissensmanagement#knowledge-management-systems)
+[^4]: [Wirtschaftszitate Wissensmanagement](https://www.wirtschaftszitate.de/zitate/wissensmanagement/)
+[^5]: [Wissensmanagement-Software](https://www.wikide.wiki/wiki/en/Knowledge_management_software)
 
