@@ -2,15 +2,18 @@
 title: Projektleiter
 tags: agil klassisch
 author: IremAkin
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Ein Projektleiter
+Im klassischen Projektmanagement ist der Projektleiter für die Steuerung des Projektes und für die operative Planung zuständig. Für die Planung bestimmt er die Ziele und übernimmt das Management der Ressourcen. Insbesondere ist er für die Termin-, Kosten- und Sachziele unter der Berücksichtigung der angestrebten Produktqualität verantwortlich.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Die zwei Arten ein Projekt zu leiten:
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+* In hierarchiefreien Projektgruppen hat der Projektleiter die Rolle eines Initiators und Moderators. Hierbei tragen alle Teammitglieder gemeinsam die Verantwortung für die Erreichung des Projektergebnisses und sind somit gleichgestellt. 
+* Bei hierarchischen Projektgruppen wird ein Teammitglied von einem Vorgesetzten oder einem Team auserwählt und mit einer höheren Verantwortung und besonderer Kompetenz ausgestattet. Die Breite dieser Kompetenz kann auch bis zur uneingeschränkten Führung der jeweiligen Projektgruppe führen. 
+Der folgende Beitrag fokussiert sich genau auf solch einen Projektleiter, einer klassischen und hierarchischen Projektgruppe.[^1]
+
+
 
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
