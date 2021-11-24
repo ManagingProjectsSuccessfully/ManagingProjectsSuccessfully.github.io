@@ -17,7 +17,7 @@ Mögliche Ursachen für Änderungen sind:
 * die Veränderung äußerer Faktoren (z.B. Markt, Politik, Technik, Wissenschaft, Gesetzte, Umwelt)
 * der Widerstand von Stakeholdern
 
-"Das Änderungsmanagement umfasst daher die Behandlung und Steuerung von Änderungen im Verlauf eines Projektes."[^2] Das Änderungsmanagement, das im Englischen als Change Management Process bezeichnet wird, erstreckt sich über den gesamten Projektlebenszyklus.
+"Das Änderungsmanagement umfasst daher die Behandlung und Steuerung von Änderungen im Verlauf eines Projektes."[^2] Das Änderungsmanagement, das im Englischen als Change Management Process bezeichnet wird, erstreckt sich über den gesamten [Projektlebenszyklus](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektphasen_klassisch.md).
 
 ## Welche Aufgaben beinhaltet das Änderungsmanagement
 
@@ -25,7 +25,7 @@ Mögliche Ursachen für Änderungen sind:
 
 *beispielhafter Änderungsworkflow*[^3]
 
-Das Änderungsmanagement beginnt damit, dass eine Änderung im Projekt notwendig ist. Die Änderung kann entweder von der Seite des Auftragsgebers an das zuständige Unternehmen herangetragen werden oder beim Auftragnehmer selbst erkannt werden. Damit im Unternehmen selbst notwenige Änderungen erkannt werden können ist eine genaue [Aufgabenstellung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aufgabenteilung.md) notwendig. Im Anschluss daran wird die Änderung genauer analysiert. Diese Analyse beinhaltet zum Beispiel den exakten Inhalt und den Größenumfang der Änderung. Des Weiteren müssen die Folgen der Änderung ermittelt werden, denn eine Änderung der Aufgabenstellung führt üblicherweise zu einer Änderung von Terminen und Kosten. Die Kombination aus Leistungsänderung, Kostenänderung und Terminänderung, die sich daraus ergibt, kann dann mit dem Auftraggeber abgesprochen werden.
+Das Änderungsmanagement beginnt damit, dass eine Änderung im Projekt notwendig ist. Die Änderung kann entweder von der Seite des Auftragsgebers an das zuständige Unternehmen herangetragen werden oder beim Auftragnehmer selbst erkannt werden. Damit im Unternehmen selbst notwenige Änderungen erkannt werden können ist eine genaue [Aufgabenstellung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aufgabenteilung.md) notwendig. Im Anschluss daran wird die Änderung genauer analysiert. Diese Analyse beinhaltet zum Beispiel den exakten Inhalt und den Größenumfang der Änderung. Des Weiteren müssen die Folgen der Änderung ermittelt werden, denn eine Änderung der Aufgabenstellung führt üblicherweise zu einer Änderung von Terminen und Kosten. Die Kombination aus Leistungsänderung, [Kostenänderung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md) und Terminänderung, die sich daraus ergibt, kann dann mit dem Auftraggeber [abgesprochen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kommunikation_Projektbeteiligte.md) werden.
 
 ## Was ist beim Änderungsmanagement zu beachten
 
