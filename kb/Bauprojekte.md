@@ -33,7 +33,7 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 ## Das beste Projektmanagement für Bauprojekte
 Um das bessere Projektmanagement herauszufinden, muss man das klassische Projektmanagement und das agile Projektmanagement miteinander vergleichen und die Unterschiede und Gemeinsamkeiten näher betrachten.
 Der Vertreter des klassischen Projektmanagements ist das [Wasserfallmodell](Wasserfall_Modell.md). Dieses hat einen einfachen Zugang, ist leicht verständlich und besitzt eine klare Struktur. Jedoch ist bei diesem Modell der [Dokumentationsaufwand](Projektdokumentation.md) sehr groß. Außerdem werden die Kunden bzw. Endbenutzer kaum in das Projekt integriert. [^5]
-Das agile Projektmanagement ist vorallem in der Planungsphase von Bauvorhaben sinnvoll, da dort eine hohe Dynamik herrscht und diese Art von Projektmanagement die Effektivität und die Effizienz dort erhöhen kann.
+Das agile Projektmanagement ist vorallem in der Planungsphase von Bauvorhaben sinnvoll, da dort eine hohe Dynamik herrscht und diese Art von Projektmanagement die Effektivität und die Effizienz dort erhöhen kann. [^6]
 
 # Gescheiterte Bauprojekte
 Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md)
