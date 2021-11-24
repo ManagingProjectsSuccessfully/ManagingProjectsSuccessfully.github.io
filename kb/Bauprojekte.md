@@ -5,8 +5,11 @@ author: Constll
 anrechnung: k
 ---
 
+# Bauprojekte
 Ein Bauprojekt, auch Bauvorhaben genannt, beschreibt die Errichtung eines in der Regel einmaligen Bauwerks.
 
+## Phasen eines Bauprojekts
+[^7]
 
 # Projektmanagement bei Bauprojekten
 
@@ -123,3 +126,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 [^5]: [Bauprojektmanagement](https://www.projektmagazin.de/glossarterm/bauprojektmanagement)
 [^6]: [Bauprojekt: Wer macht was? Wen brauche ich? Bauunternehmer, Planer, Bauherr / Bauwerkplan erklärt](https://www.youtube.com/watch?v=UVjm9xbqXws)
+[^7]: [Die 6 Phasen eines Bauprojekts](https://www.letsbuild.com/de/blog/die-6-phasen-eines-bauprojekts)
