@@ -33,7 +33,7 @@ Eine tatsächliche Austauschbarkeit liegt ausnahmsweise bei denjenigen Aufgaben 
 *Abbildung 1: Arbeitszeit und Arbeitskräfte aufteilbar*[^1]
 
 
-Wenn aber eine Aufgabe in einer bestimmten Reihenfolge erfolgt und deshalb nicht aufteilbar ist, dann hat jede hinzugefügte Anstrengung keinen Einfluss auf die Zeit (Abbildung 2). (QUEEEEEEELLEEEE)
+Erfolgt aber eine Aufgabe in einer bestimmten Reihenfolge und ist deshalb nicht aufteilbar, dann hat jede hinzugefügte Anstrengung keinen Einfluss auf die Zeit (Abbildung 2). (QUEEEEEEELLEEEE)
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Arbeitszeit%20vs.%20Arbeitskräfte%20unteilbar.JPG)
 
@@ -54,17 +54,13 @@ Die Dauer der Systemprüfung wird regelmäßig unterschätzt, da sie bei der Zei
 
 ## Schätzen ohne Risikobereitschaft
 
-Ein Projekt erfordert eine gewisse Dauer, worauf auch der ausgeübte Zeitdruck von Kunden keinen Einfluss hat. Durch eine Anpassung an Kundenwünsche erfolgt jedoch eine falsche Arbeitsplanung, die wiederum zu Zeitverzug führt.
+Ein Projekt erfordert eine gewisse Dauer, worauf auch der ausgeübte Zeitdruck von Kunden keinen Einfluss hat. Durch eine Anpassung an Kundenwünsche erfolgt jedoch eine falsche Arbeitsplanung, die wiederum zum Zeitverzug führt.[^1]
 
 ## Rückkopplung 
-Gerät ein Projekt in Zeitverzug, so wird zur Problemlösung angewandt
-
- stellt man mehr Arbeitskräfte ein. Das verzögert aber das Projekt noch mehr durch Hinzukommen der Einarbeitungsdauer und der erhöhten Kommunikation für den Informationsaustausch.
-
-Durch Optimismus hat man die Zeit eh zu knapp bemessen 
+Gerät ein Projekt in Zeitverzug, so werden zur Problemlösung mehr Arbeitskräfte eingesetzt. Dadurch entsteht jedoch ein Rückkopplungseffekt, da die Projektverzögerung durch Hinzukommen der Einarbeitungsdauer und der erhöhten Kommunikation für den Informationsaustausch vergrößert wird.[^1]
 
 ## Mythos als Schlussfolgerung
-Es ist laut Brooks daher ein Mythos, dass durch eine Erhöhung der Arbeitskraft die Dauer des Projekts verkürzt werden kann, erst recht nicht kürzer sein kann als die Dauer, die ein Projekt an sich erfordert.[^1]
+Unter Darstellung der Gründe hält es Brooks daher für einen Mythos, dass durch eine Erhöhung der Arbeitskraft die Projektzeit verkürzt werden kann und erst recht nicht kürzer sein kann als die Dauer, die ein Projekt grundsätzlich erfordert.[^1]
 
 
 # Siehe auch
