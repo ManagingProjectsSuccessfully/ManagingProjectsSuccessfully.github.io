@@ -57,7 +57,7 @@ Das Ziel von Change-Projekten besteht also darin durch neue Strategien, Systeme,
 
 # Siehe auch:
 
-*  [Change_Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md)
+* [Change_Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md)
 * [8_Step_Process_for_Leading_Change](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/8_Step_Process_for_Leading_Change.md) 
 * [Nachhaltige_Entwicklung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Entwicklung.md)
 * [Top_Down_Planning](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Top_Down_Planning.md)
@@ -66,27 +66,25 @@ Das Ziel von Change-Projekten besteht also darin durch neue Strategien, Systeme,
 
 # Weiterführende Literatur:
 
-* https://www.esv-campus.de/.download/_sid/OXRN-298696-IN3C/125880/059_061_Change_Management_in_komplexen_Situationen.pdf#search=%22change%20projekt%22
-* https://www.esv-campus.de/.download/_sid/OXRN-298696-
-* https://link.springer.com/content/pdf/10.1007%2F978-3-658-05851-7_15.pdf
-* https://www.mckinsey.com/featured-insights/leadership/changing-change-management
-* https://link.springer.com/content/pdf/10.1007%2F978-3-658-03287-6.pdf
+* [Wippermann, F. (2015). Change Management in komplexen Situationen: Werkzeuge – Organisation – Führung. Berlin: Erich Schmidt Verlag GmbH & Co. doi: 978-3-503-16594-0](https://www.esv-campus.de/.download/_sid/OXRN-298696-IN3C/125880/059_061_Change_Management_in_komplexen_Situationen.pdf#search=%22change%20projekt%22)
+* [Prof. Dr. Rank ,S. ,Scheinpflug, R. (2008) Change Management in der Praxis: Beispiele, Methoden, Instrumente. Berlin: Erich Schmidt Verlag GmbH & Co. doi: 9783503100125](https://www.esv-campus.de/.download/_sid/OXRN-298696-)
+* [Iskan, S., Staudt, E. (2016). Strategic Change: Wie Manager ihre Unternehmen jetzt erneuern müssen. Wiesbaden: Springer Fachmedien Wiesbaden GmbH doi:978-3-658-03286-9](https://link.springer.com/content/pdf/10.1007%2F978-3-658-03287-6.pdf)
 
 
 
 # Quellen:
 
-[^1]: Workbook Change Management: Methoden und Techniken von Dietmar Vahs und Achim Weiand, Schäffer-Poeschel Verlag für Wirtschaft Steuern Recht GmbH, 3. Auflage https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6232361 
-[^2]: https://www.pidas.com/blog/5-faktoren-fuer-ein-erfolgreiches-change-projekt
-[^3]: https://www.statista.com/topics/1108/toy-industry/, abgerufen in statista.com
-[^4]: https://www.lego.com/de-de/aboutus/lego-group/
-[^5]: https://www.bwl-lexikon.de/wiki/change-management/
-[^6]: https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself
-[^7]: https://sz-magazin.sueddeutsche.de/wirtschaft-finanzen/steinreich-80333
-[^8]: https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth
-[^9]: https://www.strategy-business.com/article/07306
-[^10]: https://www.lego.com/en-us/history/articles/i-outsourcing-and-insourcing
-[^11]: https://ctl.mit.edu/sites/ctl.mit.edu/files/attachments/MIT_CISRwp407_TheLEGOGroup_AndersenRoss_0.pdf
+[^1]: [Vahs, D. ,Weiand, A. (2020). Workbook Change Management: Methoden und Techniken. Stuttgart: Schäffer-Poeschel Verlag für Wirtschaft Steuern Recht GmbH. doi: 978-3791046976](https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6232361)
+[^2]: [Prager, M. (2020). 5 Faktoren für ein erfolgreiches Change-Projekt](https://www.pidas.com/blog/5-faktoren-fuer-ein-erfolgreiches-change-projekt)
+[^3]: [Bedford, E. (2021). Toy industry - statistics & facts. abgerufen in statista.com](https://www.statista.com/topics/1108/toy-industry/)
+[^4]: [The LEGO Group - About us - LEGO.com DE](https://www.lego.com/de-de/aboutus/lego-group/)
+[^5]: [www.bwl-lexikon.de. Change Management](https://www.bwl-lexikon.de/wiki/change-management/)
+[^6]: [www.theguardian.com. How Lego clicked: the super brand that reinvented itself](https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself)
+[^7]: [Krause, T. (2014). Steinreich. Süddeutsche Zeitung Magazin. Steinreich. Heft 14](https://sz-magazin.sueddeutsche.de/wirtschaft-finanzen/steinreich-80333)
+[^8]: [O’Connell, A. (2009). Lego CEO Jørgen Vig Knudstorp on leading through survival and growth. Harvard Business Review.](https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth)
+[^9]: [Oliver, K., Samakh, E., Heckmann, P. Rebuilding Lego (2007). Rebuilding Lego, Brick by Brick: How a supply chain transformation helped put the beloved toymaker back together again.](https://www.strategy-business.com/article/07306)
+[^10]: [Outsourcing and Insourcing - LEGO® History - LEGO.com US](https://www.lego.com/en-us/history/articles/i-outsourcing-and-insourcing)
+[^11]: [Andersen, P., Ross, J. (2016). Transforming the LEGO Group for the Digital Economy. Massachusetts Institute of Technology](https://ctl.mit.edu/sites/ctl.mit.edu/files/attachments/MIT_CISRwp407_TheLEGOGroup_AndersenRoss_0.pdf)
 
 Bildquelle: https://www.evosult.de/change-management-im-zeichen-von-covid-19-krisen-meistern-und-zukunftsfaehigkeit-bewahren/
 
