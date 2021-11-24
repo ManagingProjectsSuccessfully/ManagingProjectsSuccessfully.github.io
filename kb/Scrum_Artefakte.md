@@ -16,13 +16,13 @@ Es gibt im Scrum drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und
 Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maximaler Transparenz, sodass alle auf dem aktuellen Wissensstand sind, weshalb sie zu optimalen Arbeitsbedingungen beitragen.[^2][^3]
 
 
-# Product Backlog
+# 1. Product Backlog
 
 
-# Sprint Backlog
+# 2. Sprint Backlog
 
 
-# Produktinkrement
+# 3. Produktinkrement
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
