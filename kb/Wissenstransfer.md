@@ -30,13 +30,13 @@ des Wissens statt und in der letzten Phase wird das transferierte Wissen erneut 
 ### Klassisches Projektmanagement
 
 Der Ablauf im klassischen [Projektmanagement](Projektmanagement.md) wird mit Hilfe des [Wasserfall-Modells](Wasserfall_Modell.md) dargestellt. Dies ist ein lineares, nicht 
-iteratives Vorgehensmodell, bei dem zunächst die eine Aufgabe komplett abgeschlossen wird bevor neue Aufgaben begonnen werden.[^6] Durch eine, am Ende jeder Aufgabe, 
+[iteratives](https://de.wikipedia.org/wiki/Iterativ)  Vorgehensmodell, bei dem zunächst die eine Aufgabe komplett abgeschlossen wird bevor neue Aufgaben begonnen werden.[^6] Durch eine, am Ende jeder Aufgabe, 
 abschließende Kommunikation mit den beteiligten Teams stellt diese Art des Projektmanagements für den Wissenstransfer ein geringeres Risiko an 
 Wissensverlust als andere Vorgehensweisen dar.[^7]
 
 ### Agiles Projektmanagement
 
-Bezüglich des Ablaufs gibt es beim agilen Projektmanagement einen enormen Unterschied. Dieser ist [iterativ](https://de.wikipedia.org/wiki/Iterativ) 
+Bezüglich des Ablaufs gibt es beim agilen Projektmanagement einen enormen Unterschied. Dieser ist iterativ
 aufgebaut, das heißt Arbeitsschritte werden öfter durchlaufen, um das bestmögliche Ergebnis für das Projekt zu erlangen. Diese Herangehensweise hat zur Folge, 
 dass der Wissenstransfer deutlich komplexer und schwieriger zu managen ist, da jederzeit ein Rückschritt möglich ist und dies bei unsorgfältiger 
 Kommunikation zu Verwirrung führt.[^8]
