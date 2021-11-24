@@ -5,9 +5,9 @@ author: Theresa1703
 anrechnung: k
 ---
 
-Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von Projekten oder Projektschritten. Die Ausführung dieser Projekte wird durch die Anwendung von bestimmten Methoden komplett oder teilweise vorgegeben.[^1] Es wird somit eine mögliche Herangehensweise an einzelne oder mehrere Schritte dargestellt, welches durch seine Dokumentierbarkeit besonders nachvollziebar und korrigierbar ist. Außerdem wird das Vorgehen durch Methoden besser vertändlich und einzelne Schritte können einfacher kommuniziert werden.[^4]S.44
+Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von Projekten oder Projektschritten. Die Ausführung dieser Projekte wird durch die Anwendung von bestimmten Methoden komplett oder teilweise vorgegeben.[^1] Es wird somit eine mögliche Herangehensweise an einzelne oder mehrere Schritte dargestellt, welches durch seine Dokumentierbarkeit besonders nachvollziebar und korrigierbar ist. Außerdem wird das Vorgehen durch Methoden besser vertändlich und einzelne Schritte können einfacher kommuniziert werden.[^4]
 
-Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen und geben Projekten Transparenz und Struktur.[^4]S.43 Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]S.316
+Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen und geben Projekten Transparenz und Struktur.[^4] Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]S.316
 
 
 # Definition
@@ -81,9 +81,9 @@ Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapp
 
 [^1]: [Projektmanagementmethode](https://de.wikipedia.org/wiki/Projektmanagementmethode)
 [^2]: [Kreativitätstechniken: 7 Methoden für neue Ideen](https://www.einstein1.net/kreativitaetstechniken/)
-[^3]: [Handbuch Projektmanagement](https://link.springer.com/book/10.1007%2F978-3-642-21243-7)
-[^4]: [Projektmanagement mit System: Organisation, Methoden, Steuerung](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Kraus-Westermann2019_Book_ProjektmanagementMitSystem.pdf)
-[^5]: [Systemische Werkzeuge für erf. Projektmanagement](file:///C:/Users/Theresa/Documents/FAU/noch%20zu%20bestehende%20F%C3%A4cher/MPS/Github%20Beitrag/Quellen/Systemische%20Werkzeuge%20f%C3%BCr%20erf.%20Projektmanagement.pdf)
+[^3]: [Handbuch Projektmanagement](S.316)(https://link.springer.com/content/pdf/10.1007%2F978-3-658-19989-0.pdf)
+[^4]: [Projektmanagement mit System: Organisation, Methoden, Steuerung](S.43f.)(https://link.springer.com/content/pdf/10.1007%2F978-3-658-24521-4.pdf)
+[^5]: [Systemische Werkzeuge für erf. Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-658-19989-0.pdf)
 [^6]: [Grundlagen des Projektmanagements](https://link.springer.com/content/pdf/10.1007%2F978-3-662-48216-2.pdf)
 [^7]: [Projektmanagement-Methoden: Der ultimative Überblick](https://projekte-leicht-gemacht.de/pm-methoden/)
 [^8]: [Netzplantechnik](https://www.unternehmerlexikon.de/netzplantechnik/)
