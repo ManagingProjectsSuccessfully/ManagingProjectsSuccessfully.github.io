@@ -9,7 +9,7 @@ anrechnung: k
 
 # Definition Kommunikation 
 
-Das Mittel zur Verständigung unter Menschen ist die Kommunikation. Mit Hilfswerkzeugen, wie Mimik, Gestik, Stimme, Körperhaltung und die menschliche Sprache können die Menschen miteinander interagieren. Sowohl im Privat- als auch im Berufsleben kommunizieren wir ständig und sind auf die Kommunikationsfähigkeit der anderen angewiesen. Das Problem ist hier jedoch, dass die Hilfswerkzeuge anfällig für Störungen sind und somit Informationen falsch weitergegeben und aufgenommen werden. Dadurch können Streitigkeiten und Missverständnisse entstehen und die zwischenmenschliche [Interaktion](Interaktion) wird gestört.[^1]
+Das Mittel zur Verständigung unter Menschen ist die Kommunikation. Mit Hilfswerkzeugen, wie Mimik, Gestik, Stimme, Körperhaltung und die menschliche Sprache können die Menschen miteinander interagieren. Sowohl im Privat- als auch im Berufsleben kommunizieren wir ständig und sind auf die Kommunikationsfähigkeit der anderen angewiesen. Das Problem ist hier jedoch, dass die Hilfswerkzeuge anfällig für Störungen sind und somit Informationen falsch weitergegeben und aufgenommen werden. Dadurch können Streitigkeiten und Missverständnisse entstehen und die zwischenmenschliche [Interaktion](Interaktion.md) wird gestört.[^1]
 
 # Kommunikationsarten 
 Es wird vor allem unter nonverbaler und paraverbaler Kommunikation unterschieden.
@@ -34,15 +34,14 @@ Bei der nonverbalen Kommunikation wird im Gegenteil zur paraverbalen die Kommuni
 
  Laut Studien wird die zu übermitteln Botschaft zu 90 Prozent mit notverbaler und paraverbaler Kommunikation zum Ausdruck gebracht.[^4][^5]
 # Der Weg zur effizienten Kommunikation unter Projektbeteiligten
-Die Kommunikation unter Projektbeteiligten ist eines der wichtigsten Bestandteile eines erfolgreichen Projektes. Da in Projekten die Aufgaben meist unter den Teampartnern aufgeteilt werden, hilft die Kommunikation dabei die ausgearbeiteten Informationen auszutauschen. Bei guter Kommunikation können des weiteren Missverständnisse vermieden werden. Die im [Projekt](Projekt) beteiligten bzw. die Stakeholdern-/innen müssen sich dazu persönlich weiterentwickeln, um eine reibungslose Kommunikation erzielen zu können. Dies kann durch sogenannten Kommunikation Skills erreicht werden. Dazu gehört es nicht nur Informationen gut übermitteln zu können, sondern auch die Information der anderen Teilnehmer richtig interpretieren und deuten zu können. Die Kommunikationsfähigkeit lässt sich wie jede andere Fähigkeit durch [Events](Events), Training und Übungen verbessern. Es gibt Seminare und Kurse, in denen man explizit darauf eingeht, wie eine erfolgreiche Kommunikation auszusehen hat. 
-Seit längerer Zeit beschäftigten sich auch schon Große Philosophen mit dem Thema Kommunikation und arbeiteten verschieden [Metoden](Methoden) und Modelle aus. 
+Die Kommunikation unter Projektbeteiligten ist eines der wichtigsten Bestandteile eines erfolgreichen Projektes. Da in Projekten die Aufgaben meist unter den Teampartnern aufgeteilt werden, hilft die Kommunikation dabei die ausgearbeiteten Informationen auszutauschen. Bei guter Kommunikation können des weiteren Missverständnisse vermieden werden. Die im [Projekt](Projekt.md) beteiligten bzw. die Stakeholdern-/innen müssen sich dazu persönlich weiterentwickeln, um eine reibungslose Kommunikation erzielen zu können. Dies kann durch sogenannten Kommunikation Skills erreicht werden. Dazu gehört es nicht nur Informationen gut übermitteln zu können, sondern auch die Information der anderen Teilnehmer richtig interpretieren und deuten zu können. Die Kommunikationsfähigkeit lässt sich wie jede andere Fähigkeit durch [Events](Events.md), Training und Übungen verbessern. Es gibt Seminare und Kurse, in denen man explizit darauf eingeht, wie eine erfolgreiche Kommunikation auszusehen hat. 
+Seit längerer Zeit beschäftigten sich auch schon Große Philosophen mit dem Thema Kommunikation und arbeiteten verschieden [Metoden](Methoden.md) und Modelle aus. 
 # Sender Empfänger Modell 
 Eines der grundlegendsten Kommunikationsmodelle ist das Sender Empfänger Modell nach Shanon Weaver. Es beschreibt die den Kommunikationsverlauf zwischen dem Sender und dem Empfänger. Hier wird eine Nachricht vom Sender kodiert und nach der Übertragung auf der Empfängerseite wieder dekodiert. Im ideal fall funktioniert das, jedoch kann es durch aus passieren das Störungen auftreten und beispielsweise Informationen auf der Empfänger Seite verfälscht ankommen. Die Störungen können unterschiedliche Ursachen haben. „Dies können einerseits uneinheitlicher Code auf Sender- und Empfängerseite z. B. Mehrdeutigkeiten, implizit vorausgesetztes Vorwissen, Transformationseffekte, unterschiedliche Sprachen und evtl. daraus entstehende Übersetzungsfehler, kulturelle Unterschiede und andererseits Störungen während der Übertragung sein“.[^6]
 
 ![Beispielabbildung](Kommunikation_Projektbeteiligte/Bild02.jpg)
 *Abbildung 1* [^7]
 
-[Projektmanagement](Projektmanagement.md)
 
 [^1]: [Kommunikation(landsiedel-seminare)](https://www.landsiedel-seminare.de/coaching-welt/wissen/lexikon/kommunikation.html)
 [^2]: [ParaverbaleKommunikation(ikud)](https://www.ikud.de/glossar/paraverbal.html)
