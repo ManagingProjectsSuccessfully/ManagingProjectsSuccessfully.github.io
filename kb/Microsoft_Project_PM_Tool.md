@@ -9,9 +9,9 @@ anrechnung: k
 
 # Einleitung
 
-[Microsoft Project](https://de.wikipedia.org/wiki/Microsoft_Project) bezeichnet eine Projektmanagementsoftware, des Entwicklers Microsoft Corporation und ist Bestandteil der Office Familie. 
+[Microsoft Project](https://de.wikipedia.org/wiki/Microsoft_Project) bezeichnet eine Projektmanagementsoftware des Entwicklers Microsoft Corporation und ist Bestandteil der Office Familie. 
 Neben der Microsoft Project Standard Software, als Einzelplatzversion, steht Microsoft Project Professional als Server Version zur Verfügung.
-Microsoft Project ist im Jahre 1984 erschienen und wird seit diesem Erscheinungsdatum regelmäßig aktualisiert und überarbeitet. 
+Microsoft Project ist im Jahre 1984 erschienen und wird seit diesem Zeitpunkt regelmäßig aktualisiert und überarbeitet. 
 Die aktuelle Version der Microsoft Corporation lautet Project 2019 und wird über das Betriebssystem Windows genutzt.
 Die Software soll Projektmanagern das Planen, Steuern und Überwachen der Projekte ermöglichen.[^1]
 
@@ -27,7 +27,7 @@ Bevor die Einarbeitung mit dem Programm startet, wäre es nach Herrn Schwab sinn
 * wie lauten die Vorhaben, 
 * wie lange dauern sie an, 
 * welche Abhängigkeiten existieren 
-* und welche Ressourcen sind von Nöten.
+* und welche Ressourcen sind von Nöten?
 
 Diese Fragestellungen oder Überlegungen zur Strukturierung des Projekts, können in Projects unter:
 * Vorgänge, 
@@ -35,9 +35,9 @@ Diese Fragestellungen oder Überlegungen zur Strukturierung des Projekts, könne
 * Vorgänger / Nachfolger 
 * sowie Ressourcen
  
-angewendet werden (siehe Abbildung).
-Es gibt viele unterschiedliche Anzeigemöglichkeiten für die Gliederung eines Projekts. Die hier beschriebene Ansicht, bezieht sich auf die Gantt Chart, welche in Kombination mit einer Tabelle angezeigt wird.
-Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines Projektsteuerers. Alle Bereiche können durch regelmäßiges Fortschreiben aktualisiert und korrigiert werden.[^2]
+angewendet werden (vgl. Abbildung 1).
+Für die Gliederung eines Projekts gibt es unterschiedliche Anzeigemöglichkeiten. Die hier beschriebene Ansicht verkörpert das Gantt Diagramm, welches in Kombination mit einer Tabelle angezeigt wird.
+Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines Projektsteuerers.[^2]
 
 
 
@@ -48,6 +48,8 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 
 
 # Benutzeroberfläche
+
+Die Benutzeroberfläche von MS Project verwendet das übliche Design der Office Familie. Am oberen Bildschirmrand befindet sich eine grüne Bildschirmleiste mit dem Menüband und dessen Reiter. In dieser Ansicht ist der Reiter "Vorgang" geöffnet, welcher die Grundfunktionen für die Tabelle auf der linken sowie dem Balkendiagramm auf der rechten Seite enthält. 
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/MS_Project_Rahmenterminplan.jpg)
 
@@ -60,8 +62,8 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 | Vorteile      | Nachteile     |
 | ------------- | ------------- |
 | umfangreiche Funktionen innerhalb der Projektplanung                    | anspruchsvolle Einarbeitung verlangt Grundlagenschulung        |
-| sehr genaue Detaillierungsschärfe der Visualisierung                    | hohe Anschaffungskosten für die Lizenz                         |
-| auf Knopfdruck ansprechend, gestaltete Reportings / Berichte           | Fehlende Intuition bei der Handhabung                          |
+| Detaillierungsschärfe der Visualisierung                                | hohe Anschaffungskosten für Lizenz                             |
+| auf Knopfdruck ansprechend, gestaltete Reportings / Berichte            | Fehlende Intuition bei der Handhabung                          |
 | effizientes Managementsystem komplexer, klassischer Projekte            | beansprucht hohen Pflegeaufwand der bespielte Daten            |
 | etablierter Standard in vielen mittelständischen und großen Unternehmen |
 
