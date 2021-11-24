@@ -72,7 +72,7 @@ Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Ver
 - Das Modell ist eher für kleinere Organisationen geeignet [^10] [^11] [^12]
  
 
-
+ 
 # Quellen
 
 [^1]: https://www.tiba-prosci.com/was-ist-adkar/
