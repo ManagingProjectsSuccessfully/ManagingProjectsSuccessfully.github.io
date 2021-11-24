@@ -23,41 +23,19 @@ Das Projekt wird in kleine Funktionalitäten unterteilt, die nacheinander hinzug
 | Green  | Schreibe deinen Code so um, dass der Code funktioniert. Dabei wird nicht auf guten Stil (z.B. Kommentare, Vermeidung von Duplikationen) geachtet, wichtig ist die Funktion.  |
 | Refactor  | Jetzt wird der funktionierende Code überarbeitet, sodass er weiterhin funktioniert, aber die Richtlinien zu gutem Stil erfüllt, die im zweiten Schritt ignoriert wurden.  |
 
-![Beispielabbildung](Test_Driven_Development/test-file.jpg)
+![Uebersicht](Test_Driven_Development/TDD_Global_Lifecycle.png)
 
 *Übersicht zum Vorgehen beim Test Driven Development*[^3]
 
-# Effekte von TDD
+# Auswirkung von TDD auf den Projekterfolg
+
+Zu der Auswirkung des TTD-Ansatzes auf den Erfolg von Projekten gibt es einige Untersuchungen, die aber wegen der individuellen Unterschiede zwischen Projekten nicht auf alle Projekte generalisierbar sind.
+
+Eine Fallstudie bei IBM[^2] verglich die Ergebnisse eines Teams aus relativ unerfahrenen Entwickler:innen, die mit TDD arbeiteten, mit denen eines erfahreneren Teams, die das weniger formale [Ad hoc-Testen](https://en.wikipedia.org/wiki/Ad_hoc_testing) verwendeten. Die Projekte waren ähnlich, die Produktivität wurde durch den Mehraufwand des TDD-Teams kaum beeinträchtigt, die Fehlerdichte nahm um 40% ab.
+
+Eine andere Studie verglich die Ergebnisse von Studierenden an der Politecnico di Torino in einem Javakurs[^4], die TDD verwendeten, mit denen einer Kontrollgruppe, die Tests erst nach dem Schreiben ihres Codes erstellte. Es wurde beobachtet, dass die Studierenden aus der TDD-Gruppe mehr Tests schrieben, was eine Korrelation mit einer besseren Qualität der jeweils schlechtesten Ergebnisse der Gruppen zeigte, im Durchschnitt der Gruppen aber keinen Vorteil brachte. Dessen Ursache sehen die Autoren darin, dass es schwieriger ist, mit wenigen Tests alle wichtigen Funktionen abzudecken, mit mehreren Tests ist das einfacher und weniger vom (innerhalb der Gruppe unterschiedlichen) Können der Studierenden abhängig. Die Korrelation "viele Tests" mit "bessere Mindestqualität" zeigte sich jedoch zwischen allen Studierenden, unabhängig von dem TDD- oder traditionellen Ansatz. Wegen verschiedener Effekte warnen die Autoren auch hier, die Ergebnisse zu generalisieren.
 
 
-
-TODO: Undergraduate[^5] Students: https://ieeexplore.ieee.org/document/1423994
-
-
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
 # Aspekt 1
@@ -68,9 +46,6 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Test_Driven_Development/test-file.jpg)
-
-*lustiges Testbild*
 
 # Aspekt 2
 
@@ -121,13 +96,10 @@ Der ursprüngliche Entdecker des Konzepts TDD, Kent Beck, spielte auch eine wich
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Xtreme Programming](Xtreme_Programming.md)
-* [Link auf diese Seite](Test_Driven_Development.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 * [Test Driven Development (TDD): Die Testgetriebene Entwicklung einfach erklärt - IONOS](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/)
 
 # Quellen
