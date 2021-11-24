@@ -5,100 +5,64 @@ author: fadiarabo
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Routineprojekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Routine-Projekte gehören zu den 4 Arten des Projektmanagements und stellen eine wichtige Art und Weise dar, sein Projekt anzugehen. Ähnlichkeit besitzt es nämlich in zeitlicher Begrenzung und bereichsübergreifender Beteiligung, haben jedoch strukturelle und kulturelle Unterschiede zur herkömmlichen Organisation[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Zusätzlich ist es üblich, dass zum Abschluss Review-Workshops angeboten, um den Prozess strukturell zu optimieren, sowie die Professionalisierung der Zusammenarbeit zu gewähren. 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Jedoch müssen die verschiedenen Klassifizierungen von Projekten nicht immer Ihren Charakter beibehalten. Es kann durchaus sein, dass im Verlauf das eigentliche Ziel wandelt und ein neues Ergebnis angestrebt wird[^2].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Review-Workshops/Peer Reviews
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Wie gesagt sind sogenannte Review-Workshops wie Peer Reviews, die perfekte Möglichkeit seinen Fortschritt im Team zu reflektieren und zu dokumentieren. Warum Peer-Reviews für das Projekt hilfreicher sind, als Mitarbeitergespräche wird im Folgenden erklärt. Das Mitarbeitergespräch mit seinen Kollegen und einem Vorgesetzten hat oft einen eintönigen Ablauf. Die Interesse des Vorgesetzten ist es lediglich Fortschritte zu sehen, sodass keine Verbindung zu Ihm und seinen Mitarbeitern entstehen kann[^3]. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+# Selbstevaluierung und folgende Fragen
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+* Was hat richtig gut geklappt und sollten wir feiern? 
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+* Was hat nicht so gut geklappt oder sollten wir anders machen? 
+
+* Was findest Du im nächsten Jahr besonders spannend, was macht Dir Sorgen? 
+
+Die Ergebnisse werden dem Team vorgestellt und bekommt von den anderen Mitgliedern ein personalisiertes Feedback. Wichtig ist, dass das Feedback sehr subjektiv gestaltet werden sollte um persönlicher zu wirken[^3]. 
 
 
-# Aspekt 1
+# Reflexionsgespräch mit 2 Mitgliedern
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Mitglieder spiegeln hier Publikum wieder; Folgende Fragen möglich[^3]:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+*  Was nimmst Du aus dieser Diskussion mit? 
 
-![Beispielabbildung](Routineprojekte/test-file.jpg)
+* Was hast Du daraus gelernt? 
 
-*lustiges Testbild*
+# Ende der Übung mit Weiterbildungsfragen
 
-# Aspekt 2
+* Was hast Du heute über Dich gelernt? 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+* Was nimmst Du aus dem heutigen Workshop mit? Womit möchtest Du Dich weiter beschäftigen? 
+![Ablauf-Peer-Review-Workshop](https://user-images.githubusercontent.com/93006479/143208556-db8c2898-857b-40a7-abf6-2f87d3284852.jpeg)
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
+## Unterschied zwischen [Peer-Review](https://transferio.at/agile-coach/peer-review-workshop-schlaegt-mitarbeitergespraech/) und Mitarbeitergespräche
+
+| [Peer-Review](https://transferio.at/agile-coach/peer-review-workshop-schlaegt-mitarbeitergespraech/)  | Mitarbeitergespräche |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Feedback von Kollegen  | Kritik vom Vorgesetzten  |
+| Keine Hierarchien, Vertrauen entsteht  | Hierarchiegefälle, Nervosität  |
+| Fokus auf Weiterentwicklung | Fokus auf Beförderung |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Wie man in der Tabelle sehen kann, ist der Unterscheid zwischen diesen beiden Methodengravierend auf die Entwicklung des Teams als Ganzes[^4]. Während die Peer-Reviews eine gelassene und stressfreie Alternative sind, neigen viele Projektmanager zu Mitarbeitergesprächen, wo der Fokus auf etwas ganz anderem liegt[^4].
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Routineprojekte.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Peer-Review](https://transferio.at/agile-coach/peer-review-workshop-schlaegt-mitarbeitergespraech/)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Routine-Projekt als Projektart](https://www.cio.de/a/die-vier-projekttypen,3230971)
+[^2]: [Wandel des Charakters im Projekt](https://www.weiterbildungsmarkt.net/magazin/projektmanagement-routine-innovations-oder-changeprojekt/)
+[^3]: [Peer-Reviews](https://transferio.at/agile-coach/peer-review-workshop-schlaegt-mitarbeitergespraech/)
+[^4]: [Peer-Reviews über Mitarbeitergespräche](https://transferio.at/agile-coach/agile-hr-praktiken-peer-review-statt-mitarbeitergespraech/)
 
