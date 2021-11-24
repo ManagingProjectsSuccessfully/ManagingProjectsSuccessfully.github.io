@@ -47,12 +47,6 @@ Durch die Projekt Charta wird sichergestellt, dass [Sponsor](Who_is_Who_Projectm
 
     ![image](Projekt_Charta/Project_Charter_Graph_1.jpg)[^1]
 
-
-### Am Ende des Projekts
-- Anhand der Projekt Charta bietet sich die Möglichkeit, Ziele und Ressorcen, mit erreichten Fortschritten und verwendeten Ressourcen abzugleichen.[^1][^7]
-    - Überprüfung ob Ziele erreicht sind
-    - Überprüfung ob Projektdauer eingehalten wurde
-    - Grundlage zur [Planung](Projektplanung.md) von zukünftigen, ähnlichen Projekten
 ---
 
 ## Bestandteile eines Project Charta
@@ -75,7 +69,7 @@ Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Cha
   - Leistungsumfang des Projektes, Unternehmensbedarf, Zusammenfassung der wichtigsten Vereinbarungen, etc.
   - Vorprojektphase, Nachprojektphase,
   - Projekt-Nichtziele
-  - Projektbudget (erwartete Projektkosten, aber auch benötigte [Ressourcen](Ressourcenplanung.md), Mitarbeiter, Nachlaufkosten, etc.)
+  - Projektbudget (erwartete Projektkosten, aber auch benötigte Ressourcen, Mitarbeiter, Nachlaufkosten, etc.)
   - Verantwortlichkeiten und Befugnisse
   - Projektzweck, Hindernisse, Beschränkungen, etc.
   - Projektmeilensteine, Projektplan, Projektphasen, etc.
