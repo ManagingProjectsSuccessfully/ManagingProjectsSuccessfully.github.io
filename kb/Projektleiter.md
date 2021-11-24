@@ -8,6 +8,7 @@ anrechnung: k
 Im klassischen Projektmanagement ist der Projektleiter für die Steuerung des Projektes und für die operative Planung zuständig. Für die Planung bestimmt er die Ziele und übernimmt das Management der Ressourcen. Insbesondere ist er für die Termin-, Kosten- und Sachziele unter der Berücksichtigung der angestrebten Produktqualität verantwortlich.
 
 <img src="Projektleiter/Projektleiter.png" alt="Der Projektleiter ein Multitalent" width="600"/>
+Ausbildung zum Projektleiter[^1]
 
 
 # Die zwei Arten ein Projekt zu leiten:
@@ -15,13 +16,13 @@ Im klassischen Projektmanagement ist der Projektleiter für die Steuerung des Pr
 * In hierarchiefreien Projektgruppen hat der Projektleiter die Rolle eines Initiators und Moderators. Hierbei tragen alle Teammitglieder gemeinsam die Verantwortung für die Erreichung des Projektergebnisses und sind somit gleichgestellt. 
 
 * Bei hierarchischen Projektgruppen wird ein Teammitglied von einem Vorgesetzten oder einem Team auserwählt und mit einer höheren Verantwortung und besonderer Kompetenz ausgestattet. Die Breite dieser Kompetenz kann auch bis zur uneingeschränkten Führung der jeweiligen Projektgruppe führen. 
-Der folgende Beitrag fokussiert sich genau auf solch einen Projektleiter, einer klassischen und hierarchischen Projektgruppe.[^1]
+Der folgende Beitrag fokussiert sich genau auf solch einen Projektleiter, einer klassischen und hierarchischen Projektgruppe.[^2]
 
 Jedoch sind konstante Anpassungen und Veränderungen fester Bestandteil des Projektmanagements, weshalb sich die Leitungskompetenz der Teammitglieder und auch die des Projektleiters im Laufe der Projektdurchführung verändern können. 
 
 # Wie wird man ein Projektleiter und welche Kompetenzen und Fähigkeiten werden vorausgesetzt? 
 Um Projektleiter zu werden gibt es keine Ausbildung im klassischen Sinne, dennoch wird in der Regel ein Universitätsabschluss von Unternehmen vorausgesetzt. Neben dem fachlichen Know-how muss ein Projektleiter auch die Kompetenzen eines Unternehmers, Managers und die einer Führungskraft mitbringen. Weitere Anforderungen an den Projektleiter sind unter anderem die soziale Kompetenz, Kommunikative Fähigkeiten, Kreativität und Risikomanagement. 
-Ein Projektleiter hat verschiedene Aufgaben zu leisten, sei es während der Projektdurchführung oder bereits bei der Planung eines Projekts.[^2]
+Ein Projektleiter hat verschiedene Aufgaben zu leisten, sei es während der Projektdurchführung oder bereits bei der Planung eines Projekts.[^3]
 
 # Die sieben Hauptaufgaben eines Projektleiters in klassischen Projekten: 
 
@@ -49,12 +50,12 @@ Auch wenn ein Projektleiter unter anderem ein [Projektmitarbeiter](https://githu
   1. Die Planung und Durchführung der Weiterbildungsmaßnahmen des Teams 
   2. Die Zuweisung von Projektteilaufgaben an die Teammitglieder 
   3. Das Mitsprachrecht für die Urlaubs- und Abwesenheitsplanung von Mitgliedern 
-  4. Motivator und Initiator des Teams[^3]
+  4. Motivator und Initiator des Teams[^4]
 
 ## Zusammenfassung 
 Zusammenfassend kann festgestellt werden, dass ein Projektleiter einer hierarchischen Projektgruppe im klassischen Projektmanagement, in erster Linie Verantwortlich für die Planung und Kontrolle eines Projekts ist. Außerdem ist er während der gesamten Projektdurchführung für die Einhaltung der Fristen und Forderungen zuständig. 
 
-Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt das durchschnittliche Gehalt eines Projektleiters in Deutschland bei 63.960 € brutto pro Jahr.“[^4]. Allerdings ist es auch möglich als Projektleiter einen Verdienst von bis zu 90.000€ im Jahr zu erhalten, denn jedes Projekt und jeder Auftraggeber ist verschieden, weshalb ein Projektleiter mit jeder Erfahrung seinen persönlichen Marktwert steigert. 
+Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt das durchschnittliche Gehalt eines Projektleiters in Deutschland bei 63.960 € brutto pro Jahr.“[^5]. Allerdings ist es auch möglich als Projektleiter einen Verdienst von bis zu 90.000€ im Jahr zu erhalten, denn jedes Projekt und jeder Auftraggeber ist verschieden, weshalb ein Projektleiter mit jeder Erfahrung seinen persönlichen Marktwert steigert. 
 
 (Eine Bitte an meine Reviewer: Bitte schreibt mir doch gerne auch noch dazu ob und wenn ja was für Informationen euch bezüglich dieses Themas fehlen. Vielen Dank)
 
