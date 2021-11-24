@@ -48,6 +48,7 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 | auf Knopfdruck ansprechend, gestatltete Reportings / Berichte           | Fehlende Intuition bei der Handhabung                          |
 | effizientes Managementsystem komplexer, klassischer Projekte            | beansprucht hohen Pflegeaufwand der bespielte Daten            |
 | etablierter Standard in vielen mittelständischen und großen Unternehmen |
+
 [^3]
 
 
