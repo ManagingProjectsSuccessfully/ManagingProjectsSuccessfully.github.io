@@ -76,13 +76,18 @@ Das Anfangsgehaltt liegt bei 30081 Euro jährlich und die Gehaltsobergrenze lieg
 
 
 
-# Siehe auch
+# **Wie wichtig sind die Projektmitarbeiter?**
 
-* Verlinkungen zu angrenzenden Themen
-* 
+"Staffing is the most important part of project management. It is the staff who will actually complete the project work. Staff will also consume the majority of project cost. Hence it is extremely important to be very precise in planning and acquiring the right staff at the right time for the right duration. It is also important to keep the staff members motivated and ensure their safety and well- being. The staffing management plan help capture all these aspects precisely for effecting staff management for the project."[^9]
+
+
+
+
+
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+[ A Guide to the Project Managment Body of Knowledge ( PMBOK® Guide) ](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+
 
 # Quellen
 
@@ -94,3 +99,4 @@ Das Anfangsgehaltt liegt bei 30081 Euro jährlich und die Gehaltsobergrenze lieg
 [^6]: (https://wiki.de.it-processmaps.com/index.php/Checkliste_Projektmanagement_-_Projekt-Organisation)
 [^7]: (https://www.stellenanzeigen.de/gehalt-vergleich/projektmitarbeiter-in/)
 [^8]: [ A Guide to the Project Managment Body of Knowledge ( PMBOK® Guide) ](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^9]: (https://www.knowledgehut.com/tutorials/project-management/staffing-management-plan) 
