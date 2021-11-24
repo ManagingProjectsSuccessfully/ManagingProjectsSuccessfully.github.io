@@ -5,10 +5,10 @@ author: efdil
 anrechnung: a
 ---
 
-Unter Scrum Metrics sind Messwerte zu verstehen, die von Scrum Teams ermittelt, ausgewertet und benutzt werden um ihre Effizienz und Effektivität zu beobachten und zu steigern. Durch richtige Ermittlung, Auswertung und Einsetzung dieser Messwerte, können Scrum Metrics Erkenntnisse vermitteln, die das Scrum Team während des Scrum durchlaufs unterstützen und verbessern oder Beziehungen zwischen Scrum Team und Kunden verbessern.[^2]
+Unter Scrum Metrics sind Messwerte zu verstehen, die von Scrum Teams ermittelt, ausgewertet und benutzt werden um ihre Effizienz und Effektivität zu beobachten und zu steigern. Durch richtige Ermittlung, Auswertung und Einsetzung dieser Messwerte, können Scrum Metrics Erkenntnisse vermitteln, die das Scrum Team während des Scrum durchlaufs unterstützen und verbessern oder Beziehungen zwischen [Scrum Team](Rollen_Scrum.md) und Kunden verbessern.[^2]
 
 # Was sind Scrum Metrics?[^2][^7]
-Scrum Teams benutzen Scrum Metrics um Entscheidungen auf deren basis zu treffen und somit, effizienter in Planung und Umsetzung zu werden. Diese können beispielsweise dazu angewendet werden um einen Überblick über den gegenwertigen Stand des Projekts zu verschaffen und dadurch Zielsetzungen und Verbesserungen durchzuführen. Dazu gibt es keine allgemeinübergreifenden Maßstäbe, die diese gegenwertigen Scrum Metrics ersetzen könnten. Denn jede Situation und Projekt hat seinen eigenen Verlauf, jedes Team ist anders groß und es kommen unterschiedliche Methoden sowie Technologien zum Einsatz. Daher sind die jeweiligen Messwerte nicht ideal mit anderen Projekten als auch Teams vergleichbar oder kombinierbar.
+Scrum Teams benutzen Scrum Metrics um Entscheidungen auf deren basis zu treffen und somit, effizienter in Planung und Umsetzung zu werden. Diese können beispielsweise dazu angewendet werden um einen Überblick über den gegenwertigen Stand des Projekts zu verschaffen und dadurch Zielsetzungen und Verbesserungen durchzuführen. Dazu gibt es keine allgemeinübergreifenden Maßstäbe, die diese gegenwertigen Scrum Metrics ersetzen könnten. Denn jede Situation und Projekt hat seinen eigenen Verlauf, jedes Team ist anders groß und es kommen unterschiedliche [Methoden](Methoden.md) sowie Technologien zum Einsatz. Daher sind die jeweiligen Messwerte nicht ideal mit anderen Projekten als auch Teams vergleichbar oder kombinierbar.
 
 Die Entscheidung zur Ermittlung und Festhaltung dieser Messwerte sollte dem Team überlasen werden. Weil es nicht daran liegt ob der Projektmanager oder andere beteiligte individuen das für das ganze Team bestimmen, die Umsetzung erfolgt nur wenn das ganze Team dafür zustimmt und seinen Beitrag leistet.
 
@@ -33,19 +33,19 @@ Diese haben dann Einfluss auf:[^2]
 
 ## Unterschied zu Key Performance Indicators (KPI's)
 
-Schlüssel Performance Indikatoren (KPI), dienen zur Evaluation des Unternehmenerfolgs bezogen auf Unternehmensziele.[^1] Scrum Metrics können nicht alleinstehend, nicht wie KPI's, über den Kundennutzen (Customer Value) oder ob das Team das richtige Produkt geliefert hat aussagen. Scrum Metrics werden zur Team-internen Effektivitätsanalyse angewendet.[^2]
+Schlüssel Performance Indikatoren (KPI), dienen zur Evaluation des Unternehmenerfolgs bezogen auf Unternehmensziele.[^1] Scrum Metrics können nicht alleinstehend, nicht wie KPI's, über den Kundennutzen ([Customer Value](Scrum_Values.md)) oder ob das Team das richtige Produkt geliefert hat aussagen. Scrum Metrics werden zur Team-internen Effektivitätsanalyse angewendet.[^2]
 
 
 # Einige Scrum Metrics im Scrum Sprint
 
-Im laufe eines Scrum Sprint sind viele wiederkehrende Erreignisse;, Sprint Planung, Daily Scrum, Sprint Review, Sprint Retrospective. Diese ermöglichen den Teammitgliedern, Austausch, Inspektion und Adaptation mit der Art wie sie am Projekt arbeiten.[^2]
+Im laufe eines Scrum Sprint sind viele wiederkehrende Erreignisse; [Sprint Planung](Sprint_Planning.md), [Daily Scrum](Daily_Scrum.md), [Sprint Review](Sprint_Review.md), [Sprint Retrospective](Retrospective.md). Diese ermöglichen den Teammitgliedern, Austausch, Inspektion und Adaptation mit der Art wie sie am Projekt arbeiten.[^2]
 
 ![Image](/kb/Scrum_Metrics/Scrum_Sprint_Scrum_Metrics_01.jpg)[^3]
 
 ## Sprint Planung (Sprint Planning)[^2]
-Während der Sprint Planung werden Große Projektziele auf detailierte kleinere Aufgaben runtergebrochen. Dadurch werden Sprint Ziele, nach priorität festgelegt. Es ist daher sinvoll Scrum Metrics als Grundlage der Zielsetzungen einzusetzen.
+Während der [Sprint Planung](Sprint_Planning.md) werden Große Projektziele auf detailierte kleinere Aufgaben runtergebrochen. Dadurch werden Sprint Ziele, nach priorität festgelegt. Es ist daher sinvoll Scrum Metrics als Grundlage der Zielsetzungen einzusetzen.
 
-Wie viel Aufgabenlast ein Team tragen kann hängt davon ab, wie effizient das Team ihre Zeit verwenden kann oder welche Kapazitat das Team besitzt.
+Wie viel [Aufgabenlast](Aufgabenteilung.md) ein Team tragen kann hängt davon ab, wie effizient das Team ihre Zeit verwenden kann oder welche Kapazitat das Team besitzt.
 
 ### Team Geschwindigkeit (Team Velocity)[^2][^4][^5]
 
@@ -99,31 +99,25 @@ Scrum Metrics werden im laufe eines Scrum Projekts zur Effizienzsteigerung des T
 
 # Siehe auch
 
-Was ist [Scrum](SCRUM.md)
-
-[Sprint_Planning](Sprint_Planning.md)
-
-[Sprint_Review](Sprint_Review.md)
-
-[Retrospective](Retrospective.md)
+[Scrum](SCRUM.md)
 
 [Rollen_Scrum](Rollen_Scrum.md)
 
 [Scrum_Values](Scrum_Values.md)
 
-[Daily_Scrum](Daily_Scrum.md)
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Scrum_Metrics.md)
-
 # Weiterführende Literatur
 
-Burndown Chart -> https://www.visual-paradigm.com/scrum/scrum-burndown-chart/
-                  https://www.microtool.de/wissen-online/was-ist-ein-burn-down-chart/
-Team Kapazität -> https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams
+[Scrum Metrics for Hyperproductive Teams: How They Fly like Fighter Aircraft](https://ieeexplore.ieee.org/abstract/document/6480431)
 
-Was sind Key Performance Indicators(KPI's)
+[Performance metrics in scrum software engineering companies](https://www.inderscienceonline.com/doi/abs/10.1504/IJASM.2021.118061)
 
+[Burndown Chart - visual paradigm ](https://www.visual-paradigm.com/scrum/scrum-burndown-chart/)
+
+[Burndown Chart - microtool](https://www.microtool.de/wissen-online/was-ist-ein-burn-down-chart/)
+
+[Team Kapazität](https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams)
+
+[Global Software Development: Key Performance Measures of Team in a SCRUM Based Agile Environment](https://link.springer.com/chapter/10.1007/978-3-319-95171-3_53)
 
 # Quellen
 
