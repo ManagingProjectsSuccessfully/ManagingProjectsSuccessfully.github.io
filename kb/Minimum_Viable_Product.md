@@ -56,13 +56,11 @@ Das Minimum Viable Product trägt auch einen Teil im [Risikomanagement](Risikoma
 * [Aenderungsmanagement](Aenderungsmanagement.md)
 * [Projektaufloesung](Projektaufloesung.md)
 * [User_Story](User_Story.md)
-* [Interaktion](Interaktion.md)
 
 * [Entwicklungsprojekte](Entwicklungsprojekte.md)
 * [Projektmanagement_in_Startups](Projektmanagement_in_Startups.md)
 * [Projektstart](Projektstart.md)
 
-* [Methoden](Methoden.md)
 
 # Quellen
 [^1]: [Definition of 'Minimum Viable Product' (theeconomictimes)](https://economictimes.indiatimes.com/definition/minimum-viable-product)
