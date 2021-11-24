@@ -14,16 +14,16 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 1947 von dem Japaner und Ingenieur Toyotas, [Taiichi Ono](https://de.wikipedia.org/wiki/Taiichi_Ōno) als ursprüngliche Planungsmethode aus der 
 Produktionsprozesssteuerung, um Japan im vergleich zu den USA 
-Konkurrenz fähig zu halten. Mit dem Ziel der Lean Produktion, die produktion ohne Verschwendung. [^4]https://www.pinkuniversity.de/kanban-methode/
-[Kanban](https://de.wikipedia.org/wiki/Kanban) (japanisch "Signal - Karte" )
+Konkurrenz fähig zu halten. Mit dem Ziel der Lean Produktion, die produktion ohne Verschwendung. [^4]https://www.pinkuniversity.de/kanban-methode/.
 Ab 1970 wird diese Steuerungsmethode auch in den USA und Deutschland eingeführt. 2007 übertrug David Anderson dieses Konzept auf die IT und ebnete den Weg nicht
 nur für Produktionsprozesse sondern auch für Projekte, um diese mit Kanban schneller und effizienter zu machen. Bis heute Lean Produktion und Kanban Methode als 
 organistationsform in großen Unternehmen standard.
-Kanban dient als HIlfestellung zur visualisierung des arbeitsflusses und 
 
 
 # Was ist ein Kanban Board ?
 
+[Kanban](https://de.wikipedia.org/wiki/Kanban) (japanisch "Signal - Karte" ).
+Das Kanban Bord, mit seinen Karten, dient als Hilfestellung zur Visualisierung verschiedener Prozessabläufe um schnell Problemstellen eines Arbeitsflusses aufzudecken.
 Das Kanban Board ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus gibt und die Kommunikation 
 im Team erleichtert. 
 Außerdem auch ein Schlüsselelement der Kanban Methode, die zur Optimierung und kontinuierlichen Verbesserung jedes 
