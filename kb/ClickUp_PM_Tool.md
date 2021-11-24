@@ -57,7 +57,7 @@ Funktionen. Hier kann wieder eingestellt werden wer Zugriff haben darf auf das e
 
 ## Docs
 
-Docs gibt die Möglichkeit Dokumente mit Teammitglieder teilen zu können. Eine vergleichbare Funktion wie bei DropBox.
+Docs gibt die Möglichkeit allerlei Dokumente mit Teammitgliedern teilen zu können.
 
 
 # Preisliste
