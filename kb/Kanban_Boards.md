@@ -36,8 +36,7 @@ Sie ermöglichen Teams einen klaren Überblick über alle Arbeitselemente und st
 
 Ursprünglich war es ein Whiteboard, das in Spalten und Swimlanes aufgeteilt wurde.
 Jede Spalte stellt eine Prozessphase dar, Swimlanes die verschiedenen Aufgabenbereiche der Aktivitäten. 
-Wenn eine Aufgabe in Ihren Workflow gelangt, wird sie auf einer Kanban-Karte platziert, die jede Spalte des Boards durchläuft. Deshalb nennt man es auch Kanban-
-Aufgaben-Board.[^3]
+Wenn eine Aufgabe in Ihren Arbeitsfluss gelangt, wird sie auf einer Kanban-Karte platziert, die jede Spalte des Boards durchläuft.[^3]
 
 Jedes Kanban-Board ist in drei grundlegende Abschnitte unterteilt, die den Status Ihrer Aufgaben anzeigen:
 
