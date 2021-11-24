@@ -7,7 +7,7 @@ anrechnung: k oder a
 
 ![Image](Podio_PM_Tool/podio-logo.png)
 
-[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können. Podio unterstützt die individuelle Arbeitsweise sowie das flexible, strukturierte, kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe zurück, indem es ihnen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer wichtiger Informationen liefert [^1][^3]. Die Firma Podio Europe hat ihren Hauptsitz in Kopenhagen, Dänemark[^3].
+[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können. Podio unterstützt die individuelle Arbeitsweise sowie das flexible, strukturierte, kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe, indem es ihnen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer wichtiger Informationen liefert [^1][^3]. Ihren Hauptsitz hat sie Firma Podio Europe in Kopenhagen, Dänemark[^3].
 
 # Geschichte
 
@@ -25,7 +25,9 @@ Mit den Daten aus den Apps des Kunden können durch Filter und Report Optionen S
 ### Workflows
 Apps können durch das Workflow-Feature mit einer Wenn-Dann-Funktion programmiert werden. So erstellt eine App beispielsweise eine Aufgabe sobald ein Eintrag erstellt wird [^4].
 ### Webformulare
-
+Von Podio gehoste Webformulare können in Websites integriert werden, wie beispielsweise eine Kontaktseite. Die Informationen gelangen direkt in die Polio Apps. 
+### Podio Share
+Durch Podio Share können Appeinträge, wie beispielsweise ein Projekt aus einer Projekt App, intern und extern geteilt werden.
 
 ## Workspaces
 
