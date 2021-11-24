@@ -69,5 +69,5 @@ Abschließend kann nicht genau gesagt werden, ob das PMO eher dem klassischen od
 [^4]: [Pavlik, Franz (2017): „PMO – Project Management Office“](https://dieprojektmanager.com/project-management-office-pmo/)
 [^5]: [Strasser, Johann/Schmidt-Sibeth, Achim (2021): „Warum ein PMO? Definition, Vorteile und Mehrwert eines Projektmanagement Office“](https://www.theprojectgroup.com/blog/pmo-project-management-office/)
 [^6]: [Widmer, Annegret (2021): „Was ist ein Project Management Office, ein PMO – und warum brauche ich das?“](https://meisterplan.com/de/blog/was-ist-ein-project-management-office/)
-[^7]: [Infografik](Project_Management_Office/pmo_roles.png)
+[^7]: [Infografik](https://images.squarespace-cdn.com/content/v1/5ae46213372b9649d0a30d55/1620927958106-YQZXPHOI8F1UOKSGAUGI/Screen+Shot+2021-05-13+at+1.45.33+PM.png)
 
