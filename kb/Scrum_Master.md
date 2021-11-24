@@ -2,7 +2,7 @@
 title: Scrum_Master
 tags: agil klassisch
 author: Phr4nk20
-anrechnung: k oder a
+anrechnung: k
 ---
 
 # 1.	Definition Scrum Master
