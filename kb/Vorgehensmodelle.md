@@ -11,19 +11,18 @@ Kurzbeschreibung zu Vorgehensmodelle
 Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, Rollen, wer wann was macht und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge.
 Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geignetes auszuwählen ist keine leichte Sache. Es gibt untreschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur Anpassung. Es gibt einige Standard-Vorgehensmodelle ebenso wie abgewandelte z.B. firmenspezifische Vorgehensmdoelle. (Nicht abgewandelt, das einfach löschen) Genau.
 # Arten von VM
-Wie kann man VM jetzt einteilen? Was gibt es für unterschieldiche Arten?
-Vorgehensmodelle können in "klassische" und "agile" Vorgehensweisen, sowie "hybride" Varianten unterscheiden werden. Die Terminologie ist hierbei analog zur Vorlesung Managing Projects Successfully gewählt. In der Literatur findet sich jedoch eine Vielzahl anderer Bezeichnungen und unterschiedliche Einteilungen/Unterteilungen. Einen Überblick über mögliche Klassifizerungen gibt Tabelle 1.
+Vorgehensmodelle können in "klassische" und "agile" Vorgehensweisen, sowie hybride Varianten unterscheiden werden. Die Terminologie ist hierbei analog zur Vorlesung Managing Projects Successfully gewählt. In der Literatur findet sich jedoch eine Vielzahl anderer Bezeichnungen und unterschiedliche Einteilungen. Einen Überblick über mögliche Klassifizerungen gibt Tabelle 1.
 
 Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
-|[^20]        |[^30]                    |[^70] PowerPoint |[^80]                |[^90]                                                |[^100]       |
-| ----------- | ----------------------- | --------------- | ------------------- | --------------------------------------------------- | ----------- |
-|sequentiell  |linear oder Phasenmodell |herkömmlich      |sequenziell          |Phasenorientierte Modelle und sequenzielles Vorgehen |konzeptionell (als Spezialfall von inkrementell)|
-|             |                         |                 |nebenläufig/parallel |                                                     |             |
-|evolutionär  |iterativ                 |agil             |wiederholend         |Iteratives und inkrementelles Vorgehen               |inkrementell |
-|             |                         |                 |agil                 |                                                     |             |
-|Prototyping  |Prototyping              |                 |                     |Prototyping                                          |             |
-|             |                         |                 |                     |                                                     | evaluativ   |
-|             |                         |                 |                     |                                                     | empirisch   |
+|[^30]                    |[^90]                                                |[^100]       |[^20]        |[^80]                |[^70] PowerPoint |
+| ----------------------- | --------------------------------------------------- | ----------- | ----------- | ------------------- | --------------- |
+|linear oder Phasenmodell |Phasenorientierte Modelle und sequenzielles Vorgehen |konzeptionell (als Spezialfall von inkrementell)|sequentiell  |sequenziell          |herkömmlich      |
+|                         |                                                     |             |             |nebenläufig/parallel |                 |
+|iterativ                 |Iteratives und inkrementelles Vorgehen               |inkrementell |evolutionär  |wiederholend         |agil             |
+|                         |                                                     |             |             |agil                 |                 |
+|Prototyping              |Prototyping                                          |             |Prototyping  |                     |                 |
+|                         |                                                     |evaluativ    |             |                     |                 |
+|                         |                                                     |empirisch    |             |                     |                 |
 
 ## "Klassische" Vorgehensmodelle
 Klassische Vorgehensmodelle sind Phasenmodelle, die ein sequentielles Vorghen haben. Eine Phase muss dabei abgeschlossen sein, bevor eine nächste beginnt. Sie werden auch  "herrkömmlich", oder lineare VM genannt.
