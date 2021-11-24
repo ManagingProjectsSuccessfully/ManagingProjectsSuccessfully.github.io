@@ -46,7 +46,7 @@ Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md). Im Jahr 2
 
 # Erfolgreiche Bauprojekte
 
-Der Gotthard-Basistunnel ist ein Paradebeispiel für gelungenes [Projektmanagement](Projektmanagement.md) und ein [erfolgreiches Bauprojekt](Praxisbeispiele_erfolgreiche_Projekte.md). Er wurde deutlich früher als geplant fertiggestellt und es wurde sowohl der Kostenrahmen als auch die Produktqualität eingehalten. [^10]
+Der Gotthard-Basistunnel ist ein Paradebeispiel für gelungenes [Projektmanagement](Projektmanagement.md) und ein [erfolgreiches Bauprojekt](Praxisbeispiele_erfolgreiche_Projekte.md). Er wurde deutlich früher als geplant fertiggestellt und es wurde sowohl der Kostenrahmen als auch die Produktqualität eingehalten. Benedict Gross, Programmleiter Deutscher Project Excellence Award (DPEA) sagt: "Größe ist keine Ausrede für das Scheitern von Projekten" und dass, "die Qualität des Projektmanagements [] der Faktor [ist], der die Weichen stellt für den Erfolg." [^10]
 
 # Studiengang Projektmanagement Bau
 
