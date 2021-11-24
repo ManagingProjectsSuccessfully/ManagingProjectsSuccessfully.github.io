@@ -7,7 +7,7 @@ anrechnung: k oder a
 
 ![Image](Podio_PM_Tool/podio-logo.png)
 
-[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](https://managingprojectssuccessfully.github.io/kb/Uebersicht_PM_Tools.html), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können [^1]. Podio unterstützt die individuelle Arbeitsweise sowie das flexible und kollaborative Arbeiten. Es liefert Projektgruppen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer wichtiger Informationen [^1]. Seit 2012 ist die Plattform Teil des  US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3].
+[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können [^1]. Podio unterstützt die individuelle Arbeitsweise sowie das flexible und kollaborative Arbeiten. Es liefert Projektgruppen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer wichtiger Informationen [^1]. Seit 2012 ist die Plattform Teil des  US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3].
 
 # Kosten
 
@@ -68,8 +68,17 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Podio_PM_Tool.md)
+* [Projektmanagementsoftware](Projektmanagementsoftware.md)
+* [Übersicht_PM_Tools](Uebersicht_PM_Tools.md)
+* [Jira_PM_Tool](Jira_PM_Tool.md)
+* [MeisterTask_PM_Tool](MeisterTask_PM_Tool.md)
+* [ClickUp_PM_Tool](ClickUp_PM_Tool.md)
+* [Hive_PM_Tool](Hive_PM_Tool.md)
+* [Trello_PM_Tool](Trello_PM_Tool.md)
+* [Podio_PM_Tool](Podio_PM_Tool.md)
+* [Stackfield_PM_Tool](Stackfield_PM_Tool.md)
+* [Awork_PM_Tool](Awork_PM_Tool.md)
+* [Java_PM_Tool](Java_PM_Tool.md)
 
 # Weiterführende Literatur
 
