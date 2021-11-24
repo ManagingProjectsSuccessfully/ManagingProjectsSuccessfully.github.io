@@ -49,7 +49,7 @@ welche die Rolle der Verantwortlichkeit noch in die Rolle der Unterstützung unt
 
 Im Folgenden ist eine solche RASIC [Matrix] (https://wirtschaftslexikon.gabler.de/definition/matrix-37186) vereinfach dargestellt:
 
-![Rasic-Matrix](Rasic-Matrix) [^11]
+![Rasic-Matrix](Konfliktmanagement/Rasic.Matrix.png) [^11]
 *Rasic-Matrix*
 
 
