@@ -51,7 +51,7 @@ Optional: weitere Faktoren, welche mit Kreisform dargestellt werden
 
 ## Abgrenzung 
 
-Im Vergleich zum Projektportfoliomanagement bezieht sich das klasische [Projektmanagement](Projektmanagement.md) auf ein einzelnes Projekt mit den dazugehörigen Projektphasen. [^2] 
+Im Vergleich zum Projektportfoliomanagement bezieht sich das klassische [Projektmanagement](Projektmanagement.md) auf ein einzelnes Projekt mit den dazugehörigen Projektphasen. [^2] 
 
 Im Unterschied zum Portfoliomanagement ist das [Programmmanagement](Programmmanagement.md) zeitlich begrenzt. 
 
