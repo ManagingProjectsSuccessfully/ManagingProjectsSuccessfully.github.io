@@ -46,7 +46,7 @@ Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im 
 ### [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 Die Definition von [Meilensteinen](Meilenstein.md) ist Grundlage dieser Methode. Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilenstein.md)-Termine chronologisch auf, wodurch sich frühzeitig abzeichnende Trends erkenntlich werden. Die Überschaubarkeit der Methode ermöglicht es auch Laien, den Überblick zu behalten und zu beurteilen, ob das Projekt planmäßig verläuft.
 ### Earned Value Analyse
-Ein weiteres Controlling-Instrument ist die Earned Value Analyse, mit der man den Fertigstellungsgrad des Projekts bzw. einzelner Phasen ermitteln kann. Sie dient dem Projekt als Kontrollinstrument des Fortschritts. Diese Methode ist ebenfalls unter den Namen Leistungswertanalyse, Fertigstellungswertmethode oder Arbeitswertanalyse bekannt.[^7]
+Eine weitere Methode ist die Earned Value Analyse, mit der man den Fertigstellungsgrad des Projekts bzw. einzelner Phasen ermitteln kann. Sie dient dem Projekt als Kontrollinstrument des Fortschritts. Diese Methode ist ebenfalls unter den Namen Leistungswertanalyse, Fertigstellungswertmethode oder Arbeitswertanalyse bekannt.[^7]
 
 ### Projektplan
 Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszeiträume zugeteilt. Der Projektmanager hat somit stets den Überblick über die [Aufgabenteilung](Aufgabenteilung.md) und Termintreue der jeweiligen Projektabschnitte.[^8] Der Umfang des Projektplans richtet sich nach der Größe und Komplexität des Projekts. Folgende Pläne sollten aber in jedem Fall enthalten sein:
