@@ -25,7 +25,7 @@ Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen hat unter
 # Planung
 
 Bei der Planung müssen folgende Fragen geklärt werden:
-* Was soll mit dem World Café erreicht werden ?
+* Welchen Nutzen hat das World Café ?
 * Was ist das Kernthema ?
 * Welche Fragen sollen diskutiert werden ?
 * Wer sind die Teilnehmer ?
