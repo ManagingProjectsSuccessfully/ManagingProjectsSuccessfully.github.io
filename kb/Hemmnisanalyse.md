@@ -81,7 +81,7 @@ erkannt werden und mithilfe von Strategien und Maßnahmen überwältigt werden.
 * [Video zu Umweltfreundliche öffentliche Beschaffung](https://www.youtube.com/watch?v=R_A-uMCSrwg)
 
 
-# Weiterführende Literatur
+# Weiterführende Literatur 
 
 * [Hemmnisanalyse](https://www.enzyklo.de/Begriff/Hemmnisanalyse)
 * [Hemmnisanalyse für eine umweltfreundliche Beschaffung](https://www.umweltbundesamt.de/)
