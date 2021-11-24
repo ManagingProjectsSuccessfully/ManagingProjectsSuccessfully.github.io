@@ -68,8 +68,7 @@ Generell kann eine FMEA auch in nicht technischen Bereichen angewandt werden. Si
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](FMEA_Methode.md)
+* [Qualitätsmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Qualitaetsmanagement.md)
 
 
 # Quellen
