@@ -46,81 +46,17 @@ Die Moderation begrüßt die Teilnehmer zum World Café und erklärt Ihnen den g
 Danach wird die Etikette vorgestellt.
 Von allen Teilnehmern wird erwartet, dass sie stets höflich zueinander sind, sich gegenseitig zuhören und aussprechen lassen. Es ist wichtig, dass jeder seine eigenen Ansichten beiträgt und auch auf andere eingeht, um unterschiedliche Sichtweisen zu diskutieren, aufeinander aufzubauen oder auch um mehrere Ideen zu verbinden.[^7]
 
-Pro Tisch gibt es einen Gastgeber und vier bis fünf Teilnehmer, die sich ca. 20-30 Minuten mit einer Frage beschäftigen, bevor alle, außer der Gastgeber, den Tisch wechseln und eine neue Diskussion starten. Hierbei werden die Gruppen nach jeder Runde durchgemischt, sodass es nicht bei derselben Gruppenkonstallation bleibt. Zu Beginn einer neuen Diskussionsrunde werden die bereits gesammelten Ideen aus der vorherigen Runde kurz zusammengefasst. Während jeder Runde ist es ausdrücklich erwünscht, dass die Teilnehmer während ihren Diskussionsrunden beispielsweise Stichpunkte, Tabellen, Graphiken oder Skizzen auf der Tischdeckecke niederschreiben, wobei deren Kreativität keine Grenzen gesetzt wird.[^7]
+Pro Tisch gibt es einen Gastgeber und vier bis fünf Teilnehmer, die sich ca. 20-30 Minuten mit einer Frage beschäftigen, bevor alle, außer der Gastgeber, den Tisch wechseln und eine neue Diskussion starten. Hierbei werden die Gruppen nach jeder Runde durchgemischt, sodass es nicht bei derselben Gruppenkonstellation bleibt. Zu Beginn einer neuen Diskussionsrunde werden die bereits gesammelten Ideen aus der vorherigen Runde kurz zusammengefasst. Während jeder Runde ist es ausdrücklich erwünscht, dass die Teilnehmer während ihren Diskussionsrunden beispielsweise Stichpunkte, Tabellen, Graphiken oder Skizzen auf der Tischdeckecke niederschreiben, wobei deren Kreativität keine Grenzen gesetzt wird.[^7]
+
+Zum Abschluss werden alle gesammelten Ideen und Ergebnisse der einzelnen Tische kurz im Plenum zusammengefasst, wobei eine visuelle Hilfe, wie etwa das Aufhängen der Papiertischdecken, von Vorteil sein kann. Diese endgültige Zusammenfassung hilft dabei, Muster aus den Diskussionen zu erkennen und Lösungsmöglichkeiten zu skizzieren.[^7]
+
+Die zuvor genannte Vorgehensweise ist flexibel anpassbar und Komponenten, wie etwa Dauer oder Teilnehmerzahl können nach Bedarf verändert werden. Das Wichtigste am World Café sind Kontakt und Austausch unter den Teilnehmern.[^7]
 
 
 ![Ablauf](World_Cafe/image.jpeg)
 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](World_Cafe/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
