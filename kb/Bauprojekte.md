@@ -36,8 +36,7 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 Um das bessere Projektmanagement herauszufinden, muss man das klassische Projektmanagement und das agile Projektmanagement miteinander vergleichen und die Unterschiede und Gemeinsamkeiten näher betrachten.
 Der Vertreter des klassischen Projektmanagements ist das [Wasserfallmodell](Wasserfall_Modell.md). Dieses hat einen einfachen Zugang, ist leicht verständlich und besitzt eine klare Struktur. Jedoch ist bei diesem Modell der [Dokumentationsaufwand](Projektdokumentation.md) sehr groß. Außerdem werden die Kunden bzw. Endbenutzer kaum in das Projekt integriert. [^5]
 Das agile Projektmanagement ist vorallem in der Planungsphase von Bauvorhaben sinnvoll, da dort eine hohe Dynamik herrscht und diese Art von Projektmanagement die Effektivität und die Effizienz dort erhöhen kann. Eine direkte Übertragung der Scrum-Methode ist jedoch nicht möglich in der Planungsphase. [^6]
-Das beste Projektmanagement für Bauprojekte ist eine Adaption aus dem agilen Projektmanagement gemeinsam mit dem klassischen Projektmanagement.
-
+Das beste Projektmanagement für Bauprojekte ist eine Adaption aus der Scrum-Methode und somit dem agilen Projektmanagement. Dadurch entsteht bei Bauprojekten eine effiziente und termingerechte Umsetzung der Prozesse. [^7]
 
 # Gescheiterte Bauprojekte
 
@@ -70,3 +69,4 @@ Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md)
 [^4]: [Was macht ein Projektsteuerer?](https://www.freelancermap.de/blog/was-macht-ein-projektsteuerer/)
 [^5]: [Ist das agile Projektmanagement für die Bauwirtschaft geeignet?: Eine Synopse von klassischem & agilem Projektmanagement](https://books.google.de/books?hl=de&lr=&id=T6TbDwAAQBAJ&oi=fnd&pg=PP1&dq=klassisches+projektmanagement+bei+Bauprojekten&ots=xicw2A9aJr&sig=QTwYuzxAutL_e2n3AlPTjL4zf4g#v=onepage&q=klassisches%20projektmanagement%20bei%20Bauprojekten&f=false)
 [^6]: [Agil sein oder nicht sein: Ist das wirklich noch die Frage? Agile Design Management in der Planungsphase von Bauvorhaben](https://www.mp-gruppe.de/fileadmin/user_upload/content/blog/2019/Bau_VDI-Jahresausgabe_2019-2020f.pdf)
+[^7]: [Vom Wasserfall zum Daily Scrum – Agile Planung in der Architektur](https://www.dbz.de/artikel/dbz_Vom_Wasserfall_zum_Daily_Scrum_Agile_Planung_in_der_Architektur_3583255.html)
