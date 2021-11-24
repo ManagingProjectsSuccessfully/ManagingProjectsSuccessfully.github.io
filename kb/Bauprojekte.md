@@ -35,28 +35,28 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 Um das bessere Projektmanagement herauszufinden, muss man das klassische Projektmanagement und das agile Projektmanagement miteinander vergleichen und die Unterschiede und Gemeinsamkeiten näher betrachten.
 Der Vertreter des klassischen Projektmanagements ist das [Wasserfallmodell](Wasserfall_Modell.md). Dieses hat einen einfachen Zugang, ist leicht verständlich und besitzt eine klare Struktur. Jedoch ist bei diesem Modell der [Dokumentationsaufwand](Projektdokumentation.md) sehr groß. Außerdem werden die Kunden bzw. Endbenutzer kaum in das Projekt integriert. [^5]
 Das agile Projektmanagement im Gegenzug ist vorallem in der Planungsphase von Bauvorhaben sinnvoll, da dort eine hohe Dynamik herrscht und diese Art von Projektmanagement die Effektivität und die Effizienz erhöhen kann. In der Planungsphase ist eine direkte Übertragung der [Scrum-Methode](SCRUM.md) nicht möglich. [^6] 
-Das beste Projektmanagement für Bauprojekte ist eine Adaption aus der [Scrum-Methode](SCRUM.md) und somit dem agilen Projektmanagement. Dadurch entsteht bei Bauprojekten eine effiziente und termingerechte Umsetzung der Prozesse. [^7]
+Das beste Projektmanagement für Bauprojekte ist eine Adaption der [Scrum-Methode](SCRUM.md) und somit dem agilen Projektmanagement. Dadurch entsteht bei Bauprojekten eine effiziente und termingerechte Umsetzung der Prozesse. [^7]
 
 # Gescheiterte Bauprojekte
 
-Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md). Im Jahr 2010 starteten die ersten Roharbeiten und 2013 sollte das erste Gebäude fertig bezugsfertig sein. Es steht aber immer noch leer. Es ist ein gutes Beispiel für ein [gescheitertes Bauprojekt](Praxisbeispiele_gescheiterte_Projetke.md). Ironischerweise wurde das Chemikum von einer Hochschule aus Berlin in einer Studie auf Platz Eins der Top-Bauprojekte Deutschlands gewählt aufgrund einer angeblichen Kostensenkung von 46 Prozent. Diese gab es jedoch nicht, im Gegenteil die Kosten haben sich von 80 Millionen Euro auf 91,4 Millionen Euro erhöht [^8] - bis zur Einweihung 2018 sogar auf 108 Millionen Euro [^9]. All das wegen fehlender bzw. zu wenig Planung.
+Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md). Im Jahr 2010 starteten die ersten Roharbeiten und 2013 sollte das erste Gebäude bezugsfertig sein. Es steht aber immer noch leer. Dies ist ein gutes Beispiel für ein [gescheitertes Bauprojekt](Praxisbeispiele_gescheiterte_Projetke.md). Ironischerweise wurde das Chemikum von einer Hochschule aus Berlin in einer Studie auf Platz Eins der Top-Bauprojekte Deutschlands gewählt aufgrund einer angeblichen Kostensenkung von 46 Prozent. Diese gab es jedoch nicht, im Gegenteil, die Kosten haben sich von 80 Millionen Euro auf 91,4 Millionen Euro erhöht [^8] - bis zur Einweihung 2018 sogar auf 108 Millionen Euro [^9]. All das wegen fehlender bzw. zu wenig Planung.
 
 ![Chemikum FAU](Bauprojekte/MPSBeitrag.jpeg)
 *Chemikum FAU [^8]*
 
 # Erfolgreiche Bauprojekte
 
-Der Gotthard-Basistunnel ist ein Paradebeispiel für gelungenes [Projektmanagement](Projektmanagement.md) und ein [erfolgreiches Bauprojekt](Praxisbeispiele_erfolgreiche_Projekte.md). Er wurde deutlich früher als geplant fertiggestellt und es wurde sowohl der Kostenrahmen als auch die Produktqualität eingehalten. Benedict Gross, Programmleiter Deutscher Project Excellence Award (DPEA) sagt: "Größe ist keine Ausrede für das Scheitern von Projekten" und "Die Qualität des Projektmanagements ist der Faktor, der die Weichen stellt für den Erfolg." [^10]
+Der Gotthard-Basistunnel ist ein Paradebeispiel für gelungenes [Projektmanagement](Projektmanagement.md) und ein [erfolgreiches Bauprojekt](Praxisbeispiele_erfolgreiche_Projekte.md). Er wurde deutlich früher als geplant fertiggestellt und sowohl der Kostenrahmen als auch die Produktqualität wurden eingehalten. Benedict Gross, Programmleiter Deutscher Project Excellence Award (DPEA) sagt: '"Größe ist keine Ausrede für das Scheitern von Projekten"' und '"Die Qualität des Projektmanagements ist der Faktor, der die Weichen stellt für den Erfolg."' [^10]
 
 # Studiengang Projektmanagement Bau
 
-Es gibt einen extra Studiengang für das Projektmanagement bei Bauprojekten. Der Bachelorstudiengang Projektmanagement Bau lehrt die Inhalte des Bauprojektmanagements, wie der Name schon preisgibt. Mit diesem Studiengang kann nach Abschluss der Beruf des Projektmanagers ergriffen werden.
+Es gibt einen extra Studiengang für das [Projektmanagement](Projektmanagement.md) bei Bauprojekten. Der Bachelorstudiengang Projektmanagement Bau lehrt, wie der Name schon preisgibt, die Inhalte des Bauprojektmanagements. Mit diesem Studiengang kann nach Abschluss der Beruf des Projektmanagers ergriffen werden. [^11]
 
 # Begriffsdefinitionen
+
 1. Generalübernehmer: gleichzusetzen mit Totalunternehmer; (General-)Planer, der zusätzlich die Bauaufgaben übernimmt [^2]
 2. Generalunternehmer: vereint alle Baugewerke in einem Unternehmen [^2]
 3. Projektsteuerer: Ein Projektsteuerer überwacht und koordiniert, um die Ist-Situation in einem Bauprojekt an die Soll-Situation anzunähern und dadurch das Projekt hinsichtlich bestimmter Bereiche, wie Termineinhaltung und Kosten zu optimieren [^4]
-
 
 # Siehe auch
 
@@ -65,6 +65,7 @@ Es gibt einen extra Studiengang für das Projektmanagement bei Bauprojekten. Der
 * [Wasserfallmodell](Wasserfall_Modell.md)
 
 # Weiterführende Literatur
+
 * [Vom Wasserfall zum Daily Scrum – Agile Planung in der Architektur](https://www.dbz.de/artikel/dbz_Vom_Wasserfall_zum_Daily_Scrum_Agile_Planung_in_der_Architektur_3583255.html)
 * [Agil sein oder nicht sein: Ist das wirklich noch die Frage? Agile Design Management in der Planungsphase von Bauvorhaben](https://www.mp-gruppe.de/fileadmin/user_upload/content/blog/2019/Bau_VDI-Jahresausgabe_2019-2020f.pdf)
 
@@ -80,3 +81,4 @@ Es gibt einen extra Studiengang für das Projektmanagement bei Bauprojekten. Der
 [^8]: [Problembaustelle Chemikum: "Mini-BER" in Erlangen](https://www.nordbayern.de/region/erlangen/problembaustelle-chemikum-mini-ber-in-erlangen-1.4397839)
 [^9]: [Für 108 Millionen Euro: Chemikum in Erlangen eingeweiht](https://www.nordbayern.de/region/erlangen/fur-108-millionen-euro-chemikum-in-erlangen-eingeweiht-1.7573678)
 [^10]: [Der Gotthard-Basistunnel als Lehrstück für erfolgreiche Großprojekte](https://www.gpm-ipma.de/awards/aktuelles/detail/der_gotthard_basistunnel_als_lehrstueck_fuer_erfolgreiche_grossprojekte.html)
+[^11]: [Bachelorstudiengang Projektmanagement Bau](https://www.fh-bielefeld.de/studiengaenge/projektmanagement-bau-bachelor)
