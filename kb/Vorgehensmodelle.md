@@ -5,7 +5,7 @@ author: hello-pukeko
 anrechnung: k
 ---
 
-Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, Rollen - kurz *wer wann was* macht - und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. Sie bieten einen organisatorischen Rahmen und dienen Nutzer:innen als Hilfestellung.[^110][^90]
+Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, [Rollen](Verantwortlichkeiten.md) - kurz *wer wann was* macht - und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. Sie bieten einen organisatorischen Rahmen und dienen Nutzer:innen als Hilfestellung.[^110][^90]
 Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geeignetes auszuwählen ist keine leichte Aufgabe. Es existieren unterschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur Anpassung.[^50]
 
 # Begriffsdefinition Vorgehensmodell
