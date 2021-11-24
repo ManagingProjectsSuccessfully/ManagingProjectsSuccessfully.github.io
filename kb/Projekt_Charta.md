@@ -5,29 +5,19 @@ author: efdil
 anrechnung: k
 ---
 
-<!-- Organisiere wo genau Definition und Header stehen -->
-
-## Definition
-<!--  Schau in`s PMBOK nochmal s279 -->
-
->Die Projekt Charta ist ein Dokument das die wichtigsten Punkte eines Projekts schildert und dadurch einen groben Überblick über das Projekt oder einer Projektphase verschafft[^1]. 
+Die Projekt Charta ist ein Dokument das die wichtigsten Punkte eines Projekts schildert und dadurch einen groben Überblick über das Projekt oder einer Projektphase verschafft[^1]. 
 
 ---
----
 
-# Die Projekt Charta
+# Was ist die Projekt Charta
 Der Begriff "Projekt Charta" ist nicht normiert, daher wird dieses Dokument in Deutsch auch als "Projektauftrag", "Auftrag" oder "Projektvereinbarung" bezeichnet. Auf Englisch wird der Begriff des "Projekt Charter" benutzt.
-
-<!-- Unterschied einer Projekt Charta von Projektauftrag -->
 
 Dem Projekt Charta eilt meistens ein Projektantrag bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.
 
 Durch die Projekt Charta wird sichergestellt, dass Sponsor und der Projektleiter auch das gleiche Ziel beim Projekt anstreben und den Mitteln dazu bewusst sind.[^1][^3] Bei externen Dienstleistern wird der Projektauftrag durch einen formellen Vertrag ersetzt.[^4]
 
 
-
 ## Funktionen eines Project Charta im Projektverlauf
-
 
  Die Projekt Charta begleitet den Projektleiter, das Team sowie weitere Stakeholder vom Projektanfang bis -ende. Daher bietet es im Laufe des Projekts eine Vielzahl an Funktionen.
 
@@ -69,7 +59,7 @@ Durch die Projekt Charta wird sichergestellt, dass Sponsor und der Projektleiter
 
 Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Charta nicht normiert.[^1] Daher kann der Projekt Charta nur eine Seite als auch ein ganzes Handbuch umfassen. Da die Projekt Charta auf dem Projektantrag basiert, kommen einige Elemente im Projekt Charta nochmal vor.
 
-- Folgendes wird jedoch als fester Bestandteil eines Projekt Charta angesehen[^5][^6]:
+- Folgendes wird als fester Bestandteil eines Projekt Charta angesehen[^5][^6]:
 
   - Projektname und Projektbezeichnung
   - Projektdauer (konkret Beginn und Ende, Zwischenziele, bestimmte Ereignisse, etc.)
@@ -115,7 +105,8 @@ Beispiel anhand eines Fast Food App Projekts.
 
 ![image](/kb/Projekt_Charta/Projekt_Charta_Example_Fast_Food_App.jpg)
 
-
+# Fazit
+Eine Projekt Charta ist ein Dokument, das eine Übersicht über das Projekt verschafft und als Wegweiser sowie checkliste im laufe des Projekts eingesetzt werden kann. Der Inhalt ist dabei nicht normiert, daher können Elemente je nach Bedarf eingesetzt werden. Dafür ist es wichtig es kurz und genau zu halten.
 
 
 ---
