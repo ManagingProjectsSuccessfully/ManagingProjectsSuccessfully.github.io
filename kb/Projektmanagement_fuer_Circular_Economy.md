@@ -79,12 +79,13 @@ verschiedene Produkte in Kreisläufen fließen.
 Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürlichen Ressourcen durch Innovation und Unternehmertum.[^7]
 
 
-# Chancen einer Kreislaufwirtschaft
+# Vorteile einer Kreislaufwirtschaft
 
 * Kosteneinsparungen
 * Treibhausgasemission wird gesenkt
 * Umweltbelastung wird verringert
 * Rohstoffversorgungssteigerung
+* Mitarbeiterbindung
 * Förderung der Innovation udn Wachstum [^5]
 
 
@@ -107,7 +108,7 @@ Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürliche
 [^2]: [Circular Economy - Was ist eine Kreislaufwirtschaft? (tempo-world.com)](https://www.tempo-world.com/de-de/leben-mehr/wie-eine-circular-economy-der-umwelt-helfen-kann/)
 [^3]: [Kreislaufwirtschaft in Design und Produktmanagement - Co-Creation im Zentrum der zirkulären Wertschöpfung (von Dominik Wlacher etc.)](https://link.springer.com/content/pdf/10.1007%2F978-3-658-18512-1.pdf)
 [^4]: [Circular Economy Modell](Projektmanagement_fuer_Circular_Economy/R.jpg)
-[^5]: [Kreisaufwirtschaft: Definiton und Vorteile (Europäische Parlament](https://www.europarl.europa.eu/news/de/headlines/economy/20151201STO05603/kreislaufwirtschaft-definition-und-vorteile)
+[^5]: [Kreisaufwirtschaft: Definiton und Vorteile (Europäische Parlament)](https://www.europarl.europa.eu/news/de/headlines/economy/20151201STO05603/kreislaufwirtschaft-definition-und-vorteile)
 [^6]: [Cradle to Cradle](Projektmanagement_fuer_Circular_Economy/Cradle_to_Cradle.jpg)
 [^7]: [Towards the circular economy](https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/sustainability/pdfs/towards_the_circular_economy.ashx)
 [^8]: [Circular Economy: Concepts and Principles](https://jss.utm.md/wp-content/uploads/sites/21/2020/06/JSS-2-2020_5-12.pdf)
