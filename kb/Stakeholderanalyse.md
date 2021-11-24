@@ -8,8 +8,7 @@ anrechnung: k
 
 # Stakeholderanalyse
 
-Eine Stakeholderanalyse hat das Ziel die Interessensgruppen eines [Projekts](Projekt.md) und deren Einfluss auf Entscheidungen zu identifizieren. Hierbei werden die Stakeholder zueinander in Beziehung gesetzt und kategorisiert. Somit können Sie durch Strategien gezielt gesteuert und in eine gewollte Richtung gelenkt werden.
-Kurzbeschreibung zu Stakeholderanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht [^1][^2].
+Eine Stakeholderanalyse hat das Ziel die Interessensgruppen eines [Projekts](Projekt.md) und deren Einfluss auf Entscheidungen zu identifizieren. Hierbei werden die Stakeholder zueinander in Beziehung gesetzt und kategorisiert. Somit können Sie durch Strategien gezielt gesteuert und in eine gewollte Richtung gelenkt werden [^1][^2].
 
 ## Hintergrund
 
