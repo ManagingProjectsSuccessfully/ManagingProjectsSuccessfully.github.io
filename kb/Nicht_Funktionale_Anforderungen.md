@@ -23,6 +23,13 @@ wie z.B. Techniker, Softwareentwickler oder Architekten. Zudem sind nicht-funkti
 In der Leistungsanforderung wird z.B. die "Zeit" betrachtet, also beispielsweise wie lange eine Software für die Ausführung braucht. Durchsatzraten, Ressourcenverbrauch
 oder Anzahl von gesammelten Daten können weitere leistungsbezogene Anforderungen darstellen. Randbedingungen sind z.B. Gesetze oder gesellschaftliche Grundlagen.
 
+## Weitere Unterschiede[^5]:
+
+|| Funktionale Anforderungen  | Nicht-funktionale Anforderungen |
+| ------------- | ------------- | ------------- |
+|Dokumentation| Im Use Case dokumentiert  | Als Qualitätseigenschaft dokumentiert  |
+|Tests| Komponenten, API, UI, wird vor NFA getestet  | Performance-, Nutzen-, Sicherheitstests  |
+
 ## Am Beispiel: Smartphonespiel
 
 Zur Veranschaulichung schauen wir uns einen möglichen Auftrag an. Der Kunde verlangt von einem Softwareentwicklungshaus ein Puzzle-Spiel mit Fussballelementen.
