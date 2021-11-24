@@ -13,7 +13,8 @@ Gruppenentwicklung durchlaufen. Wenn Sie diese fünf Phasen der Teamentwicklung 
 
 
 
-# Tuckman´s-Modell der Gruppenentwicklung  - Der Weg zu einem erfolgreichem Team
+# Das Tuckman-Modell der Gruppenentwicklung
+## Von Diskrepanz zum Wir-Gefühl
 
 
 Der Psychologe Bruce Tuckman entwickelte 1965 sein Gruppenentwicklungsmodell, um zu erklären, wie gesunde Teams mit der Zeit zusammenwachsen. In Tuckmans Modell werden fünf
@@ -85,7 +86,9 @@ Nicht selten wird diese Phase manchmal auch als "Trauerphase" bezeichnet, da die
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384–399. https://doi.org/10.1037/h0022100
+* Xu, H. , Chen, Z. and Mao, J. (2020) Inhibition or Facilitation? A Review of Research on the Effects of Uncertainty Stimuli on User Psychology and Behavior. American Journal of Industrial and Business Management, 10, 1586-1604. doi: 10.4236/ajibm.2020.109101.
+* Jong, Ad & de ruyter, ko & Wetzels, Martin. (2005). Antecedents and Consequences of Group Potency: A Study of Self-Managing Service Teams. Management Science. 51. 1610-1625. 10.1287/mnsc.1050.0425. 
 
 # Quellen
 
