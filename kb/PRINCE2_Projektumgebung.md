@@ -92,6 +92,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](PRINCE2_Projektumgebung.md)
 * [Projekt](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [PRINCE2](PRINCE2) 
+* [PRINCE2_Grundprinzipien](PRINCE2_Grundprinzipien)
 
 # Weiterführende Literatur
 
