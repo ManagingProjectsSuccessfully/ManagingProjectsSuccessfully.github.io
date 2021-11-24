@@ -20,6 +20,17 @@ Seit 2012 ist Podio Teil des US-amerikanische Softwareunternehmen [Citrix-System
 ## Apps
 
 Die Nutzer haben durch das cloudbasierte CRM-System die Möglichkeit 
+
+## Workspaces
+
+## Kommunikation & Online Meeting
+
+## Aufgaben Datein & Kalenderfunktionen
+
+## Integration
+
+## API & Mobile SDKs
+
 # Kosten
 
 Für Teams von einer bis fünf Personen ist die Software kostenlos [^1]. 
