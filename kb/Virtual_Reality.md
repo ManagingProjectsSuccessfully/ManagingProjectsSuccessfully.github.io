@@ -2,7 +2,7 @@
 title: Virtual_Reality
 tags: agil klassisch megatrends
 author: NK0100
-anrechnung: k
+anrechnung: k 
 ---
 
 
