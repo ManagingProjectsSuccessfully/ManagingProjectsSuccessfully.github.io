@@ -4,7 +4,7 @@ tags: agil klassisch
 author: Goschu1
 anrechnung: k 
 ---
-Dieser Artikel handelt von exemplarischen erfolgreichen Großprojekten, die Unternehmen und sogar einen Staat maßgeblich vorangebracht haben. Wie Erfolg im Projektmanagement definiert ist und gemessen wird könnnen Sie [hier](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md) nachlesen. 
+Dieser Artikel handelt von exemplarischen erfolgreichen Großprojekten, die Unternehmen und sogar einen Staat maßgeblich vorangebracht haben. Wie Erfolg im Projektmanagement definiert ist und gemessen wird, könnnen Sie [hier](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md) nachlesen. 
 
 
 # Einführung des iPhones
@@ -22,8 +22,8 @@ Eines der größten Multi-Milliarden-Projekte der frühen 2000er, welches sogar 
 
 # Projektmanagement bei American Airlines
 
-Durch die Fusion von American Airlines und US Airways kam es zu Überschneidungen bei Technologien und internen IT-Programmen. Das Management entschloss sich dazu, ein Projekt zu etablieren mit dem Ziel, die IT der Unternehmen und Datenbanken zu einer zusammenzuführen und dadurch einen kommerziellen Erfolg und effiktivere Arbeitzeiten zu schaffen.
-Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressourcen und komplexen Projekten unzureichend. Um einen Überblick über die kommerziel erfolgreichsten Daten und Projekte zu bekommen, begann das Unternehmen mit ihren Projektmanagern ein smartes System zu entwickeln, welches alle Daten automatisch auswertet. Infolgedessen konnte die Airline die Planungszeiten für Projekte und Routen verkürzen und dabei weniger Arbeiter einsetzten, was sich positiv auf den Gewinn auswirkte und mehrere Millionen Dollar einbrachte. Das Unternehmen hat nun Zugang zu besseren und zuverlässigeren Daten, um wichtige Entscheidungen über Projekte und Ressourcen zu treffen.[^7] Dank diesem erfolgreichen Projektmanagements ist American Airlines bis heute eine der größten Fluggesellschaften der Welt.[^8]
+Durch die Fusion von American Airlines und US Airways kam es zu Überschneidungen bei Technologien und internen IT-Programmen. Das Management entschloss sich dazu, ein Projekt zu etablieren mit dem Ziel, die IT der Unternehmen und Datenbanken zu einer zusammenzuführen und dadurch einen kommerziellen Erfolg und effektivere Arbeitszeiten zu schaffen.
+Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressourcen und komplexen Projekten unzureichend. Um einen Überblick über die kommerziell erfolgreichsten Daten und Projekte zu bekommen, begann das Unternehmen mit ihren Projektmanagern ein smartes System zu entwickeln, welches alle Daten automatisch auswertet. Infolgedessen konnte die Airline die Planungszeiten für Projekte und Routen verkürzen und dabei weniger Arbeiter einsetzten, was sich positiv auf den Gewinn auswirkte und mehrere Millionen Dollar einbrachte. Das Unternehmen hat nun Zugang zu besseren und zuverlässigeren Daten, um wichtige Entscheidungen über Projekte und Ressourcen zu treffen.[^7] Dank diesem erfolgreichen Projektmanagements ist American Airlines bis heute eine der größten Fluggesellschaften der Welt.[^8]
 
 ![American-Airline](Praxisbeispiele_erfolgreiche_Projekte/AmericanAirlines.jpg)
 
