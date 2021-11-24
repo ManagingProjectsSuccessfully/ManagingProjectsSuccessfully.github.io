@@ -17,7 +17,7 @@ Beispiele, die das Tragen der Verantwortung widerspiegeln:
  * Pflegen von Beziehungen
  * Projekt leiten
 
-Zusätzlich kann man diese Beispiele in freiwillige und nicht unfreiwillige Übernahme der Verantwortung unterteilen. So wäre die Übernahme der Verantwortung über ein Projekt meist eine freiwillige Aktion. Die Übernahme der Verantwortung durch eine ungewollte Schwangerschaft wäre jedoch unfreiwillig.
+Zusätzlich kann man diese Beispiele in freiwillige und nicht freiwillige Übernahme der Verantwortung unterteilen. So wäre die Übernahme der Verantwortung über ein Projekt meist eine freiwillige Aktion. Die Übernahme der Verantwortung über ein Projekt, dass Ihnen ohne Vorwarnung zugewiesen worden ist, wäre unfreiwillig.
 
 Verantwortung wird meist philosophisch erklärt und beschrieben, da es auch sehr vielschichtig und nicht eindeutig ist. Doch mit dem Begriff Verantwortlichkeit wird oft konkret die Zuweisung einer Aufgabe verbunden, wie ein Projekt zu leiten.[^2]
 
