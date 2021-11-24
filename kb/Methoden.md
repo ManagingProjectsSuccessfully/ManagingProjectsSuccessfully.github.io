@@ -7,7 +7,7 @@ anrechnung: k
 
 Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von Projekten oder Projektschritten. Die Ausführung dieser Projekte wird durch die Anwendung von bestimmten Methoden komplett oder teilweise vorgegeben.[^1] Es wird somit eine mögliche Herangehensweise an einzelne oder mehrere Schritte dargestellt, welches durch seine Dokumentierbarkeit besonders nachvollziebar und korrigierbar ist. Außerdem wird das Vorgehen durch Methoden besser vertändlich und einzelne Schritte können einfacher kommuniziert werden.[^4]
 
-Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen und geben Projekten Transparenz und Struktur.[^4] Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]S.316
+Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen und geben Projekten Transparenz und Struktur.[^4] Diese sind vielfältig, um es den Projektleitern zu ermöglichen, die jeweils passenden Methoden für ein Projekt anzuwenden.[^3]
 
 
 # Definition
