@@ -19,6 +19,7 @@ Ab 1970 wird diese Steuerungsmethode auch in den USA und Deutschland eingeführt
 Bis heute ist die Lean Produktion und Kanban Methode als Organistationsform in großen Unternehmen standard.
 
 <img width="449" alt="Bildschirmfoto 2021-11-24 um 15 14 56" src="https://user-images.githubusercontent.com/92926914/143254731-118cd134-07e8-4692-9476-99c3d276a4d5.png">
+
 *Taiichi Ōno*
 
 
