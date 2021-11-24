@@ -10,7 +10,7 @@ Der Begriff Projektarten wird in der DIN 69901 Norm als Gattung von Projekten be
 Es gibt verschiedene Möglichkeiten, Projekte zu charakterisieren. Projekte lassen sich zum einen nach Art der Aufgabenstellung unterscheiden. Bei der geschlossenen Aufgabenstellung sind die Aufgaben klar definiert und bekannt mit begrenzten Lösungsmöglichkeiten. Die offene Aufgabenstellung hingegen besitzt viele Möglichkeiten bezüglich Inhalt und Vorgehen ohne exakte Lösungsvorstellungen. Zum anderen dient auch die soziale Komplexität als charakteristische Unterscheidungsmerkmal für Projekte. Hierbei differenziert man zwischen einer geringen und hohen Komplexität. Die geringe Komplexität steht durch gering ausgeprägte Interessensunterschiede für eine unproblematische Zusammenarbeit, wohingegen eine hohe soziale Komplexität von unterschiedlichen Benutzerinteressen charakterisiert ist. Folglich besteht ein hohes Konfliktpotential. Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und Heitger darstellen, woraus sich vier Projektarten ableiten lassen.
 
 
-![Beispielabbildung](Projektarten/test-file.jpg)
+![Screenshot (634)](https://user-images.githubusercontent.com/92957209/143319388-b9813527-7d21-4df2-88a4-dfd3cf270bd1.png)
 
 *Projektarten-Matrix*
 
