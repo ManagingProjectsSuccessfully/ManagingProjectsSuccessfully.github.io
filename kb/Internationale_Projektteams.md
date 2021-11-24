@@ -27,7 +27,7 @@ Die größten Problemstellen bei internationalen Projektteams sind vor allem das
 Diese sind:
 * die Fähigkeit zuzuhören
 * die Feinfühligkeit, die unausgesprochenen Anliegen zu erkennen
-* die Fähigkeit, klar und deutlich zu kommunizieren, so dass die anderen jedes Teammitglied die Anliegen und seine Aufgabe versteht [^3].
+* die Fähigkeit, klar und deutlich zu kommunizieren, so dass jedes Teammitglied den aktuellen Projektstand kennt und seine Aufgabe versteht [^3].
 
 Gerade dadurch, dass in internationalen Projekten die Projektmitarbeiter räumlich getrennt sind und kaum direkter Kontakt vorliegt, wird der Wissensaustausch und gegenseitige Information erschwert. Hier kann es dann vorkommen, dass z.B. ein Mitarbeiter vergisst, notwendige Informationen seinem Kollegen im Ausland zukommen zu lassen. Für die Führungskräfte ist es also wichtig am Anfang des Projektes Kommunikationsstandards festzulegen, z.B. indem festgelegt wird, wie oft sich das Team zusammensetzt und austauschen soll bzw. ist auch die verwendete Sprache von entscheidender Bedeutung, sodass sowohl Verständlichkeit gewährleistet wird, als auch der Informationsverlust möglichst gering gehalten wird [^4].
 
@@ -35,7 +35,7 @@ Gerade dadurch, dass in internationalen Projekten die Projektmitarbeiter räumli
 
 Um die Mentalitäten, Werte und Erwartungen des Teams aufeinander anzupassen ist ein offener Austausch wichtig. 
 Bei der Zusammenarbeit von internationalen Projektteams treffen unterschiedliche Menschen mit unterschiedlichen Kulturen aufeinander. Dies muss dementsprechend von den führenden Projektmanagern berücksichtigt werden.  Denn kulturell diverse Teams können Unternehmen und Projekten einige Vorteile verschaffen. 
-Da Verschiedene Kulturen unterschiedliche Blickwinkel einnehmen können, kann die Zusammenarbeit des internationalen Projektteams zu kreativen, unkonventionellen Lösungen für Probleme führen. Wichtig hierbei ist nur, dass die Kulturen im Projektteam ausgeglichen vertreten sind und dass sich in diesem Sinne keine Hierarchie bildet [^5].
+Da verschiedene Kulturen unterschiedliche Blickwinkel einnehmen können, kann die Zusammenarbeit des internationalen Projektteams zu kreativen, unkonventionellen Lösungen für Probleme führen. Wichtig hierbei ist nur, dass die Kulturen im Projektteam ausgeglichen vertreten sind und dass sich in diesem Sinne keine Hierarchie bildet [^5].
 
 
 
