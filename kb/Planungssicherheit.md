@@ -80,11 +80,8 @@ sondern bis zum nächsten voraussehbaren Schritt. [^8]
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema Wasserfallmodell: 
-[Springer, „Die Komplexität der Anforderungen lässt es bei vielen Projekten kaum zu, klare Projektphasen zu planen“,2019]
-(https://link.springer.com/article/10.1365/s35764-019-00193-7)
-
-*[Video Das Wasserfallmodell - Einfach erklärt]( https://www.youtube.com/watch?v=YBwqVx2Prlk)
+* Weiterfuehrende Literatur zum Thema Wasserfallmodell:[Wirtschaftsinformatik & Management,2019](https://link.springer.com/article/10.1365/s35764-019-00193-7)
+                                                       [Video Das Wasserfallmodell - Einfach erklärt]( https://www.youtube.com/watch?v=YBwqVx2Prlk)
 * Weiterfuehrende Literatur zum Thema Projekte: 
 [Informationen über gescheiterte klassische Projekte]( http://projekt-manager.eu/gescheiterte-projekte.html)
 
