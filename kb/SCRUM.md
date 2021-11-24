@@ -15,8 +15,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 ## Definition
 
-Scrum, englisch für Gedränge, ist ein Vorgehensmodell des Projektmanagements. leichtgewichtiges Rahmenwerk, welches Menschen, Teams und Organisationen hilft, Wert durch adaptive Lösungen für komplexe Probleme zu generieren. Scrum baut auf der kollektiven Intelligenz der Personen auf, die es anwenden. Anstatt den Menschen detaillierte Anweisungen zu geben, leiten die Regeln von Scrum ihre Beziehungen und Interaktionen[^1].
-
+Scrum, englisch für Gedränge, ist ein agiles Vorgehensmodell des Projektmanagements, welches vor allem in der agilen Softwareentwicklung Anwendung findet, aber auch in vielen anderen Bereichen eingesetzt wird[^1]. Es ist ein leichtgewichtiges Rahmenwerk, welches Menschen, Teams und Organisationen hilft, Wert durch adaptive Lösungen für komplexe Probleme zu generieren. Scrum baut auf der kollektiven Intelligenz der Personen auf, die es anwenden. Anstatt den Menschen detaillierte Anweisungen zu geben, leiten die Regeln von Scrum ihre Beziehungen und Interaktionen[^2]. Andere agile Vorgehensmodelle wären zum Beispiel [Xtreme Programming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Xtreme_Programming.md)[^3] oder [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)[^4].
 
 # Bestandteile von SCRUM
 
@@ -72,8 +71,9 @@ Scrum macht die relative Wirksamkeit des aktuellen Managements, der Umgebung und
 
 # Quellen
 
-[^1]: https://scrumguides.org/scrum-guide.html
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://de.wikipedia.org/wiki/Scrum
+[^2]: https://scrumguides.org/scrum-guide.html
+[^3]: https://agilescrumgroup.de/scrum-vs-agile/
+[^4]: https://www.it-agile.de/agiles-wissen/kanban/was-ist-kanban/#:~:text=Kanban%20ist%20eine%20agile%20Methode,f%C3%BCr%20jede%20einzelne%20Ma%C3%9Fnahme%20reduziert.
+[^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
