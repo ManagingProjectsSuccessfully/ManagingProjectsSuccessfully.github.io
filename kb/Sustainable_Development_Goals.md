@@ -37,7 +37,6 @@ Die Inhalte der Ziele 1 bis 12 und der beiden Schutzziele der Ziele 16 und 17 k�
 Die SDGs betonen, dass alle Ziele miteinander verknüpft sind, da Menschen Entwicklungsprobleme nicht isoliert lösen können. Die Förderung des Aufbaus von Partnerschaften ist der Schlüssel zum Erfolg, und insbesondere die Zusammenarbeit erfordert ein beispielloses Engagement über Sektoren hinweg. Die SDGs sind visionär und decken das gesamte Spektrum der wirtschaftlichen, sozialen und ökologischen Aspekte ab. Darüber hinaus sollte das Management der Auswirkungen von Investitionen Nachhaltigkeitsaspekte vor, während und nach der Investition berücksichtigen, was die Integration der SDGs mit anderen Standards wie Finanzmanagement, Risikomanagement, Informationsmanagement und Organisationsmanagement erfordert.
 
 
-
 # Siehe auch
 
 *https://www.researchgate.net/publication/343752663_Project_Management_and_Agile_Technology_in_Environmental_Science_and_Sustainable_Development_in_the_University_-_Employer_-_Region_System
