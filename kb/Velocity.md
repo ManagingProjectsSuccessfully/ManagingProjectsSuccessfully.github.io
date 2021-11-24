@@ -41,11 +41,11 @@ auch das Projekt erfolgreich abgeschlossen werden.
 
 # Siehe auch
 
-* [Scrum](Scrum.md)
+[Scrum](Scrum.md)
 
 # Weiterführende Literatur
 
-*[Agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html)
+[Agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html)
 
 # Quellen
 
