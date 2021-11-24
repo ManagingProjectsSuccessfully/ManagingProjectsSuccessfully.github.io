@@ -23,14 +23,14 @@ Die Basis der Arbeitsweise von Algorithmen im Zuge des MLs sind Daten. Das bedeu
 
 (4) Prescriptive Analytics: Konkrete Empfehlungen anhand der erkannten Muster, um ein vordefiniertes Ziel zu erreichen
 
-![Abbildung 1](Machine_Learning_im_Projektmanagement/Entwicklungsstadien von Analytics_ Von Descriptive zu Prescreptive.jpg)
+![Abbildung 1](Machine_Learning_im_Projektmanagement/Abbildung1.jpg)
 Abbildung 1: [Entwicklungsstadien von Analytics: Von Descriptive zu Prescreptive](https://www.campana-schott.com/media/user_upload/Downloads/Case_Studies/DE/CS_Best_Practice_Predicitve_Analytics.pdf)
 
 # 3. Spezifische Einsatzgebiete von Machine Learning im Projektmanagement
 
 ML kann im Projektmanagement für verschiedene Aufgaben und Herausforderungen herangezogen werden, beispielsweise für die Bereiche Aufwandsschätzung, Zeitplanerstellung, Ressourcenzuordnung und den Projektbericht/Risikomanagement. Diese Tätigkeiten eignen sich im PM am besten zur Automatisierung. Dabei können die Teillösungen unabhängig erstellt oder miteinander verknüpft werden. [^3][^5]
 
-![Abbildung 2](Machine_Learning_im_Projektmanagement/Modularer Aufbau einer ganzheitlichen Lösung zur Implementierung von maschinellem Lernen im Projektmanagement.jpg)
+![Abbildung 2](Machine_Learning_im_Projektmanagement/Abbildung2.jpg)
 Abbildung 2: [Modularer Aufbau einer ganzheitlichen Lösung zur Implementierung von maschinellem Lernen im Projektmanagement](https://www.projektmagazin.de/artikel/kuenstliche-intelligenz-ki-projektmanagement)
 
 Zuerst ermittelt der Algorithmus für die Aufwandsschätzung die Aufwände aller geplanten Arbeitspakete und gibt die Ergebnisse dann anschließend an den Algorithmus für die Zeitplanerstellung weiter. Dieser erstellt dann mit den Informationen aus den Arbeitspaketen und den Aufwänden den bestmöglichen Projektzeitplan. Aus den Ergebnissen der beiden Algorithmen ordnet dann wiederum der Algorithmus für die Ressourcenzuordnung automatisch die Ressourcen den Arbeitspaketen zu. Am Ende erhält der Projektmanager einen Zeitplan mit möglichst wenig Leerzeiten und ohne Überlastung des Projektteams. [^3]
