@@ -49,6 +49,7 @@ Eine Kanban-Karte enthält Informationen über die Aufgabe und deren Status, dar
 Sie ermöglichen Teams einen klaren Überblick über alle Arbeitselemente und steuern sie über die verschiedenen Phasen ihres Workflows.
 
 
+
 # Was braucht man um ein Kanban Board zu erstellen?
 
 Je nach Prozess kann das Board unterschiedlich aufgebaut werden.
@@ -74,11 +75,11 @@ Im Klassischen Modell gibt es 3 Spalten:
 *Klassisches Kanban Board*
 
 
-Zu Erledigen:     In diese Spalte wird eingetragen, welche Aufgaben noch nicht begonnen wurden aber geplant sind.
+- Zu Erledigen:     In diese Spalte wird eingetragen, welche Aufgaben noch nicht begonnen wurden aber geplant sind.
 
-In Arbeit:        Hier finden sich alle Aufgaben wider, die derzeit bearbeitet werden.
+- In Arbeit:        Hier finden sich alle Aufgaben wider, die derzeit bearbeitet werden.
 
-Erledigt:         Aufgaben, die fertig gestellt wurden.
+- Erledigt:         Aufgaben, die fertig gestellt wurden.
 
 
 ## Schritt 3: Status der Aufgaben sichtbar machen
@@ -109,7 +110,9 @@ Man erkennt schnell, dass nicht alle Aufgaben den gleichen Prozessschritten folg
 Mittels den vorherigen 4 Schritten, ist das Taskboard angelegt und man kann schon jetzt mit einem Blick sehen, wo Probleme mit dem Arbeitsflusst existieren.
 
 
+
 # Prinzipien von Kanban angewendet auf das Kanban Board
+
 
 
 
@@ -124,7 +127,10 @@ Mittels den vorherigen 4 Schritten, ist das Taskboard angelegt und man kann scho
 
 
 
-1. Visualisiere den Fluss der Arbeit [https://www.personalkanban.com/pkandyou]durch 
+
+
+1. Visualisiere den Fluss der Arbeit 
+[https://www.personalkanban.com/pkandyou]durch 
 
 Anhand Kanban Karten auf einem Board, Phasen des Prozesses durch Spalten und Kennzeichnung durch extra Symbole, wird sichtbar wo der Arbeitsfluss blockiert ist.
 Wenn man wahrnimmt, dass das Warten schon standardmäßig zu einem Prozess dazu gehört, kann man beispielsweise zusätzlich eine extra Warten Spalte integrieren. 
@@ -155,6 +161,7 @@ Limits sind hilfreich um den Fokus zu wahren und Dinge schneller zu vollenden.
 5. Kommunikation 
 
 Mit den Kanban Karten werden automatisch alle wichtigen Informationen transportiert.
+
 
 
 ## Beispiele von Kanban Boards [] https://kanbantool.com/de/kanban-board-beispiele
