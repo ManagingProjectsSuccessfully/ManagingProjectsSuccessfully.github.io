@@ -23,6 +23,10 @@ Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, d
 | Patform as a Service (PaaS)       |PaaS ist ein Cloud-Service-Modell, das Entwicklern eine webbasierte Umgebung bietet, um Apps zu entwickeln und einzusetzen. PaaS bietet Datenbanken, Betriebssysteme und Programmiersprachen, die Unternehmen verwenden können, um cloudbasierte Software zu entwickeln, ohne sich um die zugrunde liegenden Komponenten kümmern zu müssen.Außerdem verfügen viele IaaS-Provider auch über ein PaaS-Angebot.[^1][^2][^3] |
 | Function as a Service (FaaS)      | FaaS-Anbieter stellen immer wieder gebrauchte Funktionen auf eine einfache Weise zur Verfügung. Somit können beliebte Funktionen oder auch Funktionen mit hohen Rechenleistungen ausgelagert werden.[^3]|
 
+[BILD](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/Cloud-Varianten-IaaS-PaaS-Saas.jpg)
+
+*Überblick*
+
 
 # 2.Liefermodelle 
 
