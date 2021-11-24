@@ -52,7 +52,7 @@ Datein können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Ein
 Podio stellt den Nutzern einen Kalender bereit. Hier können Termine und Deadlines eingetragen werden. Neben dem persönlichen Kalender hat auch jeder Workspace seinen eigenen Kalender. Die Kalender können in einen externen Kalenderservice ebenfalls exportiert werden [^1][^4].
 
 ## Integration
-Neben den bereits erwähnten Filesharing Diensten können ebenfalls Zendesk, Campaign Monitor, Evernote, FreshBooks und viele integriert werden. Des weiteren können Excel-Tabellen in Apps importiert werden und Tabellen aus Apps in Excel-Tabellen exportiert werden [^4].
+Neben den bereits erwähnten Filesharing Diensten können ebenfalls Zendesk, Campaign Monitor, Evernote, FreshBooks und viele weitere Dienste integriert werden. Des weiteren können Excel-Tabellen in Apps importiert werden und Tabellen aus Apps in Excel-Tabellen exportiert werden [^4].
 
 # Kosten [^6]
 
