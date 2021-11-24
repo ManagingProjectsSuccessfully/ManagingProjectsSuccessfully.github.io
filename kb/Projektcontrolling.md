@@ -1,6 +1,6 @@
 ---
 title: Projektcontrolling
-tags: klassisch projektmanagement meilenstein
+tags: klassisch projektmanagement meilenstein projektsteuerung kontrolle termine kosten qualität
 author: hake1110
 anrechnung: k
 ---
