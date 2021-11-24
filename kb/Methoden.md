@@ -13,7 +13,7 @@ Projektmanagement-Methoden sind spezielle Methoden, bspw. Kanban-Board, die inne
 
 Zu unterscheiden sind Methoden von Methodiken.[^7] Per definitionem ist eine Methode genau genommen die Art und Weise, wie ein Vorgehen von Statten geht [^12] oder auch ein Untersuchungs-, Forschungsverfahren oder planmäßiges Vorgehen.[^13] Eine Methodik dagegen ist die "Gesamtheit von Methoden, als Teildisziplin einer Fachwissenschaft auch die Lehre von den in dieser Wissenschaft angewandten Methoden", also die generelle Anwendung von verschiedenen Methoden.[^13] Methodiken fassen mehrere Methoden in einem Vorgehensmodell zusammen.[^7]
 
-
+Die in Projekten genutzten Methoden können je nach Projektart unterteilt werden in Vorgehensweisen für das klassische und das agile Projektmanagement sowie übergreifende Methoden, die sowohl in agilem, klassischen als auch in Mischformen wie hybriden Projektarten Anwendung finden können. [^7]
 
 # Methoden des klassischen Projektmanagements
 
@@ -33,11 +33,10 @@ Mit Hilfe von agilem Projektmanamement ist es möglich, sich laufend an verände
 Sowohl in klassischem als auch in agilem Projektmanagement oder deren Mischform, dem hybriden Projektmanagement, lassen sich übergreifende Methoden finden, die unabhängig von der Projektart angwendet werden können. In jedem Projekt müssen Risiken und entsprechende Gegenmaßnahmen erarbeitet, Stakeholder analysiert und die Wirtschaftlichkeit des Vorgehens geprüft werden.[^7]
 Oft genutzte Methoden sind hierbei [Stakeholderanalyse](Stakeholderanalyse.md), [Risikoanalyse](Risikoanalyse_und_Visualisierung.md), [Business Case](Business_Cases.md), ABC-Analyse, Plan-Ist-Vergleich, [Project Canvas](Project_Canvas.md) und die Kommunikationsmatrix.[^7]
 
- 
+
 ## Softskill-Management in Projekten
 
 Die Methoden für Kompetenzen im Projektmanagement kann prinzipiell jedes Teammitglied übernehmen. Besonders der Projektleiter benötigt jedoch bestimmte Kompetenzen, um den erfolgreichen Ablauf seines Projektes sicherzustellen.[^14]
-
 
 Für ein effizientes Selbstmanagement werden Techniken wie [Pomodoro](Pomodoro.md), [Pareto-Prinzip](Pareto_Prinzip) oder die [Eisenhower-Matrix](Eisenhower_Matrix.md) eingesetzt.[^7]
 
@@ -54,13 +53,13 @@ Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapp
 
 
 
+
+
 ### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 ![Beispielabbildung](Methoden/test-file.jpg)
-*lustiges Testbild*
+*Testbild*
 
 * das 
 * ist 
