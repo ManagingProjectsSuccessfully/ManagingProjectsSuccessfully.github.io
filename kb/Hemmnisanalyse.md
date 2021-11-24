@@ -17,7 +17,7 @@ mit welchem mögliche Probleme in der Zukunft entgegengewirkt werden soll.[^1]
 
 Die Hemmnisanalyse wurde durch das Europäisches Forschungsprojekt Relief, sowie der deutschen Forschungsprojekte NaBesI und GeB entwickelt. Die Analyse zielt
 hierbei im engeren Sinne auf Hindernisse bei der umweltfreundlichen Beschaffung ab. Die Hemmnisanalyse beschäftigt sich vorallem mit dem erkennen von relevanten
-Akteuren und das erkennen und bewerten von Hindernissen. [^2]
+[Projektmitarbeitern](Projektmitarbeiter.md) und das erkennen und bewerten von Hindernissen. [^2]
 
 
 ## Ursachen 
