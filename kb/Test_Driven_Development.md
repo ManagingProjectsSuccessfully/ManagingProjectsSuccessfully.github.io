@@ -108,7 +108,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Synergieeffekte mit Extreme Programming (XP)
 
-Der ursprüngliche Entdecker des Konzepts TDD, Kent Beck, spielte auch eine wichtige Rolle bei der Entwicklung des [Xtreme Programming](Xtreme_Programming.md) (XP). In seinem Buch über TDD[^3] geht er deshalb auf Seite 217 noch speziell darauf ein, wie sich die Grundsätze dieser beiden Arbeitsweisen kombinieren lassen.
+Der ursprüngliche Entdecker des Konzepts TDD, Kent Beck, spielte auch eine wichtige Rolle bei der Entwicklung des [Xtreme Programming](Xtreme_Programming.md) (XP). In seinem Buch über TDD[^1] geht er deshalb auf Seite 217 noch speziell darauf ein, wie sich die Grundsätze dieser beiden Arbeitsweisen kombinieren lassen.
 
 1. Ein Problem beim Pair-Programming des XP kann sein, dass die Entwickler (**TODO Gender**) versuchen, unterschiedliche Probleme zu lösen oder das Problem unterschiedlich interpretieren. Die Orientierung an Tests im TDD vermeidet dass, sodass allen immer klar ist, woran sie gerade arbeiten sollen.
 2. TDD bietet mit seinen Tests sinnvolle Meilensteine, an denen das Konzept "Bei Müdigkeit aufhören" des XP gut umsetzbar ist.
@@ -126,11 +126,11 @@ Der ursprüngliche Entdecker des Konzepts TDD, Kent Beck, spielte auch eine wich
 # Weiterführende Literatur
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Test Driven Development (TDD): Die Testgetriebene Entwicklung einfach erklärt - IONOS](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/)
 
 # Quellen
 
-[^1]: [Test Driven Development (TDD): Die Testgetriebene Entwicklung einfach erklärt - IONOS](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/)
+[^1]: [Kent Beck, "Test-Driven Development By Example"](http://ce.sharif.edu/courses/99-00/1/ce475-1/resources/root/Books/KentBeck_TestDrivenDevelopmentByExample-2002.pdf)
 [^2]: [L. Williams, E. M. Maximilien and M. Vouk, "Test-driven development as a defect-reduction practice," 14th International Symposium on Software Reliability Engineering, 2003. ISSRE 2003., 2003, pp. 34-45, doi: 10.1109/ISSRE.2003.1251029.](https://ieeexplore.ieee.org/document/1251029)
-[^3]: [Kent Beck, "Test-Driven Development By Example"](http://ce.sharif.edu/courses/99-00/1/ce475-1/resources/root/Books/KentBeck_TestDrivenDevelopmentByExample-2002.pdf)
 [^4]: [H. Erdogmus, M. Morisio and M. Torchiano, "On the effectiveness of the test-first approach to programming," in IEEE Transactions on Software Engineering, vol. 31, no. 3, pp. 226-237, March 2005, doi: 10.1109/TSE.2005.37.](https://ieeexplore.ieee.org/document/1423994)
 [^5]: [Padberg, Frank and Matthias M. Müller. “About the Return on Investment of Test-driven Development.” (2003).](https://publikationen.bibliothek.kit.edu/1000061750/3933989)
