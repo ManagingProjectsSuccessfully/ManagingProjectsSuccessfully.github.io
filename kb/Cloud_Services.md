@@ -16,12 +16,12 @@ Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, d
 
 # Verschiedene Cloud Service Modelle
 
-| Typ                        | Beschreibung   |
-| -------------------------- | -------------- |
-| Software as a Service      | Content Cell   |
-| Infrastructure as a Service| Content Cell   |
-| Patform as a Service       |
-| Function as a Service      |
+| Typ                          | Beschreibung   |
+| ---------------------------- | -------------- |
+| Software as a Service (SaaS) | Content Cell   |
+| Infrastructure as a Service (IaaS)| Content Cell   |
+| Patform as a Service (PaaS)       |
+| Function as a Service (FaaS)      |
 
 
 # Vorteile der Cloud Services
