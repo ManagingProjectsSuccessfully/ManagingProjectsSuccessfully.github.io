@@ -46,9 +46,11 @@ Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md). Im Jahr 2
 
 # Erfolgreiche Bauprojekte
 
+Der Gotthard-Basistunnel ist ein Paradebeispiel für gelungenes [Projektmanagement](Projektmanagement.md) und ein [erfolgreiches Bauprojekt](Praxisbeispiele_erfolgreiche_Projekte.md). Er wurde deutlich früher als geplant fertiggestellt und es wurde sowohl der Kostenrahmen als auch die Produktqualität eingehalten. [^10]
 
-# Bachelorstudiengang Projektmanagement Bau
+# Studiengang Projektmanagement Bau
 
+Es gibt einen extra Studiengang für das Projektmanagement bei Bauprojekten. Der Bachelorstudiengang Projektmanagement Bau lehrt die Inhalte des Bauprojektmanagements, wie der Name schon preisgibt. Mit diesem Studiengang kann nach Abschluss der Beruf des Projektmanagers ergriffen werden.
 
 # Begriffsdefinitionen
 1. Generalübernehmer: gleichzusetzen mit Totalunternehmer; (General-)Planer, der zusätzlich die Bauaufgaben übernimmt [^2]
@@ -76,3 +78,4 @@ Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md). Im Jahr 2
 [^7]: [Vom Wasserfall zum Daily Scrum – Agile Planung in der Architektur](https://www.dbz.de/artikel/dbz_Vom_Wasserfall_zum_Daily_Scrum_Agile_Planung_in_der_Architektur_3583255.html)
 [^8]: [Problembaustelle Chemikum: "Mini-BER" in Erlangen](https://www.nordbayern.de/region/erlangen/problembaustelle-chemikum-mini-ber-in-erlangen-1.4397839)
 [^9]: [Für 108 Millionen Euro: Chemikum in Erlangen eingeweiht](https://www.nordbayern.de/region/erlangen/fur-108-millionen-euro-chemikum-in-erlangen-eingeweiht-1.7573678)
+[^10]: [Der Gotthard-Basistunnel als Lehrstück für erfolgreiche Großprojekte](https://www.gpm-ipma.de/awards/aktuelles/detail/der_gotthard_basistunnel_als_lehrstueck_fuer_erfolgreiche_grossprojekte.html)
