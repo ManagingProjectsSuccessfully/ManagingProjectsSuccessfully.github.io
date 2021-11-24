@@ -33,8 +33,10 @@ Schlussendlich dient die Differenzierung in verschiedene Projektarten als Grunds
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Handbuch Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-642-21243-7.pdf)
+[^2]: [Die Klassifikation von Projekten](https://www.peterjohann-consulting.de/klassifikation-von-projekten/#4_haufige_fragen_und_antworten_zur_klassifikation_von_projekten)
+[^3]: [Die Projekt-Methode](https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6386614)
+[^4]: [Anwendungsbezogenes Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-662-52974-4.pdf)
+[^5]: Herausforderungen an das Projektmanagement: Unterschiedliche Arten von Projekten.](https://www.youtube.com/watch?v=Ar-qjMOsh7U)
+[^6]: [Projektarten: Routine-Projekt? Groß-Projekt? Innovations-/Change-Projekt?](https://www.youtube.com/watch?v=6L393nHIOS8)
 
