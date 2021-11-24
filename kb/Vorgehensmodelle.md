@@ -18,10 +18,15 @@ Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projek
 Ein Vorgehensmodell definiert ein projektspezifisches Vorgehen. 
 Brabblsgrampfj dsfkj aku ker ljkhf sakj adkjf fkann doch nicht so schwer sein...!
 Vorgehensmodelle sind doch eigentlich ganz einfach. Sie legen was fest, das bestimmt,  wie  man das Projekt machen musss. bzw iwe man handeln muss. Es gibt Festlegungen für zeitliche Abläufe, Aktivitäten, Rollen, wer wann wa smacht und manchmal auch genauere Inhalte wie M enthält es enthalten sie auch Methoden oder konkrete Werkzeuge. Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geiignetes auszuwählen ist keine leichte Sache. Es gibt untreschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur ANpassung. Es gibt einige Standard-Vorgehensmodelle ebenso wie abgewandelte z.B. firmenspezifische Vorgehensmdoelle. (Nicht abgewandelt, das einfach löschen) Genau. 
+# Arten von VM
 Wie kann man VM jetzt einteilen? Was gibt es für unterschieldihce Arten?
-Vorgehensmodelle können in "klassische" und agile Vorgehensweisen, sowie hybride Varianten unterscheiden werden. Klassische Vorgehensmodelle sind Phasenmodelle, die ein sequentielles Vorghen haben. Eine Phase muss dabei abgeschlossen sein, bevor eine nächste beginnt. Sie werden auch  "herrkömmlich", oder lineare VM genannt.
+Vorgehensmodelle können in "klassische" und agile Vorgehensweisen, sowie hybride Varianten unterscheiden werden. Die Einteilung in "klassisch", "agil", "hybrid" ist sehr häufig, aber es gibt auch / Herrschein auch andere Begriffe vor, sowohl andere Begriffe fawie "seqentiell2 etc. für "kl Teilweise mit anderen Begirffen aber ähnlichem INhalt bzw. es verbirgt sich ähnliche Einteilung dhahinter. und manchmal eine andere Einteilung , z.B. [^100]. 
+## "Klassische" Vorgehensmodelle
+Klassische Vorgehensmodelle sind Phasenmodelle, die ein sequentielles Vorghen haben. Eine Phase muss dabei abgeschlossen sein, bevor eine nächste beginnt. Sie werden auch  "herrkömmlich", oder lineare VM genannt.
+Beispeiele für klassische VM sind das Wasserfallmodell *Link* oder das V-Modell. **Vorteil** von klassischen VM ist die einfache Struktur [^90], die es schnell ermöglicht. **Nachteil** Auch wenn in Phasenmodellen häufig eine Rückkopllung zwischen benachbarten Phasen möglich ist, also dass bei Probllemen /Änderungen eine Phase zurückgesprungen werden kann, ist ein Zurückspringen zu anfänglichen Phasen schwer
+## "Agile" Vorgehensmodelle
 Agile VM beruhen auf einem iterativen Vorgehen. Beispeiele für agile Vorgehensmodelle sind Scrum *Link* oder Kanban.
-Beispeiele für klassische VM sind 
+P.S. Die Bezeichnung "agile" VM wirdist weit verbreitet, doch es gibt auch Literatur, die diesen Begriff extra nicht wählen. Denn agil ist ein größeres Framework/Mindset, und werden nicht  . Aber es gibt dennoch UNterschiede c
 
 Einige Literatur unterscheidet/erweitert/erwähnt auch noch noch weitere Arten an Vorgehensmodelle, wie Modelle, des Change-Managemetn oder
 
@@ -81,6 +86,11 @@ Einige Literatur unterscheidet/erweitert/erwähnt auch noch noch weitere Arten a
   - procedure model
   - method?? könnte im PMBOK guide Vorgehensmodell unter deren Definition Method fallen?
   - development approach / life cycle?
+  - 
+# Weiterführende Literatur
+Broy, Manfred; Kuhrmann, Marco (2021): Vorgehensmodelle in der Softwareentwicklung. In: Manfred Broy und Marco Kuhrmann (Hg.): Einführung in die Softwaretechnik. Berlin, Heidelberg: SpringerVieweg (Xpert.press), S. 83–124. Online verfügbar unter https://link.springer.com/content/pdf/10.1007%2F978-3-662-50263-1.pdf.
+
+Broy, M. & Kuhrmann, M. (2021). Vorgehensmodelle in der Softwareentwicklung. In M. Broy & M. Kuhrmann (Hrsg.), Xpert.press. Einführung in die Softwaretechnik (S. 83–124). SpringerVieweg. https://doi.org/10.1007/978-3-662-50263-1_3
 
 # Quellen
 
@@ -92,6 +102,8 @@ Einige Literatur unterscheidet/erweitert/erwähnt auch noch noch weitere Arten a
 [^60]: [x](https://dl.gi.de/bitstream/handle/20.500.12116/4894/PVM2017_paper_16.pdf?sequence=1)
 [^70]: [x](https://www.pst.ifi.lmu.de/Lehre/wise-15-16/jur-pm/vorgehensmodelle-1.pdf)
 [^80]: [Timinger, Holger (2015): Wiley-Schnellkurs Projektmanagement. 1. Auflage. Weinheim: Wiley-VCH (Wiley Schnellkurs).](https://books.google.de/books?id=8zElCQAAQBAJ&newbks=1&newbks_redir=0&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+[^90]: [Broy, Manfred; Kuhrmann, Marco (2021): Vorgehensmodelle in der Softwareentwicklung. In: Manfred Broy und Marco Kuhrmann (Hg.): Einführung in die Softwaretechnik. Berlin, Heidelberg: SpringerVieweg (Xpert.press), S. 83–124.](https://link.springer.com/content/pdf/10.1007%2F978-3-662-50263-1.pdf)
+[^100]: [Wieczorrek, Hans W.; Mertens, Peter: Vorgehen in IT-Projekten. In: Management von IT-Projekten: Springer.](https://link.springer.com/content/pdf/10.1007%2F978-3-642-16127-8.pdf)
 
 -----------------
 -----------------
