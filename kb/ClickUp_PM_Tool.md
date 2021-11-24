@@ -43,12 +43,12 @@ Spaces können aber noch in Ordner und Lists unterteilt werden. Tasks jedoch wer
 ### Lists
 
 Lists unterteilen die Aufgabenfelder so, dass hier dann Tasks eingefügt werden können. Ein Space kann mehrere Lists enthalten. 
-Lists bieten ebenfalls die Möglichkeit Aufgaben zu unterteilen nach ihrer Priorität und Fälligkeit. Diese können dann individuell benannt werden. Standardmäßig wird in To-Do, In-Progress und Complete unterteilt.
+Lists bieten ebenfalls die Möglichkeit Aufgaben zu unterteilen nach ihrer Priorität und Fälligkeit. Diese können dann individuell benannt werden. Standardmäßig wird in To-Do, In-Progress und Complete unterteilt[^3].
 
 ### Tasks
 
 Tasks sind so gestaltet, dass sie einen Namen haben eine Box haben, in der ihr grundlegende Idee erklärt wird und in welcher Bearbeitungsstufe sie sich befindet.
-Ebenfalls wird hier rechts eine Chatfunktion eingeblendet, wo Teammitglieder sich miteinander austauschen können.
+Ebenfalls wird hier rechts eine Chatfunktion eingeblendet, wo Teammitglieder sich miteinander austauschen können[^3].
 
 ## Dashboards
 
