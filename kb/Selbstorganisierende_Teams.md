@@ -2,61 +2,69 @@
 title: Selbstorganisierende_Teams
 tags: agil klassisch
 author: IremAkin 
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Selbstorganisierende_Teams um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Ursprünge des agilen Projektmanagements stammen aus dem [Toyota Production System] (TPS). In diesen Unternehmen waren bereits seit den 1950er selbstorganisierende Teams erfolgreich etabliert. 
+Selbstorganisierende Teams sind ein Kernelement in agilen Projekten. Sie haben keinen Manager oder Projektleiter, der für alle entscheidet, sondern das Team übernimmt neben der Verwirklichung und Durchführung auch die Organisation und Entscheidungen innerhalb der Projektdurchführung. Jedoch wird das Team selbst und die Richtlinien für das Projekt fremdbestimmt, denn zu viel Freiraum kann auch zu Misserfolg führen. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Was sind selbstorganisierende Teams? 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Selbstorganisierende Teams sind eine Gruppe von Mitarbeitern die, die Verantwortung für ihre Arbeit und sich selbst übernehmen. Hierbei muss das Team die Aufgaben gemeinsam verteilen. Zudem müssen sie dabei selbst überlegen wie die Aufgaben unterteilt werden können. Im Scrum-Framework wird dafür das [Sprint Planning] benutzt. Auch muss das Team die richtige Entscheidung treffen wer für welche Aufgabe geeignet ist. Darüber hinaus überwacht ein selbstorganisiertes Team den Arbeitsfortschritt selbst, dies passiert im Scrum-Framework in den Dailies. Es ist auch die Aufgabe des Teams Probleme selbst zu erkennen und die Teamorganisation zu verbessern, hierzu wird die [Retrospektive] im Scrum-Framework genutzt. 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Auch spricht man im agilen Umfeld nicht von Aufgaben, sondern von Kundenanforderungen sogenannten User Stories, welches die Orientierung für das Team sind das Projektziel zu erreichen. Dies wäre beispielsweise eine Aufgabe für den Product Owner des selbstorganisierenden Teams. 
+Einen klassischen Projektleiter gibt es nicht, dennoch braucht jedes selbstorganisierende Team einen Coach, dieser ist in Scrum der [Scrum Master]. Er kümmert sich als Initiator, Motivator und Moderator dafür, dass das Team effizient arbeitet, aber auch gemeinsam an einem Strang zieht. 
+Natürlich muss ein Team mir ihren Kompetenzen alle relevanten Bereiche abdecken können, um in der Lage zu sein alle Anforderungen selbständig zu erfüllen. Hierfür muss vom Unternehmen für die Verwirklichung von selbstorganisierenden Teams eine Basis geschaffen werden.[^1] 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Die Transition zu einem selbstorganisierenden Team
+Um ein selbstorganisiertes Team erfolgreich aufzubauen, braucht es an:
+* Teamarbeit
+* Vertrauen und Respekt 
+* Verpflichtung
+* Kompetenz
+* Kontinuität 
+* Verbesserung 
+* Motivation 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Um jedoch eine Transition von traditionellen zu agilen Prozessen und Strukturen zu verwirklichen ist die Veränderung der ganzen Agilen Onion notwendig. Dafür ist ein Umdenken in Verantwortung und Entscheidungsfindung notwendig. 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+BILD[^2] 
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Der Weg zu einem erfolgreichen und selbstorganisierenden Team lässt sich in zwei Phasen einteilen. In der ersten Phase müssen seitens der Unternehmensinhaber gewisse Rahmenbedingungen geschaffen werden. In der zweiten Phase wiederum werden im Dialog mit den Teams die Selbstorganisation weiter ausgebaut. 
+
+* Phase 1: Rahmenbedingungen erstellen
+  - Nicht Notwendige alte, traditionelle Regeln abschaffen 
+  - Die Organisation für die Umstellung oder Erstellung einrichten
+  - Ressourcen zur Verfügung stellen (Projektbudget, Weiterbildung) 
+  - Das Meinungsbild aller in den Prozess mit einbeziehen (Vorgesetzte, Manager, Teams, unterstützende Stellen)
+  - Den Rahmen für Projekte definieren (Zeitlimit)
+  - Die Arbeitsverträge falls erforderlich anpassen 
+  - Die richtigen Mitarbeiter in Teams einteilen 
+
+* Phase 2: Die Selbstorganisation des Teams
+  - Die Ziele festlegen, WAS möchten und müssen WIR erreichen? 
+  - Das Gerüst mit Inhalt füllen
+  - Anforderungen und Arbeitsweisen verteilen und festlegen
+  - Auch während des Prozesses Zeitlimits gemeinsam setzen 
+  - Aus jedem Projekt Erfahrungen ziehen und sammeln, somit wird mit der Zeit die Selbstorganisation verinnerlicht[^3] 
+ 
+ # Der Unterschied zwischen selbstorganisierenden und traditionellen Teams 
+
+Bild[^4]
+
+# Mögliche Einwände gegen eine Transition 
+
+## Die Erwartungen des Teams an den Scrum Master 
+Wenn ein Team passiv ist und erwartet, dass der Coach oder Scrum Master die Selbstorganisation und die Entscheidungen für sie trifft kann ein selbstorganisierendes Team nicht zustanden kommen. Hierbei ist es wichtig, dass die Teammitglieder verstehen, dass der Scrum Master das Team unterstützt, aber nicht Entscheidungen übernimmt. Dies muss offen kommuniziert werden. Auch kann der Scrum Master selbst Teammitglieder involvieren und als Moderator spezifisch erst nach der Meinung anderer fragen, bevor er seine preisgibt. 
+
+## Dominante Personen setzten sich durch 
+Oft wird befürchtet, dass eine dominante Persönlichkeit seine Meinung dem Team aufzwingt und alle Entscheidungen trifft. In solch einem Fall ist es wichtig, dass der Vorgesetzter aller Teammitglieder, die dominante Person im persönlichen Gespräch auf seine Verhaltensweise aufmerksam macht und oftmals liegt es daran, dass solche Persönlichkeiten ihre Gedanken als eine Entscheidung darstellen, obwohl es ihre Meinung sein muss. Es ist wichtig, dass alle Teammitglieder wachsen und für zukünftige Projekte weitere Kompetenzen und Erfahrungen ansammeln.[^5] 
+
+## Fazit 
+Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Teams nicht nur die Projektdurchführung effizient verbessern können und somit auch dem Erfolg des Unternehmens beitragen, sondern auch die Teammitglieder selbst in ihrer eigenen Entwicklung und Selbstverwirklichung weiterbringen. Paradoxerweise ist dennoch die Selbstorganisation erst einmal fremdbestimmt, denn bestimmte Voraussetzungen, Richtlinien und organisatorische Strukturen müssen dennoch vorab geschaffen werden. Dies zeigt auch, dass der Mindset der Führung eine große Rolle dabei spielt ob und wie selbstorganisierende Teams verwirklicht werden können. 
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Selbstorganisierende_Teams/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -67,23 +75,6 @@ So kann man eine Tabelle erstellen:
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
