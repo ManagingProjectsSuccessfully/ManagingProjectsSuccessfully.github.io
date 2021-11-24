@@ -69,15 +69,15 @@ Die Projekthierarchie schaut folgendermaßen aus [^8][^9] :
 
 # Weiterführende Literatur
 
-* https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf
-* https://www.projektmagazin.de/aufgaben-projektmanager-projektleiter
+* [Sustainability im Projektmanagement]https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf
+* [Verantwortungsbereiche und Aufgaben des Projektleiters]https://www.projektmagazin.de/aufgaben-projektmanager-projektleiter
 
 # Quellen
 
 [^1]: [Verantwortlichkeit](https://www.duden.de/rechtschreibung/Verantwortlichkeit)
 [^2]: [Verantwortung](https://de.wikipedia.org/wiki/Verantwortung#cite_note-8)
 [^3]: [Projektmanagement: Definitionen, Einführungen und Vorlagen](http://projektmanagement-definitionen.de/glossar/verantwortung/)
-[^4]: [Verantwortlichkeit:Zuständigkeit für projektbezogene Aufgaben](https://www.inloox.de/projektmanagement-glossar/verantwortlichkeit/)
+[^4]: [Verantwortlichkeit: Zuständigkeit für projektbezogene Aufgaben](https://www.inloox.de/projektmanagement-glossar/verantwortlichkeit/)
 [^5]: [Was heißt hier Projektverantwortung?](https://www.microconsult.de/blog/2020/02/ps_projektverantwortung/)
 [^6]: [Verantwortungverteilung](https://www.kisp.de/verantwortungsverteilung/)
 [^7]: [Projektmanagement](https://link.springer.com/content/pdf/10.1007/978-3-540-39519-5_3.pdf)
