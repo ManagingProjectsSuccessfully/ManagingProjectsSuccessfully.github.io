@@ -35,9 +35,11 @@ Bei der Planung müssen folgende Fragen geklärt werden:
 
 # Ablauf
 
-## Etikette
+Die Moderation begrüßt die Teilnehmer zum World Café und erklärt Ihnen den genauen Ablauf. Zudem werden die Themen und Fragestellungen präsentiert, wobei es sich um eine einzige Frage, aber auch um mehrere Fragen, die aufeinander aufbauen, handeln kann. 
 
-Bevor das World Café beginnt, sollten die Teilnehmer den Ablauf und die Etikette erläutert bekommen. Von allen Teilnehmern wird erwartet, dass sie stets höflich zueinander sind, sich gegenseitig zuhören und aussprechen lassen. Es ist wichtig, dass jeder seine eigenen Ansichten beiträgt und auch auf andere eingeht, um unterschiedliche Sichtweisen zu diskutieren, aufeinander aufzubauen oder auch um mehrere Ideen zu verbinden. Es ist ausdrücklich erwünscht, dass die Teilnehmer während ihren Diskussionsrunden beispielsweise Stichpunkte, Tabellen, Graphiken oder Skizzen auf der Tischdeckecke niederschreiben, wobei deren Kreativität keine Grenzen gesetzt wird.[^5]
+Danach wird die Etikette vorgestellt.
+Von allen Teilnehmern wird erwartet, dass sie stets höflich zueinander sind, sich gegenseitig zuhören und aussprechen lassen. Es ist wichtig, dass jeder seine eigenen Ansichten beiträgt und auch auf andere eingeht, um unterschiedliche Sichtweisen zu diskutieren, aufeinander aufzubauen oder auch um mehrere Ideen zu verbinden. Es ist ausdrücklich erwünscht, dass die Teilnehmer während ihren Diskussionsrunden beispielsweise Stichpunkte, Tabellen, Graphiken oder Skizzen auf der Tischdeckecke niederschreiben, wobei deren Kreativität keine Grenzen gesetzt wird.
+
 
 
 
