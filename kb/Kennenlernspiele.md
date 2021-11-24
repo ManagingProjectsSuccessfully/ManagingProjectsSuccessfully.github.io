@@ -1,6 +1,6 @@
 ---
 title: Kennenlernspiele
-tags: projekt team tuckman remote
+tags: projekt team tuckman
 author: viktoria110
 anrechnung: k
 ---
