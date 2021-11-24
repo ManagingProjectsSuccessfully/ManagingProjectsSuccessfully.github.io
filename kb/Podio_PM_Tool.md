@@ -7,10 +7,7 @@ anrechnung: k oder a
 
 ![Image](Podio_PM_Tool/podio-logo.png)
 
-[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](https://managingprojectssuccessfully.github.io/kb/Uebersicht_PM_Tools.html), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einem Ökosystem von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können [^1]. Podio unterstützt die individuelle Arbeitsweise, die soziale Zusammenarbeit sowie das flexible Arbeiten. Es liefert Projektgruppen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer Informationen [^1]. Vertrieben wird das Tool durch das US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3].
-
-# Geschichte
-
+[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](https://managingprojectssuccessfully.github.io/kb/Uebersicht_PM_Tools.html), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können [^1]. Podio unterstützt die individuelle Arbeitsweise sowie das flexible und kollaborative Arbeiten. Es liefert Projektgruppen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer wichtiger Informationen [^1]. Seit 2012 ist die Plattform Teil des  US-amerikanische Softwareunternehmen [Citrix-Systems](https://www.citrix.com/de-de/)[^3].
 
 # Kosten
 
@@ -83,6 +80,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^1]: Keiser, B. E. (2014). Tools Will Keep Us Together: Collaboration for Library Teams. Online Searcher, S. 52-57.
 Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: https://www.salesforce.com/de/learning-centre/crm/crm-systems/
-[^3]: Citrix Systems. (2021). Podio. Zugriff am 10.11.2021. Verfügbar unter: https://www.citrix.com/products/podio.html.
+[^3]: https://www.gruenderkueche.de/gruendertalk/gruenderstories/startup-podio-teamwork-tool-neu-gedacht-die-gruenderstory/
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
