@@ -39,7 +39,9 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 Wie schon oben erwähnt stellt sich erst die Frage, wie man überhaupt einen Projekt beginnt. 
 * Auftragsklärung: Um die Wünsche des Auftraggebers zu treffen und Auseinandersetzungen bei der Abnahme der Ergebnisse zu verhindern muss eine Auftragsklärung durchgeführt werden, wobei auch zusätzlihce Ressourcen eingesetz werden können. Dabei wird sichergestellt, dass Projektleitung, Auftraggeber und weitere Stakeholder dieselben Erwartungen an das Projekt haben. 
 * Zieldefinierung: Hinzu kommt vorallem auch die Zieldefinierung. Das Ziel sollte genau überprüft und sichergestellt werden, um die Aufgabenverteilung klarzustellen und die Absichten einzuordnen. Zusätzlich sollte das Ziel auf die Umsetzbakeit überprüft werden, damit später keine Probleme entstehen.
+
 ![BEISPIELABBILDUNG](https://www.projektmagazin.de/sites/default/files/styles/hero_desktop/public/2020-08/so_formulieren_sie_ein_projektziel_klar_und_ambitioniert_h.jpg?itok=_pWeLCES)
+
 * Verantwortlichkeiten: Die Festlegung der Rollen der beteiligten Personen stellt einen sehr wichtigen Faktor für den Projekterfolg dar. Je nach fachlicher Richtungen und sonstigen Kriterien sollten die Rollen im Projekt zugewiesen werden, um das Projekt erfolgreich durchzuführen. Der Auftraggeber muss auch in den Entscheidungsprozess einbezogen werden und ist somit erheblich verantwortlich für den Projekterfolg.
 * Kosten- und Terminplanung: Das Projektteam hat den anfallenden zeitlichen und finanziellen Aufwand realistisch einzuschätzen und genügend Spielraum einzuplanen, damit das Vorhaben zugänglicher, detailreicher und besser vorstellbar wird. Dazu gehört auch die Planung der Ressourcen wie Mitarbeiterinnen und Mitarbeiter, Maschinen, Fremdleistungen sowie Sachmittel.Der Projektstatus sollte regelmäßig ausgetauscht werden, um Innovationen und weitere kreative Ideen zur Verbesserung zub realisieren werden Stand-up-Meetings organisiert. Somit wird über den Status der eigenen Aufgabe und zu aktuellen Herausforderungen berichtet.[^2]
 
@@ -48,22 +50,24 @@ Wie schon oben erwähnt stellt sich erst die Frage, wie man überhaupt einen Pro
 Eine Projektplanung ist der Grundstein für einen Projekterfolg. Hierbei gibt es sämtliche wichtige Faktoren zur Projektplanung:
 
 * Projektstruktur: Die Strukturierung des Projekts stellt einen sehr wichtigen Schritt für die Durchführung dar. "Sie kann sich an Unternehmensbereichen, Projektphasen oder anderen Kriterien orientieren und sorgt für Transparenz und Überblick."
-* Pakete und Maßnahmen richtig schnüren: Um der möglichen Komplexität eines Projekts entgegnzuwirken werden Projekte in Maßnahmenpakete und darunter liegende einzelne Maßnahmen eingeteilt
+* Pakete und Maßnahmen richtig schnüren: Um der möglichen Komplexität eines Projekts entgegnzuwirken werden Projekte in Maßnahmenpakete und darunter liegende einzelne Maßnahmen eingeteilt. Thematisch zusammenpassende Maßnahmen werden zu "Paketen" gebündelt, wobei ein Paket nicht zu viele Maßnahmen enthalten sollte. "Maßnahmenpakete sollten möglichst weniger als 20% vom Gesamtprojekteffekt ausmachen, nicht länger als 1/3 der Zeit des Gesamtprojekthorizontes andauern und
+innerhalb der ersten 2-4 Reportzyklen evaluierbar sein."
+* Kick-Off: Anfangs werden alle Stakeholder im Projekt zusammengebracht, damit das Projekt, die einzelnen Teile und die Verantwortlichkeiten vorgestellt und besprochen werden. Somit wird eine hohe Akzeptanz, Motivation und Engagement sichergestellt.
+* Bottom Up oder Top Down: Aufgabenverteilung und der Führungsstil sind wichtige ragen bei der Projektplanung. Hierbei wird die Mischung aus „Bottom Up“ und „Top Down“ meist als besonders effektiv empfunden. "Die Grundstruktur, wie Projektteile und Ziele, wird vom Management und der Projektleitung vorgegeben. Das kleinteilige Ausarbeiten des Projektplans wird wiederum Bottom Up ausgeführt." Somit wird ein Zusammenschluss von klarer Projektausrichtung und ambitionierten Zielen der Führung mit der Fachexpertise und dadurch eine klare Projektdefinition erreicht.[^3]
 
+![BEISPIELABBILDUNG](https://www.nordantech.com/media/pages/blog/project-management/projekte-richtig-planen/688a97a7a9-1590574009/glenn-carstens-peters-rlw-uc03gwc-unsplash-1500x.jpg)
 
+# Die Projektphasen eines Projekts
 
+Zur Risikominimierung wird ein Projekt idealerweise in die fünf Phasen Vorbereiten, Initiieren, Planen, Steuern, Abschließen eingeteilt.
 
-
-
-
-
-
-
-
-
-* Punkteliste
-  - mit unterpunkt
-
+|  Vorbereiten                 | Initiieren                     | Planen            | Steuern                   | Abschließen        |
+| ---------------------------- | ------------------------------ | ----------------- | ------------------------- | ------------------ |
+| Ideen beschreiben            | Projektziele bestimmen         | Projektphasen     | Arbeitsfortschritt prüfen | Projektabnahme     |
+| Projektcharakter definieren  | Risiken identifizieren         | Arbeitspakete     | Termine/Kosten prüfen     | Abschlussmeeting   |
+| Projektumfeld analysieren    | Wirtschaftlichkeit analysieren | Aufgaben          | Qualität prüfen           | Rollout            |
+| Projektmachbarkeit prüfen    | Projektteam zusammenstellen    | Liefergegenstände | Berichte erstellen        | Abweichungsanalyse |           
+  
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
 So kann man eine Tabelle erstellen:
@@ -105,6 +109,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: https://www.projektmagazin.de/glossarterm/projektstart
 [^2]: https://www.business-wissen.de/artikel/projektmanagement-ein-projekt-starten/
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: https://www.nordantech.com/de/blog/project-management/projekte-richtig-planen
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
