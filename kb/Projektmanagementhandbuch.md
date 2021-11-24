@@ -1,21 +1,11 @@
 ---
 title: Projektmanagementhandbuch
-tags: agil klassisch
+tags: klassisch Projektmanagementhandbuch PM-Handbuch 
 author: Harthauer
 anrechnung: klassisch
 ---
 
-
-
-
-Kurzbeschreibung zu Projektmanagementhandbuch um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-
 # Projektmanagementhandbuch
-
 
 Das Ziel eines Projektmanagementhandbuchs ist es, die Grundlagen für die Durchführung der verschiedenen Aufgaben in Projekten zu schaffen. Es steigert die Effizienz der Projektarbeit, indem es Verfahrensabläufe festlegt und somit alle Projektbeteiligten entlastet[^1]. 
 Nach der Definition der DIN 69901-5, ist ein Projektmanagementhandbuch eine „Zusammenstellung von Regelungen, die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten“ und ist somit ein wichtiger Teil des klassischen Projektmanagements[^2]. 
@@ -58,12 +48,12 @@ Die Vorteile eines Projektmanagement-Handbuchs wären zum Beispiel, dass die Pro
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Projekthandbuch](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekthandbuch.md)
 * [Link auf diese Seite](Projektmanagementhandbuch.md)
 
 # Weiterführende Literatur
 
-
+ [Methoden und Hilfsmittel im Projektmanagement-Handbuch](https://www.business-wissen.de/hb/methoden-und-hilfsmittel-fuer-das-projektmanagement/)
 
 # Quellen
 
