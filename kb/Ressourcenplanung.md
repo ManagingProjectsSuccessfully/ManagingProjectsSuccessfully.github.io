@@ -14,7 +14,7 @@ Erfolgreiches [Projektmanagement](Projektmanagement.md) resultiert aus einer eff
 
 # Bereiche der [Ressourcenplanung](Ressourcenplanung.md) und deren Herausforderungen (Skill-Management)
 
-![Abbildung 1](felhaag/ManagingProjectsSuccessfully.github.ioRessourcenplanung/Abbildung 1.png)
+![Abbildung 1](felhaag/ManagingProjectsSuccessfully.github.io/Ressourcenplanung/Abbildung 1.png)
 
 [Abbildung 1: Die drei Ebenen und beteiligten Rollen bei der unternehmensweiten Ressourcenplanung]
 
@@ -36,9 +36,13 @@ Aufgabe der strategischen [Ressourcenplanung ](Ressourcenplanung.md)/Kapazitäts
 -> Worauf liegt das Augenmerk, falls es zu Ressourcenmangel kommt?
 
 Risiken, die bei unzureichender Planung auftreten können, sind:
+
 •	Vorzeitiger Abbruch aufgrund von Ressourcenmangel 
+
 •	Steigende Projektkosten aufgrund unzureichender Ressourcen
+
 •	Chancen können aufgrund missender Skills nicht ausgeschöpft werden
+
 •	Erhöhte Koordinationsaufwände zur Lösung von Konflikten
 
 Taktisch:
@@ -62,7 +66,7 @@ Nach der Teamzuteilung kommt die Aufgabenzuteilung. Diese kann/sollte der [Proje
 
 # Prozesse und deren Rollen zur [Ressourcenplanung](Ressourcenplanung.md)
 
-![Abbildung 2](felhaag/ManagingProjectsSuccessfully.github.ioRessourcenplanung/Ressourcenplanung/Abbildung 2.png)
+![Abbildung 2](felhaag/ManagingProjectsSuccessfully.github.io/Ressourcenplanung/Abbildung 2.png)
 
 [Abbildung 2: Das Zusammenspiel zwischen den Ebenen bei der Ressourcenplanung im Projektmanagement] 
 
