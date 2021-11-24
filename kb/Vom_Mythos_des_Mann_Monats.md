@@ -26,7 +26,7 @@ Der Mann-Monat stellt eine Maßeinheit für die Menge an Arbeit dar, die eine Pe
 
 Diese zugrunde gelegte Einheit führt jedoch zu einem Trugschluss, da irrtümlich angenommen wird, dass die Faktoren Mann und Monat, also Arbeitskraft und Arbeitszeit, austauschbar sind. Das Verhältnis zwischen Arbeitskraft und Zeit ist aber nicht linear, sodass mehr Arbeitskraft nicht zu einer verkürzten Zeit führt, was eine Austauschbarkeit ausschließt.[^1]
 
-Eine tatsächliche Austauschbarkeit liegt ausnahmsweise bei denjenigen Aufgaben vor, die so gestellt und aufgeteilt sind, dass viele Arbeitskräfte sie bewältigen können, ohne dass hierfür ein Informationsaustausch notwendig ist (Abbildung 1). Solche Software-Projekte kommen in der Praxis jedoch kaum vor.[^1]
+Eine tatsächliche Austauschbarkeit liegt ausnahmsweise bei denjenigen Aufgaben vor, die so gestellt und aufgeteilt sind, dass viele Arbeitskräfte sie bewältigen können, ohne dass hierfür ein Informationsaustausch notwendig ist (Abbildung 1). Solche Projekte kommen in der Praxis jedoch kaum vor.[^1][^4]
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Arbeitszeit%20vs.%20Arbeitskräfte%20vollständig%20unterteilbar.JPG)
 
@@ -43,14 +43,14 @@ Bei aufteilbaren Aufgaben ist hingegen ein Informationsaustausch notwendig, der 
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Aufgabe%20mit%20Kommunikation.JPG)
 
-*Abbildung 3: Projekt mit Informationsaustausch*[^4]
+*Abbildung 3: Projekt mit Informationsaustausch*[^5]
 
-Beim Informationsaustausch von n Personen sinkt ihr Output mit wachsendem n. Sobald dieser negativ wird, verzögert sich das Projekt mit jeder zusätzlich eingesetzten Person (Abbildung 3).Dabei ist die Anzahl der Kommunikationsbeziehungen definiert durch: n(n − 1) / 2 [^1][^5]
+Beim Informationsaustausch von n Personen sinkt ihr Output mit wachsendem n. Sobald dieser negativ wird, verzögert sich das Projekt mit jeder zusätzlich eingesetzten Person (Abbildung 3).Dabei ist die Anzahl der Kommunikationsbeziehungen definiert durch: n(n − 1) / 2 [^1][^6]
 
 
 ## Systemprüfung
 
-Die Dauer der Systemprüfung wird regelmäßig unterschätzt, da sie bei der Zeitplanung wenig Berücksichtigung findet beziehungsweise zu wenig Zeit für diese ….
+Die Dauer der Systemprüfung wird regelmäßig unterschätzt und wird bei der Zeitplanung meist zu kurz bemessen, sodass .
 
 ## Schätzen ohne Risikobereitschaft
 
@@ -68,10 +68,12 @@ Unter Darstellung der Gründe hält es Brooks daher für einen Mythos, dass durc
 * [Zeitplanung](Zeitplanung.md)
 * [Methode des kritischen Pfades](Methode_des_kritischen_Pfades.md]
 * [Ressourcenplanung](Ressourcenplanung.md)
+* [Gantt Diagramme](Gantt_Diagramme.md]
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... 
+* [Arbeit oder Dauer im Projektmanagement](https://www.proventis.net/de/projektmanagement-begriff/arbeit-oder-dauer)
 
 # Quellen
 
@@ -81,9 +83,11 @@ Unter Darstellung der Gründe hält es Brooks daher für einen Mythos, dass durc
 
 [^3]: [Mannjahr](https://wirtschaftslexikon.gabler.de/definition/mannjahr-39390/version-262799), 19.02.2018, abgerufen am 23.11.2021.
 
-[^4]: [Projektmanagement aus der Praxis der Softwareentwicklung](https://www-seal.cs.tu-dortmund.de/seal/downloads/teaching/pm1415/2b.%20Aufwandssch%C3%A4tzung%20V1.pdf), 27.10.2014, abgerufen am 23.11.2021
+[^4]:[Arbeit oder Dauer im Projektmanagement](https://www.proventis.net/de/projektmanagement-begriff/arbeit-oder-dauer)
 
-[^5]: [Vom Mythos des Mann-Monats](https://de.wikipedia.org/wiki/Vom_Mythos_des_Mann-Monats), abgerufen am 23.11.2021
+[^5]: [Projektmanagement aus der Praxis der Softwareentwicklung](https://www-seal.cs.tu-dortmund.de/seal/downloads/teaching/pm1415/2b.%20Aufwandssch%C3%A4tzung%20V1.pdf), 27.10.2014, abgerufen am 23.11.2021
+
+[^6]: [Vom Mythos des Mann-Monats](https://de.wikipedia.org/wiki/Vom_Mythos_des_Mann-Monats), abgerufen am 23.11.2021
 
 
 
