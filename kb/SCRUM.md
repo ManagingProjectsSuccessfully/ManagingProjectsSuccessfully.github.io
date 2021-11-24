@@ -17,9 +17,9 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 Scrum, englisch für Gedränge, ist ein agiles Vorgehensmodell des Projektmanagements, welches vor allem in der agilen Softwareentwicklung Anwendung findet, aber auch in vielen anderen Bereichen eingesetzt wird[^1]. Es ist ein leichtgewichtiges Rahmenwerk, welches Menschen, Teams und Organisationen hilft, Wert durch adaptive Lösungen für komplexe Probleme zu generieren. Scrum baut auf der kollektiven Intelligenz der Personen auf, die es anwenden. Anstatt den Menschen detaillierte Anweisungen zu geben, leiten die Regeln von Scrum ihre Beziehungen und Interaktionen[^2]. Andere agile Vorgehensmodelle wären zum Beispiel [Xtreme Programming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Xtreme_Programming.md)[^3] oder [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)[^4].
 
-# Bestandteile von SCRUM
+## Bestandteile von SCRUM
 
-## SCRUM Team:
+### SCRUM Team:
 
 -	Developer
 
@@ -27,7 +27,7 @@ Scrum, englisch für Gedränge, ist ein agiles Vorgehensmodell des Projektmanage
 
 -	Scrum Master
 
-## Scrum Events:
+### Scrum Events:
 
 -	Sprint
 
@@ -43,7 +43,7 @@ Scrum, englisch für Gedränge, ist ein agiles Vorgehensmodell des Projektmanage
 
 *Scrum auf einem Bild*
 
-## Scrum Artefakte:
+### Scrum Artefakte:
 
 -	Product Backlog
 
@@ -52,7 +52,7 @@ Scrum, englisch für Gedränge, ist ein agiles Vorgehensmodell des Projektmanage
 -	Increment
 
 
-# Vorteile
+## Vorteile
 Scrum macht die relative Wirksamkeit des aktuellen Managements, der Umgebung und der Arbeitstechniken sichtbar, so dass Verbesserungen vorgenommen werden können.
 
 
