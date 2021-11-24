@@ -54,7 +54,7 @@ Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten
 # Quellen
 
 [^1]: [Risikoarten](https://www.business-wissen.de/hb/ziele-und-aufgaben-des-risikomanagements-im-unternehmen/)
-[^2]: [Interne und Externe Umweltrisiken](https://de.wikipedia.org/wiki/Umweltrisikomanagement#Allgemeines) 
+[^2]: [Interne und Externe Umweltrisiken](https://de.wikipedia.org/wiki/Umweltrisikomanagement#Allgemeines)  
 [^3]: [Bewertung von Umweltrisiken](https://www.biologie-seite.de/Biologie/Umweltrisikomanagement) 
 
 
