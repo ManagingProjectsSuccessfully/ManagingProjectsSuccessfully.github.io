@@ -62,7 +62,8 @@ Die zuvor genannte Vorgehensweise ist flexibel anpassbar und Komponenten, wie et
 # Siehe auch
 
 Weitere kreative Methoden
-* [Link auf diese Seite](6_3_5_Methode.md)
+* [6_3_5_Methode](6_3_5_Methode.md)
+* [Walt-Disney-Methode](Walt_Disney_Methode.md)
 
 # Weiterführende Literatur
 
