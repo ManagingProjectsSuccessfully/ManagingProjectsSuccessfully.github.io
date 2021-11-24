@@ -13,8 +13,6 @@ Extreme Programming, kurz XP, ist die radikalste Umsetzung der agilen Softwareen
 Zurückzuführen ist die Methode auf die Softwareentwickler Kent Beck, Ward Cunningham und Ron Jeffries. 
 Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen , da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte. [^2]
 
-## Eine Agile Methode
-
 Extreme Programmming ist eine agile, effiziente und mit wenig Risiko verbundene Entwicklungsmethode. [^3]
 Wie Scrum und Kanban, andere agile Methoden, wird der Kunde und seine Anforderungen in den Mittelpunktgestellt.
 Be einem klassischen Ansatzies ist dies oftmals schwierig, vor allem, wenn sich die die Kundenwünsche regelmäßig ändern. [^4]
@@ -24,7 +22,7 @@ Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes
 
 Es wurde ein deutliches Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken entwickelt.
 
-![Beispielabbildung] (https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
+![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
 
 
 ## Rollen
@@ -55,8 +53,8 @@ Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Änd
 
 ## Vor- und Nachteile
 
-Die Methode ist sehr anspruchsvoll, da das gesamte Team mit einem gemeinsamen Verständnis der aktuellen Aufgabe zusammenarbeiten muss.
-Eine der Herausforderungen für Entwickler ist es Aufgaben einfach zu halten und nicht zu kompliziert zu gestalten. 
+Die Methode kann in der Umsetzung schwierig sein, da das gesamte Team gemeinsam an der aktuellen Aufgabe arbeitet. 
+Diese sollte möglichst einfach gehalten werden und nicht zu kompliziert gestaltet werden.
 Dies erfordert kontinuierliche Kommunikation, hochwertige Arbeit und wenn nötig das Annehmen von Veränderungen.
 
 Wenn das Team jedoch das Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken anwendet, gibt es viele Vorteile.
@@ -66,6 +64,7 @@ da beispielsweise eine Software zu einem frühen Zeitpunkt produktiv gehen kann.
 Der Code ist durch testgetriebene Entwicklung stets änderbar und erweiterbar und wird in sehr hoher Qualität erstellt. 
 Die Entwickler werden von den Erfolgserlebnissen, wenn eine neue Version ausgeliefert werden kann, motiviert und können sich mit dem Code identifizieren.
 
+Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeinsamen Verständnis an der aktuellen Aufgabe zusammenarbeitet und das Framework beachtet ist die Methode sehr effizient und erfolgsbringend.
 
 ## Siehe auch
 
