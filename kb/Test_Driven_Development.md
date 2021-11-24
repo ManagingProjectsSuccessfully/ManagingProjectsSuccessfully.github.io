@@ -5,13 +5,13 @@ author: Ferdi-nand
 anrechnung: k
 ---
 
-Im Kontext der Softwareentwicklung bezeichnet Test Driven Development (TDD) die Strategie, vor der Entwicklung von Code bereits die Tests dafür zu erstellen und den eigentlichen Code erst danach zu entwickeln.[^1][^2]
+Im Kontext der Softwareentwicklung bezeichnet Test Driven Development (**TDD**) die Strategie, vor der Entwicklung von Code bereits die Tests dafür zu erstellen und den eigentlichen Code erst danach zu entwickeln.[^1][^2]
 
 # Vorgehensweise
 
 Ursprünglich vorgestellt wurde der Ansatz 2002 von Kent Beck, einem Mitentwickler des [Extreme Programming](Xtreme_Programming.md), in seinem Buch "Test-Driven Development By Example"[^3]. 
 
-Darin zeigte er die erfolgreiche Anwendung an verschiedenen Beispielen und erklärte dessen Zyklus "Red/green/refactor", der die Entwicklung in drei Phasen einteilt, die immer wieder nacheinander ablaufen.
+Darin zeigte er die erfolgreiche Anwendung an verschiedenen Beispielen und erklärte dessen Zyklus "Red/green/refactor", der die Entwicklung in drei Phasen einteilt, die immer wieder nacheinander ablaufen. Red und Green beziehen sich dabei auf die Farben für fehlgeschlagene (rot) und erfolgreiche (grün) Tests in vielen Entwicklungsumgebungen, [Refactor](https://de.wikipedia.org/wiki/Refactoring) beschriebt die Überarbeitung des Codes.
 
 ## Der RGR-Zyklus
 
@@ -23,7 +23,9 @@ Das Projekt wird in kleine Funktionalitäten unterteilt, die nacheinander hinzug
 | Green  | Schreibe deinen Code so um, dass der Code funktioniert. Dabei wird nicht auf guten Stil (z.B. Kommentare, Vermeidung von Duplikationen) geachtet, wichtig ist die Funktion.  |
 | Refactor  | Jetzt wird der funktionierende Code überarbeitet, sodass er weiterhin funktioniert, aber die Richtlinien zu gutem Stil erfüllt, die im zweiten Schritt ignoriert wurden.  |
 
+![Beispielabbildung](Test_Driven_Development/test-file.jpg)
 
+*Übersicht zum Vorgehen beim Test Driven Development*[^3]
 
 # Effekte von TDD
 
@@ -132,5 +134,6 @@ Der ursprüngliche Entdecker des Konzepts TDD, Kent Beck, spielte auch eine wich
 
 [^1]: [Kent Beck, "Test-Driven Development By Example"](http://ce.sharif.edu/courses/99-00/1/ce475-1/resources/root/Books/KentBeck_TestDrivenDevelopmentByExample-2002.pdf)
 [^2]: [L. Williams, E. M. Maximilien and M. Vouk, "Test-driven development as a defect-reduction practice," 14th International Symposium on Software Reliability Engineering, 2003. ISSRE 2003., 2003, pp. 34-45, doi: 10.1109/ISSRE.2003.1251029.](https://ieeexplore.ieee.org/document/1251029)
+[^3]: [Ursprüngliche Abbildung](https://en.wikipedia.org/wiki/File:TDD_Global_Lifecycle.png) veröffentlicht von Xavier Pigeon unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de), Übersetzung ins Deutsche durch Ferdinand Eckl, veröffentlicht unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 [^4]: [H. Erdogmus, M. Morisio and M. Torchiano, "On the effectiveness of the test-first approach to programming," in IEEE Transactions on Software Engineering, vol. 31, no. 3, pp. 226-237, March 2005, doi: 10.1109/TSE.2005.37.](https://ieeexplore.ieee.org/document/1423994)
 [^5]: [Padberg, Frank and Matthias M. Müller. “About the Return on Investment of Test-driven Development.” (2003).](https://publikationen.bibliothek.kit.edu/1000061750/3933989)
