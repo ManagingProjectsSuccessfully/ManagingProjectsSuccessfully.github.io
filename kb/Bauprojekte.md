@@ -32,7 +32,8 @@ Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalüberneh
 
 ## Das beste Projektmanagement für Bauprojekte
 Um das bessere Projektmanagement herauszufinden, muss man das klassische Projektmanagement und das agile Projektmanagement miteinander vergleichen und die Unterschiede und Gemeinsamkeiten näher betrachten.
-Der Vertreter des klassischen Projektmanagements ist das [Wasserfallmodell](Wasserfall_Modell.md). Bei diesem Modell ist der [Dokumentationsaufwand](Projektdokumentation.md) jedoch sehr groß. Außerdem werden die Kunden bzw. Endbenutzer kaum in das Projekt integriert. Jedoch hat es einen einfachen Zugang, ist leicht verständlich und besitzt eine klare Struktur. [^5]
+Der Vertreter des klassischen Projektmanagements ist das [Wasserfallmodell](Wasserfall_Modell.md). Dieses hat einen einfachen Zugang, ist leicht verständlich und besitzt eine klare Struktur. Jedoch ist bei diesem Modell der [Dokumentationsaufwand](Projektdokumentation.md) sehr groß. Außerdem werden die Kunden bzw. Endbenutzer kaum in das Projekt integriert. [^5]
+Das agile Projektmanagement ist vorallem in der Planungsphase von Bauvorhaben sinnvoll, da dort eine hohe Dynamik herrscht und diese Art von Projektmanagement die Effektivität und die Effizienz dort erhöhen kann.
 
 # Gescheiterte Bauprojekte
 Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md)
@@ -63,3 +64,4 @@ Das Chemikum in Erlangen ist eine [Dauerbaustelle](Dauerbaustelle.md)
 [^3]: [Die 6 Phasen eines Bauprojekts](https://www.letsbuild.com/de/blog/die-6-phasen-eines-bauprojekts)
 [^4]: [Was macht ein Projektsteuerer?](https://www.freelancermap.de/blog/was-macht-ein-projektsteuerer/)
 [^5]: [Ist das agile Projektmanagement für die Bauwirtschaft geeignet?: Eine Synopse von klassischem & agilem Projektmanagement](https://books.google.de/books?hl=de&lr=&id=T6TbDwAAQBAJ&oi=fnd&pg=PP1&dq=klassisches+projektmanagement+bei+Bauprojekten&ots=xicw2A9aJr&sig=QTwYuzxAutL_e2n3AlPTjL4zf4g#v=onepage&q=klassisches%20projektmanagement%20bei%20Bauprojekten&f=false)
+[^6]: [Agil sein oder nicht sein: Ist das wirklich noch die Frage? Agile Design Management in der Planungsphase von Bauvorhaben](https://www.mp-gruppe.de/fileadmin/user_upload/content/blog/2019/Bau_VDI-Jahresausgabe_2019-2020f.pdf)
