@@ -33,7 +33,7 @@ Workspaces dienen zur organisation von Projekten und der Zusammenarbeit in Proje
 Im Mitarbeiternetzwerk von Podio werden alle Mitarbeitenden einer Organisation in einem Workspace vernetzt [^4]. 
 
 ## Kommunikation & Online Meeting
-Zu jedem Workspace gibt es einen Aktivitätsverlauf. Dieser zeigt Aktivitäten aus den Apps und Statusnachrichten der Mitglieder des Workspaces auf. Per Statusnachrichten können Fragen und Probleme gestellt werden. Dabei können Bilder, Dateien und Links hinzugefügt werden. Die Statusnachrichten können von anderen Mitgliedern kommentiert und geliked werden. Durch den Podio Chat können Mitarbeitende sich ebenfalls untereinander austauschen per Nachricht und Videotelefonie [^4].
+Zu jedem Workspace gibt es einen Aktivitätsverlauf. Dieser zeigt Aktivitäten aus den Apps und Statusnachrichten der Mitglieder des Workspaces auf. Per Statusnachrichten können Fragen und Probleme gestellt werden. Dabei können Bilder, Dateien und Links hinzugefügt werden. Die Statusnachrichten können von anderen Mitgliedern kommentiert und geliked werden. Durch den Podio Chat können Mitarbeitende sich ebenfalls untereinander austauschen per Nachricht und Videotelefonie [^4][^5].
 
 Die GoToMeeting App von Polio ermöglicht Besprechungen [^4].
 
@@ -54,24 +54,7 @@ Polio stellt den Nutzern einen Kalender bereit. Hier können Termine und Deadlin
 ## Integration
 Neben den bereits erwähnten Filesharing Diensten können ebenfalls Zendesk, Campaign Monitor, Evernote, FreshBooks und viele integriert werden. Des weiteren können Excel-Tabellen in Apps importiert werden und Tabellen aus Apps in Excel-Tabellen exportiert werden [^4].
 
-# Kosten
-
-Für Teams von einer bis fünf Personen ist die Software kostenlos [^1]. 
-
-# Reviews
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
+# Kosten [^6]
 
 | Feature | Kostenlos | Basis-Paket | Plus-Paket | Premium-Paket |
 | ------------- | ------------- |------------- |------------- |------------- |
@@ -87,24 +70,8 @@ So kann man eine Tabelle erstellen:
 | Kontaktsynchronisation | | | | x |
 | Interaktive Sale Dashboards | | | | x |
 | Erweiterte automatische Workflows | | | | x |
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+# Reviews
 
 # Siehe auch
 
@@ -122,7 +89,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Podio Setup Guide](https://www.youtube.com/watch?v=tBMv6f-bwiE&ab_channel=FlipWithRick)
+* [Understanding Podio in 60 Seconds](https://www.youtube.com/watch?v=GLV3djU_UDs&ab_channel=Podio)
+* [New Citrix Podio App for iPad Designed for Today's Mobile Workstyles](https://www.proquest.com/docview/2112467543/9CD7482B82C4B3BPQ/4?accountid=10755)
+* [Citrix Extends Free Project and Work Management Tools to Nonprofits](https://www.proquest.com/docview/2080372055/9CD7482B82C4B3BPQ/2?accountid=10755)
 
 # Quellen
 
@@ -132,4 +102,5 @@ Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, W
 [^3]: https://www.gruenderkueche.de/gruendertalk/gruenderstories/startup-podio-teamwork-tool-neu-gedacht-die-gruenderstory/
 [^4]: https://podio.com/site/de/features-index
 [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-[^5]:https://podio.com/site/de/pricing
+[^5]:https://www.proquest.com/docview/2095554792/9CD7482B82C4B3BPQ/3?accountid=10755
+[^6]:https://podio.com/site/de/pricing
