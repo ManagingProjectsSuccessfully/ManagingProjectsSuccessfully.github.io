@@ -8,7 +8,12 @@ Kompendium: was zum Lesen und man hat's kapiert
 Kurzbeschreibung zu Vorgehensmodelle
 
 # Begriffsdefinition Vorgehensmodell
-Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, Rollen, wer wann was macht und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge.
+Broy und Kuhrmann[^110] definieren den Begriff Vorgehensmodell folgendermaßen:  
+"Ein Vorgehensmodell beschreibt systematische, ingenieurmäßige und quantifizierbare Vorgehensweisen, um Aufgaben einer bestimmten
+Klasse wiederholbar zu lösen."[^110]
+Vorgehensmodelle sind dabei von Methoden zu unterscheiden. In einem Vorgehensmodell können verschiedene und mehrere Methoden angewandt werden. [^110] Diese können in einem Vorgehensmodell festgelegt werden, aber müssen nicht. Ein Vorgehensmodell kann Festlegungen zur Verwendung von Methoden enthalten, muss es aber nicht. [^90] / VM können verschieden Methoden enthalten. [
+
+Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise zeitliche Abläufe, Aktivitäten, Rollen, wer wann was macht und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. [^110][^]
 Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geignetes auszuwählen ist keine leichte Sache. Es gibt unterschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur Anpassung. Es gibt einige Standard-Vorgehensmodelle ebenso wie abgewandelte z.B. firmenspezifische Vorgehensmdoelle. (Nicht abgewandelt, das einfach löschen) Genau.
 
 ![Bestandteile eines Vorgehensmodells](Vorgehensmodelle/Bestandteile_eines_Vorgehensmodells.png)
