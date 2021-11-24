@@ -5,13 +5,13 @@ author: IremAkin
 anrechnung: k
 ---
 
-Im klassischen Projektmanagement ist der Projektleiter für die Steuerung des [Projekt](Projekt.md)es und für die operative Planung zuständig. Für die Planung bestimmt er die Ziele und übernimmt das Management der Ressourcen. Insbesondere ist er für die Termin-, Kosten- und Sachziele unter der Berücksichtigung der angestrebten Produktqualität verantwortlich.
+Im klassischen [Projektmanagement](Projektmanagement.md) ist der Projektleiter für die Steuerung des [Projekt](Projekt.md)es und für die operative Planung zuständig. Für die Planung bestimmt er die Ziele und übernimmt das Management der Ressourcen. Insbesondere ist er für die Termin-, Kosten- und Sachziele unter der Berücksichtigung der angestrebten Produktqualität verantwortlich.
 
 # Die zwei Arten ein Projekt zu leiten
 
-* In hierarchiefreien Projektgruppen hat der Projektleiter die Rolle eines Initiators und Moderators. Hierbei tragen alle Teammitglieder gemeinsam die Verantwortung für die Erreichung des Projektergebnisses und sind somit gleichgestellt. 
+* In hierarchiefreien Projektgruppen hat der Projektleiter die Rolle eines Initiators und Moderators. Hierbei tragen alle Teammitglieder gemeinsam die Verantwortung für die Erreichung des Projektergebnisses und sind somit gleichgestellt. Vergleichbar mit der [Bottom Up Planning](Bottom_Up_Planning)
 
-* Bei hierarchischen Projektgruppen wird ein Teammitglied von einem Vorgesetzten oder einem Team auserwählt und mit einer höheren Verantwortung und besonderer Kompetenz ausgestattet. Die Breite dieser Kompetenz kann auch bis zur uneingeschränkten Führung der jeweiligen Projektgruppe führen. 
+* Bei hierarchischen Projektgruppen wird ein Teammitglied von einem Vorgesetzten oder einem Team auserwählt und mit einer höheren Verantwortung und besonderer Kompetenz ausgestattet. Die Breite dieser Kompetenz kann auch bis zur uneingeschränkten Führung der jeweiligen Projektgruppe führen. Diese sind wiederum vergleichbar mit dem [Top Down Planning](Top_Down_Planning.md)  
 Der folgende Beitrag fokussiert sich genau auf solch einen Projektleiter, einer klassischen und hierarchischen Projektgruppe.
 
 Jedoch sind konstante Anpassungen und Veränderungen fester Bestandteil des Projektmanagements, weshalb sich die Leitungskompetenz der Teammitglieder und auch die des Projektleiters im Laufe der Projektdurchführung verändern können.[^1]  
@@ -52,16 +52,16 @@ Im Zusammenhang mit Projektcontrolling übergibt der Projektleiter die Aufgabe d
 ## Mitarbeiterführung
 Auch wenn ein Projektleiter unter anderem ein [Projektmitarbeiter](Projektmitarbeiter.md) ist und nicht unbedingt der direkte Vorgesetzte der Teammitglieder ist, stehen ihm jedoch folgende Kompetenzen zu:
   1. Die Planung und Durchführung der Weiterbildungsmaßnahmen des Teams 
-  2. Die Zuweisung von Projektteilaufgaben an die Teammitglieder 
+  2. Bestimmung der [Aufgabenteilung](Aufgabenteilung.md) im Team  
   3. Das Mitsprachrecht für die Urlaubs- und Abwesenheitsplanung von Mitgliedern 
-  4. Motivator und Initiator des Teams[^4] 
+  4. Motivator und Initiator des Teams[^1][^4] 
 
 ## Zusammenfassung 
 Zusammenfassend kann festgestellt werden, dass ein Projektleiter einer hierarchischen Projektgruppe im klassischen Projektmanagement, in erster Linie Verantwortlich für die Planung und Kontrolle eines Projekts ist. Außerdem ist er während der gesamten Projektdurchführung für die Einhaltung der Fristen und Forderungen zuständig. 
 
 Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt das durchschnittliche Gehalt eines Projektleiters in Deutschland bei 63.960 € brutto pro Jahr."[^5]Allerdings ist es auch möglich als Projektleiter einen Verdienst von bis zu 90.000€ im Jahr zu erhalten, denn jedes Projekt und jeder Auftraggeber ist verschieden, weshalb ein Projektleiter mit jeder Erfahrung seinen persönlichen Marktwert steigert. 
 
-(Eine Bitte an meine Reviewer: Bitte schreibt mir doch gerne auch noch dazu ob und wenn ja was für Informationen euch bezüglich dieses Themas fehlen. Vielen Dank)
+(Eine Bitte an meine Reviewer: Bitte schreibt mir doch gerne auch noch dazu ob und wenn ja was für Informationen euch bezüglich dieses Themas fehlen. Und ob ihr einen besseren Vorschlag für eine Graphik/Bild hättet, Vielen Dank)
 
 
 
@@ -85,19 +85,24 @@ Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt
 
 
 # Siehe auch
+* [Who is Who Projectmanagement](Who_is_Who_Projectmanagement.md) 
+* [Projektmanagement](Projektmanagement.md)
 * [Projekt](Projekt.md)
+* [Bottom up Planning](Bottom_Up_Planning)
+* [Top Down Planning](Top_Down_Planning) 
 * [Projektmitarbeiter](Projektmitarbeiter.md)
- 
+* [Aufgabenteilung](Aufgabenteilung.md) 
+* [Projektportfoliomanagement](Projektportfoliomanagementmd.)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Gotthold Zielasek: Projektmanagement als Führungskonzept - Erfolgreich durch Aktivierung aller Unternehmensebenen. Springer-Verlag,  Berlin, Heidelberg 1999, [978-3-642-60144-6](https://doi.org/10.1007/978-3-642-60144-6) 
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^1]: [DIE 7 HAUPTAUFGABEN EINES PROJEKTLEITERS (M/W) (Tintschl AG)](https://blog.tintschl.de/projektleiter) 
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: 
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-[^5]: 
+[^3]: [What is Agile? (Adventures with Agile)](https://www.adventureswithagile.com/2016/08/10/what-is-agile/) 
+[^4]: Gotthold Zielasek: Projektmanagement als Führungskonzept - Erfolgreich durch Aktivierung aller Unternehmensebenen. Springer-Verlag,  Berlin, Heidelberg 1999, [978-3-642-60144-6](https://doi.org/10.1007/978-3-642-60144-6) 
+[^5]: [Was macht ein Projektleiter? Aufgaben und mögliche Projekte (appvizer)](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/projektleiter) 
  
