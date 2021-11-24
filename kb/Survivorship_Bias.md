@@ -13,7 +13,7 @@ Survivorship Bias bezeichnet den Effekt der kognitiven Verzerrung. Dies beschrei
 
 
 Abbildung der historischen Auswertung[^2]
-<img width="855" alt="Bildschirmfoto 2021-11-23 um 12 10 48" src="https://user-images.githubusercontent.com/93227993/143014236-6b3c0832-7fed-45b0-a8b1-c76a92d459c3.png">
+<img width="855" alt="Bildschirmfoto 2021-11-23 um 12 10 48" src="kb/Survivorship_Bias/Bildschirmfoto 2021-11-23 um 12.10.48.png">
 
 *Flugzeug mit der punktuellen Auswertung der Einschusslöcher*
 
