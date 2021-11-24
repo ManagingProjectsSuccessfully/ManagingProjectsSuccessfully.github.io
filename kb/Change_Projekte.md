@@ -80,7 +80,7 @@ Das Ziel von Change-Projekten besteht also darin durch neue Strategien, Systeme,
 [^4]: [The LEGO Group - About us - LEGO.com DE](https://www.lego.com/de-de/aboutus/lego-group/)
 [^5]: [www.bwl-lexikon.de. Change Management](https://www.bwl-lexikon.de/wiki/change-management/)
 [^6]: [www.theguardian.com. How Lego clicked: the super brand that reinvented itself](https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself)
-[^7]: [Krause, T. (2014). Steinreich. Süddeutsche Zeitung Magazin. Steinreich. Heft 14](https://sz-magazin.sueddeutsche.de/wirtschaft-finanzen/steinreich-80333)
+[^7]: [Krause, T. (2014). Steinreich. Süddeutsche Zeitung Magazin. Heft 14](https://sz-magazin.sueddeutsche.de/wirtschaft-finanzen/steinreich-80333)
 [^8]: [O’Connell, A. (2009). Lego CEO Jørgen Vig Knudstorp on leading through survival and growth. Harvard Business Review.](https://hbr.org/2009/01/lego-ceo-jorgen-vig-knudstorp-on-leading-through-survival-and-growth)
 [^9]: [Oliver, K., Samakh, E., Heckmann, P. Rebuilding Lego (2007). Rebuilding Lego, Brick by Brick: How a supply chain transformation helped put the beloved toymaker back together again.](https://www.strategy-business.com/article/07306)
 [^10]: [Outsourcing and Insourcing - LEGO® History - LEGO.com US](https://www.lego.com/en-us/history/articles/i-outsourcing-and-insourcing)
