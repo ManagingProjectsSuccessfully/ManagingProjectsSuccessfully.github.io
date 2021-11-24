@@ -46,6 +46,8 @@ Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten
 
 # Weiterführende Literatur
 
+[Nachhaltigkeit und Umweltrisiken](https://home.uni-leipzig.de/energy/energie-grundlagen/18.html)
+[Analyse und Beurteilung von betrieblichen Umweltrisiken](http://www.uni-kassel.de/upress/online/frei/978-3-933146-09-0.volltext.frei.pdf)
 [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md)
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
