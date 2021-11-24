@@ -27,7 +27,7 @@ Stakeholder können in intern und extern gegliedert werden. Nachfolgend sind ein
 *	Investoren
 *	Kunden
 
-Die Notwendigkeit eines [Stakeholdermanagements](Stakeholdermanagement.md) ist essenziell. Ein ungeplantes Einschreiten bzw. ein nicht erwartetes Handeln von Stakeholdern kann Projekte in zeit- und kostentechnischer gefährden, wenn nicht sogar zum Scheitern bringen. Daher ist es das oberste Ziel des Stakeholdermanagements, die Stakeholder einzuschätzen, zu kontrollieren und eine Akzeptanz für das Projekt zu schaffen. Aus diesem Grund ist eine umfangreiche Analyse der Interessensgruppen und deren Einstellungen zu gewissen Themen unabdingbar. Dies geschieht anhand einer Stakeholderanalyse. 
+Die Notwendigkeit eines [Stakeholdermanagements](Stakeholdermanagement.md) ist essenziell. Ein ungeplantes Einschreiten bzw. ein nicht erwartetes Handeln von Stakeholdern kann Projekte in zeit- und kostentechnischer gefährden, wenn nicht sogar zum Scheitern bringen. Daher ist es das oberste Ziel des Stakeholdermanagements, die Stakeholder einzuschätzen, zu kontrollieren und eine Akzeptanz für das Projekt zu schaffen. Aus diesem Grund ist eine umfangreiche Analyse der Interessensgruppen und deren Einstellungen zu gewissen Themen unabdingbar. Dies geschieht anhand einer Stakeholderanalyse [^5]. 
 
 ## Anwendung
 
@@ -98,4 +98,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 [^2]: [wwww.betriebswirtschaft-lernen.net](https://www.betriebswirtschaft-lernen.net/erklaerung/stakeholderanalyse/)
 [^3]: [www.projektmanagement-manufaktur.de](https://projektmanagement-manufaktur.de/stakeholderanalyse)
 [^4]: [www.strategische-wettbewerbsbeobachtung.com](https://www.strategische-wettbewerbsbeobachtung.com/wiki/stakeholderanalyse/)
-[^5]: [Krips D. (2017), Stakeholdermanagement. Springer Verlag)](https://link.springer.com/book/10.1007/978-3-662-55634-4)
+[^5]: [Krips D., 2017, Stakeholdermanagement, Springer Verlag](https://link.springer.com/book/10.1007/978-3-662-55634-4)
