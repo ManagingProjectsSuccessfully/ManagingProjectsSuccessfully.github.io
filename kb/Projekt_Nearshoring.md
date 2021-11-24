@@ -1,23 +1,15 @@
 ---
 title: Projekt_Nearshoring
-tags: agil klassisch
+tags: klassisch
 author: Eugen0209
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Projekt_Nearshoring um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Projekt Nearshoring (auf Deutsch Nahverlagerung) gilt als Sonderform des Projekt Offshorings und bedeutet, dass betriebliche Aktivitäten in nahegelegene Länder z.B. aus Westeuropa nach Osteuropa verlagert werden. (Besonders beliebt ist es im High-Tech Dienstleistungs-bereich wie der IT-Branche, bei den Finanzen, im Management sowie in der Steuerberatung. Das Gegenteil davon ist das Farshoring, wobei Aktivitäten in weiter entfernte Länder wie Indien oder China umgesiedelt werden. Abgesehen von geografischen Verlagerungen gibt es organisatorische Verlagerungen, die als Outsourcing bezeichnet werden. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Ziele des Nearshorings
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Ein Grund für die Delokalisierung von Unternehmen ist, dass in den Industrienationen Fachkräftemangel herrscht und die Auslandsmärkte stetig wachsen. Deshalb werden verschiedene Ziele verfolgt, die die nahe Verlegung besonders attraktiv machen. Zum einen können Personalkosten gesenkt werden, aufgrund des niedrigeren Einkommensniveaus im Ausland. Andererseits soll durch die Nähe der dienstleistenden Unternehmen ein zeitnaher Abschluss des Projekts gewährleistet werden. Hierbei illustriert eine Grafik den starken Lohnunterschied zwischen den Ländern.
 
 Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
