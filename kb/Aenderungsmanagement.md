@@ -26,7 +26,7 @@ Die erste Aufagbe des Änderungsmanageemnts besteht darin, notwendige Änderunge
 
 # Wie sieht der typische Verlauf im Änderungsmanagement aus?
 
-
+![Änderungsworkflow] (Aenderungsmanagement/Änderungsworkflow.png)
 
 
 
