@@ -9,10 +9,12 @@ Velocity kommt aus dem Englischen und bedeutet Geschwindigkeit. Dies bezieht sic
 eine Maßeinheit für die Geschwindigkeit eines Teams. In Scrum wird mit der Velocity gemessen, wie viele Story Points ein Scrum Team im Schnitt pro Sprint erledigen kann 
 (Quelle).[^1]
 
-Die Velocity wird meistens im Zusammenhang mit Scrum (Link) , einem Vorgehensmodell des Projektmanagements, verwendet. Genauer gesagt misst sie die Arbeitsmenge, die ein 
-Entwicklungsteam in einem Sprint erledigen kann. Also ist sie ein Maß für die Schnelligkeit des Teams. Sie variiert auch von Sprint zu Sprint, ist also keine konstante Größe 
-innerhalb eines Projekts.[^2]
+Die Velocity wird meistens im Zusammenhang mit Scrum (Link) , einem Vorgehensmodell des Projektmanagements, verwendet. Da die Story Points in Scrum alleine keine Aussagekraft 
+in Bezug auf den Arbeitsaufwand und die Geschwindigkeit des Teams haben, wird die Velocity als aussagekräftige Maßeinheit benötigt. Genauer gesagt misst sie die Arbeitsmenge, 
+die ein Entwicklungsteam in einem Sprint erledigen kann. Also ist sie ein Maß für die Schnelligkeit des Teams. Sie variiert auch von Sprint zu Sprint, ist also keine 
+konstante Größe innerhalb eines Projekts.[^2]
 
+# Berechnung
 Um die Velocity zu berechnen muss man lediglich alle Punkte der vom Entwicklungsteam vollständig abgelieferten User Storys addieren. Mit einem Beispiel lässt sich die 
 Rechnung einfach darstellen. 
 Angenommen man hat drei User Storys, Story A mit 4 Punkten, Story B mit 5 Punkten und Story C mit 7 Punkten. Das Team schafft in einem Sprint nur 
@@ -21,7 +23,7 @@ A und B vollständig und C nicht ganz fertig. So muss man nur die Punkte von A u
 Die Geschwindigkeit kann man mit Hilfe eines Velocity Charts visualisieren. Man stellt die Vorhersage und die wirkliche Velocity der jeweiligen Sprints gegenüber und kann so 
 Abweichungen darstellen. Daraufhin sollte sich das Team die Gründe für die Abweichungen oder die korrekten Vorhersagen überlegen um in Zukunft eine noch bessere Planung und 
 Vorhersage treffen zu können.
-![VelocityVis](https://user-images.githubusercontent.com/92984271/143246428-644cef43-5a4d-4b3e-9ec9-cb1634cf8f2c.jpg)
+![VelocityVis](https://user-images.githubusercontent.com/92984271/143246428-644cef43-5a4d-4b3e-9ec9-cb1634cf8f2c.jpg)[^2]
 
 Die Velocity bietet viele Vorteile für das Projekt. Zum einen kann die Leistung und der Fortschritt des Entwicklungsteams gemessen werden und man erhält so wertvolles 
 Feedback das zu Optimierungen und einem besseren Verständnis der Arbeitsprozesse führt. Zusätzlich ist die Velocity für den Product Owner sehr nützlich da er durch sie genau 
