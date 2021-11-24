@@ -71,20 +71,20 @@ Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststel
 
 ## Stärken:
 
-*	standardisiertes Vorgehen, universell einsetzbar
-*	weltweit anerkannte und klar verständliche Arbeitsweise
-*	eindeutige Rollenverteilung, keine Unklarheiten über Verantwortlichkeiten
+*	Standardisiertes Vorgehen, universell einsetzbar
+*	Weltweit anerkannte und klar verständliche Arbeitsweise
+*	Eindeutige Rollenverteilung, keine Unklarheiten über Verantwortlichkeiten
 * „Best Practice“: beinhaltet verschiedene in der Praxis bewährte und beständige Methoden
-*	sorgt für kontrollierten Start, Verlauf und Ende des Projekts
-*	kann auf Bedürfnisse einzelner Organisationen oder Projekte angepasst werden
-*	gebührenfrei: PRINCE2-Materialien liegen als bereits öffentliche Dokumente vor[^3][^9]
+*	Sorgt für kontrollierten Start, Verlauf und Ende des Projekts
+*	Kann auf Bedürfnisse einzelner Organisationen oder Projekte angepasst werden
+*	Gebührenfrei: PRINCE2-Materialien liegen als bereits öffentliche Dokumente vor[^3][^9]
 
 ## Mögliche Nachteile:
 
-*	stark dokumentenorientiert
-*	ggf. Gefühl von "Machtverlust" bei Projektmanager:innen, da Rollen und Befugnisse streng festgelegt sind
-*	sorgfältige Anpassung an Erfordernisse eines Projekts nötig (sonst kann PRINCE2 ein zu aufwendiges Vorgehen für kleine Projekte sein)
-*	trotz freier Verfügbarkeit oft teure Schulungen notwendig[^3][^9]
+*	Stark dokumentenorientiert
+*	Ggf. Gefühl von "Machtverlust" bei Projektmanager:innen, da Rollen und Befugnisse streng festgelegt sind
+*	Sorgfältige Anpassung an Erfordernisse eines Projekts nötig (sonst kann PRINCE2 ein zu aufwendiges Vorgehen für kleine Projekte sein)
+*	Trotz freier Verfügbarkeit oft teure Schulungen notwendig[^3][^9]
 
 # Zertifizierung nach PRINCE2
 
