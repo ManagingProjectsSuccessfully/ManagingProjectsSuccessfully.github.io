@@ -10,16 +10,16 @@ Die Projekt Charta ist ein Dokument das die wichtigsten Punkte eines Projekts sc
 ---
 
 # Was ist die Projekt Charta
-Der Begriff "Projekt Charta" ist nicht normiert, daher wird dieses Dokument in Deutsch auch als "Projektauftrag", "Auftrag" oder "Projektvereinbarung" bezeichnet. Auf Englisch wird der Begriff des "Projekt Charter" benutzt.
+Der Begriff "Projekt Charta" ist nicht normiert, daher wird dieses Dokument in Deutsch auch als "Projektauftrag", "Auftrag" oder "Projektvereinbarung" bezeichnet. Auf Englisch wird der Begriff des "Projekt Charter" benutzt.[^4]
 
-Dem Projekt Charta eilt meistens ein Projektantrag bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.
+Dem Projekt Charta eilt meistens ein Projektantrag bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.[^1][^4]
 
 Durch die Projekt Charta wird sichergestellt, dass Sponsor und der Projektleiter auch das gleiche Ziel beim Projekt anstreben und den Mitteln dazu bewusst sind.[^1][^3] Bei externen Dienstleistern wird der Projektauftrag durch einen formellen Vertrag ersetzt.[^4]
 
 
 ## Funktionen eines Project Charta im Projektverlauf
 
- Die Projekt Charta begleitet den Projektleiter, das Team sowie weitere Stakeholder vom Projektanfang bis -ende. Daher bietet es im Laufe des Projekts eine Vielzahl an Funktionen.
+ Die Projekt Charta begleitet den Projektleiter, das Team sowie weitere Stakeholder vom Projektanfang bis -ende.[^2][^7] Daher bietet es im Laufe des Projekts eine Vielzahl an Funktionen.[^1]
 
 ### Zu beginn des Projekts
 
@@ -36,20 +36,20 @@ Durch die Projekt Charta wird sichergestellt, dass Sponsor und der Projektleiter
 
 ### Während des Projekts
 
- - Die Projekt Charta ermöglicht eine einheitliche Übersicht der Projektinhalte für alle beteiligten.
+ - Die Projekt Charta ermöglicht eine einheitliche Übersicht der Projektinhalte für alle beteiligten.[^1]
 
     - Definition der Projektinhalte
     - Gleiches Bild über Projekt für Projektleiter und Sponsor
     - Informationsgrundlage für später hinzukommende Teammitglieder
 
-- Minimiert das Risiko, dass sich der Aufwand nicht gleichmäßig auf die Projektlaufzeit verteilt.
+- Minimiert das Risiko, dass sich der Aufwand nicht gleichmäßig auf die Projektlaufzeit verteilt.[^1]
 
 
-    ![image](/kb/Projekt_Charta/Project_Charter_Graph_1.jpg)
+    ![image](Projekt_Charta/Project_Charter_Graph_1.jpg)[^1]
 
 
 ### Am Ende des Projekts
-- Anhand der Projekt Charta bietet sich die Möglichkeit, Ziele und Ressorcen, mit erreichten Fortschritten und verwendeten Ressourcen abzugleichen.
+- Anhand der Projekt Charta bietet sich die Möglichkeit, Ziele und Ressorcen, mit erreichten Fortschritten und verwendeten Ressourcen abzugleichen.[^1][^7]
     - Überprüfung ob Ziele erreicht sind
     - Überprüfung ob Projektdauer eingehalten wurde
     - Grundlage zur Planung von zukünftigen, ähnlichen Projekten
@@ -57,7 +57,7 @@ Durch die Projekt Charta wird sichergestellt, dass Sponsor und der Projektleiter
 
 ## Bestandteile eines Project Charta
 
-Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Charta nicht normiert.[^1] Daher kann der Projekt Charta nur eine Seite als auch ein ganzes Handbuch umfassen. Da die Projekt Charta auf dem Projektantrag basiert, kommen einige Elemente im Projekt Charta nochmal vor.
+Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Charta nicht normiert.[^1][^4] Daher kann der Projekt Charta nur eine Seite als auch ein ganzes Handbuch umfassen.[^8] Da die Projekt Charta auf dem Projektantrag basiert, kommen einige Elemente im Projekt Charta nochmal vor.
 
 - Folgendes wird als fester Bestandteil eines Projekt Charta angesehen[^5][^6]:
 
@@ -85,7 +85,7 @@ Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Cha
   - Anzuwendende Managementsysteme (z.B. für Risikomanagement, Qualitätsmanagement, Konfigurationsmanagement)
   - Vertragsbezogene Inhalte (insbes. Vergütungsvereinbarungen)
 
-## Häufige Fehler beim erstellen einer Projekt Charta
+## Häufige Fehler beim erstellen einer Projekt Charta[^9]
 - Unklare Zielsetzungen
 - Unzureichende Formulierung der Problemstellung
 - Viele Statistiken einbauen
@@ -98,7 +98,7 @@ Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Cha
 
 
 ## Beispiel einer Projekt Charta
-Durch folgende Projekt Charta, ist ein Projekt, das eine Fast Food App abzielt, übersichtlich dargestellt.
+Durch folgende Projekt Charta[^10], ist ein Projekt, das eine Fast Food App abzielt, übersichtlich dargestellt.
 
 ![image](/kb/Projekt_Charta/Projekt_Charta_Example_Fast_Food_App.jpg)
 
@@ -133,6 +133,8 @@ Eine Projekt Charta ist ein Dokument, das eine Übersicht über das Projekt vers
 
  [PMBOK® Guide](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 
+[Guidance on project management (ISO 21500:2012)](https://www.beuth.de/de/norm/din-iso-21500/207461260#inhaltsverzeichnis)
+
 ---
 
 # Quellen
@@ -149,8 +151,12 @@ Eine Projekt Charta ist ein Dokument, das eine Übersicht über das Projekt vers
 
 [^6]: [F](https://asana.com/de/resources/project-charter)
 
-https://www.processexcellencenetwork.com/lean-six-sigma-business-performance/articles/5-common-mistakes-in-project-charters
+[^7]: [E](https://kissflow.com/project/project-charter/)
 
-https://thedigitalprojectmanager.com/project-charter/
+[^8]: [F](https://youtu.be/qqiqNb16nbI)
+
+[^9]: [G] (https://www.processexcellencenetwork.com/lean-six-sigma-business-performance/articles/5-common-mistakes-in-project-charters)
+
+[^10]: [H](https://thedigitalprojectmanager.com/project-charter/)
 
 <!-- https://monday.com/blog/project-management/project-charter-example/ -->
