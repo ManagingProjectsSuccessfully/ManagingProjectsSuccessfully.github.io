@@ -9,20 +9,6 @@ anrechnung: k oder a
 Effizienter und produktiver arbeiten durch Kanban Boards. Das Tool zur Visualisierung Strukturierung und Verbesserung des Workflows.
 
 
-# Geschichte des Kanban Boards
-
-1947 von dem Japaner und Ingenieur bei Toyota, [Taiichi Ōno](https://de.wikipedia.org/wiki/Taiichi_Ōno) als ursprüngliche Planungsmethode aus der 
-Produktionsprozesssteuerung entwickelt, um Japan im vergleich zu den USA Konkurrenz fähig zu halten. 
-Mit dem Ziel der Lean Produktion, die Produktion ohne Verschwendung.[^4]https://www.pinkuniversity.de/kanban-methode/.
-Zitat:  Nur das zu produzieren, was nötig ist, wenn es nötig ist und in der Menge, in der es nötig ist. Taiichi Ohno []https://kanbantool.com/de/kanban-guide/die-kanban-geschichte
-Ab 1970 wird diese Steuerungsmethode auch in den USA und Deutschland eingeführt. Erst 2007 übertrug David Anderson dieses Konzept auf die IT und ebnete den Weg nicht nur für Produktionsprozesse sondern auch für Projekte, um diese mit Kanban schneller und effizienter zu machen. 
-Bis heute ist die Lean Produktion und Kanban Methode als Organistationsform in großen Unternehmen standard.
-
-<img width="449" alt="Bildschirmfoto 2021-11-24 um 15 14 56" src="https://user-images.githubusercontent.com/92926914/143254731-118cd134-07e8-4692-9476-99c3d276a4d5.png">
-
-*Taiichi Ōno*
-
-
 
 # Was ist ein Kanban Board?
 
@@ -123,43 +109,6 @@ Mittels den vorherigen 4 Schritten, ist das Taskboard angelegt und man kann scho
 | 4.    Limitiere die Menge angefangener Arbeit           |
 | 5.    Kommunikation                                     |
 
-
-
-
-
-
-1. Visualisiere den Fluss der Arbeit 
-[https://www.personalkanban.com/pkandyou]durch 
-
-Anhand Kanban Karten auf einem Board, Phasen des Prozesses durch Spalten und Kennzeichnung durch extra Symbole, wird sichtbar wo der Arbeitsfluss blockiert ist.
-Wenn man wahrnimmt, dass das Warten schon standardmäßig zu einem Prozess dazu gehört, kann man beispielsweise zusätzlich eine extra Warten Spalte integrieren. 
-Der Vorteil, man bleibt beim lesen des Boards bei dieser Spalte hängen und Prodktionsfortschritte können auf einem Blick erfasst werden.
-
-
-2. Messen und Steuerung des Flusses
-
-Das Kanban Board hilft dabei, den Arbeitsfluss gut zu beobachten und Verbesserungen unmittelbar zu identifizieren. 
-Es ist wichtig, diese Boards immer von Rechts nach Links zu lesen. Grundfrage: "Wie schaffen wir es, genau soviel zu produzieren, wie im nachfolgendem Schritt 
-benötigt wird?". []https://www.pinkuniversity.de/kanban-methode/
-
-
-3. Pull statt Push
-
-Die Arbeit erst nachziehen, wenn die Aufgabe ereledigt ist. Sie wird nicht zugewiesen sondern geholt. Es ist wertvoller Dinge fertig zu stellen als neue Dinge 
-anzufangen. STOP STARTING, START FINISHING.[] https://www.youtube.com/watch?v=yW28P8MwCr4
-
-
-4. Limitiere die menge angefangener Arbeit
-
-Per WIP-Limits (Work In Progres-Limits), begrenzt man die maximale anzahl an Aufgaben für einen bestimmten Bereich.
-- Bsp. Sytemlimit: auf dem ganzen Board dürfen lediglich maximal  50 Karten erscheinen, Swimlane-limit oder Spalten-limit
-      
-Limits sind hilfreich um den Fokus zu wahren und Dinge schneller zu vollenden.
-
-
-5. Kommunikation 
-
-Mit den Kanban Karten werden automatisch alle wichtigen Informationen transportiert.
 
 
 
