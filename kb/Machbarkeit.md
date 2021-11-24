@@ -71,16 +71,16 @@ In der Abbildung 1 wird ein möglicher Ablauf der Machbarkeitsstudie grafisch ve
 *Abbildung 1: Empfohlener Ablauf der Durchführung einer Machbarkeitsstudie[^4]*
 
 
-Das Gesamtergebnis einer Machbarkeitsstudie ist der Machbarkeitsnachweis, auch [Proof-of-Concept](Proof-of-Concept.md) genannt, dieser ist die Genehmigung der Durchführbarkeit eines Projekts[^3][^4].
+Das Gesamtergebnis einer Machbarkeitsstudie ist der Machbarkeitsnachweis, auch [Proof-of-Concept](Proof_of_Concept.md) genannt, dieser ist die Genehmigung der Durchführbarkeit eines Projekts[^3][^4].
 
-Wenn die Machbarkeit eines Projekts nach der ersten Prüfung nicht gegeben ist, können mit Hilfe einer Simulation mehrere Einflussgrößen hinsichtlich unterschiedlicherer Szenarien getestet werden. Zeigt die Simulation, dass das [Kosten-Nutzen-Verhältnis](Kosten-Nutzen-Analyse.md) nicht passend ist, wird ein Stopp des Projekts beantragt.[^2]
+Wenn die Machbarkeit eines Projekts nach der ersten Prüfung nicht gegeben ist, können mit Hilfe einer Simulation mehrere Einflussgrößen hinsichtlich unterschiedlicherer Szenarien getestet werden. Zeigt die Simulation, dass das [Kosten-Nutzen-Verhältnis](Kosten_Nutzen_Analyse.md) nicht passend ist, wird ein Stopp des Projekts beantragt.[^2]
 
 
 # Siehe auch
 
-* [Kosten-Nutzen-Analyse](Kosten-Nutzen-Analyse.md)
+* [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md)
 * [Projekt](Projekt.md)
-* [Proof-of-Concept](Proof-of-Concept.md)
+* [Proof-of-Concept](Proof_of_Concept.md)
 * [Ressourcenplanung](Ressourcenplanung.md)
 * [Risikodimensionen](Risikodimensionen.md)
 * [Stakeholdermanagement](Stakeholdermanagement.md)
