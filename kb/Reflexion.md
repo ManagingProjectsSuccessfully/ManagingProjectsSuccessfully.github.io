@@ -32,9 +32,9 @@ Es wird hier demzufolge durch das Reflektieren zu künftigen Erfolgen beigetrage
 
 ## Ablauf
 
-Die Projektreflexion kann auf unterschiedliche Art und Weise durchgeführt werden, einen Musterablauf gibt es nicht.
+Die Projektreflexion kann auf unterschiedliche Art und Weise gestaltet werden, einen Musterablauf gibt es nicht.
 
-Einige bevorzugen es eine Selbstreflexion durchzuführen, wo hingegen andere lieber ein Gruppe Meeting organisieren, in dem das gesamte Team das zurückliegende Projekt analysiert und reflektiert.
+Die Durchführung der Reflexion unterscheidet sich von Projektmanager zu Projektmanager. Wobei einige starken Wert auf Selbstreflexion legen, bevorzugen andere es, ein Meeting mit dem gesamten Team zu organisieren und gemeinsam das zurückliegende Projekt zu analysieren und zu reflektieren.
 
 Was aber auf alle Fälle wichtig ist, ist es das Besprochene zu dokumentieren und Daten für weitere Projekte zu sammeln. Hierfür kommt beispielsweise ein [Projektabschlussbericht](Projektabschlussbericht.md) in Frage. 
 
