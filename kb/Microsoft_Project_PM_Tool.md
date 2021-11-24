@@ -5,6 +5,8 @@ author: oliPM
 anrechnung: k 
 ---
 
+
+
 # Einleitung
 
 Microsoft Project bezeichnet eine Projektmanagementsoftware, des Entwicklers Microsoft Corporation und ist Bestandteil der Office Familie. 
