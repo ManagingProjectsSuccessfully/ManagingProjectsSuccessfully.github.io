@@ -1,6 +1,6 @@
 ---
 title: Virtual_Reality
-tags: agil klassisch
+tags: agil klassisch megatrends
 author: NK0100
 anrechnung: k
 ---
@@ -52,25 +52,25 @@ AR/VR ein einfacheres und viel schnelleres Verständnis von großen Datenmengen 
 
 Generell verbessert der Einsatz von VR Technologien in der Instandhaltung die Effizienz (Zeit und Ressourceneinsparung) und erhöht Produktivität. Außerdem ermöglichen sie eine sehr effiziente Überwachung von Maschinen und Prozessen[^3].
 
-Zudem kann der Validierungsprozess in vielen Fällen bereits an den Beginn des Projektes verlegt werden, da die Visualisierung zukünftiger Produkte nun bereits in der Entwicklungsphase dem Kunden präsentiert präsentiert werden können. Auch die Iterationen und die Anzahl der Versuche und Tests in der Entwicklungsphase müssen nicht mehr teuer und streng begrenzt sein, was für innovative Aktivitäten ermutigend ist[^3].
+Zudem kann der Validierungsprozess in vielen Fällen bereits an den Beginn des Projektes verlegt werden (z.B. [Projektplanung](Projektplanung.md)), da die Visualisierung zukünftiger Produkte nun bereits in der Entwicklungsphase dem Kunden präsentiert präsentiert werden können. Auch die Iterationen und die Anzahl der Versuche und Tests in der Entwicklungsphase müssen nicht mehr teuer und streng begrenzt sein, was für innovative Aktivitäten ermutigend ist[^3].
 
 Kritisch gesehen wird hingegen vorallem der potenzeielle Einfluss der Technologien auf unsere Gesellschaft. VR und Co. können sehr eindringliche Erlebnisse schaffen, die es den Nutzern ermöglichen, der Realität mühelos zu entkommen. Während viele Menschen dies für eine gute Sache halten, argumentieren andere, dass es dazu führen kann, dass sich die Menschen in ihren Bildschirmen verlieren, anstatt von Angesicht zu Angesicht miteinander zu interagieren [^2]. 
 
-Das wohl größte Hindernis der VR-Implementierung im PM sind jedoch die unvermeidlichen Hardware- und Software-Anforderungen. Einige der Hardwareanforderungen für VR-Implementierung im PM könnten Headsets oder spezielle Brillen sein, wie z.B. Microsoft HoloLens oder Oculus Rift. Für professionelle Anwendungen im PM müssen die Hardware-Geräte durch entsprechende Software unterstützt werden, was oft erhebliche materielle Investitionen erfordert. Dennoch gibt es bereits sehr nützliche und hocheffiziente Werkzeuge für VR im PM die nur Software benötigen und mit Smartphones und Tablet-Geräten arbeiten. Allerdings ist der Anwendungsbereich dieser Technologien für Fachleute nicht so breit so breit und professionell[^3].
+Das wohl größte Hindernis der VR-Implementierung im PM sind jedoch die unvermeidlichen Hardware- und Software-Anforderungen. Einige der Hardwareanforderungen für VR-Implementierung im PM könnten Headsets oder spezielle Brillen sein, wie z.B. Microsoft HoloLens oder Oculus Rift. Für professionelle Anwendungen im PM müssen die Hardware-Geräte durch entsprechende Software unterstützt werden, was oft erhebliche materielle Investitionen erfordert. Eine Abwägung der Kosten zu den erwarteten Nutzen [(Kosten-Nutzen-Analyse)](Kosten_Nutzen_Analyse.md) erscheint daher sinnvoll. Dennoch gibt es bereits sehr nützliche und hocheffiziente Werkzeuge für VR im PM die nur Software benötigen und mit Smartphones und Tablet-Geräten arbeiten. Allerdings ist der Anwendungsbereich dieser Technologien für Fachleute nicht so breit und professionell[^3].
 
 Außerdem ist es nicht ganz einfach, eine einmal gewählte Plattform für zukünftige Projekte zu ändern[^3].
 
 Weitere Vor- und Nachteile können den Stärken, Schwächen, Chancen und Risiken der Implementierung von AR/VR-Technologien im PM (siehe 4.1.) entnommen werden. 
 
 ## 4.1. SWOT Analyse
-Da AR/VR-Technologien einen stetig wachsenden Bereich darstellen, in dem fast täglich neue Ideen und Anwendungsbereiche zum Vorschein kommen, beschreibt die von Dodevska, Z. A., & Mihić, M. M. (2018)[^3] durchgeführte SWOT-Analyse die Stärken, Schwächen, Chancen und Risiken der Implementierung von AR/VR-Technologien im PM lediglich eine Momentaufnahme aus der bisher bestehenden Literatur und Forschung. 
+Da AR/VR-Technologien einen stetig wachsenden Bereich darstellen, in dem fast täglich neue Ideen und Anwendungsbereiche zum Vorschein kommen, beschreibt die von Dodevska, Z. A., & Mihić, M. M. (2018)[^3] durchgeführte [SWOT-Analyse](SWAT_Analyse.md) die Stärken, Schwächen, Chancen und Risiken der Implementierung von AR/VR-Technologien im PM lediglich eine Momentaufnahme aus der bisher bestehenden Literatur und Forschung. 
 
 ![SWOT Analyse](https://user-images.githubusercontent.com/92987061/143143985-1f11161f-12b2-40af-9156-ff45571a9702.png)
 
 *Abbildung 1: SWOT-Analyse der Implementierung von AR/VR-Technologien im PM aus Dodevska, Z. A., & Mihić, M. M.(2018)[^3]*
 
 # 5. Future Trends
-Seitdem die ersten Prototypen der bahnbrechenden VR-Technologie vorgestellt wurden, haben Regierungen, Unternehmen und Technologiekonzerne ihr Potenzial erkannt. Sie investieren eine Vielzahl an Ressourcen und Geldern in VR-Projekte. Für das PM bedeutet dies, dass es mit einem Anstieg der Anfragen für das Management solcher Projekte rechnen muss und dass die PM-Ausbildung Experten hervorbringen muss, die mit solchen Projekten effizient umgehen können. 
+Seitdem die ersten Prototypen der bahnbrechenden VR-Technologie vorgestellt wurden, haben Regierungen, Unternehmen und Technologiekonzerne ihr Potenzial erkannt. Sie investieren eine Vielzahl an Ressourcen und Geldern in VR-Projekte. Für das PM bedeutet dies, dass es mit einem Anstieg der Anfragen für das Management solcher Projekte rechnen muss und dass die PM-Ausbildung Experten (bzw. [Spezialistenteams](Spezialistenteams.md) hervorbringen muss, die mit solchen Projekten effizient umgehen können. 
 
 Insbesondere im kollaborativen Anwendungsfeld von VR gibt es noch Verbesserungspotenzial. Oft konzentriert sich die Anwendung von VR mehr auf das gemeinsame Anschauen von Inhalten und weniger auf das kollaborative Arbeiten mit einer Vielzahl an Team- und/oder Projektmitgliedern. VR-Anwendungen, die uns mehr Werkzeuge (wie z.B. Post-its), die für Methoden wie u.A. [Kanban](Kanban.md) notwendig sind, zur Verfügung stellen und mehr auf Zusammenarbeit als auf soziales Beisammensein zugeschnitten sind werden in diesem Zusammenhang immer wichtiger. 
 
@@ -79,6 +79,9 @@ Insbesondere im kollaborativen Anwendungsfeld von VR gibt es noch Verbesserungsp
 
 * [Link auf diese Seite](Virtual_Reality.md) 
 * [Kanban](Kanban.md)
+* [SWOT-Analyse](SWAT_Analyse.md)
+* [Megatrends](Megatrends.md)
+* [Customer_Experience](Customer_Experience.md)
 
 # Weiterführende Literatur
 
