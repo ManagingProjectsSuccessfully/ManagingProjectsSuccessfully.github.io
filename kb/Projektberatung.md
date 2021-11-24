@@ -4,17 +4,17 @@ tags: klassisch
 author: Christoph-Mantsch
 anrechnung:    k 
 ---
-Der Begriff Projekt leitet sich aus dem lateinischen Wort "proiectum" ab und bedeutet übersetzt "nach vorn geworfen". Im Kontext von Projekten versteht man unter "nach vorn" eine zeiliche Bedeutung wie beispielsweise einen Terminplan [^1].
+Der Begriff [Projekt](Projekt.md) leitet sich aus dem lateinischen Wort "proiectum" ab und bedeutet übersetzt "nach vorn geworfen". Im Kontext von Projekten versteht man unter "nach vorn" eine zeiliche Bedeutung wie beispielsweise einen Terminplan [^1].
 
-Unter einem Projekt versteht man ein einmaliges und zielorientiertes Vorhaben, welches im Rahmen von verschiedenen Kriterien und einem definierten Ziel erfüllt werden soll. Beispiele für Kriterien eines Projektes sind Zeit, Betriebsmittel, verfügbare Ressourcen, Qualitätsansprüche oder Arbeits- und Produktionsbedingungen. 
+Unter einem Projekt versteht man ein einmaliges und zielorientiertes Vorhaben, welches im Rahmen von verschiedenen Kriterien und einem definierten Ziel erfüllt werden soll. Beispiele für Kriterien eines Projektes sind Zeit, Betriebsmittel, [Ressourcenplanung](Ressourcenplanung.md), Qualitätsansprüche oder Arbeits- und Produktionsbedingungen. 
 Besonders in Unternehmen spielen Projekte eine sehr zentrale Rolle, da sie die Vorraussetzung für die Wertschöpfung und somit sehr bedeutungsvoll für das langfristige und erfolgreiche Wirtschaften des Unternehmens sind. Aus diesem Grund sind Projekte ein essenzieller Baustein und daher allgegenwärtig und unverzichtbar für Unternehmen[^1].
  
-Jedoch können Projekte sehr schnell komplex und unübersichtlich werden, was dazu führt, dass sie an einem sehr breiten Spektrum an Problemen scheitern können. Die häufigsten Ursachen für das Scheitern eines solchen Projektes sind unzureichende Kommunikation zwischen den Mitarbeitern und dem Auftraggeber oder auch mangelnde Auftragsklärung. Dadurch führen viele solcher Besprechungen zu keinem aussagekräftigen Ergebnis und sind daher oftmals nicht profitabel für das Unternehmen. In diesem Fall greifen Unternehmen gerne auf das Konzept der Projektberatung externer Firmen zurück [^2].
+Jedoch können Projekte sehr schnell komplex und unübersichtlich werden, was dazu führt, dass sie an einem sehr breiten Spektrum an Problemen scheitern können. Die häufigsten Ursachen für das Scheitern eines solchen Projektes sind unzureichende [Projektkommunikation](Projektkommunikation.md) zwischen den Mitarbeitern und dem Auftraggeber oder auch mangelnde Auftragsklärung. Dadurch führen viele solcher Besprechungen zu keinem aussagekräftigen Ergebnis und sind daher oftmals nicht profitabel für das Unternehmen. In diesem Fall greifen Unternehmen gerne auf das Konzept der Projektberatung externer Firmen zurück [^2].
 
 
 # Die Funktion von Projektberatungen
 
-Im Zuge einer Projektberatung werden externe Projektberatungs-Unternehmen engagiert, deren erfahrene Experten an den Projekten eines Unternehmens teilnehmen. Diese unterstützen das Unternehmen mit vielseitigen Kompetenzen wie IT-Software, Projektmanagement-Strategien oder Krisencoaching und analysieren zusätzlich Probleme der Besprechungen, um dem Unternehmen diverse Lösungsansätze bereitzustellen [^4].
+Im Zuge einer Projektberatung werden externe Projektberatungs-Unternehmen engagiert, deren erfahrene Experten an den Projekten eines Unternehmens teilnehmen. Diese unterstützen das Unternehmen mit vielseitigen Kompetenzen wie IT-Software, [Projektmanagement](Projektmanagement.md)-Strategien oder Krisencoaching und analysieren zusätzlich Probleme der Besprechungen, um dem Unternehmen diverse Lösungsansätze bereitzustellen [^4].
 Zusätzlich sind diese Dienstleistungsunternehmen nicht direkt am Projekt beteiligt, was ihnen eine sehr objektive Sicht auf die Problemlage des Klienten ermöglicht und ihm dadurch auch einen Aufschwung an Erfahrung und Strukturierung des Projektes bieten kann [^2].
 
 Durch diese fachliche Unterstützung und Zusammenarbeit von Experten hat das Unternehmen die Möglichkeit, effektiver und strukturierter an Projekten zu arbeiten, potenzielle Fehler zu vermeiden und ihre Aufträge zielgerichteter zu verrichten [^3].
@@ -24,10 +24,10 @@ Da jedes Projekt unterschiedlich und individuell ist, setzen Projektberatungsunt
 
 # Mögliche Ursachen für das Scheitern eines Projektes
 
-Ein Projekt orientiert sich stets an einem strategischen Vorgehen, das von der Definition eines vom Kunden beschriebenen Projektziels abhängt. Alle Entscheidungen innerhalb eines Projektes leiten sich also von diesem Projektziel ab und sollen auf direktem Weg zur Erreichung und erfolgreichem Abschluss des Projektes führen. 
+Ein Projekt orientiert sich stets an einem strategischen [Vorgehensmodell](Vorgehensmodelle.md), das von der Definition eines vom Kunden beschriebenen Projektziels abhängt. Alle Entscheidungen innerhalb eines Projektes leiten sich also von diesem Projektziel ab und sollen auf direktem Weg zur Erreichung und erfolgreichem Abschluss des Projektes führen. 
 Basierend darauf werden nötige Tätigkeiten und Prozesse in Gang gesetzt und der Umgang mit den verfügbaren Ressourcen definiert [^1].
 
-Nach Aussagen einer erfahrenen Expertin für Kommunikation und Kollaboration scheitern mehr als 50% aller Projekte in Unternehmen. Diese überschritten zudem auch den Rahmen des Budgets, sprengten den geplanten Zeitrahmen oder erfüllten nicht den erwarteten Nutzen [^5]. 
+Nach Aussagen einer erfahrenen Expertin für [Projektkommunikation](Projektkommunikation.md) und Kollaboration scheitern mehr als 50% aller Projekte in Unternehmen. Diese überschritten zudem auch den Rahmen des Budgets, sprengten den geplanten Zeitrahmen oder erfüllten nicht den erwarteten Nutzen [^5]. 
 
 Mögliche Gründe für diese hohe Misserfolgsquote können sehr vielseitig sein oder auch kombiniert zum Scheitern eines Projekts führen [^1]:
 
@@ -39,49 +39,28 @@ Mögliche Gründe für diese hohe Misserfolgsquote können sehr vielseitig sein 
 
 # Die gängigsten Arten von Projektberatung
 
-Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe, die von sehr vielen Einflussfaktoren und Ereignissen im Markt abhängen. Beispiele hierfür sind der Markt, Kunden, politische Gegebenheiten oder auch die organisatorische Struktur der Firma. Aufgrund dieser multidimensionalen und individuellen Einflussgrößen haben sich verschiedene Projektberatungs-Varianten mit unterschiedlichen Charakteristika entwickelt, die sehr häufig als unterstützende Kraft in Projekten eingesetzt werden. Diese werden  regelmäßig im Rahmen der individuellen Personalentwicklung im Unternehmen eingebunden[^6]:
+Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe, die von sehr vielen Einflussfaktoren und Ereignissen im Markt abhängen. Beispiele hierfür sind der Marktgegebenheiten, Kunden, politische Einschränkungen oder auch die organisatorische Struktur der Firma. Aufgrund dieser multidimensionalen und individuellen Einflussgrößen haben sich verschiedene Projektberatungs-Varianten mit unterschiedlichen Charakteristika entwickelt, die sehr häufig als unterstützende Kraft in Projekten eingesetzt werden. Diese werden regelmäßig im Rahmen der individuellen Personalentwicklung im Unternehmen eingebunden[^6]:
 
 
 |  Projekt-Coaching  |  Projekt-Mentoring  | 
 |  ----------------  |  -----------------  |  
-|  Expertenberatung für eingesetzte Projektmanagementwerkzeuge  |  Beratungs- und Förderungsprozess einer neu im Unternehmen arbeitenden Person von unternehmenserfahrener Person |       
+|  Expertenberatung für eingesetzte Projektmanagementwerkzeuge | Beratungs- und Förderungsprozess einer neu im Unternehmen arbeitenden Person von unternehmenserfahrener Person   
 |  Klient verbessert Führungskraft und Rolle als Manager zwischen Projekt und Projekteinflüssen  |  unerfahrene Person wird in Unternehmensweisen eingearbeitet  |
-|  Coach hilft Klient, seine Kompetenzen effektiver und bestmöglich einzusetzen  |  Mentor stellt bewährtes Wissen zur Verfügung und gibt Ratschläge      |        
-|  Coach wirkt außerhalb des Unternehmens an Projekten mit  | Mentor wirkt innerhalb des Unternehmens an Projekten mit |        
+|  Coach hilft Klient, seine Kompetenzen effektiver und bestmöglich einzusetzen  |  Mentor stellt bewährtes Wissen zum [Wissenstransfer](Wissenstransfer.md) zur Verfügung und gibt Ratschläge      |        
+|  Coach wirkt außerhalb des Unternehmens an Projekten mit  | Mentor wirkt innerhalb des Unternehmens an Projekten mit |    
 
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+*Vergleich von Projekt-Coaching und Projekt-Mentoring[^6]*
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektberatung.md)
+* [Projekt](Projekt.)
+* [Ressourcenplanung](Ressourcenplanung.md)
+* [Projektkommunikation](Projektkommunikation.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Vorgehensmodell](Vorgehensmodelle.md)
+* [Wissenstransfer](Wissenstransfer.md)
+
 
 # Weiterführende Literatur
 
