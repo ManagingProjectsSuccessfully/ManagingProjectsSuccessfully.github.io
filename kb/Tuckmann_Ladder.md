@@ -6,13 +6,11 @@ anrechnung: k
 ---
 
 
-Neue Teams leiden häufig unter Wachstumsschmerzen - die Mitglieder eines Teams können nicht effizient zusammenarbeiten, wenn sie keine Zeit haben, sich gegenseitig
-kennenzulernen. Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie Teams in verschiedenen Bereichen die gleichen Phasen der
-Gruppenentwicklung durchlaufen. Wenn Sie diese fünf Phasen der Teamentwicklung kennen, können Sie erfolgreiche Teams bilden, die ihr volles Potenzial ausschöpfen.
+Neue Teams :family_man_man_girl_boy: leiden häufig unter Wachstumsschmerzen - die Mitglieder eines Teams können nicht effizient zusammenarbeiten, wenn sie keine Zeit haben, sich gegenseitig kennenzulernen. Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie Teams in verschiedenen Bereichen die gleichen Phasen der Gruppenentwicklung durchlaufen. Wenn Sie diese fünf Phasen der Teamentwicklung kennen, können Sie erfolgreiche Teams bilden, die ihr volles Potenzial ausschöpfen.
 
 
 # Das Tuckman-Modell der Gruppenentwicklung
-## Von Diskrepanz zum Wir-Gefühl
+## Von Diskrepanz zum Wir-Gefühl 
 
 
 Der Psychologe Bruce Tuckman entwickelte 1965 sein Gruppenentwicklungsmodell, um zu erklären, wie gesunde Teams mit der Zeit zusammenwachsen. In Tuckmans Modell werden fünf
@@ -59,7 +57,7 @@ gemeinsames Endziel hin.
 
 Die folgende Tabelle fasst die Phasen mit jeweiligen Herausforderungen zusammen, die im Zusammenhang mit einer neuen Teambildung und -entwicklung aufkommen können. 
 
-  | * | Forming | Storming | Norming | Performing |
+  | :busts_in_silhouette: | Forming | Storming | Norming | Performing |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
   | Allgemeine Feststellungen | Unklarheit über die Rollen; Suche nach Orientierung durch Außenstehende | Wachsendes Vertrauen in das Team; Ablehnung von Autorität von außen |     Die Sorge, anders zu sein; der Wunsch, Teil eines Teams zu sein | Besorgnis über die Erledigung der Arbeit |
   | Prozessbezogene Probleme | Die Teammitglieder wenden sich an ihre Vorgesetzten, um Anleitung und Orientierung zu erhalten |Das Team lehnt die Aufgabe ab und sucht nach         Gründen, sie nicht zu erledigen | Das Team beginnt mit der Einrichtung von Verfahren zur Bewältigung der Aufgabe | Das Team ist in der Lage, Probleme zu lösen |
