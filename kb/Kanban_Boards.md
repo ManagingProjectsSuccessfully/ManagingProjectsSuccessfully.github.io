@@ -112,7 +112,7 @@ Mittels den vorherigen 4 Schritten, ist das Taskboard angelegt und man kann scho
 
 
 
-## Beispiele von Kanban Boards [^8]
+## Beispiele von Kanban Boards[^8]
 
 Durch die Beliebtheit der Kanban Boards findet man sie heutzutage nahezu überall.
 Häufig um Geschäftsprozesse abzubilden oder dem organisieren privater Aufgaben.
