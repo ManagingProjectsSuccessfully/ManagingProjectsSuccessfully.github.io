@@ -82,6 +82,7 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. 
   * https://www.youtube.com/watch?v=2OTCNh0TzLw
 * Deep Dive: 
   * https://www.youtube.com/watch?v=la1PUSoGBxk
+  * Zirkler B., Nobach K., Hofmann J., Behrens S. (2019) Das Projektcontrolling. In: Projektcontrolling. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-658-23714-1_3
 
 # Quellen
 
