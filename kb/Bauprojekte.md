@@ -60,8 +60,9 @@ Es gibt einen extra Studiengang für das Projektmanagement bei Bauprojekten. Der
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Bauprojekte.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Magisches Dreiecks](Magisches_Dreieck.md)
+* [Wasserfallmodell](Wasserfall_Modell.md)
 
 # Weiterführende Literatur
 * [Vom Wasserfall zum Daily Scrum – Agile Planung in der Architektur](https://www.dbz.de/artikel/dbz_Vom_Wasserfall_zum_Daily_Scrum_Agile_Planung_in_der_Architektur_3583255.html)
