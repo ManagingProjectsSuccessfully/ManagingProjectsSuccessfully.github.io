@@ -11,23 +11,23 @@ Eine altbewährte Methode, kreatives, flexibles und hirngerechtes Arbeiten zu er
 Hierbei werden das zentrale Thema in der Mitte der Karte platziert und Notizen dazu rund um den Themabegriff gesammelt. Dies eignet sich, um eine schnelle und gehaltvolle Übersicht auf den ersten Blick bereitzustellen.
 Vom mittleren Hauptthema gehen Verzweigungen aus, die zu Gedanken und Unterpunkten dessen führen, die sich wiederum in weiterführende Zweige aufgliedern können.[^1]
 
-![Abbildung](kb/Mindmapping/schema_mindmap.jpg) [^5]
+![Abbildung](kb/Mindmapping/schema_mindmap.jpg) [^2]
 
-„Mind-Mapping ist der meines Wissens nach effektivste Mechanismus, um die erhöhte Flexibilität des Denkens wirklich werden zu lassen.“, Peter Kline, Dichter und Lehrer an der University of San Francisco [^2]
+„Mind-Mapping ist der meines Wissens nach effektivste Mechanismus, um die erhöhte Flexibilität des Denkens wirklich werden zu lassen.“, Peter Kline, Dichter und Lehrer an der University of San Francisco [^3]
 
 Das Konzept des Mind-Mappings wurde von Tony Buzan konzipiert, indem er sich die Frage stellte, wie man sich am besten Dinge merken kann. Er sah darin das Potential, durch Verbildlichung von Texten sowohl die linke als auch die rechte Gehirnhälfte gleichzeitig zu aktivieren und so die Erinnerungsleistung zu optimieren.
 
-Dieser Behaltensprozess wird schon durch das reine Anfertigen der Grafik angetrieben, welches durch Suchen nach Schlüsselbegriffen und der Gestaltung mit Farben und Formen geschieht. [^3]
+Dieser Behaltensprozess wird schon durch das reine Anfertigen der Grafik angetrieben, welches durch Suchen nach Schlüsselbegriffen und der Gestaltung mit Farben und Formen geschieht. [^4]
 
 # Programme zur Erstellung
 
 Um Mindmaps übersichtlich visuell abzubilden, eignen sich einige computergestützte Programme sehr gut. Diese helfen dabei, das systematische Erfassen von Inhalten zu vereinfachen. 
 Der Vorteil darin besteht daraus, die Mindmap relativ simpel zu verändern und gegebenenfalls zu ergänzen. Es bietet außerdem die Möglichkeit mit mehreren [Projektmitarbeitern](Projektmitarbeiter.md) gleichzeitig an einem Inhalt zu arbeiten und ihn so stetig zu verbessern. 
-Die Option zusätzlicher Funktionen, wie dem Hinterlegen von Notizen zu einzelnen Schlüsselbegriffen oder ganzen Dokumenten, wird zusätzlich zu dem grafischen Potential der Gestaltung von Punkten und Unterpunkten angeboten. Auch das Anlegen von Verknüpfungen zu Mailprogrammen kann nützliche Werkzeuge bieten, wie das Verschicken von Erinnerungsterminen. [^3]
+Die Option zusätzlicher Funktionen, wie dem Hinterlegen von Notizen zu einzelnen Schlüsselbegriffen oder ganzen Dokumenten, wird zusätzlich zu dem grafischen Potential der Gestaltung von Punkten und Unterpunkten angeboten. Auch das Anlegen von Verknüpfungen zu Mailprogrammen kann nützliche Werkzeuge bieten, wie das Verschicken von Erinnerungsterminen. [^4]
 
 # Verwandte Formen
 
-Eine verbreitete Vorstufe des Mind-Mappings bildet das Clustern. Das Clustern stellt eine Sonderform des Brainstormings dar. Diese Methode stammt aus dem Umfeld kreativen Schreibens. Im Unterschied zur Mindmap soll beim Cluster jede Assoziation aufgeschrieben werden, ohne sie zu bewerten. Ein Cluster hilft dabei, neue Inhalte durch Assoziationen zu generieren und alle Ideen zu einem Thema zu sammeln.[^3][^4] 
+Eine verbreitete Vorstufe des Mind-Mappings bildet das Clustern. Das Clustern stellt eine Sonderform des Brainstormings dar. Diese Methode stammt aus dem Umfeld kreativen Schreibens. Im Unterschied zur Mindmap soll beim Cluster jede Assoziation aufgeschrieben werden, ohne sie zu bewerten. Ein Cluster hilft dabei, neue Inhalte durch Assoziationen zu generieren und alle Ideen zu einem Thema zu sammeln.[^4][^5] 
 
 Das sogenannte Conceptmapping ist eine abgewandelte Form der Mindmap, bei der Relationen zwischen den einzelnen Unterpunkten hergestellt werden. Durch das komplexe Kombinieren einzelner Stichpunkte miteinander entsteht ein aussagekräftiges Begriffsnetz. Die Beziehungen zwischen den Begriffen werden anhand von teilweise beschrifteten Linien und Pfeilen definiert. 
 
@@ -37,7 +37,7 @@ Das sogenannte Conceptmapping ist eine abgewandelte Form der Mindmap, bei der Re
 
 Da die Mindmap Methode eine sehr vielseitige und in mehreren Bereichen anwendbare Vorgehensweise darstellt, sind die Einsatzmöglichkeiten vielfältig.
 
-Somit kann Mind-Mapping ein sehr nützliches Werkzeug in der [Projektplanung](Projektplanung.md) sein oder der Strukturierung eines Vortrags dienen. Weitere Anwendungsbereiche sind die Ideenfindung, das Mitschreiben bei Vorträgen, die Texterfassung, das Strukturieren, die Neuordnung von Wissen und die Prüfungsvorbereitung. Einsetzbar ist sie sowohl bei der individuellen Anwendung als auch in kollektiven Gruppenprozessen. [^3]
+Somit kann Mind-Mapping ein sehr nützliches Werkzeug in der [Projektplanung](Projektplanung.md) sein oder der Strukturierung eines Vortrags dienen. Weitere Anwendungsbereiche sind die Ideenfindung, das Mitschreiben bei Vorträgen, die Texterfassung, das Strukturieren, die Neuordnung von Wissen und die Prüfungsvorbereitung. Einsetzbar ist sie sowohl bei der individuellen Anwendung als auch in kollektiven Gruppenprozessen. [^4]
 
 # Fazit
 
@@ -53,9 +53,9 @@ Tony Buzan, Vanda North: Mind Mapping. Der Weg zu Ihrem persönlichen Erfolg. ö
 # Quellen
 
 [^1]: http://methodenpool.uni-koeln.de/download/mindmapping.pdf
-[^2]: Peter Kline, Das Alltägliche Genie, Paderborn 1995, S.369) 
-[^3]: https://www.uni-frankfurt.de/53571999/Mindmapping
-[^4]: https://www.stw.berlin/assets/sw-berlin/bereiche/beratung/Schreibzentrum/Lernmaterialien/Handout_Cluster_Mind_Map_Webseite_2020.pdf
-[^5]: https://www.virtuos.uni-osnabrueck.de/en/hochschuldidaktik/methoden/mindmap.html
+[^2]: https://www.virtuos.uni-osnabrueck.de/en/hochschuldidaktik/methoden/mindmap.html
+[^3]: Peter Kline, Das Alltägliche Genie, Paderborn 1995, S.369) 
+[^4]: https://www.uni-frankfurt.de/53571999/Mindmapping
+[^5]: https://www.stw.berlin/assets/sw-berlin/bereiche/beratung/Schreibzentrum/Lernmaterialien/Handout_Cluster_Mind_Map_Webseite_2020.pdf
 [^6]: https://mint-zirkel.de/2019/08/concept-maps/
 
