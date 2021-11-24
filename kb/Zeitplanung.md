@@ -22,6 +22,7 @@ Ein grundlegender Unterschied zwischen beiden Projektmangementarten ist die Zeit
 Das agile Projektmanagement folgt iterativen Prozessen. Jede Iteration ist hierbei ein Zeitfenster, in welchem eine bestimmte Aufgabe erledigt werden muss. Danach wird das Ergebnis kurz bewertet und die nächste Iteration beginnt. Wichtig hierbei ist zu wissen, dass das Ziel nur grob vorformuliert ist und es sich durch die Prozesse erst genauer definiert. [^4]
 
 ![Zeitplanung agiles PM](/kb/Zeitplanung/agiles_PM.jpg)
+Zeitplanung im agilen Projektmanagement
 Quelle: [^4]
 
 ## Klassisches Projektmanagement
@@ -29,6 +30,7 @@ Das klassische Projektmanagement folgt einem Schritt-für-Schritt Vorgehen. Das 
 Zeitplanung im klassischen Sinne ist somit ist die Bestimmung der Projektdauer, mit Einberechnung von Zeitreserven und den damit entstehenden Anfangs- und Endzeitpunkten für einzelne Prozesse. [^6]
 
 ![Zeitplanung klassisches PM](/kb/Zeitplanung/klassisches_PM.jpg) 
+Zeitplanung im klasischen Projektmanagement
 Quelle: [^5]
 
 # Projektablaufplan
@@ -42,7 +44,7 @@ Schätzungen sind in allen Phasen von Projekten wichtig. Besonders bei der Zeitp
 Die beste Schätzung gelingt nur auf der Basis von Daten ähnlicher Projekte. Diese können während des Projekts immer genauer werden, da mehr Information zur Verfügung steht. [^2]
 
 # Vor- und Nachteile der Zeitplanung im klassischem Projektmanagement
-Klassisches Projektmanagement eignet sich am besten für Projekte, welche kompliziert und genauestens ausgearbeitet werden müssen. Aber auch für Projekte die bereits in vergleichbarere Form stattgefunden haben, sogenannte [Routineprojekte](Routineprojekte.md) [^8] 
+Klassisches Projektmanagement eignet sich am besten für Projekte, welche kompliziert und genauestens ausgearbeitet werden müssen. Aber auch für Projekte die bereits in vergleichbarere Form stattgefunden haben, sogenannte [Routineprojekte](Routineprojekte.md). [^8] 
 Ein Beispiel hierfür wären klassische [Bauprojekte](Bauprojekte.md). Die geschätzte Zeit kann ziemlich genau bestimmt werden, da bestimmte Bauschritte immer gleich lange dauern. [^5]
 
 ## Vorteile [^9]
@@ -70,7 +72,6 @@ Ein Beispiel hierfür wären klassische [Bauprojekte](Bauprojekte.md). Die gesch
 * [Schätzungen](Schaetzverfahren_Aufwaende.md)
 * [SMART_Ziele](SMART_Ziele.md)
 * [Projektlebenszyklus](Projekt_Lebenszyklus.md)
-* 
 
 # Weiterführende Literatur
 
