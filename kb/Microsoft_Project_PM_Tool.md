@@ -48,7 +48,7 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 | auf Knopfdruck ansprechend, gestatltete Reportings / Berichte           | Fehlende Intuition bei der Handhabung                          |
 | effizientes Managementsystem komplexer, klassischer Projekte            | beansprucht hohen Pflegeaufwand der bespielte Daten            |
 | etablierter Standard in vielen mittelständischen und großen Unternehmen |
-
+[^3]
 
 
 
@@ -140,7 +140,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Quellen
 
 [^1]: https://de.wikipedia.org/wiki/Microsoft_Project
-[^2]: [Schwab, Josef:Projektplanung mit Project 2010, Carl Hanser Verlag GmbH & Co. KG, 2011](https://www.hanser-elibrary.com/doi/book/10.3139/9783446428423)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^2]: [Schwab, Josef: Projektplanung mit Project 2010, Carl Hanser Verlag GmbH & Co. KG, 2011](https://www.hanser-elibrary.com/doi/book/10.3139/9783446428423)
+[^3]: https://www.projektmanager-blog.de/post/ms-project
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
