@@ -6,6 +6,7 @@ anrechnung: k
 ---
 
 Reflexion: "das Nachdenken; Überlegung, prüfende Betrachtung".[^1]
+
 In einer Projektreflexion setzt man sich mit dem zurückliegenden Projekt rückblickend auseinander und besinnt unterschiedlichen Aspekte der Zusammenarbeit nach.[^2]
 
 
@@ -22,7 +23,7 @@ Klassisches Instrument des Wissensmanagements in traditionellen Projekten sind d
 
 ![Abbildung](Reflexion/what-is-project-management-process.png)
 
-## Fragen
+## Verschiedene Arten der Reflexion
 
 1.	Wurde das Projektziel erreicht? 
 2.	Was trug zum Erreichen des Ziels bei?
@@ -33,7 +34,7 @@ Klassisches Instrument des Wissensmanagements in traditionellen Projekten sind d
 6.	Was können wir beim nächsten Projekt besser machen?
 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## Selbstrefelexion
 
 Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
@@ -46,16 +47,14 @@ Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einf
 
 # Weiterführende Literatur
 
+* [Anbari, F.T., Carayannis, E.G. and Voetsch, R.J., 2008. Post-project reviews as a key project management competence. Technovation, 28(10), pp.633-643](https://www.researchgate.net/profile/Robert-Voetsch/publication/245131310_Post-project_reviews_as_a_key_project_management_competence/links/5ebab3a4458515626ca18fe0/Post-project-reviews-as-a-key-project-management-competence.pdf)
 * [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-* 
 
 # Quellen
 
-[^1]: https://www.duden.de/rechtschreibung/Reflexion
+[^1]: [Definition: Reflexion](https://www.duden.de/rechtschreibung/Reflexion)
+
 [^2] https://blog.internet-halunken.de/agiles-projektmanagement/projektreflexion-vorausschauende-rueckschau/
 
-Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
 
