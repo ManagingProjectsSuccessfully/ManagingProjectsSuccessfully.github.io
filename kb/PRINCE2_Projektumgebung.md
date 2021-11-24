@@ -34,9 +34,11 @@ PRINCE2 gibt zwar klar definierte Rollen vor, z.B. wird ein Kunde im Projekt als
 
 PRINCE2 ermöglicht also für jedes Unternehmen bzw. teilweise sogar für jedes Projekt eine individuelle Anpassung, um so optimal auf die spezifischen Anforderungen hinsichtlich Umgebung, Umfang, Komplexität, Wichtigkeit, Leistungsfähigkeit und Risiko eingehen zu können [^6]. 
 
+PRINCE2 stellt eine flexible und leicht wiederholbare Anleitung zur Projektplanung dar. Der ursprüngliche Zweck war das Managen von (IT-Projekten)[IT-Projekte.md], worauf es aber heutzutage nicht mehr beschränkt ist. Die Erweiterung wäre PRINCE2 agile, wobei es darum geht klassische Projekte mit agilen Methoden wie z.B. (KANBAN)[Kanban.md] oder (SCRUM)[Scrum.md] kombiniert werden [^7].  
+
 # Fazit
 
-PRINCE2 lässt sich an nahezu jede Projektumgebung anpassen und erweist sich dadurch als äußerst flexibel. Da aber die sieben Grundprinzipien nicht angepasst werden, bleibt immer ein gewisser Rahmen bestehen, an dem man sich orientieren kann [^7].
+PRINCE2 lässt sich an nahezu jede Projektumgebung anpassen und erweist sich dadurch als äußerst flexibel. Da aber die sieben Grundprinzipien nicht angepasst werden, bleibt immer ein gewisser Rahmen für große und kleine Projekte bestehen, an dem man sich orientieren kann [^8].
 
 
 
@@ -59,4 +61,5 @@ PRINCE2 lässt sich an nahezu jede Projektumgebung anpassen und erweist sich dad
 [^4]: https://www.youtube.com/watch?v=zl4zHUtwmSg 
 [^5]: https://www.agile-heroes.de/magazine/prince2-projektumgebung/
 [^6]: https://de.wikipedia.org/wiki/PRINCE2
-[^7]: https://www.certnow.de/itsm-blog/10-prince2/77-prince2-2017-anpassen-an-die-projektumgebung.html  
+[^7]: Benefits and Issues in Managing Project by PRINCE2 Methodology (2017)
+[^8]: https://www.certnow.de/itsm-blog/10-prince2/77-prince2-2017-anpassen-an-die-projektumgebung.html  
