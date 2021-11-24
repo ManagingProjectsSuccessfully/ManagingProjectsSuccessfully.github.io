@@ -11,25 +11,25 @@ anrechnung: a
 Extreme Programming, kurz XP, ist die radikalste Umsetzung der agilen Softwareentwicklung. [^1]
 
 Zurückzuführen ist die Methode auf die Softwareentwickler Kent Beck, Ward Cunningham und Ron Jeffries. 
-Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen , da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte. [^2]
+Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen, da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte. [^2]
 
-Extreme Programmming ist eine agile, effiziente und mit wenig Risiko verbundene Entwicklungsmethode. [^3]
+Extreme Programming ist eine agile, effiziente und mit wenig Risiko verbundene Entwicklungsmethode. [^3]
 
-Wie Scrum und Kanban, andere agile Methoden, wird der Kunde und seine Anforderungen in den Mittelpunkt gestellt. [^4]
+Wie in Scrum und Kanban, zwei anderen agilen Methoden, wird der Kunde und seine Bedürfnisse in den Mittelpunkt gestellt. [^4]
 
-Es wird von iterativen Prozessen ausgegangen.  Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, besprechen und veröffentlichen. [^5]
+Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, zu besprechen und zu veröffentlichen. [^5]
 
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
 
 
 ## Rollen
 
-Der <b> Kunde </b> ist der Auftragggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll. [^6]
+Der <b> Kunde </b> ist der Auftraggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll. [^6]
 
-Innerhalb des Entwicklerteams gibt es keine Rollentrennung, jeder Mitarbeiter wird unabhängig von seinen Fähigkeiten als <b> Entwickler </b> bezeichnet.
+Innerhalb des Entwicklerteams gibt es keine Rollentrennung. Jeder Mitarbeiter wird unabhängig von seinen Fähigkeiten als <b> Entwickler </b> bezeichnet.
 Diese sind für die Produktentwicklung zuständig. [^7]
 
-Ein großer Teil der Tests in der Softwareentwicklung übernehmen Entwickler, allerdings gibt es noch die Rolle des <b> Testers </b>. 
+Ein großen Teil der Tests innerhalb der Softwareentwicklung übernehmen die Entwickler. Zusätzlich gibt es noch die Rolle des <b> Testers </b>. 
 Dieser ist sehr fokussiert auf den Kunden und soll dabei helfen funktionale Tests zu schreiben, diese regelmäßig durchzuführen und die Ergebnisse offenzulegen. [^8]
 
 Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler. [^9]
