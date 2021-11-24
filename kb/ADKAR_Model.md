@@ -70,7 +70,7 @@ Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Ver
 
 - Die Komplexität von Veränderungen wird ignoriert [^10] [^11] [^12]
 - Das Modell ist eher für kleinere Organisationen geeignet [^10] [^11] [^12]
-
+ 
 
 
 # Quellen
