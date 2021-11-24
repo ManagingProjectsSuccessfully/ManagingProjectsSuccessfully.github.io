@@ -10,6 +10,11 @@ Kurzbeschreibung zu Scrum_Artefakte um ein erstes Verständnis dafür zu schaffe
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
+# Scrum Artefakte
+Es gibt im SCRUM drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und „Produktinkrement“. Diese haben jeweils einen übergeordneten Leitgedanken, der dabei helfen sollen, in allen Ebenen einen Überblick zu behalten. 
+Auf diese Weise tragen die Artefakte zu optimalen Arbeitsbedingungen bei, da sie zusätzlich einen kontinuierlichen Austausch mit maximaler Transparenz garantieren, sodass alle auf dem aktuellen Wissensstand sind.
+
+
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
