@@ -10,7 +10,7 @@ Selbstorganisierende Teams sind ein Kernelement in agilen Projekten. Sie haben k
 
 # Was sind selbstorganisierende Teams? 
 
-Selbstorganisierende Teams sind eine Gruppe von Mitarbeitern die, die Verantwortung für ihre Arbeit und sich selbst übernehmen. Hierbei muss das Team die Aufgaben gemeinsam verteilen. Zudem müssen sie dabei selbst überlegen wie die Aufgaben unterteilt werden können. Im Scrum-Framework wird dafür das [Sprint Planning] benutzt. Auch muss das Team die richtige Entscheidung treffen wer für welche Aufgabe geeignet ist. Darüber hinaus überwacht ein selbstorganisiertes Team den Arbeitsfortschritt selbst, dies passiert im Scrum-Framework in den Dailies. Es ist auch die Aufgabe des Teams Probleme selbst zu erkennen und die Teamorganisation zu verbessern, hierzu wird die [Retrospektive] im Scrum-Framework genutzt. 
+Selbstorganisierende Teams sind eine Gruppe von Mitarbeitern die, die Verantwortung für ihre Arbeit und sich selbst übernehmen. Hierbei muss das Team die Aufgaben gemeinsam verteilen. Zudem müssen sie dabei selbst überlegen wie die Aufgaben unterteilt werden können. Im Scrum-Framework wird dafür das [Sprint Planning] benutzt. Auch muss das Team die richtige Entscheidung treffen wer für welche Aufgabe geeignet ist. Darüber hinaus überwacht ein selbstorganisiertes Team den Arbeitsfortschritt selbst, dies passiert im Scrum-Framework in den [Dailies](https://github.com/JonathanBauerFau/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md). Es ist auch die Aufgabe des Teams Probleme selbst zu erkennen und die Teamorganisation zu verbessern, hierzu wird die [Retrospektive] im Scrum-Framework genutzt. 
 
 Auch spricht man im agilen Umfeld nicht von Aufgaben, sondern von Kundenanforderungen sogenannten User Stories, welches die Orientierung für das Team sind das Projektziel zu erreichen. Dies wäre beispielsweise eine Aufgabe für den Product Owner des selbstorganisierenden Teams. 
 Einen klassischen Projektleiter gibt es nicht, dennoch braucht jedes selbstorganisierende Team einen Coach, dieser ist in Scrum der [Scrum Master]. Er kümmert sich als Initiator, Motivator und Moderator dafür, dass das Team effizient arbeitet, aber auch gemeinsam an einem Strang zieht. 
@@ -80,7 +80,8 @@ Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Team
 # Siehe auch
 
 * [Toyota Produktionssysteme](Toyota_Produktionssysteme.md)
-* 
+
+* [Daily](Daily_Scrum.md) 
 * [Link auf diese Seite](Selbstorganisierende_Teams.md)
 
 # Weiterführende Literatur
