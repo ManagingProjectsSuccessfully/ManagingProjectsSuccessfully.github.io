@@ -13,7 +13,7 @@ Während des Projektverlaufs und nach dem Abschluss gilt das magische Dreieck al
 [Magisches Dreieck Abbildung](https://www.factro.de/wp-content/uploads/2020/05/magisches-dreieck-projektmanagement.png)
 
 
-## 1.Dimensionen des Magisches Dreiecks
+## 1. Dimensionen des Magisches Dreiecks
 ### 1.1	Zeitdimension
 Der Parameter Zeit beschreibt relevante Zeitpunkte und Fristen. Neben der zentralen Frage wie viel Zeit das Projekt in Anspruch nehmen soll, spielen auch Zwischentermine und Meilensteine eine wichtige Rolle.[^2]
 ### 1.2	Kostendimension
