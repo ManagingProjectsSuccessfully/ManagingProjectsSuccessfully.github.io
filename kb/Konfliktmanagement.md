@@ -26,6 +26,7 @@ Im Folgenden sind einige dieser Möglichkeiten aufgelistet:
 | Beurteilungskonflikt | Beziehungskonflikt     |
 | Verteilungskonflikt  |                        |
 | Rollenkonflikt       |                        |
+
 [^7]
  
 Mit Hilfe dieser Untergliederung, kann man auf die einzelnen Konflikte mit bestimmten Lösungsansätzen besser und schneller reagieren.
