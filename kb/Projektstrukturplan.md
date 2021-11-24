@@ -46,7 +46,11 @@ Nun zu den großen Vorteilen des Projektstrukturplanes. Er gibt eine sehr gute �
 
 # Siehe auch
 
-* [ManagingProjectsSuccessfully.github.io/kb/Projektmanagement.md](Projektmanagement.md)    Verlinkungen zu angrenzenden Themen
+* [ManagingProjectsSuccessfully.github.io/kb/Projektmanagement.md](Projektmanagement.md) 
+* [ManagingProjectsSuccessfully.github.io/kb/Projektarten.md](Projektarten.md)
+* [ManagingProjectsSuccessfully.github.io/kb/Projekthandbuch.md](Projekthandbuch)
+* [ManagingProjectsSuccessfully.github.io/kb/Projektstart.md](Projektstart)
+* [ManagingProjectsSuccessfully.github.io/kb/.md]  Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Projektstrukturplan.md)
 
 # Weiterführende Literatur
