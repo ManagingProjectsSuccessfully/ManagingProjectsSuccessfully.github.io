@@ -23,17 +23,19 @@ Verantwortung wird meist philosophisch erklärt und beschrieben, da es auch sehr
 
 ![Testbild](Verantwortlichkeiten/Grundbeziehungen-der-Verantwortung.jpg)
 
-# Projektverantwortung
+# Projektbezogene Verantwortung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Jedes Projekt hat eine für das Projekt verantwortliche Person. Doch die Verteilung dieser Verantwortung kann variieren
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Beim Einfluss auf die Verantwortlichkeit spielen verschiedene Faktoren eine wichtige Rolle und zeigen voraus wie gut die Ergebnisse sein werden, die ein Projekt erreicht.
+Der erste wichtige Punkt bei der Verantwortlichkeit ist es eine Konkrete Übertragung der Verantwortung klarzumachen. Eine unverbindliche Übertragung kann unter gehen und nicht ernst genommen werden, sodass Projekte zugrunde gehen können. Zusätzlich benötigt man für eine Klare Übertragung auch eine offensichtliche Bestätigung vom gegenüber, dem man die Verantwortung übergibt.
 
-![Beispielabbildung](Verantwortlichkeiten/test-file.jpg)
+Ein weiterer Faktor, der einen wichtigen Einfluss auf die Verantwortung hat, ist die Anzahl der Menschen, denen die Verantwortung gegeben ist. Je mehr Menschen, desto aufgespaltener ist die Verantwortung und desto mehr Menschen verspüren folglich auch kaum Verantwortung. Jeder nimmt an, der andere denkt mit und so kommt es zu Missverständnissen, Konflikten und Fehlern. Außerdem kann es passieren, dass man zu viel Einfluss auf die eigenen Entscheidungen bekommt, die zu Unsicherheit führen können.[^3][^4]
 
-*lustiges Testbild*
+> Management bedeutet Verantwortung für Ergebnisse[^5]
+
+Und diese Verantwortung muss man schlussendlich richtig und sinnvoll aufteilen, damit positive Ergebnisse erscheinen: eindeutige Ziele verbalisieren und bestätigen und die Aufgabenverteilung sinnvoll gestalten. (50€ Typ)
+
 
 # Rollen und Verantwortung in Projekten
 
@@ -85,6 +87,5 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: ( https://www.duden.de/rechtschreibung/Verantwortlichkeit )
 [^2]: ( https://de.wikipedia.org/wiki/Verantwortung#cite_note-8 )
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^3]: ( )
+[^4]: ( )
