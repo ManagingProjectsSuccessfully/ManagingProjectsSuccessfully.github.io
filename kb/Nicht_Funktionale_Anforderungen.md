@@ -9,7 +9,7 @@ Im Projektmanagement unterscheidet man unter anderem zwischen Funktionalen und N
 Während funktionale Anforderungen vorgeben was ein Produkt (z.B. Software) können soll bzw. was für Funktionen und Features es haben soll,
 werden bei nicht-funktionalen Anforderungen Randbedingungen, Qualität und Leistung betrachtet.[^1]
 
-# 1. Unterschiede zu Funktionalen Anforderungen
+# 1. Unterschied zu Funktionalen Anforderungen
 
 Auch wenn im Projektmanagement zwischen Funktionalen und Nicht-Funktionalen Anforderungen unterschieden wird, ist für den Kunden beides
 meist dasselbe. Deshalb muss der Auftragnehmer von Beginn an, die Anforderungen kategorisieren.
@@ -20,11 +20,25 @@ Funktionale Anforderungen beschreiben ein System, während nicht-funktionale Anf
 Außerdem bestimmen wie bereits erwähnt meist nicht die Kunden die nicht-funktionalen Anforderungen, sondern Fachkräfte mit besonderer Expertise
 wie z.B. Techniker, Softwareentwickler oder Architekten. Zudem sind nicht-funktionale Anforderungen nicht unbedingt zu erfüllen.[^2]
 
+In der Leistungsanforderung wird z.B. die "Zeit" betrachtet, also beispielsweise wie lange eine Software für die Ausführung braucht. Durchsatzraten, Ressourcenverbrauch
+oder Anzahl von gesammelten Daten können weitere leistungsbezogene Anforderungen darstellen.
 
+## Am Beispiel: Smartphonespiel
 
-Schaut man sich z.B. Leistungsanforderungen an, so fallen Zeit, Raten, Mengen, Genauigkeit und Ressourcenverbrauch darunter.[^1]
+Zur Veranschaulichung schauen wir uns einen möglichen Auftrag an. Der Kunde verlangt von einem Softwareentwicklungshaus ein Puzzle-Spiel mit Fussballelementen.
+Dieses soll sowohl auf Android als auch auf iOS spielbar sein. 
+Kernanforderungen, also funktionale Anforderungen, sind in unserem Fall ein Smartphonespiel, welches für zwei verschiedene Smartphonebetriebssysteme entwickelt werden soll.
+Das Endprodukt soll ein Fussball-Puzzlespiel sein.
+Nicht-funktionale Anforderungen, die der Kunde nicht explizit nennt, aber erwartet sind z.B. schnelle Ladezeiten, geringe Speicherbelastung, minimale Systemanforderungen
+und weitere Leistungs- bzw. Qualitätsanforderungen.
 
 # 2. Entscheidend für Erfolg
+
+Kunden können durch qualitative und quantitative Anforderungen, auch nicht-funktionale Anforderungen, den Erfolg des Projekts bemessen.
+Wie man so gerne sagt: "Zahlen sprechen für sich."
+Deshalb sind Anforderungen wie z.B. "der Spieleserver soll mit bis zu 10.000 Benutzern problemlos umgehen können".[^2]
+
+
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -112,6 +126,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [Nicht funktionale Anforderungen - LMU] (https://www.pst.ifi.lmu.de/Lehre/wise-15-16/jur-pm/braun-praesentation.pdf)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.jamasoftware.com/requirements-management-guide/writing-requirements/functional-vs-non-functional-requirements)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://www.jamasoftware.com/media/2021/03/graphic3.png)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
