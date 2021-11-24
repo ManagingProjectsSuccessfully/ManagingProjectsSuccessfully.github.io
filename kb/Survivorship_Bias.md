@@ -8,23 +8,23 @@ anrechnung: k oder a
 # Survivorship Bias
 
 
-## Definition von Survivorship Bias [^1] : 
+## Definition von Survivorship Bias [^1] 
 Survivorship Bias bezeichnet den Effekt der kognitiven Verzerrung. Dies beschreibt besonders das Phänomen, dass Ergebnisse gewisser Handlungen überschätzt werden. Das Phänomen entsteht besonders dadurch, dass über Erfolge mehr berichtet wird als über Misserfolge. Deshalb wird die kognitive Wahrnehmung dahin gehend verzerrt, dass Personen die Leistungen überschätzen.
 
 
 Abbildung der historischen Auswertung[^2]
-<img width="855" alt="Bildschirmfoto 2021-11-23 um 12 10 48" src="kb/Survivorship_Bias/Bildschirmfoto 2021-11-23 um 12.10.48.png">
+<img width="855" alt="Bildschirmfoto 2021-11-23 um 12 10 48" src="kb/Survivorship_Bias/Flugzeugabbildung.png">
 
 *Flugzeug mit der punktuellen Auswertung der Einschusslöcher*
 
 
-## Historie:
+## Historie
 Der Begriff stammt aus der Zeit des zweiten Weltkriegs. Dort hat die Statstical Research Group (SRG) der Columbia University die Einschusslöcher verschiedener Flugzeuge untersucht. Das Ziel war es die Panzerung zu optimieren. Jedoch hat der Wissenschaftler Abraham Wald festgestellt, dass nur Flugzeuge untersucht wurden, die nicht abgestürzt sind. Abgeschossene Flieger wurden nicht untersucht. Deshalb zog er die Schlussfolgerung, dass die bisherigen Untersuchungen nur zeigten, wo Flugzeuge getroffen werden konnten, ohne abzustürzen. Daraus folgt, dass besonders die Stellen, an denen Flugzeuge keine Einschusslöcher haben, besser gepanzert werden sollen. 
 
 Durch diese Feststellung wird Abraham Wald, das Entdecken des Survivorship Bias zugesagt. 
 
 
-## Mögliche Felder in denen Survivorship Bias vorkommt:
+## Mögliche Felder in denen Survivorship Bias vorkommt
 
  Es gibt etliche Felder in denen Survivorship Bias vorkommt, welche besonders durch Medienberichte sowie falsche oder fehlende Informationen verzerrt werden. Im folgenden werden einige dieser Felder weiter ausformuliert:
 
@@ -38,13 +38,13 @@ Durch diese Feststellung wird Abraham Wald, das Entdecken des Survivorship Bias 
 
 
 
-* [In den Finanzen](#Finanzen) : 
+* [In den Finanzen](#Finanzen)  
 Gesellschaften entfernen erfolglose Fonds aus der Bilanz. So werden die Erfolgsbilanzen der Firmen positiv verzerrt. Gerade hier ist der Effekt für "Survivors" gefährlich und birgt große finanzielle Gefahren 
 
-* In der Wissenschaft: 
+* In der Wissenschaft
 Medien veröffentlichen meist nur die großen Erfolge. Deshalb werden, die viel häufigeren, Misserfolge und das Scheitern vieler [Forschungsprojekte](https://github.com/pu79xube/ManagingProjectsSuccessfully.github.io/blob/main/kb/Forschungsprojekte.md) nicht wahrgenommen. 
 
-* In Umfragen: 
+* In Umfragen
 Besonders Umfragen bilden häufig eine verzerrte Perspektive ab. Da sich z.B. Stammkunden häufiger für Umfragen melden als Erstkunden. Auch das Unternehmen Netflix ist auf das Problem gestoßen . 
 
 “We want to estimate the conditional probability
@@ -55,7 +55,7 @@ much of the data is missing: most subscribers haven't watched most
 films.“ [^3]
 
 
-* In der Medizin:
+* In der Medizin
 Es werden nur Personen aufgenommen, die schon länger eine gewisse Krankheit haben. Personen, die erst die Diagnose erhalten haben oder direkt nach der Diagnose versterben,  werden häufig nicht berücksichtigt. Dadurch verzerrt sich auch hier die Studie in eine „positive Richtung“
 
 * Bei Firmengründungen:
@@ -63,7 +63,7 @@ Es wird häufig über wirtschaftliche starke Start-Ups berichtet. So dass in der
  
 
 
-# Wie man die kognitive Verzerrung vermeidet : 
+# Wie man die kognitive Verzerrung vermeidet  
 
 Es hilft, wenn die Gesellschaft dahingehend ausgerichtet wird erst jede Möglichkeit in Betracht zu ziehen. So werden vorschnelle Schlüsse vermieden. Sehr wichtig ist es sich zu fragen ob die Kausalitäten zu den Erfolgen führen und ob dies auch reproduzierbar ist. Zudem hilft es, besonders bei großen Erfolgen, zu sehen welche Faktoren ausgelassen wurden. 
 
