@@ -54,4 +54,4 @@ Ein Flugzeug der American Airlines.[^11]
 [^8]: [RND: Die größten Fluggesellschaften der Welt](https://www.rnd.de/reise/iata-ranking-das-sind-die-25-groessten-airlines-der-welt-LDHUXKVAC5FCJLHKY2JTZJP4ZU.html)
 [^9]: [Steve Jobs stellt das erste iPhone vor](https://www.t-online.de/digital/handy/id_81539520/vor-10-jahren-wurde-das-erste-iphone-verkauft.html)
 [^10]: [Die Drei-Schluchten-Talsperre](https://mar.prod.image.rndtech.de/var/storage/images/haz/nachrichten/panorama/uebersicht/drei-schluchten-damm-in-china-macht-neue-probleme/12794797-1-ger-DE/Drei-Schluchten-Damm-in-China-macht-neue-Probleme_reference_4_3.jpg)
-[^11][Ein Flugzeug der American Airlines](https://www.frankfurtflyer.de/wp-content/uploads/2019/11/american-airlines-737-max750xx1173-660-44-0-678x381.jpg)
+[^11]: [Ein Flugzeug der American Airlines](https://www.frankfurtflyer.de/wp-content/uploads/2019/11/american-airlines-737-max750xx1173-660-44-0-678x381.jpg)
