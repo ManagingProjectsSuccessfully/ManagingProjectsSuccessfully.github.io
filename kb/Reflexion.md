@@ -42,9 +42,9 @@ Ein Dokument mit den relevantesten Punkten, Ergebnissen und vor allem den durchl
 
 Das Projekt endet also nicht mit der Übergabe an den Auftraggeber, sondern erst mit dem erfolgreichen Abschluss, inklusive Dokumentation und Reflexion für zukünftige Projekte.[^3]
 
-Eine denkbare Herangehensweise wäre es, zusammen mit allen Projektbeteiligten, einige Fragen durchzugehen. 
+Eine denkbare Herangehensweise wäre es, zusammen mit allen Projektbeteiligten, einige Fragen durchzugehen.[^6]
 
-### Mögliche Fragen, die man sich selbst und dem Team stellen könnte[^6]:
+### Mögliche Fragen, die man sich selbst und dem Team stellen könnte:
 1.  Wurde das Projektziel erreicht? 
 2.  Was trug zum Erreichen des Ziels bei?
 3.  Welche Schwierigkeiten gab es
@@ -57,7 +57,7 @@ Eine denkbare Herangehensweise wäre es, zusammen mit allen Projektbeteiligten, 
 
 ## Fazit
 
-Zusammenfassend bedeutet eine ausführliche Reflexion für neue Projekte folgendes: 
+Zusammenfassend bedeutet eine ausführliche Reflexion für neue Projekte folgendes[^7]: 
 * Fehler zu vermeiden
 * Risiken zu verringern
 * Chancen zu nutzen
@@ -92,5 +92,7 @@ Bei so vielen positiven Aspekten kann man abschließend sagen, dass es durchaus 
 [^5]: [PCC, How Successful Project Managers Reflect on and Track the Outcomes of Projects, 2017](https://climb.pcc.edu/blog/how-successful-project-managers-reflect-on-and-track-the-outcomes-of-projects)
 
 [^6]: [Nachbesinnung (Reflexion) des Projekts](https://lehrerfortbildung-bw.de/st_kompetenzen/weiteres/projekt/projektkompetenz/instrumente/bewertung/fragebogen_nachbesinnung.htm)
+
+[^7]: [TPG, Lessons Learned im Projektmanagement](https://www.theprojectgroup.com/blog/lessons-learned-im-projektmanagement/)
 
 
