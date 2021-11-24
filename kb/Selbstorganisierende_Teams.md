@@ -59,6 +59,7 @@ Der Weg zu einem erfolgreichen und selbstorganisierenden Team lässt sich in zwe
 | Hohes Mittarbeiter-Commitment       | Hohes Management Commitment             |
 | Kontinuierliche Verbesserung        | Inkrementelle Verbesserung              |
 | Werte/prinzipienbasiert             | Richtlinien-/prozessbasiert             | 
+
 (vgl.[^4])
 
 # Mögliche Einwände gegen eine Transition 
