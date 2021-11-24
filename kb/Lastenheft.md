@@ -7,20 +7,20 @@ anrechnung: k
 
 Das Lastenheft beschreibt alle Anforderungen des Auftraggebers an die Lieferung und Leistung des Auftragnehmers[^1].
 
-Die Anforderungen in der Spezifikation sollten so weit wie möglich zusammengefasst und bei Bedarf eingeschränkt werden[^1]. 
+Die Anforderungen in der Spezifikation sollten so weit wie möglich zusammengefasst und bei Bedarf eingeschränkt werden. 
 Dies gibt dem Auftragnehmer die Möglichkeit, geeignete Lösungen (zB Software) zu entwickeln, ohne seine Lösungsfähigkeiten durch zu spezifische Anforderungen einzuschränken[^1].
 
-Der Kunde kann das Lastenheft im Angebot verwenden und an mehrere mögliche Auftragnehmer senden[^1]. Jeder von ihnen erstellte ein Lastenheft, in dem in genauerer Form beschrieben wird, wie sie die Anforderungen im Lastenheft adressieren wollen[^1]. Der Auftraggeber wählt dann aus den Vorschlägen möglicher Auftragnehmer den für ihn am besten geeigneten aus[^1].
+Der Kunde kann das Lastenheft im Angebot verwenden und an mehrere mögliche Auftragnehmer senden. Jeder von ihnen erstellte ein Lastenheft, in dem in genauerer Form beschrieben wird, wie sie die Anforderungen im Lastenheft adressieren wollen. Der Auftraggeber wählt dann aus den Vorschlägen möglicher Auftragnehmer den für ihn am besten geeigneten aus[^1].
 
 # Aufbau eines Lastenhefts
 
 In der Gliederung des Lastenhefts sind in der Regel folgende Punkte enthalten:
-* Spezifikation der auszuführenden Arbeiten (Lieferprojekt, Lieferprojekt, Projektprodukt)
-* Anforderungen an die spätere Verwendung des Produkts (z. B. Temperaturbereich)
-* Rahmenbedingungen für die Bereitstellung von Produkten und Dienstleistungen (wie Normen, Richtlinien, Materialien etc.)
-* Vertragsbedingungen (wie Erbringung von Teilleistungen, Gewährleistungspflichten, Risikomanagement, etc.)
-* Anforderungen an Auftragnehmer (z. B. Zertifizierung)
-* Anforderungen an das Projektmanagement des Auftragnehmers (z. B. Projektdokumente, Kontrollmethoden)
+* Spezifikation der auszuführenden Arbeiten (Lieferprojekt, Lieferprojekt, Projektprodukt)[^2]
+* Anforderungen an die spätere Verwendung des Produkts (z. B. Temperaturbereich)[^2]
+* Rahmenbedingungen für die Bereitstellung von Produkten und Dienstleistungen (wie Normen, Richtlinien, Materialien etc.)[^2]
+* Vertragsbedingungen (wie Erbringung von Teilleistungen, Gewährleistungspflichten, Risikomanagement, etc.)[^2]
+* Anforderungen an Auftragnehmer (z. B. Zertifizierung)[^2]
+* Anforderungen an das Projektmanagement des Auftragnehmers (z. B. Projektdokumente, Kontrollmethoden)[^2]
 
 
 # Aspekt 1
