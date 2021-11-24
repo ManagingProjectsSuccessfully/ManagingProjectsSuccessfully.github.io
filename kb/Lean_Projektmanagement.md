@@ -11,10 +11,10 @@ anrechnung: a
 ## 1.	Definition
 **Lean** = Einstellung / Denkweise / systematischer Ansatz zur Beseitigung von Verschwendung
 
-**Lean Project Management** (kurz LPM) ist in erster Linie eine Einstellung zur Durchführung von [Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md). Es ist eine Denkweise, die darauf abzielt, Verschwendung zu vermeiden, Projekte effizienter und effektiver zu gestalten und Kunden und Auftraggeber besser bedienen zu können.[^2]
+**Lean Project Management** (kurz LPM) ist in erster Linie eine Einstellung zur Durchführung von [Projekten](Projekt.md). Es ist eine Denkweise, die darauf abzielt, Verschwendung zu vermeiden, Projekte effizienter und effektiver zu gestalten und Kunden und Auftraggeber besser bedienen zu können.[^2]
 
 ## 2.	Toyota-Produktionssystem
-Lean-Management findet seinen Ursprung in den 50er Jahren im japanischen [Toyota-Produktionssystem](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Toyota_Produktionssystem.md), welches Verschwendung vermeidet, interne Abläufe und die Interaktion mit Lieferanten und Kunden optimiert und somit dem Prinzip der „Just-in-time-Produktion“ folgt.[^1] Toyota fasst drei Hauptquellen für Verschwendung: [Muda](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Muda_7_Arten_von_Verschwendung.md), Mura und Muri.[^4]
+Lean-Management findet seinen Ursprung in den 50er Jahren im japanischen [Toyota-Produktionssystem](Toyota_Produktionssystem.md), welches Verschwendung vermeidet, interne Abläufe und die Interaktion mit Lieferanten und Kunden optimiert und somit dem Prinzip der „Just-in-time-Produktion“ folgt.[^1] Toyota fasst drei Hauptquellen für Verschwendung: [Muda](Muda_7_Arten_von_Verschwendung.md), Mura und Muri.[^4]
 
 **Muda** bedeutet verschwendete Zeit und Mühe. Es umfasst alles was getan oder an Ressourcen eingesetzt wird, was für die Stakeholder in keiner Weise einen Mehrwert oder Nutzen bringt.[^4]
 
@@ -23,7 +23,7 @@ Lean-Management findet seinen Ursprung in den 50er Jahren im japanischen [Toyota
 **Muri** bezeichnet Überlastung, Unzumutbarkeit, Stress und all die Folgen, die entstehen, wenn Menschen hart arbeiten und mehr leisten müssen, als sie in der zur Verfügung stehenden Zeit schaffen können, aber auch, wenn Maschinen überlastet sind und deshalb ihre Wartungsintervalle versäumt werden und diese schließlich ausfallen.[^2]
 
 ## 3.	Anwendung im Projektmanagement
-Die Philosophie des Lean, wurde in den 90er Jahren erstmalig als Management-Methode eingeführt.[^3] Anfang der 2000er Jahre begann man schließlich auch damit, diese Grundsätze auf das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) anzuwenden.[^2]
+Die Philosophie des Lean, wurde in den 90er Jahren erstmalig als Management-Methode eingeführt.[^3] Anfang der 2000er Jahre begann man schließlich auch damit, diese Grundsätze auf das [Projektmanagement](Projektmanagement.md) anzuwenden.[^2]
 
 Die fünf Kernprinzipien des Lean Management von Womack und Jones eignen sich für den Übergang vom Lean Management zum Lean Project Management. Das Grundprinzip besteht darin, überflüssige Aktivitäten bzw. Verschwendung zu reduzieren.[^6]
 
@@ -47,7 +47,7 @@ Bei diesen fünf Kernprinzipien fällt auf, dass nur das erste Kernprinzip eine 
 ## 4.	Lean vs Agile
 Häufig werden die Begriffe Lean und Agile im selben Kontext verwendet, was nicht ganz korrekt ist. Sowohl Lean als auch Agile beschreiben eine Art und Weise, wie man wertschöpfungsorientiert an die Arbeit herangehen kann, aber sie empfehlen hierfür etwas andere Wege. Lean stammt aus der Produktion und ist eher ein systematischer Ansatz, eine unternehmensweite Methode zur Rationalisierung der Wertschöpfung. Agile hingegen wurzelt in der Softwareentwicklung und zielt zwar auch darauf ab, möglichst schnell einen hohen Nutzen zu erzeugen, doch geschieht dies eher durch kurze Iterationen und die Perfektionierung der Teamzusammenarbeit.[^4] Lean-Projekte haben eine ähnliche iterative Struktur wie agile Projekte, mit dem wichtigen Unterschied, dass der Kunde Teil des Lean-Management-Prozesses ist.[^1]
 
-Doch fließen auch Lean-Prinzipien direkt in das agile Projektmanagement und die ihm zugrunde liegende Philosophie, sowie in einige der Methoden ein, die agile Projektmanager anwenden. Ein klares Beispiel ist [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md), das selbst Teil des Toyota-Produktionssystems ist und in vielen Projektumgebungen, insbesondere bei [IT-Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/IT-Projekte.md), sehr erfolgreich eingesetzt wird.[^3] Auch das grundlegende agile Prinzip des Plan-Do-Review, welches die [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)-Methodik prägt, ist ebenso ein Bestandteil des Lean-Gedankens.[^2]
+Doch fließen auch Lean-Prinzipien direkt in das agile Projektmanagement und die ihm zugrunde liegende Philosophie, sowie in einige der Methoden ein, die agile Projektmanager anwenden. Ein klares Beispiel ist [Kanban](Kanban.md), das selbst Teil des Toyota-Produktionssystems ist und in vielen Projektumgebungen, insbesondere bei [IT-Projekten](IT-Projekte.md), sehr erfolgreich eingesetzt wird.[^3] Auch das grundlegende agile Prinzip des Plan-Do-Review, welches die [SCRUM](SCRUM.md)-Methodik prägt, ist ebenso ein Bestandteil des Lean-Gedankens.[^2]
 
 Sowohl Lean als auch Agile Teams helfen dabei, besser zu arbeiten und Kunden eine höhere Qualität zu liefern. So ist es nicht unüblich, dass Organisationen die Empfehlungen beider Methoden nutzen, um die bestmöglichen Ergebnisse zu erzielen.[^4]
 
@@ -60,13 +60,13 @@ Sowohl Lean als auch Agile Teams helfen dabei, besser zu arbeiten und Kunden ein
 
 # Siehe auch
 
-* [Anforderungsmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Anforderungsmanagement.md)
-* [Kaizen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kaizen.md)
-* [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md)
-* [Six Sigma](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Six_Sigma.md)
-* [Stakeholdermanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholdermanagement.md)
-* [Top-Down-Planning](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Top_Down_Planning.md)
-* [Voice of the Customer](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Voice_of_the_Customer.md)
+* [Anforderungsmanagement](Anforderungsmanagement.md)
+* [Kaizen](Kaizen.md)
+* [Projektkommunikation](Projektkommunikation.md)
+* [Six Sigma](Six_Sigma.md)
+* [Stakeholdermanagement](Stakeholdermanagement.md)
+* [Top-Down-Planning](Top_Down_Planning.md)
+* [Voice of the Customer](Voice_of_the_Customer.md)
 
 # Weiterführende Literatur
 
