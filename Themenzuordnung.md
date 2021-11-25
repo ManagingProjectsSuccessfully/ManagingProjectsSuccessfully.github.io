@@ -36,7 +36,6 @@ author: anniSc
 | [Bottom_Up_Planning](kb/Bottom_Up_Planning.md)                                                           | [FAUdennis96](https://github.com/FAUdennis96)                 |
 | [Change_Projekte](kb/Change_Projekte.md)                                                                 | [verenaschuebel](https://github.com/verenaschuebel)           |
 | [Open_Source_Projekte](kb/Open_Source_Projekte.md)                                                       | [AnnaSophieNi](https://github.com/AnnaSophieNi)               |
-| [Remote_Projekte](kb/Remote_Projekte.md)                                                                 | [gelfertfelix](https://github.com/gelfertfelix)               |
 | [Nachhaltige_Entwicklung](kb/Nachhaltige_Entwicklung.md)                                                 | [JoseOliveira2](https://github.com/JoseOliveira2)             |
 | [Nachhaltige_Projekte](kb/Nachhaltige_Projekte.md)                                                       | [MarcelFAU](https://github.com/MarcelFAU)                     |
 | [Sustainable_Development_Goals](kb/Sustainable_Development_Goals.md)                                     | [Teemoma](https://github.com/Teemoma)                         |
