@@ -33,7 +33,7 @@ Mitglieder spiegeln hier Publikum wieder; Folgende Fragen möglich[^3]:
 
 * Was hast Du heute über Dich gelernt? 
 * Was nimmst Du aus dem heutigen Workshop mit? Womit möchtest Du Dich weiter beschäftigen? 
-![Ablauf-Peer-Review-Workshop](https://user-images.githubusercontent.com/93006479/143208556-db8c2898-857b-40a7-abf6-2f87d3284852.jpeg)
+![Ablauf-Peer-Review-Workshop](Routineprojekte/Ablauf-Peer-Review-Workshop.jpeg)
 
 ## Unterschied zwischen [Peer-Review](https://transferio.at/agile-coach/peer-review-workshop-schlaegt-mitarbeitergespraech/) und Mitarbeitergespräche
 
