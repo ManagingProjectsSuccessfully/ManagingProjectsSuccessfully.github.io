@@ -2,7 +2,7 @@
 title: Scrum_Artefakte
 tags: agil klassisch
 author: fadiarabo
-anrechnung:  a
+anrechnung:  k
 ---
 Es gibt im SCRUM nur 3 Artefakte, die jeweils eine Arbeit oder einen Wert repräsentieren: Das Product Backlog, das Sprint-Backlog und das Produktinkrement. Die Artefakte sollen für maximale Transparenz sorgen und garantieren, dass alle auf demselben Wissensstand sind. Jedes Artefakt hat eine übergeordnete Maxime, die es damit zu erreichen gilt.
 
@@ -25,7 +25,7 @@ Wichtig ist, dass alle Mitglieder Zugriff auf die Artefakte haben, beziehungswei
 In iterativen Prozessen wird kontinuierlich verbessert und an kleinen, überschaubaren Zielen gearbeitet. In jedem Sprint entsteht ein potenziell auslieferbares Produkt. Nicht zuletzt deshalb wird die Methode sehr geschätzt.
 Die drei Artefakte sind essenziell für ein funktionierendes SCRUM Projekt. Um erfolgreich mit SCRUM zu arbeiten, muss das gesamte Team die Artefakte und deren Funktionen und Anwendungsgebiete verstehen[^2].
 
-![SCRUM-1](https://user-images.githubusercontent.com/93006479/143299161-de50b10e-0a73-46a0-87b0-5efc0a22e02a.png)
+![SCRUM-1](Scrum_Artefakte/SCRUM-1.png)
 siehe [^4].
 
 # Scrum Artefakte und Rollenaufteilung
