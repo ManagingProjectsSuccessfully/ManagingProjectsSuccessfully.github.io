@@ -5,7 +5,7 @@ author: hello-pukeko
 anrechnung: k
 ---
 
-Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise [zeitliche Abläufe](Zeitplanung.md), Aktivitäten, [Rollen](Verantwortlichkeiten.md) - kurz *wer was wann* macht - und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. Sie bieten einen organisatorischen Rahmen und dienen Nutzer:innen als Hilfestellung.[^110][^90]
+Ein Vorgehensmodell beschreibt Vorgehensweisen für die Bearbeitung eines Projekts und definiert typischerweise [zeitliche Abläufe](Zeitplanung.md), Aktivitäten, [Rollen](Verantwortlichkeiten.md) - kurz *wer was wann* macht - und in manchen Fällen auch genauere Inhalte wie Methoden oder konkrete Werkzeuge. Vorgehensmodelle bieten einen organisatorischen Rahmen und dienen Nutzer:innen als Hilfestellung.[^110][^90]
 Es gibt dabei eine Vielzahl an Vorgehensmodellen und ein geeignetes auszuwählen ist keine leichte Aufgabe. Es existieren unterschiedliche Ansätze zu Auswahlkriterien und Möglichkeiten zur Anpassung.[^50]
 
 # Begriffsdefinition Vorgehensmodell
@@ -37,7 +37,7 @@ Klassische Vorgehensmodelle, auch lineare Vorgehens- oder Phasenmodelle[^30] gen
 Der wohl geläufigste Vertreter klassischer Vorgehensmodelle ist das [Wasserfallmodell](Wasserfall_Modell.md). Weitere bekannte Beispiele sind das [V-Modell XT](VModell)[^80] und Rational Unified Process[^40].
 
 ![Schema eines Phasenkonzepts](Vorgehensmodelle/Schema_eines_Phasenkonzepts.png)
-Abbildung: Schema eines Phasenkonzepts[^120]
+Abbildung 2: Schema eines Phasenkonzepts[^120]
   
   
 **Vorteil** von klassischen Vorgehensmodellen ist die einfache Struktur mit klarer Einteilung, welche eine hohe Prozesstransparenz gewährleistet.[^30]
@@ -51,7 +51,7 @@ Agile Vorgehensmodelle beruhen auf iterativem und inkrementellem Vorgehen. Itera
 Weitverbreitete agile Vorgehensmodelle sind beispielsweise das Spiralmodell, [Extreme Programmierung](Xtreme_Programming.md), [Scrum](SCRUM.md) oder [Kanban](Kanban.md).
 
 ![Konzept des Spiralmodells](Vorgehensmodelle/Konzept_des_Spiralmodells.png)
-Abbildung: Konzept des Spiralmodells[^90]
+Abbildung 3: Konzept des Spiralmodells[^90]
 
 **Vorteil** agiler Vorgehensmodelle ist, dass durch das inkrementelle Vorgehen früh erste einsetzbare Ergebnisse vorliegen[^10] und durch die Iterationen auf Fehler und Änderungen leichter eingegangen werden kann als bei Phasenmodellen.
 
