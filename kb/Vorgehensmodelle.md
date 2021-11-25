@@ -63,21 +63,6 @@ Agile Vorgehensmodelle können auch eingesetzt werden, wenn die genaueren Anford
 Es ist möglich klassische und agile Herangehensweise zu kombinieren, beispielsweise indem ausgewählte Projektphasen oder Teilprojekte eines klassischen Vorgehensmodells agil durchgeführt werden. Solche Kombinationen werden auch als [hybride](Hybrides_Projektmanagment.md) Vorgehensmodelle bezeichnet.[^120]
 Als eigene Art von Vorgehensmodellen wird zudem häufig Prototyping aufgeführt. Es ähnelt dem agilen Vorgehen, da das Endergebnis ebenfalls durch schrittweises Ausbauen eines hier Prototyps entsteht. Der Prototyp besitzt zu einem frühen Zeitpunkt ausgewählte oder kritische Funktionen, um ein Testen in realisitischer Umgebung zu ermöglichen.[^110]
 
-# Mögliche weitere Verlinkungen (wenn ich noch mehr Text hinzufügen darf)
-- Projektmanagement (Einordnung??)
-- Projektcontrolling (Einordnung??)
-- Projektdokumentation (VM unterscheiden sich in der Vorgabe für Ausmaß dieser :D)
-- evtl. Projektabbruch
-- Projektart (mal reingucken in den Artikel - evtl. ergänzen "je nach Projektart kommen andere VM zum Einsatz" oder so)
-- evtl. Projektmanagement_Branchenspezifisch (ergänzen "je nach ...  und PM_branchenspezifisch kommen ...")
-- Projektmanagement_in_unterschiedlichen_Unternehmensbereichen (wenn ich Absatz Auswahl VM ergänzen darf mit ...innerhalb einer Organisation empfiehlt es sich zur Transparenz und besseren Kommunikation (gleiche Begrifflichkeiten) eine Art Standard zu vereinbaren)
-- Projektplanung (mal reinschauen, passt zu meinem tag)
-- Projektstrukturplan (mal reinschauen!)
-- irgendwas mit Risiko für klassisch? mal reinschauen, welcher der vielen Risiko- Beiträge am besten zu meinem angesprochenen Risiko passt
-- Rollen_klassisch (weiß nicht in welchen Satz)
-- evtl. Zeitplanung -- hinzugefügt
-- evtl. Zielplanung (besonders zu agil)
-
 # Weiterführende Literatur
 Broy, Manfred; Kuhrmann, Marco (2021): Vorgehensmodelle in der Softwareentwicklung. In: Manfred Broy und Marco Kuhrmann (Hg.): Einführung in die Softwaretechnik. Berlin, Heidelberg: SpringerVieweg (Xpert.press), S. 83–124. Online verfügbar unter https://link.springer.com/content/pdf/10.1007%2F978-3-662-50263-1.pdf.
 
