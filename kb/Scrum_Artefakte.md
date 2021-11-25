@@ -1,104 +1,49 @@
 ---
 title: Scrum_Artefakte
 tags: agil klassisch
-author: Christoph-Mantsch
-anrechnung: k oder a
+author: fadiarabo
+anrechnung:  a
 ---
+Es gibt im SCRUM nur 3 Artefakte, die jeweils eine Arbeit oder einen Wert repräsentieren: Das Product Backlog, das Sprint-Backlog und das Produktinkrement. Die Artefakte sollen für maximale Transparenz sorgen und garantieren, dass alle auf demselben Wissensstand sind. Jedes Artefakt hat eine übergeordnete Maxime, die es damit zu erreichen gilt.
 
-Kurzbeschreibung zu Scrum_Artefakte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Artefakt Nr. 1: Product Backlog
+Beim Product Backlog handelt es sich um eine Liste von Produktanforderungen. Die oberste Maxime des Product Backlogs ist das Produkt Ziel. Die Hoheit über den Product Backlog liegt beim Product Owner. Dieser sammelt und ergänzt alle Anforderungen, welche die Stakeholder an das fertige Produkt stellen. Alle Arbeiten, welche die Entwickler durchführen, speisen sich aus diesem Artefakt. Gemeinsam mit den Entwicklern legt der Product Owner fest, welche dieser Anforderungen ins aktuelle Sprint-Backlog übernommen werden, je nach Aufwand, Abhängigkeiten und Priorität. Das Product Backlog ist ein lebendes Dokument, das während der gesamten Produktentwicklung erweitert und verändert wird[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Artefakt Nr. 2: Sprint Backlog
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Das Sprint-Backlog setzt sich aus dem Sprint Ziel (warum?), den jeweils ausgewählten Produktanforderungen aus dem Product Backlog (was?) und dem Umsetzungsplan des Produktinkrements (wie?) zusammen. Der Sprint-Backlog enthält also immer eine Teilmenge des Product Backlogs. Die oberste Maxime des Sprint Backlogs ist das Sprint-Ziel. Dieses wird während der Sprint-Planung entwickelt und während des Sprints stets im Auge behalten[^1].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Artefakt Nr. 3: Produktinkrement
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Das Produktinkrement ist das jeweilige Produkt, das nach jedem Sprint entstanden ist. Mit jedem Inkrement wird das Produkt ein Stück vorangebracht und kommt so dem fertigen Produkt Schritt für Schritt näher. Auch für das Produktinkrement gibt es eine übergeordnete Maxime: Die „Definition of Done“ – also wie genau und wie langlebig wurde die jeweilige Anforderung umgesetzt? Nur Arbeiten, die der zuvor im Team festgelegten „Definition of Done“ entsprechen, können Teil eines Produktinkrements sein. Das Produktinkrement wird den Kunden meist direkt zur Verfügung gestellt, um es umgehend in der Praxis getestet zu sehen[^1].
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+# DIE ARTEFAKTE ALS ZUTATEN DES SCRUM PROJEKTS
+Ein Projekt ist kein „mit-SCRUM-gemanagtes“ Projekt, wenn es nicht diese drei Artefakte beinhaltet und nicht alle gewissenhaft damit arbeiten. Sie stellen die Idee hinter SCRUM sicher und gewährleisten bei richtiger Anwendung einen reibungslosen Ablauf des Workflows und eine funktionierende Zusammenarbeit der einzelnen Rollen im SCRUM Team.
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Wichtig ist, dass alle Mitglieder Zugriff auf die Artefakte haben, beziehungsweise diese für alle sichtbar sind. Außerdem muss ausreichend Kommunikation zwischen allen Rollen herrschen, um die Artefakte gegebenenfalls auch anpassen zu können[^2].
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+In iterativen Prozessen wird kontinuierlich verbessert und an kleinen, überschaubaren Zielen gearbeitet. In jedem Sprint entsteht ein potenziell auslieferbares Produkt. Nicht zuletzt deshalb wird die Methode sehr geschätzt.
+Die drei Artefakte sind essenziell für ein funktionierendes SCRUM Projekt. Um erfolgreich mit SCRUM zu arbeiten, muss das gesamte Team die Artefakte und deren Funktionen und Anwendungsgebiete verstehen[^2].
 
+![SCRUM-1](https://user-images.githubusercontent.com/93006479/143299161-de50b10e-0a73-46a0-87b0-5efc0a22e02a.png)
+siehe [^4].
 
-# Aspekt 1
+# Scrum Artefakte und Rollenaufteilung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+| Rollen  | Product Owner | Scrum Master | Team |
+| -------------| ------------- | ------------- | ------------- |
+| Artefakte  | Product Backlog  | Sprint Backlog| Inkremente |
+| Ereignisse |Sprint Planning| Sprint| Sprint Review + Sprint Retrospective |
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Scrum_Artefakte/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
+siehe auch [^3](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgemeinsam-digital.de%2Fprojektmanagement-mit-scrum%2F&psig=AOvVaw2FMe4WNE7SQm5_PhJoYAyq&ust=1637865968173000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiL9LTUsfQCFQAAAAAdAAAAABAT)
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Scrum_Artefakte.md)
+* [Scrum Artefakte](https://www.mitsm.de/wissen/scrum-wissen/die-scrum-artefakte/)
 
-# Weiterführende Literatur
+ # Quellen
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Scrum Artefakte](https://www.mitsm.de/wissen/scrum-wissen/die-scrum-artefakte/)
+[^2]: [Weitere Infos](https://www.agile-heroes.de/magazine/scrum-artefakte/)
+[^3]: [Rollenverteilung](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgemeinsam-digital.de%2Fprojektmanagement-mit-scrum%2F&psig=AOvVaw2FMe4WNE7SQm5_PhJoYAyq&ust=1637865968173000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiL9LTUsfQCFQAAAAAdAAAAABAT)
+[^4]: [Bildquelle](https://user-images.githubusercontent.com/93006479/143299161-de50b10e-0a73-46a0-87b0-5efc0a22e02a.png)
