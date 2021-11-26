@@ -24,7 +24,7 @@ Wenn der Nutzer Hive öffnet, wird zunächst das individuelle Dashboard des Nutz
 Nutzer entnehmen welche Aktivitäten in welchem Projekt er zu erledigen hat. Die Aktivitäten können entweder selbst erstellt sein oder
 man wurde alternativ von einem Projekt Admin als Auszuführender determiniert.
 
-![Abbildung 1](ManagingProjectsSuccessfully.github.io/kb/Hive_PM_Tool/dashboardBild.jpg)
+![Abbildung 1](Gilchus/ManagingProjectsSuccessfully.github.io/kb/Hive_PM_Tool/dashboardBild.jpg)
 
 ## Menü
 
