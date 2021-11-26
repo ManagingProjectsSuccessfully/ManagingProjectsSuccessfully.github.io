@@ -52,7 +52,7 @@ eines bereits bestehenden Projektes von Drittanbieter Software oder csv Dateien.
 Hive bietet die Möglichkeit für jeden Nutzer ein individuelles Projektlayout zu wählen. Man hat hierbei die Möglichkeit zwischen verschiedensten state of the art
 Layouts zu wählen (siehe [Abbildung 3] und [Abbildung 4]).
 
-![Abbildung 3](ManagingProjectsSuccessfully.github.io/kb/Hive_PM_Tool/projektÜbersichtGantt.png) ![Abbildung 4](ManagingProjectsSuccessfully.github.io/kb/Hive_PM_Tool/projektÜbersicht.png) 
+![Abbildung 3](ManagingProjectsSuccessfully.github.io/kb/Hive_PM_Tool/projektÜbersichtGantt.PNG) ![Abbildung 4](ManagingProjectsSuccessfully.github.io/kb/Hive_PM_Tool/projektÜbersicht.PNG) 
 
 Aufgaben innerhalb eines Projektes können entweder vom Administrator oder berechtigten Nutzern zugewiesen werden. Dies kann entweder bei Erstellung
 der Aktivität oder nachträglich geschehen. Es ist ebenfalls möglich Projektinformationen nachträglich zu bearbeiten, wie z.B. Deadlines oder Elternprojekt.
