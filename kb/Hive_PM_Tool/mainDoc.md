@@ -12,12 +12,12 @@ im Zusammenhang mit Projekt Management zuzugreifen.
 Hive ermöglicht es durch das Hinzufügen von Gruppen und Teammitgliedern, eine zentrale Software für alle Stakeholder eines
 Projektes zu bieten.  
 
-#Anwendung und Leistung
+# Anwendung und Leistung
 
 Das Hive PM Tool bietet dem Nutzer ein intuitiv nutzbares User Interface. Eine Einführung in die Grundfunktionen der Software
 bekommt man durch das bereit gestellte Tutorial, welches dem Nutzer in der Anwendung Click-by-Click Anweisungen gibt.
 
-##Dashboard
+## Dashboard
 
 Die Anwendungsoberfläche des Hive PM Tools ist intuitiv benutzbar und mit vielen Drag and Drop Elementen versehen. 
 Wenn der Nutzer Hive öffnet, wird zunächst das individuelle Dashboard des Nutzers angezeigt (siehe Abbildung 1). Diesem kann der
@@ -26,7 +26,7 @@ man wurde alternativ von einem Projekt Admin als Auszuführender determiniert.
 
 ![Abbildung 1](Hive_PM_Tool/dashboardBild.jpg)
 
-##Menü
+## Menü
 
 Das Menü (linke Seite [Abbildung 1]) ist schlicht gehalten. Es beinhaltet standardmäßig wenig Punkte, ist aber von jedem User individuell gestaltbar.
 So ist es beispielsweise möglich Projekte direkt an die Menüleiste anzuheften, was einen schnelleren Zugriff auf diese ermöglicht. 
@@ -34,7 +34,7 @@ Standartisierte Menüpunkte sind Mail, Notes, Apps, Projects und My Action. My A
 Unter den Menüpunkten befindet sich der Abteil Chat, welcher es ermöglicht sich mit Kollegen direkt auszutauschen. Eine Besonderheit des Chats ist, dass
 Nachrichten direkt per Drag and Drop zu einer Aktivität verwandelt werden können. 
 
-##Apps
+## Apps
 
 Hive bietet die Möglichkeit eine Vielzahl an Drittanbieter Software mit dem Tool zu verbinden. Eine standardmäßige Verknüpfung welche von 
 Hive empfohlen wird ist mit der Mail Adresse des Nutzers. So ist es möglich Mails direkt in der Anwendung zu verwalten. Unter dem Menüpunkt Apps
@@ -44,7 +44,7 @@ Desweiteren stellt Hive eigene Add-Ons und Apps zur Verfügung, welche es dem Nu
 
 ![Abbildung 2](Hive_PM_Tool/appsBild.jpg)
 
-##Projektverwaltung
+## Projektverwaltung
 
 Das Erstellen und Verwalten von Projekten mit Hive ist durch die intuitiv nutzbare Oberfläche einfach gestaltet. Bei der Erstellung eines Projektes
 ist es möglich direkt Nutzer oder Gruppen von Nutzern hinzuzufügen. Die Erstellung eines Projektes kann entweder manuell erfolgen oder durch importieren 
@@ -87,7 +87,7 @@ was die Eingliederung in das Unternehmen enorm erleichtern kann.
 In den Angebotserläuterungen sind viele Aspekte mit "Talk to us" vermerkt. Das lässt darauf schließen, dass Hive großen Wert darauf
 legt, ein perfekt auf den Kunden abgestimmtes Produkt zu liefern. [^1]
 
-##Fazit
+## Fazit
 
 Das Hive Projekt Management Tool überzeugt durch sein intuitiv gestaltetes User Interface, welches den Einstieg in die Software einfach gestaltet. 
 Für Unternehmen oder Projektteams welche zuvor ein anderes System zum Verwalten von Projekten genutzt haben, wird der Umstieg durch die auswählbaren 
