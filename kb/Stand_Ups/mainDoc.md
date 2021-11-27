@@ -1,6 +1,6 @@
 ---
 title: Stand_Ups
-tags: agil klassisch
+tags: agil scrum daily standup
 author: Gilchus
 anrechnung: a
 ---
