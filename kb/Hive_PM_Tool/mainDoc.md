@@ -24,7 +24,7 @@ Wenn der Nutzer Hive öffnet, wird zunächst das individuelle Dashboard des Nutz
 Nutzer entnehmen welche Aktivitäten in welchem Projekt er zu erledigen hat. Die Aktivitäten können entweder selbst erstellt sein oder
 man wurde alternativ von einem Projekt Admin als Auszuführender determiniert.
 
-![Abbildung 1](/Hive_PM_Tool/dashboardBild.PNG)
+![Abbildung 1](dashboardBild.PNG)
 
 ## Menü
 
@@ -42,7 +42,7 @@ findet man gängige Branchenunabhängige Anwendungen, wie zum Beispiel OneDrive 
 wie GitHub einzubinden. 
 Desweiteren stellt Hive eigene Add-Ons und Apps zur Verfügung, welche es dem Nutzer ermöglichen das Tool individuell zu gestalten (siehe [Abbildung 2])
 
-![Abbildung 2](/Hive_PM_Tool/appsBild.PNG)
+![Abbildung 2](appsBild.PNG)
 
 ## Projektverwaltung
 
@@ -52,7 +52,7 @@ eines bereits bestehenden Projektes von Drittanbieter Software oder csv Dateien.
 Hive bietet die Möglichkeit für jeden Nutzer ein individuelles Projektlayout zu wählen. Man hat hierbei die Möglichkeit zwischen verschiedensten state of the art
 Layouts zu wählen (siehe [Abbildung 3] und [Abbildung 4]).
 
-![Abbildung 3](/Hive_PM_Tool/projektÜbersichtGantt.PNG) ![Abbildung 4](/Hive_PM_Tool/projektÜbersicht.PNG) 
+![Abbildung 3](projektÜbersichtGantt.PNG) ![Abbildung 4](projektÜbersicht.PNG) 
 
 Aufgaben innerhalb eines Projektes können entweder vom Administrator oder berechtigten Nutzern zugewiesen werden. Dies kann entweder bei Erstellung
 der Aktivität oder nachträglich geschehen. Es ist ebenfalls möglich Projektinformationen nachträglich zu bearbeiten, wie z.B. Deadlines oder Elternprojekt.
