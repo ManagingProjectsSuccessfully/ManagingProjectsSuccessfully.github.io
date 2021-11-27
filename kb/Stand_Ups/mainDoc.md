@@ -22,7 +22,7 @@ Durch die Beantwortung dieser drei Fragen soll sicher gestellt werden, dass jede
 ist, gegensätzlich zu Stand Up Meetings in Kanban, auf die Personen fokussiert. Jede der zu beantwortenden Fragen ist auf den Entwickler selbst bezogen
 und nicht auf das Projekt bzw. Sprint.[^3]
 
-![Abbildung 1](Stand_Ups/scrumFramework.jpg)
+![Abbildung 1](scrumFramework.jpg)
 
 # Stand Ups in Kanban
 
