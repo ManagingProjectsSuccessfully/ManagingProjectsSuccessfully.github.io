@@ -1,7 +1,7 @@
 ---
 title: KISS_Prinzip
 tags: agil klassisch
-author: seposer
+author: qu68paka
 anrechnung: k oder a
 ---
 
