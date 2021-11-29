@@ -58,7 +58,7 @@ Bei der Analyse ist es wichtig das volle Potential aus den erhobenen Daten auszu
 ## Phase 3: Umwandlung der Analyseergebnisse in spezifische Kundenanforderungen[^5][^2]
 Mit den Ergebnissen, die ein Unternehmen aus Phase 2 bekommt, kann man noch nichts Signifikantes bewirken. Um den vollen Nutzen aus den analysierten Daten zu bekommen, müssen diese erst noch in spezifische Kundenanforderungen übersetzt werden.[^5][^2] Damit sind qualitative und quantitative Zielwerte gemeint, die sinnvoll für eine bestimmte Aufgabe strukturiert wurden.[^1] Mögliche Tools dafür sind Critical To Quality (CTQ)[^1] oder House of Quality.[^5]
 
-Das Resultat von Phase 3 sollte eine vollständige Liste mit strukturierten Kundenanforderungen sein, die anschließend an die relevanten Stellen im Unternehmen weitergeleitet werden.[^2] Verwendung finden diese in Unternehmensbereichen, in denen Leistungen für Kunden festgelegt werden müssen.[^2] Dazu zählen die Produktentwicklung[^2], Marketing und Vertrieb[^4][^3], die Unternehmensführung[^7], das [Customer Experience](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Customer_Experience.md) Management[^4] und der Kundenservice.[^4] 
+Das Resultat von Phase 3 sollte eine vollständige [Liste mit strukturierten Kundenanforderungen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Backlog.md) sein, die anschließend an die relevanten Stellen im Unternehmen weitergeleitet werden.[^2] Verwendung finden diese in Unternehmensbereichen, in denen Leistungen für Kunden festgelegt werden müssen.[^2] Dazu zählen die Produktentwicklung[^2], Marketing und Vertrieb[^4][^3], die Unternehmensführung[^7], das [Customer Experience](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Customer_Experience.md) Management[^4] und der Kundenservice.[^4] 
 
 Unabhängig vom Unternehmensbereich sollte es das Ziel sein mit Hilfe von einer einheitlichen Sprache den Leuten im Unternehmen, die Betrachtungsweise der Kundenbedürfnisse[^1] zu vermitteln, damit an jeder Stelle im Arbeitsprozess verstanden wird, worauf es bei der fertigen Leistung wirklich ankommt.[^5]
 
@@ -68,18 +68,34 @@ Abschließend steht oder fällt der Erfolg eines VOC-Prozesses, ob die gewonnen 
 # VOC im Projektmanagement
 Die spezifischen Kundenanforderungen aus dem VOC-Prozess bilden die Basis für jedes Projekt, da sie das Ziel des Projekts genau definieren und sie dem Projektteam die notwendige Kundenperspektive geben. 
 
-Vor allem im agilen Projektmanagement, wo man durch eine flexible Vorgehensweise und auf das Setzen der wichtigsten Funktionen, die Kundenanforderungen gezielt treffen möchte, sind VOC-Kundenanforderungen unerlässlich. So werden bei Scrum beispielsweise die User-Stories aus den spezifischen Kundenanforderungen abgeleitet.
+Vor allem im [agilen Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Agiles_Manifest.md), wo man durch eine flexible Vorgehensweise und auf das Setzen der [wichtigsten Funktionen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Minimum_Viable_Product.md), die Kundenanforderungen gezielt treffen möchte, sind VOC-Kundenanforderungen unerlässlich. So werden bei [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) beispielsweise die [User Stories](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/User_Story.md) aus den spezifischen Kundenanforderungen abgeleitet.
 
-Genauso bilden spezifische Kundenanforderungen im klassischen Projektmanagement die Voraussetzung für die effiziente Planung jedes Projekts.
+Genauso bilden spezifische Kundenanforderungen im [klassischen Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektphasen_klassisch.md) die Voraussetzung für die effiziente [Planung jedes Projekts](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md).
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Deliverable.md)
+* [Agiles Manifest](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Agiles_Manifest.md)
+* [Ausgangsanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Ausgangsanalyse.md)
+* [Best Practices vs Worst Practices](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Best_Practices_vs_Worst_Practices.md)
+* [Customer Experience](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Customer_Experience.md)
+* [Innovationsprojekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Innovationsprojekte.md)
+* [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
+* [Minimum Viable Product](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Minimum_Viable_Product.md)
+* [Product Backlog](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Backlog.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Projektmanagement in Startups](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_in_Startups.md)
+* [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)
+* [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
+* [Six Sigma](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Six_Sigma.md)
+* [Stakeholderanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholderanalyse.md)
+* [Storrytelling](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Storrytelling.md)
+* [User Story](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/User_Story.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Importance Calculation of Customer Requirements for Incremental Product Innovation](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.633472/full)
+* [Voice of the Customer: Capture and Analysis](http://196.223.158.148/bitstream/handle/123456789/3101/659.pdf?sequence=1&isAllowed=y)
+* [Satisfaction: How Every Great Company Listens to the Voice of the Customer](https://books.google.de/books?hl=de&lr=&id=PzSnr1xjOpUC&oi=fnd&pg=PR11&dq=Voice+of+the+Customer&ots=4Iq7Akh_7W&sig=R44lmBOIdZphMK4CZuAYYKSZrEk&redir_esc=y#v=onepage&q&f=false)
 
 # Quellen
 [^1]: [The Voice of the Customer (VOC)](https://trainingsmanufaktur.de/lexikon/voice-of-the-customer-voc/)
