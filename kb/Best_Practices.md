@@ -30,7 +30,7 @@ Zu Beginn eines Projekts sollte ein [Kick-Off-Termin](Projekt_Kick_Off.md) abgeh
 
 ## Siehe auch
 
-*[Stakeholdermanagement](Stakeholdermanagement.md)
+* [Stakeholdermanagement](Stakeholdermanagement.md)
 *[Risikomanagement](Risikomanagement.md)
 *[Eskalationsstufen](Eskalationsstufen.md)
 *[Projektplanung](Projektplanung.md)
