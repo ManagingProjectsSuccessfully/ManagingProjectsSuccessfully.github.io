@@ -131,7 +131,6 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 * [PRINCE2_7_Themen](PRINCE2_7_Themen.md)
 * [PRINCE2_7_Prozesse](PRINCE2_7_Prozesse.md)
 * [PRINCE2_Projektumgebung](PRINCE2_Projektumgebung.md)
-
 # Weiterführende Literatur
 
 * https://www.youtube.com/watch?v=if__T71U2ss
