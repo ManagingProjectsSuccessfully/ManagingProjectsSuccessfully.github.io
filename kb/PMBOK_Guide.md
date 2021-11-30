@@ -85,14 +85,14 @@ Aufgrund der individuellen Zusammensetzung jedes Projekts sind keine einheitlich
 
 # Weiterführende Literatur
 
-* Agile project management and the PMBOK® guide https://www.pmi.org/learning/library/agile-project-management-pmbok-waterfall-7042
-* PMBOK Guide 7th Edition (12 Principles) https://www.youtube.com/watch?v=fGrsUSw1_Vw
+* [Agile project management and the PMBOK® guide](https://www.pmi.org/learning/library/agile-project-management-pmbok-waterfall-7042)
+* [PMBOK Guide 7th Edition (12 Principles)](https://www.youtube.com/watch?v=fGrsUSw1_Vw)
 
 # Quellen
-[^1]:PMBOK Guide 7th Edition: Was PMP-Kandidaten wissen müssen https://www.theprojectgroup.com/blog/pmbok-guide-7th-edition/ Abgerufen am 23. November 2021.
-[^2]:Kurz und knapp: Das ist neu beim PMBOK-Guide Edition 7 https://www.inloox.de/unternehmen/blog/artikel/kurz-und-knapp-das-ist-neu-beim-pmbok-guide-edition-7/ Abgerufen am 23. November 2021.
-[^3]:PMBOK Guide 7. Ausgabe – Ein Überblick https://www.tiba-business-school.de/pmbok-guide-7-ausgabe-ueberblick/ Abgerufen am 23. November 2021.
-[^4]:PMBOK® Guide https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK Abgerufen am 23. November 2021.
+[^1]:[PMBOK Guide 7th Edition: Was PMP-Kandidaten wissen müssen](https://www.theprojectgroup.com/blog/pmbok-guide-7th-edition/) 
+[^2]:[Kurz und knapp: Das ist neu beim PMBOK-Guide Edition 7](https://www.inloox.de/unternehmen/blog/artikel/kurz-und-knapp-das-ist-neu-beim-pmbok-guide-edition-7/)
+[^3]:[PMBOK Guide 7. Ausgabe – Ein Überblick](https://www.tiba-business-school.de/pmbok-guide-7-ausgabe-ueberblick/)
+[^4]:[PMBOK® Guide](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK) 
 [^5]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.14
 [^6]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.34-47
 [^7]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.48-86
