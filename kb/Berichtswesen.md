@@ -18,7 +18,7 @@ Die Hauptaufgabe des Berichtswesens besteht in der Dokumentation, des Standes un
 Ein weiterer Kernpunkt umfasst die Verteilung der Dokumente, sodass der Bedarf an Informationen für alle Projektbeteiligten zu jeder Zeit gedeckt werden kann. 
 Somit bildet das Berichtswesen eine Brücke zwischen dem Entstehungs- und dem Anwendungsort von Daten und liefert die Datenbasis für beispielsweise das 
 [Projektcontrolling](Projektcontrolling.md) oder die [Projektsteuerung](Projektssteuerung.md)[^3].
-Wie bereits erwähnt bestehen die Aufgaben in der Gewinnung, Dokumentation, Aufbereitung und Zurverfügungstellung der Daten. 
+Die Aufgaben bestehen aus der Gewinnung, Dokumentation, Aufbereitung und Zurverfügungstellung der Daten. 
 Ziele, die schließlich mit dem Berichtswesen verfolgt werden, sind: 
 
 *	Gewährleistung eines laufenden Soll-Ist-Vergleichs[^4]
@@ -51,7 +51,7 @@ Ist die [Projektsteuerung](Projektssteuerung.md) transparent können unnötige R
 Der Berichtsprozess sollte daher zu Beginn eines neuen Projekts transparent erarbeitet und individuell an das Projekt angepasst werden und gegebenenfalls sollten 
 neue Projektmitglieder angemessen in ihn eingewiesen werden, damit sich das Berichtswesen als Erfolgsfaktor niederschlägt[^12].
 
-
+# Fazit
 
 Zusammenfassend ist zu sagen, dass das Berichtswesen die strategische und operative Unternehmensführung auf allen Ebenen unterstützt[^13].
 Eine wesentliche Rolle kommt dem Informationsbedürfnis zu, welches von den Berichten dahingehend gestillt werden sollen, so dass sie, durch Komplexitätsreduktion 
