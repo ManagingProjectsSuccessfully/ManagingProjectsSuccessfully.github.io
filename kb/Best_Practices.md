@@ -5,7 +5,7 @@ author: tobi0211
 anrechnung: k
 ---
 
-Ein Projekt zu planen und zu überwachen, sodass sowohl Erwartungen als auch Zeitpläne und Budgets eingehalten werden können, ist eine herausfordernde Aufgabe. Hierbei können leicht verschiedene Punkte vergessen werden. Um dies zu verhindern, kann auf grundsätzliche Tipps bzw. Best Practices zurückgegriffen werden, im Folgenden werden von diesen Best Practices einige ausgeführt. 
+Ein Projekt zu planen und zu überwachen, sodass sowohl Erwartungen als auch Zeitpläne und Budgets eingehalten werden können, ist eine herausfordernde Aufgabe. Hierbei können leicht verschiedene Punkte vergessen werden. Um dies zu verhindern, kann auf sogenannte Best Practices zurückgegriffen werden.
 
 ## 1. Frühzeitige und regelmäßige Kommunikation mit allen Stakeholdern
 Von [Projektstart](Projektstart.md) an sollten alle Stakeholder im Rahmen des [Stakeholdermanagements](Stakeholdermanagement.md) über Ziele und aktuelle Zwischenstände des Projekts regelmäßig informiert werden. Zu den Stakeholdern gehören beispielsweise die Teammitglieder, Manager oder auch Externe wie Kunden.[^1] 
@@ -23,11 +23,20 @@ Der beigefügte Arbeitsplan zeigt beispielhaft von oben nach unten abgebildet di
 ![IC-Work-Plan-Template-GERMAN.png](Best_Practices/IC-Work-Plan-Template-GERMAN.png)[^3]
 
 ## 5. Schriftliche Dokumentation
-Das schriftliche Festhalten von allen Informationen ist in einem Projekt sehr wichtig, um sicherzustellen dass den Stakeholdern die für sie relevanten Daten zur Verfügung stehen. Des Weiteren kann die [Projektdokumentation](Projektdokumentation.md) später dazu dienen Entscheidungen zu treffen oder nachzuvollziehen, warum bestimmte Entscheidungen getroffen wurden.[^4] 
+Das schriftliche Festhalten von allen Informationen ist in einem Projekt sehr wichtig. Damit soll sichergestellt werden, dass den Stakeholdern die für sie relevanten Daten zur Verfügung stehen. Des Weiteren kann die [Projektdokumentation](Projektdokumentation.md) später dazu dienen Entscheidungen zu treffen oder nachzuvollziehen, warum bestimmte Entscheidungen getroffen wurden.[^4] 
 
 ## 6. Definierte Start- und Endpunkte
 Zu Beginn eines Projekts sollte ein [Kick-Off-Termin](Projekt_Kick_Off.md) abgehalten werden. Dieser bietet die Gelegenheit in einer Veranstaltung alle Projektbeteiligten zu versammeln, sich kennenzulernen und auf das gemeinsame Arbeiten einzustimmen.[^2] Nach dem Projektende wiederum ist der Moment erreicht, an dem es Zeit ist zu analysieren wie das Projekt abgelaufen ist, welche Fehler gemacht worden sind und was gut gelaufen ist. Hier sollten erneut alle Projektbeteiligten in einer Besprechung zusammengebracht werden, um deren Ansichten über Erfolge und Misserfolge zu sammeln. Ziel ist es die [Lessons learned](Lessons_Learned.md) zu nutzen, um nächste Projekte zu optimieren und ggf. neue Best Practices zu formulieren. Dadurch können im Idealfall auch Kosten und Zeit gespart werden.[^1]
 
+## Siehe auch
+
+[Stakeholdermanagement](Stakeholdermanagement.md)
+[Risikomanagement](Risikomanagement.md)
+[Eskalationsstufen](Eskalationsstufen.md)
+[Projektplanung](Projektplanung.md)
+[Projektdokumentation](Projektdokumentation.md)
+[Projekt-Kick-Off](Projekt_Kick_Off.md)
+[Lessons learned](Lessons_Learned.md)
 
 ## Quellen
 
