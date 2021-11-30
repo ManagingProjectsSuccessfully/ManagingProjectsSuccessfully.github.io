@@ -56,7 +56,9 @@ Der Fokus bei der Projektprozessgestaltung liegt nicht wie bisher darauf, dass d
 [^8]: https://www.it-business.de/herausforderungen-beim-projektmanagement-40-a-654194/
 [^9]: https://www.softwaremanager.cloud/pages/auswahl-projektmanagement-software/
 [^10]: https://www.vdz.org/personalmanagement-new-work/trends-im-projektmanagement
-[^11]: https://www.tiba.de/magazin/trends-im-projektmanagement-toolunterstuetzung/ 
+[^11]: https://www.tiba.de/magazin/trends-im-projektmanagement-toolunterstuetzung/
+[^12]: https://www.techconsult.de/project-performance-index/studie-zum-projektmanagement-4-0-mit-digitalen-werkzeugen-kuenftige-herausforderungen-meistern
+
 
 
 
