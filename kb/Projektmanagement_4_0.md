@@ -27,6 +27,7 @@ Ein Hauptkriterium ist die Optimierung der Kommunikation zwischen den einzelnen 
 
 
 ![image](https://github.com/wernerni/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_4_0/TechConsult_Projektemanagement-768x427.png)
+
 [^12] 
 
 # Zukünftige Trends
