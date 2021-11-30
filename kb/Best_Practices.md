@@ -38,6 +38,12 @@ Zu Beginn eines Projekts sollte ein [Kick-Off-Termin](Projekt_Kick_Off.md) abgeh
 * [Projekt-Kick-Off](Projekt_Kick_Off.md)
 * [Lessons learned](Lessons_Learned.md)
 
+## Weiterführende Literatur
+
+* dsfd
+* dsfdf
+
+
 ## Quellen
 
 [^1]: https://www.wrike.com/de/blog/10-best-practices-im-projektmanagement/
