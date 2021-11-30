@@ -26,7 +26,8 @@ Die größte Herausforderung, die sich für die Projektteams in der Zukunft hera
 Ein Hauptkriterium ist die Optimierung der Kommunikation zwischen den einzelnen Projektmitgliedern, die maßgeblich zum Projekterfolg beiträgt. Ohne eine umfassende Integration und Koordination in diesem Bereich, können daraus Zeitverluste, höhere Aufwendungen und Qualitätsminderungen resultieren.[^6] Der Teamgedanke muss in der Unternehmenskultur, also auch besonders in Zukunft hinsichtlich des Projektmanagements, fest verankert sein.
 
 
-![image](https://github.com/wernerni/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_4_0/TechConsult_Projektemanagement-768x427.png) 
+![image](https://github.com/wernerni/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_4_0/TechConsult_Projektemanagement-768x427.png)
+[^12] 
 
 # Zukünftige Trends
  Bei der Analyse von zukünftigen Trends im Bereich des Projektmanagements, haben sich vereinzelte Aspekte herausgebildet, die bereits jetzt schon umgesetzt werden und deren Bedeutung weiter zunehmen wird. Zum einen werden Unternehmen sich nicht auf ein Großprojekt konzentrieren, sondern auf mehrere ggf. auch kurzfristige und kleinere Projekte. Einen weiterer Aspekt stellt der verstärkte Einsatz von Projektmanagement Software (PM- Software) dar.[^8] Mit einer digitalen Software arbeiten Unternehmen fokussierter im Hinblick auf die Teamkommunikation, die Aufgabenverwaltung und das gemeinsame Dokumentenmanagement. Dies führt zu einer Steigerung der Effizienz und Schnelligkeit.[^7] Zudem wird das Thema [KI (Künstliche Intelligenz)](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) gepaart mit menschlicher Arbeit eine große Rolle spielen.[^9] Ein weiterer Trend zeichnet sich im Zusammenspiel von Projekten und Produkten ab. Das Projekt und der Produktlebenszyklus nähern sich immer weiter an und somit werden zunehmend Methoden aus dem Bereich des Produktmanagements im Projektmanagement integriert.[^10]
@@ -56,6 +57,8 @@ Der Fokus bei der Projektprozessgestaltung liegt nicht wie bisher darauf, dass d
 [^9]: https://www.softwaremanager.cloud/pages/auswahl-projektmanagement-software/
 [^10]: https://www.vdz.org/personalmanagement-new-work/trends-im-projektmanagement
 [^11]: https://www.tiba.de/magazin/trends-im-projektmanagement-toolunterstuetzung/ 
+[^12]: https://www.techconsult.de/project-performance-index/studie-zum-projektmanagement-4-0-mit-digitalen-werkzeugen-kuenftige-herausforderungen-meistern
+
 
 
 
