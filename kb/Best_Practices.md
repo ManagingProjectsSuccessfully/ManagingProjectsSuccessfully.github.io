@@ -40,9 +40,8 @@ Zu Beginn eines Projekts sollte ein [Kick-Off-Termin](Projekt_Kick_Off.md) abgeh
 
 ## Weiterführende Literatur
 
-* dsfd
-* dsfdf
-
+* [Projektmanagement: 9 Best Practices zur Steigerung der Erfolgschancen Ihrer Projekte](https://www.pebco.ag/impuls/projektmanagement-9-best-practices-zur-steigerung-der-erfolgschancen-ihrer-projekte/)
+* [10 Best Practices im Projektmanagement](https://www.wrike.com/de/blog/10-best-practices-im-projektmanagement/)
 
 ## Quellen
 
