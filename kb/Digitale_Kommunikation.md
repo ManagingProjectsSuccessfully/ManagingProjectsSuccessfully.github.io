@@ -7,7 +7,7 @@ anrechnung: k
 
 # 1. Definiton Digitale Kommunikation
 
-Als Grundlage der Kommunikation bezeichnet man den Austausch von Informationen zwischen mindestens zwei Kommunikations-partnern. Die Kommunikationspartner können dabei sowohl Menschen als auch technische Systeme sein. Bei der digitalen Kommunikation wird die Nachricht von einem digitalen Kommunikationskanal wie dem Internet von einem Sender zum Empfänger übertragen. Dies kann in verschiedenen Medienformaten wie Text, Video, Bild oder Audio geschehen. Die digitale Kommunikation zeichnet sich dabei auch durch die Virtualität aus, dass bedeutet die Entkopplung von Zeit und Raum[^1].
+Als Grundlage der Kommunikation bezeichnet man den Austausch von Informationen zwischen mindestens zwei Kommunikations-partnern. Die Kommunikationspartner können dabei sowohl Menschen als auch technische Systeme sein. Bei der digitalen Kommunikation wird die Nachricht von einem digitalen Kommunikationskanal wie dem Internet von einem Sender zum Empfänger übertragen. Dies kann in verschiedenen Medienformaten wie Text, Video, Bild oder Audio geschehen. Die digitale Kommunikation zeichnet sich dabei auch durch die Virtualität aus, das bedeutet die Entkopplung von Zeit und Raum[^1].
 
 # 2. Kommunikationsmodell von Alistair Cockburn
 
