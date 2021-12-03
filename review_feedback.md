@@ -18,7 +18,7 @@ Hinweise:
 
 ## Feedback Tabellen Validierungshinweise
 
-Stand: 18 Uhr, 2.12.2021
+Stand: 21:10 Uhr, 3.12.2021
 
 
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/47, Reviewer: ChrisBohl
@@ -72,19 +72,19 @@ Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSu
 
 
 ----
-Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/188, Reviewer: up67enyq
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/203, Reviewer: Laura1mueller
 
-* Kriterium 'Belege' ist nicht korrekt, das sollte 'Umfang' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
-* Kriterium 'Links' ist nicht korrekt, das sollte 'Belege' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
-* Kriterium 'Formatierung' ist nicht korrekt, das sollte 'Links' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
-* Kriterium 'Verlinkungen vorhanden' ist nicht korrekt, das sollte 'Formatierung' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
-* Kriterium 'Abbildungen' ist nicht korrekt, das sollte 'Verlinkungen vorhanden' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
-* Kriterium 'Strukturierung des Beitrags' ist nicht korrekt, das sollte 'Abbildungen' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
-* Kriterium 'Rechtschreibung' ist nicht korrekt, das sollte 'Strukturierung des Beitrags' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
-* Kriterium 'Sprache' ist nicht korrekt, das sollte 'Rechtschreibung' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
-* Kriterium 'Inhalt' ist nicht korrekt, das sollte 'Sprache' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
-* Kriterium 'Einordnung in den Kontext' ist nicht korrekt, das sollte 'Inhalt' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
-* Kriterium 'Ansprechend für Zielgruppe' ist nicht korrekt, das sollte 'Einordnung in den Kontext' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Front-Matter' ist 'jaI', muss allerdings 'ja' oder 'nein' sein.
+* Kriterium 'Umfang' ist 'jaI', muss allerdings 'ja' oder 'nein' sein.
+* Kriterium 'Links' ist 'jaI', muss allerdings 'ja' oder 'nein' sein.
+* Kriterium 'Verlinkungen vorhanden' ist 'teilweiseI', muss allerdings 'ja' oder 'nein' sein.
+* Kriterium 'Abbildungen' ist 'jaI', muss allerdings 'ja' oder 'nein' sein.
+* Kriterium 'Strukturierung des Beitrags' ist '8I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
+* Kriterium 'Rechtschreibung' ist '4I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
+* Kriterium 'Sprache' ist '3I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
+* Kriterium 'Inhalt' ist '7I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
+* Kriterium 'Einordnung in den Kontext' ist '5I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
+* Kriterium 'Ansprechend für Zielgruppe' ist '4I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
 
 
 ----
@@ -145,3 +145,4 @@ Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSu
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/300, Reviewer: MarleneMMeyer
 
 * Kriterium 'Ansprechend für Zielgruppen' ist nicht korrekt, das sollte 'Ansprechend für Zielgruppe' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+
