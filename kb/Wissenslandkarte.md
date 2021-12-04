@@ -7,7 +7,7 @@ anrechnung: a
 
 Ein Unternehmen[^1], viele Standorte und eine große Mitarbeiterzahl. Unter diesen Umständen kann sich sehr schnell viel Wissen ansammeln und die Herausforderung besteht dann darin, den Überblick beizubehalten und Transparenz zu schaffen. 
 In diesem Beitrag wird es um sogenannte „Wissenslandkarten“ gehen. 
-Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und deren Zusammenhänge und eignen sich besonders dafür Arbeitsverläufe effektiver und effizienter dazustellen. Sie referenzieren auf Experten-, Team-, Mitarbeiterwissen, Wissensentwicklungsphasen und organisatorische Abläufe und Fähigkeiten. Wichtig zu erwähnen ist, dass die Wissensinhalte an sich nicht dort abgelegt werden, sondern lediglich der Verweis auf das verankerte Wissen. 
+Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und deren Zusammenhänge und eignen sich besonders dafür Arbeitsabläufe effektiver und effizienter darzustellen. Sie referenzieren auf Experten-, Team-, Mitarbeiterwissen, Wissensentwicklungsphasen und organisatorische Abläufe und Fähigkeiten. Wichtig zu erwähnen ist, dass die Wissensinhalte an sich nicht dort abgelegt werden, sondern lediglich der Verweis auf das verankerte Wissen. 
 
 
 # Inhaltsverzeichnis
@@ -49,7 +49,7 @@ Folglich werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufge
 
 *Arten von Wissenslandkarten*[^7]
 
-## 2. Vor- und Nachteile[^8]
+## 3. Vor- und Nachteile[^8]
 Es stellt sich nun die Frage: 
 Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine Zeitverschwendung?
 
