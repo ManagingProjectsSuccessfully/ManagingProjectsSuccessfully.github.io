@@ -31,12 +31,12 @@ Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind
    7. Angepasste Projektumgebung       
 3. Vor- und Nachteile
 
-## 1. Begriffserklärung
-PRINCE2 steht für "Projects in Controlled Environments"[^1] oder auf deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
+## 1. Begriffserklärung[^1]
+PRINCE2 steht für "Projects in Controlled Environments"[^2] oder auf deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
 
 Die weltweit führende Projektmanagementmethode basiert auf 7 Grundprinzipien, welche sich auf die Erfahrung guter und schlechter Projekte stützen. Diese wurden im Jahr 2009 neu eingeführt. 
 
-In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich zu dem Jahr 2005 deutlich hervorgehoben[^2]. 
+In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich zu dem Jahr 2005 deutlich hervorgehoben[^3]. 
 
 <img width="232" alt="PRINCE2" src="PRINCE2_7_Grundprinzipien/PRINCE2.PNG">
 
@@ -126,19 +126,16 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 * [PRINCE2](PRINCE2.md)
 * [PRINCE2_7_Prozesse](PRINCE2_7_Prozesse.md)
 * [PRINCE2_Projektumgebung](PRINCE2_Projektumgebung.md)
+
 # Weiterführende Literatur
 
 * https://www.youtube.com/watch?v=if__T71U2ss
 * https://www.youtube.com/watch?v=61RnrsWQE7A
-
+* https://www.prince2.com/de/blog/prinzipien-themen-prozesse
 
 # Quellen
 
-* https://www.prince2.com/de/blog/prinzipien-themen-prozesse
-* https://www.prince2.com/de/blog/prinzipien-themen-prozesse
-* https://www.tiba-business-school.de/prince2-methode-vorteile/
-
-
-[^1]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
-[^2]: [Änderungen im Jahr 2009](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
+[^1]: [Was ist PRINCE2](https://www.tiba-business-school.de/prince2-methode-vorteile/)
+[^2]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
+[^3]: [Änderungen im Jahr 2009](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
 
