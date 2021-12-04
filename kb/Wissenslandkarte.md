@@ -18,26 +18,23 @@ Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und
    1. Vorteile
    2. Nachteile
 
-<img width="185" alt="projectPNG" src="Wissenslandkarte/projectPNG.PNG">
-
-*ProjectManager[^2]*
 
 ## 1. Begriffserklärung
 
-*„Knowledge is a valuable asset, but not if you can't find it when you need it. Increasingliy, organizations are creating "maps" of their intellectual assets and letting them guide the way.“* - (C. Hildebrand[^3])
+*„Knowledge is a valuable asset, but not if you can't find it when you need it. Increasingliy, organizations are creating "maps" of their intellectual assets and letting them guide the way.“* - (C. Hildebrand[^2])
 
-Das Strukturieren von Wissen ist, nach Golinsky[^4], essenziell. In einem Unternehmen kommen die unterschiedlichsten Mitarbeiter mit den verschiedensten Fähigkeiten zusammen.  Eine Folge hiervon ist die Bildung eines großen und meist unstrukturierten Pools an Wissen.  
+Das Strukturieren von Wissen ist, nach Golinsky[^3], essenziell. In einem Unternehmen kommen die unterschiedlichsten Mitarbeiter mit den verschiedensten Fähigkeiten zusammen.  Eine Folge hiervon ist die Bildung eines großen und meist unstrukturierten Pools an Wissen.  
 Zum Erhalt der Wettbewerbs- und Innovationsfähigkeit von Unternehmen spielt das Wissenskapital einer Organisation eine gravierende Rolle. 
-Um den Überblick und die Transparenz über das Wissenspotenzial der Mitarbeiter nicht aus den Augen zu verlieren, kommt das Tool des [Wissensmanagements](Wissensmanagament.md), Wissenslandkarten, in den Einsatz. *„Es sollen nicht mehr nur Elemente isoliert voneinander betrachtet werden, sondern es soll strukturelles Wissen in seiner vollen Komplexität erfasst und bewertet werden.“* - (Ott 2003[^5]).
+Um den Überblick und die Transparenz über das Wissenspotenzial der Mitarbeiter nicht aus den Augen zu verlieren, kommt das Tool des [Wissensmanagements](Wissensmanagament.md), Wissenslandkarten, in den Einsatz. *„Es sollen nicht mehr nur Elemente isoliert voneinander betrachtet werden, sondern es soll strukturelles Wissen in seiner vollen Komplexität erfasst und bewertet werden.“* - (Ott 2003[^4]).
 
 Die Kunst besteht darin die Kernkompetenzen der Unternehmung darzustellen. 
 Wissenslandkarten sind eine grafische Darstellung von Wissensgebieten und deren Zusammenhänge. Sie ermöglicht zum einen den freien Zugang auf Wissensträger und Wissensobjekte und zum anderen werden sie zur Verwaltung von Wissenskapital in Unternehmen genutzt. 
-Nach Heyer[^6] ist es mit Wissenslandkarten möglich in Form eines Grafen eine Übersicht wesentlicher Schlüsselwörter einer Textsammlung und deren inhaltliche Vernetzung darzustellen. Viel wichtiger als die Strukturierung der Tiefenebenen, ist die Vermessung der unterschiedlichen Themenfelder. 
+Nach Heyer[^5] ist es mit Wissenslandkarten möglich in Form eines Grafen eine Übersicht wesentlicher Schlüsselwörter einer Textsammlung und deren inhaltliche Vernetzung darzustellen. Viel wichtiger als die Strukturierung der Tiefenebenen, ist die Vermessung der unterschiedlichen Themenfelder. 
 Im Folgenden ist ein Beispiel für eine Wissenslandkarte abgezeichnet.
 
 ![Wissenslandkarte](Wissenslandkarte/Wissenslandkarte.png)
 
-*Wissenslandkarte[^7]*
+*Wissenslandkarte[^6]*
 
 ## 2. Arten von Wissenslandkarten
 Folglich werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufgeführt: 
@@ -50,9 +47,9 @@ Folglich werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufge
 | Wissensanwendungskarten   |  Knowledge application map  | Geschäftsprozesse           |
 | Wissensentwicklungskarten |  Knowledge development maps | Beziehungsnetze             |
 
-*Arten von Wissenslandkarten*[^8]
+*Arten von Wissenslandkarten*[^7]
 
-## 2. Vor- und Nachteile
+## 2. Vor- und Nachteile[^8]
 Es stellt sich nun die Frage: 
 Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine Zeitverschwendung?
 
@@ -102,14 +99,13 @@ Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine 
 # Quellen
 
 [^1]: [Unternehmen](https://de.wikipedia.org/wiki/Unternehmen)
-[^2]: [ProjectManager](Wissenslandkarte/projectPNG.PNG)
-[^3]: Hildebrand, 1998: Mapping the Invisible Workplace
-[^4]: [Agile Verwaltung](https://agile-verwaltung.org/tag/wissenslandkarte/)
-[^5]: [Wissenslandkarten als Instrument des kollektiven Wissensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?forumid=286&v=1&id=166113)
-[^6]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/file/BA_Tina_Giersch.pdf)
-[^7]: [Wissenslandkarte](Wissenslandkarte/Wissenslandkarte.png)
-[^8]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
-
+[^2]: Hildebrand, 1998: Mapping the Invisible Workplace
+[^3]: [Agile Verwaltung](https://agile-verwaltung.org/tag/wissenslandkarte/)
+[^4]: [Wissenslandkarten als Instrument des kollektiven Wissensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?forumid=286&v=1&id=166113)
+[^5]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/file/BA_Tina_Giersch.pdf)
+[^6]: [Wissenslandkarte](Wissenslandkarte/Wissenslandkarte.png)
+[^7]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
+[^8]: [Vor- und Nachteile](https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Wissensmanagement/Wissensorganisation--Instrumente-der-/Wissenslandkarte)
 
 
 
