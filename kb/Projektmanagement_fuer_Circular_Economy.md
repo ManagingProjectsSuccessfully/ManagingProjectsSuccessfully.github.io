@@ -4,6 +4,7 @@ tags: klassisch
 author: 5SY5
 anrechnung: k 
 ---
+# Circular Economy
 
 Die Circular Economy oder auch Kreislaufwirtschaft ist ein Wirtschaftsmodell, das danach ausgerichtet ist, den Ressourceneinsatz, die Abfallproduktion, die Emissionserzeugnisse 
 zu minimieren. Dabei ist das Ziel die maximale Effizienz bei der Nutzung endlicher Ressourcen, den Übergang zu erneuerbaren Ressourcen und auch die volle Ausschöpfung von 
