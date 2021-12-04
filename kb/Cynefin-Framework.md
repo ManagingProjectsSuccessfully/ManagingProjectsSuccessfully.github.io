@@ -75,12 +75,12 @@ Vor der Formulierung der Lösung kann das Problem nicht verstanden werden und so
 
 # Anwendung auf Projekte [^1]
 
-| Deming-Cyle          |	Plan	    |  Do       | Check          |	Act       | Beispiele                   |
-|----------------------|------------|-----------|----------------|------------|-----------------------------|
-| einfache Systeme     | beobachten |	          | kategorisieren | reagieren  | Produktimplementierung      |     
-| komplizierte Systeme | beobachten |	          | analysieren    | reagieren  | Support-Projekte            |   
-| komplexe Systeme		 |            | probieren | beobachten	   | reagieren  | Produktentwicklung          |                
-| chaotische Systeme	 |            | handeln   | beobachten	   | reagieren  | Ausfall von Kerntechnologie | 
+| Deming-Cyle          |	Plan	    |  Do       | Check          |	Act       | Beispiele                                 |
+|----------------------|------------|-----------|----------------|------------|-------------------------------------------|
+| einfache Systeme     | beobachten |	          | kategorisieren | reagieren  | Produktimplementierung                    |     
+| komplizierte Systeme | beobachten |	          | analysieren    | reagieren  | Support-[Projekte](Projekt.md)            |   
+| komplexe Systeme		 |            | probieren | beobachten	   | reagieren  | Produktentwicklung                        |                
+| chaotische Systeme	 |            | handeln   | beobachten	   | reagieren  | Ausfall von Kerntechnologie               | 
 
 Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework zusammen und zeigt Beispielprojekte für die einzelnen Domänen auf.
 
@@ -89,15 +89,16 @@ Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework z
 
 "Alle Modelle sind falsch, aber einige nützlich." George Box
 
-Das Cynefin Framework sollte nicht als das "Perfekte" Modell angesehen werden, um Situationen abschließend zu erklären. Es ist vielmehr eine Hilfestellung um die Ursache, den 
-Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, dass einige Probleme mehrschichtig sein können z.B. sowohl komplex als auch kompliziert.
+Das Cynefin Framework ist kein "perfektes" Modell, um Situationen abschließend zu erklären. Es ist vielmehr eine Hilfestellung um die Ursache, den 
+Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, dass einige Probleme mehrschichtig sein können z.B. sowohl komplex als auch kompliziert. Dies erkennt man daran, dass das Cynefin Framework in der [Stacey Matrix](Stacey_Matrix.md) verwendet wird. Indem ein Zusammenhang zwischen den Eigenschaften des Cynefin-Framework und der Qualität eines [Arbeitsauftrags](Arbeitsauftrag.md) hergestellt wird.
 
 # Siehe auch
 
-* Projektmanagement.md
+* [Projekt](Projekt.md)
 * [Wissensmanagement](Wissensmanagament.md)
 * [Stacey_Matrix](Stacey_Matrix.md)
 * [SCRUM](SCRUM.md)
+* [Aurbeitsauftrag](Arbeitsauftrag.md)
 
 # Weiterführende Literatur
 
