@@ -5,9 +5,7 @@ author: 5SY5
 anrechnung: a
 ---
 
-Das Cynefin Framework wurde vom britisch walischen Forscher und Berater für Wissensmanagement David Snowden Johnson entwickelt. Das Wort "Cynefin" stammt aus dem walischen und 
-bedeutet so viel wie "Lebensraum", damit möchte Snowden ausdrücken, dass zwischen den Individuen und ihrer Umwelt eine Vielfalt von Wechselwirkungen bestehen.[^1] Diese 
-Wechselwirkung macht eine vollkommene analytische Beschreibung des realen Systems unmöglich[^1].
+Das Cynefin Framework wurde vom britisch walischen Forscher und Berater für [Wissensmanagement](Wissensmanagament.md) David Snowden Johnson entwickelt. Das Wort "Cynefin" stammt aus dem walischen und bedeutet so viel wie "Lebensraum", damit möchte Snowden ausdrücken, dass zwischen den Individuen und ihrer Umwelt eine Vielfalt von Wechselwirkungen bestehen.[^1] Diese Wechselwirkung macht eine vollkommene analytische Beschreibung des realen Systems unmöglich[^1].
 
 Das Modell hat die Aufgabe Probleme, Situationen und Systeme zu beschreiben. Dabei kategorisiert das Model die einzelnen Probleme in sogenannte Problemdomänen, die wiederum 
 einen Anhaltspunkt bieten, welche Erklärungen oder Lösungen zutreffen könnten.
