@@ -19,7 +19,7 @@ verändert.[^1]
 
 
 
-# Die drei Grundsätze von Circular Economy
+## Die drei Grundsätze von Circular Economy
 
 ### 1. Die Schonung der Ressourcen
 
@@ -38,7 +38,7 @@ Wiederaufbereitung der verwendeten Produkte und Materialien.[^1]
 Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und deutet darauf hin bewusstes Recyclen anzuwenden, um so dem Ökosystem etwas zurück zugeben. Heißt: Die Ressourcen sind begrenzt und ein stäniges nehmen wird den Zustand verschlimmern.[^2]
 
 
-# Denkansätze zur Circular Economy
+## Denkansätze zur Circular Economy
 
 ### 1. Performance Economy
 
@@ -72,15 +72,15 @@ Die drei Grundprinzipien von Biomimicry.
 Kreislaufwirtschaft bezieht sich normalerweise auf die Menge an recycelten Materialien oder die Reduzierung von Abfall. Das Design von Cradle zu Cradle konzentriert sich jedoch 
 auf die Produktqualität, einschließlich der Sicherheit für Mensch und Umwelt. Weiterhin wird durch dieses Modell ersichtlicher, dass die in einer Kreislaufwirtschaft zwei 
 verschiedene Produkte in Kreisläufen fließen. 
-* Im biologischen Kreislauf kehren Ressourcen in die Natur zurück. 
-* Im technologischen Kreislauf zirkulieren Ressourcen endlos im Kreislauf. [^7]
+* Im biologischen Kreislauf kehren [Ressourcen](Ressourcenplanung.md) in die Natur zurück. 
+* Im technologischen Kreislauf zirkulieren [Ressourcen](Resscourcenplanung.md) endlos im Kreislauf. [^7]
 
 ### 6. Blue Economy
 
 Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürlichen Ressourcen durch Innovation und Unternehmertum.[^7]
 
 
-# Vorteile einer Kreislaufwirtschaft
+## Vorteile einer Kreislaufwirtschaft
 
 * Einsparungen bei den Kosten
 * Die Treibhausgasemission wird gesenkt
@@ -93,11 +93,10 @@ Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürliche
 
 # Siehe auch
 
-* Nachhaltige_Entwicklung.md
-* Nachhaltige_Projekte.md
-* Sustainable_Development_Goals.md
-* Nachhaltigkeit_im_PM.md
-* Change_Projekte.md
+* [Nachhaltige_Projekte](Nachhaltige_Projekte.md)
+* [Nachhalitkeit_im_PM](Nachhaltigkeit_im_PM.md)
+* [Resssourcenplanung](Ressourcenplanung.md)
+
 
 # Weiterführende Literatur
 
