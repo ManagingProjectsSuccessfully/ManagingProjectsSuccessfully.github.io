@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 
-PRINCE2 besteht aus 4 Elementen: 
+[PRINCE2](PRINCE2.md) besteht aus 4 Elementen: 
 - 7 Grundprinzipien
 - 7 Themen
 - 7 Prozesse
@@ -17,11 +17,6 @@ Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind
 
 # PRINCE2 - Die 7 Grundprinzipien
 
-
-![PRINCE](PRINCE2_7_Grundprinzipien/PRINCE.jpg)
-
-
-*Prince Charming[^1]*
 
 # Agenda
 
