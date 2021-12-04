@@ -103,7 +103,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
    
 
 
-## 3. Vor- und Nachteile
+## 3. Vor- und Nachteile[^5]
 
 
 | Vorteile                | Nachteile     |
