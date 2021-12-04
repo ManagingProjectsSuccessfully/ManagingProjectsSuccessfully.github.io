@@ -40,10 +40,10 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 
 <img width="232" alt="PRINCE2" src="PRINCE2_7_Grundprinzipien/PRINCE2.PNG">
 
-*Änderungen in 2009[^2] *
+*Änderungen in 2009[^3] *
 
 
-## 2. Die 7 Grundprinzipien
+## 2. Die 7 Grundprinzipien[^4]
 
 
 ### 1. Fortlaufende geschäftliche Rechtfertigung   
@@ -138,4 +138,5 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 [^1]: [Was ist PRINCE2](https://www.tiba-business-school.de/prince2-methode-vorteile/)
 [^2]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
 [^3]: [Änderungen im Jahr 2009](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
+[^4]: [PRINCE2 Grundprinzipien](https://dieprojektmanager.com/prince2-7-grundprinzipien-themen-prozesse/#Die_7_Grundprinzipien_von_PRINCE2)
 
