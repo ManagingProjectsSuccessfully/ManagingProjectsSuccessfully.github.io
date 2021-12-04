@@ -9,8 +9,8 @@ anrechnung: k
 [PRINCE2](PRINCE2.md) besteht aus 4 Elementen: 
 - 7 Grundprinzipien
 - 7 Themen
-- 7 Prozesse
-- Projektumgebung
+- [PRINCE2_7_Prozesse](PRINCE2_7_Prozesse.md)
+- [PRINCE2_Projektumgebung](PRINCE2_Projektumgebung.md)
 
 Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind der Kern eines jeden PRINCE2 Projekts.
 
@@ -32,15 +32,15 @@ Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind
 3. Vor- und Nachteile
 
 ## 1. Begriffserklärung
-PRINCE2 steht für "Projects in Controlled Environments[^2] oder auf deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
+PRINCE2 steht für "Projects in Controlled Environments"[^1] oder auf deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
 
 Die weltweit führende Projektmanagementmethode basiert auf 7 Grundprinzipien, welche sich auf die Erfahrung guter und schlechter Projekte stützen. Diese wurden im Jahr 2009 neu eingeführt. 
 
-In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich zu dem Jahr 2005 deutlich hervorgehoben[^3]. 
+In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich zu dem Jahr 2005 deutlich hervorgehoben[^2]. 
 
 <img width="232" alt="PRINCE2" src="PRINCE2_7_Grundprinzipien/PRINCE2.PNG">
 
-*Änderungen in 2009[^3] *
+*Änderungen in 2009[^2] *
 
 
 ## 2. Die 7 Grundprinzipien
@@ -139,7 +139,6 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 * https://www.tiba-business-school.de/prince2-methode-vorteile/
 
 
-[^1]: [Prince Charming](PRINCE2_7_Grundprinzipien/PRINCE.jpg)
-[^2]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
-[^3]: [Änderungen im Jahr 2009](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
+[^1]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
+[^2]: [Änderungen im Jahr 2009](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
 
