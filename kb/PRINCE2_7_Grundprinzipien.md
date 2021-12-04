@@ -139,4 +139,4 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 [^2]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
 [^3]: [Änderungen im Jahr 2009](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
 [^4]: [PRINCE2 Grundprinzipien](https://dieprojektmanager.com/prince2-7-grundprinzipien-themen-prozesse/#Die_7_Grundprinzipien_von_PRINCE2)
-
+[^5]: [Vor- und Nachteile](https://de.education-wiki.com/9075849-prince2-principles)
