@@ -21,41 +21,41 @@ verändert.[^1]
 
 # Die drei Grundsätze von Circular Economy
 
-1. Die Schonung der Ressourcen
+### 1. Die Schonung der Ressourcen
 
 Das Konzept bezieht sich auf die Minimierung von Abfällen und Umweltverschmutzung. Die Schäden durch wirtschaftliche Aktivitäten sollen reduziert werden. Dieser Einfluss auf die 
 Umwelt kann bereits bei der Gestaltung und dem Design des Produkts bestimmt werden. Durch neue Technologien und Materialien kann die Verschmutzung und der Abfall vermieden 
 werden. [^2]
 
-2. Hohe effiziente Nutzung der Ressourcen
+### 2. Hohe effiziente Nutzung der Ressourcen
 
 Die Circular Economy hat mitunter als Ziel, die Lebenszyklen, sowie die Nutzungsdauer von Produkten und Materialien zu verlängern. Dies kann nur dann funktionieren, indem ein 
 Kreislauf für die in der Wirtschaft zirkulierenden Materialien und Produkte entsteht. Dabei erreicht man das Ziel durch die aktive Wiederverwendung, Reparatur und 
 Wiederaufbereitung der verwendeten Produkte und Materialien.[^1]
 
-3. Recycling/Regeneration
+### 3. Recycling/Regeneration
 
 Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und deutet darauf hin bewusstes Recyclen anzuwenden, um so dem Ökosystem etwas zurück zugeben. Heißt: Die Ressourcen sind begrenzt und ein stäniges nehmen wird den Zustand verschlimmern.[^2]
 
 
 # Denkansätze zur Circular Economy
 
-1. Performance Economy
+### 1. Performance Economy
 
 Dieser Denkansatz beschreibt eine Kreislaufwirtschaft und ihre Auswirkungen auf Abfallvermeidung, rationelle Nutzung begrenzter Ressourcen, die Schaffung neuer Arbeitsplätze und
 das Wachstum.[^7]
 
-2. Öko-industrielle Entwicklung
+### 2. Öko-industrielle Entwicklung
 
 Hier beinhaltet es einen geschlossenen Produktionskreislauf zur Minimierung von Umweltprobleme, wie Boden- und Wasserverschmutzung, Energiemanagement, Ressourceneffizienz etc.
 Dabei ist das Hauptziel die deutliche Verbesserung der wirtschaftlichen Umweltleistung.[^8]
 
-3. Regenerative Gestaltung
+### 3. Regenerative Gestaltung
 
 In diesem Aspekt behandelt man, die Erneuerung oder Revitalisierung von Energie und Materialien für die Produktion und möchte Bedingungen schaffen für ein nachhaltiges
 Wirtschaftssystem.[^8]
 
-4. Biomimicry
+### 4. Biomimicry
 
 Man spricht hierbei von Innovationen, die von der Natur inspiriert werden. 
 Die drei Grundprinzipien von Biomimicry.
@@ -63,7 +63,7 @@ Die drei Grundprinzipien von Biomimicry.
 - Die Natur als Messlatte.
 - Die Natur als Mentor.[^8]
 
-5. Cradle to Cradle
+### 5. Cradle to Cradle
 
 ![image](Projektmanagement_fuer_Circular_Economy/Cradle_to_Cradle.jpg)
 
@@ -75,7 +75,7 @@ verschiedene Produkte in Kreisläufen fließen.
 * Im biologischen Kreislauf kehren Ressourcen in die Natur zurück. 
 * Im technologischen Kreislauf zirkulieren Ressourcen endlos im Kreislauf. [^7]
 
-6. Blue Economy
+### 6. Blue Economy
 
 Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürlichen Ressourcen durch Innovation und Unternehmertum.[^7]
 
