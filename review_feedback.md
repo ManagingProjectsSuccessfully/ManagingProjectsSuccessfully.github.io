@@ -18,7 +18,7 @@ Hinweise:
 
 ## Feedback Tabellen Validierungshinweise
 
-Stand: 20:00 Uhr, 5.12.2021
+Stand: 10:00 Uhr, 6.12.2021
 
 
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/47, Reviewer: ChrisBohl
@@ -71,6 +71,12 @@ Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSu
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/162, Reviewer: MarcelFAU
 
 * Es wurde in dem Review keine Tabelle gefunden. Tabellen in Kommentaren zu den Reviews werden nicht berücksichtigt.
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/166, Reviewer: AlperK61
+
+* Kriterium 'Ansprechend für Zielgruppe' ist '1-10', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
+
 
 ----
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/169, Reviewer: medjeara
