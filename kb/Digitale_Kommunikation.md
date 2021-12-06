@@ -29,7 +29,7 @@ Nach Cockburn ist dadurch die effektivste Kommunikationsform von Angesicht zu An
 # 3. Vorteile durch digitale Kommunikation
 Die Vorteile digitaler Kommunikation liegen in der zeitlichen- und räumlichen Unabhängigkeit und in der Effizienz. E-Mails können zeitlich unabhängig versendet werden und erreichen den Empfänger innerhalb weniger Sekunden.
 Die räumliche Unabhängigkeit spiegelt sich dadurch wieder, dass die Mitglieder eines Projektteams sich in verschieden Regionen oder sogar Zeitzonen befinden und durch Kommunikationssoftware trotzdem am Projektmeeting teilnehmen können.
-Der größte Vorteil ist aber der Zeitgewinn, Aufträge können „just in time“ vergeben werden oder an Projekten können durch „Share-Optionen“ mehrere Personen gleichzeitig arbeiten [^4].
+Der größte Vorteil ist aber der Zeitgewinn, Aufträge können „just in time“ vergeben werden oder an [Projekten](Projekt.md) können durch „Share-Optionen“ mehrere Personen gleichzeitig arbeiten [^4].
 
 # 4. Die Kommunikationssoftware Microsoft Teams
 
