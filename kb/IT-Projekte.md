@@ -18,12 +18,15 @@ Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Roll
 ### PRINCE2
 "PRINCE2" (Projects in Controlled Environments) steht für Projekte unter Kontrolle, das heißt, dass das Vorgehen vom Start bis zum Ende eines Projektes vordefiniert ist. Wie etwas hergestellt wird, ist nicht definiert, sondern von wem und wann etwas erzeugt werden soll. Durch diese Trennung zwischen der Herstellung von Produkten und dem Management von Projekten unterscheidet sich Prince2 von anderen Methoden und eignet sich zugleich sehr gut für das Zusammenspiel mit Methoden, die sich um die Produktherstellung kümmern. Prince2 zählt zu den meistgenutzten Methoden weltweit[^5] 
 #### Die Elemente von Prince2
-| 7 Grundprinzipien                                   | 7 Themen             | 7 Prozesse                         | 
-| --------------------------------------------------- | -------------------  |----------------------------------  |
-|Prinzip 1: Fortlaufende geschäftliche Rechtfertigung |Thema 1: Business Case|Prozess 1: Vorbereiten eines Projekt| 
-|Prinzip 2: Lernen aus Erfahrungen                    |Thema 2: Organisation |Prozess 2: Lenken eines Projekts    |                |Prinzip 3: Definierte Rollen und Verantwortlichkeiten|Thema 3: Qualität     |Prozess 3: Initiieren eines Projekts|
-|Prinzip 4: Steuern über Managementphasen             |Thema 4: Pläne        |Prozess 4: Steuern einer Phase      |                 |Prinzip 5: Managen nach dem Ausnahmeprinzip          |Thema 5: Risiken   |Prozess 5: Managen der Produktlieferung|
-|Prinzip 6: Fokus auf Produkte                        |Thema 6: Änderungen|Prozess 6: Managen des Phasenübergangs |                 |Prinzip 7: Anpassen an die Projektsituation          |Thema 7: Fortschritt|Prozess 7: Abschließen eines Projekts | 
+| 7 Grundprinzipien                                    | 7 Themen             | 7 Prozesse                         | 
+| ---------------------------------------------------- | -------------------  |----------------------------------  |
+|Prinzip 1: Fortlaufende geschäftliche Rechtfertigung  |Thema 1: Business Case|Prozess 1: Vorbereiten eines Projekt| 
+|Prinzip 2: Lernen aus Erfahrungen                     |Thema 2: Organisation |Prozess 2: Lenken eines Projekts    | 
+|Prinzip 3: Definierte Rollen und Verantwortlichkeiten |Thema 3: Qualität     |Prozess 3: Initiieren eines Projekts|
+|Prinzip 4: Steuern über Managementphasen              |Thema 4: Pläne        |Prozess 4: Steuern einer Phase      |   
+|Prinzip 5: Managen nach dem Ausnahmeprinzip           |Thema 5: Risiken      | Prozess 5: Managen der Produktlieferung |
+|Prinzip 6: Fokus auf Produkte                        |Thema 6: Änderungen    |  Prozess 6: Managen des Phasenübergangs |    
+|Prinzip 7: Anpassen an die Projektsituation          |Thema 7: Fortschritt|Prozess 7: Abschließen eines Projekts | 
 [^5]
 
 ### V-Modell XT
