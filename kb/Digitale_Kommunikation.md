@@ -5,9 +5,9 @@ author: DaLob98
 anrechnung: k
 ---
 
-# 1. Definiton Digitale Kommunikation
+# 1. Definiton 
 
-Als Grundlage der Kommunikation bezeichnet man den Austausch von Informationen zwischen mindestens zwei Kommunikations-partnern. Die Kommunikationspartner können dabei sowohl Menschen als auch technische Systeme sein. Bei der digitalen Kommunikation wird die Nachricht von einem digitalen Kommunikationskanal wie dem Internet von einem Sender zum Empfänger übertragen. Dies kann in verschiedenen Medienformaten wie Text, Video, Bild oder Audio geschehen. Die digitale Kommunikation zeichnet sich dabei auch durch die Virtualität aus, das bedeutet die Entkopplung von Zeit und Raum[^1].
+Als Grundlage der Kommunikation bezeichnet man den Austausch von Informationen zwischen mindestens zwei Kommunikationspartnern. Die Kommunikationspartner können dabei sowohl Menschen als auch technische Systeme sein. Bei der digitalen Kommunikation wird die Nachricht von einem digitalen Kommunikationskanal wie dem Internet von einem Sender zum Empfänger übertragen. Dies kann in verschiedenen Medienformaten wie Text, Video, Bild oder Audio geschehen. Die digitale Kommunikation zeichnet sich dabei auch durch die Virtualität aus, das bedeutet die Entkopplung von Zeit und Raum[^1].
 
 # 2. Kommunikationsmodell von Alistair Cockburn
 
@@ -17,7 +17,7 @@ Mit multikulturellen Projektteams und verstreuten Interessengruppen bieten diese
 
 ![Abbildung 1: Kommunikationsmodell Alistair Cockburn](Digitale_Kommunikation/communicationModes.gif)[^3]
 
-Das Kommunikationsmodell von Alistair Cockburn beschreibt auf der Y-Achse die „Effektivität der Kommunikationsart“ und auf der X-Achse die „Medienreichhaltigkeit von Kommunikationskanälen“. "Medien Reichhaltigkeit“ beinhaltet verschiedene Eigenschaften zur optimalen Kommunikation.                                     Diese Merkmale zeichnen die Media Richness Theory aus: 
+Das Kommunikationsmodell von Alistair Cockburn beschreibt auf der Y-Achse die „Effektivität der Kommunikationsart“ und auf der X-Achse die „Medienreichhaltigkeit von Kommunikationskanälen“. "Medienreichhaltigkeit“ beinhaltet verschiedene Eigenschaften zur optimalen Kommunikation.                                     Diese Merkmale zeichnen die Media Richness Theory aus: 
 *	Mehrere Informationen gleichzeitig verarbeiten
 *	Erleichterung schnelles Feedback zu geben 
 *	Einen individuellen Schwerpunkt für jedes Projektmitglied zu setzen, und 
