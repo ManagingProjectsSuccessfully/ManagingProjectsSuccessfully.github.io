@@ -21,9 +21,9 @@ Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Roll
 | 7 Grundprinzipien                                   | 7 Themen             | 7 Prozesse                         | 
 | --------------------------------------------------- | -------------------  |----------------------------------  |
 |Prinzip 1: Fortlaufende geschäftliche Rechtfertigung |Thema 1: Business Case|Prozess 1: Vorbereiten eines Projekt| 
-|Prinzip 2: Lernen aus Erfahrungen                    |Thema 2: Organisation |Prozess 2: Lenken eines Projekts    |  |Prinzip 3: Definierte Rollen und Verantwortlichkeiten|Thema 3: Qualität     |Prozess 3: Initiieren eines Projekts|
-|Prinzip 4: Steuern über Managementphasen             |Thema 4: Pläne        |Prozess 4: Steuern einer Phase      |  |Prinzip 5: Managen nach dem Ausnahmeprinzip          |Thema 5: Risiken   |Prozess 5: Managen der Produktlieferung|
-|Prinzip 6: Fokus auf Produkte                        |Thema 6: Änderungen|Prozess 6: Managen des Phasenübergangs |  |Prinzip 7: Anpassen an die Projektsituation          |Thema 7: Fortschritt|Prozess 7: Abschließen eines Projekts | 
+|Prinzip 2: Lernen aus Erfahrungen                    |Thema 2: Organisation |Prozess 2: Lenken eines Projekts    |                |Prinzip 3: Definierte Rollen und Verantwortlichkeiten|Thema 3: Qualität     |Prozess 3: Initiieren eines Projekts|
+|Prinzip 4: Steuern über Managementphasen             |Thema 4: Pläne        |Prozess 4: Steuern einer Phase      |                 |Prinzip 5: Managen nach dem Ausnahmeprinzip          |Thema 5: Risiken   |Prozess 5: Managen der Produktlieferung|
+|Prinzip 6: Fokus auf Produkte                        |Thema 6: Änderungen|Prozess 6: Managen des Phasenübergangs |                 |Prinzip 7: Anpassen an die Projektsituation          |Thema 7: Fortschritt|Prozess 7: Abschließen eines Projekts | 
 [^5]
 
 ### V-Modell XT
@@ -33,7 +33,7 @@ Eine in Deutschland stark genutzte Variante ist das V-Modell XT, das erstmals im
 ### 7030-Projekt von IBM
 Die International Business Machine Corporation (IBM) begann 1956 die Entwicklung des 7030 Rechners, welches zu der Zeit zwar der schnellste Rechner war, aber die versprochene Leistung wurde nicht gewährleistet. Der Rechner war nur 30-mal so schnell wie das vorherige System, statt die Versprochene 100-fache Leistung[^8].
 ### Barcode-Scanner mit Lesefehler
-Im für Südenglang zuständigen Auslieferungszentrum Waltham Point in Essex wurde im Jahr 2003 ein System eingesetzt, welches Barcodes scannen und Auslieferungen beschleunigen sollte. Das Barcode-System war fehlerhaft, was zu Schäden im Millionenbereich führte und somit das Projekt 4 Jahre später beendet wurde[^9].
+Im für Südengland zuständigen Auslieferungszentrum Waltham Point in Essex wurde im Jahr 2003 ein System eingesetzt, welches Barcodes scannen und Auslieferungen beschleunigen sollte. Das Barcode-System war fehlerhaft, was zu Schäden im Millionenbereich führte und somit das Projekt 4 Jahre später beendet wurde[^9].
 ### Das Größte Lidl IT-Projekt
 Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das von SAP entwickelt wurde, anwenden. Dieses sollte das selbst programmierte und jahrzehntealte System Wawi ablösen. Eine Reduzierung des Aufwands für die Stammdatenpflege und die Möglichkeit für Prognosen in Echtzeit waren die Ziele, die das System schaffen sollte. Das Elektronisches Lidl-Warenwirtschaftsinformationssystem (Elwis) wurde nach sieben Jahren Entwicklungszeit im Jahr 2018 gestoppt. Die Ziele waren mit dem gegeben Aufwand nicht realisierbar[^10].
 
