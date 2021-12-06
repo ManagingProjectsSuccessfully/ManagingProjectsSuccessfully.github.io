@@ -18,7 +18,7 @@ Hinweise:
 
 ## Feedback Tabellen Validierungshinweise
 
-Stand: 21:10 Uhr, 3.12.2021
+Stand: 10:00 Uhr, 6.12.2021
 
 
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/47, Reviewer: ChrisBohl
@@ -40,6 +40,24 @@ Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSu
 
 
 ----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/142, Reviewer: starni26
+
+* Kriterium 'Formatierung' ist 'ja/ nein', muss allerdings 'ja' oder 'nein' sein.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/149, Reviewer: sebswier
+
+* Kriterium 'Front-Matter' ist 'ja (aber bitte Tags hinzufügen!)', muss allerdings 'ja' oder 'nein' sein.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/149, Reviewer: sebswier
+
+* Kriterium 'Front-Matter' ist 'ja (aber bitte Tags hinzufügen!)', muss allerdings 'ja' oder 'nein' sein.
+
+
+----
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/162, Reviewer: mickey0684
 
 * Es wurde in dem Review keine Tabelle gefunden. Tabellen in Kommentaren zu den Reviews werden nicht berücksichtigt.
@@ -53,6 +71,18 @@ Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSu
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/162, Reviewer: MarcelFAU
 
 * Es wurde in dem Review keine Tabelle gefunden. Tabellen in Kommentaren zu den Reviews werden nicht berücksichtigt.
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/166, Reviewer: AlperK61
+
+* Kriterium 'Ansprechend für Zielgruppe' ist '1-10', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/169, Reviewer: medjeara
+
+* Kriterium 'Strukturierung des Beitrags' ist '1-10', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
+
 
 ----
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/174, Reviewer: Creed229
@@ -72,6 +102,12 @@ Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSu
 
 
 ----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/199, Reviewer: ga88maby
+
+* Kriterium 'Verlinkungen vorhanden' ist 'Teilweise', muss allerdings 'ja' oder 'nein' sein.
+
+
+----
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/203, Reviewer: Laura1mueller
 
 * Kriterium 'Front-Matter' ist 'jaI', muss allerdings 'ja' oder 'nein' sein.
@@ -86,6 +122,17 @@ Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSu
 * Kriterium 'Einordnung in den Kontext' ist '5I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
 * Kriterium 'Ansprechend für Zielgruppe' ist '4I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
 
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/204, Reviewer: fauchavd
+
+* Kriterium 'Abbildungen' ist 'ja!?', muss allerdings 'ja' oder 'nein' sein.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/249, Reviewer: LKmps2021
+
+* Es wurde in dem Review keine Tabelle gefunden. Tabellen in Kommentaren zu den Reviews werden nicht berücksichtigt.
 
 ----
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/269, Reviewer: Emi1404
@@ -146,3 +193,5 @@ Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSu
 
 * Kriterium 'Ansprechend für Zielgruppen' ist nicht korrekt, das sollte 'Ansprechend für Zielgruppe' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
 
+
+----
