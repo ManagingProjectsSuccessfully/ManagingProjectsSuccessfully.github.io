@@ -52,8 +52,10 @@ Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus 
 # Siehe auch
 
 * [Forschungsprojekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Forschungsprojekte.md )
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/251ed807e5e5129d54c5a8cebf672b80cdaa2185/kb/Projektmanagement.md)
 * [Lean Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Lean_Projektmanagement.md)
 * [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
+
 
 # Weiterführende Literatur
 
