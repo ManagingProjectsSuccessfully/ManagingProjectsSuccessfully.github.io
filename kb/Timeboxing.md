@@ -10,10 +10,18 @@ Das Timeboxing ist eine Zeitmanagement-Methode im [Projektmanagement](Projektman
 
 # Wie funktioniert Timeboxing?
 
-Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfenster. Die Zeit ist der wichtigste Faktor im Timeboxing und steht maßgeblich für den [Projekterfolg](Erfolgsmessung.md). Timeboxing verfolgt das sogenannte Parkinsonschen Gesetz, welches besagt, dass die Erledigung einer Aufgabe umso länger dauert, je mehr Zeit dafür zur Verfügung steht. Ein Zeitfenster, also eine Timebox, kann Minuten, Stunden, Tage oder sogar Wochen umfassen, je nach Aufgabe. Hierbei ist es allerdings wichtig realistische Zeitfenster zu wählen. Die zu erledigenden Aufgaben müssen auch wirklich in der gesetzten Timebox zu bewältigen sein. Es ist zudem wichtig Pausen und extra Timeboxen als Puffer für unvorhersehbaren Mehraufwand einzuplanen. Durch das Timeboxing soll also vermieden werden, dass man sich mit unwichtigen Details aufhält oder gar stagniert. Dementsprechend soll erreicht werden, dass man sich auf das Wesentliche konzentriert und effizient arbeitet. Timeboxing kann sowohl für Gruppen als auch für die persönliche [Zeitplanung](Zeitplanung.md) genutzt werden[^2][^4].
+Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfenster. Die Zeit ist der wichtigste Faktor im Timeboxing und steht maßgeblich für den [Projekterfolg](Erfolgsmessung.md). Timeboxing verfolgt das sogenannte Parkinsonschen Gesetz: "Arbeit dehnt sich in genau dem Maß aus, wie Zeit für ihre Erledigung zur Verfügung steht"[^5]. Im Klartext bedeutet dies, dass man sich mehr Zeit für Aufgaben lässt als man eigentlich für die Erledigung bräuchte. Daraus schöpft das Timeboxing Potenzial und versucht genau dies zu vermeiden. Ein Zeitfenster, also eine Timebox, kann Minuten, Stunden, Tage oder sogar Wochen umfassen, je nach Aufgabe. Hierbei ist es allerdings wichtig realistische Zeitfenster zu wählen. Die zu erledigenden Aufgaben müssen auch wirklich in der gesetzten Timebox zu bewältigen sein. Es ist zudem wichtig Pausen und zusätzliche Timeboxen als Puffer für unvorhersehbaren Mehraufwand einzuplanen. Durch das Timeboxing soll also vermieden werden, dass man sich mit unwichtigen Details aufhält oder gar stagniert. Beim Timeboxing wird nicht einfach drauf los gearbeitet. Dementsprechend soll erreicht werden, dass man sich auf das Wesentliche konzentriert und effizient arbeitet. Timeboxing kann sowohl für Gruppen als auch für die persönliche [Zeitplanung](Zeitplanung.md) genutzt werden[^2][^4].
+
+# Wann sollte man Timeboxing anwenden?[^5]
+
+Wenn man unter Anderem ...
+* viele verschiedene Aufgaben in kurzer Zeit erledigen muss
+* produktiver werden möchte
+* seinen Alltag besser struckturieren möchte 
+* lernen möchte wie lang man tatsächliche für bestimmte Aufgaben braucht
 
 
-# Der Ablauf von Timeboxing [^4]
+# Der Ablauf von Timeboxing[^4]
 
 1. Erstellung einer To-do Liste über alle zu erledigenden Aufgaben
 
@@ -91,4 +99,6 @@ Weitere Beispiele:
 [^2]: [Timeboxing: So wirst du produktiver!](https://projekte-leicht-gemacht.de/blog/softskills/zeitmanagement/timeboxing/#Was-ist-Timeboxing), abgerufen am 19.11.2021
 [^3]: [Testen Sie Timeboxing: Die zielorientierte Zeitmanagement-Strategie](https://asana.com/de/resources/what-is-timeboxing), abgerufen am 22.11.2021
 [^4]: [Timeboxing: pünktlich Aufgaben erledigen](https://www.fuer-gruender.de/blog/timeboxing/), abgerufen am 21.11.2021
+
+[^5]: [Timeboxing: Bill Gates und Elon Musk schwören auf diese Methode, um ihren Alltag zu optimieren](https://www.stern.de/wirtschaft/timeboxing--diese-methode-nutzen-bill-gates-und-elon-musk--um-ihren-alltag-zu-optimieren-9128992.html), abgerufen am 07.12.2021
 
