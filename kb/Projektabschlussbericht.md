@@ -69,7 +69,7 @@ besprochen werden und Erkenntnisse für zukünftige Projekte gewonnen werden.
 
 # Übersicht
 
-![Beispielabbildung](Projektabschlussbericht/peco-pm-projektabschluss-erfahrungssicherung-xl.png)  
+![Abbildung](https://www.peterjohann-consulting.de/_images/peco-pm-projektabschluss-erfahrungssicherung-xl.png)  
   
   
   
