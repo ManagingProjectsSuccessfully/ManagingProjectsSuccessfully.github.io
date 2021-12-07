@@ -13,7 +13,7 @@ Das Timeboxing ist eine Zeitmanagement-Methode im [Projektmanagement](Projektman
 Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfenster. Die Zeit ist der wichtigste Faktor im Timeboxing und steht maßgeblich für den [Projekterfolg](Erfolgsmessung.md). Timeboxing verfolgt das sogenannten Parkinsonschen Gesetz, welches besagt, dass die Erledigung einer Aufgabe umso länger dauert, je mehr Zeit dafür zur Verfügung steht. Ein Zeitfenster, also eine Timebox, kann Minuten, Stunden, Tage oder sogar Wochen umfassen, je nach Aufgabe. Hierbei ist es allerdings wichtig realistische Zeitfenster zu wählen. Die zu erledigenden Aufgaben müssen auch wirklich in der gesetzten Timebox zu bewältigen sein. Es ist zudem wichtig Pausen und extra Timeboxen als Puffer für unvorhersehbaren Mehraufwand einzuplanen. Durch das Timeboxing soll also vermieden werden, dass man sich mit unwichtigen Details aufhält oder gar stagniert. Dementsprechend soll erreicht werden, dass man sich auf das Wesentliche konzentriert und effizient arbeitet. Timeboxing kann sowohl für Gruppen als auch für die persönliche [Zeitplanung](Zeitplanung.md) genutzt werden[^2][^4].
 
 
-# Der Ablauf von Timeboxing 
+# Der Ablauf von Timeboxing [^4]
 
 1. Erstellung einer To-do Liste über alle zu erledigenden Aufgaben
 
@@ -21,12 +21,12 @@ Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfens
 
 3. Abschätzung der Dauer der Aufagben
 
-4. Timeboxen setzen und mit Zeitrahmen schriftlich festhalten [^4]
+4. Timeboxen setzen und mit Zeitrahmen schriftlich festhalten 
 
 
 # Harte versus weiche Timeboxen
 
-Vor dem Timeboxing muss entschieden werden ob die jeweiligen Timeboxen hart oder weich sind. Man muss sich bei einem [Projekt](Projekt.md) jedoch nicht auf eine Art Timebox beschränken. Es ist oft sinnvoll zu mixen, je nach dem was eine Aufgabe von einem fordert. Z.B. eignen sich harte Timeboxen umso besser, umso mehr Disziplin eine Aufgabe fordert[^4].
+Vor dem Timeboxing muss entschieden werden, ob die jeweiligen Timeboxen hart oder weich sind. Man muss sich bei einem [Projekt](Projekt.md) jedoch nicht auf eine Art Timebox beschränken. Es ist oft sinnvoll zu mixen, je nach dem was eine Aufgabe von einem fordert. Z.B. eignen sich harte Timeboxen umso besser, umso mehr Disziplin eine Aufgabe fordert[^4].
 
 ## Harte Timeboxen 
 Eine harte Timebox endet, wenn die vorgegebene Zeit abgelaufen ist, unabhängig davon, ob die Aufgabe erledigt werden konnte. Somit stellen harte Timeboxen die Erledigung sämtlicher anstehender Aufgaben sicher, erzeugen aber auch mehr Druck. Sie sind besonders dann sinnvoll, wenn bestimmte Aufgaben wiederholt überarbeitet werden müssen. In einem Meeting kann eine Timebox dazu beitragen, dass wirklich alle Tagesordnungspunkte abgearbeitet werden[^3]. 
@@ -51,31 +51,31 @@ Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten 
 * Erfordert viel Disziplin 
 * Qualität leidet bei zu kurz gesetzten Timeboxen
 * Weniger Flexibilität
-* Weniger Zeit für Kreativität [^3][^4]
+* Weniger Zeit für Kreativität [^3][^4] 
 
 # Konkrete Beispiele
 
- Wochenablauf mit Timeboxing: 
+ Wochenablauf mit Timeboxing im persönlichen Zeitmanagement: 
 ![Timeboxing-Beispiel](Timeboxing/Timeboxing_Beispiel.jpg)
 [^4]
 
 Weitere Beispiele:
 * Bis zum 10.07 soll das Angebot für den Kunden ausgearbeitet werden
-* Die [Stakeholderanalyse](kb/Stakeholderanalyse.md) muss bis 15.12, 12:00 abgeschlossen sein
+* Die [Stakeholderanalyse](Stakeholderanalyse.md) muss bis 15.12, 12:00 abgeschlossen sein
 * Bis übermorgen 15:00 soll die Kostenanalyse überarbeitet werden
 * Wir haben jetzt drei Stunden Zeit um xy zu besprechen
 
 # Siehe auch
 
-* [Projekt](kb/Projekt.md)
-* [Projektmanagement](kb/Projektmanagement.md)
-* [Pomodoro](kb/Pomodoro.md)
-* [SCRUM](kb/SCRUM.md)
-* [Daily SCRUM](kb/Daily_Scrum.md)
-* [Methoden](kb/Methoden.md)
-* [Zeitplanung](kb/Zeitplanung.md)
-* [Self-Management](kb/Self_Management.md)
-* [Ziel Planung](kb/Ziel_Planung.md)
+* [Projekt](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Pomodoro](Pomodoro.md)
+* [SCRUM](SCRUM.md)
+* [Daily SCRUM](Daily_Scrum.md)
+* [Methoden](Methoden.md)
+* [Zeitplanung](Zeitplanung.md)
+* [Self-Management](Self_Management.md)
+* [Ziel Planung](Ziel_Planung.md)
 
 
 # Weiterführende Literatur
