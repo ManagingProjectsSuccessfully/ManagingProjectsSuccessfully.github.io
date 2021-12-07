@@ -94,6 +94,7 @@ Erkenntnisse in Form von [*lessons learned*](Lessons.Learned) gezogen werden, we
 
 * [Link zu Projekt](Projekt.md)
 * [Link zum Projektabschluss](Projektabschluss.md)
+* [Link zur Projektauflösung](Projektaufloesung.md)
 * [Link zu Lessons Learned](Lessons_Learned.md)  
 
 
