@@ -36,14 +36,14 @@ Lösungsansätze, um die Kernprobleme von Entwicklungsprojekten zu bewältigen, 
 Dies beginnt in der Planungsphase des Projekts, da hier das größte Optimierungspotenzial besteht. Eine Visualisierung wird mit dem [Lean Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Lean_Projektmanagement.md) herbeigeführt, was zu Transparenzerhöhung führt. 
 Weitere Methoden zur Lösung der Kernprobleme sind beispielsweise [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) sowie virtuelle Planungsmethoden, wie 3D-5D, aus dem Bereich des agilen Projektmanagements. 
 
-# Entwicklungsprojekte in [Entwicklungsländern](https://de.wikipedia.org/wiki/Entwicklungsland)
+# Entwicklungsprojekte in [Entwicklungsländern](https://de.wikipedia.org/wiki/Entwicklungsland) [^7]
 Bei der Hilfe von Entwicklungsländern geht es um finanzielle und personelle Hilfe für einen Aufschwung des Landes. Projektträger bei Entwicklungsprojekten sind die Entwicklungsländer, welche von einer Organisation des helfenden Landes geführt werden. Arme Bevölkerungsgruppen werden mit Geldern oder Produkten unterstützt, welche die Arbeit, meist auf dem Feld, für die Arbeiter erleichtern soll. Zudem setzen sich Organisatoren von Entwicklungsprojekten stark für eine bessere Bezahlung der Arbeiter vor Ort ein.
 
 ## Koordination
 Die Organisatoren gehen in verschiedenen Schritten vor, um ein gutes Projektmanagement zu gewährleisten. Zu den Schritten zählen die Problemanalyse, die Beteiligungsanalyse, die Definition von hierarchisch geordneten Projektzielen und die Festlegung von Aktivitäten und Indikatoren zur Messung und Evaluation des gesamten Projektes bzw. des Projektziels.
 
 ## Entwicklungsprojekte in Afrika 
-Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus den Ländern des Nordens, wie England und Deutschland. Große Organisatoren für Entwicklungsprojekte in Afrika sind unter anderem [World Vision](https://www.worldvision.de/) und [Unicef](https://www.unicef.de/helfen/corona-weltweit?sem=1&un_source=google&un_medium=cpc&un_campaign=C_Brand_Unicef_Desktop&un_content=Unicef_mt-e&un_term=unicef&gclid=CjwKCAiA1aiMBhAUEiwACw25MbhGgGKG_KUtzkeEQqGmDa17U2Q0DEuGsrHCYkCLumbkjgsACu_hdhoCHW8QAvD_BwE). Die Organisationen agieren weltweit und versuchen gemeinsam mit Ihren Mitgliedern in verschiedenen Projekten dem Hunger und der Armut der ärmeren Bevölkerung in Afrika mit gezielten Projekten entgegenzuwirken.
+Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus den Ländern des Nordens, wie England und Deutschland. Große Organisatoren für Entwicklungsprojekte in Afrika sind unter anderem [World Vision](https://www.worldvision.de/) [^8] und [Unicef](https://www.unicef.de/helfen/corona-weltweit?sem=1&un_source=google&un_medium=cpc&un_campaign=C_Brand_Unicef_Desktop&un_content=Unicef_mt-e&un_term=unicef&gclid=CjwKCAiA1aiMBhAUEiwACw25MbhGgGKG_KUtzkeEQqGmDa17U2Q0DEuGsrHCYkCLumbkjgsACu_hdhoCHW8QAvD_BwE) [^9]. Die Organisationen agieren weltweit und versuchen gemeinsam mit Ihren Mitgliedern in verschiedenen Projekten dem Hunger und der Armut der ärmeren Bevölkerung in Afrika mit gezielten Projekten entgegenzuwirken.
 
 ![image](https://user-images.githubusercontent.com/92788192/140933964-7f8ca063-4692-41e5-8eb4-6f0e326acf9d.png) [^6]
 
@@ -77,4 +77,8 @@ Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus 
 
 [^6]: https://www.worldvision.de/en/node/5608871
 
+[^7]: https://de.wikipedia.org/wiki/Entwicklungsland
 
+[^8]: https://www.worldvision.de/
+
+[^9]: https://www.unicef.de/helfen/corona-weltweit?sem=1&un_source=google&un_medium=cpc&un_campaign=C_Brand_Unicef_Desktop&un_content=Unicef_mt-e&un_term=unicef&gclid=CjwKCAiA1aiMBhAUEiwACw25MbhGgGKG_KUtzkeEQqGmDa17U2Q0DEuGsrHCYkCLumbkjgsACu_hdhoCHW8QAvD_BwE
