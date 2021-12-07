@@ -7,6 +7,7 @@ anrechnung: k
 
 Das Projektcontrolling ist ein Bestandteil des [Projektmanagements](Projektmanagement.md).[^6] Der Begriff (Projekt-)Controlling wird häufig fälschlicherweise synonym für Kontrolle verwendet, umfasst allerdings weitaus mehr. Es handelt sich vielmehr um einen [Steuerungs](Projektsteuerung.md)- und Koordinationsprozess[^4], der durch die DIN 69901-5 als "Sicherung des Erreichens der Projektziele durch: Soll-Ist-Vergleich, Feststellung der Abweichungen, Bewerten der Konsequenzen und Vorschlagen von Korrekturmaßnahmen, Mitwirkung bei der Maßnahmenplanung und Kontrolle der Durchführung" [^5]
 definiert wird.
+
 In der folgenden Abbildung ist der projektspezifische „Controlling Regelkreis“ illustriert.
 
 ![Controlling Regelkreis](Projektcontrolling/ControllingRegelkreis.jpg)
