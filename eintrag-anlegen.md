@@ -19,6 +19,7 @@ Im folgenden wird das Vorgehen für die Erstellung des Kompendiums beschrieben.
   - 2021-11-02 Start der Beitragserstellung
   - 2021-11-24 23:59 Uhr Deadline erste Version des Beitrags
   - 2021-12-08 23:59 Uhr Deadline Einreichung Review
+  - 2021-12-21 23:59 Uhr Deadline verbesserte Version des Beitrag
   - ~~2021-11-17 Deadline erste Version des Beitrags~~
   - ~~2021-11-29 Deadline Feedback~~
   - ~~2021-12-13 Deadline Abgabe Finale Version Beitrag~~
