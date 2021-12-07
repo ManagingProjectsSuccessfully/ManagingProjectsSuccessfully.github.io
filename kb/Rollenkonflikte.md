@@ -13,17 +13,17 @@ Im Folgenden soll auf die Arten der Rollenkonflikte genauer eingegangen werden.
 
 # Arten von Rollenkonflikten
 
-Im Alltag eines Projektmanagers ist es nicht ungewöhnlich, dass dieser mehrere ["Rollen"](Rollen_klassisch.md) besitzt. Als Beispiel hierfür nennen wir den Abteilungsleiter Leon, welcher 
-die Rollen "Abteilungsleiter", „Controller“, "Vater", "guter Freund" und noch "Fußballspieler" hat. 
+Im Alltag eines Projektmanagers ist es nicht ungewöhnlich, dass dieser mehrere ["Rollen"](Rollen_klassisch.md) besitzt. Als Beispiel hierfür nennen wir den Abteilungsleiter 
+Leon, welcher die Rollen „Abteilungsleiter", „Controller“, „Vater", „guter Freund" und noch „Fußballspieler" hat. 
 
 Nun stellt sich jedoch die Frage, welche Rollenkonflikte hierbei möglich sind.
 Um diese Frage zu beantworten, veranschaulichen wir anhand unseres Beispiels die zwei Arten eines Rollenkonfliktes.
 
 ## 1. Der Inter-Rollenkonflikt
-Der Intra-Rollenkonflikt ist die offensichtlichste und verständlichste Art eines Rollenkonfliktes. Hierbei besteht das Problem darin, dass man seine Rollen nicht bewusst 
-voneinander unterscheidet. Zudem fällt es einem meist schwer, in der richtigen Rolle auch richtig zu handeln.[^1]
+Der Inter-Rollenkonflikt ist die offensichtlichste und verständlichste Art eines Rollenkonfliktes. Hierbei besteht das Problem darin, dass man seine Rollen nicht bewusst 
+voneinander unterscheidet. Zudem fällt es einem meist schwer in der richtigen Rolle auch richtig zu handeln.[^1]
 
-Angewandt auf unser Beispiel des Abteilungsleiters, würde er seine vorher genannten Rollen nicht klar trennen, was sich insbesondere im Alltag als schwierig erweist. Folgende
+Angewandt auf unser Beispiel des Abteilungsleiters würde er seine vorher genannten Rollen nicht klar trennen, was sich insbesondere im Alltag als schwierig erweist. Folgende
 Situation soll  dies veranschaulichen: Ein guter Freund des Abteilungsleiters, welcher zugleich sein Mitarbeiter ist, bittet ihn um zwei unbezahlte Wochen mehr Urlaub. 
 Leon kennt seine persönliche Situation und weiß daher, wie wichtig seinem Freund dieser Urlaub ist und gewährt ihm dies, obwohl er auch weiß, wie ungünstig sich das auf das 
 Geschäft auswirkt.[^2] 
@@ -52,12 +52,12 @@ In der Professionswelt werden die verschiedenen fachlichen Rollen angenommen, be
 Mit der Organisationswelt werden die hierarchischen Rollen definiert, welche "Führungskraft", "Abteilungsleiter" oder "CFO" sein könnten.[^3]
 
 
-Außerdem ist bei diesem Modell anzumerken, dass es zudem oft Rollenkonflikte zwischen der Organisationswelt und der Professionswelt kommt. Obwohl diese seltener wahrgenommen 
-werden sollte man diese bewusst berücksichtigen, sodass einige Konflikte vermieden werden. Bei unserem Beispiel kann der Controller Leon, welcher zugleich Abteilunsleiter ist, 
+Außerdem ist bei diesem Modell anzumerken, dass es zudem oft zu Rollenkonflikten zwischen der Organisationswelt und der Professionswelt kommt. Obwohl diese seltener wahrgenommen 
+werden, sollte man diese bewusst berücksichtigen, sodass einige Konflikte vermieden werden. Bei unserem Beispiel kann der Controller Leon, welcher zugleich Abteilunsleiter ist, 
 sich nicht vor seinem Chef als einen Abteilunsgleiter präsentieren und so handeln.
 
 Zusammenfassend sollte also bei einem Intra-Rollenkonflikt beachtet werden, welche Charakteristika an einer bestimmten Rolle wichtig sind und auf diese sollte die Konzentration 
-gesetzt und das Handel ausgelegt werden.
+gesetzt und das Handeln ausgelegt werden.
 
 [Das drei Welten Modell]![image](https://github.com/martina-bchtl/ManagingProjectsSuccessfully.github.io/blob/main/kb/Rollenkonflikte/Das%20drei%20Welten%20Modell.png)
 
@@ -65,7 +65,7 @@ gesetzt und das Handel ausgelegt werden.
 
 Insgesamt ist es wichtig zu verstehen, dass man sich stehts bewusst sein sollte welche Rolle im Einzelfall adäquat wäre und wie nach dieser zu handeln wäre. 
 Zudem sollte feststehen, worauf der Fokus in den einzelnen Rollen gelegt wird und welche Charakteristika hierbei wichtig sind. 
-Bei Beachtung dieser Aspekte ist es möglich, viele Rollenkonflikte zu vermeiden und sich stets sowohl in der Professionswelt und der Organisationswelt, als auch in der
+Bei Beachtung dieser Aspekte ist es möglich viele Rollenkonflikte zu vermeiden und sich stets sowohl in der Professionswelt und der Organisationswelt, als auch in der
 Privatwelt adäquat zu verhalten.  
 
 # Siehe auch
@@ -78,6 +78,6 @@ Privatwelt adäquat zu verhalten.
 [^1]: [Konfliktarten – Diese 5 sollten Sie kennen](https://www.andyamo.de/konfliktarten/)
 [^2]: [Typische Konfliktarten in Projekten](https://blog.setzwein.com/2009/10/12/typische-konfliktarten-in-projekten/)
 [^3]: [Der unerkannte Rollenkonflikt – Selbsterkenntnis mit dem 3-Welten-Modell](https://www.microtool.de/projektmanagement/der-unerkannte-rollenkonflikt-selbsterkenntnis-mit-dem-3-welten-modell/)
-[^4]: [Das drei Welten Modell](https://user-images.githubusercontent.com/92875269/142039822-dfc47614-49e5-48cb-82e8-7f0519fdea25.png)
+[^4]: [Das drei Welten Modell](https://www.projektmagazin.de/artikel/klarer-kommunizieren-mit-dem-drei-welten-modell_1092131)
 
 
