@@ -8,7 +8,7 @@ anrechnung: k
 Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. [^1] Sie sind in zwei Kategorien eingeteilt: Einerseits sind es Projekte, die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. [^2] Andererseits sind es Projekte, die den sozialen Standard eines Landes anheben sollen. [^3]
 
 
-# Entwicklungsprojekte, die der Entwicklung von Etwas dienen
+# klassische Entwicklungsprojekte
 
 Entwicklungsprojekte haben das Ziel einen Erkenntnisgewinn oder die Erstellung eines neuen Projekts durchzuführen. Durch die große Bedeutung von Entwicklungsprojekten, werden diese oft und zahlreich gefördert. [^4]
 
