@@ -28,7 +28,7 @@ Vorgehens ist es, die einzelnen Handlungsschritte zu reflektieren und die passen
 Dafür stellt sich stets die Frage: *Was ist gut gelaufen und womit waren unsere Kunden zufrieden? Aber auch: Wo besteht dringend Handlungsbedarf?*  
   Er beschreibt also das **Gesamtergebnis**, sowie die **Entwicklung eines Projektes** und trägt besonders dazu bei **Erfahrungen für künftige Vorhaben** zu sichern. 
 Zusätzlich analysiert das Team die Stärken und Schwächen in der Projektarbeit, für dessen Feedback sie am Ende der Fertigstellung noch einmal zusammenkommen 
-sollten[^2].
+sollten und schließlich aus dem Projekt entlassen sind[^2].
 
 # Vielschichtigkeit eines PAB`s
 
