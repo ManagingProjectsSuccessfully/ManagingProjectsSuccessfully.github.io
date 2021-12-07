@@ -8,7 +8,7 @@ anrechnung: k
 
 
 
-# Was ist ein Projektabschlussbericht?
+# Koordination des Projektabschlussberichts
 
 Der Projektabschlussbericht (PAB) ist der letzte Prozess im Projektfortschritt und wird im Rahmen des [Projektabschlusses](Projektabschluss.md) durchgeführt, welcher 
 bereits im Vorfeld des 
@@ -34,9 +34,9 @@ sollten[^2].
 
 Bei der Erstellung eines Projektabschlussberichtes wird Bezug auf die verschiedensten Abteilungen in einem Unternehmen genommen. Dies suggeriert 
 wie komplex ein solcher Bericht aufgebaut wird.
-  Gerade deswegen führt dies nicht selten zu einem ablehnenden Verhalten seitens der Projektleiter, da es aus deren Sicht als unnötig und
-zu zeitintensiv betrachtet wird. Es wird dennoch in vielen Fällen vom Auftraggeber gefordert. Oft wird ein solches Dokumentieren geradezu als verpflichtend 
-angesehen, wenn nicht
+  Gerade deswegen führt dies nicht selten zu einem ablehnenden Verhalten seitens der [Projektleiter](Projektleiter.md), da es aus deren Sicht als unnötig und
+zu zeitintensiv betrachtet wird. Es wird dennoch in vielen Fällen vom Auftraggeber gefordert. Oft wird ein solches [Dokumentieren](Projektdokumentation.md) geradezu als 
+verpflichtend angesehen, wenn nicht
 sogar als unumgängliche Voraussetzung das Projekt offiziell zu beenden[^3].
 
 ## Hard Facts und Soft Facts
@@ -64,7 +64,7 @@ führen.
 * Zusammenarbeit
 
 Auch die Soft Facts sollten nicht außer Acht gelassen werden, welche besonders in Bezug auf das Arbeitsklima zur Sprache kommen. Dies impliziert nicht nur die
-Teamarbeit, sondern auch die Kooperartion mit relevanten [Stakeholdern](Steakholder.md) und Mitglieder anderer Projekte. Diese Abstimmung kann zum Beispiel anhand von Fragebögen
+Teamarbeit, sondern auch die Kooperartion mit relevanten [Stakeholdern](Stakeholder_Register.md) und Mitglieder anderer Projekte. Diese Abstimmung kann zum Beispiel anhand von Fragebögen
 durchgeführt werden.
 
 * Workshop
@@ -82,8 +82,8 @@ Erfahrungen besprochen werden und Erkenntnisse für zukünftige Projekte generie
 
 
 
-  Es lässt sich demnach sagen, dass der Projektabschlussbericht durchaus einen großen Aufwand an Bürokratie darstellt. Dennoch können daraus viele brauchbare
-Erkenntnisse in Form von *lessons learned* gezogen werden, welche man auf das nächste Projekt projizieren und Vorgehensweisen optimieren kann. 
+  Somit stellt der Projektabschlussbericht sicherlich einen großen Aufwand an Dokumentation dar. Dennoch können daraus viele brauchbare
+Erkenntnisse in Form von [*lessons learned*](Lessons.Learned) gezogen werden, welche man auf das nächste Projekt projizieren kann und damit Vorgehensweisen optimiert. 
 
 
 
@@ -92,6 +92,7 @@ Erkenntnisse in Form von *lessons learned* gezogen werden, welche man auf das n�
 
 # Siehe auch
 
+* [Link zu Projekt](Projekt.md)
 * [Link zum Projektabschluss](Projektabschluss.md)
 * [Link zu Lessons Learned](Lessons_Learned.md)  
 
