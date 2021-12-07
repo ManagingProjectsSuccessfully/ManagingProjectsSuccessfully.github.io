@@ -4,7 +4,7 @@ tags: klassisch
 author: wernerni
 anrechnung: k
 ---
-Der Begriff Projektmanagement 4.0 lässt sich auf den Grundbegriff Industrie 4.0 zurückführen. Dieser steht für ein "Zukunftsprojekt zur umfassenden Digitalisierung der industriellen Produktion"[^1], mit dem Ziel der vollständigen Automatisierung. Die Zahl 4.0 steht zudem für die „vierte industrielle Revolution“[^2], die sich durch Faktoren wie Individualisierung und Kundenintegration in unternehmerische Prozesse auszeichnet. Dies beeinflusst auch das zukünftige Projektmanagement. Projektmanagement 4.0 steht also für die Optimierung der Projektprozesse, mit Anpassung an neue Anforderungen, die das Fortschreiten der [Globalisierung](https://wirtschaftslexikon.gabler.de/definition/globalisierung-35657) und [Digitalisierung](https://de.wikipedia.org/wiki/Digitalisierung) mit sich bringen.[^1]    
+Der Begriff Projektmanagement 4.0 lässt sich auf den Grundbegriff Industrie 4.0 zurückführen. Dieser steht für ein "Zukunftsprojekt zur umfassenden Digitalisierung der industriellen Produktion"[^1], mit dem Ziel der vollständigen Automatisierung. Die Zahl 4.0 steht zudem für die „vierte industrielle Revolution“[^2], die sich durch Faktoren wie Individualisierung und Kundenintegration in unternehmerische Prozesse auszeichnet. Dies beeinflusst auch das zukünftige Projektmanagement. Projektmanagement 4.0 steht also für die Optimierung der Projektprozesse, mit Anpassung an neue Anforderungen, die das Fortschreiten der [Globalisierung](https://wirtschaftslexikon.gabler.de/definition/globalisierung-35657)[^13] und [Digitalisierung](https://de.wikipedia.org/wiki/Digitalisierung)[^14] mit sich bringen.[^1]    
 
 # [Projektteams](Projektteam_Kultur.md) der Zukunft
 Durch die neuen Anforderungen der Digitalisierung steht es besonders im Fokus, Projektprozesse effizienter und schneller zu gestalten. Ein wesentlicher Bestandteil des [Projektmanagements](Projektmanagement.md) in der Zukunft ist die Verknüpfung von sowohl agilen, als auch klassischen Konzepten.[^3] Die Projektteams entscheiden zukünftig gemeinschaftlich in Einzelfällen, welche der beiden Formen bzw. ob eine [hybride](Hybrides_Projektmanagment.md) Gestaltung beider Elemente für das entsprechende Projekt am sinnvollsten ist.[^4] Ebenfalls werden Hierarchiestufen aufgegeben, es gibt also keine einzelne Projektleitung mehr, sondern diese Aufgabe geht auf alle [Projektmitglieder](Projektmitarbeiter.md) über.[^5] Die Projektmitglieder teilen sich hinsichtlich ihrer Erfahrung und ihrem Kenntnisstand in einzelne Projektteams der Zukunft auf. Diese stimmen sich untereinander ab und kümmern sich individuell um die Ressourcenbeschaffung.[^5]
@@ -60,6 +60,8 @@ Der Fokus bei der Projektprozessgestaltung liegt nicht wie bisher darauf, dass d
 [^10]: https://www.vdz.org/personalmanagement-new-work/trends-im-projektmanagement
 [^11]: https://www.tiba.de/magazin/trends-im-projektmanagement-toolunterstuetzung/
 [^12]: https://www.techconsult.de/project-performance-index/studie-zum-projektmanagement-4-0-mit-digitalen-werkzeugen-kuenftige-herausforderungen-meistern
+[^13]: https://wirtschaftslexikon.gabler.de/definition/globalisierung-35657
+[^14]: https://de.wikipedia.org/wiki/Digitalisierung
 
 
 
