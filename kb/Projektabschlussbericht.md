@@ -10,23 +10,24 @@ anrechnung: k
 
 # Was ist ein Projektabschlussbericht?
 
-Der Projektabschlussbericht ist der letzte Prozess im Projektfortschritt und wird im Rahmen des Projektabschlusses durchgeführt, welcher bereits im Vorfeld des 
+Der Projektabschlussbericht (PAB) ist der letzte Prozess im Projektfortschritt und wird im Rahmen des Projektabschlusses durchgeführt, welcher bereits im Vorfeld des 
 Kompendiums erläutert wurde. Der Projektabschluss stellt den letzten Abschnitt der Unternehmung dar und enthält zusätzlich Schritte wie die Produktabnahme oder die
-Projektauflösung, was anschließend durchgeführt wird[^1]. 
+Projektauflösung. Diese werden angrenzend an den Bericht final durchgeführt.[^1]. 
 
 # Inhalt
 
 Der Projektabschlussbericht gibt Aufschluss über:
-* die stattgefundenen Ereignisse und die daraus resultierenden Ergebnisse
-* Erfolge als auch Misserfolge
+* die **stattgefundenen Ereignisse** und die daraus **resultierenden Ergebnisse**
+* **Erfolge** als auch **Misserfolge**
 
-All dies wird anhand verschiedener Aspekte und [Methoden](Methoden.md) beleuchtet, was letzten Endes die Qualität und Zielgenauigkeit des Projektes beurteilen lässt. Ziel dieses 
-Vorgehens ist es, die einzelnen Handlungsschritte zu reflektieren und die passenden Schlüsse daraus zu ziehen. Dies kann sowohl positiv, als auch negativ ausfallen, 
-wobei man sich dabei immer die Frage stellt, *was ist gut gelaufen und womit waren unsere Kunden zufrieden, aber auch wo besteht dringend Handlungsbedarf?*.   
+Diese Schlüsselerkenntnisse werden anhand verschiedener Aspekte und [Methoden](Methoden.md) beleuchtet, was letzten Endes Aufschluss über die Qualität und Zielgenauigkeit des Projektes gibt.
+Ziel dieses 
+Vorgehens ist es, die einzelnen Handlungsschritte zu reflektieren und die passenden Schlüsse daraus zu ziehen. Dies kann sowohl positiv, als auch negativ ausfallen. 
+Dafür wird sich immer die Frage gestellt: *Was ist gut gelaufen und womit waren unsere Kunden zufrieden, aber auch wo besteht dringend Handlungsbedarf?*.   
   Er beschreibt also das **Gesamtergebnis**, sowie die **Entwicklung eines Projektes** und trägt besonders dazu bei, **Erfahrungen für künftige Vorhaben** zu sichern. 
 Zusätzlich analysiert das Team die Stärken und Schwächen in der Projektarbeit und sollte auch am Ende der Fertigstellung noch einmal zusammenkommen[^2].
 
-# Bestandteile
+# Komponenten eines vollwertigen PAB`s
 
 Bei der Erstellung eines Projektabschlussberichtes wird Bezug auf die unterschiedlichsten Abteilungen in einem Unternehmen genommen, was suggeriert 
 wie umfassend ein solcher Bericht aufgebaut wird.
@@ -66,7 +67,7 @@ durchgeführt werden.
 Da jedoch das Team in gewisser Weise die Basis eines erfolgreichen Ablaufes darstellt, sollte am Ende ein Abschlussworkshop durchgeführt werden, in welchem Erfahrungen 
 besprochen werden und Erkenntnisse für zukünftige Projekte gewonnen werden. 
 
-# Fazit
+# Übersicht
 
 ![Beispielabbildung](Projektabschlussbericht/peco-pm-projektabschluss-erfahrungssicherung-xl.png)  
   
@@ -86,7 +87,6 @@ Erkenntnisse in Form von *lessons learned* gezogen werden, welche man auf das n�
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Link zum Projektabschluss](Projektabschluss.md)
 * [Link zu Lessons Learned](Lessons_Learned.md)  
 
