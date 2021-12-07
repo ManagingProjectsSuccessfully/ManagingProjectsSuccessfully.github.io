@@ -4,21 +4,15 @@ tags: agil
 author: nazarelsaifi
 anrechnung: a
 ---
-
-# MeisterTask PM Tool
-
 Meister Task ist ein Online-Tool der deutsch-österreichischen Softwarefirma Meisterlabs, das agiles Arbeiten ermöglichen soll. Der Nutzer hat die Möglichkeit über ein Cloud-System Projekte und Aufgaben zu visualisieren, zu teilen und mit einer Benutzergruppe zu organisieren[^2].
 
-1.	Überblick
-2.	Entwicklung
-3.	Vergleich mit Trello
-4.	Funktionen
+
 
 
 
 ## Überblick
 
-Meister Task, wie auch aus dem Namen hervorgehen kann, ist ein Task Management- Tool , das Anwendern ein Weg bietet kollaborativ Aufgaben zu organisieren und koordinieren. Das Tool eignet sich nicht nur für einzelne Aufgaben, es unterstützt auch [Kanban](https://github.com/nazarelsaif/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) Projekte mit einem virtuellen [Taskboard](https://github.com/nazarelsaifi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Taskboard.md). Für größere Projekte können alle Tools der Meister Suite integriert werden, um einen reibungslosen Workflow für Teams zu ermöglichen. Zudem wird Meistertask weiterentwickelt, um eine Synchronisation mit anderen Tools für das agile Projektmanagement zu ermöglichen[^1]. Das Motto der Firma lautet “Im Mittelpunkt unserer Arbeit stehen die Menschen und die Vision, gemeinsam etwas Großes aufzubauen., was ausdrücken soll, dass bei Meistertask auf Kommunikation der Anwender großen Wert gelegt wird. Meister Task ist ein Freemium Produkt. Der Nutzer hat die Wahl zwischen Basic, Pro, Businnes und Enterprise Versionen, wobei nur die Basic Version frei zugänglich ist. Die kostenpflichtigen Versionen bieten wenige funktionelle und hauptsächlich quantitative Vorteile, daher ist für die private Anwendung mit wenigen Projekten die Basis Version keine Einschränkung für die Funktionalität.
+Meister Task, wie auch aus dem Namen hervorgehen kann, ist ein Task Management- Tool , das Anwendern ein Weg bietet kollaborativ Aufgaben zu organisieren und koordinieren. Das Tool eignet sich nicht nur für einzelne Aufgaben, es unterstützt auch [Kanban](https://github.com/nazarelsaif/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) Projekte mit einem virtuellen [Taskboard](https://github.com/nazarelsaifi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Taskboard.md). Für größere Projekte können alle Tools der Meister Suite integriert werden, um einen reibungslosen Workflow für Teams zu ermöglichen. Zudem wird Meistertask weiterentwickelt, um eine Synchronisation mit anderen Tools für das agile Projektmanagement zu ermöglichen[^1]. Das Motto der Firma lautet “Im Mittelpunkt unserer Arbeit stehen die Menschen und die Vision, gemeinsam etwas Großes aufzubauen.", was ausdrücken soll, dass bei Meistertask auf Kommunikation der Anwender großen Wert gelegt wird. Meister Task ist ein Freemium Produkt. Der Nutzer hat die Wahl zwischen Basic, Pro, Businnes und Enterprise Versionen, wobei nur die Basic Version frei zugänglich ist. Die kostenpflichtigen Versionen bieten wenige funktionelle und hauptsächlich quantitative Vorteile, daher ist für die private Anwendung mit wenigen Projekten die Basis Version keine Einschränkung für die Funktionalität.
 
 ![MeisterTask Oberfläche](MeisterTask_PM_Tool/Meister_Task_Oberfläche.png)
 *MeisterTask Oberfläche*
@@ -50,7 +44,6 @@ MeisterLabs, die Firma, die MeisterTask entwickelt hat, wurde 2007 von Michael H
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
 * [Kanban](https://github.com/nazarelsaifi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
 * [Taskboard](https://github.com/nazarelsaifi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Taskboard.md)
 * [Trello](https://github.com/nazarelsaifi/ManagingProjectsSuccessfully.github.io/blob/main/kb/Trello_PM_Tool.md)
