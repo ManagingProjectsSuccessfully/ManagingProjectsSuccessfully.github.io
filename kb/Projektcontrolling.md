@@ -43,7 +43,6 @@ Die Kenngrößen des Dreiecks umfassen:
 
 ## Methoden
 Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten Umfang, Dauer und Komplexität des Projektes berücksichtigt werden.
-
 Grundsätzlich gilt hier die Devise: **Je einfacher und durschaubarer die Methode, desto besser.**
 
 ### a) [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
