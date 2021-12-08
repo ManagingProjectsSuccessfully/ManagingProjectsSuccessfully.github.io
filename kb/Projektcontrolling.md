@@ -34,8 +34,8 @@ Die elementare Basisgröße des Projektcontrollings ist der Projekterfolg.[^11] 
 Die Kenngrößen des Dreiecks umfassen:
 
 * Termine
-* Kosten
 * Qualität
+* Kosten
 
 ![Projekt Controlling](Projektcontrolling/projectcontrolling.jpg)
 
