@@ -18,13 +18,37 @@ Hinweise:
 
 ## Feedback Tabellen Validierungshinweise
 
-Stand: 10:00 Uhr, 6.12.2021
+Stand: 19:30 Uhr, 7.12.2021
 
 
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/47, Reviewer: ChrisBohl
 
 * Kriterium 'Formatierung' ist 'nein????', muss allerdings 'ja' oder 'nein' sein.
 * Kriterium 'Ansprechend für Zielgruppe' ist '???', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/94, Reviewer: DanielLeiLei
+
+* Kriterium 'Belege' ist 'ja/ nein', muss allerdings 'ja' oder 'nein' sein.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/95, Reviewer: DanielLeiLei
+
+* Kriterium 'Umfang' ist 'ja/', muss allerdings 'ja' oder 'nein' sein.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/96, Reviewer: Magnus-schn
+
+* Kriterium 'Ansprechend für Zielgruppe' ist '1-10', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/109, Reviewer: ow79arux
+
+* Kriterium 'Umfang' ist 'ja/', muss allerdings 'ja' oder 'nein' sein.
 
 
 ----
@@ -102,25 +126,49 @@ Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSu
 
 
 ----
-Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/199, Reviewer: ga88maby
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/176, Reviewer: at33fau
 
-* Kriterium 'Verlinkungen vorhanden' ist 'Teilweise', muss allerdings 'ja' oder 'nein' sein.
+* Kriterium 'Product Backlog:' ist nicht korrekt, das sollte 'Strukturierung des Beitrags' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Strukturierung des Beitrags' ist nicht korrekt, das sollte 'Rechtschreibung' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Rechtschreibung' ist nicht korrekt, das sollte 'Sprache' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Sprache' ist nicht korrekt, das sollte 'Inhalt' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Inhalt' ist nicht korrekt, das sollte 'Einordnung in den Kontext' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Einordnung in den Kontext' ist nicht korrekt, das sollte 'Ansprechend für Zielgruppe' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
 
 
 ----
-Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/203, Reviewer: Laura1mueller
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/177, Reviewer: at33fau
 
-* Kriterium 'Front-Matter' ist 'jaI', muss allerdings 'ja' oder 'nein' sein.
-* Kriterium 'Umfang' ist 'jaI', muss allerdings 'ja' oder 'nein' sein.
-* Kriterium 'Links' ist 'jaI', muss allerdings 'ja' oder 'nein' sein.
-* Kriterium 'Verlinkungen vorhanden' ist 'teilweiseI', muss allerdings 'ja' oder 'nein' sein.
-* Kriterium 'Abbildungen' ist 'jaI', muss allerdings 'ja' oder 'nein' sein.
-* Kriterium 'Strukturierung des Beitrags' ist '8I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
-* Kriterium 'Rechtschreibung' ist '4I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
-* Kriterium 'Sprache' ist '3I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
-* Kriterium 'Inhalt' ist '7I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
-* Kriterium 'Einordnung in den Kontext' ist '5I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
-* Kriterium 'Ansprechend für Zielgruppe' ist '4I', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
+* Kriterium 'Kanban Swimlanes:' ist nicht korrekt, das sollte 'Strukturierung des Beitrags' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Strukturierung des Beitrags' ist nicht korrekt, das sollte 'Rechtschreibung' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Rechtschreibung' ist nicht korrekt, das sollte 'Sprache' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Sprache' ist nicht korrekt, das sollte 'Inhalt' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Inhalt' ist nicht korrekt, das sollte 'Einordnung in den Kontext' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Einordnung in den Kontext' ist nicht korrekt, das sollte 'Ansprechend für Zielgruppe' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/196, Reviewer: SeanTR0497
+
+* Kriterium 'Verlinkung vorhanden' ist nicht korrekt, das sollte 'Verlinkungen vorhanden' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/197, Reviewer: SeanTR0497
+
+* Kriterium 'Verlinkung vorhanden' ist nicht korrekt, das sollte 'Verlinkungen vorhanden' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/198, Reviewer: SeanTR0497
+
+* Kriterium 'Verlinkung vorhanden' ist nicht korrekt, das sollte 'Verlinkungen vorhanden' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/199, Reviewer: ga88maby
+
+* Kriterium 'Verlinkungen vorhanden' ist 'Teilweise', muss allerdings 'ja' oder 'nein' sein.
 
 
 ----
@@ -130,9 +178,32 @@ Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSu
 
 
 ----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/220, Reviewer: thujavanj
+
+* Kriterium 'Formatierung' ist 'ja/ nein', muss allerdings 'ja' oder 'nein' sein.
+* Kriterium 'Verlinkungen vorhanden' ist 'ja/ nein', muss allerdings 'ja' oder 'nein' sein.
+* Kriterium 'Abbildungen' ist 'ja/ nein', muss allerdings 'ja' oder 'nein' sein.
+
+
+----
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/249, Reviewer: LKmps2021
 
 * Es wurde in dem Review keine Tabelle gefunden. Tabellen in Kommentaren zu den Reviews werden nicht berücksichtigt.
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/264, Reviewer: SaskiaHe
+
+* Kriterium 'Links' ist nicht korrekt, das sollte 'Belege' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Formatierung' ist nicht korrekt, das sollte 'Links' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Verlinkungen vorhanden' ist nicht korrekt, das sollte 'Formatierung' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Abbildungen' ist nicht korrekt, das sollte 'Verlinkungen vorhanden' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Strukturierung des Beitrags' ist nicht korrekt, das sollte 'Abbildungen' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Rechtschreibung' ist nicht korrekt, das sollte 'Strukturierung des Beitrags' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Sprache' ist nicht korrekt, das sollte 'Rechtschreibung' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Inhalt' ist nicht korrekt, das sollte 'Sprache' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Einordnung in den Kontext' ist nicht korrekt, das sollte 'Inhalt' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+* Kriterium 'Ansprechend für Zielgruppe' ist nicht korrekt, das sollte 'Einordnung in den Kontext' sein. Evtl. ist auch die Reihenfolge nicht korrekt.
+
 
 ----
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/269, Reviewer: Emi1404
@@ -187,6 +258,11 @@ Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSu
 
 * Kriterium 'Rechtschreibung' ist '95', muss allerdings ein numerischer Wert zwischen 1 und 10 sein.
 
+
+----
+Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/297, Reviewer: phigeit
+
+* Es wurde in dem Review keine Tabelle gefunden. Tabellen in Kommentaren zu den Reviews werden nicht berücksichtigt.
 
 ----
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/300, Reviewer: MarleneMMeyer
