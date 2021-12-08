@@ -44,25 +44,25 @@ Die Kenngrößen des Dreiecks umfassen:
 ## Methoden
 Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten Umfang, Dauer und Komplexität des Projektes berücksichtigt werden. Grundsätzlich gilt hier die Devise: Je einfacher und durschaubarer die Methode, desto besser.
 
-### a)[Meilensteintrendanalyse](Meilensteintrendanalyse.md)
+### a) [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 Die Definition von [Meilensteinen](Meilensteine.md) ist Grundlage dieser Methode. Diese werden am Anfang des Projekts für die [Projektplanung](Projektplanung.md) festgelegt.[^13] Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilensteine.md)-Termine chronologisch auf, wodurch sich frühzeitig abzeichnende Trends erkenntlich werden. Die Überschaubarkeit der Methode ermöglicht es auch Laien, den Überblick zu behalten und zu beurteilen, ob das Projekt planmäßig verläuft.
-### Earned Value Analyse
+### b) Earned Value Analyse
 Eine weitere Methode ist die Earned Value Analyse, mit der man den Fertigstellungsgrad des Projekts bzw. einzelner Phasen ermitteln kann. Sie dient dem Projekt als Kontrollinstrument des Fortschritts. Diese Methode ist ebenfalls unter den Namen Leistungswertanalyse, Fertigstellungswertmethode oder Arbeitswertanalyse bekannt.[^7]
 
-### Projektplan
+### c) Projektplan
 Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszeiträume zugeteilt. Der Projektmanager hat somit stets den Überblick über die [Aufgabenteilung](Aufgabenteilung.md) und Termintreue der jeweiligen Projektabschnitte.[^8] Der Umfang des Projektplans richtet sich nach der Größe und Komplexität des Projekts. Folgende Pläne sollten aber in jedem Fall enthalten sein:
 * Projektstrukturplan
 * Ablaufplan
 * Kostenplan
 * Ressourcenplan[^12]
 
-### Ampelmethode
+### d) Ampelmethode
 Die Ampelmethode ist eine bewährte Methode zur Überwachung aller Steuerungsaktivitäten. Durch die Visualierung der Arbeitspaketestatus mit Ampelfarben, ist die Methode besonders intuitiv. Ein Nachteil der Methode ist, dass die Bedeutung der Ampelfarben einen Auslegungsspielraum zulassen. Um diese Gefahr weitestgehend zu minimieren, ist es unabdingbar, die Ampelfarben klar zu definieren. Die genaue Definition muss im Projekt, idealerweise in der gesamten Organisation, kommuniziert werden. Gemeinhin bedeuten die verschiedenen Ampelphasen:
 * Grün: Alles läuft nach Plan
 * Gelb: Es sind signifikante Planabweichungen zu befürchten
 * Rot:  Eine Zielerreichung scheint nicht mehr möglich[^3]
 
-### Soll-Ist-Vergleich
+### e) Soll-Ist-Vergleich
 Hierbei handelt es sich um eine simple, sich selbsterklärende Methode. Es werden die ermittelten Ist-Werte mit den vom Kunden vorgegebenen Soll-Werten verglichen.
 Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. sein. Aus dem Vergleich ergibt sich ein Gesamtunterschied zwischen den geplanten und tatsächlichen Werten. Sind die Ist-Werte besser als die Soll-Werte, fällt der Soll-Ist-Vergleich positiv, andernfalls negativ aus.[^14]
 
