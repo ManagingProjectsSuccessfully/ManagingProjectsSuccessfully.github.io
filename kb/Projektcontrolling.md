@@ -12,7 +12,7 @@ Häufig wird (Projekt-)Controlling fälschlicherweise mit Kontrolle gleichgesetz
 
 ![Controlling Regelkreis](Projektcontrolling/ControllingRegelkreis.jpg)
 
-*Der Controlling Regelkreis.* [^3]
+*Der Controlling Regelkreis* [^3]
 
 Dieser beschreibt einen sich wiederholenden Zyklus, dessen Häufigkeit sich nach dem [Projektumfang](Projektumfang.md) richten sollte. Dabei kann sowohl das gesamte [Projekt](Projekt.md), als auch nur einzelne [Phasen](Projektphasen_klassisch.md) betrachtet werden.[^3]
 
@@ -39,7 +39,7 @@ Die Kenngrößen des Dreiecks umfassen:
 
 ![Projekt Controlling](Projektcontrolling/projectcontrolling.jpg)
 
-*Überwachung der Kennzahlen des Projektdreiecks im Projektcontrolling-Kontext.*[^10]
+*Überwachung der Kennzahlen des Projektdreiecks im Projektcontrolling-Kontext*[^10]
 
 ## Methoden
 Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten [Umfang](Projektumfang.md), Dauer und Komplexität des Projektes berücksichtigt werden.
