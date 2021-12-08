@@ -18,7 +18,7 @@ Hinweise:
 
 ## Feedback Tabellen Validierungshinweise
 
-Stand: 17:24 Uhr, 8.12.2021
+Stand: 17:38 Uhr, 8.12.2021
 
 
 Pull-Request: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/pull/47, Reviewer: ChrisBohl
