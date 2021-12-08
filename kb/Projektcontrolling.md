@@ -19,13 +19,13 @@ Dieser beschreibt einen sich wiederholenden Zyklus, dessen Häufigkeit sich nach
 # Teilbereiche des Projektcontrollings 
 Das Projektcontrolling lässt sich in die drei fundamentalen Teilbereiche Kalkulation, Leistung und Kontrolle untergliedern. Diese dienen Unternehmen als Basis zur Planung, Durchführung und Erfolgsbeurteilung der Projekte. 
 
-## a) Projektkalkulation
+## Projektkalkulation
 In der Vorbereitungs- und Planungsphase erfolgt die Kalkulation des Projektes. In diesem Zeitraum werden Gesamtkosten, variable Kosten sowie Fixkosten systematisch erhoben. Bei mittel- bis langfristigen Projekten ist es sinnvoll, das Projekt in mehrere Abschnitte zu untergliedern. Das hat den Vorteil, dass man jeder Etappe gesondert die entstandenen Kosten zuordnen kann.
 
-## b) Projektleistung
+## Projektleistung
 Zu Beginn werden qualitative Merkmale des Projekts, die Projektleistung, determiniert. Das Projektcontrolling hat die Aufgabe, diese zu kontrollieren, um bei potentiellen Abweichungen frühzeitig Gegenmaßnahmen einzuleiten.
 
-## c) Projektkontrolle
+## Projektkontrolle
 Soll und Ist-Kosten des Projekts werden über den gesamten [Projektlebenszyklus](Projekt_Lebenszyklus.md) im Blick behalten, um Kostenabweichungen zu identifizieren. Eine reine Gegenüberstellung der Kosten liefert nur bedingt einen Mehrwert. Diese Vorgehensweise berücksichtigt nicht, ob das Projekt durch Beschleunigungskosten vorzeitig fertiggestellt werden kann. Eine Termin-Kosten-Kontrolle hingegen, verschafft einen genaueren Einblick in die Gesamtkosten. [^6]
 
 # Kennzahlen und Methoden
@@ -46,26 +46,26 @@ Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im 
 
 Grundsätzlich gilt hier die Devise: **Je einfacher und durschaubarer die Methode, desto besser.**
 
-### a) [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
+### [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 Die Definition von [Meilensteinen](Meilensteine.md) ist Grundlage dieser Methode. Diese werden am Anfang des Projekts für die [Projektplanung](Projektplanung.md) festgelegt.[^13] Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilensteine.md)-Termine chronologisch auf, wodurch sich frühzeitig abzeichnende Trends erkenntlich werden.
 
-### b) Earned Value Analyse
+### Earned Value Analyse
 Eine weitere Methode ist die Earned Value Analyse, mit der man den Fertigstellungsgrad des Projekts bzw. einzelner Phasen ermitteln kann. Sie dient dem Projekt als Kontrollinstrument des Fortschritts. Diese Methode ist ebenfalls unter den Namen Leistungswertanalyse, Fertigstellungswertmethode oder Arbeitswertanalyse bekannt.[^7]
 
-### c) Projektplan
+### Projektplan
 Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszeiträume zugeteilt. Der Projektmanager hat somit stets den Überblick über die [Aufgabenteilung](Aufgabenteilung.md) und Termintreue der jeweiligen Projektabschnitte.[^8] Der Umfang des Projektplans richtet sich nach der Größe und Komplexität des Projekts. Folgende Pläne sollten aber in jedem Fall enthalten sein:
 * Projektstrukturplan
 * Ablaufplan
 * Kostenplan
 * Ressourcenplan[^12]
 
-### d) Ampelmethode
+### Ampelmethode
 Die Ampelmethode ist eine bewährte Methode zur Überwachung aller Steuerungsaktivitäten. Durch die Visualisierung der Arbeitspaketestatus mit Ampelfarben, ist die Methode besonders intuitiv. Ein Nachteil der Methode ist, dass die Bedeutung der Ampelfarben einen Auslegungsspielraum zulassen. Um diese Gefahr weitestgehend zu minimieren, ist es unabdingbar, die Ampelfarben klar zu definieren. Gemeinhin bedeuten die verschiedenen Ampelphasen:
 * Grün: Alles läuft nach Plan
 * Gelb: Es sind signifikante Planabweichungen zu befürchten
 * Rot:  Eine Zielerreichung scheint nicht mehr möglich[^3]
 
-### e) Soll-Ist-Vergleich
+### Soll-Ist-Vergleich
 Hierbei handelt es sich um eine simple, sich selbsterklärende Methode. Es werden die ermittelten Ist-Werte mit den vom Kunden vorgegebenen Soll-Werten verglichen.
 Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. sein. Aus dem Vergleich ergibt sich ein Gesamtunterschied zwischen den geplanten und tatsächlichen Werten. Sind die Ist-Werte besser als die Soll-Werte, fällt der Soll-Ist-Vergleich positiv, andernfalls negativ aus.[^14]
 
