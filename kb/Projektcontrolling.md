@@ -57,7 +57,7 @@ Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszei
 * Ressourcenplan[^12]
 
 ### d) Ampelmethode
-Die Ampelmethode ist eine bewährte Methode zur Überwachung aller Steuerungsaktivitäten. Durch die Visualierung der Arbeitspaketestatus mit Ampelfarben, ist die Methode besonders intuitiv. Ein Nachteil der Methode ist, dass die Bedeutung der Ampelfarben einen Auslegungsspielraum zulassen. Um diese Gefahr weitestgehend zu minimieren, ist es unabdingbar, die Ampelfarben klar zu definieren. Die genaue Definition muss im Projekt, idealerweise in der gesamten Organisation, kommuniziert werden. Gemeinhin bedeuten die verschiedenen Ampelphasen:
+Die Ampelmethode ist eine bewährte Methode zur Überwachung aller Steuerungsaktivitäten. Durch die Visualierung der Arbeitspaketestatus mit Ampelfarben, ist die Methode besonders intuitiv. Ein Nachteil der Methode ist, dass die Bedeutung der Ampelfarben einen Auslegungsspielraum zulassen. Um diese Gefahr weitestgehend zu minimieren, ist es unabdingbar, die Ampelfarben klar zu definieren. Gemeinhin bedeuten die verschiedenen Ampelphasen:
 * Grün: Alles läuft nach Plan
 * Gelb: Es sind signifikante Planabweichungen zu befürchten
 * Rot:  Eine Zielerreichung scheint nicht mehr möglich[^3]
