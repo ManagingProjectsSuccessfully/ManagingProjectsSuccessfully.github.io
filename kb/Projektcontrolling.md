@@ -42,7 +42,7 @@ Die Kenngrößen des Dreiecks umfassen:
 *Überwachung der Kennzahlen des Projektdreiecks im Projektcontrolling-Kontext.*[^10]
 
 ## Methoden
-Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten Umfang, Dauer und Komplexität des Projektes berücksichtigt werden. Grundsätzlich gilt hier die Devise: Je einfacher und durschaubarer die Methode, desto besser.
+Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten Umfang, Dauer und Komplexität des Projektes berücksichtigt werden. Grundsätzlich gilt hier die Devise: **Je einfacher und durschaubarer die Methode, desto besser.**
 
 ### a) [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 Die Definition von [Meilensteinen](Meilensteine.md) ist Grundlage dieser Methode. Diese werden am Anfang des Projekts für die [Projektplanung](Projektplanung.md) festgelegt.[^13] Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilensteine.md)-Termine chronologisch auf, wodurch sich frühzeitig abzeichnende Trends erkenntlich werden.
@@ -58,7 +58,7 @@ Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszei
 * Ressourcenplan[^12]
 
 ### d) Ampelmethode
-Die Ampelmethode ist eine bewährte Methode zur Überwachung aller Steuerungsaktivitäten. Durch die Visualierung der Arbeitspaketestatus mit Ampelfarben, ist die Methode besonders intuitiv. Ein Nachteil der Methode ist, dass die Bedeutung der Ampelfarben einen Auslegungsspielraum zulassen. Um diese Gefahr weitestgehend zu minimieren, ist es unabdingbar, die Ampelfarben klar zu definieren. Gemeinhin bedeuten die verschiedenen Ampelphasen:
+Die Ampelmethode ist eine bewährte Methode zur Überwachung aller Steuerungsaktivitäten. Durch die Visualisierung der Arbeitspaketestatus mit Ampelfarben, ist die Methode besonders intuitiv. Ein Nachteil der Methode ist, dass die Bedeutung der Ampelfarben einen Auslegungsspielraum zulassen. Um diese Gefahr weitestgehend zu minimieren, ist es unabdingbar, die Ampelfarben klar zu definieren. Gemeinhin bedeuten die verschiedenen Ampelphasen:
 * Grün: Alles läuft nach Plan
 * Gelb: Es sind signifikante Planabweichungen zu befürchten
 * Rot:  Eine Zielerreichung scheint nicht mehr möglich[^3]
