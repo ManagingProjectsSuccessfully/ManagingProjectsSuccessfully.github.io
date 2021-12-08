@@ -61,7 +61,7 @@ Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszei
 
 ### Ampelmethode
 Durch die Visualisierung der Arbeitspaketestatus mit Ampelfarben, ist die Methode besonders intuitiv. Ein Nachteil der Methode ist, dass die Bedeutung der Ampelfarben einen Auslegungsspielraum zulassen. Um diese Gefahr zu minimieren, ist es unabdingbar, die Ampelfarben klar zu definieren. Gemeinhin bedeuten die verschiedenen Ampelphasen:
-* Grün: Alles läuft nach Plan
+* <font color="green"> Grün: </font> Alles läuft nach Plan
 * Gelb: Es sind signifikante Planabweichungen zu befürchten
 * Rot:  Eine Zielerreichung scheint nicht mehr möglich[^3]
 
