@@ -2,103 +2,56 @@
 title: Spotify_Projectmanagement_Model
 tags: agil klassisch
 author: BelmontR
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Spotify_Projectmanagement_Model um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Unternehmen Spotify setzte noch zu Beginn das [SCRUM](SCRUM.md) Projektmanagement um. Nachdem Spotify mit der Zeit größer wurde, passten nicht mehr alle Prinzipien und Regeln von [[SCRUM](SCRUM.md) zum Unternehmen und der Unternehmenskultur. Basierend auf [SCRUM](SCRUM.md) bzw. aus [SCRUM](SCRUM.md) heraus hat Spotify ein eigenes Projektmanagementmodell angefertigt[^1]. 
+Das Spotify-Modell besteht aus vier Hauptkomponenten: [Squads](#squads), [Tribes](#tribes), [Chaptern](#chapters) und [Guilds](#guilds)[^2].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![Spotify-Modell visualisiert](Spotify_Projectmanagement_Model/Spotify-Model.png)[^2]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Bestandteile des Spotify-Modells
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Squads
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Die Squads sind mit [SCRUM](SCRUM.md)-Teams vergleichbar, sie bilden die Basis des Spotify-Modells[^1]. In der Regel sind weniger als acht Leute in einem Squad enthalten[^2]. Squads sind crossfunktional und tragen die "End-To-End" Verantwortung für ein Feature oder einen bestimmten Bereich. Diese Verantwortung erstreckt sich von der Idee, über die Ausarbeitung, den konzeptionellen Entwurf und der Entwicklung bis zum kommerziellen Erfolg. Die Squads haben volle Freiheit bei der Wahl und Ausübung ihrer Methoden[^3]. Aufgrund ihrer Autonomität gibt es keine Teamleiter in Squads, jedoch gibt es Product Owner, welcher die Prioritäten für die Aufgaben, die von den Squads erledigt werden müssen, vorgibt. Zusätzlich hat jeder Squad einen Agile Coach, welcher hilft, potentielle Hindernisse zu erkennen, sie zu beseitigen und zu der Verbesserung der Arbeitsweisen beiträgt. Zusätzlich dazu organisiert er das "Sprint Planning Meeting" und die "Retrospektive"[^2]. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Tribes
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Ein Tribe ist eine Gruppe von [Squads](#squads), die am gleichen oder an miteinander verbundenen Produkten oder Dienstleistungen arbeiten. Dementsprechend kann die Größe eines Tribes variieren, jedoch ist die Maximalgröße eines Tribes 150 Personen[^2][^3].
+Die Tribes haben einen oder mehrere "Tribe-Leads", welche die Aufgabe haben, für die Squads eine optimale Arbeitsumgebung zu schaffen[^2][^3]. Durch regelmäßige Tribe Meetings werden die Mitglieder eines Tribes über die Arbeit der anderen Squads auf dem Laufenden gehalten[^2].
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Chapters
 
+Ein Chapter ist mit einer Abteilung aus einer "traditionellen Organisation" vergleichbar [^3]. Es ist eine Gruppe, bestehend aus Mitgliedern eines [Tribes](#tribes), welche alle über die gleichen Fachkompetenzen und Expertise verfügen. In Chaptern kommt es unter der Leitung einer Chapter-Führung zum regelmäßigen Austausch zwischen den Mitgliedern über beispielsweise neue themenbezogenen Erfahrungen, die sie gemacht, neues Wissen, das sie erlangt haben oder Herausforderungen, die es auf ihrem Gebiet gibt bzw. denen sie begegnet sind[^2]. Ein Mitglied, das sein [Squad](#squads) wechselt, aber nicht seinen Tribe, bleibt im gleichen Chapter [^3].
 
-# Aspekt 1
+## Guilds
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Guilds sind Gruppen von Mitarbeitern, welche sich Fachwissen oder Interessen teilen. Anders als [Chapters](#chapters) sind sie unabhängig von [Tribes](#tribes), also können sie sich über das ganze Unternehmen erstrecken[^2]. Jeder kann einer Guild jederzeit beitreten und sie auch jederzeit verlassen. Die Teilnahme an einer Guild ist freiwillig[^3]. Guilds greifen in der Regel auf informelle Kommunikationsmethoden zurück[^1]. Regelmäßige Treffen der Guild werden vom "Guild Koordinator" organisiert. An diesen treffen sich alle Mitglieder einer Guild und tauschen sich zu den Themen der Guild aus[^2].
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Umsetzung des Spotify-Modells in klassischen Unternehmen
 
-![Beispielabbildung](Spotify_Projectmanagement_Model/test-file.jpg)
+Obwohl das Spotify-Modell ein agiles Modell ist, kann man Teile davon in klassischen Unternehmen, welche bereits bzw. noch alte Strukturen haben, umsetzten. Klassische Abteilungen kann man aufteilen und aus ihnen [Squads](#squads) bilden, wo bei die Leitung ein Squad aus Führungskräften übernimmt. Jeder Squad wählt einen Repräsentanten des Squads. [Chapters](#chapters) übernehmen die Aufgaben, u.a. Regeln und Normen für z.B. genutzte Technologien zu setzten und zu überwachen. Die Squads werden in passenden [Tribes](#tribes) zusammengefasst, [Guilds](#guilds) werden vorerst in keiner Form umgesetzt. Der Informationsfluss wird der neuen Struktur mit Meetings auf mehreren Ebenen angepasst [^4]. 
 
-*lustiges Testbild*
+![Meetingstruktur](Spotify_Projectmanagement_Model/Meetings.png)[^4]
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Als Letztes muss das Controlling angepasst werden, um die Steuerbarkeit zu erhalten. Dabei gibt es zwei Wege, die eingeschlagen werden können, das "Hard Controlling" mit betriebswirtschaftlichen Kennzahlen und das "Soft Controlling" [^4]. 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Spotify_Projectmanagement_Model.md)
+* [SCRUM](SCRUM.md)
+* [Selbstorganisierende Teams](Selbstorganisierende_Teams.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [WIE KANN MAN DAS SPOTIFY MODELL IN KLASSISCHEN UNTERNEHMEN UMSETZEN?](https://agile-unternehmen.de/spotify-modell-in-klassischen-unternehmen/)
+* [Agile Transformation leicht gemacht: Was wir vom Spotify Modell lernen können und wie es sich von SAFe unterscheidet](https://www.affinis.de/fachartikel/projektmanagement/agile-transformation-leicht-gemacht-was-wir-vom-spotify-modell-lernen-koennen-und-wie-es-sich-von-safe-unterscheidet/)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Spotify Engineering Culture - Part 1](https://www.youtube.com/watch?v=Yvfz4HGtoPc)
+[^2]: [Das Spotify Modell: Agile und Scrum für große Organisationen](https://agilescrumgroup.de/spotify-modell/)
+[^3]: [Das Spotify Model als Blaupause für eine agile Organisation](https://digitaleneuordnung.de/blog/spotify-model/#squads)
+[^4]: [WIE KANN MAN DAS SPOTIFY MODELL IN KLASSISCHEN UNTERNEHMEN UMSETZEN?](https://agile-unternehmen.de/spotify-modell-in-klassischen-unternehmen/)
+
 
