@@ -2,103 +2,100 @@
 title: Selbstorganisierende_Teams
 tags: agil klassisch
 author: IremAkin 
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Selbstorganisierende_Teams um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Ursprünge des agilen Projektmanagements stammen aus dem [Toyota Production System](Toyota_Production_System.md) (TPS). In diesen Unternehmen waren bereits seit den 1950er selbstorganisierende Teams erfolgreich etabliert. 
+Selbstorganisierende Teams sind ein Kernelement in agilen Projekten. Sie haben keinen Manager oder Projektleiter, der für alle entscheidet, sondern das Team übernimmt neben der Verwirklichung und Durchführung auch die Organisation und Entscheidungen innerhalb der Projektdurchführung. Jedoch wird das Team selbst und die Richtlinien für das Projekt fremdbestimmt, denn zu viel Freiraum kann auch zu Misserfolg führen.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Was sind selbstorganisierende Teams? 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Selbstorganisierende Teams sind eine Gruppe von Mitarbeitern die, die Verantwortung für ihre Arbeit und sich selbst übernehmen. Hierbei muss das Team die Aufgaben gemeinsam verteilen. Zudem müssen sie dabei selbst überlegen wie die Aufgaben unterteilt werden können. Im Scrum-Framework wird dafür das [Sprint Planning](Sprint_Planning.md) benutzt. Auch muss das Team die richtige Entscheidung treffen wer für welche Aufgabe geeignet ist. Darüber hinaus überwacht ein selbstorganisiertes Team den Arbeitsfortschritt selbst, dies passiert im Scrum-Framework in den [Dailies](Daily_Scrum.md). Es ist auch die Aufgabe des Teams Probleme selbst zu erkennen und die Teamorganisation zu verbessern, hierzu wird die [Retrospektive](Retrospective.md) im Scrum-Framework genutzt. 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Auch spricht man im agilen Umfeld nicht von Aufgaben, sondern von Kundenanforderungen sogenannten User Stories, welches die Orientierung für das Team sind das Projektziel zu erreichen. Dies wäre beispielsweise eine Aufgabe für den [Product Owner](Product_Owner.md) des selbstorganisierenden Teams. 
+Einen klassischen Projektleiter gibt es nicht, dennoch braucht jedes selbstorganisierende Team einen Coach, dieser ist in [Scrum](Scrum.md) der [Scrum Master](Scrum_Master.md). Er kümmert sich als Initiator, Motivator und Moderator dafür, dass das Team effizient arbeitet, aber auch gemeinsam an einem Strang zieht. 
+Natürlich muss ein Team mir ihren Kompetenzen alle relevanten Bereiche abdecken können, um in der Lage zu sein alle Anforderungen selbständig zu erfüllen. Hierfür muss vom Unternehmen für die Verwirklichung von selbstorganisierenden Teams eine Basis geschaffen werden.[^2]  
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Die Transition zu einem selbstorganisierenden Team
+Um ein selbstorganisiertes Team erfolgreich aufzubauen, braucht es an:
+* Teamarbeit
+* Vertrauen und Respekt 
+* Verpflichtung
+* Kompetenz
+* Kontinuität 
+* Verbesserung 
+* Motivation 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Um jedoch eine Transition von traditionellen zu agilen Prozessen und Strukturen zu verwirklichen ist die Veränderung der ganzen Agilen Onion notwendig. Dafür ist ein Umdenken in Verantwortung und Entscheidungsfindung notwendig. 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+<img src="Selbstorganisierende_Teams/Agile Onion.png" alt="Agile Onion" width="600"/>(vgl.[^3])
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Der Weg zu einem erfolgreichen und selbstorganisierenden Team lässt sich in zwei Phasen einteilen. In der ersten Phase müssen seitens der Unternehmensinhaber gewisse Rahmenbedingungen geschaffen werden. In der zweiten Phase wiederum werden im Dialog mit den Teams die Selbstorganisation weiter ausgebaut. 
 
+* Phase 1: Rahmenbedingungen erstellen
+  - Nicht Notwendige alte, traditionelle Regeln abschaffen 
+  - Die Organisation für die Umstellung oder Erstellung einrichten
+  - Ressourcen zur Verfügung stellen (Projektbudget, Weiterbildung) 
+  - Das Meinungsbild aller in den Prozess mit einbeziehen (Vorgesetzte, Manager, Teams, unterstützende Stellen)
+  - Den Rahmen für Projekte definieren (Zeitlimit)
+  - Die Arbeitsverträge falls erforderlich anpassen 
+  - Die richtigen Mitarbeiter in Teams einteilen 
 
-# Aspekt 1
+* Phase 2: Die Selbstorganisation des Teams
+  - Die Ziele festlegen, WAS möchten und müssen WIR erreichen? 
+  - Das Gerüst mit Inhalt füllen
+  - Anforderungen und Arbeitsweisen verteilen und festlegen
+  - Auch während des Prozesses Zeitlimits gemeinsam setzen 
+  - Aus jedem Projekt Erfahrungen ziehen und sammeln, somit wird mit der Zeit die Selbstorganisation verinnerlicht[^4] 
+ 
+ # Der Unterschied zwischen selbstorganisierenden und traditionellen Teams 
+| Selbstorganisierende Teams          | Traditionelle Teams                     |
+| -------------                       | -------------                           |
+| Selbstkontrolliert                  | Managementkontrolliert                  |
+| Kundenorientiert                    | Managementorientiert                    |
+| Weit verbreitete Informationen      | Informationen sind limitiert            |
+| Mehrfachqualifizierte Arbeitskräfte | Mitarbeiter von isolierten Spezialisten |
+| Geteilte Ziele                      | Separate Ziele                          |
+| Hohes Mittarbeiter-Commitment       | Hohes Management Commitment             |
+| Kontinuierliche Verbesserung        | Inkrementelle Verbesserung              |
+| Werte/prinzipienbasiert             | Richtlinien-/prozessbasiert             | 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+(vgl.[^1])
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Mögliche Einwände gegen eine Transition 
 
-![Beispielabbildung](Selbstorganisierende_Teams/test-file.jpg)
+## Die Erwartungen des Teams an den Scrum Master 
+Wenn ein Team passiv ist und erwartet, dass der Coach oder Scrum Master die Selbstorganisation und die Entscheidungen für sie trifft kann ein selbstorganisierendes Team nicht zustanden kommen. Hierbei ist es wichtig, dass die Teammitglieder verstehen, dass der Scrum Master das Team unterstützt, aber nicht Entscheidungen übernimmt. Dies muss offen kommuniziert werden. Auch kann der Scrum Master selbst Teammitglieder involvieren und als Moderator spezifisch erst nach der Meinung anderer fragen, bevor er seine preisgibt. 
 
-*lustiges Testbild*
+## Dominante Personen setzten sich durch 
+Oft wird befürchtet, dass eine dominante Persönlichkeit seine Meinung dem Team aufzwingt und alle Entscheidungen trifft. In solch einem Fall ist es wichtig, dass der Vorgesetzter aller Teammitglieder, die dominante Person im persönlichen Gespräch auf seine Verhaltensweise aufmerksam macht und oftmals liegt es daran, dass solche Persönlichkeiten ihre Gedanken als eine Entscheidung darstellen, obwohl es ihre Meinung sein muss. Es ist wichtig, dass alle Teammitglieder wachsen und für zukünftige Projekte weitere Kompetenzen und Erfahrungen ansammeln.
+[^5]
 
-# Aspekt 2
+## Fazit 
+Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Teams nicht nur die Projektdurchführung effizient verbessern können und somit auch dem Erfolg des Unternehmens beitragen, sondern auch die Teammitglieder selbst in ihrer eigenen Entwicklung und Selbstverwirklichung weiterbringen. Paradoxerweise ist dennoch die Selbstorganisation erst einmal fremdbestimmt, denn bestimmte Voraussetzungen, Richtlinien und organisatorische Strukturen müssen dennoch vorab geschaffen werden. Dies zeigt auch, dass der Mindset der Führung eine große Rolle dabei spielt ob und wie selbstorganisierende Teams verwirklicht werden können. 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+<img src="Selbstorganisierende_Teams/Agile Manifesto Principle.png" alt="Agile Manifesto Principle" width="600"/>[^1]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Selbstorganisierende_Teams.md)
+* [Toyota Produktionssysteme](Toyota_Produktionssysteme.md)
+* [Sprint Planning](Sprint_Planning.md) 
+* [Daily](Daily_Scrum.md) 
+* [Retrospective](Retrospective.md)
+* [Product Owner](Product_Owner.md)
+* [Scrum Master](Scrum_Master.md) 
+* [Scrum](Scrum.md) 
+* [Bottom up Planning](Bottom_Up_Planning)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Eva-Maria AyberkLisa KratzerLars-Peter Linke: Weil Führung sich ändern muss - Aufgaben und Selbstverständnis in der digitalisierten Welt. Springer Gabler, Wiesbaden 2017, [978-3-658-15258-1](https://doi.org/10.1007/978-3-658-15258-1)
+* Ingo Gaida: Agiles Arbeiten in der Praxis - Wie Unternehmen besser arbeiten und mehr Werte schaffen. Springer Gabler, Berlin, Heidelberg 2021, [978-3-662-63965-8](https://doi.org/10.1007/978-3-662-63965-8) 
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Was sind selbstorganisierende Teams in agilen Projekten? (Roland Wanner)](https://rolandwanner.ch/was-sind-selbstorganisierende-teams-in-agilen-projekten/)
+[^2]: [Series: Agile Teams, Agile Teams I: Aufgaben und Autonomie agiler Teams (Dr.Andreas Kolmer)](https://www.kolmer.one/series/agile-teams/) 
+[^3]: [What is Agile? (Adventures with Agile)](https://www.adventureswithagile.com/2016/08/10/what-is-agile/) 
+[^4]: Eva-Maria AyberkLisa KratzerLars-Peter Linke: Weil Führung sich ändern muss - Aufgaben und Selbstverständnis in der digitalisierten Welt. Springer Gabler, Wiesbaden 2017, [978-3-658-15258-1](https://doi.org/10.1007/978-3-658-15258-1) 
+[^5]: Ingo Gaida: Agiles Arbeiten in der Praxis - Wie Unternehmen besser arbeiten und mehr Werte schaffen. Springer Gabler, Berlin, Heidelberg 2021, [978-3-662-63965-8](https://doi.org/10.1007/978-3-662-63965-8) 
