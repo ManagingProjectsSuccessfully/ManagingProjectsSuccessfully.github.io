@@ -4,11 +4,12 @@ tags: agil scrum artefakte
 author: kutaydogan
 anrechnung: a
 ---
+Es gibt im SCRUM nur 3 Artefakte, die jeweils eine Arbeit oder einen Wert repräsentieren: Das Product Backlog, das Sprint-Backlog und das Produktinkrement. Die Artefakte sollen für maximale Transparenz sorgen und garantieren, dass alle auf demselben Wissensstand sind. Jedes Artefakt hat eine übergeordnete Maxime, die es damit zu erreichen gilt.
 
-Kurzbeschreibung zu Scrum_Artefakte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Artefakt Nr. 1: Product Backlog
+Beim Product Backlog handelt es sich um eine Liste von Produktanforderungen. Die oberste Maxime des Product Backlogs ist das Produkt Ziel. Die Hoheit über den Product Backlog liegt beim Product Owner. Dieser sammelt und ergänzt alle Anforderungen, welche die Stakeholder an das fertige Produkt stellen. Alle Arbeiten, welche die Entwickler durchführen, speisen sich aus diesem Artefakt. Gemeinsam mit den Entwicklern legt der Product Owner fest, welche dieser Anforderungen ins aktuelle Sprint-Backlog übernommen werden, je nach Aufwand, Abhängigkeiten und Priorität. Das Product Backlog ist ein lebendes Dokument, das während der gesamten Produktentwicklung erweitert und verändert wird[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Artefakt Nr. 2: Sprint Backlog
 
 # Scrum Artefakte
 Es gibt im [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und „Produktinkrement“. Diese haben jeweils einen übergeordneten Leitgedanken, der dabei helfen sollen, in allen Ebenen einen Überblick zu behalten.[^1]
@@ -45,6 +46,8 @@ Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team
 
 *Visualisierung der Prozesse nach Artefakten*
 
+
+siehe auch [^3](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgemeinsam-digital.de%2Fprojektmanagement-mit-scrum%2F&psig=AOvVaw2FMe4WNE7SQm5_PhJoYAyq&ust=1637865968173000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiL9LTUsfQCFQAAAAAdAAAAABAT)
 # Siehe auch
 
 * [SCRUM](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
