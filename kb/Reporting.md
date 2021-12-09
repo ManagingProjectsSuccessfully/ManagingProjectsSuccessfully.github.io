@@ -52,7 +52,7 @@ Das Reporting im Kontext des Projektmanagement ist eine etablierte Thematik, wel
 
 # Abkürzungsverzeichnis
 
-E-Bilanz = Elektronische Bilanz
+E-Bilanz = Elektronische Bilanz <br>
 GoB = Grundsätze ordentlicher Buchführung <br>
 KPIs = Key Performance Indicators 
 
