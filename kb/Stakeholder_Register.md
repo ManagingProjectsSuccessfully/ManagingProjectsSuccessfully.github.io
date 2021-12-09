@@ -1,16 +1,108 @@
 ---
 title: Stakeholder_Register
-tags: agil klassisch
+tags: agil klassisch stakeholder register
 author: 21Nila
-anrechnung: k oder a
+anrechnung: k
 ---
+Das **Stakeholder Register** ist ein Werkzeug für die Projektplanung.
 
-Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Inhalte
+1. [Definition](#definition)
+2. [Erstellung eines Registers](#erstellung-eines-registers)  
+3. [Vorteile eines Registers](#vorteile-eines-registers)  
+4. [Siehe auch](#siehe-auch)  
+5. [Quellen](#quellen)
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Definition
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Beim **Stakeholder Register** handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines [Projekts](https://github.com/jonaskarg187/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) haben, sogenannte *Stakeholder*, besitzt. [^1]
+
+# Erstellung eines Registers
+
+Das *Register* wird früh im Planungsprozess von [Projektleitern](https://github.com/IremAkin/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md) angelegt. Die Erstellung eines Registers erfolgt in drei Schritten. [^1] [^2]
+
+## 1. Identifizierung der Stakeholder 
+
+Zunächst müssen die Stakeholder ausfindig gemacht werden. Im Team diskutieren die [Projektmitarbeiter](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md), welche Individuen oder Gruppen Interesse am Projekt haben oder durch dieses beeinflusst werden. 
+Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, sodass das Dokument stets auf dem neuesten Stand gehalten werden muss. [^1]
+
+## 2. Erstellen des Dokuments
+
+Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird häufig *Microsoft Excel* benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt, das Register nach Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2] 
+
+Unabhängig von der Größe des Unternehmens sollte sich jeder Projektleiter aufgrund der Individualität des [Stakeholdermanagements](https://github.com/JonathanLoewing/Abgabe.github.io/blob/main/kb/Stakeholdermanagement.md) selbstständig ein eigenes Register anfertigen. Häufig unterscheiden sich die Kategorien der Tabelle, da von Projekt zu Projekt auf unterschiedliche Sachen Wert gelegt wird.
+Allerdings gibt es auch vorgefertigte Entwürfe, an denen sich orientiert werden kann bzw. die übernommen werden können. [^1]
+
+![Beispiel für ein Register](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")  
+
+*Beispiel für ein Register* [^3]
+
+
+Im Folgenden sind die gängigsten Kategorien aufgelistet [^1] :
+
+* Name des Stakeholders
+* Art von Stakeholder
+* Interne oder Externe
+* Verbindungen oder Abhängigkeiten der Stakeholder
+* Rolle im Projekt
+* Interessen am Projekt
+* Anforderungen an das Projekt
+* Einfluss auf das Projekt
+* Bevorzugte Art & Häufigkeit der Kommunikation
+* Strategien
+
+Weitere Leitsätze, die bei der Erstellung des Registers wichtig zu beachten sind [^2] :
+
+* Fragen, die du von deinen Stakeholdern beantwortet haben willst, sollten im Voraus klar sein, *bevor* das Register erstellt wird.
+* Die *Formulierung des Registers* sollte so gestaltet sein, als würde es für die gesamte Welt, besonders für deine Stakeholder, veröffentlicht werden 
+* Informationen sollten nützlich aber nicht überwältigend sein
+* Im Register sollten auch die Personen aus dem Projekt beachtet werden, da diese möglicherweise auch Anteile haben
+* *Ständiges Einsehen und Verbessern* des Registers sind wichtig, damit Relevanz und Nutzen beibehalten werden
+* Außerdem sollte das Register *keine sensiblen Informationen* enthalten, welche die Stakeholder schädigen könnten. 
+
+Das Dokument sollte mit anderen [Projektdokumentationen](https://github.com/nikl9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektdokumentation.md) aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein. [^2]
+
+## 3. Analyse der Stakeholder
+
+Die [*Stakeholderanalyse*](https://github.com/DanielLu21/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholderanalyse.md) ist der wichtigste Prozess im Erstellungsprozess. 
+Hier wird das Register mit den nötigen Daten ausgefüllt. Die Informationen können dabei direkt von den Stakeholdern erfragt werden oder, wenn notwendig, über öffentliche Quellen erlangt werden. [^1]
+
+# Vorteile eines Registers
+
+Register spielen eine wichtige Rolle im *Stakeholdermanagement*, da sie jede Menge an Vorteilen in der [Projektplanung](https://github.com/MarleneMMeyer/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md) mit sich bringen. 
+
+## Breite Anwendung
+
+Das Register kann vielseitig eingesetzt werden. Es dient neben der Programm/- und Projektplanung zur Teamformung und -entwicklung sowie zum Definieren von Erfolgskriterien, [Projektkommunikation](https://github.com/LindaStu/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md), Regierungsführung und Definieren von Aufgaben und Verantwortung. [^1]
+
+## Bessere Kommunikation
+
+Ein gutes Stakeholder Register hilft bei der Identifizierung der Präferenzen der Stakeholder und ermöglicht eine *effektive Kommunikation*. Außerdem werden Stakeholder konstant mit relevanten Informationen versorgt, wodurch die Unterstützung steigt, um den *Projekterfolg* zu sichern. [^1]
+
+## Fördern des Teamgeists
+
+Aufgrund der Erstellung des Registers im frühen Projektverlauf, werden durch das frühzeitige Einbinden anderer Stakeholder nicht nur Informationen gesammelt, sondern auch das *Selbstbewusstsein* und *Vertrauen* der Projektbeteiligten gestärkt, welches sich im Endprodukt widerspiegelt. [^1]
+
+# Siehe auch
+
+* [Projektmanagement](https://github.com/FCN478/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Projektdokumentation](https://github.com/nikl9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektdokumentation.md)
+* [Projektkommunikation](https://github.com/LindaStu/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md)
+* [Stakeholdermanagement](https://github.com/JonathanLoewing/Abgabe.github.io/blob/main/kb/Stakeholdermanagement.md)
+* [Stakeholderanalyse](https://github.com/DanielLu21/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholderanalyse.md)
+
+# Quellen
+
+[^1]: [What is a Stakeholder Register and how to create a Stakeholder Register? (remote.tools)](https://www.remote.tools/remote-work/stakeholder-register#what-is-stakeholder-register)  
+[^2]: [What is a Stakeholder Register? (projectmanagementacademy)](https://projectmanagementacademy.net/resources/blog/what-is-a-stakeholder-register/)  
+[^3]: [How to Create a Stakeholder Management Plan [+ Templates]](https://www.paymoapp.com/blog/stakeholder-management-plan/)
+
+<!-- * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... -- Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut oben im Front-Matter (Bereich zwischen den `---`). Kurzbeschreibung zu Stakeholder_Register um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+
+ [^2]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
+[^3]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^4]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^5]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -36,9 +128,8 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
-
 # Aspekt 1
-
+ 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
 * Verschiedene Teile eines Themas 
@@ -51,12 +142,13 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 # Aspekt 2
 
+
 * das
 * hier 
 * ist
 * eine 
 * Punkteliste
-  - mit unterpunkt
+  - mit unterpunkt 
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -83,22 +175,4 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 4. ist 
 4. eine
 7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Stakeholder_Register.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+   1. und hier eine Ebene tiefer -->
