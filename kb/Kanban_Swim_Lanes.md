@@ -14,7 +14,7 @@ Kanban Swimlanes sind Abgrenzungen in Form von horizontalen oder vertikalen Zeil
 ## Arten von Swimlanes 
 
 Meist werden Swimlanes verwendet um verschiedene Prozesse voneinander zu trennen. Diese Aufteilung findet nach bestimmten Kriterien statt.
-Generell ist es den Anwendern selbst überlassen, nach welchen Kategorien sie dabei differenzieren. Das Ziel ist es eine übersichtliche Darstellung der aktuellen Aufgaben zu ermöglichen.[^3]
+Generell ist es den Anwendern selbst überlassen, nach welchen Kategorien sie dabei differenzieren. Das Ziel ist es, eine übersichtliche Darstellung der aktuellen Aufgaben zu ermöglichen.[^3]
 #
 ## Beispiele für verschiedene Kategorien
 
@@ -41,7 +41,7 @@ So können einzelne Teammitglieder schnell sehen, welche Aufgaben sie noch zu er
 
 
 ### **Art der Aufgabe**
-Eine weitere beliebte Möglichkeit sein Kanban Board zu unterteilen ist es, die Swimlanes nach dem jeweiligen Aufgabenbereich zu sortieren. Da es in jedem Team  unterschiedliche Segmente eines Projekts gibt, macht es Sinn diese mehrfach zu klassifizieren. Zum Beispiel kann zwischen extern und intern differenziert werden. Anschließend kann dann weiter untergliedert werden. Um die Übersicht zu wahren, sollte hierbei allerdings nicht in mehr als 10 Swimlanes unterteilt werden.[^3]
+Eine weitere beliebte Möglichkeit sein Kanban Board zu unterteilen ist es, die Swimlanes nach dem jeweiligen Aufgabenbereich zu sortieren. Da es in jedem Team  unterschiedliche Segmente eines Projekts gibt, macht es Sinn diese mehrfach zu klassifizieren. Zum Beispiel kann zwischen zwei übergeordneten Kategorien wie extern und intern differenziert und anschließend weiter untergliedert werden. Um die Übersicht zu wahren, sollte hierbei allerdings nicht in mehr als 10 Swimlanes unterteilt werden.[^3]
 
 ### **Wiederkehrende Prozesse**
 Swimlanes können auch genutzt werden, um das Kanban Board in wiederkehrende Prozesse zu unterteilen. Häufig haben Teams wiederkehrende Aufgaben, die in regelmäßigen Abständen erledigt werden müssen. Beispielweise müssen IT-Teams immer wieder Wartungsarbeiten durchführen. Damit diese simplen Arbeitsprozesse nicht vernachlässigt werden, können Swimlanes für einmalige und wiederkehrende Aufgaben erstellt werden. Dies stellt sicher das alle Aufgaben dokumentiert werden und somit die vermeintlich alltäglichen Prozesse nicht in Vergessenheit geraten.[^1][^5]
