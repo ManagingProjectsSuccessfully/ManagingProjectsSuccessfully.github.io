@@ -10,7 +10,7 @@ anrechnung: a
 
 # Überblick
 
-Immer öfter neigen Unternehmen dazu, Projekte anhand des agilen Projektmanagements durchzuführen und sich die dafür erforderlichen Kompetenzen anzueignen. Hintergrund
+Immer öfter neigen Unternehmen dazu, Projekte anhand des **agilen Projektmanagements** durchzuführen und sich die dafür erforderlichen Kompetenzen anzueignen. Hintergrund
 des agilen Managements und deren Kernpunkte sind es, dass es Projekten und Prozessen *breiteren Raum an Flexibilität* bietet. Dies macht es möglich, *schneller und
 effektiver* auf Veränderungen einzugehen.[^1]
 
