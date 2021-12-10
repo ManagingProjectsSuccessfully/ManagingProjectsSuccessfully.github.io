@@ -1,104 +1,85 @@
 ---
 title: Aufwands_Kosten_Kontrolle
-tags: agil klassisch
+tags:  klassisch
 author: Steffi226
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Aufwands_Kosten_Kontrolle um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Kurzbeschreibung:
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Bei der Aufwands- und Kostenkontrolle geht es um den Vergleich der kalkulierten und der tatsächlichen Kosten eines Projekts.
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Was sind Projektkosten
+Projektkosten sind wirtschaftliche Güter, die zur Erbringung einer Projektleistung gebraucht werden. Sie setzen sich aus den finanziellen Mitteln und den verbrauchten Ressourcen zusammen.
+Beispiele hierfür sind Personalkosten, Materialkosten, Kosten für Beratungen und Lizenzen, sowie Kapitalkosten und Reserven für unvorhergesehene Ausgaben.[^1][^2]
+ 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Projektkosten bestimmen
+Wichtig für die Bestimmung der Projektkosten ist die Erstellung eines Projektplans. Dieser ist ein zentraler Bestandteil einer exakten Budgetierung. Ohne das Wissen über die nötigen Arbeitsschritte und den dafür vorgesehenen Material- und Zeitaufwand lässt sich eine Vorab-Kostenrechnung nicht durchführen.
+Die Stundenkontierung und die Rechnungsprüfung sind die wichtigsten Elemente einer zielorientierten Aufwands- und Kostenkontrolle. 
+Mittels der Stundenkontierung werden die angefallenen Entwicklungsstunden jeweils für die Personen, die Aufgabe und die dafür aufgewendete Zeit erfasst und können anschließend in einer Plan/Ist-Tabelle einem Vergleich unterzogen werden. 
+Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Projekt vorgesehenen Budgets zu sichern.[^3]
 
-![Beispielabbildung](Aufwands_Kosten_Kontrolle/test-file.jpg)
 
-*lustiges Testbild*
 
-# Aspekt 2
+# Earned Value Analyse
+Die Earned Value Analysis oder auch Ertragswertanalyse bezieht die Kosten und Leistungen eines Projekts aufeinander und erlaubt so eine präziese Kostenkontrolle.
+Zum Stichtag werden sowohl die Kosten als auch die Leistungen mit den Planwerten verglichen.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+![image](/kb/Aufwands_Kosten_Kontrolle/Kosten_Aufwands_Kontrolle.jpg) [^4]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Die folgenden Kennzahlen benötigt man, um die Projektkosten zu kontrollieren:
+Zur Durchführung der EVA wird zuerst ein Statusdatum festgelegt: entweder das aktuelle Datum oder ein zeitnahes Datum aus der Vergangenheit, beispielsweise aus der vergangenen Woche.
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Aus der Projektplanung entnimmt man folgende Kennzahlen:
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+* Die geplanten Fertigstellungskosten für das Projekt
+* Den geplanten Fertigstellungsgrad, also das geplante Verhältnis der zum Stichtag erbrachten Leistung verglichen mit der Gesamtleistung, die für das Projekt notwendig ist
+Multipliziert man die beiden Werte erhält daraus den geplanten Fertigstellungswert.
 
-### Ebene-3-Überschrift
+Zum Stichtag muss ebenfalls der Ist-Stand erhoben werden:
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+* Die aktuellen Ist-Kosten berechnen sich unter anderem aus den Kosten für Personal, Material, externe Dienstleister und sonstigen Kosten.[^5]
 
-# Aspekt n
+Für die Ertragswertanalyse vergleicht man nun die aktuellen Ist-Kosten mit dem aktuellen Fertigstellungswert. 
+Liegen die Ist-Kosten über dem Fertigungsstellungswert, dann wurden entweder einzelne Schritte in der Kostenplanung nicht bedacht oder vom Aufwand her unterschätzt. [^6][^7]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Für eine genauere Beschreibung siehe: [Earned Value Analyse](Earned_Value_Analyse.md)
+
+# Nutzen der Aufwands- und Kostenanalyse 
+Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Projekt vorgesehenen Budgets zu sichern.
+Meist wird der Arbeitsfortschritt in wöchentlichen Abständen überprüft. Bei Projekten mit einer deutlich längeren Laufzeiten von mehreren Monaten reicht auch ein monatlicher Check.
+Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, nämlich wenn bestimmte Arbeitspakete zu geplanten Meilensteinen abgeschlossen sind. 
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Aufwands_Kosten_Kontrolle.md)
+* [Kosten- Nutzenanalyse](Kosten_Nutzen_Analyse.md)
+* [Meinensteine](Meinelnsteine.md)
+* [Earned Value Analyse](Earned_Value_Analyse.md)
+* [Top_Down_Planning](Top_Down_Planning.md)
+* [Bottom_Up_Planning](Bottom_Up_Planning.md)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.trialta.de/blog/projektstrukturplan-erstellen-0
+[^2]: https://www.akademie.de/de/wissen/kostenplanung-projekte/aufwandsermittlung-kostenschaetzung
+[^3]: https://www.can-do.de/blog/projektkosten-wie-du-übersicht-und-kontrolle-über-deine-ausgaben-behältst
+[^4]: http://www.pm-schluessel.com/index.php?option=com_content&view=article&id=213&Itemid=331 
+[^5]: https://wiki.hslu.ch/controlling/Earned_Value_Analyse#Soll-Kosten_.28Earned_Value_.28EV.29.29
+[^6]: https://www.microtool.de/wissen-online/was-ist-die-earned-value-analyse/
+[^7]: https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html  
+
+
+
+
+
+
+
 
