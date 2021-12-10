@@ -7,7 +7,7 @@ anrechnung: k
 
  # 1. Warum Risikomanagement?
  
-Ob Gesetzesänderungen, Wechselkursschwankungen oder Umweltkatastrophen – Firmen unterliegen, je nach Branche und Unternehmensgröße, diversen Risiken, die mit unterschiedlichen Faktoren zusammenhängen.[^1]
+Ob Gesetzesänderungen, Wechselkursschwankungen oder [Umweltkatastrophen](Risikobewertung_von_Umweltrisiken.md) – Firmen unterliegen, je nach Branche und Unternehmensgröße, diversen Risiken, die mit unterschiedlichen Faktoren zusammenhängen.[^1]
 Dabei versteht man unter einem Risiko die Eintrittswahrscheinlichkeit eines negativen Ereignisses, welches zu einem möglichen Schaden führen kann.[^2]
 
 Es wird zwischen zwei Arten von Risiken unterschieden.
@@ -20,7 +20,7 @@ externe Risiken:
 - äußere Einflüsse, die Unternehmen nicht beeinflussen können
 - z.B.: politische Entscheidungen, Wettbewerbs- und Marktsituationen, Rezession oder Steuererhöhungen[^3]
 
-Zentrale Aufgabe des Risikomanagements ist es diese Risiken so früh wie möglich zu erkennen, um nach umfangreicher Analyse entsprechende zielgerichtete Gegenmaßnahmen definieren und durchführen zu können.
+Zentrale Aufgabe des Risikomanagements ist es diese Risiken so früh wie möglich zu erkennen, um nach umfangreicher [Analyse](Risikoanalyse_und_Visualisierung.md) entsprechende zielgerichtete Gegenmaßnahmen definieren und durchführen zu können.
 
 Im Folgenden soll sich auf das klassische Risikomanagement beschränkt werden.
 
@@ -32,7 +32,7 @@ Seit 2008 gilt die internationale Norm ISO 31000 Risiko Management als weltweit 
 
 1. Risikomanagement wird als Führungsaufgabe verstanden und basiert auf dem Prinzip des PDCA-Zyklus (Plan-Do-Check-Act)
 
-2. Umsetzung des Top-Down-Ansatzes, d.h. der Anstoß zur Umsetzung der zu planenden Maßnahmen kommt von „oben“ und wird in die untergeordneten Hierarchiebereiche einer Organisation transportiert [^5]
+2. Umsetzung des [Top-Down-Ansatzes](Top_Down_Planning.md), d.h. der Anstoß zur Umsetzung der zu planenden Maßnahmen kommt von „oben“ und wird in die untergeordneten Hierarchiebereiche einer Organisation transportiert [^5]
 
 3. Berücksichtigung aller (strategisch/finanziell/operativ/personell/regulatorisch/politisch/technisch) Risiken in einer Organisation [^6]
 
@@ -42,7 +42,7 @@ Seit 2008 gilt die internationale Norm ISO 31000 Risiko Management als weltweit 
 
 - Risikoanalyse mit detaillierter Bestandsaufnahme
 - alle bestehenden und potenziellen Risiken, die das Erreichen der Ziele gefährden können, werden aufgelistet
-- Möglichkeiten: SWOT-Analyse, PEST-Analyse, Checklisten, Frühwarnsysteme
+- Möglichkeiten: SWOT-Analyse, [PEST-Analyse](PEST_Analyse.md), Checklisten, Frühwarnsysteme
 
 Bsp.: SWOT-Analyse
 
@@ -54,7 +54,7 @@ Dann werden die Überschneidungen zwischen externen und internen Bereichen erfas
 - Bewertung anhand Schadensausmaß (1=geringfügiges Ausmaß; 10= existenzgefährdend) und Eintrittswahrscheinlichkeit (1=unwahrscheinlich, 10= sehr wahrscheinlich) z.B. auf einer Skala von 1 bis 10, kann aber auch anders kategorisiert werden (siehe Graphik)
 - Schadensausmaß * Eintrittswahrscheinlichkeit = Schadenserwartungswert
 - Risikodiagramm anfertigen, welches auf der X-Achse die Wahrscheinlichkeit und auf der Y-Achse das Ausmaß zeigt
-- Risiken mittels ermittelten Schadenswert in Matrix eintragen
+- Risiken mittels ermittelten Schadenswert in [Risikomatrix](Risikomatrix.md) eintragen
 somit: visualisierte Darstellung von Rangfolge und Handlungsbedarf der Risiken 
 
 ![Risikomatrix](Risikomanagement/Risikomatrix.jpg)
@@ -69,13 +69,13 @@ Möglichkeiten
 - Risiken akzeptieren (Nulloption), da unvermeidbar/nicht reduzierbar
 - Risiken vermeiden, d.h. potenzieller Gefahrenquellen beseitigen
 - durch vorausschauende Maßnahmen Risiken reduzieren & Eintrittswahrscheinlichkeit verringern
-- Risiken abwälzen bzw. verlagern ([Risikotransfer](Risikotransfer.md)), d.h. Absicherung der (finanziellen) Auswirkungen eines Risikos durch Verlagerung an Personen außerhalb des Projekts
+- Risiken abwälzen bzw. verlagern ([Risikotransfer](Risikotransfer.md)), d.h. Absicherung der (finanziellen) Auswirkungen eines Risikos durch Verlagerung  der [Verantwortlichkeiten](Verantwortlichkeiten.md) an Personen außerhalb des Projekts
 
 ## 4.4. Risikoüberwachung
 
 - kontinuierlicher Prozess der Prüfung auf Effizienz der umgesetzten Maßnahmen ist erforderlich, da sich die Eintrittswahrscheinlichkeit im Laufe der Zeit verschieben kann. 
-- Transparenz gegenüber Stakeholdern ausweisen [^7]
-
+- Transparenz gegenüber [Stakeholdern](Stakeholdermanagement.md) ausweisen [^7]
+- [Lessons learned](Lessons_Learned.md) feststellen und auf zukünftiges Risikomanagement anwenden
 # 5. Fazit
 
 Ob im [Projektmanagement](Projektmanagement.md), Compliance oder Hedging – die Mindmap zeigt, dass die Absicherung gegenüber Risiken jederzeit gewährleistet sein muss, damit Prozesse langfristig erfolgreich ablaufen können und die benötigte Liquidität stets sichergestellt ist:[^8]
@@ -85,7 +85,16 @@ Ob im [Projektmanagement](Projektmanagement.md), Compliance oder Hedging – die
 # Siehe auch
 - [Projektmanagement](Projektmanagement.md)
 - [Risikotransfer](Risikotransfer.md)
-- 
+- [Stakeholdermanagement](Stakeholdermanagement.md)
+- [Risikomatrix](Risikomatrix.md)
+- [PEST-Analyse](PEST_Analyse.md)
+- [Verantwortlichkeiten](Verantwortlichkeiten.md)
+- [Top-Down-Planning](Top_Down_Planning.md)
+- [Risikoanalyse](Risikoanalyse_und_Visualisierung.md)
+- [Risikobewertung von Umweltkatastrophen](Risikobewertung_von_Umweltrisiken.md)
+- [Lessons learned](Lessons_Learned.md)
+
+# Weiterführende Literatur
 
 
 # Quellen
