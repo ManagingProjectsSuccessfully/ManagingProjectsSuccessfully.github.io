@@ -17,10 +17,10 @@ interne Risiken:
 - z.B.: Bereiche wie Produktentwicklung, Marketing, Versicherungen, Vertrieb etc.
 
 externe Risiken:
-- äußere Einflüsse, die Unternehmen nicht beeinflussen kann
+- äußere Einflüsse, die Unternehmen nicht beeinflussen können
 - z.B.: politische Entscheidungen, Wettbewerbs- und Marktsituationen, Rezession oder Steuererhöhungen[^3]
 
-Zentrale Aufgabe des Risikomanagements ist es diese frühmöglich zu erkennen und analysieren, sodass Gegenmaßnahmen definiert werden können. 
+Zentrale Aufgabe des Risikomanagements ist es diese Risiken so früh wie möglich zu erkennen, um nach umfangreicher Analyse entsprechende zielgerichtete Gegenmaßnahmen definieren und durchführen zu können.
 
 Im Folgenden soll sich auf das klassische Risikomanagement beschränkt werden.
 
@@ -38,7 +38,7 @@ Seit 2008 gilt die internationale Norm ISO 31000 Risiko Management als weltweit 
 
 # 4. Ablauf
 
-## 1. Risikoidentifizierung
+## 4.1 Risikoidentifizierung
 
 - Risikoanalyse mit detaillierter Bestandsaufnahme
 - alle bestehenden und potenziellen Risiken, die das Erreichen der Ziele gefährden können, werden aufgelistet
@@ -49,7 +49,7 @@ Bsp.: SWOT-Analyse
 Sie dient der besseren Einschätzung der eigenen Situation im Hinblick auf S=Strenghts, W=Weaknesses, O=Opportunities und T=Threats. Dabei wird die Konkurrenz analysiert und die Ergebnisse als Chancen-Risiken-Katalog zusammengestellt und anschließend in Relation zum internen Profil des Unternehmens gesetzt.
 Dann werden die Überschneidungen zwischen externen und internen Bereichen erfasst und in einer SWOT-Matrix dargestellt, welche die ausbaufähigen Chancen und abzusichernden Risiken zeigt.
 
-## 2. Risikobewertung
+## 4.2 Risikobewertung
 
 - Bewertung anhand Schadensausmaß (1=geringfügiges Ausmaß; 10= existenzgefährdend) und Eintrittswahrscheinlichkeit (1=unwahrscheinlich, 10= sehr wahrscheinlich) z.B. auf einer Skala von 1 bis 10, kann aber auch anders kategorisiert werden (siehe Graphik)
 - Schadensausmaß * Eintrittswahrscheinlichkeit = Schadenserwartungswert
@@ -59,7 +59,7 @@ somit: visualisierte Darstellung von Rangfolge und Handlungsbedarf der Risiken
 
 ![Risikomatrix](Risikomanagement/Risikomatrix.jpg)
 
-## 3. Risikosteuerung
+## 4.3 Risikosteuerung
 
 - notwendige Handlungsmaßnahmen planen & durchsetzen
 - nach Wichtigkeit geordnet müssen zuerst Maßnahmen gegen rote Risiken geplant werden, dann gegen gelbe und grüne Risiken 
@@ -69,20 +69,26 @@ Möglichkeiten
 - Risiken akzeptieren (Nulloption), da unvermeidbar/nicht reduzierbar
 - Risiken vermeiden, d.h. potenzieller Gefahrenquellen beseitigen
 - durch vorausschauende Maßnahmen Risiken reduzieren & Eintrittswahrscheinlichkeit verringern
-- Risiken abwälzen bzw. verlagern, d.h. Absicherung der (finanziellen) Auswirkungen eines Risikos durch Verlagerung an Personen außerhalb des Projekts
+- Risiken abwälzen bzw. verlagern ([Risikotransfer](Risikotransfer.md)), d.h. Absicherung der (finanziellen) Auswirkungen eines Risikos durch Verlagerung an Personen außerhalb des Projekts
 
-## 4. Risikoüberwachung
+## 4.4. Risikoüberwachung
 
 - kontinuierlicher Prozess der Prüfung auf Effizienz der umgesetzten Maßnahmen ist erforderlich, da sich die Eintrittswahrscheinlichkeit im Laufe der Zeit verschieben kann. 
 - Transparenz gegenüber Stakeholdern ausweisen [^7]
 
 # 5. Fazit
 
-Ob im [Projektmanagement](Projektmanagement.md), Compliance oder Hedging – die Mindmap zeigt, dass die Absicherung gegenüber Risiken jederzeit gewährleistet sein muss, damit Prozesse langfristig erfolgreich ablaufen können und die benötigte Liquidität stets sichergestellt ist.[^8]
+Ob im [Projektmanagement](Projektmanagement.md), Compliance oder Hedging – die Mindmap zeigt, dass die Absicherung gegenüber Risiken jederzeit gewährleistet sein muss, damit Prozesse langfristig erfolgreich ablaufen können und die benötigte Liquidität stets sichergestellt ist:[^8]
 
 ![Mindmap](Risikomanagement/Risikomanagement.jpg)
 
-# 6. Quellen
+# Siehe auch
+- [Projektmanagement](Projektmanagement.md)
+- [Risikotransfer](Risikotransfer.md)
+- 
+
+
+# Quellen
 
 [^1]: [Einführung Risiko](https://sevdesk.de/blog/risikomanagement/#definition)
 [^2]: [Begriffserkärung Risiko](https://www.business-wissen.de/hb/ziele-und-aufgaben-des-risikomanagements-im-unternehmen/)
