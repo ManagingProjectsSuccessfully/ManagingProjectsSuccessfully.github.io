@@ -9,7 +9,7 @@ anrechnung:  a
 
 > "Kanban swimlanes are horizontal lines that split a Kanban board into sections. Teams usually use them to visually separate different work types on the same board and organize homogenous tasks together."[^1]
 
-Kanban Swimlanes sind also Abgrenzungen in Form von horizontalen oder vertikalen Zeilen für verschiedene Bereiche eines Projekts. Sie sind Teil der sogenannten [Kanban Methode](https://de.wikipedia.org/wiki/Kanban). Diese wiederum ist eine Form des agilen Projektmanagements.[^2]  
+Kanban Swimlanes sind also Abgrenzungen in Form von horizontalen oder vertikalen Zeilen für verschiedene Bereiche eines Projekts. Sie sind Teil der sogenannten [Kanban Methode](Kanban.md). Diese wiederum ist eine Form des agilen Projektmanagements.[^2]  
 
 ## Arten von Swimlanes 
 
