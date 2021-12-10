@@ -16,9 +16,9 @@ Empowerment ist dabei dem Umfangs- und [Änderungsmanagement](Aenderungsmanageme
 
 Im Allgemeinen betitelt Empowerment Strategien und Maßnahmen, welche den Autonomie- und Selbstbestimmungsgrad von Menschen oder Gemeinschaften steigern. Dabei soll diesen ermöglicht werden, ihre Interessen eigenständig und selbstverantwortlich zu vertreten. Empowerment bezeichnet dabei sowohl den Prozess als auch die professionelle Unterstützung der Emanzipation.[^4]
 
-![Empowerment](Empowerment/Empowerment.jpg)
+![Bildhafte Darstellung von Empowerment](Empowerment/BildhafteDarstellungVonEmpowerment.jpg)
 
-*Abbildung 2: Empowerment als bildhafte Darstellung[^7]*
+*Abbildung 2: Bildhafte Darstellung von Empowerment[^7]*
 
 Im Sinne des Projektmanagements bedeutet Empowerment Macht- und Verantwortungsübertragung an die Mitarbeiter, wodurch ihnen ein höheres Maß an Autonomie, Informationszugang, Entscheidungskompetenz und Mitbestimmung eingeräumt wird. Diese Maßnahmen erlauben Mitarbeitern eigenmächtig über gewisse Budgets, Kulanzleistungen und ihre eigenen Arbeitsabläufe zu entscheiden.[^3]
 
