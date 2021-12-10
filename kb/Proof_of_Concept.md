@@ -9,7 +9,7 @@ Der englische Begriff Proof of Concept (kurz PoC) bezeichnet die Evaluation eine
 
 # Was ist der Proof of Concept und wie läuft er ab?
 
-Proof of Concept bezeichnet das Prüfen eines Konzeptes beziehungsweise eines Projektes auf dessen [Machbarkeit](Machbarkeit.md). Anhand von unterschiedlichen Faktoren wie Investitionsrisiken, Anforderungen an technische Applikationen oder Software, Funktions- und Akzeptanztests wird im Proof of Concept validiert ob das Umsetzungsprojekt durchgeführt werden soll. Er dient also als entscheidendes Planungselement und Entscheidungsbasis für den weiteren Projektverlauf. Mit einem kleinen Projektteam wird die Idee in einem eigenständigen Vorprojekt verprobt, sodass die [Stakeholder](Stakeholder.md) anschließend eine Entscheidung zur Durchführung treffen können. Neben der generellen Durchführungsentscheidung werden bereits viele Erkenntnisse für das Umsetzungsprojekt gewonnen, sodass das Risiko eines späteren Scheiterns sinkt.[^3][^5][^6] 
+Proof of Concept bezeichnet das Prüfen eines Konzeptes beziehungsweise eines Projektes auf dessen [Machbarkeit](Machbarkeit.md). Anhand von unterschiedlichen Faktoren wie Investitionsrisiken, Anforderungen an technische Applikationen oder Software, Funktions- und Akzeptanztests wird im Proof of Concept validiert ob das Umsetzungsprojekt durchgeführt werden soll. Er dient also als entscheidendes Planungselement und Entscheidungsbasis für den weiteren Projektverlauf. Mit einem kleinen Projektteam wird die Idee in einem eigenständigen Vorprojekt verprobt, sodass die [Stakeholder](Stakeholder.md) anschließend eine Entscheidung zur Durchführung treffen können. Neben der generellen Durchführungsentscheidung werden bereits viele Erkenntnisse für das Umsetzungsprojekt gewonnen, sodass das Risiko eines späteren Scheiterns sinkt.[^2][^3][^5][^6] 
 
 Der Proof of Concept ist einer der ersten [Meilensteine](Meilensteine.md) im Projektmanagement und legt den Grundstein für ein erfolgreiches Projekt.
 
@@ -22,7 +22,7 @@ Der Proof of Concept ist einer der ersten [Meilensteine](Meilensteine.md) im Pro
 
 # Proof of Concept in der IT 
 
-Ein klassischer Anwendungsbereich eines Proof of Concepts sind IT-Projekte. Bei komplexen Implementierungsprojekten wird die zu implementierende Software zunächst rudimentär und mit technischen Durchstichen in die bestehende Systemlandschaft integriert. Diese Integration zeigt Abhängigkeiten und Schwierigkeiten zu den Umsystemen auf, die im Umsetzungsprojekt berücksichtigt und beachtet werden müssen. Das Projektteam erhält durch den Proof of Concept eine konkrete Arbeitsbasis, auf die in der Folge aufgesetzt werden kann. In der IT-Sicherheit dienen solche Konzepttests auch dazu, Sicherheitslücken in Betriebssystemen oder Anwendungssoftware nachzuweisen. In stark IT- und datengetriebenen Unternehmen finden sich immer häufiger sogenannte Softlabs wieder. Softlabs sind Organisationseinheiten, die permanent neue Technologien finden und für das Unternehmen nutzbar machen sollen, sozusagen der institutionalisierte PoC.[^1][^5][^6]
+Ein klassischer Anwendungsbereich eines Proof of Concepts sind IT-Projekte. Bei komplexen Implementierungsprojekten wird die zu implementierende Software zunächst rudimentär und mit technischen Durchstichen in die bestehende Systemlandschaft integriert. Diese Integration zeigt Abhängigkeiten und Schwierigkeiten zu den Umsystemen auf, die im Umsetzungsprojekt berücksichtigt und beachtet werden müssen. Das Projektteam erhält durch den Proof of Concept eine konkrete Arbeitsbasis, auf die in der Folge aufgesetzt werden kann. In der IT-Sicherheit dienen solche Konzepttests auch dazu, Sicherheitslücken in Betriebssystemen oder Anwendungssoftware nachzuweisen. In stark IT- und datengetriebenen Unternehmen finden sich immer häufiger sogenannte Softlabs wieder. Softlabs sind Organisationseinheiten, die permanent neue Technologien finden und für das Unternehmen nutzbar machen sollen, sozusagen der institutionalisierte PoC.[^1][^2][^5][^6]
 
 
 # Proof of Concept in der Betriebswirtschaft 
@@ -51,7 +51,8 @@ In unserer digitalisierten Welt wird der technische Fortschritt immer schneller.
 
 * Proof of Concept [https://de.wikipedia.org/wiki/Proof_of_Concept](https://de.wikipedia.org/wiki/Proof_of_Concept)
 * Proof of Konzept: Zeig die Machbarkeit deiner Idee [https://www.avantgarde-experts.de/de/magazin/proof-of-concept/](https://www.avantgarde-experts.de/de/magazin/proof-of-concept/)
-* [What is PoC? Simple explanation!](https://youtu.be/W14-JqBbKKY)
+* What is PoC? Simple explanation!(https://youtu.be/W14-JqBbKKY)
+* Stakeholdermanagement für einen erfolgreichen PoC [https://www.computerwoche.de/a/so-bringen-sie-it-und-fachabteilung-unter-einen-hut,3550423] (https://www.computerwoche.de/a/so-bringen-sie-it-und-fachabteilung-unter-einen-hut,3550423)
 
 
 # Quellen
@@ -59,7 +60,7 @@ In unserer digitalisierten Welt wird der technische Fortschritt immer schneller.
 [^1]: [https://www.it-business.de/was-ist-ein-proof-of-concept-a-666615/](https://www.it-business.de/was-ist-ein-proof-of-concept-a-666615/)
 [^2]: [https://de.wikipedia.org/wiki/Proof_of_Concept](https://de.wikipedia.org/wiki/Proof_of_Concept)
 [^3]: [https://www.businessinsider.de/gruenderszene/lexikon/begriffe/proof-of-concept/](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/proof-of-concept/)
-[^4]: [https://smartbusinessplan.de/businessplan-lexikon/proof-of-concept/]
+[^4]: [https://smartbusinessplan.de/businessplan-lexikon/proof-of-concept/](https://smartbusinessplan.de/businessplan-lexikon/proof-of-concept/)
 [^5]: [https://www.computerwoche.de/a/was-ist-ein-proof-of-concept,3551270](https://www.computerwoche.de/a/was-ist-ein-proof-of-concept,3551270)
 [^6]: [https://nms.de/it-lexikon/artikel/poc-proof-of-concept.html](https://nms.de/it-lexikon/artikel/poc-proof-of-concept.html)
 
