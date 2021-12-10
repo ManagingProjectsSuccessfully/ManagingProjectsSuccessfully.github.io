@@ -21,7 +21,7 @@ Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt. In der Ablauf
 
 ![Abbildung 2 (1)](https://user-images.githubusercontent.com/92942732/143137303-a0aa56e0-2962-4e2a-88be-c13925d9d675.jpg)
 
-*Abb.1 Darstellung eines Graphen* *;* *Abb.2 Darstellung eines vereinfachten Netzplans (rechts)*
+*Abb.2 Darstellung eines vereinfachten Netzplans (rechts)*
 
 ## Arten der Netzplandarstellung
 
