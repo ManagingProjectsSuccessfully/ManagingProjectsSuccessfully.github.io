@@ -24,18 +24,18 @@ Die sind folgende[^3]:
 10. Organise around value
 
 # Agile Release Trains in der SAFe-Struktur - wozu braucht man ARTs?
-Als eine Firma versucht das SAFe Agile Management zu implementieren, ist es wichtig im Prozess für den Erfolg, Value Stream und ARTs zu definieren. Value Stream[^5] ist eine Menge des Werts, die das Unternehmen im Prozess zu den Kunden bringt. Im Vergleich zu Value Stream sind ARTs[^4] (oder Agile Release Trains) Teams, die eine Lösung wie den Wert im Produkt zu implementieren suchen. Diese Teams sind cross-funktional und sind organisiert, um den Wert zu bringen.
+Als eine Firma versucht das SAFe Agile Management zu implementieren, ist es wichtig im Prozess für den Erfolg, [Value Stream](Earned_Value_Analyse.md) und ARTs zu definieren. Value Stream[^5] ist eine Menge des Werts, die das Unternehmen im Prozess zu den Kunden bringt. Im Vergleich zu Value Stream sind ARTs[^4] (oder Agile Release Trains) Teams, die eine Lösung wie den Wert im Produkt zu implementieren suchen. Diese Teams sind cross-funktional und sind organisiert, um den Wert zu bringen.
 
 ## ARTs arbeiten auf diese Prinzipe[^4]
 * Der Plan des ARTs ist fest festgestellt und hat mehrere Teile (Iteration). Wenn das Team ein Element nicht bringen schafft, kann es in der nächsten Teil oder Iteration bringen.
 * Das neue System muss immer jede zweite Woche gebracht werden. 
 * Jedes Team hat das gleiche Programm und deshalb arbeiten alle ARTs in der Synchronisation.
 * Jedes Team hat eine Vorstellung wie viele Elements es bringen kann.
-* Teams sind agile 
+* Teams sind agile und haben [Agilen-Mindset](SAFe_Lean_Agile_Mindset.md)
 * Die Leute, die in ART arbeiten, beschäftigen sich mit ART-Team für volle Zeit. 
-* Das ART-Team hat regelmäßig ein Face-to-Face Treffen, wo sie die PI Planung haben
-* Innovation und Planung (IP) veranstalten immer am Ende einen Teil der PI Planung und sind gemeint, um die Verbesserrung zu bringen
-* Inspektion und Adaptierung (I&A) veranstalten auch immer am Ende der PI Planung und sind gemeint, die aktuelle Situation auszuwerten und mit der Solution-oriented Einstellung zu verbessern
+* Das ART-Team hat regelmäßig ein Face-to-Face Treffen, wo sie die [PI Planung](SAFe_Program_Increment_Planning.md) haben
+* Innovation und Planung (IP) veranstalten immer am Ende einen Teil der [PI Planung](SAFe_Program_Increment_Planning.md) und sind gemeint, um die Verbesserrung zu bringen
+* Inspektion und Adaptierung (I&A) veranstalten auch immer am Ende der [PI Planung](SAFe_Program_Increment_Planning.md) und sind gemeint, die aktuelle Situation auszuwerten und mit der Solution-oriented Einstellung zu verbessern
 * Develop on Cadence, Release on Demand - die Lieferung der Lösung vom ART-Teams kann in jedem Moment sein
 
 ## Organisation um den Wert
@@ -54,17 +54,16 @@ Die Struktur der ART Teams ist zwar nicht fest festgestellt, aber es gibt hier e
 * [System architect](https://www.scaledagileframework.com/system-architect-engineering/) - kann ein Person oder ein Team sein. Er definiziert die allgemeine Struktur des Systems.
 * [Business owner](https://www.scaledagileframework.com/business-owners/) - ist verantwortlich für die Businessergebnisse eines ART-Teams
 
-# Siehe auch
-
-* Ozkan, N. and Tarhan, A. (2019) ‘A Review of Scaling Approaches to Agile Software Development Models’, Software Quality Professional, 21(4), pp. 11–20.
-* Putta, A., Paasivaara, M. and Lassenius, C., 2018, November. Benefits and challenges of adopting the scaled agile framework (SAFe): preliminary results from a multivocal literature review. In International Conference on Product-Focused Software Process Improvement (pp. 334-351). Springer, Cham.
-* One Agile Production (2020) What is an Agile Release Train Engineer (SAFe 5). Available at: [https://www.youtube.com/watch?v=p4MiBPbfxAA](https://www.youtube.com/watch?v=p4MiBPbfxAA) (Accessed: 20 November 2021).
+# Weiterführende Literatur
+* [Ozkan, N. and Tarhan, A. (2019) ‘A Review of Scaling Approaches to Agile Software Development Models’, Software Quality Professional, 21(4), pp. 11–20.](https://www.proquest.com/scholarly-journals/review-scaling-approaches-agile-software/docview/2312156880/se-2?accountid=17203)
+* [Putta, A., Paasivaara, M. and Lassenius, C., 2018, November. Benefits and challenges of adopting the scaled agile framework (SAFe): preliminary results from a multivocal literature review. In International Conference on Product-Focused Software Process Improvement (pp. 334-351). Springer, Cham.](https://link-springer-com.zdroje.vse.cz/chapter/10.1007/978-3-030-03673-7_24)
+* [One Agile Production (2020) What is an Agile Release Train Engineer (SAFe 5). (Accessed: 20 November 2021).](https://www.youtube.com/watch?v=p4MiBPbfxAA)
 
 # Quellen
 
-[^1]: Benefits of SAFe: How it Benefits Organizations (no date) Scaled Agile. Available at: https://scaledagile.com/what-is-safe/scaled-agile-benefits/ (Accessed: 18 November 2021).
-[^2]: © Scaled Agile, Inc. (no date) Agile-Release-Train_F02_web.png (800×336). Available at: https://www.scaledagileframework.com/wp-content/uploads/2018/09/Agile-Release-Train_F02_web.png (Accessed: 20 November 2021).
-[^3]: SAFe Lean-Agile Principles, n.d. . Scaled Agile Framework. URL https://www.scaledagileframework.com/safe-lean-agile-principles/ (accessed 11.24.21).
-[^4]: Agile Release Train, n.d. . Scaled Agile Framework. URL https://www.scaledagileframework.com/agile-release-train/ (accessed 11.17.21).
-[^5]: Alexander, M., 2019. What is SAFe? The Scaled Agile Framework explained. CIO.
+[^1]: [Benefits of SAFe: How it Benefits Organizations (no date) Scaled Agile. (Accessed: 18 November 2021).](https://scaledagile.com/what-is-safe/scaled-agile-benefits/)
+[^2]: [© Scaled Agile, Inc. (no date) Agile-Release-Train_F02_web.png (800×336). (Accessed: 20 November 2021).](https://www.scaledagileframework.com/wp-content/uploads/2018/09/Agile-Release-Train_F02_web.png)
+[^3]: [SAFe Lean-Agile Principles, n.d. . Scaled Agile Framework. (accessed 11.24.21).](https://www.scaledagileframework.com/safe-lean-agile-principles/)
+[^4]: [Agile Release Train, n.d. . Scaled Agile Framework. (accessed 11.17.21).](https://www.scaledagileframework.com/agile-release-train/)
+[^5]: [Alexander, M., 2019. What is SAFe? The Scaled Agile Framework explained. CIO.](https://www.cio.com/article/3434530/what-is-safe-the-scaled-agile-framework-explained.html)
 
