@@ -11,19 +11,20 @@ anrechnung: a
 # Überblick
 
 Immer öfter neigen Unternehmen dazu, Projekte anhand des agilen Projektmanagements durchzuführen und sich die dafür erforderlichen Kompetenzen anzueignen. Hintergrund
-des agilen Managements und deren Kernpunkte sind es, dass es Projekten und Prozessen *breiteren Raum an Flexibilität* bietet, was es möglich macht, *schneller und
+des agilen Managements und deren Kernpunkte sind es, dass es Projekten und Prozessen *breiteren Raum an Flexibilität* bietet. Dies macht es möglich, *schneller und
 effektiver* auf Veränderungen einzugehen.[^1]
 
-Eine Methodik, welche das agile Konzept verfolgt, ist Scrum. Diese hat ihren Ursprung in den *frühen 90er Jahren* und wurde primär als Entwicklungsmethodik für Software
+Eine Methodik, welche das agile Konzept verfolgt, ist [Scrum](SCRUM.md). Diese hat ihren Ursprung in den *frühen 90er Jahren* und wurde primär als Entwicklungsmethodik 
+für Software
 eingeführt.[^2]  
 
 Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^3]. Darunter fallen:
 
-1. Ereignisse
-2. an dem Prozess beteiligte Personen
-3. daraus resultiernde Ergebnisse
+1. **Ereignisse**
+2. an dem Prozess **beteiligte Personen**
+3. daraus **resultiernde Ergebnisse**
 
-Die Agilität von Scrum zeichnet sich dadurch aus, dass der Workflow in zeitlich festgelegte Schritte, sog. Sprints eingeteilt wird.
+Die Agilität von Scrum zeichnet sich dadurch aus, dass der Workflow in zeitlich festgelegte Schritte, sog. [Sprints](Sprint.md) eingeteilt wird.
 
 # Sprints
 
@@ -34,12 +35,14 @@ umgewandelt werden"*[^4].
 
 # Sprint Review
 
-Sprint Retrospective, Sprint Review, [Sprint Planning](Sprint_Planning.md) und [Daily Scrum](Daily_Scrum.md) sind die Bausteine und ergeben zusammen einen Sprint. Dabei 
+[Sprint Retrospective](Sprint_Retrospective.md), Sprint Review, [Sprint Planning](Sprint_Planning.md) und [Daily Scrum](Daily_Scrum.md) sind die Bausteine und ergeben 
+zusammen einen Sprint. Dabei 
 wird immer wieder der gleiche Ablauf
 befolgt, wobei der Sprint Review **vor** der Sprint Retrospective stattfindet[^4].
 
 Während der Phase des Sprint Reviews kommt dann das ganze Scrum Team zusammen, die dort die Möglichkeit haben Feedback zu geben. Diese Gruppe besteht demnach aus dem
-Product Owner, dem Scrum Master und dem Entwickler Team. Zudem sollte idealerweise auch der Stakeholder hinzugezogen werden; dies kann zum Beispiel ein Anwender, ein
+[Product Owner](Product_Owner.md), dem [Scrum Master](Scrum_Master.md) und dem Entwickler Team. Zudem sollte idealerweise auch der Stakeholder hinzugezogen werden; dies 
+kann zum Beispiel ein Anwender, ein
 Manager oder ein Vertreter aus diversen Bereichen sein[^4].
 
 
@@ -48,7 +51,7 @@ Manager oder ein Vertreter aus diversen Bereichen sein[^4].
 Üblicherweise dauert ein solches Meeting circa vier Stunden, sollten die Sprints aber kürzer sein, fällt auch die Dauer der Besprechung dementsprechend knapper aus[^2].
 Was auch bereits im darunterstehenden Bild illustriert wurde, soll im Folgenden noch genauer erläutert werden:
 
-![Beispielabbildung](Sprint_Review/Sprint_Review_Meeting.png)
+![Beispielabbildung](https://blog.objectbay.com/hs-fs/hubfs/Sprint_Review_Meeting.jpg?width=621&name=Sprint_Review_Meeting.jpg)
 
 
 ### Agenda des Meetings[^5]
@@ -71,7 +74,8 @@ Was auch bereits im darunterstehenden Bild illustriert wurde, soll im Folgenden 
   - Hierbei bietet es sich an das Team für seine Arbeit zu loben und einen Dank auszusprechen
   
 * __Änderungen am Product Backlog__
-  - Gegebenenfalls werden dann zusätzlich Änderungen des Product Backlogs, was eine Auflistung aller Anforderungen für ein zu erstellendes Produktes enthält, besprochen
+  - Gegebenenfalls werden dann zusätzlich Änderungen des [Product Backlogs](Product_Backlog.md), was eine Auflistung aller Anforderungen für ein zu erstellendes 
+  Produktes enthält, besprochen
  
 * __Diskussion__
   - Dies wird nicht selten in Form einer Diskussion erarbeitet, in der alle Anwesenden ihre Änderungsvorschläge anbringen können und somit einzelne Teile überarbeitet
