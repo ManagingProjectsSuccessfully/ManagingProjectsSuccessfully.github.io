@@ -4,7 +4,7 @@ tags: Empowerment selbstorganisierende Teams agil klassisch Änderungsmanagement
 author: TobiasZuerrlein
 anrechnung: k
 ---
-Bei herkömmlicher Teamarbeit ist der [Projektleiter](Projektleiter.md) derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für Entscheidungen übernimmt [^6]. Allerdings kann diese Tatsache oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb, auf die Stärkung des gesamten Projektteams überzugehen [^6]. Dabei wird Empowerment von verschiedenen Faktoren geprägt (vgl. Abb. 1)[^2].
+Bei herkömmlicher Teamarbeit ist der [Projektleiter](Projektleiter.md) derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für Entscheidungen übernimmt[^6]. Allerdings kann diese Tatsache oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten[^6]. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb, auf die Stärkung des gesamten Projektteams überzugehen[^6]. Dabei wird Empowerment von verschiedenen Faktoren geprägt (vgl. Abb. 1)[^2].
 
 ![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
 
