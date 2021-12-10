@@ -12,7 +12,7 @@ anrechnung: k
 ## Anwendungsbereiche 
 
 
-[FMEA](https://de.wikipedia.org/wiki/FMEA) Ansätze lassen sich nach den Bereichen differenzieren in dem sie eingesetzt werden. Dies sind weit verbreitetsten Arten:
+[FMEA](https://de.wikipedia.org/wiki/FMEA) Ansätze lassen sich nach den Bereichen differenzieren in denen sie eingesetzt werden. Dies sind weit verbreitetsten Arten:
 #### **Prozess-FMEA**
 Die *Prozess-FMEA* befasst sich mit den Schwachstellen in einem Prozess, um die Effizienz und  Qualität zu steigern. Wird häufig bei der Einführung angewandt, um den potentiellen Erfolg einer Neuerung abzubilden.[^3] 
 #### **Design-FMEA**
