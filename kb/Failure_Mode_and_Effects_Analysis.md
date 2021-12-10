@@ -52,7 +52,7 @@ Anschließend wird durch die Berechnung und Bewertung der **RPN** ein Fazit gebi
 
 # Siehe auch
 
-* [FMEA_Methode](kb/FMEA_Methode.md)
+* [FMEA_Methode](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/FMEA_Methode.md)
 * [Link auf diese Seite](Failure_Mode_and_Effects_Analysis.md)
 
 # Weiterführende Literatur
