@@ -55,6 +55,8 @@ Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Änd
 
 ### Vor- und Nachteile
 
+Es ergeben sich im Rahmen des Extreme Programmings einige Vor- und Nachteile. 
+
 Die Methode kann in der Umsetzung schwierig sein, da das gesamte Team gemeinsam an der aktuellen Aufgabe arbeitet. 
 Diese sollte möglichst einfach gehalten werden und nicht zu kompliziert gestaltet werden.
 Kontinuierliche Kommunikation, hochwertige Arbeit und wenn nötig das Annehmen von Veränderungen, sind dafür erforderlich. [^14]
