@@ -38,7 +38,7 @@ Dieser ist sehr fokussiert auf den Kunden und soll dabei helfen funktionale Test
 Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler. [^9]
 
 
-### Werte
+### Werte der Methode
  
 Die <b> Kommunikation </b> zwischen allen Rollen ist extrem wichtig, um Probleme direkt adressieren zu können. 
 So können Missstände direkt behoben werden und ein permanenter Austausch führt zu gleichem Wissensstand der Entwickler. [^10]
