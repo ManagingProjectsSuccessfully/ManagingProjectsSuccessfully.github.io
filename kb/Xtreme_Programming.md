@@ -72,7 +72,7 @@ Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeins
 * [SCRUMBAN](SCRUMBAN.md)
 * [SCRUM](SCRUM.md)
 * [SCRUM_but](SCRUM_but.md)
-* [Scrum Prinziples](Scrum_Prinziples.md)
+* [Scrum_Prinziples](Scrum_Prinziples.md)
 * [Scrum Values](Scrum_Values.md)
 
 
