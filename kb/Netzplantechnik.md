@@ -49,8 +49,10 @@ Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Netzplantechnik.md)
+* [Link auf diese Seite](Projektplanung.md)
+* [Link auf diese Seite](Kostenplanung.md)
+* [Link auf diese Seite](Projektsteuerung.md)
+* [Link auf diese Seite](Zeitplanung.md)
 
 # Weiterführende Literatur
 
