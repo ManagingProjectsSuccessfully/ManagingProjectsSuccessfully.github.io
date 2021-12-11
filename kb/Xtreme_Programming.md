@@ -30,8 +30,8 @@ Mit jedem kurzen Zyklus werden Verbesserungen vorgenommen, um die Entwicklung de
 Im Extreme Programming ergeben sich feste [Rollen](Rollen_klassisch.md).
 
 | Kunde | Entwickler | Tester | Productowner |
-| --------- | --------- | ------------ |
-
+| ----- | ---------- | ------ |------------- |
+| dsfsdf | dxfhydf | <sdfbydfb |sdygvys |
 
 Der <b> Kunde </b> ist der Auftraggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll. [^6] 
 
