@@ -21,8 +21,13 @@ Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest g
 
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg) 
 
+<style>
+ div.a { 
+	text-align: center;
+}
+ 
 <b> Veranschaulichung des Extreme Programming Prozess </b> [^16]
-
+</style>
 
 ### Rollen  
 
