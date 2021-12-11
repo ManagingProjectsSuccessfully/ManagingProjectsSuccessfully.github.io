@@ -29,7 +29,7 @@ Mit jedem kurzen Zyklus werden Verbesserungen vorgenommen, um die Entwicklung de
 
 Im Extreme Programming ergeben sich feste [Rollen](Rollen_klassisch.md).
 
-| Kriterium | Erklärung | Ko-Kriterium |
+| Kunde | Entwickler | Tester | Productowner |
 | --------- | --------- | ------------ |
 
 
