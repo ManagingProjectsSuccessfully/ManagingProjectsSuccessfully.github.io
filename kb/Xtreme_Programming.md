@@ -29,9 +29,8 @@ Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest g
 }
  
 <div class="a">
-<h1>Veranschaulichung des Extreme Programming Prozess</h1>
+<b>Veranschaulichung des Extreme Programming Prozess</b>
 </div>
-	
 </style>
 </body>
 </html>
