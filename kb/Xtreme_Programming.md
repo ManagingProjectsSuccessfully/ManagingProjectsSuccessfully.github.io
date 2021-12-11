@@ -15,7 +15,7 @@ Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmeth
 
 Extreme Programming ist eine agile, effiziente und mit wenig Risiko verbundene Entwicklungsmethode. [^3]
 
-Wie in Scrum und Kanban, zwei anderen agilen Methoden, wird der Kunde und seine Bedürfnisse in den Mittelpunkt gestellt. [^4]
+Wie in [Scrum und Kanban] (Scrum.md) , zwei anderen agilen Methoden, wird der Kunde und seine Bedürfnisse in den Mittelpunkt gestellt. [^4]
 
 Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, zu besprechen und zu veröffentlichen. [^5]
 
