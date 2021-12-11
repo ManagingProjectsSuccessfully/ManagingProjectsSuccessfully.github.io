@@ -7,17 +7,29 @@ anrechnung: k
 
 Infrastrukturprojekte sind staatliche oder private Vorhaben, die der Verbesserung der technischen oder sozialen Infrastruktur einer Region oder eines Ortes dienen sollen[^1].
 
-# Infrastrukturprojekte und klassisches Projektmanagement
-
-Im Folgenden werden Infrastrukturprojekte am Beispiel des Berliner Flughafens (BER)- ein [öffentliches Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Oeffentliche_Projekte.md)- in Bezug auf das klassische [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) behandelt.
-
 # Arten von Infrastrukturprojekten
 
-Man unterscheidet zwischen privaten- und öffentlichen Infrastrukturprojekten. Beispiele für private Infrastrukturprojekte sind regulierte Wassernetze, [IT-Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/IT-Projekte.md) oder beispielhaft Unternehmen, die aus Abfall Energie gewinnen. Öffentliche Infrastrukturprojekte sind beispielsweise Straßen, Bahnlinien, Radwege, Schifffahrtswege, Bahnhöfe, Flughäfen und Strom- und Wasserleitungen[^2][^3]. 
+Man unterscheidet zwischen privaten- und öffentlichen Infrastrukturprojekten. 
 
-# Grenzen des klassischen Projektmanagement
+private Infrastrukturprojekte: 
+* regulierte Wassernetze
+* [IT-Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/IT-Projekte.md)
+* z.B. Unternehmen, die aus Abfall Energie gewinnen[^2][^3]
+
+öffentliche Infrastrukturprojekte: 
+* Straßen
+* Bahnlinien
+* Radwege
+* Schifffahrtswege
+* Bahnhöfe
+* Flughäfen
+* Strom- und Wasserleitungen[^2][^3]
+
+# Infrastrukturprojekte und klassisches Projektmanagement
 
 Das klassische Projektmanagement zeichnet sich durch ein hohes Maß an Standardisierung und Vorabplanung aus, sodass es genaue zeitliche Vorgaben gibt. Kosten und Ressourcen werden bei der Planung genau festgelegt und berechnet und ein fester Endtermin gibt dem Auftraggeber die benötigte Sicherheit bei der Umsetzung. Diese Vorgehensweise ist vor allem bei Projekten vorteilhaft, die nur von kurzer Dauer sind und gut abgeschätzt werden können. Je größer und komplexer ein [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) wird, desto agiler sollte es durchgeführt werden[^4].
+
+# Grenzen des klassischen Projektmanagement
 
 „*Je mehr du nach Plan arbeitest desto mehr bekommst du das, was du geplant hast aber nicht das, was du brauchst*“[^5].
 
@@ -26,6 +38,8 @@ Klassisches Projektmanagement ist also vor allem geeignet für kleinere, übersi
 Das agile Projektmanagement hingegen zeichnet sich durch eine große Dynamik aus und ersetzt somit die starren Methoden des klassischen Projektmanagements[^6].
 
 Infrastrukturprojekte sind hochkomplexe Bauvorhaben, an denen eine Vielzahl von Beteiligten eingebunden sind. Infrastrukturprojekte sind verschiedensten Einflüssen unterworfen und stehen im Fokus der kritischen Öffentlichkeit. Damit ein Infrastrukturprojekt erfolgreich abgeschlossen werden kann, müssen alle Beteiligten durch Organisation, Planung und Management aufeinander abgestimmt sein um Risiken zu minimieren und den Erfolg des Projekts zu garantieren. Herausforderungen wie politisch vorgegebene Zeitrahmen, gegensätzliche Erwartungen der Interessengruppen, geringes Eigenbudget und daraus entstehender Fördermittelbedarf gilt es zu bewältigen[^7][^8].
+
+## Beispiel Berliner Flughafen BER
 
 Das Problem beim Milliardenprojekt Berliner Flughafen BER waren strategische Fehlentscheidungen, eine dysfunktionale Managementstruktur, Arbeiten mit falschen Ausgangsdaten, überhastete Umsetzung und politische Eitelkeit da der Fokus vor allem auf den Prestigewert des Flughafens gelegt wurde. Hinzu kommen mangelnde Transparenz, Selbstüberschätzung, Regelverstöße, Fehlkommunikation und ein fehlendes Krisenmanagement[^9][^10].
 
