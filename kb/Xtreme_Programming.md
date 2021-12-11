@@ -26,8 +26,9 @@ Mit jedem kurzen Zyklus werden Verbesserungen vorgenommen, um die Entwicklung de
 
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg) 
 	
-### Rollen  
+### Rollen im Projekt
 
+Im Extreme Programming ergeben sich feste [Rollen](Rollen_klassisch.md).
 Der <b> Kunde </b> ist der Auftraggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll. [^6] 
 
 Innerhalb des Entwicklerteams gibt es keine Rollentrennung. Jeder Mitarbeiter wird unabhängig von seinen Fähigkeiten als <b> Entwickler </b> bezeichnet.
