@@ -11,7 +11,7 @@ anrechnung: a
 Extreme Programming, kurz XP, ist die radikalste Umsetzung der agilen Softwareentwicklung. [^1]
 
 Zurückzuführen ist die Methode auf die Softwareentwickler Kent Beck, Ward Cunningham und Ron Jeffries. 
-Die Entwickler wollten sich in den 1990er Jahren deutlich von der Wasserfallmethode abgrenzen, da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte. [^2]
+Die Entwickler wollten sich in den 1990er Jahren deutlich von der [Wasserfallmethode](Wasserfall_Modell.md) abgrenzen, da diese Methode für klassisches Projektmanagement zwar geeignet war, jedoch für Softwareentwicklung diverse Probleme kreierte. [^2]
 
 Extreme Programming ist eine agile, effiziente und mit wenig Risiko verbundene Entwicklungsmethode. [^3]
 
