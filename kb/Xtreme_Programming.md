@@ -22,6 +22,8 @@ Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest g
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg) 
 
 *Abbildung 1 - Extreme Programming Zyklus*[^16] 
+
+
 	
 ### Rollen  
 
@@ -57,10 +59,10 @@ Kontinuierliche Kommunikation, hochwertige Arbeit und wenn nötig das Annehmen v
 
 Wenn das Team jedoch das Framework mit verschiedenen Rollen, Werten, Prinzipien und Techniken anwendet, gibt es viele Vorteile.
 
-Durch das inkrementelle Vorgehen kann das Produkt genau nach Kundenwünschen entwickelt werden und Kosten schnell wieder amortisiert, 
+Durch inkrementelles Vorgehen kann das Produkt genau nach Kundenwünschen entwickelt und Kosten schnell wieder amortisiert werden,
 da beispielsweise eine Software zu einem frühen Zeitpunkt produktiv gehen kann.
 Der Code ist durch testgetriebene Entwicklung stets änderbar, erweiterbar und wird in sehr hoher Qualität erstellt. 
-Entwickler werden von den Erfolgserlebnissen, wenn eine neue Version ausgeliefert werden kann, motiviert und können sich mit dem Code identifizieren. [^15]
+Entwickler werden von den Erfolgserlebnissen motiviert und können sich mit dem Code identifizieren. [^15]
 
 Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeinsamen Verständnis an der aktuellen Aufgabe zusammenarbeitet und das Framework beachtet ist die Methode sehr effizient und Erfolg bringend.
 
