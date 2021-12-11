@@ -31,10 +31,10 @@ Im Extreme Programming ergeben sich feste [Rollen](Rollen_klassisch.md).
 
 | Rolle                               | Aufgaben                             | 
 | ----------------------------------- | ------------------------------------ |
-| Der <b> Kunde </b> ist der Auftraggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll. [^6]  
-| Innerhalb des Entwicklerteams gibt es keine Rollentrennung. Jeder Mitarbeiter wird unabhängig von seinen Fähigkeiten als <b> Entwickler </b> bezeichnet. Diese sind für die Produktentwicklung zuständig.[^7] 
-| Ein großen Teil der Tests innerhalb der Softwareentwicklung übernehmen die Entwickler. Zusätzlich gibt es noch die Rolle des <b> Testers</b>. Dieser ist sehr fokussiert auf den Kunden und soll dabei helfen funktionale Tests zu schreiben, diese regelmäßig durchzuführen und die Ergebnisse offenzulegen. [^8] 
-| Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler. [^9] |
+| Kunde | Der <b> Kunde </b> ist der Auftraggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll. [^6]  
+| Entwickler | Innerhalb des Entwicklerteams gibt es keine Rollentrennung. Jeder Mitarbeiter wird unabhängig von seinen Fähigkeiten als <b> Entwickler </b> bezeichnet. Diese sind für die Produktentwicklung zuständig.[^7] 
+| Tester | Ein großen Teil der Tests innerhalb der Softwareentwicklung übernehmen die Entwickler. Zusätzlich gibt es noch die Rolle des <b> Testers</b>. Dieser ist sehr fokussiert auf den Kunden und soll dabei helfen funktionale Tests zu schreiben, diese regelmäßig durchzuführen und die Ergebnisse offenzulegen. [^8] 
+| Productowner | Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler. [^9] |
 
 
 
