@@ -31,7 +31,7 @@ Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest g
 }
  
 <div class="a">
-<b>Veranschaulichung des Extreme Programming Prozess</b>
+	<b><center>Veranschaulichung des Extreme Programming Prozess</center></b>
 </div>
 </style>
 </body>
