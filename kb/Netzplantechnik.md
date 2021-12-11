@@ -49,10 +49,10 @@ Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen 
 
 # Siehe auch
 
-* [Link auf diese Seite](Projektplanung.md)
-* [Link auf diese Seite](Kostenplanung.md)
-* [Link auf diese Seite](Projektsteuerung.md)
-* [Link auf diese Seite](Zeitplanung.md)
+* [Projektplanung](Projektplanung.md)
+* [Kostenplanung](Kostenplanung.md)
+* [Projektsteuerung](Projektsteuerung.md)
+* [Zeitplanung](Zeitplanung.md)
 
 # Weiterführende Literatur
 
