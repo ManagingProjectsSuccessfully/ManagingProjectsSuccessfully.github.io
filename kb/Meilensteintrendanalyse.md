@@ -26,7 +26,7 @@ Nachdem am Anfang des Projektes die Meilensteine festgelegt werden, folgen im La
 ## Aufbau
 Besonders wirkungsvoll ist die grafische Darstellung der Meilensteine. Dazu wird ein Diagramm erstellt. An der y-Achse werden die geplanten Termine der Meilensteine abgetragen. An der x-Achse werden die tatsächlichen Berichtszeitpunkte eingetragen. Dabei entsteht eine Winkelhalbierende. Idealerweise fallen die geplanten Termine mit den letzten Berichtszeitpunkten zusammen. Das bedeutet, dass der Termin eingehalten wurde. Dies passiert in der Realität aber sehr selten, da Projekte meist schnell in Verzug geraten und auch Gegenmaßnahmen zum Aufhalten der Verzögerung oft nicht ausreichend sind [^6].
 
-![image](https://user-images.githubusercontent.com/92922561/141102712-a9303b9b-83bd-424f-9a6b-8bb75ccfd1aa.png)[^1]
+![image](https://user-images.githubusercontent.com/92922561/141102712-a9303b9b-83bd-424f-9a6b-8bb75ccfd1aa.png) [^1]
 
 ## Analyse
 Die Steigungen des Diagramms haben folgende Bedeutungen:
