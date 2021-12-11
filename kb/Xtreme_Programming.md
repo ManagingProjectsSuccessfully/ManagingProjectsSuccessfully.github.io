@@ -36,6 +36,13 @@ Im Extreme Programming ergeben sich feste [Rollen](Rollen_klassisch.md).
 | <b>Tester</b> | Ein großen Teil der Tests innerhalb der Softwareentwicklung übernehmen die Entwickler. Zusätzlich gibt es noch die Rolle des Testers. Dieser ist sehr fokussiert auf den Kunden und soll dabei helfen funktionale Tests zu schreiben, diese regelmäßig durchzuführen und die Ergebnisse offenzulegen. [^8] 
 | <b>Productowner</b> | Der Productowner übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler. [^9] |
 
+---
+Kunde: aksjnfjaked
+Entwickler: jksdofsef
+Tester: osjednfoweif
+Productowner: poisdjfvwe
+---
+
 
 ### Werte der Methode
  
