@@ -20,6 +20,7 @@ Wie in [Scrum](SCRUM.md) und [Kanban](Kanban.md) , zwei anderen agilen Methoden,
 Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, zu besprechen und zu veröffentlichen. [^5]
 
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
+Veranschaulichung des Extreme Programming Prozess [^16]
 
 
 ### Rollen  
@@ -99,3 +100,8 @@ Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeins
 [^13]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 33
 [^14]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 151
 [^15]: http://www.techsphere.de/pageID=pm03.html
+
+
+### Abbildung
+
+[^16]: http://thedynamicdomain.com/extreme-programming.aspx
