@@ -19,7 +19,9 @@ Wie in [Scrum](SCRUM.md) und [Kanban](Kanban.md) , zwei anderen agilen Methoden,
 
 Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, zu besprechen und zu veröffentlichen. [^5]
 
-![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg) Veranschaulichung des Extreme Programming Prozess [^16]
+![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg) 
+
+<b> Veranschaulichung des Extreme Programming Prozess </b> [^16]
 
 
 ### Rollen  
