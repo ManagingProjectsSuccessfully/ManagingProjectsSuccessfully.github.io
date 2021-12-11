@@ -101,5 +101,4 @@ Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeins
 [^13]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 33
 [^14]: Beck, K. (2000): Extreme Programming explained - Embrace Chance. Massachusetts:  Addison-Wesley. Buch S. 151
 [^15]: http://www.techsphere.de/pageID=pm03.html
-
-Abbildung [^16]: http://thedynamicdomain.com/extreme-programming.aspx
+[^16]: http://thedynamicdomain.com/extreme-programming.aspx (Abbildung)
