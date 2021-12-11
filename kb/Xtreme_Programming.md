@@ -29,7 +29,7 @@ Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest g
  div.a {text-align: center;}
  
 <div class="a">
-	<b><center>Veranschaulichung des Extreme Programming Prozess</center></b>
+	<center><b>Veranschaulichung des Extreme Programming Prozess</b></center>
 </div>
 </style>
 </body>
