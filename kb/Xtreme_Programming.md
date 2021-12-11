@@ -23,6 +23,7 @@ Wie auf der Abbildung zu erkennen, wird in einem Inkrement, Planung, Design und 
 Mit jedem kurzen Zyklus werden Verbesserungen vorgenommen, um die Entwicklung des Produktes möglichst effizient voranzubringen. [^5]
 
 *Abbildung 1 - Extreme Programming Zyklus*[^16]
+
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg) 
 	
 ### Rollen  
