@@ -4,7 +4,6 @@ tags: agil
 author: MillaLena
 anrechnung: a
 ---
-Abhängigkeiten sind Beziehungen zwischen Arbeiten, die die Reihenfolge bestimmen, in der Arbeitselemente abgeschlossen werden müssen. 
 Das Abhängigkeitsmanagement ist der Prozess des aktiven Analysierens, Erkennens, Vorwegnehmens und Verwaltens von Abhängigkeiten zwischen Aufgaben, Personen, Prozessen und Systemen. Ein effektives Abhängigkeitsmanagement trägt dazu bei, die Prozessvariabilität im [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) zu verringern, die durch teaminterne und/oder teamübergreifende Abhängigkeiten verursachten Störungen zu minimieren und die Vorhersagbarkeit zu erhöhen. 
 
 # Abhängigkeitsmanagement und agiles Projektmanagement 
@@ -19,6 +18,9 @@ Das Abhängigkeitsmanagement beinhaltet:
 * Integrieren des Abhängigkeitsmanagements in die [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)- und Durchführung[^3] 
 
 # Abhängigkeiten
+
+Abhängigkeiten sind Beziehungen zwischen Arbeiten, die die Reihenfolge bestimmen, in der Arbeitselemente abgeschlossen werden müssen. 
+
 ## Arten von Abhängigkeiten
 
 Man unterscheidet zwischen internen- und externen Abhängigkeiten, obligatorisch- und diskretionären Abhängigkeiten und anhand des Charakters der Abhängigkeiten. 
