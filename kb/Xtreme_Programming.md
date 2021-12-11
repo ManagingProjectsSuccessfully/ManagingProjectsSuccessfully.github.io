@@ -6,7 +6,7 @@ anrechnung: a
 ---
 
 
-## Was ist Extreme Programming?
+### Was ist Extreme Programming?
 
 Extreme Programming, kurz XP, ist die radikalste Umsetzung der agilen Softwareentwicklung. [^1]
 
@@ -22,7 +22,7 @@ Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest g
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg)
 
 
-## Rollen  
+### Rollen  
 
 Der <b> Kunde </b> ist der Auftraggeber und äußert Wünsche, die von Productowner, Manager und Entwickler zusammen umgesetzt werden soll. [^6] 
 
@@ -35,7 +35,7 @@ Dieser ist sehr fokussiert auf den Kunden und soll dabei helfen funktionale Test
 Der <b> Productowner </b> übernimmt die Verantwortung für das Projekt, organisiert als Leiter die Kommunikation zwischen Kunde und Entwickler. [^9]
 
 
-## Werte
+### Werte
  
 Die <b> Kommunikation </b> zwischen allen Rollen ist extrem wichtig, um Probleme direkt adressieren zu können. 
 So können Missstände direkt behoben werden und ein permanenter Austausch führt zu gleichem Wissensstand der Entwickler. [^10]
@@ -48,7 +48,7 @@ Bei dem Punkt <b> Feedback </b> geht es nicht nur um die Kritik des Kunden, sond
 Unter <b> Mut </b> ist das Eingestehen von Fehlern, Annehmen von Kritik und Ändern von Organisationsstrukturen zu verstehen. [^13]
 
 
-## Vor- und Nachteile
+### Vor- und Nachteile
 
 Die Methode kann in der Umsetzung schwierig sein, da das gesamte Team gemeinsam an der aktuellen Aufgabe arbeitet. 
 Diese sollte möglichst einfach gehalten werden und nicht zu kompliziert gestaltet werden.
@@ -63,7 +63,7 @@ Entwickler werden von den Erfolgserlebnissen, wenn eine neue Version ausgeliefer
 
 Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeinsamen Verständnis an der aktuellen Aufgabe zusammenarbeitet und das Framework beachtet ist die Methode sehr effizient und Erfolg bringend.
 
-## Siehe auch
+### Siehe auch
 
 * [Kanban](Kanban.md)
 * [Kanban Work in Progress](Kanban_Work_in_Progress.md)
@@ -75,14 +75,14 @@ Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeins
 * [Scrum Values](Scrum_Values.md)
 
 
-## Weiterführende Literatur
+### Weiterführende Literatur
 
 * Beck, K. (2004): Extreme Programming explained - Embrace Chance
 * Lippert, M. (2002): Software entwickeln mit eXtreme programming : Erfahrungen aus der Praxis
 * Wolf, H. (2015): Agile Projekte mit Scrum, XP und Kanban
 
 
-## Quellen
+### Quellen
 
 [^1]: https://www.ionos.de/digitalguide/websites/web-entwicklung/extreme-programming/
 [^2]: https://www.agile-heroes.de/magazine/extreme-programming/
