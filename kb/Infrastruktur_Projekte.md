@@ -41,13 +41,13 @@ Infrastrukturprojekte sind hochkomplexe Bauvorhaben, an denen eine Vielzahl von 
 
 ## Beispiel Berliner Flughafen BER
 
-Das Problem beim Milliardenprojekt Berliner Flughafen BER waren strategische Fehlentscheidungen, eine dysfunktionale Managementstruktur, Arbeiten mit falschen Ausgangsdaten, überhastete Umsetzung und politische Eitelkeit da der Fokus vor allem auf den Prestigewert des Flughafens gelegt wurde. Hinzu kommen mangelnde Transparenz, Selbstüberschätzung, Regelverstöße, Fehlkommunikation und ein fehlendes Krisenmanagement[^9][^10].
+Das Problem beim Milliardenprojekt Berliner Flughafen BER waren strategische Fehlentscheidungen, eine dysfunktionale Managementstruktur, Arbeiten mit falschen Ausgangsdaten, überhastete Umsetzung und politische Eitelkeit, da der Fokus vor allem auf den Prestigewert des Flughafens gelegt wurde. Hinzu kommen mangelnde Transparenz, Selbstüberschätzung, Regelverstöße, Fehlkommunikation und ein fehlendes Krisenmanagement[^9][^10].
 
 Es stellt sich die Frage, ob es alternative Methoden zum klassischen Projektmanagement gibt, die Fehler reduzieren, [Planungssicherheit](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Planungssicherheit.md) geben und somit mit weniger Risiken verbunden sind und für komplexe Infrastrukturprojekte geeignet sind. 
 
 # Hybrides Projektmanagement - die Lösung?
 
-Eine Möglichkeit, die Vorteile der klassischen- und agilen Projektmanagement-Methoden zu verbinden, ist das hybride Projektmanagement. Hierbei werden die Struktur-Elemente des klassischen Projektmanagements, hinsichtlich Aufbau- und Ablauforganisation, übernommen und um agile Elemente erweitert. Vor allem bei Großprojekten mit verschiedenen Teilprojekten ist der hybride Ansatz vorteilhaft, da die Teilprojekte entsprechend ihrer Bedürfnisse individuell agil und effizienzsteigernd gesteuert werden können. Die klassischen Elemente bringen wiederum Sicherheit und Struktur und so schafft diese Kombination Effizienz bei der [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)- und Durchführung[^4].(Visualisierung hybrides Projektmanagement siehe Abb.1[^5]).
+Eine Möglichkeit, die Vorteile der klassischen- und agilen Projektmanagement-Methoden zu verbinden, ist das hybride Projektmanagement. Hierbei werden die Struktur-Elemente des klassischen Projektmanagements, hinsichtlich Aufbau- und Ablauforganisation, übernommen und um agile Elemente erweitert. Vor allem bei Großprojekten mit verschiedenen Teilprojekten ist der hybride Ansatz vorteilhaft, da die Teilprojekte entsprechend ihrer Bedürfnisse individuell agil und effizienzsteigernd gesteuert werden können. Die klassischen Elemente bringen wiederum Sicherheit und Struktur und so schafft diese Kombination Effizienz bei der [Projektplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md)- und Durchführung[^4].
 
 ![image](https://github.com/MillaLena/ManagingProjectsSuccessfully.github.io/blob/main/kb/Infrastruktur_Projekte/Grafik_HybridesPM.png)
 
