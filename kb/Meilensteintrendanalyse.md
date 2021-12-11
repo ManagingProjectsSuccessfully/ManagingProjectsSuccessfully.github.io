@@ -36,17 +36,17 @@ Die Steigungen des Diagramms haben folgende Bedeutungen:
 * Fallende Linien: Hier konnte der Termin nicht nur eingehalten werden, sondern der Meilenstein auch frühzeitig abgeschlossen werden. Dies ist sehr von Vorteil, wenn sich zukünftige Termine im Projekt verzögern werden, da ein Zeitfenster geschaffen wurde, der später genutzt werden kann, um bei kommenden Meilensteinen den Zeitplan einhalten zu können [^1].
 
 # Tools zur Anwendung der Meilensteintrendanalyse 
-Obwohl sich die Meilensteinstrendanalyse auch ganz einfach auf dem Papier anwenden lässt, gibt es mittlerweile zahlreiche Excel Add-ons, Tools bei Microsoft Project oder [Cloudbasierte Services](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cloud_Services.md), deren Zweck es ist, den Projektfortschritt professionell zu visualisieren [^7].
+Obwohl sich die Meilensteintrendanalyse auch ganz einfach auf dem Papier anwenden lässt, gibt es mittlerweile zahlreiche Excel Add-ons, Tools bei Microsoft Project oder [Cloudbasierte Services](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cloud_Services.md), deren Zweck es ist, den Projektfortschritt professionell zu visualisieren [^7].
 
 # Siehe auch
 
-* [Meilenstein](https://de.wikipedia.org/wiki/Meilenstein_(Projektmanagement)
+[Meilensteine](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteine.md)
 
 # Weiterführende Literatur
 
 * [Lessons learned: Performance Steuerung beim Projekt-Turnaround](https://link.springer.com/article/10.1365/s12176-006-0529-8)
-* Schreckeneder, B. C. (2013). Projektcontrolling. Projekte überwachen, steuern, präsentieren (4. Aufl.). Freiburg: Haufe-Lexware.
-* Fiedler, R. (2016). Controlling von Projekten. Mit konkreten Beispielen aus der Unternehmenspraxis - Alle Aspekte der Projektplanung, Projektsteuerung und Projektkontrolle (7. Aufl.). Wiesbaden: Springer Fachmedien.
+* [Schreckeneder, B. C. (2013). Projektcontrolling. Projekte überwachen, steuern, präsentieren (4. Aufl.). Freiburg: Haufe-Lexware](https://www.beck-shop.de/schreckeneder-haufe-fachbuch-projektcontrolling-arbeitshilfen-online/product/11853191?utm_source=mediards&utm_medium=affiliate-marketing&utm_campaign=mediards-pretargeting&campaign=Affiliate_Marketing/mediards-pretargeting)
+* [Fiedler, R. (2016). Controlling von Projekten. Mit konkreten Beispielen aus der Unternehmenspraxis - Alle Aspekte der Projektplanung, Projektsteuerung und Projektkontrolle (7. Aufl.). Wiesbaden: Springer Fachmedien](https://link.springer.com/book/10.1007%2F978-3-658-11625-5)
 
 # Quellen
 
