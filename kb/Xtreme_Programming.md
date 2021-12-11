@@ -22,10 +22,8 @@ Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest g
 Wie auf der Abbildung zu erkennen, wird in einem Inkrement, Planung, Design und Coding, sowie Tests durchgeführt. 
 Mit jedem kurzen Zyklus werden Verbesserungen vorgenommen, um die Entwicklung des Produktes möglichst effizient voranzubringen. [^5]
 
+*Abbildung 1 - Extreme Programming Zyklus*[^16]
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg) 
-
-*Abbildung 1 - Extreme Programming Zyklus*[^16] 
-
 	
 ### Rollen  
 
