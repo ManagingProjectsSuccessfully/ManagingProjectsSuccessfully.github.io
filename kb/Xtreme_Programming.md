@@ -17,12 +17,13 @@ Extreme Programming ist eine agile, effiziente und mit wenig Risiko verbundene E
 
 Wie in [Scrum](SCRUM.md) und [Kanban](Kanban.md) , zwei anderen agilen Methoden, wird der Kunde und seine Bedürfnisse in den Mittelpunkt gestellt. [^4]
 
-![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg) 
-*Abbildung 1 - Extreme Programming Zyklus*[^16] 
-
 Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest geplanten Durchführung eines großen Projektes, werden kurze Zyklen verwendet, um den Fortschritt zu prüfen, zu besprechen und zu veröffentlichen.
 Wie auf dem Bild zu erkennen, wird in einem Inkrement, Planung, Design und Coding, sowie Tests durchgeführt. 
 Mit jedem kurzen Zyklus werden Verbesserungen vorgenommen, um die Entwicklung des Produktes möglichst effizient voranzubringen. [^5]
+
+![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg) 
+
+*Abbildung 1 - Extreme Programming Zyklus*[^16] 
 
 	
 ### Rollen  
