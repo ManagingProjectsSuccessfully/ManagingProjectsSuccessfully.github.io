@@ -6,8 +6,6 @@ anrechnung: a
 ---
 
 
-### Was ist Extreme Programming?
-
 Extreme Programming, kurz XP, ist die radikalste Umsetzung der agilen Softwareentwicklung. [^1]
 
 Zurückzuführen ist die Methode auf die Softwareentwickler Kent Beck, Ward Cunningham und Ron Jeffries. 
