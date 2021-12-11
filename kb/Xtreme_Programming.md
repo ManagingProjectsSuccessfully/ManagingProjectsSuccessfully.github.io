@@ -21,7 +21,7 @@ Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest g
 
 ![Beispielabbildung](https://vitolavecchia.altervista.org/wp-content/uploads/2020/05/Extreme-Programming-XP-come-metodologia-di-sviluppo-agile.jpg) 
 
-<html>
+
 <body>
 <style>
  div.a { 
@@ -33,8 +33,7 @@ Es wird von iterativen Prozessen ausgegangen. Anstelle der langfristigen, fest g
 </div>
 </style>
 </body>
-</html>
-	
+
 	
 ### Rollen  
 
