@@ -67,8 +67,14 @@ Extreme Programming ist sehr anspruchsvoll, aber wenn das Team mit einem gemeins
 
 * [Kanban](Kanban.md)
 * [Kanban Work in Progress](Kanban_Work_in_Progress.md)
+* [Kanban_Pull_Prinzip](Kanban_Pull_Prinzip.md)
+* [Kanban_Karten](Kanban_Karten.md)
+* [SCRUMBAN](SCRUMBAN.md)
+* [SCRUM](Scrum.md)
+* [SCRUM_but](SCRUM_but.md)
 * [Scrum Prinziples](Scrum_Prinziples.md)
 * [Scrum Values](Scrum_Values.md)
+
 
 ## Weiterführende Literatur
 
