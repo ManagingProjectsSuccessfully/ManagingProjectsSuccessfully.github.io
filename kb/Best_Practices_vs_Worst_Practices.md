@@ -19,7 +19,7 @@ Best Practices sind bewährte Erfolgsmethoden, welche als allgemein sinnvollste 
 ## Allgemein anerkannte Best Practices 
 
 ### Projektplanung
-Die ausgiebige [Projektplanung](Projektplanung.md) ist als Leitfaden eine zentrale Erfolgsmethode für das Projektmanagement [^7][^8]. Dabei sollen Projektziele "[SMART](https://www.agile-master.de/smart-ziele-projektmanagement/)" festgelegt werden [^9]. Methoden wie die [Projektstrukturplanung](Projektstrukturplan.md), das [Wasserfallmodell](Wasserfall_Modell.md), [SCRUM](SCRUM.md) und die [Netzplantechnik](Netzplantechnik.md) werden dabei häufig herangezogen [^10].
+Die ausgiebige [Projektplanung](Projektplanung.md) ist als Leitfaden eine zentrale Erfolgsmethode für das Projektmanagement [^7][^8]. Dabei sollen Projektziele "SMART" festgelegt werden [^9]. Methoden wie die [Projektstrukturplanung](Projektstrukturplan.md), das [Wasserfallmodell](Wasserfall_Modell.md), [SCRUM](SCRUM.md) und die [Netzplantechnik](Netzplantechnik.md) werden dabei häufig herangezogen [^10].
 
 ### Projektcontrolling
 Ein weiteres Best Practice ist diesen Projektplan durch ein periodisches [Controlling](Projektcontrolling.md) fortlaufend zu kontrollieren und anzupassen, ohne dabei aber zu weit vom ursprünglichen Plan abzuweichen [^9]. [KANBAN](Kanban.md), eine Methode des agilen Projektmanagement, ist nützlich zur Zwischenkontrolle, da Aufgaben in "geplant", "aktiv" und "erledigt" unterteilt werden [^10]. 
@@ -52,7 +52,7 @@ Unausreichende Projektplanung mit unklar definierten und mangelhaft dokumentiert
 Die schlechte Projektplanung wird dann zumeist noch mit einem fehlenden Änderungswesen und dem starren Festhalten an alten Vorgehensweisen kombiniert [^14][^16]. Dies liegt daran, dass Projektteams häufig schwach besetzt sind und keine Erfahrung im Projektmanagement besitzen [^14][^15]. Deshalb wird im Projektverlauf die schlechte Planung meist nicht korrigiert und das Projekt scheitert.
 
 ### Sonstige
-Mangelhafte [Kostenplanung](Kostenplanung.md) und inkonsequentes Risikomanagement sind weitere Worst Practices, welche beispielsweise beim Bau des [Berliner Hauptstadtflughafen](https://de.wikipedia.org/wiki/Flughafen_Berlin_Brandenburg#Bauarbeiten) Probleme verursachten [^14].
+Mangelhafte [Kostenplanung](Kostenplanung.md) und inkonsequentes Risikomanagement sind weitere Worst Practices, welche beispielsweise beim Bau des Berliner Hauptstadtflughafen Probleme verursachten [^14].
 
 Zu viele Projekte gleichzeitig durchführen zu wollen garantiert meistens auch scheiternde Projekte [^21].
 
