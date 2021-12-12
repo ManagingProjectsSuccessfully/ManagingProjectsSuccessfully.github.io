@@ -5,6 +5,8 @@ author: vegas1337
 anrechnung: klassisch
 ---
 
+# Klassische Projektphasen
+
 Eine Projektphase ist "ein definierter Zeitraum innerhalb der Laufzeit eines [Projekts](Projekt.md), der meist durch jeweils einen [Meilenstein](Meilensteine.md) zu Beginn und Ende im Ablaufplan definiert ist".[^1]
 
 Die Einteilung eines Projekts in verschiedene Phasen dient dabei das Projekt (egal ob groß oder klein) übersichtlicher zu machen und dabei die Kontrolle und Qualität zu erleichtern bzw. zu verbessern. Dies wird durch eine verbesserte Projektsteuerung, z.B. die genaue Verteilung von Aufgaben, und erleichterte Erfolgsprüfung dank genauer Definition von Beginn und Abschluss der Aufgaben/Phasen durch Meilensteine gewährleistet.[^2]
@@ -56,6 +58,12 @@ Es beginnt außerdem die Gewährleistungsphase für die Endprodukte. Dazu könne
 
 Weitere Informationen zum Projektabschluss finden Sie [hier](Projektabschluss.md).
 
+## Siehe auch:
+* [Projektlebenszyklus - die Phasen im Projekt (Video)](https://www.youtube.com/watch?v=CSWCDIXKUoQ&ab_channel=Erfolgreich-Projekte-Leiten)
+
+## Weiterführende Literatur:
+* [Crashkurs Projektmanagement: Grundlagen aller Projektphasen](https://www.katalog.fau.de/TouchPoint/singleHit.do?methodToCall=showHit&curPos=2&identifier=2_SOLR_SERVER_2101837480)
+* [Projektmanagement als Führungskonzept (Springer Verlag)](https://link.springer.com/book/10.1007/978-3-642-60144-6)
 
 # Quellen
 
