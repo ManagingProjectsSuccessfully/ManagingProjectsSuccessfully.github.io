@@ -10,11 +10,11 @@ Eine Projektphase ist "ein definierter Zeitraum innerhalb der Laufzeit eines [Pr
 Die Einteilung eines Projekts in verschiedene Phasen dient dabei das Projekt (egal ob groß oder klein) übersichtlicher zu machen und dabei die Kontrolle und Qualität zu erleichtern bzw. zu verbessern. Dies wird durch eine verbesserte Projektsteuerung, z.B. die genaue Verteilung von Aufgaben, und erleichterte Erfolgsprüfung dank genauer Definition von Beginn und Abschluss der Aufgaben/Phasen durch Meilensteine gewährleistet.[^2]
 
 Je nach Quelle und Definition werden klassische Projekte in 4 bis 5 Phasen unterteilt und Schwerpunkt der einzelnen Phasen teilweise auch etwas anders gesetzt. Die Reihenfolge kann sich ändern bzw. können einzelne Schritte im Projekt auch gleichzeitig ausgeführt oder öfter wiederholt werden, bis man zu dem gewünschten Ergebnis kommt.
-Im Folgenden wird ein Modell mit 5 Phasen betrachet[^3]:
+Im Folgenden wird ein Modell mit 5 Phasen betrachtet[^3]:
 
 * Projektvorbereitung
 * Projektplanung
-* Projektdurchfühhrung
+* Projektdurchführung
 * Projektüberwachung
 * Projektabschluss
 
@@ -22,9 +22,9 @@ Im Folgenden wird ein Modell mit 5 Phasen betrachet[^3]:
 
 ## 1. Projektvorbereitung / Projektstart
 
-In dieser ersten Phase wird ein Projekt definiert, Ziele festgelegt und unter anderem Chancen und Risiken diskutiert.[^2] Zusätzlich werden die wichtigsten [Stakeholder](Stakeholderanalyse.md) indentifiziert und das Projekt auf die Umsetzbarkeit und Wirtschaftlichkeit für das ausführende Unternehmen geprüft. Dazu gehören Themen wie die [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md)  oder auch die Ausarbeitung eines Zeitplans.[^3] Dafür kann zum Beispiel die [Methode des kritischen Pfades](Methode_des_kritischen_Pfades.md) angewendet werden.[^9][^4]
+In dieser ersten Phase wird ein Projekt definiert, Ziele festgelegt und unter anderem Chancen und Risiken diskutiert.[^2] Zusätzlich werden die wichtigsten [Stakeholder](Stakeholderanalyse.md) identifiziert und das Projekt auf die Umsetzbarkeit und Wirtschaftlichkeit für das ausführende Unternehmen geprüft. Dazu gehören Themen wie die [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md)  oder auch die Ausarbeitung eines Zeitplans.[^3] Dafür kann zum Beispiel die [Methode des kritischen Pfades](Methode_des_kritischen_Pfades.md) angewendet werden.[^9][^4]
 
-Des Weiteren wird die grobe Planung von benötigten Ressourcen in punkto Arbitskraft oder auch Rohstoffe bzw. Maschinen angegangen. Wichtig ist dabei auch die Beachtung des Ausführungsort des Projekts. Plant man beispielsweise den Bau einer Fabrik in einem anderen Land, so müssen eventuelle rechtliche Bestimmungen zum Thema Arbeitsrecht oder die Einfuhr von Gütern geklärt werden. Hat man keine Rohstoffe und Maschinen vor Ort, müsste man einen möglichen Import dieser Güter in das Zielland auf Rentabilität prüfen. Bei Projekten im IT-Sektor und nicht-physischen Endprodukten entfallen natürlich einige dieser Prüfungsschritte.
+Des Weiteren wird die grobe Planung von benötigten Ressourcen in punkto Arbeitskraft oder auch Rohstoffe bzw. Maschinen angegangen. Wichtig ist dabei auch die Beachtung des Ausführungsort des Projekts. Plant man beispielsweise den Bau einer Fabrik in einem anderen Land, so müssen eventuelle rechtliche Bestimmungen zum Thema Arbeitsrecht oder die Einfuhr von Gütern geklärt werden. Hat man keine Rohstoffe und Maschinen vor Ort, müsste man einen möglichen Import dieser Güter in das Zielland auf Rentabilität prüfen. Bei Projekten im IT-Sektor und nicht-physischen Endprodukten entfallen natürlich einige dieser Prüfungsschritte.
 
 Viele Unternehmen haben auch bestimmte Wert- bzw. Umsatzgrenzen, ab wann ein Projekt von einer höheren Managementebene freigegeben werden muss. Wurden alle Rahmenbedingungen geklärt und der Projektantrag bewilligt, folgt die Projektplanung.[^4] 
 
@@ -39,12 +39,12 @@ Natürlich bergen Projekte unbeachtet ihrer Größe auch immer Risiken. In einem
 Sind alle Aufgaben verteilt und man ist mit dem grundlegenden Planungsprozess fertig, so beginnt die Durchführung des Projekts. Der [Projektleiter](Faehigkeiten_Projektleiter.md) ist verantwortlich dafür, "das Team durch die einzelnen Meilensteine zu führen".[^3] 
 
 In regelmäßigen Projekttreffen des Projektteams werden Informationen über den Status des Projektes ausgetauscht und gegebenenfalls Teile der Planung angepasst. [Statusberichte](Statusreport.md) oder auch die [Kosten-Trend-Analyse](Kosten_Trend_Analyse.md) geben einen Überblick über die aktuelle Sachlage.[^8] Es zeigt sich auch, ob Risiken aus der zweiten Phase eintreten.
-Zusätzlich gewinnt das [Controlling](Projektcontrolling.md) an Wichtigekit, da hierdurch früh unerwünschte Entwicklungen erkannt werden können.
+Zusätzlich gewinnt das [Controlling](Projektcontrolling.md) an Wichtigkeit, da hierdurch früh unerwünschte Entwicklungen erkannt werden können.
 
 ## 4. Projektüberwachung
 
 Diese Phase läuft meist parallel zur Projektdurchführung. Sie beinhaltet das bereits genannte Controlling und die Überwachung von Fristen, Budget und Ressourcen.[^3] 
-Zum Einsatz kommen Methoden wie die [Kanbanmethode](Kanban.md) zur Produktionsprozesssteurung[^10] oder der Plan/Soll/Ist-Vergleich, bei welchem der Projektfortschritt qualitativ und quantitativ analysiert wird.[^11]
+Zum Einsatz kommen Methoden wie die [Kanbanmethode](Kanban.md) zur Produktionsprozesssteuerung[^10] oder der Plan/Soll/Ist-Vergleich, bei welchem der Projektfortschritt qualitativ und quantitativ analysiert wird.[^11]
 
 Es besteht eine ständige Kommunikation zwischen allen relevanten Beteiligten und es wird auf unerwünschte Entwicklungen reagiert und gegengesteuert.[^6]
 
@@ -52,7 +52,7 @@ Es besteht eine ständige Kommunikation zwischen allen relevanten Beteiligten un
 
 Der Auftraggeber kann nun das fertige Projekt abnehmen, sofern alle Qualitätsansprüche und Erwartungen erfüllt wurden.[^6] Oft werden vom Projektteam [Abschlussgespräche](Abschlussanalyse.md) geführt, in welchen die Mitwirkenden rückblickend zusammenfassen, was gut gelaufen ist und wo es Probleme gab. Dafür kann ein [Projektabschlussbericht](Projektabschlussbericht.md) erstellt werden. Die gesammelten Erfahrungen kommen dann den nächsten Projekten und der allgemeinen Performance des Teams zugute. 
 
-Es beginnt außerdem die Gewährleistungsphase für die Endprodprodukte. Dazu können Kunden bei beispielsweise dem Bau von Industrieanlagen zusätzlich Serviceverträge mit dem beauftragten Unternehmen abschließen, um sich eine schnelle, fachgemäße Wartung und Instandhaltung zu sichern.[^4]
+Es beginnt außerdem die Gewährleistungsphase für die Endprodukte. Dazu können Kunden bei beispielsweise dem Bau von Industrieanlagen zusätzlich Serviceverträge mit dem beauftragten Unternehmen abschließen, um sich eine schnelle, fachgemäße Wartung und Instandhaltung zu sichern.[^4]
 
 Weitere Informationen zum Projektabschluss finden Sie [hier](Projektabschluss.md).
 
