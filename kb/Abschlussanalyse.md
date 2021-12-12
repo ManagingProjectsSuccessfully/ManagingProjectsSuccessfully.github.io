@@ -5,9 +5,10 @@ author: medjeara
 anrechnung: k
 ---
 
-Um ein Projekt bewerten zu können gehört dazu eine Abschlussanalyse, um festzustellen, ob das Projekt erfolgreich durchgeführt oder insgesamt das Ziel verfehlt wurde. 
-Die Abschlussanalyse wird wegen ihrer Zielsetzung, nur "Ist"-Informationen eines endgültigen Standes zugrunde zu legen, zumeist erst am Ende aller 
-Entwicklungsaufgaben durchgeführt[^1]. Dieser Beitrag soll aufklären, welche Inhalte für die Abschlussanalyse wichtig sind für die Bewertung des gesamten Projektes.
+Um ein Projekt bewerten zu können gehört dazu eine Abschlussanalyse, um festzustellen, ob das Projekt erfolgreich durchgeführt oder insgesamt das Ziel verfehlt 
+wurde. 
+Die Abschlussanalyse steht meistens am Ende eines Projektsauf dem Plan wegen ihrer Zielsetzung, nur "Ist"-Informationen eines endgültigen Standes zugrunde zu 
+legen[^3]. Dieser Beitrag soll aufklären, welche Inhalte für die Abschlussanalyse wichtig sind für die Bewertung des gesamten Projektes.
 
 Allgemein wird bei einer Abschlussanalyse ein Soll-Ist Abgleich für Projektziele, -ergebnisse, -zeit und -qualität durchgeführt. Des Weiteren wird eine 
 Nachkalkulation und zusätzlich eine Wirtschaftlichkeitsbetrachtung verfasst. Abschließend muss ein Abschlussbericht erstellt und an dem Auftraggeber 
@@ -44,8 +45,8 @@ letztgültigen Planstand nur noch geringe Abweichungen aufweisen würde. Dabei s
 Wirtschaftlichkeit des Projekts gewährleisten zu können.[^3].
 
 ## 5. Abschlussbericht
-Die abschließende Bewertung des Projekts sollte dann anhand von vorab festgelegten Kriterien erfolgen. So kann es beispielsweise sind, dass eine Abweichung von bis 
-zu 10 % bei allen Zielgrößen als “gutes Ergebnis” gesehen wird[^1]. 
+Die abschließende Bewertung des Projekts sollte dann anhand von vorab festgelegten Kriterien erfolgen. Eine Abweichung von bis zu 10 % bei allen Zielgrößen kann 
+zum Beispiel als “gutes Ergebnis” gesehen werden[^1]. 
 
 ## Anwendung im F&E-Bereich
 
