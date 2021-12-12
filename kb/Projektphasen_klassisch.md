@@ -70,7 +70,7 @@ Weitere Informationen zum Projektabschluss finden Sie [hier](Projektabschluss.md
 [^1]: [projektmagazin: Projektphasen](https://www.projektmagazin.de/glossarterm/projektphase)
 [^2]: [ProjectWizards: Wie Sie Projektphasen erfolgreich planen](https://www.projectwizards.net/de/blog/2019/06/project-phases)
 [^3]: [MindManagerBlog: Die fünf Phasen dees Projektmanagement-Prozesses](https://blog.mindmanager.com/de/blog/die-funf-phasen-des-projektmanagement-prozesses/)
-[^4]: Eigene Erfahrung aus Ausbildungsphase bei Finance-Abteilung der Siemens Energy AG in Stuttgart (Faser-Industrie)
+[^4]: Eigene Erfahrung aus Ausbildungsphase bei Finance-Abteilung der Siemens Energy AG Stuttgart
 [^5]: [Wikipedia: Projektstrukturplan](https://de.wikipedia.org/wiki/Projektstrukturplan)
 [^6]: [business-wissen.de: Phasen des Projektmanagements im Überblick](https://www.business-wissen.de/hb/phasen-des-projektmanagements-im-ueberblick/)
 [^7]: [SoftSelect: Erläuterung: Lastenheft vs. Pflichtenheft](http://www.softselect.de/wissenspool/erlaeuterung_lastenheft_vs_pflichtenheft#:~:text=Das%20Lastenheft%20beschreibt%20die%20gesamte,Lastenheft%20gew%C3%BCnschten%20Funktionen%20umgesetzt%20werden.)
