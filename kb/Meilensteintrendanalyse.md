@@ -15,7 +15,7 @@ Die Meilensteintrendanalyse soll den Projektverantwortlichen einen visuellen Üb
 * Können die einzelnen Termine eingehalten werden? [^3].
 
 ## Voraussetzungen
-Um eine erfolgreiche Meilensteintrendanalyse durchzuführen, muss das Projekt zu Beginn in sinnvolle Teilprojekte zerlegt werden und eindeutig definierte Meilensteine festgelegt werden. Dabei müssen die Ziele klar und realistisch gesetzt sein [^4].
+Um eine erfolgreiche Meilensteintrendanalyse durchzuführen, muss das Projekt zu Beginn in sinnvolle Teilprojekte zerlegt und eindeutig definierte Meilensteine festgelegt werden. Dabei müssen die Ziele klar und realistisch gesetzt sein [^4].
 
 ## Einsatzbereiche
 Die Meilensteintrendanalyse kann grundsätzlich bei allen Arten von Projekten angewendet werden. Sie dienen neben der Übersicht für die Interessensgruppen des Projekts auch als Zwischenbericht an das höhere Management [^5]. Außerdem sollte sie bei keinem Projektabschluss fehlen [^6]
@@ -53,8 +53,8 @@ Obwohl sich die Meilensteintrendanalyse auch ganz einfach auf dem Papier anwende
 [^1]: [Die Meilensteintrendanalyse einfach erklärt](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/die-meilensteintrendanalyse-einfach-erklaert/)
 [^2]: [Bär,C./ Fliege,J./ Weiß,M., Anwendungsbezogenes Projektmanagement, 2017 (S.56f.)](https://link.springer.com/book/10.1007/978-3-662-52974-4)
 [^3]: [Excel-Vorlage “Meilensteintrendanalyse”](https://exceltricks.blog/mit-dieser-excel-vorlage-koennen-sie-eine-meilensteintrendanalyse-fuer-ihre-projekte-durchfuehren/)
-[^4]: [Meilensteintrendanalyse](https://www.graduateschools.uni-wuerzburg.de/fileadmin/43030000/GSST/events_and_training_activities/Meilensteintrendanalyse.pdf)
-[^5]: [Meilensteintrendanalyse (MTA)](https://www.controllingportal.de/Marktplatz/Excel-Tools/Meilensteintrendanalyse-MTA.html) 
-[^6]: [Meilensteintrendanalyse](https://www.projektmagazin.de/glossarterm/meilensteintrendanalyse)
+[^4]: [Meilensteintrendanalyse-Universität Würzburg](https://www.graduateschools.uni-wuerzburg.de/fileadmin/43030000/GSST/events_and_training_activities/Meilensteintrendanalyse.pdf)
+[^5]: [Meilensteintrendanalyse-MTA](https://www.controllingportal.de/Marktplatz/Excel-Tools/Meilensteintrendanalyse-MTA.html) 
+[^6]: [Meilensteintrendanalyse-Glossarterm](https://www.projektmagazin.de/glossarterm/meilensteintrendanalyse)
 [^7]: [Meilensteintrendanalyse](https://de.wikipedia.org/wiki/Meilensteintrendanalyse)
 
