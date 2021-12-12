@@ -15,7 +15,7 @@ Im Zuge des [Projektmanagements](Projektmanagement.md) gibt es erfolgreiche [Pro
 ## Definition
 Best Practices sind bewährte Erfolgsmethoden, welche als allgemein sinnvollste Vorgehensweise in einer bestimmten Unternehmenssituation gelten [^2][^3]. Diese lassen sich durch [Benchmarking](Benchmarking.md) -den unternehmensinternen oder unternehmensexternen Vergleich verschiedener Projekte- bestimmen und dann für das eigene Projekt adaptieren [^4][^5]. Jedoch gibt es keine universell anwendbare Vorgehensweise, sondern man muss projektspezifisch entscheiden, welche Best Practice geeignet ist [^3][^6].
 
-## Beispiele
+## Allgemein anerkannte Best Practices 
 
 ### Projektplanung
 Die ausgiebige [Projektplanung](Projektplanung.md) ist als Leitfaden eine zentrale Erfolgsmethode für das Projektmanagement [^7][^8]. Dabei sollen Projektziele "[SMART](https://www.agile-master.de/smart-ziele-projektmanagement/)" festgelegt werden [^9]. Methoden wie die [Projektstrukturplanung](Projektstrukturplan.md), das [Wasserfallmodell](Wasserfall_Modell.md), [SCRUM](SCRUM.md) und die [Netzplantechnik](Netzplantechnik.md) werden dabei häufig herangezogen [^10].
@@ -41,7 +41,7 @@ Ein einleitendes Kick-off-Meeting ist ein Best Practice, da es als [Startschuss]
 ## Definition
 Im Gegensatz zu Best Practices bezeichnen Worst Practices ineffiziente Vorgehensweisen, welche schlimmstenfalls zum [Abbruch](Projektabbruch.md) eines Projekts führen [^3][^16]. Jedoch können diese Fehler einen Lernprozess einleiten und führen bestenfalls zu neuen Best Practices [^3].
 
-## Beispiele
+## Die häufigsten Worst Practices
 
 ### Projektkommunikation
 Eine der häufigsten Worst Practices ist schlechte [Kommunikation](Projektkommunikation.md) zwischen den Projektbeteiligten [^17]. Insbesondere werden dabei Anforderungen von der Projektleitung nicht klar vermittelt und das Team bekommt kein klares Verständnis für das Projekt [^1][^18].
