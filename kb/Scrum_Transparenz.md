@@ -36,29 +36,29 @@ Scrum-Transparenz (aus englisch ,,Scrum Transparency“) bildet neben [Scrum-Üb
 
 In einem Prozess kann es öfters vorkommen, dass der Prozess nicht richtig, fehlerhaft oder zu langsam abläuft. Grund hierfür sind unter anderem falsch definierte Ziele, ein Missverstehen von Informationen und Begrifflichkeiten, fehlende Kommunikation oder auch ein nicht explizit erklärter aktueller Überblick.
 
-Aufgrund der oben genannten Probleme ist die Transparenz in Scrum eine wichtige Säule, um diese zu verhindern. Da sich Scrum als ein Prozess-Framework zur Lösung komplexer, anpassungsfähiger Probleme versteht, ist es wichtig, dass alle Prozesse transparent ablaufen,sodass man einen Überblick über sie haben kann [^2].
+Aufgrund der oben genannten Probleme ist die Transparenz in Scrum eine wichtige Säule, um diese zu verhindern. Da sich Scrum als ein Prozess-Framework zur Lösung komplexer, anpassungsfähiger Probleme versteht, ist es wichtig, dass alle Prozesse transparent ablaufen, sodass man einen Überblick über sie haben kann [^2].
 
 
 # 2. Definitionen und Merkmale
-Offene Kommunikation und das Teilen von Wissen sind die Grundlagen für Scrum-Transparenz [^1]. Alle Informationen, die für das Ergebnis der Produktentwicklungen relevant sind, müssen für alle an der Produktentwicklung beteiligten Personen transparent sein. Das kann mehrere Aspekte umfassen, wie zum Beispiel die verwendeten Begriffe, die zu erreichende Ziele und Anforderungen oder die Fortschrittsinformationen [^2]. Im Folgenden werden diese drei Beispiele erläutert.
+Offene Kommunikation und das Teilen von Wissen sind die Grundlagen der Scrum-Transparenz [^1]. Alle Informationen, die für das Ergebnis der Produktentwicklung relevant sind, müssen für alle an der Produktentwicklung beteiligten Personen transparent sein. Das kann mehrere Aspekte umfassen, wie zum Beispiel die verwendeten Begriffe, die zu erreichenden Ziele und Anforderungen oder die Fortschrittsinformationen [^2]. Im Folgenden werden diese drei Beispiele erläutert.
 
 
 
 ## 2.1	Begrifflichkeiten
 
- Ein Wort kann von mehreren Personen unterschiedlich wahrgenommen werden oder auf eigene Art und Weise interpretiert werden. Wenn man nicht von Anfang an die Begriffsdefinition spezifiziert hat, kann es zu Missverständnissen kommen. Als Beispiel kann man die Bedeutung vom Verhältnis ,,Done“ betrachten. Ab wann genau ein Prozess als ,,erledigt“ zu bezeichnen ist, muss ebenso in einer ,,gemeinsamen Prozesssprache“ festgelegt werden. Das heißt die Anforderungen müssen eindeutig sein, sodass jeder versteht was darunter gemeint ist [^1].
+ Ein Wort kann von mehreren Personen unterschiedlich wahrgenommen werden oder auf eigene Art und Weise interpretiert werden. Wenn man nicht von Anfang an die Begriffsdefinition spezifiziert hat, kann es zu Missverständnissen kommen. Als Beispiel kann man die Bedeutung vom Verhältnis ,,Done“ betrachten. Ab wann genau ein Prozess als ,,erledigt“ zu bezeichnen ist, muss ebenso in einer ,,gemeinsamen Prozesssprache“ festgelegt werden. Das heißt, die Anforderungen müssen eindeutig sein, sodass jeder versteht, was darunter gemeint ist [^1].
 
 ## 2.2	Ziele und Anforderungen
 
-,,We all know what is going on” [^3]. Damit die Arbeit im Team ohne Fehlvorstellungen durchläuft, ist es wichtig, dass jeder Teilnehmer, Mitwirkende, der CEO und der Kunde wissen genau was ihre Ziele sind, was sie erreichen wollen und was die anzustrebenden Anforderungen sind. Jeder strebt nach dem gemeinsamen Ziel und alle arbeiten kollektiv und transparent zusammen, wobei niemand versteckte Ziele hinter dem Prozess hat.
+,,We all know what is going on” [^3]. Damit die Arbeit im Team ohne Fehlvorstellungen verläuft, ist es wichtig, dass jeder Teilnehmer, Mitwirkende, der CEO und der Kunde genau wissen was ihre Ziele sind, was sie erreichen wollen und was die anzustrebenden Anforderungen sind. Jeder strebt nach dem gemeinsamen Ziel und alle arbeiten kollektiv und transparent zusammen, wobei niemand versteckte Ziele hinter dem Prozess hat.
 
 ## 2.3	Aktuelle Fortschrittsinformationen
 
-Damit die konsistente Arbeit gesichert wird, muss jeder Mitarbeiter, der CEO und vor allem der Kunde immer wissen, was der neuste Stand des Prozesses ist, was die Neuigkeiten sind und welche Verbesserungspotenziale noch existieren. Alle aus dem Team vertrauen einander und haben den Mut, sich gegenseitig über gute und schlechte Nachrichten auf dem Laufenden zu halten. Ein geeignetes Beispiel ist das [*Daily Scrum*](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md)-was ein 15-minütiges Meeting für das Scrum-Meeting ist, wo sie miteinander über den neuen Stand kommunizieren, planen oder Informationen teilen können. [^4]
+Damit die konsistente Arbeit gesichert wird, muss jeder Mitarbeiter, der CEO und vor allem der Kunde immer wissen, was der neueste Stand des Prozesses ist, was die Neuigkeiten sind und welche Verbesserungspotenziale noch existieren. Alle aus dem Team vertrauen einander und haben den Mut, sich gegenseitig über gute und schlechte Nachrichten auf dem Laufenden zu halten. Ein geeignetes Beispiel ist das ,,[*Daily Scrum*](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md)", welches ein 15-minütiges Meeting für das Scrum-Team ist, in dem sie gemeinsam den aktuellen Stand besprechen, planen oder Informationen teilen können[^4].
 
 # 3. Fazit
 
-Zusammenfassend lässt sich sagen, dass Scrum-Transparenz eine wichtige Voraussetzung für eine konsistente, widerspruchsfreie und transparente Arbeit ist, welche dementsprechend den Prozess erleichtert, eine Übersicht gewährleistet und die eindeutige Kommunikation zwischen den Teilnehmer sichert.
+Zusammenfassend lässt sich sagen, dass die Scrum-Transparenz eine wichtige Voraussetzung für eine konsistente, widerspruchsfreie und transparente Arbeit ist und diese dementsprechend den Prozess erleichtert, eine Übersicht gewährleistet und die eindeutige Kommunikation zwischen den Teilnehmern sichert.
 
 
 # Siehe auch
