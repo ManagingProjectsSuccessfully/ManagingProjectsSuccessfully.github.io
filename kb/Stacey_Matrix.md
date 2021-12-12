@@ -54,7 +54,7 @@ Eine der größten Kritiken an der Stacey-Matrix ist, dass sie zu schnell fehlin
 [^3]: [Stacey-Matrix](https://www.projektmagazin.de/glossarterm/stacey-matrix)
 [^4]: [Ganz einfach die richtige Projektmanagement-Methode finden](https://erfolgreich-projekte-leiten.de/stacey-matrix/)
 [^5]: [Vorsicht vor der Stacey Matrix! Die trügerische Sicherheit bei der Entscheidung für agile Frameworks](https://www.netzwerkknoten.com/vorsicht-vor-der-stacey-matrix-die-truegerische-sicherheit-bei-der-entscheidung-fuer-agile-frameworks)
-[^6]: [Stacey_Matrix](https://www.researchgate.net/figure/Stacey-Matrix-Stacey-1996-adapted-to-software-development_fig3_336899045)
+[^6]: [Stacey_Matrix (Image)](https://www.researchgate.net/figure/Stacey-Matrix-Stacey-1996-adapted-to-software-development_fig3_336899045)
 [^7]: [Der Fluch der Vier-Felder-Matrix](https://www.linkedin.com/pulse/der-fluch-vier-felder-matrix-niels-pflaeging)
 
 
