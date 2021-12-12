@@ -5,7 +5,7 @@ author: TommiMueller
 anrechnung: k
 ---
 # Best Practices vs. Worst Practices
-Im Zuge des [Projektmanagements](Projektmanagement.md) gibt es erfolgreiche [Projekte](Projekt.md) und weniger erfolgreiche Projekte. Hierbei gibt es [Methoden](Methoden.md), die einen erfolgreichen [Projektabschluss](Projektabschluss.md) garantieren (sogenannte [Best Practices](Best_Practices.md)). Im Gegensatz dazu gibt es aber auch Methoden, womit ein komplettes Projekt in den Sand gesetzt werden kann (2015 waren dies in der CHAOS-Studie knapp 20% der IT-Projekte)[^1]. Diese werden [Worst Practices](Worst_Practices.md) genannt.
+Im Zuge des [Projektmanagements](Projektmanagement.md) gibt es erfolgreiche [Projekte](Projekt.md) und weniger erfolgreiche Projekte. Hierbei gibt es [Methoden](Methoden.md), die einen erfolgreichen Projektabschluss garantieren (sogenannte [Best Practices](Best_Practices.md)). Im Gegensatz dazu gibt es aber auch Methoden, womit ein komplettes Projekt in den Sand gesetzt werden kann (2015 waren dies in der CHAOS-Studie knapp 20% der IT-Projekte)[^1]. Diese werden Worst Practices genannt.
 
 ![Abbildung](Best_Practices_vs_Worst_Practices/Unbenanntes-Bild.png)
 
@@ -28,13 +28,13 @@ Eine weitere Erfolgsmethode ist das Bereitstellen einer qualifizierten **[Projek
 
 Gutes **[Risikomanagement](Risikomanagement.md)** ist ein weiteres Best Practice [^9]. Das gesamte Projektteam muss Risiken und ihre Auswirkungen auf das Projekt durchgehend analysieren und gegebenenfalls schnellstmöglich effiziente Gegenmaßnahmen einleiten [^14]. Die Methoden der [Meilensteintrendanalyse](Meilensteintrendanalyse.md) und der [Risikoanalyse](Risikoanalyse_und_Visualisierung.md) eignen sich besonders zur Risikominimierung [^10]. Des Weiteren minimiert der 3rd-Party-Ansatz das Risiko durch die Zusammenarbeit mit erfahrenen externen Projektmanagern[^15].
 
-Ein einleitendes Kick-off-Meeting als **[Projektstart](Projektstart.md)** ist ein Best Practice, da es als Startschuss mit motivierender Wirkung agiert [^9].
+Ein einleitendes Kick-off-Meeting als **Projektstart** ist ein Best Practice, da es als Startschuss mit motivierender Wirkung agiert [^9].
 
 
 # Worst Practices
 
 ## Definition
-Im Gegensatz zu Best Practices bezeichnen Worst Practices ineffiziente Vorgehensweisen, welche schlimmstenfalls zum [Abbruch](Projektabbruch.md) eines Projekts führen [^3][^16]. Jedoch können diese Fehler einen Lernprozess einleiten und führen bestenfalls zu neuen Best Practices [^3].
+Im Gegensatz zu Best Practices bezeichnen Worst Practices ineffiziente Vorgehensweisen, welche schlimmstenfalls zum Abbruch eines Projekts führen [^3][^16]. Jedoch können diese Fehler einen Lernprozess einleiten und führen bestenfalls zu neuen Best Practices [^3].
 
 ## Die häufigsten Worst Practices
 
@@ -71,9 +71,7 @@ Während erfolgreiche Projekte ausgiebig geplant und fortlaufend mit klarer Doku
 * [Projektmanagement](Projektmanagement.md)
 * [Projekte](Projekt.md)
 * [Methoden](Methoden.md)
-* [Projektabschluss](Projektabschluss.md)
 * [Best Practices](Best_Practices.md)
-* [Worst Practices](Worst_Practices.md)
 * [Benchmarking](Benchmarking.md)
 * [Projektplanung](Projektplanung.md)
 * [SMART](https://www.agile-master.de/smart-ziele-projektmanagement/)
@@ -89,8 +87,6 @@ Während erfolgreiche Projekte ausgiebig geplant und fortlaufend mit klarer Doku
 * [Risikomanagement](Risikomanagement.md)
 * [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 * [Risikoanalyse](Risikoanalyse_und_Visualisierung.md)
-* [Projektstart](Projektstart.md)
-* [Projektabbruch](Projektabbruch.md)
 * [Projektkommunikation](Projektkommunikation.md)
 * [Kostenplanung](Kostenplanung.md)
 * [Berliner Hauptstadtflughafen](https://de.wikipedia.org/wiki/Flughafen_Berlin_Brandenburg#Bauarbeiten)
