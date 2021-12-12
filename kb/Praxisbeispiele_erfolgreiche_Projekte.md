@@ -49,7 +49,7 @@ Ein Flugzeug der American Airlines.[^11]
 [^3]: [Erdrotation: Wieviel Einfluss hat der Drei-Schluchten-Damm?](https://www.mz.de/panorama/erdrotation-wieviel-einfluss-hat-der-drei-schluchten-damm-2292042)
 [^4]: [NTV: Energierekord am Drei-Schluchten-Damm](https://www.n-tv.de/wirtschaft/Energierekord-am-Drei-Schluchten-Damm-article14247201.html)
 [^5]: [Das sind die größten Kraftwerke der Welt](https://www.handelsblatt.com/technik/energie-umwelt/circular-economy/wasser-wind-kohle-atom-das-sind-die-groessten-kraftwerke-der-welt/14849820.html?ticket=ST-3508956-DO6yaiY0yaqKcLYJpJOx-cas01.example.org)
-[^6]: [Der Drei-Schluchten-Stausee gibt fast 90% seiner Kapazität zum Hochwasserschutz frei](http://german.china.org.cn/txt/2021-06/03/content_77546264.html)
+[^6]: [Der Drei-Schluchten-Stausee gibt fast 90% seiner Kapazität zum Hochwasserschutz frei](http://german.china.org.cn/txt/2021-06/03/content_77546264.htm)
 [^7]: [Project Report on Merger of American airlines and US airlines](https://de.slideshare.net/reenasisodiya10/project-report-on-merger-of)
 [^8]: [RND: Die größten Fluggesellschaften der Welt](https://www.rnd.de/reise/iata-ranking-das-sind-die-25-groessten-airlines-der-welt-LDHUXKVAC5FCJLHKY2JTZJP4ZU.html)
 [^9]: [Steve Jobs stellt das erste iPhone vor](https://www.t-online.de/digital/handy/id_81539520/vor-10-jahren-wurde-das-erste-iphone-verkauft.html)
