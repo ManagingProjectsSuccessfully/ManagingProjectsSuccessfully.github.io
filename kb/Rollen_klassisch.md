@@ -39,10 +39,10 @@ Der [Projektleiter](Projektleiter.md) ist verantwortlich für das Ergebnis des P
 
  
 ## Projektteam
-Das Projektteam besteht aus verschiedenen[Mitarbeitern](Projektmitarbeiter.md), die für die im Projekt benötigten Aufgaben qualifiziert sind und diese erfüllen können. Dabei werden von verschiedenen Teammitgliedern [unterschiedliche Aufgaben](Aufgabenteilung.md) erfüllt. Dazu gehören unter anderem:
+Das Projektteam besteht aus verschiedenen [Mitarbeitern](Projektmitarbeiter.md), die für die im Projekt benötigten Aufgaben qualifiziert sind und diese erfüllen können. Dabei werden von verschiedenen Teammitgliedern [unterschiedliche Aufgaben](Aufgabenteilung.md) erfüllt. Dazu gehören unter anderem:
 
 * Der [Projektcontroller](Projektcontrolling.md): Er ist für die Überwachung und Steuerung des Projektfortschritts verantwortlich. Zum Teil gehört es auch zu seinen Aufgaben die Kosten des Projektes zu überwachen.
-* Der Projektkaufmann: Der Projektkaufmann trägt die Verantwortung über die Finanzen des Projekts. Er ist sowohl für die Beschaffung der finanziellen Mittel aus als für die Überwachung der Kostenentwicklung zuständig.
+* Der Projektkaufmann: Der Projektkaufmann trägt die Verantwortung über die Finanzen des Projekts. Er ist sowohl für die Beschaffung der finanziellen Mittel als auch für die Überwachung der Kostenentwicklung zuständig.
 * Der [Qualitätsmanager](Qualitaetsmanagement.md): Bei größeren Projekten ist es möglich einen Qualitätsmanager im Team zu benennen. Dieser nimmt eine neutrale Position innerhalb des Projektes ein und überwacht die Erreichung der zuvor definierten Qualitätsziele und trägt somit zur [Qualitätssicherung](Qualitaetssicherung.md) bei.
 
 Je nach Größe des Projekts bzw. des Teams können diese Rollen auch vom Projektleiter übernommen werden.
