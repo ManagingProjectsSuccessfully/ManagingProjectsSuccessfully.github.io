@@ -5,10 +5,10 @@ author: Lorybr
 anrechnung: k
 ---
 
-Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen Elementen, wie Zeit, Ressourcen und Menschen (siehe: [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ).Um ein erfolgreiches Projekt zu managen, müssen diese Elemente effektiv integriert und verwaltet werden. [^1]
+Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen Elementen wie Zeit, Ressourcen und Menschen (siehe: [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ).Um ein erfolgreiches Projekt zu managen, müssen diese Elemente effektiv integriert und verwaltet werden. [^1]
 
-Aufgrund der Komplexität des Projektmanagements können sogenannte ,,Projektmanagement-Stolpersteine“ während des Prozesses auftreten. Auch wenn zum Beginn eines Projekts Optimismus herrschen kann, dass diesmal alles glatt gehen wird, kann man währenddessen überrascht werden, dass alles doch nicht nach dem Plan läuft, wie gewünscht.[^2]
-Im Folgenden werden die typischen Projektmanagement Fallstricken dargestellt und des Weiteren, wie man sie vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu verbessern (siehe Bild.1[^5]).
+Aufgrund der Komplexität des Projektmanagements können sogenannte ,,Projektmanagement-Stolpersteine“ während des Prozesses auftreten. Auch wenn zu Beginn eines Projekts Optimismus herrscht, dass diesmal alles glatt laufen wird, kann man währenddessen überrascht werden, dass alles doch nicht nach Plan läuft.[^2]
+Im Folgenden werden die typischen Fallstricke des Projektmanagement dargestellt. Des Weiteren wird aufgezeigt wie man diese vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu erhöhen.
 
 <p align="center">
   <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Typische_Projektmanagement_Fallstricke/Screenshot%20(127).png"/>
@@ -21,19 +21,19 @@ Im Folgenden werden die typischen Projektmanagement Fallstricken dargestellt und
 
 # 1.Das Fehlen eines konkreten Projektplans und somit eines Ziels
 
-Ohne klar definierte Ziele wird die Führung eines erfolgreichen Projektmanagement-Teams fast unmöglich, und somit kann das automatisch zum Scheitern oder zu einem sehr hohen Budget führen. [^1] Das Team weiß nicht, woran man sich leiten muss, was die anstehenden Pläne sind und wer für was zuständig ist, was das erforderliche und das verfügbare Budget ist oder was die Zeitanforderungen sind.
+Ohne klar definierte Ziele wird die Führung eines erfolgreichen Projektmanagement-Teams fast unmöglich, was automatisch zum Scheitern oder zu einem sehr hohen Budget führen kann[^1]. Das Team weiß nicht, woran man sich leiten muss und was die anstehenden Pläne sind. Es ist schwer erkennbar, welche Person wofür zuständig ist und wie hoch das erforderliche und verfügbare Budget ist. Auch die Zeitanforderungen sind unklar.
 ## Lösung: 
-Ein Projektplan-ein formelles Dokument, in dem alle Entscheidungen und Schritte mit einem Projektziel und andere relevante Informationen enthalten und ausführlich beschrieben sind, und wo diese klar und eindeutig definiert werden [^2]. 
+Ein Projektplan-ein formelles Dokument, in dem alle Entscheidungen und Schritte mit einem Projektziel und anderen relevanten Informationen enthalten sind, ausführlich beschrieben werden, klar und eindeutig definiert werden [^2]. 
 
 
 
 # 2. Mangelhafte Kommunikation 
 
-Schlechte Kommunikation ist ein maßgeblicher Faktor, der den Erfolg eines Projekts stark beeinflussen und gefährden kann. Ein Mangel an effektiver Kommunikation kann zu Verwirrung, Verzögerungen oder Konflikte führen, und somit die Qualität der Arbeit und der Aufgaben des Projekts beeinträchtigen. [^1] (siehe: [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md))
+Die schlechte Kommunikation ist ein anderer Faktor, der den Erfolg eines Projekts negativ beeinflussen kann. Ein Mangel an effektiver Kommunikation kann zu Verwirrung sowie Verzögerungen führen, wodurch auch die Qualität der Arbeit und der Aufgaben des Projekts beeinträchtigt werden können. [^1] (siehe: [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md))
 ## Lösung: 
-* Eine effektive Kommunikation steht im Mittelpunkt der Teamzusammenarbeit [^1]. Tägliche oder wöchentliche Besprechungen, indem jeder Mitarbeiter Mitspracherecht hat und Feedbacks geben kann, können dabei helfen, sich gegenseitig besser zu verstehen um effektiver das Ziel zu erreichen (siehe [Daily Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md))[^3]. 
-*	Eine gute Technische Infrastruktur mit Projektmanagement-Tools, kann ebenso den Teammitgliedern ermöglichen, ihren Fortschritt in Echtzeit zu aktualisieren und somit mit anderen zu kommunizieren. [^1]
-*	Ebenso ist eine ausführliche Kommunikation mit dem Kunden/ Stakeholder nicht zu vernachlässigen, denn nur so ist man sich sicher, dass man auf dem richtigen Weg ist, die Wünsche der Kunde zutreffend zu erfüllen. [^4]
+* Eine effektive Kommunikation steht im Mittelpunkt der Teamzusammenarbeit [^1]. Tägliche oder wöchentliche Besprechungen, in denen jeder Mitarbeiter Mitspracherecht hat und Feedbacks geben kann, können dabei helfen, sich gegenseitig besser zu verstehen, um das Ziel effektiver zu erreichen (siehe [Daily Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md))[^3]. 
+*	Eine gute technische Infrastruktur mit Projektmanagement-Tools kann z.B. den Teammitgliedern ermöglichen, ihren Fortschritt in Echtzeit zu aktualisieren und somit mit anderen zu kommunizieren. [^1]
+*	Ebenso ist eine ausführliche Kommunikation mit dem Kunden/ Stakeholder nicht zu vernachlässigen, denn nur so kann man sicherstellen, dass man auf dem richtigen Weg ist, die Wünsche der Kunden zutreffend zu erfüllen. [^4]
 
 
 # 3. Unrealistische Ziele, Fristen und Budget
