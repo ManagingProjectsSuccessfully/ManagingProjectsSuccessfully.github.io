@@ -8,6 +8,7 @@ anrechnung: k
 Im Zuge des [Projektmanagements](Projektmanagement.md) gibt es erfolgreiche [Projekte](Projekt.md) und weniger erfolgreiche Projekte. Hierbei gibt es [Methoden](Methoden.md), die einen erfolgreichen [Projektabschluss](Projektabschluss.md) garantieren (sogenannte [Best Practices](Best_Practices.md)). Im Gegensatz dazu gibt es aber auch Methoden, womit ein komplettes Projekt in den Sand gesetzt werden kann (2015 waren dies knapp 20% bei IT-Projekten)[^1]. Diese werden [Worst Practices](Worst_Practices.md) genannt.
 
 ![Abbildung](Best_Practices_vs_Worst_Practices/Unbenanntes-Bild.png)
+
 **Ergebnisse der Chaos Studie 1994-2015**; *Typ 1: Projekt erfolgreich, Typ 2: Projekt teilweise erfolgreich, Typ 3: Projekt nicht erfolgreich* [^1]
 
 # Best Practices
