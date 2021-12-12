@@ -4,7 +4,7 @@ tags: agil klassisch
 author: Goschu1
 anrechnung: k 
 ---
-Dieser Artikel handelt von exemplarischen erfolgreichen [Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md), die Unternehmen und sogar einen Staat maßgeblich vorangebracht haben. Wie Erfolg im Projektmanagement definiert ist und gemessen wird, könnnen Sie [hier](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md) nachlesen. Projekte sind gewiss nicht immer erfolgreich, ganz im Gegenteil. Einen Einblick hierfür erhalten Sie in dem Artikel zu [gescheiterten Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Praxisbeispiele_gescheiterte_Projetke.md). 
+Dieser Artikel handelt von exemplarischen erfolgreichen [Projekten](https://managingprojectssuccessfully.github.io/kb/Projekt.html), die Unternehmen und sogar einen Staat maßgeblich vorangebracht haben. Wie Erfolg im Projektmanagement definiert ist und gemessen wird, könnnen Sie [hier](https://managingprojectssuccessfully.github.io/kb/Erfolgsmessung.html) nachlesen. Projekte sind gewiss nicht immer erfolgreich, ganz im Gegenteil. Einen Einblick hierfür erhalten Sie in dem Artikel zu [gescheiterten Projekten](https://managingprojectssuccessfully.github.io/kb/Praxisbeispiele_gescheiterte_Projetke.html). 
 
 
 # Einführung des iPhones
