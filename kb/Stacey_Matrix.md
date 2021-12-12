@@ -40,7 +40,7 @@ Eine der größten Kritiken an der Stacey-Matrix ist, dass sie zu schnell fehlin
 
 # Siehe auch
 
-* [The Cynefin-Framework](https://cynefincentre.com/the-cynefin-framework/)
+* [Cynefin-Framework](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cynefin-Framework.md)
 
 # Weiterführende Literatur
 
