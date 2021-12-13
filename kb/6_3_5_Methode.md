@@ -13,8 +13,8 @@ Die 6_3_5_Methode ist eine Brainwriting-Kreativitätstechnik. Hierbei erhalten s
 
 # Einführung
 
-Die 6_3_5_Methode ist eine Kreativitätstechnik aus dem klassischen Projektmanagement. Kennzeichnend für das klassische Projektmanagement ist eine traditionelle Hierarchie nach dem [Wasserfallmodell](https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/)[^9]
-Die 6_3_5_Methode ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainstorming) sehr ähnlich. Beim Brainwriting werden im Gegensatz zum Brainstorming die Ideen aller Teilnehmer schriftlich festgehalten. Somit kann sich das gesamte Team mit einbringen.[^8] Es können bei der 6_3_5_Methode in wenigen Minuten bis zu 108 Ideen gesammelt werden. Eine mündliche Absprache gibt es während des Ablaufes nicht. [^2]
+Die 6_3_5_Methode ist eine Kreativitätstechnik aus dem klassischen Projektmanagement. Kennzeichnend für das klassische Projektmanagement ist eine traditionelle Hierarchie nach dem [Wasserfallmodell](https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/).[^9]
+Die 6_3_5_Methode ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainstorming) sehr ähnlich. Beim Brainwriting werden im Gegensatz zum Brainstorming die Ideen aller Teilnehmer schriftlich festgehalten. Somit kann sich das gesamte Team einbringen.[^8] Es können bei der 6_3_5_Methode in wenigen Minuten bis zu 108 Ideen gesammelt werden. Eine mündliche Absprache gibt es während des Ablaufes nicht. [^2]
 
 # Vorgehen
 
@@ -65,8 +65,6 @@ Die Methode wurde erstmals 1969 vom Unternehmensberater Bernd Rohrbach erwähnt.
 
 Die 3_6_5_Methode ist eine kreativ-intuitive Methoden und basiert auf Assoziation. Assoziation beschreibt automatische Denkvorgänge.
 Spontanität und Leichtigkeit sind von Bedeutung, die Ergebnisse müssen nicht von Anfang an perfekt sein.[^5]
-
-Die Zeit pro Runde wird vorab festgelegt. Hierbei wird meistens ein Zeitraum von zwei bis fünf Minuten empfohlen.[^2][^5]
 
 # Siehe auch
 
