@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 
-Jira ist eine von der Firma Atlassian entwickelte Software, die ursprünglich für die Planung bei agile Softwareentwicklung erstellt wurde. Mittlerweile haben sich aber aus dem Ursprünglichen Programm die Unterprodukte Jira Software, Jira Service Management, Jira Work Management und Jira Align entwickelt[^1].
+Jira ist eine von der Firma Atlassian entwickelte [Software](Projektmanagementsoftware.md), die ursprünglich für die Planung bei [agile](Agiles_Manifest.md) Softwareentwicklung erstellt wurde. Mittlerweile haben sich aber aus dem Ursprünglichen Programm die Unterprodukte Jira Software, Jira Service Management, Jira Work Management und Jira Align entwickelt[^1].
 Für den Themenbereich des [Projektmanagements](Projektmanagement.md) ist das Produkt Jira Software relevant, das als [Projektmanagement-Tool](Uebersicht_PM_Tools.md) genutzt werden kann. Hier können Workflows definiert, Aufgaben erstellt und zugewiesen, sowie Fortschritt und Produktivität verfolgt werden[^2]. Neben den Grundfunktionen die Atlassian in Jira selbst anbieten, hat man als Nutzer die Möglichkeit mit Hilfe des Marketplace Applikationen von Drittanbietern zu installieren um somit noch mehr Funktionen zur Verfügung zu haben.
 
 # Hosting
@@ -79,6 +79,7 @@ Jira kann durch die Menge an Funktionalitäten sehr unübersichtlich wirken. Als
 # Siehe auch
 
 * [Projektmanagement](Projektmanagement.md)
+* [Projektmanagementsoftware](Projektmanagementsoftware.md)
 * [Übersicht verschiedener Projektmanagement-Tools](Uebersicht_PM_Tools.md)
 * [Kanban](Kanban.md)
 * [Kanban Boards](Kanban_Boards.md)
