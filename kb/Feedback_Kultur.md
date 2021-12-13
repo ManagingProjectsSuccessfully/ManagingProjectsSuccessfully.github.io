@@ -59,6 +59,7 @@ Feedback braucht Regeln. Effektiv können diese Regeln aber nur angewendet werde
 3.	Konkrete & positive Formulierungen
 4.	Zeitpunkt des Feedbacks sollte zeitnah liegen
 5.	wertschätzende & konstruktive Rückmeldungen mit Entwicklungsmöglichkeiten aufzeigen
+[^7]
 
 ## 5.2 Feedbackregeln für den Feedbacknehmer 
 1.	konzentriert zuhören und ausreden lassen
