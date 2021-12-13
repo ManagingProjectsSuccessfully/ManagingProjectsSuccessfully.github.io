@@ -36,8 +36,9 @@ Ein Flugzeug der American Airlines.[^11]
 
 # Siehe auch
 
-* [Praxisbeispiele gescheiterter Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Praxisbeispiele_gescheiterte_Projetke.md)
-* [Erfolgsmessung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md)
+* [Praxisbeispiele gescheiterter Projekte](https://managingprojectssuccessfully.github.io/kb/Praxisbeispiele_gescheiterte_Projetke.html)
+* [Erfolgsmessung](https://managingprojectssuccessfully.github.io/kb/Erfolgsmessung.html)
+* [Projektmanagement](https://managingprojectssuccessfully.github.io/kb/Projektmanagement.html)
 
 # Weiterführende Literatur
 * [Manager-Magazin: Geheminis erfolgreicher Projekte](https://www.manager-magazin.de/harvard/management/das-geheimnis-erfolgreicher-projekte-a-00000000-0002-0001-0000-000159313152)
