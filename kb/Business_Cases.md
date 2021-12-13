@@ -5,7 +5,7 @@ author: lukasheinrich9
 anrechnung: k
 ---
 # Business Cases
-Ein Business Case ist ein wichtiges Projektdokument. Er analysiert die Wirtschaftlichkeit eines [Projekts](Projekt.md) und verschafft den Entscheidungsträgern einen umfassenden Überblick über dessen Kosten, Nutzen und Risiken.[^1]  Kosten und Nutzen können monetär sein, umfassen aber auch andere Kriterien wie die Auswirkungen auf die Arbeitgeberattraktivität oder die Mitarbeitermotivation.[^2]  Der Business Case gibt eine Aussage darüber, ob sich die Durchführung eines Vorhabens lohnen würde oder nicht und stellt damit eine wichtige Entscheidungs- und Rechtfertigungsgrundlage für Projekte dar. Ist ein Projekt dann erst einmal genehmigt und im Gange, wird der Business Case stetig aktualisiert, sodass sich damit auch laufende Projekte überprüfen und rechtfertigen lassen.[^1] 
+Ein Business Case ist ein wichtiges Projektdokument. Er analysiert die Wirtschaftlichkeit eines [Projekts](Projekt.md) und verschafft den Entscheidungsträgern einen umfassenden Überblick über dessen Kosten, Nutzen und Risiken.[^1]  Kosten und Nutzen können monetär sein, umfassen aber auch andere Kriterien wie die Auswirkungen auf die Arbeitgeberattraktivität oder die Mitarbeitermotivation.[^2]  Der Business Case gibt eine Aussage darüber, ob sich die Durchführung eines Vorhabens lohnen würde oder nicht und stellt damit eine wichtige Entscheidungs- und Rechtfertigungsgrundlage für Projekte dar. Ist ein Projekt genehmigt und im Gange, wird der Business Case stetig aktualisiert, sodass sich damit auch laufende Projekte überprüfen und rechtfertigen lassen.[^1] 
 ![Business_Case_Abbildung](Business_Cases/Business_Case_Abbildung.jpg) [^3]
 
 ## Inhaltsverzeichnis
@@ -20,7 +20,7 @@ Ein Business Case ist ein wichtiges Projektdokument. Er analysiert die Wirtschaf
 
 
 ## 1.	Etymologie
-Der Anglizismus „Business Case“ hat sich aufgrund fehlender passender Übersetzungen auch im Deutschen durchgesetzt. Zwar werden in der Literatur hier und da Begriffe wie [„Geschäftsfall”](https://wirtschaftslexikon.gabler.de/definition/geschaeftsvorfaelle-35319) oder [„Geschäftsszenario”](https://www.netinbag.com/de/business/what-is-a-business-scenario.html) verwendet, diese haben aber eine andere Bedeutung. Unzutreffend sind ebenfalls Begriffe wie [„Business Plan"](https://wirtschaftslexikon.gabler.de/definition/businessplan-31252) oder [„Business Model”](https://wirtschaftslexikon.gabler.de/definition/geschaeftsmodell-52275). Durchgesetzt hat sich daher der Begriff „Business Case“, der nicht übersetzt wird.[^1] 
+Der Anglizismus „Business Case“ hat sich aufgrund fehlender passender Übersetzungen auch im Deutschen durchgesetzt. Zwar werden in der Literatur Begriffe wie [„Geschäftsfall”](https://wirtschaftslexikon.gabler.de/definition/geschaeftsvorfaelle-35319) oder [„Geschäftsszenario”](https://www.netinbag.com/de/business/what-is-a-business-scenario.html) verwendet, diese haben aber eine andere Bedeutung. Unzutreffend sind ebenfalls Begriffe wie [„Business Plan"](https://wirtschaftslexikon.gabler.de/definition/businessplan-31252) oder [„Business Model”](https://wirtschaftslexikon.gabler.de/definition/geschaeftsmodell-52275). Durchgesetzt hat sich daher der Begriff „Business Case“, der nicht übersetzt wird.[^1] 
 
 
 ## 2.	Bestandteile
