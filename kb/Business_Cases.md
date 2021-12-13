@@ -55,7 +55,7 @@ Unternehmen treffen viele ihrer Entscheidungen auf Basis wirtschaftlicher Überl
 
 
 ## 6.	Fazit
-Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement etabliert. Er stellt den Projektverantwortlichen umfassende Informationen vor allem über Kosten, Nutzen und Risiken eines Projekts bereit. Durch weitere Bestandteile wie dem Zeitrahmen und der Investitionsrechnung, welche ein Business Case nach PRINCE2 enthalten sollte, ergibt sich eine detaillierte Analyse der Wirtschaftlichkeit eines Projekts, die den Entscheidungsträgern bei der erfolgreichen Umsetzung der rentabelsten Vorhaben unterstützt.[^7] 
+Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement etabliert. Er stellt den Projektverantwortlichen umfassende Informationen vor allem über Kosten, Nutzen und Risiken eines Projekts bereit. Durch weitere Bestandteile wie dem Zeitrahmen und der Investitionsrechnung, welche ein Business Case nach PRINCE2 enthalten sollte, ergibt sich eine detaillierte Analyse der Wirtschaftlichkeit eines Projekts, die den Entscheidungsträgern bei der erfolgreichen Umsetzung der rentabelsten Vorhaben unterstützt.[^1] 
 
 
 ## 7. Siehe auch
