@@ -5,7 +5,7 @@ author: nta01
 anrechnung: k 
 ---
 
-Die 6_3_5_Methode ist eine Brainwriting-Kreativitätstechnik. Hierbei erhalten sechs Personen einen Zettel, auf welchen sie jeweils drei weitere Ideen zu einem vorab definierten Thema schreiben. Dieser Zettel wird fünfmal weitergegeben und die Ideen jeweils ergänzt.[^1]
+Die 6_3_5_Methode ist eine Brainwriting-Kreativitätstechnik. Hierbei erhalten *sechs* Personen einen Zettel, auf welchen sie jeweils *drei* weitere Ideen zu einem vorab definierten Thema schreiben. Dieser Zettel wird *fünfmal* weitergegeben und die Ideen jeweils ergänzt.[^1]
 
 ![Abbildung](6_3_5_Methode/Bild1.png)
 
