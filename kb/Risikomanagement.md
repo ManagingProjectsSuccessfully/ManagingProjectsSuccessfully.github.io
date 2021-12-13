@@ -65,18 +65,19 @@ somit: visualisierte Darstellung von Rangfolge und Handlungsbedarf der Risiken
 - nach Wichtigkeit geordnet müssen zuerst Maßnahmen gegen rote Risiken geplant werden, dann gegen gelbe und grüne Risiken 
 - zentrale Fragestellung: Lohnt sich der Aufwand für die Umsetzung einer Maßnahme in Relation zum Risiko?
 
-Möglichkeiten
+ - Möglichkeiten:
 
-- Risiken akzeptieren (Nulloption), da unvermeidbar/nicht reduzierbar
-- Risiken vermeiden, d.h. potenzieller Gefahrenquellen beseitigen
-- durch vorausschauende Maßnahmen Risiken reduzieren & Eintrittswahrscheinlichkeit verringern
-- Risiken abwälzen bzw. verlagern ([Risikotransfer](Risikotransfer.md)), d.h. Absicherung der (finanziellen) Auswirkungen eines Risikos durch Verlagerung  der [Verantwortlichkeiten](Verantwortlichkeiten.md) an Personen außerhalb des Projekts
+   - Risiken akzeptieren (Nulloption), da unvermeidbar/nicht reduzierbar
+   - Risiken vermeiden, d.h. potenzielle Gefahrenquellen beseitigen
+   - durch vorausschauende Maßnahmen Risiken reduzieren & Eintrittswahrscheinlichkeit verringern
+   - Risiken abwälzen bzw. verlagern ([Risikotransfer](Risikotransfer.md)), d.h. Absicherung der (finanziellen) Auswirkungen eines Risikos durch Verlagerung  der [Verantwortlichkeiten](Verantwortlichkeiten.md) an Personen außerhalb des Projekts
 
 ## 4.4 Risikoüberwachung
 
 - kontinuierlicher Prozess der Prüfung auf Effizienz der umgesetzten Maßnahmen ist erforderlich, da sich die Eintrittswahrscheinlichkeit im Laufe der Zeit verschieben kann. 
 - Transparenz gegenüber [Stakeholdern](Stakeholdermanagement.md) ausweisen [^7]
 - [Lessons learned](Lessons_Learned.md) feststellen und auf zukünftiges Risikomanagement anwenden
+
 # 5. Fazit
 
 Ob im [Projektmanagement](Projektmanagement.md), Compliance oder Hedging – die Mindmap zeigt, dass die Absicherung gegenüber Risiken jederzeit gewährleistet sein muss, damit Prozesse langfristig erfolgreich ablaufen können und die benötigte Liquidität stets sichergestellt ist:[^8]
