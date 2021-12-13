@@ -5,17 +5,17 @@ author: tobi0211
 anrechnung: k
 ---
 
-Best Practices sind allgemeine Handlungsempfehlungen, die sich in der Praxis bewährt haben und auf Empirie basieren. Dabei sind Best Practices nicht als "die optimale Lösung" anzusehen, sondern als Erfahrungswert, der im Vergleich zu anderen Erfahrungswerten zu den besten Ergebnissen bei einer Aufgabenstellung führt. Best Practices spielen im Projektmanagement eine wichtige Rolle, beispielsweise beim Formulieren von führenden Richtlinien. Das Konzept der Best Practices ist nicht auf Projektmanagement beschränkt, sondern findet darüber hinaus auch in anderen Bereichen Anwendung.[^1]
+Best Practices sind allgemeine Handlungsempfehlungen, die sich in der Praxis bewährt haben und auf Empirie basieren. Dabei sind Best Practices nicht als "die optimale Lösung" anzusehen, sondern als Erfahrungswert, der im Vergleich zu anderen Erfahrungswerten zu den besten Ergebnissen bei einer Aufgabenstellung führt. Best Practices spielen im Projektmanagement eine wichtige Rolle, bspw. beim Formulieren von führenden Richtlinien. Das Konzept der Best Practices ist nicht auf [Projektmanagement](Projektmanagement.md) beschränkt, sondern findet darüber hinaus auch in anderen Bereichen Anwendung.[^1]
 
 
 ## 1. Frühzeitige und regelmäßige Kommunikation mit allen Stakeholdern
-Von [Projektstart](Projektstart.md) an sollten alle Stakeholder im Rahmen des [Stakeholdermanagements](Stakeholdermanagement.md) über Ziele und aktuelle Zwischenstände des Projekts regelmäßig informiert werden. Zu den Stakeholdern gehören beispielsweise die Teammitglieder, Manager oder auch Externe wie Kunden.[^2] 
+Von Projektstart an sollten alle Stakeholder im Rahmen des [Stakeholdermanagements](Stakeholdermanagement.md) über Ziele und aktuelle Zwischenstände des Projekts regelmäßig informiert werden. Zu den Stakeholdern gehören beispielsweise die Teammitglieder, Manager oder auch Externe wie Kunden.[^2] 
 
 ## 2. Kommunikation von Auswirkungen bei Erweiterung des Projektumfangs
 Direkt an Punkt 1 schließt sich die Kommunikation bei Erweiterungen des Projektumfangs an. Oft ergeben sich während des Projekts neue Anfragen von Stakeholdern, bspw. dem Vorstand, die Auswirkungen auf Zeitplan und Budget haben können. Auch hier sollte frühzeitig mit allen Stakeholdern kommuniziert werden, um Konflikten vorzubeugen und bei allen ein klares Verständnis über sich ergebende Abweichungen durch Erweiterung des Projektumfangs zu schaffen.[^3] 
 
 ## 3. Betreiben von Risikomanagement
-Im Projekt ist es sehr wichtig mögliche Risiken zu identifizieren, einzuschätzen wie sich diese auf das Projekt auswirken können und daraus geeignete Maßnahmen zu entwickeln. Hierdurch sollen Kostenexplosionen als auch Sprengungen des Zeitplans vermieden werden. Beim [Risikomanagement](Risikomanagement.md) im Projekt sollten daher sowohl feste Eskalationspläne als auch verschiedene [Eskalationsstufen](Eskalationsstufen.md) für Probleme etabliert werden. Beide haben das Ziel bei der Bewältigung von Problemen zu helfen, in der Praxis hat sich nämlich gezeigt, dass wichtige Stakeholder oft zu spät über Komplikationen informiert werden. Durch das Risikomanagement sollen neben Risiken aber auch Chancen identifiziert werden. Durch das Wählen richtiger Schritte können ihre Eintrittswahrscheinlichkeiten wiederum erhöht werden.[^3] 
+Im Projekt ist es sehr wichtig mögliche Risiken zu identifizieren, einzuschätzen wie sich diese auf das Projekt auswirken können und daraus geeignete Maßnahmen zu entwickeln. Hierdurch sollen Kostenexplosionen als auch Sprengungen des Zeitplans vermieden werden. Im Rahmen des [Risikomanagements](Risikomanagement.md) eines Projekts sollten daher sowohl feste Eskalationspläne als auch verschiedene [Eskalationsstufen](Eskalationsstufen.md) für Probleme etabliert werden. Beide haben zum Ziel bei der Bewältigung von Problemen zu helfen, in der Praxis hat sich nämlich gezeigt, dass wichtige Stakeholder oft zu spät über Komplikationen informiert werden. Durch das Risikomanagement sollen neben Risiken aber auch Chancen identifiziert werden. Durch das Wählen richtiger Schritte können ihre Eintrittswahrscheinlichkeiten wiederum erhöht werden.[^3] 
 
 ## 4. Detaillierter Projektplan
 Der Projektplan soll zur Organisation von Aufgaben und Verantwortlichkeiten dienen. Hierzu sind neben Zeit, Budget und Umfang auch Ziele und Probleme in die [Projektplanung](Projektplanung.md) zu integrieren. Bei der Verteilung von Aufgaben auf Ebene einzelner Arbeitspakete ist es wichtig darauf zu achten, dass diese in vorgegebener Zeit erledigt werden können. Überarbeitung und Demotivation bei den Projektmitgliedern können dadurch verhindert werden. Ein ständiges Monitoring des Projektfortschritts ist hierfür hilfreich.[^3]
@@ -31,6 +31,7 @@ Zu Beginn eines Projekts sollte ein [Kick-Off-Termin](Projekt_Kick_Off.md) abgeh
 
 ## Siehe auch
 
+* [Projektmanagement](Projektmanagement.md)
 * [Stakeholdermanagement](Stakeholdermanagement.md)
 * [Risikomanagement](Risikomanagement.md)
 * [Eskalationsstufen](Eskalationsstufen.md)
@@ -46,9 +47,9 @@ Zu Beginn eines Projekts sollte ein [Kick-Off-Termin](Projekt_Kick_Off.md) abgeh
 
 ## Quellen
 
-[^1]: https://www.projektmagazin.de/glossarterm/best-practice 
-[^2]: https://www.wrike.com/de/blog/10-best-practices-im-projektmanagement/
-[^3]: https://www.pebco.ag/impuls/projektmanagement-9-best-practices-zur-steigerung-der-erfolgschancen-ihrer-projekte/ 
-[^4]: https://de.smartsheet.com/top-excel-project-plan-templates 
-[^5]: https://www.wrike.com/de/blog/projektmanagement-best-practices-infografik/
+[^1]: [Best Practice](https://www.projektmagazin.de/glossarterm/best-practice) 
+[^2]: [10 Best Practices im Projektmanagement](https://www.wrike.com/de/blog/10-best-practices-im-projektmanagement/)
+[^3]: [Projektmanagement: 9 Best Practices zur Steigerung der Erfolgschancen Ihrer Projekte](https://www.pebco.ag/impuls/projektmanagement-9-best-practices-zur-steigerung-der-erfolgschancen-ihrer-projekte/)
+[^4]: [Die besten Vorlagen für Projektpläne](https://de.smartsheet.com/top-excel-project-plan-templates)
+[^5]: [10 Projektmanagement Best Practices, die Sie nicht vergessen sollten](https://www.wrike.com/de/blog/projektmanagement-best-practices-infografik/)
 
