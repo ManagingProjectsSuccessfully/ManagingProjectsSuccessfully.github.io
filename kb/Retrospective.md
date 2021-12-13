@@ -13,12 +13,11 @@ Die Retrospective ist ein wiederkehrendes Meeting aus dem agilen Management. Die
 
 # Einführung
 
-Das agile Projektmanagement basiert, anders als das klassische Projektmanagement, nicht auf dem traditionellen Wasserfallmodell.
+Das agile Projektmanagement basiert, anders als das [klassische Projektmanagement](https://www.projektmagazin.de/glossarterm/klassisches-projektmanagement), nicht auf dem traditionellen [Wasserfallmodell](https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/).
 Agilität steht unter anderem für Dynamik und Flexibilität. Iteratives Vorgehen steht im Mittelpunkt des agilen Projektmanagements.[^10]
-
 Es geht außerdem um stetige Verbesserung. Deshalb ist eine Retrospective am Ende jedes Sprints vorgesehen. Sie dient dazu, Arbeitsabläufe und die Zusammenarbeit kontinuierlich weiterzuentwickeln und zu optimieren. Dies erlangt man durch das Einholen von Feedback von den einzelnen Teammitgliedern.[^3][^9]
 
-## Vorgehen
+# Vorgehen
 
 Es gibt viele verschiedene Herangehensweisen, eine Retrospective zu gestalten. Das Format gelegentlich zu ändern kann für Abwechslung sorgen. 
 Beispiele für Formate sind:
@@ -68,7 +67,7 @@ Sie findet innerhalb eines Teams nach jeder Iteration statt, das heißt alle 2-4
 
 # Weiterführende Literatur
 
-* Ralf Wirdemann, Dr. Johannes Mainusch (2017): "Scrum mit User Stories"
+* [Ralf Wirdemann, Dr. Johannes Mainusch (2017): "Scrum mit User Stories"](https://www.hanser-elibrary.com/doi/epdf/10.3139/9783446450776.002)
 
 # Quellen
 
