@@ -5,7 +5,7 @@ author: alexandermueller296
 anrechnung: k
 ---
 
-Pionierprojekte werden durch die Anzahl der Durchführung gekennzeichnet. Bei dieser Art ist entscheidend, dass es zum ersten Mal umgesetzt wird. Man spricht von einmaligen Projekten, "die in der Gesamtheit ihrer Bedingungen einmalig sind und in dieser Form noch nie durchgeführt wurden." Sobald das Projekt öfters durchgeführt wird, spricht man von [Routineprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Routineprojekte.md).[^1]  
+Pionierprojekte werden durch die Anzahl der Durchführungen gekennzeichnet. Bei dieser Art ist entscheidend, dass es zum ersten Mal umgesetzt wird. Man spricht von einmaligen Projekten, "die in der Gesamtheit ihrer Bedingungen einmalig sind und in dieser Form noch nie durchgeführt wurden." Sobald das Projekt öfters durchgeführt wird, spricht man von [Routineprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Routineprojekte.md).[^1]  
 
 ## Eigenschaften von Pionierprojekten
 * sehr risikoreich, da keine Erfahrungsberichte ([Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md))
