@@ -5,7 +5,7 @@ author: AnnaSophieNi
 anrechnung: k 
 ---
 
-Open Source bedeutet wörtlich übersetzt "offene/freie Quelle" und meint damit die freie Verfügbarkeit von Software-Quellcodes. Das Gegenstück zu Open Source Projekten sind proprietäre Softwares, deren Nutzung und Weiterverbreitung durch den Anbieter meist stark eingeschränkt werden. Welche Ausgestaltungen es von Open Source Projekten gibt und welche Vorteile sich daraus ergeben, wird im Folgendem genauer betrachtet.
+Open Source bedeutet wörtlich übersetzt "offene/freie Quelle" und meint damit die freie Verfügbarkeit von Software-Quellcodes. Das Gegenstück zu Open Source [Projekten](Projekt.md) sind proprietäre Softwares, deren Nutzung und Weiterverbreitung durch den Anbieter meist stark eingeschränkt werden. Welche Ausgestaltungen es von Open Source Projekten gibt und welche Vorteile sich daraus ergeben, wird im Folgendem genauer betrachtet.
 
 # Open Source
 
@@ -21,11 +21,11 @@ Wie bereits erwähnt handel es sich bei dem Begriff "Open Source" um den Quellco
 
 ## Open Source Projekte
 
-Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil der IT-Branche geworden, weshalb sich ein breites Spektrum an Open-Source-Projekten herausgebildet hat. Insgesamt lassen sich vier typische Varianten normieren: 
+Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil der IT-Branche geworden, weshalb sich ein breites Spektrum an Open-Source-[Projekten](Projekt.md) herausgebildet hat. Insgesamt lassen sich vier typische Varianten normieren: 
 
-*Korporativ geführte Kollaborationsprojekte* zeichnen sich durch eine hierarchisch aufgebaute Arbeitsorganisation aus, in der Programmierer aus den beteiligten Unternehmen die Basis der zusammenarbeitenden Community darstellen. Im Vordergrund steht neben der projektbezogenen Kollaboration mit anderen Stakeholdern, um gemeinsam Produkte zu erarbeiten, die Nutzung von Synergieeffekten ohne Ausgestaltung formaler Kooperationsbeziehungen. Beispiele für korporativ geführte Kollaborationsprojekte sind neben Android und WebKit auch OpenStack. Der  Vorteil dieser kollaborativen Open-Source-Projekte besteht darin, dass die Einzelaneignung kollektiv erarbeiteter Codes durch quelloffene Lizenzen verhindert werden kann und somit dem Problem des Trittbrettfahrens entgegenwirkt.
+*Korporativ geführte Kollaborationsprojekte* zeichnen sich durch eine hierarchisch aufgebaute Arbeitsorganisation aus, in der Programmierer aus den beteiligten Unternehmen die Basis der [zusammenarbeitenden Community] (Projektmitarbeiter.md) darstellen. Im Vordergrund steht neben der projektbezogenen Kollaboration mit anderen Stakeholdern, um gemeinsam Produkte zu erarbeiten, die Nutzung von Synergieeffekten ohne Ausgestaltung formaler Kooperationsbeziehungen. Beispiele für korporativ geführte Kollaborationsprojekte sind neben Android und WebKit auch OpenStack. Der  Vorteil dieser kollaborativen Open-Source-Projekte besteht darin, dass die Einzelaneignung kollektiv erarbeiteter Codes durch quelloffene Lizenzen verhindert werden kann und somit dem Problem des Trittbrettfahrens entgegenwirkt.
 
-*Elitezentrierte Projektgemeinschaften* stützen sich zwar ebenfalls zu einem Großteil auf den Input unternehmensaffilierter Entwickler, stehen dabei aber nicht unter der Kontrolle eines etablierten Unternehmens. Die strategische Führung übernimmt hier viel mehr ein langfristiges Führungsteam oder ein gewählter Projektleiter. Linux Kernel, Debian oder Firefox bilden Beispiele für elitezentrierte Open-Source-Projekte.
+*Elitezentrierte Projektgemeinschaften* stützen sich zwar ebenfalls zu einem Großteil auf den Input unternehmensaffilierter Entwickler, stehen dabei aber nicht unter der Kontrolle eines etablierten Unternehmens. Die [strategische Führung](Projektsteuerung.md) übernimmt hier viel mehr ein langfristiges Führungsteam oder ein gewählter [Projektleiter](Projektleiter.md). Linux Kernel, Debian oder Firefox bilden Beispiele für elitezentrierte Open-Source-Projekte.
 
 *Heterarchisch angelegte Infrastrukturvorhaben* werden primär von mittleren und großen IT-Firmen getragen, deren Communitys unter dem Dache von Stiftungen operieren und horizontal entlang von Arbeitsgruppen strukturiert sind (z.B. Apache HTTP, Eclipse. In diesen heterarchisch angelegten Projekten geht es weniger um benennbare Produkte als um die Entwicklung übergreifend eingesetzter Werkzeuge.
 
@@ -50,7 +50,8 @@ Einer der wichtigsten und größten Vorteile von Open Source Projekten stellt da
 
 # Siehe auch
 * [Projektarten](Projektarten.md)
-* [Remoteprojekte](Remote_Projekte.md)
+* [IT-Projekte](IT-Projekte.md)
+* 
 
 # Weiterführende Literatur
 
