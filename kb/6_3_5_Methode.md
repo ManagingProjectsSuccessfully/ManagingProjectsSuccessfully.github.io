@@ -45,19 +45,19 @@ Bei einer gemeinsamen Analyse im Team gibt es die Möglichkeit die Vordrucke noc
 Die Verwendung der Methode bietet verschiedene Vorteile, darunter:[^2][^4]
 
 * Vermeidung von Spannungen im Team während der Ideenfindung
-* Alle Teilnehmer*innen werden gleichermaßen aktiv, somit bringt sich jeder ein und die Lösungsvorschläge können sehr vielfältig sein
+* Gleichmäßig verteilte Aktivität aller Teilnehmer/innen, Einbringen aller, Hohe Vielfalt der Lösungsvorschläge ermöglicht
 * Kreativitätssteigerung durch einen Aufbau auf bereits genannte Ideen möglich
-* Größere Gruppe können in kleine Sechser-Gruppen aufgeteilt werden, die Methode ist somit auch für große Teams anwendbar
-* Die Ideen werden von der Person getrennt, die objektive Bewertung wird sichergestellt
-* Mittels virtuellen Vordruckes auch digital möglich 
+* Aufteilen von größeren Gruppe in kleine Sechser-Gruppen, Anwendbarkeit der Methode für große Teams gegeben
+* Trennung der Ideen von der Person, Sicherstellung der objektiven Bewertung
+* Digitale Möglichkeiten, mittels virtuellen Vordruckes, vorhanden
 
 ## Nachteile
 
-Schwächen der 6_3_5_Methode sind die Folgenden:[^6]
+Schwächen der 6_3_5_Methode sind zum Beispiel:[^6]
 
-* Doppelungen sind nicht ausgeschlossen (Können jedoch gegebenenfalls für die Gewichtung der Ideen herangezogen werden)
+* Kein Ausschluss von Doppelungen (Heranziehen von Mehrfachnennungen für die Gewichtung der Ideen gegebenenfall möglich)
 * Rücksprache bei Verständnisproblemen bezüglich der Ideen während des Ablaufs der Methode nicht vorgesehen
-* Bei Aufteilung in Kleingruppen sollten alle Untergruppen gleichgroß sein
+* Notwendigkeit gleichgroßer Gruppen auch bei Aufteilung in Kleingruppen notwendig
 
 # Außerdem wissenswert
 
@@ -87,5 +87,4 @@ Spontanität und Leichtigkeit sind von Bedeutung, die Ergebnisse müssen nicht v
 [^7]: https://www.quality.de/qm-magazin/methode-6-3-5/
 [^8]: https://www.franziska-blickle.com/post/was-ist-der-unterschied-zwischen-brainstorming-und-brainwriting
 [^9]: https://www.projektmagazin.de/glossarterm/klassisches-projektmanagement
-
 
