@@ -20,7 +20,7 @@ anrechnung: k
 Offene und vor allem angstfreie Kommunikation kann diverse Aspekte eines Unternehmens fördern, wodurch dieses die Möglichkeit erhält neue Ressourcen auszuschöpfen. 
 
 ## 2.1 Funktionen für Mitarbeitende im speziellen:
-* Ermutigt und hebt die Motivation
+* Steigert die Motivation
 * Unterstützt bei der Identifikation mit der Arbeitsumgebung, lässt zielgerichtet arbeiten und bewirkt eine engere Verbindung mit der Aufgabe
 * Ermöglicht klarere Selbsteinschätzung und fördert persönliche Lernprozesse
 * Feststellung des Leistungsniveaus und hilfreich bei der Karriereplanung
@@ -37,11 +37,10 @@ Offene und vor allem angstfreie Kommunikation kann diverse Aspekte eines Unterne
 * höherer Attraktivität als Arbeitgeber speziell für hochqualifizierte Mitarbeiter
 * reibungslosere Abläufe, da Störfaktoren offen angesprochen werden
 * Mitarbeiter fühlen sich mehr wertgeschätzt und identifizieren sich stärker mit ihrem Arbeitgeber
-* Kontinuierliche Verbesserung wird in der [DNA](https://de.wikipedia.org/wiki/Desoxyribonukleinsäure) der Mitarbeiter, der Organisation verankert 
 [^3][^4][^5]
 
 # 3. Relevanz 
-Die Entwicklung einer Feedbackkultur hat im Unternehmenskontext in den letzten Jahren zunehmend an Bedeutung gewonnen, da deren Strukturen immer stärker vernetzt werden und die Team- und [Projektarbeit](https://managingprojectssuccessfully.github.io/kb/Projekt.html) in ihnen zunehmend zur Regelarbeitsform wird. Gleichzeitig agieren Unternehmen in einem Umfeld, das zunehmend von schnellem Wandel und geringer Vorhersehbarkeit geprägt ist. „Deshalb müssen die Mitarbeiter, sei es allein oder im Team, mehr Eigeninitiative entfalten, wenn die Unternehmen mit der gewünschten oder erforderlichen Geschwindigkeit auf Veränderungen in ihrem Umfeld reagieren möchten“ [^4].
+Die Entwicklung einer Feedbackkultur hat im Unternehmenskontext in den letzten Jahren zunehmend an Bedeutung gewonnen, da deren Strukturen immer stärker vernetzt werden und die Team- und [Projektarbeit](https://managingprojectssuccessfully.github.io/kb/Projekt.html) zunehmend zur Regelarbeitsform wird. Gleichzeitig agieren Unternehmen in einem zunehmend von schnellem Wandel und geringer Vorhersehbarkeit geprägten Umfeld. Damit das Unternehmen besser auf Veränderungen reagieren kann, müssen Mitarbeitende mehr Eigeninitiative zeigen.[^4]
 
 # 4. [Feedbackinstrumente](https://managingprojectssuccessfully.github.io/kb/Feedback_Methoden.html) 
 
@@ -52,7 +51,7 @@ Zu den gängigsten Feedbackmethoden zählen:
 [^6]
 
 # 5. Feedbackregeln 
-Um zielorientiertes Feedback zu gewährleisten, sollten bestimmte Regeln für Feedbackgeber und -empfänger befolgt werden. Effektiv können diese Regeln aber nur angewendet werden und Veränderungen im Verhalten bewirken, wenn der Feedbackgeber es ehrlich meint. Dessen nonverbale Signale sollten mit den verbalen übereinstimmen. Das bedeutet, es muss auch viel auf die eigene Gestik und Mimik, nicht nur auf das Gesprochene Wort geachtet werden. Werden die folgenden zehn Regeln von beiden Parteien befolgt, ist das eine solide Grundlage für konstruktives Feedback. 
+Feedback braucht Regeln. Effektiv können diese Regeln aber nur angewendet werden und Veränderungen im Verhalten bewirken, wenn der Feedbackgeber ehrlich ist. Dessen nonverbale Signale sollten mit den verbalen übereinstimmen. Somit muss auch viel auf die eigene Gestik und Mimik, nicht nur auf das Gesprochene Wort geachtet werden. Werden die folgenden zehn Regeln von befolgt, ist das eine solide Grundlage für konstruktives Feedback. 
 
 ## 5.1 Feedbackregeln für den Feedbackgeber
 1.	Bereitschaft des Nehmers klären
