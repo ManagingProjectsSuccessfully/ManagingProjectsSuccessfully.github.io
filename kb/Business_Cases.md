@@ -30,7 +30,7 @@ Für einen Business Case existiert keine allgemein gültige Vorlage. Er kann dah
 * **Erwarteter Nutzen:** z.B.: Steigerung der Nachfrage
 * **Risiken:** z.B.: Scheitern der Kampagne aufgrund von besseren Konkurrenzprodukten
 * **Kosten:** sind dem Projektplan zu entnehmen
-* **Zeitrahmen:** sind dem Projektplan zu entnehmen
+* **Zeitrahmen:** ist dem Projektplan zu entnehmen
 * **Investitionsrechnung:** Analyse der finanziellen Auswirkungen
 * **Bewertung des Nutzens und der Investitionsrechnung:** Bewertung der Analyseergebnisse.[^4] 
 
