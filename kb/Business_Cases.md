@@ -15,7 +15,7 @@ Ein Business Case ist ein wichtiges Projektdokument. Er analysiert die Wirtschaf
 [4. Vorteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#4vorteile)                                                          
 [5. Nachteile](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#5nachteile)                                                     
 [6. Fazit](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#6fazit)                                                           
-[7. Siehe auch](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#7-siehe-auch)                                           
+[7. Siehe auch](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#7-siehe-auch)                                            
 [8. Quellen](https://github.com/lukasheinrich9/ManagingProjectsSuccessfully.github.io/blob/main/kb/Business_Cases.md#8-quellen)
 
 
@@ -55,7 +55,7 @@ Unternehmen treffen viele ihrer Entscheidungen auf Basis wirtschaftlicher Überl
 
 
 ## 6.	Fazit
-Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement etabliert und trägt durch seine detaillierte Analyse der Wirtschaftlichkeit von Projekten zur erfolgreichen Umsetzung der rentabelsten Vorhaben bei.[^7] 
+Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement etabliert. Er stellt den Projektverantwortlichen umfassende Informationen vor allem über Kosten, Nutzen und Risiken eines Projekts bereit. Durch weitere Bestandteile wie dem Zeitrahmen und der Investitionsrechnung, welche ein Business Case nach Prince2 enthalten sollte, ergibt sich eine detaillierte Analyse der Wirtschaftlichkeit eines Projekts, die den Entscheidungsträgern bei der erfolgreichen Umsetzung der rentabelsten Vorhaben unterstützt.[^7] 
 
 
 ## 7. Siehe auch
