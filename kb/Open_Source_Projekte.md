@@ -51,7 +51,7 @@ Einer der wichtigsten und größten Vorteile von Open Source Projekten stellt da
 # Siehe auch
 * [Projektarten](Projektarten.md)
 * [IT-Projekte](IT-Projekte.md)
-* 
+
 
 # Weiterführende Literatur
 
