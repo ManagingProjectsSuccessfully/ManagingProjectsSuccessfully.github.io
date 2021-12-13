@@ -5,7 +5,8 @@ author: tobi0211
 anrechnung: k
 ---
 
-Best Practices sind aus der Praxis entstandene und auf Empirie basierende allgemeine Handlungsempfehlungen für Projektmanagement. Sie sind dabei nicht als optimale Lösung anzusehen, sondern als Erfahrungswert, der im Vergleich zu anderen Erfahrungswerten zu den besten Ergebnissen führt.[^1] Best Practices sollen bei einem Projekt dabei helfen Fehler zu vermeiden, die Auswirkungen auf den Projekterfolg haben können.[^2]
+Best Practices sind allgemeine Handlungsempfehlungen, die sich in der Praxis bewährt haben und auf Empirie basieren. Dabei sind Best Practices nicht als "die optimale Lösung" anzusehen, sondern als Erfahrungswert, der im Vergleich zu anderen Erfahrungswerten zu den besten Ergebnissen bei einer Aufgabenstellung führt. Best Practices spielen im Projektmanagement eine wichtige Rolle, beispielsweise beim Formulieren von führenden Richtlinien. Das Konzept der Best Practices ist nicht auf Projektmanagement beschränkt, sondern findet darüber hinaus auch in anderen Bereichen Anwendung.[^1]
+
 
 ## 1. Frühzeitige und regelmäßige Kommunikation mit allen Stakeholdern
 Von [Projektstart](Projektstart.md) an sollten alle Stakeholder im Rahmen des [Stakeholdermanagements](Stakeholdermanagement.md) über Ziele und aktuelle Zwischenstände des Projekts regelmäßig informiert werden. Zu den Stakeholdern gehören beispielsweise die Teammitglieder, Manager oder auch Externe wie Kunden.[^2] 
@@ -18,7 +19,7 @@ Im Projekt ist es sehr wichtig mögliche Risiken zu identifizieren, einzuschätz
 
 ## 4. Detaillierter Projektplan
 Der Projektplan soll zur Organisation von Aufgaben und Verantwortlichkeiten dienen. Hierzu sind neben Zeit, Budget und Umfang auch Ziele und Probleme in die [Projektplanung](Projektplanung.md) zu integrieren. Bei der Verteilung von Aufgaben auf Ebene einzelner Arbeitspakete ist es wichtig darauf zu achten, dass diese in vorgegebener Zeit erledigt werden können. Überarbeitung und Demotivation bei den Projektmitgliedern können dadurch verhindert werden. Ein ständiges Monitoring des Projektfortschritts ist hierfür hilfreich.[^3]
-Der beigefügte Arbeitsplan zeigt beispielhaft von oben nach unten abgebildet die verschiedenen Projektphasen inklusive dazugehöriger Arbeitspakete und weiteren Informationen, wie dem Zuständigen, dem Status und das Enddatum des Arbeitspakets. Von links nach rechts wird der geplante zeitliche Verlauf des Projekts abgebildet.
+Der beigefügte Arbeitsplan zeigt beispielhaft von oben nach unten abgebildet die verschiedenen Projektphasen inklusive dazugehöriger Arbeitspakete und weiteren Informationen, wie dem Verantwortlichen, dem Status und das Enddatum des Arbeitspakets. Von links nach rechts wird der geplante zeitliche Verlauf des Projekts abgebildet.
 
 ![IC-Work-Plan-Template-GERMAN.png](Best_Practices/IC-Work-Plan-Template-GERMAN.png)[^4]
 
@@ -40,8 +41,8 @@ Zu Beginn eines Projekts sollte ein [Kick-Off-Termin](Projekt_Kick_Off.md) abgeh
 
 ## Weiterführende Literatur
 
+* [BEST PRACTICE: ERFOLGSMUSTER ERKENNEN UND DUPLIZIEREN](https://www.personalmanagement.info/hr-know-how/fachartikel/detail/best-practice-erfolgsmuster-erkennen-und-duplizieren/)
 * [Projektmanagement: 9 Best Practices zur Steigerung der Erfolgschancen Ihrer Projekte](https://www.pebco.ag/impuls/projektmanagement-9-best-practices-zur-steigerung-der-erfolgschancen-ihrer-projekte/)
-* [10 Best Practices im Projektmanagement](https://www.wrike.com/de/blog/10-best-practices-im-projektmanagement/)
 
 ## Quellen
 
