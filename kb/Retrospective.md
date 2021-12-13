@@ -64,6 +64,7 @@ Sie findet innerhalb eines Teams nach jeder Iteration statt, das heißt alle 2-4
 * [SCRUM](SCRUM.md)
 * [Daily_Scrum](Daily_Scrum.md)
 * [Stand_Ups](Stand_Ups.md)
+* [Agiles_Manifest](Agiles_Manifest.md)
 
 # Weiterführende Literatur
 
