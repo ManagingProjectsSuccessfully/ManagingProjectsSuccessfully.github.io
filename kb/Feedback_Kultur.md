@@ -52,19 +52,19 @@ Zu den gängigsten Feedbackmethoden zählen:
 [^6]
 
 # 5. Feedbackregeln 
-Um zielorientiertes Feedback zu gewährleisten, sollten Methoden und Regeln für Feedbackgeber und -empfänger befolgt werden. Effektiv können diese Regeln aber nur angewendet werden und Veränderungen im Verhalten bewirken, wenn der Feedbackgeber es ehrlich meint und damit dessen nonverbale Signale mit den verbalen übereinstimmen. Bedeutet, es muss auch viel auf die eigene Gestik und Mimik, nicht nur auf das Gesprochene Wort geachtet werden. Werden die folgenden zehn Regeln von beiden Parteien befolgt, ist das eine solide Grundlage für konstruktives Feedback. 
+Um zielorientiertes Feedback zu gewährleisten, sollten bestimmte Regeln für Feedbackgeber und -empfänger befolgt werden. Effektiv können diese Regeln aber nur angewendet werden und Veränderungen im Verhalten bewirken, wenn der Feedbackgeber es ehrlich meint. Dessen nonverbale Signale sollten mit den verbalen übereinstimmen. Das bedeutet, es muss auch viel auf die eigene Gestik und Mimik, nicht nur auf das Gesprochene Wort geachtet werden. Werden die folgenden zehn Regeln von beiden Parteien befolgt, ist das eine solide Grundlage für konstruktives Feedback. 
 
 ## 5.1 Feedbackregeln für den Feedbackgeber
-1.	Bereitschaft des Nehmers klären, möchte dieser Feedback erhalten?
-2.	Senden Sie Ich-Botschaften. 
-3.	Konkrete und positive Formulierungen
-4.	Zeitpunkt des Feedbacks sollte zeitnahe liegen
-5.	wertschätzende und konstruktive Rückmeldungen mit Entwicklungsmöglichkeiten 
+1.	Bereitschaft des Nehmers klären
+2.	Ich-Botschaften senden
+3.	Konkrete & positive Formulierungen
+4.	Zeitpunkt des Feedbacks sollte zeitnah liegen
+5.	wertschätzende & konstruktive Rückmeldungen mit Entwicklungsmöglichkeiten aufzeigen
 
 ## 5.2 Feedbackregeln für den Feedbacknehmer 
-1.	konzentriert zuhören und Feedbackgeber ausreden lassen
-2.	Nützliches aufnehmen, das Vernachlässigbare ziehen lassen
-3.	Erklären, rechtfertigen oder verteidigen Sie sich nicht
+1.	konzentriert zuhören und ausreden lassen
+2.	Nützliches aufnehmen, anderes vernachlässigen
+3.	nicht erklären, rechtfertigen oder verteidigen 
 4.	Bei Unklarheiten nachfragen 
 5.	dankbar sein
 [^7]
@@ -74,8 +74,6 @@ Erfolgsversprechender ist Feedback wenn es als fortlaufender Prozess im Unterneh
 
 ![Feedbackkreislauf](Feedback_Kultur/E6646D14-671A-44EE-B6BD-FC8E474D4E6B.png)[^9]
 
-# 7. Fazit 
-„Von «Feedbackkultur» ist dann die Rede, wenn das Feedback nicht nur als Technik, sondern auch als «Frage der Haltung» verstanden wird, d.h. wenn – neben der Frage nach den richtigen Verfahren und Instrumenten – die individuelle Motivation zum Einholen und zur Nutzung von lernwirksamen Feedbacks wichtig ist„ [^10].
 
 # Quellen
 
@@ -88,7 +86,7 @@ Erfolgsversprechender ist Feedback wenn es als fortlaufender Prozess im Unterneh
 [^7]: [FEEDBACKREGELN EINFACH ERKLÄRT - SO GEBEN SIE WERTSCHÄTZENDES UND ERHALTEN QUALIFIZIERTES FEEDBACK](https://shyopa.com/ratgeber/feedbackregeln/)
 [^8]: [Feedbackregeln: So klappt die Rückmeldung](https://karrierebibel.de/feedbackregeln/)
 [^9]: [Bild-Feedbackkreislauf](https://karrierebibel.de/wp-content/uploads/2017/09/Feedbackregeln-Kreisualf-Ablauf-Beispiele-Grafik.png)
-[^10]: [Grundlagen zum Aufbau einer Feedbackkultur](https://www.q2e.ch/wp-content/uploads/sites/162/2020/05/q2e-heft-3-grundlagen-zum-aufbau-einer-feedbackkultur.pdf)
+
 
 
 
