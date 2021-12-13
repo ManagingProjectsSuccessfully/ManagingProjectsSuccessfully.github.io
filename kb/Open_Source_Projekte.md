@@ -5,19 +5,19 @@ author: AnnaSophieNi
 anrechnung: k 
 ---
 
-Open Source bedeutet wörtlich übersetzt "offene/freie Quelle" und meint grundsätzlich die freie Verfügbarkeit von Software-Quellcodes. Das Gegenstück zu Open Source Projekten sind proprietäre Softwares, deren Nutzung und Weiterverbreitung durch den Anbieter meist stark eingeschränkt werden. Welche Ausgestaltungen es von Open Source Projekten gibt und welche Vorteile sich daraus ergeben, wird im Folgendem genauer betrachtet.
+Open Source bedeutet wörtlich übersetzt "offene/freie Quelle" und meint damit die freie Verfügbarkeit von Software-Quellcodes. Das Gegenstück zu Open Source Projekten sind proprietäre Softwares, deren Nutzung und Weiterverbreitung durch den Anbieter meist stark eingeschränkt werden. Welche Ausgestaltungen es von Open Source Projekten gibt und welche Vorteile sich daraus ergeben, wird im Folgendem genauer betrachtet.
 
 # Open Source
 
-Wie bereits erwähnt handel es sich bei dem Begriff "Open Source" um den Quellcode einer Software (Open Source Software), welcher der Öffentlichkeit zugänglich gemacht wird und demnach von Dritten eingesehen, modifiziert oder weiterverbreitet werden kann. Die Rechte werden dabei mittels einer Open-Source-Lizenz durchgesetzt.[^1] Ein bekanntes Beispiel für ein Open-Source-Konzept stellt die Plattform Wikipedia dar, auf welcher  beliebige Nutzer Beiträge erfassen, verändern oder auch weiterverwenden können ohne dass es eine feste "Redaktion" gibt.
+Wie bereits erwähnt handel es sich bei dem Begriff "Open Source" um den Quellcode einer Software (Open Source Software), welcher der Öffentlichkeit zugänglich gemacht wird und demnach von Dritten eingesehen, modifiziert oder weiterverbreitet werden kann. Die Rechte werden dabei mittels einer Open-Source-Lizenz durchgesetzt.[^1] Ein bekanntes Beispiel für ein Open-Source-Konzept stellt die Plattform Wikipedia dar, auf welcher beliebige Nutzer Beiträge erfassen, verändern oder auch weiterverwenden können, ohne dass es eine feste "Redaktion" gibt.
 
 ## Geschichte und Definition 
 
-„Open Source“ wurde ursprünglich von der Open Source Initiative (OSI) 1998 ins Leben gerufen. Demnach dürfen Entwickler Software nur unter der Open-Source-Zertifizierung bereitstellen, solange diese auch mit den Open-Source-Definition der OSI konform ist. Diese können wie folgt zusammengefasst werden:[^2]
+„Open Source“ wurde ursprünglich von der Open Source Initiative (OSI) 1998 ins Leben gerufen. Demnach dürfen Entwickler Software nur unter der Open-Source-Zertifizierung bereitstellen, solange diese auch mit den Open-Source-Definition der OSI konform ist. Diese können wie folgt zusammengefasst werden:
 
 1. Die Software muss ohne Einschränkungen weitergegeben werden dürfen und dabei keine Lizenzgebühr verlangen
 2. Der Quell-Code muss für alle Nutzer öffentlich verfügbar sein
-3. Die Lizenz muss produkneutral, nicht-diskriminierend, technologieneutral und nicht software-einschränkend gestaltet sein
+3. Die Lizenz muss produkneutral, nicht-diskriminierend, technologieneutral und nicht software-einschränkend gestaltet sein [^2]
 
 ## Open Source Projekte
 
