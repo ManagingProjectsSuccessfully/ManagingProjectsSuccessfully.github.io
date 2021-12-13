@@ -13,13 +13,14 @@ Die 6_3_5_Methode ist eine Brainwriting-Kreativitätstechnik. Hierbei erhalten s
 
 # Einführung
 
-Die Methode ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainstorming) sehr ähnlich. Es können bei dieser in wenigen Minuten bis zu 108 Ideen gesammelt werden. Eine mündliche Absprache gibt es während des Ablaufes nicht.[^2]
+Die 6_3_5_Methode ist eine Kreativitätstechnik aus dem klassischen Projektmanagement. Kennzeichnend für das klassische Projektmanagement ist eine traditionelle Hierarchie nach dem [Wasserfallmodell](https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/)[^9]
+Die 6_3_5_Methode ist dem [Brainstorming](https://en.wiktionary.org/wiki/brainstorming) sehr ähnlich. Beim Brainwriting werden im Gegensatz zum Brainstorming die Ideen aller Teilnehmer schriftlich festgehalten. Somit kann sich das gesamte Team mit einbringen.[^8] Es können bei der 6_3_5_Methode in wenigen Minuten bis zu 108 Ideen gesammelt werden. Eine mündliche Absprache gibt es während des Ablaufes nicht. [^2]
 
-## Vorgehen
+# Vorgehen
 
 ## Ablauf
 
-Die 3_6_5_Methode läuft wie folgt ab:
+Die 6_3_5_Methode läuft wie folgt ab:
 
 | Schritt   | Erläuterung | 
 | ------------- | ------------- |
@@ -74,8 +75,8 @@ Die Zeit pro Runde wird vorab festgelegt. Hierbei wird meistens ein Zeitraum von
 
 # Weiterführende Literatur
 
-* Christian Schawel, Fabian Billing (2009): "Top 100 Management Tools"
-* Joachim H. Becker, Helmut Ebert, Sven Pastoors (2018): "Praxishandbuch berufliche Schlüsselkompetenzen"
+* [Christian Schawel, Fabian Billing (2009): "Top 100 Management Tools"](https://link.springer.com/content/pdf/10.1007%2F978-3-8349-8185-1.pdf)
+* [Joachim H. Becker, Helmut Ebert, Sven Pastoors (2018): "Praxishandbuch berufliche Schlüsselkompetenzen"](https://link.springer.com/content/pdf/10.1007%2F978-3-662-54925-4_11.pdf)
 
 # Quellen
 
@@ -86,4 +87,7 @@ Die Zeit pro Runde wird vorab festgelegt. Hierbei wird meistens ein Zeitraum von
 [^5]: [Joachim H. Becker, Helmut Ebert, Sven Pastoors (2018): "Praxishandbuch berufliche Schlüsselkompetenzen"](https://link.springer.com/content/pdf/10.1007%2F978-3-662-54925-4_11.pdf)
 [^6]: https://www.hs-osnabrueck.de/fileadmin/HSOS/Homepages/LearningCenter/Dateien/Toolbox/Dokumente_mit_neuer_Bezeichnung/635-Methode_zur_Veranstaltungsevaluation.pdf
 [^7]: https://www.quality.de/qm-magazin/methode-6-3-5/
+[^8]: https://www.franziska-blickle.com/post/was-ist-der-unterschied-zwischen-brainstorming-und-brainwriting
+[^9]: https://www.projektmagazin.de/glossarterm/klassisches-projektmanagement
+
 
