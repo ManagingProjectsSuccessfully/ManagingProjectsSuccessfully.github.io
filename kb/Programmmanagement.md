@@ -1,6 +1,6 @@
 ---
 title: Programmmanagement
-tags: agil klassisch
+tags: klassisch
 author: si18k1
 anrechnung: k
 ---
@@ -53,6 +53,9 @@ All dies ist im Folgenden auch noch einmal grafisch dargestellt:
 
 <img width="463" alt="image" src="https://user-images.githubusercontent.com/92787078/142223425-9181f238-a35a-4bff-81e0-d61c49513f95.png">
 
+Abbildung 1: Nutzen des Programmmanagements
+
+Quelle: Eigene Darstellung
 
 # 6. Fazit
 
@@ -69,6 +72,8 @@ Eine striktere Abgrenzung von weiteren Managementbegriffen erscheint dennoch sin
 * [Projektportfoliomanagement](Projektportfoliomanagement.md)
 * [Projectmanagement](Who_is_Who_Projectmanagement.md)
 * [Projekt](Projekt.md)
+* [Internationale Projektmanagement Standards](Internationale_Projektmanagement_Standards.md)
+* [Typische Projektmanagement Fallstricke](Typische_Projektmanagement_Fallstricke.md)
 
 # Abkürzungsverzeichnis
 
