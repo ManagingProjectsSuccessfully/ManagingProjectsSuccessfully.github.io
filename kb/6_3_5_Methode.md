@@ -61,10 +61,12 @@ Schwächen der 6_3_5_Methode sind zum Beispiel:[^6]
 
 # Außerdem wissenswert
 
-Die Methode wurde erstmals 1969 vom Unternehmensberater Bernd Rohrbach erwähnt.[^6]
+Die Methode wurde erstmals 1969 vom Unternehmensberater Bernd Rohrbach erwähnt.[^6] Rohrbach war ein Marketingspezialist und Unternehmensberater.[^11] Die Methode erschien erstmals in *Kreativ nach Regeln*, einem Artikel in *Absatzwirtschaft*.[^10]
 
-Die 3_6_5_Methode ist eine kreativ-intuitive Methoden und basiert auf Assoziation. Assoziation beschreibt automatische Denkvorgänge.
+Die 6_3_5_Methode ist eine kreativ-intuitive Methoden und basiert auf Assoziation. Assoziation beschreibt automatische Denkvorgänge.
 Spontanität und Leichtigkeit sind von Bedeutung, die Ergebnisse müssen nicht von Anfang an perfekt sein.[^5]
+
+Eine weitere Bezeichnung für die 6_3_5_Methode ist Methode 635.[^1]
 
 # Siehe auch
 
@@ -87,4 +89,6 @@ Spontanität und Leichtigkeit sind von Bedeutung, die Ergebnisse müssen nicht v
 [^7]: https://www.quality.de/qm-magazin/methode-6-3-5/
 [^8]: https://www.franziska-blickle.com/post/was-ist-der-unterschied-zwischen-brainstorming-und-brainwriting
 [^9]: https://www.projektmagazin.de/glossarterm/klassisches-projektmanagement
+[^10]: http://creapedia.com/w/index.php/Kreativ_nach_Regeln
+[^11]: http://creapedia.com/wiki/Bernd_Rohrbach
 
