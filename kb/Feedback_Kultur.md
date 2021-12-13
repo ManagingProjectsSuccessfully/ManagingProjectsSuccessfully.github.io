@@ -14,7 +14,7 @@ anrechnung: k
 [^1]
 
 # 1. Definition 
-[Feedback](https://de.wikipedia.org/wiki/Feedback_(Kommunikation)) ist ein wichtiger Bestandteil der zwischenmenschlichen [Kommunikation](https://managingprojectssuccessfully.github.io/kb/Projektkommunikation.html) und bedeutet jemandem Rückmeldung zu geben. Feedback ist im Idealfall weder wertend noch deutend, lässt keine Interpretation oder Beurteilung zu und dient auch nicht zur Provokation oder gar als Vorwurf. Der Begriff Feedbackkultur beschreibt damit eine von gegenseitigem Vertrauen geprägte Kultur in Unternehmen, in der sich Mitarbeitende unabhängig von Hierarchien und Funktionen regelmäßig gegenseitiges Feedback zu Themen wie beispielsweise deren Leistungen, dem Verhalten aber auch deren Außenwirkung geben. Dieses von Offenheit, Vertrauen und hierarchieübergreifender Kommunikation geprägte Arbeitsklima, lebt von strategisch geplanten sowie mit passenden [Feedbackmethoden](https://managingprojectssuccessfully.github.io/kb/Feedback_Methoden.html) durchgeführten regelmäßigen Rück- und Statusmeldungen. [^2]
+[Feedback](https://de.wikipedia.org/wiki/Feedback_(Kommunikation)) ist ein wichtiger Bestandteil der zwischenmenschlichen [Kommunikation](https://managingprojectssuccessfully.github.io/kb/Projektkommunikation.html) und bedeutet jemandem Rückmeldung zu geben. Feedback ist im Idealfall weder wertend noch deutend, lässt keine Interpretation oder Beurteilung zu und dient auch nicht als Provokation oder Vorwurf. Der Begriff Feedbackkultur beschreibt damit eine von gegenseitigem Vertrauen geprägte Unternehmenskultur. In dieser können sich Mitarbeitende unabhängig von Hierarchien und Funktionen regelmäßig gegenseitiges Feedback zu deren Leistungen, dem Verhalten aber auch deren Außenwirkung geben. Dieses von Offenheit, Vertrauen und hierarchieübergreifender Kommunikation geprägte Arbeitsklima, lebt von strategisch geplanten sowie mit passenden [Feedbackmethoden](https://managingprojectssuccessfully.github.io/kb/Feedback_Methoden.html) durchgeführten regelmäßigen Rück- und Statusmeldungen. [^2]
 
 # 2. Ziel & Funktion 
 Offene und vor allem angstfreie Kommunikation kann diverse Aspekte eines Unternehmens fördern, wodurch dieses die Möglichkeit erhält neue Ressourcen auszuschöpfen. 
@@ -26,6 +26,7 @@ Offene und vor allem angstfreie Kommunikation kann diverse Aspekte eines Unterne
 * Feststellung des Leistungsniveaus und hilfreich bei der Karriereplanung
 * Effektiviert Fehlersuche und trägt zur Lösung von Missverständnissen und [Konflikten](https://managingprojectssuccessfully.github.io/kb/Konfliktmanagement.html) bei
 * Vertrauen zwischen [Führungskräften und Mitarbeitern](https://managingprojectssuccessfully.github.io/kb/Kommunikation_Projektbeteiligte.html) sowie das Selbstbewusstsein der Mitarbeiter steigen
+[^3][^4][^5]
 
 ## 2.2 Zusätzliche Funktionen für das Unternehmen im Ganzen:
 * Überprüfung unternehmensstrategischer Maßnahmen
@@ -51,7 +52,7 @@ Zu den gängigsten Feedbackmethoden zählen:
 [^6]
 
 # 5. Feedbackregeln 
-Um zielorientiertes Feedback zu gewährleisten, sollten die in der Psychologie und Pädagogik entwickelten Methoden und Regeln für Feedbackgeber und -empfänger befolgt werden. Effektiv können diese Regeln aber nur angewendet werden und Ihre Wirkung in der Veränderung von verhalten entfalten, wenn der Feedbackgeber es ehrlich meint und damit dessen nonverbale Signale mit den verbalen übereinstimmen. Bedeutet, es muss auch viel auf die eigene Gestik und Mimik, nicht nur auf das Gesprochene Wort geachtet werden. Werden die folgenden zehn Regeln von beiden Parteien befolgt, ist das eine solide Grundlage für konstruktives Feedback. 
+Um zielorientiertes Feedback zu gewährleisten, sollten Methoden und Regeln für Feedbackgeber und -empfänger befolgt werden. Effektiv können diese Regeln aber nur angewendet werden und Veränderungen im Verhalten bewirken, wenn der Feedbackgeber es ehrlich meint und damit dessen nonverbale Signale mit den verbalen übereinstimmen. Bedeutet, es muss auch viel auf die eigene Gestik und Mimik, nicht nur auf das Gesprochene Wort geachtet werden. Werden die folgenden zehn Regeln von beiden Parteien befolgt, ist das eine solide Grundlage für konstruktives Feedback. 
 
 ## 5.1 Feedbackregeln für den Feedbackgeber
 1.	Bereitschaft des Nehmers klären, möchte dieser Feedback erhalten?
