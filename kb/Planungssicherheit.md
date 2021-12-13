@@ -63,7 +63,7 @@ Projekterfolgsquoten Agil vs. Wasserfall: (Standish Group Chaos Report 2020)
 Sie zeigt, dass vermehrt Wasserfall Projekte teilweise oder nicht erfolgreich beendet wurden.
 Das erklärt aber nicht, dass die klassischen Methoden im Projektmanagement nicht gewinnbringend sind.[^2]
 Sie ist aber eher unpassend für Projekte mit hoher Flexibilität. [^6]
-Wichtig ist nur, dass vor dem Projektstart einschätzt wird, welche Methode am besten für das geplante Projekt geeignet ist, 
+Wichtig ist nur, dass vor dem Projektstart eingeschätzt wird, welche Methode am besten für das geplante Projekt geeignet ist, 
 um eine möglichst hohe Planungssicherheit zu erreichen. [^2]
 Die auch im agilen Projektmanagement eine wichtige Rolle spielt, jedoch wird hier nicht vollständig im Vorhinein geplant, 
 sondern bis zum nächsten voraussehbaren Schritt. [^8]
