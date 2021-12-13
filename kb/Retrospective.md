@@ -28,7 +28,7 @@ Beispiele für Formate sind:
 | Nutzen von digitalen Vorlagen | Eine weitere Möglichkeit ist es, digitale Vorlagen für die Retrospective zu nutzen. Diese werden zum Beispiel von Trello, Confluence, Miro oder Mural angeboten.[^4]|
 | Einsatz von Spielen  | *Beispiele* "[Sails](https://de.pons.com/übersetzung/englisch-deutsch/sails) and [Anchors](https://de.pons.com/übersetzung/englisch-deutsch/anchor)" - Was sind die Anker, die das Team herunterziehen, was gibt den Segeln des Teams den Wind.[^5]"[Rose](https://de.pons.com/übersetzung/englisch-deutsch/rose?bidir=1), [Bud](https://de.pons.com/übersetzung/englisch-deutsch/Bud), [Thorn](https://de.pons.com/übersetzung/englisch-deutsch/Thorn)" - Was waren die Highlights (Rosenblüte), was kann man noch verbessern (Knospe) und was ist falsch gelaufen (Dorn)[^6]|
 
-*Abbildung: Beispiele zum Gestalten einer Retrospective*
+*Beispiele zum Gestalten einer Retrospective*
 
 Unabhängig vom Format ist es das Ziel, im Anschluss eine Liste zu erstellen mit Punkten, die im nächsten Sprint verbessert, abgeschafft oder behalten werden sollen. In der nächsten Retrospective wird überprüft, ob die gesammelten Punkte erfolgreich umgesetzt werden konnten.[^3]
 
@@ -40,18 +40,18 @@ Die regelmäßige Durchführung einer Retrospective bietet verschiedene Vorteile
 
 * Zeit und Raum für die Einholung von Feedback von den verschiedenen Teammitgliedern
 * Optimierung der Teamdynamik 
-* Optimierung von Arbeitsabläufen, Probleme beim gemeinsamen Arbeitsprozess werden dargelegt 
-* Dokumentation des Feedbacks, die für das Team zu jeder Zeit ersichtlich ist
+* Optimierung von Arbeitsabläufen, Darlegung von Problemen des gemeinsamen Arbeitsprozesses
+* Dokumentation des Feedbacks, Ermöglichung der Einsicht dieser für das gesamte Team zu jeder Zeit gegeben
 * Unterstützung bei der Entscheidungsfindung bezüglich des weiteren Vorgehens im nächsten Sprint
 
 ## Nachteile
 
-Probleme die bei der Retrospective auftreten können, sind die Folgenden:[^1][^7][^8]
+Probleme die bei der Retrospective auftreten können, sind zum Beispiel:[^1][^7][^8]
 
-* Die Veranstaltung einer Retrospective stellt einen zusätzlichen Zeit- und Arbeitsaufwand dar
-* Die Ständige Wiederholung des immer gleichen Vorgangs kann zu Langweile führen; Um zu vermeiden, dass die Teammitglieder ihr Engagement verlieren, empfiehlt es sich, das Format regelmäßig zu wechseln
-* Teammitglieder könnten emotional verletzt werden, deshalb ist sachliches Feedback von hoher Bedeutung
-* Frustration der Beteiligten, falls vereinbarte Verbesserungsvorschläge nicht umgesetzt werden
+* Zeit- und Arbeitsaufwand durch Veranstaltung der Retrospective 
+* Langeweile bei den Teammitgliedern durch ständige Wiederholung des immer gleichen Vorgangs (Vermeidung des Engagementverlustes der Teammitglieder, durch regelmäßiges Wechseln des Formates möglich)
+* Gefahr der emotionalen Verletzung der Teammitglieder, Hohe Bedeutung von sachlichem Feedback 
+* Frustration der Beteiligten, bei Ausbleiben der Umsetzung vereinbarter Verbesserungsvorschläge 
 
 # Außerdem wissenswert
 
