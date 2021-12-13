@@ -29,7 +29,7 @@ Die 6_3_5_Methode läuft wie folgt ab:
 | 2. Runde  | Ebenfalls zwei bis fünf Minuten Zeitraum; Der Vordruck wird im Uhrzeigersinn weitergegeben; Die Ideen dürfen modifiziert, erweitert oder ergänzt werden|
 | Folgende Runden| Vorgehen wie in der zweiten Runde; Bei Bedarf Erweiterung der Zeit möglich, um vorherige Ideen lesen zu können |
 
-*Abbildung: Vorgehen bei der 6_3_5_Methode*[^2]
+*Vorgehen bei der 6_3_5_Methode*[^2]
 
 ## Bewertung und Verarbeitung
 
