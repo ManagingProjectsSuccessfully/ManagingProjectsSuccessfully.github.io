@@ -5,7 +5,7 @@ author: Saskia1403
 anrechnung: k 
 ---
 
-Ein strukturiertes [Projektmanagement](Projektmanagement.md) ist maßgeblich für den Erfolg eines Projektes. Im Zuge dessen, hat sich ein 4-Phasen-Modell etabliert, das ein Projekt in die folgenden Phasen untergliedert:
+Ein strukturiertes [Projektmanagement](Projektmanagement.md) ist maßgeblich für den Erfolg eines [Projektes](Projekt.md). Im Zuge dessen, hat sich ein 4-Phasen-Modell etabliert, das ein Projekt in die folgenden Phasen untergliedert:
 * Projektdefinition
 * [Projektplanung](Projektplanung.md)
 * [Projektdurchführung](Projektsteuerung.md)
