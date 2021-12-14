@@ -31,7 +31,7 @@ Es gibt viele Hauptfaktoren, um eine erfolgreiche Projektkommunikation zu erreic
 
 ## Projektkommunikation innerhalb einer Projektorganisation
 
-Innerhalb einer Projektorganisation ist Kommunikation besonders wichtig. Sie kann z.B. zwischen dem Projektteam, der Projektleitung oder dem Auftraggeber stattfinden.
+Innerhalb einer Projektorganisation ist Kommunikation besonders wichtig. Sie kann z.B. zwischen dem Projektteam, der [Projektleitung](https://managingprojectssuccessfully.github.io/kb/Projektleiter.html) oder dem Auftraggeber stattfinden.
 
 Bei regelmäßigem Austausch können Mitarbeiter und Mitarbeiterinnen besser für Projekte begeistert werden. [^3]
 
