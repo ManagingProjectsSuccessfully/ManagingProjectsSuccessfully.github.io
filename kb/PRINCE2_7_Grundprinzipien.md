@@ -32,7 +32,7 @@ Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind
 3. Vor- und Nachteile
 
 ## 1. Begriffserklärung[^1]
-PRINCE2 steht für "Projects in Controlled Environments"[^2] oder auf deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
+PRINCE2 steht für "Projects in Controlled Environments"[^2] oder auf Deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
 
 Die weltweit führende Projektmanagementmethode basiert auf 7 Grundprinzipien, welche sich auf die Erfahrung guter und schlechter Projekte stützen. Diese wurden im Jahr 2009 neu eingeführt. 
 
@@ -49,7 +49,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 ### 1. Fortlaufende geschäftliche Rechtfertigung   
    *Folgende Anforderungen müssen gegeben sein:* 
    - Berechtigter Grund für Projektstart 
-   - Gültigkeit der Rechfertigung muss während des gesamten Projekts beibehalten werden
+   - Gültigkeit der Rechtfertigung muss während des gesamten Projekts beibehalten werden
    - Dokumentierte und genehmigte Rechtfertigung
    - Dokumentation in Form eines Business Case
    - Ziel: Sicherstellen, dass Projekt geschäftlichen Ziele und angestrebten Nutzen erfüllt 
@@ -65,8 +65,8 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
    - Innerhalb einer Organisationsstruktur klar definierte Rollenverteilung 
    - Wichtigsten Stakeholder: Unternehmen, Lieferanten, Benutzer
    - Interessen werden jeweils vertreten 
-   - *Verteter der geschäftlichen Unternehmensinteressen:* Sicherstellung, dass Zielsetzung des Projekts geschäftlich sinnvoll ist
-   - *Verteter der Benutzer:* Erzielung des angestrebten Nutzens, durch Einsetzen hergestellter Produkte 
+   - *Vertreter der geschäftlichen Unternehmensinteressen:* Sicherstellung, dass Zielsetzung des Projekts geschäftlich sinnvoll ist
+   - *Vertreter der Benutzer:* Erzielung des angestrebten Nutzens, durch Einsetzen hergestellter Produkte 
    - *Vertreter der Lieferanten* Bereitstellung von Ressourcen und erforderlichen Kenntnissen für Herstellung der Produkte 
    
 ### 4. Definierte Phasen 
@@ -88,16 +88,16 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
    - Festlegung der Handlungsrahmen für delegierte Befugnisse 
          
 ### 6. Produktorientierung: 
-   - Ausrichtung auf Defintion und Lieferung von Produkten 
+   - Ausrichtung auf Definition und Lieferung von Produkten 
    - Fokus auf Qualitätsanforderungen    
    - Basis für Planung und Steuerung: Menge der Produkte, definiert Inhalt und Umfang des Projekts
    - Durch Produktbeschreibungen gemeinsames Verständnis der Stakeholder über Produkt 
    - Produktbeschreibungen enthalten Festlegungen zu Zweck, Zusammensetzung, Herkunft, Format, Qualitätskriterien und Qualitätsprüfmethoden
-   - Erschliesßung von Aufwand, Ressourcenbedarf, Abhängigkeiten
+   - Erschließung von Aufwand, Ressourcenbedarf, Abhängigkeiten
    
 ### 7. Angepasste Projektumgebung
    - Universelle Projektmanagement-Methode
-   - Abhänging von Umgebung, Komplexität, Umfang, Leistungsfähigkeit und Risiken des Projekts
+   - Abhängig von Umgebung, Komplexität, Umfang, Leistungsfähigkeit und Risiken des Projekts
    - Anpassung an jedes Unternehmen und Projekt 
    
    
@@ -108,7 +108,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 
 | Vorteile                | Nachteile     |
 | -------------           | ------------- |
-| Flexibel                | Dokumentenlastig |
+| Flexibel                | Dokumenten lastig |
 | Skalierbar              | Vernachlässigung der Teammotivation
 | Einheitliche Sprache    | Vernachlässigung des Konfliktmanagements  |
 | Weltweite Anerkennung   | Abhängigkeit von Lieferanten |
