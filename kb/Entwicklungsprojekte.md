@@ -5,7 +5,7 @@ author: katjasc
 anrechnung: k
 ---
 
-Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. [^1] Sie sind in zwei Kategorien eingeteilt: Einerseits sind es Projekte, die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. [^2] Andererseits sind es Projekte, die den sozialen Standard eines Landes anheben sollen. [^3]
+Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. [^1] Sie sind in zwei Kategorien eingeteilt: Einerseits sind es [Projekt](https://managingprojectssuccessfully.github.io/kb/Projekt.html), die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. [^2] Andererseits sind es Projekte, die den sozialen Standard eines Landes anheben sollen. [^3]
 
 
 # klassische Entwicklungsprojekte
@@ -21,7 +21,7 @@ Entwicklungsprojekte haben das Ziel einen Erkenntnisgewinn oder die Erstellung e
 
 
 ## Herausforderungen 
-Entwicklungsprojekte arbeiten häufig unterhalb ihres möglichen Effizienzniveaus, dies liegt daran, dass durch wechselnde Kundenanforderungen und unzureichende Produktspezifikationen der Grad an Komplexität immer höher wird. Die Projektleiter müssen sich eine ganzheitliche Perspektive verschaffen, was durch eine Zerstückelung des Projekts schwierig ist. 
+Entwicklungsprojekte arbeiten häufig unterhalb ihres möglichen Effizienzniveaus, dies liegt daran, dass durch wechselnde Kundenanforderungen und unzureichende Produktspezifikationen der Grad an Komplexität immer höher wird. Die Projektleiter [Projektleiter](https://managingprojectssuccessfully.github.io/kb/Projektleiter.html) müssen sich eine ganzheitliche Perspektive verschaffen, was durch eine Zerstückelung des Projekts schwierig ist. 
 
 ### Kernprobleme [^5]
 Die Probleme von Entwicklungsprojekten, welche die Produktivität der Unternehmung beeinträchtigen, können in fünf Gruppen aufgeteilt werden.
