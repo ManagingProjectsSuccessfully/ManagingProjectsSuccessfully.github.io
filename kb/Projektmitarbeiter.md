@@ -13,14 +13,14 @@ Zu Anfang, eine kurze Definition  des Begriff **Projektmitarbeiter**, um einen �
 
 
 
- # **Was versteht man unter dem Begriff Projektmitarbeiter ?**
+ # Projektmitarbeiter
 
 Der Begriff Projektmitarbeiter wird oft als Übergriff für unterschiedliche Rollen innerhalb eines Projekts genutzt, 
 die abhängig von der Art und Größe des Projekts besetzt werden oder auch nicht. 
 Viele Projektmanagement-Methoden definieren den Begriff anders oder überhaupt nicht, oft werden Projektmitarbeiter jedoch als diejenigen Personen bezeichnet,
 die in Arbeitspaketen beschriebene Aufgaben tatsächlich ausführen. [^2]
 
-# **Rollen des Projektmitarbeiters** 
+# Rollen des Projektmitarbeiters
 
 "Sie sind nicht nur ausführend tätig, sondern nehmen aktiv an der Planung, Diagnose und Steuerung teil."[^1]
 
@@ -32,7 +32,7 @@ Projektmitarbeiter haben Verantwortung gegenüber dem Projektleiter für die ihn
 
 
 
-# **Projektmitarbeiter als die Mitglieder des Projektteams**
+# Projektmitarbeiter als die Mitglieder des Projektteams
 
 Projektmitarbeiter sind häufig Mitglieder in einer Projektgruppe oder in einer Arbeitsgruppe. Besonders bei kleinen Projekten können sie auch zum
 Projektteam oder Projektkernteam gehören.[^4]
@@ -53,7 +53,7 @@ Die Mitglieder des Kerteams können auch bestimmen, wer als Sprecher gegenüber 
 | "verantwortlich für die Umsetzung der Arbeitspakete"               | "verantwortlich für die Richtigkeit des fachlichen Inputs"  | 
                                                                      
 
-# **Aspekte der Projektmitarbeiterentwicklung (Teamentwicklung)**
+# Aspekte der Projektmitarbeiterentwicklung (Teamentwicklung)
 
 * *Vision und Ziele* - Jeder soll die Vision und die Ziele des Projekts kennen und diese sollen während des gesamten Projekts kommuniziert werden.
 
@@ -69,14 +69,14 @@ Die Mitglieder des Kerteams können auch bestimmen, wer als Sprecher gegenüber 
 
 
 
-# **Durschnittseinkommen des Projektmitarbeiters**
+# Durschnittseinkommen des Projektmitarbeiters
 
 In Deutschland kann man ein durchschnittliches Gehalt von 55.368 Euro pro Jahr erwarten.
 Das Anfangsgehaltt liegt bei 30.081 Euro jährlich und die Gehaltsobergrenze liegt bei 80.448 Euro pro Jahr.[^7]
 
 
 
-# **Wie wichtig sind die Projektmitarbeiter?**
+# Die Relevanz des Projektmitarbeiters
 
 "Staffing is the most important part of project management. It is the staff who will actually complete the project work. Staff will also consume the majority of project cost. Hence it is extremely important to be very precise in planning and acquiring the right staff at the right time for the right duration. It is also important to keep the staff members motivated and ensure their safety and well- being. The staffing management plan help capture all these aspects precisely for effecting staff management for the project."[^9]
 
