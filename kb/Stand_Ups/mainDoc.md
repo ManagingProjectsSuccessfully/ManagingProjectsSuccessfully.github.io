@@ -51,8 +51,8 @@ der Individuen beinträchtigt.
 
 # Siehe auch
 
-* [Kanban](/Kanban.md)
-* [Scrum](/SCRUM.md)
+* [Kanban](/kb/Kanban.md)
+* [Scrum](/kb/SCRUM.md)
 
 # Quellen
 
