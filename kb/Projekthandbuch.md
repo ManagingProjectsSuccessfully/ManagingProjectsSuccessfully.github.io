@@ -9,7 +9,7 @@ Ziel eines Projekthandbuchs ist es, dass alle Teammitglieder eines Projektes jed
 
 Des Weiteren ist festgelegt, dass der [Projektleiter](Projektleiter.md) sowohl für die Erstellung, als auch die regelmäßige Aktualisierung des Projekthandbuchs verantwortlich ist. Gibt es eine Projektassistenz, so kann diese Abwandlungen versionieren und speichern. Darüber hinaus muss nicht nur die ursprüngliche Version des Projekthandbuchs, sondern auch jede neue Version, von dem für das Projekt bestimmten Lenkungsausschuss freigegeben werden[^3] [^4].
 
-Da das übergeordnete Ziel des Projekthandbuchs ist, ein Überblick über das Projekt zu verschaffen, ist es in seiner Ausführung relativ knapp zu halten, sodass es nur alle wichtigen Informationen beinhaltet. Hierfür kann an geeigneter Stelle auf einschlägige Bestandteile des [Projektmanagementhandbuchs](Projektmanagementhandbuch.md) verwiesen werden[^3] [^5]. 
+Da das übergeordnete Ziel des Projekthandbuchs ist, einen Überblick über das Projekt zu verschaffen, ist es in seiner Ausführung ziemlich knapp zu halten, sodass es nur alle wichtigen Informationen beinhaltet. Hierfür kann an geeigneter Stelle auf einschlägige Bestandteile des [Projektmanagementhandbuchs](Projektmanagementhandbuch.md) verwiesen werden[^3] [^5]. 
 
 ![Projektplanung](Projekthandbuch/Projektplanung.jpg)
 
@@ -19,7 +19,7 @@ Da das übergeordnete Ziel des Projekthandbuchs ist, ein Überblick über das Pr
 
 Als erstes ist das Projekthandbuch vom [Projektmanagementhandbuch](Projektmanagementhandbuch.md) zu unterscheiden, welches eine „Zusammenstellung von Regelungen [ist], die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten“[^6]. Das Projektmanagementhandbuch bezieht sich folglich allgemein auf die Regelungen die bei einem Projekt in diesem Unternehmen gelten sollen und das Projekthandbuch bezieht sich auf Regelungen die für ein spezielles Projekt gelten[^2] [^4].
 
-An zweiter Stelle ist das Projekthandbuch von der [Projektdokumentation](Projektdokumentation.md) zu unterscheiden. Die Projektdokumentation beschreibt eine Sammlung aller wichtigen Dokumente, die während dem Projektverlauf erstellt wurden und die Ergebnisse dessen veranschaulicht. Dahingegen bezieht sich das Projekthandbuch auf die Planung des Projektes[^5] [^7].
+An zweiter Stelle ist das Projekthandbuch von der [Projektdokumentation](Projektdokumentation.md) zu unterscheiden. Die Projektdokumentation beschreibt eine Sammlung aller wichtigen Dokumente, die während des Projektverlaufs erstellt wurden und die Ergebnisse dessen veranschaulicht. Dahingegen bezieht sich das Projekthandbuch auf die Planung des Projektes[^5] [^7].
 
 # Varianten des Projekthandbuchs
 
