@@ -11,7 +11,7 @@ Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt 
 
 Eine Förderung erfolgt meist durch [Drittmittel](https://de.wikipedia.org/wiki/Drittmittel) (Forschungsfonds, öffentliche oder industrielle Förderungsgelder). Um solche Drittmittel zu erhalten ist ein ausführlicher [Projektantrag](Projektantrag.md) (vergleichbar mit einem klassischen Projektantrag) nötig. Dieser legt Ziele, Risiken, Methoden und Ressourcen, Zeit- und Finanzplanung, Angaben über Qualifikation der/des Projektleiter/s sowie eine populär gehaltene Kurzfassung dar. Abschlussberichte sind von großer Bedeutung, aber auch Zwischenberichte werden häufig erstellt, um dem Geldgeber oder der Universität von dem Fortschritt zu berichten. Aufgrund ihrer typischen Kriterien haben Forschungsprojekte ein hohes Risiko, nicht erfolgreich zu sein [^1].
 
-# Typische Kriterien
+## Typische Kriterien
 * Bereiche: Medizin, Naturwissenschaft, Technik 
 * Unklare Anforderungen bei (neuen) Forschungsgebieten
 * Flexibilität in der Zieledefinition
