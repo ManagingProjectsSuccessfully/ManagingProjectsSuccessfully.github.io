@@ -21,7 +21,7 @@ Entwicklungsprojekte haben das Ziel einen Erkenntnisgewinn oder die Erstellung e
 
 
 ## Herausforderungen 
-Entwicklungsprojekte arbeiten häufig unterhalb ihres möglichen Effizienzniveaus, dies liegt daran, dass durch wechselnde Kundenanforderungen und unzureichende Produktspezifikationen der Grad an Komplexität immer höher wird. Die Projektleiter [Projektleiter](https://managingprojectssuccessfully.github.io/kb/Projektleiter.html) müssen sich eine ganzheitliche Perspektive verschaffen, was durch eine Zerstückelung des Projekts schwierig ist. 
+Entwicklungsprojekte arbeiten häufig unterhalb ihres möglichen Effizienzniveaus, dies liegt daran, dass durch wechselnde Kundenanforderungen und unzureichende Produktspezifikationen der Grad an Komplexität immer höher wird. Die [Projektleiter](https://managingprojectssuccessfully.github.io/kb/Projektleiter.html) müssen sich eine ganzheitliche Perspektive verschaffen, was durch eine Zerstückelung des Projekts schwierig ist. 
 
 ### Kernprobleme [^5]
 Die Probleme von Entwicklungsprojekten, welche die Produktivität der Unternehmung beeinträchtigen, können in fünf Gruppen aufgeteilt werden.
