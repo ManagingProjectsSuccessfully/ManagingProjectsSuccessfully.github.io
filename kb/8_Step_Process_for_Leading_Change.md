@@ -6,12 +6,14 @@ anrechnung: a
 ---
 
 Das 8-Stufen-Modell eines Veränderungsprozesses ist unter den [Change Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md) Modellen eines der bewährtesten.
-Es wurde im Jahr 1996 von John P. Kotter entwickelt und erstmals in seinem Buch "Leading Change" vorgestellt. Ausgangspunkt der Entwicklung ist der 1995 erschienene Artikel "Leading Change: Why Transformation Efforts Fail"[^4], in welchem Kotter acht kritische Fehler beschreibt, die den Erfolg von organisationalen Veränderungsprozessen beeinträchtigen können.[^1]  Das Modell, welches er in seinem Buch "Leading Change" vorstellt, sieht vor, dass organisationale Veränderungsprozesse acht verschiedene Stufen durchlaufen, ehe sie erfolgreich sein können. Jeder dieser acht Schritte bezieht sich auf einen von Kotter in seinem Artikel "Leading Change: Why Transformation Efforts Fail", identifizierten Fehler.[^1]
+
+Ausgangspunkt der Entwicklung ist der 1995 erschienene Artikel "Leading Change: Why Transformation Efforts Fail"[^4], in welchem Kotter acht kritische Fehler beschreibt, die den Erfolg von organisationalen Veränderungsprozessen beeinträchtigen können.[^1] Das Modell, welches er in seinem 1996 erschienenen Buch "Leading Change" erstmals vorstellt, sieht vor, dass organisationale Veränderungsprozesse acht verschiedene Stufen durchlaufen, ehe sie erfolgreich sein können. Jeder dieser acht Schritte bezieht sich auf einen von Kotter in seinem Artikel "Leading Change: Why Transformation Efforts Fail", identifizierten Fehler.[^1]
+
 ![8_Steps_to_leading_change](8_Step_Process_for_Leading_Change/Kotter-8-Step-Process.jpeg)[^2]
 
 # Die acht Stufen des Modells
 ## 1. Erzeugen eines Dringlichkeitsgefühls
-In der ersten Stufe ist es erforderlich, dass den Mitarbeitenden einschließlich aller Führungskräfte die Notwendigkeit der Veränderungen aufgezeigt werden.[^1] Hierbei ist es wichtig, dass die Führungskräfte nicht unterschätzen, wie schwierig es sein kann, Menschen zu motivieren. Gute Führungskräfte schaffen es, ihre Mitarbeitenden auf einer emotionalen Ebene anzusprechen und einfache vorstellbare Botschaften zu kreieren, welche die Mitarbeitenden dazu inspirieren, Großes zu vollbringen.[^3]
+In der ersten Stufe ist es erforderlich, sowohl den Mitarbeitenden als auch allen Führungskräften die Notwendigkeit der Veränderungen aufgezeigt werden.[^1] Hierbei ist es wichtig, dass die Führungskräfte nicht unterschätzen, wie schwierig es sein kann, Menschen zu motivieren. Gute Führungskräfte schaffen es, ihre Mitarbeitenden auf einer emotionalen Ebene anzusprechen und einfache vorstellbare Botschaften zu kreieren, welche die Mitarbeitenden dazu inspirieren, Großes zu vollbringen.[^3]
 ## 2. Aufbauen einer Führungskoalition  
 Ziel dieser Stufe ist es, ein Führungsteam zusammenzustellen, welches den gesamten Veränderungsprozess begleitet und anführt.[^1] Für dieses Team ist es wichtig, dass die folgenden vier Prämissen erfüllt werden:
 
