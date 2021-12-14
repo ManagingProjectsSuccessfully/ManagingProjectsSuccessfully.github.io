@@ -93,8 +93,9 @@ Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine 
 # Weiterführende Literatur
 
 * Hildebrand, 1998: Mapping the Invisible Workplace
-* [Wissenslandkarte](https://wiki.cogneon.de/Wissenslandkarte)
 * Lorenz, 2012: Wissenslandkarten, Wirtschaftsinformatik (Master)
+* [Wissenslandkarte](https://wiki.cogneon.de/Wissenslandkarte)
+* [Nutzung von Wissenslandkarten zur Verwaltung von Wissenskapital in Unternehmen](https://tu-dresden.de/ing/maschinenwesen/cimtt/ressourcen/dateien/ebl_Broschuere_Feuvrier_Wissenslandkarten_final.pdf?lang=de)
 
 # Quellen
 
