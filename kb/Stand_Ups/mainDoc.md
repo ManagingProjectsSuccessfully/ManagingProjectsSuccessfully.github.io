@@ -23,6 +23,7 @@ ist, gegensätzlich zu Stand Up Meetings in Kanban, auf die Personen fokussiert.
 und nicht auf das Projekt bzw. Sprint.[^3]
 
 ![Abbildung 1: SCRUM Framework](scrumFramework.png)
+
 *SCRUM Framework*
 
 # Stand Ups in Kanban
