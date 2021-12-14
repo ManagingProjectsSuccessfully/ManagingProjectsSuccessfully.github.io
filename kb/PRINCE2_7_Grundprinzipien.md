@@ -12,6 +12,12 @@ anrechnung: k
 - [PRINCE2_7_Prozesse](PRINCE2_7_Prozesse.md)
 - [PRINCE2_Projektumgebung](PRINCE2_Projektumgebung.md)
 
+<img width="235" alt="PRINCE2" src="PRINCE2_7_Grundprinzipien/prince2 (2).PNG">
+
+*Aufbau von PRINCE2[^1]*
+
+
+
 Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind der Kern eines jeden PRINCE2 Projekts.
 
 
@@ -31,19 +37,19 @@ Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind
    7. Angepasste Projektumgebung       
 3. Vor- und Nachteile
 
-## 1. Begriffserklärung[^1]
-PRINCE2 steht für "Projects in Controlled Environments"[^2] oder auf Deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
+## 1. Begriffserklärung[^2]
+PRINCE2 steht für "Projects in Controlled Environments"[^3] oder auf Deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
 
 Die weltweit führende Projektmanagementmethode basiert auf 7 Grundprinzipien, welche sich auf die Erfahrung guter und schlechter Projekte stützen. Diese wurden im Jahr 2009 neu eingeführt. 
 
-In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich zu dem Jahr 2005 deutlich hervorgehoben[^3]. 
+In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich zu dem Jahr 2005 deutlich hervorgehoben[^4]. 
 
 <img width="232" alt="PRINCE2" src="PRINCE2_7_Grundprinzipien/PRINCE2.PNG">
 
-*Änderungen in 2009[^3] *
+*Änderungen in 2009[^4] *
 
 
-## 2. Die 7 Grundprinzipien[^4]
+## 2. Die 7 Grundprinzipien[^5]
 
 
 ### 1. Fortlaufende geschäftliche Rechtfertigung   
@@ -103,7 +109,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
    
 
 
-## 3. Vor- und Nachteile[^5]
+## 3. Vor- und Nachteile[^6]
 
 
 | Vorteile                | Nachteile     |
@@ -135,8 +141,9 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 
 # Quellen
 
-[^1]: [Was ist PRINCE2](https://www.tiba-business-school.de/prince2-methode-vorteile/)
-[^2]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
-[^3]: [Änderungen im Jahr 2009](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
-[^4]: [PRINCE2 Grundprinzipien](https://dieprojektmanager.com/prince2-7-grundprinzipien-themen-prozesse/#Die_7_Grundprinzipien_von_PRINCE2)
-[^5]: [Vor- und Nachteile](https://de.education-wiki.com/9075849-prince2-principles)
+[^1]: [Aufbau von PRINCE2](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
+[^2]: [Was ist PRINCE2](https://www.tiba-business-school.de/prince2-methode-vorteile/)
+[^3]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
+[^4]: [Änderungen im Jahr 2009](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
+[^5]: [PRINCE2 Grundprinzipien](https://dieprojektmanager.com/prince2-7-grundprinzipien-themen-prozesse/#Die_7_Grundprinzipien_von_PRINCE2)
+[^6]: [Vor- und Nachteile](https://de.education-wiki.com/9075849-prince2-principles)
