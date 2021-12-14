@@ -101,5 +101,5 @@ Hive bietet eine Software welche, durch die zahlreichen Individualisierungsmögl
 
 # Quellen
 
-[^1]: https://hive.com/ (Stand: 13.11.2021)
-[^2]: https://www.cdc.gov/phlp/publications/topic/hipaa.html (Stand: 13.11.2021)
+[^1]: https://hive.com/ (Stand: 13.11.2021) Hive PM Website
+[^2]: https://www.cdc.gov/phlp/publications/topic/hipaa.html (Stand: 13.11.2021) Erklärung HIPAA 
