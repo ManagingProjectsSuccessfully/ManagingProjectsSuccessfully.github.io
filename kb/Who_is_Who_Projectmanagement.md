@@ -69,8 +69,8 @@ Der Fachausschuss besteht aus Mitarbeitern, die aus den betroffenen oder beteili
 
 * [Project Management Team Structure for Internet Providing Companies](https://link.springer.com/chapter/10.1007/978-3-319-23126-6_47)
 * [Roles of Top Management and Organizational Project Management in the Effective Company Strategy Implementation](https://www.sciencedirect.com/science/article/pii/S1877042816308540)
-* [Projektportfoliomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md)
-* [Internationale_Projektmanagement_Standards](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Internationale_Projektmanagement_Standards.md)
+* [Projektportfoliomanagement.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md)
+* [Internationale_Projektmanagement_Standards.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Internationale_Projektmanagement_Standards.md)
 
 
 # Weiterführende Literatur
