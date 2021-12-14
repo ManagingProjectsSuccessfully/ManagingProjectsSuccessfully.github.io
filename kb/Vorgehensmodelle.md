@@ -21,6 +21,60 @@ Abbildung 1: Bestandteile eines Vorgehensmodells[^90]
 # Arten von Vorgehensmodellen
 Vorgehensmodelle können in klassische und [agile](Agiles_Manifest.md) Vorgehensweisen, sowie [hybride](Hybrides_Projektmanagment.md) Varianten unterscheiden werden. Die Terminologie ist hierbei analog zur Vorlesung Managing Projects Successfully gewählt. In der Literatur findet sich jedoch eine Vielzahl an Bezeichnungen und unterschiedliche Einteilungen. Einen Überblick über mögliche Klassifizerungen liefert Tabelle 1.
 
+## Übersicht Klassifizierung von Vorgehensmodellen
+**Kuster et al.**
+- klassisch/Phasenkonzept
+- agil
+
+**Schneider et al.**
+- linear/Phasenmodell
+- iterativ
+- Prototyping
+
+**Broy & Kuhrmann**
+- phasenorientierte Modelle und sequenzielles Vorgehen
+- iteratives und inkrementelles Vorgehen
+- Prototyping
+
+**Kneuper et al.**
+- sequentiell
+- evolutionär
+- Prototyping
+
+**Timinger**
+- sequenziell
+- nebenläufig/parallel
+- wiederholend
+- agil
+
+**Wieczorrek & Mertens**
+- konzeptionell (als Spezialfall von inkrementell)
+- inkrementell
+- evaluativ
+- empirisch
+
+Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
+|Autor:innen| Kuster et al. |Timinger|
+|---|---|---|
+|**Anzahl der Kategorien**|2|4|
+|**Einteilung in**| <ul><li>klassisch/Phasenkonzept</li><li>agil</li></ul>|<ul><li>sequenziell</li><li>nebenläufig/parallel</li><li>wiederholend</li><li>agil</li></ul>|
+
+Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
+|       Kuster   et al.8      |             Timinger7             |    Schneider   et al.4   |                   Broy   & Kuhrmann2                   | Kneuper   et al.6 |               Wieczorrek   & Mertens5              |
+|:---------------------------:|:---------------------------------:|:------------------------:|:------------------------------------------------------:|:-----------------:|:--------------------------------------------------:|
+| klassisch   / Phasenkonzept | sequenziell, nebenläufig/parallel | linear oder Phasenmodell | phasenorientierte Modelle und   sequenzielles Vorgehen | sequentiell       | konzeptionell (als Spezialfall   von inkrementell) |
+| agil                        | wiederholend, agil                | iterativ                 | iteratives und inkrementelles   Vorgehen               | evolutionär       | inkrementell                                       |
+|                             |                                   | Prototyping              | Prototyping                                            | Prototyping       | evaluativ                                          |
+|                             |                                   |                          |                                                        |                   | empirisch                                          |
+
+Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
+|       Kuster et al.      |    Schneider et al.   |                   Broy & Kuhrmann                   | Kneuper et al. |              Timinger              |               Wieczorrek   & Mertens              |
+|:---------------------------:|:------------------------:|:------------------------------------------------------:|:-----------------:|:-----------------------------------:|:--------------------------------------------------:|
+| klassisch   / Phasenkonzept | linear oder Phasenmodell | phasenorientierte Modelle und   sequenzielles Vorgehen | sequentiell       | sequenziell,   nebenläufig/parallel | konzeptionell (als Spezialfall   von inkrementell) |
+| agil                        | iterativ                 | iteratives und inkrementelles   Vorgehen               | evolutionär       | wiederholend, agil                  | inkrementell                                       |
+|                             | Prototyping              | Prototyping                                            | Prototyping       |                                     | evaluativ                                          |
+|                             |                          |                                                        |                   |                                     | empirisch                                          |
+
 Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
 |Schneider et al.[^30]    |Broy & Kuhrmann[^90]                                 |Wieczorrek & Mertens[^100]|Kneuper et al.[^20]|Timinger[^80] |Kuster et al.[^120]|
 | ----------------------- | --------------------------------------------------- | ------------------ | ---------------- | ------------------- | --------------- |
