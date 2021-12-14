@@ -5,8 +5,9 @@ author: GEDA9263
 anrechnung: a
 ---
 
-Das 8-Stufen-Modell eines Veränderungsprozesses ist unter den [Change Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md) Modellen eines der bewährtesten. 
-Ausgangspunkt der Entwicklung ist der 1995 erschienene Artikel "Leading Change: Why Transformation Efforts Fail"[^4], in welchem Kotter acht kritische Fehler beschreibt, die den Erfolg von organisationalen Veränderungsprozessen beeinträchtigen können.[^1] Das Modell, welches er in seinem 1996 erschienenen Buch "Leading Change" erstmals vorstellt, sieht vor, dass organisationale Veränderungsprozesse acht verschiedene Stufen durchlaufen, ehe sie erfolgreich sein können. Jeder dieser acht Schritte bezieht sich auf einen von Kotter in seinem Artikel "Leading Change: Why Transformation Efforts Fail", identifizierten Fehler.[^1]
+Das 8-Stufen-Modell eines Veränderungsprozesses ist unter den [Change Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md) Modellen eines der bewährtesten.  
+Ausgangspunkt der Entwicklung ist der 1995 erschienene Artikel "Leading Change: Why Transformation Efforts Fail"[^4], in welchem Kotter acht kritische Fehler beschreibt, die den Erfolg von organisationalen Veränderungsprozessen beeinträchtigen können.[^1]  
+Das Modell, welches er in seinem 1996 erschienenen Buch "Leading Change" erstmals vorstellt, sieht vor, dass organisationale Veränderungsprozesse acht verschiedene Stufen durchlaufen, ehe sie erfolgreich sein können. Jeder dieser acht Schritte bezieht sich auf einen von Kotter in seinem Artikel "Leading Change: Why Transformation Efforts Fail", identifizierten Fehler.[^1]
 
 ![8_Steps_to_leading_change](8_Step_Process_for_Leading_Change/Kotter-8-Step-Process.jpeg)[^2]
 
