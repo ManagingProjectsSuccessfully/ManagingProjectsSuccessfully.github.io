@@ -7,7 +7,7 @@ anrechnung: k
 
 Das Projektcontrolling ist ein Bestandteil des [Projektmanagements](Projektmanagement.md).[^6] Es handelt sich dabei um einen [Steuerungs](Projektsteuerung.md)- und Koordinationsprozess[^4], der durch die [DIN 69901-5](https://de.wikipedia.org/wiki/DIN_69901) als "Sicherung des Erreichens der Projektziele durch: Soll-Ist-Vergleich, Feststellung der Abweichungen, Bewerten der Konsequenzen und Vorschlagen von Korrekturmaßnahmen, Mitwirkung bei der Maßnahmenplanung und Kontrolle der Durchführung" [^5]
 definiert wird.
-# 1 Controlling Regelkreis
+# Controlling Regelkreis
 Häufig wird (Projekt-)Controlling fälschlicherweise mit Kontrolle gleichgesetzt, es umfasst allerdings weitaus mehr. Die verschiedenen Schritte des Controlling-Prozesses sind in der folgenden Abbildung als projektspezifischer „Controlling Regelkreis“ illustriert.
 
 ![Controlling Regelkreis](Projektcontrolling/ControllingRegelkreis.jpg)
@@ -16,20 +16,20 @@ Häufig wird (Projekt-)Controlling fälschlicherweise mit Kontrolle gleichgesetz
 
 Dieser beschreibt einen sich wiederholenden Zyklus, dessen Häufigkeit sich nach dem [Projektumfang](Projektumfang.md) richten sollte. Dabei kann sowohl das gesamte [Projekt](Projekt.md), als auch nur einzelne [Phasen](Projektphasen_klassisch.md) betrachtet werden.[^3]
 
-# 2 Teilbereiche des Projektcontrollings[^6] 
+# Teilbereiche des Projektcontrollings[^6] 
 Das Projektcontrolling lässt sich in die drei fundamentalen Teilbereiche Kalkulation, Leistung und Kontrolle untergliedern. Diese dienen Unternehmen als Basis zur Planung, Durchführung und Erfolgsbeurteilung der Projekte. 
 
-## 2.1 Projektkalkulation
+## Projektkalkulation
 In der Vorbereitungs- und Planungsphase erfolgt die Kalkulation des Projektes. In diesem Zeitraum werden Gesamtkosten, variable Kosten sowie Fixkosten systematisch erhoben. Bei mittel- bis langfristigen Projekten ist es sinnvoll, das Projekt in mehrere Abschnitte zu untergliedern. Das hat den Vorteil, dass man jeder Etappe gesondert die entstandenen Kosten zuordnen kann.
 
-## 2.2 Projektleistung
+## Projektleistung
 Zu Beginn werden qualitative Merkmale des Projekts, die Projektleistung, determiniert. Das Projektcontrolling hat die Aufgabe, diese zu kontrollieren, um bei potentiellen Abweichungen frühzeitig Gegenmaßnahmen einzuleiten.
 
-## 2.3 Projektkontrolle
+## Projektkontrolle
 Soll und Ist-Kosten des Projekts werden über den gesamten [Projektlebenszyklus](Projekt_Lebenszyklus.md) im Blick behalten, um Kostenabweichungen zu identifizieren. Eine reine Gegenüberstellung der Kosten liefert nur bedingt einen Mehrwert. Diese Vorgehensweise berücksichtigt nicht, ob das Projekt durch Beschleunigungskosten vorzeitig fertiggestellt werden kann. Eine Termin-Kosten-Kontrolle hingegen, verschafft einen genaueren Einblick in die Gesamtkosten. 
 
-# 3 Kennzahlen und Methoden
-## 3.1 Kennzahlen
+# Kennzahlen und Methoden
+## Kennzahlen
 Die elementare Basisgröße des Projektcontrollings ist der Projekterfolg.[^11] Dieser ist [messbar](Erfolgsmessung.md) anhand der drei Kenngrößen des [Projektdreiecks](Magisches_Dreieck.md), welche im Laufe des Projekts geplant und anschließend überwacht werden müssen.[^9]
 Die Kenngrößen des Dreiecks umfassen:
 
@@ -41,31 +41,31 @@ Die Kenngrößen des Dreiecks umfassen:
 
 *Überwachung der Kennzahlen des Projektdreiecks im Projektcontrolling-Kontext*[^10]
 
-## 3.2 Methoden
+## Methoden
 Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten [Umfang](Projektumfang.md), Dauer und Komplexität des Projektes berücksichtigt werden.
 
 Grundsätzlich gilt hier die Devise: **Je einfacher und durschaubarer die Methode, desto besser.**
 
-### 3.2.1 [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
+### [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 Die Definition von [Meilensteinen](Meilensteine.md) ist Grundlage dieser Methode. Diese werden am Anfang des Projekts für die [Projektplanung](Projektplanung.md) festgelegt.[^13] Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilensteine.md)-Termine chronologisch auf, wodurch sich Trends frühzeitig abzeichnen.
 
-### 3.2.2 Earned Value Analyse
+### Earned Value Analyse
 Eine weitere Methode ist die Earned Value Analyse, mit der man den Fertigstellungsgrad des Projekts bzw. einzelner Phasen ermitteln kann. Sie dient dem Projekt als Kontrollinstrument des Fortschritts. Diese Methode ist ebenfalls unter den Namen Leistungswertanalyse, Fertigstellungswertmethode oder Arbeitswertanalyse bekannt.[^7]
 
-### 3.2.3 Projektplan
+### Projektplan
 Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszeiträume zugeteilt. Der Projektmanager hat somit stets den Überblick über die [Aufgabenteilung](Aufgabenteilung.md) und Termintreue der jeweiligen Projektabschnitte.[^8] Der Umfang des Projektplans richtet sich nach der Größe und Komplexität des Projekts. Folgende Pläne sollten aber in jedem Fall enthalten sein:
 * [Projektstrukturplan](Projektstrukturplan.md)
 * Ablaufplan (als Tabelle, [Netzplan](Netzplantechnik.md) oder [Gantt-Diagramm](Gantt_Diagramme.md))
 * [Kostenplan](Kostenplanung.md)
 * [Ressourcenplan](Ressourcenplanung.md)[^12]
 
-### 3.2.4 Ampelmethode
+### Ampelmethode
 Durch die Visualisierung der Arbeitspaketestatus mit Ampelfarben, ist die Methode besonders intuitiv. Ein Nachteil der Methode ist der Auslegungsspielraum der Ampelfarben. Um diese Gefahr zu minimieren, ist es unabdingbar, die Farben klar zu definieren. Gemeinhin bedeuten die verschiedenen Ampelphasen:
 * <font color="green"> Grün: </font> Alles läuft nach Plan
 * Gelb: Es sind signifikante Planabweichungen zu befürchten
 * Rot:  Eine Zielerreichung scheint nicht mehr möglich[^3]
 
-### 3.2.5 Soll-Ist-Vergleich
+### Soll-Ist-Vergleich
 Hierbei handelt es sich um eine simple, sich selbsterklärende Methode. Es werden die ermittelten Ist-Werte mit den vom Kunden vorgegebenen Soll-Werten verglichen.
 Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. sein. Aus dem Vergleich ergibt sich ein Gesamtunterschied zwischen den geplanten und tatsächlichen Werten. Sind die Ist-Werte besser als die Soll-Werte, fällt der Soll-Ist-Vergleich positiv, andernfalls negativ aus.[^14]
 
