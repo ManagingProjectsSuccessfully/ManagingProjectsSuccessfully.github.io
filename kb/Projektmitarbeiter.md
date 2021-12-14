@@ -4,16 +4,16 @@ tags: agil klassisch
 author: Emi1404
 anrechnung:  klassich
 ---
-Zu Anfang, eine kurze Definition von dem Begriff **Projektmitarbeiter**, um einen Überblick über das Thema zu erhalten.
+Zu Anfang, eine kurze Definition  des Begriff **Projektmitarbeiter**, um einen Überblick über das Thema zu erhalten.
 
-"Projektmitarbeiter sind Rollen im [Projektmanagement](https://www.ibo.de/glossar/definition/projektmanagement), die, koordiniert durch der [Projektleiter](https://www.ibo.de/glossar/definition/projektleiter), Aufgaben im [Projekt]( https://www.ibo.de/glossar/definition/projekt) realisiren."[^1] 
-
-
+"Projektmitarbeiter sind Rollen im [Projektmanagement](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), die, koordiniert durch der [Projektleiter](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md), Aufgaben im [Projekt](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md ) realisiren."[^1] 
 
 
 
 
- # **Was versteht man unter dem Wort Projektmitarbeiter für das Projekt?**
+
+
+ # **Was versteht man unter dem Begriff Projektmitarbeiter ?**
 
 Der Begriff Projektmitarbeiter wird oft als Übergriff für unterschiedliche Rollen innerhalb eines Projekts genutzt, 
 die abhängig von der Art und Größe des Projekts besetzt werden oder auch nicht. 
