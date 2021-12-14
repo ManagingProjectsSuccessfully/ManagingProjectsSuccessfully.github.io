@@ -7,14 +7,16 @@ anrechnung: k
 
 Das Anforderungsmanagement (Abkürzung: AM; im Englischen requirements engineering/requirements management genannt) gilt vor allem im klassischen Projektmanagement als wichtiger Kernbestandteil in Projekten und ist daher auch im [Wasserfall-Modell](Wasserfall_Modell.md) verankert.
 
-# Ziel des Anforderungsmanagement
-Das Ziel ist es, dass sowohl die [funktionalen](Funktionale_Anforderungen.md) als auch die [nicht funktionalen](Nicht_Funktionale_Anforderungen.md) Anforderungen des Kunden und der weiteren externen als auch internen Stakeholder an das anzufertigende Produkt umgesetzt werden.[^1] 
+# Ziel und Wichtigkeit
+Das Ziel des Anforderungsmanagement ist es, dass sowohl die [funktionalen](Funktionale_Anforderungen.md) als auch die [nicht funktionalen](Nicht_Funktionale_Anforderungen.md) Anforderungen des Kunden und der weiteren externen als auch internen Stakeholder an das anzufertigende Produkt umgesetzt werden.[^1] 
 
 Die Wichtigkeit des Anforderungsmanagements soll durch folgende Karikatur veranschaulicht werden:
 
 ![Cartoon AM](Anforderungsmanagement/AM%20Cartoon.png) 
 
 *Karikatur zur Wichtigkeit von Anforderungsmanagement* [^2]
+
+# Umfang und Aufgaben
 
 Um dieses Ziel zu gewährleisten, umfasst das Anforderungsmanagement alle Maßnahmen, welche auf die Definition, Steuerung, Verwaltung und Kontrolle von Anforderungen bezogen sind.[^3]
 Die Anforderungsdefinition besteht beispielweise aus Analyse, Dokumentation und Validierung der Anforderungen.
