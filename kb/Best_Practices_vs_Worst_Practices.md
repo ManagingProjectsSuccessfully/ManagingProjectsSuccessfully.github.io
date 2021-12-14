@@ -5,11 +5,20 @@ author: TommiMueller
 anrechnung: k
 ---
 # Best Practices vs. Worst Practices
-Im Zuge des [Projektmanagements](Projektmanagement.md) gibt es erfolgreiche [Projekte](Projekt.md) und weniger erfolgreiche Projekte. Hierbei gibt es [Methoden](Methoden.md), die einen erfolgreichen Projektabschluss garantieren (sogenannte [Best Practices](Best_Practices.md)). Im Gegensatz dazu gibt es aber auch Methoden, womit ein komplettes Projekt in den Sand gesetzt werden kann (2015 waren dies in der CHAOS-Studie knapp 20% der IT-Projekte)[^1]. Diese werden Worst Practices genannt.
+Im Zuge des [Projektmanagements](Projektmanagement.md) gibt es erfolgreiche [Projekte](Projekt.md) und weniger erfolgreiche Projekte. Hierbei gibt es [Methoden](Methoden.md), die einen erfolgreichen Projektabschluss garantieren (sogenannte [Best Practices](Best_Practices.md)). Im Gegensatz dazu gibt es aber auch Methoden, womit ein komplettes Projekt in den Sand gesetzt werden kann (dies waren in den letzten Jahren knapp 20% der IT-Projekte (siehe Tabelle))[^1]. Diese werden Worst Practices genannt.
 
-![Abbildung](Best_Practices_vs_Worst_Practices/Unbenanntes-Bild.png)
 
-**Ergebnisse der Chaos Studie 1994-2015**; *Typ 1: Projekt erfolgreich, Typ 2: Projekt teilweise erfolgreich, Typ 3: Projekt nicht erfolgreich* [^1]
+|Jahr|Typ 1 - Projekt erfolgreich |Typ 2 - Projekt teilweise erfolgreich|Typ 3 - Projekt nicht erfolgreich|
+| :-- |:-:  |  :-:  |:-:|
+|*2009*|32%|44%|24%|
+|*2010*|31%|47%|22%|
+|*2011*|34%|51%|15%|
+|*2012*|39%|43%|18%|
+|*2013*|31%|50%|19%|
+|*2014*|28%|55%|17%|
+|*2015*|29%|52%|19%|
+
+*Ergebnisse der Chaos Studie 2009-2015* [^1] 
 
 # Best Practices
 
@@ -17,7 +26,6 @@ Im Zuge des [Projektmanagements](Projektmanagement.md) gibt es erfolgreiche [Pro
 Best Practices sind bewährte Erfolgsmethoden, welche als allgemein sinnvollste Vorgehensweise in einer bestimmten Unternehmenssituation gelten [^2][^3]. Diese lassen sich durch [Benchmarking](Benchmarking.md) -den unternehmensinternen oder unternehmensexternen Vergleich verschiedener Projekte- bestimmen und dann für das eigene Projekt adaptieren [^4][^5]. Jedoch gibt es keine universell anwendbare Vorgehensweise, sondern man muss projektspezifisch entscheiden, welche Best Practice geeignet ist [^3][^6].
 
 ## Allgemein anerkannte Best Practices 
-
 Die ausgiebige **[Projektplanung](Projektplanung.md)** ist als Leitfaden eine zentrale Erfolgsmethode für das Projektmanagement [^7][^8]. Dabei sollen Projektziele "SMART" festgelegt werden [^9]. Methoden wie die [Projektstrukturplanung](Projektstrukturplan.md), das [Wasserfallmodell](Wasserfall_Modell.md), [SCRUM](SCRUM.md) und die [Netzplantechnik](Netzplantechnik.md) werden dabei häufig herangezogen [^10].
 
 Ein weiteres Best Practice ist diesen Projektplan durch ein periodisches **[Projektcontrolling](Projektcontrolling.md)** fortlaufend zu kontrollieren und anzupassen, ohne dabei aber zu weit vom ursprünglichen Plan abzuweichen [^9]. [KANBAN](Kanban.md), eine Methode des agilen Projektmanagement, ist nützlich zur Zwischenkontrolle, da Aufgaben in "geplant", "aktiv" und "erledigt" unterteilt werden [^10]. 
@@ -30,7 +38,8 @@ Gutes **[Risikomanagement](Risikomanagement.md)** ist ein weiteres Best Practice
 
 Ein einleitendes Kick-off-Meeting als **Projektstart** ist ein Best Practice, da es als Startschuss mit motivierender Wirkung agiert [^9].
 
-
+![Abbildung](Best_Practices_vs_Worst_Practices/projektmanagement-methoden-word-cloud.jpg)
+*Projektmanagement Methoden word cloud* [^22]
 # Worst Practices
 
 ## Definition
@@ -125,6 +134,7 @@ Während erfolgreiche Projekte ausgiebig geplant und fortlaufend mit klarer Doku
 [^4]: [Benchmarking im Projektmanagement](https://www-1wiso-2net-1de-10000b9m40203.han.ub.fau.de/document/PM__9c41714ab598dfa666c84a23414853bb267b3ad1)
 [^8]: [Projektmanagement für die Praxis - Ein Leitfaden und Werkzeugkasten für erfolgreiche Projekte - 2. Auflage](https://link.springer.com/content/pdf/10.1007%2F978-3-662-62170-7.pdf)
 [^14]: [Projektmanagement - Theorie und Praxis aus einer Hand - 8. Auflage](https://link.springer.com/content/pdf/10.1007%2F978-3-662-59384-4.pdf)
+[^22]: [Benjamin Michels - Projektmanagement Methoden](https://benjamin-michels.de/projektmanagement-methoden-den-richtigen-weg-durchs-labyrinth-finden/)
 
 
 
