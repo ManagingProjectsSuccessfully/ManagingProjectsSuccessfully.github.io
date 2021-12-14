@@ -21,7 +21,7 @@ Eine Förderung erfolgt meist durch [Drittmittel](https://de.wikipedia.org/wiki/
 * Meist Teamarbeit in interdisziplinären Arbeitsgruppen [^1]
 
 # Entwicklung von Forschungsprojekten
-"Die Forschungsfrage stellt das Forschungsziel ins Verhältnis zum gegenwärtigen Stand der Wissenschaft, zur gewählten Methodik und zum aktuellen Paradigma" [^8]. Die Forschungsfrage, in der Regel abgeleitet von einem Problem, stellt das Fundament des Forschungsprojektes dar. Diese wird iterativ durch konkretisierende Forschungsfragen erschlossen. Damit ein Forschungsprojekt erfolgreich durchgeführt werden kann, benötigt man einen detailierten Projektplan. Wie man dabei vorgehen kann, zeigt die untenstehende Abbildung. Der letzte Schritt zur Vollendung des Forschungsplans ist die Erstellung eines Analyseplans. Damit lässt sich die spätere statistische Auswertung erleichtern [^7].
+"Die Forschungsfrage stellt das Forschungsziel ins Verhältnis zum gegenwärtigen Stand der Wissenschaft, zur gewählten Methodik und zum aktuellen Paradigma" [^8]. Die Forschungsfrage, in der Regel abgeleitet von einem Problem, stellt das Fundament des Forschungsprojektes dar. Diese wird iterativ durch konkretisierende Forschungsfragen erschlossen. Damit ein Forschungsprojekt erfolgreich durchgeführt werden kann, benötigt man einen detaillierten Projektplan. Wie man dabei vorgehen kann, zeigt die untenstehende Abbildung. Der letzte Schritt zur Vollendung des Forschungsplans ist die Erstellung eines Analyseplans. Damit lässt sich die spätere statistische Auswertung erleichtern [^7].
 
 
 ![Forschungsfrage entwickeln](Forschungsprojekte/Forschungsfrage-entwickeln.jpg)
@@ -29,10 +29,10 @@ Eine Förderung erfolgt meist durch [Drittmittel](https://de.wikipedia.org/wiki/
 *Forschungsfrage entwickeln* [^7]
 
 # Forschungsprojekte im Projektmanagement
-Das Projektmanagement ist für die Forschung von enormer Bedeutung. Denn ohne Projektmanagement ist das Risiko noch höher, dass das Forchungsprojekt scheitert [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialisierte Agenturen können so die Qualität sichern, die zum Beispiel in der Medizintechnik eine große Rolle spielt [^5].
+Das Projektmanagement ist für die Forschung von enormer Bedeutung. Denn ohne Projektmanagement ist das Risiko noch höher, dass das Forschungsprojekt scheitert [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialisierte Agenturen können so die Qualität sichern, die zum Beispiel in der Medizintechnik eine große Rolle spielt [^5].
 Es ist wichtig, klare Anforderungen zu formulieren. Dabei muss die Risikobeurteilung und Ressourcenplanung ausreichend berücksichtigt werden, auch wenn das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und den Ehrgeiz der Forscher. Da Management nicht direkt mit Forschung assoziiert wird, wird dieses von ihnen eher als lästig oder unnötig empfunden [^2].
 
-Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie schlechte Projektplanung Ursachen für ein gescheitertes Projekt sein können. Deswegen sollten diese Aspekte besonders in den Lösungsansätzen berücksichtigt werden. Eine geeignete Projektmanagemt-Methode kann ausgewählt werden, indem man sich bewusst macht, ob eine agile oder klassische Methode in Frage kommt. 
+Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie schlechte Projektplanung Ursachen für ein gescheitertes Projekt sein können. Deswegen sollten diese Aspekte besonders in den Lösungsansätzen berücksichtigt werden. Eine geeignete Projektmanagement-Methode kann ausgewählt werden, indem man sich bewusst macht, ob eine agile oder klassische Methode in Frage kommt. 
 
 ![Warum-scheitern-Projekte](Forschungsprojekte/Warum-scheitern-Projekte.jpg)
 
