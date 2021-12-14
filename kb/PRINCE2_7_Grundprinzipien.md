@@ -12,7 +12,7 @@ anrechnung: k
 - [PRINCE2_7_Prozesse](PRINCE2_7_Prozesse.md)
 - [PRINCE2_Projektumgebung](PRINCE2_Projektumgebung.md)
 
-<img width="235" alt="PRINCE2" src="PRINCE2_7_Grundprinzipien/prince2 (2).PNG">
+<img width="235" alt="PRINCE2" src="PRINCE2_7_Grundprinzipien/Aufbau.PNG">
 
 *Aufbau von PRINCE2[^1]*
 
@@ -141,7 +141,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 
 # Quellen
 
-[^1]: [Aufbau von PRINCE2](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
+[^1]: [Aufbau von PRINCE2](PRINCE2_7_Grundprinzipien/Aufbau.PNG)
 [^2]: [Was ist PRINCE2](https://www.tiba-business-school.de/prince2-methode-vorteile/)
 [^3]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
 [^4]: [Änderungen im Jahr 2009](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
