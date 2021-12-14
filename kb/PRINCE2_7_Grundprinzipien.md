@@ -12,13 +12,13 @@ anrechnung: k
 - [PRINCE2_7_Prozesse](PRINCE2_7_Prozesse.md)
 - [PRINCE2_Projektumgebung](PRINCE2_Projektumgebung.md)
 
-<img width="235" alt="PRINCE2" src="PRINCE2_7_Grundprinzipien/Aufbau.PNG">
+![PRINCE2](PRINCE2_7_Grundprinzipien/Aufbau.PNG)
 
 *Aufbau von PRINCE2[^1]*
 
 
 
-Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind der Kern eines jeden PRINCE2 Projekts.
+Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Wie in Abbildung 1 zu erkennen ist, bilden diese die Grundlage eines jeden PRINCE2 Projekts.
 
 
 # PRINCE2 - Die 7 Grundprinzipien
