@@ -8,6 +8,7 @@ anrechnung: k
 
 *Abbildung 1: Das Projekthandbuch als wichtiger Bestandteil eines erfolgreichen Projektmanagements*[^11]
 
+![Projektphasen](Projekthandbuch/Projektphasen.png)
 *Abbildung 1: Das 4-Phasen_Modell
 https://mediencommunity.de/system/files/wbts/projektmanagement/le01/zusammenfassung3.html
 
