@@ -5,7 +5,7 @@ author: TommiMueller
 anrechnung: k
 ---
 # Best Practices vs. Worst Practices
-Im Zuge des [Projektmanagements](Projektmanagement.md) gibt es erfolgreiche [Projekte](Projekt.md) und weniger erfolgreiche Projekte. Hierbei gibt es [Methoden](Methoden.md), die einen erfolgreichen Projektabschluss garantieren (sogenannte [Best Practices](Best_Practices.md)). Im Gegensatz dazu gibt es aber auch Methoden, womit ein komplettes Projekt in den Sand gesetzt werden kann (dies waren in den letzten Jahren knapp 20% der IT-Projekte (siehe Tabelle))[^1]. Diese werden Worst Practices genannt.
+Im Zuge des [Projektmanagements](Projektmanagement.md) gibt es erfolgreiche [Projekte](Projekt.md) und weniger erfolgreiche Projekte. Hierbei gibt es [Methoden](Methoden.md), die einen erfolgreichen Projektabschluss garantieren (sogenannte [Best Practices](Best_Practices.md)). Im Gegensatz dazu gibt es aber auch Methoden, womit ein komplettes Projekt in den Sand gesetzt werden kann (in den letzten Jahren scheiterten knapp 20% der IT-Projekte (siehe Tabelle))[^1]. Diese werden Worst Practices genannt.
 
 
 |Jahr|Typ 1 - Projekt erfolgreich |Typ 2 - Projekt teilweise erfolgreich|Typ 3 - Projekt nicht erfolgreich|
