@@ -26,17 +26,17 @@ Im Zuge des [Projektmanagements](Projektmanagement.md) gibt es erfolgreiche [Pro
 Best Practices sind bewährte Erfolgsmethoden, welche als allgemein sinnvollste Vorgehensweise in einer bestimmten Unternehmenssituation gelten [^2][^3]. Diese lassen sich durch [Benchmarking](Benchmarking.md) -den unternehmensinternen oder unternehmensexternen Vergleich verschiedener Projekte- bestimmen und dann für das eigene Projekt adaptieren [^4][^5]. Jedoch gibt es keine universell anwendbare Vorgehensweise, sondern man muss projektspezifisch entscheiden, welche Best Practice geeignet ist [^3][^6].
 
 ## Allgemein anerkannte Best Practices 
-Die ausgiebige **[Projektplanung](Projektplanung.md)** ist als Leitfaden eine zentrale Erfolgsmethode für das Projektmanagement [^7][^8]. Dabei sollen Projektziele "SMART" festgelegt werden [^9]. Methoden wie die [Projektstrukturplanung](Projektstrukturplan.md), das [Wasserfallmodell](Wasserfall_Modell.md), [SCRUM](SCRUM.md) und die [Netzplantechnik](Netzplantechnik.md) werden dabei häufig herangezogen [^10].
+Die ausgiebige ***[Projektplanung](Projektplanung.md)*** ist als Leitfaden eine zentrale Erfolgsmethode für das Projektmanagement [^7][^8]. Dabei sollen Projektziele "SMART" festgelegt werden [^9]. Methoden wie die [Projektstrukturplanung](Projektstrukturplan.md), das [Wasserfallmodell](Wasserfall_Modell.md), [SCRUM](SCRUM.md) und die [Netzplantechnik](Netzplantechnik.md) werden dabei häufig herangezogen [^10].
 
-Ein weiteres Best Practice ist diesen Projektplan durch ein periodisches **[Projektcontrolling](Projektcontrolling.md)** fortlaufend zu kontrollieren und anzupassen, ohne dabei aber zu weit vom ursprünglichen Plan abzuweichen [^9]. [KANBAN](Kanban.md), eine Methode des agilen Projektmanagement, ist nützlich zur Zwischenkontrolle, da Aufgaben in "geplant", "aktiv" und "erledigt" unterteilt werden [^10]. 
+Ein weiteres Best Practice ist diesen Projektplan durch ein periodisches ***[Projektcontrolling](Projektcontrolling.md)*** fortlaufend zu kontrollieren und anzupassen, ohne dabei aber zu weit vom ursprünglichen Plan abzuweichen [^9]. [KANBAN](Kanban.md), eine Methode des agilen Projektmanagement, ist nützlich zur Zwischenkontrolle, da Aufgaben in "geplant", "aktiv" und "erledigt" unterteilt werden [^10]. 
 
-Klare, schriftliche **[Projektdokumentation](Projektdokumentation.md)** ist ein weiterer kritischer Erfolgsfaktor, da der Projektverlauf dadurch im Nachhinein noch nachvollziehbar ist [^9][^11]. Dies ermöglicht eine reibungslose Nachbereitung des Projekts, welche bestenfalls neue Best Practices für zukünftige Projekte ausarbeiten lässt [^9]. 
+Klare, schriftliche ***[Projektdokumentation](Projektdokumentation.md)*** ist ein weiterer kritischer Erfolgsfaktor, da der Projektverlauf dadurch im Nachhinein noch nachvollziehbar ist [^9][^11]. Dies ermöglicht eine reibungslose Nachbereitung des Projekts, welche bestenfalls neue Best Practices für zukünftige Projekte ausarbeiten lässt [^9]. 
 
-Eine weitere Erfolgsmethode ist das Bereitstellen einer qualifizierten **[Projektleitung](Projektleiter.md)** mit guten Menschenkenntnissen und Kommunikationsfähigkeiten [^12][^13]. Dieser soll regelmäßig Feedback an alle Stakeholder (identifizierbar mittels [Stakeholder-Analyse](Stakeholderanalyse.md)) geben, um Probleme gemeinsam zu lösen und gegenseitiges Verständnis für die gemeinsame Projektarbeit zu schaffen [^9][^10][^11].
+Eine weitere Erfolgsmethode ist das Bereitstellen einer qualifizierten ***[Projektleitung](Projektleiter.md)*** mit guten Menschenkenntnissen und Kommunikationsfähigkeiten [^12][^13]. Dieser soll regelmäßig Feedback an alle Stakeholder (identifizierbar mittels [Stakeholder-Analyse](Stakeholderanalyse.md)) geben, um Probleme gemeinsam zu lösen und gegenseitiges Verständnis für die gemeinsame Projektarbeit zu schaffen [^9][^10][^11].
 
-Gutes **[Risikomanagement](Risikomanagement.md)** ist ein weiteres Best Practice [^9]. Das gesamte Projektteam muss Risiken und ihre Auswirkungen auf das Projekt durchgehend analysieren und gegebenenfalls schnellstmöglich effiziente Gegenmaßnahmen einleiten [^14]. Die Methoden der [Meilensteintrendanalyse](Meilensteintrendanalyse.md) und der [Risikoanalyse](Risikoanalyse_und_Visualisierung.md) eignen sich besonders zur Risikominimierung [^10]. Des Weiteren minimiert der 3rd-Party-Ansatz das Risiko durch die Zusammenarbeit mit erfahrenen externen Projektmanagern[^15].
+Gutes ***[Risikomanagement](Risikomanagement.md)*** ist ein weiteres Best Practice [^9]. Das gesamte Projektteam muss Risiken und ihre Auswirkungen auf das Projekt durchgehend analysieren und gegebenenfalls schnellstmöglich effiziente Gegenmaßnahmen einleiten [^14]. Die Methoden der [Meilensteintrendanalyse](Meilensteintrendanalyse.md) und der [Risikoanalyse](Risikoanalyse_und_Visualisierung.md) eignen sich besonders zur Risikominimierung [^10]. Des Weiteren minimiert der 3rd-Party-Ansatz das Risiko durch die Zusammenarbeit mit erfahrenen externen Projektmanagern[^15].
 
-Ein einleitendes Kick-off-Meeting als **Projektstart** ist ein Best Practice, da es als Startschuss mit motivierender Wirkung agiert [^9].
+Ein einleitendes Kick-off-Meeting als ***Projektstart*** ist ein Best Practice, da es als Startschuss mit motivierender Wirkung agiert [^9].
 
 ![Abbildung](Best_Practices_vs_Worst_Practices/projektmanagement-methoden-word-cloud.jpg)
 *Projektmanagement Methoden word cloud* [^22]
@@ -48,12 +48,12 @@ Im Gegensatz zu Best Practices bezeichnen Worst Practices ineffiziente Vorgehens
 ## Die häufigsten Worst Practices
 
 
-Eine der häufigsten Worst Practices ist schlechte **[Projektkommunikation](Projektkommunikation.md)** zwischen den Projektbeteiligten [^17]. Insbesondere werden dabei Anforderungen von der Projektleitung nicht klar vermittelt und das Team bekommt kein klares Verständnis für das Projekt [^1][^18].
+Eine der häufigsten Worst Practices ist schlechte ***[Projektkommunikation](Projektkommunikation.md)*** zwischen den Projektbeteiligten [^17]. Insbesondere werden dabei Anforderungen von der Projektleitung nicht klar vermittelt und das Team bekommt kein klares Verständnis für das Projekt [^1][^18].
 
-Unausreichende **Projektplanung** mit unklar definierten und mangelhaft dokumentierten Zielen ist ein weiterer großer Faktor für das Projektscheitern [^19]. Dabei werden häufig Termine mit unmöglich einzuhaltenden Deadlines geplant [^20].
+Unausreichende ***Projektplanung*** mit unklar definierten und mangelhaft dokumentierten Zielen ist ein weiterer großer Faktor für das Projektscheitern [^19]. Dabei werden häufig Termine mit unmöglich einzuhaltenden Deadlines geplant [^20].
 Die schlechte Projektplanung wird dann zumeist noch mit einem fehlenden Änderungswesen und dem starren Festhalten an alten Vorgehensweisen kombiniert [^14][^16]. Dies liegt daran, dass Projektteams häufig schwach besetzt sind und keine Erfahrung im Projektmanagement besitzen [^14][^15]. Deshalb wird im Projektverlauf die schlechte Planung meist nicht korrigiert und das Projekt scheitert.
 
-**Sonstige Faktoren** wie mangelhafte [Kostenplanung](Kostenplanung.md) und inkonsequentes Risikomanagement sind weitere Worst Practices, welche beispielsweise beim Bau des Berliner Hauptstadtflughafen Probleme verursachten [^14].
+***Sonstige Faktoren*** wie mangelhafte [Kostenplanung](Kostenplanung.md) und inkonsequentes Risikomanagement sind weitere Worst Practices, welche beispielsweise beim Bau des Berliner Hauptstadtflughafen Probleme verursachten [^14].
 Zu viele Projekte gleichzeitig durchführen zu wollen garantiert meistens auch scheiternde Projekte [^21].
 
 
