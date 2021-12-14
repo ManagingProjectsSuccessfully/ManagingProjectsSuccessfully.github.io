@@ -11,7 +11,7 @@ In Bezug auf Projektmanagement stellt „Who is Who“ die Frage, welche Persone
 
 # Beteiligte im Projektmanagement
 
-Wichtige Personen im [Projektmanagement](https://de.wiktionary.org/wiki/Projektmanagement) werden als Projektbeteiligte bezeichnet. Diese werden in zwei Personengruppen kategorisiert: jene, die unmittelbar in das [Projekt](https://de.wiktionary.org/wiki/Projekt) involviert sind und jene, die indirekt Einflussnahme auf das Projekt ausüben können.
+Wichtige Personen im [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) werden als Projektbeteiligte bezeichnet. Diese werden in zwei Personengruppen kategorisiert: jene, die unmittelbar in das [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) involviert sind und jene, die indirekt Einflussnahme auf das Projekt ausüben können.
 Der unmittelbare Personenkreis umfasst den Auftraggeber, das Projektteam und Projektleitung sowie jene Personen oder Abteilungen, die das Projektergebnis fortführen werden oder Nutzer des Projektergebnisses sind. Sie sind am Projektverlauf aktiv beteiligt und beeinflussen mit ihrer Leistung den Ergebnisverlauf.
 
 Die zweite Gruppierung wird auch als „externe Projektbeteiligte“ bezeichnet und ist im Projektmanagement häufig in synonymen Gebrauch mit dem Begriff „Stakeholder“. Zu dieser Gruppierung gehören Investoren, Aktionäre, Banken und die übrigen Unternehmensbereiche. Im weitesten Sinn stellen [Stakeholder](https://de.wiktionary.org/wiki/Stakeholder) alle Gruppierungen, die im Rahmen einer verantwortungsbewussten und nachhaltigen Unternehmensführung zu berücksichtigen sind. Dazu gehören somit auch Staat und Gesellschaft[^2].
@@ -69,6 +69,8 @@ Der Fachausschuss besteht aus Mitarbeitern, die aus den betroffenen oder beteili
 
 * [Project Management Team Structure for Internet Providing Companies](https://link.springer.com/chapter/10.1007/978-3-319-23126-6_47)
 * [Roles of Top Management and Organizational Project Management in the Effective Company Strategy Implementation](https://www.sciencedirect.com/science/article/pii/S1877042816308540)
+* [Projektportfoliomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md)
+* [Internationale_Projektmanagement_Standards](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Internationale_Projektmanagement_Standards.md)
 
 
 # Weiterführende Literatur
