@@ -8,6 +8,9 @@ anrechnung: k
 
 *Abbildung 1: Das Projekthandbuch als wichtiger Bestandteil eines erfolgreichen Projektmanagements*[^11]
 
+*Abbildung 1: Das 4-Phasen_Modell
+https://mediencommunity.de/system/files/wbts/projektmanagement/le01/zusammenfassung3.html
+
 Ein strukturiertes Projektmanagement ist maßgeblich für den Erfolg eines Projektes. Im Zuge dessen, hat sich ein 4-Phasen-Modell etabliert, welches ein Projekt in die folgenden Phasen untergliedert: 
 * Projektdefinition
 * Projektplanung
