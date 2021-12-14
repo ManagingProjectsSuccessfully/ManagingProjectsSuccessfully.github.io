@@ -23,7 +23,7 @@ Wie bereits erwähnt handel es sich bei dem Begriff "Open Source" um den Quellco
 
 Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil der IT-Branche geworden, weshalb sich ein breites Spektrum an Open-Source-[Projekten](Projekt.md) herausgebildet hat. Insgesamt lassen sich vier typische Varianten normieren: 
 
-*Korporativ geführte Kollaborationsprojekte* zeichnen sich durch eine hierarchisch aufgebaute Arbeitsorganisation aus, in der Programmierer aus den beteiligten Unternehmen die Basis der [zusammenarbeitenden Community] (Projektmitarbeiter.md) darstellen. Im Vordergrund steht neben der projektbezogenen Kollaboration mit anderen Stakeholdern, um gemeinsam Produkte zu erarbeiten, die Nutzung von Synergieeffekten ohne Ausgestaltung formaler Kooperationsbeziehungen. Beispiele für korporativ geführte Kollaborationsprojekte sind neben Android und WebKit auch OpenStack. Der  Vorteil dieser kollaborativen Open-Source-Projekte besteht darin, dass die Einzelaneignung kollektiv erarbeiteter Codes durch quelloffene Lizenzen verhindert werden kann und somit dem Problem des Trittbrettfahrens entgegenwirkt.
+*Korporativ geführte Kollaborationsprojekte* zeichnen sich durch eine hierarchisch aufgebaute Arbeitsorganisation aus, in der Programmierer aus den beteiligten Unternehmen die Basis der [zusammenarbeitenden Community](Projektmitarbeiter.md) darstellen. Im Vordergrund steht neben der projektbezogenen Kollaboration mit anderen Stakeholdern, um gemeinsam Produkte zu erarbeiten, die Nutzung von Synergieeffekten ohne Ausgestaltung formaler Kooperationsbeziehungen. Beispiele für korporativ geführte Kollaborationsprojekte sind neben Android und WebKit auch OpenStack. Der  Vorteil dieser kollaborativen Open-Source-Projekte besteht darin, dass die Einzelaneignung kollektiv erarbeiteter Codes durch quelloffene Lizenzen verhindert werden kann und somit dem Problem des Trittbrettfahrens entgegenwirkt.
 
 *Elitezentrierte Projektgemeinschaften* stützen sich zwar ebenfalls zu einem Großteil auf den Input unternehmensaffilierter Entwickler, stehen dabei aber nicht unter der Kontrolle eines etablierten Unternehmens. Die [strategische Führung](Projektsteuerung.md) übernimmt hier viel mehr ein langfristiges Führungsteam oder ein gewählter [Projektleiter](Projektleiter.md). Linux Kernel, Debian oder Firefox bilden Beispiele für elitezentrierte Open-Source-Projekte.
 
@@ -43,7 +43,7 @@ Open-Source Software ist in den letzten Jahren zu einem elementaren Bestandteil 
 | 2             | Git           | GitHub        | 
 | 3             | My SQL        | Oracle        |
 
-## Vorteile von Open-Source Projekten
+## [Vorteile](Best_Practices.md) von Open-Source Projekten
 
 Einer der wichtigsten und größten Vorteile von Open Source Projekten stellt das sog. „Peer review“ – Prinzip dar. Da Quellcodes frei zugänglich sind können diese von Peer-Programmierern aktiv beurteilt werden. Im besten Fall trägt dies dazu bei, dass Fehler schnell aufgedeckt oder gar beseitigt werden können. Durch die Offenheit der Open Source Systeme können außerdem Andere aus der erfolgten Problemlösung lernen oder auch bereits vorhandene und bewährte Lösungen wiederverwenden. Und auch Innovationen können durch das Zusammentreffen großer, vielfältiger Communitys begünstigt werden. Andere Werte von Open Source Projekten stellen aber auch die Flexibilität, Schnelligkeit, Transparenz und niedrigere Kosten dar.[^6]
 
