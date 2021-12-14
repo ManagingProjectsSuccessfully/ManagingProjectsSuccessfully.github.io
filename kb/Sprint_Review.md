@@ -14,7 +14,7 @@ Immer öfter neigen Unternehmen dazu, Projekte anhand des **agilen Projektmanage
 des agilen Managements und deren Kernpunkte sind es, dass es Projekten und Prozessen *breiteren Raum an Flexibilität* bietet. Dies macht es möglich, *schneller und
 effektiver* auf Veränderungen einzugehen.[^1]
 
-Eine Methodik, welche das agile Konzept verfolgt, ist [Scrum](SCRUM.md). Diese hat ihren Ursprung in den *frühen 90er Jahren* und wurde primär als Entwicklungsmethodik 
+Eine Methodik, welche das agile Konzept verfolgt, ist [Scrum](SCRUM.md). Es hat seinen Ursprung in den *frühen 90er Jahren* und wurde primär als Entwicklungsmethodik 
 für Software
 eingeführt.[^2]  
 
@@ -94,8 +94,11 @@ Fortschritte des Produktes in Richtung des vorgegebenen Ziels.[^6]
 
 # Siehe auch
 
-* [Link zu den Grundlagen des Sprints](Sprint.md)
 * [Link zum Product Backlog](Product_Backlog.md)
+* [Link zur Feedback Kultur](Feedback_Kultur.md)
+* [Link zu Feedback Methoden](Feedback_Methoden.md)
+* [Link zu Scrum Artefakte](Scrum_Artefakte.md)
+* [Link zum Scrum Guide](Scrum_Guide.md)
 
 
 # Weiterführende Literatur
