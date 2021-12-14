@@ -104,4 +104,4 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. 
 [^11]: Steffens T. (2007) Projektcontrolling. Methoden der Planung, Kontrolle und Steuerung, München, GRIN Verlag. https://www.grin.com/document/89579
 [^12]: [Projektplan](https://www.projektmagazin.de/glossarterm/projektplan)
 [^13]: [Meilensteintrendanalyse](https://de.wikipedia.org/wiki/Meilensteintrendanalyse)
-[^14]: [Soll-Ist-Vergleich](https://www.kayenta.de/projektmanagement-glossar-lexikon/begriffserklaerung/soll-ist-vergleich.html)
+[^14]: [Soll-Ist-Vergleich](https://www.kayenta.de/projektmanagement-glossar-lexikon/begriffserklaerung/soll-ist-vergleich.html) (abgerufen am 14.12.2021)
