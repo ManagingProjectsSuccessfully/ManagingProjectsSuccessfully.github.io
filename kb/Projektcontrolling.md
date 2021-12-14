@@ -102,6 +102,6 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. 
 [^9]: Beifuss A., Holzbaur U. (2020) Projektcontrolling. In: Projektmanagement für Studierende. essentials. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-658-32664-7_4
 [^10]: [Ablaufschema des Projektcontrollings](https://www.geo.fu-berlin.de/en/v/proposal_writing/learning_content/7_project_management/controlling/index.html)
 [^11]: Steffens T. (2007) Projektcontrolling. Methoden der Planung, Kontrolle und Steuerung, München, GRIN Verlag. https://www.grin.com/document/89579
-[^12]: https://www.projektmagazin.de/glossarterm/projektplan
+[^12]: [Projektplan](https://www.projektmagazin.de/glossarterm/projektplan)
 [^13]: [Meilensteintrendanalyse](https://de.wikipedia.org/wiki/Meilensteintrendanalyse)
 [^14]: [Soll-Ist-Vergleich](https://www.kayenta.de/projektmanagement-glossar-lexikon/begriffserklaerung/soll-ist-vergleich.html)
