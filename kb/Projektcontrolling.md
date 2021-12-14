@@ -99,7 +99,7 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. 
 [^6]: [Teilbereiche des Projektcontrollings](https://refa.de/service/refa-lexikon/projektcontrolling) (abgerufen am 14.12.2021)
 [^7]: Bär C., Fiege J., Weiß M. (2017).*Projektcontrolling. In: Anwendungsbezogenes Projektmanagement*.Springer Vieweg.https://doi.org/10.1007/978-3-662-52974-4_8.
 [^8]: [Kennzahlen und Methoden des Projektcontrollings](https://de.wikipedia.org/wiki/Projektcontrolling#Kennzahlen_und_Methoden_des_Projektcontrollings) (abgerufen am 14.12.2021)
-[^9]: Beifuss A., Holzbaur U. (2020). *Projektcontrolling. In: Projektmanagement für Studierende*. essentials. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-658-32664-7_4
+[^9]: Beifuss A., Holzbaur U. (2020). *Projektcontrolling. In: Projektmanagement für Studierende*. Springer Gabler. https://doi.org/10.1007/978-3-658-32664-7_4
 [^10]: [Ablaufschema des Projektcontrollings](https://www.geo.fu-berlin.de/en/v/proposal_writing/learning_content/7_project_management/controlling/index.html) (abgerufen am 14.12.2021)
 [^11]: Steffens T. (2007). Projektcontrolling. Methoden der Planung, Kontrolle und Steuerung, München, GRIN Verlag. https://www.grin.com/document/89579
 [^12]: [Projektplan](https://www.projektmagazin.de/glossarterm/projektplan) (abgerufen am 14.12.2021)
