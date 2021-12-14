@@ -26,7 +26,7 @@ Die größte Herausforderung, die sich für die Projektteams in der Zukunft hera
 Ein Hauptkriterium ist die Optimierung der Kommunikation zwischen den einzelnen Projektmitgliedern, die maßgeblich zum Projekterfolg beiträgt. Ohne eine umfassende Integration und Koordination in diesem Bereich, können daraus Zeitverluste, höhere Aufwendungen und Qualitätsminderungen resultieren.[^6] Der Teamgedanke muss in der Unternehmenskultur, also auch besonders in Zukunft hinsichtlich des Projektmanagements, fest verankert sein.
 
 
-![image](https://github.com/wernerni/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_4_0/TechConsult_Projektemanagement-768x427.png)
+![image](https://github.com/wernerni/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_4_0/TechConsult_Projektemanagement-768x427.jpg)
 
 Künftige Herausforderungen im Projektmanagement[^12] 
 
