@@ -95,9 +95,9 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. 
 
 [^3]: [Projektmanagement Handbuch](https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/projektcontrolling/) (abgerufen am 14.12.2021)
 [^4]: https://doi.org/10.1007/978-3-658-23714-1
-[^5]: Fiedler R. (2020). *Controlling von Projekten. Mit konkreten Beispielen aus der Unternehmenspraxis – Alle controllingrelevanten Aspekte der Projektplanung, Projektsteuerung und Projektkontrolle* https://doi.org/10.1007/978-3-658-28032-1
+[^5]: Fiedler R. (2020). *Controlling von Projekten. Mit konkreten Beispielen aus der Unternehmenspraxis – Alle controllingrelevanten Aspekte der Projektplanung, Projektsteuerung und Projektkontrolle*.Springer Vieweg https://doi.org/10.1007/978-3-658-28032-1
 [^6]: [Teilbereiche des Projektcontrollings](https://refa.de/service/refa-lexikon/projektcontrolling) (abgerufen am 14.12.2021)
-[^7]: Bär C., Fiege J., Weiß M. (2017) *Projektcontrolling. In: Anwendungsbezogenes Projektmanagement*. Xpert.press. Springer Vieweg, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-52974-4_8
+[^7]: Bär C., Fiege J., Weiß M. (2017). *Projektcontrolling. In: Anwendungsbezogenes Projektmanagement*. Xpert.press. Springer Vieweg. https://doi.org/10.1007/978-3-662-52974-4_8.
 [^8]: [Kennzahlen und Methoden des Projektcontrollings](https://de.wikipedia.org/wiki/Projektcontrolling#Kennzahlen_und_Methoden_des_Projektcontrollings) (abgerufen am 14.12.2021)
 [^9]: Beifuss A., Holzbaur U. (2020). *Projektcontrolling. In: Projektmanagement für Studierende*. essentials. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-658-32664-7_4
 [^10]: [Ablaufschema des Projektcontrollings](https://www.geo.fu-berlin.de/en/v/proposal_writing/learning_content/7_project_management/controlling/index.html) (abgerufen am 14.12.2021)
