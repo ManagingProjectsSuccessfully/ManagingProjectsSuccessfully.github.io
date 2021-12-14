@@ -5,17 +5,15 @@ author: Saskia1403
 anrechnung: k 
 ---
 
-![Projektphasen](Projekthandbuch/Projektphasen.png)
-
-*Abbildung 1: Das 4-Phasen-Modell*[^11]
-
-
-
-Ein strukturiertes Projektmanagement ist maßgeblich für den Erfolg eines Projektes. Im Zuge dessen, hat sich ein 4-Phasen-Modell etabliert, welches ein Projekt in die folgenden Phasen untergliedert: 
+Ein strukturiertes Projektmanagement ist maßgeblich für den Erfolg eines Projektes. Im Zuge dessen, hat sich ein 4-Phasen-Modell etabliert, das ein Projekt in die folgenden Phasen untergliedert:
 * Projektdefinition
 * Projektplanung
 * Projektdurchführung
 * Projektabschluss
+
+![Projektphasen](Projekthandbuch/Projektphasen.png)
+
+*Abbildung 1: Das 4-Phasen-Modell*[^11]
 
 Die Aufgabe des Projekthandbuchs ist es, den Teammitgliedern über alle Phasen des Projektes hinweg, einen Überblick über die aktuellen Ziele und Inhalte zu verschaffen[^1].
 
