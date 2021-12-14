@@ -67,12 +67,12 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
    - Interessen werden jeweils vertreten 
    - *Verteter der geschäftlichen Unternehmensinteressen:* Sicherstellung, dass Zielsetzung des Projekts geschäftlich sinnvoll ist
    - *Verteter der Benutzer:* Erzielung des angestrebten Nutzens, durch Einsetzen hergestellter Produkte 
-   - *Vertreter der Lieferanten* Bereitstellung von Ressourcen und erforderliche Kenntnisse für Herstellung der Produkte 
+   - *Vertreter der Lieferanten* Bereitstellung von Ressourcen und erforderlichen Kenntnissen für Herstellung der Produkte 
    
 ### 4. Definierte Phasen 
    - Planung, Überwachung, Steuerung    
    - Prüfung des Fortschritts 
-   - Am Ende einer jeden Phase: Bewertung des Projektstatus und Überprüfung von Business Case und Pläne
+   - Am Ende einer jeden Phase: Bewertung des Projektstatus und Überprüfung von Business Case und Plänen
    - Entscheidung über Weiterführung des Projekts  
    - Management-Phasen: Grober Projektplan mit detailliertem Phasenplan für aktuelle Phase
    - Mindestens 2 Management-Phasen sind notwendig
