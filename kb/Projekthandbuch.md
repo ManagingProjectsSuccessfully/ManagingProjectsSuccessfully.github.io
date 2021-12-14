@@ -17,7 +17,7 @@ Das Projekthandbuch ist in seiner Ausführung ziemlich knapp zu halten, sodass e
 
 # Begriffliche Abgrenzung 
 
-Als erstes ist das Projekthandbuch vom [Projektmanagementhandbuch](Projektmanagementhandbuch.md) zu unterscheiden, welches eine „Zusammenstellung von Regelungen [ist], die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten“[^6]. Das Projektmanagementhandbuch bezieht sich folglich allgemein auf die Regelungen die bei einem Projekt in diesem Unternehmen gelten sollen und das Projekthandbuch bezieht sich auf Regelungen die für ein spezielles Projekt gelten[^2] [^4].
+Als erstes ist das Projekthandbuch vom [Projektmanagementhandbuch](Projektmanagementhandbuch.md) zu unterscheiden, welches eine „Zusammenstellung von Regelungen [ist], die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten“[^6]. Folglich bezieht sich das Projektmanagementhandbuch auf allgemeine Regelungen, die im Unternehmen für ein Projekt gelten. Das Projekthandbuch hingegen bezieht sich auf Regelungen, die für ein spezielles Projekt gelten[^2] [^4].
 
 An zweiter Stelle ist das Projekthandbuch von der [Projektdokumentation](Projektdokumentation.md) zu unterscheiden. Die Projektdokumentation beschreibt eine Sammlung aller wichtigen Dokumente, die während des Projektverlaufs erstellt wurden und die Ergebnisse dessen veranschaulicht. Dahingegen bezieht sich das Projekthandbuch auf die Planung des Projektes[^5] [^7].
 
