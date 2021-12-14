@@ -54,10 +54,10 @@ Vorgehensmodelle können in klassische und [agile](Agiles_Manifest.md) Vorgehens
 - empirisch
 
 Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
-|Autor:innen| Kuster et al. |Timinger|
-|---|---|---|
-|**Anzahl der Kategorien**|2|4|
-|**Einteilung in**| <ul><li>klassisch/Phasenkonzept</li><li>agil</li></ul>|<ul><li>sequenziell</li><li>nebenläufig/parallel</li><li>wiederholend</li><li>agil</li></ul>|
+| Autor:innen | Kuster et al. | Timinger | Schneider et al. | Broy & Kuhrmann | Kneuper et al. |
+|---|---|---|---|---|---|
+|**Anzahl der Kategorien**|2|4|3|3|3|
+|**Einteilung in**| <ul><li>klassisch/Phasenkonzept</li><li>agil</li></ul> | <ul><li>sequenziell</li><li>nebenläufig/parallel</li><li>wiederholend</li><li>agil</li></ul> | <ul><li>linear oder Phasenmodell</li><li>iterativ</li><li>Prototyping</li></u> | <ul><li>phasenorienteirte Modelle und sequenzielles Vorgehen</li><li>iteratives und inkrementelles Vorgehen</li><li>Prototyping</li></u> | <ul><li>sequentiell</li><li>evolutionär</li><li>Prototyping</li></u> |
 
 Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
 |       Kuster   et al.8      |             Timinger7             |    Schneider   et al.4   |                   Broy   & Kuhrmann2                   | Kneuper   et al.6 |               Wieczorrek   & Mertens5              |
