@@ -96,7 +96,7 @@ Hive bietet eine Software welche, durch die zahlreichen Individualisierungsmögl
 
 # Siehe auch
 
-* [Gantt](/kb/Gantt.md)
+* [Gantt](/kb/Gantt_Diagramme.md)
 * [Kanban](/kb/Kanban.md)
 
 # Quellen
