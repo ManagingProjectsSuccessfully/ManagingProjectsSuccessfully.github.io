@@ -22,7 +22,8 @@ Durch die Beantwortung dieser drei Fragen soll sicher gestellt werden, dass jede
 ist, gegensätzlich zu Stand Up Meetings in Kanban, auf die Personen fokussiert. Jede der zu beantwortenden Fragen ist auf den Entwickler selbst bezogen
 und nicht auf das Projekt bzw. Sprint.[^3]
 
-![Abbildung 1](scrumFramework.png)
+![Abbildung 1: SCRUM Framework](scrumFramework.png)
+*SCRUM Framework*
 
 # Stand Ups in Kanban
 
@@ -50,13 +51,13 @@ der Individuen beinträchtigt.
 
 # Siehe auch
 
-* [Kanban](Kanban.md)
-* [Scrum](SCRUM.md)
+* [Kanban](/Kanban.md)
+* [Scrum](/SCRUM.md)
 
 # Quellen
 
-[^1]: https://www.scrum.org/resources/what-is-a-daily-scrum (Stand 09.11.2021)
-[^2]: https://www.conjur.org/blog/running-a-kanban-standup-meeting/ (Stand 09.11.2021)
-[^3]: https://kanbanize.com/blog/running-a-better-stand-up-meeting/ (Stand 09.11.2021)
+[^1]: https://www.scrum.org/resources/what-is-a-daily-scrum (Stand 09.11.2021) Erklärung des Daily SCRUM
+[^2]: https://www.conjur.org/blog/running-a-kanban-standup-meeting/ (Stand 09.11.2021) Stand Ups in Kanban
+[^3]: https://kanbanize.com/blog/running-a-better-stand-up-meeting/ (Stand 09.11.2021) Effektive Gestaltung von Stand Ups
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-[^5]: Bluedorn, A. C., Turban, D. B., & Love, M. S. (1999). The effects of stand-up and sit-down meeting formats on meeting outcomes. Journal of Applied Psychology, 84(2), 277–285.
+[^5]: Bluedorn, A. C., Turban, D. B., & Love, M. S. (1999). The effects of stand-up and sit-down meeting formats on meeting outcomes. Journal of Applied Psychology, 84(2), 277–285. Effekte eines Stand Ups
