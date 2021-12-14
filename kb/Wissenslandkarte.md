@@ -74,7 +74,7 @@ Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine 
 ### Nachteile
 
 - Überflutung von Informationsanfragen
-- Gefahr der Überstreitung der Privatsphäre der Mitarbeiter
+- Gefahr der Überschreitung der Privatsphäre der Mitarbeiter
 - Wahrung des Betriebsgeheimnisses  
 - Durch grafische Darstellung, keine dynamischen Aspekte möglich
 - Fehlende automatische Aktualisierung des neu erlernten Wissens
