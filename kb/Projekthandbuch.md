@@ -7,9 +7,9 @@ anrechnung: k
 
 Ein strukturiertes [Projektmanagement](Projektmanagement.md) ist maßgeblich für den Erfolg eines Projektes. Im Zuge dessen, hat sich ein 4-Phasen-Modell etabliert, das ein Projekt in die folgenden Phasen untergliedert:
 * Projektdefinition
-* Projektplanung
-* Projektdurchführung
-* Projektabschluss
+* [Projektplanung](Projektplanung.md)
+* [Projektdurchführung](Projektsteuerung.md)
+* [Projektabschluss](Projektabschluss.md)
 
 ![Projektphasen](Projekthandbuch/Projektphasen.png)
 
@@ -60,6 +60,8 @@ Eine weitere Form des Projekthandbuchs ist der Project Management Plan des [PMBO
 * [Planungssicherheit](Planungssicherheit.md)
 * [Projektplanung](Projektplanung.md)
 * [Projektumfang](Projektumfang.md)
+* [Projektdurchführung](Projektsteuerung.md)
+* [Projektabschluss](Projektabschluss.md)
 
 
 # Weiterführende Literatur
