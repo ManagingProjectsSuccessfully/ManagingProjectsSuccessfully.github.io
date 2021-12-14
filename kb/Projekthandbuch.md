@@ -7,7 +7,7 @@ anrechnung: k
 
 ![Projektphasen](Projekthandbuch/Projektphasen.png)
 
-*Abbildung 1: Das 4-Phasen_Modell*[^11]
+*Abbildung 1: Das 4-Phasen-Modell*[^11]
 
 
 
