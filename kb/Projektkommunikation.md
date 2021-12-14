@@ -8,7 +8,7 @@ anrechnung: k
 Die Projektkommunikation ist zum einen der strukturierte Informationsaustausch innerhalb einer Projektorganisation, aber auch die projektbezogene Kommunikation zwischen Projektteam und Stakeholdern. [^1]
 
 
-# Die Projektkommunikation 
+# Definition 
 
 Um [Projekte](https://managingprojectssuccessfully.github.io/kb/Projekt.html) erfolgreich abschließen zu können, ist die Kommunikation sehr wichtig.
 
