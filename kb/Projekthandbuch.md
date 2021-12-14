@@ -9,7 +9,7 @@ Ziel eines Projekthandbuchs ist es, dass alle Teammitglieder eines Projektes jed
 
 Des Weiteren ist festgelegt, dass der [Projektleiter](Projektleiter.md) sowohl für die Erstellung, als auch die regelmäßige Aktualisierung des Projekthandbuchs verantwortlich ist. Gibt es eine Projektassistenz, so kann diese Abwandlungen versionieren und speichern. Darüber hinaus muss nicht nur die ursprüngliche Version des Projekthandbuchs, sondern auch jede neue Version, von dem für das Projekt bestimmten Lenkungsausschuss freigegeben werden[^3] [^4].
 
-Da das übergeordnete Ziel des Projekthandbuchs ist, einen Überblick über das Projekt zu verschaffen, ist es in seiner Ausführung ziemlich knapp zu halten, sodass es nur alle wichtigen Informationen beinhaltet. Hierfür kann an geeigneter Stelle auf einschlägige Bestandteile des [Projektmanagementhandbuchs](Projektmanagementhandbuch.md) verwiesen werden[^3] [^5]. 
+Das Projekthandbuch ist in seiner Ausführung ziemlich knapp zu halten, sodass es nur alle wichtigen Informationen beinhaltet. Hierfür kann an geeigneter Stelle auf einschlägige Bestandteile des [Projektmanagementhandbuchs](Projektmanagementhandbuch.md) verwiesen werden[^3] [^5]. 
 
 ![Projektplanung](Projekthandbuch/Projektplanung.jpg)
 
