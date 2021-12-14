@@ -10,23 +10,19 @@ anrechnung: a
 
 # Überblick
 
-Immer öfter neigen Unternehmen dazu, Projekte anhand des **agilen Projektmanagements** durchzuführen und sich die dafür erforderlichen Kompetenzen anzueignen. Hintergrund
-des agilen Managements und deren Kernpunkte sind es, dass es Projekten und Prozessen *breiteren Raum an Flexibilität* bietet. Dies macht es möglich, *schneller und
-effektiver* auf Veränderungen einzugehen.[^1]
+Unternehmen neigen vermehrt dazu, Projekte anhand des **agilen Projektmanagements** durchzuführen und sich die dafür erforderlichen Kompetenzen anzueignen. Hintergrund
+des agilen Managements und deren Kernpunkte sind es, Projekten und Prozessen *breiteren Raum an Flexibilität* zu bietet. Dies macht es möglich, *schneller und
+effektiver* auf Veränderungen einzugehen[^1]; so auch bei [Scrum](SCRUM.md).
 
-Eine Methodik, welche das agile Konzept verfolgt, ist [Scrum](SCRUM.md). Es hat seinen Ursprung in den *frühen 90er Jahren* und wurde primär als Entwicklungsmethodik 
-für Software
-eingeführt.[^2]  
-
-Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^3]. Darunter fallen:
+Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^2]. Darunter fallen:
 
 1. **Ereignisse**
 2. an dem Prozess **beteiligte Personen**
 3. daraus **resultiernde Ergebnisse**
 
-Die Agilität von Scrum zeichnet sich dadurch aus, dass der Workflow in zeitlich festgelegte Schritte, sog. [Sprints](Sprint.md) eingeteilt wird. Sie fungieren als 
+Die Agilität von Scrum zeichnet sich dadurch aus, dass der Workflow in zeitlich festgelegte Schritte, sog. **[Sprints](Sprint.md)** eingeteilt wird. Sie fungieren als 
 Kernelemente der Ereignisse, welche  einen hohen Stellenwert einnehmen und dementsprechend *"der Herzschlag von Scrum ist, wo Ideen in Wert
-umgewandelt werden"*[^4].
+umgewandelt werden"*[^3].
 
 
 # Sprint Review
@@ -34,17 +30,17 @@ umgewandelt werden"*[^4].
 Sprint Retrospective, Sprint Review, [Sprint Planning](Sprint_Planning.md) und [Daily Scrum](Daily_Scrum.md) sind die Bausteine und ergeben 
 zusammen einen Sprint. Dabei 
 wird immer wieder der gleiche Ablauf
-befolgt, wobei der Sprint Review **vor** der Sprint Retrospective stattfindet[^4].
+befolgt, wobei der Sprint Review **vor** der Sprint Retrospective stattfindet[^3].
 
 Während der Phase des Sprint Reviews kommt das ganze Scrum Team zusammen, die dort die Möglichkeit haben Feedback zu geben. Diese Gruppe besteht demnach aus dem
-[Product Owner](Product_Owner.md), dem [Scrum Master](Scrum_Master.md) und dem Entwickler Team. Zudem sollte idealerweise auch der Stakeholder hinzugezogen werden; dies 
-kann zum Beispiel ein Anwender, ein Manager oder ein Vertreter aus diversen Bereichen sein[^4].
+[Product Owner](Product_Owner.md), dem [Scrum Master](Scrum_Master.md) und dem Entwickler Team. Zudem sollte idealerweise auch der Stakeholder hinzugezogen werden. 
+Dieser kann zum Beispiel ein Anwender, ein Manager oder ein Vertreter aus diversen Bereichen sein[^3], der ein großes Interesse am Erfolg des Projektes hat.
 
 
 # Ablauf eines Sprint Reviews
 
-Üblicherweise dauert ein solches Meeting ca. vier Stunden, sollten die Sprints aber kürzer sein, wird auch dazugehörig die Dauer der Besprechung angepasst[^2].
-Was auch bereits im darunterstehenden Bild illustriert wurde, soll im Folgenden noch genauer erläutert werden:
+Üblicherweise dauert ein solches Meeting ca. vier Stunden. Sollten die Sprints aber kürzer sein, wird auch dazugehörig die Dauer der Besprechung angepasst[^4].
+Was auch bereits im untenstehenden Bild illustriert wurde, soll im Folgenden noch genauer erläutert werden:
 
 ![Beispielabbildung](https://blog.objectbay.com/hs-fs/hubfs/Sprint_Review_Meeting.jpg?width=621&name=Sprint_Review_Meeting.jpg)
 
@@ -108,9 +104,9 @@ Fortschritte des Produktes in Richtung des vorgegebenen Ziels.[^6]
 # Quellen
 
 [^1]: https://www.factro.de/blog/agiles-projektmanagement
-[^2]: https://scrumguide.de/die-geschichte-von-scrum/
-[^3]: https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-artefakte
-[^4]: https://dl.dasscrumteam.com/Scrum%20Guide%20Poster%20de%202.0.pdf
+[^2]: https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-artefakte
+[^3]: https://dl.dasscrumteam.com/Scrum%20Guide%20Poster%20de%202.0.pdf
+[^4]: https://scrumguide.de/die-geschichte-von-scrum/
 [^5]: https://www.agile-academy.com/de/product-owner/eine-agenda-fuer-das-sprint-review/
 [^6]: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf
 
