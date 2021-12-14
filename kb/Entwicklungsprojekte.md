@@ -70,12 +70,10 @@ Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus 
 
 [^1]: [Entwicklungsprojekt, Spektrum.de](https://www.spektrum.de/lexikon/geographie/entwicklungsprojekt/2079)
 
-[^2]:	http://www.wirtschaftslexikon24.com/e/entwicklungsprojekte/entwicklungsprojekte.htm 
+[^2]:	[Definition Entwicklungsprojekte, wirtschaftslexikon24.com](http://www.wirtschaftslexikon24.com/e/entwicklungsprojekte/entwicklungsprojekte.htm)
 
-[^3]: https://educalingo.com/de/dic-de/entwicklungsprojekt
+[^3]: [Definition Entwicklungsprojekt, educalingo.com](https://educalingo.com/de/dic-de/entwicklungsprojekt)
 
-[^4]: https://www.projektmagazin.de/glossarterm/forschungs-und-entwicklungsprojekt
-
-[^5]: https://github.com/katjasc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Entwicklungsprojekte/studie_entwicklungsprojekte.pdf
-
-[^6]: https://www.worldvision.de/en/node/5608871
+[^4]: [Forschungs- und Entwicklungsprojekt, projektmagazin.de](https://www.projektmagazin.de/glossarterm/forschungs-und-entwicklungsprojekt)
+[^5]: [Fraunhofer Studie- komplexe Entwicklungsprojekte effektiver managen](https://github.com/katjasc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Entwicklungsprojekte/studie_entwicklungsprojekte.pdf)
+[^6]: [Bild von World Vision](https://www.worldvision.de/en/node/5608871)
