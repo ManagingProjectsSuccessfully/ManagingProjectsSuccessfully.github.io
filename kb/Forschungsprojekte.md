@@ -55,6 +55,7 @@ Die unten aufgeführte Tabelle zeigt mögliche Kategorien und deren Einordnung v
 | Klar definierte Kosten | **Ja**  | Nein |
 | Klar definierte Projektdauer | **Ja**  | Nein | 
 
+[^3]
 
 ## Lösungsansatz
 Eine mögliche Lösung stellt hierbei das [Microsoft PPM](https://www.microsoft.com/de-de/microsoft-365/project/project-portfolio-management)-Tool dar. Da es ein benutzerfreundliches Tool für zentrales Projektmanagement mit einer gemeinsamen Arbeits- und Informationsplattform für Forscher und Projektbeteiligte ist, kann es besonders mangelnde Kommunikation verhindern und die Projektplanung verbessern [^4]. 
