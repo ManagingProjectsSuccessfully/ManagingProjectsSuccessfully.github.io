@@ -55,15 +55,15 @@ Die Mitglieder des Kerteams können auch bestimmen, wer als Sprecher gegenüber 
 
 # **Aspekte der Projektmitarbeiterentwicklung (Teamentwicklung)**
 
-*Vision und Ziele* - Jeder soll die Vision und die Ziele des Projekts kennen und diese sollen während des gesamten Projekts kommuniziert werden.
+* *Vision und Ziele* - Jeder soll die Vision und die Ziele des Projekts kennen und diese sollen während des gesamten Projekts kommuniziert werden.
 
-*Rollen und Verantwortlichkeiten* - Mitglieder des Projektteams sollen ihre Rollen und Verantwortlichkeiten verstehen und erfüllen können.
+* *Rollen und Verantwortlichkeiten* - Mitglieder des Projektteams sollen ihre Rollen und Verantwortlichkeiten verstehen und erfüllen können.
 
-*Projektteamarbeit* - Hier geht es um die Erleichterung der Kommunikation und Problemlösung.
+* *Projektteamarbeit* - Hier geht es um die Erleichterung der Kommunikation und Problemlösung.
 
-*Orientierungshilfe* - Jemand soll das gesamte Team leiten, sodass hinsichtlich des Projekts in die richtige Richtung gehen.
+* *Orientierungshilfe* - Jemand soll das gesamte Team leiten, sodass hinsichtlich des Projekts in die richtige Richtung gehen.
 
-*Wachstum* - Entwicklung von Methoden zur Erkennung leistungsschwacher/leistungsstarker Bereiche. [^8]
+* *Wachstum* - Entwicklung von Methoden zur Erkennung leistungsschwacher/leistungsstarker Bereiche. [^8]
 
 
 
