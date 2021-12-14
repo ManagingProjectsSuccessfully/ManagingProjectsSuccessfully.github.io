@@ -5,7 +5,7 @@ author: katjasc
 anrechnung: k
 ---
 
-Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. [^1] Sie sind in zwei Kategorien eingeteilt: Einerseits sind es [Projekt](https://managingprojectssuccessfully.github.io/kb/Projekt.html), die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. [^2] Andererseits sind es Projekte, die den sozialen Standard eines Landes anheben sollen. [^3]
+Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. [^1] Sie sind in zwei Kategorien eingeteilt: Einerseits sind es [Projekte](https://managingprojectssuccessfully.github.io/kb/Projekt.html), die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. [^2] Andererseits sind es Projekte, die den sozialen Standard eines Landes anheben sollen. [^3]
 
 
 # klassische Entwicklungsprojekte
