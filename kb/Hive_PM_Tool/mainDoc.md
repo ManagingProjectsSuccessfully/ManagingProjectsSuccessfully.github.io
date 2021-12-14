@@ -25,7 +25,7 @@ Nutzer entnehmen welche Aktivitäten in welchem Projekt er zu erledigen hat. Die
 man wurde alternativ von einem Projekt Admin als Auszuführender determiniert.
 
 ![Abbildung 1: Hive Dashboard](dashboardBild.PNG)
-*Hive Dashboard*
+*Abbildung 1: Hive Dashboard*
 
 ## Menü
 
@@ -44,21 +44,21 @@ wie GitHub einzubinden.
 Desweiteren stellt Hive eigene Add-Ons und Apps zur Verfügung, welche es dem Nutzer ermöglichen das Tool individuell zu gestalten (siehe [Abbildung 2])
 
 ![Abbildung 2: Verwendbare Apps in Hive](appsBild.PNG)
-*Verwendbare Apps in Hive*
+*Abbildung 2: Verwendbare Apps in Hive*
 
 ## Projektverwaltung
 
 Das Erstellen und Verwalten von Projekten mit Hive ist durch die intuitiv nutzbare Oberfläche einfach gestaltet. Bei der Erstellung eines Projektes
 ist es möglich direkt Nutzer oder Gruppen von Nutzern hinzuzufügen. Die Erstellung eines Projektes kann entweder manuell erfolgen oder durch importieren 
 eines bereits bestehenden Projektes von Drittanbieter Software oder csv Dateien.
-Hive bietet die Möglichkeit für jeden Nutzer ein individuelles Projektlayout zu wählen. Man hat hierbei die Möglichkeit zwischen verschiedensten state of the art
+Hive bietet die Möglichkeit für jeden Nutzer ein individuelles Projektlayout zu wählen. Man hat hierbei die Möglichkeit zwischen verschiedenen state of the art
 Layouts zu wählen (siehe [Abbildung 3] und [Abbildung 4]).
 
 ![Abbildung 3: Projektübersicht im Gantt Format](projektÜbersichtGantt.PNG) 
-*Projektübersicht im Gantt Format*  
+*Abbildung 3: Projektübersicht im Gantt Format*  
 
 ![Abbildung 4: Projekt Übersicht](projektÜbersicht.PNG) 
-*Projekt Übersicht*
+*Abbildung 4: Projekt Übersicht*
 
 Aufgaben innerhalb eines Projektes können entweder vom Administrator oder berechtigten Nutzern zugewiesen werden. Dies kann entweder bei Erstellung
 der Aktivität oder nachträglich geschehen. Es ist ebenfalls möglich Projektinformationen nachträglich zu bearbeiten, wie z.B. Deadlines oder Elternprojekt.
