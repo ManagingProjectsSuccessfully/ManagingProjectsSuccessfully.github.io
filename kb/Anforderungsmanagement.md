@@ -8,7 +8,7 @@ anrechnung: k
 Das Anforderungsmanagement (Abkürzung: AM; im Englischen requirements engineering/requirements management genannt) gilt vor allem im klassischen Projektmanagement als wichtiger Kernbestandteil in Projekten und ist daher auch im [Wasserfall-Modell](Wasserfall_Modell.md) verankert.
 
 # Ziel des Anforderungsmanagement
-Das Ziel ist es, dass sowohl die [funktionalen](Funktionale_Anforderungen.md) als auch die [nicht funktionalen](Nicht_Funktionale_Anforderungen.md) Anforderungen des Kunden und der weiteren externen als auch internen Stakeholder an das anzufertigenden Produkt umgesetzt werden.[^1] 
+Das Ziel ist es, dass sowohl die [funktionalen](Funktionale_Anforderungen.md) als auch die [nicht funktionalen](Nicht_Funktionale_Anforderungen.md) Anforderungen des Kunden und der weiteren externen als auch internen Stakeholder an das anzufertigende Produkt umgesetzt werden.[^1] 
 
 Die Wichtigkeit des Anforderungsmanagements soll durch folgende Karikatur veranschaulicht werden:
 
@@ -54,7 +54,7 @@ Die wichtigsten Funktionen, welche durch Tools oder auch Software, in komplexen 
 
 5. Kooperation
 
-    Anforderungen werden meist nicht nur von einer einzelnen Person definiert. Daher sind kollaborative Eigenschaften in Anforderungsmanagment-Tools unabdingbar. Zusammen mit der Versionierung von Änderungen behalten alle den Überblick und können beispielsweise durch Kommentare diese diskutieren und validieren. [^4]   
+    Anforderungen werden meist nicht nur von einer einzelnen Person definiert. Daher sind kollaborative Eigenschaften in Anforderungsmanagement-Tools unabdingbar. Zusammen mit der Versionierung von Änderungen behalten alle den Überblick und können beispielsweise durch Kommentare diese diskutieren und validieren. [^4]   
 
 6. Klarheit
 
@@ -70,11 +70,11 @@ Nachfolgen werden beispielhalft sowohl Tools als auch Software gelistet, welche 
 5. [ReqSuite](https://www.osseno.com/en/requirements-management-tool/?r=rmt&dpm=39467)[^11]
 
 # Anforderungsmanagement im agilen Projektmanagement
-Viele Unternehmen aber auch Projektteams gehen davon aus, dass das Anforderungsmanagement in agilen Projekten nicht mehr benötigt wird da sich die Anforderungen und der Umfang des Produkts im Verlauf des Projekts anpassen.[^1]
+Viele Unternehmen aber auch Projektteams gehen davon aus, dass das Anforderungsmanagement in agilen Projekten nicht mehr benötigt wird, da sich die Anforderungen und der Umfang des Produkts im Verlauf des Projekts anpassen.[^1]
 
-Dies ist jedoch ein Irrtum. Viele der anfallenden Aufgaben des Anforderungsmanagement werden vom [Product Owner](Product_Owner.md) übernommen. Dieser übernimmt die Überwachung und Steuerung des Projektablaufs und daher auch die der Anforderungen. Sollte er diese Aufgaben aufgrund des Umfangs nicht alleine bewältigen können, können weitere Mitarbeiter benannt werden, welche neue Anforderungen aufnehmen, dokumentieren oder auch anpassen.[^1]
+Dies ist jedoch ein Irrtum. Viele der anfallenden Aufgaben des Anforderungsmanagement werden vom [Product Owner](Product_Owner.md) übernommen. Dieser übernimmt die Überwachung und Steuerung des Projektablaufs und daher auch die der Anforderungen. Sollte er diese Aufgaben aufgrund des Umfangs nicht allein bewältigen können, können weitere Mitarbeiter benannt werden, welche neue Anforderungen aufnehmen, dokumentieren oder auch anpassen.[^1]
 
-Das Anforderungsmanagement ist in agilen Projekten weniger umfangreich, jedoch nicht weniger wichtig als in klassisch gemanagten Projekten. Zur Umsetzung können zum größten Teil die gleichen Tools und die gleiche Software wie im klassichen Projektmanagement verwendet werden. [^1]
+Das Anforderungsmanagement ist in agilen Projekten weniger umfangreich, jedoch nicht weniger wichtig als in klassisch gemanagten Projekten. Zur Umsetzung können zum größten Teil die gleichen Tools und die gleiche Software wie im klassischen Projektmanagement verwendet werden. [^1]
 
 # Siehe auch
 
@@ -103,7 +103,7 @@ Das Anforderungsmanagement ist in agilen Projekten weniger umfangreich, jedoch n
 
 [^8]: [Accompa](https://web.accompa.com/)
 
-[^9]: [Jira](https://www.atlassian.com/de/software/jira) in Kombination mit [Confluence](https://www.atlassian.com/de/software/confluence)
+[^9]: [Jira](https://www.atlassian.com/de/software/jira)
 
 [^10]: [Confluence](https://www.atlassian.com/de/software/confluence)
 
