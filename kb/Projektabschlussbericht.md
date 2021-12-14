@@ -8,7 +8,7 @@ anrechnung: k
 
 
 
-# Koordination des Projektabschlussberichts
+# Einordnung des Projektabschlussberichts
 
 Der Projektabschlussbericht (PAB) ist der letzte Prozess im Projektfortschritt und wird im Rahmen des [Projektabschlusses](Projektabschluss.md) durchgeführt, welcher 
 bereits im Vorfeld des 
