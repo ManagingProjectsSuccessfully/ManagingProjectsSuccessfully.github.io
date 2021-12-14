@@ -5,7 +5,7 @@ author: katjasc
 anrechnung: k
 ---
 
-Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. [^1] Sie sind in zwei Kategorien eingeteilt: Einerseits sind es [Projekte](https://managingprojectssuccessfully.github.io/kb/Projekt.html), die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. [^2] Andererseits sind es Projekte, die den sozialen Standard eines Landes anheben sollen. [^3]
+Entwicklungsprojekte sind Maßnahmenbündel, welche räumlich, zeitlich, gegenständlich und sozial abgegrenzt sind. [^1] Sie sind in zwei Kategorien eingeteilt: Einerseits sind es [Projekte](Projekt.md), die den Zweck erfüllen ein Produkt oder eine Dienstleistung zu entwickeln. [^2] Andererseits sind es Projekte, die den sozialen Standard eines Landes anheben sollen. [^3]
 
 
 # klassische Entwicklungsprojekte
@@ -21,7 +21,7 @@ Entwicklungsprojekte haben das Ziel einen Erkenntnisgewinn oder die Erstellung e
 
 
 ## Herausforderungen 
-Entwicklungsprojekte arbeiten häufig unterhalb ihres möglichen Effizienzniveaus, dies liegt daran, dass durch wechselnde Kundenanforderungen und unzureichende Produktspezifikationen der Grad an Komplexität immer höher wird. Die [Projektleiter](https://managingprojectssuccessfully.github.io/kb/Projektleiter.html) müssen sich eine ganzheitliche Perspektive verschaffen, was durch eine Zerstückelung des Projekts schwierig ist. 
+Entwicklungsprojekte arbeiten häufig unterhalb ihres möglichen Effizienzniveaus, dies liegt daran, dass durch wechselnde Kundenanforderungen und unzureichende Produktspezifikationen der Grad an Komplexität immer höher wird. Die [Projektleiter](Projektleiter.md) müssen sich eine ganzheitliche Perspektive verschaffen, was durch eine Zerstückelung des Projekts schwierig ist. 
 
 ### Kernprobleme [^5]
 Die Probleme von Entwicklungsprojekten, welche die Produktivität der Unternehmung beeinträchtigen, können in fünf Gruppen aufgeteilt werden.
@@ -33,8 +33,8 @@ Die Probleme von Entwicklungsprojekten, welche die Produktivität der Unternehmu
 
 ### Lösungsansätze [^5]
 Lösungsansätze, um die Kernprobleme von Entwicklungsprojekten zu bewältigen, sind mit einer Kombination aus klassischen und agilen Projektmanagement gegeben. Hierdurch wird durch die Gestaltung der Schnittstellen eine Visualisierung des Gesamtprozesses versucht. 
-Dies beginnt in der Planungsphase des Projekts, da hier das größte Optimierungspotenzial besteht. Eine Visualisierung wird mit dem [Lean Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Lean_Projektmanagement.md) herbeigeführt, was zu Transparenzerhöhung führt. 
-Weitere Methoden zur Lösung der Kernprobleme sind beispielsweise [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) sowie virtuelle Planungsmethoden, wie 3D-5D, aus dem Bereich des agilen Projektmanagements. 
+Dies beginnt in der Planungsphase des Projekts, da hier das größte Optimierungspotenzial besteht. Eine Visualisierung wird mit dem [Lean Management](Lean_Projektmanagement.md) herbeigeführt, was zu Transparenzerhöhung führt. 
+Weitere Methoden zur Lösung der Kernprobleme sind beispielsweise [Scrum](SCRUM.md) sowie virtuelle Planungsmethoden, wie 3D-5D, aus dem Bereich des agilen Projektmanagements. 
 
 # Entwicklungsprojekte in Entwicklungsländern
 Bei der Hilfe von Entwicklungsländern geht es um finanzielle und personelle Hilfe für einen Aufschwung des Landes. Projektträger bei Entwicklungsprojekten sind die Entwicklungsländer, welche von einer Organisation des helfenden Landes geführt werden. Arme Bevölkerungsgruppen werden mit Geldern oder Produkten unterstützt, welche die Arbeit, meist auf dem Feld, für die Arbeiter erleichtern soll. Zudem setzen sich Organisatoren von Entwicklungsprojekten stark für eine bessere Bezahlung der Arbeiter vor Ort ein.
