@@ -54,7 +54,7 @@ Durch die regelmäßige Kommunikation können so Ängste oder Widerstände abgeb
 
 ### Tipp 1: Kommunikation frühzeitig planen
 
-Mit einer [Stakeholderanalyse](https://managingprojectssuccessfully.github.io/kb/Stakeholderanalyse.html) müssen zuerst alle relevanten Stakeholder identifiziert werden. So können frühzeitig die unterschiedlichen Vorstellungen und Ziele bezüglich eines Gelingens oder Scheiterns des Projekts erkannt werden. 
+Mit einer [Stakeholderanalyse](https://managingprojectssuccessfully.github.io/kb/Stakeholderanalyse.html) müssen zuerst alle relevanten Stakeholder identifiziert werden. Dann können die unterschiedlichen Vorstellungen und Ziele zusammengefasst werden. Dies ist wichtig, um ein Gelingen oder Scheitern des Projekts frühzeitig zu erkennen. 
 
 ### Tipp 2: Kommunikation von Botschaften zielgruppengerecht gestalten
 
@@ -67,11 +67,11 @@ Nicht alle Personen kennen sich mit allen Themen aus. Bei komplexeren Themen, wi
 
 ### Tipp 4: Regelmäßig kommunizieren
 
-Durch einen regelmäßigen, ehrlichen und zeitgerechten Austausch schafft man Offenheit und Transparenz.  
+Ein regelmäßiger, ehrlicher und zeitgerechter Austausch ist für eine erfolgreiche Projektkommunikation sehr wichtig, um genügend Offenheit und Transparenz erreichen zu können.
 
 ### Tipp 5: Die richtigen Kommunikationskanäle wählen
 
-Am besten ist es, Kanäle zu nutzen, welche bereits im Unternehmen verankert sind und auch die Kanäle, welche möglichst viele Stakeholder erreichen. [^5]
+Am besten ist es Kanäle zu nutzen welche bereits im Unternehmen verankert sind. Zusätzlich ist es von Vorteil, auch jene Kanäle zu nutzen, welche möglichst viele Stakeholder erreichen. [^5]
 
 # Siehe auch
 
