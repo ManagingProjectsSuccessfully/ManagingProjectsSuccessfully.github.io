@@ -68,7 +68,7 @@ Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus 
 
 # Quellen
 
-[^1]:	https://www.spektrum.de/lexikon/geographie/entwicklungsprojekt/2079 
+[^1]: [Entwicklungsprojekt, Spektrum.de](https://www.spektrum.de/lexikon/geographie/entwicklungsprojekt/2079)
 
 [^2]:	http://www.wirtschaftslexikon24.com/e/entwicklungsprojekte/entwicklungsprojekte.htm 
 
