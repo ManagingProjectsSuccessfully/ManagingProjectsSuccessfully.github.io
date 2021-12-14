@@ -34,12 +34,12 @@ Projektmitarbeiter haben Verantwortung gegenüber dem Projektleiter für die ihn
 
 # **Projektmitarbeiter als die Mitglieder des Projektteams**
 
-Projektmitarbeiter sind häufig Mitglied in einer Projektgruppe oder in einer Arbeitsgruppe. Besonders bei kleinen Projekten können sie auch zum
+Projektmitarbeiter sind häufig Mitglieder in einer Projektgruppe oder in einer Arbeitsgruppe. Besonders bei kleinen Projekten können sie auch zum
 Projektteam oder Projektkernteam gehören.[^4]
-Dabei unterscheidet man das Projektkernteam, das aus dem Projektleiter und der Projektgruppe, die für die Projektdurchführung zuständig sind.
+Dabei unterscheidet man das Projektkernteam, welches aus dem Projektleiter und der Projektgruppe besteht, die für die Projektdurchführung zuständig sind.
 Die Arbeitsgruppe besteht aus dem Kernteam und den weiteren Personen, die nur für bestimmte Aufgaben oder Phase im Projekt beauftragt werden.
-Hier kann man zwischen die permanenten Mitarbeiter, die ständig im Projekt arbeiten und zum Projektteam gehören und temporären Mitarbeiter, die als
-Fachspezialisten gelten und nicht für die gesamte [Dauer](https://www.inloox.de/projektmanagement-glossar/dauer/) des Projekts beteiligt werden, unterscheiden.
+Hier kann man zwischen den permanenten Mitarbeitern, die ständig im Projekt arbeiten und zum Projektteam gehören, und den temporären Mitarbeitern, die als
+Fachspezialisten gelten, und nicht für die gesamte [Dauer](https://www.inloox.de/projektmanagement-glossar/dauer/) des Projekts beteiligt werden, unterscheiden.
 Die Mitglieder des Kerteams können auch bestimmen, wer als Sprecher gegenüber Vorgestzter des Projekts gelten wird.[^5]
 
 
@@ -50,29 +50,29 @@ Die Mitglieder des Kerteams können auch bestimmen, wer als Sprecher gegenüber 
 | Kernteam                    | Fachteam      |
 | -------------               | ------------- |
 | "Ünterstützung des Projektleiters in der Feststellung des Projektfortschritts, in der Vorbereitung von Entscheidungen in der Ausarbeitung von Lösungsalternativen"              | "Unterstützung des Projektes bei der Erbeitung der für die Zielerreichung notwendingen Lösungen"  |
-| "verantwortlich für die Umsetzung der Arbeitspakete"               | "verantwortlich für die folgenden Aufgaben für das Projekteam"  | 
+| "verantwortlich für die Umsetzung der Arbeitspakete"               | "verantwortlich für die Richtigkeit des fachlichen Inputs"  | 
+                                                                     
+
+# **Aspekte der Projektmitarbeiterentwicklung (Teamentwicklung)**
+
+*Vision und Ziele* - Jeder soll die Vision und die Ziele des Projekts kennen und diese sollen während des gesamten Projekts kommuniziert werden.
+
+*Rollen und Verantwortlichkeiten* - Mitglieder des Projektteams sollen ihre Rollen und Verantwortlichkeiten verstehen und erfüllen können.
+
+*Projektteamarbeit* - Hier geht es um die Erleichterung der Kommunikation und Problemlösung.
+
+*Orientierungshilfe* - Jemand soll das gesamte Team leiten, sodass hinsichtlich des Projekts in die richtige Richtung gehen.
+
+*Wachstum* - Entwicklung von Methoden zur Erkennung leistungsschwacher/leistungsstarker Bereiche. [^8]
 
 
-# **Aspekte der Projektmitarbeiterentwicklung(Teamentwicklung)**
-
-*Vision und Ziele* - Jeder soll die Vision und die Ziele des Projekts kennen und die sollen während des gesamten Projekts kommuniziert.
-
-*Rollen und Verantwortlichkeiten* - Mitglieder des Projektteams sollen ihre Rollen und Verantwortlichkeiten verstehen und erfüllen.
-
-*Projektteamarbeit* - Hier geht es um Erleichterung der Kommunikation und Problemlösung.
-
-*Orientierungshilfe* - Jemand soll das gesamte Team leiten, so dass, alle in die richtige Richtung gehen, bezüglich des Projekts.
-
-*Wachstum* - Erkennen Bereichen von dem Team gute Leistung erbringt und Bereichen wo die Leistung man verbessern kann. [^8]
 
 
 
+# **Durschnittseinkommen des Projektmitarbeiters**
 
-
-# **Wie viel eigentlich verdienen die Projektmitarbeiter?**
-
-In Deutschland kann man ein durchschnittliches Gehalt von 55368 Euro pro Jahr erwarten.
-Das Anfangsgehaltt liegt bei 30081 Euro jährlich und die Gehaltsobergrenze liegt bei 80448 Euro pro Jahr.[^7]
+In Deutschland kann man ein durchschnittliches Gehalt von 55.368 Euro pro Jahr erwarten.
+Das Anfangsgehaltt liegt bei 30.081 Euro jährlich und die Gehaltsobergrenze liegt bei 80.448 Euro pro Jahr.[^7]
 
 
 
@@ -89,6 +89,16 @@ Das Anfangsgehaltt liegt bei 30081 Euro jährlich und die Gehaltsobergrenze lieg
 [ A Guide to the Project Managment Body of Knowledge ( PMBOK® Guide) ](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 
 
+# Siehe auch 
+
+[Projektleiter](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md)
+
+[Projektteam_Kultur](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektteam_Kultur.md)
+
+[Projektmanagement](
+https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektteam_Kultur.md)
+
+[Projekt](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
 # Quellen
 
 [^1]: (https://www.ibo.de/glossar/definition/projektmitarbeiter)
