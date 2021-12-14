@@ -67,7 +67,6 @@ zu verschieben weiteren Aufwand.
 |   Hive Solo   |  Hive Teams   | Hive Enterprise  |
 | ------------- | ------------- | ---------------- |
 |      0$       | 12$/pro User  |   individuell    |
-| ------------- | ------------- | ---------------- |
 |  Max. 2 User  |  Unbegrenzt   |    Unbegrenzt    |
 
 Die Solo Version ist frei zugänglich für Projekte/Unternehmen mit bis zu maximal zwei Personen. Projekt Management und 
