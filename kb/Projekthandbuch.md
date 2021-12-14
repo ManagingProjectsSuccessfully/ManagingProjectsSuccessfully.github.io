@@ -8,7 +8,14 @@ anrechnung: k
 
 *Abbildung 1: Das Projekthandbuch als wichtiger Bestandteil eines erfolgreichen Projektmanagements*[^11]
 
-Ein strukturiertes Projektmanagement ist maßgeblich für den Erfolg eines Projektes. Deshalb hat sich eine Vier-Schritt-Technik etabliert, die neue Projekte systematisch in allen vier Phasen begleitet. Am Anfang steht eine Projektdefinition, in der unter anderem die Projektziele und die Organisation des Projetes dokumentiert werden. Anschließend folgt die Projektplanung. In dieser Phase wird der Inhalt des Projektes genauer definiert und eine Projektstrukturplan erstellt. Die dritte Phase spiegelt die eigentliche Realiserung des Projektes wieder und in der letzten Phase erfolgt der Projektabschluss. Ziel eines Projekthandbuchs ist es dabei, den Teammitgliedern eines Projektes über alle Phasen des Projektmanagements hinweg, einen Überblick über Ziele und Inhalte des Projektes zu verschaffen[^1].
+Ein strukturiertes Projektmanagement ist maßgeblich für den Erfolg eines Projektes. Im Zuge dessen, hat sich ein 4-Phasen-Modell etabliert, welches ein Projekt in die folgenden Phasen untergliedert: 
+* Projektdefinition
+* Projektplanung
+* Projektdurchführung
+* Projektabschluss
+
+Die Aufgabe des Projekthandbuchs ist es, den Teammitgliedern über alle Phasen des Projektes hinweg, einen Überblick über die aktuellen Ziele und Inhalte zu verschaffen[^1].
+
 
 # Definition
 
