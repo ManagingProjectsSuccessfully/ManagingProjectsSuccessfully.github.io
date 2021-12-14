@@ -46,6 +46,7 @@ Der Fokus bei der Projektprozessgestaltung liegt nicht wie bisher darauf, dass d
 
 * [Industrie 1.0 - 4.0](https://www.spiegel.de/fotostrecke/von-der-industrie-1-0-bis-4-0-fotostrecke-125537.html)
 * [Produktmanagement](https://www.pro-produktmanagement.de/definition-produktmanagement-und-warum-produktmanagement.html#.Ya8wQ5GZPD4)
+* [Digitalisierung](https://wirtschaftslexikon.gabler.de/definition/digitalisierung-54195)
 
 # Quellen
 [^1]: https://de.wikipedia.org/wiki/Industrie_4.0
