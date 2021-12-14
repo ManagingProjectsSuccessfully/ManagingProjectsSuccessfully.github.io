@@ -25,6 +25,7 @@ Nutzer entnehmen welche Aktivitäten in welchem Projekt er zu erledigen hat. Die
 man wurde alternativ von einem Projekt Admin als Auszuführender determiniert.
 
 ![Abbildung 1: Hive Dashboard](dashboardBild.PNG)
+*Hive Dashboard*
 
 ## Menü
 
@@ -43,6 +44,7 @@ wie GitHub einzubinden.
 Desweiteren stellt Hive eigene Add-Ons und Apps zur Verfügung, welche es dem Nutzer ermöglichen das Tool individuell zu gestalten (siehe [Abbildung 2])
 
 ![Abbildung 2: Verwendbare Apps in Hive](appsBild.PNG)
+*Verwendbare Apps in Hive*
 
 ## Projektverwaltung
 
@@ -53,6 +55,7 @@ Hive bietet die Möglichkeit für jeden Nutzer ein individuelles Projektlayout z
 Layouts zu wählen (siehe [Abbildung 3] und [Abbildung 4]).
 
 ![Abbildung 3: Projektübersicht im Gantt Format](projektÜbersichtGantt.PNG) ![Abbildung 4: Projekt Übersicht](projektÜbersicht.PNG) 
+*Projektübersicht im Gantt Format*                                            *Projekt Übersicht*
 
 Aufgaben innerhalb eines Projektes können entweder vom Administrator oder berechtigten Nutzern zugewiesen werden. Dies kann entweder bei Erstellung
 der Aktivität oder nachträglich geschehen. Es ist ebenfalls möglich Projektinformationen nachträglich zu bearbeiten, wie z.B. Deadlines oder Elternprojekt.
