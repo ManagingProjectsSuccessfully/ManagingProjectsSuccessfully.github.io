@@ -2,103 +2,98 @@
 title: Microsoft_Project_PM_Tool
 tags: agil klassisch
 author: oliPM
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Microsoft_Project_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+# Einleitung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+[Microsoft Project](https://de.wikipedia.org/wiki/Microsoft_Project) bezeichnet eine Projektmanagementsoftware des Entwicklers Microsoft Corporation und ist Bestandteil der Office Familie. 
+Neben der Microsoft Project Standard Software, als Einzelplatzversion, steht Microsoft Project Professional als Server Version zur Verfügung.
+Microsoft Project ist im Jahre 1984 erschienen und wird seit diesem Zeitpunkt regelmäßig aktualisiert und überarbeitet. 
+Die aktuelle Version der Microsoft Corporation lautet Project 2019 und wird über das Betriebssystem Windows genutzt.
+Die Software soll Projektmanagern das Planen, Steuern und Überwachen der Projekte ermöglichen.[^1]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Doch zu welchem Zeitpunkt ist dieses Management Tool erforderlich und was genau kann mit diesem EDV-Programm abgebildet werden?
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/test-file.jpg)
 
-*lustiges Testbild*
+# Beschreibung
 
-# Aspekt 2
+Zuerst sollte die Frage geklärt werden, zu welchem Zeitpunkt das Werkzeug seinen Zweck erfüllt. Dies ist laut Herrn Josef Schwab der Fall, wenn ein Planungsbedarf besteht und dieser das Projekt definiert.
+Der Planungsbedarf resultiert aus einem anstehenden Vorhaben, bei welchem die Abläufe noch nicht vollständig ausgearbeitet sind und Unsicherheiten bestehen.
+Kurzgefasst, werden mit dem Programm Prozesse und Meilensteine visuell sowie tabellarisch verknüpft und je nach Detaillierungsgrad abgebildet.
+Bevor die Einarbeitung mit dem Programm startet, wäre es nach Herrn Schwab sinnvoll sich folgende Fragen zu stellen: 
+* wie lauten die Vorhaben, 
+* wie lange dauern sie an, 
+* welche Abhängigkeiten existieren 
+* und welche Ressourcen sind von Nöten?
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Diese Fragestellungen oder Überlegungen zur Strukturierung des Projekts, können in Projects unter:
+* Vorgänge, 
+* Dauer, 
+* Vorgänger / Nachfolger 
+* sowie Ressourcen
+ 
+angewendet werden (vgl. Abbildung 1).
+Für die Gliederung eines Projekts gibt es unterschiedliche Anzeigemöglichkeiten. Die hier beschriebene Ansicht verkörpert das Gantt Diagramm, welches in Kombination mit einer Tabelle angezeigt wird.
+Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines Projektsteuerers.[^2]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
+![Beispielabbildung](Microsoft_Project_PM_Tool/Die_Grundbegriffe_der_Planung.png)
+
+*Abbildung 1: Die Grundbegriffe der Planung*[^2]
+
+
+
+# Benutzeroberfläche
+
+Die Benutzeroberfläche von MS Project verwendet das übliche Design der Office Familie. Am oberen Bildschirmrand befindet sich eine grüne Bildschirmleiste, mit dem Menüband und dessen Reiter. In der Abbildung 2 ist der Reiter "Vorgang" geöffnet, welcher die Grundfunktionen für die Tabelle auf der linken sowie dem Balkendiagramm auf der rechten Seite enthält. Unterhalb des Menüs befindet sich eine Timeline, die die Meilensteine des Projekts widerspiegelt.
+Die Tabelle gliedert das Projekt in Form von Sammelvorgängen (Überpunkten) und Prozessen (Unterpunkten).
+Die sich in der Beschreibung befindliche Abbildung 1 ist in der Tabelle als Kopfzeile aufzufinden.
+Die Auflistung der Prozesse ist mit dem Balkendiagramm verknüpft, sodass eine Änderung in der Visualisierung mit einem Nachtrag in der Gliederung und umgekehrt einhergeht.
+Im Gantt Diagramm sind Vorgänge abgebildet, die nach Fortschritten prozentual bewertet und farblich gekennzeichnet werden.
+Der Meilenstein am unteren, rechten Bildsschirmrand repräsentiert ein Zwischenziel mit angehängtem Datumsformat, auf welches hingearbeitet wird.
+
+[^4]
+
+![Beispielabbildung](Microsoft_Project_PM_Tool/MS_Project_Rahmenterminplan.jpg)
+
+*Abbildung 2: Rahmenterminplan*[^4]
+
+
+
+# Vor- und Nachteile des EDV - Programms
+
+| Vorteile      | Nachteile     |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| umfangreiche Funktionen innerhalb der Projektplanung                    | anspruchsvolle Einarbeitung verlangt Grundlagenschulung        |
+| Detaillierungsschärfe der Visualisierung                                | hohe Anschaffungskosten für Lizenz                             |
+| auf Knopfdruck ansprechend, gestaltete Reportings / Berichte            | Fehlende Intuition bei der Handhabung                          |
+| effizientes Managementsystem komplexer, klassischer Projekte            | beansprucht hohen Pflegeaufwand der bespielte Daten            |
+| etablierter Standard in vielen mittelständischen und großen Unternehmen |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+[^3]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Microsoft_Project_PM_Tool.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projektsteuerung](Projektsteuerung.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+[Schwab, Josef: Projektplanung mit Project 2010, Carl Hanser Verlag GmbH & Co. KG, 2011](https://www.hanser-elibrary.com/doi/book/10.3139/9783446428423)
+
+[Rosenstock, Jürgen: Microsoft Project 2016, Das umfassende Handbuch, Rheinwerk Computing, 3. aktualisierte Auflage, 2016](https://www.rheinwerk-verlag.de/microsoft-project-2016-das-umfassende-handbuch/)
+
+[Holert, Renke: Microsoft Project 2019, holert, 7. aktualisierte Auflage, 2020https://shop.holert.com/products/microsoft-project-2019](https://shop.holert.com/products/microsoft-project-2019)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://de.wikipedia.org/wiki/Microsoft_Project
+[^2]: [Schwab, Josef: Projektplanung mit Project 2010, Carl Hanser Verlag GmbH & Co. KG, 2011](https://www.hanser-elibrary.com/doi/book/10.3139/9783446428423)
+[^3]: https://www.projektmanager-blog.de/post/ms-project
+[^4]: Schmidt, Oliver (2021) 
 
