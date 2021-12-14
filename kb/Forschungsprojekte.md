@@ -1,13 +1,15 @@
 ---
 title: Forschungsprojekte
-tags: agil klassisch
+tags: agil klassisch pm forschung projekt
 author: CatrinSc
 anrechnung: k
 ---
+Kurzer Einleitungssatz
 
+# Definition
 Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt von mehreren Wissenschaftlern, wissenschaftlichen Gesellschaften oder eines [Instituts](https://de.wikipedia.org/wiki/Institut_(Organisation)), mit dem Ziel einen Erkenntnisgewinn für ein aktuelles Thema in der [Forschung](https://de.wikipedia.org/wiki/Forschung) zu generieren. Ein Projekt der [angewandten Forschung](https://de.wikipedia.org/wiki/Angewandte_Wissenschaft) verfolgt eher das Ziel, bereits erforschte Methoden zu verbessern.
 
-Aufgrund ihrer typischen Kriterien haben Forschungsprojekte ein hohes Risiko, nicht erfolgreich zu sein. Eine Förderung erfolgt meist durch [Drittmittel](https://de.wikipedia.org/wiki/Drittmittel) (Forschungsfonds, öffentliche oder industrielle Förderungsgelder). Um solche Drittmittel zu erhalten ist ein ausführlicher [Projektantrag](Projektantrag.md) (vergleichbar mit einem klassischen Projektantrag) nötig. Dieser legt Ziele, Risiken, Methoden und Ressourcen, Zeit- und Finanzplanung, Angaben über Qualifikation der/des Projektleiter/s sowie eine populär gehaltene Kurzfassung dar. Abschlussberichte sind von großer Bedeutung, aber auch Zwischenberichte werden häufig erstellt, um dem Geldgeber oder der Universität von dem Fortschritt zu berichten. [^1]
+Eine Förderung erfolgt meist durch [Drittmittel](https://de.wikipedia.org/wiki/Drittmittel) (Forschungsfonds, öffentliche oder industrielle Förderungsgelder). Um solche Drittmittel zu erhalten ist ein ausführlicher [Projektantrag](Projektantrag.md) (vergleichbar mit einem klassischen Projektantrag) nötig. Dieser legt Ziele, Risiken, Methoden und Ressourcen, Zeit- und Finanzplanung, Angaben über Qualifikation der/des Projektleiter/s sowie eine populär gehaltene Kurzfassung dar. Abschlussberichte sind von großer Bedeutung, aber auch Zwischenberichte werden häufig erstellt, um dem Geldgeber oder der Universität von dem Fortschritt zu berichten. Aufgrund ihrer typischen Kriterien haben Forschungsprojekte ein hohes Risiko, nicht erfolgreich zu sein [^1].
 
 # Typische Kriterien
 * Bereiche: Medizin, Naturwissenschaft, Technik 
@@ -18,8 +20,8 @@ Aufgrund ihrer typischen Kriterien haben Forschungsprojekte ein hohes Risiko, ni
 * Hohes Risiko des Scheiterns
 * Meist Teamarbeit in interdisziplinären Arbeitsgruppen [^1]
 
-# Forschungsprojekte entwickeln
-"Die Forschungsfrage stellt das Forschungsziel ins Verhältnis zum gegenwärtigen Stand der Wissenschaft, zur gewählten Methodik und zum aktuellen Paradigma" [^8]. Die Forschungsfrage, in der Regel abgeleitet von einem Problem, stellt das Fundament des Forschungsprojektes dar. Diese wird iterativ durch konkretisierende Forschungsfragen erschlossen. Damit ein Forschungsprojekt erfolgreich durchgeführt werden kann, benötigt man einen detailierten Projektplan. Wie man dabei vorgehen kann, zeigt die untenstehende Abbildung. Der letzte Schritt zur Vollendung des Forschungsplans ist die Erstellung eines Analyseplans. Damit lässt sich die spätere statistische Auswertung erleichtern. [^7] 
+# Entwicklung von Forschungsprojekten
+"Die Forschungsfrage stellt das Forschungsziel ins Verhältnis zum gegenwärtigen Stand der Wissenschaft, zur gewählten Methodik und zum aktuellen Paradigma" [^8]. Die Forschungsfrage, in der Regel abgeleitet von einem Problem, stellt das Fundament des Forschungsprojektes dar. Diese wird iterativ durch konkretisierende Forschungsfragen erschlossen. Damit ein Forschungsprojekt erfolgreich durchgeführt werden kann, benötigt man einen detailierten Projektplan. Wie man dabei vorgehen kann, zeigt die untenstehende Abbildung. Der letzte Schritt zur Vollendung des Forschungsplans ist die Erstellung eines Analyseplans. Damit lässt sich die spätere statistische Auswertung erleichtern [^7].
 
 
 ![Forschungsfrage entwickeln](Forschungsprojekte/Forschungsfrage-entwickeln.jpg)
@@ -27,8 +29,8 @@ Aufgrund ihrer typischen Kriterien haben Forschungsprojekte ein hohes Risiko, ni
 *Forschungsfrage entwickeln* [^7]
 
 # Forschungsprojekte im Projektmanagement
-Das Projektmanagement ist für die Forschung von ernormer Bedeutung. Denn ohne Projektmanagement ist das Risiko noch höher, dass das Forchungsprojekt scheitert [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialisierte Agenturen können so die Qualität sichern, die zum Beispiel in der Medizintechnik eine große Rolle spielt. [^5] 
-Es ist wichtig, klare Anforderungen zu formulieren. Dabei muss die Risikobeurteilung und Ressourcenplanung ausreichend berücksichtigt werden, auch wenn das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und den Ehrgeiz der Forscher. Da Management nicht direkt mit Forschung assoziiert wird, wird dieses von ihnen eher als lästig oder unnötig empfunden. [^2] 
+Das Projektmanagement ist für die Forschung von ernormer Bedeutung. Denn ohne Projektmanagement ist das Risiko noch höher, dass das Forchungsprojekt scheitert [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialisierte Agenturen können so die Qualität sichern, die zum Beispiel in der Medizintechnik eine große Rolle spielt [^5].
+Es ist wichtig, klare Anforderungen zu formulieren. Dabei muss die Risikobeurteilung und Ressourcenplanung ausreichend berücksichtigt werden, auch wenn das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und den Ehrgeiz der Forscher. Da Management nicht direkt mit Forschung assoziiert wird, wird dieses von ihnen eher als lästig oder unnötig empfunden [^2].
 
 Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie schlechte Projektplanung Ursachen für ein gescheitertes Projekt sein können. Deswegen sollten diese Aspekte besonders in den Lösungsansätzen berücksichtigt werden. Eine geeignete Projektmanagemt-Methode kann ausgewählt werden, indem man sich bewusst macht, ob eine agile oder klassische Methode in Frage kommt. 
 
@@ -40,7 +42,7 @@ Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie sch
 ## Klassisch vs. Agil
 Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Dadurch dass in der Anfangsphase die Anforderungen teils unbekannt sind, besitzt ein Forschungsprojekt Tendenz zu einer agilen Methode. Dennoch sind auch Aspekte des klassischen Projektmanagements (z.B. ein detaillierter Projektantrag sowie ein begrenztes Budget und Zeit) erkennbar. 
 
-Die unten aufgeführte Tabelle zeigt mögliche Kategorien und deren Einordnung von Forschungsprojekten in das jeweilige Projektmanagement (fettgedruckt). In diesem Fall wäre eine hybride oder agile Lösung erstrebenswert. [^3]
+Die unten aufgeführte Tabelle zeigt mögliche Kategorien und deren Einordnung von Forschungsprojekten in das jeweilige Projektmanagement (fettgedruckt). In diesem Fall wäre eine hybride oder agile Lösung erstrebenswert [^3].
 
 
 | Kategorien | Klassisches PM | Agiles PM |
@@ -55,7 +57,7 @@ Die unten aufgeführte Tabelle zeigt mögliche Kategorien und deren Einordnung v
 
 
 ## Lösungsansatz
-Eine mögliche Lösung stellt hierbei das [Microsoft PPM](https://www.microsoft.com/de-de/microsoft-365/project/project-portfolio-management)-Tool dar. Da es ein benutzerfreundliches Tool für zentrales Projektmanagement mit einer gemeinsamen Arbeits- und Informationsplattform für Forscher und Projektbeteiligte ist, kann es besonders mangelnde Kommunikation verhindern und die Projektplanung verbessern. [^4] 
+Eine mögliche Lösung stellt hierbei das [Microsoft PPM](https://www.microsoft.com/de-de/microsoft-365/project/project-portfolio-management)-Tool dar. Da es ein benutzerfreundliches Tool für zentrales Projektmanagement mit einer gemeinsamen Arbeits- und Informationsplattform für Forscher und Projektbeteiligte ist, kann es besonders mangelnde Kommunikation verhindern und die Projektplanung verbessern [^4]. 
 
 Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 1. zentrales Speichern und Auswerten, standardisierte Dokumentablage durch SharePoint
