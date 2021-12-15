@@ -52,6 +52,7 @@ Afrika bekommt für den eigenen Aufschwung finanzielle und personelle Hilfe aus 
 # Siehe auch
 
 * [Forschungsprojekte](Forschungsprojekte.md)
+* [Infrastrukturprojekte](Infrastruktur_Projekte.md)
 * [Projektmanagement](Projektmanagement.md)
 * [Lean Projektmanagement](Lean_Projektmanagement.md)
 * [Scrum](SCRUM.md)
