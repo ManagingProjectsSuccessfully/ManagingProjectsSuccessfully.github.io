@@ -5,54 +5,54 @@ author: FilipPrecik
 anrechnung: a
 ---
 
-Wie SAFe oder Scaled Agile Framework bezeichnet man eine Stellung zum Agile Management. Diese Stellung ist von der Firma Scaled Agile geschaffen und jetzt befindet sich im Version 5.1. Es wird von großen Gesselschaften für die Organisation der Projekts benutzt. Die SAFe-Struktur ist von viele Elemente gebildet und dazu zählt man auch AGT oder Agile Release Trains, die noch unten beschreibt sind. 
+Wie SAFe oder Scaled Agile Framework wird eine Stellung zum Agilenmanagement bezeichnet. Diese Stellung ist von der Firma Scaled Agile geschaffen und jetzt befindet sich im Version 5.1. Es wird von großen Gesellschaften für die Organisation der Projekte benutzt. Die SAFe-Struktur ist von vielen Elementen gebildet und dazu zählt man auch AGT (Agile Release Trains), die noch unten beschrieben sind. 
 
-# SAFe Vorteile und die Grundsätze
+# SAFe-Vorteile und die Grundsätze
 
-Laut der Firma Scaled Agile[^1],die SAFe entwickelt hat, bring diese Plateaussohle bessere Produktivität, schnelles Feedback und erhöht die Mitarbeiterzufriedenheit und Mitarbeiterengagement. Viele Firmen auch registieren, dass sie schneller auf Kundennachfrage reagieren können. Jede Branche ist ganz unterschiedlich und deswegen kann auch die SAFe-Nutzung bei der Firma unterschiedlich sein. Trotz der Vielfalt der Situationen sollen die Firmen für die erfolgreiche Nutzung die 10 Grundprinzipe folgen. 
+Laut der Firma Scaled Agile[^1], die SAFe entwickelt hat, bring diese Plateaussohle bessere Produktivität, schnelles Feedback und erhöht die Mitarbeiterzufriedenheit und Mitarbeiterengagement. Viele Firmen auch registrieren, dass sie schneller auf Kundennachfrage reagieren können. Jede Branche ist unterschiedlich und deswegen ist auch die SAFe-Nutzung bei der Firma unterschiedlich. Trotz der Vielfalt der Situationen sollen die Firmen für die erfolgreiche Nutzung die 10 Grundprinzipe folgen. 
 
-Die sind folgende[^3]:
-1. Take an economic view
-2. Apply systems thinking
-3. Assume variability; preserve options
-4. Build incrementally with fast, integrated learning cycles
-5. Base milestones on objective evaluation of working systems
-6. Visualise and [limit WIP (Work in process)](Kanban_Work_in_Progress.md), reduce batch sizes, and manage queue lengths 
-7. Apply cadence, synchronise with cross-domain planning
-8. Unlock the intrinsic motivation of knowledge workers
-9. Decentralise decision-making
-10. Organise around value
+Die sind[^3]:
 
-# Agile Release Trains in der SAFe-Struktur - wozu braucht man ARTs?
-Als eine Firma versucht das SAFe Agile Management zu implementieren, ist es wichtig im Prozess für den Erfolg, [Value Stream](Earned_Value_Analyse.md) und ARTs zu definieren. Value Stream[^5] ist eine Menge des Werts, die das Unternehmen im Prozess zu den Kunden bringt. Im Vergleich zu Value Stream sind ARTs[^4] (oder Agile Release Trains) Teams, die eine Lösung wie den Wert im Produkt zu implementieren suchen. Diese Teams sind cross-funktional und sind organisiert, um den Wert zu bringen.
+![SAFe-Principles-Overview_F01-v3](https://user-images.githubusercontent.com/93159758/146268908-4603bdee-55f0-420f-aea7-79383bbab9d4.png)
 
-## ARTs arbeiten auf diese Prinzipe[^4]
-* Der Plan des ARTs ist fest festgestellt und hat mehrere Teile (Iteration). Wenn das Team ein Element nicht bringen schafft, kann es in der nächsten Teil oder Iteration bringen.
-* Das neue System muss immer jede zweite Woche gebracht werden. 
-* Jedes Team hat das gleiche Programm und deshalb arbeiten alle ARTs in der Synchronisation.
-* Jedes Team hat eine Vorstellung wie viele Elements es bringen kann.
-* Teams sind agile und haben [Agilen-Mindset](SAFe_Lean_Agile_Mindset.md)
-* Die Leute, die in ART arbeiten, beschäftigen sich mit ART-Team für volle Zeit. 
+Bild 1.[^3], *10 SAFe-Grundprinzipe* , Author: © Scaled Agile, Inc.
+
+# ART-Teams in der SAFe-Struktur - wozu braucht man ART-Teams?
+Als eine Firma versucht das SAFe-Agilenmanagement zu implementieren, ist es wichtig für den Erfolg, [Value Stream](Earned_Value_Analyse.md) und ART-Teams zu definieren. Value Stream[^5] ist eine Menge des Werts, die das Unternehmen im Prozess zu den Kunden bringt. Im Vergleich zu Value Stream sind ART-Teams[^4], die eine Lösung wie den Wert im Produkt zu implementieren suchen. Diese Teams sind interfunktional und sind organisiert, um den Wert zu bringen.
+
+## ART-Teams arbeiten auf diese Prinzipe[^4]
+* Der Plan des ART-Teams ist fest festgestellt und hat mehrere Teile (Iteration). Wenn das Team ein Element nicht bringen schafft, kann es im nächsten Teil bringen
+* Das neue System muss immer jede zweite Woche gebracht werden
+* Jedes Team hat das gleiche Programm und deshalb arbeiten alle ART-Teams synchronisch
+* Jedes Team hat eine Vorstellung wie viele Elemente es bringen kann
+* Teams haben [Agilen-Mindset](SAFe_Lean_Agile_Mindset.md)
+* Die Leute, die in ART-Team arbeiten, beschäftigen sich mit ART-Team in Vollzeit 
 * Das ART-Team hat regelmäßig ein Face-to-Face Treffen, wo sie die [PI Planung](SAFe_Program_Increment_Planning.md) haben
-* Innovation und Planung (IP) veranstalten immer am Ende einen Teil der [PI Planung](SAFe_Program_Increment_Planning.md) und sind gemeint, um die Verbesserrung zu bringen
-* Inspektion und Adaptierung (I&A) veranstalten auch immer am Ende der [PI Planung](SAFe_Program_Increment_Planning.md) und sind gemeint, die aktuelle Situation auszuwerten und mit der Solution-oriented Einstellung zu verbessern
-* Develop on Cadence, Release on Demand - die Lieferung der Lösung vom ART-Teams kann in jedem Moment sein
+* Innovation und Planung (IP) veranstalten immer am Ende eines Teils der [PI Planung](SAFe_Program_Increment_Planning.md) und sind gemeint, um die Verbesserrungen zu bringen
+* Inspektion und Adaptierung (I&A) veranstalten auch immer am Ende der [PI Planung](SAFe_Program_Increment_Planning.md) und sind gemeint, die aktuelle Situation auszuwerten und mit der Lösungsorientiertseinstellung zu verbessern
+* Die Lösungslieferung von den ART-Teams kann in jedem Moment sein
 
 ## Organisation um den Wert
-Wie schon gesagt war, die ARTs sind organisiert, um den Wert zu bringen. ARTs sind am meistens virtuelle Teams, in denen die Leute zusammen arbeiten, aber sehr häufig bleiben die Leute unter dem klassischen Struktur des Unternehmens. Das Bild unten zeigt wie sind die ARTs gebildet.
+Wie schon gesagt war, die ART-Teams sind organisiert, um den Wert zu bringen. ART-Teams sind meistens virtuelle Teams, in denen die Leute zusammenarbeiten, aber sehr häufig bleiben die Leute unter dem klassischen Struktur des Unternehmens. Das Bild unten zeigt wie sind die ART-Teams gebildet.
 
 ![ARTs construction](https://user-images.githubusercontent.com/93159758/142731182-0c99e1c6-2983-4ef2-8e79-2a2ff094c728.png)
 
-Bild 1.[^2], *ARTs sind cross-functional Teams* , Author: © Scaled Agile, Inc.
+Bild 2.[^2], *ART-Teams sind interfunktional* , Author: © Scaled Agile, Inc.
 
-## ART Teamstruktur und wichtige Teamrollen
-Die Struktur der ART Teams ist zwar nicht fest festgestellt, aber es gibt hier eine bestimmte Rollen, die für erfolgreiches Funktionieren wichtig sind. Meistens enthalten die Teams zwichen 50 und 125 Leute[^4]. Für jedes Team gibt es ein Release train engineer (RTE), Product manager und System architect. Außer dem AGT-Team sind auch business owner, die verantwortlich für die Businessergebnisse eines ART-Teams sind, und die Kunden, denen die Lösungen von einem ART-Team geliefert sind.
+## ART-Teamstruktur und wichtige Teamrollen
+Die ART-Teamstruktur ist zwar nicht fest festgestellt, aber es gibt hier eine bestimmte Rollen, die für erfolgreiches Funktionieren wichtig sind. Meistens enthalten die Teams zwischen 50 und 125 Leute[^4]. Für jedes Team gibt es ein Release Train Engineer (RTE), Produktmanager und Systemarchitekt. Außer dem AGT-Team ist auch Businessbesitzer, der verantwortlich für die Businessergebnisse eines ART-Teams ist, und die Kunden, denen die Lösungen vom ART-Team geliefert werden.
 
 **Kurze Rollenbeschreibung:**[^4]
-* [Release train engineer](https://www.scaledagileframework.com/release-train-engineer-and-solution-train-engineer/) - ist der ART-führer und ist verantwortlich für die Leitung des ART-Teams. Dazu zählt man die Exekution, das Riskmanagement und die Verbesserung des Prozesses im ART-Team.
-* [Product manager](https://www.scaledagileframework.com/product-management/) - ist verantworlich für den Auftritt. Er kommuniziert mit den Kunden und Product owners und achtet darauf, dass der Auftritt nach der festgestellten Vision und Roadmap ist.
-* [System architect](https://www.scaledagileframework.com/system-architect-engineering/) - kann ein Person oder ein Team sein. Er definiziert die allgemeine Struktur des Systems.
-* [Business owner](https://www.scaledagileframework.com/business-owners/) - ist verantwortlich für die Businessergebnisse eines ART-Teams
+* [Release Train Engineer](https://www.scaledagileframework.com/release-train-engineer-and-solution-train-engineer/) - ist der ART-Leiter und ist verantwortlich für die Leitung. Dazu zählt man die Exekution, das Risikomanagement und die Prozessesverbesserung im ART-Team
+* [Produktmanager](https://www.scaledagileframework.com/product-management/) - ist verantwortlich für den Auftritt. Er kommuniziert mit den Kunden und Produktbesitzern und achtet darauf, dass der Auftritt nach der festgestellten Vision und dem Plan ist
+* [Systemarchitect](https://www.scaledagileframework.com/system-architect-engineering/) - kann ein Person oder ein Team sein. Er definiert die allgemeine Struktur des Systems
+* [Businessbesitzer](https://www.scaledagileframework.com/business-owners/) - ist verantwortlich für die Businessergebnisse des ART-Teams
+
+# Siehe auch
+
+* [Value Stream](Earned_Value_Analyse.md)
+* [PI Planung](SAFe_Program_Increment_Planning.md)
+* [Agilen-Mindset](SAFe_Lean_Agile_Mindset.md)
 
 # Weiterführende Literatur
 * [Ozkan, N. and Tarhan, A. (2019) ‘A Review of Scaling Approaches to Agile Software Development Models’, Software Quality Professional, 21(4), pp. 11–20.](https://www.proquest.com/scholarly-journals/review-scaling-approaches-agile-software/docview/2312156880/se-2?accountid=17203)
