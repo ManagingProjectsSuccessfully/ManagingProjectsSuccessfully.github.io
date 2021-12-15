@@ -19,7 +19,7 @@ Vorgehensmodelle sind dabei von [Methoden](Methoden.md) zu unterscheiden. In ein
 Abbildung 1: Bestandteile eines Vorgehensmodells[^90]
 
 # Arten von Vorgehensmodellen
-Vorgehensmodelle können in klassische und [agile](Agiles_Manifest.md) Vorgehensweisen, sowie [hybride](Hybrides_Projektmanagment.md) Varianten unterscheiden werden. Die Terminologie ist hierbei analog zur Vorlesung Managing Projects Successfully gewählt. In der Literatur findet sich jedoch eine Vielzahl an Bezeichnungen und unterschiedliche Einteilungen. Einen Überblick über mögliche Klassifizerungen liefert Tabelle 1.
+Vorgehensmodelle können in klassische und [agile](Agiles_Manifest.md) Vorgehensweisen, sowie [hybride](Hybrides_Projektmanagment.md) Varianten unterscheiden werden. Die Terminologie ist hierbei analog zur Vorlesung Managing Projects Successfully gewählt. In der Literatur findet sich jedoch eine Vielzahl an Bezeichnungen und unterschiedliche Einteilungen. Einen Überblick über Klassifizierungen unterschiedlicher Autor:innen liefert Tabelle 1.
 
 ## Übersicht Klassifizierung von Vorgehensmodellen
 **Kuster et al.**
@@ -68,7 +68,6 @@ Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
 Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
 || Kuster et al. | Timinger | Schneider et al. | Broy & Kuhrmann | Kneuper et al. | Wieczorrek & Mertens |
 |:---:|---|---|---|---|---|---|
-||2|4|3|3|3|4|
 |**E</br>I</br>N</br>T</br>E</br>I</br>L</br>U</br>N</br>G**| <ul><li>klassisch/</br>Phasen-</br>konzept</li><li>agil</li></ul> | <ul><li>sequenziell</li><li>nebenläufig/</br>parallel</li><li>wiederholend</li><li>agil</li></ul> | <ul><li>linear oder Phasenmodell</li><li>iterativ</li><li>Prototyping</li></u> | <ul><li>phasen-</br>orientierte Modelle und sequenzielles Vorgehen</li><li>iteratives und inkrementelles Vorgehen</li><li>Prototyping</li></u> | <ul><li>sequentiell</li><li>evolutionär</li><li>Prototyping</li></u> |<ul><li>konzeptionell (als Spezialfall von inkrementell)</li><li>inkrementell</li><li>evaluativ</li><li>empirisch</li></ul> |
 
 Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
