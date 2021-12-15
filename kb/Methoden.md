@@ -21,9 +21,8 @@ Der Begriff Methode wird in verschiedenen Quellen inhaltlich ähnlich definiert:
 
 Eine Methode ist also dahingehend ein bestimmtes Vorgehenskonzept, um sich Wissen anzueignen oder Ergebnisse und Lösungen zu erarbeiten.
 
-## Abgrenzung zu Methodiken
 
-Zu unterscheiden sind Methoden von Methodiken.
+Zusätzlich sind Methoden von Methodiken zu unterscheiden.
 Eine Methodik ist die "Gesamtheit von Methoden, als Teildisziplin einer Fachwissenschaft auch die Lehre von den in dieser Wissenschaft angewandten Methoden"[^13], also die Anwendung von verschiedenen Methoden.
 Methodiken fassen mehrere Methoden in einem Vorgehensmodell zusammen. Eine Projektmanagement-Methode ist beispielsweise das Kanban-Board, welches innerhalb des übergeordneten Vorgehensmodells Kanban angewendet wird.[^7]
 
@@ -47,7 +46,6 @@ Mit Hilfe von agilem Projektmanamement ist es möglich, sich laufend an sich ver
 Sowohl in klassischem als auch in agilem Projektmanagement oder deren Mischform, dem hybriden Projektmanagement, lassen sich übergreifende Methoden finden, die allgemein und unabhängig von der Projektart angwendet werden können. In nahezu jedem Projekt müssen beispielsweise Risiken und entsprechende Gegenmaßnahmen erarbeitet, wichtige Stakeholder analysiert und die Wirtschaftlichkeit des Vorgehens geprüft werden.[^7]
 Oft genutzte Methoden hierbei sind die [Stakeholderanalyse](Stakeholderanalyse.md), [Risikoanalyse](Risikoanalyse_und_Visualisierung.md), [Business Case](Business_Cases.md), ABC-Analyse, Plan-Ist-Vergleich, [Project Canvas](Project_Canvas.md) und die Kommunikationsmatrix.[^7]
 
-### Softskill-Management
 
 Die Methoden für Kompetenzen im Projektmanagement kann prinzipiell jedes Teammitglied übernehmen. Besonders der Projektleiter benötigt jedoch bestimmte Kompetenzen, um den erfolgreichen Ablauf seines Projektes sicherzustellen.[^14] Für ein effizientes Selbstmanagement werden Techniken wie [Pomodoro](Pomodoro.md), [Pareto-Prinzip](Pareto_Prinzip) oder die [Eisenhower-Matrix](Eisenhower_Matrix.md) eingesetzt. Dem Projektleiter stehen außerdem verschiedene Mittel zur Verfügung, um die Kommunikation in der Gruppe zu verbessern und die Teammitglieder anzuführen. Dafür können [Feedback-Gespräche](Feedbackgespräche.md) und Methoden des [Teammanagements](Teammanagement.md) genutzt werden. Die Entscheidungsfindung der Gruppe können Methoden wie die [Nutzwertanalyse](Nutzwertanalyse.md) unterstützen.[^7]
 Zur Findung innovativer Lösungsideen werden Kreativitätsmethoden eingesetzt. Kreativitätsmethoden dienen im Allgemeinen dazu, mit bestimmten Vorgaben die Kreativität der Teammitglieder anzuregen, um Problemlösungen zu finden oder Ideen zu generieren.[^15] Besonders bekannt sind [Brainstorming](Brainstorming.md), [Mindmapping](Mindmapping.md) und die [Walt-Disney-Methode](Walt_Disney_Methode.md).[^7]
