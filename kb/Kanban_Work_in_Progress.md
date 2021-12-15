@@ -5,43 +5,45 @@ author: FilipPrecik
 anrechnung: k
 ---
 
-In diesem Beitrag ist die Kanbantechnik beschreibt. Zuerst ist die Geschichte und die Bedeutung kurz erklärt. Danach sind die Vorteile der Kanbantechnik im Projektmanagement erläutert. Der Beitrag fährt mit den Kanbanprinzipen und Practises fort und am Ende des Beitrags sind die WIP-Limite und ihre Vorteile beschreibt und erklärt.
+In diesem Beitrag ist die Kanban-Technik beschrieben. Zuerst ist die Geschichte und die Bedeutung kurz erklärt. Danach sind die Vorteile der Kanban-Technik im Projektmanagement erläutert. Der Beitrag fährt mit den Kanban-Prinzipen und Gewohnheiten fort und am Ende des Beitrags sind die WIP-Limite und ihre Vorteile beschrieben und erklärt.
 
-# Kanbangeschichte und die Bedeutung des Begriffs
+# Geschichte und die Bedeutung des Begriffs
 
-Kanban is eine Technik, die Visualisierung anwendet. Der Begriff [Kanban](Kanban.md) kommt aus Japan und in der orinalen Bedeutung ist es ein [visuelles Zeichen](Kanban_Karten.md) oder visuelle Karte[^4]. Als der Vater der Kanbantechnik ist am meisten verzeichnet Taiichi Ohno[^1], der Kanban für den ersten Mal in Toyota verwendet hat. Die Kanbanmethodik spielt eine wichtige Rolle in JIT (Just in time)[^2][^3], auch wie TPS ([Toyota Production System](Toyota_Produktionssystem.md))[^5] bekannt, und es war hier auch zum ersten Mal benutz.
+Kanban ist eine Technik, die Visualisierung anwendet. Der Begriff [Kanban](Kanban.md) kommt aus Japan und in der originalen Bedeutung ist es ein [visuelles Zeichen](Kanban_Karten.md) oder visuelle Karte[^4]. Als der Vater der 
+Kanban-Technik ist meistens Taiichi Ohno[^1] gekennzeichnet, der Kanban für den ersten Mal in Toyota verwendet hat. Die Kanban-Methodik spielt eine wichtige Rolle in JIT (Just in time)[^2][^3], auch wie TPS ([Toyota Production System](Toyota_Produktionssystem.md))[^5] bekannt, und war hier auch zum ersten Mal benutz.
 
-# Die Vorteile des Kanbans für das Projectsmanagement
+# Die Kanban-Vorteile für das Projektmanagement
 
-Die Vorteile des Kanbans sind sehr breit. Ursprünglich ist die Technik gemeint, um WIP und die Gesamtkosten des Bestandszustands zu minimalisieren [^6]. Außerdem, hilft die Kanbantechnik die Arbeit besser zu visualisieren, indem uns die Übersicht der allen Projektsausgaben gibt, und auch limitiert WIP, die auf einzelnen Mitarbeitern liegt [^7]. Sogar laut einer Studie zeigt Kanban bessere Ergebnise der Effektivität für die Software development Projekte im Vergleich zu [Scrum](SCRUM.md)[^8].
+Die Vorteile des Kanbans sind sehr breit. Ursprünglich ist die Technik gemeint, um WIP (Work in Progress) und die Gesamtkosten des Bestandszustands zu minimalisieren [^6]. Außerdem hilft die Kanban-Technik die Arbeit besser zu visualisieren, indem uns die Übersicht über alle Projektsaufgaben gibt, und auch limitiert die Arbeit im Prozess, die auf einzelnen Mitarbeitern liegt [^7]. Sogar laut einer Studie, zeigt Kanban bessere Ergebnisse der Effektivität für die Softwaresentwicklungsprojekte im Vergleich zu [Scrum](SCRUM.md)[^8].
 
-# Die Prinzipe und Practises in Kanban
+# Die Prinzipe und Gewohnheiten in Kanban
 
-Kanban kann man sehr flexibel benutzen und die Nutzung in der Praxis ist ziemlich einfach. Trotz gibt es hier 4 Grundprinzipe und Practises[^9], nach denen sich Kanban richtet. Das Bild unten zeigt sie:
+Kanban kann sehr flexibel benutzt werden und die Nutzung in der Praxis ist ziemlich einfach. Trotzdem gibt es hier 4 Grundprinzipe und Gewohnheiten[^9], nach denen sich Kanban richten sollen. Das Bild unten zeigt sie:
 
 ![Principles and practises_Kanban](https://user-images.githubusercontent.com/93159758/142882383-041e68f1-48de-46d3-9a21-58d63cc31723.png)
 
-*Bild 1.[^10], Kanban practises and principles*
+*Bild 1.[^10], Kanban-Gewohnheiten und Prinzipe*
 
-# WIP-Limite Feststellung and warum sind diese Limite wichtig?
+# WIP-Limite Feststellung and warum sind diese Limite bedeutend?
 
-WIP (Work in progress) kann man erklären wie eine Nummer der parallelen Prozesse, die für jedes Prozess erlaubt sind.[^11] Als ein Team arbeitet auf einem Projekt, es ist einfacher eine Aufgabe zu 100% beenden als 10 Aufgaben zu 10%. Warum ist es so? Einfach erklärt – wenn die Leute auf 10 Aufgaben arbeiten, müssen sie auch ihre Konzentration unter die 10 Aufgaben verteilen. Wenn sie auf einer Aufgabe arbeiten wollen, müssen sie sich dann zuerst in der Aufgabe orientieren und das verbraucht eine Zeit. Die Grafik unten zeigt es uns visuell:
+WIP kann man erklären wie eine Nummer der parallelen Prozesse, die für jedes Phase erlaubt sind.[^11] Als ein Team arbeitet auf einem Projekt, es ist einfacher eine Aufgabe zu 100% beenden als 10 Aufgaben zu 10%. Warum ist es so? In anderen Wörtern, wenn man mehr Aufgaben hat, passiert es oft, dass man an mehreren Aufgaben in einem Moment arbeitet und unter diese Aufgaben seine Konzentration teilen muss. Deshalb wird die Produktivität niedriger. Siehe die Grafik unten für visuelle Erklärung:
 
 <img width="394" alt="Screenshoot from book" src="https://user-images.githubusercontent.com/93159758/142884959-6e9950f7-f468-45c7-a65f-270849b4b4ac.png">
 
-*Bild 2.[^12], Sequential vs. quasisimultaneous operations*
+*Bild 2.[^12], Sequentielle vs. quasisimultane Prozesse*
 
-Um dieses zu verhindern, kommt Kanban mit dem Begriff WIP Limit oder Work in Progress limit. Wie kann man raten, es limitiert die Nummer der Arbeitsaufgaben. Die WIP Limite ist ein Grundprinzip von den allen Grundprinzipen in Kanban und deshalb ist es wichtig, damit zu arbeiten lernen. Die WIP Limite ist aber nicht nur einmal festgestellt und dann kann man damit nichts machen. Die WIP Limite muss sich der Änderung in der Situation anpassen.[^12]
+Um dies zu verhindern, kommt Kanban mit dem Begriff WIP-Limite (Work in Progress Limit). Es ist gemeint, die Nummer der Arbeitsaufgaben zu limitieren. Die 
+WIP-Limite ist ein Grundprinzip von den allen Grundprinzipen in Kanban und deshalb ist es wichtig, damit zu arbeiten lernen. Die WIP-Limite ist aber nicht nur einmal festgestellt und dann kann man damit nichts machen. Die WIP-Limite muss sich der Änderung in der Situation anpassen.[^12]
 
 # Die Vorteile der WIP-Limite[^12]
 
 * Die Mitarbeitern konzentrieren sich nur auf eine Aufgabe und überspringen nicht jedes Mal auf die andere
-* Niedriger lead times
+* Niedriger Lead-Times
 * Höhere Qualität
-* Die Arbeit auf den Aufgaben kann besser vorausgesehen werden. Das bedeutet, dass die Endefristen besser vorausgesehen werden können.
-* Weniger Störungselemente
+* Die Arbeit auf den Aufgaben kann besser vorausgesehen werden. Z.B. die Endefristen können besser vorausgesehen werden
+* Wenigere Störungselemente
 * Machen die Probleme sichtlich
-* Helfen „Bottlenecks“ zu identifizieren 
+* Helfen „Bottlenecks“ zu identifizieren (Als Bottlenecks werden die Plätze im Prozess bezeichnet, die mit der höheren Wahrscheinlichkeit die Probleme bereiten können.)
 
 # Siehe auch
 
