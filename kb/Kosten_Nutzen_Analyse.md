@@ -89,8 +89,12 @@ Eine Kosten-Nutzen-Analyse ist für eine [erfolgreiche Umsetzung von Projektziel
 
 # Siehe auch
 
+* [Nutzwertanalyse](Nutzwertanalyse.md)
+* [Risikoanalyse](Risikoanalyse_und_Visualisierung.md)
 * [Ressourcenplanung](Ressourcenplanung.md)
 * [Kostenplanung](Kostenplanung.md)
+* [erfolgreiche Projekte](Praxisbeispiele_erfolgreiche_Projekte.md)
+* [Sensitivitätsanalyse]( https://www.bwl-lexikon.de/wiki/sensitivitaetsanalyse/)
 
 # Weiterführende Literatur
 
