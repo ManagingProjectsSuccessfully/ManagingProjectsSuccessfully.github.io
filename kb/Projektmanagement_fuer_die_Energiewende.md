@@ -21,7 +21,7 @@ Klassisches Projektmanagement setzt auf Vorausplanen und Einhalten einer Strateg
 # Anforderungen/Qualtität
 
 * Stabile und konstante Bereitstellung erneuerbarer Energie
-* Einhalten Rechtlicher Rahmenbedingungen 
+* Einhalten rechtlicher Rahmenbedingungen 
 * Lieferung von erneuerbarer Energie in das ganze Bundesgebiet
 
 
@@ -42,14 +42,19 @@ Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingPr
 * Ständige Gesetzesänderungen
 * Abhängigkeit von Netzausbau und Aufbau von Speichermedien
 
+Risikomanagement am Beispiel einer Biogasanlage:
+* Stetiges Kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^1]
+* Störmeldungen ab bestimmten Parametern [^1]
+* Versicherbarkeit nur bei bestand eines Wartungsvertrags [^1]
+
 # Finanzierung 
-Höchste Priorität auf langfristiger Absicherung der Geldmittel. Dabei besteht die Möglichkeit zum Abrufen von vielen verschiedenen staatlichen Fördermitteln und Subventionen
+Höchste Priorität auf langfristiger Absicherung der Geldmittel. Dabei besteht die Möglichkeit zum Abrufen von vielen verschiedenen staatlichen Fördermitteln und Subventionen.
 Viele Konzepte in der die Europäische Investitionsbank als Geldgeber ohne Risikobeteiligung auftritt, dabei agieren Finanzitermediäre/Geschäftsbanken als Mittler.
 
 # Riskmanagement Lösungen am Beispiel Biogasanlagen
-* Stetiges kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^1]
+* Stetiges Kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^1]
 * Störmeldungen ab bestimmten Parametern [^1]
-* Versicherbarkeit nur bei bestand eines Wartungsvertrags [^1]
+* Versicherbarkeit nur bei Bestand eines Wartungsvertrags [^1]
 
 # Derzeitiger Stand
 Der Anteil der Erneuerbaren Energien am deutschen Stromverbrauch lag 2020 bereits bei 45 Prozent.
@@ -60,7 +65,7 @@ Dennoch auch negative Nachrichten, da der Netzausbau nur schleppend vorrangeht
 
 # Kritik
 Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^2]
-PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Marchbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^3]
+PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Machbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^3]
 
 # Expertise
 Experten raten bei großen [Bauprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Bauprojekte.md)/Infrastrukturprojekten zu klassischen Methoden, da agile Methoden aufgrund der mangelnden Flexibilität der Projekte an neue Rahmenbedingungen ungeeignet sind.
@@ -76,15 +81,15 @@ Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.c
 * https://www.campana-schott.com/ch/de/unternehmen/media-events/detail/energiewende-komplexer-netzausbau-erfordert-effizientes-projektmanagement-1
 * https://www.wirtschaftsrat.de/wirtschaftsrat.nsf/id/8UKHME-ohne-konsequentes-projektmanagement-wird-die-energiewende-nicht-gelingen-de
 * https://elibrary.projektmanagement.digital/article/99.125010/pm201320002
-* Bottcher, J. (2013). Handbuch Offshore-Windenergie (German Edition): Rechtliche, Technische Und Wirtschaftliche Aspekte (1. Aufl.). De Gruyter Oldenbourg.
-* Böttcher, J. (2012). Management von Biogas-Projekten: Rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
+* Bottcher, J. (2013). Handbuch Offshore-Windenergie (German Edition): rechtliche, Technische Und Wirtschaftliche Aspekte (1. Aufl.). De Gruyter Oldenbourg.
+* Böttcher, J. (2012). Management von Biogas-Projekten: rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
 * Valov, B. (2020). Handbuch Netzintegration Erneuerbarer Energien: Netzanschluss, Stromerzeugungsanlagen und Regelung (1. Aufl. 2020 Aufl.). Springer Vieweg.
 * https://www.co2online.de/klima-schuetzen/energiewende/energiewende-definition-ziele-uebersicht/#c150159
 * https://www.co2online.de/klima-schuetzen/energiewende/erneuerbare-energien/
 
 # Quellen
 
-[^1]:Böttcher, J. (2012). Management von Biogas-Projekten: Rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
+[^1]:Böttcher, J. (2012). Management von Biogas-Projekten: rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
 [^2]: https://www.cleanthinking.de/energiewende-in-deutschland-kurzschluss-im-projektmanagement/
 [^3]: https://de.linkedin.com/pulse/projektmanagement-der-energiewirtschaft-garant-f%C3%BCr-die-schulte
 
