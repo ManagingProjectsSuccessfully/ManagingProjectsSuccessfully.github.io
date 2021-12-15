@@ -31,15 +31,14 @@ In der fünften Stufe werden Hindernisse, welche Mitarbeitenden die Umsetzung de
 Generell existiert für dieses Problem keine einfache Lösung, ein guter Ansatzpunkt ist jedoch ein ehrlicher Dialog.[^3]
 
 ## 6. Schaffen schneller Erfolge
-Organisationale Veränderungen sind langwierige Prozesse, wodurch es umso dringender wird, kurzfristige Erfolge zu feiern. Anhand der kurzfristigen Erfolge
+Organisationale Veränderungen sind langwierige Prozesse, wodurch es umso dringender wird, kurzfristige Erfolge zu feiern. Anhand dieser
 wird die Glaubwürdigkeit des eingeleiteten Veränderungsprozesses gesichert. Darüberhinaus dienen diese kurzfristigen Erfolge als Belohnung der Veränderungsbemühungen,
 außerdem erhöhen diese Erfolge das Dringlichkeitsgefühl und helfen dabei, Optimismus unter denjenigen zu streuen, welche die Veränderung vorantreiben.[^1][^3]
 
-um die Glaubwürdigkeit des eingeleiteten Veränderungsprozesses zu sichern, darüberhinaus dienen diese kurzfristigen Erfolge als Belohnung der Bemühungen, etwas zu verändern. 
 ## 7. Konsolidieren der erzielten Erfolge und Einleiten weiterer Erfolge
-Die siebte Stufe beinhaltet, dass bereits erzielte Erfolge gefestigt werden. Darauf aufbauend kann man neue Veränderungsideen kanalisieren und ebenfalls angehen. 
+Inhalt der siebten Stufe ist die Festigung bereits erzielter Erfolge. Darauf aufbauend sind neue Veränderungsideen denk- und gegebenenfalls umsetzbar.
 
-Ebenso ist es laut Kotter in dieser Stufe wichtig, das Ende eines großen Veränderungsprozesses nicht zu früh zu verkünden, da dadurch kritisches Momentum verloren gehen kann, was zu Rückschritten führen kann.[^1][^3]
+Ebenso ist wichtig, das Ende eines großen Veränderungsprozesses nicht zu früh zu verkünden, da dadurch kritisches Momentum verloren geht, was zu Rückschritten führen kann.[^1][^3]
 ## 8. Verankern der neuen Ansätze in der Kultur
 Die finale letzte Stufe eines Veränderungsprozesses ist es, den Veränderungen in der Unternehmenskultur Platz zum Wachsen und Gedeihen zu geben.[^1] Ziel ist es, nicht mit der Vision übereinstimmende Teile der Unternehmenskultur loszulassen und neue Werte zu integrieren. Da die Unternehmenskultur oftmals nur schwer greifbar ist, führen erste erfolgreiche etablierte Veränderungen zu einem Wandel der Unternehmenskultur[^1]. Darüberhinaus ist es wichtig, dass der Großteil der Organisation hinter den Veränderungen steht, da ansonsten nicht mit langfristigem Erfolg zu rechnen ist.[^3]
 
