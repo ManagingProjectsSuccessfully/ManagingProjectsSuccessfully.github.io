@@ -4,7 +4,7 @@ tags: agil klassisch
 author: Emi1404
 anrechnung:  klassich
 ---
-Zu Anfang, eine kurze Definition  des Begriff **Projektmitarbeiter**, um einen Überblick über das Thema zu erhalten.
+Zu Anfang, eine kurze Definition  des Begriff Projektmitarbeiter, um einen Überblick über das Thema zu erhalten.
 
 "Projektmitarbeiter sind Rollen im [Projektmanagement](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), die, koordiniert durch der [Projektleiter](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md), Aufgaben im [Projekt](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md ) realisiren."[^1] 
 
@@ -99,6 +99,8 @@ Das Anfangsgehaltt liegt bei 30.081 Euro jährlich und die Gehaltsobergrenze lie
 https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektteam_Kultur.md)
 
 [Projekt](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
+
+[PMBOK_Guide](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMBOK_Guide.md)
 # Quellen
 
 [^1]: (https://www.ibo.de/glossar/definition/projektmitarbeiter)
