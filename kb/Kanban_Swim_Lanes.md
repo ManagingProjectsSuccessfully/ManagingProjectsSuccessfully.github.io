@@ -32,19 +32,19 @@ Vor allem wenn eng mit Geschäftspartnern und Kunden gearbeitet wird, ist dies e
 Die Aufteilung des Kanban Boards nach Produkten hilft insbesondere dann, wenn diverse Produkte gleichzeitig entwickelt werden. Jedes Projekt erhält dabei eine eigene Swimlane. Dadurch können jederzeit neue Produktideen hinzugefügt und bearbeitet werden. Besonders für Unternehmen mit einer breiten Produktpalette und vielen unterschiedlichen Kundenwünschen kann diese Aufteilung sinnvoll sein.[^4][^3]
 
 ### **Gliederung nach Projektteams**
-Sobald mehrere Teams an einem Projekt arbeiten, wird die Aufgabentafel ohne die richtige Gliederung schnell unübersichtlich. Um diesem Problem entgegenzuwirken können Swimlanes nach Teams beziehungsweise Abteilungen gebildet werden.
+Sobald mehrere Teams an einem Projekt arbeiten, wird die Aufgabentafel ohne die richtige Gliederung schnell unübersichtlich. Um diesem Problem entgegenzuwirken, können Swimlanes nach Teams beziehungsweise Abteilungen gebildet werden.
 
 ![Swimlanes_Teams](https://static.kanbantool.com/support/kanban-board/swimlane-per-team.png)
 [*Swimlanes_Großprojekt_Aufteilung_Teams*](https://static.kanbantool.com/support/kanban-board/swimlane-per-team.png)[^4]
 
-So können einzelne Teammitglieder schnell sehen, welche Aufgaben sie noch zu erledigen haben. Bei kleineren Projekten ist häufig eine Swimlane pro Teammitglied sinnvoll, wohingegen bei Großprojekten mit mehreren Abteilungen eine Differenzierung nach kompletten Teams sinnvoll ist.[^1][^4]
+So können einzelne Teammitglieder schnell sehen, welche Aufgaben sie noch zu erledigen haben. Bei kleineren Projekten wird häufig eine Swimlane pro Teammitglied genutzt, wohingegen bei Großprojekten mit mehreren Abteilungen eine Differenzierung nach kompletten Teams sinnvoll ist.[^1][^4]
 
 
 ### **Art der Aufgabe**
-Eine weitere beliebte Möglichkeit sein Kanban Board zu unterteilen ist es, die Swimlanes nach dem jeweiligen Aufgabenbereich zu sortieren. Da es in jedem Team  unterschiedliche Segmente eines Projekts gibt, macht es Sinn diese mehrfach zu klassifizieren. Zum Beispiel kann zwischen zwei übergeordneten Kategorien wie extern und intern differenziert und anschließend weiter untergliedert werden. Um die Übersicht zu wahren, sollte hierbei allerdings nicht in mehr als 10 Swimlanes unterteilt werden.[^3]
+Eine weitere beliebte Möglichkeit sein Kanban Board zu unterteilen ist es, die Swimlanes nach dem jeweiligen Aufgabenbereich zu sortieren. Da es in jedem Team  unterschiedliche Segmente eines Projekts gibt, macht es Sinn diese mehrfach zu klassifizieren. Zum Beispiel kann zwischen zwei übergeordneten Kategorien wie extern und intern differenziert und anschließend weiter untergliedert werden. Um die Übersicht zu wahren, sollte hierbei allerdings in nicht mehr als 10 Swimlanes unterteilt werden.[^3]
 
 ### **Wiederkehrende Prozesse**
-Swimlanes können auch genutzt werden, um das Kanban Board in wiederkehrende Prozesse zu unterteilen. Häufig haben Teams wiederkehrende Aufgaben, die in regelmäßigen Abständen erledigt werden müssen. Beispielweise müssen IT-Teams immer wieder Wartungsarbeiten durchführen. Damit diese simplen Arbeitsprozesse nicht vernachlässigt werden, können Swimlanes für einmalige und wiederkehrende Aufgaben erstellt werden. Dies stellt sicher das alle Aufgaben dokumentiert werden und somit die vermeintlich alltäglichen Prozesse nicht in Vergessenheit geraten.[^1][^5]
+Swimlanes können auch genutzt werden, um das Kanban Board in wiederkehrende Prozesse zu unterteilen. Häufig haben Teams wiederkehrende Aufgaben, die in regelmäßigen Abständen erledigt werden sollen. Beispielweise müssen IT-Teams immer wieder Wartungsarbeiten durchführen. Damit diese simplen Arbeitsprozesse nicht vernachlässigt werden, können Swimlanes für einmalige und wiederkehrende Aufgaben erstellt werden. Dies stellt sicher das alle Aufgaben dokumentiert werden und somit die vermeintlich alltäglichen Prozesse nicht in Vergessenheit geraten.[^1][^5]
 
 ### **Verworfene Ideen**
 Bei der Arbeit an Projekten werden viele Ideen und Konzepte wieder verworfen ohne jemals umgesetzt zu werden. Manchmal ist eine Idee zum jeweiligen Zeitpunkt nicht realisierbar, beinhaltet jedoch trotzdem großes Potential für zukünftige Projekte. In so einem Fall kann eine Swimlane für verworfene Ideen als eine Art Sammlung dienen. Dadurch können gegebenenfalls auch später im Projekt bereits verworfene Konzepte wieder mit aufgenommen werden. Das wiederum ermöglicht eine größere Flexibilität des gesamten Projekts.[^1]
