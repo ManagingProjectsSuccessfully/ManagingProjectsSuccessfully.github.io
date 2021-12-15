@@ -28,7 +28,7 @@ Methodiken fassen mehrere Methoden in einem Vorgehensmodell zusammen. Eine Proje
 
 ![Abgrenzung von Methoden zu Methodiken](Methoden/methodik-methode.jpg)
 
-*Methodik und Methoden[^7]*
+*Methodik als Überbegriff für Methoden[^7]*
 
 
 
