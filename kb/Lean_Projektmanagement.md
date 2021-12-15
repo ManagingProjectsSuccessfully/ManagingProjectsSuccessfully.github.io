@@ -2,103 +2,83 @@
 title: Lean_Projektmanagement
 tags: agil klassisch
 author: nicolasrmg
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Lean_Projektmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## 1.	Definition
+**Lean** = Einstellung / Denkweise / systematischer Ansatz zur Beseitigung von Verschwendung
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+**Lean Project Management** (kurz LPM) ist in erster Linie eine Einstellung zur Durchführung von [Projekten](Projekt.md). Es ist eine Denkweise, die darauf abzielt, Verschwendung zu vermeiden, Projekte effizienter und effektiver zu gestalten und Kunden und Auftraggeber besser bedienen zu können.[^2]
 
-![Beispielabbildung](Lean_Projektmanagement/test-file.jpg)
+## 2.	Toyota-Produktionssystem
+Lean-Management findet seinen Ursprung in den 50er Jahren im japanischen [Toyota-Produktionssystem](Toyota_Produktionssystem.md), welches Verschwendung vermeidet, interne Abläufe und die Interaktion mit Lieferanten und Kunden optimiert und somit dem Prinzip der „Just-in-time-Produktion“ folgt.[^1] Toyota fasst drei Hauptquellen für Verschwendung: [Muda](Muda_7_Arten_von_Verschwendung.md), Mura und Muri.[^4]
 
-*lustiges Testbild*
+**Muda** bedeutet verschwendete Zeit und Mühe. Es umfasst alles was getan oder an Ressourcen eingesetzt wird, was für die Stakeholder in keiner Weise einen Mehrwert oder Nutzen bringt.[^4]
 
-# Aspekt 2
+**Mura** bedeutet Unausgeglichenheit. Es meint einen ungleichmäßigen, inkonsistenten Produktionsprozess, der zu Zeit- und Ressourcenverschwendung führt.[^4] LPM versucht, Mura durch Standardisierung zu überwinden.[^2]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+**Muri** bezeichnet Überlastung, Unzumutbarkeit, Stress und all die Folgen, die entstehen, wenn Menschen hart arbeiten und mehr leisten müssen, als sie in der zur Verfügung stehenden Zeit schaffen können, aber auch, wenn Maschinen überlastet sind und deshalb ihre Wartungsintervalle versäumt werden und diese schließlich ausfallen.[^2]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## 3.	Anwendung im Projektmanagement
+Die Philosophie des Lean, wurde in den 90er Jahren erstmalig als Management-Methode eingeführt.[^3] Anfang der 2000er Jahre begann man schließlich auch damit, diese Grundsätze auf das [Projektmanagement](Projektmanagement.md) anzuwenden.[^2]
 
-So kann man eine Tabelle erstellen:
+Die fünf Kernprinzipien des Lean Management von Womack und Jones eignen sich für den Übergang vom Lean Management zum Lean Project Management. Das Grundprinzip besteht darin, überflüssige Aktivitäten bzw. Verschwendung zu reduzieren.[^6]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+**1. Betrachtung des Nutzens aus Sicht des Kunden.** Die Produkte werden genau auf die Bedürfnisse des Kunden zugeschnitten, um den größtmöglichen Nutzen aus Kundensicht zu erzielen.[^4] Der Wert kann die Qualität, der Zeitrahmen oder der Preis der Leistung sein - erfahrungsgemäß ist es aber ein bisschen von allen dreien.[^5]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+**2. Identifizierung des Wertstroms.** Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produktes erforderlich sind.[^5] Das bedeutet, dass eine detaillierte Betrachtung der Prozesse zur Erstellung des Produktes notwendig ist. Alles was hierfür nicht notwendig ist, ist Verschwendung.[^6]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+**3. Umsetzung des Flussprinzips.** Beim Flussprinzip geht es darum, den gesamten Wertstrom zu optimieren und nicht nur einzelne Abschnitte zu betrachten. Der Fokus liegt auf dem Gesamtfluss und den Engpässen innerhalb des Gesamtflusses. Die Aktivitäten des Wertstroms sollen so reibungslos wie möglich ablaufen können.[^6]
 
-### Ebene-3-Überschrift
+**4. Pull statt Push.** Es wird (nur) das gemacht, was gefordert ist. Jede Stelle im Wertschöpfungsprozess „holt“ sich die Aufgaben, die verrichtet werden müssen, von der vorangegangenen Stelle ab. Der Fluss im Wertstrom wird also vom Ergebnis „gezogen“, nicht vom Startpunkt des Prozesses „geschoben“. Auf diese Weise wird sichergestellt, dass nur die Leistungen erbracht werden, die der Kunde auch tatsächlich nachfragt.[^3]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+**5. Perfektion.** Das bedeutet, dass Perfektion nicht erreicht werden muss, aber immer angestrebt werden sollte. Hier kommt der Gedanke des kontinuierlichen Verbesserungsprozesses auf, denn es wird immer Formen der Verschwendung und Ansätze zur Verbesserung geben.[^3]
 
-# Aspekt n
+Bei diesen fünf Kernprinzipien fällt auf, dass nur das erste Kernprinzip eine externe, d.h. kundenorientierte Sichtweise beinhaltet, während die Kernprinzipien zwei bis fünf auf interne Prozesse ausgerichtet sind.[^6]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+![Abbildung](Lean_Projektmanagement/lean-principles.png)
+
+### *Die 5 Lean Prinzipien*[^7]
+
+## 4.	Lean vs Agile
+Häufig werden die Begriffe Lean und Agile im selben Kontext verwendet, was nicht ganz korrekt ist. Sowohl Lean als auch Agile beschreiben eine Art und Weise, wie man wertschöpfungsorientiert an die Arbeit herangehen kann, aber sie empfehlen hierfür etwas andere Wege. Lean stammt aus der Produktion und ist eher ein systematischer Ansatz, eine unternehmensweite Methode zur Rationalisierung der Wertschöpfung. Agile hingegen wurzelt in der Softwareentwicklung und zielt zwar auch darauf ab, möglichst schnell einen hohen Nutzen zu erzeugen, doch geschieht dies eher durch kurze Iterationen und die Perfektionierung der Teamzusammenarbeit.[^4] Lean-Projekte haben eine ähnliche iterative Struktur wie agile Projekte, mit dem wichtigen Unterschied, dass der Kunde Teil des Lean-Management-Prozesses ist.[^1]
+
+Doch fließen auch Lean-Prinzipien direkt in das agile Projektmanagement und die ihm zugrunde liegende Philosophie, sowie in einige der Methoden ein, die agile Projektmanager anwenden. Ein klares Beispiel ist [Kanban](Kanban.md), das selbst Teil des Toyota-Produktionssystems ist und in vielen Projektumgebungen, insbesondere bei [IT-Projekten](IT-Projekte.md), sehr erfolgreich eingesetzt wird.[^3] Auch das grundlegende agile Prinzip des Plan-Do-Review, welches die [SCRUM](SCRUM.md)-Methodik prägt, ist ebenso ein Bestandteil des Lean-Gedankens.[^2]
+
+Sowohl Lean als auch Agile Teams helfen dabei, besser zu arbeiten und Kunden eine höhere Qualität zu liefern. So ist es nicht unüblich, dass Organisationen die Empfehlungen beider Methoden nutzen, um die bestmöglichen Ergebnisse zu erzielen.[^4]
+
+
+
+
+
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Lean_Projektmanagement.md)
+* [Anforderungsmanagement](Anforderungsmanagement.md)
+* [Kaizen](Kaizen.md)
+* [Projektkommunikation](Projektkommunikation.md)
+* [Six Sigma](Six_Sigma.md)
+* [Stakeholdermanagement](Stakeholdermanagement.md)
+* [Top-Down-Planning](Top_Down_Planning.md)
+* [Voice of the Customer](Voice_of_the_Customer.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Thompson, Eric (2020): "Lean Project Management"](https://www.amazon.de/Lean-Project-Management-Kanban-Kaizen/dp/B086L16F49)
+* [Bertagnolli, Frank (2018): "Lean Management"](https://link.springer.com/book/10.1007/978-3-658-13124-1)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Abhishek Singh, Abhishek/Bahr, Ines (2019): „Der ultimative Leitfaden für das Lean Project Management“](https://www.capterra.com.de/blog/531/lean-project-management-leitfaden)
+[^2]: [Clayton, Mike (2018): „What is Lean Project Management? Project Management in Under 5“](https://www.youtube.com/watch?v=Eptywqps6lw)
+[^3]: [Erne, Rainer (2019): „Lean Project Management – Wie man den Lean-Gedanken im Projektmanagement einsetzen kann“](https://link.springer.com/book/10.1007/978-3-658-26988-3)
+[^4]: [Kanban Tool (2021): „Was ist Lean-Projektmanagement?“](https://kanbantool.com/de/kanban-guide/lean-projektmanagement)
+[^5]: [Landau, Peter (2021): „What Is Lean Project Management?“](https://www.projectmanager.com/blog/lean-project-management)
+[^6]: [Wuttke, Thomas (2018): „Lean Project Management – mit weniger mehr erreichen!“ in Grote, Sven/Goyk, Rüdiger (Hrsg): „Führungsinstrumente aus dem Silicon Valley“](https://link.springer.com/book/10.1007/978-3-662-54885-1)
+[^7]: [Infografik](https://i.pinimg.com/originals/7a/1b/ac/7a1bacd481a17e016b4e94a435f594fb.png)
 

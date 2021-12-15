@@ -1,104 +1,101 @@
 ---
 title: PMBOK_Guide
-tags: agil klassisch
+tags: klassisch
 author: FerYilm
-anrechnung: k oder a
+anrechnung: k
 ---
+Der erstmals 1996 veröffentlichte PMBOK- Guide (A Guide to the Project Management Body of Knowledge) gilt als das zentrale Nachschlagwerk des [PMI](PMI_Institution.md) und ist ein anerkannter Standard des [Projektmanagements](Projektmanagement.md). Der PMBOK Guide gehört wie [PRINCE2](PRINCE2.md) zu den bekanntesten Ansätzen im [Projektmanagement](Projektmanagement.md).
+Die vom PMI angebotene PMP [Zertifizierung](Zertifizierungen.md) baut u. a. auf dem Guide auf und gilt daher als wichtiges Referenzdokument [^1][^2].
 
-Kurzbeschreibung zu PMBOK_Guide um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Aufbau des aktuellen PMBOK-Guides
+Das Handbuch wird inhaltlich in den Standard und einen Leitfaden für das Projektmanagement gegliedert. Mit der 7. Edition wurden unter Berücksichtigung der technologischen und wirtschaftlichen Entwicklungen grundlegende Änderungen vorgenommen. Diese sollen aktuelle Herausforderungen im Projektmanagement besser widerspiegeln und Projektmanagern verbesserte Handlungsmöglichkeiten auf Marktveränderungen erlauben.
+Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer prozessorientierten Methodik, sondern auf Werten und Prinzipien. Zudem wurden die *Knowledge Areas* und die *Prozessgruppen* durch das sog. System für Wertlieferung, die Grundsätze und Projekt-Leistungsbereiche ersetzt [^3].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![Abbildung](PMBOK_Guide/foto.jpg)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+*PMBOK-Guide Seventh Edition* [^4]
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+| The Standard for Project Management | A Guide to the Project Management Body of Knowledge |
+| ------------- | ------------- | 
+| Introduction  | Project Performance Domains  |
+| System for Value Delivery  | Tailoring |
+| Projecet Management Principles | Models, Methods, Artifacts
 
-![Beispielabbildung](PMBOK_Guide/test-file.jpg)
+_Die Themenbereiche der aktuellen Edition_ [^5]
 
-*lustiges Testbild*
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Inhalt des Standards
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## System for Value Delivery
 
-So kann man eine Tabelle erstellen:
+Verschiedene Elemente wie Portfolios, Programme und Produkte können, wenn sie in einem System kombiniert werden, dazu beitragen, je nach Organisationsstrategie einen bestimmten Wert zu schaffen. Damit die Übereinstimmung mit der Strategie und eine Anpassung an das interne und externe Umfeld gewährleistet sind, sollte zwischen den beteiligten Elementen ein regelmäßiger Informationsaustausch stattfinden. Das Governance System unterstützt dabei das System für Wertlieferung und stellt einen Rahmen für verschiedene Funktionen wie Aufsicht und Kontrolle dar. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter](Projektmitarbeiter.md) betont, die unabhängig vom Führungsstil ist. Der PMBOK Guide schreibt den Anwendern zudem keinen speziellen Führungsansatz vor. Entscheidend für das Projektergebnis ist daher die regelmäßige Kooperation zwischen Projektmitgliedern und Stakeholdern [^6].
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+![Abbildung](PMBOK_Guide/system.jpg)
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+*Beispiel für das Wertlieferungssystem* [^6]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## Project Management Principles 
+Die folgenden Grundsätze wurden von Projektspezialisten verschiedener kultureller und beruflicher Hintergründe erarbeitet. Sie ergänzen den *Code of Ethics and Professional Conduct* des [PMI](PMI_Institution.md) und sind nicht präskritpiv. Projektteams sollen sich lediglich an den Grundsätzen orientieren. Die Prinzipien sind konsistent und können sich untereinander oder mit anderen Managementprinzipien überschneiden [^7].
 
-### Ebene-3-Überschrift
+* Stewardship
+* Team
+* Stakeholders
+* Value
+* System Thinking
+* Leadership
+* Tailoring
+* Quality
+* Complexity
+* Risk
+* Adaptability and Resiliency
+* Change
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+# Inhalt des Leitfadens
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## Project Performance Domains
+
+Alle Aktivitäten, die zusammenhängen und zum Erfolg eines Projekts beitragen, werden zu den acht Project Performance Domains gezählt. Aufgrund der gegenseitigen Abhängigkeit stellen sie ein integriertes System dar und sind durch einen simultanen Ablauf gekennzeichnet. Der Zusammenhang der Bereiche kann je nach Projekt Unterschiede aufweisen, ist jedoch immer vorhanden. Eine isolierte Betrachtung der Domains ist deshalb nicht vorgesehen. Abhängig von der Organisation, des Projektteams oder der Ziele setzen sich für die Bereiche, die nachfolgend aufgelistet sind, spezielle Aufgaben zusammen.
+
+*	Stakeholder
+*	Team
+*	Development Approach and Life Cycle
+*	Planning
+*	Project Work
+*	Delivery
+*	Measurement 
+*	Uncertainty [^8]
+
+## Tailoring 
+
+Aufgrund der individuellen Zusammensetzung jedes Projekts sind keine einheitlichen Ansätze möglich. Das Tailoring passt daher unter Berücksichtigung des Projektlebenszyklus, der erwünschten Ergebnisse und der beteiligten Mitarbeiter den Ansatz und die Prozesse an das jeweilige Projekt an. Die Project Management Principles, die Werte und Kultur des Unternehmens bilden dabei die Basis für den Tailoring- Vorgang [^9].
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](PMBOK_Guide.md)
+* [PMI](PMI_Institution.md)
+* [PRINCE2](PRINCE2.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Zertifizierung](Zertifizierungen.md)
+* [Projektmitarbeiter](Projektmitarbeiter.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Agile project management and the PMBOK® guide](https://www.pmi.org/learning/library/agile-project-management-pmbok-waterfall-7042)
+* [PMBOK Guide 7th Edition (12 Principles)](https://www.youtube.com/watch?v=fGrsUSw1_Vw)
 
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]:[PMBOK Guide 7th Edition: Was PMP-Kandidaten wissen müssen](https://www.theprojectgroup.com/blog/pmbok-guide-7th-edition/) 
+[^2]:[Kurz und knapp: Das ist neu beim PMBOK-Guide Edition 7](https://www.inloox.de/unternehmen/blog/artikel/kurz-und-knapp-das-ist-neu-beim-pmbok-guide-edition-7/)
+[^3]:[PMBOK Guide 7. Ausgabe – Ein Überblick](https://www.tiba-business-school.de/pmbok-guide-7-ausgabe-ueberblick/)
+[^4]:[PMBOK® Guide](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK) 
+[^5]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.14
+[^6]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.34-47
+[^7]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.48-86
+[^8]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.102
+[^9]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.226-232
 
