@@ -16,6 +16,7 @@ Klassisches Projektmanagement setzt auf Vorausplanen und Einhalten einer Strateg
 Das wichtigste Ziel der Energiewende ist der Wechsel von fossilen Energieträgern zu erneuerbaren. Dabei soll möglichst auch eine gesteigerte Energieeffizienz mit einhergehen. Ein weiteres Ziel ist es, möglichst alle Stakeholder zufriedenzustellen. [Stakeholder](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholdermanagement.md) sind neben Netzbetreibern auch Landes- und Bundesbehörden, Baufirmen, Anwohner- und Interessenverbände sowie Ingenieur- und Planungsbüros.
 
 Im Anforderungsmanagement wurde folgende Anforderungen als besonders wichtig erachtet.
+
 **Anforderungen**:
 * Stabile und konstante Bereitstellung erneuerbarer Energie[^2]
 * Einhalten rechtlicher Rahmenbedingungen[^2] 
