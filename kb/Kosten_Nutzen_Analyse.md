@@ -26,17 +26,17 @@ Die Ergebnisse der Analyse tragen maßgeblich zu richtungsweisenden Entscheidung
 ## Rahmenbedingungen 
 Im Vorfeld der Durchführung müssen gewisse Rahmenbedingungen bestimmt werden, sowie Voraussetzungen erfüllt sein, welche für einen reibungslosen Ablauf sorgen sollen. 
 
-* Zuallererst wird die zu untersuchende Situation, also die Problem- und Aufgabenstellung, beschrieben. 
-* Dem folgt die Benennung von Bewertungskriterien, anhand deren der Nutzen definiert wird. 
-* Um der Analyse einen festen Rahmen zu geben, wird ein [Analyse-Umfeld](Umfeldanalyse.md) festgelegt.
-* Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.[^3]
+1. Zuallererst wird die zu untersuchende Situation, also die Problem- und Aufgabenstellung, beschrieben. 
+2. Dem folgt die Benennung von Bewertungskriterien, anhand deren der Nutzen definiert wird. 
+3. Um der Analyse einen festen Rahmen zu geben, wird ein [Analyse-Umfeld](Umfeldanalyse.md) festgelegt.
+4. Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.[^3]
 
 Um die Analyse fundiert durchsetzen zu können, sind vorher noch einige wichtige Aspekte zu berücksichtigen.
 | Checkliste[^4]  |
 | ------------- |
 | Ziel der Analyse ? | 
 | Alleiniges Entscheidungskriterium ?  | 
-| Ausmaß des Einflusses auf Entscheidung  |
+| Ausmaß des Einflusses auf Entscheidung ? |
 | Wer führt die Analyse durch ? |
 | Wurden genügend qualitative Merkmale ausgewählt ? |
 | Woher kommen Informationen, Daten, Fakten ? |
