@@ -13,24 +13,17 @@ Einen großen gemeinsamen Plan gibt es dafür jedoch nicht. Vielmehr befassen si
 Klassisches Projektmanagement setzt auf Vorausplanen und Einhalten einer Strategie.  Somit werden vorher die Zielvorgaben für bestimmte Aspekte definiert und möglichst im Verlauf des Projektes eingehalten. Dazu gehören Zielvorgaben wie [Qualität des Endprodukts](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Qualitaetsmanagement.md), [Ressourceneinsatz](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Ressourcenplanung.md), [Kosten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md) und Termine
 
 # Ziele & Anforderungen
-**Ziele**:
-  *	Wechsel von fossilen Energieträgern zu erneuerbaren
-  * Gesteigerte Energieeffizienz
-  * Transport der Energie in das ganze Bundesgebiet
-  
-**Anforderungen**:
-* Stabile und konstante Bereitstellung erneuerbarer Energie
-* Einhalten rechtlicher Rahmenbedingungen 
-* Lieferung von erneuerbarer Energie in das ganze Bundesgebiet
+Das wichtigste Ziel der Energiewende ist der Wechsel von fossilen Energieträgern zu erneuerbaren. Dabei soll möglichst auch eine gesteigerte Energieeffizienz mit einhergehen. Ein weiteres Ziel ist es, möglichst alle Stakeholder zufriedenzustellen. [Stakeholder](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholdermanagement.md) sind neben Netzbetreibern auch Landes- und Bundesbehörden, Baufirmen, Anwohner- und Interessenverbände sowie Ingenieur- und Planungsbüros.
 
+Im Anforderungsmanagement wurde folgende Anforderungen als besonders wichtig erachtet.
+**Anforderungen**:
+* Stabile und konstante Bereitstellung erneuerbarer Energie[^2]
+* Einhalten rechtlicher Rahmenbedingungen[^2] 
+* Lieferung von erneuerbarer Energie in das ganze Bundesgebiet[^2]
 
 # Was wird dafür benötigt?
 
-Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovoltaik, Biomasse und Geothermie (untergeordnete Rolle bei Stromerzeugung) und eine Erweiterung der Infrastruktur in Form von Netzen, als auch in digitaler Form. Insbesondere auch die Anbindung von weit vom Festland entfernten Windkraftwerken und auch ein Aufbau von Speichermöglichkeiten für erneuerbare Energien und Investitionen in Forschung und Entwicklung, um diese zu optimieren.
-
-# Stakeholder
-
-[Stakeholder](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholdermanagement.md) sind neben Netzbetreibern auch Landes- und Bundesbehörden, Baufirmen, Anwohner- und Interessenverbände sowie Ingenieur- und Planungsbüros.
+Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovoltaik, Biomasse und Geothermie.Auch eine Erweiterung der Infrastruktur in Form von Energienetzen, als auch ein ausbau der digitalen Infrastruktur wird benötigt. Damit ein Transport der Energie über das gesammte Bundesgebiet gelingen kann. Zusätzlich sind Investitionen im F&E Bereich zu tätigen, sodass die zugrundeliegenden Technologien,wie Energiespeicherung, verbessert werden können und konkurrenzfähiger sind.
 
 # Risiken 
 Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) befassen sich Projektleiter mit folgenden Problemen:
@@ -42,28 +35,28 @@ Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingPr
 * Abhängigkeit von Netzausbau und Aufbau von Speichermedien
 
 **Risikomanagement am Beispiel einer Biogasanlage**:
-* Stetiges Kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^2]
-* Störmeldungen ab bestimmten Parametern [^2]
-* Versicherbarkeit nur bei bestand eines Wartungsvertrags [^2]
+* Stetiges Kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^3]
+* Störmeldungen ab bestimmten Parametern [^3]
+* Versicherbarkeit nur bei bestand eines Wartungsvertrags [^3]
 
 # Finanzierung 
 Höchste Priorität liegt auf langfristiger Absicherung der Geldmittel. Dabei besteht die Möglichkeit zum Abrufen von vielen verschiedenen staatlichen Fördermitteln und Subventionen.
 Viele Konzepte bauen auf eine Unterstützung durch die Euorpäische Investitionsbank, welche dabei jedoch kein Risiko trägt und durch Finanzintermediäre bzw. Mittler, in Form von Geschäftsbanken, eingebunden wird.
 
 # Derzeitiger Stand
-Der Anteil der Erneuerbaren Energien am deutschen Stromverbrauch lag 2020 bereits bei 45 Prozent.
-Der Anteil der erneuerbaren Energien am gesamten Energieverbrauch – also Strom, Wärme und Verkehr – beträgt mittlerweile fast 20 Prozent.
-Dennoch auch negative Nachrichten, da der Netzausbau nur schleppend vorrangeht. 
+Der Anteil der Erneuerbaren Energien am deutschen Stromverbrauch lag 2020 bereits bei 45 Prozent. [^2]
+Der Anteil der erneuerbaren Energien am gesamten Energieverbrauch – also Strom, Wärme und Verkehr – beträgt mittlerweile fast 20 Prozent. [^2]
+Dennoch auch negative Nachrichten, da der Netzausbau nur schleppend vorrangeht. [^2]
 
-![Derzeitiger Stand](https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_bdcc5b1633.png)
+![Derzeitiger Stand](https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_bdcc5b1633.png)[^4]
 
 # Kritik
-Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^3]
-PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Machbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^4]
+Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^5]
+PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Machbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^6]
 
 # Expertise
 Experten raten bei großen [Bauprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Bauprojekte.md)/Infrastrukturprojekten zu klassischen Methoden, da agile Methoden aufgrund der mangelnden Flexibilität der Projekte an neue Rahmenbedingungen ungeeignet sind.
-Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^4]
+Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^6]
 
 # Weiterführende Literatur
 
@@ -84,8 +77,10 @@ Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.c
 # Quellen
 
 [^1]: https://www.co2online.de/fileadmin/_processed_/b/7/csm_photovoltaikanlage-und-windkraftwerk_278dc38ea3.jpg
-[^2]: Böttcher, J. (2012). Management von Biogas-Projekten: rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
-[^3]: https://www.cleanthinking.de/energiewende-in-deutschland-kurzschluss-im-projektmanagement/
-[^4]: https://de.linkedin.com/pulse/projektmanagement-der-energiewirtschaft-garant-f%C3%BCr-die-schulte
+[^2]: https://www.co2online.de/klima-schuetzen/energiewende/energiewende-definition-ziele-uebersicht/#c150159
+[^3]: Böttcher, J. (2012). Management von Biogas-Projekten: rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
+[^4]: https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_b14d57c256.png
+[^5]: https://www.cleanthinking.de/energiewende-in-deutschland-kurzschluss-im-projektmanagement/
+[^6]: https://de.linkedin.com/pulse/projektmanagement-der-energiewirtschaft-garant-f%C3%BCr-die-schulte
 
 
