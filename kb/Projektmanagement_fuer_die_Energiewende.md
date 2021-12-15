@@ -6,7 +6,7 @@ anrechnung: k
 ---
 # Projektmanagement für die Energiewende
 
-![Photovoltaik](https://www.co2online.de/fileadmin/_processed_/b/7/csm_photovoltaikanlage-und-windkraftwerk_278dc38ea3.jpg)
+![Photovoltaik](https://www.co2online.de/fileadmin/_processed_/b/7/csm_photovoltaikanlage-und-windkraftwerk_278dc38ea3.jpg) [^1]
 
 Um die Energiewende in Deutschland durchführen zu können, müssen mehrere Fachbereiche miteinander verbunden werden. Dazu gehören insbesondere Technik, Recht und Wirtschaft. Das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) für eine erfolgreiche Energiewende fokussiert sich auf die Planung und darauffolgende Umsetzung der Energiewende mit zumeist klassischen Projektmanagementtechniken. Das Ziel ist es dabei eine Strategie zu entwickeln, um von fossilen und nicht nachhaltigen Rohstoffen zu erneuerbaren Energien zu wechseln.
 Einen großen gemeinsamen Plan gibt es dafür jedoch nicht. Vielmehr befassen sich Nationen und Unternehmen einzeln bzw. in kleineren Verbänden damit. Als gemeinsame Grundlage gelten Anordnungen der Klimakonferenzen und bereits bekannte Technologien, um erneuerbare Energien zu nutzen, wie z.B. Photovoltaik und Solarthermie bei Sonnenenergie.
@@ -42,9 +42,9 @@ Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingPr
 * Abhängigkeit von Netzausbau und Aufbau von Speichermedien
 
 **Risikomanagement am Beispiel einer Biogasanlage**:
-* Stetiges Kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^1]
-* Störmeldungen ab bestimmten Parametern [^1]
-* Versicherbarkeit nur bei bestand eines Wartungsvertrags [^1]
+* Stetiges Kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^2]
+* Störmeldungen ab bestimmten Parametern [^2]
+* Versicherbarkeit nur bei bestand eines Wartungsvertrags [^2]
 
 # Finanzierung 
 Höchste Priorität liegt auf langfristiger Absicherung der Geldmittel. Dabei besteht die Möglichkeit zum Abrufen von vielen verschiedenen staatlichen Fördermitteln und Subventionen.
@@ -58,12 +58,12 @@ Dennoch auch negative Nachrichten, da der Netzausbau nur schleppend vorrangeht.
 ![Derzeitiger Stand](https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_bdcc5b1633.png)
 
 # Kritik
-Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^2]
-PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Machbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^3]
+Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^3]
+PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Machbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^4]
 
 # Expertise
 Experten raten bei großen [Bauprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Bauprojekte.md)/Infrastrukturprojekten zu klassischen Methoden, da agile Methoden aufgrund der mangelnden Flexibilität der Projekte an neue Rahmenbedingungen ungeeignet sind.
-Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^3]
+Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^4]
 
 # Weiterführende Literatur
 
@@ -83,8 +83,9 @@ Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.c
 
 # Quellen
 
-[^1]:Böttcher, J. (2012). Management von Biogas-Projekten: rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
-[^2]: https://www.cleanthinking.de/energiewende-in-deutschland-kurzschluss-im-projektmanagement/
-[^3]: https://de.linkedin.com/pulse/projektmanagement-der-energiewirtschaft-garant-f%C3%BCr-die-schulte
+[^1]: https://www.co2online.de/fileadmin/_processed_/b/7/csm_photovoltaikanlage-und-windkraftwerk_278dc38ea3.jpg
+[^2]: Böttcher, J. (2012). Management von Biogas-Projekten: rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
+[^3]: https://www.cleanthinking.de/energiewende-in-deutschland-kurzschluss-im-projektmanagement/
+[^4]: https://de.linkedin.com/pulse/projektmanagement-der-energiewirtschaft-garant-f%C3%BCr-die-schulte
 
 
