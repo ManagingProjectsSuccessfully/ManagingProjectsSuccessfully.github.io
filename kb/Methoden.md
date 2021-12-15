@@ -22,9 +22,11 @@ Der Begriff Methode wird in verschiedenen Quellen inhaltlich ähnlich definiert:
 Eine Methode ist also dahingehend ein bestimmtes Vorgehenskonzept, um sich Wissen anzueignen oder Ergebnisse und Lösungen zu erarbeiten.
 
 
-Zusätzlich sind Methoden von Methodiken zu unterscheiden.
+Zusätzlich sind Methoden von Methodiken abzugrenzen.
 Eine Methodik ist die "Gesamtheit von Methoden, als Teildisziplin einer Fachwissenschaft auch die Lehre von den in dieser Wissenschaft angewandten Methoden"[^13], also die Anwendung von verschiedenen Methoden.
 Methodiken fassen mehrere Methoden in einem Vorgehensmodell zusammen. Eine Projektmanagement-Methode ist beispielsweise das Kanban-Board, welches innerhalb des übergeordneten Vorgehensmodells Kanban angewendet wird.[^7]
+
+![Abgrenzung von Methoden zu Methodiken](methodik-methode.jpg)
 
 
 
