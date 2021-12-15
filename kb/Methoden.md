@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 Unter Methoden des Projektmanagements versteht man eine an bestimmten Standards und Richtlinien orientierte Herangehensweise und Ausführung von einzelnen oder mehreren Projektschritten. Die Durchführung dieser Schritte wird durch die Anwendung von Methoden komplett oder teilweise vorgegeben.[^1]
-Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen und geben Projekten Transparenz und Struktur, das Vorgehen wird durch seine Dokumentierbarkeit besonders nachvollziebar und korrigierbar. Außerdem können einzelne Bestandteile einfacher kommuniziert werden.[^4]
+Methoden werden als Hilfsmittel und Instrumente des Projektmanagements angesehen und geben Projekten Transparenz und Struktur, das Vorgehen wird durch seine Dokumentierbarkeit besonders nachvollziehbar und korrigierbar. Außerdem können einzelne Bestandteile einfacher kommuniziert werden.[^4]
 
 
 
@@ -38,16 +38,16 @@ Die in Projekten genutzten Methoden können je nach Projektart unterteilt werden
 
 ## Methoden des klassischen Projektmanagements
 
-Im klassischen oder auch traditionellen Projektmanagement werden Aktivitäten und Abläufe im Vornherein genau geplant und dokumentiert. Die Projektdurchführung sollte abgesehen von kleinen Änderungen möglichst genau an diesen vorgefertigten Plänen angelehnt sein. Dadurch ergeben sich entsprechende Methoden, die einzelne Elemente des Projektes wie Phasen, Meilensteine und Inhalte festlegen. Typische Methoden sind dabei [Netzplantechnik](Netzplantechnik.md), [Meilensteintrendanalyse](Meilensteintrendanalyse.md), [Projektstrukturplanung](Projektstrukturplan.md) und die Erstellung eines [Gantt-Charts](Gantt_Diagramme.md).[^7]
+Im klassischen oder auch traditionellen Projektmanagement werden Aktivitäten und Abläufe im Vorhinein genau geplant und dokumentiert. Die Projektdurchführung sollte abgesehen von kleinen Änderungen möglichst genau an diesen vorgefertigten Plänen angelehnt sein. Dadurch ergeben sich entsprechende Methoden, die einzelne Elemente des Projektes wie Phasen, Meilensteine und Inhalte festlegen. Typische Methoden sind dabei [Netzplantechnik](Netzplantechnik.md), [Meilensteintrendanalyse](Meilensteintrendanalyse.md), [Projektstrukturplanung](Projektstrukturplan.md) und die Erstellung eines [Gantt-Charts](Gantt_Diagramme.md).[^7]
 
 ## Methoden des agilen Projektmanagements
 
-Mit Hilfe von agilem Projektmanamement ist es möglich, sich laufend an sich verändernde Umstände anzupassen und somit flexibel zu sein und schnell auf bestimmte Situationen reagieren zu können.[^10] Gerade die Anpassungsfähigkeit dieser Art des Projektmanagements macht es in der modernen Zeit zu einem sehr beliebtem Instrument.[^7] Dabei ist diese Bezeichnung jedoch eher ein Oberbegriff für die Anwendung verschiedener agiler Vorgehensweisen und Methoden.[^10]
+Mit Hilfe von agilem Projektmanagement ist es möglich, sich laufend an sich verändernde Umstände anzupassen und somit flexibel zu sein und schnell auf bestimmte Situationen reagieren zu können.[^10] Gerade die Anpassungsfähigkeit dieser Art des Projektmanagements macht es in der modernen Zeit zu einem sehr beliebtem Instrument.[^7] Dabei ist diese Bezeichnung jedoch eher ein Oberbegriff für die Anwendung verschiedener agiler Vorgehensweisen und Methoden.[^10]
 [Backlog-Management](), [Kanban-Board](Kanban_Boards.md), [Daily Scrum](Daily_Scrum.md) und das [Sprint Review](Sprint_Review.md) sind typische Methoden für das agile Projektmanagement.[^7]
 
 ## Allgemeine Methoden
 
-Sowohl in klassischem als auch in agilem Projektmanagement oder deren Mischform, dem hybriden Projektmanagement, lassen sich übergreifende Methoden finden, die allgemein und unabhängig von der Projektart angwendet werden können. In nahezu jedem Projekt müssen beispielsweise Risiken und entsprechende Gegenmaßnahmen erarbeitet, wichtige Stakeholder analysiert und die Wirtschaftlichkeit des Vorgehens geprüft werden.[^7]
+Sowohl in klassischem als auch in agilem Projektmanagement oder deren Mischform, dem hybriden Projektmanagement, lassen sich übergreifende Methoden finden, die allgemein und unabhängig von der Projektart angewendet werden können. In nahezu jedem Projekt müssen beispielsweise Risiken und entsprechende Gegenmaßnahmen erarbeitet, wichtige Stakeholder analysiert und die Wirtschaftlichkeit des Vorgehens geprüft werden.[^7]
 Oft genutzte Methoden hierbei sind die [Stakeholderanalyse](Stakeholderanalyse.md), [Risikoanalyse](Risikoanalyse_und_Visualisierung.md), [Business Case](Business_Cases.md), ABC-Analyse, Plan-Ist-Vergleich, [Project Canvas](Project_Canvas.md) und die Kommunikationsmatrix.[^7]
 
 
