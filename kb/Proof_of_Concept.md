@@ -49,10 +49,10 @@ In unserer digitalisierten Welt wird der technische Fortschritt immer schneller.
 
 # Weiterführende Literatur
 
-* Proof of Concept [https://de.wikipedia.org/wiki/Proof_of_Concept](https://de.wikipedia.org/wiki/Proof_of_Concept)
-* Proof of Konzept: Zeig die Machbarkeit deiner Idee [https://www.avantgarde-experts.de/de/magazin/proof-of-concept/](https://www.avantgarde-experts.de/de/magazin/proof-of-concept/)
-* What is PoC? Simple explanation!(https://youtu.be/W14-JqBbKKY)
-* Stakeholdermanagement für einen erfolgreichen PoC [https://www.computerwoche.de/a/so-bringen-sie-it-und-fachabteilung-unter-einen-hut,3550423] (https://www.computerwoche.de/a/so-bringen-sie-it-und-fachabteilung-unter-einen-hut,3550423)
+* Proof of Concept https://de.wikipedia.org/wiki/Proof_of_Concept
+* Proof of Konzept: Zeig die Machbarkeit deiner Idee https://www.avantgarde-experts.de/de/magazin/proof-of-concept/
+* What is PoC? Simple explanation! https://youtu.be/W14-JqBbKKY
+* Stakeholdermanagement für einen erfolgreichen PoC https://www.computerwoche.de/a/so-bringen-sie-it-und-fachabteilung-unter-einen-hut,3550423
 
 
 # Quellen
