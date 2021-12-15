@@ -79,7 +79,7 @@ Zur Findung innovativer Lösungsideen werden Kreativitätsmethoden eingesetzt. K
 
 [^1]: [Projektmanagementmethode](https://de.wikipedia.org/wiki/Projektmanagementmethode)
 [^2]: [Kreativitätstechniken: 7 Methoden für neue Ideen](https://www.einstein1.net/kreativitaetstechniken/)
-[^3]: [Handbuch Projektmanagement(S.316)](https://link.springer.com/content/pdf/10.1007%2F978-3-658-19989-0.pdf)
+[^3]: [Handbuch Projektmanagement (S.316)](https://link.springer.com/content/pdf/10.1007%2F978-3-658-19989-0.pdf)
 [^4]: [Projektmanagement mit System: Organisation, Methoden, Steuerung (S.43f.)](https://link.springer.com/content/pdf/10.1007%2F978-3-658-24521-4.pdf)
 [^5]: [Systemische Werkzeuge für erf. Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-658-19989-0.pdf)
 [^6]: [Grundlagen des Projektmanagements](https://link.springer.com/content/pdf/10.1007%2F978-3-662-48216-2.pdf)
