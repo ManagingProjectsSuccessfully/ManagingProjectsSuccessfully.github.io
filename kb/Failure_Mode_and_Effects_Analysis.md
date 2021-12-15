@@ -12,9 +12,9 @@ anrechnung: k
 ## Anwendungsbereiche 
 
 
-[FMEA](FMEA_Methode.md) Ansätze lassen sich nach den Bereichen differenzieren in denen sie eingesetzt werden. Dies sind weit verbreitetsten Arten:
+[FMEA](FMEA_Methode.md) Ansätze lassen sich nach dem Bereich differenzieren in dem sie eingesetzt werden. Dies sind weit verbreitetsten Arten:
 #### **Prozess-FMEA**
-Die *Prozess-FMEA* befasst sich mit den Schwachstellen in einem Prozess, um die Effizienz und  Qualität zu steigern. Wird häufig bei der Einführung angewandt, um den potentiellen Erfolg einer Neuerung abzubilden.[^3] 
+Die *Prozess-FMEA* befasst sich mit den Schwachstellen in einem Prozess, um die Effizienz und Qualität zu steigern. Wird häufig bei der Einführung angewandt, um den potentiellen Erfolg einer Neuerung abzubilden.[^3] 
 #### **Design-FMEA**
 *Design-FMEA* wird insbesondere in der Entwicklung eingesetzt, um die Komponenten eines Produkts auf die Fertigungseignung zu überprüfen.
 #### **System-FMEA**
@@ -44,7 +44,7 @@ Der Aufbau und das Ergebnis einer "Failure Mode and Effects Analysis" beinhaltet
 ## Aufbau und Ablauf
 FMEA wird meist in mehreren "Brainstorming" Sitzungen eines Teams durchgeführt. Dabei werden die genannten Kennzahlen gemeinsam festgelegt. Die Bewertung der Kriterien erfolgt dabei von 1 bis 10. Dadurch wird sich bereits ein erster Überblick verschafft und die Fehlerdaten von mehreren Parteien gesammelt. 
 
-Anschließend wird durch die Berechnung und Bewertung der **RPN** ein Fazit gebildet, bei welchen Prozessen es das größte Verbesserungspotential gibt. Es werden Vorschläge gesammelt und es wird evaluiert was genau angepasst werden muss. Durch die Wiederholung dieses Prozesses soll über lange Sicht eine Eliminierung aller Fehler im System erzielt werden.[^6][^7]
+Anschließend wird durch die Berechnung und Bewertung der **RPN** ein Fazit gebildet, bei welchen Prozessen es das größte Verbesserungspotential gibt. Es werden Vorschläge gesammelt und es wird evaluiert was genau angepasst werden muss. Durch die Wiederholung dieses Prozesses soll über lange Sicht eine Eliminierung aller Fehler des System erzielt werden.[^6][^7]
 
 
 
