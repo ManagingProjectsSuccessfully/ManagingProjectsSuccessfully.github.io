@@ -38,9 +38,9 @@ außerdem erhöhen diese Erfolge das Dringlichkeitsgefühl und helfen dabei, Opt
 ## 7. Konsolidieren der erzielten Erfolge und Einleiten weiterer Erfolge
 Inhalt der siebten Stufe ist die Festigung bereits erzielter Erfolge. Darauf aufbauend sind neue Veränderungsideen denk- und gegebenenfalls umsetzbar.
 
-Ebenso ist wichtig, das Ende eines großen Veränderungsprozesses nicht zu früh zu verkünden, da dadurch kritisches Momentum verloren geht, was zu Rückschritten führen kann.[^1][^3]
+Eine vorzeitige Verkündung des Abschlusses eines großen Veränderungsprozesses zu früh zu verkünden, ist nicht empfehlenswert, da dadurch kritisches Momentum verloren geht, was zu Rückschritten führen kann.[^1][^3]
 ## 8. Verankern der neuen Ansätze in der Kultur
-Die finale letzte Stufe eines Veränderungsprozesses ist es, den Veränderungen in der Unternehmenskultur Platz zum Wachsen und Gedeihen zu geben.[^1] Ziel ist es, nicht mit der Vision übereinstimmende Teile der Unternehmenskultur loszulassen und neue Werte zu integrieren. Da die Unternehmenskultur oftmals nur schwer greifbar ist, führen erste erfolgreiche etablierte Veränderungen zu einem Wandel der Unternehmenskultur[^1]. Darüberhinaus ist es wichtig, dass der Großteil der Organisation hinter den Veränderungen steht, da ansonsten nicht mit langfristigem Erfolg zu rechnen ist.[^3]
+Ziel der finalen Stufe eines Veränderungsprozesses ist es, den Veränderungen in der Unternehmenskultur Platz zum Wachsen und Gedeihen zu geben.[^1] Hierbei müssen nicht mit der Vision übereinstimmende Teile der Unternehmenskultur losgelassen und neue Werte integriert werden. Da die Unternehmenskultur oftmals nur schwer greifbar ist, führen erste erfolgreiche etablierte Veränderungen zu einem Wandel der Unternehmenskultur[^1]. Darüberhinaus ist es wichtig, dass der Großteil der Organisation hinter den Veränderungen steht, da ansonsten nicht mit langfristigem Erfolg zu rechnen ist.[^3]
 
 # Siehe auch
 
