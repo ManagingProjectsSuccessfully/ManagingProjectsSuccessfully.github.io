@@ -23,21 +23,21 @@ Im Anforderungsmanagement wurde folgende Anforderungen als besonders wichtig era
 
 # Was wird dafür benötigt?
 
-Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovoltaik, Biomasse und Geothermie.Auch eine Erweiterung der Infrastruktur in Form von Energienetzen, als auch ein ausbau der digitalen Infrastruktur wird benötigt. Damit ein Transport der Energie über das gesammte Bundesgebiet gelingen kann. Zusätzlich sind Investitionen im F&E Bereich zu tätigen, sodass die zugrundeliegenden Technologien,wie Energiespeicherung, verbessert werden können und konkurrenzfähiger sind.
+Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovoltaik, Biomasse und Geothermie.[^3] Auch eine Erweiterung der Infrastruktur in Form von Energienetzen, als auch ein ausbau der digitalen Infrastruktur wird benötigt. Damit ein Transport der Energie über das gesammte Bundesgebiet gelingen kann. Zusätzlich sind Investitionen im F&E Bereich zu tätigen, sodass die zugrundeliegenden Technologien,wie Energiespeicherung, verbessert werden können und konkurrenzfähiger sind.
 
 # Risiken 
 Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) befassen sich Projektleiter mit folgenden Problemen:
 * Hohe Kosten – Aufbau von Anlagen, Netzen und Infrastruktur notwendig
 * Große Stromtrassen oft nicht erwünscht von Anwohnern. Möglichkeit von Demonstrationen und ähnlichem
 * Verfügbarkeit bestimmter Energieträger abhängig von Tages-/Jahreszeit
-* Technologische Herausforderungen
-* Ständige Gesetzesänderungen
-* Abhängigkeit von Netzausbau und Aufbau von Speichermedien
+* Technologische Herausforderungen 
+* Ständige Gesetzesänderungen 
+* Abhängigkeit von Netzausbau und Aufbau von Speichermedien 
 
 **Risikomanagement am Beispiel einer Biogasanlage**:
-* Stetiges Kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^3]
-* Störmeldungen ab bestimmten Parametern [^3]
-* Versicherbarkeit nur bei bestand eines Wartungsvertrags [^3]
+* Stetiges Kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^4]
+* Störmeldungen ab bestimmten Parametern [^4]
+* Versicherbarkeit nur bei bestand eines Wartungsvertrags [^4]
 
 # Finanzierung 
 Höchste Priorität liegt auf langfristiger Absicherung der Geldmittel. Dabei besteht die Möglichkeit zum Abrufen von vielen verschiedenen staatlichen Fördermitteln und Subventionen.
@@ -51,12 +51,12 @@ Dennoch auch negative Nachrichten, da der Netzausbau nur schleppend vorrangeht. 
 ![Derzeitiger Stand](https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_bdcc5b1633.png)[^4]
 
 # Kritik
-Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^5]
-PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Machbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^6]
+Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^6]
+PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Machbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^7]
 
 # Expertise
 Experten raten bei großen [Bauprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Bauprojekte.md)/Infrastrukturprojekten zu klassischen Methoden, da agile Methoden aufgrund der mangelnden Flexibilität der Projekte an neue Rahmenbedingungen ungeeignet sind.
-Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^6]
+Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^7]
 
 # Weiterführende Literatur
 
@@ -78,9 +78,10 @@ Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.c
 
 [^1]: https://www.co2online.de/fileadmin/_processed_/b/7/csm_photovoltaikanlage-und-windkraftwerk_278dc38ea3.jpg
 [^2]: https://www.co2online.de/klima-schuetzen/energiewende/energiewende-definition-ziele-uebersicht/#c150159
-[^3]: Böttcher, J. (2012). Management von Biogas-Projekten: rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
-[^4]: https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_b14d57c256.png
-[^5]: https://www.cleanthinking.de/energiewende-in-deutschland-kurzschluss-im-projektmanagement/
-[^6]: https://de.linkedin.com/pulse/projektmanagement-der-energiewirtschaft-garant-f%C3%BCr-die-schulte
+[^3]: https://utopia.de/ratgeber/energiewende-in-deutschland-probleme-loesungen-und-ziele/
+[^4]: Böttcher, J. (2012). Management von Biogas-Projekten: rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
+[^5]: https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_b14d57c256.png
+[^6]: https://www.cleanthinking.de/energiewende-in-deutschland-kurzschluss-im-projektmanagement/
+[^7]: https://de.linkedin.com/pulse/projektmanagement-der-energiewirtschaft-garant-f%C3%BCr-die-schulte
 
 
