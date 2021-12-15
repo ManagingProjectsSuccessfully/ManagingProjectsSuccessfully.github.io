@@ -13,11 +13,12 @@ Einen großen gemeinsamen Plan gibt es dafür jedoch nicht. Vielmehr befassen si
 Klassisches Projektmanagement setzt auf Vorausplanen und Einhalten einer Strategie.  Somit werden vorher die Zielvorgaben für bestimmte Aspekte definiert und möglichst im Verlauf des Projektes eingehalten. Dazu gehören Zielvorgaben wie [Qualität des Endprodukts](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Qualitaetsmanagement.md), [Ressourceneinsatz](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Ressourcenplanung.md), [Kosten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md) und Termine
 
 # Ziele & Anforderungen
-Ziele:
+**Ziele**:
   *	Wechsel von fossilen Energieträgern zu erneuerbaren
   * Gesteigerte Energieeffizienz
   * Transport der Energie in das ganze Bundesgebiet
-Anforderungen
+  
+**Anforderungen**:
 * Stabile und konstante Bereitstellung erneuerbarer Energie
 * Einhalten rechtlicher Rahmenbedingungen 
 * Lieferung von erneuerbarer Energie in das ganze Bundesgebiet
@@ -40,24 +41,19 @@ Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingPr
 * Ständige Gesetzesänderungen
 * Abhängigkeit von Netzausbau und Aufbau von Speichermedien
 
-Risikomanagement am Beispiel einer Biogasanlage:
+**Risikomanagement am Beispiel einer Biogasanlage**:
 * Stetiges Kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^1]
 * Störmeldungen ab bestimmten Parametern [^1]
 * Versicherbarkeit nur bei bestand eines Wartungsvertrags [^1]
 
 # Finanzierung 
-Höchste Priorität auf langfristiger Absicherung der Geldmittel. Dabei besteht die Möglichkeit zum Abrufen von vielen verschiedenen staatlichen Fördermitteln und Subventionen.
-Viele Konzepte in der die Europäische Investitionsbank als Geldgeber ohne Risikobeteiligung auftritt, dabei agieren Finanzitermediäre/Geschäftsbanken als Mittler.
-
-# Riskmanagement Lösungen am Beispiel Biogasanlagen
-* Stetiges Kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^1]
-* Störmeldungen ab bestimmten Parametern [^1]
-* Versicherbarkeit nur bei Bestand eines Wartungsvertrags [^1]
+Höchste Priorität liegt auf langfristiger Absicherung der Geldmittel. Dabei besteht die Möglichkeit zum Abrufen von vielen verschiedenen staatlichen Fördermitteln und Subventionen.
+Viele Konzepte bauen auf eine Unterstützung durch die Euorpäische Investitionsbank, welche dabei jedoch kein Risiko trägt und durch Finanzintermediäre bzw. Mittler, in Form von Geschäftsbanken, eingebunden wird.
 
 # Derzeitiger Stand
 Der Anteil der Erneuerbaren Energien am deutschen Stromverbrauch lag 2020 bereits bei 45 Prozent.
 Der Anteil der erneuerbaren Energien am gesamten Energieverbrauch – also Strom, Wärme und Verkehr – beträgt mittlerweile fast 20 Prozent.
-Dennoch auch negative Nachrichten, da der Netzausbau nur schleppend vorrangeht 
+Dennoch auch negative Nachrichten, da der Netzausbau nur schleppend vorrangeht. 
 
 ![Derzeitiger Stand](https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_bdcc5b1633.png)
 
