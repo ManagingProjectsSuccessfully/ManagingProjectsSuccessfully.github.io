@@ -13,21 +13,23 @@ Das Modell, welches er in seinem 1996 erschienenen Buch "Leading Change" erstmal
 
 # Die acht Stufen des Modells
 ## 1. Erzeugen eines Dringlichkeitsgefühls
-In der ersten Stufe ist es erforderlich, sowohl den Mitarbeitenden als auch allen Führungskräften die Notwendigkeit der Veränderungen aufgezeigt werden.[^1] Hierbei ist es wichtig, dass die Führungskräfte nicht unterschätzen, wie schwierig es sein kann, Menschen zu motivieren. Gute Führungskräfte schaffen es, ihre Mitarbeitenden auf einer emotionalen Ebene anzusprechen und einfache vorstellbare Botschaften zu kreieren, welche die Mitarbeitenden dazu inspirieren, Großes zu vollbringen.[^3]
+In der ersten Stufe ist es erforderlich, sowohl den Mitarbeitenden als auch allen Führungskräften die Notwendigkeit der Veränderungen aufzuzeigen.[^1] Hierbei ist es wichtig, dass die Führungskräfte nicht unterschätzen, wie schwierig es sein kann, Menschen zu motivieren. Gute Führungskräfte schaffen es, ihre Mitarbeitenden auf einer emotionalen Ebene anzusprechen und einfache vorstellbare Botschaften zu kreieren, welche die Mitarbeitenden dazu inspirieren, Großes zu vollbringen.[^3]
 ## 2. Aufbauen einer Führungskoalition  
 Ziel dieser Stufe ist es, ein Führungsteam zusammenzustellen, welches den gesamten Veränderungsprozess begleitet und anführt.[^1] Für dieses Team ist es wichtig, dass die folgenden vier Prämissen erfüllt werden:
 
 - Es müssen genügend Schlüsselfiguren mit an Bord sein, sodass die verbleibenden Personen den Fortschritt nicht behindern können[^3]
 - Alle relevanten Gesichtspunkte sollten betrachtet werden, sodass informierte Entscheidungen getroffen werden können[^3]
-- Das Team sollte respektiert werden, sodass die Vorschläge und Entscheidungen ernst genommen werden.[^3]
+- Das Team sollte respektiert werden, sodass die Vorschläge und Entscheidungen ernst genommen werden[^3]
 - Es sollten genügend Führungskräfte mitmachen, sodass diese auch wirklich den Veränderungsprozess vorantreiben können[^3]
 
 ## 3. Entwickeln einer Vision
-Das in der vorherigen Stufe gebildete Führungsteam muss nun eine Veränderungsvision erarbeiten. Diese dient dazu, die Mitarbeitenden zu motivieren und Verständnis über die Richtung der Veränderungen zu bilden. Die Vision sollte vorstellbar, realistisch sowie flexibel sein und die Interessen vieler Stakeholder abbilden.[^1]
+Das in der vorherigen Stufe gebildete Führungsteam muss nun eine Veränderungsvision erarbeiten. Diese dient dazu, die Mitarbeitenden zu motivieren und Verständnis über die Richtung der Veränderungen zu bilden. Die Vision soll vorstellbar, realistisch sowie flexibel sein und die Interessen vieler Stakeholder abbilden.[^1]
 ## 4. Kommunizieren der Veränderungsvision
-Im Mittelpunkt dieser Stufe steht die Kommunikation der Vision. Diese sollte einfach bildhaft über verschiedene Kanäle und möglichst oft an die Mitarbeitenden vermittelt werden.[^1] Die meisten Firmen unterkommunizieren ihre Vision um den Faktor 10, so ist zum Beispiel eine einzige E-Mail oder eine Reihe von Ansprachen nicht genug. Die Vision sollte täglich in E-Mails, Besprechungen und Präsentationen kommuniziert werden.[^3]
+Im Mittelpunkt dieser Stufe steht die Kommunikation der Vision. Diese soll einfach bildhaft über verschiedene Kanäle und möglichst oft an die Mitarbeitenden vermittelt werden.[^1] Die meisten Firmen unterkommunizieren ihre Vision um den Faktor 10, so ist zum Beispiel eine einzige E-Mail oder eine Reihe von Ansprachen nicht ausreichend um die Veränderungsvision zu kommunizieren. Die Vision muss täglich in E-Mails, Besprechungen und Präsentationen kommuniziert werden.[^3]
 ## 5. Befähigen der Mitarbeitenden auf breiter Basis
-In der fünften Stufe sollen Hindernisse, welche Mitarbeitenden die Umsetzung der angestrebten Veränderungen erschweren, gelöst werden.[^1] So kann es vonnöten sein bestimmte organisationale Strukturen zu ändern, wenn diese konträr zur Vision sind. Ein Beispiel hierfür wäre bestimmte Informationssysteme im Unternehmen zu ändern, sodass diese erforderliche Maßnahmen unterstützen. Auch sind oftmals nicht von den Veränderungen überzeugte Führungskräfte Hindernisse, die es zu überwinden gilt. Generell gibt es für dieses Problem keine einfache Lösung, ein guter Ansatzpunkt ist jedoch ein ehrlicher Dialog.[^3]
+In der fünften Stufe werden Hindernisse, welche Mitarbeitenden die Umsetzung der angestrebten Veränderungen erschweren, gelöst.[^1] So kann es vonnöten sein bestimmte organisationale Strukturen zu ändern, wenn diese konträr zur Vision sind. Ein Beispiel hierfür ist es bestimmte Informationssysteme im Unternehmen umzustrukturieren, um die Realisierung der Vision zu ermöglichen. Ein weiteres Beispiel sind nicht vollends von den Veränderungen überzeugte Führungskräfte. Hierbei gilt es deren Vorbehalte gegen die Veränderung aus dem Weg zu räumen. Generell gibt es für dieses Problem keine einfache Lösung, ein guter Ansatzpunkt ist jedoch ein ehrlicher Dialog.[^3]
+
+Zusätzlich sind oftmals nicht von den Veränderungen überzeugte Führungskräfte Hindernisse, die es zu überwinden gilt. 
 ## 6. Schaffen schneller Erfolge
 Organisationale Veränderungen sind langwierige Prozesse, wodurch es umso wichtiger wird, kurzfristige Erfolge zu feiern. Diese werden benötigt, um die Glaubwürdigkeit des eingeleiteten Veränderungsprozesses zu sichern, darüberhinaus dienen diese kurzfristigen Erfolge als Belohnung der Bemühungen, etwas zu verändern. Außerdem erhöhen diese Erfolge das Dringlichkeitsgefühl und helfen dabei, Optimismus unter denen zu streuen, die die Veränderung vorantreiben.[^1][^3]
 ## 7. Konsolidieren der erzielten Erfolge und Einleiten weiterer Erfolge
