@@ -30,11 +30,12 @@ Im Mittelpunkt dieser Stufe steht die Kommunikation der Vision. Diese soll einfa
 In der fünften Stufe werden Hindernisse, welche Mitarbeitenden die Umsetzung der angestrebten Veränderungen erschweren, gelöst.[^1] So kann es vonnöten sein bestimmte organisationale Strukturen zu ändern, wenn diese konträr zur Vision sind. Ein Beispiel hierfür ist es bestimmte Informationssysteme im Unternehmen umzustrukturieren, um die Realisierung der Vision zu ermöglichen. Ein weiteres Beispiel sind die Veränderungen nicht mittragenden Führungskräfte, deren Vorbehalte es aus dem Weg zu räumen gilt. 
 Generell existiert für dieses Problem keine einfache Lösung, ein guter Ansatzpunkt ist jedoch ein ehrlicher Dialog.[^3]
 
-nicht vollends von den Veränderungen überzeugte Führungskräfte. Hierbei gilt es deren Vorbehalte gegen die Veränderung aus dem Weg zu räumen.
-
-Zusätzlich sind oftmals nicht von den Veränderungen überzeugte Führungskräfte Hindernisse, die es zu überwinden gilt. 
 ## 6. Schaffen schneller Erfolge
-Organisationale Veränderungen sind langwierige Prozesse, wodurch es umso wichtiger wird, kurzfristige Erfolge zu feiern. Diese werden benötigt, um die Glaubwürdigkeit des eingeleiteten Veränderungsprozesses zu sichern, darüberhinaus dienen diese kurzfristigen Erfolge als Belohnung der Bemühungen, etwas zu verändern. Außerdem erhöhen diese Erfolge das Dringlichkeitsgefühl und helfen dabei, Optimismus unter denen zu streuen, die die Veränderung vorantreiben.[^1][^3]
+Organisationale Veränderungen sind langwierige Prozesse, wodurch es umso dringender wird, kurzfristige Erfolge zu feiern. Anhand der kurzfristigen Erfolge
+wird die Glaubwürdigkeit des eingeleiteten Veränderungsprozesses gesichert. Darüberhinaus dienen diese kurzfristigen Erfolge als Belohnung der Veränderungsbemühungen,
+außerdem erhöhen diese Erfolge das Dringlichkeitsgefühl und helfen dabei, Optimismus unter denjenigen zu streuen, welche die Veränderung vorantreiben.[^1][^3]
+
+um die Glaubwürdigkeit des eingeleiteten Veränderungsprozesses zu sichern, darüberhinaus dienen diese kurzfristigen Erfolge als Belohnung der Bemühungen, etwas zu verändern. 
 ## 7. Konsolidieren der erzielten Erfolge und Einleiten weiterer Erfolge
 Die siebte Stufe beinhaltet, dass bereits erzielte Erfolge gefestigt werden. Darauf aufbauend kann man neue Veränderungsideen kanalisieren und ebenfalls angehen. 
 
