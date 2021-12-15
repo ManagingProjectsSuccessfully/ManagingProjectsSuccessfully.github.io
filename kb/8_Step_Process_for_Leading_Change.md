@@ -27,7 +27,10 @@ Das in der vorherigen Stufe gebildete Führungsteam muss nun eine Veränderungsv
 ## 4. Kommunizieren der Veränderungsvision
 Im Mittelpunkt dieser Stufe steht die Kommunikation der Vision. Diese soll einfach bildhaft über verschiedene Kanäle und möglichst oft an die Mitarbeitenden vermittelt werden.[^1] Die meisten Firmen unterkommunizieren ihre Vision um den Faktor 10, so ist zum Beispiel eine einzige E-Mail oder eine Reihe von Ansprachen nicht ausreichend um die Veränderungsvision zu kommunizieren. Die Vision muss täglich in E-Mails, Besprechungen und Präsentationen kommuniziert werden.[^3]
 ## 5. Befähigen der Mitarbeitenden auf breiter Basis
-In der fünften Stufe werden Hindernisse, welche Mitarbeitenden die Umsetzung der angestrebten Veränderungen erschweren, gelöst.[^1] So kann es vonnöten sein bestimmte organisationale Strukturen zu ändern, wenn diese konträr zur Vision sind. Ein Beispiel hierfür ist es bestimmte Informationssysteme im Unternehmen umzustrukturieren, um die Realisierung der Vision zu ermöglichen. Ein weiteres Beispiel sind nicht vollends von den Veränderungen überzeugte Führungskräfte. Hierbei gilt es deren Vorbehalte gegen die Veränderung aus dem Weg zu räumen. Generell gibt es für dieses Problem keine einfache Lösung, ein guter Ansatzpunkt ist jedoch ein ehrlicher Dialog.[^3]
+In der fünften Stufe werden Hindernisse, welche Mitarbeitenden die Umsetzung der angestrebten Veränderungen erschweren, gelöst.[^1] So kann es vonnöten sein bestimmte organisationale Strukturen zu ändern, wenn diese konträr zur Vision sind. Ein Beispiel hierfür ist es bestimmte Informationssysteme im Unternehmen umzustrukturieren, um die Realisierung der Vision zu ermöglichen. Ein weiteres Beispiel sind die Veränderungen nicht mittragenden Führungskräfte, deren Vorbehalte es aus dem Weg zu räumen gilt. 
+Generell existiert für dieses Problem keine einfache Lösung, ein guter Ansatzpunkt ist jedoch ein ehrlicher Dialog.[^3]
+
+nicht vollends von den Veränderungen überzeugte Führungskräfte. Hierbei gilt es deren Vorbehalte gegen die Veränderung aus dem Weg zu räumen.
 
 Zusätzlich sind oftmals nicht von den Veränderungen überzeugte Führungskräfte Hindernisse, die es zu überwinden gilt. 
 ## 6. Schaffen schneller Erfolge
