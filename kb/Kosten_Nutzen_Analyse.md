@@ -52,7 +52,7 @@ Der detaillierte Ablauf der Analyse unterscheidet sich in manchen Quellen bezüg
 Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet[^1]: 
 
 1.	Aufstellen des Zielsystems: Struktur des Zielsystems muss standfest sein, damit daraus wichtige mess- bzw. schätzbare Indikatoren herausgelesen werden können
-2.	Bestimmung von Indikatoren, mithilfe derer abgeleitet werden kann welche Wirkung die Ausführung einer Alternative hat.
+2.	Bestimmung von Indikatoren, mithilfe derer abgeleitet werden kann welche Wirkung die Ausführung einer Alternative hat
 3.	Analyse der Rahmenbedingungen, ob und welche die Entscheidung verzerren können
 4.	Festlegung von Alternativen, sowie der [Nullalternative]( https://wiki.baw.de/de/index.php/Nullalternative)
 5.	Definition von möglichen Auswirkungen der Alternativen auf die Ziele
