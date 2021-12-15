@@ -1,104 +1,60 @@
 ---
 title: Minimum_Viable_Product
-tags: agil klassisch
+tags: agil Minimum Viable Product
 author: Charles0209
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Minimum_Viable_Product um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das **Minimum Viable Product** ist ein Entwicklungskonzept, das Anwendung im agilen [Projektmanagement](Projektmanagement.md) findet.[^1][^2]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Inhaltsverzeichnis
+1. [Definition](#definition)
+2. [Konzept des MVP](#konzept-des-mvp)
+3. [Relevanz im Projektmanagement](#relevanz-im-agilen-projektmanagement)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Definition
+Ein Minimum Viable Product ist die erste Version eines Produktes beziehungsweise der erste Lösungsansatz eines bestehenden Problems, das auf den Markt gebracht wird. Es muss genügend [Features](https://www.caseking.de/glossar/f/feature) mit ausreichender Qualität enthalten, um eine Kundengruppe erwerben zu können. Im Vordergrund steht das Sammeln von möglichst vielen Informationen und Feedback, wie Kunden das neue Produkt verwenden.[^1][^3]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Konzept des MVP
+Folgende Illustration von Henrik Kniberg zeigt zwei unterschiedliche Herangehensweisen zur Veranschaulichung des Minimum Viable Products. In diesem Beispiel wird davon ausgegangen, dass Menschen möglichst schnell von A nach B gelangen möchten. Die obere Reihe stellt das Missverständnis dar, das im Zusammenhang mit dem MVP oft vorliegt. In vielen [Projekten](Projekt.md) wird der Fehler begangen, eine Lösung zu einem Problem, in diesem Fall das Auto, bereits vorzudefinieren. Wenn die benötigten Ressourcen nicht vorhanden sind, werden die Element nacheinander zusammengefügt und als MVP verkauft, beispielsweis einzelne Bauteile. Dadurch ist in keiner [Iterationsstufe](https://www.fremdwort.de/suchen/bedeutung/iterationsstufe) eine vollständige beziehungsweise funktionierende Lösung gegeben. Dem Kunden wird dementsprechend während dem Entwicklungsprozess kein Nutzen gebracht. In der unteren Reihe wird hauptsächlich auf die Bedürfnisse der Kunden geachtet, und zwar schnell von A nach B zu gelangen. Anhand dessen wird die erste schlichte Lösungsvariante erstellt, die diese Anforderungen erfüllt, den Nutzer aber noch nicht zufriedenstellen muss. Anhand neuen Feedbacks werden die Lösungen weiter überarbeitet und abgestimmt bis der Kunde zufrieden ist.[^8]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+![Darstellung](Minimum_Viable_Product/MVP_Darstellung.png)
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+*Konzept des MVP*[^1]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+# Relevanz im agilen Projektmanagement
+Durch Globalisierung, technischen Fortschritt und wachsender Konkurrenz werden die Produktlebenszyklen immer kürzer, was zu einem enormen Druck auf Unternehmen führt. Um diese Anforderungen zu erfüllen, werden agile Projektmanagement-Methoden und MVPs verwendet.[^7][^6]
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Startups
+Der Begriff MVP wurde 2001 von Frank Robinson in die Produktentwicklung eingeführt. Erst nach Veröffentlichung der Arbeiten von Eric Ries und Steve Black gelang das Konzept des MVP weltweite Bekanntheit und betonte vor allem für das Projektmanagement im Lean [Startup](Projektmanagement_in_Startups.md) die Bedeutsamkeit des Lernens während dem Produktentwicklungsprozess.[^2][^3][^4]
 
+## Bedürfnis des Nutzers im Mittelpunkt
+Eine zentrale Rolle für den Erfolg des MVP spielt die Einbeziehung des Kunden in der frühen Entwicklungsphase. Dadurch ist der Anbieter von Anfang bis zum Ende des Prozesses in der Lage Feedback, beispielsweise durch Erstellung von [User Storys](User_Story.md), einzuholen. Diese Informationen sollen helfen die gewünschten Veränderungen des Anwenders im Endprodukt zu realisieren.[^1][^5] 
 
-# Aspekt 1
+## Zielgerichtetes Management
+Oft konzentrieren sich Produkt- oder Projektmanager so stark auf die Veröffentlichung neuer Funktionen, sodass die Optimierung der wertvollsten Ressource, der Zeit, scheitert. Das MVP soll ermöglichen, mit möglichst wenig Aufwand, einem angemessenen Budget und schonenden Ressourcen, einen bestimmten Wert zu liefern. Wichtig dabei ist die Auswahl der wesentlichen Handlungen, die eine tatsächliche Auswirkung hat.[^3][^6]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Minimum_Viable_Product/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+## Risikominimierung
+Das Minimum Viable Product trägt auch einen Teil im [Risikomanagement](Risikomanagement.md) bei. Häufig besteht die Meinung, dass eine hohe Anzahl an Features das Geschäft verbessern. In der Realität ist dies jedoch nicht der Fall. Stattdessen führt diese Behauptung meist zu unhandlicheren Produkten und einer Erhöhung des Risikos. Das MVP wägt dabei zwischen der Kapitalrendite (ROI) und dem Risiko ab, das vom Aufwand und von der Zeit abhängig ist.[^3] Durch die stetigen Feedbacks von Kunden, kann schon kurz nach der Einführung des Produktes auf dem Markt erkannt werden, ob die Weiterentwicklung sinnvoll ist. Wird das Produkt von den Kunden nicht akzeptiert, so kann frühzeitig ein [Projektabbruch](Projektabbruch.md) eingeleitet werden, um Verluste zu minimieren.[^4]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Minimum_Viable_Product.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Risikomanagement](Risikomanagement.md)
+* [Ressourcenplanung](Ressourcenplanung.md)
+* [Kostenplanung](Kostenplanung.md)
+* [Projektabbruch](Projektabbruch.md)
+* [User_Story](User_Story.md)
+* [Projektmanagement_in_Startups](Projektmanagement_in_Startups.md)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Definition of 'Minimum Viable Product' (theeconomictimes)](https://economictimes.indiatimes.com/definition/minimum-viable-product)
+[^2]: [Minimum Viable Product: A maximally misunderstood idea (slalom)](https://www.slalom.com/insights/mvp-maximally-misunderstood-term)
+[^3]: [Minimum Viable Product (MVP) (productboard)](https://www.productboard.com/glossary/minimum-viable-product-mvp/)
+[^4]: [Definition MVP – Herkunft des Begriffes (digitaleneuordnung)](https://digitaleneuordnung.de/blog/mvp-minimum-viable-product/)
+[^5]: [Minimum Viable Product – ein Blog geht live (Scrum@Sciosoft)](https://scrumatsciosoft.de/minimum-viable-product/)
+[^6]: [Modernes Projektmanagement ohne MVP? Undenkbar! (RatbacherBlock)](https://www.ratbacher.de/blog/modernes-projektmanagement-mvp/)
+[^7]: [Innovationsmanagement s.192 ff.(Rolf FrankenSwetlana Franken)](https://link.springer.com/chapter/10.1007%2F978-3-8349-6724-4_4)
+[^8]: [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable (crisp.)](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 
