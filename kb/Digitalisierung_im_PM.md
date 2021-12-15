@@ -1,104 +1,75 @@
 ---
 title: Digitalisierung_im_PM
-tags: agil klassisch
+tags: klassisch, Digitalisierung
 author: Viktoria1412
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Digitalisierung_im_PM um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Der Begriff „Digitalisierung“ hat an sich keine allgemeingültige Definition und kann abhängig vom jeweiligen Kontext mehrere Bedeutungen haben.[^1] 
+In Bezug auf das Projektmanagement bedeutet Digitalisierung „massive Veränderungen bei den Prozessen, der Kommunikation, der Organisation, dem Ressourcenmanagement und dem Monitoring. Gründe [dafür] sind der vermehrte Einsatz digitaler Werkzeuge sowie die neue Art der Erfassung, des Austausches und der Verarbeitung von Daten.“[^2] 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Grundlegende Aspekte der Digitalisierung im Projektmanagement
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Der wesentlichste Aspekt ist die Nutzung von digitalen Arbeitsgeräten, wie Smartphones und Computer.[^3] 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Ein weiterer zentraler Aspekt ist der Einsatz digitaler Werkzeuge, welche die Arbeit in Projekten erleichtern und effizienter gestalten sollen.  
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+## Datenmanagement 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Die Nutzung von Plattformen, wie Asana, Microsoft Projekt oder Trello, helfen die immer komplexeren Prozesse und Projekte zu bewältigen.[^3] In Verbindung mit zahlreichen Projektmanagementsoftware und Cloud Services können Informationen viel leichter ausgetauscht und miteinander geteilt werden. So wird ein immer aktueller Projektüberblick sowie Status der Aktivitäten ermöglicht.[^4] 
+„Digitale Visualisierungs-Tools erlauben es zudem dem Projektverantwortlichen, unterschiedliche Szenarien visuell darzustellen […] Dadurch werden Projekte für alle Beteiligten transparenter und die organisatorischen Abläufe können einfacher und übersichtlicher gestaltet werden.“[^5] 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+## Kommunikation
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Ein weiterer Bereich, wo digitale Tools zum Einsatz kommen, ist die Kommunikation, die einen wichtigen Erfolgsfaktor im Projektmanagement darstellt.[^4] 
+Die altbewährte E-Mail reicht für eine gelungene Zusammenarbeit nicht mehr aus. Dagegen erlauben Messanger-Dienste sich in Echtzeit zu vernetzten[^6] und Online-Meeting Tools, wie Zoom oder Skype, schaffen „neue flexible Möglichkeiten für alle Beteiligten, Besprechungen effizienter zu organisieren, [...].“ Das hat den Vorteil, dass Meetings häufiger virtuell stattfinden und so räumliche Distanzen leichter überbrückt werden können,[^4] was sich im Rahmen der Covid-19 Krise als essenziell erwiesen hat[^6]                      
+                
+# Potenziale
+
+Mit der Effizienz, die durch einen gezielten Tooleinsatz gewonnen wird, wird die Produktivität der Teams gesteigert und es entsteht ein großes Potenzial darin, „eine Vielzahl von Projekten zeitgleich durchzuführen und trotzdem stets den Überblick zu behalten.“[^7] 
+
+Zudem können durch die bessere Analyse von Daten und Gebrauch von Monitoring-Software Probleme und Risiken schneller identifiziert werden. Demnach können Projektmitglieder schneller reagieren, wodurch ein effizienterer Einsatz von Ressourcen und Budget erreicht und Kosten reduziert werden können.[^4]
+
+Ebenfalls werden viele klassische Aufgaben von Projektmanagern, wie beispielsweise Zeitplanung, automatisiert. Die daraus resultierende Zeitersparnis bedeutet für den Projektmanager, dass er sich auf die wichtigeren Aufgaben im Projekt konzentrieren kann.[^6]  
+
+Ein weiteres Potenzial besteht darin, dass auch externe Partner mit Hilfe von PM- und Kommunikations-Tools viel leichter in Projekte eingebunden werden können.[^5]
+
+# Herausforderungen
+
+Neben den vielen neuen Möglichkeiten, die die Digitalisierung mit sich bringt, gibt es zahlreiche Herausforderungen, die bewältigt werden müssen.[^3]
+
+Das Projektmanagement muss sich „auf mehr Geschwindigkeit und eine höhere Komplexität einstellen.“ Das bedeutet u.a., dass dezentrale und flexible Lösungswege, sowie agile Ansätze sich als wichtig erweisen werden. Aus diesem Grund werden vor allem Unternehmen, die bis jetzt ausschließlich auf klassische Methoden gesetzt haben, vor einer großen Herausforderung stehen.[^2] 
+
+Bei einer großen Anzahl an Projekten kann zudem der Überblick schnell verloren gehen, weswegen die Schlüsselprojekte und Kernaufgaben von den jeweiligen Projekten definiert und Prioritäten gekonnt gesetzt werden müssen.[^7]
+
+Außerdem ändern sich die Anforderungen an die Kompetenzprofile von Projektleitern und allen weiteren Teammitgliedern. Einerseits müssen sie bestimmte fachliche Qualifikationen mitbringen, aber auch Flexibilität und kommunikative Fähigkeiten sind gefragt.[^7] 
+
+Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes und effizientes Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.[^8]
 
 
-# Aspekt 1
+![DIHK](https://github.com/Viktoria1412/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM/grafik-herausforderungen-digitalisierungsumfrage-21-data.png)
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Digitalisierung_im_PM/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+*Unternehmerische Herausforderungen bei der Digitalisierung*
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Digitalisierung_im_PM.md)
+* [Digitale Kommunikation](https://github.com/DaLob98/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitale_Kommunikation.md) 
+* [Projektmanagement 4.0](https://github.com/wernerni/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_4_0.md)
+* [Projektmanagementsoftware]
+* [KI im Projektmanagement](https://github.com/SimaSol/ManagingProjectsSuccessfully.github.io/blob/main/kb/KI_im_PM.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Webinar - Projektmanagement in Zeiten der Digitalisierung](https://www.alasco.de/blog/projektmanagement-in-zeiten-der-digitalisierung-webinar-1/)
+* [Interview mit Projektmanagement-Experten Thomas Brunschede](https://www.it-daily.net/it-management/projekt-personal/22897-digitalisierung-im-projektmanagement)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://www.bigdata-insider.de/was-ist-digitalisierung-a-626489/  
+[^2]: https://www.projektassistenz-blog.de/digitalisierung-neue-heraus-forderungen-fuer-das-projekt-management/
+[^3]: https://360kompakt.de/management/projektmanagement-digitalisierung/
+[^4]: https://www.management-circle.de/blog/digitalisierung-im-projektmanagement-was-sich-im-projektalltag-aendern-wird/
+[^5]: https://executiveacademy.at/de/news/detail/die-kunst-des-digitalen-projektmanagements
+[^6]: https://smallbiztrends.com/2021/06/digital-transformation-project-management.html
+[^7]: https://www.arksolutions.de/themen/digitalisierung-im-projektmanagement/
+[^8]: https://www.dihk.de/de/themen-und-positionen/wirtschaft-digital/digitalisierung/dihk-umfrage-wie-digital-ist-die-deutsche-wirtschaft--35408

@@ -1,104 +1,83 @@
 ---
 title: Rollenkonflikte
-tags: agil klassisch
+tags: klassisch konflikte rollen 
 author: martina-bchtl 
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Rollenkonflikte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Unter dem Begriff Rollenkonflikte werden verschiedene rollenbezogene Konfliktherde im Projektmanagement zusammengefasst.
+Rollenkonflikte entstehen einerseits dadurch, dass man sich in seinen „Rollen“ unsicher ist oder andere Personen unterschiedliche Erwartungen an die einzelnen „Rollen“ haben. 
+Einige Beispiele für die verschiedenen Rollen einer bestimmten Frau wären „Mutter“, „Schwester“, „Abteilungsleitung“ und „Vereinsmitglied“. [^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Im Folgenden soll auf die Arten der Rollenkonflikte genauer eingegangen werden.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Arten von Rollenkonflikten
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Im Alltag eines Projektmanagers ist es nicht ungewöhnlich, dass dieser mehrere ["Rollen"](Rollen_klassisch.md) besitzt. Als Beispiel hierfür nennen wir den Abteilungsleiter 
+Leon, welcher die Rollen „Abteilungsleiter", „Controller“, „Vater", „guter Freund" und noch „Fußballspieler" hat. 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Nun stellt sich jedoch die Frage, welche Rollenkonflikte hierbei möglich sind.
+Um diese Frage zu beantworten, veranschaulichen wir anhand unseres Beispiels die zwei Arten eines Rollenkonfliktes.
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## 1. Der Inter-Rollenkonflikt
+Der Inter-Rollenkonflikt ist die offensichtlichste und verständlichste Art eines Rollenkonfliktes. Hierbei besteht das Problem darin, dass man seine Rollen nicht bewusst 
+voneinander unterscheidet. Zudem fällt es einem meist schwer in der richtigen Rolle auch richtig zu handeln.[^1]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Angewandt auf unser Beispiel des Abteilungsleiters würde er seine vorher genannten Rollen nicht klar trennen, was sich insbesondere im Alltag als schwierig erweist. Folgende
+Situation soll  dies veranschaulichen: Ein guter Freund des Abteilungsleiters, welcher zugleich sein Mitarbeiter ist, bittet ihn um zwei unbezahlte Wochen mehr Urlaub. 
+Leon kennt seine persönliche Situation und weiß daher, wie wichtig seinem Freund dieser Urlaub ist und gewährt ihm dies, obwohl er auch weiß, wie ungünstig sich das auf das 
+Geschäft auswirkt.[^2] 
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Hierbei hat sich Leon in seiner Rolle des Freundes verpflichtet gefühlt, jedoch hätte er eigentlich eher in seiner Rolle des Abteilungsleiters handeln sollen. 
+Daher sollte man sich immer bewusst sein, welche Rolle im Moment die richtige ist und nach welcher das Handeln auszurichten ist.
+
+## 2. Der Intra-Rollenkonflikt
+Eine weitere Art des Rollenkonfliktes ist der Intra-Rollenkonflikt. Dieser ist gekennzeichnet durch die unterschiedlichen Erwartungen, die verschiedene Rollen an einen haben.
+[^1]
+
+In unserem Beispiel steht der Abteilungsleiter Leon in Kontakt mit Kunden, Lieferanten, höheren Führungskräften und seinen Mitarbeitern. All diese Personen haben diverse
+Erwartungen an ihn, sodass es kaum möglich ist, alle zu vollster Zufriedenheit zu erfüllen.[^2]
+
+Nach dem Psychologen Bernd Schmid kann man diese Art jedoch nochmal weiter unterteilen.Hierbei wird nach Professionswelt,Organisationswelt und Privatwelt gegliedert, welche alle 
+zu dem sogenannten „Drei Welten Modell“ zählen.[^3][^4] Über die einzelnen Teile soll im Folgenden kurz ein Überblick gegeben werden. 
+
+### Privatwelt 
+Diese Bezeichnung fasst alle privaten Rollen zusammen, zum Beispiel "Vater", "Freund" und "Vereinsmitglied". Also jegliche Rollen, die nicht in Verbindung mit der Berufung und
+der Arbeitswelt stehen.
+
+### Professionswelt
+In der Professionswelt werden die verschiedenen fachlichen Rollen angenommen, besipielsweise solche wie "Controller", "Einkäufer" oder "Qualitätsprüfer".[^3] 
+
+### Organisationswelt 
+Mit der Organisationswelt werden die hierarchischen Rollen definiert, welche "Führungskraft", "Abteilungsleiter" oder "CFO" sein könnten.[^3]
 
 
-# Aspekt 1
+Außerdem ist bei diesem Modell anzumerken, dass es zudem oft zu Rollenkonflikten zwischen der Organisationswelt und der Professionswelt kommt. Obwohl diese seltener wahrgenommen 
+werden, sollte man diese bewusst berücksichtigen, sodass einige Konflikte vermieden werden. Bei unserem Beispiel kann der Controller Leon, welcher zugleich Abteilunsleiter ist, 
+sich nicht vor seinem Chef als einen Abteilunsgleiter präsentieren und so handeln.
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Zusammenfassend sollte also bei einem Intra-Rollenkonflikt beachtet werden, welche Charakteristika an einer bestimmten Rolle wichtig sind und auf diese sollte die Konzentration 
+gesetzt und das Handeln ausgelegt werden.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+[Das drei Welten Modell]![image](https://github.com/martina-bchtl/ManagingProjectsSuccessfully.github.io/blob/main/kb/Rollenkonflikte/Das%20drei%20Welten%20Modell.png)
 
-![Beispielabbildung](Rollenkonflikte/test-file.jpg)
+# Fazit
 
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Insgesamt ist es wichtig zu verstehen, dass man sich stehts bewusst sein sollte welche Rolle im Einzelfall adäquat wäre und wie nach dieser zu handeln wäre. 
+Zudem sollte feststehen, worauf der Fokus in den einzelnen Rollen gelegt wird und welche Charakteristika hierbei wichtig sind. 
+Bei Beachtung dieser Aspekte ist es möglich viele Rollenkonflikte zu vermeiden und sich stets sowohl in der Professionswelt und der Organisationswelt, als auch in der
+Privatwelt adäquat zu verhalten.  
 
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Rollenkonflikte.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
+* [Konfliktmanagement](Konfliktmanagement.md)
+* [Rollen_klassisch](Rollen_klassisch.md)
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Konfliktarten – Diese 5 sollten Sie kennen](https://www.andyamo.de/konfliktarten/)
+[^2]: [Typische Konfliktarten in Projekten](https://blog.setzwein.com/2009/10/12/typische-konfliktarten-in-projekten/)
+[^3]: [Der unerkannte Rollenkonflikt – Selbsterkenntnis mit dem 3-Welten-Modell](https://www.microtool.de/projektmanagement/der-unerkannte-rollenkonflikt-selbsterkenntnis-mit-dem-3-welten-modell/)
+[^4]: [Das drei Welten Modell](https://www.projektmagazin.de/artikel/klarer-kommunizieren-mit-dem-drei-welten-modell_1092131)
+
 
