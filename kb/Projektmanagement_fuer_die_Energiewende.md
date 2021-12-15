@@ -12,14 +12,12 @@ Um die Energiewende in Deutschland durchführen zu können, müssen mehrere Fach
 Einen großen gemeinsamen Plan gibt es dafür jedoch nicht. Vielmehr befassen sich Nationen und Unternehmen einzeln bzw. in kleineren Verbänden damit. Als gemeinsame Grundlage gelten Anordnungen der Klimakonferenzen und bereits bekannte Technologien, um erneuerbare Energien zu nutzen, wie z.B. Photovoltaik und Solarthermie bei Sonnenenergie.
 Klassisches Projektmanagement setzt auf Vorausplanen und Einhalten einer Strategie.  Somit werden vorher die Zielvorgaben für bestimmte Aspekte definiert und möglichst im Verlauf des Projektes eingehalten. Dazu gehören Zielvorgaben wie [Qualität des Endprodukts](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Qualitaetsmanagement.md), [Ressourceneinsatz](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Ressourcenplanung.md), [Kosten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md) und Termine
 
-# Ziele
-
+# Ziele & Anforderungen
+Ziele:
   *	Wechsel von fossilen Energieträgern zu erneuerbaren
   * Gesteigerte Energieeffizienz
   * Transport der Energie in das ganze Bundesgebiet
-
-# Anforderungen/Qualtität
-
+Anforderungen
 * Stabile und konstante Bereitstellung erneuerbarer Energie
 * Einhalten rechtlicher Rahmenbedingungen 
 * Lieferung von erneuerbarer Energie in das ganze Bundesgebiet
