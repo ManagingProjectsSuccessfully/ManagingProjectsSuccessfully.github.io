@@ -78,8 +78,8 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 # Siehe auch
 
-* [Projektstrukturplan](/kb/Projektstrukturplan.md)
-* [Netzplantechnik](/kb/Netzplantechnik.md)
+* [Video: Critical Path Method (CPM) Explained in 5 Minutes](https://www.youtube.com/watch?v=HbynnR0VN10)
+* [Video: Kritischer Pfad, Gesamtpuffer und freier Puffer: Die Netzplantechnik am Beispiel erklärt](https://www.youtube.com/watch?v=kjjN7MDwgf0)
 
 # Weiterführende Literatur
 
