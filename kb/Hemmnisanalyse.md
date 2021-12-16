@@ -16,7 +16,7 @@ Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projek
 mit welchem mögliche Probleme in der Zukunft entgegengewirkt werden soll.[^1]
 
 Die Hemmnisanalyse wurde durch das Europäisches Forschungsprojekt Relief, sowie der deutschen Forschungsprojekte NaBesI und GeB entwickelt. Die Analyse zielt
-hierbei im engeren Sinne auf Hindernisse bei der umweltfreundlichen Beschaffung ab. Die Hemmnisanalyse beschäftigt sich vorallem mit dem erkennen von relevanten
+hierbei im engeren Sinne auf Hindernisse bei der umweltfreundlichen Beschaffung ab. Die Hemmnisanalyse beschäftigt sich vor allem mit dem erkennen von relevanten
 [Projektmitarbeitern](Projektmitarbeiter.md) und das erkennen und bewerten von Hindernissen. [^2]
 
 
@@ -43,8 +43,8 @@ Entstehung von Hemmnissen:
 
 | Dürfen           | Wollen        | Wissen        | Können        |
 | -------------    | ------------- | ------------- | ------------- |
-| unklare Zieldefinition | persönliche Überzeugnungen | fehlende Qualifikation      | begrenzte Ressourcen    |
-| Barrieren durch Führungskräfte | Abwehrhaltung von Akteueren  | Wissensbarrieren  | Informationsmangel |
+| unklare Zieldefinition | persönliche Überzeugungen | fehlende Qualifikation      | begrenzte Ressourcen    |
+| Barrieren durch Führungskräfte | Abwehrhaltung von Akteuren  | Wissensbarrieren  | Informationsmangel |
 
 
 ## Durchführung einer Hemmnisanalyse
@@ -62,7 +62,7 @@ Der dritte Schritt beinhaltet vor allem die Beurteilung sowie das Herausarbeiten
 unterschiedliche Strategien. [^2]
 
 ## Vergleichbare Methoden zur Bewertung und Messung von Hemmnissen
-Um Hemmnisse erkennen und bewerten zu könnnen gibt es verschiedene Methoden. Bei der Bewertung werden vorallem Skalen benutzt, die später in Zahlen umgewandelt werden und somit quantitav verwertbar werden.
+Um Hemmnisse erkennen und bewerten zu können gibt es verschiedene Methoden. Bei der Bewertung werden vor allem Skalen benutzt, die später in Zahlen umgewandelt werden und somit quantitativ verwertbar werden.
 ![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
 
 *Abbildung: Beispielmethoden zur Messung und Bewertung von Hemmnissen*[^4]
