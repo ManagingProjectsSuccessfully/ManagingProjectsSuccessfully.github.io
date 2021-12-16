@@ -1,12 +1,11 @@
 ---
 title: Dunning_Kruger_Effekt
-tags: klassisch
+tags: agil
 author: Philip290899
-anrechnung: k
+anrechnung: a
 ---
 
-# Die Selbstüberschätzung der Inkompetenten
-## Grundgedanke
+# Die Selbstüberschätzung der Inkompetenten - Grundgedanke
 Im Jahre 1995 ereignete sich in Pittsburgh einer der spektakulärsten Banküberfälle aller Zeiten. Zwei Banken wurden am helllichten Tag von einem nicht maskierten Mann ausgeraubt. Er behauptete, dass er keinesfalls fahrlässig gehandelt habe, schließlich habe er sein Gesicht vor dem Raubüberfall mit Zitronensaft beschmiert, damit ihn die Überwachungskameras nicht sehen konnten. Diese Geschichte gilt als Paradebeispiel für das Phänomen, von dem dieser Beitrag handelt.[^1] Der griechische Philosoph Sokrates sagte einst: "Ich weiß, dass ich nichts weiß". Mit dieser Aussage war er einigen Menschen weit voraus. Der Dunning-Kruger Effekt beleuchtet das Gegenteil dieser Erkenntnis.[^2] 
 ## Erklärung des Phänomens 
 Die [kognitive](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Gender_Bias.md) [Verzerrung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Survivorship_Bias.md) im Selbstverständnis inkompetenter Menschen, das eigene Können und Wissen zu überschätzen wird als Dunning-Kruger-Effekt bezeichnet. Diese Eigenschaft beruht auf der Unfähigkeit, sich selbst objektiv zu beurteilen.
@@ -28,6 +27,10 @@ Die Visualisierung zeigt den Dunning-Kruger-Effekt. Es ist zu erkennen, dass es 
 Es lässt sich auch in der heutigen Zeit ein Zusammenhang mit dem Dunning-Kruger-Effekt beobachten. Seit März 2020 gibt es zahlreiche Hobby-Virologen, die sich mit dem Coronavirus auskennen.[^6] Ein anderes prominentes Beispiel ist der ehemalige US-Präsident Donald Trump. Sätze wie „Das kann nur ich“ oder „Niemand weiß mehr über diese Sache als ich“ belegen das.[^7] 
 ## Kulturelle Unterschiede 
 Die Studien wurden vor allem an Menschen aus Nordamerika durchgeführt. Eine spätere Studie aus dem Jahr 2001 offenbarte, dass sich beispielsweise Japaner aufgrund von kulturellen Unterschieden anders verhalten als Nordamerikaner. Japaner unterschätzen häufiger ihre eigenen Fähigkeiten und sehen Misserfolge als Anlass, sich zu verbessern.[^8] 
+## Probleme im Projektmanagement
+Sollten Chefs oder Mitarbeiter sich und ihre Leistung selbst überschätzen, stellt das für Unternehmen meist ein großes Problem dar. Fehlende Leistungsfähigkeit und schlechte Stimmung im gesamten Team ist schon fast vorprogrammiert. Deshalb sollte bereits bei der Einstellung von Mitarbeitern für ein Projekt auf entsprechende Verhaltensweisen geachtet werden, um die Entwicklungen im Projektmanagement nicht zu gefährden. Wenn sich im Projektteam dennoch sogenannte Besserwisser befinden, sollte man ihnen in einem offenen und ehrlichen Dialog aufzeigen, dass das eingestehen von Fehlern kein Zeichen von Schwäche ist, sondern ein Zeichen von Stärke, denn Fehleinschätzungen sind bis zu einem gewissen Maße normal. Schlussendlich ist es immer besser Leistung zu bringen, als nur über diese zu reden.[^9]
+
+
 ## Siehe auch
 * [Survivorship Bias](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Survivorship_Bias.md)
 * [Gender Bias](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Gender_Bias.md)
@@ -51,6 +54,8 @@ Die Studien wurden vor allem an Menschen aus Nordamerika durchgeführt. Eine sp�
 [^7]: [Dunning-Kruger-Effekt: Die Macht der Selbstüberschätzung - [GEO]](https://www.geo.de/wissen/23942-rtkl-psychologie-dunning-kruger-effekt-weshalb-inkompetente-menschen-oft-das-groesste)
 
 [^8]: [Dunning-Kruger-Effekt: Die Macht der Selbstüberschätzung - [GEO]](https://www.geo.de/wissen/23942-rtkl-psychologie-dunning-kruger-effekt-weshalb-inkompetente-menschen-oft-das-groesste)
+
+[^9]: [Dunning-Kruger-Effekt: Selbstüberschätzung im Berufsleben](https://headforwork.de/news/selbstueberschaetzung-im-berufsleben)
 
 
 
