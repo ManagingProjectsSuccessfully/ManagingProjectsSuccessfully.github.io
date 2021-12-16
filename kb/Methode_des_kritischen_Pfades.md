@@ -53,10 +53,12 @@ Es ergeben sich schließlich zwei zur Berechnung anwendbare Formeln, E steht dab
    
 **5.	Identifizierung des kritischen Pfades**
 
-Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden oder es werden die frühesten Anfangs- und Endzeitpunkte, sowie die spätesten Anfangs- und           Endzeitpunkt jedes Vorgangs festgestellt. Als Resultat ergibt sich ein oder auch mehrere kritische Pfad. Mit jedem weiteren steigt das Risiko für ungeplante             Verzögerungen im Zeitplan.
+Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden oder es werden die frühesten Anfangs- und Endzeitpunkte, sowie die spätesten Anfangs- und           Endzeitpunkt jedes Vorgangs festgestellt. Als Resultat ergibt sich ein oder auch mehrere kritische Pfad. Mit jedem weiteren steigt das Risiko für ungeplante             Verzögerungen im Zeitplan. 
 
 ![Netzplan](/kb/Methode_des_kritischen_Pfades/IdentifyCriticalPath.png)
 *Identifizierung des kritischen Pfades* [^3]
+
+Als weitere Methode zur Identifizierung des kritischen Pfades kann außerdem ein [Gantt-Diagramm](/kb/Gantt_Diagramme.md) in [Microsoft Project](/kb/Microsoft_Project_PM_Tool.md) generiert werden.
     
 **6.	Aktualisieren des Netzplans**
     
