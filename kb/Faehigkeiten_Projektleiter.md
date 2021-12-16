@@ -73,7 +73,7 @@ Projektleiter sind Führungskräfte. Ein Projektleiter führt ein Projektteam. E
 * Konfliktfähigkeit: [konfliktmanagement](Konfliktmanagement.md), frühzeitig Erkennung von Konflikt, Umgang mit Widerständen, konstruktive Verhaltensweisen in Konfliktsituationen
 * Verhandlungshärte und -geschick
 
-![Projektleiter_Fähigkeiten](Faehigkeiten_Projektleiter/Projektleiter_Führungskraft.png)
+![Projektleiter_Fähigkeiten](Faehigkeiten_Projektleiter/Projektleiter_Fuehrungskraft.png)
 
 *Projektleiter_Fähigkeiten*[^3]
 
