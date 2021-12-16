@@ -18,7 +18,7 @@ Bei der [Projektplanung](Projektplanung.md) wird der Manager versuchen, bestimmt
  
  <img src="https://assets.asana.biz/m/7f73e0ff8c2ca393/original/inline-project-planning-resource-leveling-2-2x.png" width="500" height="500">
  
-*Techniken des Ressourcenabgleichs*
+*Techniken des Ressourcenabgleichs ([Quelle](https://assets.asana.biz/m/7f73e0ff8c2ca393/original/inline-project-planning-resource-leveling-2-2x.png))*
 
 ## Critical-Path-Methode (CPM)
 Die Methode des kritischen Pfades (CPM) ist eine Technik, mit der die für den Projektabschluss notwendigen Aufgaben identifiziert und die Planungsflexibilität bestimmet werden können. Ein kritischer Pfad im Projektmanagement ist die längste Abfolge von Aktivitäten, die rechtzeitig abgeschlossen werden müssen, damit das gesamte Projekt fertiggestellt werden kann.
