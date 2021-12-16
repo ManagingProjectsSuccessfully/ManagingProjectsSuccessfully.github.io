@@ -5,100 +5,85 @@ author: MariaKaisa
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Projekt_Kick_Off um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Definition
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Der Begriff Project Kick Off ,oder auch Kick- off Veranstaltung/ Meeting genannt, stammt aus dem Projektmanagement und ist ein Treffen des Projektteams zur Beginn eines Projekts oder einer Projektphase. Dabei liegt es zeitlich nach der Projektplanung und vor dem eigentlichen Projektstart. Hierbei wird das Projekt vorgestellt, Ziele festgelegt und Teammitglieder motiviert.  
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+ 
+ 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Inhaltsverzeichnis 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+1.[Ziele des Project Kick Off](#ziele-des-project-kick-pff) 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+2.[Vorbereitung des Meeting](vorbereitung-des-meeting) 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+3.[Ablauf des Kick Off Meetings](ablauf-des-kick-off-meetings)
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+4.[Fehler eines Meetings](fehler-eines-meetings)
 
+5.[Zusammenfassung](zusammenfassung)
 
-# Aspekt 1
+6.[Quellen](quellen) 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+ 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Ziele des Project Kick Off 
 
-![Beispielabbildung](Projekt_Kick_Off/test-file.jpg)
+ 
+Das Kick Off dient dazu, dass Klarheit bezüglich der Projektziele geschaffen wird und ist dabei oftmals der erste Berührungspunkt zwischen Kunden oder Sponsoren und des Projektteams.   
+Dabei bietet das Kick Off eine Gelegenheit das Team auf den selben Wissensstand zu bringen und über den Umfang des Projekts aufzuklären, sich auf die anstehenden Aufgaben einzustimmen und über die Arbeitsverteilung zu entscheiden. Außerdem werden Projektziele und auch Kontrolltermine festgelegt, sodass ein Zeitplan erstellt werden kann, damit Verzögerungen des Projekts vermieden werden können.[^1]
+Somit wird durch das Kick Off Meeting inhaltliche, personelle und organisatorische Rahmenbedingungen des Projekts geklärt, sodass das gesamte Projekt aufgrund des organisierten Starts auf den richtigen Weg geleitet wird.  
+Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu  
+anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.  [^2]
 
-*lustiges Testbild*
+ 
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+# Vorbereitung des Meeting  
 
 
-# Siehe auch
+Es ist wichtig, dass alle relevanten Personen anwesend sind, somit ist es sehr sinnvoll die Teilnehmer fest zu legen und eine Liste zu erstellen. Insbesondere soll der Zeitrahmen für die Dauer des Kick offs sinnvoll geplant sein, damit noch genügend Zeitpuffer herrscht um auf Fragen am Ende des Meetings einzugehen.  Zudem ist es von Vorteil einen Protokollschreiben auszuwählen, damit Ergebnisse direkt festgehalten werden können. Auch die Reservierung eines Meeting- Raumes wie auch die Erstellung und Aussendung der Agenda mindestens einen Tag vor dem Meeting an alle Teilnehmer ist von großer Bedeutung, damit diese sich richtig vorbereiten können.  .[^2] [^3]
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projekt_Kick_Off.md)
+# Ablauf des Kick Off Meetings  
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+Der Ablauf des Meetings ist stark von den Faktoren abhängig wie dem Erfahrungshintergrund der Mitarbeiter, der Projekt- und Unternehmensgröße und auch dem Einsatzort. Üblicherweise lässt sich das Meeting folgendermaßen zusammenfassen:  
 
-# Quellen
+1. Begrüßung durch die Projektleiter und Vorstellungsrunde  
+2. Vermittlung der Projektziele und Erwartungen  
+3. Erklären der Vorteile durch das Projekt  
+4. Offenlegung des Projektplans  
+5. Klärung der Rollen, Aufgaben, Verantwortlichkeiten und Zuständigkeiten  
+6. Konkretisierung der Methodenwahl  
+7. Kommunikationswege im Projektverlauf  
+8. Motivation der Projektbeteiligten  
+9. Feedbackrunde  
+[^2]
+![bild](Projekt_Kick_Off/kick-off-meeting.jpg
+) [^4]
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+ 
+
+# Fehler eines Meetings  
+
+Folgende Punkte sollen vermieden werden, da diese die Erwartungen des Projektteams in eine falsche Richtung lenken könne und somit den Erfolg des Projekts beeinträchtigen kann.  
+Es ist wichtig, dass das Meeting nicht in Form eines Vortrags aufgebaut ist und einseitige Kommunikation nicht überwiegt. Alle Projektbeteiligten sollten ins Gespräch eingebunden sein. Dabei sollten strittige Punkte vorab geklärt worden sein, damit keine Negativdiskussion entsteht, da diese das Projekt in Gefahr führen kann.  
+Zudem können diese Punkte auch die Motivation der Mitarbeiter minimieren, welche folglich Einfluss auf den Erfolg des Projekts hat.  
+
+# Zusammenfassung  
+
+Das Kick- Off- Meeting ist ein Grundstein für eine erfolgreiche Projetkabwicklung und schafft Klarheit wie auch Transparenz. Zudem bringt das Kick-Off- Meeting alle Projektbeteiligten auf den gleichen Informationsstand und schafft ein gewisses Bewusstsein über die strategische Stoßrichtung des Projektes. Als weiteres erhalten die Beteiligten einen ersten Überblick über inhaltlichen und terminlichen Projektverlauf.  [^3]
+
+
+
+# Quellen 
+
+
+[^1] :  
+https://www.atlassian.com/work-management/project-management/project-kickoff 
+[^2] : (https://karrierebibel.de/kick-off-meeting/) 
+[^3] : (https://dieprojektmanager.com/checkliste-kick-off-meeting-projekte/) 
+[^4] : https://www.inloox.de/projektmanagement-glossar/kick-off-veranstaltung/
+
+
 
