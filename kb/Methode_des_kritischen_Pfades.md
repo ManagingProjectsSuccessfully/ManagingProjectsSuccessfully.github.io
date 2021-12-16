@@ -33,7 +33,7 @@ Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein [Netzplan](/kb/Ne
 
 **4.	Abschätzung des Zeitbedarfs aller Aufgaben**
 
-Im nächsten Schritt wird der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die Drei-Zeiten-Methode sein, wobei der Zeitbedarf mit         folgenden Werten geschätzt wird:
+Im nächsten Schritt wird der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die [Drei-Zeiten-Methode](kb/Drei_Zeiten_Methode.md) sein, wobei der Zeitbedarf mit         folgenden Werten geschätzt wird:
 
 
    *a = Minimalschätzung (Best Case)*
