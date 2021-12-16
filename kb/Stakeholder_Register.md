@@ -91,6 +91,10 @@ Aufgrund der Erstellung des Registers im frühen Projektverlauf, werden durch da
 * [Stakeholdermanagement](Stakeholdermanagement.md)
 * [Stakeholderanalyse](Stakeholderanalyse.md)
 
+# Weiterführende Literatur
+
+* [Snyder Dionisio, C. (2017). A Project Manager's Book of Forms: A Companion to the PMBOK Guide. Vereinigtes Königreich: Wiley.](https://www.google.de/books/edition/A_Project_Manager_s_Book_of_Forms/wa82DwAAQBAJ?hl=de&gbpv=1&dq=%22Stakeholder+register%22+-wikipedia&pg=PA12&printsec=frontcover)
+
 # Quellen
 
 [^1]: [What is a Stakeholder Register and how to create a Stakeholder Register? (remote.tools)](https://www.remote.tools/remote-work/stakeholder-register#what-is-stakeholder-register)  
