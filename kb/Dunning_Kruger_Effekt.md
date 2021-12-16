@@ -32,18 +32,18 @@ Sollten [Projektleiter](Projektleiter.md) oder [Mitarbeiter](Projektmitarbeiter.
 
 
 # Siehe auch
-* [Survivorship Bias](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Survivorship_Bias.md)
-* [Gender Bias](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Gender_Bias.md)
-* [Fähigkeiten Projektleiter](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Faehigkeiten_Projektleiter.md)
-* [Feedback-Kultur](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Feedback_Kultur.md)
-* [Feedback-Methoden](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Feedback_Methoden.md)
-* [Feedbackgespräche](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Feedbackgespr%C3%A4che.md)
-* [Umgang mit Kritik](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umgang_mit_Kritik.md)
-* [Projektleiter](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md)
-* [Projektmitarbeiter](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md)
-* [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
-* [Aktuelle Entwicklungen im Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md)
-* [Kommunikation Projektbeteiligte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kommunikation_Projektbeteiligte.md)
+* [Survivorship Bias](Survivorship_Bias.md)
+* [Gender Bias](Gender_Bias.md)
+* [Fähigkeiten Projektleiter](Faehigkeiten_Projektleiter.md)
+* [Feedback-Kultur](Feedback_Kultur.md)
+* [Feedback-Methoden](Feedback_Methoden.md)
+* [Feedbackgespräche](Feedbackgespräche.md)
+* [Umgang mit Kritik](Umgang_mit_Kritik.md)
+* [Projektleiter](Projektleiter.md)
+* [Projektmitarbeiter](Projektmitarbeiter.md)
+* [Projekt](Projekt.md)
+* [Aktuelle Entwicklungen im Projektmanagement](Aktuelle_Entwicklungen_im_PM.md)
+* [Kommunikation Projektbeteiligte](Kommunikation_Projektbeteiligte.md)
 # Quellen
 [^1]: [Dunning-Kruger-Effekt: Warum sich Halbwissende für besonders klug halten | National Geographic](https://www.nationalgeographic.de/wissenschaft/2020/06/dunning-kruger-effekt-warum-sich-halbwissende-fuer-besonders-klug-halten)
 
