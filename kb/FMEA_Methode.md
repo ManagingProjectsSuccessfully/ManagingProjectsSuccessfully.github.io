@@ -81,3 +81,4 @@ Generell kann eine FMEA auch in nicht technischen Bereichen angewandt werden. Si
 [^7]: https://www.intqua.de/fehlermoeglichkeits-und-einflussanalyse-fmea/
 
 
+
