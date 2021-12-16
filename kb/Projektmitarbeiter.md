@@ -6,7 +6,7 @@ anrechnung:  klassich
 ---
 Zu Anfang, eine kurze Definition  des Begriff Projektmitarbeiter, um einen Überblick über das Thema zu erhalten.
 
-"Projektmitarbeiter sind Rollen im [Projektmanagement](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), die, koordiniert durch der [Projektleiter](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md), Aufgaben im [Projekt](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md ) realisiren."[^1] 
+"Projektmitarbeiter sind Rollen im [Projektmanagement](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), die, koordiniert durch der [Projektleiter](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md), Aufgaben im [Projekt](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md ) realisieren."[^1] 
 
 
 
@@ -40,7 +40,7 @@ Dabei unterscheidet man das Projektkernteam, welches aus dem Projektleiter und d
 Die Arbeitsgruppe besteht aus dem Kernteam und den weiteren Personen, die nur für bestimmte Aufgaben oder Phase im Projekt beauftragt werden.
 Hier kann man zwischen den permanenten Mitarbeitern, die ständig im Projekt arbeiten und zum Projektteam gehören, und den temporären Mitarbeitern, die als
 Fachspezialisten gelten, und nicht für die gesamte [Dauer](https://www.inloox.de/projektmanagement-glossar/dauer/) des Projekts beteiligt werden, unterscheiden.
-Die Mitglieder des Kerteams können auch bestimmen, wer als Sprecher gegenüber Vorgestzter des Projekts gelten wird.[^5]
+Die Mitglieder des Kernteams können auch bestimmen, wer als Sprecher gegenüber Vorgesetzter des Projekts gelten wird.[^5]
 
 
 
@@ -72,7 +72,7 @@ Die Mitglieder des Kerteams können auch bestimmen, wer als Sprecher gegenüber 
 # Durschnittseinkommen des Projektmitarbeiters
 
 In Deutschland kann man ein durchschnittliches Gehalt von 55.368 Euro pro Jahr erwarten.
-Das Anfangsgehaltt liegt bei 30.081 Euro jährlich und die Gehaltsobergrenze liegt bei 80.448 Euro pro Jahr.[^7]
+Das Anfangsgehalt liegt bei 30.081 Euro jährlich und die Gehaltsobergrenze liegt bei 80.448 Euro pro Jahr.[^7]
 
 
 
