@@ -5,7 +5,7 @@ author: ga88maby
 anrechnung: a
 ---
 
-Der Begriff Customer_Experience, kurz CX, ist nicht anders als eine Marketingstrategie von Firmen in die meisten Größen und Abteilungen, es wird immer mehr wichtiges Prinzip bei Unternehmen, die sich im Markt etablieren wollen. Dabei versucht die Unternehmen einen positiven Eindruck bei den Kunden zu schaffen, somit den Kunden stärker an die Firma zu binden und damit Wettbewerbsvorteile zu bekommen, sodass ein Kunde mit der Zeit eine positive emotionale Beziehung zu dem Unternehmen hat. 
+Dies ist ein Marketingbegriff. Customer Experience (CX) ist die Summe der Erfahrungen des Käufers mit einem Unternehmen oder auch einer Marke. Die Erfahrungen ergeben sich aus der positiven oder negativen Bewertung, die der Kunde an den verschiedenen Kontaktpunkten (Touchpoints) während der Customer Journey sammelt. Eine erfolgreiche Customer Experience zeichnet sich dadurch aus, dass der Kunde eine Wiederholung anstrebt und das Unternehmen weiterempfehlt
 
 
 # Warum ist Customer_Experience unverzichtbar & essenziell:
@@ -32,7 +32,7 @@ Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme dire
 * Die Kundenerlebnisse müssen vom Unternehmen optimiert sein.
 * Feedback muss effizient ausgewertet und bearbeitet werden. 
 
-## Ziele Langfrisitg?
+# Langfristige Ziele?
 * Langfristig entsteht den Effekt der Markentreue und Loyalität. Das stehen die Unternehmen vor die Probleme, durch Kommunikation mit den Kunden oder auch potenziellen Käufern deren Erwartungen und Wünsche in Erfahrung zu bringen.
 * Die künstliche Intelligenz wird Customer Experience Management in die Zukunft durchführen, mit der großen Hilfe das maschinelle Lernen wird es erleichtert. Information über die Kunden werden gesammelt, somit lernt Kl mit zunehmenden Angaben, wie sie die CX für jeden Kunden verbessern kann.[^2]
 
