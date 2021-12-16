@@ -1,6 +1,6 @@
 ---
 title: Stakeholder_Register
-tags: agil klassisch stakeholder register
+tags: klassisch
 author: 21Nila
 anrechnung: k
 ---
