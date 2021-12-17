@@ -62,6 +62,7 @@ unterschiedliche Strategien. [^2]
 
 ## Vergleichbare Methoden zur Bewertung und Messung von Hemmnissen
 Um Hemmnisse erkennen und bewerten zu können gibt es verschiedene [Methoden](Methoden.md). Bei der Bewertung werden vor allem Skalen benutzt, die später in Zahlen umgewandelt werden und somit quantitativ verwertbar werden.
+Wie in der Beispielabbildung dargestellt, werden in der 
 ![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
 
 *Abbildung: Beispielmethoden zur Messung und Bewertung von Hemmnissen*[^4]
@@ -69,7 +70,7 @@ Um Hemmnisse erkennen und bewerten zu können gibt es verschiedene [Methoden](Me
 
 ## Fazit
 Die vollumfängliche Analyse der Hemmnisse stellt eine Basis für eine kontinuierliche Verbesserung dar. Hemmnisse können so frühzeitig im Projektmanagement
-erkannt werden und mithilfe von Strategien und Maßnahmen überwältigt werden.
+erkannt werden und mithilfe von Strategien und Maßnahmen überwältigt werden und somit zum [Projektabschluss](Projektabschluss.md) gebracht werden.
 
 
 
