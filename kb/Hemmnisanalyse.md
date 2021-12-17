@@ -62,7 +62,13 @@ unterschiedliche Strategien. [^2]
 
 ## Vergleichbare Methoden zur Bewertung und Messung von Hemmnissen
 Um Hemmnisse erkennen und bewerten zu können gibt es verschiedene [Methoden](Methoden.md).
-Wie in der Beispielabbildung dargestellt, werden in der Praxis der Hemmnisanalyse die Dresdner Hemmnisanalyse Fragebögen zur Verfügung gestellt, um anhand von Skalen mögliche Hindernisse bewerten zu können. Danach werden diese Hemmnisse nach Relevanz geordnet und es werden Strategien zur Vermeidung ausgearbeitet.
+### Praxisbeispiel
+Wie in der Beispielabbildung dargestellt, werden Fragebögen erstellt, um anhand von Skalen mögliche Hindernisse zu bewerten. Bei der Analyse des öffentlichen
+Beschaffungswesens werden zum Beispiel mögliche Hindernisse wie zusätzliche Arbeit, höhrere Kosten und Unsicherheit bzgl. rechtlicher Regelungen aufgelistet.
+Diese Hindernisse werden nun in einem Fragebogen dargestellt und mit einer Skala versehen. Nun können Projektmitarbeiter von "stimme zu" bis "stimme nicht zu"
+bewerten. Diese Bewertung wird dann nach Relevanz geordnet und somit sind die wichtigsten Hindernisse sofort zu sehen. Im letzten Schritt der [Projektplanung]
+(Projektplanung.md) werden Strategien zur Vermeidung dieser Hemmnisse entwickelt. Beispielsweise kann eine Rechtsberatung engagiert werden, um rechtliche Unsicherheiten zu klären.[^3]
+
 ![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
 
 *Abbildung: Beispielmethoden zur Messung und Bewertung von Hemmnissen*[^4]
