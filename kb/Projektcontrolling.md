@@ -16,7 +16,7 @@ Häufig wird (Projekt-)Controlling fälschlicherweise mit Kontrolle gleichgesetz
 
 Dieser beschreibt einen sich wiederholenden Zyklus, dessen Häufigkeit sich nach dem [Projektumfang](Projektumfang.md) richten sollte. Dabei kann sowohl das gesamte [Projekt](Projekt.md), als auch nur einzelne [Phasen](Projektphasen_klassisch.md) betrachtet werden.[^3]
 
-# Teilbereiche des Projektcontrollings[^6] 
+# Teilbereiche des Projektcontrollings 
 Das Projektcontrolling lässt sich in die drei fundamentalen Teilbereiche Kalkulation, Leistung und Kontrolle untergliedern. Diese dienen Unternehmen als Basis zur Planung, Durchführung und Erfolgsbeurteilung der Projekte. 
 
 ## Projektkalkulation
@@ -26,7 +26,7 @@ In der Vorbereitungs- und Planungsphase erfolgt die Kalkulation des Projektes. I
 Zu Beginn werden qualitative Merkmale des Projekts, die Projektleistung, determiniert. Das Projektcontrolling hat die Aufgabe, diese zu kontrollieren, um bei potentiellen Abweichungen frühzeitig Gegenmaßnahmen einzuleiten.
 
 ## Projektkontrolle
-Soll und Ist-Kosten des Projekts werden über den gesamten [Projektlebenszyklus](Projekt_Lebenszyklus.md) im Blick behalten, um Kostenabweichungen zu identifizieren. Eine reine Gegenüberstellung der Kosten liefert nur bedingt einen Mehrwert. Diese Vorgehensweise berücksichtigt nicht, ob das Projekt durch Beschleunigungskosten vorzeitig fertiggestellt werden kann. Eine Termin-Kosten-Kontrolle hingegen, verschafft einen genaueren Einblick in die Gesamtkosten. 
+Soll und Ist-Kosten des Projekts werden über den gesamten [Projektlebenszyklus](Projekt_Lebenszyklus.md) im Blick behalten, um Kostenabweichungen zu identifizieren. Eine reine Gegenüberstellung der Kosten liefert nur bedingt einen Mehrwert. Diese Vorgehensweise berücksichtigt nicht, ob das Projekt durch Beschleunigungskosten vorzeitig fertiggestellt werden kann. Eine Termin-Kosten-Kontrolle hingegen, verschafft einen genaueren Einblick in die Gesamtkosten.[^6] 
 
 # Kennzahlen und Methoden
 ## Kennzahlen
