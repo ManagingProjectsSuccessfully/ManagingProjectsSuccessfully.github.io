@@ -14,7 +14,7 @@ Eine Förderung erfolgt meist durch Drittmittel (Forschungsfonds, öffentliche o
 ## Typische Kriterien
 * Bereiche: Medizin, Naturwissenschaft, Technik 
 * Unklare Anforderungen bei (neuen) Forschungsgebieten
-* Flexibilität in der Zieledefinition
+* Flexibilität in der [Zieledefinition](Ziel_Planung.md)
 * Komplexe, neuartige Aufgabenstellungen (Erforderlichkeit von Erfahrung v.a. durch Institutionen) 
 * Begrenzte Ressourcen und Zeit
 * Hohes Risiko des Scheiterns
@@ -50,7 +50,7 @@ Die unten aufgeführte Tabelle zeigt mögliche Kategorien und deren Einordnung v
 | Klar definierte Projektziele | Ja | **Nein**  |
 | Klar definierter Projektumfang | Ja | **Nein** |
 | Viele zu erwartende Änderungen | Nein | **Ja**  |
-| Wichtigkeit der Dokumentation | **Ja**  | Nein |
+| Wichtigkeit der [Dokumentation](Projektdokumentation.md) | **Ja**  | Nein |
 | Selbstorganisation der Projektteams | Nein  | **Ja** |
 | Klar definierte Kosten | **Ja**  | Nein |
 | Klar definierte Projektdauer | **Ja**  | Nein | 
@@ -62,9 +62,9 @@ Eine mögliche Lösung stellt hierbei das [Microsoft Project](Microsoft_Project_
 
 Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 1. zentrales Speichern und Auswerten, standardisierte Dokumentablage durch SharePoint
-2. [Top-down-Planning](Top_Down_Planning.md), [Bottom-up-Planning](Bottom_Up_Planning.md), Meilensteinübersicht, Projektampeln (Erweiterung Multiprojekt)
+2. [Top-down-Planning](Top_Down_Planning.md), [Bottom-up-Planning](Bottom_Up_Planning.md), [Meilensteinübersicht](Meilensteine.md), Projektampeln (Erweiterung Multiprojekt)
 3. Verknüpfung zum eigenen/firmenübergreifenden Termin-/Projektplan (Erweiterung Softlinks)
-4. detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und Controllern (Erweiterung ERP-System) [^4]
+4. detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und [Controllern](Projektcontrolling.md) (Erweiterung ERP-System) [^4]
 
 
 # Aktuelle Forschungsprojekte
