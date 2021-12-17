@@ -12,12 +12,12 @@ Dies ist ein Marketingbegriff. Customer Experience (CX) ist die Summe der Erfahr
 
 Customer_Experience ist so bedeutungsvoll, weil sie enormes Einfluss auf das Geschäftsergebnis vom Unternehmen hat. Deswegen ist es für das Unternehmen eine große Kampfansage, in einem wettbewerbsintensiven Geschäftsumfeld Käufern zu gewinnen. 
 Es ist eine echte Herausforderung, in einem wettbewerbsintensiven Geschäftsumfeld Kunden zu gewinnen und zu binden. Unternehmen, die den Aspekt einer nahtlosen und effektiven Customer Experience ignorieren, ziehen den Kürzeren gegenüber Firmen, die wissen, dass der Kunde im Mittelpunkt ihres Handelns steht.[^1].
-Im Laufe der Zeit gewinnt CX immer mehr an Bedeutung, wie eine Studie des Beratungsunternehmens Walker belegt, dass CX ab 2020 zum wichtigsten Markenkriterium geworden ist, und damit wichtiger als Preise oder auch Produkte.
+Im Laufe der Zeit gewinnt CX immer mehr an Bedeutung, wie eine Studie des Beratungsunternehmens Walker belegt, dass CX ab 2020 zum wichtigsten Markenkriterium geworden ist, und damit wichtiger als Preise oder auch Produkte.[^2]
 
  
 ![Beispielabbildung 1](Customer_Experience/Customer_ExperienceCX.PNG)
 
-# Customer_Experience richtig umsetzen bei produktiven Unternehmen:
+# Wie wird CX von erfolgreichen Unternehmen umgesetzt?
 Die Unternehmen verfolgen mehrere Methoden, um Customer_Experience zu verwirklichen. Das Marketing besteht auf drei unverzichtbaren Bestandteilen, und zwar:  Einfachheit, Effektivität und Empathie beziehungsweise Emotion, diese Komponenten machen die Customer_Experience im Wesentlichen aus.
 
 Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme direkt vom Unternehmen gelöst werden und sie lieber ohne Zeitverzögerung zu den Produkten bzw. Dienstleistung für den Kunden zu leiten. Nachdem das Unternehmen diesen Grundlagen erfüllt, ist es dann möglich den Kunden mit extra zusätzlichen Leistungen z.B. Sonderrabatte oder andere Vergünstigung zu begeistern und dementsprechend sich an das Unternehmen stärkere binden.
@@ -54,7 +54,9 @@ Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme dire
 # Quellen
 
 [^1]: https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
-[^2]: https://www.netigate.net/de/articles/kundenzufriedenheit/alles-was-sie-ueber-customer-experience-cx-wissen-muessen/#h-die-vorteile-von-customer-experience-cx
+
+[^2]: https://blog.usu.com/de-de/die-perfekte-customer-experience-schaffen-2020
+
 [^3]: https://de.wikipedia.org/wiki/Customer-Experience-Management
 *  https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
 *  https://www.sem-deutschland.de/online-marketing-glossar/customer-experience/#Was_bedeutet_Customer_Experience
