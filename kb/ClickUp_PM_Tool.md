@@ -1,11 +1,11 @@
 ---
 title: ClickUp_PM_Tool
-tags: agil & klassisch
+tags: agil, klassisch, Projektmanagement, Tool, Mitarbeiter, Kollaboration, Teammanagment, Aufgabenteilung
 author: urimi0
 anrechnung: k 
 ---
 
-ClickUp[^1] ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für allerlei Art und Größe für Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von [Projekten](Projekt.md) dienen werden auf einer Plattform zusammengefügt[^2]. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.
+ClickUp[^1] ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für sämtliche Arten und Größen von Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von [Projekten](Projekt.md) dienen werden auf einer Plattform zusammengefügt[^2]. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.
 
 ![ClickUp_Logo](ClickUp_PM_Tool/logo.png)
 
@@ -56,12 +56,12 @@ Funktionen. Hier kann wieder eingestellt werden wer Zugriff haben darf auf das e
 
 ## Docs
 
-Docs gibt die Möglichkeit allerlei Dokumente mit Teammitgliedern teilen zu können.
+Docs gibt die Möglichkeit unterschiedlichste Dokumente mit Teammitgliedern teilen zu können.
 
 
 # Preisliste
 
-* ClickUp ist kostenlos nutzbar. Es gibt aber auch die Möglichkeit bei Zahlung verschieden Features freizuschalten.
+* ClickUp ist kostenlos nutzbar. Möglichkeit, bei Zahlung verschiedene Features freizuschalten.
 * Bei der folgenden Tabelle wurden die monatlichen Preise betrachtet. Bei Abschluss von jährlichen Abonnements sinken die Preise monatlich betrachtet.
 
 *(Tabelle gekürzt, bei ClickUp[^1] weitere Kategorien) 
