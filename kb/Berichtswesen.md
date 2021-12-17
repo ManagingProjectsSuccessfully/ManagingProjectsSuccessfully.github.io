@@ -42,9 +42,10 @@ streng an ein positives Urteil der Entscheider über die letzten Berichte gekopp
 Darüber hinaus ist die schnelle Abrufbarkeit von maßgebenden Informationen essenziell für eine effiziente Unternehmensführung, da in Form der Berichte eine 
 systematische Aufbereitung von entscheidungs- bzw. führungsrelevanten Informationen geliefert wird[^10].
 Aufgrund dessen ist von Bedeutung, dass trotz des erheblichen Zeitaufwands und der oftmals fehlenden Motivation beim Erstellen der Berichte und Protokolle, mit 
-bestem Wissen und Gewissen vorgegangen wird. Somit wird die inhaltliche Qualität der Berichtserstattung gewährleistet und eine fundierte Entscheidungsgrundlage geboten.
-Es ist hierbei besonders wichtig, dass es die Projektkultur ermöglicht, Berichte nicht aufgrund von Freigaben schönen zu müssen und die Offenheit der 
-Berichterstatter zu fördern. Um jedoch die Wirtschaftlichkeit von den Berichten zu erhalten und den Zeitaufwand zu senken, können standardisierte Berichtsvorlagen
+bestem Wissen und Gewissen vorgegangen wird. Somit wird die inhaltliche Qualität der Berichtserstattung gewährleistet und eine fundierte Entscheidungsgrundlage geboten. Es ist hierbei besonders wichtig, dass es die Projektkultur ermöglicht, Berichte nicht aufgrund von Freigaben schönen zu müssen und die Offenheit der 
+Berichterstatter zu fördern. 
+
+Um jedoch die Wirtschaftlichkeit von den Berichten zu erhalten und den Zeitaufwand zu senken, können standardisierte Berichtsvorlagen
 eingesetzt werden, was wiederum die Auswertbarkeit erhöht[^11].
 Ist die [Projektsteuerung](Projektssteuerung.md) transparent können unnötige Reibungsverluste durch Fehlinformationen und bzw. oder Informationsdefizite vermieden werden. 
 Der Berichtsprozess sollte daher zu Beginn eines neuen Projekts transparent erarbeitet und individuell an das Projekt angepasst werden und gegebenenfalls sollten 
