@@ -1,6 +1,6 @@
 ---
 title: Asana_PM_Tool
-tags: agil klassisch
+tags: agil Projektmanagementsoftware
 author: Saskia1403
 anrechnung: a
 ---
