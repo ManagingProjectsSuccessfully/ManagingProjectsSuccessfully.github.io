@@ -6,7 +6,7 @@ anrechnung: a
 ---
 
 
-The 3-5-3 of Scrum umfasst die Methode, nach der sich ein agiles Team in ihrem [Projekt](Projekt.md) organisiert. Hierbei steht 3-5-3 für folgendes: [^1]
+The 3-5-3 of Scrum umfasst die Methode, nach der sich ein agiles Team in ihrem [Projekt](Projekt.md) organisiert. Hierbei steht 3-5-3 für Folgendes: [^1]
 
 ### 3 Roles - 5 Events - 3 Attributes
 
@@ -57,6 +57,10 @@ Im [Product Backlog](Product_Backlog.md) wird das Ziel eines [Projekts](Projekt.
 Die Kurzform davon ist das Sprint Backlog. Hier werden allein die zu erledigenden Aufgabenpakete für den aktuellen Sprint zusammengefasst. Das verhindert, dass die Teammitglieder von den vorgegebenen Zielen abkommen, und bildet den Rahmen für einen Sprint. [^3]
 
 Am Ende eines Sprints wird angestrebt ein potenziell lieferbares Product Increment vorstellen zu können. Das gibt die Möglichkeit, dass Stakeholder direkt das Product Increment nach jedem Sprint begutachten können, und bietet eine Grundlage auf der im folgenden Sprint weitergearbeitet werden kann. [^2]
+
+# Fazit
+
+The 3-5-3 of SCRUM stellt eine Methode dar, wie ein agiles Team arbeiten kann. Dabei sind die zentralen Inhalte die drei Rollen, die fünf Events und die drei Artefakte. Anhand dieser Methode können agile Projekte zum Erfolg geführt werden und die Wünsche des Kunden stetig miteingebunden werden.
 
 
 # Siehe auch
