@@ -42,7 +42,7 @@ Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie sch
 ## Klassisch vs. Agil
 Forschungsprojekte kann man sowohl im klassischen als auch im agilen Projektmanagement einordnen. Dadurch dass in der Anfangsphase die Anforderungen teils unbekannt sind, besitzt ein Forschungsprojekt Tendenz zu einer agilen Methode. Dennoch sind auch Aspekte des klassischen Projektmanagements (z.B. ein detaillierter Projektantrag sowie ein begrenztes Budget und Zeit) erkennbar. 
 
-Die unten aufgeführte Tabelle zeigt mögliche Kategorien und deren Einordnung von Forschungsprojekten in das jeweilige Projektmanagement (fettgedruckt). In diesem Fall wäre eine hybride oder agile Lösung erstrebenswert [^3].
+Die unten aufgeführte Tabelle zeigt mögliche Kategorien und deren Einordnung von Forschungsprojekten in das jeweilige Projektmanagement (fettgedruckt). In diesem Fall wäre eine [hybride](Hybrides_Projektmanagment.md) oder agile Lösung erstrebenswert [^3].
 
 
 | Kategorien | Klassisches PM | Agiles PM |
@@ -77,13 +77,13 @@ Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 # Siehe auch
 
 * [Projektarten](Projektarten.md)
+* [Oeffentliche_Projekte](Oeffentliche_Projekte.md)
 * [Innovationsprojekte](Innovationsprojekte.md)
 * [Entwicklungsprojekte](Entwicklungsprojekte.md)
 * [Wissensmanagament](Wissensmanagament.md)
-* [Oeffentliche_Projekte](Oeffentliche_Projekte.md)
+* [Vorgehensmodelle](Vorgehensmodelle.md)
 * [Uebersicht_PM_Tools](Uebersicht_PM_Tools.md)
-* [Microsoft_Planner_PM_Tool](Microsoft_Project_PM_Tool.md)
-* [Microsoft_Project_PM_Tool](Microsoft_Project_PM_Tool.md)
+
 
 # Weiterführende Literatur
 
