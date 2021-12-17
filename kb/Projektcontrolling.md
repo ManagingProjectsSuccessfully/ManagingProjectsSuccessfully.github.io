@@ -81,6 +81,8 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. 
 * [Netzplan](Netzplantechnik.md)
 * [Gantt-Diagramm](Gantt_Diagramme.md)
 * [Projektphasen](Projektphasen_klassisch.md)
+* [Kostenplan](Kostenplanung.md)
+* [Ressourcenplan](Ressourcenplanung.md)
 
 # Weiterführende Literatur
 
