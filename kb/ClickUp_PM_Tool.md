@@ -5,7 +5,7 @@ author: urimi0
 anrechnung: k 
 ---
 
-ClickUp[^1] ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für allerlei Art und Größe für Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von Projekten dienen werden auf einer Plattform zusammengefügt[^2]. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.
+ClickUp[^1] ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für allerlei Art und Größe für Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von [Projekten](Projekt.md) dienen werden auf einer Plattform zusammengefügt[^2]. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.
 
 ![ClickUp_Logo](ClickUp_PM_Tool/logo.png)
 
@@ -66,7 +66,7 @@ Docs gibt die Möglichkeit allerlei Dokumente mit Teammitgliedern teilen zu kön
 
 *(Tabelle gekürzt, bei ClickUp[^1] weitere Kategorien) 
 
-|   Kostenlos            |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
+|   Preise            |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
 | ---------------------- | ------------- | ------------- | ------------ | ------------- | ------------  |
 |   Speicher             | 100 MB        | Unbegrenzt    | Unbegrenzt   |  Unbegrenzt   |  Unbegrenzt   |
 |Synchronisierung¹       | Nein          | Ja            | Ja           |  Ja           | Ja            |
@@ -75,7 +75,7 @@ Docs gibt die Möglichkeit allerlei Dokumente mit Teammitgliedern teilen zu kön
 | Priority Support       | Nein          | Nein          | Nein         | Ja            | Ja            |
 
 
-* ¹(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
+¹(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
 
 # Siehe auch
 
@@ -93,7 +93,7 @@ Docs gibt die Möglichkeit allerlei Dokumente mit Teammitgliedern teilen zu kön
 
 # Weiterführende Literatur
 
-* Homepage: https://clickup.com
+* Homepage: [ClickUp](https://clickup.com)
 
 # Quellen
 
