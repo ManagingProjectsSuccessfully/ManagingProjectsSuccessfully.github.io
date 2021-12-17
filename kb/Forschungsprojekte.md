@@ -4,10 +4,10 @@ tags: agil klassisch pm forschung projekt
 author: CatrinSc
 anrechnung: k
 ---
-
+einleitung
 
 # Definition
-Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt von mehreren Wissenschaftlern, wissenschaftlichen Gesellschaften, eines Instituts oder einer Organisation, mit dem Ziel einen Erkenntnisgewinn für ein aktuelles Thema in der Forschung zu generieren. Ein [Projekt](Projekt.md) der angewandten Forschung verfolgt eher das Ziel, bereits erforschte Methoden zu verbessern [^1].
+Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt von mehreren Wissenschaftlern, wissenschaftlichen Gesellschaften, eines Instituts oder einer Organisation, mit dem Ziel einen Erkenntnisgewinn für ein aktuelles Thema in der Forschung zu generieren. Ein [Projekt](Projekt.md) der angewandten Forschung verfolgt eher das Ziel, bereits erforschte Methoden zu verbessern.
 
 Eine Förderung erfolgt meist durch Drittmittel (Forschungsfonds, öffentliche oder industrielle Förderungsgelder). Um solche Drittmittel zu erhalten ist ein ausführlicher [Projektantrag](Projektantrag.md) (vergleichbar mit einem klassischen Projektantrag) nötig. Dieser legt Ziele, Risiken, Methoden und Ressourcen, Zeit- und Finanzplanung, Angaben über Qualifikation der/des Projektleiter/s sowie eine populär gehaltene Kurzfassung dar. Abschlussberichte sind von großer Bedeutung, aber auch Zwischenberichte werden häufig erstellt, um dem Geldgeber oder der Universität von dem Fortschritt zu berichten. Aufgrund ihrer typischen Kriterien haben Forschungsprojekte ein hohes Risiko, nicht erfolgreich zu sein [^1].
 
@@ -76,17 +76,17 @@ Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 
 # Siehe auch
 
+* [Projektarten](Projektarten.md)
 * [Innovationsprojekte](Innovationsprojekte.md)
 * [Entwicklungsprojekte](Entwicklungsprojekte.md)
-* [Projektmanagement](Projektmanagement.md)
 * [Uebersicht_PM_Tools](Uebersicht_PM_Tools.md)
 * [Microsoft_Planner_PM_Tool](Microsoft_Project_PM_Tool.md)
 * [Microsoft_Project_PM_Tool](Microsoft_Project_PM_Tool.md)
 
 # Weiterführende Literatur
 
-* Bauer W., Bleck-Neuhaus J., Dombois R., Wehrtmann I. (2018). Forschungsprojekte entwickeln – von der Idee bis zur Publikation. NOMOS VERLAGSGES.MBH + CO.
-* Schöneck N. & Voß W. (2013). Das Forschungsprojekt, Planung, Durchführung und Auswertung einer quantitativen Auswertung. SpringerVS.
+* Bauer W., Bleck-Neuhaus J., Dombois R., Wehrtmann I. (2018). [Forschungsprojekte entwickeln – von der Idee bis zur Publikation. NOMOS VERLAGSGES.MBH + CO](https://www.nomos-shop.de/nomos/titel/forschungsprojekte-entwickeln-id-68403/).
+* Schöneck N. & Voß W. (2013). [Das Forschungsprojekt, Planung, Durchführung und Auswertung einer quantitativen Auswertung](https://link.springer.com/book/10.1007/978-3-531-19502-5). SpringerVS.
 * Projekt Forum. (07.07.2020). [Herausforderungen an das Projektmanagement: Unterschiedliche Arten von Projekten](https://www.youtube.com/watch?v=Ar-qjMOsh7U). YouTube. 
 * Hagen Management GmbH. [Projektmanagement Blog](https://pm-blog.com/).
 
