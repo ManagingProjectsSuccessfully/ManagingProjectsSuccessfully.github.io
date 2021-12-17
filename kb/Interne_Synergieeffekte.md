@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 
-### Definition: Synergieeffekt
+## Definition: Synergieeffekt
 
 Ein Synergieeffekt ist ein positives Resultat, welches im Allgemeinen durch einen Zusammenschluss oder eine Zusammenarbeit entsteht. Der Synergieeffekt entsteht häufig durch Kostenersparnisse, die wiederum zu einem Wettbewerbsvorteil führen. [^1]
 
@@ -20,7 +20,7 @@ Sinnvoll ist ein solches M&A-Projekt, wenn es interessante Überschneidungen zwi
 ## Synergien aus Schnittstellenmanagement 
 
 Wichtige Informationen werden durch die gezielte [Kommunikation](Projektkommunikation.md) in alle Teilprojekte weitergegeben und können zu einem Wertzuwachs führen, indem die Wiederverwendbarkeit eines Lösungsansatzes genutzt wird. Das Wissen eines Fachbereiches wird somit abteilungsübergreifend verwendet und kann auch zu einer neuen Betrachtungsweise führen. [^2]
-Für Schnittstellenmanagement werden sogenannte [Project Management Offices](Project_Management_Office.md) aufgestellt, kurz [PMOs](Project_Management_Office.md). Sie sind für die zentrale Steuerung von [Projekten](Projekt.md) verantwortlich. Dadurch gestaltet sich die [Kommunikation zwischen den Stakeholdern](Kommunikation_Projektbeteiligte.md) effizienter. Die Mitarbeiter des [PMOs](Project_Management_Office.md) unterstützen in den einzelnen [Projekten](Projekt.md) strategisch sowie operativ, um der Qualitätssicherung durch Wissens- und Ressourcenmanagement auszuhelfen. Dies führt auch zu einer effizienteren Arbeitsweise. [^2]
+Für Schnittstellenmanagement werden sogenannte [Project Management Offices](Project_Management_Office.md) aufgestellt, kurz [PMOs](Project_Management_Office.md). Sie sind für die zentrale Steuerung von [Projekten](Projekt.md) verantwortlich. Dadurch gestaltet sich die [Kommunikation zwischen den Stakeholdern](Kommunikation_Projektbeteiligte.md) effizienter. Die Mitarbeiter des [PMOs](Project_Management_Office.md) unterstützen in den einzelnen [Projekten](Projekt.md) strategisch sowie operativ, um die Qualitätssicherung durch Wissens- und Ressourcenmanagement zu verbessern. Dies führt auch zu einer effizienteren Arbeitsweise. [^2]
 
 ## Synergien aus M&A-Projekten
 
