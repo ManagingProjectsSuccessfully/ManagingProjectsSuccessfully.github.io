@@ -13,7 +13,7 @@ Der Name des Unternehmens "Asana" stammt dabei aus dem Sanskrit, der Literatur- 
 Als US-amerikanisches Unternehmen werden die mit dem Unternehmen geteilten Daten grundsätzlich nach den amerikanischen Datenschutzrichtlinien behandelt. Allerdings bietet Asana auch die Möglichkeit ein Übereinkommen für eine Datenverarbeitungsvereinbarung zu treffen, nach der die Daten gemäß der DSGVO verarbeitet werden[^2].
 
 # Funktionen von Asana 
-Für die Anmeldung bei Asana reicht in den meisten Fällen das bereits bestehende Google Konto aus. Ist die Anmeldung erfolgreich abgeschlossen, gelangt der Nutzer zur Homepage, auf der, wenn bereits vorhanden, alle Projekte und Aufgaben ersichtlich sind, die demnächst fällig werden[^5].
+Für die Anmeldung bei Asana reicht in den meisten Fällen das bereits bestehende Google Konto aus. Ist die Anmeldung erfolgreich abgeschlossen, gelangt der Nutzer zur Homepage, auf der, wenn bereits vorhanden, alle [Projekte](Projekt.md) und Aufgaben ersichtlich sind, die demnächst fällig werden[^5].
 
 ## Meine Aufgaben
 
