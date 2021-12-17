@@ -5,10 +5,10 @@ author: ux49azap
 anrechnung: k
 ---
 # Missverständnisse des klassischen Projektmanagements
-Die falsche Anwendung des klassischen [Projektmanagements](Projektmanagement.md) kann schnell zu Missverständnissen führen, welche einen großen Einfluss auf die Erfolgswahrscheinlichkeit des jeweiligen [Projektes](Projekt.md) haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
+Die falsche Anwendung des [klassischen Projektmanagements](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) kann schnell zu Missverständnissen führen, welche einen großen Einfluss auf die Erfolgswahrscheinlichkeit des jeweiligen [Projektes](Projekt.md) haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
 
 # 1. Ursache der Missverständnisse
-Das [traditionelle Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) beruht auf einem monolithischen Ansatz, bei welchem bereits zu [Projektstart](Projektstart.md) der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, [Termine](Zeitplanung.md) und [Ressourcen](Ressourcenplanung.md) festgelegt.[^1][^2]  Dieser standardisierte Vorgang kann im Laufe des [Projektes](Projekt.md) allerdings zu mehreren verschiedenen Missverständnissen führen.
+Das traditionelle [Projektmanagement](Projektmanagement.md) beruht auf einem monolithischen Ansatz, bei welchem bereits zu [Projektstart](Projektstart.md) der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, [Termine](Zeitplanung.md) und [Ressourcen](Ressourcenplanung.md) festgelegt.[^1][^2]  Dieser standardisierte Vorgang kann im Laufe des [Projektes](Projekt.md) allerdings zu mehreren verschiedenen Missverständnissen führen.
  
 
 # 2. Fehlende Flexibilität bei Veränderungen
@@ -19,7 +19,7 @@ In nahezu allen [Projekten](Projekt.md) kommt es im Laufe der Zeit zu sich verä
 
 # 3. Unschärfe in der Projektplanung
 
-Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird bereits zu [Beginn des Projektes](Projektstart.md)) Reserve in die Planung mit einbezogen. Dies führt allerdings erneut zu Missverständnissen. Durch den Einbezug von Reserve besteht von Anfang eine gewisse Unschärfe in der Planung, welche im späteren Projektverlauf sogar noch zunehmen kann. Außerdem handelt es sich bei den Reservefaktoren vor allem um die Terminierung und Budgetierung, weshalb es bei klassischen [Projekten](Projekt.md) oftmals zu Verzögerungen und Kostensteigerungen kommen kann.[^1][^2]
+Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird bereits zu [Beginn des Projektes](Projektstart.md)) Reserve in die Planung mit einbezogen. Dies führt allerdings erneut zu Missverständnissen. Durch den Einbezug von Reserve besteht von Anfang eine gewisse Unschärfe in der Planung, welche im späteren Projektverlauf sogar noch zunehmen kann. Außerdem handelt es sich bei den Reservefaktoren vor allem um die [Terminierung](Zeitplanung.md) und Budgetierung, weshalb es bei klassischen [Projekten](Projekt.md) oftmals zu Verzögerungen und Kostensteigerungen kommen kann.[^1][^2]
 
 
 # 4. Unstimmigkeiten beim Projektablauf
