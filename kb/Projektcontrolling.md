@@ -44,7 +44,7 @@ Die Kenngrößen des Dreiecks umfassen:
 ## Methoden
 Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten [Umfang](Projektumfang.md), Dauer und Komplexität des Projektes berücksichtigt werden.
 
-Grundsätzlich gilt hier die Devise: **Je einfacher und durschaubarer die Methode, desto besser.**
+Grundsätzlich gilt hier die Devise: ***Je einfacher und durschaubarer die Methode, desto besser.***
 
 ### [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
 Die Definition von [Meilensteinen](Meilensteine.md) ist Grundlage dieser Methode. Diese werden am Anfang des Projekts für die [Projektplanung](Projektplanung.md) festgelegt. Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilensteine.md)-Termine chronologisch auf, wodurch sich Trends frühzeitig abzeichnen.[^13]
