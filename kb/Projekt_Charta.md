@@ -17,7 +17,7 @@ Dem Projekt Charta eilt meistens ein [Projektantrag](Projektantrag.md) bzw. Proj
 Durch die Projekt Charta wird sichergestellt, dass [Sponsor](Who_is_Who_Projectmanagement.md) und der [Projektleiter](Projektleiter.md) auch das gleiche Ziel beim Projekt anstreben und den Mitteln dazu bewusst sind.[^1][^3] Bei externen Dienstleistern wird der Projektauftrag durch einen formellen Vertrag ersetzt.[^4]
 
 
-## Funktionen eines Project Charta im Projektverlauf
+## Funktionen eines Projekt Charta im Projektverlauf
 
  Die Projekt Charta begleitet den [Projektleiter](Projektleiter.md), das Team sowie weitere [Stakeholder](Who_is_Who_Projectmanagement.md) vom Projektanfang bis -ende.[^2][^7] Daher bietet es im Laufe des Projekts eine Vielzahl an Funktionen.[^1]
 
@@ -49,7 +49,7 @@ Durch die Projekt Charta wird sichergestellt, dass [Sponsor](Who_is_Who_Projectm
 
 ---
 
-## Bestandteile eines Project Charta
+## Bestandteile eines Projekt Charta
 
 Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Charta nicht normiert.[^1][^4] Daher kann der Projekt Charta nur eine Seite als auch ein ganzes Handbuch umfassen.[^8] Da die Projekt Charta auf dem Projektantrag basiert, kommen einige Elemente im Projekt Charta nochmal vor.
 
