@@ -30,12 +30,12 @@ Soll und Ist-Kosten des Projekts werden über den gesamten [Projektlebenszyklus]
 
 # Kennzahlen und Methoden
 ## Kennzahlen
-Die elementare Basisgröße des Projektcontrollings ist der Projekterfolg.[^11] Dieser ist [messbar](Erfolgsmessung.md) anhand der drei Kenngrößen des [Projektdreiecks](Magisches_Dreieck.md), welche im Laufe des Projekts geplant und anschließend überwacht werden müssen.[^9]
+Die elementare Basisgröße des Projektcontrollings ist der Projekterfolg.[^11] Dieser ist [messbar](Erfolgsmessung.md) anhand der drei Kenngrößen des [Projektdreiecks](Magisches_Dreieck.md), welche im Laufe des Projekts geplant und anschließend überwacht werden müssen.
 Die Kenngrößen des Dreiecks umfassen:
 
-* Termine
-* Qualität
-* Kosten
+* Termine,
+* Qualität,
+* Kosten.[^9]
 
 ![Projekt Controlling](Projektcontrolling/projectcontrolling.jpg)
 
@@ -54,9 +54,9 @@ Eine weitere Methode ist die Earned Value Analyse, mit der man den Fertigstellun
 
 ### Projektplan
 Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszeiträume zugeteilt. Der Projektmanager hat somit stets den Überblick über die [Aufgabenteilung](Aufgabenteilung.md) und Termintreue der jeweiligen Projektabschnitte.[^8] Der Umfang des Projektplans richtet sich nach der Größe und Komplexität des Projekts. Folgende Pläne sollten aber in jedem Fall enthalten sein:
-* [Projektstrukturplan](Projektstrukturplan.md)
-* Ablaufplan (als Tabelle, [Netzplan](Netzplantechnik.md) oder [Gantt-Diagramm](Gantt_Diagramme.md))
-* [Kostenplan](Kostenplanung.md)
+* [Projektstrukturplan](Projektstrukturplan.md),
+* Ablaufplan (als Tabelle, [Netzplan](Netzplantechnik.md) oder [Gantt-Diagramm](Gantt_Diagramme.md)),
+* [Kostenplan](Kostenplanung.md),
 * [Ressourcenplan](Ressourcenplanung.md).[^12]
 
 ### Ampelmethode
