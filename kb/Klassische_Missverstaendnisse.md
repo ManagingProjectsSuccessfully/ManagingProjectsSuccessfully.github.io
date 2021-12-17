@@ -40,7 +40,7 @@ Dadurch entstehen wiederum neue Missverständnisse. Es können beispielsweise An
 
 ## Unverhältnismäßige Rahmenbedingungen 
 
-Ein weiterer Aspekt, welcher zu klassischen Missverständnissen führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, der unterschätzte [Projektumfang](Projektumfang.md) sowie fehlerhafte [Projektkommunikation](Projektkommunikation.md) bestärken die bereits genannten Missverständnisse stark.[^7][^8]
+Ein weiterer Aspekt, welcher zu Unstimmigkeiten im Projektverlauf führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, der unterschätzte [Projektumfang](Projektumfang.md) sowie fehlerhafte [Projektkommunikation](Projektkommunikation.md) bestärken die bereits genannten Missverständnisse stark.[^7][^8]
 
 # Fazit
 Um klassische Missverständnisse bei [Projekten](Projekt.md) zu vermeiden, ist es deshalb besonders wichtig genau abzuwägen, ob das [klassische Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) zur Ausgangslage, Aufgabenstellung und Zielsetzung passt. Nur wenn diese Vorraussetzungen erfüllt sind, kann das [Projekt](Projekt.md) erfolgreich und wirtschaftlich verlaufen.[^1]
