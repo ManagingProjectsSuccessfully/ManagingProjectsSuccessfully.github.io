@@ -4,12 +4,12 @@ tags: agil klassisch pm forschung projekt
 author: CatrinSc
 anrechnung: k
 ---
-Kurzer Einleitungssatz
+
 
 # Definition
-Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt von mehreren Wissenschaftlern, wissenschaftlichen Gesellschaften oder eines [Instituts](https://de.wikipedia.org/wiki/Institut_(Organisation)), mit dem Ziel einen Erkenntnisgewinn für ein aktuelles Thema in der [Forschung](https://de.wikipedia.org/wiki/Forschung) zu generieren. Ein Projekt der [angewandten Forschung](https://de.wikipedia.org/wiki/Angewandte_Wissenschaft) verfolgt eher das Ziel, bereits erforschte Methoden zu verbessern.
+Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt von mehreren Wissenschaftlern, wissenschaftlichen Gesellschaften, eines Instituts oder einer Organisation, mit dem Ziel einen Erkenntnisgewinn für ein aktuelles Thema in der Forschung zu generieren. Ein [Projekt](Projekt.md) der angewandten Forschung verfolgt eher das Ziel, bereits erforschte Methoden zu verbessern [^1].
 
-Eine Förderung erfolgt meist durch [Drittmittel](https://de.wikipedia.org/wiki/Drittmittel) (Forschungsfonds, öffentliche oder industrielle Förderungsgelder). Um solche Drittmittel zu erhalten ist ein ausführlicher [Projektantrag](Projektantrag.md) (vergleichbar mit einem klassischen Projektantrag) nötig. Dieser legt Ziele, Risiken, Methoden und Ressourcen, Zeit- und Finanzplanung, Angaben über Qualifikation der/des Projektleiter/s sowie eine populär gehaltene Kurzfassung dar. Abschlussberichte sind von großer Bedeutung, aber auch Zwischenberichte werden häufig erstellt, um dem Geldgeber oder der Universität von dem Fortschritt zu berichten. Aufgrund ihrer typischen Kriterien haben Forschungsprojekte ein hohes Risiko, nicht erfolgreich zu sein [^1].
+Eine Förderung erfolgt meist durch Drittmittel (Forschungsfonds, öffentliche oder industrielle Förderungsgelder). Um solche Drittmittel zu erhalten ist ein ausführlicher [Projektantrag](Projektantrag.md) (vergleichbar mit einem klassischen Projektantrag) nötig. Dieser legt Ziele, Risiken, Methoden und Ressourcen, Zeit- und Finanzplanung, Angaben über Qualifikation der/des Projektleiter/s sowie eine populär gehaltene Kurzfassung dar. Abschlussberichte sind von großer Bedeutung, aber auch Zwischenberichte werden häufig erstellt, um dem Geldgeber oder der Universität von dem Fortschritt zu berichten. Aufgrund ihrer typischen Kriterien haben Forschungsprojekte ein hohes Risiko, nicht erfolgreich zu sein [^1].
 
 ## Typische Kriterien
 * Bereiche: Medizin, Naturwissenschaft, Technik 
@@ -29,7 +29,7 @@ Eine Förderung erfolgt meist durch [Drittmittel](https://de.wikipedia.org/wiki/
 *Forschungsfrage entwickeln* [^7]
 
 # Forschungsprojekte im Projektmanagement
-Das Projektmanagement ist für die Forschung von enormer Bedeutung. Denn ohne Projektmanagement ist das Risiko noch höher, dass das Forschungsprojekt scheitert [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialisierte Agenturen können so die Qualität sichern, die zum Beispiel in der Medizintechnik eine große Rolle spielt [^5].
+Das [Projektmanagement](Projektmanagement.md) ist für die Forschung von enormer Bedeutung. Denn ohne Projektmanagement ist das Risiko noch höher, dass das Forschungsprojekt scheitert [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialisierte Agenturen können so die Qualität sichern, die zum Beispiel in der Medizintechnik eine große Rolle spielt [^5].
 Es ist wichtig, klare Anforderungen zu formulieren. Dabei muss die Risikobeurteilung und Ressourcenplanung ausreichend berücksichtigt werden, auch wenn das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und den Ehrgeiz der Forscher. Da Management nicht direkt mit Forschung assoziiert wird, wird dieses von ihnen eher als lästig oder unnötig empfunden [^2].
 
 Das abgebildete Diagramm zeigt, dass vor allem mangelnde Kommunikation sowie schlechte Projektplanung Ursachen für ein gescheitertes Projekt sein können. Deswegen sollten diese Aspekte besonders in den Lösungsansätzen berücksichtigt werden. Eine geeignete Projektmanagement-Methode kann ausgewählt werden, indem man sich bewusst macht, ob eine agile oder klassische Methode in Frage kommt. 
@@ -100,4 +100,5 @@ Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 [^5]: [Forschung und Entwicklung - Projektmanagement in der Medizintechnik](https://www.youtube.com/watch?v=6YxbcjEYUj0) (23.09.2013). In YouTube.
 [^6]: Hagen S. (04.07.2009). [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/). 
 [^7]: [Forschungsfrage entwickeln](https://novustat.com/statistik-blog/forschungsfrage-entwickeln-und-datenanalyse-planen.html#:~:text=%20Forschungsfrage%20entwickeln%20und%20Datenanalyse%20planen%3A%20In%209,entwickeln%20Sie%20nun%20die%20Hypothesen.%20Hypothesen...%20More%20) (22.01.2018). Novustat.
-[^8]:  [Forschungsfrage](https://de.wikipedia.org/wiki/Forschungsfrage) (07.11.2021). In Wikipedia.
+[^8]: [Forschungsfrage](https://de.wikipedia.org/wiki/Forschungsfrage) (07.11.2021). In Wikipedia.
+
