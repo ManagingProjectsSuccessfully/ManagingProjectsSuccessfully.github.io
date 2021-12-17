@@ -80,6 +80,7 @@ Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 * [Oeffentliche_Projekte](Oeffentliche_Projekte.md)
 * [Innovationsprojekte](Innovationsprojekte.md)
 * [Entwicklungsprojekte](Entwicklungsprojekte.md)
+* [Ausgangsanalyse](Ausgangsanalyse.md)
 * [Wissensmanagament](Wissensmanagament.md)
 * [Vorgehensmodelle](Vorgehensmodelle.md)
 * [Uebersicht_PM_Tools](Uebersicht_PM_Tools.md)
