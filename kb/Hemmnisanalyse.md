@@ -62,7 +62,7 @@ unterschiedliche Strategien. [^2]
 
 ## Vergleichbare Methoden zur Bewertung und Messung von Hemmnissen
 Um Hemmnisse erkennen und bewerten zu können gibt es verschiedene [Methoden](Methoden.md). Bei der Bewertung werden vor allem Skalen benutzt, die später in Zahlen umgewandelt werden und somit quantitativ verwertbar werden.
-Wie in der Beispielabbildung dargestellt, werden in der 
+Wie in der Beispielabbildung dargestellt, werden in der Praxis der Hemmnisanalyse die Dresdner Hemmnisanalyse Fragebögen zur Verfügung gestellt um anhand von Skalen mögliche Hindernisse bewerten zu können. Danach werden diese Hemmnisse nach Relevanz geordnet und es werden Strategien zur Vermeidung ausgearbeitet.
 ![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
 
 *Abbildung: Beispielmethoden zur Messung und Bewertung von Hemmnissen*[^4]
