@@ -10,7 +10,7 @@ Die Projekt Charta ist ein Dokument das die wichtigsten Punkte eines Projekts sc
 ---
 
 # Was ist die Projekt Charta
-Der Begriff "Projekt Charta" ist nicht normiert, daher wird dieses Dokument in Deutsch auch als "Projektauftrag", "Auftrag" oder "Projektvereinbarung" bezeichnet. Auf Englisch wird der Begriff des "Projekt Charter" benutzt.[^4]
+Der Begriff "Projekt Charta" ist nicht normiert, daher wird dieses Dokument in Deutsch auch als "Projektauftrag", "Auftrag" oder "Projektvereinbarung" bezeichnet. Auf Englisch wird der Begriff des "Project Charter" benutzt.[^4]
 
 Der Projekt Charta eilt meistens ein [Projektantrag](Projektantrag.md) bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.[^1][^4]
 
@@ -23,7 +23,9 @@ Durch die Projekt Charta wird sichergestellt, dass [Sponsor](Who_is_Who_Projectm
 
 ### Zu beginn des Projekts
 
- - Die Übergabe des Projekt Charta stellt, nach einem erfolgreichen und genehmigten [Projektantrag](Projektantrag.md), den offiziellen [Startschuss des Projekts](Projekt_Kick_Off.md) dar.[^1][^4]
+  Die Übergabe des Projekt Charta stellt, nach einem erfolgreichen und genehmigten [Projektantrag](Projektantrag.md), den offiziellen [Startschuss des Projekts](Projekt_Kick_Off.md) dar.[^1][^4]
+
+ - Damit zeigen sich auch folgende Funktionen am Projektanfang:
 
     - Beginn des Projektes
     - Festlegung des Projektstartzeitpunkts.
@@ -36,13 +38,9 @@ Durch die Projekt Charta wird sichergestellt, dass [Sponsor](Who_is_Who_Projectm
 
 ### Während des Projekts
 
- - Die Projekt Charta ermöglicht eine einheitliche Übersicht der Projektinhalte für alle beteiligten.[^1]
+  Die Projekt Charta ermöglicht eine einheitliche Übersicht der Projektinhalte für alle beteiligten.[^1] Projektinhalte werden genau, aber kurz definiert um das gleiche Bild vom Projekt beim [Projektleiter](Projektleiter.md),[Sponsor](Who_is_Who_Projectmanagement.md) sowie anderen Stakeholdern hervorzurufen. Die Projekt Charta dient auch als Informationsgrundlage für später hinzukommende [Teammitglieder](Who_is_Who_Projectmanagement.md)
 
-    - Definition der Projektinhalte
-    - Gleiches Bild über Projekt für [Projektleiter](Projektleiter.md) und [Sponsor](Who_is_Who_Projectmanagement.md)
-    - Informationsgrundlage für später hinzukommende [Teammitglieder](Who_is_Who_Projectmanagement.md)
-
-- Minimiert das Risiko, dass sich der Aufwand nicht gleichmäßig auf die Projektlaufzeit verteilt.[^1]
+- Die Projekt Charta Minimiert das Risiko, dass sich der Aufwand nicht gleichmäßig auf die Projektlaufzeit verteilt.[^1]
 
 
     ![image](Projekt_Charta/Project_Charter_Graph_1.jpg)[^1]
