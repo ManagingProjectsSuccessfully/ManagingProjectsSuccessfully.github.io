@@ -9,7 +9,7 @@ Wie SAFe oder Scaled Agile Framework wird eine Stellung zum Agilenmanagement bez
 
 # SAFe-Vorteile und die Grundsätze
 
-Laut der Firma Scaled Agile[^1], die SAFe entwickelt hat, bring diese Plateaussohle bessere Produktivität, schnelles Feedback und erhöht die Mitarbeiterzufriedenheit und Mitarbeiterengagement. Viele Firmen auch registrieren, dass sie schneller auf Kundennachfrage reagieren können. Jede Branche ist unterschiedlich und deswegen ist auch die SAFe-Nutzung bei der Firma unterschiedlich. Trotz der Vielfalt der Situationen sollen die Firmen für die erfolgreiche Nutzung die 10 Grundprinzipe folgen. 
+Laut der Firma Scaled Agile[^1], die SAFe entwickelt hat, bring diese Plattform bessere Produktivität, schnelles Feedback und erhöht die Mitarbeiterzufriedenheit und Mitarbeiterengagement. Viele Firmen auch registrieren, dass sie schneller auf Kundennachfrage reagieren können. Jede Branche ist unterschiedlich und deswegen ist auch die SAFe-Nutzung bei der Firma unterschiedlich. Trotz der Vielfalt der Situationen sollen die Firmen für die erfolgreiche Nutzung die 10 Grundprinzipe folgen. 
 
 Die sind[^3]:
 
@@ -18,7 +18,7 @@ Die sind[^3]:
 Bild 1.[^3], *10 SAFe-Grundprinzipe* , Author: © Scaled Agile, Inc.
 
 # ART-Teams in der SAFe-Struktur - wozu braucht man ART-Teams?
-Als eine Firma versucht das SAFe-Agilenmanagement zu implementieren, ist es wichtig für den Erfolg, [Value Stream](Earned_Value_Analyse.md) und ART-Teams zu definieren. Value Stream[^5] ist eine Menge des Werts, die das Unternehmen im Prozess zu den Kunden bringt. Im Vergleich zu Value Stream sind ART-Teams[^4], die eine Lösung wie den Wert im Produkt zu implementieren suchen. Diese Teams sind interfunktional und sind organisiert, um den Wert zu bringen.
+Um das SAFe-Agilenmanagement zu implementieren, ist es wichtig für den Erfolg, [Value Stream](Earned_Value_Analyse.md) und ART-Teams zu definieren. Value Stream[^5] ist eine Menge des Werts, die das Unternehmen im Prozess zu den Kunden bringt. Im Vergleich zu Value Stream sind ART-Teams[^4], die eine Lösung wie den Wert im Produkt zu implementieren suchen. Diese Teams sind interfunktional und sind organisiert, um den Wert zu bringen.
 
 ## ART-Teams arbeiten auf diese Prinzipe[^4]
 * Der Plan des ART-Teams ist fest festgestellt und hat mehrere Teile (Iteration). Wenn das Team ein Element nicht bringen schafft, kann es im nächsten Teil bringen
