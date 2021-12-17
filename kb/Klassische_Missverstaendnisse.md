@@ -1,6 +1,6 @@
 ---
 title: Klassische_Missverstaendnisse
-tags: agil klassisch
+tags: agil klassisch Projektmanagement Missverstaendnisse 
 author: ux49azap
 anrechnung: k
 ---
