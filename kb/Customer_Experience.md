@@ -15,7 +15,9 @@ Es ist eine echte Herausforderung, in einem wettbewerbsintensiven Geschäftsumfe
 Im Laufe der Zeit gewinnt CX immer mehr an Bedeutung, wie eine Studie des Beratungsunternehmens Walker belegt, dass CX ab 2020 zum wichtigsten Markenkriterium geworden ist, und damit wichtiger als Preise oder auch Produkte.[^2]
 
  
-![Beispielabbildung 1](Customer_Experience/Customer_ExperienceCX.PNG)
+![Beispielabbildung](Customer_Experience/Customer_ExperienceCX.PNG)
+
+* Perfekte Customer Experience [^3]
 
 # Wie wird CX von erfolgreichen Unternehmen umgesetzt?
 Die Unternehmen verfolgen mehrere Methoden, um Customer_Experience zu verwirklichen. Das Marketing besteht auf drei unverzichtbaren Bestandteilen, und zwar:  Einfachheit, Effektivität und Empathie beziehungsweise Emotion, diese Komponenten machen die Customer_Experience im Wesentlichen aus.
@@ -25,7 +27,8 @@ Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme dire
 „Die Customer Experience umfasst jede einzelne Interaktion eines Kunden mit einem Unternehmen, in jeder einzelnen Phase der Customer Journey, darunter das Marketingmaterial, das er sieht, ehe er Kunde wird, das Verkaufserlebnis, die Qualität des Produkts und der Kundenservice im Anschluss an den Kauf.“, sagt Dave Dyson, Senior Customer Service Evangelist, Zendesk
 
 
-![Beispielabbildung 1](Customer_Experience/Customer_Experience.png)
+![Beispielabbildung 1](Customer_Experience/Customer_Experience.PNG)
+
 
 
 
@@ -57,7 +60,7 @@ Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme dire
 
 [^2]: https://blog.usu.com/de-de/die-perfekte-customer-experience-schaffen-2020
 
-[^3]: https://de.wikipedia.org/wiki/Customer-Experience-Management
+[^3]: https://blog.usu.com/de-de/die-perfekte-customer-experience-schaffen-2020
 *  https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
 *  https://www.sem-deutschland.de/online-marketing-glossar/customer-experience/#Was_bedeutet_Customer_Experience
 *  https://job-wizards.com/de/customer-experience-management-wie-kundinnen-und-kunden-gluecklich-werden-und-bleiben/
