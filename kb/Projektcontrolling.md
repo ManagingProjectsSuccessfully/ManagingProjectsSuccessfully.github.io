@@ -61,9 +61,9 @@ Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszei
 
 ### Ampelmethode
 Durch die Visualisierung der Arbeitspaketestatus mit Ampelfarben, ist die Methode besonders intuitiv. Ein Nachteil der Methode ist der Auslegungsspielraum der Ampelfarben. Um diese Gefahr zu minimieren, ist es unabdingbar, die Farben klar zu definieren. Gemeinhin bedeuten die verschiedenen Ampelphasen:
-* <font color="green"> Grün: </font> Alles läuft nach Plan
-* Gelb: Es sind signifikante Planabweichungen zu befürchten
-* Rot:  Eine Zielerreichung scheint nicht mehr möglich[^3]
+* Grün: Alles läuft nach Plan.
+* Gelb: Es sind signifikante Planabweichungen zu befürchten.
+* Rot:  Eine Zielerreichung scheint nicht mehr möglich.[^3]
 
 ### Soll-Ist-Vergleich
 Hierbei handelt es sich um eine simple, sich selbsterklärende Methode. Es werden die ermittelten Ist-Werte mit den vom Kunden vorgegebenen Soll-Werten verglichen.
