@@ -85,7 +85,7 @@ Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 
 # Weiterführende Literatur
 
-* Bauer W., Bleck-Neuhaus J., Dombois R., Wehrtmann I. (2018). [Forschungsprojekte entwickeln – von der Idee bis zur Publikation. NOMOS VERLAGSGES.MBH + CO](https://www.nomos-shop.de/nomos/titel/forschungsprojekte-entwickeln-id-68403/).
+* Bauer W., Bleck-Neuhaus J., Dombois R., Wehrtmann I. (2018). [Forschungsprojekte entwickeln – von der Idee bis zur Publikation](https://www.nomos-shop.de/nomos/titel/forschungsprojekte-entwickeln-id-68403/). NOMOS VERLAGSGES.MBH + CO.
 * Schöneck N. & Voß W. (2013). [Das Forschungsprojekt, Planung, Durchführung und Auswertung einer quantitativen Auswertung](https://link.springer.com/book/10.1007/978-3-531-19502-5). SpringerVS.
 * Projekt Forum. (07.07.2020). [Herausforderungen an das Projektmanagement: Unterschiedliche Arten von Projekten](https://www.youtube.com/watch?v=Ar-qjMOsh7U). YouTube. 
 * Hagen Management GmbH. [Projektmanagement Blog](https://pm-blog.com/).
@@ -93,12 +93,12 @@ Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 
 # Quellen
 
-[^1]: [Forschungsprojekte](https://de.wikipedia.org/wiki/Forschungsprojekt) (12.02.2021). In Wikipedia.
-[^2]: [Projektmanagement der Forschung](https://www.projektmagazin.de/artikel/projektmanagement-der-forschung_6806) (13.06.2005). Projektmagazin. 19.11.2021.
-[^3]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/). Roth Institut. 18.11.2021.
-[^4]: [Projektlösungen](https://www.theprojectgroup.com/de/ms-project-loesungen/projektmanagement-forschung). TPG. 20.11.2021.
-[^5]: [Forschung und Entwicklung - Projektmanagement in der Medizintechnik](https://www.youtube.com/watch?v=6YxbcjEYUj0) (23.09.2013). In YouTube.
-[^6]: Hagen S. (04.07.2009). [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/). 
-[^7]: [Forschungsfrage entwickeln](https://novustat.com/statistik-blog/forschungsfrage-entwickeln-und-datenanalyse-planen.html#:~:text=%20Forschungsfrage%20entwickeln%20und%20Datenanalyse%20planen%3A%20In%209,entwickeln%20Sie%20nun%20die%20Hypothesen.%20Hypothesen...%20More%20) (22.01.2018). Novustat.
-[^8]: [Forschungsfrage](https://de.wikipedia.org/wiki/Forschungsfrage) (07.11.2021). In Wikipedia.
+[^1]: [Forschungsprojekte](https://de.wikipedia.org/wiki/Forschungsprojekt) 
+[^2]: [Projektmanagement der Forschung](https://www.projektmagazin.de/artikel/projektmanagement-der-forschung_6806) 
+[^3]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/)
+[^4]: [Projektlösungen](https://www.theprojectgroup.com/de/ms-project-loesungen/projektmanagement-forschung)
+[^5]: [Forschung und Entwicklung - Projektmanagement in der Medizintechnik](https://www.youtube.com/watch?v=6YxbcjEYUj0) 
+[^6]: [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/)
+[^7]: [Forschungsfrage entwickeln](https://novustat.com/statistik-blog/forschungsfrage-entwickeln-und-datenanalyse-planen.html#:~:text=%20Forschungsfrage%20entwickeln%20und%20Datenanalyse%20planen%3A%20In%209,entwickeln%20Sie%20nun%20die%20Hypothesen.%20Hypothesen...%20More%20)
+[^8]: [Forschungsfrage](https://de.wikipedia.org/wiki/Forschungsfrage)
 
