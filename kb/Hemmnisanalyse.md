@@ -25,7 +25,7 @@ verbundene Zielkonflikte. Weitere Ursachen können die Anzahl der Entscheidungsa
 
 ### Entstehungsgründe für Hemmnisse können in vier Gruppen eingeordnet werden: Dürfen, Wollen, Wissen und Können 
 Die erste Hemmnisgruppe des **Dürfens** beschreibt Hemmnisse, die durch unklar definierte Ziele entstehen können. Fehlende Unterstützung seitens der
-Führungsebene kann zur Hemmung in der [Projektkommuniktion](Projektkommunikation.md) führen. Akteure können somit nicht identifizieren ob sie sich engagieren dürfen oder nicht.
+Führungsebene kann zur Hemmung in der [Projektkommunikation](Projektkommunikation.md) führen. Akteure können somit nicht identifizieren ob sie sich engagieren dürfen oder nicht.
 
 Die Gruppe **Wollen** beschreibt individuelle Ziele von Akteuren. Akteure wollen Entscheidungen nicht unterstützen, wenn es ihren inneren Einstellungen
 widerspricht. Man könnte bei diesem Hindernis auch von einem personellen Widerstand sprechen.
