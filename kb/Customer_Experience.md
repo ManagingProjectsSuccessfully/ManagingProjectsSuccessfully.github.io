@@ -11,10 +11,11 @@ Dies ist ein Marketingbegriff. Customer Experience (CX) ist die Summe der Erfahr
 # Warum ist Customer_Experience unverzichtbar & essenziell:
 
 Customer_Experience ist so bedeutungsvoll, weil sie enormes Einfluss auf das Geschäftsergebnis vom Unternehmen hat. Deswegen ist es für das Unternehmen eine große Kampfansage, in einem wettbewerbsintensiven Geschäftsumfeld Käufern zu gewinnen. 
-Es ist eine echte Herausforderung, in einem wettbewerbsintensiven Geschäftsumfeld Kunden zu gewinnen und zu binden. Unternehmen, die den Aspekt einer nahtlosen und effektiven Customer Experience ignorieren, ziehen den Kürzeren gegenüber Firmen, die wissen, dass der Kunde im Mittelpunkt ihres Handelns steht.[^1]
+Es ist eine echte Herausforderung, in einem wettbewerbsintensiven Geschäftsumfeld Kunden zu gewinnen und zu binden. Unternehmen, die den Aspekt einer nahtlosen und effektiven Customer Experience ignorieren, ziehen den Kürzeren gegenüber Firmen, die wissen, dass der Kunde im Mittelpunkt ihres Handelns steht.[^1].
 Im Laufe der Zeit gewinnt CX immer mehr an Bedeutung, wie eine Studie des Beratungsunternehmens Walker belegt, dass CX ab 2020 zum wichtigsten Markenkriterium geworden ist, und damit wichtiger als Preise oder auch Produkte.
 
-
+ 
+![Beispielabbildung 1](Customer_Experience/Customer_ExperienceCX.PNG)
 
 # Customer_Experience richtig umsetzen bei produktiven Unternehmen:
 Die Unternehmen verfolgen mehrere Methoden, um Customer_Experience zu verwirklichen. Das Marketing besteht auf drei unverzichtbaren Bestandteilen, und zwar:  Einfachheit, Effektivität und Empathie beziehungsweise Emotion, diese Komponenten machen die Customer_Experience im Wesentlichen aus.
