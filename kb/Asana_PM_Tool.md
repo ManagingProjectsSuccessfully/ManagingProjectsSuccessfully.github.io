@@ -21,7 +21,7 @@ Im Register "Meine Aufgaben", befinden sich alle Aufgaben, die dem Nutzer zugeor
 
 ## Die Inbox
 
-Damit alle Teammitglieder eines Projektes immer auf dem aktuellen Stand sind, gibt es die Inbox, in der sich alle Benachrichtigungen befinden. Beispiele für mögliche Benachrichtungen sind unter anderem das Hinzufügen einer neuen Aufgabe, eines neuen Projektes oder eines neuen Dokumentes zu einer bereits bestehenden Aufgabe. Auch bekommt der Nutzer eine Benachrichtigung in seiner Inbox, wenn er von anderen Teammitgliedern unter einer Aufgabe getagged wird. Damit der Nutzer Asana nicht immer öffnen muss, um auf dem aktuellen Stand zu sein, wird ihm die Option angeboten, jede Benachrichtigung automatisch als E-Mail an ihn zu versenden[^2] [^5]. Darüber hinaus gibt es in der Inbox die Möglichkeit Nachrichten an andere Teammitglieder zu senden, um sich gemeinsam auszutauschen oder Diskussionen zu führen[^7].
+Damit alle Teammitglieder eines Projektes immer auf dem aktuellen Stand sind, gibt es die Inbox, in der sich alle Benachrichtigungen befinden. Beispiele für mögliche Benachrichtungen sind unter anderem das Hinzufügen einer neuen Aufgabe, eines neuen Projektes oder eines neuen Dokumentes zu einer bereits bestehenden Aufgabe. Auch bekommt der Nutzer eine Benachrichtigung in seiner Inbox, wenn er von anderen Teammitgliedern unter einer Aufgabe getagged wird. Damit der Nutzer Asana nicht immer öffnen muss, um auf dem aktuellen Stand zu sein, wird ihm die Option angeboten, jede Benachrichtigung automatisch als E-Mail zu versenden[^2] [^5]. Darüber hinaus gibt es in der Inbox die Möglichkeit Nachrichten an andere Teammitglieder zu senden, um sich gemeinsam auszutauschen oder Diskussionen zu führen[^7].
 
 ## Das Aufgaben-Fenster 
 
