@@ -1,6 +1,6 @@
 ---
 title: Projekthandbuch
-tags: agil klassisch
+tags: klassisch Projekt Projektplanung
 author: Saskia1403
 anrechnung: k 
 ---
