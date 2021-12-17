@@ -5,24 +5,24 @@ author: FilipPrecik
 anrechnung: k
 ---
 
-In diesem Beitrag ist die Kanban-Technik beschrieben. Zuerst ist die Geschichte und die Bedeutung kurz erklärt. Danach sind die Vorteile der Kanban-Technik im Projektmanagement erläutert. Der Beitrag fährt mit den Kanban-Prinzipen und Gewohnheiten fort und am Ende des Beitrags sind die WIP-Limite und ihre Vorteile beschrieben und erklärt.
+In diesem Beitrag wird die Kanban-Technik beschrieben. Zuerst wird die Geschichte und die Bedeutung näher erläutert. Danach sind die Vorteile der Kanban-Technik im Projektmanagement erläutert. Der Beitrag fährt mit den Kanban-Prinzipen und Gewohnheiten fort und am Ende des Beitrags sind die WIP-Limite und ihre Vorteile beschrieben und erklärt.
 
 # Geschichte und die Bedeutung des Begriffs
 
 Kanban ist eine Technik, die Visualisierung anwendet. Der Begriff [Kanban](Kanban.md) kommt aus Japan und in der originalen Bedeutung ist es ein [visuelles Zeichen](Kanban_Karten.md) oder visuelle Karte[^4]. Als der Vater der 
-Kanban-Technik ist meistens Taiichi Ohno[^1] gekennzeichnet, der Kanban für den ersten Mal in Toyota verwendet hat. Die Kanban-Methodik spielt eine wichtige Rolle in JIT (Just in time)[^2][^3], auch wie TPS ([Toyota Production System](Toyota_Produktionssystem.md))[^5] bekannt, und war hier auch zum ersten Mal benutz.
+Kanban-Technik ist meistens Taiichi Ohno[^1] gekennzeichnet, der Kanban für den ersten Mal in Toyota verwendet hat. Die Kanban-Methodik spielt eine wichtige Rolle in JIT (Just in time)[^2][^3], auch wie TPS ([Toyota Production System](Toyota_Produktionssystem.md))[^5] bekannt, und wurde hier auch zum ersten Mal benutzt.
 
 # Die Kanban-Vorteile für das Projektmanagement
 
 Die Vorteile des Kanbans sind sehr breit. Ursprünglich ist die Technik gemeint, um WIP (Work in Progress) und die Gesamtkosten des Bestandszustands zu minimalisieren [^6]. Außerdem hilft die Kanban-Technik die Arbeit besser zu visualisieren, indem uns die Übersicht über alle Projektsaufgaben gibt, und auch limitiert die Arbeit im Prozess, die auf einzelnen Mitarbeitern liegt [^7]. Sogar laut einer Studie, zeigt Kanban bessere Ergebnisse der Effektivität für die Softwaresentwicklungsprojekte im Vergleich zu [Scrum](SCRUM.md)[^8].
 
-# Die Prinzipe und Gewohnheiten in Kanban
+# Die Prinzipien und Praktiken in Kanban
 
-Kanban kann sehr flexibel benutzt werden und die Nutzung in der Praxis ist ziemlich einfach. Trotzdem gibt es hier 4 Grundprinzipe und Gewohnheiten[^9], nach denen sich Kanban richten sollen. Das Bild unten zeigt sie:
+Kanban kann sehr flexibel benutzt werden und die Nutzung in der Praxis ist ziemlich einfach. Trotzdem gibt es hier 4 Grundprinzipien und Praktiken[^9], nach denen sich Kanban richten sollen. Das Bild unten zeigt sie:
 
 ![Principles and practises_Kanban](https://user-images.githubusercontent.com/93159758/142882383-041e68f1-48de-46d3-9a21-58d63cc31723.png)
 
-*Bild 1.[^10], Kanban-Gewohnheiten und Prinzipe*
+*Bild 1.[^10], Kanban-Praktiken und Prinzipien*
 
 # WIP-Limite Feststellung and warum sind diese Limite bedeutend?
 
