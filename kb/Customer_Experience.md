@@ -12,6 +12,9 @@ Dies ist ein Marketingbegriff. Customer Experience (CX) ist die Summe der Erfahr
 
 Customer_Experience ist so bedeutungsvoll, weil sie enormes Einfluss auf das Geschäftsergebnis vom Unternehmen hat. Deswegen ist es für das Unternehmen eine große Kampfansage, in einem wettbewerbsintensiven Geschäftsumfeld Käufern zu gewinnen. 
 Es ist eine echte Herausforderung, in einem wettbewerbsintensiven Geschäftsumfeld Kunden zu gewinnen und zu binden. Unternehmen, die den Aspekt einer nahtlosen und effektiven Customer Experience ignorieren, ziehen den Kürzeren gegenüber Firmen, die wissen, dass der Kunde im Mittelpunkt ihres Handelns steht.[^1]
+Im Laufe der Zeit gewinnt CX immer mehr an Bedeutung, wie eine Studie des Beratungsunternehmens Walker belegt, dass CX ab 2020 zum wichtigsten Markenkriterium geworden ist, und damit wichtiger als Preise oder auch Produkte.
+
+![Beispielabbildung](Customer_Experience/CX1.png)
 
 
 # Customer_Experience richtig umsetzen bei produktiven Unternehmen:
@@ -22,7 +25,7 @@ Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme dire
 „Die Customer Experience umfasst jede einzelne Interaktion eines Kunden mit einem Unternehmen, in jeder einzelnen Phase der Customer Journey, darunter das Marketingmaterial, das er sieht, ehe er Kunde wird, das Verkaufserlebnis, die Qualität des Produkts und der Kundenservice im Anschluss an den Kauf.“, sagt Dave Dyson, Senior Customer Service Evangelist, Zendesk
 
 
-![Beispielabbildung](Customer_Experience/Customer_Experience.png)
+![Beispielabbildung 1](Customer_Experience/Customer_Experience.png)
 
 
 
