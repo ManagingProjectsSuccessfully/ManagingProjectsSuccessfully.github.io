@@ -89,7 +89,7 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. 
   * [Kurs Projekt- und Zeitmanagement: Projektcontrolling](https://www.youtube.com/watch?v=2OTCNh0TzLw)
 * Deep Dive: 
   * [Controlling in Projekten – auf was Sie bei Einzel- und Multiprojekten dringend achten sollten](https://www.youtube.com/watch?v=la1PUSoGBxk)
-  * Zirkler B., Nobach K., Hofmann J., Behrens S. (2019) Das Projektcontrolling. In: Projektcontrolling. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-658-23714-1_3
+  * Zirkler B., Nobach K., Hofmann J., Behrens S. (2019) *Projektcontrolling: Leitfaden für die betriebliche Praxis*. Springer Gabler. https://doi.org/10.1007/978-3-658-23714-1_3
 
 # Quellen
 
