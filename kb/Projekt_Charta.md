@@ -12,12 +12,12 @@ Die Projekt Charta ist ein Dokument das die wichtigsten Punkte eines Projekts sc
 # Was ist die Projekt Charta
 Der Begriff "Projekt Charta" ist nicht normiert, daher wird dieses Dokument in Deutsch auch als "Projektauftrag", "Auftrag" oder "Projektvereinbarung" bezeichnet. Auf Englisch wird der Begriff des "Projekt Charter" benutzt.[^4]
 
-Dem Projekt Charta eilt meistens ein [Projektantrag](Projektantrag.md) bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.[^1][^4]
+Der Projekt Charta eilt meistens ein [Projektantrag](Projektantrag.md) bzw. Projektvorschlag vor, worin Ausgangslage, Ziele, Projektergebnisse, Kosten sowie Nutzen und Organisation beinhaltet sind.[^1][^4]
 
 Durch die Projekt Charta wird sichergestellt, dass [Sponsor](Who_is_Who_Projectmanagement.md) und der [Projektleiter](Projektleiter.md) auch das gleiche Ziel beim Projekt anstreben und den Mitteln dazu bewusst sind.[^1][^3] Bei externen Dienstleistern wird der Projektauftrag durch einen formellen Vertrag ersetzt.[^4]
 
 
-## Funktionen eines Projekt Charta im Projektverlauf
+## Funktionen einer Projekt Charta im Projektverlauf
 
  Die Projekt Charta begleitet den [Projektleiter](Projektleiter.md), das Team sowie weitere [Stakeholder](Who_is_Who_Projectmanagement.md) vom Projektanfang bis -ende.[^2][^7] Daher bietet es im Laufe des Projekts eine Vielzahl an Funktionen.[^1]
 
@@ -49,11 +49,11 @@ Durch die Projekt Charta wird sichergestellt, dass [Sponsor](Who_is_Who_Projectm
 
 ---
 
-## Bestandteile eines Projekt Charta
+## Bestandteile einer Projekt Charta
 
-Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Charta nicht normiert.[^1][^4] Daher kann der Projekt Charta nur eine Seite als auch ein ganzes Handbuch umfassen.[^8] Da die Projekt Charta auf dem Projektantrag basiert, kommen einige Elemente im Projekt Charta nochmal vor.
+Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Charta nicht normiert.[^1][^4] Daher kann die Projekt Charta nur eine Seite als auch ein ganzes Handbuch umfassen.[^8] Da die Projekt Charta auf dem Projektantrag basiert, kommen einige Elemente im Projekt Charta nochmal vor.
 
-- Folgendes wird als fester Bestandteil eines Projekt Charta angesehen[^5][^6]:
+- Folgendes wird als fester Bestandteil einer Projekt Charta angesehen[^5][^6]:
 
   - Projektname und Projektbezeichnung
   - Projektdauer (konkret Beginn und Ende, Zwischenziele, bestimmte Ereignisse, etc.)
@@ -61,8 +61,7 @@ Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Cha
   - Projektteam (interne u. externe Mitarbeiter, Dienstleister, etc.)
   - Projektorganisation, Rollenverteilung
 
-- Folgendes kann in einem Projekt Charta enthalten sein[^1]:
-
+- Folgendes kann in einer Projekt Charta enthalten sein[^1]:
 
   - Initiator des Projektes, Projektauftraggeber, Projektleiter
   - Datum und Unterschrift von Auftraggeber und Projektleiter (bei internen Projekten große symbolische Wirkung)
@@ -80,16 +79,15 @@ Wie der Begriff ist auch der Inhalt und somit die Bestandteile eines Projekt Cha
   - Vertragsbezogene Inhalte (insbes. Vergütungsvereinbarungen)
 
 ## Häufige Fehler beim erstellen einer Projekt Charta[^9]
-- Unklare [Zielsetzungen](Ziel_Planung.md)
-- Unzureichende Formulierung der Problemstellung
-- Viele Statistiken einbauen
-- Unklare definition der [Rollen](Rollen_klassisch.md) und Verantwortlichkeiten also [Rollenkonflikte](Rollenkonflikte.md)
+
+Unklare [Zielsetzungen](Ziel_Planung.md) sowie unzureichende Formulierungen der Problemstellung können dazu führen, dass die Ziele des Projekts von den Stakeholdern nicht richtig interpretiert werden. Es entstehen Zielverfehlungen, im Sinne von, dass mehr oder auch weniger als die vorhergesehenen Ziele erreicht werden.
+
+Statistiken in der Projekt Charta können den Stakeholdern beim Verständnis helfen. Zu viele Statistiken einzubauen steigert jedoch zur komplexität und verletzt die Grundeigenschaften der Projekt Charta.
+
+Durch unklares definieren der [Rollen](Rollen_klassisch.md) und Verantwortlichkeiten entstehen [Rollenkonflikte](Rollenkonflikte.md). Genau das wird mit einer Projekt Charta abgezielt zu vermeiden.
 
 ### Wie vermeiden?
-- Einfache Wortwahl treffen
-- Formulierungen und Definitionen mit kurzen Sätzen bilden
-- Auf Anschaulichkeit und klare Übersichtlichkeit achten
-
+Um diese und ähnliche Fehler zu vermeiden; Sollte eine einfache Wortwahl getroffen, Formulierungen und Definitionen mit kurzen Sätzen gebildet werden und auf Anschaulichkeit sowie klare Übersichtlichkeit geachtet werden.
 
 ## Beispiel einer Projekt Charta
 Durch folgende Projekt Charta[^10], ist ein Projekt, das eine Fast Food App abzielt, übersichtlich dargestellt.
