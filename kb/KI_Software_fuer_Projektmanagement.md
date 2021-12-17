@@ -4,9 +4,10 @@ tags: agil
 author: Aseuc
 anrechnung: a
 ---
+Unter der Abkürzung KI ist die Künstliche Intelligenz zu verstehen oder auch AI, welche ausgeschrieben artifizielle Intelligenz ist.
+Die KI-Software für das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ist ein sehr neues Thema, Laut der Studie von "pwc" mit dem Titel "Künstliche Intelligenz in Unternehmen" gaben 23% der Befragten Unternehmen an im Projektmanagement mit künstlicher Intelligenz gearbeitet zu haben. Unter anderem sind 90% der Projektmanagement-Experten überzeugt sind vom Einsatz von KI im [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) und Projektmanagement, dennoch scheinen nur 4% der Unternehmen KI großflächig einzusetzen.[^7]
 
-Die KI-Software für das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ist ein sehr neues Thema, denn nur 23% der Befragten gaben an im Projektmanagement mit künstlicher Intelligenz gearbeitet zu haben. 
-Obwohl 90% der Projektmanagement-Fachleute überzeugt sind vom Einsatz von KI im Projekt und Projektmanagement, scheinen dennoch nur 4% der Unternehmen KI großflächig einzusetzen. Die KI-Software die am häufigsten verwendet werden sind beispielsweise Analysetools[^8], Chat-Bots[^9] oder robotergestützte Prozessautomatisierung[^10][^1].
+Die KI-Software die am häufigsten verwendet werden sind beispielsweise Analysetools[^8], Chat-Bots[^9] oder robotergestützte Prozessautomatisierung[^10].[^1]
 
 * [Was ist KI-Software?](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Quelle-,Was%20ist%20KI%2DSoftware%3F,-Zun%C3%A4chst%20ist%20die)
   - [Arten von KI-Software](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Entscheidungen%20f%C3%A4llen%20k%C3%B6nnen.-,Arten%20von%20KI%2DSoftware,-Unter%20anderem%20wird)
@@ -18,26 +19,31 @@ Obwohl 90% der Projektmanagement-Fachleute überzeugt sind vom Einsatz von KI im
 * [Quellen](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=kann%27s%3F%20(Teil%202)-,Quellen,-Footnotes) 
 
 # Was ist KI-Software? 
-Zunächst ist die Künstliche Intelligenz ein Gebiet aus der Informatik[^11], dabei beschäftigt sie sich mit der Automatisierung[^12], maschinellen Lernen[^13] oder dem intelligenten Verhalten[^2]. Des Weiteren soll die KI menschliche Verhaltensmuster imitieren oder bestimmte Entscheidungen fällen können.
+Zunächst ist die Künstliche Intelligenz ein Gebiet aus der Informatik[^11], dabei beschäftigt sie sich mit der Automatisierung[^12], maschinellen Lernen[^13] oder dem intelligenten Verhalten. Des Weiteren soll die KI menschliche Verhaltensmuster imitieren oder bestimmte Entscheidungen fällen können.[^2]
 
 ## Arten von KI-Software
-Unter anderem wird unterschieden zwischen starker und schwacher Künstlicher Intelligenz, die starke KI ist in der Lage ein selbstbewusstes Bewusstsein zu entwickeln, welches die Fähigkeit besitzt, Probleme zu lösen, zu lernen und in die Zukunft zu planen. Des Weiteren ist sie nicht abhängig von menschlichen Eingriffen, da sie sich selbst beibringt Probleme zu lösen. Die schwache KI hingegen ist auf die Ausführung von bestimmten Aufgaben beschränkt, wie das ausführen von Schachzügen oder das beantworten von Fragen. Die schwache KI kann nur eine Art von Aufgabentyp gleichzeitig bewältigen und ist auf menschliche Hilfe angewiesen. Beispiele einer schwachen KI wären selbstfahrende Autos[^14], Alexa, Siri oder auch virtuelle Assistenten wie Watson Assistant[^15][^3]. 
+Unter anderem wird unterschieden zwischen starker und schwacher Künstlicher Intelligenz, die starke KI ist in der Lage ein selbstbewusstes Bewusstsein zu entwickeln, welches die Fähigkeit besitzt, Probleme zu lösen, zu lernen und in die Zukunft zu planen. Des Weiteren ist sie nicht abhängig von menschlichen Eingriffen, da sie sich selbst beibringt Probleme zu lösen. Die schwache KI hingegen ist auf die Ausführung von bestimmten Aufgaben beschränkt, wie das Ausführen von Schachzügen oder das Beantworten von Fragen. Die schwache KI kann nur eine Art von Aufgabentyp gleichzeitig bewältigen und ist auf menschliche Hilfe angewiesen. Beispiele einer schwachen KI wären selbstfahrende Autos[^14], Alexa, Siri oder auch virtuelle Assistenten wie Watson Assistant[^15].[^3] 
 
 # Nutzen und Relativierung
 
 ## Nutzen von KI-Software für Projektmanagement
-Die Künstliche Intelligenz bietet ab einer gewissen Komplexität von Projekten, welche viel Pflege benötigen oder wenn die Aufwandsabschätzung sehr viel Zeit beansprucht, weshalb andere Tätigkeiten vernachlässigt werden[^4], eine Effizienzssteigerung[^5]. Bei der Verwendung von KI im Projektmanagement ist vor allem das maschinelle Lernen relevant, dabei unterstützt und löst die KI Anwendungsprobleme im Projektmanagement. Des Weiteren werden anhand von Anwendungsfall und Datenlage die Künstlichen Intelligenzen fortlaufend trainiert, und optimieren dadurch die Entscheidungsfindung. Die KI lernt durch verschiedene Ansätze wie "Supervised Learning","Unsupervised Learning" und "Reinforcement Learning", welche im Bild 1 näher Beschrieben werden[^4]. 
+Die Künstliche Intelligenz bietet ab einer gewissen Komplexität von Projekten eine Effizienzsteigerung, vor allem wenn diese viel Pflege benötigen oder wenn die Aufwandsabschätzung sehr viel Zeit beansprucht. Bei der Verwendung von KI im Projektmanagement ist vor allem das [maschinelle Lernen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Machine_Learning_im_Projektmanagement.md) relevant, dabei unterstützt und löst die KI Anwendungsprobleme im Projektmanagement. Des Weiteren werden anhand von Anwendungsfall und Datenlage die Künstlichen Intelligenzen fortlaufend trainiert und optimieren dadurch die Entscheidungsfindung. Die KI lernt durch verschiedene Ansätze wie "Supervised Learning","Unsupervised Learning" und "Reinforcement Learning", welche im Bild 1 näher beschrieben werden.[^4]
 
-Bild 1: 
+Lernmethoden für Maschinelles Lernen[^4]: 
 
 ![kuenstliche_intelligenz_im_projektmanagement-b2](https://user-images.githubusercontent.com/78257976/141346922-8c5eda9d-261d-4818-8318-b40a02721b30.jpg)
 
 
-Des Weiteren sind Künstliche Intelligenzen in der Lage frühzeitig Termin- oder Ressourcenengpässe zu erkennen, welche beispielsweise bei Fehler-Raten oder beim Abarbeitungstempo von Arbeitspaketen möglich sind. Weitere Aspekte wobei die KI-Software für das Projektmanagement von Vorteil sein kann ist die Übernahme repetitiver Arbeiten, wie Meeting-Organisation oder beim Projektcontrolling liefert die KI automatisch Warnsignale bei Gefährdung der Einhaltung von Budget- oder Terminvorgaben. Darüber hinaus werden komplexe Analysen durch die KI vereinfacht wie zum Beispiel die Wert- und Risikoanalyse[^6]. Derzeit gibt es viele Anbieter wie ONE LOGIC[^16], IBM[^17], SAP Analytics Cloud[^18] oder auch Tableau[^19], welche KI-Software zur Verfügung stellen und somit das Projektmanagement und ihre Mitarbeiter unterstützen kann. 
+Des Weiteren sind Künstliche Intelligenzen in der Lage frühzeitig Termin- oder Ressourcenengpässe zu erkennen, welche beispielsweise bei Fehler-Raten oder beim Abarbeitungstempo von Arbeitspaketen möglich sind. Weitere Aspekte, wobei die KI-Software für das Projektmanagement von Vorteil sein kann ist die Übernahme repetitiver Arbeiten, wie Meeting-Organisation oder beim Projektcontrolling liefert die KI automatisch Warnsignale bei Gefährdung der Einhaltung von Budget- oder Terminvorgaben. Darüber hinaus werden komplexe Analysen durch die KI vereinfacht wie zum Beispiel die Wert- und [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md).[^6] 
+
+Derzeit gibt es viele Anbieter wie ONE LOGIC[^16], IBM[^17], SAP Analytics Cloud[^18] oder auch Tableau[^19], welche KI-Software zur Verfügung stellen und somit das Projektmanagement und ihre [Mitarbeiter](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) unterstützen kann.[^6] 
 
 ## Relativierung von Bedenken an die KI-Software für Projektmanagement
-Zunächst ist KI-Software nicht dazu da die Mitarbeiter zu überwachen[^6] oder zu ersetzen[^7], sie soll lediglich ein nachhaltiges Arbeitstempo schaffen, Engpässe erkennen und Mitarbeiter:innen in der Projektarbeit vor Lastspitzen schützen und eine höhere Zufriedenheit gewähren[^6]. Des Weiteren sind die Bedenken, dass der Mitarbeiter durch eine KI  ersetzt wird eher unwahrscheinlich, denn die Handlungsempfehlungen zu verhandeln oder Stakeholder zu akquirieren werden auch in Zukunft ein Projektmanager:innen übernehmen müssen. Außerdem werden Projektmanager:innen nicht nur noch für das Treffen von Entscheidungen oder für die Stakeholderakquise zuständig sein sondern auch für die Implementierung von AI-Systemen[^5]. Ein weiterer Aspekt der die Bedenken schmälern könnte ist, dass die Entwicklung sogennanter "starker KI", welche ein eigenes Bewusstsein besitzen[^3], bis 2033 eine Wahrscheinlichkeit von 50% hat[^6].
+Zunächst ist KI-Software nicht dazu da die Mitarbeiter zu überwachen[^6] oder zu ersetzen[^7], sie soll lediglich ein nachhaltiges Arbeitsgeschwindigkeit schaffen, Engpässe erkennen und Mitarbeiter in der Projektarbeit vor Lastspitzen schützen und eine höhere Zufriedenheit gewähren.[^6]
 
+Des Weiteren sind die Bedenken, dass der Mitarbeiter durch eine KI  ersetzt wird eher unbegründet, denn die Handlungsempfehlungen zu verhandeln oder [Stakeholder](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholdermanagement.md) zu akquirieren werden auch in Zukunft ein Projektmanager übernehmen müssen. Außerdem werden Projektmanager nicht nur noch für das Treffen von Entscheidungen oder für die Stakeholderakquise zuständig sein sondern auch für die Implementierung von AI-Systemen.[^5] 
+
+Ein weiterer Aspekt, der die Bedenken schmälern könnte ist, dass die Entwicklung sogenannter "starker KI" bis 2033 lediglich mit einer Wahrscheinlichkeit von weniger als 50% erfolgreich abgeschlossen sein wird.[^6]
 
 # Siehe auch
 - [KI_im_Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/KI_im_PM.md)
@@ -46,8 +52,8 @@ Zunächst ist KI-Software nicht dazu da die Mitarbeiter zu überwachen[^6] oder 
 
 
 # Weiterführende Literatur
-- Buch: [Crashkurs KI im Unternehmen](https://shop.haufe.de/prod/cashkurs-ki-im-unternehmen),
-- Video: [KI im Projektmanagement – was kann's? (Teil 1)](https://www.youtube.com/watch?v=eBtxz60kCjY),
+- Buch: [Crashkurs KI im Unternehmen](https://shop.haufe.de/prod/cashkurs-ki-im-unternehmen)
+- Video: [KI im Projektmanagement – was kann's? (Teil 1)](https://www.youtube.com/watch?v=eBtxz60kCjY)
 - Video: [KI im Projektmanagement – was kann's? (Teil 2)](https://www.youtube.com/watch?v=mr5EBwpVR4Y)
 - Video: [Von Chatbots bis zu Waffensystemen - Fluch und Segen der Künstlichen Intelligenz | SWR Doku](https://www.youtube.com/watch?v=oNk6ESLpxKI)
 
