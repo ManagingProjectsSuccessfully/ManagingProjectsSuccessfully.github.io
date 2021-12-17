@@ -5,21 +5,21 @@ author: ga88maby
 anrechnung: a
 ---
 
-Dies ist ein Marketingbegriff. Customer Experience (CX) ist die Summe der Erfahrungen des Käufers mit einem Unternehmen oder auch einer Marke. Die Erfahrungen ergeben sich aus der positiven oder negativen Bewertung, die der Kunde an den verschiedenen Kontaktpunkten (Touchpoints) während der Customer Journey sammelt. Eine erfolgreiche Customer Experience zeichnet sich dadurch aus, dass der Kunde eine Wiederholung anstrebt und das Unternehmen weiterempfehlt
+Dies ist ein Marketingbegriff. Customer Experience (CX) ist die Summe der Erfahrungen des Käufers mit einem Unternehmen oder auch einer Marke. Die Erfahrungen ergeben sich aus der positiven oder negativen Bewertung, die der Kunde an den verschiedenen Kontaktpunkten (Touchpoints) während der Customer Journey sammelt. Eine erfolgreiche Customer Experience zeichnet sich dadurch aus, dass der Kunde eine Wiederholung anstrebt und das Unternehmen weiterempfehlt.
 
 
 # Warum ist Customer_Experience unverzichtbar & essenziell:
 
-Customer_Experience ist so bedeutungsvoll, da die Customer_Experience großer Einfluss auf das Betriebsergebnis vom Unternehmen hat, außerdem ist es für die Unternehmen eine große Kampfansage, in einem wettbewerbsintensiven Geschäftsumfeld Käufern zu gewinnen sowie zu binden. 
+Customer_Experience ist so bedeutungsvoll, weil sie enormes Einfluss auf das Geschäftsergebnis vom Unternehmen hat. Deswegen ist es für das Unternehmen eine große Kampfansage, in einem wettbewerbsintensiven Geschäftsumfeld Käufern zu gewinnen. 
+Es ist eine echte Herausforderung, in einem wettbewerbsintensiven Geschäftsumfeld Kunden zu gewinnen und zu binden. Unternehmen, die den Aspekt einer nahtlosen und effektiven Customer Experience ignorieren, ziehen den Kürzeren gegenüber Firmen, die wissen, dass der Kunde im Mittelpunkt ihres Handelns steht.[^1]
 
-Firmen, die die wichtige Rolle von Customer Experience auslasen, ziehen den Kürzeren gegenüber Firmen, die Ihnen schon bewusst ist, dass der Kunde in der Mitte ihres Handelns ist. Ungefähr jeder zweiter Kunde wechselt schon nach nur eine schlechte Erfahrung zu einem anderen Konkurrenten, bei mehr als eine schlechte Erfahrung wechseln die meisten Kunden zu anderen Anbietern.
 
 # Customer_Experience richtig umsetzen bei produktiven Unternehmen:
 Die Unternehmen verfolgen mehrere Methoden, um Customer_Experience zu verwirklichen. Das Marketing besteht auf drei unverzichtbaren Bestandteilen, und zwar:  Einfachheit, Effektivität und Empathie beziehungsweise Emotion, diese Komponenten machen die Customer_Experience im Wesentlichen aus.
 
 Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme direkt vom Unternehmen gelöst werden und sie lieber ohne Zeitverzögerung zu den Produkten bzw. Dienstleistung für den Kunden zu leiten. Nachdem das Unternehmen diesen Grundlagen erfüllt, ist es dann möglich den Kunden mit extra zusätzlichen Leistungen z.B. Sonderrabatte oder andere Vergünstigung zu begeistern und dementsprechend sich an das Unternehmen stärkere binden.
 
-„Die Customer Experience umfasst jede einzelne Interaktion eines Kunden mit einem Unternehmen, in jeder einzelnen Phase der Customer Journey, darunter das Marketingmaterial, das er sieht, ehe er Kunde wird, das Verkaufserlebnis, die Qualität des Produkts und der Kundenservice im Anschluss an den Kauf.“, sagt Dave Dyson, Senior Customer Service Evangelist, Zendesk[^1]
+„Die Customer Experience umfasst jede einzelne Interaktion eines Kunden mit einem Unternehmen, in jeder einzelnen Phase der Customer Journey, darunter das Marketingmaterial, das er sieht, ehe er Kunde wird, das Verkaufserlebnis, die Qualität des Produkts und der Kundenservice im Anschluss an den Kauf.“, sagt Dave Dyson, Senior Customer Service Evangelist, Zendesk
 
 
 ![Beispielabbildung](Customer_Experience/Customer_Experience.png)
