@@ -55,14 +55,14 @@ Die unten aufgeführte Tabelle zeigt mögliche Kategorien und deren Einordnung v
 | Klar definierte Kosten | **Ja**  | Nein |
 | Klar definierte Projektdauer | **Ja**  | Nein | 
 
-*agil vs. klassisch* [^3]
+*klassisch vs. agil* [^3]
 
 ## Lösungsansatz
-Eine mögliche Lösung stellt hierbei das [Microsoft PPM](https://www.microsoft.com/de-de/microsoft-365/project/project-portfolio-management)-Tool dar. Da es ein benutzerfreundliches Tool für zentrales Projektmanagement mit einer gemeinsamen Arbeits- und Informationsplattform für Forscher und Projektbeteiligte ist, kann es besonders mangelnde Kommunikation verhindern und die Projektplanung verbessern [^4]. 
+Eine mögliche Lösung stellt hierbei das [Microsoft Project](Microsoft_Project_PM_Tool.md)/[Microsoft Planner](Microsoft_Planner_PM_Tool.md)-Tool dar. Da es ein benutzerfreundliches Tool für zentrales Projektmanagement mit einer gemeinsamen Arbeits- und Informationsplattform für Forscher und Projektbeteiligte ist, kann es besonders mangelnde Kommunikation verhindern und die Projektplanung verbessern [^4]. 
 
 Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 1. zentrales Speichern und Auswerten, standardisierte Dokumentablage durch SharePoint
-2. [Top-down-Kommunikation](https://de.wikipedia.org/wiki/Top-down_und_Bottom-up), [Bottom-up-Prinzip](https://de.wikipedia.org/wiki/Top-down_und_Bottom-up), Meilensteinübersicht, Projektampeln (Erweiterung Multiprojekt)
+2. [Top-down-Planning](Top_Down_Planning.md), [Bottom-up-Planning](Bottom_Up_Planning.md), Meilensteinübersicht, Projektampeln (Erweiterung Multiprojekt)
 3. Verknüpfung zum eigenen/firmenübergreifenden Termin-/Projektplan (Erweiterung Softlinks)
 4. detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und Controllern (Erweiterung ERP-System) [^4]
 
@@ -79,6 +79,8 @@ Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 * [Projektarten](Projektarten.md)
 * [Innovationsprojekte](Innovationsprojekte.md)
 * [Entwicklungsprojekte](Entwicklungsprojekte.md)
+* [Wissensmanagament](Wissensmanagament.md)
+* [Oeffentliche_Projekte](Oeffentliche_Projekte.md)
 * [Uebersicht_PM_Tools](Uebersicht_PM_Tools.md)
 * [Microsoft_Planner_PM_Tool](Microsoft_Project_PM_Tool.md)
 * [Microsoft_Project_PM_Tool](Microsoft_Project_PM_Tool.md)
