@@ -13,7 +13,7 @@ Die Stacey-Matrix soll insgesamt erleichtern, für ein bevorstehendes Projekt di
 
 ## Aufbau der Stacey-Matrix
 
-Auf der vertikalen Achse der Matrix wird der Grad der Anforderungen ("Requierements") des Projekts abgetragen. Es wird sich die Frage gestellt, ob die Unsicherheiten über die Anforderungen des Projekts bekannt sind[^1]. 
+Auf der vertikalen Achse der Matrix wird der Grad der Anforderungen ("Requirements") des Projekts abgetragen. Es wird sich die Frage gestellt, ob die Unsicherheiten über die Anforderungen des Projekts bekannt sind[^1]. 
 Die horizontale Achse wird durch den Begriff Technologie beschrieben ("Technological Realization"). Dieser Aspekt betrachtet, ob die Methoden zur Erreichung des Projektziels klar sind[^4]. 
 Die Matrix ist in vier Umfelder aufgeteilt, die jeweils den Komplexitätsgrad der vorliegenden Herausforderung beschreiben.
 
