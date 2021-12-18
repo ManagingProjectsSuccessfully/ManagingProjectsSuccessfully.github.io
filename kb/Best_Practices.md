@@ -27,7 +27,7 @@ Der beigefügte Arbeitsplan zeigt beispielhaft von oben nach unten abgebildet di
 Das schriftliche Festhalten von allen Informationen ist in einem Projekt sehr wichtig. Damit soll sichergestellt werden, dass den Stakeholdern die für sie relevanten Daten zur Verfügung stehen. Des Weiteren kann die [Projektdokumentation](Projektdokumentation.md) später dazu dienen Entscheidungen zu treffen oder nachzuvollziehen, warum bestimmte Entscheidungen getroffen wurden.[^2] 
 
 ## 6. Definierte Start- und Endpunkte
-Zu Beginn eines Projekts sollte ein [Kick-Off-Termin](Projekt_Kick_Off.md) abgehalten werden. Dieser bietet die Gelegenheit in einer Veranstaltung alle Projektbeteiligten zu versammeln, sich kennenzulernen und auf das gemeinsame Arbeiten einzustimmen.[^4] Nach dem Projektende wiederum ist der Moment erreicht, an dem es Zeit ist zu analysieren wie das Projekt abgelaufen ist, welche Fehler gemacht worden sind und was gut gelaufen ist. Hier sollten erneut alle Projektbeteiligten in einer Besprechung zusammengebracht werden, um deren Ansichten über Erfolge und Misserfolge zu sammeln. Ziel ist es die [Lessons learned](Lessons_Learned.md) zu nutzen, um nächste Projekte zu optimieren und ggf. neue Best Practices zu formulieren. Dadurch können im Idealfall auch Kosten und Zeit gespart werden.[^3]
+Zu Beginn eines Projekts sollte ein [Kick-Off-Termin](Projekt_Kick_Off.md) abgehalten werden. Dieser bietet die Gelegenheit in einer Veranstaltung alle Projektbeteiligten zu versammeln, sich kennenzulernen und auf das gemeinsame Arbeiten einzustimmen.[^4] Nach dem Projektende wiederum ist der Moment erreicht, an dem es Zeit ist zu analysieren wie das Projekt abgelaufen ist, welche Fehler gemacht worden sind und was gut gelaufen ist. Hier sollten erneut alle Projektbeteiligten in einer Besprechung zusammengebracht werden, um deren Ansichten über Erfolge und Misserfolge zu sammeln. Ziel ist es die [Lessons Learned](Lessons_Learned.md) zu nutzen, um nächste Projekte zu optimieren und ggf. neue Best Practices zu formulieren. Dadurch können im Idealfall auch Kosten und Zeit gespart werden.[^3]
 
 ## Siehe auch
 
@@ -37,7 +37,7 @@ Zu Beginn eines Projekts sollte ein [Kick-Off-Termin](Projekt_Kick_Off.md) abgeh
 * [Projektplanung](Projektplanung.md)
 * [Projektdokumentation](Projektdokumentation.md)
 * [Projekt-Kick-Off](Projekt_Kick_Off.md)
-* [Lessons learned](Lessons_Learned.md)
+* [Lessons Learned](Lessons_Learned.md)
 
 ## Weiterführende Literatur
 
