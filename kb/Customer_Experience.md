@@ -20,7 +20,16 @@ Im Laufe der Zeit gewinnt CX immer mehr an Bedeutung, wie eine Studie des Beratu
 * Perfekte Customer Experience [^3]
 
 # Teilbereiche der Customer Experience:
-Customer Experience ist kein isoliertes Ereignis, das an einem bestimmten Ort und zu einer bestimmten Zeit auftritt
+Customer Experience ist kein isoliertes Ereignis, das an einem bestimmten Ort und zu einer bestimmten Zeit auftritt,
+sondern sie bildet sich über den gesamten Kundenlebenszyklus.
+Dabei lassen sich verschiedene Teilbereiche unterscheiden:
+![Beispielabbildung](Customer_Experience/CX2.PNG)
+* Teilbereiche der Customer Experience [^4]
+1. Die „Product Experience“: Kundenerlebnis als Reaktion auf das Produkt
+2. Die „Service Experience“: Dies bezieht sich hauptsächlich auf Interaktionserfahrung mit Servicekunden und Serviceunternehmen
+3. Die „Brand Experience“:   Reaktion eines Kunden auf die Marke
+4. Die „Shopping Experience“: beschreibt die Kundenerfahrung, die durch unterschiedliche Reize in der Kaufsituation verursacht wird
+5. Die „Consumption Experience“: Sie fasst das Erlebnis zusammen, das bei der letztendlichen Nutzung des Produktes entsteht. [^5]
 
 
 # Wie wird CX von erfolgreichen Unternehmen umgesetzt?
@@ -65,6 +74,8 @@ Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme dire
 [^2]: https://blog.usu.com/de-de/die-perfekte-customer-experience-schaffen-2020
 
 [^3]: https://blog.usu.com/de-de/die-perfekte-customer-experience-schaffen-2020
+[^4]: https://link.springer.com/chapter/10.1007/978-3-658-27331-6_2
+[^5]: https://link.springer.com/chapter/10.1007/978-3-658-27331-6_2
 *  https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
 *  https://www.sem-deutschland.de/online-marketing-glossar/customer-experience/#Was_bedeutet_Customer_Experience
 *  https://job-wizards.com/de/customer-experience-management-wie-kundinnen-und-kunden-gluecklich-werden-und-bleiben/
