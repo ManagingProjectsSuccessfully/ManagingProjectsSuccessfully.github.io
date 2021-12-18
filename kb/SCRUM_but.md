@@ -32,10 +32,8 @@ Jedes Scrumbut hat meistens folgende Syntax:
 -	Grund, 
 -	Workaround.
 
-Die Abbildung 1 verdeutlicht dabei die typische Syntax eines Scrumbuts anhand eines Beispiels. [^2]
-
 ![Beispielabbildung](SCRUM_but/scrumbut-syntax.jpeg)  
-*Abbildung 1 [^2]*
+*Abbildung 1: Typische Syntax eines Scrumbuts anhand eines Beispiels [^2]*
 
 # Gründe für Scrumbuts 
 Es gibt viele verschieden Gründe warum heutzutage im agilen [Projektmanagement](Projektmanagement.md) oft Scrumbuts genutzt werden. Meistens werden Scrumbuts aber verwendet um kurzfristig Probleme zu lösen. Oft stehen Teams unter Zeitdruck und sehen die Modifizierung des Scrum Guides, durch Scrumbuts, als einzige Lösung um ein Problem möglichst schnell zu beseitigen. Um Zeit zu sparen, könnten beispielsweise einzelne Daily Scrums entfallen, da die Sorge besteht, ein Sprint Ziel zu verpassen [^2]. Ein dringendes Problem würde sich so lösen lassen, dauerhaft sollte dies aber nicht mit solchen Begründungen zur Reduzierung von Daily Scrums führen [^2]. 
