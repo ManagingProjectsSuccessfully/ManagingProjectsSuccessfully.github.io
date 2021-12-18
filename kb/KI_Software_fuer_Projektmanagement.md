@@ -1,6 +1,6 @@
 ---
 title: KI_Software_fuer_Projektmanagement
-tags: KI fuer klassischen und agilen Projektmanagment
+tags: KI fuer klassisches und agiles Projektmanagment
 author: Aseuc
 anrechnung: a
 ---
