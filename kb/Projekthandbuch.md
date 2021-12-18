@@ -43,11 +43,11 @@ Für IT-Projekte öffentlicher Hand hat sich in Deutschland ein Projekthandbuch 
 
 ## Die Projektleitdokumentationen
 
-Ähnlich wie beim [V-Modell](VModell.md) XT, definiert das britisches Projektmanagementsystem [Prince 2](PRINCE2.md) seine Projektleitdokumentationen (PID), die einer Kombination des Projekthandbuchs nach dem [V-Modell](VModell.md) XT und dem Projektauftrag entsprechen. Bestandteile der PID sind zum Beispiel, die Projektdefinition, die Struktur des Projektmanagementteams, der Projektplan und die Qualitäts-, Konfigurations-, Risiko-, und Kommunikationsmanagementstrategie[^4] [^9]. 
+Ähnlich wie beim [V-Modell](VModell.md) XT, definiert das britisches Projektmanagementsystem [Prince 2](PRINCE2.md) seine Projektleitdokumentationen (PID), die einer Kombination des Projekthandbuchs nach dem [V-Modell](VModell.md) XT und dem Projektauftrag entsprechen. Bestandteile der PID sind zum Beispiel die Projektdefinition, die Struktur des Projektmanagementteams, der Projektplan und die Qualitäts-, Konfigurations-, Risiko-, und Kommunikationsmanagementstrategie[^4] [^9]. 
 
 ## Der Project Management Plan
 
-Eine weitere Form des Projekthandbuchs ist der Project Management Plan des [PMBOK Guide](PMBOK_Guide.md). Er wird vom Projektmanager mit seinem Team erstellt und definiert, wie das Projekt ausgeführt, kontrolliert und überwacht wird. Der Project Management Plan umfasst dabei Baselines für Umfang, Zeitplan und Kosten des Projektes, sowie einen Anforderungs-, Änderungs- und Konfigurationsmanagementplan[^4] [^10].
+Eine weitere Form des Projekthandbuchs ist der Project Management Plan des [PMBOK Guide](PMBOK_Guide.md). Dieser wird vom Projektmanager mit seinem Team erstellt und definiert, wie das Projekt ausgeführt, kontrolliert und überwacht wird. Der Project Management Plan umfasst dabei Baselines für Umfang, Zeitplan und Kosten des Projektes, sowie einen Anforderungs-, Änderungs- und Konfigurationsmanagementplan[^4] [^10].
 
 
 
