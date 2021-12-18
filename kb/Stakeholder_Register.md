@@ -7,14 +7,14 @@ anrechnung: k
 Das **Stakeholder Register** ist ein Werkzeug für die Projektplanung.
 
 # Inhalte
-> * [Definition](#definition)
-> * [Erstellung eines Registers](#erstellung-eines-registers)  
->> 1. [Identifizierung der Stakeholder](#identifizierung-der-stakeholder)
->> 2. [Erstellen des Dokuments](#erstellen-des-dokuments)
->> 3. [Analyse der Stakeholder](#analyse-der-stakeholder)
-> * [Vorteile eines Registers](#vorteile-eines-registers)  
-> * [Siehe auch](#siehe-auch)  
-> * [Quellen](#quellen)
+* [Definition](#definition)
+* [Erstellung eines Registers](#erstellung-eines-registers)  
+  1. [Identifizierung der Stakeholder](#identifizierung-der-stakeholder)
+  2. [Erstellen des Dokuments](#erstellen-des-dokuments)
+  3. [Analyse der Stakeholder](#analyse-der-stakeholder)
+* [Vorteile eines Registers](#vorteile-eines-registers)  
+* [Siehe auch](#siehe-auch)  
+* [Quellen](#quellen)
 
 # Definition
 
