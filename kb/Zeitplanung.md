@@ -26,11 +26,11 @@ Zeitplanung im agilen Projektmanagement
 Quelle: [^4]
 
 ## Klassisches Projektmanagement
-Das klassische Projektmanagement folgt einem Schritt-für-Schritt Vorgehen. Das Ziel ist bereits von Anfang an genauestens definiert. Zunächst werden die erforderlichen Tätigkeiten festgelegt, anschließend wird der jeweilige Zeitverbrauch von diesen bestimmt. Die kumulierten Zeitverbräuche der einzelnen Tätigkeiten ergeben dann in der Summe die Zeitspanne des Projekts. Durch dieses Vorgehen wird der Projektablaufplan, mit den genauen Etappen festgelegt. Hierbei bestimmt das jeweilige Projektverlaufsmodell die Gestalt des Planes. [^5]
-Zeitplanung im klassischen Sinne ist somit ist die Bestimmung der Projektdauer, mit Einberechnung von Zeitreserven und den damit entstehenden Anfangs- und Endzeitpunkten für einzelne Prozesse. [^6]
+Das klassische Projektmanagement folgt einem Schritt-für-Schritt Vorgehen. Das Ziel ist bereits von Anfang an genauestens definiert. Zunächst werden die erforderlichen Tätigkeiten festgelegt, anschließend wird der jeweilige Zeitverbrauch von diesen bestimmt. Die kumulierten Zeitverbräuche der einzelnen Tätigkeiten ergeben dann in der Summe die Zeitspanne des Projekts. Durch dieses Vorgehen wird der Projektablaufplan mit den genauen Etappen festgelegt. Hierbei bestimmt das jeweilige Projektverlaufsmodell die Gestalt des Planes. [^5]
+Zeitplanung im klassischen Sinne ist somit die Bestimmung der Projektdauer, mit Einberechnung von Zeitreserven und den damit entstehenden Anfangs- und Endzeitpunkten für einzelne Prozesse. [^6]
 
 ![Zeitplanung klassisches PM](/kb/Zeitplanung/klassisches_PM.jpg) 
-Zeitplanung im klasischen Projektmanagement
+Zeitplanung im klassischen Projektmanagement
 Quelle: [^5]
 
 # Projektablaufplan
@@ -55,7 +55,7 @@ Ein Beispiel hierfür wären klassische [Bauprojekte](Bauprojekte.md). Die gesch
 
 ## Nachteile [^10]
 *	Kaum Flexibilität 
-*	Risiko von Realitätsfernheit 
+*	Risiko von Realitätsferne 
 * Schnelles reaktives Handeln nicht möglich
 
 
