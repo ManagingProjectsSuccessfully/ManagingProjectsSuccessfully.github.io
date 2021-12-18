@@ -73,7 +73,7 @@ Der fünfte Punkt von SMARTen Zielen ist die Terminierung. Für ein Ziel sollte 
 
 # Weiterführende Literatur
 
-* Hilmer S. und Krieg A. (2014): [Stanardisierung vs. Kultur: Klassisches und agiles Projektmanagement im Vergleich.](https://dl.gi.de/handle/20.500.12116/3061). In: Engstler, M., Hanser, E., Mikusz, M. & Herzwurm, G. (Hrsg.), Projektmanagement und Vorgehensmodelle 2014 - Soziale Aspekte und Standartisierung. Bonn: Gesellschaft für Informatik e.V.. (S. 47-57). 
+* Hilmer S. und Krieg A. (2014): [Stanardisierung vs. Kultur: Klassisches und agiles Projektmanagement im Vergleich.](https://dl.gi.de/handle/20.500.12116/3061). In: Engstler, M., Hanser, E., Mikusz, M. & Herzwurm, G. (Hrsg.), Projektmanagement und Vorgehensmodelle 2014 - Soziale Aspekte und Standartisierung. Bonn: Gesellschaft für Informatik e.V.. (S. 47-57)
 * Drews G. und Hillebrand N. (2007): [Lexikon der Projektmanagement-Methoden](https://books.google.de/books?hl=de&lr=&id=1dJE3EYYpasC&oi=fnd&pg=PA6&dq=Projektmanagement+methoden&ots=8tbNjJVYTi&sig=f2JWMSfJpp2Lfyq78Jin1lhXwBk&redir_esc=y#v=onepage&q=Projektmanagement%20methoden&f=false). München: Rudolf Haufe Verlag GmbH & Co. KG.
 * Eremit B. und Weber K. (2016): [Individuelle Persönlichkeitsentwicklung: Growing by Transformation](https://link.springer.com/chapter/10.1007/978-3-658-09453-9_16). Wiesbaden: Springer Fachmedien Wiesbaden. (Kapitel 16, S. 93-99)
 
