@@ -31,6 +31,7 @@ Das klassische Projektmanagement folgt einem Schritt-für-Schritt Vorgehen. Das 
 Zeitplanung im klassischen Sinne ist somit die Bestimmung der Projektdauer, mit Einberechnung von Zeitreserven und den damit entstehenden Anfangs- und Endzeitpunkten für einzelne Prozesse. [^6]
 
 ![Zeitplanung klassisches PM](/kb/Zeitplanung/Klassisches_PM_02.jpg) 
+
 Zeitplanung im klassischen Projektmanagement
 Quelle: [^5]
 
