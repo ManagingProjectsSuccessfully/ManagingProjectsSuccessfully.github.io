@@ -45,7 +45,7 @@ Für die Projektmanager gibt es darüber hinaus die Möglichkeit unter dem Regis
 |-------------|-------------|------------|
 | Basic       |  0,00€      | grundlegende Aufgabenverwaltungsfunktionen |
 | Premium     |  9,25€      | erweiterte Aufgabenverwaltungsfunktionen, z.B. Aufgabenabhängigkeiten, benutzerdefinierte Felder;  Timelineansichten, z.B. Gantt-Charts|
-| Business    |  18,75€     | zusätzlich Portfolio-Management, Mitarbeiterzeit-Planung |
+| Business    |  18,75€     | zusätzlich Projektportfolio-Management, Mitarbeiterzeit-Planung |
 | Enterprise  | auf Anfrage | erweiterte Zugangsrechte und Sicherheiten |
 
 Preis bezieht sich auf pro Nutzer pro Monat[^2]
