@@ -12,11 +12,11 @@ anrechnung: k
 
 Die Hemmnisanalyse gehört zu dem Überbegriff des [Projektmanagements](Projektmanagement.md). 
 [Projekte](Projekt.md) werden sehr strukturiert aufgebaut und es werden zu Beginn alle [Ziele](Ziele_Planung.md) und Phasen definiert. 
-Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projektes verzögern oder komplett verhindern. Die Hemmnisanalyse stellt ein Werkzeug da, mit welchem [Zielkonflikte](Zielkonflikte.md) in der Zukunft entgegengewirkt werden soll.[^1]
+Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projektes verzögern oder komplett verhindern. Die Hemmnisanalyse stellt ein Werkzeug dar, mit welchem [Zielkonflikte](Zielkonflikte.md) in der Zukunft entgegengewirkt werden soll.[^1]
 
 Die Hemmnisanalyse wurde durch das Europäisches Forschungsprojekt Relief, sowie der deutschen Forschungsprojekte NaBesI und GeB entwickelt. Die Analyse zielt
-hierbei im engeren Sinne auf Hindernisse bei der umweltfreundlichen Beschaffung ab und beschäftigt sich somit mit [nachhaltigen Projekten](Nachhaltige_Projekte.md). Die Hemmnisanalyse beschäftigt sich vor allem mit dem erkennen von relevanten
-[Projektmitarbeitern](Projektmitarbeiter.md) und das erkennen und bewerten von Hindernissen. [^2]
+hierbei im engeren Sinne auf Hindernisse bei der umweltfreundlichen Beschaffung ab und beschäftigt sich somit mit [nachhaltigen Projekten](Nachhaltige_Projekte.md). Die Hemmnisanalyse beschäftigt sich vor allem mit dem Erkennen von relevanten
+[Projektmitarbeitern](Projektmitarbeiter.md) und das Erkennen und Bewerten von Hindernissen. [^2]
 
 
 ## Ursachen 
@@ -30,7 +30,7 @@ Führungsebene kann zur Hemmung in der [Projektkommunikation](Projektkommunikati
 Die Gruppe **Wollen** beschreibt individuelle Ziele von Akteuren. Akteure wollen Entscheidungen nicht unterstützen, wenn es ihren inneren Einstellungen
 widerspricht. Man könnte bei diesem Hindernis auch von einem personellen Widerstand sprechen.
 
-Betroffene die aufgrund ihrer Qualifikation oder Leistungsfähigkeit, vorhandene Information nicht nutzen können werden der Gruppe des **Wissens** zugeordnet.
+Betroffene, die aufgrund ihrer Qualifikation oder Leistungsfähigkeit vorhandene Information nicht nutzen können, werden der Gruppe des **Wissens** zugeordnet.
 Wissensbarrieren können den Informationsaustausch im [Projektmanagement](Projektmanagement.md) hemmen.
 
 Die Hemmnisgruppe **Können** beschreibt ob ein Betroffener in der Lage ist Informationen zu nutzen. Aber nicht nur Informationsmangel kann ein Hindernis
@@ -47,14 +47,14 @@ Entstehung von Hemmnissen:
 
 
 ## Durchführung einer Hemmnisanalyse
-Eine Hemmnisanalyse besteht aus drei Schritten, die Befragung, die Auswertung und zuletzt die Beurteilung der Ergebnisse sowie Strategien zur Überwindung der
+Eine Hemmnisanalyse besteht aus drei Schritten, die Befragung, die Auswertung und zuletzt die Beurteilung der Ergebnisse, sowie Strategien zur Überwindung der
 Hemmnisse. Diese Schritte entwickelte die Technische Universität Dresden. 
 ### 1. Schritt: Auswahl der Teilnehmer
 Für die erste Phase der Analyse werden Teilnehmer ausgewählt, die in [Interaktion](Interaktion.md) zu dem
-Projekt stehen. Die Teilnehmer bewerten das sogenannte Hemmnisprofil, in welchem mögliche Hindernisse von den Partizipierenden als relevante Hemmnisse, oder
-nicht relevante, eingeordnet werden. 
+Projekt stehen. Die Teilnehmer bewerten das sogenannte Hemmnisprofil, in welchem mögliche Hindernisse von den Partizipierenden als relevante Hemmnisse oder
+nicht relevante eingeordnet werden. 
 ### 2. Schritt: Bewertung der Ergebnisse
-Wahrgenommenen Hemmnisse werden bewertet und von weniger relevanten Hemmnissen zu sehr relevanten geordnet, dies stellt den zweiten Schritt der Analyse dar.
+Wahrgenommenen Hemmnisse werden bewertet und von weniger relevanten Hemmnissen zu sehr relevanten geordnet. Dies stellt den zweiten Schritt der Analyse dar.
 Hierbei kann es sein, dass die Wahrnehmung der Befragten stark variiert. Hier können Veränderungsprozesse beginnen.  
 ### 3. Schritt: Analyse und Strategieentwicklung zur Überwindung
 Der dritte Schritt beinhaltet vor allem die Beurteilung sowie das Herausarbeiten von Strategien zur Bewältigung dieser Hemmnisse. Dabei gibt es mehrere
@@ -66,7 +66,7 @@ Um Hemmnisse erkennen und bewerten zu können gibt es verschiedene [Methoden](Me
 Wie in der Beispielabbildung dargestellt, werden Fragebögen erstellt, um anhand von Skalen mögliche Hindernisse zu bewerten. Bei der Analyse des öffentlichen
 Beschaffungswesens werden zum Beispiel mögliche Hindernisse wie zusätzliche Arbeit, höhrere Kosten und Unsicherheit bzgl. rechtlicher Regelungen aufgelistet.
 Diese Hindernisse werden nun in einem Fragebogen dargestellt und mit einer Skala versehen. Nun können Projektmitarbeiter von "stimme zu" bis "stimme nicht zu"
-bewerten. Diese Bewertung wird dann nach Relevanz geordnet und somit sind die wichtigsten Hindernisse sofort zu sehen. Im letzten Schritt der [Projektplanung]
+bewerten. Diese Bewertung wird anschließend nach Relevanz geordnet und somit sind die wichtigsten Hindernisse sofort zu sehen. Im letzten Schritt der [Projektplanung]
 (Projektplanung.md) werden Strategien zur Vermeidung dieser Hemmnisse entwickelt. Beispielsweise kann eine Rechtsberatung engagiert werden, um rechtliche Unsicherheiten zu klären.[^3]
 
 ![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
@@ -76,7 +76,7 @@ bewerten. Diese Bewertung wird dann nach Relevanz geordnet und somit sind die wi
 
 ## Fazit
 Die vollumfängliche Analyse der Hemmnisse stellt eine Basis für eine kontinuierliche Verbesserung dar. Hemmnisse können so frühzeitig im Projektmanagement
-erkannt werden und mithilfe von Strategien und Maßnahmen überwältigt werden und somit zum [Projektabschluss](Projektabschluss.md) gebracht werden.
+erkannt werden und mithilfe von Strategien und Maßnahmen überwältigt werden, und somit zum [Projektabschluss](Projektabschluss.md) gebracht werden.
 
 
 
