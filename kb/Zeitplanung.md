@@ -49,18 +49,7 @@ Die beste Schätzung gelingt nur auf der Basis von Daten ähnlicher Projekte. Di
 Klassisches Projektmanagement eignet sich am besten für Projekte, welche kompliziert und genauestens ausgearbeitet werden müssen. Aber auch für Projekte die bereits in vergleichbarere Form stattgefunden haben, sogenannte [Routineprojekte](Routineprojekte.md). [^8] 
 Ein Beispiel hierfür wären klassische [Bauprojekte](Bauprojekte.md). Die geschätzte Zeit kann ziemlich genau bestimmt werden, da bestimmte Bauschritte immer gleich lange dauern. [^5]
 
-## Vorteile [^9]
-*	Präzise zeitliche Planung
-*	Transparenz
-*	Klare Aufteilung von Zuständigkeiten
-*	Verschaffung eines Überblicks für jeden
-
-## Nachteile [^10]
-*	Kaum Flexibilität 
-*	Risiko von Realitätsferne 
-* Schnelles reaktives Handeln nicht möglich
-
-|Vorteile|Nachteile|
+|Vorteile [^9]|Nachteile [^10]|
 |----------|---------|
 |Präzise zeitliche Planung|Kaum Flexibilität |
 |Transparenz|Risiko von Realitätsferne |
