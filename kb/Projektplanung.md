@@ -59,12 +59,12 @@ Die Ausrichtung aller Handlungsaspekte auf das Endprodukt und die genaue Vorausp
 
 # Quellen
 
-[^1]: https://www.projektarbeit-projektplanung.de/projektplanung-beispiele/projektplanung-definition/ 
+[^1]: https://www.projektarbeit-projektplanung.de/projektplanung-beispiele/projektplanung-definition/
 [^2]: https://de.wikipedia.org/wiki/Projektplanung
 [^3]: https://www.projektmagazin.de/pmplanung
 [^4]: https://www.brainymotion.de/blog/projektmanagement-klassisch-und-agil-im-vergleich
-[^5]: https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/ 
-[^6]: https://link.springer.com/content/pdf/10.1007%2F978-3-8349-4202-9_3.pdf Buch  
-[^7]: https://www.projektmagazin.de/glossarterm/strategisches-projektmanagement 
+[^5]: https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/
+[^6]: https://link.springer.com/content/pdf/10.1007%2F978-3-8349-4202-9_3.pdf
+[^7]: https://www.projektmagazin.de/glossarterm/strategisches-projektmanagement
 [^8]: https://management.bildungsbibel.de/projektmanagement-wasserfallmodell-softwareentwicklung-phasen
 
