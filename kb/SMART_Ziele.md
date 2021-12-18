@@ -38,7 +38,7 @@ Ein Ziel sollte für alle involvierten Personen attraktiv gestaltet sein, um der
 
 ## Realistisch
 
-Ziele sollten zwar herausfordernd, jedoch nicht utopisch sein. Ist ein Ziel schon bei erster Betrachtung zu kompliziert, oder aufgrund von fehlenden Kompetenzen und Ressourcen nicht umsetzbar, kann das schnell demotivierend wirken. Wichtig ist deshalb, dass das Ziel nach folgenden Kriterien ausgerichtet werden soll:
+Ziele sollten herausfordernd, jedoch nicht utopisch sein. Ist ein Ziel schon bei erster Betrachtung zu kompliziert, oder aufgrund von fehlenden Kompetenzen und Ressourcen nicht umsetzbar, kann das schnell demotivierend wirken. Wichtig ist deshalb, dass das Ziel nach folgenden Kriterien ausgerichtet werden soll:
 
 * Was ist aufgrund der vorhandenen Fähigkeiten und Ressourcen möglich?
 * Müssen weitere Kompetenzen und Ressourcen mit einbezogen werden?
