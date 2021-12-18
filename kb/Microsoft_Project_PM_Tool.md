@@ -60,7 +60,7 @@ Der Meilenstein am unteren, rechten Bildsschirmrand repräsentiert ein Zwischenz
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/MS_Project_Rahmenterminplan.jpg)
 
-*Abbildung 2: Rahmenterminplan*[^4]
+*Abbildung 2: Rahmenterminplan*[^2]
 
 
 
