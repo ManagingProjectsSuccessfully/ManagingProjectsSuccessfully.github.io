@@ -6,9 +6,8 @@ anrechnung: k
 ---
 Genau wie Terminverzögerungen sind Kostenabweichungen ein wichtiges Thema, welches im [Projektmanagement](Projektmanagement.md) gut durchdacht werden muss. Wenn beispielsweise ein Teil der Lieferkette nicht so funktioniert, wie vorgesehen, können Mehrkosten entstehen, wodurch man ziemlich schnell die geplanten Kosten überschreiten kann. Deshalb ist es in der Planung wichtig gewisse Kostenrisiken schon vorher abschätzen zu können. Dabei wird im klassischen Projektmanagement sehr oft die Kostentrendanalyse als Hilfsmittel genutzt! [^1]
 
-## Inhalte
->1. [Definiton](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#definition)  
->2. [Ziele der Kostentrendanalyse](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#ziele-der-kostentrendanalyse)   
+## Inhalte 
+>2. [Ziele der Kostentrendanalyse](#ziele-der-kostentrendanalyse)   
 >3. [Vorteile der KTA](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#vorteile-der-kta)   
 >4. [Nachteile der KTA](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#nachteile-der-kta)  
 >5. [Ablauf einer Kostentrendanalyse](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#ablauf-einer-kostentrendanalyse)  
