@@ -61,6 +61,7 @@ Ein Beispiel hierfür wären klassische [Bauprojekte](Bauprojekte.md). Die gesch
 * Schnelles reaktives Handeln nicht möglich
 
 |Vorteile|Nachteile|
+|----------|---------|
 |Präzise zeitliche Planung|Kaum Flexibilität |
 |Transparenz|Risiko von Realitätsferne |
 |Klare Aufteilung von Zuständigkeiten|Schnelles reaktives Handeln nicht möglich|
