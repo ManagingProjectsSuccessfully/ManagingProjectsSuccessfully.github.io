@@ -92,7 +92,7 @@ Erkenntnisse in Form von [*lessons learned*](Lessons.Learned) gezogen werden, we
 # Siehe auch
 
 * [Link zu Projekt](Projekt.md)
-* [Link zum Projektstrukturplanung](Projektstrukturplanung.md)
+* [Link zum Projektstrukturplan](Projektstrukturplan.md)
 * [Link zur Projektauflösung](Projektaufloesung.md)
 * [Link zu Meilensteintrendanalyse](Meilensteintrendanalyse.md)  
 
