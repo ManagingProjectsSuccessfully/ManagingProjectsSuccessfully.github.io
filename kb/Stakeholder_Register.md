@@ -4,7 +4,7 @@ tags: klassisch
 author: 21Nila
 anrechnung: k
 ---
-Das **Stakeholder Register** ist ein Werkzeug für die Projektplanung
+Das **Stakeholder Register** ist ein Werkzeug für die Projektplanung.
 
 # Inhalte
 * [Definition](#definition)
