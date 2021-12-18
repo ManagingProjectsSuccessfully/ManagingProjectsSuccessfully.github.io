@@ -18,7 +18,7 @@ Die Meilensteintrendanalyse soll den Projektverantwortlichen einen visuellen Üb
 Um eine erfolgreiche Meilensteintrendanalyse durchzuführen, muss das Projekt zu Beginn in sinnvolle Teilprojekte zerlegt und eindeutig definierte Meilensteine festgelegt werden. Dabei müssen die Ziele klar und realistisch gesetzt sein [^4].
 
 ## Einsatzbereiche
-Die Meilensteintrendanalyse kann grundsätzlich bei allen Arten von Projekten angewendet werden. Sie dienen neben der Übersicht für die Interessensgruppen des Projekts auch als Zwischenbericht an das höhere Management [^5]. Außerdem sollte sie bei keinem Projektabschluss fehlen [^6]
+Die Meilensteintrendanalyse kann grundsätzlich bei allen Arten von Projekten angewendet werden. Sie dienen neben der Übersicht für die Interessensgruppen des Projekts auch als Zwischenbericht an das höhere Management [^5]. So sollte sie bei keinem Projektabschluss fehlen [^6]
 
 ## Ablauf
 Nachdem am Anfang des Projektes die Meilensteine festgelegt werden, folgen im Laufe der Projektdurchführung regelmäßige Statusbesprechungen, um die Entwicklung der Meilensteine im Blick zu haben. Dabei sollten alle Mitarbeiter anwesend sein, die für einen oder mehrere Meilensteine verantwortlich sind. Bei diesen Meetings werden neben bereits erledigten Aufgaben, dabei aufgetretene Probleme, Planungsschwächen und die weitere Vorgehensweise für darauffolgende Meilensteine besprochen [^4]. 
