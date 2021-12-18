@@ -19,6 +19,10 @@ Im Laufe der Zeit gewinnt CX immer mehr an Bedeutung, wie eine Studie des Beratu
 
 * Perfekte Customer Experience [^3]
 
+# Teilbereiche der Customer Experience:
+Customer Experience ist kein isoliertes Ereignis, das an einem bestimmten Ort und zu einer bestimmten Zeit auftritt
+
+
 # Wie wird CX von erfolgreichen Unternehmen umgesetzt?
 Die Unternehmen verfolgen mehrere Methoden, um Customer_Experience zu verwirklichen. Das Marketing besteht auf drei unverzichtbaren Bestandteilen, und zwar:  Einfachheit, Effektivität und Empathie beziehungsweise Emotion, diese Komponenten machen die Customer_Experience im Wesentlichen aus.
 
