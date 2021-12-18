@@ -41,7 +41,7 @@ Eine der größten Kritiken an der Stacey-Matrix ist, dass sie zu schnell fehlin
 # Siehe auch
 
 * [Cynefin-Framework](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cynefin-Framework.md)
-* [Scrum-Methode]((https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
+* [Scrum-Methode](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
 
 # Weiterführende Literatur
 
