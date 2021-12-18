@@ -11,7 +11,7 @@ anrechnung: k
 
 Das V-Modell ist ein V-förmiges lineares [Vorgehensmodell](https://de.wikipedia.org/wiki/Vorgehensmodell_zur_Softwareentwicklung) im Projektmanagement, das ein Projekt in fest definierte Phasen unterteilt, welches ursprünglich für die Softwareentwicklung konzipiert wurde. Es ähnelt dem ebenfalls [linearen Wasserfallmodell](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md), mit dem Unterschied, dass es zusätzlich Testphasen gibt, welche den jeweiligen Entwicklungsphasen gegenübergestellt sind. Dies soll beim Entwickeln eines Projekts helfen, die einzelnen Phasen sauber zu testen, zu integrieren und letztendlich als Ganzes zusammenzufügen.[^1][^2] 
 
-## Abbildung V-Modell[^3]
+## Abbildung V-Modell
 
 ![v-modell](https://user-images.githubusercontent.com/92790072/142849508-172e4421-7a7d-435e-bc29-652fe4992df0.jpg)
 
@@ -20,7 +20,7 @@ Das V-Modell ist ein V-förmiges lineares [Vorgehensmodell](https://de.wikipedia
 
 2. Die untere Spitze des V ist die Implementierung, hier entsteht das eigentliche Produkt des Projekts.
 
-3. Die rechte Seite des V ist die "Testseite" des V-Modells. Sie beschreibt, wie die einzelnen entwickelten Bausteine und Funktionen getestet und zu einem Gesamtsystem zusammengefasst werden.
+3. Die rechte Seite des V ist die "Testseite" des V-Modells. Sie beschreibt, wie die einzelnen entwickelten Bausteine und Funktionen getestet und zu einem Gesamtsystem zusammengefasst werden.[^3]
 
 # Die einzelnen Phasen des V-Modells
 Zu 1: Die linke Seite des V wird auch "Entwurfsphase" genannt. Sie übersetzt Anforderungen in einen Systementwurf, der nach dem Top-Down-Prinzip immer weiter verfeinert wird. Wenn sich in einer darüberliegenden Ebene etwas verändert, müssen die darunterliegenden Ebenen angepasst werden, da diese aufeinander aufbauen.
