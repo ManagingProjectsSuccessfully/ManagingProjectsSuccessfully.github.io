@@ -5,7 +5,9 @@ author: Aseuc
 anrechnung: k
 ---
 
-Durch die Risikomatrix oder auch Risikodiagramm, Risikoprofil[^1], wird die Wahrscheinlichkeit bei dem negative Ereignisse aufkommen und deren Auswirkungen in einer Tabelle ins Verhältnis gesetzt.[^3] Die Risikomatrix ist eine zweidimensionale Darstellung, welche der systematischen Evaluierung und Bewertung von Risiken dienen soll. Des Weiteren ist die Risikomatrix ein Instrument aus der [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) und erfolgt in verschiedenen Varianten.[^2]    			
+Durch die Risikomatrix oder auch Risikodiagramm, Risikoprofil[^1], wird die Wahrscheinlichkeit bei dem negative Ereignisse aufkommen und deren Auswirkungen in einer Tabelle ins Verhältnis gesetzt.[^3] 
+
+Die Risikomatrix ist eine zweidimensionale Darstellung, welche der systematischen Evaluierung und Bewertung von Risiken dienen soll. Des Weiteren ist die Risikomatrix ein Instrument aus der [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) und erfolgt in verschiedenen Varianten.[^2]    			
 
 * [Aufbau und Berechnung](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Kritik-,Aufbau%20und%20Berechnung,-Bei%20der%20tabellarischen)
 * [Nutzen und Kritik](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Bild%2011%3A-,Nutzen%20und%20Kritik,-Nutzen%20Allgemein)
@@ -20,7 +22,9 @@ Durch die Risikomatrix oder auch Risikodiagramm, Risikoprofil[^1], wird die Wahr
 # Aufbau und Berechnung
 Bei der tabellarischen Darstellung der Risikomatrix wird an der y-Achse die Eintrittswahrscheinlichkeit[^11] und an der x-Achse die Schadenshöhe angegeben[^4]. Da es aber keine einheitliche Darstellungsform gibt, kann die Matrix auch eine umgekehrte Beschriftung der Achsen haben.[^5]
 
-Die Spalten- und Zeilenbeschriftung erfolgt durch Indizes[^6] oder durch Prozente oder Begriffe wie niedrig bis kritisch[^7]. In der Matrix werden die Risiken so positioniert, sodass eine gewichtete und vergleichende Darstellung besteht.[^8] Durch Färbung der Zellen werden die Risikobereiche gekennzeichnet und ähneln den Farben grün, gelb und rot[^6]. Anhand der Positionen der Risiken im Raster kann die Bedeutung eines Risikos eingeschätzt werden.[^7] 
+Die Spalten- und Zeilenbeschriftung erfolgt durch Indizes[^6] oder durch Prozente oder Begriffe wie niedrig bis kritisch[^7]. In der Matrix werden die Risiken so positioniert, sodass eine gewichtete und vergleichende Darstellung besteht.[^8] 
+
+Durch Färbung der Zellen werden die Risikobereiche gekennzeichnet und ähneln den Farben grün, gelb und rot[^6]. Anhand der Positionen der Risiken im Raster kann die Bedeutung eines Risikos eingeschätzt werden.[^7] 
 
 Durch Multiplikation der Eintrittswahrscheinlichkeit und der Schadenshöhe des Risikos kann der Schadenserwartungswert berechnet werden. Unter anderem ist es möglich, dass bei der Berechnung des Schadenserwartungswertes[^12] sich die beiden Faktoren gegenseitig einschränken und es zu einer falschen Beurteilung über ein Risiko kommt.[^10]
 
