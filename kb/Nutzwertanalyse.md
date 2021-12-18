@@ -78,4 +78,3 @@ Die Nutzwertanalyse findet nicht nur im Projektmanagement Anwendung. Sie wird in
 [^3]: https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/nutzwertanalyse/
 [^4]: https://www.braintool.com/blog/so-erstellen-sie-eine-nutzwertanalyse/
 [^5]: https://www.peterjohann-consulting.de/nutzwertanalyse/
-
