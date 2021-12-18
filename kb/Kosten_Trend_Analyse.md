@@ -64,6 +64,6 @@ Wenn man nun die eingetragenen Kosten über das gesamte Projekt miteinander verb
 
 ## Quellen
 
-[^1]: [Kostentrendanalyse – so planen Sie Kostenabweichungen frühzeitig ein](https://www.management-circle.de/blog/kostentrendanalyse/)
+[^1]: [Kostentrendanalyse – so planen Sie Kostenabweichungen frühzeitig ein](https://www.management-circle.de/blog/kostentrendanalyse/)  
 [^2]: [Kosten-Trendanalyse (Controlling-Wiki)](https://wiki.hslu.ch/controlling/Kosten-Trendanalyse#Ziele)
 
