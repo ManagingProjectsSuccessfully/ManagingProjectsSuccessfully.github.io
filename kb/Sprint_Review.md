@@ -53,7 +53,7 @@ Begonnen wird im Sprint Review meist damit, dass der Product Owner allgemeine Re
 * __Überblick__  
 Weiterführend informiert er in einem kurzen Überblick darüber, was demonstriert werden soll und was der Inhalt des heutigen Meetings ist
   
-* __aktueller Stand__  
+* __Aktueller Stand__  
 Außerdem berichtet er, was bereits erreicht worden ist und welche Aufgaben noch abgeschlossen werden müssen
   
 * __Demonstration durch das Scrum Team__  
