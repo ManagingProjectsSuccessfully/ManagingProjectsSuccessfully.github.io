@@ -11,7 +11,7 @@ Genau wie Terminverzögerungen sind Kostenabweichungen ein wichtiges Thema, welc
 >2. [Vorteile der Kostentrendanalyse](#vorteile-der-kostentrendanalyse)   
 >3. [Nachteile der Kostentrendanalyse](#nachteile-der-kostentrendanalyse)  
 >4. [Ablauf einer Kostentrendanalyse](#ablauf-einer-kostentrendanalyse)  
-  >>* 4.1  [Schritt 1: Diagramm erstellen](#schritt-1:diagramm-erstellen)  
+  >>* 4.1  [Schritt 1: Diagramm erstellen](##schritt-1:diagramm-erstellen)  
   >>* 4.2  [Schritt 2: Plankosten zusammenstellen](#schritt-2:-plankosten-zusammenstellen)  
   >>* 4.3  [Schritt 3: Berichtstermine definieren](#schritt-3:-berichtstermine-definieren)  
   >>* 4.4  [Schritt 4: Kosten eintragen](#schritt-4:-kosten-eintragen)   
