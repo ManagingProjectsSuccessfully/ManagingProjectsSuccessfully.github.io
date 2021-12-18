@@ -99,6 +99,6 @@ Aufgrund der Erstellung des Registers im frühen Projektverlauf, werden durch da
 
 # Quellen
 
-[^1]: [What is a Stakeholder Register and how to create a Stakeholder Register? (remote.tools)](https://www.remote.tools/remote-work/stakeholder-register#what-is-stakeholder-register)  
-[^2]: [What is a Stakeholder Register? (projectmanagementacademy)](https://projectmanagementacademy.net/resources/blog/what-is-a-stakeholder-register/)  
+[^1]: [What is a Stakeholder Register and how to create a Stakeholder Register? (remote.tools)](https://www.remote.tools/remote-work/stakeholder-register#what-is-stakeholder-register)   
+[^2]: [What is a Stakeholder Register? (projectmanagementacademy)](https://projectmanagementacademy.net/resources/blog/what-is-a-stakeholder-register/)   
 [^3]: [How to Create a Stakeholder Management Plan [+ Templates]](https://www.paymoapp.com/blog/stakeholder-management-plan/)
