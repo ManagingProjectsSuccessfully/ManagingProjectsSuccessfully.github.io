@@ -5,7 +5,7 @@ author: Tjara1
 anrechnung: k 
 ---
 
-Die SMART-Methode und deren damit verbundenen Zielanforderungen werden im Projektmanagement oft genutzt, um Ziele einzelner Projekte besser definieren zu können. Der US-amerikanische Management Consultant und Ökonom Peter F. Ducker hat die einzelnen SMART-Merkmale erstmals formuliert. Das [Akronym](https://de.wiktionary.org/wiki/Akronym) S.M.A.R.T steht für spezifisch, messbar, attraktiv, realistisch und terminiert. Im Projektmanagement tragen SMARTe Ziele dazu bei, aus einem Ist-Zustand einen gewollten Soll-Zustand zu erzeugen und dabei nie den Fokus auf das Projekt zu verlieren.[^1][^2][^3][^5]
+Die SMART-Methode und deren damit verbundenen Zielanforderungen werden im Projektmanagement oft genutzt, um Ziele einzelner Projekte besser definieren zu können. Der US-amerikanische Management Consultant und Ökonom Peter F. Ducker hat die einzelnen SMART-Merkmale erstmals formuliert. Das Akronym S.M.A.R.T steht für spezifisch, messbar, attraktiv, realistisch und terminiert. Im Projektmanagement tragen SMARTe Ziele dazu bei, aus einem Ist-Zustand einen gewollten Soll-Zustand zu erzeugen und dabei nie den Fokus auf das Projekt zu verlieren.[^1][^2][^3][^5]
 
 # S.M.A.R.T im klassischen Projektmanagement
 
@@ -17,7 +17,7 @@ Ein Ziel ist nur dann SMART, wenn es alle fünf Aspekte der SMART-Methode berüc
 
 ## Spezifisch
 
-Laut der SMART-Methode müssen Ziele stets spezifisch formuliert sein. Das heißt, um ein Projekt erfolgreich abschließen zu können, benötigt man unmissverständliche und detaillierte Angaben. Vage Beschreibungen und Vorgaben könnten für Verwirrung sorgen und die Erreichung der einzelnen Ziele somit gefährden. Wird ein Ziel spezifisch definiert, sollten folgende Fragen beantwortet werden:
+Laut der SMART-Methode müssen Ziele stets spezifisch formuliert sein. Das heißt, um ein Projekt erfolgreich abschließen zu können, benötigt man unmissverständliche und detaillierte Angaben. Vage Beschreibungen und Vorgaben könnten für Verwirrung sorgen und das Erreichen der einzelnen Ziele somit gefährden. Wird ein Ziel spezifisch definiert, sollten folgende Fragen beantwortet werden:
 
 * Welches Ziel wird verfolgt?
 * Was soll in welchem Umfang erreicht werden?[^2][^4]
@@ -33,7 +33,7 @@ Die Erfolge innerhalb des Zielerreichungsprozesses sollten jederzeit messbar sei
 
 Ein Ziel sollte für alle involvierten Personen attraktiv gestaltet sein, um deren Motivation positiv und nicht negativ zu beeinflussen. Das persönliche Engagement der Verantwortlichen steigt an, wenn sie sich mit dem Ziel identifizieren können und dieses akzeptieren. Folgende Punkte sollten den Beteiligten vermittelt werden, um die Attraktivität des Ziels zu erhöhen:
 
-* Gründe, die für die Zielerreichung sprechen?
+* Gründe, die für die Zielerreichung sprechen
 * Welcher positive Nutzen resultiert aus der Zielerreichung?[^2][^4]
 
 ## Realistisch
