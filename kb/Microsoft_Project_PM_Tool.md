@@ -15,7 +15,7 @@ Microsoft Project ist im Jahre 1984 erschienen und wird seit diesem Zeitpunkt re
 Die aktuelle Version der Microsoft Corporation lautet Project 2019 und wird über das Betriebssystem Windows genutzt.
 Die Software soll Projektmanagern das Planen, Steuern und Überwachen der Projekte ermöglichen.[^1]
 
-Doch zu welchem Zeitpunkt ist dieses Management Tool erforderlich und was genau kann mit diesem EDV-Programm abgebildet werden?
+Doch zu welchem Zeitpunkt ist dieses Management Tool erforderlich und was genau kann mit diesem [EDV-Programm](https://www.wortbedeutung.info/EDV-Programm/) abgebildet werden?
 
 
 # Beschreibung
