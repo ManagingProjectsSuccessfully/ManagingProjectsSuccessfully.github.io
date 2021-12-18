@@ -69,7 +69,7 @@ Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststel
 
 # Stärken und mögliche Nachteile von PRINCE2
 
-## Stärken:
+## Vorteile:
 
 *	Standardisiertes Vorgehen, universell einsetzbar
 *	Weltweit anerkannte und klar verständliche Arbeitsweise
@@ -79,7 +79,7 @@ Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststel
 *	Kann auf Bedürfnisse einzelner Organisationen oder Projekte angepasst werden
 *	Gebührenfrei: PRINCE2-Materialien liegen als bereits öffentliche Dokumente vor[^3][^9]
 
-## Mögliche Nachteile:
+## Nachteile:
 
 *	Stark dokumentenorientiert
 *	Ggf. Gefühl von "Machtverlust" bei Projektmanager:innen, da Rollen und Befugnisse streng festgelegt sind
