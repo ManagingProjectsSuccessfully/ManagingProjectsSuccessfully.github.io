@@ -38,9 +38,7 @@ Allerdings gibt es auch vorgefertigte Entwürfe, an denen sich orientiert werden
 
 In folgender Abbildung sind die gängigsten Kategorien zu sehen:
 
-![Gängige Kategorien für Stakeholder](Stakeholder_Register/Stakeholder-Kategorien.png "Gängige Kategorien")
-
-*Gängige Kategorien im Register* [^1]
+![Beliebte Kategorien das Stakeholder Register](Stakeholder_Register/Stakeholder-Kategorien.png "Beliebte Kategorien für Stakeholder Register")
 
 <!-- * Name des Stakeholders
 * Art von Stakeholder
@@ -64,9 +62,7 @@ Weitere Leitsätze, die bei der Erstellung des Registers wichtig zu beachten sin
 
 Das Dokument sollte mit anderen [Projektdokumentationen](Projektdokumentation.md) aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein. [^2]
 
-![Beispiel für ein Register](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")  
-
-*Beispiel für ein Register* [^3]
+![Beispiel für ein fertiges Register](Stakeholder_Register/stakeholder-register.png "Beispiel für ein fertiges Register")
 
 ## Analyse der Stakeholder
 
