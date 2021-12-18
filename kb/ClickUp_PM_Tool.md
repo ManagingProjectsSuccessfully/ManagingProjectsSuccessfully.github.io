@@ -58,13 +58,27 @@ Funktionen. Hier kann wieder eingestellt werden wer Zugriff haben darf auf das e
 
 Docs gibt die Möglichkeit unterschiedlichste Dokumente mit Teammitgliedern teilen zu können.
 
+# Features
+# Einstieg in ClickUP
+## App 
+
+## Erleichterte Datenübernahme
+
+ClickUp erleichtert Usern den Umstieg von anderen Projetkmanagement-Tools auf die eigene Anwendung, indem sie Import-Optionen von anderen Plattformen anbieten.
+Aufgaben, Daten, etc. können sofort in den eigenen Account integriert werden. Zusätzlich können Programme wie Office 365, Slack, DropBox oder der Outlook-Kalender
+in ClickUp miteinbezogen werden, um noch mehr Personalisierung und Komfort zu schaffen.[^4] 
+ClickUp bietet ebenfalls die Möglichkeit andere Internetseiten zur eigenen Timeline, im Dashboard, hinzuzufügen. Beispiele wären YouTube, Keynote, LinkedIn,
+Spotify, und viele Weitere.
+
+
+
 
 # Preisliste
 
 * ClickUp ist kostenlos nutzbar. Möglichkeit, bei Zahlung verschiedene Features freizuschalten.
 * Bei der folgenden Tabelle wurden die monatlichen Preise betrachtet. Bei Abschluss von jährlichen Abonnements sinken die Preise monatlich betrachtet.
 
-*(Tabelle gekürzt, bei ClickUp[^1] weitere Kategorien) 
+*(Tabelle gekürzt, bei [ClickUp](https://clickup.com) weitere Kategorien) 
 
 |   Preise            |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
 | ---------------------- | ------------- | ------------- | ------------ | ------------- | ------------  |
@@ -100,6 +114,6 @@ Docs gibt die Möglichkeit unterschiedlichste Dokumente mit Teammitgliedern teil
 [^1]: [ClickUp_Website](https://clickup.com)
 [^2]: [getapp](https://www.getapp.de/software/106331/clickup#features)
 [^3]: [ClickUp_Help](https://docs.clickup.com/en/)
-
+[^4]: [Mintblau.com](https://www.mintblau.com/blog/projektmanagement-mit-clickup)
 
 
