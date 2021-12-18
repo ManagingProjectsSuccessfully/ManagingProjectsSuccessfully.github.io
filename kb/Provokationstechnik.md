@@ -61,41 +61,29 @@ Beispiele für mentale Provokationen aus dem Alltag:
 Es gibt folgende Ansätze, um Provokationen zu gewinnen:[^4]
 
 
-### Annahme aufheben
+* **Annahme aufheben**
 
-Hier hebt man gezielt Annahmen auf, die man über die Aufgabenstellung macht, z. B.
+  Hier hebt man gezielt Annahmen auf, die man über die Aufgabenstellung macht, z. B. *PO In der Schulbibliothek gibt es keine Bücher.*
 
-   * PO In der Schulbibliothek gibt es keine Bücher.
+* **Idealfall**
 
-### Idealfall
+  Hier nennt man einen Zustand, der im Idealfall gelten würde, z. B. *PO Jeder Schulanfänger bekommt einen Abschluss.*
 
-Hier nennt man einen Zustand, der im Idealfall gelten würde, z. B.
+* **Umkehrung**
 
-   * PO Jeder Schulanfänger bekommt einen Abschluss.
+   Bei der Umkehrung stellt man einen Sachverhalt oder eine Beziehung auf den Kopf, z. B. *PO Schüler unterrichten Lehrer.*
 
-### Umkehrung
+* **Übertreibung**
 
-Bei der Umkehrung stellt man einen Sachverhalt oder eine Beziehung auf den Kopf, z. B.
+  Bei der Übertreibung wird eine bestimmte quantitative Eigenschaft verändert, z. B. *PO Die Schulpflicht geht bis zur 13. Klasse.*
 
-   * PO Schüler unterrichten Lehrer.
+* **Zufall**
 
-### Übertreibung
+  Hier wird einfach ein zufälliger Begriff neben die Ausgangssituation gestellt, z. B. *Schule PO Lasagne*
 
-Bei der Übertreibung wird eine bestimmte quantitative Eigenschaft verändert, z. B.
+* **Verfälschung**
 
-   * PO Die Schulpflicht geht bis zur 13. Klasse.
-
-### Zufall
-
-Hier wird einfach ein zufälliger Begriff neben die Ausgangssituation gestellt, z. B.
-
-   * Schule PO Lasagne
-
-### Verfälschung
-
-Hier wird eine qualitative Eigenschaft der Problemstellung verändert, z. B.
-
-   * PO Die Schulmauern sind aus Duplosteinen gebaut.
+  Hier wird eine qualitative Eigenschaft der Problemstellung verändert, z. B. *PO Die Schulmauern sind aus Duplosteinen gebaut.*
 
 
 ## Anwendnung 
@@ -110,7 +98,7 @@ Am Beispiel "PO Die Schule hat keine Gebäude" könnte die Idee des Homeschoolin
 | Vorteile      | Nachteile     |
 | ------------- | ------------- |
 | Methode durchbricht gezielt alte Denkmuster und produziert innovative Ideen| Der Umgang mit Provokationen ist am Anfang tendenziell schwer und viele Menschen werden dadurch entmutigt  |
-| Regt die Kreativität an  | Methode oft nicht erfolgreich, da Provokationen meist weit von der Realität entfernt sind und sich dadurch keine nützliche Idee ergibt  |
+| Regt die Kreativität an  | Methode oft nicht erfolgreich, da Provokationen meist weit von der Realität entfernt sind und sich dadurch keine nützliche IdeeN ergeben  |
 
 ## Fazit
 
