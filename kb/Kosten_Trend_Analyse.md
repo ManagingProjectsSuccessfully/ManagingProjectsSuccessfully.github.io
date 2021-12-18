@@ -21,29 +21,29 @@ anrechnung: k
 
 
 ## Definition 
-Genau wie Terminverzögerungen sind Kostenabweichungen ein wichtiges Thema, welches im [Projektmanagement](https://github.com/FCN478/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) gut durchdacht werden muss. Wenn beispielsweise ein Teil der Lieferkette nicht so funktioniert, wie vorgesehen, können Mehrkosten entstehen, wodurch man ziemlich schnell die geplanten Kosten überschreiten kann. Deshalb ist es in der Planung wichtig gewisse Kostenrisiken schon vorher abschätzen zu können. Dabei wird im klassischen Projektmanagement sehr oft die Kostentrendanalyse als Hilfsmittel genutzt! [^1]
+Genau wie Terminverzögerungen sind Kostenabweichungen ein wichtiges Thema, welches im [Projektmanagement](Projektmanagement.md) gut durchdacht werden muss. Wenn beispielsweise ein Teil der Lieferkette nicht so funktioniert, wie vorgesehen, können Mehrkosten entstehen, wodurch man ziemlich schnell die geplanten Kosten überschreiten kann. Deshalb ist es in der Planung wichtig gewisse Kostenrisiken schon vorher abschätzen zu können. Dabei wird im klassischen Projektmanagement sehr oft die Kostentrendanalyse als Hilfsmittel genutzt! [^1]
 
 ## Ziele der Kostentrendanalyse 
-Die Kostentrendanalyse ist in ihrer Umsetzung und Darstellung ähnlich zur [Meilensteintrendanalyse](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse.md). Jedoch wäre anders als dort, hier auch die Kosten als Faktor miteinbezogen. Die anfangs geplanten Kosten eines jeden Teilprojekts, werden den Ist-Kosten gegenübergestellt und durch geschätzte Restkosten bis zum Projektende ergänzt. So erhält man Angaben zu den anfallenden Kostendifferenzen. Zudem können so Risiken frühzeitig erkannt werden und Prognosen für den weiteren Verlauf des Projekts erstellt werden [^2]. 
+Die Kostentrendanalyse ist in ihrer Umsetzung und Darstellung ähnlich zur [Meilensteintrendanalyse](Meilensteintrendanalyse.md). Jedoch wäre anders als dort, hier auch die Kosten als Faktor miteinbezogen. Die anfangs geplanten Kosten eines jeden Teilprojekts, werden den Ist-Kosten gegenübergestellt und durch geschätzte Restkosten bis zum Projektende ergänzt. So erhält man Angaben zu den anfallenden Kostendifferenzen. Zudem können so Risiken frühzeitig erkannt werden und Prognosen für den weiteren Verlauf des Projekts erstellt werden [^2]. 
 
 ## Vorteile der KTA
-Die wichtigsten Vorteile dieser Methode im Bereich Kostencontrolling ist, dass man zu jedem Zeitpunkt des Projekts die Kostenentwicklung inklusive einer Prognose für die Zukunft betrachten und eventuelle Kostenrisiken frühzeitig erkennen kann. Die Darstellung ist dabei übersichtlich, verständlich und unterscheidet sich nicht von der Meilensteintrendanalyse. Diese Ähnlichkeit zur [Meilensteintrendanalyse](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse.md) macht es möglich beide Methoden optimal zu kombinieren. [^1]
+Die wichtigsten Vorteile dieser Methode im Bereich Kostencontrolling ist, dass man zu jedem Zeitpunkt des Projekts die Kostenentwicklung inklusive einer Prognose für die Zukunft betrachten und eventuelle Kostenrisiken frühzeitig erkennen kann. Die Darstellung ist dabei übersichtlich, verständlich und unterscheidet sich nicht von der Meilensteintrendanalyse. Diese Ähnlichkeit zur [Meilensteintrendanalyse](Meilensteintrendanalyse.md) macht es möglich beide Methoden optimal zu kombinieren. [^1]
 
 ## Nachteile der KTA
-Jede Analyse sowie jede Prognose und nur so gut wie die Daten aus der sie hervorgehen. Deshalb ist es wichtig die Ist-Kosten der Teilprojekte so genau wie möglich zu erfassen. Zudem handelt es bei der Kostentrendanalyse lediglich um eine Kostenbetrachtung, wodurch inhaltliche Fortschritte des Projekts hierbei vernachlässigt werden. Genau aus diesem Grund ist die Kombination mit der [Meilensteintrendanalyse](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse.md) sehr empfehlenswert. Eine Methode, die ebenfalls einen inhaltlichen Einblick in das Projekt verschafft und daher mit der KTA kombiniert werden kann ist die detailliertere Earned Value Analyse. [^1]
+Jede Analyse sowie jede Prognose und nur so gut wie die Daten aus der sie hervorgehen. Deshalb ist es wichtig die Ist-Kosten der Teilprojekte so genau wie möglich zu erfassen. Zudem handelt es bei der Kostentrendanalyse lediglich um eine Kostenbetrachtung, wodurch inhaltliche Fortschritte des Projekts hierbei vernachlässigt werden. Genau aus diesem Grund ist die Kombination mit der [Meilensteintrendanalyse](Meilensteintrendanalyse.md) sehr empfehlenswert. Eine Methode, die ebenfalls einen inhaltlichen Einblick in das Projekt verschafft und daher mit der KTA kombiniert werden kann ist die detailliertere Earned Value Analyse. [^1]
 
 ## Ablauf einer Kostentrendanalyse
 Die folgenden fünf Schritte sind grundsätzlich immer gleich bei einer Kostentrendanalyse. Je nach Projekt können jedoch die Berichtstermine wöchentlich, monatlich, quartalsweise oder jährlich angesetzt werden. [^2]
 
 ### Schritt 1: Diagramm erstellen 
-Genau wie bei der [Meilensteintrendanalyse](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse.md) benötigt man auch hier ein Diagramm bestehend aus zwei Achsen. Dabei wird die X-Achse üblicherweise für die Berichtstermine und die Y-Achse für die Kosten verwendet. [^1]
+Genau wie bei der [Meilensteintrendanalyse](Meilensteintrendanalyse.md) benötigt man auch hier ein Diagramm bestehend aus zwei Achsen. Dabei wird die X-Achse üblicherweise für die Berichtstermine und die Y-Achse für die Kosten verwendet. [^1]
 
 
 ![Beispielabbildung](Kosten_Trend_Analyse/KTA-Schritt_4.png)  
 *Diagramm Kostentrendanalyse* [^2]
 
 ### Schritt 2: Plankosten zusammenstellen 
-In diesem Schritt werden mithilfe des Projektplans die [geplanten Kosten](https://github.com/seposer/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md) für alle Teilprojekte festgelegt. Dazu wird zunächst der zeitliche Aufwand jedes Teilprojekts ermittelt. Zudem sollte man sich überlegen ob fremde Hilfe wie zum Beispiel Dienstleister benötigt werden und anschließend die nötigen Ressourcen definieren. Für diese Daten werden im nächsten Schritt die entsprechenden Kosten festgelegt und auf die Y-Achse eingetragen. [^1]
+In diesem Schritt werden mithilfe des Projektplans die [geplanten Kosten](Kostenplanung.md) für alle Teilprojekte festgelegt. Dazu wird zunächst der zeitliche Aufwand jedes Teilprojekts ermittelt. Zudem sollte man sich überlegen ob fremde Hilfe wie zum Beispiel Dienstleister benötigt werden und anschließend die nötigen Ressourcen definieren. Für diese Daten werden im nächsten Schritt die entsprechenden Kosten festgelegt und auf die Y-Achse eingetragen. [^1]
 
 ### Schritt 3: Berichtstermine definieren 
 Vorab muss festgelegt werden in welcher Frequenz Berichtstermine stattfinden sollen. Diese dienen dazu einen Zwischenstand festhalten zu können. [^1]
