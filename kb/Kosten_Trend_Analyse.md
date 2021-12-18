@@ -61,6 +61,7 @@ Wenn man nun die eingetragenen Kosten über das gesamte Projekt miteinander verb
 
 ## Weiterführende Literatur
 * [Kostentrendanalyse (Projektmagazin)](https://www.projektmagazin.de/methoden/kostentrendanalyse)
+* [Kostentrendanalyse- wie Sie Ihre Projektkosten frühzeitig und richtig abschätzen](https://www.managementcircle.de/blog/kostentrendanalyse.html) 
 
 ## Quellen
 
