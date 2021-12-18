@@ -25,7 +25,7 @@ Um den Erfolg eines Innovationsprojekts gewährleisten zu können, müssen einig
 Innovationsprojekte erfüllen für gewöhnlich vier grundlegende Eigenschaften:
 1. Die erste und wichtigste Eigenschaft ist dabei der *Neuheitsgrad*. Das Ergebnis des Projekts bringt einen bisher unbekannten Nutzen mit sich.[^3]
 2. Dadurch entsteht auch immer ein bestimmtes Maß an *Unsicherheit*. Bei Projekten, die stärker von Routineaufgaben des Unternehmens abweichen, entsteht unweigerlich eine finanzielle sowie operative Unsicherheit.[^3]
-3. Das dritte Charakteristikum ist die *Komplexität*, die eng mit der Unsicherheit und der Neuheit verknüpft ist. Aufgrund der unsicheren Abläufe wegen des hohen Grades an Neuheit kommt es zu einem höheren und somit weitaus komplexeren Organisationsumfang.[^3]
+3. Das dritte Charakteristikum ist die *Komplexität*, die eng mit der Unsicherheit und der Neuheit verknüpft ist. Aufgrund der unsicheren Abläufe wegen des hohen Neuheitsgrades kommt es zu einem höheren und somit weitaus komplexeren Organisationsumfang.[^3]
 4. Die letzte Eigenschaft bildet das *Konfliktpotential*, welches auf verschiedenen Ebenen auftreten kann. Es kann sowohl zu Konflikten innerhalb des Projektteams (siehe [Konfliktmanagement](Konfliktmanagement.md)) als auch zu Zielkonflikten bezüglich vorher festgelegter Zielvorgaben kommen.[^3]
 
 ## 2.2	Arten
@@ -45,7 +45,7 @@ Durchgeführt werden alle Formen der Innovationsprojekte durch ein bereichsüber
 
 Ein Innovationsprojekt lässt sich in zwei große Phasen unterteilen, die ebenso Teil des [Innovationsprozesses](https://wirtschaftslexikon.gabler.de/definition/innovationsprozess-41599) sind.[^3]
 Die erste Phase ist dabei die Forschung und Entwicklung, durch welche in erster Linie die innovative Idee umgesetzt wird und folglich eine Invention entsteht.[^3]
-Diese Invention wird dann in der zweiten Phase, die erfolgreiche Markteinführung, zu einer Innovation.[^3]
+Diese Invention wird dann in der zweiten Phase, der erfolgreichen Markteinführung, zu einer Innovation.[^3]
 
 ## 2.5	Projektmanagement
 
