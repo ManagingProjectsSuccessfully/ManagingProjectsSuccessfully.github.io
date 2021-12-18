@@ -52,7 +52,7 @@ Abweichungen*. Zudem wird näher auf die *Nachkalkulation* eingegangen, was die 
 dass dort alle 
 angefallenen Aufwendungen in Bezug auf das Projekt eingehen, wie beispielsweise das Personal, Energiekosten oder auch Materialkosten[^4].
 
-* **Zeitmanagement**
+* **[Zeitplanung](Zeitplanung.md)**
 
 Auch der Faktor Zeit spielt eine wichtige Rolle und sollte stets im Auge behalten werden, da dies wiederum direkten Einfluss auf die Kosten hat. Diese können sich mit 
 Verlängerung der Zeit schnell über das geplante Budget hinausentwickeln. Des Weiteren kann die Nichteinhaltung der Termine beim Auftraggeber zur Unzufriedenheit
