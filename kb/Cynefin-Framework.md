@@ -31,25 +31,25 @@ Cynefin Framework [^6][^8]
 
 Die ersten vier Hauptdomänen sind:
 
-**1. Obvious/simple
+### 1. Obvious/simple
 
 Befinden wir uns in einem "einfachen" Umfeld sind die Beziehungen und ihre Abhängigkeit offensichtlich. Ursachen und Wirkungen können einfach beschrieben werden und beurteilt 
 werden. Daher gibt es auch eine eindeutige Antwort auf die einzelnen Probleme, weshalb auch oft von "Best Practice" gesprochen wird. Snowden ist der Ansicht, dass man bei 
 offensichtlichen Entscheidungen nach dem Prinzip "Erkennen - Kategorisieren - Reagieren" vorgehen sollte[^2].
 
-**2. Complicated
+### 2. Complicated
 
 Bei "komplizierten" Problemen sind die Ursachen und Wirkungen immer noch eindeutig zu beschreiben, aber nicht für alle verständlich. In anderen Worten das Problem ist für einige 
 zu kompliziert, weshalb die Lösungen (es sind mehrere möglich) für "Nicht-Experten" schwer zu erkennen sind[^3]. Daher beläuft sich der Ansatz für die Entscheidungsfindung auf 
 folgende drei Punkte "Erkennen - Analysieren - Reagieren"[^5]. Diese Domäne wird auch "Good Practice" genannt.
 
-**3. Complex
+### 3. Complex
 
 In "komplexen" Situationen ist es fast unmöglich eine Lösung zu erkennen, da es zu viele Unbekannte gibt. Auch für Experten ist es schwierig die Beziehung der Ursache und der 
 Wirkung zu erkennen. Dies hat zu Folge, dass es keine richtige Antwort gibt. Solche Situationen sind meist unvorhersehbar und daher schlägt Snowden folgende Herangehensweise an 
 "Sondieren - Erkennen - Reagieren"[^3].
 
-**4. Chaotic
+### 4. Chaotic
 
 Im "chaotischen" Bereich ist das wichtigste Ziel schnell und agil zu arbeiten, um das Problem zu stabilisieren und in Ordnung zu bringen. Daher lautet auch hierbei der Ansatz beim Vorgehen "Handeln-Erkennen-Reagieren"[^4].
 
@@ -57,6 +57,9 @@ Die fünfte Domäne nennt sich Disorder, der Zustand des Nichts-Wissens, indem m
 gewohnte und einfache Problemlösungsmöglichkeiten zurück. Prinzipiell ist das Ziel hierbei mehr Informationen zu sammeln, um anschließend das Problem bzw. die dahinterstehende 
 Herangehensweise einer Domäne zu zuordnen.[^4]
 
+Eine ähnliche Zusammensetzung findet man auch in der [Stacey Matrix](Stacey_Matrix.md) wieder. Diese Matrix wird im Zusammenhang mit dem Cynefin Framwork angewandt, wenn es 
+darum geht, die agile Arbeitsmethode für das Problem herauszufinden. Dabei ist zu erkennen, dass einfache Problemstellung mithilfe von traditionelle Methoden gelöst werden 
+können, wobei komplexere Themen agile Methoden (z.B. [Scrum](SCRUM.md), [Kanban](Kanban.md) Board oder [Design Thinking](Design Thinking.md)) vorteilhafter erscheinen.
 
 ## Probleme
 
@@ -92,7 +95,7 @@ Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework z
 "Alle Modelle sind falsch, aber einige nützlich." George Box
 
 Das Cynefin Framework ist kein "perfektes" Modell, um Situationen abschließend zu erklären. Es ist vielmehr eine Hilfestellung um die Ursache, den 
-Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, dass einige Probleme mehrschichtig sein können z.B. sowohl komplex als auch kompliziert. Dies erkennt man daran, dass das Cynefin Framework in der [Stacey Matrix](Stacey_Matrix.md) verwendet wird. Indem ein Zusammenhang zwischen den Eigenschaften des Cynefin-Framework und der Qualität eines Arbeitsauftrags hergestellt wird.
+Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, dass einige Probleme mehrschichtig sein können z.B. sowohl komplex als auch kompliziert. 
 
 # Siehe auch
 
@@ -100,6 +103,8 @@ Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, da
 * [Wissensmanagement](Wissensmanagament.md)
 * [Stacey_Matrix](Stacey_Matrix.md)
 * [SCRUM](SCRUM.md)
+* [Kanban](Kanban.md)
+* [Design Thinking](Design Thinkinh.md)
 
 # Weiterführende Literatur
 
