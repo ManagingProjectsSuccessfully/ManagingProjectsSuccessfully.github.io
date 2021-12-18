@@ -42,7 +42,7 @@ Vor der Erstellung des Abschlussberichts wird eine Nachkalkulation erstellt. Die
 Leistungsgrad und der dazugehörige Qualitätsaufwand erkennbar sein[^3].
 Der Vergleich mit den ersten Planstand kommt die größere Bedeutung zu, da bei einer im Prozessablauf stetig durchgeführten Plankorrektur ein Vergleich mit dem 
 letztgültigen Planstand nur noch geringe Abweichungen aufweisen würde. Dabei sollen die Kosten in einem gewissen Rahmen eingehalten worden sein, um die 
-Wirtschaftlichkeit des Projekts gewährleisten zu können.[^3].
+Wirtschaftlichkeit des Projekts gewährleisten zu können[^3].
 
 ## 5. Abschlussbericht
 Die abschließende Bewertung des Projekts sollte dann anhand von vorab festgelegten Kriterien erfolgen. Eine Abweichung von bis zu 10 % bei allen Zielgrößen kann 
@@ -51,8 +51,8 @@ zum Beispiel als “gutes Ergebnis” gesehen werden[^1].
 ## Anwendung im F&E-Bereich
 
 Im Bereich der Forschung und Entwicklung kann durch Gewinnung objektiver Kennzahlen anhand der Erfahrungsdaten und Messzahlen vieler Entwicklungsabschlüsse im 
-Zeitreihenvergleich auch eine Annäherungsrechnung zum erzielten Produktivitätsfortschritt durchgeführt werden. Der Hauptvorteil der Abschlussanalysen liegt in der 
-Organisation eines breit angelegten Zugriffs zu diesen Daten, der in größeren der in größeren F&E-Abteilungen zu einem 
+Zeitreihenvergleich auch eine Annäherungsrechnung zum erzielten Produktivitätsfortschritt durchgeführt werden. Der große positive Aspekt der Abschlussanalysen liegt 
+in der Organisation eines breit angelegten Zugriffs zu diesen Daten, der in größeren der in größeren F&E-Abteilungen zu einem 
 rechnergestützten Wissenstransfer ausgebaut werden kann[^3].
 Eine wichtige Komponente bei einer Abschlussanalyse sind Erfahrungsdaten. Diese geben nämlich eine wesentliche Orientierungshilfe. Im Schätz- und 
 Beurteilungsprozess wird das subjektiv vorhandene Erfahrungswissen durch systematisch gesammelte und ausgewertete Erfahrungsdaten ergänzt. Mithilfe einer (am besten 
