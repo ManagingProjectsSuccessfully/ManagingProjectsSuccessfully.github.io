@@ -55,9 +55,9 @@ Für jedes Teilprojekt werden in diesem Schritt die tatsächlich entstandenen Ko
 Wenn man nun die eingetragenen Kosten über das gesamte Projekt miteinander verbindet, so entsteht für jedes Teilprojekt zwei Kurven. Jeweils eine Kurve stellt die Ist - und geplante Kosten dar. Diese können nun miteinander verglichen werden, um zu erkennen, ob die Kosten von den Erwartungen abweichen. [^1]
 
 ## Siehe auch
-* [Kostenplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md)
-* [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)
-* [Kosten_Nutzen_Analyse](https://github.com/Maximilian219/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Nutzen_Analyse.md)
+* [Kostenplanung](Kostenplanung.md)
+* [Zeitplanung](Zeitplanung.md)
+* [Kosten_Nutzen_Analyse](Kosten_Nutzen_Analyse.md)
 
 ## Weiterführende Literatur
 * [Kostentrendanalyse (Projektmagazin)](https://www.projektmagazin.de/methoden/kostentrendanalyse)
