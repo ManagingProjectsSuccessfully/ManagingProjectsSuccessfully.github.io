@@ -7,7 +7,7 @@ anrechnung: {k}
 
 
 # Feedbackgespräche
-## 1. Definition
+# 1. Definition
 Der Begriff Feedback kommt ursprünglich aus der Kybernetik, der Lehre von Regelungsprozessen. 
 
 „In der Kybernetik gibt das Feedback im Regelkreis zwischen einer bestimmten Eingabe (in-put) und dem erwarteten Ergebnis (out-put) Auskunft, ob der erreichte Ist-Wert auf der richtigen Linie des zielorientierten Steuerungsprozesses liegt. Bei Fehlern und Storeinflussen sind so Korrekturen im Hinblick auf den vorgegebenen Soll-Wert moglich.“ [^1]
@@ -25,14 +25,12 @@ Feedbackgespräche können vorallem im beruflichen Kontext dazu beitragen, die M
 Um Feedback zu äußern, können zudem unterschiedliche [Methoden](https://github.com/Leni2505/ManagingProjectsSuccessfully.github.io/tree/main/kb/Feedback_Methoden) angewendet werden.
 
 
-
-## 2. Mögliche Gesprächsthemen
+# 2. Mögliche Gesprächsthemen
 
 Ein Feedbackgespräch bietet dabei die Möglichkeit, gemeinsame Ziele zu definieren, mögliche Konflikte offen anzusprechen und Lösungen zu erarbeiten. Außerdem können Wünschen und Anregungen geäußert werden oder über zusätzliche MOtivationsanreize wie beispielsweise ein höheres Gehält verhandelt werden. 
 
 
-
-## 3. Darauf sollte beim Gespräch geachtet werden: 
+# 3. Darauf sollte beim Gespräch geachtet werden: 
 
 *	Höflicher und wertschätzender Umgang miteinander
 *	Lösungsorientierte Ansätze
@@ -54,11 +52,14 @@ Ein Feedbackgespräch bietet dabei die Möglichkeit, gemeinsame Ziele zu definie
 | **Gegenseitig**| Wer Feedback gibt, sollte auch selbst offen für Feedback sein.  [^4]|
 
 
-[![Die 5 W-Fragen](
-[^4]|
+# 4. Mit fünf Fragen zum gelungenen Feedbackgespräch:
+
+![Die 5 W-Fragen](https://user-images.githubusercontent.com/92356175/146651327-7f7e4ead-50fa-423d-9048-c1a33d8479f7.jpg)
+Abbildung: selbsterstellt [^4]
 
 
-# 4. Die vier Phasen eines (erfolgreichen) Feedbackgesprächs:  
+
+# 5. Die vier Phasen eines (erfolgreichen) Feedbackgesprächs:  
 ## Phase 1: Beurteilung und Feedback
 
 *	Anerkennung von Erfolgen und Fortschritten sowie Erörterung von Verbesserungspotenzialen und Kritikpunkten
@@ -91,7 +92,7 @@ Abbildung: Ablauf Feedbackgespräche
 
 
 
-# 5. Warum ist regelmäßiges Feedback so wichtig?
+# 6. Warum ist regelmäßiges Feedback so wichtig?
 
 Feedback...
 <ol>
@@ -106,7 +107,7 @@ Feedback...
 </ol> [^6]
 
 
-# 6. Siehe auch:
+# 7. Siehe auch:
 
   * YouTube Video zur Vorbereitung:
   [So gelingt dir das Mitarbeitergespräch](https://www.youtube.com/watch?v=uDk8fSi2OsE)
@@ -126,6 +127,6 @@ Feedback...
 [^1]: Schaub/Zenke, Wörterbuch Pädagogik, 2007 S.836
 [^2]: Hossiep, Mitarbeiterbefragungen in den 2000er Jahren: Eine Bestandsaufnahme, 2013 S.33
 [^3]: Jöns I., Bungard W. (Hrsg.), Feedbackinstrumente im Unternehmen : Grundlagen, Gestaltungshinweise, Erfahrungsberichte, 2018 S.4
-[^4]: Vgl.: Kanitz, Anja; Feedbackgespräche. (S.16 ff., S.22., S.26, S.31
+[^4]: Vgl.: Kanitz, Anja; Feedbackgespräche. (S.16 ff., S.22., S.26, S.31)
 [^5]: Brückner Benjamin: Feedbackgespräch: Leitfaden + Tipps. Internetquelle: https://www.fuer-gruender.de/blog/feedbackgespraech/, abgerufen am 19.11.2021.
 [^6]: Mai, Jochen (2021): Feedbackgespräch: Ablauf, Vorbereitung, Tipps. Internetquelle: https://karrierebibel.de/feedbackgespraech/, abgerufen am 19.11.2021.
