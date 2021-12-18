@@ -120,5 +120,5 @@ Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, da
 [^5]: [Unerwarter Herausforderung in Projekten erfolgreich managen (von Andreas Nachbagauer, etc.)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-60944-6.pdf)
 [^6]: [Cynefin Framework](Cynefin-Framework/Cynefin_as_of_1st_June_2014.png)
 [^7]: [Wicked Problem](Cynefin-Framework/Wicked_Problem.png)
-[^8]: [Cynefin Framework](https://de.wikipedia.org/wiki/Cynefin-Framework)
+[^8]: [Cynefin Framework Wikipedia](https://de.wikipedia.org/wiki/Cynefin-Framework)
 
