@@ -4,11 +4,9 @@ tags: agil klassisch pm forschung projekt
 author: CatrinSc
 anrechnung: k
 ---
-einleitung
-
-# Allgemeines
 Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt von mehreren Wissenschaftlern, wissenschaftlichen Gesellschaften, eines Instituts oder einer Organisation, mit dem Ziel einen Erkenntnisgewinn für ein aktuelles Thema in der Forschung zu generieren. Ein [Projekt](Projekt.md) der angewandten Forschung verfolgt eher das Ziel, bereits erforschte Methoden zu verbessern.
 
+# Allgemeines
 Eine Förderung erfolgt meist durch Drittmittel (Forschungsfonds, öffentliche oder industrielle Förderungsgelder). Um solche Drittmittel zu erhalten ist ein ausführlicher [Projektantrag](Projektantrag.md) (vergleichbar mit einem klassischen Projektantrag) nötig. Dieser legt Ziele, [Risiken](Risikoanalyse_und_Visualisierung.md), Methoden und [Ressourcen](Ressourcenplanung.md), [Zeit-](Zeitplanung.md) und [Finanzplanung](Kostenplanung.md), Angaben über [Qualifikation](Faehigkeiten_Projektleiter.md) der/des [Projektleiter/s](Projektleiter.md) sowie eine populär gehaltene Kurzfassung dar. [Abschlussberichte](Projektabschlussbericht.md) sind von großer Bedeutung, aber auch Zwischenberichte werden häufig erstellt, um dem Geldgeber oder der Universität von dem Fortschritt zu berichten. Aufgrund ihrer typischen Kriterien haben Forschungsprojekte ein hohes Risiko, nicht erfolgreich zu sein [^1].
 
 ## Typische Kriterien
