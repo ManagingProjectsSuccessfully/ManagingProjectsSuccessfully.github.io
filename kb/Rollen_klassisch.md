@@ -29,15 +29,12 @@ Diesen verschiedenen Rollen können unterschiedliche Aufgaben, Kompetenzen und V
 Der Auftraggeber ist der Initiator des Projekts. Er beauftragt das Projekt, gibt die wichtigsten Ziele vor und stellt die benötigten Ressourcen (z.B.: finanzielle Mittel) bereit.[^4]
 Für interne Projekte ist dies oft der Geschäftsführer oder Vorstand des Unternehmens, bei externen Projekten sind es die Kunden.[^1]
 
-
-
 ## Projektlenkungsausschuss
 Der Projektlenkungsausschuss besteht aus mehreren Mitgliedern, die innerhalb des Projekts als Berater und Entscheidungsträger auftreten. Da dieses Gremium eine außenstehende und neutrale Funktion einnehmen soll, sollte der Projektleiter möglichst kein Mitglied des Ausschusses sein.[^2]
 
 ## Projektleiter
-Der [Projektleiter](Projektleiter.md) ist verantwortlich für das Ergebnis des Projekts. Er überwacht und plant das Projekt und weist den Projektmitarbeitern ihre Aufgaben zu.[^3] Bei größeren Projekten ist es oft sinnvoll die Leitung des Projekts auf mehrere Personen aufzuteilen, die jeweils einen Teilaspekt des Projekts übernehmen und dafür verantwortlich sind. Diese werden als Teilprojektleiter bzw. Modulleiter bezeichnet.[^1] Zudem muss ein Projektleiter verschiedene [Kompetenzen](Faehigkeiten_Projektleiter.md) aufweisen, um das Projekt erfolgreich durchzuführen, zum Beispiel ist es erforderlich ein gutes [Teammanagement](Teammanagement.md) zu betreiben.
+Der [Projektleiter](Projektleiter.md) ist verantwortlich für das Ergebnis des Projekts. Er überwacht und plant das Projekt und weist den Projektmitarbeitern ihre Aufgaben zu.[^3] Bei größeren Projekten ist es oft sinnvoll die Leitung des Projekts auf mehrere Personen aufzuteilen, die jeweils einen Teilaspekt des Projekts übernehmen und dafür verantwortlich sind. Diese werden als Teilprojektleiter bzw. Modulleiter bezeichnet. Zudem muss ein Projektleiter verschiedene [Kompetenzen](Faehigkeiten_Projektleiter.md) aufweisen, um das Projekt erfolgreich durchzuführen, zum Beispiel ist es erforderlich ein gutes [Teammanagement](Teammanagement.md) zu betreiben.[^1]
 
- 
 ## Projektteam
 Das Projektteam besteht aus verschiedenen [Mitarbeitern](Projektmitarbeiter.md), die für die im Projekt benötigten Aufgaben qualifiziert sind und diese erfüllen können. Dabei werden von verschiedenen Teammitgliedern [unterschiedliche Aufgaben](Aufgabenteilung.md) erfüllt. Dazu gehören unter anderem:
 
@@ -60,11 +57,9 @@ Sponsoren sind unternehmensinterne Befürworter des Projektes, die zumeist im ob
 Neben diesen Hauptrollen gibt es im Multiprojektmanagement zusätzliche Organisationseinheiten. 
 Dazu zählen:
 
-### Das Projekt Management Office
-Das [Projekt Management Office](Project_Management_Office.md) (PMO) unterstützt den Projektleiter bei seiner Arbeit. Allerdings sind die Aufgaben und Kompetenzen des PMO sehr heterogen verteilt. Sie können zudem die Rollen des Projektkaufmanns oder des Projektcontrollers übernehmen.[^1]
+* Das Projekt Management Office: Das [Projekt Management Office](Project_Management_Office.md) (PMO) unterstützt den Projektleiter bei seiner Arbeit. Allerdings sind die Aufgaben und Kompetenzen des PMO sehr heterogen verteilt. Sie können zudem die Rollen des Projektkaufmanns oder des Projektcontrollers übernehmen.[^1]
 
-### Der Multiprojektlenkungsausschuss
-Der Multiprojektlenkungsausschuss nimmt eine strategische Funktion innerhalb eines Unternehmens ein und entscheidet über die strategische Ausrichtung des Unternehmens, indem er bestimmt, welche Projekte im Unternehmen durchgeführt werden. Er ist der Projektauftragsgeber auf der Gesamtunternehmensebene.[^1]
+* Der Multiprojektlenkungsausschuss: Der Multiprojektlenkungsausschuss nimmt eine strategische Funktion innerhalb eines Unternehmens ein und entscheidet über die strategische Ausrichtung des Unternehmens, indem er bestimmt, welche Projekte im Unternehmen durchgeführt werden. Er ist der Projektauftragsgeber auf der Gesamtunternehmensebene.[^1]
 
 
 # Siehe auch
