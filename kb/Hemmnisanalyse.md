@@ -73,7 +73,7 @@ der Beispielabbildung erkennen kann. Diese Bewertung wird anschließend nach Rel
 letzten Schritt der [Projektplanung](Projektplanung.md) werden Strategien zur Vermeidung dieser Hemmnisse entwickelt. Beispielsweise kann eine Rechtsberatung
 engagiert werden, um rechtliche Unsicherheiten zu klären.[^3]
 
-![Beispielabbildung](Hemmnisprofil.png)
+![Beispielabbildung](Hemmnisanalyse/Hemmnisprofil.png)
 
 *Abbildung: Beispielabbildung zu einem Hemmnisprofil*[^3]
 
