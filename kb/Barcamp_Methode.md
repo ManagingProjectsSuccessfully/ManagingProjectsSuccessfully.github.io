@@ -15,7 +15,7 @@ Original:[^1]
 
 # Was ist ein Barcamp?
 
-Barcamps sind eine Moderationsmethode für Großgruppen und eignen sich für etwa zwei Dutzend bis mehrere Hunderte Teilnehmerinnen und Teilnehmer.[^2] Dabei stehen ausschließlich die Teilnehmenden mit ihren Themen, Fragen und Beiträgen im Mittelpunkt der Veranstaltung. Welche Themen vor Ort genau besprochen werden legen die Teilnehmer gemeinsam fest. Ziele von Barcamps sind meist das Lösen von Problemen wie auch das Provozieren von Innovationen durch Zusammentreffen von Teilnehmer aus den verschiedensten Bereichen des Unternehmens bzw. der Forschungsgruppe.[^3]
+Barcamps sind eine Moderationsmethode für Großgruppen und eignen sich für etwa zwei Dutzend bis mehrere Hunderte Teilnehmerinnen und Teilnehmer.[^2] Dabei stehen ausschließlich die Teilnehmenden mit ihren Themen, Fragen und Beiträgen im Mittelpunkt der Veranstaltung. Welche Themen vor Ort genau besprochen werden legen die Teilnehmer gemeinsam fest. Ziele von Barcamps sind meist das Lösen von Problemen wie auch das (Provozieren)[https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Provokationstechnik.md]  von Innovationen durch Zusammentreffen von Teilnehmer aus den verschiedensten Bereichen des Unternehmens bzw. der Forschungsgruppe.[^3]
 
 
 # Allgemeiner Ablauf eines Barcamps
