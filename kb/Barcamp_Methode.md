@@ -51,8 +51,7 @@ Nach dem Barcamp werden die Dokumentationen der Teilnehmer gesammelt und in eine
 | Moderation der Sessions durch das Orga-Team |
 | Dokumentation der Sessions durch das Orga-Team |
 | Live-Streaming/Aufnahmen der Sessions, weil dies den geschützten Rahmen stört |
-| Ausschluss von Personen |[^3]
-
+| Ausschluss von Personen[^3] |
 # Gut zu wissen
 Teilnehmer, die das erste Mal in einem Barcamp mitwirken werden zu Beginn eventuell leicht überfordert sein, daher ist es wichtig den Teilnehmern in der Eröffnungrede Mut zuzusprechen und klarzustellen das nicht alles glatt laufen muss. Das Orga-Team steht jederzeit zur Unterstützung bei Fragen und Hindernissen bereit. Wichtig ist das der Barcamp Moderator den Mut hat das "Zepter" aus der Hand zu geben und seinen Teilnehmern während des Barcamps blind vertraut.[^4]
 
