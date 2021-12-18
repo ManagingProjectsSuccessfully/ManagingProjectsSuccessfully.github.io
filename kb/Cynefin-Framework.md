@@ -121,4 +121,5 @@ Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, da
 [^6]: [Cynefin Framework](Cynefin-Framework/Cynefin_as_of_1st_June_2014.png)
 [^7]: [Wicked Problem](Cynefin-Framework/Wicked_Problem.png)
 [^8]: [Cynefin Framework Wikipedia](https://de.wikipedia.org/wiki/Cynefin-Framework)
+[^9]: [Stacey Matrix-Orientierungen bei unsicheren Problemlagen](https://www.marketinginstitut.biz/blog/stacey-matrix/#:~:text=Stacey%20Matrix%20und%20Cynefin-Framework%20Die%20Stacey%20Matrix%20visualisiert,spezifische%20Handlungsempfehlungen%20%28z.B.%20agieren%2C%20reagieren%2C%20analysieren%20oder%20probieren%29.)
 
