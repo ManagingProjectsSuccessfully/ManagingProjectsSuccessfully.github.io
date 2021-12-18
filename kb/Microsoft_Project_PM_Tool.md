@@ -95,5 +95,5 @@ Der Meilenstein am unteren, rechten Bildsschirmrand repräsentiert ein Zwischenz
 [^1]: https://de.wikipedia.org/wiki/Microsoft_Project
 [^2]: [Schwab, Josef: Projektplanung mit Project 2010, Carl Hanser Verlag GmbH & Co. KG, 2011](https://www.hanser-elibrary.com/doi/book/10.3139/9783446428423)
 [^3]: https://www.projektmanager-blog.de/post/ms-project
-[^4]: Schmidt, Oliver (2021) 
+[^4]: https://bilder.buecher.de/zusatz/08/08755/08755986_lese_1.pdf 
 
