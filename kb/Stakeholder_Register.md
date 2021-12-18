@@ -62,7 +62,7 @@ Weitere Leitsätze, die bei der Erstellung des Registers wichtig zu beachten sin
 
 Das Dokument sollte mit anderen [Projektdokumentationen](Projektdokumentation.md) aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein. [^2]
 
-![Beispiel für ein fertiges Register](Stakeholder_Register/stakeholder-register.png "Beispiel für ein fertiges Register")
+![Beispiel für ein fertiges Register](Stakeholder_Register/stakeholder-register.png "Beispiel für ein fertiges Register") [^3]
 
 ## Analyse der Stakeholder
 
