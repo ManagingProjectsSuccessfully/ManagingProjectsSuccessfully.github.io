@@ -9,7 +9,7 @@ anrechnung: k
 
 
 Die Provokationstechnik ist eine Methode zur Ideenfindung, eingeführt von Edward de Bono. Mithilfe von so genannten Provokationen werden bestehende Annahmen und Sichtweisen in Frage gestellt.
-Die Provokationstechnik ist eine [Kreativitätstechnik](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken), welche im Rahmen des klassischen [Projektmanagment](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) verwendet wird, um innovative Ideen und Ansätze zu generieren.[^1]
+Die Provokationstechnik ist eine [Kreativitätstechnik](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken), welche im Rahmen des klassischen [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) verwendet wird, um innovative Ideen und Ansätze zu generieren.[^1]
 
 ## Provokation
 
@@ -36,7 +36,7 @@ Am einfachsten kann man PO als „Was wäre, wenn…?“ interpretieren, also
 ## Nutzen
 
 Der Nutzen von (mentalen) Provokationen liegt in der Möglichkeit neue Dinge in Betracht zu ziehen, auf welche man normalerweise nie gekommen wäre. 
-Als eine Form der [Kreativitätstechniken](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) hilft sie durch Ideenfindungsworkshops beispielweise, neue Produkt und Marketingideen aufzudecken.
+Als eine Form der [Kreativitätstechniken](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) hilft sie durch Ideenfindungsworkshops beispielweise, neue Produkt und Marketingideen zu generieren.
 
 
 ![movement-technique](https://user-images.githubusercontent.com/92984346/143011134-748857c9-a40e-480c-9b88-bfc51285b270.png)
@@ -50,7 +50,6 @@ Die Provokationstechnik ist zudem eine Möglichkeit die geistige Flexibilität z
 
 Beispiele für mentale Provokationen aus dem Alltag:
 
-* PO Das Mittelmeer ist voll mit Apfelschorle.
 * PO Das Ziffernblatt einer Uhr bewegt sich, die Zeiger bleiben stehen.
 * PO Der Arbeitgeber arbeitet für den Arbeitnehmer.
 * PO Je länger man im Internet surft, desto weniger Datenvolumen verbraucht man.
@@ -99,18 +98,11 @@ Hier wird eine qualitative Eigenschaft der Problemstellung verändert, z. B.
    * PO Die Schulmauern sind aus Duplosteinen gebaut.
 
 
-## Anwendnung
+## Anwendnung 
    
 Der schwierigste Part nach der Bildung einer Provokation liegt darin eine Lösungsidee zu entwickeln. 
 Erfahrungsgemäß ist dies der komplizierteste Teil der Technik. 
-Am Beispiel Schule könnte dies zum Beispiel sein:
-
-* Aus "PO Die Schule hat keine Gebäude" könnte die Idee des Homeschooling entstehen.
-* Aus "PO Die Schulpflicht geht bis zur 13. Klasse" könnte die Idee, das G9 wiedereinzuführen entstehen.
-* Aus "PO Erst kommt der Berufsanfang, dann die Schule" könnte die Idee von Praxisnäheren Schulen entstehen.   
-* Aus "PO Schüler unterrichten Lehrer" könnte die Idee, verstärkt den Fokus auf Referate und Präsentationen im Unterricht zu legen.
-
-(Diese Ideen wurden bereits verwirklicht.)
+Am Beispiel "PO Die Schule hat keine Gebäude" könnte die Idee des Homeschooling entstehen und aus "PO Schüler unterrichten Lehrer" könnte die Idee, verstärkt den Fokus auf Referate und Präsentationen zu legen, entstehen.
 
 
 ## Vor- und Nachteile
@@ -119,6 +111,10 @@ Am Beispiel Schule könnte dies zum Beispiel sein:
 | ------------- | ------------- |
 | Methode durchbricht gezielt alte Denkmuster und produziert innovative Ideen| Der Umgang mit Provokationen ist am Anfang tendenziell schwer und viele Menschen werden dadurch entmutigt  |
 | Regt die Kreativität an  | Methode oft nicht erfolgreich, da Provokationen meist weit von der Realität entfernt sind und sich dadurch keine nützliche Idee ergibt  |
+
+## Fazit
+
+Zusammenfassend ist die Provokationstechnik eine potentiell sehr nützliche Technik, um neue Ideen und Denkgrundlagen besonders in der Anfangsphase des klassischen Projektmanagement zu generieren. Die Technik weist Vor- und Nachteile aus, daher muss kontextabhängig entschieden werden, ob diese Methode während des klassischem Projektmanagement angewandt wird.
 
 
 ## Siehe auch
