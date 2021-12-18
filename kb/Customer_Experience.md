@@ -29,7 +29,10 @@ Dabei lassen sich verschiedene Teilbereiche unterscheiden:
 2. Die „Service Experience“: Dies bezieht sich hauptsächlich auf Interaktionserfahrung mit Servicekunden und Serviceunternehmen
 3. Die „Brand Experience“:   Reaktion eines Kunden auf die Marke
 4. Die „Shopping Experience“: beschreibt die Kundenerfahrung, die durch unterschiedliche Reize in der Kaufsituation verursacht wird
-5. Die „Consumption Experience“: Sie fasst das Erlebnis zusammen, das bei der letztendlichen Nutzung des Produktes entsteht. [^5]
+5. Die „Consumption Experience“: Sie fasst das Erlebnis zusammen, das bei der letztendlichen Nutzung des Produktes entsteht. 
+
+Hervorzuheben ist, dass alle Teilbereiche zusammen das Customer Experience ausmachen und gleichermaßen berücksichtigt werden müssen, um ein stimmiges Gesamterlebnis zu erhalten. 
+Es reicht nicht aus, einen Bereich besonders gut zu gestalten und einen anderen Bereich zu ignorieren.[^5]
 
 
 # Wie wird CX von erfolgreichen Unternehmen umgesetzt?
