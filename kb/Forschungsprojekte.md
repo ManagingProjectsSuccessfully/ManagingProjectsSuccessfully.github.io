@@ -4,10 +4,10 @@ tags: agil klassisch pm forschung projekt
 author: CatrinSc
 anrechnung: k
 ---
-Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt von mehreren Wissenschaftlern, wissenschaftlichen Gesellschaften, eines Instituts oder einer Organisation, mit dem Ziel einen Erkenntnisgewinn für ein aktuelles Thema in der Forschung zu generieren. Ein [Projekt](Projekt.md) der angewandten Forschung verfolgt eher das Ziel, bereits erforschte Methoden zu verbessern.
+Forschungsprojekte sind vornehmlich einmalig befristete Vorhaben, durchgeführt von mehreren Wissenschaftler:innen, wissenschaftlichen Gesellschaften, eines Instituts oder einer Organisation, mit dem Ziel einen Erkenntnisgewinn für ein aktuelles Thema in der Forschung zu generieren. Ein [Projekt](Projekt.md) der angewandten Forschung verfolgt eher das Ziel, bereits erforschte Methoden zu verbessern.
 
 # Allgemeines
-Eine Förderung erfolgt meist durch Drittmittel (Forschungsfonds, öffentliche oder industrielle Förderungsgelder). Um solche Drittmittel zu erhalten ist ein ausführlicher [Projektantrag](Projektantrag.md) (vergleichbar mit einem klassischen Projektantrag) nötig. Dieser legt Ziele, [Risiken](Risikoanalyse_und_Visualisierung.md), Methoden und [Ressourcen](Ressourcenplanung.md), [Zeit-](Zeitplanung.md) und [Finanzplanung](Kostenplanung.md), Angaben über [Qualifikation](Faehigkeiten_Projektleiter.md) der/des [Projektleiter/s](Projektleiter.md) sowie eine populär gehaltene Kurzfassung dar. [Abschlussberichte](Projektabschlussbericht.md) sind von großer Bedeutung, aber auch Zwischenberichte werden häufig erstellt, um dem Geldgeber oder der Universität von dem Fortschritt zu berichten. Aufgrund ihrer typischen Kriterien haben Forschungsprojekte ein hohes Risiko, nicht erfolgreich zu sein [^1].
+Eine Förderung erfolgt meist durch Drittmittel (Forschungsfonds, öffentliche oder industrielle Förderungsgelder). Um solche Drittmittel zu erhalten ist ein ausführlicher [Projektantrag](Projektantrag.md) (vergleichbar mit einem klassischen Projektantrag) nötig. Dieser legt Ziele, [Risiken](Risikomanagement.md), Methoden und [Ressourcen](Ressourcenplanung.md), [Zeit-](Zeitplanung.md) und [Finanzplanung](Kostenplanung.md), Angaben über [Qualifikation](Faehigkeiten_Projektleiter.md) der [Projektleiter:innen](Projektleiter.md) sowie eine populär gehaltene Kurzfassung dar. [Abschlussberichte](Projektabschlussbericht.md) sind von großer Bedeutung, aber auch Zwischenberichte werden häufig erstellt, um dem Geldgeber oder der Universität von dem Fortschritt zu berichten. Aufgrund ihrer typischen Kriterien haben Forschungsprojekte ein hohes Risiko, nicht erfolgreich zu sein [^1].
 
 ## Typische Kriterien
 * Bereiche: Medizin, Naturwissenschaft, Technik 
@@ -27,10 +27,10 @@ Eine Förderung erfolgt meist durch Drittmittel (Forschungsfonds, öffentliche o
 *Forschungsfrage entwickeln* [^7]
 
 # Forschungsprojekte im Projektmanagement
-Das [Projektmanagement](Projektmanagement.md) ist für die Forschung von enormer Bedeutung. Denn ohne Projektmanagement ist das Risiko noch höher, dass das Forschungsprojekt scheitert [^2]. Des Weiteren kann das Projektmanagement die Forscher entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialisierte Agenturen können so die [Qualität](Qualitaetssicherung.md) sichern, die zum Beispiel in der Medizintechnik eine große Rolle spielt [^5].
-Es ist wichtig, klare Anforderungen zu formulieren. Dabei muss die Risikobeurteilung und Ressourcenplanung ausreichend berücksichtigt werden, auch wenn das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und den Ehrgeiz der Forscher. Da Management nicht direkt mit Forschung assoziiert wird, wird dieses von ihnen eher als lästig oder unnötig empfunden [^2].
+Das [Projektmanagement](Projektmanagement.md) ist für die Forschung von enormer Bedeutung. Denn ohne Projektmanagement ist das Risiko noch höher, dass das Forschungsprojekt scheitert [^2]. Des Weiteren kann das Projektmanagement die Forscher:innen entlasten, damit diese sich besser auf die Forschung konzentrieren können. Spezialisierte Agenturen können so die [Qualität](Qualitaetssicherung.md) sichern, die zum Beispiel in der Medizintechnik eine große Rolle spielt [^5].
+Es ist wichtig, klare Anforderungen zu formulieren. Dabei muss die Risikobeurteilung und Ressourcenplanung ausreichend berücksichtigt werden, auch wenn das Forschungsgebiet und die Forschungsmethode bereits bekannt ist. Der Forschungsprozess verläuft nicht ziel- sondern inputorientiert, gesteuert durch Zufälle und den Ehrgeiz der Forscher:innen. Da Management nicht direkt mit Forschung assoziiert wird, wird dieses von ihnen eher als lästig oder unnötig empfunden [^2].
 
-Das abgebildete Diagramm zeigt, dass vor allem mangelnde[ Kommunikation](Projektkommunikation.md) sowie schlechte [Projektplanung](Projektplanung.md) Ursachen für ein gescheitertes Projekt sein können. Deswegen sollten diese Aspekte besonders in den Lösungsansätzen berücksichtigt werden. Eine geeignete Projektmanagement-Methode kann ausgewählt werden, indem man sich bewusst macht, ob eine agile oder klassische Methode in Frage kommt. 
+Das abgebildete Diagramm zeigt, dass vor allem mangelnde [Kommunikation](Projektkommunikation.md) sowie schlechte [Projektplanung](Projektplanung.md) Ursachen für ein gescheitertes Projekt sein können. Deswegen sollten diese Aspekte besonders in den Lösungsansätzen berücksichtigt werden. Eine geeignete Projektmanagement-Methode kann ausgewählt werden, indem man sich bewusst macht, ob eine agile oder klassische Methode in Frage kommt. 
 
 ![Warum-scheitern-Projekte](Forschungsprojekte/Warum-scheitern-Projekte.jpg)
 
@@ -56,13 +56,13 @@ Die unten aufgeführte Tabelle zeigt mögliche Kategorien und deren Einordnung v
 *klassisch vs. agil* [^3]
 
 ## Lösungsansatz
-Eine mögliche Lösung stellt hierbei das [Microsoft Project](Microsoft_Project_PM_Tool.md)/[Microsoft Planner](Microsoft_Planner_PM_Tool.md)-Tool dar. Da es ein benutzerfreundliches Tool für zentrales Projektmanagement mit einer gemeinsamen Arbeits- und Informationsplattform für Forscher und Projektbeteiligte ist, kann es besonders mangelnde Kommunikation verhindern und die Projektplanung verbessern [^4]. 
+Eine mögliche Lösung stellt hierbei das [Microsoft Project](Microsoft_Project_PM_Tool.md)/[Microsoft Planner](Microsoft_Planner_PM_Tool.md)-Tool dar. Da es ein benutzerfreundliches Tool für zentrales Projektmanagement mit einer gemeinsamen Arbeits- und Informationsplattform für Forscher:innen und Projektbeteiligte ist, kann es besonders mangelnde Kommunikation verhindern und die Projektplanung verbessern [^4]. 
 
 Nützliche Funktionen des PPM-Tools für Forschungsprojekte:
 1. zentrales Speichern und Auswerten, standardisierte Dokumentablage durch SharePoint
 2. [Top-down-Planning](Top_Down_Planning.md), [Bottom-up-Planning](Bottom_Up_Planning.md), [Meilensteinübersicht](Meilensteine.md), Projektampeln (Erweiterung Multiprojekt)
 3. Verknüpfung zum eigenen/firmenübergreifenden Termin-/Projektplan (Erweiterung Softlinks)
-4. detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleitern und [Controllern](Projektcontrolling.md) (Erweiterung ERP-System) [^4]
+4. detaillierter Import von Finanzzahlen, automatisierter Datenaustausch, Verbinden von Projektleiter:innen und [Controller:innen](Projektcontrolling.md) (Erweiterung ERP-System) [^4]
 
 
 # Aktuelle Forschungsprojekte
