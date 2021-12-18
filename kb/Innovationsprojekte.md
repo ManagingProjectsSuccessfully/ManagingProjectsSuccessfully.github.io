@@ -1,11 +1,11 @@
 ---
 title: Innovationsprojekte
-tags: innovation projekt
+tags: innovation projekt planung management
 author: pamerkl
 anrechnung: k
 ---
 
-Innovationsprojekte verknüpfen Innovationen mit Projekten, wobei Lösungen verschiedenster Arten erarbeitet werden. Hinsichtlich der unterschiedlichen Formen und Eigenschaften solcher Projekte, braucht es eine detaillierte Aufteilung in einzelne Phasen sowie angepasste Management-Methoden, um das Innovationsprojekt erfolgreich zu realisieren.
+Innovationsprojekte verknüpfen Innovationen mit Projekten und dienen als Instrument zur Lösung von Kundenproblemen. Hinsichtlich der unterschiedlichen Formen und Eigenschaften solcher Projekte, braucht es eine detaillierte Aufteilung in einzelne Phasen sowie angepasste Management-Methoden, um das Innovationsprojekt erfolgreich zu realisieren.
 
 # 1.	Innovation und Projekte
 
@@ -13,11 +13,13 @@ Innovation wird oft primär mit Produktneuerungen in Verbindung gebracht, was al
 
 Umgesetzt werden solche Innovationen in einem Unternehmen häufig im Rahmen eines [Projekts](Projekt.md), welches neu sein muss, innerhalb eines vorgegebenen zeitlichen Rahmens (siehe [Zeitplanung](Zeitplanung.md)) durchgeführt werden und eine eindeutig definierte Absicht verfolgen muss. Insbesondere die [Projektsteuerung](Projektsteuerung.md) bei Innovationsprojekten stellt eine Herausforderung dar. Da sich in der Regel in Bezug auf Zeit, Qualität und Kosten verschiedene Zielsetzungen herauskristallisieren, kann dies folglich zu [Zielkonflikten](Zielkonflikte.md) führen.[^3]
 
-<img src="Innovationsprojekte/magisches-dreieck-pm.jpg" alt="Magisches Dreieck" width="500"/>
+<img src="Innovationsprojekte/magischesdreieck.jpg" alt="Magisches Dreieck" width="350"/>
 
 *[Magisches Dreieck](Magisches_Dreieck.md)*
 
 # 2.	Innovationsprojekte
+Um den Erfolg eines Innovationsprojekts gewährleisten zu können, müssen einige Aspekte berücksichtigt werden.
+
 ## 2.1	Eigenschaften
 
 Innovationsprojekte erfüllen für gewöhnlich vier grundlegende Eigenschaften:
