@@ -5,7 +5,7 @@ author: urimi0
 anrechnung: k 
 ---
 
-ClickUp[^1] ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für sämtliche Arten und Größen von Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von [Projekten](Projekt.md) dienen werden auf einer Plattform zusammengefügt[^2]. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.
+[ClickUp](https://clickup.com) ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für sämtliche Arten und Größen von Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von [Projekten](Projekt.md) dienen werden auf einer Plattform zusammengefügt[^2]. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.[^1]
 
 ![ClickUp_Logo](ClickUp_PM_Tool/logo.png)
 
@@ -62,6 +62,11 @@ Docs gibt die Möglichkeit unterschiedlichste Dokumente mit Teammitgliedern teil
 # Einstieg in ClickUP
 ## App 
 
+ClickUp wirbt ihre App mit dem Spruch: „One App to replace them all“. Erneut sollen Funktionen aus verschiedenen anderen Apps zu einer Anwendung zusammengeführt
+werden. Ob als Tabellenkalkulation, [Kanban Board](Kanban_Board.md) oder auch als Projektmanagement-App wie [Microsoft Project](Microsoft_Project_PM_Tool.md), die
+App ermöglicht verschiedene Anwendungsmöglichkeiten.[^6]
+
+
 ## Erleichterte Datenübernahme
 
 ClickUp erleichtert Usern den Umstieg von anderen Projetkmanagement-Tools auf die eigene Anwendung, indem sie Import-Optionen von anderen Plattformen anbieten.
@@ -113,4 +118,4 @@ Spotify, und viele Weitere[^5].
 [^3]: [ClickUp_Help](https://docs.clickup.com/en/)
 [^4]: [Mintblau.com](https://www.mintblau.com/blog/projektmanagement-mit-clickup)
 [^5]: [Embeding URL & HTML](https://docs.clickup.com/en/articles/2934308-embed-view)
-
+[^6]: [ClickUp App](https://publishingblog.ch/wie-kann-clickup-eine-app-fuer-alles-sein/)
