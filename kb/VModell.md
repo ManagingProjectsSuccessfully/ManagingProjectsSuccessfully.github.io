@@ -35,7 +35,7 @@ Zu 1: Die linke Seite des V wird auch "Entwurfsphase" genannt. Sie übersetzt An
 
 Zu 2: Die Implementierungsphase variiert je nach Projekt, daher gibt es dazu im V-Modell keine Vorschriften für die Umsetzung.
 
-zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebene in der Entwurfsphase gegenüber (Bottom-Up-Prinzip).
+zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebene in der Entwurfsphase gegenüber (Bottom-Up-Prinzip).[^4]
      
      3.1 Komponententest: Funktionen einzelner Komponenten werden getestet.
      
@@ -73,5 +73,6 @@ zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebe
 [^1]: https://de.wikipedia.org/wiki/V-Modell
 [^2]: https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/v-modell/
 [^3]: https://projekte-leicht-gemacht.de/wp-content/uploads/2021/08/v-modell.jpg
+[^4]: https://t2informatik.de/wissen-kompakt/v-modell/
 
 
