@@ -1,15 +1,13 @@
-
 ---
-title: Johari_Fenster
-tags: klassisch
-author: ChrisBohl
-anrechnung: k 
+title: {Johari_Fenster}
+tags: {klassisch}
+author: {ChrisBohl}
+anrechnung: {k} 
 ---
-
 
 # Motivation 
 
-Kommunikation ist ein wichtiges Element für eine effektive Teamkollaboration. Eine durch Kommunikation verbesserte Teamzusammenarbeit erhöht die Wahrscheinlichkeit, dass die Tätigkeiten des Teams auf einen erfolgreichen Projektabschluss abzielen. Unternehmen haben das Potenzial von Kommunikation in der Teambildung erkannt und stellen dementsprechend Budget und zeitliche Aufwendungen für die Entwicklung von Kommunikation in Projektmanagementprozessen bereit. Vor diesem Hintergrund ist es für den:die Projektmanager:in von entscheidenter Bedeutung, die Entwicklung von Kommunikationskompetenzen während der Teamzusammenarbeit in Projektmangementprozessen mit besonderen Augenmerk zu fördern. Das heißt einerseits, dass Lernprozesse in der alltäglichen Teamkollaboration bestmöglich und methodengestützt unterstützt werden und andererseits, dass Störungen für die Kommunikationskompetenzentwicklung des Teams möglichst minimiert werden. Eine Methode zur Förderung der Kommunikationskompetenzentwicklung auf Teamebene ist das Johari Fenster[^1]. 
+Kommunikation ist ein wichtiges Element für eine effektive Teamkollaboration in einem [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md). Eine durch [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md) verbesserte Teamzusammenarbeit erhöht die Wahrscheinlichkeit, dass die Tätigkeiten des Teams auf einen erfolgreichen Projektabschluss abzielen. Unternehmen haben das Potenzial von Kommunikation in der Teambildung erkannt und stellen dementsprechend Budget und zeitliche Aufwendungen für die Entwicklung von Kommunikation in [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)-Prozessen bereit. Vor diesem Hintergrund ist es für den:die Projektmanager:in von entscheidenter Bedeutung, die Entwicklung von Kommunikationskompetenzen während der Teamzusammenarbeit in Projektmangementprozessen mit besonderen Augenmerk zu fördern. Das heißt einerseits, dass Lernprozesse in der alltäglichen Teamkollaboration bestmöglich und methodengestützt unterstützt werden und andererseits, dass Störungen für die Kommunikationskompetenzentwicklung des Teams möglichst minimiert werden. Eine Methode zur Förderung der Kommunikationskompetenzentwicklung auf Teamebene ist das Johari Fenster[^1]. 
 
 # Der Blick durch das Johari-Fenster
 
@@ -17,13 +15,13 @@ Mit dem Johari-Fenster Modell wird der Versuch unternommen, die Persönlichkeit 
 
 ![2021-11-16 15_23_23-Window](https://user-images.githubusercontent.com/63149703/142004395-8e076ca8-1e12-4e28-a73c-cb0e2df3dfdd.png)[^3].
 
-Der Bereich zur "Öffentlichen Person" ist dem Individuum selbst und anderen bewusst. Die Informationen werden von der Einzelnen bzw. dem Einzelnen offen und bereitwillig über mehrere Kommunikationskanäle preisgegeben. Informationen können zum Beispiel über den Kleidungsstil, bewusster Mimik oder Gestik offen kommuniziert werden[^1].
+Der Bereich zur *__Öffentlichen Person__* ist dem Individuum selbst und anderen bewusst. Die Informationen werden von der Einzelnen bzw. dem Einzelnen offen und bereitwillig über mehrere Kommunikationskanäle preisgegeben. Informationen können zum Beispiel über den Kleidungsstil, bewusster Mimik oder Gestik offen kommuniziert werden[^1].
 
-"Mein Geheimnis" beschreibt einen Bereich, in dem Individuen versuchen Informationen vor anderen zurückzuhalten. Das heißt die Zurückhaltung von Informationen geschieht hier bewussst von einem Selbst und es werden Informationen bewusst nicht als Wissen über einen Selbst für die Perspektive der anderen geteilt[^1]. 
+*__Mein Geheimnis__* beschreibt einen Bereich, in dem Individuen versuchen Informationen vor anderen zurückzuhalten. Das heißt die Zurückhaltung von Informationen geschieht hier bewussst von einem Selbst und es werden Informationen bewusst nicht als Wissen über einen Selbst für die Perspektive der anderen geteilt[^1]. 
 
-Der "Blinde Fleck" beschreibt Informationen über einen Selbst, die für andere offensichtlich, für einen Selbst aber verborgen sind. Oft werden den Individuen diese Informationen erst durch direktes Feedback beispielsweise vermittelt. An der Stelle ist hinzuzufügen, dass Feedback für eine erfolgreiche Teamkommunikation eine enorme Bedeutung einnimmt, da schließlich den einzelnen Individuen Wissen über sie Selbst vermittelt wird, wobei sie mit diesem Wissen sowie einer erfolgreichen Selbstreflexion zu diesem ihre eigene Kompetenzentwicklung fördern können[^1].
+Der *__Blinde Fleck__* beschreibt Informationen über einen Selbst, die für andere offensichtlich, für einen Selbst aber verborgen sind. Oft werden den Individuen diese Informationen erst durch direktes Feedback beispielsweise vermittelt. An der Stelle ist hinzuzufügen, dass Feedback für eine erfolgreiche Teamkommunikation eine enorme Bedeutung einnimmt, da schließlich den einzelnen Individuen Wissen über sie Selbst vermittelt wird, wobei sie mit diesem Wissen sowie einer erfolgreichen Selbstreflexion zu diesem ihre eigene Kompetenzentwicklung fördern können[^1].
 
-Das "Unbekannte" ist der Bereich, in dem weder Individuen über sich Selbst noch andere Wissen zur Persönlichkeit besitzen. Dieser Bereich ist vor dem Hintergrund interessant, da hier verborgene Potenziale liegen können, die durch die Tätigkeit in Projektmanagementprozessen freigesetzt werden können. Dies birgt gleichwohl Potenziale für Teamarbeit, da hier noch nicht vorher verfügbare Kompetenzen -die für den Teamerfolg von Bedeutung sind- entdeckt werden können[^1]. 
+Das *__Unbekannte__* ist der Bereich, in dem weder Individuen über sich Selbst noch andere Wissen zur Persönlichkeit besitzen. Dieser Bereich ist vor dem Hintergrund interessant, da hier verborgene Potenziale liegen können, die durch die Tätigkeit in Projektmanagementprozessen freigesetzt werden können. Dies birgt gleichwohl Potenziale für Teamarbeit, da hier noch nicht vorher verfügbare Kompetenzen -die für den Teamerfolg von Bedeutung sind- entdeckt werden können[^1]. 
 
 # Umsetzung und Ziel des Johari-Fensters
 
@@ -69,9 +67,9 @@ Woodward H., & Bucholz, S. (1989). Aftershock: Helping people through corporate 
 
 # Quellen
 
-[^1]: [Seeing through the Johari Windowimproving the quality of interpersonal communication] (PMI Learning: https://www.pmi.org/learning/library/improving-quality-interpersonal-communication-7781)
-[^2]: [Effective strategies to move from change to resilience] (PMI Learning: https://www.pmi.org/learning/library/effective-strategies-move-change-resilience-6002)
-[^3]: [Abbildung Johari-Fenster via Wikipedia] (Wikipedia Eintrag: https://upload.wikimedia.org/wikipedia/commons/a/a4/Johari2.svg)
-[^4]: [The Johari Window: Helping Build Trust Through Communication] (Beitrag in: https://www.educational-business-articles.com/johari-window/)
-[^5]: [Johari-Window Method Application] (Interaktive Website zur Bestimmungder Johari-Adjektive: https://kevan.org/johari)
+[^1]: [Seeing through the Johari Windowimproving the quality of interpersonal communication](PMI Learning: https://www.pmi.org/learning/library/improving-quality-interpersonal-communication-7781)
+[^2]: [Effective strategies to move from change to resilience](PMI Learning: https://www.pmi.org/learning/library/effective-strategies-move-change-resilience-6002)
+[^3]: [Abbildung Johari-Fenster via Wikipedia](Wikipedia Eintrag: https://upload.wikimedia.org/wikipedia/commons/a/a4/Johari2.svg)
+[^4]: [The Johari Window: Helping Build Trust Through Communication](Beitrag in: https://www.educational-business-articles.com/johari-window/)
+[^5]: [Johari-Window Method Application](Interaktive Website zur Bestimmungder Johari-Adjektive: https://kevan.org/johari)
 
