@@ -35,7 +35,7 @@ Zu 1: Die linke Seite des V wird auch "Entwurfsphase" genannt. Sie übersetzt An
 
 Zu 2: Die Implementierungsphase variiert je nach Projekt, daher gibt es dazu im V-Modell keine Vorschriften für die Umsetzung.
 
-zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebene in der Entwurfsphase gegenüber (Bottom-Up-Prinzip).[^4]
+zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebene in der Entwurfsphase gegenüber (Bottom-Up-Prinzip).[^2][^4]
      
      3.1 Komponententest: Funktionen einzelner Komponenten werden getestet.
      
@@ -43,7 +43,7 @@ zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebe
      
      3.3 Systemtest: Hier kommt spätestens der Kunde ins Spiel, welcher das System als Ganzes intensiven Testläufen unterzieht.
      
-     3.4 Abnahmetest: Dies ist der Finale Test des Projekts. Dieser sollte in einer Umgebung stattfinden, die der späteren Produktivumgebung möglichst ähnlich ist. Auch die Nutzer sollten den Endnutzern Entsprechen, um ein möglichst aussagekräftiges Testergebnis zu ermitteln.[^2]
+     3.4 Abnahmetest: Dies ist der Finale Test des Projekts. Dieser sollte in einer Umgebung stattfinden, die der späteren Produktivumgebung möglichst ähnlich ist. Auch die Nutzer sollten den Endnutzern Entsprechen, um ein möglichst aussagekräftiges Testergebnis zu ermitteln.
 
 # Vor und Nachteile des V-Modells
 |Vorteile|Nachteile|
