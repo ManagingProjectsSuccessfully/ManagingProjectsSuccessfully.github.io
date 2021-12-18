@@ -40,13 +40,6 @@ Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und deutet darauf h
 
 ## Denkansätze zur Circular Economy
 
-|Ansatz| Beschreibung|
-|Performance Economy| Die Auswirkungen auf Abfallvermeidung, rationelle Nutzung begrenzter Ressourcen, die Schaffung neuer Arbeitsplätze und das Wachstum. [^7]|
-|Öko-industrielle Entwicklung| Ein geschlossenen Produktionskreislauf zur Minimierung von Umweltproblemen, wie Ressourceneffizienz etc. Hauptziel Verbesserung der wirtschaftlichen Umweltleistung.[^8]|
-|Regnerative Gestaltung| Die Erneuerung oder Revitalisierung von Energie und Materialien für die Produktion und Bedingungen schaffen für ein nachhaltiges
-Wirtschaftssystem.[^8]|
-|Biomimicry| Innovationen, die von der Natur inspiriert werden. Die drei Grundprinzipien von Biomimicry sind: - Die Natur als Modell für die Lösung menschlicher Probleme. - Die Natur als Messlatte. - Die Natur als Mentor. [^8]|
-
 ### 1. Performance Economy
 
 Dieser Denkansatz beschreibt eine Kreislaufwirtschaft und ihre Auswirkungen auf Abfallvermeidung, rationelle Nutzung begrenzter Ressourcen, die Schaffung neuer Arbeitsplätze und
@@ -79,8 +72,8 @@ Die drei Grundprinzipien von Biomimicry.
 Kreislaufwirtschaft bezieht sich normalerweise auf die Menge an recycelten Materialien oder die Reduzierung von Abfall. Das Design von Cradle zu Cradle konzentriert sich jedoch 
 auf die Produktqualität, einschließlich der Sicherheit für Mensch und Umwelt. Weiterhin wird durch dieses Modell ersichtlicher, dass die in einer Kreislaufwirtschaft zwei 
 verschiedene Produkte in Kreisläufen fließen. 
-* Im biologischen Kreislauf kehren [Ressourcen](Ressourcenplanung.md) in die Natur zurück. 
-* Im technologischen Kreislauf zirkulieren [Ressourcen](Resscourcenplanung.md) endlos im Kreislauf. [^7]
+* Im biologischen Kreislauf kehren Ressourcen in die Natur zurück. 
+* Im technologischen Kreislauf zirkulieren Ressourcen endlos im Kreislauf. [^7]
 
 ### 6. Blue Economy
 
