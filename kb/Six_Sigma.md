@@ -10,13 +10,14 @@ Six Sigma wurde in den 1980-Jahren von Motorola entwickelt, einem US-amerikanisc
 # Definition
 
 Six Sigma ist eine systematische und strukturierte Methode zur nachhaltigen Verbesserung von Prozessen, Abläufen und Produkten in allen Bereichen eines Unternehmens. Sie verfolgt dabei zwei Ziele gleichzeitig: Völlige Kundenzufriedenheit und maximalen Unternehmenserfolg.[^1]
+
 Sigma σ ist das Kurzzeichen für die Standardabweichung. Sie beschreibt die Abweichung der Daten vom Mittelwert, das heißt, je größer die Standardabweichung, desto breiter sind die Werte eines Merkmals gestreut. Das sogenannte Sigma-Level hängt von der Anzahl an Standardabweichungen ab, die zwischen den Mittelwert einer Datenmenge und den festgelegten Spezifikationsgrenzen passt. Die Spezifikationsgrenzen schließen den Toleranzbereich ein, in dem ein Ergebnis als fehlerfrei angesehen wird. Wenn zwischen dem Mittelwert und den Spezifikationsgrenzen sechs Standardabweichungen passen, spricht man von einem Six-Sigma-Prozess.[^1]
 
 ![Beispielabbildung](Six_Sigma/Unbenannt.PNG)[^1]
 
 Ziele von Six-Sigma sind die Reduzierung von Fehlerkosten und die Verbesserung des Unternehmensergebnis. Die Ergebnisverbesserung korreliert mit sinkenden Fehlerkosten. Fehlerkosten sind beispielsweise Ausschuss, Nacharbeit und Garantieleistungen.[^1]
 
-Die Sigma-Skala korreliert direkt mit den Fehlerkosten: Je höher der Sigma-Level, desto geringer die Fehlerkosten. Den Zusammenhang zwischen Qualität und Kosten kann man grafisch mit zwei Kurven visualisieren. Je besser die Qualität im Unternehmen, desto niedriger sind die Fehlerkosten. Jedoch muss, um eine hohe Qualität zu erreichen, etwas getan werden, zum Beispiel in Form von vorbeugenden Maßnahmen oder nachfolgenden Prüfungen. Damit ergibt sich eine gegenläufig ansteigende Kurve. Traditionell sucht ein Unternehmen nun den optimalen Punkt, den Kompromiss aus Fehlerkosten und Fehlervermeidung bzw. Fehlerentdeckung.[^1]
+Die Sigma-Skala korreliert direkt mit den Fehlerkosten: Je höher das Sigma-Level, desto geringer die Fehlerkosten. Den Zusammenhang zwischen Qualität und Kosten kann man grafisch mit zwei Kurven visualisieren. Je besser die Qualität im Unternehmen, desto niedriger sind die Fehlerkosten. Jedoch muss, um eine hohe Qualität zu erreichen, etwas getan werden, zum Beispiel in Form von vorbeugenden Maßnahmen oder nachfolgenden Prüfungen. Damit ergibt sich eine gegenläufig ansteigende Kurve. Traditionell sucht ein Unternehmen nun den optimalen Punkt, den Kompromiss aus Fehlerkosten und Fehlervermeidung bzw. Fehlerentdeckung.[^1]
 
 ![Beispielabbildung](Six_Sigma/Six-Sigma.PNG)[^1]
 
@@ -36,7 +37,12 @@ Im Anschluss wird in der Improve-Phase zu jedem signifikanten Input aus den Erge
 
 Nach Abschließen der Control-Phase wird schließlich sichergestellt, dass der Prozess dauerhaft verbessert bleibt und dass das erarbeitete Wissen weitergegeben wird.[^1]
 
-[^1]: Melzer, A. (2019). Six Sigma - Kompakt und Praxisnah: Prozessverbesserung Effizient und Erfolgreich Implementieren (2. Aufl.)
+# Siehe auch
+
+* [Six_Sigma_Kernprozess_DMAIC](Six_Sigma_Kernprozess_DMAIC.md)
+* [Six_Sigma_Statistische_Versuchsplanung](Six_Sigma_Statistische_Versuchsplanung.md)
+
+[^1]: [Melzer, A. (2019). Six Sigma - Kompakt und Praxisnah: Prozessverbesserung Effizient und Erfolgreich Implementieren (2. Aufl.)](https://link.springer.com/content/pdf/10.1007%2F978-3-658-23755-4.pdf)
 
 
 
