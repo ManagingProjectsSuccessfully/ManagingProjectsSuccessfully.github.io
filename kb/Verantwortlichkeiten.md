@@ -1,104 +1,85 @@
 ---
 title: Verantwortlichkeiten
-tags: agil klassisch
+tags: klassisch
 author: Polina0402
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Verantwortlichkeiten um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Verantwortlichkeit trägt die Bedeutung des Verantwortlichseins und/oder die Verantwortung für eine bestimmte Handlung tragen. [^1]
+In Verbindung mit dem [Projektmanagement](Projektmanagement.md) spielt die Verantwortlichkeit eine entscheidende Rolle.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Grundlegendes zu Verantwortung
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Verantwortung zu tragen kann sich in vielen Situationen und Formen zeigen. Grundsätzlich kann man sagen, dass Verantwortung damit verbunden ist sich im Klaren zu sein, dass auf jede Handlung eventuelle Konsequenzen stoßen können.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Beispiele, die das Tragen der Verantwortung widerspiegeln:
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+ * Aufziehen eines Kindes
+ * Pflegen von Beziehungen
+ * [Organisationsprojekte](Organisationsprojekte.md)
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Zusätzlich kann man diese Beispiele in freiwillige und nicht freiwillige Übernahme der Verantwortung unterteilen. So wäre die Übernahme der Verantwortung über ein Projekt meist eine freiwillige Aktion. Die Übernahme der Verantwortung über ein Projekt, dass Ihnen ohne Vorwarnung zugewiesen worden ist, wäre unfreiwillig.
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Verantwortung wird meist philosophisch erklärt und beschrieben, da es auch sehr vielschichtig und nicht eindeutig ist. Doch mit dem Begriff Verantwortlichkeit wird oft konkret die Zuweisung einer Aufgabe verbunden, wie ein Projekt zu leiten. [^2]
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+![Bild 1](Verantwortlichkeiten/Grundbeziehungen-der-Verantwortung.jpg)
+*Grundbeziehungen der Verantwortung* [^2]
 
 
-# Aspekt 1
+Verantwortung liegt dem Kongruenzprinzip zugrunde, besteht also aus drei nicht teilbaren Bausteinen: Aufgabe, Befugnis und Rechenschaftspflicht. Laut diesem Prinzip kann eine Person, die eine Aufgabe bekommen hat, nicht ohne die dazugehörige Befugnis handeln. [^3] [^4]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Projektbezogene Verantwortung
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Jedes Projekt hat eine für das Projekt verantwortliche Person. Doch die Verteilung dieser Verantwortung kann variieren.
+Beim Einfluss auf die Verantwortlichkeit spielen verschiedene Faktoren eine wichtige Rolle und zeigen voraus wie gut die Ergebnisse sein werden, die ein Projekt erreicht.
 
-![Beispielabbildung](Verantwortlichkeiten/test-file.jpg)
+## Klare Übertragung der Verantwortung
+Der erste wichtige Punkt bei der Verantwortlichkeit ist es eine Konkrete **Übertragung der Verantwortung** klarzumachen. Eine unverbindliche Übertragung kann unter gehen und nicht ernst genommen werden, sodass Projekte zugrunde gehen können. Zusätzlich benötigt man für eine klare Übertragung auch eine offensichtliche Bestätigung des Gegenübers, dem man die Verantwortung übergibt. [^5] [^6]
 
-*lustiges Testbild*
+## Sinnvolle Aufspaltung der Verantwortung
+Ein weiterer Faktor, der einen wichtigen Einfluss auf die Verantwortung hat, ist die **Anzahl der Menschen**, denen die Verantwortung gegeben ist. Je mehr Menschen, desto aufgespaltener ist die Verantwortung und desto mehr Menschen verspüren folglich auch kaum Verantwortung. Jeder nimmt an, der andere denkt mit und so kommt es zu [klassischen Missverständnissen](Klassische_Missverstaendnisse.md), Konflikten und Fehlern. Außerdem kann es passieren, dass man zu viel Einfluss auf die eigene Entscheidung von außen bekommt und dieser dann zu Unsicherheit führt. [^5]
 
-# Aspekt 2
+![Bild 2](Verantwortlichkeiten/Karrikatur-Verantwortung-übernehemen.png)
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+> Management bedeutet Verantwortung für Ergebnisse 
+[^7]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Und diese Verantwortung muss man schlussendlich richtig und sinnvoll aufteilen, damit positive Ergebnisse erscheinen: eindeutige Ziele verbalisieren und bestätigen und die [Aufgabenteilung](Aufgabenteilung.md) sinnvoll gestalten. [^5]
 
-So kann man eine Tabelle erstellen:
+# Rollen und Verantwortung in Projekten
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Um ein Projekt erfolgreich auf die Beine zu stellen, muss man zum Anfang des Projektes bestimmte Rollen einteilen. Die Aufgabenteilung trägt hierbei der Erleichterung des Arbeitsprozesses bei, aber es wird auch die Verantwortlichkeit aufgeteilt und das macht das Ergebnis damit vielversprechender.
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Die Projekthierarchie schaut folgendermaßen aus [^8][^9] :
+| Bezeichnung     | Aufgabe |
+| ---      | ---       |
+| Projektauftraggeber | Trägt die Gesamtverantwortung für das Projekt. Repräsentiert das Projekt der Firma/des Unternehmens. |
+| [Projektleiter](Projektleiter.md) | Verantwortlich für das Umsetzen des Projektes mit zu beachtenden Zielen (oft zeitliche Ziele) unter stetiger Kontaktaufnahme zum Projektauftraggeber. |
+| Teilprojektleiter | Verantwortlich für Teilprojekte des Projektleiters. |
+| [Projektmitarbeiter](Projektmitarbeiter.md) | Verantwortlich für das aktive Erreichen der Ziele durch das Erledigen der Arbeit (hier sieht man die Aufteilung der Verantwortlichkeit am deutlichsten). | 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Verantwortlichkeiten.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Organisationsprojekte](Organisationsprojekte.md)
+* [klassischen Missverständnissen](Klassische_Missverstaendnisse.md)
+* [Projektleiter](Projektleiter.md)
+* [Aufgabenteilung](Aufgabenteilung.md)
+* [Projektmitarbeiter](Projektmitarbeiter.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Sustainability im Projektmanagement](https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf)
+* [Verantwortungsbereiche und Aufgaben des Projektleiters](https://www.projektmagazin.de/aufgaben-projektmanager-projektleiter)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Verantwortlichkeit](https://www.duden.de/rechtschreibung/Verantwortlichkeit)
+[^2]: [Verantwortung](https://de.wikipedia.org/wiki/Verantwortung#cite_note-8)
+[^3]: [Projektmanagement: Definitionen, Einführungen und Vorlagen](http://projektmanagement-definitionen.de/glossar/verantwortung/)
+[^4]: [Verantwortlichkeit: Zuständigkeit für projektbezogene Aufgaben](https://www.inloox.de/projektmanagement-glossar/verantwortlichkeit/)
+[^5]: [Was heißt hier Projektverantwortung?](https://www.microconsult.de/blog/2020/02/ps_projektverantwortung/)
+[^6]: [Verantwortungverteilung](https://www.kisp.de/verantwortungsverteilung/)
+[^7]: [Projektmanagement](https://link.springer.com/content/pdf/10.1007/978-3-540-39519-5_3.pdf)
+[^8]: [Rollen und Verantwortung in Projekten](https://dieprojektmanager.com/rollen-und-verantwortung-in-projekten/#Vorgehensweise_bei_der_Erstellung_einer_Projektorganisation)
+[^9]: [Projektverantwortung: Wer hat sie und wie verteilt man sie, sodass sie auch gelebt wird?](https://www.business-netz.com/Frage-trifft-Antwort/Projektmanagement/6/Projektverantwortung)
