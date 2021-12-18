@@ -60,7 +60,12 @@ Teilnehmer, die das erste Mal in einem Barcamp mitwirken werden zu Beginn eventu
 * Youtube-Video: https://www.youtube.com/watch?v=hJpTQpLLK7E
 * Youtube-Video: https://www.youtube.com/watch?v=GiPSORwsImY
 * Kurzerklärung von Stadt Nürnberg (online): https://www.nuernberg.de/internet/menschenrechte/dasisteinbarcampabc.html
-
+#### Ähnliche Beiträge
+* 6-3-5 Methode: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/6_3_5_Methode.md
+* FMEA Methode: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/FMEA_Methode.md
+* Feedback Methode: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Feedback_Methoden.md
+* Ishika Methode: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Ishikawa_Methode.md
+* Provokationstechnik: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Provokationstechnik.md
 # Quellen
 
 [^1]: https://barcamp-koblenz.de/wp-content/uploads/2017/03/rsz_sam_0490.jpg
