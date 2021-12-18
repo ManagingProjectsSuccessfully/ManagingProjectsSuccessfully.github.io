@@ -6,10 +6,10 @@ anrechnung: k
 ---
 # Circular Economy
 
-Die Circular Economy oder auch Kreislaufwirtschaft ist ein Wirtschaftsmodell, das danach ausgerichtet ist, den Ressourceneinsatz, die Abfallproduktion, die Emissionserzeugnisse 
-zu minimieren. Dabei ist das Ziel die maximale Effizienz bei der Nutzung endlicher Ressourcen, den Übergang zu erneuerbaren Ressourcen und auch die volle Ausschöpfung von 
-Materialien und Produkten bis zum Ende ihres Lebenszyklus zu erreichen.[^3] Im Allgemeinen beschreibt die Circular Economy ein regeneratives Wirtschaftssystem.
-Das dazu stehende Gegenüber ist die Linearwirtschaft, welches ein "take-make-dispose" Modell beschreibt - in anderen Worten eine Wegwerfwirtschaft darstellt. Dabei zielt die 
+Die Circular Economy oder auch Kreislaufwirtschaft ist ein Wirtschaftsmodell, das danach ausgerichtet ist, den Ressourceneinsatz, die Abfallproduktion und die 
+Emissionserzeugnisse zu minimieren. Dabei ist das Ziel die maximale Effizienz bei der Nutzung endlicher Ressourcen, den Übergang zu erneuerbaren Ressourcen und auch die volle 
+Ausschöpfung von Materialien und Produkten bis zum Ende ihres Lebenszyklus zu erreichen.[^3] Im Allgemeinen beschreibt die Circular Economy ein regeneratives Wirtschaftssystem.
+Das dem Gegenüber stehende ist die Linearwirtschaft, welches ein "take-make-dispose" Modell beschreibt - in anderen Worten eine Wegwerfwirtschaft darstellt. Dabei zielt die 
 Circular Economy nicht nur darauf ab, die Mängel einer linearen Wirtschaft auszubessern, sondern stellt auch ein systematischer Wandel dar, der das Wirtschaftssystem vollständig 
 verändert.[^1]
 
@@ -39,6 +39,13 @@ Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und deutet darauf h
 
 
 ## Denkansätze zur Circular Economy
+
+|Ansatz| Beschreibung|
+|Performance Economy| Die Auswirkungen auf Abfallvermeidung, rationelle Nutzung begrenzter Ressourcen, die Schaffung neuer Arbeitsplätze und das Wachstum. [^7]|
+|Öko-industrielle Entwicklung| Ein geschlossenen Produktionskreislauf zur Minimierung von Umweltproblemen, wie Ressourceneffizienz etc. Hauptziel Verbesserung der wirtschaftlichen Umweltleistung.[^8]|
+|Regnerative Gestaltung| Die Erneuerung oder Revitalisierung von Energie und Materialien für die Produktion und Bedingungen schaffen für ein nachhaltiges
+Wirtschaftssystem.[^8]|
+|Biomimicry| Innovationen, die von der Natur inspiriert werden. Die drei Grundprinzipien von Biomimicry sind: - Die Natur als Modell für die Lösung menschlicher Probleme. - Die Natur als Messlatte. - Die Natur als Mentor. [^8]|
 
 ### 1. Performance Economy
 
