@@ -58,11 +58,11 @@ Die [Geschwindigkeit](Velocity.md) eines Teams, kann anhand eines Balkendiagramm
 >    - Sprints auf X Achse
 >    - Arbeitsaufwand auf Balken
 
-### Team Kapazität[^2][^6]
-Verfügbarkeit der Teammitglieder ist genauso effektiv wie die Geschwindigkeit. Beurlaubung und Krankheit sind zwei Beispiele wieso ein Teammitglied fehlen könnte. 
+### Teamkapazität[^2][^6]
+Verfügbarkeit der Teammitglieder ist genauso effektiv wie die Geschwindigkeit. Beurlaubung und Krankheit sind zwei beispielhafte Gründe wieso ein Teammitglied fehlen kann. 
 > Sprint Dauer x Arbeitsstunden pro Mitglied x Teammitglieder = Maximale Teamkapazität [^6]
 
-Um die wirkliche Team Kapazität zu ermitteln sind folgende Fragen zu stellen:
+Um die wirkliche Teamkapazität zu ermitteln sind folgende Fragen zu stellen:
 - Sind während des Sprints Feiertage?
 - Haben Mitglieder Urlaubstage?
 > Feiertaganzahl x Arbeitsstunden pro Mitglied x Teammitglieder = Feiertagsausgfall [^6]
