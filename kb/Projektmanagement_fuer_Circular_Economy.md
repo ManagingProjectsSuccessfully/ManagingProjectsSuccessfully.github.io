@@ -7,7 +7,7 @@ anrechnung: k
 # Circular Economy
 
 Die Circular Economy oder auch Kreislaufwirtschaft ist ein Wirtschaftsmodell, das danach ausgerichtet ist, den Ressourceneinsatz, die Abfallproduktion und die 
-Emissionserzeugnisse zu minimieren. Dabei ist das Ziel die maximale Effizienz bei der Nutzung endlicher Ressourcen, den Übergang zu erneuerbaren Ressourcen und auch die volle 
+Emissionserzeugnisse zu minimieren. Dabei ist das Ziel die maximale Effizienz bei der Nutzung endlicher Ressourcen, den Übergang zu [erneuerbaren Ressourcen](Nachhaltige_Entwicklung.md) und auch die volle 
 Ausschöpfung von Materialien und Produkten bis zum Ende ihres Lebenszyklus zu erreichen.[^3] Im Allgemeinen beschreibt die Circular Economy ein regeneratives Wirtschaftssystem.
 Das dem Gegenüber stehende ist die Linearwirtschaft, welches ein "take-make-dispose" Modell beschreibt - in anderen Worten eine Wegwerfwirtschaft darstellt. Dabei zielt die 
 Circular Economy nicht nur darauf ab, die Mängel einer linearen Wirtschaft auszubessern, sondern stellt auch ein systematischer Wandel dar, der das Wirtschaftssystem vollständig 
@@ -23,7 +23,7 @@ verändert.[^1]
 
 ### 1. Die Schonung der Ressourcen
 
-Das Konzept bezieht sich auf die Minimierung von Abfällen und Umweltverschmutzung. Die Schäden durch wirtschaftliche Aktivitäten sollen reduziert werden. Dieser Einfluss auf die 
+Das Konzept bezieht sich auf die Minimierung von Abfällen und [Umweltverschmutzung](Nachhaltige_Entwicklung.md). Die Schäden durch wirtschaftliche Aktivitäten sollen reduziert werden. Dieser Einfluss auf die 
 Umwelt kann bereits bei der Gestaltung und dem Design des Produkts bestimmt werden. Durch neue Technologien und Materialien kann die Verschmutzung und der Abfall vermieden 
 werden. [^2]
 
@@ -47,7 +47,8 @@ das Wachstum.[^7]
 
 ### 2. Öko-industrielle Entwicklung
 
-Hier beinhaltet es einen geschlossenen Produktionskreislauf zur Minimierung von Umweltprobleme, wie Boden- und Wasserverschmutzung, Energiemanagement, Ressourceneffizienz etc.
+Hier beinhaltet es einen geschlossenen Produktionskreislauf zur Minimierung von [Umweltprobleme](Risikobewertung_von_Umweltrisiken), wie Boden- und Wasserverschmutzung, 
+[Energiemanagement](Projektmanagement_fuer_die_Energiewende.md), Ressourceneffizienz etc.
 Dabei ist das Hauptziel die deutliche Verbesserung der wirtschaftlichen Umweltleistung.[^8]
 
 ### 3. Regenerative Gestaltung
@@ -72,20 +73,23 @@ Die drei Grundprinzipien von Biomimicry.
 Kreislaufwirtschaft bezieht sich normalerweise auf die Menge an recycelten Materialien oder die Reduzierung von Abfall. Das Design von Cradle zu Cradle konzentriert sich jedoch 
 auf die Produktqualität, einschließlich der Sicherheit für Mensch und Umwelt. Weiterhin wird durch dieses Modell ersichtlicher, dass die in einer Kreislaufwirtschaft zwei 
 verschiedene Produkte in Kreisläufen fließen. 
-* Im biologischen Kreislauf kehren Ressourcen in die Natur zurück. 
-* Im technologischen Kreislauf zirkulieren Ressourcen endlos im Kreislauf. [^7]
+* Im biologischen Kreislauf kehren [Ressourcen](Ressourcenplanung.md) in die Natur zurück. 
+* Im technologischen Kreislauf zirkulieren [Ressourcen](Ressourcenplanung.md) endlos im Kreislauf. [^7]
 
 ### 6. Blue Economy
 
-Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürlichen Ressourcen durch Innovation und Unternehmertum.[^7]
+Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürlichen [Ressourcen](Ressourcenplanung.md) durch Innovation und Unternehmertum.[^7]
+
+## Anwendung im Projektmanagement
+
 
 
 ## Vorteile einer Kreislaufwirtschaft
 
 * Einsparungen bei den Kosten
 * Die Treibhausgasemission wird gesenkt
-* Die Umweltbelastung wird verringert
-* Steigerung der Rohstoffversorgung
+* Die [Umweltbelastung](Risikobewertung_von_Umweltrisiken.md) wird verringert
+* Steigerung der [Rohstoffversorgung](Ressourcenplanung.md)
 * stärkere Mitarbeiterbindung an das Unternehmen 
 * Förderung der Innovation und Wachstum 
 * Image Aufbesserung des Unternehmens[^5]
@@ -94,8 +98,11 @@ Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürliche
 # Siehe auch
 
 * [Nachhaltige_Projekte](Nachhaltige_Projekte.md)
-* [Nachhalitkeit_im_PM](Nachhaltigkeit_im_PM.md)
+* [Nachhaltigkeit_im_PM](Nachhaltigkeit_im_PM.md)
 * [Resssourcenplanung](Ressourcenplanung.md)
+* [Risikobewertung von Umweltrisiken](Risikobewertung_von_Umweltrisiken.md)
+* [Projektmanagement für die Energiewende](Projektmanagement_fuer_die_Energiewende.md)
+* [Nachhaltige Entwicklung](Nachhaltige_Entwicklung.md)
 
 
 # Weiterführende Literatur
