@@ -22,6 +22,7 @@ Ein grundlegender Unterschied zwischen beiden Projektmangementarten ist die Zeit
 Das agile Projektmanagement folgt iterativen Prozessen. Jede Iteration ist hierbei ein Zeitfenster, in welchem eine bestimmte Aufgabe erledigt werden muss. Danach wird das Ergebnis kurz bewertet und die nächste Iteration beginnt. Wichtig hierbei ist zu wissen, dass das Ziel nur grob vorformuliert ist und es sich durch die Prozesse erst genauer definiert. [^4]
 
 ![Zeitplanung agiles PM](/kb/Zeitplanung/Agiles_PM_02.jpg)
+
 Zeitplanung im agilen Projektmanagement
 Quelle: [^4]
 
