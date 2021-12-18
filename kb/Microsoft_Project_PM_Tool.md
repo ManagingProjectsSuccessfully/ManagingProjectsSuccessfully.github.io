@@ -7,7 +7,7 @@ anrechnung: k
 
 
 
-# Einleitung -->
+# Einleitung
 
 [Microsoft Project](https://de.wikipedia.org/wiki/Microsoft_Project) bezeichnet eine Projektmanagementsoftware des Entwicklers Microsoft Corporation und ist Bestandteil der Office Familie. 
 Neben der Microsoft Project Standard Software, als Einzelplatzversion, steht Microsoft Project Professional als Server Version zur Verfügung.
