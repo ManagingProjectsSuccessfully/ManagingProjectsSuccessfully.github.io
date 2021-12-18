@@ -65,7 +65,9 @@ zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebe
 * Youtube-Video: https://www.youtube.com/watch?v=FxS9LFzpM-o
 * Youtube-Video: https://www.youtube.com/watch?v=P0TgRjj8hQg
 * V-Modell XT der Bundesregierung genauer erklärt: https://www.microtool.de/wissen-online/wie-funktioniert-v-modell-xt-tailoring/
-
+#### Ähnliche Beiträge
+* Wasserfallmodell: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md
+* Vorgehensmodelle: https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Vorgehensmodelle.md
 # Quellen
 
 [^1]: https://de.wikipedia.org/wiki/V-Modell
