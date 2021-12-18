@@ -11,7 +11,7 @@ anrechnung: k
 
 
 Die Hemmnisanalyse gehört zu dem Überbegriff des [Projektmanagements](Projektmanagement.md). 
-[Projekte](Projekt.md) werden sehr strukturiert aufgebaut und es werden zu Beginn alle [Ziele](Ziele_Planung.md) und Phasen definiert. 
+[Projekte](Projekt.md) werden sehr strukturiert aufgebaut und es werden zu Beginn alle [Ziele](Ziel_Planung.md) und Phasen definiert. 
 Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projektes verzögern oder komplett verhindern. Die Hemmnisanalyse stellt ein Werkzeug dar,
 mit welchem [Zielkonflikte](Zielkonflikte.md) in der Zukunft entgegengewirkt werden soll.[^1]
 
