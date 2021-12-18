@@ -12,10 +12,12 @@ anrechnung: k
 
 Die Hemmnisanalyse gehört zu dem Überbegriff des [Projektmanagements](Projektmanagement.md). 
 [Projekte](Projekt.md) werden sehr strukturiert aufgebaut und es werden zu Beginn alle [Ziele](Ziele_Planung.md) und Phasen definiert. 
-Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projektes verzögern oder komplett verhindern. Die Hemmnisanalyse stellt ein Werkzeug dar, mit welchem [Zielkonflikte](Zielkonflikte.md) in der Zukunft entgegengewirkt werden soll.[^1]
+Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projektes verzögern oder komplett verhindern. Die Hemmnisanalyse stellt ein Werkzeug dar,
+mit welchem [Zielkonflikte](Zielkonflikte.md) in der Zukunft entgegengewirkt werden soll.[^1]
 
 Die Hemmnisanalyse wurde durch das Europäisches Forschungsprojekt Relief, sowie der deutschen Forschungsprojekte NaBesI und GeB entwickelt. Die Analyse zielt
-hierbei im engeren Sinne auf Hindernisse bei der umweltfreundlichen Beschaffung ab und beschäftigt sich somit mit [nachhaltigen Projekten](Nachhaltige_Projekte.md). Die Hemmnisanalyse beschäftigt sich vor allem mit dem Erkennen von relevanten
+hierbei im engeren Sinne auf Hindernisse bei der umweltfreundlichen Beschaffung ab und beschäftigt sich somit mit [nachhaltigen Projekten
+(Nachhaltige_Projekte.md). Die Hemmnisanalyse beschäftigt sich vor allem mit dem Erkennen von relevanten
 [Projektmitarbeitern](Projektmitarbeiter.md) und das Erkennen und Bewerten von Hindernissen. [^2]
 
 
@@ -25,7 +27,8 @@ verbundene Zielkonflikte. Weitere Ursachen können die Anzahl der Entscheidungsa
 
 ### Entstehungsgründe für Hemmnisse können in vier Gruppen eingeordnet werden: Dürfen, Wollen, Wissen und Können 
 Die erste Hemmnisgruppe des **Dürfens** beschreibt Hemmnisse, die durch unklar definierte Ziele entstehen können. Fehlende Unterstützung seitens der
-Führungsebene kann zur Hemmung in der [Projektkommunikation](Projektkommunikation.md) führen. Akteure können somit nicht identifizieren ob sie sich engagieren dürfen oder nicht.
+Führungsebene kann zur Hemmung in der [Projektkommunikation](Projektkommunikation.md) führen. Akteure können somit nicht identifizieren ob sie sich engagieren
+dürfen oder nicht.
 
 Die Gruppe **Wollen** beschreibt individuelle Ziele von Akteuren. Akteure wollen Entscheidungen nicht unterstützen, wenn es ihren inneren Einstellungen
 widerspricht. Man könnte bei diesem Hindernis auch von einem personellen Widerstand sprechen.
@@ -60,18 +63,19 @@ Hierbei kann es sein, dass die Wahrnehmung der Befragten stark variiert. Hier k�
 Der dritte Schritt beinhaltet vor allem die Beurteilung sowie das Herausarbeiten von Strategien zur Bewältigung dieser Hemmnisse. Dabei gibt es mehrere
 unterschiedliche Strategien. [^2]
 
-## Vergleichbare Methoden zur Bewertung und Messung von Hemmnissen
+## Praxisbeispiel
 Um Hemmnisse erkennen und bewerten zu können gibt es verschiedene [Methoden](Methoden.md).
-### Praxisbeispiel
-Wie in der Beispielabbildung dargestellt, werden Fragebögen erstellt, um anhand von Skalen mögliche Hindernisse zu bewerten. Bei der Analyse des öffentlichen
-Beschaffungswesens werden zum Beispiel mögliche Hindernisse wie zusätzliche Arbeit, höhrere Kosten und Unsicherheit bzgl. rechtlicher Regelungen aufgelistet.
-Diese Hindernisse werden nun in einem Fragebogen dargestellt und mit einer Skala versehen. Nun können Projektmitarbeiter von "stimme zu" bis "stimme nicht zu"
-bewerten. Diese Bewertung wird anschließend nach Relevanz geordnet und somit sind die wichtigsten Hindernisse sofort zu sehen. Im letzten Schritt der [Projektplanung]
-(Projektplanung.md) werden Strategien zur Vermeidung dieser Hemmnisse entwickelt. Beispielsweise kann eine Rechtsberatung engagiert werden, um rechtliche Unsicherheiten zu klären.[^3]
+Im folgenden werden auf die Ergebnisse der Hemmnisanalyse des Forschungsprojektes "Analyse des öffentlichen Beschaffungswesens in Deutschland" eingegangen. Um
+eine erfolgreiche Hemmnisanalyse durch führen zu können werden Hemmnisse aufgelistet, welche dann berwertet werden können. Im öffentlichen Beschaffungswesens
+werden zum Beispiel mögliche Hindernisse wie zusätzliche Arbeit, höhrere Kosten und Unsicherheit bzgl. rechtlicher Regelungen aufgelistet. Diese Hindernisse
+werden nun in einem Fragebogen dargestellt und mit einer Skala versehen. Nun können Projektmitarbeiter von "stimme zu" bis "stimme nicht zu" bewerten, wie man in
+der Beispielabbildung erkennen kann. Diese Bewertung wird anschließend nach Relevanz geordnet und somit sind die wichtigsten Hindernisse sofort zu sehen. Im
+letzten Schritt der [Projektplanung](Projektplanung.md) werden Strategien zur Vermeidung dieser Hemmnisse entwickelt. Beispielsweise kann eine Rechtsberatung
+engagiert werden, um rechtliche Unsicherheiten zu klären.[^3]
 
-![Beispielabbildung](Hemmnisanalyse/Bild%20Hemmnisanalyse.png)
+![Beispielabbildung](Hemmnisprofil.png)
 
-*Abbildung: Beispielmethoden zur Messung und Bewertung von Hemmnissen*[^4]
+*Abbildung: Beispielabbildung zu einem Hemmnisprofil*[^3]
 
 
 ## Fazit
