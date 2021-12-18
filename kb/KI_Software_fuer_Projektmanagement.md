@@ -1,6 +1,6 @@
 ---
 title: KI_Software_fuer_Projektmanagement
-tags: agil
+tags: KI im klassischen und agilen Projektmanagment
 author: Aseuc
 anrechnung: a
 ---
@@ -10,7 +10,6 @@ Die KI-Software für das [Projektmanagement](https://github.com/ManagingProjects
 Die KI-Software, welche am häufigsten verwendet werden sind beispielsweise Analysetools[^8], Chat-Bots[^9] oder robotergestützte Prozessautomatisierung[^10].[^1]
 
 * [Was ist KI-Software?](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Quelle-,Was%20ist%20KI%2DSoftware%3F,-Zun%C3%A4chst%20ist%20die)
-  - [Arten von KI-Software](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Entscheidungen%20f%C3%A4llen%20k%C3%B6nnen.-,Arten%20von%20KI%2DSoftware,-Unter%20anderem%20wird)
 * [Nutzen und Relativierung](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=wie%20Watson%20Assistant3.-,Nutzen%20und%20Relativierung,-Nutzen%20von%20KI)
   - [Nutzen von KI-Software für Projektmanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Nutzen%20und%20Relativierung-,Nutzen%20von%20KI%2DSoftware%20f%C3%BCr%20Projektmanagement,-Die%20K%C3%BCnstliche%20Intelligenz)
   - [Relativierung von Bedenken an die KI-Software für Projektmanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Mitarbeiter%20unterst%C3%BCtzen%20kann.-,Relativierung%20von%20Bedenken%20an%20die%20KI%2DSoftware%20f%C3%BCr%20Projektmanagement,-Zun%C3%A4chst%20ist%20KI)
@@ -19,15 +18,14 @@ Die KI-Software, welche am häufigsten verwendet werden sind beispielsweise Anal
 * [Quellen](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=kann%27s%3F%20(Teil%202)-,Quellen,-Footnotes) 
 
 # Was ist KI-Software? 
-Zunächst ist die Künstliche Intelligenz ein Gebiet aus der Informatik[^11], dabei beschäftigt sie sich mit der Automatisierung[^12], maschinellen Lernen[^13] oder dem intelligenten Verhalten. Des Weiteren soll die KI menschliche Verhaltensmuster imitieren oder bestimmte Entscheidungen fällen können.[^2]
+Zunächst ist die Künstliche Intelligenz ein Gebiet aus der Informatik[^11], dabei beschäftigt sie sich mit der Automatisierung[^12], [maschinellen Lernen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Machine_Learning_im_Projektmanagement.md) oder dem intelligenten Verhalten. Des Weiteren soll die KI menschliche Verhaltensmuster imitieren oder bestimmte Entscheidungen fällen können.[^2]
 
-## Arten von KI-Software
 Unter anderem wird unterschieden zwischen starker und schwacher Künstlicher Intelligenz, die starke KI ist in der Lage ein selbstbewusstes Bewusstsein zu entwickeln, welches die Fähigkeit besitzt, Probleme zu lösen, zu lernen und in die Zukunft zu planen. Des Weiteren ist sie nicht abhängig von menschlichen Eingriffen, da sie sich selbst beibringt Probleme zu lösen. Die schwache KI hingegen ist auf die Ausführung von bestimmten Aufgaben beschränkt, wie das Ausführen von Schachzügen oder das Beantworten von Fragen. Die schwache KI kann nur eine Art von Aufgabentyp gleichzeitig bewältigen und ist auf menschliche Hilfe angewiesen. Beispiele einer schwachen KI wären selbstfahrende Autos[^14], Alexa, Siri oder auch virtuelle Assistenten wie Watson Assistant[^15].[^3] 
 
 # Nutzen und Relativierung
 
 ## Nutzen von KI-Software für Projektmanagement
-Die Künstliche Intelligenz bietet ab einer gewissen Komplexität von Projekten eine Effizienzsteigerung, vor allem wenn diese viel Pflege benötigen oder wenn die Aufwandsabschätzung sehr viel Zeit beansprucht. Bei der Verwendung von KI im [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ist vor allem das [maschinelle Lernen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Machine_Learning_im_Projektmanagement.md) relevant, dabei unterstützt und löst die KI Anwendungsprobleme im Projektmanagement. Des Weiteren werden anhand von Anwendungsfall und Datenlage die Künstlichen Intelligenzen fortlaufend trainiert und optimieren dadurch die Entscheidungsfindung. Die KI lernt durch verschiedene Ansätze wie "Supervised Learning","Unsupervised Learning" und "Reinforcement Learning", welche im Bild 1 näher beschrieben werden.[^4]
+Die Künstliche Intelligenz bietet ab einer gewissen Komplexität von [Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) eine Effizienzsteigerung, vor allem wenn diese viel Pflege benötigen oder wenn die Aufwandsabschätzung sehr viel Zeit beansprucht. Bei der Verwendung von KI im [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ist vor allem das [maschinelle Lernen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Machine_Learning_im_Projektmanagement.md) relevant, dabei unterstützt und löst die KI Anwendungsprobleme im Projektmanagement. Des Weiteren werden anhand von Anwendungsfall und Datenlage die Künstlichen Intelligenzen fortlaufend trainiert und optimieren dadurch die Entscheidungsfindung. Die KI lernt durch verschiedene Ansätze wie "Supervised Learning","Unsupervised Learning" und "Reinforcement Learning", welche im Bild 1 näher beschrieben werden.[^4]
 
 Lernmethoden für Maschinelles Lernen[^4]: 
 
