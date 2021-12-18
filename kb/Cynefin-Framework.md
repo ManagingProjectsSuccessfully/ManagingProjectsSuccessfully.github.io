@@ -5,13 +5,15 @@ author: 5SY5
 anrechnung: a
 ---
 
+# Cynefin Framework
+
 Das Cynefin Framework wurde vom britisch walischen Forscher und Berater für [Wissensmanagement](Wissensmanagament.md) David Snowden Johnson entwickelt. Das Wort "Cynefin" stammt aus dem walischen und bedeutet so viel wie "Lebensraum", damit möchte Snowden ausdrücken, dass zwischen den Individuen und ihrer Umwelt eine Vielfalt von Wechselwirkungen bestehen.[^1] Diese Wechselwirkung macht eine vollkommene analytische Beschreibung des realen Systems unmöglich[^1].
 
 Das Modell hat die Aufgabe Probleme, Situationen und Systeme zu beschreiben. Dabei kategorisiert das Modell die einzelnen Probleme in sogenannte Problemdomänen, die wiederum 
 einen Anhaltspunkt bieten, welche Erklärungen oder Lösungen zutreffen könnten.
 
 
-# Beschreibung des Frameworks
+## Beschreibung des Frameworks
 
 Cynefin beschreibt fünf Problemdomänen, die wie folgt lauten 
 
@@ -25,29 +27,29 @@ Cynefin beschreibt fünf Problemdomänen, die wie folgt lauten
 
 ![image](Cynefin-Framework/Cynefin_as_of_1st_June_2014.png)
 
-Cynefin Framework [^6]
+Cynefin Framework [^6][^8]
 
 Die ersten vier Hauptdomänen sind:
 
-1. Obvious/simple
+**1. Obvious/simple
 
 Befinden wir uns in einem "einfachen" Umfeld sind die Beziehungen und ihre Abhängigkeit offensichtlich. Ursachen und Wirkungen können einfach beschrieben werden und beurteilt 
 werden. Daher gibt es auch eine eindeutige Antwort auf die einzelnen Probleme, weshalb auch oft von "Best Practice" gesprochen wird. Snowden ist der Ansicht, dass man bei 
 offensichtlichen Entscheidungen nach dem Prinzip "Erkennen - Kategorisieren - Reagieren" vorgehen sollte[^2].
 
-2. Complicated
+**2. Complicated
 
 Bei "komplizierten" Problemen sind die Ursachen und Wirkungen immer noch eindeutig zu beschreiben, aber nicht für alle verständlich. In anderen Worten das Problem ist für einige 
 zu kompliziert, weshalb die Lösungen (es sind mehrere möglich) für "Nicht-Experten" schwer zu erkennen sind[^3]. Daher beläuft sich der Ansatz für die Entscheidungsfindung auf 
 folgende drei Punkte "Erkennen - Analysieren - Reagieren"[^5]. Diese Domäne wird auch "Good Practice" genannt.
 
-3. Complex
+**3. Complex
 
 In "komplexen" Situationen ist es fast unmöglich eine Lösung zu erkennen, da es zu viele Unbekannte gibt. Auch für Experten ist es schwierig die Beziehung der Ursache und der 
 Wirkung zu erkennen. Dies hat zu Folge, dass es keine richtige Antwort gibt. Solche Situationen sind meist unvorhersehbar und daher schlägt Snowden folgende Herangehensweise an 
 "Sondieren - Erkennen - Reagieren"[^3].
 
-4. Chaotic
+**4. Chaotic
 
 Im "chaotischen" Bereich ist das wichtigste Ziel schnell und agil zu arbeiten, um das Problem zu stabilisieren und in Ordnung zu bringen. Daher lautet auch hierbei der Ansatz beim Vorgehen "Handeln-Erkennen-Reagieren"[^4].
 
@@ -56,7 +58,7 @@ gewohnte und einfache Problemlösungsmöglichkeiten zurück. Prinzipiell ist das
 Herangehensweise einer Domäne zu zuordnen.[^4]
 
 
-# Probleme
+## Probleme
 
 * Die complacent Zone
 
@@ -66,31 +68,31 @@ komplizierten Zonen zu managen.[^4]
 
 * Das Wicked Problem
 
-![image](Cynefin-Framework/Wicked_Problem.png)
+![image](Cynefin-Framework/Wicked_Problem.png)[^3]
 
 *Wicked Problem[^7]
 
 Vor der Formulierung der Lösung kann das Problem nicht verstanden werden und solange das Problme nicht identifizeirt wurde, kann auch die Lösung nicht beschrieben werden. Rückkopplungseffekt! [^3]  
 
 
-# Anwendung auf Projekte [^1]
+## Anwendung auf [Projekte](Projekt.md) [^1]
 
-| Deming-Cyle          |	Plan	    |  Do       | Check          |	Act       | Beispiele                                 |
-|----------------------|------------|-----------|----------------|------------|-------------------------------------------|
-| einfache Systeme     | beobachten |	          | kategorisieren | reagieren  | Produktimplementierung                    |     
-| komplizierte Systeme | beobachten |	          | analysieren    | reagieren  | Support-[Projekte](Projekt.md)            |   
-| komplexe Systeme		 |            | probieren | beobachten	   | reagieren  | Produktentwicklung                        |                
-| chaotische Systeme	 |            | handeln   | beobachten	   | reagieren  | Ausfall von Kerntechnologie               | 
+| Deming-Cyle          |	Plan	    |  Do       | Check          |	Act       | Beispiele                     |
+|----------------------|------------|-----------|----------------|------------|-------------------------------|
+| einfache Systeme     | beobachten |	          | kategorisieren | reagieren  | Produktimplementierung        |     
+| komplizierte Systeme | beobachten |	          | analysieren    | reagieren  | Support-Projekte              |   
+| komplexe Systeme		 |            | probieren | beobachten	   | reagieren  | Produktentwicklung            |                
+| chaotische Systeme	 |            | handeln   | beobachten	   | reagieren  | Ausfall von Kerntechnologie   | 
 
 Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework zusammen und zeigt Beispielprojekte für die einzelnen Domänen auf.
 
 
-# Fazit
+## Fazit
 
 "Alle Modelle sind falsch, aber einige nützlich." George Box
 
 Das Cynefin Framework ist kein "perfektes" Modell, um Situationen abschließend zu erklären. Es ist vielmehr eine Hilfestellung um die Ursache, den 
-Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, dass einige Probleme mehrschichtig sein können z.B. sowohl komplex als auch kompliziert. Dies erkennt man daran, dass das Cynefin Framework in der [Stacey Matrix](Stacey_Matrix.md) verwendet wird. Indem ein Zusammenhang zwischen den Eigenschaften des Cynefin-Framework und der Qualität eines [Arbeitsauftrags](Arbeitsauftrag.md) hergestellt wird.
+Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, dass einige Probleme mehrschichtig sein können z.B. sowohl komplex als auch kompliziert. Dies erkennt man daran, dass das Cynefin Framework in der [Stacey Matrix](Stacey_Matrix.md) verwendet wird. Indem ein Zusammenhang zwischen den Eigenschaften des Cynefin-Framework und der Qualität eines Arbeitsauftrags hergestellt wird.
 
 # Siehe auch
 
@@ -98,7 +100,6 @@ Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, da
 * [Wissensmanagement](Wissensmanagament.md)
 * [Stacey_Matrix](Stacey_Matrix.md)
 * [SCRUM](SCRUM.md)
-* [Aurbeitsauftrag](Arbeitsauftrag.md)
 
 # Weiterführende Literatur
 
@@ -114,4 +115,5 @@ Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, da
 [^5]: [Unerwarter Herausforderung in Projekten erfolgreich managen (von Andreas Nachbagauer, etc.)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-60944-6.pdf)
 [^6]: [Cynefin Framework](Cynefin-Framework/Cynefin_as_of_1st_June_2014.png)
 [^7]: [Wicked Problem](Cynefin-Framework/Wicked_Problem.png)
+[^8]: [Cynefin Framework](https://de.wikipedia.org/wiki/Cynefin-Framework)
 
