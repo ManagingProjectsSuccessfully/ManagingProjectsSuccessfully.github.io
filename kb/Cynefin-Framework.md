@@ -59,7 +59,7 @@ Herangehensweise einer Domäne zu zuordnen.[^4]
 
 Eine ähnliche Zusammensetzung findet man auch in der [Stacey Matrix](Stacey_Matrix.md) wieder. Diese Matrix wird im Zusammenhang mit dem Cynefin Framwork angewandt, wenn es 
 darum geht, die agile Arbeitsmethode für das Problem herauszufinden. Dabei ist zu erkennen, dass einfache Problemstellung mithilfe von traditionelle Methoden gelöst werden 
-können, wobei komplexere Themen agile Methoden (z.B. [Scrum](SCRUM.md), [Kanban](Kanban.md) Board oder [Design Thinking](Design_Thinking.md)) vorteilhafter erscheinen.
+können, wobei komplexere Themen agile Methoden (z.B. [Scrum](SCRUM.md), [Kanban](Kanban.md) Board oder [Design Thinking](Design_Thinking.md)) vorteilhafter erscheinen.[^9]
 
 ## Probleme
 
