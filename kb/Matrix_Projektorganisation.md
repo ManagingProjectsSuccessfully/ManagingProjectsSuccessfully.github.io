@@ -67,13 +67,13 @@ Die Matrix Projektorganisation existiert meistens in wichtigen und zeitabhängig
 
 # 6. Verlinkungen 
 
-* [Projektteam](Projektteam_Kultur.md)
+[Projektteam](Projektteam_Kultur.md)
  
-* [Projektleiter](Projektleiter.md)
+[Projektleiter](Projektleiter.md)
  
-* [Projektmitarbeiter](Projektmitarbeiter.md)
+[Projektmitarbeiter](Projektmitarbeiter.md)
 
-* [PMBOK Guide](PMBOK_Guide.md)
+[PMBOK Guide](PMBOK_Guide.md)
 
 
 # 7. Quellen
