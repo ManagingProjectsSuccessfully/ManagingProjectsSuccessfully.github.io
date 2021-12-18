@@ -18,7 +18,7 @@ Die horizontale Ebene stellt die produkt-, region- oder projektbezogenen Aufgabe
 Die vertikale Ebene zeigt die funktionalen Arbeitsbereiche, auch Funktionsbereiche genannt. Beispiele hierfür sind Vertrieb oder die Produktion.
 
 ## 1.3 Schnittstellen
-In den Schnittstellen befinden sich die einzelnen Projektteams bzw. spezifischen Abteilungen, die jeweils einem Projekt- oder Abteilungsleiter zugeordnet sind. [^9]
+In den Schnittstellen befinden sich die einzelnen [Projektteam](Projektteam_Kultur.md) bzw. spezifischen Abteilungen, die jeweils einem Projekt- oder Abteilungsleiter zugeordnet sind. [^9]
 
 # 2. Akteure
 
@@ -26,14 +26,14 @@ In den Schnittstellen befinden sich die einzelnen Projektteams bzw. spezifischen
 Der Abteilungsleiter beschäftigt sich mit dem disziplinarischen und fachlichen Weisungsrecht für Linienaufgaben. [^1] Dadurch besitzt er die disziplinarische Befugnis über die Zuordnung und Aufgaben der Mitarbeiter. [^3]
 
 ## 2.2 Projektleiter 
-Der Projektleiter verfügt über das fachliche Weisungsrecht, was die Projektinhalte betrifft. [^5] Dabei beansprucht er die Arbeitskraft der Teammitglieder in Abstimmung mit dem Abteilungsleiter und besitzt die volle Zielverantwortlichkeit. [^3]
+Der [Projektleiter](Projektleiter.md) verfügt über das fachliche Weisungsrecht, was die Projektinhalte betrifft. [^5] Dabei beansprucht er die Arbeitskraft der Teammitglieder in Abstimmung mit dem Abteilungsleiter und besitzt die volle Zielverantwortlichkeit. [^3]
 
 ## 2.3 Projektmitarbeiter
-Die Projektmitarbeiter pendeln während ihrer Arbeitszeit zwischen Tagesgeschäft und Projekt. [^3] Dabei sind sie während der Zeitspanne des Projekts in ihrer jeweiligen Linienorganisation integriert. Dadurch unterstehen sie ihrem Linienvorgesetzten und gleichzeitig dem Projektmanager. [^6]
+Die [Projektmitarbeiter](Projektmitarbeiter.md) pendeln während ihrer Arbeitszeit zwischen Tagesgeschäft und Projekt. [^3] Dabei sind sie während der Zeitspanne des Projekts in ihrer jeweiligen Linienorganisation integriert. Dadurch unterstehen sie ihrem Linienvorgesetzten und gleichzeitig dem Projektmanager. [^6]
 
 # 3. Arten
 
-Der PMBOK Guide benutzt die Begriffe „Schwache Matrixorganisation“, „Ausgewogene Matrixorganisation“ und „Starke Matrixorganisation“, um den Bezug zu den anderen Erscheinungsformen der Matrixorganisation darzustellen. [^7] Er stellt die US-amerikanische Norm für Projektmanagement dar und wird vom Project Management Institute (PMI) veröffentlicht. [^8]
+Der [PMBOK Guide](PMBOK_Guide.md) benutzt die Begriffe „Schwache Matrixorganisation“, „Ausgewogene Matrixorganisation“ und „Starke Matrixorganisation“, um den Bezug zu den anderen Erscheinungsformen der Matrixorganisation darzustellen. [^7] Er stellt die US-amerikanische Norm für Projektmanagement dar und wird vom Project Management Institute (PMI) veröffentlicht. [^8]
 
 ## 3.1 Schwache Matrixorganisation
 Der Projektleiter übernimmt primär koordinierende Aufgaben, ohne direkten Einfluss oder Befugnisse. [^6] Die Projektorganisation untersteht ganz und gar der Linienorganisation. Im deutschen Vokabular benutzt man hierfür den Begriff „Einfluss-Projektorganisation“. [^7]
@@ -67,15 +67,11 @@ Die Matrix Projektorganisation existiert meistens in wichtigen und zeitabhängig
 
 # 6. Verlinkungen 
 
-* [funktionalen Arbeitsbereiche](Funktionale_Anforderungen.md)
-
 * [Projektteam](Projektteam_Kultur.md)
  
 * [Projektleiter](Projektleiter.md)
  
 * [Projektmitarbeiter](Projektmitarbeiter.md)
-
-* [Projektarten](Projektarten.md)
 
 * [PMBOK Guide](PMBOK_Guide.md)
 
