@@ -78,3 +78,4 @@ Die Ausrichtung aller Handlungsaspekte auf das Endprodukt und die genaue Vorausp
 [^17]: https://www.brainymotion.de/blog/projektmanagement-klassisch-und-agil-im-vergleich 
 [^18]: https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/ 
 
+
