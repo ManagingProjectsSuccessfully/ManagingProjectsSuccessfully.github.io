@@ -6,17 +6,16 @@ anrechnung: k
 ---
 
 Der Begriff „Digitalisierung“ hat an sich keine allgemeingültige Definition und kann abhängig vom jeweiligen Kontext mehrere Bedeutungen haben.[^1] 
-In Bezug auf das Projektmanagement bedeutet Digitalisierung „massive Veränderungen bei den Prozessen, der Kommunikation, der Organisation, dem Ressourcenmanagement und dem Monitoring. Gründe [dafür] sind der vermehrte Einsatz digitaler Werkzeuge sowie die neue Art der Erfassung, des Austausches und der Verarbeitung von Daten.“[^2] 
+In Bezug auf das [Projektmanagement](Projektmanagement.md) bedeutet Digitalisierung „massive Veränderungen bei den Prozessen, der Kommunikation, der Organisation, dem [Ressourcenmanagement](Ressourcenplanung.md) und dem Monitoring. Gründe [dafür] sind der vermehrte Einsatz digitaler Werkzeuge sowie die neue Art der Erfassung, des Austausches und der Verarbeitung von Daten.“[^2] 
 
 # Grundlegende Aspekte der Digitalisierung im Projektmanagement
 
-Der wesentlichste Aspekt ist die Nutzung von digitalen Arbeitsgeräten, wie Smartphones und Computer.[^3] 
-
-Ein weiterer zentraler Aspekt ist der Einsatz digitaler Werkzeuge, welche die Arbeit in Projekten erleichtern und effizienter gestalten sollen.  
+Der wesentlichste Aspekt ist die Nutzung von digitalen Arbeitsgeräten, wie Smartphones und Computer.[^3]                                            
+Ein weiterer zentraler Aspekt ist der Einsatz digitaler Werkzeuge, welche die Arbeit in [Projekten](Projekt.md) erleichtern und effizienter gestalten sollen.  
 
 ## Datenmanagement 
 
-Die Nutzung von Plattformen, wie Asana, Microsoft Projekt oder Trello, helfen die immer komplexeren Prozesse und Projekte zu bewältigen.[^3] In Verbindung mit zahlreichen Projektmanagementsoftware und Cloud Services können Informationen viel leichter ausgetauscht und miteinander geteilt werden. So wird ein immer aktueller Projektüberblick sowie Status der Aktivitäten ermöglicht.[^4] 
+Die Nutzung von Plattformen, wie [Asana](Asana_PM_Tool.md), [Microsoft Projekt](Microsoft_Project_PM_Tool.md) oder [Trello](Trello_PM_Tool.md), helfen die immer komplexeren Prozesse und Projekte zu bewältigen.[^3] In Verbindung mit zahlreichen [Projektmanagementsoftware](Projektmanagementsoftware.md) und [Cloud Services](Cloud_Services.md) können Informationen viel leichter ausgetauscht und miteinander geteilt werden. So wird ein immer aktueller Projektüberblick sowie Status der Aktivitäten ermöglicht.[^4] 
 „Digitale Visualisierungs-Tools erlauben es zudem dem Projektverantwortlichen, unterschiedliche Szenarien visuell darzustellen […] Dadurch werden Projekte für alle Beteiligten transparenter und die organisatorischen Abläufe können einfacher und übersichtlicher gestaltet werden.“[^5] 
 
 ## Kommunikation
@@ -30,7 +29,7 @@ Mit der Effizienz, die durch einen gezielten Tooleinsatz gewonnen wird, wird die
 
 Zudem können durch die bessere Analyse von Daten und Gebrauch von Monitoring-Software Probleme und Risiken schneller identifiziert werden. Demnach können Projektmitglieder schneller reagieren, wodurch ein effizienterer Einsatz von Ressourcen und Budget erreicht und Kosten reduziert werden können.[^4]
 
-Ebenfalls werden viele klassische Aufgaben von Projektmanagern, wie beispielsweise Zeitplanung, automatisiert. Die daraus resultierende Zeitersparnis bedeutet für den Projektmanager, dass er sich auf die wichtigeren Aufgaben im Projekt konzentrieren kann.[^6]  
+Ebenfalls werden viele klassische Aufgaben von Projektmanagern, wie beispielsweise [Zeitplanung](Zeitplanung.md), automatisiert. Die daraus resultierende Zeitersparnis bedeutet für den Projektmanager, dass er sich auf die wichtigeren Aufgaben im Projekt konzentrieren kann.[^6]  
 
 Ein weiteres Potenzial besteht darin, dass auch externe Partner mit Hilfe von PM- und Kommunikations-Tools viel leichter in Projekte eingebunden werden können.[^5]
 
@@ -42,21 +41,23 @@ Das Projektmanagement muss sich „auf mehr Geschwindigkeit und eine höhere Kom
 
 Bei einer großen Anzahl an Projekten kann zudem der Überblick schnell verloren gehen, weswegen die Schlüsselprojekte und Kernaufgaben von den jeweiligen Projekten definiert und Prioritäten gekonnt gesetzt werden müssen.[^7]
 
-Außerdem ändern sich die Anforderungen an die Kompetenzprofile von Projektleitern und allen weiteren Teammitgliedern. Einerseits müssen sie bestimmte fachliche Qualifikationen mitbringen, aber auch Flexibilität und kommunikative Fähigkeiten sind gefragt.[^7] 
+Außerdem ändern sich die Anforderungen an die Kompetenzprofile von [Projektleitern](Projektleiter.md) und allen weiteren Teammitgliedern. Einerseits müssen sie bestimmte fachliche Qualifikationen mitbringen, aber auch Flexibilität und kommunikative Fähigkeiten sind gefragt.[^7] 
 
 Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes und effizientes Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.[^8]
 
 
 ![DIHK](https://github.com/Viktoria1412/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM/grafik-herausforderungen-digitalisierungsumfrage-21-data.png)
 
-*Unternehmerische Herausforderungen bei der Digitalisierung*
+*Unternehmerische Herausforderungen bei der Digitalisierung*[^8]
+
+# Fazit
 
 # Siehe auch
 
-* [Digitale Kommunikation](https://github.com/DaLob98/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitale_Kommunikation.md) 
-* [Projektmanagement 4.0](https://github.com/wernerni/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_4_0.md)
-* [Projektmanagementsoftware]
-* [KI im Projektmanagement](https://github.com/SimaSol/ManagingProjectsSuccessfully.github.io/blob/main/kb/KI_im_PM.md)
+* [Digitale Kommunikation](Digitale_Kommunikation.md) 
+* [Projektmanagement 4.0](Projektmanagement_4_0.md)
+* [Projektmanagementsoftware](Projektmanagementsoftware.md)
+* [KI im Projektmanagement](KI_im_PM.md)
 
 # Weiterführende Literatur
 
