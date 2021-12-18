@@ -9,9 +9,9 @@ Das **Stakeholder Register** ist ein Werkzeug für die Projektplanung.
 # Inhalte
 * [Definition](#definition)
 * [Erstellung eines Registers](#erstellung-eines-registers)  
-  * [Identifizierung der Stakeholder](#1.-identifizierung-der-stakeholder)
-  * [Erstellen des Dokuments](#2.-erstellen-des-dokuments)
-  * [Analyse der Stakeholder](#3.-analyse-der-stakeholder)
+  * [Identifizierung der Stakeholder](#identifizierung-der-stakeholder)
+  * [Erstellen des Dokuments](#erstellen-des-dokuments)
+  * [Analyse der Stakeholder](#analyse-der-stakeholder)
 * [Vorteile eines Registers](#vorteile-eines-registers)  
 * [Siehe auch](#siehe-auch)  
 * [Quellen](#quellen)
@@ -24,12 +24,12 @@ Beim **Stakeholder Register** handelt es sich um ein Dokument, welches alle rele
 
 Das *Register* wird früh im Planungsprozess von [Projektleitern](Projektleiter.md) angelegt. Die Erstellung eines Registers erfolgt in drei Schritten. [^1] [^2]
 
-## 1. Identifizierung der Stakeholder 
+## Identifizierung der Stakeholder 
 
 Zunächst müssen die Stakeholder ausfindig gemacht werden. Im Team diskutieren die [Projektmitarbeiter](Projektmitarbeiter.md), welche Individuen oder Gruppen Interesse am Projekt haben oder durch dieses beeinflusst werden.  
 Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, sodass das Dokument stets auf dem neuesten Stand gehalten werden muss. [^1]
 
-## 2. Erstellen des Dokuments
+## Erstellen des Dokuments
 
 Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird häufig *Microsoft Excel* benutzt. Das liegt daran, dass Excel die Fähigkeit besitzt, das Register nach Kategorien zu filtern und zu sortieren, um bestimmte Elemente hervorzuheben. [^2] 
 
@@ -65,7 +65,7 @@ Weitere Leitsätze, die bei der Erstellung des Registers wichtig zu beachten sin
 
 Das Dokument sollte mit anderen [Projektdokumentationen](Projektdokumentation.md) aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein. [^2]
 
-## 3. Analyse der Stakeholder
+## Analyse der Stakeholder
 
 Die [*Stakeholderanalyse*](Stakeholderanalyse.md) ist der wichtigste Prozess im Erstellungsprozess. 
 Hier wird das Register mit den nötigen Daten ausgefüllt. Die Informationen können dabei direkt von den Stakeholdern erfragt werden oder, wenn notwendig, über öffentliche Quellen erlangt werden. [^1]
