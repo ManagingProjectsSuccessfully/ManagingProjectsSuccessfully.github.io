@@ -17,7 +17,7 @@ Ein Ziel ist nur dann SMART, wenn es alle fünf Aspekte der SMART-Methode berüc
 
 ## Spezifisch
 
-Laut der SMART-Methode müssen Ziele stets spezifisch formuliert sein. Das heißt, um ein Projekt erfolgreich abschließen zu können, benötigt man unmissverständliche und detaillierte Angaben. Vage Beschreibungen und Vorgaben könnten für Verwirrung sorgen und das Erreichen der einzelnen Ziele somit gefährden. Wird ein Ziel spezifisch definiert, sollten folgende Fragen beantwortet werden:
+Laut der SMART-Methode müssen Ziele stets spezifisch formuliert sein. Das heißt, um ein Projekt erfolgreich abschließen zu können, benötigt man unmissverständliche und detaillierte Angaben. Ungenaue Beschreibungen und Vorgaben könnten für Verwirrung sorgen und das Erreichen der einzelnen Ziele somit gefährden. Wird ein Ziel spezifisch definiert, sollten folgende Fragen beantwortet werden:
 
 * Welches Ziel wird verfolgt?
 * Was soll in welchem Umfang erreicht werden?[^2][^4]
