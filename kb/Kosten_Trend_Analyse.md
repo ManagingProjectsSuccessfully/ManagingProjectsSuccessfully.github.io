@@ -15,7 +15,7 @@ Genau wie Terminverzögerungen sind Kostenabweichungen ein wichtiges Thema, welc
   >>* 4.2  [Schritt 2: Plankosten zusammenstellen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-2-plankosten-zusammenstellen)
   >>* 4.3  [Schritt 3: Berichtstermine definieren](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-3-berichtstermine-definieren)  
   >>* 4.4  [Schritt 4: Kosten eintragen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-4-kosten-eintragen)   
-  >>* 4.5  [Schritt 5: Kostenabweichungen erkennen](#schritt-5:-kostenabweichungen-erkennen)   
+  >>* 4.5  [Schritt 5: Kostenabweichungen erkennen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-5-kostenabweichungen-erkennen)   
 >5. [Siehe auch](#siehe-auch)  
 >6. [Weiterführende Literatur](#weiterführende-literatur)  
 >7. [Quellen](#quellen)
