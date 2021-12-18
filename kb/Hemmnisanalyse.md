@@ -66,10 +66,10 @@ unterschiedliche Strategien. [^2]
 ## Praxisbeispiel
 Um Hemmnisse erkennen und bewerten zu können gibt es verschiedene [Methoden](Methoden.md).
 Im folgenden werden auf die Ergebnisse der Hemmnisanalyse des Forschungsprojektes "Analyse des öffentlichen Beschaffungswesens in Deutschland" eingegangen. Um
-eine erfolgreiche Hemmnisanalyse durch führen zu können werden Hemmnisse aufgelistet, welche dann berwertet werden können. Im öffentlichen Beschaffungswesens
-werden zum Beispiel mögliche Hindernisse wie zusätzliche Arbeit, höhrere Kosten und Unsicherheit bzgl. rechtlicher Regelungen aufgelistet. Diese Hindernisse
-werden nun in einem Fragebogen dargestellt und mit einer Skala versehen. Nun können Projektmitarbeiter von "stimme zu" bis "stimme nicht zu" bewerten, wie man in
-der Beispielabbildung erkennen kann. Diese Bewertung wird anschließend nach Relevanz geordnet und somit sind die wichtigsten Hindernisse sofort zu sehen. Im
+eine erfolgreiche Hemmnisanalyse durchführen zu können werden Hemmnisse aufgelistet, welche dann berwertet werden. Im öffentlichen Beschaffungswesen
+werden zum Beispiel mögliche Hindernisse wie zusätzliche Arbeit, höhrere Kosten und Unsicherheit bzgl. rechtlicher Regelungen ausgewählt. Diese Hindernisse
+werden nun in einem Fragebogen dargestellt und mit einer Skala versehen. Nun können Projektmitarbeiter von "stimme zu" bis "stimme nicht zu" bewerten. Diese
+Bewertung wird anschließend nach Relevanz geordnet und somit sind die wichtigsten Hindernisse sofort zu sehen - so auch in der Beispielabbildung. Im
 letzten Schritt der [Projektplanung](Projektplanung.md) werden Strategien zur Vermeidung dieser Hemmnisse entwickelt. Beispielsweise kann eine Rechtsberatung
 engagiert werden, um rechtliche Unsicherheiten zu klären.[^3]
 
