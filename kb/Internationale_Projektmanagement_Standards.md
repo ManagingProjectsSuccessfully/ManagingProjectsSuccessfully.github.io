@@ -24,6 +24,8 @@ Ebenfalls hervorzuheben ist der sogenannte PMI’s Code of Ethics and Profession
 <img width="249" alt="PMI" src="https://user-images.githubusercontent.com/92951568/141460006-2da954c5-d970-454e-91c6-56e3717fe39e.png">
 Abbildung: Beispiel Projektgruppen und Wissensgebiete des PMBOK PM.
 
+![Beispielabbildung](Internationale_Projektmanagement_Standards/IPMA.jpg)
+
 ## IPMA Indvidual Competence Baseline (ICB4)
 
 Die International Project Management Association (IPMA) wurde 1965 gegründet und ist geprägt durch eine sehr individuelle Herangehensweise, da es kein festes Modell 
@@ -50,6 +52,7 @@ Arbeitsvorlagen und eine produktbasierte Planung, lässt sich Prince 2 gut mit a
 
 <img width="304" alt="MPS" src="https://user-images.githubusercontent.com/92951568/141459894-b992b1a0-5732-4eeb-a5f9-99e8aa0cac38.png">
 Abbildung: Aufbau von Prince2. 
+
 
 # Siehe auch
 
