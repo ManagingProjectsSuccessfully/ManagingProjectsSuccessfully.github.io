@@ -60,7 +60,7 @@ Wenn man nun die eingetragenen Kosten über das gesamte Projekt miteinander verb
 * [Kosten_Nutzen_Analyse](https://github.com/Maximilian219/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Nutzen_Analyse.md)
 
 ## Weiterführende Literatur
-* [Kostentrendanalyse](Projektmagazin)(https://www.projektmagazin.de/methoden/kostentrendanalyse)
+* [Kostentrendanalyse (Projektmagazin)](https://www.projektmagazin.de/methoden/kostentrendanalyse)
 
 ## Quellen
 
