@@ -22,7 +22,7 @@ Das V-Modell ist ein V-förmiges lineares [Vorgehensmodell](https://de.wikipedia
 
 3. Die rechte Seite des V ist die "Testseite" des V-Modells. Sie beschreibt, wie die einzelnen entwickelten Bausteine und Funktionen getestet und zu einem Gesamtsystem zusammengefasst werden.
 
-# Die einzelnen Phasen des V-Modells[^2]
+# Die einzelnen Phasen des V-Modells
 Zu 1: Die linke Seite des V wird auch "Entwurfsphase" genannt. Sie übersetzt Anforderungen in einen Systementwurf, der nach dem Top-Down-Prinzip immer weiter verfeinert wird. Wenn sich in einer darüberliegenden Ebene etwas verändert, müssen die darunterliegenden Ebenen angepasst werden, da diese aufeinander aufbauen.
   
      1.1 Anforderungsanalyse: Diese Ebene beschäftigt sich mit der Bestimmung der Anforderungen. Was soll das fertige Produkt können?
@@ -43,7 +43,7 @@ zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebe
      
      3.3 Systemtest: Hier kommt spätestens der Kunde ins Spiel, welcher das System als Ganzes intensiven Testläufen unterzieht.
      
-     3.4 Abnahmetest: Dies ist der Finale Test des Projekts. Dieser sollte in einer Umgebung stattfinden, die der späteren Produktivumgebung möglichst ähnlich ist. Auch die Nutzer sollten den Endnutzern Entsprechen, um ein möglichst aussagekräftiges Testergebnis zu ermitteln.
+     3.4 Abnahmetest: Dies ist der Finale Test des Projekts. Dieser sollte in einer Umgebung stattfinden, die der späteren Produktivumgebung möglichst ähnlich ist. Auch die Nutzer sollten den Endnutzern Entsprechen, um ein möglichst aussagekräftiges Testergebnis zu ermitteln.[^2]
 
 # Vor und Nachteile des V-Modells
 |Vorteile|Nachteile|
