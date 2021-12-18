@@ -36,14 +36,13 @@ Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird h�
 Unabhängig von der Größe des Unternehmens sollte sich jeder Projektleiter aufgrund der Individualität des [Stakeholdermanagements](Stakeholdermanagement.md) selbstständig ein eigenes Register anfertigen. Häufig unterscheiden sich die Kategorien der Tabelle, da von Projekt zu Projekt auf unterschiedliche Sachen Wert gelegt wird.
 Allerdings gibt es auch vorgefertigte Entwürfe, an denen sich orientiert werden kann bzw. die übernommen werden können. [^1]
 
-![Beispiel für ein Register](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")  
+In folgender Abbildung sind die gängigsten Kategorien zu sehen:
 
-*Beispiel für ein Register* [^3]
+![Gängige Kategorien für Stakeholder](Stakeholder_Register/Stakeholder-Kategorien.png "Gängige Kategorien")
 
+*Gängige Kategorien im Register* [^1]
 
-Im Folgenden sind die gängigsten Kategorien aufgelistet [^1] :
-
-* Name des Stakeholders
+<!-- * Name des Stakeholders
 * Art von Stakeholder
 * Interne oder Externe
 * Verbindungen oder Abhängigkeiten der Stakeholder
@@ -52,7 +51,7 @@ Im Folgenden sind die gängigsten Kategorien aufgelistet [^1] :
 * Anforderungen an das Projekt
 * Einfluss auf das Projekt
 * Bevorzugte Art & Häufigkeit der Kommunikation
-* Strategien
+* Strategien -->
 
 Weitere Leitsätze, die bei der Erstellung des Registers wichtig zu beachten sind [^2] :
 
@@ -64,6 +63,10 @@ Weitere Leitsätze, die bei der Erstellung des Registers wichtig zu beachten sin
 * Außerdem sollte das Register *keine sensiblen Informationen* enthalten, welche die Stakeholder schädigen könnten. 
 
 Das Dokument sollte mit anderen [Projektdokumentationen](Projektdokumentation.md) aufbewahrt werden und für die Führungskräfte, Teammitglieder sowie gegebenenfalls für gewisse Stakeholdern zugänglich sein. [^2]
+
+![Beispiel für ein Register](Stakeholder_Register/stakeholder-register.jpg "Beispiel für Register")  
+
+*Beispiel für ein Register* [^3]
 
 ## Analyse der Stakeholder
 
