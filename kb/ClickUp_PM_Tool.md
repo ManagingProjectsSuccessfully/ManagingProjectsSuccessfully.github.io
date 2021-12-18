@@ -51,14 +51,9 @@ Ebenfalls wird hier rechts eine Chatfunktion eingeblendet, wo Teammitglieder sic
 
 ## Dashboards
 
-Bieten viele Möglichkeiten eine Timeline wie auf Social Media zu erstellen mit Widgets wie Excel-Tabellen, YouTube-Videos, Chatfunktion und viele weitere
-Funktionen. Hier kann wieder eingestellt werden wer Zugriff haben darf auf das eigene Dashboard. 
+Dashboards bieten viele Möglichkeiten eine Timeline wie auf Social Media zu erstellen mit Widgets wie Excel-Tabellen, YouTube-Videos, Chatfunktion und viele
+weitere Funktionen. Hier kann wieder eingestellt werden wer Zugriff haben darf auf das eigene Dashboard. 
 
-## Docs
-
-Docs gibt die Möglichkeit unterschiedlichste Dokumente mit Teammitgliedern teilen zu können.
-
-# Features
 # Einstieg in ClickUP
 ## App 
 
