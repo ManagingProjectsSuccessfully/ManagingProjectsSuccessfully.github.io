@@ -39,7 +39,7 @@ Verschiedene Elemente wie Portfolios, Programme und Produkte können, wenn sie i
 *Beispiel für das Wertlieferungssystem* [^6]
 
 ## Project Management Principles 
-Die folgenden Grundsätze wurden von Projektspezialisten verschiedener kultureller und beruflicher Hintergründe erarbeitet. Sie ergänzen den *Code of Ethics and Professional Conduct* des [PMI](PMI_Institution.md) und sind nicht präskritpiv. Projektteams sollen sich lediglich an den Grundsätzen orientieren. Die Prinzipien sind konsistent und können sich untereinander oder mit anderen Managementprinzipien überschneiden [^7].
+Die folgenden Grundsätze wurden von Projektspezialisten verschiedener kultureller und beruflicher Hintergründe erarbeitet. Sie ergänzen den *Code of Ethics and Professional Conduct* des [PMI](PMI_Institution.md) und sind nicht präskriptiv. Projektteams sollen sich lediglich an den Grundsätzen orientieren. Die Prinzipien sind konsistent und können sich untereinander oder mit anderen Managementprinzipien überschneiden [^7].
 
 * Stewardship
 * Team
@@ -93,9 +93,9 @@ Aufgrund der individuellen Zusammensetzung jedes Projekts sind keine einheitlich
 [^2]:[Kurz und knapp: Das ist neu beim PMBOK-Guide Edition 7](https://www.inloox.de/unternehmen/blog/artikel/kurz-und-knapp-das-ist-neu-beim-pmbok-guide-edition-7/)
 [^3]:[PMBOK Guide 7. Ausgabe – Ein Überblick](https://www.tiba-business-school.de/pmbok-guide-7-ausgabe-ueberblick/)
 [^4]:[PMBOK® Guide](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK) 
-[^5]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.14
-[^6]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.34-47
-[^7]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.48-86
-[^8]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.102
-[^9]:PMI (Hrsg.): A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition, Newton Square 2021, ISBN: 978-1-62825-664-2, S.226-232
+[^5]: [A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition](https://msfau.sharepoint.com/:b:/t/ManagingProjectsSuccessfullyWS2122/ESSHjiJ4A4lNlMS_IOokdA0BNhGaDTT4Gj9juHXfVPetoA?e=EPlwFG) S.14
+[^6]:[A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition](https://msfau.sharepoint.com/:b:/t/ManagingProjectsSuccessfullyWS2122/ESSHjiJ4A4lNlMS_IOokdA0BNhGaDTT4Gj9juHXfVPetoA?e=EPlwFG) S.34-47
+[^7]:[A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition](https://msfau.sharepoint.com/:b:/t/ManagingProjectsSuccessfullyWS2122/ESSHjiJ4A4lNlMS_IOokdA0BNhGaDTT4Gj9juHXfVPetoA?e=EPlwFG) S.48-86
+[^8]:[A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition](https://msfau.sharepoint.com/:b:/t/ManagingProjectsSuccessfullyWS2122/ESSHjiJ4A4lNlMS_IOokdA0BNhGaDTT4Gj9juHXfVPetoA?e=EPlwFG) S.102
+[^9]:[A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition](https://msfau.sharepoint.com/:b:/t/ManagingProjectsSuccessfullyWS2122/ESSHjiJ4A4lNlMS_IOokdA0BNhGaDTT4Gj9juHXfVPetoA?e=EPlwFG)  S.226-232
 
