@@ -5,13 +5,13 @@ author: sebswier
 anrechnung: k
 ---
 
-Selbstoffenbarung ist ein zentraler Aspekt des sogenannten Vier-Seiten-Modells und stellt sie als wesentlicher Teil der Kommunikation im Projekt einen erfolgskritischen Faktor für das Projektmanagement dar.
+Selbstoffenbarung ist ein zentraler Aspekt des sogenannten Vier-Seiten-Modells und stellt als wesentlicher Teil der Kommunikation im Projekt einen erfolgskritischen Faktor für das Projektmanagement dar [^1] [^6].
 
 # Vier-Seiten-Modell
 
 Das Vier-Seiten-Modell, postuliert von dem Kommunikationspsychologen Friedemann Schulz von Thun im Jahre 1981, beschreibt, dass jede Äußerung eines Senders vier Dimensionen beinhaltet [^1]. Diese vier Dimensionen enthalten je eine Ebene an Informationen, welche zusammen den gesamten Informationsgehalt einer Botschaft darstellen und das sogenannte Kommunikationsquadrat bilden [^1].
 
-![Kommunikationsquadrat](Selbstoffenbarung/4_seiten_modell-768x305.png)
+![Kommunikationsquadrat](Selbstoffenbarung/4_seiten_modell-768x305.png) [^8]
 
 Das Kommunikationsquadrat ist eine bildliche Visualisierung der Theorie, nachdem jede Seite des Quadrats eine Dimension widerspiegelt [^1]. In der Abbildung sind die vier Dimensionen einer Nachricht sowie die Bezüge zu Sender und Empfänger dargestellt [^8].
 
@@ -23,9 +23,9 @@ Mithilfe der Sachebene des Modells übermittelt der Sender die Daten und Fakten 
 
 ### Beziehungsebene 
 
-Die Beziehungsebene gibt Auskunft darüber, wie der Sender der Nachricht zu dem Empfänger steht [^1]. Diese Hinweise über die Beziehung können implizit und explizit gestaltet sein und werden durch Formulierung, Tonfall, Mimik und Gestik vermittelt [^1]. Der Sender zeigt seine Einschätzung der Beziehung zwischen Sender und Empfänger, was die Form von Wertschätzung, Respekt, Wohlwollen, Gleichgültigkeit oder Verachtung annehmen kann [^2].
+Die Beziehungsebene gibt Auskunft darüber, wie der Sender der Nachricht zu dem Empfänger steht [^1]. Diese Hinweise über die Beziehung können implizit und explizit gestaltet sein und werden durch Formulierung, Tonfall, Mimik und Gestik vermittelt [^1]. Der Sender zeigt seine Einschätzung der Beziehung zwischen sich und dem Empfänger, was die Form von Wertschätzung, Respekt, Wohlwollen, Gleichgültigkeit oder Verachtung annehmen kann [^2].
 
-### Apell 
+### Appell 
 
 Durch den Appell soll eine Reaktion im Empfänger der Botschaft in Form einer Handlung provoziert werden [^4]. In dem Sinne unternimmt der Sender offen oder verdeckt den Versuch den Empfänger veranlassen, etwas zu tun oder zu unterlassen [^2]. Geschieht dies auf offene Weise entstehen Aufforderungen oder Bitten, währenddessen verdeckte Appelle als Manipulation bezeichnet werden [^2].
 
@@ -41,7 +41,7 @@ Die Offenbarung dieser Informationen kann zum Beispiel in Form einer gewollten u
 
 Die effektive Kommunikation in einem Projekt stellt einen kritischen Erfolgsfaktor dar [^6]. Der tägliche Bedarf, die benötigten Informationen zu erhalten sowie anderen wichtige Informationen zu geben, macht Projekte überhaupt erst möglich [^6]. 
 
-Eines der größtes Hindernisse für eine effektive Kommunikation ist die Unfähigkeit eines Teammitglied zur Selbstoffenbarung, bewusst oder unbewusst seiner inneren Gefühle und Gedanken über das Projekt zu teilen [^6]. „Anger, jealousy, resentment, fear, distrust, prejudice and insecurity are some of the common [inner] feelings that conspire to block the communications flow“ [^6]. „Wut, Eifersucht, Groll, Angst, Misstrauen, Vorurteile und Unsicherheit sind einige der häufigsten [inneren] Gefühle, die den Kommunikationsfluss blockieren“ [^6].
+Eines der größtes Hindernisse für eine effektive Kommunikation ist die Unfähigkeit eines Teammitglieds zur Selbstoffenbarung, bewusst oder unbewusst seiner inneren Gefühle und Gedanken über das Projekt zu teilen [^6]. „Anger, jealousy, resentment, fear, distrust, prejudice and insecurity are some of the common [inner] feelings that conspire to block the communications flow“ [^6]. „Wut, Eifersucht, Groll, Angst, Misstrauen, Vorurteile und Unsicherheit sind einige der häufigsten [inneren] Gefühle, die den Kommunikationsfluss blockieren“ [^6].
 
 ## Agil
 
@@ -51,7 +51,6 @@ Jedes Mitglied des Scrum-Teams entscheidet selbst, welche inneren Gedanken, Gef�
 
 # Siehe auch
 
-* [Link auf diese Seite](Selbstoffenbarung.md)
 *	[Projektkommunikation](Projektkommunikation.md)
 *	[SCRUM](SCRUM.md)
 *	[Retrospective](Retrospective.md)
