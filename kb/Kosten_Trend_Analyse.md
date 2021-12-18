@@ -39,7 +39,7 @@ Die folgenden fünf Schritte sind grundsätzlich immer gleich bei einer Kostentr
 Genau wie bei der [Meilensteintrendanalyse](https://github.com/CatPec/ManagingProjectsSuccessfully.github.io/blob/main/kb/Meilensteintrendanalyse.md) benötigt man auch hier ein Diagramm bestehend aus zwei Achsen. Dabei wird die X-Achse üblicherweise für die Berichtstermine und die Y-Achse für die Kosten verwendet. [^1]
 
 
-![Beispielabbildung](Kosten_Trend_Analyse/Download.jpeg)  
+![Beispielabbildung](Kosten_Trend_Analyse/KTA-Schritt_4.png)  
 *Diagramm Kostentrendanalyse* [^2]
 
 ### Schritt 2: Plankosten zusammenstellen 
