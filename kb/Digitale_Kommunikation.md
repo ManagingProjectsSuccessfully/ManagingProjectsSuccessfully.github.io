@@ -1,6 +1,6 @@
 ---
 title: Digitale_Kommunikation
-tags: agil klassisch 
+tags: agil, klassisch, Kommunikation 
 author: DaLob98
 anrechnung: k
 ---
@@ -29,7 +29,7 @@ Nach Cockburn ist dadurch die effektivste Kommunikationsform von Angesicht zu An
 # 3. Vorteile durch digitale Kommunikation
 Die Vorteile digitaler Kommunikation liegen in der zeitlichen- und räumlichen Unabhängigkeit und in der Effizienz. E-Mails können zeitlich unabhängig versendet werden und erreichen den Empfänger innerhalb weniger Sekunden.
 Die räumliche Unabhängigkeit spiegelt sich dadurch wieder, dass die Mitglieder eines Projektteams sich in verschieden Regionen oder sogar Zeitzonen befinden und durch Kommunikationssoftware trotzdem am Projektmeeting teilnehmen können.
-Der größte Vorteil ist aber der Zeitgewinn, Aufträge können „just in time“ vergeben werden oder an [Projekten](Projekt.md) können durch „Share-Optionen“ mehrere Personen gleichzeitig arbeiten [^4].
+Der größte Vorteil ist aber der Zeitgewinn, wodurch Aufträge „just in time“ vergeben werden können oder an [Projekten](Projekt.md) durch „Share-Optionen“ mehrere Personen gleichzeitig arbeiten können [^4].
 
 # 4. Die Kommunikationssoftware Microsoft Teams
 
@@ -56,8 +56,9 @@ Verschiedene Tools zur optimalen Projektbearbeitung:
 
 # Siehe auch
 * [Übersicht PM-Tools](Uebersicht_PM_Tools.md)
-* [Microsoft Project PM-Tool](Microsoft_Project_PM_Tool.md)
 * [Projektkommunikation](Projektkommunikation.md)
+* [Kommunikation_Projektbeteiligte](Kommunikation_Projektbeteiligte.md)
+* [Digitalsierung im PM](Digitalisierung_im_PM.md)
 
 # Weiterführende Literatur 
 *[Digitale Kommunikation-Vernetzen, Multimedia, Sicherheit](https://link.springer.com/content/pdf/10.1007%2F978-3-540-92923-9.pdf)
