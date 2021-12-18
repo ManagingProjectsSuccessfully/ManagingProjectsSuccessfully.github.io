@@ -37,13 +37,13 @@ Zu 2: Die Implementierungsphase variiert je nach Projekt, daher gibt es dazu im 
 
 zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebene in der Entwurfsphase gegenüber (Bottom-Up-Prinzip).
      
-     1.1 Komponententest: Funktionen einzelner Komponenten werden getestet.
+     3.1 Komponententest: Funktionen einzelner Komponenten werden getestet.
      
-     1.2 Integrationstest: Auf dieser Ebene wird getestet ob verschiedene Komponenten gemeinsam funktionieren und ihre Daten korrekt kommunizieren.
+     3.2 Integrationstest: Auf dieser Ebene wird getestet ob verschiedene Komponenten gemeinsam funktionieren und ihre Daten korrekt kommunizieren.
      
-     1.3 Systemtest: Hier kommt spätestens der Kunde ins Spiel, welcher das System als Ganzes intensiven Testläufen unterzieht.
+     3.3 Systemtest: Hier kommt spätestens der Kunde ins Spiel, welcher das System als Ganzes intensiven Testläufen unterzieht.
      
-     1.4 Abnahmetest: Dies ist der Finale Test des Projekts. Dieser sollte in einer Umgebung stattfinden, die der späteren Produktivumgebung möglichst ähnlich ist. Auch die Nutzer sollten den Endnutzern Entsprechen um ein möglichst aussagekräftiges Testergebnis zu ermitteln.
+     3.4 Abnahmetest: Dies ist der Finale Test des Projekts. Dieser sollte in einer Umgebung stattfinden, die der späteren Produktivumgebung möglichst ähnlich ist. Auch die Nutzer sollten den Endnutzern Entsprechen, um ein möglichst aussagekräftiges Testergebnis zu ermitteln.
 
 # Vor und Nachteile des V-Modells
 |Vorteile|Nachteile|
@@ -51,7 +51,7 @@ zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebe
 |Umsetzbarkeit und Probleme werden früh erkannt|sehr ausführliche Dokumentationen nötig|
 |einfacher Aufbau|starr und wenig flexibel|
 |geringe Kommunikation mit Kunden nötig|Kann falsche Sicherheit gewähren|
-|Testabdeckung einzelner Komponenten als auch des gesamten System sehr hoch||
+|Testabdeckung einzelner Komponenten als auch des gesamten Systems sehr hoch||
 
 #### Anwendungsbereiche
 - Softwareentwicklung 
