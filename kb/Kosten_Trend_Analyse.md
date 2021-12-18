@@ -7,18 +7,18 @@ anrechnung: k
 Genau wie Terminverzögerungen sind Kostenabweichungen ein wichtiges Thema, welches im [Projektmanagement](Projektmanagement.md) gut durchdacht werden muss. Wenn beispielsweise ein Teil der Lieferkette nicht so funktioniert, wie vorgesehen, können Mehrkosten entstehen, wodurch man ziemlich schnell die geplanten Kosten überschreiten kann. Deshalb ist es in der Planung wichtig gewisse Kostenrisiken schon vorher abschätzen zu können. Dabei wird im klassischen Projektmanagement sehr oft die Kostentrendanalyse als Hilfsmittel genutzt! [^1]
 
 ## Inhalte 
->2. [Ziele der Kostentrendanalyse](#ziele-der-kostentrendanalyse)   
->3. [Vorteile der KTA](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#vorteile-der-kta)   
->4. [Nachteile der KTA](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#nachteile-der-kta)  
->5. [Ablauf einer Kostentrendanalyse](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#ablauf-einer-kostentrendanalyse)  
-  >>* 5.1  [Schritt 1: Diagramm erstellen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-1-diagramm-erstellen)  
-  >>* 5.2  [Schritt 2: Plankosten zusammenstellen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-2-plankosten-zusammenstellen)  
-  >>* 5.3  [Schritt 3: Berichtstermine definieren](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-3-berichtstermine-definieren)  
-  >>* 5.4  [Schritt 4: Kosten eintragen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-4-kosten-eintragen)   
-  >>* 5.5  [Schritt 5: Kostenabweichungen erkennen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-5-kostenabweichungen-erkennen)   
->6. [Siehe auch](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#siehe-auch)  
->7. [Weiterführende Literatur](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#weiterf%C3%BChrende-literatur)  
->8. [Quellen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#quellen)
+>1. [Ziele der Kostentrendanalyse](#ziele-der-kostentrendanalyse)   
+>2. [Vorteile der KTA](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#vorteile-der-kta)   
+>3. [Nachteile der KTA](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#nachteile-der-kta)  
+>4. [Ablauf einer Kostentrendanalyse](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#ablauf-einer-kostentrendanalyse)  
+  >>* 4.1  [Schritt 1: Diagramm erstellen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-1-diagramm-erstellen)  
+  >>* 4.2  [Schritt 2: Plankosten zusammenstellen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-2-plankosten-zusammenstellen)  
+  >>* 4.3  [Schritt 3: Berichtstermine definieren](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-3-berichtstermine-definieren)  
+  >>* 4.4  [Schritt 4: Kosten eintragen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-4-kosten-eintragen)   
+  >>* 4.5  [Schritt 5: Kostenabweichungen erkennen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#schritt-5-kostenabweichungen-erkennen)   
+>5. [Siehe auch](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#siehe-auch)  
+>6. [Weiterführende Literatur](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#weiterf%C3%BChrende-literatur)  
+>7. [Quellen](https://github.com/thujavanj/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kosten_Trend_Analyse.md#quellen)
 
 ## Ziele der Kostentrendanalyse 
 Die Kostentrendanalyse ist in ihrer Umsetzung und Darstellung ähnlich zur [Meilensteintrendanalyse](Meilensteintrendanalyse.md). Jedoch wäre anders als dort, hier auch die Kosten als Faktor miteinbezogen. Die anfangs geplanten Kosten eines jeden Teilprojekts, werden den Ist-Kosten gegenübergestellt und durch geschätzte Restkosten bis zum Projektende ergänzt. So erhält man Angaben zu den anfallenden Kostendifferenzen. Zudem können so Risiken frühzeitig erkannt werden und Prognosen für den weiteren Verlauf des Projekts erstellt werden [^2]. 
