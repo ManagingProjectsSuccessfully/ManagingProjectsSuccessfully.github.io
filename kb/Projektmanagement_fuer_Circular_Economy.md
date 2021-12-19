@@ -7,11 +7,11 @@ anrechnung: k
 # Circular Economy
 
 Die Circular Economy oder auch Kreislaufwirtschaft ist ein Wirtschaftsmodell, das danach ausgerichtet ist, den Ressourceneinsatz, die Abfallproduktion und die 
-Emissionserzeugnisse zu minimieren. Dabei ist das Ziel die maximale Effizienz bei der Nutzung endlicher Ressourcen, den Übergang zu [erneuerbaren Ressourcen](Nachhaltige_Entwicklung.md) und auch die volle 
-Ausschöpfung von Materialien und Produkten bis zum Ende ihres Lebenszyklus zu erreichen.[^3] Im Allgemeinen beschreibt die Circular Economy ein regeneratives Wirtschaftssystem.
+Emissionserzeugnisse zu minimieren. Das Ziel ist die maximale Effizienz bei der Nutzung endlicher Ressourcen, den Übergang zu [erneuerbaren Ressourcen](Nachhaltige_Entwicklung.md) und auch die volle 
+Ausschöpfung von Materialien und Produkten.[^3] Im Allgemeinen beschreibt die Circular Economy ein regeneratives Wirtschaftssystem.
 Das dem Gegenüber stehende ist die Linearwirtschaft, welches ein "take-make-dispose" Modell beschreibt - in anderen Worten eine Wegwerfwirtschaft darstellt. Dabei zielt die 
 Circular Economy nicht nur darauf ab, die Mängel einer linearen Wirtschaft auszubessern, sondern stellt auch ein systematischer Wandel dar, der das Wirtschaftssystem vollständig 
-verändert.[^1]
+verändert.[^1] 
 
 ![image](Projektmanagement_fuer_Circular_Economy/R.jpg)
 
@@ -25,27 +25,25 @@ Laut der Ellen MCarthur Stiftung bezieht sich die Circular Economy immer auf fol
 
 ### 1. Die Schonung der Ressourcen
 
-Das Konzept bezieht sich auf die Minimierung von Abfällen und [Umweltverschmutzung](Nachhaltige_Entwicklung.md). Die Schäden durch wirtschaftliche Aktivitäten sollen reduziert werden. Dieser Einfluss auf die 
-Umwelt kann bereits bei der Gestaltung und dem Design des Produkts bestimmt werden. Durch neue Technologien und Materialien kann die Verschmutzung und der Abfall vermieden 
-werden. [^2]
+Bezug auf die Minimierung von Abfällen und [Umweltverschmutzung](Nachhaltige_Entwicklung.md). Der Einfluss auf die Umwelt kann bereits bei der Gestaltung und dem Design des 
+Produkts bestimmt werden, mithilfe von neuen Technologien/Materialien kann die Verschmutzung/Abfall vermieden werden. [^2]
 
 ### 2. Hohe effiziente Nutzung der Ressourcen
 
-Die Circular Economy hat mitunter als Ziel, die Lebenszyklen, sowie die Nutzungsdauer von Produkten und Materialien zu verlängern. Dies kann nur dann funktionieren, indem ein 
-Kreislauf für die in der Wirtschaft zirkulierenden Materialien und Produkte entsteht. Dabei erreicht man das Ziel durch die aktive Wiederverwendung, Reparatur und 
-Wiederaufbereitung der verwendeten Produkte und Materialien.[^1]
+Einer der Ziele ist, die Lebenszyklen/die Nutzungsdauer von Produkten und Materialien zu verlängern. Dies wird durch die aktive Wiederverwendung, 
+Reparatur und Wiederaufbereitung der verwendeten Produkte und Materialien.[^1]
 
 ### 3. Recycling/Regeneration
 
-Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und deutet darauf hin bewusstes Recyclen anzuwenden, um so dem Ökosystem etwas zurück zugeben. Heißt: Die Ressourcen sind begrenzt und ein stäniges nehmen wird den Zustand verschlimmern.[^2]
+Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und deutet darauf hin bewusstes Recyclen anzuwenden, um so dem Ökosystem etwas zurück zugeben, da die Ressourcen 
+begrenzt sind.[^2]
 
 
 ## Konzepte des Circular Economy
 
-Es gibt verscheidene Defintionen bzw. beschriebungen der Kreislaufwirtschaft, dies liegt an dem unterschiedlichen Verständnis und der unterschiedlichen Wahrnehmung durch 
-verschiedene Forscher. Das Konzept der Kreislaufwirtschaft lässt sich daher nicht genau nur einem Forscher zuordnen, sondern eher einigen Denkrichtungen. Tatsächlich leitet sich 
-das Konzept der Kreislaufwirtschaft von anderen Konzepten ab, wie zum Beispiel: Perfomance Economy, Öko-industrille Entwicklung, Regenerative Gestaltung, usw. Im Folgenden 
-werden diese Denkschulen zur Kreislaufwirtschaft zusammengefasst, die von den Mitgliedern der Ellen MacArthur Foundation gelehrt wurden.[^7]
+Es gibt verschiedene Defintionen der Kreislaufwirtschaft, dies liegt an dem unterschiedlichen Verständnis und der unterschiedlichen Wahrnehmung durch 
+verschiedene Forscher. Tatsächlich leitet sich das Konzept der Kreislaufwirtschaft von anderen Konzepten ab. Im Folgenden werden diese Denkschulen zur Kreislaufwirtschaft zusammengefasst, die von den Mitgliedern der Ellen MacArthur Foundation gelehrt 
+wurden.[^7]
 
 ### 1. Performance Economy
 
@@ -56,20 +54,20 @@ das Wachstum.[^7]
 
 Hier beinhaltet es einen geschlossenen Produktionskreislauf zur Minimierung von [Umweltprobleme](Risikobewertung_von_Umweltrisiken), wie Boden- und Wasserverschmutzung, 
 [Energiemanagement](Projektmanagement_fuer_die_Energiewende.md), Ressourceneffizienz etc.
-Dabei ist das Hauptziel die deutliche Verbesserung der wirtschaftlichen Umweltleistung.[^8]
+Das Hauptziel ist die deutliche Verbesserung der wirtschaftlichen Umweltleistung.[^8]
 
 ### 3. Regenerative Gestaltung
 
-In diesem Aspekt behandelt man, die Erneuerung oder Revitalisierung von Energie und Materialien für die Produktion und möchte Bedingungen schaffen für ein nachhaltiges
+Bezug auf die Erneuerung oder Revitalisierung von Energie und Materialien für die Produktion und Bedingungen schaffen für ein nachhaltiges
 Wirtschaftssystem.[^8]
 
 ### 4. Biomimicry
 
 Man spricht hierbei von Innovationen, die von der Natur inspiriert werden. 
-Die drei Grundprinzipien von Biomimicry.
-- Die Natur als Modell für die Lösung menschlicher Probleme.
-- Die Natur als Messlatte.
-- Die Natur als Mentor.[^8]
+Die drei Grundprinzipien von Biomimicry. Die Natur als:
+- Modell für die Lösung menschlicher Probleme
+- Messlatte
+- Mentor[^8]
 
 ### 5. Cradle to Cradle
 
@@ -80,36 +78,25 @@ Die drei Grundprinzipien von Biomimicry.
 Kreislaufwirtschaft bezieht sich normalerweise auf die Menge an recycelten Materialien oder die Reduzierung von Abfall. Das Design von Cradle zu Cradle konzentriert sich jedoch 
 auf die Produktqualität, einschließlich der Sicherheit für Mensch und Umwelt. Weiterhin wird durch dieses Modell ersichtlicher, dass die in einer Kreislaufwirtschaft zwei 
 verschiedene Produkte in Kreisläufen fließen. 
-* Im biologischen Kreislauf kehren [Ressourcen](Ressourcenplanung.md) in die Natur zurück. 
-* Im technologischen Kreislauf zirkulieren [Ressourcen](Ressourcenplanung.md) endlos im Kreislauf. [^7]
+* Biologischer Kreislauf: [Ressourcen](Ressourcenplanung.md) kehren in die Natur zurück. 
+* Technologischer Kreislauf: [Ressourcen](Ressourcenplanung.md) zirkulieren endlos im Kreislauf. [^7]
 
 ### 6. Blue Economy
 
-Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürlichen [Ressourcen](Ressourcenplanung.md) durch Innovation und Unternehmertum.[^7]
+Behinhaltet die effiziente Nutzung der natürlichen [Ressourcen](Ressourcenplanung.md) durch Innovation und Unternehmertum.[^7]
 
 ## Anwendung im Projektmanagement
 
-Bei der Umsetzung einer nachhaltigen Strategie, entsteht ein ["Change"](Change_Management.md) für die Organisation und das ganze Unternehmen. Insbesondere bei der Umstellung in 
-Circular Economy, hierbei wird nicht nur ein umdenken gefordert sondern, auch eine neue Umsetzung der bisherigen Unternehmensstrategien. Es bietet sich an, agile 
-Projektmanagement Methoden anzuwenden z.B. [PRINCE2](PRINCE2.md2) oder [Scrum](SCRUM.md), da eine hohe Veränderung mit einhergeht und damit eine satbilere Herangehensweise 
-geboten wird. Bei der Umsetzung wird zunächst analysiert, welche Optionen den größten Mehrwert dem eigenen Unternehmen bringt und basierend darauf werden die ersten Umsetzungen 
-durchgefürht. Währenddessen sollte die Projektlandschaft überprüft werden, damit Klarheit über die Effizienz der Strategie entsteht. Der wichtigste Faktor eines [nachhaltigen 
-Projektmanagements](Nachhaltigkeit_im_PM.md)ist das [Change Mangement](Change_Management.md).[^9]
+Bei der Umsetzung einer nachhaltigen Strategie, entsteht ein ["Change"](Change_Management.md) für die Organisation und das ganze Unternehmen, insbesondere bei Circular Economy. 
+Vorteilhaft ist es agile Projektmanagement Methoden anzuwenden z.B. [PRINCE2](PRINCE2.md2) oder [Scrum](SCRUM.md), da dadurch eine satbilere Herangehensweise einhergeht. 
+Zunächst wird analysiert, welche Optionen den größten Mehrwert dem eigenen Unternehmen bringt und daraufhin die ersten Umsetzungen 
+durchgefürht. Währenddessen sollte die Projektlandschaft überprüft werden, damit Klarheit über die Effizienz der Strategie entsteht. Der wichtigste Faktor hierbei ist das 
+[Change Mangement](Change_Management.md).[^9]
 
-
-
-## Vorteile einer Kreislaufwirtschaft
-
-* Einsparungen bei den Kosten
-* Die Treibhausgasemission wird gesenkt
-* Die [Umweltbelastung](Risikobewertung_von_Umweltrisiken.md) wird verringert
-* Steigerung der [Rohstoffversorgung](Ressourcenplanung.md)
-* stärkere Mitarbeiterbindung an das Unternehmen 
-* Förderung der Innovation und Wachstum 
-* Image Aufbesserung des Unternehmens[^5]
 
 ## Fazit
 
+Die Kreislaufwirtschaft ist das zentrale Wirtschaftsmodell der Zukunft. Natürlich erfordert der Wechsel vom linearen Denken zum zirkulären Denken einige Hindernisse zu überbrücken, aber Nachhaltigkeit wird immer ein wichtiger Ansatz bleiben.
 
 # Siehe auch
 
