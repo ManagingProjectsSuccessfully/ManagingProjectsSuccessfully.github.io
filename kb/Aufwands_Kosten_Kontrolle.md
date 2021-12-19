@@ -25,7 +25,7 @@ Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Projekt vorges
 
 
 # Earned Value Analyse
-Die Earned Value Analysis oder auch Ertragswertanalyse bezieht die Kosten und Leistungen eines Projekts aufeinander und erlaubt so eine präziese Kostenkontrolle.
+Die Earned Value Analysis (EVA) oder auch Ertragswertanalyse bezieht die Kosten und Leistungen eines Projekts aufeinander und erlaubt so eine präzise Kostenkontrolle.
 Zum Stichtag werden sowohl die Kosten als auch die Leistungen mit den Planwerten verglichen.
 
 ![image](/kb/Aufwands_Kosten_Kontrolle/Kosten_Aufwands_Kontrolle.jpg) [^4]
@@ -38,12 +38,10 @@ Zur Durchführung der EVA wird zuerst ein Statusdatum festgelegt: entweder das a
 Aus der Projektplanung entnimmt man folgende Kennzahlen:
 
 * Die geplanten Fertigstellungskosten für das Projekt
-* Den geplanten Fertigstellungsgrad, also das geplante Verhältnis der zum Stichtag erbrachten Leistung verglichen mit der Gesamtleistung, die für das Projekt notwendig ist
-Multipliziert man die beiden Werte erhält daraus den geplanten Fertigstellungswert.
+* Den geplanten Fertigstellungsgrad, also das geplante Verhältnis der zum Stichtag erbrachten Leistung verglichen mit der Gesamtleistung, die für das Projekt notwendig ist.
+Multipliziert man die beiden Werte, erhält daraus den geplanten Fertigstellungswert.
 
-Zum Stichtag muss ebenfalls der Ist-Stand erhoben werden:
-
-* Die aktuellen Ist-Kosten berechnen sich unter anderem aus den Kosten für Personal, Material, externe Dienstleister und sonstigen Kosten.[^5]
+Zum Stichtag muss ebenfalls der Ist-Stand erhoben werden: die aktuellen Ist-Kosten berechnen sich unter anderem aus den Kosten für Personal, Material, externe Dienstleister und sonstigen Kosten.[^5]
 
 Für die Ertragswertanalyse vergleicht man nun die aktuellen Ist-Kosten mit dem aktuellen Fertigstellungswert. 
 Liegen die Ist-Kosten über dem Fertigungsstellungswert, dann wurden entweder einzelne Schritte in der Kostenplanung nicht bedacht oder vom Aufwand her unterschätzt. [^6][^7]
@@ -53,7 +51,7 @@ Für eine genauere Beschreibung siehe: [Earned Value Analyse](Earned_Value_Analy
 # Nutzen der Aufwands- und Kostenanalyse 
 Eine laufende Rechnungsprüfung hilft das Einhalten, des für das Projekt vorgesehenen Budgets zu sichern.
 Meist wird der Arbeitsfortschritt in wöchentlichen Abständen überprüft. Bei Projekten mit einer deutlich längeren Laufzeiten von mehreren Monaten reicht auch ein monatlicher Check.
-Eine andere Möglichkeit ist, den Stichtag ergebnisorientiert festzusetzen, nämlich wenn bestimmte Arbeitspakete zu geplanten Meilensteinen abgeschlossen sind. 
+Eine andere Möglichkeit besteht darin, den Stichtag ergebnisorientiert festzusetzen, nämlich wenn bestimmte Arbeitspakete zu geplanten Meilensteinen abgeschlossen sind. 
 
 
 
