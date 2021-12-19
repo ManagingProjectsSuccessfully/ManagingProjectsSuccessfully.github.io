@@ -68,7 +68,7 @@ Um einen genaueren Einblick in die Thematik der Change Projekte zu erhalten, wir
    Die Lego Group implementierte die Prozessänderungen, die den Vertrieb vereinfachten und die Anzahl der Logistikunternehmen reduzierten. Das Unternehmen      baute zudem eine enge Zusammenarbeit mit den größten Händlern auf. [^11] Beispielsweise wurde im Rahmen des Rettungsplans von Jørgen Vig Knudstorp, im        Jahre 2006, ein wesentlicher Teil der Produktion an den Vertragspartner Flextronics ausgelagert. Ziel war es, die Kosten der Produktion zu senken. Später    wurden noch weitere Produktionsstätten an den neuen Partner ausgelagert. [^10]
    
 
-  ## Ergebnis des Change Projekts
+  ## Ergebnis des Change Projektes
 
    Im Jahre 2005, nur ein Jahr nach der Übernahme von Jørgen Vig Knudstorp als CEO, machte die Lego Group Gewinn. Die Verbesserungen in den Prozessen der        Lieferketten, trugen allein von 2005 bis 2006 zu einem 11-prozentigen Anstieg des Umsatzerlöses bei, was im Vergleich zum Vorjahr mehr als doppelte          an Ertrag ausmachte. [^11]
 
