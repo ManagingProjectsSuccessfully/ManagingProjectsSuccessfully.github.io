@@ -106,7 +106,7 @@ Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung 
 Wenn Vorgänge und Meilensteine gesetzt sind, folgen über Verknüpfungen inhaltlich, logische Beziehungen, die nicht unbedingt chronologisch abgebildet werden müssen.Neben der Ende-Anfang-Beziehung (kurz: EA) kann der User drei weitere Beziehungsarten wählen (EE, AE, AA).
 Falls Verzögerungen/Beschleunigungen erfasst werden müssen, kann dies über die Angabe von Tagen mit einem Plus/Minus Zeichen angepasst werden. Die hierfür verwendeten Spalten lauten Vorgänger/Nachfolger.
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/Verknüpfungen.jpg)
+![Beispielabbildung](Microsoft_Project_PM_Tool/Verknuepfungen.jpg)
 
 *Abbildung 7: Verknüpfungen*[^5]
 
@@ -175,6 +175,8 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 # Siehe auch
 * [Projektmanagement](Projektmanagement.md)
 * [Projektsteuerung](Projektsteuerung.md)
+* [Projektstart](Projektstart.md)
+* [Meilenstein](Meilenstein.md)
 
 # Weiterführende Literatur
 
