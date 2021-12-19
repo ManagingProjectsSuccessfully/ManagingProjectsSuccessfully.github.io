@@ -52,6 +52,8 @@ Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Strukt
 
 # Fazit
 
+Das Voranschreiten der Digitalisierung hat viele Veränderungen für das Projektmanagement und alle Beteiligten gebracht. Einige dieser Neuerungen werden auch noch lange Bestandteil bleiben. Um aber auch in der Zukunft weiterhin erfolgreich zu sein, wird sich das Projektmanagement weiterentwickeln und an neue Trends anpassen müssen. Themen, die dabei sicherlich eine große Rolle spielen werden, sind u.a. [Künstliche Intelligenz](KI_im_PM.md), [maschinelles Lernen](Machine_Learning_im_Projektmanagement.md) und [Virtual Reality](Virtual_Reality.md), welche ich vielen Unternehmen immer mehr zum Einsatz kommen.
+
 # Siehe auch
 
 * [Digitale Kommunikation](Digitale_Kommunikation.md) 
