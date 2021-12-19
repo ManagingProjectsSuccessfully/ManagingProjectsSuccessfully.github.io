@@ -18,7 +18,7 @@ Das **Stakeholder Register** ist ein Werkzeug für die Projektplanung.
 
 # Definition
 
-Beim **Stakeholder Register** handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen besitzt, die ein Interesse am Ausgang eines [Projekts](Projekt.md) haben, sogenannte *Stakeholder*, besitzt. [^1]
+Beim **Stakeholder Register** handelt es sich um ein Dokument, welches alle relevanten Informationen über direkte oder indirekte beteiligte Individuen, Gruppen oder Organisationen, die ein Interesse am Ausgang eines [Projekts](Projekt.md) haben, sogenannte *Stakeholder*, besitzt. [^1]
 
 # Erstellung eines Registers
 
@@ -27,14 +27,14 @@ Das *Register* wird früh im Planungsprozess von [Projektleitern](Projektleiter.
 ## Identifizierung der Stakeholder 
 
 Zunächst müssen die Stakeholder ausfindig gemacht werden. Im Team diskutieren die [Projektmitarbeiter](Projektmitarbeiter.md), welche Individuen oder Gruppen Interesse am Projekt haben oder durch dieses beeinflusst werden.  
-Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, sodass das Dokument stets auf dem neuesten Stand gehalten werden muss. [^1]
+Dabei ist es wichtig zu beachten, dass dies ein kontinuierlicher Prozess ist, damit das Dokument stets auf dem neuesten Stand gehalten wird. [^1]
 
 ## Erstellen des Dokuments
 
 Nun wird das eigentliche Dokument angelegt. Zur Erstellung des Registers wird häufig *Microsoft Excel* benutzt. In Excel kann das Register nach Kategorien gefiltert und sortiert werden, um bestimmte Elemente hervorzuheben. [^2] 
 
-Unabhängig von der Größe des Unternehmens sollte sich jeder Projektleiter aufgrund der Individualität des [Stakeholdermanagements](Stakeholdermanagement.md) selbstständig ein eigenes Register anfertigen. Häufig unterscheiden sich die Kategorien der Tabelle, da von Projekt zu Projekt auf unterschiedliche Sachen Wert gelegt wird.
-Allerdings gibt es auch vorgefertigte Entwürfe, an denen sich orientiert werden kann bzw. die übernommen werden können. [^1]
+Unabhängig von der Größe des Unternehmens sollte sich jeder Projektleiter aufgrund der Individualität des [Stakeholdermanagements](Stakeholdermanagement.md) selbstständig ein eigenes Register anfertigen. Häufig unterscheiden sich die Kategorien der Tabelle, da sich der Fokus von Projekt zu Projekt unterscheidet.
+Allerdings gibt es auch vorgefertigte Entwürfe, die als Orientierung oder Vorlage dienen können. [^1]
 
 In folgender Abbildung sind die gängigsten Kategorien zu sehen:
 
@@ -51,7 +51,7 @@ In folgender Abbildung sind die gängigsten Kategorien zu sehen:
 * Bevorzugte Art & Häufigkeit der Kommunikation
 * Strategien -->
 
-Weitere Leitsätze, die bei der Erstellung des Registers wichtig zu beachten sind [^2] :
+Weitere Leitsätze, die bei der Erstellung des Registerszu beachten sind [^2] :
 
 * Fragen, die du von deinen Stakeholdern beantwortet haben willst, sollten im Voraus klar sein, *bevor* das Register erstellt wird.
 * Die *Formulierung des Registers* sollte so gestaltet sein, als würde es für die gesamte Welt, besonders für deine Stakeholder, veröffentlicht werden 
