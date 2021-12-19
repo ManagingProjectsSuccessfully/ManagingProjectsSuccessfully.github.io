@@ -46,6 +46,8 @@ Die Pareto-Verteilung zeichnet sich dadurch aus, dass sie auf der rechten Seite 
 
 Die folgende [Abbildung](https://de.wikipedia.org/wiki/Pareto-Verteilung) zeigt eine beisppielhaft zeigt eine beispielhafte Pareto-Verteilung auf.
 
+![image]https://github.com/nahihiry/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pareto_Prinzip/Bildschirmfoto%202021-12-19%20um%2023.47.03.png
+
 Die Grafik zeigt die Anzahl der Einwohner in deutschen Städten auf. Man erkennt klar, dass bereits in sehr wenige Städte alleine ein sehr großer Teil der Gesamtbevölkerung lebt. Es gibt dementsprechend sehr viele kleinerer Städte mit nur sehr wenigen Einwohnern.[^11]
 
 
@@ -54,10 +56,6 @@ Die Grafik zeigt die Anzahl der Einwohner in deutschen Städten auf. Man erkennt
 
 Aus den oben genannten Aspekt lässt sich leicht vermuten, dass auch im Bereich des Zeitmanagements des Öfteren vom Pareto-Prinzip die Rede ist. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches bereits die wichtigsten Bedingungen erfüllt.[^5]
 Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf genau diese Aspekte beschränkt, wird also bereits ein großer Teil der Dinge erreicht, die man erzielen will. Der Aufwand, der in dem steckt, das nur 20% des Ergebnisses erfüllt, liegt also bei 80% und ist schlussfolgernd viel zeitintensiver. 
-
-Dies wird auch in der folgenden Abbildung sichtbar:[^6]
-
-![image](https://github.com/nahihiry/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pareto_Prinzip/Bildschirmfoto%202021-11-19%20um%2019.05.53.png)
 
 Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des Pareto Prinzips. Oftmals sind die letzten 20% des Ergebnisses, die die Erledigung der Aufgabe perfektionieren würden, nicht zwingend notwendig, sodass die Zeit, die dadurch gespart wird, wiederum für andere Bereiche genutzt werden kann.[^7]
 
