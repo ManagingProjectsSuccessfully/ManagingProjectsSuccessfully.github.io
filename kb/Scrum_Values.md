@@ -46,7 +46,7 @@ Der [Scrum-Master](Scrum_Master.md) kann diese Offenheit durch die Transparenz g
 
 ## Respekt
 
-Gegenseitiger Respekt ist die Grundlage für eine effektive Zusammenarbeit bei der agilen Arbeit in einem Team. Respekt in Form von Wertschätzung, Verständnis und Rücksichtnahme bilden in gewisser Hinsicht das Fundament für die anderen Werte[^4]. Keine einzelne Person ist dabei wertvoller als eine andere, sondern Respekt bedeutet in diesem Kontext das Vertrauen in die anderen Teammitgliedern bei deren Erfüllung ihrer Aufgaben, das Anhören und die Berücksichtigung ihrer Ideen, sowie die Anerkennung ihrer Leistungen.
+Gegenseitiger Respekt ist die Grundlage für eine effektive Zusammenarbeit bei der agilen Arbeit in einem Team. Respekt in Form von Wertschätzung, Verständnis und Rücksichtnahme bilden in gewisser Hinsicht das Fundament für die anderen Werte[^4]. Keine einzelne Person ist dabei wertvoller als eine andere, sondern Respekt bedeutet in diesem Kontext das Vertrauen in die anderen Teammitgliedern bei deren Erfüllung ihrer Aufgaben, das Anhören und die Berücksichtigung ihrer Ideen, sowie die Anerkennung ihrer Leistungen[^4].
 
 ## Mut
 
