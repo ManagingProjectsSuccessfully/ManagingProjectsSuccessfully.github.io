@@ -40,20 +40,20 @@ Die schlechte Kommunikation ist ein anderer Faktor, der den Erfolg eines Projekt
 
 Einen großen Fallstrick stellen die unrealistische Ziele dar. Dazu gehören zum Beispiel zu früh gesetzte Deadlines, die kaum erreichbar sind, oder falsch eingeschätzte Budgets. Solche Fehler können nicht nur schädlich für den Erfolg des Unternehmens sein, sondern auch für die Moral und das Vertrauen der Team-Mitglieder[^1].
 ## Lösung:
-Man muss realistisch die Situation betrachten und alles in Abhängigkeit der Ressourcen, der Arbeitskräfte, dem Budget und der Fristen entscheiden[^1]. Man sollte sich fragen, was von dem Team zu erwarten ist und ob das physisch möglich ist oder ob sich die Zeitpläne der Planungsphase mit den vorgeschlagenen Fristen und dem vorhandenen Budget anpassen (siehe [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)).
+Man muss realistisch die Situation betrachten und alles in Abhängigkeit der Ressourcen, der Arbeitskräfte, dem Budget und der Fristen entscheiden[^1]. Man sollte sich fragen, was von dem Team zu erwarten ist und ob das physisch möglich ist oder ob die Zeitpläne der Planungsphase mit den vorgeschlagenen Fristen und dem vorhandenen Budget übereinstimmen (siehe [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)).
 
 
 # 4. Fehlende Aufteilung von Projekten in kleinere Aufgaben
 
-Projekte sind in der Regel riesig und langfristig. Ohne der Aufteilung der Aufgaben, kann es schnell dazu kommen, dass man den roten Faden verliert, und somit führt das zu Verunsicherungen.
+Projekte sind in der Regel umfangreich und langfristig geplant. Ohne die Aufteilung der Aufgaben kann es schnell passieren, dass man den roten Faden verliert, wodurch Verunsicherungen entstehen.
 ## Lösung: 
-Um diese Fallstricke im Projektmanagement zu vermeiden, muss man die Arbeit in Sektionen mit klaren kurzfristigen Fristen, eindeutigen Zielen und Werkzeugen zersplittern. Letztenendlich klingt eine Aufgabe, die nur eine Woche dauert, besser als ein 3-Monats-Projekt.[^2]
+Um diese Fallstricke im Projektmanagement zu vermeiden, muss man die Arbeit in Sektionen mit klaren kurzfristigen Fristen, eindeutigen Zielen und Werkzeugen aufteilen. Schließlich klingt eine Aufgabe, die nur eine Woche andauert, besser als ein dreimonatiges Projekt.[^2]
 
 
 
 
 # Fazit
-Zusammenfassend lässt sich sagen, dass man mit einem klar definierten Ziel, einer reichen und transparenten Kommunikation, ausreichenden Zeit- und Budgetressourcen und einer vernünftigen Arbeitsaufteilung, die typische Fallstricke leichter zu vorhersehen und zu vermeiden sind, um daher den Erfolg eines Projekts zu gewährleisten.
+Zusammenfassend lässt sich sagen, dass mit einem klar definierten Ziel, einer reichen und transparenten Kommunikation, ausreichender Zeit- und Budgetressourcen und einer vernünftigen Arbeitsaufteilung, die typischen Fallstricke leichter vorherzusehen und zu vermeiden sind, um so den Erfolg eines Projekts zu gewährleisten.
 
 
 
