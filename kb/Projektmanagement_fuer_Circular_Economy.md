@@ -1,8 +1,8 @@
 ---
 title: Projektmanagement_fuer_Circular_Economy
-tags: klassisch
+tags: agil
 author: 5SY5
-anrechnung: k 
+anrechnung: a
 ---
 # Circular Economy
 
