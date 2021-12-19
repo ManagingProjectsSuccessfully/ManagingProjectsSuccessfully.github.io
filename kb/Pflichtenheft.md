@@ -21,6 +21,8 @@ Um das Pflichtenheft besser zu verstehen, wird im Folgenden das [Lastenheft](Las
 In einem Lastenheft legt der Kunde fest, was er von dem Projekt erwartet. Er beschreibt und definiert mit diesem seine gesamten Anforderungen an das Projekt. So kann man das Lastenheft als Anforderungskatalog beschreiben. Der Kunde muss sich Gedanken darüber machen, was er eigentlich vom Projekt erwartet und was er genau bekommen möchte.
 Eine Abbildung zu einer bessern Übersicht:
 
+![Beispielabbildung](Pflichtenheft/Lastenheft-Pflichtenheft.webp)
+
 ## Gesetzliche Definitionen
 Das Pflichtenheft ist nach der [DIN 66001](DIN66001.md) "die ausführliche Beschreibung der Leistungen, die erforderlich sind oder gefordert werden, damit die Ziele des Projektes erreicht werden".[^1]
 Das Lastenheft wurde in der [VDI 2519](VDI2519.md) wie folgt definiert: „alle Anforderungen aus Anwendersicht einschließlich aller Randbedingungen beschreiben soll. Sie sollten quantifizierbar und prüfbar sein. Im Lastenheft wird definiert, was und wofür zu lösen ist. Das Lastenheft wird vom Auftraggeber oder in diesen Auftrag erstellt. Es dient als Ausschreibungs-, Angebots-, oder Vertragsgrundlage“.[^1] "Das, was in der VDI 2519 als Lastenheft definiert ist, wird unter Juristen schon eher als Pflichtenheft verstanden, als das, was die DIN 66001 darunter versteht".[^1]
@@ -74,11 +76,12 @@ Prüfung des Produktes vor der Fertigstellung in Bezug auf die verschiedenen Anf
 
 ## Quellen
 1. Digital Guide Ionos, [Das Pflichtenheft: Alle Anforderungen eines Projekts im Blick](https://www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/)
-2. Projektmagazin, [Pflichtenheft](https://www.projektmagazin.de/glossarterm/pflichtenheft)
-3. Projektmagazin, [Lastenheft](https://www.projektmagazin.de/glossarterm/lastenheft)
-4. InLoox, [Pflichtenheft](https://www.inloox.de/projektmanagement-glossar/pflichtenheft/)
-5. BrightSolutions, [Warum es wichtig ist, ein Pflichtenheft zu erstellen](https://www.brightsolutions.de/blog/warum-es-wichtig-ist-ein-pflichtenheft-zu-erstellen/)
-6. ProLogistik, [Pflichtenheft](https://www.prologistik.com/logistik-lexikon/pflichtenheft/)
-7. Induux Wiki, [Pflichtenheft - Zweck, Inhalt, Aufbau](https://wiki.induux.de/Pflichtenheft)
-8. Vario Lexikon, [Pflichtenheft - einfach erklärt mit Beispielen](https://www.vario-software.de/lexikon/pflichtenheft/)
+2. FMEA, [Lastenheft => Pflichtenheft](https://www.fmea.net/lexikon/lastenheft-pflichtenheft/)
+3. Projektmagazin, [Pflichtenheft](https://www.projektmagazin.de/glossarterm/pflichtenheft)
+4. Projektmagazin, [Lastenheft](https://www.projektmagazin.de/glossarterm/lastenheft)
+5. InLoox, [Pflichtenheft](https://www.inloox.de/projektmanagement-glossar/pflichtenheft/)
+6. BrightSolutions, [Warum es wichtig ist, ein Pflichtenheft zu erstellen](https://www.brightsolutions.de/blog/warum-es-wichtig-ist-ein-pflichtenheft-zu-erstellen/)
+7. ProLogistik, [Pflichtenheft](https://www.prologistik.com/logistik-lexikon/pflichtenheft/)
+8. Induux Wiki, [Pflichtenheft - Zweck, Inhalt, Aufbau](https://wiki.induux.de/Pflichtenheft)
+9. Vario Lexikon, [Pflichtenheft - einfach erklärt mit Beispielen](https://www.vario-software.de/lexikon/pflichtenheft/)
 [^1]: [Das Pflichtenheft I](https://www.anwaltskanzlei-online.de/2008/05/15/das-pflichtenheft-i/)
