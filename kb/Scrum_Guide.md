@@ -8,7 +8,7 @@ anrechnung: a
 Um zu Beginn ein grobes Verständnis über den Scrum-Guide zu schaffen, soll zunächst eine Kurzbeschreibung folgen. Der Scrum-Guide ist ein Rahmenwerk für die Entwicklung, 
 Bereitstellung und Aufrechterhaltung komplexer Produkte im Bereich der Softwareentwicklung.
 Dieser Leitfaden enthält die Definition von Scrum, bestehend aus den Scrum-Rollen, Ereignissen, Artefakten und den Regeln, die sie miteinander verbinden. 
-Ken Schwaber und Jeff Sutherland haben Scrum entwickelt. Der Scrum-Guide wurde von ihnen geschrieben und bereitgestellt. Gemeinsam stehen sie hinter dem Scrum-Guide[^1]. 
+Ken Schwaber und Jeff Sutherland haben Scrum entwickelt. Der Scrum-Guide wurde von ihnen geschrieben und bereitgestellt, gemeinsam stehen sie hinter dem Scrum-Guide[^1]. 
 
 
 # Der Scrum-Guide
