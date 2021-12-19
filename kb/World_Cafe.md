@@ -6,7 +6,8 @@ anrechnung: k
 ---
 
 Bei dem World Café handelt es sich um eine kreative Methode des [Projektmanagements](Projektmanagement.md), die vor allem für größere Gruppen geeignet ist. Es ist eine interaktive Alternative zu Konferenzen und Seminaren und bietet eine zwanglose Atmosphäre, die Teilnehmende zu Diskussionen, welche alltäglichen Gesprächen in einem Café ähneln sollen, anregt.[^1] Dabei soll der Austausch von verschiedenen Gedanken und Ideen zu komplexen Themen dazu führen, dass neue Sichtweisen entstehen und Probleme aus vielen verschiedenen Perspektiven betrachtet werden können.[^2]  So können neben offensichtlichen Lösungsansätzen auch unkonventionelle Lösungen und Vorgehensweisen erörtert werden.[^1]
-Das World Café kann in fast allen Phasen eines [Projektes](Projekt.md) eingesetzt werden und kann dabei helfen, Aktionspläne und Strategien für die nächsten Phasen zu entwickeln.
+Das World Café kann in fast allen Phasen eines [Projektes](Projekt.md) eingesetzt werden und kann dabei helfen, Aktionspläne und Strategien für die nächsten Phasen zu entwickeln.[^3]
+
 # Vorteile
 Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen hat unter anderem folgende Vorteile:
 * das Wissen Vieler wird vernetzt
@@ -77,8 +78,9 @@ Weitere kreative Methoden
 
 [^1]: [World Café – Moderation von Großgruppenveranstaltungen](https://organisationsberatung.net/world-cafe-grossgruppen-methode/)
 [^2]: [MEIN DEIN UNSER WIRKEN](https://www.worldcafe.eu/de/)
-[^3]: [World-Café: Die Pause als Methode](https://www.futur2.org/article/world-cafe-die-pause-als-methode/)
-[^4]: [World-Café - Gespräche, die zählen](https://www.agonda.de/World-Cafe/world-cafe.html)
-[^5]: [Methodeneinsatz - World Café](https://www.kas.de/de/web/politische-bildung/world-cafe)
-[^6]: [World-Café](https://www.methodenkartei.uni-oldenburg.de/uni_methode/world-cafe/)
-[^7]: [World Café: Gruppendiskussionen mit Café-Atmosphäre](https://wb-web.de/material/methoden/world-cafe-gruppendiskussionen-mit-cafe-atmosphare.html)
+[^3]: [WORLD CAFÉ](https://www.user-participation.eu/de/planung-des-partizipationsprozesses/schritt-5-partizipative-methoden/zukunftsplanung-visionen-strategien-projekte/world-cafe)
+[^4]: [World-Café: Die Pause als Methode](https://www.futur2.org/article/world-cafe-die-pause-als-methode/)
+[^5]: [World-Café - Gespräche, die zählen](https://www.agonda.de/World-Cafe/world-cafe.html)
+[^6]: [Methodeneinsatz - World Café](https://www.kas.de/de/web/politische-bildung/world-cafe)
+[^7]: [World-Café](https://www.methodenkartei.uni-oldenburg.de/uni_methode/world-cafe/)
+[^8]: [World Café: Gruppendiskussionen mit Café-Atmosphäre](https://wb-web.de/material/methoden/world-cafe-gruppendiskussionen-mit-cafe-atmosphare.html)
