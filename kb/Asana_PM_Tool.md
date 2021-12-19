@@ -59,7 +59,6 @@ Preis bezieht sich auf pro Nutzer pro Monat[^2]
 * [Jira_PM_Tool](Jira_PM_Tool.md)
 * [MeisterTask_PM_Tool](MeisterTask_PM_Tool.md)
 * [ClickUp_PM_Tool](ClickUp_PM_Tool.md)
-* [Hive_PM_Tool](Hive_PM_Tool.md)
 * [Trello_PM_Tool](Trello_PM_Tool.md)
 * [Podio_PM_Tool](Podio_PM_Tool.md)
 * [Stackfield_PM_Tool](Stackfield_PM_Tool.md)
