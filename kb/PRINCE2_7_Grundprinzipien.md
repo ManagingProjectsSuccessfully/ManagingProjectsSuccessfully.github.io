@@ -1,104 +1,142 @@
 ---
 title: PRINCE2_7_Grundprinzipien
-tags: agil klassisch
+tags:  klassisch
 author: Za22Regi
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu PRINCE2_7_Grundprinzipien um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+[PRINCE2](PRINCE2.md) besteht aus 4 Elementen: 
+- 7 Grundprinzipien
+- 7 Themen
+- [PRINCE2_7_Prozesse](PRINCE2_7_Prozesse.md)
+- [PRINCE2_Projektumgebung](PRINCE2_Projektumgebung.md)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Im Folgenden Bericht wird der Fokus auf die 7 Grundprinzipien gelegt. Diese sind der Kern eines jeden PRINCE2 Projekts.
 
 
-# Aspekt 1
+# PRINCE2 - Die 7 Grundprinzipien
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Agenda
 
-![Beispielabbildung](PRINCE2_7_Grundprinzipien/test-file.jpg)
+1. Begriffserklärung
+2. Die 7 Grundprinzipien    
+   1. Fortlaufende geschäftliche Rechtfertigung
+   2. Lernen aus Erfahrungen
+   3. Definierte Rollen und Verantwortlichkeiten
+   4. Definierte Phasen 
+   5. Steuern nach Ausnahmeprinzip
+   6. Produktorientierung
+   7. Angepasste Projektumgebung       
+3. Vor- und Nachteile
 
-*lustiges Testbild*
+## 1. Begriffserklärung[^1]
+PRINCE2 steht für "Projects in Controlled Environments"[^2] oder auf deutsch "Projekte in kontrollierten Umgebungen". Über den ganzen Projektverlauf wird für jede Projektphase eine Handlungsempfehlung definiert und gestaltet. Die Herstellung des Produkts steht weniger im Vordergrund, viel mehr liegt der Fokus auf die Rollenverteilung und das Zeitmanagement eines Projektes. Durch die Trennung beider Aspekte, können PRINCE2 Projekte sehr gut mit anderen Methoden, die sich auf die Produktherstellung spezialisiert haben, zusammenarbeiten. 
 
-# Aspekt 2
+Die weltweit führende Projektmanagementmethode basiert auf 7 Grundprinzipien, welche sich auf die Erfahrung guter und schlechter Projekte stützen. Diese wurden im Jahr 2009 neu eingeführt. 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich zu dem Jahr 2005 deutlich hervorgehoben[^3]. 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+<img width="232" alt="PRINCE2" src="PRINCE2_7_Grundprinzipien/PRINCE2.PNG">
 
-So kann man eine Tabelle erstellen:
+*Änderungen in 2009[^3] *
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## 2. Die 7 Grundprinzipien[^4]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
+### 1. Fortlaufende geschäftliche Rechtfertigung   
+   *Folgende Anforderungen müssen gegeben sein:* 
+   - Berechtigter Grund für Projektstart 
+   - Gültigkeit der Rechfertigung muss während des gesamten Projekts beibehalten werden
+   - Dokumentierte und genehmigte Rechtfertigung
+   - Dokumentation in Form eines Business Case
+   - Ziel: Sicherstellen, dass Projekt geschäftlichen Ziele und angestrebten Nutzen erfüllt 
+   
+### 2. Lernen aus Erfahrungen
+   - Projektteam lernt aus früher gemachten Erfahrungen 
+   - Über gesamten Projektverlauf: Sammlung, Aufzeichnung, Umsetzung neuer Erfahrungen 
+   - Bei Projektstart: Überprüfung früherer Erfahrungen aus vergangenen Projekten
+   - Während des Projekts: Umsetzung möglichst vieler Verbesserungen
+   - Bei Projektabschluss: Weitergeben der gemachten Erfahrungen
+   
+### 3. Definierte Rollen und Verantwortlichkeiten
+   - Innerhalb einer Organisationsstruktur klar definierte Rollenverteilung 
+   - Wichtigsten Stakeholder: Unternehmen, Lieferanten, Benutzer
+   - Interessen werden jeweils vertreten 
+   - *Verteter der geschäftlichen Unternehmensinteressen:* Sicherstellung, dass Zielsetzung des Projekts geschäftlich sinnvoll ist
+   - *Verteter der Benutzer:* Erzielung des angestrebten Nutzens, durch Einsetzen hergestellter Produkte 
+   - *Vertreter der Lieferanten* Bereitstellung von Ressourcen und erforderliche Kenntnisse für Herstellung der Produkte 
+   
+### 4. Definierte Phasen 
+   - Planung, Überwachung, Steuerung    
+   - Prüfung des Fortschritts 
+   - Am Ende einer jeden Phase: Bewertung des Projektstatus und Überprüfung von Business Case und Pläne
+   - Entscheidung über Weiterführung des Projekts  
+   - Management-Phasen: Grober Projektplan mit detailliertem Phasenplan für aktuelle Phase
+   - Mindestens 2 Management-Phasen sind notwendig
+   - Aufwendige kurze Phasen ermöglichen engere Steuerung
+   - Längere Phasen entlasten Management-Ebene 
+   
+### 5. Steuern nach Ausnahmeprinzip
+   - Definierung bestimmter Toleranzen für jedes Projektziel (6 Dimensionen)
+   - 6 Dimensionen: Zeit, Kosten, Qualität, Umfang, Nutzen, Risiko
+   - Zeitliche Entlastung der Führungskräfte
+   - Beibehaltung der Kontrolle über Projekt 
+   - Treffen von Entscheidungen auf richtigen Ebenen 
+   - Festlegung der Handlungsrahmen für delegierte Befugnisse 
+         
+### 6. Produktorientierung: 
+   - Ausrichtung auf Defintion und Lieferung von Produkten 
+   - Fokus auf Qualitätsanforderungen    
+   - Basis für Planung und Steuerung: Menge der Produkte, definiert Inhalt und Umfang des Projekts
+   - Durch Produktbeschreibungen gemeinsames Verständnis der Stakeholder über Produkt 
+   - Produktbeschreibungen enthalten Festlegungen zu Zweck, Zusammensetzung, Herkunft, Format, Qualitätskriterien und Qualitätsprüfmethoden
+   - Erschliesßung von Aufwand, Ressourcenbedarf, Abhängigkeiten
+   
+### 7. Angepasste Projektumgebung
+   - Universelle Projektmanagement-Methode
+   - Abhänging von Umgebung, Komplexität, Umfang, Leistungsfähigkeit und Risiken des Projekts
+   - Anpassung an jedes Unternehmen und Projekt 
+   
+   
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+## 3. Vor- und Nachteile[^5]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+
+| Vorteile                | Nachteile     |
+| -------------           | ------------- |
+| Flexibel                | Dokumentenlastig |
+| Skalierbar              | Vernachlässigung der Teammotivation
+| Einheitliche Sprache    | Vernachlässigung des Konfliktmanagements  |
+| Weltweite Anerkennung   | Abhängigkeit von Lieferanten |
+| Ansehen                 | Keinen Einfluss auf Produktherstellung  |
+| Produktorientiert       | Mangelnde Qualität |
+| Kompatibilität          | Für kleinere Projekte ungeeignet  |
+
+
+
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](PRINCE2_7_Grundprinzipien.md)
+* [PRINCE2](PRINCE2.md)
+* [PRINCE2_7_Prozesse](PRINCE2_7_Prozesse.md)
+* [PRINCE2_Projektumgebung](PRINCE2_Projektumgebung.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* https://www.youtube.com/watch?v=if__T71U2ss
+* https://www.youtube.com/watch?v=61RnrsWQE7A
+* https://www.prince2.com/de/blog/prinzipien-themen-prozesse
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Was ist PRINCE2](https://www.tiba-business-school.de/prince2-methode-vorteile/)
+[^2]: [Projects in Controlled Environments](https://en.wikipedia.org/wiki/PRINCE2)
+[^3]: [Änderungen im Jahr 2009](PRINCE2_7_Grundprinzipien/PRINCE2.PNG)
+[^4]: [PRINCE2 Grundprinzipien](https://dieprojektmanager.com/prince2-7-grundprinzipien-themen-prozesse/#Die_7_Grundprinzipien_von_PRINCE2)
+[^5]: [Vor- und Nachteile](https://de.education-wiki.com/9075849-prince2-principles)
