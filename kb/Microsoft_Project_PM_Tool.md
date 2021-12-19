@@ -165,7 +165,7 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 | umfangreiche Funktionen innerhalb der Projektplanung                    | anspruchsvolle Einarbeitung verlangt Grundlagenschulung        |
 | Detaillierungsschärfe der Visualisierung                                | hohe Anschaffungskosten für Lizenz                             |
 | auf Knopfdruck ansprechend, gestaltete Reportings / Berichte            | Fehlende Intuition bei der Handhabung                          |
-| effizientes Managementsystem komplexer, klassischer Projekte            | beansprucht hohen Pflegeaufwand der bespielte Daten            |
+| effizientes Managementsystem komplexer, klassischer Projekte            | beansprucht hohen Pflegeaufwand der bespielten Daten           |
 | etablierter Standard in vielen mittelständischen und großen Unternehmen |
 
 [^3]
@@ -176,7 +176,9 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 * [Projektmanagement](Projektmanagement.md)
 * [Projektsteuerung](Projektsteuerung.md)
 * [Projektstart](Projektstart.md)
-* [Meilenstein](Meilensteine.md)
+* [Meilensteine](Meilensteine.md)
+* [Datenmanagement im Projektmanagement](Datenmanagement_im_PM)
+* [Gantt-Diagramme](Gantt-Diagramme)
 
 # Weiterführende Literatur
 
