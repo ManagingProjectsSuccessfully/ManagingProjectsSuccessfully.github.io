@@ -91,10 +91,12 @@ Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürliche
 
 Bei der Umsetzung einer nachhaltigen Strategie, entsteht ein ["Change"](Change_Management.md) für die Organisation und das ganze Unternehmen. Insbesondere bei der Umstellung in 
 Circular Economy, hierbei wird nicht nur ein umdenken gefordert sondern, auch eine neue Umsetzung der bisherigen Unternehmensstrategien. Es bietet sich an, agile 
-Projektmanagement Methoden anzuwenden z.B. [PRINCE2](PRINCE.md2) oder [Scrum](Scrum.md), da eine hohe Veränderung mit einhergeht und damit eine satbilere Herangehensweise 
-geboten wird. Bei der Umsetzung wird zunächst analysiert, welche Optionen den größten Mehrwert dem eigenen Unternehmen bringt und basierend darauf werden die ersten Usmetungen 
+Projektmanagement Methoden anzuwenden z.B. [PRINCE2](PRINCE2.md2) oder [Scrum](SCRUM.md), da eine hohe Veränderung mit einhergeht und damit eine satbilere Herangehensweise 
+geboten wird. Bei der Umsetzung wird zunächst analysiert, welche Optionen den größten Mehrwert dem eigenen Unternehmen bringt und basierend darauf werden die ersten Umsetzungen 
 durchgefürht. Währenddessen sollte die Projektlandschaft überprüft werden, damit Klarheit über die Effizienz der Strategie entsteht. Der wichtigste Faktor eines [nachhaltigen 
-Projektmanagement](Nachhaltigkeit_im_PM.md)ist [Change Mangement](Change_Management.md).
+Projektmanagements](Nachhaltigkeit_im_PM.md)ist das [Change Mangement](Change_Management.md).[^9]
+
+
 
 ## Vorteile einer Kreislaufwirtschaft
 
@@ -119,7 +121,7 @@ Projektmanagement](Nachhaltigkeit_im_PM.md)ist [Change Mangement](Change_Managem
 * [Nachhaltige Entwicklung](Nachhaltige_Entwicklung.md)
 * [Change Management](Change_Mangagemetn.md)
 * [Prince2](PRINCE2.md)
-* [Scrum](Scrum.md)
+* [Scrum](SCRUM.md)
 
 
 # Weiterführende Literatur
@@ -137,3 +139,4 @@ Projektmanagement](Nachhaltigkeit_im_PM.md)ist [Change Mangement](Change_Managem
 [^6]: [Cradle to Cradle](Projektmanagement_fuer_Circular_Economy/Cradle_to_Cradle.jpg)
 [^7]: [Towards the circular economy](https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/sustainability/pdfs/towards_the_circular_economy.ashx)
 [^8]: [Circular Economy: Concepts and Principles](https://jss.utm.md/wp-content/uploads/sites/21/2020/06/JSS-2-2020_5-12.pdf)
+[^9]: [Nachhaltiges Projektmanagement bringt Circular Economy ans Leben](https://www.prosense-consulting.com/nachhaltiges-projektmanagement-bringt-circular-economy-ans-leben/)
