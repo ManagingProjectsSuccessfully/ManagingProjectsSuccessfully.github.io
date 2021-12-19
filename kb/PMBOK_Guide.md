@@ -4,11 +4,11 @@ tags: klassisch
 author: FerYilm
 anrechnung: k
 ---
-Der erstmals 1996 veröffentlichte PMBOK- Guide (A Guide to the Project Management Body of Knowledge) gilt als das zentrale Nachschlagwerk des [PMI](PMI_Institution.md) und ist ein anerkannter Standard des [Projektmanagements](Projektmanagement.md). Der PMBOK Guide gehört wie [PRINCE2](PRINCE2.md) zu den bekanntesten Ansätzen im [Projektmanagement](Projektmanagement.md) und ist in verschiedenen Bereichen anwendbar. Die vom PMI angebotene PMP [Zertifizierung](Zertifizierungen.md) baut u. a. auf dem Guide auf und gilt daher als wichtiges Referenzdokument [^1][^2].
+Der erstmals 1996 veröffentlichte PMBOK- Guide (A Guide to the Project Management Body of Knowledge) gilt als das zentrale Nachschlagwerk des [PMI](PMI_Institution.md) und ist ein anerkannter Standard des [Projektmanagements](Projektmanagement.md). Der PMBOK Guide gehört wie [PRINCE2](PRINCE2.md) zu den bekanntesten Ansätzen im Projektmanagement und ist in verschiedenen Bereichen anwendbar. Die vom PMI angebotene PMP [Zertifizierung](Zertifizierungen.md) baut u. a. auf dem Guide auf und gilt daher als wichtiges Referenzdokument [^1][^2].
 
 # Aufbau des aktuellen PMBOK-Guides
 Das Handbuch wird inhaltlich in den Standard und einen Leitfaden für das Projektmanagement gegliedert. Mit der 7. Edition wurden unter Berücksichtigung der technologischen und wirtschaftlichen Entwicklungen grundlegende Änderungen vorgenommen. Diese sollen aktuelle Herausforderungen im Projektmanagement besser widerspiegeln und Projektmanager:innen verbesserte Handlungsmöglichkeiten auf Marktveränderungen erlauben.
-Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer prozessorientierten Methodik, sondern auf Werten und Prinzipien. Zudem wurden die *Knowledge Areas* und die *Prozessgruppen* durch das sog. System für Wertlieferung, die Grundsätze und Projekt-Leistungsbereiche ersetzt [^3]. Im Abschnitt über Modelle, Methoden und Artifakte werden allgemeine Beschreibungen der am meisten angewendeten Beispiele aufgeführt [^4].
+Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer prozessorientierten Methodik, sondern auf Werten und Prinzipien. Zudem wurden die *Knowledge Areas* und die *Prozessgruppen* durch das sog. System für Wertlieferung, die Grundsätze und Projekt-Leistungsbereiche ersetzt [^3]. Im Abschnitt über Modelle, [Methoden](Methoden.md) und Artifakte werden allgemeine Beschreibungen der am meisten angewendeten Beispiele aufgeführt [^4].
 
 ![Abbildung](PMBOK_Guide/foto.jpg)
 
@@ -17,7 +17,7 @@ Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer proze
 
 
 
-| The Standard for Project Management | A Guide to the Project Management Body of Knowledge |
+| **The Standard for Project Management** | **A Guide to the Project Management Body of Knowledge** |
 | ------------- | ------------- | 
 | Introduction  | Project Performance Domains  |
 | System for Value Delivery  | Tailoring |
@@ -32,7 +32,7 @@ _Die Themenbereiche der aktuellen Edition_ [^6]
 ## System for Value Delivery
 
 Verschiedene Elemente können dazu beitragen, einen bestimmten Wert zu schaffen, wenn sie in einem System kombiniert werden. Damit das System mit der jeweiligen Organisationsstrategie übereinstimmt und an sein internes und externes Umfeld angepasst ist, sollte zwischen den beteiligten Elementen ein regelmäßiger Informationsaustausch stattfinden. Beispiele für Elemente sind Portfolios, Programme und Produkte.
-Das System für Wertlieferung wird dabei durch das Governance System unterstützt, welches einen Rahmen für verschiedene Funktionen darstellt. Wichtige Funktionen sind z.B. Aufsicht und Kontrolle. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter](Projektmitarbeiter.md) betont, die unabhängig vom Führungsstil ist. Der PMBOK Guide schreibt den Anwendern deshalb keinen speziellen Führungsansatz vor. Entscheidend für das Projektergebnis ist die regelmäßige Kooperation zwischen Projektmitgliedern und Stakeholder:innen [^7].
+Das System für Wertlieferung wird dabei durch das Governance System unterstützt, welches einen Rahmen für verschiedene Funktionen darstellt. Wichtige Funktionen sind z.B. Aufsicht und Kontrolle. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter](Projektmitarbeiter.md) betont, die unabhängig vom Führungsstil ist. Der PMBOK Guide schreibt deshalb keinen bestimmten Führungsansatz vor. Entscheidend für das Projektergebnis ist die regelmäßige [Kommunikation](Kommunikation_Projektbeteiligte.md) und [Interaktion](Interaktion.md) zwischen Projektmitgliedern und Stakeholder:innen [^7].
 
 
 ![Abbildung](PMBOK_Guide/system.jpg)
@@ -63,7 +63,7 @@ Die 12 Prinzipien sind nachfolgend mit ihren Bezeichnungen aufgelistet. Sie sind
 
 ## Project Performance Domains
 
-Alle Aktivitäten, die zusammenhängen und zum Erfolg eines Projekts beitragen, werden zu einem Project Performance Domain gezählt. Aufgrund der gegenseitigen Abhängigkeit stellen die acht Domains ein integriertes System dar und sind durch einen simultanen Ablauf gekennzeichnet. Der Zusammenhang der Bereiche kann je nach Projekt Unterschiede aufweisen, ist jedoch immer vorhanden. Eine isolierte Betrachtung der Domains ist deshalb nicht vorgesehen. Zum Beispiel beschäftigen sich Projektleiter:innen von Projektbeginn bis zum Projektabschluss mit Stakeholdern, dem Projektteam, Produktlebenszyklus usw. Die genannten Bereiche sind immer auf eine bestimmte Art und Weise miteinander verbunden und können sich überschneiden. Eine effektive Umsetzung der Leistungsbereiche führt zu einer Vielzahl von Vorteilen. Beispiele hierfür sind ein leistungsstarkes Team, geordneter und koordinierter Projektablauf, die angemessene Kommunikation mit Stakeholdern oder ein besseres Verständnis für die wechselseitige Abhängigkeit verschiedener Variablen.
+Alle Aktivitäten, die zusammenhängen und zum Erfolg eines [Projekts](Projekt.md) beitragen, werden zu einem Project Performance Domain gezählt. Aufgrund der gegenseitigen Abhängigkeit stellen die acht Domains ein integriertes System dar und sind durch einen simultanen Ablauf gekennzeichnet. Der Zusammenhang der Bereiche kann je nach [Projekt](Projekt.md) Unterschiede aufweisen, ist jedoch immer vorhanden. Eine isolierte Betrachtung der Domains ist deshalb nicht vorgesehen. Zum Beispiel beschäftigen sich [Projektleiter:innen](Projektleiter.md) von [Projektstart](Projektstart.md) bis zum [Projektabschluss](Projektabschluss.md) mit Stakeholder:innen, dem Projektteam, [Produktlebenszyklus](Projekt_Lebenszyklus.md) usw. Die genannten Bereiche sind immer auf eine bestimmte Art und Weise miteinander verbunden und können sich überschneiden. Eine effektive Umsetzung der Leistungsbereiche führt zu einer Vielzahl von Vorteilen. Beispiele sind ein leistungsstarkes Team, geordneter und koordinierter Projektablauf, die angemessene Kommunikation mit Stakeholder:innnen oder ein besseres Verständnis für die wechselseitige Abhängigkeit verschiedener Variablen.
 Abhängig von der Organisation, des Projektteams oder der Ziele setzen sich für die Bereiche, die nachfolgend aufgelistet sind, spezielle Aufgaben und Funktionen zusammen. Die Bereiche sind gleichgewichtet und haben keine besondere Reihenfolge [^9].
 
 *	**Stakeholder**
@@ -76,7 +76,7 @@ Abhängig von der Organisation, des Projektteams oder der Ziele setzen sich für
 
 ## Tailoring 
 
-Unter dem Begriff Tailoring versteht man die Abstimmung des Ansatzes und der Prozesse im Projektmanagement an das jeweilige Projektumfeld. Aufgrund der individuellen Zusammensetzung jedes Projekts sind keine einheitlichen Ansätze möglich. Tailoring passt daher unter Berücksichtigung des Projektlebenszyklus, der erwünschten Ergebnisse und der beteiligten Mitarbeiter:innen den Ansatz und die Prozesse an das anstehende Projekt an. Die *Project Management Principles*, die Werte und Kultur des Unternehmens bilden dabei die Basis für den Tailoring- Vorgang. Wenn zum Beispiel ein wichtiger Unternehmenswert das Umweltbewusstsein ist, werden Aktivitäten und Aufgaben ausgewählt, die diese Anforderung erfüllen und umweltschonend sind. Dies würde z.B. auch mit dem Grundsatz *Quality* im Einklang stehen. Damit das Tailoring gelingt, ist es wichtig, dass der Kontext, die Ziele und das Umfeld des Projekts wirklich verstanden wurden. Unternehmensrichtlinien oder Verträge können das Tailoring einschränken, wenn bestimmte Ansätze vorgeschrieben werden und eingehalten werden müssen. Durch Tailoring wird die Organisation direkt oder indirekt positiv beeinflusst. Beispiele für die Vorteile sind mehr Engagement von Teammitgliedern, die am Tailoing mitgewirkt haben, eine stärkere Kundenorientierung und ein ressourcenschonender Umgang. Tailoring liegt auch dann vor, wenn der Begriff nicht verwendet wird, aber trotzdem Projektfaktoren und Aktivitäten bewusst ausgewählt und angepasst werden [^10].
+Unter dem Begriff Tailoring versteht man die Abstimmung des Ansatzes und der Prozesse an das jeweilige Projektumfeld. Aufgrund der individuellen Zusammensetzung jedes Projekts sind keine einheitlichen Ansätze möglich. Tailoring passt daher unter Berücksichtigung des [Projektlebenszyklus](Projekt_Lebenszyklus.md), der erwünschten Ergebnisse und der beteiligten Mitarbeiter:innen den Ansatz und die Prozesse an das anstehende Projekt an. Die *Project Management Principles*, die Werte und Kultur des Unternehmens bilden dabei die Basis für den Tailoring- Vorgang. Wenn zum Beispiel wichtige Unternehmenswerte das Umweltbewusstsein und die [Nachhaltigkeit](Nachhaltigkeit_im_PM.md) sind, werden Aktivitäten und Aufgaben ausgewählt, die diese Anforderung erfüllen. Dies würde z.B. auch mit dem Grundsatz *Quality* im Einklang stehen. Damit das Tailoring gelingt, ist es wichtig, dass der Kontext, die Ziele und das Umfeld des Projekts wirklich verstanden wurden. Durch Tailoring kann eine Organisation direkt oder indirekt positiv beeinflusst werden. Beispiele für die Vorteile sind mehr Engagement von Teammitgliedern, die am Tailoing mitgewirkt haben, eine stärkere Kundenorientierung und ein ressourcenschonender Umgang. Unternehmensrichtlinien oder Verträge können das Tailoring einschränken oder verbieten, wenn bestimmte Ansätze vorgeschrieben werden und eingehalten werden müssen. Tailoring liegt auch dann vor, wenn der Begriff nicht verwendet wird, aber trotzdem Projektfaktoren und Aktivitäten bewusst ausgewählt und angepasst werden [^10].
 
 Folgende Aspekte können angepasst werden:
 
@@ -94,6 +94,11 @@ Folgende Aspekte können angepasst werden:
 * [Projektmanagement](Projektmanagement.md)
 * [Zertifizierung](Zertifizierungen.md)
 * [Projektmitarbeiter](Projektmitarbeiter.md)
+* [Methoden](Methoden.md)
+* [Projektlebenszyklus](Projekt_Lebenszyklus.md)
+* [Projektstart](Projektstart.md)
+* [Projektabschluss](Projektabschluss.md)
+* [Nachhaltigkeit im PM](Nachhaltigkeit_im_PM.md)
 
 # Weiterführende Literatur
 
