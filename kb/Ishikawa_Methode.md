@@ -62,8 +62,7 @@ wahre Problemursache“ (Imai 2002, S. 94)
 *4. Warum funktioniert sie nicht richtig?  
     - Weil ihr Achslager schon ausgeleiert ist.*  
 *5. Warum ist es ausgeleiert?  
-    - Weil Schmutz hineingelangt ist"*  
-((2006) Ishikawa-Diagramm. In: Produktionsmanagement S.64)[^2]
+    - Weil Schmutz hineingelangt ist"*  [^2]
 
 #### 4. Abwägung der Wahrscheinlichkeit
 Hier werde nun alle gesammelten konkreten Ursachen ausgewertet.
