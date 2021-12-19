@@ -62,7 +62,7 @@ wahre Problemursache“ (Imai 2002, S. 94)
 *4. Warum funktioniert sie nicht richtig?  
     - Weil ihr Achslager schon ausgeleiert ist.*  
 *5. Warum ist es ausgeleiert?  
-    - Weil Schmutz hineingelangt ist"*  [^2]
+    - Weil Schmutz hineingelangt ist"*  [^3]
 
 #### 4. Abwägung der Wahrscheinlichkeit
 Hier werde nun alle gesammelten konkreten Ursachen ausgewertet.
@@ -107,7 +107,7 @@ Die Ishakawa-Methode ist auch bekannt als:
 * [Statistische Qualitätskontrolle (W. Uhlmann)](https://books.google.de/books?hl=de&lr=&id=5tucBgAAQBAJ&oi=fnd&pg=PA7&dq=7+methoden+Qualit%C3%A4tskontrollen&ots=_AYFApt5UB&sig=5sTP6ovceio-2TCeXGzbj_wkCk4#v=onepage&q=7%20methoden%20Qualit%C3%A4tskontrollen&f=false)
 # Quellen
 
-[^1]: [Projekte-leicht-gemacht](https://de-academic.com/dic.nsf/dewiki/666650)
+[^1]: [Projekte-leicht-gemacht](https://projekte-leicht-gemacht.de/blog/business-wissen/ishikawa-diagramm/)
 [^2]: [Produktionsmanagement](https://link.springer.com/book/10.1007%2F978-3-8349-9091-4)
 [^3]: [Unterstützende Tools, Ishikawa-Diagramm und statistische Methoden](https://link.springer.com/chapter/10.1007/978-3-658-35208-0_3)
 [^4]: [Wikipedia und weiterführende Links der Seite](https://de.wikipedia.org/wiki/Sieben_Werkzeuge_der_Qualit%C3%A4t)
