@@ -1,11 +1,11 @@
 ---
 title: Hackathon
-tags: agil klassisch
+tags: Hackathon, Hack Fest, Hack Days, Code Days
 author: eberto99
 anrechnung: k
 ---
 
-Als Hackathon wird eine kollaborative Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine Lösung zu einer zuvor definierten Problemstellung erarbeiten.[^7] [^3]
+Als Hackathon wird eine kollaborative Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine [innovative](Innovationsprojekte.md) Lösung, in Form eines Produkts oder Services zu einer zuvor definierten Problemstellung erarbeiten.[^7] [^3] [^20]
 
 Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird hier das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf die zeitliche Komponente des Events, wobei die Teilnehmer zwischen 12 und 48 Stunden Zeit haben.[^4] [^8] [^5] 
 
@@ -67,7 +67,7 @@ Am Ende werden vor einer Jury, die meistens aus den Veranstaltern, Vertreter von
 
 # Chancen für die Teilnehmer und Unternehmen
 
-Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit auf Networking, Wissensaustausch und Preise, sondern auch die Aussicht auf eine längerfristige Zusammenarbeit oder Jobangebot. Denn etablierte, als auch junge Unternehmen nutzen die Gelegenheit um auf sich aufmerksam. So können sie die besten Hacker für sich gewinnen und sich mit interessierten Investoren austauschen.[^2] [^6]
+Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit auf Networking, Wissensaustausch und Preise, sondern auch die Aussicht auf eine längerfristige Zusammenarbeit oder Jobangebot. Denn etablierte, als auch junge Unternehmen nutzen die Gelegenheit um auf sich aufmerksam. So können sie die besten Hacker für sich gewinnen und sich mit interessierten Investoren austauschen.[^2] [^6] [^1]
 
 # Ausgewählte Beispiele 
 
@@ -84,6 +84,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 # Siehe auch
 
 * [Desing Thinking](Design_Thinking.md)
+* [Innovationsprojekte](Innovationsprojekte.md)
 * [Projekt](Projekt.md)
 
 # Weiterführende Literatur
@@ -92,7 +93,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 * Anmeldeplattform für Hackathons: [Eventbrite](https://www.eventbrite.de/d/germany/hackathon/)
 
 # Quellen
-
+[^1]: [Nutzen eines Hackathons: Warum er sich für jedes Unternehmen lohnt](https://www.lead-innovation.com/blog/nutzen-eines-hackathons)
 [^2]: [Hackathon: Die Kurzstrecke für Programmierer](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-ein-hackathon/)
 [^3]: [Was ist ein Hackathon? Definition, Ablauf, Vor- und Nachteile](https://www.elektrotechnik.vogel.de/was-ist-ein-hackathon-definition-ablauf-vor-und-nachteile-a-841459/)
 [^4]: [Hackathon – Hier entstehen Innovationen](https://digitaleneuordnung.de/blog/hackathon/)
@@ -111,3 +112,4 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 [^17]: [#WirVsVirus](https://wirvsvirus.org)
 [^18]: [HackBay 2021](https://www.hackbay.de)
 [^19]: [BCX - Hackathon von Bosch](https://bosch-connected-world.com/hackathon/)
+[^20]: [Was ist ein Hackathon?](https://www.lead-innovation.com/blog/was-ist-ein-hackathon)
