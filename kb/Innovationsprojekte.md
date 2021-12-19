@@ -5,28 +5,29 @@ author: pamerkl
 anrechnung: k
 ---
 
-Innovationsprojekte verknüpfen Innovationen mit Projekten und dienen als Instrument zur Lösung von Kundenproblemen. Hinsichtlich der unterschiedlichen Formen und Eigenschaften solcher Projekte, braucht es eine detaillierte Aufteilung in einzelne Phasen sowie angepasste Management-Methoden, um das Innovationsprojekt erfolgreich zu realisieren.
+Innovationsprojekte verknüpfen Innovationen mit Projekten und dienen als Instrument zur Lösung von Kundenproblemen. Die unterschiedlichen Formen und Eigenschaften von Innovationsprojekten erfordern eine detaillierte Aufteilung in einzelne Phasen sowie angepasste Management-Methoden, um das Innovationsprojekt erfolgreich zu realisieren.
 
 # 1.	Innovation und Projekte
 
 Innovation wird oft primär mit Produktneuerungen in Verbindung gebracht, was allerdings eine verbreitete Fehlansicht ist.[^1] Der Begriff der Innovation umfasst nicht nur Produkte, sondern beispielsweise auch neue Prozesse oder Dienstleistungen sowie deren erfolgreiche Kommerzialisierung am Markt.[^2]
 
-Umgesetzt werden solche Innovationen in einem Unternehmen häufig im Rahmen eines [Projekts](Projekt.md), welches neu sein muss, innerhalb eines vorgegebenen zeitlichen Rahmens (siehe [Zeitplanung](Zeitplanung.md)) durchgeführt werden und eine eindeutig definierte Absicht verfolgen muss. Insbesondere die [Projektsteuerung](Projektsteuerung.md) bei Innovationsprojekten stellt eine Herausforderung dar. Da sich in der Regel in Bezug auf Zeit, Qualität und Kosten verschiedene Zielsetzungen herauskristallisieren, kann dies folglich zu [Zielkonflikten](Zielkonflikte.md) führen.[^3]
+Die Umsetzung von Innovationen in einem Unternehmen erfolgt im Rahmen eines neuen [Projekts](Projekt.md), dem Innovationsprojekt, welches eine eindeutig definierte Absicht innerhalb eines vorgegebenen zeitlichen Rahmens (siehe [Zeitplanung](Zeitplanung.md)) verfolgt. Insbesondere die [Projektsteuerung](Projektsteuerung.md) bei Innovationsprojekten stellt eine Herausforderung dar, da unter anderem unterschiedliche Zielsetzungen hinsichtlich Zeit, Qualität und Kosten häufig zu [Zielkonflikten](Zielkonflikte.md) führen.[^3]
 
 <img src="Innovationsprojekte/magischesdreieck.jpg" alt="Magisches Dreieck" width="350"/>
 
 *[Magisches Dreieck](Magisches_Dreieck.md)*
 
 # 2.	Innovationsprojekte
+
 Um den Erfolg eines Innovationsprojekts gewährleisten zu können, müssen einige Aspekte berücksichtigt werden.
 
 ## 2.1	Eigenschaften
 
 Innovationsprojekte erfüllen für gewöhnlich vier grundlegende Eigenschaften:
-1. Die erste und wichtigste Eigenschaft ist dabei der *Neuheitsgrad*. Das Ergebnis des Projekts bringt einen bisher unbekannten Nutzen mit sich.[^3]
-2. Dadurch entsteht auch immer ein bestimmtes Maß an *Unsicherheit*. Bei Projekten, die stärker von Routineaufgaben des Unternehmens abweichen, entsteht unweigerlich eine finanzielle sowie operative Unsicherheit.[^3]
-3. Das dritte Charakteristikum ist die *Komplexität*, die eng mit der Unsicherheit und der Neuheit verknüpft ist. Aufgrund der unsicheren Abläufe wegen des hohen Neuheitsgrades kommt es zu einem höheren und somit weitaus komplexeren Organisationsumfang.[^3]
-4. Die letzte Eigenschaft bildet das *Konfliktpotential*, welches auf verschiedenen Ebenen auftreten kann. Es kann sowohl zu Konflikten innerhalb des Projektteams (siehe [Konfliktmanagement](Konfliktmanagement.md)) als auch zu Zielkonflikten bezüglich vorher festgelegter Zielvorgaben kommen.[^3]
+1. Die erste und wichtigste Eigenschaft ist dabei der ***Neuheitsgrad***. Das Ergebnis des Projekts bringt einen bisher unbekannten Nutzen mit sich.[^3]
+2. Dadurch entsteht auch immer ein bestimmtes Maß an ***Unsicherheit***. Bei Projekten, die stärker von Routineaufgaben des Unternehmens abweichen, entsteht unweigerlich eine finanzielle sowie operative Unsicherheit.[^3]
+3. Das dritte Charakteristikum ist die ***Komplexität***, die eng mit der Unsicherheit und der Neuheit verknüpft ist. Aufgrund der unsicheren Abläufe wegen des hohen Neuheitsgrades kommt es zu einem höheren und somit weitaus komplexeren Organisationsumfang.[^3]
+4. Die letzte Eigenschaft bildet das ***Konfliktpotential***, welches auf verschiedenen Ebenen auftreten kann. Es kann sowohl zu Konflikten innerhalb des Projektteams (siehe [Konfliktmanagement](Konfliktmanagement.md)) als auch zu Zielkonflikten bezüglich vorher festgelegter Zielvorgaben kommen.[^3]
 
 ## 2.2	Arten
 
@@ -39,12 +40,12 @@ Je nach Neuheitsgrad des Marktes und der Technologie lassen sich vier verschiede
 
 ## 2.3	Projektträger
 
-Durchgeführt werden alle Formen der Innovationsprojekte durch ein bereichsübergreifendes Projektteam, welches sich aus Experten von verschiedenen Standorten zusammensetzt. Dieses Projektteam integriert aber unter anderem auch Kunden oder Lieferanten, die das Innovationsprojekt mit Informationen aus den vor- oder nachgelagerten Wertschöpfungsstufen unterstützen.[^3]
+Durchgeführt werden alle Formen der Innovationsprojekte durch ein bereichsübergreifendes Projektteam, welches sich aus Experten unterschiedlicher Abteilungen zusammensetzt. Dieses Projektteam integriert unter anderem auch Kunden oder Lieferanten, die das Innovationsprojekt mit Informationen aus den vor- oder nachgelagerten Wertschöpfungsstufen unterstützen.[^3]
 
 ## 2.4	Projektphasen
 
 Ein Innovationsprojekt lässt sich in zwei große Phasen unterteilen, die ebenso Teil des [Innovationsprozesses](https://wirtschaftslexikon.gabler.de/definition/innovationsprozess-41599) sind.[^3]
-Die erste Phase ist dabei die Forschung und Entwicklung, durch welche in erster Linie die innovative Idee umgesetzt wird und folglich eine Invention entsteht.[^3]
+Die erste Phase umfasst die Forschung und Entwicklung, welche durch die Umsetzung einer innovativen Idee in einer Invention resultiert.[^3]
 Diese Invention wird dann in der zweiten Phase, der erfolgreichen Markteinführung, zu einer Innovation.[^3]
 
 ## 2.5	Projektmanagement
@@ -54,7 +55,7 @@ Bei mehrjährigen Projekten hilft es, eine [Meilensteintrendanalyse](Meilenstein
 
 ## 2.6	Erfolgsfaktoren
 
-Um den [Erfolg eines Innovationsprojekts zu messen](Erfolgsmessung.md), werden die Faktoren Zeit, Qualität und Kosten herangezogen. Dabei werden die Soll-Werte mit den Ist-Werten verglichen und infolgedessen die mittlere negative Abweichung berechnet. Sowohl negative als auch positive Abweichungen können sich negativ auf den Projekterfolg auswirken. Weicht man zu stark von Qualitätsanforderungen, Meilensteinterminen oder geplantem Kostenbudget ab, verursacht das üblicherweise hohe Kosten. Werden die Planwerte eingehalten, so führt das zu einer erfolgreichen Umsetzung eines Innovationsprojekts.[^5]
+Um den [Erfolg eines Innovationsprojekts zu messen](Erfolgsmessung.md), werden die Faktoren Zeit, Qualität und Kosten herangezogen. Dabei werden die Soll-Werte mit den Ist-Werten verglichen und infolgedessen die mittlere negative Abweichung berechnet. Sowohl negative als auch positive Abweichungen können sich negativ auf den Projekterfolg auswirken. Eine zu starke Abweichung von Qualitätsanforderungen, Meilensteinterminen oder geplantem Kostenbudget verursacht üblicherweise hohe Kosten. Werden die Planwerte eingehalten, ist die erfolgreichen Umsetzung eines Innovationsprojekts sichergestellt.[^5]
 
 
 
