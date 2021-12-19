@@ -24,7 +24,8 @@ Der Projektabschlussbericht gibt Aufschluss über:
 Diese Schlüsselerkenntnisse werden anhand diverser Aspekte und [Methoden](Methoden.md) beleuchtet, was letzten Endes Aufschluss über die Qualität und Zielgenauigkeit des 
 Projektes gibt.
 Ziel dieses 
-Vorgehens ist es, die einzelnen Handlungsschritte zu reflektieren und die passenden Schlüsse daraus zu ziehen. Dies kann sowohl positiv, als auch negativ ausfallen. 
+Vorgehens ist es, die einzelnen Handlungsschritte zu reflektieren und die passenden Schlüsse daraus zu ziehen. Dies kann einerseits positiv, andererseits negativ 
+ausfallen. 
 Dafür stellt sich stets die Frage: *Was ist gut gelaufen und womit waren unsere Kunden zufrieden? Aber auch: Wo besteht dringend Handlungsbedarf?*  
   Er beschreibt also das **Gesamtergebnis**, sowie die **Entwicklung eines Projektes** und trägt besonders dazu bei **Erfahrungen für künftige Vorhaben** zu sichern. 
 Zusätzlich analysiert das Team die Stärken und Schwächen in der Projektarbeit. Deshalb sollten sie für deren Feedback am Ende der Fertigstellung noch einmal zusammenkommen und sind anschließend daran aus dem Projekt entlassen[^2].
@@ -40,7 +41,7 @@ sogar als unumgängliche Voraussetzung das Projekt offiziell zu beenden[^3].
 
 ## Hard Facts und Soft Facts
 
-Die Kriterien, anhand dessen der Abschlussbericht gemessen wird, kann in zwei Bereiche gegliedert werden[^2]. Im Folgenden sind einige Beispiele aufgeführt:
+Die Kriterien, anhand dessen der Projektabschlussbericht gemessen wird, kann in zwei Bereiche gegliedert werden[^2]. Im Folgenden sind einige Beispiele aufgeführt:
 
 ### Hard Facts
 
