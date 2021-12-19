@@ -15,7 +15,7 @@ Ein bekanntes, greifbares Beispiel für ein Open-Source-Konzept stellt die Platt
 
 ## Geschichte und Definition 
 
-„Open Source“ wurde ursprünglich von der Open Source Initiative (OSI) 1998 ins Leben gerufen. Demnach dürfen Entwickler Software nur unter der Open-Source-Zertifizierung bereitstellen, solange diese auch mit den Open-Source-Definition der OSI konform ist. Diese können wie folgt zusammengefasst werden:
+"Open Source“ wurde ursprünglich von der Open Source Initiative (OSI) 1998 ins Leben gerufen. Demnach dürfen Entwickler Software nur unter der Open-Source-Zertifizierung bereitstellen, solange diese auch mit den Open-Source-Definition der OSI konform ist. Diese können wie folgt zusammengefasst werden:
 
 1. Die Software muss ohne Einschränkungen weitergegeben werden dürfen und dabei keine Lizenzgebühr verlangen
 2. Der Quell-Code muss für alle Nutzer öffentlich verfügbar sein
