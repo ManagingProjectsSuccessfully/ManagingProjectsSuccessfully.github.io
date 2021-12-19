@@ -5,10 +5,7 @@ author: enesmvlt
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Projektmanagement_Branchenspezifisch um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Projektmanagement in verschiedenenen Branchen....
 
 # Projekt
 Ein [Projekt](Projekt.md) beschreibt laut dem Project Management Institute (PMI) ein Vorhaben, welches zeitlich begrenzt ist und einen im Vorhinein definierten Anfang und ein Ende hat[^1]. Darüber hinaus beinhaltet auch jedes Projekt verschiedene Aufgaben in mehreren Teilbereichen, welche allerdings zur Erreichung eines gemeinsamen Ziels dienen. Das Deutsche Institut für Normung (DIN) definiert das zu erreichende Ziel als ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis[^2].
@@ -40,7 +37,7 @@ Durch die stärkere Integration der oben genannten branchenspezifischen Faktoren
 # Branchenspezifische Anforderungen
 Jede Branche hat verschiedene Grade an Unsicherheit und Komplexität der Projekte. Im Vordergrund bei der Wahl der passenden Methode für das Projektmanagement steht vor allem die Frage, wie kompliziert oder wie komplex ein angestrebtes Projekt ist[^5].
 
-![Die Zwei Arten von Projekten](https://github.com/enesmvlt/ManagingProjectsSuccessfully.github.io/blob/e18366d0502d297a64de1ab66437e6465c830b70/kb/Projektmanagement_Branchenspezifisch/Bildschirmfoto%202021-11-24%20um%2019.15.43.png)
+![Die Zwei Arten von Projekten](Projektmanagement_Branchenspezifisch/bild1.png) 
 
 So ist bei einem komplizierten Projektvorhaben, welches von einem stabilen Umfeld umgeben ist, eher das klassische Projektmanagement anzuwenden. Bei komplexen Projekten mit dynamischem Umfeld ist das agile Projektmanagement besser geeignet. Bei komplizierten Projekten ist dann die Rede, wenn potenziell unbekannte Probleme in einem Projektprozess mit passenden Aneignungen gelöst werden können[^5]. Des Weiteren ist bei komplizierten Projekten, wie bspw. in der [Baubranche](Bauprojekte.md) aufgrund des relativ stabilen Umfelds eine viel höhere Planbarkeit und Steuerbarkeit vorhanden[^5]. Bei komplexen Projekten wie bspw. in der [IT-Branche](IT-Projekte.md), stellt das agile Projektmanagement sicher, dass sich der Projektplan laufend an die sich ändernden Faktoren und Anforderungskriterien anpassen kann und immer aktuell bleibt[^5]. Schließlich kann man die Aussage treffen, dass bei der Wahl der geeigneten Methode die branchenspezifischen Faktoren maßgeblich sind.
 
