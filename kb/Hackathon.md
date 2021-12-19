@@ -98,7 +98,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 [^4]: [Hackathon – Hier entstehen Innovationen](https://digitaleneuordnung.de/blog/hackathon/)
 [^5]: [Was ist ein Hackathon?](https://www.dev-insider.de/was-ist-ein-hackathon-a-810665/)
 [^6]: [Was ist eigentlich ein Hackathon? - Beispiel Rheinland Pfalz](https://www.vgsd.de/hackathon-ideen-fuer-die-zukunft-der-wirtschaft-in-rheinland-pfalz-gesucht/)
-[^7]: [Schroll W. (2017) Kollaborative Innovationsprozesse – Hackathons in Theorie und Praxis. In: Knoll T. (eds) Veranstaltungen 4.0. Springer Gabler, Wiesbaden.](https://doi.org/10.1007/978-3-658-16223-8_6) (S. ,S. )
+[^7]: [Schroll W. (2017) Kollaborative Innovationsprozesse – Hackathons in Theorie und Praxis. In: Knoll T. (eds) Veranstaltungen 4.0. Springer Gabler, Wiesbaden.](https://doi.org/10.1007/978-3-658-16223-8_6)
 [^8]: [Kohne A., Wehmeier V. (2019) Grundlagen. In: Hackathons. Springer Vieweg, Wiesbaden.](https://doi.org/10.1007/978-3-658-26028-6_2)
 [^9]: [Hackbay goes 2019](https://twitter.com/zollhofhq/status/1111549947890012161)
 [^10]: [Lösungen hacken in der Coronakrise](https://www.dw.com/de/lösungen-hacken-in-der-coronakrise/a-53295894)
