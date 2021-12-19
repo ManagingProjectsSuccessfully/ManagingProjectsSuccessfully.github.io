@@ -76,4 +76,11 @@ Und so fängt der Sprint an.
 + [Retrospektive](Retrospective.md)
  
 # Quellen
-[^1]: [Sprint Planing| Projektmagzin](https://www.projektmagazin.de/methoden/sprint-planning)  [^2]: [Die Events in SCRUM](https://www.agile-heroes.de/magazine/scrum-events)  [^3]: [Die fünf formellen Scrum Events im Projektmanagement](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)  [^4]: [Timeboxing](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)  [^5]: [Sprint-Planungsmeeting](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)  [^6]: [Sprint-Planung](https://www.atlassian.com/de/agile/scrum/sprint-planning)  [^7]: [Product Backlog](https://www.projektmagazin.de/glossarterm/product-backlog)  [^8]: [Sprint Backlog](https://www.projektmagazin.de/glossarterm/sprint-backlog)
+[^1]: [Sprint Planing| Projektmagzin](https://www.projektmagazin.de/methoden/sprint-planning)
+[^2]: [Die Events in SCRUM](https://www.agile-heroes.de/magazine/scrum-events)  
+[^3]: [Die fünf formellen Scrum Events im Projektmanagement](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)  
+[^4]: [Timeboxing ](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)
+[^5]: [Sprint-Planungsmeeting ](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)  
+[^6]: [Sprint-Planung ](https://www.atlassian.com/de/agile/scrum/sprint-planning)  
+[^7]: [Product Backlog ](https://www.projektmagazin.de/glossarterm/product-backlog)  
+[^8]: [Sprint Backlog ](https://www.projektmagazin.de/glossarterm/sprint-backlog)
