@@ -1,6 +1,6 @@
 ---
 title: Scrum_Guide
-tags: agil
+tags: agil Scrum 
 author: MrSommC
 anrechnung: a
 ---
