@@ -21,7 +21,7 @@ Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer proze
 | ------------- | ------------- | 
 | Introduction  | Project Performance Domains  |
 | System for Value Delivery  | Tailoring |
-| Projecet Management Principles | Models, Methods, Artifacts
+| Project Management Principles | Models, Methods, Artifacts
 
 _Die Themenbereiche der aktuellen Edition_ [^6]
 
