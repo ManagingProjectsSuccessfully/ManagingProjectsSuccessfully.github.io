@@ -61,6 +61,7 @@ ClickUp wirbt ihre App mit dem Spruch: „One App to replace them all“. Erneut
 werden. Ob als Tabellenkalkulation, [Kanban Board](Kanban_Board.md) oder auch als Projektmanagement-App wie [Microsoft Project](Microsoft_Project_PM_Tool.md), die
 App ermöglicht verschiedene Anwendungsmöglichkeiten.[^6]
 
+![ClickUp_APP](ClickUp_PM_Tool/ClickUp_APP.png)
 
 ## Erleichterte Datenübernahme
 
