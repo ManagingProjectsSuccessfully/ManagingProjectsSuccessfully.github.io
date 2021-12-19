@@ -1,38 +1,29 @@
 ---
 title: Pareto_Prinzip
-tags: agil klassisch
+tags: agil klassisch Projektmanagement Zeitersparnis 80/20-Regel
 author: nahihiry
 anrechnung: k 
 ---
 
 # Das Pareto-Prinzip
 
-Das Pareto Prinzip hat ein großes Ziel: Man möchte mit einem minimalen Aufwand ein halbwegs vollständiges Ergebnis erzielen.
+Das Pareto Prinzip besagt, dass man ein halbwegs vollständig Ergebnis mit einem minimalen Aufwand erzielen kann, wenn man sich von Anfang an auf die grundlegenden Dinge fokussiert und sich nicht in Details verrennt.
 
 ## Inhaltsverzeichnis
-1. Bedeutung des Pareto-Prinzips
-2. Ursprung des Pareto-Prinzips 
+1. Ursprung des Pareto-Prinzips 
+2. Bedeutung des Pareto-Prinzips
 3. Zeitmanagement
    1. Zeitersparnis durch die Anwendung des Pareto-Prinzips
    2. Vergleich der Zeitersparnis mit der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
-4. Quellen
 
 
-### 1. Bedeutung des Pareto-Prinzips:
 
-Das Pareto-Prinzip wird gerne auch als "80/20-Prinzip" bezeichnet. Bei den zwei gegebenen Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand sowie das letzliche Endergebnis darstellen sollen. Mit einem Aufwand von etwa 20 Prozent kann demnach ein Endergebnis erzielt werden, das zu 80 % vollständig ist.[^1]
+### 1. Ursprung des Pareto-Prinzips:
 
-Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen kann.[^2] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient ist, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann.
+Die Einkommensschere ist bereits seit Jahrhunderten von großer gesellschaftlicher Bedeutung - insbesondere in der Politik. Es wird häufig betont, dass die Armen immer ärmer und die Reichen immer reicher werden. Die Diskrepanz zwischen Arm und Reich scheint tatsächlich immer größer zu werden und durch die Coronavirus-Krise hat sich die Gesamtsituation noch weiter zugespitzt.[^3]
 
-
-### 2. Ursprung des Pareto-Prinzips:
-
-Die Einkommensschere ist schon seit Jahrhunderten von großer Bedeutung - insbesondere in der Politik. Es wird häufig betont, dass die Armen immer ärmer und die Reichen immer reicher werden. Die Diskrepanz zwischen Arm und Reich scheint immer größer zu werden und durch die Coronavirus-Krise hat sich die Gesamtsituation noch weiter zugespitzt.[^3]
-
-Vilfredo Pareto war ein italienischer Ökonom und hat bereits im 19. Jahrhundert die Unterschiede im Vermögen der Population analysiert.
-Das Ergebnis seiner Analyse war, dass 80% des Gesamtvermögens im Besitz von nur 20% der Bevölkerung sei.
-Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilung des Vermögens zutrifft. In vielen Situation ist seine 80/20-Regel genauso passend.[^4]
-
+Vilfredo Pareto war ein italienischer Ökonom, welcher bereits im 19. Jahrhundert die Unterschiede im Vermögen der Population analysiert hat. Das Ergebnis seiner Analyse war, dass etwa 80% des Gesamtvermögens im Besitz von nur 20% der Bevölkerung sei. Die Ungleichverteilung des Vermögens war somit enorm, wenn man die zwei genannten Prozentzahlen in Betracht zieht. 
+Es stellte sich jedoch ebenso heraus, dass die eben genannte Aufteilung nicht nur auf die Verteilung des Vermögens zutrifft. In vielen Lebenssituation ist Vilfredo Paretos 80/20-Regel genauso übereinstimmend.[^4] 
 
 #### Beispielhafte Situationen, in denen die 80/20-Regel zutrifft:[^2]
 
@@ -43,10 +34,17 @@ Es stellte sich heraus, dass diese Aufteilung jedoch nicht nur auf die Verteilun
 |  Mitarbeiter  |   Fehltage    |
 
 
+### 2. Bedeutung des Pareto-Prinzips:
+
+Das Pareto-Prinzip wird aufgrund des zuvor erklärten Ursprungs auch gerne auch als "80/20-Prinzip" bezeichnet. Bei den zwei gegebenen Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand sowie das letzliche Endergebnis darstellen sollen. Mit einem Aufwand von etwa 20 Prozent kann demnach ein Endergebnis erzielt werden, das zu circa 80 % vollständig ist.[^1]
+
+Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen können.[^2] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient für das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md) sein kann, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann. Das Pareto-Prinzip ist dem klassischen [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md) zuzuordnen. Um das Prinzip in diesem Bereich auch richtig im Projektmanagemtn anzuwenden, ist es wichtig, dass sich, zum Beispiel vor eine Projektbesprechung, alle beteiligten Personen einig sind, sich ausschließlich mit der Klärung fundamentaler Dinge zu beschäftigen. Sei dies nciht der Fall, können bereits Kleinigkeiten den Zeitrahmen stark übersschreiten. [^10]
+
+
 ### 3. Zeitmanagement 
 #### 3.i. Zeitersparnis durch die Anwendung des Pareto-Prinzips:
 
-Aus den oben genannten Gründen ist im Bereich des Zeitmanagements des Öfteren vom Pareto-Prinzip die Rede. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches bereits die wichtigsten Bedingungen erfüllt.[^5]
+Aus den oben genannten Aspekt lässt sich leicht vermuten, dass auch im Bereich des Zeitmanagements des Öfteren vom Pareto-Prinzip die Rede ist. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches bereits die wichtigsten Bedingungen erfüllt.[^5]
 Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf genau diese Aspekte beschränkt, wird also bereits ein großer Teil der Dinge erreicht, die man erzielen will. Der Aufwand, der in dem steckt, das nur 20% des Ergebnisses erfüllt, liegt also bei 80% und ist schlussfolgernd viel zeitintensiver. 
 
 Dies wird auch in der folgenden Abbildung sichtbar:[^6]
@@ -62,6 +60,13 @@ Bei der Anwendung des Pareto Prinzips trennt man sich somit bestenfalls gleichze
 
 Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik hat man auch das Ziel in möglichst kurzer Zeit viel zu erreichen. Die Zeit, in der man arbeitet sowie die Zeit der Pausen, wird hier zwar lediglich eingeteilt, aber durch die Zeiteinteilung steigert sich auch hier die Produktivität. Man versucht sich nicht ablenken zu lassen und vermeidet Zeitfresser, um, wie beim Pareto- Prinzip, in kurzer Zeit möglichst vieles zu schaffen.[^9]
 
+### Siehe auch
+
+* [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)
+
+
+
 
 ### 4. Quellen:
 [^1]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
@@ -73,4 +78,4 @@ Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProje
 [^7]: https://www.gruenderlexikon.de/checkliste/fuehren/zeitmanagement/pareto-prinzip/
 [^8]: https://www.flowfinder.de/pareto-prinzip/
 [^9]: https://www.selbst-management.biz/pomodoro-technik/
-
+[^10]: https://www.braintool.com/blog/pareto-prinzip-projektmanagement/
