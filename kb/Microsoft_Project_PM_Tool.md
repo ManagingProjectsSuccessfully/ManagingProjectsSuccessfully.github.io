@@ -177,8 +177,8 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 * [Projektsteuerung](Projektsteuerung.md)
 * [Projektstart](Projektstart.md)
 * [Meilensteine](Meilensteine.md)
-* [Datenmanagement im Projektmanagement](Datenmanagement_im_PM)
-* [Gantt-Diagramme](Gantt-Diagramme)
+* [Datenmanagement im Projektmanagement](Datenmanagement_im_PM.md)
+* [Gantt-Diagramme](Gantt_Diagramme.md)
 
 # Weiterführende Literatur
 
