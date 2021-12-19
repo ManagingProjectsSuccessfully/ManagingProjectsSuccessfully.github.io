@@ -46,7 +46,7 @@ Kommunikation zu Verwirrung führt.[^8]
 # Vorteile eines erfolgreichen Wissenstransfers
 
 Der Austausch und die Weitergabe von Wissen in einem Unternehmen sind essenziell für den schnellen und erfolgreichen Abschluss von Projekten. Neben den 
-klassischen Team-Meetings, können auch bei spontanen Treffen zweier oder mehrere Mitarbeiter wichtige Informationen 
+klassischen Team-Meetings können auch bei spontanen Treffen zweier oder mehrerer Mitarbeiter wichtige Informationen 
 ausgetauscht werden.[^9] 
 
 Ein strukturierter Wissenstransfer sorgt für einen gesunden Wissensfluss im Unternehmen. Dieser erhöht die Innovativität, verkürzt Projektlaufzeiten, 
