@@ -9,50 +9,22 @@ anrechnung: k
 
 ![ClickUp_Logo](ClickUp_PM_Tool/logo.png)
 
-# Aufbau von ClickUp
+# Das Tool
 
-## Anmeldung
+ClickUp verbindet eine große Vielfalt an Features mit einer dennoch sehr übersichtlichen Gestaltung der Anwendung. 
+Dem User werden alle Dateien und Aufgaben (Hier: „Tasks“) direkt auf dem eigenen Homescreen angezeigt. Durch die Möglichkeit Tasks und Dateien mit anderen zu
+teilen, können Unternehmen anstehende Arbeit auf ihre Mitarbeiter verteilen. Hierbei erhält jede Person, die auf sich zugeteilte Arbeit. Eines der wichtigsten
+Features ist hier der Unterpunkt „Spaces“. Hier hat man die Möglichkeit Teams aufzuteilen in die jeweiligen Zuständigkeitsbereiche, wie beispielsweise Marketing,
+Software-Entwicklung, etc.[^1] Spaces lassen sich ebenfalls noch unterteilen in „Ordner“ und „Lists“, um für mehr Ordnung zu schaffen. Lists enthalten die eigentlichen Aufgaben, die dann noch aufgrund ihrer Priorität gekennzeichnet werden können. 
 
-Die Anmeldung ist einfach, sobald Email und Passwort eingetragen sind kann die Arbeit beginnen. 
-Zuerst erhält man die Möglichkeit sich Videos anzusehen, die kurz wiedergeben wie ClickUp aufgebaut ist und kompakt erklären welche Features es gibt. 
-Das Angebot durch ClickUp ist jedoch weitaus größer als in den Videos beschrieben.
+Weitere Funktionen, auf die ein großer Wert gelegt wird, sind Dashboards und Docs. Dashboard bietet die Möglichkeit eine Timeline zu erstellen, die verschiedene
+Werte, Daten, Videos oder auch einen Chat mit Teammitgliedern anzeigt. Hier sind die Möglichkeiten zur Ausgestaltung wieder zahlreich. Docs ist vergleichbar mit der
+Anwendung DropBox. Hier können alle möglichen Arten von Dateien oder Fotos geteilt werden. Bei allen Funktionen kann eingestellt werden welche Personen Zugriff oder
+Einsicht haben auf diesen Inhalt.[^1] 
 
-## Homepage
+Bei allen Features und Möglichkeiten wird am meisten Wert auf die Kommunikation gelegt. Ob es ein direkter Chat ist oder die Kommentarfunktion bei Tasks, das Team
+soll gemeinsam Ziele erreichen. 
 
-Die Homepage wurde simpel gehalten. Dem User sollen die wichtigsten Aufgaben, die Heute anstehen, gezeigt werden. Es werden Aufgaben angezeigt, die Erledigt werden
-müssen, mit der jeweiligen Priorität der Aufgaben. 
-Ebenfalls werden dem User Kommentare angezeigt, die von anderen Teammitgliedern verfasst wurden zur eigenen Arbeit. 
-Die wichtigste Funktion auf der Homepage ist der Kalender, der dem User ermöglicht allerlei Tasks in der Zukunft zu managen, verschieben oder zu bearbeiten.
-
-Die links eingeblendete Sidebar zeigt, die weiteren Unterfunktionen wie Notifications (Benachrichtigungen) und Goals (Ziele, die individuell
-erstellt werden können). Weitere Funktionen in der Sidebar werden in den unteren Paragrafen erklärt.
-
-## Favorites
-
-Bei dem Unterpunkt Favorites handelt es sich um die einfache Möglichkeit Odner, Tasks, Dokumente, etc. anzuheften um auf sie schnell zugreifen zu können.
-
-## Spaces 
-
-Spaces stehen an der zweiten Stelle der Aufbau-Hierarchie. Hier kann die Arbeit oder das Team in mehrere Kategorien oder Zuständigkeitsbereich aufgeteilt werden[^3]. Die Eröffnung eines Spaces ist mit wenigen Klicks erledigt. Eingestellt werden kann ebenfalls, wer den Space bearbeiten, nur Einsicht oder gar nicht Zugriff haben darf. Sobald ein Space erstellt wurde, gibt es die Möglichkeit wie Tasks angezeigt werden. Hier sind verschiedenste Ansichten wählbar. In Form einer Liste, einem
-Aufgabenboard, einer Tabelle oder auf einer Map können Tasks gezeigt werden. 
-Weitere Möglichkeiten wie eine Mindmap und einige weitere Features gibt es ebenfalls. 
-
-Spaces können aber noch in Ordner und Lists unterteilt werden. Tasks jedoch werden nicht direkt in Spaces erstellt, sondern in der Unterkategorie Lists, die im nächsten Absatz erklärt werden.
-
-### Lists
-
-Lists unterteilen die Aufgabenfelder so, dass hier dann Tasks eingefügt werden können. Ein Space kann mehrere Lists enthalten. 
-Lists bieten ebenfalls die Möglichkeit Aufgaben zu unterteilen nach ihrer Priorität und Fälligkeit. Diese können dann individuell benannt werden. Standardmäßig wird in To-Do, In-Progress und Complete unterteilt[^3].
-
-### Tasks
-
-Tasks sind so gestaltet, dass sie einen Namen haben eine Box haben, in der ihr grundlegende Idee erklärt wird und in welcher Bearbeitungsstufe sie sich befindet.
-Ebenfalls wird hier rechts eine Chatfunktion eingeblendet, wo Teammitglieder sich miteinander austauschen können[^3].
-
-## Dashboards
-
-Dashboards bieten viele Möglichkeiten eine Timeline wie auf Social Media zu erstellen mit Widgets wie Excel-Tabellen, YouTube-Videos, Chatfunktion und viele
-weitere Funktionen. Hier kann wieder eingestellt werden wer Zugriff haben darf auf das eigene Dashboard. 
 
 # Einstieg in ClickUP
 ## App 
