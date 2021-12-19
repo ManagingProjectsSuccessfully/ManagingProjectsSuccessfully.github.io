@@ -85,6 +85,7 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften u.v.m
 * [Ressourcenplan](Ressourcenplanung.md)
 * [Projektplanung](Projektplanung.md)
 * [Projekt](Projekt.md)
+* [Das magische Dreieck im Projektmanagement](Magisches_Dreieck.md)
 # Weiterführende Literatur
 
 * Basics
