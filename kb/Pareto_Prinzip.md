@@ -7,12 +7,13 @@ anrechnung: k
 
 # Das Pareto-Prinzip
 
-Das Pareto Prinzip besagt, dass bereits mit einem minimalen Aufwand ein halbwegs vollständig Ergebnis einer Aufgabe erzielbar ist. Dies funktioniert, in dem der Fokus bereits zu Beginn der Bearbeitung auf grundlegende Dinge gesetzt wird, sodass vermieden wird sich in Details zu verrennen,  die sich letzten Endes als Zeiträuber entlarven.
+Das Pareto Prinzip besagt, dass bereits mit einem minimalen Aufwand ein halbwegs vollständig Ergebnis einer Aufgabe erzielbar ist. Dies funktioniert, in dem der Fokus, bereits zu Beginn der Bearbeitung einer Aufgabe, auf grundlegende Dinge gelegt wird, sodass vermieden wird sich in Details zu verrennen, die sich letzten Endes als Zeiträuber entlarven.
 
 ## Inhaltsverzeichnis
 1. Ursprung des Pareto-Prinzips 
 2. Bedeutung des Pareto-Prinzips
-3. Zeitmanagement
+3. Statistische Darstellung der Pareto-Verteilung
+4. Zeitmanagement
    1. Zeitersparnis durch die Anwendung des Pareto-Prinzips
    2. Vergleich der Zeitersparnis mit der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
 
@@ -40,7 +41,7 @@ Das Pareto-Prinzip wird aufgrund des zuvor erklärten Ursprungs auch gerne auch 
 Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen können.[^2] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient für das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md) sein kann, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann. Das Pareto-Prinzip ist dem klassischen [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md) zuzuordnen. Um das Prinzip in diesem Bereich auch richtig im Projektmanagemtn anzuwenden, ist es wichtig, dass sich, zum Beispiel vor eine Projektbesprechung, alle beteiligten Personen einig sind, sich ausschließlich mit der Klärung fundamentaler Dinge zu beschäftigen. Sei dies nciht der Fall, können bereits Kleinigkeiten den Zeitrahmen stark übersschreiten. [^10]
 
 
-### Statistische Darstellung der Pareto-Verteilung
+### 3. Statistische Darstellung der Pareto-Verteilung
 
 Die Pareto-Verteilung zeichnet sich dadurch aus, dass sie auf der rechten Seite ins Unendliche verläuft. Zudem handelt es sich bei der Verteilung um positive Werte, die sich über verschiedene Dimensionen entlangziehen. Dies erklärt auch weshalb die Verteilung nach recht hin ins positiv verläuft.[^11]
 
@@ -51,8 +52,8 @@ Die folgende [Abbildung](https://de.wikipedia.org/wiki/Pareto-Verteilung) zeigt 
 Die Grafik zeigt die Anzahl der Einwohner in deutschen Städten auf. Man erkennt klar, dass bereits in sehr wenige Städte alleine ein sehr großer Teil der Gesamtbevölkerung lebt. Es gibt dementsprechend sehr viele kleinerer Städte mit nur sehr wenigen Einwohnern.[^11]
 
 
-### 3. Zeitmanagement 
-#### 3.i. Zeitersparnis durch die Anwendung des Pareto-Prinzips:
+### 4. Zeitmanagement 
+#### 4.i. Zeitersparnis durch die Anwendung des Pareto-Prinzips:
 
 Aus den oben genannten Aspekt lässt sich leicht vermuten, dass auch im Bereich des Zeitmanagements des Öfteren vom Pareto-Prinzip die Rede ist. Mit einem minimalen Zeitaufwand kann ein Ergebnis erzielt, welches bereits die wichtigsten Bedingungen erfüllt.[^5]
 Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf genau diese Aspekte beschränkt, wird also bereits ein großer Teil der Dinge erreicht, die man erzielen will. Der Aufwand, der in dem steckt, das nur 20% des Ergebnisses erfüllt, liegt also bei 80% und ist schlussfolgernd viel zeitintensiver. 
@@ -62,7 +63,7 @@ Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des P
 Bei der Anwendung des Pareto Prinzips trennt man sich somit bestenfalls gleichzeitig von seinem Perfektionismus, da dieser in den meisten Fällen nicht von Nöten ist. Auf diese Weise spart man sich nicht nur Nerven, sondern generiert gleichzeit auch mehr Zeit, um die Kernaufgaben besonders gut erledigen zu können. Insbesondere wenn man eine große Anzahl auf Aufgaben zu erledigen hat eignet sich das Pareto Prinzip, da man mithilfe dieses Prinzips alle Aufgaben bereits fast vollständig abarbeitet und nicht nur wenige Aufgaben "perfekt", also zu 100%, ausarbeitet.[^8]
 
 
-#### 3.ii. Vergleich der Zeitersparnis zu der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
+#### 4.ii. Vergleich der Zeitersparnis zu der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
 
 Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik hat man auch das Ziel in möglichst kurzer Zeit viel zu erreichen. Die Zeit, in der man arbeitet sowie die Zeit der Pausen, wird hier zwar lediglich eingeteilt, aber durch die Zeiteinteilung steigert sich auch hier die Produktivität. Man versucht sich nicht ablenken zu lassen und vermeidet Zeitfresser, um, wie beim Pareto- Prinzip, in kurzer Zeit möglichst vieles zu schaffen.[^9]
 
