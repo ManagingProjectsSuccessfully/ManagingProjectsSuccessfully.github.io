@@ -11,14 +11,6 @@ Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen
 Aufgrund der Komplexität des Projektmanagements können sogenannte ,,Projektmanagement-Stolpersteine“ während des Prozesses auftreten. Auch wenn zu Beginn eines Projekts Optimismus herrscht, dass diesmal alles glatt laufen wird, kann man währenddessen überrascht werden, dass alles doch nicht nach Plan läuft.[^2]
 Im Folgenden werden die typischen Fallstricke des Projektmanagement dargestellt. Des Weiteren wird aufgezeigt wie man diese vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu erhöhen.
 
-<p align="center">
-  <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Typische_Projektmanagement_Fallstricke/Screenshot%20(127).png"/>
-</p>
-
-<p align="center">
- Bild.1: Mehrere Wege um Fallstricken zu vermeiden
-</p>
-
 
 # 1.Das Fehlen eines konkreten Projektplans und somit eines Ziels
 
@@ -42,6 +34,13 @@ Die schlechte Kommunikation ist ein anderer Faktor, der den Erfolg eines Projekt
 Einen großen Fallstrick stellen die unrealistische Ziele dar. Dazu gehören zum Beispiel zu früh gesetzte Deadlines, die kaum erreichbar sind, oder falsch eingeschätzte Budgets. Solche Fehler können nicht nur schädlich für den Erfolg des Unternehmens sein, sondern auch für die Moral und das Vertrauen der Team-Mitglieder[^1].
 ## Lösung:
 Man muss realistisch die Situation betrachten und alles in Abhängigkeit der Ressourcen, der Arbeitskräfte, dem Budget und der Fristen entscheiden[^1]. Man sollte sich fragen, was von dem Team zu erwarten ist und ob das physisch möglich ist oder ob die Zeitpläne der Planungsphase mit den vorgeschlagenen Fristen und dem vorhandenen Budget übereinstimmen (siehe [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)).
+
+
+
+  <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Typische_Projektmanagement_Fallstricke/Dreieck3.jpg"/>
+
+ Bild.1: *Das ,,magische Dreieck" des Projektmanagements*[^5]
+
 
 
 # 4. Fehlende Aufteilung von Projekten in kleinere Aufgaben
@@ -79,5 +78,5 @@ Zusammenfassend lässt sich sagen, dass mit einem klar definierten Ziel, einer r
 [^2]: Stepanov, Andrew (2017):10 Pitfalls in Project Management to Avoid (ganttpro.com) : https://blog.ganttpro.com/en/top-project-management-pitfalls-to-avoid/
 [^3]: Reinold, Daniel: Daily Scrum - kurz erklärt [Varianten & Tipps]: https://www.projektmagazin.de/methoden/daily-scrum
 [^4]: T2informatik: Was ist eine Stakeholderkommunikation? - Wissen kompakt - t2informatik: https://t2informatik.de/wissen-kompakt/stakeholderkommunikation/
-[^5]: Bild 1: https://blog.ganttpro.com/en/top-project-management-pitfalls-to-avoid/
+[^5]: Bild 1: https://asana.com/de/resources/project-management-triangle
 
