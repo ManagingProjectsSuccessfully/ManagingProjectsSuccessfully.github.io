@@ -96,7 +96,7 @@ durchgefürht. Währenddessen sollte die Projektlandschaft überprüft werden, d
 
 ## Fazit
 
-Die Kreislaufwirtschaft ist das zentrale Wirtschaftsmodell der Zukunft. Natürlich erfordert der Wechsel vom linearen Denken zum zirkulären Denken einige Hindernisse zu überbrücken, aber Nachhaltigkeit wird immer ein wichtiger Ansatz bleiben.
+Die Kreislaufwirtschaft ist das zentrale Wirtschaftsmodell der Zukunft. Natürlich bedeutet der Wechsel vom linearen Denken zum zirkulären Denken einige Hindernisse zu überbrücken, aber Nachhaltigkeit wird immer ein wichtiger Ansatz bleiben.
 
 # Siehe auch
 
