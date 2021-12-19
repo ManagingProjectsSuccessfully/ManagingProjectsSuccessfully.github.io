@@ -58,7 +58,7 @@ gewohnte und einfache Problemlösungsmöglichkeiten zurück. Prinzipiell ist das
 Herangehensweise einer Domäne zu zuordnen.[^4]
 
 Eine ähnliche Zusammensetzung findet man auch in der [Stacey Matrix](Stacey_Matrix.md) wieder. Diese Matrix wird im Zusammenhang mit dem Cynefin Framwork angewandt, wenn es 
-darum geht, die agile Arbeitsmethode für das Problem herauszufinden. Dabei ist zu erkennen, dass einfache Problemstellung mithilfe von traditionelle Methoden gelöst werden 
+darum geht, die agile Arbeitsmethode für das Problem herauszufinden. Dabei ist zu erkennen, dass einfache Problemstellung mithilfe von traditionellen Methoden gelöst werden 
 können, wobei komplexere Themen agile Methoden (z.B. [Scrum](SCRUM.md), [Kanban](Kanban.md) Board oder [Design Thinking](Design_Thinking.md)) vorteilhafter erscheinen.[^9]
 
 ## Probleme
@@ -75,12 +75,12 @@ komplizierten Zonen zu managen.[^4]
 
 *Wicked Problem[^7][^3]
 
-Vor der Formulierung der Lösung kann das Problem nicht verstanden werden und solange das Problme nicht identifizeirt wurde, kann auch die Lösung nicht beschrieben werden. Rückkopplungseffekt! [^3]  
+Vor der Formulierung der Lösung kann das Problem nicht verstanden werden und solange das Probleme nicht identifiziert wurde, kann auch die Lösung nicht beschrieben werden. Rückkopplungseffekt! [^3]  
 
 
 ## Anwendung auf [Projekte](Projekt.md) [^1]
 
-| Deming-Cyle          |	Plan	    |  Do       | Check          |	Act       | Beispiele                     |
+| Deming-Cycle          |	Plan	    |  Do       | Check          |	Act       | Beispiele                     |
 |----------------------|------------|-----------|----------------|------------|-------------------------------|
 | einfache Systeme     | beobachten |	          | kategorisieren | reagieren  | Produktimplementierung        |     
 | komplizierte Systeme | beobachten |	          | analysieren    | reagieren  | Support-Projekte              |   
@@ -95,7 +95,7 @@ Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework z
 "Alle Modelle sind falsch, aber einige nützlich." George Box
 
 Das Cynefin Framework ist kein "perfektes" Modell, um Situationen abschließend zu erklären. Es ist vielmehr eine Hilfestellung um die Ursache, den 
-Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, dass einige Probleme mehrschichtig sein können z.B. sowohl komplex als auch kompliziert. 
+Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, dass einige Probleme mehrschichtig sein können, z.B. sowohl komplex als auch kompliziert. 
 
 # Siehe auch
 
