@@ -9,7 +9,7 @@ Wissensmanagement ist „die systematische Gestaltung von Rahmenbedingungen und 
 # Aufgabe des Wissensmanagements 
 Die Aufgabe des Wissensmanagements liegt darin, einen reibungslosen Informationsfluss zwischen Projektbeteiligten([Projektmitarbeiter](Projektmitarbeiter.md)), Technologie und Projektorganisation zu schaffen und gleichzeitig einen langfristigen Zugang zu diesen gewonnenen Informationen zu ermöglichen[^2]. 
 
-Dabei werden folgende Funktionen erfüllt: 
+Dabei werden folgende Funktionen erfüllt:[^2]
 
 * Kompetenz der Mitarbeiter transparent machen
 *	Projektergebnisse dokumentieren
