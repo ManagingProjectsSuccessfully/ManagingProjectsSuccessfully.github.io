@@ -68,7 +68,7 @@ ClickUp erleichtert Usern den Umstieg von anderen Projetkmanagement-Tools auf di
 Aufgaben, Daten, etc. können sofort in den eigenen Account integriert werden. Zusätzlich können Programme wie Office 365, Slack, DropBox oder der Outlook-Kalender
 in ClickUp miteinbezogen werden, um noch mehr Personalisierung und Komfort zu schaffen.[^4] 
 ClickUp bietet ebenfalls die Möglichkeit andere Internetseiten zur eigenen Timeline, im Dashboard, hinzuzufügen. Beispiele wären YouTube, Keynote, LinkedIn,
-Spotify, und viele Weitere[^5].
+Spotify, und viele Weitere.[^5]
 
 # Preisliste
 
