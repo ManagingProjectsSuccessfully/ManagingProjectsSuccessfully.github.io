@@ -23,43 +23,42 @@ Das Ziel von Change Projekten besteht also darin, durch neue Strategien, Systeme
 
   ### Wann sollten Change Projekte durchgeführt werden?
   
-    Das Einführen neuer Geschäftsstrategien ist für Unternehmen sinnvoll, wenn diese an einem strategischen Wendepunkt stehen.
-    Beispiele strategischer Wendepunkte:
+   Das Einführen neuer Geschäftsstrategien ist für Unternehmen sinnvoll, wenn diese an einem strategischen Wendepunkt stehen.
+   Beispiele strategischer Wendepunkte:
     - der Aufbau neuer Partnerschaften
     - Joint Ventures
     - die Anpassung an neue Technologien oder Geschäftsmodelle. [^5]
 
   ###	Der Hintergrund in Bezug auf die Lego Group
  
-    Seit seiner Gründung bis in das Jahr 1998 hatte Lego nie einen Verlust verzeichnet und sehr schnell an Bekanntheit gewonnen. Im Jahre 2003 ging der           Umsatz des Unternehmens im Vergleich zum Vorjahr um 30 Prozent zurück und die Schulden betrugen 800 Millionen US-Dollar. 
-    Mitte der 2000er Jahre verlor Lego jedes Jahr Hunderte Millionen Dollar, musste Tausenden Angestellten kündigen und wechselte seine Leitung. [^6]
+   Seit seiner Gründung bis in das Jahr 1998 hatte Lego nie einen Verlust verzeichnet und sehr schnell an Bekanntheit gewonnen. Im Jahre 2003 ging der Umsatz    des Unternehmens im Vergleich zum Vorjahr um 30 Prozent zurück und die Schulden betrugen 800 Millionen US-Dollar. Mitte der 2000er Jahre verlor Lego jedes    Jahr Hunderte Millionen Dollar, musste Tausenden Angestellten kündigen und wechselte seine Leitung. [^6]
  
 ## Die Phasen des Change Projektes
 
   ![image](/kb/Change_Projekte/EVOSULT_Change_Management_810px-1.JPG)
 
-  1. Phase: Die Analyse des Veränderungsvorhabens
+  1.Phase: Die Analyse des Veränderungsvorhabens
 
   Beobachter spekulierten, dass die Lego Group ihre Produktpalette überdiversifiziert hatte. Andere machten den Druck von Billigherstellern in China           verantwortlich. [^9]
   Bestärkt wurde Zweiteres dadurch, dass Ende der Achtzigerjahre die ersten Urheberrechte ausliefen, wodurch große Konkurrenz durch andere Firmen entstand.     [^7] Obwohl an den Vermutungen etwas Wahres lag, behinderten viele andere Faktoren den Erfolg der Lego Group, einschließlich ihrer Lieferkette. [^9]
 
-  2.	Phase: Die Analyse der Organisation
+  2.Phase: Die Analyse der Organisation
 
   Jørgen Vig Knudstorp, der 2004 zum CEO der Lego Group ernannt wurde, erkannte, dass der Umsatzrückgang des Unternehmens gestoppt, und die Schulden           abgebaut werden mussten. [^8]
   Die Unternehmensleitung wusste, dass die Lieferkette die unmittelbarste Möglichkeit zur Verbesserung bot. [^9]
   Die Lieferkettenprobleme waren aus dem Engagement des Unternehmens für Innovation entstanden. Knudstorp wusste, dass es dem Unternehmen nicht an Innovation   fehlte, doch viele der Innovationen nicht profitabel waren. Beispielsweise wurden Produkte entwickelt, die sich anhand der Farbe nur sehr leicht von
   bereits bestehenden Produkten des Sortiments unterschieden. [^11]
 
-  3.	Phase: Die Entwicklung der Vorgehensarchitektur
+  3.Phase: Die Entwicklung der Vorgehensarchitektur
 
   Für die Implementierung des Change Projektes waren laut dem neuen CEO eine strenge fiskalische Kontrolle und ein Top-Down-Management erforderlich. [^8]
   Deshalb fokussierte er seine Strategie auf Effizienz und Kosteneinsparungen, speziell verbunden mit der Lieferkette.       [^11]
 
-  4.	Phase: Die Umsetzung der Veränderungen
+  4.Phase: Die Umsetzung der Veränderungen
 
   Im Rahmen des Rettungsplans von Jørgen Vig Knudstorp, wurde im Jahre 2006 ein wesentlicher Teil der Produktion an einen Vertragspartner, Flextronics,         ausgelagert. Ziel war es, die Kosten der Produktion zu senken. Später wurden noch weitere Produktionsstätten an den neuen Partner ausgelagert. [^10]
 
-
+## Fazit
 
 # Siehe auch:
 
