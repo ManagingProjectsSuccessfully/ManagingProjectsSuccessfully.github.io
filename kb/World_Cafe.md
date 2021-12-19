@@ -5,8 +5,8 @@ author: larissadiscua
 anrechnung: k
 ---
 
-Bei dem World Café handelt es sich um eine kreative Methode des [Projektmanagements](Projektmanagement.md), die vor allem für größere Gruppen geeignet ist. Es ist eine interaktive Alternative zu Konferenzen und Seminaren und bietet eine zwanglose Atmosphäre, die Teilnehmende zu Diskussionen, welche alltäglichen Gesprächen in einem Café ähneln sollen, anregt.[^1] Dabei soll der Austausch von verschiedenen Gedanken und Ideen zu komplexen Themen dazu führen, dass neue Sichtweisen entstehen und Probleme aus vielen verschiedenen Perspektiven betrachtet werden können.[^2]  So können neben offensichtlichen Lösungsansätzen auch unkonventionelle Lösungen und Vorgehensweisen zu verschiedenen erörtert werden.[^1]
-
+Bei dem World Café handelt es sich um eine kreative Methode des [Projektmanagements](Projektmanagement.md), die vor allem für größere Gruppen geeignet ist. Es ist eine interaktive Alternative zu Konferenzen und Seminaren und bietet eine zwanglose Atmosphäre, die Teilnehmende zu Diskussionen, welche alltäglichen Gesprächen in einem Café ähneln sollen, anregt.[^1] Dabei soll der Austausch von verschiedenen Gedanken und Ideen zu komplexen Themen dazu führen, dass neue Sichtweisen entstehen und Probleme aus vielen verschiedenen Perspektiven betrachtet werden können.[^2]  So können neben offensichtlichen Lösungsansätzen auch unkonventionelle Lösungen und Vorgehensweisen erörtert werden.[^1]
+Das World Café kann in fast allen Phasen eines [Projektes](Projekt.md) eingesetzt werden und kann dabei helfen, Aktionspläne und Strategien für die nächsten Phasen zu entwickeln.
 # Vorteile
 Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen hat unter anderem folgende Vorteile:
 * das Wissen Vieler wird vernetzt
