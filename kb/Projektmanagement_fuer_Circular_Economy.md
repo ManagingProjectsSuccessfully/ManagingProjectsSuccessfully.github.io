@@ -29,7 +29,7 @@ zusammengefasst, die von den Mitgliedern der Ellen MacArthur Foundation gelehrt 
 
 ### 1. Performance Economy
 
-Dieser Ansatz beschreibt die Auswirkungen auf Abfallvermeidung, rationelle Nutzung begrenzter Ressourcen, die Schaffung neuer Arbeitsplätze und
+Dieser Ansatz beschreibt die Auswirkungen auf [Abfallvermeidung](Risikobewertung_fuer_Umweltrisiken.md), rationelle Nutzung begrenzter Ressourcen, die Schaffung neuer Arbeitsplätze und
 das Wachstum in einer Kreislaufwirtschaft.[^6]
 
 ### 2. Öko-industrielle Entwicklung
@@ -55,7 +55,7 @@ Die drei Grundprinzipien von Biomimicry. Die Natur als:
 
 ![image](Projektmanagement_fuer_Circular_Economy/Cradle_to_Cradle.jpg)
 
-*Cradle to Cradle [^5]
+*Cradle to Cradle [^5][^11]
 
 Eine Kreislaufwirtschaft bezieht sich normalerweise auf die Menge an recycelten Materialien oder die Reduzierung von Abfall. Das Design von Cradle zu Cradle konzentriert sich 
 jedoch auf die Produktqualität, einschließlich der Sicherheit für Mensch und Umwelt. Weiterhin wird durch dieses Modell ersichtlicher, dass die in einer Kreislaufwirtschaft zwei 
