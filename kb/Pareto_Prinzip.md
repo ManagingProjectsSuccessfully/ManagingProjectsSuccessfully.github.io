@@ -7,7 +7,7 @@ anrechnung: k
 
 # Das Pareto-Prinzip
 
-Das Pareto Prinzip besagt, dass man ein halbwegs vollständig Ergebnis mit einem minimalen Aufwand erzielen kann, wenn man sich von Anfang an auf die grundlegenden Dinge fokussiert und sich nicht in Details verrennt.
+Das Pareto Prinzip besagt, dass bereits mit einem minimalen Aufwand ein halbwegs vollständig Ergebnis einer Aufgabe erzielbar ist. Dies funktioniert, in dem der Fokus bereits zu Beginn der Bearbeitung auf grundlegende Dinge gesetzt wird, sodass vermieden wird sich in Details zu verrennen,  die sich letzten Endes als Zeiträuber entlarven.
 
 ## Inhaltsverzeichnis
 1. Ursprung des Pareto-Prinzips 
@@ -15,7 +15,6 @@ Das Pareto Prinzip besagt, dass man ein halbwegs vollständig Ergebnis mit einem
 3. Zeitmanagement
    1. Zeitersparnis durch die Anwendung des Pareto-Prinzips
    2. Vergleich der Zeitersparnis mit der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
-
 
 
 ### 1. Ursprung des Pareto-Prinzips:
@@ -41,6 +40,10 @@ Das Pareto-Prinzip wird aufgrund des zuvor erklärten Ursprungs auch gerne auch 
 Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen können.[^2] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient für das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md) sein kann, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann. Das Pareto-Prinzip ist dem klassischen [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md) zuzuordnen. Um das Prinzip in diesem Bereich auch richtig im Projektmanagemtn anzuwenden, ist es wichtig, dass sich, zum Beispiel vor eine Projektbesprechung, alle beteiligten Personen einig sind, sich ausschließlich mit der Klärung fundamentaler Dinge zu beschäftigen. Sei dies nciht der Fall, können bereits Kleinigkeiten den Zeitrahmen stark übersschreiten. [^10]
 
 
+### Statistische Darstellung der [Pareto-Verteilung]
+
+Die Pareto-Verteilung zeichnet sich dadurch aus, dass sie auf der rechten Seite ins Unendliche verläuft. Zudem handelt es sich bei der Verteilung um positive Werte, die sich über verschiedene Dimensionen entlangziehen. Dies erklärt auch weshalb die Verteilung nach recht hin ins positiv verläuft.[^11]
+
 ### 3. Zeitmanagement 
 #### 3.i. Zeitersparnis durch die Anwendung des Pareto-Prinzips:
 
@@ -51,10 +54,10 @@ Dies wird auch in der folgenden Abbildung sichtbar:[^6]
 
 ![image](https://github.com/nahihiry/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pareto_Prinzip/Bildschirmfoto%202021-11-19%20um%2019.05.53.png)
 
-
 Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des Pareto Prinzips. Oftmals sind die letzten 20% des Ergebnisses, die die Erledigung der Aufgabe perfektionieren würden, nicht zwingend notwendig, sodass die Zeit, die dadurch gespart wird, wiederum für andere Bereiche genutzt werden kann.[^7]
 
 Bei der Anwendung des Pareto Prinzips trennt man sich somit bestenfalls gleichzeitig von seinem Perfektionismus, da dieser in den meisten Fällen nicht von Nöten ist. Auf diese Weise spart man sich nicht nur Nerven, sondern generiert gleichzeit auch mehr Zeit, um die Kernaufgaben besonders gut erledigen zu können. Insbesondere wenn man eine große Anzahl auf Aufgaben zu erledigen hat eignet sich das Pareto Prinzip, da man mithilfe dieses Prinzips alle Aufgaben bereits fast vollständig abarbeitet und nicht nur wenige Aufgaben "perfekt", also zu 100%, ausarbeitet.[^8]
+
 
 #### 3.ii. Vergleich der Zeitersparnis zu der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
 
@@ -66,9 +69,12 @@ Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProje
 * [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)
 
 
+### Weiterführende Literatur
+
+*  https://www.youtube.com/watch?v=TcEWRykSgwE&t=22s
 
 
-### 4. Quellen:
+### Quellen
 [^1]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
 [^2]: Alfred Ultsch, Marburg, 2001, "Eine Begründung der Pareto-80/20 Regel und Grenzwerte für die ABC-Analyse", S. 1
 [^3]: https://www.dw.com/de/wachsende-kluft-zwischen-arm-und-reich-in-deutschland/a-57506792
@@ -79,3 +85,4 @@ Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProje
 [^8]: https://www.flowfinder.de/pareto-prinzip/
 [^9]: https://www.selbst-management.biz/pomodoro-technik/
 [^10]: https://www.braintool.com/blog/pareto-prinzip-projektmanagement/
+[^11]: https://de.wikipedia.org/wiki/Pareto-Verteilung
