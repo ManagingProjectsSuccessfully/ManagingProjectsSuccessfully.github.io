@@ -59,7 +59,6 @@ Eine weitere Form des Projekthandbuchs ist der Project Management Plan des [PMBO
 * [Projektmanagement](Projektmanagement.md)
 * [Planungssicherheit](Planungssicherheit.md)
 * [Projektplanung](Projektplanung.md)
-* [Projektumfang](Projektumfang.md)
 * [Projektdurchführung](Projektsteuerung.md)
 * [Projektabschluss](Projektabschluss.md)
 
