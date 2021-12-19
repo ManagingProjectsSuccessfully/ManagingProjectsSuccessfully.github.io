@@ -70,7 +70,7 @@ Um einen genaueren Einblick in die Thematik der Change Projekte zu erhalten, wir
 
   ## Ergebnis des Change Projektes
 
-   Im Jahre 2005, nur ein Jahr nach der Übernahme von Jørgen Vig Knudstorp als CEO, machte die Lego Group Gewinn. Die Verbesserungen in den Prozessen der        Lieferketten, trugen allein von 2005 bis 2006 zu einem 11-prozentigen Anstieg des Umsatzerlöses bei, was im Vergleich zum Vorjahr mehr als doppelte          an Ertrag ausmachte. [^11]
+   Im Jahre 2005, nur ein Jahr nach der Übernahme von Jørgen Vig Knudstorp als CEO, machte die Lego Group Gewinn. Die Verbesserungen in den Prozessen der        Lieferketten, trugen allein von 2005 bis 2006 zu einem 11-prozentigen Anstieg des Umsatzerlöses bei, was im Vergleich zum Vorjahr mehr als das Doppelte      an Ertrag ausmachte. [^11]
 
 
 
