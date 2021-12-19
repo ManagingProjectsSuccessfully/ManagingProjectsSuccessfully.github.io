@@ -1,6 +1,6 @@
 ---
 title: Forschungsprojekte
-tags: agil klassisch pm forschung projekt
+tags: agil klassisch projektmanagement forschung projekt
 author: CatrinSc
 anrechnung: k
 ---
