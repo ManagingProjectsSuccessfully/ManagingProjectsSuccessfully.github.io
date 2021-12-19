@@ -51,7 +51,7 @@ Die zuvor genannte Vorgehensweise ist flexibel anpassbar und Komponenten, wie et
 
 ![Ablauf](World_Cafe/image.jpeg)
 
-*Ablauf der World Cafe Methode*
+*Ablauf der World Cafe Methode*[^8}
 
 
 
