@@ -1,6 +1,6 @@
 ---
 title: ClickUp_PM_Tool
-tags: agil, klassisch, Projektmanagement, Tool, Mitarbeiter, Kollaboration, Teammanagment, Aufgabenteilung
+tags: agil, klassisch, Projektmanagement, Tool, Team, Kollaboration, Teammanagment, Aufgabenteilung
 author: urimi0
 anrechnung: k 
 ---
