@@ -1,6 +1,6 @@
 ---
 title: Ideen_Marathon
-tags: klassisch
+tags: klassisch Kreativität Ideen
 author: MrSommC
 anrechnung: k
 ---
