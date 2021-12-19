@@ -6,20 +6,19 @@ anrechnung: k
 ---
 # Circular Economy
 
-Die Circular Economy oder auch Kreislaufwirtschaft ist ein Wirtschaftsmodell, das danach ausgerichtet ist, den Ressourceneinsatz, die Abfallproduktion und die 
-Emissionserzeugnisse zu minimieren. Das Ziel ist die maximale Effizienz bei der Nutzung endlicher Ressourcen, den Übergang zu [erneuerbaren Ressourcen]
-(Nachhaltige_Entwicklung.md) und auch die volle Ausschöpfung von Materialien und Produkten.[^3] Im Allgemeinen beschreibt die Circular Economy ein regeneratives 
+Die Circular Economy oder auch Kreislaufwirtschaft ist ein Wirtschaftsmodell, das danach ausgerichtet ist, den [Ressourceneinsatz](Ressourcenplanung.md), die Abfallproduktion und die 
+Emissionserzeugnisse zu minimieren. Das Ziel ist die maximale Effizienz bei der Nutzung endlicher [Ressourcen](Ressourcenplanung.md), den Übergang zu [erneuerbaren Ressourcen](Nachhaltige_Entwicklung.md) und auch die volle Ausschöpfung von Materialien und Produkten.[^3] Im Allgemeinen beschreibt die Circular Economy ein regeneratives 
 Wirtschaftssystem. Das dem Gegenüber stehende ist die Linearwirtschaft, welches ein "take-make-dispose" Modell beschreibt - in anderen Worten eine Wegwerfwirtschaft darstellt. 
 Dabei zielt die Circular Economy nicht nur darauf ab, die Mängel einer linearen Wirtschaft auszubessern, sondern stellt auch ein systematischer Wandel dar, der das 
 Wirtschaftssystem vollständig verändert.[^1] 
 Dabei werden folgende drei Grundsätze beachtet:
 * Schonung der Ressourcen: Minimierung von Abfällen und [Umweltverschmutzung](Nachhaltige_Entwicklung.md), durch Einsatz neuster Technologien.[^2]
 * Effiziente Nutzung von Ressourcen: Lebenszyklen bzw. Nutzungsdauer von Produkten und Materialien zu verlängern, durch aktive Wiederverwendung, Reparatur und Wiederaufbereitung.[^1]
-* Recycling/Regeneration: Ressourcen sind begrenzt, daher bewusst Recyclen für eine Regeneration des Ökosystems.[^2]
+* Recycling/Regeneration: Ressourcen sind begrenzt, daher bewusst [Recyclen](Nachhaltige_Entwicklung.md) für eine Regeneration des Ökosystems.[^2]
 
 ![image](Projektmanagement_fuer_Circular_Economy/R.jpg)
 
-*Circular Economy Modell[^4]
+*Circular Economy Modell[^4][^10]
 
 
 ## Konzepte des Circular Economy
@@ -83,11 +82,11 @@ Remanufacturing: Wiederverwendung von alten Teilen für die Wiederherstellung ne
 Die vier miteinander verbunden Tätigkeitsbereiche der Kreislaufwirtschaft in Renault:
 
 * Re-Trofit: Verlängerung der Lebensdauer von Fahrzeugen
-* Re-energy: Lösung für grüne Energie
-* Re-cycle: Optimierung des Ressourcenverbrauchs zur Unterstützung des Ökosystems
+* Re-energy: Lösung für grüne [Energie](Projektmanagement_fuer_Energiewende.md)
+* Re-cycle: Optimierung des [Ressourcenverbrauchs](Ressourcenplanung.md) zur Unterstützung des Ökosystems
 * Re-start: Förderung der Innovation
 
-Diese Umsetzung in eine Kreislaufwirtschaft sorgt dafür, dass die Umweltbelastungen von Renault gesenkt werden. Außerdem erhalten die Kunden Zugriff auf günstigere Garantiteile und die Nutzungsdauer der Fahrzeuge, werden mithilfe eines höheren Ersatzteilen-Vorrats, verlängert.[^9]
+Diese Umsetzung in eine Kreislaufwirtschaft sorgt dafür, dass die [Umweltbelastungen](Risikobewertung_von_Umweltrisiken.md) von Renault gesenkt werden. Außerdem erhalten die Kunden Zugriff auf günstigere Garantiteile und die Nutzungsdauer der Fahrzeuge, werden mithilfe eines höheren Ersatzteilen-Vorrats, verlängert.[^9]
 
 ## Fazit
 
@@ -122,3 +121,5 @@ Die Kreislaufwirtschaft ist das zentrale Wirtschaftsmodell der Zukunft. Natürli
 [^7]: [Circular Economy: Concepts and Principles](https://jss.utm.md/wp-content/uploads/sites/21/2020/06/JSS-2-2020_5-12.pdf)
 [^8]: [Nachhaltiges Projektmanagement bringt Circular Economy ans Leben](https://www.prosense-consulting.com/nachhaltiges-projektmanagement-bringt-circular-economy-ans-leben/)
 [^9]: [Europe´s first circular economy factory for vehicles: Renault](https://ellenmacarthurfoundation.org/circular-examples/groupe-renault)
+[^10]: [Circular Economy Abbildung](https://nws.eurocities.eu/MediaShell/GetMediaBytes?mediaReference=14393&phf=5)
+[^11]: [Cradle to Cradle Abbildung](https://mindfulelly.ch/wp-content/uploads/2020/03/Cradle_to_cradle.jpg)
