@@ -67,7 +67,7 @@ Durch die Visualisierung der Arbeitspaketestatus mit Ampelfarben, ist die Method
 
 ### Soll-Ist-Vergleich
 Hierbei handelt es sich um eine simple, sich selbsterklärende Methode. Es werden die ermittelten Ist-Werte mit den vom Kunden vorgegebenen Soll-Werten verglichen.
-Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. sein. Aus dem Vergleich ergibt sich ein Gesamtunterschied zwischen den geplanten und tatsächlichen Werten. Sind die Ist-Werte besser als die Soll-Werte, fällt der Soll-Ist-Vergleich positiv, andernfalls negativ aus.[^14]
+Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften u.v.m. sein. Aus dem Vergleich ergibt sich ein Gesamtunterschied zwischen den geplanten und tatsächlichen Werten. Sind die Ist-Werte besser als die Soll-Werte, fällt der Soll-Ist-Vergleich positiv, andernfalls negativ aus.[^14]
 
 # Siehe auch
 * [Projektmanagement](Projektmanagement.md)
