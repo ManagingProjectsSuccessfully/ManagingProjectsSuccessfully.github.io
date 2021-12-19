@@ -21,6 +21,7 @@ verändert.[^1]
 
 ## Die drei Grundsätze von Circular Economy
 
+
 ### 1. Die Schonung der Ressourcen
 
 Das Konzept bezieht sich auf die Minimierung von Abfällen und [Umweltverschmutzung](Nachhaltige_Entwicklung.md). Die Schäden durch wirtschaftliche Aktivitäten sollen reduziert werden. Dieser Einfluss auf die 
@@ -39,6 +40,11 @@ Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und deutet darauf h
 
 
 ## Denkansätze zur Circular Economy
+
+Es gibt verscheidene Defintionen bzw. beschriebungen der Kreislaufwirtschaft, dies liegt an dem unterschiedlichen Verständnis und der unterschiedlichen Wahrnehmung durch 
+verschiedene Forscher. Das Konzept der Kreislaufwirtschaft lässt sich daher nicht genau nur einem Forscher zuordnen, sondern eher einigen Denkrichtungen. Tatsächlich leitet sich 
+das Konzept der Kreislaufwirtschaft von anderen Konzepten ab, wie zum Beispiel: Perfomance Economy, Öko-industrille Entwicklung, Regenerative Gestaltung, usw. Im Folgenden 
+werden diese Denkschulen zur Kreislaufwirtschaft zusammengefasst, die von den Mitgliedern der Ellen MacArthur Foundation gelehrt wurden.
 
 ### 1. Performance Economy
 
