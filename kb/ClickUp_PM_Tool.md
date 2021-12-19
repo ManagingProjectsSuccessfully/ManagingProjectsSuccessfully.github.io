@@ -8,6 +8,9 @@ anrechnung: k
 [ClickUp](https://clickup.com) ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für sämtliche Arten und Größen von Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von [Projekten](Projekt.md) dienen werden auf einer Plattform zusammengefügt[^2]. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.[^1]
 
 ![ClickUp_Logo](ClickUp_PM_Tool/logo.png)
+# Das Unternehmen
+
+
 
 # Das Tool
 
@@ -87,3 +90,4 @@ Spotify, und viele Weitere.[^5]
 [^4]: [Mintblau.com](https://www.mintblau.com/blog/projektmanagement-mit-clickup)
 [^5]: [Embeding URL & HTML](https://docs.clickup.com/en/articles/2934308-embed-view)
 [^6]: [ClickUp App](https://publishingblog.ch/wie-kann-clickup-eine-app-fuer-alles-sein/)
+[^7]: [ClickUp: Das Unternehmen](https://clickup.com/about)
