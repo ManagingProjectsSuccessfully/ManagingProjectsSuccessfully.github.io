@@ -46,7 +46,7 @@ Die Pareto-Verteilung zeichnet sich dadurch aus, dass sie auf der rechten Seite 
 
 Die folgende [Abbildung](https://de.wikipedia.org/wiki/Pareto-Verteilung) zeigt eine beisppielhaft zeigt eine beispielhafte Pareto-Verteilung auf.
 
-![image]https://github.com/nahihiry/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pareto_Prinzip/Bildschirmfoto%202021-12-19%20um%2023.47.03.png
+![image] (https://github.com/nahihiry/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pareto_Prinzip/Bildschirmfoto%202021-12-19%20um%2023.47.03.png)
 
 Die Grafik zeigt die Anzahl der Einwohner in deutschen Städten auf. Man erkennt klar, dass bereits in sehr wenige Städte alleine ein sehr großer Teil der Gesamtbevölkerung lebt. Es gibt dementsprechend sehr viele kleinerer Städte mit nur sehr wenigen Einwohnern.[^11]
 
