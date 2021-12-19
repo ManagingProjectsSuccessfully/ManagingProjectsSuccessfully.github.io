@@ -11,7 +11,7 @@ anrechnung: a
 # Überblick
 
 Unternehmen neigen vermehrt dazu, Projekte anhand des **agilen Projektmanagements** durchzuführen und sich die dafür erforderlichen Kompetenzen anzueignen. Hintergrund
-des agilen Managements und deren Kernpunkte sind es, Projekten und Prozessen *breiteren Raum an Flexibilität* zu bietet. Dies macht es möglich, *schneller und
+des agilen Managements und deren Kernpunkte sind es, Projekten und Prozessen *breiteren Raum an Flexibilität* zu bieten. Dies macht es möglich, *schneller und
 effektiver* auf Veränderungen einzugehen[^1]; so auch bei [Scrum](SCRUM.md).
 
 Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^2]. Darunter fallen:
@@ -28,8 +28,7 @@ umgewandelt werden"*[^3].
 # Sprint Review
 
 Sprint Retrospective, Sprint Review, [Sprint Planning](Sprint_Planning.md) und [Daily Scrum](Daily_Scrum.md) sind die Bausteine und ergeben 
-zusammen einen Sprint. Dabei 
-wird immer wieder der gleiche Ablauf
+zusammen einen Sprint. Dabei wird immer wieder der gleiche Ablauf
 befolgt, wobei der Sprint Review **vor** der Sprint Retrospective stattfindet[^3].
 
 Während der Phase des Sprint Reviews kommt das ganze Scrum Team zusammen, die dort die Möglichkeit haben Feedback zu geben. Diese Gruppe besteht demnach aus dem
@@ -51,10 +50,10 @@ Was auch bereits im untenstehenden Bild illustriert wurde, soll im Folgenden noc
 Begonnen wird im Sprint Review meist damit, dass der Product Owner allgemeine Regeln über den Ablauf des Sprint Reviews aufstellt und Erwartungen hieran mitteilt
  
 * __Überblick__  
-Weiterführend informiert er in einem kurzen Überblick darüber, was demonstriert werden soll und was der Inhalt des heutigen Meetings ist
+Er informiert weiterführend in einem kurzen Überblick darüber, was demonstriert werden soll und was der Inhalt des heutigen Meetings ist
   
 * __Aktueller Stand__  
-Außerdem berichtet er, was bereits erreicht worden ist und welche Aufgaben noch abgeschlossen werden müssen
+Außerdem wird berichtet, was bereits erreicht worden ist und welche Aufgaben noch abgeschlossen werden müssen
   
 * __Demonstration durch das Scrum Team__  
 Nachdem durch den Product Owner ein Gesamtüberlick geliefert wurde, geht das Scrum Team zum einen darauf ein, welche Fortschritte und Ergebnisse jeder einzelne im
@@ -65,19 +64,19 @@ Nachdem durch den Product Owner ein Gesamtüberlick geliefert wurde, geht das Sc
 Hierbei bietet es sich an das Team für seine Arbeit zu loben und einen Dank auszusprechen
   
 * __Änderungen am Product Backlog__  
-Gegebenenfalls werden dann zusätzlich Änderungen des [Product Backlogs](Product_Backlog.md), was eine Auflistung aller Anforderungen für ein zu erstellendes 
-  Produktes enthält, besprochen
+Gegebenenfalls werden dann zusätzlich Änderungen des [Product Backlogs](Product_Backlog.md) besprochen. Dies enthält eine Auflistung aller Anforderungen für ein zu 
+erstellendes Produkt
  
 * __Diskussion__  
-Dies wird nicht selten in Form einer Diskussion erarbeitet, in der alle Anwesenden ihre Änderungsvorschläge anbringen können und somit einzelne Teile überarbeitet
-    werden. Das wird stets in Anwesenheit des Stakeholders passieren, sodass auch dieser in der Lage ist mögliche Wünsche oder Abneigungen kundzutun
+Änderungen werden oft in Form einer Diskussion erarbeitet. In dieser sind alle Anwesenden dazu eingeladen ihre Änderungsvorschläge anzubringen und auf Basis dessen
+einzelne Teile zu überarbeiten. Das wird stets in Anwesenheit des Stakeholders passieren, sodass auch dieser in der Lage ist mögliche Wünsche oder Abneigungen kundzutun
  
 * __Erstellung der Inhalte__  
 Auf Grundlage des angepassten Product Backlogs werden schlussendlich die Inhalte des nächsten Sprints bestimmt
 
 
 
-# Fazit
+# Erkenntnis
 
 
 Demnach beinhaltet ein Sprint den Sprint Review, welcher nochmals in mehrere Bestandteile aufgegliedert werden kann. Schlüsselelement dabei ist vor allem die Demo des
@@ -90,7 +89,6 @@ Fortschritte des Produktes in Richtung des vorgegebenen Ziels.[^6]
 
 # Siehe auch
 
-* [Link zum Product Backlog](Product_Backlog.md)
 * [Link zur Feedback Kultur](Feedback_Kultur.md)
 * [Link zu Feedback Methoden](Feedback_Methoden.md)
 * [Link zu Scrum Artefakte](Scrum_Artefakte.md)
