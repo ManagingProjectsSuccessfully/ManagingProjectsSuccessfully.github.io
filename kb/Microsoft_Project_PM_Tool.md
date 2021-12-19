@@ -158,7 +158,7 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 *Abbildung 12: Basisplan*[^5]
 
 
-# Vor- und Nachteile des EDV - Programms
+## Vor- und Nachteile des EDV - Programms
 
 | Vorteile      | Nachteile     |
 | ------------- | ------------- |
