@@ -19,6 +19,9 @@ Konzeptionsphase | Designphase | Projektphase (vor Baubeginn) | Beschaffungsphas
 Das Bauprojektmanagement kann als die Urform des [Projektmanagements](Projektmanagement.md) betrachtet werden, da z.B. die Pyramiden und die chinesische Mauer Bauprojekte waren. 
 Neben Architekten und Bauingenieuren übernehmen heutzutage auch Generalübernehmer bzw. -unternehmer oder auch Projektsteuerer die Aufgabe des Bauprojektmanagements[^1]. Es gibt insgesamt drei Funktionäre bei einem Bauprojekt: Bauherr, Planer und die Ausführenden (z.B. Bauunternehmer)[^2]. Der Projektrahmen wird anfangs im Kontext des [Magischen Dreiecks](Magisches_Dreieck.md) definiert.
 
+![Magisches Dreieck](Bauprojekte/magisches-dreieck-projektmanagement.png)
+*Magisches Dreieck [^12]*
+
 ## Aufgaben des Bauprojektmanagements [^1]
 
 * Abstimmung aller Entscheidungen mit dem Bauherren
@@ -82,3 +85,4 @@ Es gibt einen extra Studiengang für das [Projektmanagement](Projektmanagement.m
 [^9]: [Für 108 Millionen Euro: Chemikum in Erlangen eingeweiht](https://www.nordbayern.de/region/erlangen/fur-108-millionen-euro-chemikum-in-erlangen-eingeweiht-1.7573678)
 [^10]: [Der Gotthard-Basistunnel als Lehrstück für erfolgreiche Großprojekte](https://www.gpm-ipma.de/awards/aktuelles/detail/der_gotthard_basistunnel_als_lehrstueck_fuer_erfolgreiche_grossprojekte.html)
 [^11]: [Bachelorstudiengang Projektmanagement Bau](https://www.fh-bielefeld.de/studiengaenge/projektmanagement-bau-bachelor)
+[^12]: [Magisches Dreieck im Projektmanagement](https://www.factro.de/blog/magisches-dreieck/)
