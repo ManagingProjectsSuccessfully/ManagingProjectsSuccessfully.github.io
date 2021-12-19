@@ -57,10 +57,10 @@ Nehmen wir an, unser Kunde will eine statische [HTML-Webseite](https://stadtprof
 Der [Product-Owner](Product_Owner.md) trifft sich mit dem [Entwicklerteam](Rollen_Scrum.md) (Sprint-Planning). Er stellt die Wünsche des Kunden und die User-Story vor. Dann diskutiert das [Developerteam](Rollen_Scrum.md)unter sich, ob es möglich ist, die Anforderung umzusetzen und wie sie umgesetzt werden soll. Das Team entscheidet sich, zuerst um Frontend zu kümmern. Von der User-Story werden die Tasks gebildet und in Sprint-Backlog hineingenommen. 
 Mögliche Aufgaben (Tasks): 
 ```
-* `<button>, <input>, <form> an Designvorgaben anpassen` 
-* `Layout aufsetzen` 
-* `Schriftart anbinden` 
-* usw. 
+1. <button>, <input>, <form> an Designvorgaben anpassen
+2. Layout aufsetzen
+3. Schriftart anbinden
+usw. 
 ```
 Und so fängt der [Sprint](Sprint.md) an. 
 
