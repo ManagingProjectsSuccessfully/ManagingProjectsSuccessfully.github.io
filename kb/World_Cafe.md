@@ -48,7 +48,7 @@ Pro Tisch gibt es einen Gastgebenden und vier bis fünf Teilnehmende, die sich c
 
 Zum Abschluss werden alle gesammelten Ideen und Ergebnisse der einzelnen Tische kurz im Plenum zusammengefasst, wobei eine visuelle Hilfe, wie etwa das Aufhängen der Papiertischdecken, hilfreich sein kann. Diese endgültige Zusammenfassung hilft dabei, Muster aus den Diskussionen zu erkennen und Lösungsmöglichkeiten zu skizzieren.[^7]
 
-Die zuvor genannte Vorgehensweise ist flexibel anpassbar und Komponenten, wie etwa Dauer oder Anzahl der Teilnehmenden können nach Bedarf verändert werden. Das Wichtigste am World Café sind Kontakt und Austausch unter den Teilnehmemdenen.[^7]
+Die zuvor genannte Vorgehensweise ist flexibel anpassbar und Komponenten, wie etwa Dauer oder Anzahl der Teilnehmenden können nach Bedarf verändert werden. Das Wichtigste am World Café sind Kontakt und Austausch unter den Teilnehmenden.[^7]
 
 
 ![Ablauf](World_Cafe/image.jpeg)
