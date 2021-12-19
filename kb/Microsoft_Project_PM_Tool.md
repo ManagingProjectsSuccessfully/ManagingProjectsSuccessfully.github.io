@@ -71,7 +71,7 @@ Im Anschluss folgt eine 10-Schritt-Anleitung für die Nutzung des Programms MS P
 Der erste Schritt in einem Projekt sollte mit der Definition des Projektstarts beginnen. 
 Der Projektstart ist zugleich ein Fixpunkt, an diesem sich alle neuen Vorgänge orientieren.
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/Projektstart.jpg)
+![Beispielabbildung](Microsoft_Project_PM_Tool/Projektstart.jpeg)
 
 *Abbildung 3: Projektstart*[^5]
 
@@ -79,7 +79,7 @@ Der Projektstart ist zugleich ein Fixpunkt, an diesem sich alle neuen Vorgänge 
 
 Bevor die „Vorgangsnamen“ eingetragen werden, sollten die Schritte für das Projektziel eindeutig definiert und Zuständigkeiten für die Vorgänge geklärt sein (Verwendung von einheitlichen Namenkonventionen).
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/Vorgang.jpg)
+![Beispielabbildung](Microsoft_Project_PM_Tool/Vorgang.jpeg)
 
 *Abbildung 4: Vorgang*[^5]
 
@@ -88,7 +88,7 @@ Bevor die „Vorgangsnamen“ eingetragen werden, sollten die Schritte für das 
 Mit dem Einrücken von Vorgängen werden Projektinhalte tiefergestuft und es erfolgt die Erzeugung eines Sammelvorgangs. 
 Der Sammelvorgang soll ein Projekt in logische Phasen untergliedern und eine übersichtlichere Darstellung ermöglichen.
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/Projektinhalt.jpg)
+![Beispielabbildung](Microsoft_Project_PM_Tool/Projektinhalt.jpeg)
 
 *Abbildung 5: Projektinhalt*[^5]
 
@@ -97,7 +97,7 @@ Der Sammelvorgang soll ein Projekt in logische Phasen untergliedern und eine üb
 Die Dauer entspricht den Arbeitstagen und wird für ein Intervall abgeschätzt und im Projektverlauf fortgeschrieben. 
 Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung eines Sammelvorgangs / Zwischenstandes verwendet werden.
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/Dauer.jpg)
+![Beispielabbildung](Microsoft_Project_PM_Tool/Dauer.jpeg)
 
 *Abbildung 6: Dauer*[^5]
 
@@ -106,7 +106,7 @@ Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung 
 Wenn Vorgänge und Meilensteine gesetzt sind, folgen über Verknüpfungen inhaltlich, logische Beziehungen, die nicht unbedingt chronologisch abgebildet werden müssen.Neben der Ende-Anfang-Beziehung (kurz: EA) kann der User drei weitere Beziehungsarten wählen (EE, AE, AA).
 Falls Verzögerungen/Beschleunigungen erfasst werden müssen, kann dies über die Angabe von Tagen mit einem Plus/Minus Zeichen angepasst werden. Die hierfür verwendeten Spalten lauten Vorgänger/Nachfolger.
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/Verknuepfungen.jpg)
+![Beispielabbildung](Microsoft_Project_PM_Tool/Verknuepfungen.jpeg)
 
 *Abbildung 7: Verknüpfungen*[^5]
 
@@ -115,7 +115,7 @@ Falls Verzögerungen/Beschleunigungen erfasst werden müssen, kann dies über di
 Für die Aufwandsplanung wird die Spalte „Arbeit“ verwendet und die eingegebene Zahl in Stunden berechnet. 
 Hier wird die Summe der Arbeitsstunden geplant, die die Ressource für diesen Vorgang zu leisten hat. 
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/Aufwand.jpg)
+![Beispielabbildung](Microsoft_Project_PM_Tool/Aufwand.jpeg)
 
 *Abbildung 8: Aufwand*[^5]
 
@@ -125,7 +125,7 @@ Nach der Aufwandsschätzung werden Ressourcen auf Vorgänge verplant. Über „R
 Ressourcen können als Material, Arbeit oder Kosten definiert sein. Im Ressourcenpool sollten daher klare Einheiten für die Errechnung der jeweiligen Ressourcen hinterlegt sein (Bsp.: Arbeit, Stundensatz).
 Sind diese Schritte abgearbeitet können mittels einer Auswahlliste Ressourcen in der Spalte „Ressourcennamen“ gewählt werden.
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/Ressourcen.jpg)
+![Beispielabbildung](Microsoft_Project_PM_Tool/Ressourcen.jpeg)
 
 *Abbildung 9: Ressourcen*[^5]
 
@@ -144,7 +144,7 @@ Es sollte ein gesunder Mix aus beiden Festlegungsmaßnahmen verwendet werden.
 
 Diese Funktion dient zur Betrachtung des Projekts auf Projektebene. Somit können schnell und übersichtlich die essenziellsten Daten zusammengefasst eingeblendet werden. Der Anwender kann in dieser Ansicht lediglich den Namen des Projektes anpassen.
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/Projektsammelvorgang.jpg)
+![Beispielabbildung](Microsoft_Project_PM_Tool/Projektsammelvorgang.jpeg)
 
 *Abbildung 11: Projektsammelvorgang*[^5]
 
@@ -153,7 +153,7 @@ Diese Funktion dient zur Betrachtung des Projekts auf Projektebene. Somit könne
 
 Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein Basisplan, unter Register „Projekt“ mit dem „Befehl Basisplan“ festlegen, abgespeichert. Der Basisplan kann im späteren Verlauf nach dem Fortschreiben des Rahmenterminplans zum tabellarischen sowie visuellen Abgleich genutzt werden.
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/Basisplan.jpg)
+![Beispielabbildung](Microsoft_Project_PM_Tool/Basisplan.jpeg)
 
 *Abbildung 12: Basisplan*[^5]
 
