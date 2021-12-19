@@ -37,7 +37,7 @@ Durch die stärkere Integration der oben genannten branchenspezifischen Faktoren
 # Branchenspezifische Anforderungen
 Jede Branche hat verschiedene Grade an Unsicherheit und Komplexität der Projekte. Im Vordergrund bei der Wahl der passenden Methode für das Projektmanagement steht vor allem die Frage, wie kompliziert oder wie komplex ein angestrebtes Projekt ist[^5].
 
-![Die Zwei Arten von Projekten](Projektmanagement_Branchenspezifisch/bild1.png) 
+![Die Zwei Arten von Projekten](Projektmanagement_Branchenspezifisch/bild1.png)
 
 So ist bei einem komplizierten Projektvorhaben, welches von einem stabilen Umfeld umgeben ist, eher das klassische Projektmanagement anzuwenden. Bei komplexen Projekten mit dynamischem Umfeld ist das agile Projektmanagement besser geeignet. Bei komplizierten Projekten ist dann die Rede, wenn potenziell unbekannte Probleme in einem Projektprozess mit passenden Aneignungen gelöst werden können[^5]. Des Weiteren ist bei komplizierten Projekten, wie bspw. in der [Baubranche](Bauprojekte.md) aufgrund des relativ stabilen Umfelds eine viel höhere Planbarkeit und Steuerbarkeit vorhanden[^5]. Bei komplexen Projekten wie bspw. in der [IT-Branche](IT-Projekte.md), stellt das agile Projektmanagement sicher, dass sich der Projektplan laufend an die sich ändernden Faktoren und Anforderungskriterien anpassen kann und immer aktuell bleibt[^5]. Schließlich kann man die Aussage treffen, dass bei der Wahl der geeigneten Methode die branchenspezifischen Faktoren maßgeblich sind.
 
