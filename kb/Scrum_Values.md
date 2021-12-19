@@ -8,7 +8,7 @@ anrechnung:  a
 
 # Die Fünf Scrum Values
 
-Das Konzept definiert fünf verschiedene Werte, die für den Erfolg von großer Bedeutung sind. Diese sind Commitment (Hingabe), Fokus (Focus), Offenheit (Openness), Respekt (Respect) und Mut (Courage).
+Das Konzept definiert fünf verschiedene Werte, die für den Erfolg von großer Bedeutung sind. Diese sind Commitment (Hingabe), Fokus (Focus), Offenheit (Openness), Respekt (Respect) und Mut (Courage)[^1].
 
 
 ![ScrumValues](Scrum_Values/ScrumValues.png) [^2]
