@@ -71,9 +71,9 @@ komplizierten Zonen zu managen.[^4]
 
 * Das Wicked Problem
 
-![image](Cynefin-Framework/Wicked_Problem.png)[^3]
+![image](Cynefin-Framework/Wicked_Problem.png)
 
-*Wicked Problem[^7]
+*Wicked Problem[^7][^3]
 
 Vor der Formulierung der Lösung kann das Problem nicht verstanden werden und solange das Problme nicht identifizeirt wurde, kann auch die Lösung nicht beschrieben werden. Rückkopplungseffekt! [^3]  
 
