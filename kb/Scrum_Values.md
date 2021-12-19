@@ -1,6 +1,6 @@
 ---
 title: Scrum_Values
-tags: agil Scrum Values Scrum
+tags: agil Values Scrum
 author: Lukas1401
 anrechnung:  a
 ---
