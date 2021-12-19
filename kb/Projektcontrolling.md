@@ -83,7 +83,8 @@ Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften u.v.m
 * [Projektphasen](Projektphasen_klassisch.md)
 * [Kostenplan](Kostenplanung.md)
 * [Ressourcenplan](Ressourcenplanung.md)
-
+* [Projektplanung](Projektplanung.md)
+* [Projekt](Projekt.md)
 # Weiterführende Literatur
 
 * Basics
