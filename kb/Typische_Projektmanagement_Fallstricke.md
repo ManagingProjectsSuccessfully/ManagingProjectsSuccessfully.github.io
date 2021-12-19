@@ -4,6 +4,7 @@ tags: klassisch
 author: Lorybr
 anrechnung: k
 ---
+# Typische Projektmanagement Fallstricke
 
 Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen Elementen wie Zeit, Ressourcen und Menschen (siehe: [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ).Um ein erfolgreiches Projekt zu managen, müssen diese Elemente effektiv integriert und verwaltet werden. [^1]
 
