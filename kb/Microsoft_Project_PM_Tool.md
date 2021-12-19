@@ -66,7 +66,7 @@ Der Meilenstein am unteren, rechten Bildschirmrand repräsentiert ein Zwischenzi
 
 Im Anschluss folgt eine 10-Schritt-Anleitung für die Nutzung des Programms MS Project.
 
-## 1. Projektstart: über Register „Projekt“ unter „Projektinformationen“ definieren.
+### 1. Projektstart: über Register „Projekt“ unter „Projektinformationen“ definieren.
 
 Der erste Schritt in einem Projekt sollte mit der Definition des Projektstarts beginnen. 
 Der Projektstart ist zugleich ein Fixpunkt, an diesem sich alle neuen Vorgänge orientieren.
@@ -75,7 +75,7 @@ Der Projektstart ist zugleich ein Fixpunkt, an diesem sich alle neuen Vorgänge 
 
 *Abbildung 3: Projektstart*[^5]
 
-## 2. Vorgänge anlegen
+### 2. Vorgänge anlegen
 
 Bevor die „Vorgangsnamen“ eingetragen werden, sollten die Schritte für das Projektziel eindeutig definiert und Zuständigkeiten für die Vorgänge geklärt sein (Verwendung von einheitlichen Namenkonventionen).
 
@@ -83,7 +83,7 @@ Bevor die „Vorgangsnamen“ eingetragen werden, sollten die Schritte für das 
 
 *Abbildung 4: Vorgang*[^5]
 
-## 3.	Projektinhalte strukturieren
+### 3.	Projektinhalte strukturieren
 
 Mit dem Einrücken von Vorgängen werden Projektinhalte tiefergestuft und es erfolgt die Erzeugung eines Sammelvorgangs. 
 Der Sammelvorgang soll ein Projekt in logische Phasen untergliedern und eine übersichtlichere Darstellung ermöglichen.
@@ -92,7 +92,7 @@ Der Sammelvorgang soll ein Projekt in logische Phasen untergliedern und eine üb
 
 *Abbildung 5: Projektinhalt*[^5]
 
-## 4.	Dauer: Vorgänge und Meilensteine festlegen
+### 4.	Dauer: Vorgänge und Meilensteine festlegen
 
 Die Dauer entspricht den Arbeitstagen und wird für ein Intervall abgeschätzt und im Projektverlauf fortgeschrieben. 
 Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung eines Sammelvorgangs / Zwischenstandes verwendet werden.
@@ -101,7 +101,7 @@ Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung 
 
 *Abbildung 6: Dauer*[^5]
 
-## 5.	Abhängigkeiten durch Vorgangsverknüpfungen
+### 5.	Abhängigkeiten durch Vorgangsverknüpfungen
 
 Wenn Vorgänge und Meilensteine gesetzt sind, folgen über Verknüpfungen inhaltlich, logische Beziehungen, die nicht unbedingt chronologisch abgebildet werden müssen.Neben der Ende-Anfang-Beziehung (kurz: EA) kann der User drei weitere Beziehungsarten wählen (EE, AE, AA).
 Falls Verzögerungen/Beschleunigungen erfasst werden müssen, kann dies über die Angabe von Tagen mit einem Plus/Minus Zeichen angepasst werden. Die hierfür verwendeten Spalten lauten Vorgänger/Nachfolger.
@@ -110,7 +110,7 @@ Falls Verzögerungen/Beschleunigungen erfasst werden müssen, kann dies über di
 
 *Abbildung 7: Verknüpfungen*[^5]
 
-## 6.	Aufwand der Vorgänge festlegen
+### 6.	Aufwand der Vorgänge festlegen
 
 Für die Aufwandsplanung wird die Spalte „Arbeit“ verwendet und die eingegebene Zahl in Stunden berechnet. 
 Hier wird die Summe der Arbeitsstunden geplant, die die Ressource für diesen Vorgang zu leisten hat. 
@@ -119,7 +119,7 @@ Hier wird die Summe der Arbeitsstunden geplant, die die Ressource für diesen Vo
 
 *Abbildung 8: Aufwand*[^5]
 
-## 7.	Ressourcen anlegen und verwalten
+### 7.	Ressourcen anlegen und verwalten
 
 Nach der Aufwandsschätzung werden Ressourcen auf Vorgänge verplant. Über „Ressource: Tabelle“ werden im lokalen Ressourcenpool Ressourcen angelegt. 
 Ressourcen können als Material, Arbeit oder Kosten definiert sein. Im Ressourcenpool sollten daher klare Einheiten für die Errechnung der jeweiligen Ressourcen hinterlegt sein (Bsp.: Arbeit, Stundensatz).
@@ -129,7 +129,7 @@ Sind diese Schritte abgearbeitet können mittels einer Auswahlliste Ressourcen i
 
 *Abbildung 9: Ressourcen*[^5]
 
-## 8.	Stichtage für Rahmentermine setzen
+### 8.	Stichtage für Rahmentermine setzen
 
 
 Um Rahmentermine in einem Projekt abzustecken, werden Meilensteine oder Vorgänge zeitlich fixiert.
@@ -140,7 +140,7 @@ Es sollte ein gesunder Mix aus beiden Festlegungsmaßnahmen verwendet werden.
 
 *Abbildung 10: Stichtage*[^5]
 
-## 9.	Projektsammelvorgang über das Register „Format“ einblenden
+### 9.	Projektsammelvorgang über das Register „Format“ einblenden
 
 Diese Funktion dient zur Betrachtung des Projekts auf Projektebene. Somit können schnell und übersichtlich die essenziellsten Daten zusammengefasst eingeblendet werden. Der Anwender kann in dieser Ansicht lediglich den Namen des Projektes anpassen.
 
@@ -149,7 +149,7 @@ Diese Funktion dient zur Betrachtung des Projekts auf Projektebene. Somit könne
 *Abbildung 11: Projektsammelvorgang*[^5]
 
 
-## 10.	Basisplan über Register „Projekt“ festlegen
+### 10.	Basisplan über Register „Projekt“ festlegen
 
 Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein Basisplan, unter Register „Projekt“ mit dem „Befehl Basisplan“ festlegen, abgespeichert. Der Basisplan kann im späteren Verlauf nach dem Fortschreiben des Rahmenterminplans zum tabellarischen sowie visuellen Abgleich genutzt werden.
 
@@ -176,7 +176,7 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 * [Projektmanagement](Projektmanagement.md)
 * [Projektsteuerung](Projektsteuerung.md)
 * [Projektstart](Projektstart.md)
-* [Meilenstein](Meilenstein.md)
+* [Meilenstein](Meilensteine.md)
 
 # Weiterführende Literatur
 
