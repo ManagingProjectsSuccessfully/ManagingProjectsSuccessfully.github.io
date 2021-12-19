@@ -67,7 +67,7 @@ Takeo Higuchi beabsichtigt die Kreativitätstechnik auch in Zukunft weiterhin zu
 
 
 
-![Beispielabbildung](Ideen_Marathon/GrafikIM.png) [^7]
+![Beispielabbildung](Ideen_Marathon/Endlosschleife.png) [^7]
 
 *Selbsterstellte Grafik zur Visualierung des Prozesses*
 
