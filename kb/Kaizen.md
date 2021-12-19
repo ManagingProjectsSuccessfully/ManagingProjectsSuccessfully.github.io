@@ -5,100 +5,42 @@ author: tkessler94
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Kaizen um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Kaizen[1]
+Begriffserläuterung:
+Japanisch
+Kai : „Wandel, Änderung“
+Zen : „Gut“
+## Historische Einordnung
+Mit der Niederlage Japans im zweiten Weltkrieg lag die dort ansässige Wirtschaft am Boden. Diese war nicht nur durch die naturgegebene Ressourcenarmut, sondern auch aufgrund fehlender qualitativer Standards kurz davor, als Wirtschafsstandort nachhaltig an Wichtigkeit zu verlieren.
+Um diesem Trend entgegenzuwirken und weil die von den Japanern hergestellten Funkgeräte für die Besatzungsmacht USA qualitativ minderwertig waren, wurde Anfang der fünfziger Jahre der Qualitätsspezialist W. Edwards Deming eingeladen, einen Vortrag vor den Führungskräften 21 verschiedener Branchen zu halten. Dieser präsentierte unter anderem den PCDA-Zyklus.
+## Ausführung
+Dieses Frameworks fand stetig wachsende Anwendung der japanischen Unternehmen, um den meisten Wert aus den in den Unternehmen teilnehmenden Parteien zu ziehen, in dem man die Mitsprache und Entscheidungsfindung demokratisierte.
+Dabei wurde der Imperativ gesetzt, dass jeder Mitarbeiter, egal welchem Rang in der organisationalen Hierarchie befindlich, Verbesserungsvorschläge für alltäglich-ausgeführte Arbeitsschritte und Arbeitsumgebung äußern soll, die in kleinen Schritten implementiert werden und den gesamtbetrieblichen Wertschöpfungsablauf verbessert.
+Das hat zur Folge, dass Verbesserungen in einer hohen Granularität und Autonomie angewandt werden, ohne dass hohe Innovationskosten aufgebracht werden müssen oder es zu „Roll-Back“-Ereignissen kommt.
+## Ausblick
+Kai Zen wird oft als Enabler für das moderne Lean Management angesehen, da die dort angewandte Verantwortungs-Delegierung das hinreichende Empowerment der Angestellten für ad-hoc Verbesserungen überhaupt erst ermöglicht.
+## Bekannte Beispiele
+Als die populärste Erfolgsgeschichte des Kai Zen ist das [Toyota Produktionssystem](Toyota_Produktionssystem.md):
+Toyota diversifizierte die den Fertigungstechnikern zur Verfügung gestellten Produktionsmittel und ordnete diese so an, dass Anpassungen auf Kundenwünsche oder im Modus Operandi der Produktionshallen zu geringerem oder keinem Zeitverlust verwendet werden konnten. 
+##Voraussetzungen und Ausführung
+Dies setze ein höheres Maß an Verantwortungsbewusstsein der Angestellten, sowie ein stärkeres Vertrauen durch Vorgesetzte voraus. Das führte zu schnellerer Produktion, geringeren Qualitätsmängel, die Ermöglichung von Just in Time – Supply und anderen namhaften Fortschritten. Dieses Vertrauen zahlte sich aus und skalierte über die letzten 90 Jahre in nahezu jede Industrielle Produktionsstätte weltweit, zwar nicht „offiziell“ im Wording des Kai Zen, doch „JIT“ und Lean-Management sind zwei Überthemen, an denen kein modernes Unternehmen vorbeikommt.
+Ein Weg Kai Zen umzusetzen, werden drei bis fünf- tägige Workshops aufgesetzt, bei denen die Beteiligten einer Verbesserung konsolidiert werden und eine Umsetzung entwickeln.
+Hierbei wird oft der Plan-Do-Check-Act Zyklus angewandt. Das bedeutet, eine Annomalie/Abweichung von einem gewünschten Verhalten wird gefunden, der Verbesserungsvorschlag geplant, ausgeführt, die Wirksamkeit geprüft und dann als neuer Standart ausgeführt.
+![PCDA](https://user-images.githubusercontent.com/26525855/143312874-cbd66d04-55f0-4f04-a84c-4a756ce15d1d.PNG)[^2] Seite 38
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Damit Projektleiter oder Stakeholder eventuelle Verbesserungspotentiale erkennen können, gibt es den sogenannten [Obeya-Raum](Obeya_Raum.md)
+Dieser Beinhaltet KPIs und ähnliche Metriken, die es ermöglichen gezielte Audits in underperformenden Teilen zu auszuführen und dort punktuell Hilfestellung zu gewährleisten.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Kaizen/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kaizen.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
+# Verwandte Artikel
+* [Anforderungsmanagement](Anforderungsmanagement.md)
+* [Kaizen](Kaizen.md)
+* [Projektkommunikation](Projektkommunikation.md)
+* [Six Sigma](Six_Sigma.md)
+* [Stakeholdermanagement](Stakeholdermanagement.md)
+* [Top-Down-Planning](Top_Down_Planning.md)
+* [Voice of the Customer](Voice_of_the_Customer.md)
+* [Toyota Produktionssystem](Toyota_Produktionssystem.md)
+* [Obeya-Raum](Obeya_Raum.md)
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Kaizen](https://de.wikipedia.org/wiki/Kaizen)
+[^2]: [Kaizen, Lean Management und Digitalisierung] (https://link.springer.com/book/10.1007/978-3-658-32342-4)

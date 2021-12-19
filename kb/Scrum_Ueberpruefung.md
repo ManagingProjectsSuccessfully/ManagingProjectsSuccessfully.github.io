@@ -1,104 +1,64 @@
 ---
 title: Scrum_Ueberpruefung
-tags: agil klassisch
+tags: agil
 author: Steffi226
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Scrum_Ueberpruefung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Kurzbeschreibung: 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Scrum Überprüfung gehört neben der "Transparenz" und der "Anpassung" zu den drei Säulen der empirische Prozesssteuerung von Scrum.
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Die Scrum Theorie
+Scrum basiert auf der Theorie von Empirie und Lean Thinking. Das bedeutet, dass Wissen aus Erfahrung gewonnen wird und auf dieser Basis Entscheidungen getroffen werden.
+Scrum ist für Teams mit einer Größe von drei bis neun Entwicklern konzipiert, die zusammen über alle Fähigkeiten und Kenntnisse verfügen, um das vorgesehene Projekt zu erledigen oder solche Fähigkeiten zu erwerben. 
+Das Ziel von Scrum ist eine schnelle und kostengünstige Entwicklung hochwertiger Produkte.
+Zur Scrum Theorie gehören die drei Säulen "Transparenz", "Überprüfung" und "Anpassung".[^1][^2]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![image](/kb/Scrum_Ueberpruefung/Scrum_Ueberpruefung.png) [^3]
 
-![Beispielabbildung](Scrum_Ueberpruefung/test-file.jpg)
 
-*lustiges Testbild*
+# 2. Säule - Überprüfung 
+Überprüfung oder auch Inspection ist die zweite der drei Scrum Säulen. Sie umfasst das regelmäßige Prüfen aller Vorgehensweisen und Arbeitsergebnisse. Für die Überprüfung  schreibt Scrum die Ereignisse „Sprint Planning“, „Daily Scrum“, „Sprint Review“ und „Sprint-Retrospektive“ vor. 
+Im Sprint Planning fokussieren sich Überprüfung und Anpassung auf die Product-Backlog-Einträge, also auf den fachlichen Inhalt des kommenden Sprints. Im Daily Scrum hingegen stehen die Arbeitsergebnisse seit dem letzten Daily Scrum und die Prognose auf die bevorstehende Arbeit, also die aktive Umsetzung der zu erledigenden Arbeit im Vordergrund.
+Das Ergebnis des abgelaufenen Sprints steht im Sprint Review auf dem Prüfstand. Abhängig davon, wie viel der ursprünglich für den Sprint geplanten User Storys erfolgreich umgesetzt werden konnten, wird das Product Backlog einer Überprüfung und gegebenenfalls einer Anpassung unterzogen. [^4][^5]
 
-# Aspekt 2
+In der Sprint-Retrospektive hinterfragt sich das Entwicklungsteam kritisch selbst und erörtert, welche Abläufe oder Prozesse besonders gut abgelaufen sind, aber auch, was nicht optimal durchgeführt wurde und verbessert werden kann. 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Die gewonnen Erkenntnisse können beispielsweise folgende Fragen beantworten: [^4]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+* Ist man noch auf dem geplanten Kurs? 
+* Hat sich etwas an den Kundenwünschen oder Marktgegebenheiten geändert?
+* Ist die Zusammenarbeit effektiv?
+* Wo gibt es noch Aufklärungs- oder Änderungsbedarf?
 
-So kann man eine Tabelle erstellen:
+Die gefundenen Aspekte mit Optimierungsbedarf werden nach ihrer Wichtigkeit und/oder Dringlichkeit geordnet. Für die priorisierten Themen werden Verbesserungsvorschläge erarbeitet, deren Umsetzung dann für den folgenden Sprint eingeplant werden.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Die Überprüfung darf jedoch nicht zu oft stattfinden, da so die Gefahr besteht, die eigentliche Projektarbeit zu behindern. 
+Die Inspektionen müssen in einer Weise stattfinden, dass auch sie einen Mehrwert für die Projektarbeit darstellen.[^6]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Scrum_Ueberpruefung.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [SCRUM](SCRUM.md)
+* [Scrum_Transparenz](Scrum_Transparenz.md)
+* [Scrum_Anpassung](Scrum_Anpassung.md)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://de.wikipedia.org/wiki/Scrum
+[^2]: https://verovis.com/agiles-projektmanagement-mit-scrum/
+[^3]: https://verovis.com/agiles-projektmanagement-mit-scrum/
+[^4]: https://chaosverbesserer.de/blog/2019/09/23/die-drei-saeulen-von-scrum/
+[^5]: https://www.maxpert.de/de/profil/schulungsspektrum/scrum-methode-definitionen/530
+[^6]: https://www.der-scrum-master.com/der-scrum-leitfaden/transparenz-der-artefakte#scrum-theorie-anpassung-adaption
+
+
+
+
 

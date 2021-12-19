@@ -1,90 +1,50 @@
 ---
 title: Six_Sigma_Statistische_Versuchsplanung
-tags: agil klassisch
+tags: klassisch
 author: elainevmd
-anrechnung: k oder a
+anrechnung: k
 ---
+Die statistische Versuchsplanung ist Teil der Six Sigma Qualität Philosophie, welche mit Hilfe von mathematischen Methoden und wirtschaftlichen Kenngrößen Prozesse optimiert. Das Design of Experiment  (engl.: stat. Versuchsplanung) wirkt als Instrument um im Entwicklungs- und Optimierungsprozess Zeit und Ressourcen zu sparen.[^1]
 
-Kurzbeschreibung zu Six_Sigma_Statistische_Versuchsplanung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# 1.0 Six Sigma
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das Ziel von SIX SIGMA ist Prozesse zu optimieren und Null-Fehler-Lösungen anzustreben, dies wollen sie mit statistischen Mitteln, Daten und Fakten durch Betrachtung des kompletten Produktionsprozesses erzielen. Der Fokus liegt hierbei vor allem auf der Prozessteuerung und wie sich die Streuung vermindern lässt mit Hilfe des DMAIC-Zyklus.[^2]   
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+## 1.1 DMAIC-Zyklus
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Die Six Sigma Methode arbeitet mit dem DMAIC-Zyklus, dessen Abkürzung für Define, Measure, Analyze, Improve und Control stehen. Zu Deutsch: Beim ersten Schritt der Definition wird das genaue Problem definiert und im zweiten Schritt mit passenden Kenngrößen gemessen um heraus zu finden wie groß das jeweilige Problem ist. Bei der Analyse, dem dritten Schritt, werden die Kernursachen des Problems analysiert und wie man dieses lösen kann. Hierbei handelt es sich bereits um den vierten Schritt, dem verbessern. Im fünften und letzten Schritt geht es um die Kontrolle des Problems und deren Lösung und wie diese langfristig im Unternehmen verankert werden kann. Diese fünf Schritte werden wiederholt bis eine Reduktion der Fehlerquote statt findet und im Optimum eine Null-Fehler-Lösung gefunden wird.[^3]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+## 1.2 Vorteile von Six Sigma
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+1.	Kostensenkung
+2.	Qualitätssteigerung
+3.	Steigerung der Kundenzufriedenheit
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Der Prozess ist klar strukturiert und hilft die Prozesse im Unternehmen kontinuierlich zu verbessern und schafft so die Grundlage zur langfristigen Senkung der Kosten und Steigerung der Qualität. Daraus resultierend steigt die Kundenzufriedenheit, da die Kundenperspektive bei der Six Sigma Methode klar in den Fokus gesetzt wird, denn durch die Einführung konkreter Messgrößen können Kundenwünsche effizienter verstanden um umgesetzt werden.[^4]
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# 2.0 Statische Versuchsplanung
 
+Die stat. Versuchsplanung, auch Design of Experiment genannt, ist ein Analyseverfahren für Systeme und ein essenzieller Bestandteil von Six Sigma. Das Verfahren ist universell einsetzbar und kann sowohl zur Produkt- oder Prozessoptimierung angewendet werden. Der rote Faden bildet hierbei die Durchführung systematischer Versuchsreihen mit engem Praxisbezug und statistischen Hilfsmitteln.[^5]
 
-# Aspekt 1
+## 2.1 Statistische Versuchsplanung Vorgehen
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Es wird davon ausgegangen, dass in allen Versuchsergebnissen unvermeidbare Zufallsfehler vorhanden sind, welche von Anfang an berücksichtigt werden müssen um eine effizientere Datenanalyse entwickeln zu können. Dadurch sind die Wechselwirkungen von Einflussfaktoren leichter zu vergleichen und mathematisch zu beschreiben.[^6] Je mehr Einflussgrößen berücksichtigt werden, desto genauer und erfolgreicher ist das Verfahren.[^7]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+## 2.2 Schritte der stat. Versuchsplanung
 
-![Beispielabbildung](Six_Sigma_Statistische_Versuchsplanung/test-file.jpg)
+Zu den Phasen einer stat. Versuchsplanung gehören:[^8]
 
-*lustiges Testbild*
+1.	Auswahl geeigneten Variablen
+2.	Auswahl verlässlicher Messmethoden für diese Variablen
+3.	Berechnung des erforderlichen Versuchsumfanges für statistisch aussagekräftige Ergebnisse
+4.	Auswahl des Verfahrens für die Stichprobenerhebung
+5.	Identifizierung und – wenn möglich – Eliminierung von Störgrößen
+6.	Aufstellung des Versuchsplans
+7.	Versuchsdurchführung
+8.	Datenauswertung mit statistischer und grafischer Aufarbeitung
+9.	Wiederholungsversuch zur Bestätigung der Ergebnisse
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Voraussetzung ist es ein zuverlässiges System und Reproduzierbarkeit zu gewährleisten. Außerdem müssen die Messungen der Variablen und Kenngrößen so präzise wie möglich erfolgen. Es müssen passende Faktoren ausgewählt werden, welche die Parameter realistisch darstellen und einen möglichst breiten Bereich abdecken.[^9]
 
 # Siehe auch
 
@@ -97,8 +57,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Six Sigma - Statistische Versuchsplanung, abgerufen am 20.11.2021] (https://www.dirk-joedicke.de/statistische-versuchsplanung)
+[^2]: [Six Sigma, abgerufen am 20.11.2021](https://six-sigma.com/)
+[^3]: [Six Sigma, abgerufen am 20.11.2021](https://six-sigma.com/)
+[^4]: [Six Sigma, abgerufen am 20.11.2021](https://six-sigma.com/)
+[^5]: [Design of Experiments (DoE), abgerufen am 20.11.2021](https://six-sigma.com/lexikon/design-of-experiments-doe/)
+[^6]: [Six Sigma - Statistische Versuchsplanung, abgerufen am 20.11.2021] (https://www.dirk-joedicke.de/statistische-versuchsplanung)
+[^7]: [Design of Experiments (DoE), abgerufen am 20.11.2021](https://six-sigma.com/lexikon/design-of-experiments-doe/)
+[^8]: [Six Sigma - Statistische Versuchsplanung, abgerufen am 20.11.2021] (https://www.dirk-joedicke.de/statistische-versuchsplanung)
+[^9]: [Statistische Versuchsplanung (DoE), abgerufen am 20.11.2021](https://www.mt.com/de/de/home/applications/L1_AutoChem_Applications/L2_ReactionAnalysis/design-of-experiments-doe.html)
