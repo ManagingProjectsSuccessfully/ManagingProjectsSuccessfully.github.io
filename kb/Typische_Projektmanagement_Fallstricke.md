@@ -6,7 +6,7 @@ anrechnung: k
 ---
 # Typische Projektmanagement Fallstricke
 
-Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen Elementen wie: Zeit, Ressourcen und Menschen (siehe: [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ).Um ein erfolgreiches Projekt zu managen, müssen diese Elemente effektiv integriert und verwaltet werden. [^1]
+Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen Elementen wie: Zeit, Ressourcen und Menschen (siehe: [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ). Um ein erfolgreiches Projekt zu managen, müssen diese Elemente effektiv integriert und verwaltet werden. [^1]
 
 Aufgrund der Komplexität des Projektmanagements können sogenannte ,,Projektmanagement-Stolpersteine“ während des Prozesses auftreten. Auch wenn zu Beginn eines Projekts Optimismus herrscht, dass diesmal alles glatt laufen wird, kann man währenddessen überrascht werden, dass alles doch nicht nach Plan läuft.[^2]
 Im Folgenden werden die typischen Fallstricke des Projektmanagement dargestellt. Des Weiteren wird aufgezeigt wie man diese vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu erhöhen.
