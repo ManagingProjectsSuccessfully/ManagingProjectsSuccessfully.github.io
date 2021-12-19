@@ -15,7 +15,7 @@ Ken Schwaber und Jeff Sutherland haben Scrum entwickelt. Der Scrum-Guide wurde v
 
 Die wichtige Bedeutung von Scrum im agilen [Projektmanagement](Projektmanagement.md) ist unumstritten, so fallen die beiden Begriffe Scrum und agiles Projektmanagement häufig im gleichen Kontext. 
 Es ist also wenig überraschend, dass Scrum der beliebteste agile Ansatz im Projektmanagement ist[^2]. Bevor der konkrete Scrum_Guide beschrieben wird, soll ein allgemeiner 
-Überblick über Scrum gegeben werden. Was also genau ist Scrum. 
+Überblick über Scrum gegeben werden. Was also genau ist Scrum?
 
 Scrum ist ein Rahmenwerk, in dem Menschen komplexe, adaptive Probleme angehen und dabei produktiv und kreativ Produkte von größtmöglichem Wert liefern können.
 Scrum hilft Menschen, Teams und Organisationen adaptive Lösungen für komplexe Probleme zu schaffen. Die Scrumgründer haben den Scrum Guide geschrieben, um Scrum klar und 
