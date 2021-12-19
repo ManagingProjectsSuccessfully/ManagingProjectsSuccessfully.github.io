@@ -34,7 +34,7 @@ lösen[^1].
 ## Grundprinzip des Ideen-Marathons
 
 Zu Beginn des Artikels soll das Grundprinzip eines Ideen-Marathons kurz erläutert werden.
-Um einen Ideen-Marathon durchzuführen wird über einen bestimmten Zeitraum ein sogenanntes „Ideentagebuch“ geführt. Unter der Berücksichtigung von sieben Grundregeln wird jeden 
+Um einen Ideen-Marathon durchzuführen, wird über einen bestimmten Zeitraum ein sogenanntes „Ideentagebuch“ geführt. Unter der Berücksichtigung von sieben Grundregeln wird jeden 
 Tag mindestens eine Idee konzipiert und in besagtes Tagebuch geschrieben[^5].
 
 ## Regeln des Ideen-Marathons
@@ -45,9 +45,9 @@ Als zweite Regel folgt, dass jede Idee möglichst prägnant formuliert und verfa
 An dieser Stelle kann das bereits beschriebene Notizbuch genutzt werden.
 
 Die dritte Regel besagt, dass die Möglichkeit bestehen muss, dass zu jedem Zeitpunkt eine neue Idee in das Notizbuch geschrieben werden kann. 
-Die darauffolgende vierte Regel gibt an, dass sich die Ideen vervielfachen lassen indem man mit Freunden, Kollegen oder Familie über die Ideen spricht.  
+Die darauffolgende vierte Regel gibt an, dass sich die Ideen vervielfachen lassen, indem man mit Freunden, Kollegen oder Familie über die Ideen spricht.  
 
-An fünfter Stelle steht, dass beim Notieren einer Idee besten Falls das gleiche wiederkehrende Schema angewandt werden sollte. Dies kann sich beispielsweise auf ein 
+An fünfter Stelle steht, dass beim Notieren einer Idee bestenfalls das gleiche wiederkehrende Schema angewandt werden sollte. Dies kann sich beispielsweise auf ein 
 fortlaufendes Datum, die Kategorie der Idee, die Beschreibung der Idee sowie den Ideenstatus beziehen. 
 
 Die sechste Regel lautet, dass mit der Idee gearbeitet werden soll. Das bedeutet, dass an bestehende Ideen, Notizen sowie Erläuterungen und Skizzierungen angefügt werden sollen. 
