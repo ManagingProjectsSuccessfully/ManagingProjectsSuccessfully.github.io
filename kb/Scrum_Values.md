@@ -1,21 +1,23 @@
 ---
 title: Scrum_Values
-tags: agil 
+tags: agil Scrum Values Scrum
 author: Lukas1401
 anrechnung:  a
 ---
-Scrum ist ein Rahmenwerk aus Regeln, Prinzipien und Werte. Die Scrum Werte stellen einen wichtigen Bestandteil der Scrum Methode dar, denn bei Scrum geht es um mehr als nur um Regeln und Prinzipien. Diese Werte wurden nicht explizit als Teil von Scrum erfunden, aber dennoch geben sie der Arbeit, dem Verhalten und den Handlungen in Scrum eine Richtung vor. Alle Aktivitäten, die innerhalb von Scrum durchgeführt werden, sollen diese Werte verstärken und nicht schmälern oder untergraben. Nur so können ihre Vorteile realisiert werden[^1]. Diese Werte werden nun genauer erläutert. 
+[Scrum](SCRUM.md) ist ein Rahmenwerk aus [Regeln](Scrum_Rules.md), [Prinzipien](Scrum_Principles.md) und Werten. Die Scrum Werte stellen einen wichtigen Bestandteil der Scrum Methode dar, denn bei Scrum geht es um mehr als nur um Regeln und Prinzipien. Diese Werte wurden nicht explizit als Teil von Scrum erfunden, aber dennoch geben sie der Arbeit, dem Verhalten und den Handlungen in Scrum eine Richtung vor. Alle Aktivitäten, die innerhalb von Scrum durchgeführt werden, sollen diese Werte verstärken und nicht schmälern oder untergraben. Nur so können ihre Vorteile realisiert werden[^1].
 
-# 5 Scrum Values
+# Die Fünf Scrum Values
 
-Das Konzept definiert 5 verschiedene Werte, die für den Erfolg von großer Bedeutung sind. Diese sind Commitment, Fokus (Focus), Offenheit (Openness), Respekt (Respect) und Mut (Courage).
+Das Konzept definiert fünf verschiedene Werte, die für den Erfolg von großer Bedeutung sind. Diese sind Commitment (Hingabe), Fokus (Focus), Offenheit (Openness), Respekt (Respect) und Mut (Courage).
 
 
 ![ScrumValues](Scrum_Values/ScrumValues.png) [^2]
 
-## Commitment
+*Die fünf Werte von Scrum*
 
-Commitment im Kontext von Scrum bezeichnet die Hingabe, mit der eine Aufgabe erledigt wird und bezieht sich auf das Handeln und die Intensität des Einsatzes. Dabei geht es nicht um das Endergebnis, da dieses für komplexe Herausforderungen unter komplexen Umständen oft unsicher und unvorhersehbar ist. Unabhängig davon ist Commitment ein wichtiger Scrum-Wert, der das Verhalten der Akteure bestimmt.[^1]   
+## Hingabe
+
+Commitment im Kontext von [Scrum](SCRUM.md) bezeichnet die Hingabe, mit der eine Aufgabe erledigt wird und bezieht sich auf das Handeln und die Intensität des Einsatzes. Dabei geht es nicht um das Endergebnis, da dieses für komplexe Herausforderungen unter komplexen Umständen oft unsicher und unvorhersehbar ist. Unabhängig davon ist Commitment ein wichtiger Scrum-Wert, der das Verhalten der Akteure bestimmt.[^1]   
 
 Nachfolgend ein paar Beispiele:
 
@@ -31,7 +33,7 @@ Unter dem Wert Fokus ist in erster Linie die Fokussierung auf die Erreichung des
 
 ## Offenheit
 
-Die Empirie von Scrum erfordert Transparenz, Offenheit und Ehrlichkeit. Der Erfolg agiler Arbeitsweisen basiert darauf, den gemeinsamen Arbeitsfortschritt transparent zu machen und regelmäßig aus den Ergebnissen zu lernen. Offenheit bedeutet, dass jedes Team-Mitglied seine Bedenken zu einem Vorgehen äußert oder eigene Schwierigkeiten offenlegt[^4].  
+Die Empirie von [Scrum](SCRUM.md) erfordert Transparenz, Offenheit und Ehrlichkeit. Der Erfolg agiler Arbeitsweisen basiert darauf, den gemeinsamen Arbeitsfortschritt transparent zu machen und regelmäßig aus den Ergebnissen zu lernen. Offenheit bedeutet, dass jedes Teammitglied seine Bedenken zu einem Vorgehen äußert oder eigene Schwierigkeiten offenlegt[^4].  
 
 Die Akteure sind offen für:
 
@@ -40,11 +42,11 @@ Die Akteure sind offen für:
 *	den Austausch von Feedback und das Lernen voneinander
 *	Veränderungen, da sich die Welt, in der sie tätig sind, unvorhersehbar, unerwartet und ständig verändert
 
-Der [Scrum-Master](Scrum_Master.md) kann diese Offenheit durch die Transparenz gegenüber seinem Team fördern, denn ehrliches Feedback in den täglichen Scrum-Meetings führt zu einer höheren Ehrlichkeit und Offenheit aller Teammitglieder[^3]
+Der [Scrum-Master](Scrum_Master.md) kann diese Offenheit durch die Transparenz gegenüber seinem Team fördern, denn ehrliches Feedback in den täglichen Scrum-Meetings führt zu einer höheren Ehrlichkeit und Offenheit aller Teammitglieder[^3].
 
 ## Respekt
 
-Gegenseitiger Respekt ist die Grundlage für eine effektive Zusammenarbeit bei der agilen Arbeit in einem Team. Respekt in Form von Wertschätzung, Verständnis und Rücksichtnahme bilden in gewisser Hinsicht das Fundament für die anderen Werte[^4]. Keine einzelne Person ist dabei wertvoller als eine andere, sondern Respekt bedeutet in diesem Kontext, das Vertrauen in die anderen Teammitgliedern bei deren Erfüllung ihrer Aufgaben, das Anhören und die Berücksichtigung ihrer Ideen, sowie die Anerkennung ihrer Leistungen.
+Gegenseitiger Respekt ist die Grundlage für eine effektive Zusammenarbeit bei der agilen Arbeit in einem Team. Respekt in Form von Wertschätzung, Verständnis und Rücksichtnahme bilden in gewisser Hinsicht das Fundament für die anderen Werte[^4]. Keine einzelne Person ist dabei wertvoller als eine andere, sondern Respekt bedeutet in diesem Kontext das Vertrauen in die anderen Teammitgliedern bei deren Erfüllung ihrer Aufgaben, das Anhören und die Berücksichtigung ihrer Ideen, sowie die Anerkennung ihrer Leistungen.
 
 ## Mut
 
@@ -54,11 +56,13 @@ Mut ist ein wichtiger Faktor bei der Bewältigung von komplexen Aufgaben in agil
 
 # Siehe auch
 
-* [Scrum_Master](Scrum_Master.md)
-* [Scrum_Principles](Scrum_Principles.md)
-* [Scrum_Rules](Scrum_Rules.md)
-* [Scrum_Transparenz](Scrum_Transparenz.md)
-* [Scrum_Artefakte](Scrum_Artefakte.md)
+* [Scrum Master](Scrum_Master.md)
+* [Scrum Principles](Scrum_Principles.md)
+* [Scrum Rules](Scrum_Rules.md)
+* [Scrum Transparenz](Scrum_Transparenz.md)
+* [Scrum Artefakte](Scrum_Artefakte.md)
+* [Scrum](SCRUM.md)
+* [Scrum Guide](Scrum_Guide.md)
 
 # Weiterführende Literatur
 
