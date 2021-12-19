@@ -136,7 +136,7 @@ Um Rahmentermine in einem Projekt abzustecken, werden Meilensteine oder Vorgäng
 Die Fixierung kann über Einschränkungen, hartes Terminziel, oder Stichtag, weiches Terminziel, erfolgen. 
 Es sollte ein gesunder Mix aus beiden Festlegungsmaßnahmen verwendet werden.
 
-![Beispielabbildung](Microsoft_Project_PM_Tool/Stichtage.jpeg)
+![Beispielabbildung](Microsoft_Project_PM_Tool/Stichtage_1.jpeg)
 
 *Abbildung 10: Stichtage*[^5]
 
