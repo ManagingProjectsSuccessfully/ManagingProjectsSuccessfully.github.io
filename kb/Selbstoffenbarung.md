@@ -59,11 +59,10 @@ Jedes Mitglied des Scrum-Teams entscheidet selbst, welche inneren Gedanken, Gef�
 
 # Weiterführende Literatur
 
-Mehr zu Selbstoffenbarung und Kommunikation im Projektmanagement:
-* [Kommunikation im Projektmanagement](https://link.springer.com/content/pdf/10.1007/978-3-658-13388-7.pdf)
-* [Konflikte](https://link.springer.com/chapter/10.1007/978-3-642-21243-7_22)
-* [Techniken für Klarheit und Verbindlichkeit](https://link.springer.com/chapter/10.1007/978-3-540-72051-5_11)
-* [Soft Skills in Agilen Projekten](http://www.richtigcito.com/mediapool/86/862555/data/Agiles_Projektmanagement_-_Soft_Skills.pdf)
+*	Freitag, M. (2016). [_Kommunikation im Projektmanagement_](https://link.springer.com/content/pdf/10.1007/978-3-658-13388-7.pdf). Springer VS. https://doi.org/10.1007/978-3-658-13388-7
+*	Kuster, J., Huber, E., Lippmann, R., Schmid, A., Schneider, E., Witschi, U. & Wüst, R. (2011). [_Konflikte_](https://link.springer.com/chapter/10.1007/978-3-642-21243-7_22). Handbuch Projektmanagement (S. 282–308). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-21243-7_22
+*	Körner, M. (2008). [_Techniken für Klarheit und Verbindlichkeit_](https://link.springer.com/chapter/10.1007/978-3-540-72051-5_11). In M. Körner (Hrsg.), Geschäftsprojekte zum Erfolg führen: Das neue Projektmanagement für Innovation und Veränderung im Unternehmen (S. 291–308). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-540-72051-5_11
+*	Höfer, A. (2021, 19. Dezember). [_Soft Skills in Agilen Projekten_](http://www.richtigcito.com/mediapool/86/862555/data/Agiles_Projektmanagement_-_Soft_Skills.pdf). http://richtigcito.com/training.html
 
 
 # Quellen
