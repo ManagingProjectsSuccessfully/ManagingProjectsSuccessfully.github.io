@@ -1,8 +1,8 @@
 ---
 title: Cynefin-Framework
-tags: agil 
+tags: klassisch
 author: 5SY5
-anrechnung: a
+anrechnung: k
 ---
 
 # Cynefin Framework
