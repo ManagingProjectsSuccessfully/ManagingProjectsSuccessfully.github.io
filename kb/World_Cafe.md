@@ -11,7 +11,7 @@ Bei dem World Café handelt es sich um eine kreative Methode des [Projektmanagem
 Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen hat unter anderem folgende Vorteile:
 * das Wissen Vieler wird vernetzt
 * kreatives und innovatives Denken wird gefördert
-* Interdisziplinärer Erfahrungstausch
+* interdisziplinärer Erfahrungstausch
 * Lösungen werden gemeinsam erarbeitet
 * das Team- und Zusammengehörigkeitsgefühl wird gestärkt
 * neue oder bestehende Beziehungen und Netzwerke werden aufgebaut oder vertieft[^4]
@@ -25,7 +25,7 @@ Bei der Planung müssen folgende Fragen geklärt werden:
 * Wer sind die Teilnehmer ?
 * Wie sollen die Teilnehmer in verschiedene Gruppen aufgeteilt werden ? 
 * Wer übernimmt die Moderation ?
-* Wie kann man eine zwangslose Atmosphäre schaffen, die informelle und kreative Gespräche hervorbringt[^5]
+* Wie kann man eine zwangslose Atmosphäre schaffen, die informelle und kreative Gespräche hervorbringt ?[^5]
 
 
 Zudem werden folgende Hilfsmittel benötigt:
