@@ -32,7 +32,7 @@ Laut dem offiziellen Scrum-Guide aus dem Jahr 2020 enthält der Guide folgende I
 
 *	Scrum-Theorie
 
-*	Scrum-Werte
+*	[Scrum-Werte](Scrum_Values.md)
 
 *	Scrum Team
 
@@ -82,7 +82,7 @@ Der Sprint Review hat das Ziel die Ergebnisse des Sprints zu bewerten, es wird a
 ### Die Sprint-Retrospektive
 
 Bei der Sprint-Retrospektive werden im Gegensatz zum Review nicht die Increments bewertet, sondern die Arbeitsatmosphäre des Scrum-Teams. Es wird nach möglichen Problemen und 
-Lösungen gesucht[7].
+Lösungen gesucht[^7].
 
 ### Scrum-Artefakte
 
@@ -115,7 +115,7 @@ Die [Scrum-Artefakte](Scrum_Artefakte.md) lauten Product Backlog, Sprint Backlog
 
 * [Scrum-Master](Scrum_Master.md)
 
-* (Projektmanagement)[Projektmanagement.md] 
+* [Projektmanagement](Projektmanagement.md) 
  
 
 # Weiterführende Literatur
