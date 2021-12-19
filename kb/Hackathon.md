@@ -84,6 +84,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 # Siehe auch
 
 * [Desing Thinking](Design_Thinking.md)
+* [Projekt](Projekt.md)
 
 # Weiterführende Literatur
 
