@@ -10,6 +10,10 @@ anrechnung: k
 ![ClickUp_Logo](ClickUp_PM_Tool/logo.png)
 # Das Unternehmen
 
+ClickUp wurde im März 2017 gegründet und einige Monate später wurde das Headquarter in San Diego aufgebaut. Das junge Unternehmen hatte sich als Ziel gesetzt die
+Produktivität auf der Welt zu fördern. Hierbei wurden sie gestört durch die Nutzung von zu vielen anderen Tools, die keine Bindung zueinander haben. 
+Somit sollte eine Plattform errichtet werden, die alle wichtigen Funktionen zu einer Anwendung vereinen. Auf der Homepage werden die Core Values, somit die
+wichtigsten Werte des Unternehmens gezeigt. Harte Arbeit, ständiges Wachstum aber auch Spaß haben und einige weitere Werte sind dem Unternehmen besonders Wichtig.[^7]
 
 
 # Das Tool
