@@ -5,7 +5,7 @@ author: larissadiscua
 anrechnung: k
 ---
 
-Bei dem World Café handelt es sich um eine kreative Methode des [Projektmanagements](Projektmanagement.md). Es ist eine interaktive Alternative zu Konferenzen und Seminaren und bietet eine zwanglose Atmosphäre, die Teilnehmer*innen zu Diskussionen, welche alltäglichen Gesprächen in einem Café ähneln sollen, anregt.[^1] Dabei soll der Austausch von verschiedenen Gedanken und Ideen zu komplexen Themen dazu führen, dass neue Sichtweisen entstehen und Probleme aus vielen verschiedenen Perspektiven betrachtet werden können.[^2]  So können neben offensichtlichen Lösungsansätzen auch unkonventionelle Lösungen und Vorgehensweisen zu verschiedenen [Projekten](Projekt.md) erörtert werden.[^1]
+Bei dem World Café handelt es sich um eine kreative Methode des [Projektmanagements](Projektmanagement.md). Es ist eine interaktive Alternative zu Konferenzen und Seminaren und bietet eine zwanglose Atmosphäre, die Teilnehmende zu Diskussionen, welche alltäglichen Gesprächen in einem Café ähneln sollen, anregt.[^1] Dabei soll der Austausch von verschiedenen Gedanken und Ideen zu komplexen Themen dazu führen, dass neue Sichtweisen entstehen und Probleme aus vielen verschiedenen Perspektiven betrachtet werden können.[^2]  So können neben offensichtlichen Lösungsansätzen auch unkonventionelle Lösungen und Vorgehensweisen zu verschiedenen [Projekten](Projekt.md) erörtert werden.[^1]
 
 # Vorteile
 Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen hat unter anderem folgende Vorteile:
@@ -22,8 +22,8 @@ Bei der Planung müssen folgende Fragen geklärt werden:
 * Welchen Nutzen hat das World Café ?
 * Was ist das Kernthema ?
 * Welche Fragen sollen diskutiert werden ?
-* Wer sind die Teilnehmer ?
-* Wie sollen die Teilnehmer in verschiedene Gruppen aufgeteilt werden ? 
+* Wer sind die Teilnehmenden ?
+* Wie sollen die Teilnehmenden in verschiedene Gruppen aufgeteilt werden ? 
 * Wer übernimmt die Moderation ?
 * Wie kann man eine zwangslose Atmosphäre schaffen, die informelle und kreative Gespräche hervorbringt ?[^5]
 
@@ -36,16 +36,16 @@ Zudem werden folgende Hilfsmittel benötigt:
 
 # Ablauf
 
-Die Moderation begrüßt die Teilnehmer zum World Café und erklärt ihnen den genauen Ablauf. Themen und Fragestellungen werden präsentiert, wobei es sich um eine, aber auch um mehrere Fragen, die aufeinander aufbauen, handeln kann.[^7] 
+Die Moderation begrüßt die Teilnehmenden zum World Café und erklärt ihnen den genauen Ablauf. Themen und Fragestellungen werden präsentiert, wobei es sich um eine, aber auch um mehrere Fragen, die aufeinander aufbauen, handeln kann.[^7] 
 
 Danach wird die Etikette vorgestellt.
-Von allen Teilnehmern wird erwartet, dass sie stets höflich zueinander sind, sich gegenseitig zuhören und aussprechen lassen. Es ist wichtig, dass jeder seine eigenen Ansichten vorträgt und auch auf andere eingeht, um unterschiedliche Sichtweisen zu diskutieren, aufeinander aufzubauen oder auch um mehrere Ideen zu verbinden.[^7]
+Von allen Teilnehmenden wird erwartet, dass sie stets höflich zueinander sind, sich gegenseitig zuhören und aussprechen lassen. Es ist wichtig, dass jeder seine eigenen Ansichten vorträgt und auch auf andere eingeht, um unterschiedliche Sichtweisen zu diskutieren, aufeinander aufzubauen oder auch um mehrere Ideen zu verbinden.[^7]
 
-Pro Tisch gibt es einen Gastgeber und vier bis fünf Teilnehmer, die sich ca. 20-30 Minuten mit einer Frage beschäftigen, bevor alle, außer der Gastgeber, den Tisch wechseln und eine neue Diskussion starten. Hierbei werden die Gruppen nach jeder Runde durchgemischt, sodass es nicht bei derselben Gruppenkonstellation bleibt. Zu Beginn einer neuen Diskussionsrunde werden die bereits gesammelten Ideen aus der vorherigen Runde kurz zusammengefasst. Während jeder Runde ist es ausdrücklich erwünscht, dass die Teilnehmer während ihren Diskussionen beispielsweise Stichpunkte, Tabellen oder Skizzen auf der Tischdeckecke niederschreiben, wobei deren Kreativität keine Grenzen gesetzt sind.[^7]
+Pro Tisch gibt es einen Gastgebenden und vier bis fünf Teilnehmende, die sich ca. 20-30 Minuten mit einer Frage beschäftigen, bevor alle, außer der Gastgebende, den Tisch wechseln und eine neue Diskussion starten. Hierbei werden die Gruppen nach jeder Runde durchgemischt, sodass es nicht bei derselben Gruppenkonstellation bleibt. Zu Beginn einer neuen Diskussionsrunde werden die bereits gesammelten Ideen aus der vorherigen Runde kurz zusammengefasst. Während jeder Runde ist es ausdrücklich erwünscht, dass die Teilnehmenden während ihren Diskussionen beispielsweise Stichpunkte, Tabellen oder Skizzen auf der Tischdeckecke niederschreiben, wobei deren Kreativität keine Grenzen gesetzt sind.[^7]
 
 Zum Abschluss werden alle gesammelten Ideen und Ergebnisse der einzelnen Tische kurz im Plenum zusammengefasst, wobei eine visuelle Hilfe, wie etwa das Aufhängen der Papiertischdecken, hilfreich sein kann. Diese endgültige Zusammenfassung hilft dabei, Muster aus den Diskussionen zu erkennen und Lösungsmöglichkeiten zu skizzieren.[^7]
 
-Die zuvor genannte Vorgehensweise ist flexibel anpassbar und Komponenten, wie etwa Dauer oder Teilnehmerzahl können nach Bedarf verändert werden. Das Wichtigste am World Café sind Kontakt und Austausch unter den Teilnehmern.[^7]
+Die zuvor genannte Vorgehensweise ist flexibel anpassbar und Komponenten, wie etwa Dauer oder Anzahl der Teilnehmenden können nach Bedarf verändert werden. Das Wichtigste am World Café sind Kontakt und Austausch unter den Teilnehmemdenen.[^7]
 
 
 ![Ablauf](World_Cafe/image.jpeg)
