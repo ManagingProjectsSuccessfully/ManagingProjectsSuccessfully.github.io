@@ -96,6 +96,10 @@ Die [Scrum-Artefakte](Scrum_Artefakte.md) lauten Product Backlog, Sprint Backlog
 
 *Visualisierung des Scrum-Prozesses*
 
+In der Grafik "Scrum Process" wird der Ablauf verdeutlicht. Der Prozess beginnt mit dem Sprint Backlog, gefolt von Planning, Implementation und Review.
+
+Anschließend finden das Retrospect sowie die Defintion of Done statt.  
+
 
 
 # Siehe auch
