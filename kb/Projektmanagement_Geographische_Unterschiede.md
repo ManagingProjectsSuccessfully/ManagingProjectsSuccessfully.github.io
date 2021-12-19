@@ -6,7 +6,7 @@ anrechnung: k
 ---
 # Geographische Unterschiede im Projektmanagement
 
-Die weltweit unterschiedliche Planung und Durchführung von [Projekten](docs.Projekt.md) resultiert häufig aus den verschiedenen kulturellen Gepflogenheiten der einzelnen Länder und Kulturen. Das [Project Management Institute](docs.PMI_Institution.md) definierte den Begriff Kultur: „Culture is the totality of socially transmitted behavior patterns, arts, beliefs, institutions and all other products of human work and thought”[^1]. Folglich handelt es sich um innere Wert, die wir von klein auf von unserem sozialen Umfeld vermittelt bekommen haben und die Einfluss auf unser tägliches Handeln und Denken haben[^2]. Die kulturelle Herkunft sorgt daher für eine unterschiedliche Herangehensweise im [Projektmanagement](docs.Projektmanagement.md). 
+Die weltweit unterschiedliche Planung und Durchführung von [Projekten](docs.Projekt.md) resultiert häufig aus den verschiedenen kulturellen Gepflogenheiten der einzelnen Länder und Kulturen. Das [Project Management Institute](docs.PMI_Institution.md) definierte den Begriff [Kultur](docs.Projektteam_Kultur.md): „Culture is the totality of socially transmitted behavior patterns, arts, beliefs, institutions and all other products of human work and thought”[^1]. Folglich handelt es sich um innere Wert, die wir von klein auf von unserem sozialen Umfeld vermittelt bekommen haben und die Einfluss auf unser tägliches Handeln und Denken haben[^2]. Die kulturelle Herkunft sorgt daher für eine unterschiedliche Herangehensweise im [Projektmanagement](docs.Projektmanagement.md). 
 Nachfolgend werden verschiedene kulturelle Aspekte betrachtet, die einen Einfluss auf die geographischen Unterschiede im Projektmanagement haben. 
 
 # Geograhische Unterschiede
@@ -20,12 +20,12 @@ Grafik: Kulturdimensionen nach Hofstede[^5]:
 
 ![Beispielabbildung](Projektmanagement_Geographische_Unterschiede/kulturdimensionen-nach-hofstede.jpg) 
 
-Die Grafik zeigt die verschiedenen Kulturdimensionen nach Hofstede
+Die Grafik zeigt die verschiedenen Kulturdimensionen nach Hofstede.
 
 
 ## Kommunikation
 
-Neben verschiedenen Führungsstilen gibt es auch hinsichtlich der Kommunikation in Projektteams geographische Unterschiede. Im Deutschen Arbeitsalltag versucht man Probleme und Konflikte in Projekten durch ein offenes Gespräch zu lösen, gleichzeitig hat die schriftliche Kommunikation in Form der E-Mail einen sehr hohen Stellenwert [^2]. Dabei werden nicht eingehaltene Fristen häufig durch eine Erinnerungsmail adressiert. In asiatischen Ländern würde dieses Verhalten als Beleidigung aufgefasst werden, da die Harmonie am Arbeitsplatz in diesen Kulturen einen sehr hohen Stellenwert genießt [^2]. Häufig werden Probleme dann durch eine „Entschuldigungskultur“ oder durch Dritte gelöst, aber auch Ignorieren und Schweigen ist in diesen Kulturen nicht unüblich [^2][^4].  Folglich zeichnen sich asiatische Kulturen häufig durch eine indirekte Kommunikation aus, während sich die deutsche Kultur durch eine direkte Kommunikation auszeichnet. 
+Neben verschiedenen Führungsstilen gibt es auch hinsichtlich der [Kommunikation](docs.Digitale_Kommunikation.md) in Projektteams geographische Unterschiede. Im Deutschen Arbeitsalltag versucht man Probleme und Konflikte in Projekten durch ein offenes Gespräch zu lösen, gleichzeitig hat die schriftliche Kommunikation in Form der E-Mail einen sehr hohen Stellenwert [^2]. Dabei werden nicht eingehaltene Fristen häufig durch eine Erinnerungsmail adressiert. In asiatischen Ländern würde dieses Verhalten als Beleidigung aufgefasst werden, da die Harmonie am Arbeitsplatz in diesen Kulturen einen sehr hohen Stellenwert genießt [^2]. Häufig werden Probleme dann durch eine „Entschuldigungskultur“ oder durch Dritte gelöst, aber auch Ignorieren und Schweigen ist in diesen Kulturen nicht unüblich [^2][^4].  Folglich zeichnen sich asiatische Kulturen häufig durch eine indirekte Kommunikation aus, während sich die deutsche Kultur durch eine direkte Kommunikation auszeichnet. 
 
 ## Ich und Wir - Kulturen
 
@@ -51,9 +51,11 @@ Neben den genannten Aspekten gibt es auch geographische Unterschiede in der Gest
 
 * [Projekten](docs.Projekt.md)
 * [Project Management Institute](docs.PMI_Institution.md)
+* [Kultur](docs.Projektteam_Kultur.md)
 * [Projektmanagement](docs.Projektmanagement.md)
 * [Projektmitarbeiter](docs.Projektmitarbeiter.md) 
 * [Projektleiter](docs.Projektleiter.md)
+* [Kommunikation](docs.Digitale_Kommunikation.md)
 
 # Weiterführende Literatur
 
