@@ -1,6 +1,6 @@
 ---
 title: Projektcontrolling
-tags: klassisch projektmanagement meilenstein
+tags: klassisch projektmanagement projektcontrolling projektsteuerung projektplanung meilenstein projekt
 author: hake1110
 anrechnung: k
 ---
