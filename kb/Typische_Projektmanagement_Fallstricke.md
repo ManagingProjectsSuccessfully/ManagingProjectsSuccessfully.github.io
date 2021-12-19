@@ -14,9 +14,9 @@ Im Folgenden werden die typischen Fallstricke des Projektmanagement dargestellt.
 
 # 1.Das Fehlen eines konkreten Projektplans und somit eines Ziels
 
-Ohne klar definierte Ziele wird die Führung eines erfolgreichen Projektmanagement-Teams fast unmöglich, was automatisch zum Scheitern oder zu einem sehr hohen Budget führen kann[^1]. Das Team weiß nicht, woran man sich leiten muss und was die anstehenden Pläne sind. Es ist schwer erkennbar, welche Person wofür zuständig ist und wie hoch das erforderliche und verfügbare Budget ist. Auch die Zeitanforderungen sind unklar.
+Ohne klar definierte Ziele wird die Führung eines erfolgreichen Projektmanagement-Teams fast unmöglich, was automatisch zum Scheitern oder zu einem sehr hohen Budget führen kann[^1]. Das Team weiß nicht, woran man sich orientieren muss und was die anstehenden Pläne sind. Es ist schwer erkennbar, welche Person wofür zuständig ist und wie hoch das erforderliche und verfügbare Budget ist. Auch die Zeitanforderungen sind unklar.
 ## Lösung: 
-Ein Projektplan-ein formelles Dokument, in dem alle Entscheidungen und Schritte mit einem Projektziel und anderen relevanten Informationen enthalten sind, ausführlich beschrieben werden, klar und eindeutig definiert werden [^2]. 
+Ein Projektplan ist ein formelles Dokument, in welchem alle Entscheidungen und Schritte eines Projektziels, sowie andere relevanten Informationen ausführlich beschrieben und eindeutig definiert sind [^2]. 
 
 
 
