@@ -17,14 +17,14 @@ Das Pareto Prinzip besagt, dass bereits mit einem minimalen Aufwand ein halbwegs
    2. Vergleich der Zeitersparnis mit der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
 
 
-### 1. Ursprung des Pareto-Prinzips:
+### 1. Ursprung des Pareto-Prinzips
 
 Die Einkommensschere ist bereits seit Jahrhunderten von großer gesellschaftlicher Bedeutung - insbesondere in der Politik. Es wird häufig betont, dass die Armen immer ärmer und die Reichen immer reicher werden. Die Diskrepanz zwischen Arm und Reich scheint tatsächlich immer größer zu werden und durch die Coronavirus-Krise hat sich die Gesamtsituation noch weiter zugespitzt.[^3]
 
 Vilfredo Pareto war ein italienischer Ökonom, welcher bereits im 19. Jahrhundert die Unterschiede im Vermögen der Population analysiert hat. Das Ergebnis seiner Analyse war, dass etwa 80% des Gesamtvermögens im Besitz von nur 20% der Bevölkerung sei. Die Ungleichverteilung des Vermögens war somit enorm, wenn man die zwei genannten Prozentzahlen in Betracht zieht. 
 Es stellte sich jedoch ebenso heraus, dass die eben genannte Aufteilung nicht nur auf die Verteilung des Vermögens zutrifft. In vielen Lebenssituation ist Vilfredo Paretos 80/20-Regel genauso übereinstimmend.[^4] 
 
-#### Beispielhafte Situationen, in denen die 80/20-Regel zutrifft:[^2]
+#### Beispielhafte Situationen, in denen die 80/20-Regel zutrifft[^2]
 
 | 20% Aufwand   | 80% Ergebnis  | 
 | ------------- | ------------- |
@@ -33,7 +33,7 @@ Es stellte sich jedoch ebenso heraus, dass die eben genannte Aufteilung nicht nu
 |  Mitarbeiter  |   Fehltage    |
 
 
-### 2. Bedeutung des Pareto-Prinzips:
+### 2. Bedeutung des Pareto-Prinzips
 
 Das Pareto-Prinzip wird aufgrund des zuvor erklärten Ursprungs auch gerne auch als "80/20-Prinzip" bezeichnet. Bei den zwei gegebenen Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand sowie das letzliche Endergebnis darstellen sollen. Mit einem Aufwand von etwa 20 Prozent kann demnach ein Endergebnis erzielt werden, das zu circa 80 % vollständig ist.[^1]
 
@@ -43,6 +43,12 @@ Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereit
 ### Statistische Darstellung der [Pareto-Verteilung]
 
 Die Pareto-Verteilung zeichnet sich dadurch aus, dass sie auf der rechten Seite ins Unendliche verläuft. Zudem handelt es sich bei der Verteilung um positive Werte, die sich über verschiedene Dimensionen entlangziehen. Dies erklärt auch weshalb die Verteilung nach recht hin ins positiv verläuft.[^11]
+
+Die folgende [Abbildung](https://de.wikipedia.org/wiki/Pareto-Verteilung) zeigt eine beisppielhaft zeigt eine beispielhafte Pareto-Verteilung auf.
+
+Die Grafik zeigt die Anzahl der Einwohner in deutschen Städten auf. Man erkennt klar, dass bereits in sehr wenige Städte alleine ein sehr großer Teil der Gesamtbevölkerung lebt. Es gibt dementsprechend sehr viele kleinerer Städte mit nur sehr wenigen Einwohnern.[^11]
+
+
 
 ### 3. Zeitmanagement 
 #### 3.i. Zeitersparnis durch die Anwendung des Pareto-Prinzips:
