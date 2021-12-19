@@ -5,7 +5,7 @@ author: verenaschuebel
 anrechnung: k 
 ---
 
-Change-Projekte, im Deutschen auch Veränderungsprojekte genannt, werden durch das sogenannte [Change Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md) abgewickelt.
+Change Projekte, im Deutschen auch Veränderungsprojekte genannt, werden durch das sogenannte [Change Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md) abgewickelt.
 
 Um den Begriff Change Projekte zu erklären, muss im Folgenden zunächst der Begriff [Change Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md) erläutert werden:
 [Change Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md) ist die Vorbereitung, Analyse, Planung, Realisierung, Evaluierung und laufende Weiterentwicklung von ganzheitlichen Veränderungsmaßnahmen mit dem Ziel, in Unternehmen von einem bestimmten Ist-Zustand zu einem erwünschten Soll-Zustand weiterzuentwickeln und so die Effizienz und Effektivität aller [Unternehmensaktivitäten nachhaltig zu steigern](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Entwicklung.md). [^1]
