@@ -21,6 +21,7 @@ verändert.[^1]
 
 ## Die drei Grundsätze von Circular Economy
 
+Laut der Ellen MCarthur Stiftung bezieht sich die Circular Economy immer auf folgende drei Grundsätze:
 
 ### 1. Die Schonung der Ressourcen
 
@@ -39,12 +40,12 @@ Wiederaufbereitung der verwendeten Produkte und Materialien.[^1]
 Die Regeneration vom Ökosystem ist ein fundamentaler Ansatz und deutet darauf hin bewusstes Recyclen anzuwenden, um so dem Ökosystem etwas zurück zugeben. Heißt: Die Ressourcen sind begrenzt und ein stäniges nehmen wird den Zustand verschlimmern.[^2]
 
 
-## Denkansätze zur Circular Economy
+## Konzepte des Circular Economy
 
 Es gibt verscheidene Defintionen bzw. beschriebungen der Kreislaufwirtschaft, dies liegt an dem unterschiedlichen Verständnis und der unterschiedlichen Wahrnehmung durch 
 verschiedene Forscher. Das Konzept der Kreislaufwirtschaft lässt sich daher nicht genau nur einem Forscher zuordnen, sondern eher einigen Denkrichtungen. Tatsächlich leitet sich 
 das Konzept der Kreislaufwirtschaft von anderen Konzepten ab, wie zum Beispiel: Perfomance Economy, Öko-industrille Entwicklung, Regenerative Gestaltung, usw. Im Folgenden 
-werden diese Denkschulen zur Kreislaufwirtschaft zusammengefasst, die von den Mitgliedern der Ellen MacArthur Foundation gelehrt wurden.
+werden diese Denkschulen zur Kreislaufwirtschaft zusammengefasst, die von den Mitgliedern der Ellen MacArthur Foundation gelehrt wurden.[^7]
 
 ### 1. Performance Economy
 
@@ -88,7 +89,12 @@ Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürliche
 
 ## Anwendung im Projektmanagement
 
-
+Bei der Umsetzung einer nachhaltigen Strategie, entsteht ein ["Change"](Change_Management.md) für die Organisation und das ganze Unternehmen. Insbesondere bei der Umstellung in 
+Circular Economy, hierbei wird nicht nur ein umdenken gefordert sondern, auch eine neue Umsetzung der bisherigen Unternehmensstrategien. Es bietet sich an, agile 
+Projektmanagement Methoden anzuwenden z.B. [PRINCE2](PRINCE.md2) oder [Scrum](Scrum.md), da eine hohe Veränderung mit einhergeht und damit eine satbilere Herangehensweise 
+geboten wird. Bei der Umsetzung wird zunächst analysiert, welche Optionen den größten Mehrwert dem eigenen Unternehmen bringt und basierend darauf werden die ersten Usmetungen 
+durchgefürht. Währenddessen sollte die Projektlandschaft überprüft werden, damit Klarheit über die Effizienz der Strategie entsteht. Der wichtigste Faktor eines [nachhaltigen 
+Projektmanagement](Nachhaltigkeit_im_PM.md)ist [Change Mangement](Change_Management.md).
 
 ## Vorteile einer Kreislaufwirtschaft
 
@@ -100,6 +106,8 @@ Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürliche
 * Förderung der Innovation und Wachstum 
 * Image Aufbesserung des Unternehmens[^5]
 
+## Fazit
+
 
 # Siehe auch
 
@@ -109,6 +117,9 @@ Die Absicht dieses Wirtschaftsmodells ist die effiziente Nutzung der natürliche
 * [Risikobewertung von Umweltrisiken](Risikobewertung_von_Umweltrisiken.md)
 * [Projektmanagement für die Energiewende](Projektmanagement_fuer_die_Energiewende.md)
 * [Nachhaltige Entwicklung](Nachhaltige_Entwicklung.md)
+* [Change Management](Change_Mangagemetn.md)
+* [Prince2](PRINCE2.md)
+* [Scrum](Scrum.md)
 
 
 # Weiterführende Literatur
