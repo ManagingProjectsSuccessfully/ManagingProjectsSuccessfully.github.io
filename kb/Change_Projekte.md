@@ -8,7 +8,7 @@ anrechnung: k
 Change-Projekte, im Deutschen auch Veränderungsprojekte genannt, werden durch das sogenannte [Change Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md) abgewickelt.
 
 Um den Begriff Change Projekte zu erklären, muss im Folgenden zunächst der Begriff Change Management erläutert werden:
-Change Management ist die Vorbereitung, Analyse, Planung, Realisierung, Evaluierung und laufende Weiterentwicklung von ganzheitlichen Veränderungsmaßnahmen mit dem Ziel, in Unternehmen von einem bestimmten Ist-Zustand zu einem erwünschten Soll-Zustand weiterzuentwickeln und so die Effizienz und Effektivität aller Unternehmensaktivitäten [nachhaltig](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Entwicklung.md) zu steigern. [^1]
+Change Management ist die Vorbereitung, Analyse, Planung, Realisierung, Evaluierung und laufende Weiterentwicklung von ganzheitlichen Veränderungsmaßnahmen mit dem Ziel, in Unternehmen von einem bestimmten Ist-Zustand zu einem erwünschten Soll-Zustand weiterzuentwickeln und so die Effizienz und Effektivität aller [Unternehmensaktivitäten nachhaltig zu steigern](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Entwicklung.md). [^1]
 
 Das Ziel von Change Projekten besteht also darin, durch neue Strategien, Systeme, Prozesse oder auch Verhaltensweisen einen Kulturwandel umzusetzen oder einzuführen. [^2]
 
@@ -53,7 +53,7 @@ Um einen genaueren Einblick in die Thematik der Change Projekte zu erhalten, wir
 
   3. Phase: Die Entwicklung der Vorgehensarchitektur
 
-  Für die Implementierung des Change Projektes waren laut dem neuen CEO eine strenge fiskalische Kontrolle und ein Top-Down-Management erforderlich. [^8]
+  Für die Implementierung des Change Projektes waren laut dem neuen CEO eine strenge fiskalische Kontrolle und ein [Top-Down-Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Top_Down_Planning.md) erforderlich. [^8]
   Deshalb fokussierte er seine Strategie auf Effizienz und Kosteneinsparungen, speziell verbunden mit der Lieferkette. [^11]
 
   4. Phase: Die Umsetzung der Veränderungen
@@ -67,6 +67,8 @@ Um einen genaueren Einblick in die Thematik der Change Projekte zu erhalten, wir
 * [Change_Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Change_Management.md)
 * [8_Step_Process_for_Leading_Change](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/8_Step_Process_for_Leading_Change.md) 
 * [Nachhaltige_Entwicklung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Entwicklung.md)
+* [Nachhaltige Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltige_Projekte.md)
+* [Nachhaltigkeit_im_PM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Nachhaltigkeit_im_PM.md)
 * [Top_Down_Planning](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Top_Down_Planning.md)
 
 
