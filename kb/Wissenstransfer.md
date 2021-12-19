@@ -65,17 +65,17 @@ Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgef�
 | ------------------------------------| -------------------------------------------------------------------------------------------------------------------------------| 
 | Zeitliche Begrenztheit              | Um das erworbene Wissen zu strukturieren und zu dokumentieren, fehlt die Nachbearbeitungszeit.                                  |
 | Zuordnung personeller Ressourcen    | Generierte Erfahrung und das erlangte Wissen bleiben nur innerhalb des Projektteams und werden nicht mit Externen kommuniziert.|
-| Personelle [Fluktuation](https://de.wikipedia.org/wiki/Fluktuation)| Durch die zeitlich begrenzte Tätigkeit im Projekt geht Expertenwissen verloren.                |
+| Personelle Fluktuation[^13] | Durch die zeitlich begrenzte Tätigkeit im Projekt geht Expertenwissen verloren.                |
 | Neuartige, komplexe Aufgabenstellung| Übertragbarkeit des erworbenen Wissens auf andere Projekte und Aufgabenstellungen ist ungewiss.                                |
 
-*Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer* [^12][^13]
+*Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer* [^12][^14]
 
 
 # Methoden und Instrumente für den Wissenstransfer
 
 Ausschlaggebend für die Anwendung gewisser Methoden ist die Art des Transfers. Hierbei wird zwischen personifiziertem und kodifiziertem 
 Wissenstransfer unterschieden. Der Austausch des Wissens findet beim personifizierten Wissenstransfer auf persönlicher Ebene statt. Dabei gibt es für Unternehmen 
-viele Möglichkeiten den Wissenstransfer anzustoßen:[^14]
+viele Möglichkeiten den Wissenstransfer anzustoßen:[^15]
 
 * [Mitarbeiterworkshops](https://de.wikipedia.org/wiki/Workshop)
 * [Interviews](https://de.wikipedia.org/wiki/Interview)
@@ -83,7 +83,7 @@ viele Möglichkeiten den Wissenstransfer anzustoßen:[^14]
 
 Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft, wobei Datenbanken in diesem Kontext eine
 essenzielle Rolle einnehmen. So ist es heutzutage weit verbreitet im Rahmen von Projekten sowohl Interviews und spontane Gespräche unter Kollegen zu nutzen, als 
-auch auf das Wissen von Datenbanken zurückzugreifen.[^15][^16]
+auch auf das Wissen von Datenbanken zurückzugreifen.[^16][^17]
 
 
 # Siehe auch
@@ -116,7 +116,8 @@ auch auf das Wissen von Datenbanken zurückzugreifen.[^15][^16]
 [^10]: [Vorteile eines erfolgreichen Wissenstransfers](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
 [^11]: [Wissenstransfer im Projektmanagement - Sinn und Unsinn von Anreizsystemen](https://www.projektmagazin.de/artikel/wissenstransfer-im-projektmanagement-sinn-und-unsinn-von-anreizsystemen_6939)
 [^12]: [Wissensweitergabe als Ziel](https://www.projektmagazin.de/artikel/wissenstransfer-im-projektmanagement-sinn-und-unsinn-von-anreizsystemen_6939)
-[^13]: [Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Einflussfaktoren auf den teaminternen Wissenstransfer. Springer-Verlag, 2013, S. 57ff.](https://link.springer.com/chapter/10.1007/978-3-322-81576-7_3)
-[^14]: [Personifizierter und kodifizierter Transfer/Methoden und Instrumente für den Wissenstransfer](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
-[^15]: [Betriebsinterner Wissenstransfer: Die 8 wichtigsten Maßnahmen](https://www.lecturio.de/magazin/wissenstransfer/#:~:text=Wissenstransfer%20%C3%BCber%20Mitarbeiter%201%20Altersgemischte%20Teams.%20Altersgemischte%20Teams,4%20Moderierte%20%C3%9Cbergabegespr%C3%A4che.%20...%205%20Lessons%20Learned.%20)
-[^16]: [Methoden zum Wissenstransfer: Reden ist Silber, Schweigen der Tod](https://www.lecturio.de/magazin/methoden-zum-wissenstransfer/)
+[^13]: [Definition - Fluktuation](https://de.wikipedia.org/wiki/Fluktuation)
+[^14]: [Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Einflussfaktoren auf den teaminternen Wissenstransfer. Springer-Verlag, 2013, S. 57ff.](https://link.springer.com/chapter/10.1007/978-3-322-81576-7_3)
+[^15]: [Personifizierter und kodifizierter Transfer/Methoden und Instrumente für den Wissenstransfer](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
+[^16]: [Betriebsinterner Wissenstransfer: Die 8 wichtigsten Maßnahmen](https://www.lecturio.de/magazin/wissenstransfer/#:~:text=Wissenstransfer%20%C3%BCber%20Mitarbeiter%201%20Altersgemischte%20Teams.%20Altersgemischte%20Teams,4%20Moderierte%20%C3%9Cbergabegespr%C3%A4che.%20...%205%20Lessons%20Learned.%20)
+[^17]: [Methoden zum Wissenstransfer: Reden ist Silber, Schweigen der Tod](https://www.lecturio.de/magazin/methoden-zum-wissenstransfer/)
