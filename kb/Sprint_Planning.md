@@ -33,7 +33,7 @@ Ein [Sprint](Sprint.md) ist ein festgelegter Zeitraum, in dem man die zuvor gepl
 - wie? - Der zweite fokusiert sich auf das *WIE*. 'Wie sollen die Anforderugen (Ziele) erreicht werden?' Das Entwlicklerteam plant die Aufgaben, um das Ziel des Sptrints zu erreichen.[^6]
 
 
-![SCRUM](Sprint_Planning//sprint-planungsmeeting.png)
+![SCRUM](Sprint_Planning//sprint-planungsmeeting.png)  
 *Die Vorgehensweise nach Scrum-Definition*[^3]
 
 # Das Meeting
