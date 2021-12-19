@@ -12,7 +12,7 @@ Schätzungen liefern immer unsichere Ergebnisse, da sie sich auf die Zukunft bez
 Verantwortlich für die Prognose sind die [Projektleiter](Projektleiter.md). Um die [Projektplanung](Projektplanung.md) bestmöglich festzulegen, kann man für die Schätzung folgende Quellen nutzen: 
 
 * die Erfahrungen von Experten abfragen
-* bereits bekannte Kosten für Material und Personal planen
+* bereits bekannte Kosten für Material und Personal planen[^1]
 * Daten aus bereits durchgeführten Projekten berücksichtigen
 * Rahmenbedingungen und Abhängigkeiten für das Projekt festlegen[^2]
 ## Die Drei-Zeiten-Methode
