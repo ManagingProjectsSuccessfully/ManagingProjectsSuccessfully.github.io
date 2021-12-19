@@ -1,104 +1,71 @@
 ---
 title: Projektmanagement_4_0
-tags: agil klassisch
+tags: klassisch
 author: wernerni
-anrechnung: k oder a
+anrechnung: k
 ---
+Der Begriff Projektmanagement 4.0 lässt sich auf den Grundbegriff Industrie 4.0 zurückführen. Dieser steht für ein "Zukunftsprojekt zur umfassenden Digitalisierung der industriellen Produktion"[^1], mit dem Ziel der vollständigen Automatisierung. Die Zahl 4.0 steht zudem für die „vierte industrielle Revolution“[^2], die sich durch Faktoren wie Individualisierung und Kundenintegration in unternehmerische Prozesse auszeichnet. Dies beeinflusst auch das zukünftige Projektmanagement. Projektmanagement 4.0 steht also für die Optimierung der Projektprozesse, mit Anpassung an neue Anforderungen, die das Fortschreiten der [Globalisierung](https://wirtschaftslexikon.gabler.de/definition/globalisierung-35657)[^13] und [Digitalisierung](https://de.wikipedia.org/wiki/Digitalisierung)[^14] mit sich bringen.[^1]    
 
-Kurzbeschreibung zu Projektmanagement_4_0 um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# [Projektteams](Projektteam_Kultur.md) der Zukunft
+Durch die neuen Anforderungen der Digitalisierung steht es besonders im Fokus, Projektprozesse effizienter und schneller zu gestalten. Ein wesentlicher Bestandteil des [Projektmanagements](Projektmanagement.md) in der Zukunft ist die Verknüpfung von sowohl agilen, als auch klassischen Konzepten.[^3] Die Projektteams entscheiden zukünftig gemeinschaftlich in Einzelfällen, welche der beiden Formen bzw. ob eine [hybride](Hybrides_Projektmanagment.md) Gestaltung beider Elemente für das entsprechende Projekt am sinnvollsten ist.[^4] Ebenfalls werden Hierarchiestufen aufgegeben, es gibt also keine einzelne Projektleitung mehr, sondern diese Aufgabe geht auf alle [Projektmitglieder](Projektmitarbeiter.md) über.[^5] Die Projektmitglieder teilen sich hinsichtlich ihrer Erfahrung und ihrem Kenntnisstand in einzelne Projektteams der Zukunft auf. Diese stimmen sich untereinander ab und kümmern sich individuell um die Ressourcenbeschaffung.[^5]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## Anforderungen [^4] [^5] [^6]
+*	Flexibilität
+*	Veränderungsbereitschaft
+*	Eigenständigkeit
+*	Transparenz
+* Vernetzung
+*	Schnelligkeit
+*	Teamarbeit
+*	Anpassung an klassische und agile Projektmanagementkomponenten
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Sind diese Faktoren in ein strukturiertes Projektmanagement integriert, sind die besten Voraussetzungen für eine schrittweise Anpassung an die digitale Welt gegeben. 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# Herausforderungen
+Die größte Herausforderung, die sich für die Projektteams in der Zukunft herausstellt, ist die Bereitschaft, Veränderungen und Anpassungen selbstorganisiert vorzunehmen. Dies ist auch zunehmend bei bereits bestehenden Projekten zu beachten, um die Kundenbedürfnisse besser erfüllen zu können.[^6] Die Teilaufgaben müssen zudem in Zukunft parallel ausgeführt werden, um die Effizienz weiter zu erhöhen und schnellere [Projektabschlüsse](Projektabschluss.md) zu gewährleisten.[^6] Hinzu kommt der immer größer werdende Druck im Wettbewerb mit anderen Unternehmen, der durch Globalisierung und Digitalisierung weiter zunimmt.[^7] Auch der Anstieg an Autonomität und die Verkürzung der Produktlebenszyklen gestalten sich als problematisch.[^4]
+Ein Hauptkriterium ist die Optimierung der Kommunikation zwischen den einzelnen Projektmitgliedern, die maßgeblich zum Projekterfolg beiträgt. Ohne eine umfassende Integration und Koordination in diesem Bereich, können daraus Zeitverluste, höhere Aufwendungen und Qualitätsminderungen resultieren.[^6] Der Teamgedanke muss in der Unternehmenskultur, also auch besonders in Zukunft hinsichtlich des Projektmanagements, fest verankert sein.
 
 
-# Aspekt 1
+![image](https://github.com/wernerni/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement_4_0/TechConsult_Projektemanagement-768x427.png)
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Künftige Herausforderungen im Projektmanagement[^12] 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Zukünftige Trends
+ Bei der Analyse von zukünftigen Trends im Bereich des Projektmanagements, haben sich vereinzelte Aspekte herausgebildet, die bereits jetzt schon umgesetzt werden und deren Bedeutung weiter zunehmen wird. Zum einen werden Unternehmen sich nicht auf ein Großprojekt konzentrieren, sondern auf mehrere ggf. auch kurzfristige und kleinere Projekte. Einen weiterer Aspekt stellt der verstärkte Einsatz von Projektmanagement Software (PM- Software) dar.[^8] Mit einer digitalen Software arbeiten Unternehmen fokussierter im Hinblick auf die Teamkommunikation, die Aufgabenverwaltung und das gemeinsame Dokumentenmanagement. Dies führt zu einer Steigerung der Effizienz und Schnelligkeit.[^7] Zudem wird das Thema [KI (Künstliche Intelligenz)](KI_im_PM.md) gepaart mit menschlicher Arbeit eine große Rolle spielen.[^9] Ein weiterer Trend zeichnet sich im Zusammenspiel von Projekten und Produkten ab. Das Projekt und der Produktlebenszyklus nähern sich immer weiter an und somit werden zunehmend Methoden aus dem Bereich des Produktmanagements im Projektmanagement integriert.[^10]
+Der Fokus bei der Projektprozessgestaltung liegt nicht wie bisher darauf, dass die Kosten möglichst gering gehalten werden, sondern dass das Projekt bzw. Produkt einen Mehrwert generiert.[^11]
 
-![Beispielabbildung](Projektmanagement_4_0/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektmanagement_4_0.md)
+* [Hybrides Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Hybrides_Projektmanagment.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Projektmanagementsoftware](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagementsoftware.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Industrie 1.0 - 4.0](https://www.spiegel.de/fotostrecke/von-der-industrie-1-0-bis-4-0-fotostrecke-125537.html)
+* [Produktmanagement](https://www.pro-produktmanagement.de/definition-produktmanagement-und-warum-produktmanagement.html#.Ya8wQ5GZPD4)
 
 # Quellen
+[^1]: https://de.wikipedia.org/wiki/Industrie_4.0
+[^2]: https://wirtschaftslexikon.gabler.de/definition/industrie-40-54032#:~:text=Industrie%204.0%20%E2%80%A2%20Definition%20%7C%20Gabler%20Wirtschaftslexikon%20Industrie,und%20steht%20f%C3%BCr%20ein%20%22Zukunftsprojekt%22%20der%20deutschen%20Bundesregierung.
+[^3]: https://www.tiba.de/magazin/projektmanagement-4-0-wie-veraendert-sich-die-welt-des-projektmanagements/
+[^4]: https://www.projektassistenz-blog.de/projektmanagement-4-0-was-bedeutet-das/
+[^5]: https://www.projektmagazin.de/blog/projektmanagement-40
+[^6]: https://www.techconsult.de/project-performance-index/studie-zum-projektmanagement-4-0-mit-digitalen-werkzeugen-kuenftige-herausforderungen-meistern
+[^7]: http://pm-forum-augsburg.de/images/Dokumente/Methodentag_2017/Vortragsfolien_Gerberich.pdf
+[^8]: https://www.it-business.de/herausforderungen-beim-projektmanagement-40-a-654194/
+[^9]: https://www.softwaremanager.cloud/pages/auswahl-projektmanagement-software/
+[^10]: https://www.vdz.org/personalmanagement-new-work/trends-im-projektmanagement
+[^11]: https://www.tiba.de/magazin/trends-im-projektmanagement-toolunterstuetzung/
+[^12]: https://www.techconsult.de/project-performance-index/studie-zum-projektmanagement-4-0-mit-digitalen-werkzeugen-kuenftige-herausforderungen-meistern
+[^13]: https://wirtschaftslexikon.gabler.de/definition/globalisierung-35657
+[^14]: https://de.wikipedia.org/wiki/Digitalisierung
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+
+
+
+
 
