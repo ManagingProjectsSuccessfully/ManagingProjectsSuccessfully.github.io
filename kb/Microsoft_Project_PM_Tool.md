@@ -188,7 +188,7 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 
 [Holert, Renke: Microsoft Project 2019, holert, 7. aktualisierte Auflage, 2020https://shop.holert.com/products/microsoft-project-2019](https://shop.holert.com/products/microsoft-project-2019)
 
-[You Tube](https://www.youtube.com/results?search_query=ms+project+tutorial)
+[YouTube: MS Project Tutorials](https://www.youtube.com/results?search_query=ms+project+tutorial)
 
 # Quellen
 
