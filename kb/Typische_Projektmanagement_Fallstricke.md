@@ -66,10 +66,10 @@ Zusammenfassend lässt sich sagen, dass mit einem klar definierten Ziel, einer r
 # Weiterführende Literatur
 
 
-* FALLSTRICKE DER PROJEKTARBEIT - PDF Free Download (docplayer.org)
-* 18 Project Management Pitfalls and Proven Ways to Avoid Them (managersresourcehandbook.com)
-* Avoiding Project Management Pitfalls - dummies
-* Das Projektdreieck (microsoft.com)
+* FALLSTRICKE DER PROJEKTARBEIT - PDF Free Download (docplayer.org):https://docplayer.org/11004614-Fallstricke-der-projektarbeit.html
+* 18 Project Management Pitfalls and Proven Ways to Avoid Them (managersresourcehandbook.com):https://www.managersresourcehandbook.com/avoid-project-pitfalls/
+* Avoiding Project Management Pitfalls - dummies:https://www.dummies.com/article/business-careers-money/business/project-management/avoid-common-project-management-pitfalls-236601
+* Das Projektdreieck (microsoft.com): https://support.microsoft.com/de-de/office/das-projektdreieck-8c892e06-d761-4d40-8e1f-17b33fdcf810
 
 
 # Quellen
