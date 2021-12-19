@@ -47,7 +47,7 @@ Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im 
 Grundsätzlich gilt hier die Devise: **Je einfacher und durschaubarer die Methode, desto besser.**[^7]
 
 ### [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
-Die Definition von [Meilensteinen](Meilensteine.md) ist Grundlage dieser Methode. Diese werden am Anfang des Projekts für die [Projektplanung](Projektplanung.md) festgelegt. Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilensteine.md)-Termine chronologisch auf, wodurch sich Trends frühzeitig abzeichnen.[^13]
+Die Definition von [Meilensteinen](Meilensteine.md) ist Grundlage dieser Methode. Diese werden am Anfang des Projekts für die [Projektplanung](Projektplanung.md) festgelegt. Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle Meilenstein-Termine chronologisch auf, wodurch sich Trends frühzeitig abzeichnen.[^13]
 
 ### Earned Value Analyse
 Eine weitere Methode ist die Earned Value Analyse, mit der man den Fertigstellungsgrad des Projekts bzw. einzelner Phasen ermitteln kann. Sie dient dem Projekt als Kontrollinstrument des Fortschritts. Diese Methode ist ebenfalls unter den Namen Leistungswertanalyse, Fertigstellungswertmethode oder Arbeitswertanalyse bekannt.[^7]
