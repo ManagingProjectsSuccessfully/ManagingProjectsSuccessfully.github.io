@@ -40,14 +40,13 @@ Das Pareto-Prinzip wird aufgrund des zuvor erklärten Ursprungs auch gerne auch 
 Im Allgmeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen können.[^2] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient für das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md) sein kann, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann. Das Pareto-Prinzip ist dem klassischen [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md) zuzuordnen. Um das Prinzip in diesem Bereich auch richtig im Projektmanagemtn anzuwenden, ist es wichtig, dass sich, zum Beispiel vor eine Projektbesprechung, alle beteiligten Personen einig sind, sich ausschließlich mit der Klärung fundamentaler Dinge zu beschäftigen. Sei dies nciht der Fall, können bereits Kleinigkeiten den Zeitrahmen stark übersschreiten. [^10]
 
 
-### Statistische Darstellung der [Pareto-Verteilung]
+### Statistische Darstellung der Pareto-Verteilung
 
 Die Pareto-Verteilung zeichnet sich dadurch aus, dass sie auf der rechten Seite ins Unendliche verläuft. Zudem handelt es sich bei der Verteilung um positive Werte, die sich über verschiedene Dimensionen entlangziehen. Dies erklärt auch weshalb die Verteilung nach recht hin ins positiv verläuft.[^11]
 
 Die folgende [Abbildung](https://de.wikipedia.org/wiki/Pareto-Verteilung) zeigt eine beisppielhaft zeigt eine beispielhafte Pareto-Verteilung auf.
 
 Die Grafik zeigt die Anzahl der Einwohner in deutschen Städten auf. Man erkennt klar, dass bereits in sehr wenige Städte alleine ein sehr großer Teil der Gesamtbevölkerung lebt. Es gibt dementsprechend sehr viele kleinerer Städte mit nur sehr wenigen Einwohnern.[^11]
-
 
 
 ### 3. Zeitmanagement 
