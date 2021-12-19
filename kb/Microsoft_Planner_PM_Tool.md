@@ -16,13 +16,13 @@ anrechnung: k
  > - [Quellen](Microsoft_Planner_PM_Tool.md#quellen)
 
 
-Microsoft Planner ist ein von Microsoft entwickeltes Aufgabenverwaltungs-Tool und seit dem 06. 06. 2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education und Enterprise Umgebung.[^1] [^2]
+Microsoft Planner ist ein von Microsoft entwickeltes [Aufgabenverwaltungs-Tool](Uebersicht_PM_Tools.md) und seit dem 06. 06. 2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education und Enterprise Umgebung.[^1] [^2]
 
-Seitens Microsoft wird dafür eine webbasierte Anwendung, lokale Verwendung über gängige Betriebssysteme wie Microsoft Windows und MacOS, sowie mobile Betriebssysteme wie Android, iOS und iPadOS angeboten.[^1] [^3]
+Seitens Microsoft wird dafür eine webbasierte Oberfläche und eine lokale Anwendung angeboten. Somit werden bekannte Betriebssysteme wie Microsoft Windows, MacOS, Android, iOS und iPadOS unterstützt.[^1] [^3]
 
-Der Microsoft Planner bietet vielseitige Funktionen, darunter etwa  die Erstellung von Aufgabenplänen und vereinzelten Aufgaben zur teamorientierten Projektverwaltung. Diese können einzelnen Personen zugewiesen und der Status jederzeit angezeigt werden.[^3]  
+Der Microsoft Planner bietet vielseitige Funktionen, darunter etwa  die Erstellung von Aufgabenplänen und vereinzelten Aufgaben zur teamorientierten Projektverwaltung. Aufgabenpläne und Aufgaben können einzelnen Personen zugewiesen und zusätzlich der Status jederzeit angezeigt werden.[^3]  
 
-Der Microsoft Planner wird besonders aufgrund der intuitiven Oberfläche und der Office 365 Integration in vielen Unternehmen eingesetzt.[^3]
+Das Tool wird besonders aufgrund der intuitiven Oberfläche und der Office 365 Integration in vielen Unternehmen eingesetzt.[^3]
 # Oberfläche und Funktionen [^4]
 
 | Abbildung     | Beschreibung |
@@ -47,15 +47,23 @@ So lassen sich Abhängigkeiten zwischen den einzelnen Aufgaben über Projekte hi
 Seitens Microsoft wird der Planner für kleinere Teams mit kurzweiligen Projekten und [Project](Microsoft_Project_PM_Tool.md) für größere umfangreichere Projekte und Teams empfohlen. Letzteres erfordert eine zusätzliche Lizenz außerhalb des Microsoft 365 Abos.[^7] [^8]
 
 # Siehe auch
+[Projektmanagementsoftware](Projektmanagementsoftware.md)  
+[Übersicht Projektmanagement Tools](Uebersicht_PM_Tools.md)  
+[Trello](Trello_PM_Tool.md)  
+[Asana](Asana_PM_Tool.md)  
+[Awork](Awork_PM_Tool.md)  
+[ClickUp](ClickUp_PM_Tool.md)  
+[Java](Java_PM_Tool.md)  
+[Jira](Jira_PM_Tool.md)  
+[MeisterTask](MeisterTask_PM_Tool.md)  
+[Podio](Podio_PM_Tool.md)  
+[IT-Projekte](IT-Projekte.md)  
 [KANBAN](KANBAN.md)  
 [KANBAN_Karten](KANBAN_Karten.md)  
-[KANBAN_Boards](KANBAN_Boards.md)  
-[Aufgabenteilung](Aufgabenteilung.md)  
-[Projektplanung](Projektplanung.md)  
-[Taskboard](Taskboard.md)  
-[Zeitplanung](Zeitplanung.md)
-[Erfolgsmessung](Erfolgsmessung.md)  
-[IT-Projekte](IT-Projekte.md)
+[KANBAN_Boards](KANBAN_Boards.md) 
+
+
+
 
 # Quellen
 [^1]: [Microsoft Planner - Wikipedia EN](https://en.wikipedia.org/wiki/Microsoft_Planner)  
