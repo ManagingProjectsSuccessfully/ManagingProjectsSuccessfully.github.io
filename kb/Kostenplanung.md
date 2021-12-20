@@ -16,7 +16,7 @@ Da Bezugspreise in der Regel zu Projektstart vertraglich fixiert werden, sinkt d
 
 ![Beeinflussbarkeit der Kosten im Projektverlauf](Kostenplanung/Kostenbeeinflussbarkeit.png)
 
-Bildquelle: https://erfolgreich-projekte-leiten.de/kostenplan/
+*Bildquelle: https://erfolgreich-projekte-leiten.de/kostenplan/*
 
 # Zerlegung des gesamten Projekts in Arbeitspakete
 Um eine genaue Schätzung zu gewährleisten, wird das gesamte Projekt in mehrere, kleinere Arbeitspakete aufgeteilt [^1]. Dafür wird vom gesamten Projekt ein [Projektstrukturplan](Projektstrukturplan.md) gebildet, der die Übersicht über die Kostenstruktur erheblich vereinfacht. Die Kosten der einzelnen Arbeitsschritte werden nach oben im Plan akkumuliert und bilden am Ende die Gesamtkosten des Projekts.
