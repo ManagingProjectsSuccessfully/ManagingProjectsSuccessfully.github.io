@@ -30,7 +30,7 @@ Anforderungen des Kunden geändert haben und nicht mehr den Ursprünglichen ents
 
 ![FeedbackKlassisch](Feedback_Methoden/FeedbackKlassisch.png)
 
-*Abbildung 1[^3]*
+*Zeitpunkt des Feedbacks im klassischen Projektmanagement[^3]*
 
 Dennoch gibt es auch beim klassischen Projektmanagement die Möglichkeit während des Projektes Feedback einzubringen, um dieser Unsicherheit entgegenzusteuern. Diese Methode wird
 allerdings meist nur angewandt, wenn das Projekt Gefahr läuft zu scheitern. Wird dann auf das Feedback eingegangen, so ist das in der Regel mit einem hohen Umplanungs- und
@@ -43,10 +43,10 @@ bzw. Sprint Rückmeldung vom Kunden eingeholt, welches im nächsten Zyklus umges
 
 ![FeedbackAgil](Feedback_Methoden/FeedbackAgil.png)
 
-*Abbildung 2[^3]*
+*Zeitpunkte des Feedbacks im agilen Projektmanagement[^3]*
 
-Ferner führen die Teams und Teilnehmer eines agilen Projekts nach jeder Iteration eine sog. [Retrospektive](Retrospective.md), als kollaboratives Feedback, durch. Hierbei wird
-das Zusammenspiel der verschiedenen Mitglieder analysiert und Verbesserungsvorschläge gegeben.[^8]
+Ferner führen die Teams und Teilnehmer eines agilen Projekts nach jeder Iteration eine sogenannten [Retrospektive](Retrospective.md) als kollaboratives Feedback durch. Hierbei
+wird das Zusammenspiel der verschiedenen Mitglieder analysiert und Verbesserungsvorschläge gegeben.[^8]
 Der große Vorteil dieses Feedback-Modells ist, dass durch das regelmäßige qualitative Feedback der Stakeholder, vor allem der Kunden, kaum Gefahr besteht den vorab gestellten
 Anforderungen nicht gerecht zu werden.[^3] Deswegen wird agiles Projektmanagement häufig für Produkte verwendet, die durch rasante Entwicklung vielen Änderungen der
 Anforderungsansprüche ausgesetzt sind, wie beispielsweise in der Softwareentwicklung.[^8]
@@ -56,7 +56,7 @@ Anforderungsansprüche ausgesetzt sind, wie beispielsweise in der Softwareentwic
 
 Während beim klassischen Projektmanagement vor allem das qualitative Feedback zur Beurteilung des Erfolges eines Projektes herangezogen wird, so wird beim agilen auch noch 
 teilweise das individuelle, aber durch die Retrospektive auch das kollaborative Feedback mit einbezogen. Dadurch und durch die Regelmäßigkeit der Rückkopplung mit den
-verschiedenen Stakeholdern, bietet das agile Projektmanagement ein geringeres Risiko, dass sich ein [Projekt](Projekt.md) in eine falsche Richtung zu entwickeln.[^3][^6]
+verschiedenen Stakeholdern, bietet das agile Projektmanagement ein geringeres Risiko, dass sich ein [Projekt](Projekt.md) in eine falsche Richtung entwickelt.[^3][^6]
 
 
 # Siehe auch
@@ -70,7 +70,8 @@ verschiedenen Stakeholdern, bietet das agile Projektmanagement ein geringeres Ri
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Feedback - eine Erklärung](https://link.springer.com/article/10.1007/s11612-010-0099-2)
+* [Feedback im Arbeitsleben - eine Selbstwert-Perspektive](https://link.springer.com/article/10.1007/s11612-010-0104-9)
 
 
 # Quellen
