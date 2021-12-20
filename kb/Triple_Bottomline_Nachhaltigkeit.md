@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 Die Triple Bottom Line ist ein Ansatz für nachhaltiges [Projektmanagement](Projektmanagement.md), bei dem der Unternehmenserfolg neben der Ökonomie auf
-zwei weitere Dimensionen, nämlich Ökologie und Soziales beruht. Um nachhaltigen Erfolg zu haben müssen  alle drei Bereiche berücksichtigt werden.[^1]
+zwei weitere Dimensionen, nämlich Ökologie und Soziales beruht. Um nachhaltigen Erfolg zu haben, müssen  alle drei Bereiche berücksichtigt werden.[^1]
 
 
 # Entstehung des Triple Bottom Line Ansatzes
@@ -20,10 +20,10 @@ Zur gleichen Zeit wurde in Deutschland vom Verband der chemischen Industrie ein 
 # Konzept der Triple Bottom Line
 
 Die Triple Bottom Line ist eine Art der Bilanzierung, ähnlich dem unteren Strich – Bottom Line – einer Gewinn-und-Verlust-Rechnung und besteht aus den Leistungsdimensionen
-Wirtschaft, Soziales und Ökologie.[^2][^3] Dabei besteht die Herausforderung die unterschiedlichen Dimensionen einheitlich zu messen, da sie anschließend miteinander verrechnet
-werden.[^2] Das Ziel dabei ist alle drei Bereiche zu berücksichtigen, um unterm Strich ein positives Ergebnis zu erzielen.[^3] Die Triple Bottom Line spiegelt somit den
+Wirtschaft, Soziales und Ökologie.[^2][^3] Dabei besteht die Herausforderung, die unterschiedlichen Dimensionen einheitlich zu messen, da sie anschließend miteinander verrechnet
+werden.[^2] Das Ziel dabei ist, alle drei Bereiche zu berücksichtigen, um unterm Strich ein positives Ergebnis zu erzielen.[^3] Die Triple Bottom Line spiegelt somit den
 Kernpunkt der Nachhaltigkeit wider, durch Messung der Auswirkungen aller Aktivitäten eines Unternehmens auf die Welt.[^2]
-Die Definition von Nachhaltigkeit an der sich das Konzept der Triple Bottom Line orientiert wurde erstmals im Brundtland-Report 1987 beschrieben. Dieser besagt, dass eine
+Die Definition von Nachhaltigkeit, an der sich das Konzept der Triple Bottom Line orientiert, wurde erstmals im Brundtland-Report 1987 beschrieben. Dieser besagt, dass eine
 Entwicklung nachhaltig ist, wenn diese den Bedürfnissen der heutigen Generation entspricht, ohne die Bedürfnisse und Lebensstile folgender Generationen zu gefährden.[^5] 
 Vom Modell der Triple Bottom Line gibt es bzgl. der Umsetzung verschiedene Abwandlungen und Erweiterungen.
 
@@ -34,10 +34,10 @@ anerkannt.[^8]
 
 ![DreiSäulenModell](Triple_Bottomline_Nachhaltigkeit/DreiSäulenModell.png)
 
-*Abbildung 1[^6]*
+*Die drei Säulen der Nachhaltigkeit (links) und das magische Dreieck (rechts)[^6]*
 
-Es erweitert den Aspekt der Nachhaltigkeit von dem ökologischen Bereich auch in die Bereiche Ökonomie und Soziales.[^7] Alle diese Bereiche müssen somit zwingend gleich
-behandelt werden, um nachhaltig zu sein. Die Nachhaltigkeit baut also auf der Dreidimensionalität auf und sobald eine davon vernachlässigt wird, kann ein Unternehmen bzw.
+Es erweitert den Aspekt der Nachhaltigkeit von dem ökologischen Bereich auch in die Bereiche Ökonomie und Soziales.[^7] Alle diese Bereiche müssen somit zwingend gleichbehandelt
+werden, um nachhaltig zu sein. Die Nachhaltigkeit baut also auf der Dreidimensionalität auf und sobald eine davon vernachlässigt wird, kann ein Unternehmen bzw.
 Projekt nicht nachhaltig erfolgreich sein.[^9]
 
 
@@ -48,7 +48,7 @@ und abschließend Ökonomie.[^10]
 
 ![Vorrangmodell](Triple_Bottomline_Nachhaltigkeit/Vorrangmodell.png)
 
-*Abbildung 2[^10]*
+*Das Vorrangmodell der Nachhaltigkeit[^10]*
 
 Dadurch, dass die Bereiche anderen untergeordnet sind, lässt sich eine Verhaltensmaxime daraus ableiten. So werden soziale Anliegen nur umgesetzt, wenn diese auch einen 
 ökologischen Mehrwert besitzen. Ferner gilt dies auch für wirtschaftliche. So gibt es ohne ökologische Stabilität keine soziale und erst recht keine ökonomische.[^4][^10]
@@ -56,9 +56,9 @@ Dadurch, dass die Bereiche anderen untergeordnet sind, lässt sich eine Verhalte
 
 # Kritik an den Modellen der Triple Bottom Line
 
-Der Hauptkritikpunkt am klassischen Drei-Säulen-Modell ist die sog. schwache Nachhaltigkeit, d.h. die Verschlechterung in einer Dimension wird mit der gleichzeitigen Verbesserung
-in einer anderen verrechnet. Baut man beispielsweise ein Schwimmbad, wo ursprünglich ein See war, so zerstört man das Ökosystem, schafft aber auch sozialen und ökonomischen 
-Nutzen.[^10] Ein weiterer Nachteil dieses Modells ist die nicht vorhandene einheitliche Messbarkeit der drei Bereiche für die Berechnung der Triple Bottom Line.[^2]
+Der Hauptkritikpunkt am klassischen Drei-Säulen-Modell ist die sog. schwache Nachhaltigkeit, d.h. die Verschlechterung in einer Dimension wird mit der gleichzeitigen
+Verbesserung in einer anderen verrechnet. Baut man beispielsweise ein Schwimmbad, wo ursprünglich ein See war, so zerstört man das Ökosystem, schafft aber auch sozialen und 
+ökonomischen Nutzen.[^10] Ein weiterer Nachteil dieses Modells ist die nicht vorhandene einheitliche Messbarkeit der drei Bereiche für die Berechnung der Triple Bottom Line.[^2]
 Im Vorrangmodell besteht das Prinzip der starken Nachhaltigkeit. Hier kann eine ökologische Verschlechterung nicht verrechnet werden bzw. kommt nicht zustande, da das 
 ökonomische und soziale Handeln durch ökologische Grenzen eingeschränkt wird.[^10]
 
@@ -71,7 +71,8 @@ Im Vorrangmodell besteht das Prinzip der starken Nachhaltigkeit. Hier kann eine 
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [The Triple Bottom Line](https://sustain.wisconsin.edu/sustainability/triple-bottom-line/)
+* [Triple Bottom Line (3 pillars): sustainability in business](https://www.youtube.com/watch?v=2f5m-jBf81Q)
 
 # Quellen
 
