@@ -5,7 +5,7 @@ author: bilgesb
 anrechnung: k
 ---
 # 1) Was ist das ADKAR Modell?
-Das ADKAR Modell von Proscigründer Jeff Hiatt „ist ein zielorientriertes [Change-Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Change_Management)-Modell, welches als Leitfaden für Veränderungen auf individueller und organisatorischer Ebene gilt.“[^1] 
+Das ADKAR Modell von Proscigründer Jeff Hiatt „ist ein zielorientiertes [Change-Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Change_Management.md)-Modell, welches als Leitfaden für Veränderungen auf individueller und organisatorischer Ebene gilt.“[^1] 
 Bei dem Wort „ADKAR“ handelt es sich um ein Akronym, welches für die fünf Schritte steht, die durchgeführt werden müssen, um Veränderungen auf individueller und im Folgenden dann auch auf organisatorischer Ebene erfolgreich implementieren zu können. 
 # 2) Die fünf Stufen des ADKAR Modells
 ADKAR ist ein Akronym und steht für: 
