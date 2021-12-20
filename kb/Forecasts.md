@@ -14,14 +14,14 @@ Um zuverlässige Vorhersagen zu erhalten und die gesetzten Ziele zu erreichen, s
 ## 2.1 Ehrlichkeit
 Eine rein zielorientierte Herangehensweise ohne die Berücksichtigung vorhandener Ressourcen wird mit höherer Wahrscheinlichkeit zu falschen Vorhersagen führen. Den Forecast so zu bearbeiten, dass er die [top down](Top_Down_Planning.md) gesetzten Vorgaben erfüllt, wird zu Beginn eines Projekts vielversprechend wirken, jedoch am Ende häufiger die Ziele verfehlen. Deswegen ist eine [bottom up](Bottom_Up_Planning.md) Planung, die ehrlich zeigt, wo die Grenzen des Projektes liegen und Probleme frühzeitig aufdeckt, empfehlenswerter[^3]. 
 ## 2.2 Systematik
-Jeder Projektteilnehmer sollte auf dem ersten Blick erkennen können:
+Jeder Projektteilnehmer sollte auf den ersten Blick erkennen können:
 * Wo man sich im Projekt befindet
 * Was bereits erreicht wurde
 * Welche Schritte von wem als Nächstes gemacht werden müssen[^3]
 ## 2.3 Einheitlichkeit
-Wichtig für die Vergleichbarkeit verschiedener Kennzahlen ist die Wahl einer einheitlichen Methode. Dies umfasst ein gemeinsames Bewertungssystem mit einheitlicher Begriffsdefinition und einer transparenten Wahrscheinlichkeitsbewertung[^3]. 
+Wichtig für die Vergleichbarkeit verschiedener Kennzahlen ist die Wahl einer einheitlichen Methode. Dies umfasst ein gemeinsames Bewertungssystem mit einheitlicher Begriffsdefinition und eine transparente Wahrscheinlichkeitsbewertung[^3]. 
 ## 2.4 Regelmäßigkeit
-Eine regelmäßige Überprüfung der geplanten Vorgänge und deren Erfolg ermöglicht es notwendige Korrekturen schon in frühen Phasen des Projektes zu erkennen und durchzuführen und verringert somit den damit verbundenen Aufwand. Die Chancen die im Forecast gesetzten Ziele zu erreichen, werden so aufrechterhalten[^3]. 
+Eine regelmäßige Überprüfung der geplanten Vorgänge und deren Erfolg ermöglicht es notwendige Korrekturen schon in frühen Phasen des Projektes zu erkennen und durchzuführen und verringert somit den damit verbundenen Aufwand. Die Chancen, die im Forecast gesetzten Ziele zu erreichen, werden so aufrechterhalten[^3]. 
 ## 2.5 Anpassungsfähigkeit
 Vorhersagen treffen realistisch gesehen nie zu 100% ein, da unkontrollierbare Faktoren existieren, die den Verlauf des Projektes maßgeblich beeinflussen können. Aus diesem Grund ist es wichtig, Raum für gewisse Anpassungen einzuplanen[^3]. 
 
@@ -35,7 +35,7 @@ Wenn kein bereits vorhandenes Erfahrungswissen existiert, dienen Schätzungen vo
 "Wenn-dann-Szenarien" prognostizieren potenzielle Entwicklungen und zeigen in großem Umfang die unterschiedlichen Möglichkeiten eines Projektverlaufs auf[^4]. 
 
 # 4 Unterschiedliche Methoden des Forecastings 
-Grundsätzlich kann zwischen zwei Arten von Forecasts unterschieden werden. Standard-Forecasts, die regelmäßig angepasst werden, und Ad-hoc-Forecast, die unregelmäßig durchgeführt werden[^2]. Da mit dem Fortschritt des Projektes das Wissen über den tatsächlichen Projektverlauf steigt, können durch Anpassungen präszisere Vorhersagen vorgenommen und der [Business Case](Business_Cases.md) überprüft und aktualisert werden[^4].
+Grundsätzlich kann zwischen zwei Arten von Forecasts unterschieden werden. Standard-Forecasts, die regelmäßig angepasst werden, und Ad-hoc-Forecast, die unregelmäßig durchgeführt werden[^2]. Da mit dem Fortschritt des Projektes das Wissen über den tatsächlichen Projektverlauf steigt, können durch Anpassungen präzisere Vorhersagen vorgenommen und der [Business Case](Business_Cases.md) überprüft und aktualisert werden[^4].
 
 ## 4.1 Earned Value Analyse
 Die [Earned Value Analyse](Earned_Value_Analyse.md) stellt eine Variante des laufenden und regelmäßigen Forecastings dar, welche durch die Berechnung des Schedule Performance Index (SPI) eine Prognose über den Endtermin und und mit dem Cost Performance Index Aussagen über die Entwicklung der Projektkosten bereitstellt[^4]. 
