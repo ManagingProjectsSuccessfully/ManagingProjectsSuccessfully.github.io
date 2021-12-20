@@ -67,15 +67,11 @@ Bis heute wird das agile Projektmanagement gerne neben den klassischen Methoden 
 [Software Engineering Tutorial Deutsch #6 - Das Agile Manifest](https://www.youtube.com/watch?v=aN-6Ha66Q9U)
 
 
-# Abildungsverzeichnis
-
-[^4]: [Agiles Manifest - die vier Prinzipien](https://synapsenstau.de/agiles-manifest/)
-
-
 # Quellen
 
 [^1]: [Agile Manifesto - Geschichte](https://agilemanifesto.org/history.html)
 [^2]: [Agiles Projektmanagement - Agile Manifesto](http://agiles-projektmanagement.org/agile-manifesto/)
 [^3]: [Agile Manifesto - Leitsätze](https://agilemanifesto.org/iso/de/manifesto.html)
+[^4]: [Agiles Manifest - die vier Prinzipien](https://synapsenstau.de/agiles-manifest/)
 [^5]: [Agile Manifesto - Prinzipien](https://agilemanifesto.org/iso/de/principles.html)
 
