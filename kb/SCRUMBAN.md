@@ -22,6 +22,7 @@ Die Meeting Struktur verhält sich sehr ähnlich zu der von Scrum. Empfohlen sin
 Die Arbeit wird in einzelne Sprints aufgeteilt. Ein Sprint ist ein Arbeitsabschnitt, in dem ein Inkrement einer Produktfunktionalität implementiert wird[^4]. Die Länge eines Sprints wird jedoch nicht auf ein bis vier Wochen begrenzt, wie es bei Scrum der Fall ist, sodass die Erfüllungsphase so lange andauern kann, wie es für das gewünschte Endergebnis erforderlich ist[^1].
 ### 2.1.3 Langzeitorientierte Planung
 Scrumban implementiert, im Gegensatz zu Scrum, langfristige Planungsmöglichkeiten durch das sogenannte "bucket-size-planning". Auf der folgenden Abbildung ist dieses Prinzip näher dargestellt. 
+
 ![bucket-size-planning](SCRUMBAN/Bucket-size-planning.jpg)
 
 Man unterscheidet zwischen vier verschiedenen "buckets" mit jeweils unterschiedlichen Zielen und Inhalten:
