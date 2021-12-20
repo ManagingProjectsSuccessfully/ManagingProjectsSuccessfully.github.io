@@ -17,6 +17,7 @@ anrechnung: k
 [^8]: https://link.springer.com/book/10.1007%2F978-3-322-80689-5
 [^9]: https://link.springer.com/content/pdf/10.1007/s00287-012-0640-5.pdf
 [^10]: https://books.google.de/books?hl=de&lr=&id=lJlf5nLOMfgC&oi=fnd&pg=PR5&dq=%C3%B6ffentliche+projekte+projektmanagement&ots=9reLD5Uho1&sig=8sS7FEphLDQBY-ep-q8bgi-FKic#v=onepage&q=%C3%B6ffentliche%20projekte%20projektmanagement&f=false
+[^11]: https://www.ndrkulturkarte.de/partner/elbphilharmonie-und-laeiszhalle/
 
 # Öffentliche Projekte
 
@@ -57,7 +58,7 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 | Elbphilharmonie    | 77 Mio       | 866 Mio      |
 
 ![Beispielabbildung](Oeffentliche_Projekte/Titelbild_Elbphilharmonie_Laeiszhalle-min-786x442.jpg)
-Elbphilharmonie
+Elbphilharmonie[^11]
 
 
 
