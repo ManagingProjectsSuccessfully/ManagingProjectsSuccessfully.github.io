@@ -7,7 +7,7 @@ anrechnung: k
 
 
 
-[^1]: https://www.netinbag.com/de/business/what-is-a-public-project.html
+[^1]: [Oeffentliche Projekte](https://www.netinbag.com/de/business/what-is-a-public-project.html)
 [^2]: https://dl.gi.de/handle/20.500.12116/16777
 [^3]: https://wirtschaftslexikon.gabler.de/definition/oeffentlich-private-partnerschaften-oepp-54537
 [^4]: http://projekt-manager.eu/gescheiterte-projekte.html
