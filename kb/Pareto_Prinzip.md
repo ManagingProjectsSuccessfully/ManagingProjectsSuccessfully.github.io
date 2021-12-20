@@ -79,17 +79,17 @@ Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProje
 
 
 ### Quellen
-[^ 1]: https://www.dw.com/de/wachsende-kluft-zwischen-arm-und-reich-in-deutschland/a-57506792
-[^4 2]: Hauke Christiansen, Münster, 2020, "Schulentwicklung proaktiv, kreativ, effektiv - Rückenwind für Schulleitungen", S. 203
-[^ 3]: Alfred Ultsch, Marburg, 2001, "Eine Begründung der Pareto-80/20 Regel und Grenzwerte für die ABC-Analyse", S. 1
-[^ 4]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
-[^ 5]: https://www.braintool.com/blog/pareto-prinzip-projektmanagement/
+[^1]: https://www.dw.com/de/wachsende-kluft-zwischen-arm-und-reich-in-deutschland/a-57506792
+[^2]: Hauke Christiansen, Münster, 2020, "Schulentwicklung proaktiv, kreativ, effektiv - Rückenwind für Schulleitungen", S. 203
+[^3]: Alfred Ultsch, Marburg, 2001, "Eine Begründung der Pareto-80/20 Regel und Grenzwerte für die ABC-Analyse", S. 1
+[^4]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
+[^5]: https://www.braintool.com/blog/pareto-prinzip-projektmanagement/
 
-[^ 6]: https://de.wikipedia.org/wiki/Pareto-Verteilung
+[^6]: https://de.wikipedia.org/wiki/Pareto-Verteilung
 
 
-[^ 7]: Stephan Rusch, 2019, "Stressmanagement - Ein Arbeitsbuch für die Aus-, Fort- und Weiterbildung", S. 118
-[^ 8]: https://www.gruenderlexikon.de/checkliste/fuehren/zeitmanagement/pareto-prinzip/
+[^7]: Stephan Rusch, 2019, "Stressmanagement - Ein Arbeitsbuch für die Aus-, Fort- und Weiterbildung", S. 118
+[^8]: https://www.gruenderlexikon.de/checkliste/fuehren/zeitmanagement/pareto-prinzip/
 
 [^10]: https://www.selbst-management.biz/pomodoro-technik/
 
