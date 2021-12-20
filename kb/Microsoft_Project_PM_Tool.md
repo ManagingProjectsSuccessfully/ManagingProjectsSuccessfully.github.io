@@ -133,7 +133,7 @@ Sind diese Schritte abgearbeitet, können mittels einer Auswahlliste Ressourcen 
 
 
 Um Rahmentermine in einem Projekt abzustecken, werden Meilensteine oder Vorgänge zeitlich fixiert.
-Die Fixierung kann über Einschränkungen, hartes Terminziel, oder Stichtage, weiches Terminziel, erfolgen. 
+Die Fixierung kann über Einschränkungen (hartes Terminziel) oder Stichtage (weiches Terminziel) erfolgen. 
 Es sollte ein gesunder Mix aus beiden Festlegungsmaßnahmen verwendet werden.
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Stichtage_1.jpeg)
