@@ -13,7 +13,7 @@ zwei weitere Dimensionen, nämlich Ökologie und Soziales beruht. Um nachhaltige
 
 Der Begriff der Triple Bottom Line wurde vor allem von dem amerikanischen Unternehmensberater John Elkington Mitte der 1990er Jahre geprägt. Er erweiterte damit die Sichtweise
 von Unternehmen, nicht nur wirtschaftliche, sondern auch soziale und ökologische Aspekte gleichzeitig zu berücksichtigen, um langfristig eine erfolgreiche und [nachhaltige 
-Entwicklung](Nachhaltige_Entwicklung.md) zu erreichen.[^2][^3] 
+Entwicklung](Nachhaltige_Entwicklung.md) zu erreichen.[^2][^3]    
 Zur gleichen Zeit wurde in Deutschland vom Verband der chemischen Industrie ein ähnliches Modell entwickelt.[^4]
 
 
