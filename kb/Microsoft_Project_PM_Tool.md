@@ -122,8 +122,8 @@ Hier wird die Summe der Arbeitsstunden geplant, die die Ressource für diesen Vo
 ### 7.	Ressourcen anlegen und verwalten
 
 Nach der Aufwandsschätzung werden Ressourcen auf Vorgänge verplant. Über „Ressource: Tabelle“ werden im lokalen Ressourcenpool Ressourcen angelegt. 
-Ressourcen können als Material, Arbeit oder Kosten definiert sein. Im Ressourcenpool sollten daher klare Einheiten für die Errechnung der jeweiligen Ressourcen hinterlegt sein (Bsp.: Arbeit, Stundensatz).
-Sind diese Schritte abgearbeitet können mittels einer Auswahlliste Ressourcen in der Spalte „Ressourcennamen“ gewählt werden.
+Diese können als Material, Arbeit oder Kosten definiert sein. Im Ressourcenpool sollten daher klare Einheiten für die Errechnung der jeweiligen Ressourcen hinterlegt sein (Bsp.: Arbeit, Stundensatz).
+Sind diese Schritte abgearbeitet, können mittels einer Auswahlliste Ressourcen in der Spalte „Ressourcennamen“ gewählt werden.
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Ressourcen.jpeg)
 
