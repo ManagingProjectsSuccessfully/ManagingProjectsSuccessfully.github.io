@@ -20,23 +20,24 @@ Die drei Formen heißen Androzentrismus, Geschlechtsinsensibilität und Doppelte
 ## Welche Rolle spielen kognitive Verzerrungen?
 Mithilfe von [kognitiven](Dunning_Kruger_Effekt.md) Abkürzungen kann unser Gehirn Informationen des Alltags reduzieren. Dadurch werden sinnvolle Funktionen erfüllt. Deshalb kann es jedoch zu Verzerrungen und voreiligen Annahmen kommen, welche sich negativ auf einzelne Personengruppen auswirken können.[^5]  
 ## Beispiele
-Wir sprechen zum Beispiel von einem Gender Bias, wenn bei der Neuzulassung von Autos lediglich Sicherheitstests mit auf Männern zugeschnittenen Dummies gesetzlich vorgeschrieben sind oder Wissenschaftler die biologischen Unterschiede zwischen Männern und Frauen bei der Entwicklung neuer Medikamente nicht hinreichend beachten. Ein weiteres Beispiel entsteht, wenn man Männer bzw. Frauen stereotypisiert und ihnen bestimmte Kompetenzen zuweist und diese gleichzeitig mit einzelnen Jobs verbindet.[^6] 
+Wir sprechen zum Beispiel von einem Gender Bias, wenn bei der Neuzulassung von Autos lediglich Sicherheitstests mit auf Männern zugeschnittenen Dummies gesetzlich vorgeschrieben sind, oder Wissenschaftler die biologischen Unterschiede zwischen Männern und Frauen bei der Entwicklung neuer Medikamente nicht hinreichend beachten. Ein weiteres Beispiel entsteht, wenn man Männer bzw. Frauen stereotypisiert und ihnen bestimmte Kompetenzen zuweist und diese gleichzeitig mit einzelnen Jobs verbindet.[^6] 
 # Wie denken Führungskräfte darüber? 
 
 ![Die Mehrheit der Manager glaubt, dass Frauen im Beruf nicht mehr diskriminiert werden.](Gender_Bias/image.png) 
 
 Abbildung 1: [Die Mehrheit der Manager glaubt, dass Frauen im Beruf nicht mehr diskriminiert werden.](https://science.orf.at/stories/3201035/)
  
-Die Ergebnisse stammen aus einer Studie von Christopher Begeny. Es wurde ein Arbeitsumfeld gewählt, in dem Frauen zahlenmäßig aufgeholt haben, und zwar die Veterinärmedizin. Die [Manager*innen](Projektleiter.md) wurden befragt, ob sie glauben, dass Frauen und Männer die gleichen Chancen haben und gleichberechtigt sind. Mehr als 44% waren dieser Meinung, 61% davon Männer. 40 Prozent hatten die Meinung, dass es noch immer einen Gender Bias gebe, nur 23% davon waren Männer. Der Rest war unsicher.[^7] Zahlreiche Unternehmen zweifeln immer noch an der Vereinbarkeit von beruflichem und privatem. Oft werden Frauen in bestimmten Branchen als untypische oder ungeeignete [Führungskraft](Projektleiter.md) abgestempelt. Das führt dazu, dass Frauen in Führungspositionen [kritischer](Umgang_mit_Kritik.md) beobachtet werden als ihre männlichen Kollegen.[^8] 
+Die Ergebnisse stammen aus einer Studie von Christopher Begeny. Es wurde ein Arbeitsumfeld gewählt, in dem Frauen zahlenmäßig aufgeholt haben, und zwar die Veterinärmedizin. Die [Manager*innen](Projektleiter.md) wurden befragt, ob sie glauben, dass Frauen und Männer die gleichen Chancen haben und gleichberechtigt sind. Mehr als 44% waren dieser Meinung, 61% davon Männer. 40 Prozent hatten die Meinung, dass es noch immer einen Gender Bias gebe, nur 23% davon waren Männer. Der Rest war unsicher.[^7] Zahlreiche Unternehmen zweifeln immer noch an der Vereinbarkeit von Beruflichem und Privatem. Oft werden Frauen in bestimmten Branchen als untypische oder ungeeignete [Führungskraft](Projektleiter.md) abgestempelt. Das führt dazu, dass Frauen in Führungspositionen [kritischer](Umgang_mit_Kritik.md) beobachtet werden als ihre männlichen Kollegen.[^8] 
 ## Was kann man als einzelnes Unternehmen bewegen?
-Als einzelnes Unternehmen kann man die traditionelle Rollenverteilung der Geschlechter in der Gesellschaft nicht verändern. Trotzdem kann das Unternehmen bewusst die Vereinbarkeit von Beruf und Privatleben sowie untypische Karrierewege aufzeigen, stärken und fördern.[^9]  
+Als einzelnes Unternehmen kann man die traditionelle Rollenverteilung der Geschlechter in der Gesellschaft nicht verändern. Trotzdem kann das Unternehmen bewusst die Vereinbarkeit von Beruf und Privatleben, sowie untypische Karrierewege aufzeigen, stärken und fördern.[^9]  
 
 # Siehe auch 
 * [Dunning-Kruger-Effekt](Dunning_Kruger_Effekt.md)
+* [Rückschaufehler](Rückschaufehler.md)
 * [Survivorship_Bias](Survivorship_Bias.md)
 * [Projektleiter](Projektleiter.md)
 * [Umgang mit Kritik](Umgang_mit_Kritik.md)
-* [Rückschaufehler](Rückschaufehler.md)
+
 # Quellen
 [^1]: [Karriere-Killer Gender Bias](https://blog.iao.fraunhofer.de/karriere-killer-gender-bias/)
 [^2]: [Gender Bias](https://de.wikipedia.org/wiki/Gender_Bias)
