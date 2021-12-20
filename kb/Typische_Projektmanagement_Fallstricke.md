@@ -12,7 +12,7 @@ Aufgrund der Komplexität des Projektmanagements können sogenannte ,,Projektman
 Im Folgenden werden die typischen Fallstricke des Projektmanagement dargestellt. Des Weiteren wird aufgezeigt wie man diese vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu erhöhen.
 
 
-# 1.Das Fehlen eines konkreten Projektplans und somit eines Ziels
+# 1. Das Fehlen eines konkreten Projektplans und somit eines Ziels
 
 Ohne klar definierte Ziele wird die Führung eines erfolgreichen Projektmanagement-Teams fast unmöglich, was automatisch zum Scheitern oder zu einem sehr hohen Budget führen kann[^1]. Das Team weiß nicht, woran man sich orientieren muss und was die anstehenden Pläne sind. Es ist schwer erkennbar, welche Person wofür zuständig ist und wie hoch das erforderliche und verfügbare Budget ist. Auch die Zeitanforderungen sind unklar.
 ## Lösung: 
