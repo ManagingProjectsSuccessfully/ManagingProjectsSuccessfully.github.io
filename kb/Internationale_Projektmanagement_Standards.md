@@ -1,104 +1,73 @@
 ---
 title: Internationale_Projektmanagement_Standards
-tags: agil klassisch
+tags: klassisch
 author: laura1mueller
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Internationale_Projektmanagement_Standards um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Zielsetzung
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Die Bedeutung Internationaler Projekte wird in Zukunft deutlich zunehmen [^1]. Neben den Projektmanagement Normen, die besonders deutlich im Grundsatzpapier der verschiedenen Organisationen und Projekten definiert werden, ist es dagegen bei Projektmanagement Standards deutlich schwerer, den genauen Inhalt und die Zielsetzung herauszufinden. Standards können daher unter anderem als Richtlinie oder als eine Referenzdarstellung verstanden werden. Bei der Wahl der Projektmanagement (PM) Standards sollte ein pragmatisches Vorgehen gewählt werden, welches zudem regelmäßig in der Literatur diskutiert wird. [^2] 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Internationale Standards
+Im folgenden werden drei Internationale Projektmanagement Standards vorgestellt.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## PMI: Project Management Body of Knowledge (PMBOK)
+Das Project Management Institute (PMI) wurde 1969 gegründet. Dort gibt es verschiedene PM Zertifikate wie beispielsweise PM Professional und PM Business Analysis                    basierend auf verschiedenen Standards.[^3] Der weit verbreitest, besonders in den USA kaum wegzudenkende PM Standard, ist das PMBOK. Weltweit gibt es davon über 890.000 Zertifizierungen.[^2]    
+Als Zulassungskriterium müssen mindestens 4.500 Projektstunden (mit Hochschulabschluss) bzw. 7.500 Projektstunden (ohne Hochschulabschluss) sowie 35 Stunden 
+Schulung nachgewiesen werden. Höhere Zertifizierungs Level erfordern zusätzlich den Nachweis von bis zu 6.000 Stunden PM-Erfahrung.[^4]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Bei der Anwendung des PMBOK werden innerhalb des Projektes 49 Prozesse in einer Matrix von 5 Prozessgruppen und 10 Wissensgebieten definiert. Diese beschreiben für jeden Prozess den Input, Output, die Werkzeuge und das Verfahren. Dadurch hat man sich zum Ziel gesetzt, besonders die Prozesse und Terminologien bei einem Projekt zu vereinheitlichen. Benötigte Fähigkeiten werden bei diesem Standard nicht weiter ausgebaut. Hauptmerkmal ist die Projektausrichtung, die sich an den einzelnen 
+Projektphasen orientiert. 
+Ebenfalls hervorzuheben ist der sogenannte PMI’s Code of Ethics and Professional Conduct, der vor der Zertifizierung akzeptiert werden muss und zur Rechtschaffenheit verpflichtet.[^5]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+<img width="249" alt="PMI" src="https://user-images.githubusercontent.com/92951568/141460006-2da954c5-d970-454e-91c6-56e3717fe39e.png">
+Abbildung: Beispiel Projektgruppen und Wissensgebiete des PMBOK PM.
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+## IPMA Indvidual Competence Baseline (ICB4)
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die International Project Management Association (IPMA) wurde 1965 gegründet und ist geprägt durch eine sehr individuelle Herangehensweise, da es kein festes Modell 
+zum Vorgehen gibt, sondern die Projektleitung die Vorgehensweise sowohl national als auch branchenspezifisch festlegt. Dabei ist die Kompetenzorientierung, sowie das Fach-und Methodenwissen der Führungspersönlichkeit besonders wichtig. Aber auch Softskills und soziale Fähigkeiten werden stark gewichtet. Ein von IPMA
+herausgegebenen Buch beschreibt zudem detailliert, die verschiedenen Kompetenzelemente. Methoden, Wissen und diverse Tools werden mit an die Hand gegeben,
+Prozessmodelle fehlen allerdings, da davon ausgegangen wird, dass qualifizierte Personen in der Lage sind in bestimmten Handlungen zu bestimmen, welche Schritte 
+notwendig sind, was auch als „Eye of Competence“ bezeichnet wird. Der Standard gliedert sich in vier verschiedenen Stufen, vom niedrigsten Level D, bis zum höchsten Level A. Je nach Level unterscheiden sich auch die Zulassungsvoraussetzungen und abgeleitete Maßnahmen.[^5]
 
+ICB4 wird weltweit in über 71 Ländern verwendet und es gibt über 250.000 Zertifikate weltweit. [^4]
 
-# Aspekt 1
+<img width="210" alt="IPMA" src="https://user-images.githubusercontent.com/92951568/141460092-d1243f27-cf6b-4942-a454-58ac034497c6.png">
+Abbildung: Eye of Competence, GPM Deutsche Gesellschaft für Projektmanagement e.V.
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## Prince2 (PRoject IN Controlled Environments)
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Ist mittlerweile der größte Internationale Projektmanagement Standard, der ursprünglich aus Großbritannien stammt. Erstmals wurde er hauptsächlich für IT-Projekte 
+und größere öffentliche Projekte verwendet. Er kombiniert Methoden-und Führungskompetenzen und kann branchenübergreifend eingesetzt werden. Mittlerweile ist er in 
+50 Länder verbreitet und es bestehen über 1 Millionen Prince2-Profis.
 
-![Beispielabbildung](Internationale_Projektmanagement_Standards/test-file.jpg)
+Prince2 ist sehr Phasen-und Prozessorientiert, bestehend aus 1 Projektumfeld, 7 Grundprinzipien, 7 Themen (Handlungsfelder, die während Produlebenszyklus zu
+bearbeiten sind) und 7 Prozessen. Die Planungstechnik basiert auf einem Produkt, das bedeutet alle Dokumente und Meilensteile werden als Produkt bezeichnet.
+Eine weitere Besonderheit ist zudem, dass dieser PM Standards ein Projekt als „für einen befristeten Zeitraum geschaffene Organisation“ definiert. Durch viele  
+Arbeitsvorlagen und eine produktbasierte Planung, lässt sich Prince 2 gut mit anderen Standards kombinieren.[^5]
 
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+<img width="304" alt="MPS" src="https://user-images.githubusercontent.com/92951568/141459894-b992b1a0-5732-4eeb-a5f9-99e8aa0cac38.png">
+Abbildung: Aufbau von Prince2. 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Internationale_Projektmanagement_Standards.md)
+* [Internationale Projektsteuerung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Internationale_Projektsteuerung.md)
+* [Internationale Projektteams](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Internationale_Projektteams.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Madauss, B. J. (2017). Internationales Projektmanagement. In Projektmanagement (pp. 581-603). Springer Vieweg, Berlin, Heidelberg.](https://link.springer.com/chapter/10.1007%2F978-3-662-54432-7_16)
+* [Dörrenberg, F., Jeebe, H. J., Passenberg, J., & Rietz, S. (2014). Internationales Projektmanagement in der Praxis: Berichte, Erfahrungen, Fallbeispiele. Symposion Publishing GmbH.](https://books.google.de/books?hl=en&lr=&id=OGC3AwAAQBAJ&oi=fnd&pg=PP1&dq=Internationales+Projektmanagement+standards&ots=71BVP9_zht&sig=IP7hksx8Yq1b-vWyBWHeto2DF98&redir_esc=y#v=onepage&q=Internationales%20Projektmanagement%20standards&f=false)
+* [Reich, B. H., & Wee, S. Y. (2006). Searching for Knowledge in the PMBOK® Guide. Project Management Journal, 37(2), 11-26.](https://journals.sagepub.com/doi/abs/10.1177/875697280603700203.)
+* [Wideman, R. M. (2002). Comparing PRINCE2® with PMBoK®. AEW Services, Vancouver, BC, Canada, 13-16.](http://alecoledelavie.com/accueil/vie_uploads/Portfolio_Programs_Projects_and%20BAU/PortFolio_stuff/Courses%20resources%20stuff/PRINCE2_june_2018/0_Prince2_la%20methode/Prince2_et_les_autres_referentiels/Prince2_vs_PMBok/Comparing_PMBok_Prince2.pdf)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://link.springer.com/chapter/10.1007/978-3-662-54432-7_16
+[^2]: https://www.econstor.eu/bitstream/10419/189826/1/104115237X.pdf
+[^3]: https://www.pmi.org/certifications
+[^4]: https://www.haufe-akademie.de/blog/themen/projekt-prozessmanagement/drei-standards-ein-ziel-projekte-erfolgreich-managen/)
+[^5]: https://www.assure.de/sites/default/files/media/downloads/whitepaper_projektmanagement_standards_vergleich.pdf)
 
