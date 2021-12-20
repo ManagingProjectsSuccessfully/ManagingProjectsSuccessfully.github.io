@@ -28,33 +28,34 @@ Vorhersagen treffen realistisch gesehen nie zu 100% ein, da unkontrollierbare Fa
 # 3 Grundlegende Instrumente von Prognosen 
 Die Vorausbestimmung eines zukünftigen Zustands kann anhand mehrerer Instrumente geschehen. Die folgenden drei Herangehensweisen werden situationsbedingt in unterschiedlichen Projektarten angewendet. 
 ## 3.1 Erfahrungswissen 
-Prognosen, die auf Erfahrungswerten basieren, stellen zwar die zuverlässigste Methode dar, scheitern jedoch sobald es sich um ein sehr neues und innovatives Projekt handelt, wofür noch kein Repertoire an Wissen existiert, auf das man zurückgreifen könnte[^4]. 
+Prognosen, die auf Erfahrungswerten basieren, stellen in der Regel die zuverlässigste Methode dar. Sie kommen jedoch an ihre Grenzen, sobald es sich um ein sehr neues und innovatives Projekt handelt, wofür noch kein Repertoire an Wissen existiert, auf das man zurückgreifen kann[^4]. 
 ## 3.2 Expertenschätzung 
-Wenn kein bereits vorhandenes Erfahrungswissen existiert, dienen Schätzungen von Experten als Orientierungsrahmen. Diese beruhen jedoch meist auf Annahmen, die eine hohe Unsicherheit aufweisen können[^4]. 
+Schätzungen von Experten kommen meist in Einsatz, wenn noch kein Erfahrungswissen vorhanden ist und dienen als Orientierungsrahmen für Prognosen. Diese beruhen jedoch meist auf Annahmen, die eine hohe Unsicherheit aufweisen können[^4]. 
 ## 3.3 Szenarien 
-"Wenn-dann-Szenarien" prognostizieren potenzielle Entwicklungen und zeigen in großem Umfang die unterschiedlichen Möglichkeiten eines Projektverlaufs auf[^4]. 
+["Wenn-dann-Szenarien"](Szenario_Technik.md) prognostizieren potenzielle Entwicklungen und zeigen in großem Umfang die unterschiedlichen Möglichkeiten eines Projektverlaufs auf[^4]. 
 
 # 4 Unterschiedliche Methoden des Forecastings 
-Grundsätzlich kann zwischen zwei Arten von Forecasts unterschieden werden. Standard-Forecasts, die regelmäßig angepasst werden, und Ad-hoc-Forecast, die unregelmäßig durchgeführt werden[^2]. Da mit dem Fortschritt des Projektes das Wissen über den tatsächlichen Projektverlauf steigt, können durch Anpassungen präzisere Vorhersagen vorgenommen und der [Business Case](Business_Cases.md) überprüft und aktualisert werden[^4].
+Grundsätzlich kann zwischen zwei Arten des Forecastings unterschieden werden. Standard-Forecasts, die regelmäßig angepasst werden, und Ad-hoc-Forecast, die unregelmäßig durchgeführt werden[^2]. Da mit dem Fortschritt des Projektes das Wissen über den tatsächlichen Projektverlauf steigt, können durch Anpassungen präzisere Vorhersagen vorgenommen und der [Business Case](Business_Cases.md) überprüft und aktualisiert werden[^4].
 
 ## 4.1 Earned Value Analyse
-Die [Earned Value Analyse](Earned_Value_Analyse.md) stellt eine Variante des laufenden und regelmäßigen Forecastings dar, welche durch die Berechnung des Schedule Performance Index (SPI) eine Prognose über den Endtermin und und mit dem Cost Performance Index Aussagen über die Entwicklung der Projektkosten bereitstellt[^4]. 
+Die [Earned Value Analyse](Earned_Value_Analyse.md) stellt eine Variante des laufenden und regelmäßigen Forecastings dar, welche durch die Berechnung des Schedule Performance Index (SPI) eine Prognose über den Endtermin und mit dem Cost Performance Index (CPI) Aussagen über die Entwicklung der Projektkosten bereitstellt[^4]. 
 
 ## 4. 2 Effektbasierter Forecast 
-Beim effektbasierten Forecast liegt der Fokus auf Effekten und Maßnahmen, die große Veränderungen vorhersagen. Hier wird zwischen wenig beeinflussbaren Effekten wie zum Beispiel den Wegfall von Patenten und beeinflussbaren Maßnahmen wie zum Beispiel der Kürzung des Werbeetats unterschieden. Es werden hier insbesondere Effekte berücksichtigt, die stark vom Basis-Forecast abweichen, um große Effekte in den Fokus zu stellen sowie diese transparent und berichtsfähig zu machen[^2]. 
+Beim effektbasierten Forecast liegt der Fokus auf Effekten und Maßnahmen, die einen maßgeblichen Einfluss auf das Projekt ausüben. Hier wird zwischen wenig beeinflussbaren Effekten wie zum Beispiel dem Wegfall von Patenten und beeinflussbaren Maßnahmen wie zum Beispiel der Kürzung des Werbeetats unterschieden. Es werden insbesondere Effekte berücksichtigt, die starke Abweichungen vom Basis-Forecast zur Folge haben. Dadurch werden vor allem potenziell große Auswirkungen auf den Projektverlauf in den Fokus gestellt sowie diese transparent und berichtsfähig gemacht[^2]. 
 
  ![Abbildung-Effektbasiert](Forecasts/EffektbasierterForecast.jpg) 
+ Abbildung Effektbasierte Methode 
 
 ## 4. 3 Werttreiberbasierter Forecast 
-Der werttreiberbasierte Ansatz setzt auf eine Prognose anhand weniger Kennzahlen. Das Hauptaugenmerk liegt bei dieser Methode auf zuvor festgelegten relevanten Geschäftstreiber wie beispielsweise Menge, Preis, Personalkosten. Auf Basis der Vorhersage dieser Werttreiber errechnet sich damit der Forecast für die relevanten Kennzahlen des Projektes[^2]. 
+Der werttreiberbasierte Ansatz setzt auf eine Prognose anhand weniger Kennzahlen. Das Hauptaugenmerk liegt bei dieser Methode auf zuvor festgelegten relevanten Geschäftstreibern wie beispielsweise Menge, Preis, Personalkosten. Auf Basis der Vorhersage dieser Werttreiber errechnet sich damit der Forecast für die relevanten Kennzahlen des Projektes[^2]. 
  
  ![Abbildung-Werttreiber](Forecasts/WerttreiberbasierterForecast.jpg) 
+ Abbildung werttreiberbasierte Methode
 
 
 # Siehe auch
 
 * [Planungssicherheit](Planungssicherheit.md)
-* [Bottom Up Planning](Bottom_Up_Planning.md)
 * [Projektplanung](Projektplanung.md)
 * [Zeitplanung](Zeitplanung.md)
 * [Kostenplanung](Kostenplanung.md)
@@ -70,5 +71,7 @@ Der werttreiberbasierte Ansatz setzt auf eine Prognose anhand weniger Kennzahlen
 [^2]: [Forecast Controlling - Definition: Was bedeutet Forecast im Controlling?](https://www.haufe.de/controlling/controllerpraxis/forecast-controlling/forecast-controlling-mit-excel_112_453412.html)
 [^3]: [7 Regeln für einen qualitativen Forecast](https://unternehmer.de/marketing-vertrieb/72056-7-regeln-fur-einen-qualitativen-forecast)
 [^4]: [Projektmagazin: Prognose](https://www.projektmagazin.de/glossarterm/prognose)
+[^5]: [Methoden des Forecast Controllings: Effektbasierter Forecast](https://www.haufe.de/controlling/controllerpraxis/bilderserie-methoden-des-forecast-controllings/forecast-controlling-abb-2_112_453406_453396.html)
+[^6]: [Methoden des Forecast Controllings: Werttreiberbasierter Forecast](https://www.haufe.de/controlling/controllerpraxis/bilderserie-methoden-des-forecast-controllings/forecast-controlling-abb-3_112_453406_453398.html)
 
 
