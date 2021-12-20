@@ -5,7 +5,7 @@ author: JoseOliveira2
 anrechnung: k
 ---
 
-Der Begriff „nachhaltige Entwicklung“, die deutsche Übersetzung des englischen Begriffs „sustainable development“, wird im allgemeinen Sprachgebrauch unterschiedlich verwendet und oft sehr stark mit sozialen und ökologischen Aspekten assoziiert[^2]. Laut Wikipedia, bezeichnet er „eine Entwicklung, die den Bedürfnissen der jetzigen Generation dient, ohne die Möglichkeiten künftiger Generationen zu gefährden, ihre Bedürfnisse zu befriedigen“[^3]. Für Holden, Linnerud, & Banister[^1] ist nachhaltige Entwicklung ein normatives Wertesystem, welches eng mit Menschenrechten, Demokratie und Freiheit verknüpft ist. Daher beruht das Konzept der nachhaltigen Entwicklung auf drei [Imperativen](https://de.wikipedia.org/wiki/Imperativ): Befriedigung menschlicher Bedürfnisse, Gewährleistung sozialer Gerechtigkeit und Respektierung der Umweltgrenzen.
+Der Begriff „nachhaltige Entwicklung“ wird im allgemeinen Sprachgebrauch unterschiedlich verwendet und oft sehr stark mit sozialen und ökologischen Aspekten assoziiert[^2]. Laut Wikipedia, bezeichnet er „eine Entwicklung, die den Bedürfnissen der jetzigen Generation dient, ohne die Möglichkeiten künftiger Generationen zu gefährden, ihre Bedürfnisse zu befriedigen“[^3]. Für Holden, Linnerud, & Banister[^1] ist nachhaltige Entwicklung ein normatives Wertesystem, welches eng mit Menschenrechten, Demokratie und Freiheit verknüpft ist. Daher beruht das Konzept der nachhaltigen Entwicklung auf drei [Imperativen](https://de.wikipedia.org/wiki/Imperativ): Befriedigung menschlicher Bedürfnisse, Gewährleistung sozialer Gerechtigkeit und Respektierung der Umweltgrenzen.
 
 # Warum ist nachhaltige Entwicklung wichtig?
 
