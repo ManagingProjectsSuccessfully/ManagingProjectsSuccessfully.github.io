@@ -17,7 +17,7 @@ Da Bezugspreise in der Regel zu Projektstart vertraglich fixiert werden, sinkt d
 ![Beeinflussbarkeit der Kosten im Projektverlauf](Kostenplanung/Kostenbeeinflussbarkeit.png)
 
 # Zerlegung des gesamten Projekts in Arbeitspakete
-Um eine genaue Schätzung zu gewährleisten, wird das gesamte Projekt in mehrere, kleinere Arbeitspakete aufgeteilt [^1]. Dafür wird vom gesamten Projekt ein [Projektstrukturplan](Projektstrukturplan.md) gebildet, der die Übersicht über die Kostenstruktur erheblich vereinfacht. Die Kosten der einzelnen Arbeitsschritte werden nach oben im Plan akkumuliert und bilden am Ende die Gesamtkosten des Projekts
+Um eine genaue Schätzung zu gewährleisten, wird das gesamte Projekt in mehrere, kleinere Arbeitspakete aufgeteilt [^1]. Dafür wird vom gesamten Projekt ein [Projektstrukturplan](Projektstrukturplan.md) gebildet, der die Übersicht über die Kostenstruktur erheblich vereinfacht. Die Kosten der einzelnen Arbeitsschritte werden nach oben im Plan akkumuliert und bilden am Ende die Gesamtkosten des Projekts.
 
 # Planungsverfahren
 Zuerst erfolgt die sogenannte Einzelkostenplanung. Einzelkosten sind alle Kosten, die sich direkt einem Projekt/Produkt zurechnen lassen. Sie werden in drei Kategorien eingeteilt: Material,- Personal-, und Sondereinzelkosten. Je nach Typ wird geschätzt, wie viel von diesem Faktor verbraucht wird und welche Kosten eine Einheit erzeugt. Kumuliert ergibt dies die Summe der Einzelkosten für ein Projekt. Die Verbrauchsmengen können z.B. über Stücklisten, Vergangenheitswerte oder Konstruktionszeichnungen geplant werden. [^3]
@@ -51,3 +51,4 @@ Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt 
 [^2]: Wikipedia, Abrufdatum 19.11.2021, https://de.wikipedia.org/wiki/Kostenmanagement#Kostenmanagement_im_Projektmanagement
 [^3]: Cost Competence Center, Abrufdatum 19.11.2021, https://onlinecosting.de/kostenoptimierung/kostenplanung/#was-ist-kostenplanung
 [^4]: Projekte leicht gemacht, Abrufdatum 19.11.2021, https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektplanung/kostenplanung-projekt/
+Bildquelle: https://erfolgreich-projekte-leiten.de/kostenplan/
