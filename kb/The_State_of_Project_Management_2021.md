@@ -7,15 +7,15 @@ anrechnung: k
 
 ________________________________________________________________________________________________________________
 
-"The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation Wellington. In diesem Bericht werden zahlreiche namenhafte Unternehmen aus verschiedenen Sektoren interviewet, um den aktuellen Probleme, Entwicklungen des Projektmanagement als auch Methoden und Ansätze für die Zukunft zu präsentieren [^1]. Diese sollen wiederum Unternehmen dazu bewegen ihre Prozesse im Projektablauf zu hinterfragen und mit neuen Techniken effizienter zu gestalten. 
+"The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation Wellington. In diesem Bericht werden zahlreiche namenhafte Unternehmen aus verschiedenen Sektoren interviewet, um den aktuellen Probleme, Entwicklungen des [Projektmanagement](kb/Projektmanagement.md) als auch Methoden und Ansätze für die Zukunft zu präsentieren. [^1] Diese sollen wiederum Unternehmen dazu bewegen ihre Prozesse im Projektablauf zu hinterfragen und mit neuen Techniken effizienter zu gestalten. 
 
-Im Allgemeinen zeichnet sich seit mehreren Jahren ab, dass beim Projektmanagement die Performance, Durchführung und der Erfolg des Projekt zunehmend abnimmt. Durch Analyse, Auswertung und Darstellung bestimmter Fragen wird die aktuelle Entwicklung wiedergegeben. Maturity Levels spiegeln die Leistungen wider und durch sogenannte Key Drivers wird beschrieben, welche Faktoren wichtig sind, damit das Projektmanagement erfolgreich ist.[^2][^3]
+Im Allgemeinen zeichnet sich seit mehreren Jahren ab, dass beim Projektmanagement die Performance, Durchführung und der Erfolg des Projekt zunehmend abnimmt. Durch Analyse, Auswertung und Darstellung bestimmter Fragen wird die aktuelle Entwicklung wiedergegeben. Maturity Levels spiegeln die Leistungen wider und durch sogenannte Key Drivers wird beschrieben, welche Faktoren wichtig sind, damit das Projektmanagement erfolgreich ist. [^2] [^3]
 
 Das Berichtschema der Organisation Wellingtone wird im Nachfolgenden mit den wichtigsten Aspekten wiedergegeben. 
 
 # Project Management Basics
 
-Unter den Project Management Basics sind Fragen zu verstehen, die Aufschluss über aktuelle Entwicklungen im Projektmanagement widergeben und allgemeine Kennzahlen darstellen. So wird im Bericht 2021 festgestellt, ob mit einer festgelegten Methode und Zeitplan, mit einem Planungsprotokoll und mit möglichen Risikomanagement gearbeitet wird.[^2] Mit Hilfe dieser Fragen können Schlussfolgerungen über ein mögliches Verbesserungspotenzial als auch die Entwicklungsrichtung von Projekt Management dargestellt werden.
+Unter den Project Management Basics sind Fragen zu verstehen, die Aufschluss über aktuelle Entwicklungen im Projektmanagement widergeben und allgemeine Kennzahlen darstellen. So wird im Bericht 2021 festgestellt, ob mit einer festgelegten Methode und Zeitplan, mit einem Planungsprotokoll und mit möglichen [Risikomanagement](kb/Risikomanagement.md) gearbeitet wird. [^2] Mit Hilfe dieser Fragen können Schlussfolgerungen über ein mögliches Verbesserungspotenzial als auch die Entwicklungsrichtung von Projekt Management dargestellt werden.
 
 So wird im diesjährigen Bericht mit Hilfe eines Diagrammes Rückschlüsse gewonnen, die aufzeigen, welche Aufgaben die größten Herausforderungen mit dem damit zusammenhängenden Wert im Portfolio des Projektmanagements haben.
 
@@ -25,7 +25,7 @@ So wird im diesjährigen Bericht mit Hilfe eines Diagrammes Rückschlüsse gewon
 
 # Maturity Levels
 
-Mit Hilfe der fünf Maturity Levels wird die Reife des Projektmanagements genauer beschrieben. Damit wird Unternehmen aufgezeigt, auf welchem Level sich einzelne Abschnitte im Projektmanagement befinden, um hier besser anzugreifen und eine Entwicklung einzuleiten.[^10]
+Mit Hilfe der fünf Maturity Levels wird die Reife des Projektmanagements genauer beschrieben. Damit wird Unternehmen aufgezeigt, auf welchem Level sich einzelne Abschnitte im Projektmanagement befinden, um hier besser anzugreifen und eine Entwicklung einzuleiten. [^10]
 
 * Level 1: Beginnend
    - Beschreibt ein Projektmanagement, welches nicht vorhanden ist und keine oder nur wenig vollständige Prozesse hat. Es werden kein Dokumente erhoben und Projekte sind ad-hoc geplant. Daraus resultiert, dass Erfolg oder Misserfolg, Kosten, Zeiten und Qualität des Projekts von einzelnen Personen abhängig ist.
@@ -36,7 +36,7 @@ Mit Hilfe der fünf Maturity Levels wird die Reife des Projektmanagements genaue
 * Level 4: Gesteuert
    - Abgrenzend zu Level 3 gibt es in Level 4 eine fest zugeordnete PMO-Funktion für Veränderungen, Kommunikation und Lerneffekte. Alle Projektparameter werden überwacht und gesteuert. Durch die Implementierung des Risikomanagements wird der Erfolg und Misserfolg des Projekts vorhersehbar.
 * Level 5: Optimierend
-   - Alle Prozesse werden immer wieder betrachtet und verbessert, sodass ein Prozess kontinuierlicher Optimierung entsteht. Performance des eigentlichen Projekts und des PMO werden gemessen und fließen in die Entscheidungsgebung mit ein, wodurch Fehler vermieden werden können [^11].
+   - Alle Prozesse werden immer wieder betrachtet und verbessert, sodass ein Prozess kontinuierlicher Optimierung entsteht. Performance des eigentlichen Projekts und des PMO werden gemessen und fließen in die Entscheidungsgebung mit ein, wodurch Fehler vermieden werden können. [^11]
 
 # Schlüsselfaktoren
 
@@ -44,36 +44,36 @@ Unter Schlüsselfaktoren sind einzelne Bereiche des Projektmanagements zu verste
 
 ### 1. Methodik:
 
-Die Methodik, eine Bündelung von Methoden, verhindert Stagnation im Projektmanagement. Hierzu gehören vor allem die Methoden der Analyse, Kreativität, Prognose, Bewertung, Planung und Abwicklung. Zu beachten ist, dass die einzelnen Methoden in Abhängigkeit zueinander stehen. So entsteht das Gefühl eines erarbeiteten Kompromisses, der zur besten Lösung führt.[^4]
+Die Methodik, eine Bündelung von [Methoden](kb/Methoden.md), verhindert Stagnation im Projektmanagement. Hierzu gehören vor allem die Methoden der Analyse, Kreativität, Prognose, Bewertung, Planung und Abwicklung. Zu beachten ist, dass die einzelnen Methoden in Abhängigkeit zueinander stehen. So entsteht das Gefühl eines erarbeiteten Kompromisses, der zur besten Lösung führt. [^4]
 
 ### 2. Projektmanagement Office:
 
-Das Projektmanagement Office, kurz PMO, betreut alle Projekte eines Unternehmens. Durch die Steuerung aus der strategischen Sicht, der Ressourcenkoordinierung, der schnellen Entscheidungsfindung aufgrund eines oftmals dynamischen Umfeldes, der Weitergabe wichtiger Informationen an die Geschäftsleitung sowie der Gewährleistung, dass in allen Projekten die gleichen Methoden angewandt werden, ist das PMO durch Planungs-, Informations- und Erfassungsaufgaben ein wesentlicher Antreiber des Projektmanagements.[^5][^6]
+Das Projektmanagement Office, kurz [PMO](kb/Project_Management_Office.md), betreut alle Projekte eines Unternehmens. Durch die Steuerung aus der strategischen Sicht, der Ressourcenkoordinierung, der schnellen Entscheidungsfindung aufgrund eines oftmals dynamischen Umfeldes, der Weitergabe wichtiger Informationen an die Geschäftsleitung sowie der Gewährleistung, dass in allen Projekten die gleichen Methoden angewandt werden, ist das PMO durch Planungs-, Informations- und Erfassungsaufgaben ein wesentlicher Antreiber des Projektmanagements. [^5] [^6]
 
 ### 3. Technologien:
 
-Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich wiederrum auf die Wirtschaftlichkeit der Projekte auswirkt. Zu den Tools gehören unter anderem die Verwendung von Software zum Termin- und Kostenüberblick, Know-How-Datenbanken und eine einfache Kommunikation via Skype, Teams oder ähnlichen.[^7] Je nach Größe des Unternehmens und Anzahl der durchgeführten Projekte im Jahr kommt es zum Einsatz verschiedener Software. Hierzu gehören die Folgenden: 
+Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich wiederrum auf die Wirtschaftlichkeit der Projekte auswirkt. Zu den Tools gehören unter anderem die Verwendung von Software zum Termin- und Kostenüberblick, Know-How-Datenbanken und eine einfache Kommunikation via Skype, Teams oder ähnlichen. [^7] Je nach Größe des Unternehmens und Anzahl der durchgeführten Projekte im Jahr kommt es zum Einsatz verschiedener Software. Hierzu gehören die Folgenden: 
 
-* Allgemeine Software ist oftmals hinderlich im Bezug auf die Möglichkeit der Nutzung. Dies ist vor allem bei Grafiken ersichtlich. Im Hinblick auf die Verwendbarkeit der Software von Mitarbeiter gibt es nicht viel zu beachten, da es sich hierbei um Office-Anwendungen wie Excel oder Teams handelt.[^8]
-* Freeware-Software bietet vor allem die Möglichkeit grafische Darstellung übersichtlicher abzubilden und sind in das Projektmanagement einfach einzubinden. Jedoch sollte hier Vorsicht walten, da vertrauliche und sensible Daten, gerade bei cloud-basierter Software, von externen Dritten abgegriffen werden können.[^8]
-* Professionelle Software ist unausweichlich, sobald ein Unternehmen mehrere Projekte parallel oder im Jahr am Laufen durchführt. Diese Art von Software kann oftmals auf das Unternehmen angepasst werden. Durch ein einheitliches Erscheinungsbild ist die Verwendung durch die Mitarbeiter einfach gestaltet, muss jedoch erstmals erlernt werden, wozu nicht alle Mitarbeiter bereit sind.[^8]
-* Web 2.0-Software bietet den Vorteil der ständigen Weiterentwicklung. So ist die direkte Kommunikation bspw. mit dem Stakeholdern ein Vorteil, gleichzeitig aber auch ein Nachteil, da Gruppierungen, welche sich gegen das Projekt aussprechen, die nahezu gleiche Informationsbasis zugrunde liegen haben.[^8]
+* Allgemeine Software ist oftmals hinderlich im Bezug auf die Möglichkeit der Nutzung. Dies ist vor allem bei Grafiken ersichtlich. Im Hinblick auf die Verwendbarkeit der Software von [Mitarbeiter](kb/projektmitarbeiter.md) gibt es nicht viel zu beachten, da es sich hierbei um Office-Anwendungen wie Excel oder Teams handelt. [^8]
+* Freeware-Software bietet vor allem die Möglichkeit grafische Darstellung übersichtlicher abzubilden und sind in das Projektmanagement einfach einzubinden. Jedoch sollte hier Vorsicht walten, da vertrauliche und sensible Daten, gerade bei cloud-basierter Software, von externen Dritten abgegriffen werden können. [^8]
+* Professionelle Software ist unausweichlich, sobald ein Unternehmen mehrere Projekte parallel oder im Jahr am Laufen durchführt. Diese Art von Software kann oftmals auf das Unternehmen angepasst werden. Durch ein einheitliches Erscheinungsbild ist die Verwendung durch die Mitarbeiter einfach gestaltet, muss jedoch erstmals erlernt werden, wozu nicht alle Mitarbeiter bereit sind. [^8]
+* Web 2.0-Software bietet den Vorteil der ständigen Weiterentwicklung. So ist die direkte Kommunikation bspw. mit dem Stakeholdern ein Vorteil, gleichzeitig aber auch ein Nachteil, da Gruppierungen, welche sich gegen das Projekt aussprechen, die nahezu gleiche Informationsbasis zugrunde liegen haben. [^8]
 
 ### 4. Beratung:
 
-Die Beratung ermöglicht dem Unternehmen unterstützende Hilfestellung im Bezug auf die Definition der Projektgrenzen, -kontexte und -pläne sowie die Analyse sozialer und ökologischer Auswirkungen. Des Weiteren ist die Beratung entscheidend bei der Implementierung von Investitionen, Software oder auch Auswahl des Auftragsgebers.[^9]
+Die Beratung ermöglicht dem Unternehmen unterstützende Hilfestellung im Bezug auf die Definition der Projektgrenzen, -kontexte und -pläne sowie die Analyse sozialer und ökologischer Auswirkungen. Des Weiteren ist die Beratung entscheidend bei der Implementierung von Investitionen, Software oder auch Auswahl des Auftragsgebers. [^9]
 
 # Die Zukunft von Projektmanagement
 
-Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in verschiedensten Situationen. So besteht weiterhin eine Halbleiterknappheit und Lieferverzögerungen sind mittlerweile Normalität.[^12] Dabei zeichnet sich ab, dass Flexibilität und Resilienz entscheidende Faktoren sind. So enstehen Trends wie der Wunsch nach vollständiger Ressourcenplanung, dass feste Teams bessere Ergebnisse erzielen oder auch, dass klassische und agile Tools parallel betrieben werden sollen [^13]. Darüber hinaus glauben 71% der Befraften, dass Mitarbeiter mehr Projektmanagement Skills haben und auch in der Zukunft immer mehr Projekte mit Hilfe von Methoden des Projektmanagements erfolgen sollten.[^2]
+Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in verschiedensten Situationen. So besteht weiterhin eine Halbleiterknappheit und Lieferverzögerungen sind mittlerweile Normalität. [^12] Dabei zeichnet sich ab, dass Flexibilität und Resilienz entscheidende Faktoren sind. So enstehen Trends wie der Wunsch nach vollständiger Ressourcenplanung, dass feste Teams bessere Ergebnisse erzielen oder auch, dass klassische und agile Tools parallel betrieben werden sollen. [^13] Darüber hinaus glauben 71% der Befraften, dass Mitarbeiter mehr Projektmanagement Skills haben und auch in der Zukunft immer mehr Projekte mit Hilfe von Methoden des Projektmanagements erfolgen sollten. [^2]
 
 # Siehe auch
 
-* [Projektmanagement](Projektmanagement.md)
-* [Risikomanagement](Risikomanagement.md)
-* [Projekt Management Office](Project_Management_Office.md)
-* [Methoden](Methoden.md)
-* [Zukunftswerkstatt](Zukunftswerkstatt.md)
+* [Projektmanagement](kb/Projektmanagement.md)
+* [Risikomanagement](kb/Risikomanagement.md)
+* [Projekt Management Office](kb/Project_Management_Office.md)
+* [Methoden](kb/Methoden.md)
+* [Zukunftswerkstatt](kb/Zukunftswerkstatt.md)
 
 # Weiterführende Literatur
 
