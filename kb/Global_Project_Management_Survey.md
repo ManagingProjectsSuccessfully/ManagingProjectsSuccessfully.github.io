@@ -23,7 +23,7 @@ Mitarbeitern erstellt. Durch die Vielzahl an Daten und den jährlichen Befragung
 auf Projektmanagement weltweit angesehen werden, der den aktuellen Stand innerhalb der Unternehmen abbilden kann.
 
 Die Herausgeber der Studie, das Project Management Institute wird "als die weltweit führende Autorität im Projektmanagement"[^3][^4][^5] angesehen, wodurch die Daten, 
-deren Erhebung, Verarbeitung und Veröffentlicung als valide angesehen werden kann. 
+deren Erhebung, Verarbeitung und Veröffentlichung als valide angesehen werden kann. 
 
 
 # Eckdaten der Pulse of the Profession Reports von PMI:
