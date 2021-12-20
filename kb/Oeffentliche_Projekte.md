@@ -8,8 +8,8 @@ anrechnung: k
 
 
 [^1]: [Oeffentliche Projekte](https://www.netinbag.com/de/business/what-is-a-public-project.html)
-[^2]: [Oeffetnliche Verwaltung Bestandsaufnahme](https://dl.gi.de/handle/20.500.12116/16777)
-[^3]: [PPP](https://wirtschaftslexikon.gabler.de/definition/oeffentlich-private-partnerschaften-oepp-54537)
+[^2]: [Oeffentliche Verwaltung Bestandsaufnahme](https://dl.gi.de/handle/20.500.12116/16777)
+[^3]: [Public-Private-Partnership](https://wirtschaftslexikon.gabler.de/definition/oeffentlich-private-partnerschaften-oepp-54537)
 [^4]: [Gescheiterte Projekte](http://projekt-manager.eu/gescheiterte-projekte.html)
 [^5]: [Gescheiterte Infrastrukturprojekte](https://www.handelsblatt.com/politik/deutschland/infrastruktur-ausbau-die-blockierte-republik-woran-oeffentliche-projekte-in-deutschland-scheitern/25078986.html?ticket=ST-10378787-waZ0M4WEBBTMgHtZ12d7-cas01.example.org)
 [^6]: [Bundesrechnungshof](https://www.bpb.de/nachschlagen/lexika/handwoerterbuch-politisches-system/201994/bundesrechnungshof)
