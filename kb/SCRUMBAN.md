@@ -59,9 +59,9 @@ Wie in den obigen Absätzen dargestellt verbindet Scrumban die beiden agilen Fra
 
 # Quellen
 
-[^1]: [Kanban Guide] https://kanbantool.com/de/kanban-guide
-[^2]: [Scrumban Wiki](https://en.wikipedia.org/wiki/Scrumban#Tooling)
-[^3]: [Agile Ressourcen](https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/)
-[^4]: [Sprints Wiki](https://de.wikipedia.org/wiki/Scrum#Sprint)
-[^5]: [Das beste aus Scrum und Kanban](https://www.agile-heroes.de/magazine/scrumban-das-beste-aus-scrum-und-kanban-einfach-erklaert/)
-[^6]: [WIP-Limits](https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how)
+[^1]: Kanban Guide: https://kanbantool.com/de/kanban-guide
+[^2]: Scrumban Wiki: https://en.wikipedia.org/wiki/Scrumban#Tooling
+[^3]: Agile Ressourcen: https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/
+[^4]: Sprints Wiki: https://de.wikipedia.org/wiki/Scrum#Sprint
+[^5]: Das beste aus Scrum und Kanban: https://www.agile-heroes.de/magazine/scrumban-das-beste-aus-scrum-und-kanban-einfach-erklaert/
+[^6]: WIP-Limits: https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how
