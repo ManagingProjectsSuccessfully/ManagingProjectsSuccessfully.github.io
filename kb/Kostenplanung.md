@@ -30,7 +30,7 @@ Auch für schwierig zu schätzende Projektbestandteile sollte unbedingt eine Kos
 Die gesamte Kostenplanung sollte sorgfältig auf Fehler überprüft werden, denn leicht können kleine Ungenauigkeiten in Formeln, Umrechnungskosten oder Stundensätzen die Planung verfälschen. Darüber hinaus sollten getroffene Annahmen, auf denen die Planung basiert, eindeutig benannt werden. [^4]
 
 # Fazit
-Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt anfallenden Kosten. Innerhalb des Projektmanagements ist sie aus vielen Gründune unersetzlich. Zur Planung wird das Projekts mittels eines Projektstrukturplans in kleine Arbeitsschritte geteilt. Außerdem wird bei anfallende Kosten zwischen Einzel- und Gesamtkosten unterschieden.
+Die Kostenplanung beschreibt die möglichst genaue Vorhersage der für ein Projekt anfallenden Kosten. Innerhalb des Projektmanagements ist sie aus vielen Gründune unersetzlich. Zur Planung wird das Projekts mittels eines Projektstrukturplans in kleine Arbeitsschritte geteilt. Außerdem wird bei anfallende Kosten zwischen Einzel- und Gesamtkosten unterschieden.
 
 # Siehe auch
 * [Aufwands_Kosten_Kontrolle](Aufwands_Kosten_Kontrolle.md)
