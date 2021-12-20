@@ -11,7 +11,7 @@ Megatrends im Projektmanagement sind Veränderungen, mit denen sich ein Projektm
 
 ## 1. Corona-Pandemie [^1]
 
-Schon im Jahr 2020 hat sich der Covid-19-Virus angefangen zu verbreiten und veränderte die gesamte Welt. Fast die gesamte Wirtschaft wurde vor große Herausforderungen gestellt. Viele der Unternehmen gingen pleite, aber es gründeten sich auch eine Menge neuer Unternehmen. Die Führungskräfte aller Unternehmen mussten nun entscheiden wie sie ihr Unternehmen aufrechterhalten. Dabei mussten sie auf selten genutzte Technologien zurückgreifen und ausbauen oder sogar neue [Methoden](Methoden.md) entwickeln. Die Manager mussten zum einen ihren Mitarbeiten durch Remote-Work oder Homeoffice den Arbeitsablauf weiterhin ermöglichen. Zum anderen mussten sie aber auch dafür Sorge tragen, dass ihre Mitarbeiter psychisch gesund bleiben. So kann beispielsweise mit Hilfe von virtuellen Kaffeepausen die Teamfähigkeit weiterhin gefördert werden und möglicherweise alleinstehende vor Desozialisierung schützen. Doch da dies eine sehr große Aufgabe ist kann der Manager die Mitarbeiter dabei nur unterstützen.
+Schon im Jahr 2020 hat sich der Covid-19-Virus angefangen zu verbreiten und veränderte die gesamte Welt. Die gesamte Wirtschaft wurde vor große Herausforderungen gestellt. Viele der Firmen gingen insolvent, aber es gründeten sich auch eine große Anzahl neuer Unternehmen. Führungskräfte mussten nun entscheiden wie sie ihr  aufrechterhalten. Dabei mussten sie auf selten genutzte Technologien zurückgreifen und ausbauen oder sogar neue [Methoden](Methoden.md) entwickeln. Die Manager mussten zum einen ihren Mitarbeiten durch Remote-Work oder Homeoffice den Arbeitsablauf weiterhin ermöglichen. Zum anderen mussten sie aber auch dafür Sorge tragen, dass ihre Mitarbeiter psychisch gesund bleiben. So kann beispielsweise mit Hilfe von virtuellen Kaffeepausen die Teamfähigkeit weiterhin gefördert werden und möglicherweise alleinstehende vor Desozialisierung schützen. Doch da dies eine sehr große Aufgabe ist kann der Manager die Mitarbeiter dabei nur unterstützen.
 
 ## 2. Klimakrise [^1][^2]
 
@@ -52,18 +52,13 @@ Folgende Grafik zeigt wie die Datenmengen weltweit wachsen. Die Daten werden hie
 * [Entwicklungsprojekte](Entwicklungsprojekte.md)
 * [Remote](Remote_Projekte.md)
 
-
-
 # Quellen
 
-[^1]: https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pmi-megatrends-2021.pdf?v=98673338-4401-43f3-b220-aef09ae15c12&sc_lang_temp=de-DE
-[^2]: https://www.deutsches-klima-konsortium.de/basisfakten
-[^3]: https://www.br.de/nachrichten/wissen/klimawandel-die-wichtigsten-co2-fakten-visualisiert,RbqFZV0
-[^4]: https://www.lpb-bw.de/frauenquote-gesetz
-[^5]: https://www.theprojectgroup.com/blog/projektmanagement-trends/
-[^6]: https://www.appdated.de/2020/09/wie-viel-sind-1gb-datenvolumen-und-was-kann-man-alles-damit-machen/
-[^7]: https://www.iwd.de/artikel/die-datenwolke-wird-groesser-397266/
-[^8]: https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pmi-megatrends-2021.pdf?v=98673338-4401-43f3-b220-aef09ae15c12&sc_lang_temp=de-DE (S.15)
-
-
-
+[^1]: [Megatrend 2021](https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pmi-megatrends-2021.pdf?v=98673338-4401-43f3-b220-aef09ae15c12&sc_lang_temp=de-DE) *Abgerufen am 24.11.2021*
+[^2]: [Basisfakten zum Klimawandel](https://www.deutsches-klima-konsortium.de/basisfakten) *Abgerufen am 24.11.2021*
+[^3]: [C02 Gesamtausstoß](https://www.br.de/nachrichten/wissen/klimawandel-die-wichtigsten-co2-fakten-visualisiert,RbqFZV0) *Abgerufen am 24.11.2021*
+[^4]: [Mehr Frauen in die Chefetage](https://www.lpb-bw.de/frauenquote-gesetz) *Abgerufen am 24.11.2021*
+[^5]: [Projektmanagement - Der Experten Blog](https://www.theprojectgroup.com/blog/projektmanagement-trends/) *Abgerufen am 24.11.2021*
+[^6]: [Wie viel sind 1 GB](https://www.appdated.de/2020/09/wie-viel-sind-1gb-datenvolumen-und-was-kann-man-alles-damit-machen/) *Abgerufen am 24.11.2021*
+[^7]: [Die Datenwolke wird größer](https://www.iwd.de/artikel/die-datenwolke-wird-groesser-397266/) *Abgerufen am 24.11.2021*
+[^8]: [Megatrends 2021](https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pmi-megatrends-2021.pdf?v=98673338-4401-43f3-b220-aef09ae15c12&sc_lang_temp=de-DE (S.15)) *Abgerufen am 24.11.2021*
