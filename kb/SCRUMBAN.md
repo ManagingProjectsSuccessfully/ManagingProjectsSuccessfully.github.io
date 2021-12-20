@@ -44,7 +44,7 @@ Eine weitere sehr wichtige Praktik aus Kanban ist die Limitierung des sogenannte
 ### 2.2.3 Pull-Prinzip
 Das Pull Prinzip ist ein aus Kanban entnommenes Konzept wonach jedes Teammitglied sich seine Aufgaben selbst aus dem Sprint-Backlog ziehen darf. Dadurch wird keine Arbeit von außen zugeteilt, sondern das Team entscheidet selbst welche Aufgaben sie als nächstes bearbeiten wollen.[^5]
 # 3. Fazit
-Zusammengefasst verbindet Scrumban die beiden agilen Frameworks Scrum und Kanban zu einem Rahmenkonzept, dass deutlich dynamischer auf Veränderungen reagieren kann als dies bei Scrum allein der Fall ist. Zusätzlich hilft die Visualisierung auf dem Scrumban Board bei der Arbeitsaufteilung. Welche Praktiken ein Team benutzen möchte bleibt jedem selbst überlassen, es bieten sich aber einige Möglichkeiten verschiedene Aspekte mit einzubringen.
+Zusammengefasst verbindet Scrumban die beiden agilen Frameworks Scrum und Kanban zu einem Rahmenkonzept, im welchem das Beste aus beidem zusammengeführt wird. Beispielhaft hilft die Visualisierung auf dem Scrumban Board bei der Arbeitsaufteilung. Welche Praktiken ein Team benutzen möchte bleibt jedem selbst überlassen, es bieten sich aber einige Möglichkeiten verschiedene Aspekte mit einzubringen.
 
 # Siehe auch
 
