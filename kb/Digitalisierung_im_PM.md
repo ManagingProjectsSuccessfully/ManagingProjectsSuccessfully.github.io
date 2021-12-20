@@ -8,6 +8,18 @@ anrechnung: k
 Der Begriff „Digitalisierung“ hat an sich keine allgemeingültige Definition und kann abhängig vom jeweiligen Kontext mehrere Bedeutungen haben.[^1] 
 In Bezug auf das [Projektmanagement](Projektmanagement.md) bedeutet Digitalisierung „massive Veränderungen bei den Prozessen, der Kommunikation, der Organisation, dem [Ressourcenmanagement](Ressourcenplanung.md) und dem Monitoring. Gründe [dafür] sind der vermehrte Einsatz digitaler Werkzeuge sowie die neue Art der Erfassung, des Austausches und der Verarbeitung von Daten.“[^2] 
 
+# Inhaltsverzeichnis 
+
+1. [Grundlegende Aspekte der Digitalisierung im Projektmanagement](#Grundlegende-Aspekte-der-Digitalisierung-im-Projektmanagement)      
+   1.1. [Datenmanagement](#Datenmanagement)                                                                                     
+   1.2. [Kommunikation](#Kommunikation)
+3. [Potenziale](#Potenziale)
+4. [Herausforderungen](#Herausforderungen)
+5. [Fazit](#Fazit)
+6. [Siehe auch](#Siehe-auch)
+7. [Weiterführende Literatur](#Weiterführende-Literatur)
+8. [Quellen](#Quellen)
+
 # Grundlegende Aspekte der Digitalisierung im Projektmanagement
 
 Der wesentlichste Aspekt ist die Nutzung von digitalen Arbeitsgeräten, wie Smartphones und Computer.[^3]                                            
@@ -52,7 +64,7 @@ Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Strukt
 
 # Fazit
 
-Das Voranschreiten der Digitalisierung hat viele Veränderungen für das Projektmanagement und alle Beteiligten gebracht. Einige dieser Neuerungen werden auch noch lange Bestandteil bleiben. Um aber auch in der Zukunft weiterhin erfolgreich zu sein, wird sich das Projektmanagement weiterentwickeln und an neue Trends anpassen müssen. Themen, die dabei sicherlich eine große Rolle spielen werden, sind u.a. [Künstliche Intelligenz](KI_im_PM.md), [maschinelles Lernen](Machine_Learning_im_Projektmanagement.md) und [Virtual Reality](Virtual_Reality.md), welche ich vielen Unternehmen immer mehr zum Einsatz kommen.
+Das Voranschreiten der Digitalisierung hat viele Veränderungen für das Projektmanagement und alle Beteiligten gebracht. Einige dieser Neuerungen werden auch noch lange Bestandteil bleiben. Um aber auch in der Zukunft weiterhin erfolgreich zu sein, wird sich das Projektmanagement weiterentwickeln und an neue Trends anpassen müssen. Themen, die dabei sicherlich eine große Rolle spielen werden, sind u.a. [Künstliche Intelligenz](KI_im_PM.md), [maschinelles Lernen](Machine_Learning_im_Projektmanagement.md) und [Virtual Reality](Virtual_Reality.md), welche in vielen Unternehmen immer mehr zum Einsatz kommen.
 
 # Siehe auch
 
