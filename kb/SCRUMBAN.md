@@ -8,7 +8,7 @@ anrechnung: klassisch
 Scrumban ist ein aus [Scrum](SCRUM.md) und [Kanban](Kanban.md) gebildetes Kunstwort und beschreibt einen Methodenmix der beiden agilen Frameworks im Bereich der Softwareentwicklung und des [Projektmanagements](Projektmanagement.md)[^1]. Dafür werden verschiedene Aspekte beider Methoden angewandt.
 
 # 1. Historie
-Der Scrum Begiff wurde bereits in den 1990er Jahren von Jeff Sutherland und Ken Schwaber geprägt, wohingegen Kanban sich erst zehn Jahre später in der Softwareentwicklung etablierte. Man erkannte jedoch relativ schnell, dass Scrum von den Visualisierungstechniken aus Kanban stark profitieren kann.
+Der Scrum Begiff wurde bereits in den 1990er Jahren von Jeff Sutherland und Ken Schwaber geprägt, wohingegen Kanban sich erst zehn Jahre später in der Softwareentwicklung etablierte. Schnell war klar, dass Scrum von den Visualisierungstechniken aus Kanban stark profitieren kann.
 Scrumban wurde entwickelt, um das Beste aus beiden agilen Frameworks zu kombinieren und Scrum-Teams neue Möglichkeiten zu eröffnen und Kanban Konzepte in ihre Arbeit mit einzubinden[^2]. Der Schwerpunkt liegt darin Scrum durch einige Ideen aus dem Kanban Framework vor allem flexibler und reaktiver zu gestalten[^3].
 
 # 2. Methodik
