@@ -31,7 +31,7 @@ Die schlechte Kommunikation ist ein anderer Faktor, der den Erfolg eines Projekt
 
 # 3. Unrealistische Ziele, Fristen und Budget
 
-Einen großen Fallstrick stellen die unrealistische Ziele dar. Dazu gehören zum Beispiel zu früh gesetzte Deadlines, die kaum erreichbar sind, oder falsch eingeschätzte Budgets. Solche Fehler können nicht nur schädlich für den Erfolg des Unternehmens sein, sondern auch für die Moral und das Vertrauen der Team-Mitglieder[^1].
+Einen großen Fallstrick stellen die unrealistischen Ziele dar. Dazu gehören zum Beispiel zu früh gesetzte Deadlines, die kaum erreichbar sind, oder falsch eingeschätzte Budgets. Solche Fehler können nicht nur schädlich für den Erfolg des Unternehmens sein, sondern auch für die Moral und das Vertrauen der Team-Mitglieder[^1].
 ## Lösung:
 Man muss realistisch die Situation betrachten und alles in Abhängigkeit der Ressourcen, der Arbeitskräfte, dem Budget und der Fristen entscheiden[^1]. Man sollte sich fragen, was von dem Team zu erwarten ist und ob das physisch möglich ist oder ob die Zeitpläne der Planungsphase mit den vorgeschlagenen Fristen und dem vorhandenen Budget übereinstimmen (siehe [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)).
 
