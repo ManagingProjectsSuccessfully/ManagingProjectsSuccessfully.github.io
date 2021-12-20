@@ -5,7 +5,7 @@ author: at33fau
 anrechnung: k 
 ---
 
-Tagtäglich kommt man mehrmals indirekt oder direkt mit Projekten oder deren Ergebnissen in Kontakt. Doch was definiert ein Projekt genau und was sind die Gründe für das [Gelingen](Praxisbeispiele_erfolgreiche_Projekte.md) bzw. das Scheitern eines Projekts? Im Folgenden soll, anhand mehrerer Beispiele, geklärt werden, ab wann ein Projekt gescheitert ist. 
+Tagtäglich begenet man mehrmals indirekt oder direkt Projekten beziehungsweise deren Ergebnissen. Doch was definiert ein Projekt genau und was sind die Gründe für das [Gelingen](Praxisbeispiele_erfolgreiche_Projekte.md) bzw. das Scheitern eines Projekts? Im Folgenden soll, anhand mehrerer Beispiele, gezeigt werden, ab wann ein Projekt gescheitert ist. 
 
 # Inhaltsverzeichnis
 1 Definitionen
@@ -71,6 +71,18 @@ Plan des Bauvorhabens „The Big Dig“ („Das große Graben“) war es, die St
 
 Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projektvorstellung 1994 bis heute an. Die Eröffnung wäre nach ursprünglichen Plänen 2008 gewesen und wurde auf 2025 verschoben.[^6] Doch es gibt bereits Zweifel, ob dieses Ziel erreichbar sein wird. Ebenso haben sich die geplanten Kosten von ursprünglich 2,5 Milliarden auf über 8 Milliarden Euro vervielfacht.[^7]
 
+## Elbphilharmonie, Stadtautobahn Boston und Stuttgart 21 
+
+![Beispielabbildung](Praxisbeispiele_gescheiterte_Projetke/HamburgBostonStuttgart.jpg)
+
+*Elbphilharmonie während des Baus (links oben)*[^8]
+
+*Die Stadtautobahn in Boston vor dem Bau (rechts oben) und nach der Verlegung unter die Erde (rechts mitte)*[^9]
+
+*Großbaustelle Stuttgart 21 (unten)*[^10] 
+
+
+
 # Zahlen, Daten & Fakten
 
 * Weltweit verschwenden Organisationen alle 20 Sekunden ca. 1 Million US-Dollar durch schlechtes Projektmanagement. 
@@ -113,3 +125,6 @@ Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projekt
 [^5]: [Das Geheimnis erfolgreicher Projekte](https://www.manager-magazin.de/harvard/management/das-geheimnis-erfolgreicher-projekte-a-00000000-0002-0001-0000-000159313152)
 [^6]: [Stuttgart 21 wird für die Bahn wohl zum Finanzdesaster](https://www.handelsblatt.com/unternehmen/handel-konsumgueter/bahnhofsprojekt-stuttgart-21-wird-fuer-die-bahn-wohl-zum-finanzdesaster/24680390.html)
 [^7]: [Bis zu 1,4 Milliarden Euro Mehrkosten bei S 21?](https://www.kontextwochenzeitung.de/wirtschaft/506/bis-zu-14-milliarden-euro-mehrkosten-bei-s-21-7177.html)
+[^8]: [Elbphilharmonie während des Baus](https://momentum-magazin.de/de/files/2013/01/Elbphilharmonie.jpg)
+[^9]: [Die Stadtautobahn in Boston](https://d279m997dpfwgl.cloudfront.net/wp/2012/07/0711_bigdig.jpg)
+[^10]: [Großbaustelle S21](https://www.augsburger-allgemeine.de/img/politik/crop56629471/9729426066-cv16_9-w940-owebp/Copy-20of-20dpa-5FA07E0040234861?t=.jpg)
