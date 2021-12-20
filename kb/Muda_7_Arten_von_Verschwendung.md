@@ -23,7 +23,7 @@ Normalerweise sind diese Arten von Verschwendungen miteinander verbunden. Beispi
 
 # Verschwendung im Projektmanagement
 
-Das [Projektmanagement](Projektmanagement.md) kann ebenfalls von Verschwendung betroffen sein. Im Folgenden findet man übliche Beispiele vor [^3] :
+Das [Projektmanagement](Projektmanagement.md) kann ebenfalls von Verschwendung betroffen sein. Um dies zu vermindern bzw. zu vermeiden, muss eben das [Lean Projektmanagement](Lean_Projektmanagement.md) in Betracht gezogen werden. Im Folgenden findet man übliche Beispiele vor [^3] :
 
 * Transport: Aufgabenwechsel, Unterbrechungen, unnötig langer Marketingtrichter
 * Bestandsaufnahme: Online gekaufte Tools, welche die Teams selten verwenden; Bürobedarf, die Bedürfnisse übersteigen
@@ -32,8 +32,6 @@ Das [Projektmanagement](Projektmanagement.md) kann ebenfalls von Verschwendung b
 * Überproduktion: unnötig große Menge an Dokumenten zu füllen
 * Überbearbeitung: mehrere Genehmigungsebenen für kleine Aufgaben
 * Defekte: falsche Datensammlung
-
-Das Beheben dieser Probleme bezeichnet man dann auch als [Lean Projektmanagement](Lean_Projektmanagement.md). [^3]
 
 # Umgang mit Verschwendung
 
@@ -91,7 +89,7 @@ Tipp:
 
 ## Muda 7 : Defekte
 
-Mängel/Fehler können zu Nacharbeit, oder schlimmer noch zu Ausschuss führen. Generell müssten fehlerhafte Jobs wieder in Produktion genommen werden, was wertvolle Zeit kostet. Darüber hinaus ist in einigen Fällen ein zusätzlicher Nachbesserungsbereich erforderlich, der mit einer zusätzlichen Ausbeutung von Arbeitskräften und Werkzeugen verbunden ist. [^4]
+Mängel/Fehler können zu Nacharbeit, oder schlimmer noch zu Ausschuss führen. Generell müssten fehlerhafte Jobs wieder in Produktion genommen werden, was wertvolle Zeit kostet. Darüber hinaus ist in einigen Fällen ein zusätzlicher Nachbesserungsbereich erforderlich, der mit einer zusätzlichen Ausbeutung von Arbeitskräften und Werkzeugen verbunden ist. [^3]
 
 # Siehe auch
 
