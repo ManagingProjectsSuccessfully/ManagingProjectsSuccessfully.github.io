@@ -29,25 +29,25 @@ Im Folgenden soll nun auf die vier Leitsätze, sowie die 12 Prinzipien des agile
 In der folgenden Grafik sind die vier oben genannten Leitsätze nochmal grafisch dargestellt und zusammengefasst:
 
 ![Beispielabbildung](Agiles_Manifest/AM_Prinzipien.jpeg)
-Agiles Manifest - die vier Leitsätze[^5]
+Agiles Manifest - die vier Leitsätze[^4]
 
 Wichtig hier anzumerken, dass für 17 Unterzeichner die Werte auf der rechten Seite durchaus als wichtig eingeschätzt wurden, jedoch schätzen sie die Werte auf der linken Seite von noch größerer Bedeutung ein[^2].
 
 
 # Zwölf Prinzipien 
 
-1. Unsere höchste Priorität ist es, den Kunden durch frühe und kontinuierliche Auslieferung wertvoller Software zufriedenzustellen
-2. Heiße Anforderungsänderungen selbst spät in der Entwicklung willkommen. Agile Prozesse nutzen Veränderungen zum Wettbewerbsvorteil des Kunden
-3. Liefere funktionierende Software regelmäßig innerhalb weniger Wochen oder Monate und bevorzuge dabei die kürzere Zeitspanne
-4. FachexpertInnen und EntwicklerInnen müssen während des Projekts täglich zusammenarbeiten
-5. Errichte Projekte rund um motivierte Individuen. Gib ihnen das Umfeld und die Unterstützung, die sie benötigen und vertraue darauf, dass sie die Aufgabe erledigen
-6. Die effizienteste und effektivste Methode, Informationen an und innerhalb eines Entwicklungsteams zu übermitteln, ist im Gespräch von Angesicht zu Angesicht.
-7. Funktionierende Software ist das wichtigste Fortschrittsmaß
-8. Agile Prozesse fördern nachhaltige Entwicklung. Die AuftraggeberInnen, EntwicklerInnen und BenutzerInnen sollten ein gleichmäßiges Tempo auf unbegrenzte Zeit erhalten können
-9. Ständiges Augenmerk auf technische Exzellenz und gutes Design fördert Agilität
-10. Einfachheit – die Kunst, die Menge nicht getaner Arbeit zu maximieren – ist essenziell
-11. Die besten Architekturen, Anforderungen und Entwürfe erstehen durch selbstorganisierte Teams
-12. In regelmäßigen Abständen reflektiert das Team, wie es effektiver werden kann und passt sein Verhalten entsprechend an[^4] 
+1. Unsere höchste Priorität ist es, den __Kunden__ durch __frühe__ und __kontinuierliche Auslieferung__ wertvoller Software __zufriedenzustellen__
+2. Heiße Anforderungsänderungen sind selbst spät in der Entwicklung __willkommen__. Agile Prozesse nutzen __Veränderungen__ zum __Wettbewerbsvorteil__ des Kunden
+3. Liefere __funktionierende Software regelmäßig__ innerhalb weniger Wochen oder Monate und bevorzuge dabei die __kürzere Zeitspanne__
+4. FachexpertInnen und EntwicklerInnen müssen während des Projekts __täglich zusammenarbeiten__
+5. Errichte Projekte rund um __motivierte Individuen__. Gib ihnen das __Umfeld__ und die __Unterstützung__, die sie benötigen und vertraue darauf, dass sie die Aufgabe erledigen
+6. Die effizienteste und effektivste Methode, Informationen an und innerhalb eines Entwicklungsteams zu übermitteln, ist im __Gespräch__ von __Angesicht zu Angesicht__.
+7. __Funktionierende Software__ ist das __wichtigste Fortschrittsmaß__
+8. Agile Prozesse fördern nachhaltige Entwicklung. Die AuftraggeberInnen, EntwicklerInnen und BenutzerInnen sollten ein __gleichmäßiges Tempo auf unbegrenzte Zeit erhalten können__
+9. Ständiges Augenmerk auf __technische Exzellenz__ und __gutes Design__ fördert Agilität
+10. __Einfachheit__ – die Kunst, die Menge nicht getaner Arbeit zu maximieren – ist essenziell
+11. Die besten Architekturen, Anforderungen und Entwürfe entstehen durch __selbstorganisierte Teams__
+12. In __regelmäßigen Abständen__ reflektiert das Team, wie es __effektiver__ werden kann und __passt__ sein __Verhalten__ entsprechend __an__[^5] 
 
 
 # Heutige Bedeutung
@@ -69,7 +69,7 @@ Bis heute wird das agile Projektmanagement gerne neben den klassischen Methoden 
 
 # Abildungsverzeichnis
 
-[^5]: [Agiles Manifest - die vier Prinzipien](https://synapsenstau.de/agiles-manifest/)
+[^4]: [Agiles Manifest - die vier Prinzipien](https://synapsenstau.de/agiles-manifest/)
 
 
 # Quellen
@@ -77,5 +77,5 @@ Bis heute wird das agile Projektmanagement gerne neben den klassischen Methoden 
 [^1]: [Agile Manifesto - Geschichte](https://agilemanifesto.org/history.html)
 [^2]: [Agiles Projektmanagement - Agile Manifesto](http://agiles-projektmanagement.org/agile-manifesto/)
 [^3]: [Agile Manifesto - Leitsätze](https://agilemanifesto.org/iso/de/manifesto.html)
-[^4]: [Agile Manifesto - Prinzipien](https://agilemanifesto.org/iso/de/principles.html)
+[^5]: [Agile Manifesto - Prinzipien](https://agilemanifesto.org/iso/de/principles.html)
 
