@@ -47,8 +47,8 @@ Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt 
 
 # Quellen
 
-[^1]: Kayenta Glossar, Abrufdatum 19.11.2021, https://www.kayenta.de/projektmanagement-glossar-lexikon/begriffserklaerung/kostenplanung.html
-[^2]: Wikipedia, Abrufdatum 19.11.2021, https://de.wikipedia.org/wiki/Kostenmanagement#Kostenmanagement_im_Projektmanagement
-[^3]: Cost Competence Center, Abrufdatum 19.11.2021, https://onlinecosting.de/kostenoptimierung/kostenplanung/#was-ist-kostenplanung
-[^4]: Projekte leicht gemacht, Abrufdatum 19.11.2021, https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektplanung/kostenplanung-projekt/
-Bildquelle: https://erfolgreich-projekte-leiten.de/kostenplan/
+* [^1]: Kayenta Glossar, Abrufdatum 19.11.2021, https://www.kayenta.de/projektmanagement-glossar-lexikon/begriffserklaerung/kostenplanung.html
+* [^2]: Wikipedia, Abrufdatum 19.11.2021, https://de.wikipedia.org/wiki/Kostenmanagement#Kostenmanagement_im_Projektmanagement
+* [^3]: Cost Competence Center, Abrufdatum 19.11.2021, https://onlinecosting.de/kostenoptimierung/kostenplanung/#was-ist-kostenplanung
+* [^4]: Projekte leicht gemacht, Abrufdatum 19.11.2021, https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektplanung/kostenplanung-projekt/
+* Bildquelle: https://erfolgreich-projekte-leiten.de/kostenplan/
