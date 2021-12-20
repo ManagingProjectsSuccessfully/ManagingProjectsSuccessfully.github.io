@@ -64,8 +64,8 @@ Zusammenfassend lässt sich sagen, dass die Scrum-Transparenz eine wichtige Vora
 * [Scrum_Ueberpruefung.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Ueberpruefung.md)
 * [Scrum_Anpassung.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Anpassung.md) (Dieser Beitrag bedarf noch einer Bearbeitung)
 * [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
-* [Kommunikation Projektbeteiligte]:(https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kommunikation_Projektbeteiligte.md#kommunikationsarten)
-* [Projektkommunikation]:(https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md)
+* [Kommunikation Projektbeteiligte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kommunikation_Projektbeteiligte.md#kommunikationsarten)
+* [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md)
 
 
 # Weiterführende Literatur
