@@ -5,100 +5,57 @@ author: Burcu12
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Qualitaetssicherung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Qualitätssicherung
+Definition: Was ist "Qualitätssicherung"?
+Die Qualitätssicherung ist entscheidend für die Festlegung und Einhaltung von Qualitätsstandards und kommt bei sämtlichen technischen und organisatorischen Maßnahmen zum Einsatz. Mit der Qualitätssicherung soll bereits von Beginn an definierte Qualitätsanforderungen bei der Produktion und Dienstleistungserstellung erfüllt werden. Die Norm DIN EN ISO 9000:2015 ordnet die Qualitätssicherung dem Bereich des Qualitätsmanagements zu.
+Weder die Industrie noch der Dienstleistungssektor kann heutzutage auf die Qualitätssicherung verzichten.
+Ein Unternehmen legt seine qualitativen Vorgaben in der Regel selbst fest, sofern diese den gesetzlichen Regelungen und Normvorschriften entsprechen. Qualitätsstandards werden zudem auch durch den Kunden definiert.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Inhaltsverzeichnis
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+1. Begriff
+2. Teilfunktionen
+    
+     2.1. Qualitätsplanung
+     
+     2.2. Qualitätssteuerung
+     
+     2.3. Qualitätskontrolle
+3. Beurteilung 
+4. Zielverfolgung
 
 
-# Aspekt 1
+# Begriff
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+### Qualitätssicherung
+Die Anforderungen an die Qualität von Dienstleistungen und Produkten steigen kontinuierlich. Maßgeblich für die Kaufentscheidung ist daher die Produktqualität bzw. die Qualität der angebotenen Dienstleistung.[^1]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Damit Unternehmen präzise hergestellte und hochwertige Produkte anbieten können, ist die Qualitätssicherung unverzichtbar.[^1]
 
-![Beispielabbildung](Qualitaetssicherung/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+*Qualitätsmanagement*, alle organisatorischen und technischen Maßnahmen, die der Schaffung und Erhaltung der Konzept- und Ausführungsqualität (Qualität) dienen.[^2]
 
 
-# Siehe auch
+# Teilfunktionen
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Qualitaetssicherung.md)
+2.1. In der **Qualitätsplanung** werden die Qualitätsmerkmale sowie ihre geforderten und zulässigen Ausprägungen für ein Produkt und Verfahren festgelegt. Dies geschieht im Hinblick auf die durch die Anwendung oder eine Norm gegebenen Erfordernisse und deren Realisierbarkeit.[^2]
 
-# Weiterführende Literatur
+2.2. **Qualitätssteuerung**, die auch als Qualitätslenkung oder Qualitätsregelung bezeichnet wird, beinhaltet die Vorgabe der Produkt- und Ausführungsanforderungen sowie die Überwachung der Erfüllung dieser Anforderungen bei der Leistungserstellung mit ggf. erforderlichen Korrekturen. Unter Verwendung der Ergebnisse der Qualitätskontrolle können zum einen Maßnahmen veranlasst werden, die qualitätsmindernde Störungen im Produktionsprozess beseitigen helfen. Zum anderen können auch Maßnahmen geplant und veranlasst werden, die auf eine Änderung der Entwurfsqualität oder der eingesetzten Produktionsverfahren abzielen.[^2]
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+2.3. Die **Qualitätskontrolle** oder auch Qualitätsprüfung beinhaltet einen Soll-Ist-Vergleich, bei dem festgestellt wird, inwieweit Produkte die an sie gestellten Qualitätsanforderungen erfüllen. Die Qualitätskontrolle i.w.S. beinhaltet sowohl die Überprüfung der Entwurfsqualität als auch der Ausführungsqualität. Die Überprüfung der Ausführungsqualität als Qualitätskontrolle i.e.S. kann nach dem Umfang der durchzuführenden Kontrollmaßnahmen in Totalkontrolle und Partialkontrolle unterschieden werden. Durch die Partialkontrolle (statistische Qualitätskontrolle) wird versucht, mithilfe statistischer Methoden entweder Aussagen über den Zustand des Produktionsprozesses zu machen (Produktionskontrolle) oder Informationen über den Ausschussanteil eines gefertigten Loses zu erhalten (Abnahmeprüfung). Bei der Abnahmeprüfung werden Stichprobenprüfpläne verwendet, während bei der Produktionskontrolle die Kontrollkartentechnik zur Anwendung kommt. Eine Verbindung zwischen Produktionskontrolle und Abnahmeprüfung stellt die kontinuierliche Stichprobenprüfung dar.[^2]
+
+![bild](Qualitaetssicherung/qualitaetssicherung-44396.jpg.png) 
+[^2]
+
+# Beurteilung
+
+Zur Erhöhung der Qualität von Produkten und Dienstleistungen hat die ISO 1987 eine Normenreihe (Norm) mit den Nummern 9000 - 9004 erlassen, die von mehr als 100 Ländern (u.a. von der Bundesrepublik Deutschland) als nationale Normvorschrift anerkannt ist. Ziel des Normenwerkes ist es, Modelle für Qualitätsmanagement-Systeme zur Verfügung zu stellen, die der Qualitätssicherung in Design/Entwicklung, Beschaffung, Produktion, Montage, Wartung und Endprüfung des Produktes dienen sollen. Unternehmen, die Qualitätsmanagement-Systeme nach diesen Normen entwickeln, können von einer autorisierten Stelle (z.B. TÜV) ein Zertifikat mit der Dokumentation erhalten, dass ihre Qualitätssicherung den in der Normenreihe niedergelegten Forderungen entspricht. Diese Zertifizierung kann eine Vertrauensbasis zwischen Lieferanten und Kunden schaffe.[^2]
+
+# Zielverfolgung
+
+Die Qualitätssicherung (QS) verfolgt das Ziel, Produkte und Dienstleistungen mit einem gleichbleibend hohen Qualitätsstandard zu entwickeln und herzustellen und dabei die Kundenanforderungen ganzheitlich zu erfüllen.[^1]
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1] : https://www.vario-software.de/lexikon/qualitaetssicherung/
 
+[^2] : https://wirtschaftslexikon.gabler.de/definition/qualitaetssicherung-44396#:~:text=Die%20Qualit%C3%A4tssicherung%20umfasst%20als%20Bestandteil,Produkts%20oder%20einer%20Dienstleistung%20dienen.

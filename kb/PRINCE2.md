@@ -1,104 +1,137 @@
 ---
 title: PRINCE2
-tags: agil klassisch
+tags: klassisch PRINCE2 Projektmanagement Framework Organisation Projekmanagementmethode Methode
 author: patrick203494
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu PRINCE2 um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Beim PRINCE2 Projektmanagement (**PR**ojects **IN** **C**ontrolled **E**nvironments) handelt es sich um einen weltweit anerkannten, frei verwendbaren [Best-Practice](Best_Practices.md)-Ansatz für die Ausgestaltung, die Organisation und das Management von Projekten. [^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+PRINCE2 kann auf Projekte jeglicher Art, Dauer oder Größe angewandt werden und strukturiert den Rahmen eines Projekts vom Start bis zum Ende.[^2]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Das PRINCE2 - Framework lässt sich in den Kontext der klassischen [Projektmanagement](Projektmanagement.md)-Methoden einordnen und zählt neben [PMBOK](PMBOK_Guide.md), [Scrum](SCRUM.md) und ICB zu den führenden Projektmanagent-Modellen weltweit. [^3] 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Entstehung und Verbreitung von PRINCE2
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+PRINCE2 stammt ursprünglich aus Großbritannien und wurde anfänglich speziell für [IT-Projekte](IT-Projekte.md) entwickelt. Wegen seiner universellen und einfachen Anwendbarkeit wurde die Methode schon bald aber bei unterschiedlichsten Arten von Projekten weltweit verwendet. [^4]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Es gibt mittlerweile weltweit über 1.600.000 zertifizierte PRINCE2 Projektmanager:innen und Projektmitarbeitende. Das Framework ist auf 18 Sprachen in über 150 Ländern verfügbar. [^5]
+Im Jahr 2015 wurde das PRINCE2-Framework um das Konzept PRINCE2 Agile ergänzt, welches neuartige, agile Methoden für Projekte zur Verfügung stellt. [^6]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+# Schlüsselelemente von PRINCE2
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die PRINCE2-Methode setzt sich aus vier Grundbausteinen zusammen, auf welche im Rahmen dieses Kompendiums noch genauer eingegangen wird:
+
+*	Die [7 PRINCE2 Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
+*	Die 7 PRINCE2 Themen
+*	Die [7 PRINCE2 Prozesse](PRINCE2_7_Prozesse.md)
+*	[Anpassung von PRINCE2 an die Projektumgebung](PRINCE2_Projektumgebung.md) [^7]
+
+Daneben definiert PRINCE2 festgelegte Rollen & Verantwortlichkeiten innerhalb des Projektteams und gibt konkrete Handlungsempfehlungen für jede Projektphase. [^8]
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+![Schlüsselelemente von PRINCE2](PRINCE2/Transparenttest3.png)                                      
+*Abbildung: Die Schlüsselelemente von PRINCE2*  [^5]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Die 7 Themen von PRINCE2
 
-![Beispielabbildung](PRINCE2/test-file.jpg)
+Die 7 PRINCE2 Themen (auch als Arbeitsdimensionen zu verstehen) beschreiben die Umsetzung der [7 Grundprinzipien](PRINCE2_7_Grundprinzipien.md) genauer. 
+Jedes der Themen beantwortet eine eigene, wichtige Fragestellung und soll helfen, einen erfolgreichen Projektablauf möglichst positiv zu beeinflussen. Daher müssen die Themen während des ganzen Projektablaufs fortlaufend beachtet werden: [^3][^4][^7]
 
-*lustiges Testbild*
+1. [**Business Case**](Business_Cases.md) *(Warum?)*:
+Sicherstellung, dass das Projekt während der gesamten Dauer auf die Ziele der Unternehmung ausgerichtet bleibt und einen Nutzen stiftet (geschäftliche  Rechtfertigung)
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+2. **Organisation** *(Wer?)*:
+Festlegung von Rollenverteilung und Verantwortlichkeiten im PRINCE2- Managementteam
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+3. **Qualität** *(Was?)*:
+Schaffung von Klarheit über die Qualitätsanforderungen und -maßnahmen, Qualitätskontrolle
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+4. [**Pläne**](Projektplanung.md) *(Wie und Wann?)*:
+Entwicklung des Projektplans, Festlegung und Umsetzung der anzuwendenden PRINCE2-Techniken
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
+5. **Risiken** *(Was ist, wenn...?)*:
+Umgang mit Unsicherheiten in Plänen und in der sonstigen Projektumgebung (sowohl positive als auch negative Unsicherheiten)
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+6. **Änderungen** *(Was sind die Auswirkungen?)*:
+Bewertung und Behandlung offener Punkte, die eventuelle Auswirkungen auf das Projekt haben könnten (z.B. veränderte Kundenwünsche)
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
+7. **Fortschritt** *(Wo steht das Projekt?)*:
+Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststellung und Reporting ob und wie das Projekt fortgeführt werden soll[^3][^4][^7]
+
+
+# Stärken und mögliche Nachteile von PRINCE2
+
+## Stärken:
+
+*	Standardisiertes Vorgehen, universell einsetzbar
+*	Weltweit anerkannte und klar verständliche Arbeitsweise
+*	Eindeutige Rollenverteilung, keine Unklarheiten über Verantwortlichkeiten
+* „Best Practice“: beinhaltet verschiedene in der Praxis bewährte und beständige Methoden
+*	Sorgt für kontrollierten Start, Verlauf und Ende des Projekts
+*	Kann auf Bedürfnisse einzelner Organisationen oder Projekte angepasst werden
+*	Gebührenfrei: PRINCE2-Materialien liegen als bereits öffentliche Dokumente vor[^3][^9]
+
+## Mögliche Nachteile:
+
+*	Stark dokumentenorientiert
+*	Ggf. Gefühl von "Machtverlust" bei Projektmanager:innen, da Rollen und Befugnisse streng festgelegt sind
+*	Sorgfältige Anpassung an Erfordernisse eines Projekts nötig (sonst kann PRINCE2 ein zu aufwendiges Vorgehen für kleine Projekte sein)
+*	Trotz freier Verfügbarkeit oft teure Schulungen notwendig[^3][^9]
+
+# Zertifizierung nach PRINCE2
+
+Die [Zertifizierung](Zertifizierungen.md) nach PRINCE2 kann auf zwei verschiedenen aufeinander aufbauenden Stufen erreicht werden: [^2][^8][^10]
+
+|  | **Foundation-Prüfung** | **Practitioner-Prüfung**|
+| ------------- | ------------- | ------------ |
+| **Zielgruppe**  | Projektmitarbeitende  | (Teil-)Projektleiter:innen |
+| **Inhalte**  | Grundlagenwissen über Themen und Prozesse von PRINCE2  | Anpassung und Zuschneiden von PRINCE2 - Maßnahmen auf spezifisches Projekt in realer Umgebung|
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](PRINCE2.md)
+* [Best Practices](Best_Practices.md)
+* [PMBOK Guide](PMBOK_Guide.md)
+* [SCRUM](SCRUM.md)
+* [IT-Projekte](IT-Projekte.md)
+* [PRINCE2 7 Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
+* [PRINCE2 7 Prozesse](PRINCE2_7_Prozesse.md)
+* [PRINCE2 Projektumgebung](PRINCE2_Projektumgebung.md)
+* [Business Cases](Business_Cases.md)
+* [Projektplanung](Projektplanung.md)
+* [Zertifizierungen](Zertifizierungen.md) 
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [What is PRINCE2? (in 100 seconds)](https://www.youtube.com/watch?v=61RnrsWQE7A)
+* [Turtley, F. (2013). An Introduction to PRINCE2](https://sisi.num.edu.mn/filesnum/Introduction-To-PRINCE2-MP0057.pdf)
+* [Bradley, K. (1999). Understanding PRINCE2. Bournemouth: SPOCE Project Management Limited.](http://www.wlvc.nl/UserFiles/File/Understanding%20Prince%202.pdf)
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [CPRINCE2 Projektmanagement: Alles zu PRojects IN Controlled Environments](https://www.capterra.com.de/blog/2016/prince2-projektmanagement)
+[^2]: [PRINCE2 Workbook](https://servicecontrolling.org/wp-content/uploads/2017/03/PRINCE2-Workbook.pdf)
+[^3]: [PRINCE 2](http://www.hundr.eu/index-Dateien/Page513.htm)
+[^4]: [Projektmanagement in der Softwareentwicklung mit PRINCE2 – Einführung](https://bytesforbusiness.com/projektmanagement-in-der-softwareentwicklung-mit-prince2-einfuhrung/)
+[^5]: [PRINCE2 in One Thousand Words White Paper](https://www.axelos.com/resource-hub/white-paper/prince2-in-one-thousand-words-white-paper)
+[^6]: [PRINCE2 Agile: Successfully deliver projects using agile techniques](https://www.axelos.com/certifications/propath/prince2-agile-project-management)
+[^7]: [PRINCE2: METHODE & DEFINITIONEN](https://www.maxpert.de/de/profil/schulungsspektrum/prince2-methode-definitionen/506)
+[^8]: [Was ist PRINCE2?](https://www.qrpinternational.ch/blog/glossar/prince2-was-ist-prince2-grundprinzipien-prozesse-themen/)
+[^9]: [Auf dem Prüfstand: Stärken und Schwächen von PRINCE2](https://www.qrp.de/auf-dem-pruefstand-staerken-und-schwaechen-von-prince2)
+[^10]: [PRINCE2 Project Management Certifications](https://www.axelos.com/certifications/propath/prince2-project-management)
+
+
+
+
+
+
+
 
