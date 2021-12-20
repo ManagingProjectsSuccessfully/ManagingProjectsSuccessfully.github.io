@@ -67,6 +67,8 @@ Im Vorrangmodell besteht das Prinzip der starken Nachhaltigkeit. Hier kann eine 
 
 * [Triple_Bottom_Line_Nachhaltigkeit](Triple_Bottomline_Nachhaltigkeit.md)
 * [Nachhaltige_Entwicklung](Nachhaltige_Entwicklung.md)
+* [Nachhaltigkeit_im_PM](Nachhaltigkeit_im_PM.md)
+* [Nachhaltige_Projekte](Nachhaltige_Projekte.md)
 * [Projektmanagement](Projektmanagement.md)
 
 # Weiterführende Literatur
