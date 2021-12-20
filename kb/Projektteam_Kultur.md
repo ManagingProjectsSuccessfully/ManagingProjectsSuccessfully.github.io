@@ -11,27 +11,8 @@ anrechnung: k
 Die Projektkultur umfasst alle Regeln, Werte und Normen eines Projektteams, die für dessen Verhalten, Umgang und Form der Kommunikation gelten. Projektkultur wird häufig im Team durch die Teamkultur erlebbar gemacht. Durch geltende Werte und Normen ist für alle Mitglieder transparent sichtbar, welche Handlungen als gut und wünschenswert und welche als negativ angesehen werden.
 Eine Projektkultur sollte durch die Projektleitung gefördert werden. Es bietet sich an, am Anfang eines Projekts, eine Projektauftaktsveranstaltung, vielleicht auch über 2 Tage, zu machen. Bei dieser können sich sowohl alle Teammitglieder erstmal kennenlernen und ein Wir-Gefühl entwickeln, sowie erste Grundsätze und Werte für das gemeinsame Arbeiten geschaffen werden[^1].
 
-Im Folgenden wird auf Kultur im Allgemeinen sowie den wichtigen Aspekt der Spielregeln bei der Zusammenarbeit im Team eingegangen
-
-# Spielregeln bei der Zusammenarbeit
-
-Die Spielregeln sind wohl der wichtigste Punkt der Projektkultur.
-Damit sind allgemeine Grundsätze für die Zusammenarbeit in einem Projekt gemeint.
-Häufig werden diese Regeln für ein spezifisches Projekt im Rahmen einer Projektstartveranstaltung gemeinsam erarbeitet und festgehalten. Diese sollten von allen akzeptiert und eingehalten werden.
-Auch die Projektleitung trägt hier eine wichtige Rolle. Sie sollte während der Dauer des Projekts dafür sorgen, dass sich alle an die Regeln halten und das Team gegebenenfalls an ihre eigenen entwickelten Grundsätze erinnern[^1].
-
-Diese Regeln können sehr individuell von Team zu Team sein. 
-## Beispiele für Spielregeln könnten sein:
-* Man lässt jeden ausreden
-* Alle arbeiten aktiv im Team mit und trägt zum Projekt bei
-* Alle sind pünktlich zu Terminen 
-* Wir respektieren einander 
-* Probleme werden offen und ehrlich kommuniziert
-* Niemand handelt im Alleingang
-* … [^1]
-
-
-![Beispielabbildung](Projektteam_Kultur/Projektteam.jpeg)
+Im Folgenden wird auf Kultur im Allgemeinen sowie den wichtigen Aspekt der Spielregeln bei der 
+Zusammenarbeit im Team eingegangen
 
 
 # Kultur im Allgemeinen 
@@ -53,12 +34,38 @@ Unter dieser Ebene liegen die Gefühlsebene sowie kollektive Werte. Auch die Ein
 Die letzte und tiefste Ebene umfasst Dinge, die als selbstverständlich angenommen werden. Diese Grundannahmen werden nicht in Frage gestellt[^2].
 
 
+# Spielregeln bei der Zusammenarbeit
+
+Die Spielregeln sind wohl der wichtigste Punkt der Projektkultur.
+Damit sind allgemeine Grundsätze für die Zusammenarbeit in einem Projekt gemeint.
+Häufig werden diese Regeln für ein spezifisches Projekt im Rahmen einer Projektstartveranstaltung gemeinsam erarbeitet und festgehalten. Diese sollten von allen akzeptiert und eingehalten werden.
+Auch die Projektleitung trägt hier eine wichtige Rolle. Sie sollte während der Dauer des Projekts dafür sorgen, dass sich alle an die Regeln halten und das Team gegebenenfalls an ihre eigenen entwickelten Grundsätze erinnern[^1].
+
+Diese Regeln können sehr individuell von Team zu Team sein. 
+
+## Beispiele für Spielregeln könnten sein:
+* Man lässt jeden ausreden
+* Alle arbeiten aktiv im Team mit und trägt zum Projekt bei
+* Alle sind pünktlich zu Terminen 
+* Wir respektieren einander 
+* Probleme werden offen und ehrlich kommuniziert
+* Niemand handelt im Alleingang
+* … [^1]
+
+
+![Beispielabbildung](Projektteam_Kultur/Projektteam_2.jpeg)
+Abbildung Teamwork[^3]
+
+
+
+
 # Siehe auch
 
 * [Projektleiter](Projektleiter.md)
 * [Projektkommunikation](Projektkommunikation.md)
 * [Projekt Kick-Off](Projekt_Kick_Off.md)
 * [Projekt](Projekt.md)
+
 
 # Weiterführende Literatur
 
@@ -70,3 +77,4 @@ Die letzte und tiefste Ebene umfasst Dinge, die als selbstverständlich angenomm
 
 [^1]: [Projektkultur und Projektspielregeln](http://projektnachwuchs.de/projektkultur-und-projektspielregeln/)
 [^2]: [Organisationskultur](https://de.wikipedia.org/wiki/Organisationskultur)
+[^3]: [Abbildung Teamwork](https://projektmanagement-zentrum.ch/2021/01/24/projektteams-richtig-zusammenstellen/)
