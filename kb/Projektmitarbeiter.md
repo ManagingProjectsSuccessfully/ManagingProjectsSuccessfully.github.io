@@ -78,7 +78,12 @@ Das Anfangsgehalt liegt bei 30.081 Euro jährlich und die Gehaltsobergrenze lieg
 
 # Die Relevanz des Projektmitarbeiters
 
-"Staffing is the most important part of project management. It is the staff who will actually complete the project work. Staff will also consume the majority of project cost. Hence it is extremely important to be very precise in planning and acquiring the right staff at the right time for the right duration. It is also important to keep the staff members motivated and ensure their safety and well- being. The staffing management plan help capture all these aspects precisely for effecting staff management for the project."[^9]
+
+Bei der Personalaustattung handelt es sich um den wichtigsten Teil des Projektmanagements. Im Fokus stehen hier die Mitarbeitenden, die die Projektarbeit letztendlich durchführen.
+Da das Personal den größten Kostenpunkt des Projekts ausmacht, ist eine genaue Planung hinsichtlich Personalauswahl sowie Einstellungszeitpunkt und -dauer maßgeblich.
+Kernkomponenten der Personalausstattung sind außerdem die Motivation der Mitarbeitenden und die Gewährleistung ihrer Sicherheit und ihres Wohlbefindens. Hierbei kann ein Personaleinsatzplan zur Hilfe gezogen werden. Dieser ermöglicht eine genaue Erfassung unterschiedlicher Aspekte, wodurch das Personalmanagement für das Projekt gewährleistet werden kann. [^9]
+
+"Staffing is the most important part of project management. It is the staff who will actually complete the project work. Staff will also consume the majority of project cost."[^9]
 
 
 
