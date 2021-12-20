@@ -69,10 +69,12 @@ Bei der Befragung wurden 1/3 der Unternehmen als „Gymnastic Enterprises“ ein
 
 ![classification of the Enterprises](Global_Project_Management_Survey/2021_Gymnastic_and_traditional_enterprises.jpg)
 
+
 Kernerkenntisse waren dabei unter anderem:
 
 1. Sogenannte „Gymnastic Enterprises“ sind besser durch die Krise gekommen, wenn es um den Erfolg einzelner Projekte im Unternehmen geht. Bei der Betrachtung der Grafik
 muss berücksichtigt werden, dass die unteren drei Zeilen eine negative Situation darstellen und somit ein niedrigerer Wert als "besser" anzusehen ist.
+
 
 ![Project Success_Failure_Gymnastic and Traditonal](Global_Project_Management_Survey/Project_Sucess_failure_comparison.jpg)
 
@@ -81,11 +83,13 @@ muss berücksichtigt werden, dass die unteren drei Zeilen eine negative Situatio
 2. Die "Gymnastic Enterprises" erfuhren in den letzten 12 Monate im Vergleich zu den "Tradional Enterprises" mehr Veränderungen innerhalb des Unternehmens
 oder trieben diese aktiv voran:
 
+
 ![Recent Business Changes Gymnastic and Traditional](Global_Project_Management_Survey/2021_traditional_vs_gymnastic_enterprises.jpg)
 
 
 
 3. Die "Gymnastic Enterprises" nutzten bei der Umsetzung der Projekte vermehrt aktuelle technologische Trends und Möglichkeiten:
+
 
 ![Technology usage](Global_Project_Management_Survey/2021_Technolgy_usage.jpg).
 
