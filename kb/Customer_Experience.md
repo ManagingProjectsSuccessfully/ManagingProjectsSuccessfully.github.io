@@ -60,23 +60,22 @@ Das wichtige Prinzip von Customer_Experience ist, dass Probleme und Reklamatione
 4. mehr Neukunden gewinnen
 5. Differenzierung zum Wettbewerb hervorheben
 6. Feedback von Kunden müssen effizient vom Unternehmen ausgewertet und bearbeitet werden. 
+7. Künstliche Intelligenz übernimmt künftig das Customer Experience Management, mit Hilfe von Machine Learning wird es einfacher. Gesammelte Informationen über Kunden, damit Kl lernen kann, die CX jedes Kunden durch immer mehr Informationen zu verbessern.[^10]
 
-
-# Langfristige Ziele?
-* Langfristig entsteht den Effekt der Markentreue und Loyalität. Das stehen die Unternehmen vor die Probleme, durch Kommunikation mit den Kunden oder auch potenziellen Käufern deren Erwartungen und Wünsche in Erfahrung zu bringen.
-* Die künstliche Intelligenz wird Customer Experience Management in die Zukunft durchführen, mit der großen Hilfe das maschinelle Lernen wird es erleichtert. Information über die Kunden werden gesammelt, somit lernt Kl mit zunehmenden Angaben, wie sie die CX für jeden Kunden verbessern kann.[^10]
+ 
 
 
 # Geschichte:
-* Der CEM von Pine Gilmore (1998) hat es bei einem Artikel für Harvard Business Review. Später gelinge es starken Firmen, der Käufer aus möglichst authentischen Erfahrungen mit dem Anbieter persönliche Mehrwerte ableiten.
-* Der Expert Thompson Kolsky (2004), der bei Beratungsunternehmen Gartner gearbeitet hat, hat schon sehr früh geahnt, wie zunehmende Rolle die Customer_Experience in das Marketing, als langfristigen Erfolg für die Firmen.
-* Im Jahr 2008 äußerte Jessica Debor, dass durch effiziente Customer_Experience-Management, die Fähigkeit von Unternehmen zu setzen, um positive Meinungen von Kunden zu schaffen, steigert die Kaufbereitschaft und auch die Loyalität zum Unternehmen bzw. Marke [^3]
+Der Customer_Experience Management wurde von Pine Gilmore im Jahr 1998 erwähnt, bei einem Beitrag für Harvard Business Review. Demnach gelinge es erfolgreichen Unternehmen, dass ihre Kunden aus den möglichst authentischen Erfahrungen mit dem Anbieter persönliche Mehrwerte ableiten.
+Verschiedene Experten wie Thompson / Kolsky (2004) vom Beratungsunternehmen Gartner haben vor einigen Jahren die wachsende Bedeutung des Customer Experience Managements für nachhaltigen Geschäftserfolg hervorgehoben.
+* Im Jahr 2008 äußerte Jessica Debor, dass durch effiziente Customer_Experience-Management, die Fähigkeit von Unternehmen zu setzen, um positive Meinungen von Kunden zu schaffen, steigert die Kaufbereitschaft und auch die Loyalität zum Unternehmen bzw. Marke [^11]
 
 
 
 # Weiterführende Literatur
 
 * Die Treiber von der Customer_Experience von Andreas Toth. https://books.google.de/books?hl=de&lr=&id=k8GPDwAAQBAJ&oi=fnd&pg=PP5&dq=buch+customer+experience&ots=hc3lthO_OR&sig=5ssR13WedV1_esUxMSSYgXYf5bY#v=onepage&q=buch%20customer%20experience&f=false
+* Die Beziehung zwischen  Customer Experience Management und Customer Relationship Management von adesso 2021. https://www.adesso.de/de/impulse/cem-crm/index.jsp
 
 # Quellen
 
@@ -90,3 +89,4 @@ Das wichtige Prinzip von Customer_Experience ist, dass Probleme und Reklamatione
 [^8]: https://www.bigdata-insider.de/was-ist-customer-experience-a-897275/
 [^9]: https://easy-feedback.de/blog/customer-experience-strategie/
 [^10]: https://www.netigate.net/de/articles/kundenzufriedenheit/alles-was-sie-ueber-customer-experience-cx-wissen-muessen/#h-die-vorteile-von-customer-experience-cx
+[^11]: https://de.wikipedia.org/wiki/Customer-Experience-Management
