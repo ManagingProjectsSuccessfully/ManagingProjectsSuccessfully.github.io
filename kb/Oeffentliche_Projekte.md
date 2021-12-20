@@ -50,7 +50,7 @@ In der freien Wirtschaft wird ein ineffizienter Umgang mit den eigenen Ressource
 
   
 # Kritik
-In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Dinge gedacht:
+In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende [fehlgeschlagene Projekte}(https://github.com/AbleAn/ManagingProjectsSuccessfully.github.io/blob/main/kb/Praxisbeispiele_gescheiterte_Projetke.md) gedacht:
 
 | Projekt | Kostenplanung | Tatsächliche Kosten |
 | ------------ |  ------------- | ------------- |                                           
