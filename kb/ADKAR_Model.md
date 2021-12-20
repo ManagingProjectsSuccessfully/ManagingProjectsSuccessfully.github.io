@@ -75,9 +75,9 @@ Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Ver
  
 # Quellen
 
-[^1]: [Was ist ADKAR?] (https://www.tiba-prosci.com/was-ist-adkar/)
+[^1]: [WAS IST ADKAR?](https://www.tiba-prosci.com/was-ist-adkar/)
 [^2]: https://www.marhelgroup.de/wp-content/uploads/2020/11/adkar-modell-768x248.jpg
-[^3]: https://youtube.com/watch?v=PwwoyzVfsS8
+[^3]: [ADKAR MODEL EXPLAINED - PART 2 - Awareness(https://youtube.com/watch?v=PwwoyzVfsS8)
 [^4]: https://mind-force.de/vertrieb/wie-das-adkar-change-management-modell-funktioniert/
 [^5]: https://youtube.com/watch?v=LNT3Rxci-hU
 [^6]: https://youtube.com/watch?v=XvIYdQ8Bp5k
