@@ -64,7 +64,7 @@ Der Meilenstein am unteren, rechten Bildschirmrand repräsentiert ein Zwischenzi
 
 # In 10 Schritten zum Projektplan mit MS Project
 
-Im Anschluss folgt eine 10-Schritt-Anleitung für die Nutzung des Programms MS Project.
+Im Anschluss folgt eine Anleitung für die Nutzung des Programms MS Project.
 
 ### 1. Projektstart: über Register „Projekt“ unter „Projektinformationen“ definieren.
 
