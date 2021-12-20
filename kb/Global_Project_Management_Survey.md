@@ -6,8 +6,7 @@ anrechnung: a
 ---
 
 
-Die Global Project Management Surveys (GMS) dienen dazu, von Firmen bereits durchgeführte Projekte im Nachgang zu untersuchen, um realistische Aussagen über den Ablauf, die Art, den Erfolg/Misserfolg und alle weiteren wichtigen Faktoren innerhalb der weltweit in Unternehmen durchgeführten Projektmanagements zu erhalten und darauf aufbauend für die Zukunft 
-neue Trends zu identifizieren beziehungsweise neuen Entwicklungsbedarf zu sichten/abzuleiten.
+Die Global Project Management Surveys (GMS) dienen dazu, von Firmen bereits durchgeführte Projekte im Nachgang zu untersuchen, um realistische Aussagen über den Ablauf, die Art, den Erfolg/Misserfolg und alle weiteren [aktuelle Entwicklungen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md) der weltweit in Unternehmen durchgeführten Projekte treffen und darauf aufbauend neuen Weiterentwicklungsbedarf ableiten zu können.
 
 
 # Historische Entwicklung und aktueller Stand zu den GMS
@@ -96,7 +95,7 @@ performance."
 
 Verlinkungen zu Angrenzenden Themen kann erst durchgeführt werden, wenn alle anderen Beiträge verfasst wurden -- Nachtrag in Korrekturphase 1 ....
 
-* Verlinkungen zu angrenzenden Themen
+* [aktuelle Entwicklungen im PM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md) 
 * [Link auf diese Seite](Global_Project_Management_Survey.md)
 
 # Weiterführende Literatur
