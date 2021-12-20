@@ -2,103 +2,105 @@
 title: Roadmap
 tags: agil klassisch
 author: uc00ekun
-anrechnung: k oder a
----
-
-Kurzbeschreibung zu Roadmap um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+anrechnung: k 
+--- 
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Der in verschiedenen Branchen verbreitete Anglizismus Roadmap bedeutet in der deutschen Übersetzung 
+wörtlich "Straßenkarte"[^1]. In Analogie dazu kann sie einen groben Fahrplan für verschiedene 
+Entwicklungsbereiche eines Unternehmens prognostizieren und darstellen. Im [Projektmanagement](Projektmanagement.md) dient die 
+Roadmap vorallem als strategisches Planungswerkzeug.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Roadmap/test-file.jpg)
+# Kategorisierung
 
-*lustiges Testbild*
+In der Literatur sind verschiedene Strukturierungsansätze für Roadmaps zu finden. Laut Behrendt 
+unterscheidet man zwischen vier Arten:
+* Unternehmensspezifische Roadmap
+* Branchenbezogene Roadmap
+* Problemorientierte Roadmap
+* Forschungs- und Entwicklungs-Roadmap für die Politik [^2]
 
-# Aspekt 2
+Darüber hinaus können Roadmaps auch nach ihren Anwendungsbereichen differenziert werden. So existieren 40 
+verschiedene Typen an Roadmaps. Die häufigst verwendeten sind die Produkt-Roadmap, Technologie-Roadmap, 
+Integrierte Produkt- und Technologie-Roadmap sowie die Projekt-Roadmap [^3].
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Projekt-Roadmap
+Speziell im Projektmanagement dient die sogenannte Projekt-Roadmap als strategisches Planungswerkzeug. Es 
+wird ein grober visueller Gesamtüberblick über Aufgaben, Ziele und Ergebnisse geschaffen und dabei das 
+[Projekt](Projekt.md) in zeitliche Etappen bzw. Zwischenprojekte unterteilt. Damit wird eine einheitliche Basis zur 
+Kommunikation zwischen den Interessensgruppen auf allen Ebenen des Vorhabens erstellt [^4]. 
+Charakteristisch ist außerdem der Instrumentenmix, aus dem eine Roadmap besteht. Bekannte 
+Vorausschau-Methoden wie etwa die [Szenario-Technik](Szenario_Technik.md) oder auch die Delphi-Methode vereinfachen den 
+Prozess, zukünftige Entwicklungen darzustellen und zu bewerten [^2].
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Roadmapping
+Der Prozess, eine Roadmap zu erstellen und stets auf dem aktuellen Stand zu halten wird auch „Roadmapping“ 
+genannt. Die Entwicklung einer Roadmap lässt sich in fünf Kernschritte unterteilen, die in der 
+nachfolgenden Abbildung zusammengefasst werden. Die Vorgehensweise kann ebenfalls auf die verschiedenen 
+Arten von Roadmaps übertragen werden. 
+![Roadm_Erst_Abb1](Roadmap/Roadm_Erst_Abb1.PNG).
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Definition von Untersuchungsfeldern
+Im ersten Schritt findet eine Abgrenzung der zu untersuchenden Objekte statt. Hierzu werden die 
+Untersuchungsfelder sowie das betrachtete Umfeld definiert. Weiter werden Ziele sowie die Zeitskalierung 
+festgelegt [^2].
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## Trend-, Bedarfs-/Potenzialanalyse
+Danach findet eine Analyse der Trends, des Bedarfs sowie des Potenzials statt. Herangezogen werden dabei 
+verschiedenste Quellen, wie Literatur, Datenbanken oder auch Expertenbefragungen[^2].
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## Identifizierung von Chancen und Risiken
+Im dritten Schritt werden Chancen und Risiken identifiziert. In Folge dessen können Wild Cards bestimmt 
+und Zukunftsbilder gestaltet werden. Zudem werden Arbeitsgruppen zusammengestellt und Aufgaben verteilt 
+[^2].
 
-### Ebene-3-Überschrift
+## Erstellung der Roadmap
+Für die Erstellung der Roadmap werden alle Ergebnisse der vorherigen Schritte in [Meilensteine](Meilensteine.md) überführt 
+und in die Zeitskala eingetragen. Hiervon lassen sich schließlich Handlungsempfehlungen ableiten und 
+Aktivitäten definieren. Wichtig ist außerdem die Vollständigkeits- und Konsistenzanalyse, bei der die 
+Roadmap auf Lücken sowie inhaltliche und zeitliche Konsistenz überprüft wird [^2].
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## Transfer
+Die Erstellung der Roadmap schließt mit dem Transfer und der zielgruppengerechten Aufbereitung zur 
+weiteren Kommunikation mit allen Stakeholdern [^2].
 
-# Aspekt n
+# Exemplarische Darstellung
+Die Visualisierung einer Roadmap kann je nach Projekt variieren. Kennzeichnend sind jedoch folgende 
+Kernelemente, die von der European Industrial Research Management Association (EIRMA 1997) empfohlen 
+werden:
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+1. Zeitstrahl im festgelegten Projekt-Zeitraum
+2. Ebenen der zu untersuchenden Objekte
+3. Aufgaben, Meilensteine und Ergebnisse in Balkenform
+4. Verknüpfung zwischen den Objekten zur Darstellung der Wirkungszusammenhänge [^3]
+
+In der nachfolgenden Abbildung ist eine beispielhafte Visualisierung einer Roadmap skizziert:
+![Roadm_Erst_Abb1](Roadmap/Roadm_Erst_Abb2.PNG).
+
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Roadmap.md)
+* [Meilensteine](Meilensteine.md)
+* [Projekt](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projektplanung](Projektplanung.md)
+* [Szenario-Technik](Szenario_Technik.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Dieter Specht, Stefan Behrens: _Kapitel 8: Strategische Planung mit Roadmaps - Möglichkeiten für das Innovationsmanagement und die Personalbedarfsplanung_. Bremen 2008 (URL: https://link.springer.com/book/10.1007%2F978-3-540-74755-0, zuletzt aufgerufen am 23.11.2021)
+* Siegfried Behrendt: _Integriertes Roadmapping_. Berlin 2010 (URL: https://link.springer.com/book/10.1007%2F978-3-642-10754-2, zuletzt aufgerufen am 19.11.2021)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: Dudenredaktion, o.D. (URL: https://www.duden.de/rechtschreibung/Roadmap, zuletzt abgerufen am 19.11.2021)
+[^2]: Siegfried Behrendt: _Integriertes Roadmapping_. Springer-Verlag, Berlin 2010, ISBN 978-3-64210-7535-5 (URL:https://link.springer.com/book/10.1007%2F978-3-642-10754-2, zuletzt aufgerufen am 19.11.2021) 
+[^3]: Oliver Gassmann, Philipp Sutter: _Praxiswissen Innovationsmanagement_. Hanser-Verlag, München 2013, ISBN 978-3-44643-513-1 (URL: https://www.hanser-elibrary.com/doi/book/10.3139/9783446435131, zuletzt aufgerufen am 19.11.2021)
+[^4]: Dieter Specht, Christian Mieke: _Projekt-Roadmapping_. Zeitschrift für wirtschaftlichen Fabrikbetrieb, 24. Februar 2004, ISSN 0947-0085 , 2511-0896 , 0947-0085 (URL: https://www.degruyter.com/journal/key/zwf/html, zuletzt aufgerufen am 19.11.2021)
 

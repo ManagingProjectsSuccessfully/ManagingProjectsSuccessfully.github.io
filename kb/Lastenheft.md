@@ -2,103 +2,83 @@
 title: Lastenheft
 tags: agil klassisch
 author: HAhmedFAU
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Lastenheft um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Lastenheft beschreibt alle Anforderungen des Auftraggebers an die Lieferung und Leistung des Auftragnehmers[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Die Anforderungen in der Spezifikation sollten so weit wie möglich zusammengefasst und bei Bedarf eingeschränkt werden. 
+Dies gibt dem Auftragnehmer die Möglichkeit, geeignete Lösungen (zB Software) zu entwickeln, ohne seine Lösungsfähigkeiten durch zu spezifische Anforderungen einzuschränken[^1].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Der Kunde kann das Lastenheft im Angebot verwenden und an mehrere mögliche Auftragnehmer senden. Jeder von ihnen erstellte ein Lastenheft, in dem in genauerer Form beschrieben wird, wie sie die Anforderungen im Lastenheft adressieren wollen. Der Auftraggeber wählt dann aus den Vorschlägen möglicher Auftragnehmer den für ihn am besten geeigneten aus[^1].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Aufbau eines Lastenhefts
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+In der Gliederung des Lastenhefts sind in der Regel folgende Punkte enthalten:
+* Spezifikation der auszuführenden Arbeiten (Lieferprojekt, Lieferprojekt, Projektprodukt)[^2]
+* Anforderungen an die spätere Verwendung des Produkts (z. B. Temperaturbereich)[^2]
+* Rahmenbedingungen für die Bereitstellung von Produkten und Dienstleistungen (wie Normen, Richtlinien, Materialien etc.)[^2]
+* Vertragsbedingungen (wie Erbringung von Teilleistungen, Gewährleistungspflichten, Risikomanagement, etc.)[^2]
+* Anforderungen an Auftragnehmer (z. B. Zertifizierung)[^2]
+* Anforderungen an das Projektmanagement des Auftragnehmers (z. B. Projektdokumente, Kontrollmethoden)[^2]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+![Beispielabbildung](Lastenheft/lastenheft.png)
+*Lastenheft[^3]*
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Beispiel[^1]:
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+1. Einführung
+2. Beschreibung des Ist-Zustands
+3. Beschreibung des Soll-Konzepts
+4. Beschreibung von Schnittstellen
+5. Funktionale Anforderungen
+6. Nichtfunktionale Anforderungen
+   * Benutzbarkeit
+   * Zuverlässigkeit
+   * Effizienz
+   * Änderbarkeit
+   * Übertragbarkeit
+   * Wartbarkeit
+7. Risikoakzeptanz
+8. Skizze des Entwicklungszyklus und der Systemarchitektur
+9. Lieferumfang
+10. Abnahmekriterien
 
+# Erstellung des Lastenhefts
 
-# Aspekt 1
+Das Lastenheft sollte so früh wie möglich im [Projekt](Projekt.md) formuliert werden. Idealerweise wird es noch vor dem eigentlichen Projektauftrag erstellt, damit der Projektauftrag auf das Lastenheft verweisen kann. In der eigentlichen Projektarbeit, im Rahmen der Projektarbeit, kommt es bei vielen Projekten jedoch häufig vor, dass das Lastenheft mehrfach geändert wird. Dies ist in der Regel erforderlich, wenn bei der Formulierung der Spezifikation unbekannte Ergebnisse vorliegen. Bei Großprojekten ist es auch gewohnt, die Erstellung des Lastenheftes als eigenständiges Vorprojekt zu beauftragen und dann auf dieser Basis das eigentliche Hauptprojekt zu starten[^4].
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Definition nach Standarts
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* DIN und PMBOK(R):
+  - Die DIN 69901-5: 2009-1 „Projektmanagement-Projektmanagementsystem-Teil 5: Terminologie“ definiert das terminologische Lastenheft im obigen Sinne. Der [PMBOK (R) Guide 2008](PMBOK_Guide.md) hat den Umfang des Statement of Work (SOW) etwas eingeengt. SOW wird dort als Beschreibung der zu erbringenden Leistung oder Leistung definiert. Dies umfasst nur die Spezifikationen des Produkts oder der Dienstleistung[^2].
+  
+* ICB 3.0:
+  - ICB 3.0 hat keine klare Namenskonventionstabelle. Stattdessen wird  von "Projektumfang" und "zu erbringenden Leistungen" gesprochen. Im deutschen Competence Baseline NCB 3.0 wird mindestens ein Begriffspaar „Technisches Kompetenz-Lastenheft/[Pflichtenheften](Pflichtenheft.md)“, Leistungsumfang und Liefergegenstand“ genannt[^2].
+  
+* [Prince2](prince2.md):
+  - Prince2 macht die Systematisierung von Lastenheften und Pflichtenheften komplett überflüssig, da es den Beschaffungsprozess nicht beschreibt. Inhaltlich wurde das Prince2 Pflichtenheften des Gesamtprojektes durch die Beschreibung der Projektaufgaben und Projektprodukte ersetzt. PRINCE2 verwendet Produktstrukturpläne und Produktbeschreibungen und Managementstrategien anstelle von Anforderungsspezifikationen, die im Rahmen des Projekts entwickelt werden müssen[^2]. 
 
-![Beispielabbildung](Lastenheft/test-file.jpg)
+# Nachteile vom klassischen Lastenheft
 
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Das Lastenheft stammt hauptsächlich aus dem klassischen [Projektmanagement](Projektmanagement.md). Anfänglich wird etappenweise gearbeitet, so werden zu Beginn des Projekts das gesamte Lastenheft entwickelt und auf dieser Basis das System. Das hat gravierende Nachteile: 
+Zum Beispiel kennt man in der Regel zu Beginn des Projekts noch nicht alle Anforderungen. Diese ergeben sich meist aus bestehenden Systemkomponenten oder Architekturen. Darüber hinaus ändern sich die Bedürfnisse von Kunden oder Stakeholdern, sodass noch Änderungen getätigt werden müssen[^3].
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Lastenheft.md)
+* [Projekt](Projekt.md)
+* [PMBOK (R) Guide 2008](PMBOK_Guide.md)
+* [Pflichtenheften](Pflichtenheft.md)
+* [Projektmanagement](Projektmanagement.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+https://www.business-wissen.de/hb/was-beinhaltet-ein-lastenheft/
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://de.wikipedia.org/wiki/Lastenheft
+[^2]: https://www.projektmagazin.de/glossarterm/lastenheft
+[^3]: https://www.microtool.de/wissen-online/was-ist-ein-lastenheft/
+[^4]: https://www.projektmanagementhandbuch.de/handbuch/projektplanung/lastenheft/
 

@@ -1,104 +1,46 @@
 ---
 title: Gender_Bias
-tags: agil klassisch
+tags: agil
 author: Philip290899
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Gender_Bias um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Die Problematik des Themas
+„Wir können die Bewerberin nicht nehmen. Sie ist dreißig und verheiratet. Sie bekommt sicher bald Kinder.“ Dieser und ähnliche Sätze fallen häufig im Zusammenhang von Bewerbungen und jungen Frauen. In den meisten Fällen wird die geschlechterbezogene Diskriminierung zwar nicht derart direkt formuliert, jedoch kommt diese auch heutzutage noch in einigen Unternehmen in abgeschwächter und oftmals unbeabsichtigter Form vor.[^1] Der Beitrag beschäftigt sich mit dem Problem der Ungleichbehandlung der Geschlechter. 
+# Was bedeutet der Begriff und woher kommt er?
+Der Begriff Gender Bias kann übersetzt werden als geschlechtsbezogener Verzerrungseffekt. Es handelt sich um eine [Verzerrung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Dunning_Kruger_Effekt.md) der Wirklichkeit durch Annahmen, Formulierungen und Fehler, welche zu einer falschen Darstellung der tatsächlich vorherrschenden geschlechtsspezifischen Verhältnisse führt.[^2] Geprägt wurde der Begriff maßgeblich von Judith Fuchs, Kris Maschewsky und Ulrike Maschewsky-Schneider. Der Begriff entstand im Jahr 1988. Die [Wahrnehmungsverzerrungseffekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Survivorship_Bias.md) in Verbindung mit dem Geschlecht können aufgrund von Alltagstheorien, mangelnder Auseinandersetzung und fehlendem Wissen entstehen. Man konnte feststellen, dass drei Hauptannahmen die Basis für Genderbias bilden.
+*	Annahme der Unterschiedlichkeit in bestimmten Bereichen, wo (eventuell) keine besteht,
+*	Annahme der Gleichheit dort, wo die Gleichheit nicht vorhanden ist,
+*	Unterschiedliche (Be-)Wertung von Faktoren, die bei beiden Geschlechtern auftreten[^3] 
+# Die Fachbegriffe
+Die drei Formen heißen Androzentrismus, Geschlechtsinsensibilität und Doppelte Bewertungsmaßstäbe. Androzentrismus bedeutet, dass in der Forschung vor allem Probleme untersucht werden, die Männer betreffen, obwohl die Ergebnisse auf alle Menschen verallgemeinert werden (Unterformen: Übergeneralisierung, Männer als Norm, Paradoxer Gynozentrismus). Geschlechtsinsensibilität liegt vor, wenn das biologische oder soziale Geschlecht ignoriert wird. Dies wird auch als Geschlechterblindheit bezeichnet (Unterformen: Familialismus, Dekontextualisierung, Annahme der Gleichheit von Frauen und Männern). Doppelte Bewertungsmaßstäbe verzerren Forschungsergebnisse, wenn identische Eigenschaften von Frauen und Männern unterschiedlich untersucht oder beurteilt werden (Unterformen: Geschlechterdichotomien, Geschlechterstereotype).[^4] 
+# Welche Rolle spielen kognitive Verzerrungen?
+Mithilfe von kognitiven Abkürzungen kann unser Gehirn Informationen des Alltags reduzieren. Dadurch werden sinnvolle Funktionen erfüllt. Deshalb kann es jedoch zu Verzerrungen und voreiligen Annahmen kommen, welche sich negativ auf einzelne Personengruppen auswirken können.[^5]  
+# Beispiele
+Wir sprechen zum Beispiel von einem Gender Bias, wenn bei der Neuzulassung von Autos lediglich Sicherheitstests mit auf Männern zugeschnittenen Dummies gesetzlich vorgeschrieben sind oder Wissenschaftler die biologischen Unterschiede zwischen Männern und Frauen bei der Entwicklung neuer Medikamente nicht hinreichend beachten oder man Männer bzw. Frauen stereotypisiert und ihnen bestimmte Kompetenzen zuweist und diese gleichzeitig mit einzelnen Jobs verbindet.[^6] 
+# Wie denken Führungskräfte darüber? 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![Die Mehrheit der Manager glaubt, dass Frauen im Beruf nicht mehr diskriminiert werden.](Gender_Bias/image.png) 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Abbildung 1: [Die Mehrheit der Manager glaubt, dass Frauen im Beruf nicht mehr diskriminiert werden.](https://science.orf.at/stories/3201035/)
+ 
+Die Ergebnisse stammen aus einer Studie von Christopher Begeny. Es wurde ein Arbeitsumfeld gewählt, in dem Frauen zahlenmäßig aufgeholt haben, und zwar die Veterinärmedizin. Die Manager*innen wurden befragt, ob sie glauben, dass Frauen und Männer die gleichen Chancen haben und gleichberechtigt sind. Mehr als 44% waren dieser Meinung, 61% davon Männer. 40 Prozent hatten die Meinung, dass es noch immer einen Gender-Bias gebe, nur 23% davon waren Männer. Der Rest war unsicher.[^7] Zahlreiche Unternehmen zweifeln immer noch an der Vereinbarkeit von beruflichem und privatem. Oft werden Frauen in bestimmten Branchen als untypische oder ungeeignete Führungskraft abgestempelt. Das führt dazu, dass Frauen in Führungspositionen [kritischer](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umgang_mit_Kritik.md) beobachtet werden als ihre männlichen Kollegen.[^8] 
+# Was kann man als einzelnes Unternehmen bewegen?
+Als einzelnes Unternehmen kann man die traditionelle Rollenverteilung der Geschlechter in der Gesellschaft nicht verändern. Trotzdem kann das Unternehmen bewusst die Vereinbarkeit von Beruf und Privatleben sowie untypische Karrierewege aufzeigen, stärken und fördern.[^9]  
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Gender_Bias/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Gender_Bias.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
+# Siehe auch 
+* [Dunning-Kruger-Effekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Dunning_Kruger_Effekt.md)
+* [Survivorship_Bias](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Survivorship_Bias.md)
+* [Umgang mit Kritik](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umgang_mit_Kritik.md)
 # Quellen
+[^1]: [Karriere-Killer Gender Bias](https://blog.iao.fraunhofer.de/karriere-killer-gender-bias/)
+[^2]: [Gender Bias](https://de.wikipedia.org/wiki/Gender_Bias)
+[^3]: [Genderbias: Wahrnehmungsverzerrungen in Bezug auf Gender](https://erwachsenenbildung.at/themen/gender_mainstreaming/grundlagen/genderbias.php)
+[^4]: [Geschlechtsbezogener Verzerrungseffekt (Gender Bias)](http://www.genderkompetenz.info/w/files/gkompzpdf/gender_bias.pdf)
+[^5]: [Gender Bias in der Wissenschaft](https://www.gesis.org/cews/themen/gender-bias)
+[^6]: [Karriere-Killer Gender Bias](https://blog.iao.fraunhofer.de/karriere-killer-gender-bias/)
+[^7]: [„Gender-Bias“ überlebt im Kopf](https://science.orf.at/stories/3201035/)
+[^8]: [Karriere-Killer Gender Bias](https://blog.iao.fraunhofer.de/karriere-killer-gender-bias/)
+[^9]: [Karriere-Killer Gender Bias](https://blog.iao.fraunhofer.de/karriere-killer-gender-bias/)
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 

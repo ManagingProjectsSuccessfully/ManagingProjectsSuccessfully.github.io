@@ -2,94 +2,102 @@
 title: Risikoanalyse_und_Visualisierung
 tags: agil klassisch
 author: CTM-development
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Risikoanalyse_und_Visualisierung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Risikoanalyse
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Risikoanalyse ist ein Teil des [Risikomanagements](Risikomanagement.md), welcher sich mit der Analyse und Einordnung von, durch Risikoidentifikation aufgedeckten, Risiken beschaeftigt.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+## Allgemeines
+Unter einem Risiko versteht man ein ungewisses Ereignis oder eine ungewisse Bedingung, die, wenn sie eintritt, einen positiven oder negativen Effekt auf ein oder mehrere Projektziele hat[^1].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Risikoanalyse ordnet sich neben Risikoaggregation, Risikobewältigung, Risikoüberwachung im Risikomanagement ein[^4].
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Je nach Quelle unterteilt sich der Prozess der Risikoanalyse in zwei Unterteile: 
+1. Die Risikoidentifikation und 
+2. die Risikoquantifizierung, also die Analyse der im 1. Schritt gefundenen Risiken[^3] [^5] 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+oder die Risikoanalyse und die Risikoidentifikation werden als seperate Schritte des Risikomanagements gesehen [^2].
 
 
-# Aspekt 1
+Risikoidentifikation ist der Prozess des systematischen Auffindens von Risiken fuer ein Projekt.
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Risikoanalyse laesst sich in zwei Kategorien unterteilen:
+1. Qualitative Risikoanalyse
+2. Quantitative Risikoanalyse
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Quantitative Risikoanalyse ist die objektive, mathematische Analyse von Risiken, bei welcher durch Simulationen oder deterministischen Statistiken Risikomodelle erstellt werden. Risikomodelle arbeiten meistens Annahmen und Zufallsvariablen [^7]. Ein Beispiel fuer eine quantitative Risikoanalyse ist die Monte Carlo Simulation.
 
-![Beispielabbildung](Risikoanalyse_und_Visualisierung/test-file.jpg)
+Dagegen ist qualitative Risikoanalyse eine Analysemethode, bei der Risiken nicht mit numerisch und quantitativen Werten ermittelt und bewertet werden. Stattdessen werden die einzelnen Risikomerkmale eines Projekts, die Wahrscheinlichkeit des Eintretens und die Auswirkungen, die sie im Falle des Eintretens auf das Projekt haben würden, anhand einer Skala bewertet. Ein prominents Beispiel zur qualitativen Risikoanalyse ist die [Risikomatrix](Risikomatrix.md).
 
-*lustiges Testbild*
 
-# Aspekt 2
+### Ziel von Risikoanalyse
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+> _Ziel der Risikoanalyse ist es, durch ein möglichst strukturiertes Vorgehen die wesentlichen Risiken z.B. eines Unternehmens, Geschäftsbereichs oder Projektes zu erkennen und zu priorisieren; möglichst basierend auf einer nachvollziehbaren quantitativen Beschreibung des Risikos_[^3]. 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Ablauf von Risikoanalysen
 
-So kann man eine Tabelle erstellen:
+Im Allgemeinen besteht der Prozess der Risikoanalyse aus drei aufeinander folgenden Schritten:[^5] [^2]
+1. Identifikation von Risiken
+2. Qualitative Risikoanalyse
+3. Quantitative Risikoanalyse
 
-| First Header  | Second Header |
+Die quantitative Risikoanalyse baut oft auf den Ergebnissen der qualitativen Risikoanalyse auf.
+Je nach Definition von Risikoanalyse wird der erste Schritt als ein gesonderter Prozess des Risikomanagements betrachtet.
+
+<!-- ![Project Risk Management Process Flow Diagram  [^2]](Risikoanalyse_und_Visualisierung/riskManagement_process.png)
+<!-- !{Hier Grafik 3-1 aus [^2] einfuegen.} -->
+ <!-- _Project Risk Management Process Flow Diagram_  [^2]. -->
+
+## Methoden der Risikoanalyse
+Die verschiedenen Methoden der Risikoanalyse fallen entweder unter die Kategorie der qualitativen oder der quantitativen Risikoanalyse.
+<!-- [TODO]: Evtl einige Methoden zur genaueren Erlaeuterung rauspicken -->
+<!-- ### Methoden der qualitativen Risikoanalyse
+
+### Methoden der quantitativen Risikoanalyse -->
+
+### Methodentabelle
+
+
+| Methode  | Beschreibung |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Zwei dimensionale Matrix Auswirkung/ Eintrittswahrscheinlichkeit  | Qualitativ, einfach zu bedienen und am häufigsten verwendet, kann auf drei oder mehr Dimensionen erweitert und mit FMEA kombiniert werden  |
+| Pareto Diagramm  | Einfache qualitative Methode zur Priorisierung von Risikoelementen  |
+| Fehlermöglichkeits- und Einflussanalyse (FMEA) |  Qualitativ, nur für ein erstes Screening, wirksam in einer Teamumgebung  |
+|  Project Definition Rating Index  |  Qualitativ, Einsatz in der Front-End-Projektplanung, effektiv in einer Teamumgebung  |
+|  Multivariate Statistikmodelle  |  Quantitativ, erfordert eine historische Datenbank  |
+|  Ereignisbaum  |  Quantitativ, selten für Risikoanalysen verwendet  |
+|  Modell der Systemdynamik  |  Sowohl qualitativ als auch quantitativ, selten verwendet, aber effektiv, erfordert erfahrene Modellierer  |
+|  Sensitivitätsanalyse  |  Quantitativ, nützlich unabhängig davon, welches andere Verfahren verwendet wird, nützlich, wenn keine harten Daten vorliegen  |
+|  Projekt-Simulation  |  Sowohl qualitativ als auch quantitativ, nützlich für die Teambildung, teuer in der Umsetzung  |
+|  Stochastische Simulation  |  Quantitativ, häufig verwendet, oft missbraucht, daher müssen die Grenzen deutlich gemacht werden  |
+|  Additiver Modus  |  Quantitativ, kann bei Projektfortschritt angepasst werden  | 
+[^6]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+<!-- tabelle von hier zitieren: (https://www.nap.edu/read/11183/chapter/6#39) -->
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# Risikovisualisierung
+> _“Risk visualization is the systematic effort of using images to augment thequality of risk communication alongthe entire risk management cycle”_[^8]
 
-### Ebene-3-Überschrift
+Risikovisualisierung ist der systematische Einsatz von Bildern zur Verbesserung der Qualität der Risikokommunikation während des gesamten Risikomanagementzyklus. Risikovisualisierung ist eine Art von Risikokommunikation. 
+Risikovisualisierung kann sich verschiedener Methoden bedienen, zum Beispiel Bilder, Fotografien, Filme, Grafiken oder Modelle[^9]. Ein bekanntes explizites Beispiel von Risikovisualisierung ist die [Risikomatrix](Risikomatrix.md).
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+<!-- Add Good/Bad risk vis table from [^8] here!! -->
 
-# Aspekt n
+<!-- ## Limitierungen von Risikoanalysen -->
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+<!-- [TODO]: Maybe add this chapter later; still needs sources -->
+
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Risikoanalyse_und_Visualisierung.md)
+* [Risikomatrix](Risikomatrix.md)
+* [Risikodimensionen](Risikodimensionen.md)
+* [Risikomanagement](Risikomanagement.md)
+* [PMBOK Guide](PMBOK_Guide.md)
 
 # Weiterführende Literatur
 
@@ -97,8 +105,13 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^2]: [Practice Standart for Project Risk Management](https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/practice-standard-project-risk-management.pdf?v=1e0b5985-74af-4c57-963c-b91a9af6fecb)
+[^3]: [Gabler Wirtschaftslexikon: Risikoanalyse](https://wirtschaftslexikon.gabler.de/definition/risikoanalyse-45109/version-335506)
+[^4]: [Gabler Wirtschaftslexikon: Risikomanagement](https://wirtschaftslexikon.gabler.de/definition/risikomanagement-42454)
+[^5]: [Rausand, Marvin. “Risk Assessment: Theory, Methods, and Applications.” (2011).](https://www.semanticscholar.org/paper/Risk-Assessment%3A-Theory%2C-Methods%2C-and-Applications-Rausand/ff184e6edb9105c6056a995d6f97b778462201a6)
+[^6]: [The Owner's Role in Project Risk Management
+(2005)](https://www.nap.edu/catalog/11183/the-owners-role-in-project-risk-management#stats)
+[^7]: [Investopedia: Risk Analysis](https://www.investopedia.com/terms/r/risk-analysis.asp)
+[^8]: [Eppler, M. J., & Aeschimann, M. (2009). A Systematic Framework for Risk Visualization in Risk Management and Communication. Risk Management, 11(2), 67–89.](http://www.jstor.org/stable/40468432)
+[^9]: [Focal Report 9: Risk Analysis Visualizing Risk: The Use of Graphical Elements in Risk Analysis andCommunications, Risk and Resilience Research GroupCenter for Security Studies (CSS), ETH Zürich, 2012](https://www.academia.edu/2094584/Visualizing_Risk_The_Use_of_Graphical_Elements_in_Risk_Analysis_and_Communications)
