@@ -72,6 +72,6 @@ Bis heute wird das agile Projektmanagement gerne neben den klassischen Methoden 
 [^1]: [Agile Manifesto - Geschichte](https://agilemanifesto.org/history.html)
 [^2]: [Agiles Projektmanagement - Agile Manifesto](http://agiles-projektmanagement.org/agile-manifesto/)
 [^3]: [Agile Manifesto - Leitsätze](https://agilemanifesto.org/iso/de/manifesto.html)
-[^4]: [Agiles Manifest - die vier Prinzipien](https://synapsenstau.de/agiles-manifest/)
+[^4]: [Abbildung Agiles Manifest - die vier Prinzipien](https://synapsenstau.de/agiles-manifest/)
 [^5]: [Agile Manifesto - Prinzipien](https://agilemanifesto.org/iso/de/principles.html)
 
