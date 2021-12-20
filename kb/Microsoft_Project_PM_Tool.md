@@ -151,7 +151,7 @@ Diese Funktion dient zur Betrachtung des Projekts auf Projektebene. Somit könne
 
 ### 10.	Basisplan über Register „Projekt“ festlegen
 
-Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein Basisplan, unter Register „Projekt“ mit dem „Befehl Basisplan“ festlegen, abgespeichert. Der Basisplan kann im späteren Verlauf nach dem Fortschreiben des Rahmenterminplans zum tabellarischen sowie visuellen Abgleich genutzt werden.
+Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein Basisplan unter Register „Projekt“ mit dem „Befehl Basisplan“ festlegen, abgespeichert. Der Basisplan kann im späteren Verlauf nach dem Fortschreiben des Rahmenterminplans zum tabellarischen sowie visuellen Abgleich genutzt werden.
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Basisplan.jpeg)
 
