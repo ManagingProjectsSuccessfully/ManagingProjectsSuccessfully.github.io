@@ -9,6 +9,7 @@ anrechnung: k
 
 Das Pareto Prinzip besagt, dass bereits mit einem minimalen Aufwand ein halbwegs vollständiges Ergebnis einer Aufgabe erzielbar ist. Dies funktioniert, in dem der Fokus, bereits zu Beginn der Bearbeitung einer Aufgabe, auf grundlegende Dinge gelegt wird, sodass vermieden wird sich in Details zu verrennen, die sich letzten Endes als Zeiträuber entlarven werden.
 
+
 ## Inhaltsverzeichnis
 1. Ursprung des Pareto-Prinzips 
 2. Bedeutung des Pareto-Prinzips
@@ -60,12 +61,13 @@ Wenn man sich auf die wichtigsten Dinge beschränkt und seine Zeit somit auf gen
 
 Das Setzen von Prioritäten ist demnach ausschlaggebend für die Umsetzung des Pareto-Prinzips. Oftmals sind die letzten 20% des Ergebnisses, die die Erledigung der Aufgabe perfektionieren würden, nicht zwingend notwendig, sodass die Zeit, die dadurch gespart wird, wiederum für andere Bereiche genutzt werden kann.[^8]
 
-Bei der Anwendung des Pareto-Prinzips trennt man sich somit bestenfalls gleichzeitig von seinem Perfektionismus, da dieser in den meisten Fällen nicht von Nöten ist. Auf diese Weise spart man sich nicht nur Nerven, sondern generiert gleichzeit auch mehr Zeit, um die Kernaufgaben besonders gut erledigen zu können. Insbesondere wenn man eine große Anzahl auf Aufgaben zu erledigen hat, eignet sich das Pareto-Prinzip, da man mithilfe dieses Prinzips alle Aufgaben bereits fast vollständig abarbeitet und nicht nur wenige Aufgaben "perfekt", also zu 100%, ausarbeitet.[^9]]
+Bei der Anwendung des Pareto-Prinzips trennt man sich somit bestenfalls gleichzeitig von seinem Perfektionismus, da dieser in den meisten Fällen nicht von Nöten ist. Auf diese Weise spart man sich nicht nur Nerven, sondern generiert gleichzeit auch mehr Zeit, um die Kernaufgaben besonders gut erledigen zu können. Insbesondere wenn man eine große Anzahl auf Aufgaben zu erledigen hat, eignet sich das Pareto-Prinzip, da man mithilfe dieses Prinzips alle Aufgaben bereits fast vollständig abarbeitet und nicht nur wenige Aufgaben "perfekt", also zu 100%, ausarbeitet.[^9]
 
 
 #### 4.ii. Vergleich der Zeitersparnis zu der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
 
 Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik handelt es sich um eine weitere Technik bei der man auch das Ziel verfolgt in möglichst kurzer Zeit vieles zu erreichen. Die Zeit, in der man arbeitet sowie die Zeit der Pausen, wird hier zwar lediglich eingeteilt, aber durch die Zeiteinteilung steigert sich auch hier die Produktivität. Man versucht sich nicht ablenken zu lassen und vermeidet Zeitfresser, um, wie beim Pareto- Prinzip, in kurzer Zeit möglichst vieles zu schaffen.[^10]
+
 
 ### Siehe auch
 
@@ -84,17 +86,8 @@ Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProje
 [^3]: Alfred Ultsch, Marburg, 2001, "Eine Begründung der Pareto-80/20 Regel und Grenzwerte für die ABC-Analyse", S. 1
 [^4]: https://www.impulse.de/management/selbstmanagement-erfolg/pareto-prinzip/3969973.html
 [^5]: https://www.braintool.com/blog/pareto-prinzip-projektmanagement/
-
 [^6]: https://de.wikipedia.org/wiki/Pareto-Verteilung
-
-
 [^7]: Stephan Rusch, 2019, "Stressmanagement - Ein Arbeitsbuch für die Aus-, Fort- und Weiterbildung", S. 118
 [^8]: https://www.gruenderlexikon.de/checkliste/fuehren/zeitmanagement/pareto-prinzip/
-
+[^9]: https://www.flowfinder.de/pareto-prinzip/
 [^10]: https://www.selbst-management.biz/pomodoro-technik/
-
-
-
-[^BLABLA1]: https://der-prozessmanager.de/aktuell/wissensdatenbank/pareto-prinzip
-
-[^8BLABLA2]: https://www.flowfinder.de/pareto-prinzip/
