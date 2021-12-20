@@ -94,7 +94,7 @@ Dieser soll ein Projekt in logische Phasen untergliedern und eine übersichtlich
 
 ### 4.	Dauer: Vorgänge und Meilensteine festlegen
 
-Die Dauer entspricht den Arbeitstagen und wird für ein Intervall abgeschätzt und im Projektverlauf fortgeschrieben. 
+Die Dauer entspricht den Arbeitstagen, wird für ein Intervall abgeschätzt und im Projektverlauf fortgeschrieben. 
 Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung eines Sammelvorgangs / Zwischenstandes verwendet werden.
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Dauer.jpeg)
