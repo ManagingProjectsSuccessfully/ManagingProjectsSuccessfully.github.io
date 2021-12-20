@@ -2,103 +2,81 @@
 title: Zielbeziehungen
 tags: agil klassisch
 author: AnjaKlostermeier
-anrechnung: k oder a
+anrechnung: k
 ---
+# Überblick über das Thema - kurze Begriffsklärung 
+Bevor tiefer in das Thema eingestiegen wird, werden zuerst die Begriffe "Zielbeziehungen“ und "klassisches Projektmanagement“ kurz erklärt. 
 
-Kurzbeschreibung zu Zielbeziehungen um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+## Zielbeziehungen
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Unter Zielbeziehungen wir die Beziehung zwischen den einzelnen Ziele (meist Unternehmensziele) beschrieben. Dabei kann man drei bzw. vier verschiedene Arten von Beziehungen unterscheiden: 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+* **Komplementäre Ziele:** Dies ist die Idealbeziehung zwischen den einzelnen Zielen. Durch das Erreichen eines Ziels wird zugleich ein anderes Ziel erreicht (Synergieeffekt) 
+* **Konkurrierende Ziele:** Hier lassen sich die Ziele nicht gegenseitig verfolgen, sondern entfernen sich eher voneinander.
+* **Neutrale Ziele:** Diese Ziele werden voneinander unabhängig/neutral erreicht. In der heutigen Welt der Digitalisierung sind solche Ziele aber kaum noch auffindbar.
+* **Autonome Ziele:** Man kann nicht gleichzeitig mehrere Ziele erreichen [^1]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+![Zielbeziehungen](Zielbeziehungen/Zielbeziehungen_Bild.png)
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+## Klassisches Projektmanagement 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Projektmanagement allgemein beinhaltet die Anwendung von Wissen, Fähigkeiten und Techniken für Management- und Führungstätigkeiten [^2]
+Beim klassischen Ansatz geht es eher darum, dass man Methoden und Erzeugnisse des Projektmanagement zu standardisierten Projektabläufen zusammenfasst (=Projektmanagementsysteme[^8]). Die Projektphasen sind also strikt durchgeplant und es herrscht somit eine hohe Planungssicherheit. [^3] [^4]
+Neben dem klassischen Projektmanagement gibt es auch noch das [agile Projektmanagement](Umgang_mit_Kritik.md) 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Im nächsten Schritt wird der Zusammenhang zwischen Zielbeziehungen im klassischen Projektmanagement erklärt. 
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# Zielbeziehungen im Klassischen Projektmanagement
 
+Bevor ein Projekt gestartet wird, müssen immer gewisse Ziele vereinbart werden, die zu erreichen sind. Dementsprechend sollten Ziele klar und deutlich formuliert werden. Hierfür gibt es  die  [„SMART“ Regel](SMART_Ziele.md) „Specific Measurable Accepted Realistic Timely“ [^5]
+Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht einzelne Ziele möglichst schnell und zugleich qualitativ hochwertig zu erreichen. Bedeutet je anspruchsvoller das Ziel/Ergebnis ist, beispielsweise hinsichtlich der Qualität oder Funktion, umso höher sind die damit verbundenen Kosten, Leistungen und Zeitlicher Bedarf. Dahingegend müssen wichtige Abstimmungen gemacht werden. Zum besseren Verständnis nachfolgend einige Beispiele: 
 
-# Aspekt 1
+|Das zu erreichende priorisierte Ziel  |Damit verbunden Leistungen  |
+| :-------------:                        |               :-------------: |
+|Leistungsumfang/ziel erhöhen          |Kosten und Projektdauer steigen |
+|Kostenziel hat Priorität (Kosten sinken) |Leistungs- & Zeitziel steigt 
+|Terminziel hat Priorität               |Kosten steigen & Leistungen einsparen
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Der Projektmanager muss sich also hier im Klaren werden, was er wie und unter welche Priorität erreichen will. Stets zu beachten ist, dass die Anforderungen des Kundens an erster Stelle stehen. [^5]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Die am häufigsten vorkommende Form der Zielbeziehungen im Projektmanagement sind die konkurrierenden Zielbeziehungen. Der Grund hierfür ist, dass in einem Projekt nicht nur ein Ziel sondern mehrere Ziele nebeneinander aufgeführt werden. Typische Beispiele von konkurrierenden Zielen sind[^9]:
 
-![Beispielabbildung](Zielbeziehungen/test-file.jpg)
+* **Termineinhaltung vs. Budgeteinhaltung**
+* **Termineinhaltung vs. Leistungserstellung (Qualität und/oder Quantität)**
+* **Budgeteinhaltung vs. Leistungserstellung (Qualität und/oder Quantität)** 
 
-*lustiges Testbild*
+## Zielbeziehungsmatrix/Präferenzmatrix
 
-# Aspekt 2
+Um Ziele in einem Projekt besser zu veranschaulichen eignet sich auch eine sogenannte Zielbeziehungsmatrix oder auch Präferenzmatrix. Beide Matrizes helfen bestimmte Kriterien, Anforderungen etc. in einem Projekt zu priorisieren und diese auch zu vergleichen. Sie kommen vor allem in der BWL, Controlling, Projektmanagement und Qualitätsmanagement zum Einsatz. Diese Matrizes werden anhand folgender Schritte aufgebaut:
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+1. Kriterien sammeln – Brainstromen
+2. Matrix erstellen
+3. Paarweiser Vergleich
+4. Auswertung und Konsquenzen
+5. Rangfolge erstellen [^6]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Nachfolgend ein Beispiel einer Präferenzmatrix[^7]:
 
-So kann man eine Tabelle erstellen:
+![Zielbeziehungen](Zielbeziehungen/Präferenzmatrix_Bild.jpg) 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# Siehe auch:
+* [Projektmanagement](Projektmanagement.md)
+* [Agiles Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement) 
+*	[Präferenzmatrix](https://de.wikipedia.org/wiki/Pr%C3%A4ferenzmatrix#:~:text=Die%20Pr%C3%A4ferenzmatrix%20ist%20ein%20einfaches,das%20jeweils%20wichtigere%20Kriterium%20vermerkt.&text=Das%20Kriterium%20mit%20den%20meisten%20Nennungen%20ist%20das%20wichtigste%20Kriterium)
+* [Zielbeziehungsmatrix](https://de.wikipedia.org/wiki/Zielbeziehungsmatrix)
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+# Weiterführende Literatur 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Zielbeziehungen.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Video: [Welche Gefahren lauern in Projektzielen? - Zielbeziehungen und ihre Bedeutung](https://www.youtube.com/watch?v=3rx5u1GmX1o)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Zielbeziehungen](https://marjorie-wiki.de/wiki/Zielbeziehungen/)
+[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide) p. 112](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^3]: [Standardisierung vs. Kultur:Klassisches vs. Agiles Projektmanagement](https://dl.gi.de/bitstream/handle/20.500.12116/3061/47.pdf?sequence=1&isAllowed=y) 
+[^4]: [Klassisches Projektmanagement](https://www.agile-heroes.de/magazine/was-ist-klassisches-projektmanagement/)
+[^5]: [Projektmanagement:lernen, lehren und für die Praxis](https://de.scribd.com/book/348063388/Projektmanagement-lernen-lehren-und-fur-die-Praxis)
+[^6]: [Präferenzmatrix](https://de.wikipedia.org/wiki/Pr%C3%A4ferenzmatrix) 
+[^7]: [Innovation 2.0 pp 257-323|  Die Werkzeuge, Manfred Noe ](https://link.springer.com/book/10.1007/978-3-658-02583-0) 
+[^8]: [Projektmanagementsysteme](https://www.capterra.com.de/sem/compare/directory/30002/project-management/software?account_campaign_id=11412926622&account_adgroup_id=111801304956&target=projektmanagement%20system&ad_id=542893678485&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=EAIaIQobChMInqOVjMqp9AIVA893Ch0V3QyJEAAYAiAAEgJ01_D_BwE)
+[^9]: [Projektanforderungen und Projektziele](https://www.researchgate.net/profile/Michael-Gessler-2/publication/325659457_Projektanforderungen_und_Projektziele/links/5b1bbe89aca272021cf44c86/Projektanforderungen-und-Projektziele.pdf)

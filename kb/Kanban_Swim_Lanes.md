@@ -1,104 +1,79 @@
 ---
 title: Kanban_Swim_Lanes
-tags: agil klassisch
+tags: agil 
 author: Creed229
-anrechnung: k oder a
+anrechnung:  a
 ---
 
-Kurzbeschreibung zu Kanban_Swim_Lanes um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+## Definition
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+> "Kanban swimlanes are horizontal lines that split a Kanban board into sections. Teams usually use them to visually separate different work types on the same board and organize homogenous tasks together."[^1]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Kanban Swimlanes sind also Abgrenzungen in Form von horizontalen oder vertikalen Zeilen für verschiedene Bereiche eines Projekts. Sie sind Teil der sogenannten [Kanban Methode](https://de.wikipedia.org/wiki/Kanban). Diese wiederum ist eine Form des agilen Projektmanagements.[^2]  
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Arten von Swimlanes 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Meist werden Swimlanes verwendet um verschiedene Prozesse voneinander zu trennen. Diese Aufteilung findet nach bestimmten Kriterien statt.
+Generell ist es den Anwendern selbst überlassen, nach welchen Kategorien sie dabei differenzieren. Das Ziel ist es eine übersichtliche Darstellung der aktuellen Aufgaben zu ermöglichen.[^3]
+#
+## Beispiele für verschiedene Kategorien
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+### **Dringlichkeit**
+Eines der am häufigst genutzten Optionen ist es, die Aufgaben nach ihrer Priorität beziehungsweise Dringlichkeit zu unterteilen. Der Vorteil besteht darin, dass Teams so einfacher Fristen und Termine einhalten können. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![Swimlanes_Dringlichkeit](https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/support_kanban_board.png)
+[*Swimlanes Dringlichkeit*](https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/support_kanban_board.png)[^1]
 
-![Beispielabbildung](Kanban_Swim_Lanes/test-file.jpg)
+Vor allem wenn eng mit Geschäftspartnern und Kunden gearbeitet wird, ist dies eine Möglichkeit um einen zeitlichen Verzug des Projekts zu verhindern. Beispielweise könnte das Board in hochprioritäre, mittelprioritäre und niedrigprioritäre Aufgaben unterteilt werden. Dadurch lassen sich dringende Angelegenheiten effizient und schnell lösen.[^1][^3]
 
-*lustiges Testbild*
+### **Produkte**
+Die Aufteilung des Kanban Boards nach Produkten hilft insbesondere dann, wenn diverse Produkte gleichzeitig entwickelt werden. Jedes Projekt erhält dabei eine eigene Swimlane. Dadurch können jederzeit neue Produktideen hinzugefügt und bearbeitet werden. Besonders für Unternehmen mit einer breiten Produktpalette und vielen unterschiedlichen Kundenwünschen kann diese Aufteilung sinnvoll sein.[^4][^3]
 
-# Aspekt 2
+### **Gliederung nach Projektteams**
+Sobald mehrere Teams an einem Projekt arbeiten, wird die Aufgabentafel ohne die richtige Gliederung schnell unübersichtlich. Um diesem Problem entgegenzuwirken können Swimlanes nach Teams beziehungsweise Abteilungen gebildet werden.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+![Swimlanes_Teams](https://static.kanbantool.com/support/kanban-board/swimlane-per-team.png)
+[*Swimlanes_Großprojekt_Aufteilung_Teams*](https://static.kanbantool.com/support/kanban-board/swimlane-per-team.png)[^4]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+So können einzelne Teammitglieder schnell sehen, welche Aufgaben sie noch zu erledigen haben. Bei kleineren Projekten ist häufig eine Swimlane pro Teammitglied sinnvoll, wohingegen bei Großprojekten mit mehreren Abteilungen eine Differenzierung nach kompletten Teams sinnvoll ist.[^1][^4]
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+### **Art der Aufgabe**
+Eine weitere beliebte Möglichkeit sein Kanban Board zu unterteilen ist es, die Swimlanes nach dem jeweiligen Aufgabenbereich zu sortieren. Da es in jedem Team  unterschiedliche Segmente eines Projekts gibt, macht es Sinn diese mehrfach zu klassifizieren. Zum Beispiel kann zwischen extern und intern differenziert werden. Anschließend kann dann weiter untergliedert werden. Um die Übersicht zu wahren, sollte hierbei allerdings nicht in mehr als 10 Swimlanes unterteilt werden.[^3]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+### **Wiederkehrende Prozesse**
+Swimlanes können auch genutzt werden, um das Kanban Board in wiederkehrende Prozesse zu unterteilen. Häufig haben Teams wiederkehrende Aufgaben, die in regelmäßigen Abständen erledigt werden müssen. Beispielweise müssen IT-Teams immer wieder Wartungsarbeiten durchführen. Damit diese simplen Arbeitsprozesse nicht vernachlässigt werden, können Swimlanes für einmalige und wiederkehrende Aufgaben erstellt werden. Dies stellt sicher das alle Aufgaben dokumentiert werden und somit die vermeintlich alltäglichen Prozesse nicht in Vergessenheit geraten.[^1][^5]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+### **Verworfene Ideen**
+Bei der Arbeit an Projekten werden viele Ideen und Konzepte wieder verworfen ohne jemals umgesetzt zu werden. Manchmal ist eine Idee zum jeweiligen Zeitpunkt nicht realisierbar, beinhaltet jedoch trotzdem großes Potential für zukünftige Projekte. In so einem Fall kann eine Swimlane für verworfene Ideen als eine Art Sammlung dienen. Dadurch können gegebenenfalls auch später im Projekt bereits verworfene Konzepte wieder mit aufgenommen werden. Das wiederum ermöglicht eine größere Flexibilität des gesamten Projekts.[^1]
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+#
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Kanban](Kanban.md)
+* [Kanban_Pull_Prinzip](Kanban_Pull_Prinzip.md)
+* [Kanban_Karten](Kanban_Karten.md)
+* [Kanban_Boards](Kanban_Boards.md)
+* [Kanban_Work_in_Progress](Kanban_Work_in_Progress.md)
 * [Link auf diese Seite](Kanban_Swim_Lanes.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Kanban Wikipedia](https://de.wikipedia.org/wiki/Kanban)
+* [Kanban Swimlanes Google Scholar](https://scholar.google.com/scholar?hl=de&as_sdt=0,5&q=kanban+swimlanes)
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [What Are Kanban Swimlanes and How to Use Them in Practice?](https://kanbanize.com/kanban-resources/kanban-software/kanban-swimlanes)
 
+[^2]: [Kanban Wikipedia](https://de.wikipedia.org/wiki/Kanban)
+
+[^3]: [Kanban-Swimlanes - Optimieren Sie Ihren Prozess](https://teamhood.com/de/kanban-ressourcen/kanban-swimlanes-fuer-sie/)
+
+[^4]: [What are swimlanes and how to use them?](https://kanbantool.com/support/kanban-board/what-are-swimlanes)
+
+[^5]:  [What are Kanban Board Swimlanes? And How to Use Them](https://blog.planview.com/what-are-kanban-board-swimlanes-and-how-to-use-them/)
