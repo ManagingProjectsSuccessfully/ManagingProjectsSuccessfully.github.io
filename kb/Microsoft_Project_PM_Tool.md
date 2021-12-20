@@ -121,7 +121,7 @@ Hier wird die Summe der Arbeitsstunden geplant, die die Ressource für diesen Vo
 
 ### 7.	Ressourcen anlegen und verwalten
 
-Nach der Aufwandsschätzung werden Ressourcen auf Vorgänge zugewiesen. Über „Ressource: Tabelle“ werden im lokalen Ressourcenpool Ressourcen angelegt. 
+Nach der Aufwandsschätzung werden Ressourcen auf Vorgänge zugewiesen. Über „Ressource: Tabelle“ werden im lokalen Speicherpool Ressourcen angelegt. 
 Diese können als Material, Arbeit oder Kosten definiert sein. Im Ressourcenpool sollten daher klare Einheiten für die Errechnung der jeweiligen Ressourcen hinterlegt sein (Bsp.: Arbeit, Stundensatz).
 Sind diese Schritte abgearbeitet, können mittels einer Auswahlliste Ressourcen in der Spalte „Ressourcennamen“ gewählt werden.
 
@@ -142,7 +142,7 @@ Es sollte ein gesunder Mix aus beiden Festlegungsmaßnahmen verwendet werden.
 
 ### 9.	Projektsammelvorgang über das Register „Format“ einblenden
 
-Diese Funktion dient zur Betrachtung des Projekts auf Projektebene. Somit können schnell und übersichtlich die essenziellsten Daten zusammengefasst eingeblendet werden. Der Anwender kann in dieser Ansicht lediglich den Namen des Projektes anpassen.
+Diese Funktion dient zur Betrachtung des Projekts auf Projektebene. Somit können schnell und übersichtlich die essenziellsten Daten eingeblendet werden. Der Anwender kann in dieser Ansicht lediglich den Namen des Projektes anpassen.
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Projektsammelvorgang.jpeg)
 
@@ -151,7 +151,7 @@ Diese Funktion dient zur Betrachtung des Projekts auf Projektebene. Somit könne
 
 ### 10.	Basisplan über Register „Projekt“ festlegen
 
-Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein Basisplan unter Register „Projekt“ mit dem „Befehl Basisplan“ festlegen, abgespeichert. Der Basisplan kann im späteren Verlauf nach dem Fortschreiben des Rahmenterminplans zum tabellarischen sowie visuellen Abgleich genutzt werden.
+Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein Basisplan unter Register „Projekt“ mit dem Befehl „Basisplan festlegen“ abgespeichert. Der Basisplan kann im späteren Verlauf nach dem Fortschreiben des Rahmenterminplans zum tabellarischen sowie visuellen Abgleich genutzt werden.
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Basisplan.jpeg)
 
@@ -164,7 +164,7 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 | ------------- | ------------- |
 | umfangreiche Funktionen innerhalb der Projektplanung                    | anspruchsvolle Einarbeitung verlangt Grundlagenschulung        |
 | Detaillierungsschärfe der Visualisierung                                | hohe Anschaffungskosten für Lizenz                             |
-| auf Knopfdruck ansprechend gestaltete Reportings / Berichte            | Fehlende Intuition bei der Handhabung                          |
+| auf Knopfdruck ansprechend gestaltete Reportings / Berichte             | Fehlende Intuition bei der Handhabung                          |
 | effizientes Managementsystem komplexer, klassischer Projekte            | beansprucht hohen Pflegeaufwand der bespielten Daten           |
 | etablierter Standard in vielen mittelständischen und großen Unternehmen |
 
