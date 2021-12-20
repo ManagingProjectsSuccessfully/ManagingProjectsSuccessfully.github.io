@@ -18,6 +18,7 @@ anrechnung: k
 [^9]: https://link.springer.com/content/pdf/10.1007/s00287-012-0640-5.pdf
 [^10]: https://books.google.de/books?hl=de&lr=&id=lJlf5nLOMfgC&oi=fnd&pg=PR5&dq=%C3%B6ffentliche+projekte+projektmanagement&ots=9reLD5Uho1&sig=8sS7FEphLDQBY-ep-q8bgi-FKic#v=onepage&q=%C3%B6ffentliche%20projekte%20projektmanagement&f=false
 [^11]: https://www.ndrkulturkarte.de/partner/elbphilharmonie-und-laeiszhalle/
+[^12]: https://www.theprojectgroup.com/blog/erfolgsfaktoren-fuer-projektmanagement/
 
 # Öffentliche Projekte
 
@@ -40,7 +41,8 @@ Die Bundesregierung veröffentlicht regelmäßig einen [Leitfaden](https://www.b
 | 5. Abschluss | Abschlussbericht  |    
 
 
-![Beispielabbildung](Oeffentliche_Projekte/images.jpg)
+![Beispielabbildung](Oeffentliche_Projekte/Magisches-Dreieck.png)
+Magisches Dreieck[^12]
 
 
 ## Kontrolle
