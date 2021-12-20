@@ -8,17 +8,17 @@ anrechnung: k
 Der "Objectives-and-Key-Results-Ansatz" (kurz OKR) geht auf ein in den 1970er Jahren entwickeltes Konzept zurück, das eine Managementmethode aus qualitativen (Objectives) und zugehörigen quantitativen (Key Results) Zielen implementiert. Größere Bekanntheit hat der OKR-Ansatz vor allem durch die Verwendung von Google erlangt.[^1]
 
 # 1. Inhalt
-1. [Inhalt](OKR_Ansatz.md#1inhalt)
+1. [Inhalt](OKR_Ansatz.md#1-inhalt)
 2. [Beschreibung der Methode](OKR_Ansatz.md#2-beschreibung-der-methode)
-   1. [Grundlagen](OKR_Ansatz.md#21grundlagen)
-   2. [Objectives](OKR_Ansatz.md#22objectives)
-   3. [Key Results](OKR_Ansatz.md#23key-results)
-   4. [Beispiele](OKR_Ansatz.md#24beispiele)
-3. [Abgrenzung zur SMART-Methode](OKR_Ansatz.md#3abgrenzung-zur-smart-methode)
-4. [Bezug zum Projektmanagement](OKR_Ansatz.md#4bezug-zum-projektmanagement)
-5. [Siehe auch](OKR_Ansatz.md#5siehe-auch)
-6. [Weiterführende Literatur](OKR_Ansatz.md#6weiterführende-literatur)
-7. [Quellen](OKR_Ansatz.md#7quellen)
+   1. [Grundlagen](OKR_Ansatz.md#21-grundlagen)
+   2. [Objectives](OKR_Ansatz.md#22-objectives)
+   3. [Key Results](OKR_Ansatz.md#23-key-results)
+   4. [Beispiele](OKR_Ansatz.md#24-beispiele)
+3. [Abgrenzung zur SMART-Methode](OKR_Ansatz.md#3-abgrenzung-zur-smart-methode)
+4. [Bezug zum Projektmanagement](OKR_Ansatz.md#4-bezug-zum-projektmanagement)
+5. [Siehe auch](OKR_Ansatz.md#5-siehe-auch)
+6. [Weiterführende Literatur](OKR_Ansatz.md#6-weiterführende-literatur)
+7. [Quellen](OKR_Ansatz.md#7-quellen)
 
 # 2. Beschreibung der Methode
 ## 2.1. Grundlagen
