@@ -35,7 +35,7 @@ Daher sollte man sich immer bewusst sein, welche Rolle in der aktuellen Situatio
 Eine weitere Art des Rollenkonfliktes ist der Intra-Rollenkonflikt. Dieser ist gekennzeichnet durch die unterschiedlichen Erwartungen, die verschiedene Rollen an einen haben.
 [^1]
 
-Im gennanten Beispiel steht der Abteilungsleiter Leon in Kontakt mit Kunden, Lieferanten, höheren Führungskräften und seinen Mitarbeitern. All diese Personen haben diverse
+Im genannten Beispiel steht der Abteilungsleiter Leon in Kontakt mit Kunden, Lieferanten, höheren Führungskräften und seinen Mitarbeitern. All diese Personen haben diverse
 Erwartungen an ihn, sodass es kaum möglich ist, alle zu vollster Zufriedenheit zu erfüllen.[^2]
 
 Nach dem Psychologen Bernd Schmid kann diese Art jedoch nochmal weiter unterteilt werden. Hierbei wird nach Professionswelt, Organisationswelt und Privatwelt gegliedert, welche 
