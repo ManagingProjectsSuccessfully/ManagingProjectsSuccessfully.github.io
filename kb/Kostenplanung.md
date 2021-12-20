@@ -16,7 +16,7 @@ Da Bezugspreise in der Regel zu Projektstart vertraglich fixiert werden, sinkt d
 
 ![Beeinflussbarkeit der Kosten im Projektverlauf](Kostenplanung/Kostenbeeinflussbarkeit.png)
 
-*Beeinflussbarkeit der Kosten im Projektverlauf[^3]*
+*Beeinflussbarkeit der Kosten im Projektverlauf[^5]*
 
 # Zerlegung des gesamten Projekts in Arbeitspakete
 Um eine genaue Schätzung zu gewährleisten, wird das gesamte Projekt in mehrere, kleinere Arbeitspakete aufgeteilt [^1]. Dafür wird vom gesamten Projekt ein [Projektstrukturplan](Projektstrukturplan.md) gebildet, der die Übersicht über die Kostenstruktur erheblich vereinfacht. Die Kosten der einzelnen Arbeitsschritte werden nach oben im Plan akkumuliert und bilden am Ende die Gesamtkosten des Projekts.
@@ -52,3 +52,4 @@ Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt 
 [^2]: Wikipedia, Abrufdatum 19.11.2021, https://de.wikipedia.org/wiki/Kostenmanagement#Kostenmanagement_im_Projektmanagement
 [^3]: Cost Competence Center, Abrufdatum 19.11.2021, https://onlinecosting.de/kostenoptimierung/kostenplanung/#was-ist-kostenplanung
 [^4]: Projekte leicht gemacht, Abrufdatum 19.11.2021, https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektplanung/kostenplanung-projekt/
+[^5]: Bildquelle: https://erfolgreich-projekte-leiten.de/kostenplan/
