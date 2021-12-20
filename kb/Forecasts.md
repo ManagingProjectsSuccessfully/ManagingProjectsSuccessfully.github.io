@@ -45,15 +45,15 @@ Beim effektbasierten Forecast liegt der Fokus auf Effekten und Maßnahmen, die e
 
  ![Abbildung effektbasierte Methode](Forecasts/EffektbasierterForecast.jpg) 
  
- *Abbildung: Effektbasierte Methode*[^5]
+ *Abbildung 1: Effektbasierte Methode*[^5]
   
 
 ## 4. 3 Werttreiberbasierter Forecast 
-Der werttreiberbasierte Ansatz setzt auf eine Prognose anhand weniger Kennzahlen. Das Hauptaugenmerk liegt bei dieser Methode auf zuvor festgelegten relevanten Geschäftstreibern wie beispielsweise Menge, Preis, Personalkosten. Auf Basis der Vorhersage dieser Werttreiber errechnet sich damit der Forecast für die relevanten Kennzahlen des Projektes[^2]. 
+Das Hauptaugenmerk liegt bei dieser Methode liegt auf zuvor festgelegten relevanten Kennzahlen, die den Unternehmenswert erheblich beeinflussen. Dies kann im Hinblick auf das Projektmanagement auch auf den Wert eines Projektes bezogen werden. Der werttreiberbasierte Ansatz berücksichtigt sowohl harte Geschäftstreiber wie beispielsweise den Free Cashflow als auch weiche Werttreiber, welche Vorsteuergrößen für die harten Werttreiber sind. Zu den weichen Treibern zählt zum Beispiel das BIP-Wachstum, der Rohölpreis oder der technologische Fortschritt. Auf Basis der Vorhersage dieser Werte errechnet sich damit der Forecast für die relevanten Kennzahlen des Projektes[^6]. 
  
  ![Abbildung werttreiberbasierte Methode](Forecasts/WerttreiberbasierterForecast.jpg) 
  
- *Abbildung: Werttreiberbasierte Methode*[^6]
+ *Abbildung 2: Werttreiberbasierte Methode*[^7]
 
 # Siehe auch
 
@@ -74,6 +74,7 @@ Der werttreiberbasierte Ansatz setzt auf eine Prognose anhand weniger Kennzahlen
 [^3]: [7 Regeln für einen qualitativen Forecast](https://unternehmer.de/marketing-vertrieb/72056-7-regeln-fur-einen-qualitativen-forecast)
 [^4]: [Projektmagazin: Prognose](https://www.projektmagazin.de/glossarterm/prognose)
 [^5]: [Methoden des Forecast Controllings: Effektbasierter Forecast](https://www.haufe.de/controlling/controllerpraxis/bilderserie-methoden-des-forecast-controllings/forecast-controlling-abb-2_112_453406_453396.html)
-[^6]: [Methoden des Forecast Controllings: Werttreiberbasierter Forecast](https://www.haufe.de/controlling/controllerpraxis/bilderserie-methoden-des-forecast-controllings/forecast-controlling-abb-3_112_453406_453398.html)
+[^6]: [Controlling-Strategy: Werttreiberplanung](https://www.controlling-strategy.com/werttreiberplanung.html)
+[^7]: [Methoden des Forecast Controllings: Werttreiberbasierter Forecast](https://www.haufe.de/controlling/controllerpraxis/bilderserie-methoden-des-forecast-controllings/forecast-controlling-abb-3_112_453406_453398.html)
 
 
