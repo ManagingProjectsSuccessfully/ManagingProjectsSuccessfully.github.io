@@ -10,7 +10,7 @@ Der Begriff der Kostenplanung beschreibt im Kontext des [Projektmanagements](Pro
 Die Kostenplanung ist ein Bestandteil des Kostenmanagements und folgt innerhalb dessen auf die Kostenschätzung. Von dieser unterscheidet sie sich wesentlich durch die deutlich genauere Planung der einzelnen auftretenden Kosten für detaillierte Arbeitsschritte anstelle grober Schätzungen für gesamte Projektvorgänge. Außerdem werden die auftretenden Kosten in verschiedene Strukturen eingeteilt. Das Kostenmanagement wird nach der Planung durch die Kostenkontrolle abgeschlossen. [^2]
 
 # Zweck & Ziele der Kostenplanung
-Es gibt mehrere Gründe, weshalb eine hochwertige Kostenplanung für den Erfolg eines Projekts von großer Bedeutung ist. Noch vor Projektstart kann durch frühe Planungen und Schätzungen im Rahmen der [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md) Erkenntnis darüber gewonnen werden, ob das Projekt überhaupt sinnvoll ist. Des Weiteren bildet die Kostenplanung die Basis für die Angebotskalkulation, auf dessen Basis der Kundenvertrag und damit die Konditionen für das Projekt festgeschrieben werden. Eine realistische Planung ist hierfür unersetzlich. Im Verlauf des Projekts dient die Kostenplanung darüber hinaus zu einem stetigen Soll-Ist-Vergleich der laufenden und vorhergesagten Kosten. Hierdurch erfolgt die kontinuierliche Kontrolle des Projekterfolgs. Erkenntnisse aus diesem Vergleich dienen der Projektsteuerung. Die Relevanz von möglichst akkuraten Kostenplanungen ist für die Reputation einer Firma zentral. Zu niedrige Kalkulationen führen im Projektabschluss zu Streitigkeiten über Nachzahlungen mit dem Kunden, während Planungen mit zu viel Reserve die Wahrscheinlichkeit senken, von Kunden Aufträge zu erhalten. [^3]
+Es gibt mehrere Gründe, weshalb eine hochwertige Kostenplanung für den Erfolg eines Projekts von großer Bedeutung ist. Noch vor Projektstart kann durch frühe Planungen und Schätzungen im Rahmen der [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md) Erkenntnis darüber gewonnen werden, ob das Projekt überhaupt sinnvoll ist. Des Weiteren bildet die Kostenplanung die Basis für die Angebotskalkulation, auf dessen Basis der Kundenvertrag und damit die Konditionen für das Projekt festgeschrieben werden. Eine realistische Planung ist hierfür unersetzlich. Im Verlauf des Projekts dient die Kostenplanung darüber hinaus zu einem stetigen Soll-Ist-Vergleich der laufenden und vorhergesagten Kosten. Hierdurch erfolgt die kontinuierliche Kontrolle des Projekterfolgs. Erkenntnisse aus diesem Vergleich dienen der [Projektsteuerung](Projektsteuerung.md). Die Relevanz von möglichst akkuraten Kostenplanungen ist für die Reputation einer Firma zentral. Zu niedrige Kalkulationen führen im Projektabschluss zu Streitigkeiten über Nachzahlungen mit dem Kunden, während Planungen mit zu viel Reserve die Wahrscheinlichkeit senken, von Kunden Aufträge zu erhalten. [^3]
 
 Da Bezugspreise in der Regel zu Projektstart vertraglich fixiert werden, sinkt die Beeinflussbarkeit der Kosten mit laufender Projektdauer erheblich. Allerdings treten die meisten Kosten erst gegen Ende des Projektes auf. Daher ist eine verlässliche Planung zu Beginn von größter Relevanz. [^1] Dieser Konflikt wird auf der folgenden Grafik abgebildet.
 
@@ -33,7 +33,6 @@ Die gesamte Kostenplanung sollte sorgfältig auf Fehler überprüft werden, denn
 Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt anfallenden Kosten. Innerhalb des Projektmanagements ist sie aus vielen Gründune unersetzlich. Zur Planung wird das Projekts mittels eines Projektstrukturplans in kleine Arbeitsschritte geteilt. Außerdem wird bei anfallende Kosten zwischen Einzel- und Gesamtkosten unterschieden.
 
 # Siehe auch
-* [Projektstrukturplan](Projektstrukturplan.md)
 * [Aufwands_Kosten_Kontrolle](Aufwands_Kosten_Kontrolle.md)
 * [Forecasts](Forecasts.md)
 * [Kosten_Nutzen_Analyse](Kosten_Nutzen_Analyse.md)
@@ -41,6 +40,8 @@ Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt 
 * [Planning_Poker](Planning_Poker.md)
 * [Planungssicherheit](Planungssicherheit.md)
 * [Projektmanagement](Projektmanagement.md)
+* [Projektsteuerung](Projektsteuerung.md)
+* [Projektstrukturplan](Projektstrukturplan.md)
 * [Schaetzverfahren_Kosten](Schaetzverfahren_Kosten.md)
 
 # Weiterführende Litratur
