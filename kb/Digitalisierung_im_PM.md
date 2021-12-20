@@ -10,15 +10,15 @@ In Bezug auf das [Projektmanagement](Projektmanagement.md) bedeutet Digitalisier
 
 # Inhaltsverzeichnis 
 
-1. [Grundlegende Aspekte der Digitalisierung im Projektmanagement](#Grundlegende-Aspekte-der-Digitalisierung-im-Projektmanagement)      
-   1.1. [Datenmanagement](#Datenmanagement)                                                                                     
-   1.2. [Kommunikation](#Kommunikation)
-3. [Potenziale](#Potenziale)
-4. [Herausforderungen](#Herausforderungen)
-5. [Fazit](#Fazit)
-6. [Siehe auch](#Siehe-auch)
-7. [Weiterführende Literatur](#Weiterführende-Literatur)
-8. [Quellen](#Quellen)
+1. [Grundlegende Aspekte der Digitalisierung im Projektmanagement](#Grundlegende-Aspekte-der-Digitalisierung-im-Projektmanagement)  
+1.1. [Datenmanagement](#Datenmanagement)                                                                                                 
+1.2. [Kommunikation](#Kommunikation)
+2. [Potenziale](#Potenziale)
+3. [Herausforderungen](#Herausforderungen)
+4. [Fazit](#Fazit)
+5. [Siehe auch](#Siehe-auch)
+6. [Weiterführende Literatur](#Weiterführende-Literatur)
+7. [Quellen](#Quellen)
 
 # Grundlegende Aspekte der Digitalisierung im Projektmanagement
 
