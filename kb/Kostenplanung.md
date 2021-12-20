@@ -19,13 +19,20 @@ Da Bezugspreise in der Regel zu Projektstart vertraglich fixiert werden, sinkt d
 # Zerlegung des gesamten Projekts in Arbeitspakete
 Um eine genaue Schätzung zu gewährleisten, wird das gesamte Projekt in mehrere, kleinere Arbeitspakete aufgeteilt [^1]. Dafür wird vom gesamten Projekt ein [Projektstrukturplan](Projektstrukturplan.md) gebildet, der die Übersicht über die Kostenstruktur erheblich vereinfacht. Die Kosten der einzelnen Arbeitsschritte werden nach oben im Plan akkumuliert und bilden am Ende die Gesamtkosten des Projekts
 
-# Planungs- und Schätzverfahren
+# Planungsverfahren
 Zuerst erfolgt die sogenannte Einzelkostenplanung. Einzelkosten sind alle Kosten, die sich direkt einem Projekt/Produkt zurechnen lassen. Sie werden in drei Kategorien eingeteilt: Material,- Personal-, und Sondereinzelkosten. Je nach Typ wird geschätzt, wie viel von diesem Faktor verbraucht wird und welche Kosten eine Einheit erzeugt. Kumuliert ergibt dies die Summe der Einzelkosten für ein Projekt. Die Verbrauchsmengen können z.B. über Stücklisten, Vergangenheitswerte oder Konstruktionszeichnungen geplant werden. [^3]
 
 Im Anschluss steht die Gesamtkostenplanung. Hierbei werden die ermittelten Einzelkosten um die anfallenden Gemeinkosten ergänzt. Unter Gemeinkosten versteht man alle Kosten, die in einem Unternehmen anfallen, allerdings nicht einem konkreten Vorgang zugeordnet werden können. Man unterscheidet sie in Material-, Fertigungs-, Verwaltungs- und Vertriebsgemeinkosten. Diese werden über festgelegte Zuschlagssätze hinzugerechnet. [^3]
 
 Auch für schwierig zu schätzende Projektbestandteile sollte unbedingt eine Kostenplanung erstellt werden. Hierbei kann eine klare Kommunikation mit erfahrenen Fachexperten oft ein genaueres Bild über zu erwartende Aufwendungen geben. [^4] Außerdem sollte bei der Planung stets etwas Reserve für unvorhergesehene Kosten einberechnet werden. [^4]
 Die gesamte Kostenplanung sollte sorgfältig auf Fehler überprüft werden, denn leicht können kleine Ungenauigkeiten in Formeln, Umrechnungskosten oder Stundensätzen die Planung verfälschen. Darüber hinaus sollten getroffene Annahmen, auf denen die Planung basiert, eindeutig benannt werden. [^4]
+
+# Fazit
+Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt anfallenden Kosten. Innerhalb des Projektmanagements ist sie aus vielen Gründune unersetzlich. Zur Planung wird das Projekts mittels eines Projektstrukturplans in kleine Arbeitsschritte geteilt. Außerdem wird bei anfallende Kosten zwischen Einzel- und Gesamtkosten unterschieden.
+
+# Siehe auch
+[Projektstrukturplan](Projektstrukturplan.md)
+
 
 # Quellen
 
