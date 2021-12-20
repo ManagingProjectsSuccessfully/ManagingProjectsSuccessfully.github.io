@@ -50,7 +50,7 @@ das Team auf möglichst viele Risiken vorbereitet wird.
 
 <img src="Szenario_Technik/Vergleichstabelle.png" width="600"/>
 
-Abb.1[^3] Hier wird die Szenariotechnik anhand ausgewählter Kriterien mit ähnlichen Verfahren verglichen, sodass die Vorteile der Technik gut erkennbar sind. 
+Abb.3[^3]: Hier wird die Szenariotechnik anhand ausgewählter Kriterien mit ähnlichen Verfahren verglichen, sodass die Vorteile der Technik gut erkennbar sind. 
 Einen tieferen Einblick ins Portfoliomanagement finden Sie im zugehörigen [Artikel](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md). 
 In diesem Vergleich schneidet die Szenariotechnik am besten ab, auch wenn sie selbstverständlich Nachteile hat. Einerseits ist die Methode recht aufwendig, da verschiedenste Szenarien, sowie entsprechende Maßnahmen entworfen und formuliert werden müssen. Eine weitere Herausforderung ist es dabei, das Modell in der Gesamtheit so übersichtlich und verständlich wie möglich zu halten. Da aber jeder berücksichtigte Einflussfaktor die Anzahl der möglichen Szenarien vervielfacht[^2], ist es kaum möglich, eine ausführliche Analyse zu erstellen, ohne sehr viel Zeit und Arbeit zu investieren.
 Ein weiteres Problem bilden Extrem-Ereignisse, sogenannte "Wild Cards", wie Kriege oder eine globale Pandemie.[^2] Diese in die Planung miteinzubeziehen ist
