@@ -29,7 +29,7 @@ Bevor die Einarbeitung mit dem Programm startet, wäre es nach Herrn Schwab sinn
 * welche Abhängigkeiten existieren und
 * welche Ressourcen sind von Nöten?
 
-Diese Fragestellungen oder Überlegungen zur Strukturierung des Projekts, können in Projects unter:
+Diese Fragestellungen oder Überlegungen zur Strukturierung des Projektes, können in Projects unter:
 * Vorgänge, 
 * Dauer,
 * Vorgänger / Nachfolger sowie
