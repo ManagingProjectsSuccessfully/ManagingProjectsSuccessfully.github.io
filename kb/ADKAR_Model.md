@@ -77,13 +77,13 @@ Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Ver
 
 [^1]: [WAS IST ADKAR?](https://www.tiba-prosci.com/was-ist-adkar/)
 [^2]: https://www.marhelgroup.de/wp-content/uploads/2020/11/adkar-modell-768x248.jpg
-[^3]: [ADKAR MODEL EXPLAINED - PART 2 - Awareness](https://youtube.com/watch?v=PwwoyzVfsS8)
+[^3]: [ADKAR MODEL EXPLAINED -PART 2- Awareness](https://youtube.com/watch?v=PwwoyzVfsS8)
 [^4]: [Wie das ADKAR Change Management Modell funktioniert](https://mind-force.de/vertrieb/wie-das-adkar-change-management-modell-funktioniert/)
-[^5]: [ADKAR MODEL EXPLAINED - PART 3 - Desire](https://youtube.com/watch?v=LNT3Rxci-hU)
-[^6]: [ADKAR MODEL EXPLAINED - PART 5 - Ability](https://youtube.com/watch?v=XvIYdQ8Bp5k)
+[^5]: [ADKAR MODEL EXPLAINED -PART 3- Desire](https://youtube.com/watch?v=LNT3Rxci-hU)
+[^6]: [ADKAR MODEL EXPLAINED -PART 5- Ability](https://youtube.com/watch?v=XvIYdQ8Bp5k)
 [^7]: [Ability - The Prosci ADKAR Model](https://www.prosci.com/resources/articles/adkar-model-ability)
-[^8]: [ADKAR MODEL EXPLAINED - PART 6 - Reinforcement](https://youtube.com/watch?v=QQjyfN7XoQE)
-[^9]: [ADKAR MODEL EXPLAINED - PART 1 - How does it work?](https://youtube.com/watch?v=Bg5dy1pFdzg)
+[^8]: [ADKAR MODEL EXPLAINED -PART 6- Reinforcement](https://youtube.com/watch?v=QQjyfN7XoQE)
+[^9]: [ADKAR MODEL EXPLAINED -PART 1- How does it work?](https://youtube.com/watch?v=Bg5dy1pFdzg)
 [^10]: [ADKAR Model of Change Management](http://changemanagementinsight.com/adkar-model-of-change-management/)
 [^11]: [ADKAR Model of Change](https://expertprogrammanagement.com/2018/02/adkar-model-of-change/)
 [^12]: [ADKAR Change Management Model](https://www.youtube.com/watch?v=oMiI59NMO2Q)
