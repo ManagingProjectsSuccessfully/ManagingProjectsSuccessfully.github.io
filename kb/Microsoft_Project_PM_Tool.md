@@ -77,7 +77,7 @@ Der Projektstart ist zugleich ein Fixpunkt, an diesem sich alle neuen Vorgänge 
 
 ### 2. Vorgänge anlegen
 
-Bevor die „Vorgangsnamen“ eingetragen werden, sollten die Schritte für das Projektziel eindeutig definiert und Zuständigkeiten für die Vorgänge geklärt sein (Verwendung von einheitlichen Namenkonventionen).
+Bevor die „Vorgangsnamen“ eingetragen werden, sollten die Schritte für das Projektziel eindeutig definiert und Zuständigkeiten für die Vorgänge geklärt sein (Verwendung von einheitlichen Namenskonventionen).
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Vorgang.jpeg)
 
