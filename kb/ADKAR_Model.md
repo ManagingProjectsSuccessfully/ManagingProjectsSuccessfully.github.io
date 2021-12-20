@@ -15,7 +15,7 @@ ADKAR ist ein Akronym und steht für:
 
 ## Awareness
 Den ersten und wichtigsten Schritt stellt "Awareness" dar. Es soll Bewusstsein für die Notwendigkeit der Veränderung geschaffen werden.
-Nachfolgende Fragestellungen können dabei helfen diesen Schritt auszuführen:
+Nachfolgende Fragestellungen können dabei helfen, diesen Schritt auszuführen:
 
 - Welche Veränderung ist notwendig? [^3]
 - Warum ist die Veränderung notwendig? [^3]
@@ -25,13 +25,13 @@ Nachfolgende Fragestellungen können dabei helfen diesen Schritt auszuführen:
 
 ## Desire 
 
-Die zweite Phase stellt "Desire" dar. Hier muss sichergestellt werden, dass jeder den Wunsch hat die Veränderungen durchzuführen und zu unterstützen.  
+Die zweite Phase stellt "Desire" dar. Hier muss sichergestellt werden, dass jeder den Wunsch hat, die Veränderungen durchzuführen und zu unterstützen.  
 Da dieser Schritt sehr individuell ist, müssen anhand von Coachings und Gesprächen die persönliche Situation und Anreize des Mitarbeiters erkannt und angewandt werden. [^5]
 
 
 ## Knowledge
 
-Bei dieser Ebene muss sichergestellt werden, dass die Person das benötigte Wissen hat, die für die Implementierung der Veränderung notwendig ist. Dies kann beispielsweise mit Hilfe von Schulungen erreicht werden. [^4]
+Bei dieser Ebene muss sichergestellt werden, dass die Person das benötigte Wissen hat, die für die Implementierung der Veränderung notwendig ist. Dies kann beispielsweise mithilfe von Schulungen erreicht werden. [^4]
 
 
 ## Ability
@@ -41,20 +41,20 @@ Es muss sichergestellt werden, dass die Person die Fähigkeit besitzt, die berei
 
 ## Reinforcement
 
-Dieser letzte Schritt der Verstärkung wird meistens vergessen oder zu kurz ausgeführt. Damit Veränderungen jedoch langfristig bestehen können, ist es sehr wichtig diesen Schritt auszuüben, denn erst jetzt wird die Veränderung normalisiert. 
-Feedbackgespräche, aber auch das Loben der Mitarbeiter können helfen die Veränderung zu bestärken. 
+Dieser letzte Schritt der Verstärkung wird meistens vergessen oder zu kurz ausgeführt. Damit Veränderungen jedoch langfristig bestehen können, ist es sehr wichtig, diesen Schritt auszuüben, denn erst jetzt wird die Veränderung normalisiert. 
+Feedbackgespräche, aber auch das Loben der Mitarbeiter können helfen, die Veränderung zu bestärken. 
 Wenn dieser Schritt nicht oder zu wenig durchgeführt wird, kann es sein, dass die Veränderung nicht beständig ist und man daher wieder bei „Awareness“ anfangen muss. [^8]
 
 
 # 3) Wie funktioniert das ADKAR Modell?
 
-Es ist notwendig die oben genannten Schritte nacheinander mit jedem einzelnen Individuum durchzuführen. Da die Stufen aufeinander aufbauen, würde ein Überspringen oder mangelhaftes Bearbeiten nicht zu dem gewünschten Ergebnis führen, weshalb man somit gezwungen wäre nochmal von vorne anzufangen. 
+Es ist notwendig, die oben genannten Schritte nacheinander mit jedem einzelnen Individuum durchzuführen. Da die Stufen aufeinander aufbauen, würde ein Überspringen oder mangelhaftes Bearbeiten nicht zu dem gewünschten Ergebnis führen, weshalb man somit gezwungen wäre, noch einmal von vorne anzufangen. 
 
 Neben den oben genannten Schritten ist auch eine regelmäßige Bewertung notwendig. Die Bewertung erfolgt auf einer Skala von eins bis fünf, wobei eins schlecht und fünf das Optimum darstellt. Erst nachdem man einen der fünf Meilenstein erfolgreich abgeschlossen hat (ab Punkt drei) darf man zu dem nächsten Schritt übergehen. [^4] [^9]
 
 # 4) Anwendungsbereiche
 
-Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Veränderung des Unternehmens erfolgen kann. Aus diesem Grund findet dieses Modell bei persönlichen, als auch bei größeren Gruppierungen wie beispielsweise Organisationen Anwendung. [^4] [^9]
+Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Veränderung des Unternehmens erfolgen kann. Aus diesem Grund findet dieses Modell bei persönlichen als auch bei größeren Gruppierungen wie beispielsweise Organisationen Anwendung. [^4] [^9]
 
 
 # 5) Vor- und Nachteile
