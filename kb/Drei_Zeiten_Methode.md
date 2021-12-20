@@ -41,7 +41,7 @@ Die Dreipunkt-Schätzung gleicht Schätzfehler aus und liefert so realistischere
 
 ### Einsatzmöglichkeiten
 
-Die Schätzmethode eignet sich in frühen Projektphasen besonders gut, wenn der Leistungsumfang noch nicht eingegrenzt worden ist. Angewendet werden kann sie des weiteren für alle [Aufwands- & Kostenkontrollen](Aufwands_Kosten_Kontrolle.md). Außerdem ist sie nicht nur auf den Einsatz im [Projektmanagement](Projektmanagement.md) beschränkt.[^2]
+Die Schätzmethode eignet sich in frühen Projektphasen besonders gut, wenn der Leistungsumfang noch nicht eingegrenzt worden ist. Angewendet werden kann sie des weiteren für alle [Aufwands- & Kostenkontrollen](Aufwands_Kosten_Kontrolle.md). Dadurch ist die Methode nicht nur auf den Einsatz im [Projektmanagement](Projektmanagement.md) beschränkt.[^2] Zu den benötigten Hilfsmitteln gehört unter anderem ein Textverarbeitungsprogramm, mit welchem die Ergebnisse dokumentiert werden können und außerdem eine Tabellenkalkulation, zur Berechnung der verschiedenen Formeln.
 
 ### Vorteile:
 * Internationale Anerkennung in der [Projektplanung](Projektplanung.md)
