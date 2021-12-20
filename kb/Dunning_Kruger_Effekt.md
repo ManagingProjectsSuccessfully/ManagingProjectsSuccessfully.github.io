@@ -28,7 +28,7 @@ Es lässt sich auch in der heutigen Zeit ein Zusammenhang mit dem Dunning-Kruger
 ## Kulturelle Unterschiede 
 Die Studien wurden vor allem an Menschen aus Nordamerika durchgeführt. Eine spätere Studie aus dem Jahr 2001 offenbarte, dass sich beispielsweise Japaner aufgrund von kulturellen Unterschieden anders verhalten als Nordamerikaner. Japaner unterschätzen häufiger ihre eigenen Fähigkeiten und sehen Misserfolge als Anlass, sich zu verbessern.[^8] 
 # Probleme im Projektmanagement
-Sollten [Projektleiter](Projektleiter.md) oder [Mitarbeiter](Projektmitarbeiter.md) sich und ihre Leistung selbst überschätzen, stellt das für Unternehmen meist ein großes Problem dar. Fehlende Leistungsfähigkeit und schlechte Stimmung im gesamten Team ist fast schon vorprogrammiert. Deshalb sollte bereits bei der Einstellung von Mitarbeitern für ein [Projekt](Projekt.md) auf entsprechende Verhaltensweisen geachtet werden, um die [Entwicklungen im Projektmanagement](Aktuelle_Entwicklungen_im_PM.md) nicht zu gefährden. Wenn sich im Projektteam dennoch sogenannte Besserwisser befinden, sollte man ihnen in einem offenen und ehrlichen Dialog [kommunizieren](Kommunikation_Projektbeteiligte.md), dass das Eingestehen von Fehlern kein Zeichen von Schwäche ist, sondern ein Zeichen von Stärke, denn Fehleinschätzungen sind bis zu einem gewissen Maße normal. Schlussendlich ist es immer besser Leistung zu bringen, als nur über diese zu reden.[^9]
+Sollten [Projektleiter](Projektleiter.md) oder [Mitarbeiter](Projektmitarbeiter.md) sich und ihre Leistung selbst überschätzen, stellt das für Unternehmen meist ein großes Problem dar. Fehlende Leistungsfähigkeit und schlechte Stimmung im gesamten Team ist fast schon vorprogrammiert. Deshalb sollte bereits bei der Einstellung von Mitarbeitern für ein [Projekt](Projekt.md) auf entsprechende Verhaltensweisen geachtet werden, um die [Entwicklungen im Projektmanagement](Aktuelle_Entwicklungen_im_PM.md) nicht zu gefährden. Wenn sich im [Projektteam](Projektteam_Kultur.md) dennoch sogenannte Besserwisser befinden, sollte man ihnen in einem offenen und ehrlichen Dialog [kommunizieren](Kommunikation_Projektbeteiligte.md), dass das Eingestehen von Fehlern kein Zeichen von Schwäche ist, sondern ein Zeichen von Stärke, denn Fehleinschätzungen sind bis zu einem gewissen Maße normal. Schlussendlich ist es immer besser Leistung zu bringen, als nur über diese zu reden.[^9]
 
 
 # Siehe auch
@@ -43,6 +43,7 @@ Sollten [Projektleiter](Projektleiter.md) oder [Mitarbeiter](Projektmitarbeiter.
 * [Projektmitarbeiter](Projektmitarbeiter.md)
 * [Projekt](Projekt.md)
 * [Aktuelle Entwicklungen im Projektmanagement](Aktuelle_Entwicklungen_im_PM.md)
+* [Projektteam Kultur](Projektteam_Kultur.md)
 * [Kommunikation Projektbeteiligte](Kommunikation_Projektbeteiligte.md)
 # Quellen
 [^1]: [Dunning-Kruger-Effekt: Warum sich Halbwissende für besonders klug halten | National Geographic](https://www.nationalgeographic.de/wissenschaft/2020/06/dunning-kruger-effekt-warum-sich-halbwissende-fuer-besonders-klug-halten)
