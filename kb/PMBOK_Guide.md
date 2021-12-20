@@ -64,7 +64,7 @@ Die 12 Prinzipien sind nachfolgend mit ihren Bezeichnungen aufgelistet. Sie sind
 ## Project Performance Domains
 
 Alle Aktivitäten, die zusammenhängen und zum Erfolg eines [Projekts](Projekt.md) beitragen, werden zu einem Project Performance Domain gezählt. Aufgrund der gegenseitigen Abhängigkeit stellen die acht Domains ein integriertes System dar und sind durch einen simultanen Ablauf gekennzeichnet. Der Zusammenhang der Bereiche kann je nach [Projekt](Projekt.md) Unterschiede aufweisen, ist jedoch immer vorhanden. Eine isolierte Betrachtung der Domains ist deshalb nicht vorgesehen. Zum Beispiel beschäftigen sich [Projektleiter:innen](Projektleiter.md) von [Projektstart](Projektstart.md) bis zum [Projektabschluss](Projektabschluss.md) mit Stakeholder:innen, dem Projektteam, [Produktlebenszyklus](Projekt_Lebenszyklus.md) usw. Die genannten Bereiche sind immer auf eine bestimmte Art und Weise miteinander verbunden und können sich überschneiden. Eine effektive Umsetzung der Leistungsbereiche führt zu einer Vielzahl von Vorteilen. Beispiele sind ein leistungsstarkes Team, geordneter und koordinierter Projektablauf, die angemessene Kommunikation mit Stakeholder:innnen oder ein besseres Verständnis für die wechselseitige Abhängigkeit verschiedener Variablen.
-Abhängig von der Organisation, des Projektteams oder der Ziele setzen sich für die Bereiche, die nachfolgend aufgelistet sind, spezielle Aufgaben und Funktionen zusammen. Die Bereiche sind gleichgewichtet und haben keine besondere Reihenfolge [^9].
+Abhängig von der Organisation, dem Projektteam oder der Ziele setzen sich für die Bereiche, die nachfolgend aufgelistet sind, spezielle Aufgaben und Funktionen zusammen. Die Bereiche sind gleichgewichtet und haben keine besondere Reihenfolge [^9].
 
 *	**Stakeholder**
 *	**Team**
@@ -76,7 +76,7 @@ Abhängig von der Organisation, des Projektteams oder der Ziele setzen sich für
 
 ## Tailoring 
 
-Unter dem Begriff Tailoring versteht man die Abstimmung des Ansatzes und der Prozesse an das jeweilige Projektumfeld. Aufgrund der individuellen Zusammensetzung jedes Projekts sind keine einheitlichen Ansätze möglich. Tailoring passt daher unter Berücksichtigung des [Projektlebenszyklus](Projekt_Lebenszyklus.md), der erwünschten Ergebnisse und der beteiligten Mitarbeiter:innen den Ansatz und die Prozesse an das anstehende Projekt an. Die *Project Management Principles*, die Werte und Kultur des Unternehmens bilden dabei die Basis für den Tailoring- Vorgang. Wenn zum Beispiel wichtige Unternehmenswerte das Umweltbewusstsein und die [Nachhaltigkeit](Nachhaltigkeit_im_PM.md) sind, werden Aktivitäten und Aufgaben ausgewählt, die diese Anforderung erfüllen. Dies würde z.B. auch mit dem Grundsatz *Quality* im Einklang stehen. Damit das Tailoring gelingt, ist es wichtig, dass der Kontext, die Ziele und das Umfeld des Projekts wirklich verstanden wurden. Durch Tailoring kann eine Organisation direkt oder indirekt positiv beeinflusst werden. Beispiele für die Vorteile sind mehr Engagement von Teammitgliedern, die am Tailoing mitgewirkt haben, eine stärkere Kundenorientierung und ein ressourcenschonender Umgang. Unternehmensrichtlinien oder Verträge können das Tailoring einschränken oder verbieten, wenn bestimmte Ansätze vorgeschrieben werden und eingehalten werden müssen. Tailoring liegt auch dann vor, wenn der Begriff nicht verwendet wird, aber trotzdem Projektfaktoren und Aktivitäten bewusst ausgewählt und angepasst werden [^10].
+Unter dem Begriff Tailoring versteht man die Abstimmung des Ansatzes und der Prozesse an das jeweilige Projekt und sein Umfeld. Aufgrund der individuellen Zusammensetzung jedes Projekts sind keine einheitlichen Ansätze möglich. Tailoring passt daher unter Berücksichtigung des [Projektlebenszyklus](Projekt_Lebenszyklus.md), der erwünschten Ergebnisse und der beteiligten Mitarbeiter:innen den Ansatz und die Prozesse an das anstehende Projekt an. Die *Project Management Principles*, die Werte und Kultur des Unternehmens bilden dabei die Basis für den Tailoring- Vorgang. Wenn zum Beispiel die Kundenzufriedenheit ein wichtiger Unternehmenswert ist, werden Aktivitäten und Aufgaben so ausgewählt, dass diese Anforderung erfüllt wird. Dies würde z.B. auch mit dem Grundsatz  *Stakeholder* im Einklang stehen. Damit das Tailoring gelingt, ist es wichtig, dass der Kontext, die Ziele und das Umfeld des Projekts wirklich verstanden wurden. Durch Tailoring kann eine Organisation direkt oder indirekt positiv beeinflusst werden. Beispiele für die Vorteile sind mehr Engagement von Teammitgliedern, die am Tailoing mitgewirkt haben, eine stärkere Kundenorientierung und ein ressourcenschonender Umgang. Unternehmensrichtlinien oder Verträge können das Tailoring einschränken oder verbieten, wenn bestimmte Ansätze vorgeschrieben werden und eingehalten werden müssen. Tailoring liegt auch dann vor, wenn der Begriff nicht verwendet wird, aber trotzdem Projektfaktoren und Aktivitäten bewusst ausgewählt und angepasst werden [^10].
 
 Folgende Aspekte können angepasst werden:
 
@@ -98,7 +98,7 @@ Folgende Aspekte können angepasst werden:
 * [Projektlebenszyklus](Projekt_Lebenszyklus.md)
 * [Projektstart](Projektstart.md)
 * [Projektabschluss](Projektabschluss.md)
-* [Nachhaltigkeit im PM](Nachhaltigkeit_im_PM.md)
+
 
 # Weiterführende Literatur
 
