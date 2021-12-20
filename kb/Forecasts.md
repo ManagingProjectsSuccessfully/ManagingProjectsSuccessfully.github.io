@@ -44,13 +44,13 @@ Die [Earned Value Analyse](Earned_Value_Analyse.md) stellt eine Variante des lau
 Beim effektbasierten Forecast liegt der Fokus auf Effekten und Maßnahmen, die einen maßgeblichen Einfluss auf das Projekt ausüben. Hier wird zwischen wenig beeinflussbaren Effekten wie zum Beispiel dem Wegfall von Patenten und beeinflussbaren Maßnahmen wie zum Beispiel der Kürzung des Werbeetats unterschieden. Es werden insbesondere Effekte berücksichtigt, die starke Abweichungen vom Basis-Forecast zur Folge haben. Dadurch werden vor allem potenziell große Auswirkungen auf den Projektverlauf in den Fokus gestellt sowie diese transparent und berichtsfähig gemacht[^2]. 
 
  ![Abbildung-Effektbasiert](Forecasts/EffektbasierterForecast.jpg) 
- Abbildung Effektbasierte Methode 
+ ## Abbildung Effektbasierte Methode[^5] 
 
 ## 4. 3 Werttreiberbasierter Forecast 
 Der werttreiberbasierte Ansatz setzt auf eine Prognose anhand weniger Kennzahlen. Das Hauptaugenmerk liegt bei dieser Methode auf zuvor festgelegten relevanten Geschäftstreibern wie beispielsweise Menge, Preis, Personalkosten. Auf Basis der Vorhersage dieser Werttreiber errechnet sich damit der Forecast für die relevanten Kennzahlen des Projektes[^2]. 
  
  ![Abbildung-Werttreiber](Forecasts/WerttreiberbasierterForecast.jpg) 
- Abbildung werttreiberbasierte Methode
+ ## Abbildung werttreiberbasierte Methode[^6]
 
 
 # Siehe auch
