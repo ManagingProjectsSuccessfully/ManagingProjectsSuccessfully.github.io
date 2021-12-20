@@ -59,7 +59,7 @@ Wie in den obigen Absätzen dargestellt verbindet Scrumban die beiden agilen Fra
 
 # Quellen
 
-[^1]: [Kanban Guide](https://kanbantool.com/de/kanban-guide)
+[^1]: [Kanban Guide] https://kanbantool.com/de/kanban-guide
 [^2]: [Scrumban Wiki](https://en.wikipedia.org/wiki/Scrumban#Tooling)
 [^3]: [Agile Ressourcen](https://teamhood.com/de/agile-ressourcen/was-ist-scrumban/)
 [^4]: [Sprints Wiki](https://de.wikipedia.org/wiki/Scrum#Sprint)
