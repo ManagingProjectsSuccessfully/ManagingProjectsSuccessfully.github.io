@@ -10,7 +10,7 @@ Die Global Project Management Surveys (GMS) dienen dazu, von Firmen bereits durc
 
 
 # Historische Entwicklung und aktueller Stand zu den GMS
-Von der [Deutschen Gesellschaft für Projektmanagement e.V.](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/GPM_Institution.md) (GPM) wurde erst und auch einmalig eine Studie mit dem Fokus auf Projektmanagement innerhalb von Unternehmen im Jahr 2010 durchgeführt[^1].
+Von der [Deutschen Gesellschaft für Projektmanagement e.V.](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/GPM_Institution.md) (GPM) wurde erst und auch einmalig eine Studie mit dem Fokus auf [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) innerhalb von Unternehmen im Jahr 2010 durchgeführt[^1].
 Da es sich hier um einen veraltetet und nicht jährlich aktualisierten Report handelt, wird dieser im weiterem nicht betrachtet und analysiert. Jedoch lässt sich der Report in
 Hinblick auf die Entwicklung des Projektmanagements innerhalb der letzten 10 Jahre als Vergleich zu aktuellen Reports heranziehen.
 
@@ -97,6 +97,7 @@ Verlinkungen zu Angrenzenden Themen kann erst durchgeführt werden, wenn alle an
 
 * [aktuelle Entwicklungen im PM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md) 
 * [Deutschen Gesellschaft für Projektmanagement e.V.](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/GPM_Institution.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
 * [Projekt Managment Institute](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMI_Institution.md)
 * 
 # Weiterführende Literatur
