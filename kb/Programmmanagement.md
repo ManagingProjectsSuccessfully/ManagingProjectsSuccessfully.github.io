@@ -2,103 +2,99 @@
 title: Programmmanagement
 tags: agil klassisch
 author: si18k1
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Programmmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+[Projektmanagement](Projektmanagement.md). [Projektportfoliomanagement](Projektportfoliomanagement.md). [Programmmanagement](Programmmanagement.md). All diese Begriffe sind eng miteinander verbunden und stellen die wesentlichen Kernbereiche des Multiprojektmanagements dar. Meist werden diese sogar kaum unterschieden. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Im Folgenden soll nun aber insbesondere auf das Programmmanagement (PM) eingegangen werden und dabei geklärt werden, was dieses eigentlich bedeutet, wie es sich von verwandten Begriffen abgrenzen lässt und welche Eigenschaften es besitzt. Darüber hinaus werden auch die Aufgaben eines Programmmanagers sowie der allgemeinen Nutzen betrachtet.
 
 
-# Aspekt 1
+# 1. Begriffsklärung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Der Begriff des Programmmanagements besteht insgesamt aus zwei Wörtern. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Dazu gehört zu einem das Programm. Dieses ist definiert als „eine Menge zusammenhängender Projekte und organisatorischer Veränderungsprozesse, die mit dem Ziel aufgesetzt wurden, eine strategische Zielsetzung zu erreichen und einen erwarteten Nutzen für die Organisation zu erreichen.“[^1] Kurz gesagt: ein Programm verfolgt immer ein übergeordnetes Ziel, bei dem die einzelnen Projekte unterstützen sollen.[^2]
 
-![Beispielabbildung](Programmmanagement/test-file.jpg)
+Zum anderen ist aber auch das Management Teil des Begriffs. Dieses beschreibt im Wesentlichen führende Aufgaben.[^3] Darüber hinaus umfasst es auch die Planung, Steuerung und Kontrolle.[^1]
 
-*lustiges Testbild*
+Fasst man die beiden Begriffsdefinitionen nun zusammen, so beschreibt das Programmmanagement „die zeitlich befristete Aufgabe, ein Programm zu planen, zu leiten und dessen Controlling durchzuführen für eine deﬁnierte Menge inhaltlich zusammengehöriger Projekte.“[^4]
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# 2. Eigenschaften
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Programme sind grundlegend Managementaufgaben auf Zeit. Auch besteht meist eine entsprechende Komplexität und ein gewisser Umfang.[^1] Die Projekte innerhalb des Programms sind oftmals miteinander verbunden und hängen dabei voneinander ab. Im Vordergrund steht das Erreichen des strategischen Ziels durch die Koordination von Maßnahmen und Projekten. Die Bedeutung für das Unternehmen ist meist von strategischer Natur.[^4]
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# 3. Abgrenzung
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Das PM besitzt meist zyklische oder sich wiederholende Vorgänge. 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Im Vergleich dazu fokussiert sich das Projektmanagement auf ein einzelnes Projekt.[^4] 
 
-### Ebene-3-Überschrift
+Projektportfolio bezeichnet dagegen die Zusammenfassung aller geplanten, genehmigten und laufenden Projekte und Programme eines Unternehmens.[^1]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+# 4. Aufgaben des Programmmanagers
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Innerhalb des Programmmanagements gibt es verschiedene Rollen und Aufgaben. In diesem Abschnitt soll aber explizit auf die Aufgaben des Programmmanagers eingegangen werden.
+Unter anderem hat der Programmmanager die Entscheidungsbefugnis zwischen den Projekten die Start- und Endtermine, das Budget sowie die Ressourcen zu verschieben.[^4] 
+
+Weitere wichtige Verantwortungsbereiche eines Programmmanagers sind:
+
+-	das Definieren und Erreichen der Programmziele
+-	eine aggregierte Risikobetrachtung
+-	sowie die Kommunikation und Berichterstattung des Programmfortschritts.[^5]
+
+
+# 5. Nutzen
+
+Der wesentliche Nutzen des Programmmanagements ist die effektivere und effizientere Planung und Steuerung aller Projekte eines Programms. Der Fokus liegt vor allem auf der Optimierung der Ressourcenverfügbarkeit. Des Weiteren bringt der meist vollständige Überblick über das Gesamtprojekt weitere Vorteile mit sich: zum einen können die Risiken schneller beurteilt und minimiert werden. Zum anderen wird aber auch das Aufstellen von Zeitplänen enorm vereinfacht.[^6]
+
+All dies ist im Folgenden auch noch einmal grafisch dargestellt:
+
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/92787078/142223425-9181f238-a35a-4bff-81e0-d61c49513f95.png">
+
+
+# 6. Fazit
+
+Insgesamt lässt sich also festhalten, dass es keine einheitliche Definition des Programmmanagements gibt und diese dadurch stark variiert. 
+
+Dennoch steht eins fest: das PM beschäftigt sich mit der Planung, Kontrolle und Steuerung von mehreren, miteinander in Beziehung stehenden Projekten mit dem Zweck, bestimmte Unternehmensziele zu erreichen. Dabei eignet sich das PM laut Dr. Georg Angermeier vor allem als Konzept für das Management von großen, komplexen Vorhaben.[^7]
+
+Eine striktere Abgrenzung von weiteren Managementbegriffen erscheint dennoch sinnvoll. Hierfür bietet es sich an, sich ebenfalls mit den verlinkten Themen zu beschäftigen. 
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Programmmanagement.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projektportfoliomanagement](Projektportfoliomanagement.md)
+* [Projectmanagement](Who_is_Who_Projectmanagement.md)
+* [Projekt](Projekt.md)
+
+# Abkürzungsverzeichnis
+
+* PM: Programmmanagement
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+## Youtube:
+* [The difference between a Program Manager and a Project Manager](https://www.youtube.com/watch?v=XyT1wzkfgok)
+* [Projektmanagement, Programmmanagement, Multiprojektmanagement - eine Abgrenzung](https://www.youtube.com/watch?v=RxSzDCmPPas)
+
+
+## Internetquellen:
+* [Der ultimative Guide zum Programmmanagement](https://asana.com/de/resources/what-is-program-management)
+* [Projektmanagement: Definitionen, Einführungen und Vorlagen](http://projektmanagement-definitionen.de/glossar/programm-management/)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Seidl, J., Multiprojektmanagement: Übergreifende Steuerung von Mehrprojektsituationen durch Projektportfolio- und Programmmanagement, 2011 (S.7, S.11, S.7, S.6)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-16723-2.pdf)
+[^2]: [Definition des Programmmanagements](https://erfolgreich-projekte-leiten.de/projekt-programm-multiprojekt-projektportfoliomanagement/)
+[^3]: [Definition des Managements laut Duden](https://www.duden.de/rechtschreibung/Management)
+[^4]: [Görtz, B., Programm-Management: Großprojekte planen, steuern und kontrollieren, 2013 (S.12, S.12f., S.2, S.12)](https://docplayer.org/75365903-Programm-management-grossprojekte-planen-steuern-und-kontrollieren-bearbeitet-von-burkhard-goertz-silke-schoenert-kim-norman-thiebus.html)
+[^5]: [Aufgaben des Programmmanagers](https://www.planview.com/de/resources/guide/ppm-solution-guide-beginners/project-management-vs-program-management-vs-portfolio-management/)
+[^6]: [Gründe für das Programmmanagement](https://www.can-do.de/blog/it-program-management-office-richtig-strukturieren)
+[^7]: [Expertenmeinung zum Programmmanagement](https://www.projektmagazin.de/glossarterm/programm-management)
 
