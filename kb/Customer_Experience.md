@@ -36,27 +36,35 @@ Es reicht nicht aus, einen Bereich besonders gut zu gestalten und einen anderen 
 
 
 # Wie wird CX von erfolgreichen Unternehmen umgesetzt?
-Die Unternehmen verfolgen mehrere Methoden, um Customer_Experience zu verwirklichen. Das Marketing besteht auf drei unverzichtbaren Bestandteilen, und zwar:  Einfachheit, Effektivität und Empathie beziehungsweise Emotion, diese Komponenten machen die Customer_Experience im Wesentlichen aus.
+Die Unternehmen verfolgen mehrere Methoden, um Customer_Experience besser zu gestalten. 
+Das Marketing besteht auf drei unverzichtbaren Bestandteilen:  
+* Einfachheit
+* Effektivität
+* Emotion 
 
-Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme direkt vom Unternehmen gelöst werden und sie lieber ohne Zeitverzögerung zu den Produkten bzw. Dienstleistung für den Kunden zu leiten. Nachdem das Unternehmen diesen Grundlagen erfüllt, ist es dann möglich den Kunden mit extra zusätzlichen Leistungen z.B. Sonderrabatte oder andere Vergünstigung zu begeistern und dementsprechend sich an das Unternehmen stärkere binden.
+Das wichtige Prinzip von Customer_Experience ist, dass Probleme und Reklamationen unverzüglich vom Unternehmen gelöst werden. Nachdem das Unternehmen diese Grundsätze umgesetzt hat, kann das Unternehmen Kunden mit zusätzlichen Services wie Sonderrabatten oder anderen Vorteilen motivieren. damit sich die Kunden an das Unternehmen stärkere binden.
 
-„Die Customer Experience umfasst jede einzelne Interaktion eines Kunden mit einem Unternehmen, in jeder einzelnen Phase der Customer Journey, darunter das Marketingmaterial, das er sieht, ehe er Kunde wird, das Verkaufserlebnis, die Qualität des Produkts und der Kundenservice im Anschluss an den Kauf.“, sagt Dave Dyson, Senior Customer Service Evangelist, Zendesk
+„Wir behandeln Kunden wie Gäste, die zur Party eingeladen sind. Wir sind der Gastgeber. Unsere Aufgabe ist es, jeden wichtigen Aspekt der Customer_Experience jeden Tag zu verbessern.“ Jeff Bezos (gründer des Onlineversandhändlers Amazon).[^6]
 
 
 ![Beispielabbildung 1](Customer_Experience/Customer_Experience.PNG)
+* Customer Experience [^7]
 
 
 
 
 # Welche Hauptziele sind bei Customer_Experience zu erlangen:
-* Die Wünsche und Erwartungen von Kunden sind im Mittelpunkt.
-* Schnelle und einfache Problemlösungen spielen eine große Rolle bei den Kunden.
-* Die Kundenerlebnisse müssen vom Unternehmen optimiert sein.
-* Feedback muss effizient ausgewertet und bearbeitet werden. 
+1. eine höhere Kundenzufriedenheit erzielen [^8]
+2. Schnelle und effiktive Problemlösungen
+3. Vertrauensaufbau [^9]
+4. mehr Neukunden gewinnen
+5. Differenzierung zum Wettbewerb hervorheben
+6. Feedback von Kunden müssen effizient vom Unternehmen ausgewertet und bearbeitet werden. 
+
 
 # Langfristige Ziele?
 * Langfristig entsteht den Effekt der Markentreue und Loyalität. Das stehen die Unternehmen vor die Probleme, durch Kommunikation mit den Kunden oder auch potenziellen Käufern deren Erwartungen und Wünsche in Erfahrung zu bringen.
-* Die künstliche Intelligenz wird Customer Experience Management in die Zukunft durchführen, mit der großen Hilfe das maschinelle Lernen wird es erleichtert. Information über die Kunden werden gesammelt, somit lernt Kl mit zunehmenden Angaben, wie sie die CX für jeden Kunden verbessern kann.[^2]
+* Die künstliche Intelligenz wird Customer Experience Management in die Zukunft durchführen, mit der großen Hilfe das maschinelle Lernen wird es erleichtert. Information über die Kunden werden gesammelt, somit lernt Kl mit zunehmenden Angaben, wie sie die CX für jeden Kunden verbessern kann.[^10]
 
 
 # Geschichte:
@@ -73,13 +81,12 @@ Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme dire
 # Quellen
 
 [^1]: https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
-
 [^2]: https://blog.usu.com/de-de/die-perfekte-customer-experience-schaffen-2020
-
 [^3]: https://blog.usu.com/de-de/die-perfekte-customer-experience-schaffen-2020
 [^4]: https://link.springer.com/chapter/10.1007/978-3-658-27331-6_2
 [^5]: https://link.springer.com/chapter/10.1007/978-3-658-27331-6_2
-*  https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
-*  https://www.sem-deutschland.de/online-marketing-glossar/customer-experience/#Was_bedeutet_Customer_Experience
-*  https://job-wizards.com/de/customer-experience-management-wie-kundinnen-und-kunden-gluecklich-werden-und-bleiben/
-
+[^6]: https://www.qualtrics.com/de/erlebnismanagement/kunden/customer-experience/
+[^7]: https://www.superoffice.com/blog/customer-experience-statistics/
+[^8]: https://www.bigdata-insider.de/was-ist-customer-experience-a-897275/
+[^9]: https://easy-feedback.de/blog/customer-experience-strategie/
+[^10]: https://www.netigate.net/de/articles/kundenzufriedenheit/alles-was-sie-ueber-customer-experience-cx-wissen-muessen/#h-die-vorteile-von-customer-experience-cx
