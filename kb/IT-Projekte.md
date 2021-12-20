@@ -20,7 +20,7 @@ Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Roll
 ### PRINCE2
 "PRINCE2" (Projects in Controlled Environments) steht für Projekte unter Kontrolle, das heißt, dass das Vorgehen vom Start bis zum Ende eines Projektes vordefiniert ist. Wie etwas hergestellt wird, ist nicht definiert, sondern von wem und wann etwas erzeugt werden soll. Durch diese Trennung zwischen der Herstellung von Produkten und dem Management von Projekten unterscheidet sich Prince2 von anderen Methoden und eignet sich zugleich sehr gut für das Zusammenspiel mit Methoden, die sich um die Produktherstellung kümmern. Prince2 zählt zu den meistgenutzten Methoden weltweit[^5]. 
 
-Siehe auch Siehe auch: [PRINCE2.md](https://github.com/patrick203494/ManagingProjectsSuccessfully.github.io/blob/main/kb/PRINCE2.md)
+Siehe auch: [PRINCE2.md](https://github.com/patrick203494/ManagingProjectsSuccessfully.github.io/blob/main/kb/PRINCE2.md)
 #### Die Elemente von Prince2
 | 7 Grundprinzipien                                    | 7 Themen             | 7 Prozesse                         | 
 | ---------------------------------------------------- | -------------------  |----------------------------------  |
@@ -61,6 +61,14 @@ Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das v
 [Microsoft_Project_PM_Tool](https://github.com/AbderrahmaneBennani/ManagingProjectsSuccessfully.github.io/blob/main/kb/Microsoft_Project_PM_Tool.md)
 
 [Java Projektmanagement Tools](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Java_PM_Tool.md)
+
+# Weiterführende Literatur
+Buch: [Management von IT-Projekten](https://link.springer.com/book/10.1007/978-3-642-16127-8?token=HOLIDAY21&utm_campaign=3_fjp8312_springerlink_shopping_katte_HOLIDAY21&gclid=Cj0KCQiA8ICOBhDmARIsAEGI6o297cfmB1-MxoB5CFZAayy3ucCimNMFd0dHYumlu9qboeroznfpBhIaAoTaEALw_wcB)
+
+Buch: [IT-Projektmanagement
+Was wirklich funktioniert – und was nicht](https://www.rheinwerk-verlag.de/it-projektmanagement-was-wirklich-funktioniert-und-was-nicht/)
+
+Video: [Wie werden IT-Projekte erfolgreich? von Alexander Bernhardt](https://www.youtube.com/watch?v=M6-r5FXX0Ow)
 
 # Quellen 
 
