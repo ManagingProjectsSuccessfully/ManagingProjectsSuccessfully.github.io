@@ -64,14 +64,14 @@ Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Strukt
 
 # Fazit
 
-Das Voranschreiten der Digitalisierung hat viele Veränderungen für das Projektmanagement und alle Beteiligten gebracht. Einige dieser Neuerungen werden auch noch lange Bestandteil bleiben. Um aber auch in der Zukunft weiterhin erfolgreich zu sein, wird sich das Projektmanagement weiterentwickeln und an neue Trends anpassen müssen. Themen, die dabei sicherlich eine große Rolle spielen werden, sind u.a. [Künstliche Intelligenz](KI_im_PM.md), [maschinelles Lernen](Machine_Learning_im_Projektmanagement.md) und [Virtual Reality](Virtual_Reality.md), welche in vielen Unternehmen immer mehr zum Einsatz kommen.
+Das Voranschreiten der Digitalisierung hat viele Veränderungen für das Projektmanagement und alle Beteiligten gebracht. Um aber auch in der Zukunft weiterhin erfolgreich zu sein, wird sich das Projektmanagement weiterentwickeln und an neue Trends anpassen müssen. Ein Thema, welches dabei sicherlich eine große Rolle spielen wird, ist die [Künstliche Intelligenz (KI)](KI_im_PM.md) und das damit verbundene [maschinelle Lernen](Machine_Learning_im_Projektmanagement.md).[^9] Von vielen Unternehmen wird die KI nämlich als die wichtigste Zukunftstechonologie gesehen und wird, vor allem in größeren Unternehmen, schon eingesetzt.[^8]
 
 # Siehe auch
 
 * [Digitale Kommunikation](Digitale_Kommunikation.md) 
+* [KI im Projektmanagement](KI_im_PM.md)
 * [Projektmanagement 4.0](Projektmanagement_4_0.md)
 * [Projektmanagementsoftware](Projektmanagementsoftware.md)
-* [KI im Projektmanagement](KI_im_PM.md)
 
 # Weiterführende Literatur
 
@@ -87,4 +87,5 @@ Das Voranschreiten der Digitalisierung hat viele Veränderungen für das Projekt
 [^5]: https://executiveacademy.at/de/news/detail/die-kunst-des-digitalen-projektmanagements
 [^6]: https://smallbiztrends.com/2021/06/digital-transformation-project-management.html
 [^7]: https://www.arksolutions.de/themen/digitalisierung-im-projektmanagement/
-[^8]: https://www.dihk.de/de/themen-und-positionen/wirtschaft-digital/digitalisierung/dihk-umfrage-wie-digital-ist-die-deutsche-wirtschaft--35408
+[^8]: https://www.dihk.de/resource/blob/35410/e090fdfd44f3ced7d374ac3e17ae2599/ihk-digitalisierungsumfrage-2021-data.pdf
+[^9]: https://www.factro.de/blog/digitales-projektmanagement/#ausblick
