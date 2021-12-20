@@ -56,6 +56,17 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 | Main-Donau-Kanal    | 400 Mio       | 2,4 Mrd      |
 | Elbphilharmonie    | 77 Mio       | 866 Mio      |
 
+![Beispielabbildung](Oeffentliche_Projekte/Titelbild_Elbphilharmonie_Laeiszhalle-min-786x442.jpg)
+
+
+
+
+
+
+
+
+
+
 
 Aufgrund solcher Fehlplanungen gibt es schon seit langem die Forderung, die öffentliche Projektplanung zu reformieren. Die umständlichen und komplizierten Richtlinien und Gesetze stellen ein großes Hindernis für effizientes und agiles Projektmanagement dar[^5]. Der Ablauf wird nie mit dem in der freien Wirtschaft vergleichbar sein, jedoch gibt es Ansätze die Strukturen eines agileren Projektmanagements in die öffentliche Planung einfließen zu lassen[^2].
 
