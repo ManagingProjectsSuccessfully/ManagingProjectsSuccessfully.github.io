@@ -7,13 +7,11 @@ anrechnung: a
 # Scrum-Transparenz
 Scrum-Transparenz (aus englisch ,,Scrum Transparency“) bildet neben [Scrum-Überprüfung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Ueberpruefung.md) (engl. ,,Scrum Inspection“) und Scrum-Anpassung (engl. ,,Scrum Adaption“) eine der drei Hauptsäulen von [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) (siehe Bild 1 [^5]). Dabei handelt es sich um die offene Kommunikation und das Teilen von Wissen, sowohl innerhalb als auch außerhalb des Teams [^1].
 
-<p align="center">
-  <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Transparenz/Bild.png"/>
-</p>
 
-<p align="center">
- Bild.1: Die drei SCRUM Säulen
-</p>
+  <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Transparenz/Bild.png"/>
+
+ Bild.1: *Die drei SCRUM Säulen* [^5]
+
 
 # Inhaltsverzeichnis 
 
