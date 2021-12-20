@@ -36,7 +36,7 @@ Es stellte sich jedoch ebenso heraus, dass die eben genannte Aufteilung nicht nu
 
 ### 2. Bedeutung des Pareto-Prinzips
 
-Das Pareto-Prinzip wird aufgrund des zuvor erklärten Ursprungs auch gerne auch als "80/20-Prinzip" bezeichnet. Bei den zwei gegebenen Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand sowie das letzliche Endergebnis darstellen sollen. Mit einem Aufwand von etwa 20 Prozent kann demnach ein Endergebnis erzielt werden, das zu circa 80 % vollständig ist.[^4]
+Das Pareto-Prinzip wird aufgrund des zuvor erklärten Ursprungs auch gerne als "80/20-Prinzip" bezeichnet. Bei den zwei gegebenen Zahlen handelt es sich dabei um variable Werte, die jeweils den Aufwand sowie das letzliche Endergebnis darstellen sollen. Mit einem Aufwand von etwa 20 Prozent kann demnach ein Endergebnis erzielt werden, das zu circa 80 % vollständig ist.[^4]
 
 Im Allgemeinen kann gesagt werden, dass eine geringe Anzahl an Komponenten bereits den größten Effekt erzielen kann.[^3] Aufgrund dieser Verallgemeinerung lässt sich schlussfolgern, dass das Pareto-Prinzip besonders effizient für das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md) sein kann, da demnach mit einem geringen Einsatz vieles erreicht werden kann und somit eine Menge an Zeit und Energie gespart werden kann. Das Pareto-Prinzip ist dem klassischen [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md) zuzuordnen. Um das Prinzip in diesem Bereich auch richtig im Projektmanagement anzuwenden, ist es wichtig, dass sich zum Beispiel vor einer Projektbesprechung alle beteiligten Personen einig sind, sich ausschließlich mit der Klärung fundamentaler Dinge zu beschäftigen. Sei dies nicht der Fall, können bereits Kleinigkeiten den Zeitrahmen stark überschreiten. [^5]
 
@@ -49,7 +49,7 @@ Die folgende [Abbildung](https://de.wikipedia.org/wiki/Pareto-Verteilung) zeigt 
 
 ![image](https://github.com/nahihiry/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pareto_Prinzip/Bildschirmfoto%202021-12-19%20um%2023.47.03.png)
 
-Die Grafik zeigt die Anzahl der Einwohner in deutschen Städten auf. Man erkennt klar, dass bereits in sehr wenigen Städte alleine ein sehr großer Teil der Gesamtbevölkerung lebt. Es gibt dementsprechend sehr viele kleinere Städte mit nur sehr wenigen Einwohnern.[^6]
+Die Grafik zeigt die Anzahl der Einwohner in deutschen Städten auf. Man erkennt klar, dass bereits in sehr wenigen Städten alleine ein sehr großer Teil der Gesamtbevölkerung lebt. Es gibt dementsprechend sehr viele kleinere Städte mit nur sehr wenigen Einwohnern.[^6]
 
 
 ### 4. Zeitmanagement 
@@ -65,7 +65,7 @@ Bei der Anwendung des Pareto-Prinzips trennt man sich somit bestenfalls gleichze
 
 #### 4.ii. Vergleich der Zeitersparnis zu der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik
 
-Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik handelt es sich um eine weitere Technik bei der man auch das Ziel verfolgt, in möglichst kurzer Zeit vieles zu erreichen. Die Zeit, in der man arbeitet sowie die Zeit der Pausen wird hier zwar lediglich eingeteilt, aber durch die Zeiteinteilung steigert sich auch hier die Produktivität. Man versucht sich nicht ablenken zu lassen und vermeidet Zeitfresser, um, wie beim Pareto- Prinzip, in kurzer Zeit möglichst vieles zu schaffen.[^10]
+Bei der [Pomodoro](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pomodoro.md)-Technik handelt es sich um eine weitere Technik, bei der man auch das Ziel verfolgt, in möglichst kurzer Zeit vieles zu erreichen. Die Zeit, in der man arbeitet sowie die Zeit der Pausen wird hier zwar lediglich eingeteilt, aber durch die Zeiteinteilung steigert sich auch hier die Produktivität. Man versucht sich nicht ablenken zu lassen und vermeidet Zeitfresser, um, wie beim Pareto- Prinzip, in kurzer Zeit möglichst vieles zu schaffen.[^10]
 
 ### Siehe auch
 
