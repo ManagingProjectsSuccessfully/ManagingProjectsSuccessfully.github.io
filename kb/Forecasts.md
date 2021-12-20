@@ -43,7 +43,7 @@ Die [Earned Value Analyse](Earned_Value_Analyse.md) stellt eine Variante des lau
 ## 4. 2 Effektbasierter Forecast 
 Beim effektbasierten Forecast liegt der Fokus auf Effekten und Maßnahmen, die einen maßgeblichen Einfluss auf das Projekt ausüben. Hier wird zwischen wenig beeinflussbaren Effekten wie zum Beispiel dem Wegfall von Patenten und beeinflussbaren Maßnahmen wie zum Beispiel der Kürzung des Werbeetats unterschieden. Es werden insbesondere Effekte berücksichtigt, die starke Abweichungen vom Basis-Forecast zur Folge haben. Dadurch werden vor allem potenziell große Auswirkungen auf den Projektverlauf in den Fokus gestellt sowie diese transparent und berichtsfähig gemacht[^2]. 
 
- ![Abbildung effektbasierte Methode[^6]](Forecasts/EffektbasierterForecast.jpg) 
+ ![Abbildung effektbasierte Methode[^5]](Forecasts/EffektbasierterForecast.jpg) 
   
 
 ## 4. 3 Werttreiberbasierter Forecast 
