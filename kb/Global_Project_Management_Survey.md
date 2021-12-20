@@ -11,7 +11,7 @@ neue Trends zu identifizieren beziehungsweise neuen Entwicklungsbedarf zu sichte
 
 
 # Historische Entwicklung und aktueller Stand zu den GMS
-Von der Deutschen Gesellschaft für Projektmanagement e.V. (GPM) wurde erst und auch einmalig eine solche Studie im Jahr 2010 durchgeführt[^1].
+Von der Deutschen Gesellschaft für Projektmanagement e.V. (GPM) wurde erst und auch einmalig eine Studie mit dem Fokus auf Projektmanagement innerhalb von Unternehmen im Jahr 2010 durchgeführt[^1].
 Da es sich hier um einen veraltetet und nicht jährlich aktualisierten Report handelt, wird dieser im weiterem nicht betrachtet und analysiert. Jedoch lässt sich der Report in
 Hinblick auf die Entwicklung des Projektmanagements innerhalb der letzten 10 Jahre als Vergleich zu aktuellen Reports heranziehen.
 
