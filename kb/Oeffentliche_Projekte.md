@@ -8,17 +8,17 @@ anrechnung: k
 
 
 [^1]: [Oeffentliche Projekte](https://www.netinbag.com/de/business/what-is-a-public-project.html)
-[^2]: https://dl.gi.de/handle/20.500.12116/16777
-[^3]: https://wirtschaftslexikon.gabler.de/definition/oeffentlich-private-partnerschaften-oepp-54537
-[^4]: http://projekt-manager.eu/gescheiterte-projekte.html
-[^5]: https://www.handelsblatt.com/politik/deutschland/infrastruktur-ausbau-die-blockierte-republik-woran-oeffentliche-projekte-in-deutschland-scheitern/25078986.html?ticket=ST-10378787-waZ0M4WEBBTMgHtZ12d7-cas01.example.org
-[^6]: https://www.bpb.de/nachschlagen/lexika/handwoerterbuch-politisches-system/201994/bundesrechnungshof
-[^7]: https://www.arl-net.de/de/lexica/de/%C3%B6ffentliche-verwaltung
-[^8]: https://link.springer.com/book/10.1007%2F978-3-322-80689-5
-[^9]: https://link.springer.com/content/pdf/10.1007/s00287-012-0640-5.pdf
-[^10]: https://books.google.de/books?hl=de&lr=&id=lJlf5nLOMfgC&oi=fnd&pg=PR5&dq=%C3%B6ffentliche+projekte+projektmanagement&ots=9reLD5Uho1&sig=8sS7FEphLDQBY-ep-q8bgi-FKic#v=onepage&q=%C3%B6ffentliche%20projekte%20projektmanagement&f=false
-[^11]: https://www.ndrkulturkarte.de/partner/elbphilharmonie-und-laeiszhalle/
-[^12]: https://www.theprojectgroup.com/blog/erfolgsfaktoren-fuer-projektmanagement/
+[^2]: [Oeffetnliche Verwaltung Bestandsaufnahme](https://dl.gi.de/handle/20.500.12116/16777)
+[^3]: [PPP](https://wirtschaftslexikon.gabler.de/definition/oeffentlich-private-partnerschaften-oepp-54537)
+[^4]: [Gescheiterte Projekte](http://projekt-manager.eu/gescheiterte-projekte.html)
+[^5]: [Gescheiterte Infrastrukturprojekte](https://www.handelsblatt.com/politik/deutschland/infrastruktur-ausbau-die-blockierte-republik-woran-oeffentliche-projekte-in-deutschland-scheitern/25078986.html?ticket=ST-10378787-waZ0M4WEBBTMgHtZ12d7-cas01.example.org)
+[^6]: [Bundesrechnungshof](https://www.bpb.de/nachschlagen/lexika/handwoerterbuch-politisches-system/201994/bundesrechnungshof)
+[^7]: [Oeffentliche Verwaltung](https://www.arl-net.de/de/lexica/de/%C3%B6ffentliche-verwaltung)
+[^8]: [Oeffentliche Verwaltung Grundlagen](https://link.springer.com/book/10.1007%2F978-3-322-80689-5)
+[^9]: [Schwierigkeiten bei oeffentlichen Projekten](https://link.springer.com/content/pdf/10.1007/s00287-012-0640-5.pdf)
+[^10]: [Projektmanagement oeffentliche Verwaltung](https://books.google.de/books?hl=de&lr=&id=lJlf5nLOMfgC&oi=fnd&pg=PR5&dq=%C3%B6ffentliche+projekte+projektmanagement&ots=9reLD5Uho1&sig=8sS7FEphLDQBY-ep-q8bgi-FKic#v=onepage&q=%C3%B6ffentliche%20projekte%20projektmanagement&f=false)
+[^11]: [Elbphilharmonie](https://www.ndrkulturkarte.de/partner/elbphilharmonie-und-laeiszhalle/)
+[^12]: [Magische Dreieck](https://www.theprojectgroup.com/blog/erfolgsfaktoren-fuer-projektmanagement/)
 
 # Öffentliche Projekte
 
