@@ -2,103 +2,100 @@
 title: Uebersicht_PM_Tools
 tags: agil klassisch
 author: christian-anghel
-anrechnung: k oder a
+anrechnung: k
 ---
-
-Kurzbeschreibung zu Uebersicht_PM_Tools um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Projektmanagement-Tools unterstützen die Projektmanager, Führungskräfte und das Projektteam bei der Durchführung von Projekten in allen Projektphasen von der Entstehung der Projektidee bis Abschluss. In agilen Projekten soll zudem die Unterstützung über alle Iterationen erfolgen und die Kollaboration erleichtern. Eine Projektmanagement Software kombiniert dabei verschiedene Werkzeuge des Projektmanagements unter einem System.
 
 
-# Aspekt 1
+# Geschichte
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Das erste Projektmanagement-Tool für Computer (bisher nur für Mainframes) war Artemis,
+entwickelt vom Unternehmen Metier Management Systems im Jahr 1978. Artemis kombinierte Projektplanung und Terminplanung mit Kostenkontrolle und Ressourcenmanagement. [^1]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+In den darauffolgenden Jahren folgten viele Verbesserungen und verschiedene Software-Produkte erschienen mit mehr Funktionen für komplexere Projekte. Ab Anfang der 2000er wurden auch mehr Projektmanagement-Tools für agiles Projektmanagement entwickelt. Außerdem entwickelte sich der Trend zu cloudbasierten Programmen und Software as a Service[^3], also dass die Software und die IT-Infrastruktur bei einem externen IT-Dienstleister betrieben und vom Kunden als Dienstleistung genutzt werden.
 
-![Beispielabbildung](Uebersicht_PM_Tools/test-file.jpg)
 
-*lustiges Testbild*
+# Wichtige Aufgaben eines Projektmanagement-Tools
 
-# Aspekt 2
+## Projektplanung
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Die Projektplanung ist ein Kernbereich des Projektmanagements. Wichtige Features sind:[^2]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
+| Feature  | genaue Funktion |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Verwaltung allgemeiner Projektdaten  | Grundlegende Informationen, um schnellen Einblick in das Projekt zu bekommen |
+| [Projektstrukturplanung](Projektstrukturplan.md)  | Gliederung des Projekts in plan- und kontrollierbare Elemente  |
+| [Meilensteinplanung](Meilensteine.md)  | Grundlage, um zu bestimmten Zeitpunkten den Projektstatus hinsichtlich von Zielen, Kosten und Terminen beurteilen zu können  |
+| [Gantt Diagramme](Gantt_Diagramme.md) | Stellt die verschiedenen Projektphasen übersichtlich dar  |
+| Task Management  | Welche Aufgaben noch umzusetzen sind und welchen aktuellen Stand man hat  |
+| [Netzplan](Netzplantechnik.md)  | Stellt die Dauer von Vorgängen im Projekt, ihre zeitliche Anordnung und logische Abhängigkeiten zwischen den Vorgängen dar  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## Kommunikation und Zusammenarbeit
 
-### Ebene-3-Überschrift
+Immer wichtiger und auch beliebter werden Tools und Softwarelösungen im Bereich der Kommunikation und für die Zusammenarbeit des Projektteams. Gerade in agilen Projekten wird Zusammenarbeit deutlich gegenüber Prozessen hervorgehoben. Deswegen ist es wichtig unkomplizierte und zentrale Kommunikationskanäle schaffen.[^2]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## Dokumentenmanagement
 
-# Aspekt n
+In großen Projekten lohnt sich eine eigene Plattform zum Wissenstransfer, und auch eigene oder externe Cloud Speicher können mit Projektmanagement-Tools verknüpft werden.
+Weiterhin können Suchfunktionen und Archivierungsmöglichkeiten sinnvoll sein, um auf alte Dokumente zugreifen zu können. [^2]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## Budgetplanung
+
+Bei Projekten ist es wichtig, dass die Kosten proaktiv gesteuert werden können und das Budget eingehalten wird. Ein Projekt ist oft mit anderen Projekt verbunden und hat das Potenzial, die gesamte Kampagne zu beeinflussen. Mit Projektmanagement-Software wird die Budgetverwaltung einfacher und die Ausgaben können besser verfolgt und das Budget schnell eingerichtet werden. Indem man die vorhergesagten Ausgaben mit den tatsächlichen vergleicht kann ein besserer Überblick gewonnen werden [^3]
+
+___
+
+![Bild4](https://user-images.githubusercontent.com/92924821/143098084-fa811c2c-0056-499b-962d-d0cac43235ae.png)
+*Studie zu den meistgenutzten Funktionen von Projektmanagement-Software für kleine und mittlere Unternhemen* [^4]
+
+___
+
+
+# Vor- und Nachteile einer Projektmanagement-Software:[^2]
+
+## Vorteile
+
+* Die Organisation des Projektes ist zentralisiert möglich
+* Liefert einen Gesamtblick über das Projekt mit den wichtigsten Informationen
+* Vereinfacht viele wiederkehrende Aufgaben und kann so Zeit sparen
+* Aufgaben werden transparent dargestellt
+* Unternehmensziele werden schneller erreicht
+
+## Nachteile 
+
+* Zeitintensive Einarbeitung in neue Software
+* Das Tool muss vom Team akzeptiert werden
+* Kosten
+
+# Meist genutzte Projektmanagement Tools
+
+![pm marktanteil](https://user-images.githubusercontent.com/92924821/143071468-eb38bca1-6769-4335-97f3-56e06656e459.png)
+*Marktanteil der meist genutzten Proketmanagement Tools* [^5]
+
 
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Uebersicht_PM_Tools.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+Projektmanagement Tools:
+* [Asana](Asana_PM_Tools.md)
+* [Awork](Awork_PM_Tool.md)
+* [ClickUp](ClickUp_PM_Tool.md)
+* [Hive](Hive_PM_Tool.md)
+* [Java](Java_PM_Tool.md)
+* [Jira](Jira_PM_Tool.md)
+* [MeisterTask](MeisterTask_PM_Tool.md)
+* [Microsoft Planner](Microsoft_Planner_PM_Tool.md)
+* [Microsoft Project](Microsoft_Project_PM_Tool.md)
+* [Podio](Podio_PM_Tool.md)
+* [Stackfield](Stackfield_PM_Tool.md)
+* [Trello](Trello_PM_Tool.md)
+* [WRIKE](WRIKE_PM_Tool.md)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: http://www.computinghistory.org.uk/det/14416/Metier-Artemis/
+[^2]: https://pm-tools.info/projektmanagement-software-eine-einfuehrung/
+[^3]: https://www.proofhub.com/articles/importance-of-project-management-software
+[^4]: https://www.capterra.com.de/blog/407/nutzerstudie-wie-wird-projektmanagement-software-in-deutschland-genutzt
+[^5]: https://www.datanyze.com/market-share/project-management--217
 
