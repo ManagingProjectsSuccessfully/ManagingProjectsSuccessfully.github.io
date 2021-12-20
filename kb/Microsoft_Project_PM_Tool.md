@@ -103,7 +103,7 @@ Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung 
 
 ### 5.	Abhängigkeiten durch Vorgangsverknüpfungen
 
-Wenn Vorgänge und Meilensteine gesetzt sind, folgen über Verknüpfungen inhaltlich, logische Beziehungen, die nicht unbedingt chronologisch abgebildet werden müssen.Neben der Ende-Anfang-Beziehung (kurz: EA) kann der User drei weitere Beziehungsarten wählen (EE, AE, AA).
+Wenn Vorgänge und Meilensteine gesetzt sind, folgen über Verknüpfungen inhaltlich, logische Beziehungen, die nicht unbedingt chronologisch abgebildet werden müssen. Neben der Ende-Anfang-Beziehung (kurz: EA) kann der User drei weitere Beziehungsarten wählen (EE, AE, AA).
 Falls Verzögerungen/Beschleunigungen erfasst werden müssen, kann dies über die Angabe von Tagen mit einem Plus/Minus Zeichen angepasst werden. Die hierfür verwendeten Spalten lauten Vorgänger/Nachfolger.
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Verknuepfungen.jpeg)
