@@ -9,7 +9,7 @@ anrechnung: k
 # Projektteam_Kultur
 
 Die Projektkultur umfasst alle Regeln, Werte und Normen eines Projektteams, die für dessen Verhalten, Umgang und Form der Kommunikation gelten. Projektkultur wird häufig im Team durch die Teamkultur erlebbar gemacht. Durch geltende Werte und Normen ist für alle Mitglieder transparent sichtbar, welche Handlungen als gut und wünschenswert und welche als negativ angesehen werden.
-Eine Projektkultur sollte durch die Projektleitung gefördert werden. Es bietet sich an, am Anfang eines Projekts, eine Projektauftaktsveranstaltung, vielleicht auch über 2 Tage, zu machen. Bei dieser können sich sowohl alle Teammitglieder erstmal kennenlernen und ein Wir-Gefühl entwickeln, sowie erste Grundsätze und Werte für das gemeinsame Arbeiten geschaffen werden[^1].
+Eine Projektkultur sollte durch die Projektleitung gefördert werden. Es bietet sich an, am Anfang eines Projekts, eine Projektauftaktveranstaltung, vielleicht auch über 2 Tage, zu machen. Bei dieser können sich sowohl alle Teammitglieder erstmal kennenlernen und ein Wir-Gefühl entwickeln, sowie erste Grundsätze und Werte für das gemeinsame Arbeiten geschaffen werden[^1].
 
 Im Folgenden wird auf Kultur im Allgemeinen sowie den wichtigen Aspekt der Spielregeln bei der 
 Zusammenarbeit im Team eingegangen
@@ -19,7 +19,7 @@ Zusammenarbeit im Team eingegangen
 Eine Kultur ergibt sich aus dem Zusammenspiel von Werten, Normen, Denkhaltungen und Paradigmen, welche z.B. die Bewohner eines Landes teilen. Dies kann man auch auf eine  niedrigere Ebene übertragen, z.B. ein Unternehmen oder ein Projektteam in einem Unternehmen. Jedes Unternehmen pflegt eine eigene Kultur. 
 Wichtig ist jedoch zu beachten, dass eine Projektkultur sich in den Grundprinzipien auch mit der Unternehmenskultur übereinstimmt[^2].
 
-Es gibt viele verschiedene Modelle und Erklärungsansätze zu Organisationskultur. Diese lassen sichh auch sehr gut auf Projektkulturen übertragen.
+Es gibt viele verschiedene Modelle und Erklärungsansätze zu Organisationskultur. Diese lassen sich auch sehr gut auf Projektkulturen übertragen.
 Im Folgenden wird auf die Kulturebenen von Edgar Schein eingegangen. 
 Dieser beschreibt drei Ebene in seinem Modell[^2]. 
 
@@ -29,9 +29,9 @@ Dieser beschreibt drei Ebene in seinem Modell[^2].
 
 Ebene 1 liegt an der Oberfläche, sie ist auch für Außenstehende sichtbar, sei es z.B. der Projektname, ein Slogan oder bestimmte Team-Rituale (morgendliche Meetings, wöchentliche gemeinsame Freizeitaktivitäten)[^2].
 
-Unter dieser Ebene liegen die Gefühlsebene sowie kollektive Werte. Auch die Einstellung der Mitarbeiter und ihr daraus resultierendes Verhalten lässt sich aus der zweiten Ebene ableiten. Diese können z.B. im Rahmen der Spieregeln gemeinsam festgehalten werden[^2].
+Unter dieser Ebene liegen die Gefühlsebene sowie kollektive Werte. Auch die Einstellung der Mitarbeiter und ihr daraus resultierendes Verhalten lässt sich aus der zweiten Ebene ableiten. Diese können z.B. im Rahmen der Spielregeln gemeinsam festgehalten werden[^2].
 
-Die letzte und tiefste Ebene umfasst Dinge, die als selbstverständlich angenommen werden. Diese Grundannahmen werden nicht in Frage gestellt[^2].
+Die letzte und tiefste Ebene umfasst Dinge, die als selbstverständlich angenommen werden. Diese Grundannahmen werden nicht infrage gestellt[^2].
 
 
 # Spielregeln bei der Zusammenarbeit
