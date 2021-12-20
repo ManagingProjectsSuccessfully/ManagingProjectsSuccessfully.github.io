@@ -50,7 +50,7 @@ Eine oft zu beobachtende Gemeinsamkeit ist die sequentielle Abfolge einzelner Sc
 Zwei der bekanntesten Modelle sind das [8-Stufen Modell von Kotter](8_Step_Process_for_Leading_Change.md) und das 3-Stufen Modell von Lewin [^9][^10].
 
 ## Lewin Modell
-Lewin unterteilt den Veränderungsprozess in drei Stufen ein[^9]:
+Lewin unterteilt den Veränderungsprozess in drei Stufen[^9]:
 1. unfreezing
 2. moving
 3. freezing
