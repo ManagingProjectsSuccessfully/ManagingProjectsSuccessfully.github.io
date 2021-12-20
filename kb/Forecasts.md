@@ -12,16 +12,16 @@ Im Projektmanagement werden Forecasts als Steuerungselement eingesetzt, um die E
 # 2 Merkmale erfolgreicher Forecasts
 Um zuverlässige Vorhersagen zu erhalten und die gesetzten Ziele zu erreichen, sollten bei der Erstellung eines Forecasts diese Aspekte berücksichtigt werden.
 ## 2.1 Ehrlichkeit
-Eine rein zielorientierte Herangehensweise ohne die Berücksichtigung vorhandener Ressourcen wird mit höherer Wahrscheinlichkeit zu falschen Vorhersagen führen. Den Forecast so zu bearbeiten, dass er die [top down](Top_Down_Planning.md) gesetzten Vorgaben erfüllt, wird zu Beginn eines Projekts vielversprechend wirken, jedoch am Ende häufiger die Ziele verfehlen. Deswegen ist eine [bottom up](Bottom_Up_Planning.md) Planung, die ehrlich zeigt, wo die Grenzen des Projektes liegen und Probleme frühzeitig aufdeckt, empfehlenswerter[^5]. 
+Eine rein zielorientierte Herangehensweise ohne die Berücksichtigung vorhandener Ressourcen wird mit höherer Wahrscheinlichkeit zu falschen Vorhersagen führen. Den Forecast so zu bearbeiten, dass er die [top down](Top_Down_Planning.md) gesetzten Vorgaben erfüllt, wird zu Beginn eines Projekts vielversprechend wirken, jedoch am Ende häufiger die Ziele verfehlen. Deswegen ist eine [bottom up](Bottom_Up_Planning.md) Planung, die ausgehend von den zur Verfügung stehenden Mitteln ehrlich zeigt, wo die Grenzen des Projektes liegen empfehlenswerter[^5]. 
 ## 2.2 Systematik
 Jeder Projektteilnehmer sollte auf den ersten Blick erkennen können:
 * Wo man sich im Projekt befindet
 * Was bereits erreicht wurde
 * Welche Schritte von wem als Nächstes gemacht werden müssen[^5]
 ## 2.3 Einheitlichkeit
-Wichtig für die Vergleichbarkeit verschiedener Kennzahlen ist die Wahl einer einheitlichen Methode. Dies umfasst ein gemeinsames Bewertungssystem mit einheitlicher Begriffsdefinition und eine transparente Wahrscheinlichkeitsbewertung[^5]. 
+Wichtig für die Vergleichbarkeit verschiedener Kennzahlen ist die Wahl einer einheitlichen Methode. Dies umfasst ein gemeinsames Bewertungssystem mit gleicher Begriffsdefinition und eine transparente Wahrscheinlichkeitsbewertung[^5]. 
 ## 2.4 Regelmäßigkeit
-Eine regelmäßige Überprüfung der geplanten Vorgänge und deren Erfolg ermöglicht es notwendige Korrekturen schon in frühen Phasen des Projektes zu erkennen und durchzuführen und verringert somit den damit verbundenen Aufwand. Die Chancen, die im Forecast gesetzten Ziele zu erreichen, werden so aufrechterhalten[^5]. 
+Eine regelmäßige Überprüfung der geplanten Vorgänge und deren Erfolg ermöglicht es, notwendige Korrekturen schon in frühen Phasen des Projektes zu erkennen und durchzuführen und verringert somit den damit verbundenen Aufwand. Die Chancen, die im Forecast gesetzten Ziele zu erreichen, werden so aufrechterhalten[^5]. 
 ## 2.5 Anpassungsfähigkeit
 Vorhersagen treffen realistisch gesehen nie zu 100% ein, da unkontrollierbare Faktoren existieren, die den Verlauf des Projektes maßgeblich beeinflussen können. Aus diesem Grund ist es wichtig, Raum für gewisse Anpassungen einzuplanen[^5]. 
 
