@@ -10,13 +10,15 @@ Unter IT-Projekte versteht man die Entwicklung von Informations- und Kommunikati
 ## Klassische Methoden 
 Im Bereich der Softwareentwicklung sind die klassischen Vorgehensmethoden „Hermes“, „PRINCE2“ und „V-Model XT geeignet[^2].
 ### HERMES
-Bei Hermes wird nach den Prinzipien des Wasserfallmodells gearbeitet, siehe folgende Abbildung:![Beispielabbildung](IT-Projekte/Wasserfallmodell.png)[^3].  
+Bei Hermes wird nach den Prinzipien des Wasserfallmodells gearbeitet, siehe auch: [Wasserfall_Modell.md](https://github.com/ga88maby/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md) ![Beispielabbildung](IT-Projekte/Wasserfallmodell.png)[^3].  
 
 Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Rolle, was dazu führt, dass die erforderlichen Projekttätigkeiten und Verantwortlichkeiten abgeleitet werden. Die Ergebnisse sind eindeutig definiert, wodurch der Anfang- und Endpunkt der Phasen vordefiniert sind und somit eine präzise Vorgehensweise gewährleistet wird. Hermes ist gekennzeichnet durch eine lineare Abfolge der Aktivitäten, was den Einsatz dieser Methode in IT-Projekten ermöglicht. Hermes wird hauptsächlich in der Schweiz angewendet[^4].
 
 
 ### PRINCE2
-"PRINCE2" (Projects in Controlled Environments) steht für Projekte unter Kontrolle, das heißt, dass das Vorgehen vom Start bis zum Ende eines Projektes vordefiniert ist. Wie etwas hergestellt wird, ist nicht definiert, sondern von wem und wann etwas erzeugt werden soll. Durch diese Trennung zwischen der Herstellung von Produkten und dem Management von Projekten unterscheidet sich Prince2 von anderen Methoden und eignet sich zugleich sehr gut für das Zusammenspiel mit Methoden, die sich um die Produktherstellung kümmern. Prince2 zählt zu den meistgenutzten Methoden weltweit[^5] 
+"PRINCE2" (Projects in Controlled Environments) steht für Projekte unter Kontrolle, das heißt, dass das Vorgehen vom Start bis zum Ende eines Projektes vordefiniert ist. Wie etwas hergestellt wird, ist nicht definiert, sondern von wem und wann etwas erzeugt werden soll. Durch diese Trennung zwischen der Herstellung von Produkten und dem Management von Projekten unterscheidet sich Prince2 von anderen Methoden und eignet sich zugleich sehr gut für das Zusammenspiel mit Methoden, die sich um die Produktherstellung kümmern. Prince2 zählt zu den meistgenutzten Methoden weltweit[^5]. 
+
+Siehe auch Siehe auch: [PRINCE2.md](https://github.com/patrick203494/ManagingProjectsSuccessfully.github.io/blob/main/kb/PRINCE2.md)
 #### Die Elemente von Prince2
 | 7 Grundprinzipien                                    | 7 Themen             | 7 Prozesse                         | 
 | ---------------------------------------------------- | -------------------  |----------------------------------  |
@@ -29,8 +31,13 @@ Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Roll
 |Prinzip 7: Anpassen an die Projektsituation          |Thema 7: Fortschritt|Prozess 7: Abschließen eines Projekts | 
 [^5]
 
+Siehe auch: [PRINCE2_7_Grundprinzipien.md](https://github.com/za22regi/ManagingProjectsSuccessfully.github.io/blob/main/kb/PRINCE2_7_Grundprinzipien.md)
+
 ### V-Modell XT
 Eine in Deutschland stark genutzte Variante ist das V-Modell XT, das erstmals im Jahr 1992 von der Bundeswehr veröffentlicht wurde. Sie ist ein Vorgehensmodell für die Durchführung von IT-Projekten, insbesondere zur Entwicklung von Softwaresystemen. Ergebnisse und Abläufe sind bei dieser Methode vorgegeben, wodurch möglichst viel Zeit gespart werden kann. Dies ist anhand der folgenden Darstellung ersichtlich[^6]:![Beispielabbildung](IT-Projekte/V-Modell-XT.jpg). Die wichtigste Aufgabe des V-Modell XT ist Regelung der Kommunikation zwischen dem Auftraggeber und den Auftragnehmern, um typische Quellen für Missverständnisse zwischen den Beteiligten auszuschließen. Der Zusatz "XT" steht dabei für "eXtreme Tailoring" und unterstreicht die flexible Anpassbarkeit an spezifische Projektumfelder. Die aktuelle Version 2.3 gewährleistet eine verbesserte Anwendbarkeit durch das Neugestalten der Produktabhängigkeiten. Somit ist eine Qualitätssicherung möglich[^7].
+
+Siehe auch: [VModell.md](https://github.com/fabriGH/ManagingProjectsSuccessfully.github.io/blob/main/kb/VModell.md)
+
 
 ## Gescheiterte IT-Projekte
 ### 7030-Projekt von IBM
@@ -41,6 +48,14 @@ Im für Südengland zuständigen Auslieferungszentrum Waltham Point in Essex wur
 Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das von SAP entwickelt wurde, anwenden. Dieses sollte das selbst programmierte und jahrzehntealte System Wawi ablösen. Eine Reduzierung des Aufwands für die Stammdatenpflege und die Möglichkeit für Prognosen in Echtzeit waren die Ziele, die das System schaffen sollte. Das Elektronisches Lidl-Warenwirtschaftsinformationssystem (Elwis) wurde nach sieben Jahren Entwicklungszeit im Jahr 2018 gestoppt. Die Ziele waren mit dem gegeben Aufwand nicht realisierbar[^10].
 
 # Angrenzende Themen
+[Wasserfall_Modell.md](https://github.com/ga88maby/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md)
+
+[PRINCE2.md](https://github.com/patrick203494/ManagingProjectsSuccessfully.github.io/blob/main/kb/PRINCE2.md)
+
+[PRINCE2_7_Grundprinzipien.md](https://github.com/za22regi/ManagingProjectsSuccessfully.github.io/blob/main/kb/PRINCE2_7_Grundprinzipien.md)
+
+[VModell.md](https://github.com/fabriGH/ManagingProjectsSuccessfully.github.io/blob/main/kb/VModell.md)
+
 [Microsoft_Project_PM_Tool](https://github.com/AbderrahmaneBennani/ManagingProjectsSuccessfully.github.io/blob/main/kb/Microsoft_Project_PM_Tool.md)
 
 [Java Projektmanagement Tools](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Java_PM_Tool.md)
