@@ -164,7 +164,7 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 | ------------- | ------------- |
 | umfangreiche Funktionen innerhalb der Projektplanung                    | anspruchsvolle Einarbeitung verlangt Grundlagenschulung        |
 | Detaillierungsschärfe der Visualisierung                                | hohe Anschaffungskosten für Lizenz                             |
-| auf Knopfdruck ansprechend, gestaltete Reportings / Berichte            | Fehlende Intuition bei der Handhabung                          |
+| auf Knopfdruck ansprechend gestaltete Reportings / Berichte            | Fehlende Intuition bei der Handhabung                          |
 | effizientes Managementsystem komplexer, klassischer Projekte            | beansprucht hohen Pflegeaufwand der bespielten Daten           |
 | etablierter Standard in vielen mittelständischen und großen Unternehmen |
 
