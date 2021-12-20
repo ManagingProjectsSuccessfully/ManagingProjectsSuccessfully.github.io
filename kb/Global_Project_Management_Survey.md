@@ -6,8 +6,7 @@ anrechnung: a
 ---
 
 
-Die Global Project Management Survey dienen dazu, von Firmen bereits durchgeführte Projekte im Nachgang zu untersuchen, um realistische Aussagen über den Ablauf, die Art, den
-Erfolg/Misserfolg und alle weiteren wichtigen Faktoren innerhalb der weltweit in Unternehmen durchgeführten Projektmanagements zu erhalten und darauf aufbauend für die Zukunft 
+Die Global Project Management Surveys (GMS) dienen dazu, von Firmen bereits durchgeführte Projekte im Nachgang zu untersuchen, um realistische Aussagen über den Ablauf, die Art, den Erfolg/Misserfolg und alle weiteren wichtigen Faktoren innerhalb der weltweit in Unternehmen durchgeführten Projektmanagements zu erhalten und darauf aufbauend für die Zukunft 
 neue Trends zu identifizieren beziehungsweise neuen Entwicklungsbedarf zu sichten/abzuleiten.
 
 
@@ -26,7 +25,7 @@ Die Herausgeber der Studie, das Project Management Institute wird "als die weltw
 deren Erhebung, Verarbeitung und Veröffentlichung als valide angesehen werden kann. 
 
 
-# Eckdaten der Pulse of the Profession Reports von PMI:
+# Eckdaten der Pulse of the Profession Reports:
 
 *	Erstmals 2006 durchgeführt
 *	Erste weltweite Untersuchung von Projektmanagement innerhalb von Unternehmen
@@ -72,8 +71,7 @@ darstellen, die sich auf bewährte bereits verwendete Methoden konzentriert habe
 auf die Prozesse und fokussieren sich auf Ihre Mitarbeitenden und deren individuellen Leistungen/Fähigkeiten. Die  traditionellen Unternehmen erlangten insgesamt eher 
 negativere Ergebnissen innerhalb der Projektarbeit. 
 
-Bei der Befragung wurden 1/3 der Unternehmen als „Gymnastic Enterprises“ eingestuft, und 30 % als „Traditional Enterprises“, die restlichen konnten nicht eindeutig zuge-
-ordnet werden:
+Bei der Befragung wurden 1/3 der Unternehmen als „Gymnastic Enterprises“ eingestuft, und 30 % als „Traditional Enterprises“, die restlichen konnten nicht eindeutig zugeordnet werden:
 
 ![classification of the Enterprises](Global_Project_Management_Survey/2021_Gymnastic_and_traditional_enterprises.jpg)
 
