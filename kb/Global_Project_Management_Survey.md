@@ -76,14 +76,20 @@ muss berücksichtigt werden, dass die unteren drei Zeilen eine negative Situatio
 
 ![Project Success_Failure_Gymnastic and Traditonal](Global_Project_Management_Survey/Project_Sucess_failure_comparison.jpg)
 
+
+
 2. Die "Gymnastic Enterprises" erfuhren in den letzten 12 Monate im Vergleich zu den "Tradional Enterprises" mehr Veränderungen innerhalb des Unternehmens
 oder trieben diese aktiv voran:
 
 ![Recent Business Changes Gymnastic and Traditional](Global_Project_Management_Survey/2021_traditional_vs_gymnastic_enterprises.jpg)
 
+
+
 3. Die "Gymnastic Enterprises" nutzten bei der Umsetzung der Projekte vermehrt aktuelle technologische Trends und Möglichkeiten:
 
 ![Technology usage](Global_Project_Management_Survey/2021_Technolgy_usage.jpg).
+
+
 
 4. Als zusätzlicher Erfolgsfaktor wurde herausgefunden, dass die "Gymnastic Enterprises" neben des hohen Grades an Agilität innerhalb des Unternehmens zusätzlich 
 standardisierte [Risikoanalyse und -managementverfahren](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) nutzten sowie eine geringere schleichende Umfangsausweitung innerhalb eines Projektes aufwiesen (siehe auch [Projektumfang](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektumfang.md)). Diese Kombination ist 
