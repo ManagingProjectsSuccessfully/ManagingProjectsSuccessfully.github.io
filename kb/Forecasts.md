@@ -45,7 +45,7 @@ Beim effektbasierten Forecast liegt der Fokus auf Effekten und Maßnahmen, die e
 
  ![Abbildung effektbasierte Methode](Forecasts/EffektbasierterForecast.jpg) 
  
- *Effektbasierte Methode*[^5]
+ *Abbildung: Effektbasierte Methode*[^5]
   
 
 ## 4. 3 Werttreiberbasierter Forecast 
@@ -53,7 +53,7 @@ Der werttreiberbasierte Ansatz setzt auf eine Prognose anhand weniger Kennzahlen
  
  ![Abbildung werttreiberbasierte Methode](Forecasts/WerttreiberbasierterForecast.jpg) 
  
- *Werttreiberbasierte Methode*[^6]
+ *Abbildung: Werttreiberbasierte Methode*[^6]
 
 # Siehe auch
 
