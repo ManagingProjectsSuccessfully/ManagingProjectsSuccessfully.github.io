@@ -9,7 +9,7 @@ Ein strukturiertes [Projektmanagement](Projektmanagement.md) ist maßgeblich fü
 * Projektdefinition
 * [Projektplanung](Projektplanung.md)
 * [Projektdurchführung](Projektsteuerung.md)
-* [Projektabschluss](Projektabschluss.md)[^11]
+* Projektabschluss[^11]
 
 ![Projektphasen](Projekthandbuch/Projektphasen.png)
 
