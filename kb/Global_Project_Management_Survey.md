@@ -14,22 +14,22 @@ Von der [Deutschen Gesellschaft für Projektmanagement e.V.](https://github.com/
 Da es sich hier um einen veraltetet und nicht jährlich aktualisierten Report handelt, wird dieser im weiterem nicht betrachtet und analysiert. Jedoch lässt sich der Report in
 Hinblick auf die Entwicklung des Projektmanagements innerhalb der letzten 10 Jahre als Vergleich zu aktuellen Reports heranziehen.
 
-Aktuelle Entwicklungen werden vom [Projekt Managment Institute](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMI_Institution.md) (PMI) in einem jährlich veröffentlichten Report, beginnend im Jahr 2006, erfasst[^2].
+Aktuelle Entwicklungen werden vom [Projekt Management Institute](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMI_Institution.md) (PMI) in einem jährlich veröffentlichten Report, beginnend im Jahr 2006, erfasst[^2].
 Dieser Report trägt den Namen "Pulse of Profession" und wird durch die Zusammenarbeit und Befragung weltweit agierender Unternehmen und deren mit dem Projektmanagement betrauten
 Mitarbeitern erstellt. Durch die Vielzahl an Daten und den jährlichen Befragungsturnus kann der "Pulse of Profession" als eine der wichtigsten Studien in Bezug
 auf Projektmanagement weltweit angesehen werden, der den aktuellen Stand innerhalb der Unternehmen abbilden kann.
 
-Die Herausgeber der Studie, das [Projekt Managment Institute](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMI_Institution.md) wird "als die weltweit führende Autorität im Projektmanagement"[^3][^4][^5] angesehen, wodurch die Daten, 
+Die Herausgeber der Studie, das [Projekt Management Institute](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMI_Institution.md) wird "als die weltweit führende Autorität im Projektmanagement"[^3][^4][^5] angesehen, wodurch die Daten, 
 deren Erhebung, Verarbeitung und Veröffentlichung als valide angesehen werden kann. 
 
 
 # Eckdaten der Pulse of the Profession Reports:
 
 *	Erstmals 2006 durchgeführt
-*	Erste weltweite Untersuchung von Projektmanagement innerhalb von Unternehmen
+*	Erste weltweite Untersuchung von [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) innerhalb von Unternehmen
 *	Hauptreport erscheint einmal jährlich, kleinere (auch zwischen-)Reports teilweise mehrmals innerhalb eines Jahres 
-*	Zeigt aktuelle und zukünftige Entwicklungen im Bereich des Projektmanagements unter Einbezug von Marktforschungen die Einblicke in das Arbeitsleben von Projekt-, Programm- und 
-  Portfoliomanagern gewähren
+*	Zeigt aktuelle und zukünftige Entwicklungen im Bereich des [Projektmanagements](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) unter Einbezug von Marktforschungen die Einblicke in das Arbeitsleben von Projekt-, Programm- und 
+  Portfoliomanagern gewähren (siehe auch [Portfoliomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md) und [Programmmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Programmmanagement.md) )
 *	Für den Report wird eine große Anzahl an unterschiedlichen Branchen und Regionen befragt
 *	Der Report ist auf der Internetseite des PMI kostenlos zur Verfügung gestellt
 *	Die Befragung wird jährlich, je nach aktueller Situation, variiert. Bei der Befragung 2020/2021 wurde vor allem der weltweiten Coronapandemie im Zusammenhang mit traditionellen und agilen Projektmanagement-Methoden und die daraus resultierenden Folgen, große Aufmerksamkeit geschenkt
@@ -97,6 +97,8 @@ Verlinkungen zu Angrenzenden Themen kann erst durchgeführt werden, wenn alle an
 
 * [aktuelle Entwicklungen im PM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md) 
 * [Deutschen Gesellschaft für Projektmanagement e.V.](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/GPM_Institution.md)
+* [Portfoliomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md)
+* [Programmmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Programmmanagement.md)
 * [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
 * [Projekt Managment Institute](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMI_Institution.md)
 * 
