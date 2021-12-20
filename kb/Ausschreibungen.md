@@ -4,14 +4,16 @@ tags: klassisch Ausschreibung Ausschreibungen Vergabeverordnung Vergaberecht
 author: Lars428
 anrechnung: k
 ---
-# Definition 
+# Ausschreibungen
+Unter einer Ausschreibung versteht man ein bestimmtes Vergabeverfahren von Aufträgen im Wettbewerb. Sinn und Zweck dieses Verfahrens, das im [Projektmanagement](Projektmanagement.md) oft eine wichtige Rolle spielt, ist eine wettbewerbsbasierte Preisermittlung[^0].
+## Definition 
 "Unter einer Ausschreibung versteht man im europäischen Rechtsraum die öffentliche Bekanntmachung von offenen Aufträgen mit der Aufforderung an interessierte Unternehmen, ein passendes Angebot an die verantwortlichen Stellen abzugeben[^1]."
 
 Insbesondere für staatliche Auftragsvergaben ist die öffentliche Ausschreibung üblicherweise vorgeschrieben, um Korruption und Vetternwirtschaft zu verhindern. Ein weiterer Vorteil ist, dass der Auftraggeber durch eine Ausschreibung ein optimales Preis-Leistungs-Verhältnis erzielen kann[^2].
 
 # Ausschreibungsarten
 ![Ausschreibungsarten](/Verwaltung/Projekt/Vergabe.jpg)
-Abbildung1[^3]
+Vergabe von öffentlichen Aufträgen[^3]
 
 Es gibt gemäß § 3 der VOB/A[^4] und § 8 der UVgO[^5] zwei verschiedene Arten von Ausschreibungen. Öffentliche Ausschreibungen (Offenes Verfahren) und Beschränkte Ausschreibungen (Nichtoffenes Verfahren). Zweitere können im Bereich der Bauleistungen durchgeführt werden:
 1.	Wenn eine Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit Teilnahmewettbewerb kein annehmbares Ergebnis gehabt hat.
@@ -54,6 +56,7 @@ Vor allem kleine und mittelständische Unternehmen kritisieren den hohen Bürokr
 
 # Quellen
 
+[^0]: http://projektmanagement-definitionen.de/glossar/ausschreibung/
 [^1]: https://buildingradar.com/de/construction-blog/ausschreibung/
 [^2]: https://www.digital-sales.de/ausschreibungen-als-verfahren-des-projektmanagements/#title1
 [^3]: https://buildingradar.com/wp-content/uploads/Freihändige-Vergabe.jpg 
