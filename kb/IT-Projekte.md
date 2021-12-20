@@ -78,6 +78,6 @@ Video: [Wie werden IT-Projekte erfolgreich? von Alexander Bernhardt](https://www
 [^8]: [Gescheitertes IBM-Projekt](https://www.cio.de/a/elf-it-projekte-im-sturzflug,859906)
 [^9]: [Barcode-Scanner mit Lesefehler](https://www.cio.de/a/elf-it-projekte-im-sturzflug,859906,3)
 [^10]: [Elwis Lidl Projekt](https://www.com-magazin.de/praxis/business-it/erfolgreiche-it-projekte-in-stuermischen-zeiten-2656021.html)
-
+ 
 
 
