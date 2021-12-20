@@ -57,6 +57,7 @@ In der öffentlichen Debatte über öffentliche Projekte wird oft an folgende Di
 | Elbphilharmonie    | 77 Mio       | 866 Mio      |
 
 ![Beispielabbildung](Oeffentliche_Projekte/Titelbild_Elbphilharmonie_Laeiszhalle-min-786x442.jpg)
+Elbphilharmonie
 
 
 
