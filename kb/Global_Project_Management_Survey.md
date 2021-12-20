@@ -10,8 +10,7 @@ Die Global Project Management Surveys (GMS) dienen dazu, von Firmen bereits durc
 neue Trends zu identifizieren beziehungsweise neuen Entwicklungsbedarf zu sichten/abzuleiten.
 
 
-# Historische Entwicklung und aktueller Stand zu den Global Project Management Surveys
-
+# Historische Entwicklung und aktueller Stand zu den GMS
 Von der Deutschen Gesellschaft für Projektmanagement e.V. (GPM) wurde erst und auch einmalig eine solche Studie im Jahr 2010 durchgeführt[^1].
 Da es sich hier um einen veraltetet und nicht jährlich aktualisierten Report handelt, wird dieser im weiterem nicht betrachtet und analysiert. Jedoch lässt sich der Report in
 Hinblick auf die Entwicklung des Projektmanagements innerhalb der letzten 10 Jahre als Vergleich zu aktuellen Reports heranziehen.
@@ -49,7 +48,7 @@ Folgender Link ruft die Datenbank mit verschiedenen Filtermöglichkeiten auf:
 [Datenbank Survey 2021](https://public.tableau.com/app/profile/pmi2161/viz/PulseoftheProfession/PulseoftheProfession)
 
 
-# Kernaussagen und Erkenntnisse aus dem Report 2021 [^6]
+# Kernaussagen und Erkenntnisse des Reports 2021 [^6]
 
 Innerhalb des Reports von 2021 wurde vor allem die Corona Situation im Zusammenhang mit der weltweit in Unternehmen durchgeführten Projekttätigkeit Beachtung geschenkt.
 Dabei wurde vor allem hinsichtlich der in den Unternehmen genutzten Projektmanagement Methoden gefiltert und daraus Erkenntnisse abgeleitet.
