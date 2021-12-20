@@ -64,7 +64,7 @@ Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Strukt
 
 # Fazit
 
-Das Voranschreiten der Digitalisierung hat viele Veränderungen für das Projektmanagement und alle Beteiligten gebracht. Um aber auch in der Zukunft weiterhin erfolgreich zu sein, wird sich das Projektmanagement weiterentwickeln und an neue Trends anpassen müssen. Ein Thema, welches dabei sicherlich eine große Rolle spielen wird, ist die [Künstliche Intelligenz (KI)](KI_im_PM.md) und das damit verbundene [Maschinelle Lernen](Machine_Learning_im_Projektmanagement.md).[^9] Von vielen Unternehmen wird die KI nämlich als die wichtigste Zukunftstechonologie gesehen und wird, vor allem in größeren Unternehmen, schon eingesetzt.[^8]
+Das Voranschreiten der Digitalisierung hat viele Veränderungen für das Projektmanagement und alle Beteiligten gebracht. Um aber auch in der Zukunft weiterhin erfolgreich zu sein, wird sich das Projektmanagement weiterentwickeln und an neue Trends anpassen müssen. Ein Thema, welches dabei sicherlich eine große Rolle spielen wird, ist die [Künstliche Intelligenz (KI)](KI_im_PM.md) und das damit verbundene [Maschinelle Lernen](Machine_Learning_im_Projektmanagement.md).[^9] Denn von vielen Unternehmen wird die KI als die wichtigste Zukunftstechnologie gesehen und wird, vor allem in größeren Unternehmen, schon eingesetzt.[^8]
 
 # Siehe auch
 
