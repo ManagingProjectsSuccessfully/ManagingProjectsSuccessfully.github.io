@@ -27,7 +27,7 @@ einzelnen Ziele, Motivationen und Rollen dienen für eine gute Einordnung. Die P
 und der Analyse.[^3]
 
 # Umsetzung
-Am Ende des Prozesses steht die Umsetzung, die sich aus den vorherigen Teilen ergibt. Für eine erfolgreichen Ausgang des Projekts ist hier die Zusammenarbeit 
+Am Ende des Prozesses steht die Umsetzung, die sich aus den vorherigen Teilen ergibt. Für einen erfolgreichen Ausgang des Projekts ist hier die Zusammenarbeit 
 vor allem mit den am stärksten betroffenen Stakeholdern sehr wichtig. Die  Stakeholder müssen gut in das Projekt eingebunden werden damit sie genauestens verstehen was dort 
 passiert und es zu keinen Missverständnissen kommt. So baut man auch im Projektverlauf immer mehr Vertrauen auf.[^3]
 
