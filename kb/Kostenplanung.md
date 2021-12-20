@@ -32,13 +32,21 @@ Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt 
 
 # Siehe auch
 [Projektstrukturplan](Projektstrukturplan.md)
+
 [Aufwands_Kosten_Kontrolle](Aufwands_Kosten_Kontrolle.md)
+
 [Forecasts](Forecasts.md)
+
 [Kosten_Nutzen_Analyse](Kosten_Nutzen_Analyse.md)
+
 [Kosten_Trend_Analyse](Kosten_Trend_Analyse.md)
+
 [Planning_Poker](Planning_Poker.md)
+
 [Planungssicherheit](Planungssicherheit.md)
+
 [Projektmanagement](Projektmanagement.md)
+
 [Schaetzverfahren_Kosten](Schaetzverfahren_Kosten.md)
 
 # Quellen
