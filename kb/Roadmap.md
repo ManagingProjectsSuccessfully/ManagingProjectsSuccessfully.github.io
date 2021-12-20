@@ -10,7 +10,7 @@ anrechnung: k
 Der in verschiedenen Branchen verbreitete Anglizismus Roadmap bedeutet in der deutschen Übersetzung 
 wörtlich "Straßenkarte"[^1]. In Analogie dazu kann sie einen groben Fahrplan für verschiedene 
 Entwicklungsbereiche eines Unternehmens prognostizieren und darstellen. Im [Projektmanagement](Projektmanagement.md) dient die 
-Roadmap vorallem als strategisches Planungswerkzeug.
+Roadmap vor allem als strategisches Planungswerkzeug.
 
 
 # Kategorisierung
@@ -20,13 +20,30 @@ unterscheidet man zwischen vier Arten:
 * Unternehmensspezifische Roadmap
 * Branchenbezogene Roadmap
 * Problemorientierte Roadmap
-* Forschungs- und Entwicklungs-Roadmap für die Politik [^2]
+* Forschungs- und Entwicklungs-Roadmap für die Politik 
+
+Unterscheiden lassen sich die Roadmap-Typen mithilfe von sieben Kriterien: Suchraum, Initiative und Durchführung, Nutzungsbereich, Zielsetzungen, Methodik, Orientierungslogik 
+und zeitlicher Horizont.
+
+In der folgenden Tabelle sollen die unternehmensspezifische und branchenbezogene Roadmap exemplarisch anhand dieser Kriterien verglichen werden [^2]:
+
+| Kriterium | Unternehmensspezifische Roadmap | Branchenbezogene Roadmap |
+|-----|---|--- |
+| Suchraum | Produkt, Produktfamilie |Technologischer Sektor |
+| Initiative und Durchführung | Einzelnes Unternehmen| Zusammenschluss von Unternehmen |
+| Nutzungsbereich | Innerhalb des Unternehmens | Im Zusammenschluss |
+| Zielsetzungen | u.a. F&E-Entscheidungen optimieren | u.a. Wettbewerbsfähigkeit steigern |
+| Methodik | Extrapolation, Szenariotechnik| Workshops, Expertenbefragungen |
+| Orientierungslogik | Technologiegetrieben | Technologiegetrieben |
+| Zeitlicher Horizont | Kurzfristig | Mittelfristig |
+
+_Tabelle 1: Vergleich der unternehmensspezifischen und branchenbezogenen Roadmap (Quelle: eigene Darstellung in Anlehnung an Behrendt (2010))_
 
 Darüber hinaus können Roadmaps auch nach ihren Anwendungsbereichen differenziert werden. So existieren 40 
-verschiedene Typen an Roadmaps. Die häufigst verwendeten sind die Produkt-Roadmap, Technologie-Roadmap, 
+verschiedene Typen an Roadmaps. Die am häufigsten verwendeten sind die Produkt-Roadmap, Technologie-Roadmap, 
 Integrierte Produkt- und Technologie-Roadmap sowie die Projekt-Roadmap [^3].
 
-# Projekt-Roadmap
+## Projekt-Roadmap
 Speziell im Projektmanagement dient die sogenannte Projekt-Roadmap als strategisches Planungswerkzeug. Es 
 wird ein grober visueller Gesamtüberblick über Aufgaben, Ziele und Ergebnisse geschaffen und dabei das 
 [Projekt](Projekt.md) in zeitliche Etappen bzw. Zwischenprojekte unterteilt. Damit wird eine einheitliche Basis zur 
@@ -36,40 +53,40 @@ Vorausschau-Methoden wie etwa die [Szenario-Technik](Szenario_Technik.md) oder a
 Prozess, zukünftige Entwicklungen darzustellen und zu bewerten [^2].
 
 # Roadmapping
-Der Prozess, eine Roadmap zu erstellen und stets auf dem aktuellen Stand zu halten wird auch „Roadmapping“ 
+Der Prozess, eine Roadmap zu erstellen und stets auf dem aktuellen Stand zu halten, wird auch „Roadmapping“ 
 genannt. Die Entwicklung einer Roadmap lässt sich in fünf Kernschritte unterteilen, die in der 
 nachfolgenden Abbildung zusammengefasst werden. Die Vorgehensweise kann ebenfalls auf die verschiedenen 
 Arten von Roadmaps übertragen werden. 
-![Roadm_Erst_Abb1](Roadmap/Roadm_Erst_Abb1.PNG).
+![Roadm_Erst_Abb1](Roadmap/Roadm_Erst_Abb1.PNG)
 
 
-## Definition von Untersuchungsfeldern
+**Schritt 1:** Definition von Untersuchungsfeldern
 Im ersten Schritt findet eine Abgrenzung der zu untersuchenden Objekte statt. Hierzu werden die 
 Untersuchungsfelder sowie das betrachtete Umfeld definiert. Weiter werden Ziele sowie die Zeitskalierung 
 festgelegt [^2].
 
-## Trend-, Bedarfs-/Potenzialanalyse
+**Schritt 2:** Trend-, Bedarfs-/Potenzialanalyse
 Danach findet eine Analyse der Trends, des Bedarfs sowie des Potenzials statt. Herangezogen werden dabei 
 verschiedenste Quellen, wie Literatur, Datenbanken oder auch Expertenbefragungen[^2].
 
-## Identifizierung von Chancen und Risiken
-Im dritten Schritt werden Chancen und Risiken identifiziert. In Folge dessen können Wild Cards bestimmt 
+**Schritt 3:** Identifizierung von Chancen und Risiken
+Im dritten Schritt werden Chancen und Risiken identifiziert. Folglich können Wild Cards bestimmt 
 und Zukunftsbilder gestaltet werden. Zudem werden Arbeitsgruppen zusammengestellt und Aufgaben verteilt 
 [^2].
 
-## Erstellung der Roadmap
+**Schritt 4:** Erstellung der Roadmap
 Für die Erstellung der Roadmap werden alle Ergebnisse der vorherigen Schritte in [Meilensteine](Meilensteine.md) überführt 
 und in die Zeitskala eingetragen. Hiervon lassen sich schließlich Handlungsempfehlungen ableiten und 
 Aktivitäten definieren. Wichtig ist außerdem die Vollständigkeits- und Konsistenzanalyse, bei der die 
 Roadmap auf Lücken sowie inhaltliche und zeitliche Konsistenz überprüft wird [^2].
 
-## Transfer
+**Schritt 5:** Transfer
 Die Erstellung der Roadmap schließt mit dem Transfer und der zielgruppengerechten Aufbereitung zur 
 weiteren Kommunikation mit allen Stakeholdern [^2].
 
 # Exemplarische Darstellung
-Die Visualisierung einer Roadmap kann je nach Projekt variieren. Kennzeichnend sind jedoch folgende 
-Kernelemente, die von der European Industrial Research Management Association (EIRMA 1997) empfohlen 
+Die Visualisierung einer Roadmap kann je nach Projekt variieren. So existieren in der Praxis zahlreiche unterschiedliche Darstellungsformen. Kennzeichnend sind jedoch 
+folgende Kernelemente, die von der European Industrial Research Management Association (EIRMA 1997) empfohlen 
 werden:
 
 1. Zeitstrahl im festgelegten Projekt-Zeitraum
@@ -78,7 +95,7 @@ werden:
 4. Verknüpfung zwischen den Objekten zur Darstellung der Wirkungszusammenhänge [^3]
 
 In der nachfolgenden Abbildung ist eine beispielhafte Visualisierung einer Roadmap skizziert:
-![Roadm_Erst_Abb1](Roadmap/Roadm_Erst_Abb2.PNG).
+![Roadm_Erst_Abb1](Roadmap/Roadm_Erst_Abb2.PNG)
 
 
 
