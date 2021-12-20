@@ -10,7 +10,7 @@ Die Global Project Management Surveys (GMS) dienen dazu, von Firmen bereits durc
 
 
 # Historische Entwicklung und aktueller Stand zu den GMS
-Von der Deutschen Gesellschaft für Projektmanagement e.V. (GPM) wurde erst und auch einmalig eine Studie mit dem Fokus auf Projektmanagement innerhalb von Unternehmen im Jahr 2010 durchgeführt[^1].
+Von der [Deutschen Gesellschaft für Projektmanagement e.V.](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/GPM_Institution.md) (GPM) wurde erst und auch einmalig eine Studie mit dem Fokus auf Projektmanagement innerhalb von Unternehmen im Jahr 2010 durchgeführt[^1].
 Da es sich hier um einen veraltetet und nicht jährlich aktualisierten Report handelt, wird dieser im weiterem nicht betrachtet und analysiert. Jedoch lässt sich der Report in
 Hinblick auf die Entwicklung des Projektmanagements innerhalb der letzten 10 Jahre als Vergleich zu aktuellen Reports heranziehen.
 
@@ -19,7 +19,7 @@ Dieser Report trägt den Namen "Pulse of Profession" und wird durch die Zusammen
 Mitarbeitern erstellt. Durch die Vielzahl an Daten und den jährlichen Befragungsturnus kann der "Pulse of Profession" als eine der wichtigsten Studien in Bezug
 auf Projektmanagement weltweit angesehen werden, der den aktuellen Stand innerhalb der Unternehmen abbilden kann.
 
-Die Herausgeber der Studie, das Project Management Institute wird "als die weltweit führende Autorität im Projektmanagement"[^3][^4][^5] angesehen, wodurch die Daten, 
+Die Herausgeber der Studie, das [Projekt Managment Institute](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMI_Institution.md) wird "als die weltweit führende Autorität im Projektmanagement"[^3][^4][^5] angesehen, wodurch die Daten, 
 deren Erhebung, Verarbeitung und Veröffentlichung als valide angesehen werden kann. 
 
 
@@ -96,8 +96,9 @@ performance."
 Verlinkungen zu Angrenzenden Themen kann erst durchgeführt werden, wenn alle anderen Beiträge verfasst wurden -- Nachtrag in Korrekturphase 1 ....
 
 * [aktuelle Entwicklungen im PM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md) 
-* [Link auf diese Seite](Global_Project_Management_Survey.md)
-
+* [Deutschen Gesellschaft für Projektmanagement e.V.](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/GPM_Institution.md)
+* [Projekt Managment Institute](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMI_Institution.md)
+* 
 # Weiterführende Literatur
 
 Durch die individuelle Datenauswertung mittels der Datenbank lohnt es sich, Zusammenfassungen der Ergebnisse des Berichtes von 2021 von unterschiedlichen 
