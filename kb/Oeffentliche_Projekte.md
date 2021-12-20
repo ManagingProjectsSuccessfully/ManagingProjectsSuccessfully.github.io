@@ -81,11 +81,11 @@ Zu den größten Herausforderungen für das Management von Projekten in öffentl
 
 # Siehe auch
 
-[Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
-[IT-Projekte](https://github.com/AbleAn/ManagingProjectsSuccessfully.github.io/blob/main/kb/IT-Projekte.md)
-[Infrastrukturprojekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Infrastruktur_Projekte.md)
-[Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
-[Praxisbeispiele_gescheiterte_Projetke.](https://github.com/AbleAn/ManagingProjectsSuccessfully.github.io/blob/main/kb/Praxisbeispiele_gescheiterte_Projetke.md)
+* [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
+* [IT-Projekte](https://github.com/AbleAn/ManagingProjectsSuccessfully.github.io/blob/main/kb/IT-Projekte.md)
+* [Infrastrukturprojekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Infrastruktur_Projekte.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Praxisbeispiele_gescheiterte_Projetke.](https://github.com/AbleAn/ManagingProjectsSuccessfully.github.io/blob/main/kb/Praxisbeispiele_gescheiterte_Projetke.md)
 
 
 # Weiterführende Literatur
