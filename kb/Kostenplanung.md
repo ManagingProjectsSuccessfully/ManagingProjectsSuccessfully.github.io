@@ -42,8 +42,8 @@ Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt 
 * [Schaetzverfahren_Kosten](Schaetzverfahren_Kosten.md)
 
 # Weiterführende Litratur
-[Einfache Kostenplanung im Projektmanagement](https://erfolgreich-projekte-leiten.de/kostenplan/)
-[In fünf Schritten zum fertigen Kostenplan in Excel](https://www.projektmagazin.de/artikel/fuenf-schritten-zum-fertigen-kostenplan-excel_1085633)
+* [Einfache Kostenplanung im Projektmanagement](https://erfolgreich-projekte-leiten.de/kostenplan/)
+* [In fünf Schritten zum fertigen Kostenplan in Excel](https://www.projektmagazin.de/artikel/fuenf-schritten-zum-fertigen-kostenplan-excel_1085633)
 
 # Quellen
 
