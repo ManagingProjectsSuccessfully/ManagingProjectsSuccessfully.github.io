@@ -1,104 +1,98 @@
 ---
 title: Projektdokumentation
-tags: agil klassisch
+tags: klassisch
 author: nikl9
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Projektdokumentation um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Projektdokumentation gibt einen detaillierten Überblick über die relevanten Kenntnisse und grundlegenden Inhalte des durchgeführten [Projekts](Projekt.md) und ist für jedes Projekt unerlässlich. Alle wichtigen Schritte während des Projekts werden gut strukturiert zu einer aussagekräftigen Dokumentensammlung zusammengefasst.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
+
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# Allgemeines
 
 
-# Aspekt 1
+Die Projektdokumentation beinhaltet alle Dokumente die für ein Projekt selbst erstellt werden. Sie lässt sich als Gedächtniscontainer aller Vorgänge im Projektverlauf verstehen. Verschiedene Budgets und Ressourcen werden mit der Projektdokumentation festgehalten und überwacht. Damit erfüllt die Projektdokumentation gleich mehrere wichtige Aufgaben. Sie besitzt neben der Protokollfunktion auch die Basis für Entscheidungen, Änderungen, Maßnahmen, Verwaltung und anderer Abläufe während des Projektprozesses. [^1] 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Eine gut geführte Projektdokumentation spiegelt Projektschritte wider und erleichtert die Kommunikation innerhalb des Teams und des Auftraggebers. Die notwendigen Zusammenhänge und Ergebnisse sind an einer Stelle zu finden, was unter anderem eine Rechtsgrundlage schafft und Fehler für zukünftige Projekte vermeidet. [^2]
 
-![Beispielabbildung](Projektdokumentation/test-file.jpg)
 
-*lustiges Testbild*
+# Dokumentationsinhalte festlegen
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Es ist wichtig die Projektinhalte zu definieren, also im Vorhinein festzulegen was alles dokumentiert werden soll und was nicht. So vermindert sich die Informationsmenge sowie der personelle Aufwand, ohne dass dabei relevante Informationen weggelssen werden. [^3]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+## Beispiele für Dokumentationsinhalte [^4]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+| Beispiel         | Erklärung     |
+| ------------ | ------------- |
+| Unterlagen zum Projektablauf  |   Unterlagen wie Dokumente über das Projekt, fertige Aufgaben, Verträge und Vereinbarungen mit Kunden aus vergangenen Projekten haben für zukünftige Projekte einen großen Nutzen.|
+| Meilensteine  | Genaue Ziele zu setzen und Meilensteine zu definieren ist die Basis einer guten Zusammenarbeit innerhalb eines Teams. Entscheidungen sind durch die Dokumentation zusmmengefasst, für alle erkennbar und auch nach dem Projekt noch nachvollziehbar.  |
+| Statusberichte | In einem Team mit mehreren Beteiligten, wird zeitgleich an verschiedenen Prozessen gearbeitet. Eine Übersicht über die einzelnen Arbeitsschritte innerhalb eines Projekts ist daher von großer Bedutung. Durch Berichte der einzelnen [Projektmitarbeiter](Projektmitarbeiter.md) kann dies efizient erreicht werden.  |
+| Protokolle aus Meetings und Workshops | In gemeinsamen Meetings wird die [Projektkommunikation](Projektkommunikation.md) gefördert. Es wird auf Fehler und Mängel hingewiesen und Lösungen erarbeitet. Um selbe Fehler zu vermeiden oder Informationen für die Lösungsbehebung parat zu haben, helfen die aus Meetings und Workshops enstehenden Protokolle. |
+| Projektplanung | Alle Aufgaben die mit dem Projekt in Verbindung stehen beinhaltet der Projektplan. Er besteht aus einzelnen Arbeitsphasen, die auf die Mitarbeiter und Ressourcen aufgeteilt werden. |
+| Zeiterfassung | Durch die Strukturierung der Aufgaben entsteht ein exakter Zeitplan, mit dem die zukünftige Dauer von ähnlichen Aufgaben bestimmt werden kann. |
+| Verwendete Projektmethoden | Methoden mit denen Aufgaben umgesetzt wurden. Beispiele dafür sind der [Projektstrukturplan](Projektstrukturplan.md) , das [Gantt-Diagramm](Gantt_Diagramme.md) oder die [Umfeldanalyse](Umfeldanalyse.md). |
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
+# Verschiedene Phasen der Projektdokumentation
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+<img src="https://www.derpade.de/wp-content/uploads/2016/01/Projektdokumentation.jpg" width="250"> [^5]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+
+* Projektdokumentation während der [Projektplanung](Projektplanung.md)
+* Projektdokumentation während der Projektdurchführung
+* Projektdokumentation während des [Projektabschlusses](Projektabschluss.md)
+
+
+## Projektdokumentation während der Projektplanung
+
+
+Die Projektdokumentation im Sinne der Projektplanung wird auf das Protokollieren von Entscheidungen zur Projektplangestaltung reduziert. Neben der Planung von Zeit und Budget liefert der Projektstrukturplan die Basis für alles , was im Projekt noch passieren wird. Wenn die Entscheidungsfindung bereits gut dokumentiert wird, ist es bei der späteren Bewertung des Projekterfolgs leichter zu erkennen, ob Ungleichgewichte während des Projekts bereits etwas mit der Planung zu tun haben könnten. [^6]
+
+
+## Projektdokumentation während der Projektdurchführung
+
+
+Die Projektdokumentation während der Projektdurchführung umfasst hauptsächlich die Aufgaben des [Projektcontrollings](Projektcontrolling.md) und der Projektzeiterfassung. Durch die kontinuierliche dokumentierung, welche Ressourcen während des Projekts eingesetzt werden, können ständige Soll-Ist-Vergleiche durchgeführt werden. Schon während des Projekts können Sie so feststellen, welche Projekte effizient und welche weniger effizient ablaufen. [^7]
+
+
+## Projektdokumentation während des Projektabschlusses
+
+
+Am Ende des Projekts besteht der Hauptzweck darin die bisher, in der Projektdokumentation, gesammelten Daten zusammenzuführen und das Projekt auszuwerten. Auf Basis der bisherigen Unterlagen kann ein [Projektabschlussbericht](Projektabschlussbericht.md) erstellt werden, der als Diskussionsgrundlage für verschiedene Zwecke dienen kann. Eine gute Projektdokumentation bietet jedoch eine solide Grundlage für unterschiedliche Perspektiven auf das Erfolgspotenzial des Projekts. Speziell für einzelne Bereiche und Tätigkeiten. Spätestens jetzt ist es möglich, die Produktivität von Mitarbeitern und Projektabteilungen zu bewerten und aus potentiellen Fehlern zu lernen und über Verbesserungsmöglichkeiten nachzudenken. [^8]
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektdokumentation.md)
+
+* [Projektstrukturplan](Projektstrukturplan.md)
+* [Projekthandbuch](Projekthandbuch.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
+* https://www.projektassistenz-blog.de/praxistipps-darauf-kommt-es-bei-der-projektdokumentation-an/?cn-reloaded=1
+* https://de.wikipedia.org/wiki/Projektdokumentation
+* https://www.kayenta.de/training-seminar/artikel/projektdokumentation.html
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+[^1]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
+[^2]: https://www.factro.de/blog/projektdokumentation/
+[^3]: https://dieprojektmanager.com/projektdokumentation-wichtige-grundregeln/
+[^4]: https://www.factro.de/blog/projektdokumentation/
+[^5]: https://www.derpade.de/leitfaden-projektdokumentation-fachinformatiker-fuer-anwendungsentwicklungsystemintegration/
+[^6]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
+[^7]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
+[^8]: https://www.timetrackapp.com/blog/projektdokumentation-wichtige-grundregeln/
 

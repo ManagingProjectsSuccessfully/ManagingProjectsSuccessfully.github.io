@@ -1,104 +1,96 @@
 ---
 title: Feedback_Kultur
-tags: agil klassisch
+tags: agil klassisch Feedback Feedback-Kultur Kommunikation Feedbackregeln
 author: Kisara2426
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Feedback_Kultur um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Feedback-Kultur
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![Feedackabblildung](Feedback_Kultur/479EEDD3-1CDC-4BA1-8020-EF050DA5BDF8_4_5005_c.jpeg) 
+[^1]
 
-![Beispielabbildung](Feedback_Kultur/test-file.jpg)
+# 1. Definition 
+[Feedback](https://de.wikipedia.org/wiki/Feedback_(Kommunikation)) ist ein wichtiger Bestandteil der zwischenmenschlichen [Kommunikation](https://managingprojectssuccessfully.github.io/kb/Projektkommunikation.html) und bedeutet jemandem Rückmeldung zu geben. Feedback ist im Idealfall weder wertend noch deutend, lässt keine Interpretation oder Beurteilung zu und dient auch nicht zur Provokation oder gar als Vorwurf. Der Begriff Feedbackkultur beschreibt damit eine von gegenseitigem Vertrauen geprägte Kultur in Unternehmen, in der sich Mitarbeitende unabhängig von Hierarchien und Funktionen regelmäßig gegenseitiges Feedback zu Themen wie beispielsweise deren Leistungen, dem Verhalten aber auch deren Außenwirkung geben. Dieses von Offenheit, Vertrauen und hierarchieübergreifender Kommunikation geprägte Arbeitsklima, lebt von strategisch geplanten sowie mit passenden [Feedbackmethoden](https://managingprojectssuccessfully.github.io/kb/Feedback_Methoden.html) durchgeführten regelmäßigen Rück- und Statusmeldungen. [^2]
 
-*lustiges Testbild*
+# 2. Ziel & Funktion 
+Offene und vor allem angstfreie Kommunikation kann diverse Aspekte eines Unternehmens fördern, wodurch dieses die Möglichkeit erhält neue Ressourcen auszuschöpfen. 
 
-# Aspekt 2
+## 2.1 Funktionen für Mitarbeitende im speziellen:
+* Ermutigt und hebt die Motivation
+* Unterstützt bei der Identifikation mit der Arbeitsumgebung, lässt zielgerichtet arbeiten und bewirkt eine engere Verbindung mit der Aufgabe
+* Ermöglicht klarere Selbsteinschätzung und fördert persönliche Lernprozesse
+* Feststellung des Leistungsniveaus und hilfreich bei der Karriereplanung
+* Effektiviert Fehlersuche und trägt zur Lösung von Missverständnissen und [Konflikten](https://managingprojectssuccessfully.github.io/kb/Konfliktmanagement.html) bei
+* Vertrauen zwischen [Führungskräften und Mitarbeitern](https://managingprojectssuccessfully.github.io/kb/Kommunikation_Projektbeteiligte.html) sowie das Selbstbewusstsein der Mitarbeiter steigen
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## 2.2 Zusätzliche Funktionen für das Unternehmen im Ganzen:
+* Überprüfung unternehmensstrategischer Maßnahmen
+* Entwicklung von Anreiz- und Entlohnungssystemen
+* Schnellere Lern- und Optimierungsprozesse
+* steuert Verhalten der Mitarbeiterschaft
+* Mitarbeiter auf allen Ebenen denken mit und entfalten mehr Eigeninitiative
+* höherer Attraktivität als Arbeitgeber speziell für hochqualifizierte Mitarbeiter
+* reibungslosere Abläufe, da Störfaktoren offen angesprochen werden
+* Mitarbeiter fühlen sich mehr wertgeschätzt und identifizieren sich stärker mit ihrem Arbeitgeber
+* Kontinuierliche Verbesserung wird in der [DNA](https://de.wikipedia.org/wiki/Desoxyribonukleinsäure) der Mitarbeiter, der Organisation verankert 
+[^3][^4][^5]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# 3. Relevanz 
+Die Entwicklung einer Feedbackkultur hat im Unternehmenskontext in den letzten Jahren zunehmend an Bedeutung gewonnen, da deren Strukturen immer stärker vernetzt werden und die Team- und [Projektarbeit](https://managingprojectssuccessfully.github.io/kb/Projekt.html) in ihnen zunehmend zur Regelarbeitsform wird. Gleichzeitig agieren Unternehmen in einem Umfeld, das zunehmend von schnellem Wandel und geringer Vorhersehbarkeit geprägt ist. „Deshalb müssen die Mitarbeiter, sei es allein oder im Team, mehr Eigeninitiative entfalten, wenn die Unternehmen mit der gewünschten oder erforderlichen Geschwindigkeit auf Veränderungen in ihrem Umfeld reagieren möchten“ [^4].
 
-So kann man eine Tabelle erstellen:
+# 4. [Feedbackinstrumente](https://managingprojectssuccessfully.github.io/kb/Feedback_Methoden.html) 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Zu den gängigsten Feedbackmethoden zählen:
+* [Mitarbeitergespräche](https://managingprojectssuccessfully.github.io/kb/Feedbackgespräche.html)
+* 360-Grad-Feedback
+* Upward-Feedback
+[^6]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+# 5. Feedbackregeln 
+Um zielorientiertes Feedback zu gewährleisten, sollten die in der Psychologie und Pädagogik entwickelten Methoden und Regeln für Feedbackgeber und -empfänger befolgt werden. Effektiv können diese Regeln aber nur angewendet werden und Ihre Wirkung in der Veränderung von verhalten entfalten, wenn der Feedbackgeber es ehrlich meint und damit dessen nonverbale Signale mit den verbalen übereinstimmen. Bedeutet, es muss auch viel auf die eigene Gestik und Mimik, nicht nur auf das Gesprochene Wort geachtet werden. Werden die folgenden zehn Regeln von beiden Parteien befolgt, ist das eine solide Grundlage für konstruktives Feedback. 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## 5.1 Feedbackregeln für den Feedbackgeber
+1.	Bereitschaft des Nehmers klären, möchte dieser Feedback erhalten?
+2.	Senden Sie Ich-Botschaften. 
+3.	Konkrete und positive Formulierungen
+4.	Zeitpunkt des Feedbacks sollte zeitnahe liegen
+5.	wertschätzende und konstruktive Rückmeldungen mit Entwicklungsmöglichkeiten 
 
-### Ebene-3-Überschrift
+## 5.2 Feedbackregeln für den Feedbacknehmer 
+1.	konzentriert zuhören und Feedbackgeber ausreden lassen
+2.	Nützliches aufnehmen, das Vernachlässigbare ziehen lassen
+3.	Erklären, rechtfertigen oder verteidigen Sie sich nicht
+4.	Bei Unklarheiten nachfragen 
+5.	dankbar sein
+[^7]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+# 6. Feedbackkreislauf
+Erfolgsversprechender ist Feedback wenn es als fortlaufender Prozess im Unternehmen etabliert wird und nicht als einmalige Aktion verstanden wird. Dieser sich entwickelnde Kreislauf funktioniert dauerhaft, ist unabhängig von zeitlichen Vorgaben und Terminen. Eine richtige Feedback-Kultur kann nur realisiert werden, wenn dieser Prozess zur Routine wird. [^8]
 
-# Aspekt n
+![Feedbackkreislauf](Feedback_Kultur/E6646D14-671A-44EE-B6BD-FC8E474D4E6B.png)[^9]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Feedback_Kultur.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+# 7. Fazit 
+„Von «Feedbackkultur» ist dann die Rede, wenn das Feedback nicht nur als Technik, sondern auch als «Frage der Haltung» verstanden wird, d.h. wenn – neben der Frage nach den richtigen Verfahren und Instrumenten – die individuelle Motivation zum Einholen und zur Nutzung von lernwirksamen Feedbacks wichtig ist„ [^10].
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Feedback-Bild](https://hr-pioneers.com/wp-content/uploads/2014/03/Feedback.jpg)
+[^2]: [So stärken Sie die Feedbackkultur in Ihrem Unternehmen](https://www.umantis.com/personalentwicklung/feedbackkultur?akttyp=direkt&aktnr=84834&wnr=04393689)
+[^3]: [Feedback geben](https://www.berufsstrategie.de/bewerbung-karriere-soft-skills/feedback-geben.php)
+[^4]: [Feedback-Kultur–Definition](https://www.kraus-und-partner.de/wissen-und-co/wiki/feedback-kultur-entwickeln-berater-beratung)
+[^5]: [Was ist Feedback?](https://managementstellen.ch/was-ist-feedback)
+[^6]: [Feedback geben – aber richtig: So etablierst du eine starke Feedbackkultur](https://engage.kununu.com/de/blog/starke-feedbackkultur/#flache-hierarchien-erschweren-die-feedbackkultur)
+[^7]: [FEEDBACKREGELN EINFACH ERKLÄRT - SO GEBEN SIE WERTSCHÄTZENDES UND ERHALTEN QUALIFIZIERTES FEEDBACK](https://shyopa.com/ratgeber/feedbackregeln/)
+[^8]: [Feedbackregeln: So klappt die Rückmeldung](https://karrierebibel.de/feedbackregeln/)
+[^9]: [Bild-Feedbackkreislauf](https://karrierebibel.de/wp-content/uploads/2017/09/Feedbackregeln-Kreisualf-Ablauf-Beispiele-Grafik.png)
+[^10]: [Grundlagen zum Aufbau einer Feedbackkultur](https://www.q2e.ch/wp-content/uploads/sites/162/2020/05/q2e-heft-3-grundlagen-zum-aufbau-einer-feedbackkultur.pdf)
+
+
+
+
+
 

@@ -1,104 +1,61 @@
----
 title: Mindmapping
-tags: agil klassisch
+tags: klassisch mindmapping mindmap mind map projekt projektmanagement
 author: jacobbocai
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Mindmapping um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Einführung & Definition
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Um innerhalb des [Projektmanagements](Projektmanagement.md) den Erfolg eines [Projekts](Projekt.md) zu sichern, gibt es viele Methoden, die Arbeitsweise und den [Projektabschluss](Projektabschluss.md) positiv zu beeinflussen und zu optimieren.
+Eine altbewährte Methode, kreatives, flexibles und hirngerechtes Arbeiten zu ermöglichen, ist das sogenannte Mind-Mapping, welches dazu dient möglichst übersichtlich und einfach Informationen zu einem Überthema grafisch darzustellen. 
+Hierbei werden das zentrale Thema in der Mitte der Karte platziert und Notizen dazu rund um den Themabegriff gesammelt. Dies eignet sich, um eine schnelle und gehaltvolle Übersicht auf den ersten Blick bereitzustellen.
+Vom mittleren Hauptthema gehen Verzweigungen aus, die zu Gedanken und Unterpunkten dessen führen, die sich wiederum in weiterführende Zweige aufgliedern können.[^1]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+![Abbildung](kb/Mindmapping/schema_mindmap.jpg) [^2]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+„Mind-Mapping ist der meines Wissens nach effektivste Mechanismus, um die erhöhte Flexibilität des Denkens wirklich werden zu lassen.“, Peter Kline, Dichter und Lehrer an der University of San Francisco [^3]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Das Konzept des Mind-Mappings wurde von Tony Buzan konzipiert, indem er sich die Frage stellte, wie man sich am besten Dinge merken kann. Er sah darin das Potential, durch Verbildlichung von Texten sowohl die linke als auch die rechte Gehirnhälfte gleichzeitig zu aktivieren und so die Erinnerungsleistung zu optimieren.
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Dieser Behaltensprozess wird schon durch das reine Anfertigen der Grafik angetrieben, welches durch Suchen nach Schlüsselbegriffen und der Gestaltung mit Farben und Formen geschieht. [^4]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+# Programme zur Erstellung
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Um Mindmaps übersichtlich visuell abzubilden, eignen sich einige computergestützte Programme sehr gut. Diese helfen dabei, das systematische Erfassen von Inhalten zu vereinfachen. 
+Der Vorteil darin besteht daraus, die Mindmap relativ simpel zu verändern und gegebenenfalls zu ergänzen. Es bietet außerdem die Möglichkeit mit mehreren [Projektmitarbeitern](Projektmitarbeiter.md) gleichzeitig an einem Inhalt zu arbeiten und ihn so stetig zu verbessern. 
+Die Option zusätzlicher Funktionen, wie dem Hinterlegen von Notizen zu einzelnen Schlüsselbegriffen oder ganzen Dokumenten, wird zusätzlich zu dem grafischen Potential der Gestaltung von Punkten und Unterpunkten angeboten. Auch das Anlegen von Verknüpfungen zu Mailprogrammen kann nützliche Werkzeuge bieten, wie das Verschicken von Erinnerungsterminen. [^4]
 
+# Verwandte Formen
 
-# Aspekt 1
+Eine verbreitete Vorstufe des Mind-Mappings bildet das Clustern. Das Clustern stellt eine Sonderform des Brainstormings dar. Diese Methode stammt aus dem Umfeld kreativen Schreibens. Im Unterschied zur Mindmap soll beim Cluster jede Assoziation aufgeschrieben werden, ohne sie zu bewerten. Ein Cluster hilft dabei, neue Inhalte durch Assoziationen zu generieren und alle Ideen zu einem Thema zu sammeln.[^4][^5] 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Das sogenannte Conceptmapping ist eine abgewandelte Form der Mindmap, bei der Relationen zwischen den einzelnen Unterpunkten hergestellt werden. Durch das komplexe Kombinieren einzelner Stichpunkte miteinander entsteht ein aussagekräftiges Begriffsnetz. Die Beziehungen zwischen den Begriffen werden anhand von teilweise beschrifteten Linien und Pfeilen definiert. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![Abbildung](kb/Mindmapping/Concept-map_Visual_Header.jpg) [^6]
 
-![Beispielabbildung](Mindmapping/test-file.jpg)
+# Einsatzmöglichkeiten von Mindmaps
 
-*lustiges Testbild*
+Da die Mindmap Methode eine sehr vielseitige und in mehreren Bereichen anwendbare Vorgehensweise darstellt, sind die Einsatzmöglichkeiten vielfältig.
 
-# Aspekt 2
+Somit kann Mind-Mapping ein sehr nützliches Werkzeug in der [Projektplanung](Projektplanung.md) sein oder der Strukturierung eines Vortrags dienen. Weitere Anwendungsbereiche sind die Ideenfindung, das Mitschreiben bei Vorträgen, die Texterfassung, das Strukturieren, die Neuordnung von Wissen und die Prüfungsvorbereitung. Einsetzbar ist sie sowohl bei der individuellen Anwendung als auch in kollektiven Gruppenprozessen. [^4]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Fazit
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Mindmapping.md)
+Das Mind-Mapping ist eine sehr nützliche Methode um Projekte zu planen und kann in viele verschiedene Projektphasen eingebunden werden.
+Sie ist sehr unkompliziert anzuwenden und hilft dabei komplexe Zusammenhänge auf einen Blick darzustellen.
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+Maria Beyer: Brainland – Mind Mapping in Aktion. 3. Auflage, Junfermann, Paderborn 2002
+Tony Buzan, Barry Buzan: Das Mind-Map-Buch. Die beste Methode zur Steigerung Ihres geistigen Potentials. Moderne Verlagsgesellschaft, München 2002
+Tony Buzan, Vanda North: Mind Mapping. Der Weg zu Ihrem persönlichen Erfolg. öbv & hpt Verlag, Wien 2005
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: http://methodenpool.uni-koeln.de/download/mindmapping.pdf
+[^2]: https://www.virtuos.uni-osnabrueck.de/en/hochschuldidaktik/methoden/mindmap.html
+[^3]: Peter Kline, Das Alltägliche Genie, Paderborn 1995, S.369) 
+[^4]: https://www.uni-frankfurt.de/53571999/Mindmapping
+[^5]: https://www.stw.berlin/assets/sw-berlin/bereiche/beratung/Schreibzentrum/Lernmaterialien/Handout_Cluster_Mind_Map_Webseite_2020.pdf
+[^6]: https://mint-zirkel.de/2019/08/concept-maps/
 
