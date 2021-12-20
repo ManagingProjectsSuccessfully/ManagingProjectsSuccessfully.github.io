@@ -1,13 +1,19 @@
 ---
 Title: Kanban_Karten
-Tags: Klassisch
+Tags: Klassisch, Agil, Kanban, Kanban-Boards, Kanban_Pull_Prinzip, Kanban_Swim_Lanes, Kanban_Work_in_Progress
 Author: MoritzBock
 Anrechnung: k
 ---
 
-[Kanban](Kanban.md) wörtlich aus dem japanischen Übersetzt bedeutet „visuelle Karte / Zeichen“. Mit dem Ziel einen transparenten Workflow zu generieren und Ausschuss zu vermeiden, sollten ursprünglich die einzelnen Arbeitselemente im Prozess auf einzelnen, damals aus Papier bestehenden, sogenannten Kanban-Karten abgebildet werden. Die einzelnen Arbeitselemente können so den gesamten Prozess über verfolgt werden. Diese Kanban-Karten wiederum werden auf dem [Kanban-Board](Kanban_Boards.md) festgehalten.
-Die Karten bilden das Kernelement eines Kanban-Systems. Sie enthalten viele wichtige Informationen zu den Aufgaben: Status, Aufgabenübersicht, Verantwortliche, Frist, etc. Sie dienen außerdem als Informationsknotenpunkt, da sie frei zugänglich sind und erhöhen somit auch die Transparenz des Gesamtprozesses. Durch die Informationsteilung, wird zudem der Bedarf an Meetings zum Informationsaustausch reduziert.
-Inzwischen wurden die physischen Kanban-Modelle Großteils durch digitale Online-Lösungen ersetzt. Die digitalen Kanban-Karten sind nun besser zugänglich und können ortsunabhängig eingesehen werden. Darüber hinaus können die Karten ansprechender und übersichtlicher gestaltet werden[^1][^2].
+[Kanban](Kanban.md) wörtlich aus dem japanischen Übersetzt bedeutet „visuelle Karte / Zeichen“. Bei der Anwendung von [Kanban](Kanban.md) im Projektmanagement, werden die Kanban-Karten verwendet um die Teilschritte des Gesamtprozesses zu visualisieren. [^1]
+
+# Was sind Kanban-Karten? 
+
+Mit dem Ziel einen transparenten Workflow zu generieren und Ausschuss zu vermeiden, sollten ursprünglich die einzelnen Arbeitselemente im Prozess auf einzelnen, damals aus Papier bestehenden, sogenannten Kanban-Karten abgebildet werden. Die einzelnen Arbeitselemente können so den gesamten Prozess über verfolgt werden. Diese Kanban-Karten wiederum werden auf dem [Kanban-Board](Kanban_Boards.md) festgehalten [^1][^2].
+
+Die Karten bilden das Kernelement eines Kanban-Systems. Sie enthalten viele wichtige Informationen zu den Aufgaben: Status, Aufgabenübersicht, Verantwortliche, Frist, etc. Sie dienen außerdem als Informationsknotenpunkt, da sie frei zugänglich sind und erhöhen somit auch die Transparenz des Gesamtprozesses. Durch die Informationsteilung, wird zudem der Bedarf an Meetings zum Informationsaustausch reduziert. Im Projektmanagement, sorgt die Verwendung von Kanban für einen transparenten Ablauf und die Reduktion von Ausschuss und damit von Materialkosten. Demgegenüber steht ein erhöhter Arbeitsaufwand, der für die Erstellung und Pflege der Kanban-Karten aufgewendet werden muss [^1][^2].
+
+Inzwischen wurden die physischen Kanban-Modelle Großteils durch digitale Online-Lösungen ersetzt. Die digitalen Kanban-Karten sind nun besser zugänglich und können ortsunabhängig eingesehen werden. Darüber hinaus können die Karten ansprechender und übersichtlicher gestaltet werden [^1][^2].
 
 # Aufbau einer Kanban-Karte
 
@@ -21,13 +27,13 @@ Folgende Informationen könnten auf der einer Kanban-Karte abgebildet werden:
 
 | Information | Beschreibung |
 | ------------- | ------------- |
-| Kanbanart | Es sollte leicht erkennbar sein, um welche [Kanbanart](https://de.wikipedia.org/wiki/Kanban#Kanban-Karten) es sich handelt. |
+| Kanbanart | Es sollte leicht erkennbar sein, um welche Kanbanart es sich handelt. |
 | Kanban-Karten-Nr. / Kanban-ID | Kanban-Karten sind durch eindeutige Kennzeichnungen markiert. |
 | Gesamt-Anzahl der Kanban-Karten | Es sollte sowohl erkennbar sein, wie viele Kanban-Karten für einen Artikel im Umlauf sind, als auch um die wievielte Karte es sich bei diesem Exemplar handelt. |
 | Artikel-Nr. | Die Artikel-Nr. entspricht der Nummer aus dem MRP-System |
 | Artikel-Bezeichnung | Die Bezeichnung des Artikels entspricht der Bezeichnung des MRP-Systems |
-| Kanban-Menge | Die Kanban-Menge ist die Menge, die von der [Kanbanart](https://de.wikipedia.org/wiki/Kanban#Kanban-Karten) betroffen ist, also beispielsweise produziert wird. |
-| Quelle / Lieferant | Je nach [Kanbanart](https://de.wikipedia.org/wiki/Kanban#Kanban-Karten) wird hier der Fertigungsbereich, Lieferanten-Nummer und Name, oder der Lagerbereich angegeben. |
+| Kanban-Menge | Die Kanban-Menge ist die Menge, die von der Kanbanart betroffen ist, also beispielsweise produziert wird. |
+| Quelle / Lieferant | Je nach Kanbanart wird hier der Fertigungsbereich, Lieferanten-Nummer und Name, oder der Lagerbereich angegeben. |
 | Lagerort an der Quelle | Der konkrete Lagerort ist wichtig, um Suchzeiten gering zu halten. |
 | Ziel / Verbraucher | Zielbereich wo die Kanban-Menge verbraucht oder umgelagert wird. |
 | Lagerort am Ziel | Konkreter Lagerort im Zielbereich |
@@ -38,7 +44,9 @@ Folgende Informationen könnten auf der einer Kanban-Karte abgebildet werden:
 
 # Gestaltung einer Kanban-Karte
 
-Aufgrund von unterschiedlichen Arbeitsweisen und Prioritäten, werden Kanban-Karten in der Regel speziell auf die individuellen Anforderungen des Unternehmens angepasst. Wichtig hierbei ist, dass stets alle für das Projekt wichtigen Informationen abgebildet werden. Dementsprechend finden nicht immer alle der oben aufgeführten Angaben Einzug auf die Kanban-Karten. Zur besseren Übersichtlichkeit können bei der Gestaltung auch Farbcodes eingesetzt werden. Angestellte erkennen auf diese Weise direkt anhand der Farbe der Karte beispielsweise um welche [Art von Kanban](https://de.wikipedia.org/wiki/Kanban#Kanban-Karten) es sich handelt [^3].
+Aufgrund von unterschiedlichen Arbeitsweisen und Prioritäten, werden Kanban-Karten in der Regel speziell auf die individuellen Anforderungen des Unternehmens angepasst. Wichtig hierbei ist, dass stets alle für das Projekt wichtigen Informationen abgebildet werden. Dementsprechend finden nicht immer alle der oben aufgeführten Angaben Einzug auf die Kanban-Karten. Zur besseren Übersichtlichkeit können bei der Gestaltung auch Farbcodes eingesetzt werden. Angestellte erkennen auf diese Weise direkt anhand der Farbe der Karte beispielsweise um welche Art von Kanban es sich handelt [^2][^3].
+
+Sobald das Projekt die entsprechenden Phasen erreicht, werden die Kanban-Karten von den Projektmitarbeitenden selbst für ihre jeweiligen Zuständigkeitsbereiche erstellt. Anschließend stehen sie auf dem [Kanban-Board](Kanban_Boards.md) dem Team zur Verfügung [^2][^3].
 
 # Siehe auch
 
