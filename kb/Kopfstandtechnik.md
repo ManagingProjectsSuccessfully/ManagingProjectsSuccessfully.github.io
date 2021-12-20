@@ -1,104 +1,90 @@
 ---
 title: Kopfstandtechnik
-tags: agil klassisch
+tags: agil klassisch Kreativitätstechnik Brainstorming Provokationstechnik 6_3_5_Methode Timeboxing Walt_Disney_Methode Negativkonferenz
 author: Aaron-WS
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Kopfstandtechnik um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Einführung
+Die Kopfstandtechnik ist eine Kreativitätstechnik und wird auch als Umkehrtechnik oder Flip-Flop-Technik bezeichnet. [^1]
+Ziel ist es, mit Hilfe eines unkonventionellen Denkmusters den Lösungsraum für ein Problem zu erweitern.
+Da die Technik das Ziel verfälscht, ist sie eine [Provokationstechnik](Provokationstechnik.md). [^2]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Vorgehensweise
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+1. Die Tatsächliche Aufgabe formulieren.
+2. Eine passende Anti-Aufgabe finden.
+3. Ein Brainstorming zu möglichen Lösungen durchführen.
+4. Alle Lösungen umkehren, sodass sie wieder zur ursprünglichen Aufgabe passen.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Erweiterungen und Tipps
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+| Schritt  | Erweiterungen und Tipps |
+| :---: | :---: |
+| 1 | Je detaillierter die tatsächliche Fragestellung ist, desto einfacher wird Schritt 2. |
+| 2 | Statt Verneinungen wie **Nicht** und **Kein** aussagekräftige Verben benutzen. |
+| 3 | Brainwriting anwenden. (z.B. die [6_3_5_Methode](6_3_5_Methode.md)) |
+|   | Die Zeit für das Brainstorming begrenzen. (z.B. mit [Timeboxing](Timeboxing.md)) |
+|   | Die [Walt_Disney_Methode](Walt_Disney_Methode.md) ausprobieren. |
+|   | Eine [Negativkonferenz](Negativkonferenz.md) durchführen und Schritt 4 einsparen :slightly_smiling_face:|
+| 4 | Ideen gut sichtbar im Raum verteilen. |
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Kopfstandtechnik/test-file.jpg)
 
-*lustiges Testbild*
 
-# Aspekt 2
+# Vorteile & Nachteile
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+| Vorteile | Nachteile |
+| :---:| :---: |
+| Die Regeln sind leicht verständlich. | Häufig sind die Ergebnisse Selbstverständlichkeiten.[^3] |
+| Wenig Aufwand und Vorbereitung sind erforderlich. | Nicht jede Anti-Lösung kann umgekehrt werden. |
+|  Es können unerwartete und nützliche Einsichten in die Problemstellung entstehen. | Für die Antilösungen wird ähnliches Fachwissen benötigt, wie zur Lösung der eigentlichen Aufgabenstellung.|
+| Die Methode hat eine niedrige Hemmschwelle für Introvertierte. | Bei komplexen Ideenfindungsaufgaben ist die Methode sehr schwierig anzuwenden. |
+| Die Betriebsblindheit wird durch die ungewöhnliche Art zu denken umgangen. |  |
+| Funktioniert auch als Einzelperson. | |
+| Das Brainstorming kann sehr viel Spaß machen. | |
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+# Beispiele
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## 1. Beispiel: Newsletter-Anmeldeformular
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+1.	Wie gestalten wir das Newsletter-Anmeldeformular, damit es alle Interessenten sicher abonnieren?
+2.	Wie gestalten wir das Newsletter-Anmeldeformular, damit es jeden Interessenten sicher vergrault?
+3.	Viele Pflichtfelder; Viele Seiten, damit Interessenten einen hohen Aufwand vermuten; Keine Autovervollständigung; Navigation per Tabulator-Taste deaktivieren
+4.	Unser Online-Formular zur Newsletter-Anmeldung besteht aus einem einzigen Feld, in dem die E-Mail-Adresse mit Vorschlägen in einer Drop-Down Liste eingetragen wird.
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## 2. Beispiel: Fehlerquote in einer Fabrik
 
-### Ebene-3-Überschrift
+1.	Wie reduzieren wir die Fehlerquote in unserer Fabrik?
+2.	Wie erhöhen wir die Fehlerquote in der Fabrik?
+3.	Wir vergeben einen Preis für die meisten Fehler.
+4.	Wir belohnen die Einhaltung einer Qualitätsvorgabe.
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## 3. Beispiel: Joghurt Herstellung
 
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+| Abbildung 1 |
+| :--- |
+| *Kopfstandtechnik zu der Aufgabe: "Wie verbessern wir Joghurt?". [^2]* |
+| ![](Kopfstandtechnik/Joghurt-Beispiel.JPG) |
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kopfstandtechnik.md)
+* [Provokationstechnik](Provokationstechnik.md)
+* [6_3_5_Methode](6_3_5_Methode.md)
+* [Timeboxing](Timeboxing.md)
+* [Walt_Disney_Methode](Walt_Disney_Methode.md)
+* [Negativkonferenz](Negativkonferenz.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+Edward de Bono. (1996). Serious Creativity: Die Entwicklung neuer Ideen durch die Kraft lateralen Denkens.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]:	 Was ist die Kopfstandtechnik? (o.D.). T2 Informatik. https://t2informatik.de/wissen-kompakt/kopfstandtechnik/
+[^2]: Horton, G. (2001). Die Kopfstandtechnik. Ideenfindung durch Umkehrung der Aufgabenstellung. Magdeburg: Idea Development and Application Lab
+[^3]: Kopfstandtechnik (2021, 03. Februar). Wikipedia. https://de.wikipedia.org/wiki/Kopfstandtechnik

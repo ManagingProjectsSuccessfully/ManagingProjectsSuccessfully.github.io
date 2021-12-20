@@ -2,103 +2,103 @@
 title: Timeboxing
 tags: agil klassisch
 author: janetteschuller
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Timeboxing um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Das Timeboxing ist eine Zeitmanagement-Methode im [Projektmanagement](Projektmanagement.md). Hierbei werden für die zu erledigenden Aufgaben bestimme Zeitslots, die sogenannten Timeboxes, reserviert. Es wird vorher genau festgelegt was in einer Timebox zu erledigen ist und was das Ziel der jeweiligen Timebox ist. Dadurch sind eine klare Planung sowie Struktur der Aufgaben und damit des [Projekts](Projekt.md) garantiert[^1].
 
 
-# Aspekt 1
+# Wie funktioniert Timeboxing?
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die einfache Grundregel des Timeboxing ist die Einteilung der To-dos in Zeitfenster. Die Zeit ist der wichtigste Faktor im Timeboxing und steht maßgeblich für den [Projekterfolg](Erfolgsmessung.md). Timeboxing verfolgt das sogenannte Parkinsonschen Gesetz: "Arbeit dehnt sich in genau dem Maß aus, wie Zeit für ihre Erledigung zur Verfügung steht"[^5]. Im Klartext bedeutet dies, dass man sich mehr Zeit für Aufgaben lässt als man eigentlich für die Erledigung bräuchte. Daraus schöpft das Timeboxing Potenzial und versucht genau dies zu vermeiden. Ein Zeitfenster, also eine Timebox, kann Minuten, Stunden, Tage oder sogar Wochen umfassen, je nach Aufgabe. Hierbei ist es allerdings wichtig realistische Zeitfenster zu wählen. Die zu erledigenden Aufgaben müssen auch wirklich in der gesetzten Timebox zu bewältigen sein. Es ist zudem wichtig Pausen und zusätzliche Timeboxen als Puffer für unvorhersehbaren Mehraufwand einzuplanen. Durch das Timeboxing soll also vermieden werden, dass man sich mit unwichtigen Details aufhält oder gar stagniert. Beim Timeboxing wird nicht einfach drauf los gearbeitet. Dementsprechend soll erreicht werden, dass man sich auf das Wesentliche konzentriert und effizient arbeitet. Timeboxing kann sowohl für Gruppen als auch für die persönliche [Zeitplanung](Zeitplanung.md) genutzt werden[^2][^4].
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Wann sollte man Timeboxing anwenden?[^5]
 
-![Beispielabbildung](Timeboxing/test-file.jpg)
+Wenn man unter Anderem ...
+* viele verschiedene Aufgaben in kurzer Zeit erledigen muss
+* produktiver werden möchte
+* seinen Alltag besser struckturieren möchte 
+* lernen möchte wie lang man tatsächliche für bestimmte Aufgaben braucht
 
-*lustiges Testbild*
 
-# Aspekt 2
+# Der Ablauf von Timeboxing[^4]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+1. Erstellung einer To-do Liste über alle zu erledigenden Aufgaben
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+2. Priorisierung dieser Aufgaben
 
-So kann man eine Tabelle erstellen:
+3. Abschätzung der Dauer der Aufagben
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+4. Timeboxen setzen und mit Zeitrahmen schriftlich festhalten 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# Harte versus weiche Timeboxen
 
-### Ebene-3-Überschrift
+Vor dem Timeboxing muss entschieden werden, ob die jeweiligen Timeboxen hart oder weich sind. Man muss sich bei einem [Projekt](Projekt.md) jedoch nicht auf eine Art Timebox beschränken. Es ist oft sinnvoll zu mixen, je nach dem was eine Aufgabe von einem fordert. Z.B. eignen sich harte Timeboxen umso besser, umso mehr Disziplin eine Aufgabe fordert[^4].
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## Harte Timeboxen 
+Eine harte Timebox endet, wenn die vorgegebene Zeit abgelaufen ist, unabhängig davon, ob die Aufgabe erledigt werden konnte. Somit stellen harte Timeboxen die Erledigung sämtlicher anstehender Aufgaben sicher, erzeugen aber auch mehr Druck. Sie sind besonders dann sinnvoll, wenn bestimmte Aufgaben wiederholt überarbeitet werden müssen. In einem Meeting kann eine Timebox dazu beitragen, dass wirklich alle Tagesordnungspunkte abgearbeitet werden[^3]. 
 
-# Aspekt n
+## Weiche Timeboxen
+Bei weichen Timeboxen muss sich hingegen nicht strikt an die Zeitslots gehalten werden. Sie verstehen sich eher als Hinweis, dass die aktuelle Aufgabe beendet werden sollte und eine Neue bereit steht. Sinnvoll sind sie vor allem bei neuen Aufgaben, bei denen der Arbeitsaufwand vorher noch nicht ganz klar ist. Durch die weiche Timebox kann in einem Team sichergestellt werden, dass alle den gleichen Zeitrahmen verfolgen, dabei jedoch immer noch flexibel sind. In Meetings trägt eine weiche Timebox auch dazu bei, dass alle Tagesordnungspunkte abgearbeitet werden, allerdings mit weniger Druck und ohne möglichen Abbruch gewisser Themen, wie es bei einer harten Timebox der Fall wäre[^3]. 
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
+# Vor- und Nachteile des Timeboxing
+
+## Vorteile
+
+* Klare Struktur 
+* Effektives Arbeiten durch verbindlichen Zietrahmen
+* Reduzierung von Multitasking und Prokrastination
+* Fokus auf das Wesentliche
+* Steigert Motivation und Konzentration [^3][^4]
+
+## Nachteile
+
+* Druck
+* Erfordert viel Disziplin 
+* Qualität leidet bei zu kurz gesetzten Timeboxen
+* Weniger Flexibilität
+* Weniger Zeit für Kreativität [^3][^4] 
+
+# Konkrete Beispiele
+
+ Wochenablauf mit Timeboxing im persönlichen Zeitmanagement: 
+![Timeboxing-Beispiel](Timeboxing/Timeboxing_Beispiel.jpg)
+[^4]
+
+Weitere Beispiele:
+* Bis zum 10.07 soll das Angebot für den Kunden ausgearbeitet werden
+* Die [Stakeholderanalyse](Stakeholderanalyse.md) muss bis 15.12, 12:00 abgeschlossen sein
+* Bis übermorgen 15:00 soll die Kostenanalyse überarbeitet werden
+* Wir haben jetzt drei Stunden Zeit um xy zu besprechen
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Timeboxing.md)
+* [Projekt](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Pomodoro](Pomodoro.md)
+* [SCRUM](SCRUM.md)
+* [Daily SCRUM](Daily_Scrum.md)
+* [Methoden](Methoden.md)
+* [Zeitplanung](Zeitplanung.md)
+* [Self-Management](Self_Management.md)
+* [Ziel Planung](Ziel_Planung.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Timeboxing 2 - Ein Praxisbeispiel](https://www.youtube.com/watch?v=PK1FGQL9ea0)
+* [Zeitmanagement: Timeboxing mit Pomodoro Technik](https://www.leclere-solutions.com/2020/05/18/zeitmanagement-timeboxing-mit-pomodoro-technik/)
+* [Time-Boxing bei SCRUM](https://scrum-master.de/Scrum-Meetings/Time-Boxing)
 
+ 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Timeboxing: Produktiver arbeiten durch klare Zeiten](https://karrierebibel.de/timeboxing/), abgerufen am 20.11.2021
+[^2]: [Timeboxing: So wirst du produktiver!](https://projekte-leicht-gemacht.de/blog/softskills/zeitmanagement/timeboxing/#Was-ist-Timeboxing), abgerufen am 19.11.2021
+[^3]: [Testen Sie Timeboxing: Die zielorientierte Zeitmanagement-Strategie](https://asana.com/de/resources/what-is-timeboxing), abgerufen am 22.11.2021
+[^4]: [Timeboxing: pünktlich Aufgaben erledigen](https://www.fuer-gruender.de/blog/timeboxing/), abgerufen am 21.11.2021
+
+[^5]: [Timeboxing: Bill Gates und Elon Musk schwören auf diese Methode, um ihren Alltag zu optimieren](https://www.stern.de/wirtschaft/timeboxing--diese-methode-nutzen-bill-gates-und-elon-musk--um-ihren-alltag-zu-optimieren-9128992.html), abgerufen am 07.12.2021
 

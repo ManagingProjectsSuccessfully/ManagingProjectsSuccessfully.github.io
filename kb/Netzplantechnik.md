@@ -1,90 +1,52 @@
 ---
 title: Netzplantechnik
-tags: agil klassisch
+tags: klassisch
 author: On11ybid
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Netzplantechnik um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Netzplantechnik ist ein wichtiges Instrument für die Planung und Steuerung von Projekten und somit die Basis einer erfolgreichen Projektplanung. Dabei werden einzelne Teilschritte des Projektes als Knoten dargestellt und gemäß Ihrer zeitlichen Abhängigkeit voneinander als Netz verbunden, um die Reihenfolge aufzuzeigen, in der die Vorgänge durchgeführt werden müssen.[^1] [^2]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Methodik der Netzplantechnik
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+## Elemente von Netzplänen
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Zum Verständnis der Methodik der Netzplantechnik, ist es zunächst notwendig, grundlegende Begriffe zu erklären und die Elemente von Netzplänen deutlich zu machen. Unter einem Graphen im Sinne der Netzplantechnik versteht man eine Menge von Knoten, die durch eine Menge von Kanten einander zugeordnet sind. Einen solchen Graphen zeigt Abb. 1.
+Wird hierauf aufbauend einer Kante durch einen Pfeil eine Richtung gegeben und werden zwei Knoten miteinander verbunden, entsteht ein sogenannter Diagraph.
+Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt. In der Ablaufdarstellung mithilfe eines Netzplans existieren verschiedene Darstellungsformen, allerdings bestehen Netzpläne immer aus Vorgängen und Ereignissen. Ein Vorgang beschreibt den Sachverhalt des Projektablaufs mit einem bestimmten Anfang und einem bestimmten Ende. Es ist ein Ablaufelement, welches immer durch eine bestimmte Dauer gekennzeichnet ist, die benötigt wird um den Vorgang auszuführen. Wenn ein Vorgang beginnt oder endet, dann immer mit dem Eintritt eines Ereignisses. Solch ein Ereignis beschreibt lediglich den Eintritt eines bestimmten Zustandes, und verfügt daher über keine Dauer.[^1]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+![BILD1](https://user-images.githubusercontent.com/92942732/143136980-598270d2-f11d-471c-b123-d31cfe5c757f.jpg)   
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+*Abb.1 Darstellung eines Graphen*
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+![Abbildung 2 (1)](https://user-images.githubusercontent.com/92942732/143137303-a0aa56e0-2962-4e2a-88be-c13925d9d675.jpg)
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+*Abb.1 Darstellung eines Graphen* *;* *Abb.2 Darstellung eines vereinfachten Netzplans (rechts)*
 
+## Arten der Netzplandarstellung
 
-# Aspekt 1
+Für die Darstellung von Projektabläufen mit der In der NPT existieren verschiedene Möglichkeiten um Projektabläufe dazustellen.
+Bei der Ablaufdarstellung  von Projektabläufen mithilfe der  Netzplantechnik gibt es drei Grundarten von Netzplänen. Diese bezeichnet man als Ereignisknoten-, Vorgangspfeil- und Vorgangsknoten-Netzplan[^3] . Grundsätzlich sind zwischen diesen Netzplandarstellungen auch Mischformen möglich. Bei diesen gemischtorientierten Netzplänen werden allerdings im Vergleich zu den nichtgemischten Netzplänen dennoch Vorgänge als auch Ereignisse abgebildet.[^1]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Projektplanung der Netzplantechnik
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Die Projektplanung mithilfe der Netzplantechnik wird besonders in folgende Schritte unterteilt:
 
-![Beispielabbildung](Netzplantechnik/test-file.jpg)
+1. Ablaufplanung (Strukturanalyse und Netzplanerstellung)
+2. Zeitplanung (Berechnung des Netzplans)
+3. Kostenplanung
+4. Kapazitätsplanung
 
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Im Rahmen der Ablaufplanung zerlegt man das Projekt in die einzelnen Vorgänge und identifiziert
+die Anordnungsbeziehungen zwischen diesen Vorgängen.
+Danach folgt mithilfe des Netzplans die strukturelle Darstellung des Projekts. 
+Als nächstes erfolgt mit dem erstellten Netzplan die Zeitplanung des Projekts. 
+Diese umfasst die Bestimmung der frühesten und spätesten Anfangs- sowie Endzeitpunkte der einzelnen Vorgänge.
+Der Zeitbedarf für jeden Vorgang variiert nach den vorhandenen Ressourcen des Unternehmens. Zuerst werden in der Zeitplanung die frühestmöglichen Anfangs- und Endzeitpunkte der einzelnen Vorgänge durch die Vorwärtrechnung[^4] ermittelt. Anschließend bestimmt man die spätestmöglichen Anfangs- und Endzeitpunkte mit der Rückwärtsrechnung[^4].
+Nun erhält man aus der Differenz der spätesten und frühesten Zeitpunkten die Zeitreserven für die Durchführung der Vorgänge. Diese Zeitreserven werden auch Pufferzeiten genannt. Vorgänge die keine Pufferzeiten enthalten, werden kritische Vorgänge genannt.
+Die Verbindung dieser kritischen Vorgänge ergibt den kritischen Pfad und somit den längsten Weg im Netzplan. Sobald sich nur ein einziger kritischer Vorgang verzögert, verlängert sich die gesamte Projektdauer. In jedem Projekt befindet sich mindestens ein kritischer Pfad, welcher den Fertigstellungstermin des Projektes angibt.  Anhand des ermittelten Zeitbedarfs, können von den einzelnen Vorgängen die Kosten bestimmt werden und dadurch die Gesamtkosten des Projekts.
+Mittels der Gegenüberstellung angefallener Ist-Kosten mit den ermittelten Plan-Kosten ist es möglich Abweichungen früh genug zu erkennen und dementsprechend zu Handeln. 
+Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen Voraussetzungen für die Durchführung des Projekts geschaffen werden. Dabei wird eine hohe und gleichmäßige Auslastung der vorhandenen Ressourcen angestrebt.[^1]
 
 # Siehe auch
 
@@ -93,12 +55,11 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Kapahnke (2018): "Grundlagen der Netzplantechnik"
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Kapahnke (2018): "Grundlagen der Netzplantechnik"]
+[^2]: [Homepage Kayenta, Plewa (2021): "NETZPLANTECHNIK: SO GELINGT DIE ERFOLGREICHE PROJEKTPLANUNG ✔"] 
+[^3]: [Wikipedia (2021):"Netzplantechnik"]
+[^4]: [Netzplantechnik] (https://www.bwl-lexikon.de/wiki/netzplantechnik/#3-schritt-die-rueckwaertsterminierung)

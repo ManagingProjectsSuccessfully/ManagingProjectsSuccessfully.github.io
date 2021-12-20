@@ -1,104 +1,91 @@
 ---
 title: Projektmanagement_fuer_die_Energiewende
-tags: agil klassisch
+tags: klassisch
 author: Magnus-schn
-anrechnung: k oder a
+anrechnung: k 
 ---
+# Projektmanagement für die Energiewende
 
-Kurzbeschreibung zu Projektmanagement_fuer_die_Energiewende um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+![Photovoltaik](https://www.co2online.de/fileadmin/_processed_/b/7/csm_photovoltaikanlage-und-windkraftwerk_278dc38ea3.jpg)
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Um die Energiewende in Deutschland durchführen zu können, müssen mehrere Fachbereiche miteinander verbunden werden. Dazu gehören insbesondere Technik, Recht und Wirtschaft. Das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) für eine erfolgreiche Energiewende fokussiert sich auf die Planung und darauffolgende Umsetzung der Energiewende mit zumeist klassischen Projektmanagementtechniken. Das Ziel ist es dabei eine Strategie zu entwickeln, um von fossilen und nicht nachhaltigen Rohstoffen zu erneuerbaren Energien zu wechseln.
+Einen großen gemeinsamen Plan gibt es dafür jedoch nicht. Vielmehr befassen sich Nationen und Unternehmen einzeln bzw. in kleineren Verbänden damit. Als gemeinsame Grundlage gelten Anordnungen der Klimakonferenzen und bereits bekannte Technologien, um erneuerbare Energien zu nutzen, wie z.B. Photovoltaik und Solarthermie bei Sonnenenergie.
+Klassisches Projektmanagement setzt auf Vorausplanen und Einhalten einer Strategie.  Somit werden vorher die Zielvorgaben für bestimmte Aspekte definiert und möglichst im Verlauf des Projektes eingehalten. Dazu gehören Zielvorgaben wie [Qualität des Endprodukts](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Qualitaetsmanagement.md), [Ressourceneinsatz](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Ressourcenplanung.md), [Kosten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md) und Termine
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Ziele
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+  *	Wechsel von fossilen Energieträgern zu erneuerbaren
+  * Gesteigerte Energieeffizienz
+  * Transport der Energie in das ganze Bundesgebiet
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Anforderungen/Qualtität
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+* Stabile und konstante Bereitstellung erneuerbarer Energie
+* Einhalten Rechtlicher Rahmenbedingungen 
+* Lieferung von erneuerbarer Energie in das ganze Bundesgebiet
 
 
-# Aspekt 1
+# Was wird dafür benötigt?
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovoltaik, Biomasse und Geothermie (untergeordnete Rolle bei Stromerzeugung) und eine Erweiterung der Infrastruktur in Form von Netzen, als auch in digitaler Form. Insbesondere auch die Anbindung von weit vom Festland entfernten Windkraftwerken und auch ein Aufbau von Speichermöglichkeiten für erneuerbare Energien und Investitionen in Forschung und Entwicklung, um diese zu optimieren.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Stakeholder
 
-![Beispielabbildung](Projektmanagement_fuer_die_Energiewende/test-file.jpg)
+[Stakeholder](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholdermanagement.md) sind neben Netzbetreibern auch Landes- und Bundesbehörden, Baufirmen, Anwohner- und Interessenverbände sowie Ingenieur- und Planungsbüros.
 
-*lustiges Testbild*
+# Risiken 
+Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) befassen sich Projektleiter mit folgenden Problemen:
+* Hohe Kosten – Aufbau von Anlagen, Netzen und Infrastruktur notwendig
+* Große Stromtrassen oft nicht erwünscht von Anwohnern. Möglichkeit von Demonstrationen und ähnlichem
+* Verfügbarkeit bestimmter Energieträger abhängig von Tages-/Jahreszeit
+* Technologische Herausforderungen
+* Ständige Gesetzesänderungen
+* Abhängigkeit von Netzausbau und Aufbau von Speichermedien
 
-# Aspekt 2
+# Finanzierung 
+Höchste Priorität auf langfristiger Absicherung der Geldmittel. Dabei besteht die Möglichkeit zum Abrufen von vielen verschiedenen staatlichen Fördermitteln und Subventionen
+Viele Konzepte in der die Europäische Investitionsbank als Geldgeber ohne Risikobeteiligung auftritt, dabei agieren Finanzitermediäre/Geschäftsbanken als Mittler.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Riskmanagement Lösungen am Beispiel Biogasanlagen
+* Stetiges kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^1]
+* Störmeldungen ab bestimmten Parametern [^1]
+* Versicherbarkeit nur bei bestand eines Wartungsvertrags [^1]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Derzeitiger Stand
+Der Anteil der Erneuerbaren Energien am deutschen Stromverbrauch lag 2020 bereits bei 45 Prozent.
+Der Anteil der erneuerbaren Energien am gesamten Energieverbrauch – also Strom, Wärme und Verkehr – beträgt mittlerweile fast 20 Prozent.
+Dennoch auch negative Nachrichten, da der Netzausbau nur schleppend vorrangeht 
 
-So kann man eine Tabelle erstellen:
+![Derzeitiger Stand](https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_bdcc5b1633.png)
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# Kritik
+Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^2]
+PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Marchbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^3]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektmanagement_fuer_die_Energiewende.md)
+# Expertise
+Experten raten bei großen [Bauprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Bauprojekte.md)/Infrastrukturprojekten zu klassischen Methoden, da agile Methoden aufgrund der mangelnden Flexibilität der Projekte an neue Rahmenbedingungen ungeeignet sind.
+Dennoch werden Ergänzungen durch agile Hilfsmittel wie [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) und [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md) empfohlen.[^3]
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* https://www.cleanthinking.de/energiewende-in-deutschland-kurzschluss-im-projektmanagement/
+* https://www.amprion.net/Karriere/Unsere-Arbeitswelt/Projektmanagement-f%C3%BCr-die-Energiewende/
+* https://de.linkedin.com/pulse/projektmanagement-der-energiewirtschaft-garant-f%C3%BCr-die-schulte
+* https://wupperinst.org/p/wi/p/s/pd/767
+* https://www.gpm-ipma.de/know_how/fachgruppen/branchenfokussierende_fachgruppen/projektmanagement_fuer_die_energiewende.html
+* https://www.campana-schott.com/ch/de/unternehmen/media-events/detail/energiewende-komplexer-netzausbau-erfordert-effizientes-projektmanagement-1
+* https://www.wirtschaftsrat.de/wirtschaftsrat.nsf/id/8UKHME-ohne-konsequentes-projektmanagement-wird-die-energiewende-nicht-gelingen-de
+* https://elibrary.projektmanagement.digital/article/99.125010/pm201320002
+* Bottcher, J. (2013). Handbuch Offshore-Windenergie (German Edition): Rechtliche, Technische Und Wirtschaftliche Aspekte (1. Aufl.). De Gruyter Oldenbourg.
+* Böttcher, J. (2012). Management von Biogas-Projekten: Rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
+* Valov, B. (2020). Handbuch Netzintegration Erneuerbarer Energien: Netzanschluss, Stromerzeugungsanlagen und Regelung (1. Aufl. 2020 Aufl.). Springer Vieweg.
+* https://www.co2online.de/klima-schuetzen/energiewende/energiewende-definition-ziele-uebersicht/#c150159
+* https://www.co2online.de/klima-schuetzen/energiewende/erneuerbare-energien/
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]:Böttcher, J. (2012). Management von Biogas-Projekten: Rechtliche, technische und wirtschaftliche Aspekte (2012. Aufl.). Springer.
+[^2]: https://www.cleanthinking.de/energiewende-in-deutschland-kurzschluss-im-projektmanagement/
+[^3]: https://de.linkedin.com/pulse/projektmanagement-der-energiewirtschaft-garant-f%C3%BCr-die-schulte
+
 

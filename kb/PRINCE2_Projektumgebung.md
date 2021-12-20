@@ -2,103 +2,64 @@
 title: PRINCE2_Projektumgebung
 tags: agil klassisch
 author: corinnaneubauer
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu PRINCE2_Projektumgebung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+PRINCE2 steht für Projects in Controlled Environments oder auch Projekte in kontrollierten Umgebungen und ist eine auf Prozessen basierende Methode für effektives Projektmanagement. PRINCE2 gilt als das "How to" des Projektmanagements: Es ist flexibel, skalierbar und kann auf die spezifischen Anforderungen eines Unternehmens angepasst werden[^1]. Im folgenden Beitrag soll daher die Projektumgebung von PRINCE2 näher betrachtet werden.
 
 
-# Aspekt 1
+# PRINCE2 Projektumgebung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+PRINCE2 gehört zu den am häufigsten verwendeten [Projektmanagementmethoden](Projektmanagement.md) [^2]. Dank dieser Methode ist es möglich, jederzeit den Beginn, den Verlauf und den Abschluss von Projekten zu kontrollieren. Was genau unter einem [Projekt](Projekt.md) zu verstehen ist, kann man in der Verlinkung nachlesen. Um mehr über PRINCE2 zu erfahren empfehle ich das Kompendium [PRINCE2](PRINCE2.md). 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Was sind die Bestandteile von PRINCE2?
+* [Sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md): Sie definieren die grundlegenden Regeln
+* Sieben Prozesse: Sie beschreiben das schrittweise Vorgehen während dem Projekt 
+* Sieben Themen: Das sind die Aspekte des Projektmanagements, die kontinuierlich behandelt werden müssen [^3]
+ 
+Als wichtigstes Grundprinzip von PRINCE2 kann die Anpassung (Tailoring) an die Projektumgebung genannt werden. Anpassung bezeichnet in diesem Fall die angemessene Anwendung von PRINCE2 auf ein bestimmtes Projekt. Dabei muss der Umfang von Planung und Steuerung sowie der Einsatz von Prozessen und Themen richtig auf das Projekt abgestimmt werden. Nicht zu verwechseln ist die Anpassung mit dem Begriff der Integration, mit dem die reine Einführung (oder auch Embedding) von PRINCE2 in eine Organisation gemeint ist. Oft liegt die Verantwortung nicht zentral bei einer Person, sondern verteilt sich je nach Kompetenz auf mehrere [^4]. 
+ 
 
-![Beispielabbildung](PRINCE2_Projektumgebung/test-file.jpg)
+Die Anpassung an die Projektumgebung kann wie in der Abbildung [^5] erfolgen: 
 
-*lustiges Testbild*
+![Abbildung](PRINCE2_Projektumgebung/PRINCE2_Projektumgebung.png)
 
-# Aspekt 2
+*Anpassung an die Projektumgebung*
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Zum einen können die Techniken/Praktiken durch die Methodik vereinfacht werden. Es wird z.B. auf Dokumente und Berichte verzichtet. 
+Zum anderen finden Meetings weniger formell, sondern auch mal beim Mittagessen statt. 
+Formate werden aufgrund externer Anforderungen, wie Style-Guides, umgestaltet. 
+Die Zusammenführung von einzelnen Berichten zu einem großen kann zu einer Verschlankung bei Projekten führen. 
+PRINCE2 gibt zwar klar definierte Rollen vor, z.B. wird ein Kunde im Projekt als "Abnehmer" definiert, beim Renaming können jedoch in PRINCE2 bestehende Rollen an die im Unternehmen etablierten Terminologien angepasst werden. Nicht angepasst werden hingegen die sieben Grundprinzipien. 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+PRINCE2 ermöglicht also für jedes Unternehmen bzw. teilweise sogar für jedes Projekt eine individuelle Anpassung, um so optimal auf die spezifischen Anforderungen hinsichtlich Umgebung, Umfang, Komplexität, Wichtigkeit, Leistungsfähigkeit und Risiko eingehen zu können [^6]. 
 
-So kann man eine Tabelle erstellen:
+PRINCE2 stellt eine flexible und leicht wiederholbare Anleitung zur Projektplanung dar. Der ursprüngliche Zweck war das Managen von [IT-Projekten](IT-Projekte.md), worauf es aber heutzutage nicht mehr beschränkt ist. Die Erweiterung wäre PRINCE2 agile, wobei es darum geht klassische Projekte mit agilen Methoden wie z.B. [Kanban](Kanban.md) oder [SCRUM](SCRUM.md) kombiniert werden [^7].  
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# Fazit
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+PRINCE2 lässt sich an nahezu jede Projektumgebung anpassen und erweist sich dadurch als äußerst flexibel. Da aber die sieben Grundprinzipien nicht angepasst werden, bleibt immer ein gewisser Rahmen für große und kleine Projekte bestehen, an dem man sich orientieren kann [^8].
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](PRINCE2_Projektumgebung.md)
+* [Projekt](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [PRINCE2](PRINCE2.md) 
+* [PRINCE2_7_Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Buch "Managing Successful Projects with PRINCE2 6th Edition"
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://www.axelos.com/certifications/propath/prince2-project-management 
+[^2]: Buch PRINCE2: Die Erfolgsmethode einfach erklärt. Version 2017 von Fabian Kaiser, Roman Simschek
+[^3]: https://www.maxpert.de/de/profil/schulungsspektrum/prince2-methode-definitionen/506 
+[^4]: https://www.youtube.com/watch?v=zl4zHUtwmSg 
+[^5]: https://www.agile-heroes.de/magazine/prince2-projektumgebung/
+[^6]: https://de.wikipedia.org/wiki/PRINCE2
+[^7]: Benefits and Issues in Managing Project by PRINCE2 Methodology (2017)
+[^8]: https://www.certnow.de/itsm-blog/10-prince2/77-prince2-2017-anpassen-an-die-projektumgebung.html  
