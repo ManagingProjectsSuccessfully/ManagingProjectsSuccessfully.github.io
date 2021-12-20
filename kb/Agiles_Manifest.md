@@ -31,7 +31,7 @@ In der folgenden Grafik sind die vier oben genannten Leitsätze nochmal grafisch
 ![Beispielabbildung](Agiles_Manifest/AM_Prinzipien.jpeg)
 Agiles Manifest - die vier Leitsätze[^4]
 
-Wichtig hier anzumerken, dass für 17 Unterzeichner die Werte auf der rechten Seite durchaus als wichtig eingeschätzt wurden, jedoch schätzen sie die Werte auf der linken Seite von noch größerer Bedeutung ein[^2].
+Wichtig hier anzumerken ist, dass für die 17 Unterzeichner die Werte auf der rechten Seite durchaus als wichtig eingeschätzt wurden, jedoch schätzen sie die Werte auf der linken Seite von noch größerer Bedeutung ein[^2].
 
 
 # Zwölf Prinzipien 
