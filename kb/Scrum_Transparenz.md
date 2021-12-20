@@ -5,7 +5,7 @@ author: Lorybr
 anrechnung: a
 ---
 # Scrum-Transparenz
-Scrum-Transparenz (aus englisch ,,Scrum Transparency“) bildet neben [Scrum-Überprüfung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Ueberpruefung.md) (engl. ,,Scrum Inspection“) und [Scrum-Anpassung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Anpassung.md) (engl. ,,Scrum Adaption“) eine der drei Hauptsäulen von [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) (siehe Bild 1 [^5]). Dabei handelt es sich um die offene Kommunikation und das Teilen von Wissen, sowohl innerhalb als auch außerhalb des Teams [^1].
+Scrum-Transparenz (aus englisch ,,Scrum Transparency“) bildet neben [Scrum-Überprüfung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Ueberpruefung.md) (engl. ,,Scrum Inspection“) und Scrum-Anpassung (engl. ,,Scrum Adaption“) eine der drei Hauptsäulen von [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) (siehe Bild 1 [^5]). Dabei handelt es sich um die offene Kommunikation und das Teilen von Wissen, sowohl innerhalb als auch außerhalb des Teams [^1].
 
 <p align="center">
   <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Transparenz/Bild.png"/>
@@ -54,7 +54,7 @@ Offene Kommunikation und das Teilen von Wissen sind die Grundlagen der Scrum-Tra
 
 ## 2.3	Aktuelle Fortschrittsinformationen
 
-Damit die konsistente Arbeit gesichert wird, muss jeder Mitarbeiter, der CEO und vor allem der Kunde immer wissen, was der neueste Stand des Prozesses ist, was die Neuigkeiten sind und welche Verbesserungspotenziale noch existieren. Alle aus dem Team vertrauen einander und haben den Mut, sich gegenseitig über gute und schlechte Nachrichten auf dem Laufenden zu halten. Ein geeignetes Beispiel ist das ,,[*Daily Scrum*](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md)", welches ein 15-minütiges Meeting für das Scrum-Team ist, in dem sie gemeinsam den aktuellen Stand besprechen, planen oder Informationen teilen können[^4].
+Damit die konsistente Arbeit gesichert wird, muss jeder Mitarbeiter, der CEO und vor allem der Kunde immer wissen, was der neueste Stand des Prozesses ist, was die Neuigkeiten sind und welche Verbesserungspotenziale noch existieren. Alle aus dem Team vertrauen einander und haben den Mut, sich gegenseitig über gute und schlechte Nachrichten auf dem Laufenden zu halten. Ein geeignetes Beispiel ist das ,,*Daily Scrum*", welches ein 15-minütiges Meeting für das Scrum-Team ist, in dem sie gemeinsam den aktuellen Stand besprechen, planen oder Informationen teilen können[^4].
 
 # 3. Fazit
 
@@ -64,15 +64,15 @@ Zusammenfassend lässt sich sagen, dass die Scrum-Transparenz eine wichtige Vora
 # Siehe auch
 
 * [Scrum_Ueberpruefung.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Ueberpruefung.md)
-* [Scrum_Anpassung.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Anpassung.md)
+* [Scrum_Anpassung.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Anpassung.md) (Dieser Beitrag bedarf noch einer Bearbeitung)
 * [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
 
 
 # Weiterführende Literatur
 
-*  Der Scrum Guide - Transparenz der Artefakte (der-scrum-master.com)
-* "Agile" macht ja nur Probleme, oder… — Transparenz muss gewollt sein | CU @ Boeffi .net
-* 	Umgang mit Transparenz | Thorsten Schiffer | Agilität ohne Gedöns (thorsten-schiffer.com)
+*  Der Scrum Guide - Transparenz der Artefakte:https://www.der-scrum-master.com/der-scrum-leitfaden/transparenz-der-artefakte
+* "Agile" macht ja nur Probleme, oder… — Transparenz muss gewollt sein:http://boeffi.net/scrum/agile-macht-ja-nur-probleme-oder-transparenz-muss-gewollt-sein/
+* 	Umgang mit Transparenz | Thorsten Schiffer | Agilität ohne Gedöns (thorsten-schiffer.com):https://thorsten-schiffer.com/umgang-mit-transparenz-was-man-beachten-sollte-wie-man-sie-einfuehrt-und-was-sie-zunichte-macht/
 
 
 # Quellen
