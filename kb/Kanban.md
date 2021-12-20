@@ -2,103 +2,84 @@
 title: Kanban
 tags: agil klassisch
 author: HAhmedFAU
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Kanban um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Kanban gehört als Methode zur Produktionsprozesssteuerung[^1]. Produktionsprozesssteuerung befasst sich mit der Betriebs-, Zeit-, Mengen- und Raumplanung, -steuerung sowie der Steuerung aller für die Warenproduktion erforderlichen Prozesse[^2].
+Kanban ist eine Umsetzung des unter den Synonym [Pull-Prinzip](Kanban_Pull_Prinzip.md) bekannten Steuerungsverfahrens[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das Kanban-Verfahren basiert vollständig auf dem tatsächlichen Materialverbrauch an den Versorgungs- und
+Verbrauchsstellen[^1]. Es kann den lokalen Bestand an Vorprodukten in und in der Nähe der Produktion reduzieren, 
+die in der nächsten Integrationsstufe installiert werden[^1].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Kanban in Bezug auf Projektmanagement ist einer der einfachsten und am schnellsten umsetzbaren Prozesse im agilen Projektmanagement und zusammen mit Scrum in vielen Unternehmen sehr beliebt[^3]. Zum einen lassen sich alle Arbeitsschritte und Workflows einfach in einen übersichtlichen Plan einfügen, strukturieren und Schritt für Schritt abarbeiten[^3]. Andererseits kann die Verwendung von Kanban die Aufgabe für alle Projektbeteiligten sichtbar machen[^3].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Entstehung des Kanban-Systems
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Diese Methode wurde 1947 von Toichi Ōno für den Automobilkonzern Toyota entwickelt[^3]. 
+So entwickelte Ōno aufgrund von teueren Speicherplätzen ein Konzept zur kurzfristigen Terminplanung und Bestandsreduzierung[^3]. 
+Als Orientierung diente hier das Beispiel Supermarkt-Einkauf: Wenn eine bestimmte Art und Menge an Waren aus dem Regal genommen wird, 
+werden diese schnellstmöglich entsprechend nachgefüllt[^3].
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Im übertragenen Sinn auf Produktionsprozess gibt es [Kanban-Karten](Kanban_Karten.md): Mit Hilfe derer wird ein Signal an die vorgelagerte Abteilung gesendet,
+um ihnen mitzuteilen, welche Anzahl und welches Produkt reproduziert werden soll[^3]. 
+Kanban bedeutet auf Japanisch so viel wie eine "Karte" oder "Tafel"[^3]. 
+Das System wurde in Japan schnell erfolgreich und gelangte schließlich in den 1970er Jahren in die Vereinigten Staaten und in Europa[^3].
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Zu Beginn des 21. Jahrhunderts sahen die großen Akteure der Softwarebranche schnell, wie Kanban aktiv die Art und Weise verändert, wie Produkte und Dienstleistungen bereitgestellt werden[^4]. 
+Mit der zunehmenden Aufmerksamkeit für Effizienz und den Einsatz von Computertechnologie hat Kanban den Automobilbereich verlassen und wurde erfolgreich auf andere komplexe Geschäftsfelder wie IT, Softwareentwicklung sowie Forschung und Entwicklung angewendet[^4]. 
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Anfang 2007 wurde die heute anerkannte Kanban-Methode geboren[^4]. Dies ist das Ergebnis jahrelanger Tests, Erfahrung und Zusammenarbeit von Führungskräften in der Lean und Agil Community (wie David Aderson, Dan Vacanti, Darren Davis, Corey Ladas, Dominica DeGrandis, Rick Garber usw.)[^4].
 
+# Aufbau des Kanban-Systems
 
-# Aspekt 1
+Der Aufbau des Kanban-Systems beginnt mit dem einfachsten [Kanban-Board](Kanban_Boards.md) mit drei grundlegenden Spalten:
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+* „Angefordert“
+* „In Bearbeitung“
+* „Fertig“
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![Beispielabbildung](Kanban/Kanban_board-elements.png)
 
-![Beispielabbildung](Kanban/test-file.jpg)
+*[Kanban-Board](Kanban_Boards.md)[^4]*
 
-*lustiges Testbild*
+Bei richtigem Aufbau, Verwaltung und Funktion dient es als Echtzeit-Informationsspeicher, der Engpässe innerhalb des Systems und alles andere aufzeigt, 
+was eine reibungslose Arbeitspraxis stören könnte[^4].
 
-# Aspekt 2
+# Vergleich [Scrum](Scrum.md) und Kanban
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Grundsätzlich hilft Kanban [Scrum](Scrum.md)-Projekten, die Transparenz aller Teammitglieder zu erhöhen[^5]. 
+Eine höhere Transparenz kann beispielsweise sinnvoll sein, wenn ein Team von einem anderen Team abhängig ist und daher Identitäten austauschen muss[^5]. 
+Durch die Anzeige- und Nutzungsbeschränkungen kann jedes Team sehen, wie beschäftigt andere Teams sind und was sie gerade tun[^5]. 
+Darüber hinaus kann der Einsatz von [Swim-Lanes](Kanban_Swim_Lanes.md) für eine bessere Übersicht sorgen und soll die Qualität der Kommunikation mit den Kunden verbessern[^5]. 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
+| [Scrum](Scrum.md)         | Kanban        |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Verwendung von Kompläxität bzw. Storypoints als Kennzahl, um Prozessverbesserungen zu planen. | Verwendet Durchlaufzeit (Leadtime) als Kennzahl, um Prozessverbesserungen zu planen und zu avaluieren.|
+| Schätzungen werden vorgeschrieben.  | Schätzungen sind optimal.|
+| Setzt voraus, dass ein [Scrum](Scrum.md)-Board nach jedem Sprint zurückgesetzt wird. | Ein [Kanban-Boards](Kanban_Boards.md) ist presistent|
+| Setzt ein priorisiertes Produkt-Backlog voraus. | Priorisierung ist optimal. Eine Selektion am Eingang der Dienstleistung ermöglicht ein Zusammenführen mehrerer Bachlogs.|
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+*Vergleich von [Scrum](Scrum.md) und Kanban[^5]*
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kanban.md)
+* [Kanban_Pull_Prinzip](Kanban_Pull_Prinzip.md)
+* [Kanban_Boards](Kanban_Boards.md)
+* [Kanban_Work_in_Progress](Kanban_Work_in_Progress.md)
+* [Kanban_Karten](Kanban_Karten.md)
+* [Kanban_Swim_Lanes](Kanban_Swim_Lanes.md)
+* [Scrum](Scrum.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+https://www.youtube.com/watch?v=iVaFVa7HYj4 - Atlassian
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://de.wikipedia.org/wiki/Kanban
+[^2]: https://de.wikipedia.org/wiki/Produktionsplanung_und_-steuerung
+[^3]: https://magazin.weka-elearning.de/kanban
+[^4]: https://kanbanize.com/kanban-resources/getting-started/what-is-kanban
+[^5]: Michael Städler, André von Zobeltitz 2020, Entwicklung und Erprobung von IT-Anrechnungsstudiengängen: Abschließende Erkenntnisse aus dem deutschlandweit ersten derartigen Forschungsprojekt "Open IT", 1.Auflage

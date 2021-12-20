@@ -1,104 +1,111 @@
 ---
 title: Wissenslandkarte
-tags: agil klassisch
+tags: agil 
 author: Za22Regi
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Wissenslandkarte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Ein Unternehmen[^1], viele Standorte und eine große Mitarbeiterzahl. Unter diesen Umständen kann sich sehr schnell viel Wissen ansammeln und die Herausforderung besteht dann darin, den Überblick beizubehalten und Transparenz zu schaffen. 
+In diesem Beitrag wird es um sogenannte „Wissenslandkarten“ gehen. 
+Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und deren Zusammenhänge und eignen sich besonders dafür Arbeitsabläufe effektiver und effizienter darzustellen. Sie referenzieren auf Experten-, Team-, Mitarbeiterwissen, Wissensentwicklungsphasen und organisatorische Abläufe und Fähigkeiten. Wichtig zu erwähnen ist, dass die Wissensinhalte an sich nicht dort abgelegt werden, sondern lediglich der Verweis auf das verankerte Wissen. 
 
 
-# Aspekt 1
+# Inhaltsverzeichnis
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+1. Begriffserklärung
+2. Arten von Wissenslandkarten                 
+3. Vor- und Nachteile
+   1. Vorteile
+   2. Nachteile
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Wissenslandkarte/test-file.jpg)
+## 1. Begriffserklärung
 
-*lustiges Testbild*
+*„Knowledge is a valuable asset, but not if you can't find it when you need it. Increasingliy, organizations are creating "maps" of their intellectual assets and letting them guide the way.“* - (C. Hildebrand[^2])
 
-# Aspekt 2
+Das Strukturieren von Wissen ist, nach Golinsky[^3], essenziell. In einem Unternehmen kommen die unterschiedlichsten Mitarbeiter mit den verschiedensten Fähigkeiten zusammen.  Eine Folge hiervon ist die Bildung eines großen und meist unstrukturierten Pools an Wissen.  
+Zum Erhalt der Wettbewerbs- und Innovationsfähigkeit von Unternehmen spielt das Wissenskapital einer Organisation eine gravierende Rolle. 
+Um den Überblick und die Transparenz über das Wissenspotenzial der Mitarbeiter nicht aus den Augen zu verlieren, kommt das Tool des [Wissensmanagements](Wissensmanagament.md), Wissenslandkarten, in den Einsatz. *„Es sollen nicht mehr nur Elemente isoliert voneinander betrachtet werden, sondern es soll strukturelles Wissen in seiner vollen Komplexität erfasst und bewertet werden.“* - (Ott 2003[^4]).
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Die Kunst besteht darin die Kernkompetenzen der Unternehmung darzustellen. 
+Wissenslandkarten sind eine grafische Darstellung von Wissensgebieten und deren Zusammenhänge. Sie ermöglicht zum einen den freien Zugang auf Wissensträger und Wissensobjekte und zum anderen werden sie zur Verwaltung von Wissenskapital in Unternehmen genutzt. 
+Nach Heyer[^5] ist es mit Wissenslandkarten möglich in Form eines Grafen eine Übersicht wesentlicher Schlüsselwörter einer Textsammlung und deren inhaltliche Vernetzung darzustellen. Viel wichtiger als die Strukturierung der Tiefenebenen, ist die Vermessung der unterschiedlichen Themenfelder. 
+Im Folgenden ist ein Beispiel für eine Wissenslandkarte abgezeichnet.
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+![Wissenslandkarte](Wissenslandkarte/Wissenslandkarte.png)
 
-So kann man eine Tabelle erstellen:
+*Wissenslandkarte[^6]*
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## 2. Arten von Wissenslandkarten
+Folglich werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufgeführt: 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+| Deutsche Bezeichnung      | Englische Bezeichnung       |  Beispiel                   |
+| ----------------------    | -------------               | --------------------------  |
+| Wissensträgerkarten       |  Knowledge source map       | Gelbe Seiten                |
+| Wissensbestandskarten     |  Knowledge asset map        | Rechenzentrum               |
+| Wissensstrukturkarten     |  Knowledge structure map    | MindMaps                    |
+| Wissensanwendungskarten   |  Knowledge application map  | Geschäftsprozesse           |
+| Wissensentwicklungskarten |  Knowledge development maps | Beziehungsnetze             |
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+*Arten von Wissenslandkarten*[^7]
 
-### Ebene-3-Überschrift
+## 3. Vor- und Nachteile[^8]
+Es stellt sich nun die Frage: 
+Lohnt sich die Einführung von Wissenslandkarten oder wäre dies nur eine reine Zeitverschwendung?
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+### Vorteile 
 
-# Aspekt n
+- Strukturierung von Wissensquellen
+- Optimale Ausschöpfung der Wissensressourcen
+- Darstellung von Wissen um Überblick
+- Schaffung von Ordnung 
+- Erkennung von Themengebiete und Ansprechpartner 
+- Erleichterte Erschließung von Wissen 
+- Schnelle und effektive Aneignung und Findung von neuem Wissen
+- Transparenz und freier Zugang zu Informationen für alle Mitarbeiter
+- Erkennung der Kernkompetenzen 
+- Identifikation des Unternehmens 
+- Direkte Umsetzung der Kompetenzen in Projekte 
+- Übersichtliche Darstellung von Texten 
+- Einfachere Einarbeitung neuer Mitarbeiter
+- Kontakt zu Experten 
+- Kosten- und Zeitvorteil
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+### Nachteile
+
+- Überflutung von Informationsanfragen
+- Gefahr der Überstreitung der Privatsphäre der Mitarbeiter
+- Wahrung des Betriebsgeheimnisses  
+- Durch grafische Darstellung, keine dynamischen Aspekte möglich
+- Fehlende automatische Aktualisierung des neu erlernten Wissens
+- Aufwendige Erstellung einer Wissenslandkarte
+- Hohe Produktions- und Wartungskosten
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Wissenslandkarte.md)
+* [Wissensmanagement](Wissensmanagament.md)
+* [Wissensspirale](Wissensspirale.md)
+* [Wissensmarkt](Wissensmarkt.md)
+* [Wissenstransfer](Wissenstransfer.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Hildebrand, 1998: Mapping the Invisible Workplace
+* [Wissenslandkarte](https://wiki.cogneon.de/Wissenslandkarte)
+* Lorenz, 2012: Wissenslandkarten, Wirtschaftsinformatik (Master)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Unternehmen](https://de.wikipedia.org/wiki/Unternehmen)
+[^2]: Hildebrand, 1998: Mapping the Invisible Workplace
+[^3]: [Agile Verwaltung](https://agile-verwaltung.org/tag/wissenslandkarte/)
+[^4]: [Wissenslandkarten als Instrument des kollektiven Wissensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?forumid=286&v=1&id=166113)
+[^5]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/file/BA_Tina_Giersch.pdf)
+[^6]: [Wissenslandkarte](Wissenslandkarte/Wissenslandkarte.png)
+[^7]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
+[^8]: [Vor- und Nachteile](https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Wissensmanagement/Wissensorganisation--Instrumente-der-/Wissenslandkarte)
+
+
 
