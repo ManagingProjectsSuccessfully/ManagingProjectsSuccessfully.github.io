@@ -9,7 +9,7 @@ Soft Skills sind deine persönlichen Fähigkeiten, Charakterzüge, Verhaltenswei
 
 
 # Soft Skills
-Softskills im Projektmanagement definieren persönliche Werte (z. B. Fairness & Respekt), persönlichen Eigenschaften (z. B. Geduld), individuellen Fähigkeiten (z. B. Kritikfähigkeit) und soziale Kompetenzen (z. B. Kommunikationsfähigkeit) von Führungskräften und Mitarbeitern eines Unternehmens[^4].
+Soft Skills definieren persönliche Werte (z. B. Fairness & Respekt), persönlichen Eigenschaften (z. B. Geduld), individuellen Fähigkeiten (z. B. Kritikfähigkeit) und soziale Kompetenzen (z. B. Kommunikationsfähigkeit) von Führungskräften und Mitarbeitern eines Unternehmens[^4].
 
 ## Softskills im Projektmanagement
 
