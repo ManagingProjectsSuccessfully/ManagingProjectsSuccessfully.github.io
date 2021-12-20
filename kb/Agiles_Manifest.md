@@ -26,12 +26,12 @@ Im Folgenden soll nun auf die vier Leitsätze, sowie die 12 Prinzipien des agile
 * Zusammenarbeit mit dem Kunden ist wichtiger als Vertragsverhandlung
 * Reagieren auf Veränderung ist wichtiger als das Befolgen eines Plans[^3]
 
+Wichtig hier anzumerken ist, dass für die 17 Unterzeichner die Werte auf der rechten Seite durchaus als wichtig eingeschätzt wurden, jedoch schätzen sie die Werte auf der linken Seite von noch größerer Bedeutung ein[^2].
+
 In der folgenden Grafik sind die vier oben genannten Leitsätze nochmal grafisch dargestellt und zusammengefasst:
 
 ![Beispielabbildung](Agiles_Manifest/AM_Prinzipien.jpeg)
 Agiles Manifest - die vier Leitsätze[^4]
-
-Wichtig hier anzumerken ist, dass für die 17 Unterzeichner die Werte auf der rechten Seite durchaus als wichtig eingeschätzt wurden, jedoch schätzen sie die Werte auf der linken Seite von noch größerer Bedeutung ein[^2].
 
 
 # Zwölf Prinzipien 
