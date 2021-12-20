@@ -43,12 +43,12 @@ Diese Methode stellt eine Variante des laufenden und regelmäßigen Forecastings
 ## Effektbasierter Forecast 
 Beim effektbasierten Forecast liegt der Fokus auf Effekten und Maßnahmen, die große Veränderungen vorhersagen. Hier wird zwischen wenig beeinflussbaren Effekten wie zum Beispiel den Wegfall von Patenten und beeinflussbaren Maßnahmen wie zum Beispiel der Kürzung des Werbeetats unterschieden. Es werden hier insbesondere Effekte berücksichtigt, die stark vom Basis-Forecast abweichen, um große Effekte in den Fokus zu stellen sowie diese transparent und berichtsfähig zu machen[^2]. 
 
-![Abbildung-Effektbasiert](https://github.com/eftalyaumat/ManagingProjectsSuccessfully.github.io/blob/main/Verwaltung/Projekt/forecast-controlling-abb-2-453396-4.jpg?raw=true)
+![Abbildung-Effektbasiert](Forecasts/EffektbasierterForecast.jpg)
 
 ## Werttreiberbasierter Forecast 
 Der werttreiberbasierte Ansatz setzt auf eine Prognose anhand weniger Kennzahlen. Das Hauptaugenmerk liegt bei dieser Methode auf zuvor festgelegten relevanten Geschäftstreiber wie beispielsweise Menge, Preis, Personalkosten. Auf Basis der Vorhersage dieser Werttreiber errechnet sich damit der Forecast für die relevanten Kennzahlen des Projektes[^2]. 
  
-![Abbildung-Werttreiber](https://github.com/eftalyaumat/ManagingProjectsSuccessfully.github.io/blob/main/Verwaltung/Projekt/forecast-controlling-abb-3-453398-4.jpg?raw=true)
+![Abbildung-Werttreiber](Forecasts/WerttreiberbasierterForecast.jpg)
 
 
 # Siehe auch
