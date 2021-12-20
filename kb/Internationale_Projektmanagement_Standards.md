@@ -21,10 +21,10 @@ Bei der Anwendung des PMBOK werden innerhalb des Projektes 49 Prozesse in einer 
 Projektphasen orientiert. 
 Ebenfalls hervorzuheben ist der sogenannte PMI’s Code of Ethics and Professional Conduct, der vor der Zertifizierung akzeptiert werden muss und zur Rechtschaffenheit verpflichtet.[^5]
 
-<img width="249" alt="PMI" src="https://user-images.githubusercontent.com/92951568/141460006-2da954c5-d970-454e-91c6-56e3717fe39e.png">
+![image](https://github.com/Laura1mueller/ManagingProjectsSuccessfully.github.io/blob/main/kb/Internationale_Projektmanagement_Standards/PMI.png)
+
 Abbildung: Beispiel Projektgruppen und Wissensgebiete des PMBOK PM.
 
-![Beispielabbildung](Internationale_Projektmanagement_Standards/IPMA.jpg)
 
 ## IPMA Indvidual Competence Baseline (ICB4)
 
@@ -36,8 +36,9 @@ notwendig sind, was auch als „Eye of Competence“ bezeichnet wird. Der Standa
 
 ICB4 wird weltweit in über 71 Ländern verwendet und es gibt über 250.000 Zertifikate weltweit. [^4]
 
-<img width="210" alt="IPMA" src="https://user-images.githubusercontent.com/92951568/141460092-d1243f27-cf6b-4942-a454-58ac034497c6.png">
-Abbildung: Eye of Competence, GPM Deutsche Gesellschaft für Projektmanagement e.V.
+![image](https://github.com/Laura1mueller/ManagingProjectsSuccessfully.github.io/blob/main/kb/Internationale_Projektmanagement_Standards/IPMA.png)
+
+Abbildung: Zusammensetzung IPMA Kompetenzen
 
 ## Prince2 (PRoject IN Controlled Environments)
 
@@ -50,9 +51,9 @@ bearbeiten sind) und 7 Prozessen. Die Planungstechnik basiert auf einem Produkt,
 Eine weitere Besonderheit ist zudem, dass dieser PM Standards ein Projekt als „für einen befristeten Zeitraum geschaffene Organisation“ definiert. Durch viele  
 Arbeitsvorlagen und eine produktbasierte Planung, lässt sich Prince 2 gut mit anderen Standards kombinieren.[^5]
 
-<img width="304" alt="MPS" src="https://user-images.githubusercontent.com/92951568/141459894-b992b1a0-5732-4eeb-a5f9-99e8aa0cac38.png">
-Abbildung: Aufbau von Prince2. 
+![image](https://github.com/Laura1mueller/ManagingProjectsSuccessfully.github.io/blob/main/kb/Internationale_Projektmanagement_Standards/Prince2.png)
 
+Abbildung: Aufbau Prince2
 
 # Siehe auch
 
