@@ -7,7 +7,7 @@ anrechnung: a
 
 Der Begriff des Feedbacks hat seinen Ursprung in der Kybernetik und bedeutet so viel wie Rückmeldung oder Rückkoppelung. Wenn man Feedback gibt, teilt man seine Wahrnehmung über
 eine Person oder Leistung dieser mit. Es gibt verschiedene Formen des Feedbacks beispielsweise im klassischen oder agilen [Projektmanagement](Projektmanagement.md).[^1][^2]
-Jede einzelne bezeichnet man als Feedbackmethode.
+Jede Einzelne bezeichnet man als Feedbackmethode.
 
 
 # Auswahl der richtigen Feedbackmethode
