@@ -93,8 +93,6 @@ performance."
 
 # Siehe auch
 
-Verlinkungen zu Angrenzenden Themen kann erst durchgeführt werden, wenn alle anderen Beiträge verfasst wurden -- Nachtrag in Korrekturphase 1 ....
-
 * [aktuelle Entwicklungen im PM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md) 
 * [Deutschen Gesellschaft für Projektmanagement e.V.](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/GPM_Institution.md)
 * [Portfoliomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md)
@@ -105,6 +103,7 @@ Verlinkungen zu Angrenzenden Themen kann erst durchgeführt werden, wenn alle an
 * [Projektmanagement Methoden](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md)
 * [Projektumfang](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektumfang.md)
 * [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md)
+
 # Weiterführende Literatur
 
 Durch die individuelle Datenauswertung mittels der Datenbank lohnt es sich, Zusammenfassungen der Ergebnisse des Berichtes von 2021 von unterschiedlichen 
