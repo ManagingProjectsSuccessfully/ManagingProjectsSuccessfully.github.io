@@ -10,10 +10,10 @@ Der "Objectives-and-Key-Results-Ansatz" (kurz OKR) geht auf ein in den 1970er Ja
 # 1. Inhalt
 1. [Inhalt](OKR_Ansatz.md#1-inhalt)
 2. [Beschreibung der Methode](OKR_Ansatz.md#2-beschreibung-der-methode)
-   1. [Grundlagen](OKR_Ansatz.md#21-grundlagen)
-   2. [Objectives](OKR_Ansatz.md#22-objectives)
-   3. [Key Results](OKR_Ansatz.md#23-key-results)
-   4. [Beispiele](OKR_Ansatz.md#24-beispiele)
+   1. [Grundlagen](OKR_Ansatz.md#i-grundlagen)
+   2. [Objectives](OKR_Ansatz.md#ii-objectives)
+   3. [Key Results](OKR_Ansatz.md#iii-key-results)
+   4. [Beispiele](OKR_Ansatz.md#iv-beispiele)
 3. [Abgrenzung zur SMART-Methode](OKR_Ansatz.md#3-abgrenzung-zur-smart-methode)
 4. [Bezug zum Projektmanagement](OKR_Ansatz.md#4-bezug-zum-projektmanagement)
 5. [Siehe auch](OKR_Ansatz.md#5-siehe-auch)
@@ -21,25 +21,25 @@ Der "Objectives-and-Key-Results-Ansatz" (kurz OKR) geht auf ein in den 1970er Ja
 7. [Quellen](OKR_Ansatz.md#7-quellen)
 
 # 2. Beschreibung der Methode
-## 2.1. Grundlagen
+## i. Grundlagen
 Die Basis des OKR-Ansatzes bildet der Strategieplanungsprozess. Hierbei werden klassisch die mittel- und längerfristigen Ziele des Unternehmens (Leitbild und Strategie) abgebildet. In Abgrenzung zu anderen Methoden werden in der konkreten Strategieumsetzung quartalsweise Zyklen definiert, in denen die OKRs von oben nach unten ([Top Down Planning](Top_Down_Planning.md)) geplant und aufeinander abgestimmt werden. Die Ziele sollen innerhalb des Zyklus umgesetzt und deren Erreichung regelmäßig überprüft werden.[^1]
 
 ![Das OKR-Framework](OKR_Ansatz/OKR-Framework.png)
 
 Abbildung: [Objectives and Key Results : Die Grundlagen der agilen Managementmethode OKR](https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6668403)
 
-## 2.2. Objectives
+## ii. Objectives
 Objectives sollen in einem Satz beschreiben, was im nächsten Zyklus erreicht werden soll und gleichzeitig alle [Stakeholder](Stakeholdermanagement.md) begeistern.[^2]
 Sie bilden somit ab, was es im folgenden Quartal zu erreichen gilt.[^1]
 Für die Definiton ist es wichtig, dass das Management sich auf die wichtigsten Ziele der kommenden Periode fokussiert, diese Initiativen dann in die einzelnen Teams trägt und so  alle Ebenen des Unternehmens klare Prioritäten vorgegeben bekommen, nach denen jede:r handeln möchte und handelt.
 Zur Evaluation werden am Ende Objectives und Key Results gegenübergestellt.[^3]
 
-## 2.3. Key Results
+## iii. Key Results
 Key Results greifen die inspierend ausgedrückten Objectives auf und quantifizieren diese. Sie bilden damit ab, wie die Ziele zu erreichen sind.[^2]
 In der Regel sollten zwei bis vier Key Results pro Objective formuliert werden, wodurch eine messbare Verbindung zu den Objectives geschaffen wird, um während der Periode überprüfbare Zwischenstände und am Ende eine klare Evaluation des Erfüllungsgrads zu ermöglichen.
 Der Grund für die Mehrdimensionalität der Key Results ist die Vermeidung von Zielkonflikten, die bei Verfolgung nur eines quantitativen Ziels auftreten können.[^1]
 
-## 2.4. Beispiele
+## iv. Beispiele
 * **Objective:** *"Unser Prozess der Software-Entwicklung ist jetzt schneller, effizienter und hochwertiger, um zuverlässigere Produkte zu ermöglichen"*
 * **Key Results:**
     * In jedem [Sprint](SCRUM.md) werden mindestens 69 [Story Points](SCRUM.md) erreicht
