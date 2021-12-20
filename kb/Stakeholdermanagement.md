@@ -19,7 +19,7 @@ Ein Beispiel wären Lieferanten oder Kunden. Am wichtigsten sind aber die sogena
 Hat man diesen Schritt erledigt kann man sich der Analyse der Stakeholder zuwenden. Das Projektmanagement muss sich genauestens überlegen wie die Stakeholder zum Projekt
 stehen, wie viel Einfluss sie auf dieses haben und welche Interessen sie vertreten. In einer Matrix mit den wichtigsten Faktoren Einfluss und Interesse lässt sich dies am 
 besten darstellen. Nachdem man die unerschiedlichen Stakeholder dort eingeordnet hat, ist es leichter das Projekt zu planen und sich auf die Reaktionen der Stakeholder vorzubereiten.[^3]
-![StakeholderMatrix](https://user-images.githubusercontent.com/92984271/142934621-3e0e289f-0b86-47f0-a6cc-fc8397af9f02.png)
+![StakeholderMatrix](https://user-images.githubusercontent.com/92984271/142934621-3e0e289f-0b86-47f0-a6cc-fc8397af9f02.png)[^3]
 
 # Planung
 Nach der Identifikation und der Analyse sollte in die Planung übergegangen werden. Hauptsächlich muss das Mitwirken der Stakeholder im Projekt geplant werden. Die 
