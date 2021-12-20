@@ -16,7 +16,7 @@ Scrum-Transparenz (aus englisch ,,Scrum Transparency“) bildet neben [Scrum-Üb
 # Inhaltsverzeichnis 
 
 1. [Problemstellung](#1.problemstellung)
-2. [Definitionen und Merkmale](#definitionenundmerkmale)
+2. [Definitionen und Merkmale](#2.definitionenundmerkmale)
 
     2.1 Begrifflichkeiten
   
