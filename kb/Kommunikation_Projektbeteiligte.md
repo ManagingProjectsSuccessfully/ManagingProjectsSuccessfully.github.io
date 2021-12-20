@@ -1,104 +1,64 @@
 ---
 title: Kommunikation_Projektbeteiligte
-tags: agil klassisch
+tags:  klassisch
 author: 12Yousuf
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Kommunikation_Projektbeteiligte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Inhaltsverzeichnis
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+1. [Definition Kommunikation](#definition-kommunikation)  
+2. [Kommunikationsarten](#kommunikationsarten)  
+2.1 [Paraverbale Kommunikation](#paraverbale-kommunikation)  
+2.2 [Nonverbale Kommunikation](#nonverbale-kommunikation)
+3. [Der Weg zur effizienten Kommunikation unter Projektbeteiligten](#der-weg-zur-effizienten-kommunikation-unter-projektbeteiligten)
+4. [Sender Empfänger Modell](#sender-empfänger-modell)
+5. [Quellen](#quellen)
 
 
-# Aspekt 1
+# Definition Kommunikation 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Das Mittel zur Verständigung unter Menschen ist die Kommunikation. Mit Hilfswerkzeugen, wie Mimik, Gestik, Stimme, Körperhaltung und die menschliche Sprache können die Menschen miteinander interagieren. Sowohl im Privat- als auch im Berufsleben kommunizieren wir ständig und sind auf die Kommunikationsfähigkeit der anderen angewiesen. Das Problem ist hier jedoch, dass die Hilfswerkzeuge anfällig für Störungen sind und somit Informationen falsch weitergegeben und aufgenommen werden. Dadurch können Streitigkeiten und Missverständnisse entstehen und die zwischenmenschliche [Interaktion](https://github.com/SimaSol/ManagingProjectsSuccessfully.github.io/blob/main/kb/Interaktion.md) wird gestört.[^1]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Kommunikationsarten 
+Es wird vor allem unter nonverbaler und paraverbaler Kommunikation unterschieden.[^2]
+## Paraverbale Kommunikation
+Der Begriff paraverbale Kommunikation umfasst das ganze Spektrum der verbalen Kommunikation, mit der wir Informationen vermitteln. Folgende Komponenten spielen dabei eine wichtige Rolle:
+*	Stimmlage (hoch/tief, tragend/zitternd/krächzend),
+*	Lautstärke (angenehm/unangenehm laut / allzu leise)
+*	die Aussprache (deutlich/undeutlich/genuschelt)
+*	die Betonung einzelner Wörter oder Satzteile
+*	das Sprechtempo (schnell/langsam)
+* die Sprachmelodie (Modulation – eintönig/moduliert/singend)
 
-![Beispielabbildung](Kommunikation_Projektbeteiligte/test-file.jpg)
+Das Schweigen und Redepausen spielen ebenfalls eine wichtige Rolle und sind ein Teil der Komponenten.
+Die paraverbalen Faktoren sind außerdem Kultur bzw. Region abhängig. Das bedeutet Informationen können je nach empfinden anders wahrgenommen werden und haben folglich eine andere Bedeutung [^3][^4]
+## Nonverbale Kommunikation
+Bei der nonverbalen Kommunikation wird im Gegenteil zur paraverbalen die Kommunikation nicht durch Worte bzw. Sprache geäußert. Informationen werden also vermittelt, ohne etwas zu sagen jedoch damit ist nicht die Schriftsprache noch die Gebärdensprache gemeint. Folgende Komponenten spielen dabei eine wichtige Rolle: 
+*	Blick (Blickkontakt fixieren, halten oder wegschauen, Augen rollen etc.)
+* Mimik (Bewegung der Mundwinkel, Augenlider, Nasenflügel etc.)
+*	Gestik (einhändig, beidhändig, gar keine, ruhig, nervös, ausholend, etc.)
+*	Habitus (Frisur, Make-up, Kleidung, «Accessoires» wie Hund, Auto etc.)
+*	Haltung (aufrechte/gebeugte Haltung, fester/unsicherer Stand/Gang etc.) 
 
-*lustiges Testbild*
+ Laut Studien wird die zu übermitteln Botschaft zu 90 Prozent mit notverbaler und paraverbaler Kommunikation zum Ausdruck gebracht.[^5][^6]
+# Der Weg zur effizienten Kommunikation unter Projektbeteiligten
+Die Kommunikation unter Projektbeteiligten ist eines der wichtigsten Bestandteile eines erfolgreichen Projektes. Da in Projekten die Aufgaben meist unter den Teampartnern aufgeteilt werden, hilft die Kommunikation dabei die ausgearbeiteten Informationen auszutauschen. Bei guter Kommunikation können des weiteren Missverständnisse vermieden werden. Die im [Projekt](https://github.com/jonaskarg187/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) beteiligten bzw. die Stakeholdern-/innen müssen sich dazu persönlich weiterentwickeln, um eine reibungslose Kommunikation erzielen zu können. Dies kann durch sogenannten Kommunikation Skills erreicht werden. Dazu gehört es nicht nur Informationen gut übermitteln zu können, sondern auch die Information der anderen Teilnehmer richtig interpretieren und deuten zu können. Die Kommunikationsfähigkeit lässt sich wie jede andere Fähigkeit durch [Events](https://github.com/Tjara1/ManagingProjectsSuccessfully.github.io/blob/main/kb/Events.md), Training und Übungen verbessern. Es gibt Seminare und Kurse, in denen man explizit darauf eingeht, wie eine erfolgreiche Kommunikation auszusehen hat. 
+Seit längerer Zeit beschäftigten sich auch schon Große Philosophen mit dem Thema Kommunikation und arbeiteten verschieden [Methoden](https://github.com/Theresa1703/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) und Modelle aus.[^7] 
+# Sender Empfänger Modell 
+Eines der grundlegendsten Kommunikationsmodelle ist das Sender Empfänger Modell nach Shanon Weaver. Es beschreibt die den Kommunikationsverlauf zwischen dem Sender und dem Empfänger. Hier wird eine Nachricht vom Sender kodiert und nach der Übertragung auf der Empfängerseite wieder dekodiert. Im ideal fall funktioniert das, jedoch kann es durch aus passieren das Störungen auftreten und beispielsweise Informationen auf der Empfänger Seite verfälscht ankommen. Die Störungen können unterschiedliche Ursachen haben. „Dies können einerseits uneinheitlicher Code auf Sender- und Empfängerseite z. B. Mehrdeutigkeiten, implizit vorausgesetztes Vorwissen, Transformationseffekte, unterschiedliche Sprachen und evtl. daraus entstehende Übersetzungsfehler, kulturelle Unterschiede und andererseits Störungen während der Übertragung sein“.[^8]
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kommunikation_Projektbeteiligte.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+![Beispielabbildung](Kommunikation_Projektbeteiligte/Bild02.jpg)
+*Abbildung 1* [^9]
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Kommunikation(landsiedel-seminare)](https://www.landsiedel-seminare.de/coaching-welt/wissen/lexikon/kommunikation.html)
+[^2]: [Kommunikationsarten(knowunity)](https://knowunity.de/knows/deutsch-kommunikationsarten-verbal-nonverbal-paraverbal-87115)
+[^3]: [ParaverbaleKommunikation(ikud)](https://www.ikud.de/glossar/paraverbal.html)
+[^4]: [ParaverbaleKommunikation(kuerzeundwuerze)](https://kuerzeundwuerze.ch/wissenswertes/wissen-von-a-z/paraverbale-kommunikation/)
+[^5]: [NonverbaleKommunikation(onpulson)](https://www.onpulson.de/lexikon/nonverbale-kommunikation/)
+[^6]: [NonverbaleKommunikation(kuerzeundwuerze)](https://kuerzeundwuerze.ch/wissenswertes/wissen-von-a-z/nonverbale-kommunikation/)
+[^7]: [DerWegzureffizientenKommunikationunterProjektbeteiligten(proventis)](https://www.proventis.net/de/projektmanagement-begriff/kommunikation-im-projektteam)
+[^8]: [SenderEmpfängerModell(sophist)](https://www.sophist.de/fileadmin/user_upload/Bilder_zu_Seiten/Publikationen/RE7/Webinhalte_BT2/Kapitel_8/Kommunikationsmodelle.pdf)
+[^9]: [SenderEmpfängerModell(Wikipedia)](https://de.wikipedia.org/wiki/Datei:Sender-Empfänger-Modell.svg)
