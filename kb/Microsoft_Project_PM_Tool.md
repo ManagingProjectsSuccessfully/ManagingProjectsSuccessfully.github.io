@@ -53,7 +53,7 @@ Die Benutzeroberfläche von MS Project verwendet das übliche Design der Office 
 Die Tabelle gliedert das Projekt in Form von Sammelvorgängen (Überpunkten) und Prozessen (Unterpunkten).
 Die sich in der Beschreibung befindliche Abbildung 1 ist in der Tabelle als Kopfzeile aufzufinden.
 Die Auflistung der Prozesse ist mit dem Balkendiagramm verknüpft, sodass eine Änderung in der Visualisierung mit einem Nachtrag in der Gliederung und umgekehrt einhergeht.
-Im Gantt Diagramm sind Vorgänge abgebildet, die nach Fortschritten prozentual bewertet und farblich gekennzeichnet werden.
+Im Gantt-Diagramm sind Vorgänge abgebildet, die nach Fortschritten prozentual bewertet und farblich gekennzeichnet werden.
 Der Meilenstein am unteren, rechten Bildschirmrand repräsentiert ein Zwischenziel mit angehängtem Datumsformat, auf welches hingearbeitet wird.
 
 [^4]
