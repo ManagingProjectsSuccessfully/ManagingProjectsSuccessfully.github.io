@@ -66,7 +66,7 @@ Der Meilenstein am unteren, rechten Bildschirmrand repräsentiert ein Zwischenzi
 
 Im Anschluss folgt eine Anleitung für die Nutzung des Programms MS Project.
 
-### 1. Projektstart: über Register „Projekt“ unter „Projektinformationen“ definieren.
+### 1. Projektstart: über Register „Projekt“ unter „Projektinformationen“ definieren
 
 Der erste Schritt in einem Projekt sollte mit der Definition des Projektstarts beginnen. 
 Der Projektstart ist zugleich ein Fixpunkt, an diesem sich alle neuen Vorgänge orientieren.
