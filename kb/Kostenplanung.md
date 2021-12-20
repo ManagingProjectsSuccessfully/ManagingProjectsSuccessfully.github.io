@@ -31,15 +31,15 @@ Die gesamte Kostenplanung sollte sorgfältig auf Fehler überprüft werden, denn
 Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt anfallenden Kosten. Innerhalb des Projektmanagements ist sie aus vielen Gründune unersetzlich. Zur Planung wird das Projekts mittels eines Projektstrukturplans in kleine Arbeitsschritte geteilt. Außerdem wird bei anfallende Kosten zwischen Einzel- und Gesamtkosten unterschieden.
 
 # Siehe auch
-*[Projektstrukturplan](Projektstrukturplan.md)
-*[Aufwands_Kosten_Kontrolle](Aufwands_Kosten_Kontrolle.md)
-*[Forecasts](Forecasts.md)
-*[Kosten_Nutzen_Analyse](Kosten_Nutzen_Analyse.md)
-*[Kosten_Trend_Analyse](Kosten_Trend_Analyse.md)
-*[Planning_Poker](Planning_Poker.md)
-*[Planungssicherheit](Planungssicherheit.md)
-*[Projektmanagement](Projektmanagement.md)
-*[Schaetzverfahren_Kosten](Schaetzverfahren_Kosten.md)
+* [Projektstrukturplan](Projektstrukturplan.md)
+* [Aufwands_Kosten_Kontrolle](Aufwands_Kosten_Kontrolle.md)
+* [Forecasts](Forecasts.md)
+* [Kosten_Nutzen_Analyse](Kosten_Nutzen_Analyse.md)
+* [Kosten_Trend_Analyse](Kosten_Trend_Analyse.md)
+* [Planning_Poker](Planning_Poker.md)
+* [Planungssicherheit](Planungssicherheit.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Schaetzverfahren_Kosten](Schaetzverfahren_Kosten.md)
 
 # Quellen
 
