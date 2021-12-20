@@ -5,7 +5,7 @@ author: faucahvd
 anrechnung: a
 ---
 
-*Sprint Planung* (Von englischem Sprint-Planning) ist einer von alle fünf "Events" des agilen Tools Scrum.
+*Sprint Planung* (Von englischem Sprint-Planning) ist eines von fünf "Events" des agilen Tools Scrum.
 # Inhalt
 1. [Sprint-Planung](#sprint-planung)
 2. [Das Meeting](#das-meeting)
