@@ -13,7 +13,7 @@ Sie kamen in einer Lodge im Snowbird-Skigebiet für drei Tage zusammen, um zu re
 Es besteht aus 4 Leitsätzen und 12 Prinzipien.
 Das agile Manifest ist ein Meilenstein und bietet zu gleich die Grundlage für agiles Projektmanagement[^2].
 
-Unter den Erstunterzeichnern befinden sich auch die beiden Scrum-Gründern Ken Schwaber und Jeff Sutherland, sowie die Vertreter von DSDM, Adaptive Software Development, Crystal und viele weitere. Alle hatten ein gemeinsames Ziel, eine Alternative zu dokumentgetriebenen, schwergewichtigen Softwareentwicklungsprozessen zu finden. Dabei entstand das Agile Manifest, mit Hilfe dessen man endlich den bis dahin unscharfen Begriff der „leichtgewichtigen Software-Entwicklung“ ersetzen konnte[^1].
+Unter den Erstunterzeichnern befinden sich auch die beiden Scrum-Gründern Ken Schwaber und Jeff Sutherland, sowie die Vertreter von DSDM, Adaptive Software Development, Crystal und viele weitere. Alle hatten ein gemeinsames Ziel, eine Alternative zu dokumentgetriebenen, schwergewichtigen Softwareentwicklungsprozessen zu finden. Dabei entstand das Agile Manifest, mithilfe dessen man endlich den bis dahin unscharfen Begriff der „leichtgewichtigen Software-Entwicklung“ ersetzen konnte[^1].
 
 
 Im Folgenden soll nun auf die vier Leitsätze, sowie die 12 Prinzipien des agilen Manifests eingegangen werden, sowie dessen aktuelle Bedeutung. 
@@ -26,16 +26,17 @@ Im Folgenden soll nun auf die vier Leitsätze, sowie die 12 Prinzipien des agile
 * Zusammenarbeit mit dem Kunden ist wichtiger als Vertragsverhandlung
 * Reagieren auf Veränderung ist wichtiger als das Befolgen eines Plans[^3]
 
-In der folgenden Grafik sind die vier oben genannten Leitsätze nochmal graphisch dargestellt und zusammengefasst:
+In der folgenden Grafik sind die vier oben genannten Leitsätze nochmal grafisch dargestellt und zusammengefasst:
 
 ![Beispielabbildung](Agiles_Manifest/AM_Prinzipien.jpeg)
+Agiles Manifest - die vier Leitsätze[^5]
 
 Wichtig hier anzumerken, dass für 17 Unterzeichner die Werte auf der rechten Seite durchaus als wichtig eingeschätzt wurden, jedoch schätzen sie die Werte auf der linken Seite von noch größerer Bedeutung ein[^2].
 
 
 # Zwölf Prinzipien 
 
-1. Unsere höchste Priorität ist es, den Kunden durch frühe und kontinuierliche Auslieferung wertvoller Software zufrieden zu stellen
+1. Unsere höchste Priorität ist es, den Kunden durch frühe und kontinuierliche Auslieferung wertvoller Software zufriedenzustellen
 2. Heiße Anforderungsänderungen selbst spät in der Entwicklung willkommen. Agile Prozesse nutzen Veränderungen zum Wettbewerbsvorteil des Kunden
 3. Liefere funktionierende Software regelmäßig innerhalb weniger Wochen oder Monate und bevorzuge dabei die kürzere Zeitspanne
 4. FachexpertInnen und EntwicklerInnen müssen während des Projekts täglich zusammenarbeiten
@@ -52,7 +53,7 @@ Wichtig hier anzumerken, dass für 17 Unterzeichner die Werte auf der rechten Se
 # Heutige Bedeutung
 
 Wie schon am Anfang erwähnt, bildet das Agile Manifest bis heute die Grundlage für das Agile Projektmanagement. Im Laufe der Jahre sind viele weitere Befürworter hinzugekommen. 
-Bis heute wird das agile Projektmanagement gerne neben den klassischen Methoden genutzt und findet sich vielen verschieden Methoden mit unterschiedlichen Ausprägungen wieder[^2].
+Bis heute wird das agile Projektmanagement gerne neben den klassischen Methoden genutzt und findet sich vielen verschiedenen Methoden mit unterschiedlichen Ausprägungen wieder[^2].
 
 
 # Siehe auch
@@ -62,11 +63,18 @@ Bis heute wird das agile Projektmanagement gerne neben den klassischen Methoden 
 
 
 # Weiterführende Literatur
+
 [Software Engineering Tutorial Deutsch #6 - Das Agile Manifest](https://www.youtube.com/watch?v=aN-6Ha66Q9U)
+
+
+# Abildungsverzeichnis
+
+[^5]: [Agiles Manifest - die vier Prinzipien](https://synapsenstau.de/agiles-manifest/)
+
 
 # Quellen
 
-[^1]: [Agile Manifesto - Gesichte](https://agilemanifesto.org/history.html)
+[^1]: [Agile Manifesto - Geschichte](https://agilemanifesto.org/history.html)
 [^2]: [Agiles Projektmanagement - Agile Manifesto](http://agiles-projektmanagement.org/agile-manifesto/)
 [^3]: [Agile Manifesto - Leitsätze](https://agilemanifesto.org/iso/de/manifesto.html)
 [^4]: [Agile Manifesto - Prinzipien](https://agilemanifesto.org/iso/de/principles.html)
