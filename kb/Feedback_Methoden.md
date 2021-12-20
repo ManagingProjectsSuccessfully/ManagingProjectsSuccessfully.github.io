@@ -62,6 +62,8 @@ verschiedenen Stakeholdern, bietet das agile Projektmanagement ein geringeres Ri
 # Siehe auch
 
 * [Feedback_Methoden](Feedback_Methoden.md)
+* [Feedbackgespräche](Feedbackgespräche.md)
+* [Feedback_Kultur](Feedback_Kultur.md)
 * [Projekt](Projekt.md)
 * [Retrospective](Retrospective.md)
 * [Projektmitarbeiter](Projektmitarbeiter.md)
