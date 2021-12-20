@@ -24,17 +24,17 @@ Zuerst sollte die Frage geklärt werden, zu welchem Zeitpunkt das Werkzeug seine
 Der Planungsbedarf resultiert aus einem anstehenden Vorhaben, bei welchem die Abläufe noch nicht vollständig ausgearbeitet sind und Unsicherheiten bestehen.
 Kurzgefasst, werden mit dem Programm Prozesse und Meilensteine visuell sowie tabellarisch verknüpft und je nach Detaillierungsgrad abgebildet.
 Bevor die Einarbeitung mit dem Programm startet, wäre es nach Herrn Schwab sinnvoll, sich folgende Fragen zu stellen: 
-* wie lauten die Vorhaben 
-* wie lange dauern sie an 
-* welche Abhängigkeiten existieren 
-* und welche Ressourcen sind von Nöten?
+* wie lauten die Vorhaben, 
+* wie lange dauern sie an, 
+* welche Abhängigkeiten existieren und
+* welche Ressourcen sind von Nöten?
 
 Diese Fragestellungen oder Überlegungen zur Strukturierung des Projekts, können in Projects unter:
-* Vorgänge 
-* Dauer
-* Vorgänger / Nachfolger 
-* sowie Ressourcen
- 
+* Vorgänge, 
+* Dauer,
+* Vorgänger / Nachfolger sowie
+* Ressourcen 
+
 angewendet werden (vgl. Abbildung 1).
 Für die Gliederung eines Projekts gibt es unterschiedliche Anzeigemöglichkeiten. Die hier beschriebene Ansicht verkörpert das Gantt Diagramm, welches in Kombination mit einer Tabelle angezeigt wird.
 Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines Projektsteuerers.[^2]
