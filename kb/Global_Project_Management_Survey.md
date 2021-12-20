@@ -31,7 +31,7 @@ deren Erhebung, Verarbeitung und Veröffentlichung als valide angesehen werden k
 *	Zeigt aktuelle und zukünftige Entwicklungen im Bereich des [Projektmanagements](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) unter Einbezug von Marktforschungen die Einblicke in das Arbeitsleben von Projekt-, Programm- und 
   Portfoliomanagern gewähren (siehe auch [Portfoliomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md) und [Programmmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Programmmanagement.md) )
 *	Für den Report wird eine große Anzahl an unterschiedlichen Branchen und Regionen befragt
-*	Der Report ist auf der Internetseite des PMI kostenlos zur Verfügung gestellt
+*	Der Report ist auf der Internetseite des [PMI](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMI_Institution.md) kostenlos zur Verfügung gestellt
 *	Die Befragung wird jährlich, je nach aktueller Situation, variiert. Bei der Befragung 2020/2021 wurde vor allem der weltweiten Coronapandemie im Zusammenhang mit traditionellen und agilen Projektmanagement-Methoden und die daraus resultierenden Folgen, große Aufmerksamkeit geschenkt
 *	Der Report stellt zusätzlich gefilterte Daten für verschiedene Regionen zur Verfügung. Der 
   Hauptreport und die Regionalen Reports sind zusätzlich in mehreren Sprachen verfügbar
@@ -46,7 +46,7 @@ Folgender Link ruft die Datenbank mit verschiedenen Filtermöglichkeiten auf:
 # Kernaussagen und Erkenntnisse des Reports 2021 [^6]
 
 Innerhalb des Reports von 2021 wurde vor allem die Corona Situation im Zusammenhang mit der weltweit in Unternehmen durchgeführten Projekttätigkeit Beachtung geschenkt.
-Dabei wurde vor allem hinsichtlich der in den Unternehmen genutzten Projektmanagement Methoden gefiltert und daraus Erkenntnisse abgeleitet.
+Dabei wurde vor allem hinsichtlich der in den Unternehmen genutzten [Projektmanagement Methoden](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) gefiltert und daraus Erkenntnisse abgeleitet.
 Im ersten Schritt wurden dabei die größten Veränderungen innerhalb des Unternehmens innerhalb der letzten 12 Monate im Vergleich zu den vorausgegangenen 12 Monaten, also vor der 
 Corona-Pandemie, abgefragt: 
 
@@ -59,9 +59,9 @@ Nachfolgend wurde abgefragt wie der Projekterfolg, im Vergleich zu den Vorangega
 
 Des weiteren wurde eine Aufteilung der Unternehmen in "Gymnastic Enterprises" und "Tradional Enterprises" durchgeführt.
 Die Unternehmen, die bei der Anwendung von Projektmanagement eine "agile" Ausrichtung aufwiesen, wurden als "Gymnastic Enterprises" bezeichnet. Unternehmen,
-die eher auf traditionelle bzw. bereits angewendete/bewährte Methoden setzten, wurden als "traditional enterprises" eingestuft. 
-Charakteristisch für die „Gymnastic Enterprises“ ist die vielfältige Anwendung unterschiedlicher Projektmanagement Methoden, wohingegen „traditionel enterprises“ Unternehmen 
-darstellen, die sich auf bewährte bereits verwendete Methoden konzentriert haben. Zusätzlich konzentrieren sich die "Gynmastic Enterprises" verstärkt auf das Ergebnis als
+die eher auf traditionelle bzw. bereits angewendete/bewährte [Projektmanagement Methoden](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) setzten, wurden als "traditional enterprises" eingestuft. 
+Charakteristisch für die „Gymnastic Enterprises“ ist die vielfältige Anwendung unterschiedlicher [Projektmanagement Methoden](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md), wohingegen „traditional enterprises“ Unternehmen 
+darstellen, die sich auf bewährte Methoden konzentriert haben. Zusätzlich konzentrieren sich die "Gynmastic Enterprises" verstärkt auf das Ergebnis als
 auf die Prozesse und fokussieren sich auf Ihre Mitarbeitenden und deren individuellen Leistungen/Fähigkeiten. Die  traditionellen Unternehmen erlangten insgesamt eher 
 negativere Ergebnisse innerhalb der Projektarbeit. 
 
@@ -86,8 +86,8 @@ oder trieben diese aktiv voran:
 ![Technology usage](Global_Project_Management_Survey/2021_Technolgy_usage.jpg).
 
 4. Als zusätzlicher Erfolgsfaktor wurde herausgefunden, dass die "Gymnastic Enterprises" neben des hohen Grades an Agilität innerhalb des Unternehmens zusätzlich 
-standardisierte Risikoanalyse und -managementverfahren nutzten sowie eine geringere schleichende Umfangsausweitung innerhalb eines Projektes aufwiesen. Diese Kombination ist 
-laut PMI[^6] neben weiteren Faktoren ursächlich für den erhöhten Projekterfolg im Vergleich zu den "Tradional Enterprises": 
+standardisierte [Risikoanalyse und -managementverfahren](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) nutzten sowie eine geringere schleichende Umfangsausweitung innerhalb eines Projektes aufwiesen (siehe auch [Projektumfang](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektumfang.md)). Diese Kombination ist 
+laut PMI[^6] neben weiteren Faktoren ursächlich für den erhöhten Projekterfolg (siehe auch [Projekterfolgsmessung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md)) im Vergleich zu den "Tradional Enterprises": 
 "Higher levels of organizational agility, more standardized risk management practices, and less project scope creep, among other benefits, all contributing to better project 
 performance." 
 
@@ -100,8 +100,9 @@ Verlinkungen zu Angrenzenden Themen kann erst durchgeführt werden, wenn alle an
 * [Portfoliomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektportfoliomanagement.md)
 * [Programmmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Programmmanagement.md)
 * [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
-* [Projekt Managment Institute](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMI_Institution.md)
-* 
+* [Projekt Management Institute](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMI_Institution.md)
+* [Projektmanagement Methoden](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md)
+* [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md)
 # Weiterführende Literatur
 
 Durch die individuelle Datenauswertung mittels der Datenbank lohnt es sich, Zusammenfassungen der Ergebnisse des Berichtes von 2021 von unterschiedlichen 
