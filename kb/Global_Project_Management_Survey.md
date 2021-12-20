@@ -33,13 +33,9 @@ deren Erhebung, Verarbeitung und Veröffentlichung als valide angesehen werden k
   Portfoliomanagern gewähren
 *	Für den Report wird eine große Anzahl an unterschiedlichen Branchen und Regionen befragt
 *	Der Report ist auf der Internetseite des PMI kostenlos zur Verfügung gestellt
-*	Die Befragung wird jährlich, je nach aktueller Situation, variiert. Bei der Befragung 2020/2021 wurde vor allem der weltweiten Coronapandemie im Zusammenhang mit tradionellen 
-  und agilen Projektmanagement-Methoden und die daraus resultierenden Folgen, große Aufmerksamkeit geschenkt
+*	Die Befragung wird jährlich, je nach aktueller Situation, variiert. Bei der Befragung 2020/2021 wurde vor allem der weltweiten Coronapandemie im Zusammenhang mit traditionellen und agilen Projektmanagement-Methoden und die daraus resultierenden Folgen, große Aufmerksamkeit geschenkt
 *	Der Report stellt zusätzlich gefilterte Daten für verschiedene Regionen zur Verfügung. Der 
-  Hauptreport und die Regionalen Reports sind zusätzlich in mehreren Sprachen verfügbar:
-  
-![Sprachvarianten der Surveys](Global_Project_Management_Survey/Bild1_Sprachauswahl.jpg).
-
+  Hauptreport und die Regionalen Reports sind zusätzlich in mehreren Sprachen verfügbar
 *	Seit 2021 lassen sich die Daten der Reports nach eigens gewählten weiteren Kriterien filtern:
 
 ![Datenbank zur Informationsfilterung](Global_Project_Management_Survey/Datenbank.jpg).
@@ -68,7 +64,7 @@ die eher auf traditionelle bzw. bereits angewendete/bewährte Methoden setzten, 
 Charakteristisch für die „Gymnastic Enterprises“ ist die vielfältige Anwendung unterschiedlicher Projektmanagement Methoden, wohingegen „traditionel enterprises“ Unternehmen 
 darstellen, die sich auf bewährte bereits verwendete Methoden konzentriert haben. Zusätzlich konzentrieren sich die "Gynmastic Enterprises" verstärkt auf das Ergebnis als
 auf die Prozesse und fokussieren sich auf Ihre Mitarbeitenden und deren individuellen Leistungen/Fähigkeiten. Die  traditionellen Unternehmen erlangten insgesamt eher 
-negativere Ergebnissen innerhalb der Projektarbeit. 
+negativere Ergebnisse innerhalb der Projektarbeit. 
 
 Bei der Befragung wurden 1/3 der Unternehmen als „Gymnastic Enterprises“ eingestuft, und 30 % als „Traditional Enterprises“, die restlichen konnten nicht eindeutig zugeordnet werden:
 
@@ -86,7 +82,7 @@ oder trieben diese aktiv voran:
 
 ![Recent Business Changes Gymnastic and Traditional](Global_Project_Management_Survey/2021_traditional_vs_gymnastic_enterprises.jpg)
 
-3. Die "Gymnastic Enterprises" nutzten bei der Umsetzung der Projekte vermehrt aktuelle technolgische Trends und Möglichkeiten:
+3. Die "Gymnastic Enterprises" nutzten bei der Umsetzung der Projekte vermehrt aktuelle technologische Trends und Möglichkeiten:
 
 ![Technology usage](Global_Project_Management_Survey/2021_Technolgy_usage.jpg).
 
