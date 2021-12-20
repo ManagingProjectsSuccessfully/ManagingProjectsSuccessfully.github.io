@@ -46,11 +46,11 @@ Ein Projekt kann also fertiggestellt werden und trotzdem scheitern. Darüber hin
 
 ## Flughafen Berlin Brandenburg
 
-![Beispielabbildung](Praxisbeispiele_gescheiterte_Projetke/BERFlughafen.jpg)[^3]
+![Beispielabbildung](Praxisbeispiele_gescheiterte_Projetke/BaustelleBER.jpg)
 
-*Flughafen Berlin Brandenburg "Willy Brandt"*
+*Baustelle am Flughafen Berlin Brandenburg "Willy Brandt"*[^3]
 
-Der Flughafen BER ist das wohl mit bekannteste Gescheiterte Projekt in Deutschland in jüngster Vergangenheit. Dieses Projekt ist eine Aneinanderreihung von Fehlentscheidungen und gescheiterten Vorgaben:
+Der Flughafen BER ist eines der bekanntesten gescheiterten Projekt in Deutschland in jüngster Vergangenheit. Dieses Projekt ist eine Aneinanderreihung von Fehlentscheidungen und gescheiterten Vorgaben:
 
 * Der Eröffnungstermin wurde sechsmal verschoben; zeitweise ohne einen neuen Termin zu nennen.
 * Die Bauzeit hat sich um neun Jahre auf insgesamt 14 Jahre verzögert.
@@ -108,7 +108,7 @@ Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projekt
 
 [^1]: [Projektmanagement Definition](https://projekte-leicht-gemacht.de/blog/projektmanagement/definition-projekt/)
 [^2]: [Wann kann man ein Projekt als gescheitert betrachten?](https://www.iapm.net/de/blog/wann-ist-ein-projekt-gescheitert/)
-[^3]: [Bild BER](https://www.rbb24.de/content/dam/rbb/rbb/rbb24/2020/2020_10/dpa-account/easyjet_london.jpg.jpg/size=708x398.jpg)
+[^3]: [Baustelle BER](https://aerotelegraph.imgix.net/production/uploads/2020/07/BER_Berlin_Overnight_Parkplaetze_Vorfeld_Bauarbeiten_Baustelle-6-scaled.jpg?auto=compress%2Cenhance%2Cformat&ch=Save-Data&dpr=1&fit=max&w=1100&s=37ba1576bacd6ba0a07f91c2a0dfbe89)
 [^4]: [BER in Zahlen](https://www.tagesschau.de/inland/ber-in-zahlen-101.html)
 [^5]: [Das Geheimnis erfolgreicher Projekte](https://www.manager-magazin.de/harvard/management/das-geheimnis-erfolgreicher-projekte-a-00000000-0002-0001-0000-000159313152)
 [^6]: [Stuttgart 21 wird für die Bahn wohl zum Finanzdesaster](https://www.handelsblatt.com/unternehmen/handel-konsumgueter/bahnhofsprojekt-stuttgart-21-wird-fuer-die-bahn-wohl-zum-finanzdesaster/24680390.html)
