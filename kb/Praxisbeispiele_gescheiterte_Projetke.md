@@ -48,7 +48,7 @@ Ein Projekt kann also fertiggestellt werden und trotzdem scheitern. Darüber hin
 
 ![Beispielabbildung](Praxisbeispiele_gescheiterte_Projetke/BaustelleBER.jpg)
 
-*Baustelle am Flughafen Berlin Brandenburg "Willy Brandt"*[^3]
+*Baustelle am Vorfeld des Flughafen Berlin Brandenburg "Willy Brandt"*[^3]
 
 Der Flughafen BER ist eines der bekanntesten gescheiterten Projekt in Deutschland in jüngster Vergangenheit. Dieses Projekt ist eine Aneinanderreihung von Fehlentscheidungen und gescheiterten Vorgaben:
 
@@ -86,7 +86,7 @@ Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projekt
 # Zahlen, Daten & Fakten
 
 * Weltweit verschwenden Organisationen alle 20 Sekunden ca. 1 Million US-Dollar durch schlechtes Projektmanagement. 
-* Eine Analyse von 1471 IT-Projekten ergab, dass die Istkosten durchschnittlich 27% über den Sollkosten lagen und 70% das zeitliche Ziel nicht einhalten konnten.
+* Eine Analyse von 1471 IT-Projekten ergab, dass die Ist-Kosten durchschnittlich 27% über den Soll-Kosten lagen und 70% das zeitliche Ziel nicht einhalten konnten.
 * PwC stellte nach der Untersuchung von 10.640 Projekten fest, dass nur 2,5% der Unternehmen all ihre Projekte erfolgreich umsetzen. 
 * McKinsey analysierte über 5.000 Projekte und stellte fest, dass
   - 56% die Renditeerwartung verfehlten,
@@ -97,7 +97,6 @@ Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projekt
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen:
    - [Erfolgreiche Projekte](Praxisbeispiele_erfolgreiche_Projekte.md)
    - [Erfolgsmessung](Erfolgsmessung.md)
    - [Konfliktmanagement](Konfliktmanagement.md)
