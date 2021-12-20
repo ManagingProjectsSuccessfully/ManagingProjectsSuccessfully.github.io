@@ -13,14 +13,14 @@ betriebliche und persönliche Bereiche. Um [Veränderungen auf betrieblicher Sei
 Der Begriff Change Management ist in Deutschland vorwiegend unter Veränderungs- und Transformationsmanagement bekannt [^3].
 Moran und Brightman definieren Change Management folgendermaßen:
 
-- *Change management is the process of continually renewing an organization's direction, 
-structure, and capabilities to serve the ever-changing needs of external and internal customers [^4].* 
+- *"Change management is the process of continually renewing an organization's direction, 
+structure, and capabilities to serve the ever-changing needs of external and internal customers" [^4].* 
 
 - *Change Management ist der Prozess der kontinuierlichen Erneuerung der Ausrichtung, Struktur und der Fähigkeiten
 einer Organisation, um den sich ständig ändernden Anforderungen externer und interner Kunden gerecht zu werden.* 
 
 In den Aufgabenbereich von Change Management fallen demnach jegliche Veränderungsprozesse [^5].
-Der Ursprung von Change Management kann auf die "Hawthorne" Experimente zu Beginn der 1930er Jahre zurückgeführt werden [^3].
+Der Ursprung von Change Management kann auf die Hawthorne-Experimente zu Beginn der 1930er Jahre zurückgeführt werden [^3].
 Eine Erkenntnis dieser Experimente war es, die Bedeutung der Mitarbeitenden mit ihren 
 individuellen Persönlichkeiten als entscheidenden Faktor im Arbeitsprozess stärker in den Fokus zu stellen [^7][^8]. 
 Ein kennzeichnendes Merkmal von Change Management ist daher vor allem die nach innen gerichtete und auf die 
