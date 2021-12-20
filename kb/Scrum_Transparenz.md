@@ -70,9 +70,9 @@ Zusammenfassend lässt sich sagen, dass die Scrum-Transparenz eine wichtige Vora
 
 # Weiterführende Literatur
 
-*  Der Scrum Guide - Transparenz der Artefakte:https://www.der-scrum-master.com/der-scrum-leitfaden/transparenz-der-artefakte
-* "Agile" macht ja nur Probleme, oder… — Transparenz muss gewollt sein:http://boeffi.net/scrum/agile-macht-ja-nur-probleme-oder-transparenz-muss-gewollt-sein/
-* 	Umgang mit Transparenz | Thorsten Schiffer | Agilität ohne Gedöns (thorsten-schiffer.com):https://thorsten-schiffer.com/umgang-mit-transparenz-was-man-beachten-sollte-wie-man-sie-einfuehrt-und-was-sie-zunichte-macht/
+*  [Der Scrum Guide - Transparenz der Artefakte](https://www.der-scrum-master.com/der-scrum-leitfaden/transparenz-der-artefakte)
+* ["Agile" macht ja nur Probleme, oder… — Transparenz muss gewollt sein](http://boeffi.net/scrum/agile-macht-ja-nur-probleme-oder-transparenz-muss-gewollt-sein/)
+* [Umgang mit Transparenz | Thorsten Schiffer | Agilität ohne Gedöns (thorsten-schiffer.com)](https://thorsten-schiffer.com/umgang-mit-transparenz-was-man-beachten-sollte-wie-man-sie-einfuehrt-und-was-sie-zunichte-macht/)
 
 
 # Quellen
