@@ -10,7 +10,9 @@ Unter IT-Projekte versteht man die Entwicklung von Informations- und Kommunikati
 ## Klassische Methoden 
 Im Bereich der Softwareentwicklung sind die klassischen Vorgehensmethoden „Hermes“, „PRINCE2“ und „V-Model XT geeignet[^2].
 ### HERMES
-Bei Hermes wird nach den Prinzipien des Wasserfallmodells gearbeitet, siehe auch: [Wasserfall_Modell.md](https://github.com/ga88maby/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md) ![Beispielabbildung](IT-Projekte/Wasserfallmodell.png)[^3].  
+Bei Hermes wird nach den Prinzipien des Wasserfallmodells gearbeitet.
+
+Siehe auch: [Wasserfall_Modell.md](https://github.com/ga88maby/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md) ![Beispielabbildung](IT-Projekte/Wasserfallmodell.png)[^3].  
 
 Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Rolle, was dazu führt, dass die erforderlichen Projekttätigkeiten und Verantwortlichkeiten abgeleitet werden. Die Ergebnisse sind eindeutig definiert, wodurch der Anfang- und Endpunkt der Phasen vordefiniert sind und somit eine präzise Vorgehensweise gewährleistet wird. Hermes ist gekennzeichnet durch eine lineare Abfolge der Aktivitäten, was den Einsatz dieser Methode in IT-Projekten ermöglicht. Hermes wird hauptsächlich in der Schweiz angewendet[^4].
 
