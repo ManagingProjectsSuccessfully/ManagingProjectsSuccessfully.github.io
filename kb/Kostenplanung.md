@@ -30,6 +30,9 @@ Die gesamte Kostenplanung sollte sorgfältig auf Fehler überprüft werden, denn
 # Fazit
 Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt anfallenden Kosten. Innerhalb des Projektmanagements ist sie aus vielen Gründune unersetzlich. Zur Planung wird das Projekts mittels eines Projektstrukturplans in kleine Arbeitsschritte geteilt. Außerdem wird bei anfallende Kosten zwischen Einzel- und Gesamtkosten unterschieden.
 
+# Weiterführende Litratur
+[Einfache Kostenplanung im Projektmanagement](https://erfolgreich-projekte-leiten.de/kostenplan/)
+
 # Siehe auch
 * [Projektstrukturplan](Projektstrukturplan.md)
 * [Aufwands_Kosten_Kontrolle](Aufwands_Kosten_Kontrolle.md)
