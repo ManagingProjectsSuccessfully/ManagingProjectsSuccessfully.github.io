@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 # Begriffsklärung
-Der Begriff der Kostenplanung beschreibt im Kontext des [Projektmanagements](Projektmanagement.md) die möglichst akkurate Abschätzung der im gesamten Projektverlauf anfallenden Kosten und Aufwände [^1]. Ziel ist das Vermeiden von unerwartet hohen (und auch niedrigen) Gesamtkosten für ein Projekt. 
+Der Begriff der Kostenplanung beschreibt im Kontext des [Projektmanagements](Projektmanagement.md) die möglichst akkurate Abschätzung der im gesamten Projektverlauf anfallenden Kosten und Aufwände [^1]. Ziel ist das Vermeiden von unerwartet hohen (oder auch niedrigen) Gesamtkosten für ein Projekt. 
 Die Kostenplanung ist ein Bestandteil des Kostenmanagements und folgt innerhalb dessen auf die Kostenschätzung. Von dieser unterscheidet sie sich wesentlich durch die deutlich genauere Planung der einzelnen auftretenden Kosten für detaillierte Arbeitsschritte anstelle grober Schätzungen für gesamte Projektvorgänge. Außerdem werden die auftretenden Kosten in verschiedene Strukturen eingeteilt. Das Kostenmanagement wird nach der Planung durch die Kostenkontrolle abgeschlossen. [^2]
 
 # Zweck & Ziele der Kostenplanung
