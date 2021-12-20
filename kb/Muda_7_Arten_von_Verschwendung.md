@@ -23,7 +23,7 @@ Normalerweise sind diese Arten von Verschwendungen miteinander verbunden. Beispi
 
 # Verschwendung im Projektmanagement
 
-Das [Projektmanagement](Projektmanagement.md) kann ebenfalls von Verschwendung betroffen sein. Im Folgenden findet man übliche Beispiele vor
+Das [Projektmanagement](Projektmanagement.md) kann ebenfalls von Verschwendung betroffen sein. Im Folgenden findet man übliche Beispiele vor [^3] :
 
 * Transport: Aufgabenwechsel, Unterbrechungen, unnötig langer Marketingtrichter
 * Bestandsaufnahme: Online gekaufte Tools, welche die Teams selten verwenden; Bürobedarf, die Bedürfnisse übersteigen
@@ -32,6 +32,8 @@ Das [Projektmanagement](Projektmanagement.md) kann ebenfalls von Verschwendung b
 * Überproduktion: unnötig große Menge an Dokumenten zu füllen
 * Überbearbeitung: mehrere Genehmigungsebenen für kleine Aufgaben
 * Defekte: falsche Datensammlung
+
+Das Beheben dieser Probleme bezeichnet man dann auch als [Lean Projektmanagement](Lean_Projektmanagement.md). [^3]
 
 # Umgang mit Verschwendung
 
@@ -44,7 +46,7 @@ Hier führt ein systematisches Vorgehen zum Ziel. Die Fragen, die sich das Unter
 
 Die 7 Arten der Verschwendungen werden in der folgenden Abbildung veranschaulicht.[^1]
 
-![Beispielabbildung](Muda_7_Arten_von_Verschwendung/7_Arten_Verschwendung.jpg) 
+![7 Arten der Verschwendung](Muda_7_Arten_von_Verschwendung/7_Arten_Verschwendung.jpg) 
 
 *7 Arten der Verschwendung*
 
