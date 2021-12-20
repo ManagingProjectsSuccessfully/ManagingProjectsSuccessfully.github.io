@@ -58,10 +58,6 @@ Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das v
 
 [VModell.md](https://github.com/fabriGH/ManagingProjectsSuccessfully.github.io/blob/main/kb/VModell.md)
 
-[Microsoft_Project_PM_Tool](https://github.com/AbderrahmaneBennani/ManagingProjectsSuccessfully.github.io/blob/main/kb/Microsoft_Project_PM_Tool.md)
-
-[Java Projektmanagement Tools](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Java_PM_Tool.md)
-
 # Weiterführende Literatur
 Buch: [Management von IT-Projekten](https://link.springer.com/book/10.1007/978-3-642-16127-8?token=HOLIDAY21&utm_campaign=3_fjp8312_springerlink_shopping_katte_HOLIDAY21&gclid=Cj0KCQiA8ICOBhDmARIsAEGI6o297cfmB1-MxoB5CFZAayy3ucCimNMFd0dHYumlu9qboeroznfpBhIaAoTaEALw_wcB)
 
