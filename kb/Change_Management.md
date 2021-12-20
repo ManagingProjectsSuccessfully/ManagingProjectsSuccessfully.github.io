@@ -5,7 +5,9 @@ author: TimSchwehn
 anrechnung: k
 ---
 # Veränderungen
-"Nichts ist so beständig wie der Wandel" [^1]. Die Welt im 21. Jahrhundert ist von einer großen Dynamik geprägt.
+>Nichts ist so beständig wie der Wandel [^1]. 
+
+Die Welt im 21. Jahrhundert ist von einer großen Dynamik geprägt.
 Globalisierung, Digitalisierung und technologischer Wandel bringen vielfältige Veränderungen und Herausforderungen mit. Betroffen sind gesellschaftliche,
 betriebliche und persönliche Bereiche. Um [Veränderungen auf betrieblicher Seite](Managing_Change_in_Organisations.md) zu fördern und zu gestalten, dient das Change Management [^2].
 
@@ -13,11 +15,11 @@ betriebliche und persönliche Bereiche. Um [Veränderungen auf betrieblicher Sei
 Der Begriff Change Management ist in Deutschland vorwiegend unter Veränderungs- und Transformationsmanagement bekannt [^3].
 Moran und Brightman definieren Change Management folgendermaßen:
 
-- *"Change management is the process of continually renewing an organization's direction, 
-structure, and capabilities to serve the ever-changing needs of external and internal customers" [^4].* 
+>Change management is the process of continually renewing an organization's direction, 
+structure, and capabilities to serve the ever-changing needs of external and internal customers" [^4]. 
 
-- *Change Management ist der Prozess der kontinuierlichen Erneuerung der Ausrichtung, Struktur und der Fähigkeiten
-einer Organisation, um den sich ständig ändernden Anforderungen externer und interner Kunden gerecht zu werden.* 
+>Change Management ist der Prozess der kontinuierlichen Erneuerung der Ausrichtung, Struktur und der Fähigkeiten
+einer Organisation, um den sich ständig ändernden Anforderungen externer und interner Kunden gerecht zu werden.
 
 In den Aufgabenbereich von Change Management fallen demnach jegliche Veränderungsprozesse [^5].
 Der Ursprung von Change Management kann auf die Hawthorne-Experimente zu Beginn der 1930er Jahre zurückgeführt werden [^3].
