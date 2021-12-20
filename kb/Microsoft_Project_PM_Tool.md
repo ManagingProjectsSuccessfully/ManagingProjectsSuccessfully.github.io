@@ -86,7 +86,7 @@ Bevor die „Vorgangsnamen“ eingetragen werden, sollten die Schritte für das 
 ### 3.	Projektinhalte strukturieren
 
 Mit dem Einrücken von Vorgängen werden Projektinhalte tiefergestuft und es erfolgt die Erzeugung eines Sammelvorgangs. 
-Der Sammelvorgang soll ein Projekt in logische Phasen untergliedern und eine übersichtlichere Darstellung ermöglichen.
+Dieser soll ein Projekt in logische Phasen untergliedern und eine übersichtlichere Darstellung ermöglichen.
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Projektinhalt.jpeg)
 
