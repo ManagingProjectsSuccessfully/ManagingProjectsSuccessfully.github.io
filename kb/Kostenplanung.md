@@ -33,6 +33,8 @@ Kostenplanung beschreibt die möglichst genauen Vorhersage der für ein Projekt 
 # Siehe auch
 [Projektstrukturplan](Projektstrukturplan.md)
 
+# Weiterführende Literatur
+
 
 # Quellen
 
