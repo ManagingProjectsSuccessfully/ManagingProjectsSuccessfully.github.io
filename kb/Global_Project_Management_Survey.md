@@ -44,7 +44,7 @@ deren Erhebung, Verarbeitung und Veröffentlichung als valide angesehen werden k
 
 *	Seit 2021 lassen sich die Daten der Reports nach eigens gewählten weiteren Kriterien filtern:
 
-![Datenbank zur Informationsfilterung](Datenbank.jpg).
+![Datenbank zur Informationsfilterung](Global_Project_Management_Survey/Datenbank.jpg).
 
 Die Daten lassen sich unter folgendem Link beliebig filtern:
 [Datenbank Survey 2021](https://public.tableau.com/app/profile/pmi2161/viz/PulseoftheProfession/PulseoftheProfession)
