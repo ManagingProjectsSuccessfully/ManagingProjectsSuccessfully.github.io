@@ -22,14 +22,14 @@ Doch zu welchem Zeitpunkt ist dieses Management Tool erforderlich und was genau 
 
 Zuerst sollte die Frage geklärt werden, zu welchem Zeitpunkt das Werkzeug seinen Zweck erfüllt. Dies ist laut Herrn Josef Schwab der Fall, wenn ein Planungsbedarf besteht und dieser das Projekt definiert.
 Der Planungsbedarf resultiert aus einem anstehenden Vorhaben, bei welchem die Abläufe noch nicht vollständig ausgearbeitet sind und Unsicherheiten bestehen.
-Kurzgefasst, werden mit dem Programm Prozesse und Meilensteine visuell sowie tabellarisch verknüpft und je nach Detaillierungsgrad abgebildet.
-Bevor die Einarbeitung mit dem Programm startet, wäre es nach Herrn Schwab sinnvoll, sich folgende Fragen zu stellen: 
+Kurz gefasst: Mit dem Programm werden Prozesse und Meilensteine visuell sowie tabellarisch verknüpft und je nach Detaillierungsgrad abgebildet.
+Bevor die Einarbeitung mit dem Programm startet, ist es nach Herrn Schwab sinnvoll, sich folgende Fragen zu stellen: 
 * wie lauten die Vorhaben, 
 * wie lange dauern sie an, 
 * welche Abhängigkeiten existieren und
 * welche Ressourcen sind von Nöten?
 
-Diese Fragestellungen oder Überlegungen zur Strukturierung des Projektes, können in Projects unter:
+Diese Fragestellungen oder Überlegungen zur Strukturierung des Projekts können in Projects unter:
 * Vorgänge, 
 * Dauer,
 * Vorgänger / Nachfolger sowie
@@ -49,12 +49,12 @@ Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedi
 
 # Benutzeroberfläche
 
-Die Benutzeroberfläche von MS Project verwendet das übliche Design der Office Familie. Am oberen Bildschirmrand befindet sich eine grüne Bildschirmleiste, mit dem Menüband und dessen Reiter. In der Abbildung 2 ist der Reiter "Vorgang" geöffnet, welcher die Grundfunktionen für die Tabelle auf der linken sowie dem Balkendiagramm auf der rechten Seite enthält. Unterhalb des Menüs befindet sich eine Timeline, die die Meilensteine des Projekts widerspiegelt.
+Die Benutzeroberfläche von MS Project verwendet das übliche Design der Office Familie. Am oberen Bildschirmrand befindet sich eine grüne Bildschirmleiste, mit dem Menüband und dessen Reiter. In der Abbildung 2 ist der Reiter "Vorgang" geöffnet, welcher die Grundfunktionen für die Tabelle auf der linken sowie dem Balkendiagramm auf der rechten Seite enthält. Unterhalb des Menüs befindet sich eine Timeline, die die Meilensteine des Projektes widerspiegelt.
 Die Tabelle gliedert das Projekt in Form von Sammelvorgängen (Überpunkten) und Prozessen (Unterpunkten).
 Die sich in der Beschreibung befindliche Abbildung 1 ist in der Tabelle als Kopfzeile aufzufinden.
 Die Auflistung der Prozesse ist mit dem Balkendiagramm verknüpft, sodass eine Änderung in der Visualisierung mit einem Nachtrag in der Gliederung und umgekehrt einhergeht.
 Im Gantt-Diagramm sind Vorgänge abgebildet, die nach Fortschritten prozentual bewertet und farblich gekennzeichnet werden.
-Der Meilenstein am unteren, rechten Bildschirmrand repräsentiert ein Zwischenziel mit angehängtem Datumsformat, auf welches hingearbeitet wird.
+Der Meilenstein am unteren rechten Bildschirmrand repräsentiert ein Zwischenziel mit angehängtem Datumsformat, auf welches hingearbeitet wird.
 
 [^4]
 
@@ -66,7 +66,7 @@ Der Meilenstein am unteren, rechten Bildschirmrand repräsentiert ein Zwischenzi
 
 Im Anschluss folgt eine Anleitung für die Nutzung des Programms MS Project.
 
-### 1. Projektstart: über Register „Projekt“ unter „Projektinformationen“ definieren
+### 1. Projektstart: über Register „Projekt“ unter „Projektinformationen“ editieren
 
 Der erste Schritt in einem Projekt sollte mit der Definition des Projektstarts beginnen. 
 Der Projektstart ist zugleich ein Fixpunkt, an diesem sich alle neuen Vorgänge orientieren.
@@ -95,7 +95,7 @@ Dieser soll ein Projekt in logische Phasen untergliedern und eine übersichtlich
 ### 4.	Dauer: Vorgänge und Meilensteine festlegen
 
 Die Dauer entspricht den Arbeitstagen, wird für ein Intervall abgeschätzt und im Projektverlauf fortgeschrieben. 
-Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung eines Sammelvorgangs / Zwischenstandes verwendet werden.
+Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung eines Sammelvorgangs / Zwischenstands verwendet werden.
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Dauer.jpeg)
 
@@ -103,7 +103,7 @@ Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung 
 
 ### 5.	Abhängigkeiten durch Vorgangsverknüpfungen
 
-Wenn Vorgänge und Meilensteine gesetzt sind, folgen über Verknüpfungen inhaltlich, logische Beziehungen, die nicht unbedingt chronologisch abgebildet werden müssen. Neben der Ende-Anfang-Beziehung (kurz: EA) kann der User drei weitere Beziehungsarten wählen (EE, AE, AA).
+Wenn Vorgänge und Meilensteine gesetzt sind, folgen über Verknüpfungen inhaltlich logische Beziehungen, die nicht unbedingt chronologisch abgebildet werden müssen. Neben der Ende-Anfang-Beziehung (kurz: EA) kann der User drei weitere Beziehungsarten wählen (EE, AE, AA).
 Falls Verzögerungen / Beschleunigungen erfasst werden müssen, kann dies über die Angabe von Tagen mit einem Plus / Minus Zeichen angepasst werden. Die hierfür verwendeten Spalten lauten Vorgänger / Nachfolger.
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Verknuepfungen.jpeg)
@@ -121,7 +121,7 @@ Hier wird die Summe der Arbeitsstunden geplant, die die Ressource für diesen Vo
 
 ### 7.	Ressourcen anlegen und verwalten
 
-Nach der Aufwandsschätzung werden Ressourcen auf Vorgänge verplant. Über „Ressource: Tabelle“ werden im lokalen Ressourcenpool Ressourcen angelegt. 
+Nach der Aufwandsschätzung werden Ressourcen auf Vorgänge zugewiesen. Über „Ressource: Tabelle“ werden im lokalen Ressourcenpool Ressourcen angelegt. 
 Diese können als Material, Arbeit oder Kosten definiert sein. Im Ressourcenpool sollten daher klare Einheiten für die Errechnung der jeweiligen Ressourcen hinterlegt sein (Bsp.: Arbeit, Stundensatz).
 Sind diese Schritte abgearbeitet, können mittels einer Auswahlliste Ressourcen in der Spalte „Ressourcennamen“ gewählt werden.
 
