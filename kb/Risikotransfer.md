@@ -55,11 +55,11 @@ Der kostspielige Finanz- und Zeitaspekt des [Risikomanagements](Risikomanagement
 # Weiterführende Literatur
 
 * [Alternativer Risikotransfer: Vorteile und Risiken des Transfers](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Fachartikel/2013/fa_bj_2013_06_alternativer_risikotransfer.html)
-
+* [Risikotransfertest](https://www.versicherungsmagazin.de/lexikon/risikotransfertest-1946458.html)
 # Quellen
 
 [^1]: [HAUPT RISIKOMANAGEMENT-TUTORIALS
-Risikotransfer(teamaftermarket)](https://teamaftermarket.com/691-risk-transfer)
+Risikotransfer(teamaftermarket)](https://teamaftermarket.com/691-risk-transfer)  
 [^2]: [Was sind Derivate? Derivate einfach erklärt!](https://www.finanzfluss.de/geldanlage/derivate/)  
 [^3]: [Risikoüberwälzung](https://de.wikipedia.org/wiki/Risiko%C3%BCberw%C3%A4lzung)
 
