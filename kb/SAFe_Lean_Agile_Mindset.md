@@ -7,7 +7,7 @@
 
  ## Inhaltsverzeichnis
  > - [Definition](SAFe_Lean_Agile_Mindset.md#definition)
- > - [Änderung des momentanen Mindsets zur Umsetzung des Scaled Agile Framework](SAFe_Lean_Agile_Mindset.md#änderung-des-momentanen-mindsets-zur-umsetzung-vom-scaled-agile-framework)
+ > - [Änderung des momentanen Mindsets zur Umsetzung des Scaled Agile Framework](SAFe_Lean_Agile_Mindset.md#änderung-des-momentanen-mindsets-zur-umsetzung-des-scaled-agile-frameworks)
  > - [SAFe House of Lean](SAFe_Lean_Agile_Mindset.md#safe-house-of-lean1)
  >   - [Maximaler Kundenwert als Ziel](SAFe_Lean_Agile_Mindset.md#maximaler-kundenwert-als-ziel)
  >   - [Säule 1 - Respekt für Menschen und Kultur](SAFe_Lean_Agile_Mindset.md#säule-1---respekt-für-menschen-und-kultur)
