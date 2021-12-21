@@ -63,6 +63,7 @@ Weitere Informationen zum Projektabschluss finden Sie [hier](Projektabschluss.md
 Bei der Planung eines Projektes kommt man nicht um die Eingliederung in Phasen herum. Ob man jedoch die Aufteilung in 4, 5 oder 6 Phasen vornimmt, ist eventuell von der Komplexität des Projektes abhängig, oder von der Art der Umsetzung. Hier noch ein Beispiel für 4 bzw. 6 Pasen-Projekte:
 
 ![vier und sechs Phasen im PM](Projektphasen_klassisch/PM1.png)
+
 *vier und sechs Phasen im PM*[^12]
 
 ## Siehe auch:
