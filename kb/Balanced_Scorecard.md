@@ -37,6 +37,7 @@ Wie bereits aus der Beschreibung deutlich wird, sind die verschiedenen Perspekti
 Ursache-/Wirkungsbeziehungen zueinander. 
 
 ![image](https://user-images.githubusercontent.com/92790509/142918493-b6c3cf08-d03d-4fd9-90f6-57578f7b8edf.png) 
+
 Aufbau der Balanced Scorecard[^3]
 
 ## Vorteile der Balanced Scorecard
