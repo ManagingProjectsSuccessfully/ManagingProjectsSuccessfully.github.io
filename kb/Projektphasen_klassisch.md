@@ -1,6 +1,6 @@
 ---
 title: Projektphasen_klassisch
-tags: agil klassisch
+tags: agil klassisch Projekt Projekptphasen
 author: vegas1337
 anrechnung: klassisch
 ---
@@ -74,7 +74,6 @@ Bei der Planung eines Projektes kommt man nicht um die Eingliederung in Phasen h
 * [Projektmanagement als Führungskonzept (Springer Verlag)](https://link.springer.com/book/10.1007/978-3-642-60144-6)
 
 # Quellen
-
 
 
 [^1]: [projektmagazin: Projektphasen](https://www.projektmagazin.de/glossarterm/projektphase)
