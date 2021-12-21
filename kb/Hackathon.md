@@ -12,7 +12,7 @@ Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hack
 Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Alle weisen jedoch den selben charakteristischen Kern auf, der das Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat. [^8]
 
 
-# Grundlegende Idee und Ziel
+# Grundlegende Idee
 
 Die grundlegende Idee liegt in der eventspezifischen Herangehensweise an die gestellte Problemsituation. Diese erfolgt auf eine intuitive, [kreative](Methoden.md#softskill-management) und experimentierfreudige Art und Weise. Das Ziel soll nicht eine in allen Belangen absolut perfekte Lösung sein, sondern ein Prototyp [^12], der erste problemlösende Funktionalitäten enthält.[^4] [^2] [^5]
 
@@ -34,13 +34,10 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 *Abbildung 2: Charakteristische Elemente eines Hackathons mit mehreren Teams* [^7]
 
 
-# Entstehung und Geschichte - Wrap-Up
+# Entstehung und aktuelle Entwicklungen - Wrap-Up
 
-Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Dabei handelte es sich zum einen um die Ausbesserung des Betriebssystems OpenBSD [^13] und zum anderen um die Weiterentwicklung von Software für den damals beliebten Taschenkommunikator Palm [^14] der Firma Sun Microsystems.[^5]
- 
-Seitdem haben sich Hackathons in ihrer Art und Weise, ihrem Ausmaß sowie ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen sehr stark weiterentwickelt.[^8]
-
-Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Zudem haben Unternehmen in der Vergangenheit festgestellt, dass ein solches Format intern organisiert die Initialzündung für neue Ideen, Geschäftsmodelle und Produkte sein kann. [^8]
+Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. [^5]
+Seitdem haben sich die Events in ihrer Art und Weise, ihrem Ausmaß sowie ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen sehr stark weiterentwickelt. Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Zudem haben Unternehmen in der Vergangenheit festgestellt, dass ein solches Format intern organisiert die Initialzündung für neue Ideen, Geschäftsmodelle und Produkte sein kann. [^8]
 
 Die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen Coronas nicht verschont geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause aus hacken konnten. Selbst zur Corona-Krise an sich gab es in Deutschland, als auch weltweit mehrere Hackathons. [^11] [^10]
 
@@ -67,7 +64,7 @@ Am Ende werden vor einer Jury, die meistens aus den Veranstaltern, Vertreter von
 
 # Chancen für Teilnehmer und Unternehmen
 
-Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit auf Networking, Wissensaustausch und Preise, sondern auch die Aussicht auf eine längerfristige Zusammenarbeit oder Jobangebot. Denn etablierte, als auch junge Unternehmen nutzen die Gelegenheit um auf sich aufmerksam. So können sie die besten Hacker für sich gewinnen und sich mit interessierten Investoren austauschen.[^2] [^6] [^1]
+Den Teilnehmern bietet ein Hackathon grundsätzlich die Möglichkeit des Networkings und des Wissensaustauschs. Zudem können sie ihre Fähigkeiten in der Gruppe unter Beweis stellen und so für sich als zukünftiger Arbeitnehmer werben. Unternehmen nutzen die Gelegenheit um auf sich aufmerksam zu machen und die besten Hacker für sich zu gewinnen. Vor allem für Start-ups sind solche Events passende Plattformen für einen Austausch mit interessierten Investoren. [^2] [^6] [^1]
 
 # Ausgewählte Beispiele 
 
@@ -85,6 +82,7 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 
 * [Desing Thinking](Design_Thinking.md)
 * [Innovationsprojekte](Innovationsprojekte.md)
+* [Methoden](Methoden.md)
 * [Projekt](Projekt.md)
 
 # Weiterführende Literatur
@@ -105,8 +103,6 @@ Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit
 [^10]: [Lösungen hacken in der Coronakrise](https://www.dw.com/de/lösungen-hacken-in-der-coronakrise/a-53295894)
 [^11]: [König, F., Wessel, D. & Heine, M. Open Data Hackathon – Vergleich von in Präsenz und online durchgeführten Projektseminaren. HMD 58, 1406–1419 (2021)](https://doi.org/10.1365/s40702-021-00794-0)
 [^12]: [Definition Prototyp](https://wirtschaftslexikon.gabler.de/definition/prototyp-122469)
-[^13]: [Erklärung OpenBSD](https://de.wikipedia.org/wiki/OpenBSD)
-[^14]: [Erklärung Palm](https://de.wikipedia.org/wiki/Palm_Pilot)
 [^15]: [Website des Tech Incubators: ZOLLHOF](https://www.zollhof.de)
 [^16]: [Coding da Vinci](https://codingdavinci.de)
 [^17]: [#WirVsVirus](https://wirvsvirus.org)
