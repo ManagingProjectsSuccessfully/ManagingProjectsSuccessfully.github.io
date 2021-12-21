@@ -13,7 +13,7 @@ Das Integrationsmanagement ist ein Teilgebiet des [Projektmanagements](https://d
 Bei erfolgreicher Anwendung des Integrationsmanagements kann man erkennen, dass der Ablauf in kleine einzelne Schritte aufgeteilt ist. Es zieht sich also vom Entwickeln des Projektauftrages bis hin zum Abschluss des Projekts hin.
 
 ![image](https://user-images.githubusercontent.com/92979613/142760466-3cb71557-6d49-4938-822f-5e84b1ad5eda.png)
-(*Eigne Power Point Abbildung zu Prozessen[^2]*)
+(*Eigene Power Point Abbildung zu Prozessen[^2]*)
 
 Nach dem Entwickeln des Projektauftrags bzw. nachdem ein Auftrag für ein Projekt angenommen wurde, wird ein Projektmanagementplan entwickelt, welcher der rote Faden sein soll. Der Plan dient als Orientierung über die verschiedenen Prozesse und Tätigkeiten, die erledigt werden müssen.
 
@@ -26,7 +26,7 @@ Bei jedem Projekt kommt es zu Problemen und Hindernissen, die es zu überwältig
 
 Auch die Kommunikation spielt hierbei eine tragende Rolle. Ein stetiger Austausch über Ziele oder eine Veränderung des Projektplans sind essenziell. Bei jedem Projekt kommt es zu exogenen Einflüssen, die den geplanten Verlauf oder die Verwendung von speziellen Ressourcen verändern. Um diesen Problemen so früh wie möglich entgegenzuwirken, ist die ständige Weitergabe von Informationen die beste Methode. So besteht die Chance eine Problematik schnellstmöglich zu erkennen und Lösungen zu finden. Auch wird so die Abstimmung über die Wünsche der Kunden oder die Qualitätsansprüche, die sich im Laufe des Projekts nochmals ändern könnten, ermöglicht. 
 
-Des Weiteren stärkt die Kommunikation auch das Teamklima. Dadurch, dass beteiligte Personen ohne Umstände die Informationen, die sie für ihren Arbeitsprozess im Projekt benötigen, bekommen, wird Unzufriedenheit oder Unverständnis vorgebeugt. Auch werden Arbeitsabläufe dadurch beschleunigt, da so Leerläufe verhindert werden können.[^2]
+Des Weiteren stärkt die Kommunikation auch das Teamklima. Dadurch, dass beteiligte Personen ohne Umstände die Informationen, die sie für ihren Arbeitsprozess im Projekt benötigen, bekommen, wird Unzufriedenheit oder Unverständnis vorgebeugt. Auch werden Arbeitsabläufe dadurch beschleunigt und Leerläufe können verhindert werden.[^2]
 
 Hinzu kommt, dass gute Kommunikation die berufliche Zufriedenheit steigert und damit auch die Motivation.[^3]
 
