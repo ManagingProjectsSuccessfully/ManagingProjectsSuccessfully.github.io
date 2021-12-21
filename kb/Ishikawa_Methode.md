@@ -6,13 +6,13 @@ anrechnung: k
 ---
 Die Ishikawa-Methode ist eine Möglichkeit die einflussnehmenden Faktoren und ihre Wirkung in einem Projekt graphisch darzustellen.
 
-Das Ishikawa-Diagramm, auch als Fehlerbaum-, Fischgräten- oder Ursache-Wirkungs-Diagramm bekannt, ist ein von dem Japaner [Ishikawa Kaoru](https://de.wikipedia.org/wiki/Ishikawa_Kaoru) entwickeltes qualitatives Verfahren des modernen Qualitätsmanagements. Es zählt zu den [Sieben Statistischen Werkzeugen der Qualitätskontrolle](https://de.wikipedia.org/wiki/Sieben_Werkzeuge_der_Qualit%C3%A4t) bzw. den Sieben Qualitätstechniken, die in der Regel auf mathematisch-statistischen Grundlagen basieren und dazu dienen sollen, Probleme zu erkennen sowie deren Ursachen herauszuarbeiten. Die Sieben Qualitätstechniken zielen allesamt auf Fehlerfindung und Fehlerprävention, um damit eine gleich bleibend hohe Prozess- und Produktqualität zu gewährleisten. Ziel der präventiven Maßnahmen ist es, eine gleichbleibend hohe Prozess- und Produktqualität zu gewährleisten.
+Das Ishikawa-Diagramm, auch als Fehlerbaum-, Fischgräten- oder Ursache-Wirkungs-Diagramm bekannt, ist ein von dem Japaner [Ishikawa Kaoru](https://de.wikipedia.org/wiki/Ishikawa_Kaoru) entwickeltes qualitatives Verfahren des modernen Qualitätsmanagements. Es zählt zu den [Sieben statistischen Werkzeugen der Qualitätskontrolle](https://de.wikipedia.org/wiki/Sieben_Werkzeuge_der_Qualit%C3%A4t) bzw. den sieben Qualitätstechniken, die in der Regel auf mathematisch-statistischen Grundlagen basieren und dazu dienen sollen, Probleme zu erkennen, sowie deren Ursachen herauszuarbeiten. Die sieben Qualitätstechniken zielen allesamt auf Fehlerfindung und Fehlerprävention, um damit eine gleich bleibend hohe Prozess- und Produktqualität zu gewährleisten. Ziel der präventiven Maßnahmen ist es, eine gleichbleibend hohe Prozess- und Produktqualität zu gewährleisten.
 
 # Ishikawa-Methode im Einsatz
 
 Die Ishikawa-Methode, benannt nach seinem Erfinder und sogenannten "Vater der japanischen Qualitätskontrolle" [Ishikawa Kaoru](https://de.wikipedia.org/wiki/Ishikawa_Kaoru), 
 wird besonders zur Auffindung von Ursachen bei Problemen in einem Projekt angewendet. Man zeigt mögliche Ursachen für das 
-entstandene Problem auf um einen Makro-Blick auf das Problem zu bekommen und folglich schrittweise potentielle Probleme detailliert heraus zu arbeiten.  
+entstandene Problem auf, um einen Makro-Blick auf das Problem zu bekommen und folglich schrittweise potentielle Probleme detailliert heraus zu arbeiten.  
 Im [DMAIC-Zyklus](https://refa.de/service/refa-lexikon/dmaic) kommt diese Methode öfters in der *Define* Zyklusperiode zur Anwendung und gehört somit zum klassischen Projektmanagement. [^3]
 
 ## Synonyme
@@ -51,12 +51,12 @@ Die Ishikawa-Methode ist klar in fünf Schritte gegliedert. [^3]
 
 #### 1. Das Ishikawa-Diagramm zeichnen und die 8M einfügen  
 Man sollte sich viel Platz zwischen den einzelnen Punkten einplanen und beachten, dass konkrete Ursachen nicht immer mit einem Wort zusammengefasst werden können. 
-Da diese Aufgabe oft in Teams und Brainstorming Runden bearbeitet wird ist ein [Taskboard](Taskboard.md) zu empfehlen.
+Da diese Aufgabe oft in Teams und Brainstorming-Runden bearbeitet wird, ist ein [Taskboard](Taskboard.md) zu empfehlen.
 
 #### 2. Konkrete Ursachen sammeln und zuordnen
 In diesem Schritt wird alles gesammelt, was irgendwie mit dem entstandenen Problem zusammen hängen könnte. 
 Selbst wenn es nur kleine oder irrelevante Berührungspunkte sind.
-Das wichtigste an diesem Schritt ist möglichst nichts unbeobachtet zu lassen.
+Das wichtigste an diesem Schritt ist, möglichst nichts unbeobachtet zu lassen.
 
 #### 3. Vollständigkeit
 Man geht einen Schritt zurück und geht sicher, dass kein Aspekt ausgelassen wurde und alle möglichen Kontributoren an dem Problem festgehalten wurden.  
@@ -76,13 +76,13 @@ wahre Problemursache“ (Imai 2002, S. 94)
     - Weil Schmutz hineingelangt ist"*  [^3]
 
 #### 4. Abwägung der Wahrscheinlichkeit
-Hier werde nun alle gesammelten konkreten Ursachen ausgewertet.
-Dabei wird beachtet, ob der Zusammenhang realistisch ist, ob der Einfluss der Ursache groß genug ist um
+Hier werden nun alle gesammelten konkreten Ursachen ausgewertet.
+Dabei wird beachtet, ob der Zusammenhang realistisch ist, ob der Einfluss der Ursache groß genug ist, um
 ein Problem zu produzieren und ob es tatsächlich kausal ist oder doch mit einer anderen Ursache lediglich korrelieren könnte. [^1]
 
 #### 5. Richtigkeit überprügen und Maßnahmen ableiten
-Dieser Punkt kann sich in Projekten unterscheiden. Ob direkt Maßnahmen abgeleitet werden kann von anderen Faktoren abhängen.
-Die Richtigkeit zu überprüfen ist ein kritischer Punkt dieser Methode.
+Dieser Punkt kann sich in Projekten unterscheiden. Ob direkt Maßnahmen abgeleitet werden können, hängt von anderen Faktoren ab.
+Die Richtigkeit zu überprüfen, ist ein kritischer Punkt dieser Methode.
 Die Frage, wie man Ursachen nun auf ihren echten Einfluss testen kann, ist oft der schwerste Schritt.
 Jedoch ist dies unabdingbar, um keine überflüssigen Maßnahmen in Kraft zu setzen. [^3]
 
