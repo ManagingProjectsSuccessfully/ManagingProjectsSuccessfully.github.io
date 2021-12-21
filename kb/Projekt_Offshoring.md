@@ -30,7 +30,6 @@ Das Offshoring stellt das Unternehmen vor zahlreiche [Herausforderungen](Herausf
 # Siehe auch
 
 * [Nearshoring](Projekt_Nearshoring.md)
-* [Projekt](Projekt.md)
 * [Arbeitskräfte](Projektmitarbeiter.md)
 * [internationale Projektteams](Internationale_Projektteams.md)
 * [Herausforderungen bei internationalen Projekten](Herausforderungen_bei_internationalen_Projekten.md)
