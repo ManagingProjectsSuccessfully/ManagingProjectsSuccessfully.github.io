@@ -7,7 +7,7 @@ anrechnung: k
 
 # 1.	Allgemeines zur Projektplanung im klassischen Projektmanagement
 
-Gerade im klassischen Projektmanagement spielt insbesondere die Planungsphase eine exorbitante Rolle. Diese erfolgt nach Projektbeginn und dient der Vorbereitung von Durchführung bzw. Umsetzung des Projekts. Die Planung basiert auf der Vorgabe der Projektleitung und der Teambildung, mit der Konsequenz, dass sukzessive Projektteilnehmer ohne große Umstände einbezogen werden können. Ausgehend von der Grobplanung wird im Verlauf der Projektarbeit steigernd auf Details Bezug genommen. Hierbei wird dann ein detaillierter Plan errichtet, welcher in Teilprojekte aufgeteilt wird. Der Projektleiter und das Team stimmen dann Kosten und Ressourcen auf Basis der detaillierten Planung genauer ab. Die Projektleiter und das Team müssen ebenso abklären, ob die getroffenen Annahmen realistisch umzusetzen sind. Darüber hinaus wird ein Projektmanagementplan erstellt, zwecks Wahrung der Übersichtlichkeit. Der Projektmanagementplan legt zusätzlich fest, welche Verantwortungsbereiche durch welche Mitarbeiter abgedeckt werden. [^1].
+Gerade im klassischen Projektmanagement spielt insbesondere die Planungsphase eine exorbitante Rolle. Diese erfolgt nach Projektbeginn und dient der Vorbereitung von Durchführung bzw. Umsetzung des Projekts. Die Planung basiert auf der Vorgabe der Projektleitung und der Teambildung, mit der Konsequenz, dass sukzessive Projektteilnehmer ohne große Umstände einbezogen werden können. Ausgehend von der Grobplanung wird im Verlauf der Projektarbeit steigernd auf Details Bezug genommen. Hierbei wird dann ein detaillierter Plan errichtet, welcher in Teilprojekte aufgeteilt wird. Der Projektleiter und das Team stimmen dann Kosten und Ressourcen auf Basis der detaillierten Planung genauer ab. Die Projektleiter und das Team müssen ebenso abklären, ob die getroffenen Annahmen realistisch umzusetzen sind. Darüber hinaus wird ein Projektmanagementplan erstellt, zwecks Wahrung der Übersichtlichkeit. Der Projektmanagementplan legt zusätzlich fest, welche Verantwortungsbereiche durch welche Mitarbeiter abgedeckt werden. [^1]
 
 # 2.	Schritte der Projektplanung
 
@@ -18,7 +18,7 @@ Die ersten drei Schritte der Projektplanung werden durch die Grobplanung gebilde
 **3.	Planung der Projektorganisation:** Verteilung der Rollen/Verantwortlichkeiten                               
 **4.	Ablauf- und Terminplanung:** Erstellung einer chronologischen Rheinfolge der Arbeitspakete           
 **5.	Ressourcenplanung:** Ermittlung der notwendigen Ressourcen    
-**6.	Kostenplanung:** Bildung der Projektkosten[^2].
+**6.	Kostenplanung:** Bildung der Projektkosten [^2]
 
 # 3.	Projektplanung in der Praxis
 
