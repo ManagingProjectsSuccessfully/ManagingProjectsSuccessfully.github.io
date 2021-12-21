@@ -8,7 +8,7 @@ Die Meilensteintrendanalyse ist eines der beliebtesten Verfahren des Projektcont
 
 # Anwendung der Meilensteintrendanalyse
 
-Die Meilensteintrendanalyse soll den Projektverantwortlichen einen visuellen Überblick über die Entwicklung der einzelnen Projektabschnitte im Verlauf der aufeinanderfolgenden Berichtsperioden geben[^2]. Bei der Meilensteintrendanalyse sollten drei wesentliche Fragen immer im Blick gehalten werden:
+Die Meilensteintrendanalyse soll den Projektverantwortlichen einen visuellen Überblick über die Entwicklung der einzelnen Projektabschnitte im Verlauf der aufeinanderfolgenden Berichtsperioden geben[^2]. Bei der Meilensteintrendanalyse sollten drei wesentliche Fragen immer im Blick behalten werden:
 
 * Wie liegt man im Zeitplan?
 * Wird das Projekt rechtzeitig fertig?
@@ -33,7 +33,7 @@ Die Steigungen des Diagramms haben folgende Bedeutungen:
 
 * Horizontale Linien: Hier wurde der Termin wie geplant eingehalten. Es gibt keine Verzögerungen und der nächste Projektschritt kann auf das abgeschlossene Teilprojekt aufgebaut werden[^1].
 * Steigende Linien: Der Termin hat sich verzögert. Es sollen dringend Maßnahmen ergriffen werden, um im Zeitplan bleiben zu können, damit sich der Abschluss anderer Projektschritte nicht weiter in die Zukunft verschiebt[^1].
-* Fallende Linien: Hier konnte der Termin nicht nur eingehalten werden, sondern der Meilenstein auch frühzeitig abgeschlossen werden. Dies ist sehr von Vorteil, wenn sich zukünftige Termine im Projekt verzögern werden, da ein Zeitfenster geschaffen wurde, der später genutzt werden kann, um bei kommenden Meilensteinen den Zeitplan einhalten zu können[^1].
+* Fallende Linien: Hier konnte der Termin nicht nur eingehalten, sondern der Meilenstein auch frühzeitig abgeschlossen werden. Dies ist sehr von Vorteil, wenn sich zukünftige Termine im Projekt verzögern, da ein Zeitfenster geschaffen wurde, das später genutzt werden kann, um bei kommenden Meilensteinen den Zeitplan einhalten zu können[^1].
 
 # Tools zur Anwendung der Meilensteintrendanalyse 
 Obwohl sich die Meilensteintrendanalyse auch ganz einfach auf dem Papier anwenden lässt, gibt es mittlerweile zahlreiche Excel Add-ons, Tools bei Microsoft Project oder [Cloudbasierte Services](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cloud_Services.md), deren Zweck es ist, den Projektfortschritt professionell zu visualisieren[^7].
