@@ -13,7 +13,7 @@ anrechnung: k
 Der Projektabschlussbericht (PAB) ist einer der letzten Prozesse im Projektfortschritt und wird im Rahmen des [Projektabschlusses](Projektabschluss.md) durchgeführt, 
 welcher bereits im Vorfeld des
 Kompendiums erläutert wurde. Der Projektabschluss stellt den letzten Abschnitt der Unternehmung dar und enthält zusätzlich Schritte wie die Produktabnahme oder die
-Projektauflösung. Diese werden angrenzend an den Bericht durchgeführt.[^1]. 
+Projektauflösung. Diese werden angrenzend an den PAB durchgeführt.[^1]. 
 
 # Inhalt
 
