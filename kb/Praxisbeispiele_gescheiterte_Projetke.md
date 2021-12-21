@@ -44,11 +44,11 @@ Für den Begriff „Projekt“ gibt es viele verschiedene Definitionen. Betracht
 ## Gescheitertes Projekt – Kriterien 
 
 Ein Projekt gilt als nicht erfüllt, wenn
-* Es die Projektanforderungen nicht erfüllt: Das eigentliche Ziel ist hinfällig geworden oder kann nicht mehr erreicht werden.
-* Die Kosten außer Kontrolle geraten und das bereits Investierte nicht mehr zurückerhalten werden kann.
-* Die Kosten das Budget auf erhebliche Weise übersteigen.
-* Äußere Umstände das Projekt so beeinflussen, dass seine Erfüllung unmöglich wird.
-* Rechtliche oder ethische Gründe für einen Projektabbruch sprechen.
+* es die Projektanforderungen nicht erfüllt: Das eigentliche Ziel ist hinfällig geworden oder kann nicht mehr erreicht werden.
+* die Kosten außer Kontrolle geraten und das bereits Investierte nicht mehr zurückerhalten werden kann.
+* die Kosten das Budget auf erhebliche Weise übersteigen.
+* äußere Umstände das Projekt so beeinflussen, dass seine Erfüllung unmöglich wird.
+* rechtliche oder ethische Gründe für einen Projektabbruch sprechen.
 
 Ein Projekt kann also fertiggestellt werden und trotzdem scheitern. Darüber hinaus kann es noch weitere Gründe geben, welche gegen die Projektdefinition verstoßen.[^2] 
 
@@ -58,7 +58,7 @@ Ein Projekt kann also fertiggestellt werden und trotzdem scheitern. Darüber hin
 
 ![Beispielabbildung](Praxisbeispiele_gescheiterte_Projetke/BaustelleBER.jpg)
 
-*Baustelle am Vorfeld des Flughafen Berlin Brandenburg "Willy Brandt"*[^3]
+*Baustelle am Vorfeld des Flughafens Berlin Brandenburg "Willy Brandt"*[^3]
 
 Der Flughafen BER ist eines der bekanntesten gescheiterten Projekte in Deutschland in jüngster Vergangenheit. Dieses Projekt ist eine Aneinanderreihung von Fehlentscheidungen und gescheiterten Vorgaben:
 
@@ -67,11 +67,11 @@ Der Flughafen BER ist eines der bekanntesten gescheiterten Projekte in Deutschla
 * 2013 ergab eine Prüfung 14.750 bauliche Brandschutzmängel.
 * Im gleichen Jahr bemängelte der TÜV 70% aller verlegten Kabel.
 * 2014 gab es 1.300 falsche Raumnummern (ca. ein Drittel aller Räume).
-* Bisher hat das Projekt BER den Steuerzahler deutlich mehr als sechs Milliarden Euro gekostet und damit mehr als das dreifache der ursprünglich geplanten Summe.[^4]
+* Bisher hat das Projekt BER den Steuerzahler deutlich mehr als sechs Milliarden Euro gekostet und damit mehr als das Dreifache der ursprünglich geplanten Summe.[^4]
 
 ## Die Elbphilharmonie
 
-Die Elbphilharmonie sollte ursprünglich 2010 eröffnet werden und insgesamt 77 Millionen Euro kosten. Sieben Jahre später als geplant wurde sie schließlich eröffnet und kostete letztlich mit 789 Millionen Euro mehr als das zehnfache der ursprünglich veranschlagten Kosten. Bereits während der Bauphase wurde das Projekt von Konflikten, Gerichtsprozessen und einem von der Hamburgischen Bürgerschaft eingerichteten Untersuchungsausschuss begleitet.[^5]
+Die Elbphilharmonie sollte ursprünglich 2010 eröffnet werden und insgesamt 77 Millionen Euro kosten. Sieben Jahre später als geplant wurde sie schließlich eröffnet und kostete letztlich mit 789 Millionen Euro mehr als das Zehnfache der ursprünglich veranschlagten Kosten. Bereits während der Bauphase wurde das Projekt von Konflikten, Gerichtsprozessen und einem von der Hamburgischen Bürgerschaft eingerichteten Untersuchungsausschuss begleitet.[^5]
 
 ## Stadtautobahn Boston 
 
@@ -97,7 +97,7 @@ Das Projekt des unterirdischen Stuttgarter Hauptbahnhofs dauert seit der Projekt
 
 * Weltweit verschwenden Organisationen alle 20 Sekunden ca. 1 Million US-Dollar durch schlechtes Projektmanagement. 
 * Eine Analyse von 1471 IT-Projekten ergab, dass die Ist-Kosten durchschnittlich 27% über den Soll-Kosten lagen und 70% dieser Projekte das zeitliche Ziel nicht einhalten konnten.
-* PwC stellte nach der Untersuchung von 10.640 Projekten fest, dass nur 2,5% der Unternehmen all ihre Projekte erfolgreich umsetzten. 
+* PwC stellte nach der Untersuchung von 10.640 Projekten fest, dass nur 2,5% der Unternehmen alle ihre Projekte erfolgreich umsetzten. 
 * McKinsey analysierte über 5.000 Projekte und stellte fest, dass
   - 56% die Renditeerwartung verfehlten,
   - 45% das Budget überschritten,
