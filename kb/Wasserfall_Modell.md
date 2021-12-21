@@ -9,7 +9,7 @@ Das [Wasserfallmodell](Wasserfallmodell.md) ist ein [lineares_Modell](lineares_M
 
 # Grundkonzepte und Phasen: 
 
-Jede dieser Phasen endet mit einem Meilenstein, für den eine definierte Ergebnismenge bereitgestellt werden muss. Jede Phase ist mit verschiedenen Aktivitäten gebündelt, die vollständig in der richtigen Reihenfolge ausgeführt werden müssen. Am Ende jeder Aktivität steht ein fertiges Ergebnis.[^3]Tritt in einer abgeschlossenen Stufe ein Fehler auf, kann zur letzten Stufe zurückgekehrt werden, dieser Vorgang wird als [Feedback-Looping](Feedback-Looping.md)[^4]
+Jede dieser Phasen endet mit einem Meilenstein, für den eine definierte Ergebnismenge bereitgestellt werden muss. Jede Phase ist mit verschiedenen Aktivitäten gebündelt, die vollständig in der richtigen Reihenfolge ausgeführt werden müssen. Am Ende jeder Aktivität steht ein fertiges Ergebnis.[^3] Tritt in einer abgeschlossenen Stufe ein Fehler auf, kann zur letzten Stufe zurückgekehrt werden, dieser Vorgang wird als [Feedback-Looping](Feedback-Looping.md) bezeichnet. [^4]
 
 ![Beispielabbildung](Wasserfall_Modell/Phasen.jpg)
 
@@ -17,7 +17,9 @@ Jede dieser Phasen endet mit einem Meilenstein, für den eine definierte Ergebni
 
 
 ##  1. Anforderung:
-Ein Auftrag wird von der Kunde erteilt, in dem der Kunde seine Erwartungen mitteilt, da plant man alles bezüglich Kosten und Termine, sowie ein Entwicklerteam wird dann zusammengestellt.
+In der ersten Phase werden Anforderungen an das neue Projekt festgelegt. Sie beinhaltet eine [Ist-Analyse](Ist-Analyse.md) und ein [Soll-Konzept](Soll-Konzept.md). Während Ist-Analysen den Problembereich skizzieren, wird im Soll-Konzept definiert, welche Funktionen und Eigenschaften das Software-Produkt bieten muss, um den Anforderungen gerecht zu werden. Zu den Ergebnissen der Anforderungsdefinition gehören beispielsweise ein Pflichtenheft, eine detaillierte Beschreibung, wie die Anforderungen an das Projekt zu erfüllen sind, sowie ein Plan für Akzeptanztest.[^6]
+
+Abschließend sieht die erste Phase des Wasserfallmodells eine Analyse der Anforderungsdefinition vor, in der komplexe Probleme in kleine Teilaufgaben zerlegt und entsprechende Lösungsstrategien erarbeitet werden.[^7]
 
 ##  2. Design/ Entwurf:
 und da wird das ganze Softwaredesign gemacht und als Resultat dieser Phase wird der Bauplan der Software erstellt.
@@ -69,8 +71,10 @@ Das Modell bringt auch paar kritische Punkte mit wie:
 [^1]: https://www.teamazing.de/was-ist-das-wasserfallmodell/
 [^2]: https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
 [^3]: https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
-[^4]: https://www.quality.de/lexikon/wasserfallmodell/ 
+[^4]: https://www.youtube.com/watch?v=8MEacBXP6zg&t=41s 
 [^5]: https://www.netzsieger.de/ratgeber/methoden-des-traditionellen-projektmanagements#pid=1
+[^6]: https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
+[^7]: https://www.factro.de/blog/wasserfallmodell/
 * https://www.teamazing.de/was-ist-das-wasserfallmodell/
 * https://management.bildungsbibel.de/projektmanagement-wasserfallmodell-softwareentwicklung-phasen
 * https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
