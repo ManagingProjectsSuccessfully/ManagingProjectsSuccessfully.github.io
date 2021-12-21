@@ -56,7 +56,7 @@ Im Bereich der Forschung und Entwicklung kann durch Gewinnung objektiver Kennzah
 Zeitreihenvergleich, auch eine Annäherungsrechnung zum erzielten Produktivitätsfortschritt durchgeführt werden. Der große Vorteil der Abschlussanalysen liegt 
 in der Organisation eines breit angelegten Zugriffs zu diesen Daten, der in größeren F&E-Abteilungen zu einem rechnergestützten Wissenstransfer ausgebaut werden 
 kann[^3].
-Eine wichtige Komponente bei einer Abschlussanalyse sind Erfahrungsdaten. Diese geben nämlich eine wesentliche Orientierungshilfe. Im Schätz- und 
+Eine wichtige Komponente bei einer Abschlussanalyse sind Erfahrungsdaten. Diese geben eine wesentliche Orientierungshilfe. Im Schätz- und 
 Beurteilungsprozess wird das subjektiv vorhandene Erfahrungswissen durch systematisch gesammelte und ausgewertete Erfahrungsdaten ergänzt. Mithilfe einer (am besten 
 computergestützten) Datenbank sind Erfahrungsdaten schneller und leichter auswertbar. 
  
