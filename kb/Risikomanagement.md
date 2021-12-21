@@ -84,7 +84,7 @@ Ob im [Projektmanagement](Projektmanagement.md), Compliance oder Hedging – die
 
 ![Mindmap](Risikomanagement/Risikomanagement.jpg)
 
-# Siehe auch
+# 6. Siehe auch
 - [Projektmanagement](Projektmanagement.md)
 - [Risikotransfer](Risikotransfer.md)
 - [Stakeholdermanagement](Stakeholdermanagement.md)
@@ -96,10 +96,7 @@ Ob im [Projektmanagement](Projektmanagement.md), Compliance oder Hedging – die
 - [Risikobewertung von Umweltkatastrophen](Risikobewertung_von_Umweltrisiken.md)
 - [Lessons learned](Lessons_Learned.md)
 
-# Weiterführende Literatur
-
-
-# Quellen
+# 7. Quellen
 
 [^1]: [Einführung Risiko](https://sevdesk.de/blog/risikomanagement/#definition)
 [^2]: [Begriffserkärung Risiko](https://www.business-wissen.de/hb/ziele-und-aufgaben-des-risikomanagements-im-unternehmen/)
