@@ -38,7 +38,7 @@ Das Offshoring stellt das Unternehmen vor zahlreiche [Herausforderungen](Herausf
 
 # Weiterführende Literatur
 
-* [Der Einfluss kultureller Unterschiede beim IT-Offshoring von J. Winkler, J. Dibbern, A. Heinz](https://link.springer.com/content/pdf/10.1007/s11576-007-0031-8.pdf)
+* [Der Einfluss kultureller Unterschiede beim IT-Offshoring von J. Winkler, J. Dibbern, A. Heinz](https://link.springer.com/article/10.1007/s11576-007-0031-8)
 
 # Quellen
 
