@@ -8,8 +8,8 @@ anrechnung: k
 
 ![Photovoltaik](https://www.co2online.de/fileadmin/_processed_/b/7/csm_photovoltaikanlage-und-windkraftwerk_278dc38ea3.jpg) [^1]
 
-Um die Energiewende in Deutschland durchführen zu können, müssen mehrere Fachbereiche miteinander verbunden werden. Dazu gehören insbesondere Technik, Recht und Wirtschaft. Das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) für eine erfolgreiche Energiewende fokussiert sich auf die Planung und darauffolgende Umsetzung der Energiewende mit zumeist klassischen Projektmanagementtechniken. Das Ziel ist es dabei eine Strategie zu entwickeln, um von fossilen und nicht nachhaltigen Rohstoffen zu erneuerbaren Energien zu wechseln.
-Einen großen gemeinsamen Plan gibt es dafür jedoch nicht. Vielmehr befassen sich Nationen und Unternehmen einzeln bzw. in kleineren Verbänden damit. Als gemeinsame Grundlage gelten Anordnungen der Klimakonferenzen und bereits bekannte Technologien, um erneuerbare Energien zu nutzen, wie z.B. Photovoltaik und Solarthermie bei Sonnenenergie.
+Um die Energiewende in Deutschland durchführen zu können, müssen mehrere Fachbereiche miteinander verbunden werden. Dazu gehören insbesondere Technik, Recht und Wirtschaft. Das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) für eine erfolgreiche Energiewende fokussiert sich auf die Planung und die darauffolgende Umsetzung der Energiewende mit zumeist klassischen Projektmanagementtechniken. Das Ziel ist es dabei eine Strategie zu entwickeln, sodass von fossilen und nicht nachhaltigen Rohstoffen zu erneuerbaren Energien gewechselt werden kann.
+Einen großen gemeinsamen Plan gibt es dafür jedoch nicht. Vielmehr befassen sich Nationen und Unternehmen einzeln bzw. in kleineren Verbänden damit. Als gemeinsame Grundlage gelten Anordnungen der Klimakonferenzen und bereits bekannte Technologien um erneuerbare Energien zu nutzen, wie z.B. Photovoltaik und Solarthermie bei Sonnenenergie.
 Klassisches Projektmanagement setzt auf Vorausplanen und Einhalten einer Strategie.  Somit werden vorher die Zielvorgaben für bestimmte Aspekte definiert und möglichst im Verlauf des Projektes eingehalten. Dazu gehören Zielvorgaben wie [Qualität des Endprodukts](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Qualitaetsmanagement.md), [Ressourceneinsatz](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Ressourcenplanung.md), [Kosten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kostenplanung.md) und Termine.
 
 # Ziele & Anforderungen
@@ -24,12 +24,12 @@ Im Anforderungsmanagement wurde folgende Anforderungen als besonders wichtig era
 
 # Was wird dafür benötigt?
 
-Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovoltaik, Biomasse und Geothermie.[^3] Auch eine Erweiterung der Infrastruktur in Form von Energienetzen, als auch ein ausbau der digitalen Infrastruktur wird benötigt. Damit ein Transport der Energie über das gesammte Bundesgebiet gelingen kann. Zusätzlich sind Investitionen im F&E Bereich zu tätigen, sodass die zugrundeliegenden Technologien,wie Energiespeicherung, verbessert werden können und konkurrenzfähiger sind.
+Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovoltaik, Biomasse und Geothermie.[^3] Auch eine Erweiterung der Infrastruktur in Form von Energienetzen, als auch ein Ausbau der digitalen Infrastruktur wird benötigt. Damit ein Transport der Energie über das gesammte Bundesgebiet gelingen kann. Zusätzlich sind Investitionen im F&E Bereich zu tätigen, sodass die zugrundeliegenden Technologien,wie Energiespeicherung, verbessert werden können und konkurrenzfähiger sind.
 
 # Risiken 
 Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) befassen sich Projektleiter mit folgenden Problemen:
 * Hohe Kosten – Aufbau von Anlagen, Netzen und Infrastruktur notwendig
-* Große Stromtrassen oft nicht erwünscht von Anwohnern. Möglichkeit von Demonstrationen und ähnlichem
+* Große Stromtrassen oft nicht erwünscht von Anwohnern. Gefahr von Demonstrationen und ähnlichem
 * Verfügbarkeit bestimmter Energieträger abhängig von Tages-/Jahreszeit
 * Technologische Herausforderungen 
 * Ständige Gesetzesänderungen 
@@ -38,7 +38,7 @@ Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingPr
 **Risikomanagement am Beispiel einer Biogasanlage**:
 * Stetiges Kontrollieren und Speichern von Messständen. (Öl, Methan, Druck, Temperatur, etc.) [^4]
 * Störmeldungen ab bestimmten Parametern [^4]
-* Versicherbarkeit nur bei bestand eines Wartungsvertrags [^4]
+* Versicherbarkeit nur bei Bestand eines Wartungsvertrags [^4]
 
 # Finanzierung 
 Höchste Priorität liegt auf langfristiger Absicherung der Geldmittel. Dabei besteht die Möglichkeit zum Abrufen von vielen verschiedenen staatlichen Fördermitteln und Subventionen.
@@ -47,7 +47,7 @@ Viele Konzepte bauen auf eine Unterstützung durch die Euorpäische Investitions
 # Derzeitiger Stand
 Der Anteil der Erneuerbaren Energien am deutschen Stromverbrauch lag 2020 bereits bei 45 Prozent. [^2]
 Der Anteil der erneuerbaren Energien am gesamten Energieverbrauch – also Strom, Wärme und Verkehr – beträgt mittlerweile fast 20 Prozent. [^2]
-Dennoch auch negative Nachrichten, da der Netzausbau nur schleppend vorrangeht. [^2]
+Ein negativer Aspekt ist jedoch der schleppende Netzausbau. [^2]
 
 ![Derzeitiger Stand](https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_bdcc5b1633.png)[^6]
 
