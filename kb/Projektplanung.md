@@ -22,9 +22,9 @@ Das [Klassische Projektmanagement](Projektmanagement.md) kann aus der institutio
 
 # Modelle der Projektplanung im klassischen Projektmanagement
 
-## [Wasserfallmodell](Wasserfall_Modell.md) 
+## Wasserfallmodell 
 
-Zwei bekannte Vorgehensmodelle des klassischen Projektmanagements sind einerseits das Wasserfallmodell und andererseits das Spiralmodell. „Das Wasserfallmodell ist die einfachste Form der Vorgehensmodelle und besteht in seiner ursprünglichen Form aus den Phasen Anforderungsdefinition, Analyse, Entwurf, Implementierung, Test und Inbetriebnahme.“[^6] Das lineare Modell eignet sich vor allem für Projekte mit bekannten Anforderungen, die wenige Änderungen vorhersehen.
+Zwei bekannte Vorgehensmodelle des klassischen Projektmanagements sind einerseits das [Wasserfallmodell](Wasserfall_Modell.md) und andererseits das Spiralmodell. „Das Wasserfallmodell ist die einfachste Form der Vorgehensmodelle und besteht in seiner ursprünglichen Form aus den Phasen Anforderungsdefinition, Analyse, Entwurf, Implementierung, Test und Inbetriebnahme.“[^6] Das lineare Modell eignet sich vor allem für Projekte mit bekannten Anforderungen, die wenige Änderungen vorhersehen.
 
 ![Beispielabbildung](Projektplanung/Wasserfallmodell.jpg)[^8]
 
