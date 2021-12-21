@@ -24,7 +24,7 @@ Die PRINCE2-Methode setzt sich aus vier Grundbausteinen zusammen, auf welche im 
 
 *	Die [7 PRINCE2 Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
 *	Die 7 PRINCE2 Themen
-*	Die [7 PRINCE2 Prozesse](PRINCE2_7_Prozesse.md)
+*	Die 7 PRINCE2 Prozesse
 *	[Anpassung von PRINCE2 an die Projektumgebung](PRINCE2_Projektumgebung.md) [^7]
 
 Daneben definiert PRINCE2 festgelegte Rollen & Verantwortlichkeiten innerhalb des Projektteams und gibt konkrete Handlungsempfehlungen für jede Projektphase. [^8]
