@@ -12,32 +12,31 @@ nachhaltigen Projekten, mithilfe von Beispielen, erläutert wird.
 # Nachhaltigkeit als tragende Säule der Zukunft
 
 In der modernen Gesellschaft ist Nachhaltigkeit einer der zentralen Aspekte bei der Innovierung von Unternehmen, Haushalten und sogar Ländern, wodurch die Anzahl an 
-nachhaltigen Projekten immer mehr steigt, um Umweltschutz und wirtschaftliche Ziele zu komplementären Zielen zu machen und einen positiven Zukunftsausblick zu schaffen.
+nachhaltigen Projekten immer mehr steigt. Auch wird versucht Umweltschutz und wirtschaftliche Ziele zu komplementären Zielen zu machen und einen positiven Zukunftsausblick zu schaffen.
 Genaueres dazu gibt es beim Beitrag über [Nachhaltigkeit im PM](Nachhaltigkeit_im_PM.md)
 
-Nachhaltigkeit kann allgemein in drei Kernbereiche aufgeteilt werden: ökologische Nachhaltigkeit, ökonomische Nachhaltigkeit und soziale Nachhaltigkeit[^1], wobei stets versucht wird diese Bereiche möglichst gut zu vereinen. Folglich hat sich auch die Bedeutung der Nachhaltigkeit 
-erhöht und ist in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt. Auch sind nachhaltige Projekte sehr eng mit der [nachhaltigen Entwicklung](Nachhaltige_Entwicklung.md) oder im 
-englischen „sustainable development“ verbunden und hängen von einandner ab. 
-Nachhaltige Projekte wurden somit in den letzten 20 Jahren zu einem der zentralen Themen, da das Thema Klimaschutz immer und immer mehr in den Vordergrund gerät.
+Nachhaltigkeit kann allgemein in drei Kernbereiche aufgeteilt werden: ökologische Nachhaltigkeit, ökonomische Nachhaltigkeit und soziale Nachhaltigkeit[^1], wobei stets versucht wird diese Bereiche möglichst gut zu vereinen. Folglich ist vermehrt Nachhaltigkeit in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt. Auch sind nachhaltige Projekte sehr eng mit der [nachhaltigen Entwicklung](Nachhaltige_Entwicklung.md) oder im 
+englischen „sustainable development“ verbunden und hängen von einander ab. 
+Nachhaltige Projekte wurden somit in den letzten 20 Jahren zu einem der zentralen Themen, da das Thema Klimaschutz immer und immer mehr in den Vordergrund gerät und auf der ganzen Welt adressiert werden muss.
 
 ## Nachhaltigkeit in der Gesellschaft 
 
 Zudem ist das Interesse an nachhaltigen Produkten deutlich gestiegen, weshalb Nachhaltigkeit auch ein Verkaufsargument für Unternehmen ist und Kunden generieren 
-kann, dies kann man der linken der drei Darstellungen unter diesem Abschnitt entnehmen[^2]. Aber nicht nur das, wie man in der Infografik in der Mitte, die unten dargestellt ist, sehen kann, wollen junge Menschen lieber für nachhaltige Unternehmen 
-arbeiten, was bedeutet, dass Firmen auch deshalb sich für Nachhaltigkeit einsetzen müssen, um neue und qualitative Arbeitskräfte zu bekommen und diese nicht an andere Unternehmen zu verlieren[^3]. 
+kann. Dies kann man der linken der drei Darstellungen unter diesem Abschnitt entnehmen[^2]. Wie man in der Infografik in der Mitte, die unten dargestellt ist, sehen kann, wollen junge Menschen lieber für nachhaltige Unternehmen 
+arbeiten. Dies bedeutet, dass Firmen auch deshalb sich für Nachhaltigkeit einsetzen müssen, um neue und qualitative Arbeitskräfte zu bekommen und diese nicht an andere Unternehmen zu verlieren[^3]. 
 Jedoch gibt es noch Hürden, die überwindet werden müssen, da in einer Umfrage aus dem Jahr 2014, rund 60% der Befragten in Europa behaupteten sie würden keinen Aufpreis für nachhaltige Produkte zahlen. Unglücklicherweise ist aber der Preis nachhaltiger Produkte meist teurer, da ein höherer Aufwand betrieben werden muss, um ökologische Nachhaltigkeit zu gewährleisten (s. rechte Abbildung)[^4]. 
 
 ![image](https://user-images.githubusercontent.com/92987986/142771702-7ac76d11-3364-477a-b948-7505977a4510.png)[^2] ![image](https://user-images.githubusercontent.com/92987986/142771720-a733c534-7bcb-486e-a25f-37d116367a4e.png)[^3] ![image](https://user-images.githubusercontent.com/92987986/142771731-95f4ff0e-add7-4396-8150-1069b9f26042.png)[^4]
 
 # Nachhaltige Projekte von Städten Europas  
 
-Kommen wir nun aber zu Beispielen für nachhaltige Projekte. Das erste Projekt, dass ich erwähnen möchte, wurde in der Stadt Utrecht realisiert. In der niederländischen Stadt wurden die Dächer der Bushaltestellen mit Grünflächen bedeckt, um Bienen und Insekten zu schützen und dem urbanen Artensterben dieser entgegenzuwirken. Dies könnte ein kleiner Anfang für Großstädte auf der ganzen Welt sein dem Artensterben einiger Tiere entgegenzuwirken, ohne große Summen auszugeben. Auch ist dies wichtig, da Grünflächen in Großstädten immer öfter zu Bauland werden und somit die letzten Lebensräume einiger Tierarten verschwinden[^5].
+Kommen wir nun aber zu Beispielen für nachhaltige Projekte. Das erste Projekt, dass ich erwähnen möchte, wurde in der Stadt Utrecht realisiert. In der niederländischen Stadt wurden die Dächer der Bushaltestellen mit Grünflächen bedeckt, um Bienen und Insekten zu schützen und dem urbanen Artensterben entgegenzuwirken. Dies könnte ein Anfang für Großstädte sein, um auf der ganzen Welt dem Artensterben einiger Tiere entgegenzuwirken, ohne große Summen auszugeben. Auch ist dies wichtig, da Grünflächen in Großstädten immer öfter zu Bauland werden und somit die letzten Lebensräume für eine Vielzahl von Tieren verschwinden[^5].
 
-Ein komplett anderes Projekt wurde in Schwedens Hauptstadt Stockholm verwirklicht. Nämlich wird am Hauptbahnhof, einem der Knotenverkehrspunkte, Körperwärme durch die Lüftungsanlage abgesaugt, um damit Wassertanks zu erhitzen und umlegende Gebäude zu beheizen. Dies sorgt für Nachhaltige Energieverwendung und führt zugleich zur einer Einsparung von Kosten für Strom[^5].
+Ein komplett anderes Projekt wurde in Schwedens Hauptstadt Stockholm verwirklicht. Nämlich wird am Hauptbahnhof, einem der Knotenverkehrspunkte, Körperwärme durch die Lüftungsanlage abgesaugt, um damit Wassertanks zu erhitzen und umliegende Gebäude zu beheizen. Dies sorgt für Nachhaltige Energieverwendung und führt zugleich zu einer Einsparung von Stromkosten[^5].
 
 # Nachhaltige Projekte von Unternehmen
 
-Wie schon vorher erwähnt setzen sich auch Unternehmen Ziele nachhaltiger zu werden. Beispielsweise das IT-Unternehmen Cisco aus den USA, welches ein Forum namens SustainX, eine Nachhaltigkeitsplattform namens GreenHouse und sogar eine mitarbeitergeführte Nachhaltigkeitsorganisation Cisco Green Team auf die Beine gestellt haben. Dadurch wurde es durch das Business Magazine Corporate Knights 2020 als viert nachhaltigstes Unternehmen betitelt[^6]. All diese Projekte sorgen dafür, dass das Unternehmen nachhaltiger agiert und kann potenziell Kunden und qualifizierte Mitarbeiter anziehen. Grund aber das nicht alle Unternehmen diesem Beispiel folgen sind Kosten- und Zeitaufwände, welche den Wandel zu mehr Nachhaltigkeit in der Gesellschaft verlangsamen. 
+Wie schon vorher erwähnt setzen sich auch Unternehmen Ziele nachhaltiger zu werden. Beispielsweise das IT-Unternehmen Cisco aus den USA, welches ein Forum namens SustainX, eine Nachhaltigkeitsplattform namens GreenHouse und sogar eine mitarbeitergeführte Nachhaltigkeitsorganisation Cisco Green Team auf die Beine gestellt haben. Dadurch wurde Cisco durch das Business Magazine Corporate Knights 2020 als viert nachhaltigstes Unternehmen betitelt[^6]. All diese Projekte sorgen dafür, dass das Unternehmen nachhaltiger agiert und kann potenziell Kunden und qualifizierte Mitarbeiter anziehen. Aufgrund von Kosten- und Zeitaufwänden folgen, jedoch nur einige Unternehmen dem Ansatz als Unternehmen nachhaltiger zu agieren.
 
 Diese Unternehmen jedoch agieren beispielhaft und gehören zu den 10 nachhaltigsten Unternehmen 2021[^7]:
 
