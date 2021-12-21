@@ -12,7 +12,7 @@ Dabei kann die Planungssicherheit in vielen Bereichen im Projekt genutzt werden,
 Das Planen hat eine wichtige Funktion in unserem Leben, es verschafft vermeintliche Sicherheit.
 So orientiert man sich leichter an vorgegebenen Zielen oder kann den Verlauf bis zu einem bestimmten Grad steuern, 
 um das gewünschte Ergebnis zu erreichen. [^2] 
-Typisch für das klassische [Projektmanagement](Projektmanagement.md) ist die detaillierte Planung des gesamten [Projektes](Projekt.md).
+Typisch für das klassische [Projektmanagement](Projektmanagement.md) ist die detaillierte Planung des gesamten [Projekts](Projekt.md).
 Prinzipiell steht das klassische Projektmanagement daher vor allem für eine große Planungssicherheit. [^3]
 Eines der wichtigsten Schritte beim [Projektstart](Projektstart.md) ist daher die Planung. 
 Dabei kann diese in vielen unterschiedlichen Arten und Methoden ausfallen, von der Planung großer [Meilensteine](Meilensteine.md) 
