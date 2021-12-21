@@ -15,7 +15,7 @@ Der Erfolg von Walt Disney lag wohl unter anderem daran, dass es für ihn schein
 Und genau dieses berühmte Zitat zeigte sich auch beim Kreativitätsprozess der Walt Disney Company wieder. Disney lies dabei drei verschiedene Räume für sein Team entsprechend gestalten, um verschiedene Denkprozesse freizusetzen: Einen Raum für die Träumer, einen für die Realisten und einen für die Kritiker[^3]. 
 Robert B. Dilts modellierte diese Herangehensweise von Walt Disney und entwickelte daraus im Jahr 1994 die Walt-Disney-Methode[^4]. 
 # Methode
-Die [Methode](Methoden.md)  besteht aus einem Rollenspiel mit drei verschiedenen Rollen: der Träumer, der Realist und der Kritiker. Zudem ergibt es bei unerfahrenen Gruppen Sinn, einen Moderator beziehungsweise Beobachter einzubinden. Um jeder Rolle ihrem Platz zu bieten, kann man beispielsweise drei Stühle mit etwas Dekoration in verschiedene Ecken eines Raumes stellen oder am Boden eines Raumes jeweils drei Karten mit unterschiedlichen Farben legen[^5]. Dies kann die Haltung der Teilnehmer in der jeweiligen Rolle beeinflussen[^4]. 
+Die [Methode](Methoden.md) besteht aus einem Rollenspiel mit drei verschiedenen Rollen: der Träumer, der Realist und der Kritiker. Zudem ergibt es bei unerfahrenen Gruppen Sinn, einen Moderator beziehungsweise Beobachter einzubinden. Um jeder Rolle ihrem Platz zu bieten, kann man beispielsweise drei Stühle mit etwas Dekoration in verschiedene Ecken eines Raumes stellen oder am Boden eines Raumes jeweils drei Karten mit unterschiedlichen Farben legen[^5]. Dies kann die Haltung der Teilnehmer in der jeweiligen Rolle beeinflussen[^4]. 
 Jede Rolle wird von jedem Teilnehmer mindestens einmal durchlaufen. 
 # Ablauf
 
@@ -45,7 +45,7 @@ Zuletzt erhält die Position des **Kritikers** ihren Raum[^6]. Er ehält die aus
 - Was könnte verbessert werden? Welches sind Chancen und Risiken?
 - Was wurde übersehen?[^6]
 
-Nachdem der Kritiker die Chancen und Risiken der Ideen aufgezeigt hat, geht diese Idee wieder zurück zum Träumer. Nun stellt man dem Träumer die Frage, ob dies noch seinem "Traum" entspricht. Wenn der Träumer dies als seinen "Traum" weiterhin wiedererkennt, endet die [Methode](Methoden.md) . Erkennt er diesen nicht, durchläuft man den Prozess erneut[^1].  
+Nachdem der Kritiker die Chancen und Risiken der Ideen aufgezeigt hat, geht diese Idee wieder zurück zum Träumer. Nun stellt man dem Träumer die Frage, ob dies noch seinem "Traum" entspricht. Wenn der Träumer dies als seinen "Traum" weiterhin wiedererkennt, endet die [Methode](Methoden.md). Erkennt er diesen nicht, durchläuft man den Prozess erneut[^1].  
 
 ## Der Beobachter
 Zusätzlich ergibt es Sinn - vor allem bei noch unerfahrenen Teams - einen **Beobachter** einzubinden[^7]. Dieser wird nach jeder Rolle kurz mit einbezogen, um die Ergebnisse der jeweiligen Positionen neutral zu bewerten. Er kann dabei folgende Fragen stellen: 
