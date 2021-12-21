@@ -61,6 +61,6 @@ Der kostspielige Finanz- und Zeitaspekt des [Risikomanagements](Risikomanagement
 [^1]: [HAUPT RISIKOMANAGEMENT-TUTORIALS
 Risikotransfer(teamaftermarket)](https://teamaftermarket.com/691-risk-transfer)  
 [^2]: [Was sind Derivate? Derivate einfach erklärt!](https://www.finanzfluss.de/geldanlage/derivate/)  
-[^3]: [Risikoüberwälzung](https://de.wikipedia.org/wiki/Risiko%C3%BCberw%C3%A4lzung)
+[^3]: [Risikoüberwälzung](https://de.wikipedia.org/wiki/Risiko%C3%BCberw%C3%A4lzung) 
 
 
