@@ -2,103 +2,71 @@
 title: Projektphasen_klassisch
 tags: agil klassisch
 author: vegas1337
-anrechnung: k oder a
+anrechnung: klassisch
 ---
 
-Kurzbeschreibung zu Projektphasen_klassisch um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Eine Projektphase ist "ein definierter Zeitraum innerhalb der Laufzeit eines [Projekts](Projekt.md), der meist durch jeweils einen [Meilenstein](Meilensteine.md) zu Beginn und Ende im Ablaufplan definiert ist".[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Die Einteilung eines Projekts in verschiedene Phasen dient dabei das Projekt (egal ob groß oder klein) übersichtlicher zu machen und dabei die Kontrolle und Qualität zu erleichtern bzw. zu verbessern. Dies wird durch eine verbesserte Projektsteuerung, z.B. die genaue Verteilung von Aufgaben, und erleichterte Erfolgsprüfung dank genauer Definition von Beginn und Abschluss der Aufgaben/Phasen durch Meilensteine gewährleistet.[^2]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Je nach Quelle und Definition werden klassische Projekte in 4 bis 5 Phasen unterteilt und Schwerpunkt der einzelnen Phasen teilweise auch etwas anders gesetzt. Die Reihenfolge kann sich ändern bzw. können einzelne Schritte im Projekt auch gleichzeitig ausgeführt oder öfter wiederholt werden, bis man zu dem gewünschten Ergebnis kommt.
+Im Folgenden wird ein Modell mit 5 Phasen betrachet[^3]:
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+* Projektvorbereitung
+* Projektplanung
+* Projektdurchfühhrung
+* Projektüberwachung
+* Projektabschluss
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Projektphasen im Detail
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## 1. Projektvorbereitung / Projektstart
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+In dieser ersten Phase wird ein Projekt definiert, Ziele festgelegt und unter anderem Chancen und Risiken diskutiert.[^2] Zusätzlich werden die wichtigsten [Stakeholder](Stakeholderanalyse.md) indentifiziert und das Projekt auf die Umsetzbarkeit und Wirtschaftlichkeit für das ausführende Unternehmen geprüft. Dazu gehören Themen wie die [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md)  oder auch die Ausarbeitung eines Zeitplans.[^3] Dafür kann zum Beispiel die [Methode des kritischen Pfades](Methode_des_kritischen_Pfades.md) angewendet werden.[^9][^4]
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Des Weiteren wird die grobe Planung von benötigten Ressourcen in punkto Arbitskraft oder auch Rohstoffe bzw. Maschinen angegangen. Wichtig ist dabei auch die Beachtung des Ausführungsort des Projekts. Plant man beispielsweise den Bau einer Fabrik in einem anderen Land, so müssen eventuelle rechtliche Bestimmungen zum Thema Arbeitsrecht oder die Einfuhr von Gütern geklärt werden. Hat man keine Rohstoffe und Maschinen vor Ort, müsste man einen möglichen Import dieser Güter in das Zielland auf Rentabilität prüfen. Bei Projekten im IT-Sektor und nicht-physischen Endprodukten entfallen natürlich einige dieser Prüfungsschritte.
 
+Viele Unternehmen haben auch bestimmte Wert- bzw. Umsatzgrenzen, ab wann ein Projekt von einer höheren Managementebene freigegeben werden muss. Wurden alle Rahmenbedingungen geklärt und der Projektantrag bewilligt, folgt die Projektplanung.[^4] 
 
-# Aspekt 1
+## 2. Projektplanung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Hierbei werden mithilfe eines eventuell schon vorhandenen Zeitplans genau Termine herausgearbeitet und in diesem Zuge auch Aufgaben an einzelne Personen oder an zuvor zusammengestellte Teams verteilt. Es wird ebenfalls festgelegt wie ein erfolgreiches Ergebnis aussieht, d.h. ab wann das Projekt abgeschlossen ist. Durch die bereits erwähnten Meilensteine wird das Projekt und die Aufgaben in Abschnitte unterteilt und ein [Projektstrukturplan](Projektstrukturplan.md) wird erstellt, welcher "das Ergebnis einer Gliederung des Projekts in plan- und kontrollierbare Elemente"[^5] ist.[^6] Oft wird auch mit einem [Lasten-](Lastenheft.md) und [Pflichtheft](Pflichtenheft.md) gearbeitet.[^7]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Natürlich bergen Projekte unbeachtet ihrer Größe auch immer Risiken. In einem [Risikomanagementplan](Risikomanagement.md) werden diese aufgeführt und Lösungen für den Fall des Eintritts ausgearbeitet. Die Planung eines Projektes hört jedoch nach Abschluss dieser zweiten Phase nicht auf. Die beteiligten Teams müssen ständig im Austausch miteinander stehen und sich an eventuelle Veränderungen anpassen.[^4]
 
-![Beispielabbildung](Projektphasen_klassisch/test-file.jpg)
+## 3. Projektdurchführung
 
-*lustiges Testbild*
+Sind alle Aufgaben verteilt und man ist mit dem grundlegenden Planungsprozess fertig, so beginnt die Durchführung des Projekts. Der [Projektleiter](Faehigkeiten_Projektleiter.md) ist verantwortlich dafür, "das Team durch die einzelnen Meilensteine zu führen".[^3] 
 
-# Aspekt 2
+In regelmäßigen Projekttreffen des Projektteams werden Informationen über den Status des Projektes ausgetauscht und gegebenenfalls Teile der Planung angepasst. [Statusberichte](Statusreport.md) oder auch die [Kosten-Trend-Analyse](Kosten_Trend_Analyse.md) geben einen Überblick über die aktuelle Sachlage.[^8] Es zeigt sich auch, ob Risiken aus der zweiten Phase eintreten.
+Zusätzlich gewinnt das [Controlling](Projektcontrolling.md) an Wichtigekit, da hierdurch früh unerwünschte Entwicklungen erkannt werden können.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## 4. Projektüberwachung
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Diese Phase läuft meist parallel zur Projektdurchführung. Sie beinhaltet das bereits genannte Controlling und die Überwachung von Fristen, Budget und Ressourcen.[^3] 
+Zum Einsatz kommen Methoden wie die [Kanbanmethode](Kanban.md) zur Produktionsprozesssteurung[^10] oder der Plan/Soll/Ist-Vergleich, bei welchem der Projektfortschritt qualitativ und quantitativ analysiert wird.[^11]
 
-So kann man eine Tabelle erstellen:
+Es besteht eine ständige Kommunikation zwischen allen relevanten Beteiligten und es wird auf unerwünschte Entwicklungen reagiert und gegengesteuert.[^6]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## 5. Projektabschluss
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Der Auftraggeber kann nun das fertige Projekt abnehmen, sofern alle Qualitätsansprüche und Erwartungen erfüllt wurden.[^6] Oft werden vom Projektteam [Abschlussgespräche](Abschlussanalyse.md) geführt, in welchen die Mitwirkenden rückblickend zusammenfassen, was gut gelaufen ist und wo es Probleme gab. Dafür kann ein [Projektabschlussbericht](Projektabschlussbericht.md) erstellt werden. Die gesammelten Erfahrungen kommen dann den nächsten Projekten und der allgemeinen Performance des Teams zugute. 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Es beginnt außerdem die Gewährleistungsphase für die Endprodprodukte. Dazu können Kunden bei beispielsweise dem Bau von Industrieanlagen zusätzlich Serviceverträge mit dem beauftragten Unternehmen abschließen, um sich eine schnelle, fachgemäße Wartung und Instandhaltung zu sichern.[^4]
 
-### Ebene-3-Überschrift
+Weitere Informationen zum Projektabschluss finden Sie [hier](Projektabschluss.md).
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektphasen_klassisch.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [projektmagazin: Projektphasen](https://www.projektmagazin.de/glossarterm/projektphase)
+[^2]: [ProjectWizards: Wie Sie Projektphasen erfolgreich planen](https://www.projectwizards.net/de/blog/2019/06/project-phases)
+[^3]: [MindManagerBlog: Die fünf Phasen dees Projektmanagement-Prozesses](https://blog.mindmanager.com/de/blog/die-funf-phasen-des-projektmanagement-prozesses/)
+[^4]: Eigene Erfahrung aus Ausbildungsphase bei Finance-Abteilung der Siemens Energy AG in Stuttgart (Faser-Industrie)
+[^5]: [Wikipedia: Projektstrukturplan](https://de.wikipedia.org/wiki/Projektstrukturplan)
+[^6]: [business-wissen.de: Phasen des Projektmanagements im Überblick](https://www.business-wissen.de/hb/phasen-des-projektmanagements-im-ueberblick/)
+[^7]: [SoftSelect: Erläuterung: Lastenheft vs. Pflichtenheft](http://www.softselect.de/wissenspool/erlaeuterung_lastenheft_vs_pflichtenheft#:~:text=Das%20Lastenheft%20beschreibt%20die%20gesamte,Lastenheft%20gew%C3%BCnschten%20Funktionen%20umgesetzt%20werden.)
+[^8]: [Julius-Maximilians-Universität Würzburg: Projektdurchführung](https://www.uni-wuerzburg.de/verwaltung/qualitaetsmanagement/projektmanagement/projektdurchfuehrung/)
+[^9]: [Wikipedia: Methode des kritischen Pfades](https://de.wikipedia.org/wiki/Methode_des_kritischen_Pfades)
+[^10]: [Wipedia: Kanban](https://de.wikipedia.org/wiki/Kanban)
+[^11]: [ROLANDWANNER: Welches ist die beste Projektcontrolling-Methode?](https://rolandwanner.ch/die-beste-projektcontrolling-methode/)

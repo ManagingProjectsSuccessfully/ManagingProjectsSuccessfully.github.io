@@ -1,7 +1,7 @@
 ---
-title: Six Sigma Statistische Versuchsplanung
+title: {Six Sigma Statistische Versuchsplanung}
 tags: klassisch
-author: elainevmd
+author: {elainevmd}
 anrechnung: k
 ---
 
