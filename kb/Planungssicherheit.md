@@ -69,7 +69,7 @@ Abläufe erst spät auffallen und die Korrektur dieser meist zu kostenintensiv i
 # 4. Fazit
 Wichtig ist, dass vor dem Projektstart eingeschätzt wird, welche Methode am besten für das geplante Projekt geeignet ist, 
 um eine möglichst hohe Planungssicherheit zu erreichen. Das klassische Projektmanagement bildet diese besonders in den [Meilensteine](Meilensteine.md), 
-([Projektphasen-klassisch](Projektphasen_klassisch.md) und Kosten aus.[^3]
+[Projektphasen-klassisch](Projektphasen_klassisch.md) und Kosten aus.[^3]
 Auch im agilen Projektmanagement spielt die Planungssicherheit eine wichtige Rolle, jedoch wird hier nicht vollständig im Vorhinein geplant, 
 sondern bis zum nächsten voraussehbaren Schritt. [^9]
 
