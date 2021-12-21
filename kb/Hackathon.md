@@ -5,16 +5,16 @@ author: eberto99
 anrechnung: k
 ---
 
-Als Hackathon wird eine kollaborative Veranstaltung bezeichnet, bei welcher die Teilnehmer in kleinen Gruppen zielorientiert eine [innovative](Innovationsprojekte.md) Lösung, in Form eines Produkts oder Services zu einer zuvor definierten Problemstellung erarbeiten.[^7] [^3] [^20]
+Als Hackathon wird eine kollaborative Veranstaltung bezeichnet, bei der Teilnehmer in kleinen Gruppen zielorientiert eine [innovative](Innovationsprojekte.md) Lösung in Form eines Produkts oder Services zu einer zuvor definierten Problemstellung erarbeiten.[^7] [^3] [^20]
 
-Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird hier das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf die zeitliche Komponente des Events, wobei die Teilnehmer zwischen 12 und 48 Stunden Zeit haben.[^4] [^8] [^5] 
+Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird hier das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf die, im Vergleich zu einem [Projekt](Projekt.md), verhältnismäßig kurze Zeit von zwölf bis 24 Stunden zur Erstellung eines Lösungsvorschlags. [^4] [^8] [^5] 
 
-Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Alle verbindet jedoch ein und dieselbe grundlegende Idee, was einen Hackathon im Kern charakterisiert und als Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat.[^8] 
+Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Alle weisen jedoch den selben charakteristischen Kern auf, der das Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat. [^8]
 
 
 # Grundlegende Idee und Ziel
 
-Die grundlegende Idee liegt in der eventspezifischen Herangehensweise an die gestellte Problemsituation. Diese erfolgt auf eine intuitive, kreative und experimentierfreudige Art und Weise. Das Ziel soll nicht eine in allen Belangen absolut perfekte Lösung sein, sondern ein Prototyp [^12], der erste problemlösende Funktionalitäten enthält.[^4] [^2] [^5]
+Die grundlegende Idee liegt in der eventspezifischen Herangehensweise an die gestellte Problemsituation. Diese erfolgt auf eine intuitive, [kreative](Methoden.md#softskill-management) und experimentierfreudige Art und Weise. Das Ziel soll nicht eine in allen Belangen absolut perfekte Lösung sein, sondern ein Prototyp [^12], der erste problemlösende Funktionalitäten enthält.[^4] [^2] [^5]
 
 Der innovative Kern des Hackathons lässt sich anhand von drei wesentlichen Merkmalen charakterisieren[^7]:
 
@@ -27,7 +27,7 @@ Der innovative Kern des Hackathons lässt sich anhand von drei wesentlichen Merk
 *Abbildung 1: Minimalstruktur eines Hackathons* [^7]
 
 
-Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen verstärkt, die zum einen im Zuge der Entwicklung des Formats hinzugekommen sind, und zum anderen den Anreiz des Hackens steigern. Dazu gehört die Kreation einer Wettbewerbssituation durch ein Organisationsteam, Präsentation der Ergebnisse vor einer Jury, als auch vielversprechende Preise.[^7]
+Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen verstärkt, die zum einen im Zuge der Entwicklung des Formats hinzugekommen sind, und zum anderen den Anreiz des Hackens steigern. Dazu gehört die Kreation einer Wettbewerbssituation mit einer abschließenden Präsentation der Ergebnisse vor einer Jury und vielversprechende Preise.[^7]
 
 ![Beispielabbildung](Hackathon/Elemente-Hackathon.png)
 
@@ -38,11 +38,11 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 
 Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Dabei handelte es sich zum einen um die Ausbesserung des Betriebssystems OpenBSD [^13] und zum anderen um die Weiterentwicklung von Software für den damals beliebten Taschenkommunikator Palm [^14] der Firma Sun Microsystems.[^5]
  
-Seitdem haben sich die Hackathon in ihrer Art und Weise, ihrem Ausmaß und ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen sehr stark weiterentwickelt.[^8]
+Seitdem haben sich Hackathons in ihrer Art und Weise, ihrem Ausmaß sowie ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen sehr stark weiterentwickelt.[^8]
 
-Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Aber auch Unternehmen haben in der Vergangenheit feststellen können, dass ein solches Format, intern organisiert, die Initialzündung für neue Ideen, Geschäftsmodelle und vieles mehr sein kann, ohne dabei lange erstphasige Entwicklungszeiten in Kauf zu nehmen.[^8]
+Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Zudem haben Unternehmen in der Vergangenheit festgestellt, dass ein solches Format intern organisiert die Initialzündung für neue Ideen, Geschäftsmodelle und Produkte sein kann. [^8]
 
-Die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen Coronas nicht verschont geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause aus hacken konnten. Aber auch zur Corona-Krise an sich gab es mehrere Hackathons, weltweit als auch in Deutschland. [^11] [^10]
+Die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen Coronas nicht verschont geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause aus hacken konnten. Selbst zur Corona-Krise an sich gab es in Deutschland, als auch weltweit mehrere Hackathons. [^11] [^10]
 
 # Ablauf
 
@@ -55,17 +55,17 @@ In einer Eröffnungsrede werden der Ablauf und der Rahmen der Veranstaltung erl�
 
 __2. Teambuilding__
 
-Die verschiedenen Teams bilden sich in der Regel erst vor Ort, nach gemeinsamen möglichen Lösungsvorstellungen. Eine möglichst heterogene Zusammenstellung ist nicht nur üblich, sondern auch empfohlen. Denn die Mitglieder sollen sich mit ihren unterschiedlichen Fähigkeiten und Kenntnissen gegenseitig ergänzen.[^3] [^4]
+Die verschiedenen Teams bilden sich in der Regel erst vor Ort nach gemeinsamen Lösungsvorstellungen. Dabei wird eine möglichst heterogene Zusammenstellung empfohlen, denn die Mitglieder sollen sich mit ihren unterschiedlichen Fähigkeiten und Kenntnissen gegenseitig ergänzen. [^3] [^4]
 
 __3. Hacken__
 
-Damit ist die eigentliche Entwicklungsarbeit gemeint und nimmt den größten Anteil ein. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototypen auch die Vorbereitungen auf die Präsentation. Dabei folgen die Mitglieder oftmals den Prinzipien von [Desing Thinking](Design_Thinking.md).[^2] [^4] [^5]
+Damit ist die eigentliche Entwicklungsarbeit gemeint, die den größten Anteil einnimmt. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototypen auch die Vorbereitungen auf die Präsentation. Dabei folgen die Mitglieder oftmals den Prinzipien von [Desing Thinking](Design_Thinking.md) oder von anderen [Kreativitätstechniken](Methoden.md#softskill-management).[^2] [^4] [^5]
 
 __4. Pitchen__
 
-Am Ende werden vor einer Jury, die meistens aus den Veranstaltern, Vertreter von Unternehmern und Experten besteht, die Ergebnisse vorgestellt – was in der Start-up-Branche als pitchen bezeichnet wird. Neben einem Hauptgewinner werden oft auch die besten Lösungen in bestimmten Kategorien gekürt, natürlich mit einem entsprechenden Preis.[^2] [^4] [^7]
+Am Ende werden vor einer Jury, die meistens aus den Veranstaltern, Vertreter von Unternehmern und Experten besteht, die Ergebnisse vorgestellt – was in der Start-up-Branche als pitchen bezeichnet wird. Neben einem Hauptgewinner werden oft auch die besten Lösungen in bestimmten Kategorien mit einem Preisgeld gekürt. [^2] [^4] [^7]
 
-# Chancen für die Teilnehmer und Unternehmen
+# Chancen für Teilnehmer und Unternehmen
 
 Den Teilnehmern bietet ein Hackathon nicht nur die meist kostenlose Möglichkeit auf Networking, Wissensaustausch und Preise, sondern auch die Aussicht auf eine längerfristige Zusammenarbeit oder Jobangebot. Denn etablierte, als auch junge Unternehmen nutzen die Gelegenheit um auf sich aufmerksam. So können sie die besten Hacker für sich gewinnen und sich mit interessierten Investoren austauschen.[^2] [^6] [^1]
 
