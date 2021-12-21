@@ -57,8 +57,8 @@ Außerdem wird berichtet, was bereits erreicht worden ist und welche Aufgaben no
   
 * __Demonstration durch das Scrum Team__  
 Nachdem durch den Product Owner ein Gesamtüberlick geliefert wurde, geht das Scrum Team zum einen darauf ein, welche Fortschritte und Ergebnisse jeder einzelne im
-    Team erreicht hat und zum anderen in welchen Bereichen Probleme aufgetreten sind und wie diese gelöst wurden. Dabei stehen sie natürlich stets für Fragen zur 
-    Verfügung
+Team erreicht hat und zum anderen in welchen Bereichen Probleme aufgetreten sind und wie diese gelöst wurden. Dabei stehen sie selbstverständlich stets für Fragen zur 
+Verfügung  
     
 * __Wertschätzung des Geschafften__  
 Hierbei bietet es sich an das Team für seine Arbeit zu loben und einen Dank auszusprechen
