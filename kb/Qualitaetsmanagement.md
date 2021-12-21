@@ -5,29 +5,29 @@ author: noahbrunnhuber
 anrechnung: k
 ---
 
-# Qualitätsmanagement
+
 Das Qualitätsmanagement ist in erster Linie ein Vorgang, dessen Fokus auf der Verbesserung der Qualität von Prozessen oder Produkten liegt. Die Qualität selbst kann dabei vor allem anhand des Grades der Erfüllung der Kundenerwartungen festgestellt werden[^1].
 
-## Definitionen des Qualitätsmanagements
-### DIN EN ISO 9000:2005
+# Definitionen des Qualitätsmanagements
+## DIN EN ISO 9000:2005
 Genauer gesagt versteht man unter Qualitätsmanagement – "entsprechend der Definition nach [DIN EN ISO 9000:2005](https://de.wikipedia.org/wiki/Genormte_Qualit%C3%A4tssicherung#Definition_nach_DIN_EN_ISO_9000) – aufeinander abgestimmte 
 Tätigkeiten zum Leiten und Lenken einer Organisation, die darauf 
 abzielen, die Qualität der produzierten Produkte oder der angebotenen Dienstleistung zu verbessern"[^2]. Im Projekt wird hiebei vor allem auf die Sicherung der Qualität während des gesamten Zeitraums geachtet[^3].
 ### PMBOK
 Das Qualitätsmanagement ist außerdem eine wichtige Wissenssparte des [PMBOK](PMBOK_Guide.md) (Project Management Body of Knowledge). Hier wird es in drei Elemente aufgeteilt: Plan Quality Management, Manage Quality und Control Quality.[^5]
 
-## Ziele des Qualitätsmanagements
+# Ziele des Qualitätsmanagements
 * Verbesserung der Kundenbeziehungen durch Qualitätssicherheit und Zuverlässigkeit
 * kontinuierliche Verbesserung der Prozesse im Projekt mithilfe des [PDCA-Prozesses](https://de.wikipedia.org/wiki/Demingkreis)[^4]
 
-## Ablauf des Qualitätsmanagements
-### Grobe Bestandteile
+# Ablauf des Qualitätsmanagements
+## Grobe Bestandteile
 * genaue Planung und Ausarbeitung der Arbeitsschritte
 * überprüfen, ob Qualitätsansprüche eingehalten werden (Qualitäts-Controlling)
 * Abweichungen erkennen und Gegenmaßnahmen einleiten[^3]
 * Dokumentation des Qualitätsmanagements
 * Austausch mit Kunden und Mitarbeitern[^4]
-### Die vier Phasen des klassichen Qualitätsmanagements
+## Die vier Phasen des klassichen Qualitätsmanagements
 * Phase 1: Qualitätsplanung
   - In dieser Phase wird die vorliegende Situation zunächst analysiert, erste Abläufe werden erstellt und Qualitätsziele festgelegt. Dies geschieht unter Berücksichtigung der vorliegenden Ressourcen und der für das Projekt notwendigen Prozesse.
 * Phase 2: Qualitätslenkung
@@ -39,16 +39,16 @@ Das Qualitätsmanagement ist außerdem eine wichtige Wissenssparte des [PMBOK](P
 
 ![PDCA-Prozess](Qualitaetsmanagement/pdca-new.png)
 
-## Qualitätsmanagementmodelle
-### Total Quality Management (TQM)
+# Qualitätsmanagementmodelle
+## Total Quality Management (TQM)
 Das [Total Quality Management](https://de.wikipedia.org/wiki/Total-Quality-Management) ist eines der bekanntesten Modelle des Qualitätsmanagements neben [Six Sigma](Six_Sigma.md) und [EFQM](https://de.wikipedia.org/wiki/EFQM-Modell)[^8].
 Es dient zur Fehlereliminierung in allen Bereichen eines Projektes oder einer Organisation. Dabei werden alle Parteien, die am Prozess beteiligt sind, miteinbezogen[^9]. Die Maßnahmen, welche bei dieser Art des Qualitätsmanagements im Vordergrund stehen, sind die effektive Datenanalyse, Kommunikation und Strategieplanung[^10]. Die Ziele, die mit dem Total Quality Management verfolgt werden, sind die Verbesserung des Supply Chain Managements und der Kundenbeziehungen[^9] sowie eine Förderung des Engagements der Mitarbeiter in Bezug auf das Qualitätsmanagement. Dies geschieht durch einen fortlaufenden Prozess und kontinuierlichen Fortschritt[^10].
-### Six Sigma
+## Six Sigma
 Im Gegensatz zum Total Quality Management, welches eher eine auf die lange Frist ausgerichtete Methode ist, konzentriert sich Six Sigma auf die Implementierung kleiner, notwendiger Veränderungen, um die Qualität zu steigern und Fehler zu minimieren. Deshalb ist dieses Modell in der Praxis auch etwas komplizierter, als das TQM[^11].
-### EFQM
+## EFQM
 Ziel des EFQM-Modells ist es einen europäischen Ansatz für das Qualitätsmanagement zu schaffen[^12]. Es basiert auf drei grundlegenden Fragen, nach welchen ein Unternehmen sein Qualitätsmanagement gestalten sollte. Zentral sind hierbei der Unternehmensgegenstand, die Strategie, mit der es diesen verwirklichen will und die Resultate, die das Unternehmen bisher erzielt hat und zu erzielen plant[^13].
 
-## Nachteile des Qualitätsmanagements
+# Nachteile des Qualitätsmanagements
 Trotz seiner vielen Vorteile bringt das Qualitätsmanagement auch Belastungen mit sich. Diese sind vor allem die verursachten Kosten, bei denen zwischen Kosten durch die Nicht-Erfüllung der Qualitätsansprüche und Kosten für die Sicherstellung der Qualität unterschieden werden kann. Zudem spielt hier auch der zeitliche Aufwand eine wichtige Rolle[^2].
 
 # Siehe auch
