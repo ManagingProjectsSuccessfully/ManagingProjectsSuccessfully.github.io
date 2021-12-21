@@ -71,6 +71,12 @@ Nach dem Abschluss des Projekts sollte eine Kontrolle der Zielerreichung gemacht
 * [Projektcontrolling](Projektcontrolling.md)
 * [Projektabschluss](Projektabschluss.md)
 
+## Weiterführende Literatur
+
+* Stahl, H. K. & Menz, D. F. (2013). Handbuch Stakeholder-Kommunikation: Überzeugende Sprache in der Unternehmenspraxis (Fokus Management und Führung, Band 4) (neu bearbeitete Aufl.). Erich Schmidt Verlag GmbH & Co.
+
+* [Krips D., 2017, Stakeholdermanagement, Springer Verlag](https://link.springer.com/book/10.1007/978-3-662-55634-4)
+
 ## Quellen
 
 [^1]: [www.controlling-wiki.de](https://www.controlling-wiki.com/de/index.php/Stakeholderanalyse)
