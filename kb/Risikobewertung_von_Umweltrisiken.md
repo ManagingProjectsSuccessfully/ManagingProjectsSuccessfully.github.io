@@ -27,7 +27,7 @@ Die externen Umweltrisiken treten als Folge von Naturkatastrophen und Umweltänd
 
 ![Interne und Externe Risiken](Risikobewertung_von_Umweltrisiken/interne_externe_Risiken.PNG)
 ###### Abbildung 1: Interne und Externe Umweltrisiken 
-[^7]
+[^3]
 
 
 ## Umweltrisiken im Projektmanagement 
@@ -47,7 +47,7 @@ Eine Maßnahme zur Vermeidung und Minimierung von Umweltrisiken und ihrer Schäd
 
 ![Management von Umweltrisiken](https://github.com/loritschka/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikobewertung_von_Umweltrisiken/MNG_UR.PNG)
 ###### Abbildung 2: Management von Umweltrisiken 
-[^7]
+[^3]
 
 ## Siehe auch
 
@@ -65,12 +65,13 @@ Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten
 ## Quellen
 
 [^1]: [Risikoarten](https://www.business-wissen.de/hb/ziele-und-aufgaben-des-risikomanagements-im-unternehmen/)
-[^2]: [Interne und Externe Umweltrisiken](https://de.wikipedia.org/wiki/Umweltrisikomanagement#Allgemeines)  
-[^3]: [Bewertung von Umweltrisiken](https://www.biologie-seite.de/Biologie/Umweltrisikomanagement)  
-[^4]: [Fehlerbaumanalyse](https://de.wikipedia.org/wiki/Fehlerbaumanalyse)
-[^5]: [Ereignisbaumanalyse](https://de.wikipedia.org/wiki/Ereignisbaumanalyse)
-[^6]: [Fehlermöglichkeits- und Einflussanalyse](https://de.wikipedia.org/wiki/FMEA)
-[^7]: [selbst erstellt]
+[^2]: [Interne und Externe Umweltrisiken](https://de.wikipedia.org/wiki/Umweltrisikomanagement#Allgemeines) 
+[^3]: Selbst erstellt
+[^4]: [Bewertung von Umweltrisiken](https://www.biologie-seite.de/Biologie/Umweltrisikomanagement)  
+[^5]: [Fehlerbaumanalyse](https://de.wikipedia.org/wiki/Fehlerbaumanalyse)
+[^6]: [Ereignisbaumanalyse](https://de.wikipedia.org/wiki/Ereignisbaumanalyse)
+[^7]: [Fehlermöglichkeits- und Einflussanalyse](https://de.wikipedia.org/wiki/FMEA)
+
 
 
 
