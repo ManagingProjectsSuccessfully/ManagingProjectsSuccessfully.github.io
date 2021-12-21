@@ -67,7 +67,7 @@ Bewertung und Behandlung offener Punkte, die eventuelle Auswirkungen auf das Pro
 Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststellung und Reporting ob und wie das Projekt fortgeführt werden soll[^3][^4][^7]
 
 
-# Stärken und mögliche Nachteile von PRINCE2
+# Vorteile und mögliche Nachteile von PRINCE2
 
 ## Vorteile:
 
