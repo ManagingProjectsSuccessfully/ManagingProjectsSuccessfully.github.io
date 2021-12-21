@@ -1,104 +1,57 @@
 ---
 title: Velocity
-tags: agil klassisch
+tags: agil
 author: JonathanLoewing
-anrechnung: k oder a
+anrechnung: a
 ---
+# Velocity
+Velocity kommt aus dem Englischen und bedeutet Geschwindigkeit. Dies bezieht sich im agilen Projektmanagement auf Geschwindigkeit des Entwicklungsteams. Die Velocity ist also 
+eine Maßeinheit für die Geschwindigkeit eines Teams. In Scrum wird mit der Velocity gemessen, wie viele Story Points ein Scrum Team im Schnitt pro Sprint erledigen kann.[^3]
 
-Kurzbeschreibung zu Velocity um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Velocity wird meistens im Zusammenhang mit [Scrum](Scrum.md), einem Vorgehensmodell des Projektmanagements, verwendet. Da die Story Points in Scrum alleine keine 
+Aussagekraft in Bezug auf den Arbeitsaufwand und die Geschwindigkeit des Teams haben, wird die Velocity als aussagekräftige Maßeinheit benötigt. Genauer gesagt misst sie die 
+Arbeitsmenge,die ein Entwicklungsteam in einem Sprint erledigen kann. Also ist sie ein Maß für die Schnelligkeit des Teams. Sie variiert auch von Sprint zu Sprint, ist also 
+keine konstante Größe innerhalb eines Projekts.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Berechnung
+Um die Velocity zu berechnen muss man lediglich alle Punkte der vom Entwicklungsteam vollständig abgelieferten User Storys addieren. Mit einem Beispiel lässt sich die 
+Rechnung einfach darstellen. 
+Angenommen man hat drei User Storys, Story A mit 4 Punkten, Story B mit 5 Punkten und Story C mit 7 Punkten. Das Team schafft in einem Sprint nur 
+A und B vollständig und C nicht ganz fertig. So muss man nur die Punkte von A und B addieren und man hat die Velocity. In diesem Beispiel wäre die Velocity 9.[^4]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Visualisierung
+Die Geschwindigkeit kann man mit Hilfe eines Velocity Charts visualisieren. Man stellt die Vorhersage und die wirkliche Velocity der jeweiligen Sprints gegenüber und kann so 
+Abweichungen darstellen. Daraufhin sollte sich das Team die Gründe für die Abweichungen oder die korrekten Vorhersagen überlegen um in Zukunft eine noch bessere Planung und 
+Vorhersage treffen zu können[^2].
+![VelocityVis](https://user-images.githubusercontent.com/92984271/143246428-644cef43-5a4d-4b3e-9ec9-cb1634cf8f2c.jpg)[^2]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Vor- und Nachteile
+Die Velocity bietet viele Vorteile für das Projekt. Zum einen kann die Leistung und der Fortschritt des Entwicklungsteams gemessen werden und man erhält so wertvolles 
+Feedback das zu Optimierungen und einem besseren Verständnis der Arbeitsprozesse führt. Zusätzlich ist die Velocity für den Product Owner sehr nützlich da er durch sie genau 
+berechnen kann wie viele Sprints ein Entwicklungsteam braucht um das gewünschte Produkt mit allen Anforderungen zu liefern.[^3]
+Es gibt aber auch ein paar Dinge auf die man achten und am besten vermeiden sollte. Erstens sollte man nie die Punkte von unfertigen User Storys in die Velocity mit 
+einrechnen. Außerdem wird die Geschwindigkeit immer für das ganze Team berechnet und nicht für einzige Teammitglieder, da die Velocity ein Maßeinheit für das ganze Team 
+ist.[^5]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Fazit
+Insgesamt betrachtet ist die Velocity eine sehr wichtige Maßeinheit für das Projektmanagementteam. Aus ihrer Analyse können die nächsten Sprints optimiert werden und folglich 
+auch das Projekt erfolgreich abgeschlossen werden.
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Velocity/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Velocity.md)
+[Scrum](Scrum.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+[Agiles Manifest](https://agilemanifesto.org/iso/de/manifesto.html)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.projektmagazin.de/glossarterm/velocity-agiles-projektmanagement
+[^2]: https://t2informatik.de/wissen-kompakt/velocity/
+[^3]: https://project-base.org/projektmanagement-glossar/velocity/
+[^4]: https://www.agile-academy.com/de/scrum-master/was-bedeutet-velocity-fuer-ihr-team/
+[^5]: https://www.iapm.net/de/blog/velocity-agile-pm/
 
