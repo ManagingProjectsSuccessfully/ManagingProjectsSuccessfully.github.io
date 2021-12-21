@@ -6,7 +6,7 @@ anrechnung: a
 ---
 
 # User Stories
-Bei Scrum erstellt der [Product Owner](Produkt_Owner.md) einen [Product Backlog](Product_Backlog.md), einer Liste von Aufgaben, die in Form von User Stories wiedergegeben werden. 
+Bei Scrum erstellt der [Product Owner](Product_Owner.md) einen [Product Backlog](Product_Backlog.md), einer Liste von Aufgaben, die in Form von User Stories wiedergegeben werden. 
 Diese werden vom Product Owner nach Prioritäten unterteilet. 
 Gemeinsam mit dem Scrum-Team wird der Arbeitsaufwand für die einzelnen Aufgaben ermittelt, anhand dessen der ROI (Return on Investment = Kapitalrendite) und anschließend die weitere Priorisierung. [^1]
 
