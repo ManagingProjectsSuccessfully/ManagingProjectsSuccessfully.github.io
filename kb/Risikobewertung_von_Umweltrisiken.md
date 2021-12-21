@@ -29,7 +29,7 @@ Die externen Umweltrisiken treten als Folge von Naturkatastrophen und Umweltänd
 ###### Abbildung 1: Interne und Externe Umweltrisiken (selbst erstellt)
 
 
-## Umweltrisiken im Projektmanagement
+## Umweltrisiken im Projektmanagement [^7]
 
 Der richtige Umgang mit Umweltrisiken ist von großer Bedeutung für den langfristigen Projekt- und Unternehmenserfolg. Deshalb ist die Bewertung von Umweltrisiken, sowie die Planung von Gegenmaßnahmen, ein wichtiger Teil der Entwicklung und des [Managements von Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) in Unternehmen.
 
@@ -45,7 +45,7 @@ Sobald die potenziellen Umweltrisiken identifiziert sind, können sie bewertet w
 Eine Maßnahme zur Vermeidung und Minimierung von Umweltrisiken und ihrer Schäden ist beispielsweise die nachhaltige Gestaltung von Produktionsprozessen. Ein Produktionsprozess wird als nachhaltig betitelt, wenn dieser auf umweltfreundliche Materialien und Stoffe zurückgreift und diese in effizienter Abfolge von Teilschritten verarbeitet. Das ist häufig mit hohen Anfangsinvestitionen verbunden, jedoch können durch die Nachhaltigkeit und innovative Lösungen langfristig Kosten gespart werden. Eine weitere sinnvolle Maßnahme sind Versicherungen. Sie sind besonders gut bei externen Umweltrisiken geeignet, weil diese schwierig vorhergesehen und vermieden werden können. 
 
 ![Management von Umweltrisiken](https://github.com/loritschka/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikobewertung_von_Umweltrisiken/MNG_UR.PNG)
-###### Abbildung 2: Management von Umweltrisiken (selbst erstellt)
+###### Abbildung 2: Management von Umweltrisiken [^7]
 
 ## Siehe auch
 
@@ -68,5 +68,6 @@ Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten
 [^4]: [Fehlerbaumanalyse](https://de.wikipedia.org/wiki/Fehlerbaumanalyse)
 [^5]: [Ereignisbaumanalyse](https://de.wikipedia.org/wiki/Ereignisbaumanalyse)
 [^6]: [Fehlermöglichkeits- und Einflussanalyse](https://de.wikipedia.org/wiki/FMEA)
+[^7]: Selbst erstellt 
 
 
