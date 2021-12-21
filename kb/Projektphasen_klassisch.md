@@ -58,8 +58,16 @@ Es beginnt außerdem die Gewährleistungsphase für die Endprodukte. Dazu könne
 
 Weitere Informationen zum Projektabschluss finden Sie [hier](Projektabschluss.md).
 
+## Zusammenfassung
+
+Bei der Planung eines Projektes kommt man nicht um die Eingliederung in Phasen herum. Ob man jedoch die Aufteilung in 4, 5 oder 6 Phasen vornimmt, ist eventuell von der Komplexität des Projektes abhängig, oder von der Art der Umsetzung. Hier noch ein Beispiel für 4 bzw. 6 Pasen-Projekte:
+
+![vier und sechs Phasen im PM](Projektphasen_klassisch/PM1.png)
+*vier und sechs Phasen im PM*[^12]
+
 ## Siehe auch:
 * [Projektlebenszyklus - die Phasen im Projekt (Video)](https://www.youtube.com/watch?v=CSWCDIXKUoQ&ab_channel=Erfolgreich-Projekte-Leiten)
+* [Projektphasen in der Realität (Humor)](https://twitter.com/ErnstvAll/status/1115568429438730240/photo/1)
 
 ## Weiterführende Literatur:
 * [Crashkurs Projektmanagement: Grundlagen aller Projektphasen](https://www.katalog.fau.de/TouchPoint/singleHit.do?methodToCall=showHit&curPos=2&identifier=2_SOLR_SERVER_2101837480)
@@ -78,3 +86,4 @@ Weitere Informationen zum Projektabschluss finden Sie [hier](Projektabschluss.md
 [^9]: [Wikipedia: Methode des kritischen Pfades](https://de.wikipedia.org/wiki/Methode_des_kritischen_Pfades)
 [^10]: [Wipedia: Kanban](https://de.wikipedia.org/wiki/Kanban)
 [^11]: [ROLANDWANNER: Welches ist die beste Projektcontrolling-Methode?](https://rolandwanner.ch/die-beste-projektcontrolling-methode/)
+[^12]: [Peter Johann Consulting: Projektphasen](https://www.peterjohann-consulting.de/projektphasen/)
