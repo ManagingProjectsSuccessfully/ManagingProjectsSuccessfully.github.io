@@ -65,18 +65,18 @@ Trotz seiner vielen Vorteile bringt das Qualitätsmanagement auch Belastungen mi
 
 # Quellen
 
-[^1]: [Was ist Qualitätsmanagement?](https://www.innolytics.de/was-ist-qualitaetsmanagement)
-[^2]: [Qualitätsmanagement in Projekten](https://www.hsbund.de/SharedDocs/Downloads/0_Abschlussarbeiten/FB_FIN/2011/01_11_Baetz.pdf?__blob=publicationFile)
-[^3]: [Was bedeutet Qualitätsmanagement für das Projektmanagement?](http://blog.bepartner.de/qualitaetsmanagement/#:~:text=Was%20bedeutet%20Qualit%C3%A4tsmanagement%20f%C3%BCr%20das%20Projektmanagement%3F%201%20Qualit%C3%A4tsmanagement,Qualit%C3%A4ts-Prinzipien%20f%C3%BCr%20erfolgreiche%20Projekte.%20...%20Weitere%20Artikel...%20)
-[^4]: [Qualitätsmanagement als Berufsfeld: Definition, Aufgaben und ISO 9000](https://ifm-business.de/aktuelles/business-news/qualitaetsmanagement-als-berufsfeld-definition-aufgaben-und-aussichten.html)
-[^5]: [Project Quality Management According to the PMBOK](https://www.projectengineer.net/project-quality-management-according-to-the-pmbok/)
-[^6]: [Die 4 Phasen des klassischen Qualitätsmanagements](https://www.weiterbildung-im-fernstudium.de/qualitaetsmanagement/die-4-phasen-des-klassischen-qualitaetsmanagements-260#:~:text=Die%204%20Phasen%20des%20klassischen%20Qualit%C3%A4tsmanagements%201%20Qualit%C3%A4tsplanung.,Verbesserung%20von%20Strukturen%20und%20Prozessen%20genutzt%20und%20eingesetzt.)
-[^7]: [Die 5 Phasen des klassischen Qualitätsmanagements](https://www.brewes.de/magazin/die-5-phasen-des-qualitatsmanagements)
-[^8]: [Modelle und Werkzeuge im Qualitätsmanagement](https://www.business-wissen.de/hb/modelle-und-werkzeuge-im-qualitaetsmanagement/)
-[^9]: [Total Quality Management (TQM)](https://www.investopedia.com/terms/t/total-quality-management-tqm.asp)
-[^10]: [What is Total Quality Management(TQM)?](https://asq.org/quality-resources/total-quality-management#Elements)
-[^11]: [Comparison of Six Sigma and Total Quality Management](https://www.managementstudyguide.com/six-sigma-and-total-quality-management.htm)
-[^12]: [TQM](https://keytodata.com/glossar/tqm/)
-[^13]: [The EFQM Model](https://www.efqm.org/efqm-model)
+[^1]: [Was ist Qualitätsmanagement?](https://www.innolytics.de/was-ist-qualitaetsmanagement), abgerufen am 08.11.2021
+[^2]: [Qualitätsmanagement in Projekten](https://www.hsbund.de/SharedDocs/Downloads/0_Abschlussarbeiten/FB_FIN/2011/01_11_Baetz.pdf?__blob=publicationFile), abgerufen am 08.11.2021
+[^3]: [Was bedeutet Qualitätsmanagement für das Projektmanagement?](http://blog.bepartner.de/qualitaetsmanagement/#:~:text=Was%20bedeutet%20Qualit%C3%A4tsmanagement%20f%C3%BCr%20das%20Projektmanagement%3F%201%20Qualit%C3%A4tsmanagement,Qualit%C3%A4ts-Prinzipien%20f%C3%BCr%20erfolgreiche%20Projekte.%20...%20Weitere%20Artikel...%20), abgerufen am 08.11.2021
+[^4]: [Qualitätsmanagement als Berufsfeld: Definition, Aufgaben und ISO 9000](https://ifm-business.de/aktuelles/business-news/qualitaetsmanagement-als-berufsfeld-definition-aufgaben-und-aussichten.html), abgerufen am 08.11.2021
+[^5]: [Project Quality Management According to the PMBOK](https://www.projectengineer.net/project-quality-management-according-to-the-pmbok/), abgerufen am 09.11.2021
+[^6]: [Die 4 Phasen des klassischen Qualitätsmanagements](https://www.weiterbildung-im-fernstudium.de/qualitaetsmanagement/die-4-phasen-des-klassischen-qualitaetsmanagements-260#:~:text=Die%204%20Phasen%20des%20klassischen%20Qualit%C3%A4tsmanagements%201%20Qualit%C3%A4tsplanung.,Verbesserung%20von%20Strukturen%20und%20Prozessen%20genutzt%20und%20eingesetzt.), abgerufen am 09.11.2021
+[^7]: [Die 5 Phasen des klassischen Qualitätsmanagements](https://www.brewes.de/magazin/die-5-phasen-des-qualitatsmanagements), abgerufen am 09.11.2021
+[^8]: [Modelle und Werkzeuge im Qualitätsmanagement](https://www.business-wissen.de/hb/modelle-und-werkzeuge-im-qualitaetsmanagement/), abgerufen am 18.11.2021
+[^9]: [Total Quality Management (TQM)](https://www.investopedia.com/terms/t/total-quality-management-tqm.asp), abgerufen am 18.11.2021
+[^10]: [What is Total Quality Management(TQM)?](https://asq.org/quality-resources/total-quality-management#Elements), abgerufen am 18.11.2021
+[^11]: [Comparison of Six Sigma and Total Quality Management](https://www.managementstudyguide.com/six-sigma-and-total-quality-management.htm), abgerufen am 18.11.2021
+[^12]: [TQM](https://keytodata.com/glossar/tqm/), abgerufen am 18.11.2021
+[^13]: [The EFQM Model](https://www.efqm.org/efqm-model), abgerufen am 18.11.2021
 
 
