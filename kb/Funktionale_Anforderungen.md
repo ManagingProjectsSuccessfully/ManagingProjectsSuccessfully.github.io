@@ -13,27 +13,25 @@ Funktionale Anforderungen gehören zum Anforderungsmanagement, welches für klas
 
 
 
-# Funktionale und nicht-funktionale Anforderungen 
+# Unterschiede zwischen funktionalen und nicht-funktionalen Anforderungen 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-Jedes Projekt hat funktionale und nicht funktionale Anforderungen. Im Gegensatz 
-zu den nicht-funktionalen Anforderungen sind die funktionalen Anforderungen von Produkt zu Produkt 
-verschieden und bilden den Kern der Anforderungserhebung. Die nicht-funktionalen Anforderungen 
-bilden die Rahmenbedingungen eines Produkts und beziehen sich auf mehrere Teilaspekte davon. 
-Da eine funktionale Anforderung hingegen sich meist nur auf einen Teil eines Produkts auswirkt,
-sind Änderungen daran im Verhältnis zu den nicht-funktionalen Anforderungen leichter umsetzbar
-und haben weniger Einfluss auf das gesamte Produkt[^2]. 
+Jedes Projekt hat funktionale und nicht funktionale Anforderungen. Die unten aufgeführte Tabele zeigt deren Unterschiede auf[^2]. 
+| Funktionale Anforderungen | Nicht-funktionale Anforderungen |
+| ------------------------- | ------------------------------- |
+| Sind von Produkt zu Produkt verschieden | Beziehen sich auf mehrer Produkte |
+| Bilden Kern der Anforderungserhebung | Bilden Rahmenbedingungen eines Produkts |
+| Wirken sich nur auf einen Teil eines Produkts aus  | Beziehen sich auf mehrere Teilaspekte eines Produkts |
+| Änderungen sind verhältnismäßig leicht umsetzbar und haben wenig Einfluss auf das gesamte Produkt | Änderungen bedeuten viel Arbeits- und Kostenaufwand und haben viel Einfluss auf das gesamte Produkt |
 
 
-# Relevanz der Klarheit von Anforderungen
+# Relevanz der Anforderungsklarheit
 
 Anforderungen an ein Produkt sollten immer geklärt werden. Da die Anforderungen zu Beginn eines Projektes
 gestellt werden,können fehlerhafte, unzureichende oder fehlende Anforderungen zu viel Arbeitsaufwand und Zeitverlust
 oder gar zum Scheitern eines Projektes führen. Somit hat das vollständige Ermitteln der funktionalen Anforderungen eine hohe Wichtigkeit,
 auch wenn dies nur einen sehr kleinen Teil des Projektaufwandes ausmacht[^3]. 
 
-# Durchführung der Ermittlung der funktionalen Anforderungen
+# Ermittlung der funktionalen Anforderungen
 
 Die zu ermittelnden funktionalen Anforderungen der Stakeholder lassen sich nach dem [Kano-Modell](https://de.wikipedia.org/wiki/Kano-Modell),
 ein Modell welches systematisch hilft die Kundenzufriedenheit in einem Projekt oder für ein Produkt zu erlangen,
@@ -76,9 +74,10 @@ da sie meist mit einer Kostenerhöhung des Projekts verbunden sind[^3].
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen:
+* [Anforderungsmanagement](Anforderungsmanagement.md)
 * [Nicht_Funktionale_Anforderungen](Nicht_Funktionale_Anforderungen.md)
-* [Link auf diese Seite](Funktionale_Anforderungen.md)
+* [Stakeholderanalyse](Stakeholderanalyse.md)
+* [Pflichtenheft](Pflichtenheft.md)
 
 # Weiterführende Literatur
 
