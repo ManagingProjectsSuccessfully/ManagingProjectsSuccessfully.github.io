@@ -29,7 +29,7 @@ umgewandelt werden"*[^3].
 
 Sprint Retrospective, Sprint Review, [Sprint Planning](Sprint_Planning.md) und [Daily Scrum](Daily_Scrum.md) sind die Bausteine und ergeben 
 zusammen einen Sprint. Dabei wird immer wieder der gleiche Ablauf
-befolgt, wobei der Sprint Review **vor** der Sprint Retrospective stattfindet[^3].
+befolgt, wobei der Sprint Review **vor** der Sprint Retrospective und **nach** dem Daily Scrum stattfindet[^3].
 
 Während der Phase des Sprint Reviews kommt das ganze Scrum Team zusammen, die dort die Möglichkeit haben Feedback zu geben. Diese Gruppe besteht demnach aus dem
 [Product Owner](Product_Owner.md), dem [Scrum Master](Scrum_Master.md) und dem Entwickler Team. Zudem sollte idealerweise auch der Stakeholder hinzugezogen werden. 
