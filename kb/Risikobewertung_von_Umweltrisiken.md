@@ -68,6 +68,6 @@ Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten
 [^4]: [Fehlerbaumanalyse](https://de.wikipedia.org/wiki/Fehlerbaumanalyse)
 [^5]: [Ereignisbaumanalyse](https://de.wikipedia.org/wiki/Ereignisbaumanalyse)
 [^6]: [Fehlermöglichkeits- und Einflussanalyse](https://de.wikipedia.org/wiki/FMEA)
-[^7]: Selbst erstellt 
+[^7]: Selbst erstellt  
 
 
