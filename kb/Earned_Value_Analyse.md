@@ -12,7 +12,7 @@ Um diesen zu kontrollieren kann eine Earned Value Analyse (EVA), auch Earned Val
 Anhand von Plan- und Ist-Daten werden Kennzahlen berechnet, die den Earned Value (Fertigstellungswert) beschreiben. 
 Diese Daten beziehen sich auf Kosten, Zeit und Leistungsumfang, also dem [magischen Dreieck](Magisches_Dreieck.md).
 Der Fertigstellungswert kann zur Überwachung der Termintreue, der Kostentreue sowie zur Prognose von Gesamtkosten und Endtermin herangezogen werden. 
-Daraus resultiert bei Nichterfüllung ein Frühwarnsystem und das Projekt kann gesteuert und angepasst werden. [^1]
+Daraus resultiert bei Nichterfüllung ein Frühwarnsystem wodurch das [Projekt gesteuert](Projektsteuerung.md) und angepasst werden kann. [^1]
 
 Ein Fertigstellungswert, also der Earned Value, ist ein Maß für die bereits geleistete Arbeit. 
 Somit entspricht die Earned Value Analyse einem Messverfahren, um den tatsächlich erzielten Fortschritt in Relation zu dem geplanten Ziel zu ermitteln und anschließend zu bewerten. [^2]
