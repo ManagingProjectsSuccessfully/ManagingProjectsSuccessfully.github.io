@@ -4,15 +4,16 @@ tags: klassisch
 author: ga88maby
 anrechnung: k
 ---
-
-Wasserfall-Modell ist nicht anders als ein lineares sequenzielles Vorgehensmodell, damit ist gemeint, dass die Phasen nicht parallel zueinander ablaufen können, aber was ist genau ein Wasserfall-Modell: Stellen wir uns ein Softwareprojekt vor, da haben wir der Beginn und das Resultat, dazwischen liegt die Softwareentwicklung, dabei ist der Wasserfall-Modell einer der Vorgehensweise einer Softwareentwicklung. Royce hat es im Jahr 1970 vorgeschlagen und wurde dann von Boehm als „Wasserfall-Modell“ bezeichnet. Außerdem besteht es aus fünf bis sieben Phasen.
-
+Das [Wasserfallmodell](Wasserfallmodell.md) ist ein [lineares_Modell](lineares_Modell.md), das das Projekt Schritt für Schritt nach einem klar definierten Prozess abarbeitet. Der Prozess gliedert sich in aufeinanderfolgende Phasen, deren Ergebnis zu einem definitiven Endergebnis führen soll.[^1] Dieses Modell wird hauptsächlich für die Softwareentwicklung verwendet. Das Modell wurde von Royce im Jahr 1970 entwickelt und enthlält fünf bis zu Sieben Phasen.[^2]
+[]()
 
 # Grundkonzepte und Phasen: 
 
-Die Hauptgrundidee ist die Aufteilung des Projekts in Phasen, hier springt man von einer Phase auf die Nächste, sobald man die Phase erfolgreich abgeschlossen hat. Zurückspringen ist dementsprechend auch möglich, wenn es ein Fehler in einer abgeschlossenen Phase aufgetreten ist, ist einem möglich wieder auf die letzte Phase zurückzugreifen, das nennen wir: Feedback-Looping[^1]
-Trotz der Feedback-Looping ist Wasserfall-Modell kein Agiles-Modell, da lineare und starre Abfolge das Ganze ist.[^2]
+Jede dieser Phasen endet mit einem Meilenstein, für den eine definierte Ergebnismenge bereitgestellt werden muss. Jede Phase ist mit verschiedenen Aktivitäten gebündelt, die vollständig in der richtigen Reihenfolge ausgeführt werden müssen. Am Ende jeder Aktivität steht ein fertiges Ergebnis.[^3]Tritt in einer abgeschlossenen Stufe ein Fehler auf, kann zur letzten Stufe zurückgekehrt werden, dieser Vorgang wird als [Feedback-Looping](Feedback-Looping.md)[^4]
+
 ![Beispielabbildung](Wasserfall_Modell/Phasen.jpg)
+
+* Die 5 Phasen des Wasserfallmodells [^5]
 
 
 1.  Anforderung:
@@ -63,9 +64,11 @@ Das Modell bringt auch paar kritische Punkte mit wie:
 
 # Quellen:
 
-[^1]:https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
-[^2]:https://www.youtube.com/watch?v=8MEacBXP6zg&t=68s
-[^3]:https://www.quality.de/lexikon/wasserfallmodell/   
+[^1]: https://www.teamazing.de/was-ist-das-wasserfallmodell/
+[^2]: https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
+[^3]: https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
+[^4]: https://www.quality.de/lexikon/wasserfallmodell/ 
+[^5]: https://www.netzsieger.de/ratgeber/methoden-des-traditionellen-projektmanagements#pid=1
 * https://www.teamazing.de/was-ist-das-wasserfallmodell/
 * https://management.bildungsbibel.de/projektmanagement-wasserfallmodell-softwareentwicklung-phasen
 * https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
