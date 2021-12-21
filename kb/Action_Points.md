@@ -17,7 +17,7 @@ Die Arbeitspakete können dabei, je nach Umfang, von mehreren Personen abgearbei
 Die Relevanz von Arbeitspaketen wird dabei oft unterschätzt. Das ganze Projekt kann nur dann erfolgreich abgeschlossen werden, wenn auch alle Arbeitspakete adäquat angegangen werden. Eine besondere Herausforderung stellt dabei oft die Vielzahl von Arbeitspaketen und Teilprojekten dar, die in komplexen Projekten anfallen. Nachfolgendes Bild veranschaulicht die Abhängigkeit der Arbeitspakete hin zum Gesamtprojekt. Hier wird das Arbeitspaket als Puzzle-Teil dargestellt. Fehlt letztendlich ein Arbeitspaket oder ist es unvollständig, hat das Projekt an dieser Stelle ein Loch und kann nicht fertiggestellt werden.[^1]
 
 ![Abbildung](https://github.com/SaskiaHe/ManagingProjectsSuccessfully.github.io/blob/main/kb/Action_Points/Arbeitspaket-Teilprojekt-Projekt.jpg) 
-*Veranschaulichung der wichtigen Arbeitspakete*
+*Veranschaulichung der wichtigen Arbeitspakete* [^1]
 
 ## Größe und Inhalt von Action Points 
 
