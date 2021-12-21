@@ -18,7 +18,7 @@ anrechnung: k
 
 # Definition Kommunikation 
 
-Das Mittel zur Verständigung unter Menschen ist die Kommunikation. Mit Hilfswerkzeugen, wie Mimik, Gestik, Stimme, Körperhaltung und die menschliche Sprache, können die Menschen miteinander interagieren. Sowohl im Privat- als auch im Berufsleben kommunizieren wir ständig und sind auf die Kommunikationsfähigkeit der anderen angewiesen. Das Problem ist hier jedoch, dass die Hilfswerkzeuge anfällig für Störungen sind und somit Informationen falsch weitergegeben und aufgenommen werden. Dadurch können Streitigkeiten und Missverständnisse entstehen und die zwischenmenschliche [Interaktion](https://github.com/SimaSol/ManagingProjectsSuccessfully.github.io/blob/main/kb/Interaktion.md) wird gestört.[^1]
+Das Mittel zur Verständigung unter Menschen ist die Kommunikation. Mit Hilfswerkzeugen, wie Mimik, Gestik, Stimme, Körperhaltung und die menschliche Sprache, können die Menschen miteinander interagieren. Sowohl im Privat- als auch im Berufsleben kommunizieren wir ständig und sind auf die Kommunikationsfähigkeit der anderen angewiesen. Das Problem ist hier jedoch, dass die Hilfswerkzeuge anfällig für Störungen sind und somit Informationen falsch weitergegeben und aufgenommen werden. Dadurch können Streitigkeiten und Missverständnisse entstehen und die zwischenmenschliche [Interaktion](Interaktion.md) wird gestört.[^1]
 
 # Kommunikationsarten 
 Es wird vor allem unter nonverbaler und paraverbaler Kommunikation unterschieden.[^2]
