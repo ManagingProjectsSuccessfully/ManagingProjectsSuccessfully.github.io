@@ -56,6 +56,11 @@ Abschließend kann man, fantasievoll verpackt, die konkreten Ziele erläutern, w
 
 Nach dem tatsächlichen Projektabschluss kann man ebenfalls das Projekte durch eine Geschichte wiederholen und sowohl Kritikpunkte als auch positives hervorheben.
 
+# Siehe auch
+
+* [Projekt](Projekt.md)
+* [Projekt_Kick_Off](Projekt_Kick_Off.md)
+* [Kommunikation_Projektbeteiligte](Kommunikation_Projektbeteiligte.md)
 
 # Weiterführende Literatur
 
