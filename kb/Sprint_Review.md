@@ -89,11 +89,11 @@ Fortschritte des Produktes in Richtung des vorgegebenen Ziels.[^6]
 
 # Siehe auch
 
-* [Link zur Feedback Kultur](Feedback_Kultur.md)
-* [Link zu Feedback Methoden](Feedback_Methoden.md)
-* [Link zu Scrum Artefakte](Scrum_Artefakte.md)
-* [Link zum Scrum Guide](Scrum_Guide.md)
-* [Link zum Development Team](Development_Team.md)
+* [Feedback Kultur](Feedback_Kultur.md)
+* [Feedback Methoden](Feedback_Methoden.md)
+* [Scrum Artefakte](Scrum_Artefakte.md)
+* [Scrum Guide](Scrum_Guide.md)
+* [Development Team](Development_Team.md)
 
 
 # Weiterführende Literatur
