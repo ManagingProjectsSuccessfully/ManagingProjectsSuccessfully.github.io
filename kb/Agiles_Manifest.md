@@ -11,12 +11,12 @@ Das „Manifesto for Agile Software Development“ oder auch kurz unter dem Name
 Sie kamen in einer Lodge im Snowbird-Skigebiet für drei Tage zusammen, um zu reden, Ski zu fahren und eine gemeinsame Basis zu finden[^1]
  
 Es besteht aus 4 Leitsätzen und 12 Prinzipien.
-Das agile Manifest ist ein Meilenstein und bietet zu gleich die Grundlage für agiles Projektmanagement[^2].
+Das agile Manifest ist ein Meilenstein und bietet zu gleich die Grundlage für agiles [Projektmanagement](Projektmanagement.md)[^2].
 
-Unter den Erstunterzeichnern befinden sich auch die beiden Scrum-Gründern Ken Schwaber und Jeff Sutherland, sowie die Vertreter von DSDM, Adaptive Software Development, Crystal und viele weitere. Alle hatten ein gemeinsames Ziel, eine Alternative zu dokumentgetriebenen, schwergewichtigen Softwareentwicklungsprozessen zu finden. Dabei entstand das Agile Manifest, mithilfe dessen man endlich den bis dahin unscharfen Begriff der „leichtgewichtigen Software-Entwicklung“ ersetzen konnte[^1].
+Unter den Erstunterzeichnern befinden sich auch die beiden [SCRUM](SCRUM.md)-Gründern Ken Schwaber und Jeff Sutherland, sowie die Vertreter von DSDM, Adaptive Software Development, Crystal und viele weitere. Alle hatten ein gemeinsames Ziel, eine Alternative zu dokumentgetriebenen, schwergewichtigen Softwareentwicklungsprozessen zu finden. Dabei entstand das Agile Manifest, mithilfe dessen man endlich den bis dahin unscharfen Begriff der „leichtgewichtigen Software-Entwicklung“ ersetzen konnte[^1].
 
 
-Im Folgenden soll nun auf die vier Leitsätze, sowie die 12 Prinzipien des agilen Manifests eingegangen werden, sowie dessen aktuelle Bedeutung. 
+Im Folgenden soll nun auf die vier Leitsätze, sowie die 12 Prinzipien des agilen Manifests eingegangen werden, sowie auf die aktuelle Bedeutung. 
 
 
 # Vier Leitsätze
@@ -39,8 +39,8 @@ Agiles Manifest - die vier Leitsätze[^4]
 1. Unsere höchste Priorität ist es, den __Kunden__ durch __frühe__ und __kontinuierliche Auslieferung__ wertvoller Software __zufriedenzustellen__
 2. Heiße Anforderungsänderungen sind selbst spät in der Entwicklung __willkommen__. Agile Prozesse nutzen __Veränderungen__ zum __Wettbewerbsvorteil__ des Kunden
 3. Liefere __funktionierende Software regelmäßig__ innerhalb weniger Wochen oder Monate und bevorzuge dabei die __kürzere Zeitspanne__
-4. FachexpertInnen und EntwicklerInnen müssen während des Projekts __täglich zusammenarbeiten__
-5. Errichte Projekte rund um __motivierte Individuen__. Gib ihnen das __Umfeld__ und die __Unterstützung__, die sie benötigen und vertraue darauf, dass sie die Aufgabe erledigen
+4. FachexpertInnen und EntwicklerInnen müssen während des [Projekts](Projekt.md) __täglich zusammenarbeiten__
+5. Errichte [Projekte](Projekt.md) rund um __motivierte Individuen__. Gib ihnen das __Umfeld__ und die __Unterstützung__, die sie benötigen und vertraue darauf, dass sie die Aufgabe erledigen
 6. Die effizienteste und effektivste Methode, Informationen an und innerhalb eines Entwicklungsteams zu übermitteln, ist im __Gespräch__ von __Angesicht zu Angesicht__.
 7. __Funktionierende Software__ ist das __wichtigste Fortschrittsmaß__
 8. Agile Prozesse fördern nachhaltige Entwicklung. Die AuftraggeberInnen, EntwicklerInnen und BenutzerInnen sollten ein __gleichmäßiges Tempo auf unbegrenzte Zeit erhalten können__
@@ -52,14 +52,16 @@ Agiles Manifest - die vier Leitsätze[^4]
 
 # Heutige Bedeutung
 
-Wie schon am Anfang erwähnt, bildet das Agile Manifest bis heute die Grundlage für das Agile Projektmanagement. Im Laufe der Jahre sind viele weitere Befürworter hinzugekommen. 
-Bis heute wird das agile Projektmanagement gerne neben den klassischen Methoden genutzt und findet sich vielen verschiedenen Methoden mit unterschiedlichen Ausprägungen wieder[^2].
+Wie schon am Anfang erwähnt, bildet das Agile Manifest bis heute die Grundlage für das Agile [Projektmanagement](Projektmanagement.md). Im Laufe der Jahre sind viele weitere Befürworter hinzugekommen. 
+Bis heute wird das agile [Projektmanagement](Projektmanagement.md) gerne neben den klassischen Methoden genutzt und findet sich vielen verschiedenen Methoden mit unterschiedlichen Ausprägungen wieder[^2].
 
 
 # Siehe auch
 
-* [SCRUM](SCRUM.md)
+* [Projekt](Projekt.md)
 * [Projektmanagement](Projektmanagement.md)
+* [Projektmanagementsoftware](Projektmanagementsoftware.md)
+* [SCRUM](SCRUM.md)
 
 
 # Weiterführende Literatur
