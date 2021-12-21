@@ -47,7 +47,7 @@ Ein weiterer Faktor, der einen wichtigen Einfluss auf die Verantwortung hat, ist
 > Management bedeutet Verantwortung für Ergebnisse 
 [^7]
 
-Und diese Verantwortung muss man schlussendlich richtig und sinnvoll aufteilen, damit positive Ergebnisse erscheinen: eindeutige Ziele verbalisieren und bestätigen und die [Aufgabenteilung](Aufgabenteilung.md) sinnvoll gestalten. [^5]
+Und diese Verantwortung muss man schlussendlich richtig und sinnvoll aufteilen, damit positive Ergebnisse erscheinen: eindeutige Ziele verbalisieren und bestätigen und die Aufgabenteilung sinnvoll gestalten. [^5]
 
 # Rollen und Verantwortung in Projekten
 
@@ -67,7 +67,6 @@ Die Projekthierarchie schaut folgendermaßen aus [^8] [^9] :
 * [Projekt](Projekt.md)
 * [klassischen Missverständnissen](Klassische_Missverstaendnisse.md)
 * [Projektleiter](Projektleiter.md)
-* [Aufgabenteilung](Aufgabenteilung.md)
 * [Projektmitarbeiter](Projektmitarbeiter.md)
 
 # Weiterführende Literatur
