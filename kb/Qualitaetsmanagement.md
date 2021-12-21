@@ -32,7 +32,7 @@ Das Qualitätsmanagement ist außerdem eine wichtige Wissenssparte des [PMBOK](P
   - In dieser Phase wird die vorliegende Situation zunächst analysiert, erste Abläufe werden erstellt und Qualitätsziele festgelegt. Dies geschieht unter Berücksichtigung der vorliegenden Ressourcen und der für das Projekt notwendigen Prozesse.
 * Phase 2: Qualitätslenkung
   - Die vorher bestimmten Maßnahmen werden nun umgesetzt und überwacht. Bei Abweichungen werden Regulierungen vorgenommen.
-* Phase 3: [Qualitätssicherung](Qualitätssicherung.md) / Qualitätskontrolle
+* Phase 3: [Qualitätssicherung](Qualitaetssicherung.md) / Qualitätskontrolle
   - Die Ergebnisse werden ausgewertet und schriftlich dokumentiert. Dieser Vorgang dient der Kontrolle der anfangs festgelegten Ziele und der Aufdeckung von Fehlern.
 * Phase 4: Qualitätsgewinn
   - In der letzten Phase werden die gewonnenen Erkenntnisse genutzt um gegen Abweichungen vorzugehen und Prozesse zu verbessern. Dafür ist eine Kommunikation der Ergebnisse erforderlich[^6][^7]
@@ -51,10 +51,17 @@ Ziel des EFQM-Modells ist es einen europäischen Ansatz für das Qualitätsmanag
 ## Nachteile des Qualitätsmanagements
 Trotz seiner vielen Vorteile bringt das Qualitätsmanagement auch Belastungen mit sich. Diese sind vor allem die verursachten Kosten, bei denen zwischen Kosten durch die Nicht-Erfüllung der Qualitätsansprüche und Kosten für die Sicherstellung der Qualität unterschieden werden kann. Zudem spielt hier auch der zeitliche Aufwand eine wichtige Rolle[^2].
 
+# Siehe auch
+
+* [PMBOK](PMBOK_Guide.md)
+* [Qualitätssicherung](Qualitaetssicherung.md)
+* [Six Sigma](Six_Sigma.md)
+
 # Weiterführende Literatur
 
-* "Grundlagen Qualitätsmanagement: Von den Werkzeugen über Methoden zum TQM" (Brüggemann, H.)
-* "Qualitätsmanagement: - Kompaktes Wissen - Konkrete Umsetzung - Praktische Arbeitshilfen" (Weidner, G.E.)
+* ["Grundlagen Qualitätsmanagement: Von den Werkzeugen über Methoden zum TQM"](https://link.springer.com/book/10.1007/978-3-658-28780-1) (Brüggemann, H.)
+* ["Qualitätsmanagement: - Kompaktes Wissen - Konkrete Umsetzung - Praktische Arbeitshilfen"](https://fachbuch.hanser-ebooks.de/ebook/bid-2812353-qualitaetsmanagement-kompaktes-wissen-konkrete-umsetzung-praktische-arbeitshilfen.html) (Weidner, G.E.)
+* [Qualitätsmanagement in Projekten](https://www.hsbund.de/SharedDocs/Downloads/0_Abschlussarbeiten/FB_FIN/2011/01_11_Baetz.pdf?__blob=publicationFile) (Bätz, S.)
 
 # Quellen
 
