@@ -31,7 +31,7 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 
 ![Beispielabbildung](Hackathon/Elemente-Hackathon.png)
 
-*Abbildung 2: Charackteristische Elemente eines Hackathons mit mehreren Teams* [^7]
+*Abbildung 2: Charakteristische Elemente eines Hackathons mit mehreren Teams* [^7]
 
 
 # Entstehung und Geschichte - Wrap-Up
