@@ -81,7 +81,7 @@ Dabei gibt es vier Schritte:
 ### Weitere Modelle:
 
 Es existiert eine Vielzahl von Modellen, die dem Wissensmanagement zuzuordnen sind. Weitere Beispiele hierfür sind, das **Geschäftsprozessorientiertes Wissensmanagement**,
-das **Knowledge Engineering**, der **[Wissensmarkt](Wissensmarkt.md)** und die **Ansätze zur Reifegradbewertung**.[^8]
+das **Knowledge Engineering**, der **[Wissensmarkt](Wissensmarkt.md)** und die **Ansätze zur Reifegradbewertung**.[^9]
 
 # Methoden des Wissensmanagements
 
