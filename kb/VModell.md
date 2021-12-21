@@ -62,7 +62,7 @@ zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebe
   und viele mehr...
 
 #### Weiterentwicklung
-Neben dem klassischen V-Modell exsistieren mittlerweile auch angepasste Versionen des Modells, wie dem V-Modell XT, welches als Standard für viele Projekte der Bundesregierung genutz wird. Auch für agile Projekte und Prozesse wurde das V-Modell zum W-Modell weiterentwickelt, um komplizierte schwer zu handhabende Systeme besser koordinieren zu können.
+Neben dem klassischen V-Modell exsistieren mittlerweile auch angepasste Versionen des Modells, wie dem V-Modell XT, welches als Standard für viele Projekte der Bundesregierung genutz wird. Auch für agile Projekte und Prozesse wurde das V-Modell zum [W-Modell](https://www.industrie-digitalisierung.com/das-w-modell-systems-engineering-in-der-entwicklung-aktiver-systeme/) weiterentwickelt, um komplizierte schwer zu handhabende Systeme besser koordinieren zu können.[^4][^5]
 
 # Weiterführende Literatur
 
@@ -78,5 +78,5 @@ Neben dem klassischen V-Modell exsistieren mittlerweile auch angepasste Versione
 [^2]: https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/v-modell/
 [^3]: https://projekte-leicht-gemacht.de/wp-content/uploads/2021/08/v-modell.jpg
 [^4]: https://t2informatik.de/wissen-kompakt/v-modell/
-
+[^5]: https://www.industrie-digitalisierung.com/das-w-modell-systems-engineering-in-der-entwicklung-aktiver-systeme/
 
