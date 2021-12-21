@@ -49,6 +49,7 @@ ermöglicht es dem Team, Anpassungen vorzunehmen und Änderungen einfacher zu ve
 
 
 ![image](https://user-images.githubusercontent.com/92790509/142939309-a892d933-5d32-4353-aca9-3af4c005c311.png) 
+
 Scrum Principles Cycle[^3]
 
 Die oben genannten sechs Prinzipien sind die Richtlinien für die Verwendung von Scrum, damit das Projekt das beste Ergebnis erzielt. 
