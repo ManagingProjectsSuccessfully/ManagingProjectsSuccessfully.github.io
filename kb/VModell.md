@@ -9,7 +9,7 @@ anrechnung: k
 
 # Was ist das V-Modell?
 
-Das V-Modell ist ein V-förmiges lineares [Vorgehensmodell](https://de.wikipedia.org/wiki/Vorgehensmodell_zur_Softwareentwicklung) im Projektmanagement, das ein Projekt in fest definierte Phasen unterteilt, welches ursprünglich für die Softwareentwicklung konzipiert wurde. Es ähnelt dem ebenfalls [linearen Wasserfallmodell](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md), mit dem Unterschied, dass es zusätzlich Testphasen gibt, welche den jeweiligen Entwicklungsphasen gegenübergestellt sind. Dies soll beim Entwickeln eines Projekts helfen, die einzelnen Phasen sauber zu testen, zu integrieren und letztendlich als Ganzes zusammenzufügen.[^1][^2] 
+Das V-Modell ist ein V-förmiges lineares [Vorgehensmodell](https://de.wikipedia.org/wiki/Vorgehensmodell_zur_Softwareentwicklung) im Projektmanagement, das ein Projekt in fest definierte Phasen unterteilt, welches ursprünglich für die Softwareentwicklung konzipiert wurde. Es ähnelt dem ebenfalls [linearen Wasserfallmodell](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md), mit dem Unterschied, dass es zusätzlich Testphasen gibt, welche den jeweiligen Entwicklungsphasen gegenübergestellt sind. Dies soll beim Entwickeln eines Projekts helfen, die einzelnen Phasen sauber zu testen, zu integrieren und letztendlich als Ganzes zusammenzufügen. Erstmals vorgeschlagen wurde es durch den US-amerikanischen Softwareingenieur [Barry Boehm](https://de.wikipedia.org/wiki/Barry_W._Boehm) im Jahre 1979.[^1][^2] 
 
 ## Abbildung V-Modell
 
