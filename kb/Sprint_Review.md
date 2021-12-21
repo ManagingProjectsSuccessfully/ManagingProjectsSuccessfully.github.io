@@ -93,6 +93,7 @@ Fortschritte des Produktes in Richtung des vorgegebenen Ziels.[^6]
 * [Link zu Feedback Methoden](Feedback_Methoden.md)
 * [Link zu Scrum Artefakte](Scrum_Artefakte.md)
 * [Link zum Scrum Guide](Scrum_Guide.md)
+* [Link zum Development Team](Development_Team.md)
 
 
 # Weiterführende Literatur
