@@ -5,7 +5,7 @@ author: SimonM211
 anrechnung: k
 ---
 
-Wenn man ein Projekt managet läuft nicht immer alles nach Plan. Durch unvorhersehbar auftretende Probleme oder einfach nur durch schlechtes [Projektmanagement](Projektmanagement.md) können Projekte zeitlich in Verzug kommen. Da es in Unternehmen meistens einen festen Zeitplan gibt und Verspätungen vermieden werden sollen, wird die verlorene Zeit häufig einfach durch Mehrarbeit der Mitarbeiter wieder aufgeholt. Dieses insbesondere für die Softwareentwicklung typische Phänomen nennt man Crunch Time.
+Wenn man ein Projekt managet läuft nicht immer alles nach Plan. Durch unvorhersehbar auftretende Probleme oder durch schlechtes [Projektmanagement](Projektmanagement.md) können Projekte zeitlich in Verzug kommen. Da es in Unternehmen meistens einen festen Zeitplan gibt und Verspätungen vermieden werden sollen, wird die verlorene Zeit durch Mehrarbeit der Mitarbeiter wieder aufgeholt. Dieses insbesondere für die Softwareentwicklung typische Phänomen nennt man Crunch Time.
 
 # Ursachen
 
