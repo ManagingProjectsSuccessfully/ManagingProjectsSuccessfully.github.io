@@ -59,7 +59,7 @@ Nach dem tatsächlichen Projektabschluss kann man ebenfalls das Projekte durch e
 
 # Weiterführende Literatur
 
-* [Storytelling - Geschichten für Projektmanager] (https://www.gohswriter.de/storytelling-geschichten-fuer-projektmanager/)
+* [Storytelling - Geschichten für Projektmanager](https://www.gohswriter.de/storytelling-geschichten-fuer-projektmanager/)
 
 # Quellen
 
