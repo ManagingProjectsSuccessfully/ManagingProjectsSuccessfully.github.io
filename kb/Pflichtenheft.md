@@ -58,9 +58,9 @@ Die Analyse des späteren Einsatzumfelds ist sehr wichtig. Dazu gehören: Zielgr
 ### 3. Produktübersicht:
 Übersicht über alle Geschäftsprozesse und die beteiligten Akteure.
 ### 4. Funktionen:
-Hier erfolgt die Erklärung über die Funktionen, die Beteiligten und weitere Geschäftsprozesse.
+Hier erfolgt die Erklärung über die Funktionen, die Beteiligten und weitere Geschäftsprozesse. Wer ist beteiligt? Wie und unter welchen Bedingungen läuft die Funktion ab? Wie wirkt sich das auf die weiteren Geschäftsprozesse aus?
 ### 5. Leistungen:
-Hier werden die Anforderungen an die Funktonen beschreibt. Zum Beispiel: Die Dauer, die Genauigkeit der Berechnung und die Ausführungszeit.
+Hier werden die Anforderungen an die Funktonen beschreibt. Zum Beispiel: Die Dauer, die Genauigkeit der Berechnung und die Ausführungszeit.Hier stehen auch Anmerkungen, ob diese Anforderungen überhaupt erreicht werden können.
 ### 6. Qualitätsanforderungen:
 Eine Qualitätsstufe wird nach bestimmten Merkmalen zugeordnet.
 ### 7. Benutzeroberfläche:
@@ -74,7 +74,7 @@ Ein komplexer Prozess wird sich in Teilaufgaben gliedern, damit ein besserer Üb
 ### 11. Ergänzungen:
 Hier stehen die zu berücksichtigten Normen und Vorschriften, sowie Hinweise zu [Patenten](Patenten.md) und [Lizenzen](Lizenzen.md). Die Anmerkungen des Arbeitgebers werden auch aufgelistet. 
 ### 12. Tests:
-Prüfung des Produktes vor der Fertigstellung in Bezug auf die verschiedenen Anforderungen. 
+Prüfung des Produktes vor der Fertigstellung in Bezug auf Funktionen, Eigenschaften und Qualitätsmerkmale. Tests, die den Anforderungen erfüllten, werden hier im Pflichtenheft dokumentiert. Nach einem fehlerfreien Durchlauf kann das Produkt verkündigt werden.
 
 ## Quellen
 1. Digital Guide Ionos, [Das Pflichtenheft: Alle Anforderungen eines Projekts im Blick](https://www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/)
