@@ -51,7 +51,7 @@ Festlegung von Rollenverteilung und Verantwortlichkeiten im PRINCE2- Managementt
 Schaffung von Klarheit über die Qualitätsanforderungen und -maßnahmen, Qualitätskontrolle
 
 
-4. [**Pläne**](Projektplanung.md) *(Wie und Wann?)*:
+4. [**Pläne**](Projektplanung.md) *(Wie und wann?)*:
 Entwicklung des Projektplans, Festlegung und Umsetzung der anzuwendenden PRINCE2-Techniken
 
 
