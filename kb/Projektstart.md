@@ -5,7 +5,7 @@ author: {samed1907}
 anrechnung: k
 ---
 
-Das Thema "Projektstart" kann man definieren als dem "Termin, zu dem der Lenkungsausschuss den Beginn des Projekts genehmigt[^1]." Zudem stellen sich die Fragen "Wie beginne ich mit einem Projekt?", "Wie gehe ich bei einem Projekt vor?", "Welche Projektphasen gibt es?" oder auch "Welche Einflüsse gibt es auf den Projektstart?". Diese Fragen werden im Folgenden näher behandelt, um den Projektstart so fliessend und strukturiert wie möglich zu machen. 
+Das Thema "Projektstart" kann man definieren als dem "Termin, zu dem der Lenkungsausschuss den Beginn des Projekts genehmigt"[^1].Zudem stellen sich die Fragen "Wie beginne ich mit einem Projekt?", "Wie gehe ich bei einem Projekt vor?", "Welche Projektphasen gibt es?" oder auch "Welche Einflüsse gibt es auf den Projektstart?". Diese Fragen werden im Folgenden näher behandelt, um den Projektstart so fliessend und strukturiert wie möglich zu machen. 
 
 
 # Der Beginn eines Projekts
