@@ -26,17 +26,22 @@ Das Kommunikationsmodell von Alistair Cockburn beschreibt auf der Y-Achse die �
 
 Nach Cockburn ist dadurch die effektivste Kommunikationsform von Angesicht zu Angesicht, insbesondere wenn sie durch ein gemeinsames Modellierungsmedium, wie ein einfaches Whiteboard, ein Flipchart, Papier oder Karteikarten unterstützt wird. Wenn man sich von dieser Kommunikationsform abwendet, etwa indem man das gemeinsame Medium entfernt oder nicht mehr von Angesicht zu Angesicht kommuniziert, sinkt die Effektivität der Kommunikation [^3].
 
-# 3. Vorteile durch digitale Kommunikation
+# 3. Nachteile durch digitale Kommunikation 
+Die digitale Kommunikation bringt auch einige Risiken mit sich. Das größte Risiko besteht in der Datensicherheit. Die Daten müssen ausreichend gesichert sein, damit kein Datenleck entsteht, außerdem muss das Unternehmen Zeit und Geld investieren, um die Mitarbeiter in „Cybersicherheit“ zu schulen [^7].
+Des Weiteren können Probleme durch Missverständnisse in der textbasierten Onlinekommunikation auftreten. Die Probleme entstehen meist durch fehlende Mimik und Gestik, weshalb Nachrichten möglichst wenig Spielraum zur Fehlinterpretation lassen sollten [^8][^9].
+
+
+# 4. Vorteile durch digitale Kommunikation
 Die Vorteile digitaler Kommunikation liegen in der zeitlichen- und räumlichen Unabhängigkeit und in der Effizienz. E-Mails können zeitlich unabhängig versendet werden und erreichen den Empfänger innerhalb weniger Sekunden.
 Die räumliche Unabhängigkeit spiegelt sich dadurch wieder, dass die Mitglieder eines Projektteams sich in verschieden Regionen oder sogar Zeitzonen befinden und durch Kommunikationssoftware trotzdem am Projektmeeting teilnehmen können.
 Der größte Vorteil ist aber der Zeitgewinn, wodurch Aufträge „just in time“ vergeben werden können oder an [Projekten](Projekt.md) durch „Share-Optionen“ mehrere Personen gleichzeitig arbeiten können [^4].
 
-# 4. Die Kommunikationssoftware Microsoft Teams
+# 5. Die Kommunikationssoftware Microsoft Teams
 
-## 4.1 Was ist MS Teams?
+## 5.1 Was ist MS Teams?
 Microsoft Teams ist ein Programm zur Unterstützung von digitaler Kommunikation und effektiver Zusammenarbeit im Team. Dabei eignet es sich als chatbasierter und videobasierter Arbeitsbereich. Des Weiteren können [Microsoft Technoliegen](Microsoft_Project_PM_Tool.md) und Office 365 Funktionen integriert werden [^5].
 
-## 4.2 Wichtige Funktionen in MS Teams
+## 5.2 Wichtige Funktionen in MS Teams
 
 Chat- und Videofunktion:
 * Chatfunktion für bis zu 50 Personen zur optimalen Abstimmung im Projektteam 
@@ -70,3 +75,7 @@ Verschiedene Tools zur optimalen Projektbearbeitung:
 [^4]: Digital ist alles: https://www.perwiss.de/digitale-kommunikation.html
 [^5]: Was ist MS Teams: https://www.theprojectgroup.com/de/office-365-microsoft-teams-chat
 [^6]: Fünf Funktionen von MS Teams: https://news.microsoft.com/de-de/microsoft-teams-funktionen/
+[^7]: Risiken Digitale Kommunikation: https://www.chubb.com/ch-de/businesses/resources/delivering-digital-communications-for-business.html
+[^8]: Nachteile Digitale Kommunikation:https://www.veroo-consulting.com/digitale-kommunikation
+[^9]: Nachteile Digitale Kommunikation:https://link.springer.com/content/pdf/10.1007%2F978-3-540-78393-0_2.pdf
+
