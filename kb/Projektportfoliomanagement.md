@@ -49,7 +49,7 @@ Y-Achse:
 - Merkmal B 
 - Einteilung Skala 
 
-Optional: weitere Faktoren, welche mit Kreisform dargestellt werden [^4]  
+Optional: weitere Faktoren, welche in Kreisform dargestellt werden [^4]  
 
 ## Abgrenzung 
 
@@ -84,6 +84,6 @@ Alle Ebenen müssen Ihre Ziele kontinuierlich miteinander abstimmen. [^1]
 [^1]: [Was ist Projektportfoliomanagement?](https://www.microtool.de/wissen-online/was-ist-projektportfoliomanagement)
 [^2]: [Projektportfoliomanagement](https://www.factro.de/blog/projektportfoliomanagement) 
 [^3]: [Definition Projektportfoliomanagement](https://wirtschaftslexikon.gabler.de/definition/multiprojektmanagement-40074)
-[^4]: [Projektportfolio](https://www.business-wissen.de/hb/projektportfolio-als-uebersicht-fuer-das-multiprojektmanagement) 
+[^4]: [Übersicht Projektportfolio](https://www.business-wissen.de/hb/projektportfolio-als-uebersicht-fuer-das-multiprojektmanagement) 
 [^5]: [Standard Projektportfoliomanagement](https://de.wikipedia.org/wiki/Projektportfoliomanagement) 
-[^6]: [Projektportfoliomanagement](https://www.projektmagazin.de/artikel/projektportfoliomanagement-der-praxis-teil-1_1111324) 
+[^6]: [Projektportfoliomanagement in der Praxis](https://www.projektmagazin.de/artikel/projektportfoliomanagement-der-praxis-teil-1_1111324) 
