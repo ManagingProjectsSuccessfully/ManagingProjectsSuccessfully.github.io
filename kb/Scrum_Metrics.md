@@ -88,7 +88,7 @@ Der Focus Faktor definiert die Zeit, wo das Team konzentriert auf den Aufgaben a
 ### Sprint Burndown[^1][^2]
 Ein Sprint Burndown Diagramm, veranschaulicht den Sprint Fortschritt in bezug auf erledigte Aufgaben und wird in Stunden oder Story Points gemessen. Dadurch kann der Arbeitsaufwand angepasst werden.
 
-![Image](/kb/Scrum_Metrics/Burndown_Chart_Scrum_Metrics_03.png)
+![Image](/kb/Scrum_Metrics/Burndown_Chart_Scrum_Metrics_03.png)[^9]
 
 >    - Restaufwand auf Y Achse
 >    - Sprintzeit auf X Achse
@@ -140,3 +140,5 @@ Scrum Metrics werden im laufe eines Scrum Projekts zur Effizienzsteigerung des T
 [^7]: [plutora](https://www.plutora.com/blog/agile-metrics)
 
 [^8]: [appliedframeworks](https://appliedframeworks.com/agile-metrics-4-balanced-kpis-to-measure-success/)
+
+[^9]: [appvizer.co.uk](https://www.appvizer.co.uk/magazine/operations/project-management/scrum-principles)
