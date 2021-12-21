@@ -37,11 +37,23 @@ Die altbewährte E-Mail reicht für eine gelungene Zusammenarbeit nicht mehr aus
                 
 # Potenziale
 
-Mit der Effizienz, die durch einen gezielten Tooleinsatz gewonnen wird, wird die Produktivität der Teams gesteigert und es entsteht ein großes Potenzial darin, „eine Vielzahl von Projekten zeitgleich durchzuführen und trotzdem stets den Überblick zu behalten.“[^7] Zudem können durch die bessere Analyse von Daten und Gebrauch von Monitoring-Software Probleme und Risiken schneller identifiziert werden. Demnach können Projektmitglieder schneller reagieren, wodurch ein effizienterer Einsatz von Ressourcen und Budget erreicht und Kosten reduziert werden können.[^4] Ebenfalls werden viele klassische Aufgaben von Projektmanagern, wie beispielsweise [Zeitplanung](Zeitplanung.md), automatisiert. Die daraus resultierende Zeitersparnis bedeutet für den Projektmanager, dass er sich auf die wichtigeren Aufgaben im Projekt konzentrieren kann.[^6] Ein weiteres Potenzial besteht darin, dass auch externe Partner mit Hilfe von PM- und Kommunikations-Tools viel leichter in Projekte eingebunden werden können.[^5]
+Mit der Effizienz, die durch einen gezielten Tooleinsatz gewonnen wird, wird die Produktivität der Teams gesteigert und es entsteht ein großes Potenzial darin, „eine Vielzahl von Projekten zeitgleich durchzuführen und trotzdem stets den Überblick zu behalten.“[^7] 
+
+Zudem können durch die bessere Analyse von Daten und Gebrauch von Monitoring-Software Probleme und Risiken schneller identifiziert werden. Demnach können Projektmitglieder schneller reagieren, wodurch ein effizienterer Einsatz von Ressourcen und Budget erreicht und Kosten reduziert werden können.[^4] 
+
+Ebenfalls werden viele klassische Aufgaben von Projektmanagern, wie beispielsweise [Zeitplanung](Zeitplanung.md), automatisiert. Die daraus resultierende Zeitersparnis bedeutet für den Projektmanager, dass er sich auf die wichtigeren Aufgaben im Projekt konzentrieren kann.[^6] 
+
+Ein weiteres Potenzial besteht darin, dass auch externe Partner mit Hilfe von PM- und Kommunikations-Tools viel leichter in Projekte eingebunden werden können.[^5]
 
 # Herausforderungen
 
-Das Projektmanagement muss sich „auf mehr Geschwindigkeit und eine höhere Komplexität einstellen.“ Das bedeutet u.a., dass dezentrale und flexible Lösungswege, sowie agile Ansätze sich als wichtig erweisen werden. Aus diesem Grund werden vor allem Unternehmen, die bis jetzt ausschließlich auf klassische Methoden gesetzt haben, vor einer großen Herausforderung stehen.[^2] Bei einer großen Anzahl an Projekten kann zudem der Überblick schnell verloren gehen, weswegen die Schlüsselprojekte und Kernaufgaben von den jeweiligen Projekten definiert und Prioritäten gekonnt gesetzt werden müssen.[^7] Außerdem ändern sich die Anforderungen an die Kompetenzprofile von [Projektleitern](Projektleiter.md) und allen weiteren Teammitgliedern. Einerseits müssen sie bestimmte fachliche Qualifikationen mitbringen, aber auch Flexibilität und kommunikative Fähigkeiten sind gefragt.[^7] Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes und effizientes Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.[^8]
+Das Projektmanagement muss sich „auf mehr Geschwindigkeit und eine höhere Komplexität einstellen.“ Das bedeutet u.a., dass dezentrale und flexible Lösungswege, sowie agile Ansätze sich als wichtig erweisen werden. Aus diesem Grund werden vor allem Unternehmen, die bis jetzt ausschließlich auf klassische Methoden gesetzt haben, vor einer großen Herausforderung stehen.[^2]
+
+Bei einer großen Anzahl an Projekten kann zudem der Überblick schnell verloren gehen, weswegen die Schlüsselprojekte und Kernaufgaben von den jeweiligen Projekten definiert und Prioritäten gekonnt gesetzt werden müssen.[^7]
+
+Außerdem ändern sich die Anforderungen an die Kompetenzprofile von [Projektleitern](Projektleiter.md) und allen weiteren Teammitgliedern. Einerseits müssen sie bestimmte fachliche Qualifikationen mitbringen, aber auch Flexibilität und kommunikative Fähigkeiten sind gefragt.[^7] 
+
+Letztendlich ist es wichtig, dass Unternehmen generell eine gute digitale Struktur schaffen, welche ein modernes und effizientes Projektmanagement ermöglicht. Dabei stehen die Unternehmen wiederum vor anderen Hürden. Die Abbildung zeigt, was genau die Unternehmen im Rahmen der „Digitalisierungsumfrage 2021“ als Herausforderungen aufgeführt haben.[^8]
 
 ![DIHK](Digitalisierung_im_PM/grafik-herausforderungen-digitalisierungsumfrage-21-data.png)
 
