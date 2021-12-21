@@ -4,7 +4,7 @@ tags:  klassisch
 author: 12Yousuf
 anrechnung: k 
 ---
-
+ 
 # Inhaltsverzeichnis
 
 1. [Definition Kommunikation](#definition-kommunikation)  
