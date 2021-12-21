@@ -17,15 +17,19 @@ repräsentieren, unterstützt die Balanced Scorecard diese durch weitere operati
 Ergänzung entsteht das Gleichgewicht zwischen verschiedenen Unternehmenszielen.[^2] Die klassische Balanced Scorecard besteht dabei aus vier Perspektiven, die jeweils in Ziele, 
 Kennzahlen, Vorgaben und Maßnahmen unterteilt werden:
 
-*	Finanzielle Perspektive: 
+*	*Finanzielle Perspektive:*
+
 Die finanzielle Perspektive gibt zum einen Aussicht über das erwartete Ergebnis der Strategie und dient gleichzeitig als Endziel der restlichen Perspektiven. Maßgebliche 
 Kennzahlen können beispielsweise Kosten pro Stück sein. 
-*	Kunden-Perspektive: 
+*	*Kunden-Perspektive:*
+
 Die Identifizierung von Kunden- und Marktsegmenten dient zur Sicherung der Wettbewerbsfähigkeit und bietet gleichzeitig die Grundlage für die finanziellen Ziele. Dabei kann der 
 Schwerpunkt auf Kundenbeziehungen oder Image und Reputation liegen.
-*	Interne Prozess-Perspektive
+*	*Interne Prozess-Perspektive:*
+
 Die internen Prozesse, die zur Erreichung der finanziellen und Kundenperspektive werden hier aufgezeigt. Dazu gehören beispielweise Prozessqualität und -durchlaufzeit. 
-*	Lern- und Entwicklungsperspektive
+*	*Lern- und Entwicklungsperspektive:*
+
 Die Kennzahlen beschreiben die Infrastruktur, die ein Unternehmen zur Verfügung stellen muss, um das Wachstum zu fördern. Zukunftsorientierte Investition sind für die Erreichung 
 der Ziele für Norton und Kaplan unausweichlich.[^2] 
  
@@ -39,20 +43,19 @@ Aufbau der Balanced Scorecard[^3]
 
 Die Balanced Scorecard zeichnet sich zudem durch Flexibilität aus, die Dimensionen der BSC können frei determiniert werden. Die Menge und Ausprägung der Perspektiven kann 
 variieren und somit individuell an die Unternehmensziele angepasst werden. Somit können Unternehmen beispielsweise auch Umweltziele und branchenspezifische Faktoren in die BSC 
-aufnehmen.[^1]
+aufnehmen.[^1] Gleichzeitig können durch die klare Definition der strategischen Ziele eine effizientere Zusammenarbeit in Teams und Fokussierung auf wesentliche Kennzahlen eines Projekts erreicht werden.[^4]
 
 ## Grenzen der Balanced Scorecard
 
 Auch wenn die Balanced Scorecard monetäre und nicht-monetäre Kennzahlen verbindet, so weist sie trotzdem Schwachstellen auf. Das Framework der BSC fokussiert sich stark auf die 
 internen Aspekte der Unternehmen und lässt dabei externe Faktoren und Wettbewerber weitestgehend unbeachtet. Es werden demnach auch keine Aussagen getroffen, wie sich externe 
 Änderungen auf die Implementierung der BSC auswirken. Um die Erkenntnisse der BSC ideal für sich zu nutzen, sollten diese demnach auch mit Informationen aus SWOT oder 
-[PEST Analyse](PEST_Analyse.md) kombiniert werden.[^4]
+[PEST Analyse](PEST_Analyse.md) kombiniert werden.[^5]
 
 # Balanced Scorecard im Projektmanagement 
 
 Durch steigende Projektorientierung in Unternehmen, wird auch das Projektmanagement zunehmend wichtiger. Die Balanced Scorecard dient auch im Projektmanagement dazu, das Projekt 
-ganzheitlich zu betrachten, zu steuern und sowohl im Prozess als auch bei Abschluss des Projekts zu kontrollieren. Um diese erfolgreich im Projekt zu nutzen, werden die 
-einzelnen Perspektiven auf die Ziele des Projekts angepasst und überwacht.[^5] 
+ganzheitlich zu betrachten, zu steuern und sowohl im Prozess als auch bei Abschluss des Projekts mittels [Projektcontrolling](Projektcontrolling.md) zu kontrollieren. Um diese erfolgreich im Projekt zu nutzen, werden die einzelnen Perspektiven auf die Ziele des Projekts angepasst und überwacht.[^6] 
 
 
 # Siehe auch
@@ -70,6 +73,7 @@ einzelnen Perspektiven auf die Ziele des Projekts angepasst und überwacht.[^5]
 [^1]: [The Balanced Scorecard—Measures that Drive Performance](https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2)
 [^2]: [Balanced Scorecard - Definition](https://wirtschaftslexikon.gabler.de/definition/balanced-scorecard-28000)
 [^3]: [Balanced Scorecard - Perspektiven](https://wirtschaftslexikon.gabler.de/sites/default/files/styles/max_2600x2600/public/images/wilex/73332.png?itok=xfg9pi_D)
-[^4]: [Stärken und Schwächen der Balanced Scorecard](https://www.researchgate.net/publication/308118049_BALANCED_SCORECARD_WEAKNESSES_STRENGTHS_and_ITS_ABILITY_as_PERFORMANCE_MANAGEMENT_SYSTEM_VERSUS_OTHER_PERFORMANCE_MANAGEMENT_SYSTEMS)
-[^5]: [Projektcontrolling](https://www.business-wissen.de/hb/projektcontrolling-auf-basis-des-balanced-scorecard-konzepts/)
+[^4]: [Balanced Scorecard - Erfolgreiche Umsetzung](https://www.it-markt.ch/news/2019-02-18/erfolgreiche-strategieumsetzung-5-vorteile-der-balanced-scorecard)
+[^5]:[Stärken und Schwächen der Balanced Scorecard](https://www.researchgate.net/publication/308118049_BALANCED_SCORECARD_WEAKNESSES_STRENGTHS_and_ITS_ABILITY_as_PERFORMANCE_MANAGEMENT_SYSTEM_VERSUS_OTHER_PERFORMANCE_MANAGEMENT_SYSTEMS)
+[^6]: [Projektcontrolling](https://www.business-wissen.de/hb/projektcontrolling-auf-basis-des-balanced-scorecard-konzepts/)
 
