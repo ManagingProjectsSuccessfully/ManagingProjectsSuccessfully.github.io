@@ -10,11 +10,11 @@ Pflichtenheft hilft bei der problemlosen Umsetzung eines Projektes. In einem Pfl
 Die Übereinstimmung des Lasten- und Pflichtenhefts ist sehr wichtig, da hierüber ein Großteil der Projektkommunikation erfolgt.
 
 ## Inhaltsverzeichnis:
-   * Lastenheft
-   * Gesetzliche Definitionen 
-   * Der Aufbau des Lastenhefts
-   * Der Aufbau des Pflichtenheft
-   * Pflichtenheft Gliederung
+   1. Lastenheft
+   2. Gesetzliche Definitionen 
+   3. Der Aufbau des Lastenhefts
+   4. Der Aufbau des Pflichtenheft
+   5. Pflichtenheft Gliederung
 
 ## Lastenheft
 Um das Pflichtenheft besser zu verstehen, wird im Folgenden das [Lastenheft](Lastenheft.md) kurz definieren.
@@ -22,6 +22,8 @@ In einem Lastenheft legt der Kunde fest, was er von dem Projekt erwartet. Er bes
 Eine Abbildung zu einer bessern Übersicht:
 
 ![Beispielabbildung](Pflichtenheft/Lastenheft-Pflichtenheft.webp)
+
+*Abbildung 1: Lastenhaft-Pflichtenheft*
 
 ## Gesetzliche Definitionen
 Das Pflichtenheft ist nach der [DIN 66001](DIN66001.md) "die ausführliche Beschreibung der Leistungen, die erforderlich sind oder gefordert werden, damit die Ziele des Projektes erreicht werden".[^1]
