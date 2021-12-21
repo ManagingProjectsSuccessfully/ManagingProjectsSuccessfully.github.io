@@ -13,7 +13,7 @@ Das Projektportfoliomanagement, kurz PPM, beschreibt die permanente Planung, Pri
 
 ## Standard DIN 69909 
 
-Das Projektportfolio wird als "Zusammenfassung von Projekten und Programmen in einem abgegrenztem Verantwortungsbereich zum Zwecke einer permanenten übergeordneten Planung und Steuerung" beschrieben. [^5] 
+Das Projektportfolio wird als "Zusammenfassung von Projekten und Programmen in einem abgegrenzten Verantwortungsbereich zum Zwecke einer permanenten übergeordneten Planung und Steuerung" beschrieben. [^5] 
 
 ## Aufgaben des Projektportfoliomanagement [^1] [^2]
 
