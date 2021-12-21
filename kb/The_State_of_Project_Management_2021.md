@@ -69,11 +69,11 @@ Durch die Auswirkungen von COVID-19 befinden unterschiedliche Branchen in versch
 
 # Siehe auch
 
-* [Projektmanagement](kb/Projektmanagement.md)
-* [Risikomanagement](kb/Risikomanagement.md)
-* [Projekt Management Office](kb/Project_Management_Office.md)
-* [Methoden](kb/Methoden.md)
-* [Zukunftswerkstatt](kb/Zukunftswerkstatt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Risikomanagement](Risikomanagement.md)
+* [Projekt Management Office](Project_Management_Office.md)
+* [Methoden](Methoden.md)
+* [Zukunftswerkstatt](Zukunftswerkstatt.md)
 
 # Weiterführende Literatur
 
