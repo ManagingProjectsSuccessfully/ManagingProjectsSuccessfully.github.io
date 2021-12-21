@@ -75,7 +75,6 @@ Bei der Planung eines Projektes kommt man nicht um die Eingliederung in Phasen h
 
 # Quellen
 
-
 [^1]: [projektmagazin: Projektphasen](https://www.projektmagazin.de/glossarterm/projektphase)
 [^2]: [ProjectWizards: Wie Sie Projektphasen erfolgreich planen](https://www.projectwizards.net/de/blog/2019/06/project-phases)
 [^3]: [MindManagerBlog: Die fünf Phasen dees Projektmanagement-Prozesses](https://blog.mindmanager.com/de/blog/die-funf-phasen-des-projektmanagement-prozesses/)
