@@ -43,10 +43,10 @@ Ein weiterer Aspekt, der die Bedenken schmälern könnte ist, dass die Entwicklu
 
 
 # Weiterführende Literatur
-- Buch: [Crashkurs KI im Unternehmen](https://shop.haufe.de/prod/cashkurs-ki-im-unternehmen)
-- Video: [KI im Projektmanagement – was kann's? (Teil 1)](https://www.youtube.com/watch?v=eBtxz60kCjY)
-- Video: [KI im Projektmanagement – was kann's? (Teil 2)](https://www.youtube.com/watch?v=mr5EBwpVR4Y)
-- Video: [Von Chatbots bis zu Waffensystemen - Fluch und Segen der Künstlichen Intelligenz | SWR Doku](https://www.youtube.com/watch?v=oNk6ESLpxKI)
+- Buch: [Stephan Matzka, Crashkurs KI im Unternehmen, veröffentlicht 2021 1. Auflage](https://shop.haufe.de/prod/cashkurs-ki-im-unternehmen)
+- Video: [Johann Strasser & Thomas Wuttke, KI im Projektmanagement – was kann's? (Teil 1), veröffentlicht 18.05.2021](https://www.youtube.com/watch?v=eBtxz60kCjY)
+- Video: [Johann Strasser & Thomas Wuttke, KI im Projektmanagement – was kann's? (Teil 2), veröffentlicht 08.06.2021](https://www.youtube.com/watch?v=mr5EBwpVR4Y)
+- Video: [Uri Schneider, Von Chatbots bis zu Waffensystemen - Fluch und Segen der Künstlichen Intelligenz | SWR Doku, veröffentlicht 02.06.2021](https://www.youtube.com/watch?v=oNk6ESLpxKI)
 
 # Quellen
 [^1]: [WIE KÜNSTLICHE INTELLIGENZ (KI) DAS PROJEKTMANAGEMENT BEEINFLUSST](https://www.tiba.de/wie-kuenstliche-intelligenz-ki-das-projektmanagement-beeinflusst/) Autor: Reinhard Wagner geöffnet am 11.11.2021 16:00 Uhr
