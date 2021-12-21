@@ -23,6 +23,7 @@
  # Definition
  >"*The Lean-Agile Mindset is the combination of beliefs, assumptions, attitudes, and actions of [SAFe](SAFe.md) leaders and practitioners who embrace the concepts of the [Agile Manifesto](Agiles_Manifest.md) and Lean thinking. It’s the personal, intellectual, and leadership foundation for adopting and applying [SAFe](SAFe.md) principles and practices."*[^1] 
 
+
 Das Lean-Agile Mindset beschreibt, Lean und Agile als Herzstück des [Scaled Agile Frameworks](SAFe.md) und stützt sich darauf in vielen Beiträgen des Frameworks. Diese erklären, wie Lean-Agile-Praktiken in Unternehmen implementiert werden können.[^1]
 
  # Änderung des momentanen Mindsets zur Umsetzung des [Scaled Agile Frameworks](SAFe.md)
@@ -46,7 +47,7 @@ Das Lean-Agile Mindset beschreibt, Lean und Agile als Herzstück des [Scaled Agi
  Als erstes gilt es die SAFe Werte und Prinzipien zu verstehen und anzuwenden, um im nächsten Schritt überzeugende Ergebnisse zu liefern. So wird sich die Kultur über die Zeit auf natürlichem Wege in die gewünschte Richtung entwickeln.[^1]
 
  ## Säule 2 - Flow
- Ähnlich wie bei anderen Agilen Vorgehensweisen sind kontinuierliches Feedback und Anpassungen von Prozessen zur erfolgreichen Umsetzung des [SAFe](SAFe.md) essentiell.  [^1] [^4]
+ Ähnlich wie bei anderen Agilen Vorgehensweisen sind kontinuierliches Feedback und Anpassungen von Prozessen zur erfolgreichen Umsetzung des [SAFe](SAFe.md) essentiell.  [^1] [^4]  
  Darüber hinaus konzentriert sich Lean auf die Identifizierung und Beseitigung von Verzögerungen und Verschwendung (nicht wertschöpfende Aktivitäten).[^1]  
  Um Flow zu garantieren muss der Wechsel im Unternehmen von einem Start-Stop-Start-[Projektmanagementprozess](Projektmanagement.md) zu einem agilen Produktmanagementansatz, der auf langlebige Entwicklungswertströme ausgerichtet ist, durchgeführt werden.[^1]
 
