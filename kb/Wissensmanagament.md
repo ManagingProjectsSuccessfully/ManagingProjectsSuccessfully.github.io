@@ -15,10 +15,7 @@ Dabei werden folgende Funktionen erfüllt:[^2]
 *	Projektergebnisse dokumentieren
 *	Wissensaustausch unterstützen
 *	Raum für informellen Austausch schaffen
-*	Wissen erwerben
-*	Wissen entwickeln
-*	Wissen speichern
-*	Wissen nutzen
+*	Wissen erwerben, entwickeln, speichern, nutzen
 
 Dabei spielt vor allem der Transfer von Wissen eine entscheidende Rolle. Das Ziel hierbei ist, implizites Wissen in explizites Wissen um zu wandeln und so eine Art kollektives Wissen zu schaffen[^3].  (siehe [Wissenstransfer](Wissenstransfer.md))
 
@@ -36,7 +33,7 @@ Explizites Wissen bezeichnet ein formulierbares Wissen und ist deshalb leicht re
 
 ## Bausteinmodell nach Probst/Raub/Romhardt:
 
-Das Bausteinmodell stellt ein weit verbreitetes Modell des Wissensmanagements dar. Dieses Modell bildet einen traditionellen Managementprozess ab und besteht aus 8 Bausteinen, welche sich in einen äußeren Kreislauf (strategische Steuerungsaufgaben) und einen inneren Kreislauf (Umsetzung) aufteilen lassen[^6]. 
+Das Bausteinmodell stellt ein weit verbreitetes Modell des Wissensmanagements dar. Dieses Modell bildet einen traditionellen Managementprozess ab und besteht aus acht Bausteinen, welche sich in einen äußeren Kreislauf (strategische Steuerungsaufgaben) und einen inneren Kreislauf (Umsetzung) aufteilen lassen[^6]. 
 
 
 ![Bausteinmodell](Wissensmanagament/Wissensmanagement.jpg) 
@@ -44,19 +41,27 @@ Das Bausteinmodell stellt ein weit verbreitetes Modell des Wissensmanagements da
 *Grafische Visualisierung des Bausteinmodells nach Probst/Raub/Romhardt*[^7]
 
 
-**Äußerer Kreislauf:** 
+### Äußerer Kreislauf[^6]:
 
-* Wissensziele (Beschreibung des organisationalen Kernwissens)
-* Wissensbewertung (Messung des Erfolgs)
+**Wissensziele**: Festlegung der Richtung des Wissensmanagements
 
-**Innerer Kreislauf:** 
+**Wissensbewertung**: Messung des Erfolgs
 
-*	Wissensidentifikation (Schaffung von Transparenz über Informationen und Fähigkeiten)
-*	Wissenserwerb (Steigerung des eigenen Wissens)
-*	Wissensentwicklung (Aufbau neuen Wissens)
-*	Wissensverteilung (Verteilung vorhandenen Wissens)
-*	Wissensnutzung (Anwendung von Wissen) 
-*	Wissensbewahrung (Speicherung von Wissen)
+### Innerer Kreislauf[^6]: 
+
+**Wissensidentifikation**: Schaffung von Transparenz über Informationen und Fähigkeiten
+
+**Wissenserwerb**: Steigerung des eigenen Wissens
+
+**Wissensentwicklung**: Aufbau neuen Wissens
+
+**Wissensverteilung**: Verteilung vorhandenen Wissens
+
+**Wissensnutzung**: Anwendung von Wissen
+
+**Wissensbewahrung**: Speicherung von Wissen
+
+Diese Bausteine werden in einem Kreislauf abgearbeitet, beginnend mit den **Wissenszielen** bis zu der **Wissensbewertung** und einem Feedback[^9].
 
 ## Wissensspirale (SECI-Modell) nach Nonaka und Takeuchi
 
@@ -72,7 +77,6 @@ Dabei gibt es vier Schritte:
 
 **Internalisierung:** neues Wissen wird verinnerlicht und somit implizit (explizit zu implizit)
 
-(Siehe auch [Wissensspirale](Wissensspirale.md))
 
 **Weitere Modelle:**
 
