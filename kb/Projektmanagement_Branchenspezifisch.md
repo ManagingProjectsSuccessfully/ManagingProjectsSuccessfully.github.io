@@ -52,7 +52,6 @@ So ist bei einem komplizierten Projektvorhaben, welches von einem stabilen Umfel
 * [IT-Branche](IT-Projekte.md)
 
 
-
 # Quellen
 
 [^1]:  [ProjectBase - Typische Projektmanagement-Branchen](https://project-base.org/projektmanagement/branchen/)
