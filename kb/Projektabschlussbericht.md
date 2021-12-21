@@ -26,7 +26,7 @@ Projektes gibt.
 Ziel dieses 
 Vorgehens ist es, die einzelnen Handlungsschritte zu reflektieren und die passenden Schlüsse daraus zu ziehen. Dies kann einerseits positiv, andererseits negativ 
 ausfallen. 
-Dafür stellt sich stets die Frage: *Was ist gut gelaufen und womit waren unsere Kunden zufrieden? Aber auch: Wo besteht dringend Handlungsbedarf?*  
+Dafür stellt sich stets die Frage: *Was ist gut gelaufen und womit waren unsere Kunden zufrieden?* Aber auch: *Wo besteht dringend Handlungsbedarf?*  
   Er beschreibt also das **Gesamtergebnis**, sowie die **Entwicklung eines Projektes** und trägt besonders dazu bei **Erfahrungen für künftige Vorhaben** zu sichern. 
 Zusätzlich analysiert das Team die Stärken und Schwächen in der Projektarbeit. Deshalb sollten sie für deren Feedback am Ende der Fertigstellung noch einmal zusammenkommen und sind anschließend daran aus dem Projekt entlassen[^2].
 
@@ -63,8 +63,9 @@ führen.
 
 * **Zusammenarbeit**
 
-Auch die Soft Facts sollten nicht außer Acht gelassen werden, welche besonders in Bezug auf das *Arbeitsklima* zur Sprache kommen. Dies impliziert nicht nur die
-Teamarbeit, sondern auch die *Kooperartion mit relevanten [Stakeholdern](Stakeholder_Register.md) und Mitglieder anderer Projekte*. Diese Abstimmung kann zum Beispiel anhand von Fragebögen
+Die Soft Facts sollten ebenfalls nicht außer Acht gelassen werden, welche besonders in Bezug auf das *Arbeitsklima* zur Sprache kommen. Dies impliziert nicht nur die
+Teamarbeit, sondern auch die *Kooperartion mit relevanten [Stakeholdern](Stakeholder_Register.md) und Mitglieder anderer Projekte*. Diese Abstimmung kann zum Beispiel 
+anhand von Fragebögen
 durchgeführt werden.
 
 * **Workshop**
