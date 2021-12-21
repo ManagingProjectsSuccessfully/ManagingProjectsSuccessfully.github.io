@@ -18,13 +18,13 @@ Ein Fertigstellungswert, also der Earned Value, ist ein Maß für die bereits ge
 Somit entspricht die Earned Value Analyse einem Messverfahren, um den tatsächlich erzielten Fortschritt in Relation zu dem geplanten Ziel zu ermitteln und anschließend zu bewerten. [^2]
 
 # Nutzen
-Im Hinblick auf das magische Dreieck des Projektmanagements, wird oftmals nur der Aufwand und die Zeit betrachtet. 
+Im Hinblick auf das magische Dreieck des Projektmanagements wird oftmals nur der Aufwand und die Zeit betrachtet. 
 Dabei werden Soll- und Ist-Werte verglichen. 
 Bei der Earned Value Analyse im Gegensatz wird auch der Leistungsumfang als Fertigstellungswert mit einberechnet und somit eine Verbindung zwischen den drei Gebieten geschaffen. 
 So wird bei abweichenden Ist-Werten nicht nur dieser eine Wert betrachtet, sondern der Wert im Verhältnis zu den anderen beiden. 
-Übersteigen beispielsweise die Ist-Kosten die Plan-Kosten ist das zunächst negativ. 
-Betrachtet man jedoch ebenso die Fertigstellung, so kann geprüft werden, ob die Kosten insgesamt anstiegen oder ob das Projekt schneller bearbeitet wurde und die zu diesem Zeitpunkt erhöhten Kosten dadurch entstanden sind. 
-Das Ergebnis wäre trotz Kostenüberschreitung in diesem Moment positiv, denn die Kosten im Gesamtprojekt blieben gleich, jedoch wurde das Projekt schneller erledigt als geplant. 
+Übersteigen beispielsweise die Ist-Kosten die Plan-Kosten ist dies zunächst negativ. 
+Betrachtet man jedoch ebenso die Fertigstellung, so kann geprüft werden, ob die Kosten insgesamt angestiegen sind oder ob das Projekt schneller bearbeitet wurde und die zu diesem Zeitpunkt erhöhten Kosten dadurch entstanden sind. 
+Das Ergebnis wäre trotz Kostenüberschreitung in diesem Moment positiv, denn die Kosten im Gesamtprojekt bleiben gleich, jedoch wurde das Projekt schneller erledigt als geplant. 
 Dieses Beispiel dient zur Veranschaulichung, wie wichtig es ist alle drei Komponenten im Zusammenspiel zu betrachten. [^3]
 
 # Durchführung
@@ -68,6 +68,7 @@ Anhand dessen können in der [Projektsteuerung](Projektsteuerung.md) Prognosen f
 
 # Siehe auch
 * [Projekt](Projekt.md)
+* [Projektumfang](Projektumfang.md)
 * [magisches Dreieck](Magisches_Dreieck.md)
 * [Erfolgsmessung](Erfolgsmessung.md)
 * [Projektsteuerung](Projektsteuerung.md)
@@ -75,6 +76,7 @@ Anhand dessen können in der [Projektsteuerung](Projektsteuerung.md) Prognosen f
 # Weiterführende Links
 * [Beispiele zur Berechnung der EVA](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/earned-value-analyse/)
 * [Earned Value Analyse Wikipedia](https://de.wikipedia.org/wiki/Earned_Value_Analysis)
+* [Fertigstellungswert](https://www.linjal.de/keys/fertigstellungswert/)
 
 # Quellen
 [^1]: [Earned Value Management](https://www.projektmagazin.de/methoden/earned-value-management)
@@ -82,4 +84,3 @@ Anhand dessen können in der [Projektsteuerung](Projektsteuerung.md) Prognosen f
 [^3]: [Earned Value Analyse. Projektcontrolling mit dem Fertigstellungswert.](https://www.microtool.de/wissen-online/was-ist-die-earned-value-analyse/)
 [^4]: [Earned Value Management - einfach erklärt](https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html)
 [^5]: [Die Earned-Value-Analyse einfach erklärt](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/earned-value-analyse)
-
