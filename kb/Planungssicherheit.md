@@ -75,8 +75,6 @@ sondern bis zum nächsten voraussehbaren Schritt. [^8]
 
 # Siehe auch
 
-* [Projektstart](Projektstart.md)
-* [Meilensteine](Meilensteine.md)
 * [Projektphasen-klassisch](Projektphasen_klassisch.md)
 * [Projektplanung](Projektplanung.md)
 * [Projekt](Projekt.md)
