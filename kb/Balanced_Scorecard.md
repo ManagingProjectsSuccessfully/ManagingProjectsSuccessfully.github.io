@@ -14,7 +14,7 @@ verständlich dargestellt sind.[^1]
 
 Der Fokus anderer Performance-measurement tools lag vorher überwiegend auf finanziellen Kennzahlen. Da finanzielle Kennzahlen die Ziele des Unternehmens meist nicht vollständig 
 repräsentieren, unterstützt die Balanced Scorecard diese durch weitere operative Maßnahmen, die die Treiber der zukünftigen finanziellen Performance darstellen. Durch die 
-Ergänzung entsteht das Gleichgewicht zwischen verschiedenen Unternehmenszielen. Die klassische Balanced Scorecard besteht dabei aus vier Perspektiven, die jeweils in Ziele, 
+Ergänzung entsteht das Gleichgewicht zwischen verschiedenen Unternehmenszielen.[^2] Die klassische Balanced Scorecard besteht dabei aus vier Perspektiven, die jeweils in Ziele, 
 Kennzahlen, Vorgaben und Maßnahmen unterteilt werden:
 
 *	Finanzielle Perspektive: 
@@ -32,15 +32,16 @@ der Ziele für Norton und Kaplan unausweichlich.[^2]
 Wie bereits aus der Beschreibung deutlich wird, sind die verschiedenen Perspektiven nicht gesondert zu betrachten, sondern sind ausbalanciert und stehen in 
 Ursache-/Wirkungsbeziehungen zueinander. 
 
-![image](https://user-images.githubusercontent.com/92790509/142918493-b6c3cf08-d03d-4fd9-90f6-57578f7b8edf.png) [^3]
+![image](https://user-images.githubusercontent.com/92790509/142918493-b6c3cf08-d03d-4fd9-90f6-57578f7b8edf.png) 
+Aufbau der Balanced Scorecard[^3]
 
-# Vorteile der Balanced Scorecard
+## Vorteile der Balanced Scorecard
 
 Die Balanced Scorecard zeichnet sich zudem durch Flexibilität aus, die Dimensionen der BSC können frei determiniert werden. Die Menge und Ausprägung der Perspektiven kann 
 variieren und somit individuell an die Unternehmensziele angepasst werden. Somit können Unternehmen beispielsweise auch Umweltziele und branchenspezifische Faktoren in die BSC 
 aufnehmen.[^1]
 
-# Grenzen der Balanced Scorecard
+## Grenzen der Balanced Scorecard
 
 Auch wenn die Balanced Scorecard monetäre und nicht-monetäre Kennzahlen verbindet, so weist sie trotzdem Schwachstellen auf. Das Framework der BSC fokussiert sich stark auf die 
 internen Aspekte der Unternehmen und lässt dabei externe Faktoren und Wettbewerber weitestgehend unbeachtet. Es werden demnach auch keine Aussagen getroffen, wie sich externe 
@@ -58,6 +59,7 @@ einzelnen Perspektiven auf die Ziele des Projekts angepasst und überwacht.[^5]
 
 * [Projektcontrolling](Projektcontrolling.md)
 * [Sustainability Scorecard](Sustainability_Scorecard.md)
+* [PEST Analyse](PEST_Analyse.md)
 
 # Weiterführende Literatur
 
@@ -66,8 +68,8 @@ einzelnen Perspektiven auf die Ziele des Projekts angepasst und überwacht.[^5]
 # Quellen
 
 [^1]: [The Balanced Scorecard—Measures that Drive Performance](https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2)
-[^2]: [Balanced Scorecard](https://wirtschaftslexikon.gabler.de/definition/balanced-scorecard-28000)
+[^2]: [Balanced Scorecard - Definition](https://wirtschaftslexikon.gabler.de/definition/balanced-scorecard-28000)
 [^3]: [Balanced Scorecard - Perspektiven](https://wirtschaftslexikon.gabler.de/sites/default/files/styles/max_2600x2600/public/images/wilex/73332.png?itok=xfg9pi_D)
-[^4]: [Stärken und Schwächen der BSC](https://www.researchgate.net/publication/308118049_BALANCED_SCORECARD_WEAKNESSES_STRENGTHS_and_ITS_ABILITY_as_PERFORMANCE_MANAGEMENT_SYSTEM_VERSUS_OTHER_PERFORMANCE_MANAGEMENT_SYSTEMS)
+[^4]: [Stärken und Schwächen der Balanced Scorecard](https://www.researchgate.net/publication/308118049_BALANCED_SCORECARD_WEAKNESSES_STRENGTHS_and_ITS_ABILITY_as_PERFORMANCE_MANAGEMENT_SYSTEM_VERSUS_OTHER_PERFORMANCE_MANAGEMENT_SYSTEMS)
 [^5]: [Projektcontrolling](https://www.business-wissen.de/hb/projektcontrolling-auf-basis-des-balanced-scorecard-konzepts/)
 
