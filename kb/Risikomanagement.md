@@ -22,7 +22,6 @@ externe Risiken:
 
 Zentrale Aufgabe des Risikomanagements ist es diese Risiken so früh wie möglich zu erkennen, um nach umfangreicher [Analyse](Risikoanalyse_und_Visualisierung.md) entsprechende zielgerichtete Gegenmaßnahmen definieren und durchführen zu können.
 
-Im Folgenden soll sich auf das klassische Risikomanagement beschränkt werden.
 
 # 2. Definition
 Unter Risikomanagement werden alle Aktivitäten zusammengefasst, die sich mit der Identifizierung von Risiken beschäftigen, sodass diese systematisch erfasst und bewertet werden können.[^4]  
