@@ -1,6 +1,6 @@
 ---
 title: KI_im_PM
-tags: klassisch, Projektmanagement, Künstliche Intelligenz (KI), Artificial Intelligence (AI)
+tags: klassisch Projekt Projektmanagement Künstliche Intelligenz KI Artificial Intelligence AI
 author: SimaSol
 anrechnung: k
 ---
@@ -46,7 +46,7 @@ KI ist also in der Lage, im Rahmen der [Software](KI_Software_fuer_Projektmanage
 Eine solche Analyse deckt die Feinheiten in den Arbeits- und Verhaltensmustern des Projektteams auf. 
 Sie befähigt es allen Mitarbeiter*Innen, das angemessenste Arbeitspaket in Bezug auf individuelle Fähigkeiten und Arbeitstempo auszufiltern. Somit wird schneller aus Fehlern gelernt und damit ein nachhaltigeres Wissensmanagement aufgebaut (Treffenstädt, 2021)[^4].
 
-## 2.3 Einsatz von Künstlicher Intelligenz in [Projekten](Projekt.md)
+## 2.3 Einsatz von Künstlicher Intelligenz in Projekten
 
 Die KI hat das Potential das [Projektmanagement](Projektmanagement.md) an mehreren Stellen entscheidend zu entlasten. 
 So können Anpassungen und Optimierungen von Projektplänen aufgrund von Verzögerungen, Kapazitätsengpässen oder anderen Elementen des [Risikomanagements](Risikomanagement.md) vorgenommen werden. 
@@ -68,6 +68,13 @@ Ihre Absicht ist es, verschiedene Arten von Daten zu analysieren und auszuwerten
 ![Beispielabbildung](KI_im_PM/KI_im_PM.png) <br>
 
 *KI im Projektmangement* [^6]
+
+# 3. Fazit
+
+Abschließend kann festgestellt werden, das KI in vielen Bereichen des [Projektmanagements](Projektmanagement.md) sinnvoll eingesetzt werden kann. Dabei besteht die Chance, die Prozesse besser zu gestalten. 
+Beispiele für AI im [PM](Projektmanagement.md) sind die Chatbots für Terminplanungen und die Findung von Projektideen durch kognitive Systeme. Das Erstellen von geeigneten Projektanträgen kann ebenfalls durch KI vereinfacht werden. 
+Als Ergebnis kann dadurch ein selbsterlernendes [PM](Projektmanagement.md) entstehen, das die Standardaktivitäten zunehmend eigenständiger durchführt sowie Wissen und Daten gezielt speichert. 
+Die Rolle des Menschen hingegen wird sich mehr und mehr auf die strategischen und kreativen Aufgaben fokusieren. In diesem Kontext wird also nicht die Technologie im Vordergund stehen, sondern der Mensch und die Geschäftsprozesse (Laroque, Schumann, Tittmann, 2019)[^7]. 
 
 # Abkürzungsverzeichnis
 KI = Künstliche Intelligenz <br>
@@ -91,4 +98,4 @@ PM = Projektmanagement
 [^4]: https://www.assure.de/de/blog/projektmanagement-ki-chance-oder-risiko 
 [^5]: https://www.tiba.de/wie-kuenstliche-intelligenz-ki-das-projektmanagement-beeinflusst/ 
 [^6]: https://www.invensity.com/consulting/project-management/ki-im-projektmanagement/ 
-
+[^7]: https://www.gpm-ipma.de/fileadmin/user_upload/Know-How/pmaktuell/2019_03/projektManagement_aktuell-PMA_3_2019_S39.pdf
