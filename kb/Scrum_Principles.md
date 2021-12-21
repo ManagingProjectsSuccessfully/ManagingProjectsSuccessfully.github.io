@@ -25,9 +25,7 @@ Selbstorganisationsprinzip ermöglicht eine stärkere Zustimmung aller Beteiligt
 
 **3. Zusammenarbeit:**
 
-Die tägliche offene Kommunikation zwischen dem Product Owner, dem Scrum Master und dem Scrum-Team ist ein sehr wichtiger Aspekt der Scrum-Agile-Implementierung. Scrum ist ein 
-kollaborativer Prozess, wie die vielen beteiligten Rollen zeigen. Dieses Prinzip konzentriert sich auch auf drei Dimensionen der Zusammenarbeit: Bewusstsein, 
-Artikulation und Aneignung.[^2]
+Die tägliche offene Kommunikation zwischen den verschiedenen [Scrum Rollen](Rollen_Scrum.md), insbesondere dem Product Owner, dem Scrum Master und dem Scrum-Team ist ein sehr wichtiger Aspekt der Scrum-Agile-Implementierung. Scrum ist ein kollaborativer Prozess, wie die vielen beteiligten Rollen zeigen. Dieses Prinzip konzentriert sich auch auf drei Dimensionen der Zusammenarbeit: Bewusstsein, Artikulation und Aneignung.[^2]
 
 **4. Wertorientierte Priorisierung:**
 
@@ -36,7 +34,7 @@ ein sich ständig weiterentwickelnder Prozess, der zu Beginn des Projekts beginn
 
 **5. Time-boxing:**
 
-In Scrum werden Aufgaben in „Sprints“ erledigt, wobei jedem eine bestimmte Zeitdauer zugewiesen wird. Auch andere Elemente wie [„Sprint_Planning“](Sprint_Planning.md) und 
+In Scrum werden Aufgaben in „Sprints“ erledigt, wobei jedem eine bestimmte Zeitdauer zugewiesen wird. Auch andere Elemente wie [„Sprint Planning“](Sprint_Planning.md) und 
 tägliche Meetings erhalten konkrete Start- und Stoppzeiten. Darunter gibt es folgende: 
 * Sprints: (arbeits-bezogene release cycles 2-4 Wochen)
 * Sprint planning meetings: (1-2 Stunden, um die Aufgaben festzulegen) 
@@ -50,17 +48,18 @@ Dieses letzte Prinzip spricht für das Verständnis, dass ein Projekt während d
 ermöglicht es dem Team, Anpassungen vorzunehmen und Änderungen einfacher zu verwalten.[^2]
 
 
-![image](https://user-images.githubusercontent.com/92790509/142939309-a892d933-5d32-4353-aca9-3af4c005c311.png) Scrum Principles Cycle[^3]
+![image](https://user-images.githubusercontent.com/92790509/142939309-a892d933-5d32-4353-aca9-3af4c005c311.png) 
+Scrum Principles Cycle[^3]
 
 Die oben genannten sechs Prinzipien sind die Richtlinien für die Verwendung von Scrum, damit das Projekt das beste Ergebnis erzielt. 
 Die Befolgung dieser Prinzipien kann helfen, ein Umfeld zu schaffen, in dem sich jeder beteiligt fühlt und Verantwortung übernimmt, um ein qualitativ hochwertiges Produkt 
-rechtzeitig zu liefern. Die Scrum Principles fördern folglich die Teamarbeit, um auch bei komplexen Projekten effektiv zusammenzuarbeiten.[^2][^4]
+rechtzeitig zu liefern. Die Scrum Principles fördern folglich die Teamarbeit, um auch bei komplexen Projekten effektiv zusammenzuarbeiten. Es bietet auch die ideale Grundlage, um Transparenz auch in komplexeren Umgebungen wie [Scrum at Scale](Scrum_at_Scale.md) zu gewährleisten.[^2][^4] 
 
 # Siehe auch
 
-* [Scrum_Values](Scrum_Values.md)
-* [Scrum_Guide](Scrum_Guide.md)
-* [Scrum_Rules](Scrum_Rules.md)
+* [Scrum Values](Scrum_Values.md)
+* [Scrum Guide](Scrum_Guide.md)
+* [Scrum Rules](Scrum_Rules.md)
 
 # Weiterführende Literatur
 
