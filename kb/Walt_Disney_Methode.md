@@ -39,7 +39,7 @@ Nachdem die Träumer ihre Ideen ausgearbeitet haben, sind nun die **Realisten** 
 - Welche Grundlagen sind schon vorhanden?[^6]
 
 ## 3. Der Kritiker
-Zuletzt erhält die Position des **Kritikers** ihren Raum[^6]. Er ehält die ausgearbeite Idee des Realisten. Die Aufgabe des Kritikers ist dabei nicht die Idee zu verwerfen, sondern die Schachpunkte der Idee zu erkennen und diese zu verbessern[^7]. Er kann sich dabei folgende Fragen stellen:
+Zuletzt erhält die Position des **Kritikers** ihren Raum[^6]. Er ehält die ausgearbeite Idee des Realisten. Die Aufgabe des Kritikers ist dabei nicht die Idee zu verwerfen, sondern die Schwachpunkte der Idee zu erkennen und diese zu verbessern[^7]. Er kann sich dabei folgende Fragen stellen:
 - Kann das realisiert werden?
 - Was kann gar nicht funktionieren?
 - Was könnte verbessert werden? Welches sind Chancen und Risiken?
