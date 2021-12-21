@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 Die Planungssicherheit beschreibt das voraussichtliche Analysieren und frühzeitige Erkennen von möglichen Problemen, die während eines Projekts auftreten. 
-Um so bestmöglich und selbst bei unberechenbaren Umständen handeln zu können.[^1]
+Um bestmöglich und selbst bei unberechenbaren Umständen handeln zu können.[^1]
 Dabei kann die Planungssicherheit in vielen Bereichen im Projekt genutzt werden, wie beispielsweise der Zeiterfassung, Kosten oder der Produktion.
 
 Das Planen hat eine wichtige Funktion in unserem Leben, es verschafft vermeintliche Sicherheit.
