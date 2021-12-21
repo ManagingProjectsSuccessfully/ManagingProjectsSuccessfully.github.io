@@ -84,7 +84,7 @@ Erfahrungen besprochen werden und Erkenntnisse für zukünftige Projekte generie
 
 
   Somit stellt der Projektabschlussbericht sicherlich einen großen Aufwand an Dokumentation dar. Dennoch können daraus viele brauchbare
-Erkenntnisse in Form von [*lessons learned*](Lessons.Learned) gezogen werden, welche man auf das nächste Projekt projizieren kann und damit Vorgehensweisen optimiert. 
+Erkenntnisse in Form von [*lessons learned*](Lessons_Learned.md) gezogen werden, welche man auf das nächste Projekt projizieren kann und damit Vorgehensweisen optimiert. 
 
 
 
