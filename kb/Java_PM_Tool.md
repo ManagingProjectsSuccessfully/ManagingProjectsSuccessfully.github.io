@@ -7,7 +7,6 @@ anrechnung: a
 
 Im Folgenden wird beschrieben, wie man Java tools benutzt, um Projekte agile zu managen.
 # Java Projektmanagement Tools
-![Beispielabbildung](Java_PM_Tool/Java-Logo.gif)
 
 **Java** ist eine objektorientierte Programmiersprache und eine eingetragene Marke des Unternehmens
 Sun Microsystems, welches 2010 von
@@ -26,6 +25,8 @@ Durch [Open source](Open_Source_Projekte.md) Java [Projekte](Projekt.md) (Tools)
 
 **Xplanner**  ist ein webbasiertes Projektplanungs- und -verfolgungstool für eXtreme Programming (XP)-Teams. XPlanner ist mit Java, JSP und Struts, Hibernate und MySQL implementiert.
 
+![Xplannerabbildung](Java_PM_Tool/Xplanner.jpg)
+
 Das XP-Planungsprozess[^3] kann man in 3 Schritte zusammenfassen:
 
 1.	Die Kunden wählen die hinzufügenden Funktionen (User Stories) für jede Entwicklungsiteration aus (in der Regel eine bis drei Wochen).
@@ -40,20 +41,23 @@ Projekte wie **XPlannerPlus** setzen dort an, wo das alte XPlanner-Projekt aufge
 
 **Activity Manager** ist ein Werkzeug für die Projektverwaltung. Es hilft einem [Projektleiter](Projektleiter.md), die Aktivitäten seiner Mitarbeiter zu verwalten und zu überprüfen. Einfach zu bedienen, leichtgewichtig, aber sehr effizient und anpassbar.
 
+![ActivityManagerabbildung](Java_PM_Tool/ActivityManager.png)
+
 Die Merkmale des Tools sind:
 
 * Repository-Verwaltung für Zeiträume
 * Repository-Verwaltung für Projektbeteiligte (Collaborators)
 * Repository-Verwaltung für Aufgaben (Tasks)
-* Beiträge verwalten (Aktivitätsmanagement)
+* Beiträge verwalten (Contributions)
 * Erweiterbare Berichtsfunktion (mit eingebauten Vorlagen)
 * XML-Datenbank Export/Import
 * EXCEL-Export
 
 Activity Manager ermöglicht den Aufbau und die Pflege eines hierarchischen Aufgabenbaums. Mit hilfe eines sehr einfaches Datenbankmodells,ist es möglich, schnell benutzerdefinierte Berichte über die Berichtsfunktion oder über einfache SQL-Anfragen zu erstellen.[^4]
 ## Auswertung & Prognosen
-
 **GanttProject** ist ein kostenloses und einfach zu bedienendes, auf Gantt-Diagrammen basierendes Werkzeug zur Projektplanung und -auswertung.
+
+![GanttProjectabbildung](Java_PM_Tool/GanttProject.jpg)
 
 Es kommt mit:
 
