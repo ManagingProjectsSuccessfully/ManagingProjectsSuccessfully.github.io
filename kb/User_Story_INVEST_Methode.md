@@ -70,6 +70,11 @@ Die Testbarkeit einer User Story ist das letzte Kriterium.
 Es ist besonders wichtig, da durch die Testbarkeit geprüft werden kann, ob eine Story erfolgreich umgesetzt wurde. 
 Diese Eigenschaft ist deshalb zwingend zu gewährleisten. [^5]
 
+
+# Siehe auch
+
+# Weiterführende Links
+
 # Quellen
 [^1]: [Product Backlog](https://scrumguide.de/product-backlog/)
 [^2]: [Meine Lieblingsstruktur für User Stories](https://www.agile-academy.com/de/product-owner/meine-lieblingsstruktur-fuer-user-stories/)
