@@ -54,6 +54,7 @@ Die Ausrichtung aller Handlungsaspekte auf das Endprodukt und die genaue Vorausp
 * [magisches Dreieck](Magisches_Dreieck.md)
 * [Projekt](Projekt.md)
 * [Wasserfallmodell](Wasserfall_Modell.md) 
+* [Planungssicherheit](Planungssicherheit.md)
 
 # Weiterführende Literatur
 
