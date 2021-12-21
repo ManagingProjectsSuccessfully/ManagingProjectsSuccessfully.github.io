@@ -16,8 +16,8 @@ Die Risikomatrix ist eine zweidimensionale Darstellung, welche der systematische
   - [Nutzen im Projekmanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Nutzen%20im%20Projektmanagement)
 * [Kritik](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=das%20Risikomanagement%20verwendet5.-,Kritik,-Zun%C3%A4chst%20ist%20die)
 * [Siehe auch](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#siehe-auch)
-* [Weiterführende Literatur](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/Risikomatrix.md#:~:text=Risikobewertung_von_Umweltrisiken-,Weiterf%C3%BChrende%20Literatur,-Risikomatrix%20Erkl%C3%A4rvideo)
-* [Quellen](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/Risikomatrix.md#:~:text=Risiken%20mit%20Praxisbeispielen%22-,Quellen,-Footnotes)
+* [Weiterführende Literatur](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#weiterführende-literatur)
+* [Quellen](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#quellen)
 
 # Aufbau und Berechnung
 Bei der tabellarischen Darstellung der Risikomatrix wird an der y-Achse die Eintrittswahrscheinlichkeit[^11] und an der x-Achse die Schadenshöhe angegeben[^4]. Da es aber keine einheitliche Darstellungsform gibt, kann die Matrix auch eine umgekehrte Beschriftung der Achsen haben.[^5]
