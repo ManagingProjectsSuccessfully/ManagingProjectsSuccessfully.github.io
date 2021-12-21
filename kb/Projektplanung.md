@@ -1,9 +1,9 @@
 ---
 title: Projektplanung
-tags: klassisch Projektplanung
+tags: klassisch Projektplanung Projektmanagement Projektphasen Wasserfallmodell Spiralmodell
 author: MarleneMMeyer
 anrechnung: k
----
+--- 
 
 „Die Projektplanung ist eine der wichtigsten Aufgaben in dem weiten Feld des [Projektmanagements](Projektmanagement.md)"[^1], von der das Erreichen des angestrebten Ergebnisses abhängt. Sie stellt die zweite von vier [Phasen](Projektphasen_klassisch.md) eines Projekts dar, die für das Gelingen der Projektdurchführung verantwortlich ist und auf die die Projektdefinition folgt.[^2] „Unter Projektplanung versteht man die systematische Informationsgewinnung über den künftigen Ablauf des Projekts und die gedankliche Vorwegnahme des notwendigen Handelns im Projekt.“[^3]
 
