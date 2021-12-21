@@ -52,8 +52,8 @@ Unter anderem sind die qualitativen und quantitativen Aussagen begrenzt, denn vi
 
 # Weiterführende Literatur
 * Video: [Risikomatrix](https://www.youtube.com/watch?v=j_c2qN-waCk)
-* Buch: Risikomanagement von Sascha Saßen, "Fehler vermeiden, melden, analysieren und bewältigen"
-* Buch: Risikoanalyse von Claudia Cottin und Sebastian Döhler: "Modellierung, Beurteilung und Management von Risiken mit Praxisbeispielen"
+* Buch: Sascha Saßen, "Risikomanagement: Fehler vermeiden, melden, analysieren und bewältigen" 1. Auflage, veröffentlicht 01.02.2019
+* Buch: Claudia Cottin & Sebastian Döhler, "Risikoanalyse: Modellierung, Beurteilung und Management von Risiken mit Praxisbeispielen" 2. Auflage, veröffentlicht 06.12.2012
 
 # Quellen
 [^1]: [Was ist eine Risikomatrix?](https://t2informatik.de/wissen-kompakt/risikomatrix/) Autor: Unbekannt, Aufgerufen 04.11.2021 12:00 Uhr
