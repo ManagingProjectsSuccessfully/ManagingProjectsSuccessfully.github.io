@@ -19,9 +19,9 @@ Ken Schwaber, der Gründer von Scrum.org, nahm bereits in den Anfangstagen groß
 
 Scrum.org bietet eine breite Bandbreite an Zertifikaten im Scrum Kontext. Dazu zählen die wichtigsten [Scrum Rollen](Rollen_Scrum.md), aber auch weiter für agiles Projektmanagement relevante Angebote[^4]:
 
-* Professional Scrum Master
-*	Professional Scrum Product Owner
-*	Professional Scrum Developer
+* [Professional Scrum Master](Scrum_Master.md)
+*	[Professional Scrum Product Owner](Product_Owner.md)
+*	[Professional Scrum Developer](Development_Team.md)
 *	Scaled Professional Scrum
 *	Professional Agile Leadership
 *	Professional Agile Leadership EBM
