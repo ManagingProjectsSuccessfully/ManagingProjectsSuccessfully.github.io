@@ -4,7 +4,8 @@ tags: klassisch
 author: loritschka
 anrechnung: k
 ---
-#Risikobewertung von Umweltrisiken
+# Risikobewertung von Umweltrisiken
+
 Die rechtzeitige Identifizierung und Bewertung von potenziellen Bedrohungen und Gefahren ist für Unternehmen von wesentlicher Bedeutung, um Folgeschäden zu minimieren, oder idealerweise vollständig zu vermeiden. 
 
 Es gibt verschiedene Risikoarten: [^1]
