@@ -2,103 +2,72 @@
 title: Agiles_Manifest
 tags: agil klassisch
 author: LaHe27
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Agiles_Manifest um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Agiles Manifest 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das „Manifesto for Agile Software Development“ oder auch kurz unter dem Namen „Agiles Manifest“ (engl.: Agile Manifesto) bekannt, wurde im Februar 2001 von 17 projekterfahrenen Software-Entwicklern verabschiedet[^2]. 
+Sie kamen in einer Lodge im Snowbird-Skigebiet für drei Tage zusammen, um zu reden, Ski zu fahren und eine gemeinsame Basis zu finden[^1]
+ 
+Es besteht aus 4 Leitsätzen und 12 Prinzipien.
+Das agile Manifest ist ein Meilenstein und bietet zu gleich die Grundlage für agiles Projektmanagement[^2].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Unter den Erstunterzeichnern befinden sich auch die beiden Scrum-Gründern Ken Schwaber und Jeff Sutherland, sowie die Vertreter von DSDM, Adaptive Software Development, Crystal und viele weitere. Alle hatten ein gemeinsames Ziel, eine Alternative zu dokumentgetriebenen, schwergewichtigen Softwareentwicklungsprozessen zu finden. Dabei entstand das Agile Manifest, mit Hilfe dessen man endlich den bis dahin unscharfen Begriff der „leichtgewichtigen Software-Entwicklung“ ersetzen konnte[^1].
 
 
-# Aspekt 1
+Im Folgenden soll nun auf die vier Leitsätze, sowie die 12 Prinzipien des agilen Manifests eingegangen werden, sowie dessen aktuelle Bedeutung. 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Vier Leitsätze
 
-![Beispielabbildung](Agiles_Manifest/test-file.jpg)
+* Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge
+* Funktionierende Software ist wichtiger als umfassende Dokumentation
+* Zusammenarbeit mit dem Kunden ist wichtiger als Vertragsverhandlung
+* Reagieren auf Veränderung ist wichtiger als das Befolgen eines Plans[^3]
 
-*lustiges Testbild*
+In der folgenden Grafik sind die vier oben genannten Leitsätze nochmal graphisch dargestellt und zusammengefasst:
 
-# Aspekt 2
+![Beispielabbildung](Agiles_Manifest/AM_Prinzipien.jpeg)
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Wichtig hier anzumerken, dass für 17 Unterzeichner die Werte auf der rechten Seite durchaus als wichtig eingeschätzt wurden, jedoch schätzen sie die Werte auf der linken Seite von noch größerer Bedeutung ein[^2].
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+# Zwölf Prinzipien 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+1. Unsere höchste Priorität ist es, den Kunden durch frühe und kontinuierliche Auslieferung wertvoller Software zufrieden zu stellen
+2. Heiße Anforderungsänderungen selbst spät in der Entwicklung willkommen. Agile Prozesse nutzen Veränderungen zum Wettbewerbsvorteil des Kunden
+3. Liefere funktionierende Software regelmäßig innerhalb weniger Wochen oder Monate und bevorzuge dabei die kürzere Zeitspanne
+4. FachexpertInnen und EntwicklerInnen müssen während des Projekts täglich zusammenarbeiten
+5. Errichte Projekte rund um motivierte Individuen. Gib ihnen das Umfeld und die Unterstützung, die sie benötigen und vertraue darauf, dass sie die Aufgabe erledigen
+6. Die effizienteste und effektivste Methode, Informationen an und innerhalb eines Entwicklungsteams zu übermitteln, ist im Gespräch von Angesicht zu Angesicht.
+7. Funktionierende Software ist das wichtigste Fortschrittsmaß
+8. Agile Prozesse fördern nachhaltige Entwicklung. Die AuftraggeberInnen, EntwicklerInnen und BenutzerInnen sollten ein gleichmäßiges Tempo auf unbegrenzte Zeit erhalten können
+9. Ständiges Augenmerk auf technische Exzellenz und gutes Design fördert Agilität
+10. Einfachheit – die Kunst, die Menge nicht getaner Arbeit zu maximieren – ist essenziell
+11. Die besten Architekturen, Anforderungen und Entwürfe erstehen durch selbstorganisierte Teams
+12. In regelmäßigen Abständen reflektiert das Team, wie es effektiver werden kann und passt sein Verhalten entsprechend an[^4] 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# Heutige Bedeutung
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Wie schon am Anfang erwähnt, bildet das Agile Manifest bis heute die Grundlage für das Agile Projektmanagement. Im Laufe der Jahre sind viele weitere Befürworter hinzugekommen. 
+Bis heute wird das agile Projektmanagement gerne neben den klassischen Methoden genutzt und findet sich vielen verschieden Methoden mit unterschiedlichen Ausprägungen wieder[^2].
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Agiles_Manifest.md)
+* [SCRUM](SCRUM.md)
+* [Projektmanagement](Projektmanagement.md)
+
 
 # Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+[Software Engineering Tutorial Deutsch #6 - Das Agile Manifest](https://www.youtube.com/watch?v=aN-6Ha66Q9U)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Agile Manifesto - Gesichte](https://agilemanifesto.org/history.html)
+[^2]: [Agiles Projektmanagement - Agile Manifesto](http://agiles-projektmanagement.org/agile-manifesto/)
+[^3]: [Agile Manifesto - Leitsätze](https://agilemanifesto.org/iso/de/manifesto.html)
+[^4]: [Agile Manifesto - Prinzipien](https://agilemanifesto.org/iso/de/principles.html)
 
