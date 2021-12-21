@@ -24,12 +24,12 @@ Im Anforderungsmanagement wurde folgende Anforderungen als besonders wichtig era
 
 # Was wird dafür benötigt?
 
-Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovoltaik, Biomasse und Geothermie.[^3] Auch eine Erweiterung der Infrastruktur in Form von Energienetzen, als auch ein Ausbau der digitalen Infrastruktur wird benötigt. Damit ein Transport der Energie über das gesammte Bundesgebiet gelingen kann. Zusätzlich sind Investitionen im F&E Bereich zu tätigen, sodass die zugrundeliegenden Technologien,wie Energiespeicherung, verbessert werden können und konkurrenzfähiger sind.
+Ein Ausbau erneuerbarer Energien: Windkraft (On- und Offshore), Wasserkraft, Photovoltaik, Biomasse und Geothermie.[^3] Auch eine Erweiterung der Infrastruktur in Form von Energienetzen, als auch ein Ausbau der digitalen Infrastruktur wird benötigt. Damit ein Transport der Energie über das gesamte Bundesgebiet gelingen kann. Zusätzlich sind Investitionen im F&E Bereich zu tätigen, sodass die zugrundeliegenden Technologien wie Energiespeicherung verbessert werden können und konkurrenzfähiger sind.
 
 # Risiken 
 Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) befassen sich Projektleiter mit folgenden Problemen:
 * Hohe Kosten – Aufbau von Anlagen, Netzen und Infrastruktur notwendig
-* Große Stromtrassen oft nicht erwünscht von Anwohnern. Gefahr von Demonstrationen und ähnlichem
+* Große Stromtrassen oft nicht erwünscht von Anwohnern. Gefahr von Demonstrationen und Ähnlichem
 * Verfügbarkeit bestimmter Energieträger abhängig von Tages-/Jahreszeit
 * Technologische Herausforderungen 
 * Ständige Gesetzesänderungen 
@@ -42,10 +42,10 @@ Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingPr
 
 # Finanzierung 
 Höchste Priorität liegt auf langfristiger Absicherung der Geldmittel. Dabei besteht die Möglichkeit zum Abrufen von vielen verschiedenen staatlichen Fördermitteln und Subventionen.
-Viele Konzepte bauen auf eine Unterstützung durch die Euorpäische Investitionsbank, welche dabei jedoch kein Risiko trägt und durch Finanzintermediäre bzw. Mittler, in Form von Geschäftsbanken, eingebunden wird. [^5]
+Häufig bauen Konzepte auf eine Unterstützung durch die Euorpäische Investitionsbank, welche dabei jedoch kein Risiko trägt und durch Finanzintermediäre bzw. Mittler, in Form von Geschäftsbanken, eingebunden wird. [^5]
 
 # Derzeitiger Stand
-Der Anteil der Erneuerbaren Energien am deutschen Stromverbrauch lag 2020 bereits bei 45 Prozent. [^2]
+Der Anteil der erneuerbaren Energien am deutschen Stromverbrauch lag 2020 bereits bei 45 Prozent. [^2]
 Der Anteil der erneuerbaren Energien am gesamten Energieverbrauch – also Strom, Wärme und Verkehr – beträgt mittlerweile fast 20 Prozent. [^2]
 Ein negativer Aspekt ist jedoch der schleppende Netzausbau. [^2]
 
