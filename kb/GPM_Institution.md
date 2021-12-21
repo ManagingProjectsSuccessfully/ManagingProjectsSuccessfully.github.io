@@ -11,53 +11,48 @@ Die Deutsche Gesellschaft für Projektmanagement (GPM) ist ein führender Fachve
 
 # Geschichte
 
-In der 1979 von Roland Gutsch gegründeten Gesellschaft, mit Sitz in Nürnberg, sind nach eigenen Angaben Mitglieder aus der Wirtschaft, den Hochschulen und der öffentlichen Hand vertreten. Den Gebrauch von Projektmanagement zu unterstützen, zu verbessern und standardisieren, ist das zentrale Ziel der GPM. Der Verein ist Anbieter von Lehrgängen, Seminaren, Workshops und Tagungen und bietet Weiterbildungsangebote für unterschiedliche Level der Projektmanagement-Kompetenz an. Schulungsgrundlage ist der von der IPMA vorgelegte Projektmanagement-Standard IPMA Individual Competence Baseline. Die aktuell gültige Version ICB 4.0 wurde 2015 von der IPMA veröffentlicht und wird seit Februar 2018 von der GPM in Deutschland genutzt [^2].
+In der 1979 von Roland Gutsch gegründeten Gesellschaft, mit Sitz in Nürnberg, sind nach eigenen Angaben Mitglieder aus der Wirtschaft, den Hochschulen und der öffentlichen Hand vertreten. Den Gebrauch von Projektmanagement zu unterstützen, zu verbessern und standardisieren, ist das zentrale Ziel der GPM. Der Verein ist Anbieter von Lehrgängen, Seminaren, Workshops und Tagungen und bietet Weiterbildungsangebote für unterschiedliche Level der Projektmanagement-Kompetenz an. Seit Februar 2018 wird die aktuell gültige Version ICB 4.0 von der GPM in Deutschland genutzt und wurde 2015 von der IPMA öffentlich gemacht [^2].
 
 
 
 # Auszeichnungen
 
-* Deutscher Project Excellence Award
+Folgenende Auszeichnungen verleiht die GPM:
 
-Der Deutsche Project Excellence Award wird seit 1997 von der GPM an Unternehmen und Projektteams verliehen, die eine hervorragende Leistung im Projektmanagement erwiesen haben [^3]. 
+* Deutscher Project Excellence Award
 
 * Roland Gutsch Project Management Award
 
-2007 wurde der Roland Gutsch Project Management Award gegründet, um die Menschen hinter der Organisation von Projekten, wie des Wiederaufbaus der Frauenkirche in Dresden oder der FIFA-Fußballweltmeisterschaft 2006, zu ehren [^4].
-
 * Deutscher Studienpreis Projektmanagement
 
-Seit 1997 zeichnet die GPM die drei besten wissenschaftlichen Abschlussarbeiten in den Rubriken Bachelorarbeit, Masterarbeit und Dissertation aus, in denen einzigartige Lösungen oder innovative Ideen ausgearbeitet werden.
-Die Preisträgerinnen und Preisträger erhalten eine Prämie im Ausmaß von 1000 Euro, eine Urkunde und eine kostenlose Mitgliedschaft in der GPM. Des Weiteren haben die Sieger des Awards die Option, die wissenschaftliche Arbeit und sich selbst in der „Projektmanagement Aktuell“, dem führenden Fachmagazin für Projektmanagement, vorzustellen [^5].
+* GPM Young Project Manager Award [^3]
 
-* GPM Young Project Manager Award
+# Projekte der GPM
 
-Der Award zeichnet begabte Nachwuchs-Projektmanagerinnen und Projektmanager aus, die trotz ihres jungen Alters bereits beweisen können, dass sie vielfältige [Projekte](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) durchführen und wirksam zum Erfolg bringen können. Dabei dürfen, die Teilnehmer bei Einreichung ihre Leistung das 35. Lebensjahr noch nicht vollendet haben. Eine Darstellung des produktiven Umgangs mit internen und externen Stakeholdern dürfen nicht außer Acht gelassen werden [^6].
+## Projektmanagement-Studien
 
+Unterschiedliche Dimensionen des Projektmanagements geben der GPM die Möglichkeit verschiedene Studien zu vollziehen. Die Durchführung der Studien erfolgt entweder durch die GPM selbst, Hochschulen oder Forschungseinrichtungen.
+Ergebnisse der Studien berichten über [aktuelle Entwicklungen und zukünftige Trends im Projektmanagement](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md)[^4].
 
+### Beispiel einer GPM-Studie aus dem Jahre 2007
 
-# Projektmanagement-Studien
-
-Unterschiedliche Dimensionen des Projektmanagements geben der GPM die Möglichkeit verschiedene Studien zu vollziehen. Die Durchführung der Studien erfolgt entweder durch die GPM selbst, Hochschulen oder Forschungseinrichtungen, realisiert.
-Ergebnisse der Studien berichten über [aktuelle Entwicklungen und zukünftige Trends im Projektmanagement](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md)[^7].
-
-## Beispiel einer GPM-Studie aus dem Jahre 2007
-
+Immer wieder werden Studien über das Projektmanagement erstellt, um sich mit den Erfolgs- und Misserfolgsfaktoren der Projektarbeit auseinanderzusetzen. Die GPM hat unter anderem eine Studie erstellt, die sich mit Projektfehlschlägen befasst hat. Der Projekterfolg wird vor allem durch die Projektziele und Projektplanung, die Projektleitung, das Projektteam und die interne Zusammenarbeit sowie die Zusammenarbeit mit externen Akteuren beeinflusst. Ein sehr großes Problem für den Projekterfolg stellt dabei eine schlechte Kommunikation bei den Projektmitarbeitern dar. Dass die technischen Anforderungen zu hoch wären oder eine Projektmanagement-Methodik fehle, stelle eher eine geringe Problematik dar[^5].
 ![Beispielabbildung](https://blog.ibo.de/wp-content/uploads/2013/07/UrsachenProjektfehlschlaege-1024x560.png)
-*Fallen im Projektmanagement*
+*Herausforderungen im Projektmanagement*[^5]
 
-# Das GPM Flüchtlingsprojekt 
+## Das GPM Flüchtlingsprojekt 
 
 Im Zeitraum von November 2015 bis November 2017 hat die GPM ein Flüchtlingsprojekt umgesetzt. Anhand von Projektmanagement haben sich bewährte Projektmanager an der Flüchtlingshilfe- und Integration beteiligt.  
 Herausfordernde Gegebenheiten können durch Projektmanagement, das strategisches und operatives Handeln fördert, einfacher gehandhabt werden.
-Für alle Beteiligten kann so das ideale Ergebnis mittels [Methoden](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) und unterschiedlichster Instrumente erzielt werden[^8].
+Für alle Beteiligten kann so das ideale Ergebnis mittels [Methoden](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) und unterschiedlichster Instrumente erzielt werden[^6].
+Die GPM setzt konkrete Projekte der Integration von Flüchtlingen auf und initiiert diese. Ein Kick-off Workshop wurde explizit für die Stadt Nürnberg von der GPM erstellt, um Bildungspatenschaften für Flüchtlingskinder und andere benachteiligte Kinder und Jugendliche aufzustellen. Derzeit gibt es ein Pilotprojekt seitens der GPM, um Migranten im Projektmanagement zu qualifizieren und zertifizieren[^7]. 
 
 
 
-# YOUNG CREW
+## YOUNG CREW
 
-1992 wurde die international aktive GPM Young Crew gegründet. Sie ist ein Netzwerk von jungen Projektmanagern bis zum Alter von 35 Jahren. Bei dieser Organisation werden, sowohl Schüler und Lehrer, die eine Interesse am Thema Projektmanagement haben, als auch Auszubildende und Studierende in vielen Fachrichtungen oder Young Professionals, die schon erste berufliche Erfahrungen gesammelt haben, berücksichtigt[^9]. 
-
+1992 wurde die international aktive GPM Young Crew gegründet. Sie ist ein Netzwerk von jungen Projektmanagern bis zum Alter von 35 Jahren. Bei dieser Organisation werden, sowohl Schüler und Lehrer, die eine Interesse am Thema Projektmanagement haben, als auch Auszubildende und Studierende in vielen Fachrichtungen oder Young Professionals, die schon erste berufliche Erfahrungen gesammelt haben, berücksichtigt[^8]. 
+Ein Projekt der Young Crew stellt die Global eCollaboration Competition, kurz GeCCo, dar. Bei diesem Wettbewerb werden IPMA Young Crews weltweit in einem virtuellen Fallstudienwettbewerb in Verbindung gebracht. Innerhalb dieser virtuellen Umgebung bekommen die Young Crews die Möglichkeit ihre multinationalen Kompetenzen und Erfahrungen mit Projektmanagement zu vertiefen. Während dieses Wettbewerbs helfen Keynotes bei der Inspiration[^9].
 
 
 # Siehe auch
@@ -68,16 +63,22 @@ Für alle Beteiligten kann so das ideale Ergebnis mittels [Methoden](https://git
 * [Methoden](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) 
 
 
+# Weiterführende Literatur
+
+* [GPM](https://www.gpm-ipma.de/startseite.html)
+* [GPM Deutsche Gesellschaft für Projektmanagement e.V. ](https://www.projektmagazin.de/projektmanagement-dienstleister/gpm-deutsche-gesellschaft-fuer-projektmanagement-ev)
+* [Deutsche Gesellschaft für Projektmanagement](https://de.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Projektmanagement)
+* [Young Crew](http://youngcrew.de/)
+
 
 # Quellen
 
-[^1]: https://www.projektmagazin.de/projektmanagement-dienstleister/gpm-deutsche-gesellschaft-fuer-projektmanagement-ev
-[^2]: https://de.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Projektmanagement
-[^3]: https://www.gpm-ipma.de/awards/deutscher_project_excellence_award.html
-[^4]: https://www.gpm-ipma.de/awards/roland_gutsch_project_management_award.html
-[^5]: https://www.gpm-ipma.de/awards/deutscher_studienpreis_pm.html
-[^6]: https://www.gpm-ipma.de/awards/gpm_young_project_manager_award.html
-[^7]: https://www.gpm-ipma.de/know_how/laufende_pm_studien.html
-[^8]: https://www.gpm-ipma.de/know_how/gpm_fluechtlingsprojekt.html
-[^9]: https://www.gpm-ipma.de/know_how/fachgruppen/special_interest_groups/young_crew.html
-
+[^1]: [GPM Deutsche Gesellschaft für Projektmanagement e.V.](https://www.projektmagazin.de/projektmanagement-dienstleister/gpm-deutsche-gesellschaft-fuer-projektmanagement-ev)
+[^2]: [Deutsche Gesellschaft für Projektmanagement](https://de.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Projektmanagement)
+[^3]: [GPM Awards](https://www.gpm-ipma.de/awards.html)
+[^4]: [GPM laufende Studien](https://www.gpm-ipma.de/know_how/laufende_pm_studien.html)
+[^5]: [Fallen im Projektmanagement](https://blog.ibo.de/fallen-im-projektmanagment/)
+[^6]: [GPM Flüchtlingsprojekt](https://www.gpm-ipma.de/know_how/gpm_fluechtlingsprojekt.html)
+[^7]: [GPM Integrationsprojekt](https://www.gpm-ipma.de/know_how/gpm_fluechtlingsprojekt/integrationsprojekte.html)
+[^8]: [Young Crew](https://www.gpm-ipma.de/know_how/fachgruppen/special_interest_groups/young_crew.html)
+[^9]: [Young Crew gecco Award](http://youngcrew.de/projects-awards/gecco/)
