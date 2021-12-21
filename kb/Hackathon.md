@@ -36,8 +36,9 @@ Der erfolgsversprechende Kern wird aber noch zusätzlich von weiteren Elementen 
 
 # Entstehung und aktuelle Entwicklungen - Wrap-Up
 
-Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. [^5]
-Seitdem haben sich die Events in ihrer Art und Weise, ihrem Ausmaß sowie ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen sehr stark weiterentwickelt. Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Zudem haben Unternehmen in der Vergangenheit festgestellt, dass ein solches Format intern organisiert die Initialzündung für neue Ideen, Geschäftsmodelle und Produkte sein kann. [^8]
+Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufgekommen. Seitdem haben sich die Events in ihrer Art und Weise, ihrem Ausmaß sowie ihrer Attraktivität auf die Teilnehmer und die interessierten Unternehmen enorm weiterentwickelt. [^5] 
+
+Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Zudem haben Unternehmen in der Vergangenheit festgestellt, dass ein solches Format intern organisiert die Initialzündung für neue Ideen, Geschäftsmodelle und Produkte sein kann. [^8]
 
 Die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen Coronas nicht verschont geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause aus hacken konnten. Selbst zur Corona-Krise an sich gab es in Deutschland, als auch weltweit mehrere Hackathons. [^11] [^10]
 
