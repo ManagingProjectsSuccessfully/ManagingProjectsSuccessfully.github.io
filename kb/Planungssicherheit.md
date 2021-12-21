@@ -29,7 +29,7 @@ Um dies zu vermeiden, sollten während des Projekts die Zeitaufwände erfasst we
 Zeiterfassung erklärt die Dokumentation von allen projektbezogenen Aufwendungen, um so eine genaue Zuordnung von Zeiten und Aktivitäten herzustellen. 
 So lässt sich die Planungssicherheit steigern.[^4]
 Diese wird hauptsächlich in den Bereichen Datenqualität und Projektcontrolling erworben, 
-somit kann der Bereich „Aufwand“ wahrheitsgemäß dargestellt werden, welcher die Grundlage für die Planungssicherheit bildet.
+somit kann der Bereich „Aufwand“[^4] wahrheitsgemäß dargestellt werden, welcher die Grundlage für die Planungssicherheit bildet.
 Hieraus resultiert eine Sicherheit, die auch bei einem laufenden Projekt kontrolliert werden kann und somit langfristig gesehen 
 dem Unternehmen Wettbewerbsvorteile verschafft. [^4]
 
