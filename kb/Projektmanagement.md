@@ -37,7 +37,7 @@ Bei der Risikoanalyse werden die Rahmenbedingungen definiert und konkrete Lösun
 Zentral ist hierbei die Erstellung von Prototypen, welche von Iteration zu Iteration verfeinert werden und am Projektende das Ergebnis darstellen.[^4]
 
 # Agiles Projektmanagement
-Basierend auf dem agilen Manifest aus dem Jahr 2001, besteht das agile Projektmanagement aus vier Leitsätzen:
+Basierend auf dem [Agilen Manifest](Agiles_Manifest.md) aus dem Jahr 2001, besteht das agile Projektmanagement aus vier Leitsätzen:
 
 * Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge
 * Funktionen und Software sind wichtiger als umfassende Dokumentation
@@ -57,6 +57,7 @@ Konkrete Methoden stellen hierbei [Scrum](SCRUM.md), [Extreme Programming](Xtrem
 * [SCRUM](SCRUM.md)
 * [Projektmanagement 4.0](Projektmanagement_4_0.md)
 * [Extreme Programming](Xtreme_Programming.md)
+* [Agiles Manifest](Agiles_Manifest.md)
 
 # Weiterführende Literatur
 
