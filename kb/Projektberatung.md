@@ -1,104 +1,80 @@
 ---
 title: Projektberatung
-tags: agil klassisch
+tags: klassisch
 author: Christoph-Mantsch
-anrechnung: k oder a
+anrechnung:    k 
 ---
+Der Begriff [Projekt](Projekt.md) leitet sich aus dem lateinischen Wort "proiectum" ab und bedeutet übersetzt "nach vorn geworfen". Im Kontext von Projekten versteht man unter "nach vorn" eine zeitliche Bedeutung wie beispielsweise einen Terminplan [^1].
 
-Kurzbeschreibung zu Projektberatung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Unter einem Projekt versteht man ein einmaliges und zielorientiertes Vorhaben, welches im Rahmen von verschiedenen Kriterien und einem definierten Ziel erfüllt werden soll. Beispiele für Kriterien eines Projektes sind Zeit, Betriebsmittel, [Ressourcenplanung](Ressourcenplanung.md), Qualitätsansprüche oder Arbeits- und Produktionsbedingungen. 
+Besonders in Unternehmen spielen Projekte eine sehr zentrale Rolle, da sie die Vorraussetzung für die Wertschöpfung und somit sehr bedeutungsvoll für das langfristige und erfolgreiche Wirtschaften des Unternehmens sind. Aus diesem Grund sind Projekte ein essenzieller Baustein und daher allgegenwärtig und unverzichtbar für Unternehmen[^1].
+ 
+Jedoch können Projekte sehr schnell komplex und unübersichtlich werden, was dazu führt, dass sie an einem sehr breiten Spektrum an Problemen scheitern können. Die häufigsten Ursachen für das Scheitern eines solchen Projektes sind unzureichende [Projektkommunikation](Projektkommunikation.md) zwischen den Mitarbeitern und dem Auftraggeber oder auch mangelnde Auftragsklärung. Dadurch führen viele solcher Besprechungen zu keinem aussagekräftigen Ergebnis und sind daher oftmals nicht profitabel für das Unternehmen. In diesem Fall greifen Unternehmen gerne auf das Konzept der Projektberatung externer Firmen zurück [^2].
 
 
-# Aspekt 1
+# Die Funktion von Projektberatungen
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Im Zuge einer Projektberatung werden externe Projektberatungs-Unternehmen engagiert, deren erfahrene Experten an den Projekten eines Unternehmens teilnehmen. Diese unterstützen das Unternehmen mit vielseitigen Kompetenzen wie IT-Software, [Projektmanagement](Projektmanagement.md)-Strategien oder Krisencoaching und analysieren zusätzlich Probleme der Besprechungen, um dem Unternehmen diverse Lösungsansätze bereitzustellen [^4].
+Zusätzlich sind diese Dienstleistungsunternehmen nicht direkt am Projekt beteiligt, was ihnen eine sehr objektive Sicht auf die Problemlage des Klienten ermöglicht und ihm dadurch auch einen Aufschwung an Erfahrung und Strukturierung des Projektes bieten kann [^2].
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Durch diese fachliche Unterstützung und Zusammenarbeit von Experten hat das Unternehmen die Möglichkeit, effektiver und strukturierter an Projekten zu arbeiten, potenzielle Fehler zu vermeiden und ihre Aufträge zielgerichteter zu verrichten [^3].
 
-![Beispielabbildung](Projektberatung/test-file.jpg)
+Da jedes Projekt unterschiedlich und individuell ist, setzen Projektberatungsunternehmen hohen Wert auf Flexibilität und individuell an jedes Unternehmen angepasste Lösungen für ihre Probleme. Dadurch ist jeder Lösungsansatz des Beratungsunternehmen perfekt auf die Problemlage und Bedürfnisse der Kunden abgestimmt. Dies ermöglicht eine sehr hohe Qualität des Endproduktes und eine hervorragende Kundenzufriedenheit der Auftraggeber [^4].
 
-*lustiges Testbild*
 
-# Aspekt 2
+# Mögliche Ursachen für das Scheitern eines Projektes
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Ein Projekt orientiert sich stets an einem strategischen [Vorgehensmodell](Vorgehensmodelle.md), das von der Definition eines vom Kunden beschriebenen Projektziels abhängt. Alle Entscheidungen innerhalb eines Projektes leiten sich also von diesem Projektziel ab und sollen auf direktem Weg zur Erreichung und erfolgreichem Abschluss des Projektes führen. 
+Basierend darauf werden nötige Tätigkeiten und Prozesse in Gang gesetzt und der Umgang mit den verfügbaren Ressourcen definiert [^1].
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Nach Aussagen einer erfahrenen Expertin für [Projektkommunikation](Projektkommunikation.md) und Kollaboration scheitern mehr als 50% aller Projekte in Unternehmen. Diese überschritten zudem auch den Rahmen des Budgets, sprengten den geplanten Zeitrahmen oder erfüllten nicht den erwarteten Nutzen [^5]. 
 
-So kann man eine Tabelle erstellen:
+Mögliche Gründe für diese hohe Misserfolgsquote können sehr vielseitig sein oder auch kombiniert zum Scheitern eines Projekts führen [^1]:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+![Beispielabbildung](Projektberatung/Projektscheitern2.PNG)
+   
+   *häufigste Gründe für das Scheitern von Projekten*
 
-### Ebene-3-Überschrift
+# Die gängigsten Arten von Projektberatung
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe, die von sehr vielen Einflussfaktoren und Ereignissen im Markt beeinflusst werden. Beispiele hierfür sind die Marktgegebenheiten, Kunden, politische Einschränkungen oder auch die organisatorische Struktur der Firma. Aufgrund dieser multidimensionalen und individuellen Einflussgrößen haben sich verschiedene Projektberatungs-Varianten mit unterschiedlichen Charakteristika entwickelt, die sehr häufig als unterstützende Kraft in Projekten eingesetzt werden. Diese werden regelmäßig im Rahmen der individuellen Personalentwicklung im Unternehmen eingebunden[^6]:
 
-# Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+|  Projekt-Coaching  |  Projekt-Mentoring  | 
+|  ----------------  |  -----------------  |  
+|  Expertenberatung für eingesetzte Projektmanagementwerkzeuge | Beratungs- und Förderungsprozess einer neu im Unternehmen arbeitenden Person von unternehmenserfahrener Person   
+|  Klient verbessert Führungskraft und Rolle als Manager zwischen Projekt und Projekteinflüssen  |  unerfahrene Person wird in Unternehmensweisen eingearbeitet  |
+|  Coach hilft Klient, seine Kompetenzen effektiver und bestmöglich einzusetzen  |  Mentor stellt bewährtes Wissen zum [Wissenstransfer](Wissenstransfer.md) zur Verfügung und gibt Ratschläge      |        
+|  Coach wirkt außerhalb des Unternehmens an Projekten mit  | Mentor wirkt innerhalb des Unternehmens an Projekten mit |    
+
+*Vergleich von Projekt-Coaching und Projekt-Mentoring[^6]*
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektberatung.md)
+* [Projekt](Projekt.)
+* [Ressourcenplanung](Ressourcenplanung.md)
+* [Projektkommunikation](Projektkommunikation.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Vorgehensmodell](Vorgehensmodelle.md)
+* [Wissenstransfer](Wissenstransfer.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* https://www.youtube.com/watch?v=VAwsKe5XAVc
+* https://www.batten-company.com/?gclid=CjwKCAiA4veMBhAMEiwAU4XRr4HcfWWpBqhHlTP_sLleeP7K3fTWbf9udz9ADinc7GueVmUTPaBK5BoCGJ4QAvD_BwE
+* https://tarcus.com/projektmanagement/projektberatung/
+* https://axis.de/de/main-de/leistungen/projektberatung-und-projektmanagement.html
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://de.wikipedia.org/wiki/Projekt
+[^2]: http://www.entdecken-entwickeln.de/projektberatung.html
+[^3]: https://cpc-services.de/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1NSPMrDkeYPs1tsYUfjeslCH27blFqOtn48FnbUaF3-GZZil9gjXLBoCS64QAvD_BwE
+[^4]: https://www.pmcc-consulting.com/kompetenzen/projektmanagement/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1Nab-UuWxjKJAyHdjgzy5-NMN--GWtfk7fFmFaP0GTt2OsT5lxPMThoCvlUQAvD_BwE
+[^5]: https://smodin.io/de/text-automatisch-in-deutscher-sprache-umformulieren
+[^6]: http://docplayer.org/11051318-6-5-13-projektcoaching-projektmentoring-oder-doch-kollegiale-projektberatung-wann-passt-welches-konzept-der-einzelberatung.html
 
