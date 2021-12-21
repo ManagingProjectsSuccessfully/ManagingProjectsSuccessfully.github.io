@@ -22,8 +22,7 @@ In Bezug auf das [Projektmanagement](Projektmanagement.md) bedeutet Digitalisier
 
 # Grundlegende Aspekte der Digitalisierung im Projektmanagement
 
-Der wesentlichste Aspekt ist die Nutzung von digitalen Arbeitsgeräten, wie Smartphones und Computer.[^3]                                            
-Ein weiterer zentraler Aspekt ist der Einsatz digitaler Werkzeuge, welche die Arbeit in [Projekten](Projekt.md) erleichtern und effizienter gestalten sollen.  
+Der wesentlichste Aspekt ist die Nutzung von digitalen Arbeitsgeräten, wie Smartphones und Computer.[^3] Ein weiterer zentraler Aspekt ist der Einsatz digitaler Werkzeuge, welche die Arbeit in [Projekten](Projekt.md) erleichtern und effizienter gestalten sollen.  
 
 ## Datenmanagement 
 
