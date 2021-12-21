@@ -7,12 +7,12 @@ anrechnung: k
 
 # Definition
 
-Den Projektfortschritt im Blick zu halten ist von hoher Bedeutung. 
+Den Projektfortschritt im Blick zu halten ist für die [Projektsteuerung](Projektsteuerung.md) von hoher Bedeutung. 
 Um diesen zu kontrollieren kann eine Earned Value Analyse (EVA), auch Earned Value Management genannt, herangezogen werden.
 Anhand von Plan- und Ist-Daten werden Kennzahlen berechnet, die den Earned Value (Fertigstellungswert) beschreiben. 
 Diese Daten beziehen sich auf Kosten, Zeit und Leistungsumfang, also dem [magischen Dreieck](Magisches_Dreieck.md).
 Der Fertigstellungswert kann zur Überwachung der Termintreue, der Kostentreue sowie zur Prognose von Gesamtkosten und Endtermin herangezogen werden. 
-Daraus resultiert bei Nichterfüllung ein Frühwarnsystem wodurch das [Projekt gesteuert](Projektsteuerung.md) und angepasst werden kann. [^1]
+Anhand dessen kann der [Erfolg gemessen](Erfolgsmessung.md) werden und es resultiert bei Nichterfüllung ein Frühwarnsystem, wodurch das Projekt gesteuert und angepasst werden kann. [^1]
 
 Ein Fertigstellungswert, also der Earned Value, ist ein Maß für die bereits geleistete Arbeit. 
 Somit entspricht die Earned Value Analyse einem Messverfahren, um den tatsächlich erzielten Fortschritt in Relation zu dem geplanten Ziel zu ermitteln und anschließend zu bewerten. [^2]
@@ -66,6 +66,14 @@ Die Kosten und Terminvarianz beschreiben die Abweichungen des Istwertes von dem 
 Die Kostenvarianz gibt also an, ob in einem Projekt mehr oder weniger Kosten anfallen als geplant und die Terminvarianz beschreibt die Einhaltung des Zeitplanes. 
 Anhand dessen können Prognosen für die Gesamtkosten und Gesamtdauer abgeleitet das weitere Vorgehen entschieden werden. [^5]
 
+# Siehe auch
+* [Projektsteuerung](Projektsteuerung.md)
+* [magisches Dreieck](Magisches_Dreieck.md)
+* [Erfolgsmessung](Erfolgsmessung.md)
+
+# Weiterführende Links
+* [Beispiele zur Berechnung der VEA](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/earned-value-analyse/)
+* [Earned Value Analyse Wikipedia](https://de.wikipedia.org/wiki/Earned_Value_Analysis)
 
 # Quellen
 [^1]: [Earned Value Management](https://www.projektmagazin.de/methoden/earned-value-management)
