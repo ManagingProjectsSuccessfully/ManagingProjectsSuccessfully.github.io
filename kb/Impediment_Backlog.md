@@ -7,7 +7,7 @@ anrechnung: a
 
 Das **Impediment Backlog** wird zumeist zur Visualisierung und Priorisierung von Impediments verwendet. [^1]
 
-**Impediments** (englisch für *„Behinderungen“*) beschreiben Hindernisse und Störungen aller Art, die während eines [Scrum](SCRUM.md) - Projekts auftreten. Sie schränken die Mitglieder eines Projektteams bei der Erfüllung ihrer Aufgaben (zum Beispiel der Erreichung eines Sprint - Ziels) ein. [^1]
+Generell beschreiben **Impediments** (englisch für *„Behinderungen“*) Hindernisse und Störungen aller Art, die während eines [Scrum](SCRUM.md) - Projekts auftreten. Sie schränken die Mitglieder eines Projektteams bei der Erfüllung ihrer Aufgaben (zum Beispiel der Erreichung eines Sprint - Ziels) ein. [^1]
 
 Mithilfe des Impediment Backlogs werden bestehende Hindernisse mit dem Ziel zusammengefasst, sie so schnell wie möglich zu überwinden. [^1][^2]
 
