@@ -10,8 +10,8 @@ Durch die Risikomatrix oder auch Risikodiagramm, Risikoprofil[^1], wird die Wahr
 Die Risikomatrix ist eine zweidimensionale Darstellung, welche der systematischen Evaluierung und Bewertung von Risiken dienen soll. Des Weiteren ist die Risikomatrix ein Instrument aus der [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) und erfolgt in verschiedenen Varianten.[^2]    			
 
 * [Aufbau und Berechnung](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Kritik-,Aufbau%20und%20Berechnung,-Bei%20der%20tabellarischen)
-* [Nutzen](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Bild%2011%3A-,Nutzen%20und%20Kritik,-Nutzen%20Allgemein)
-  - [Nutzen Allgemein](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Nutzen%20und%20Kritik-,Nutzen%20Allgemein,-Die%20Risikomatrix%20hilft)
+* [Nutzen](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#nutzen)
+  - [Nutzen Allgemein](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#nutzen-allgemein)
   - [Nutzen im Risikomanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Nutzen%20im%20Risikomangement)
   - [Nutzen im Projekmanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Nutzen%20im%20Projektmanagement)
 * [Kritik](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=das%20Risikomanagement%20verwendet5.-,Kritik,-Zun%C3%A4chst%20ist%20die)
