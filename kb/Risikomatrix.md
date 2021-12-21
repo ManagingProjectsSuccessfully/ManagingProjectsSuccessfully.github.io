@@ -51,7 +51,7 @@ Unter anderem sind die qualitativen und quantitativen Aussagen begrenzt, denn vi
 * [Risikobewertung_von_Umweltrisiken](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikobewertung_von_Umweltrisiken.md)
 
 # Weiterführende Literatur
-* Video: [Risikomatrix](https://www.youtube.com/watch?v=j_c2qN-waCk)
+* Video: [Prof. Dr. Stefan Georg,"Risikobewertung und Risikoanalyse im Risikomanagement", veröffentlicht 01.09.2020](https://www.youtube.com/watch?v=j_c2qN-waCk)
 * Buch: Sascha Saßen, "Risikomanagement: Fehler vermeiden, melden, analysieren und bewältigen" 1. Auflage, veröffentlicht 01.02.2019
 * Buch: Claudia Cottin & Sebastian Döhler, "Risikoanalyse: Modellierung, Beurteilung und Management von Risiken mit Praxisbeispielen" 2. Auflage, veröffentlicht 06.12.2012
 
