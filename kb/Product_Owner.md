@@ -1,104 +1,62 @@
 ---
 title: Product_Owner
-tags: agil klassisch
+tags: agil product owner
 author: Leon1906
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Product_Owner um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+[^1] Der Product Owner spielt eine zentralle Rolle im Scrum-Prozess. An seiner Seite agiert ein Scrum Master und ein Team aus Entwicklern. Neben vielen spezifischen Aufgaben ist der Product Owner für die Wertsteigerung des Produkts über den gesamten Zeitraum und die Leitung des gesamten Teams verantwortlich. Zum besseren Verständnis werfen wir im Folgenden einen Blick auf die Scrum-Methode und anschließend auf die verschiedenen Aufgaben eines Product Owners.
 
 
-# Aspekt 1
+![Beispielabbildung](https://th.bing.com/th/id/OIP.jI4ISxk84F6lAzBzwZG68gHaEM?pid=ImgDet&rs=1)
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Was ist eigentlich Scrum?
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+[^2] Scrum ist ein wichtiger Ansatz im Agilen Projektmanagement. Die Ursprünge gehen dabei noch auf das Thema Software-Entwicklung zurück. Bei Scrum ist die Entwicklungsphase iterativ in Feedback-Schleifen (Sprints) eingeteilt. Ziel dabei ist es, in jedem Schritt eine zur Verwendung geeignete Produktversion (Inkrement) zu erstellen. Reaktionen und Kommunikation mit den Stakeholdern soll immer auf der Basis eines vorliegenden Produkts basieren.
 
-![Beispielabbildung](Product_Owner/test-file.jpg)
+Vereinfacht lässt sich die Arbeit folgendermaßen darstellen:
 
-*lustiges Testbild*
+* Anforderungen
+* Planung
+* Arbeit im Sprint
+* Ergebnisbeobachtung
+* "Lessons-learned"
 
-# Aspekt 2
+## Rollen in einem Scrum Team
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+1. Scrum Master
+2. Product Owner
+3. Entwicklungsteam
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Grundsätzlich lässt sich sagen, dass der Erfolg eines Scrum-Teams davon abhängt, dass das Team langfristig in der gleichen Zusammensetzung arbeitet.
 
-So kann man eine Tabelle erstellen:
+# Aufgaben des Product Owners
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Interessensvertretung der Kunden
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+[^3] Der Posten des Product Owners oder Produkteigentümers kann auch vom Kunden selbst ausgefüllt werden. Da der Auftraggeber von enorm hoher Wichtigkeit ist, stellt die ständige Kommunikation mit den Stakeholdern einen entscheidenden Faktor dar.
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## Arbeit mit Developer Team und Scrum Master
 
-### Ebene-3-Überschrift
+Bei dem Team von Entwicklern handelt es sich um ein selbstorganisierte Mitarbeiter. Der Product Owner gibt die Punkte vor, die zu erledigen sind und überlässt das Vorgehen bei der Umsetzung dem Entwicklungsteam. Im Gegensatz zum Scrum Master kann der Produkteigentümer kein Teil dieses Teams sein. Dennoch trifft der Product Owner die Entscheidungen. Das stellt eine Voraussetzung für einen strukturierten und reibungslosen Ablauf des Projektes dar.
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## Verantwortung für den Product Backlog
 
-# Aspekt n
+Die Erstellung des Product Backlog erfolgt durch den Product Owner und er kümmert sich um die Strukturierung der Item-Bearbeitung. Dabei geht es nicht nur um die Priorisierung nach Wichtigkeit hinsichtlich des Endresultates sondern auch um die verständliche Formulierung. Hierbei spielt das sogenannte "User Story" - Format eine wichtige Rolle, um Verständlichkeit zu gewährleisten.
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## Mitverfolgung der Fortschritte
+
+Ein wichtiger Termin für den Product Owner ist das Review Meeting zum Abschluss eines jeden Sprints. Der Produkteigentümer bestimmt bei dieser Zusammenkunft die Teilnehmer und Themen. Nach dem Kommunizieren des Feedbacks wird ein Burndown Chart erstellt, der Prognosen bezüglich des Termins der Fertigstellung eines Projekts erlaubt.
+
+## Kreieren einer Produktvision
+
+Der Product Owner muss nicht nur ständig Rücksprache mit allen Beteiligten halten sondern dabei auch noch laufend Geschehnisse am Markt im Auge behalten und einordnen. Wenn es relevante Neuerungen gibt ist es seine Aufgabe, diese beim Sprint Planning an die Allgemeinheit zu kommunizieren.
 
 
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Product_Owner.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+![Beispielabbildung](https://th.bing.com/th/id/R.22a75fa78b38d2a22a2bbe7c10e758c2?rik=qkCDbqsfaHHSaA&riu=http%3a%2f%2fwww.vitaedigital.com%2fimg%2fxj1w2708ksa8hzby6peu4tlvs4q8cv%2fF0000001025_product_owner_it.png&ehk=ZxbiBu%2bSMPyX9dtiOr7U8J7JEqGwOTyr15J98CNniEg%3d&risl=&pid=ImgRaw&r=0)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://de.ryte.com/wiki/Product_Owner
+[^2]: https://www.projektmagazin.de/glossarterm/scrum
+[^3]: https://agilescrumgroup.de/product-owner-aufgaben/
