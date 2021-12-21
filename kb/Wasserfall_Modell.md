@@ -16,15 +16,17 @@ Jede dieser Phasen endet mit einem Meilenstein, für den eine definierte Ergebni
 * Die 5 Phasen des Wasserfallmodells [^5]
 
 
-1.  Anforderung:
+##  1. Anforderung:
 Ein Auftrag wird von der Kunde erteilt, in dem der Kunde seine Erwartungen mitteilt, da plant man alles bezüglich Kosten und Termine, sowie ein Entwicklerteam wird dann zusammengestellt.
-2. Design/ Entwurf:
+
+##  2. Design/ Entwurf:
 und da wird das ganze Softwaredesign gemacht und als Resultat dieser Phase wird der Bauplan der Software erstellt.
-3. Implementierung:
+
+##  3. Implementierung:
 Da wird die Softwarearchitektur, die in der Design-Phase erarbeitet wurde, in der Implementierungsphase realisiert. Zumeist kristallisieren sich in der Implementierungsphase jedoch Fehler oder nicht realisierbare Teilaufgaben heraus, die in der Entwurfsphase entstanden sind. Daher erfolgen im Regelfall häufig Rückkopplungen zwischen Entwurfs- und Implementierungsphase.
-4. Überprüfung:
+##  4. Überprüfung:
 hier wird die fertigte Produkt/Software geprüft und außerdem wird in dieser Phase die Integration auf verschieden Betriebssysteme vorgesehen. 
-5. Einführung und Wartung: 
+##  5. Einführung und Wartung: 
 das Endprodukt wird an der Kunde geliefert und der erhält noch die Einweisung dazu. Das Projektteam wird der Kunde für zukünftige Wartungs- und Anpassungsarbeiten verantwortlich.
 
 # Eigenschaften der Wasserfall-Modell:
