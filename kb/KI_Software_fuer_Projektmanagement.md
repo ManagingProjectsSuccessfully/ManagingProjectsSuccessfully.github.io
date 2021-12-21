@@ -9,13 +9,6 @@ Die KI-Software für das [Projektmanagement](https://github.com/ManagingProjects
 
 Die KI-Software, welche am häufigsten verwendet werden sind beispielsweise Analysetools[^8], Chat-Bots[^9] oder robotergestützte Prozessautomatisierung[^10].[^1]
 
-* [Was ist KI-Software?](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/KI_Software_fuer_Projektmanagement.md#was-ist-ki-software)
-* [Nutzen und Relativierung](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=wie%20Watson%20Assistant3.-,Nutzen%20und%20Relativierung,-Nutzen%20von%20KI)
-  - [Nutzen von KI-Software für Projektmanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Nutzen%20und%20Relativierung-,Nutzen%20von%20KI%2DSoftware%20f%C3%BCr%20Projektmanagement,-Die%20K%C3%BCnstliche%20Intelligenz)
-  - [Relativierung von Bedenken an die KI-Software für Projektmanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Mitarbeiter%20unterst%C3%BCtzen%20kann.-,Relativierung%20von%20Bedenken%20an%20die%20KI%2DSoftware%20f%C3%BCr%20Projektmanagement,-Zun%C3%A4chst%20ist%20KI)
-* [Siehe auch](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=von%2050%25%20hat6.-,Siehe%20auch,-Von%20Chatbots%20bis)
-* [Weiterführende Literatur](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=Machine_Learning_im_Projektmanagement-,Weiterf%C3%BChrende%20Literatur,-Buch%3A%20Crashkurs%20KI)
-* [Quellen](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/KI_Software_fuer_Projektmanagement.md#:~:text=kann%27s%3F%20(Teil%202)-,Quellen,-Footnotes) 
 
 # Was ist KI-Software? 
 Zunächst ist die Künstliche Intelligenz ein Gebiet aus der Informatik[^11], dabei beschäftigt sie sich mit der Automatisierung[^12], [maschinellen Lernen](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Machine_Learning_im_Projektmanagement.md) oder dem intelligenten Verhalten. Des Weiteren soll die KI menschliche Verhaltensmuster imitieren oder bestimmte Entscheidungen fällen können.[^2]
