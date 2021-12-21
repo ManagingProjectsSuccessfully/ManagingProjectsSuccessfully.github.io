@@ -1,104 +1,115 @@
 ---
 title: Sprint_Review
-tags: agil klassisch
+tags: agil
 author: DeniseWt
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Sprint_Review um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Überblick
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Immer öfter neigen Unternehmen dazu, Projekte anhand des agilen Projektmanagements durchzuführen und sich die dafür erforderlichen Kompetenzen anzueignen. Hintergrund
+des agilen Managements und deren Kernpunkte sind es, dass es Projekten und Prozessen *breiteren Raum an Flexibilität* bietet, was es möglich macht, *schneller und
+effektiver* auf Veränderungen einzugehen.[^1]
 
-![Beispielabbildung](Sprint_Review/test-file.jpg)
+Eine Methodik, welche das agile Konzept verfolgt, ist Scrum. Diese hat ihren Ursprung in den *frühen 90er Jahren* und wurde primär als Entwicklungsmethodik für Software
+eingeführt.[^2]  
 
-*lustiges Testbild*
+Der Scrum Prozess lässt sich in diverse Elemente aufteilen[^3]. Darunter fallen:
 
-# Aspekt 2
+1. Ereignisse
+2. an dem Prozess beteiligte Personen
+3. daraus resultiernde Ergebnisse
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Die Agilität von Scrum zeichnet sich dadurch aus, dass der Workflow in zeitlich festgelegte Schritte, sog. Sprints eingeteilt wird.
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Sprints
 
-So kann man eine Tabelle erstellen:
+Kernelemente der Ereignisse sind die Sprints, welche einen hohen Stellenwert einnehmen und dementsprechend *"der Herzschlag von Scrum ist, wo Ideen in Wert
+umgewandelt werden"*[^4].
+  Taucht man nun tiefer in den Ablauf eines einzigen Sprints ein, lässt sich feststellen, dass dieser nochmals in Etappen unterteilt ist.
+  
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# Sprint Review
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Sprint Retrospective, Sprint Review, [Sprint Planning](Sprint_Planning.md) und [Daily Scrum](Daily_Scrum.md) sind die Bausteine und ergeben zusammen einen Sprint. Dabei 
+wird immer wieder der gleiche Ablauf
+befolgt, wobei der Sprint Review **vor** der Sprint Retrospective stattfindet[^4].
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Während der Phase des Sprint Reviews kommt dann das ganze Scrum Team zusammen, die dort die Möglichkeit haben Feedback zu geben. Diese Gruppe besteht demnach aus dem
+Product Owner, dem Scrum Master und dem Entwickler Team. Zudem sollte idealerweise auch der Stakeholder hinzugezogen werden; dies kann zum Beispiel ein Anwender, ein
+Manager oder ein Vertreter aus diversen Bereichen sein[^4].
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## Ablauf eines Sprint Reviews
 
-# Aspekt n
+Üblicherweise dauert ein solches Meeting circa vier Stunden, sollten die Sprints aber kürzer sein, fällt auch die Dauer der Besprechung dementsprechend knapper aus[^2].
+Was auch bereits im darunterstehenden Bild illustriert wurde, soll im Folgenden noch genauer erläutert werden:
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+![Beispielabbildung](Sprint_Review/Sprint_Review_Meeting.png)
+
+
+### Agenda des Meetings[^5]
+
+* __Allgemeine Regeln__
+  - Begonnen wird im Sprint Review meist damit, dass der Product Owner allgemeine Regeln über den Ablauf des Sprint Reviews aufstellt und Erwartungen hieran mitteilt
+ 
+* __Überblick__
+  - Weiterführend informiert er in einem kurzen Überblick darüber, was demonstriert werden soll und was der Inhalt des heutigen Meetings ist
+  
+* __aktueller Stand__
+  - Außerdem berichtet er, was bereits erreicht worden ist und welche Aufgaben noch abgeschlossen werden müssen
+  
+* __Demonstration durch das Scrum Team__
+  - Nachdem durch den Product Owner ein Gesamtüberlick geliefert wurde, geht das Scrum Team zum einen darauf ein, welche Fortschritte und Ergebnisse jeder einzelne im
+    Team erreicht hat und zum anderen in welchen Bereichen Probleme aufgetreten sind und wie diese gelöst wurden. Dabei stehen sie natürlich stets für Fragen zur 
+    Verfügung
+    
+* __Wertschätzung des Geschafften__
+  - Hierbei bietet es sich an das Team für seine Arbeit zu loben und einen Dank auszusprechen
+  
+* __Änderungen am Product Backlog__
+  - Gegebenenfalls werden dann zusätzlich Änderungen des Product Backlogs, was eine Auflistung aller Anforderungen für ein zu erstellendes Produktes enthält, besprochen
+ 
+* __Diskussion__
+  - Dies wird nicht selten in Form einer Diskussion erarbeitet, in der alle Anwesenden ihre Änderungsvorschläge anbringen können und somit einzelne Teile überarbeitet
+    werden. Das wird stets in Anwesenheit des Stakeholders passieren, sodass auch dieser in der Lage ist mögliche Wünsche oder Abneigungen kundzutun
+ 
+* __Erstellung der Inhalte__
+   - Auf Grundlage des angepassten Product Backlogs werden schlussendlich die Inhalte des nächsten Sprints bestimmt
+
+
+
+# Fazit
+
+
+Demnach beinhaltet ein Sprint den Sprint Review, welcher nochmals in mehrere Bestandteile aufgegliedert werden kann. Schlüsselelement dabei ist vor allem die Demo des
+Entwicklerteams, auf welche dann ein Feedback der Anwesenden folgt. Dies geschieht immer im Hinblick auf die Anpassung des **Product Backlogs** und der kontinuierlichen
+Fortschritte des Produktes in Richtung des vorgegebenen Ziels.[^6]
+
+
+
 
 
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Sprint_Review.md)
+* [Link zu den Grundlagen des Sprints](Sprint.md)
+* [Link zum Product Backlog](Product_Backlog.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Weiterfuehrende Literatur über das "Konzept" *Scrum*: Scrum: The Art of Doing Twice the Work in Half the Time 
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.factro.de/blog/agiles-projektmanagement
+[^2]: https://scrumguide.de/die-geschichte-von-scrum/
+[^3]: https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-artefakte
+[^4]: https://dl.dasscrumteam.com/Scrum%20Guide%20Poster%20de%202.0.pdf
+[^5]: https://www.agile-academy.com/de/product-owner/eine-agenda-fuer-das-sprint-review/
+[^6]: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf
 

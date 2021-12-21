@@ -1,104 +1,102 @@
 ---
 title: Reflexion
-tags: agil klassisch
+tags: klassisch
 author: goekcen01
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Reflexion um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Reflexion: "das Nachdenken; Überlegung, prüfende Betrachtung".[^1]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+In einer Projektreflexion setzt man sich mit dem zurückliegenden Projekt rückblickend auseinander und besinnt unterschiedliche Aspekte der Zusammenarbeit nach.[^2]
 
 
-# Aspekt 1
+# Reflexion im klassischen Projektmanagement 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Sobald das Projekt zu einem Ende kommt, wird eine ausführliche Reflexion nötig.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Das Überprüfen von messbaren Dingen, im Besonderen die Zielerreichung ist hierfür ein idealer Startpunkt. Das Projekt wird an den Projektauftraggeber übergeben und von diesem final abgenommen. Anschließend sollte der gesamte Verlauf des Projektes kritisch betrachtet werden. Wo gab es unerwartete Hindernisse? Welche Phasen waren besonders schwierig? Wie lief es zwischenmenschlich und wo kann sich jedes einzelne Projektmitglied verbessern? [^3]
 
-![Beispielabbildung](Reflexion/test-file.jpg)
+Anders als bei agilen Projekten, wird bei der klassischen Herangehensweise, direkt von Beginn an, ein definierter Endzustand festgelegt. 
+Während des Projektes anzuhalten und den Zwischenstand zu überprüfen ist hier eher nicht üblich.
+An Stelle der regelmäßigen Reflektion zwischendurch, greift man beim traditionellen Projektmanagement zu klassischen Instrumenten des Wissensmanagements, wie etwa die [Lesson Learned](Lessons_Learned.md) und die Projektanalyse am Projektende.[^4]
 
-*lustiges Testbild*
+Da bei dem klassischen Projektmanagement die Reflexion, einmalig zum [Projektabschluss](Projektabschluss.md), durchgeführt wird, muss man bedenken, dass sie nicht dazu beitragen kann das aktuelle Projekt selbst noch erfolgreicher zu machen, da dieses bereits beendet ist.[^2]
 
-# Aspekt 2
+Sinn und Zweck der Reflektion zum Schluss eines Projektes ist es, die positiven Punkte beim nächsten Projekt wieder anzuwenden und Fehler hingegen nicht nochmal zu wiederholen.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Im Vordergrund steht hier somit das Lernen aus Erfahrungen und das aktive Anwenden der gewonnen Erkenntnisse in Folgeprojekten. 
+Es wird demzufolge durch das Reflektieren zu künftigen Erfolgen beigetragen und der Ablauf für weitere Projekte optimiert.[^8]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+![Abbildung](Reflexion/what-is-project-management-process.png)
 
-So kann man eine Tabelle erstellen:
+## Ablauf
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Der Reflexionsprozess kann auf unterschiedliche Art und Weise gestaltet werden, einen Musterablauf gibt es nicht.
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Die Durchführung der Reflexion unterscheidet sich von Projektmanager zu Projektmanager. Wobei einige starken Wert auf Selbstreflexion legen, bevorzugen andere es hingegen, ein Meeting mit dem gesamten Team zu organisieren und gemeinsam das zurückliegende Projekt zu analysieren und zu reflektieren.[^8]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Was aber auf alle Fälle wichtig ist, ist es das Besprochene zu dokumentieren und Daten für weitere Projekte zu sammeln. Hierfür kommt beispielsweise ein [Projektabschlussbericht](Projektabschlussbericht.md) in Frage.[^5]
 
-### Ebene-3-Überschrift
+Ein Dokument mit den relevantesten Punkten, Ergebnissen und vor allem den durchlaufenen Hürden, vermittelt essenzielles Wissen und Know-How für alle Projektmitglieder.
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Das Projekt endet also nicht mit der Übergabe an den Auftraggeber, sondern erst mit dem erfolgreichen Abschluss, inklusive Dokumentation und Reflexion für zukünftige Projekte.[^3]
 
-# Aspekt n
+Eine denkbare Herangehensweise wäre es, zusammen mit allen Projektbeteiligten, einige Fragen durchzugehen.[^6]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+### Mögliche Fragen, die man sich selbst und dem Team stellen könnte:
+1.  Wurde das Projektziel erreicht? 
+2.  Was trug zum Erreichen des Ziels bei?
+3.  Welche Schwierigkeiten gab es
+     -   inhaltlicher / organisatorischer Art?
+     -   auf der Beziehungsebene (in der Gruppe ...)?
+4.  Wie könnte dieses Projekt weitergeführt werden?
+5.  Was haben Sie für sich gelernt?
+6. Was können wir beim nächsten Projekt besser machen?
+
+
+## Fazit
+
+Zusammenfassend bedeutet eine ausführliche Reflexion für neue Projekte folgendes[^7]: 
+* Fehler zu vermeiden
+* Risiken zu verringern
+* Chancen zu nutzen
+* Projekt-Qualität zu steigern.
+
+Bei so vielen positiven Aspekten kann man abschließend sagen, dass es durchaus Sinn macht, das zurückliegende Projekt Revue passieren zu lassen, bevor man den erfolgreichen Abschluss des Projektes zusammen mit dem Team feiert.
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Reflexion.md)
+* [Projektabschluss](Projektabschluss.md)
+* [Lesson Learned](Lessons_Learned.md)
+* [Projektabschlussbericht](Projektabschlussbericht.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Anbari, F.T., Carayannis, E.G. and Voetsch, R.J., 2008. Post-project reviews as a key project management competence. Technovation, 28(10), pp.633-643](https://www.researchgate.net/profile/Robert-Voetsch/publication/245131310_Post-project_reviews_as_a_key_project_management_competence/links/5ebab3a4458515626ca18fe0/Post-project-reviews-as-a-key-project-management-competence.pdf)
+* [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+* [Oppermann, A., 2011. Ein Unternehmen auf dem Weg zum Projektmanagement: Reflexion einer empirischen Begleitung.](https://hildok.bsz-bw.de/files/131/386760373.pdf)
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Definition: Reflexion](https://www.duden.de/rechtschreibung/Reflexion)
+
+[^2]: [Projektreflexion - Vorausschauende Rückschau, 2020](https://blog.internet-halunken.de/agiles-projektmanagement/projektreflexion-vorausschauende-rueckschau/)
+
+[^3]: [Sevdesk, Projektmanagement – Der optimale Einsatz für dein Unternehmen, 2019](https://sevdesk.de/blog/projektmanagement/#phasen-des-projektmanagement)
+
+[^4]: [Proaqulia, Klassisches Projektmanagement vs. Agiles Projektmanagement, 2019](https://www.proaquila.de/2019/02/22/klassisches-projektmanagement-versus-agiles-projektmanagement/)
+
+[^5]: [PCC, How Successful Project Managers Reflect on and Track the Outcomes of Projects, 2017](https://climb.pcc.edu/blog/how-successful-project-managers-reflect-on-and-track-the-outcomes-of-projects)
+
+[^6]: [Nachbesinnung (Reflexion) des Projekts](https://lehrerfortbildung-bw.de/st_kompetenzen/weiteres/projekt/projektkompetenz/instrumente/bewertung/fragebogen_nachbesinnung.htm)
+
+[^7]: [TPG, Lessons Learned im Projektmanagement](https://www.theprojectgroup.com/blog/lessons-learned-im-projektmanagement/)
+
+[^8]:[Oppermann, A., 2011. Ein Unternehmen auf dem Weg zum Projektmanagement: Reflexion einer empirischen Begleitung.](https://hildok.bsz-bw.de/files/131/386760373.pdf)
+
+
 
