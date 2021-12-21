@@ -31,7 +31,7 @@ Das Qualitätsmanagement ist außerdem eine wichtige Wissenssparte des [PMBOK](P
 ### Phase 4: Qualitätsgewinn
 * In der letzten Phase werden die gewonnenen Erkenntnisse genutzt um gegen Abweichungen vorzugehen und Prozesse zu verbessern. Dafür ist ein Austausch der Ergebnisse mit Mitarbeitern und Kunden erforderlich[^6][^7]
 
-![PDCA-Prozess](Qualitaetsmanagement/pdca-new.png)
+![PDCA-Prozess](Qualitaetsmanagement/PDCA-Zyklus.png)
 
 # Qualitätsmanagementmodelle
 ## Total Quality Management (TQM)
