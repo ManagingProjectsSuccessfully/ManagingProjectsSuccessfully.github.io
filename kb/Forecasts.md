@@ -4,7 +4,7 @@ tags: agil klassisch
 author: eftalyaumat
 anrechnung: k 
 ---
-Forecasts treffen basierend auf wissenschaftlich fundierten Methoden Aussagen über zukünftige Werte ökonomischer Variablen[^1]. Das Ziel ist anhand vergangener und aktueller Daten für das Projekt wichtige Kennzahlen so präzise wie möglich vorherzubestimmen[^2]. 
+Forecasts treffen basierend auf wissenschaftlich fundierten Methoden Aussagen über zukünftige Werte ökonomischer Variablen[^1]. Das Ziel ist anhand vergangener und aktueller Daten wichtige Projektkennzahlen so präzise wie möglich vorherzubestimmen[^2]. 
 
 # 1 Definition 
 Im Projektmanagement werden Forecasts als Steuerungselement eingesetzt, um die Erreichung von sowohl kurzfristigen als auch mittelfristigen Zielen zu kontrollieren und zu unterstützen. Durch die Erzeugung von Informationen und den Vergleich vorhergesagter mit den tatsächlich eingetretenen Werten sollen Abweichungen von der Planung frühzeitig erkannt und entgegenwirkende Maßnahmen so früh wie möglich entwickelt werden. Forecasts sind hierbei nicht als eine normale Prognose anzusehen, da sie darüber hinausgehen und neben finanziellen und nicht-finanziellen Aspekten auch Simulations- und [Szenariotechniken](Szenario_Technik.md) umfassen[^3]. Sie bilden die Grundlage für die gesamte Projektplanung sowie die Beurteilung der Realisierbarkeit und Rentabilität des Projektziels, die Aufwandsschätzung und die [Risikoanalyse](Risikoanalyse_und_Visualisierung.md)[^4].
@@ -12,7 +12,7 @@ Im Projektmanagement werden Forecasts als Steuerungselement eingesetzt, um die E
 # 2 Merkmale erfolgreicher Forecasts
 Um zuverlässige Vorhersagen zu erhalten und die gesetzten Ziele zu erreichen, sollten bei der Erstellung eines Forecasts diese Aspekte berücksichtigt werden.
 ## 2.1 Ehrlichkeit
-Eine rein zielorientierte Herangehensweise ohne die Berücksichtigung vorhandener Ressourcen wird mit höherer Wahrscheinlichkeit zu falschen Vorhersagen führen. Den Forecast so zu bearbeiten, dass er die [top down](Top_Down_Planning.md) gesetzten Vorgaben erfüllt, wird zu Beginn eines Projekts vielversprechend wirken, jedoch am Ende häufiger die Ziele verfehlen. Deswegen ist eine [bottom up](Bottom_Up_Planning.md) Planung, die ausgehend von den zur Verfügung stehenden Mitteln ehrlich zeigt, wo die Grenzen des Projektes liegen empfehlenswerter[^5]. 
+Eine rein zielorientierte Herangehensweise ohne die Berücksichtigung vorhandener Ressourcen wird mit höherer Wahrscheinlichkeit zu falschen Vorhersagen führen. Den Forecast so zu bearbeiten, dass er die [top down](Top_Down_Planning.md) gesetzten Vorgaben erfüllt, wird zu Beginn eines Projekts vielversprechend wirken, jedoch am Ende häufiger die Ziele verfehlen. Deswegen ist eine [bottom up](Bottom_Up_Planning.md) Planung, die ausgehend von den zur Verfügung stehenden Mitteln ehrlich zeigt, wo die Grenzen des Projektes liegen, empfehlenswert[^5]. 
 ## 2.2 Systematik
 Jeder Projektteilnehmer sollte auf den ersten Blick erkennen können:
 * Wo man sich im Projekt befindet
@@ -32,10 +32,10 @@ Prognosen, die auf Erfahrungswerten basieren, stellen in der Regel die zuverläs
 ## 3.2 Expertenschätzung 
 Schätzungen von Experten kommen meist in Einsatz, wenn noch kein Erfahrungswissen vorhanden ist und dienen als Orientierungsrahmen für Prognosen. Diese beruhen jedoch meist auf Annahmen, die eine hohe Unsicherheit aufweisen können[^4]. 
 ## 3.3 Szenarien 
-["Wenn-dann-Szenarien"](Szenario_Technik.md) prognostizieren potenzielle Entwicklungen und zeigen in großem Umfang die unterschiedlichen Möglichkeiten eines Projektverlaufs auf[^4]. 
+"Wenn-dann-Szenarien" prognostizieren potenzielle Entwicklungen und zeigen in großem Umfang die unterschiedlichen Möglichkeiten eines Projektverlaufs auf[^4]. 
 
 # 4 Unterschiedliche Methoden des Forecastings 
-Grundsätzlich kann zwischen zwei Arten des Forecastings unterschieden werden. Standard-Forecasts, die regelmäßig angepasst werden, und Ad-hoc-Forecast, die unregelmäßig durchgeführt werden[^3]. Da mit dem Fortschritt des Projektes das Wissen über den tatsächlichen Projektverlauf steigt, können durch Anpassungen präzisere Vorhersagen vorgenommen und der [Business Case](Business_Cases.md) überprüft und aktualisiert werden[^4].
+Grundsätzlich kann zwischen zwei Arten des Forecastings gewählt werden. Standard-Forecasts, die regelmäßig angepasst werden, und Ad-hoc-Forecast, die unregelmäßig durchgeführt werden[^3]. Da mit dem Fortschritt des Projektes das Wissen über den tatsächlichen Projektverlauf steigt, können durch regelmäßige Anpassungen präzisere Vorhersagen vorgenommen und der [Business Case](Business_Cases.md) überprüft und aktualisiert werden[^4].
 
 ## 4.1 Earned Value Analyse
 Die [Earned Value Analyse](Earned_Value_Analyse.md) stellt eine Variante des laufenden und regelmäßigen Forecastings dar, welche durch die Berechnung des Schedule Performance Index (SPI) eine Prognose über den Endtermin und mit dem Cost Performance Index (CPI) Aussagen über die Entwicklung der Projektkosten bereitstellt[^4]. 
