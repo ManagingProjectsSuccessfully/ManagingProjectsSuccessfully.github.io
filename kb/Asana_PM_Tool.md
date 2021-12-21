@@ -2,103 +2,71 @@
 title: Asana_PM_Tool
 tags: agil klassisch
 author: Saskia1403
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Asana_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Asana Inc. ist ein US-amerikanisches Unternehmen aus San Francisco für agile [Projektmanagement-Software](Projektmanagementsoftware.md), welches 2008 gegründet und erst 2012 offiziell auf den Markt gekommen ist [^1] [^2]. Die beiden Gründer Dustin Moskovitz und Justin Rosenstein lernten sich bereits zuvor bei ihrer Arbeit für Facebook kennen. Dort entstand auch ihre Idee für ein Tool, das Teams auf der ganzen Welt bei der Organisation ihrer Projekte und der Kommunikation untereinander unterstützt [^3]. 
+Der Name des Unternehmens "Asana" stammt dabei aus dem Sanskrit, der Literatur- und Gelehrtensprache in Indien. Ursprünglich wird es im Yoga verwendet und ist namensgebend für verschiedene Haltungsgruppen, die sowohl Dynamik als auch Beständigkeit ausdrücken [^3] [^4]. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Als US-amerikanisches Unternehmen werden die mit dem Unternehmen geteilten Daten grundsätzlich nach den amerikanischen Datenschutzrichtlinien behandelt. Allerdings bietet Asana auch die Möglichkeit ein Übereinkommen für eine Datenverarbeitungsvereinbarung zu treffen, nach der die Daten gemäß der DSGVO verarbeitet werden [^2].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Funktionen von Asana 
+Nach der Anmeldung bei Asana, mit zum Beispiel seinem Google Konto, gelangt man zur Homepage, auf der man alle Projekte und Aufgaben sieht, die demnächst fällig sind [^5].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Im Register "Meine Aufgaben", befinden sich alle Aufgaben, die einem zugeordnet wurden. Für einen besseren zeitlichen Überblick können diese in die Kategorien "Heute erledigen“, "nächste Woche erledigen“ oder "Später erledigen“ sortiert werden [^6]. Um die Zuordnung zu veranschaulichen, kann zwischen einer Listenansicht, einem [Kanban-Board](Kanban.md) und einer [Gantt Chart](Gantt_Diagramme.md) gewählt werden [^2] [^6]. 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Damit alle Teammitglieder eines Projektes immer auf dem aktuellen Stand sind, gibt es die Infobox. In dieser befinden sich alle Benachrichtigungen die man bekommt, zum Beispiel, weil man zu einem Projekt oder einer Aufgabe neu hinzugefügt wurde, ein Dokument hinzugefügt wurde oder jemand einen in einem Kommentar unter einer Aufgabe getaggt hat. Asana bietet dazu die Option bei jeder Benachrichtigung in der Inbox eine E-Mail zu versenden [^2] [^5]. Auch hat man hier die Möglichkeit Nachrichten zu senden, um sich mit seinen Teammitgliedern auszutauschen und Diskussionen zu führen [^7].
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Wird eine Aufgabe geöffnet, erscheint wie in Abbildung 1 ersichtlich, rechts ein Fenster mit dieser Aufgabe. In diesem Fenster sieht man, wer für das Projekt verantwortlich ist, wann das Fälligkeitsdatum ist, zu welchem übergeordneten Projekt die Aufgabe gehört, ob es Abhängigkeiten gibt, mögliche Kontaktangaben und eine Kurzbeschreibung des Projektes. In dieser können alle wichtigen Informationen aufgelistet werden, um den Teammitgliedern, welche nicht verantwortlich sind, einen Überblick zu verschaffen. Darüber hinaus können Unteraufgaben und Anhänge, wie Worddokumente und Excel-Tabellen angefügt werden [^3] [^5] [^7]. Asana bietet außerdem die Möglichkeit der Integration anderer Tools, wie Teams, Tableau, GitHub und SharePoint [^3]. Des Weiteren können personalisierte Tags hinzugefügt werden, die zum Beispiel die Phase des Projektes veranschaulichen, wie „To Do!“ oder „Warten auf Feedback“ [^8]. Auch befindet sich unter jeder Aufgabe ein Kommentarfeld, in dem aktuelle Informationen ausgetauscht werden können [^2] [^6]. 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Für die Projektmanager gibt es darüber hinaus die Möglichkeit unter dem Register Berichte, Dashboards anzulegen, um sich verschiedene Aspekte des Projektes visuell zu veranschaulichen [^3].
 
 
-# Aspekt 1
+![Abbildung 1: Benutzungsoberfläche bei Asana](Asana_PM_Tool/Benutzungsoberfläche_Asana.png)
+*Abbildung 1: Benutzungsoberfläche bei Asana* [^8]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Asana_PM_Tool/test-file.jpg)
+# Preiskategorien 
+ Je nachdem welche Ansprüche ein Unternehmen an Asana hat, gibt es die Auswahl zwischen vier Preisvarianten: Basic, Premium, Business und Enterprise. Davon ist allerdings nur die Basic Variante, welche von bis zu 15 Teammitgliedern genutzt werden kann, kostenlos [^2] [^7].
+ 
+ 
+ 
+|             |  Basic  |  Premium  |  Business  |  Enterprise  |
+|-------------|---------|-----------|------------|--------------|
+| Preis      |  0,00€  |   9,25€   |   18,75€   | auf Anfrage  |
 
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Preis bezieht sich auf pro Nutzer pro Monat [^2]
+ 
+ 
 
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Asana_PM_Tool.md)
+* [Projektmanagementsoftware](Projektmanagementsoftware.md)
+* [Übersicht_PM_Tools](Uebersicht_PM_Tools.md)
+* [Jira_PM_Tool](Jira_PM_Tool.md)
+* [MeisterTask_PM_Tool](MeisterTask_PM_Tool.md)
+* [ClickUp_PM_Tool](ClickUp_PM_Tool.md)
+* [Hive_PM_Tool](Hive_PM_Tool.md)
+* [Trello_PM_Tool](Trello_PM_Tool.md)
+* [Podio_PM_Tool](Podio_PM_Tool.md)
+* [Stackfield_PM_Tool](Stackfield_PM_Tool.md)
+* [Awork_PM_Tool](Awork_PM_Tool.md)
+* [Java_PM_Tool](Java_PM_Tool.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Asana-Guide](https://asana.com/de/guide)
+* [Features von Asana](https://asana.com/de/features)
+* [Projektmanagement mit Asana](https://asana.com/de/uses/project-management)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Asana Projektmanagement Software](https://www.unternehmenswelt.de/asana-projektmanagement-software)
+[^2]: [Projektmanagement-Tools im Vergleich: factro gegen Asana](https://www.focus.de/digital/experten/software-projektmanagement-tools-im-vergleich-factro-gegen-asana_id_10485623.html)
+[^3]: [Über Asana - Was ist Asana](https://asana.com/de/company)
+[^4]: [Das kleine Asana-Lexikon – die wichtigsten Asanas](https://www.yogaeasy.de/artikel/asana-lexikon)
+[^5]: [Using Online Software for Digital Team Management – Case Study Asana](https://www.researchgate.net/publication/318653655_Using_Online_Software_for_Digital_Team_Management_-_Case_Study_Asana)
+[^6]: [So gelingt der Einstieg in "Meine Aufgaben" von Asana](https://asana.com/de/guide/help/fundamentals/my-tasks)
+[^7]: [Projektmanagement mit Asana macht Spaß – Ein Review](https://pm-tools.info/projektmanagement-software-reviews/projektmanagement-mit-asana-review/)
+[^8]: ["So füllen Sie Aufgabenfelder aus" von Asana](https://asana.com/de/guide/help/tasks/fields#gl-tags)
