@@ -26,10 +26,10 @@ Die internen Umweltrisiken entstehen in Folge unternehmerischer Tätigkeiten und
 Die externen Umweltrisiken treten als Folge von Naturkatastrophen und Umweltänderungen, wie Stürmen, Hochwasser und Erdbeben  auf und gefährden die Unternehmen. Zum Beispiel können bei einem Erdbeben Gebäude und Maschinen zerstört werden, dessen Wiederbeschaffungswert in der Regel sehr hoch ist. Beschädigungen von Technischen Anlagen sind oft ein Grund für Produktionsausfälle, die weitere finanzielle Verluste für Unternehmen mit sich bringen. Als externe Umweltrisiken können ebenso Veränderungen des Umweltbewusstseins angesehen werden. Sie können zu Image- und Kundenverlust für Unternehmen, die den Vorstellungen der Gesellschaft nicht entsprechen, führen. [^2]
 
 ![Interne und Externe Risiken](Risikobewertung_von_Umweltrisiken/interne_externe_Risiken.PNG)
-###### Abbildung 1: Interne und Externe Umweltrisiken (selbst erstellt)
+###### Abbildung 1: Interne und Externe Umweltrisiken [^7]
 
 
-## Umweltrisiken im Projektmanagement [^7]
+## Umweltrisiken im Projektmanagement 
 
 Der richtige Umgang mit Umweltrisiken ist von großer Bedeutung für den langfristigen Projekt- und Unternehmenserfolg. Deshalb ist die Bewertung von Umweltrisiken, sowie die Planung von Gegenmaßnahmen, ein wichtiger Teil der Entwicklung und des [Managements von Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) in Unternehmen.
 
@@ -68,6 +68,6 @@ Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten
 [^4]: [Fehlerbaumanalyse](https://de.wikipedia.org/wiki/Fehlerbaumanalyse)
 [^5]: [Ereignisbaumanalyse](https://de.wikipedia.org/wiki/Ereignisbaumanalyse)
 [^6]: [Fehlermöglichkeits- und Einflussanalyse](https://de.wikipedia.org/wiki/FMEA)
-[^7]: Selbst erstellt  
+
 
 
