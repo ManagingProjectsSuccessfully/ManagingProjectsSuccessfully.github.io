@@ -36,6 +36,10 @@ Das Offshoring stellt das Unternehmen vor zahlreiche [Herausforderungen](Herausf
 * [Herausforderungen bei internationalen Projekten](Herausforderungen_bei_internationalen_Projekten.md)
 * [Kommunikation](Projektkommunikation.md)
 
+# Weiterführende Literatur
+
+* [Der Einfluss kultureller Unterschiede beim IT-Offshoring von J. Winkler, J. Dibbern, A. Heinz](https://link.springer.com/content/pdf/10.1007/s11576-007-0031-8.pdf)
+
 # Quellen
 
 [^1]: https://www.businessinsider.de/gruenderszene/lexikon/begriffe/offshoring/
