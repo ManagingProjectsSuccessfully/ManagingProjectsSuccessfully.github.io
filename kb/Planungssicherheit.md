@@ -14,7 +14,7 @@ So orientiert man sich leichter an vorgegebenen Zielen oder kann den Verlauf bis
 um das gewünschte Ergebnis zu erreichen. [^2] 
 Typisch für das klassische [Projektmanagement](Projektmanagement.md) ist die detaillierte Planung des gesamten [Projekts](Projekt.md).
 Prinzipiell steht das klassische Projektmanagement daher vor allem für eine große Planungssicherheit. [^3]
-Eines der wichtigsten Schritte beim [Projektstart](Projektstart.md) ist daher die Planung. 
+Eines der wichtigsten Schritte beim Projektstart ist daher die Planung. 
 Dabei kann diese in vielen unterschiedlichen Arten und Methoden ausfallen, von der Planung großer [Meilensteine](Meilensteine.md) 
 bis zur genauen Dokumentation der Einzeltätigkeiten. Grundlegend versteht man bei der Planung im klassischen Sinn die rechtzeitige 
 Dokumentation der einzelnen [Projektphasen-klassisch](Projektphasen_klassisch.md), um so möglichst viel Sicherheit zu schaffen. [^2]
