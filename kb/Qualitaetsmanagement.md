@@ -1,6 +1,6 @@
 ---
 title: Qualitaetsmanagement
-tags: agil klassisch
+tags: klassisch TQM SixSigma EFQM
 author: noahbrunnhuber
 anrechnung: k
 ---
