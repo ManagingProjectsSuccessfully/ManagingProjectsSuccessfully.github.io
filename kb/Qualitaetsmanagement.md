@@ -21,12 +21,6 @@ Das Qualitätsmanagement ist außerdem eine wichtige Wissenssparte des [PMBOK](P
 * kontinuierliche Verbesserung der Prozesse im Projekt mithilfe des [PDCA-Prozesses](https://de.wikipedia.org/wiki/Demingkreis)[^4]
 
 # Ablauf des Qualitätsmanagements
-## Grobe Bestandteile
-* genaue Planung und Ausarbeitung der Arbeitsschritte
-* überprüfen, ob Qualitätsansprüche eingehalten werden (Qualitäts-Controlling)
-* Abweichungen erkennen und Gegenmaßnahmen einleiten[^3]
-* Dokumentation des Qualitätsmanagements
-* Austausch mit Kunden und Mitarbeitern[^4]
 ## Die vier Phasen des klassichen Qualitätsmanagements
 * Phase 1: Qualitätsplanung
   - In dieser Phase wird die vorliegende Situation zunächst analysiert, erste Abläufe werden erstellt und Qualitätsziele festgelegt. Dies geschieht unter Berücksichtigung der vorliegenden Ressourcen und der für das Projekt notwendigen Prozesse.
@@ -35,7 +29,7 @@ Das Qualitätsmanagement ist außerdem eine wichtige Wissenssparte des [PMBOK](P
 * Phase 3: [Qualitätssicherung](Qualitaetssicherung.md) / Qualitätskontrolle
   - Die Ergebnisse werden ausgewertet und schriftlich dokumentiert. Dieser Vorgang dient der Kontrolle der anfangs festgelegten Ziele und der Aufdeckung von Fehlern.
 * Phase 4: Qualitätsgewinn
-  - In der letzten Phase werden die gewonnenen Erkenntnisse genutzt um gegen Abweichungen vorzugehen und Prozesse zu verbessern. Dafür ist eine Kommunikation der Ergebnisse erforderlich[^6][^7]
+  - In der letzten Phase werden die gewonnenen Erkenntnisse genutzt um gegen Abweichungen vorzugehen und Prozesse zu verbessern. Dafür ist ein Austausch der Ergebnisse mit Mitarbeitern und Kunden erforderlich[^6][^7]
 
 ![PDCA-Prozess](Qualitaetsmanagement/pdca-new.png)
 
@@ -69,7 +63,7 @@ Trotz seiner vielen Vorteile bringt das Qualitätsmanagement auch Belastungen mi
 [^2]: [Qualitätsmanagement in Projekten](https://www.hsbund.de/SharedDocs/Downloads/0_Abschlussarbeiten/FB_FIN/2011/01_11_Baetz.pdf?__blob=publicationFile), abgerufen am 08.11.2021
 [^3]: [Was bedeutet Qualitätsmanagement für das Projektmanagement?](http://blog.bepartner.de/qualitaetsmanagement/#:~:text=Was%20bedeutet%20Qualit%C3%A4tsmanagement%20f%C3%BCr%20das%20Projektmanagement%3F%201%20Qualit%C3%A4tsmanagement,Qualit%C3%A4ts-Prinzipien%20f%C3%BCr%20erfolgreiche%20Projekte.%20...%20Weitere%20Artikel...%20), abgerufen am 08.11.2021
 [^4]: [Qualitätsmanagement als Berufsfeld: Definition, Aufgaben und ISO 9000](https://ifm-business.de/aktuelles/business-news/qualitaetsmanagement-als-berufsfeld-definition-aufgaben-und-aussichten.html), abgerufen am 08.11.2021
-[^5]: [Project Quality Management According to the PMBOK](https://www.projectengineer.net/project-quality-management-according-to-the-pmbok/), abgerufen am 09.11.2021
+[^5]: [Project Quality Management According to the PMBOK](https://www.projectengineer.net/project-quality-management-according-to-the-pmbok/), abgerufen am 08.11.2021
 [^6]: [Die 4 Phasen des klassischen Qualitätsmanagements](https://www.weiterbildung-im-fernstudium.de/qualitaetsmanagement/die-4-phasen-des-klassischen-qualitaetsmanagements-260#:~:text=Die%204%20Phasen%20des%20klassischen%20Qualit%C3%A4tsmanagements%201%20Qualit%C3%A4tsplanung.,Verbesserung%20von%20Strukturen%20und%20Prozessen%20genutzt%20und%20eingesetzt.), abgerufen am 09.11.2021
 [^7]: [Die 5 Phasen des klassischen Qualitätsmanagements](https://www.brewes.de/magazin/die-5-phasen-des-qualitatsmanagements), abgerufen am 09.11.2021
 [^8]: [Modelle und Werkzeuge im Qualitätsmanagement](https://www.business-wissen.de/hb/modelle-und-werkzeuge-im-qualitaetsmanagement/), abgerufen am 18.11.2021
