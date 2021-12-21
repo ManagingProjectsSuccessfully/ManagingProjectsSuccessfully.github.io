@@ -26,7 +26,7 @@ Die internen Umweltrisiken entstehen in Folge unternehmerischer Tätigkeiten und
 Die externen Umweltrisiken treten als Folge von Naturkatastrophen und Umweltänderungen, wie Stürmen, Hochwasser und Erdbeben  auf und gefährden die Unternehmen. Zum Beispiel können bei einem Erdbeben Gebäude und Maschinen zerstört werden, dessen Wiederbeschaffungswert in der Regel sehr hoch ist. Beschädigungen von Technischen Anlagen sind oft ein Grund für Produktionsausfälle, die weitere finanzielle Verluste für Unternehmen mit sich bringen. Als externe Umweltrisiken können ebenso Veränderungen des Umweltbewusstseins angesehen werden. Sie können zu Image- und Kundenverlust für Unternehmen, die den Vorstellungen der Gesellschaft nicht entsprechen, führen. [^2]
 
 ![Interne und Externe Risiken](Risikobewertung_von_Umweltrisiken/interne_externe_Risiken.PNG)
-###### Abbildung 1: Interne und Externe Umweltrisiken [^3]
+###### Abb.1: Interne und Externe Umweltrisiken [^3]
 
 
 ## Umweltrisiken im Projektmanagement 
@@ -45,7 +45,7 @@ Sobald die potenziellen Umweltrisiken identifiziert sind, können sie bewertet w
 Eine Maßnahme zur Vermeidung und Minimierung von Umweltrisiken und ihrer Schäden ist beispielsweise die nachhaltige Gestaltung von Produktionsprozessen. Ein Produktionsprozess wird als nachhaltig betitelt, wenn dieser auf umweltfreundliche Materialien und Stoffe zurückgreift und diese in effizienter Abfolge von Teilschritten verarbeitet. Das ist häufig mit hohen Anfangsinvestitionen verbunden, jedoch können durch die Nachhaltigkeit und innovative Lösungen langfristig Kosten gespart werden. Eine weitere sinnvolle Maßnahme sind Versicherungen. Sie sind besonders gut bei externen Umweltrisiken geeignet, weil diese schwierig vorhergesehen und vermieden werden können. 
 
 ![Management von Umweltrisiken](https://github.com/loritschka/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikobewertung_von_Umweltrisiken/MNG_UR.PNG)
-###### Abbildung 2: Management von Umweltrisiken [^3]
+###### Abb.2: Management von Umweltrisiken [^3]
 
 ## Siehe auch
 
@@ -64,7 +64,7 @@ Beispiele für nachhaltige innovative Lösungen in Unternehmen, durch die Kosten
 
 [^1]: [Risikoarten](https://www.business-wissen.de/hb/ziele-und-aufgaben-des-risikomanagements-im-unternehmen/)
 [^2]: [Interne und Externe Umweltrisiken](https://de.wikipedia.org/wiki/Umweltrisikomanagement#Allgemeines) 
-[^3]: Selbst erstellt
+[^3]: Abb.1 und Abb.2: selbst erstellt
 [^4]: [Bewertung von Umweltrisiken](https://www.biologie-seite.de/Biologie/Umweltrisikomanagement)  
 [^5]: [Fehlerbaumanalyse](https://de.wikipedia.org/wiki/Fehlerbaumanalyse)
 [^6]: [Ereignisbaumanalyse](https://de.wikipedia.org/wiki/Ereignisbaumanalyse)
