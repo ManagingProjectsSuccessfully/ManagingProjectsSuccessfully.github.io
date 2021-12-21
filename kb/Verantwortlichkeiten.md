@@ -64,6 +64,7 @@ Die Projekthierarchie schaut folgendermaßen aus [^8] [^9] :
 # Siehe auch
 
 * [Projektmanagement](Projektmanagement.md)
+* [Projekt](Projekt.md)
 * [klassischen Missverständnissen](Klassische_Missverstaendnisse.md)
 * [Projektleiter](Projektleiter.md)
 * [Aufgabenteilung](Aufgabenteilung.md)
