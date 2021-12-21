@@ -1,13 +1,11 @@
 ---
 title: Projektportfoliomanagement
 tags: agil klassisch
-author: jy59zadi 
+author: TobiasVoigt92 
 anrechnung: a
 ---
 
-# Projektportfoliomanagement 
-
-Das Projektportfoliomanagement, kurz PPM, beschreibt die permanente Planung, Priorisierung, übergreifende Steuerung und Überwachung aller Projekte einer Organisation oder eines abgeschlossenen Teilbereichs einer Organisation. Dabei können Projekte innerhalb eines Portfolios untereinander konkurrieren. Dies führt zum Ziel des Projektportfoliomanagements, passende Projekte oder Programme zur Umsetzung der Unternehmensstrategie auszuwählen und durchzuführen. Die Projektübergreifenden Risiken zu minimieren und Ressourcen einzuplanen liegt dabei in der Verantwortung des Projektportfoliomanager. [^1] 
+Das Projektportfoliomanagement, kurz PPM, beschreibt die permanente Planung, Priorisierung, übergreifende Steuerung und Überwachung aller Projekte einer Organisation oder eines abgeschlossenen Teilbereichs einer Organisation. Dabei können Projekte innerhalb eines Portfolios untereinander konkurrieren. Dies führt zum Ziel des Projektportfoliomanagements, passende Projekte oder Programme zur Umsetzung der Unternehmensstrategie auszuwählen und durchzuführen. Die Projektübergreifenden Risiken zu minimieren und Ressourcen einzuplanen liegt dabei in der Verantwortung des Projektportfoliomanagers. [^1] 
 
 ## Definition 
 
@@ -17,7 +15,7 @@ Das Projektportfoliomanagement, kurz PPM, beschreibt die permanente Planung, Pri
 
 Das Projektportfolio wird als: "Zusammenfassung von Projekten und Programmen in einem abgegrenztem Verantwortungsbereich zum Zwecke einer permanenten übergeordneten Planung und Steuerung" beschrieben. [^5] 
 
-## Aufgaben des Projektportfoliomanagement
+## Aufgaben des Projektportfoliomanagement [^1][^2]
 
 * Projektanträge bewerten, priorisieren, genehmigen oder ablehnen 
 * Analysieren und Identifizieren von Abhängigkeiten 
@@ -25,7 +23,7 @@ Das Projektportfolio wird als: "Zusammenfassung von Projekten und Programmen in 
 * Controlling und Koordination von laufenden Projekten 
 * Bewertung von beendeten Projekten 
 * Definition und Initiierung neuer Projekte
-* Transparente Kommunikation [^1][^2] 
+* Transparente Kommunikation  
 
 ## Bedeutung des Projektportfoliomanagement 
 
@@ -33,7 +31,7 @@ In Unternehmen laufen oft viele Projekte gleichzeitig, was die Gefahr birgt, sch
 
 ## Portfolio-Diagramm 
 
-Im Portfolio-Diagramm werden einzelne Merkmale der Projekte miteinander in Relation gesetzt, um Gemeinsamkeiten und Unterschiede zwischen Projekten aufzuzeigen. Es liefert Erkenntnisse, ob diese freigegeben werden können, Risiken besonders abgesichert werden müssen oder weitere Ressourcen und Kompetenzen erfoderlich sind. Neben inhaltlichen Merkmalen informiert das Portfolio-Diagramm auch über weitere Merkmale, wie z.B. Zeit und Kosten. Durch den erweiterten Blick auf mehrere Faktoren wird sichtbar, welche Bedeutung ein Projekt haben kann, welche Risiken und wie komplex oder teuer es ist. Die Visualisierung hilft der Geschäftsführung, bei der Bewertung von einzelnen Projekten, Prioritätenbildung und bei der Zusammensetzung der gesamten Projektlandschaft im Unternehmen. [^4] 
+Im Portfolio-Diagramm werden einzelne Merkmale der Projekte miteinander in Relation gesetzt, um Gemeinsamkeiten und Unterschiede zwischen Projekten aufzuzeigen. Es liefert Erkenntnisse, ob diese freigegeben werden können, Risiken besonders abgesichert werden müssen oder weitere Ressourcen und Kompetenzen erfoderlich sind. Neben inhaltlichen Merkmalen informiert das Portfolio-Diagramm auch über weitere Merkmale, wie z.B. Zeit und Kosten. Durch den erweiterten Blick auf mehrere Faktoren wird sichtbar, welche Bedeutung ein Projekt haben kann, welche Risiken und wie komplex oder teuer es ist. Die Visualisierung hilft der Geschäftsführung bei der Bewertung von einzelnen Projekten, Prioritätenbildung und bei der Zusammensetzung der gesamten Projektlandschaft im Unternehmen. [^4] 
 
 ### Aufbau eines Portfolio-Diagramms:  
 
@@ -47,7 +45,9 @@ Y-Achse:
 
 Optional: weitere Faktoren, welche mit Kreisform dargestellt werden  
 
-![Portfolio-Diagramm](https://www.business-wissen.de/static/bw/product/9919810/lg_9919810_1_01.png) 
+Abbildung 1: Portfolio-Diagramm [^4]
+
+![](Projektportfoliomanagement/Portfolio-Diagramm_final.png) 
 
 ## Abgrenzung 
 
@@ -57,7 +57,9 @@ Im Unterschied zum Portfoliomanagement ist das [Programmmanagement](Programmmana
 
 Im Gegensatz zum Projektportfoliomanagement liegt der Fokus beim Multiprojektmanagement nicht auf der Umsetzung der Gesamtstrategie einer Organisation, sondern auf der Koordination und Kontrolle der gemeinsam gemanagten Projekte. [^1] 
 
-![Abbildung_Einordnung-des-Projektportfoliomanagements](https://www.microtool.de/wp-content/uploads/2020/05/was_ist_projektportfoliomanagement.svg)
+![](Projektportfoliomanagement/was_ist_projektportfoliomanagement.svg) 
+
+Abbildung 2: Einordnung Projektportfoliomanagement [^1] 
 
 ## Klassisches Projektportfoliomanagement vs. Agiles Projektportfoliomanagement
 
@@ -76,11 +78,6 @@ Man unterscheidet folgende Ebenen:
 Alle Ebenen müssen Ihre Ziele kontinuierlich miteinander abstimmen. [^1] 
 
 
-Fragen an Reviewer/Lehrstuhl (Beitrag hat schon über 500 Wörter): 
-1. Der Abstand über und unter dem Diagramm liegt am weißen Hintergrund des Bildes, bin für Ideen für eine bessere Einbettung dankbar 
-2. Bedeutung Software hinzufügen ? 
-3. Abgrenzung zu Lean Projektmanagement aufführen ? 
-4. Nennung und Verlinkung von Scaled Agile Framework (SAFe) als agiler Ansatz des Projektportfoliomanagements ? 
 
 ## Quellen
 
