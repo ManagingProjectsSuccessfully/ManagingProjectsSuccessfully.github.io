@@ -55,7 +55,7 @@ So ist bei einem komplizierten Projektvorhaben, welches von einem stabilen Umfel
 
 # Quellen
 
-[^1]:  [ProjectBase ProjectBase - Typische Projektmanagement-Branchen](https://project-base.org/projektmanagement/branchen/)
+[^1]:  [ProjectBase - Typische Projektmanagement-Branchen](https://project-base.org/projektmanagement/branchen/)
 [^2]:  [Teamleader focus - Projektmanagement](https://www.teamleader.de/focus/projektmanagement)
 [^3]: [Gabler Wirtschaftslexikon - Projektmanagement](https://wirtschaftslexikon.gabler.de/definition/projektmanagement-pm-46130)
 [^4]: [Lernen - Projektmanagement](https://www.lernen.net/artikel/projektmanagement-methoden-8018/)
