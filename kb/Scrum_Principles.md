@@ -71,5 +71,5 @@ rechtzeitig zu liefern. Die Scrum Principles fördern folglich die Teamarbeit, u
 
 [^1]: [Was ist Scrum](https://www.uagc.edu/blog/what-is-scrum)
 [^2]: [Scrum Werte und Prinzipien](https://www.simplilearn.com/scrum-values-and-principles-article)
-[^3]: [Abbildung 1](http://blog.scrumstudy.com/wp-content/uploads/SCRUM-principles.jpg)
+[^3]: [Scrum Principles Cycle](http://blog.scrumstudy.com/wp-content/uploads/SCRUM-principles.jpg)
 [^4]: [Die sechs Scrum Principles](https://evontech.com/component/easyblog/what-are-the-6-scrum-principles.html?Itemid=159)
