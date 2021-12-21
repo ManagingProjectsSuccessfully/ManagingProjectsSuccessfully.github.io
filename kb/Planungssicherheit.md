@@ -60,6 +60,7 @@ Projekterfolgsquoten agil vs. Wasserfall: (Standish Group Chaos Report 2020)
 | Wasserfall    |      13 %     |            59 %            |          28 %        |
  
 [^11]
+
 Sie zeigt, dass vermehrt Wasserfall Projekte teilweise oder nicht erfolgreich beendet wurden.
 Das erklärt aber nicht, dass die klassischen Methoden im Projektmanagement nicht gewinnbringend sind.[^3]
 Sie ist aber eher unpassend für Projekte mit hoher Flexibilität. Da die einzelnen geplanten Phasen strikt eingehalten werden und somit fehlerhafte 
