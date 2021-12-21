@@ -5,7 +5,7 @@ author: TobiasVoigt92
 anrechnung: a
 ---
 
-Das Projektportfoliomanagement, kurz PPM, beschreibt die permanente Planung, Priorisierung, übergreifende Steuerung und Überwachung aller Projekte einer Organisation oder eines abgeschlossenen Teilbereichs einer Organisation. Dabei können Projekte innerhalb eines Portfolios untereinander konkurrieren. Dies führt zum Ziel des Projektportfoliomanagements, passende Projekte oder Programme zur Umsetzung der Unternehmensstrategie auszuwählen und durchzuführen. Die Projektübergreifenden Risiken zu minimieren und Ressourcen einzuplanen liegt dabei in der Verantwortung des Projektportfoliomanagers. [^1] 
+Das Projektportfoliomanagement, kurz PPM, beschreibt die permanente Planung, Priorisierung, übergreifende Steuerung und Überwachung aller Projekte einer Organisation oder eines abgeschlossenen Teilbereichs einer Organisation. Dabei können Projekte innerhalb eines Portfolios untereinander konkurrieren. Dies führt zum Ziel des Projektportfoliomanagements, passende Projekte oder Programme zur Umsetzung der Unternehmensstrategie auszuwählen und durchzuführen. Die projektübergreifenden Risiken zu minimieren und Ressourcen einzuplanen liegt dabei in der Verantwortung des Projektportfoliomanagers. [^1] 
 
 ## Definition 
 
@@ -27,13 +27,18 @@ Das Projektportfolio wird als: "Zusammenfassung von Projekten und Programmen in 
 
 ## Bedeutung des Projektportfoliomanagement 
 
-In Unternehmen laufen oft viele Projekte gleichzeitig, was die Gefahr birgt, schnell die Übersicht zu verlieren. Jeder Fachbereich richtet das Augenmerk auf seine Projekte, wodurch viele Bereiche oft nichts von denen anderer Bereiche im Unternehmen wissen. Ebenso wenig ist bekannt, welche Ziele mit diesen verfolgt werden und in welcher Form Sie zur Unternehmensstrategie beitragen. Projekte bergen auch Risiken. Zur Verwirklichung von Projekten sind Ressourcen notwendig, welche nur begrenzt vorhanden sind, was zu Konflikten zwischen den verschiedenen Fachbereichen führen kann. [^1] Zudem sollen durch die Bündelung von Projekten und Programmen zu einem Portfolio Synergien geschaffen werden. Dinge die auf der Einzelporjektebene übersehen werden, können von der übergeordneten Ebene des Projektportfolios aus leichter erkannt und in einen konkreten Nutzen für das Unternehmen transformiert werden. Beispielsweise können die [Lessons Learned](Lessons_Learned.md) aus einem abgeschlossenen Projekt für zukünftige genutzt werden oder das Wiederholen von Fehlern vermeiden. [^6] Das Projektportfolio gibt allen im Unternehmen tätigen Mitarbeitern und Mitarbeiterinnen, aber insbesondere der Geschäftsleitung eine verständliche und übersichtliche Darstellung über alle geplanten und laufenden Projekte. Ein geeignetes Instrument zur Visualisierung ist das Portfolio-Diagramm. [^1]  
+In Unternehmen laufen oft viele Projekte gleichzeitig, was die Gefahr birgt, schnell die Übersicht zu verlieren. Jeder Fachbereich richtet das Augenmerk auf seine Projekte, wodurch viele Bereiche oft keine Kenntnis von denen anderer Bereiche im Unternehmen haben. Ebenso wenig ist bekannt, welche Ziele mit diesen verfolgt werden und in welcher Form sie zur Unternehmensstrategie beitragen. Außerdem bergen Projekte Risiken. Zur Verwirklichung von entsprechenden Vorhaben sind Ressourcen notwendig, welche nur begrenzt vorhanden sind. Dies kann wiederum zu Konflikten zwischen den verschiedenen Fachbereichen führen. [^1] Zudem sollen durch die Bündelung von Projekten und Programmen zu einem Portfolio sogenannte Synergien geschaffen werden. Dinge die auf der Einzelporjektebene übersehen werden, können von der übergeordneten Ebene des Projektportfolios aus leichter erkannt und in einen konkreten Nutzen für das Unternehmen transformiert werden. Beispielsweise können die [Lessons Learned](Lessons_Learned.md) aus einem abgeschlossenen Projekt für zukünftige genutzt werden oder das Wiederholen von Fehlern vermeiden. [^6] Das Projektportfolio gibt allen im Unternehmen tätigen Mitarbeitern und Mitarbeiterinnen, aber insbesondere der Geschäftsleitung eine verständliche und übersichtliche Darstellung über alle geplanten und laufenden Projekte. Ein geeignetes Instrument zur Visualisierung ist das Portfolio-Diagramm. [^1]  
 
 ## Portfolio-Diagramm 
 
-Im Portfolio-Diagramm werden einzelne Merkmale der Projekte miteinander in Relation gesetzt, um Gemeinsamkeiten und Unterschiede zwischen Projekten aufzuzeigen. Es liefert Erkenntnisse, ob diese freigegeben werden können, Risiken besonders abgesichert werden müssen oder weitere Ressourcen und Kompetenzen erfoderlich sind. Neben inhaltlichen Merkmalen informiert das Portfolio-Diagramm auch über weitere Merkmale, wie z.B. Zeit und Kosten. Durch den erweiterten Blick auf mehrere Faktoren wird sichtbar, welche Bedeutung ein Projekt haben kann, welche Risiken und wie komplex oder teuer es ist. Die Visualisierung hilft der Geschäftsführung bei der Bewertung von einzelnen Projekten, Prioritätenbildung und bei der Zusammensetzung der gesamten Projektlandschaft im Unternehmen. [^4] 
+Im Portfolio-Diagramm werden einzelne Merkmale der Projekte miteinander in Relation gesetzt, um Gemeinsamkeiten und Unterschiede zwischen Projekten aufzuzeigen. Es liefert Erkenntnisse, ob diese freigegeben werden können, Risiken besonders abgesichert werden müssen oder weitere Ressourcen und Kompetenzen erfoderlich sind. Neben inhaltlichen Merkmalen informiert das Portfolio-Diagramm auch über weitere Merkmale, wie z.B. Zeit und Kosten. Durch den erweiterten Blick auf mehrere Faktoren wird sichtbar, welche Bedeutung ein Projekt haben kann, welche Risiken bestehen und wie komplex oder teuer es ist. Die Visualisierung hilft der Geschäftsführung bei der Bewertung von einzelnen Projekten, der Prioritätenbildung und bei der Zusammensetzung der gesamten Projektlandschaft im Unternehmen. [^4] 
 
 ### Aufbau eines Portfolio-Diagramms:  
+
+![](Projektportfoliomanagement/Portfolio-Diagramm_final.png) 
+
+Abbildung 1: Beispielhafte Darstellung vom Aufbau eines Portfolio-Diagramms [^4]
+
 
 X-Achse: 
 - Merkmal A 
@@ -44,10 +49,6 @@ Y-Achse:
 - Einteilung Skala 
 
 Optional: weitere Faktoren, welche mit Kreisform dargestellt werden  
-
-Abbildung 1: Portfolio-Diagramm [^4]
-
-![](Projektportfoliomanagement/Portfolio-Diagramm_final.png) 
 
 ## Abgrenzung 
 
@@ -63,7 +64,7 @@ Abbildung 2: Einordnung Projektportfoliomanagement [^1]
 
 ## Klassisches Projektportfoliomanagement vs. Agiles Projektportfoliomanagement
 
-Klassisches Projektportfoliomanagement vergibt Budgets pro Jahr und setzt den Rahmen, sowie die Ziele für die Umsetzung von Projekten auf operativer Ebene. 
+Das klassische Projektportfoliomanagement vergibt Budgets pro Jahr und setzt den Rahmen, sowie die Ziele für die Umsetzung von Projekten auf operativer Ebene. 
 
 Beim agilen Projektportfoliomanagement hingegen werden Entscheidungen auf mehreren Ebenen getroffen, welche für die operative Umsetzung der Strategie sorgen. Aus diesem Grund müssen die Ebenen an der Bestimmung der Unternehmensziele mitwirken.
 
