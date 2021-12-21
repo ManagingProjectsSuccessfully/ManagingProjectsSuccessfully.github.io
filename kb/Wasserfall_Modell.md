@@ -25,10 +25,10 @@ Abschließend sieht die erste Phase des Wasserfallmodells eine Analyse der Anfor
 In der Designphase wird ein konkretes Lösungskonzept basierend auf vordefinierten Anforderungen, Aufgaben und Strategien entwickelt. In dieser Phase entwickeln Entwickler die Softwarearchitektur und den detaillierten Plan für den Aufbau der Software. Das Ergebnis der Designphase ist ein Designdokument mit einem Softwareentwicklungsplan und Testplänen für die einzelnen Komponenten.[^8]
 
 ##  3. Implementierung:
-Da wird die Softwarearchitektur, die in der Design-Phase erarbeitet wurde, in der Implementierungsphase realisiert. Zumeist kristallisieren sich in der Implementierungsphase jedoch Fehler oder nicht realisierbare Teilaufgaben heraus, die in der Entwurfsphase entstanden sind. Daher erfolgen im Regelfall häufig Rückkopplungen zwischen Entwurfs- und Implementierungsphase.
+Da wird die Softwarearchitektur, die in der Design-Phase erarbeitet wurde, in der Implementierungsphase realisiert. Zumeist kristallisieren sich in der Implementierungsphase jedoch Fehler oder nicht realisierbare Teilaufgaben heraus, die in der Entwurfsphase entstanden sind. Daher erfolgen im Regelfall häufig Rückkopplungen zwischen Entwurfs- und Implementierungsphase. Das Ergebnis der Implementierungsphase ist ein Software-Produkt, das in der Folgephase erstmals als Komplettprodukt getestet wird.[^9]
 
 ##  4. Überprüfung:
-hier wird die fertigte Produkt/Software geprüft und außerdem wird in dieser Phase die Integration auf verschieden Betriebssysteme vorgesehen. 
+In der Überprüfungsphase werden Designtests und die Integration auf verschiedenen Betriebssystemen bereitgestellt. Die nun gefundenen Fehler müssen umgehend behoben werden. Dies ist in der Regel sehr aufwendig, da die Fehler meist auf frühere Phasen zurückzuführen sind.[^10] 
 
 ##  5. Einführung und Wartung: 
 das Endprodukt wird an der Kunde geliefert und der erhält noch die Einweisung dazu. Das Projektteam wird der Kunde für zukünftige Wartungs- und Anpassungsarbeiten verantwortlich.
@@ -78,6 +78,8 @@ Das Modell bringt auch paar kritische Punkte mit wie:
 [^6]: https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
 [^7]: https://www.factro.de/blog/wasserfallmodell/
 [^8]: https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
+[^9]: https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
+[^10]: https://www.factro.de/blog/wasserfallmodell/
 * https://www.teamazing.de/was-ist-das-wasserfallmodell/
 * https://management.bildungsbibel.de/projektmanagement-wasserfallmodell-softwareentwicklung-phasen
 * https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
