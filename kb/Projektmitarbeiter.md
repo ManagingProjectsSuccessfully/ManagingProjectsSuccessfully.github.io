@@ -83,6 +83,7 @@ Bei der Personalaustattung handelt es sich um den wichtigsten Teil des Projektma
 Da das Personal den größten Kostenpunkt des Projekts ausmacht, ist eine genaue Planung hinsichtlich Personalauswahl sowie Einstellungszeitpunkt und -dauer maßgeblich.
 Kernkomponenten der Personalausstattung sind außerdem die Motivation der Mitarbeitenden und die Gewährleistung ihrer Sicherheit und ihres Wohlbefindens. Hierbei kann ein Personaleinsatzplan zur Hilfe gezogen werden. Dieser ermöglicht eine genaue Erfassung unterschiedlicher Aspekte, wodurch das Personalmanagement für das Projekt gewährleistet werden kann. [^9]
 
+
 "Staffing is the most important part of project management. It is the staff who will actually complete the project work. Staff will also consume the majority of project cost."[^9]
 
 
