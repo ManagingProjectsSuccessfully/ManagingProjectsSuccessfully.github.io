@@ -1,104 +1,68 @@
 ---
 title: Drei_Zeiten_Methode
-tags: agil klassisch
+tags: klassisch
 author: jsk0lb
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Drei_Zeiten_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Diese Arbeit setzt sich mit der Drei-Zeiten-Methode, auch 3-Punkt-Schätzung genannt, auseinander. Dabei handelt es sich um eine Schätzmethode des [Projektmanagements](Projektmanagement.md). 
+## Schätzungen in Projekten
+Schätzungen liefern immer unsichere Ergebnisse, da sie sich auf die Zukunft beziehen. „Es kann sich um eine pessimistische oder auch um eine optimistische Berechnung handeln.“[^1] Beide sind schlecht für das [Projektmanagement](Projektmanagement.md), denn bei der zu pessimistischen Variante wird der Endtermin des Projekts zu weit nach hinten geschoben, bei der zu optimistischen gerät das Projekt in Verzug. Die Terminplanung innerhalb eines Projektes ist allerdings auf gute Berechnung angewiesen. Je realistischer die Schätzung ist, umso genauer kann der Endtermin des Projekts geplant werden. Oft erhält man aber erst im Verlauf eines Projektes immer bessere Daten, mit denen die Schätzungen genauer bestimmt werden können.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Verantwortlich für die Prognose sind die [Projektleiter](Projektleiter.md). Um die [Projektplanung](Projektplanung.md) bestmöglich festzulegen, kann man für die Schätzung folgende Quellen nutzen: 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+* die Erfahrungen von Experten abfragen
+* bereits bekannte Kosten für Material und Personal planen
+* Daten aus bereits durchgeführten Projekten berücksichtigen
+## Die Drei-Zeiten-Methode
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Bei der Drei-Zeiten-Methode schätzen die Experten für jeden Vorgang drei Werte. Ein optimistischer (Best-Case), ein wahrscheinlicher (Likely-Case) und ein pessimistischer Wert (Worst-Case). Aus diesen drei Schätzwerten berechnet die Drei-Punkt-Schätzung den Erwartungswert mit Standardabweichung.[^2] Es ist häufig unklar, wann ein Szenario als Best-, Worst- oder Likely-Case-Szenario berücksichtigt werden sollte und wann es ignoriert werden darf, weil es zu unwahrscheinlich ist.[^3] 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Die Dauer des Vorgangs wird dann mit der folgenden Formel ermittelt:
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+![Beispielabbildung](Drei_Zeiten_Methode/Einzelwert_Berechnung.png)
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+*Abbildung 1: Die Einzelwertberechnung* 
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Der Schätzfehler wird durch die Formel der Standardabweichung angegeben: 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![Beispielabbildung](Drei_Zeiten_Methode/Standardabweichung.png)
 
-![Beispielabbildung](Drei_Zeiten_Methode/test-file.jpg)
+*Abbildung 2: Die Berechnung der Standardabweichung*
 
-*lustiges Testbild*
+Die Dreipunkt-Schätzung gleicht Schätzfehler aus und liefert so realistischere Werte als die Einzelwert-Schätzung. [Abbildung 3](Drei_Zeiten_Methode/Mittelwert.png) zeigt, wie der Mittelwert bei der Dreipunkt-Schätzung berechnet wird. Die Schätzwerte werden an die horizontale Achse geschrieben und die dazugehörigen Wahrscheinlichkeiten der Prognosen an die vertikale Achse. Der Verlauf der Schätzwerte ist eine Kurve. Die absolute Wahrscheinlichkeit wird durch Fläche unter der Kurve dargestellt. Das Dreieck ist eine Annäherung an die Kurve und lässt sich vereinfacht durch folgende Formel berechnen. [^1]
 
-# Aspekt 2
+![Beispielabbildung](Drei_Zeiten_Methode/Mittelwert.png)
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+*Abbildung 3: Die Mittelwertberechnung*
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+### Einsatzmöglichkeiten
 
-So kann man eine Tabelle erstellen:
+Die Schätzmethode eignet sich in frühen Projektphasen besonders gut, wenn der Leistungsumfang noch nicht eingegrenzt worden ist. Angewendet werden kann sie des weiteren für alle [Aufwands- & Kostenkontrollen](Aufwands_Kosten_Kontrolle.md). Außerdem ist sie nicht nur auf den Einsatz im [Projektmanagement](Projektmanagement.md) beschränkt. 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+### Vorteile:
+* Internationale Anerkennung in der [Projektplanung](Projektplanung.md)
+* Bezieht Erfahrungswissen in die Schätzung mit ein
+* Gibt zusätzliche Informationen über die Unsicherheit des Schätzwerts
+* Berücksichtigt die Asymmetrie von optimistischer und pessimistischer Schätzung
 
 
-# Siehe auch
+### Nachteile:
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Drei_Zeiten_Methode.md)
+* Liefert unsichere Ergebnisse bei unzureichenden Informationen
+* Die Aufgabe muss inhaltlich klar definiert werden
+* Mehrere Expertenschätzungen notwendig, um ein belastbares Ergebnis zu erzielen [^2]
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Bohinc, T. (2019). Grundlagen des Projektmanagements
+Methoden, Techniken und Tools für Projektleiter (GABAL-Verlag)](https://www.google.de/books/edition/Grundlagen_des_Projektmanagements/o53Fc1f-7g0C?hl=de&gbpv=1&printsec=frontcover)
+
+[^2]: [Niklas, C. (2017). PERT Drei-Punkt-Schätzung (Projekt Magazin)](https://www.projektmagazin.de/methoden/pert-drei-punkt-schaetzung)
+
+[^3]: [Lüth, K. (2018). Realistische Aufwandsschätzung schnell und systematisch](https://www.wiso-net.de/document/PROJ__1127854)
 

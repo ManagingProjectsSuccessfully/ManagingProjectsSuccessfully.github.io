@@ -1,104 +1,100 @@
 ---
 title: Machbarkeit
-tags: agil klassisch
+tags: agil klassisch Projektmanagement Machbarkeit Machbarkeitsstudie technisch wirtschaftlich juristisch politisch ressourcenbezogen organisatorisch Initialisierungsphase Machbarkeitsnachweis Proof-of-Concept
 author: ninaporwik
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Machbarkeit um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Machbarkeit ist ein wichtiges Entscheidungskriterium, um festzustellen, ob ein [Projekt](Projekt.md) mit den vorhandenen Mitteln durchgeführt werden kann[^1]. 
 
 
-# Aspekt 1
+# Einordnung in den Projektverlauf
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die Machbarkeit ist Bestandteil der Initialisierungsphase eines Projekts[^2].
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Die klassische Vorgehensweise in der Initialisierungsphase sind Aussagen zur Machbarkeit, zu [Risiken](Risikodimensionen.md) und zu [Stakeholdern](Stakeholdermanagement.md) zu erlangen. Dies gelingt mit Hilfe von Analysen der aktuellen Situation, mit klar vereinbarten Zielen und eindeutigen Formulierungen der Anforderungen.[^2]
 
-![Beispielabbildung](Machbarkeit/test-file.jpg)
+Wenn sich die Ziele und Anforderungen an der Grenze des Machbaren befinden, ist es sinnvoll, vor der Realisierung des Projekts, eine Machbarkeitsstudie durchzuführen. Diese minimiert die [Projektrisiken](Risikodimensionen.md) und hilft bei der effektiven Gestaltung des Projektverlaufs.[^2]
 
-*lustiges Testbild*
+Ziel der Initialisierungsphase ist das Ergebnis zu erlangen, ob ein Projekt durchgeführt werden kann und ob es einen ausreichenden Nutzen darlegt[^2].
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Machbarkeitsstudie
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Die Machbarkeitsstudie ist ein Instrument, das zur Prüfung der Machbarkeit eines Projekts eingesetzt wird[^3][^4].
 
-So kann man eine Tabelle erstellen:
+Intention, Auftrag und Ziel der Ausarbeitung einer Machbarkeitsstudie ist es, die Machbarkeit einer Projektidee nach unterschiedlichen Dimensionen zu überprüfen. Meist kommt es hierbei zur Überprüfung folgender Dimensionen[^3][^4]:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## Technische Machbarkeit
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Die technische Machbarkeit kommt je nach Projekt unterschiedlich zum Tragen. Während dieser Dimension kann entweder kontrolliert werden, ob alle für das Projekt notwendigen technischen Voraussetzungen im Unternehmen vorhanden sind oder ob die Entwicklung bestimmter Komponenten während des Projekts möglich sind.[^5]
 
-### Ebene-3-Überschrift
+Während der technischen Machbarkeitsanalyse ist es wichtig viele Gespräche mit externen und internen [Stakeholdern](Stakeholdermanagement.md) zu führen, um eine realistische Abschätzung der technischen Machbarkeit zu erlangen[^5]. 
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+## Wirtschaftliche Machbarkeit
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Die wirtschaftliche Machbarkeit prüft, ob der Nutzen des Projekts wirtschaftlich gewinnbringend ist. Dazu wird das Verhältnis zwischen Input und Output des Projekts analysiert.[^4][^6]
+
+
+## Juristische Machbarkeit
+
+Bei der juristischen Machbarkeit muss geprüft werden, ob das Projekt den Regelungen, Vorschriften und Gesetzen entspricht, die in dem jeweiligen Land gelten. Außerdem muss eine Verletzung von bestehenden Schutzrechten, wie zum Beispiel Patenten, ausgeschlossen werden.[^6] 
+
+
+## Politische Machbarkeit
+
+Die politische Machbarkeit unterteilt sich in zwei Bereiche, in die interne und die externe politische Machbarkeit[^4]. 
+
+Bei der internen politischen Machbarkeit ist zu beachten, dass das Projekt zum Unternehmen und zu dessen Zielen passt. Auch die [Stakeholder](Stakeholdermanagement.md), insbesondere die Mitarbeiter, spielen bei der internen politischen Machbarkeit eine wichtige Rolle, da von ihnen das Projekt akzeptiert und umgesetzt werden muss.[^4]
+
+Bei der externen politischen Machbarkeit wird überprüft, ob das Projekt zum aktuellen politischen Geschehen passend und realisierbar ist[^4]. 
+
+
+## Ressourcenbezogene Machbarkeit
+
+Die [ressourcenbezogene](Ressourcenplanung.md) Machbarkeitsprüfung beurteilt, ob das vorhandene Know-how der Mitarbeiter und die vorhandenen Kapazitäten im Unternehmen für das Projekt ausreichend sind[^2]. 
+
+
+## Organisatorische Machbarkeit
+
+Bei der organisatorischen Machbarkeit geht es vor allem um die Betrachtung und Anpassung der Aufbau- und Ablauforganisation des Unternehmens im Hinblick auf das Projekt[^6][^7]. 
+#
+Die Durchführung der Machbarkeitsstudie sollte mit der Überprüfung der technischen Machbarkeit beginnen, da diese einen Einfluss auf die restlichen Dimensionen hat. Anschließend folgen die juristische, politische, ressourcenbezogene und organisatorische Machbarkeit. Zum Schluss prüft man die wirtschaftliche Machbarkeit.[^4]
+
+
+In der Abbildung 1 wird ein möglicher Ablauf der Machbarkeitsstudie grafisch veranschaulicht[^4].
+
+![Abbildung 1](Machbarkeit/Machbarkeitsdimensionen.png)
+
+*Abbildung 1: Empfohlener Ablauf der Durchführung einer Machbarkeitsstudie[^4]*
+
+
+Das Gesamtergebnis einer Machbarkeitsstudie ist der Machbarkeitsnachweis, auch [Proof-of-Concept](Proof_of_Concept.md) genannt, dieser ist die Genehmigung der Durchführbarkeit eines Projekts[^3][^4].
+
+Wenn die Machbarkeit eines Projekts nach der ersten Prüfung nicht gegeben ist, können mit Hilfe einer Simulation mehrere Einflussgrößen hinsichtlich unterschiedlicherer Szenarien getestet werden. Zeigt die Simulation, dass das [Kosten-Nutzen-Verhältnis](Kosten_Nutzen_Analyse.md) nicht passend ist, wird ein Stopp des Projekts beantragt.[^2]
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Machbarkeit.md)
+* [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md)
+* [Projekt](Projekt.md)
+* [Proof-of-Concept](Proof_of_Concept.md)
+* [Ressourcenplanung](Ressourcenplanung.md)
+* [Risikodimensionen](Risikodimensionen.md)
+* [Stakeholdermanagement](Stakeholdermanagement.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: Kleer, M., Molz, J. & Weiß, J. (2018). Ausbildung im Dialogmarketing (Band 2, 5. Auflage). Köln: Bildungsverlag EINS GmbH, S. 309. 
+[^2]: Bachmann, C., Huber, E., Hubmann, M., Kuster, J., Lippmann, R., Schneider, E., Schneider, P., Witschi, U. & Wüst, R. (2019). Handbuch Projekktmanagement: Agil - Klassisch - Hybrid (4. Auflage). Berlin: Springer Gabler, S. 74-100.
+[^3]: Von Känel, S. (2020). Projekte und Projektmanagement. Wiesbaden: Springer Gabler, S. 313.
+[^4]: Köhler, C. & Mahl, T. (2021). Machbarkeitsanalyse hybrider Wertschöpfung - Ein Ansatz für die Analyse der Machbarkeit von Geschäftsmodellen hybrider Wertschöpfung im Kontext von KMU. Industrie 4.0 MANAGEMENT. 
+[^5]: Felkai, R. & Biederwieden, A. (2015). Projektmanagement für technische Projekte: Ein Leitfaden für Studium und Beruf (3. Auflage). Wiesbaden: Springer Vieweg, S. 76f.
+[^6]: Becker, J. H., Hofmann, D., Pastoors, S., Scholz, U. & Van Dun, R. (2018). Praxishandbuch Nachhaltige Produktentwicklung: Ein Leitfaden mit Tipps zur Entwicklung und Vermarktung nachhaltiger Produkte. Berlin: Springer Gabler, S. 71.
+[^7]:  Berry, G. & Shabana, K.M. (2020). Adding a strategic lens to feasibility analysis. In: New England Journal of Entrepreneurship (Vol. 23, p. 71). Central Connecticut State University.
