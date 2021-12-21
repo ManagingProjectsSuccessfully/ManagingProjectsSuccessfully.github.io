@@ -5,23 +5,24 @@ author: {ow79arux}
 anrechnung: k 
 ---
 
-Das Integrationsmanagement ist ein Teilgebiet des [Projektmanagements](https://de.wikipedia.org/wiki/Projektmanagement) und dient dazu alle Prozesse und Vorgänge, welche Teil des Projekts sind, zu koordinieren und an alle Prozessgruppen anzupassen.[^2]
+# Definition
+Das Integrationsmanagement ist ein Teilgebiet des [Projektmanagements](https://de.wikipedia.org/wiki/Projektmanagement) und dient dazu alle Prozesse und Vorgänge, welche Teil des Projekts sind, zu koordinieren und an alle Prozessgruppen anzupassen.[^1]
 
 
 # Prozesse 
-Bei erfolgreicher Anwendung des Integrationsmanagements kann erkennen, dass der Ablauf in kleine einzelne Schritte aufgeteilt ist. Es zieht sich also vom Entwickeln des Projektauftrages bis hin zur Abschließung es Projekts hin.
+Bei erfolgreicher Anwendung des Integrationsmanagements kann man erkennen, dass der Ablauf in kleine einzelne Schritte aufgeteilt ist. Es zieht sich also vom Entwickeln des Projektauftrages bis hin zum Abschluss des Projekts hin.
 
 ![image](https://user-images.githubusercontent.com/92979613/142760466-3cb71557-6d49-4938-822f-5e84b1ad5eda.png)
-(*Eigene Abbildung in Power Point erstellt auf Basis von [^1]*)
+(*Eigne Power Point Abbildung zu Prozessen[^2]*)
 
 Nach dem Entwickeln des Projektauftrags bzw. nachdem ein Auftrag für ein Projekt angenommen wurde, wird ein Projektmanagementplan entwickelt, welcher der rote Faden sein soll. Der Plan dient als Orientierung über die verschiedenen Prozesse und Tätigkeiten, die erledigt werden müssen.
 
-Darauf folgen die wichtigsten Phasen innerhalb des Integrationsmanagements. Dazu zählen das Lenken und Steuern der Projektausführung, das Verwalten des Projektwissens, das Überwachen der Projektarbeit und das Umsetzen von Änderungen des Projektplans aufgrund von Problemen und Hindernissen, die aufgrund von äußeren Umständen auftreten. Um gewisse Probleme zu umgehen oder zu lösen, ist es oft von Nöten, den Projektplan nochmal zu optimieren und den neuen Situationen anzupassen.
+Darauf folgen die wichtigsten Phasen innerhalb des Integrationsmanagements. Dazu zählen das Lenken und Steuern der Projektausführung, das Verwalten des Projektwissens, das Überwachen der Projektarbeit und das Umsetzen von Änderungen des Projektplans aufgrund von Problemen und Hindernissen und äußeren Umständen auftreten. Um gewisse Probleme zu umgehen oder zu lösen, ist es oft von Nöten, den Projektplan nochmal zu optimieren und den neuen Situationen anzupassen.
 
 Bei jedem Projekt kommt es zu Problemen und Hindernissen, die es zu überwältigen gilt. Deshalb ist es wichtig stets alle Entscheidungen und deren Folgen für ein Projekt zu verstehen, um so den maximalen Erfolg für ein Projekt garantieren zu können.[^1]
 
 
-# Kommunikation
+# Kommunikation innerhalb der Projektplanung
 
 Auch die [Kommunikation]({Projektkommunikation}.md) spielt hierbei eine tragende Rolle. Ein stetiger Austausch über Ziele oder eine Veränderung des Projektplans sind essenziell. Bei jedem Projekt kommt es zu exogenen Einflüssen, die den geplanten Verlauf oder die Verwendung von speziellen Ressourcen verändern. Um diesen Problemen so früh wie möglich entgegenzuwirken, ist die ständige Weitergabe von Informationen die beste Methode. So besteht die Chance eine Problematik schnellstmöglich zu erkennen und Lösungen zu finden. Auch wird so die Abstimmung über die Wünsche der Kunden oder die Qualitätsansprüche, die sich im Laufe des Projekts nochmals ändern könnten, ermöglicht. 
 
@@ -36,7 +37,7 @@ Da sich im Integrationsmanagement alles um die Organisation und die Steuerung ei
 
 ## Aufgaben
 
-Der Projektleiter hat die Aufgabe das Projekt zu leiten und erfolgreich zum Abschluss zu bringen. Das heißt er kümmert sich in der Vorbereitungsphase um den Projektplan, die Termine, den Ablauf und stellt das ganze Team zusammen. Während der Projektdurchführung geht es vor allem um die Überwachung des Projektablaufs. Dazu zählen zum Bespiel die Absprache mit Kunden, die Einhaltung von Terminen und Budget oder Motivation des Teams. In der Abschlussphase muss nachkalkuliert werden oder Abschlussbericht erstellt werden. Gegebenenfalls wird dem Kunden das Projekt noch präsentiert.[^5]
+Der Projektleiter hat die Aufgabe das Projekt zu leiten und erfolgreich zum Abschluss zu bringen. Das heißt er kümmert sich in der Vorbereitungsphase um den Projektplan, die Termine, den Ablauf und stellt das ganze Team zusammen. Während der Projektdurchführung geht es vor allem um die Überwachung des Projektablaufs. Dazu zählen zum Bespiel die Absprache mit Kunden, die Einhaltung von Terminen und Budget oder Motivation des Teams. In der Abschlussphase muss nachkalkuliert werden oder der Abschlussbericht erstellt werden. Gegebenenfalls wird dem Kunden das Projekt noch präsentiert.[^5]
 
 ## Soft skills
 
@@ -64,8 +65,9 @@ Um eine solch tragende Rolle erfolgreich erfüllen zu können ist es wichtig, al
 
 # Quellen
 
-[^1]: https://www.wrike.com/de/project-management-guide/faq/was-ist-integrationsmanagement-bei-projekten/
-[^2]: http://projektmanagement-definitionen.de/glossar/integrationsmanagement-in-projekten/
-[^3]: https://de.wikipedia.org/wiki/Integrationsmanagement
-[^4]: https://de.wikipedia.org/wiki/Projektleiter#:~:text=Der%20Projektleiter%20ist%20f%C3%BCr%20die,im%20Rahmen%20des%20Projekts%20zust%C3%A4ndig.
-[^5]: https://refa.de/berufe/projektleiter
+[^1]: [Beschreibung Integrationsmanagement](https://www.wrike.com/de/project-management-guide/faq/was-ist-integrationsmanagement-bei-projekten/)
+[^2]: [Ablauf Prozesse](http://projektmanagement-definitionen.de/glossar/integrationsmanagement-in-projekten/)
+[^3]: [Integrationsmanagement](https://de.wikipedia.org/wiki/Integrationsmanagement)
+[^4]: [Projektleiter](https://de.wikipedia.org/wiki/Projektleiter#:~:text=Der%20Projektleiter%20ist%20f%C3%BCr%20die,im%20Rahmen%20des%20Projekts%20zust%C3%A4ndig.)
+[^5]: [Aufgaben Projektleiter](https://refa.de/berufe/projektleiter)
+[^6]: [Soft skills](https://www.jobteaser.com/de/advices/420-soft-skills-vs-hard-skills-was-ist-der-unterschied)
