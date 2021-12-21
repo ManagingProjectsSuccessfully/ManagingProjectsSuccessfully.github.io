@@ -28,7 +28,7 @@ Die externen Umweltrisiken treten als Folge von Naturkatastrophen und Umweltänd
 
 ![Interne und Externe Risiken](Risikobewertung_von_Umweltrisiken/interne_externe_Risiken.PNG)
 
-## Identifizierung und Bewertung von Umweltrisiken
+## Identifizierung und Bewertung von Umweltrisiken beim Projektmanagement 
 
 Die Bewertung von Umweltrisiken, sowie die Planung von Gegenmaßnahmen, ist ein wichtiger Teil der Entwicklung und des [Managements von Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) in Unternehmen. 
 Der erste Schritt ist die Erkennung und Erfassung von potenziellen Risiken. Mithilfe der Analyse von Prozessabläufen, technischer Kontrolle von Maschinen und Anlagen, sowie Auswertung von Daten, die in der Produktion anfallen, können wichtige Erkenntnisse über interne Schwachstellen gewonnen werden. Die Befragung von externen Experten und Mitarbeiten kann ebenfalls relevante Informationen liefern. 
