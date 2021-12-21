@@ -7,10 +7,10 @@ anrechnung: k
 
 # Definition
 
-Den Projektfortschritt im Blick zu halten ist für die [Projektsteuerung](Projektsteuerung.md) von hoher Bedeutung. 
+Den Projektfortschritt im Blick zu halten ist für ein [Projekt](Projekt.md) von hoher Bedeutung. 
 Um diesen zu kontrollieren kann eine Earned Value Analyse (EVA), auch Earned Value Management genannt, herangezogen werden.
 Anhand von Plan- und Ist-Daten werden Kennzahlen berechnet, die den Earned Value (Fertigstellungswert) beschreiben. 
-Diese Daten beziehen sich auf Kosten, Zeit und Leistungsumfang, also dem [magischen Dreieck](Magisches_Dreieck.md).
+Diese Daten beziehen sich auf Kosten, Zeit und [Leistungsumfang](Projektumfang.md), also dem [magischen Dreieck](Magisches_Dreieck.md).
 Der Fertigstellungswert kann zur Überwachung der Termintreue, der Kostentreue sowie zur Prognose von Gesamtkosten und Endtermin herangezogen werden. 
 Anhand dessen kann der [Erfolg gemessen](Erfolgsmessung.md) werden und es resultiert bei Nichterfüllung ein Frühwarnsystem, wodurch das Projekt gesteuert und angepasst werden kann. [^1]
 
@@ -64,15 +64,16 @@ In dieser Abbildung ist der Ist-Aufwand geringer als der Plan-Aufwand, weswegen 
 ### Kosten- und Terminvarianzindex
 Die Kosten und Terminvarianz beschreiben die Abweichungen des Istwertes von dem Planwert.
 Die Kostenvarianz gibt also an, ob in einem Projekt mehr oder weniger Kosten anfallen als geplant und die Terminvarianz beschreibt die Einhaltung des Zeitplanes. 
-Anhand dessen können Prognosen für die Gesamtkosten und Gesamtdauer abgeleitet das weitere Vorgehen entschieden werden. [^5]
+Anhand dessen können in der [Projektsteuerung](Projektsteuerung.md) Prognosen für die Gesamtkosten und Gesamtdauer abgeleitet das weitere Vorgehen entschieden werden. [^5]
 
 # Siehe auch
-* [Projektsteuerung](Projektsteuerung.md)
+* [Projekt](Projekt.md)
 * [magisches Dreieck](Magisches_Dreieck.md)
 * [Erfolgsmessung](Erfolgsmessung.md)
+* [Projektsteuerung](Projektsteuerung.md)
 
 # Weiterführende Links
-* [Beispiele zur Berechnung der VEA](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/earned-value-analyse/)
+* [Beispiele zur Berechnung der EVA](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/earned-value-analyse/)
 * [Earned Value Analyse Wikipedia](https://de.wikipedia.org/wiki/Earned_Value_Analysis)
 
 # Quellen
@@ -81,3 +82,4 @@ Anhand dessen können Prognosen für die Gesamtkosten und Gesamtdauer abgeleitet
 [^3]: [Earned Value Analyse. Projektcontrolling mit dem Fertigstellungswert.](https://www.microtool.de/wissen-online/was-ist-die-earned-value-analyse/)
 [^4]: [Earned Value Management - einfach erklärt](https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html)
 [^5]: [Die Earned-Value-Analyse einfach erklärt](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/earned-value-analyse)
+
