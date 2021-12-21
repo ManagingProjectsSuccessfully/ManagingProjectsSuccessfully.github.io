@@ -6,12 +6,12 @@ anrechnung: a
 ---
 
 # User Stories
-Bei Scrum erstellt der [Product Owner](Product_Owner.md) einen [Product Backlog](Product_Backlog.md), einer Liste von Aufgaben, die in Form von User Stories wiedergegeben werden. 
+Bei [Scrum](SCRUM.md) erstellt der [Product Owner](Product_Owner.md) einen [Product Backlog](Product_Backlog.md), einer Liste von Aufgaben, die in Form von [User Stories](User_Story.md) wiedergegeben werden. 
 Diese werden vom Product Owner nach Prioritäten unterteilet. 
 Gemeinsam mit dem Scrum-Team wird der Arbeitsaufwand für die einzelnen Aufgaben ermittelt, anhand dessen der ROI (Return on Investment = Kapitalrendite) und anschließend die weitere Priorisierung. [^1]
 
 ## Aufbau User Story
-Eine [User Story](User_Story.md) ist also die Beschreibung (Story) eines Benutzers (User) und dessen Anforderungen. 
+Eine User Story ist also die Beschreibung (Story) eines Benutzers (User) und dessen Anforderungen. 
 In wenigen Sätzen wird dort beschrieben, was ein Benutzer mit dem zu entwickelnden Produkt oder der Software machen will. 
 Dabei ist der Aufbau der Formulierung wichtig, welcher wie folgt aussieht: 
 
@@ -72,12 +72,15 @@ Diese Eigenschaft ist deshalb zwingend zu gewährleisten. [^5]
 
 
 # Siehe auch
+* [Scrum](SCRUM.md)
 * [Product Owner](Product_Owner.md)
 * [Product Backlog](Product_Backlog.md)
 * [User Story](User_Story.md)
+* [Definition of Done](Definition_of_Done.md)
 
 # Weiterführende Links
 * [User Story Wikipedia](https://de.wikipedia.org/wiki/User_Story)
+* [Scrum Wikipedia](https://de.wikipedia.org/wiki/Scrum#Product_Backlog)
 
 # Quellen
 [^1]: [Product Backlog](https://scrumguide.de/product-backlog/)
