@@ -20,6 +20,7 @@ Viele Begriffe und Verfahrensweisen im Projektmanagement sind etabliert und stan
 
 Durch [Open source](Open_Source_Projekte.md) Java [Projekte](Projekt.md) (Tools) kann man verschiedene Aspekte eines Projekts steuern, planen usw. In Diesem Artikel kann man ein paar Tools und deren Umsetzung kennenlernen.
 
+![PMToolsabbildung](Java_PM_Tool/PMTools.png)
 
 ## Projektplanen & Verfolgung
 
@@ -76,6 +77,8 @@ Außerdem ist ein kommerzieller Kollaborationsdienst, GanttProject Cloud, in Gan
 Das **Plandora-Projekt** wurde als Werkzeug zur Unterstützung des **Softwareentwicklungsprozesses** von der Kundenanforderung bis zum Abschluss der Aufgabe und somit zur Erfassung der "Geschichte" eines Projekts entwickelt. Das Plandora-System kann für Teams nützlich sein, die Probleme mit Ressourcenengpässen, parallelen Projekten, kritischen Terminen, der Notwendigkeit der Dokumentation des Umfangs von Aufgaben und Anforderungen usw. haben.[^6]
 ### Zeitverfolgung
 Mit **Baralga** können Sie den Überblick über die Zeit behalten, die Sie für verschiedene Projekte aufwenden. Sie können die Projekte, an denen Sie arbeiten, aufzeichnen, oder Sie können Projektaktivitäten manuell eingeben und bearbeiten. So können Sie sich leicht merken, wann und wie lange Sie an jedem Projekt gearbeitet haben.[^7]
+
+# Fazit
 
 
 # Verlinkungen zu angrenzenden Themen
