@@ -22,14 +22,14 @@ Das Qualitätsmanagement ist außerdem eine wichtige Wissenssparte des [PMBOK](P
 
 # Ablauf des Qualitätsmanagements
 ## Die vier Phasen des klassichen Qualitätsmanagements
-* Phase 1: Qualitätsplanung
-  - In dieser Phase wird die vorliegende Situation zunächst analysiert, erste Abläufe werden erstellt und Qualitätsziele festgelegt. Dies geschieht unter Berücksichtigung der vorliegenden Ressourcen und der für das Projekt notwendigen Prozesse.
-* Phase 2: Qualitätslenkung
-  - Die vorher bestimmten Maßnahmen werden nun umgesetzt und überwacht. Bei Abweichungen werden Regulierungen vorgenommen.
-* Phase 3: [Qualitätssicherung](Qualitaetssicherung.md) / Qualitätskontrolle
-  - Die Ergebnisse werden ausgewertet und schriftlich dokumentiert. Dieser Vorgang dient der Kontrolle der anfangs festgelegten Ziele und der Aufdeckung von Fehlern.
-* Phase 4: Qualitätsgewinn
-  - In der letzten Phase werden die gewonnenen Erkenntnisse genutzt um gegen Abweichungen vorzugehen und Prozesse zu verbessern. Dafür ist ein Austausch der Ergebnisse mit Mitarbeitern und Kunden erforderlich[^6][^7]
+### Phase 1: Qualitätsplanung
+* In dieser Phase wird die vorliegende Situation zunächst analysiert, erste Abläufe werden erstellt und Qualitätsziele festgelegt. Dies geschieht unter Berücksichtigung der vorliegenden Ressourcen und der für das Projekt notwendigen Prozesse.
+### Phase 2: Qualitätslenkung
+* Die vorher bestimmten Maßnahmen werden nun umgesetzt und überwacht. Bei Abweichungen werden Regulierungen vorgenommen.
+### Phase 3: [Qualitätssicherung](Qualitaetssicherung.md) / Qualitätskontrolle
+* Die Ergebnisse werden ausgewertet und schriftlich dokumentiert. Dieser Vorgang dient der Kontrolle der anfangs festgelegten Ziele und der Aufdeckung von Fehlern.
+### Phase 4: Qualitätsgewinn
+* In der letzten Phase werden die gewonnenen Erkenntnisse genutzt um gegen Abweichungen vorzugehen und Prozesse zu verbessern. Dafür ist ein Austausch der Ergebnisse mit Mitarbeitern und Kunden erforderlich[^6][^7]
 
 ![PDCA-Prozess](Qualitaetsmanagement/pdca-new.png)
 
@@ -41,6 +41,9 @@ Es dient zur Fehlereliminierung in allen Bereichen eines Projektes oder einer Or
 Im Gegensatz zum Total Quality Management, welches eher eine auf die lange Frist ausgerichtete Methode ist, konzentriert sich Six Sigma auf die Implementierung kleiner, notwendiger Veränderungen, um die Qualität zu steigern und Fehler zu minimieren. Deshalb ist dieses Modell in der Praxis auch etwas komplizierter, als das TQM[^11].
 ## EFQM
 Ziel des EFQM-Modells ist es einen europäischen Ansatz für das Qualitätsmanagement zu schaffen[^12]. Es basiert auf drei grundlegenden Fragen, nach welchen ein Unternehmen sein Qualitätsmanagement gestalten sollte. Zentral sind hierbei der Unternehmensgegenstand, die Strategie, mit der es diesen verwirklichen will und die Resultate, die das Unternehmen bisher erzielt hat und zu erzielen plant[^13].
+
+# Vorteile des Qualitätsmanagements
+Der tatsächlich zu erwartende Nutzen des Qualitätsmanagements lässt sich in die Kategorien Zeit, Geld und Qualität aufteilen. Dazu zählt zum einen die Verbesserung der Qualität im Allgemeinen, welche durch die Standardisierung von Abläufen und eine gemeinsame "Qualitätskultur" zustande kommt. Dadurch fällt es Unternehmen leichter, Kosten zu senken, da es im Prozess zu weniger Fehlern kommt, und zugleich ihren Ertrag durch höhere Kundenzufriedenheit zu steigern. Außerdem wird durch die Dokumentation der Ergebnisse aus dem Qualitätsmanagement sichergestellt, dass kein erarbeitetes Wissen verloren geht, was zu einem guten Wissensmanagement beiträgt und die Einarbeitung neuer Mitarbeiter erleichtert.[^14]
 
 # Nachteile des Qualitätsmanagements
 Trotz seiner vielen Vorteile bringt das Qualitätsmanagement auch Belastungen mit sich. Diese sind vor allem die verursachten Kosten, bei denen zwischen Kosten durch die Nicht-Erfüllung der Qualitätsansprüche und Kosten für die Sicherstellung der Qualität unterschieden werden kann. Zudem spielt hier auch der zeitliche Aufwand eine wichtige Rolle[^2].
@@ -72,5 +75,6 @@ Trotz seiner vielen Vorteile bringt das Qualitätsmanagement auch Belastungen mi
 [^11]: [Comparison of Six Sigma and Total Quality Management](https://www.managementstudyguide.com/six-sigma-and-total-quality-management.htm), abgerufen am 18.11.2021
 [^12]: [TQM](https://keytodata.com/glossar/tqm/), abgerufen am 18.11.2021
 [^13]: [The EFQM Model](https://www.efqm.org/efqm-model), abgerufen am 18.11.2021
+[^14]: [12 Vorteile eines Qualitätsmanagementsystems](https://www.loesungsfabrik.de/vorteile-qualitaetsmanagement), abgerufen am 21.12.2021
 
 
