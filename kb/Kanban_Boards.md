@@ -1,58 +1,56 @@
 ---
 title: Kanban_Boards
-tags: agil klassisch
+tags: klassisch
 author: leusl8
 anrechnung: k
 ---
 
 
-Effizienter und produktiver arbeiten durch Kanban Boards. Das Tool zur Visualisierung, Strukturierung und Verbesserung des Workflows.
+Agiler arbeiten durch Kanban Boards. Das Tool zur Visualisierung, Strukturierung und Verbesserung des Workflows.
 
 
 
 # Was ist ein Kanban Board?
 
-[Kanban](kanban.md) kommt aus dem Japaischen und bedeutet "Signal" "Karte". [^1]
-Das Kanban Bord mit seinen [Kanban Karten](Kanban_Karten.md), ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus verschiedener Prozessabläufe gibt,
-um schnell Problemstellen eines Arbeitsflusses aufzudecken und die Kommunikation im Team erleichtert.
-Als Schlüsselelement der Kanban Methode, trägt ein Kanban Board zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses bei, mit dem Ziel der [Lean Produktion](Lean_Projektmanagement.md).
+[Kanban](kanban.md) kommt aus dem japanischen und bedeutet "Signal-Karte". [^1]
+Das Kanban Bord mit seinen [Kanban Karten](Kanban_Karten.md) ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus verschiedener Prozessabläufe gibt.
+So können Problemstellen eines Arbeitsflusses schneller aufgedeckt und die Kommunikation im Team erleichtert werden.
+Mit dem Ziel der [Lean Produktion](Lean_Projektmanagement.md) trägt ein Kanban Board als Schlüsselelement zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses bei. 
 
 
 
 # Wie funktioniert ein Kanban Board?
 
-Ursprünglich handelt es sich um ein Whiteboard, das in Spalten und [Swimlanes](Kanban_Swim_Lanes.md) aufgeteilt wurde.
-Jede Spalte stellt eine Prozessphase dar, Swimlanes die verschiedenen Aufgabenbereiche der Aktivitäten.[^2]
-Wenn eine Aufgabe in Ihren Arbeitsfluss gelangt, wird sie auf einer Kanban Karte platziert, die jede Spalte von Links nacht Rechts des Boards durchläuft.
-Eine Kanban Karte enthält Informationen über die Aufgabe und deren Status, darunter eine Aufgabenübersicht, den Verantwortlichen, die Frist etc.[^3]
-
+Ursprünglich handelt es sich um ein Whiteboard, das in Spalten und [Swimlanes](Kanban_Swim_Lanes.md) aufgeteilt wird.
+Jede Spalte stellt eine Prozessphase dar, während die Swimlanes die aufeinanderfolgenden Arbeitsschritte abbilden.[^2]
+Zu Beginn des Arbeitsflusses wird jede Aufgabe auf einer Kanban Karte platziert und durchläuft anschließend das Kanban Board von links nach rechts.
+Eine Karte enthält Informationen zu dem jeweiligen Thema wie zum Beispiel eine Aufgabenübersicht, die Verantwortlichen und die Frist.[^3]
+So kann ein Team durch die verschiedenen Phasen eines Workflows geleitet werden. 
 
 <img width="449" alt="Bildschirmfoto 2021-11-24 um 15 19 24" src="https://user-images.githubusercontent.com/92926914/143255407-b53e3b4a-215b-4404-b232-4e3965b4f98d.png"> [^4]
 
-
 *Kanban Board Bestandteile*
 
-Sie ermöglichen Teams einen klaren Überblick über alle Arbeitselemente und steuern sie über die verschiedenen Phasen ihres Workflows.
 
 
 
 # Was braucht man um ein Kanban Board zu erstellen?
 
-Je nach Prozess kann das Board unterschiedlich aufgebaut werden. [^5]
+## Schritt 1: Ebene bestimmen
 
-## Schritt 1: Flughöhe bestimmen
+Je nach Komplexität des Prozesses kann das Board verschiedene Ebenen aufweisen. [^5]
 
-* Level 3 - Strategischer Überblick: Statusabbildung ganzer Projekte 
-* Level 2 - Koordination: Verteilung der Arbeitselemente im gesamten Team
-* Level 1 - Operative Ebene Bsp: Alltägliche To Do's und individuelle Aufgaben
+* Operative Ebene: Alltägliche To Do's und individuelle Aufgaben
+* Koordinative Ebene: Verteilung der Arbeitselemente im gesamten Team
+* Strategischer Überblick: Statusabbildung ganzer Projekte 
 
 
 ## Schritt 2: Befüllen des Boards
 
-Das Kanban Board wird mit allen Aufgaben befüllt, an denen das Team gerade arbeitet.
-Im Klassischen Modell gibt es 3 Spalten:
+Das Kanban Board wird mit allen relevanten Aufgaben befüllt.
+Das klassische Modell beinhaltet 3 Spalten:
 
-* Zu Erledigen     
+* Zu erledigen     
 * In Arbeit         
 * Erledigt          
 
@@ -61,23 +59,23 @@ Im Klassischen Modell gibt es 3 Spalten:
 *Klassisches Kanban Board*
 
 
-- Zu Erledigen:     In diese Spalte wird eingetragen, welche Aufgaben noch nicht begonnen wurden aber geplant sind.
+- Zu erledigen:     Geplante Aufgaben, die noch nicht begonnen wurden.
 
-- In Arbeit:        Hier finden sich alle Aufgaben wider, die derzeit bearbeitet werden.
+- In Arbeit:        Aufgaben, die derzeit bearbeitet werden.
 
 - Erledigt:         Aufgaben, die fertig gestellt wurden.
 
 
 ## Schritt 3: Status der Aufgaben sichtbar machen
 
-Durch bewegen der Karten von TO DO zu IN PROGRESS wird der aktuelle Zustand, dass diese Aufgabe in arbeit ist für alle Sichtbar. 
-Ist eine Aufgabe erledigt, wandert diese Karte zu DONE. Damit wird direkt veranschaulicht, dass diese Karte und Aufgabe beendet ist. 
-Somit wanderen die Karten über die zeit immer von links nacht rechts und bilden immer aktuellen Status der jeweiligen Aufgaben ab.
+Durch Bewegen der Karten von TO DO zu IN PROGRESS wird der aktuelle Stand, dass diese Aufgabe in Arbeit ist, für alle sichtbar. 
+Zur Veranschaulichung, dass eine Aufgabe erledigt ist, wandert die entsprechende Karte zu DONE.
+Somit wandern die Karten im fortlaufenden Prozess stets weiter von links nach rechts.
 
 
 ## Schritt 4: Erweitern
 
-Durch das einfache Design des Boards kann es schnell unübersichtlich werden, deshalb muss man es erweitern und an die individuellen Prozessschritte anpassen.
+Durch das einfache Design des Boards kann es schnell unübersichtlich werden, deshalb muss es erweitert und an individuellen Prozessschritte angepasst werden.
 
 * Einführen neuer Spalten, die den Arbeitsprozess im Team besser abbilden.
   - Bsp. statt In Progress jetzt: Konzept, Umsetzung, Prüfung
@@ -89,23 +87,23 @@ Man erkennt schnell, dass nicht alle Aufgaben den gleichen Prozessschritten folg
 
 * Einfügen verschiedener Symbole. Somit kann man zwischen wiederkehrenden und einmaligen Aufgaben unterscheiden.
 
-* Einfügen einer Fast Lane. Sie wird für Aufgaben besonderer Priorität, die schnell abgearbeitet werden müssen angelegt.
+* Einfügen einer Fast Lane. Sie wird für Aufgaben besonderer Priorität, die schnell abgearbeitet werden müssen, angelegt.
 
 
 
-Mittels den vorherigen 4 Schritten, ist das Taskboard angelegt und man kann schon jetzt mit einem Blick sehen, wo Probleme mit dem Arbeitsflusst existieren.
+Mittels den vorherigen 4 Schritten ist das Taskboard angelegt und man es ist unmittelbar ersichtlich, wo Probleme in dem Arbeitsfluss existieren.
 
 
 
-# Prinzipien von Kanban angewendet auf das Kanban Board [^7]
+# Prinzipien von Kanban auf das Kanban Board angewendet [^7]
 
 
 
 
-|   Prinzipien von Kanban angewendet auf das Kanban Board | 
+|   Prinzipien von Kanban auf das Kanban Board angewendet | 
 | -----------------------------------------------------------
-| 1.    Visualsisiere den Fluss des Arbeit                | 
-| 2.    Messen und Steuerung des Flusses                  |
+| 1.    Visualisiere den Fluss der Arbeit                | 
+| 2.    Messung und Steuerung des Flusses                  |
 | 3.    Pull statt Push                                   |
 | 4.    Limitiere die Menge angefangener Arbeit           |
 | 5.    Kommunikation                                     |
@@ -116,8 +114,8 @@ Mittels den vorherigen 4 Schritten, ist das Taskboard angelegt und man kann scho
 # Beispiele von Kanban Boards [^8]
 
 Durch die Beliebtheit der Kanban Boards findet man sie heutzutage nahezu überall.
-Häufig um Geschäftsprozesse abzubilden oder dem organisieren privater Aufgaben.
-Sie unterscheiden sich in der Struktur durch ihre zunehmenden Spalten und Reihen, anhand dessen die Komplexitäten der unterschiedlichsten Prozesse aufgezeigt werden.[^9]
+Häufig um Geschäftsprozesse abzubilden oder zur Organisation privater Aufgaben.
+Sie unterscheiden sich ledichlich in ihrer Komplexität.[^9]
 
 * Digitales Board 
 
