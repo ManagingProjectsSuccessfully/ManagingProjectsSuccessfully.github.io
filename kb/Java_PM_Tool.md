@@ -54,7 +54,7 @@ Die Merkmale des Tools sind:
 * XML-Datenbank Export/Import
 * EXCEL-Export
 
-Activity Manager ermöglicht den Aufbau und die Pflege eines hierarchischen Aufgabenbaums. Mit Hilfe eines sehr einfaches Datenbankmodells, ist es möglich, schnell benutzerdefinierte Berichte über die Berichtsfunktion oder über einfache SQL-Anfragen zu erstellen.[^4]
+Activity Manager ermöglicht den Aufbau und die Pflege eines hierarchischen Aufgabenbaums. Mit Hilfe eines sehr einfachen Datenbankmodells, ist es möglich, schnell benutzerdefinierte Berichte über die Berichtsfunktion oder über einfache SQL-Anfragen zu erstellen.[^4]
 ## Auswertung & Prognosen
 **GanttProject** ist ein kostenloses und einfach zu bedienendes, auf Gantt-Diagrammen basierendes Werkzeug zur Projektplanung und -auswertung.
 
