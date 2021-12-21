@@ -52,7 +52,7 @@ Ein negativer Aspekt ist jedoch der schleppende Netzausbau. [^3]
 ![Derzeitiger Stand](https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_bdcc5b1633.png)[^6]
 
 # Kritik
-Bereits im Jahr 2013 kritisierten viele Experten, dass Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^8]
+Bereits im Jahr 2013 kritisierten viele Experten, dass der Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^8]
 PM (Gesellschaft für Projektmanagement e.V.) begründet das Scheitern u.a. mit einer unklaren Formulierung von Projektzielen, einer fehlenden oder ungenügenden Machbarkeitsstudie und der mangelnden Einbindung des späteren Nutzers in die Zielformulierung.[^9]
 
 # Expertise
