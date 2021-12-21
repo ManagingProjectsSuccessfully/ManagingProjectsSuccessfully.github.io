@@ -1,6 +1,6 @@
 ---
 title: Projekt_Offshoring
-tags: agil 
+tags: agil Offshoring Nearshoring Farshoring Onshoring Globalisierung Projektteams Arbeitskräfte Projektkommunikation 
 author: MarleneMMeyer
 anrechnung: a
 ---
@@ -17,7 +17,7 @@ Offshoring beschreibt die Auslagerung betrieblicher Aktivitäten ins Ausland, um
 Das Hauptziel des Offshoring ist die Reduktion der Kosten.[^1] Durch die Verlagerung einzelner Teilgebiete, ganzer Abteilungen oder Standorte in Schwellenländer mit niedrigeren Löhnen kann das Unternehmen Lohnkosten einsparen und die eigenen [Arbeitskräfte](Projektmitarbeiter.md) entlasten.[^3] Die Bildung [internationaler Projektteams](Internationale_Projektteams.md) ist in der globalen Wirtschaft die Norm. Die im Ausland ansässigen gut qualifizierten Arbeitskräfte sorgen trotz geringerer Gehälter für eine hohe Qualität der Produkte. Außerdem führt die Produktion in anderen Ländern zur Erschließung weitere Absatzmärkte. Neben diesen betriebswirtschaftlichen Gründen gibt es auch politisch-rechtliche Aspekte die für das Offshoring sprechen. Hierzu zählen beispielsweise die in Schwellenländern vorherrschenden niedrigen Umweltstandards und Arbeitnehmerrechte, die die Produktion deutlich vereinfachen. Kürzere Absatzwege und die damit verbundenen niedrigeren Transportkosten zählen zu den technisch-logischen Motiven. Subventionen, Sonderwirtschaftszonen und Steuererleichterungen sorgen für steuerrechtliche Vorteile für die ausländischen Unternehmen.[^3]
 
 
-# [Projekte](Projekt.md) und Projektbereiche in denen Offshoring betrieben wird
+# Projekte und Projektbereiche in denen Offshoring betrieben wird
 
 Im Bereich der Software-Entwicklung „werden vielfach Tätigkeiten der Programmierung und Wartung, aber auch des Programm- und Systementwurfs ins Ausland verlagert“.[^13] Konzerne wie IBM, Microsoft und SAP lagern ihre IT-Anwendungsentwicklung in Länder wie beispielsweise Indien oder China aus. Doch nicht nur IT-Dienstleistungen werden ins Ausland verlagert, sondern auch Lektoratstätigkeiten sowie E-Learning-Produktionen. Die Arbeitskräfte in diesen Ländern sind meist genauso qualifiziert und erfahren wie die eigenen Mitarbeiter jedoch sorgt das hier vorherrschende niedrigere Lohnniveau für eine deutliche Kostenersparnis.[^2]
 
