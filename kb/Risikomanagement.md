@@ -46,16 +46,16 @@ Seit 2008 gilt die internationale Norm ISO 31000 Risiko Management als weltweit 
 
 Bsp.: SWOT-Analyse
 
-Sie dient der besseren Einschätzung der eigenen Situation im Hinblick auf S=Strenghts, W=Weaknesses, O=Opportunities und T=Threats. Dabei wird die Konkurrenz analysiert und die Ergebnisse als Chancen-Risiken-Katalog zusammengestellt und anschließend in Relation zum internen Profil des Unternehmens gesetzt.
+Sie dient der besseren Einschätzung der eigenen Situation im Hinblick auf S=Strenghts, W=Weaknesses, O=Opportunities und T=Threats. Dabei wird die Konkurrenz analysiert und die Ergebnisse werden als Chancen-Risiken-Katalog zusammengestellt und anschließend in Relation zum internen Profil des Unternehmens gesetzt.
 Dann werden die Überschneidungen zwischen externen und internen Bereichen erfasst und in einer SWOT-Matrix dargestellt, welche die ausbaufähigen Chancen und abzusichernden Risiken zeigt.
 
 ## 4.2 Risikobewertung
 
-- Bewertung anhand Schadensausmaß (1=geringfügiges Ausmaß; 10= existenzgefährdend) und Eintrittswahrscheinlichkeit (1=unwahrscheinlich, 10= sehr wahrscheinlich) z.B. auf einer Skala von 1 bis 10, kann aber auch anders kategorisiert werden (siehe Graphik)
+- Bewertung anhand Schadensausmaß (1=geringfügiges Ausmaß; 10= existenzgefährdend) und Eintrittswahrscheinlichkeit (1=unwahrscheinlich; 10= sehr wahrscheinlich) z.B. auf einer Skala von 1 bis 10, kann aber auch anders kategorisiert werden (siehe Graphik)
 - Schadensausmaß * Eintrittswahrscheinlichkeit = Schadenserwartungswert
 - Risikodiagramm anfertigen, welches auf der X-Achse die Wahrscheinlichkeit und auf der Y-Achse das Ausmaß zeigt
 - Risiken mittels ermittelten Schadenswert in [Risikomatrix](Risikomatrix.md) eintragen
-somit: visualisierte Darstellung von Rangfolge und Handlungsbedarf der Risiken 
+- somit: visualisierte Darstellung von Rangfolge und Handlungsbedarf der Risiken 
 
 ![Risikomatrix](Risikomanagement/Risikomatrix.jpg)
 
@@ -108,4 +108,4 @@ Ob im [Projektmanagement](Projektmanagement.md), Compliance oder Hedging – die
 [^5]: [ISO 31 000](https://www.risikomanagement-wissen.de/risikomanagement/risikomanagement-einfuehrung/iso_31000/)
 [^6]: [Arten von Risiken](https://sevdesk.de/blog/risikomanagement/#ziele)
 [^7]: [Ablauf Risikomanagement](https://sevdesk.de/blog/risikomanagement/#definition)
-[^8]: [relevante Bereiche des Risikomanagements](https://wirtschaftslexikon.gabler.de/sites/default/files/graph/extended/risikomanagement-42454.png)
+[^8]: [Relevante Bereiche des Risikomanagements](https://wirtschaftslexikon.gabler.de/sites/default/files/graph/extended/risikomanagement-42454.png)
