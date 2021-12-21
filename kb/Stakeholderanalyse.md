@@ -63,6 +63,13 @@ Ein zusätzlich oft genutztes Tool ist die Macht/Interesse-Matrix nach Johnson/S
 
 Nach dem Abschluss des Projekts sollte eine Kontrolle der Zielerreichung gemacht werden. Hierbei stellt sich vor allem die Frage, wie zuverlässig die [Stakeholderanalyse](Stakeholderanalyse.md) funktioniert hat. Dadurch kann aus den Erfahrungen für zukünftige Projekte gelernt werden. Die Wichtigkeit dieser Analyse sollte nicht unterschätzt werden. Die Stakeholder tragen eine wichtige Rolle im Verlauf eines Projekts und aus diesem Grund ist es entscheidend, wie gut das Projektteam diese identifiiert und eingschätzt hat, um entsprechend handeln zu können. 
 
+## Siehe auch
+
+* [Stakeholderanalyse](Stakeholderanalyse.md)
+* [Projekt](Projekt.md)
+* [Stakeholdermanagement](Stakeholdermanagement.md)
+* [Projektcontrolling](Projektcontrolling.md)
+* [Projektabschluss](Projektabschluss.md)
 
 ## Quellen
 
