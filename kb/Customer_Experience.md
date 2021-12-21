@@ -5,14 +5,14 @@ author: ga88maby
 anrechnung: a
 ---
 
-Dies ist ein Marketingbegriff. Customer Experience (CX) ist die Summe der Erfahrungen des Käufers mit einem Unternehmen oder auch einer Marke. Die Erfahrungen ergeben sich aus der positiven oder negativen Bewertung, die der Kunde an den verschiedenen Kontaktpunkten (Touchpoints) während der Customer Journey sammelt. Eine erfolgreiche Customer Experience zeichnet sich dadurch aus, dass der Kunde eine Wiederholung anstrebt und das Unternehmen weiterempfehlt.
+Dies ist ein Marketingbegriff. [Customer_Experience](Customer_Experience.md) (CX) ist die Summe der Erfahrungen des Käufers mit einem Unternehmen oder auch einer Marke. Die Erfahrungen ergeben sich aus der positiven oder negativen Bewertung, die der Kunde an den verschiedenen Kontaktpunkten (Touchpoints) während der [Customer_Journey](Customer_Journey.md) sammelt. Eine erfolgreiche Customer Experience zeichnet sich dadurch aus, dass der Kunde eine Wiederholung anstrebt und das Unternehmen weiterempfehlt.
 
 
 # Warum ist Customer_Experience unverzichtbar & essenziell:
 
-Customer_Experience ist so bedeutungsvoll, weil sie enormes Einfluss auf das Geschäftsergebnis vom Unternehmen hat. Deswegen ist es für das Unternehmen eine große Kampfansage, in einem wettbewerbsintensiven Geschäftsumfeld Käufern zu gewinnen. 
+Customer_Experience ist so bedeutungsvoll, weil sie enormes Einfluss auf das Betriebsergebnis vom Unternehmen hat. Deswegen ist es für das Unternehmen eine große Kampfansage, in einem wettbewerbsintensiven Geschäftsumfeld Käufern zu gewinnen. 
 Es ist eine echte Herausforderung, in einem wettbewerbsintensiven Geschäftsumfeld Kunden zu gewinnen und zu binden. Unternehmen, die den Aspekt einer nahtlosen und effektiven Customer Experience ignorieren, ziehen den Kürzeren gegenüber Firmen, die wissen, dass der Kunde im Mittelpunkt ihres Handelns steht.[^1].
-Im Laufe der Zeit gewinnt CX immer mehr an Bedeutung, wie eine Studie des Beratungsunternehmens Walker belegt, dass CX ab 2020 zum wichtigsten Markenkriterium geworden ist, und damit wichtiger als Preise oder auch Produkte.[^2]
+Im Laufe der Zeit gewinnt die Customer_Experience immer mehr an Bedeutung, wie eine Studie des Beratungsunternehmens [Walker](Walker.md) belegt, dass die Customer_Experience seit 2020 zum wichtigsten Markenkriterium geworden ist, und damit wichtiger als Preise oder auch Produkte.[^2]
 
  
 ![Beispielabbildung](Customer_Experience/Customer_ExperienceCX.PNG)
@@ -21,7 +21,7 @@ Im Laufe der Zeit gewinnt CX immer mehr an Bedeutung, wie eine Studie des Beratu
 
 # Teilbereiche der Customer Experience:
 Customer Experience ist kein isoliertes Ereignis, das an einem bestimmten Ort und zu einer bestimmten Zeit auftritt,
-sondern sie bildet sich über den gesamten Kundenlebenszyklus.
+sondern sie bildet sich über den gesamten [Kundenlebenszyklus](Kundenlebenszyklus.md).
 Dabei lassen sich verschiedene Teilbereiche unterscheiden:
 ![Beispielabbildung](Customer_Experience/CX2.PNG)
 * Teilbereiche der Customer Experience [^4]
@@ -35,7 +35,7 @@ Hervorzuheben ist, dass alle Teilbereiche zusammen das Customer Experience ausma
 Es reicht nicht aus, einen Bereich besonders gut zu gestalten und einen anderen Bereich zu ignorieren.[^5]
 
 
-# Wie wird CX von erfolgreichen Unternehmen umgesetzt?
+# Wie wird Customer Experience von erfolgreichen Unternehmen umgesetzt?
 Die Unternehmen verfolgen mehrere Methoden, um Customer_Experience besser zu gestalten. 
 Das Marketing besteht auf drei unverzichtbaren Bestandteilen:  
 * Einfachheit
@@ -60,13 +60,13 @@ Das wichtige Prinzip von Customer_Experience ist, dass Probleme und Reklamatione
 4. mehr Neukunden gewinnen
 5. Differenzierung zum Wettbewerb hervorheben
 6. Feedback von Kunden müssen effizient vom Unternehmen ausgewertet und bearbeitet werden. 
-7. Künstliche Intelligenz übernimmt künftig das Customer Experience Management, mit Hilfe von Machine Learning wird es einfacher. Gesammelte Informationen über Kunden, damit Kl lernen kann, die CX jedes Kunden durch immer mehr Informationen zu verbessern.[^10]
+7. [Künstliche Intelligenz](Künstliche Intelligenz.md) übernimmt künftig das Customer Experience Management, mit Hilfe von Machine Learning wird es einfacher. Gesammelte Informationen über Kunden, damit Kl lernen kann, die CX jedes Kunden durch immer mehr Informationen zu verbessern.[^10]
 
  
 
 
-# Geschichte:
-Der Customer_Experience Management wurde von Pine Gilmore im Jahr 1998 erwähnt, bei einem Beitrag für Harvard Business Review. Demnach gelinge es erfolgreichen Unternehmen, dass ihre Kunden aus den möglichst authentischen Erfahrungen mit dem Anbieter persönliche Mehrwerte ableiten.
+# Die Geschichte zur Entstehung von Customer_Experience:
+Der [Customer_Experience Management](Customer_Experience Management) wurde von Pine Gilmore im Jahr 1998 erwähnt, bei einem Beitrag für Harvard Business Review. Demnach gelinge es erfolgreichen Unternehmen, dass ihre Kunden aus den möglichst authentischen Erfahrungen mit dem Anbieter persönliche Mehrwerte ableiten.
 Verschiedene Experten wie Thompson / Kolsky (2004) vom Beratungsunternehmen Gartner haben vor einigen Jahren die wachsende Bedeutung des Customer Experience Managements für nachhaltigen Geschäftserfolg hervorgehoben.
 * Im Jahr 2008 äußerte Jessica Debor, dass durch effiziente Customer_Experience-Management, die Fähigkeit von Unternehmen zu setzen, um positive Meinungen von Kunden zu schaffen, steigert die Kaufbereitschaft und auch die Loyalität zum Unternehmen bzw. Marke [^11]
 
@@ -79,14 +79,14 @@ Verschiedene Experten wie Thompson / Kolsky (2004) vom Beratungsunternehmen Gart
 
 # Quellen
 
-[^1]: https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
-[^2]: https://blog.usu.com/de-de/die-perfekte-customer-experience-schaffen-2020
-[^3]: https://blog.usu.com/de-de/die-perfekte-customer-experience-schaffen-2020
-[^4]: https://link.springer.com/chapter/10.1007/978-3-658-27331-6_2
-[^5]: https://link.springer.com/chapter/10.1007/978-3-658-27331-6_2
-[^6]: https://www.qualtrics.com/de/erlebnismanagement/kunden/customer-experience/
-[^7]: https://www.superoffice.com/blog/customer-experience-statistics/
-[^8]: https://www.bigdata-insider.de/was-ist-customer-experience-a-897275/
-[^9]: https://easy-feedback.de/blog/customer-experience-strategie/
-[^10]: https://www.netigate.net/de/articles/kundenzufriedenheit/alles-was-sie-ueber-customer-experience-cx-wissen-muessen/#h-die-vorteile-von-customer-experience-cx
-[^11]: https://de.wikipedia.org/wiki/Customer-Experience-Management
+[^1]: Zendesk, Erin Hueffner (2020) https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
+[^2]: USU, Martin Stiller (2021) https://blog.usu.com/de-de/die-perfekte-customer-experience-schaffen-2020
+[^3]: USU, Martin Stiller (2021) https://blog.usu.com/de-de/die-perfekte-customer-experience-schaffen-2020
+[^4]: SPRINGER, Alexander Tiffert (2019) https://link.springer.com/chapter/10.1007/978-3-658-27331-6_2
+[^5]: SPRINGER, Alexander Tiffert (2019) https://link.springer.com/chapter/10.1007/978-3-658-27331-6_2
+[^6]: QUALTRICS https://www.qualtrics.com/de/erlebnismanagement/kunden/customer-experience/
+[^7]: SUPEROFFICE, Toma Kulbytė (2021) https://www.superoffice.com/blog/customer-experience-statistics/
+[^8]: BIGDATA-INSIDER; Stefan Luber / Nico Litzel (2020) https://www.bigdata-insider.de/was-ist-customer-experience-a-897275/
+[^9]: EASY-FEEDBACK, Valentino Marucci https://easy-feedback.de/blog/customer-experience-strategie/
+[^10]: NETIGATE (2021) https://www.netigate.net/de/articles/kundenzufriedenheit/alles-was-sie-ueber-customer-experience-cx-wissen-muessen/#h-die-vorteile-von-customer-experience-cx
+[^11]: WIKIPEDIA https://de.wikipedia.org/wiki/Customer-Experience-Management
