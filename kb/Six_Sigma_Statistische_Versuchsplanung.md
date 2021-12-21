@@ -3,13 +3,12 @@ title: Six Sigma Statistische Versuchsplanung
 tags: klassisch
 author: elainevmd
 anrechnung: k
----
 
 Die statistische Versuchsplanung ist Teil der Six Sigma Qualität Philosophie, welche mit Hilfe von mathematischen Methoden und wirtschaftlichen Kenngrößen Prozesse optimiert. Das Design of Experiment (engl.: stat. Versuchsplanung) wirkt als Instrument um im Entwicklungs- und Optimierungsprozess Zeit und Ressourcen zu sparen[^1].
 
 # 1.0 Six Sigma
 
-Das Ziel von SIX SIGMA ist Prozesse zu optimieren und Null-Fehler-Lösungen anzustreben, dies wollen sie mit statistischen Mitteln, Daten und Fakten durch Betrachtung des kompletten Produktionsprozesses erzielen. Der Fokus liegt hierbei vor allem auf der Prozessteuerung und wie sich die Streuung reduzieren lässt mit Hilfe des DMAIC-Zyklus[^2].
+Das Ziel von SIX SIGMA ist es Prozesse zu optimieren und Null-Fehler-Lösungen anzustreben, dies wollen sie mit statistischen Mitteln, Daten und Fakten durch Betrachtung des kompletten Produktionsprozesses erzielen. Der Fokus liegt hierbei vor allem auf der Prozessteuerung und wie sich die Streuung reduzieren lässt mit Hilfe des DMAIC-Zyklus[^2].
 
 ## 1.1 DMAIC-Zyklus
 
@@ -77,3 +76,4 @@ Voraussetzung ist es ein zuverlässiges System und Reproduzierbarkeit zu gewähr
 [^8]: [Design of Experiments (DoE), abgerufen am 20.11.2021] (https://six-sigma.com/lexikon/design-of-experiments-doe/)
 [^9]: [Six Sigma - Statistische Versuchsplanung, abgerufen am 20.11.2021] (https://www.dirk-joedicke.de/statistische-versuchsplanung)
 [^10]: [Statistische Versuchsplanung (DoE), abgerufen am 20.11.2021] (https://www.mt.com/de/de/home/applications/L1_AutoChem_Applications/L2_ReactionAnalysis/design-of-experiments-doe.html)
+

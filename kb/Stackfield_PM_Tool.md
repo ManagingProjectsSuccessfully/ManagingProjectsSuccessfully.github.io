@@ -1,20 +1,18 @@
 ---
 title: Stackfield_PM_Tool
-tags: agil klassisch
+tags: agil, stackfield
 author: YSmithers46
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Stackfield_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Stackfield ist ein Projektmanagement-Tool der Stackfield GmbH, die in München ansässig ist.
+Die Software kombiniert einige Funktionen in einer Anwendung. Bei der Kommunikation zwischen Team-Mitgliedern angefangen, über Dateien die in der Anwendung abgelegt werden können, bis hin zur Übersicht der anstehenden Aufgaben[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# [Stackfield](https://www.stackfield.com/de/tour)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Die Anmeldung bei Stackfield verlief reibungslos. In wenigen Schritten ist es möglich ein eigenes Projekt anzulegen und direkt zu starten.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
+/*
 Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
 Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
 Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
@@ -35,31 +33,57 @@ Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Mogge
 die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+*/
 
+# Überblick
 
-# Aspekt 1
+![Overview](Stackfield_PM_Tool/Stackfield_Overview.JPG)
+
+*Überblick Startseite*
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* Firma (hier Smithers GmbH; blauer Balken)
+  - Meine Woche 
+  - Berichte
+  - Direkte Nachrichten
+  - Räume 
+* Projekt (hier MPS; mitte oben)
+  - Kommunikation
+  - Diskussionen
+  - Aufgaben
+  - Seiten
+  - Dateien
+  - Kalender
+  - Einstellungen
 
-![Beispielabbildung](Stackfield_PM_Tool/test-file.jpg)
+## Firma
+### Meine Woche
+text
+### Berichte
+text
+### Direkte Nachrichten
+text
+### Räume
+text
 
-*lustiges Testbild*
+## Projekt
+### Kommunikation
+text
+### Diskussionen
+text
+### Aufgaben
+text
+### Seiten
+text
+### Dateien
+text
+### Kalender
+text
+### Einstellungen
+text
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
+/*
 So kann man eine Tabelle erstellen:
 
 | First Header  | Second Header |
@@ -84,7 +108,9 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 4. eine
 7. nummerierte liste
    1. und hier eine Ebene tiefer
+*/
 
+# Vorteil/Nachteil
 
 # Siehe auch
 
@@ -97,6 +123,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
+[^1]: https://www.stackfield.com/de/tour
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
