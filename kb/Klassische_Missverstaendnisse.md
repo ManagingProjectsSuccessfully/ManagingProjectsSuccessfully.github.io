@@ -1,10 +1,10 @@
 ---
 title: Klassische_Missverstaendnisse
-tags: agil klassisch Projektmanagement Missverstaendnisse 
+tags: klassisch Projektmanagement Missverstaendnis
 author: ux49azap
 anrechnung: k
 ---
-Die falsche Anwendung des [klassischen Projektmanagements](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) kann schnell zu Missverständnissen führen, welche einen großen Einfluss auf die Erfolgswahrscheinlichkeit des jeweiligen [Projektes](Projekt.md) haben. Dabei können sowohl Unstimmigkeiten zwischen den Beteiligten, als auch generell eine falsche Erwartungshaltung gegenüber dem [Projektmanagement](Projektmanagement.md) entstehen. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder [Termine](Zeitplanung.md) nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
+Die falsche Anwendung des [klassischen Projektmanagements](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) kann schnell zu Missverständnissen führen, welche einen großen Einfluss auf die Erfolgswahrscheinlichkeit des jeweiligen [Projektes](Projekt.md) haben. Dabei können sowohl Unstimmigkeiten zwischen den Beteiligten, als auch eine generelle falsche Erwartungshaltung gegenüber dem [Projektmanagement](Projektmanagement.md) entstehen. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder [Termine](Zeitplanung.md) nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
 
 # Ursache der Missverständnisse
 Das [traditionelle Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) beruht auf einem monolithischen Ansatz, bei welchem bereits zu [Projektstart](Projektstart.md) der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, [Termine](Zeitplanung.md) und [Ressourcen](Ressourcenplanung.md) festgelegt.[^1][^2]  Dieser standardisierte Vorgang kann allerdings zu mehreren verschiedenen Missverständnissen führen.
@@ -39,7 +39,7 @@ Dadurch entstehen wiederum neue Missverständnisse. Es können beispielsweise An
 
 ## Unverhältnismäßige Rahmenbedingungen 
 
-Ein weiterer Aspekt, welcher zu Unstimmigkeiten im Projektverlauf führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, der unterschätzte [Projektumfang](Projektumfang.md) sowie fehlerhafte [Projektkommunikation](Projektkommunikation.md) bestärken die bereits genannten Missverständnisse stark.[^7][^8]
+Ein weiterer Aspekt, welcher zu Unstimmigkeiten beim Projektverlauf führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, der unterschätzte [Projektumfang](Projektumfang.md) sowie fehlerhafte [Projektkommunikation](Projektkommunikation.md) bestärken die bereits genannten Missverständnisse stark.[^7][^8]
 
 # Fazit
 Um klassische Missverständnisse bei [Projekten](Projekt.md) zu vermeiden, ist es deshalb besonders wichtig genau abzuwägen, ob das [klassische Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) zur Ausgangslage, Aufgabenstellung und Zielsetzung passt. Nur wenn diese Vorraussetzungen erfüllt sind, kann das [Projekt](Projekt.md) erfolgreich und wirtschaftlich verlaufen.[^1]
