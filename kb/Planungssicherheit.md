@@ -49,7 +49,7 @@ Für eine hohe Planungssicherheit führt in dem Modell die strikte Ausführung d
 
 Vorzeitige Planung stößt meistens an ihre Grenzen. Dies kann anhand von viele bekannten klassischen Projekten beobachten werden. 
 Langfristige und frühzeitige Planungen werden in Zukunft belangloser. Unsicherheiten, die auf dem Markt auftreten, 
-spielen vermehrt im Projektmanagement eine große Rolle, dadurch wird die Planung erschwert und so vermindert sich auch die Planungssicherheit. [^9]
+spielen vermehrt im Projektmanagement eine große Rolle, dadurch wird die Planung erschwert und so vermindert sich auch die Planungssicherheit. [^8]
 Einen guten Überblick verschafft die Studie der Standish Group.
 
 Projekterfolgsquoten Agil vs. Wasserfall: (Standish Group Chaos Report 2020)
