@@ -61,7 +61,7 @@ Das Bausteinmodell stellt ein weit verbreitetes Modell des Wissensmanagements da
 
 **Wissensbewahrung**: Speicherung von Wissen
 
-Diese Bausteine werden in einem Kreislauf abgearbeitet, beginnend mit den **Wissenszielen** bis zu der **Wissensbewertung** und einem Feedback.[^9]
+Diese Bausteine werden in einem Kreislauf abgearbeitet, beginnend mit den **Wissenszielen**, über die Bausteine des inneren Kreislaufs, bis zu der **Wissensbewertung** und einem Feedback.[^9]
 
 ## Wissensspirale (SECI-Modell) nach Nonaka und Takeuchi
 
@@ -85,7 +85,7 @@ das **Knowledge Engineering**, der **[Wissensmarkt](Wissensmarkt.md)** und die *
 
 # Methoden des Wissensmanagements
 
-Methoden und Instrumente dienen zur konkreten Umsetzung von Wissenszielen. Dabei können folgende ausgewählte Methoden verwendet werden:[^9]
+Methoden und Instrumente dienen zur konkreten Umsetzung von Wissenszielen.[^9] Unterschieden wird hierbei zwischen Methoden zur **Identifizierung von Wissen**, zur **Entwicklung und Vernetzung von Wissen** und zur **Dokumentation und Weitergabe von Wissen**[^10]. Hierbei können folgende ausgewählte Methoden beispielsweise verwendet werden:
 
 **Methoden Wissen zu identifizieren:**
 
@@ -98,10 +98,8 @@ Methoden und Instrumente dienen zur konkreten Umsetzung von Wissenszielen. Dabei
 
 *	Experten-Netzwerke
 *	Wissenswerkstätten
-*	Open Space
 *	Ideen-Treff
 *	Brainstorming 
-*	Project Debriefing (SCRUM)
 
 **Methoden Wissen zu dokumentieren, strukturieren und weiterzugeben:**
 
@@ -109,11 +107,8 @@ Methoden und Instrumente dienen zur konkreten Umsetzung von Wissenszielen. Dabei
 *	Interview-Methoden
 *	Story Telling 
 *	Mentoring 
-*	Wissensmarktplatz
-*	Wiki
-*	Wissenspool
 
-[^9]
+[^9] [^10]
 
 # Siehe auch
 * [Wissenstransfer](Wissenstransfer.md)
@@ -139,3 +134,4 @@ Methoden und Instrumente dienen zur konkreten Umsetzung von Wissenszielen. Dabei
 [^7]: [Bild](https://www.enzyklopaedie-der-wirtschaftsinformatik.de/wi-enzyklopaedie/Members/bick/copy_of_Bausteinmodell.jpg/image_large)
 [^8]: [Wissensspirale nach Nonaka und Takeuchi](https://www.qmbase.com/die-organisation-des-wissens-seci/)
 [^9]: [Wissensmanagement Wikipedia](https://de.wikipedia.org/wiki/Wissensmanagement)
+[^10]: [Werkzeuge und Methoden des Wissenmanagements](https://wissensmanagement.open-academy.com/curriculum/modul-3/)
