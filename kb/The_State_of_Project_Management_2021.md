@@ -7,7 +7,7 @@ anrechnung: k
 
 ________________________________________________________________________________________________________________
 
-"The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation Wellington. In diesem Bericht werden zahlreiche namenhafte Unternehmen aus verschiedenen Sektoren interviewet, um den aktuellen Probleme, Entwicklungen des [Projektmanagement](kb/Projektmanagement.md) als auch Methoden und Ansätze für die Zukunft zu präsentieren. [^1] Diese sollen wiederum Unternehmen dazu bewegen ihre Prozesse im Projektablauf zu hinterfragen und mit neuen Techniken effizienter zu gestalten. 
+"The State of Project Management" ist ein alljährlicher Bericht verschiedenster Institutionen u.a. der Organisation Wellington. In diesem Bericht werden zahlreiche namenhafte Unternehmen aus verschiedenen Sektoren interviewet, um den aktuellen Probleme, Entwicklungen des [Projektmanagement](Projektmanagement.md) als auch Methoden und Ansätze für die Zukunft zu präsentieren. [^1] Diese sollen wiederum Unternehmen dazu bewegen ihre Prozesse im Projektablauf zu hinterfragen und mit neuen Techniken effizienter zu gestalten. 
 
 Im Allgemeinen zeichnet sich seit mehreren Jahren ab, dass beim Projektmanagement die Performance, Durchführung und der Erfolg des Projekt zunehmend abnimmt. Durch Analyse, Auswertung und Darstellung bestimmter Fragen wird die aktuelle Entwicklung wiedergegeben. Maturity Levels spiegeln die Leistungen wider und durch sogenannte Key Drivers wird beschrieben, welche Faktoren wichtig sind, damit das Projektmanagement erfolgreich ist. [^2] [^3]
 
@@ -15,7 +15,7 @@ Das Berichtschema der Organisation Wellingtone wird im Nachfolgenden mit den wic
 
 # Project Management Basics
 
-Unter den Project Management Basics sind Fragen zu verstehen, die Aufschluss über aktuelle Entwicklungen im Projektmanagement widergeben und allgemeine Kennzahlen darstellen. So wird im Bericht 2021 festgestellt, ob mit einer festgelegten Methode und Zeitplan, mit einem Planungsprotokoll und mit möglichen [Risikomanagement](kb/Risikomanagement.md) gearbeitet wird. [^2] Mit Hilfe dieser Fragen können Schlussfolgerungen über ein mögliches Verbesserungspotenzial als auch die Entwicklungsrichtung von Projekt Management dargestellt werden.
+Unter den Project Management Basics sind Fragen zu verstehen, die Aufschluss über aktuelle Entwicklungen im Projektmanagement widergeben und allgemeine Kennzahlen darstellen. So wird im Bericht 2021 festgestellt, ob mit einer festgelegten Methode und Zeitplan, mit einem Planungsprotokoll und mit möglichen [Risikomanagement](Risikomanagement.md) gearbeitet wird. [^2] Mit Hilfe dieser Fragen können Schlussfolgerungen über ein mögliches Verbesserungspotenzial als auch die Entwicklungsrichtung von Projekt Management dargestellt werden.
 
 So wird im diesjährigen Bericht mit Hilfe eines Diagrammes Rückschlüsse gewonnen, die aufzeigen, welche Aufgaben die größten Herausforderungen mit dem damit zusammenhängenden Wert im Portfolio des Projektmanagements haben.
 
@@ -48,13 +48,13 @@ Die Methodik, eine Bündelung von [Methoden](Methoden.md), verhindert Stagnation
 
 ### 2. Projektmanagement Office:
 
-Das Projektmanagement Office, kurz [PMO](kb/Project_Management_Office.md), betreut alle Projekte eines Unternehmens. Durch die Steuerung aus der strategischen Sicht, der Ressourcenkoordinierung, der schnellen Entscheidungsfindung aufgrund eines oftmals dynamischen Umfeldes, der Weitergabe wichtiger Informationen an die Geschäftsleitung sowie der Gewährleistung, dass in allen Projekten die gleichen Methoden angewandt werden, ist das PMO durch Planungs-, Informations- und Erfassungsaufgaben ein wesentlicher Antreiber des Projektmanagements. [^5] [^6]
+Das Projektmanagement Office, kurz [PMO](Project_Management_Office.md), betreut alle Projekte eines Unternehmens. Durch die Steuerung aus der strategischen Sicht, der Ressourcenkoordinierung, der schnellen Entscheidungsfindung aufgrund eines oftmals dynamischen Umfeldes, der Weitergabe wichtiger Informationen an die Geschäftsleitung sowie der Gewährleistung, dass in allen Projekten die gleichen Methoden angewandt werden, ist das PMO durch Planungs-, Informations- und Erfassungsaufgaben ein wesentlicher Antreiber des Projektmanagements. [^5] [^6]
 
 ### 3. Technologien:
 
 Durch den Einsatz von Technologien entsteht eine Effizienzsteigerung, die sich wiederrum auf die Wirtschaftlichkeit der Projekte auswirkt. Zu den Tools gehören unter anderem die Verwendung von Software zum Termin- und Kostenüberblick, Know-How-Datenbanken und eine einfache Kommunikation via Skype, Teams oder ähnlichen. [^7] Je nach Größe des Unternehmens und Anzahl der durchgeführten Projekte im Jahr kommt es zum Einsatz verschiedener Software. Hierzu gehören die Folgenden: 
 
-* Allgemeine Software ist oftmals hinderlich im Bezug auf die Möglichkeit der Nutzung. Dies ist vor allem bei Grafiken ersichtlich. Im Hinblick auf die Verwendbarkeit der Software von [Mitarbeiter](kb/projektmitarbeiter.md) gibt es nicht viel zu beachten, da es sich hierbei um Office-Anwendungen wie Excel oder Teams handelt. [^8]
+* Allgemeine Software ist oftmals hinderlich im Bezug auf die Möglichkeit der Nutzung. Dies ist vor allem bei Grafiken ersichtlich. Im Hinblick auf die Verwendbarkeit der Software von [Mitarbeiter](projektmitarbeiter.md) gibt es nicht viel zu beachten, da es sich hierbei um Office-Anwendungen wie Excel oder Teams handelt. [^8]
 * Freeware-Software bietet vor allem die Möglichkeit grafische Darstellung übersichtlicher abzubilden und sind in das Projektmanagement einfach einzubinden. Jedoch sollte hier Vorsicht walten, da vertrauliche und sensible Daten, gerade bei cloud-basierter Software, von externen Dritten abgegriffen werden können. [^8]
 * Professionelle Software ist unausweichlich, sobald ein Unternehmen mehrere Projekte parallel oder im Jahr am Laufen durchführt. Diese Art von Software kann oftmals auf das Unternehmen angepasst werden. Durch ein einheitliches Erscheinungsbild ist die Verwendung durch die Mitarbeiter einfach gestaltet, muss jedoch erstmals erlernt werden, wozu nicht alle Mitarbeiter bereit sind. [^8]
 * Web 2.0-Software bietet den Vorteil der ständigen Weiterentwicklung. So ist die direkte Kommunikation bspw. mit dem Stakeholdern ein Vorteil, gleichzeitig aber auch ein Nachteil, da Gruppierungen, welche sich gegen das Projekt aussprechen, die nahezu gleiche Informationsbasis zugrunde liegen haben. [^8]
