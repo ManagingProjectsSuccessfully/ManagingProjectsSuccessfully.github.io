@@ -50,8 +50,8 @@ Die Ausrichtung aller Handlungsaspekte auf das Endprodukt und die genaue Vorausp
 
 * [Projektmanagement](Projektmanagement.md)
 * [Projektphasen](Projektphasen_klassisch.md)
-* [Klassisches Projektmanagement](Projektmanagement.md)
-* [Magisches Dreieck](Magisches_Dreieck.md)
+* [klassisches Projektmanagement](Projektmanagement.md)
+* [magisches Dreieck](Magisches_Dreieck.md)
 * [Projekt](Projekt.md)
 * [Wasserfallmodell](Wasserfall_Modell.md) 
 
