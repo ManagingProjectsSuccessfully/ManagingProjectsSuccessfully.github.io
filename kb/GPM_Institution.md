@@ -2,103 +2,82 @@
 title: GPM_Institution
 tags: agil klassisch
 author: zo54hoko
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu GPM_Institution um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Deutsche Gesellschaft für Projektmanagement (GPM) ist ein führender Fachverband für [Projektmanagement](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md). Der Verband ist das größte Netzwerk von Projektmanagement Experten auf dem europäischen Kontinent, mit aktuell 7800 Mitglieder und 370 Firmenmitgliedern aus allen Bereichen der Wirtschaft, Hochschulen und öffentlichen Institutionen [^1].  
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Geschichte
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+In der 1979 von Roland Gutsch gegründeten Gesellschaft, mit Sitz in Nürnberg, sind nach eigenen Angaben Mitglieder aus der Wirtschaft, den Hochschulen und der öffentlichen Hand vertreten. Den Gebrauch von Projektmanagement zu unterstützen, zu verbessern und standardisieren, ist das zentrale Ziel der GPM. Der Verein ist Anbieter von Lehrgängen, Seminaren, Workshops und Tagungen und bietet Weiterbildungsangebote für unterschiedliche Level der Projektmanagement-Kompetenz an. Schulungsgrundlage ist der von der IPMA vorgelegte Projektmanagement-Standard IPMA Individual Competence Baseline. Die aktuell gültige Version ICB 4.0 wurde 2015 von der IPMA veröffentlicht und wird seit Februar 2018 von der GPM in Deutschland genutzt [^2].
 
-![Beispielabbildung](GPM_Institution/test-file.jpg)
 
-*lustiges Testbild*
 
-# Aspekt 2
+# Auszeichnungen
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+* Deutscher Project Excellence Award
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Der Deutsche Project Excellence Award wird seit 1997 von der GPM an Unternehmen und Projektteams verliehen, die eine hervorragende Leistung im Projektmanagement erwiesen haben [^3]. 
 
-So kann man eine Tabelle erstellen:
+* Roland Gutsch Project Management Award
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+2007 wurde der Roland Gutsch Project Management Award gegründet, um die Menschen hinter der Organisation von Projekten, wie des Wiederaufbaus der Frauenkirche in Dresden oder der FIFA-Fußballweltmeisterschaft 2006, zu ehren [^4].
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+* Deutscher Studienpreis Projektmanagement
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Seit 1997 zeichnet die GPM die drei besten wissenschaftlichen Abschlussarbeiten in den Rubriken Bachelorarbeit, Masterarbeit und Dissertation aus, in denen einzigartige Lösungen oder innovative Ideen ausgearbeitet werden.
+Die Preisträgerinnen und Preisträger erhalten eine Prämie im Ausmaß von 1000 Euro, eine Urkunde und eine kostenlose Mitgliedschaft in der GPM. Des Weiteren haben die Sieger des Awards die Option, die wissenschaftliche Arbeit und sich selbst in der „Projektmanagement Aktuell“, dem führenden Fachmagazin für Projektmanagement, vorzustellen [^5].
 
-### Ebene-3-Überschrift
+* GPM Young Project Manager Award
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Der Award zeichnet begabte Nachwuchs-Projektmanagerinnen und Projektmanager aus, die trotz ihres jungen Alters bereits beweisen können, dass sie vielfältige [Projekte](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) durchführen und wirksam zum Erfolg bringen können. Dabei dürfen, die Teilnehmer bei Einreichung ihre Leistung das 35. Lebensjahr noch nicht vollendet haben. Eine Darstellung des produktiven Umgangs mit internen und externen Stakeholdern dürfen nicht außer Acht gelassen werden [^6].
 
-# Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+
+# Projektmanagement-Studien
+
+Unterschiedliche Dimensionen des Projektmanagements geben der GPM die Möglichkeit verschiedene Studien zu vollziehen. Die Durchführung der Studien erfolgt entweder durch die GPM selbst, Hochschulen oder Forschungseinrichtungen, realisiert.
+Ergebnisse der Studien berichten über [aktuelle Entwicklungen und zukünftige Trends im Projektmanagement](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md)[^7].
+
+## Beispiel einer GPM-Studie aus dem Jahre 2007
+
+![Beispielabbildung](https://blog.ibo.de/wp-content/uploads/2013/07/UrsachenProjektfehlschlaege-1024x560.png)
+*Fallen im Projektmanagement*
+
+# Das GPM Flüchtlingsprojekt 
+
+Im Zeitraum von November 2015 bis November 2017 hat die GPM ein Flüchtlingsprojekt umgesetzt. Anhand von Projektmanagement haben sich bewährte Projektmanager an der Flüchtlingshilfe- und Integration beteiligt.  
+Herausfordernde Gegebenheiten können durch Projektmanagement, das strategisches und operatives Handeln fördert, einfacher gehandhabt werden.
+Für alle Beteiligten kann so das ideale Ergebnis mittels [Methoden](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) und unterschiedlichster Instrumente erzielt werden[^8].
+
+
+
+# YOUNG CREW
+
+1992 wurde die international aktive GPM Young Crew gegründet. Sie ist ein Netzwerk von jungen Projektmanagern bis zum Alter von 35 Jahren. Bei dieser Organisation werden, sowohl Schüler und Lehrer, die eine Interesse am Thema Projektmanagement haben, als auch Auszubildende und Studierende in vielen Fachrichtungen oder Young Professionals, die schon erste berufliche Erfahrungen gesammelt haben, berücksichtigt[^9]. 
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](GPM_Institution.md)
+* [Projektmanagement](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Projekte](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
+* [aktuelle Entwicklungen und zukünftige Trends im Projektmanagement](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aktuelle_Entwicklungen_im_PM.md)
+* [Methoden](https://github.com/zo54hoko/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) 
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.projektmagazin.de/projektmanagement-dienstleister/gpm-deutsche-gesellschaft-fuer-projektmanagement-ev
+[^2]: https://de.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Projektmanagement
+[^3]: https://www.gpm-ipma.de/awards/deutscher_project_excellence_award.html
+[^4]: https://www.gpm-ipma.de/awards/roland_gutsch_project_management_award.html
+[^5]: https://www.gpm-ipma.de/awards/deutscher_studienpreis_pm.html
+[^6]: https://www.gpm-ipma.de/awards/gpm_young_project_manager_award.html
+[^7]: https://www.gpm-ipma.de/know_how/laufende_pm_studien.html
+[^8]: https://www.gpm-ipma.de/know_how/gpm_fluechtlingsprojekt.html
+[^9]: https://www.gpm-ipma.de/know_how/fachgruppen/special_interest_groups/young_crew.html
 

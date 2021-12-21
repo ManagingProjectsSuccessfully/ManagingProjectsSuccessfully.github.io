@@ -1,104 +1,96 @@
 ---
 title: Java_PM_Tool
-tags: agil klassisch
+tags: agil Java OpenSource
 author: AbderrahmaneBennani
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Java_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Im Folgenden wird beschrieben, wie man Java tools benutzt, um Projekte agile zu managen.
+# Java Projektmanagement Tools
+![Beispielabbildung](Java_PM_Tool/Java-Logo.gif)
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+**Java** ist eine objektorientierte Programmiersprache und eine eingetragene Marke des Unternehmens
+Sun Microsystems, welches 2010 von
+Oracle aufgekauft wurde. Die Programmiersprache ist ein Bestandteil der 
+Java-Technologie – diese besteht grundsätzlich aus dem Java-Entwicklungswerkzeug
+(JDK) zum Erstellen von Java-Programmen und der
+Java-Laufzeitumgebung (JRE) zu deren Ausführung.[^1]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Als [Projektmanagement](Projektmanagement.md) wird das Initiieren, Planen, Steuern, Kontrollieren und Abschließen von Projekten bezeichnet.
+Viele Begriffe und Verfahrensweisen im Projektmanagement sind etabliert und standardisiert.[^2]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Durch [Open source](Open_Source_Projekte.md) Java [Projekte](Projekt.md) (Tools) kann man verschiedene Aspekte eines Projekts steuern, planen usw. In Diesem Artikel kann man ein paar Tools und deren Umsetzung kennenlernen.
 
 
-# Aspekt 1
+## Projektplanen & Verfolgung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+**Xplanner**  ist ein webbasiertes Projektplanungs- und -verfolgungstool für eXtreme Programming (XP)-Teams. XPlanner ist mit Java, JSP und Struts, Hibernate und MySQL implementiert.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Das XP-Planungsprozess[^3] kann man in 3 Schritte zusammenfassen:
 
-![Beispielabbildung](Java_PM_Tool/test-file.jpg)
+1.	Die Kunden wählen die hinzufügenden Funktionen (User Stories) für jede Entwicklungsiteration aus (in der Regel eine bis drei Wochen).
+2.	Die Entwickler schätzen den Aufwand für die Fertigstellung der Storys, entweder auf der Ebene der Story oder durch Zerlegung der Story in Aufgaben und deren Schätzung.
+3.	Informationen über die Entwicklungsgeschwindigkeit des Teams aus der vorherigen Iteration werden verwendet, um abzuschätzen, ob das Team die vom Kunden vorgeschlagenen Storys rechtzeitig fertigstellen kann.
 
-*lustiges Testbild*
+Wenn das Team überfordert ist, wird die Menge der Storys mit dem Kunden neu verhandelt. Das XPlanner-Tool wurde zur Unterstützung dieses Prozesses entwickelt.
 
-# Aspekt 2
+Projekte wie **XPlannerPlus** setzen dort an, wo das alte XPlanner-Projekt aufgehört hat. XPlannerPlus erweitert die Funktionen und macht die Benutzeroberfläche ein wenig schicker.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## Projektverwaltung
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+**Activity Manager** ist ein Werkzeug für die Projektverwaltung. Es hilft einem [Projektleiter](Projektleiter.md), die Aktivitäten seiner Mitarbeiter zu verwalten und zu überprüfen. Einfach zu bedienen, leichtgewichtig, aber sehr effizient und anpassbar.
 
-So kann man eine Tabelle erstellen:
+Die Merkmale des Tools sind:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+* Repository-Verwaltung für Zeiträume
+* Repository-Verwaltung für Projektbeteiligte (Collaborators)
+* Repository-Verwaltung für Aufgaben (Tasks)
+* Beiträge verwalten (Aktivitätsmanagement)
+* Erweiterbare Berichtsfunktion (mit eingebauten Vorlagen)
+* XML-Datenbank Export/Import
+* EXCEL-Export
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Activity Manager ermöglicht den Aufbau und die Pflege eines hierarchischen Aufgabenbaums. Mit hilfe eines sehr einfaches Datenbankmodells,ist es möglich, schnell benutzerdefinierte Berichte über die Berichtsfunktion oder über einfache SQL-Anfragen zu erstellen.[^4]
+## Auswertung & Prognosen
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+**GanttProject** ist ein kostenloses und einfach zu bedienendes, auf Gantt-Diagrammen basierendes Werkzeug zur Projektplanung und -auswertung.
 
-### Ebene-3-Überschrift
+Es kommt mit:
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+* Aufgabenhierarchie und Abhängigkeiten, Meilensteine, Baselines.
+* [Gantt-Diagramm](Gantt_Diagramme.md) mit einer Option zur Erstellung eines PERT-Diagramms.
+* Diagramm der Ressourcenauslastung.
+* Berechnung der Aufgabenkosten.
+* Exportieren in PDF, HTML, PNG.
+* Interoperabilität mit [MS Project](Microsoft_Project_PM_Tool.md), Excel und anderen Tabellenkalkulationsprogrammen.
+* Einfache WebDAV-basierte Zusammenarbeit.
 
-# Aspekt n
+Außerdem ist ein kommerzieller Kollaborationsdienst, GanttProject Cloud, in GanttProject integriert.[^5]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## Weitere Anwendungen
+### Softwareentwicklungsprozess
+Das **Plandora-Projekt** wurde als Werkzeug zur Unterstützung des **Softwareentwicklungsprozesses** von der Kundenanforderung bis zum Abschluss der Aufgabe und somit zur Erfassung der "Geschichte" eines Projekts entwickelt. Das Plandora-System kann für Teams nützlich sein, die Probleme mit Ressourcenengpässen, parallelen Projekten, kritischen Terminen, der Notwendigkeit der Dokumentation des Umfangs von Aufgaben und Anforderungen usw. haben.[^6]
+### Zeitverfolgung
+Mit **Baralga** können Sie den Überblick über die Zeit behalten, die Sie für verschiedene Projekte aufwenden. Sie können die Projekte, an denen Sie arbeiten, aufzeichnen, oder Sie können Projektaktivitäten manuell eingeben und bearbeiten. So können Sie sich leicht merken, wann und wie lange Sie an jedem Projekt gearbeitet haben.[^7]
 
 
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Java_PM_Tool.md)
+# Verlinkungen zu angrenzenden Themen
+* [Projekt](Projekt.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Open_Source_Projekte](Open_Source_Projekte.md)
+* [Gantt_Diagramme](Gantt_Diagramme.md)
+* [Microsoft_Project_PM_Tool](Microsoft_Project_PM_Tool.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Open Source Project Management Tools in Java](https://java-source.net/open-source/project-management)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Java (Programmiersprache) - Wikipedia](https://de.wikipedia.org/wiki/Java_(Programmiersprache))
+[^2]: [Projektmanagement - Wikipedia](https://de.wikipedia.org/wiki/Projektmanagement)
+[^3]: [Xplanner Synopsys - Openhub](https://www.openhub.net/p/xplanner)
+[^4]: [Activity Manager - Sourceforge](http://activitymanager.sourceforge.net/overview.html)
+[^5]: [Ganttproject - ReadMe](https://github.com/bardsoftware/ganttproject/blob/5fdedc22d8a6dbed68820d433e1cc51b0e77b2f4/README)
+[^6]: [Plandora - Javasource](https://java-source.net/open-source/project-management/plandora)
+[^7]: [Barlaga - JavaSource](https://java-source.net/open-source/project-management/baralga)
