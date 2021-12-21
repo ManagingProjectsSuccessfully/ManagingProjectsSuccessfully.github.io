@@ -52,12 +52,12 @@ Langfristige und frühzeitige Planungen werden in Zukunft belangloser. Unsicherh
 spielen vermehrt im Projektmanagement eine große Rolle, dadurch wird die Planung erschwert und so vermindert sich auch die Planungssicherheit. [^8]
 Einen guten Überblick verschafft die Studie der Standish Group.
 
-Projekterfolgsquoten Agil vs. Wasserfall: (Standish Group Chaos Report 2020)
+Projekterfolgsquoten agil vs. Wasserfall: (Standish Group Chaos Report 2020)
 
-| Methode       | erfolgreich   |   teilweise-erfolgreich  |   nicht erfolgreich  |
-| ------------- | ------------- |--------------------------|----------------------|
-| Agil          |      42%      |            47%           |          11%         |
-| Wasserfall    |      13%      |            59%           |          28%         |
+| Methode       | erfolgreich   |   teilweise-erfolgreich    |   nicht erfolgreich  |
+| ------------- | ------------- |----------------------------|----------------------|
+| Agil          |      42 %     |            47 %            |          11 %        |
+| Wasserfall    |      13 %     |            59 %            |          28 %        |
  
 [^11]
 
