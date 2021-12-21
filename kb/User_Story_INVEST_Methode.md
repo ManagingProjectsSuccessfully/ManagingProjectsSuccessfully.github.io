@@ -77,6 +77,7 @@ Diese Eigenschaft ist deshalb zwingend zu gewährleisten. [^5]
 * [User Story](User_Story.md)
 
 # Weiterführende Links
+* [User Story Wikipedia](https://de.wikipedia.org/wiki/User_Story)
 
 # Quellen
 [^1]: [Product Backlog](https://scrumguide.de/product-backlog/)
