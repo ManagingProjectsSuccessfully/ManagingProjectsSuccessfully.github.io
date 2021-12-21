@@ -5,7 +5,7 @@ author: enesmvlt
 anrechnung: k
 ---
 
-Projektmanagement in verschiedenenen Branchen....
+Projektmanagement ist in nahezu allen Unternehmensbranchen fundamental. Dies führt unweigerlich dazu, dass der Anwendungsbereich sehr umfangreich wird. Folglich ist es wichtig zu erkennen, welche Faktoren die Auswahl des jeweils passenden Projektmangements beeinflussen und welche
 
 # Projekt
 Ein [Projekt](Projekt.md) beschreibt laut dem Project Management Institute (PMI) ein Vorhaben, welches zeitlich begrenzt ist und einen im Vorhinein definierten Anfang und ein Ende hat[^1]. Darüber hinaus beinhaltet auch jedes Projekt verschiedene Aufgaben in mehreren Teilbereichen, welche allerdings zur Erreichung eines gemeinsamen Ziels dienen. Das Deutsche Institut für Normung (DIN) definiert das zu erreichende Ziel als ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis[^2].
