@@ -7,7 +7,7 @@ anrechnung: a
 
 Das **Impediment Backlog** wird zumeist zur Visualisierung und Priorisierung von Impediments verwendet. [^1]
 
-**Impediments** (englisch für *„Behinderungen“*) beschreiben Hindernisse und Störungen aller Art, die während eines [Scrum](SCRUM.md) - Projekts auftreten. Sie schränken die Mitglieder eines Projektteams bei der Erfüllung ihrer Aufgaben (zum Beispiel der Erreichung eines [Sprint](Sprint.md) - Ziels) ein. [^1]
+**Impediments** (englisch für *„Behinderungen“*) beschreiben Hindernisse und Störungen aller Art, die während eines [Scrum](SCRUM.md) - Projekts auftreten. Sie schränken die Mitglieder eines Projektteams bei der Erfüllung ihrer Aufgaben (zum Beispiel der Erreichung eines Sprint - Ziels) ein. [^1]
 
 Mithilfe des Impediment Backlogs werden bestehende Hindernisse mit dem Ziel zusammengefasst, sie so schnell wie möglich zu überwinden. [^1][^2]
 
@@ -47,7 +47,7 @@ Impediment Backlogs können in unterschiedlichsten Darstellungen geführt werden
 
 # Verantwortlichkeit für Impediments im Scrum-Prozess
 
-Gemäß dem [Scrum Guide](Scrum_Guide.md) 2020 liegt die schnellstmögliche Beseitigung von Impediments in der Verantwortung des [Scrum Masters](Scrum_Master.md). 
+Gemäß dem Scrum Guide 2020 liegt die schnellstmögliche Beseitigung von Impediments in der Verantwortung des [Scrum Masters](Scrum_Master.md). 
 Somit ist er auch für die Dokumentation der Hindernisse im Impediment Backlog zuständig. Wie genau er bei der Erfüllung dieser Aufgabe vorzugehen hat, ist jedoch nicht festgelegt.  [^1][^5]
 
 Das reine Ermitteln der Störungen selbst ist dagegen nicht nur die Aufgabe des Scrum Masters, sondern die des gesamten Projektteams. [^5]
