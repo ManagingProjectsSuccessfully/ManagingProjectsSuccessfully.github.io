@@ -19,7 +19,7 @@ Das Hauptziel des Offshoring ist die Reduktion der Kosten.[^1] Durch die Verlage
 
 # Projekte und Projektbereiche in denen Offshoring betrieben wird
 
-Im Bereich der Software-Entwicklung „werden vielfach Tätigkeiten der Programmierung und Wartung, aber auch des Programm- und Systementwurfs ins Ausland verlagert“.[^3] Konzerne wie IBM, Microsoft und SAP lagern ihre IT-Anwendungsentwicklung in Länder wie beispielsweise Indien oder China aus. Doch nicht nur IT-Dienstleistungen werden ins Ausland verlagert, sondern auch Lektoratstätigkeiten sowie E-Learning-Produktionen. Die Arbeitskräfte in diesen Ländern sind meist genauso qualifiziert und erfahren wie die eigenen Mitarbeiter jedoch sorgt das hier vorherrschende niedrigere Lohnniveau für eine deutliche Kostenersparnis.[^2]
+Im Bereich der Software-Entwicklung „werden vielfach Tätigkeiten der Programmierung und Wartung, aber auch des Programm- und Systementwurfs ins Ausland verlagert“.[^3] Konzerne wie IBM, Microsoft und SAP lagern ihre IT-Anwendungsentwicklung in Länder, wie beispielsweise Indien oder China, aus. Doch nicht nur IT-Dienstleistungen werden ins Ausland verlagert, sondern auch Lektoratstätigkeiten sowie E-Learning-Produktionen. Die Arbeitskräfte in diesen Ländern sind genauso qualifiziert und erfahren wie die eigenen Mitarbeiter jedoch sorgt das hier vorherrschende niedrigere Lohnniveau für eine deutliche Kostenersparnis.[^2]
 
 
 # Kritische Aspekte des Offshoring
