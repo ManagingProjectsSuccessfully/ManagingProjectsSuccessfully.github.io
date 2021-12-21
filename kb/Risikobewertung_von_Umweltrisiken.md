@@ -28,7 +28,7 @@ Die externen Umweltrisiken treten als Folge von Naturkatastrophen und Umweltänd
 
 ![Interne und Externe Risiken](Risikobewertung_von_Umweltrisiken/interne_externe_Risiken.PNG)
 
-## Identifizierung und Bewertung von Umweltrisiken
+## Umweltrisiken im Projektmanagement
 
 Der richtige Umgang mit Umweltrisiken ist von großer Bedeutung für den langfristigen Erfolg von neuen Projekten. Deshalb ist die Bewertung von Umweltrisiken, sowie die Planung von Gegenmaßnahmen, ein wichtiger Teil der Entwicklung und des [Managements von Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) in Unternehmen.
 
