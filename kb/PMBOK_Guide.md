@@ -8,7 +8,7 @@ Der erstmals 1996 veröffentlichte PMBOK- Guide (A Guide to the Project Manageme
 
 # Aufbau des aktuellen PMBOK-Guides
 Das Handbuch wird inhaltlich in den Standard und einen Leitfaden für das Projektmanagement gegliedert. Mit der 7. Edition wurden unter Berücksichtigung der technologischen und wirtschaftlichen Entwicklungen grundlegende Änderungen vorgenommen. Diese sollen aktuelle Herausforderungen im Projektmanagement besser widerspiegeln und Projektmanager:innen verbesserte Handlungsmöglichkeiten auf Marktveränderungen erlauben.
-Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer prozessorientierten Methodik, sondern auf Werten und Prinzipien. Zudem wurden die *Knowledge Areas* und die *Prozessgruppen* durch das sog. System für Wertlieferung, die Grundsätze und Projekt-Leistungsbereiche ersetzt [^3]. Im Abschnitt über Modelle, [Methoden](Methoden.md) und Artifakte werden allgemeine Beschreibungen der am meisten angewendeten Beispiele aufgeführt [^4].
+Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer prozessorientierten Methodik, sondern auf Werten und Prinzipien. Zudem wurden die *Knowledge Areas* und die *Prozessgruppen* durch das sog. System für Wertlieferung, die Grundsätze und Projekt-Leistungsbereiche ersetzt [^3]. Im Abschnitt über Modelle, [Methoden](Methoden.md) und Artifakte werden allgemeine Beschreibungen für Beispiele aufgeführt [^4].
 
 ![Abbildung](PMBOK_Guide/foto.jpg)
 
@@ -32,7 +32,7 @@ _Die Themenbereiche der aktuellen Edition_ [^6]
 ## System for Value Delivery
 
 Verschiedene Elemente können dazu beitragen, einen bestimmten Wert zu schaffen, wenn sie in einem System kombiniert werden. Damit das System mit der jeweiligen Organisationsstrategie übereinstimmt und an sein internes und externes Umfeld angepasst ist, sollte zwischen den beteiligten Elementen ein regelmäßiger Informationsaustausch stattfinden. Beispiele für Elemente sind Portfolios, Programme und Produkte.
-Das System für Wertlieferung wird dabei durch das Governance System unterstützt, welches einen Rahmen für verschiedene Funktionen darstellt. Wichtige Funktionen sind z.B. Aufsicht und Kontrolle. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter](Projektmitarbeiter.md) betont, die unabhängig vom Führungsstil ist. Der PMBOK Guide schreibt deshalb keinen bestimmten Führungsansatz vor. Entscheidend für das Projektergebnis ist die regelmäßige [Kommunikation](Kommunikation_Projektbeteiligte.md) und [Interaktion](Interaktion.md) zwischen Projektmitgliedern und Stakeholder:innen [^7].
+Das System für Wertlieferung wird dabei durch das Governance System unterstützt, welches einen Rahmen für verschiedene Funktionen darstellt. Wichtige Funktionen sind z.B. Aufsicht und Kontrolle. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter:innen](Projektmitarbeiter.md) betont, die unabhängig vom Führungsstil ist. Der PMBOK Guide schreibt deshalb keinen bestimmten Führungsansatz vor. Entscheidend für das Projektergebnis ist die regelmäßige [Kommunikation](Kommunikation_Projektbeteiligte.md) und [Interaktion](Interaktion.md) zwischen Projektmitgliedern und Stakeholder:innen [^7].
 
 
 ![Abbildung](PMBOK_Guide/system.jpg)
@@ -40,8 +40,8 @@ Das System für Wertlieferung wird dabei durch das Governance System unterstütz
 *Beispiel für das Wertlieferungssystem* [^7]
 
 ## Project Management Principles 
-Die Grundsätze wurden von Projektspezialist:innen verschiedener kultureller und beruflicher Hintergründe erarbeitet. Sie ergänzen die vier wichtigsten Werte (*Responsibility, Respect, Fairness, Honesty*) für das Projektmanagement, die man unter dem *Code of Ethics and Professional Conduct* des [PMI](PMI_Institution.md) zusammenfasst. Die neuen 12 Prinzipien aus dem PMBOK sind bewusst breit gefächert, damit sie jede Organisation umsetzen kann. Dadurch ist die Möglichkeit gegeben, dass Teams aus unterschiedlichen Bereichen und Berufsgruppen die Projektmanagement-Prinzipien an ihre eigenen Projekte anpassen können. 
-Die Grundsätze sollen nur als Orientierungshilfe für ein effizientes Projektmanagement dienen und sind deshalb nicht präskriptiv. Sie sind konsistent und können sich untereinander oder mit anderen Managementprinzipien überschneiden.
+Die Grundsätze wurden von Projektspezialist:innen verschiedener kultureller und beruflicher Hintergründe erarbeitet. Sie ergänzen die vier wichtigsten Werte (*Responsibility, Respect, Fairness, Honesty*) für das [PMI](PMI_Institution.md), die unter dem Kodex *Code of Ethics and Professional Conduct* zusammengefasst wurden. Im Vergleich zum Kodex sind die Grundsätze nicht obligatorisch. Die Grundsätze sollen nur als Orientierungshilfe für ein effizientes Projektmanagement dienen und sind deshalb nicht präskriptiv. Sie sind konsistent und können sich untereinander oder mit anderen Managementprinzipien überschneiden.
+Die neuen 12 Prinzipien aus dem PMBOK sind bewusst breit gefächert, damit sie jede Organisation umsetzen kann. Dadurch ist die Möglichkeit gegeben, dass Teams aus unterschiedlichen Bereichen und Berufsgruppen die Projektmanagement-Prinzipien an ihre eigenen Projekte anpassen können. 
 
 Die 12 Prinzipien sind nachfolgend mit ihren Bezeichnungen aufgelistet. Sie sind untereinander gleichgewichtet und folgen deshalb keiner besonderen Reihenfolge [^8].
 
@@ -104,6 +104,7 @@ Folgende Aspekte können angepasst werden:
 
 * [Agile project management and the PMBOK® guide](https://www.pmi.org/learning/library/agile-project-management-pmbok-waterfall-7042)
 * [PMBOK Guide 7th Edition (12 Principles)](https://www.youtube.com/watch?v=fGrsUSw1_Vw)
+* [PMI Ethikrichtlinien und Maßstäbe für professionelles Verhalten](https://www.pmi.org/-/media/pmi/documents/public/pdf/ethics/pmi-code-of-ethics.pdf?sc_lang_temp=de-DE)
 
 # Quellen
 [^1]:[PMBOK Guide 7th Edition: Was PMP-Kandidaten wissen müssen](https://www.theprojectgroup.com/blog/pmbok-guide-7th-edition/) 
