@@ -55,7 +55,7 @@ Das reine Ermitteln der Störungen selbst ist dagegen nicht nur die Aufgabe des 
 
 # Idealtypischer Ablauf für den Umgang mit Impediments
 
-**1. Aufnehmen:** In den meisten Fällen stößt man während der [Daily Scrums](Daily_Scrum.md) auf Impediments. Diese können dann direkt im Backlog dokumentiert und im Nachgang besprochen werden.[^6]
+**1. Aufnehmen:** In den meisten Fällen stößt man während der Daily Scrums auf Impediments. Diese können dann direkt im Backlog dokumentiert und im Nachgang besprochen werden.[^6]
 Der Hinweis auf ein Impediment kann einerseits durch die Projektmitglieder erfolgen, oder der Scrum Master selbst erkennt weniger offenkundige Probleme und bringt sie zur Sprache.[^2]
 
 
