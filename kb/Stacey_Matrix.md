@@ -45,8 +45,8 @@ Eine der größten Kritiken an der Stacey-Matrix ist, dass sie zu schnell fehlin
 
 # Weiterführende Literatur
 
-* [THEORY OF COMPLEXITY AND INNOVATION PROJECTS](http://symorg.fon.bg.ac.rs/proceedings/papers/21%20-%20PROJECT%20MANAGEMENT.pdf#page=71)
-* [Goll J, Hommel H. (2015). Mit Scrum zum gewünschten System (1.Aufl.). Wiesbaden: Springer Fachmedien](https://link.springer.com/content/pdf/10.1007/978-3-658-10721-5.pdf)
+* [Theory of Complexity and Innovation Projects](http://symorg.fon.bg.ac.rs/proceedings/papers/21%20-%20PROJECT%20MANAGEMENT.pdf#page=71)
+* [Goll J., Hommel H. (2015). Mit Scrum zum gewünschten System (1. Aufl.). Wiesbaden: Springer Fachmedien](https://link.springer.com/content/pdf/10.1007/978-3-658-10721-5.pdf)
 
 # Quellen
 
