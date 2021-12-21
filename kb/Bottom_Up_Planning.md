@@ -23,7 +23,7 @@ Das große Ganze, also das Ergebnis eines Prozesses oder Projekts ist dass, wora
 
 ## Wie funktioniert Bottom Up Planning?
 
-Bottom Up bedeutet frei übersetzt von unten nach oben. Die Planung wird „unten“ gestartet und arbeitet sich Stück für Stück nach „oben“. Bei der Bottom Up Planning Methode auf werden zunächst relativ enge Ziele auf den unteren Ebenen der Organisationshierarchie festgelegt. Sie werden dann schrittweise in den Rahmen der globalen Ziele und Strategie auf höheren Ebenen integriert. Es handelt sich ebenso um eine Methode, zur Planung als auch für die Definition von Unternehmenszielen und Möglichkeiten für deren Erreichung[^2].
+Bottom Up bedeutet frei übersetzt von unten nach oben. Die Planung wird „unten“ gestartet und arbeitet sich Stück für Stück nach „oben“. Bei der Bottom Up Planning Methode  werden zunächst relativ enge Ziele auf den unteren Ebenen der Organisationshierarchie festgelegt. Sie werden dann schrittweise in den Rahmen der globalen Ziele und Strategie auf höheren Ebenen integriert. Es handelt sich ebenso um eine Methode, zur Planung als auch für die Definition von Unternehmenszielen und Möglichkeiten für deren Erreichung[^2].
 Diese Herangehensweise zielt darauf ab einen Plan auf einer unteren, sinnvollen Klassifizierungsebene zu erstellen. Die Planung bewegt sich dann schrittweise aufwärts - von unten nach oben. Jede Ebene plant ihre Ziele und Maßnahmen und leitet ihren Teilplan an die übergeordnete Ebene weiter. Dort werden die Teilpläne koordiniert, kontrolliert, integriert, ergänzt und wiederum an die nächsthöhere Ebene weitergegeben. 
 
 ![image](https://user-images.githubusercontent.com/92928630/143275928-341298e9-9093-4511-aa5c-43a1136ab7d4.png)
