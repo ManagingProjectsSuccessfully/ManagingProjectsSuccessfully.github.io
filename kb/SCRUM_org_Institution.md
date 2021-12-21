@@ -5,7 +5,7 @@ author: SimonM211
 anrechnung: a
 ---
 
-Scrum.org ist eine Institution, die es sich zum Auftrag gemacht hat, Teams bei der Lösung von komplexen Problemen mit Hilfe von [Scrum](SCRUM.md) zu unterstützen. Sie wurde 2009 von Ken Schwaber, einem der Mitbegründer von Scrum und Unterzeichner des [Agiles Manifests](Agiles_Manifest.md), ins Leben gerufen. Kern des Angebotes sind Scrum Kurse für alle wichtigen Rollen eines Scrum Projekts und eine darauf aufbauende Zertifizierung, um einen gewissen Qualitätsstandart sicher zu stellen.
+Scrum.org ist eine Institution, die es sich zum Auftrag gemacht hat, Teams bei der Lösung von komplexen Problemen mit Hilfe der agilen Arbeitsweise [Scrum](SCRUM.md) zu unterstützen. Sie wurde 2009 von Ken Schwaber, einem der Mitbegründer von Scrum und Unterzeichner des [Agiles Manifests](Agiles_Manifest.md), ins Leben gerufen. Kern des Angebotes sind Scrum Kurse für alle wichtigen Rollen eines Scrum Projekts und eine darauf aufbauende Zertifizierung, um einen gewissen Qualitätsstandart sicher zu stellen.
 
 # Hintergrundgeschichte
 
