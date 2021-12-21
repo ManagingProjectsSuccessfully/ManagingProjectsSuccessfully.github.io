@@ -57,9 +57,13 @@ zu 3: In der Test- und Validierungsphase steht jede Ebene der dazugehörigen Ebe
 - Softwareentwicklung 
 - Medizintechnik
 - Automobilindustrie
+- Militär
 - Luft- und Raumfahrt
   und viele mehr...
-  
+
+#### Weiterentwicklung
+Neben dem klassischen V-Modell exsistieren mittlerweile auch angepasste Versionen des Modells, wie dem V-Modell XT, welches als Standard für viele Projekte der Bundesregierung genutz wird. Auch für agile Projekte und Prozesse wurde das V-Modell zum W-Modell weiterentwickelt, um komplizierte schwer zu handhabende Systeme besser koordinieren zu können.
+
 # Weiterführende Literatur
 
 * Youtube-Video: https://www.youtube.com/watch?v=FxS9LFzpM-o
