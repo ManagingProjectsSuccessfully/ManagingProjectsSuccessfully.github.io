@@ -9,16 +9,6 @@ Durch die Risikomatrix oder auch Risikodiagramm, Risikoprofil[^1], wird die Wahr
 
 Die Risikomatrix ist eine zweidimensionale Darstellung, welche der systematischen Evaluierung und Bewertung von Risiken dienen soll. Des Weiteren ist die Risikomatrix ein Instrument aus der [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) und erfolgt in verschiedenen Varianten.[^2]    			
 
-* [Aufbau und Berechnung](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#aufbau-und-berechnung)
-* [Nutzen](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#nutzen)
-  - [Nutzen Allgemein](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#nutzen-allgemein)
-  - [Nutzen im Risikomanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Nutzen%20im%20Risikomangement)
-  - [Nutzen im Projekmanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Nutzen%20im%20Projektmanagement)
-* [Kritik](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=das%20Risikomanagement%20verwendet5.-,Kritik,-Zun%C3%A4chst%20ist%20die)
-* [Siehe auch](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#siehe-auch)
-* [Weiterführende Literatur](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#weiterführende-literatur)
-* [Quellen](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#quellen)
-
 # Aufbau und Berechnung
 Bei der tabellarischen Darstellung der Risikomatrix wird an der y-Achse die Eintrittswahrscheinlichkeit[^11] und an der x-Achse die Schadenshöhe angegeben[^4]. Da es aber keine einheitliche Darstellungsform gibt, kann die Matrix auch eine umgekehrte Beschriftung der Achsen haben.[^5]
 
