@@ -13,7 +13,6 @@ nachhaltigen Projekten, mithilfe von Beispielen, erläutert wird.
 
 In der modernen Gesellschaft ist Nachhaltigkeit einer der zentralen Aspekte bei der Innovierung von Unternehmen, Haushalten und sogar Ländern, wodurch die Anzahl an 
 nachhaltigen Projekten immer mehr steigt. Auch wird versucht Umweltschutz und wirtschaftliche Ziele zu komplementären Zielen zu machen und einen positiven Zukunftsausblick zu schaffen.
-Genaueres dazu gibt es beim Beitrag über [Nachhaltigkeit im PM](Nachhaltigkeit_im_PM.md)
 
 Nachhaltigkeit kann allgemein in drei Kernbereiche aufgeteilt werden: ökologische Nachhaltigkeit, ökonomische Nachhaltigkeit und soziale Nachhaltigkeit[^1], wobei stets versucht wird diese Bereiche möglichst gut zu vereinen. Folglich ist vermehrt Nachhaltigkeit in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt. Auch sind nachhaltige Projekte sehr eng mit der [nachhaltigen Entwicklung](Nachhaltige_Entwicklung.md) oder im 
 englischen „sustainable development“ verbunden und hängen von einander ab. 
