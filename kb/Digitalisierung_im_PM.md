@@ -27,8 +27,7 @@ Ein weiterer zentraler Aspekt ist der Einsatz digitaler Werkzeuge, welche die Ar
 
 ## Datenmanagement 
 
-Die Nutzung von Plattformen, wie [Asana](Asana_PM_Tool.md), [Microsoft Projekt](Microsoft_Project_PM_Tool.md) oder [Trello](Trello_PM_Tool.md), helfen die immer komplexeren Prozesse und Projekte zu bewältigen.[^3] In Verbindung mit zahlreichen [Projektmanagementsoftware](Projektmanagementsoftware.md) und [Cloud Services](Cloud_Services.md) können Informationen viel leichter ausgetauscht und miteinander geteilt werden. So wird ein immer aktueller Projektüberblick sowie Status der Aktivitäten ermöglicht.[^4] 
-„Digitale Visualisierungs-Tools erlauben es zudem dem Projektverantwortlichen, unterschiedliche Szenarien visuell darzustellen […] Dadurch werden Projekte für alle Beteiligten transparenter und die organisatorischen Abläufe können einfacher und übersichtlicher gestaltet werden.“[^5] 
+Die Nutzung von Plattformen, wie [Asana](Asana_PM_Tool.md), [Microsoft Projekt](Microsoft_Project_PM_Tool.md) oder [Trello](Trello_PM_Tool.md), helfen die immer komplexeren Prozesse und Projekte zu bewältigen.[^3] In Verbindung mit zahlreichen [Projektmanagementsoftware](Projektmanagementsoftware.md) und [Cloud Services](Cloud_Services.md) können Informationen viel leichter ausgetauscht und miteinander geteilt werden. So wird ein immer aktueller Projektüberblick sowie Status der Aktivitäten ermöglicht.[^4] „Digitale Visualisierungs-Tools erlauben es zudem dem Projektverantwortlichen, unterschiedliche Szenarien visuell darzustellen […] Dadurch werden Projekte für alle Beteiligten transparenter und die organisatorischen Abläufe können einfacher und übersichtlicher gestaltet werden.“[^5] 
 
 ## Kommunikation
 
