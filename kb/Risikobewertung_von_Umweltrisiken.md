@@ -32,15 +32,14 @@ Die externen Umweltrisiken treten als Folge von Naturkatastrophen und Umweltänd
 
 Der richtige Umgang mit Umweltrisiken ist von großer Bedeutung für den langfristigen Projekt- und Unternehmenserfolg. Deshalb ist die Bewertung von Umweltrisiken, sowie die Planung von Gegenmaßnahmen, ein wichtiger Teil der Entwicklung und des [Managements von Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) in Unternehmen.
 
-### Schritte zur Identifizierung und Bewertung
+### Identifizierung 
 Der erste Schritt ist die Erkennung und Erfassung von potenziellen Risiken. Mithilfe der Analyse von Prozessabläufen, technischer Kontrolle von Maschinen und Anlagen, sowie Auswertung von Daten, die in der Produktion anfallen, können wichtige Erkenntnisse über interne Schwachstellen gewonnen werden. Die Befragung von externen Experten und Mitarbeiten kann ebenfalls relevante Informationen liefern. 
 
+### Bewertung
 Der Umweltrisikoidentifikation und -bewertung dienen verschiede Methoden. Die Fehlerbaumanalyse[^4], zum Beispiel, ist eine Methode, die sich für die Erkennung von Umweltrisiken, die als Konsequenz von technischen Fehlern auftreten, eignet. Sie berechnet die Wahrscheinlichkeit eines Ausfalls von Anlagen und Systemen. Die Auswirkung solcher Ausfälle lässt sich durch die Ereignisbaumanalyse[^5] betrachten. Weitere Methoden zur Identifikation von Umweltrisiken sind die Fehlermöglichkeits- und Einflussanalyse[^6]. Sie betrachten die möglichen Fehler nach ihrer Eintritts- und Entdeckungswahrscheinlichkeit und berücksichtigen ebenso die daraus folgenden Auswirkungen auf die Kundenzufriedenheit. 
 Sobald die potenziellen Umweltrisiken identifiziert sind, können sie bewertet werden. Die Bewertung ist oft komplex und mit Schwierigkeiten verbunden, weil die Umweltrisiken nicht vorhersehbar sind. Zuerst wird die Eintrittswahrscheinlichkeit und die damit verbundenen Schäden für die Umwelt bzw. das Unternehmen abgeschätzt, um die finanziellen Folgen beziffern zu können.  Bei der Umweltrisikobewertung erhält man eine Schadensumverteilung, die angibt, mit welcher Wahrscheinlichkeit ein Schaden einen bestimmten Wert übersteigt.[^3]
 
-
-### Maßnahmen zur Vermeidung und Minimierung von Umweltrisiken
-
+### Maßnahmen zur Vermeidung und Minimierung 
 Eine Maßnahme zur Vermeidung und Minimierung von Umweltrisiken und ihrer Schäden ist beispielsweise die nachhaltige Gestaltung von Produktionsprozessen. Ein Produktionsprozess wird als nachhaltig betitelt, wenn dieser auf umweltfreundliche Materialien und Stoffe zurückgreift und diese in effizienter Abfolge von Teilschritten verarbeitet. Das ist häufig mit hohen Anfangsinvestitionen verbunden, jedoch können durch die Nachhaltigkeit und innovative Lösungen langfristig Kosten gespart werden. Eine weitere sinnvolle Maßnahme sind Versicherungen. Sie sind besonders gut bei externen Umweltrisiken geeignet, weil diese schwierig vorhergesehen und vermieden werden können. 
 
 
