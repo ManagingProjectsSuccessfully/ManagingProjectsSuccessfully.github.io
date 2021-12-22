@@ -14,7 +14,7 @@ Zudem werden oft mehrere Kritikarten in bestimmten Situationen unterschieden. Hi
 * "Neid" bei Individualität
 * "Geiz" bei Wissen [^2]
 
-Nachfolgend eine kleine Übersicht wie in allgemeinen Situationen mit Kritik umgegangen werden kann [^3]:
+Nachfolgend eine Übersicht wie in allgemeinen Situationen mit Kritik umgegangen werden kann [^3]:
 ![Umgang mit Kritik](Umgang_mit_Kritik/UmgangmitKritik.JPG) 
 
 # Der Umgang mit Kritik im agilen Projektmanagement
@@ -29,10 +29,10 @@ Als Referenz für das agile Projektmanagement wird das [Agile Manifest](Agiles_M
 Um Projekte effektiver und schneller zu steuern, gibt es verschiedene Agile Methoden wie z.B. [Scrum](SCRUM.md) und [Design Thinking](Design_Thinking.md) oder auch weitere Agile Tools[^11][^8].
 Die Kanban-Methode mit den bekannten [Kanban-Boards](Kanban_Boards.md) gehört zu den geläufigsten Tools im Projektmanagement[^4].
 
-## Wie man mit Kritik in Projekten umgehen kann 
+## Der Umgang mit Kritik in Projekten
 Durch die Flexibilität und Schnelllebigkeit kann es in einem Projektteam schneller zu Differenzen und dadurch zu Konflikten kommen. Hier ist es einerseits entscheidend, dass die Person selbst gut mit Kritik umgehen kann, als auch Kritik gut äußern kann. Nur so ist eine offene Unternehmensstruktur möglich[^5].
 
-In der folgenden Tabelle werden Do's und Don'ts aufgelistet, welche in jedem Projektteam zu Beginn eines Projektsstarts vorgestellt bzw. gemeinsam diskutiert werden können [^7]:
+In der folgenden Tabelle werden Do's und Don'ts aufgelistet, welche in jedem Projektteam zu Beginn eines Projektsstarts vorgestellt bzw. gemeinsam diskutiert werden sollten. Optimalerweise werden diese Do's und Don'ts auf einem Plakat, Whiteboard etc. festgehalten und gut sichtbar für die Dauer des Projekts in dem jeweiligen Arbeitsraum angebracht [^7]:
 
 |**Do's** | **Don'ts**|
 |  :-----:  | :-------: |
@@ -48,7 +48,7 @@ In der folgenden Tabelle werden Do's und Don'ts aufgelistet, welche in jedem Pro
 
 
 Ebenfalls sollten Uneinigkeiten im Projektteam sofort angesprochen werden, da ansonsten Konflikte und Spannungen weiter eskalieren können. 
-Konflikte gehören zum Leben und sich nicht vermeidbar. Die Gründe warum Unstimmigkeiten entstehen sind sehr unterschiedlich, beweglich und veränderbar. Deshalb eignet es sich in einem Projektteam, die Teamstruktur regelmäßig zu reflektieren. Hierfür sollte ein Verantwortlicher, meistens die Teamführung, festgelegt werden[^6].
+Konflikte gehören zum Leben und sich nicht vermeidbar. Die Gründe warum Unstimmigkeiten entstehen sind sehr unterschiedlich, beweglich und veränderbar. Deshalb eignet es sich in einem Projektteam, die Teamstruktur zu reflektieren. Hierfür sollte ein Verantwortlicher, meistens die Teamführung, festgelegt werden. Die Teamreflexion sollte aus konkreten Fragen, z.B.: Wie haben sich die teilnehmenden Personen in den betreffenden Siutationen verhalten? Welche Gründe gibt es für das jeweilige Verhalten? etc. bestehen. Gleichermaßen ist es notwenig, die Teamreflexion in regelmäßigen Abständen mit den gleichen Fragen durchzuführen. Im Idealfall führt die Reflexion zu einem Kompetenztransfer zwischen den Gruppenmitgliedern und bewirkt, dass sich die einzelnen Teilnehmer gegenseitg noch stärker motivieren und mögliche Probleme oder Konflikte gemeinsam lösen[^6][^13].
 
 # Siehe auch 
 
@@ -74,4 +74,5 @@ Konflikte gehören zum Leben und sich nicht vermeidbar. Die Gründe warum Unstim
 [^10]: [Monierung](https://www.duden.de/rechtschreibung/Monierung)
 [^11]: [Agile Tools](https://www.projektmagazin.de/agile-methoden) 
 [^12]: [Feedbackregeln](https://www.hochschuldidaktik.uni-freiburg.de/koll_hospi/checklisten/feedback)
+[^13]: [Teamreflexion](https://www.nifbe.de/component/themensammlung?view=item&id=746:vertrauen-respektieren-offen-kommunizieren&catid=82)
 
