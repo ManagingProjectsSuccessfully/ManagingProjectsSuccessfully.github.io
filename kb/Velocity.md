@@ -4,11 +4,10 @@ tags: agil
 author: JonathanLoewing
 anrechnung: a
 ---
-# Velocity
 Velocity kommt aus dem Englischen und bedeutet Geschwindigkeit. Dies bezieht sich im agilen Projektmanagement auf Geschwindigkeit des Entwicklungsteams. Die Velocity ist also 
 eine Maßeinheit für die Geschwindigkeit eines Teams. In Scrum wird mit der Velocity gemessen, wie viele Story Points ein Scrum Team im Schnitt pro Sprint erledigen kann.[^3]
 
-Die Velocity wird meistens im Zusammenhang mit [Scrum](Scrum.md), einem Vorgehensmodell des Projektmanagements, verwendet. Da die Story Points in Scrum alleine keine 
+Die Velocity wird meistens im Zusammenhang mit [Scrum](SCRUM.md), einem Vorgehensmodell des Projektmanagements, verwendet. Da die Story Points in Scrum alleine keine 
 Aussagekraft in Bezug auf den Arbeitsaufwand und die Geschwindigkeit des Teams haben, wird die Velocity als aussagekräftige Maßeinheit benötigt. Genauer gesagt misst sie die 
 Arbeitsmenge, die ein Entwicklungsteam in einem Sprint erledigen kann. Also ist sie ein Maß für die Schnelligkeit des Teams. Sie variiert auch von Sprint zu Sprint, ist also 
 keine konstante Größe innerhalb eines Projekts.[^1]
@@ -32,15 +31,11 @@ Es gibt aber auch ein paar Dinge auf die man achten und am besten vermeiden soll
 einrechnen. Außerdem wird die Geschwindigkeit immer für das ganze Team berechnet und nicht für einzige Teammitglieder, da die Velocity ein Maßeinheit für das ganze Team 
 ist.[^5]
 
-# Fazit
-Insgesamt betrachtet ist die Velocity eine sehr wichtige Maßeinheit für das Projektmanagementteam. Aus ihrer Analyse können die nächsten Sprints optimiert werden und folglich 
-auch das Projekt erfolgreich abgeschlossen werden.
-
 
 
 # Siehe auch
 
-[Scrum](Scrum.md)
+[Scrum](SCRUM.md)
 
 # Weiterführende Literatur
 
