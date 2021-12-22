@@ -1,6 +1,6 @@
 ---
 title: Abschlussanalyse
-tags: agil klassisch
+tags: agil klassisch projektmanagement
 author: medjeara
 anrechnung: k
 ---
