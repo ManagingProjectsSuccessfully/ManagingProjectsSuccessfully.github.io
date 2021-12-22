@@ -29,7 +29,7 @@ Sobald der Grundstein mit dem Bewusstsein für Veränderung gelegt wurde, kann m
 Da dieser Schritt sehr individuell ist, müssen anhand von Coachings und Gesprächen die persönliche Situation und Anreize des Mitarbeiters erkannt und angewandt werden. [^5]
 Mögliche Fragestellungen können lauten:
 - "What's in it for me?" [^6] - Was habe ich davon?
-- "What motivates them?" [6] - Was ist meine persönliche Motivation?
+- "What motivates them?" [^6] - Was ist meine persönliche Motivation?
 
 
 ## Knowledge
