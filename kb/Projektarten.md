@@ -15,14 +15,14 @@ Es gibt verschiedene Möglichkeiten, Projekte zu charakterisieren. Zum einen las
 
 Zum anderen dient auch die soziale Komplexität als charakteristisches Unterscheidungsmerkmal für Projekte. Hierbei differenziert man zwischen einer geringen und hohen Komplexität. Die geringe Komplexität steht durch gering ausgeprägte Interessensunterschiede für eine unproblematische Zusammenarbeit, wohingegen eine hohe soziale Komplexität von unterschiedlichen Benutzerinteressen charakterisiert ist.[^1][^6] Folglich besteht ein hohes [Konfliktpotenzial](Zielkonflikte.md).
 
-Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und Heitger darstellen, woraus sich vier Projektarten ableiten lassen.[^4][^6]
+Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und Heitger darstellen, woraus sich vier Projektarten ableiten lassen.[^1][^4]
 
 
 ![Screenshot (634)](https://user-images.githubusercontent.com/92957209/143319388-b9813527-7d21-4df2-88a4-dfd3cf270bd1.png)
 
 *Abbildung: Projektarten-Matrix*[^1]
 
-[Standard- oder Routineprojekte](Routineprojekte.md) können aufgrund bestehender Erfahrung standardisiert und relativ einfach abgewickelt werden, wie beispielsweise Ersatzinvestitionen im Unternehmen. Auch bei den Akzeptanzprojekten kann man auf [Erfahrung](Wissenstransfer.md) zurückgreifen und zu einem gewissen Grad standardisieren. Jedoch ist diese Art von Projekt durch ihre hohe Komplexität oft mit Akzeptanzproblemen verbunden, weshalb Information und Kommunikation eine entscheidende Rolle spielen.
+[Standard- oder Routineprojekte](Routineprojekte.md) können aufgrund bestehender Erfahrung standardisiert und relativ einfach abgewickelt werden, wie beispielsweise Ersatzinvestitionen im Unternehmen.[^7] Auch bei den Akzeptanzprojekten kann man auf [Erfahrung](Wissenstransfer.md) zurückgreifen und zu einem gewissen Grad standardisieren.[^5] Jedoch ist diese Art von Projekt durch ihre hohe Komplexität oft mit Akzeptanzproblemen verbunden, weshalb Information und Kommunikation eine entscheidende Rolle spielen.[^1]
 
 Potenzialprojekte sind durch ihr geringes Risiko und ihre einfache Projektorganisation charakterisiert, da sie trotz ihrer offenen Aufgabenstellung eine geringe Vernetzung mit dem Projektumfeld aufweisen. Unter diese Projektart fallen vor allem [Forschungsprojekte](Forschungsprojekte.md).[^4] 
 
@@ -30,7 +30,7 @@ Im Gegensatz zu den Potenzialprojekten werden [Pionierprojekte](Pionierprojekte.
 
 Wichtig zu beachten ist, dass die Grenzen der Matrix nicht starr sind und eine eindeutige Zuordnung nicht immer möglich ist. Darüber hinaus wechseln viele Projekte während der Entwicklung von Vorstudienphase bis zur Realisierung ihre Projektart. Dabei wandeln sich Projekte meist vom Potenzial- zum Pionierprojekt und werden im Anschluss zu Akzeptanz- oder sogar Standardprojekt[^2]. 
 
-Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen internen und externen Auftraggebern eines der wichtigsten Kriterien von Projekten. Häufig erscheint es auch sinnvoll, Projekte anhand ihres Inhalts  oder Branche zu differenzieren, um spezielle Vorgehensweisen und Techniken abzuleiten.[^2] Ein klassisches Schema ist die Unterscheidung in Investitions-, [Forschungs-](Forschungsprojekte.md) und [Entwicklungsprojekte](Entwicklungsprojekte.md), sowie Organisations- und [IT-Projekte](IT-Projekte.md).[^1][^2]
+Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen internen und externen Auftraggebern eines der wichtigsten Kriterien von Projekten.[^4] Häufig erscheint es auch sinnvoll, Projekte anhand ihres Inhalts  oder Branche zu differenzieren, um spezielle Vorgehensweisen und Techniken abzuleiten.[^2] Ein klassisches Schema ist die Unterscheidung in Investitions-, [Forschungs-](Forschungsprojekte.md) und [Entwicklungsprojekte](Entwicklungsprojekte.md), sowie Organisations- und [IT-Projekte](IT-Projekte.md).[^1][^2]
 
 # Bedeutung für Projektmanagement
 
