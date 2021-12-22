@@ -60,7 +60,7 @@ Neben den Vorteilen bringt ein Business Case aber auch ***Nachteile*** mit sich:
 
 
 ## 6.	Fazit
-Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement etabliert. Er stellt den Projektverantwortlichen umfassende Informationen über Kosten, Nutzen und Risiken eines Projekts zur Verfügung. Durch weitere Bestandteile wie dem Zeitrahmen und der Investitionsrechnung, welche ein Business Case nach PRINCE2 enthalten sollte, ergibt sich eine detaillierte Analyse der Wirtschaftlichkeit eines Projekts, die den Entscheidungsträgern bei der erfolgreichen Umsetzung der rentabelsten Vorhaben unterstützt.[^1] 
+Der Business Case hat sich zu einem wichtigen Bestandteil im Projektmanagement etabliert. Er stellt den Projektverantwortlichen umfassende Informationen über Kosten, Nutzen und Risiken eines Projekts zur Verfügung. Durch weitere Bestandteile wie dem Zeitrahmen und der Investitionsrechnung, welche ein Business Case nach PRINCE2 enthalten sollte, ergibt sich eine detaillierte Analyse der Wirtschaftlichkeit eines Projekts, die die Entscheidungsträger bei der erfolgreichen Umsetzung der rentabelsten Vorhaben unterstützt.[^1] 
 
 
 ## 7. Siehe auch
