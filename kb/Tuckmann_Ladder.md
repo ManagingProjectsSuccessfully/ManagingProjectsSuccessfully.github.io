@@ -60,9 +60,9 @@ Ein harmonisches Team ist die Basis für ein erfolgreiches Unternehmen. Damit si
 
 # Weiterführende Literatur
 
-* Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384–399. https://doi.org/10.1037/h0022100
-* Xu, H. , Chen, Z. and Mao, J. (2020) Inhibition or Facilitation? A Review of Research on the Effects of Uncertainty Stimuli on User Psychology and Behavior. American Journal of Industrial and Business Management, 10, 1586-1604. doi: 10.4236/ajibm.2020.109101.
-* Jong, Ad & de ruyter, ko & Wetzels, Martin. (2005). Antecedents and Consequences of Group Potency: A Study of Self-Managing Service Teams. Management Science. 51. 1610-1625. 10.1287/mnsc.1050.0425. 
+* [Developmental sequence in small groups.](https://psycnet.apa.org/record/1965-12187-001)
+* [Inhibition or Facilitation? A Review of Research on the Effects of Uncertainty Stimuli on User Psychology and Behavior.](https://www.researchgate.net/publication/345362880_Inhibition_or_Facilitation_A_Review_of_Research_on_the_Effects_of_Uncertainty_Stimuli_on_User_Psychology_and_Behavior)
+* [Antecedents and Consequences of Group Potency: A Study of Self-Managing Service Teams.](https://www.researchgate.net/publication/220534522_Antecedents_and_Consequences_of_Group_Potency_A_Study_of_Self-Managing_Service_Teams)
 
 # Quellen
 
@@ -72,4 +72,5 @@ Ein harmonisches Team ist die Basis für ein erfolgreiches Unternehmen. Damit si
 [^6]: [Stages of Small-Group Development Revisited](https://webspace.science.uu.nl/~daeme101/Stages%20of%20Small-Group%20Development%20Revisted.pdf)
 [^5]: [Teamphasen nach Tuckman](https://www.wsu-beratung.de/blog/teamphasen)
 [^7]: [Scheiden tut weh: Adjourning – die unterschätzte Phase im Teamprozess](https://teamworks-gmbh.de/scheiden-tut-weh-adjourning-die-unterschaetzte-phase-im-teamprozess/)
+[^7]: [Project Management: A Strategic Managerial Approach](https://books.google.de/books?id=ipZXDwAAQBAJ&pg=PA87&lpg=PA87&dq=tuckman+ladder+classic+management&source=bl&ots=Qxn-qMDClZ&sig=ACfU3U31NTWnn_zW8I6ZgZBg6ewJvmwlvQ&hl=de&sa=X&ved=2ahUKEwj_sPSE9fT0AhUGCuwKHVtvBWsQ6AF6BAgtEAM#v=onepage&q=tuckman%20ladder%20classic%20management&f=false)
 [^1]: [Agiles Coaching: Die neue Art, Teams zum Erfolg zu führen](https://books.google.de/books?id=iV6yDwAAQBAJ&lpg=PT335&ots=KQiYmuqrjk&dq=adjourning%20als%20trauerphase&hl=de&pg=PT335#v=onepage&q=adjourning%20als%20trauerphase&f=false)
