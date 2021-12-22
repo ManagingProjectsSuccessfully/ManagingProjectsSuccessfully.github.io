@@ -30,26 +30,26 @@ Ausbildung zum Projektleiter [^3]
 
 # Die sieben Hauptaufgaben eines Projektleiters in klassischen Projekten 
 
-## Projektdefiniton
+## 1. Projektdefiniton
 Sofern die Ziele nicht konkret durch einen Arbeitgeber definiert wurden, muss der Projektleiter diese möglichst realistisch und präzise festlegen. Zudem ist er auch für die Dokumentation des Projektauftrags zuständig, um sie dem Lenkungsausschuss für die Genehmigung des Projekts vorweisen zu können. 
 
-## Projektorganisation
+## 2. Projektorganisation
 Zur Projektdefinition zählen vor allem die Integration des Projektes in die bestehende Unternehmensstruktur, die Rollendefinition, die Zusammensetzung des Teams unter Berücksichtigung der Qualität sowie Anzahl der Mitglieder, weil nur in Gruppen bis zu acht Mitgliedern ein effizientes Arbeiten gilt. 
 
-## Projektplanung
+## 3. Projektplanung
 Die Planung eines Projekts beginnt mir einer Analyse des Ist-Zustands. Dies ermöglicht eine Problemermittlung und schafft Referenzwerte. Dabei können bei der Planung moderne Instrumente wie Workshops, beispielsweise ein Projektstartworkshop, oder die Analyse des Projektumfelds, aber auch traditionelle Instrumente wie die Einsatzmittelplanung oder Projektkostenplanung behilflich sein.  
 
-## Kommunikation
+## 4. Kommunikation
 Die abgestimmte Kommunikation für einen erfolgreichen Informationsaustausch ist die Basis für die Zielerreichung jedes Teams.  
 Hierfür muss der Projektleiter geeignete Kommunikationsmittel bestimmen, benötigte Informationen weiterleiten und Mitglieder zu intensiver Kommunikation motivieren. 
 
-## Umfeldmanagement 
+## 5. Umfeldmanagement 
 Die Teammitglieder setzen sich oft von unterschiedlichen Abteilungen zusammen, weshalb zunächst abteilungsbezogene Ziele entstehen. Diesbezüglich muss ein Projektleiter für eine Überbrückung von Kulturunterschieden, einen Ausgleich unterschiedlicher Interessen und für eine Bildung eines gemeinsamen Teams sorgen. 
 
-## Projektcontrolling 
+## 6. Projektcontrolling 
 Im Zusammenhang mit Projektcontrolling übergibt der Projektleiter die Aufgabe das Projekt zu überwachen und zu dokumentieren an ein dafür qualifiziertes Teammitglied. 
 
-## Mitarbeiterführung
+## 7. Mitarbeiterführung
 Auch wenn ein Projektleiter unter anderem ein [Projektmitarbeiter](Projektmitarbeiter.md) ist und nicht unbedingt der direkte Vorgesetzte der Teammitglieder ist, stehen ihm jedoch folgende Kompetenzen zu:
   1. Die Planung und Durchführung der Weiterbildungsmaßnahmen des Teams 
   2. Bestimmung der Aufgabenteilung im Team  
