@@ -10,8 +10,8 @@ anrechnung: k
 ## Einführung & Definition
 
 Um innerhalb des [Projektmanagements](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) den Erfolg eines [Projekts](https://github.com/jonaskarg187/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) zu sichern, gibt es viele Methoden, die Arbeitsweise und den Projektabschluss bzw. [Projektabschlussbericht](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektabschlussbericht.md) positiv zu beeinflussen und zu optimieren.
-Eine altbewährte Methode, kreatives, flexibles und hirngerechtes Arbeiten zu ermöglichen, ist das sogenannte Mind-Mapping, welches dazu dient möglichst übersichtlich und einfach Informationen zu einem Überthema grafisch darzustellen. 
-Hierbei werden das zentrale Thema in der Mitte der Karte platziert und Notizen dazu rund um den Themabegriff gesammelt. Dies eignet sich, um eine schnelle und gehaltvolle Übersicht auf den ersten Blick bereitzustellen.
+Eine altbewährte Methode, kreatives, flexibles und gehirngerechtes Arbeiten zu ermöglichen, ist das sogenannte Mind-Mapping, welches dazu dient möglichst übersichtlich und einfach Informationen zu einem Überthema grafisch darzustellen. 
+Hierbei werden das zentrale Thema in der Mitte der Karte platziert und Notizen dazu rund um den Themenbegriff gesammelt. Dies eignet sich, um eine schnelle und gehaltvolle Übersicht auf den ersten Blick bereitzustellen.
 Vom mittleren Hauptthema gehen Verzweigungen aus, die zu Gedanken und Unterpunkten führen.
 Diese Unterpunkte können sich wiederum in weiterführende Zweige aufgliedern.[^1]
 
@@ -28,7 +28,7 @@ Dieser Behaltensprozess wird schon durch das reine Anfertigen der Grafik angetri
 
 Um Mindmaps übersichtlich visuell abzubilden, eignen sich einige computergestützte Programme sehr gut. Diese helfen dabei, das systematische Erfassen von Inhalten zu vereinfachen. 
 Der Vorteil darin besteht daraus, die Mindmap relativ simpel zu verändern und gegebenenfalls zu ergänzen. Es bietet außerdem die Möglichkeit mit mehreren [Projektmitarbeitern](https://github.com/Emi1404/ManagingProjectsSuccessfully.github.io/blob/a1985504cd4d3fbcee13109d0b2090a80a2de518/kb/Projektmitarbeiter.md) gleichzeitig an einem Inhalt zu arbeiten und ihn so stetig zu verbessern. 
-Die Option zusätzlicher Funktionen, wie dem Hinterlegen von Notizen zu einzelnen Schlüsselbegriffen oder ganzen Dokumenten, wird zusätzlich zu dem grafischen Potential der Gestaltung von Punkten und Unterpunkten angeboten. Auch das Anlegen von Verknüpfungen zu Mailprogrammen kann nützliche Werkzeuge bieten, wie das Verschicken von Erinnerungsterminen. [^4]
+Die Option zusätzlicher Funktionen, wie dem Hinterlegen von Notizen zu einzelnen Schlüsselbegriffen oder ganzen Dokumenten, wird zusätzlich zu dem grafischen Potenzial der Gestaltung von Punkten und Unterpunkten angeboten. Auch das Anlegen von Verknüpfungen zu Mailprogrammen kann nützliche Werkzeuge bieten, wie das Verschicken von Erinnerungsterminen. [^4]
 Als solche Programme sind XMind oder FreeMind aufzuführen.
 
 ## Einsatzmöglichkeiten von Mindmaps
@@ -59,7 +59,7 @@ Sie ist sehr unkompliziert anzuwenden und hilft dabei komplexe Zusammenhänge au
 ### Quellen
 
 [^1]: [Reich, K, (2003), Methodenpool](http://methodenpool.uni-koeln.de/download/mindmapping.pdf)
-[^2]: [Abbildung 1, Mindmap Grafik), Methodenpool](https://www.virtuos.uni-osnabrueck.de/en/hochschuldidaktik/methoden/mindmap.html)
+[^2]: [Abbildung 1, Mindmap Grafik](https://www.virtuos.uni-osnabrueck.de/en/hochschuldidaktik/methoden/mindmap.html)
 [^3]: Peter Kline, Das Alltägliche Genie, Paderborn 1995, S.369) 
 [^4]: [Uni Frankfurt, MindMapping](https://www.uni-frankfurt.de/53571999/Mindmapping)
 [^5]: [STW Berlin, Cluster und Mind-Map](https://www.stw.berlin/assets/sw-berlin/bereiche/beratung/Schreibzentrum/Lernmaterialien/Handout_Cluster_Mind_Map_Webseite_2020.pdf)
