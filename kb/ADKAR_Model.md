@@ -25,7 +25,7 @@ Nachfolgende Fragestellungen können dabei helfen, diesen Schritt auszuführen:
 
 ## Desire 
 
-Sobald der Grundstein mit dem Bewusstsein für Veränderung gelegt wurde, kann man in die zweite Phase "Desire" übergehen. Hier muss sichergestellt werden, dass jeder den Wunsch hat, die Veränderungen durchzuführen und zu unterstützen.  
+Sobald der Grundstein mit dem Bewusstsein für Veränderung gelegt wurde, kann man in die zweite Phase "Desire" übergehen. Hier muss sichergestellt werden, dass jeder den Wunsch hat und ausreichend motiviert ist, die Veränderungen durchzuführen und zu unterstützen.  
 Da dieser Schritt sehr individuell ist, müssen anhand von Coachings und Gesprächen die persönliche Situation und Anreize des Mitarbeiters erkannt und angewandt werden. [^5]
 
 
