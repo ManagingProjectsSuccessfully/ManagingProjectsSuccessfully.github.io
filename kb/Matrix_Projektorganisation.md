@@ -39,13 +39,13 @@ Der [PMBOK Guide](PMBOK_Guide.md) benutzt die Begriffe „Schwache Matrixorganis
 Der Projektleiter übernimmt primär koordinierende Aufgaben, ohne direkten Einfluss oder Befugnisse. [^6] Die Projektorganisation untersteht ganz und gar der Linienorganisation. Im deutschen Vokabular benutzt man hierfür den Begriff „Einfluss-Projektorganisation“. [^7]
 
 ## 3.2 Aufgewogene Matrixorganisation 
-Nach Absprache mit dem jeweiligen Linienvorgesetzten besitzt der Projektleiter über Weisungs- und Zugriffsbefugnisse. [^6] Die Projektorganisation und Linienorganisation können gleichrangig die Ressourcen nutzen. Dabei wird das Konzept der Stabs-Projektorganisation im deutschen Sprachraum verwendet. Die Charakteristiken der Stabs-Projektorganisation kann der schwachen und ebenso der starken Matrixprojektorganisation entsprechen. [^9]
+Nach Absprache mit dem jeweiligen Linienvorgesetzten besitzt der Projektleiter über Weisungs- und Zugriffsbefugnisse. [^6] Die Projektorganisation und Linienorganisation können gleichrangig die Ressourcen nutzen. Dabei wird das Konzept der Stabs-Projektorganisation im deutschen Sprachraum verwendet. Die Charakteristiken der Stabs-Projektorganisation kann der schwachen und ebenso der starken Matrixprojektorganisation entsprechen. [^10]
 
 ## 3.3 Starke Matrixorganisation
-Der Projektleiter hat direkte Autorität und Zugangsberechtigung auf allen Mitarbeitern und Ressourcen, während die Projektorganisation unbegrenzte Zugangsmöglichkeiten auf die Ressourcen der Linienorganisation besitzt. [^6] In der deutschen Sprache wendet man hierfür den Begriff „Matrixorganisation“. Sie stellt Eigenschaften der reinen Projektorganisation dar, da die Projekte ein wesentlicher Bestandteil der Trägerorganisation als auch der Wertschöpfung sind. [^10]
+Der Projektleiter hat direkte Autorität und Zugangsberechtigung auf allen Mitarbeitern und Ressourcen, während die Projektorganisation unbegrenzte Zugangsmöglichkeiten auf die Ressourcen der Linienorganisation besitzt. [^6] In der deutschen Sprache wendet man hierfür den Begriff „Matrixorganisation“. Sie stellt Eigenschaften der reinen Projektorganisation dar, da die Projekte ein wesentlicher Bestandteil der Trägerorganisation als auch der Wertschöpfung sind. [^4]
 
 # 4. Einsatzgebiete 
-Die Matrix Projektorganisation existiert meistens in wichtigen und zeitabhängigen Projekten bei mittelgroßen bis großen Unternehmen. [^1] Sie ist regelmäßig in großen Unternehmen aufzufinden, die international handeln und sich in mehreren Bereichen spezialisiert haben. Die Organisationsform ist stark angesehen bei projektorientierten Branchen wie dem Bauwesen oder der Fahrzeugentwicklung. Allerdings findet sie wenig Gebrauch in der Massenproduktionen oder in der Verwaltung. [^4]
+Die Matrix Projektorganisation existiert meistens in wichtigen und zeitabhängigen Projekten bei mittelgroßen bis großen Unternehmen. [^1] Sie ist regelmäßig in großen Unternehmen aufzufinden, die international handeln und sich in mehreren Bereichen spezialisiert haben. Die Organisationsform ist stark angesehen bei projektorientierten Branchen wie dem Bauwesen oder der Fahrzeugentwicklung. Allerdings findet sie wenig Gebrauch in der Massenproduktionen oder in der Verwaltung. [^9]
 
 # 5. Vor- und Nachteile
 
@@ -54,16 +54,16 @@ Die Matrix Projektorganisation existiert meistens in wichtigen und zeitabhängig
 * keine Wiedereingliederung der Mitarbeiter nach Projektende notwendig [^1] 
 * Mitarbeiter ziehen Nutzen vom Wissen und dem Austausch ihrer Fachabteilungen [^1]
 * flexible Zugangsmöglichkeiten auf Ressourcen [^1]
-* kein Inselwissen der einzelnen Organisationseinheiten [^4]
-* kürzere Kommunikationswege und  schnellere Abstimmungen [^9]
+* kein Inselwissen der einzelnen Organisationseinheiten [^9]
+* kürzere Kommunikationswege und  schnellere Abstimmungen [^10]
 
 ## 5.2 Nachteil 
 
 * Widersprüche zwischen Projekt- und Abteilungsleitung [^1]
 * Probleme bei der Gewichtung zwischen Linien- und Projektarbeit [^1]
-* hohe Überlastungen [^4]
+* hohe Überlastungen [^9]
 * hoher Anspruch an die Kommunikationsfähigkeiten des Projektleiters bzw. Projektmanagers [^11]
-* hohe Nachfrage nach Führungspersonal [^9]
+* hohe Nachfrage nach Führungspersonal [^10]
 
 # 6. Verlinkungen 
 
