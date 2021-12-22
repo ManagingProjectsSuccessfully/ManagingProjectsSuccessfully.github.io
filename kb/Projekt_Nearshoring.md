@@ -32,7 +32,7 @@ Die Abbildung zeigt, dass Deutschland ein sehr hohes Einkommensniveau hat und im
 
 *	Hier kann es zu [Zielkonflikten](Zielkonflikte.md) durch die Verlagerung kommen, da ein höherer Kommunikationsaufwand für das Unternehmen entsteht.
 *	Es werden Arbeitsplätze im eigenen Land abgebaut mit den entsprechenden sozialen Folgen.
-*	Der Konkurrenzdruck nimmt in der Belegschaft und durch die Partnerunternehmen zu. Dies kann zu Konflikten führen.
+*	Der Konkurrenzdruck nimmt in der Belegschaft und durch die Partnerunternehmen zu. Dies kann zu Konflikten untereinander führen.
 *	Die Komplexität bei Funktionen und Prozessen zwischen den Unternehmenseinheiten steigt.
 *	Die Auswahl von möglichen Partnern ist geringer im Vergleich zum Farshoring.
 *	Der monetäre Vorteil durch Lohnunterschiede ist weniger hoch als bei weniger wohlhabenden Staaten.
