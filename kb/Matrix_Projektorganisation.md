@@ -18,7 +18,7 @@ Die horizontale Ebene stellt die produkt-, region- oder projektbezogenen Aufgabe
 Die vertikale Ebene zeigt die funktionalen Arbeitsbereiche, auch Funktionsbereiche genannt. Beispiele hierfür sind Vertrieb oder die Produktion.
 
 ## 1.3 Schnittstellen
-In den Schnittstellen befinden sich die einzelnen [Projektteam](Projektteam_Kultur.md) bzw. spezifischen Abteilungen, die jeweils einem Projekt- oder Abteilungsleiter zugeordnet sind. [^9]
+In den Schnittstellen befinden sich die einzelnen [Projektteams](Projektteam_Kultur.md) bzw. spezifischen Abteilungen, die jeweils einem Projekt- oder Abteilungsleiter zugeordnet sind. [^9]
 
 # 2. Akteure
 
