@@ -1,12 +1,12 @@
 ---
 title: Projektarten
-tags: Projekt Projektmanagement Routineprojekte Potenzialprojekte
+tags: Projekt Projektmanagement klassisch Routineprojekte Potenzialprojekte
 author: Loris18
 anrechnung: k
 ---
 # Begriffsbestimmung
 
-Der Begriff "Projektarten" wird in der DIN-Norm 69901 als Gattung von [Projekten](Projekt.md) beschrieben, die eine ähnliche Ausprägung von Kriterien, wie Branche, Projektorganisation oder Projektgegenstand aufweisen. Als Beispiel hierfür lassen sich [Forschungs-](Forschungsprojekte.md)und [Entwicklungsprojekte](Entwicklungsprojekte.md), sowie Organisations- und [IT-Projekte](IT-Projekte.md) anführen. 
+Der Begriff "Projektarten" wird in der DIN-Norm 69901 als Gattung von [Projekten](Projekt.md) beschrieben, die eine ähnliche Ausprägung von Kriterien, wie Branche, Projektorganisation oder Projektgegenstand aufweisen. Als Beispiel hierfür lassen sich [Forschungs-](Forschungsprojekte.md)und [Entwicklungsprojekte](Entwicklungsprojekte.md) anführen.
 
 Im Allgemeinen lassen sich Projekte anhand verschiedener Dimensionen bestimmten Projektarten zuordnen.[^2] Hierzu finden sich verschiedene Ansätze zur Differenzierung von Projekten aufgrund der Vielzahl an unterschiedlichen Merkmalen und Kriterien.[^3] Aufgrund dieser Problematik und dem Umstand, dass die Berücksichtigung aller Klassifizierungsmöglichkeiten den Rahmen des Beitrags übersteigen würde, beschränken wir uns im Folgenden auf die populärsten Gesichtspunkte eines Projekts.
 
@@ -22,7 +22,7 @@ Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und 
 
 *Abbildung: Projektarten-Matrix*[^1]
 
-[Standard- oder Routineprojekte](Routineprojekte.md) können aufgrund bestehender Erfahrung standardisiert und relativ einfach abgewickelt werden, wie beispielsweise Ersatzinvestitionen im Unternehmen. Auch bei den Akzeptanzprojekten kann man auf [Erfahrung](Wissenstransfer.md) zurückgreifen und zu einem gewissen Grad standardisieren. Jedoch ist diese Art von Projekt durch ihre hohe Komplexität oft mit Akzeptanzproblemen verbunden, weshalb Information und Kommunikation eine entscheidende Rolle spielen. Ein typisches Beispiel hierfür ist ein komplexes IT-Projekt. 
+[Standard- oder Routineprojekte](Routineprojekte.md) können aufgrund bestehender Erfahrung standardisiert und relativ einfach abgewickelt werden, wie beispielsweise Ersatzinvestitionen im Unternehmen. Auch bei den Akzeptanzprojekten kann man auf [Erfahrung](Wissenstransfer.md) zurückgreifen und zu einem gewissen Grad standardisieren. Jedoch ist diese Art von Projekt durch ihre hohe Komplexität oft mit Akzeptanzproblemen verbunden, weshalb Information und Kommunikation eine entscheidende Rolle spielen. Ein typisches Beispiel hierfür ist ein komplexes [IT-Projekt](IT-Projekte.md). 
 
 [Potenzialprojekte](Potenzialprojekte.md) sind durch ihr geringes Risiko und ihre einfache Projektorganisation charakterisiert, da sie trotz ihrer offenen Aufgabenstellung eine geringe Vernetzung mit dem Projektumfeld aufweisen. Unter diese Projektart fallen vor allem [Forschungsprojekte](Forschungsprojekte.md).[^4] 
 
