@@ -6,7 +6,7 @@ anrechnung: k
 ---
 # Begriffsbestimmung
 
-Der Begriff "Projektarten" wird in der DIN-Norm 69901 als Gattung von [Projekten](Projekt.md) beschrieben, die eine ähnliche Ausprägung von Kriterien, wie Branche, Projektorganisation oder Projektgegenstand aufweisen. Als Beispiel hierfür lassen sich [nachhaltige Projekte](Nachhaltige_Projekte.md) anführen.
+Der Begriff "Projektarten" wird in der DIN-Norm 69901 als Gattung von [Projekten](Projekt.md) beschrieben, die eine ähnliche Ausprägung von Kriterien, wie Branche, Projektorganisation oder Projektgegenstand aufweisen.[^2] Als Beispiel hierfür lassen sich [nachhaltige Projekte](Nachhaltige_Projekte.md) anführen.
 
 Im Allgemeinen lassen sich Projekte anhand verschiedener Dimensionen bestimmten Projektarten zuordnen.[^2] Hierzu finden sich verschiedene Ansätze zur Differenzierung von Projekten aufgrund der Vielzahl an unterschiedlichen Merkmalen und Kriterien.[^3] Aufgrund dieser Problematik und dem Umstand, dass die Berücksichtigung aller Klassifizierungsmöglichkeiten den Rahmen des Beitrags übersteigen würde, beschränken wir uns im Folgenden auf die populärsten Gesichtspunkte eines Projekts.
 
