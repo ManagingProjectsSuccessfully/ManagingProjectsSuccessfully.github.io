@@ -5,12 +5,7 @@ author: LKmps2021
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Design_Thinking um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Design Thinking
 ## Definition
 
 <img align="right" width="270" height="150" src="Design_Thinking/Design-Thinking.jpg">
@@ -24,7 +19,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
   
 <br />
 <br />
-Design Thinking ist ein menschenzentrierter Ansatz für die Generierung von Lösungen und Innovationen. Es ist sowohl eine Denkweise als auch ein Prozess-Modell ist. Dabei ist es wichtig zuerst die wahren Bedürfnisse und Wünsche des Kunden zu bestimmen und mit einem Kreativprozess innovative Lösungsmöglichkeiten zu finden.  Der Prozess ist nicht-linear und iterativ.
+Design Thinking ist ein menschenzentrierter Ansatz für die Generierung von Lösungen und Innovationen. Es ist sowohl eine Denkweise als auch ein Prozess-Modell. Dabei ist es wichtig zuerst die wahren Bedürfnisse und Wünsche des Kunden zu bestimmen und mit einem Kreativprozess innovative Lösungsmöglichkeiten zu finden.  Der Prozess ist nicht-linear und iterativ.
 
 ## Denkweise
 Design Thinking hat eine flache Hierarchie und die Teammitglieder begegnen sich auf Augenhöhe. Die wichtigesten Einstellungen der Projektteilnehmer sind:
@@ -53,7 +48,7 @@ Im ersten Schritt wird die Ausgangssituation definiert und sichergestellt, dass 
 * Welcher Endzustand soll durch die Lösung erreicht werden?[^5]
 
 ### Phase 2: Beobachten
-Im Schritt des Beobachtens geht es darum, die Ziele, die Bedürfnisse sowie die Prioritäten der Kunden zu analysieren und zu verstehen. Wichtig ist es hierbei den Kunden zu interviewen. Hierbei können die Interviewtechniken von strukturiert bis unstrukturiert reichen, um ein tieferes Verständnis der Kundenbedürfnisse zu erlangen. Dazu gehört auch das aktive Zuhören, um Missverständnisse zu vermeiden.
+Im Schritt des Beobachtens geht es darum, die Ziele, die Bedürfnisse, sowie die Prioritäten der Kunden zu analysieren und zu verstehen. Wichtig ist es hierbei den Kunden zu interviewen. Hierbei können die Interviewtechniken von strukturiert bis unstrukturiert reichen, um ein tieferes Verständnis der Kundenbedürfnisse zu erlangen. Dazu gehört auch das aktive Zuhören, um Missverständnisse zu vermeiden.
 
 ### Phase 3: Sichtweisen definieren 
 Hier erfolgt die Synthese der ersten beiden Schritte. Das Ziel hierbei ist es auf Basis der gesammelten Annahmen und Beobachtungen einen konzeptionellen Rahmen zu entwickeln und den Lösungsraum abzustecken. Es sollen dabei die Kernbedürfnisse der Nutzer interpretiert und formuliert werden.
@@ -88,6 +83,11 @@ Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden n
 
 * [Innovationsprojekte](Innovationsprojekte.md)
 * [Methoden](Methoden.md)
+* [Brainstorming](Brainstorming.md)
+* [Mindmapping](Mindmapping.md)
+* [6_3_5 Methode](6_3_5_Methode.md)
+* [Feedback](Feedbackgespräche.md)
+
 
 # Weiterführende Literatur
 * [Design Thinking – Kreativität als Methode](https://www.fu-berlin.de/en/sites/nachhaltigkeit/10_dokumente/DesignThinking-Kreativitaet-als-Methode.pdf) 
