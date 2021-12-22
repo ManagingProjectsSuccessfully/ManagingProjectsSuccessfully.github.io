@@ -54,7 +54,7 @@ Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe,
 
 # Siehe auch
 
-* [Projekt](Projekt.)
+* [Projekt](Projekt.md)
 * [Ressourcenplanung](Ressourcenplanung.md)
 * [Projektkommunikation](Projektkommunikation.md)
 * [Projektmanagement](Projektmanagement.md)
