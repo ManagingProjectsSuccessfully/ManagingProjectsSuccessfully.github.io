@@ -24,8 +24,8 @@ Self-management wird gerne mit Zeitmanagement verwechselt, jedoch ist Zeitmanage
 
 Self-management umfasst viele Methoden, die man anwenden kann. Um dieses Thema besser darzustzellen werden hier einige dieser Methoden aufgezählt.[^1]
 
-## [Pomodoro Methode](Pomodoro.md)
-Bei der Pomodoro Methode geht es darum Aufgaben in einem bestimmten Zeitraum zu erledigen und daraufhin immer wieder Pausen einzulegen. Dies hilft die Aufgaben in diesem Zeitraum so konzentriert wie möglich durchzuziehen. [^1]
+## [Pomodoro Methode]
+Bei der [Pomodoro Methode](Pomodoro.md) geht es darum Aufgaben in einem bestimmten Zeitraum zu erledigen und daraufhin immer wieder Pausen einzulegen. Dies hilft die Aufgaben in diesem Zeitraum so konzentriert wie möglich durchzuziehen. [^1]
 ## Amore Methode
 Die einzelnen Buchstaben der Amore Methode beschreiben die Formulierung der Ziele, die man sich setzt. Das A steht für ambitiös, was bedeutet, dass das Ziel ambitioniert sein sollte. Des Weiteren steht das M für motiviert, das O für Organisiert, das R für Realistisch und das E für echt. Im Allgemeinen basiert die Idee dieser Methode darauf, dass mit Liebe am Ziel gearbeitet werden sollte, wie der Name bereits vorwegnimmt. [^1]
 ## 80-20 Pareto-Prinzip
