@@ -5,14 +5,15 @@ author: phigeit
 anrechnung: k 
 ---
 
+Der Cone of Uncertainty – im deutschen Kegel der Ungewissheit - ist eine graphische Darstellungsmethode dessen, dass zu Beginn eines Projekts etliche Ungewissheiten vorhanden 
+sind. Diese Faktoren belegen Aussichten in die Zukunft wie beispielsweise Schätzungen mit zeitabhängigen Unsicherheiten.[^1]
+
 
 # Begriffserklärung
 
-Der Cone of Uncertainty – im deutschen Kegel der Unsicherheit ist eine graphische Darstellungsmethode dessen, dass zu Beginn eines [Projekts](Projekt.md) etliche Ungewissheiten vorhanden 
-sind. Diese Faktoren belegen Aussichten in die Zukunft wie beispielsweise Schätzungen mit zeitabhängigen Unsicherheiten. Der Begriff Kegel soll hierbei aufzeigen, dass je weiter 
-man in die Zukunft schaut, desto mehr können sich diese Störfaktoren addieren, „so dass die räumliche Vorstellung eines Kegels, der im Umfang immer größer wird, sehr gut zu 
-diesem Effekt passt". Dabei wird der Kegel kleiner, je weniger die noch zu bestreitende Zeitspanne und näher man vor [Projektabschluss](Projektabschluss.md) steht.[^1] Erst wenn das zuständige 
-[Projektteam](Projektmitarbeiter.md) ihre Tätigkeit abschließt, beziehungsweise die Verantwortung dafür abgibt, erreichen die Unsicherheiten die null-Prozent-Marke[^5]. 
+Der Begriff Kegel soll hierbei ausdrücken, dass je weiter man in die Zukunft schaut, desto mehr können sich diese Störfaktoren addieren. Dieser Verlauf wird durch „die räumliche 
+Vorstellung eines Kegels, der im Umfang immer größer wird“ sehr gut widergespiegelt. Dabei wird der Kegelumfang kleiner, je näher man vor [Projektabschluss](Projektabschluss.md)
+steht.[^1] Erst wenn das zuständige [Projektteam](Projektmitarbeiter.md) ihre Tätigkeit vollständig abschließt, erreichen die Unsicherheiten die Null-Prozent-Marke[^2].
 
 ![Beispielabbildung](Cone_of_Uncertainty/CoU.jpg)
 
@@ -21,16 +22,17 @@ diesem Effekt passt". Dabei wird der Kegel kleiner, je weniger die noch zu bestr
 
 # Ursprung und Historie
 
-Das ursprüngliche Konzept des Cone of Uncertainty wurde von der American Association of Cost Engineers für die Chemieindustrie entwickelt[^4], wobei für Kostenschätzungen 
-Unsicherheitsbereiche etabliert wurden[^2]. Im Bereich der Software wurde das Konzept von Barry Boehm aufgegriffen und als „Funnel Curve“ bezeichnet[^4]. 16 Jahre später prägte 
-Steve McConnel mit dem Buch „Software Project Survival Guide“ die Bezeichnung Cone of Uncertainty[^2].
+Das ursprüngliche Konzept des Cone of Uncertainty wurde von der American Association of Cost Engineers für die Chemieindustrie entwickelt[^4]. Hierbei wurden für 
+Kostenschätzungen Unsicherheitsbereiche etabliert[^5]. Im Zuge der Softwareentwicklung  wurde das Konzept von Barry Boehm aufgegriffen und als „Funnel Curve“ bezeichnet[^4].
+16 Jahre später prägte Steve McConnel mit dem Buch „Software Project Survival Guide“ die Bezeichnung Cone of Uncertainty[^5].
 
 
 # Anwendungen
 
-Der Anwendungsbereich ist breit gefächert, so wird der Ansatz wie bereits angesprochen heute noch in der Kostenschätzung verwendet[^2]. Bekannt ist der Effekt auch in der 
-Wettervorhersage, „wenn der mögliche Temperaturverlauf in einer Region für die kommenden zwei Wochen als Grafik gezeigt wird“. Dabei wird die Temperaturspanne zwischen Minimum 
-und Maximum von Tag zu Tag größer.[^1] Daneben ist auch die Hurrikan-Vorhersage ein wichtiges Anwendungsfeld. Hierbei soll der Korridor, bei dem der Sturm auf Land trifft,       begrenzt werden[^2].  
+  Der Anwendungsbereich ist breit gefächert, so wird der Ansatz wie bereits angesprochen heute noch in der Kostenschätzung verwendet[^5]. Bekannt ist der Effekt auch in der 
+  Wettervorhersage, wie zum Beispiel „, wenn der mögliche Temperaturverlauf […] als Grafik gezeigt wird“. Dabei wird die Temperaturspanne zwischen Minimum und Maximum von Tag zu 
+  Tag größer. [^1] Wie auf der folgenden Abbildung zu sehen ist auch die Hurrikan-Vorhersage ein wichtiges Anwendungsfeld. Der erwartete Korridor, bei dem der Sturm auf Land 
+  trifft soll begrenzt werden. [^5] Deutlich zu erkennen ist auch hier die typische Kegelform. 
 
 ![Beispielabbildung](Cone_of_Uncertainty/coneofuncertainty_hurricane.jpg)
 
