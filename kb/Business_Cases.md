@@ -5,7 +5,9 @@ author: lukasheinrich9
 anrechnung: k
 ---
 # Business Cases
-Ein ***Business Case*** ist ein wichtiges Projektdokument. Er analysiert die Wirtschaftlichkeit eines [Projekts](Projekt.md) und verschafft den Entscheidungsträgern einen umfassenden Überblick über dessen Kosten, Nutzen und Risiken.[^1]  Kosten und Nutzen können monetär sein, umfassen aber auch andere Kriterien wie die Auswirkungen auf die Arbeitgeberattraktivität oder die Mitarbeitermotivation.[^2]  Der Business Case gibt eine Aussage darüber, ob sich die Durchführung eines Vorhabens lohnen würde oder nicht und stellt damit eine wichtige Entscheidungs- und Rechtfertigungsgrundlage für Projekte dar. Ist ein Projekt genehmigt und im Gange, wird der Business Case stetig aktualisiert, sodass sich damit auch laufende Projekte überprüfen und rechtfertigen lassen.[^1] 
+Ein ***Business Case*** ist ein wichtiges Projektdokument. Er analysiert die Wirtschaftlichkeit eines [Projekts](Projekt.md) und verschafft den Entscheidungsträgern einen umfassenden Überblick über dessen Kosten, Nutzen und Risiken.[^1]  Kosten und Nutzen können monetär sein, umfassen aber auch andere Kriterien wie die Auswirkungen auf die Arbeitgeberattraktivität oder die Mitarbeitermotivation.[^2] 
+
+Der Business Case gibt eine Aussage darüber, ob sich die Durchführung eines Vorhabens lohnen würde oder nicht und stellt damit eine wichtige Entscheidungs- und Rechtfertigungsgrundlage für Projekte dar. Ist ein Projekt genehmigt und im Gange, wird der Business Case stetig aktualisiert, sodass sich damit auch laufende Projekte überprüfen und rechtfertigen lassen.[^1] 
 ![Business_Case_Abbildung](Business_Cases/Business_Case_Abbildung.jpg) [^3]
 
 ## Inhaltsverzeichnis
