@@ -26,7 +26,7 @@ Die Nutzer haben durch das cloudbasierte CRM-System die Möglichkeit eine Vielza
 Mit den Daten aus den Apps des Kunden können durch Filter und Report Optionen Salespipelines automatisiert und Projektbudgets verfolgt werden[^4].
 
 ### Workflows
-Apps können durch das Workflow-Feature mit einer Wenn-Dann-Funktion programmiert werden. So erstellt eine App beispielsweise eine Aufgabe, sobald ein Eintrag erstellt wird [^4].
+Apps können durch das Workflow-Feature mit einer Wenn-Dann-Funktion programmiert werden. So erstellt eine App beispielsweise eine [Aufgabe](Aufgabenteilung.md), sobald ein Eintrag erstellt wird [^4].
 
 ### Webformulare
 Von Podio gehostete Webformulare können in Websites integriert werden, wie beispielsweise eine Kontaktseite. Die Informationen gelangen direkt in die Podio Apps [^4]. 
@@ -44,10 +44,10 @@ Zu jedem Workspace gibt es einen Aktivitätsverlauf. Dieser zeigt Aktivitäten a
 
 Die GoToMeeting App von Podio ermöglicht Besprechungen [^4].
 
-## Aufgaben Dateien & Kalenderfunktionen
+## [Aufgaben](Aufgabenteilung.md) Dateien & Kalenderfunktionen
 
-### Aufgaben-Management
-Auf einer [Aufgabenliste](Aufgabenteilung.md) sieht der Benutzer alle Aufgaben, für die er verantwortlich ist. Die Aufgaben können priorisiert und geteilt werden. Aufgaben, die regelmäßig erledigt werden, können wiederkehrend eingestellt werden [^4]. 
+### [Aufgaben](Aufgabenteilung.md)-Management
+Auf einer [Aufgabenliste](Aufgabenteilung.md) sieht der Benutzer alle [Aufgaben](Aufgabenteilung.md), für die er verantwortlich ist. Die [Aufgaben](Aufgabenteilung.md) können priorisiert und geteilt werden. [Aufgaben](Aufgabenteilung.md), die regelmäßig erledigt werden, können wiederkehrend eingestellt werden [^4]. 
 
 ### File-Sharing
 Dateien können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Einen eigenen Filesharing Dienst hat Podio nicht. Dateispeicher, die mit Podio verknüpft werden können, sind[^4]:
