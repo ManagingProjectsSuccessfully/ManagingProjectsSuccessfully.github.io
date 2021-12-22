@@ -78,14 +78,14 @@ Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Team
 
 # Siehe auch
 
-* [Toyota Produktionssysteme](Toyota_Produktionssysteme.md)
+* [Toyota Produktionssysteme](Toyota_Produktions_Systeme.md)
 * [Sprint Planning](Sprint_Planning.md) 
 * [Daily](Daily_Scrum.md) 
 * [Retrospective](Retrospective.md)
 * [Product Owner](Product_Owner.md)
 * [Scrum Master](Scrum_Master.md) 
 * [Scrum](Scrum.md) 
-* [Bottom up Planning](Bottom_Up_Planning)
+* [Bottom up Planning](Bottom_Up_Planning.md)
 
 # Weiterführende Literatur
 
