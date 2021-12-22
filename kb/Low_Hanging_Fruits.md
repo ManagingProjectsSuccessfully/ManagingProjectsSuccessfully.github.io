@@ -20,7 +20,7 @@ Low Hanging Fruits haben somit ein überdurchschnittlich hohes Kosten-Nutzen-Ver
 
 # Low Hanging Fruits in der Betriebswirtschaft
 
-Der Begriff Low Hanging Fruits wird zumeist im Business-Bereich benutzt und beschreibt dort jene Aufgaben, die mit wenig Aufwand verhältnismäßig viel Umsatz generieren. Die Low Hanging Fruits können sich von Unternehmen zu Unternehmen relativ stark unterscheiden. Im Vertrieb beispielsweise gehören besonders so genannte Komplementärgüter zu den Low Hanging Fruits. Komplementärgüter sind dabei diejenigen Güter, die gemeinsam nachgefragt werden, weil sie sich in ihrem Nutzen ergänzen. Ein Handy-Händler bietet so neben dem Hauptprodukt, den Handys, noch Komplementärgüter wie etwa Schutzhüllen, Ladegeräte und Panzerfolien an[^2]. 
+Der Begriff Low Hanging Fruits wird zumeist im Business-Bereich benutzt und beschreibt dort jene Aufgaben, die mit wenig Aufwand verhältnismäßig viel Umsatz generieren. Die Low Hanging Fruits können sich von Unternehmen zu Unternehmen relativ stark unterscheiden. Im Vertrieb beispielsweise, gehören besonders so genannte Komplementärgüter zu den Low Hanging Fruits. Komplementärgüter sind dabei diejenigen Güter, die gemeinsam nachgefragt werden, weil sie sich in ihrem Nutzen ergänzen. Ein Handy-Händler bietet so neben dem Hauptprodukt, den Handys, noch Komplementärgüter wie etwa Schutzhüllen, Ladegeräte und Panzerfolien an[^2]. 
 Der Smartphone-Hersteller Apple kündigte so im Oktober 2020 während einer  Keynote  an, dass zukünftige Smartphones ohne Netzteil und Kopfhörer ausgeliefert werden. Damit wechselte das iPhone-Netzteil von einem inkludierten Gut zu einem komplementärem Gut und somit zu einem neuen Low Hanging Fruit für Apple[^3].
 
 # Die Low Hanging Fruit Matrix
