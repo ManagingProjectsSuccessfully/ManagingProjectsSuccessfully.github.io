@@ -1,6 +1,6 @@
 ---
 title: Project_Management_bei_Tesla
-tags: agil klassisch
+tags: agil; klassisch; Tesla; Elon Musk; Projektmanagement Tesla; Automobil; Scrum
 author: lucas100700
 anrechnung: a
 ---
@@ -11,7 +11,7 @@ anrechnung: a
 
 
 Tesla ist ein US-Amerikanischer Konzern, der sich auf die Entwicklung und Fertigung von Elektroautos spezialisiert hat. 
-Neben dem Autombilgeschäft, vertreibt Tesla weitere Produkte, die den Übergang zu einer CO2 neutralen Mobilität und Energiegewinnung ermöglichen sollen[^1]. 
+Neben dem Autombilgeschäft, vertreibt Tesla weitere Produkte, die den Übergang zu einer CO2-neutralen Mobilität und Energiegewinnung ermöglichen sollen[^1]. 
 Gründer und CEO von Tesla ist der innovative und teils auch polarisierende Unternehmer [Elon Musk](https://de.wikipedia.org/wiki/Elon_Musk) [^2].
 
 ![Tesla Image](Project_Management_bei_Tesla/Tesla2.png)[^1]
@@ -25,16 +25,16 @@ Gründer und CEO von Tesla ist der innovative und teils auch polarisierende Unte
 
 # Agiles Projektmanagement bei Tesla 
 
-Anders als bestehende Automobilkonzerne arbeitet Tesla, ähnlich wie ein [Software-Unternehmen](Spotify_Projectmanagement_Model.md) bevorzugt mit agilen Projektmanagement-Methoden. Anstatt über einen langen Zeitraum Verbesserungspotentiale zu identifizieren, zu erforschen und letztendlich in einem Face-Lift Modell zu veröffentlichen, hat Tesla ein andere Philosophie [^3]. 
-Tesla verbessert seine Produkte kontinuierlich weiter. Sowohl die Software als auch die Technik bzw. die Hardware der Fahrzeuge werden laufend überarbeitet. So werden in kürzeren Intervallen die Produkte geringfügig verbessert. Bei anderen Autoherstellern werden im vier Jahres Rhythmus Face-Lifts mit marginalen Verbesserungen und alle sechs bis acht Jahre neue Modelle mit größeren Veränderungen herausgebracht. Innherhalb dieser Zeitperioden erfolgen keine weiteren Verbesserungen [^4]. 
-Durch den agilen Ansatz bietet Tesla seinen Kunden z.B. neue Softwarefeatures, so bald wie möglich, über over-the-air Updates an. Diese werden dann bei Bedarf im Laufe der Zeit verbessert. Auch bei technischen Verbesserungen an seinen Fahrzeugen wartet Tesla unter Umständen nicht bis zur Veröffentlichung eines neuen Modells. Stattdessen werden kleinere Änderungen ohne große Ankündigungen implementiert. So zum Beispiel aktuell geschehen, als Tesla eine neue Version des Model 3 mit neuen Batterien und damit mit mehr Reichweite eingeführt hat [^5]. 
+Anders als bestehende Automobilkonzerne arbeitet Tesla, ähnlich wie ein [Software-Unternehmen](Spotify_Projectmanagement_Model.md) bevorzugt mit agilen Projektmanagement-Methoden. Anstatt über einen langen Zeitraum Verbesserungspotentiale zu identifizieren, zu erforschen und letztendlich in einem Facelift Modell zu veröffentlichen, hat Tesla ein andere Philosophie [^3]. 
+Tesla verbessert seine Produkte kontinuierlich weiter. Sowohl die Software als auch die Technik bzw. die Hardware der Fahrzeuge werden laufend überarbeitet. So werden in kürzeren Intervallen die Produkte geringfügig verbessert. Bei anderen Autoherstellern werden im Vier-Jahres-Rhythmus Face-Lifts mit marginalen Verbesserungen und alle sechs bis acht Jahre neue Modelle mit größeren Veränderungen herausgebracht. Innerhalb dieser Zeitperioden erfolgen keine weiteren Verbesserungen [^4]. 
+Durch den agilen Ansatz bietet Tesla seinen Kunden z.B. neue Softwarefeatures, so bald wie möglich, über [Over-the-Air-Updates](https://de.wikipedia.org/wiki/Over-the-Air-Update) an. Diese werden dann bei Bedarf im Laufe der Zeit verbessert. Auch bei technischen Verbesserungen an seinen Fahrzeugen wartet Tesla unter Umständen nicht bis zur Veröffentlichung eines neuen Modells. Stattdessen werden kleinere Änderungen ohne große Ankündigungen implementiert. Ein aktuelles Beispiel dafür ist die neue Version des Model 3, welche Tesla mit neuen Batterien eingeführt hat, um die Reichweite zu erhöhen [^5]. 
 
 
 ## Scrum in der Fertigung von Autos / Produktion
 
-Tesla ist eines der ersten Unternehmen, welches die agile Projektmanagementmethode [Scrum](SCRUM.md) für die Fertigung seiner Autos einsetzt [^3]. 
-Grundsätzlich wird Scrum bei der Entwicklung von Software eingesetzt. Das produzierende Gewerbe hingegen bedient sich meist klassischer Projektmanagement-Methoden, wie zum Beispiel dem [Wasserfallmodell](https://de.wikipedia.org/wiki/Wasserfallmodell) [^6]. Grundsatz der agilen Methoden ist die Annahme, dass das Endprodukt einige Änderungen verglichen zum ursprünglich Geplanten aufweist [^6]. Im Softwarebereich ist dies oft weniger problematisch als bei der Produktion von tangiblen Gütern. Dennoch weist die agile Methode auch dort einige Vorteile auf. So kann das Unternehmen noch während der Produktion auf Kundenwünsche oder Marktbedürfnisse eingehen und reagieren. So erlangt das Unternehmen einen potentiellen Wettbewerbsvorteil [^6]. 
-Auf Tesla übertragen bedeutet dies, das Tesla flexibel auf mögliche in- und externe Änderungen reagieren kann. Die [Gigafactorys](https://www.tesla.com/de_de/giga-berlin) des Unternehmens sind so aufgestellt, dass Änderungen im laufenden  Produktionsprozess, durch Re-Programmierung einzelner Teilbereiche durchgeführt werden können. Wenn das Scrum-Team, welches z.B. für den Bau und die Entwicklung der Türen zuständig ist, leichtere, sicherere und günstigere Türen entwickelt hat, können diese unproblematisch in den bestehenden Fertigungsprozess eingebunden werden [^3].  
+Tesla ist eines der ersten Unternehmen, welches die agile Projektmanagement-Methode [Scrum](SCRUM.md) für die Fertigung seiner Autos einsetzt [^3]. 
+Grundsätzlich wird Scrum bei der Entwicklung von Software eingesetzt. Das produzierende Gewerbe hingegen bedient sich meist klassischer Projektmanagement-Methoden, wie zum Beispiel dem [Wasserfallmodell](https://de.wikipedia.org/wiki/Wasserfallmodell) [^6]. Grundsatz der agilen Methoden ist die Annahme, dass das Endprodukt einige Änderungen verglichen zum ursprünglich Geplanten aufweist [^6]. Im Softwarebereich ist dies oft weniger problematisch als bei der Produktion von tangiblen Gütern. Dennoch weist die agile Methode auch dort einige Vorteile auf. So kann das Unternehmen noch während der Produktion auf Kundenwünsche oder Marktbedürfnisse eingehen und reagieren. So erlangt das Unternehmen einen potenziellen Wettbewerbsvorteil [^6]. 
+Auf Tesla übertragen bedeutet dies, dass Tesla flexibel auf mögliche in- und externe Änderungen reagieren kann. Die [Gigafactorys](https://www.tesla.com/de_de/giga-berlin) des Unternehmens sind so aufgestellt, dass Änderungen im laufenden  Produktionsprozess, durch Re-Programmierung einzelner Teilbereiche durchgeführt werden können. Wenn das Scrum-Team, welches z.B. für den Bau und die Entwicklung der Türen zuständig ist, leichtere, sicherere und günstigere Türen entwickelt hat, können diese unproblematisch in den bestehenden Fertigungsprozess eingebunden werden [^3].  
 
 ![Scrum in der Automobilfertigung](Project_Management_bei_Tesla/scrum-car.jpg)
 Quelle: Field (2018)[^3]
@@ -46,13 +46,24 @@ Quelle: Field (2018)[^3]
 
 ## Nachteile agiler Methoden in der Automobilbranche 
 
-Ein Nachteil dieses Arbeitsansatzes besteht darin, dass das Produkt im Beta-Zustand an die Kunden ausgeliefert wird. So hat Tesla noch immer Probleme mit Spaltmaßen, Softwarebugs oder lauten Abrollgeräuschen [^3]. Ein weiterer Punkt, der bei Kunden für Verärgerung sorgen könnte, sind die unangekündigten, kleinen inkrementellen Verbesserungen an den Fahrzeugen. Zum einen freuen sich Neukunden über z.B. eine gestiegene Reichweite, zum anderen sind Bestandskunden, die ihr Fahrzeug erst vor einigen Wochen bzw. Monaten erworben haben, möglichweise über die unerwarteten technischen Verbesserungen verärgert. 
+Ein Nachteil dieses Arbeitsansatzes besteht darin, dass das Produkt im Beta-Zustand an die Kunden ausgeliefert wird. So hat Tesla noch immer Probleme mit Spaltmaßen, Softwarebugs oder lauten Abrollgeräuschen [^3]. Ein weiterer Punkt, der bei Kunden für Verärgerung sorgen könnte, sind die unangekündigten, kleinen inkrementellen Verbesserungen an den Fahrzeugen. Zum einen freuen sich Neukunden über z.B. eine gestiegene Reichweite, zum anderen sind Bestandskunden, die ihr Fahrzeug erst vor einigen Wochen bzw. Monaten erworben haben, möglicherweise über die unerwarteten technischen Verbesserungen verärgert. 
 Neue Softwarefeatures oder Verbesserungen kommen hingegen allen Beteiligten zugute. 
+
+## Vorteile agiler Methoden in der Autombilbranche 
+
+Wie schon genannt, bietet der Einsatz von agilen Methoden in der Produktion von Fahrzeugen auch große Vorteile. So können Automobilhersteller sehr flexibel auf unvorhergesehene Änderungen reagieren. So ergeben sich schon während des Lebenszyklus eines Modells sowohl ökonomische, als auch sicherheitsrelevante Vorteile für die Kunden und das Unternehmen. 
+Durch [OTA-Updates](https://de.wikipedia.org/wiki/Over-the-Air-Update) profitieren Bestands- und Neukunden gleichermaßen von neuen Softwarefeatures oder Verbesserungen in der Bedienung. Teslas Einsatz von agilen Strukturen ermöglichte es erst, diese Art von Updates den Kunden bereitzustellen. Damit weist Tesla einen enormen Wettbewerbsvorteil gegenüber seinen Mitbewerbern auf, die erst allmählich das Potential hinter OTA-Updates sehen und diese erst seit kurzem bei ihren eigen Fahrzeugen einsetzen [^7]. 
 
 # Siehe auch 
 * [Scrum](SCRUM.md)
 * [Projektmanagement](Projektmanagement.md)
 * [Branchenspezifisches Projektmanagement](Projektmanagement_Branchenspezifisch.md)
+* [Wasserfall-Modell](https://de.wikipedia.org/wiki/Wasserfallmodell)
+* [Projektmanagement bei Spotify](Spotify_Projectmanagement_Model.md) 
+
+# Weiterführende Literatur 
+* [Improving_Project_Management_Practice_A_Car_Industry_Case_Study](https://www.researchgate.net/publication/320563892_Improving_Project_Management_Practice_A_Car_Industry_Case_Study)
+* [Project Management in the Automotive Industry](https://www.researchgate.net/publication/228046545_Project_Management_in_the_Automotive_Industry)
 
 
 # Quellen
@@ -63,4 +74,5 @@ Neue Softwarefeatures oder Verbesserungen kommen hingegen allen Beteiligten zugu
 [^4]: [Grünweg, T. (2013, 10. Februar). *Eine Industrie kommt auf Speed*; spiegel.de; Abgerufen am 21. November 2021](https://www.spiegel.de/auto/aktuell/warum-lange-entwicklungszyklen-fuer-autohersteller-zum-problem-werden-a-881990.html)
 [^5]: [Hebermehl G.; *Umbenennung Teil der Modellpflege*; 2021; auto-motor-sport](https://www.auto-motor-und-sport.de/elektroauto/tesla-model-3-mit-neuer-batterie-umbenennung-modellpflege/)
 [^6]: [Abrudan, C. I., Baru, P. E., & Lungu, R. (2019). *Applying Scrum Methodology into the Production Processes of a Logistic Equipment Producer*; International Journal of Current Science Research and Review](https://ijcsrr.org/wp-content/uploads/2020/01/1-7.pdf)
+[^7]: [WELT; *Wo das Auto zum Smartphone wird: Over-the-Air-Updates.* (2021, 15. Dezember). DIE WELT. Abgerufen am 22. Dezember 2021](https://www.welt.de/motor/news/article235682864/Wo-das-Auto-zum-Smartphone-wird-Over-the-Air-Updates.html)
 
