@@ -85,6 +85,8 @@ Die Zusammenführung von einzelnen Berichten zu einem großen kann zu einer Vers
 * [IT-Projekte](IT-Projekte.md)
 * [KANBAN](Kanban.md)
 * [SCRUM](SCRUM.md)
+* [Risikomanagement](Risikomanagement.md)
+* [Risikoanalyse_und_Visualisierung](Risikoanalyse_und_Visualisierung.md)
 
 # Weiterführende Literatur
 
