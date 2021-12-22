@@ -36,7 +36,7 @@ Ein Product Increment ist jenes Produkt, welches nach einem Sprint entstanden is
 Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team (Product Owner, [Scrum Master](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Master.md), Developer) festgelegt wird, dient dazu, ein gemeinsames Verständnis der Aufgabestellung und Abnahmekriterien zu haben. Am Ende eines jeden Sprints erklärt der Product Owner, inwiefern diese erfüllt wurde und entscheidet dann, ob das Product Increment den Stakeholdern zur Verfügung gestellt wird, sodass es umgehend in der Praxis geprüft und getestet werden kann.[^1][^2][^4][^5][^6]
 
 
-![Scrum Artefakte Bild](Scrum_Artefakte/Visualisierung des Prozesses nach Artefakten.png)
+![Scrum Artefakte Bild](Scrum_Artefakte/Visualisierung_des_Prozesses_nach_Artefakten.png)
 
 *Visualisierung des Prozesses nach Artefakten*[^7]
 
