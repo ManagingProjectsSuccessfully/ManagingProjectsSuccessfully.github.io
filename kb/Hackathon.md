@@ -1,6 +1,6 @@
 ---
 title: Hackathon
-tags: Hackathon, Hack Fest, Hack Days, Code Days, Hacken
+tags: Hackathon Hack Fest Hack Days Code Days Hacken
 author: eberto99
 anrechnung: k
 ---
