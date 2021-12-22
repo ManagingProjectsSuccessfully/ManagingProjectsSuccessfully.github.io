@@ -13,7 +13,7 @@ Das heißt, es muss herausgefunden werden, wer das Projekt beeinflussen kann ode
 Hierbei gilt es die unterstützenden Stakeholder von den möglicherweise für das Projekt gefährlichen Stakeholdern zu unterscheiden. Außerdem gibt es interne und externe 
 Stakeholder. 
 Die internen Stakeholder befinden sich innerhalb des Unternehmens, wie zum Beispiel der Eigentümer, während die externen Stakeholder sich außerhalb des Unternehmens befinden. 
-Ein Beispiel wären Lieferanten oder Kunden. Die sogenannten Key-Stakeholder werden zusätzlich als gesonderte Gruppe analysiert, da sie den meisten Einfluss auf das Projekt haben.[^4] 
+Ein Beispiel wären Lieferanten oder Kunden. Die sogenannten Key-Stakeholder werden zusätzlich als gesonderte Gruppe analysiert, da sie den meisten Einfluss auf das Projekt haben. Dies können zum Beispiel Projektsponsoren und Investoren, als auch wichtige Kunden sein.[^4] 
 
 # Analyse
 Hat man diesen Schritt erledigt kann man sich der Analyse der Stakeholder zuwenden. Das Projektmanagement muss sich genauestens überlegen wie die Stakeholder zum Projekt
