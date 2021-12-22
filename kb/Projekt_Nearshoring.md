@@ -20,8 +20,8 @@ Die Abbildung zeigt, dass Deutschland ein sehr hohes Einkommensniveau hat und im
 * Auch die geringeren sprachlichen Barrieren bauen mehr Nähe zu den Kunden auf dem jeweiligen Markt auf. Davon profitiert auch die [Projektkommunikation](Projektkommunikation.md)
 * Transportkosten und -zeiten können gesenkt werden.
 * Die Europäische Union ist ein harmonisiertes Rechtssystem, wodurch die gleichen Rechte und Pflichten für alle gelten.
-* Datenschutzgesetze sind aufeinander abgestimmt und gewährleisten Sicherheit
-* In der EU (Schengen Raum) werden keine Zölle entrichtet und damit verläuft der Waren- und Dienstleistungsverkehr reibungslos und effizient.
+* Datenschutzgesetze sind aufeinander abgestimmt und gewährleisten Sicherheit für die Kunden und Unternehmen.
+* In der EU (Schengen Raum) werden keine Zölle für Mitgliedstaaten entrichtet und damit verläuft der Waren- und Dienstleistungsverkehr reibungslos und effizient.
 * In den genannten Nearshoring Regionen liegt eine hohe Qualifikation in fachlicher (und sprachlicher) Hinsicht vor. Des Weiteren sind sie durch Flexibilität, bessere Reaktion auf Marktveränderungen und eine einfachere [Risikoanalyse](Risikoanalyse_und_Visualisierung.md) gekennzeichnet.[^5][^1]
 
 
@@ -32,7 +32,7 @@ Die Abbildung zeigt, dass Deutschland ein sehr hohes Einkommensniveau hat und im
 
 *	Hier kann es zu [Zielkonflikten](Zielkonflikte.md) durch die Verlagerung kommen, da ein höherer Kommunikationsaufwand für das Unternehmen entsteht.
 *	Es werden Arbeitsplätze im eigenen Land abgebaut mit den entsprechenden sozialen Folgen.
-*	Der Konkurrenzdruck nimmt in der Belegschaft und durch Partnerunternehmen zu und kann zu Konflikten führen.
+*	Der Konkurrenzdruck nimmt in der Belegschaft und durch die Partnerunternehmen zu. Dies kann zu Konflikten führen.
 *	Die Komplexität bei Funktionen und Prozessen zwischen den Unternehmenseinheiten steigt.
 *	Die Auswahl von möglichen Partnern ist geringer im Vergleich zum Farshoring.
 *	Der monetäre Vorteil durch Lohnunterschiede ist weniger hoch als bei weniger wohlhabenden Staaten.
