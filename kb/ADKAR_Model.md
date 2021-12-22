@@ -50,7 +50,7 @@ Wenn dieser Schritt nicht oder zu wenig durchgeführt wird, kann es sein, dass d
 
 Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Veränderung des Unternehmens erfolgen kann. Daher ist es notwendig, die oben genannten Schritte nacheinander mit jedem einzelnen Individuum durchzuführen. Da die Stufen aufeinander aufbauen, würde ein Überspringen oder mangelhaftes Bearbeiten nicht zu dem gewünschten Ergebnis führen, weshalb man somit gezwungen wäre, noch einmal von vorne anzufangen. 
 
-Neben den oben genannten Schritten ist auch eine regelmäßige Bewertung notwendig. Die Bewertung erfolgt auf einer Skala von eins bis fünf, wobei eins schlecht und fünf das Optimum darstellt. Erst nachdem man einen der fünf Meilensteine erfolgreich abgeschlossen hat, d.h. mit mindestens drei Punkten, darf man zu dem nächsten Schritt übergehen.[^4] [^10]
+Neben den oben genannten Schritten ist auch eine regelmäßige Bewertung notwendig. Die Bewertung erfolgt auf einer Skala von eins bis fünf, wobei eins schlecht und fünf das Optimum darstellt. Erst nachdem man einen der fünf Meilensteine erfolgreich abgeschlossen hat, das heißt mit mindestens drei Punkten, darf man zu dem nächsten Schritt übergehen.[^4] [^10]
 
 Das ADKAR Modell kann somit bei persönlichen als auch bei größeren Gruppierungen wie beispielsweise Organisationen angewendet werden. [^4] [^10]
 
