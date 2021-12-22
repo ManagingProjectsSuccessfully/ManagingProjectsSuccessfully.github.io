@@ -12,9 +12,9 @@ Unklarheiten vorhanden sind. Diese Faktoren belegen Aussichten in die Zukunft wi
 # Begriffserklärung
 
 Der Begriff Kegel soll hierbei ausdrücken, dass je weiter man in die Zukunft schaut, desto mehr können sich diese Störfaktoren addieren. Dieser Verlauf wird durch „[…] die 
-räumliche Vorstellung eines Kegels, der im Umfang immer größer wird […]“ sehr gut widergespiegelt. Dabei wird der Kegelumfang kleiner, je näher man vor [Projektabschluss]
-(Projektabschluss.md) steht.[^1] Erst wenn das zuständige [Projektteam](Projektmitarbeiter.md) ihre Tätigkeit vollständig abschließt, erreichen die Unsicherheiten die 
-Null-Prozent-Marke[^5].
+räumliche Vorstellung eines Kegels, der im Umfang immer größer wird […]“ sehr gut widergespiegelt. Dabei wird der Kegelumfang kleiner, je näher man vor
+[Projektabschluss](Projektabschluss.md) steht.[^1] Erst wenn das zuständige [Projektteam](Projektmitarbeiter.md) ihre Tätigkeit vollständig abschließt, erreichen die 
+Unsicherheiten die Null-Prozent-Marke[^5].
 
 ![Beispielabbildung](Cone_of_Uncertainty/CoU.jpg)
 
@@ -44,15 +44,8 @@ trifft soll begrenzt werden. [^2] Deutlich zu erkennen ist auch hier die typisch
 
 Darstellungsmethoden wie der Cone of Uncertainty sind im [Projektmanagement](Projektmanagement.md) von großer Bedeutung, um zentrale Aspekte aufzuzeigen. Diese sind besonders 
 geeignet zur Illustration von Projektscope und -ziel sowie wesentlicher Projektergebnisse. Im Allgemeinen sind Darstellungsmethoden für agile als auch klassische Projekte 
-anwendbar, sodass der „[…]Cone of Uncertainty unabhängig vom Paradigma (klassisch vs. agil) einsetzbar“ ist. [^1] Zu Beginn jedes Projekts weiß man nicht exakt, wie viel Zeit 
-dieses in Anspruch nehmen wird. Die Gründe hierfür sind vielfältig. Projekte unterscheiden sich in den Anforderungen, Prioritäten, Technologien oder auch dem Geschäftsbereich 
-und den daran beteiligten Personen. Jedes [Projekt](Projekt.md) ist individuell, wofür es jedoch einige hilfreiche Umgangsmöglichkeiten gibt. „Sizing the project relatively“ 
-beschreibt den Ansatz, den Umfang eines Projekts mit den anderer zu vergleichen. Dadurch kann verhältnismäßig auf das Ausmaß des zu betrachtenden Projekts geschlossen werden.
-Weiterhin kann es nützlich sein, Berechnungen oder Schätzungen in Bezug auf benötigte [Zeit](Zeitplanung.md) oder [Kosten](Kostenplanung.md) etwas höher anzusetzen. Dadurch 
-ergibt sich ein gewisser "Puffer" und im Projekt zusätzlich Spielraum. Hier ist jedoch darauf zu achten, die richtige Balance zu finden. Werden die Vorhersagen zu hochgesteckt,
-kann dies zum Beispiel mögliche Sponsoren abschrecken. Wird wiederum zu wenig kalkuliert, läuft man Gefahr, dass finanzielle Mittel oder Zeit knapp werden. Wichtig ist es auch,
-offen und ehrlich Zahlen und aktuelle Standpunkte mit Projektpartnern zu [kommunizieren](Projektkommunikation.md). Damit kann frühzeitig negativen Überraschungen aus dem Weg 
-gegangen werden. [^3]
+anwendbar, sodass der „[…]Cone of Uncertainty unabhängig vom Paradigma (klassisch vs. agil) einsetzbar“ ist. [^1] 
+Zu Beginn jedes Projekts weiß man nicht exakt, wie viel Zeit dieses in Anspruch nehmen wird. Die Gründe hierfür sind vielfältig. Projekte unterscheiden sich in den Anforderungen, Prioritäten, Technologien oder auch dem Geschäftsbereich und den daran beteiligten Personen. Jedes [Projekt](Projekt.md) ist individuell, wofür es jedoch einige hilfreiche Umgangsmöglichkeiten gibt. „Sizing the project relatively“ beschreibt den Ansatz, den Umfang eines Projekts mit den anderer zu vergleichen. Dadurch kann verhältnismäßig auf das Ausmaß des zu betrachtenden Projekts geschlossen werden. Weiterhin kann es nützlich sein, Berechnungen oder Schätzungen in Bezug auf benötigte [Zeit](Zeitplanung.md) oder [Kosten](Kostenplanung.md) etwas höher anzusetzen. Dadurch ergibt sich ein gewisser "Puffer" und im Projekt zusätzlich Spielraum. Hier ist jedoch darauf zu achten, die richtige Balance zu finden. Werden die Vorhersagen zu hochgesteckt, kann dies zum Beispiel mögliche Sponsoren abschrecken. Wird wiederum zu wenig kalkuliert, läuft man Gefahr, dass finanzielle Mittel oder Zeit knapp werden. Wichtig ist es auch, offen und ehrlich Zahlen und aktuelle Standpunkte mit Projektpartnern zu [kommunizieren](Projektkommunikation.md). Damit kann frühzeitig negativen Überraschungen aus dem Weg gegangen werden. [^3]
 
 
 # Siehe auch
