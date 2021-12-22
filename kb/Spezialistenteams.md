@@ -5,15 +5,15 @@ author: ksushaW
 anrechnung: k 
 ---
 
-Im Folgenden sollen Spezialistenteams, welche ein Teil des Projekt-Teams darstellen, sowie deren Einordnung in das sog. "Spitzenteam" erläutert werden. 
+Im Folgenden sollen Spezialistenteams, welche ein Teil des Projektteams darstellen, sowie deren Einordnung in das sog. "Spitzenteam" erläutert werden. 
 
 # Das Spezialistenteam
 
-Das Spezialistenteam ist ein Bestandteil des Projekt-Teams im Sinne des klassischen Projektmanagements. Das Team ist insofern für das Projekt-Team relevant, da dessen Mitglieder das für das Projekt benötigte Fachwissen besitzen. Aus diesem Grund nimmt das Spezialistenteam innerhalb des Projekt-Teams eine unterstützende Rolle ein und kann sozusagen als eine Gruppe von Fachexperten angesehen werden. Das Spezialistenteam findet sich für das Vorhaben nicht selbst ein, sondern wird vom Projektmanager erstellt. Dabei achtet dieser darauf, dass nur diejenigen Spezialisten ausgewählt werden deren Fähigkeiten und Fachkenntnisse im Sinne des Projekterfolgs zielführend sind.[^1]
+Das Spezialistenteam ist ein Bestandteil des Projektteams im Sinne des klassischen Projektmanagements. Das Team ist insofern für das Projektteam relevant, da dessen Mitglieder das für das Projekt benötigte Fachwissen besitzen. Aus diesem Grund nimmt das Spezialistenteam innerhalb des Projektteams eine unterstützende Rolle ein und kann sozusagen als eine Gruppe von Fachexperten angesehen werden. Das Spezialistenteam findet sich für das Vorhaben nicht selbst ein, sondern wird vom [Projektleiter](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md) erstellt. Dabei achtet dieser darauf, dass nur diejenigen Spezialisten ausgewählt werden deren Fähigkeiten und Fachkenntnisse im Sinne des Projekterfolgs zielführend sind.[^1]
 
 ## Bedeutung der Spezialistenteams für das Spitzenteam
 
-Es ist jedoch wichtig zu verstehen, dass ein erfolgreiches Projekt nicht allein auf das Mitwirken des Spezialistenteams beruht. Neben fachlich technischen Kenntnissen sind problemlösende, zwischenmenschliche sowie organisatorische Fähigkeiten für den Projekterfolg entscheidend.[^1] Aus diesem Grund ist ein Projekt-Team, was nur aus Fachexperten besteht, für ein erfolgreiches Projekt nicht hinreichend. Aufgrund dessen müssen alle beteiligten Mitglieder in der Gesamtheit kein einfaches „Team“, sondern ein sog. „Spitzenteam“, ergeben.
+Es ist jedoch wichtig zu verstehen, dass ein erfolgreiches [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) nicht allein auf das Mitwirken des Spezialistenteams beruht. Neben fachlich technischen Kenntnissen sind problemlösende, zwischenmenschliche sowie organisatorische Fähigkeiten für den Projekterfolg entscheidend.[^1] Aus diesem Grund ist ein Projektteam, was nur aus Fachexperten besteht, für ein erfolgreiches Projekt nicht hinreichend. Aufgrund dessen müssen alle beteiligten Mitglieder in der Gesamtheit kein einfaches „Team“, sondern ein sog. „Spitzenteam“, ergeben.
 „Spitzenteams“ zeichnen sich durch sieben bestimmte Merkmale aus, welche zusammen als Ganzes gleichermaßen erfolgsrelevant sind.[^2]
 
 ## Faktoren des Spitzenteams
@@ -49,7 +49,15 @@ Projekt-Teams zu einem Spitzenteam gar nicht notwendig.[^2]
 
 #
 
-Zusammenfassend kann man sagen, dass das Spezialistenteam eine wichtige Rolle im Projekt-Team einnimmt und insbesondere für den Erfolgsfaktor Fähigkeit von Relevanz ist. Wie zuvor erläutert sind die Fachexperten nicht der einzige ausschlaggebende Faktor für den Projekterfolg. Sie müssen zusammen mit den restlichen Team-Mitgliedern ein Spitzenteam ergeben, welches einen hohen wertschöpfenden Beitrag für ein erfolgreiches Projekt leisten soll. Kurz gesagt ist es wichtig für den Projekterfolg ein optimale Kombination aus fachlichen und zwischenmenschlichen Kompetenzen zu generieren.
+<p align="center">
+  <img src=https://github.com/ksushaW/ManagingProjectsSuccessfully.github.io/blob/main/kb/Spezialistenteams/SpezialistenteamBildVerbessert.png>
+</p>
+
+<p align="center">
+ Bild: Spezialistenteams als Komponente innerhalb eines Spitzenteams
+</p>
+
+Zusammenfassend kann man sagen, dass das Spezialistenteam eine wichtige Rolle im Projektteam einnimmt und insbesondere für den Erfolgsfaktor Fähigkeit von Relevanz ist. Wie zuvor erläutert sind die Fachexperten nicht der einzige ausschlaggebende Faktor für den Projekterfolg. Sie müssen zusammen mit den restlichen Team-Mitgliedern ein Spitzenteam ergeben, welches einen hohen wertschöpfenden Beitrag für ein erfolgreiches Projekt leisten soll. Kurz gesagt ist es wichtig für den Projekterfolg ein optimale Kombination aus fachlichen und zwischenmenschlichen Kompetenzen zu generieren.
 
 # Quellen
 
