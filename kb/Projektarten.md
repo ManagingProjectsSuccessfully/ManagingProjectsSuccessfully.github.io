@@ -22,7 +22,7 @@ Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und 
 
 *Abbildung: Projektarten-Matrix*[^1]
 
-[Standard- oder Routineprojekte](Routineprojekte.md) können aufgrund bestehender Erfahrung standardisiert und relativ einfach abgewickelt werden, wie beispielsweise Ersatzinvestitionen im Unternehmen. Auch bei den Akzeptanzprojekten kann man auf [Erfahrung](Wissenstransfer.md) zurückgreifen und zu einem gewissen Grad standardisieren. Jedoch ist diese Art von Projekt durch ihre hohe Komplexität oft mit Akzeptanzproblemen verbunden, weshalb Information und Kommunikation eine entscheidende Rolle spielen. Ein typisches Beispiel hierfür ist ein komplexes [IT-Projekt](IT-Projekte.md). 
+[Standard- oder Routineprojekte](Routineprojekte.md) können aufgrund bestehender Erfahrung standardisiert und relativ einfach abgewickelt werden, wie beispielsweise Ersatzinvestitionen im Unternehmen. Auch bei den Akzeptanzprojekten kann man auf [Erfahrung](Wissenstransfer.md) zurückgreifen und zu einem gewissen Grad standardisieren. Jedoch ist diese Art von Projekt durch ihre hohe Komplexität oft mit Akzeptanzproblemen verbunden, weshalb Information und Kommunikation eine entscheidende Rolle spielen. Ein typisches Beispiel hierfür ist ein komplexes IT-Projekt.
 
 Potenzialprojekte sind durch ihr geringes Risiko und ihre einfache Projektorganisation charakterisiert, da sie trotz ihrer offenen Aufgabenstellung eine geringe Vernetzung mit dem Projektumfeld aufweisen. Unter diese Projektart fallen vor allem [Forschungsprojekte](Forschungsprojekte.md).[^4] 
 
@@ -30,7 +30,7 @@ Im Gegensatz zu den Potenzialprojekten werden [Pionierprojekte](Pionierprojekte.
 
 Wichtig zu beachten ist, dass die Grenzen der Matrix nicht starr sind und eine eindeutige Zuordnung nicht immer möglich ist. Darüber hinaus wechseln viele Projekte während der Entwicklung von Vorstudienphase bis zur Realisierung ihre Projektart. Dabei wandeln sich Projekte meist vom Potenzial- zum Pionierprojekt und werden im Anschluss zu Akzeptanz- oder sogar Standardprojekt[^2]. 
 
-Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen internen und externen Auftraggebern eines der wichtigsten Kriterien von Projekten. Häufig erscheint es auch sinnvoll, Projekte anhand ihres Inhalts  oder Branche zu differenzieren, um spezielle Vorgehensweisen und Techniken abzuleiten. Ein klassisches Schema ist die Unterscheidung in Investitions-, [Forschungs-](Forschungsprojekte.md) und [Entwicklungsprojekte](Entwicklungsprojekte.md), sowie Organisations- und IT-Projekte.[^1]
+Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen internen und externen Auftraggebern eines der wichtigsten Kriterien von Projekten. Häufig erscheint es auch sinnvoll, Projekte anhand ihres Inhalts  oder Branche zu differenzieren, um spezielle Vorgehensweisen und Techniken abzuleiten. Ein klassisches Schema ist die Unterscheidung in Investitions-, [Forschungs-](Forschungsprojekte.md) und [Entwicklungsprojekte](Entwicklungsprojekte.md), sowie Organisations- und [IT-Projekte](IT-Projekte.md)e.[^1]
 
 # Bedeutung für Projektmanagement
 
