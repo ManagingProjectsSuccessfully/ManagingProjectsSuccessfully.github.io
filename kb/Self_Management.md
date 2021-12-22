@@ -31,7 +31,7 @@ Die einzelnen Buchstaben der Amore Methode beschreiben die Formulierung der Ziel
 ## 80-20 Pareto-Prinzip
 Beim Pareto-Prinzip geht es darum, dass 20 Prozent in das Projekt investiert wird und das Resultat einen 80-prozentigen Effekt hat. Diese Methode benötigt allerdings viel Zeit im Aufbauprozess. [^1]
 ## [Eisenhower-Methode]
-Bei  der Eisenhower-Methode(Eisenhower_Matrix.md) werden die Aufgaben aufgeteilt, wodurch einem der Priorisierungs-prozess erleichtert wird. Die Aufgaben werden wie folgt aufgeteilt: 
+Bei  der [Eisenhower-Methode](Eisenhower_Matrix.md) werden die Aufgaben aufgeteilt, wodurch einem der Priorisierungs-prozess erleichtert wird. Die Aufgaben werden wie folgt aufgeteilt: 
 Wichtig/eilig, wichtig/nicht eilig, unwichtig/eilig, unwichtig/nicht eilig. 
 Zu dieser Methode gibt es einige ähnliche Methoden wie z.B. die ABC-Methode, wo die Aufgaben jedoch nur in 3 Kategorien aufgeteilt werden (sehr wichtig, weniger wichtig und kaum wichtig). [^1]
 ## SMART-Methode 
