@@ -4,6 +4,8 @@ tags: agil scrum artefakte
 author: kutaydogan
 anrechnung: a
 ---
+Die Scrum Artefakte stellen die wesentlichen Komponenten des Scrums, einer agilen Projektmanagement Methode, dar und werden im Folgenden genauer erläutert.
+
 
 # Scrum Artefakte
 Es gibt im [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und „Product Increment“. Diese haben jeweils einen übergeordneten Leitgedanken, der dabei helfen sollen, in allen Ebenen einen Überblick zu behalten.[^1]
