@@ -110,7 +110,7 @@ der daraus entstandenden Vielzahl an Modellen bzw. Vorschläge zur Gestaltungsm�
 [^7]: Doppler, K. & Lauterburg, C. (2014). Change Management. Frankfurt, New York: Campus Verlag. https://books.google.de/books?hl=de&lr=&id=fnRxAgAAQBAJ&oi=fnd&pg=PA5&dq=Doppler,+K.+%26+Lauterburg,+C.+(2014).+Change+Management&ots=ohvjaFcC2m&sig=fOEfUCxmW5kzADplcDIyFNOK9dY#v=onepage&q&f=false
 [^8]: Stouten, J., Rousseau, D. M. & de Cremer, D. (2018). Successful Organizational Change: Integrating the Management Practice and Scholarly Literatures. Academy of Management Annals, 12(2), 752–788. https://doi.org/10.5465/annals.2016.0095
 [^9]: Lewin, K. (1947). Frontiers in Group Dynamics. Human Relations, 1(1), 5–41. https://doi.org/10.1177/001872674700100103
-[^10]: Kotter, J. P. (1995). Why transformation efforts fail. Harvard Business Review. Verfügbar unter: http://www.mcrhrdi.gov.in/91fc/coursematerial/management/20%20Leading%20Change%20-%20Why%20Transformation%20Efforts%20Fail%20by%20JP%20Kotter.pdf
+[^10]: Kotter, J. P. (1995). Why transformation efforts fail. Harvard Business Review, 57-68. Verfügbar unter: http://www.mcrhrdi.gov.in/91fc/coursematerial/management/20%20Leading%20Change%20-%20Why%20Transformation%20Efforts%20Fail%20by%20JP%20Kotter.pdf
 [^11]: https://de.wikipedia.org/wiki/3-Phasen-Modell_von_Lewin
 [^12]: https://de.wikipedia.org/wiki/Veränderungsmanagement
 [^13]: https://www.researchgate.net/figure/Lewins-3-stage-model-Unfreeze-This-stage-prepares-individuals-for-the-change-In_fig3_334736458
