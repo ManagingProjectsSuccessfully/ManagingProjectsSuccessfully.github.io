@@ -39,6 +39,7 @@ Erfolgt aber eine Aufgabe in einer bestimmten Reihenfolge und ist deshalb nicht 
 
 *Abbildung 2: unteilbare Arbeitszeit und Arbeitskräfte.*[^1] *Dabei wird veranschaulicht, dass eine Erhöhung der Arbeitskräfte keine Auswirkungen auf die Zeit hat, sobald eine Aufgabe in einer bestimmten Reihenfolge zu erfolgen hat.*
 
+
 Bei aufteilbaren Aufgaben ist hingegen [Projektkommunikation](Projektkommunikation.md) in Form eines Informationsaustausches notwendig, der als Aufwand der zu leistenden Arbeit angerechnet werden muss (Abbildung 3), was sich verlängernd auf die Projektzeit auswirkt. Mit mehr Kommunikationsbeziehungen erhöht sich auch der Aufwand für eine Aufgabe zusätzlich zu dem ohnehin hinzuzurechnenden Aufwand des Informationsaustausches als zu leistende Arbeit.[^1]
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Aufgabe%20mit%20Kommunikation.JPG)
