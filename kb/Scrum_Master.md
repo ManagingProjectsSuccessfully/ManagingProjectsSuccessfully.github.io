@@ -1,6 +1,6 @@
 ---
 title: Scrum_Master
-tags: agil klassisch
+tags: agil
 author: Phr4nk20
 anrechnung: a
 ---
