@@ -38,7 +38,7 @@ Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team
 
 ![Scrum Artefakte Bild](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/Scrum%20Artefakte%20FINAL.png)
 
-*Visualisierung der Prozesse nach Artefakten*
+*Visualisierung des Prozesses nach Artefakten*[^7]
 
 # Siehe auch
 
@@ -57,3 +57,4 @@ Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team
 [^4]: [Product Backlog](https://www.projektmagazin.de/glossarterm/product-backlog)
 [^5]: [Scrum Artefakte](https://www.scrum-events.de/scrum-artefakte.html)
 [^6]: [Definition of Done](https://www.projektmagazin.de/glossarterm/definition-of-done)
+[^7]: [Visualisierung des Prozesses nach Artefakten](https://www.fuer-gruender.de/blog/scrum/)
