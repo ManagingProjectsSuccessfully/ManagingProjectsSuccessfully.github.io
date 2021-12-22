@@ -7,8 +7,8 @@ anrechnung: k
 
 Der folgende Artikel widmet sich dem Thema Gantt-Diagramme, die im klassischen Projektmanagement ein häufig verwendetes Werkzeug darstellen.
 
-# 1 Was ist ein Gantt Diagramm
-Gantt-Diagramme  sind Tools zur Projektplanung. Sie unterstützen im klassischen [Projektmanagement]( https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), indem sie die zeitliche Abfolge, sowie Beginn und Ende der einzelnen Aktivitäten des Projekts in Balkenform visualisieren[^1].
+# 1 Das Gantt Diagramm
+Gantt-Diagramme  sind Tools zur Projektplanung. Sie unterstützen im klassischen [Projektmanagement]( https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), indem sie die zeitliche Abfolge, sowie Beginn und Ende der einzelnen Aktivitäten des Projekts in Balkenform visualisieren[^1]. In den folgenden Unterpunkten wird zunächst die Entstehung des Gantt-Diagramms erklärt, anschließend wird der Aufbau beschrieben und anhand eines Beispiels veranschaulicht.
 
 ## Entstehung
 Die erste Form des Gantt-Diagramms wurde 1896 von einem polnischen Hüttentechniker namens Karol Adamiecki entworfen. Er bezeichnete es als Harmonogramm, was aus dem Polnischen übersetzt „Arbeitsablaufschild“ bedeutet. Unabhängig von Adamieckis Diagramm erstellte Henry Laurence Gantt im Jahr 1910 das erste Gantt-Diagramm, anhand dessen er Produktionsprozesse im Schiffsbau plante. Die Gantt-Chart wie sie heute eingesetzt wird, wurde jedoch nach seinem Tod durch einen Kollegen von H. L. Gantt verbreitet. Dies erfolgte durch Henry Wallace Clark unter anderem durch die Publikation des Buches „The Gantt chart, a working tool of management“ im Jahr 1922 [^2]. 
@@ -18,7 +18,7 @@ Auf der horizontalen Achse des Diagramms befinden sich die Namen der einzelnen A
 
 
 ## Gantt-Diagramme erstellen 
-Für die Erstellung eines Gantt Diagramms können zahlreiche Software Programme benutzt werden. 
+Für die Erstellung eines Gantt Diagramms können zahlreiche Softwareprogramme benutzt werden. 
 Einige kostenlose Beispiele sind GanttProject, oder OpenProject. Kostenpflichtige Programme wären zum Beispiel Mindmanager, oder Microsoft Project[^4]. Zur Erstellung werden folgende Informationen benötigt[^5]:
 * nötiger Detaillierungsgrad des Diagramms
 * Aktivitäten
