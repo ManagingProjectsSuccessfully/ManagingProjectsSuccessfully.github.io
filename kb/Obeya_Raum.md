@@ -41,14 +41,14 @@ Vor allem bei Toyota wurde Obeya besonders effektiv umgesetzt. So ermöglichte d
 # Siehe auch
 * [Lean Managements](Lean_Projektmanagement.md)
 * [Projektmanagement](Projektmanagement.md)
-* [Stakeholdermanagement].(Stakeholdermanagement.md
+* [Stakeholdermanagement](Stakeholdermanagement.md)
 
 # Weiterführende Literatur
-* [Aasland, K., & Blankenburg, D. (2012). Virtualizing the obeya. In DS 71: Proceedings of NordDesign 2012, the 9th NordDesign conference, Aarlborg University, Denmark. 22-24.08. 2012.]
+* Aasland, K., & Blankenburg, D. (2012). Virtualizing the obeya. In DS 71: Proceedings of NordDesign 2012, the 9th NordDesign conference, Aarlborg University, Denmark. 22-24.08. 2012.
 
-* [Johnson, C. N. (2002). The benefits fo PDCA. Quality Progress, 35(5), 120.]
+* Johnson, C. N. (2002). The benefits fo PDCA. Quality Progress, 35(5), 120.
 
-* [Nascimento, D. L. D. M., Sotelino, E. D., Lara, T. P. S., Caiado, R. G. G., & Ivson, P. (2017). Constructability in industrial plants construction: a BIM-Lean approach using the Digital Obeya Room framework. Journal of civil engineering and management, 23(8), 1100-1108.]
+* Nascimento, D. L. D. M., Sotelino, E. D., Lara, T. P. S., Caiado, R. G. G., & Ivson, P. (2017). Constructability in industrial plants construction: a BIM-Lean approach using the Digital Obeya Room framework. Journal of civil engineering and management, 23(8), 1100-1108.
 
 # Quellen
 [^1]: [Obeya (appvizer)](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/obeya)
