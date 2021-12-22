@@ -9,9 +9,9 @@ In einem Projekt sind viele Menschen beteiligt, die ein komplexes soziales Gefü
 # Projektrollen
 
 *	Projektauftraggeber: Er gilt als erfolgskritisch, da er Aufträge delegiert und der Vertragspartner des Projekts ist. Der Auftraggebende hat an Projektsitzungen teilzunehmen und muss strategische Entscheidungen treffen.
-*	[Projektleiter](Projektleiter.md): Die Durchführung und Zielerreichung des Projekts muss er sicherstellen. Der Leiter übernimmt die Führung des Teams und muss methodische, fachliche sowie soziale Kompetenzen aufweisen. Der Projektverlauf muss ständig kontrolliert und das Controlling der Arbeit durchgeführt werden [Stakeholdermanagement](Stakeholdermanagement.md), Ausübung und Limitation von Macht, Grenzziehung, Überprüfung bei der Einhaltung von sozialen Regeln und die [Konfliktauflösung](Konfliktmanagement.md) zählen zu weiteren Aufgabengebieten.
+*	[Projektleiter](Projektleiter.md): Die Durchführung und Zielerreichung des Projekts muss er sicherstellen. Der Leiter übernimmt die Führung des Teams und muss methodische, fachliche sowie soziale Kompetenzen aufweisen. Der Projektverlauf muss ständig kontrolliert und das Controlling der Arbeit durchgeführt werden. [Stakeholdermanagement](Stakeholdermanagement.md), Ausübung und Limitation von Macht, Grenzziehung, Überprüfung bei der Einhaltung von sozialen Regeln und die [Konfliktauflösung](Konfliktmanagement.md) zählen zu weiteren Aufgabengebieten.
 *	Projektmitglied/[Projektmitarbeiter](Projektmitarbeiter.md): Muss das fachliche Know-How vorweisen. Selbstbewusstsein, Flexibilität und Durchsetzungsvermögen sind Voraussetzung. Aber auch die Mitglieder müssen sozial anpassungsfähig sein und gemeinsam eine Lösung finden.
-*	Projektcoach: Der Coach berät das Team während der Planungsphase und hilft bei der Konfliktbewältigung innerhalb der Gruppe. Rahmenbedingungen für die Entwicklung werden vorgegeben, dennoch muss er den „roten Faden“ verfolgen und dessen Einhaltung überprüfen.[^1][^3]
+*	Projektcoach: Der Coach berät das Team während der [Projektplanung](Projektplanung.md) in der Planungsphase und hilft bei der Konfliktbewältigung innerhalb der Gruppe. Rahmenbedingungen für die Entwicklung werden vorgegeben, dennoch muss er den „roten Faden“ verfolgen und dessen Einhaltung überprüfen.[^1][^3]
 
 
 ## Projektleiter
