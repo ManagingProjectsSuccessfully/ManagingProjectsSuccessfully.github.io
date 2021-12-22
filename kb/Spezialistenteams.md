@@ -2,103 +2,56 @@
 title: Spezialistenteams
 tags: agil klassisch
 author: ksushaW
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Spezialistenteams um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Im Folgenden sollen Spezialistenteams, welche ein Teil des Projekt-Teams darstellen, sowie deren Einordnung in das sog. "Spitzenteam" erläutert werden. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Das Spezialistenteam
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Das Spezialistenteam ist ein Bestandteil des Projekt-Teams im Sinne des klassischen Projektmanagements. Das Team ist insofern für das Projekt-Team relevant, da dessen Mitglieder das für das Projekt benötigte Fachwissen besitzen. Aus diesem Grund nimmt das Spezialistenteam innerhalb des Projekt-Teams eine unterstützende Rolle ein und kann sozusagen als eine Gruppe von Fachexperten angesehen werden. Das Spezialistenteam findet sich für das Vorhaben nicht selbst ein, sondern wird vom Projektmanager erstellt. Dabei achtet dieser darauf, dass nur diejenigen Spezialisten ausgewählt werden deren Fähigkeiten und Fachkenntnisse im Sinne des Projekterfolgs zielführend sind.[^1]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Bedeutung der Spezialistenteams für das Spitzenteam
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Es ist jedoch wichtig zu verstehen, dass ein erfolgreiches Projekt nicht allein auf das Mitwirken des Spezialistenteams beruht. Neben fachlich technischen Kenntnissen sind problemlösende, zwischenmenschliche sowie organisatorische Fähigkeiten für den Projekterfolg entscheidend.[^1] Aus diesem Grund ist ein Projekt-Team, was nur aus Fachexperten besteht, für ein erfolgreiches Projekt nicht hinreichend. Aufgrund dessen müssen alle beteiligten Mitglieder in der Gesamtheit kein einfaches „Team“, sondern ein sog. „Spitzenteam“, ergeben.
+„Spitzenteams“ zeichnen sich durch sieben bestimmte Merkmale aus, welche zusammen als Ganzes gleichermaßen erfolgsrelevant sind.[^2]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Faktoren des Spitzenteams
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+### Fähigkeit
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Der erste Faktor ist die Fähigkeit. Hierbei sind das Fachwissen des Spezialistenteams, methodisches Wissen sowie Prozesskompetenz gemeint. Zudem geht es bei diesem Aspekt, um zeitnahe und unkomplizierte Beschaffung von erforderlichen Informationen. Methodische Kompetenzen sollen die Projekt-Mitglieder dazu befähigen das Fachwissen eindeutig zu kommunizieren, zu interagieren und Problemlösungen zu erarbeiten. Das Spezialistenteam leistet insbesondere bei diesem Faktor einen hohen Beitrag.[^2]
 
+### Zusammenarbeit
 
-# Aspekt 1
+Der Aspekt der Zusammenarbeit wird von den Spitzenteams durch eine offene und neugierige Atmosphäre geprägt, welche ein effektives gemeinsames Mitarbeiten ermöglicht. Dadurch dass unterschiedliche Menschen miteinander in Kontakt treten, haben die Team-Mitglieder die Möglichkeit andere Sichtweisen einzunehmen, um sich somit hinsichtlich der Fachkompetenzen gegenseitig zu unterstützen. Die Zusammenarbeit ist insofern sinnvoll, um positive synergetische Effekte zu nutzen.[^2] 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+### Führung
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Die Führung nimmt innerhalb des Spitzenteams auch eine wichtige Rolle ein. Eine gute Führung sorgt für eine reibungslose Organisation im Team, Rollenklarheit und löst Konflikte auf optimale Weise.[^2] 
 
-![Beispielabbildung](Spezialistenteams/test-file.jpg)
+### Bevollmächtigung
 
-*lustiges Testbild*
+Ein bestimmter Grad an Bevollmächtigung ist ebenso für den Erfolg des Spitzenteams relevant. Hierbei soll den Projekt-Mitgliedern garantiert werden, dass auch sie selbst bestimmte Entscheidungen auf ihrer Ebene treffen und umsetzen zu können.[^2]
 
-# Aspekt 2
+### Engagement
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Ein weiterer Faktor ist das Engagement. Der persönliche Einsatz eines jeden Projekt-Mitglieds kann nur dann positive Effekte haben, wenn sich jeder seiner eigenen Rolle und dessen Bedeutung bewusst ist. Zusätzlich soll für alle Beteiligten das Ziel klar sein, damit diese einen Sinn in ihrer Tätigkeit sehen.[^2] 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+### Motivation
 
-So kann man eine Tabelle erstellen:
+Der Faktor Motivation muss auch in einem Spitzenteam gegeben sein, denn ohne Spaß an der Arbeit kann kein entsprechend starker Teamgeist innerhalb des Projektteams geschaffen werden.[^2]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+### Arbeitsergebnis
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Spitzenteams machen sich außerdem durch ein außerordentliches Arbeitsergebnis mit einem hohem Wertschöpfungsbeitrag kenntlich. Andernfalls wäre die Gestaltung des 
+Projekt-Teams zu einem Spitzenteam gar nicht notwendig.[^2]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+#
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Spezialistenteams.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+Zusammenfassend kann man sagen, dass das Spezialistenteam eine wichtige Rolle im Projekt-Team einnimmt und insbesondere für den Erfolgsfaktor Fähigkeit von Relevanz ist. Wie zuvor erläutert sind die Fachexperten nicht der einzige ausschlaggebende Faktor für den Projekterfolg. Sie müssen zusammen mit den restlichen Team-Mitgliedern ein Spitzenteam ergeben, welches einen hohen wertschöpfenden Beitrag für ein erfolgreiches Projekt leisten soll. Kurz gesagt ist es wichtig für den Projekterfolg ein optimale Kombination aus fachlichen und zwischenmenschlichen Kompetenzen zu generieren.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://hbr.org/2016/11/five-critical-roles-in-project-management
+[^2]: https://www.projektmanagementhandbuch.de/soft-skills/spitzenteams/

@@ -1,104 +1,136 @@
 ---
 title: Faehigkeiten_Projektleiter
-tags: agil klassisch
+tags: klassisch
 author: xuansun88
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Faehigkeiten_Projektleiter um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Der [Projektleiter](https://de.wikipedia.org/wiki/Projektleiter) ist für die operative Planung und Steuerung des Projektes verantwortlich. Um ein Projekt zu leiten und dieses erforlgreich zum Ziel zu führen benötigt ein Projektleiter neben fachlichen Kompetenz auch verschiedenste Fähigkeiten.   
 
 
-# Aspekt 1
+# Welche Fähigkeiten benötigt ein Projektleiter?
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Projektleiter definiert in der Vorbereitungsphase das Ziel, Budget und Termine und plant die einzelnen Projektschritte. Das Team, das für die Durchführung des Projekts bestimmt ist, koordiniert und motiviert er. Er legt Verantwortlichkeiten fest und verteilt die anfallenden Aufgaben. Dabei ist eine klare und eindeutige Kommunikation äußerst wichtig, damit alle Beteiligten die Aufgaben und Ziele verstehen und umsetzen können[^1]. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Als Projektleiter muss man sowohl fundiertes fachliches Know-how, als auch die Kompetenzen einer Führungskraft, eines Projektmanagers und eines Unternehmers mitbringen. Im Idealfall füllt der Projektleiter vier Rollen aus. Diese vier Rollen verlangen unterschiedliche Fähigkeiten und Eigenschaften von dem Projektleiter.
 
-![Beispielabbildung](Faehigkeiten_Projektleiter/test-file.jpg)
+![Die 4 Rollen des Projektleiters](Faehigkeiten_Projektleiter/4_Rollen_Projektleiter.jpg)
 
-*lustiges Testbild*
+*Die vier Rollen des Projektleiters*[^2] 
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Fähigkeiten des Projektleiters als Fachmann
 
-So kann man eine Tabelle erstellen:
+Die meisten Projektleiter erfüllen die fachlichen Anforderungen. Sie sind in der Lage, technische und fachliche Details zu verstehen, zu bewerten oder auch selbst auszuarbeiten. Diese Feldkompetenz und Branchenkenntnis erleichtert einem Projektleiter die tägliche Arbeit, da er Zusammenhänge schneller durchdringt als ein Fachfremder[^2].
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+* [Fachkompetenz](https://de.wikipedia.org/wiki/Fachkompetenz)
+* Erkennen von Zusammenhängen 
+* Erkennen von Fehler und Problemlösungsfähigkeiten
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# Fähigkeiten des Projektleiters als Projektmanager
 
-### Ebene-3-Überschrift
+Ein Projektleiter muss zudem die Instrumente zum Planen und Steuern von Projekten kennen: Er muss in der Lage sein, die Rahmenbedingungen zu stecken, in denen Abläufe durchgeführt werden und innerhalb derer die Projektmitarbeiter selbständig agieren können. Danach ist es seine Aufgabe, für die Durchführung des Projektes zu sorgen, es zu überwachen und das Team zu leiten. Diese Anforderungen fallen unter die Kategorie „Projektmanagement“ und beinhalten die Fähigkeit, das Projekt zu initiieren, zu definieren, zu planen, durchzuführen, zu steuern und zu bewerten[^1].
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+* [Methodenkompetenz](https://de.wikipedia.org/wiki/Methodenkompetenz)
+* Projektstrukturplan und Priorisierung 
+* Aufwand schätzen und Budgetverwaltung
+* Zeitleistenplanung
+* Ressourceplanung
+* Beherrschen der Projektmanagement-Instrumente und deren Anwendung
+* Organisationskompetenz
 
-# Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+# Fähigkeiten des Projektleiters als Führungskraft
+
+Projektleiter sind Führungskräfte. Ein Projektleiter führt ein Projektteam. Er sollte in der Lage sein, die sich teils widersprechenden Interessen von Kunden, Vorgesetzten, involvierten Abteilungen und den eigenen Projektmitarbeitern zu managen. Der Umgang mit den verschiedenen Stakeholdern eines Projektes erfordert ein hohes Maß an sozialer Kompetenz. Zudem sind Soft Skills und personliche Eigenschaften auch sehr wichtig für Projektmanagement[^2]
+
+## [Sozialkompetenz](https://de.wikipedia.org/wiki/Soziale_Kompetenz)
+* Kommunikationsfähigkeit 
+* Moderationstechniken
+* Überzeugungsfähigkeit
+* Koordinierungsaufgaben
+* Kontaktfreudigkeit
+* Durchsetzungsvermögen
+* Fähigkeit zu delegieren
+* Zusammenarbeit, Teamfähigkeit, Kooperationsbereitsschaft, Unterstützung
+* Führungskompetenz
+* Empathie, emotionale Intelligenz
+* Motivationsfähigkeit 
+
+
+## Personliche Eigenschaften
+* Selbstvertrauen
+* Glaubwürdiges Auftreten
+* Leistungsbereitschaft
+* Verantwortungsgefühl
+* Eigeninitiative 
+* Entscheidungsfreude
+* Kreativität 
+* Belastbarkeit, Stressbewältigung
+* Flexibilität und Anpassungsfähigkeit
+* Bestmöglicher Umgang mit unvorhersehbaren Problemen und Notfällen, Zeitdruck
+* Konfliktfähigkeit: frühzeitig Erkennung von Konflikt, Umgang mit Widerständen, konstruktive Verhaltensweisen in Konfliktsituationen
+* Verhandlungshärte und -geschick
+
+![Projektleiter_Fähigkeiten](Faehigkeiten_Projektleiter/Projektleiter_Führungskraft.png)
+
+*Projektleiter_Fähigkeiten*[^3]
+
+# Fähigkeiten des Projektleiters als Unternehmer
+
+Auch wenn der Projektleiter kein Unternehmen leitet, ähnelt die Aufgabe der eines Geschäftsführers – im Kleinformat und für begrenzte Zeit: Es gilt, Budgets zu planen und mit ihnen zu wirtschaften, Risiken zu identifizieren und zu bewerten, Handlungsstrategien zu entwerfen. Auch Marketingaktivitäten gehören dazu, denn das Projekt muss nach außen gut verkauft und bekannt gemacht werden, damit es Erfolg hat und man, wenn nötig, Partner gewinnen kann. Erfahrene Projektleiter sind daher „Unternehmer im Unternehmen“[^1].
+
+* Risikomangement
+* Überblick über das ganze Projekt
+* Kritisches Denken
+* Wirtschaftliches und unternehmerischen Denkvermögen
+* Situative Handlungsfähigkeit
+* Veränderungsbereitschaft
+* Vernetztes Denken
+
+# Fähigkeiten des Projektleiters in Digitalisierungsumgebung
+
+Entwicklungen bei digitalen Technologien verändern Verhalten, Produktivität und Leistung. Da Unternehmen Projekte zur Einführung von Technologie einsetzen, benötigen Projektleiter bestimmte digitale Fähigkeiten. Projektleiter automatisieren sich wiederholende Aufgaben und ermöglichen die Genauigkeit bei der Schätzung von Aufgaben mithilfe von Künstliche Intelligenz. Daher entwickeln sich  die Fähigkeiten, die von einem Projektleiter benötigt werden, weiter.[^4] 
+
+* Datenwissenschaft: Datenmanagement Analytik mit große Datenmengen
+* Sicherheit und Datenschutz Wissen
+* Innovative Denkweise
+* Fähigkeit zu machen datengesteuerte Entscheidungen
+
+
+# Fähigkeiten des Projektleiters zu entwickeln
+
+Erfahrung in Projektarbeit und Zertifizierung im Projektmanagement sind gute Möglichkeiten, die Fähigkeiten zu vertiefen und zu erweitern. 
+
+Projektleiter Schritt für Schritt entwickeln: Projektteammitarbeiter, (Junior-)Projektleiter, Senior Projektleiter[^2]
+
+Zertifizierungen im Projektmanagement sind ein Signal für Professionalität und Erfahrung. Es dominieren die internationale Projektlandschaft: PMI®, IPMA® und PRINCE2®.[^5] 
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Faehigkeiten_Projektleiter.md)
+* [10 wichtige Fähigkeiten für effektives Projektmanagement](https://www.projectwizards.net/de/blog/2020/03/pm-skills#prioritization)
+* [25 wichtige Projektmanagement-Kompetenzen, die Sie für Ihren Erfolg benötigen](https://asana.com/de/resources/project-management-skills)
+* [Welche Eigenschaften braucht ein guter Projektleiter?](https://www.experteer.de/magazin/welche-eigenschaften-braucht-ein-guter-projektleiter/)
+* [Soft skills Projektleiter](https://www.kayenta.de/training-seminar/artikel/soft-skills-projektleiter-projektmanagement.html) 
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Projektmanagementhandbuch](https://www.projektmanagementhandbuch.de/)
+* [Projektmagazin](https://www.projektmagazin.de/)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Was ist ein Projektleiter](https://refa.de/berufe/projektleiter)
+
+[^2]: [Welche Fähigkeiten und Eigenschaften benötigt ein Projektleiter?](https://www.onpulson.de/3532/welche-faehigkeiten-und-eigenschaften-benoetigt-ein-projektleiter/)
+)
+
+[^3]: [Projektleiter DAA Wirtschaftslexikon](https://media.daa-pm.de/ufv_wirtschaftslexikon/Html/P/Projektleiter.htm)
+
+[^4]: [Fähigkeiten und Eigenschaften, die Projektleiter für den Erfolg benötigen](https://de.itpedia.nl/2021/05/11/skills-and-traits-project-leaders-need-for-success/)
+
+[^5]: [PROJEKTMANAGEMENT-ZERTIFIZIERUNGEN - DIE WICHTIGSTEN ZERTIFIKATE IM ÜBERBLICK](https://www.kayenta.de/training-seminar/artikel/projektmanagement-zertifizierungen-die-wichtigsten-zertifikate-im-ueberblick.html)
 

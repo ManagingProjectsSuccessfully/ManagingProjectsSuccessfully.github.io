@@ -1,104 +1,98 @@
 ---
 title: Anforderungsmanagement
-tags: agil klassisch
+tags: klassisch allgemein
 author: Karina255
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Anforderungsmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Definition und Ziel
+Das Anforderungsmanagement (Abkürzung: AM; im Englischen requirements engineering/requirements management genannt) gilt vor allem im klassischen Projektmanagement als wichtiger Kernbestandteil in Projekten und ist daher auch im [Wasserfall-Modell](Wasserfall_Modell.md) verankert.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das Ziel des AM ist es, dass sowohl die [funktionalen](Funktionale_Anforderungen.md) als auch die [nicht funktionalen](Nicht_Funktionale_Anforderungen.md) Anforderungen des Kunden und der weiteren externen als auch internen Stakeholder an das anzufertigenden Produkt umgesetzt werden.[^1] 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Die Wichtigkeit des AM soll durch folgende Karikatur veranschaulicht werden:
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+![Cartoon AM](Anforderungsmanagement/AM%20Cartoon.png) 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+*Karikatur zur Wichtigkeit von Anforderungsmanagement* [^2]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Um dieses Ziel zu gewährleisten, umfasst das AM alle Maßnahmen, welche auf die Definition, Steuerung, Verwaltung und Kontrolle von Anforderungen bezogen sind.[^3]
+Die Anforderungsdefinition besteht beispielweise aus Analyse, Dokumentation und Validierung der Anforderungen.
+Wichtige Inhalte in der Verwaltung von Anforderungen sind das [Risikomanagement](Risikomanagement.md), [Änderungsmanagement](Change_Management.md) und auch das Umsetzungsmanagement.[^1] [^3]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Da das AM eine Abfolge immer wiederkehrender Prozesse über das gesamte Projekt hinweg ist und die Einhaltung fortlaufend kontrolliert werden muss, gibt es einen verantwortlichen Manager, der dies überwacht. In Englisch wird dieser auch Requirements Engineer genannt.[^1]
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# Tools und Software
 
+Zur Dokumentation, Definition aber auch der Kontrolle der Anforderungen gibt es eine Vielzahl an Tools und Software, die dabei unterstützen können.
 
-# Aspekt 1
+## Unterschiede
+Die benötigten Tools oder Software sind je nach Projektmethodik und den Zielen unterschiedlich. Ebenso wie die Tools unterscheidet sich auch das Vorgehen bei Steuerung, Verwaltung oder auch Definition der Anforderungen.[^5]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Für eine sehr einfache Anforderungsplanung kann man eine Excel-Vorlage oder auch ein Word-Dokument verwenden, welche nur die elementarsten Anforderungen beinhalten. In diesen Fällen ist man bei der Aktualisierung und Dokumentation stark auf eine einzelne Person angewiesen, da eine kollaboratives Arbeiten hier schwierig ist. Daher kostet es enormen Zeitaufwand, um alle Teammitglieder auf dem aktuellen Stand zu halten. Daher sind diese Tools eher für kleinere, überschaubare Projekte geeignet.[^5]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+In komplexen Anforderungsmanagement-Planungen kommen oft ganze Softwaresysteme als Tool zum Einsatz, da hier eine Vielzahl an Funktionen benötigt wird. Dabei werden Funktionen wie das Herstellen von Beziehungen zwischen den Anforderungen, das Veranschaulichen der Auswirkungen von Änderungen oder auch das Verwalten von Genehmigungen.[^5]
 
-![Beispielabbildung](Anforderungsmanagement/test-file.jpg)
+## Funktionen
+Die wichtigsten Funktionen, welche durch Tools oder auch Software, in komplexen AM-Planungen und Projekten abgedeckt werden sollen, werden im Folgenden erläutert.
 
-*lustiges Testbild*
+1. Verlinkung: 
 
-# Aspekt 2
+    Die Anforderungen selbst sollen als individuelle Elemente betrachtet werden. Jedoch ist eine Verlinkung zwischen Anforderung und Umsetzung, da so Auswirkungen von Änderungen direkt analysiert werden können. Zudem führt Traceability dazu, dass schnell überprüft werden kann, ob das Produkt noch den Anforderungen entspricht.[^4]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+2. Versionierung:
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+    Die Versionierung unterstützt dabei Änderungen zu dokumentieren. Da sich im Laufe eines Projektes auch Anforderungen ändern, kann man somit einen Überblick behalten und über Rückverfolgbarkeit auch genau sehen welche weiteren Anforderungen betroffen sind.[^4]
 
-So kann man eine Tabelle erstellen:
+3. Status
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+    Wie ein Projekt. das verschiedene Phasen erlebt, ändert sich auch der Status der Anforderungen. Daher sollte ein Anforderungsmanagement Tool auch anzeigen inwieweit eine Anforderung schon ausgearbeitet bzw. implementiert wurde.[^4]    
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+4. Flexible Bearbeitung
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+    Da oftmals einige Anforderungen im Laufe eines Projekts ihre Gültigkeit verlieren oder auch neue mitaufgenommen werden, ist es wichtig diese in den Dokumenten entsprechend markieren und bearbeiten zu können.[^4]
 
-### Ebene-3-Überschrift
+5. Kooperation
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+    Anforderungen werden meist nicht nur von einer einzelnen Person definiert. Daher sind kollaborative Eigenschaften in AM-Tools unabdingbar. Zusammen mit der Versionierung von Änderungen behalten alle den Überblick und können beispielsweise durch Kommentare diese diskutieren und validieren. [^4]   
 
-# Aspekt n
+6. Klarheit
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+    Durch einen Workflow mit Freigabe von Anforderungen kann die Klarheit aller Parteien gewährleistet werden.[^4]
 
+## Beispiele
+Nachfolgen werden beispielhalft sowohl Tools als auch Software gelistet, welche häufig im AM zum Einsatz kommen und Spitzenreiter in ihrem Gebiet sind.[^4][^5]
+
+1. [Jama Software](https://www.jamasoftware.com/?_gl=1%2A1i3edoq%2A_ga%2AMTQzMjQ2MDU4Ni4xNjM2NDYwOTg4%2A_ga_JQG3M83PDQ%2AMTYzNjQ2MDk4Ny4xLjEuMTYzNjQ2MTE5Mi4w)
+2. [IBM Engineering Requirements Management DOORS Next](https://www.ibm.com/de-de/products/requirements-management-doors-next)
+3. [Accompa](https://web.accompa.com/)
+4. [Jira](https://www.atlassian.com/de/software/jira) in Kombination mit [Confluence](https://www.atlassian.com/de/software/confluence)
+5. [ReqSuite](https://www.osseno.com/en/requirements-management-tool/?r=rmt&dpm=39467)
+
+# Anforderungsmanagement im agilen Projektmanagement
+Viele Unternehmen aber auch Projektteams gehen davon aus, dass das AM in agilen Projekten nicht mehr benötigt wird da sich die Anforderungen und der Umfang des Produkts im Verlauf des Projekts anpassen.[^1]
+
+Dies ist jedoch ein Irrtum. Viele der anfallenden Aufgaben des AM werden vom [Product Owner](Product_Owner.md) übernommen. Dieser übernimmt die Überwachung und Steuerung des Projektablaufs und daher auch die der Anforderungen. Sollte er diese Aufgaben aufgrund des Umfangs nicht alleine bewältigen können, können weitere Mitarbeiter benannt werden, welche neue Anforderungen aufnehmen, dokumentieren oder auch anpassen.[^1]
+
+Das AM ist in agilen Projekten weniger umfangreich, jedoch nicht weniger wichtig als in klassisch gemanagten Projekten.[^1]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Anforderungsmanagement.md)
+[Funktionale Anforderungen](Funktionale_Anforderungen.md)
 
-# Weiterführende Literatur
+[Nicht Funktionale Anforderungen](Nicht_Funktionale_Anforderungen.md)
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+[Risikomanagement](Risikomanagement.md)
+
+[Change Management](Change_Management.md)
 
 # Quellen
+[^1]: [Was ist Anforderungsmanagement?](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-anforderungsmanagement/)
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^2]: [Anforderungsmanagement als Brückenbauer zwischen Geisteswissenschaft und IT](https://handschriftenportal.de/anforderungsmanagement/)
 
+[^3]: [Anforderungsmanagement](https://de.wikipedia.org/wiki/Anforderungsmanagement)
+
+[^4]: [Anforderungsmanagement-Tool oder Requirementsengineering-Tool im Projekt?](https://pm-tools.info/faq/anforderungsmanagement-tool-und-requirementsengineering-tool-im-projekt/#:~:text=6%20Beispiele%20f%C3%BCr%20Anforderungsmanagement-Tools%201%20Accompa%20Eine%20einfach,und%20SharePoint%20zumindest%20die%20Kollaboration%20erm%C3%B6glichen.%20%28z.B.%20)
+
+[^5]: [Die Besten Anforderungsmanagement Tools 2021](https://thedigitalprojectmanager.com/de/anforderungsmanagement-tools/)
