@@ -5,11 +5,11 @@ author: ebressel
 anrechnung: k 
 ---
 
-Im [Projektmanagement](Projektmanagement.md) (PM) verlangen viele Aufgaben nach enger Zusammenarbeit mehrerer Köpfe mit unterschiedlichen Kompetenzen und Denkweisen. Dafür werden Teams gebildet. Damit diese Teamarbeit nicht im unproduktiven Chaos versinkt, braucht es eine koordinierte Teamentwicklung. 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie verschiedene Teams die gleichen Phasen der Gruppenentwicklung durchlaufen[^1].
+Im [Projektmanagement](Projektmanagement.md) (PM) verlangen viele Aufgaben nach enger Zusammenarbeit mehrerer Köpfe mit unterschiedlichen Kompetenzen und Denkweisen. Dafür werden Teams gebildet. Damit diese Teamarbeit nicht im unproduktiven Chaos versinkt, braucht es eine koordinierte [Teamentwicklung](https://de.wikipedia.org/wiki/Teambildung). Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie verschiedene Teams die gleichen Phasen der Gruppenentwicklung durchlaufen[^1].
 
 # Das Tuckman-Modell der Gruppenentwicklung - Von Diskrepanz zum Wir-Gefühl
 
-Im PM sollte bei der Bildung eines neuen Projektteams, in dem sich die einzelnen Teammitglieder nicht kennen, mit Konflikten gerechnet werden. Zur Bewältigung solcher Konflikte ist es hilfreich, wenn der [Projektleiter](Projektleiter.md) weiß, wie sich Teams in der Regel entwickeln[^1]. Eines der populäreren **klassischen Modelle** der Teamentwicklung ist die so genannte **"Tuckman-Ladder"**(siehe Abbildung 1), die besagt, dass Teams die folgenden Entwicklungsphasen durchlaufen[^2]: 
+Bei der Bildung eines neuen Projektteams, in dem sich die einzelnen Teammitglieder nicht kennen, mit Konflikten gerechnet werden. Zur Bewältigung solcher Konflikte ist es hilfreich, wenn der [Projektleiter](Projektleiter.md) weiß, wie sich Teams in der Regel entwickeln[^1]. Eines der populäreren **klassischen Modelle** der Teamentwicklung ist die so genannte **"Tuckman-Ladder"**(siehe Abbildung 1), die besagt, dass Teams die folgenden Entwicklungsphasen durchlaufen[^2]: 
 
 ![Stages_Tuckman_model](https://user-images.githubusercontent.com/92668932/143244002-85eb062a-88a5-4d62-a6bd-6aa6eec4b78a.png)
 
@@ -21,11 +21,11 @@ In der ersten Phase lernt sich das Team kennen und allen Mitgliedern soll eine O
 
 ## Storming: die Konfrontationsphase
 
-Die sehr entscheidende "Storming"-Phase, ist vor allem von **Konflikten, Spannungen und Wettbewerb** geprägt, da sich die **einzelnen Persönlichkeiten herausbilden**. Bei Teams entsteht der Konflikt oft durch gegensätzliche Arbeitsstile der Teammitglieder. Aus diesem Grund ist in dieser Phase ist der **Teamleader** ganz besonders gefragt: Er muss die Konflikte entschärfen und eine gemeinsame Richtung vorgeben[^5] [^3].
+Die sehr entscheidende "Storming"-Phase, ist vor allem von **Konflikten, Spannungen und Wettbewerb** geprägt, da sich die **einzelnen Persönlichkeiten herausbilden**. Bei Teams entsteht der Konflikt oft durch gegensätzliche Arbeitsstile der Teammitglieder. Aus diesem Grund ist in dieser Phase ist der **Teamleiter** ganz besonders gefragt: Er muss die Konflikte entschärfen und eine gemeinsame Richtung vorgeben[^5] [^3].
 
 ## Norming: die Organisationsphase
 
-Wenn die Mitglieder die "Storming"-Phase hinter sich gelassen haben, beginnen sie, sich **auf gemeinsame Ziele zu konzentrieren**. Nun werden zwischenmenschliche Differenzen abgebaut und die Mitglieder suchen nun aktiv nach **gegenseitiger Unterstützung**. Das Team ist in der Lage effektiv mit **konstruktivem Feedback** zu arbeiten, da sich die Mitglieder mit den Teamabläufen vertraut gemacht haben.[^1][^5]. 
+Wenn die Mitglieder die "Storming"-Phase hinter sich gelassen haben, beginnen sie, sich **auf gemeinsame Ziele zu konzentrieren**. Nun werden zwischenmenschliche Differenzen abgebaut und die Mitglieder suchen nun aktiv nach **gegenseitiger Unterstützung**. Das Team ist in der Lage effektiv mit **konstruktivem [Feedback](https://de.wikipedia.org/wiki/Feedback_(Gruppendynamik))** zu arbeiten, da sich die Mitglieder mit den Teamabläufen vertraut gemacht haben.[^1][^5]. 
 
 ## Performing: die Leistungsphase
 
@@ -49,7 +49,7 @@ Zwar durchlaufen die Teams diese Phasen in der Regel in der aufgeführten Reihen
 
 # Fazit zur Teamentwicklung
 
-Ein harmonisches Team ist die Basis für ein erfolgreiches Unternehmen. Damit sich die Teammitglieder in einem Projekt gegenseitig vertrauen und unterstützen, braucht es geeignetes [Teammanagement](Teammanagement.md). Diese sollten auf die einzelnen [Projektmitarbeiter](Projektmitarbeiter), die Unternehmenswerte sowie die Entwicklungsziele abgestimmt werden, um ein Projekt erfolgreich druchzuführen. 
+Ein harmonisches Team ist die Basis für ein erfolgreiches Unternehmen. Damit sich die Teammitglieder in einem Projekt gegenseitig vertrauen und unterstützen, braucht es geeignetes [Teammanagement](Teammanagement.md). Diese sollten auf die einzelnen [Projektmitarbeiter](Projektmitarbeiter.md), die [Unternehmenswerte](https://de.wikipedia.org/wiki/Unternehmenswert) sowie die Entwicklungsziele abgestimmt werden, um ein Projekt erfolgreich druchzuführen. 
 
 # Siehe auch
 
