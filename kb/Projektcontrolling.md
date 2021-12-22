@@ -1,104 +1,107 @@
 ---
 title: Projektcontrolling
-tags: agil klassisch
+tags: klassisch projektmanagement meilenstein
 author: hake1110
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Projektcontrolling um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Projektcontrolling ist ein Bestandteil des [Projektmanagements](Projektmanagement.md).[^6] Es handelt sich dabei um einen [Steuerungs](Projektsteuerung.md)- und Koordinationsprozess[^4], der durch die [DIN 69901-5](https://de.wikipedia.org/wiki/DIN_69901) als "Sicherung des Erreichens der Projektziele durch: Soll-Ist-Vergleich, Feststellung der Abweichungen, Bewerten der Konsequenzen und Vorschlagen von Korrekturmaßnahmen, Mitwirkung bei der Maßnahmenplanung und Kontrolle der Durchführung" [^5]
+definiert wird.
+# Controlling Regelkreis
+Häufig wird (Projekt-)Controlling fälschlicherweise mit Kontrolle gleichgesetzt, es umfasst allerdings weitaus mehr. Die verschiedenen Schritte des Controlling-Prozesses sind in der folgenden Abbildung als projektspezifischer „Controlling Regelkreis“ illustriert.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![Controlling Regelkreis](Projektcontrolling/ControllingRegelkreis.jpg)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+*Der Controlling Regelkreis* [^3]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Dieser beschreibt einen sich wiederholenden Zyklus, dessen Häufigkeit sich nach dem [Projektumfang](Projektumfang.md) richten sollte. Dabei kann sowohl das gesamte [Projekt](Projekt.md), als auch nur einzelne [Phasen](Projektphasen_klassisch.md) betrachtet werden.[^3]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Teilbereiche des Projektcontrollings 
+Das Projektcontrolling lässt sich in die drei fundamentalen Teilbereiche Kalkulation, Leistung und Kontrolle untergliedern. Diese dienen Unternehmen als Basis zur Planung, Durchführung und Erfolgsbeurteilung der Projekte. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Projektkalkulation
+In der Vorbereitungs- und Planungsphase erfolgt die Kalkulation des Projektes. In diesem Zeitraum werden Gesamtkosten, variable Kosten sowie Fixkosten systematisch erhoben. Bei mittel- bis langfristigen Projekten ist es sinnvoll, das Projekt in mehrere Abschnitte zu untergliedern. Das hat den Vorteil, dass man jeder Etappe gesondert die entstandenen Kosten zuordnen kann.
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+## Projektleistung
+Zu Beginn werden qualitative Merkmale des Projekts, die Projektleistung, determiniert. Das Projektcontrolling hat die Aufgabe, diese zu kontrollieren, um bei potentiellen Abweichungen frühzeitig Gegenmaßnahmen einzuleiten.
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Projektkontrolle
+Soll und Ist-Kosten des Projekts werden über den gesamten [Projektlebenszyklus](Projekt_Lebenszyklus.md) im Blick behalten, um Kostenabweichungen zu identifizieren. Eine reine Gegenüberstellung der Kosten liefert nur bedingt einen Mehrwert. Diese Vorgehensweise berücksichtigt nicht, ob das Projekt durch Beschleunigungskosten vorzeitig fertiggestellt werden kann. Eine Termin-Kosten-Kontrolle hingegen, verschafft einen genaueren Einblick in die Gesamtkosten. [^6]
 
+# Kennzahlen und Methoden
+## Kennzahlen
+Die elementare Basisgröße des Projektcontrollings ist der Projekterfolg.[^11] Dieser ist [messbar](Erfolgsmessung.md) anhand der drei Kenngrößen des [Projektdreiecks](Magisches_Dreieck.md), welche im Laufe des Projekts geplant und anschließend überwacht werden müssen.[^9]
+Die Kenngrößen des Dreiecks umfassen:
 
-# Aspekt 1
+* Termine
+* Qualität
+* Kosten
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+![Projekt Controlling](Projektcontrolling/projectcontrolling.jpg)
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+*Überwachung der Kennzahlen des Projektdreiecks im Projektcontrolling-Kontext*[^10]
 
-![Beispielabbildung](Projektcontrolling/test-file.jpg)
+## Methoden
+Mittlerweile finden viele, größtenteils standardisierte Methoden Anwendung im Projektcontrolling. Bei der Wahl der geeigneten Methode(n), sollten [Umfang](Projektumfang.md), Dauer und Komplexität des Projektes berücksichtigt werden.
 
-*lustiges Testbild*
+Grundsätzlich gilt hier die Devise: **Je einfacher und durschaubarer die Methode, desto besser.**
 
-# Aspekt 2
+### [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
+Die Definition von [Meilensteinen](Meilensteine.md) ist Grundlage dieser Methode. Diese werden am Anfang des Projekts für die [Projektplanung](Projektplanung.md) festgelegt.[^13] Die Meilensteintrendanalyse stellt Änderungen im Terminplan grafisch dar. Sie reiht alle [Meilenstein](Meilensteine.md)-Termine chronologisch auf, wodurch sich frühzeitig abzeichnende Trends erkenntlich werden.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+### Earned Value Analyse
+Eine weitere Methode ist die Earned Value Analyse, mit der man den Fertigstellungsgrad des Projekts bzw. einzelner Phasen ermitteln kann. Sie dient dem Projekt als Kontrollinstrument des Fortschritts. Diese Methode ist ebenfalls unter den Namen Leistungswertanalyse, Fertigstellungswertmethode oder Arbeitswertanalyse bekannt.[^7]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+### Projektplan
+Den Mitarbeitern werden im Projektplan ihre Aufgaben sowie deren Bearbeitungszeiträume zugeteilt. Der Projektmanager hat somit stets den Überblick über die [Aufgabenteilung](Aufgabenteilung.md) und Termintreue der jeweiligen Projektabschnitte.[^8] Der Umfang des Projektplans richtet sich nach der Größe und Komplexität des Projekts. Folgende Pläne sollten aber in jedem Fall enthalten sein:
+* [Projektstrukturplan](Projektstrukturplan.md)
+* Ablaufplan (als Tabelle, [Netzplan](Netzplantechnik.md) oder [Gantt-Diagramm](Gantt_Diagramme.md))
+* [Kostenplan](Kostenplanung.md)
+* [Ressourcenplan](Ressourcenplanung.md)[^12]
 
-So kann man eine Tabelle erstellen:
+### Ampelmethode
+Durch die Visualisierung der Arbeitspaketestatus mit Ampelfarben, ist die Methode besonders intuitiv. Ein Nachteil der Methode ist der Auslegungsspielraum der Ampelfarben. Um diese Gefahr zu minimieren, ist es unabdingbar, die Farben klar zu definieren. Gemeinhin bedeuten die verschiedenen Ampelphasen:
+* <font color="green"> Grün: </font> Alles läuft nach Plan
+* Gelb: Es sind signifikante Planabweichungen zu befürchten
+* Rot:  Eine Zielerreichung scheint nicht mehr möglich[^3]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+### Soll-Ist-Vergleich
+Hierbei handelt es sich um eine simple, sich selbsterklärende Methode. Es werden die ermittelten Ist-Werte mit den vom Kunden vorgegebenen Soll-Werten verglichen.
+Die Vergleichswerte können Kosten, Arbeitszeiten, Qualitätseigenschaften uvw. sein. Aus dem Vergleich ergibt sich ein Gesamtunterschied zwischen den geplanten und tatsächlichen Werten. Sind die Ist-Werte besser als die Soll-Werte, fällt der Soll-Ist-Vergleich positiv, andernfalls negativ aus.[^14]
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektcontrolling.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projektsteuerung](Projektsteuerung.md)
+* [Projektumfang](Projektumfang.md)
+* [Erfolgsmessung](Erfolgsmessung.md)
+* [Aufgabenteilung](Aufgabenteilung.md)
+* [Meilensteine](Meilensteine.md)
+* [Projektlebenszyklus](Projekt_Lebenszyklus.md)
+* [Meilensteintrendanalyse](Meilensteintrendanalyse.md)
+* [Netzplan](Netzplantechnik.md)
+* [Gantt-Diagramm](Gantt_Diagramme.md)
+* [Projektphasen](Projektphasen_klassisch.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Basics
+  * https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/projektcontrolling/
+  * https://www.youtube.com/watch?v=2OTCNh0TzLw
+* Deep Dive: 
+  * https://www.youtube.com/watch?v=la1PUSoGBxk
+  * Zirkler B., Nobach K., Hofmann J., Behrens S. (2019) Das Projektcontrolling. In: Projektcontrolling. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-658-23714-1_3
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^3]: https://www.projektmanagementhandbuch.de/handbuch/projektrealisierung/projektcontrolling/ 
+[^4]: https://doi.org/10.1007/978-3-658-23714-1
+[^5]: https://doi.org/10.1007/978-3-658-28032-1
+[^6]: https://refa.de/service/refa-lexikon/projektcontrolling
+[^7]: Bär C., Fiege J., Weiß M. (2017) Projektcontrolling. In: Anwendungsbezogenes Projektmanagement. Xpert.press. Springer Vieweg, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-52974-4_8
+[^8]: https://de.wikipedia.org/wiki/Projektcontrolling#Kennzahlen_und_Methoden_des_Projektcontrollings
+[^9]: Beifuss A., Holzbaur U. (2020) Projektcontrolling. In: Projektmanagement für Studierende. essentials. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-658-32664-7_4
+[^10]: https://www.geo.fu-berlin.de/en/v/proposal_writing/learning_content/7_project_management/controlling/index.html
+[^11]: Steffens T. (2007) Projektcontrolling. Methoden der Planung, Kontrolle und Steuerung, München, GRIN Verlag. https://www.grin.com/document/89579
+[^12]: https://www.projektmagazin.de/glossarterm/projektplan
+[^13]: https://de.wikipedia.org/wiki/Meilensteintrendanalyse
+[^14]:https://www.kayenta.de/projektmanagement-glossar-lexikon/begriffserklaerung/soll-ist-vergleich.html

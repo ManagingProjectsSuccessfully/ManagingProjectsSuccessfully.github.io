@@ -2,103 +2,120 @@
 title: Wissenstransfer
 tags: agil klassisch
 author: felixba213 
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Wissenstransfer um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Der Begriff Wissenstransfer wird in verschiedenen Kontexten verwendet. In der Wirtschaft wird darunter 
+vor allem der Austausch und die Weitergabe von Wissen innerhalb von Unternehmen verstanden, die zugleich ein sehr wichtiger Bestandteil 
+des [Wissensmanagements](Wissensmanagament.md) sind. Kann sowohl der Austausch als auch die Weitergabe des Wissens erfolgreich durchgeführt werden, 
+verschafft dies dem betreffendem Unternehmen Wettbewerbsvorteile.[^1][^2]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Wissenstransfer/test-file.jpg)
+## Phasen des Wissenstransfers
 
-*lustiges Testbild*
+Unabhängig vom Umfang des vorhandenen Wissens durchläuft der Wissenstransfer immer die Phasen Initiierung, Wissensfluss und Integration.[^3] In der Phase 
+der Initiierung wird der Wissenstransfer eingeleitet, sprich das Wissen wird identifiziert, dokumentiert und auch bewertet. In der Wissensflussphase findet 
+die tatsächliche Transaktion des Wissens statt und in der letzten Phase wird das transferierte Wissen erneut geprüft und dann gegebenenfalls 
+integriert.[^4][^5]
 
-# Aspekt 2
+![Phasen des Wissenstransfers](Wissenstransfer/Phasen_des_Wissenstransfers_nach_Krogh_und_Köhne.png)
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+*Abbildung 1: Phasenmodell nach Krogh und Köhne* [^5]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+## Wissenstransfer im Projektmanagement
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+### Klassisches Projektmanagement
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Der Ablauf im klassischen [Projektmanagement](Projektmanagement.md) wird mit Hilfe des [Wasserfall-Modells](Wasserfall_Modell.md) dargestellt. Dies ist ein lineares, nicht 
+[iteratives](https://de.wikipedia.org/wiki/Iterativ) Vorgehensmodell, bei dem zunächst die eine Aufgabe komplett abgeschlossen wird bevor neue Aufgaben begonnen 
+werden.[^6] Durch eine, am Ende jeder Aufgabe, abschließende Kommunikation mit den beteiligten Teams stellt diese Art des Projektmanagements für den Wissenstransfer 
+ein geringeres Risiko an Wissensverlust als andere Vorgehensweisen dar.[^7]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+### Agiles Projektmanagement
 
-### Ebene-3-Überschrift
+Bezüglich des Ablaufs unterscheidet sich das agile Projektmanagement deutlich vom klassischen Projektmanagement. Dieser ist iterativ
+aufgebaut, das heißt Arbeitsschritte werden öfter durchlaufen, um das bestmögliche Ergebnis für das Projekt zu erlangen. Diese Herangehensweise hat zur Folge, 
+dass der Wissenstransfer deutlich komplexer und schwieriger zu bewerkstelligen ist, da jederzeit ein Rückschritt möglich ist und dies bei unsorgfältiger 
+Kommunikation zu Verwirrung führt.[^8]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
+## Vorteile eines erfolgreichen Wissenstransfers
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Der Austausch und die Weitergabe von Wissen in einem Unternehmen sind essenziell für den schnellen und erfolgreichen Abschluss von Projekten. Neben den 
+klassischen Team-Meetings, können auch bei spontanen Treffen zweier oder mehrere Mitarbeiter wichtige Informationen 
+ausgetauscht werden.[^9] 
+
+Ein strukturierter Wissenstransfer sorgt für einen gesunden Wissensfluss im Unternehmen. Dieser erhöht die Innovativität, verkürzt Projektlaufzeiten, 
+senkt anfallende Projektkosten, versucht Doppelarbeiten zu vermeiden, führt somit zu einer erhöhten Produktivität im Arbeitsumfeld und generiert 
+im selben Zug eine höhere Mitarbeiterzufriedenheit.[^10]  
+
+
+## Gefahren bei der Wissensweitergabe
+
+Projektorientierte Unternehmen, deren Erscheinungsbild für die Bearbeitung komplexer Aufgaben gut geeignet scheint, birgt dennoch Gefahren
+hinsichtlich der Wissensweitergabe. 
+
+Die Gründe dafür können auf die typischen Merkmale eines Projekts zurückgeführt werden.[^11] *(siehe Tabelle 1)*
+
+| typisches Merkmal                   | Konsequenz                                                                                                                     | 
+| ------------------------------------| -------------------------------------------------------------------------------------------------------------------------------| 
+| Zeitliche Begrenztheit              | Um das erworbene Wissen zu strukturieren und zu dokumentieren, fehlt die Nachbearbeitungszeit.                                  |
+| Zuordnung personeller Ressourcen    | Generierte Erfahrung und das erlangte Wissen bleiben nur innerhalb des Projektteams und werden nicht mit Externen kommuniziert.|
+| Personelle [Fluktuation](https://de.wikipedia.org/wiki/Fluktuation)| Durch die zeitlich begrenzte Tätigkeit im Projekt geht Expertenwissen verloren.                |
+| Neuartige, komplexe Aufgabenstellung| Übertragbarkeit des erworbenen Wissens auf andere Projekte und Aufgabenstellungen ist ungewiss.                                |
+
+*Tabelle 1: Typische Projektmerkmale erschweren den Wissenstransfer* [^11][^12]
+
+
+## Methoden und Instrumente für den Wissenstransfer
+
+Ausschlaggebend für die Anwendung gewisser Methoden ist die Art des Transfers. Hierbei wird zwischen personifiziertem und kodifiziertem 
+Wissenstransfer unterschieden. Der Austausch des Wissens findet beim personifizierten Wissenstransfer auf persönlicher Ebene statt. Dabei gibt es für Unternehmen 
+viele Möglichkeiten den Wissenstransfer anzustoßen:[^13]
+
+* [Mitarbeiterworkshops](https://de.wikipedia.org/wiki/Workshop)
+* [Interviews](https://de.wikipedia.org/wiki/Interview)
+* [Mentoring](https://de.wikipedia.org/wiki/Mentoring)
+
+Von kodifiziertem Wissenstransfer spricht man, wenn der Transfer über Kommunikations- und Informationssysteme abläuft, wobei Datenbanken in diesem Kontext eine
+essenzielle Rolle einnehmen. So ist es heutzutage weit verbreitet im Rahmen von Projekten sowohl Interviews und spontane Gespräche unter Kollegen zu nutzen, als 
+auch auf das Wissen von Datenbanken zurückzugreifen.[^14][^15]
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Wissenstransfer.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Wasserfall-Modell](Wasserfall_Modell.md)
+* [Wissenslandkarte](Wissenslandkarte.md)
+* [Wissensmanagement](Wissensmanagament.md)
+* [Wissensmarkt](Wissensmarkt.md)
+* [Wissensspirale](Wissensspirale.md)
+
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Georg von Krogh, Marija Köhne: *Der Wissenstransfer in Unternehmen: Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung.*
+* Kirsten A. Schröder: *Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Einflussfaktoren auf den teaminternen Wissenstransfer.*
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Wissenstransfer - Weiterentwicklung durch den Austausch von Wissen](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
+[^2]: [Wissenstransfer - einfach erklärt](https://www.youtube.com/watch?v=wlNf-T9LqV0)
+[^3]: [Der Wissenstransfer in Unternehmen: Phasen des Wissenstransfers und wichtige Einflussfaktoren. In: Die Unternehmung. Heft 5, 1998, S. 235–252.](https://www.jstor.org/stable/pdf/24183239.pdf?refreqid=excelsior%3A77fd38f51da5a53c7a9dc15276f819f1)
+[^4]: [Phasen Wissenstransfer](https://de.wikipedia.org/wiki/Wissenstransfer)
+[^5]: [Phasenmodell nach Krogh und Köhne](https://www.jstor.org/stable/pdf/24183239.pdf?refreqid=excelsior%3A77fd38f51da5a53c7a9dc15276f819f1)
+[^6]: [Wasserfall-Modell](https://de.wikipedia.org/wiki/Wasserfallmodell)
+[^7]: [Klassisches und agiles Projektmanagement im Vergleich](https://dl.gi.de/bitstream/handle/20.500.12116/3061/47.pdf?sequence=1&isAllowed=y)
+[^8]: [Wie funktioniert agiles Projektmanagement?](https://www.cobra.de/wie-funktioniert-agiles-projektmanagement/?utm_source=google&utm_medium=cpc&utm_campaign=crm_software_testversion&pk_campaign=crm_software_testversion&msclkid=faba32df3ce5149e407c53526e2c943f)
+[^9]: [Vorteile eines erfolgreichen Wissenstransfers](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
+[^10]: [Wissenstransfer im Projektmanagement - Sinn und Unsinn von Anreizsystemen](https://www.projektmagazin.de/artikel/wissenstransfer-im-projektmanagement-sinn-und-unsinn-von-anreizsystemen_6939)
+[^11]: [Wissensweitergabe als Ziel](https://www.projektmagazin.de/artikel/wissenstransfer-im-projektmanagement-sinn-und-unsinn-von-anreizsystemen_6939)
+[^12]: [Mitarbeiterorientierte Gestaltung des unternehmensinternen Wissenstransfers: Einflussfaktoren auf den teaminternen Wissenstransfer. Springer-Verlag, 2013, S. 57ff.](https://link.springer.com/chapter/10.1007/978-3-322-81576-7_3)
+[^13]: [Personifizierter und kodifizierter Transfer/Methoden und Instrumente für den Wissenstransfer](https://www.sage.com/de-de/blog/lexikon/wissenstransfer/)
+[^14]: [Betriebsinterner Wissenstransfer: Die 8 wichtigsten Maßnahmen](https://www.lecturio.de/magazin/wissenstransfer/#:~:text=Wissenstransfer%20%C3%BCber%20Mitarbeiter%201%20Altersgemischte%20Teams.%20Altersgemischte%20Teams,4%20Moderierte%20%C3%9Cbergabegespr%C3%A4che.%20...%205%20Lessons%20Learned.%20)
+[^15]: [Methoden zum Wissenstransfer: Reden ist Silber, Schweigen der Tod](https://www.lecturio.de/magazin/methoden-zum-wissenstransfer/)

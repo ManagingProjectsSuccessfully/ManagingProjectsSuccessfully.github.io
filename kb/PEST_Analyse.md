@@ -1,8 +1,8 @@
 ---
 title: PEST_Analyse
-tags: agil klassisch
+tags: klassisch Strategisches Unternehmensmanagement Analyse
 author: GEDA9263
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 Kurzbeschreibung zu PEST_Analyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -10,95 +10,92 @@ Kurzbeschreibung zu PEST_Analyse um ein erstes Verständnis dafür zu schaffen u
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# PEST - Analyse
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Die PEST-Analyse ist ein eine Analysemethode, welche ursprünglich aus dem strategischen Unternehmensmanagement kommt.[^1]  
+Ziel der Analyse ist es externe Einflussfaktoren auf eine Organisation zu erkennen, sowie Chancen und Risiken zu identifizieren um anschließend geeignete
+Maßnahmen definieren zu können. Im [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) wird die PEST - Analyse unter anderem zu folgenden Zwecken eingesetzt:[^2]  
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+* Um neue Projekte zu identifizieren
+* Zur Priorisierung von Projekten
+* Für das identifizieren von Risiken im Rahmen einer [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md)
+* Um Einflussfaktoren im Rahmen einer [Umfeldanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umfeldanalyse.md) zu sammeln
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Faktoren der PEST - Analyse
+In einer PEST - Analyse werden die Einflussfaktoren in die folgenden vier Bereiche eingeteilt[^3]:
+* Political - Politische Faktoren
+* Economic - Wirtschaftliche Faktoren
+* Socio-Cultural - Sozio-kulturelle Faktoren
+* Technical - Technische Faktoren  
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+![Faktoren](PEST_Analyse/pest-analyse-projekt.jpg)[^2]  
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](PEST_Analyse/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
+Innerhalb von [Projekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) wird die PEST - Analyse meist in einer frühen Projektphase im Rahmen einer umfassenderen Umfeld- oder Risikoanalyse eingesetzt. 
+Da es nicht einfach ist auf Anhieb mögliche Einflussfaktoren auf Projekte zu ermitteln, hilft die PEST - Analyse vor allem dabei nichts zu vergessen und sich von
+den verschiedenen Kategorien inspirieren zu lassen.[^2]  
+Je nachdem ob man die PEST - Analyse für ein einzelnes Projekt durchführt oder aber für eine gesamte Organisation, ergeben sich innerhalb der Faktoren ganz unterschiedliche Fragestellungen. Was sich jedoch nicht unterscheidet, ist dass im ersten Schritt mögliche Einflussfaktoren gesammelt werden.[^2]  
+Im Folgenden werden für jeden Faktor mögliche Fragestellungen aufgelistet:
+### Politische Faktoren
+| Organisationsbezogen  | Projektbezogen |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Wie sehen die gesetzlichen Rahmenbedingungen aus?[^1]  | Wie wirkt sich die Unternehmensstrategie auf das Projekt aus?[^2]  |  
+| Könnte sich der politische Kurs ändern und könnten neue Gesetze erlassen werden?[^2]   | Wie sehr stehen die Stakeholder hinter meinem Projekt?  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+### Wirtschaftliche Faktoren
+| Organisationsbezogen  | Projektbezogen |
+| ------------- | ------------- |
+| Wie sieht das Wirtschaftswachstum aus?[^1] | Wie sehr ist das Projekt von Geldgebern abhängig?[^2]  |  
+| Wie entwickeln sich die Zinsen in einem Land?[^1]  | Gibt es wirtschaftliche Risiken für das Projekt?[^2] |
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
+### Sozio-kulturelle Faktoren
+| Organisationsbezogen  | Projektbezogen |
+| ------------- | ------------- |
+| Welche Trends exisiteren[^2]? | Wie wirkt sich die Teamstruktur auf das Projekt aus?[^2]  |  
+| Gibt es bestimmte kulturelle Tabu- Themen?[^2]  | Existieren zwischenmenschliche Stolperfallen im Projekt?[^2] |  
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+### Technische Faktoren
+| Organisationsbezogen  | Projektbezogen |
+| ------------- | ------------- |
+| Welche neuen Technologien könnten entwickelt werden[^2] | Welche Technologien benutzt mein Kunde?[^3]  |  
+| Wir wirken sich neue Technologien aus?[^2]  | Welche Unsicherheiten können bei neuen Technologien auftreten[^2] |  
 
-# Aspekt n
+## Wichtige Schritte zum Durchführen einer PEST - Analyse  
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+1. Wichtige relevante Faktoren bestimmen.[^4]  
+Es ist für eine Organisation wichtig zu wissen, welche Faktoren am ehesten für Sie relevant sind, zum Beispiel können für einen Industriekonzern technologische Faktoren wichtiger  sein, als sozio-kulturelle Fakoren.  
 
+2. Bewerten, inwiefern die Faktoren die Organisation beeinflussen[^4]  
+In diesem Schritt wird bewertet inwiefern sich verschiedene Faktoren auf unterschiedlichenen Ebenen auswirken können. 
+Ein Industriekonzern zum Beispiel muss genau wissen, wie sich eine Änderung in der Fertigungstechnologie auf die eigenen Produkte auswirkt. Eine solche Änderung hat
+jedoch wenig Relevanz, wenn es um die Koordinierung von Projekten oder die Zusammenarbeit zwischen verschiedenen Werken geht.  
+
+3. Entsprechende angemessene Strategien entwickeln[^4]  
+In diesem Schritt werden entsprechende Strategien und Maßnahmen entwickelt um den in den vorherigen Schritten erarbeiteten Risiken und Chancen angemessen zu begegnen.
+Im Projektmanagement werden Maßnahmen meist im Anschluss in einer Umfeld- oder Risikoanalyse abgeleitet.[^2]
+
+
+# Erweiterungen der PEST - Analyse
+Die PEST - Analyse ist im Lauf der Zeit um einige Faktoren erweitert worden, wodurch sich weitere Analysemethoden ergeben haben.
+Einige der weiterführenden Analysen sind: 
+* SLEPT, in welcher noch die legalen Faktoren hinzukommen[^1]
+* STEPE, bei der zusätzlich noch ecological - ökologische Faktoren betrachet werden[^1]
+* PESTEL, bei der noch legale und environmental - Umwelt Faktoren analysiert werden[^1]  
+
+Zudem gibt es noch weitere Analysen bei denen zum Beispiel zusätzliche noch regulatorische und/oder demographische Faktoren betrachtet werden.  
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](PEST_Analyse.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md)
+* [Umfeldanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Umfeldanalyse.md)
+* [SWAT - Analyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SWAT_Analyse.md)
+* [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://en.wikipedia.org/wiki/PEST_analysis
+[^2]: https://projekte-leicht-gemacht.de/blog/methoden/projektrisiken/pest-analyse/
+[^3]: https://www.youtube.com/watch?v=TNLLyS0nrM8
+[^4]: https://www.youtube.com/watch?v=mCdcdf-b8AU
 
