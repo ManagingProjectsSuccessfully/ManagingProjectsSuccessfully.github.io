@@ -1,104 +1,78 @@
 ---
 title: User_Story_INVEST_Methode
-tags: agil klassisch
+tags: agil klassisch User Story User-Story INVEST-Methode Invest Scrum Anwendungskriterien Anforderungen
 author: Juliakau
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu User_Story_INVEST_Methode um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# User Stories
+Bei Scrum erstellt der [Product Owner](Produkt_Owner.md) einen [Product Backlog](Product_Backlog.md), einer Liste von Aufgaben, die in Form von User Stories wiedergegeben werden. 
+Diese werden vom Product Owner nach Prioritäten unterteilet. 
+Gemeinsam mit dem Scrum-Team wird der Arbeitsaufwand für die einzelnen Aufgaben ermittelt, anhand dessen der ROI (Return on Investment = Kapitalrendite) und anschließend die weitere Priorisierung. [^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## Aufbau User Story
+Eine [User Story](User_Story.md) ist also die Beschreibung (Story) eines Benutzers (User) und dessen Anforderungen. 
+In wenigen Sätzen wird dort beschrieben, was ein Benutzer mit dem zu entwickelnden Produkt oder der Software machen will. 
+Dabei ist der Aufbau der Formulierung wichtig, welcher wie folgt aussieht: 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+![User_Story](User_Story_INVEST_Methode/User_Story.jpg)
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+*Aufbau einer User Story* [^2]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Des Weiteren wird ein Gespräch über die User Story geführt und eine Diskussion angeregt, um Einzelheiten festzulegen. 
+Somit kann die Entwicklung und die Funktionalität des Produktes beeinflusst werden. 
+Zuletzt sind Testdetails, also Abnahmekriterien oder [Definition of Done](Definition_of_Done.md), von wichtiger Bedeutung. 
+Anhand dieser wird bewertet, ob eine User Story vollständig ist. [^3]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+# INVEST-Methode
+Um eine gute User Story zu erstellen, müssen einige Kriterien eingehalten werden. 
+Dies ist definiert über die INVEST-Methode.
+INVEST steht dabei für sechs Eigenschaften, die erfüllt sein sollen, um eine qualitative User Story zu generieren.
+Die Kriterien sind wie folgt:
+* I = Independent (= unabhängig)
+* N = Negotiable (= verhandelbar)
+* V = Valuable (= wertvoll)
+* E = Estimable (= schätzbar)
+* S = Small (= klein)
+* T = Testable (= testbar) [^4]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+## Independent
+Independent bedeutet unabhängig. Jede User Story muss also unabhängig von den anderen Stories sein. 
+Sie dürfen nicht auf anderen Stories basieren oder von ihnen und ihrer Erfüllung abhängig sein. [^5]
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Negotiable
+Negotiable steht für verhandelbar. Eine User Story ist nicht nach dem ersten Entwurf bereits fest. 
+Eine User Story wird gemeinsam von Kunden und Entwicklern präzisiert. 
+So können Anforderungen an die Funktionalität aus kundensicht mit eingebracht werden. 
+Für die Absprache der Details und die Umsetzungsmöglichkeiten ist das Mitwirken der Entwickler wichtig. [^5]
 
+## Valuable
+Wertvoll - nur User Stories, die einen erkennbaren Mehrwert liefern, bieten einen Grund zur Weiterentwicklung.
+Um dieses Kriterium zu erfüllen, ist es sinnvoll die Story direkt vom Benutzer schreiben zu lassen. [^5]
 
-# Aspekt 1
+## Estimable
+Das E steht für Estimable (schätzbar) oder auch Estimatable (abschätzbar).
+Bereits bei den Verhandlungen zwischen Kunden und Entwicklern zur Erstellung der User Story ist die Umsetzungsmöglichkeit angesprochen.
+Die Umsetzung der in der Story genannten Anforderungen muss abgeschätzt werden. 
+Hierbei gehen zudem fachliche und technische Kompetenzen ein, die für die Umsetzung erforderlich sind. 
+Es muss also geprüft und abgeschätzt werden, ob eine User Story erfüllt werden kann. [^5]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## Small
+Small kann auch besser als 'sized appropriately' beschrieben werden. 
+Eine User Story soll also eine angemessene Größe haben.
+Small, also dass die User Story klein ist, als reinen Anhaltspunkt ist zu ungenau. 
+Wichtig ist zu beachten, dass eine User Story sowohl zu klein als auch zu groß sein kann. 
+Eine angemessene Größe ist also wichtig, sowohl bei der Formulierung als auch bei der Umsetzung. 
+Über den Umfang entscheidet das Team, jedoch kann man als Richtwert ein Minimum von einem halben Personentag heranziehen und als Maximum zehn Personentage. [^5]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](User_Story_INVEST_Methode/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](User_Story_INVEST_Methode.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+## Testable
+Die Testbarkeit einer User Story ist das letzte Kriterium. 
+Es ist besonders wichtig, da durch die Testbarkeit geprüft werden kann, ob eine Story erfolgreich umgesetzt wurde. 
+Diese Eigenschaft ist deshalb zwingend zu gewährleisten. [^5]
 
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Product Backlog](https://scrumguide.de/product-backlog/)
+[^2]: [Meine Lieblingsstruktur für User Stories](https://www.agile-academy.com/de/product-owner/meine-lieblingsstruktur-fuer-user-stories/)
+[^3]: [User Story](https://scrumguide.de/user-story/)
+[^4]: [INVEST-Kriterien](https://key2agile.de/agilenavigator/invest-kriterien/)
+[^5]: [User Stories: Anforderungen aus Nutzersicht dokumentieren](https://blog.seibert-media.net/blog/2010/11/29/user-stories-anforderungen-aus-nutzersicht-dokumentieren/)

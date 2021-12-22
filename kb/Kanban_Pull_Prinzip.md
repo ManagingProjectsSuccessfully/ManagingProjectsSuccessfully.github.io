@@ -2,103 +2,72 @@
 title: Kanban_Pull_Prinzip
 tags: agil klassisch
 author: LindaStu
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Kanban_Pull_Prinzip um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Kanban Pull-Prinzip, auch genannt ziehende Fertigung, ist ein Steuerungsverfahren des agilen Projektmanagements, um flexibel und kundenorientiert arbeiten zu können. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Kanban Pull-Prinzip 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+[Kanban](https://managingprojectssuccessfully.github.io/kb/Kanban.html) ist eine Methode des agilen Projektmanagements für Bestandsführung und Produktionssteuerung, welche auf dem Pull-Prinzip beruht. Das System Kanban steuert den Materialfluss und die Produktion nach dem Pull-Prinzip. 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Bei Kanban orientiert sich die Materialbereitstellung damit ausschließlich am Verbrauch des Produktions- oder Logistikablaufs. [^1]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Ein wesentliches Merkmal beim Pull-Prinzip ist, dass die Entscheidungen über die Produktionsmengen und Materialflüsse in jedem Knotenpunkt, wie z.B. bei der Produktionsstufe oder im Lager dezentral erfolgen. [^2]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Das Pull-Prinzip wird nicht nur bei der Abstimmung mit Endverbrauchern angewendet. Auch im Supply Chain Management, sprich der Logistik eines Unternehmens und in der Wertschöpfungskette des Unternehmens und seiner Lieferanten, leistet es gute Dienste. [^3]
 
 
-# Aspekt 1
+## Wie genau funktioniert das Pull-Prinzip? 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Beim Pull-Prinzip drückt der Hersteller keine Waren auf den Markt, sondern orientiert sich am Kunden und beginnt mit der Herstellung erst, wenn der Kunde ein Signal gibt. Ein Signal des Kunden kann z.B. eine Bestellung oder ein Auftrag sein. [^3]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Wenn der Kunde das Signal gibt, arbeiten alle Akteure der Lieferkette hin zu dem Auftrag des Kunden. Durch den Kaufwunsch des Kunden wird dem Lieferanten ein Signal erteilt das Produkt dem Kunden auszuliefern. Der Lieferant fordert den nötigen Nachschub an Produkten für seine Auslieferung an. In der Fertigung wird ein Signal an das Lager mit dem Bedarf an Materialien gesendet, um das Material verarbeiten zu können. Im Lager geht dann, je nach Bedarf, ein Signal zur Nachbestellung von Material raus. [^4]
 
-![Beispielabbildung](Kanban_Pull_Prinzip/test-file.jpg)
+Durch das Pull-Prinzip wird, wie der Name schon darstellt, das Beschaffungsmanagement von vorne nach hinten mit rechtzeitigen Signalen durchgeführt. 
 
-*lustiges Testbild*
+Eine just-in-time Lieferung ist deshalb sehr wichtig, damit die Produktionsdauer so kurz wie möglich gehalten werden kann. 
 
-# Aspekt 2
+Alle Akteure der Lieferkette müssen sich genau abstimmen, um eine schnelle Lieferung gewährleisten zu können. Dies erfordert eine enge Zusammenarbeit mit Lieferanten und externen Partnern. 
+Wie Sie hier in der Grafik sehen können, lösen nachgelagerte Prozesse vorhergehende aus. [^3]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+![Systematik des Pull-Prinzips](https://raw.githubusercontent.com/LindaStu/ManagingProjectsSuccessfully.github.io/main/kb/Kanban_Pull_Prinzip/Pull-Prinzip.png)
 
-So kann man eine Tabelle erstellen:
+*Systematik des Pull-Prinzips*
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Vorteile des Pull-Prinzips
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+* Kundenorientierung: die Produkte können genau auf die Vorstellungen des Kunden angepasst werden
+* Flexibilität: Transport geschieht auf Abruf, so ist man bis zum Bestellzeitpunkt sehr flexibel
+* Kostensparend: durch keine unnötigen Zwischen- und Endlagerungen entfallen Lagerkosten
+* Problemorientiert: dank großem Informationsaustausch können Probleme schneller erkannt werden
+* Positive Kundenbindung: Änderungswünsche des Kunden können einfacher integriert werden [^3]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## Nachteile des Pull-Prinzips 
 
-### Ebene-3-Überschrift
+* Abhängigkeit: Lieferschwierigkeiten oder Ausfälle stoppen die Produktion sofort und der Kunde muss warten [^3]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## Wichtigkeit, um Pull-Prinzip erfolgreich anwenden zu können
 
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Um das Kanban Pull-Prinzip erfolgreich im Unternehmen integrieren zu können bedarf es eine richtige Strategie für das Liefermanagement. Zudem sind verlässliche Partner oder auch mehrere Lieferanten sehr wichtig, um so die Risiken von Produktionsstopps und Verzögerungen zu senken. [^3]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kanban_Pull_Prinzip.md)
+* [Kanban](Kanban.md)
+* [Kanban Boards](Kanban_Boards.md)
+* [Kanban Karten](Kanban_Karten.md)
+* [Kanban Swim Lanes](Kanban_Swim_Lanes.md)
+* [Kanban Work in Progress](Kanban_Work_in_Progress.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Vorteile des Pull-Prinzips (englisch)](https://www.planview.com/resources/articles/benefits-pull-system/)
+* [Online Kanban Software Buyer's Guide E-Book](https://info.planview.com/buyers-guide-enterprise-kanban-software-_ebook_lad_en_reg.html)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [manufactus, Kanban System und Pull Steuerung – Definition und Prinzip]( https://www.kanban-system.com/de/kanban-system-was-ist-das/)
+[^2]: [Logistikkompendium Technische Universität München, Pull Prinzip](https://wiki.tum.de/display/logistikkompendium/Pull-Prinzip)
+[^3]: [Businesswissen, Wie das Pull-Prinzip funktioniert](https://www.business-wissen.de/artikel/prozessplanung-wie-das-pull-prinzip-funktioniert/)
+[^4]: [Unternehmensberatung Axel Schröder, Kanban und Beschaffungsmanagement](https://axel-schroeder.de/kanban-und-beschaffungsmanagement/)
