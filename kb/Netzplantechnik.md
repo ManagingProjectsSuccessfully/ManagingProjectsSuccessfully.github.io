@@ -44,7 +44,7 @@ Nun erhält man aus der Differenz der spätesten und frühesten Zeitpunkten die 
 Die Verbindung dieser kritischen Vorgänge ergibt den kritischen Pfad und somit den längsten Weg im Netzplan. Sobald sich nur ein einziger kritischer Vorgang verzögert, verlängert sich die gesamte Projektdauer. In jedem Projekt befindet sich mindestens ein kritischer Pfad, welcher den Fertigstellungstermin des Projektes angibt. 
 ## 3. Kostenplanung
 Anhand des ermittelten Zeitbedarfs, können von den einzelnen Vorgängen die Kosten bestimmt werden und dadurch die Gesamtkosten des Projekts.
-Mittels der Gegenüberstellung angefallener Ist-Kosten mit den ermittelten Plan-Kosten ist es möglich Abweichungen früh genug zu erkennen und dementsprechend zu Handeln. 
+Mittels der Gegenüberstellung angefallener Ist-Kosten mit den ermittelten Plan-Kosten ist es möglich Abweichungen früh genug zu erkennen und dementsprechend zu Handeln.[^1]
 ## 4. Kapazitätsplanung
 Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen Voraussetzungen für die Durchführung des Projekts geschaffen werden. Dabei wird eine hohe und gleichmäßige Auslastung der vorhandenen Ressourcen angestrebt.[^1]
 
