@@ -10,6 +10,7 @@ anrechnung: k
 Große Projekte involvieren oftmals Menschen aus verschiedensten Teilen der Welt. Dies erweitert die Bandbreite der Fähigkeiten, welche Projektmanager besitzen sollten. 
 In der heutigen globalisierten Wirtschaft scheinen sowohl Projektteams aus diversen Ländern als auch die Zusammensetzung virtueller Projektteams die Norm zu sein. Der Übergang vom Management von Projekten bei welchen das gesamte Team vor Ort ist, zum Management von Teams, die verschiedene Zeitzonen und Nationalitäten repräsentieren, wird immer herausfordernder. Daher sollten Projektmanager, welche solche Projekte leiten, zusätzliche Planungszeit einplanen, um alle Hindernisse zu vermeiden, die zu Spannungen und damit zu Konflikten führen könnten [^1]. 
 
+
 # Prozess der Entstehung von Teams
 
 
@@ -20,6 +21,7 @@ In der heutigen globalisierten Wirtschaft scheinen sowohl Projektteams aus diver
 Internationale und interkulturelle Projekte basieren immer auf der effektiven Zusammenarbeit eines Teams. Bereits in den 1960ern entwickelte der US-amerikanische Psychologe Bruce Tuckmann ein Phasenmodell, welches den Prozess der Entstehung von Teams plastisch skizziert.
 
 Bruce Tuckmann erklärte im Wesentlichen, welche Schritte die Teams durchlaufen müssen (siehe Abb 1) damit diese gemeinsam ihr maximales Potential entfalten können. Vor allem der Anfang dieses Prozesses ist häufiger mit Spannungen und Konflikten verbunden. Dieses Modell kann die Führungskräfte dabei unterstützen die Dynamiken der Gruppe besser zu verstehen und angemessene Maßnahmen zu ergreifen, um den Reifeprozess zu beschleunigen, sodass schließlich die Performing-Phase größtenteils unproblematisch erreicht wird und die Absolvierung des Projektes effizient angegangen werden kann  [^3].
+
 
 # Die Bedeutung von Kommunikation
 
@@ -35,6 +37,7 @@ Diese sind:
 
 Gerade dadurch, dass in internationalen Projekten die Projektmitarbeiter räumlich getrennt sind und kaum direkter Kontakt vorliegt, wird der Wissensaustausch und die gegenseitige Informationvermittlung deutlich erschwert. Hier kann es dann vorkommen, dass bspw. ein Mitarbeiter vergisst, notwendige Informationen seinem Kollegen im Ausland zukommen zu lassen. 
 Für die Führungskräfte ist es also wichtig am Anfang des Projektes Kommunikationsstandards festzulegen, z.B. indem festgelegt wird wie oft sich das Team zusammensetzen und austauschen soll. Außerdem ist auch die zu überwindende Sprachbarriere von entscheidender Bedeutung, sodass sowohl Verständlichkeit gewährleistet wird, als auch der Informationsverlust möglichst gering gehalten wird [^5]. 
+
 
 # Kulturübergreifendes Führen
 
