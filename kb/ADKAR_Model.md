@@ -18,7 +18,7 @@ Den ersten und wichtigsten Schritt stellt "Awareness" dar. Es soll Bewusstsein f
 Nachfolgende Fragestellungen können dabei helfen, diesen Schritt auszuführen:
 
 - Welche Veränderung ist notwendig? [^3]
-- Warum ist die Veränderung notwendig? [^3] [^4]
+- "Warum ist die Veränderung notwendig?" [^4]
 - Welche Auswirkungen birgt die Veränderung? [^3]
 - "Was passiert, wenn keine Veränderung eintrifft?" [^4]
 
