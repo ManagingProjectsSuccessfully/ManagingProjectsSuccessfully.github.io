@@ -81,24 +81,14 @@ Die Matrix Projektorganisation existiert meistens in wichtigen und zeitabhängig
 [Beispielabbildung](https://www.bwl-lexikon.de/app/uploads/matrix-projektorganisation.png)
 
 [^1]: [Projektorganisation: Diese Formen solltest du kennen] ( https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/projektorganisationsformen/)
-
 [^2]: [Matrixorganisation] (https://www.projektmagazin.de/glossarterm/matrixorganisation)
-
 [^3]: [Matrix Projektorganisation] (https://www.bwl-lexikon.de/wiki/matrix-projektorganisation/#was-ist-die-matrix-projektorganisation)
-
 [^4]: [Projektorganisation: Formen und Rollen] (https://www.factro.de/blog/projektorganisation/#matrix)
-
 [^5]: [Schwache Matrixorganisation] (https://www.projektmagazin.de/glossarterm/schwache-matrixorganisation)
-
 [^6]: [Ausgewogene Matrixorganisation] (https://www.projektmagazin.de/glossarterm/ausgewogene-matrixorganisation)
-
 [^7]: [PMBOK(R) Guide] (https://www.projektmagazin.de/glossarterm/pmbok-guide)
-
 [^8]: [Starke Matrixorganisation] (https://www.projektmagazin.de/glossarterm/starke-matrixorganisation) 
-
 [^9]: [Matrixorganisation] (https://studyflix.de/wirtschaft/matrixorganisation-1331) 
-
 [^10]: [DREI ZENTRALE PROJEKTORGANISATIONSFORMEN UND IHRE ANWENDUNG] (http://blog.bepartner.de/drei-projektorganisationsformen/)
-
 [^11]: [Die richtige Projektorganisation für Ihr Unternehmen] (https://drblaschka.de/projektorganisation/) 
 
