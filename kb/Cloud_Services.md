@@ -5,7 +5,7 @@ author: kutaydogan
 anrechnung: k
 ---
 
-Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, die über das Internet on demand Zugriff auf Anwendungen und Ressourcen zur Verfügung stellen, ohne eine spezielle Infrastruktur oder Hardware vorauszusetzen. Beliebte Cloud-Services sind zum Beispiel E-Commerce-Applikationen oder Produktivitäts-Applikationen wie E-Mails, die eine [digitale Kommunikation](https://github.com/DaLob98/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitale_Kommunikation.md) ermöglichen. [^1][^2]
+Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, die über das Internet auf Abruf Zugriff auf Anwendungen und Ressourcen zur Verfügung stellen, ohne eine spezielle Infrastruktur oder Hardware vorauszusetzen. Beliebte Cloud-Services sind zum Beispiel E-Commerce-Applikationen oder Produktivitäts-Applikationen wie E-Mails, die eine [digitale Kommunikation](https://github.com/DaLob98/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitale_Kommunikation.md) ermöglichen. [^1][^2]
 
 # 1.Verschiedene Cloud Service Modelle
 
