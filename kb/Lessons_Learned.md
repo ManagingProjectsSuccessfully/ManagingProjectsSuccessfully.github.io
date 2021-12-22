@@ -33,10 +33,10 @@ In der Regel ist der erste Teil des <b>Lessons Learned</b> ein einzelnes Meeting
 Wichtig ist es, dass die im Workshop besprochenen Erkenntnisse festgehalten und dokumentiert werden. Es bietet sich an, den einzelnen Stakeholdern eine Zusammenfassung des Workshops im Nachhinein auszuhändigen, damit die Ergebnisse nicht verloren gehen. 
 
 ### 3. Analysieren 
-Das Besprochene wird anschließend tiefergehend analysiert, um beispielsweise Themengebiete zu identifizieren, die häufiger vorkommen oder besonders kritisch für den reibungslosen Projektablauf sind. 
+Das Besprochene wird anschließend tiefergehend analysiert, um beispielsweise Themengebiete zu identifizieren, die häufiger vorkommen oder besonders kritisch für den reibungslosen Projektablauf sind.[^2]
 
 ### 4. + 5. Speichern und Zugänglich machen
-Abschließend müssen die <b>Lessons Learned</b> noch zum einen gespeichert werden (idealerweise in der Lessons-Learned-Datenbank des Unternehmens) und zum anderen müssen die Informationen den Mitarbeitern zugänglich gemacht werden. <b>Lessons Learned</b> sind nicht nur für das Unternehmen selbst oder den Projektmanager wichtig, sondern können auch dem einzelnen Mitarbeiter einen Mehrwert liefern.  <br><hr>
+Abschließend müssen die <b>Lessons Learned</b> noch zum einen gespeichert werden (idealerweise in der Lessons-Learned-Datenbank des Unternehmens) und zum anderen müssen die Informationen den Mitarbeitern zugänglich gemacht werden. <b>Lessons Learned</b> sind nicht nur für das Unternehmen selbst oder den Projektmanager wichtig, sondern können auch dem einzelnen Mitarbeiter einen Mehrwert liefern.[^5]   <br><hr>
 
 # Schwierigkeit
 
@@ -50,13 +50,13 @@ Eine weitere Schwierigkeit besteht in Stakeholdern, die nicht glauben, dass sich
 
 # Weiterführende Literatur
 - Rhodes, Lucy; Dawson, Ray (2013): Lessons Learned from Lessons Learned. In: Know. Process Mgmt. 20 (3), S. 154–160. DOI: 10.1002/kpm.1415.
-- Wellman, Jerry (2007): Lessons learned about lessons learned. In: Organization Development Journal 25 (3), S. 65.
 
 # Quellen
 [^1]: OECD – DAC (2002) Glossary of Key Terms in Evaluation and Results Based Management. Evaluation and Aid Effectiveness
 [^2]: Rowe, S. F. & Sikes, S. (2006). Lessons learned: taking it to the next level. Paper presented at PMI® Global Congress 2006—North America, Seattle, WA. Newtown Square, PA: Project Management Institute.
 [^3]: Dr. Georg Angermeier: https://www.projektmagazin.de/glossarterm/lessons-learned
 [^4]: Thomas Klingenberg: https://t2informatik.de/wissen-kompakt/lessons-learned/
+[^5]: Wellman, Jerry (2007): Lessons learned about lessons learned. In: Organization Development Journal 25 (3), S. 67.
 
 
 
