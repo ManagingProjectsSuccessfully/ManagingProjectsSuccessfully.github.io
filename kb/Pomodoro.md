@@ -104,7 +104,7 @@ Die 25-Minuten-Abschnitte seien ein zu enges Korsett. Manche Aufgaben lassen sic
 
 ◾ Zu unrealistisch:
 
-Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchhalten könne. Einen derart ablenkungsfreien, strikt durchgetakteten und fokussierten Tag gibt es nicht. Mag sein. Sie können sich den Tag allerdings auch in Blöcke einteilen: jene, in denen Sie mit der Pomodoro-Technik arbeiten und andere, die freier bleiben.[^3]
+Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchhalten könne. Einen derart ablenkungsfreien, strikt durchgetakteten und fokussierten Tag gibt es nicht. Mag sein. Sie können sich den Tag allerdings auch in Blöcke einteilen: jene, in denen Sie mit der Pomodoro-Technik arbeiten und andere, die freier bleiben.[^4]
 
 # Siehe auch
 
