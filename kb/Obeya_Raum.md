@@ -39,8 +39,16 @@ Obeya vereinfacht die Absprache und Zusammenarbeit zwischen den Teams und ist vo
 Vor allem bei Toyota wurde Obeya besonders effektiv umgesetzt. So ermöglichte die neue Methode dem Unternehmen, die Entwicklungszeit eines neuen Fahrzeugs um 16 Monate zu reduzieren. Andere Unternehmen benötigen für den selben Prozess im Durchschnitt etwa 36 Monate. [^1]
 
 # Siehe auch
-
+* [Lean Managements](Lean_Projektmanagement.md)
 * [Projektmanagement](Projektmanagement.md)
+* [Stakeholdermanagement].(Stakeholdermanagement.md
+
+# Weiterführende Literatur
+* [Aasland, K., & Blankenburg, D. (2012). Virtualizing the obeya. In DS 71: Proceedings of NordDesign 2012, the 9th NordDesign conference, Aarlborg University, Denmark. 22-24.08. 2012.]
+
+* [Johnson, C. N. (2002). The benefits fo PDCA. Quality Progress, 35(5), 120.]
+
+* [Nascimento, D. L. D. M., Sotelino, E. D., Lara, T. P. S., Caiado, R. G. G., & Ivson, P. (2017). Constructability in industrial plants construction: a BIM-Lean approach using the Digital Obeya Room framework. Journal of civil engineering and management, 23(8), 1100-1108.]
 
 # Quellen
 [^1]: [Obeya (appvizer)](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/obeya)
