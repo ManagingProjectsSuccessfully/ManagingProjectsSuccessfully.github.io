@@ -1,104 +1,73 @@
 ---
 title: Stakeholderanalyse
-tags: agil klassisch
+tags: stakeholder analyse projektmanagement projekterfolg
 author: DanielLu21
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Stakeholderanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Stakeholderanalyse
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Eine [Stakeholderanalyse](Stakeholderanalyse.md) hat das Ziel die Interessensgruppen eines [Projekts](Projekt.md) und deren Einfluss auf Entscheidungen zu identifizieren. Hierbei werden die Stakeholder zueinander in Beziehung gesetzt und kategorisiert. Somit können Sie durch Strategien gezielt gesteuert und in eine bestimmte Richtung gelenkt werden [^1][^2].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Hintergrund
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Der Begriff Stakeholder beschreibt ein direktes Interesse an einem [Projekt](Projekt.md) von einzelnen Personen, Gruppen, Unternehmen oder Vereinigungen. Viele Stakeholder wollen bei den Verläufen von [Projekten](Projekt.md) eingebunden sein und so ihre Belange zu ihrem Vorteil durchsetzen [^3].
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Stakeholder können in intern und extern gegliedert werden. Nachfolgend sind einige Beispiele von möglichen Stakeholdern aufgezählt [^4]:
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+* Konkurrenten
+*	Umweltverbände
+*	Medien
+*	Anwohner
+*	Mitarbeiter
+* Politik
+*	Gewerkschaften
+*	Investoren
+*	Kunden
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Notwendigkeit eines [Stakeholdermanagements](Stakeholdermanagement.md) ist essenziell. Ein ungeplantes Einschreiten bzw. ein nicht erwartetes Handeln von Stakeholdern kann Projekte in zeit- und kostentechnischer gefährden, wenn nicht sogar zum Scheitern bringen. Daher ist es das oberste Ziel des [Stakeholdermanagements](Stakeholdermanagement.md) die Stakeholder zu identifizieren, einzuschätzen und bei diesen durch geeignte Maßnahmen eine Akzeptanz für das Projekt zu schaffen. Aus diesem Grund ist eine umfangreiche Analyse der Interessensgruppen und deren Einstellungen zu den betroffenen Projektthemen unabdingbar. Dies geschieht anhand einer [Stakeholderanalyse](Stakeholderanalyse.md) [^5]. 
 
+## Anwendung
 
-# Aspekt 1
+In einem ersten Schritt sind die relevanten Stakeholder des Projekts zu identifizieren. Hierbei sollten alle berücksichtigt werden, die in irgendeiner Art und Weise mit dem Projekt in Verbindung stehen. Hierbei kann bereits eine Kategorisierung der Stakeholder stattfinden sowie wichtige Schlüsselfunktionen der Personen und Interessensgruppen vermerkt werden. Für die Identifikation der Stakeholder existieren verschiedene Verfahren. Einige werden nachfolgend beispielhaft aufgelistet [^5].
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Identifikation durch:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* Experten/Delphimethode 
+* Andere Stakeholder (Interviews und Diskussionen) 
+* Sekundärforschung und statistische Daten 
+* Mündliche oder schriftliche Berichte über große Ereignisse 
+* Kreativitätstechniken wie Brainstorming 
+* SWOT-Analysen 
 
-![Beispielabbildung](Stakeholderanalyse/test-file.jpg)
+Anschließend muss die Einstellung der Stakeholder gegenüber dem Projekt bewertet werden. Hierbei wird beispielsweise zwischen positiv, neutral und negativ unterschieden. Die Einschätzungsskalen können je nach der gewollten Genauigkeit variieren. Die Interessen der Stakeholder lassen sich aus seinen Bedürfnissen ableiten und spiegeln sich in Hinsicht auf das Projekt als konkrete Erwartungen und Ziele wider. Diese Informationen sind entscheidend für das weitere Vorgehen [^5].
 
-*lustiges Testbild*
+Ein nächster wichtiger Schritt ist die Bewertung der Relevanz von den betroffenen Stakeholdern.  In diesem Zusammenhang wird sich die Frage gestellt, wer wie wichtig für das jeweilige Projekt ist. So kann ein Ranking erstellt werden, um die bedeutungsvollsten Interessensgruppen von dem Projekt zu überzeugen. Anschließend sollen diese mit passenden Strategien und Maßnahmen in das Projekt eingebunden werden. So wird sich die Unterstützung dieser Parteien gesichert.
 
-# Aspekt 2
+Es ist zu bedenken, dass sich die Meinung von Stakeholdern während eines Projekts ändern kann. Aus diesem Grund ist es auch im Rahmen des [Projektcontrollings](Projektcontrolling.md) essenziell, die Interessengruppen auf dem Laufenden zu halten und sich mit diesen abzustimmen, damit ein erfolgreicher [Projektabschluss](Projektabschluss.md) erfolgen kann [^4].
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Ein Template für eine Stakeholderanalyse könnte beispielsweise folgendermaßen aussehen [^4]::
 
 
-# Siehe auch
+![Stakeholderanalyse Umsetzung](Stakeholderanalyse/Stakeholderanalyse-Umsetzung.jpeg)
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Stakeholderanalyse.md)
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
-# Quellen
+Ein zusätzlich oft genutztes Tool ist die Macht/Interesse-Matrx nach Johnson/Scholes (1999). Mit dieser kann das Verhältnis zwischen der Macht und dem Interesse einzelner Stakeholder sowie dessen Entwicklung während des Projektverlaufs grafisch dargestellt werden [^5], S. 34:
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+![Macht/Interesse-Matrix, S.34](Stakeholderanalyse/Macht_Interesse_Matrix.png)
 
+
+
+Nach dem Abschluss des Projektes sollte eine Kontrolle der Zielerreichung gemacht werden. Hierbei stellt sich vor allem die Frage, wie zuverlässig die [Stakeholderanalyse](Stakeholderanalyse.md) funktioniert hat. Dadurch kann aus den Erfahrungen für zukünftige Projekte gelernt werden. Die Wichtigkeit dieser Analyse sollte nicht unterschätzt werden. Die Stakeholder tragen eine wichtige Rolle im Verlauf eines Projekts und aus diesem Grund ist es entscheidend, wie gut das Projektteam diese identifiiert und eingschätzt hat, um entsprechend handeln zu können. 
+
+
+## Quellen
+
+[^1]: [www.controlling-wiki.de](https://www.controlling-wiki.com/de/index.php/Stakeholderanalyse)
+[^2]: [wwww.betriebswirtschaft-lernen.net](https://www.betriebswirtschaft-lernen.net/erklaerung/stakeholderanalyse/)
+[^3]: [www.projektmanagement-manufaktur.de](https://projektmanagement-manufaktur.de/stakeholderanalyse)
+[^4]: [www.strategische-wettbewerbsbeobachtung.com](https://www.strategische-wettbewerbsbeobachtung.com/wiki/stakeholderanalyse/)
+[^5]: [Krips D., 2017, Stakeholdermanagement, Springer Verlag](https://link.springer.com/book/10.1007/978-3-662-55634-4)
