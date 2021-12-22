@@ -73,12 +73,15 @@ Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Ver
  
 # Siehe auch
 
-[The Prosci ADKAR Model](https://www.prosci.com/methodology/adkar)
+- [The Prosci ADKAR Model](https://www.prosci.com/methodology/adkar)
+- [8 Step Process for Leading Change](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/8_Step_Process_for_Leading_Change.md)
+- [Managing Change in Organisations](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Managing_Change_in_Organisations.md)
+
  
 # Quellen
 
 [^1]: [WAS IST ADKAR?](https://www.tiba-prosci.com/was-ist-adkar/)
-[^2]: https://www.marhelgroup.de/wp-content/uploads/2020/11/adkar-modell-768x248.jpg
+[^2]: [ADKAR MODELL](https://www.marhelgroup.de/wp-content/uploads/2020/11/adkar-modell-768x248.jpg)
 [^3]: [ADKAR MODEL EXPLAINED -PART 2- Awareness](https://youtube.com/watch?v=PwwoyzVfsS8)
 [^4]: [Wie das ADKAR Change Management Modell funktioniert](https://mind-force.de/vertrieb/wie-das-adkar-change-management-modell-funktioniert/)
 [^5]: [ADKAR MODEL EXPLAINED -PART 3- Desire](https://youtube.com/watch?v=LNT3Rxci-hU)
