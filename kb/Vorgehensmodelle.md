@@ -22,7 +22,7 @@ Abbildung 1: Bestandteile eines Vorgehensmodells[^90]
 Vorgehensmodelle können in klassische und [agile](Agiles_Manifest.md) Vorgehensweisen, sowie [hybride](Hybrides_Projektmanagment.md) Varianten unterscheiden werden. Die Terminologie ist hierbei analog zur Vorlesung Managing Projects Successfully gewählt. In der Literatur findet sich jedoch eine Vielzahl an Bezeichnungen und unterschiedliche Einteilungen. Einen Überblick über Klassifizierungen unterschiedlicher Autor:innen liefert Tabelle 1.
 
 Tabelle 1: Arten von Vorgehensmodellen laut unterschiedlicher Autor:innen
-|  Kuster et al. | Schneider et al. | Broy & Kuhrmann | Kneuper et al. | Timinger | Wieczorrek & Mertens |
+|  Kuster et al.[^120] | Schneider et al.[^30] | Broy & Kuhrmann[^90] | Kneuper et al.[^20] | Timinger[^80] | Wieczorrek & Mertens[^100] |
 |---|---|---|---|---|---|
 | <ul><li>klassisch/</br>Phasen-</br>konzept</li><li>agil</li></ul> |<ul><li>linear oder Phasenmodell</li><li>iterativ</li><li>Prototyping</li></ul> | <ul><li>phasen-</br>orientierte Modelle und sequenzielles Vorgehen</li><li>iteratives und inkrementelles Vorgehen</li><li>Prototyping</li></u> | <ul><li>sequentiell</li><li>evolutionär</li><li>Prototyping</li></u> | <ul><li>sequenziell</li><li>nebenläufig/</br>parallel</li><li>wiederholend</li><li>agil</li></ul> | <ul><li>konzeptionell (als Spezialfall von inkrementell)</li><li>inkrementell</li><li>evaluativ</li><li>empirisch</li></ul> |
 
