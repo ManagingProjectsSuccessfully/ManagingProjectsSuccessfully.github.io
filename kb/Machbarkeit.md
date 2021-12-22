@@ -23,7 +23,7 @@ Ziel der Initialisierungsphase ist das Ergebnis zu erlangen, ob ein Projekt durc
 
 Die Machbarkeitsstudie ist ein Instrument, das zur Prüfung der Machbarkeit eines Projekts eingesetzt wird.[^3][^4]
 
-Intention, Auftrag und Ziel der Ausarbeitung einer Machbarkeitsstudie ist, die Machbarkeit einer Projektidee nach unterschiedlichen Dimensionen zu prüfen. Meist werden hierbei folgende Dimensionen betrachtet:[^3][^4]
+Intention, Auftrag und Ziel der Ausarbeitung einer Machbarkeitsstudie ist es, die Machbarkeit einer Projektidee nach unterschiedlichen Dimensionen zu prüfen. Meist werden hierbei folgende Dimensionen betrachtet:[^3][^4]
 
 
 ## Technische Machbarkeit
@@ -59,7 +59,7 @@ Die [ressourcenbezogene](Ressourcenplanung.md) Machbarkeitsprüfung beurteilt, o
 
 ## Organisatorische Machbarkeit
 
-Bei der organisatorischen Machbarkeit geht es vor allem um die Betrachtung und Anpassung der Aufbau- und Ablauforganisation des Unternehmens in Bezug auf das Projekt.[^6][^7] 
+Bei der organisatorischen Machbarkeit geht es vor allem um die Betrachtung und Anpassung der Aufbau- und Ablauforganisation im Unternehmen in Bezug auf das Projekt.[^6][^7] 
 #
 Die Durchführung der Machbarkeitsstudie beginnt in der Regel mit der Überprüfung der technischen Machbarkeit. Diese hat Einfluss auf die restlichen Dimensionen. Es folgen die juristische, politische, ressourcenbezogene und organisatorische Machbarkeit. Zum Schluss wird die wirtschaftliche Machbarkeit überprüft.[^4]
 
@@ -71,7 +71,7 @@ In Abbildung 1 wird der zuvor beschriebene Ablauf einer Machbarkeitsstudie grafi
 *Abbildung 1: Empfohlener Ablauf der Durchführung einer Machbarkeitsstudie[^4]*
 
 
-Das Gesamtergebnis einer Machbarkeitsstudie ist der Machbarkeitsnachweis, auch [Proof-of-Concept](Proof_of_Concept.md) genannt. Dieser gilt als Genehmigung der Durchführbarkeit eines Projekts.[^3][^4]
+Das Gesamtergebnis einer Machbarkeitsstudie ist der Machbarkeitsnachweis, auch [Proof-of-Concept](Proof_of_Concept.md) genannt. Dieser gilt als Genehmigung zur Durchführung eines Projekts.[^3][^4]
 
 Ist die Machbarkeit eines Projekts nach der ersten Prüfung nicht gegeben, werden mit Hilfe einer Simulation mehrere Einflussgrößen zu unterschiedlichen Szenarien getestet. Zeigt die Simulation, dass das [Kosten-Nutzen-Verhältnis](Kosten_Nutzen_Analyse.md) nicht passend ist, wird ein Stopp des Projekts beantragt.[^2]
 
