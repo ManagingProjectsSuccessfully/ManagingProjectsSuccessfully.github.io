@@ -58,10 +58,10 @@ Nun zu den großen Vorteilen des Projektstrukturplanes. Die einzelnen Aufgaben s
 
 # Weiterführende Literatur
 
-* [Youtube-Kanal mit vielen interessanten Videos zum Projektstrukturplan:](https://www.youtube.com/c/PMBackstage/videosWeiterfuehrende)
-* [Weiterführende Informationen zur Terminplanung/Ablaufplanung:](https://mediencommunity.de/system/files/wbts/projektmanagement/le03/12_einen_projektstukturplan_erstellen.html)
-* [Podcast "Projekte leicht gemacht":](https://projekteleichtgemacht.podigee.io/9-der-projektstrukturplan-teil-1-nutzen-und-aufbau/embed?context=external">)
-* [Wikipedia Eintrag:](https://de.wikipedia.org/wiki/Projektstrukturplan)
+* [Youtube-Kanal mit vielen interessanten Videos zum Projektstrukturplan](https://www.youtube.com/c/PMBackstage/videosWeiterfuehrende)
+* [Weiterführende Informationen zur Terminplanung/Ablaufplanung](https://mediencommunity.de/system/files/wbts/projektmanagement/le03/12_einen_projektstukturplan_erstellen.html)
+* [Podcast "Projekte leicht gemacht"](https://projekteleichtgemacht.podigee.io/9-der-projektstrukturplan-teil-1-nutzen-und-aufbau/embed?context=external">)
+* [passender Wikipedia Eintrag](https://de.wikipedia.org/wiki/Projektstrukturplan)
 
 # Quellen
 
