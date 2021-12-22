@@ -8,7 +8,8 @@ anrechnung: k
 Ein Projekt ist ein Vorhaben, dass durch bestimmte Merkmale gekennzeichnet ist. Diese wurden innerhalb der DIN-Norm 69901 festgehalten. 
 Dazu zählt unter anderem die Eigenschaft, dass gewisse Tätigkeiten nur einmal stattfinden. Neben der Einmaligkeit der Tätigkeit gibt es außerdem eine Zielvorgabe und 
 eine zeitliche, finanzielle sowie personelle Begrenzung. Zusätzlich wird für die Durchführung des Projekts eine projektspezifische Organisation gebildet. 
-Innerhalb eines Projekts schließen sich mehrere Personen zusammen, damit alle Aufgaben erledigt werden können. Hierzu findet man weitere Infos unter Projektteam. 
+Innerhalb eines Projekts schließen sich mehrere Personen zusammen, damit alle Aufgaben erledigt werden können. 
+Hierzu findet man weitere Infos unter [Who_is_Who_Projectmanagement](Who_is_Who_Projectmanagement.md). 
 Im weiteren Verlauf eines Projekts werden verschiedene Ressourcen eingekauft, kombiniert und koordiniert. [^1]
 
 Der Begriff Projekt lässt sich vom lateinischen Wort proicere ableiten, dass so viel bedeutet wie abwerfen.
@@ -48,8 +49,9 @@ Ein Projekt durchläuft vier Phasen, die man anhand der Tätigkeiten und dem Zei
 ## Definitionsphase
 
 Die Definitionsphase ist die erste Phase direkt nach der Projektinitiierung. Das Projektziel wird festgelegt und die Chancen und Risiken sollen innerhalb von Situations- und
-Stakeholderanalysen ermittelt werden. Außerdem soll eine erste Grobplanung zu den Kosten, dem Ausmaß und der benötigten Zeit erfolgen. Zusätzlich kann bei größeren Projekten
-eine Machbarkeitsstudie durchgeführt werden, um weitere hilfreiche Informationen zu erhalten. Ergebnis einer erfolgreichen Definitionsphase ist der formelle Projektauftrag. [^6]
+[Stakeholderanalyse](Stakeholderanalyse.md)n ermittelt werden. Außerdem soll eine erste Grobplanung zu den Kosten, 
+dem Ausmaß und der benötigten Zeit erfolgen. Zusätzlich kann bei größeren Projekten eine Machbarkeitsstudie durchgeführt werden, um weitere hilfreiche Informationen 
+zu erhalten. Ergebnis einer erfolgreichen Definitionsphase ist der formelle Projektauftrag. [^6]
 
 ## Planungsphase
 
@@ -88,6 +90,7 @@ Für eine funktionierende Kommunikation werden regelmäßige Projekt Besprechung
 ## Projektabschluss
 
 In der letzten Phase, dem Projektabschluss, werden die Ergebnisse präsentiert. Abschließend wird rückblickend das Projekt bewertet und die Erfahrungen festgehalten.
+Weitere informationen unter: [Projektabschlussbericht](Projektabschlussbericht.md)
 Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einzelen Projektphasen zu jeder Zeit zu einem Projektabbruch kommen. [^6]
 
 
@@ -108,6 +111,10 @@ Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einz
 * [Qualitaetsmanagement](Qualitaetsmanagement.md)
 * [Qualitaetssicherung](Qualitaetssicherung.md)
 * [Projekt_Kick_Off](Projekt_Kick_Off.md)
+* [Projektabschlussbericht](Projektabschlussbericht.md)
+* [Who_is_Who_Projectmanagement](Who_is_Who_Projectmanagement.md)
+* [Stakeholderanalyse](Stakeholderanalyse.md)
+* [ ]( .md)
 
 
 
