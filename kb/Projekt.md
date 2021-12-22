@@ -60,12 +60,12 @@ Siehe auch [Projektplanung](Projektplanung.md).
 
 * Aufgabenpläne
 * Ablaufpläne
-* Terminpläne
+* Terminpläne (siehe auch: [Microsoft_Planner_PM_Tool](Microsoft_Planner_PM_Tool.md))
 * Kapazitätspläne
-* Kommunikationspläne
-* Kostenpläne
+* Kommunikationspläne (siehe auch: [Projektkommunikation](Projektkommunikation.md))
+* Kostenpläne (siehe auch: [Kostenplanung](Kostenplanung.md))
 * Qualitätspläne (siehe auch: [Qualitaetsmanagement](Qualitaetsmanagement.md) und [Qualitaetssicherung](Qualitaetssicherung.md))
-* Risikomanagement
+* Risikomanagement (siehe auch: [Risikomanagement](Risikomanagement.md))
 
 ## Durchführung
 
@@ -115,6 +115,11 @@ Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einz
 * [Who_is_Who_Projectmanagement](Who_is_Who_Projectmanagement.md)
 * [Stakeholderanalyse](Stakeholderanalyse.md)
 * [Ressourcenplanung](Ressourcenplanung.md)  
+* [Microsoft_Planner_PM_Tool](Microsoft_Planner_PM_Tool.md)
+* [Projektkommunikation](Projektkommunikation.md)
+* [Kostenplanung](Kostenplanung.md) 
+* [Risikomanagement](Risikomanagement.md) 
+* []( .md) 
 * []( .md) 
 
 
