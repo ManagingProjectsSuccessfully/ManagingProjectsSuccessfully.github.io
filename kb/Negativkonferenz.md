@@ -80,5 +80,5 @@ werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140
 [^3]: Innovationslabor der Universität Magdeburg: Die Kopfstandtechnik – Ideenfindung durch Umkehrung der Aufgabenstellung (https://www.sim.ovgu.de/sim_media/downloads/IDEAL/Kopfstandtechnik.pdf)
 [^4]: https://de.wikipedia.org/wiki/Brainstorming
 [^5]: https://lerndoku.com/negativkonferenz/
-[^6]: Sven Lundershausen: Die Moderation strategischer Initiativen
+[^6]: Sven Lundershausen: Die Moderation strategischer Initiativen, S. 140
 
