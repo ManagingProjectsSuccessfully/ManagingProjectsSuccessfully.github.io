@@ -30,7 +30,7 @@ Im Gegensatz zu den Potenzialprojekten werden [Pionierprojekte](Pionierprojekte.
 
 Wichtig zu beachten ist, dass die Grenzen der Matrix nicht starr sind und eine eindeutige Zuordnung nicht immer möglich ist. Darüber hinaus wechseln viele Projekte während der Entwicklung von Vorstudienphase bis zur Realisierung ihre Projektart. Dabei wandeln sich Projekte meist vom Potenzial- zum Pionierprojekt und werden im Anschluss zu Akzeptanz- oder sogar Standardprojekt[^2]. 
 
-Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen internen und externen Auftraggebern eines der wichtigsten Kriterien von Projekten.[^4] Häufig erscheint es auch sinnvoll, Projekte anhand ihres Inhalts  oder Branche zu differenzieren, um spezielle Vorgehensweisen und Techniken abzuleiten.[^2] Ein klassisches Schema ist die Unterscheidung in Investitions-, [Forschungs-](Forschungsprojekte.md) und [Entwicklungsprojekte](Entwicklungsprojekte.md), sowie Organisations- und [IT-Projekte](IT-Projekte.md).[^1][^2]
+Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen internen und externen Auftraggebern eines der wichtigsten Kriterien von Projekten.[^4] Häufig erscheint es auch sinnvoll, Projekte anhand ihres Inhalts  oder Branche zu differenzieren, um spezielle Vorgehensweisen und Techniken abzuleiten.[^2] Ein klassisches Schema ist die Unterscheidung in Investitions-, [Forschungs-](Forschungsprojekte.md) und [Entwicklungsprojekte](Entwicklungsprojekte.md), sowie Organisations- und [IT-Projekte](IT-Projekte.md).[^2][^1]
 
 # Bedeutung für Projektmanagement
 
