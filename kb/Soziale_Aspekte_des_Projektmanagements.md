@@ -28,11 +28,9 @@ Aus der Abbildung wird ersichtlich, dass für die befragten Teilnehmer kommunika
 
 Ein Projektleiter und die anderen Teilnehmer müssen sich an Regeln halten und eine gewisse soziale Kompetenz im Umgang mit dem Gegenüber aufweisen. Diese lässt sich in verschiedene Komponenten aufteilen, die bei der [Kommunikation](Kommunikation_Projektbeteiligte.md) und Zielerreichung förderlich sind. Teamkompetenz, Empathie, Problemlösungsfähigkeit, Konfliktfähigkeit, Reflexionsfähigkeit, Kritikfähigkeit und Führungskompetenz stellen wichtige Grundlagen dar.[^4]
 
-# Erfolgsfaktoren eines Projekts
+# Erfolgsfaktoren und Folgen für das Unternehmen
 
 Damit ein Projekt erfolgreich beendet werden kann, müssen einige Prinzipien eingehalten werden. Das gesamte Team muss am Ende abliefern, denn das Projekt sollte penibel strukturiert sein, klare Zielvorgaben für alle Projektteilnehmer haben, Verantwortung den entsprechenden Personen zuweisen, transparent mit dem Projektzustand umgehen, die Risiken frühzeitig erkennen, schnell auf Probleme und Störungen reagieren und detailliert bei der Projektanalyse vorgehen.[^1]
-
-# Fazit und Folgen für das Unternehmen 
 
 Daraus lassen sich Konsequenzen für das Unternehmen und die Projektleitung ableiten. Es soll vermehrt Wert auf soziale Aspekte in den andauernden Projekten gelegt werden. Andererseits müssen Projektleiter und zum Beispiel IT-Mitarbeiter soziale und kommunikative Fähigkeiten in Schulungen verbessern. Bei der Führungskompetenz der Projektleiter muss erheblich nachgebessert werden. Abschließend sollte mehr Unterstützung z.B. durch Projektcoaching zur Verfügung gestellt werden.[^2]
 
