@@ -20,7 +20,7 @@ Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und 
 
 ![Screenshot (634)](https://user-images.githubusercontent.com/92957209/143319388-b9813527-7d21-4df2-88a4-dfd3cf270bd1.png)
 
-*Projektarten-Matrix*[^7]
+*Projektarten-Matrix*[^1]
 
 [Standard- oder Routineprojekte](Routineprojekte.md) können aufgrund bestehender Erfahrung standardisiert und relativ einfach abgewickelt werden, wie beispielsweise Ersatzinvestitionen im Unternehmen. Auch bei den Akzeptanzprojekten kann man auf Erfahrung zurückgreifen und zu einem gewissen Grad standardisieren. Jedoch ist diese Art von Projekt durch ihre hohe Komplexität oft mit Akzeptanzproblemen verbunden, weshalb Information und Kommunikation eine entscheidende Rolle spielen. Ein typisches Beispiel hierfür ist ein komplexes Informatik-Projekt. 
 
@@ -52,7 +52,9 @@ Schlussendlich dient die Differenzierung in verschiedene Projektarten als Grunds
 # Weiterführende Literatur
 
 [Die Projekt-Methode](https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6386614)
+
 [Projekdefinition und Arten](https://www.youtube.com/watch?v=Wv70nDefyNk)
+
 [Das PMO in der Praxis](https://www.gpm-ipma.de/fileadmin/user_upload/Know-How/studien/201410_PMO_Studie_web.pdf)
 
 
