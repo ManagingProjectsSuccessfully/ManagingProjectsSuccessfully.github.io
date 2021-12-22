@@ -29,9 +29,7 @@ Ausbildung zum Projektleiter [^3]
 
 
 # Die sieben Hauptaufgaben eines Projektleiters in klassischen Projekten 
-<img src="Projektleiter/Die Aufgaben des Projektleiters.png" alt="Die Aufgaben des Projektleiters" width="600"/> 
-
-Die Aufgaben des Projektleiters [vgl.^4]
+<img src="Projektleiter/Die Aufgaben des Projektleiters.png" alt="Die Aufgaben des Projektleiters" width="600"/>(vgl.[^4])
 
 ## 1. Projektdefiniton
 Sofern die Ziele nicht konkret durch einen Arbeitgeber definiert wurden, muss der Projektleiter diese möglichst realistisch und präzise festlegen. Zudem ist er auch für die Dokumentation des Projektauftrags zuständig, um sie dem Lenkungsausschuss für die Genehmigung des Projekts vorweisen zu können. 
