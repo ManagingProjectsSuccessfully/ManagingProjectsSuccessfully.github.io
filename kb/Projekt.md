@@ -62,7 +62,7 @@ Siehe auch [Projektplanung](Projektplanung.md).
 * Kapazitätspläne
 * Kommunikationspläne
 * Kostenpläne
-* Qualitätspläne
+* Qualitätspläne (siehe auch: [Qualitätsmanagement](Qualitätsmanagement.md) und [Qualitätssicherung](Qualitätssicherung.md))
 * Risikomanagement
 
 ## Durchführung
@@ -105,6 +105,8 @@ Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einz
 * [PRINCE2 7 Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
 * [PRINCE2 7 Prozesse](PRINCE2_7_Prozesse.md)
 * [PRINCE2 Projektumgebung](PRINCE2_Projektumgebung.md)
+* [Qualitätsmanagement](Qualitätsmanagement.md)
+* [Qualitätssicherung](Qualitätssicherung.md)
 
 
 
