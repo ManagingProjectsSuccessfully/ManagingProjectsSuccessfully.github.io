@@ -8,7 +8,7 @@ anrechnung: a
 # Agiles Manifest 
 
 Das „Manifesto for Agile Software Development“ oder auch kurz unter dem Namen „Agiles Manifest“ (engl.: Agile Manifesto) bekannt, wurde im Februar 2001 von 17 projekterfahrenen Software-Entwicklern verabschiedet[^2]. 
-Sie kamen in einer Lodge im Snowbird-Skigebiet für drei Tage zusammen, um zu reden, Ski zu fahren und eine gemeinsame Basis zu finden[^1]
+Sie kamen in einer Lodge im Snowbird-Skigebiet für drei Tage zusammen, um zu reden, Ski zu fahren und eine gemeinsame Basis zu finden[^1].
  
 Es besteht aus 4 Leitsätzen und 12 Prinzipien.
 Das agile Manifest ist ein Meilenstein und bietet zu gleich die Grundlage für agiles [Projektmanagement](Projektmanagement.md)[^2].
@@ -31,6 +31,7 @@ Wichtig hier anzumerken ist, dass für die 17 Unterzeichner die Werte auf der re
 In der folgenden Grafik sind die vier oben genannten Leitsätze nochmal grafisch dargestellt und zusammengefasst:
 
 ![Beispielabbildung](Agiles_Manifest/AM_Prinzipien.jpeg)
+
 Agiles Manifest - die vier Leitsätze[^4]
 
 
@@ -41,7 +42,7 @@ Agiles Manifest - die vier Leitsätze[^4]
 3. Liefere __funktionierende Software regelmäßig__ innerhalb weniger Wochen oder Monate und bevorzuge dabei die __kürzere Zeitspanne__
 4. FachexpertInnen und EntwicklerInnen müssen während des [Projekts](Projekt.md) __täglich zusammenarbeiten__
 5. Errichte [Projekte](Projekt.md) rund um __motivierte Individuen__. Gib ihnen das __Umfeld__ und die __Unterstützung__, die sie benötigen und vertraue darauf, dass sie die Aufgabe erledigen
-6. Die effizienteste und effektivste Methode, Informationen an und innerhalb eines Entwicklungsteams zu übermitteln, ist im __Gespräch__ von __Angesicht zu Angesicht__.
+6. Die effizienteste und effektivste Methode, Informationen an und innerhalb eines Entwicklungsteams zu übermitteln, ist im __Gespräch__ von __Angesicht zu Angesicht__
 7. __Funktionierende Software__ ist das __wichtigste Fortschrittsmaß__
 8. Agile Prozesse fördern nachhaltige Entwicklung. Die AuftraggeberInnen, EntwicklerInnen und BenutzerInnen sollten ein __gleichmäßiges Tempo auf unbegrenzte Zeit erhalten können__
 9. Ständiges Augenmerk auf __technische Exzellenz__ und __gutes Design__ fördert Agilität
@@ -52,7 +53,7 @@ Agiles Manifest - die vier Leitsätze[^4]
 
 # Heutige Bedeutung
 
-Wie schon am Anfang erwähnt, bildet das Agile Manifest bis heute die Grundlage für das Agile [Projektmanagement](Projektmanagement.md). Im Laufe der Jahre sind viele weitere Befürworter hinzugekommen. 
+Wie schon am Anfang erwähnt, bildet das Agile Manifest bis heute die Grundlage für das Agile [Projektmanagement](Projektmanagement.md). Im Laufe der Jahre sind viele weitere BefürworterInnen hinzugekommen. 
 Bis heute wird das agile [Projektmanagement](Projektmanagement.md) gerne neben den klassischen Methoden genutzt und findet sich vielen verschiedenen Methoden mit unterschiedlichen Ausprägungen wieder[^2].
 
 
