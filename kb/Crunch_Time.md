@@ -1,104 +1,46 @@
 ---
 title: Crunch_Time
-tags: agil klassisch
+tags: Crunch time Projektmanagement Zeitmanagement
 author: SimonM211
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Crunch_Time um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Wenn man ein Projekt managet läuft nicht immer alles nach Plan. Durch unvorhersehbar auftretende Probleme oder einfach nur durch schlechtes [Projektmanagement](Projektmanagement.md) können Projekte zeitlich in Verzug kommen. Da es in Unternehmen meistens einen festen Zeitplan gibt und Verspätungen vermieden werden sollen, wird die verlorene Zeit häufig einfach durch Mehrarbeit der Mitarbeiter wieder aufgeholt. Dieses insbesondere für die Softwareentwicklung typische Phänomen nennt man Crunch Time.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Ursachen
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Crunch Time tritt immer dann auf, wenn ein Projekt in Zeitverzug kommt[^1]. Die Gründe dafür können natürlich vielfältig sein. Irgendwann im Verlauf des Projekts muss es einen Punkt geben, an dem etwas nicht so läuft, wie geplant. Entweder ist bereits in der Planung etwas schiefgelaufen, oder es tritt im Verlauf des Projekts ein Fehler auf, der nicht adäquat behoben wird. Eine schlechte Projektplanung, eine mangelnde Vorbereitung, zu geringe Ressourcen oder zu optimistische Annahmen können dazu führen, dass das Projekt trotz optimaler Ausführung nicht innerhalb des gesetzten Zeitplans fertig werden kann. Während des Projekts auftretende Verzögerungen können unter anderem durch ein schlechtes Projektmanagement, durch zu wenig Kommunikation, oder eine unklare Rollenverteilung im Team auftreten. Unvorhersehbare Störungen, wie der dauerhafte oder temporäre Ausfall eines Teammitglieds, oder eine Forderung des Kunden nach zusätzlichen Features können zusätzliche negative Faktoren sein. Meist wird die Crunch Time dann als der einzige Ausweg gesehen das Projekt noch innerhalb des gesetzten Zeitraums zu vollenden, ohne dass es scheitert oder erst nach der Deadline abgeschlossen werden kann[^2].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Folgen
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Die in der Regel negativen Folgen von Crunch Time betreffen sowohl das Projekt als auch die Mitarbeiter des Unternehmens. Für dieses kommen meist auch noch finanzielle Einbußen hinzu. Die Mitarbeiter stehen in dieser Phase des Projekts in der Regel unter sehr großem Stress und müssen viele Überstunden machen. Damit einher gehen potenziell negative Folgen für ihr Privatleben und ihre Psyche. Da die Mehrarbeit natürlich bezahlt wird, führen die Überstunden somit natürlich auch zu höheren Kosten des Projekts[^3]. Im Projektmanagement stehen dabei immer die drei Größen der Zeit, der Kosten und des Umfangs des Projekts im Konflikt. Ist das Projekt im Verzug, kann dies entweder durch höhere Kosten oder einen niedrigeren Leistungsumfang kompensiert werden. Sollen alle drei Faktoren eingehalten werden, hat dies negative Auswirkungen auf die Qualität des Ergebnisses[^4].
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+![Magisches Dreieck im Projektmanagement](Crunch_Time/Magisches-Dreieck-Mint.png)
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+*Magisches Dreieck im Projektmanagement[^5]*
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# Lösungen
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Crunch_Time/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Ein gutes Projektmanagement ist essenziell, um Crunch Time zu vermeiden. Zur Planung gehört es natürlich die Ursachen zu vermeiden, also neben der genauen und realistischen [Zeitplanung](Zeitplanung.md), auch ein gutes Ressourcenmanagement und regelmäßige Kommunikation im Team[^6]. Dabei ist dies insbesondere im klassischen Projektmanagement teils nur schwer umzusetzen, wodurch die Chance, dass es hier häufig zu Crunch Time kommt, erhöht ist. Ein möglicher Ansatz das Problem durch ein gutes Management des Projekts zu lösen ist durch agiles Projektmanagement[^7]. Ansätze wie [Scrum](SCRUM.md) oder [Kanban](Kanban.md) bieten eine höhere zeitliche Flexibilität, und eine regelmäßige Kontrolle des Fortschritts. Dies kann dazu beitragen Crunch Time, wenn möglich zu vermeiden, eine Garantie dafür gibt es aber natürlich nicht[^8]. Ist ein Projekt bereits in Verzug kann man sich auch nach anderen Lösungen umsehen. Dazu zählen beispielsweise, das Hinzuziehen von Mitarbeitern aus anderen Projekten zur Unterstützung, die parallele Bearbeitung von Schritten, die ursprünglich nacheinander geplant waren, oder das Weglassen weniger wichtiger Features[^9].
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Crunch_Time.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Projektmanagement](Projektmanagement.md)
+* [Scrum](SCRUM.md)
+* [Anforderungsmanagement](Anforderungsmanagement.md)
+* [Aufwands und Kosten Kontrolle](Aufwands_Kosten_Kontrolle.md)
+* [Zeitplanung](Zeitplanung.md)
+* [Magisches Dreieck](Magisches_Dreieck.md)
+* [Kanban](Kanban.md)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Crunch Time](http://www.projectmanagementguide.org/project-management/crunch-time)
+[^2]: [Warum scheitern Projekte?](https://pm-blog.com/2009/07/04/warum-scheitern-projekte/)
+[^3]: [Crunch time in software development: a theory](https://elib.uni-stuttgart.de/bitstream/11682/11110/1/Master%20Thesis_Ruzica%20Jozin.pdf)
+[^4]: [What Is the Project Management Triangle?](https://www.coursera.org/articles/project-management-triangle)
+[^5]: [Magisches Dreieck im Projektmanagement](https://www.factro.de/blog/projekte-erfolgreich-managen/)
+[^6]: [Tips for Improving Bad Time Management to Boost Productivity and Reduce Stress](https://www.freshbooks.com/hub/productivity/poor-time-management?fb_dnt=1)
+[^7]: [Projektmanagement-Methoden: klassisch, agil und hybrid](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden_node.html;jsessionid=87298AEC46E44A72560858EBF7715CBD.delivery2-master)
+[^8]: [10 Scrum benefits and how to realize them](https://searchsoftwarequality.techtarget.com/tip/10-Scrum-benefits-and-how-to-realize-them)
+[^9]: [Erste-Hilfe bei Projektverzögerungen](https://www.zeitblueten.com/news/projektmanagement-verzoegerungen/)
