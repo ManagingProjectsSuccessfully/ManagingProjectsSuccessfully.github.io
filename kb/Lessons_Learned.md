@@ -12,7 +12,7 @@ Entscheidend hierbei ist das neu erlangte Wissen, sowie die positiven und negati
 
 # Zweck von Lessons Learned? 
 
-Die gleichen oder ähnliche Fehler bei der Durchführung eines Projekts zu wiederholen, kann durch eine konsequente Umsetzung der <b>Lessons Learned</b> kann vermieden werden. Außerdem können Ansätze, die gut funktioniert haben, identifiziert werden und bei der Umsetzung des nächsten Projekts angewandt werden.<br> <b>Lessons Learned</b> bietet somit zum einen den Vorteil aufgetretene Fehler beim nächsten Mal besser zu machen, sowie bereits gut funktionierendes Verhalten zu identifizieren und für zukünftige Projekte zu übernehmen. <hr> 
+Die gleichen oder ähnliche Fehler bei der Durchführung eines Projekts zu wiederholen, kann durch eine konsequente Umsetzung der <b>Lessons Learned</b> vermieden werden. Außerdem können Ansätze, die gut funktioniert haben, identifiziert werden und bei der Umsetzung des nächsten Projekts angewandt werden.<br> <b>Lessons Learned</b> bietet somit den Vorteil aufgetretene Fehler beim nächsten Mal vermeiden zu können, sowie bereits gut funktionierendes Verhalten zu identifizieren und für zukünftige Projekte zu übernehmen. <hr> 
 
 
 # Ablauf
@@ -46,11 +46,13 @@ Durch den späten Zeitpunkt des Workshops kommt es teilweise dazu, dass die Mitw
 Eine weitere Schwierigkeit besteht in Stakeholdern, die nicht glauben, dass sich etwas durch die <b>Lessons Learned</b> verändern wird. Sie zeigen deshalb wenig Bereitschaft am Prozess teilzunehmen und ihre Sicht der Dinge offenzulegen. Aus diesem Grund ist es umso wichtiger die zuvor genannten Punkte zu befolgen und die Erkenntnisse nicht nur zu sammeln, sondern auch weiterzureichen und umzusetzen[^4]. <hr>
 
 # Einordnung 
-<b>Lessons Learned</b> finden sowohl im agilen als auch im [klassischen](https://managingprojectssuccessfully.github.io/kb/Projektmanagement.html) Projektmanagement Anwendung. Es ist zwar ähnlich zu der Sprint-Retrospektive, allerdings ist der Zeitpunkt und Häufigkeit der Durchführung unterschiedlich. Während die [Sprint-Retrospektive]( https://managingprojectssuccessfully.github.io/kb/Retrospective.html) am Ende eines Sprints erfolgt (also ungefähr alle 4 Wochen), findet das <b>Lessons Learned</b> am Ende eines Projekts statt. Damit werden die Verbesserungen, anders als bei den Sprint-Retros, erst im nächsten Projekt verwendet.
+<b>Lessons Learned</b> finden sowohl im agilen als auch im [klassischen](https://managingprojectssuccessfully.github.io/kb/Projektmanagement.html) Projektmanagement Anwendung. Es ist zwar ähnlich zu der Sprint-Retrospektive, allerdings ist der Zeitpunkt und Häufigkeit der Durchführung unterschiedlich. Während die [Sprint-Retrospektive]( https://managingprojectssuccessfully.github.io/kb/Retrospective.html) am Ende eines Sprints erfolgt (also ungefähr alle 4 Wochen), findet das <b>Lessons Learned</b> am Ende eines Projekts statt. Damit werden die Verbesserungen, anders als bei den Sprint-Retros, erst im nächsten Projekt bzw. dessen [Planung](https://managingprojectssuccessfully.github.io/kb/Projektplanung.html) verwendet. <br><hr>
 
+# Weiterführende Literatur
+- Rhodes, Lucy; Dawson, Ray (2013): Lessons Learned from Lessons Learned. In: Know. Process Mgmt. 20 (3), S. 154–160. DOI: 10.1002/kpm.1415.
+- Wellman, Jerry (2007): Lessons learned about lessons learned. In: Organization Development Journal 25 (3), S. 65.
 
 # Quellen
-
 [^1]: OECD – DAC (2002) Glossary of Key Terms in Evaluation and Results Based Management. Evaluation and Aid Effectiveness
 [^2]: Rowe, S. F. & Sikes, S. (2006). Lessons learned: taking it to the next level. Paper presented at PMI® Global Congress 2006—North America, Seattle, WA. Newtown Square, PA: Project Management Institute.
 [^3]: Dr. Georg Angermeier: https://www.projektmagazin.de/glossarterm/lessons-learned
