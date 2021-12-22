@@ -5,11 +5,6 @@ author: kutaydogan
 anrechnung: a
 ---
 
-Kurzbeschreibung zu Scrum_Artefakte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
 # Scrum Artefakte
 Es gibt im [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und „Produktinkrement“. Diese haben jeweils einen übergeordneten Leitgedanken, der dabei helfen sollen, in allen Ebenen einen Überblick zu behalten.[^1]
 
