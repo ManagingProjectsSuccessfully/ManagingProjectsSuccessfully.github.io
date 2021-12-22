@@ -49,7 +49,7 @@ Der Anteil der erneuerbaren Energien am deutschen Stromverbrauch lag 2020 bereit
 Der Anteil der erneuerbaren Energien am gesamten Energieverbrauch – also Strom, Wärme und Verkehr – beträgt mittlerweile fast 20 Prozent. [^3]
 Ein negativer Aspekt ist jedoch der schleppende Netzausbau. [^3]
 
-![Derzeitiger Stand](https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_bdcc5b1633.png)[^6]
+![Derzeitiger Stand](https://www.co2online.de/fileadmin/_processed_/4/9/csm_strom-energietraeger_bdcc5b1633.png)[^7]
 
 # Kritik
 Bereits im Jahr 2013 kritisierten viele Experten, dass der Klimawandel und eine Reaktion in Form der Energiewende ein gesamtgesellschaftliches Problem sind. Folglich sollte dieses mit einem gemeinsamen Konzept und nicht individuell gelöst werden.[^8]
