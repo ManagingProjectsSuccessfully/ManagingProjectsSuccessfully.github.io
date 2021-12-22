@@ -2,103 +2,83 @@
 title: Awork_PM_Tool
 tags: agil klassisch
 author: sophiej26
-anrechnung: k oder a
+anrechnung: k 
 ---
+Awork ist eine Software der HQLabs GmbH, gegründet 2012, mit Sitz in Hamburg. Das awork Projektmanagement-Tool eignet sich sowohl für klassische als auch agile Projekte. Zielsetzung des Unternehmens, unter dem Produktfokus "keep it simple"[^8], ist die Schaffung eines einfachen und intuitiven Organisations-Tools[^1]. 
+# Welche Funktionen bietet awork?
+## 1. Projekte 
+Mit awork kann gemeinsam an mehreren [Projekten](Projekt.md) gearbeitet werden. Dazu können unterschiedliche Projekte angelegt werden, sowie Einladungen an Teammitglieder versendet werden. Der Projektsteckbrief kann mit allgemeinen Projektdaten ausgefüllt werden und liefert somit einen Überblick über Teammitglieder, Kunden, Projektart und Projektstatus[^7]. 
+## 2. Aufgaben 
+Innerhalb der Projekte werden die Aufgaben über To-Do-Listen organisisert. Zudem ermöglicht awork die Erstellung
+wiederkehrender Aufgaben[^10]. Zur Visualisierung der Aufgaben kann eine Timeline oder ein Kanban-Board verwendet werden[^9]. 
+## 3. Visualisierung mit Gantt-Chart 
+Awork bietet die Möglichkeit mit einem [Gantt-Diagramm](Gantt_Diagramme.md), also einer Timeline, den zeitlichen Ablauf eines Projekts zu visualisieren. Relevante Aufgaben können dafür per Drag-and-Drop in die Timeline gezogen werden. Zudem können Meilensteine, Abhängigkeiten und Projektphasen definiert werden[^3]. 
+![Beispielabbildung](Awork_PM_Tool/Timeline.png)
+## 4. Kanban-Boards
+Das [Kanban-Board](Kanban.md) kann individuell angepasst werden und dient der Abbildung des Arbeitsablaufs[^6]. 
+## 5. Integrierte Zeiterfassung 
+Awork ermöglicht das Tracken der Zeit für Projekte und Aufgaben über einen Timer oder die nachträgliche Eintragung über das Zeiterfassungsfenster. Zudem gibt es eine Zeitauswertung, welche auch graphisch angezeigt werden kann. Über die Integrationen von Abrechnungstools können dort die Zeiten automatisch übernommen werden[^5].
+## 6. Individuelle Dashboards 
+Auf dem Dashboard[^2], der graphischen Benutzeroberfläche, können relevante Funktionen übersichtlich abgelegt werden, was eine bedarfsorientierte und individuelle Anpassung ermöglicht. 
+Dafür können verschiedene Widgets ausgewählt werden, beispielsweise Textnotiz, Aufgabenliste, Projektliste, Zeitauswertung und Abwesenheit von Usern[^4].
+![Beispielabbildung](Awork_PM_Tool/Dashboard_Bild.jpg)
+## 7. Weitere Funktionen
+* Überblick über Auslastung, Teamplanung und Abwesenheit mit der Ressourcenplanung 
+* Aufgabenchat: Teamkommunikation und Feedback 
+* Zuweisung von Rechten an Teammitglieder und Externe durch das Rechtemanagement 
+* Automatisiertes Projektmanagement z.B.: smarte Mailings[^1] 
+# Preise 
+Nach den 14 Tagen der kostenlosen Testversion sind nur zahlungspflichtige Abonnements möglich. Die Premium Version wird für Teams bis etwa 50 User empfohlen. Bei monatlicher Zahlung sind es für einen Nutzer 12€, bei jährlicher Zahlung 10€ pro Monat und bei zweijährlicher Zahlung 8€ pro Monat. Die Enterprise Version richtet sich an größere Organisationen und kostet pro Nutzer bei jährlicher Zahlung 15€ pro Monat und bei zweijährlicher Zahlung 12€ pro Monat[^1]. 
+# Auf welchen Geräten kann man awork verwenden? 
+Für die Arbeit mit awork wird nur ein Browser benötigt. Die Software funktioniert plattformunabhängig. Zusätzlich gibt es eine App für iOS und Android[^1]. 
+# Welche Integrationen gibt es? 
+Bei awork können verschiedene Anwendungen integriert werden. Für viele Tools gibt es eine direkte Möglichkeit der Integration. Andere Tools können über Zapier, ein verküpfender Web-Service, integriert werden[^11]. 
 
-Kurzbeschreibung zu Awork_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Beispiele: 
+* Google-, Apple-Kalender 
+* Abrechnungstools 
+* Microsoft Teams, Slack 
+* Google Drive[^1]
+# Support
+Bei awork gibt es unterschiedliche Angebote zur Unterstützung der Nutzer: 
+* Blog auf der Homepage 
+* Helpcenter 
+* Webinare über Zoom 
+* Buchbare Beratungstermine[^1]
+* Aufgezeichnete Webinare und Interviews auf YouTube[^11]
+# Vor- und Nachteile von awork 
+Vorteile: 
+* Umfassender Support 
+* Hoher Grad an Individualisierung 
+* Zeiterfassung 
+* Integration von Tools 
+* Einfache & intuitive Bedienung 
+* Serverstandorte in Deutschland mit ISO 27001 Zertifizierung 
+* Erfüllung der EU-Datenschutz-Grundverordnung (DSGVO) 
+* Möglichkeit für Feedback, Wünsche und Ideen[^1]
+* Weiterentwicklung durch Releases neuer Funktionen[^8]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Awork_PM_Tool/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Nachteile: 
+* Keine kostenlose Basisversion 
+* Sprachen nur Deutsch und Englisch 
+* Kein klassisches Dokumentenmanagement[^3] 
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Awork_PM_Tool.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
+* [Projektmanagementsoftware](Projektmanagementsoftware.md)
+* [Übersicht Projektmanagement Tools](Uebersicht_PM_Tools.md)
+* [Asana Projektmanagement Tool](Asana_PM_Tool.md)
+* [ClickUp Projektmanagement Tool](ClickUp_PM_Tool.md)
+* [Stackfield Projektmanagement Tool](Stackfield_PM_Tool.md)
+* [Trello Projektmanagement Tool](Trello_PM_Tool.md)
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Das Orga-Tool, über das Teams sich freuen](https://www.awork.io/produkt/)
+[^2]: [Dashboard](https://www.businessinsider.de/gruenderszene/lexikon/begriffe/dashboard/)
+[^3]: [Der awork Test](https://pm-tools.info/projektmanagement-software-reviews/awork-test-und-kosten-aus-hamburg/?cn-reloaded=1)
+[^4]: [Individuelle Dashboards](https://blog.awork.io/neues-feature/jetzt-neu-individuelle-dashboards-in-awork/)
+[^5]: [Individuelle Zeitauswertung für dich und dein Team](https://www.awork.io/blog/jetzt-neu-die-individuelle-zeitauswertung-fuer-dich-und-dein-team/)
+[^6]: [Mit Kanban deinen Workflow optimieren](https://www.awork.io/blog/mit-kanban-deinen-workflow-optimieren-stop-starting-start-finishing/)
+[^7]: [Projekte planen und organsisieren mit awork](https://www.youtube.com/watch?v=zTEa2inVWZU)
+[^8]: [Roadmap](https://www.awork.io/roadmap/)
+[^9]: [Visuelle Planung](https://www.awork.io/blog/visuelle-planung-in-awork/)
+[^10]: [Webinar: Aufgaben managen](https://www.youtube.com/watch?v=bomHrZfe-SU)
+[^11]: [Webinar: Integrationen in awork](https://www.youtube.com/watch?v=A1Hk5oDAiNY)

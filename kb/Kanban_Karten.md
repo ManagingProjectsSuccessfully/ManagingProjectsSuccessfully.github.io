@@ -1,104 +1,61 @@
 ---
-title: Kanban_Karten
-tags: agil klassisch
-author: MoritzBock
-anrechnung: k oder a
+Title: Kanban_Karten
+Tags: Klassisch
+Author: MoritzBock
+Anrechnung: k
 ---
 
-Kurzbeschreibung zu Kanban_Karten um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+[Kanban](Kanban.md) wörtlich aus dem japanischen Übersetzt bedeutet „visuelle Karte / Zeichen“. Mit dem Ziel einen transparenten Workflow zu generieren und Ausschuss zu vermeiden, sollten ursprünglich die einzelnen Arbeitselemente im Prozess auf einzelnen, damals aus Papier bestehenden, sogenannten Kanban-Karten abgebildet werden. Die einzelnen Arbeitselemente können so den gesamten Prozess über verfolgt werden. Diese Kanban-Karten wiederum werden auf dem [Kanban-Board](Kanban_Boards.md) festgehalten.
+Die Karten bilden das Kernelement eines Kanban-Systems. Sie enthalten viele wichtige Informationen zu den Aufgaben: Status, Aufgabenübersicht, Verantwortliche, Frist, etc. Sie dienen außerdem als Informationsknotenpunkt, da sie frei zugänglich sind und erhöhen somit auch die Transparenz des Gesamtprozesses. Durch die Informationsteilung, wird zudem der Bedarf an Meetings zum Informationsaustausch reduziert.
+Inzwischen wurden die physischen Kanban-Modelle Großteils durch digitale Online-Lösungen ersetzt. Die digitalen Kanban-Karten sind nun besser zugänglich und können ortsunabhängig eingesehen werden. Darüber hinaus können die Karten ansprechender und übersichtlicher gestaltet werden[^1][^2].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Aufbau einer Kanban-Karte
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+![Kanban-Karte_physisch](Kanban_Karten/Kanban-Karte_physisch.jpg)
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+*Beispiel einer physischen Kanban-Karte [^3]*
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Die Kanban-Karten haben in der Regel eine Vorder- und eine Rückseite. Die Vorderseite zeigt grundlegende Informationen zur Aufgabe, wie: Beschreibung, Titel, Bearbeiter, Zyklusdauer, Priorität und Unteraufgaben. Die Vorderseite dient also dem Erlangen eines schnellen Überblicks, da sie auf dem [Kanban-Board](Kanban_Boards.md) direkt einsehbar ist. Die Rückseite bildet Details ab. Hier können wichtige Kennzahlen und Informationen vermerkt werden, eigene Kommentare erstellt werden sowie Dateien und externe Links angehängt werden[^1].
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Folgende Informationen könnten auf der einer Kanban-Karte abgebildet werden:
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Kanban_Karten/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
+| Information | Beschreibung |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Kanbanart | Es sollte leicht erkennbar sein, um welche [Kanbanart](https://de.wikipedia.org/wiki/Kanban#Kanban-Karten) es sich handelt. |
+| Kanban-Karten-Nr. / Kanban-ID | Kanban-Karten sind durch eindeutige Kennzeichnungen markiert. |
+| Gesamt-Anzahl der Kanban-Karten | Es sollte sowohl erkennbar sein, wie viele Kanban-Karten für einen Artikel im Umlauf sind, als auch um die wievielte Karte es sich bei diesem Exemplar handelt. |
+| Artikel-Nr. | Die Artikel-Nr. entspricht der Nummer aus dem MRP-System |
+| Artikel-Bezeichnung | Die Bezeichnung des Artikels entspricht der Bezeichnung des MRP-Systems |
+| Kanban-Menge | Die Kanban-Menge ist die Menge, die von der [Kanbanart](https://de.wikipedia.org/wiki/Kanban#Kanban-Karten) betroffen ist, also beispielsweise produziert wird. |
+| Quelle / Lieferant | Je nach [Kanbanart](https://de.wikipedia.org/wiki/Kanban#Kanban-Karten) wird hier der Fertigungsbereich, Lieferanten-Nummer und Name, oder der Lagerbereich angegeben. |
+| Lagerort an der Quelle | Der konkrete Lagerort ist wichtig, um Suchzeiten gering zu halten. |
+| Ziel / Verbraucher | Zielbereich wo die Kanban-Menge verbraucht oder umgelagert wird. |
+| Lagerort am Ziel | Konkreter Lagerort im Zielbereich |
+| Produktbild | Zur Visualisierung des Artikels auf der Kanban-Karte. |
+| Barcodes | Barcodes dienen der Beschleunigung der EDV-Eingabe der Kanban-Karten. |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+[^2][^3]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# Gestaltung einer Kanban-Karte
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Aufgrund von unterschiedlichen Arbeitsweisen und Prioritäten, werden Kanban-Karten in der Regel speziell auf die individuellen Anforderungen des Unternehmens angepasst. Wichtig hierbei ist, dass stets alle für das Projekt wichtigen Informationen abgebildet werden. Dementsprechend finden nicht immer alle der oben aufgeführten Angaben Einzug auf die Kanban-Karten. Zur besseren Übersichtlichkeit können bei der Gestaltung auch Farbcodes eingesetzt werden. Angestellte erkennen auf diese Weise direkt anhand der Farbe der Karte beispielsweise um welche [Art von Kanban](https://de.wikipedia.org/wiki/Kanban#Kanban-Karten) es sich handelt [^3].
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kanban_Karten.md)
+* [Kanban](Kanban.md)
+* [Kanban-Boards](Kanban_Boards.md)
+* [Kanban_Pull_Prinzip](Kanban_Pull_Prinzip.md)
+* [Kanban_Swim_Lanes](Kanban_Swim_Lanes.md)
+* [Kanban_Work_in_Progress](Kanban_Work_in_Progress.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Kanban - der Weg ist das Ziel](https://link.springer.com/content/pdf/10.1007/978-3-540-34338-7_4.pdf)
+* [Lean Six Sigma - Methoden zur Produktionsoptimierung](https://link.springer.com/content/pdf/10.1007%2F978-3-662-63008-2.pdf)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Was ist eine Kanban-Karte?](https://kanbanize.com/de/kanban-ressourcen/kanban-erste-schritte/was-ist-kanban-karte)
+[^2]: [Überblick zu Kanban](https://de.wikipedia.org/wiki/Kanban#Kanban-Karten)
+[^3]: [Kanban-Kartengestaltung](https://www.lean-production-expert.de/kanban-kartengestaltung)
 
