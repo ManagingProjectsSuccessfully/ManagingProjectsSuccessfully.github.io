@@ -44,9 +44,6 @@ Ein weiterer Faktor, der einen wichtigen Einfluss auf die Verantwortung hat, ist
 
 *Alle wollen Verantwortung übertragen* [^6]
 
-
-
-
 > Management bedeutet Verantwortung für Ergebnisse 
 [^7]
 
