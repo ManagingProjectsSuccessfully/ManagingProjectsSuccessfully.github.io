@@ -34,7 +34,7 @@ Der Zweck des Daily Scrums ist es, den Fortschritt in Richtung des Sprint Ziels 
 
 -	[Sprint Review](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Sprint_Review.md)
 
-Sinn des Sprint Reviews ist es, das Ergebnis des Sprints zu überprüfen und künftige Änderungen festzulegen. Die Ergebnisse der Arbeit werden den wichtigsten Stakeholdern vom Scrum Team vorgestellt. Anschließend werde diese Fortschritte diskutiert[^3].
+Sinn des Sprint Reviews ist es, das Ergebnis des Sprints zu überprüfen und künftige Änderungen festzulegen. Die Ergebnisse der Arbeit werden den wichtigsten Stakeholdern vom Scrum Team vorgestellt. Anschließend werden diese Fortschritte diskutiert[^3].
 
 -	[Sprint Retroperspective](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Retrospective.md)
 
