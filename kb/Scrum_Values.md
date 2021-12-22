@@ -19,7 +19,7 @@ Das Konzept definiert fünf verschiedene Werte, die für den Erfolg von großer 
 
 Commitment im Kontext von [Scrum](SCRUM.md) bezeichnet die Hingabe, mit der eine Aufgabe erledigt wird und bezieht sich auf das Handeln und die Intensität des Einsatzes. Dabei geht es nicht um das Endergebnis, da dieses für komplexe Herausforderungen unter komplexen Umständen oft unsicher und unvorhersehbar ist. Unabhängig davon ist Commitment ein wichtiger Scrum-Wert, der das Verhalten der Akteure bestimmt.[^1]   
 
-Nachfolgend ein paar Beispiele:
+Nachfolgend ein paar Beispiele:[^1]
 
 *	Engagement für Team und Zusammenarbeit
 *	(Selbst-)Verpflichtung zur Qualität
@@ -35,7 +35,7 @@ Unter dem Wert Fokus ist in erster Linie die Fokussierung auf die Erreichung des
 
 Die Empirie von [Scrum](SCRUM.md) erfordert Transparenz, Offenheit und Ehrlichkeit. Der Erfolg agiler Arbeitsweisen basiert darauf, den gemeinsamen Arbeitsfortschritt transparent zu machen und regelmäßig aus den Ergebnissen zu lernen. Offenheit bedeutet, dass jedes Teammitglied seine Bedenken zu einem Vorgehen äußert oder eigene Schwierigkeiten offenlegt[^4].  
 
-Die Akteure sind offen für:
+Die Akteure sind offen für:[^1]
 
 *	die Zusammenarbeit über Disziplinen, Fähigkeiten und Berufsbilder hinweg
 *	die Zusammenarbeit mit Interessensgruppen und dem weiteren Umfeld
