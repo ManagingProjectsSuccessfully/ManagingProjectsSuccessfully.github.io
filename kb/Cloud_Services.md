@@ -40,7 +40,7 @@ Eine Community Cloud ist im Prinzip eine Public Cloud, ist jedoch auf einen best
 # 3. Vorteile der Cloud Services
 * Effizienz und höhere Skalierbarkeit:
 
-Cloud-basierte Services wie E-Mail-Hosting, Produktivitäts-Apps und E-Commerce-Plattformen können je nach Bedarf problemlos und schnell nach oben bzw. unten skaliert werden und zu beliebiger Zeit zugegriffen werden. [^1][^2]
+Cloud-basierte Services wie E-Mail-Hosting, Produktivitäts-Apps und E-Commerce-Plattformen können je nach Bedarf problemlos und schnell nach oben bzw. unten skaliert werden und zu beliebiger Zeit aufgerufen werden. [^1][^2]
 * Kostengünstig:
 
 Cloud-Technologiedienste sind in der Regel viel günstiger als der Aufbau, die Wartung und das Management Ihres eigenen Rechenzentrums.[^1][^2]
