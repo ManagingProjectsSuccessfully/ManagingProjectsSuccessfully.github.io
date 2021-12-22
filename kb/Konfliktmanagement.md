@@ -29,18 +29,18 @@ Im Folgenden sind einige dieser Möglichkeiten aufgelistet:
 
 [^7]
  
-Mit Hilfe dieser Untergliederung, kann man auf die einzelnen Konflikte mit bestimmten Lösungsansätzen besser und schneller reagieren.
+Mit Hilfe dieser Untergliederung, kann man auf die einzelnen Konflikte mit bestimmten Lösungsansätzen, wie beispelsweise der Rasic-Matrix oder ausgeprägtem Verhandlungsgeschick, besser und schneller reagieren.[^7]
 
 
 
-# 1.Erkennen, analysieren und lösen eines Konflikts am Beispiel des Rollenkonflikts
+# 1. Erkennen, analysieren und lösen eines Konflikts am Beispiel des Rollenkonflikts
 
 Ein Rollenkonflikt im Allgemeinen ist eine Auseinandersetzung von zwei oder mehreren Personen eines Projektteams,
 die sich uneinig über die Aufgabenverteilung sind.[^7]
 Deswegen ist es wichtig im klassischen Projektmanagement 
 „Rollen, also Status, Aufgaben und Verantwortungsbereiche der einzelnen Teammitglieder, bei Projektstart“[^8] klar voneinander abzugrenzen und zu verteilen.
 
-## 1.1„Using RASIC Roles for Successful Collaborations“[^9]
+## 1.1 „Using RASIC Roles for Successful Collaborations“[^9]
 
 Mithilfe der R.A.S.I.C Matrix kann im klassischen Projektmanagement vorab die Rollenverteilung veranschaulicht und verwaltet werden,
 wobei die Abkürzung R.A.S.I.C für Responsible, Accountable, Support, Informed und Consultet steht.[^7]
@@ -54,23 +54,18 @@ Im Folgenden ist eine solche RASIC [Matrix] (https://wirtschaftslexikon.gabler.d
 *Rasic-Matrix*
 
 
-Hier ist gut erkennbar, dass durch eine solche [Matrix](Matrix_Projektorganisation.md) vereinfacht dargestellt werden kann, 
-welcher Mitarbeiter für welche Tätigkeit zuständig ist.
+Durch die Abbildung lässt sich zeigen, dass eine solche [Matrix](Matrix_Projektorganisation.md) vorab erstellt werden kann, um Auseinandersetzungen bezüglich der Rollenverteilung, die während des Projekts entstehen können, zu vermeiden. „Sollte es nun doch vorab zu Uneinigkeiten in Bezug auf die Aufgabenverteilung kommen, ist die Erstellung einer RASIC-Matrix ein gutes Instrument, um Transparenz und Klärung herbeizuführen.“ [^8]
 
 
-# 2. Fazit und Kritik am Konfliktmanagement in Bezug auf das klassische und agile Projektmanagement
+# 2. Fazit und Kritik am Konfliktmanagement in Bezug auf unterschiedliche Projektmanagement-Ansätze
 
-Letztendich stellt sich die Frage, ob Konfliktmanagement im klassischen Projektmanagement sinnvoll ist.
-Die Antwort ist, ja. 
-Konflikte lassen sich durch einige Methoden wie beispielsweise die R.A.S.I.C. Matrix im klassischen Projektmanagement
-schon bei der anfänglichen Planung des Endzustandes eines Projektes erkennen und vermeiden.[^12]
+## 2.1 Kritik
 
-Jedoch ist dies selbstverständlich nicht zu verallgemeinern, 
-da Menschen in beispielsweise Werte- und Beziehungskonflikten mit Emotionen Handeln und deshalb teilweise nicht abschätzbar ist,
-wann ein solcher Konflikt entsteht.[^7]
-In dieser Hinsicht bietet sich der Ansatz des agilen Projektmanagements an, 
-da hier in „zeitlich begrenzten Zyklen (Sprints) [ge]arbeite[t] [wird], 
-um flexibel auf Veränderungen zu reagieren“[^13] und besser auf spontan auftretende Konflikte eingegangen werden kann.
+Menschen handeln beispielsweise in Werte- und Beziehungskonflikten aus Emotionen heraus.[^7] Deshalb ist es teilweise nicht abschätzbar, wann einer dieser Konflikte entsteht. Um darauf besser eingehen zu können ist der Ansatz des agilen Projektmanagement von Vorteil, da hier in „zeitlich beschränkten Zyklen (Sprints) [ge]arbeite[t] [wird], um flexibel auf Veränderungen zu reagieren“[^12] „Agiles Projektmanagement gilt [somit] als Antwort auf die Nachteile klassischer Methoden, wenn beispielsweise Anforderungen nicht im Vorhinein präzise und nachvollziehbar formuliert werden können“.[^13]
+
+## 2.2 Fazit
+
+Wie bereits erwähnt ist "eines der westenlichen Elemente des Konfliktmanagements [] die Fähigkeit, mögliche Konflikte und Konfliktpotenziale bereits im Vorfeld zu erkennen und entsprechende verhandlungsstrategien zu entwickeln,um den Konflikt gar nicht erst entstehen zu lassen"[^8]. Folglich stellt sich zuletzt die Frage, ob Konfliktmanagement im klassischen Projektmanagement sinnvoll ist. Die Antwort ist, ja. Konflikte lassen sich durch einige Methoden, wie beispielsweise die R.A.S.I.C. Matrix, im klassischen Projektmanagement schon bei der anfänglichen Planung des definierten Endzustandes eines Projektes erkennen und vermeiden.[^14] Bezüglich der Kritik wäre es jedoch möglich den Ansatz des hybriden Projektmanagements in betracht zu ziehen, da hierbei die positiven Eigenschaften des Projektmanagements übernommen werden und die negativen Aspekte ersetzt werden durch innovative Ideen des agilen Projektmanagements.[^14]
 
 
 
@@ -99,5 +94,8 @@ um flexibel auf Veränderungen zu reagieren“[^13] und besser auf spontan auftr
 [^9]: [iDOGrants, How to Use a R.A.S.I.C Roles, Accountability and Responsibility Matrix (20.4.2018)](https://idogrants.org/2018/04/20/how-to-use-a-r-a-s-i-c-roles-accountability-and-responsibility-matrix/)
 [^10]: [Vgl. Responsibility assignment matrix (last edit: 11.10.21)](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 [^11]: [Bildquelle: Amber Bezahler, RASCI 101: How to move from chaos to order (2.4.2019)](https://medium.com/@abezahler/rasci-101-how-to-move-from-chaos-to-order-5b25db0869f4)
-[^12]: [Vgl. Nadine Ebel, Projektmanagement](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden)
-[^13]: [Mahir Kulalic, Was ist agiles Projektmanagement? (19.09.2021)](https://www.factro.de/blog/agiles-projektmanagement/)
+[^12]: [Mahir Kulalic, Was ist agiles Projektmanagement? (19.09.2021)](https://www.factro.de/blog/agiles-projektmanagement/)
+[^13]: [Nadine Ebel, Projektmanagement](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden)
+[^14]: [Vgl. Nadine Ebel, Projektmanagement](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden)
+
+
