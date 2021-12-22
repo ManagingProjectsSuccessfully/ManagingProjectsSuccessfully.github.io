@@ -47,14 +47,15 @@ Die Betrachtung der Projektarten verdeutlicht die unterschiedlichen Charakterist
 
 # Siehe auch
 
-* [Link auf diese Seite](Projektarten.md)
+* [Bauprojekte](Bauprojekte.md)
+* [Innovationsprojekte](Innovationsprojekte.md)
+* [Öffentliche Projekte](Oeffentliche_Projekte.md)
+* [Open-Source-Projekte](Open_Source_Projekte.md)
 
 # Weiterführende Literatur
 
 * [Die Projekt-Methode](https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6386614)
-
 * [Projekdefinition und Arten](https://www.youtube.com/watch?v=Wv70nDefyNk)
-
 * [Das PMO in der Praxis](https://www.gpm-ipma.de/fileadmin/user_upload/Know-How/studien/201410_PMO_Studie_web.pdf)
 
 
