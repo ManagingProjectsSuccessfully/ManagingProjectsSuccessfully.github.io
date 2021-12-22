@@ -5,7 +5,7 @@ author: lucas100700
 anrechnung: a
 ---
 
-Der nachfolgende Artikel beschäftigt sich mit dem Projektmanagement beim Automobilhersteller Tesla. Zu Beginn wird das Unternehmen kurz vorgestellt und die PM-Methoden bei Tesla charakterisiert. Tesla arbeitet hier im Vergleich zu anderen Unternehmen in der Automobilbranche bevorzugt mit agilen Methoden. Aufgrund deren Implementierung kann Tesla im Gegensatz zu seinen Konkurrenten stetig neue Verbesserungen im Bereich Software und Technik anbieten. Im Anschluss wird näher auf den Einsatz von SCRUM im Fahrzeug eingegangen. Dieses Framework ermöglicht es Tesla, kurzfristig auf Kundenwünsche oder Marktbedürfnisse zu reagieren. Abschließend werden noch die daraus resultierenden Vor- und Nachteile gegenübergestellt.
+Der nachfolgende Artikel beschäftigt sich mit dem Projektmanagement beim Automobilhersteller Tesla. Zu Beginn wird das Unternehmen kurz vorgestellt und die Projektmanagement-Methoden bei Tesla charakterisiert. Tesla arbeitet hier im Vergleich zu anderen Unternehmen in der Automobilbranche bevorzugt mit agilen Methoden. Aufgrund deren Implementierung kann Tesla im Gegensatz zu seinen Konkurrenten stetig neue Verbesserungen im Bereich Software und Technik anbieten. Im Anschluss wird näher auf den Einsatz von SCRUM im Fahrzeug eingegangen. Dieses Framework ermöglicht es Tesla, kurzfristig auf Kundenwünsche oder Marktbedürfnisse zu reagieren. Abschließend werden noch die daraus resultierenden Vor- und Nachteile gegenübergestellt.
 
 # Das Unternehmen Tesla 
 
