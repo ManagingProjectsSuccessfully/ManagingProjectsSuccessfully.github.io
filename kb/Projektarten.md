@@ -34,7 +34,7 @@ Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen interne
 
 # Bedeutung für Projektmanagement
 
-Die Zuordnung von Projekten in unterschiedliche Projektarten ist für das [Projektmanagement](Projektmanagement.md) von enormer Bedeutung. Da sich die Projektarten hinsichtlich ihrer Kosten und Risiken teilweise deutlich unterscheiden, muss dies bei der Planung berücksichtigt werden. 
+Die Zuordnung von Projekten in unterschiedliche Projektarten ist für das [Projektmanagement](Projektmanagement.md) von enormer Bedeutung. Da sich die Projektarten hinsichtlich ihrer Kosten und Risiken teilweise deutlich unterscheiden, muss dies bei der Planung berücksichtigt werden.[^7]
 
 Die Differenzierung nach verschiedenen Projektarten erleichtert zunächst, sich einen Überblick über die Projektlandschaft im Unternehmen zu verschaffen.[^3] Dies ist vor allem dann sinnvoll, wenn eine große Anzahl an Projekten parallel gemanagt werden soll. Jedes Projekt erfordert eine andere Vorgehensweise durch die Einmaligkeit ihrer Bedingungen. 
 
@@ -66,5 +66,6 @@ Schlussendlich dient die Differenzierung in verschiedene Projektarten als Grunds
 [^4]: [Anwendungsbezogenes Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-662-52974-4.pdf)
 [^5]: [Herausforderungen an das Projektmanagement: Unterschiedliche Arten von Projekten.](https://www.youtube.com/watch?v=Ar-qjMOsh7U)
 [^6]: [Projektarten: Routine-Projekt? Groß-Projekt? Innovations-/Change-Projekt?](https://www.youtube.com/watch?v=6L393nHIOS8)
-[^7]: [Projekt-Arten (-Charakter) - Definition](https://www.kraus-und-partner.de/wissen-und-co/wiki/projekt-arten-charakter-projekte-beratung)
+[^7]: [Projekt-Arten(-Charakter)-Definition](https://www.kraus-und-partner.de/wissen-und-co/wiki/projekt-arten-charakter-projekte-beratung)
+
 
