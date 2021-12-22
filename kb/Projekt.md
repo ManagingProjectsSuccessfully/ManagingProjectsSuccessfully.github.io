@@ -20,11 +20,11 @@ In diesem Zusammenhang kann man den zeitlichen Aspekt eines Projektes erkennen. 
 
 Der Begriff Projekt wird in weiteren Quellen ähnlich definiert.
 
-## A Guide to the Project Management Body of Knowledge (PMBOK® Guide):
+## A Guide to the Project Management Body of Knowledge ([PMBOK Guide](PMBOK_Guide.md)):
 
 „Ein Projekt ist ein zeitlich begrenztes Vorhaben mit dem Ziel, ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis zu schaffen.“ [^3]
 
-## Leitfaden zur methodischen Prüfungsvorbereitung (PRINCE2®):
+## Leitfaden zur methodischen Prüfungsvorbereitung ([PRINCE2 7 Grundprinzipien](PRINCE2_7_Grundprinzipien.md)):
 
 „Eine für einen befristeten Zeitraum geschaffene Organisation, die den Auftrag hat, mindestens ein Produkt entsprechend einem vereinbarten Business Case zu liefern.“ [^4]
 
