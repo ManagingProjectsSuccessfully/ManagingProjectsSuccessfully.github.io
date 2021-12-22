@@ -12,13 +12,13 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 # Definition
 
-Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, die über das Internet on demand Zugriff auf Anwendungen und Ressourcen zur Verfügung stellen, ohne eine spezielle Infrastruktur oder Hardware vorauszusetzen. Beliebte Cloud-Services sind zum Beispiel E-Commerce-Applikationen oder Produktivitäts-Applikationen wie E-Mails. [^1][^2]
+Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, die über das Internet on demand Zugriff auf Anwendungen und Ressourcen zur Verfügung stellen, ohne eine spezielle Infrastruktur oder Hardware vorauszusetzen. Beliebte Cloud-Services sind zum Beispiel E-Commerce-Applikationen oder Produktivitäts-Applikationen wie E-Mails, die eine [digitale Kommunikation](https://github.com/DaLob98/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitale_Kommunikation.md) ermöglichen. [^1][^2]
 
 # 1.Verschiedene Cloud Service Modelle
 
 | Typ                          | Beschreibung   |
 | ---------------------------- | -------------- |
-| Software as a Service (SaaS) | SaaS ist der bekannteste Cloud Service Typ, da zu dieser breiten Kategorie vielfältige Services gehören, wie zum Beispiel: Speicherung und Sicherung von Dateien oder webbasierte E-Mail-Angebote. SaaS wird auch als Software on demand bezeichnet und erleichtert die Kollaboration zwischen weit entfernten Teammitgliedern.[^1][^2][^3]   |
+| Software as a Service (SaaS) | SaaS ist der bekannteste Cloud Service Typ, da zu dieser breiten Kategorie vielfältige Services gehören, wie zum Beispiel: Speicherung und Sicherung von Dateien oder webbasierte E-Mail-Angebote. SaaS wird auch als Software on demand bezeichnet und leistet ihren Beitrag zur [Digitalisierung im Projektmanagement](https://github.com/Viktoria1412/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM.md).[^1][^2][^3]   |
 | Infrastructure as a Service (IaaS)| IaaS liefert die Infrastruktur, die viele Cloud-Service-Provider zur Verwaltung von SaaS-Tools benötigen. Sie funktioniert wie das vollständige Framework eines Rechenzentrums, bietet Server und Storage und macht damit ressourcenintensive lokale Installationen unnötig. Typische Beispiele für IaaS sind Amazon Web Services (AWS), Microsoft Azure und Google Compute Engine, wobei diese die gesamte Speicherserver- und Networking-Hardware zur Verfügung stellen und darüber hinaus wichtige Funktionen wie Load Balancing und Anwendungsfirewalls bieten.[^1][^2] |
 | Patform as a Service (PaaS)       |PaaS ist ein Cloud-Service-Modell, das Entwicklern eine webbasierte Umgebung bietet, um Apps zu entwickeln und einzusetzen. PaaS bietet Datenbanken, Betriebssysteme und Programmiersprachen, die Unternehmen verwenden können, um cloudbasierte Software zu entwickeln, ohne sich um die zugrunde liegenden Komponenten kümmern zu müssen. Außerdem verfügen viele IaaS-Provider auch über ein PaaS-Angebot.[^1][^2][^3] |
 | Function as a Service (FaaS)      | FaaS-Anbieter stellen immer wieder gebrauchte Funktionen auf eine einfache Weise zur Verfügung. Somit können beliebte Funktionen oder auch Funktionen mit hohen Rechenleistungen ausgelagert werden.[^3]|
@@ -52,8 +52,8 @@ Es stehen auf Wunsch mehrere Clouds und Supercomputer zur Verfügung, zudem kön
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cloud_Services.md)
+* [Digitale Kommunikation](https://github.com/DaLob98/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitale_Kommunikation.md)
+* [Digitalisierung im Projektmanagement](https://github.com/Viktoria1412/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM.md)
 
 # Weiterführende Literatur
 
