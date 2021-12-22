@@ -10,7 +10,7 @@ Dazu zählt unter anderem die Eigenschaft, dass gewisse Tätigkeiten nur einmal 
 eine zeitliche, finanzielle sowie personelle Begrenzung. Zusätzlich wird für die Durchführung des Projekts eine projektspezifische Organisation gebildet. 
 Innerhalb eines Projekts schließen sich mehrere Personen zusammen, damit alle Aufgaben erledigt werden können. 
 Hierzu findet man weitere Infos unter [Who_is_Who_Projectmanagement](Who_is_Who_Projectmanagement.md). 
-Im weiteren Verlauf eines Projekts werden verschiedene Ressourcen eingekauft, kombiniert und koordiniert. [^1]
+Im weiteren Verlauf eines Projekts werden verschiedene Ressourcen ([Ressourcenplanung](Ressourcenplanung.md)) eingekauft, kombiniert und koordiniert. [^1]
 
 Der Begriff Projekt lässt sich vom lateinischen Wort proicere ableiten, dass so viel bedeutet wie abwerfen.
 Substantiviert man das Wort und bildet das Partizip Perfekt erhält man den Begriff proiectum. Übersetzt bedeutet das: Das nach vorn Geworfene.
@@ -114,7 +114,8 @@ Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einz
 * [Projektabschlussbericht](Projektabschlussbericht.md)
 * [Who_is_Who_Projectmanagement](Who_is_Who_Projectmanagement.md)
 * [Stakeholderanalyse](Stakeholderanalyse.md)
-* [ ]( .md)
+* [Ressourcenplanung](Ressourcenplanung.md)  
+* []( .md) 
 
 
 
