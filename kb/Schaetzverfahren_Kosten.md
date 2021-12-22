@@ -5,12 +5,12 @@ author: Sven017
 anrechnung: k 
 ---
 
-# Schätzungen als Prozess um Kosten eines Projekts zu bestimmen
+# Schätzungen als Prozess um Kosten zu bestimmen
 
 Schätzungen gehören tagtäglich zu einer zentralen Aufgabe im Bereich des Projektmanagements. 
 Es ist kein einmaliger Prozess, der am Anfang eines [Projekts](Projekt.md) stattfindet, sondern ist vielmehr ein kontinuierlicher Prozess, 
 welcher sich von Anfang bis zum Ende des gesamten Projekts hindurch zieht [^1]. 
-Diese Schätzungen bzw. [Schätzverfahren](Schaetzverfahren_Aufwaende.md) werden dazu verwendet, um unter anderem die [Kosten](Kostenplanung.md) eines Projekts 
+Diese Schätzungen bzw. Schätzverfahren werden dazu verwendet, um unter anderem die [Kosten](Kostenplanung.md) eines Projekts 
 besser abschätzen zu können. Somit können beispielsweise unrentable Projekte ausfindig gemacht werden, welche Aufgabe dann den 
 [Projektleiter](Projektleiter.md)/-[mitglieder](Projektmitglieder.md) unterliegt, diese Kosten entsprechend den Vorgaben anzupassen 
 oder das [Projekt rechtzeitig einzustellen](Projektabbruch.md). Mit diesem Prozess können so unnötige Kosten eingespart werden. 
@@ -39,7 +39,7 @@ wie auch die [Bottom-up](Bottom_Up_Planning.md) Schätzung am weitläufigsten ve
 
 [Darstellung der Schätzverfahren](https://www.bertkoch.de/schaetzverfahren-pm)
 
-## Kostenverlauf beim Schätzen
+# Kostenverlauf beim Schätzen
 
 Mit der Einführung dieser Methoden gelingt es die Projektrisiken zu minimieren und einen kostentreuen Projektverlauf zu gestalten (Msg-systems, 2013). 
 Wobei man in den ersten Phasen noch nicht genau bestimmen kann, wie hoch diese Kosten sein werden. 
@@ -71,7 +71,7 @@ Schätzungen liegen daher auch mal 50 Prozent oder mehr unterhalb realistischer 
 des [Projektteams](Projektteam_Kultur.md). Dies führt dazu, dass das Geld nicht reicht und das Projekt mit dem vorgegebenen Budget nicht durchführbar ist. 
 Eine zu hohe Schätzung dagegen ist kaum festzustellen, da bei jedem Projekt der Kostenrahmen vollständig ausgeschöpft wird. 
 Der [Business Case](Business_Cases.md) rechnet sich nicht und das Projekt kann dadurch an Mitbewerber verloren werden.
-Ob der geschätzte Kostenrahmen realistisch war, lässt sich im Nachhinein schwer feststellen, da das Projektmanagement großen Einfluss 
+Ob der geschätzte Kostenrahmen realistisch war, lässt sich im Nachhinein schwer feststellen, da das [Projektmanagement](Projektmanagement.md) großen Einfluss 
 auf die verbrauchten Aufwände eines Projekts hat [^3].
 
 
@@ -79,7 +79,16 @@ auf die verbrauchten Aufwände eines Projekts hat [^3].
 
 # Siehe auch
 
-* [Schätzverfahren Aufwände](Schaetzverfahren_Aufwaende.md)
+* [Aufwands_Kosten_Kontrolle](Aufwands_Kosten_Kontrolle.md)
+* [Kosten_Nutzen_Analyse](Kosten_Nutzen_Analyse.md)
+* [Kosten_Trend_Analyse](Kosten_Trend_Analyse.md)
+* [Projektcontrolling](Projektcontrolling.md)
+
+
+
+# Weiterführende Literatur
+
+
 
 
 # Quellen
