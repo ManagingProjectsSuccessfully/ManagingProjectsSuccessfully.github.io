@@ -5,11 +5,11 @@ author: {ow79arux}
 anrechnung: k 
 ---
 
-# Definition
+# Definition des Integrationsmanagements
 Das Integrationsmanagement ist ein Teilgebiet des [Projektmanagements](https://de.wikipedia.org/wiki/Projektmanagement) und dient dazu alle Prozesse und Vorgänge, welche Teil des Projekts sind, zu koordinieren und an alle Prozessgruppen anzupassen.[^1]
 
 
-# Prozesse 
+# Prozessschritte
 Bei erfolgreicher Anwendung des Integrationsmanagements kann man erkennen, dass der Ablauf in kleine einzelne Schritte aufgeteilt ist. Es zieht sich also vom Entwickeln des Projektauftrages bis hin zum Abschluss des Projekts hin.
 
 ![image](https://user-images.githubusercontent.com/92979613/142760466-3cb71557-6d49-4938-822f-5e84b1ad5eda.png)
