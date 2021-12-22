@@ -30,8 +30,8 @@ Da wird die Softwarearchitektur, die in der Design-Phase erarbeitet wurde, in de
 ##  4. Überprüfung:
 In der Überprüfungsphase werden Designtests und die Integration auf verschiedenen Betriebssystemen bereitgestellt. Die nun gefundenen Fehler müssen umgehend behoben werden. Dies ist in der Regel sehr aufwendig, da die Fehler meist auf frühere Phasen zurückzuführen sind.[^10] 
 
-##  5. Einführung und Wartung: 
-das Endprodukt wird an der Kunde geliefert und der erhält noch die Einweisung dazu. Das Projektteam wird der Kunde für zukünftige Wartungs- und Anpassungsarbeiten verantwortlich.
+##  5. Wartung und Einführung: 
+Nach Abschluss aller Tests wird das fertige Produkt in Betrieb genommen und schließlich an den Kunden ausgeliefert. In dieser letzten Phase kann das Produkt immer wieder optimiert und aktualisiert werden.[^11] 
 
 # Eigenschaften der Wasserfall-Modell:
 Man ordnet die Aktivitäten in einer Reihenfolge und dazu führt man es in der vollständigen Breite komplett, außerdem es ist leicht zu verstehen und easy machbar. Darüber hinaus es ist ein sequenzielles Vorgehensmodell, damit ist gemeint, dass jede Phase erst anfängt, wenn die letzte erfolgreich abgeschlossen ist.[^3]
@@ -80,6 +80,7 @@ Das Modell bringt auch paar kritische Punkte mit wie:
 [^8]: https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
 [^9]: https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
 [^10]: https://www.factro.de/blog/wasserfallmodell/
+[^11]: https://www.factro.de/blog/wasserfallmodell/
 * https://www.teamazing.de/was-ist-das-wasserfallmodell/
 * https://management.bildungsbibel.de/projektmanagement-wasserfallmodell-softwareentwicklung-phasen
 * https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
