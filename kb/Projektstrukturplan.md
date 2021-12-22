@@ -72,7 +72,7 @@ Nun zu den großen Vorteilen des Projektstrukturplanes. Die einzelnen Aufgaben s
 # Quellen
 
 [^1]: [In 6 Schritten zum Projektstrukturplan](https://dieprojektmanager.com/projektstrukturplan/)  
-[^2]: https://coman-software.com/projektstrukturplanung-neu-gedacht-vorteile-von-objektorientiertem-projektmanagement/?gclid=EAIaIQobChMIqbGvisiJ9AIVkuR3Ch2Y5wX2EAMYAyAAEgLeT_D_BwE 
+[^2]: [Projektstrukturplanung neu gedacht: Vorteile von objektorientiertem Projektmanagement](https://coman-software.com/projektstrukturplanung-neu-gedacht-vorteile-von-objektorientiertem-projektmanagement/?gclid=EAIaIQobChMIqbGvisiJ9AIVkuR3Ch2Y5wX2EAMYAyAAEgLeT_D_BwE)
 [^3]: https://www.workbreakdownstructure.com/de/
 [^4]: https://www.microtool.de/wissen-online/was-ist-ein-projektstrukturplan/  
 [^5]: https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektplanung/projektstrukturplan/#podcast-player
