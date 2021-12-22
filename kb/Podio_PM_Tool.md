@@ -5,7 +5,7 @@ author: Paulqe42kuno
 anrechnung: a
 ---
 
-[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationshop-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können. Podio unterstützt die individuelle Arbeitsweise sowie das flexible, strukturierte, kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe, indem es ihnen einen Überblick über Arbeitschritte, Ergebnisse, Budget, Zeit, Datein sowie weiterer wichtiger Informationen liefert [^1][^3]. Die Firma Podio Europe hat ihren Hauptsitz in Kopenhagen, Dänemark[^3].
+[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationship-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können. Podio unterstützt die individuelle Arbeitsweise sowie das flexible, strukturierte, kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe, indem es ihnen einen Überblick über Arbeitsschritte, Ergebnisse, Budget, Zeit, Dateien sowie weiterer wichtiger Informationen liefert [^1][^3]. Die Firma Podio Europe hat ihren Hauptsitz in Kopenhagen, Dänemark[^3].
 
 # Geschichte
 
@@ -17,18 +17,18 @@ Seit 2012 ist Podio Teil des US-amerikanische Softwareunternehmen [Citrix-System
 
 ## Apps
 ### PodioApps
-Die Nutzer haben durch das cloudbasierte CRM-System die Möglichkeit eine Vielzahl von Apps ihrem Konto hinzuzufügen. Dafür existiert innerhalb von Podio ein App Market der     nach Funktion und Branche sortiert ist. Die Apps bieten die Möglichkeit Informationen zu organisieren, zu visualisieren und mit internen Mitarbeitenden oder externen Partein zu  teilen [^1]. Falls eine gewünschte Funktion einer App noch nicht auf dem Market bedient wird, haben Benutzer die Möglichkeit über ein Drag and Drop Interface eigene Apps zu erstellen. Dabei wurden bereits über eine Millionen Apps von Benutzern entwickelt [^4].
+Die Nutzer haben durch das cloudbasierte CRM-System die Möglichkeit eine Vielzahl von Apps ihrem Konto hinzuzufügen. Dafür existiert innerhalb von Podio ein App Market der     nach Funktion und Branche sortiert ist. Die Apps bieten die Möglichkeit Informationen zu organisieren, zu visualisieren und mit internen Mitarbeitenden oder externen Parteien zu teilen [^1]. Falls eine gewünschte Funktion einer App noch nicht auf dem Market bedient wird, haben Benutzer die Möglichkeit über ein Drag and Drop Interface eigene Apps zu erstellen. Dabei wurden bereits über eine Millionen Apps von Benutzern entwickelt [^4].
 ### Reporting
 Mit den Daten aus den Apps des Kunden können durch Filter und Report Optionen Salespipelines automatisiert und Projektbudgets verfolgt werden[^4].
 ### Workflows
 Apps können durch das Workflow-Feature mit einer Wenn-Dann-Funktion programmiert werden. So erstellt eine App beispielsweise eine Aufgabe sobald ein Eintrag erstellt wird [^4].
 ### Webformulare
-Von Podio gehoste Webformulare können in Websites integriert werden, wie beispielsweise eine Kontaktseite. Die Informationen gelangen direkt in die Podio Apps [^4]. 
+Von Podio gehostete Webformulare können in Websites integriert werden, wie beispielsweise eine Kontaktseite. Die Informationen gelangen direkt in die Podio Apps [^4]. 
 ### Podio Share
 Durch Podio Share können Appeinträge, wie beispielsweise ein [Projekt](Projekt.md) aus einer Projekt App, intern und extern geteilt werden [^4].
 
 ## Workspaces
-Workspaces dienen zur organisation von [Projekten](Projekt.md) und der Zusammenarbeit in Projekten. Dabei können interne und externe Mitglieder einem Workspace zugeordnet werden. Alle Mitarbeitenden einer Organisation können den Workspace sehen und bei belieben beitreten. In den Einstellungen kann eine eingeschränkte Mitgliedschaft eingestellt werden. Dabei können Mitarbeitende per Einladung beitreten [^1][^4]. 
+Workspaces dienen zur Organisation von [Projekten](Projekt.md) und der Zusammenarbeit in Projekten. Dabei können interne und externe Mitglieder einem Workspace zugeordnet werden. Alle Mitarbeitenden einer Organisation können den Workspace sehen und bei Belieben beitreten. In den Einstellungen kann eine eingeschränkte Mitgliedschaft eingestellt werden. Dabei können Mitarbeitende per Einladung beitreten [^1][^4]. 
 
 Im Mitarbeiternetzwerk von Podio werden alle Mitarbeitenden einer Organisation in einem Workspace vernetzt [^4]. 
 
@@ -39,9 +39,9 @@ Die GoToMeeting App von Podio ermöglicht Besprechungen [^4].
 
 ## Aufgaben Datein & Kalenderfunktionen
 ### Aufgaben-Managment
-Auf einer [Aufgabenliste](Aufgabenteilung.md) sieht der Benutzer alle Aufgaben für die er verantwortlich ist. Die Aufgaben können priorisiert und geteilt werden. Aufgaben, die regelmäßig erledigt werden, können wiederkehrend eingestellt werden [^4]. 
+Auf einer [Aufgabenliste](Aufgabenteilung.md) sieht der Benutzer alle Aufgaben, für die er verantwortlich ist. Die Aufgaben können priorisiert und geteilt werden. Aufgaben, die regelmäßig erledigt werden, können wiederkehrend eingestellt werden [^4]. 
 ### File sharing
-Datein können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Einen eigenen Filesharing Dienst hat Podio nicht. Dateispeicher die mit Podio verknüpft werden können sind[^4]:
+Dateien können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Einen eigenen Filesharing Dienst hat Podio nicht. Dateispeicher, die mit Podio verknüpft werden können, sind[^4]:
 * Google Drive
 * Dropbox
 * ShareFile
