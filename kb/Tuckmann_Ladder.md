@@ -5,7 +5,7 @@ author: ebressel
 anrechnung: k 
 ---
 
-Im [Projektmanagement](Projektmanagement.md) (PM) verlangen viele Aufgaben nach enger Zusammenarbeit mehrerer Köpfe mit unterschiedlichen Kompetenzen und Denkweisen. Dafür werden Teams gebildet. Damit diese Teamarbeit nicht im unproduktiven Chaos versinkt, braucht es eine koordinierte [Teamentwicklung](https://de.wikipedia.org/wiki/Teambildung). Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie verschiedene Teams die gleichen Phasen der Gruppenentwicklung durchlaufen[^1].
+Im [Projektmanagement](Projektmanagement.md) (PM) verlangen viele Aufgaben nach enger Zusammenarbeit der [Projektmitarbeiter](Projektmitarbeiter.md) mit unterschiedlichen Kompetenzen und Denkweisen - dafür werden Teams gebildet. Damit diese Teamarbeit nicht im unproduktiven Chaos versinkt, braucht es eine koordinierte [Teamentwicklung](https://de.wikipedia.org/wiki/Teambildung). Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie verschiedene Teams die gleichen Phasen der Gruppenentwicklung durchlaufen[^1].
 
 # Das Tuckman-Modell der Gruppenentwicklung - Von Diskrepanz zum Wir-Gefühl
 
