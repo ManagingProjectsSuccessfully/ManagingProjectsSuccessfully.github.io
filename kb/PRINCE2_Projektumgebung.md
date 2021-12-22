@@ -52,7 +52,7 @@ Die Anpassung an die Projektumgebung kann wie in der folgenden Abbildung [^6] er
 
 *Anpassung an die Projektumgebung*
 
-Zum einen können die Techniken/Praktiken durch die Methodik vereinfacht werden. Es wird z.B. auf Dokumente und Berichte verzichtet. 
+Zum einen können die Techniken/Praktiken vereinfacht werden. Es wird z.B. auf Dokumente und Berichte verzichtet. 
 Zum anderen finden Meetings weniger formell, sondern auch mal beim Mittagessen statt. 
 Formate werden aufgrund externer Anforderungen, wie Style-Guides, umgestaltet. 
 Die Zusammenführung von einzelnen Berichten zu einem großen kann zu einer Verschlankung bei [Projekten](Projekt.md) führen. 
