@@ -27,7 +27,7 @@ Die vier Bausteine von [PRINCE2](PRINCE2.md) sind also die:
 
 
 > ## 1. [Sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
-Die Grundprinzipien stellen feste Leitsätze dar und definieren die grundlegenden Regeln. Um ein PRINCE2-Projekt zu initiieren und zu managen ist jedes der sieben Grundprinzipien zu befolgen [^3]. Das Kompendium [Sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md) beschäftigt sich genauer mit der Thematik.
+Sie stellen feste Leitsätze dar und definieren die grundlegenden Regeln. Um ein PRINCE2-Projekt zu initiieren und zu managen ist jedes der sieben Grundprinzipien zu befolgen [^3]. Das Kompendium [Sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md) beschäftigt sich genauer mit der Thematik.
 
 > ## 2. Sieben Themen
 Sie beschreiben den Inhalt von [PRINCE2](PRINCE2.md) bzw. den Inhalt der richtigen Projektstruktur, also wie man eine richtige Projektorganisation erstellt oder wie Reportingstrukturen auszusehen haben. Das sind die Aspekte des Projektmanagements, die kontinuierlich behandelt werden müssen [^4]. 
