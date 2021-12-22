@@ -88,7 +88,6 @@ Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Ver
 [^3]: [ADKAR MODEL EXPLAINED -PART 2- Awareness](https://youtube.com/watch?v=PwwoyzVfsS8)
 [^4]: [Wie das ADKAR Change Management Modell funktioniert](https://mind-force.de/vertrieb/wie-das-adkar-change-management-modell-funktioniert/)
 [^5]: [ADKAR MODEL EXPLAINED -PART 3- Desire](https://youtube.com/watch?v=LNT3Rxci-hU)
-[^6|: [ADKAR: A Model for Change in Business, Government, and Our Community S.30](https://books.google.de/books?hl=de&lr=&id=Te_cHbWv-ZgC&oi=fnd&pg=PA1&dq=adkar+model&ots=1shIh6o-MM&sig=vPU70TCQTX4s3qEokl1fAujTR-E&redir_esc=y#v=onepage&q=adkar%20model&f=false)
 [^7]: [ADKAR MODEL EXPLAINED -PART 5- Ability](https://youtube.com/watch?v=XvIYdQ8Bp5k)
 [^8]: [Ability - The Prosci ADKAR Model](https://www.prosci.com/resources/articles/adkar-model-ability)
 [^9]: [ADKAR MODEL EXPLAINED -PART 6- Reinforcement](https://youtube.com/watch?v=QQjyfN7XoQE)
