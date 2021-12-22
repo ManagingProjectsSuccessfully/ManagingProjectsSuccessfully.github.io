@@ -53,7 +53,7 @@ Umfasst alle firmenspezifischen Begriffe, die für das Verständnis in der Vorge
 
 # Nutzen
 
-Der Nutzen eines Projektmanagementhandbuchs wäre zum Beispiel, dass die Projektleitung erfährt, bei welchen prozentualen Abweichungen von Kosten oder Terminen Gremien oder Vorgesetzte informiert werden müssen. Vorlagen für Statusmeldungen oder Zwischenberichte helfen, Zeit bei der Berichtserstellung zu sparen sowie an alle wichtigen Informationen zu denken, über die berichtet werden muss[^1].
+Der Nutzen eines Projektmanagementhandbuchs wäre zum Beispiel, dass die Projektleitung erfährt, bei welchen prozentualen Abweichungen von Kosten oder Terminen Gremien oder Vorgesetzte informiert werden müssen. Vorlagen für Statusmeldungen oder Zwischenberichte helfen, Zeit bei der Berichtserstellung zu sparen, sowie an alle wichtigen Informationen zu denken, über die berichtet werden muss[^1].
 Es beinhaltet standardisierte Vorgehensweisen für [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), was eine effiziente Durchführung von Projekten fördert, weil dadurch nicht bei jedem Projekt das Vorgehen erneut mühsam erschlossen werden muss. Bereits erprobte und als erfolgreich angesehene Vorgehensweisen werden dokumentiert und können so in zukünftigen Projekten wieder angewendet werden. Außerdem kennen dank des Projektmanagementhandbuch alle Projektbeteiligten und Stakeholder die Abläufe des Projekts und können diese nachverfolgen[^8].
 
 
