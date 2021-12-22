@@ -13,13 +13,11 @@ Aussagekraft in Bezug auf den Arbeitsaufwand und die Geschwindigkeit des Teams h
 Arbeitsmenge, die ein Entwicklungsteam in einem Sprint erledigen kann. Also ist sie ein Maß für die Schnelligkeit des Teams. Sie variiert auch von Sprint zu Sprint, ist also 
 keine konstante Größe innerhalb eines Projekts.[^1]
 
-# Berechnung
+# Darstellung
 Um die Velocity zu berechnen muss man lediglich alle Punkte der vom Entwicklungsteam vollständig abgelieferten User Storys addieren. Mit einem Beispiel lässt sich die 
 Rechnung einfach darstellen. 
 Angenommen man hat drei User Storys, Story A mit 4 Punkten, Story B mit 5 Punkten und Story C mit 7 Punkten. Das Team schafft in einem Sprint nur 
 A und B vollständig und C nicht ganz fertig. So muss man nur die Punkte von A und B addieren und man hat die Velocity. In diesem Beispiel wäre die Velocity 9.[^4]
-
-# Visualisierung
 Die Geschwindigkeit kann man mit Hilfe eines Velocity Charts visualisieren. Man stellt die Vorhersage und die wirkliche Velocity der jeweiligen Sprints gegenüber und kann so 
 Abweichungen darstellen. Daraufhin sollte sich das Team die Gründe für die Abweichungen oder die korrekten Vorhersagen überlegen, um in Zukunft eine noch bessere Planung und 
 Vorhersage treffen zu können[^2].
