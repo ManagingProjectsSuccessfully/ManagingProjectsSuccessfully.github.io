@@ -5,14 +5,16 @@ author: annaflbr
 anrechnung: k
 ---
 
-Beim Zusammenleben und der Zusammenarbeit von Menschen treten durch beispielsweise Meinungsverschiedenheiten, verschiedene Haltungen und Sympathien sowie Antipathien häufig Konflikte auf. Diese sind normal und werden erst zu einer Schwierigkeit, wenn sie eskalieren. [^1]
+Beim Zusammenleben und der Zusammenarbeit von Menschen treten durch beispielsweise Meinungsverschiedenheiten, verschiedene Haltungen und Sympathien sowie Antipathien häufig Konflikte auf. Diese sind normal und werden erst zu einer Schwierigkeit, wenn sie eskalieren. [^1] 
+
+Durch die enge Zusammenarbeit eines Projektteams bei [Projekten](Projekt.md) treten mit hoher Wahrscheinlichkeit Konflikte ein. Hier ist es wichtig ein ausreichenedes [Konfliktmanagement](Konfliktmanagement.md) in das [Projektmanagement](Projektmanagement.md) zu integrieren, um Eskalationen möglichst zu vermeiden oder gegebenenfalls zu deeskalieren.
 
 Unter einer Eskalation versteht man die Intensivierung einer Konfliktsituation durch bestimmte Verhaltensmuster, die bewusst oder intuitiv eingesetzt werden.
-Der Gegensatz hierzu ist die Deeskalation.[^2] 
+Der Gegensatz hierzu ist die [Deeskalation](https://de.wikipedia.org/wiki/Deeskalation).[^2] 
 
 Um eine Eskalation möglichst zu vermeiden oder zu deeskalieren, gibt es verschiedene Ansätze. Hierdurch entstanden verschiedene Modelle zur Analyse und zum Ablauf von Konfliktsituationen.[^1]
 
-# 9 Eskaltionsstufen mit 3 Ebenen nach Friedrich Glasl
+# 9 Eskalationsstufen mit 3 Ebenen nach Friedrich Glasl
 
 ![9-eskalationsstufen](Eskalationsstufen/9-eskalationsstufen.png)
 
@@ -23,7 +25,7 @@ In dieser Ebene kann der Konflikt noch gelöst werden. Beide Parteien würden hi
 
 | 1) Verhärtung  | 2) Polarisation | 3) Taten statt Worte |
 | ------------- | ------------- | ---------------|
-| Hier werden erste Spannungen spürbar und die Fronten verhärten sich. In der ersten Stufe ist die Situation noch harmlos und es treten noch keine Lager- oder Parteibildungen auf.  | Die Gegner versuchen sich durch rationale Argumente zu überzeugen und setzen sich gegenseitig unter Druck. Die Meinungsverschiedenheiten werden fundamentaler und jeder beharrt auf seiner Meinung. | Durch Misstrauen und negativen Erwartungen wird der Konflikt noch mehr verschärft. Gespräche werden frustriert und ergebnislos abgebrochen und die verbale Kommunikation tritt in den Hintergrund.  |
+| Hier werden erste Spannungen spürbar und die Fronten verhärten sich. In der ersten Stufe ist die Situation noch harmlos und es treten noch keine Lager- oder Parteibildungen auf.  | Die Gegner versuchen sich durch rationale Argumente zu überzeugen und setzen sich gegenseitig unter Druck. Die Meinungsverschiedenheiten werden fundamentaler und jeder beharrt auf seiner Meinung. | Durch Misstrauen und negative Erwartungen wird der Konflikt noch mehr verschärft. Gespräche werden frustriert und ergebnislos abgebrochen und die verbale Kommunikation tritt in den Hintergrund.  |
 
 ## 2. Ebene WIN-LOSE
 In der Lose-Win Ebene ist der Konflikt bereits so weit fortgeschritten, dass es nun mehr einen Gewinner und einen Verlierer geben kann.[^3][^4] 
@@ -37,28 +39,30 @@ Ist der Konflikt so weit fortgeschritten, gibt es nur noch Verlierer. Eine Konfl
 
 | 7) Begrenzte Vernichtungsschläge  | 8) Zersplitterung | 9) Gemeinsam in den Abgrund |
 | ------------- | ------------- | ---------------|
-| Der Konflikt gerät außer Kontrolle und die eigentliche Konfliktursache steht lange nicht mehr im Vordergrund. Beide Parteien wollen ihrem Gegner möglichst großen Schaden zufügen. Der mit dem geringeren Schaden fühlt sich hierbei als Gewinner.  | Die gegnerische Konfliktpartei soll so weit wie möglich zerstört werden. In dieser Stufe ist die Anwendung von Gewalt nicht ausgeschlossen.  | Die Parteien sind bereit sich selbst zu vernichten, solange der Gegner mit ihnen untergeht. Wenn ein Konflikt so weit fortschreitet, ist ein lösen des Konfliktes ohne Hilfe nicht mehr möglich. |
+| Der Konflikt gerät außer Kontrolle und die eigentliche Konfliktursache steht lange nicht mehr im Vordergrund. Beide Parteien wollen ihrem Gegner möglichst großen Schaden zufügen. Der mit dem geringeren Schaden fühlt sich hierbei als Gewinner.  | Die gegnerische Konfliktpartei soll so weit wie möglich zerstört werden. In dieser Stufe ist die Anwendung von Gewalt nicht ausgeschlossen.  | Die Parteien sind bereit sich selbst zu vernichten, solange der Gegner mit ihnen untergeht. Wenn ein Konflikt so weit fortschreitet, ist ein Lösen des Konfliktes ohne Hilfe nicht mehr möglich. |
 
 # Kernmechanismen der Eskalation
 In den Konfliktstufen nach Glasl finden sich die fünf Kernmechanismen der Eskalation.[^3]
 
 *	Wachsende Selbstfrustration: 
-Parteien sind frustriert, wenn sie nicht das bekommen, was sie wollen
+Parteien sind frustriert, wenn sie nicht das bekommen, was sie wollen.
 *	Ausweitung der strittigen Themen:
 Die Partei mit den besseren Argumenten gewinnt die Auseinandersetzung, dadurch versuchen die Konfliktparteien mit unwesentlichen Inhalten die Auseinandersetzung für sich zu entscheiden. Hierdurch steigt die Komplexität und der Konflikt wird unübersichtlich.
 *	Wechselseitige Verflechtung von Ursache und Wirkung
 *	Tendenz zum Personifizieren des Konfliktes:
 Einer bestimmten Person wird die Schuld an einer Streitigkeit gegeben, somit wird für das eigene Handeln keine Verantwortung mehr übernommen.
 *	Konflikt-Beschleunigung durch pessimistische Erwartungshaltung: 
-Wenn Parteien überzeugt sind, dass ein Konflikt nicht lösbar ist, führt dies dazu das die Konfliktlösung massiv erschwert wird.
+Wenn Parteien überzeugt sind, dass ein Konflikt nicht lösbar ist, führt dies dazu, dass die Konfliktlösung massiv erschwert wird.
 
 
 # Siehe auch
 * [Konfliktmanagement](Konfliktmanagement.md)
+* [Projektteam Kultur](Projektteam_Kultur.md)
 
 # Weiterführende Literatur
 
 * [9 Eskalationsstufen] (https://www.projektmagazin.de/methoden/9-eskalationsstufen-konfliktmanagement)
+* [Eskalationsmanagement: Vom Konfliktfall zur Problemlösung] (https://www.affinis.de/fachartikel/projektmanagement/eskalationsmanagement-vom-konfliktfall-zur-problemloesung/)
 
 # Quellen
 [^1]: [Eskalationsstufen von Konflikten] (https://www.landsiedel-seminare.de/coaching-welt/wissen/lexikon/eskalationsstufen.html)
