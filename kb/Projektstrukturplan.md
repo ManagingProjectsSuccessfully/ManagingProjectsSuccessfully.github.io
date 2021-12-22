@@ -15,7 +15,7 @@ Die folgende Grafik veranschaulicht die Grundstruktur eines Projektstrukturplans
 
 ![image](https://user-images.githubusercontent.com/92889512/143291435-e333b103-8895-40be-a998-b7c31fa1c2d4.png)
 
-++ Abbildung 1
+_Abbildung 1: Grundstruktur_
 
 # Formen
 Grundsätzlich kann zwischen drei verschiedenen Formen von Projektstrukturplänen unterschieden werden: 
@@ -32,6 +32,7 @@ Die objektorientierte Gliederung eignet sich, wenn das Produkt – also das Erge
 Diese Gliederungsform des Projektstrukturplans behandelt alle Aufgaben bzw. Ebenen als Tätigkeiten. Daher werden Teilprojekte, -aufgaben und Arbeitspakete mit einem Verb wie "Lastenheft erstellen" oder "Zielgruppenanalyse durchführen" beschrieben. In dieser Gliederung können Sie sich aber auch an den Unternehmensfunktionen orientieren wie Vertrieb und Verkauf[^2].
 
 ![funktionsorientierter-projektstrukturplan](https://user-images.githubusercontent.com/92889512/143291782-a9846f29-fcc3-4292-b952-f5cce0bfc891.png)
+_Abbildung 2: Funktionsorienertierter PSP_
 
 Die Grafik stellt den funktionsorientierten Projektstrukturplan für den Bau eines Hauses dar[^3].
 
@@ -39,7 +40,7 @@ Die Grafik stellt den funktionsorientierten Projektstrukturplan für den Bau ein
 In der phasenorientierten Gliederung teilen Sie das Projekt in Arbeitsetappen. Zum Beispiel finden Sie in einem klassischen Projektstrukturplan die Phasen Vorbereitung, Planung und Umsetzung oder beim Hausbau die Phasen Konzept, Firmen, Bau, Abnahme und Rezeption, wie die nachfolgende Grafik verdeutlicht[^3].
 
 ![grafik](https://user-images.githubusercontent.com/92889512/147134392-462a6ff6-5cac-4612-b361-5e572950b55a.png)
-
+_Abbildung 3: Phasenorientierter PSP
 
 Welche Orientierung gewählt wird, steht grundsätzlich frei. Daneben sind auch Mischformen möglich. Das ist in vielen [Projekten](Projekt.md) unumgänglich und sogar notwendig. Allerdings gilt dann folgende Regel: Es muss dieselbe Gliederungsform für die Teilprojekte, Teilaufgaben und Arbeitspakete im Projekt gewählt werden. Man darf ein Teilprojekt bzw. einen Zweig des Projektstrukturplans nicht objektorientiert planen und den anderen Zweig funktionsorientiert. Stattdessen betrachtet man das gesamte Projekt und plant zum Beispiel alle Teilaufgaben objektorientiert und alle Arbeitspakete funktionsorientiert.
 
