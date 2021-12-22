@@ -29,6 +29,9 @@ Ausbildung zum Projektleiter [^3]
 
 
 # Die sieben Hauptaufgaben eines Projektleiters in klassischen Projekten 
+<img src="Projektleiter/Die Aufgaben des Projektleiters.png" alt="Die Aufgaben des Projektleiters" width="600"/> 
+
+Die Aufgaben des Projektleiters [vgl.^4]
 
 ## 1. Projektdefiniton
 Sofern die Ziele nicht konkret durch einen Arbeitgeber definiert wurden, muss der Projektleiter diese möglichst realistisch und präzise festlegen. Zudem ist er auch für die Dokumentation des Projektauftrags zuständig, um sie dem Lenkungsausschuss für die Genehmigung des Projekts vorweisen zu können. 
@@ -54,12 +57,12 @@ Auch wenn ein Projektleiter unter anderem ein [Projektmitarbeiter](Projektmitarb
   1. Die Planung und Durchführung der Weiterbildungsmaßnahmen des Teams 
   2. Bestimmung der Aufgabenteilung im Team  
   3. Das Mitsprachrecht für die Urlaubs- und Abwesenheitsplanung von Mitgliedern 
-  4. Motivator und Initiator des Teams[^1][^4] 
+  4. Motivator und Initiator des Teams[^1][^5] 
 
 ## Zusammenfassung 
 Zusammenfassend kann festgestellt werden, dass ein Projektleiter einer hierarchischen Projektgruppe im klassischen Projektmanagement, in erster Linie Verantwortlich für die Planung und Kontrolle eines Projekts ist. Außerdem ist er während der gesamten Projektdurchführung für die Einhaltung der Fristen und Forderungen zuständig. 
 
-Zudem wird der Beruf Projektleiter sehr gut vergütet. „Laut Glassdoor liegt das durchschnittliche Gehalt eines Projektleiters in Deutschland bei 63.960 € brutto pro Jahr."[^5]Allerdings ist es auch möglich als Projektleiter einen Verdienst von bis zu 90.000€ im Jahr zu erhalten, denn jedes Projekt und jeder Auftraggeber ist verschieden, weshalb ein Projektleiter mit jeder Erfahrung seinen persönlichen Marktwert steigert. 
+Zudem wird der Beruf Projektleiter sehr gut vergütet. „Laut Glassdoor liegt das durchschnittliche Gehalt eines Projektleiters in Deutschland bei 63.960 € brutto pro Jahr."[^6]Allerdings ist es auch möglich als Projektleiter einen Verdienst von bis zu 90.000€ im Jahr zu erhalten, denn jedes Projekt und jeder Auftraggeber ist verschieden, weshalb ein Projektleiter mit jeder Erfahrung seinen persönlichen Marktwert steigert. 
 
 # Siehe auch
 * [Who is Who Projectmanagement](Who_is_Who_Projectmanagement.md) 
