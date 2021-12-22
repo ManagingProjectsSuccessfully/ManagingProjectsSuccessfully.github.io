@@ -79,10 +79,15 @@ Die verschiedenen Methoden der Risikoanalyse fallen entweder unter die Kategorie
 # Risikovisualisierung
 <img align="right" src="./Risikoanalyse_und_Visualisierung/risikovisualisierung.png">
 
+<p style="width: 60%">
+
 > _“Risk visualization is the systematic effort of using images to augment thequality of risk communication alongthe entire risk management cycle”_[^8]
 
 Risikovisualisierung ist der systematische Einsatz von Bildern zur Verbesserung der Qualität der Risikokommunikation während des gesamten Risikomanagementzyklus. Risikovisualisierung ist eine Art von Risikokommunikation. 
 Risikovisualisierung kann sich verschiedener Methoden bedienen, zum Beispiel Bilder, Fotografien, Filme, Grafiken oder Modelle[^9]. Ein bekanntes explizites Beispiel von Risikovisualisierung ist die [Risikomatrix](Risikomatrix.md).
+
+</p>
+<br clear="right"/>
 
 <!-- Add Good/Bad risk vis table from [^8] here!! -->
 
