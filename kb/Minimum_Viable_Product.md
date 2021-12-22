@@ -56,5 +56,5 @@ Das Minimum Viable Product trägt auch einen Teil im [Risikomanagement](Risikoma
 [^5]: [Minimum Viable Product – ein Blog geht live (Scrum@Sciosoft)](https://scrumatsciosoft.de/minimum-viable-product/)
 [^6]: [Modernes Projektmanagement ohne MVP? Undenkbar! (RatbacherBlock)](https://www.ratbacher.de/blog/modernes-projektmanagement-mvp/)
 [^7]: [Innovationsmanagement s.192 ff.(Rolf FrankenSwetlana Franken)](https://link.springer.com/chapter/10.1007%2F978-3-8349-6724-4_4)
-[^8]: [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable (crisp.)](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+[^8]: [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable (crisp.)](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) 
 
