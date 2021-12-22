@@ -1,89 +1,30 @@
 ---
 title: Projekt_Offshoring
-tags: agil klassisch
+tags: agil 
 author: MarleneMMeyer
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Projekt_Offshoring um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Offshoring beschreibt die Auslagerung betrieblicher Aktivitäten ins Ausland, um weiterhin wettbewerbsfähig zu bleiben.[^1] Durch die zunehmende Globalisierung gewinnt die sogenannte „Auslandsverlagerung“ immer mehr an Bedeutung.[^2] Die Umsiedlung der Produktion muss jedoch nicht immer ins Ausland erfolgen, sondern kann auch innerhalb des Herkunftslandes passieren. Dies wird durch den Begriff „Onshoring“ beschrieben.[^3] „Neben multinationalen Konzernen und großen Firmen betreiben zunehmend auch mittelgroße Unternehmen Offshoring.“[^4] Im Gegensatz zum Offshoring, dass die geografische Verlagerung von unternehmerischen Tätigkeiten beschreibt, bezeichnet Outsourcing die organisatorische Verlagerung der Tätigkeiten.[^5] „Der Umfang der ausgelagerten Tätigkeiten geht von einzelnen Teilfunktionen bis hin zu vollständigen Abteilungen und Betriebsstandorten.“[^6] Die Grundvoraussetzung für ein erfolgreiches Offshore-Projekt ist die Zusammenarbeit mit einem zuverlässigen und vertrauenswürdigen Partner im Ausland.[^7]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![Beispielabbildung](Projekt_Offshoring/Offshoring.jpg)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+*Offshoring*[^8]
 
 
-# Aspekt 1
+# Positive Aspekte des Offshoring
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Das Hauptziel des Offshoring ist die Reduktion der Kosten.[^9] Durch die Verlagerung einzelner Teilgebiete, ganzer Abteilungen oder Standorte in Schwellenländer mit niedrigeren Löhnen kann das Unternehmen Lohnkosten einsparen und die eigenen Arbeitskräfte entlasten.[^10] Die im Ausland ansässigen gut qualifizierten Arbeitskräfte sorgen trotz geringerer Gehälter für eine hohe Qualität der Produkte. Außerdem führt die Produktion in anderen Ländern zur Erschließung weitere Absatzmärkte. Neben diesen betriebswirtschaftlichen Gründen gibt es auch politisch-rechtliche Aspekte die für das Offshoring sprechen. Hierzu zählen beispielsweise die in Schwellenländern vorherrschenden niedrigen Umweltstandards und Arbeitnehmerrechte, die die Produktion deutlich vereinfachen. Kürzere Absatzwege und die damit verbundenen niedrigeren Transportkosten zählen zu den technisch-logischen Motiven. Subventionen, Sonderwirtschaftszonen und Steuererleichterungen sorgen für steuerrechtliche Vorteile für die ausländischen Unternehmen.[^11]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Projekt_Offshoring/test-file.jpg)
+# Projekte und Projektbereiche in denen Offshoring betrieben wird
 
-*lustiges Testbild*
+Im Bereich der Software-Entwicklung „werden vielfach Tätigkeiten der Programmierung und Wartung, aber auch des Programm- und Systementwurfs ins Ausland verlagert“.[^12] Konzerne wie IBM, Microsoft und SAP lagern ihre IT-Anwendungsentwicklung in Länder wie beispielsweise Indien oder China aus. Doch nicht nur IT-Dienstleistungen werden ins Ausland verlagert, sondern auch Lektoratstätigkeiten sowie E-Learning-Produktionen. Die Arbeitskräfte in diesen Ländern sind meist genauso qualifiziert und erfahren wie die eigenen Mitarbeiter jedoch sorgt das hier vorherrschende niedrigere Lohnniveau für eine deutliche Kostenersparnis.[^13]
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Kritische Aspekte des Offshoring
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Die Verlagerung zahlreicher Projekte in Niedriglohnländer ist verantwortlich für dem Abbau an Arbeitsplätzen im eigenen Land und für einen steigenden Konkurrenzdruck der lokalen Mitarbeitern mit denen des Partnerunternehmens.[^14] Die Verlagerung der betrieblichen Aktivitäten ins Ausland steigert die Komplexität der Prozesse. Außerdem erhöhen die Sprachbarrieren sowie die oftmals vorhandene Zeitverschiebung die Komplexität der Kommunikation und sorgt für einen hohen Erklärungsbedarf und damit verbundene Fehler in der Projektbearbeitung. „Zudem kann es passieren, dass das Unternehmen durch das Offshoring nicht mehr spontan und flexibel auf etwaige Veränderungen auf den Markt reagieren kann.“[^14] Datenschutzrisiken sowie Rechtsunsicherheiten sind weitere negative Aspekte des Offshoring.[^16] Wie oben bereits angeführt hängt die Zusammenarbeit stark vom jeweiligen Partner ab. Die Unzuverlässigkeit dieses Partners kann zu Terminüberschreitungen oder unpräzisen und fehlerhaften Arbeitsweisen führen.[^17] Missverstände durch die unterschiedlichen Kulturen der beteiligten Länder sowie Defizite in der Infrastruktur des Niedriglohnlandes zählen zu weiteren Gründen, die gegen das Offshoring sprechen.[^18]
 
 
 # Siehe auch
@@ -91,14 +32,23 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Projekt_Offshoring.md)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://www.businessinsider.de/gruenderszene/lexikon/begriffe/offshoring/
+[^2]: https://wirtschaftslexikon.gabler.de/definition/offshoring-54123
+[^3]: https://de.wikipedia.org/wiki/Offshoring
+[^4]: https://de.wikipedia.org/wiki/Offshoring
+[^5]: https://sevdesk.de/lexikon/offshoring/
+[^6]: https://de.wikipedia.org/wiki/Offshoring
+[^7]: https://sevdesk.de/lexikon/offshoring/
+[^8]: https://magenest.com/en/offshoring-advantages-and-disadvantages/
+[^9]: https://www.businessinsider.de/gruenderszene/lexikon/begriffe/offshoring/
+[^10]: https://de.wikipedia.org/wiki/Offshoring
+[^11]: https://de.wikipedia.org/wiki/Offshoring
+[^12]: https://de.wikipedia.org/wiki/Offshoring
+[^13]: https://wirtschaftslexikon.gabler.de/definition/offshoring-54123
+[^14]: https://wirtschaftslexikon.gabler.de/definition/offshoring-54123
+[^15]: https://sevdesk.de/lexikon/offshoring/
+[^16]: https://de.wikipedia.org/wiki/Offshoring
+[^17]: https://sevdesk.de/lexikon/offshoring/
+[^18]: https://de.wikipedia.org/wiki/Offshoring
