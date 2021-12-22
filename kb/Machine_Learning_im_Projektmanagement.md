@@ -41,7 +41,7 @@ Des Weiteren dient Machine Learning dem Projektmanager in der Praxis, Projektver
 
 Aktuell zeigt sich, dass Künstliche Intelligenz und Machine Learning kaum eine Rolle im Bereich des Projektmanagements spielen, obwohl KI längst in unserem Alltag angekommen ist. Wir lassen uns von Algorithmen Bücher und Filme empfehlen, "machen durch Assistenzsysteme die Autofahrt sicherer und sind auf Suchmaschinen angewiesen, um die Masse an verfügbaren Informationen im Internet zu verarbeiten. Also warum nutzen wir diese Technologien so selten im Projektmanagement." [^7]
 
-Auf diese Frage gibt es eigentlich keine plausible Antwort, denn es gibt sie, die zahlreichen Möglichkeiten und Tätigkeitsfelder, in denen der unterstützende Einsatz von ML-Algorithmen hilfreich sein kann. Es würde jedem Projektmanager ein erfolgreicheres und vor allem effizienteres Arbeiten garantieren. Dennoch befindet sich der Beruf im Wandel und wird auch in den kommenden Jahren durch neue Technologien und Innovationen ganz andere Anforderungen mit sich bringen, als dies derzeit der Fall ist. [^8]
+Auf diese Frage gibt es eigentlich keine plausible Antwort, denn es gibt sie, die zahlreichen Möglichkeiten und Tätigkeitsfelder, in denen der unterstützende Einsatz von ML-Algorithmen hilfreich sein kann. Es würde jedem Projektmanager ein erfolgreicheres und vor allem effizienteres Arbeiten garantieren. Dennoch befindet sich der Beruf im Wandel und wird in den kommenden Jahren durch neue Technologien und Innovationen ganz andere Anforderungen mit sich bringen, als dies derzeit der Fall ist. [^8]
 
 # Siehe auch
 
