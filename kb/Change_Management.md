@@ -1,6 +1,6 @@
 ---
 title: Change_Management
-tags: Klassisch Change Management Kotter Lewin Veränderungsmanagement 8-Phasen Modell Hawthorne Projektmanagement 
+tags: Klassisch Change Management Kotter Lewin Veränderungsmanagement 8-Phasen-Modell Hawthorne-Experimente Projektmanagement 
 author: TimSchwehn
 anrechnung: k
 ---
