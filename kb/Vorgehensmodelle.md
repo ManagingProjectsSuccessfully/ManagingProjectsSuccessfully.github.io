@@ -13,13 +13,7 @@ Broy und Kuhrmann[^110] definieren den Begriff Vorgehensmodell folgendermaßen:
 >"Ein Vorgehensmodell beschreibt systematische, ingenieurmäßige und quantifizierbare Vorgehensweisen, um Aufgaben einer bestimmten
 Klasse wiederholbar zu lösen."[^110]
 
-Vorgehensmodelle sind dabei von [Methoden](Methoden.md) zu unterscheiden. In einem Vorgehensmodell können verschiedene Methoden angewandt werden,[^110] die durch das Vorgehensmodell vorgegeben sein können.[^30] Beispielsweise könnte für das [Schätzen der Kosten](Schaetzverfahren_Kosten.md) festgelegt sein, dass eine bestimmte Methode dafür verwendet werden soll, oder offen gelassen werden, ob man die Delphi-Methode, COCOMO oder eine der vielen anderen Methoden nutzt. Abbildung 1 zeichnet einen Überblick über Bestandteile eines Vorgehensmodells.
-
-Beispielsweise gibt es für den Schritt der Aufwandsschätzung eine Vielzahl an Methoden wie Planning Poker, COCOMO, ... und vielen mehr.
-für das Schätzen der Kosten festgelegt sein, ...
-
-Vorgehensmodelle sind dabei von Methoden zu unterscheiden. Beispielsweise könnte für die [Aufwandsschätzung](Schaetzverfahren_Kosten.md) festgelegt sein, welche Methode dafür verwendet werden soll, oder offen gelassen, ob man dafür Planning Poker, COCOMO, ... oder eine der vielen anderen Methoden nutzt.
-Zum Beipsiel gibt es für den Prozess/Phase/... Aufwandsschätzung viele Methoden des Schätzens wie Planning Poker (eine Variante der Wideband-Delphi-Methode (https://t2informatik.de/wissen-kompakt/planning-poker/))
+Vorgehensmodelle sind dabei von [Methoden](Methoden.md) zu unterscheiden. In einem Vorgehensmodell können verschiedene Methoden angewandt werden,[^110] die durch das Vorgehensmodell vorgegeben sein können.[^30] Beispielsweise könnte für das [Schätzen der Kosten](Schaetzverfahren_Kosten.md) festgelegt sein, welche Methode dafür verwendet werden soll, oder offen gelassen, ob man die Delphi-Methode, COCOMO oder eine der vielen anderen Methoden nutzt. Abbildung 1 zeichnet einen Überblick über Bestandteile eines Vorgehensmodells.
 
 ![Bestandteile eines Vorgehensmodells](Vorgehensmodelle/Bestandteile_eines_Vorgehensmodells.png)
 Abbildung 1: Bestandteile eines Vorgehensmodells[^90]
