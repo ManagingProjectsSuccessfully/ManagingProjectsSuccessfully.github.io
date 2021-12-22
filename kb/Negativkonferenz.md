@@ -18,7 +18,7 @@ Die Negativkonferenz wird in der Literatur auch als "Umkehrdiagramm" bezeichnet 
 
 ## Beispiel
 
-Wenn das Reduzieren der Fehlerquote in einer Fabrik die Aufgabenstellung ist, so dreht die Kopfstandtechnik diese um und sucht nach möglichen Wegen, die Fehlerquote zu erhöhen. 
+Wenn die Aufgabenstellung erfordert, die Fehlerquote in einer Farbik zu verringern, so dreht die Kopfstandtechnik diese um und sucht nach möglichen Wegen, die Fehlerquote zu erhöhen. 
 Durch das Umkehren der Erkenntnisse darüber, wie man etwas verschlechtern kann, ist es nun wiederum möglich, zu neuen Verbesserungsideen
 zu gelangen.[^2]
 
