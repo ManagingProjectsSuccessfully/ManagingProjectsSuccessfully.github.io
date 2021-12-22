@@ -2,103 +2,128 @@
 title: Global_Project_Management_Survey
 tags: agil klassisch
 author: danielleilei
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Global_Project_Management_Survey um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Global Project Management Survey dienen dazu, von Firmen bereits durchgeführte Projekte im Nachgang zu untersuchen, um realistische Aussagen über den Ablauf, die Art, den
+Erfolg/Misserfolg und alle weiteren wichtigen Faktoren innerhalb der weltweit in Unternehmen durchgeführten Projektmanagements zu erhalten und darauf aufbauend für die Zukunft 
+neue Trends zu identifizieren beziehungsweise neuen Entwicklungsbedarf zu sichten/abzuleiten.
 
 
-# Aspekt 1
+# Historische Entwicklung und aktueller Stand zu den Global Project Management Surveys
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Von der Deutschen Gesellschaft für Projektmanagement e.V. (GPM) wurde erst und auch einmalig eine solche Studie im Jahr 2010 durchgeführt[^1].
+Da es sich hier um einen veraltetet und nicht jährlich aktualisierten Report handelt, wird dieser im weiterem nicht betrachtet und analysiert. Jedoch lässt sich der Report in
+Hinblick auf die Entwicklung des Projektmanagements innerhalb der letzten 10 Jahre als Vergleich zu aktuellen Reports heranziehen.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Aktuelle Entwicklungen werden vom Project Management Institute (PMI) in einem jährlich veröffentlichten Report, beginnend im Jahr 2006, erfasst[^2].
+Dieser Report trägt den Namen "Pulse of Profession" und wird durch die Zusammenarbeit und Befragung weltweit agierender Unternehmen und deren mit dem Projektmanagement betrauten
+Mitarbeitern erstellt. Durch die Vielzahl an Daten und den jährlichen Befragungsturnus kann der "Pulse of Profession" als eine der wichtigsten Studien in Bezug
+auf Projektmanagement weltweit angesehen werden, der den aktuellen Stand innerhalb der Unternehmen abbilden kann.
 
-![Beispielabbildung](Global_Project_Management_Survey/test-file.jpg)
+Die Herausgeber der Studie, das Project Management Institute wird "als die weltweit führende Autorität im Projektmanagement"[^3][^4][^5] angesehen, wodurch die Daten, 
+deren Erhebung, Verarbeitung und Veröffentlicung als valide angesehen werden kann. 
 
-*lustiges Testbild*
 
-# Aspekt 2
+# Eckdaten der Pulse of the Profession Reports von PMI:
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+*	Erstmals 2006 durchgeführt
+*	Erste weltweite Untersuchung von Projektmanagement innerhalb von Unternehmen
+*	Hauptreport erscheint einmal jährlich, kleinere (auch zwischen-)Reports teilweise mehrmals innerhalb eines Jahres 
+*	Zeigt aktuelle und zukünftige Entwicklungen im Bereich des Projektmanagements unter Einbezug von Marktforschungen die Einblicke in das Arbeitsleben von Projekt-, Programm- und 
+  Portfoliomanagern gewähren
+*	Für den Report wird eine große Anzahl an unterschiedlichen Branchen und Regionen befragt
+*	Der Report ist auf der Internetseite des PMI kostenlos zur Verfügung gestellt
+*	Die Befragung wird jährlich, je nach aktueller Situation, variiert. Bei der Befragung 2020/2021 wurde vor allem der weltweiten Coronapandemie im Zusammenhang mit tradionellen 
+  und agilen Projektmanagement-Methoden und die daraus resultierenden Folgen, große Aufmerksamkeit geschenkt
+*	Der Report stellt zusätzlich gefilterte Daten für verschiedene Regionen zur Verfügung. Der 
+  Hauptreport und die Regionalen Reports sind zusätzlich in mehreren Sprachen verfügbar:
+  
+![Sprachvarianten der Surveys](Global_Project_Management_Survey/Bild1_Sprachauswahl.jpg).
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+*	Seit 2021 lassen sich die Daten der Reports nach eigens gewählten weiteren Kriterien filtern:
 
-So kann man eine Tabelle erstellen:
+![Datenbank zur Informationsfilterung](Datenbank.jpg).
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Die Daten lassen sich unter folgendem Link beliebig filtern:
+[Datenbank Survey 2021](https://public.tableau.com/app/profile/pmi2161/viz/PulseoftheProfession/PulseoftheProfession)
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# Kernaussagen und Erkenntnisse aus dem Report 2021 [^6]
 
-### Ebene-3-Überschrift
+Innerhalb des Reports von 2021 wurde vor allem die Corona Situation im Zusammenhang mit der weltweit in Unternehmen durchgeführten Projekttätigkeit Beachtung geschenkt.
+Dabei wurde vor allem hinsichtlich der in den Unternehmen genutzten Projektmanagement Methoden gefiltert und daraus Erkenntnisse abgeleitet.
+Im ersten Schritt wurden dabei die größten Veränderungen innerhalb des Unternehmens innerhalb der letzten 12 Monate im Vergleich zu den vorausgegangenen 12 Monaten, also vor der 
+Corona-Pandemie, abgefragt: 
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+![Big Changes](Global_Project_Management_Survey/2021_Business_Changes_due_to_Corona.jpg).
 
-# Aspekt n
+Nachfolgend wurde abgefragt wie der Projekterfolg, im Vergleich zu den Vorangegangenen Jahren, eingestuft wird:
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+![Project Success_and_failure](Global_Project_Management_Survey/2021_Project_sucess_failure.jpg)
 
+
+Des weiteren wurde eine Aufteilung der Unternehmen in "Gymnastic Enterprises" und "Tradional Enterprises" durchgeführt.
+Die Unternehmen, die bei der Anwendung von Projektmanagement eine "agile" Ausrichtung aufwiesen, wurden als "Gymnastic Enterprises" bezeichnet. Unternehmen,
+die eher auf traditionelle bzw. bereits angewendete/bewährte Methoden setzten, wurden als "traditional enterprises" eingestuft. 
+Charakteristisch für die „Gymnastic Enterprises“ ist die vielfältige Anwendung unterschiedlicher Projektmanagement Methoden, wohingegen „traditionel enterprises“ Unternehmen 
+darstellen, die sich auf bewährte bereits verwendete Methoden konzentriert haben. Zusätzlich konzentrieren sich die "Gynmastic Enterprises" verstärkt auf das Ergebnis als
+auf die Prozesse und fokussieren sich auf Ihre Mitarbeitenden und deren individuellen Leistungen/Fähigkeiten. Die  traditionellen Unternehmen erlangten insgesamt eher 
+negativere Ergebnissen innerhalb der Projektarbeit. 
+
+Bei der Befragung wurden 1/3 der Unternehmen als „Gymnastic Enterprises“ eingestuft, und 30 % als „Traditional Enterprises“, die restlichen konnten nicht eindeutig zuge-
+ordnet werden:
+
+![classification of the Enterprises](Global_Project_Management_Survey/2021_Gymnastic_and_traditional_enterprises.jpg)
+
+Kernerkenntisse waren dabei unter anderem:
+
+1. Sogenannte „Gymnastic Enterprises“ sind besser durch die Krise gekommen, wenn es um den Erfolg einzelner Projekte im Unternehmen geht. Bei der Betrachtung der Grafik
+muss berücksichtigt werden, dass die unteren drei Zeilen eine negative Situation darstellen und somit ein niedrigerer Wert als "besser" anzusehen ist.
+
+![Project Success_Failure_Gymnastic and Traditonal](Global_Project_Management_Survey/Project_Sucess_failure_comparison.jpg)
+
+2. Die "Gymnastic Enterprises" erfuhren in den letzten 12 Monate im Vergleich zu den "Tradional Enterprises" mehr Veränderungen innerhalb des Unternehmens
+oder trieben diese aktiv voran:
+
+![Recent Business Changes Gymnastic and Traditional](Global_Project_Management_Survey/2021_traditional_vs_gymnastic_enterprises.jpg)
+
+3. Die "Gymnastic Enterprises" nutzten bei der Umsetzung der Projekte vermehrt aktuelle technolgische Trends und Möglichkeiten:
+
+![Technology usage](Global_Project_Management_Survey/2021_Technolgy_usage.jpg).
+
+4. Als zusätzlicher Erfolgsfaktor wurde herausgefunden, dass die "Gymnastic Enterprises" neben des hohen Grades an Agilität innerhalb des Unternehmens zusätzlich 
+standardisierte Risikoanalyse und -managementverfahren nutzten sowie eine geringere schleichende Umfangsausweitung innerhalb eines Projektes aufwiesen. Diese Kombination ist 
+laut PMI[^6] neben weiteren Faktoren ursächlich für den erhöhten Projekterfolg im Vergleich zu den "Tradional Enterprises": 
+"Higher levels of organizational agility, more standardized risk management practices, and less project scope creep, among other benefits, all contributing to better project 
+performance." 
 
 # Siehe auch
+
+Verlinkungen zu Angrenzenden Themen kann erst durchgeführt werden, wenn alle anderen Beiträge verfasst wurden -- Nachtrag in Korrekturphase 1 ....
 
 * Verlinkungen zu angrenzenden Themen
 * [Link auf diese Seite](Global_Project_Management_Survey.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+Durch die individuelle Datenauswertung mittels der Datenbank lohnt es sich, Zusammenfassungen der Ergebnisse des Berichtes von 2021 von unterschiedlichen 
+Internetseiten zu lesen. Hierbei wird jeweils der Fokus auf verschiedene Branchen, Regionen und damit einhergehende Zusammenhänge gesetzt, die im Bericht
+des Project Management Institute nicht berücksichtigt wurden. Für Mitarbeitende innerhalb verschiedener Branchen lohnt sich eine eigenständige Betrachtung der 
+Datenbank unter Einbezug der eigenen Unternehmenssituation und Ausrichtung.
+
+Beispiele frei zugänglicher Zusammenfassungen sind:
+
+* Zusammenfassung von businesswire der Kernaussagen des Berichtes von 2021: [Businesswire](https://www.businesswire.com/news/home/20210324005874/de/)
+* Zusammenfassung von onvista der Kernaussagen des Berichtes von 2021: [Onvista](https://www.onvista.de/news/der-bericht-pulse-of-the-profession-von-2021-des-pmi-enthuellt-die-vorteile-der-organisatorischen-flexibilitaet-in-zeiten-grosser-veraenderungen-444246997)
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Deutsche Gesellschaft für Projektmanagement e.V.](https://www.gpm-ipma.de/know_how/studienergebnisse/global_project_management_survey.html)
+[^2]: [Project Management Institute (2021)](https://www.pmi.org/learning/thought-leadership/pulse)
+[^3]: [Businesswire (2021)](https://www.businesswire.com/news/home/20210324005874/de/)
+[^4]: [Onvista (2021)](https://www.onvista.de/news/der-bericht-pulse-of-the-profession-von-2021-des-pmi-enthuellt-die-vorteile-der-organisatorischen-flexibilitaet-in-zeitengrosser-veraenderungen-444246997)
+[^5]: [Boerse.de (2018)](https://www.boerse.de/nachrichten/PMI-2018-Pulse-of-the-Profession-Detailbericht/7955140)
+[^6]: [Project Management Institute (2021). Beyond Agility: Flex to the Future. Pulse of the Profession®](https://www.pmi.org/learning/library/beyond-agility-gymnastic-enterprises-12973)

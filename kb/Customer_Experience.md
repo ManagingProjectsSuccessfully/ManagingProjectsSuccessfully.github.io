@@ -1,104 +1,59 @@
 ---
 title: Customer_Experience
-tags: agil klassisch
+tags: agil
 author: ga88maby
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Customer_Experience um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Der Begriff Customer_Experience, kurz CX, ist nicht anders als eine Marketingstrategie von Firmen in die meisten Größen und Abteilungen, es wird immer mehr wichtiges Prinzip bei Unternehmen, die sich im Markt etablieren wollen. Dabei versucht die Unternehmen einen positiven Eindruck bei den Kunden zu schaffen, somit den Kunden stärker an die Firma zu binden und damit Wettbewerbsvorteile zu bekommen, sodass ein Kunde mit der Zeit eine positive emotionale Beziehung zu dem Unternehmen hat. 
 
 
-# Aspekt 1
+# Warum ist Customer_Experience unverzichtbar & essenziell:
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Customer_Experience ist so bedeutungsvoll, da die Customer_Experience großer Einfluss auf das Betriebsergebnis vom Unternehmen hat, außerdem ist es für die Unternehmen eine große Kampfansage, in einem wettbewerbsintensiven Geschäftsumfeld Käufern zu gewinnen sowie zu binden. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Firmen, die die wichtige Rolle von Customer Experience auslasen, ziehen den Kürzeren gegenüber Firmen, die Ihnen schon bewusst ist, dass der Kunde in der Mitte ihres Handelns ist. Ungefähr jeder zweiter Kunde wechselt schon nach nur eine schlechte Erfahrung zu einem anderen Konkurrenten, bei mehr als eine schlechte Erfahrung wechseln die meisten Kunden zu anderen Anbietern.
 
-![Beispielabbildung](Customer_Experience/test-file.jpg)
+# Customer_Experience richtig umsetzen bei produktiven Unternehmen:
+Die Unternehmen verfolgen mehrere Methoden, um Customer_Experience zu verwirklichen. Das Marketing besteht auf drei unverzichtbaren Bestandteilen, und zwar:  Einfachheit, Effektivität und Empathie beziehungsweise Emotion, diese Komponenten machen die Customer_Experience im Wesentlichen aus.
 
-*lustiges Testbild*
+Das wichtige Prinzip von Customer_Experience liegt daran, dass die Probleme direkt vom Unternehmen gelöst werden und sie lieber ohne Zeitverzögerung zu den Produkten bzw. Dienstleistung für den Kunden zu leiten. Nachdem das Unternehmen diesen Grundlagen erfüllt, ist es dann möglich den Kunden mit extra zusätzlichen Leistungen z.B. Sonderrabatte oder andere Vergünstigung zu begeistern und dementsprechend sich an das Unternehmen stärkere binden.
 
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+„Die Customer Experience umfasst jede einzelne Interaktion eines Kunden mit einem Unternehmen, in jeder einzelnen Phase der Customer Journey, darunter das Marketingmaterial, das er sieht, ehe er Kunde wird, das Verkaufserlebnis, die Qualität des Produkts und der Kundenservice im Anschluss an den Kauf.“, sagt Dave Dyson, Senior Customer Service Evangelist, Zendesk[^1]
 
 
-# Siehe auch
+![Beispielabbildung](Customer_Experience/Customer_Experience.png)
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Customer_Experience.md)
+
+
+# Welche Hauptziele sind bei Customer_Experience zu erlangen:
+* Die Wünsche und Erwartungen von Kunden sind im Mittelpunkt.
+* Schnelle und einfache Problemlösungen spielen eine große Rolle bei den Kunden.
+* Die Kundenerlebnisse müssen vom Unternehmen optimiert sein.
+* Feedback muss effizient ausgewertet und bearbeitet werden. 
+
+## Ziele Langfrisitg?
+* Langfristig entsteht den Effekt der Markentreue und Loyalität. Das stehen die Unternehmen vor die Probleme, durch Kommunikation mit den Kunden oder auch potenziellen Käufern deren Erwartungen und Wünsche in Erfahrung zu bringen.
+* Die künstliche Intelligenz wird Customer Experience Management in die Zukunft durchführen, mit der großen Hilfe das maschinelle Lernen wird es erleichtert. Information über die Kunden werden gesammelt, somit lernt Kl mit zunehmenden Angaben, wie sie die CX für jeden Kunden verbessern kann.[^2]
+
+
+# Geschichte:
+* Der CEM von Pine Gilmore (1998) hat es bei einem Artikel für Harvard Business Review. Später gelinge es starken Firmen, der Käufer aus möglichst authentischen Erfahrungen mit dem Anbieter persönliche Mehrwerte ableiten.
+* Der Expert Thompson Kolsky (2004), der bei Beratungsunternehmen Gartner gearbeitet hat, hat schon sehr früh geahnt, wie zunehmende Rolle die Customer_Experience in das Marketing, als langfristigen Erfolg für die Firmen.
+* Im Jahr 2008 äußerte Jessica Debor, dass durch effiziente Customer_Experience-Management, die Fähigkeit von Unternehmen zu setzen, um positive Meinungen von Kunden zu schaffen, steigert die Kaufbereitschaft und auch die Loyalität zum Unternehmen bzw. Marke [^3]
+
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Die Treiber von der Customer_Experience von Andreas Toth. https://books.google.de/books?hl=de&lr=&id=k8GPDwAAQBAJ&oi=fnd&pg=PP5&dq=buch+customer+experience&ots=hc3lthO_OR&sig=5ssR13WedV1_esUxMSSYgXYf5bY#v=onepage&q=buch%20customer%20experience&f=false
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
+[^2]: https://www.netigate.net/de/articles/kundenzufriedenheit/alles-was-sie-ueber-customer-experience-cx-wissen-muessen/#h-die-vorteile-von-customer-experience-cx
+[^3]: https://de.wikipedia.org/wiki/Customer-Experience-Management
+*  https://www.zendesk.de/blog/why-companies-should-invest-in-the-customer-experience-2/
+*  https://www.sem-deutschland.de/online-marketing-glossar/customer-experience/#Was_bedeutet_Customer_Experience
+*  https://job-wizards.com/de/customer-experience-management-wie-kundinnen-und-kunden-gluecklich-werden-und-bleiben/
 
