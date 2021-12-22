@@ -54,9 +54,8 @@ Die Tabelle gliedert das Projekt in Form von Sammelvorgängen (Überpunkten) und
 Die sich in der Beschreibung befindliche Abbildung 1 ist in der Tabelle als Kopfzeile aufzufinden.
 Die Auflistung der Prozesse ist mit dem Balkendiagramm verknüpft, sodass eine Änderung in der Visualisierung mit einem Nachtrag in der Gliederung und umgekehrt einhergeht.
 Im Gantt-Diagramm sind Vorgänge abgebildet, die nach Fortschritten prozentual bewertet und farblich gekennzeichnet werden.
-Der Meilenstein am unteren rechten Bildschirmrand repräsentiert ein Zwischenziel mit angehängtem Datumsformat, auf welches hingearbeitet wird.
+Der Meilenstein am unteren rechten Bildschirmrand repräsentiert ein Zwischenziel mit angehängtem Datumsformat, auf welches hingearbeitet wird.[^4]
 
-[^4]
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/MS_Project_Rahmenterminplan.jpg)
 
