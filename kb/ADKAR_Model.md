@@ -50,7 +50,7 @@ Wenn dieser Schritt nicht oder zu wenig durchgeführt wird, kann es sein, dass d
 
 Es ist notwendig, die oben genannten Schritte nacheinander mit jedem einzelnen Individuum durchzuführen. Da die Stufen aufeinander aufbauen, würde ein Überspringen oder mangelhaftes Bearbeiten nicht zu dem gewünschten Ergebnis führen, weshalb man somit gezwungen wäre, noch einmal von vorne anzufangen. 
 
-Neben den oben genannten Schritten ist auch eine regelmäßige Bewertung notwendig. Die Bewertung erfolgt auf einer Skala von eins bis fünf, wobei eins schlecht und fünf das Optimum darstellt. Erst nachdem man einen der fünf Meilenstein erfolgreich abgeschlossen hat (ab Punkt drei) darf man zu dem nächsten Schritt übergehen. [^4] [^9]
+Neben den oben genannten Schritten ist auch eine regelmäßige Bewertung notwendig. Die Bewertung erfolgt auf einer Skala von eins bis fünf, wobei eins schlecht und fünf das Optimum darstellt. Erst nachdem man einen der fünf Meilensteine erfolgreich abgeschlossen hat (ab Punkt drei), darf man zu dem nächsten Schritt übergehen. [^4] [^9]
 
 # 4) Anwendungsbereiche
 
