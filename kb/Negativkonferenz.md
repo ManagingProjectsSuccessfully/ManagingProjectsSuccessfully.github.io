@@ -57,17 +57,17 @@ werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140
 
 # Siehe auch
 
-[Kopfstandtechnik](Kopfstandtechnik.md)
+* [Kopfstandtechnik](Kopfstandtechnik.md)
 
-[Provokationstechnik](Provokationstechnik.md)
+* [Provokationstechnik](Provokationstechnik.md)
 
-[Mindmapping](Mindmapping.md)
+* [Mindmapping](Mindmapping.md)
 
 # Weiterführende Literatur
 
-https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken
+* https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken
 
-https://lerndoku.com/negativkonferenz/
+* https://lerndoku.com/negativkonferenz/
 
 # Quellen
 
