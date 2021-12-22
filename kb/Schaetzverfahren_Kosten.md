@@ -5,7 +5,7 @@ author: Sven017
 anrechnung: k 
 ---
 
-# Schätzungen als kontinuierlicher Prozess
+# Kostenbestimmung durch Schätzungen
 
 Schätzungen gehören tagtäglich zu einer zentralen Aufgabe im Bereich des Projektmanagements. 
 Es ist kein einmaliger Prozess, der am Anfang eines [Projekts](Projekt.md) stattfindet, sondern ist vielmehr ein kontinuierlicher Prozess, 
