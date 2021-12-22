@@ -71,7 +71,7 @@ Zusammenfassend bedeutet eine ausführliche Reflexion für neue Projekte folgend
 * Chancen zu nutzen
 * Projekt-Qualität zu steigern
 
-Abschließend lässt sich sagen, dass die Reflexion nicht nur für die Gestaltung eines effektiven Projektendes, sondern auch gerade im Zusammenhang mit der Auswertung von Erfahrungen und dem Sammeln von „Projektwissen“ bedeutsam ist. Die investierte Zeit in die Selbstreflexion oder das Abschlussgespräch mit den Mitglieder des Projektteams rentiert sich spätestens bei allen darauffolgenden Projekten und ermöglicht ein perfekt abgerundetes Ende. <br><hr>
+Abschließend lässt sich sagen, dass die Reflexion nicht nur für die Gestaltung eines effektiven Projektendes, sondern auch gerade im Zusammenhang mit der Auswertung von Erfahrungen und dem Sammeln von „Projektwissen“ bedeutsam ist. Die investierte Zeit, in die Selbstreflexion oder das Abschlussgespräch mit den Mitglieder des Projektteams, rentiert sich spätestens bei allen darauffolgenden Projekten und ermöglicht ein perfekt abgerundetes Ende. <br><hr>
 
 
 # Siehe auch
