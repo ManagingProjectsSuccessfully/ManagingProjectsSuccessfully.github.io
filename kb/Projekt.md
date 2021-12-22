@@ -8,12 +8,12 @@ anrechnung: k
 Ein Projekt ist ein Vorhaben, dass durch bestimmte Merkmale gekennzeichnet ist. Diese wurden innerhalb der DIN-Norm 69901 festgehalten. 
 Dazu zählt unter anderem die Eigenschaft, dass gewisse Tätigkeiten nur einmal stattfinden. Neben der Einmaligkeit der Tätigkeit gibt es außerdem eine Zielvorgabe und 
 eine zeitliche, finanzielle sowie personelle Begrenzung. Zusätzlich wird für die Durchführung des Projekts eine projektspezifische Organisation gebildet. 
-Innerhalb eines Projekts schließen sich mehrere Personen zusammen, da die einzelnen Aufgaben sonst nicht bewältigt werden können. (Projektteam) 
-Im weiteren Verlauf eines Projekts werden verschiedene Ressourcen beschafft, kombiniert und koordiniert.[^1]
+Innerhalb eines Projekts schließen sich mehrere Personen zusammen, damit alle Aufgaben erledigt werden können. Hierzu findet man weitere Infos unter Projektteam. 
+Im weiteren Verlauf eines Projekts werden verschiedene Ressourcen eingekauft, kombiniert und koordiniert. [^1]
 
-Der Begriff Projekt lässt sich vom lateinischen Wort proicere ableiten. Das so viel bedeutet wie abwerfen.
-Substantiviert man das Wort und bildet das Partizip Perfekt erhält man den Begriff proiectum. Das wiederum bedeutet das nach vorn Geworfene. In diesem Zusammenhang 
-kann man den zeitlichen Aspekt eines Projektes wieder erkennen.[^2]
+Der Begriff Projekt lässt sich vom lateinischen Wort proicere ableiten, dass so viel bedeutet wie abwerfen.
+Substantiviert man das Wort und bildet das Partizip Perfekt erhält man den Begriff proiectum. Übersetzt bedeutet das: Das nach vorn Geworfene.
+In diesem Zusammenhang kann man den zeitlichen Aspekt eines Projektes erkennen. [^2]
 
 # Weitere Definitionen
 
@@ -21,24 +21,24 @@ Der Begriff Projekt wird in weiteren Quellen ähnlich definiert.
 
 ## A Guide to the Project Management Body of Knowledge (PMBOK® Guide):
 
-„Ein Projekt ist ein zeitlich begrenztes Vorhaben mit dem Ziel, ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis zu schaffen.“[^3]
+„Ein Projekt ist ein zeitlich begrenztes Vorhaben mit dem Ziel, ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis zu schaffen.“ [^3]
 
 ## Leitfaden zur methodischen Prüfungsvorbereitung (PRINCE2®):
 
-„Eine für einen befristeten Zeitraum geschaffene Organisation, die den Auftrag hat, mindestens ein Produkt entsprechend einem vereinbarten Business Case zu liefern.“[^4]
+„Eine für einen befristeten Zeitraum geschaffene Organisation, die den Auftrag hat, mindestens ein Produkt entsprechend einem vereinbarten Business Case zu liefern.“ [^4]
 
 ## Individual Competence Baseline für Projektmanagement (IPMA®):
 
 „Ein Projekt ist ein einmaliges, zeitlich befristetes, interdisziplinäres, organisiertes Vorhaben, um festgelegte Arbeitsergebnisse im Rahmen vorab definierter Anforderungen 
-und Rahmenbedingungen zu erzielen.“[^5]
+und Rahmenbedingungen zu erzielen.“ [^5]
 
 ## Projektmanagement (Springer Gabler®):
 
-„Ein Projekt ist eine sachlich und zeitlich begrenzte Aufgabe, die interdisziplinär angegangen wird. (Blazek 1994)“[^6]
+„Ein Projekt ist eine sachlich und zeitlich begrenzte Aufgabe, die interdisziplinär angegangen wird. (Blazek 1994)“ [^6]
 
 # Projekt Phasen
 
-Ein Projekt durchläuft mehrere Phasen. Insgesamt gibt es vier grundlegende zeitliche Abschnitte, die man anhand der Tätigkeiten und dem Zeitverlauf darstellen kann.[^6]
+Ein Projekt durchläuft vier Phasen, die man anhand der Tätigkeiten und dem Zeitverlauf darstellen kann. [^6]
 
 ![Beispielabbildung](Projekt/Projektphasen.png)
 
@@ -49,11 +49,11 @@ Ein Projekt durchläuft mehrere Phasen. Insgesamt gibt es vier grundlegende zeit
 
 Die Definitionsphase ist die erste Phase direkt nach der Projektinitiierung. Das Projektziel wird festgelegt und die Chancen und Risiken sollen innerhalb von Situations- und
 Stakeholderanalysen ermittelt werden. Außerdem soll eine erste Grobplanung zu den Kosten, dem Ausmaß und der benötigten Zeit erfolgen. Zusätzlich kann bei größeren Projekten
-eine Machbarkeitsstudie durchgeführt werden, um weitere hilfreiche Informationen zu erhalten. Ergebnis einer erfolgreichen Definitionsphase ist der formelle Projektauftrag.[^6]
+eine Machbarkeitsstudie durchgeführt werden, um weitere hilfreiche Informationen zu erhalten. Ergebnis einer erfolgreichen Definitionsphase ist der formelle Projektauftrag. [^6]
 
 ## Planungsphase
 
-In der Planungsphase wird das Team organisiert und folgende Pläne werden angelegt:[^6]
+In der Planungsphase wird das Team organisiert und folgende Pläne werden angelegt: [^6]
 
 * Aufgabenpläne
 * Ablaufpläne
@@ -71,9 +71,9 @@ Beginn dieser Phase und sollen die Teamkommunikation fördern. Neben der Durchf�
 für das Projektmanagement von großer Bedeutung. Abweichungen zum Projektplan erfordern Maßnahmen, um diese zu korrigieren. Der Zugriff auf den aktuellen und aktualisierten
 Projektplan für jeden Projektbeteiligten ist in dieser Phase von größter Bedeutung. Änderungen und Verschiebungen in Projekten sind meistens unumgänglich. 
 Daher sollten alle Beteiligten schnellstmöglich diese Informationen mitbekommen, um Anpassungen an eventuell gekoppelte Aufgaben zu tätigen. 
-Aufgaben und Arbeitspakete, die in der ersten Phase definiert wurden, werden von den verschiedenen Teammitgliedern bearbeitet.[^6]
+Aufgaben und Arbeitspakete, die in der ersten Phase definiert wurden, werden von den verschiedenen Teammitgliedern bearbeitet. [^6]
 
-Zusammenfassung der Aufgaben:[^6]
+Zusammenfassung der Aufgaben: [^6]
 
 * Arbeitspakete erledigen
 * Planung der Termine und Aktualisierung der Arbeitspakete 
@@ -83,11 +83,14 @@ Zusammenfassung der Aufgaben:[^6]
 * Präsentation der Meilensteinergebnisse
 
 Für eine funktionierende Kommunikation werden regelmäßige Projekt Besprechungen durchgeführt, um auf Probleme aufmerksam zu machen und  
-Vorgesetzte zu informieren.[^6]
+Vorgesetzte zu informieren. [^6]
 
 ## Projektabschluss
 
-In der letzten Phase, dem Projektabschluss, werden die Ergebnisse präsentiert. Abschließend wird rückblickend das Projekt bewertet und die Erfahrungen festgehalten.[^6]
+In der letzten Phase, dem Projektabschluss, werden die Ergebnisse präsentiert. Abschließend wird rückblickend das Projekt bewertet und die Erfahrungen festgehalten.
+Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einzelen Projektphasen zu jeder Zeit zu einem Projektabbruch kommen. [^6]
+
+
 
 # Weiterführende Literatur
 
