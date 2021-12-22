@@ -22,7 +22,7 @@ Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und 
 
 *Abbildung: Projektarten-Matrix*[^1]
 
-[Standard- oder Routineprojekte](Routineprojekte.md) können aufgrund bestehender Erfahrung standardisiert und relativ einfach abgewickelt werden, wie beispielsweise Ersatzinvestitionen im Unternehmen. Auch bei den Akzeptanzprojekten kann man auf Erfahrung zurückgreifen und zu einem gewissen Grad standardisieren. Jedoch ist diese Art von Projekt durch ihre hohe Komplexität oft mit Akzeptanzproblemen verbunden, weshalb Information und Kommunikation eine entscheidende Rolle spielen. Ein typisches Beispiel hierfür ist ein komplexes Informatik-Projekt. 
+[Standard- oder Routineprojekte](Routineprojekte.md) können aufgrund bestehender Erfahrung standardisiert und relativ einfach abgewickelt werden, wie beispielsweise Ersatzinvestitionen im Unternehmen. Auch bei den Akzeptanzprojekten kann man auf [Erfahrung](Wissensmanagement.md) zurückgreifen und zu einem gewissen Grad standardisieren. Jedoch ist diese Art von Projekt durch ihre hohe Komplexität oft mit Akzeptanzproblemen verbunden, weshalb Information und Kommunikation eine entscheidende Rolle spielen. Ein typisches Beispiel hierfür ist ein komplexes Informatik-Projekt. 
 
 [Potenzialprojekte](Potenzialprojekte.md) sind durch ihr geringes Risiko und ihre einfache Projektorganisation charakterisiert, da sie trotz ihrer offenen Aufgabenstellung eine geringe Vernetzung mit dem Projektumfeld aufweisen. Unter diese Projektart fallen vor allem [Forschungsprojekte](Forschungsprojekte.md).[^4] 
 
@@ -36,9 +36,9 @@ Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen interne
 
 Die Zuordnung von Projekten in unterschiedliche Projektarten ist für das [Projektmanagement](Projektmanagement.md) von enormer Bedeutung. Da sich die Projektarten hinsichtlich ihrer Kosten und Risiken teilweise deutlich unterscheiden, muss dies bei der Planung berücksichtigt werden.[^7]
 
-Die Differenzierung nach verschiedenen Projektarten erleichtert zunächst, sich einen Überblick über die Projektlandschaft im Unternehmen zu verschaffen.[^3] Dies ist vor allem dann sinnvoll, wenn eine große Anzahl an Projekten parallel gemanagt werden soll. Jedes Projekt erfordert eine andere Vorgehensweise durch die Einmaligkeit ihrer Bedingungen. 
+Die Differenzierung nach verschiedenen Projektarten erleichtert zunächst, sich einen Überblick über die Projektlandschaft im Unternehmen zu verschaffen.[^3] Dies ist vor allem dann sinnvoll, wenn eine große Anzahl an Projekten parallel gemanagt werden soll. Jedes Projekt erfordert eine andere [Vorgehensweise](PRINCE2.md) durch die Einmaligkeit ihrer Rahmenbedingungen. 
 
-Die Klassifizierung von Projekten hilft den Entscheidungsträgern dabei, geeignete Methoden und Vorgehensweisen zu ermitteln, wodurch das Projektmanagement zielgerichtet  und zugeschnitten auf die jeweils vorliegende Projektart eingesetzt werden kann.[^4] Dadurch kann beispielsweise Dauer, Risiko, Kosten oder das notwendige Know-how der Mitarbeitenden für ein Projekt beziehungsweise eine bestimmte Projektart abgeleitet werden. Darüber hinaus wird neben der Erleichterung der Unternehmenssteuerung auch der Bedarf an speziellem Know-how deutlich.[^3]
+Die Klassifizierung von Projekten hilft den [Entscheidungsträgern](Projektleiter.md) dabei, geeignete Methoden und Vorgehensweisen zu ermitteln, wodurch das Projektmanagement zielgerichtet auf die jeweils vorliegende Projektart eingesetzt werden kann.[^4] Dadurch kann beispielsweise Dauer, Risiko, [Kosten](Kostenplanung.md) oder das notwendige Know-how der Mitarbeitenden für ein bestimmtes Projekt beziehungsweise eine bestimmte Projektart abgeleitet werden. Dies vereinfacht die [Ressourcenplanung](Ressourcenplanung.md) und das [Projektcontrolling](Projektcontrolling.md) in erheblichem Maße. Darüber hinaus wird neben der Erleichterung der Projektsteuerung auch der Bedarf an speziellem [Know-how](Wissensmanagement.md) deutlich.[^3]
 
 # Fazit
 
