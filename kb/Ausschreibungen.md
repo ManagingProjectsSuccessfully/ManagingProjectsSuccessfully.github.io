@@ -5,7 +5,7 @@ author: Lars428
 anrechnung: k
 ---
 # Ausschreibungen
-Unter einer Ausschreibung versteht man ein bestimmtes Vergabeverfahren von Aufträgen im Wettbewerb. Sinn und Zweck dieses Verfahrens, das im [Projektmanagement](Projektmanagement.md) oft eine wichtige Rolle spielt, ist eine wettbewerbsbasierte Preisermittlung[^0].
+Eine Ausschreibung ist ein bestimmtes Vergabeverfahren von Aufträgen im Wettbewerb. Sinn und Zweck dieses Verfahrens, das im [Projektmanagement](Projektmanagement.md) oft eine wichtige Rolle spielt, ist eine wettbewerbsbasierte Preisermittlung[^0].
 ## Definition 
 "Unter einer Ausschreibung versteht man im europäischen Rechtsraum die öffentliche Bekanntmachung von offenen Aufträgen mit der Aufforderung an interessierte Unternehmen, ein passendes Angebot an die verantwortlichen Stellen abzugeben[^1]."
 
