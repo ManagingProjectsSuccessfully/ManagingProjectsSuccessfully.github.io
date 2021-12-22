@@ -52,7 +52,7 @@ Im Zusammenhang mit Projektcontrolling übergibt der Projektleiter die Aufgabe d
 ## Mitarbeiterführung
 Auch wenn ein Projektleiter unter anderem ein [Projektmitarbeiter](Projektmitarbeiter.md) ist und nicht unbedingt der direkte Vorgesetzte der Teammitglieder ist, stehen ihm jedoch folgende Kompetenzen zu:
   1. Die Planung und Durchführung der Weiterbildungsmaßnahmen des Teams 
-  2. Bestimmung der [Aufgabenteilung](Aufgabenteilung.md) im Team  
+  2. Bestimmung der Aufgabenteilung im Team  
   3. Das Mitsprachrecht für die Urlaubs- und Abwesenheitsplanung von Mitgliedern 
   4. Motivator und Initiator des Teams[^1][^4] 
 
@@ -68,7 +68,6 @@ Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt
 * [Bottom up Planning](Bottom_Up_Planning.md)
 * [Top Down Planning](Top_Down_Planning.md) 
 * [Projektmitarbeiter](Projektmitarbeiter.md)
-* [Aufgabenteilung](Aufgabenteilung.md) 
 * [Projektportfoliomanagement](Projektportfoliomanagement.md)
 
 # Weiterführende Literatur
