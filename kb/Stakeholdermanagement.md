@@ -5,7 +5,7 @@ author: JonathanLoewing
 anrechnung: k
 ---
 # Stakeholdermanagement
-Stakeholdermanagement zielt auf die Bedürfnisbefriedigung der verschiedenen Stakeholder und die gemeinsame Lösung von Problemen mit diesen ab.
+Stakeholdermanagement zielt auf die Bedürfnisbefriedigung der verschiedenen Interessensgruppen in einem Projekt und die gemeinsame Problemlösung mit diesen ab.[^4]
 
 # Identifikation
 Zu Beginn muss in jedem Projekt klar sein, wer die jeweiligen Stakeholder sind. 
