@@ -77,4 +77,3 @@ Auch Jira ist eine beliebte Anwendung, da sie sich auf verschiedenste Kriterien 
 [^3]: https://www.capmo.com/de/baulexikon/projektsteuerung/
 [^4]: https://www.datapine.com/de/artikel/projektcontrolling-steuerung#abgrenzung
 [^5]: https://de.yeeply.com/blog/6-projektmanagement-tools/ 
-
