@@ -1,8 +1,8 @@
 ---
 title: Projekt_Kick_Off
-tags: agil klassisch
+tags:  klassisch
 author: MariaKaisa
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 # Definition
