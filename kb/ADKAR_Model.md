@@ -36,7 +36,7 @@ Bei dieser Ebene muss sichergestellt werden, dass die Person das benötigte Wiss
 
 ## Ability
 
-"Knowing how to do something and being able to do something is not necessarily the same thing." [^6] Es muss also sichergestellt werden, dass die Person die Fähigkeit besitzt, die bereits vorangegangenen drei Schritte in die Praxis umzusetzen. [^7] Mögliche Hilfestellungen hierbei können Coachings, Feedback und mehr Übung sein. [^8]
+"Knowing how to do something and being able to do something is not necessarily the same thing." [^6] Es muss also sichergestellt werden, dass die Person auch die Fähigkeit besitzt, die bereits vorangegangenen drei Schritte in die Praxis umzusetzen. [^7] Mögliche Hilfestellungen hierbei können Coachings, Feedback und mehr Übung sein. [^8]
 
 
 ## Reinforcement
