@@ -82,6 +82,7 @@ Ist die Machbarkeit eines Projekts nach der ersten Prüfung nicht gegeben, werde
 * [Projekt](Projekt.md)
 * [Proof-of-Concept](Proof_of_Concept.md)
 * [Ressourcenplanung](Ressourcenplanung.md)
+* [Risikomanagement](Risikomanagement.md)
 * [Stakeholdermanagement](Stakeholdermanagement.md)
 
 # Weiterführende Literatur
