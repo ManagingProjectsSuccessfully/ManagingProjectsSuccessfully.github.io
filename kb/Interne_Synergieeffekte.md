@@ -6,11 +6,11 @@ anrechnung: k
 ---
 
 
-## Definition: Synergieeffekt
+# Definition: Synergieeffekt
 
 Ein Synergieeffekt ist ein positives Resultat, welches im Allgemeinen durch einen Zusammenschluss oder eine Zusammenarbeit entsteht. Der Synergieeffekt entsteht häufig durch Kostenersparnisse, die wiederum zu einem Wettbewerbsvorteil führen. [^1]
 
-## Wobei entstehen Synergieeffekte
+# Wobei entstehen Synergieeffekte
 
 Grundsätzlich werden interne Synergieeffekte erzielt, indem die einzelnen Bereiche eines Unternehmens mit sinnvollem Schnittstellenmanagement koordiniert werden [^2]. Oft entstehen diese jedoch erst durch Kooperationen. Am Anfang solcher Kooperationen stehen zumeist Merger & Acquisition-Projekte, kurz M&A-Projekte. Damit sind generell Unternehmensfusionen oder -übernahmen gemeint. [^1]
 
@@ -18,13 +18,13 @@ Sinnvoll ist ein solches M&A-Projekt, wenn es interessante Überschneidungen zwi
 
 ![M&A Wortwolke](Interne_Synergieeffekte/mergers-and-acquisitions.jpg)[^4] 
 
-## Synergien aus Schnittstellenmanagement 
+# Synergien aus Schnittstellenmanagement 
 
 Wichtige Informationen werden durch die gezielte [Kommunikation](Projektkommunikation.md) in alle Teilprojekte weitergegeben und können zu einem Wertzuwachs führen, indem die Wiederverwendbarkeit eines Lösungsansatzes genutzt wird. Das Wissen eines Fachbereiches wird somit abteilungsübergreifend verwendet und kann auch zu einer neuen Betrachtungsweise führen. [^2]
 
 Für Schnittstellenmanagement werden sogenannte [Project Management Offices](Project_Management_Office.md) aufgestellt, kurz [PMOs](Project_Management_Office.md) genannt, die für die zentrale Steuerung von [Projekten](Projekt.md) verantwortlich sind. Dadurch gestaltet sich die [Kommunikation zwischen den Stakeholdern](Kommunikation_Projektbeteiligte.md) effizienter. Die Mitarbeiter des [PMOs](Project_Management_Office.md) unterstützen in den einzelnen [Projekten](Projekt.md) strategisch sowie operativ, um die Qualitätssicherung durch Wissens- und Ressourcenmanagement zu verbessern. Dies führt auch zu einer effizienteren Arbeitsweise. [^2]
 
-## Synergien aus M&A-Projekten
+# Synergien aus M&A-Projekten
 
 Das Ziel eines M&A-Projektes ist es in einem reifen Markt weiterhin wachsen zu können. Dadurch kann in andere Regionen expandiert werden oder neue Produkte können besser vermarktet werden. Blockiert wird dies vor der Akquisition durch fehlende Vertriebsstrukturen oder das nötige Know-How, um [Innovationen](Innovationsprojekte.md) wie die anderen Unternehmen voranzutreiben. Es kristallisieren sich folgende Vorteile durch M&A-Projekte heraus: [^5] [^1]
 
@@ -40,7 +40,7 @@ Das Ziel eines M&A-Projektes ist es in einem reifen Markt weiterhin wachsen zu k
 * Gemeinsame Nutzung von Patenten und Lizenzen
   - Erleichterte Entwicklung neuer Produkte
 
-## Beispiel: Fusion von Google und Android
+# Beispiel: Fusion von Google und Android
 
 ![Google & Android Fusion](Interne_Synergieeffekte/Android_Google.jpg) [^6] 
 
@@ -48,7 +48,7 @@ Jährlich finden kleine sowie große Fusionen statt, die nicht nur auf regionale
 
 Eine der größten Fusionen hat 2005 stattgefunden und vereinte Google und Android. Google ist bekannt für ihre großen M&A-Projekte, doch besonders dieses ist herausgestochen, da das Unternehmen Android für circa 50 Billionen Dollar gekauft wurde. Dabei war es zu diesem Zeitpunkt ein kleines Startup Unternehmen, welches noch keine Bekanntheit erlangt hat. Das durch Android erlangte Know-How verhalf Google, sich in einem von Microsoft und Apple dominiertem Markt zu etablieren. [^7]
 
-## Fazit
+# Fazit
 
 Unternehmen können auf vielseitige Art und Weise Synergieeffekte erzielen. Sinnvolles Schnittstellenmanagement ist hierbei das zentrale Instrument, um diese Synergien zu erzielen. Mithilfe von M&A-Projekten können bestehende Schnittstellen weiter ausgebaut und noch effizienter gestaltet werden.
 
