@@ -5,10 +5,9 @@ author: lucas100700
 anrechnung: a
 ---
 
-
+Der nachfolgende Artikel beschäftigt sich mit dem Projektmanagement beim Automobilhersteller Tesla. Zu Beginn wird das Unternehmen kurz vorgestellt und die PM-Methoden bei Tesla charakterisiert. Tesla arbeitet hier im Vergleich zu anderen Unternehmen in der Automobilbranche bevorzugt mit agilen Methoden. Aufgrund deren Implementierung kann Tesla im Gegensatz zu seinen Konkurrenten stetig neue Verbesserungen im Bereich Software und Technik anbieten. Im Anschluss wird näher auf den Einsatz von SCRUM im Fahrzeug eingegangen. Dieses Framework ermöglicht es Tesla, kurzfristig auf Kundenwünsche oder Marktbedürfnisse zu reagieren. Abschließend werden noch die daraus resultierenden Vor- und Nachteile gegenübergestellt.
 
 # Das Unternehmen Tesla 
-
 
 Tesla ist ein US-Amerikanischer Konzern, der sich auf die Entwicklung und Fertigung von Elektroautos spezialisiert hat. 
 Neben dem Autombilgeschäft, vertreibt Tesla weitere Produkte, die den Übergang zu einer CO2-neutralen Mobilität und Energiegewinnung ermöglichen sollen[^1]. 
@@ -47,7 +46,7 @@ Quelle: Field (2018)[^3]
 ## Nachteile agiler Methoden in der Automobilbranche 
 
 Ein Nachteil dieses Arbeitsansatzes besteht darin, dass das Produkt im Beta-Zustand an die Kunden ausgeliefert wird. So hat Tesla noch immer Probleme mit Spaltmaßen, Softwarebugs oder lauten Abrollgeräuschen [^3]. Ein weiterer Punkt, der bei Kunden für Verärgerung sorgen könnte, sind die unangekündigten, kleinen inkrementellen Verbesserungen an den Fahrzeugen. Zum einen freuen sich Neukunden über z.B. eine gestiegene Reichweite, zum anderen sind Bestandskunden, die ihr Fahrzeug erst vor einigen Wochen bzw. Monaten erworben haben, möglicherweise über die unerwarteten technischen Verbesserungen verärgert. 
-Neue Softwarefeatures oder Verbesserungen kommen hingegen allen Beteiligten zugute. 
+
 
 ## Vorteile agiler Methoden in der Autombilbranche 
 
