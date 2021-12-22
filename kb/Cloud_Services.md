@@ -43,7 +43,7 @@ Eine Community Cloud ist im Prinzip eine Public Cloud, ist jedoch auf einen best
 Cloud-basierte Services wie E-Mail-Hosting, Produktivitäts-Apps und E-Commerce-Plattformen können je nach Bedarf problemlos und schnell nach oben bzw. unten skaliert werden und zu beliebiger Zeit aufgerufen werden. [^1][^2]
 * Kostengünstig:
 
-Cloud-Technologiedienste sind in der Regel viel günstiger als der Aufbau, die Wartung und das Management Ihres eigenen Rechenzentrums.[^1][^2]
+Cloud-Technologiedienste sind in der Regel viel günstiger als der Aufbau, die Wartung und das Management eines eigenen Rechenzentrums.[^1][^2]
 * Flexibilität und Agilität:
 
 Es stehen auf Wunsch mehrere Clouds und Supercomputer zur Verfügung, zudem können ganz einfach Server, Speicher und andere IT-Ressourcen hinzugefügt werden. [^1][^2]
