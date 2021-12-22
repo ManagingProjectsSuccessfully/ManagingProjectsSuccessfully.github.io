@@ -10,19 +10,19 @@ anrechnung: a
 
 ## Definition
 
-Scrum, englisch für Gedränge, ist ein agiles Vorgehensmodell des Projektmanagements, welches vor allem in der agilen Softwareentwicklung Anwendung findet[^1]. Es wird auch in vielen anderen Bereichen eingesetzt wie beispielsweise im Marketing oder in der Produktentwicklung[^2]. Scrum ist ein leichtgewichtiges Rahmenwerk, welches Menschen, Teams und Organisationen hilft Wert durch adaptive Lösungen für komplexe Probleme zu erschaffen. Scrum baut auf der kollektiven Intelligenz der Personen auf, die es anwenden. Anstatt den Menschen detaillierte Anweisungen zu geben, leiten die Regeln von Scrum ihre Beziehungen und Interaktionen[^3]. Andere agile Vorgehensmodelle wären zum Beispiel [Xtreme Programming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Xtreme_Programming.md)[^4] oder [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)[^5].
+Scrum, englisch für Gedränge, ist ein agiles Vorgehensmodell des Projektmanagements, das vor allem in der agilen Softwareentwicklung Anwendung findet[^1]. Es wird auch in vielen anderen Bereichen eingesetzt wie beispielsweise im Marketing oder in der Produktentwicklung[^2]. Scrum ist ein leichtgewichtiges Rahmenwerk, das Menschen, Teams und Organisationen hilft Wert durch adaptive Lösungen für komplexe Probleme zu erschaffen. Scrum baut auf der kollektiven Intelligenz der Personen auf, die es anwenden. Anstatt den Menschen detaillierte Anweisungen zu geben, leiten die Regeln von Scrum ihre Beziehungen und Interaktionen[^3]. Andere agile Vorgehensmodelle wären zum Beispiel [Xtreme Programming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Xtreme_Programming.md)[^4] oder [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)[^5].
 
 ## Wichtige Begriffe in Scrum
 
 ### [Scrum Artefakte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Artefakte.md)
 
-- [Product Backlog](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Backlog.md): Liste von Produktanforderungen. Der Grundsatz ist das Produktziel, welches alle Anforderungen der Stakeholder sammelt, die im finalem Produkt enthalten sein sollen[^6].
+- [Product Backlog](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Backlog.md): Liste von Produktanforderungen. Der Grundsatz ist das Produktziel, das alle Anforderungen der Stakeholder sammelt, die im finalem Produkt enthalten sein sollen[^6].
 - Sprint Backlog: Der Grundsatz hier ist das Sprint Ziel. Es setzt sich aus dem Product Backlog und dem Product Increment zusammen[^6].
 - Product Increment: Dies ist das jeweilige Produkt, das nach jedem Sprint entstanden ist[^6]. Der Grundsatz hier ist die [Definition of Done](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Definition_of_Done.md), also ob der Zustand des Increments die erforderlichen Qualitätmaßnahmen erfüllt[^3].
 
 ## Ablauf
 
-Scrum zeichnet sich durch Zyklen regelmäßiger und wiederholbarer Arbeitsabläufe aus[^7]. Diese Zyklen sind das Herzstück von Scrum, sie werden in der Praxis oft Sprint genannt und sind zeitlich begrenzt. Ein neuer Sprint fängt immer direkt nach dem Abschluss des vorherigen Sprints an. Ein Sprint besteht aus Vier sogenanten Events, dem Sprint Planning, Daily Scrum, Sprint Review und der Sprint Retrospective[^3].
+Scrum zeichnet sich durch Zyklen regelmäßiger und wiederholbarer Arbeitsabläufe aus[^7]. Diese Zyklen sind das Herzstück von Scrum, sie werden in der Praxis oft Sprint genannt und sind zeitlich begrenzt. Ein neuer Sprint fängt immer direkt nach dem Abschluss des vorherigen Sprints an. Ein Sprint besteht aus vier sogenannten Events, dem Sprint Planning, Daily Scrum, Sprint Review und der Sprint Retrospective[^3].
 
 -	[Sprint Planning](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Sprint_Planning.md)
 
@@ -34,7 +34,7 @@ Der Zweck des Daily Scrums ist es, den Fortschritt in Richtung des Sprint Ziels 
 
 -	[Sprint Review](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Sprint_Review.md)
 
-Sinn des Sprint Reviews ist es, das Ergebnis des Sprints zu überprüfen und künftige Ändernugen festzulegen. Die Ergebnisse der Arbeit werden den wichtigsten Stakeholdern vom Scrum Team vorgestellt. Anschließend werde diese Fortschritte diskutiert[^3].
+Sinn des Sprint Reviews ist es, das Ergebnis des Sprints zu überprüfen und künftige Änderungen festzulegen. Die Ergebnisse der Arbeit werden den wichtigsten Stakeholdern vom Scrum Team vorgestellt. Anschließend werde diese Fortschritte diskutiert[^3].
 
 -	[Sprint Retroperspective](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Retrospective.md)
 
@@ -47,7 +47,7 @@ Bei der Sprint Retroperspective werden Wege zur Steigerung der Qualität und Eff
 
 ## [Scrum Team](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Rollen_Scrum.md)
 
-Wie bereits erwähnt gibt es ein so genanntes Scrum Team, welches aus folgenden Mitgliedern besteht:
+Wie bereits erwähnt gibt es ein so genanntes Scrum Team, das aus folgenden Mitgliedern besteht:
 
 | Name  | Aufgaben |
 | ------------- | ------------- |
