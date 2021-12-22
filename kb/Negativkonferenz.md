@@ -20,7 +20,7 @@ Wenn die Aufgabenstellung zum Beispiel das Reduzieren der Fehlerquote in der Fab
 Fehlerquote zu erhöhen. Durch das Umkehren der Erkenntnisse darüber, wie man etwas verschlechtern kann, ist es nun wiederum möglich, zu neuen Verbesserungsideen zu
 gelangen.[^2]
 
-![Screenshot 2021-11-24 165717](https://user-images.githubusercontent.com/92982358/143272932-b3719172-c038-4ccc-a915-b91854ad5e0a.png)
+![Screenshot 2021-11-24 165717](https://user-images.githubusercontent.com/92982358/143272932-b3719172-c038-4ccc-a915-b91854ad5e0a.png) [^3]
 
 # Negativkonferenz als Umkehrung des Brainstormings
 
@@ -74,7 +74,8 @@ https://lerndoku.com/negativkonferenz/
 
 [^1]: https://de.wikipedia.org/wiki/Negativkonferenz
 [^2]: https://www.sim.ovgu.de/sim_media/downloads/IDEAL/Kopfstandtechnik.pdf
-[^3]: https://de.wikipedia.org/wiki/Brainstorming
-[^4]: https://lerndoku.com/negativkonferenz/
-[^5]: Sven Lundershausen: Die Moderation strategischer Initiativen
+[^3]: Innovationslabor der Universität Magdeburg: Die Kopfstandtechnik – Ideenfindung durch Umkehrung der Aufgabenstellung (https://www.sim.ovgu.de/sim_media/downloads/IDEAL/Kopfstandtechnik.pdf)
+[^4]: https://de.wikipedia.org/wiki/Brainstorming
+[^5]: https://lerndoku.com/negativkonferenz/
+[^6]: Sven Lundershausen: Die Moderation strategischer Initiativen
 
