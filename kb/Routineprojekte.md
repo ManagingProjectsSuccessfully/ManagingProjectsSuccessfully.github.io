@@ -12,27 +12,27 @@ Zusätzlich ist es üblich, dass zum Abschluss Review-Workshops angeboten, um de
 Jedoch müssen die verschiedenen Klassifizierungen von Projekten nicht immer Ihren Charakter beibehalten. Es kann durchaus sein, dass im Verlauf das eigentliche Ziel wandelt und ein neues Ergebnis angestrebt wird[^2].
 
 # Review-Workshops/Peer Reviews
-Wie gesagt sind sogenannte Review-Workshops wie Peer Reviews, die perfekte Möglichkeit seinen Fortschritt im Team zu reflektieren und zu dokumentieren. Warum Peer-Reviews für das Projekt hilfreicher sind, als Mitarbeitergespräche wird im Folgenden erklärt. Das Mitarbeitergespräch mit seinen Kollegen und einem Vorgesetzten hat oft einen eintönigen Ablauf. Die Interesse des Vorgesetzten ist es lediglich Fortschritte zu sehen, sodass keine Verbindung zu Ihm und seinen Mitarbeitern entstehen kann[^3]. 
+Wie gesagt sind sogenannte Review-Workshops wie Peer Reviews, die perfekte Möglichkeit seinen Fortschritt im Team zu reflektieren und zu dokumentieren. Warum Peer-Reviews für das Projekt hilfreicher sind, als Mitarbeitergespräche wird im Folgenden erklärt. Das Mitarbeitergespräch mit seinen Kollegen und einem Vorgesetzten hat oft einen eintönigen Ablauf. Die Interesse des Vorgesetzten ist es lediglich Fortschritte zu sehen, sodass keine Verbindung zu ihm und seinen Mitarbeitern entstehen kann[^3]. 
 
 # Selbstevaluierung und folgende Fragen
 
 * Was hat richtig gut geklappt und sollten wir feiern? 
 * Was hat nicht so gut geklappt oder sollten wir anders machen? 
-* Was findest Du im nächsten Jahr besonders spannend, was macht Dir Sorgen? 
+* Was findest du im nächsten Jahr besonders spannend, was macht dir Sorgen? 
 
 Die Ergebnisse werden dem Team vorgestellt und bekommt von den anderen Mitgliedern ein personalisiertes Feedback. Wichtig ist, dass das Feedback sehr subjektiv gestaltet werden sollte um persönlicher zu wirken[^3]. 
 
 # Reflexionsgespräch mit 2 Mitgliedern
 
-Mitglieder spiegeln hier Publikum wieder; Folgende Fragen möglich[^3]:
+Mitglieder des Teams spielen die Publikumsrolle und stellen dem Präsentanten Fragen; Folgende Fragen möglich[^3]:
 
-*  Was nimmst Du aus dieser Diskussion mit? 
-*  Was hast Du daraus gelernt? 
+*  Was nimmst du aus dieser Diskussion mit? 
+*  Was hast du daraus gelernt? 
 
 # Ende der Übung mit Weiterbildungsfragen
 
-* Was hast Du heute über Dich gelernt? 
-* Was nimmst Du aus dem heutigen Workshop mit? Womit möchtest Du Dich weiter beschäftigen? 
+* Was hast du heute über dich gelernt? 
+* Was nimmst du aus dem heutigen Workshop mit? Womit möchtest du dich weiter beschäftigen? 
 ![Ablauf-Peer-Review-Workshop](Routineprojekte/Ablauf-Peer-Review-Workshop.jpeg)
 
 ## Unterschied zwischen [Peer-Review](https://transferio.at/agile-coach/peer-review-workshop-schlaegt-mitarbeitergespraech/) und Mitarbeitergespräche
