@@ -2,7 +2,7 @@
 title: Scrum_Master
 tags: agil klassisch
 author: Phr4nk20
-anrechnung: k
+anrechnung: a
 ---
 
 # 1.	Definition Scrum Master
@@ -20,7 +20,9 @@ Allgemein ist der Scrum Master für die Umsetzung von Scrum verantwortlich. Sein
 *	Arbeit an Organisationsveränderungen, die dem Team helfen, produktiver zu sein[^3]
 *	Sicherstellen, dass alle im Scrum Team die Ziele richtig verstehen[^6]
 
-![Abbildung 1](Scrum_Master/Aufgaben_des_Scrum_Masters.jpg) Abbildung 1: Der Scrum Master ist ausschlaggebend für das Management des Teams und weitere Stakeholder im Unternehmen.
+![Abbildung 1](Scrum_Master/original.jpg) 
+
+Abbildung 1: Der Scrum Master ist ausschlaggebend für das Management des Teams und weitere Stakeholder im Unternehmen.
 
 # 3.	Eigenschaften eines guten Scrum Masters
 
