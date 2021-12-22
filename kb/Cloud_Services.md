@@ -22,7 +22,7 @@ Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, d
 *Überblick der Cloud Service Modelle*[^5]
 
 
-# 2.Liefermodelle 
+# 2. Liefermodelle 
 
 ## 2.1 Private Cloud Services
 Services, die ein Provider nicht der breiten Öffentlichkeit zur Verfügung stellt, werden als Private Cloud Services bezeichnet. Bei Private Cloud Services werden Anwendungen und Daten über die eigene Infrastruktur des jeweiligen Unternehmens bereitgestellt. Plattform und Software dienen nur einem einzigen Unternehmen und sind für externe Benutzer nicht verfügbar. Unternehmen, die mit hochsensiblen Daten arbeiten, zum Beispiel im Gesundheitswesen oder Bankensektor, verwenden häufig Private Clouds, um erweiterte Sicherheitsprotokolle zu nutzen und Ressourcen nach Bedarf in einer virtualisierten Umgebung zu erweitern.[^1]
