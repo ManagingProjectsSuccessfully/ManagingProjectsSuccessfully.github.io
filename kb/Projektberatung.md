@@ -4,10 +4,9 @@ tags: klassisch
 author: Christoph-Mantsch
 anrechnung:    k 
 ---
-Der Begriff [Projekt](Projekt.md) leitet sich aus dem lateinischen Wort "proiectum" ab und bedeutet übersetzt "nach vorn geworfen". Im Kontext von Projekten versteht man unter "nach vorn" eine zeitliche Bedeutung wie beispielsweise einen Terminplan [^1].
 
-Unter einem Projekt versteht man ein einmaliges und zielorientiertes Vorhaben, welches im Rahmen von verschiedenen Kriterien und einem definierten Ziel erfüllt werden soll. Beispiele für Kriterien eines Projektes sind Zeit, Betriebsmittel, [Ressourcenplanung](Ressourcenplanung.md), Qualitätsansprüche oder Arbeits- und Produktionsbedingungen. 
-Besonders in Unternehmen spielen Projekte eine sehr zentrale Rolle, da sie die Vorraussetzung für die Wertschöpfung und somit sehr bedeutungsvoll für das langfristige und erfolgreiche Wirtschaften des Unternehmens sind. Aus diesem Grund sind Projekte ein essenzieller Baustein und daher allgegenwärtig und unverzichtbar für Unternehmen[^1].
+Unter einem [Projekt](Projekt.md) versteht man ein einmaliges und zielorientiertes Vorhaben, welches im Rahmen von verschiedenen Kriterien und einem definierten Ziel erfüllt werden soll. Beispiele für Kriterien eines Projektes sind Zeit, Betriebsmittel, [Ressourcenplanung](Ressourcenplanung.md), Qualitätsansprüche oder Arbeits- und Produktionsbedingungen. 
+Besonders in Unternehmen spielen Projekte eine sehr zentrale Rolle, da sie die Voraussetzung für die Wertschöpfung und somit sehr bedeutungsvoll für das langfristige und erfolgreiche Wirtschaften des Unternehmens sind. Aus diesem Grund sind Projekte ein essenzieller Baustein und daher allgegenwärtig und unverzichtbar für Unternehmen[^1].
  
 Jedoch können Projekte sehr schnell komplex und unübersichtlich werden, was dazu führt, dass sie an einem sehr breiten Spektrum an Problemen scheitern können. Die häufigsten Ursachen für das Scheitern eines solchen Projektes sind unzureichende [Projektkommunikation](Projektkommunikation.md) zwischen den Mitarbeitern und dem Auftraggeber oder auch mangelnde Auftragsklärung. Dadurch führen viele solcher Besprechungen zu keinem aussagekräftigen Ergebnis und sind daher oftmals nicht profitabel für das Unternehmen. In diesem Fall greifen Unternehmen gerne auf das Konzept der Projektberatung externer Firmen zurück [^2].
 
