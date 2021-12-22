@@ -16,7 +16,7 @@ Der Begriff Change Management ist in Deutschland vorwiegend unter Veränderungs-
 Moran und Brightman definieren Change Management folgendermaßen:
 
 >Change management is the process of continually renewing an organization's direction, 
-structure, and capabilities to serve the ever-changing needs of external and internal customers" [^4]. 
+structure, and capabilities to serve the ever-changing needs of external and internal customers[^4]. 
 
 >Change Management ist der Prozess der kontinuierlichen Erneuerung der Ausrichtung, Struktur und der Fähigkeiten
 einer Organisation, um den sich ständig ändernden Anforderungen externer und interner Kunden gerecht zu werden.
