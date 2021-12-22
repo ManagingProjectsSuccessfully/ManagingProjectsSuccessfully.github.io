@@ -18,7 +18,7 @@ Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, d
 
 ![Bild zu Cloud Services](Cloud_Services/Cloud_Varianten.jpg)
 
-*Überblick*
+*Überblick der Cloud Service Modelle*
 
 
 # 2.Liefermodelle 
