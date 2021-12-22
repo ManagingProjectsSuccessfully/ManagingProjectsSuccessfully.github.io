@@ -22,7 +22,7 @@ Seit 2012 ist Podio Teil des US-amerikanische Softwareunternehmen [Citrix-System
 ### PodioApps
 Die Nutzer haben durch das cloudbasierte CRM-System die Möglichkeit eine Vielzahl von Apps ihrem Konto hinzuzufügen. Dafür existiert innerhalb von Podio ein App Market der     nach [Funktion](Funktionale_Anforderungen.md) und [Branche](Projektmanagement_Branchenspezifisch.md) sortiert ist. Die Apps bieten die Möglichkeit Informationen zu organisieren, zu visualisieren und mit internen [Mitarbeitenden](Projektmitarbeiter.md) oder externen Parteien zu teilen [^1]. Falls eine gewünschte [Funktion](Funktionale_Anforderungen.md) einer App noch nicht auf dem Market bedient wird, haben Benutzer die Möglichkeit über ein Drag and Drop Interface eigene Apps zu erstellen. Dabei wurden bereits über eine Millionen Apps von Benutzern entwickelt [^4].
 
-### Reporting
+### [Reporting](Reporting.md)
 Mit den Daten aus den Apps des Kunden können durch Filter und Report Optionen Salespipelines automatisiert und Projektbudgets verfolgt werden[^4].
 
 ### Workflows
