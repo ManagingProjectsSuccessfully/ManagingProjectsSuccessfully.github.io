@@ -68,7 +68,7 @@ Weitere kreative Methoden
 * [Ideen-Marathon](Ideen_Marathon.md)
 * [Kopfstandtechnik](Kopfstandtechnik.md)
 
-# Weiterführende Literatur
+# Weiterführende Literatur 
 
 * [World-Café](https://de.wikipedia.org/wiki/World-Café)
 * [Den Austausch und Diskussionen mit einem World Café anregen](https://www.youtube.com/watch?v=ekCPJlcYZ0Y)
