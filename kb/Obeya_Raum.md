@@ -13,7 +13,7 @@ anrechnung: k
 6. [Quellen](#quellen)
 
 # Definition
-Obeya Ist eine Form von [Projektmanagement](Projektmanagement.md) bzw. eine visuelle Methode des [Lean Managements](https://github.com/nicolasrmg/ManagingProjectsSuccessfully.github.io/blob/main/kb/Lean_Projektmanagement.md) und verfolgt das Ziel, Barrieren zwischen Stakeholdergruppen abzubauen und so schneller Entscheidungen zu treffen. Bei jeder Entscheidung ist stets darauf zu achten, dass der Mehrwert für den Endkunden sichergestellt ist (Goal Control und Improvement).
+Obeya Ist eine Form von [Projektmanagement](Projektmanagement.md) bzw. eine visuelle Methode des [Lean Managements](Lean_Projektmanagement.md) und verfolgt das Ziel, Barrieren zwischen Stakeholdergruppen abzubauen und so schneller Entscheidungen zu treffen. Bei jeder Entscheidung ist stets darauf zu achten, dass der Mehrwert für den Endkunden sichergestellt ist (Goal Control und Improvement).
 Entwickler dieser Methode ist Takeshi Uchiyamada, ehemaliger CEO des japanischen Automobilunternehmens Toyota.[^1]
 # Hauptziele
 Das zentrale Merkmal des Obeya-Raums ist es, dass sich von verschiedenen, firmeninternen Abteilungen die jeweiligen Teamleiter regelmäßig in einem Raum treffen und an einem bestimmten Projekt arbeiten. Der Raum ist für jedes Mitglied zu jeder Zeit zugänglich. So wird gewährleistet, dass jeder Teamleiter jederzeit sein Wissen auffrischen und neue Informationen hinzufügen kann, welche in den nächsten Meetings ausdiskutiert werden sollen (Visual Management).
