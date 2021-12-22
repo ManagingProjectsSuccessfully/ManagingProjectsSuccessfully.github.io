@@ -54,7 +54,7 @@ Im Folgenden ist eine solche RASIC [Matrix] (https://wirtschaftslexikon.gabler.d
 *Rasic-Matrix*
 
 
-Durch die Abbildung lässt sich zeigen, dass eine solche [Matrix](Matrix_Projektorganisation.md) vorab erstellt werden kann, um Auseinandersetzungen bezüglich der Rollenverteilung, die während des Projekts entstehen können, zu vermeiden. „Sollte es nun doch vorab zu Uneinigkeiten in Bezug auf die Aufgabenverteilung kommen, ist die Erstellung einer RASIC-Matrix ein gutes Instrument, um Transparenz und Klärung herbeizuführen.“ [^8]
+Durch die Abbildung lässt sich zeigen, dass eine solche [Matrix](Matrix_Projektorganisation.md) vorab erstellt werden kann, um Auseinandersetzungen bezüglich der Rollenverteilung, die während des Projekts entstehen können, zu vermeiden. „Sollte es nun doch [vorab] zu Uneinigkeiten in Bezug auf die Aufgabenverantwortlichkeiten kommen, ist die Erstellung einer RASIC-Matrix ein gutes Instrument, um Transparenz und Klärung herbeizuführen.“ [^8]
 
 
 # 2. Fazit und Kritik am Konfliktmanagement in Bezug auf unterschiedliche Projektmanagement-Ansätze
@@ -65,7 +65,7 @@ Menschen handeln beispielsweise in Werte- und Beziehungskonflikten aus Emotionen
 
 ## 2.2 Fazit
 
-Wie bereits erwähnt ist "eines der wesentlichen Elemente des Konfliktmanagements [] die Fähigkeit, mögliche Konflikte und Konfliktpotenziale bereits im Vorfeld zu erkennen und entsprechende Verhandlungsstrategien zu entwickeln, um den Konflikt gar nicht erst entstehen zu lassen"[^8]. Folglich stellt sich zuletzt die Frage, ob Konfliktmanagement im klassischen Projektmanagement sinnvoll ist. Die Antwort ist, ja. Konflikte lassen sich durch einige Methoden, wie beispielsweise die R.A.S.I.C. Matrix, im klassischen Projektmanagement schon bei der anfänglichen Planung des definierten Endzustandes eines Projektes erkennen und vermeiden.[^14] Bezüglich der Kritik wäre es jedoch möglich den Ansatz des hybriden Projektmanagements in Betracht zu ziehen, da hierbei die positiven Eigenschaften des Projektmanagements übernommen werden und die negativen Aspekte ersetzt werden durch innovative Ideen des agilen Projektmanagements.[^14]
+Wie bereits erwähnt ist "eines der wesentlichen Elemente des Konfliktmanagements […] die Fähigkeit, mögliche Konflikte und Konfliktpotenziale bereits im Vorfeld zu erkennen und entsprechende Verhandlungsstrategien zu entwickeln, um den Konflikt gar nicht erst entstehen zu lassen"[^8]. Folglich stellt sich zuletzt die Frage, ob Konfliktmanagement im klassischen Projektmanagement sinnvoll ist. Die Antwort ist, ja. Konflikte lassen sich durch einige Methoden, wie beispielsweise die R.A.S.I.C. Matrix, im klassischen Projektmanagement schon bei der anfänglichen Planung des definierten Endzustandes eines Projektes erkennen und vermeiden.[^14] Bezüglich der Kritik wäre es jedoch möglich den Ansatz des hybriden Projektmanagements in Betracht zu ziehen, da hierbei die positiven Eigenschaften des Projektmanagements übernommen werden und die negativen Aspekte ersetzt werden durch innovative Ideen des agilen Projektmanagements.[^14]
 
 
 
