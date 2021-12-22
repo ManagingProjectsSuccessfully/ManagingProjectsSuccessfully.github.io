@@ -9,7 +9,7 @@ Im klassischen [Projektmanagement](Projektmanagement.md) ist der Projektleiter f
 
 # Die zwei Arten ein Projekt zu leiten
 
-* In hierarchiefreien Projektgruppen hat der Projektleiter die Rolle eines Initiators und Moderators. Hierbei tragen alle Teammitglieder gemeinsam die Verantwortung für die Erreichung des Projektergebnisses und sind somit gleichgestellt. Vergleichbar mit der [Bottom Up Planning](Bottom_Up_Planning.md)
+* In hierarchiefreien Projektgruppen hat der Projektleiter die Rolle eines Initiators und Moderators. Hierbei tragen alle Teammitglieder gemeinsam die Verantwortung für die Erreichung des Projektergebnisses und sind somit gleichgestellt. Vergleichbar mit dem [Bottom Up Planning](Bottom_Up_Planning.md)
 
 * Bei hierarchischen Projektgruppen wird ein Teammitglied von einem Vorgesetzten oder einem Team auserwählt und mit einer höheren Verantwortung und besonderer Kompetenz ausgestattet. Die Breite dieser Kompetenz kann auch bis zur uneingeschränkten Führung der jeweiligen Projektgruppe führen. Diese sind wiederum vergleichbar mit dem [Top Down Planning](Top_Down_Planning.md)  
 Der folgende Beitrag fokussiert sich genau auf solch einen Projektleiter, einer klassischen und hierarchischen Projektgruppe.
