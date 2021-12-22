@@ -73,8 +73,8 @@ _Erstellt durch den Autor_
 # Siehe auch
 
 * [Projektphasen_klassisch](https://managingprojectssuccessfully.github.io/kb/Projektphasen_klassisch.html)
-* [Projektmanagementhandbuch](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagementhandbuch.md)
-* [Rollen im klassischen Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Rollen_klassisch.md)
+* [Projektmanagementhandbuch](https://managingprojectssuccessfully.github.io/kb/Projektmanagementhandbuch.html)
+* [Rollen im klassischen Projektmanagement](https://managingprojectssuccessfully.github.io/kb/Rollen_klassisch.html)
 
 # Weiterführende Literatur
 
