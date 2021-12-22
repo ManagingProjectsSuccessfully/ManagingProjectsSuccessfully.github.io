@@ -1,104 +1,80 @@
 ---
 title: Retrospective
-tags: agil klassisch
+tags: Agil, Sprint, Rückblick, Verbesserung, Scrum, Iteration
 author: nta01
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Retrospective um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Retrospective ist ein wiederkehrendes Meeting aus dem agilen Management. Dieses findet am Ende jeder [Iteration](https://de.wiktionary.org/wiki/Iteration) statt. Es wird kritisch reflektiert, wie der vorhergehende Sprint gelaufen ist.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![Abbildung](Retrospective/Bild1.png)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+*Retrospective*[^2]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Einführung
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Beim agilen Projektmanagement geht es unter anderem um Verbesserung. Deshalb ist eine Retrospective am Ende jedes Sprints vorgesehen. Sie dient dazu, Arbeitsabläufe und die Zusammenarbeit kontinuierlich weiterzuentwickeln und zu optimieren. Dies erlangt man durch das Einholen von Feedback von den einzelnen Teammitgliedern.[^3][^9]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Vorgehen
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Es gibt viele verschiedene Herangehensweisen, eine Retrospective zu gestalten. Das Format gelegentlich zu ändern kann für Abwechslung sorgen. 
+Beispiele für Formate sind:
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Retrospective/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
+| Grundgedanke| Vorgehen | 
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Simples analoges Vorgehen  | Hier erhält jedes Teammitglied zu Beginn Karteikarten, auf die gleichermaßen Erfolge und Misserfolge des letzten Sprints geschrieben werden. In der ersten Runde hängen die Teammitglieder die positiven Ereignisse an ein Whiteboard und diskutieren diese. In der zweiten Runde werden die negativen Ereignisse aufgehängt und besprochen.[^3]|
+| Nutzen von digitalen Vorlagen | Eine weitere Möglichkeit ist es, digitale Vorlagen für die Retrospective zu nutzen. Diese werden zum Beispiel von Trello, Confluence, Miro oder Mural angeboten.[^4]|
+| Einsatz von Spielen  | *Beispiele* "[Sails](https://de.pons.com/übersetzung/englisch-deutsch/sails) and [Anchors](https://de.pons.com/übersetzung/englisch-deutsch/anchor)" - Was sind die Anker, die das Team herunterziehen, was gibt den Segeln des Teams den Wind.[^5]"[Rose](https://de.pons.com/übersetzung/englisch-deutsch/rose?bidir=1), [Bud](https://de.pons.com/übersetzung/englisch-deutsch/Bud), [Thorn](https://de.pons.com/übersetzung/englisch-deutsch/Thorn)" - Was waren die Highlights (Rosenblüte), was kann man noch verbessern (Knospe) und was ist falsch gelaufen (Dorn)[^6]|
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+*Abbildung: Beispiele zum Gestalten einer Retrospective*
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Unabhängig vom Format ist es das Ziel, im Anschluss eine Liste zu erstellen mit Punkten, die im nächsten Sprint verbessert, abgeschafft oder behalten werden sollen. In der nächsten Retrospective wird überprüft, ob die gesammelten Punkte erfolgreich umgesetzt werden konnten.[^3]
 
-### Ebene-3-Überschrift
+# Vor- und Nachteile der Retrospective
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## Vorteile
 
-# Aspekt n
+Die regelmäßige Durchführung einer Retrospective bietet verschiedene Vorteile, darunter:[^1][^7]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+* Zeit und Raum für die Einholung von Feedback von den verschiedenen Teammitgliedern
+* Optimierung der Teamdynamik 
+* Optimierung von Arbeitsabläufen, Probleme beim gemeinsamen Arbeitsprozess werden dargelegt 
+* Dokumentation des Feedbacks, die für das Team zu jeder Zeit ersichtlich ist
+* Unterstützung bei der Entscheidungsfindung bezüglich des weiteren Vorgehens im nächsten Sprint
 
+## Nachteile
+
+Probleme die bei der Retrospective auftreten können, sind die Folgenden:[^1][^7][^8]
+
+* Die Veranstaltung einer Retrospective stellt einen zusätzlichen Zeit- und Arbeitsaufwand dar
+* Die Ständige Wiederholung des immer gleichen Vorgangs kann zu Langweile führen; Um zu vermeiden, dass die Teammitglieder ihr Engagement verlieren, empfiehlt es sich, das Format regelmäßig zu wechseln
+* Teammitglieder könnten emotional verletzt werden, deshalb ist sachliches Feedback von hoher Bedeutung
+* Frustration der Beteiligten, falls vereinbarte Verbesserungsvorschläge nicht umgesetzt werden
+
+# Außerdem wissenswert
+
+Die Retrospective wird in verschieden Arten des agilen Projektmanagements eingesetzt, darunter zum Beispiel beim Scrum.[^1]
+Sie findet innerhalb eines Teams nach jeder Iteration statt, das heißt alle 2-4 Wochen und dauert meist eine Stunde. Bei Bedarf kann man auch teamübergreifende Retrospectiven ansetzen, die zum Beispiel alle 3-6 Monate stattfinden. [^9]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Retrospective.md)
+* [Trello_PM_Tool](Trello_PM_Tool.md)
+* [SCRUM](SCRUM.md)
+* [Daily_Scrum](Daily_Scrum.md)
+* [Stand_Ups](Stand_Ups.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Ralf Wirdemann, Dr. Johannes Mainusch (2017): "Scrum mit User Stories"
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://www.easyagile.com/blog/retrospectives/
+[^2]: https://itadvisory.dk/wp-content/uploads/2018/11/retrospective-starfish-with-post-its.png
+[^3]:[Ralf Wirdemann, Dr. Johannes Mainusch (2017): "Scrum mit User Stories"](https://www.hanser-elibrary.com/doi/epdf/10.3139/9783446450776.002)
+[^4]: https://www.atlassian.com/de/team-playbook/plays/retrospective
+[^5]: https://overlapassociates.com/ideas/how-to-run-a-sails-and-anchors-retrospective-the-agile-way/
+[^6]: https://easyretro.io/templates/rose-bud-thorn/
+[^7]: https://agileworld.blogspot.com/2006/12/pros-and-cons-of-conducting.html
+[^8]: https://greengarageblog.org/7-pros-and-cons-of-agile-methodology
+[^9]: https://www.it-agile.de/agiles-wissen/agile-teams/was-sind-retrospektiven/

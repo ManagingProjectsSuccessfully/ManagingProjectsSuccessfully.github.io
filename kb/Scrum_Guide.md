@@ -1,104 +1,141 @@
 ---
 title: Scrum_Guide
-tags: agil klassisch
+tags: agil
 author: MrSommC
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Scrum_Guide um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Um zu Beginn ein grobes Verständnis über den Scrum-Guide zu schaffen, soll zunächst eine Kurzbeschreibung folgen. Der Scrum-Guide ist ein Rahmenwerk für die Entwicklung, 
+Bereitstellung und Aufrechterhaltung komplexer Produkte im Bereich der Softwareentwicklung.
+Dieser Leitfaden enthält die Definition von Scrum, bestehend aus den Scrum-Rollen, Ereignissen, Artefakten und den Regeln, die sie miteinander verbinden. 
+Ken Schwaber und Jeff Sutherland haben Scrum entwickelt. Der Scrum-Guide wurde von ihnen geschrieben und bereitgestellt. Gemeinsam stehen sie hinter dem Scrum-Guide[^1]. 
 
 
-# Aspekt 1
+# Der Scrum-Guide
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Die wichtige Bedeutung von Scrum im agilen [Projektmanagement](Projektmanagement.md) ist unumstritten, so fallen die beiden Begriffe Scrum und agiles Projektmanagement häufig im gleichen Kontext. 
+Es ist also wenig überraschend, dass Scrum der beliebteste agile Ansatz im Projektmanagement ist[^2]. Bevor der konkrete Scrum_Guide beschrieben wird, soll ein allgemeiner 
+Überblick über Scrum gegeben werden. Was also genau ist Scrum. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Scrum ist ein Rahmenwerk, in dem Menschen komplexe, adaptive Probleme angehen und dabei produktiv und kreativ Produkte von größtmöglichem Wert liefern können.
+Scrum hilft Menschen, Teams und Organisationen adaptive Lösungen für komplexe Probleme zu schaffen. Die Scrumgründer haben den Scrum Guide geschrieben, um Scrum klar und 
+prägnant zu erklären. Dieser Leitfaden enthält die Definition von Scrum. Diese Definition besteht aus den Verantwortlichkeiten, Ereignissen, Artefakten und den Regeln, die Scrum 
+miteinander verbinden[^3].
 
-![Beispielabbildung](Scrum_Guide/test-file.jpg)
 
-*lustiges Testbild*
 
-# Aspekt 2
+## Konkrete Inhalte des Scrum-Guides
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Laut dem offiziellen Scrum-Guide aus dem Jahr 2020 enthält der Guide folgende Inhalte:
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+* Scrum-Definition 
 
-So kann man eine Tabelle erstellen:
+*	Scrum-Theorie
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+*	Scrum-Werte
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+*	Scrum Team
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+*	Scrum Events 
 
-### Ebene-3-Überschrift
+*	[Scrum Artefakte](Scrum_Artefakte.md)
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+*	[Sprint Backlog](Sprint_Backlog.md)
 
-# Aspekt n
+*	[Increment](Increment.md)
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+*	Schlussbemerkung[^4]
+
+
+## Scrum-Rollen, Ereignissen und Artefakte 
+
+Wie zu Beginn beschrieben enthält der Scrum-Guide die Definition von Scrum. Diese Definition besteht aus den Scrum-Rollen, Ereignissen, Artefakten und den Regeln. Um den 
+Scrum-Guide umfassend zu verstehen, müssen die einzelnen Bereiche verstanden werden. 
+
+
+## Scrum-Rollen
+
+Bei Scrum gibt es drei Rollen die direkt am Prozess beteiligt sind, den Product Owner, den ScrumMaster und den Developer[^4]. 
+Kurzgesagt, stellt der Product Owner fachliche Anforderungen und priorisiert sie. 
+
+Der [Scrum-Master](Scrum_Master.md) hat die Aufgabe den Prozess zu managen und Hindernisse zu beseitigen. Er sorgt dafür, dass während dem Prozess die Scrum_Regeln eingehalten werden.
+Der Developer hat das Ziel, wie sein Name schon vermuten lässt, das Produkt zu entwickeln[^6]. 
+
+
+## Scrum_Eregnisse
+### Der Sprint 
+
+Für den [Sprint](Sprint.md) ist das Entwicklungsteam verantwortlich, sie bestimmen die Dauer des Sprints. Der Sprint kann mehrere Wochen dauern und Ziel ist es Entwicklungsarbeit zu leisten[^7].
+
+### Das Sprint Planning
+
+Beim Sprint Planning wird der Sprint geplant, es dauert mehrere Stunden. Der Product Owner klärt gemeinsam mit dem Entwicklungsteam was entwickelt werden soll[^7].
+
+### Der Daily Scrum
+
+Der [Daily Scrum](Daily_Scrum.md) ist ein maximal 15-minütiges Treffen des Entwicklungsteams. Ziel ist es alle Beteiligten auf den gleichen Kenntnisstand zu bringen[^7].
+
+### Der Sprint Review
+
+Der Sprint Review hat das Ziel die Ergebnisse des Sprints zu bewerten, es wird analysiert ob die Ziele des Sprints sowie das Ergebnisse (Increment) erreicht wurden[^7].
+
+### Die Sprint-Retrospektive
+
+Bei der Sprint-Retrospektive werden im Gegensatz zum Review nicht die Increments bewertet, sondern die Arbeitsatmosphäre des Scrum-Teams. Es wird nach möglichen Problemen und 
+Lösungen gesucht[7].
+
+### Scrum-Artefakte
+
+Die [Scrum-Artefakte](Scrum_Artefakte.md) lauten Product Backlog, Sprint Backlog und Produktinkrement. Die Artefakte werden zum dauerhaften Informationsaustausch genutzt[^8].
+
+
+
+## Visualisierung des Scrum-Prozesses
+
+![Beispielabbildung](Scrum_Guide/ScrumProzess.png)  [^5]
+
+*Visualisierung des Scrum-Prozesses*
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Scrum_Guide.md)
+
+* [Sprint](Sprint.md)
+
+* [Daily Scrum](Daily_Scrum.md)
+
+* [Scrum-Artefakte](Scrum_Artefakte.md)
+ 
+* [Scrum_Rules.mdScrum_Rules](Scrum_Rules.md)
+ 
+* [Sprint Backlog](Sprint_Backlog.md)
+ 
+* [Increment](Increment.md)
+
+* [Scrum-Master](Scrum_Master.md)
+
+* (Projektmanagement)[Projektmanagement.md] 
+ 
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* W.Glogner: Scrum Der Pradigmenwechsel im Projekt- und Produktmanagement – Eine Einführung, Informatik-Spektrum, 2010 - Springer
+
+* [Scrum](https://www.atlassian.com/de/agile/scrum)
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [The Scrum Guide](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)
+[^2]: [Agiles Projektmanagement: Der ultimative Überblick](https://projekte-leicht-gemacht.de/projektmanagement/agiles-projektmanagement/)
+[^3]: [What is Scrum](https://www.scrum.org/resources/what-is-scrum )
+[^4]: [Der Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf)
+[^5]: [Bild](https://www.bing.com/images/search?view=detailV2&ccid=QfyEah%2b1&id=B7DECA9FBBB98F3723EEFC0B8DAFA331DE30B322&thid=OIP.QfyEah-1aXpqK7RSJJJ7qAHaE7&mediaurl=https%3a%2f%2fimage.freepik.com%2fvektoren-kostenlos%2fscrum-infografik_23-2148582396.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.41fc846a1fb5697a6a2bb45224927ba8%3frik%3dIrMw3jGjr40L%252fA%26pid%3dImgRaw%26r%3d0&exph=417&expw=626&q=scrum+guide+grafik&simid=607988806035197205&FORM=IRPRST&ck=902968CA6FB2836A04D392B51E5415C9&selectedIndex=3&qpvt=scrum+guide+grafik&ajaxhist=0&ajaxserp=0)
+[^6]: [Was ist Scrum](https://scrum-master.de/Was_ist_Scrum/Scrum_auf_einer_Seite_erklaert)
+[^7]: [Die-Scrum-Ereignisse](http://scrum.wollsieffer.de/die-scrum-ereignisse)
+[^8]: [Was sind Scrum Artefakte und welche Rolle spielen sie im Projektmanagement?](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/scrum-artefakte)
+
+
+
 
