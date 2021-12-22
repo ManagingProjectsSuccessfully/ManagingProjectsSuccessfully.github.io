@@ -60,27 +60,27 @@ Arten von Roadmaps übertragen werden.
 ![Roadm_Erst_Abb1](Roadmap/Roadm_Erst_Abb1.PNG)
 
 
-**Schritt 1:** Definition von Untersuchungsfeldern
+**Schritt 1 Definition von Untersuchungsfeldern:** 
 Im ersten Schritt findet eine Abgrenzung der zu untersuchenden Objekte statt. Hierzu werden die 
 Untersuchungsfelder sowie das betrachtete Umfeld definiert. Weiter werden Ziele sowie die Zeitskalierung 
 festgelegt [^2].
 
-**Schritt 2:** Trend-, Bedarfs-/Potenzialanalyse
+**Schritt 2 Trend-, Bedarfs-/Potenzialanalyse:** 
 Danach findet eine Analyse der Trends, des Bedarfs sowie des Potenzials statt. Herangezogen werden dabei 
 verschiedenste Quellen, wie Literatur, Datenbanken oder auch Expertenbefragungen[^2].
 
-**Schritt 3:** Identifizierung von Chancen und Risiken
+**Schritt 3 Identifizierung von Chancen und Risiken:** 
 Im dritten Schritt werden Chancen und Risiken identifiziert. Folglich können Wild Cards bestimmt 
 und Zukunftsbilder gestaltet werden. Zudem werden Arbeitsgruppen zusammengestellt und Aufgaben verteilt 
 [^2].
 
-**Schritt 4:** Erstellung der Roadmap
+**Schritt 4 Erstellung der Roadmap:** 
 Für die Erstellung der Roadmap werden alle Ergebnisse der vorherigen Schritte in [Meilensteine](Meilensteine.md) überführt 
 und in die Zeitskala eingetragen. Hiervon lassen sich schließlich Handlungsempfehlungen ableiten und 
 Aktivitäten definieren. Wichtig ist außerdem die Vollständigkeits- und Konsistenzanalyse, bei der die 
 Roadmap auf Lücken sowie inhaltliche und zeitliche Konsistenz überprüft wird [^2].
 
-**Schritt 5:** Transfer
+**Schritt 5 Transfer:** 
 Die Erstellung der Roadmap schließt mit dem Transfer und der zielgruppengerechten Aufbereitung zur 
 weiteren Kommunikation mit allen Stakeholdern [^2].
 
