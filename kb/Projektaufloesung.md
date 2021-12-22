@@ -46,7 +46,7 @@ Die Organisation von Abschlussveranstaltungen ist nicht zwingend notwendig, jedo
 * [Projektdokumentation](Projektdokumentation.md)
 * [Projektkommunikation](Projektkommunikation.md)
 * [Projektleiter](Projektleiter.md)
-* [Projektmanagment](Projektmanagment.md)
+* [Projektmanagement](Projektmanagement.md)
 * [Projektmitarbeiter](Projektmitarbeiter.md)
 * [Projektphasen klassisch](Projektphasen_klassisch.md)
 
