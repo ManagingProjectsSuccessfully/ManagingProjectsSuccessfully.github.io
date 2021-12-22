@@ -44,9 +44,9 @@ Hier führt ein systematisches Vorgehen zum Ziel. Die Fragen, die sich das Unter
 
 Die 7 Arten der Verschwendungen werden in der folgenden Abbildung veranschaulicht.[^1]
 
-![7 Arten der Verschwendung](Muda_7_Arten_von_Verschwendung/7_Arten_Verschwendung.jpg) 
+![7 Arten der Verschwendung](Muda_7_Arten_von_Verschwendung/7_Arten_Verschwendung.jpg)
 
-*7 Arten der Verschwendung*
+*7 Arten der Verschwendung* [^4]
 
 ## Muda 1 : Transport
 
@@ -101,3 +101,4 @@ Mängel/Fehler können zu Nacharbeit, oder schlimmer noch zu Ausschuss führen. 
 [^1]: [Die 7 Verschwendungsarten und was Sie dagegen tun können](https://www.produktion.de/technik/die-7-verschwendungsarten-und-was-sie-dagegen-tun-koennen-335.html)  
 [^2]: [7 Arten der Verschwendung – einfach erklärt!](https://der-prozessmanager.de/aktuell/wissensdatenbank/arten-der-verschwendung)  
 [^3]: [Die 7 Verschwendungsarten in Lean: Wie Sie Ihre Ressourcen optimieren](https://kanbanize.com/de/lean-management-de/wert-verschwendung/7-arten-der-verschwendung-nach-lean)
+[^4]: [Lean Methoden und Prozesse: Verschwendung vermeiden](https://www.management-circle.de/blog/lean-methoden-und-prozesse-verschwendung-vermeiden/)
