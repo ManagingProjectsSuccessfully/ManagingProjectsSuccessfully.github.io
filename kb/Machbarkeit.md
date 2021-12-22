@@ -30,7 +30,7 @@ Intention, Auftrag und Ziel der Ausarbeitung einer Machbarkeitsstudie ist, die M
 
 Die technische Machbarkeit kommt je nach Projekt unterschiedlich zum Tragen. Es kann entweder kontrolliert werden, ob alle für das Projekt notwendigen technischen Voraussetzungen im Unternehmen vorhanden sind oder ob die Entwicklung bestimmter Komponenten während des Projekts möglich sind.[^5]
 
-Während der technischen Machbarkeitsanalyse ist es wichtig viele Gespräche mit externen und internen [Stakeholdern](Stakeholdermanagement.md) zu führen. Dadurch wird eine realistische Abschätzung der technischen Machbarkeit erlangt.[^5] 
+Während der technischen Machbarkeitsanalyse ist es wichtig viele Gespräche mit externen und internen [Stakeholdern](Stakeholdermanagement.md) zu führen. Dadurch wird eine realistische Einschätzung der technischen Machbarkeit erlangt.[^5] 
 
 
 ## Wirtschaftliche Machbarkeit
@@ -45,7 +45,7 @@ Die juristische Machbarkeit prüft, ob das Projekt den Regelungen, Vorschriften 
 
 ## Politische Machbarkeit
 
-Die politische Machbarkeit unterteilt sich in zwei Bereiche, in die interne und die externe politische Machbarkeit.[^4] 
+Die politische Machbarkeit wird in zwei Bereiche unterteilt, in die interne und die externe politische Machbarkeit.[^4] 
 
 Bei der internen politischen Machbarkeit ist zu beachten, dass das Projekt zum Unternehmen und dessen Zielen passt. Auch die [Stakeholder](Stakeholdermanagement.md), insbesondere die Mitarbeiter des Unternehmens, spielen eine wichtige Rolle. Denn von ihnen muss das Projekt akzeptiert und umgesetzt werden.[^4]
 
@@ -61,7 +61,7 @@ Die [ressourcenbezogene](Ressourcenplanung.md) Machbarkeitsprüfung beurteilt, o
 
 Bei der organisatorischen Machbarkeit geht es vor allem um die Betrachtung und Anpassung der Aufbau- und Ablauforganisation des Unternehmens in Bezug auf das Projekt.[^6][^7] 
 #
-Die Durchführung der Machbarkeitsstudie beginnt in der Regel mit der Überprüfung der technischen Machbarkeit. Diese hat einen Einfluss auf die restlichen Dimensionen. Es folgen die juristische, politische, ressourcenbezogene und organisatorische Machbarkeit. Zum Schluss wird die wirtschaftliche Machbarkeit überprüft.[^4]
+Die Durchführung der Machbarkeitsstudie beginnt in der Regel mit der Überprüfung der technischen Machbarkeit. Diese hat Einfluss auf die restlichen Dimensionen. Es folgen die juristische, politische, ressourcenbezogene und organisatorische Machbarkeit. Zum Schluss wird die wirtschaftliche Machbarkeit überprüft.[^4]
 
 
 In Abbildung 1 wird der zuvor beschriebene Ablauf einer Machbarkeitsstudie grafisch veranschaulicht.[^4]
@@ -73,7 +73,7 @@ In Abbildung 1 wird der zuvor beschriebene Ablauf einer Machbarkeitsstudie grafi
 
 Das Gesamtergebnis einer Machbarkeitsstudie ist der Machbarkeitsnachweis, auch [Proof-of-Concept](Proof_of_Concept.md) genannt. Dieser gilt als Genehmigung der Durchführbarkeit eines Projekts.[^3][^4]
 
-Ist die Machbarkeit eines Projekts nach der ersten Prüfung nicht gegeben, werden mit Hilfe einer Simulation mehrere Einflussgrößen hinsichtlich unterschiedlicher Szenarien getestet. Zeigt die Simulation, dass das [Kosten-Nutzen-Verhältnis](Kosten_Nutzen_Analyse.md) nicht passend ist, wird ein Stopp des Projekts beantragt.[^2]
+Ist die Machbarkeit eines Projekts nach der ersten Prüfung nicht gegeben, werden mit Hilfe einer Simulation mehrere Einflussgrößen zu unterschiedlichen Szenarien getestet. Zeigt die Simulation, dass das [Kosten-Nutzen-Verhältnis](Kosten_Nutzen_Analyse.md) nicht passend ist, wird ein Stopp des Projekts beantragt.[^2]
 
 
 # Siehe auch
