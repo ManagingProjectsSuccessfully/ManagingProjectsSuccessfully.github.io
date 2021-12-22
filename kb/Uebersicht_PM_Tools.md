@@ -76,7 +76,7 @@ ___
 
 # Weiterführende Literatur
 
-[Gerold Patzak, Günter Rattay: *Projekte, Projektportfolios, Programme und projektorientierte Unternehmen* ](https://www.google.de/books/edition/Projektmanagement/VhBBDwAAQBAJ?hl=de&gbpv=0)
+Patzak, Gerold und Rattay, Günter (2014): [*Projekte, Projektportfolios, Programme und projektorientierte Unternehmen* ](https://www.google.de/books/edition/Projektmanagement/VhBBDwAAQBAJ?hl=de&gbpv=0)
 
 # Siehe auch
 Projektmanagement Tools:
