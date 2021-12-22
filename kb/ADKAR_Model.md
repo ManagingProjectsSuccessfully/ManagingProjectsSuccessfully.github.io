@@ -6,7 +6,7 @@ anrechnung: k
 ---
 # 1) Was ist das ADKAR Modell?
 Das ADKAR Modell von Proscigründer Jeff Hiatt „ist ein zielorientiertes [Change-Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Change_Management.md)-Modell, welches als Leitfaden für Veränderungen auf individueller und organisatorischer Ebene gilt.“[^1] 
-Bei dem Wort „ADKAR“ handelt es sich um ein Akronym, welches für die fünf Schritte steht, die durchgeführt werden müssen, um Veränderungen auf individueller und im Folgenden dann auch auf organisatorischer Ebene erfolgreich implementieren zu können. 
+Bei dem Wort „ADKAR“ handelt es sich um ein Akronym, welches für die fünf Schritte steht, die nacheinander durchgeführt werden müssen, um Veränderungen auf individueller und im Folgenden dann auch auf organisatorischer Ebene erfolgreich implementieren zu können. 
 # 2) Die fünf Stufen des ADKAR Modells
 ADKAR ist ein Akronym und steht für: 
 
@@ -25,18 +25,18 @@ Nachfolgende Fragestellungen können dabei helfen, diesen Schritt auszuführen:
 
 ## Desire 
 
-Die zweite Phase stellt "Desire" dar. Hier muss sichergestellt werden, dass jeder den Wunsch hat, die Veränderungen durchzuführen und zu unterstützen.  
+Sobald der Grundbaustein mit dem Bewusstsein für Veränderung gelegt wurde, kann man in die zweite Phase "Desire" übergehen. Die zweite Phase stellt "Desire" dar. Hier muss sichergestellt werden, dass jeder den Wunsch hat, die Veränderungen durchzuführen und zu unterstützen.  
 Da dieser Schritt sehr individuell ist, müssen anhand von Coachings und Gesprächen die persönliche Situation und Anreize des Mitarbeiters erkannt und angewandt werden. [^5]
 
 
 ## Knowledge
 
-Bei dieser Ebene muss sichergestellt werden, dass die Person das benötigte Wissen hat, die für die Umsetzen der Veränderung notwendig ist. Dies kann beispielsweise mithilfe von Schulungen erreicht werden. [^4]
+Bei dieser Ebene muss sichergestellt werden, dass die Person das benötigte Wissen hat, die für die Umsetzung der Veränderung notwendig ist. Dies kann beispielsweise mithilfe von Schulungen erreicht werden. [^4]
 
 
 ## Ability
 
-Es muss sichergestellt werden, dass die Person die Fähigkeit besitzt, die bereits vorangegangenen drei Schritte in die Praxis umzusetzen. [^6] Mögliche Hilfestellungen hierbei können Coachings, Feedback und mehr Übung sein. [^7]
+"Knowing how to do something and being able to do something is not necessarily the same thing." Es muss sichergestellt werden, dass die Person die Fähigkeit besitzt, die bereits vorangegangenen drei Schritte in die Praxis umzusetzen. [^6] Mögliche Hilfestellungen hierbei können Coachings, Feedback und mehr Übung sein. [^7]
 
 
 ## Reinforcement
