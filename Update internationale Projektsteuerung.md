@@ -5,12 +5,11 @@ author: ValerieGF
 anrechnung: k
 ---
 
-![Beispielabbildung](Internationale_Projektsteuerung/projektsteuerung mps.jpg)
-
 # Einordnung
 
 Um das Thema der internationalen Projektsteuerung zu verstehen, muss man diese im Kontext des Projektes einordnen. Die Projektsteuerung gehört zusammen mit der [Projektleitung](Projektleitung.md) zu den Aufgaben des [Projektmanagement](Projektmanagement.md).  Dabei übernimmt die Projektleitung die „Führungsverantwortung“. [^1]
 
+![Abbildung](kb/Internationale_Projektsteuerung/projektsteuerung.jpg)
 
 # Definition
 
@@ -27,7 +26,7 @@ Auch hier, kann nur eine allgemeine Aussage getroffen werden, da dies für jedes
 # Welche Tools werden in der Projektsteuerung genutzt
 
 Es steht eine Vielzahl an Projektmanagement-Software zur Verfügung. Dabei hängt es vom jeweiligen Unternehmen ab, zu entscheiden, welchen Mehrwehrt die Tools bringen.
-und welche Informationen dabei helfen, das Projekt auszuwerten und gezielt den Punkt zu finden, an dem gegebenenfalls nachgesteuert werden muss, damit das Projekt im Zeitplan bleibt oder zurück in die Spur kommt. Viele Unternehmen arbeiten mit MS Project. Dies ist gut geeignet, um viele Projektmanagementmethoden abzubilden. Es eignet sich insbesondere für Arbeitspaketplanung, Projektablaufplanung und Ressourcenplannung. Eine weitere Option ist das agile Arbeiten, beispielsweise mit einem Trello oder einem KanbanFlow zusätzlich wird oft für die Kommunikation Slack verwendet. [^3]
+Deshalb wertet man das Projekt aus, indem man hilfreiche Informationen sucht. Diese unterstützen dabei das Projekt auszuwerten und gezielt den Punkt zu finden, an dem gegebenenfalls nachgesteuert werden muss, damit das Projekt im Zeitplan bleibt oder zurück in die Spur kommt. Viele Unternehmen arbeiten mit MS Project. Dies ist gut geeignet, um viele Projektmanagementmethoden abzubilden. Es eignet sich insbesondere für Arbeitspaketplanung, Projektablaufplanung und Ressourcenplannung. Eine weitere Option ist das agile Arbeiten, beispielsweise mit einem Trello oder einem KanbanFlow zusätzlich wird oft für die Kommunikation Slack verwendet. [^3]
 
 # Was ist internationale Projektsteuerung
 
