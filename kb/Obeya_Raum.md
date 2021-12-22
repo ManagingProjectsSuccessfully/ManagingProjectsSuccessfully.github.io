@@ -10,13 +10,14 @@ anrechnung: k
 3. [Verlauf](#verlauf)
 4. [Wandel](#wandel)
 5. [Fazit](#fazit)
-6. [Quellen](#quellen)
+6. [Siehe auch](#siehe-auch)
+7. [Quellen](#quellen)
 
 # Definition
-Obeya Ist eine Form von [Projektmanagement](Projektmanagement.md) bzw. eine visuelle Methode des [Lean Managements](Lean_Projektmanagement.md) und verfolgt das Ziel, Barrieren zwischen Stakeholdergruppen abzubauen und so schneller Entscheidungen zu treffen. Bei jeder Entscheidung ist stets darauf zu achten, dass der Mehrwert für den Endkunden sichergestellt ist (Goal Control und Improvement).
+Obeya ist eine Form von [Projektmanagement](Projektmanagement.md) bzw. eine visuelle Methode des [Lean Managements](Lean_Projektmanagement.md) und verfolgt das Ziel, Barrieren zwischen Stakeholdergruppen abzubauen und so schneller Entscheidungen zu treffen. Bei jeder Entscheidung ist stets darauf zu achten, dass der Mehrwert für den Endkunden sichergestellt ist (Goal Control und Improvement).
 Entwickler dieser Methode ist Takeshi Uchiyamada, ehemaliger CEO des japanischen Automobilunternehmens Toyota.[^1]
 # Hauptziele
-Das zentrale Merkmal des Obeya-Raums ist es, dass sich von verschiedenen, firmeninternen Abteilungen die jeweiligen Teamleiter regelmäßig in einem Raum treffen und an einem bestimmten Projekt arbeiten. Der Raum ist für jedes Mitglied zu jeder Zeit zugänglich. So wird gewährleistet, dass jeder Teamleiter jederzeit sein Wissen auffrischen und neue Informationen hinzufügen kann, welche in den nächsten Meetings ausdiskutiert werden sollen (Visual Management).
+Das zentrale Merkmal des Obeya-Raums ist es, dass sich von verschiedenen, firmeninternen Abteilungen die jeweiligen Teamleiter regelmäßig in einem Raum treffen und an einem bestimmten Projekt arbeiten. Der Raum ist für jedes Mitglied zu jeder Zeit zugänglich. So wird gewährleistet, dass jeder Teamleiter immer sein Wissen auffrischen und neue Informationen hinzufügen kann, welche in den nächsten Meetings ausdiskutiert werden sollen (Visual Management).
 Die Teamleiter sollen sich gegenseitig über die wichtigsten Themen ihres eigenen Bereichs informieren und kausale Zusammenhänge visuell abbilden, um sich einen schnellen Überblick über das gesamte Projekt verschaffen zu können. Dies ermöglicht eine transparente Arbeitsweise.
 Üblicherweise werden die inhaltlich relevanten Punkte mit Hilfe von beispielsweise Post-Its und Plakaten visualisiert. Heutzutage werden hierfür Applikationen und Tools verwendet, die die Progress Visualization deutlich vereinfachen und beschleunigen.
 Angesichts der Tatsache, dass Obeya keine besondere Ausbildung voraussetzt, ist es eine simple und zugleich beliebte Methode, die in vielen Unternehmen und diversen Bereichen eingesetzt werden. Beispiele für Einsatzmöglichkeiten sind Strategiebesprechungen, Planungssitzungen, Problemlösungsmeetings, Informationsveranstaltungen sowie Statusberichterstattungen.[^2]
@@ -134,6 +135,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * [Projektmanagement](Projektmanagement.md)
+* [Lean Managements](Lean_Projektmanagement.md)
 * [Link auf diese Seite](Obeya_Raum.md)
 
 # Weiterführende Literatur
