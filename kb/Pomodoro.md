@@ -46,26 +46,6 @@ Dadurch entsteht folgender Ablauf:
 
 Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
 
-# Anwendung und Tipps zur Pomodoro-Technik
-
-Ein Problem und Kritikpunkt an der Pomodoro Technik sind die 25-Minuten-Einheiten. Welche Aufgabe dauert schon exakt 25 Minuten? Damit die Zeitmanagement-Methode optimal funktioniert, sollten Sie daher folgende Tipps zur Vorbereitung nutzen:
-
-* **Aufgaben priorisieren**
-
-Bevor es losgeht, verschaffen Sie sich einen kurzen Überblick der anstehenden Aufgaben. Notieren Sie sich kurz (!), was alles erledigt werden muss. Danach priorisieren Sie die Aufgaben.
-
-* **Zeitaufwand schätzen**
-
-Im zweiten Schritt schätzen Sie grob, wie viel Zeit jede der Aufgaben benötigt. Eine grobe Schätzung reicht. Wichtiger ist, dass Sie größere Aufgaben in kurze Intervalle von rund 25 kalkulierten Minuten aufteilen.
-
-* **Tag einteilen**
-
-Da Sie dank Schritt 1 die wichtigsten Aufgaben des Tages kennen und diese nun in kalkulierte Pomidori eingeteilt haben, sollten Sie diese nun in Ihrem Tagesplaner (eine kostenlose Vorlage erhalten Sie HIER) eintragen. Idealerweise planen Sie die Pomodoro-Intervalle am Vorabend oder gleich morgens als erstes.
-
-* **Fokussiert bleiben**
-
-Damit die Pomodoro-Technik funktioniert, müssen Sie diese eine Weile praktizieren und sich an die 25-Minuten-Einheiten gewöhnen. Ob Sie dazu eine Küchenuhr, eine Eieruhr oder das Smartphone nutzen, ist egal. Entscheidender ist, dass in dieser Zeit wirklich konzentriert und fokussiert arbeiten. Sobald der Timer klingelt, gönnen Sie sich eine kurze Verschnaufpause. Ziel ist, den Kopf frei zu bekommen und neue Kraft zu tanken. Weil die Konzentration so oder so nachlässt, ist nach dem vierten Durchgang eine bis zu 30-minütige Auszeit erforderlich.
-
 ## Beispieltabelle für die Pomodoro-Technik
 
 So kann man eine Tabelle erstellen:
@@ -73,9 +53,8 @@ So kann man eine Tabelle erstellen:
 | Priorität  | Aufgaben | Zeiteinheiten | +/- | OK |
 | -----------| -------- | ------------- | --- | -- |
 | HIGH       |  MPS Kompendium | ⬛⬛⬛⬛🔲| / |  ✅ |
-|            |          |               |     |    |
-|            |          |               |     |    |
-|            |          |               |     |    |
+| LOW       |  Seminararbeit   | ⬛⬛⬛🔲🔲| / |  ✅ |
+| HIGH       |  Prüfunganmeldung   | ⬛🔲🔲🔲🔲| / |  ✅ |
 
 Die Tabelle von links nach rechts:
 
@@ -142,6 +121,7 @@ Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchha
 
 [^1]: [Pomodorotechnique](pomodorotechnique.com)
 [^2]: [Zeitakrobat](https://zeitakrobat.de/pomodoro-methode-einfach-und-wirkungsvoll)
-[^3]: [Karrierbibel.de](https://karrierebibel.de/pomodoro-technik/)
+[^3]: [Karrierbibel](https://karrierebibel.de/pomodoro-technik/)
+[^3]: [Asana](https://asana.com/de/resources/pomodoro-technique)
 
 
