@@ -26,7 +26,7 @@ Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und 
 
 [Potenzialprojekte](Potenzialprojekte.md) sind durch ihr geringes Risiko und ihre einfache Projektorganisation charakterisiert, da sie trotz ihrer offenen Aufgabenstellung eine geringe Vernetzung mit dem Projektumfeld aufweisen. Unter diese Projektart fallen vor allem [Forschungsprojekte](Forschungsprojekte.md).[^4] 
 
-Im Gegensatz zu den Potenzialprojekten werden Pionierprojekte als risikoreich eingestuft. Diese Projektart zeichnet sich durch eine hohe Vernetzung mit dem Projektumfeld, sowie einem hohen Neuigkeitsgehalt aus, wodurch der Aufgabenumfang schwer abzuschätzen ist. Dies zeigt sich oftmals bei Firmenfusionen.
+Im Gegensatz zu den Potenzialprojekten werden [Pionierprojekte](Pionierprojekte.md) als risikoreich eingestuft. Diese Projektart zeichnet sich durch eine hohe Vernetzung mit dem Projektumfeld, sowie einem hohen Neuigkeitsgehalt aus, wodurch der Aufgabenumfang schwer abzuschätzen ist. Dies zeigt sich oftmals bei Firmenfusionen.
 
 Wichtig zu beachten ist, dass die Grenzen der Matrix nicht starr sind und eine eindeutige Zuordnung nicht immer möglich ist. Darüber hinaus wechseln viele Projekte während der Entwicklung von Vorstudienphase bis zur Realisierung ihre Projektart. Dabei wandeln sich Projekte meist vom Potenzial- zum Pionierprojekt und werden im Anschluss zu Akzeptanz- oder sogar Standardprojekt[^2]. 
 
@@ -51,11 +51,11 @@ Schlussendlich dient die Differenzierung in verschiedene Projektarten als Grunds
 
 # Weiterführende Literatur
 
-[Die Projekt-Methode](https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6386614)
+* [Die Projekt-Methode](https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6386614)
 
-[Projekdefinition und Arten](https://www.youtube.com/watch?v=Wv70nDefyNk)
+* [Projekdefinition und Arten](https://www.youtube.com/watch?v=Wv70nDefyNk)
 
-[Das PMO in der Praxis](https://www.gpm-ipma.de/fileadmin/user_upload/Know-How/studien/201410_PMO_Studie_web.pdf)
+* [Das PMO in der Praxis](https://www.gpm-ipma.de/fileadmin/user_upload/Know-How/studien/201410_PMO_Studie_web.pdf)
 
 
 # Quellen
