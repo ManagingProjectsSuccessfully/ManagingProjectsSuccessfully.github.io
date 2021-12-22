@@ -44,6 +44,11 @@ Bei der ALPEN-Methode geht es darum sich einen Überblick zu schaffen, was erled
 Im Allgemeinen lässt sich sagen, dass man durch effektives Selbstmanagement strukturierter und effizienter arbeitet, man viele Kompetenzen dazu lernen kann, viel stress vermeidet wird und im Allgemeinen die work-life-balance um einiges verbessert werden kann. 
 Jedoch bietet das Self-management nicht nur Vorteile für den Manager oder die Führungsperson, die diese Methoden anwenden, sondern auch für den Arbeitgeber der durch die entstehende Produktivität seine Vorteile ziehen kann, wie z.B. der daraus entstehende Profit. 
 
+# Weiterführende  Literatur
+
+* Holman, H., & Lorig, K. (1992). Perceived self-efficacy in self-management of chronic disease. Self-efficacy: Thought control of action
+* Schelling, T. C. (1978). Egonomics, or the art of self-management. The American Economic Review
+* Sievers, D. (2017). Selbst-und Zeitmanagement. Eine Annäherung mithilfe der ALPEN-Methode. GRIN Verlag.
 
 # Quellen
 
