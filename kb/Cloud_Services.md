@@ -37,7 +37,7 @@ Bei einer Hybrid Cloud werden Elemente der Public Cloud und Private Cloud kombin
 Eine Community Cloud ist im Prinzip eine Public Cloud, ist jedoch auf einen bestimmten Nutzerkreis ausgerichtet. Auf diese Weise ist es möglich, dass sich verschiedene Forschungsgruppen die Kosten einer Cloud teilen.[^5]
 
 
-# 3.Vorteile der Cloud Services
+# 3. Vorteile der Cloud Services
 * Effizienz und höhere Skalierbarkeit:
 
 Cloud-basierte Services wie E-Mail-Hosting, Produktivitäts-Apps und E-Commerce-Plattformen können je nach Bedarf problemlos und schnell nach oben bzw. unten skaliert werden und zu beliebiger Zeit zugegriffen werden. [^1][^2]
