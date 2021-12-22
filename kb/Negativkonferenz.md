@@ -25,12 +25,12 @@ gelangen.[^2]
 # Negativkonferenz als Umkehrung des Brainstormings
 
 Das Brainstorming ist bekannt als Methode zur Ideenfindung, die zeiteffizient zur Schaffung von Lösungsansätzen und neuen Ideen in einer Gruppe von Menschen
-beiträgt. Das klassische Brainstorming besteht aus der Vorbereitungsphase, der Ideenfindungsphase und der Sortierungs- und Bewertungsphase. In der Vorbereitungsphase wird ein Team zusammengestellt, zusammengebracht und in eine Problemstellung eingeführt. In der Ideenfindungsphase werden spontane Ideen genannt und miteinander kombiniert. In der Sortierungs- und Bewertungsphase werden diese Ideen nun sortiert und bewertet.[^3]
+beiträgt. Das klassische Brainstorming besteht aus der Vorbereitungsphase, der Ideenfindungsphase und der Sortierungs- und Bewertungsphase. In der Vorbereitungsphase wird ein Team zusammengestellt, zusammengebracht und in eine Problemstellung eingeführt. In der Ideenfindungsphase werden spontane Ideen genannt und miteinander kombiniert. In der Sortierungs- und Bewertungsphase werden diese Ideen nun sortiert und bewertet.[^4]
 
 Die Negativkonferenz wirft dieses Konzept auf den Kopf. Die Teilnehmer suchen nun nicht mehr nach Ansätzen und Ideen, sondern nach Problemen.
 Mögliche Probleme eines bestimmten Sachverhalts werden gesammelt und dokumentiert, um daraus negative Szenarien zu entwickeln, für die in einem weiteren Schritt der
 Ideenfindung erneut Kreativitätstechniken wie Brainstorming oder [Mindmapping](Mindmapping.md) angewendet werden können, um ganz neue Lösungen und Ideen zu erarbeiten.
-Dabei darf auch gerne übertrieben werden. [^4]
+Dabei darf auch gerne übertrieben werden. [^5]
 
 ## Anwendungsbeispiel
 
@@ -47,11 +47,10 @@ Durch Bearbeitung dieser Punkte können nun neue Ideen und Lösungen erarbeitet 
 
 # Wann ist eine Negativkonferenz sinnvoll?
 
-Falls die Ideenfindung durch klassische Methoden wie Brainstorming in einer Gruppe ins Stocken gerät, können intuitive Metoden wie die Negativkonferenz dabei helfen,
+Falls die Ideenfindung durch klassische Ansätze wie Brainstorming in einer Gruppe ins Stocken gerät, können intuitive Methoden wie die Negativkonferenz dabei helfen,
 auf neue Ideen zu kommen. 
-
-Das kann zum Beispiel der Fall sein, wenn sich die Expertengruppe schon lange mit einem Thema beschäftigt und nicht mehr weiter weiß. Es ist manchmal leichter
-Probleme zu finden, als neue Lösungsansätze zu entwickeln. Damit lassen sich Denkblockaden überwinden. [^5]
+Das kann zum Beispiel der Fall sein, wenn sich die Expertengruppe schon lange mit einem Thema beschäftigt und nicht mehr weiterweiß. Es ist manchmal leichter
+Probleme zu finden, als neue Lösungsansätze zu entwickeln. Damit lassen sich Denkblockaden überwinden. [^6]
 
 "Etwas, was man verschlimmern kann, lässt sich sehr wahrscheinlich auch verbessern, in der Regel müssen die gefundenen Faktoren der Verschlimmerung nur umgekehrt
 werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140)
