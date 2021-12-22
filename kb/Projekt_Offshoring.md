@@ -1,6 +1,6 @@
 ---
 title: Projekt_Offshoring
-tags: agil Offshoring Nearshoring Farshoring Onshoring Globalisierung Projektteams Arbeitskräfte Projektkommunikation 
+tags: Agil Offshoring Nearshoring Farshoring Onshoring Globalisierung Projektteams Arbeitskräfte Projektkommunikation 
 author: MarleneMMeyer
 anrechnung: a
 ---
