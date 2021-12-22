@@ -71,6 +71,9 @@ Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Ver
 - Die Komplexität von Veränderungen wird ignoriert [^10] [^11] [^12]
 - Das Modell ist eher für kleinere Organisationen geeignet [^10] [^11] [^12]
  
+# Weiterführende Literatur
+[ADKAR: A Model for Change in Business, Government, and Our Community](https://books.google.de/books?hl=de&lr=&id=Te_cHbWv-ZgC&oi=fnd&pg=PA1&dq=adkar+model&ots=1shIh6o-MM&sig=vPU70TCQTX4s3qEokl1fAujTR-E&redir_esc=y#v=onepage&q=adkar%20model&f=false)
+
 # Siehe auch
 
 - [Change-Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Change_Management.md)
