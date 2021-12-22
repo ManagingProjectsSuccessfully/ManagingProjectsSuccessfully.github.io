@@ -25,7 +25,7 @@ Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt. Netzpläne be
 
 ## Arten der Netzplandarstellung
 
-Die Methodik der Netzplantechnik variiert aufgrund unterschiedlicher Arten von Netzplandarstellungen.
+Die Methodik der Netzplantechnik variiert aufgrund von unterschiedlicher Arten von Netzplandarstellungen.
 Bei der Ablaufdarstellung von Projektabläufen mithilfe eines Netzplans, existieren drei Grundarten. Diese Darstellungsformen bezeichnet man als Ereignisknoten-, Vorgangspfeil- und Vorgangsknoten-Netzplan[^3] . Grundsätzlich sind zwischen diesen Netzplandarstellungen auch Mischformen möglich. Bei diesen gemischtorientierten Netzplänen werden allerdings im Vergleich zu den nichtgemischten Netzplänen dennoch Vorgänge als auch Ereignisse abgebildet.[^1]
 
 # Projektplanung der Netzplantechnik
@@ -50,7 +50,7 @@ Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen 
 
 # Siehe auch
 
-* [Projektplanung](Update Projektplanung.md)
+* [Projektplanung](Projektplanung.md)
 * [Kostenplanung](Kostenplanung.md)
 * [Projektsteuerung](Projektsteuerung.md)
 * [Zeitplanung](Zeitplanung.md)
