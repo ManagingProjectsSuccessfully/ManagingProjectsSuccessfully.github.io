@@ -43,7 +43,7 @@ Natürlich hat der Scrum Master den Scrum Guide verinnerlicht. Wenn es(innerhalb
 
 # 4.	Kritik an der Bezeichnung
 
-Die Bezeichnung „Master“ erfährt immer wieder Kritik. So impliziere „Master“ eine Hierarchie innerhalb einer Organisation. Diese Implikation ist jedoch irreführend, ein Scrum Master ist ein Master of Scrum. Er ist ein Experte in der Theorie und Praxis von Scrum. Durch seine Arbeit ist er ein Dienstleister für den Product Owner, die Entwickler und die gesamte Organisation. Der Scrum Master ist kein [Projektleiter](Projektleiter.md) und besitzt weder Weisungsbefugnis oder Entscheidungsgewalt noch trägt er die Verantwortung für das gesamte Projekt. Er ist weder Untergebener noch Vorgesetzter, sondern agiert auf Augenhöhe mit seinen Kollegen.[^2] 
+Die Bezeichnung „Master“ erfährt immer wieder Kritik. So impliziere „Master“ eine Hierarchie innerhalb einer Organisation. Diese Implikation ist jedoch irreführend, ein Scrum Master ist ein Master of Scrum. Er ist ein Experte in der Theorie und Praxis von Scrum. Durch seine Arbeit ist er ein Dienstleister für den Product Owner, die Entwickler und die gesamte Organisation. Der Scrum Master ist kein Projektleiter und besitzt weder Weisungsbefugnis oder Entscheidungsgewalt noch trägt er die Verantwortung für das gesamte Projekt. Er ist weder Untergebener noch Vorgesetzter, sondern agiert auf Augenhöhe mit seinen Kollegen.[^2] 
 
 
 
@@ -54,8 +54,9 @@ Die Bezeichnung „Master“ erfährt immer wieder Kritik. So impliziere „Mast
 * [Scrum Guide](Scrum_Guide.md)
 *	[Product Owner](Product_Owner.md)
 *	[Prinzipien von Scrum](Scrum_Priciples.md)
-*	[Daily Scrum](Daily_Scrum.md)
-*	[Projektleiter](Projektleiter.md)
+
+
+# Weiterführende Literatur
 
 
 
