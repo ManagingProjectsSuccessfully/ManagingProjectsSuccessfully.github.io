@@ -65,7 +65,7 @@ Am Ende werden vor einer Jury, die meistens aus den Veranstaltern, Vertreter von
 
 # Chancen für Teilnehmer und Unternehmen
 
-Den Teilnehmern bietet ein Hackathon grundsätzlich die Möglichkeit des Networkings und des Wissensaustauschs. Zudem können sie ihre Fähigkeiten in der Gruppe unter Beweis stellen und so für sich als zukünftiger Arbeitnehmer werben. Unternehmen nutzen die Gelegenheit um auf sich aufmerksam zu machen und die besten Hacker für sich zu gewinnen. Vor allem für Start-ups sind solche Events passende Plattformen für einen Austausch mit interessierten Investoren. [^2] [^6] [^1]
+Den Teilnehmern bietet ein Hackathon grundsätzlich die Möglichkeit des Networkings und des Wissensaustauschs. Zudem können sie ihre Fähigkeiten in der Gruppe unter Beweis stellen und so für sich als zukünftigen Arbeitnehmer werben. Unternehmen nutzen die Gelegenheit um auf sich aufmerksam zu machen und die besten Hacker für sich zu gewinnen. Vor allem für Start-ups sind solche Events passende Plattformen für einen Austausch mit interessierten Investoren. [^2] [^6] [^1]
 
 # Ausgewählte Beispiele 
 
