@@ -36,7 +36,7 @@ Sie beschreiben den Inhalt von [PRINCE2](PRINCE2.md) bzw. den Inhalt der richtig
 Sie stellen die Ablaufbeschreibung um die sieben Themen dar, also wann wer was im [Projekt](Projekt.md) macht. Sie beschreiben das schrittweise Vorgehen während dem Projekt [^2]. Nähere Informationen findet man im Beitrag [Sieben Prozesse](PRINCE2_7_Prozesse.md).
 
 > ## 4. Anpassung an die Projektumgebung
-In der PRINCE2 Terminologie ist die Anpassung an die Projektumgebung nicht sehr umfangreich beschrieben, dennoch stellt sie fr den Projektmanageer das größte Thema bei der Verwendung von [PRINCE2](PRINCE2.md) dar. Grund dafür ist, dass dieser Baustein vollkommen anpassbar ist und auf sämtliche [Projekte](Projekt.md) angewendet werden kann [^2]. Was genau unter einem [Projekt](Projekt.md) zu verstehen ist, kann man in der Verlinkung nachlesen. 
+In der PRINCE2 Terminologie ist die Anpassung an die Projektumgebung nicht sehr umfangreich beschrieben, dennoch stellt sie für den Projektmanager das größte Thema bei der Verwendung von [PRINCE2](PRINCE2.md) dar. Grund dafür ist, dass dieser Baustein vollkommen anpassbar ist und auf sämtliche [Projekte](Projekt.md) angewendet werden kann [^2]. Was genau unter einem [Projekt](Projekt.md) zu verstehen ist, kann man in der Verlinkung nachlesen. 
 
 
 
