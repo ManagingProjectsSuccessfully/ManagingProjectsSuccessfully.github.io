@@ -49,6 +49,12 @@ Die Organisation von Abschlussveranstaltungen ist nicht zwingend notwendig, jedo
 * [Projektmitarbeiter](Projektmitarbeiter.md)
 * [Projektphasen klassisch](Projektphasen_klassisch)
 
+# Weiterführende Literatur 
+
+* Litke, H. D., Kunow, I., & Schulz-Wimmer, H. (2018). Projektmanagement (Vol. 200). Haufe-Lexware.
+* Broy, M., & Kuhrmann, M. (2013). Projektabschluss. In Projektorganisation und Management im Software Engineering (pp. 317-329). Springer Vieweg, Berlin, Heidelberg.
+*HOFFMANN, K. (2013). Projektabschluss–systematisch und konsequent. Basiswissen Projektmanagement–Projekte steuern und erfolgreich beenden, 1, 109-122.
+
 # Quellen
 
 [^1]: [Projektabschluss](https://www.arksolutions.de/gs/project/blog/gs-projektabschluss)
