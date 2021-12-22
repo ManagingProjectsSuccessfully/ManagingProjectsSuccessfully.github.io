@@ -7,7 +7,7 @@ anrechnung: k
 
 Eines der wichtigsten Dokumente für das [Projektmanagement](Projektmanagement.md), wenn nicht sogar die wichtigste Projektmanagement-Methode, stellt der Projektstrukturplan dar. Doch was genau bezweckt ein Projektstrukturplan, wie wird er aufgebaut und was beinhaltet er?
 
-Mit dem Projektstrukturplan, auch PSP abgekürzt, wird die Arbeit des [Projekts](Projekt.md) in kleinere Aufgaben zerteilt. Er reduziert die inhaltliche Komplexität und ist das zentrale Planungs-, Kommunikations- und Controlling-Instrument[^1]. Vor allem bei umfassenden Aufgabenstellungen, deren erste große Herausforderung es ist, sich einen Überblick über die Gesamtaufgabe zu schaffen, kann der PSP unterstützend wirken. Die Erstellung eines Projektstrukturplans ist nach heutigem Erkenntnisstand des Projektmanagements eine der zentralen Aufgaben der [Projektplanung](Projektplanung.md). Der PSP ist die Grundlage für die [Termin- und Ablaufplanung](Projektplanung.md), die Ressourceneinplanung und die [Kostenplanung](Kostenplanung.md). Zudem fließen die Erkenntnisse aus dem PSP in das [Risikomanagement](Risikomanagement.md) ein[^9]. 
+Mit dem Projektstrukturplan, auch PSP abgekürzt, wird die Arbeit des [Projekts](Projekt.md) in kleinere Aufgaben zerteilt. Er reduziert die inhaltliche Komplexität und ist das zentrale Planungs-, Kommunikations- und Controlling-Instrument[^1]. Vor allem bei umfassenden Aufgabenstellungen, deren erste große Herausforderung es ist, sich einen Überblick über die Gesamtaufgabe zu schaffen, kann der PSP unterstützend wirken[^4]. Die Erstellung eines Projektstrukturplans ist nach heutigem Erkenntnisstand des Projektmanagements eine der zentralen Aufgaben der [Projektplanung](Projektplanung.md). Der PSP ist die Grundlage für die [Termin- und Ablaufplanung](Projektplanung.md), die Ressourceneinplanung und die [Kostenplanung](Kostenplanung.md). Zudem fließen die Erkenntnisse aus dem PSP in das [Risikomanagement](Risikomanagement.md) ein[^9]. 
 
 # Aufbau
 Der Aufbau des Projektstrukturplanes ist vergleichbar mit dem Inhaltsverzeichnis eines Buches[^7]. Auf verschiedenen Gliederungsebenen werden die Inhalte bzw. Leistungen des Projektes in Form eines Baumdiagramms horizontal oder vertikal dargestellt[^6]. Die Inhalte bzw. Leistungen des Projektes sind in Form von Arbeitspaketen abgebildet. Bei Arbeitspaketen handelt es sich um Bündel von Aufgaben, die innerhalb des Projekts zu erfüllen sind[^4]. Da das Projekt sozusagen in seine einzelnen Bestandteile heruntergebrochen wird, wird der PSP im Englischen auch als „Work Breakdown Structure“ (WBS) bezeichnet[^1]. Ein Arbeitspaket ist also mehr als eine einzelne Aufgabe, aber weniger als eine [Projektphase](Projektphasen_klassisch.md) oder das ganze Projekt. Der PSP beinhaltet keine zeitliche Aussage über die Abarbeitung des Projektes.
@@ -18,7 +18,7 @@ Die folgende Grafik veranschaulicht die Grundstruktur eines Projektstrukturplans
 _Abbildung 1: Grundstruktur_
 
 # Gliederungsarten
-Grundsätzlich kann zwischen drei verschiedenen Formen von Projektstrukturplänen unterschieden werden: 
+Grundsätzlich kann zwischen drei verschiedenen Formen von Projektstrukturplänen unterschieden werden[^3]: 
 
 * objektorientiert 
 * funktionsorientiert 
@@ -55,7 +55,7 @@ Nun zu den großen Vorteilen des Projektstrukturplanes. Die einzelnen Aufgaben s
 # Abkürzungsverzeichnis
 - __PSP:__ Projektstrukturplan
 - __WBS:__ Work Breakdown Structure
-- 
+
 # Siehe auch
 
 * [Projektmanagement](Projektmanagement.md) 
@@ -71,6 +71,7 @@ Nun zu den großen Vorteilen des Projektstrukturplanes. Die einzelnen Aufgaben s
 * [Weiterführende Informationen zur Terminplanung/Ablaufplanung](https://mediencommunity.de/system/files/wbts/projektmanagement/le03/12_einen_projektstukturplan_erstellen.html)
 * [Podcast "Projekte leicht gemacht"](https://projekteleichtgemacht.podigee.io/9-der-projektstrukturplan-teil-1-nutzen-und-aufbau/embed?context=external">)
 * [Wikipedia Eintrag](https://de.wikipedia.org/wiki/Projektstrukturplan)
+* [Seminararbeit zur Projektstrukturierung](https://www.openpm.info/display/openPM/Seminararbeit+Projektstrukturierung)
 
 # Quellen
 
