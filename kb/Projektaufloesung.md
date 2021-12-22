@@ -42,7 +42,7 @@ Die Organisation von Abschlussveranstaltungen ist nicht zwingend notwendig, jedo
 * [Projekt](Projekt.md)
 * [Projektabbruch](Projektabbruch.md)
 * [Projektabschluss](Projektabschluss.md)
-* [Projektabschlussbericht](Projektanschlussbericht.md)
+* [Projektabschlussbericht](Projektabschlussbericht.md)
 * [Projektdokumentation](Projektdokumentation.md)
 * [Projektkommunikation](Projektkommunikation.md)
 * [Projektleiter](Projektleiter.md)
