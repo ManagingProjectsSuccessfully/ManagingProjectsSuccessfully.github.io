@@ -28,8 +28,8 @@ Neben dem [klassischen Projektmanagement](Projektmanagement.md) gibt es auch noc
 
 ## Bedeutung von Zielbeziehungen im klassischen Projektmanagement 
 
-Bevor ein Projekt gestartet wird, müssen immer gewisse Ziele vereinbart werden, die zu erreichen sind. Dementsprechend sollten Ziele klar und deutlich formuliert werden. Hierfür gibt es  die  [„SMART“ Regel](SMART_Ziele.md) „Specific Measurable Accepted Realistic Timely“ [^5].
-Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht, einzelne Ziele möglichst schnell und zugleich qualitativ hochwertig zu erreichen. Dies bedeutet je anspruchsvoller das Ziel/Ergebnis ist, beispielsweise hinsichtlich der Qualität oder Funktion, umso höher sind die damit verbundenen Kosten, Leistungen und zeitlicher Bedarf. Dahingegend müssen wichtige Abstimmungen gemacht werden. 
+Bevor ein Projekt gestartet wird, müssen immer gewisse Ziele vereinbart werden, die zu erreichen sind. Dementsprechend sollten Ziele klar und deutlich formuliert werden. Hierfür gibt es  die  [„SMART“ Regel](SMART_Ziele.md): „Specific Measurable Accepted Realistic Timely“ [^5].
+Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht, einzelne Ziele möglichst schnell und zugleich qualitativ hochwertig zu erreichen. Dies bedeutet, je anspruchsvoller das Ziel/Ergebnis ist, beispielsweise hinsichtlich der Qualität oder Funktion, umso höher sind die damit verbundenen Kosten, Leistungen und zeitlicher Bedarf. Dahingehend müssen wichtige Abstimmungen gemacht werden. 
 
 ## Beispiele für klassische Zielbeziehungen in einem Projekt 
 
@@ -39,7 +39,7 @@ Die Zielbeziehung steht vor allem dann im Vordergrund, wenn es darum geht, einze
 |Kostenziel hat Priorität (Kosten sinken) |Leistungs- & Zeitziel steigt 
 |Terminziel hat Priorität               |Kosten steigen & Leistungen einsparen
 
-Der Projektmanager muss sich hier im Klaren werden, was er wie und unter welche Priorität erreichen will. Stets zu beachten ist, dass die Anforderungen des Kundens an erster Stelle stehen. [^5]
+Der Projektmanager muss sich hier im Klaren werden, was er wie und unter welcher Priorität erreichen will. Stets zu beachten ist, dass die Anforderungen des Kundens immer an erster Stelle stehen. [^5]
 
 Die am häufigsten vorkommende Form der Zielbeziehungen im Projektmanagement sind die konkurrierenden Zielbeziehungen. Der Grund dafür ist, dass in einem Projekt nicht nur ein Ziel sondern mehrere Ziele nebeneinander aufgeführt werden. 
 
@@ -57,7 +57,7 @@ Um Ziele in einem Projekt besser zu veranschaulichen, eignet sich eine sogenannt
 2. Matrix erstellen
 3. Paarweiser Vergleich
 4. Auswertung und Konsquenzen
-5. Rangfolge erstellen [^6]
+5. Rangfolge erstellen[^6]
 
 Nachfolgend ein Beispiel einer Präferenzmatrix[^7] [^12] :
 
