@@ -105,6 +105,7 @@ Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einz
 [PRINCE2 Projektumgebung](PRINCE2_Projektumgebung.md)
 
 
+
 # Quellen
 
 [^1]: [Fahrplan für Projektmanagement in sechs Schritten](https://link.springer.com/book/10.1007/978-3-658-33979-1)
