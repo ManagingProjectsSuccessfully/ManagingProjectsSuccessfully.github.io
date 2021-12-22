@@ -4,50 +4,48 @@ tags: agil klassisch
 author: christian-anghel
 anrechnung: k
 ---
-Projektmanagement-Tools unterstützen die Projektmanager, Führungskräfte und das Projektteam bei der Durchführung von Projekten in allen Projektphasen von der Entstehung der Projektidee bis Abschluss. In agilen Projekten soll zudem die Unterstützung über alle Iterationen erfolgen und die Kollaboration erleichtern. Eine Projektmanagement Software kombiniert dabei verschiedene Werkzeuge des Projektmanagements unter einem System.
+Projektmanagement-Tools unterstützen die Projektmanager, Führungskräfte und das Projektteam bei der Durchführung von Projekten. Sie stellen in allen Projektphasen von der Entstehung der Projektidee bis zum fertigen Produkt ein hilfreiches Werkzeug in der Umsetzung des Auftrags dar. In agilen Projekten soll zudem die Unterstützung über alle Iterationen erfolgen und die Kollaboration zwischen den am Projekt Beteiligten erleichtern. Eine Projektmanagement-Software kombiniert dabei verschiedene Instrumente des Projektmanagements in einem System.
 
 
 # Geschichte
 
-Das erste Projektmanagement-Tool für Computer (bisher nur für Mainframes) war Artemis,
-entwickelt vom Unternehmen Metier Management Systems im Jahr 1978. Artemis kombinierte Projektplanung und Terminplanung mit Kostenkontrolle und Ressourcenmanagement. [^1]
+Das erste Projektmanagement-Tool für Computer (bis zu diesem Zeitpunkt nur für Mainframes), Artemis, wurde 1978 vom Unternehmen Metier Management Systems entwickelt. Artemis kombinierte Projektplanung und Terminplanung mit Kostenkontrolle und Ressourcenmanagement.[^1]
 
-In den darauffolgenden Jahren folgten viele Verbesserungen und verschiedene Software-Produkte erschienen mit mehr Funktionen für komplexere Projekte. Ab Anfang der 2000er wurden auch mehr Projektmanagement-Tools für agiles Projektmanagement entwickelt. Außerdem entwickelte sich der Trend zu cloudbasierten Programmen und Software as a Service[^3], also dass die Software und die IT-Infrastruktur bei einem externen IT-Dienstleister betrieben und vom Kunden als Dienstleistung genutzt werden.
+In den darauffolgenden Jahren folgten viele Verbesserungen und Erweiterungen. Im Verlauf erschienen verschiedene Software-Produkte mit mehr Funktionen für komplexere Projekte. Ab Anfang der 2000er Jahre wurden auch mehr Projektmanagement-Tools für agiles Projektmanagement entwickelt. Außerdem entwickelte sich der Trend zu cloudbasierten Programmen und Software als Service[^3], das bedeutet die Software und IT-Infrastruktur wurden von einem externen IT-Dienstleister betrieben und vom Kunden als Dienstleistung genutzt.
 
 
 # Wichtige Aufgaben eines Projektmanagement-Tools
 
 ## Projektplanung
 
-Die Projektplanung ist ein Kernbereich des Projektmanagements. Wichtige Features sind:[^2]
+Die Projektplanung ist ein Kernbereich des Projektmanagements. Wichtige Features beinhalten:[^2]
 
 | Feature  | genaue Funktion |
 | ------------- | ------------- |
-| Verwaltung allgemeiner Projektdaten  | Grundlegende Informationen, um schnellen Einblick in das Projekt zu bekommen |
-| [Projektstrukturplanung](Projektstrukturplan.md)  | Gliederung des Projekts in plan- und kontrollierbare Elemente  |
+| Verwaltung allgemeiner Projektdaten  | Grundlegende Informationen, um einen schnellen Einblick in das Projekt zu bekommen |
+| [Projektstrukturplanung](Projektstrukturplan.md)  | Gliederung des Projekts in planbare und kontrollierbare Elemente  |
 | [Meilensteinplanung](Meilensteine.md)  | Grundlage, um zu bestimmten Zeitpunkten den Projektstatus hinsichtlich von Zielen, Kosten und Terminen beurteilen zu können  |
-| [Gantt Diagramme](Gantt_Diagramme.md) | Stellt die verschiedenen Projektphasen übersichtlich dar  |
-| Task Management  | Welche Aufgaben noch umzusetzen sind und welchen aktuellen Stand man hat  |
-| [Netzplan](Netzplantechnik.md)  | Stellt die Dauer von Vorgängen im Projekt, ihre zeitliche Anordnung und logische Abhängigkeiten zwischen den Vorgängen dar  |
+| [Gantt Diagramme](Gantt_Diagramme.md) | Übersichtliche Darstellung der verschiedenen Projektphasen |
+| Task Management  | Aktueller Stand erledigter und noch ausstehender Aufgaben |
+| [Netzplan](Netzplantechnik.md)  | Darstellung der Dauer von Vorgängen im Projekt, ihrer zeitlichen Anordnung und logischer Abhängigkeiten zwischen den Prozessen  |
 
 
 ## Kommunikation und Zusammenarbeit
 
-Immer wichtiger und auch beliebter werden Tools und Softwarelösungen im Bereich der Kommunikation und für die Zusammenarbeit des Projektteams. Gerade in agilen Projekten wird Zusammenarbeit deutlich gegenüber Prozessen hervorgehoben. Deswegen ist es wichtig unkomplizierte und zentrale Kommunikationskanäle schaffen.[^2]
+IFür den Projektleiter ist es wichtig sich zu Beginn des Projekts eine Kommunikationsstrategie zu überlegen. Dabei wird auch entschieden welche Kommunikationswege benutzt werden sollen.[^6] Dadurch werden Tools und Softwarelösungen im Bereich der Kommunikation und für die Zusammenarbeit des Projektteams immer beliebter. Gerade in agilen Projekten wird Teamwork gegenüber anderen Aufgaben hervorgehoben, und es muss zwischen vielen Akteuren, oft auch über weite Strecken, kommuniziert werden. Deswegen ist es wichtig unkomplizierte und zentrale Kommunikationskanäle schaffen.[^2]
 
 ## Dokumentenmanagement
 
-In großen Projekten lohnt sich eine eigene Plattform zum Wissenstransfer, und auch eigene oder externe Cloud Speicher können mit Projektmanagement-Tools verknüpft werden.
-Weiterhin können Suchfunktionen und Archivierungsmöglichkeiten sinnvoll sein, um auf alte Dokumente zugreifen zu können. [^2]
+Bei großen Projekten lohnt es sich, eine eigene Plattform zum Wissenstransfer einzurichten. Ergänzend können auch eigene oder externe Cloud Speicher mit Projektmanagement-Tools verknüpft werden. Weiterhin können Suchfunktionen und Archivierungsmöglichkeiten sinnvoll sein, um auf alte Dokumente zugreifen zu können. [^2]
 
 ## Budgetplanung
 
-Bei Projekten ist es wichtig, dass die Kosten proaktiv gesteuert werden können und das Budget eingehalten wird. Ein Projekt ist oft mit anderen Projekt verbunden und hat das Potenzial, die gesamte Kampagne zu beeinflussen. Mit Projektmanagement-Software wird die Budgetverwaltung einfacher und die Ausgaben können besser verfolgt und das Budget schnell eingerichtet werden. Indem man die vorhergesagten Ausgaben mit den tatsächlichen vergleicht kann ein besserer Überblick gewonnen werden [^3]
+Bei Projekten ist es wichtig, die Kosten proaktiv steuern zu können und das Budget einzuhalten. Häufig sind mehrere Projekte verflochten und können so die ganze Kampagne beeinflussen. Eine Projektmanagement-Software vereinfacht die Verwaltung und Einrichtung des Budgets und Ausgaben können besser verfolgt werden. Indem man die vorhergesagten geplanten/geschätzten Ausgaben mit den tatsächlichen vergleicht, kann ein besserer Überblick gewonnen werden  [^3]
 
 ___
 
 ![Bild4](https://user-images.githubusercontent.com/92924821/143098084-fa811c2c-0056-499b-962d-d0cac43235ae.png)
-*Studie zu den meistgenutzten Funktionen von Projektmanagement-Software für kleine und mittlere Unternhemen* [^4]
+*Studie zu den meistgenutzten Funktionen von Projektmanagement-Software für kleine und mittelgroße Unternhemen* [^4]
 
 ___
 
@@ -56,22 +54,24 @@ ___
 
 ## Vorteile
 
-* Die Organisation des Projektes ist zentralisiert möglich
-* Liefert einen Gesamtblick über das Projekt mit den wichtigsten Informationen
-* Vereinfacht viele wiederkehrende Aufgaben und kann so Zeit sparen
-* Aufgaben werden transparent dargestellt
-* Unternehmensziele werden schneller erreicht
+* Zentralisierung der Projektorganisation möglich
+* Schaffung eines Gesamtüberblicks über das Projekt mit den wichtigsten Informationen
+* Zeitersparnis durch Automatisierung wiederkehrender Aufgaben
+* Transparente Darstellung von Aufgaben
+* Schnellere Realisierung der Unternehmensziele 
+
 
 ## Nachteile 
 
-* Zeitintensive Einarbeitung in neue Software
-* Das Tool muss vom Team akzeptiert werden
-* Kosten
+* Zeitintensive Einarbeitung des Personals zur Nutzung der neuen Software notwendig
+* Gewöhnung und Akzeptanz des neuen Tools im Team notwendig
+* Teilweise hohe Kosten
+
 
 # Meist genutzte Projektmanagement Tools
 
 ![pm marktanteil](https://user-images.githubusercontent.com/92924821/143071468-eb38bca1-6769-4335-97f3-56e06656e459.png)
-*Marktanteil der meist genutzten Proketmanagement Tools* [^5]
+*Marktanteil der meistgenutzten Proketmanagement-Tools* [^5]
 
 
 
@@ -98,4 +98,5 @@ Projektmanagement Tools:
 [^3]: https://www.proofhub.com/articles/importance-of-project-management-software
 [^4]: https://www.capterra.com.de/blog/407/nutzerstudie-wie-wird-projektmanagement-software-in-deutschland-genutzt
 [^5]: https://www.datanyze.com/market-share/project-management--217
+[^6]: https://www.inloox.de/projektmanagement-glossar/kommunikation/
 
