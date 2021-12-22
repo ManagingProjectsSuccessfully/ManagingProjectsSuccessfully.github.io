@@ -6,7 +6,7 @@ anrechnung: a
 ---
 
 # Scrum Artefakte
-Es gibt im [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und „Produktinkrement“. Diese haben jeweils einen übergeordneten Leitgedanken, der dabei helfen sollen, in allen Ebenen einen Überblick zu behalten.[^1]
+Es gibt im [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und „Product Increment“. Diese haben jeweils einen übergeordneten Leitgedanken, der dabei helfen sollen, in allen Ebenen einen Überblick zu behalten.[^1]
 
 Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maximaler Transparenz, sodass alle auf dem aktuellen Wissensstand sind, weshalb sie zu optimalen Arbeitsbedingungen beitragen.[^2][^3]
 
@@ -32,8 +32,8 @@ Das Sprint Backlog setzt sich aus den ausgewählten Einträgen aus dem Product B
 
 # 3. Product Increment
 
-Ein Produktinkrement ist jenes Produkt, welches nach einem Sprint entstanden ist und wird deshalb auch Teilergebnis des Projekts genannt. Die einzelnen Inkremente bauen aufeinander auf, sowie verbessern und erweitern das angestrebte Produkt von Iteration zu Iteration bis schließlich ein Produkt entsteht, welches den Anforderungen des Kunden entspricht. 
-Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team (Product Owner, [Scrum Master](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Master.md),Developer) festgelegt wird, dient dazu, ein gemeinsames Verständnis der Aufgabestellung und Abnahmekriterien zu haben. Am Ende eines jeden Sprints wird vom Product Owner erklärt, inwiefern diese erfüllt wurde und entscheidet dann, ob das Produktinkrement den Stakeholder zur Verfügung gestellt wird, sodass es umgehend in der Praxis geprüft und getestet werden kann.[^1][^2][^4][^5][^6]
+Ein Product Increment ist jenes Produkt, welches nach einem Sprint entstanden ist und wird deshalb auch Teilergebnis des Projekts genannt. Die einzelnen Inkremente bauen aufeinander auf, sowie verbessern und erweitern das angestrebte Produkt von Iteration zu Iteration bis schließlich ein Produkt entsteht, welches den Anforderungen des Kunden entspricht. 
+Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team (Product Owner, [Scrum Master](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Master.md),Developer) festgelegt wird, dient dazu, ein gemeinsames Verständnis der Aufgabestellung und Abnahmekriterien zu haben. Am Ende eines jeden Sprints wird vom Product Owner erklärt, inwiefern diese erfüllt wurde und entscheidet dann, ob das Product Increment den Stakeholder zur Verfügung gestellt wird, sodass es umgehend in der Praxis geprüft und getestet werden kann.[^1][^2][^4][^5][^6]
 
 
 ![Scrum Artefakte Bild](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/Scrum%20Artefakte%20FINAL.png)
