@@ -34,7 +34,14 @@ In der Überprüfungsphase werden Designtests und die Integration auf verschiede
 Nach Abschluss aller Tests wird das fertige Produkt in Betrieb genommen und schließlich an den Kunden ausgeliefert. In dieser letzten Phase kann das Produkt immer wieder optimiert und aktualisiert werden.[^11] 
 
 # Eigenschaften der Wasserfall-Modell:
+1. Die Tätigkeiten sollten vollständig in der vorgeschriebenen Reihenfolge durchgeführt werden
+2. Am Ende jeder Phase gibt es ein vollständiges Dokument, d.h. Das Wasserfallmodell ist ein "dokumentengesteuertes" Modell.
+3. Der Entwicklungsprozess ist sequentiell, d.h. Jede Stufe muss abgeschlossen sein, bevor die nächste beginnt.
+4. Einfach und leicht verständlich.
+5. 
 Man ordnet die Aktivitäten in einer Reihenfolge und dazu führt man es in der vollständigen Breite komplett, außerdem es ist leicht zu verstehen und easy machbar. Darüber hinaus es ist ein sequenzielles Vorgehensmodell, damit ist gemeint, dass jede Phase erst anfängt, wenn die letzte erfolgreich abgeschlossen ist.[^3]
+
+![Beispielabbildung](Wasserfall_Modell/Wasserfall_Modell.PNG)
 
 
 # Vorteile der Wasserfall-Modell:
