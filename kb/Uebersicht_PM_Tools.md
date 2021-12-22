@@ -44,8 +44,9 @@ Bei Projekten ist es wichtig, die Kosten proaktiv steuern zu können und das Bud
 
 ___
 
-![Bild4](https://user-images.githubusercontent.com/92924821/143098084-fa811c2c-0056-499b-962d-d0cac43235ae.png)
+![meistgenutzte pm tools](https://user-images.githubusercontent.com/92924821/147105911-29c06930-30f7-43dc-a28f-6611bcbd241a.png)
 *Studie zu den meistgenutzten Funktionen von Projektmanagement-Software für kleine und mittelgroße Unternhemen* [^4]
+
 
 ___
 
