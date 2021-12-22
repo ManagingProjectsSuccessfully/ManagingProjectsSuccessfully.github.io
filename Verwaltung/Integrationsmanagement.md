@@ -17,9 +17,7 @@ Bei erfolgreicher Anwendung des Integrationsmanagements kann man erkennen, dass 
 
 Nach dem Entwickeln des Projektauftrags bzw. nachdem ein Auftrag für ein Projekt angenommen wurde, wird ein Projektmanagementplan entwickelt, welcher der rote Faden sein soll. Der Plan dient als Orientierung über die verschiedenen Prozesse und Tätigkeiten, die erledigt werden müssen.
 
-Darauf folgen die wichtigsten Phasen innerhalb des Integrationsmanagements. Dazu zählen das Lenken und Steuern der Projektausführung, das Verwalten des Projektwissens, das Überwachen der Projektarbeit und das Umsetzen von Änderungen des Projektplans aufgrund von Problemen und Hindernissen und äußeren Umständen auftreten. Um gewisse Probleme zu umgehen oder zu lösen, ist es oft von Nöten, den Projektplan nochmal zu optimieren und den neuen Situationen anzupassen.
-
-Bei jedem Projekt kommt es zu Problemen und Hindernissen, die es zu überwältigen gilt. Deshalb ist es wichtig stets alle Entscheidungen und deren Folgen für ein Projekt zu verstehen, um so den maximalen Erfolg für ein Projekt garantieren zu können.[^1]
+Darauf folgen die wichtigsten Phasen innerhalb des Integrationsmanagements. Dazu zählen das Lenken und Steuern der Projektausführung, das Verwalten des Projektwissens, das Überwachen der Projektarbeit und das Umsetzen von Änderungen des Projektplans aufgrund von Problemen und Hindernissen und äußeren Umständen auftreten. Um gewisse Probleme zu umgehen oder zu lösen, ist es oft von Nöten, den Projektplan nochmal zu optimieren und den neuen Situationen anzupassen.[^1]
 
 
 # Kommunikation innerhalb der Projektplanung
@@ -37,11 +35,16 @@ Da sich im Integrationsmanagement alles um die Organisation und die Steuerung ei
 
 ## Aufgaben
 
-Der Projektleiter hat die Aufgabe das Projekt zu leiten und erfolgreich zum Abschluss zu bringen. Das heißt er kümmert sich in der Vorbereitungsphase um den Projektplan, die Termine, den Ablauf und stellt das ganze Team zusammen. Während der Projektdurchführung geht es vor allem um die Überwachung des Projektablaufs. Dazu zählen zum Bespiel die Absprache mit Kunden, die Einhaltung von Terminen und Budget oder Motivation des Teams. In der Abschlussphase muss nachkalkuliert werden oder der Abschlussbericht erstellt werden. Gegebenenfalls wird dem Kunden das Projekt noch präsentiert.[^5]
+Der Projektleiter hat dabei folgende Aufgaben und Funktionen :[^5]
+- Projektplan erstellen
+- Projekt leiten und erfolgreich zum Abschluss bringen
+- Überwachung des Projektablaufs
+- Nachkalulieren beim Abschluss des Projekts 
+- Abschlussbericht erstellen
 
 ## Soft skills
 
-Um eine solch tragende Rolle erfolgreich erfüllen zu können ist es wichtig, alle nötigen Kompetenzen und das gewisse Know-how mitzubringen. Basis ist meist ein Studium mit der Fachrichtung Wirtschaftswissenschaften oder einer Ingenieurswissenschaft. Hinzu kommen ausgeprägte [Soft skills](https://en.wikipedia.org/wiki/Soft_skills), welche überfachliche Qualifikationen beschreiben, die sich nicht messen lassen. Diese werden in der Regel nach persönlicher, sozialer und methodischer Kompetenz geordnet.[^6]
+Um eine solch tragende Rolle erfolgreich erfüllen zu können, ist es wichtig, alle nötigen Kompetenzen und das gewisse Know-how mitzubringen. Basis ist meist ein Studium mit der Fachrichtung Wirtschaftswissenschaften oder einer Ingenieurswissenschaft. Hinzu kommen ausgeprägte [Soft skills](https://en.wikipedia.org/wiki/Soft_skills), welche überfachliche Qualifikationen beschreiben, die sich nicht messen lassen. Diese werden in der Regel nach persönlicher, sozialer und methodischer Kompetenz geordnet.[^6]
 
 
 | Art  | Bespiel |
@@ -66,8 +69,8 @@ Um eine solch tragende Rolle erfolgreich erfüllen zu können ist es wichtig, al
 # Quellen
 
 [^1]: [Beschreibung Integrationsmanagement](https://www.wrike.com/de/project-management-guide/faq/was-ist-integrationsmanagement-bei-projekten/)
-[^2]: [Ablauf Prozesse](http://projektmanagement-definitionen.de/glossar/integrationsmanagement-in-projekten/)
+[^2]: [Ablauf der Prozesse](http://projektmanagement-definitionen.de/glossar/integrationsmanagement-in-projekten/)
 [^3]: [Integrationsmanagement](https://de.wikipedia.org/wiki/Integrationsmanagement)
 [^4]: [Projektleiter](https://de.wikipedia.org/wiki/Projektleiter#:~:text=Der%20Projektleiter%20ist%20f%C3%BCr%20die,im%20Rahmen%20des%20Projekts%20zust%C3%A4ndig.)
-[^5]: [Aufgaben Projektleiter](https://refa.de/berufe/projektleiter)
+[^5]: [Aufgaben des Projektleiters](https://refa.de/berufe/projektleiter)
 [^6]: [Soft skills](https://www.jobteaser.com/de/advices/420-soft-skills-vs-hard-skills-was-ist-der-unterschied)
