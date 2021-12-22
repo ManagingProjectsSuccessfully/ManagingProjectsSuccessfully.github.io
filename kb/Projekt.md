@@ -82,8 +82,7 @@ Zusammenfassung der Aufgaben: [^6]
 * Abnahme der Teilerfolge
 * Präsentation der Meilensteinergebnisse
 
-Für eine funktionierende Kommunikation werden regelmäßige Projekt Besprechungen durchgeführt, um auf Probleme aufmerksam zu machen und  
-Vorgesetzte zu informieren. [^6]
+Für eine funktionierende Kommunikation werden regelmäßige Projekt Besprechungen durchgeführt, um auf Probleme aufmerksam zu machen und Vorgesetzte zu informieren. [^6]
 
 ## Projektabschluss
 
