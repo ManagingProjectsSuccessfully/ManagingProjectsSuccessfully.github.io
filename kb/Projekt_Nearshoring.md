@@ -17,8 +17,8 @@ Die Abbildung zeigt, dass Deutschland ein sehr hohes Einkommensniveau hat und im
 
 ## Vorteile
 * Die [Kommunikation](Kommunikation_Projektbeteiligte.md) und Kooperation wird erleichtert und verbessert, weil es eine größere kulturelle und räumliche Nähe gibt. Die Zeitzone ist nahezu gleich und somit ist der Zeitunterschied deutlich kleiner als zu fernöstlichen Ländern. 
-* Auch die geringeren sprachlichen Barrieren bauen mehr Nähe zu den Kunden auf dem jeweiligen Markt auf. Davon profitiert auch die [Projektkommunikation](Projektkommunikation.md)
-* Transportkosten und -zeiten können gesenkt werden.
+* Auch die geringeren sprachlichen Barrieren bauen mehr Nähe zu den Kunden auf dem jeweiligen Markt auf. Davon profitiert auch die [Projektkommunikation](Projektkommunikation.md).
+* Transportkosten und -zeiten können durch die deutlich niedrigere Distanz gesenkt werden.
 * Die Europäische Union ist ein harmonisiertes Rechtssystem, wodurch die gleichen Rechte und Pflichten für alle gelten.
 * Datenschutzgesetze sind aufeinander abgestimmt und gewährleisten Sicherheit für die Kunden und Unternehmen.
 * In der EU (Schengen Raum) werden keine Zölle für Mitgliedstaaten entrichtet und damit verläuft der Waren- und Dienstleistungsverkehr reibungslos und effizient.
@@ -40,7 +40,7 @@ Die Abbildung zeigt, dass Deutschland ein sehr hohes Einkommensniveau hat und im
 
 # Fazit
 
-Das Potential des Projekt Nearshorings ist noch nicht ausgereizt und die Anwendung wird voraussichtlich in der Zukunft stark steigen, wenn das Beste aus den Strategien von Offshoring (die geringeren Kosten) und Backshoring (die Flexibilität sowie geografische Nähe) verbunden wird. [^5][^3]
+Das Potential des Projekt Nearshorings ist noch nicht ausgereizt und die Anwendung wird voraussichtlich in der Zukunft stark steigen, wenn das Beste aus den Strategien von Offshoring (die geringeren Kosten) und Backshoring (die Flexibilität sowie geografische Nähe) verbunden wird.[^5][^3]
 
 
 # Siehe auch
