@@ -22,13 +22,13 @@ Die [Projektdokumentation](https://github.com/ManagingProjectsSuccessfully/Manag
 
 # Aufbau und Inhalt
 
-Ein Projektmanagementhandbuch muss pragmatisch und verständlich gehalten werden, da zu komplizierte und umfassende Handbücher in der Praxis selten angewandt oder akzeptiert werden[^2]. Die Kenntnis über die Existenz eines Projektmanagementhandbuchs in einem Unternehmen sollte vorhanden sein, um Mitarbeiterinnen und Mitarbeiter in das Projektmanagementhandbuch mit einzubinden. Diese Mitwirkung sichert Akzeptanz bei den [Projektmitarbeitern](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) und erhöht auch die Bereitschaft, das Projektmanagementhandbuch anzuwenden. Es gibt Vorlagen für den Aufbau eines Projektmanagementhandbuchs, zu beachten ist, dass diese auf das jeweilige Unternehmen angepasst werden[^1]. 
+Ein Projektmanagementhandbuch muss pragmatisch und verständlich gehalten werden, da zu komplizierte und umfassende Handbücher in der Praxis selten angewendet oder akzeptiert werden[^2]. Die Kenntnis über die Existenz eines Projektmanagementhandbuchs in einem Unternehmen sollte vorhanden sein, um Mitarbeiterinnen und Mitarbeiter in das Projektmanagementhandbuch mit einzubinden. Diese Mitwirkung sichert Akzeptanz bei den [Projektmitarbeitern](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) und erhöht auch die Bereitschaft, das Projektmanagementhandbuch anzuwenden. Es gibt Vorlagen für den Aufbau eines Projektmanagementhandbuchs bei denen allerdings zu beachten ist, dass diese auf das jeweilige Unternehmen angepasst werden[^1]. 
 
 ## Mögliche Inhalte eines Projektmanagementhandbuchs sind:
 
 * Projektkriterien: Was ist ein Projekt?
 
-Nicht jede Aufgabe oder Tätigkeit eines Unternehmens ist ein Projekt. Um erkennen zu können, ob eine Tätigkeit die Aufmerksamkeit eines strukturierten Managements erfordert, sollten diese einige Kriterien erfüllen, um als Projekt angesehen zu werden. Beispielsweise betreten Projekte Neuland, sie arbeiten an Lösungen, die es so noch nicht gibt. Außerdem sind sie zeitlich begrenzt, es gibt also einen Anfang und ein terminlich vereinbartes Ende. Als letztes Beispiel haben Projekte einen einmaligen Charakter und sind nicht für die Reproduktion bereits vorhandener Dinge geeignet[^7]. 
+Nicht jede Aufgabe oder Tätigkeit eines Unternehmens ist ein Projekt. Um erkennen zu können, ob eine Tätigkeit die Aufmerksamkeit eines strukturierten Managements erfordert, sollte diese einige Kriterien erfüllen, um als Projekt angesehen zu werden. Beispielsweise betreten Projekte Neuland, sie arbeiten an Lösungen, die es so noch nicht gibt. Außerdem sind sie zeitlich begrenzt, es gibt also einen Anfang und ein terminlich vereinbartes Ende. Als letztes Beispiel haben Projekte einen einmaligen Charakter und sind nicht für die Reproduktion bereits vorhandener Dinge geeignet[^7]. 
 
 * Projektarten 
 
@@ -45,7 +45,7 @@ Beschreibt die Projektorganisation mit Kompetenzen, Aufgaben und Verantwortungen
 
 * PM-Tools und -Templates
 
-Listet alle PM-Tools und Templates auf, welche vom Unternehmen zur verfügung gestellt werden. Umfasst einfache Templates sowie professionelle Planungstools[^8].
+Listet alle PM-Tools und Templates auf, welche vom Unternehmen zur Verfügung gestellt werden. Umfasst einfache Templates sowie professionelle Planungstools[^8].
 
 * Glossar
 
@@ -54,7 +54,7 @@ Umfasst alle firmenspezifischen Begriffe, die für das Verständnis in der Vorge
 # Nutzen
 
 Der Nutzen eines Projektmanagementhandbuchs wäre zum Beispiel, dass die Projektleitung erfährt, bei welchen prozentualen Abweichungen von Kosten oder Terminen Gremien oder Vorgesetzte informiert werden müssen. Vorlagen für Statusmeldungen oder Zwischenberichte helfen, Zeit bei der Berichtserstellung zu sparen sowie an alle wichtigen Informationen zu denken, über die berichtet werden muss[^1].
-Es beinhaltet standardisierte Vorgehensweisen für [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), was eine effiziente Durchführung von Projekten fördert, weil dadurch nicht bei jedem Projekt das Vorgehen erneut mühsam erschlossen werden muss. Bereits erprobte und als erfolgreich angesehene Vorgehensweisen werden dokumentiert und können so in zukünftigen Projekten wieder angewendet werden. Außerdem kennen dank dem Projektmanagementhandbuch alle Projektbeteiligten und Stakeholder die Abläufe des Projekts und können diese nachverfolgen[^8].
+Es beinhaltet standardisierte Vorgehensweisen für [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), was eine effiziente Durchführung von Projekten fördert, weil dadurch nicht bei jedem Projekt das Vorgehen erneut mühsam erschlossen werden muss. Bereits erprobte und als erfolgreich angesehene Vorgehensweisen werden dokumentiert und können so in zukünftigen Projekten wieder angewendet werden. Außerdem kennen dank des Projektmanagementhandbuch alle Projektbeteiligten und Stakeholder die Abläufe des Projekts und können diese nachverfolgen[^8].
 
 
 
