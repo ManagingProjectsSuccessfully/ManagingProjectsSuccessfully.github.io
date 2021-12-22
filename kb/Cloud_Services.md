@@ -40,9 +40,12 @@ Services, die ein Provider zahlreichen Kunden über das Internet bereitstellt, w
 Eine Hybrid Cloud ist eine Kombination aus Private Cloud und Public Cloud. Dieser Kompromiss ist sinnvoll, wenn ein Unternehmen vertrauliche Daten in der Private Cloud speichert, aber den Mitarbeitern für die alltägliche Kommunikation und Zusammenarbeit auch Zugriff auf Anwendungen und Ressourcen in der Public Cloud bieten möchte. Dabei wird proprietäre Software verwendet, um die Kommunikation zwischen den Cloud-Services zu ermöglichen, was oftmals durch eine zentrale IT-Management-Konsole erleichtert wird.[^1]
 
 # 3.Vorteile der Cloud Services
-* Effizienz und höhere Skalierbarkeit: Cloud-basierte Services wie E-Mail-Hosting, Produktivitäts-Apps und E-Commerce-Plattformen können je nach Bedarf problemlos und schnell nach oben bzw. unten skaliert werden und zu beliebiger Zeit zugegriffen werden. [^1][^2]
-* Kostengünstig: Cloud-Technologiedienste sind in der Regel viel günstiger als der Aufbau, die Wartung und das Management Ihres eigenen Rechenzentrums.[^1][^2]
-* Flexibilität und Agilität: Es stehen auf Wunsch mehrere Clouds und Supercomputer zur Verfügung, zudem können ganz einfach Server, Speicher und andere IT-Ressourcen hinzugefügt werden. [^1][^2]
+* Effizienz und höhere Skalierbarkeit:
+Cloud-basierte Services wie E-Mail-Hosting, Produktivitäts-Apps und E-Commerce-Plattformen können je nach Bedarf problemlos und schnell nach oben bzw. unten skaliert werden und zu beliebiger Zeit zugegriffen werden. [^1][^2]
+* Kostengünstig
+Cloud-Technologiedienste sind in der Regel viel günstiger als der Aufbau, die Wartung und das Management Ihres eigenen Rechenzentrums.[^1][^2]
+* Flexibilität und Agilität
+Es stehen auf Wunsch mehrere Clouds und Supercomputer zur Verfügung, zudem können ganz einfach Server, Speicher und andere IT-Ressourcen hinzugefügt werden. [^1][^2]
 
 
 # Siehe auch
