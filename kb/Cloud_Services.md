@@ -30,8 +30,12 @@ Die Private Cloud wird exklusiv für einen Kunden betrieben und ist der breiten 
 ## 2.2 Public Cloud Services
 Die Public Cloud ist ein für viele Anwender nutzbarer und über das Internet zugänglicher Service, alle oben genannten Beispiele bieten Public Cloud basierte Services an. Ein IT-Dienstleister stellt hierbei eine Cloud-Umgebung zur Verfügung, auf die Anwender durch ein Abonnement flexibel und unverzüglich zugreifen kann. [^1][^5]
 
-## 2.3 Hybride Cloud Services
-Eine Hybrid Cloud ist eine Kombination aus Private Cloud und Public Cloud. Dieser Kompromiss ist sinnvoll, wenn ein Unternehmen vertrauliche Daten in der Private Cloud speichert, aber den Mitarbeitern für die alltägliche Kommunikation und Zusammenarbeit auch Zugriff auf Anwendungen und Ressourcen in der Public Cloud bieten möchte. Dabei wird proprietäre Software verwendet, um die Kommunikation zwischen den Cloud-Services zu ermöglichen, was oftmals durch eine zentrale IT-Management-Konsole erleichtert wird.[^1][^5]
+## 2.3 Hybrid Cloud Services
+Bei einer Hybrid Cloud werden Elemente der Public Cloud und Private Cloud kombiniert. Dieser Kompromiss ist sinnvoll, wenn ein Unternehmen vertrauliche Daten in der Private Cloud speichert, aber den Mitarbeitern für die alltägliche Kommunikation und Zusammenarbeit auch Zugriff auf Anwendungen und Ressourcen in der Public Cloud bieten möchte. [^1][^5]
+
+## 2.4 Community Cloud
+Eine Community Cloud ist im Prinzip eine Public Cloud, ist jedoch auf einen bestimmten Nutzerkreis ausgerichtet. Auf diese Weise ist es möglich, dass sich verschiedene Forschungsgruppen die Kosten einer Cloud teilen.[^5]
+
 
 # 3.Vorteile der Cloud Services
 * Effizienz und höhere Skalierbarkeit:
