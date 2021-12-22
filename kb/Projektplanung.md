@@ -12,7 +12,7 @@ anrechnung: k
 
 Das [klassische Projektmanagement](Projektmanagement.md) ist durch genaue Planung, Steuerung und Koordination geprägt. Dies bedeutet, dass die einzelnen Phasen der Projektplanung von Beginn an akkurat durchgeplant und die Anforderungen an das Endprodukt bereits bekannt sind.[^4] Durch das lineare Vorgehen und die exakte Terminplanung ist die Überschaubarkeit des Projekts gewährleistet. Klare Hierarchien und die genaue Definition der einzelnen Schritte verringern die Komplexität.[^5] Durch die Rangordnung wird die Aufgabenteilung vorgegeben und die [Kommunikation](Kommunikation_Projektbeteiligte.md) zwischen den [Teammitgliedern](Projektmitarbeiter.md) erleichtert. Das Projektmanagement agiert im Spannungsfeld des magischen Dreiecks, das heißt unter Beachtung der zur Verfügung stehenden Zeit, Qualität und Ressourcen. Die einzelnen Phasen des Projektmanagements sind alle auf den erfolgreichen Abschluss des Projekts ausgerichtet.[^6] Die [Dokumentation](Projektdokumentation.md) der einzelnen Arbeitsschritte macht die ständige Anwesenheit des Kunden überflüssig. Dessen Zugegensein ist nur in der Anfangs- und Abschlussphase erforderlich.[^5]
 
-Des Weiteren lässt sich das klassische Projektmanagement in das strategische und operative Projektmanagement unterteilen. Die Aufgabe des strategischen Projektmanagements ist die Projektplanung gemäß den Vorgaben der Unternehmensstrategie.[^7] Das operative Projektmanagement bezeichnet das Management eins Projekts von der Planung bis zum Abschluss. Dies beinhaltet „das Verwalten einzelner Projekte, das Erstellen von Schnittstellen zum strategischen Projektmanagement und die Koordination des Einsatzes von Instrumenten“[^6].
+Des Weiteren lässt sich das klassische Projektmanagement in das strategische und operative Projektmanagement unterteilen. Die Aufgabe des strategischen Projektmanagements ist die Projektplanung gemäß den Vorgaben der Unternehmensstrategie.[^7] Das operative Projektmanagement bezeichnet das Management eins Projekts von der Planung bis zum Abschluss. Dies beinhaltet „das Verwalten einzelner Projekte, das Erstellen von Schnittstellen zum strategischen Projektmanagement und die Koordination des Einsatzes von Instrumenten.“[^6]
 
 
 # Perspektiven des klassischen Projektmanagements
@@ -26,7 +26,7 @@ Zwei bekannte Vorgehensmodelle des klassischen Projektmanagements sind einerseit
 
 ## Wasserfallmodell 
 
-„Das Wasserfallmodell ist die einfachste Form der Vorgehensmodelle und besteht in seiner ursprünglichen Form aus den Phasen Anforderungsdefinition, Analyse, Entwurf, Implementierung, Test und Inbetriebnahme."[^6] Das lineare Modell eignet sich vor allem für Projekte mit bekannten Anforderungen, die wenige Änderungen vorhersehen. „Im Folgenden ist ein Beispiel für ein Wasserfallmodell zur Entwicklung eines EDV-Programms dargestellt. Es werden 6 Phasen definiert:"
+„Das Wasserfallmodell ist die einfachste Form der Vorgehensmodelle und besteht in seiner ursprünglichen Form aus den Phasen Anforderungsdefinition, Analyse, Entwurf, Implementierung, Test und Inbetriebnahme."[^6] Das lineare Modell eignet sich vor allem für Projekte mit bekannten Anforderungen, die wenige Änderungen vorhersehen. „Im Folgenden ist ein Beispiel für ein Wasserfallmodell zur Entwicklung eines EDV-Programms dargestellt. Es werden 6 Phasen definiert:"[^8]
 
 ![Beispielabbildung](Projektplanung/Wasserfallmodell.jpg)[^8]
 
@@ -34,7 +34,7 @@ Zwei bekannte Vorgehensmodelle des klassischen Projektmanagements sind einerseit
 
 ## Spiralmodell
 
-Eine Erweiterung des linearen Modells stellt das Spiralmodell dar. „Es besteht aus vier zyklischen Schritten, die durchgängig bis zur Außerbetriebnahme der Software stattfinden.“[^6] Dieses beginnt mit der Definition der Ziele in der Phase „Voraussetzungen“ gefolgt von der „Risikoanalyse“ in der Lösungsansätze in Bezug auf mögliche Risiken bewertet werden. Die „Umsetzung“ der angepeilten Ziele erfolgt im dritten Schritt. Die letzte Phase, die zugleich den Beginn eines neuen Zyklus darstellt, beschäftigt sich mit der „Planung“ der weiteren Vorgehensweise.[^6] Dies wird durch die folgende Abbildung verdeutlicht.
+Eine Erweiterung des linearen Modells stellt das Spiralmodell dar. „Es besteht aus vier zyklischen Schritten, die durchgängig bis zur Außerbetriebnahme der Software stattfinden.“[^6] Es beginnt mit der Definition der Ziele in der Phase „Voraussetzungen“ gefolgt von der „Risikoanalyse“, in der Lösungsansätze in Bezug auf mögliche Risiken bewertet werden. Die „Umsetzung“ der angepeilten Ziele erfolgt im dritten Schritt. Die letzte Phase, die zugleich den Beginn eines neuen Zyklus darstellt, beschäftigt sich mit der „Planung“ der weiteren Vorgehensweise.[^6] Dies wird durch die folgende Abbildung verdeutlicht.
 
 ![Beispielabbildung](Projektplanung/Spiralmodell.jpg)[^6]
 
