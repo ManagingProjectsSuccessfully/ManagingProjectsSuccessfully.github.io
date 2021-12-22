@@ -17,8 +17,8 @@ Kanban in Bezug auf Projektmanagement ist einer der einfachsten und am schnellst
 # Entstehung des Kanban-Systems
 
 Diese Methode wurde 1947 von Toichi Ōno für den Automobilkonzern Toyota entwickelt[^3]. 
-So entwickelte Ōno aufgrund von teueren Speicherplätzen ein Konzept zur kurzfristigen Terminplanung und Bestandsreduzierung[^3]. 
-Als Orientierung diente hier das Beispiel Supermarkt-Einkauf: Wenn eine bestimmte Art und Menge an Waren aus dem Regal genommen wird, 
+So entwickelte Ōno aufgrund von teuren Speicherplätzen ein Konzept zur kurzfristigen Terminplanung und Bestandsreduzierung[^3]. 
+Als Orientierung diente hier das Beispiel Supermarkt-Einkauf: Werden eine bestimmte Art und Menge an Waren aus dem Regal entnommen, 
 werden diese schnellstmöglich entsprechend nachgefüllt[^3].
 
 Im übertragenen Sinn auf Produktionsprozess gibt es [Kanban-Karten](Kanban_Karten.md): Mit Hilfe derer wird ein Signal an die vorgelagerte Abteilung gesendet,
@@ -55,7 +55,7 @@ Darüber hinaus kann der Einsatz von [Swim-Lanes](Kanban_Swim_Lanes.md) für ein
 
 | [Scrum](Scrum.md)         | Kanban        |
 | ------------- | ------------- |
-| Verwendung von Kompläxität bzw. Storypoints als Kennzahl, um Prozessverbesserungen zu planen. | Verwendet Durchlaufzeit (Leadtime) als Kennzahl, um Prozessverbesserungen zu planen und zu avaluieren.|
+| Verwendung von Komplexität bzw. Storypoints als Kennzahl, um Prozessverbesserungen zu planen. | Verwendet Durchlaufzeit (Leadtime) als Kennzahl, um Prozessverbesserungen zu planen und zu avaluieren.|
 | Schätzungen werden vorgeschrieben.  | Schätzungen sind optimal.|
 | Setzt voraus, dass ein [Scrum](Scrum.md)-Board nach jedem Sprint zurückgesetzt wird. | Ein [Kanban-Boards](Kanban_Boards.md) ist presistent|
 | Setzt ein priorisiertes Produkt-Backlog voraus. | Priorisierung ist optimal. Eine Selektion am Eingang der Dienstleistung ermöglicht ein Zusammenführen mehrerer Bachlogs.|
