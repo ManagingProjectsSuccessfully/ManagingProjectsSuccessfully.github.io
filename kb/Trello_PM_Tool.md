@@ -5,12 +5,12 @@ author: hatutona
 anrechnung: k
 ---
 
-Trello ist ein flexibles Tool, wird meist in Projektmanagement angewendet, mit dem Gruppen oder Teams auf produktive und kreative Weise ihre Pläne aufbauen, Workflows organisieren beziehungsweise Fortschritt überwachen können. Mit Trello werden sowohl große Meilensteine als auch die täglichen Aufgaben gemanagt. Dadurch wird alles rechtzeitig erledigt.
+Trello ist ein flexibles Tool, wird meist in Projektmanagement angewendet, mit dem Gruppen oder Teams auf produktive und kreative Weise ihre Pläne aufbauen, Workflows organisieren beziehungsweise Fortschritt überwachen können. Mit Trello werden sowohl große Meilensteine als auch die täglichen Aufgaben verfolgt. Dadurch wird alles rechtzeitig erledigt.
 
 ## Eine kurze Geschichte von Trello[^1]
-* Im Jahr 2010 wird dieser Tool von zwei Programmierern Bobby Grace und Justin Gallagher entwickelt, die  für  Fog Creek Software arbeiten 
-* Im Jahr 2011 wird ein erster Prototyp vorgeschlagen, genannt als Trellis und nach abgeschlossener Betaphase wird es zum ersten Mal auf der TechCrunch Event mit dem Namen Trello veröffenlicht .
-* Im Jahr 2012 wird Trello auf drei Plattforme Web-App, iOS und Android betrieben und erreicht 500 000 Mitglieder .
+* Im Jahr 2010 wird dieser Tool von zwei Programmierern Bobby Grace und Justin Gallagher entwickelt, die  für  Fog Creek Software arbeiten.
+* Im Jahr 2011 wird ein erster Prototyp vorgeschlagen, genannt als Trellis und nach abgeschlossener Betaphase wird es zum ersten Mal auf der TechCrunch Event mit dem Namen Trello veröffenlicht.
+* Im Jahr 2012 wird Trello auf drei Plattforme Web-App, iOS und Android betrieben und erreicht 500 000 Mitglieder.
 * Im Mai 2015 betritt Trello den internationalen Markt und bietet lokalisierte Versionen für Brasilien, Deutschland und Spanien an.
 * Anfang Januar 2017 wird Atlassian Trello für einen Kaufpreis von 425 Mio. US$ übernehmen.
 * im Oktober 2019 kündigte Trello 50 Millionen Nutzer an[^2]  und ist bis jetzt mehr als 20 unterschiedlichen Sprache verfügbar[^3].
@@ -24,11 +24,11 @@ Trello ist ein flexibles Tool, wird meist in Projektmanagement angewendet, mit d
 * Die Karte ist inhaltsreich und stellt eine Aufgabe dar.
 * Zusammenarbeitsorientierte Aspekte wie Beschreibung, Verantwortliche, Fälligkeitsdaten, Tags, Kommentare und Dateianhänge von bis zu 250 MB pro Datei.
 * Eine große Sammlung bereits vorhandener Vorlagen für eine Vielzahl von Teamtypen.
-* Viele Integrationen von Drittanbietern, die bei der Verbindung mit Squad-Favoriten wie GitHub, Dropbox, Slack, Google Drive usw.
+* Viele Integrationen von Drittanbietern, die bei der Verbindung mit Squad-Favoriten wie GitHub, Dropbox, Slack, Google Drive etc.
 * Power-Ups zum Hinzufügen von Funktionen zu Boards und Karten verfügbar.
 
 ## Geschäftsmodell
-Einnahmequelle von Trello basiert auf [Premium-Prinzip](https://de.wikipedia.org/wiki/Freemium), d.h dass Grundfunktion dauerhaft kostenlos ist , daneben gibt es auch eine kostenpflichtige Premiumversion welche ein allumfassendes Funktionspaket aufweist. Trello teilt vier Tarife für zwischen 0 und $17,50 USD pro Nutzer und Monat auf:  Free, Standard, Premium und Enterprise.
+Einnahmequelle von Trello basiert auf [Premium-Prinzip](https://de.wikipedia.org/wiki/Freemium), d.h dass Grundfunktion dauerhaft kostenlos ist, daneben gibt es auch eine kostenpflichtige Premiumversion welche ein allumfassendes Funktionspaket aufweist. Trello teilt vier Tarife für zwischen 0 und $17,50 USD pro Nutzer und Monat auf:  Free, Standard, Premium und Enterprise.
 ## Vergleich Trello mit seinen Konkurrenten (Asana und Monday.com)
 
 |   | Trello | Asana | monday.com|
