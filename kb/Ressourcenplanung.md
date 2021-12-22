@@ -14,8 +14,7 @@ Erfolgreiches [Projektmanagement](Projektmanagement.md) resultiert aus einer eff
 
 # Bereiche der [Ressourcenplanung](Ressourcenplanung.md) und deren Herausforderungen (Skill-Management)
 
-![Abbildung](https://github.com/felhaag/ManagingProjectsSuccessfully.github.io/blob/8d48db189a099fefce62978effaba328152e9397/kb/Ressourcenplanung/Abbildung1.png)
-![Abbildung](kb/Ressourcenplanung/Abbildung1.png)[Abbildung 1: Die drei Ebenen und beteiligten Rollen bei der unternehmensweiten Ressourcenplanung]
+![Abbildung](Ressourcenplanung/Abbildung1.png)[Abbildung 1: Die drei Ebenen und beteiligten Rollen bei der unternehmensweiten Ressourcenplanung]
 
 Kompetenz- bzw. Skill-Management ist ein effektives Instrument der [Ressourcenplanung](Ressourcenplanung.md), mit dem detaillierte Fähigkeiten und deren Ausprägungen benannt und somit Ressourcen automatisch zugeordnet werden können. 
 
@@ -60,8 +59,7 @@ Nach der Teamzuteilung kommt die Aufgabenzuteilung. Diese kann/sollte der [Proje
 
 # Prozesse und deren Rollen zur [Ressourcenplanung](Ressourcenplanung.md)
 
-![Abbildung](https://github.com/felhaag/ManagingProjectsSuccessfully.github.io/blob/8d48db189a099fefce62978effaba328152e9397/kb/Ressourcenplanung/Abbildung%202.png)
-![Abbildung](kb/Ressourcenplanung/Abbildung2.jpg)[Abbildung 2: Das Zusammenspiel zwischen den Ebenen bei der Ressourcenplanung im Projektmanagement] 
+![Abbildung](Ressourcenplanung/Abbildung2.jpg)[Abbildung 2: Das Zusammenspiel zwischen den Ebenen bei der Ressourcenplanung im Projektmanagement] 
 
 ### Linienorganisation: 
 
