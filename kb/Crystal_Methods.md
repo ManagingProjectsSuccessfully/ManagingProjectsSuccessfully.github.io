@@ -13,15 +13,15 @@ Die vorliegende Arbeit setzt sich mit der Crystal Methode und ihren Anwendungsm�
 Welche Methode letztendlich für das Projekt ausgewählt wird, entscheidet die Anzahl der teilnehmenden Personen und die Höhe der Risiken. Die Crystal Familie benutzt verschiedene Farben um die verwendete Methode zu kennzeichnen. Die aktuellen Farben sind:[^2]
 
 * Crystal Clear 
-  - (bis zu 6 Mitgliedern)
+  - (bis zu 6 Teammitgliedern)
 * Crystal Yellow 
-  - (7-20)
+  - (7-20 Teammitglieder)
 * Crystal Orange 
-  - (21- 40)
+  - (21-40 Teammitglieder)
 * Crystal Red 
-  - ( 40-80)
+  - ( 40-80 Teammitglieder)
 * Crystal Maroon 
-   - (80-200)
+   - (80-200 Teammitglieder)
 
 Die folgende Graphik bildet auf der waagerechten Achse die Größe des Projekts und auf der senkrechten das mit der Software verbundene Risiko ab. C steht für „Loss of Comfort“, D für „Loss of discretionary monies“, E für „Loss of essential monies“ und L für „Loss of Life“. Die Zahl hinter dem Buchstaben kennzeichnet die Anzahl der an einem Projekt beteiligten Leute. 
 Ein Beispiel wäre E20, in dem Fall handelt es sich um ein Projekt mit essentiellen Geldern und 20 Leuten. 
@@ -36,7 +36,7 @@ Projekte mit lebensbedrohlichen Risiken hat er absichtlich weggelassen, da er ke
 
 # 2. Die 7 Prinzipien der Crystal Methoden
 
-Die Methoden zeichnen vor allem sieben gemeinsame und vorherrschende Eigenschaften aus. Im Laufe der Zeit fand Cockburn heraus, dass je mehr von diesen Eigenschaften in der [Projektplanung](Projektplanung.md) umgesetzt wurden, desto erfolgreicher wurde das Projekt abgeschlossen.[^3]
+Die Methoden zeichnen sich vor allem durhc sieben gemeinsame und vorherrschende Eigenschaften aus. Im Laufe der Zeit fand Cockburn heraus, dass je mehr von diesen Eigenschaften in der [Projektplanung](Projektplanung.md) umgesetzt wurden, desto erfolgreicher wurde das Projekt abgeschlossen.[^3]
 
 
 1. Frequent delivery[^4]
@@ -61,7 +61,7 @@ Die Methoden zeichnen vor allem sieben gemeinsame und vorherrschende Eigenschaft
 
 5. Focus
 
-	  - Jeder Mitarbeiter arbeitet ziel- und lösungsorientiert an ihren Aufgaben.
+	  - Jeder Mitarbeiter arbeitet ziel- und lösungsorientiert an seinen Aufgaben.
 
 	
 6. Early Access to expert users
@@ -89,9 +89,7 @@ Unabhängig von der Größe des Projekts existieren ein Sponsor, verschiedene Us
 
 ## Quellen
 
-[^1]: [Crystal] (https://www.onlinesolutionsgroup.de/blog/glossar/c/crystal/
-
-)
+[^1]: [Crystal](https://www.onlinesolutionsgroup.de/blog/glossar/c/crystal/)
 [^2]: [The Crystal family](https://files.ifi.uzh.ch/rerg/amadeus/teaching/seminars/seminar_ws0304/04_05_Hollenstein_Rutz_Crystal_Ausarbeitung.pdf)
 [^3]: [Agile Patterns- Teil 2/4 Prinzipien Crystal Family](http://www.anecon.com/blog/agile-patterns-teil-2-prinzipien-crystal-family/
 )
