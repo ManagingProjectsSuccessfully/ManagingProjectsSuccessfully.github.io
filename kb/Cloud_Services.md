@@ -5,13 +5,6 @@ author: kutaydogan
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Cloud_Services um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Definition
-
 Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, die über das Internet on demand Zugriff auf Anwendungen und Ressourcen zur Verfügung stellen, ohne eine spezielle Infrastruktur oder Hardware vorauszusetzen. Beliebte Cloud-Services sind zum Beispiel E-Commerce-Applikationen oder Produktivitäts-Applikationen wie E-Mails, die eine [digitale Kommunikation](https://github.com/DaLob98/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitale_Kommunikation.md) ermöglichen. [^1][^2]
 
 # 1.Verschiedene Cloud Service Modelle
