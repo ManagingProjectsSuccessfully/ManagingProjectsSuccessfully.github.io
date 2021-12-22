@@ -98,7 +98,8 @@ Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einz
 # Weiterführende Literatur
 
 * [What is PRINCE2? (in 100 seconds)](https://www.youtube.com/watch?v=61RnrsWQE7A)
-*  
+* [Mütze-Niewöhner, S., Hacker, W., Hardwig, T., Kauffeld, S., Latniak, E., Nicklich, M., & Pietrzyk, U. (2021). Projekt-und Teamarbeit in der digitalisierten Arbeitswelt:
+* Herausforderungen, Strategien und Empfehlungen (p. 224). Springer Nature.] (https://library.oapen.org/handle/20.500.12657/46104)
 
 
 # Siehe auch
