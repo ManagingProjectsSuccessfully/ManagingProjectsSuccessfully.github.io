@@ -10,7 +10,7 @@ anrechnung: k
 
 # Projektplanung im klassischen Projektmanagement
 
-Das [klassische Projektmanagement](Projektmanagement.md) ist durch genaue Planung, Steuerung und Koordination geprägt. Dies bedeutet, dass die einzelnen [Phasen](Projektphasen_klassisch.md) der Projektplanung von Beginn an akkurat durchgeplant und die Anforderungen an das Endprodukt bereits bekannt sind.[^4] Durch das lineare Vorgehen und die exakte Terminplanung ist die Überschaubarkeit des Projekts gewährleistet. Klare Hierarchien und die genaue Definition der einzelnen Phasen verringern die Komplexität der Projekte.[^5] Durch die Rangordnung wird die Aufgabenteilung vorgegeben und die Kommunikation zwischen den Teammitgliedern erleichtert. Das Projektmanagement agiert im Spannungsfeld des [magischen Dreiecks](Magisches_Dreieck.md), das heißt unter Beachtung der zur Verfügung stehenden Zeit, Qualität und Ressourcen. Die einzelnen Phasen des Projektmanagements sind alle auf den erfolgreichen Abschluss des [Projekts](Projekt.md) ausgerichtet.[^6] Die [Dokumentation](Projektdokumentation.md) der einzelnen Arbeitsschritte macht die ständige Anwesenheit des Kunden überflüssig. Dessen Zugegensein ist nur in der Anfangs- und Abschlussphase erforderlich.[^5]
+Das [klassische Projektmanagement](Projektmanagement.md) ist durch genaue Planung, Steuerung und Koordination geprägt. Dies bedeutet, dass die einzelnen [Phasen](Projektphasen_klassisch.md) der Projektplanung von Beginn an akkurat durchgeplant und die Anforderungen an das Endprodukt bereits bekannt sind.[^4] Durch das lineare Vorgehen und die exakte Terminplanung ist die Überschaubarkeit des Projekts gewährleistet. Klare Hierarchien und die genaue Definition der einzelnen Phasen verringern die Komplexität der Projekte.[^5] Durch die Rangordnung wird die Aufgabenteilung vorgegeben und die Kommunikation zwischen den Teammitgliedern erleichtert. Das Projektmanagement agiert im Spannungsfeld des magischen Dreiecks, das heißt unter Beachtung der zur Verfügung stehenden Zeit, Qualität und Ressourcen. Die einzelnen Phasen des Projektmanagements sind alle auf den erfolgreichen Abschluss des [Projekts](Projekt.md) ausgerichtet.[^6] Die [Dokumentation](Projektdokumentation.md) der einzelnen Arbeitsschritte macht die ständige Anwesenheit des Kunden überflüssig. Dessen Zugegensein ist nur in der Anfangs- und Abschlussphase erforderlich.[^5]
 
 Des Weiteren lässt sich das klassische Projektmanagement in das strategische und operative Projektmanagement unterteilen. Die Aufgabe des strategischen Projektmanagements ist die Projektplanung gemäß den Vorgaben der Unternehmensstrategie.[^7] Das operative Projektmanagement bezeichnet das Management eins Projekts von der Planung bis zum Abschluss. Dies beinhaltet „das Verwalten einzelner Projekte, das Erstellen von Schnittstellen zum strategischen Projektmanagement und die Koordination des Einsatzes von Instrumenten“[^6].
 
@@ -51,7 +51,6 @@ Die Ausrichtung aller Handlungsaspekte auf das Endprodukt und die genaue Vorausp
 * [Projektmanagement](Projektmanagement.md)
 * [Projektphasen](Projektphasen_klassisch.md)
 * [klassisches Projektmanagement](Projektmanagement.md)
-* [magisches Dreieck](Magisches_Dreieck.md)
 * [Projekt](Projekt.md)
 * [Dokumentation](Projektdokumentation.md)
 * [Wasserfallmodell](Wasserfall_Modell.md) 
