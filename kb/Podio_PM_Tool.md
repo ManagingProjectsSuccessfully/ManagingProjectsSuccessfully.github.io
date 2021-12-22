@@ -5,7 +5,8 @@ author: Paulqe42kuno
 anrechnung: a
 ---
 
-![Abbildung](Podio_PM_Too/5ec041c884913319d3c8c9a9_podio.png)
+![Abbildung](Podio_PM_Tool/5ec041c884913319d3c8c9a9_podio.png)
+
 [Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationship-Management-System (CRM-System) unterstützt wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können. Podio unterstützt die individuelle Arbeitsweise sowie das flexible, strukturierte, kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe, indem es ihnen einen Überblick über Arbeitsschritte, Ergebnisse, Budget, Zeit, Dateien sowie weiterer wichtiger Informationen liefert [^1][^3]. Die Firma Podio Europe hat ihren Hauptsitz in Kopenhagen, Dänemark[^3].
 
 # Geschichte
