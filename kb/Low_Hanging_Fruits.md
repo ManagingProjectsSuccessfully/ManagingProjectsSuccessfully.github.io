@@ -36,7 +36,7 @@ Die Harmless Weeds stellen dabei Aufgaben mit wenig Aufwand aber auch wenig Ertr
 
 
 
-Da jedoch verschiedene Teammitglieder je nach Spezifizierungsbereich auch verschiedene Prioritäten haben ist es besonders wichtig die Kategorisierung der Aufgaben gemeinsam als Team vorzunehmen[^4]. Für eine effektive Aufgaben-Kategorisierung nach der Low Hanging Fruits Matrix, mit der alle Teammitglieder einigermaßen zufrieden sein sollte, ist folglich vorzugehen: 
+Da jedoch verschiedene Teammitglieder je nach Spezifizierungsbereich auch verschiedene Prioritäten haben ist es besonders wichtig die Kategorisierung der Aufgaben gemeinsam als Team vorzunehmen[^4]. Für eine effektive Aufgaben-Kategorisierung nach der Low Hanging Fruits Matrix, mit der alle Teammitglieder einigermaßen zufrieden sein sollten, ist folglich vorzugehen: 
 
 1. Der Moderator/ Projektmanager führt ein Brainstorming-Gespräch über potenzielle Projekte mit dem Projektteam
 2. Vergabe von Nummern für jedes mögliche Projekt 
