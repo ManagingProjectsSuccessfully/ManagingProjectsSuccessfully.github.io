@@ -80,10 +80,10 @@ der daraus entstandenden Vielzahl an Modellen bzw. Vorschl채ge zur Gestaltungsm�
 
 # Siehe auch
 
-* [Projektmanagement](Change_Management.md)
+* [Projektmanagement](Projektmanagement.md)
 * [Change Projekte](Change_Projekte.md)
-* [Ver채nderungen in Unternehmen gestalten](Managing_Change_in_Organisations)
-* [8-Stufen Modell von John Kotter](8_Step_Process_for_Leading_Change)
+* [Ver채nderungen in Unternehmen gestalten](Managing_Change_in_Organisations.md)
+* [8-Stufen Modell von John Kotter](8_Step_Process_for_Leading_Change.md)
 
 # Weiterf체hrende Literatur
 * [Video und Erl채uterungen zum Hawthorne-Effekt](https://www.youtube.com/watch?v=fei2WVqEykM)
