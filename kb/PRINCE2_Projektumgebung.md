@@ -60,7 +60,7 @@ Die Zusammenführung von einzelnen Berichten zu einem großen kann zu einer Vers
 
 [PRINCE2](PRINCE2.md) ermöglicht also für jedes Unternehmen bzw. teilweise sogar für jedes [Projekt](Projekt.md) eine individuelle Anpassung, um so optimal auf die spezifischen Anforderungen hinsichtlich Umgebung, Umfang, Komplexität, Wichtigkeit, Leistungsfähigkeit und Risiko eingehen zu können [^7]. 
 
-[PRINCE2](PRINCE2.md) stellt eine flexible und leicht wiederholbare Anleitung zur Projektplanung dar. Der ursprüngliche Zweck war das Managen von [IT-Projekten](IT-Projekte.md), worauf es aber heutzutage nicht mehr beschränkt ist. Die Erweiterung wäre PRINCE2 agile, wobei es darum geht klassische Projekte mit agilen Methoden wie z.B. [Kanban](Kanban.md) oder [SCRUM](SCRUM.md) kombiniert werden [^8].  
+[PRINCE2](PRINCE2.md) stellt eine flexible und leicht wiederholbare Anleitung zur Projektplanung dar. Der ursprüngliche Zweck war das Managen von [IT-Projekten](IT-Projekte.md), worauf es aber heutzutage nicht mehr beschränkt ist. Die Erweiterung wäre PRINCE2 agile, wobei es darum geht klassische Projekte mit agilen Methoden wie z.B. [Kanban](Kanban.md) oder [SCRUM](SCRUM.md) zu kombinieren [^8].  
 
 # Fazit
 
