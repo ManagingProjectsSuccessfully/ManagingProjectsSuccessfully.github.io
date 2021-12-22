@@ -61,6 +61,11 @@ Durch den eingeschränkten Funktionsumfang, werden zum Großteil kostenpflichtig
 Für die Verwaltung von Projekten mittleren Umfangs, ist Trello ein ideales Programm. Es basiert auf dem Funktionsprinzip von Kanban und erfordert eine geringe Einarbeitungszeit. 
 Auch Jira ist eine beliebte Anwendung, da sie sich auf verschiedenste Kriterien vieler Domänen anpassen lässt. Hier wird die Vorgehensweise des agilen Projektmanagements und von Scrum angewendet. Dabei wird auch eine erleichterte Kommunikation garantiert, indem Mitarbeiter die Möglichkeiten haben sich auszutauschen. Dabei können weitere hilfreiche Werkzeuge eingesetzt werden.  [^5]
 
+# Siehe auch
+
+* [Projektmanagement](Projektmanagement.md)
+* [Projektcontrolling](Projektcontrolling.md) 
+
 # Weiterführende Literatur
 * https://link.springer.com/book/10.1007/978-3-8348-9682-7
 * https://link.springer.com/book/10.1007/978-3-322-84843-7
