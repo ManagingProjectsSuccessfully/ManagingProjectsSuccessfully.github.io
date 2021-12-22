@@ -48,7 +48,7 @@ Quelle: Field (2018)[^3]
 Ein Nachteil dieses Arbeitsansatzes besteht darin, dass das Produkt im Beta-Zustand an die Kunden ausgeliefert wird. So hat Tesla noch immer Probleme mit Spaltmaßen, Softwarebugs oder lauten Abrollgeräuschen [^3]. Ein weiterer Punkt, der bei Kunden für Verärgerung sorgen könnte, sind die unangekündigten, kleinen inkrementellen Verbesserungen an den Fahrzeugen. Zum einen freuen sich Neukunden über z.B. eine gestiegene Reichweite, zum anderen sind Bestandskunden, die ihr Fahrzeug erst vor einigen Wochen bzw. Monaten erworben haben, möglicherweise über die unerwarteten technischen Verbesserungen verärgert. 
 
 
-## Vorteile agiler Methoden in der Autombilbranche 
+## Vorteile agiler Methoden in der Automobilbranche 
 
 Wie schon genannt, bietet der Einsatz von agilen Methoden in der Produktion von Fahrzeugen auch große Vorteile. So können Automobilhersteller sehr flexibel auf unvorhergesehene Änderungen reagieren. So ergeben sich schon während des Lebenszyklus eines Modells sowohl ökonomische, als auch sicherheitsrelevante Vorteile für die Kunden und das Unternehmen. 
 Durch [OTA-Updates](https://de.wikipedia.org/wiki/Over-the-Air-Update) profitieren Bestands- und Neukunden gleichermaßen von neuen Softwarefeatures oder Verbesserungen in der Bedienung. Teslas Einsatz von agilen Strukturen ermöglichte es erst, diese Art von Updates den Kunden bereitzustellen. Damit weist Tesla einen enormen Wettbewerbsvorteil gegenüber seinen Mitbewerbern auf, die erst allmählich das Potential hinter OTA-Updates sehen und diese erst seit kurzem bei ihren eigen Fahrzeugen einsetzen [^7]. 
