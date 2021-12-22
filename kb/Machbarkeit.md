@@ -23,7 +23,7 @@ Ziel der Initialisierungsphase ist das Ergebnis zu erlangen, ob ein Projekt durc
 
 Die Machbarkeitsstudie ist ein Instrument, das zur Prüfung der Machbarkeit eines Projekts eingesetzt wird.[^3][^4]
 
-Intention, Auftrag und Ziel der Ausarbeitung einer Machbarkeitsstudie ist, die Machbarkeit einer Projektidee nach unterschiedlichen Dimensionen zu prüfen. Meist werden hierbei folgender Dimensionen betrachtet:[^3][^4]
+Intention, Auftrag und Ziel der Ausarbeitung einer Machbarkeitsstudie ist, die Machbarkeit einer Projektidee nach unterschiedlichen Dimensionen zu prüfen. Meist werden hierbei folgende Dimensionen betrachtet:[^3][^4]
 
 
 ## Technische Machbarkeit
