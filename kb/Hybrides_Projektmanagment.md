@@ -2,103 +2,46 @@
 title: Hybrides_Projektmanagment
 tags: agil klassisch
 author: juliwebair
-anrechnung: k oder a
+anrechnung: k
 ---
+# Hybrides Projektmanagement
+Hybrid steht für die Kombination bzw. Bündelung von mindestens zweierlei Techniken.[^1]
+Das [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) bezeichnet den Vorgang des Planes, der Koordination und das Umsetzten eines Projektes.
+Somit ist das hybride Projektmanagement eine Kombination aus mindestens zwei Projektmanagement Methoden. Am häufigsten werden dabei das [klassische]( oder agile Projektmanagement miteinander verknüpft. Dabei entstehen meist ganze neue Methoden, da entweder ganze Komponenten der unterschiedlichen Vorgehensweisen miteinander vermischt werden oder nur einzelne Elemente integriert werden.[^2]
+![Merkmale](https://www.collaboration-factory.de/sites/default/files/public/styles/columns__600_x_400_/public/columns/hybrides_PM_1.png?itok=Llq6HakQ)[^3]
+*Merkmale hybrides Projektmanagement*
+# Geschichte
+Seit den fünfziger Jahren werden weltweit große, lange Projekte mit einem festen Ziel mithilfe des klassischen Projektmanagements durchgeführt. Doch durch den industriellen Wandel und die Digitalisierung wird alles schneller, individueller und kurzfristiger. Somit kam das agile Projektmanagement auf, welches Flexibilität bei den Ressourcen und Ergebnissen mit sich brachte. Jedoch ist das agile Projektmanagemant nicht geeignet für träge Großunternehmen. Diese müssen aber im digitalen Wandel weiter wettbewerbsfähig bleiben. Somit kam die Idee auf mehrere Projektmanagement Methoden miteinander zu kombinieren und es entstand das hybride Projektmanagement.[^4]
 
-Kurzbeschreibung zu Hybrides_Projektmanagment um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Arten
+Das hybride Projektmanagement lässt in **vier** unterschiedliche Arten Gliedern.[^2]
+1. **Bimodales Projektmanagement**: Hier ist die Besonderheit, dass nur zwei Arten des Projektmanagements miteinander verknüpft werden.
+1. **Selektive Projektmanagement**: Der Anwender nimmt sich die Elemente aus den bekannten Projektmanagement Methoden heraus, welche für ihn und sein Projekt am meisten Nutzen stiften.
+1. **Adaptives Projektmanagement**: Die Projektmanagement Methoden passen sich im laufe des Projekts den Aufgaben an und sind somit variabel.
+1. **Multimodales Projektmanagement**: Eine Kombination aus mindestens drei unterschiedlichen Projektmanagement Methoden.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Rollen im hybriden Projektmanagement
+Feste Rollen im hybriden Projektmanagement gibt es nicht. Deswegen ist es umso wichtiger, dass sich Unternehmen fragen, welche Rollen man benötigt, um das Projekt erfolgreich durchzuführen. Dies Frage sollte direkt am Anfang geklärt werden, um organisatorische Probleme zu vermeiden.[^2]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Vorteile 
+* Flexiblität bei Änderungen
+* vielfältigen Anpassungsmöglichkeiten
+* Ressourcenschonend
+* besseres Risikomanagement
+* kürzere Prozesse
+* optimierte Leistung
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Ausblick
+Das hybride Projektmanagement wird in Zukunft noch einen großen Faktor bei allen Firmen spielen. Mit der Industrie 4.0 und der Blockchain Technologie kommt ein neues Zeitalter auf uns zu. Dies wir einen hohen Einfluss auf zukünftige Projekte habe und somit ist es wichtig, dass Firmen ihr Management den Veränderungen nach anpassen.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Hybrides_Projektmanagment/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Hybrides_Projektmanagment.md)
 
 # Weiterführende Literatur
+*Bialas, M. (2017). Hybrides Projektmanagement: Projektmanagement mit einer flexiblen, agilen und kundenorientierten Herangehensweise kann in der digitalen Welt zum relevanten Erfolgsfaktor werden.
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://de.wikipedia.org/wiki/Hybrid
+[^2]: https://t2informatik.de/wissen-kompakt/hybrides-projektmanagement/
+[^3]: https://www.collaboration-factory.de/glossar/hybrides-projektmanagement
+[^4]: https://ifm-business.de/aktuelles/business-news/hybrides-projektmanagement-definition-und-methoden-von-traditionell-ueber-agil-bis-hybrid.html

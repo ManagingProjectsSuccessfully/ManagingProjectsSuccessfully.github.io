@@ -1,104 +1,71 @@
 ---
 title: Digitale_Kommunikation
-tags: agil klassisch
+tags: agil klassisch 
 author: DaLob98
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Digitale_Kommunikation um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# 1. Definiton 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Als Grundlage der Kommunikation bezeichnet man den Austausch von Informationen zwischen mindestens zwei Kommunikationspartnern. Die Kommunikationspartner können dabei sowohl Menschen als auch technische Systeme sein. Bei der digitalen Kommunikation wird die Nachricht von einem digitalen Kommunikationskanal wie dem Internet von einem Sender zum Empfänger übertragen. Dies kann in verschiedenen Medienformaten wie Text, Video, Bild oder Audio geschehen. Die digitale Kommunikation zeichnet sich dabei auch durch die Virtualität aus, das bedeutet die Entkopplung von Zeit und Raum[^1].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# 2. Kommunikationsmodell von Alistair Cockburn
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Der Projekterfolg hängt von einer effektiven Kommunikation ab. Kommunikationsmodelle zeigen Konzepte auf, die sich darauf beziehen, wie sich der Bezugsrahmen des Senders und des Empfängers auf die Effektivität der Kommunikation auswirken. Weiterhin wie das Kommunikationsmedium die Effektivität der
+Kommunikation beeinflusst und welche Arten von Diskrepanzen zwischen den Erwartungen der Endbenutzer und der Realität bestehen. 
+Mit multikulturellen Projektteams und verstreuten Interessengruppen bieten diese Modelle eine Möglichkeit, Kommunikationsstile und -methoden zu betrachten, um die Effizienz und Effektivität zu verbessern [^2].
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+![Abbildung 1: Kommunikationsmodell Alistair Cockburn](Digitale_Kommunikation/communicationModes.gif)[^3]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Das Kommunikationsmodell von Alistair Cockburn beschreibt auf der Y-Achse die „Effektivität der Kommunikationsart“ und auf der X-Achse die „Medienreichhaltigkeit von Kommunikationskanälen“. "Medienreichhaltigkeit“ beinhaltet verschiedene Eigenschaften zur optimalen Kommunikation.                                     Diese Merkmale zeichnen die Media Richness Theory aus: 
+*	Mehrere Informationen gleichzeitig verarbeiten
+*	Erleichterung schnelles Feedback zu geben 
+*	Einen individuellen Schwerpunkt für jedes Projektmitglied zu setzen, und 
+* Eine "natürliche Sprache" zu nutzen [^2]
 
 
-# Aspekt 1
+Nach Cockburn ist dadurch die effektivste Kommunikationsform von Angesicht zu Angesicht, insbesondere wenn sie durch ein gemeinsames Modellierungsmedium, wie ein einfaches Whiteboard, ein Flipchart, Papier oder Karteikarten unterstützt wird. Wenn man sich von dieser Kommunikationsform abwendet, etwa indem man das gemeinsame Medium entfernt oder nicht mehr von Angesicht zu Angesicht kommuniziert, sinkt die Effektivität der Kommunikation [^3].
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# 3. Vorteile durch digitale Kommunikation
+Die Vorteile digitaler Kommunikation liegen in der zeitlichen- und räumlichen Unabhängigkeit und in der Effizienz. E-Mails können zeitlich unabhängig versendet werden und erreichen den Empfänger innerhalb weniger Sekunden.
+Die räumliche Unabhängigkeit spiegelt sich dadurch wieder, dass die Mitglieder eines Projektteams sich in verschieden Regionen oder sogar Zeitzonen befinden und durch Kommunikationssoftware trotzdem am Projektmeeting teilnehmen können.
+Der größte Vorteil ist aber der Zeitgewinn, Aufträge können „just in time“ vergeben werden oder an [Projekten](Projekt.md) können durch „Share-Optionen“ mehrere Personen gleichzeitig arbeiten [^4].
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# 4. Die Kommunikationssoftware Microsoft Teams
 
-![Beispielabbildung](Digitale_Kommunikation/test-file.jpg)
+## 4.1 Was ist MS Teams?
+„Microsoft Teams ist ein chatbasierter zentraler Arbeitsbereich (Hub). Das Tool dient der digitalen Unterstützung von effektiverer Kommunikation und Kollaboration bei der Teamarbeit. Es basiert auf vorhandenen Microsoft Technologien und kann andere Office 365 Dienste integrieren“ [^5].
 
-*lustiges Testbild*
+## 4.2 Wichtige Funktionen in MS Teams
 
-# Aspekt 2
+Chat- und Videofunktion:
+* Chatfunktion für bis zu 50 Personen zur optimalen Abstimmung im Projektteam 
+* Videofunktion für Einzelgespräche und Gruppenmeetings 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Feed-Funktion:
+*	Übersicht über die Aktivitäten im Teammeeting 
+*	Filterfunktion und Aktivitäten können chronologisch geordnet werden 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Share-Optionen: 
+* Co-Authoring-Funktion von Office 365-Anwendungen zur parallelen Bearbeitung von Dokumenten 
+*	Anwendungen müssen nicht mehr gewechselt werden, sondern Dokumente können direkt in MS Teams bearbeitet werden
 
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Verschiedene Tools zur optimalen Projektbearbeitung: 
+*	Workspace in MS Teams individuell an verschiedene Arbeitsgruppen anpassbar
+*	So kann man alle möglichen Inhalte aus verschiedenen Microsoft-Anwendungen und von mehr als 150 Drittanbietern nutzen [^6]
 
 # Siehe auch
+* [Übersicht PM-Tools](Uebersicht_PM_Tools.md)
+* [Microsoft Project PM-Tool](Microsoft_Project_PM_Tool.md)
+* [Projektkommunikation](Projektkommunikation.md)
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Digitale_Kommunikation.md)
+# Weiterführende Literatur 
+*[Digitale Kommunikation-Vernetzen, Multimedia, Sicherheit](https://link.springer.com/content/pdf/10.1007%2F978-3-540-92923-9.pdf)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+# Quellenverzeichnis
+[^1]: Digitale Kommunikation: https://link.springer.com/content/pdf/10.1007%2F978-3-540-92923-9.pdf (S. 12 ff.)
+[^2]: A Guide to the Project Management Body of Knowledge - PMBOK® GUIDE (S. 157)
+[^3]: Communication on Agile Software Teams: http://agilemodeling.com/essays/communication.htm
+[^4]: Digital ist alles: https://www.perwiss.de/digitale-kommunikation.html
+[^5]: Was ist MS Teams: https://www.theprojectgroup.com/de/office-365-microsoft-teams-chat
+[^6]: Fünf Funktionen von MS Teams: https://news.microsoft.com/de-de/microsoft-teams-funktionen/
