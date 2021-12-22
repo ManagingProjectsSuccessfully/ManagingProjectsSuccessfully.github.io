@@ -13,7 +13,7 @@ Im Allgemeinen lassen sich Projekte anhand verschiedener Dimensionen bestimmten 
 # Differenzierung von Projektarten
 Es gibt verschiedene Möglichkeiten, Projekte zu charakterisieren. Zum einen lassen sich Projekte nach Art der Aufgabenstellung unterscheiden. Bei der geschlossenen Aufgabenstellung sind die Aufgaben klar definiert und bekannt mit begrenzten Lösungsmöglichkeiten. Die offene Aufgabenstellung hingegen besitzt viele Möglichkeiten bezüglich Inhalt und Vorgehen ohne exakte Lösungsvorstellungen.[^1][^5] 
 
-Zum anderen dient auch die soziale Komplexität als charakteristisches Unterscheidungsmerkmal für Projekte. Hierbei differenziert man zwischen einer geringen und hohen Komplexität. Die geringe Komplexität steht durch gering ausgeprägte Interessensunterschiede für eine unproblematische Zusammenarbeit, wohingegen eine hohe soziale Komplexität von unterschiedlichen Benutzerinteressen charakterisiert ist.[^1][^6] Folglich besteht ein hohes [Konfliktpotenzial](Zielkonflikte.md).
+Zum anderen dient auch die soziale Komplexität als charakteristisches Unterscheidungsmerkmal für Projekte.[^5] Hierbei differenziert man zwischen einer geringen und hohen Komplexität. Die geringe Komplexität steht durch gering ausgeprägte Interessensunterschiede für eine unproblematische Zusammenarbeit, wohingegen eine hohe soziale Komplexität von unterschiedlichen Benutzerinteressen charakterisiert ist.[^1][^6] Folglich besteht ein hohes [Konfliktpotenzial](Zielkonflikte.md).
 
 Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und Heitger darstellen, woraus sich vier Projektarten ableiten lassen.[^1][^4]
 
@@ -26,7 +26,7 @@ Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und 
 
 Potenzialprojekte sind durch ihr geringes Risiko und ihre einfache Projektorganisation charakterisiert, da sie trotz ihrer offenen Aufgabenstellung eine geringe Vernetzung mit dem Projektumfeld aufweisen. Unter diese Projektart fallen vor allem [Forschungsprojekte](Forschungsprojekte.md).[^4] 
 
-Im Gegensatz zu den Potenzialprojekten werden [Pionierprojekte](Pionierprojekte.md) als risikoreich eingestuft. Diese Projektart zeichnet sich durch eine hohe Vernetzung mit dem Projektumfeld, sowie einem hohen Neuigkeitsgehalt aus, wodurch der Aufgabenumfang schwer abzuschätzen ist. Dies zeigt sich oftmals bei Firmenfusionen.
+Im Gegensatz zu den Potenzialprojekten werden [Pionierprojekte](Pionierprojekte.md) als risikoreich eingestuft. Diese Projektart zeichnet sich durch eine hohe Vernetzung mit dem Projektumfeld, sowie einem hohen Neuigkeitsgehalt aus, wodurch der Aufgabenumfang schwer abzuschätzen ist.[^1] Dies zeigt sich oftmals bei Firmenfusionen.
 
 Wichtig zu beachten ist, dass die Grenzen der Matrix nicht starr sind und eine eindeutige Zuordnung nicht immer möglich ist. Darüber hinaus wechseln viele Projekte während der Entwicklung von Vorstudienphase bis zur Realisierung ihre Projektart. Dabei wandeln sich Projekte meist vom Potenzial- zum Pionierprojekt und werden im Anschluss zu Akzeptanz- oder sogar Standardprojekt[^2]. 
 
@@ -38,7 +38,7 @@ Die Zuordnung von Projekten in unterschiedliche Projektarten ist für das [Proje
 
 Die Differenzierung nach verschiedenen Projektarten erleichtert zunächst, sich einen Überblick über die Projektlandschaft im Unternehmen zu verschaffen.[^3] Dies ist vor allem dann sinnvoll, wenn eine große Anzahl an Projekten parallel gemanagt werden soll. Jedes Projekt erfordert eine andere Vorgehensweise durch die Einmaligkeit ihrer Rahmenbedingungen. 
 
-Die Klassifizierung von Projekten hilft den [Entscheidungsträgern](Projektleiter.md) dabei, geeignete [Methoden und Vorgehensweisen](Methoden.md) zu ermitteln, wodurch das Projektmanagement zielgerichtet auf die jeweils vorliegende Projektart eingesetzt werden kann.[^4] Dadurch kann beispielsweise Dauer, [Risiko](Risikomanagement.md), [Kosten](Kostenplanung.md) oder das notwendige [Know-how](Wissensmanagament.md) der Mitarbeitenden für ein bestimmtes Projekt beziehungsweise eine bestimmte Projektart abgeleitet werden. Dies vereinfacht die [Ressourcenplanung](Ressourcenplanung.md) und das [Projektcontrolling](Projektcontrolling.md) wesentlich. Darüber hinaus wird neben der Erleichterung der [Projektsteuerung](Projektsteuerung.md) auch der Bedarf an speziellem Know-how deutlich.[^3]
+Die Klassifizierung von Projekten hilft den [Entscheidungsträgern](Projektleiter.md) dabei, geeignete [Methoden und Vorgehensweisen](Methoden.md) zu ermitteln, wodurch das Projektmanagement zielgerichtet auf die jeweils vorliegende Projektart eingesetzt werden kann.[^4] Dadurch kann beispielsweise Dauer, [Risiko](Risikomanagement.md), [Kosten](Kostenplanung.md) oder das notwendige [Know-how](Wissensmanagament.md) der Mitarbeitenden für ein bestimmtes Projekt beziehungsweise eine bestimmte Projektart abgeleitet werden.[^1] Dies vereinfacht die [Ressourcenplanung](Ressourcenplanung.md) und das [Projektcontrolling](Projektcontrolling.md) wesentlich. Darüber hinaus wird neben der Erleichterung der [Projektsteuerung](Projektsteuerung.md) auch der Bedarf an speziellem Know-how deutlich.[^3]
 
 # Fazit
 
