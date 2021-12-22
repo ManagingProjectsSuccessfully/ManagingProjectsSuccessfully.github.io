@@ -2,7 +2,7 @@
 title: Cloud_Services
 tags: agil klassisch
 author: kutaydogan
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Cloud_Services um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -10,86 +10,50 @@ Kurzbeschreibung zu Cloud_Services um ein erstes Verständnis dafür zu schaffen
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Definition
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Unter dem Begriff Cloud-Services werden vielfältige Dienstleistungen vereint, die über das Internet on demand Zugriff auf Anwendungen und Ressourcen zur Verfügung stellen, ohne eine spezielle Infrastruktur oder Hardware vorauszusetzen. Beliebte Cloud-Services sind zum Beispiel E-Commerce-Applikationen oder Produktivitäts-Applikationen wie E-Mails. [^1][^2]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# 1.Verschiedene Cloud Service Modelle
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+| Typ                          | Beschreibung   |
+| ---------------------------- | -------------- |
+| Software as a Service (SaaS) | SaaS ist der bekannteste Cloud Service Typ, da zu dieser breiten Kategorie vielfältige Services gehören, wie zum Beispiel: Speicherung und Sicherung von Dateien oder webbasierte E-Mail-Angebote. SaaS wird auch als Software on demand bezeichnet und erleichtert die Kollaboration zwischen weit entfernten Teammitgliedern.[^1][^2][^3]   |
+| Infrastructure as a Service (IaaS)| IaaS liefert die Infrastruktur, die viele Cloud-Service-Provider zur Verwaltung von SaaS-Tools benötigen. Sie funktioniert wie das vollständige Framework eines Rechenzentrums, bietet Server und Storage und macht damit ressourcenintensive lokale Installationen unnötig. Typische Beispiele für IaaS sind Amazon Web Services (AWS), Microsoft Azure und Google Compute Engine, wobei diese die gesamte Speicherserver- und Networking-Hardware zur Verfügung stellen und darüber hinaus wichtige Funktionen wie Load Balancing und Anwendungsfirewalls bieten.[^1][^2] |
+| Patform as a Service (PaaS)       |PaaS ist ein Cloud-Service-Modell, das Entwicklern eine webbasierte Umgebung bietet, um Apps zu entwickeln und einzusetzen. PaaS bietet Datenbanken, Betriebssysteme und Programmiersprachen, die Unternehmen verwenden können, um cloudbasierte Software zu entwickeln, ohne sich um die zugrunde liegenden Komponenten kümmern zu müssen.Außerdem verfügen viele IaaS-Provider auch über ein PaaS-Angebot.[^1][^2][^3] |
+| Function as a Service (FaaS)      | FaaS-Anbieter stellen immer wieder gebrauchte Funktionen auf eine einfache Weise zur Verfügung. Somit können beliebte Funktionen oder auch Funktionen mit hohen Rechenleistungen ausgelagert werden.[^3]|
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+![1](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/Cloud-Varianten-IaaS-PaaS-Saas.jpg)
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+*Überblick*
 
 
-# Aspekt 1
+# 2.Liefermodelle 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## 2.1 Private Cloud Services
+Services, die ein Provider nicht der breiten Öffentlichkeit zur Verfügung stellt, werden als Private Cloud Services bezeichnet. Bei Private Cloud Services werden Anwendungen und Daten über die eigene Infrastruktur des jeweiligen Unternehmens bereitgestellt. Plattform und Software dienen nur einem einzigen Unternehmen und sind für externe Benutzer nicht verfügbar. Unternehmen, die mit hochsensiblen Daten arbeiten, zum Beispiel im Gesundheitswesen oder Bankensektor, verwenden häufig Private Clouds, um erweiterte Sicherheitsprotokolle zu nutzen und Ressourcen nach Bedarf in einer virtualisierten Umgebung zu erweitern.[^1]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+## 2.2 Public Cloud Services
+Services, die ein Provider zahlreichen Kunden über das Internet bereitstellt, werden als Public Cloud Services bezeichnet. Alle oben genannten Beispiele für SaaS, IaaS und Platform as a Service (PaaS) bieten Public-Cloud-basierte Services an. Der größte Vorteil von Public Cloud Services besteht darin, dass Ressourcen im großen Umfang bereitgestellt werden können, was Unternehmen ein Angebot ermöglicht, das sie alleine nicht stemmen könnten.[^1]
 
-![Beispielabbildung](Cloud_Services/test-file.jpg)
+## 2.3 Hybride Cloud Services
+Eine Hybrid Cloud ist eine Kombination aus Private Cloud und Public Cloud. Dieser Kompromiss ist sinnvoll, wenn ein Unternehmen vertrauliche Daten in der Private Cloud speichert, aber den Mitarbeitern für die alltägliche Kommunikation und Zusammenarbeit auch Zugriff auf Anwendungen und Ressourcen in der Public Cloud bieten möchte. Dabei wird proprietäre Software verwendet, um die Kommunikation zwischen den Cloud-Services zu ermöglichen, was oftmals durch eine zentrale IT-Management-Konsole erleichtert wird.[^1]
 
-*lustiges Testbild*
+# 3.Vorteile der Cloud Services
+## 3.1 Effizienz und höhere Skalierbarkeit
+Cloud-basierte Services wie E-Mail-Hosting, Produktivitäts-Apps und E-Commerce-Plattformen können je nach Bedarf problemlos und schnell nach oben bzw. unten skaliert werden und zu beliebiger Zeit zugegriffen werden. [^1][^2]
 
-# Aspekt 2
+## 3.2 Kostengünstig
+Cloud-Technologiedienste sind in der Regel viel günstiger als der Aufbau, die Wartung und das Management Ihres eigenen Rechenzentrums.[^1][^2]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## 3.3 Flexibilität und Agilität
+Es stehen auf Wunsch mehrere Clouds und Supercomputer zur Verfügung, zudem können ganz einfach Server, Speicher und andere IT-Ressourcen hinzugefügt werden. [^1][^2]
 
 
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Cloud_Services.md)
+* [Link auf diese Seite](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Cloud_Services.md)
 
 # Weiterführende Literatur
 
@@ -97,8 +61,8 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^1]: [Was ist ein Cloud-Service?](https://www.citrix.com/de-de/solutions/digital-workspace/what-is-a-cloud-service.html)
+[^2]: [Was sind Cloud-Services?](https://www.rackspace.com/de-de/library/what-are-cloud-services)
+[^3]: [Cloud Computing](https://de.wikipedia.org/wiki/Cloud_Computing)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
