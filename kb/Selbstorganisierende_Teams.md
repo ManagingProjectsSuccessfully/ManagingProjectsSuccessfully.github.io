@@ -13,7 +13,7 @@ Selbstorganisierende Teams sind ein Kernelement in agilen Projekten. Sie haben k
 Selbstorganisierende Teams sind eine Gruppe von Mitarbeitern, die die Verantwortung für ihre Arbeit und sich selbst übernehmen. Hierbei muss das Team die Aufgaben gemeinsam verteilen. Zudem müssen sie dabei selbst überlegen wie die Aufgaben unterteilt werden können. Im Scrum-Framework wird dafür das [Sprint Planning](Sprint_Planning.md) benutzt. Auch muss das Team die richtige Entscheidung treffen wer für welche Aufgabe geeignet ist. Darüber hinaus überwacht ein selbstorganisiertes Team den Arbeitsfortschritt selbst, dies passiert im Scrum-Framework in den [Dailies](Daily_Scrum.md). Es ist auch die Aufgabe des Teams Probleme selbst zu erkennen und die Teamorganisation zu verbessern, hierzu wird die [Retrospektive](Retrospective.md) im Scrum-Framework genutzt. 
 
 Auch spricht man im agilen Umfeld nicht von Aufgaben, sondern von Kundenanforderungen sogenannten User Stories, welches die Orientierung für das Team sind das Projektziel zu erreichen. Dies wäre beispielsweise eine Aufgabe für den [Product Owner](Product_Owner.md) des selbstorganisierenden Teams. 
-Einen klassischen Projektleiter gibt es nicht, dennoch braucht jedes selbstorganisierende Team einen Coach, dieser ist in [Scrum](Scrum.md) der [Scrum Master](Scrum_Master.md). Er kümmert sich als Initiator, Motivator und Moderator dafür, dass das Team effizient arbeitet, aber auch gemeinsam an einem Strang zieht. 
+Einen klassischen Projektleiter gibt es nicht, dennoch braucht jedes selbstorganisierende Team einen Coach, dieser ist in [Scrum](SCRUM.md) der [Scrum Master](Scrum_Master.md). Er kümmert sich als Initiator, Motivator und Moderator dafür, dass das Team effizient arbeitet, aber auch gemeinsam an einem Strang zieht. 
 Natürlich muss ein Team mir ihren Kompetenzen alle relevanten Bereiche abdecken können, um in der Lage zu sein alle Anforderungen selbständig zu erfüllen. Hierfür muss vom Unternehmen für die Verwirklichung von selbstorganisierenden Teams eine Basis geschaffen werden.[^2]  
 
 # Die Transition zu einem selbstorganisierenden Team
@@ -84,7 +84,7 @@ Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Team
 * [Retrospective](Retrospective.md)
 * [Product Owner](Product_Owner.md)
 * [Scrum Master](Scrum_Master.md) 
-* [Scrum](Scrum.md) 
+* [Scrum](SCRUM.md) 
 * [Bottom up Planning](Bottom_Up_Planning.md)
 
 # Weiterführende Literatur
