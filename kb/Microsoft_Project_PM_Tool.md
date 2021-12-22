@@ -69,7 +69,7 @@ Im Anschluss folgt eine Anleitung für die Nutzung des Programms MS Project.
 ### 1. Projektstart: über Register „Projekt“ unter „Projektinformationen“ editieren
 
 Der erste Schritt in einem Projekt sollte mit der Definition des Projektstarts beginnen. 
-Der [Projektstart](Projektstart.md) ist zugleich ein Fixpunkt, an diesem sich alle neuen Vorgänge orientieren.
+Der [Projektstart](Projektstart.md) ist zugleich ein Fixpunkt, an diesem sich alle neuen Vorgänge orientieren.[^5]
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Projektstart.jpeg)
 
@@ -77,7 +77,7 @@ Der [Projektstart](Projektstart.md) ist zugleich ein Fixpunkt, an diesem sich al
 
 ### 2. Vorgänge anlegen
 
-Bevor die „Vorgangsnamen“ eingetragen werden, sollten die Schritte für das Projektziel eindeutig definiert und Zuständigkeiten für die Vorgänge geklärt sein (Verwendung von einheitlichen Namenskonventionen).
+Bevor die „Vorgangsnamen“ eingetragen werden, sollten die Schritte für das Projektziel eindeutig definiert und Zuständigkeiten für die Vorgänge geklärt sein (Verwendung von einheitlichen Namenskonventionen).[^5]
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Vorgang.jpeg)
 
@@ -86,7 +86,7 @@ Bevor die „Vorgangsnamen“ eingetragen werden, sollten die Schritte für das 
 ### 3.	Projektinhalte strukturieren
 
 Mit dem Einrücken von Vorgängen werden Projektinhalte tiefergestuft und es erfolgt die Erzeugung eines Sammelvorgangs. 
-Dieser soll ein Projekt in logische Phasen untergliedern und eine übersichtlichere Darstellung ermöglichen.
+Dieser soll ein Projekt in logische Phasen untergliedern und eine übersichtlichere Darstellung ermöglichen.[^5]
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Projektinhalt.jpeg)
 
@@ -95,7 +95,7 @@ Dieser soll ein Projekt in logische Phasen untergliedern und eine übersichtlich
 ### 4.	Dauer: Vorgänge und Meilensteine festlegen
 
 Die Dauer entspricht den Arbeitstagen, wird für ein Intervall abgeschätzt und im Projektverlauf fortgeschrieben. 
-Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung eines Sammelvorgangs / Zwischenstands verwendet werden.
+Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung eines Sammelvorgangs / Zwischenstands verwendet werden.[^5]
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Dauer.jpeg)
 
@@ -104,7 +104,7 @@ Meilensteine werden auf null Tage gesetzt und sollten möglichst zur Vollendung 
 ### 5.	Abhängigkeiten durch Vorgangsverknüpfungen
 
 Wenn Vorgänge und Meilensteine gesetzt sind, folgen über Verknüpfungen inhaltlich logische Beziehungen, die nicht unbedingt chronologisch abgebildet werden müssen. Neben der Ende-Anfang-Beziehung (kurz: EA) kann der User drei weitere Beziehungsarten wählen (EE, AE, AA).
-Falls Verzögerungen / Beschleunigungen erfasst werden müssen, kann dies über die Angabe von Tagen mit einem Plus / Minus Zeichen angepasst werden. Die hierfür verwendeten Spalten lauten Vorgänger / Nachfolger.
+Falls Verzögerungen / Beschleunigungen erfasst werden müssen, kann dies über die Angabe von Tagen mit einem Plus / Minus Zeichen angepasst werden. Die hierfür verwendeten Spalten lauten Vorgänger / Nachfolger.[^5]
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Verknuepfungen.jpeg)
 
@@ -113,7 +113,7 @@ Falls Verzögerungen / Beschleunigungen erfasst werden müssen, kann dies über 
 ### 6.	Aufwand der Vorgänge festlegen
 
 Für die Aufwandsplanung wird die Spalte „Arbeit“ verwendet und die eingegebene Zahl in Stunden berechnet. 
-Hier wird die Summe der Arbeitsstunden geplant, die die Ressource für diesen Vorgang zu leisten hat. 
+Hier wird die Summe der Arbeitsstunden geplant, die die Ressource für diesen Vorgang zu leisten hat.[^5] 
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Aufwand.jpeg)
 
@@ -123,7 +123,7 @@ Hier wird die Summe der Arbeitsstunden geplant, die die Ressource für diesen Vo
 
 Nach der Aufwandsschätzung werden Ressourcen auf Vorgänge zugewiesen. Über „Ressource: Tabelle“ werden im lokalen Speicherpool Ressourcen angelegt. 
 Diese können als Material, Arbeit oder Kosten definiert sein. Im Ressourcenpool sollten daher klare Einheiten für die Errechnung der jeweiligen Ressourcen hinterlegt sein (Bsp.: Arbeit, Stundensatz).
-Sind diese Schritte abgearbeitet, können mittels einer Auswahlliste Ressourcen in der Spalte „Ressourcennamen“ gewählt werden.
+Sind diese Schritte abgearbeitet, können mittels einer Auswahlliste Ressourcen in der Spalte „Ressourcennamen“ gewählt werden.[^5]
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Ressourcen.jpeg)
 
@@ -134,7 +134,7 @@ Sind diese Schritte abgearbeitet, können mittels einer Auswahlliste Ressourcen 
 
 Um Rahmentermine in einem Projekt abzustecken, werden Meilensteine oder Vorgänge zeitlich fixiert.
 Die Fixierung kann über Einschränkungen (hartes Terminziel) oder Stichtage (weiches Terminziel) erfolgen. 
-Es sollte ein gesunder Mix aus beiden Festlegungsmaßnahmen verwendet werden.
+Es sollte ein gesunder Mix aus beiden Festlegungsmaßnahmen verwendet werden.[^5]
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Stichtage_1.jpeg)
 
@@ -142,7 +142,7 @@ Es sollte ein gesunder Mix aus beiden Festlegungsmaßnahmen verwendet werden.
 
 ### 9.	Projektsammelvorgang über das Register „Format“ einblenden
 
-Diese Funktion dient zur Betrachtung des Projekts auf Projektebene. Somit können schnell und übersichtlich die essenziellsten Daten eingeblendet werden. Der Anwender kann in dieser Ansicht lediglich den Namen des Projektes anpassen.
+Diese Funktion dient zur Betrachtung des Projekts auf Projektebene. Somit können schnell und übersichtlich die essenziellsten Daten eingeblendet werden. Der Anwender kann in dieser Ansicht lediglich den Namen des Projektes anpassen.[^5]
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Projektsammelvorgang.jpeg)
 
@@ -151,7 +151,7 @@ Diese Funktion dient zur Betrachtung des Projekts auf Projektebene. Somit könne
 
 ### 10.	Basisplan über Register „Projekt“ festlegen
 
-Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein Basisplan unter Register „Projekt“ mit dem Befehl „Basisplan festlegen“ abgespeichert. Der Basisplan kann im späteren Verlauf nach dem Fortschreiben des Rahmenterminplans zum tabellarischen sowie visuellen Abgleich genutzt werden.
+Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein Basisplan unter Register „Projekt“ mit dem Befehl „Basisplan festlegen“ abgespeichert. Der Basisplan kann im späteren Verlauf nach dem Fortschreiben des Rahmenterminplans zum tabellarischen sowie visuellen Abgleich genutzt werden.[^5]
 
 ![Beispielabbildung](Microsoft_Project_PM_Tool/Basisplan.jpeg)
 
