@@ -56,7 +56,7 @@ Zum einen können die Techniken/Praktiken vereinfacht werden. Es wird z.B. auf D
 Zum anderen finden Meetings weniger formell, sondern auch mal beim Mittagessen statt. 
 Formate werden aufgrund externer Anforderungen, wie Style-Guides, umgestaltet. 
 Die Zusammenführung von einzelnen Berichten zu einem großen kann zu einer Verschlankung bei [Projekten](Projekt.md) führen. 
-[PRINCE2](PRINCE2.md) gibt zwar klar definierte Rollen vor, z.B. wird ein Kunde im [Projekt](Projekt.md) als "Abnehmer" definiert. Es ist aber auch möglich, dass in [PRINCE2](PRINCE2.md) bestehende Rollen an die im Unternehmen etablierten Terminologien angepasst werden. Nicht angepasst werden hingegen die [sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md). 
+[PRINCE2](PRINCE2.md) gibt zwar klar definierte Rollen vor, z.B. wird ein Kunde im [Projekt](Projekt.md) als "Abnehmer" definiert. Es ist aber auch möglich, dass in [PRINCE2](PRINCE2.md) bestehende Rollen an die im Unternehmen etablierten Terminologien angepasst werden. Nicht angepasst werden hingegen die [sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md) [^8]. 
 
 [PRINCE2](PRINCE2.md) ermöglicht also für jedes Unternehmen bzw. teilweise sogar für jedes [Projekt](Projekt.md) eine individuelle Anpassung, um so optimal auf die spezifischen Anforderungen hinsichtlich Umgebung, Umfang, Komplexität, Wichtigkeit, Leistungsfähigkeit und [Risiko](Risikoanalyse_und_Visualisierung.md) eingehen zu können [^7]. 
 
