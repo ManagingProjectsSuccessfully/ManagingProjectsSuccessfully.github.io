@@ -67,7 +67,7 @@ Siehe auch [Projektplanung](Projektplanung.md).
 
 ## Durchführung
 
-Diese Phase wird auch Projektdurchführungs- und Kontrollphase oder Realisierungsphase genannt. Ein Kick-Off-Meeting, eine Besprechung oder ein Startworkshop sind der 
+Diese Phase wird auch Projektdurchführungs- und Kontrollphase oder Realisierungsphase genannt. Ein [Projekt_Kick_Off](Projekt_Kick_Off.md)-Meeting, eine Besprechung oder ein Startworkshop sind der 
 Beginn dieser Phase und sollen die Teamkommunikation fördern. Neben der Durchführung des Projekts ist die Kontrolle des Projektfortschritts und die Reaktion auf Störfaktoren 
 für das Projektmanagement von großer Bedeutung. Abweichungen zum Projektplan erfordern Maßnahmen, um diese zu korrigieren. Der Zugriff auf den aktuellen und aktualisierten
 Projektplan für jeden Projektbeteiligten ist in dieser Phase von größter Bedeutung. Änderungen und Verschiebungen in Projekten sind meistens unumgänglich. 
@@ -107,6 +107,7 @@ Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einz
 * [PRINCE2 Projektumgebung](PRINCE2_Projektumgebung.md)
 * [Qualitaetsmanagement](Qualitaetsmanagement.md)
 * [Qualitaetssicherung](Qualitaetssicherung.md)
+* [Projekt_Kick_Off](Projekt_Kick_Off.md)
 
 
 
