@@ -24,16 +24,16 @@ Für einen allerersten Überblick ist es zunächst empfehlenswert, den Beitrag [
 
 Die vier Bausteine von [PRINCE2](PRINCE2.md) sind also die:
 
-> ## 1. Die [Sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
+> ## 1. [Sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
 Die Grundprinzipien stellen feste Leitsätze dar und definieren die grundlegenden Regeln. Um ein PRINCE2-Projekt zu initiieren und zu managen ist jedes der sieben Grundprinzipien zu befolgen [^2]. Das Kompendium [Sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md) beschäftigt sich genauer mit der Thematik.
 
-> ## 2. Die Sieben Themen
+> ## 2. Sieben Themen
 Sie beschreiben den Inhalt von [PRINCE2](PRINCE2.md) bzw. den Inhalt der richtigen Projektstruktur, also wie man eine richtige Projektorganisation erstellt oder wie Reportingstrukturen auszusehen haben. Das sind die Aspekte des Projektmanagements, die kontinuierlich behandelt werden müssen [^3]. 
 
-> ## 3. Die [Sieben Prozesse](PRINCE2_7_Prozesse.md)
+> ## 3. [Sieben Prozesse](PRINCE2_7_Prozesse.md)
 Sie stellen die Ablaufbeschreibung um die sieben Themen dar, also wann wer was im [Projekt](Projekt.md) macht. Sie beschreiben das schrittweise Vorgehen während dem Projekt [^2]. Nähere Informationen findet man im Beitrag [Sieben Prozesse](PRINCE2_7_Prozesse.md).
 
-> ## 4. Die Anpassung an die Projektumgebung
+> ## 4. Anpassung an die Projektumgebung
 In der PRINCE2 Terminologie ist die Anpassung an die Projektumgebung nicht sehr umfangreich beschrieben, dennoch stellt sie fr den Projektmanageer das größte Thema bei der Verwendung von [PRINCE2](PRINCE2.md) dar. Grund dafür ist, dass dieser Baustein vollkommen anpassbar ist und auf sämtliche [Projekte](Projekt.md) angewendet werden kann [^2]. Was genau unter einem [Projekt](Projekt.md) zu verstehen ist, kann man in der Verlinkung nachlesen. 
 
 
