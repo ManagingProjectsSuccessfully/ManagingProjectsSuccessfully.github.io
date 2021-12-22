@@ -52,7 +52,7 @@ Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Ver
 
 Neben den oben genannten Schritten ist auch eine regelmäßige Bewertung notwendig. Die Bewertung erfolgt auf einer Skala von eins bis fünf, wobei eins schlecht und fünf das Optimum darstellt. Erst nachdem man einen der fünf Meilensteine erfolgreich abgeschlossen hat, d.h. mit mindestens drei Punkten, darf man zu dem nächsten Schritt übergehen.[^4] [^10]
 
-Das ADKAR Modell kann bei persönlichen als auch bei größeren Gruppierungen wie beispielsweise Organisationen angewendet werden. [^4] [^10]
+Das ADKAR Modell kann somit bei persönlichen als auch bei größeren Gruppierungen wie beispielsweise Organisationen angewendet werden. [^4] [^10]
 
 
 # 5) Vor- und Nachteile
