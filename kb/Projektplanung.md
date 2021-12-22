@@ -26,7 +26,7 @@ Zwei bekannte Vorgehensmodelle des klassischen Projektmanagements sind einerseit
 
 ## Wasserfallmodell 
 
-„Das Wasserfallmodell ist die einfachste Form der Vorgehensmodelle und besteht in seiner ursprünglichen Form aus den Phasen Anforderungsdefinition, Analyse, Entwurf, Implementierung, Test und Inbetriebnahme.“[^6] Das lineare Modell eignet sich vor allem für Projekte mit bekannten Anforderungen, die wenige Änderungen vorhersehen.
+„Das Wasserfallmodell ist die einfachste Form der Vorgehensmodelle und besteht in seiner ursprünglichen Form aus den Phasen Anforderungsdefinition, Analyse, Entwurf, Implementierung, Test und Inbetriebnahme."[^6] Das lineare Modell eignet sich vor allem für Projekte mit bekannten Anforderungen, die wenige Änderungen vorhersehen. „Im Folgenden ist ein Beispiel für ein Wasserfallmodell zur Entwicklung eines EDV-Programms dargestellt. Es werden 6 Phasen definiert:"
 
 ![Beispielabbildung](Projektplanung/Wasserfallmodell.jpg)[^8]
 
