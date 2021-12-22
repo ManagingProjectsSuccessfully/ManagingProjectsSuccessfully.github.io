@@ -8,13 +8,14 @@ anrechnung: k
 
 Die Negativkonferenz ist eine Kreativitätstechnik zur intuitiven Ideenfindung. 
 Sie lässt sich im direkten Gegensatz zum Brainstorming betrachten: 
-Anstelle über Lösungen für ein Problem nachzudenken, wird sich nur auf die möglichen Probleme eines Aspektes fokussiert. 
+Anstelle über Lösungen für ein Problem nachzudenken, werden nur die möglichen Probleme eines Aspektes herausgearbeitet und betrachtet. 
 Für diese Probleme können dann zu späteren Schritten erneut Kreativitätstechniken angewendet werden, um wiederum neue Lösungen zu finden.[^1]
 
 # Verschiedene Bezeichnungen und verwandte Methoden
 
 Die Negativkonferenz wird in der Literatur auch als "Umkehrdiagramm" bezeichnet und weist eine gewisse Ähnlichkeit zur sogenannten "Flip-Flop-Technik" oder
-"[Kopfstandtechnik](Kopfstandtechnik.md)" auf. Bei dieser Technik wird die relevante Aufgabenstellung umgekehrt und von der anderen Seite betrachtet. Die [Kopfstandtechnik](Kopfstandtechnik.md) ist eine [Provokationstechnik](Provokationstechnik.md). [^2]
+"[Kopfstandtechnik](Kopfstandtechnik.md)" auf. Bei dieser Technik wird die relevante Aufgabenstellung umgekehrt und von der anderen Seite betrachtet. 
+Die [Kopfstandtechnik](Kopfstandtechnik.md) ist eine [Provokationstechnik](Provokationstechnik.md). [^2]
 
 ## Beispiel
 
@@ -36,7 +37,7 @@ Dabei darf auch gerne übertrieben werden. [^5]
 
 ## Anwendungsbeispiel
 
-Wenn es zum Beispiel darum geht, einen groben Plan für das Aussehen einer Website zu gestalten, dann wird nicht nach tatsächlichen Gestaltungsideen wie das Einfügen
+Wenn die Aufgabe darin besteht, einen groben Plan für das Aussehen einer Website zu gestalten, dann wird nicht nach tatsächlichen Gestaltungsideen wie das Einfügen
 von Bildern oder Nutzerinteraktionen gesucht, sondern nach Problemen die durch die Gestaltung einer solchen Website auftreten können. 
 
 |    Probleme   |Resultierende Gesichtspunkte/Fragestellungen|
@@ -51,8 +52,7 @@ Durch Bearbeitung dieser Punkte können nun neue Ideen und Lösungen erarbeitet 
 
 Falls die Ideenfindung durch klassische Ansätze wie Brainstorming in einer Gruppe ins Stocken gerät, können intuitive Methoden wie die Negativkonferenz dabei helfen,
 auf neue Ideen zu kommen. 
-Das kann zum Beispiel der Fall sein, wenn sich die Expertengruppe schon lange mit einem Thema beschäftigt und nicht mehr weiterweiß. Es ist manchmal leichter
-Probleme zu finden, als neue Lösungsansätze zu entwickeln. Damit lassen sich Denkblockaden überwinden. [^6]
+Das kann zum Beispiel der Fall sein, wenn sich die Expertengruppe schon lange mit einem Thema beschäftigt und keine weiteren neuen Einfälle einbringen kann. Es ist manchmal leichter Probleme zu finden, als neue Lösungsansätze zu entwickeln. Damit lassen sich Denkblockaden überwinden. [^6]
 
 "Etwas, was man verschlimmern kann, lässt sich sehr wahrscheinlich auch verbessern, in der Regel müssen die gefundenen Faktoren der Verschlimmerung nur umgekehrt
 werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140)
