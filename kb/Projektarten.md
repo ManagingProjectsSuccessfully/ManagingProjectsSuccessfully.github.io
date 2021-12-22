@@ -6,7 +6,7 @@ anrechnung: k
 ---
 # Begriffsbestimmung
 
-Der Begriff "Projektarten" wird in der DIN-Norm 69901 als Gattung von [Projekten](Projekt.md) beschrieben, die eine ähnliche Ausprägung von Kriterien, wie Branche, Projektorganisation oder Projektgegenstand aufweisen. Als Beispiel hierfür lassen sich [Forschungs-](Forschungsprojekte.md)und [Entwicklungsprojekte](Entwicklungsprojekte.md) anführen.
+Der Begriff "Projektarten" wird in der DIN-Norm 69901 als Gattung von [Projekten](Projekt.md) beschrieben, die eine ähnliche Ausprägung von Kriterien, wie Branche, Projektorganisation oder Projektgegenstand aufweisen. Als Beispiel hierfür lassen sich [nachhaltige Projekte](Nachhaltige_Projekte.md) anführen.
 
 Im Allgemeinen lassen sich Projekte anhand verschiedener Dimensionen bestimmten Projektarten zuordnen.[^2] Hierzu finden sich verschiedene Ansätze zur Differenzierung von Projekten aufgrund der Vielzahl an unterschiedlichen Merkmalen und Kriterien.[^3] Aufgrund dieser Problematik und dem Umstand, dass die Berücksichtigung aller Klassifizierungsmöglichkeiten den Rahmen des Beitrags übersteigen würde, beschränken wir uns im Folgenden auf die populärsten Gesichtspunkte eines Projekts.
 
@@ -30,7 +30,7 @@ Im Gegensatz zu den Potenzialprojekten werden [Pionierprojekte](Pionierprojekte.
 
 Wichtig zu beachten ist, dass die Grenzen der Matrix nicht starr sind und eine eindeutige Zuordnung nicht immer möglich ist. Darüber hinaus wechseln viele Projekte während der Entwicklung von Vorstudienphase bis zur Realisierung ihre Projektart. Dabei wandeln sich Projekte meist vom Potenzial- zum Pionierprojekt und werden im Anschluss zu Akzeptanz- oder sogar Standardprojekt[^2]. 
 
-Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen internen und externen Auftraggebern eines der wichtigsten Kriterien von Projekten. Häufig erscheint es auch sinnvoll, Projekte anhand ihres Inhalts  oder Branche zu differenzieren, um spezielle Vorgehensweisen und Techniken abzuleiten. Ein klassisches Schema ist die Unterscheidung in Investitions-, Forschungs- und Entwicklung, sowie Organisations- und IT-Projekte.[^1]
+Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen internen und externen Auftraggebern eines der wichtigsten Kriterien von Projekten. Häufig erscheint es auch sinnvoll, Projekte anhand ihres Inhalts  oder Branche zu differenzieren, um spezielle Vorgehensweisen und Techniken abzuleiten. Ein klassisches Schema ist die Unterscheidung in Investitions-, [Forschungs-](Forschungsprojekte.md) und [Entwicklungsprojekte](Entwicklungsprojekte.md), sowie Organisations- und IT-Projekte.[^1]
 
 # Bedeutung für Projektmanagement
 
@@ -51,7 +51,6 @@ Die Betrachtung der Projektarten verdeutlicht die unterschiedlichen Charakterist
 * [Innovationsprojekte](Innovationsprojekte.md)
 * [Öffentliche Projekte](Oeffentliche_Projekte.md)
 * [Open-Source-Projekte](Open_Source_Projekte.md)
-* [Nachhaltige Projekte](Nachhaltige_Projekte.md)
 * [Branchenspezifisches Projektmanagement](Projektmanagement_Branchenspezifisch.md)
 
 # Weiterführende Literatur
