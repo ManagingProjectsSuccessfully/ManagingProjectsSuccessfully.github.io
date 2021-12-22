@@ -54,7 +54,7 @@ Die Organisation von Abschlussveranstaltungen ist nicht zwingend notwendig, jedo
 
 * Litke, H. D., Kunow, I., & Schulz-Wimmer, H. (2018). Projektmanagement (Vol. 200). Haufe-Lexware.
 * Broy, M., & Kuhrmann, M. (2013). Projektabschluss. In Projektorganisation und Management im Software Engineering. Springer Vieweg, Berlin, Heidelberg.
-* Hoffmann, K. (2013). Projektabschluss–systematisch und konsequent. Basiswissen Projektmanagement–Projekte steuern und erfolgreich beenden
+* Hoffmann, K. (2013). Projektabschluss–systematisch und konsequent. Basiswissen Projektmanagement–Projekte steuern und erfolgreich beenden.
 
 # Quellen
 
