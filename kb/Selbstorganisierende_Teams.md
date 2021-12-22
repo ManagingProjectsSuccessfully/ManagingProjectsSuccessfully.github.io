@@ -14,7 +14,7 @@ Selbstorganisierende Teams sind eine Gruppe von Mitarbeitern, die die Verantwort
 
 Auch spricht man im agilen Umfeld nicht von Aufgaben, sondern von Kundenanforderungen sogenannten User Stories, welches die Orientierung für das Team sind das Projektziel zu erreichen. Dies wäre beispielsweise eine Aufgabe für den [Product Owner](Product_Owner.md) des selbstorganisierenden Teams. 
 Einen klassischen Projektleiter gibt es nicht, dennoch braucht jedes selbstorganisierende Team einen Coach, dieser ist in [Scrum](SCRUM.md) der [Scrum Master](Scrum_Master.md). Er kümmert sich als Initiator, Motivator und Moderator dafür, dass das Team effizient arbeitet, aber auch gemeinsam an einem Strang zieht. 
-Natürlich muss ein Team mit ihren Kompetenzen alle relevanten Bereiche abdecken können, um in der Lage zu sein alle Anforderungen selbständig zu erfüllen. Hierfür muss vom Unternehmen für die Verwirklichung von selbstorganisierenden Teams eine Basis geschaffen werden.[^2]  
+Natürlich muss ein Team mit ihren Kompetenzen alle relevanten Bereiche abdecken können, um in der Lage zu sein, alle Anforderungen selbständig zu erfüllen. Hierfür muss vom Unternehmen für die Verwirklichung von selbstorganisierenden Teams eine Basis geschaffen werden.[^2]  
 
 # Die Transition zu einem selbstorganisierenden Team
 Um ein selbstorganisiertes Team erfolgreich aufzubauen, braucht es an:
