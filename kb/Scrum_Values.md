@@ -50,7 +50,7 @@ Gegenseitiger Respekt ist die Grundlage für eine effektive Zusammenarbeit bei d
 
 ## Mut
 
-Mut ist ein wichtiger Faktor bei der Bewältigung von komplexen Aufgaben in agilen Teams. Scrum-Teams benötigen Mut um gegenüber sich selbst und anderen Stakeholdern ehrlich, offen und transparent über den Projektfortschritt zu sein. Des Weiteren spielt dieser auch bei dem Ausprobieren neuer Techniken und Methoden, bei der Führung offener Dialoge und bei dem Tragen der Konsequenzen der eigenen Entscheidungen, eine wichtige Rolle[^3].
+Mut ist ein wichtiger Faktor bei der Bewältigung von komplexen Aufgaben in agilen Teams. Scrum-Teams benötigen Mut um gegenüber sich selbst und anderen Stakeholdern ehrlich, offen und transparent über den Projektfortschritt zu sein. Mut spielt hierbei auch bei dem Ausprobieren neuer Techniken und Methoden, bei der Führung offener Dialoge und bei dem Tragen der Konsequenzen der eigenen Entscheidungen, eine wichtige Rolle[^3].
 
 
 
