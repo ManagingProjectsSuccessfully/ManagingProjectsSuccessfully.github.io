@@ -44,7 +44,7 @@ Bei Projekten ist es wichtig, die Kosten proaktiv steuern zu können und das Bud
 
 ___
 
-![meistgenutzte pm tools](https://user-images.githubusercontent.com/92924821/147105911-29c06930-30f7-43dc-a28f-6611bcbd241a.png)
+![Bild4](https://user-images.githubusercontent.com/92924821/147106132-f44a673e-ff53-4c5a-9010-bee2744be040.png)
 *Studie zu den meistgenutzten Funktionen von Projektmanagement-Software für kleine und mittelgroße Unternhemen* [^4]
 
 
@@ -71,7 +71,7 @@ ___
 
 # Meistgenutzte Projektmanagement-Tools
 
-![pm marktanteil](https://user-images.githubusercontent.com/92924821/143071468-eb38bca1-6769-4335-97f3-56e06656e459.png)
+![meistgenutzte pm tools](https://user-images.githubusercontent.com/92924821/147106166-40683cea-f2c1-4aa1-ac73-5b90f33983b0.png)
 *Marktanteil der meistgenutzten Proketmanagement-Tools* [^5]
 
 
