@@ -15,11 +15,11 @@ Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maxim
 
 ## 1.1 Zusammensetzung des Product Backlogs
 
-Das Product Backlog, welches vom [Product Owner](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Owner.md) in Zusammenarbeit mit den Stakeholdern erstellt wird, könnte man als Kernartefakt von Scrum bezeichnen. Es handelt sich hier um eine Liste, welche geordnet und priorisiert alle Funktionen und Kriterien aufzeigt, die das Endprodukt bieten soll. Sogenannte Product Backlog Items beschreiben diese Anforderungen, wie z.B. User Stories und Verbesserungen, aus Sicht und Sprache des Kunden.[^2][^3][^5]
+Das Product Backlog, welches vom [Product Owner](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Owner.md) in Zusammenarbeit mit den Stakeholdern erstellt wird, wird als Kernartefakt von Scrum bezeichnet. Es handelt sich hier um eine Liste, welche geordnet und priorisiert alle Funktionen und Kriterien aufzeigt, die das Endprodukt bieten soll. Sogenannte Product Backlog Items beschreiben diese Anforderungen, wie z.B. User Stories und Verbesserungen, aus Sicht und Sprache des Kunden.[^2][^3][^5]
 
 ## 1.2 Die Dynamik im Product Backlog
 
-Im agilen Projektmanagement sind häufige Feedbacks typisch, weshalb es nicht unwahrscheinlich ist, dass sich die Anforderungen ändern können. Deshalb kann man das Product Backlog als lebendes Dokument betiteln, welches während der gesamten Produktentwicklung erweitert und verändert wird.
+Im agilen Projektmanagement sind häufige Feedbacks typisch, weshalb es nicht unwahrscheinlich ist, dass sich die Anforderungen ändern können. Deshalb wird das Product Backlog als lebendes Dokument betitelt, welches während der gesamten Produktentwicklung erweitert und verändert wird.
 
 Hierbei trägt der Product Owner die volle Verantwortung für die Aktualität und die richtige Priorisierung der Komponente, z.B.: Grad des Risikos und gewünschtes Lieferdatum. Dennoch kann das Product Backlog jederzeit vom Scrum-Team eingesehen werden.
 Hieraus werden während des Sprint Planning, die zu erledigenden Punkte für den nächsten Sprint ausgewählt.[^1][^2][^3][^4]
@@ -27,7 +27,7 @@ Hieraus werden während des Sprint Planning, die zu erledigenden Punkte für den
 
 # 2. Sprint Backlog
 
-Das Sprint Backlog setzt sich aus den ausgewählten Einträgen aus dem Product Backlog, ergänzt um alle notwendigen Informationen zur Erreichung des Sprintziels, zusammen. Die Produktanforderungen werden selbstständig aus dem Product Backlog gezogen und dienen als Ziel während des aktuellen Sprints. Im Normalfall sollte sich das Product Backlog während eines Sprints nicht verändern, denn die Ansprüche werden so gewählt, dass sie während eines Sprints zu erledigen sind und sie im nächsten darauf aufbauen können. Man spricht hier vom Sprint-Schutz, der dazu dient, dass das Team während des Sprints ungestört und ohne Überraschungen ein potenziell auslieferbares Produkt herstellen kann.[^1][^2][^4]
+Das Sprint Backlog setzt sich aus den ausgewählten Einträgen aus dem Product Backlog, ergänzt um alle notwendigen Informationen zur Erreichung des Sprintziels, zusammen. Die Produktanforderungen werden selbstständig aus dem Product Backlog gezogen und dienen als Ziel während des aktuellen Sprints. Im Normalfall sollte sich das Product Backlog während eines Sprints nicht verändern, denn die Ansprüche werden so gewählt, dass sie während eines Sprints zu erledigen sind und sie im nächsten darauf aufbauen können. Der sogenannte Sprint-Schutz dient dazu, dass das Team während des Sprints ungestört und ohne Überraschungen ein potenziell auslieferbares Produkt herstellen kann.[^1][^2][^4]
 
 
 # 3. Product Increment
