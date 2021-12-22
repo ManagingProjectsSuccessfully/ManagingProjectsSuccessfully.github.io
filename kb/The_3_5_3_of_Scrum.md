@@ -52,7 +52,7 @@ Im [Sprint Planning](Sprint_Planning.md) wird schließlich der neu startende Spr
 * Sprint Backlog
 * Product Increment
 
-Im [Product Backlog](Product_Backlog.md) wird das Ziel eines [Projekts](Projekt.md) beschrieben. Dabei werden die dafür nötigen Schritte in sogenannte [User Stories](User_Story.md) aufgeteilt, welche durch den Product Owner priorisiert werden. Man kann es sich vorstellen, wie eine Produkt-Roadmap, an welcher sich das Team orientiert. [^2]
+Im [Product Backlog](Product_Backlog.md) wird das Ziel eines [Projekts](Projekt.md) beschrieben. Dabei werden die dafür nötigen Schritte in sogenannte [User Stories](User_Story_INVEST_Methode.md) aufgeteilt, welche durch den Product Owner priorisiert werden. Man kann es sich vorstellen, wie eine Produkt-Roadmap, an welcher sich das Team orientiert. [^2]
 
 Die Kurzform davon ist das Sprint Backlog. Hier werden allein die zu erledigenden Aufgabenpakete für den aktuellen Sprint zusammengefasst. Das verhindert, dass die Teammitglieder von den vorgegebenen Zielen abkommen, und bildet den Rahmen für einen Sprint. [^3]
 
