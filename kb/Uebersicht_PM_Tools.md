@@ -74,7 +74,9 @@ ___
 ![meistgenutzte pm tools](https://user-images.githubusercontent.com/92924821/147106166-40683cea-f2c1-4aa1-ac73-5b90f33983b0.png)
 *Marktanteil der meistgenutzten Proketmanagement-Tools* [^5]
 
+# Weiterführende Literatur
 
+[Gerold Patzak, Günter Rattay: *Projekte, Projektportfolios, Programme und projektorientierte Unternehmen* ](https://www.google.de/books/edition/Projektmanagement/VhBBDwAAQBAJ?hl=de&gbpv=0)
 
 # Siehe auch
 Projektmanagement Tools:
