@@ -11,11 +11,11 @@ Der Begriff "Projektarten" wird in der DIN-Norm 69901 als Gattung von [Projekten
 Im Allgemeinen lassen sich Projekte anhand verschiedener Dimensionen bestimmten Projektarten zuordnen.[^2] Hierzu finden sich verschiedene Ansätze zur Differenzierung von Projekten aufgrund der Vielzahl an unterschiedlichen Merkmalen und Kriterien.[^3] Aufgrund dieser Problematik und dem Umstand, dass die Berücksichtigung aller Klassifizierungsmöglichkeiten den Rahmen des Beitrags übersteigen würde, beschränken wir uns im Folgenden auf die populärsten Gesichtspunkte eines Projekts.
 
 # Differenzierung von Projektarten
-Es gibt verschiedene Möglichkeiten, Projekte zu charakterisieren. Zum einen lassen sich Projekte nach Art der Aufgabenstellung unterscheiden. Bei der geschlossenen Aufgabenstellung sind die Aufgaben klar definiert und bekannt mit begrenzten Lösungsmöglichkeiten. Die offene Aufgabenstellung hingegen besitzt viele Möglichkeiten bezüglich Inhalt und Vorgehen ohne exakte Lösungsvorstellungen. 
+Es gibt verschiedene Möglichkeiten, Projekte zu charakterisieren. Zum einen lassen sich Projekte nach Art der Aufgabenstellung unterscheiden. Bei der geschlossenen Aufgabenstellung sind die Aufgaben klar definiert und bekannt mit begrenzten Lösungsmöglichkeiten. Die offene Aufgabenstellung hingegen besitzt viele Möglichkeiten bezüglich Inhalt und Vorgehen ohne exakte Lösungsvorstellungen.[^1][^5] 
 
-Zum anderen dient auch die soziale Komplexität als charakteristisches Unterscheidungsmerkmal für Projekte. Hierbei differenziert man zwischen einer geringen und hohen Komplexität. Die geringe Komplexität steht durch gering ausgeprägte Interessensunterschiede für eine unproblematische Zusammenarbeit, wohingegen eine hohe soziale Komplexität von unterschiedlichen Benutzerinteressen charakterisiert ist. Folglich besteht ein hohes [Konfliktpotenzial](Zielkonflikte.md). 
+Zum anderen dient auch die soziale Komplexität als charakteristisches Unterscheidungsmerkmal für Projekte. Hierbei differenziert man zwischen einer geringen und hohen Komplexität. Die geringe Komplexität steht durch gering ausgeprägte Interessensunterschiede für eine unproblematische Zusammenarbeit, wohingegen eine hohe soziale Komplexität von unterschiedlichen Benutzerinteressen charakterisiert ist. Folglich besteht ein hohes [Konfliktpotenzial](Zielkonflikte.md).
 
-Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und Heitger darstellen, woraus sich vier Projektarten ableiten lassen.[^1][^4][^5][^6]
+Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und Heitger darstellen, woraus sich vier Projektarten ableiten lassen.[^4][^5][^6]
 
 
 ![Screenshot (634)](https://user-images.githubusercontent.com/92957209/143319388-b9813527-7d21-4df2-88a4-dfd3cf270bd1.png)
@@ -30,7 +30,7 @@ Im Gegensatz zu den Potenzialprojekten werden [Pionierprojekte](Pionierprojekte.
 
 Wichtig zu beachten ist, dass die Grenzen der Matrix nicht starr sind und eine eindeutige Zuordnung nicht immer möglich ist. Darüber hinaus wechseln viele Projekte während der Entwicklung von Vorstudienphase bis zur Realisierung ihre Projektart. Dabei wandeln sich Projekte meist vom Potenzial- zum Pionierprojekt und werden im Anschluss zu Akzeptanz- oder sogar Standardprojekt[^2]. 
 
-Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen internen und externen Auftraggebern eines der wichtigsten Kriterien von Projekten. Häufig erscheint es auch sinnvoll, Projekte anhand ihres Inhalts  oder Branche zu differenzieren, um spezielle Vorgehensweisen und Techniken abzuleiten. Ein klassisches Schema ist die Unterscheidung in Investitions-, [Forschungs-](Forschungsprojekte.md) und [Entwicklungsprojekte](Entwicklungsprojekte.md), sowie Organisations- und [IT-Projekte](IT-Projekte.md).[^1]
+Neben  der Projektarten-Matrix ist vor allem die Unterscheidung zwischen internen und externen Auftraggebern eines der wichtigsten Kriterien von Projekten. Häufig erscheint es auch sinnvoll, Projekte anhand ihres Inhalts  oder Branche zu differenzieren, um spezielle Vorgehensweisen und Techniken abzuleiten.[^2] Ein klassisches Schema ist die Unterscheidung in Investitions-, [Forschungs-](Forschungsprojekte.md) und [Entwicklungsprojekte](Entwicklungsprojekte.md), sowie Organisations- und [IT-Projekte](IT-Projekte.md).[^1][^2]
 
 # Bedeutung für Projektmanagement
 
