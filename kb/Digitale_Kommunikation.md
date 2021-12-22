@@ -4,7 +4,7 @@ tags: Digitale Kommunikation, agil, klassisch, Kommunikationsmodell, MS-Teams
 author: DaLob98
 anrechnung: k
 ---
-Digitale Kommunikation ist kein bekannter Inhalt in einer neuen Verpackung,sondern sie birgt viele neue Chancen und Risiken für Empfänger und Sender[^10]. 
+Digitale Kommunikation ist kein bekannter Inhalt in einer neuen Verpackung, sondern sie birgt viele neue Chancen und Risiken für Empfänger und Sender[^10]. 
 # 1. Definiton 
 
 Als Grundlage der [Kommunikation](Kommunikation_Projektbeteiligte.md) bezeichnet man den Austausch von Informationen zwischen mindestens zwei Kommunikationspartnern. Die Kommunikationspartner können dabei sowohl Menschen als auch technische Systeme sein. Bei der digitalen Kommunikation wird die Nachricht von einem digitalen Kommunikationskanal wie dem Internet von einem Sender zum Empfänger übertragen. Dies kann in verschiedenen Medienformaten wie Text, Video, Bild oder Audio geschehen. Die digitale Kommunikation zeichnet sich dabei auch durch die Virtualität aus, das bedeutet die Entkopplung von Zeit und Raum[^1].
