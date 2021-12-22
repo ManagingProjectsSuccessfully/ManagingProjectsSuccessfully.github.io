@@ -10,7 +10,7 @@ anrechnung: a
 
 ## Definition
 
-Scrum, englisch für Gedränge, ist ein agiles Vorgehensmodell des Projektmanagements, welches vor allem in der agilen Softwareentwicklung Anwendung findet[^1], aber auch in vielen anderen Bereichen eingesetzt wird, wie im Marketing oder in der Produktentwicklung[^2]. Es ist ein leichtgewichtiges Rahmenwerk, welches Menschen, Teams und Organisationen hilft, Wert durch adaptive Lösungen für komplexe Probleme zu erschaffen. Scrum baut auf der kollektiven Intelligenz der Personen auf, die es anwenden. Anstatt den Menschen detaillierte Anweisungen zu geben, leiten die Regeln von Scrum ihre Beziehungen und Interaktionen[^3]. Andere agile Vorgehensmodelle wären zum Beispiel [Xtreme Programming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Xtreme_Programming.md)[^4] oder [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)[^5].
+Scrum, englisch für Gedränge, ist ein agiles Vorgehensmodell des Projektmanagements, welches vor allem in der agilen Softwareentwicklung Anwendung findet[^1], es wird auch in vielen anderen Bereichen eingesetzt wie beispielsweise im Marketing oder in der Produktentwicklung[^2]. Scrum ist ein leichtgewichtiges Rahmenwerk, welches Menschen, Teams und Organisationen hilft Wert durch adaptive Lösungen für komplexe Probleme zu erschaffen. Scrum baut auf der kollektiven Intelligenz der Personen auf, die es anwenden. Anstatt den Menschen detaillierte Anweisungen zu geben, leiten die Regeln von Scrum ihre Beziehungen und Interaktionen[^3]. Andere agile Vorgehensmodelle wären zum Beispiel [Xtreme Programming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Xtreme_Programming.md)[^4] oder [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)[^5].
 
 ## Wichtige Begriffe in Scrum
 
@@ -42,7 +42,7 @@ Bei der Sprint Retroperspective werden Wege zur Steigerung der Qualität und Eff
 
 ![Scrum](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/scrumbum.PNG)
 
-*Scrum auf einem Bild*
+*Scrum auf einem Bild*[^8]
 
 
 ## [Scrum Team](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Rollen_Scrum.md)
@@ -68,7 +68,6 @@ Wie bereits erwähnt gibt es ein so genanntes Scrum Team, welches aus Folgenden 
 
 * [Xtreme Programming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Xtreme_Programming.md)
 * [Kanban](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban.md)
-* [Link auf diese Seite](SCRUM.md)
 * [Scrum Metrics](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Metrics.md)
 * [Scrum at Scale](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_at_Scale.md)
 * [Scrum Termine](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Termine.md)
@@ -98,3 +97,4 @@ Wie bereits erwähnt gibt es ein so genanntes Scrum Team, welches aus Folgenden 
 [^5]: [Was ist Kanban?](https://www.it-agile.de/agiles-wissen/kanban/was-ist-kanban/#:~:text=Kanban%20ist%20eine%20agile%20Methode,f%C3%BCr%20jede%20einzelne%20Ma%C3%9Fnahme%20reduziert.)
 [^6]: [Die SCRUM Artefakte](https://www.mitsm.de/wissen/scrum-wissen/die-scrum-artefakte/)
 [^7]: [Scrum Grundlagen einfach erklärt: Der Sprint](https://www.inloox.de/unternehmen/blog/artikel/scrum-grundlagen-einfach-erklaert-der-sprint/)
+[^8]: [Scrum auf einem Bild](https://bird-digital.de/scrum/)
