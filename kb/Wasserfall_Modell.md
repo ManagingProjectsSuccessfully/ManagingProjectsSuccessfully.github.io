@@ -8,7 +8,7 @@ Das [Wasserfallmodell](Wasserfallmodell.md) ist ein [lineares_Modell](lineares_M
 
 ![Beispielabbildung](Wasserfall_Modell/Wasserfall_Modell.PNG)
 
-Abbildung WasserFall. [^3]
+Abbildung Wasserfall. [^3]
 
 # Grundkonzepte und Phasen: 
 
@@ -47,21 +47,20 @@ Nach Abschluss aller Tests wird das fertige Produkt in Betrieb genommen und schl
 
 # Vorteile der Wasserfall-Modell:
 
-1. Der größte Vorteil des Wasserfallmodells ist eine hohe Planungssicherheit. Dank der geordneten Struktur lassen sich auch große Projekte exakt planen und zuverlässig ausführen [^14]
-2. Zum einen hat man hier die klaren voneinander abgegrenzten Phasen und dadurch kann man für jede abgegrenzte Phase bestimmte Ziele zuordnen
-* Klare Abschätzung der Kosten jeder Phase sowie der Dauer davon
-* Gut ausreichende Dokumentation von dem Entwicklungsprozess, in dem man klar definierte Meilensteine darstellt
-* Zeitachse kann leicht abgebildet werden  
+1. Der größte Vorteil des Wasserfallmodells ist eine hohe [Planungssicherheit](Planungssicherheit.md). Dank der geordneten Struktur lassen sich auch große Projekte exakt planen und zuverlässig ausführen. [^14]
+2. Durch klar definierte Projektphasen, ist der Aufbau einfach
+3.  Klar getrennte Stufen, jede Stufe hat ein bestimmtes Ziel. [^15]
+4.  Die Abschätzung von Kosten und Dauer jeder Phase ist möglich
+ 
 
 
 # Nachteile der Wasserfall-Modell:
 Das Modell bringt auch paar kritische Punkte mit wie:
-* Klare Abgrenzung der Phasen ist eher unmöglich, zum Beispiel: wenn man in der Testphase feststellt, dass es Fehler in dem Design gibt, dann wird nicht richtig abgegrenzt
-* Kaum ein Spielraum vorhanden, damit man den Phasenablauf anpassen kann, wegen veränderten Anforderungen
-* Man kann den Fehlern erst am Ende der Entwicklungsprozess erkennen.
-* Kaum flexibel gegenüber Änderungen, da starre Reihenfolge 
-* Es ist schwierig für einen die Entwicklungsphasen nacheinander reibungslos zu bearbeiten
-* Fehlerkorrektur ist teuer und sehr aufwendig.
+1.  Abfolgeproblem: Theoretisch läuft jede Stufe nacheinander ab, aber in der Praxis sind  Rückschritte häufig unvermeidlich. [^16]
+2. Aufgrund veränderter Anforderungen, besteht wenig Spielraum für Anpassungen im Projektablauf
+3. Es ist kaum möglich, die Entwicklungsphasen nacheinander reibungslos zu bearbeiten
+4. Die Fehlern werden erst am Ende der Entwicklungsprozess erkennt
+5. Kaum flexibel gegenüber Änderungen
 
 
 # Andere Vorgehensmodelle:
@@ -93,4 +92,6 @@ Das Modell bringt auch paar kritische Punkte mit wie:
 [^12]: https://www.factro.de/blog/wasserfallmodell/ 
 [^13]: https://www.quality.de/lexikon/wasserfallmodell/
 [^14]: https://www.pinuts.de/projektmanagement-wasserfall-modell-gegen-agiles-arbeiten
+[^15]: https://www.factro.de/blog/wasserfallmodell/
+[^16]: https://www.quality.de/lexikon/wasserfallmodell/
 
