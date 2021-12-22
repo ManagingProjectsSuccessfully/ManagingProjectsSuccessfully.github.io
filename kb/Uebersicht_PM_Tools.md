@@ -9,7 +9,7 @@ Projektmanagement-Tools unterstützen die Projektmanager, Führungskräfte und d
 
 # Geschichte
 
-Das erste Projektmanagement-Tool für Computer (bis zu diesem Zeitpunkt nur für Mainframes), Artemis, wurde 1978 vom Unternehmen Metier Management Systems entwickelt. Artemis kombinierte Projektplanung und Terminplanung mit Kostenkontrolle und Ressourcenmanagement.[^1]
+Das erste Projektmanagement-Tool für Computer (bis zu diesem Zeitpunkt nur für Mainframes), *Artemis*, wurde 1978 vom Unternehmen Metier Management Systems entwickelt. *Artemis* kombinierte Projektplanung und Terminplanung mit Kostenkontrolle und Ressourcenmanagement.[^1]
 
 In den darauffolgenden Jahren folgten viele Verbesserungen und Erweiterungen. Im Verlauf erschienen verschiedene Software-Produkte mit mehr Funktionen für komplexere Projekte. Ab Anfang der 2000er Jahre wurden auch mehr Projektmanagement-Tools für agiles Projektmanagement entwickelt. Außerdem entwickelte sich der Trend zu cloudbasierten Programmen und Software als Service[^3], das bedeutet die Software und IT-Infrastruktur wurden von einem externen IT-Dienstleister betrieben und vom Kunden als Dienstleistung genutzt.
 
@@ -68,7 +68,7 @@ ___
 * Teilweise hohe Kosten
 
 
-# Meist genutzte Projektmanagement Tools
+# Meistgenutzte Projektmanagement-Tools
 
 ![pm marktanteil](https://user-images.githubusercontent.com/92924821/143071468-eb38bca1-6769-4335-97f3-56e06656e459.png)
 *Marktanteil der meistgenutzten Proketmanagement-Tools* [^5]
