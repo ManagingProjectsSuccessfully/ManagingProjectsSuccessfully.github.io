@@ -5,7 +5,7 @@ author: Paulqe42kuno
 anrechnung: a
 ---
 
-[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationship-Management-System (CRM-System) unterstütz wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können. Podio unterstützt die individuelle Arbeitsweise sowie das flexible, strukturierte, kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe, indem es ihnen einen Überblick über Arbeitsschritte, Ergebnisse, Budget, Zeit, Dateien sowie weiterer wichtiger Informationen liefert [^1][^3]. Die Firma Podio Europe hat ihren Hauptsitz in Kopenhagen, Dänemark[^3].
+[Podio](https://podio.com/) ist ein cloudbasiertes [Projektmanagement-Tool](Uebersicht_PM_Tools.md), das durch ein Customer-Relationship-Management-System (CRM-System) unterstützt wird[^1]. Durch cloudbasierte CRM-Systeme haben Benutzer den Zugang zu einer Vielfalt von Apps [^2], welche sie nach individuellen Bedürfnissen auswählen und ihrem Konto hinzufügen können. Podio unterstützt die individuelle Arbeitsweise sowie das flexible, strukturierte, kollaborative Arbeiten. Das [Tool](Uebersicht_PM_Tools.md) gibt ihren Nutzern die Kontrolle über ihre Arbeitsläufe, indem es ihnen einen Überblick über Arbeitsschritte, Ergebnisse, Budget, Zeit, Dateien sowie weiterer wichtiger Informationen liefert [^1][^3]. Die Firma Podio Europe hat ihren Hauptsitz in Kopenhagen, Dänemark[^3].
 
 # Geschichte
 
@@ -16,14 +16,19 @@ Seit 2012 ist Podio Teil des US-amerikanische Softwareunternehmen [Citrix-System
 # Funktionen
 
 ## Apps
+
 ### PodioApps
 Die Nutzer haben durch das cloudbasierte CRM-System die Möglichkeit eine Vielzahl von Apps ihrem Konto hinzuzufügen. Dafür existiert innerhalb von Podio ein App Market der     nach Funktion und Branche sortiert ist. Die Apps bieten die Möglichkeit Informationen zu organisieren, zu visualisieren und mit internen Mitarbeitenden oder externen Parteien zu teilen [^1]. Falls eine gewünschte Funktion einer App noch nicht auf dem Market bedient wird, haben Benutzer die Möglichkeit über ein Drag and Drop Interface eigene Apps zu erstellen. Dabei wurden bereits über eine Millionen Apps von Benutzern entwickelt [^4].
+
 ### Reporting
 Mit den Daten aus den Apps des Kunden können durch Filter und Report Optionen Salespipelines automatisiert und Projektbudgets verfolgt werden[^4].
+
 ### Workflows
-Apps können durch das Workflow-Feature mit einer Wenn-Dann-Funktion programmiert werden. So erstellt eine App beispielsweise eine Aufgabe sobald ein Eintrag erstellt wird [^4].
+Apps können durch das Workflow-Feature mit einer Wenn-Dann-Funktion programmiert werden. So erstellt eine App beispielsweise eine Aufgabe, sobald ein Eintrag erstellt wird [^4].
+
 ### Webformulare
 Von Podio gehostete Webformulare können in Websites integriert werden, wie beispielsweise eine Kontaktseite. Die Informationen gelangen direkt in die Podio Apps [^4]. 
+
 ### Podio Share
 Durch Podio Share können Appeinträge, wie beispielsweise ein [Projekt](Projekt.md) aus einer Projekt App, intern und extern geteilt werden [^4].
 
@@ -37,10 +42,12 @@ Zu jedem Workspace gibt es einen Aktivitätsverlauf. Dieser zeigt Aktivitäten a
 
 Die GoToMeeting App von Podio ermöglicht Besprechungen [^4].
 
-## Aufgaben Datein & Kalenderfunktionen
-### Aufgaben-Managment
+## Aufgaben Dateien & Kalenderfunktionen
+
+### Aufgaben-Management
 Auf einer [Aufgabenliste](Aufgabenteilung.md) sieht der Benutzer alle Aufgaben, für die er verantwortlich ist. Die Aufgaben können priorisiert und geteilt werden. Aufgaben, die regelmäßig erledigt werden, können wiederkehrend eingestellt werden [^4]. 
-### File sharing
+
+### File-Sharing
 Dateien können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Einen eigenen Filesharing Dienst hat Podio nicht. Dateispeicher, die mit Podio verknüpft werden können, sind[^4]:
 * Google Drive
 * Dropbox
@@ -48,11 +55,12 @@ Dateien können in Statusnachrichten, Chats, Aufgaben etc. hinterlegt werden. Ei
 * Box
 * HighTail
 * One Drive
-### Kalender Management
+#
+## Kalender Management
 Podio stellt den Nutzern einen Kalender bereit. Hier können Termine und Deadlines eingetragen werden. Neben dem persönlichen Kalender hat auch jeder Workspace seinen eigenen Kalender. Die Kalender können in einen externen Kalenderservice ebenfalls exportiert werden [^1][^4].
 
 ## Integration
-Neben den bereits erwähnten Filesharing Diensten können ebenfalls Zendesk, Campaign Monitor, Evernote, FreshBooks und viele weitere Dienste integriert werden. Des weiteren können Excel-Tabellen in Apps importiert werden und Tabellen aus Apps in Excel-Tabellen exportiert werden [^4].
+Neben den bereits erwähnten Filesharing Diensten können ebenfalls Zendesk, Campaign Monitor, Evernote, FreshBooks und viele weitere Dienste integriert werden. Des Weiteren können Excel-Tabellen in Apps importiert werden und Tabellen aus Apps in Excel-Tabellen exportiert werden [^4].
 
 # Kosten [^6]
 
