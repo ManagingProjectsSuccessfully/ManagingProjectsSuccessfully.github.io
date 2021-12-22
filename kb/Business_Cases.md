@@ -51,7 +51,7 @@ Ein Business Case bietet folgende ***Vorteile***:
 
 
 ## 5.	Nachteile 
-Neben den Vorteilen bringt der Business Case aber auch ***Nachteile*** mit sich: 
+Neben den Vorteilen bringt ein Business Case aber auch ***Nachteile*** mit sich: 
 
 * **Momentaufnahme:** Der Business Case stellt nur eine Momentaufnahme dar, sodass sich die Rentabilität des Projekts im Laufe der Zeit durch zusätzlich erlangte Informationen ändern kann.
 * **Hoher Aufwand:** Insbesondere bei großen Investitionen ist der Business Case sehr aufwändig zu erstellen.[^8] 
