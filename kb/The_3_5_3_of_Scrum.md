@@ -16,7 +16,7 @@ Dies folgt aus dem erweiterten Verständnis für die allgemeine Definition von [
 
 *Das Grundprinzip von 3-5-3*[^2]
 
-## Die 3 Rollen
+# Die 3 Rollen
 
 * [Product Owner (PO)](Product_Owner.md)
 * [SCRUM Master](Scrum_Master.md)
@@ -26,9 +26,9 @@ Die Aufgaben des [Product Owners](Product_Owner.md) sind primär das [Backlog](P
 
 Der [SCRUM Master](Scrum_Master.md) ist im Gegensatz zum [Product Owner](Product_Owner.md) mehr in das Team integriert. Dabei ist er nicht explizit Teammitglied, sondern sorgt vielmehr dafür, dass das Team gut arbeiten kann. Würde dieser fehlen, würde das Team nicht ungestört arbeiten können, da sie neben ihren Aufgaben auch die Organisation und ihre Fortschritte im Blick behalten müssten. [^2]
 
-Demzufolge ist das Team lediglich dafür zuständig das vom Kunden geforderte Produkt zu entwickeln. Dabei ist lediglich das Ziel vorgegeben, jedoch nicht die Art und Weise, wie dieses Ziel erreicht werden soll. [^2]
+Demzufolge ist das Team ausschließlich dafür zuständig das vom Kunden geforderte Produkt zu entwickeln. Dabei ist lediglich das Ziel vorgegeben, jedoch nicht die Art und Weise, wie dieses Ziel erreicht werden soll. [^2]
 
-## Die 5 Events
+# Die 5 Events
 
 * Sprint
 * Daily
@@ -42,11 +42,11 @@ Täglich findet während eines Sprints das Daily statt. Hiermit wird die Kommuni
 
 Im [Sprint Review](Sprint_Review.md) wird dann der abgeschlossene Sprint bewertet. Dabei wird optimalerweise ein neues Product Increment betrachtet und die erreichten Fortschritte werden durchgesprochen. Hier sollte durch die Stakeholder auch ein Feedback gegeben werden. [^3]
 
-Während einer [Sprint Retrospective](Retrospective.md) wird in kurzer Zeit die Arbeitsweise des Sprints bewertet. So können hier Erfolge gelobt werden und Verbesserungsvorschläge eingebracht werden, welche das Team zu einer gesteigerten Produktivität sowie mehr Freude an der Arbeit verhelfen soll. [^3]
+Während einer [Sprint Retrospective](Retrospective.md) wird in kurzer Zeit die Arbeitsweise des abgeschlossenen Sprints bewertet. So können hier Erfolge gelobt werden und Verbesserungsvorschläge eingebracht werden, welche das Team zu einer gesteigerten Produktivität sowie mehr Freude an der Arbeit verhelfen soll. [^3]
 
-Im [Sprint Planning](Sprint_Planning.md) wird schließlich der neu startende Sprint geplant. Dafür muss das Product Backlog, welches in einem Backlog Refinement priorisiert wurde, herangezogen werden. Die wichtigsten Aufgaben werden in den neuen Sprint aufgenommen. Oft werden hierfür Tools wie [Jira](Jira_PM_Tool.md) benutzt. [^3]
+Im [Sprint Planning](Sprint_Planning.md) wird schließlich der neu startende Sprint geplant. Dafür muss das Product Backlog, welches in einem Backlog Refinement priorisiert wurde, herangezogen werden. Die wichtigsten Aufgaben werden in den neuen Sprint aufgenommen. Oft werden hierfür Projektmanagement-Tools wie [Jira](Jira_PM_Tool.md) benutzt. [^3]
 
-## Die 3 Artefakte
+# Die 3 Artefakte
 
 * [Product Backlog](Product_Backlog.md)
 * Sprint Backlog
