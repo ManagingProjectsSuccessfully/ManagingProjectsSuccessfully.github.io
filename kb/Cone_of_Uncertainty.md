@@ -5,8 +5,8 @@ author: phigeit
 anrechnung: k 
 ---
 
-Der Cone of Uncertainty – im deutschen Kegel der Ungewissheit - ist eine graphische Darstellungsmethode dessen, dass zu Beginn eines Projekts etliche Ungewissheiten vorhanden 
-sind. Diese Faktoren belegen Aussichten in die Zukunft wie beispielsweise Schätzungen mit zeitabhängigen Unsicherheiten.[^1]
+Der Cone of Uncertainty – im deutschen Kegel der Ungewissheit - ist eine graphische Darstellungsmethode dessen, dass zu Beginn eines [Projekts](Projekt.md) etliche 
+Ungewissheiten vorhanden sind. Diese Faktoren belegen Aussichten in die Zukunft wie beispielsweise Schätzungen mit zeitabhängigen Unsicherheiten.[^1]
 
 
 # Begriffserklärung
@@ -31,7 +31,7 @@ Kostenschätzungen Unsicherheitsbereiche etabliert[^5]. Im Zuge der Softwareentw
 
   Der Anwendungsbereich ist breit gefächert, so wird der Ansatz wie bereits angesprochen heute noch in der Kostenschätzung verwendet[^5]. Bekannt ist der Effekt auch in der 
   Wettervorhersage, wie zum Beispiel „, wenn der mögliche Temperaturverlauf […] als Grafik gezeigt wird“. Dabei wird die Temperaturspanne zwischen Minimum und Maximum von Tag zu 
-  Tag größer. [^1] Wie auf der folgenden Abbildung zu sehen ist auch die Hurrikan-Vorhersage ein wichtiges Anwendungsfeld. Der erwartete Korridor, bei dem der Sturm auf Land 
+  Tag größer. [^1] Wie auf der folgenden Abbildung zu sehen, ist auch die Hurrikan-Vorhersage ein wichtiges Anwendungsfeld. Der erwartete Korridor, bei dem der Sturm auf Land 
   trifft soll begrenzt werden. [^5] Deutlich zu erkennen ist auch hier die typische Kegelform. 
 
 ![Beispielabbildung](Cone_of_Uncertainty/coneofuncertainty_hurricane.jpg)
@@ -41,27 +41,17 @@ Kostenschätzungen Unsicherheitsbereiche etabliert[^5]. Im Zuge der Softwareentw
 
 # Cone of Uncertainty im Projektmanagement 
 
-Darstellungsmethoden, wie der Cone of Uncertainty sind im [Projektmanagement](Projektmanagement) von großer Bedeutung, um zentrale Aspekte aufzuzeigen. Diese sind besonders geeignet zur Illustration 
-von Projektscope und -ziel, sowie wesentlicher Projektergebnisse. Im Allgemeinen sind Darstellungsmethoden für agile als auch klassische Projekte anwendbar, sodass der „Cone of 
-Uncertainty unabhängig vom Paradigma (klassisch vs. agil) einsetzbar“ ist.[^1] 
-Zu Beginn jedes Projekts weiß man nicht, wie viel Zeit dieses exakt in Anspruch nehmen wird. Die 
-Gründe hierfür sind vielfältig. Projekte unterscheiden sich in den Anforderungen, Prioritäten, Einschränkungen, Technologien oder auch dem Geschäftsbereich und den daran 
-beteiligten Personen. Jedes [Projekt](Projekt.md) ist individuell, wofür es jedoch einige hilfreiche Umgangsmöglichkeiten gibt. „Sizing the project relatively“, beschreibt den Ansatz, den 
-Umfang eines Projekts mit den anderer zu vergleichen. Dadurch kann verhältnismäßig auf das Ausmaß, des zu betrachtenden Projekts geschlossen werden, was für die Orientierung 
-von Vorteil ist. Daneben kann es nützlich sein, seine Berechnungen oder Schätzungen was benötigte Zeit oder Kosten angeht, etwas höher anzusetzen. Dadurch ergibt sich ein 
-gewisser "Puffer" und im Projekt zusätzlich Spielraum. Hier ist jedoch darauf zu achten, die richtige Balance zu finden. Werden die Vorhersagen zu hochgesteckt, kann dies zum 
-Beispiel mögliche Sponsoren abschrecken. Wird wiederrum zu wenig kalkuliert, läuft man Gefahr, dass finanzielle Mittel oder Zeit ausgehen. Weiterhin wichtig ist es, offen und 
-ehrlich Zahlen und aktuelle Standpunkte mit Projektpartnern zu kommunizieren. Damit kann negativen Überraschungen aus dem Weg gegangen werden.[^3] 
-
-
-
-
-
-
-
-
-
-
+Darstellungsmethoden wie der Cone of Uncertainty sind im [Projektmanagement](Projektmanagement.md) von großer Bedeutung, um zentrale Aspekte aufzuzeigen. Diese sind besonders 
+geeignet zur Illustration von Projektscope und -ziel sowie wesentlicher Projektergebnisse. Im Allgemeinen sind Darstellungsmethoden für agile als auch klassische Projekte 
+anwendbar, sodass der „Cone of Uncertainty unabhängig vom Paradigma (klassisch vs. agil) einsetzbar“ ist. [^1] Zu Beginn jedes Projekts weiß man nicht exakt, wie viel Zeit 
+dieses in Anspruch nehmen wird. Die Gründe hierfür sind vielfältig. Projekte unterscheiden sich in den Anforderungen, Prioritäten, Technologien oder auch dem Geschäftsbereich 
+und den daran beteiligten Personen. Jedes [Projekt](Projekt.md) ist individuell, wofür es jedoch einige hilfreiche Umgangsmöglichkeiten gibt. „Sizing the project relatively“ 
+beschreibt den Ansatz, den Umfang eines Projekts mit den anderer zu vergleichen. Dadurch kann verhältnismäßig auf das Ausmaß des zu betrachtenden Projekts geschlossen werden.
+Weiterhin kann es nützlich sein, Berechnungen oder Schätzungen in Bezug auf benötigte [Zeit](Zeitplanung.md) oder [Kosten](Kostenplanung.md) etwas höher anzusetzen. Dadurch 
+ergibt sich ein gewisser "Puffer" und im Projekt zusätzlich Spielraum. Hier ist jedoch darauf zu achten, die richtige Balance zu finden. Werden die Vorhersagen zu hochgesteckt,
+kann dies zum Beispiel mögliche Sponsoren abschrecken. Wird wiederum zu wenig kalkuliert, läuft man Gefahr, dass finanzielle Mittel oder Zeit knapp werden. Wichtig ist es auch,
+offen und ehrlich Zahlen und aktuelle Standpunkte mit Projektpartnern zu [kommunizieren](Projektkommunikation.md). Damit kann frühzeitig negativen Überraschungen aus dem Weg 
+gegangen werden. [^6]
 
 
 # Siehe auch
@@ -70,6 +60,9 @@ ehrlich Zahlen und aktuelle Standpunkte mit Projektpartnern zu kommunizieren. Da
 * [Projektmanagement](Projektmanagement.md)
 * [Projektabschluss](Projektabschluss.md)
 * [Projektteam](Projektmitarbeiter.md)
+* [Zeit](Zeitplanung.md)
+* [Kosten](Kostenplanung.md)
+* [kommunizieren](Projektkommunikation.md)
 
 # Weiterführende Literatur
 
@@ -79,9 +72,9 @@ ehrlich Zahlen und aktuelle Standpunkte mit Projektpartnern zu kommunizieren. Da
 
 # Quellen
 
-[^1]: [Cone of Uncertainty - ProjectBase](https://project-base.org/projektmanagement-glossar/cone-of-uncertainty/)
-[^2]: [Die Fibonacci-Folge und der Kegel der Unsicherheit](https://blog.agileskills.de/de/die-fibonacci-folge-und-der-kegel-der-unsicherheit/)
+[^1]: [Cone of Uncertainty - Project Base](https://project-base.org/projektmanagement-glossar/cone-of-uncertainty/)
+[^2]: [Die Fibonacci-Folge und der Kegel der Unsicherheit - AgileSkills](https://blog.agileskills.de/de/die-fibonacci-folge-und-der-kegel-der-unsicherheit/)
 [^3]: [Cone of Uncertainty - Agile In a Nutshell](http://www.agilenutshell.com/cone_of_uncertainty)
 [^4]: [Cone of Uncertainty - Wikipedia](https://en.wikipedia.org/wiki/Cone_of_Uncertainty)
-[^5]: [Cone of Uncertainty Explained with Examples](https://www.projectpractical.com/cone-of-uncertainty/)
-[^6]: [Cone of Uncertainty Image](https://www.sketchbubble.com/en/presentation-cone-of-uncertainty.html)
+[^5]: [Cone of Uncertainty Explained with Examples - Project Practical](https://www.projectpractical.com/cone-of-uncertainty/)
+[^6]: [Cone of Uncertainty - SketchBubble](https://www.sketchbubble.com/en/presentation-cone-of-uncertainty.html)
