@@ -10,7 +10,7 @@ Das Lastenheft beschreibt alle Anforderungen des Auftraggebers an die Lieferung 
 Die Anforderungen in der Spezifikation sollten so weit wie möglich zusammengefasst und bei Bedarf eingeschränkt werden. 
 Dies gibt dem Auftragnehmer die Möglichkeit, geeignete Lösungen (z.B. Software) zu entwickeln, ohne seine Lösungsfähigkeiten durch zu spezifische Anforderungen einzuschränken[^1].
 
-Der Kunde kann das Lastenheft im Angebot verwenden und an mehrere möglichen Auftragnehmer senden. Jeder von ihnen erstellt ein Lastenheft, in dem in genauerer Form beschrieben wird, wie sie die Anforderungen im Lastenheft adressieren wollen. Der Auftraggeber wählt dann aus den Vorschlägen möglicher Auftragnehmer den für ihn am besten geeigneten aus[^1].
+Der Kunde kann das Lastenheft im Angebot verwenden und an mehrere möglichen Auftragnehmer senden. Jeder von ihnen erstellt ein [Pflichtenheft](Pflichtenheft.md), in dem in genauerer Form beschrieben wird, wie sie die Anforderungen im Lastenheft adressieren wollen. Der Auftraggeber wählt dann aus den Vorschlägen möglicher Auftragnehmer den für ihn am besten geeigneten aus[^1].
 
 # Aufbau eines Lastenhefts
 
@@ -54,7 +54,7 @@ Das Lastenheft sollte so früh wie möglich im [Projekt](Projekt.md) formuliert 
   - Die DIN 69901-5: 2009-1 „Projektmanagement-Projektmanagementsystem-Teil 5: Terminologie“ definiert das terminologische Lastenheft im obigen Sinne. Der [PMBOK (R) Guide 2008](PMBOK_Guide.md) hat den Umfang des Statement of Work (SOW) etwas eingeengt. SOW wird dort als Beschreibung der zu erbringenden Leistung oder Leistung definiert. Dies umfasst nur die Spezifikationen des Produkts oder der Dienstleistung[^2].
   
 * ICB 3.0:
-  - ICB 3.0 hat keine klare Namenskonventionstabelle. Stattdessen wird von "Projektumfang" und "zu erbringenden Leistungen" gesprochen. Im deutschen Competence Baseline NCB 3.0 wird mindestens ein Begriffspaar „Technisches Kompetenz-Lastenheft/[Pflichtenheften](Pflichtenheft.md)“, Leistungsumfang und Liefergegenstand“ genannt[^2].
+  - ICB 3.0 hat keine klare Namenskonventionstabelle. Stattdessen wird von "Projektumfang" und "zu erbringenden Leistungen" gesprochen. Im deutschen Competence Baseline NCB 3.0 wird mindestens ein Begriffspaar „Technisches Kompetenz-Lastenheft/Pflichtenheften“, Leistungsumfang und Liefergegenstand“ genannt[^2].
   
 * [Prince2](prince2.md):
   - Prince2 macht die Systematisierung von Lastenheften und Pflichtenheften komplett überflüssig, da es den Beschaffungsprozess nicht beschreibt. Inhaltlich wurde das Prince2 Pflichtenheften des Gesamtprojektes durch die Beschreibung der Projektaufgaben und Projektprodukte ersetzt. PRINCE2 verwendet Produktstrukturpläne und Produktbeschreibungen und Managementstrategien anstelle von Anforderungsspezifikationen, die im Rahmen des Projekts entwickelt werden müssen[^2]. 
