@@ -23,7 +23,7 @@ Geschichten haben meist einen tieferen Sinn. Durch das Storytelling wird versuch
 * Übertragung von Lebensweisheiten
 * Vermittlung von Werten und Normen
 
-Dies kann man ebenfalls auf das Projektmanagement anwenden. Durch die Einführung der Kollegen und Mitarbeiter als Projektmanager kann man durch eine gut erzählte Geschichte mit Vermittlung von relevanten Projekt-bezogenen Inhalten, die Projektinvolvierten abholen und ihnen den Sinn und die Wichtigkeit des Projekts verdeutlichen. Dadurch kann man deren intrinsische Motivation steigern, was sowohl für die Mentalität der Mitarbeiter förderlich ist, als auch diese produktiver arbeiten lässt[^1]. 
+Dies kann man ebenfalls auf das Projektmanagement anwenden. Innerhalb der Einführung der Kollegen und Mitarbeiter als Projektmanager, kann man durch eine gut erzählte Geschichte mit Vermittlung von relevanten Projekt-bezogenen Inhalten, die Projektinvolvierten abholen und ihnen den Sinn und die Wichtigkeit des Projekts verdeutlichen. Dadurch kann man deren intrinsische Motivation steigern, was für die Mentalität der Mitarbeiter förderlich ist und diese produktiver arbeiten lässt[^1]. 
 
 
 ## Praktische Anwendung
@@ -47,7 +47,7 @@ Die Einführung ist einer der wichtigsten Momente im Projekt. Sie zeigt die Ziel
 
 ### Projektdurchführung
 
-Nun muss man den Kollegen den Projektprozess und die Projektdurchführung durch die Geschichte vermitteln. Hierbei kann man mögliche Probleme als Antagonisten darstellen. Neue Erfahrung und Wissen, welches die Mitarbeiter während dem Projekt erwerben, sollten kein Hindernis sein. Sie sollten eine Chance sein, die eigenen Fähigkeiten zu verbessern und den eigenen Horizont zu erweitern, was man dementsprechend in der Geschichte vermitteln sollte. Wie die Grafik aufzeigt, ist die Durchführung des Projekts im Vergleich zum Anfang und Ende, weniger spannend und monotone Aufgaben gehören ebenfalls dazu. Deshalb ist es wichtig, auch das den Menschen durch die Geschichte mitzuteilen, aber trotzdem immer das Ziel im Blick zu behalten.
+Als Nächstes muss man den Kollegen den Projektprozess und die Projektdurchführung durch die Geschichte vermitteln. Hierbei kann man mögliche Probleme als Antagonisten darstellen. Neue Erfahrung und Wissen, welches die Mitarbeiter während dem Projekt erwerben, sollten kein Hindernis sein. Sie sollten eine Chance sein, die eigenen Fähigkeiten zu verbessern und den eigenen Horizont zu erweitern, was man dementsprechend in der Geschichte vermitteln sollte. Wie die Grafik aufzeigt, ist die Durchführung des Projekts im Vergleich zum Anfang und Ende, weniger spannend und monotone Aufgaben gehören ebenfalls dazu. Deshalb ist es wichtig, auch das den Menschen durch die Geschichte mitzuteilen, aber trotzdem immer das Ziel im Blick zu behalten.
 
 
 ### Projektabschluss
