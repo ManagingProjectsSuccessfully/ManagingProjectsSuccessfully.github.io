@@ -42,7 +42,7 @@ Das Ziel eines M&A-Projektes ist es in einem reifen Markt weiterhin wachsen zu k
 
 ## Beispiel: Fusion von Google und Android
 
-![Google & Android Fusion](Google&Andorid.jpg)[^6] 
+![Google & Android Fusion](Android_Google.jpg)[^6] 
 
 Jährlich finden kleine sowie große Fusionen statt, die nicht nur auf regionaler, sondern auch auf internationaler Ebene stattfinden. Im Jahr 2019 gab es rund 50000 Merges & Acquisitions. [^7]
 
