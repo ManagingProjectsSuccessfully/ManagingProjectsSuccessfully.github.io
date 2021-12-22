@@ -40,7 +40,7 @@ Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufge
 
 Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Zudem haben Unternehmen in der Vergangenheit festgestellt, dass ein solches Format intern organisiert die Initialzündung für neue Ideen, Geschäftsmodelle und Produkte sein kann. [^8]
 
-Die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen Coronas nicht verschont geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause aus hacken konnten. Selbst zur Corona-Krise an sich gab es in Deutschland, als auch weltweit mehrere Hackathons. [^11] [^10]
+Die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen Coronas nicht verschont geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause aus hacken konnten. Selbst zur Corona-Krise an sich gab es in Deutschland als auch weltweit mehrere Hackathons. [^11] [^10]
 
 # Ablauf
 
@@ -88,7 +88,7 @@ Den Teilnehmern bietet ein Hackathon grundsätzlich die Möglichkeit des Network
 
 # Weiterführende Literatur
 
-* [König, F., Wessel, D. & Heine, M. Open Data Hackathon – Vergleich von in Präsenz und online durchgeführten Projektseminaren. HMD 58, 1406–1419 (2021)](https://doi.org/10.1365/s40702-021-00794-0). In diesem Beitrag wird die Durchführung eines Projektseminars in Form eines Hackathons in Präsenz mit einem Online-Format kontrastriert. Auf Basis des Stands der Forschung werden das Konzept, die Durchführung und die Ergebnisse dieser beiden Veranstaltungsformate verglichen.
+* [König, F., Wessel, D. & Heine, M. Open Data Hackathon – Vergleich von in Präsenz und online durchgeführten Projektseminaren. HMD 58, 1406–1419 (2021)](https://doi.org/10.1365/s40702-021-00794-0). Auf Basis des Stands der Forschung werden das Konzept, die Durchführung und die Ergebnisse dieser beiden Veranstaltungsformate verglichen.
 * Anmeldeplattform für Hackathons: [Eventbrite](https://www.eventbrite.de/d/germany/hackathon/)
 
 # Quellen
