@@ -75,9 +75,9 @@ Das Kick- Off- Meeting ist ein Grundstein für eine erfolgreiche Projetkabwicklu
 # Quellen 
 
 
-[^1]:  (Nailing your perfect Kick Off) https://www.atlassian.com/work-management/project-management/project-kickoff 
-[^2]: (karrierebibel.de, 12 Tipps)(https://karrierebibel.de/kick-off-meeting/) 
-[^3]: (Kickoff Meeting von Projekten) (https://dieprojektmanager.com/checkliste-kick-off-meeting-projekte/) 
+[^1]: Nailing your perfect Kick Off https://www.atlassian.com/work-management/project-management/project-kickoff 
+[^2]: karrierebibel.de, 12 Tipps(https://karrierebibel.de/kick-off-meeting/) 
+[^3]: Kickoff Meeting von Projekten (https://dieprojektmanager.com/checkliste-kick-off-meeting-projekte/) 
 [^4]: https://www.inloox.de/projektmanagement-glossar/kick-off-veranstaltung/
 
 
