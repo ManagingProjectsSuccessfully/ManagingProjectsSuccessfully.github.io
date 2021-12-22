@@ -18,7 +18,7 @@ Den ersten und wichtigsten Schritt stellt "Awareness" dar. Es soll Bewusstsein f
 Nachfolgende Fragestellungen können dabei helfen, diesen Schritt auszuführen:
 
 - Welche Veränderung ist notwendig? [^3]
-- Warum ist die Veränderung notwendig? [^3]
+- Warum ist die Veränderung notwendig? [^3] [^4]
 - Welche Auswirkungen birgt die Veränderung? [^3]
 - Was passiert, wenn keine Veränderung eintrifft? [^3] [^4]
 
@@ -31,7 +31,7 @@ Da dieser Schritt sehr individuell ist, müssen anhand von Coachings und Gesprä
 
 ## Knowledge
 
-Bei dieser Ebene muss sichergestellt werden, dass die Person das benötigte Wissen hat, die für die Implementierung der Veränderung notwendig ist. Dies kann beispielsweise mithilfe von Schulungen erreicht werden. [^4]
+Bei dieser Ebene muss sichergestellt werden, dass die Person das benötigte Wissen hat, die für die Umsetzen der Veränderung notwendig ist. Dies kann beispielsweise mithilfe von Schulungen erreicht werden. [^4]
 
 
 ## Ability
