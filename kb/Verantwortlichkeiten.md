@@ -77,7 +77,7 @@ Die Projekthierarchie schaut folgendermaßen aus [^8] [^9] :
 # Quellen
 
 [^1]: [Verantwortlichkeit](https://www.duden.de/rechtschreibung/Verantwortlichkeit)
-[^2]: [Verantwortung](https://de.wikipedia.org/wiki/Verantwortung#cite_note-8)
+[^2]: [Verantwortung](https://de.wikipedia.org/wiki/Verantwortung)
 [^3]: [Projektmanagement: Definitionen, Einführungen und Vorlagen](http://projektmanagement-definitionen.de/glossar/verantwortung/)
 [^4]: [Verantwortlichkeit: Zuständigkeit für projektbezogene Aufgaben](https://www.inloox.de/projektmanagement-glossar/verantwortlichkeit/)
 [^5]: [Was heißt hier Projektverantwortung?](https://www.systemisches-projektmanagement.info/projektverantwortung/)
