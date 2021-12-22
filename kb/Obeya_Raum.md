@@ -128,12 +128,12 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Projektmanagement](Projektmanagement.md)
 * [Link auf diese Seite](Obeya_Raum.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* 
 
 # Quellen
 
