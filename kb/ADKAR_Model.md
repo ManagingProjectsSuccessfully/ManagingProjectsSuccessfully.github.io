@@ -28,7 +28,7 @@ Nachfolgende Fragestellungen können dabei helfen, diesen Schritt auszuführen:
 Sobald der Grundstein mit dem Bewusstsein für Veränderung gelegt wurde, kann man in die zweite Phase "Desire" übergehen. Hier muss sichergestellt werden, dass jeder den Wunsch hat und ausreichend motiviert ist, die Veränderungen auszuführen und zu unterstützen.  
 Da dieser Schritt sehr individuell ist, müssen anhand von Coachings und Gesprächen die persönliche Situation und Anreize des Mitarbeiters erkannt und angewandt werden. [^5]
 Mögliche Fragestellungen können lauten:
-- "What's in it for me?" [6] - Was habe ich davon?
+- "What's in it for me?" [^6] - Was habe ich davon?
 - "What motivates them?" [6] - Was ist meine persönliche Motivation?
 
 
