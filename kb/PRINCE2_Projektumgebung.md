@@ -43,7 +43,7 @@ In der PRINCE2 Terminologie ist die Anpassung an die Projektumgebung nicht sehr 
 # PRINCE2 Projektumgebung
 
  
-Als wichtigstes Grundprinzip von PRINCE2 kann die Anpassung (Tailoring) an die Projektumgebung genannt werden. Anpassung bezeichnet in diesem Fall die angemessene Anwendung von [PRINCE2](PRINCE2.md) auf ein bestimmtes [Projekt](Projekt.md). Dabei muss der Umfang von Planung und Steuerung sowie der Einsatz von Prozessen und Themen richtig auf das [Projekt](Projekt.md) abgestimmt werden. Nicht zu verwechseln ist die Anpassung mit dem Begriff der Integration, mit dem die reine Einführung (auch Embedding) von [PRINCE2](PRINCE2.md) in eine Organisation gemeint ist. Oft liegt die [Verantwortung](Verantwortlichkeiten.md) nicht zentral bei einer Person, sondern verteilt sich je nach Kompetenz auf mehrere [^4]. 
+Wie bereits erwähnt kann als wichtigstes Grundprinzip von PRINCE2 die Anpassung (Tailoring) an die Projektumgebung genannt werden. Anpassung bezeichnet in diesem Fall die angemessene Anwendung von [PRINCE2](PRINCE2.md) auf ein bestimmtes [Projekt](Projekt.md). Dabei muss der Umfang von Planung und Steuerung sowie der Einsatz von Prozessen und Themen richtig auf das [Projekt](Projekt.md) abgestimmt werden. Nicht zu verwechseln ist die Anpassung mit dem Begriff der Integration, mit dem die reine Einführung (auch Embedding) von [PRINCE2](PRINCE2.md) in eine Organisation gemeint ist. Oft liegt die [Verantwortung](Verantwortlichkeiten.md) nicht zentral bei einer Person, sondern verteilt sich je nach Kompetenz auf mehrere [^4]. 
  
 
 Die Anpassung an die Projektumgebung kann wie in der folgenden Abbildung [^5] erfolgen: 
