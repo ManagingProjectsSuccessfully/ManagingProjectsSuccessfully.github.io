@@ -2,103 +2,70 @@
 title: Projektmanagement
 tags: agil klassisch
 author: FCN478
-anrechnung: k oder a
+anrechnung: k 
 ---
+Projektmanagement lässt sich allgemein als Sammelbegriff für sämtliche Handlungen verstehen, die steuernd, planend, koordinierend und überwachend die Neu- oder Umgestaltung von Prozessen oder Systemen zum Ziel haben.[^1] Dabei kann man, unterscheidend nach Ziel und Methodik, verschiedene Arten des Projektmanagements differenzieren. Die grobe Trennung erfolgt zwischen einer klassischen und einer agilen Herangehensweise, die sich bereits durch ihre Grundauffassung, wie sich ein Problem oder Prozess lösen lässt, unterscheiden. Darüber hinaus existiert eine Mischform aus beiden Ansätzen. Welche Art gewählt wird, hängt eng mit der zu bewältigenden Projektart zusammen und wird von dieser bestimmt. Weiterhin befinden sich beide grundlegenden Herangehensweisen im Spannungsfeld des Magischen Dreiecks des Projektmanagements.
+![Magisches Dreieck](Projektmanagement/projektmanagement.png)
+[InLoox Abbildung](https://inlooxcdn.azureedge.net/var/corporate_site/storage/images/media/images/seo-page-project-management/grafik-project-triangle-neu-2020/1635537-2-ger-DE/grafik-project-triangle-neu-2020.png)
 
-Kurzbeschreibung zu Projektmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Klassisches Projektmanagement
+Das klassische Projektmanagement zeichnet sich grundsätzlich durch ein bestehendes festes Endziel des Projekts aus. Diesem Ziel werden die Ressourcen vorab bereitgestellt und nach einem festen Modell erfolgt der Projektablauf. Weiterhin wird davon ausgegangen, dass das Projektumfeld relativ stabil ist und sich demzufolge das Projekt von Start bis Abschluss durchplanen lässt. Dahingehend erfolgt die Wahl des Ablaufmodells projektbezogen. Die bekanntesten Modelle sind das Wasserfallmodell und das Spiralmodell.[^2]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## Wasserfallmodell
+Das Wasserfallmodell ist ein lineares Phasenmodell. In diesem System erfolgt der Ablauf der vorab definierten Phasen nacheinander. Erst wenn der vorherige Abschnitt beendet ist, beginnt der Nächste. Die Abschnittseinteilung erfolgt projektbezogen, jedoch lassen sich 5 Grundphasen identifizieren:
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+1.	Anforderungen analysieren
+2.	Entwurf erstellen
+3.	Entwurf implementieren
+4.	Test durchführen
+5.	Inbetriebnahme
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Dieser Aufbau ist vergleichsweise einfach und gibt den Projektmitarbeitern eine klare Vorgabe und eine einfache Orientierung. Weiterhin lässt sich der Arbeitsumfang und der Zeitplan durch die vor Beginn durchgeführte Planung bereits abschätzen. Dahingehend vereinfacht sich ebenfalls die Kalkulation des Budgets.[^3]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Problematisch ist bei diesem Modell jedoch die mangelnde Flexibilität, die sich aus der gegebenen Struktur ergibt. Ebenso wirken sich Umsetzungsfehler stark im Projektablauf aus und man muss gegebenenfalls wieder in die Entwurfsphase zurückkehren. [^3]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Spiralmodell
+Das Spiralmodell lässt sich als Modell, welches die Risikominimierung in den Fokus stellt, charakterisieren. Dabei werden durch Iteration jeweils 4 Phasen durchlaufen:
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+1.	Voraussetzungen
+2.	Risikoanalyse
+3.	Umsetzung
+4.	Review der vorangegangenen Schritte und Planung der nächsten Iteration
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Bei der Risikoanalyse werden die Rahmenbedingungen definiert und konkrete Lösungen vorgeschlagen. Danach erfolgt die Evaluierung der Lösungen und etwaige Risiken werden systematisiert und versucht, diese möglichst zu minimieren. Im dritten und vierten Schritt erfolgt dann die Prüfung der vorangegangenen Schritte und die Planung der nächsten Iteration.[^2]
 
+Zentral ist hierbei die Erstellung von Prototypen, welche von Iteration zu Iteration verfeinert werden und am Projektende das Ergebnis darstellen.[^4]
 
-# Aspekt 1
+# Agiles Projektmanagement
+Basierend auf dem agilen Manifest aus dem Jahr 2001, besteht das agile Projektmanagement aus vier Leitsätzen:
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+* Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge
+* Funktionen und Software sind wichtiger als umfassende Dokumentation
+*	Kundenzusammenarbeit ist wichtiger als Vertragsverhandlungen
+*	Auf Änderungen reagieren ist wichtiger als einem Plan zu folgen
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+In diesem Rahmen nimmt der Mensch eine wichtige Rolle ein und mithin stellen Kommunikation, Einfachheit, Rückkopplung, Mut und Respekt zentrale Werte dar.[^2]
 
-![Beispielabbildung](Projektmanagement/test-file.jpg)
+Dahingehend existiert im Gegensatz zum klassischen Projektmanagement keine fixe Struktur. Veränderung und Flexibilität finden Einzug in diesem System und der Ablauf eines Projekts baut sich iterativ auf den bisherigen Teilergebnissen auf.[^2]
 
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Konkrete Methoden stellen hierbei Scrum, Extreme Programming und Crystal Methods dar, welche alle mit dem agilen Manifest vereinbar sind.[^2]
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektmanagement.md)
+* [Magisches Dreieck](Magisches_Dreieck.md)
+* [Wasserfallmodell](Wasserfall_Modell.md)
+* [Crystal Methods](Crystal_Methods.md)
+* [SCRUM](SCRUM.md)
+* [Projektmanagement 4.0](Projektmanagement_4_0.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Handbuch Projektmanagement (https://link.springer.com/book/10.1007/978-3-662-57878-0) 
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: Literaturverzeichnis
+Kuster, J., Bachmann, C., Huber, E., Hubmann, M., Lippmann, R., Schneider, E., Schneider, P., Witschi, U. & Wüst, R. (2019). Handbuch Projektmanagement. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-662-57878-0
+[^2]: Trepper T. (2012) Klassisches Projektmanagement. In: Agil-systemisches Softwareprojektmanagement. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-8349-4202-9_3
+[^3]: Wasserfallmodell - factro (https://www.factro.de/blog/wasserfallmodell/), aufgerufen am 21.11.2021
+[^4]: Enzyklopädie der Wirtschaftsinformatik(https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Spiralmodell), aufgerufen am 21.11.2021
 

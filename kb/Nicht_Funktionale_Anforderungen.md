@@ -1,104 +1,90 @@
 ---
 title: Nicht_Funktionale_Anforderungen
-tags: agil klassisch
+tags: klassisch agil anforderungen projektmanagement
 author: seriousTake
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Nicht_Funktionale_Anforderungen um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Im Projektmanagement unterscheidet man unter anderem zwischen Funktionalen und Nicht-Funktionalen Anforderungen.
+Während funktionale Anforderungen vorgeben was ein Produkt (z.B. Software) können soll bzw. was für Funktionen und Features es haben soll,
+werden bei nicht-funktionalen Anforderungen Randbedingungen, Qualität und Leistung betrachtet.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# 1. Definition und Unterschied zu Funktionalen Anforderungen
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Auch wenn im Projektmanagement zwischen funktionalen und nicht-funktionalen Anforderungen unterschieden wird, ist für den Kunden beides
+meist dasselbe.[^2] Deshalb muss der Auftragnehmer von Beginn an, die Anforderungen kategorisieren.
+Während funktionale Anforderungen die Kernanforderungen darstellen, werden nicht-funktionale Anforderungen in einem iterativen Prozess
+weiter ausgebaut und verbessert.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Funktionale Anforderungen beschreiben ein System, während nicht-funktionale Anforderungen die Qualitätseigenschaft eines Systems beschreiben.
+Außerdem bestimmen wie bereits erwähnt meist nicht die Kunden die nicht-funktionalen Anforderungen, sondern Fachkräfte mit besonderer Expertise
+wie z.B. Techniker, Softwareentwickler oder Architekten. Zudem sind nicht-funktionale Anforderungen nicht unbedingt zu erfüllen.[^3]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+In der Leistungsanforderung wird z.B. die "Zeit" betrachtet, also beispielsweise wie lange eine Software für die Ausführung braucht. Durchsatzraten, Ressourcenverbrauch
+oder Anzahl von gesammelten Daten können weitere leistungsbezogene Anforderungen darstellen. Randbedingungen sind z.B. Gesetze oder gesellschaftliche Grundlagen.
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Weitere Unterschiede[^5]:
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+|| Funktionale Anforderungen  | Nicht-funktionale Anforderungen |
+| ------------- | ------------- | ------------- |
+|Dokumentation| Im Use Case dokumentiert  | Als Qualitätseigenschaft dokumentiert  |
+|Tests| Komponenten, API, UI, wird vor NFA getestet  | Performance-, Nutzen-, Sicherheitstests  |
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Am Beispiel: Smartphonespiel
 
+Zur Veranschaulichung schauen wir uns einen möglichen Auftrag an. Der Kunde verlangt von einem Softwareentwicklungshaus ein Puzzle-Spiel mit Fussballelementen.
+Dieses soll sowohl auf Android als auch auf iOS spielbar sein. 
+Kernanforderungen, also funktionale Anforderungen, sind in unserem Fall ein Smartphonespiel, welches für zwei verschiedene Smartphonebetriebssysteme entwickelt werden soll.
+Das Endprodukt soll ein Fussball-Puzzlespiel sein.
+Nicht-funktionale Anforderungen, die der Kunde nicht explizit nennt, aber erwartet sind z.B. schnelle Ladezeiten, geringe Speicherbelastung, minimale Systemanforderungen
+und weitere Leistungs- bzw. Qualitätsanforderungen.
 
-# Aspekt 1
+# 2. Entscheidend für Erfolg
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Kunden können durch qualitative und quantitative Anforderungen, auch nicht-funktionale Anforderungen, den Erfolg des Projekts bemessen.
+Wie man so gerne sagt: "Zahlen sprechen für sich."
+Deshalb sind Anforderungen wie z.B. "der Spieleserver soll mit bis zu 10.000 Benutzern problemlos umgehen können".[^3]
+Erfüllt man solche Anforderungen bzw. übertrifft sie sogar, können Kunden den Erfolg eher bemessen.
+Auftragnehmer sollten sich deshalb stets, geeignete, quantitativ bemesserbare Anforderungen überlegen. Diese können vom Kunden
+selbstverständlich vorgegeben sein.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![requirement_measurement](Nicht_Funktionale_Anforderungen/graphic3.png)
+*Abbildung 1: Bemessung von Anforderungen* [^4]
 
-![Beispielabbildung](Nicht_Funktionale_Anforderungen/test-file.jpg)
+Auf der letzten Abbildung wird das Beispiel "Quantitative with measure und metric" aufgeführt.
+Man schaut sich also mehrere Kennzahlen bzw. Bemessungen an, welche dadurch weitaus genauer den Erfolg anzeigen können.
 
-*lustiges Testbild*
+# 3. Dokumentierung von nicht-funktionalen Anforderungen
 
-# Aspekt 2
+Für die Dokumentation von Anforderungen in der Softwareentwicklung gibt es die sogenannte "software requirements specification", kurz [SRS](https://www.altexsoft.com/blog/software-requirements-specification/). Dies geschieht oft in Absprache mit dem Kunden und wird eventuell basierend auf Feedback
+angepasst. Man versucht eine detaillierte Liste aller möglichen Anforderungen zu kreiieren, welche jede Erwartung des Kunden erfüllen soll.[^5]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Für die Qualitätsanforderungen gibt es Qualitätsmodelle wie "Quality in use Model(ISO 25010)", "Product Quality Model (ISO 25010)" oder "Data Quality Model (ISO 25012)".[^1]
+Im "Quality in use Model" werden Anforderungen wie Übertragbarkeit, Wartbarkeit, Sicherheit, Zuverlässigkeit usw. in weitere Unteranforderungen unterteilt.
+Dies führt selbstverständlicherweise zu einer besseren Planung für die Erfüllung aller Qualitätsmerkmale.
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Fazit
 
-So kann man eine Tabelle erstellen:
+Wichtige Anhaltspunkte im Thema nicht-funktionale Anforderungen sind:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+* werden oft nicht explizit vom Arbeitgeber vorgegeben
+* Entscheidend für Erfolg
+* Quantitative Anforderungen wichtig für Messbarkeit des Erfolgs
+* bestehen aus Qualitäts-, Leistungs- und Randbedingungen[^1]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Vor allem in der Softwareentwicklung spielen nicht-funktionale Anforderungen aufgrund von technischen Grundlagen eine große Rolle.
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Nicht_Funktionale_Anforderungen.md)
+* [Anforderungsanalyse](https://www.can-do.de/info/wissen/anforderungsanalyse#:~:text=Beim%20Durchf%C3%BChren%20einer%20Anforderungsanalyse%20wird,werden%20in%20einem%20Lastenheft%20festgehalten.)
 
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Nicht funktionale Anforderungen - LMU](https://www.pst.ifi.lmu.de/Lehre/wise-15-16/jur-pm/braun-praesentation.pdf)
+[^2]: [Blueshoe - Projektmanagement](https://www.blueshoe.de/blog/anforderungsanalyse-projektmanagement/)
+[^3]: [Jamasoftware NFR vs FR](https://www.jamasoftware.com/requirements-management-guide/writing-requirements/functional-vs-non-functional-requirements)
+[^4]: [Metric Graphic](https://www.jamasoftware.com/media/2021/03/graphic3.png)
+[^5]: [Altexsoft.com SRS](https://www.altexsoft.com/blog/business/functional-and-non-functional-requirements-specification-and-types/)
 

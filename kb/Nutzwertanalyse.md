@@ -1,104 +1,81 @@
 ---
 title: Nutzwertanalyse
-tags: agil klassisch
+tags: klassisch
 author: Irishcoffee09
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Nutzwertanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Die Nutzwertanalyse (kurz: NWA; aber auch Punktwertverfahren, Punktbewertungsverfahren oder Scoring-Modell genannt) gehört zu den qualitativen, nicht-monetären Analysemethoden der Entscheidungstheorie.[^1] Im [Projektmanagement](Projektmanagement.md) dient die Nutzwertanalyse als Methode zur rationalen Entscheidungsfindung bei komplexen Problemen.[^1] Sie wird vorallem herangezogen für Entscheidungsfindungen, bei denen nicht in Geldeinheiten oder Zeiteinheiten messbare Aufwendungen als Faktoren verwendet werden können, sondern beispielsweise Umweltfaktoren, Image oder soziale Faktoren eine Rolle spielen.[^4]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Hintergrund
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Im Rahmen von Projekten ist es notwendig, Entscheidungen hinsichtlich vieler Details zu treffen. Dies beginnt bereits bei der Entscheidung für oder gegen ein bestimmtes Projekt, geht weiter zur Auswahl der geeigneten Mitarbeiter, Make-Or-Buy-Entscheidungen, Auswahl von Kooperationspartnern, Ressourcen, bis hin zu letzendlichen, direkt das Ergebnis beeinflussenden Entscheidungen.[^2] Während eine normale [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md) verschiedene Kriterien nur unter Effizienzgesichtspunkten betrachtet, bewertet die Nutzwertanalyse die Effektivität. [^1] 
+Um trotzdem eine transparente, für andere nachvollziehbare und schnelle Entscheidung zu gewährleisten, haben sich verschiedene Maßnahmen etabliert. 
+Eine dieser Maßnahmen ist die „Nutzwertanalyse“.[^2]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Vorgehen
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Bei der Nutzwertanalyse werden mehrere Projekte oder Projektalternativen gegenübergestellt und ihr jeweiliger “Nutzwert” ermittelt. Die Kriterien, die zur Bewertung des Nutzens herangezogen werden, werden ermittelt und verschieden gewichtet.[^5] Die Methode folgt einer 6-Schritte-Anleitung:
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## 6-Schritte der NWA[^3]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+### Schritt 1: Festlegung der Alternativen bzw. Entscheidungsvarianten
+Die verschiedenen Varianten werden gesammelt und festgehalten. Es ist hilfreich, wenn diese Liste nicht allzu lang wird, weil die Methode sonst sehr aufwändig wird. Mit 2-5 Alternativen ist man gut aufgestellt.
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+### Schritt 2: Definition von Bewertungskriterien
+Es werden die Kriterien festgelegt, anhand derer eine Entscheidung getroffen werden soll. Diese Kriterien sind häufig Anforderungen an das Produkt oder zu erreichende Ziele. Hier entsteht meist eine Liste von bis zu 10 Kriterien.
 
+### Schritt 3: Gewichtung der Bewertungskriterien
+Jedem Kriterium wird ein Prozentsatz hinterlegt, der die Wichtigkeit des Kriteriums belegt. Die Summe der Einzelgewichtungen muss 100% ergeben.
 
-# Aspekt 1
+### Schritt 4: Festlegung des Bewertungsmaßstabs
+Die einzelnen Kriterien werden mit Punkten bewertet. Um hier eine Eindeutigkeit sicherzustellen, muss der Bewertungsmaßstab genau definiert werden, z.B. 5 Punkte = sehr gut, 1 Punkt = mangelhaft.
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+### Schritt 5: Bewertung der Alternativen
+Hier erfolgt die eigentliche Bewertung: Pro Kriterium und Alternative werden Punkte vergeben und die gewichteten Punkte berechnet.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+### Schritt 6: Summierung und Auswahl
+Durch Summierung der Einzelgewichtungen ergibt sich die gewichtete Punktzahl pro Alternative. Die Alternative mit der höchsten Punktzahl entspricht den definierten Kriterien am besten.
 
-![Beispielabbildung](Nutzwertanalyse/test-file.jpg)
+## Beispiel
 
-*lustiges Testbild*
+Veranschaulichen kann man die Vorgehensweise an einem einfachen Beispiel:[^5]
+![Screenshot (25)](https://user-images.githubusercontent.com/92951062/142764229-4c3c7ba9-ccf4-4be2-b544-2ace6f4c68c9.png)
 
-# Aspekt 2
+# Vor- und Nachteile der Nutzwertanalyse[^1][^3]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Die NWA hat sowohl Vorteile als auch Nachteile. 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
+| Vorteile  | Nachteile | 
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Transparenz der Entscheidungsgründe  | Subjektive Bewertung  |
+| Schriftlichkeit & Nachvollziehbarkeit  | Bei zu vielen Alternativen wird Methode zu aufwändig  |
+| Analyse in Teamarbeit gut möglich  | Verfälschung der Ergebnisse möglich durch Überlappungen von Alternativen  |
+| Vergleichbarkeit von Unvergleichbaren anhand gemeinsamer Kriterien  | Problem der Einigung bei mehreren Anwendern  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Hauptkritikpunkt an der NWA ist ihre Subjektivität. Um diese auszugleichen, ist es empfehlenswert die Analyse in einem Gruppenmeeting ( z.B. in einem [Jour Fixe](Jour_Fixe.md) oder auch im Rahmen der [Projektkommunikation](Projektkommunikation.md) )anzuwenden.[^4] Verschiedene Köpfe bringen verschiedene Sichtweisen ein, was das Gesamtergebnis ausgewogener und objektiver macht.[^4]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# Weitere Anwendungsfelder
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Die Nutzwertanalyse findet nicht nur im Projektmanagement Anwendung. Sie wird in allen Bereichen genutzt, in denen eine Entscheidung auf Basis mehrerer quantitativer und qualitativer Kriterien getroffen werden muss, beispielsweise bei Lieferantenbewertungen oder Vergleichen zur Unterstützung von Kaufentscheidungen.[^1][^5] Abgesehen davon ist die Nutzwertanalyse auch ein Tool im Controlling, in der Volkswirtschaftslehre generell oder auch im Vergaberecht. [^1] 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Nutzwertanalyse.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Kosten-Nutzen-Analyse](Kosten_Nutzen_Analyse.md)
+* [Jour Fixe](Jour_Fixe.md)
+* [Projektkommunikation](Projektkommunikation.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* "Nutzwertanalyse im Projektmanagement" von Sven Jansen (Taschenbuch, Erscheinungsdatum 06.10.2011, ISBN 978-3-656-02158-2)
+* "Nutzwertanalyse einfach erklärt" Video: https://www.youtube.com/watch?v=rSL_5YOEsvE
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://de.wikipedia.org/wiki/Nutzwertanalyse 
+[^2]: B.Sc Sven Jansen (Autor:in), 2008, Nutzwertanalyse im Projektmanagement, München, GRIN Verlag, https://www.grin.com/document/179719
+[^3]: https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/nutzwertanalyse/
+[^4]: https://www.braintool.com/blog/so-erstellen-sie-eine-nutzwertanalyse/
+[^5]: https://www.peterjohann-consulting.de/nutzwertanalyse/
 
