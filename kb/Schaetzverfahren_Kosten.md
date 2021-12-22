@@ -5,7 +5,7 @@ author: Sven017
 anrechnung: k 
 ---
 
-# Schätzungen als kontinuierlicher Prozess
+# Schätzungen als Prozess um Kosten zu bestimmen
 
 Schätzungen gehören tagtäglich zu einer zentralen Aufgabe im Bereich des Projektmanagements. 
 Es ist kein einmaliger Prozess, der am Anfang eines [Projekts](Projekt.md) stattfindet, sondern ist vielmehr ein kontinuierlicher Prozess, 
@@ -13,7 +13,7 @@ welcher sich von Anfang bis zum Ende des gesamten Projekts hindurch zieht [^1].
 Diese Schätzungen bzw. Schätzverfahren werden dazu verwendet, um unter anderem die [Kosten](Kostenplanung.md) eines Projekts 
 besser abschätzen zu können. Somit können beispielsweise unrentable Projekte ausfindig gemacht werden, welche Aufgabe dann den 
 [Projektleiter](Projektleiter.md)/-[mitglieder](Projektmitglieder.md) unterliegt, diese Kosten entsprechend den Vorgaben anzupassen 
-oder das [Projekt rechtzeitig einzustellen](Projektabbruch.md). Mit diesem Prozess können so unnötige Kosten eingespart werden. 
+oder das [Projekt rechtzeitig einzustellen](Projektaufloesung.md). Mit diesem Prozess können so unnötige Kosten eingespart werden. 
 Andererseits können so rentable Projekte frühzeitig erkannt und entsprechend gefördert werden.
 
 Da Projekte zumeist neu und innovativ sind, ist es nicht immer möglich Erfahrungen aus der Vergangenheit unverändert zu übernehmen 
@@ -26,7 +26,7 @@ und von den meisten Schätzverfahren nicht berücksichtigt werden [^2]:
 *	die Art, Anzahl und Zeitpunkte von Qualitätssicherungsmaßnahmen
 *	etc [^2]
 
-# Schätzverfahren
+# Methoden des Schätzens
 
 Um die Kosten richtig abschätzen zu können, werden neben Erfahrungswerten, mathematische Algorithmen, 
 parametrisierten Funktionen auch die Hilfe von Experten benötigt. Darunter ist die Delphi-methode, die Schätzklausur 
@@ -79,6 +79,16 @@ auf die verbrauchten Aufwände eines Projekts hat [^3].
 
 # Siehe auch
 
+* [Projekt](Projekt.md)
+* [Kostenplanung](Kostenplanung.md)
+* [Projektleiter](Projektleiter.md)
+* [Projektmitglieder](Projektmitglieder.md)
+* [Projektauflösung](Projektaufloesung.md)
+* [Bottom_Up_Planning](Bottom_Up_Planning.md)
+* [Projektphasen](Projektphasen_klassich.md)
+* [Projektteam](Projektteam_Kultur.md)
+* [Business Case](Business_Cases.md)
+* [Projektmanagement](Projektmanagement.md)
 * [Aufwands_Kosten_Kontrolle](Aufwands_Kosten_Kontrolle.md)
 * [Kosten_Nutzen_Analyse](Kosten_Nutzen_Analyse.md)
 * [Kosten_Trend_Analyse](Kosten_Trend_Analyse.md)
@@ -88,6 +98,7 @@ auf die verbrauchten Aufwände eines Projekts hat [^3].
 
 # Weiterführende Literatur
 
+* [Software-Aufwandschätzung](https://www.ifi.uzh.ch/rerg/courses/archives/hs13/se/materialien/Kapitel_15_Sw_Aufw_Sch.pdf)
 
 
 
