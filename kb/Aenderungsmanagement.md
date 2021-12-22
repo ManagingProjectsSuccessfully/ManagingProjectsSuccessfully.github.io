@@ -11,9 +11,9 @@ anrechnung: k
 Die typischen Eigenschaften eines [Projektes](Projekt.md) wie beispielsweise die Einmaligkeit oder die Neuartigkeit führen dazu, dass der Verlauf eines Projektes nicht vollständig geplant werden kann. Dies hat zur Folge, dass während dem Projektablauf immer wieder Änderungen nötig sind. Eine Änderung ist als "[j]egliche Abweichung von der ursprünglichen (vertraglichen) Aufgabenstellung"[^2] definiert. 
 
 Mögliche Ursachen für Änderungen sind:
-* die Veränderung der Projektziele beim Auftraggeber
+* die Veränderung der [Projektziele](Ziel_Planung.md) beim Auftraggeber
 * die Veränderung äußerer Faktoren (z.B. Markt, Politik, Technik, Wissenschaft, Gesetzte, Umwelt)
-* der Widerstand von Stakeholdern
+* der Widerstand von [Stakeholdern](Stakeholdermanagement.md)
 
 "Das Änderungsmanagement umfasst daher die Behandlung und Steuerung von Änderungen im Verlauf eines Projektes."[^2] Das Änderungsmanagement, das im Englischen als Change Management Process bezeichnet wird, erstreckt sich über den gesamten [Projektlebenszyklus](Projektphasen_klassisch.md).
 
@@ -23,11 +23,11 @@ Mögliche Ursachen für Änderungen sind:
 
 *beispielhafter Änderungsworkflow*[^3]
 
-Das Änderungsmanagement beginnt damit, dass eine Änderung im Projekt notwendig ist. Ab diesem Zeitpunkt beginnt die Dokumentation der Änderung. Die Änderung kann entweder von der Seite des Auftragsgebers an das zuständige Unternehmen herangetragen werden oder beim Auftragnehmer selbst erkannt werden. Damit im Unternehmen selbst notwenige Änderungen erkannt werden können, ist eine genaue Aufgabenstellung notwendig. Im Anschluss daran wird die Änderung genauer analysiert. Diese Analyse beinhaltet zum Beispiel den exakten Inhalt und den Größenumfang der Änderung. Des Weiteren müssen mögliche Lösungsansätze und die Folgen der Änderung ermittelt werden. Denn eine Änderung der Aufgabenstellung führt üblicherweise zu einer Änderung von Terminen und Kosten. Bei diesem Schritt ist es sinnvoll, das gesamte Projektteam miteinzubeziehen, um verschiedene Sichtweisen zu berücksichtigen. Die Kombination aus Leistungsänderung, [Kostenänderung](Kostenplanung.md) und Terminänderung, die sich daraus ergibt, kann dann mit dem Auftraggeber [abgesprochen](Kommunikation_Projektbeteiligte.md) werden. Der letzte Schritt beinahltet die Umsetzung der Änderungen zum Beispiel durch eine Vertragsänderung.
+Das Änderungsmanagement beginnt damit, dass eine Änderung im Projekt notwendig ist. Ab diesem Zeitpunkt beginnt die Dokumentation der Änderung. Die Änderung kann entweder von der Seite des Auftragsgebers an das zuständige Unternehmen herangetragen werden oder beim Auftragnehmer selbst erkannt werden. Damit im Unternehmen selbst notwenige Änderungen erkannt werden können, ist eine genaue Aufgabenstellung notwendig. Im Anschluss daran wird die Änderung genauer analysiert. Diese Analyse beinhaltet zum Beispiel den exakten Inhalt und den Größenumfang der Änderung. Des Weiteren müssen mögliche Lösungsansätze und die Folgen der Änderung ermittelt werden. Denn eine Änderung der Aufgabenstellung führt üblicherweise zu einer Änderung von Terminen und Kosten. Bei diesem Schritt ist es sinnvoll, das gesamte Projektteam miteinzubeziehen, um verschiedene Sichtweisen zu berücksichtigen. Die Kombination aus Leistungsänderung, [Kostenänderung](Kostenplanung.md) und [Terminänderung](Zeitplanung.md), die sich daraus ergibt, kann dann mit dem Auftraggeber [abgesprochen](Kommunikation_Projektbeteiligte.md) werden. Der letzte Schritt beinahltet die Umsetzung der Änderungen zum Beispiel durch eine Vertragsänderung.
 
 # Welche Rollen gibt es im Änderungsmanagement?[^4]
 
-Am Änderungsprozess sind die gewohnten Projektrollen wie beispielsweise die Projektleitung beteiligt. Die Projektleitung ist allgemein für das Änderungsmanagement verantwortlich und dafür zuständig, dass festgelegte Vorgehensweise korrekt umgesetzt wird. Eine besondere Rolle im Änderungsprozess nimmt allerdings der Änderungsinitiator ein. Jedes Projektmitglied kann die Rolle des Änderungsinitiators übernehmen. Dieses projektmitglied möchte eine bestimmte Änderung durchsetzen und leitet den Änderungsprozess.
+Am Änderungsprozess sind die gewohnten Projektrollen wie beispielsweise die [Projektleitung](Projektleiter.md) beteiligt. Die Projektleitung ist allgemein für das Änderungsmanagement verantwortlich und dafür zuständig, dass festgelegte Vorgehensweise korrekt umgesetzt wird. Eine besondere Rolle im Änderungsprozess nimmt allerdings der Änderungsinitiator ein. Jedes Projektmitglied kann die Rolle des Änderungsinitiators übernehmen und dieses Projektmitglied möchte eine bestimmte Änderung durchsetzen und leitet den Änderungsprozess.
 
 # Was ist beim Änderungsmanagement zu beachten?[^1]
 
