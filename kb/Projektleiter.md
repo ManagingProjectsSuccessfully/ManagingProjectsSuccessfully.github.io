@@ -45,7 +45,7 @@ Die abgestimmte Kommunikation für einen erfolgreichen Informationsaustausch ist
 Hierfür muss der Projektleiter geeignete Kommunikationsmittel bestimmen, benötigte Informationen weiterleiten und Mitglieder zu intensiver Kommunikation motivieren. 
 
 ## 5. Umfeldmanagement 
-Die Teammitglieder setzen sich oft von unterschiedlichen Abteilungen zusammen, weshalb zunächst abteilungsbezogene Ziele entstehen. Diesbezüglich muss ein Projektleiter für eine Überbrückung von Kulturunterschieden, einen Ausgleich unterschiedlicher Interessen und für eine Bildung eines gemeinsamen Teams sorgen. 
+Die Teammitglieder setzen sich oft von unterschiedlichen Abteilungen zusammen, weshalb zunächst abteilungsbezogene Ziele entstehen. Diesbezüglich muss ein Projektleiter für eine Überbrückung von Kulturunterschieden, einen Ausgleich unterschiedlicher Interessen und für die Bildung eines gemeinsamen Teams sorgen. 
 
 ## 6. Projektcontrolling 
 Im Zusammenhang mit Projektcontrolling übergibt der Projektleiter die Aufgabe das Projekt zu überwachen und zu dokumentieren an ein dafür qualifiziertes Teammitglied. 
