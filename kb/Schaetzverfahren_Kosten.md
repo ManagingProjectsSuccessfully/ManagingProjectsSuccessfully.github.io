@@ -5,7 +5,7 @@ author: Sven017
 anrechnung: k 
 ---
 
-# Schätzungen als Prozess um Kosten zu bestimmen
+# Schätzungen als kontinuierlicher Prozess
 
 Schätzungen gehören tagtäglich zu einer zentralen Aufgabe im Bereich des Projektmanagements. 
 Es ist kein einmaliger Prozess, der am Anfang eines [Projekts](Projekt.md) stattfindet, sondern ist vielmehr ein kontinuierlicher Prozess, 
@@ -26,7 +26,7 @@ und von den meisten Schätzverfahren nicht berücksichtigt werden [^2]:
 *	die Art, Anzahl und Zeitpunkte von Qualitätssicherungsmaßnahmen
 *	etc [^2]
 
-# Methoden des Schätzens
+# Schätzverfahren
 
 Um die Kosten richtig abschätzen zu können, werden neben Erfahrungswerten, mathematische Algorithmen, 
 parametrisierten Funktionen auch die Hilfe von Experten benötigt. Darunter ist die Delphi-methode, die Schätzklausur 
