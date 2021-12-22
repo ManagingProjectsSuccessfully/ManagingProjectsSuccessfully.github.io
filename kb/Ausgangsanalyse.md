@@ -22,16 +22,25 @@ Interne Faktoren sind innerhalb eines Unternehmens bestehend, wohingegen externe
 #
 Zur genauen Erfassung des Unternehmensumfelds werden die vier Umfeldfaktoren zusammengefasst und anschließend durch eine Matrix-Kombination zur besseren Übersicht dargestellt. Somit hat man diese folgenden Faktor-Kombinationen vorliegen: sachlich interne, sachlich externe, sozial interne und sozial externe Faktoren. Insbesondere durch die sachlich externen Einflüsse kann man Risiken, sowie durch die sozialen externen Einflüsse bestimmte Stakeholder ableiten.[^5]
 ### Faktorkombinationen
-* sachlich intern
+* sachlich intern                 
 * sachlich extern
 * sozial intern
 * sozial extern
 
 ## Ausgangsanalyse als Basis für Stakeholder- und Risikoanalyse
-Nachdem all diese Aspekte grob identifiziert worden sind, kann im weiteren Verlauf im Rahmen der Projektplanung mit der Stakeholder-Analyse und Risikoanalyse begonnen werden. Bei der Analyse der Stakeholder werden wie zuvor angesprochen die sozialen externen Faktoren präziser betrachtet. Hierbei geht es vor allem darum, wichtige Akteure für das Projekt zu identifizieren und Personen bzw. Personengruppen zu ermitteln, welche ggf. eine Barriere für die Unternehmung darstellen könnten. Darauf basierend werden Maßnahmen gestaltet, um wichtige Interessengruppen entsprechend über das Projekt zu informieren und um behindernden Personengruppen entgegenzuwirken.[^3] 
-Durch die Ausgangsanalyse kann außerdem die Risikoanalyse angesetzt werden. Ausgehend von den sachlich externen Faktoren, kann man Aspekte bzw. Unsicherheiten ermitteln, welche potenzielle negative Auswirkungen auf das zu planende Projekt haben. Hierbei werden Einflüsse hinsichtlich der Dimensionen Qualität, Zeit und Kosten berücksichtigt.[^4] 
+Nachdem all diese Aspekte grob identifiziert worden sind, kann im weiteren Verlauf im Rahmen der Projektplanung mit der [Stakeholderanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Stakeholderanalyse.md) und [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) begonnen werden. Bei der Analyse der Stakeholder werden wie zuvor angesprochen die sozialen externen Faktoren präziser betrachtet. Hierbei geht es vor allem darum, wichtige Akteure für das Projekt zu identifizieren und Personen bzw. Personengruppen zu ermitteln, welche ggf. eine Barriere für die Unternehmung darstellen könnten. Darauf basierend werden Maßnahmen gestaltet, um wichtige Interessengruppen entsprechend über das Projekt zu informieren und um behindernden Personengruppen entgegenzuwirken.[^3] 
+Durch die Ausgangsanalyse kann außerdem die [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) angesetzt werden. Ausgehend von den sachlich externen Faktoren, kann man Aspekte bzw. Unsicherheiten ermitteln, welche potenzielle negative Auswirkungen auf das zu planende Projekt haben. Hierbei werden Einflüsse hinsichtlich der Dimensionen Qualität, Zeit und Kosten berücksichtigt.[^4] 
 
-Zusammenfassend lässt sich sagen, dass durch die Ausgangsanalyse viele weitere Schritte im Rahmen der Projektdefinition einfacher umgesetzt werden können. Es hilft den Beteiligten des Projekts äußere Einflüsse einfacher zu erkennen, um im Zuge dessen mögliche Probleme zu identifizieren und anschließend entsprechende Anforderungen an das Vorhaben zu stellen. Des Weiteren eignet sich die Analyse der Ausgangssituation ideal zur Erkennung von Schnittstellen nach außen. Wie bereits im Vorherigen erläutert, kann durch eine erfolgreiche Ausgangsanalyse eine optimale Stakeholder-Analyse sowie Risikoanalyse umgesetzt werden. Insgesamt verschafft die Umfeldanalyse eine übersichtliche Darstellung des momentanen Ist-Zustands, welchen man zu Beginn der Projektdefinition vorliegen hat, und leistet sowohl mehr Unterstützung als auch Transparenz für das Treffen von Entscheidungen zur konkreteren Gestaltung des Projekts.
+<p align="center">
+  <img src=https://github.com/ksushaW/ManagingProjectsSuccessfully.github.io/blob/main/kb/Ausgangsanalyse/AusgangsanalyseBild1Besser.png>
+</p>
+
+<p align="center">
+ Bild: Stakeholder- & Risikoanalyse als Resultat der Ausgangsanalyse
+</p>
+
+
+Zusammenfassend lässt sich sagen, dass durch die Ausgangsanalyse viele weitere Schritte im Rahmen der Projektdefinition einfacher umgesetzt werden können. Es hilft den Beteiligten des Projekts äußere Einflüsse einfacher zu erkennen, um im Zuge dessen mögliche Probleme zu identifizieren und anschließend entsprechende Anforderungen an das Vorhaben zu stellen. Des Weiteren eignet sich die Analyse der Ausgangssituation ideal zur Erkennung von Schnittstellen nach außen. Wie bereits im Vorherigen erläutert, kann durch eine erfolgreiche Ausgangsanalyse eine optimale Stakeholderanalyse sowie Risikoanalyse umgesetzt werden. Insgesamt verschafft die Umfeldanalyse eine übersichtliche Darstellung des momentanen Ist-Zustands, welchen man zu Beginn der Projektdefinition vorliegen hat, und leistet sowohl mehr Unterstützung als auch Transparenz für das Treffen von Entscheidungen zur konkreteren Gestaltung des Projekts.
 
 
 # Quellen
@@ -41,4 +50,3 @@ Zusammenfassend lässt sich sagen, dass durch die Ausgangsanalyse viele weitere 
 [^3]: https://projektmanagement-manufaktur.de/stakeholderanalyse
 [^4]: https://projektmanagement-manufaktur.de/risikoanalyse-projektmanagement
 [^5]: https://projekte-leicht-gemacht.de/blog/methoden/projektstart/die-umfeldanalyse-einfach-erklaert/
-
