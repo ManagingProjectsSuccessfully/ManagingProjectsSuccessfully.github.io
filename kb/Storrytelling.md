@@ -38,7 +38,9 @@ Zunächst ist es wichtig zu verstehen, dass es hier nicht um pure Fakten und Sta
 
 ![Storykurve](Storrytelling/Storytelling.png)
 
-*Storytelling durch Erzählen zum Projekterfolg[^3]*
+*Storytelling - durch Erzählen zum Projekterfolg[^3]*
+
+Die Grafik zeigt den Verlauf der Emotionen über die Zeit innerhalb der Phasen einer Geschichte auf[^3]. Dies lässt sich gut auf den Projektverlauf übertragen und spiegelt die Emotionen und Interessen der Mitarbeiter für das Projekt und deren Aufgaben wider. Dementsprechend sollte man dies vermitteln.
 
 ### Einführung / Kick-Off
 
