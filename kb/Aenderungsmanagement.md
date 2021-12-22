@@ -31,7 +31,7 @@ Am Änderungsprozess sind die gewohnten Projektrollen wie beispielsweise die [Pr
 
 # Was ist beim Änderungsmanagement zu beachten?[^1]
 
-Einer der wichtigsten Faktoren im Änderungsmanagement ist, dass die Änderungen transparent behandelt und genau dokumentiert werden. Dies führt dazu, dass alle Projektteilnehmer über die Änderung in Kenntnis gesetzt sind und Aufgaben, die aufgrund der Änderung nicht mehr notwendig sind, nicht fortgeführt werden. Um Transparenz zu gewährleisten, empfiehlt es sich, bei einer großen Anzahl an Projektteilnehmern eine Änderungskonferenz durchzuführen. Für die Dokumentation der jeweiligen Änderungen eignet sich ein Änderungsblatt. Einen Überblick über alle Änderungen in einem Projekt kann eine Änderungstabelle geben. Die Dokumentation kann durch IT Systeme wie beispielsweise Datenbankmanagementsysteme unterstützt werden. Im Allgemeinen sollten in einem Unternehmen für das Änderungsmanagement Standardprozesse angelegt werden.
+Einer der wichtigsten Faktoren im Änderungsmanagement ist, dass die Änderungen transparent behandelt und genau [dokumentiert](Projektdokumentation.md) werden. Dies führt dazu, dass alle Projektteilnehmer über die Änderung in Kenntnis gesetzt sind und Aufgaben, die aufgrund der Änderung nicht mehr notwendig sind, nicht fortgeführt werden. Um Transparenz zu gewährleisten, empfiehlt es sich, bei einer großen Anzahl an Projektteilnehmern eine Änderungskonferenz durchzuführen. Für die Dokumentation der jeweiligen Änderungen eignet sich ein Änderungsblatt. Einen Überblick über alle Änderungen in einem Projekt kann eine Änderungstabelle geben. Die Dokumentation kann durch IT Systeme wie beispielsweise Datenbankmanagementsysteme unterstützt werden. Im Allgemeinen sollten in einem Unternehmen für das Änderungsmanagement Standardprozesse angelegt werden.
 
 # Welche Vorteile bietet das Änderungsmanagement?[^5]
 
@@ -40,8 +40,8 @@ Ein Vorteil des Änderungsmangements besteht darin, dass den Änderungen struktu
 
 # Siehe auch
 
-* Vertragsänderungen
-* Änderungskosten
+* [Change Management](Change_Management.md)
+* [Risikomanagment](Risikomanagment.md)
 
 # Weiterführende Literatur
 
