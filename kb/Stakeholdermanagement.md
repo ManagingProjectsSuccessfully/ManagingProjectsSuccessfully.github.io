@@ -35,7 +35,7 @@ Es gibt trotz genauer Planung und Analyse auch ein paar Dinge, auf die man achte
 Dies ist in den meisten Projekten nicht möglich und führt nur zu Schwierigkeiten im Projektverlauf. Stattdessen sollte man auf die verschiedenen Reaktionen der Stakeholder 
 achten und auf diese bestmöglich eingehen, auch wenn das Ergebnis nicht allen Gruppen gerecht wird.[^5]
 
-# Fazit
+# Ziele
 Das Ziel des Stakeholdermanagements ist letztendlich die Einbindung aller relevanten Stakeholder in das Projekt. Die Kommunikation und der Informationsaustausch mit den
 verschiedenen Gruppen steht hier im Mittelpunkt. So können viele Probleme und Sorgen geklärt werden und das erfolgreiche Ende des Projekts gewährleistet werden. Optimal wäre
 es, wenn alle Bedürfnisse aller Stakeholder befriedigt werden können. Dies ist aber recht unwahrscheinlich, da es in einem Projekt immer auch sehr gegensätzliche Stakeholder 
