@@ -14,7 +14,7 @@ Kanban-Technik ist meistens Taiichi Ohno[^1] gekennzeichnet, der Kanban für den
 
 # Die Kanban-Vorteile für das Projektmanagement
 
-Die Vorteile des Kanbans sind sehr breit. Ursprünglich ist die Technik gemeint, um WIP (Work in Progress) und die Gesamtkosten des Bestandszustands zu minimalisieren [^6]. Außerdem hilft die Kanban-Technik die Arbeit besser zu visualisieren, indem uns die Übersicht über alle Projektsaufgaben gibt, und auch limitiert die Arbeit im Prozess, die auf einzelnen Mitarbeitern liegt [^7]. Sogar laut einer Studie, zeigt Kanban bessere Ergebnisse der Effektivität für die Softwaresentwicklungsprojekte im Vergleich zu [Scrum](SCRUM.md)[^8].
+Die Vorteile des Kanbans sind sehr breit. Ursprünglich ist die Technik, um WIP (Work in Progress) und die Gesamtkosten des Bestandszustands zu minimalisieren [^6]. Außerdem hilft die Kanban-Technik die Arbeit besser zu visualisieren, indem uns die Übersicht über alle Projektsaufgaben gegeben wird, und auch limitiert die Arbeit im Prozess, die auf einzelnen Mitarbeitern liegt [^7]. Sogar laut einer Studie, zeigt Kanban bessere Ergebnisse der Effektivität für die Softwaresentwicklungsprojekte im Vergleich zu [Scrum](SCRUM.md)[^8].
 
 # Die Prinzipien und Praktiken in Kanban
 
@@ -32,8 +32,8 @@ WIP kann man erklären wie eine Nummer der parallelen Prozesse, die für jedes P
 
 *Bild 2.[^12], Sequentielle vs. quasisimultane Prozesse*
 
-Um dies zu verhindern, kommt Kanban mit dem Begriff WIP-Limite (Work in Progress Limit). Es ist gemeint, die Nummer der Arbeitsaufgaben zu limitieren. Die 
-WIP-Limite ist ein Grundprinzip von den allen Grundprinzipen in Kanban und deshalb ist es wichtig, damit zu arbeiten lernen. Die WIP-Limite ist aber nicht nur einmal festgestellt und dann kann man damit nichts machen. Die WIP-Limite muss sich der Änderung in der Situation anpassen.[^12]
+Um dies zu verhindern, kommt Kanban mit dem Begriff WIP-Limite (Work in Progress Limit). Es ist damit gemeint, die Nummer der Arbeitsaufgaben zu limitieren. Die 
+WIP-Limite ist ein Grundprinzip von den allen Grundprinzipen in Kanban und deshalb ist es wichtig, damit arbeiten zu lernen. Die WIP-Limite ist aber nicht nur einmal festgestellt und dann kann man damit nichts machen. Die WIP-Limite muss sich der Änderung in der Situation anpassen.[^12]
 
 # Die Vorteile der WIP-Limite[^12]
 
