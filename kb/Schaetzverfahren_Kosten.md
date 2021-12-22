@@ -43,7 +43,7 @@ wie auch die [Bottom-up](Bottom_Up_Planning.md) Schätzung am weitläufigsten ve
 
 Mit der Einführung dieser Methoden gelingt es die Projektrisiken zu minimieren und einen kostentreuen Projektverlauf zu gestalten (Msg-systems, 2013). 
 Wobei man in den ersten Phasen noch nicht genau bestimmen kann, wie hoch diese Kosten sein werden. 
-Eine Nachschätzung ist in jeder [Projektphase](Projektphasen_klassich.md) notwendig und wird im Laufe des Projektes immer genauer. 
+Eine Nachschätzung ist in jeder [Projektphase](Projektphasen_klassisch.md) notwendig und wird im Laufe des Projektes immer genauer. 
 Erst gegen Ende des Projektzyklus ist eine präzisere Annäherung der Gesamtkosten erreichbar [^3]. 
 
 
@@ -85,7 +85,7 @@ auf die verbrauchten Aufwände eines Projekts hat [^3].
 * [Projektmitglieder](Projektmitglieder.md)
 * [Projektauflösung](Projektaufloesung.md)
 * [Bottom_Up_Planning](Bottom_Up_Planning.md)
-* [Projektphasen](Projektphasen_klassich.md)
+* [Projektphasen](Projektphasen_klassisch.md)
 * [Projektteam](Projektteam_Kultur.md)
 * [Business Case](Business_Cases.md)
 * [Projektmanagement](Projektmanagement.md)
