@@ -51,16 +51,18 @@ Schlussendlich dient die Differenzierung in verschiedene Projektarten als Grunds
 
 # Weiterführende Literatur
 
-[Handbuch Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-642-21243-7.pdf)
+[Die Projekt-Methode](https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6386614)
+[Projekdefinition und Arten](https://www.youtube.com/watch?v=Wv70nDefyNk)
+[Das PMO in der Praxis](https://www.gpm-ipma.de/fileadmin/user_upload/Know-How/studien/201410_PMO_Studie_web.pdf)
 
 
 # Quellen
 
 [^1]: [Handbuch Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-642-21243-7.pdf)
 [^2]: [Die Klassifikation von Projekten](https://www.peterjohann-consulting.de/klassifikation-von-projekten/#4_haufige_fragen_und_antworten_zur_klassifikation_von_projekten)
-[^3]: [Die Projekt-Methode](https://ebookcentral.proquest.com/lib/erlangen/reader.action?docID=6386614)
+[^3]: [Basiswissen Projektmanagement-Grundlagen der Projektarbeit](https://www.projektivisten.de/fileadmin/user_upload/downloads/Band-1-Basiswissen-Projektmanagement.pdf)
 [^4]: [Anwendungsbezogenes Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-662-52974-4.pdf)
 [^5]: [Herausforderungen an das Projektmanagement: Unterschiedliche Arten von Projekten.](https://www.youtube.com/watch?v=Ar-qjMOsh7U)
 [^6]: [Projektarten: Routine-Projekt? Groß-Projekt? Innovations-/Change-Projekt?](https://www.youtube.com/watch?v=6L393nHIOS8)
-[^7]: [Projektarten-Matrix](https://www.shitbydave.raemyweb.site/)
+[^7]: [Projekt-Arten (-Charakter) - Definition](https://www.kraus-und-partner.de/wissen-und-co/wiki/projekt-arten-charakter-projekte-beratung)
 
