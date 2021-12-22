@@ -10,7 +10,12 @@ Die Projektsteuerung ist eine der wichtigsten Elemente im [Projektmanagement](Pr
 
 
 
+
+
 ![Abbildung](Projektsteuerung/Bauarbeiter.jpg)
+
+
+
 
 
 # Aufgabenbereich Projektsteuerung
