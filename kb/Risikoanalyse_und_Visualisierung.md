@@ -12,17 +12,16 @@ Risikoanalyse ist ein Teil des [Risikomanagements](Risikomanagement.md), welcher
 ## Allgemeines
 Unter einem Risiko versteht man ein ungewisses Ereignis oder eine ungewisse Bedingung, die, wenn sie eintritt, einen positiven oder negativen Effekt auf ein oder mehrere Projektziele hat[^1].
 
-Risikoanalyse ordnet sich neben Risikoaggregation, Risikobewältigung, Risikoüberwachung im Risikomanagement ein[^4].
+Risikoanalyse ordnet sich neben Risikoaggregation, Risikobewältigung, Risikoüberwachung im [Risikomanagement](Risikomanagement.md) ein[^4].
 
 Je nach Quelle unterteilt sich der Prozess der Risikoanalyse in zwei Unterteile: 
 1. Die Risikoidentifikation und 
-2. die Risikoquantifizierung, also die Analyse der im 1. Schritt gefundenen Risiken[^3] [^5] 
+2. die Risikoquantifizierung[^3] [^5] 
 
-oder die Risikoanalyse und die Risikoidentifikation werden als seperate Schritte des Risikomanagements gesehen [^2].
+oder die Risikoanalyse und die Risikoidentifikation werden als seperate Schritte des [Risikomanagements](Risikomanagement.md) gesehen [^2].
 
 
 Risikoidentifikation ist der Prozess des systematischen Auffindens von Risiken fuer ein Projekt.
-
 Risikoanalyse laesst sich in zwei Kategorien unterteilen:
 1. Qualitative Risikoanalyse
 2. Quantitative Risikoanalyse
@@ -32,7 +31,7 @@ Quantitative Risikoanalyse ist die objektive, mathematische Analyse von Risiken,
 Dagegen ist qualitative Risikoanalyse eine Analysemethode, bei der Risiken nicht mit numerisch und quantitativen Werten ermittelt und bewertet werden. Stattdessen werden die einzelnen Risikomerkmale eines Projekts, die Wahrscheinlichkeit des Eintretens und die Auswirkungen, die sie im Falle des Eintretens auf das Projekt haben würden, anhand einer Skala bewertet. Ein prominents Beispiel zur qualitativen Risikoanalyse ist die [Risikomatrix](Risikomatrix.md).
 
 
-### Ziel von Risikoanalyse
+## Ziel von Risikoanalyse
 
 > _Ziel der Risikoanalyse ist es, durch ein möglichst strukturiertes Vorgehen die wesentlichen Risiken z.B. eines Unternehmens, Geschäftsbereichs oder Projektes zu erkennen und zu priorisieren; möglichst basierend auf einer nachvollziehbaren quantitativen Beschreibung des Risikos_[^3]. 
 
@@ -44,7 +43,7 @@ Im Allgemeinen besteht der Prozess der Risikoanalyse aus drei aufeinander folgen
 3. Quantitative Risikoanalyse
 
 Die quantitative Risikoanalyse baut oft auf den Ergebnissen der qualitativen Risikoanalyse auf.
-Je nach Definition von Risikoanalyse wird der erste Schritt als ein gesonderter Prozess des Risikomanagements betrachtet.
+Je nach Definition von Risikoanalyse wird der erste Schritt als ein gesonderter Prozess des [Risikomanagements](Risikomanagement.md) betrachtet.
 
 <!-- ![Project Risk Management Process Flow Diagram  [^2]](Risikoanalyse_und_Visualisierung/riskManagement_process.png)
 <!-- !{Hier Grafik 3-1 aus [^2] einfuegen.} -->
@@ -57,7 +56,7 @@ Die verschiedenen Methoden der Risikoanalyse fallen entweder unter die Kategorie
 
 ### Methoden der quantitativen Risikoanalyse -->
 
-### Methodentabelle
+### Methodentabelle[^6]
 
 
 | Methode  | Beschreibung |
@@ -73,11 +72,13 @@ Die verschiedenen Methoden der Risikoanalyse fallen entweder unter die Kategorie
 |  Projekt-Simulation  |  Sowohl qualitativ als auch quantitativ, nützlich für die Teambildung, teuer in der Umsetzung  |
 |  Stochastische Simulation  |  Quantitativ, häufig verwendet, oft missbraucht, daher müssen die Grenzen deutlich gemacht werden  |
 |  Additiver Modus  |  Quantitativ, kann bei Projektfortschritt angepasst werden  | 
-[^6]
+
 
 <!-- tabelle von hier zitieren: (https://www.nap.edu/read/11183/chapter/6#39) -->
 
 # Risikovisualisierung
+<img align="right" src="./Risikoanalyse_und_Visualisierung/risikovisualisierung.png">
+
 > _“Risk visualization is the systematic effort of using images to augment thequality of risk communication alongthe entire risk management cycle”_[^8]
 
 Risikovisualisierung ist der systematische Einsatz von Bildern zur Verbesserung der Qualität der Risikokommunikation während des gesamten Risikomanagementzyklus. Risikovisualisierung ist eine Art von Risikokommunikation. 
@@ -98,10 +99,6 @@ Risikovisualisierung kann sich verschiedener Methoden bedienen, zum Beispiel Bil
 * [Risikodimensionen](Risikodimensionen.md)
 * [Risikomanagement](Risikomanagement.md)
 * [PMBOK Guide](PMBOK_Guide.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
