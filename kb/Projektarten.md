@@ -42,7 +42,7 @@ Die Klassifizierung von Projekten hilft den [Entscheidungsträgern](Projektleite
 
 # Fazit
 
-Die Betrachtung der Projektarten verdeutlicht die unterschiedlichen Charakteristika von Projekten und den damit verbundenen Anforderungen. Dadurch können Entscheidungen hinsichtlich des Managements reflektierter und effizienter getroffen werden. Schlussendlich dient die Differenzierung in verschiedene Projektarten als Grundstein für eine [erfolgreiche Projektdurchführung](Praxisbeispiele_erfolgreiche_Projekte.md).
+Die Betrachtung der Projektarten verdeutlicht die unterschiedlichen Charakteristika von Projekten und den damit verbundenen [Anforderungen](Anforderungsmanagement.md). Dadurch können Entscheidungen hinsichtlich des Managements reflektierter und effizienter getroffen werden. Schlussendlich dient die Differenzierung in verschiedene Projektarten als Grundstein für eine [erfolgreiche Projektdurchführung](Praxisbeispiele_erfolgreiche_Projekte.md).
 
 
 # Siehe auch
