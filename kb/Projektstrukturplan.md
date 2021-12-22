@@ -17,7 +17,7 @@ Die folgende Grafik veranschaulicht die Grundstruktur eines Projektstrukturplans
 
 _Abbildung 1: Grundstruktur_
 
-# Formen
+# Gliederungsarten
 Grundsätzlich kann zwischen drei verschiedenen Formen von Projektstrukturplänen unterschieden werden: 
 
 * objektorientiert 
