@@ -47,7 +47,7 @@ Im besten Fall bearbeitet jeder überwiegend Aufgaben, die als dringlich und wic
 
 Der größte **Nachteil** ist, dass das Eisenhower Prinzip überwiegend für Personen in Führungspositionen geeignet ist, die Aufgaben an andere weitergeben können. In der Schule, in der Universität und in vielen Berufsgruppen gibt es diese Möglichkeit nicht. Im Normalfall werden hierbei alle Aufgaben selsbt erledigt, auch die C-Aufgaben.
 
-Ein weiterer Kritikpunkt richtet sich an das Kriterium der Wichtigkeit. Sie ist oft nur subjektiv und daher ist es nicht immer eindeutig, ob eine Aufgabe wichtig oder unwichtig ist. Es befindet sich oft kein äußerer Faktor, der die Wichtigkeit bestimmt im Gegensatz zum Kriterium der Dringlichkeit, wo z.B. Deadlines anstehen.
+Ein weiterer Kritikpunkt richtet sich an das Kriterium der Wichtigkeit. Sie ist oft nur subjektiv und daher ist es nicht immer eindeutig, ob eine Aufgabe wichtig oder unwichtig ist. Es befindet sich oft kein äußerer Faktor, der die Wichtigkeit bestimmt im Gegensatz zum Kriterium der Dringlichkeit, wo beispielsweise Deadlines anstehen.
 
 Kritiker kamen zu der Erkenntnis, dass wichtige Aufgaben nur selten dringend seien und dringende Aufgaben nur selten wichtig seien.
 Diese Betrachtungsweise stellt das gesamte Prinzip infrage.[^3]
