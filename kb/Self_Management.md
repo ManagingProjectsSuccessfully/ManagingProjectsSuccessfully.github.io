@@ -41,7 +41,7 @@ Wobei die Ziele in Kriterien eingeteilt werden und der Fokus liegt darin sie pos
 Bei der ALPEN-Methode geht es darum sich einen Überblick zu schaffen, was erledigt werden muss und dies in eine Liste umzuformulieren und diese des weiteren zu priorisieren. Am Ende des Tages schafft man sich eine Übersicht was geschafft werden muss und die Aufgaben die übrig bleiben werden auf den nächsten Tag verschoben. [^1]
 
 # Fazit
-Im Allgemeinen lässt sich sagen, dass man durch effektives Selbstmanagement strukturierter und effizienter arbeitet, man viele Kompetenzen dazu lernen kann, viel stress vermeidet wird und im Allgemeinen die work-life-balance um einiges verbessert werden kann. 
+Im Allgemeinen lässt sich sagen, dass man durch effektives Selbstmanagement, strukturierter und effizienter arbeitet, man viele Kompetenzen dazu lernen kann, viel stress vermieden wird und im Allgemeinen die work-life-balance um einiges verbessert werden kann. 
 Jedoch bietet das Self-management nicht nur Vorteile für den Manager oder die Führungsperson, die diese Methoden anwenden, sondern auch für den Arbeitgeber der durch die entstehende Produktivität seine Vorteile ziehen kann, wie z.B. der daraus entstehende Profit. 
 
 # Weiterführende  Literatur
