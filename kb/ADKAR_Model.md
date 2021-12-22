@@ -20,7 +20,7 @@ Nachfolgende Fragestellungen können dabei helfen, diesen Schritt auszuführen:
 - Welche Veränderung ist notwendig? [^3]
 - Warum ist die Veränderung notwendig? [^3] [^4]
 - Welche Auswirkungen birgt die Veränderung? [^3]
-- Was passiert, wenn keine Veränderung eintrifft? [^3] [^4]
+- "Was passiert, wenn keine Veränderung eintrifft?" [^4]
 
 
 ## Desire 
