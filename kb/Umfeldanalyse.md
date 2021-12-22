@@ -64,6 +64,14 @@ Mit den gefundenen Einflussfaktoren wird dann weiterbearbeitet. Hier geht die An
 * zeitaufwendig
 * hohe Kosten
 
+## Siehe auch:
+1. [Stakeholderanalyse](Stakeholderanalyse.md)
+2. [SWAT_Analyse](SWAT_Analyse.md)
+3. [Risikomanagement](Risikomanagement.md)
+4. [Risikomap](Risikomap.md)
+5. [Qualitaetsmanagement](Qualitaetsmanagement.md)
+6. [Qualitaetssicherung](Qualitaetssicherung.md)
+
 ## Quellen
 * Projekt-leicht-gemacht, [Die Umfeldanalyse einfach erklärt](https://projekte-leicht-gemacht.de/blog/methoden/projektstart/die-umfeldanalyse-einfach-erklaert/) 
 * Projektmagazin, [Umfeldanalyse](https://www.projektmagazin.de/methoden/umfeldanalyse)
