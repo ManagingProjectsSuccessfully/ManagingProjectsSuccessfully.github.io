@@ -36,40 +36,40 @@ Bei dieser Ebene muss sichergestellt werden, dass die Person das benötigte Wiss
 
 ## Ability
 
-"Knowing how to do something and being able to do something is not necessarily the same thing." Es muss sichergestellt werden, dass die Person die Fähigkeit besitzt, die bereits vorangegangenen drei Schritte in die Praxis umzusetzen. [^6] Mögliche Hilfestellungen hierbei können Coachings, Feedback und mehr Übung sein. [^7]
+"Knowing how to do something and being able to do something is not necessarily the same thing."[^6] Es muss also sichergestellt werden, dass die Person die Fähigkeit besitzt, die bereits vorangegangenen drei Schritte in die Praxis umzusetzen. [^7] Mögliche Hilfestellungen hierbei können Coachings, Feedback und mehr Übung sein. [^8]
 
 
 ## Reinforcement
 
 Dieser letzte Schritt der Verstärkung wird meistens vergessen oder zu kurz ausgeführt. Damit Veränderungen jedoch langfristig bestehen können, ist es sehr wichtig, diesen Schritt auszuüben, denn erst jetzt wird die Veränderung normalisiert. 
 Feedbackgespräche, aber auch das Loben der Mitarbeiter, können helfen die Veränderung zu bestärken. 
-Wenn dieser Schritt nicht oder zu wenig durchgeführt wird, kann es sein, dass die Veränderung nicht beständig ist und man daher wieder bei „Awareness“ anfangen muss. [^8]
+Wenn dieser Schritt nicht oder zu wenig durchgeführt wird, kann es sein, dass die Veränderung nicht beständig ist und man daher wieder bei „Awareness“ anfangen muss. [^9]
 
 
 # 3) Wie funktioniert das ADKAR Modell?
 
 Es ist notwendig, die oben genannten Schritte nacheinander mit jedem einzelnen Individuum durchzuführen. Da die Stufen aufeinander aufbauen, würde ein Überspringen oder mangelhaftes Bearbeiten nicht zu dem gewünschten Ergebnis führen, weshalb man somit gezwungen wäre, noch einmal von vorne anzufangen. 
 
-Neben den oben genannten Schritten ist auch eine regelmäßige Bewertung notwendig. Die Bewertung erfolgt auf einer Skala von eins bis fünf, wobei eins schlecht und fünf das Optimum darstellt. Erst nachdem man einen der fünf Meilensteine erfolgreich abgeschlossen hat, d.h. mit mindestens drei Punkten, darf man zu dem nächsten Schritt übergehen.[^4] [^9]
+Neben den oben genannten Schritten ist auch eine regelmäßige Bewertung notwendig. Die Bewertung erfolgt auf einer Skala von eins bis fünf, wobei eins schlecht und fünf das Optimum darstellt. Erst nachdem man einen der fünf Meilensteine erfolgreich abgeschlossen hat, d.h. mit mindestens drei Punkten, darf man zu dem nächsten Schritt übergehen.[^4] [^10]
 
 # 4) Anwendungsbereiche
 
-Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Veränderung des Unternehmens erfolgen kann. Aus diesem Grund findet dieses Modell bei persönlichen als auch bei größeren Gruppierungen wie beispielsweise Organisationen Anwendung. [^4] [^9]
+Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Veränderung des Unternehmens erfolgen kann. Aus diesem Grund findet dieses Modell bei persönlichen als auch bei größeren Gruppierungen wie beispielsweise Organisationen Anwendung. [^4] [^10]
 
 
 # 5) Vor- und Nachteile
 
 ## Vorteile 
 
-- Der Fokus liegt auf dem Ergebnis und nicht auf den Aufgaben [^10] [^11] [^12]
-- Der Fortschritt der Veränderung ist messbar [^10] [^11] [^12]
-- Das Modell erkennt die Bedeutung der Mitarbeiter an [^10] [^11] [^12]
+- Der Fokus liegt auf dem Ergebnis und nicht auf den Aufgaben [^11] [^12] [^13]
+- Der Fortschritt der Veränderung ist messbar [^11] [^12] [^13]
+- Das Modell erkennt die Bedeutung der Mitarbeiter an [^11] [^12] [^13]
 
  
 ## Nachteile
 
-- Die Komplexität von Veränderungen wird ignoriert [^10] [^11] [^12]
-- Das Modell ist eher für kleinere Organisationen geeignet [^10] [^11] [^12]
+- Die Komplexität von Veränderungen wird ignoriert [^11] [^12] [^13]
+- Das Modell ist eher für kleinere Organisationen geeignet [^11] [^12] [^13]
  
 # Weiterführende Literatur
 [ADKAR: A Model for Change in Business, Government, and Our Community](https://books.google.de/books?hl=de&lr=&id=Te_cHbWv-ZgC&oi=fnd&pg=PA1&dq=adkar+model&ots=1shIh6o-MM&sig=vPU70TCQTX4s3qEokl1fAujTR-E&redir_esc=y#v=onepage&q=adkar%20model&f=false)
@@ -88,10 +88,11 @@ Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Ver
 [^3]: [ADKAR MODEL EXPLAINED -PART 2- Awareness](https://youtube.com/watch?v=PwwoyzVfsS8)
 [^4]: [Wie das ADKAR Change Management Modell funktioniert](https://mind-force.de/vertrieb/wie-das-adkar-change-management-modell-funktioniert/)
 [^5]: [ADKAR MODEL EXPLAINED -PART 3- Desire](https://youtube.com/watch?v=LNT3Rxci-hU)
-[^6]: [ADKAR MODEL EXPLAINED -PART 5- Ability](https://youtube.com/watch?v=XvIYdQ8Bp5k)
-[^7]: [Ability - The Prosci ADKAR Model](https://www.prosci.com/resources/articles/adkar-model-ability)
-[^8]: [ADKAR MODEL EXPLAINED -PART 6- Reinforcement](https://youtube.com/watch?v=QQjyfN7XoQE)
-[^9]: [ADKAR MODEL EXPLAINED -PART 1- How does it work?](https://youtube.com/watch?v=Bg5dy1pFdzg)
-[^10]: [ADKAR Model of Change Management](http://changemanagementinsight.com/adkar-model-of-change-management/)
-[^11]: [ADKAR Model of Change](https://expertprogrammanagement.com/2018/02/adkar-model-of-change/)
-[^12]: [ADKAR Change Management Model](https://www.youtube.com/watch?v=oMiI59NMO2Q)
+[^6|: [ADKAR: A Model for Change in Business, Government, and Our Community S.30](https://books.google.de/books?hl=de&lr=&id=Te_cHbWv-ZgC&oi=fnd&pg=PA1&dq=adkar+model&ots=1shIh6o-MM&sig=vPU70TCQTX4s3qEokl1fAujTR-E&redir_esc=y#v=onepage&q=adkar%20model&f=false)
+[^7]: [ADKAR MODEL EXPLAINED -PART 5- Ability](https://youtube.com/watch?v=XvIYdQ8Bp5k)
+[^8]: [Ability - The Prosci ADKAR Model](https://www.prosci.com/resources/articles/adkar-model-ability)
+[^9]: [ADKAR MODEL EXPLAINED -PART 6- Reinforcement](https://youtube.com/watch?v=QQjyfN7XoQE)
+[^10]: [ADKAR MODEL EXPLAINED -PART 1- How does it work?](https://youtube.com/watch?v=Bg5dy1pFdzg)
+[^11]: [ADKAR Model of Change Management](http://changemanagementinsight.com/adkar-model-of-change-management/)
+[^12]: [ADKAR Model of Change](https://expertprogrammanagement.com/2018/02/adkar-model-of-change/)
+[^13]: [ADKAR Change Management Model](https://www.youtube.com/watch?v=oMiI59NMO2Q)
