@@ -67,11 +67,11 @@ Zudem wird der Beruf Projektleiter sehr gut vergütet, „[l]aut Glassdoor liegt
 * [Who is Who Projectmanagement](Who_is_Who_Projectmanagement.md) 
 * [Projektmanagement](Projektmanagement.md)
 * [Projekt](Projekt.md)
-* [Bottom up Planning](Bottom_Up_Planning)
-* [Top Down Planning](Top_Down_Planning) 
+* [Bottom up Planning](Bottom_Up_Planning.md)
+* [Top Down Planning](Top_Down_Planning.md) 
 * [Projektmitarbeiter](Projektmitarbeiter.md)
 * [Aufgabenteilung](Aufgabenteilung.md) 
-* [Projektportfoliomanagement](Projektportfoliomanagementmd.)
+* [Projektportfoliomanagement](Projektportfoliomanagement.md)
 
 # Weiterführende Literatur
 
