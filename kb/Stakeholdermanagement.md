@@ -4,7 +4,7 @@ tags: klassisch
 author: JonathanLoewing
 anrechnung: k
 ---
-# Stakeholdermanagement
+
 Stakeholdermanagement zielt auf die Bedürfnisbefriedigung der verschiedenen Interessensgruppen in einem Projekt und die gemeinsame Problemlösung mit diesen ab.[^4]
 
 # Identifikation
