@@ -2,103 +2,54 @@
 title: Scrum_Master
 tags: agil klassisch
 author: Phr4nk20
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Scrum_Master um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# 1.	Definition Scrum Master
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Der Scrum Master ist eine von drei Rollen die es in [Scrum](Scrum.md) gibt. Als Scrum Master trägt man die Verantwortung, dass das Scrum Team möglichst effektiv und ungestört arbeiten kann. Also die Person, die darauf achtet, dass die wenigen Scrum Regeln des [Scrum Guide](Scrum_Guide.md) reibungslos funktionieren und das alle Beteiligten die Scrum - Theorie, Praktiken, Regeln und Werte verstehen lernen.[^1]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# 2. Aufgaben des Scrum Master
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Allgemein ist der Scrum Master für die Umsetzung von Scrum verantwortlich. Seine Aufgaben sind dabei vielfältig. Er agiert als Moderator, Vermittler, Prozessbegleiter, Unterstützer und Coach. Er hilft Entwicklern und dem [Product Owner](Product_Owner.md) – den beiden anderen Verantwortlichkeiten, die Scrum als Framework definiert – dabei, Ziele gemeinsam zu erreichen, indem er seine Kollegen befähigt und die Zusammenarbeit fördert. Darüber hinaus wirkt er auch in Richtung der Organisation.[^2] Konkrete Aufgaben umfassen
+*	Schutz das Scrum Team vor unnötigen Einflüssen von außen
+*	Moderation von Meetings ([Daily Scrum](Daily_Scrum.md)
+*	Coachen des Entwicklungsteam in Selbstorganisation und funktionsübergreifender Teamarbeit
+*	Beseitigung von Impediments
+*	Unterstützung der Organisation bei der Einführung von Scrum
+*	Arbeit an Organisationsveränderungen, die dem Team helfen, produktiver zu sein[^3]
+*	Sicherstellen, dass alle im Scrum Team die Ziele richtig verstehen[^6]*
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# 3.	Eigenschaften eines guten Scrum Masters
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Prinzipien von Scrum mit seinen Verantwortlichkeiten, Events und Artefakten zu kennen, reicht nicht aus, um ein guter Scrum Master zu sein. Die breit gefächerten Aufgaben eines Scrum-Masters lassen bereits erahnen welche Kompetenzen einen Scrum Master auszeichnen. 
 
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Scrum_Master/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+*	Kommunikativ
+Er kommuniziert mit dem Team klar, offen und stets transparent. Er hat keine Scheu Probleme anzusprechen.[^4]
+*	Motivierend
+Ein guter Scrum Master sollte „unbequem sein, ohne unangenehm zu sein“. Das heißt er motiviert das Team zu immer besseren Leistungen und stellt wichtige Fragen, auch wenn das bedeutet dass das Team die Komfortzone verlassen muss.[^4]
+*	Teamfähig
+Wie alle Mitglieder des Scrum-Teams sollte der Scrum Master absolut teamstark sein. Da er ständig mit verschiedenen Teams und Stakeholdern im Unternehmen in Kontakt ist und an den Schnittstellen arbeitet, ist die Teamfähigkeit eine der wichtigsten Eigenschaften des Scrum Masters. Denn er ist derjenige, der die mentale Infrastruktur für das agile Arbeiten im Unternehmen schafft.[^5]
+*	Wissend 
+Natürlich hat der Scrum Master den Scrum Guide verinnerlicht. Wenn es Fragen zu Scrum gibt, sollte der Scrum Master die Antwort darauf kennen und weiterhelfen können.[^5]
 
 
-# Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Scrum_Master.md)
+# 4.	Kritik an der Bezeichnung
+Die Bezeichnung „Master“ erfährt immer wieder Kritik. So impliziere „Master“ eine Hierarchie innerhalb einer Organisation. Diese Implikation ist jedoch irreführend, ein Scrum Master ist ein Master of Scrum. Er ist ein Experte in der Theorie und Praxis von Scrum. Durch seine Arbeit ist er ein Dienstleister für den Product Owner, die Entwickler und die gesamte Organisation. Er besitzt keine Weisungsbefugnis oder Entscheidungsgewalt, ist weder Diener noch Vorgesetzter, sondern agiert auf Augenhöhe mit seinen Kollegen.[^2]
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
+
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [scrum events](https://www.scrum-events.de/was-sind-die-aufgaben-des-scrum-masters.html)
+[^2]: [t2 Informatik](https://t2informatik.de/wissen-kompakt/scrum-master/)
+[^3]: [it agile](https://www.it-agile.de/agiles-wissen/scrum/was-macht-der-scrum-master-den-ganzen-tag/)
+[^4]: [mint solutions](https://www.mint-solutions.de/mint-blog/agilitaet/scrum-master-umfrage-2/)
+[^5]: [karrieretutor](https://blog.karrieretutor.de/gefragte-berufe/scrum-master/)
+[^6]: [hays](https://www.hays.de/jobprofile/scrum-master)
 
