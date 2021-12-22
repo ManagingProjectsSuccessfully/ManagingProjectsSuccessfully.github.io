@@ -8,7 +8,7 @@ anrechnung: k
 # Definition Projektsteuerung
 Die Projektsteuerung ist eine der wichtigsten Elemente im [Projektmanagement](Projektmanagement.md). Diese ist unter anderem mit [Projektcontrolling](Projektcontrolling.md) gleichzusetzen. Der Projektleiter kommt am häufigsten im Baumanagement bzw. bei einem Bauvorhaben zum Einsatz vor. Wie der Begriff Steuerung bereits impliziert, geht es vor allem um die Veranlassung, Kontrolle und Gewährleistung der Durchführung von freigegebenen Projekten. [^1] (
 
-![Abbildung](Projektsteuerung/Bauarbeiter.jpg)
+![Abbildung] (Projektsteuerung/Bauarbeiter.jpg)
 
 
 # Aufgabenbereich Projektsteuerung
