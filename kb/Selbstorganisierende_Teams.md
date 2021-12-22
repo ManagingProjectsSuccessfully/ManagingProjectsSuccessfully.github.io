@@ -10,7 +10,7 @@ Selbstorganisierende Teams sind ein Kernelement in agilen Projekten. Sie haben k
 
 # Was sind selbstorganisierende Teams? 
 
-Selbstorganisierende Teams sind eine Gruppe von Mitarbeitern die, die Verantwortung für ihre Arbeit und sich selbst übernehmen. Hierbei muss das Team die Aufgaben gemeinsam verteilen. Zudem müssen sie dabei selbst überlegen wie die Aufgaben unterteilt werden können. Im Scrum-Framework wird dafür das [Sprint Planning](Sprint_Planning.md) benutzt. Auch muss das Team die richtige Entscheidung treffen wer für welche Aufgabe geeignet ist. Darüber hinaus überwacht ein selbstorganisiertes Team den Arbeitsfortschritt selbst, dies passiert im Scrum-Framework in den [Dailies](Daily_Scrum.md). Es ist auch die Aufgabe des Teams Probleme selbst zu erkennen und die Teamorganisation zu verbessern, hierzu wird die [Retrospektive](Retrospective.md) im Scrum-Framework genutzt. 
+Selbstorganisierende Teams sind eine Gruppe von Mitarbeitern, die die Verantwortung für ihre Arbeit und sich selbst übernehmen. Hierbei muss das Team die Aufgaben gemeinsam verteilen. Zudem müssen sie dabei selbst überlegen wie die Aufgaben unterteilt werden können. Im Scrum-Framework wird dafür das [Sprint Planning](Sprint_Planning.md) benutzt. Auch muss das Team die richtige Entscheidung treffen wer für welche Aufgabe geeignet ist. Darüber hinaus überwacht ein selbstorganisiertes Team den Arbeitsfortschritt selbst, dies passiert im Scrum-Framework in den [Dailies](Daily_Scrum.md). Es ist auch die Aufgabe des Teams Probleme selbst zu erkennen und die Teamorganisation zu verbessern, hierzu wird die [Retrospektive](Retrospective.md) im Scrum-Framework genutzt. 
 
 Auch spricht man im agilen Umfeld nicht von Aufgaben, sondern von Kundenanforderungen sogenannten User Stories, welches die Orientierung für das Team sind das Projektziel zu erreichen. Dies wäre beispielsweise eine Aufgabe für den [Product Owner](Product_Owner.md) des selbstorganisierenden Teams. 
 Einen klassischen Projektleiter gibt es nicht, dennoch braucht jedes selbstorganisierende Team einen Coach, dieser ist in [Scrum](Scrum.md) der [Scrum Master](Scrum_Master.md). Er kümmert sich als Initiator, Motivator und Moderator dafür, dass das Team effizient arbeitet, aber auch gemeinsam an einem Strang zieht. 
@@ -26,7 +26,7 @@ Um ein selbstorganisiertes Team erfolgreich aufzubauen, braucht es an:
 * Verbesserung 
 * Motivation 
 
-Um jedoch eine Transition von traditionellen zu agilen Prozessen und Strukturen zu verwirklichen ist die Veränderung der ganzen Agilen Onion notwendig. Dafür ist ein Umdenken in Verantwortung und Entscheidungsfindung notwendig. 
+Um jedoch eine Transition von traditionellen zu agilen Prozessen und Strukturen zu verwirklichen muss die gesamte Agile Onion verändert werden. Dafür ist ein Umdenken in Verantwortung und Entscheidungsfindung notwendig. 
 
 <img src="Selbstorganisierende_Teams/Agile Onion.png" alt="Agile Onion" width="600"/>(vgl.[^3])
 
@@ -65,14 +65,14 @@ Der Weg zu einem erfolgreichen und selbstorganisierenden Team lässt sich in zwe
 # Mögliche Einwände gegen eine Transition 
 
 ## Die Erwartungen des Teams an den Scrum Master 
-Wenn ein Team passiv ist und erwartet, dass der Coach oder Scrum Master die Selbstorganisation und die Entscheidungen für sie trifft kann ein selbstorganisierendes Team nicht zustanden kommen. Hierbei ist es wichtig, dass die Teammitglieder verstehen, dass der Scrum Master das Team unterstützt, aber nicht Entscheidungen übernimmt. Dies muss offen kommuniziert werden. Auch kann der Scrum Master selbst Teammitglieder involvieren und als Moderator spezifisch erst nach der Meinung anderer fragen, bevor er seine preisgibt. 
+Wenn ein Team passiv ist und erwartet, dass der Coach oder Scrum Master die Selbstorganisation und die Entscheidungen für sie trifft, kann ein selbstorganisierendes Team nicht zustanden kommen. Hierbei ist es wichtig, dass die Teammitglieder verstehen, dass der Scrum Master das Team unterstützt, aber nicht Entscheidungen übernimmt. Dies muss offen kommuniziert werden. Auch kann der Scrum Master selbst Teammitglieder involvieren und als Moderator spezifisch erst nach der Meinung anderer fragen, bevor er seine preisgibt. 
 
 ## Dominante Personen setzten sich durch 
-Oft wird befürchtet, dass eine dominante Persönlichkeit seine Meinung dem Team aufzwingt und alle Entscheidungen trifft. In solch einem Fall ist es wichtig, dass der Vorgesetzter aller Teammitglieder, die dominante Person im persönlichen Gespräch auf seine Verhaltensweise aufmerksam macht und oftmals liegt es daran, dass solche Persönlichkeiten ihre Gedanken als eine Entscheidung darstellen, obwohl es ihre Meinung sein muss. Es ist wichtig, dass alle Teammitglieder wachsen und für zukünftige Projekte weitere Kompetenzen und Erfahrungen ansammeln.
+Oft wird befürchtet, dass eine dominante Persönlichkeit seine Meinung dem Team aufzwingt und alle Entscheidungen trifft. In solch einem Fall ist es wichtig, dass der Vorgesetzte aller Teammitglieder, die dominante Person im persönlichen Gespräch auf seine Verhaltensweise aufmerksam macht. Oftmals liegt es daran, dass solche Persönlichkeiten ihre Gedanken als eine Entscheidung darstellen, obwohl es ihre Meinung sein muss. Es ist wichtig, dass alle Teammitglieder wachsen und für zukünftige Projekte weitere Kompetenzen und Erfahrungen ansammeln.
 [^5]
 
 ## Fazit 
-Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Teams nicht nur die Projektdurchführung effizient verbessern können und somit auch dem Erfolg des Unternehmens beitragen, sondern auch die Teammitglieder selbst in ihrer eigenen Entwicklung und Selbstverwirklichung weiterbringen. Paradoxerweise ist dennoch die Selbstorganisation erst einmal fremdbestimmt, denn bestimmte Voraussetzungen, Richtlinien und organisatorische Strukturen müssen dennoch vorab geschaffen werden. Dies zeigt auch, dass der Mindset der Führung eine große Rolle dabei spielt ob und wie selbstorganisierende Teams verwirklicht werden können. 
+Zusammenfassend kann gesagt werden, dass erfolgreiche, selbstorganisierende Teams nicht nur die Projektdurchführung effizient verbessern können und somit auch dem Erfolg des Unternehmens beitragen, sondern auch die Teammitglieder selbst in ihrer eigenen Entwicklung und Selbstverwirklichung weiterbringen. Paradoxerweise ist dennoch die Selbstorganisation erst einmal fremdbestimmt, denn bestimmte Voraussetzungen, Richtlinien und organisatorische Strukturen müssen dennoch vorab geschaffen werden. Dies zeigt auch, dass der Mindset der Führung eine große Rolle dabei spielt, ob und wie selbstorganisierende Teams verwirklicht werden können. 
 
 <img src="Selbstorganisierende_Teams/Agile Manifesto Principle.png" alt="Agile Manifesto Principle" width="600"/>[^1]
 
