@@ -24,7 +24,7 @@ Auf seiner [Webseite](https://francescocirillo.com/pages/pomodoro-technique) ski
 4. Wenn der Timer klingelt, die erledigte Aufgabe von der To-do-Liste abhaken.
 5. Drei bis fünf Minuten Pause machen.
 6. Punkte 2 bis 5 wiederholen.
-7. Nach dem vierten Durchgang 20 bis 30 Minuten Pause machen.
+7. Nach dem vierten Durchgang 20 bis 30 Minuten Pause machen.[^2]
 
 Dadurch entsteht folgender Ablauf:
 
@@ -64,7 +64,7 @@ Die zweite Spalte ist für die Aufgaben reserviert. Sonst nichts.
 
 Jetzt wird es etwas interessanter. In der Spalte „Zeiteinheiten“ sind fünf leere Kästchen. Jedes steht für eine Pomodoro-Einheit. Bei der Planung überlege ich mir vorab, wie groß der Zeitbedarf für eine Aufgabe etwa sein könnte. Gehe ich von drei Pomodori aus, ziehe ich einen Rahmen um drei Kästchen. So kann ich im Nachhinein überprüfen, inwieweit es mir gelungen ist, den Zeitbedarf einzuschätzen. Abweichungen von der Schätzung sind eine Spalte weiter (+/-) einzutragen.
 
-In der letzten Spalte ist zum Abhaken der erledigten Aufgaben.[^2]
+In der letzten Spalte ist zum Abhaken der erledigten Aufgaben.[^3]
 
 # Vorteile und Nachteile 
 Wirkliche Pomodoro-Technik Nachteile gibt es nicht. Sie lässt genügend Flexibilität, die Zeitintervalle und den Tag so einzuteilen, dass es für Sie passt. Dafür sind die Vorteile umso zahlreicher.
@@ -93,7 +93,7 @@ Studien zeigen: Länger als 90 Minuten kann sich niemand am Stück konzentrieren
 Die Pomodoro Technik verhindert Multitasking und die Gefahr, sich zu verzetteln. Das steigert die Effizienz.
 + Zielerreichung
 
-Indem Sie sich nur auf eine Sache pro Intervall konzentrieren, arbeiten Sie insgesamt zielgerichteter. Und weil Sie große Aufgaben in überschaubare Teile zerlegen, fällt auch das Anfangen leichter. Effekt: Sie erreichen am Ende mehr und müssen sich weniger überwinden.[^3]
+Indem Sie sich nur auf eine Sache pro Intervall konzentrieren, arbeiten Sie insgesamt zielgerichteter. Und weil Sie große Aufgaben in überschaubare Teile zerlegen, fällt auch das Anfangen leichter. Effekt: Sie erreichen am Ende mehr und müssen sich weniger überwinden.[^4]
 
 # Kritik
 Natürlich gibt es auch an der Pomodoro-Technik Kritik. Die Hauptvorwürfe sind:
@@ -120,8 +120,9 @@ Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchha
 # Quellen
 
 [^1]: [Pomodorotechnique](pomodorotechnique.com)
-[^2]: [Zeitakrobat](https://zeitakrobat.de/pomodoro-methode-einfach-und-wirkungsvoll)
-[^3]: [Karrierbibel](https://karrierebibel.de/pomodoro-technik/)
-[^3]: [Asana](https://asana.com/de/resources/pomodoro-technique)
+[^2]: [Asana](https://asana.com/de/resources/pomodoro-technique)
+[^3]: [Zeitakrobat](https://zeitakrobat.de/pomodoro-methode-einfach-und-wirkungsvoll)
+[^4]: [Karrierbibel](https://karrierebibel.de/pomodoro-technik/)
+
 
 
