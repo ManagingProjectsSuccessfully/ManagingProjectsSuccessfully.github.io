@@ -63,7 +63,7 @@ Die Betrachtung der Projektarten verdeutlicht die unterschiedlichen Charakterist
 # Quellen
 
 [^1]: [Handbuch Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-642-21243-7.pdf)
-[^2]: [Die Klassifikation von Projekten](https://www.peterjohann-consulting.de/klassifikation-von-projekten/#4_haufige_fragen_und_antworten_zur_klassifikation_von_projekten)
+[^2]: [Projektmanagement-Eine Einführung](https://www.peterjohann-consulting.de/_pdf/peco-pm-einfuehrung.pdf)
 [^3]: [Basiswissen Projektmanagement-Grundlagen der Projektarbeit](https://www.projektivisten.de/fileadmin/user_upload/downloads/Band-1-Basiswissen-Projektmanagement.pdf)
 [^4]: [Anwendungsbezogenes Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-662-52974-4.pdf)
 [^5]: [Herausforderungen an das Projektmanagement: Unterschiedliche Arten von Projekten.](https://www.youtube.com/watch?v=Ar-qjMOsh7U)
