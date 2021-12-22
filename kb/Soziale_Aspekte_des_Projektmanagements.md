@@ -1,104 +1,56 @@
 ---
 title: Soziale_Aspekte_des_Projektmanagements
-tags: agil klassisch
+tags: agil
 author: Eugen0209
-anrechnung: k oder a
+anrechnung: a
 ---
+In einem Projekt sind viele Menschen beteiligt, die ein komplexes soziales Gefüge voller Unterschiede bilden. Dabei ist die soziale Kompetenz der beteiligten Personen, auch [Soft Skills](Softskills_im_Projektmanagement.md) genannt, von entscheidender Bedeutung. Abgesehen von den inhaltlichen und fachlichen Faktoren beeinflussen die menschlichen, also die „weichen Faktoren“, den Erfolg eines Projekts maßgeblich. Die Projektarbeit kann aber nur in einem Team erfolgen, welche als Projektteam zielgerichtet kreative Lösungsansätze für komplizierte Problemstellungen erarbeitet. Hierbei haben die verschiedenen Teammitglieder zugewiesene Rollen und Kompetenzen, die sie im Projekt ausüben. Im Folgenden werden die Projektrollen ausführlich erläutert.[^1][^2]
 
-Kurzbeschreibung zu Soziale_Aspekte_des_Projektmanagements um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Projektrollen
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+*	Projektauftraggeber: Er gilt als erfolgskritisch, da er Aufträge delegiert und der Vertragspartner des Projekts ist. Der Auftraggebende hat an Projektsitzungen teilzunehmen und muss strategische Entscheidungen treffen.
+*	Projektleiter: Die Durchführung und Zielerreichung des Projekts muss er sicherstellen. Der Leiter übernimmt die Führung des Teams und muss methodische, fachliche sowie soziale Kompetenzen aufweisen. Der Projektverlauf muss ständig kontrolliert und das Controlling der Arbeit durchgeführt werden. Management von Stakeholdern, Ausübung und Limitation von Macht, Grenzziehung, Überprüfung bei der Einhaltung von sozialen Regeln und die Konfliktauflösung zählen zu weiteren Aufgabengebieten.
+*	Projektmitglied: Muss das fachliche Know-How vorweisen. Selbstbewusstsein, Flexibilität und Durchsetzungsvermögen sind Voraussetzung. Aber auch die Mitglieder müssen sozial anpassungsfähig sein und gemeinsam eine Lösung finden.
+*	Projektcoach: Der Coach berät das Team während der Planungsphase und hilft bei der Konfliktbewältigung innerhalb der Gruppe. Rahmenbedingungen für die Entwicklung werden vorgegeben, dennoch muss er den „roten Faden“ verfolgen und dessen Einhaltung überprüfen.[^1][^3]
 
 
-# Aspekt 1
+## Projektleiter
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Der Projektmanager nimmt eine herausragende Rolle ein und muss viele Kompetenzen aufweisen, um ein Team zu führen. Dabei gibt es eine unterschiedliche Gewichtung dieser, wie in dieser [Grafik](https://pm-blog.com/2010/07/01/was-muss-ein-projektleiter-konnen/) veranschaulicht wird.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![Abbildung_2](Soziale_Aspekte_des_Projektmanagements/pl_kompetenzen.png)
 
-![Beispielabbildung](Soziale_Aspekte_des_Projektmanagements/test-file.jpg)
 
-*lustiges Testbild*
+Aus der Abbildung wird ersichtlich, dass für die befragten Teilnehmer kommunikative Fähigkeiten und soziale Kompetenz am wichtigsten sind, Führungskompetenz nicht unwichtig ist und das Fachwissen am unwichtigsten. Folgendermaßen dürfen die sozialen Aspekte nicht vernachlässigt werden und müssen bei der Projektleiterwahl entscheidend sein. Die soziale Kompetenz soll folgendermaßen näher betrachtet werden. 
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Soziale Kompetenz
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Ein Projektleiter und die anderen Teilnehmer müssen sich an Regeln halten und eine gewisse soziale Kompetenz im Umgang mit dem Gegenüber aufweisen. Diese lässt sich in verschiedene Komponenten aufteilen, die bei der Kommunikation und Zielerreichung förderlich sind. Teamkompetenz, Empathie, Problemlösungsfähigkeit, Konfliktfähigkeit, Reflexionsfähigkeit, Kritikfähigkeit und Führungskompetenz stellen wichtige Grundlagen dar.[^4]
 
-So kann man eine Tabelle erstellen:
+# Erfolgsfaktoren eines Projekts
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Damit ein Projekt erfolgreich beendet werden kann, müssen einige Prinzipien eingehalten werden. Das gesamte Team muss am Ende abliefern, denn das Projekt sollte penibel strukturiert sein, klare Zielvorgaben für alle Projektteilnehmer haben, Verantwortung den entsprechenden Personen zuweisen, transparent mit dem Projektzustand umgehen, die Risiken frühzeitig erkennen, schnell auf Probleme und Störungen reagieren und detailliert bei der Projektanalyse vorgehen.[^1]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+# Fazit und Folgen für das Unternehmen 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Daraus lassen sich Konsequenzen für das Unternehmen und die Projektleitung ableiten. Es soll vermehrt Wert auf soziale Aspekte in den andauernden Projekten gelegt werden. Andererseits müssen Projektleiter und zum Beispiel IT-Mitarbeiter soziale und kommunikative Fähigkeiten in Schulungen verbessern. Bei der Führungskompetenz der Projektleiter muss erheblich nachgebessert werden. Abschließend sollte mehr Unterstützung z. B. durch Projektcoaching zur Verfügung gestellt werden.[^2]
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Soziale_Aspekte_des_Projektmanagements.md)
+* [Soft Skills im Projektmanagement](Softskills_im_Projektmanagement.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Soziale Arbeit zwischen Wissenschaft und Profession](https://link.springer.com/content/pdf/10.1007%2F978-3-531-91741-2.pdf)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Soziale Arbeit](https://link.springer.com/content/pdf/10.1007%2F978-3-531-91741-2.pdf)
+[^2]: [Soziale Kompetenz](https://www.grin.com/document/19189)
+[^3]: [Handbuch Projektmanagement](https://link.springer.com/content/pdf/10.1007/978-3-662-57878-0.pdf)
+[^4]: [Soziale Kompetenz – ein Muss für Projektleiter?](https://dieprojektmanager.com/soziale-kompetenz-ein-muss-fuer-projektleiter/)
+
+
 

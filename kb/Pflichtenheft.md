@@ -1,104 +1,79 @@
 ---
 title: Pflichtenheft
-tags: agil klassisch
+tags:  klassisch
 author: fa97fyka
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Pflichtenheft um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Pflichtenheft
+Pflichtenheft hilft bei der problemlosen Umsetzung eines Projektes. In einem Pflichtenheft beschreibt der Auftragsnehmer/in in ganz konkreter Form, wie er/sie das Projekt für den Auftragsgeber/in umsetzten kann und würde. Die Anforderungen der Kunden werden im Lastenheft detailliert aufgeführt und das Pflichtenheft beschreibt demnach einen Lösungsansatz jener Anforderung. Der Auftragsnehmer hat das Ziel, das Lastenheft des Auftragsgeber zu erfüllen. Dieses bildet sozusagen die Antwort auf das Lastenheft.
+Die Übereinstimmung des Lasten- und Pflichtenhefts ist sehr wichtig, da hierüber ein Großteil der Projektkommunikation erfolgt.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## Lastenheft
+Um das Pflichtenheft besser zu verstehen, wird im Folgenden das Lastenheft kurz definieren.
+In einem Lastenheft legt der Kunde fest, was er von dem Projekt erwartet. Er beschreibt und definiert mit diesem seine gesamten Anforderungen an das Projekt. So kann man das Lastenheft als Anforderungskatalog beschreiben. Der Kunde muss sich Gedanken darüber machen, was er eigentlich vom Projekt erwartet und was er genau bekommen möchte.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Gesetzliche Definitionen
+Das Pflichtenheft ist nach der DIN 66001 "die ausführliche Beschreibung der Leistungen, die erforderlich sind oder gefordert werden, damit die Ziele des Projektes erreicht werden".[^1]
+Das Lastenheft wurde in der VDI 2519 wie folgt definiert: „alle Anforderungen aus Anwendersicht einschließlich aller Randbedingungen beschreiben soll. Sie sollten quantifizierbar und prüfbar sein. Im Lastenheft wird definiert, was und wofür zu lösen ist. Das Lastenheft wird vom Auftraggeber oder in diesen Auftrag erstellt. Es dient als Ausschreibungs-, Angebots-, oder Vertragsgrundlage“.[^1] "Das, was in der VDI 2519 als Lastenheft definiert ist, wird unter Juristen schon eher als Pflichtenheft verstanden, als das, was die DIN 66001 darunter versteht".[^1]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Der Aufbau des Lastenhefts
+Das Lastenheft sollte so aufgebaut werden:
+* Der Ist-Zustand bzw. die Voraussetzungen, die bereits gegeben sind
+* Die Ziele sollen grob definiert werden
+* Sammlung der Anforderungen an das Produkt 
+* Definition von den Rahmenbedingungen für das Produkt und Leistungserbringung
+* Aufteilung der Zuständigkeiten
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Der Aufbau des Pflichtenheft
+Das Pflichtenheft sollte so aufgebaut werden:
+*	Die Ausgangssituation dokumentieren und die Ziele detailliert beschreiben
+*	Die Beschreibung der Prozessabläufe und die Stärken und Schwächen sollten aufgeführt sein
+*	Erstellung eines Soll-Konzeptes, in dem die Anforderungen des Auftragsgebers bzw. der Kunden beschreiben werden
+*	Erstellung und Beschreibung der technischen Strukturen (wenn Technik erforderlich ist)
+*	Erstellung einer tabellarischen Übersicht mit wichtigen Daten, Anmerkungen und Notizen
+*	Checklisten, Ablaufplane und gegebenenfalls Belege als Anhang dem Pflichtenheft beifügen
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+# Pflichtenheft Gliederung
+Es gibt verschiedene Ansätze, um ein Pflichtenheft zu gliedern. Ich möchte hier nur eine Möglichkeit darstellen:
+## Bestimmung der Ziele:
+Im Pflichtenheft werden die Ziele konkret umfassen. Die Ziele werden in drei Gruppen gegliedert:
+* Muss Kriterien sind wesentlich, damit die Anwendung funktioniert
+* Wunsch Kriterien bleiben entbehrlich. Die Indienststellung wäre ohne sie auch realisierbar. Die Pflicht besteht trotzdem, um diese Kriterien umzusetzen
+* Abgrenzungskriterien sind die Kriterien, die die Anwendung nicht beinhalten soll
+## Einsatz:
+Die Analyse des späteren Einsatzumfelds ist sehr wichtig. Dazu gehören: Zielgruppen, Anwendungsbereiche usw. Die Umgebung, Zeit und Qualifikationen werden festgelegt.
+## Produktübersicht:
+Übersicht über alle Geschäftsprozesse und die beteiligten Akteure.
+## Funktionen:
+Hier erfolgt die Erklärung über die Funktionen, die Beteiligten und weitere Geschäftsprozesse.
+## Leistungen:
+Hier werden die Anforderungen an die Funktonen beschreibt. Zum Beispiel: Die Dauer, die Genauigkeit der Berechnung und die Ausführungszeit.
+## Qualitätsanforderungen:
+Eine Qualitätsstufe wird nach bestimmten Merkmalen zugeordnet.
+## Benutzeroberfläche:
+Grundlegende Anforderungen werden festgelegt, wie zum Beispiel: Art des Layouts und der Zugriffsrechte.
+## Sonstige Anforderungen:
+Dokumentation, Buchführung und Sicherheitsanforderungen.
+## Technisches Umfeld:
+Die Soft- und Hardwaresysteme, die für die Anwendung zu installieren sind, werden aufgelistet.
+## Gliederung:
+Ein komplexer Prozess wird sich in Teilaufgaben gliedern, damit ein besserer Überblick über das gesamte Projekt erfolgt.
+## Ergänzungen:
+Hier stehen die zu berücksichtigten Normen und Vorschriften, sowie Hinweise zu Patenten und Lizenzen. Die Anmerkungen des Arbeitgebers werden auch aufgelistet. 
+## Tests:
+Prüfung des Produktes vor der Fertigstellung in Bezug auf die verschiedenen Anforderungen. 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Pflichtenheft/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Pflichtenheft.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+# Fazit
+Das Pflichtenheft stellt eine Sicherheit dar, um Missverständnisse zu vermeiden und reibungslose Kommunikation zu gewährleisten. Bevor das Projekt in die Umsetzungsphase geht, eigentlich noch bevor Lastenhefte und Pflichtenhefte erstellt werden, sollten einige Fragen im Vorfeld geklärt werden. Dazu zählen unter anderem natürlich auch der finanzielle Rahmen, der innerhalb des Projektes zur Verfügung stehen wird. Ebenso sollten die Ist-Zustände von Hard- und Software, Schnittstellen und dergleichen, auf jeden Fall im Vorfeld geklärt werden.
 
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+1. [Das Pflichtenheft: Alle Anforderungen eines Projekts im Blick](https://www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/)
+2. [Pflichtenheft](https://www.projektmagazin.de/glossarterm/pflichtenheft)
+3. [Lastenheft](https://www.projektmagazin.de/glossarterm/lastenheft)
+4. [Pflichtenheft](https://www.inloox.de/projektmanagement-glossar/pflichtenheft/)
+5. [Warum es wichtig ist, ein Pflichtenheft zu erstellen](https://www.brightsolutions.de/blog/warum-es-wichtig-ist-ein-pflichtenheft-zu-erstellen/)
+6. [Pflichtenheft](https://www.prologistik.com/logistik-lexikon/pflichtenheft/)
+7. [Pflichtenheft - Zweck, Inhalt, Aufbau](https://wiki.induux.de/Pflichtenheft)
+8. [Pflichtenheft - einfach erklärt mit Beispielen](https://www.vario-software.de/lexikon/pflichtenheft/)
+[^1]: [Das Pflichtenheft I](https://www.anwaltskanzlei-online.de/2008/05/15/das-pflichtenheft-i/)

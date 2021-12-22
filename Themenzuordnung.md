@@ -36,7 +36,6 @@ author: anniSc
 | [Bottom_Up_Planning](kb/Bottom_Up_Planning.md)                                                           | [FAUdennis96](https://github.com/FAUdennis96)                 |
 | [Change_Projekte](kb/Change_Projekte.md)                                                                 | [verenaschuebel](https://github.com/verenaschuebel)           |
 | [Open_Source_Projekte](kb/Open_Source_Projekte.md)                                                       | [AnnaSophieNi](https://github.com/AnnaSophieNi)               |
-| [Remote_Projekte](kb/Remote_Projekte.md)                                                                 | [gelfertfelix](https://github.com/gelfertfelix)               |
 | [Nachhaltige_Entwicklung](kb/Nachhaltige_Entwicklung.md)                                                 | [JoseOliveira2](https://github.com/JoseOliveira2)             |
 | [Nachhaltige_Projekte](kb/Nachhaltige_Projekte.md)                                                       | [MarcelFAU](https://github.com/MarcelFAU)                     |
 | [Sustainable_Development_Goals](kb/Sustainable_Development_Goals.md)                                     | [Teemoma](https://github.com/Teemoma)                         |
@@ -232,7 +231,6 @@ author: anniSc
 | [Projektabbruch](kb/Projektabbruch.md)                                                                   | [Quapoapo](https://github.com/Quapoapo)                       |
 | [Projektabschlussbericht](kb/Projektabschlussbericht.md)                                                 | [DeniseWt](https://github.com/DeniseWt)                       |
 | [Lessons_Learned](kb/Lessons_Learned.md)                                                                 | [JanAmend](https://github.com/JanAmend)                       |
-| [Erfolgsmessung](kb/Erfolgsmessung.md)                                                                   | [JacquelineRal](https://github.com/JacquelineRal)             |
 | [Reflexion](kb/Reflexion.md)                                                                             | [goekcen01](https://github.com/goekcen01)                     |
 | [Abschlussanalyse](kb/Abschlussanalyse.md)                                                               | [medjeara](https://github.com/medjeara)                       |
 | [Projektaufloesung](kb/Projektaufloesung.md)                                                             | [Quapoapo](https://github.com/Quapoapo)                       |
@@ -262,7 +260,6 @@ author: anniSc
 | [Scrum_Rules](kb/Scrum_Rules.md)                                                                         | [HanLing132](https://github.com/HanLing132)                   |
 | [Scrum_Guide](kb/Scrum_Guide.md)                                                                         | [MrSommC](https://github.com/MrSommC)                         |
 | [Agiles_Manifest](kb/Agiles_Manifest.md)                                                                 | [LaHe27](https://github.com/LaHe27)                           |
-| [User_Story](kb/User_Story.md)                                                                           | [Phr4nk20](https://github.com/Phr4nk20)                       |
 | [The_3_5_3_of_Scrum](kb/The_3_5_3_of_Scrum.md)                                                           | [GiuliaAng](https://github.com/GiuliaAng)                     |
 | [Scrum_Transparenz](kb/Scrum_Transparenz.md)                                                             | [Lorybr](https://github.com/Lorybr)                           |
 | [Scrum_Ueberpruefung](kb/Scrum_Ueberpruefung.md)                                                         | [Steffi226](https://github.com/Steffi226)                     |

@@ -2,103 +2,68 @@
 title: Klassische_Missverstaendnisse
 tags: agil klassisch
 author: ux49azap
-anrechnung: k oder a
+anrechnung: k
 ---
+# Missverständnisse des klassischen Projektmanagements
+Die falsche Anwendung des klassischen [Projektmanagements](Projektmanagement.md) kann schnell zu Missverständnissen führen, welche einen großen Einfluss auf die Erfolgswahrscheinlichkeit des jeweiligen [Projektes](Projekt.md) haben. So können beispielsweise die Ergebnisse nicht den Anforderungen entsprechen, Kosten werden überschritten oder Termine nicht eingehalten.[^1] Aus diesem Grund ist es wichtig, die klassischen Missverständnisse zu kennen und diese bewusst zu vermeiden. 
 
-Kurzbeschreibung zu Klassische_Missverstaendnisse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# 1. Ursache der Missverständnisse
+Das [traditionelle Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement) beruht auf einem monolithischen Ansatz, bei welchem bereits zu [Projektstart](Projektstart.md) der gewünschte Endzustand definiert und die genaue Vorgehensweise geplant wird. So werden beispielsweise von Anfang an bestimme Ergebnisse, Kosten, [Termine](Zeitplanung.md) und [Ressourcen](Ressourcenplanung.md) festgelegt.[^1][^2]  Dieser standardisierte Vorgang kann im Laufe des Projekts allerdings zu mehreren verschiedenen Missverständnissen führen.
+ 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# 2. Fehlende Flexibilität bei Veränderungen
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+In nahezu allen Projekten kommt es im Laufe der Zeit zu sich veränderten Anforderungen und Bedürfnissen. Aufgrund der klassischen Vorgehensweise hat die Projektplanung jedoch nicht die notwendigen Freiheiten, um auf Veränderungen flexibel einzugehen, da sie aufwendige und oftmals kostspielige Projektanpassungen nach sich ziehen würden.[^1]  Stattdessen wird strikt an dem ursprünglichen Plan festgehalten. Somit gibt es kaum Möglichkeiten Ziel- und Planänderungen zu treffen, wodurch vor allem bei den immer komplexer werdenden Projekten Unstimmigkeiten entstehen.[^3]  
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# 3. Unschärfe in der Projektplanung
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Um dennoch auf Veränderungen im Projektverlauf reagieren zu können, wird bereits zu Beginn des Projektes Reserve in die Planung mit einbezogen. Dies führt allerdings erneut zu Missverständnissen. Durch den Einbezug von Reserve besteht von Anfang eine gewisse Unschärfe in der Planung, welche im späteren Projektverlauf sogar noch zunehmen kann. Außerdem handelt es sich bei den Reservefaktoren vor allem um die Terminierung und Budgetierung des Projektes, weshalb es bei klassischen Projekten oftmals zu Verzögerungen und Kostensteigerungen kommen kann.[^1][^2]
 
-![Beispielabbildung](Klassische_Missverstaendnisse/test-file.jpg)
 
-*lustiges Testbild*
+# 4. Unstimmigkeiten beim Projektablauf
+Ein weiteres Missverständnis entsteht beim Ablauf der klassischen Projekte. Im Gegensatz zum [agilen Projektmanagement](https://www.projektmagazin.de/glossarterm/agiles-projektmanagement) wird das Projekt nicht in kleinere Aufgabenblöcke heruntergebrochen, welche zu früh überprüfbaren Ergebnissen führen würden. Es fehlen somit regelmäßige Zwischenprodukte, welche kontinuierlich angepasst und verbessert werden könnten (sog. Sprints beim agilen Projektmanagementmodell [SCRUM](SCRUM.md)). 
+Stattdessen werden beim klassischen Projektmanagment komplexere [Projektphasen](Projektphasen_klassisch.md) nacheinander und nicht parallel bearbeitet. Die größeren Arbeitsblöcke lassen sich schwieriger verwalten, wodurch ein deutlich höheres Risiko für Fehlentscheidungen entsteht. Zusätzlich geht der Motivationsaspekt für das arbeitende Team verloren, da beim klassischen Projektmanagement kein frühzeitig nutzbarer Mehrwert entsteht.[^4]
 
-# Aspekt 2
+## 4.1 Rückmeldung der Projektergebnisse
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Eng damit verknüpft ist die Rückmeldung an die Auftragsgeber. Da keine Zwischenprodukte oder –ergebnisse präsentiert werden können, gehen entscheidende [Feedbackgespräche](Feedbackgespräche.md) im Projektverlauf verloren, welche für die weiteren Prozessschritte hätten berücksichtigt werden können. Stattdessen werden die Projektergebnisse erst am Ende des Projekts bereitgestellt. Somit haben die Auftragsgeber vor Projektende keine Möglichkeit Feedback zu geben, wie die folgende [Grafik](https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/klassisch-agiles-projektmanagement-1/) veranschaulicht.[^5] 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+![Zeitpunkt des Feedbacks beim klassichen Projektmanagement](Klassische_Missverstaendnisse/Feedback.jpg)        
+*Zeitpunkt des Feedbacks beim klassichen Projektmanagement*      
 
-So kann man eine Tabelle erstellen:
+Dadurch entstehen wiederum neue Missverständnisse. Es können beispielsweise Anforderungsänderungen unentdeckt bleiben, wodurch umfangreiche Anpassungen notwendig werden, welche vor allem im späteren Verlauf des Projektes zu immer höheren Kosten führen (siehe [Grafik](https://projekte-leicht-gemacht.de/blog/klassisches-agiles-projektmanagement-teil-3/)) .[^6]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+![Anstieg der Änderungskosten im Verhältnis zur Zeit](Klassische_Missverstaendnisse/Änderungen.jpg)        
+*Anstieg der Änderungskosten im Verhältnis zur Zeit* 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+# 5. Unverhältnismäßige Rahmenbedingungen
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Ein weiterer Aspekt, welcher zu klassischen Missverständnissen führt, sind unverhältnismäßige Rahmenbedingungen. Unrealistische Zeitvorgaben oder Budgetrahmen, der unterschätzte [Projektumfang](Projektumfang.md) sowie fehlerhafte [Projektkommunikation](Projektkommunikation.md) bestärken die bereits genannten Missverständnisse stark.[^7][^8]
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+# Fazit
+Um klassische Missverständnisse bei Projekten zu vermeiden, ist es deshalb besonders wichtig genau abzuwägen, ob das klassische Projektmanagement zur Ausgangslage, Aufgabenstellung und Zielsetzung passt. Nur wenn diese Vorraussetzungen erfüllt sind, kann das Projekt erfolgreich und wirtschaftlich verlaufen.[^1]
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Klassische_Missverstaendnisse.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Praxisbeispiele gescheiterter Projekte](Praxisbeispiele_gescheiterte_Projetke.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Traditionelles Projektmanagement](https://www.projektmagazin.de/glossarterm/traditionelles-projektmanagement)
+* [Unterschiede zwischen klassischem und agilem Projektmanagement Teil 2](https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/klassisches-agiles-projektmanagement-teil-2/)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Klassisches versus agiles Projektmanagement](https://www.proles.ch/blog/klassisches-versus-agiles-projektmanagement)
+[^2]: [Projektmanagement](https://www.materna.de/Microsite/Monitor/DE/2020-01/Management-und-Strategie/pm-methoden/pm-methoden_node.html;jsessionid=87298AEC46E44A72560858EBF7715CBD.delivery2-master)
+[^3]: [Agiles vs. klassisches Projektmanagement](https://www.roth-institut.de/roth-wissens-journal/wissen-f%C3%BChrung/agiles-vs-klassisches-projektmanagement/)
+[^4]: [Unterschiede zwischen klassischem und agilem Projektmanagement Teil 4](https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/klassisches-agiles-projektmanagement-teil-4/)
+[^5]: [Unterschiede zwischen klassischem und agilem Projektmanagement Teil 1](https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/klassisch-agiles-projektmanagement-1/)
+[^6]: [Unterschiede zwischen klassischem und agilem Projektmanagement Teil 3](https://projekte-leicht-gemacht.de/blog/klassisches-agiles-projektmanagement-teil-3/)
+[^7]: [Warum das Projekt-Team versagt- Die 10 größten Probleme im Projekt-Management](https://www.computerwoche.de/a/warum-das-projekt-team-versagt,2495865,5)
+[^8]: [Welche Schwächen hat das klassische Projektmanagement ?](https://www.it-prause.de/fachbeitr%C3%A4ge/was-ist-klassisches-projektmanagement/die-schw%C3%A4chen-des-klassischen-projektmanagements/)
 
