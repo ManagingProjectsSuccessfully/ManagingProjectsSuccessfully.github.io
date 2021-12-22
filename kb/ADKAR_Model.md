@@ -27,6 +27,9 @@ Nachfolgende Fragestellungen können dabei helfen, diesen Schritt auszuführen:
 
 Sobald der Grundstein mit dem Bewusstsein für Veränderung gelegt wurde, kann man in die zweite Phase "Desire" übergehen. Hier muss sichergestellt werden, dass jeder den Wunsch hat und ausreichend motiviert ist, die Veränderungen auszuführen und zu unterstützen.  
 Da dieser Schritt sehr individuell ist, müssen anhand von Coachings und Gesprächen die persönliche Situation und Anreize des Mitarbeiters erkannt und angewandt werden. [^5]
+Mögliche Fragestellungen können lauten:
+- "What's in it for me?" [6] - Was habe ich davon?
+- "What motivates them?" [6] - Was sind meine intrinsischen Motivationen?
 
 
 ## Knowledge
@@ -86,7 +89,7 @@ Das ADKAR Modell kann somit bei persönlichen als auch bei größeren Gruppierun
 [^3]: [ADKAR MODEL EXPLAINED -PART 2- Awareness](https://youtube.com/watch?v=PwwoyzVfsS8)
 [^4]: [Wie das ADKAR Change Management Modell funktioniert](https://mind-force.de/vertrieb/wie-das-adkar-change-management-modell-funktioniert/)
 [^5]: [ADKAR MODEL EXPLAINED -PART 3- Desire](https://youtube.com/watch?v=LNT3Rxci-hU)
-[^6]: [ADKAR: A Model for Change in Business, Government, and Our Community S.30](https://books.google.de/books?hl=de&lr=&id=Te_cHbWv-ZgC&oi=fnd&pg=PA1&dq=adkar+model&ots=1shIh6o-MM&sig=vPU70TCQTX4s3qEokl1fAujTR-E&redir_esc=y#v=onepage&q=adkar%20model&f=true)
+[^6]: [ADKAR: A Model for Change in Business, Government, and Our Community S.18, S.19 und S.30](https://books.google.de/books?hl=de&lr=&id=Te_cHbWv-ZgC&oi=fnd&pg=PA1&dq=adkar+model&ots=1shIh6o-MM&sig=vPU70TCQTX4s3qEokl1fAujTR-E&redir_esc=y#v=onepage&q=adkar%20model&f=true)
 [^7]: [ADKAR MODEL EXPLAINED -PART 5- Ability](https://youtube.com/watch?v=XvIYdQ8Bp5k)
 [^8]: [Ability - The Prosci ADKAR Model](https://www.prosci.com/resources/articles/adkar-model-ability)
 [^9]: [ADKAR MODEL EXPLAINED -PART 6- Reinforcement](https://youtube.com/watch?v=QQjyfN7XoQE)
