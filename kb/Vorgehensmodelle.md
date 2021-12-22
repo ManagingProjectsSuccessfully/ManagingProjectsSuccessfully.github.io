@@ -13,7 +13,13 @@ Broy und Kuhrmann[^110] definieren den Begriff Vorgehensmodell folgendermaßen:
 >"Ein Vorgehensmodell beschreibt systematische, ingenieurmäßige und quantifizierbare Vorgehensweisen, um Aufgaben einer bestimmten
 Klasse wiederholbar zu lösen."[^110]
 
-Vorgehensmodelle sind dabei von [Methoden](Methoden.md) zu unterscheiden. In einem Vorgehensmodell können verschiedene Methoden angewandt werden,[^110] die durch das Vorgehensmodell vorgegeben sein können.[^30] Abbildung 1 zeichnet einen Überblick über Bestandteile eines Vorgehensmodells.
+Vorgehensmodelle sind dabei von [Methoden](Methoden.md) zu unterscheiden. In einem Vorgehensmodell können verschiedene Methoden angewandt werden,[^110] die durch das Vorgehensmodell vorgegeben sein können.[^30] Beispielsweise könnte für das [Schätzen der Kosten](Schaetzverfahren_Kosten.md) festgelegt sein, dass eine bestimmte Methode dafür verwendet werden soll, oder offen gelassen werden, ob man die Delphi-Methode, COCOMO oder eine der vielen anderen Methoden nutzt. Abbildung 1 zeichnet einen Überblick über Bestandteile eines Vorgehensmodells.
+
+Beispielsweise gibt es für den Schritt der Aufwandsschätzung eine Vielzahl an Methoden wie Planning Poker, COCOMO, ... und vielen mehr.
+für das Schätzen der Kosten festgelegt sein, ...
+
+Vorgehensmodelle sind dabei von Methoden zu unterscheiden. Beispielsweise könnte für die [Aufwandsschätzung](Schaetzverfahren_Kosten.md) festgelegt sein, welche Methode dafür verwendet werden soll, oder offen gelassen, ob man dafür Planning Poker, COCOMO, ... oder eine der vielen anderen Methoden nutzt.
+Zum Beipsiel gibt es für den Prozess/Phase/... Aufwandsschätzung viele Methoden des Schätzens wie Planning Poker (eine Variante der Wideband-Delphi-Methode (https://t2informatik.de/wissen-kompakt/planning-poker/))
 
 ![Bestandteile eines Vorgehensmodells](Vorgehensmodelle/Bestandteile_eines_Vorgehensmodells.png)
 Abbildung 1: Bestandteile eines Vorgehensmodells[^90]
@@ -25,33 +31,6 @@ Tabelle 1: Einteilung von Vorgehensmodellen nach Autor:innen / Übersicht Klassi
 |  Kuster et al. | Schneider et al. | Broy & Kuhrmann | Kneuper et al. | Timinger | Wieczorrek & Mertens |
 |---|---|---|---|---|---|
 | <ul><li>klassisch/</br>Phasen-</br>konzept</li><li>agil</li></ul> |<ul><li>linear oder Phasenmodell</li><li>iterativ</li><li>Prototyping</li></ul> | <ul><li>phasen-</br>orientierte Modelle und sequenzielles Vorgehen</li><li>iteratives und inkrementelles Vorgehen</li><li>Prototyping</li></u> | <ul><li>sequentiell</li><li>evolutionär</li><li>Prototyping</li></u> | <ul><li>sequenziell</li><li>nebenläufig/</br>parallel</li><li>wiederholend</li><li>agil</li></ul> | <ul><li>konzeptionell (als Spezialfall von inkrementell)</li><li>inkrementell</li><li>evaluativ</li><li>empirisch</li></ul> |
-
-Tabelle 1: Übersicht Klassifizierungen von Vorgehensmodellen unterschiedlicher Autor:innen
-|Kuster et al.[^120]|Schneider et al.[^30]    |Broy & Kuhrmann[^90]                                 |Kneuper et al.[^20]|Timinger[^80] |Wieczorrek & Mertens[^100]|
-| ----------------------- | --------------------------------------------------- | ------------------ | ---------------- | ------------------- | --------------- |
-|klassisch / Phasenkonzept|linear oder Phasenmodell |phasenorientierte Modelle und sequenzielles Vorgehen |sequentiell  |sequenziell          |konzeptionell (als Spezialfall von inkrementell)|
-|agil               |iterativ                 |iteratives und inkrementelles Vorgehen               |evolutionär       |nebenläufig/parallel |inkrementell        |
-|                   |Prototyping              |Prototyping                                          |Prototyping       |wiederholend         |evaluativ           |
-|                  |                         |                                                     |                  |agil                 |empirisch            |
-
-Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
-|Schneider et al.[^30]    |Broy & Kuhrmann[^90]                                 |Kneuper et al.[^20]|Timinger[^80] |Wieczorrek & Mertens[^100]|Kuster et al.[^120]|
-| ----------------------- | --------------------------------------------------- | ------------------ | ---------------- | ------------------- | --------------- |
-|linear oder Phasenmodell |phasenorientierte Modelle und sequenzielles Vorgehen |sequentiell  |sequenziell          |konzeptionell (als Spezialfall von inkrementell)|klassisch / Phasenkonzept|
-|iterativ                 |iteratives und inkrementelles Vorgehen               |evolutionär       |nebenläufig/parallel |inkrementell        |agil               |
-|Prototyping              |Prototyping                                          |Prototyping       |wiederholend         |evaluativ           |                   |
-|                         |                                                     |                  |agil                 |empirisch           |                   |
-
-Tabelle 1: Übersicht Klassifizierung von Vorgehensmodellen
-|Schneider et al.[^30]    |Broy & Kuhrmann[^90]                                 |Wieczorrek & Mertens[^100]|Kneuper et al.[^20]|Timinger[^80] |Kuster et al.[^120]|
-| ----------------------- | --------------------------------------------------- | ------------------ | ---------------- | ------------------- | --------------- |
-|linear oder Phasenmodell |phasenorientierte Modelle und sequenzielles Vorgehen |konzeptionell (als Spezialfall von inkrementell)|sequentiell  |sequenziell          |klassisch / Phasenkonzept|
-|                         |                                                     |                    |                  |nebenläufig/parallel |                   |
-|iterativ                 |iteratives und inkrementelles Vorgehen               |inkrementell        |evolutionär       |wiederholend         |agil               |
-|                         |                                                     |                    |                  |agil                 |                   |
-|Prototyping              |Prototyping                                          |                    |Prototyping       |                     |                   |
-|                         |                                                     |evaluativ           |                  |                     |                   |
-|                         |                                                     |empirisch           |                  |                     |                   |
 
 ## Klassische Vorgehensmodelle
 Klassische Vorgehensmodelle, auch lineare Vorgehens- oder Phasenmodelle[^30] genannt, bestehen aus nacheinander abfolgenden [Phasen](Projektphasen_klassisch.md). Ein solches Vorgehen wird als sequentiell[^20][^80] bezeichnet. "Jede dieser Phasen bündelt dabei eine Reihe von Aktivitäten, welche vollständig und in der richtigen Reihenfolge durchzuführen sind."[^90] Zum Abschluss einer Phase wird meist ein [Meilenstein](Meilensteine.md) erzeugt.
