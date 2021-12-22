@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 # Definition und Ziel
-[PRINCE2](PRINCE2.md) steht für **PR**ojects **IN** **C**ontrolled **E**nvironments oder auch [Projekte](Projekt.md) in kontrollierten Umgebungen und ist eine auf Prozessen und [Best Practices](Best_Practices.md) basierende Methode für effektives [Projektmanagement](Projektmanagement.md) [^1]. Im folgenden Beitrag soll daher die Projektumgebung von [PRINCE2](PRINCE2.md) näher betrachtet werden. Dazu wird zunächst kurz auf die Bestandteile des [PRINCE2](PRINCE2.md) Frameworks eingegangen und schließlich explizit auf die Projektumgebung. Abgerundet wird der Beitrag mit einem Fazit.
+[PRINCE2](PRINCE2.md) steht für **PR**ojects **IN** **C**ontrolled **E**nvironments oder auch [Projekte](Projekt.md) in kontrollierten Umgebungen und ist eine auf Prozessen und [Best Practices](Best_Practices.md) basierende Methode für effektives [Projektmanagement](Projektmanagement.md) [^1][^11]. Im folgenden Beitrag soll daher die Projektumgebung von [PRINCE2](PRINCE2.md) näher betrachtet werden. Dazu wird zunächst kurz auf die Bestandteile des [PRINCE2](PRINCE2.md) Frameworks eingegangen und schließlich explizit auf die Projektumgebung. Abgerundet wird der Beitrag mit einem Fazit.
 
 Für einen allerersten Überblick ist es zunächst empfehlenswert, den Beitrag [PRINCE2](PRINCE2.md) zu lesen. 
 
@@ -101,4 +101,4 @@ Die Zusammenführung von einzelnen Berichten zu einem großen kann zu einer Vers
 [^8]: [PRINCE2 Anpassung an die Projektumgebung](https://www.certnow.de/itsm-blog/10-prince2/77-prince2-2017-anpassen-an-die-projektumgebung.html)  
 [^9]: [PRINCE2 Leitfaden](https://www.agile-heroes.de/magazine/prince2-leitfaden/) 
 [^10]: [PRINCE2 Aufbau](https://www.heitcon3.de/wp-content/uploads/2019/08/PRINCE2-2017-Leseprobe.pdf) 
-
+[^11]: [PRINCE2 Projektmanagementmethode von AXELOS](https://www.truecare.de/pm-qualifizierung/prince2/) 
