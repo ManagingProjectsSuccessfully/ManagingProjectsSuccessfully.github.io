@@ -9,7 +9,7 @@ Als Hackathon wird eine kollaborative Veranstaltung bezeichnet, bei der Teilnehm
 
 Bei dem Begriff handelt es sich um eine Zusammensetzung aus den Wörtern „Hacken“ und „Marathon“. Unter „Hacken“ wird hier das (Software basierende) Entwickeln und Programmieren von Lösungen verstanden. „Marathon“ bezieht sich auf die, im Vergleich zu einem [Projekt](Projekt.md), verhältnismäßig kurze Zeit von zwölf bis 24 Stunden zur Erstellung eines Lösungsvorschlags. [^4] [^8] [^5] 
 
-Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Alle weisen jedoch den selben charakteristischen Kern auf, der das Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat. [^8]
+Oftmals werden auch andere Bezeichnungen verwendet, wie z.B. Hack Fest, Hack Days oder Code Days. Alle weisen jedoch denselben charakteristischen Kern auf, der das Veranstaltungsformat über Jahre hinweg in allen erdenklichen Themenfeldern so beliebt gemacht hat. [^8]
 
 
 # Grundlegende Idee
@@ -40,7 +40,7 @@ Der Begriff Hackathon ist erstmals im Jahr 1999 bei zwei Entwicklertreffen aufge
 
 Heutzutage gibt es zu den unterschiedlichsten Themen und in fast allen Branchen Hackathons. Viele große Veranstaltungen sind öffentlich, sodass jeder teilnehmen kann. Zudem haben Unternehmen in der Vergangenheit festgestellt, dass ein solches Format intern organisiert die Initialzündung für neue Ideen, Geschäftsmodelle und Produkte sein kann. [^8]
 
-Die Gestaltung und Umsetzung von Hackathons ist von den Einflüssen Coronas nicht verschont geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause aus hacken konnten. Selbst zur Corona-Krise an sich gab es in Deutschland als auch weltweit mehrere Hackathons. [^11] [^10]
+Die Gestaltung und Umsetzung von Hackathons sind von den Einflüssen Coronas nicht verschont geblieben. Viele wurden deshalb komplett virtuell durchgeführt und ermöglichten so, dass Teilnehmer von Zuhause aus hacken konnten. Selbst zur Corona-Krise an sich gab es in Deutschland als auch weltweit mehrere Hackathons. [^11] [^10]
 
 # Ablauf
 
@@ -57,7 +57,7 @@ Die verschiedenen Teams bilden sich in der Regel erst vor Ort nach gemeinsamen L
 
 __3. Hacken__
 
-Damit ist die eigentliche Entwicklungsarbeit gemeint, die den größten Anteil einnimmt. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototypen auch die Vorbereitungen auf die Präsentation. Dabei folgen die Mitglieder oftmals den Prinzipien von [Desing Thinking](Design_Thinking.md) oder von anderen [Kreativitätstechniken](Methoden.md#softskill-management).[^2] [^4] [^5]
+Damit ist die eigentliche Entwicklungsarbeit gemeint, die den größten Anteil einnimmt. Diese beinhaltet von dem anfänglichen Brainstorming, über dem Ausprobieren von verschiedenen Ideen bis hin zur Erstellung eines Prototyps auch die Vorbereitungen auf die Präsentation. Dabei folgen die Mitglieder oftmals den Prinzipien von [Desing Thinking](Design_Thinking.md) oder von anderen [Kreativitätstechniken](Methoden.md#softskill-management).[^2] [^4] [^5]
 
 __4. Pitchen__
 
