@@ -41,8 +41,7 @@ Um Feedback zu äußern, können unterschiedliche [Feedback-Methoden](https://gi
 
 ## 2. Mit Fünf Fragen zu einem gelungenen Feedback:
 
-
-  <img width="800" height="450" src="https://user-images.githubusercontent.com/92356175/146909390-4c840908-aade-472a-a786-c3e2789f541a.png"/>
+<img width="800" height="450" src="https://user-images.githubusercontent.com/92356175/146909390-4c840908-aade-472a-a786-c3e2789f541a.png"/>
  
 Abbildung: Eigene Darstellung [^4]
 
@@ -52,6 +51,7 @@ Abbildung: Eigene Darstellung [^4]
 
 Ein Feedbackgespräch bietet die Möglichkeit, gemeinsam Ziele zu evaluieren und neue Projekte zu definieren, mögliche Konflikte und Herausforderungen offen anzusprechen und Lösungen zu erarbeiten.
 Außerdem können Wünsche und Anregungen geäußert werden oder über zusätzliche Motivationsanreize wie beispielsweise Weiterbildungsmaßnahmen, höheres Gehalt etc. verhandelt werden. [^6]
+
 <br/>
 
 ## 4. Umgangsformen im Gespräch
@@ -63,7 +63,6 @@ Außerdem können Wünsche und Anregungen geäußert werden oder über zusätzli
 *	Keine Schuldzuweisungen
 *	Konstruktive Kritik 
 *	Vor- und Nachbereitung des Gesprächs [^5]
-
 
 <br/>
 
@@ -94,8 +93,6 @@ Mitarbeiter kommuniziert eigene Wünsche, Ziele und Planung der beruflichen Zuku
 
 <br/>
 
-
-
 [![Ablauf Fedbackgespräch](Feedbackgespräche/fbg-ablauf.jpeg)](https://karrierebibel.de/feedbackgespraech/)
 
 Abbildung: Ablauf Feedbackgespräche
@@ -104,7 +101,7 @@ Abbildung: Ablauf Feedbackgespräche
 
 ## 6. Warum ist regelmäßiges Feedback so wichtig?
 
-Feedback...
+Feedback...[^6]
 <ul>
 <li>...objektiviert Selbsteinschätzung</li>
 <li>...dient der Erfolgskontrolle</li>
@@ -113,10 +110,9 @@ Feedback...
 <li>...hilft, Ziele zu überprüfen</li>
 <li>...verbessert die Zusammenarbeit</li>
 <li>...ermöglicht persönliche Entwicklung</li>
-<li>...motiviert </li> 
+<li>...motiviert</li> 
 </ul>
 
- [^6]
  
 <br/>
 
