@@ -13,6 +13,7 @@ Jedes zielgerichtete, einmalige [Projekt](Projekt.md) besitzt, neben einem klar 
 * [Vermittlung des Projektpersonals](#vermittlung-des-projektpersonals)
 * [Organisation von Abschlussveranstaltungen und Erfahrungsaustausch](organisation-von-abschlussveranstaltungen-und-erfahrungsaustausch)
 * [Siehe auch](#siehe-auch)
+* [Weiterführende Literatur](#Weiterführende-Literatur)
 * [Quellen](#quellen)
 <!-- 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
