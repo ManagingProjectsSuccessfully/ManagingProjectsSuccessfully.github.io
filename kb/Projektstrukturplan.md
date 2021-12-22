@@ -15,6 +15,8 @@ Die folgende Grafik veranschaulicht die Grundstruktur eines Projektstrukturplans
 
 ![image](https://user-images.githubusercontent.com/92889512/143291435-e333b103-8895-40be-a998-b7c31fa1c2d4.png)
 
+++ Abbildung 1
+
 # Formen
 Grundsätzlich kann zwischen drei verschiedenen Formen von Projektstrukturplänen unterschieden werden: 
 
