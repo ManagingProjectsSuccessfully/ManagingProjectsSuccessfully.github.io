@@ -10,7 +10,7 @@ Jedes zielgerichtete, einmalige [Projekt](Projekt.md) besitzt, neben einem klar 
 * [Archivierung der Unterlagen](#archivierung-der-unterlagen)
 * [Rückgabe aller Ressourcen](#rückgabe-aller-ressourcen)
 * [Abschluss der Buchhaltung und der Projektkostenstellen](#abschluss-der-buchhaltung-und-der-projektkostensetellen)
-* [Vermittlung des Projektpersonaös](#vermittlung-des-projektpersonals)
+* [Vermittlung des Projektpersonals](#vermittlung-des-projektpersonals)
 * [Organisation von Abschlussveranstaltungen und Erfahrungsaustausch](organisation-von-abschlussveranstaltungen-und-erfahrungsaustausch)
 * [Siehe auch](#siehe-auch)
 * [Quellen](#quellen)
@@ -42,12 +42,12 @@ Die Organisation von Abschlussveranstaltungen ist nicht zwingend notwendig, jedo
 * [Projektabbruch](Projektabbruch.md)
 * [Projektabschluss](Projektabschluss.md)
 * [Projektabschlussbericht](Projektanschlussbericht.md)
-* [Projektdokumentation](Projektdokumentation)
+* [Projektdokumentation](Projektdokumentation.md)
 * [Projektkommunikation](Projektkommunikation.md)
 * [Projektleiter](Projektleiter.md)
 * [Projektmanagment](Projektmanagment.md)
 * [Projektmitarbeiter](Projektmitarbeiter.md)
-* [Projektphasen klassisch](Projektphasen_klassisch)
+* [Projektphasen klassisch](Projektphasen_klassisch.md)
 
 # Weiterführende Literatur 
 
