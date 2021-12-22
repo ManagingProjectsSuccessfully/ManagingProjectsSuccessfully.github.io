@@ -1,104 +1,147 @@
 ---
 title: Pomodoro
-tags: agil klassisch
+tags: agil projektmanagement entwicklung pomodoro produktivitaet technologien  
 author: Mezhonnov
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Pomodoro um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+![Beispielabbildung](Pomodoro/pomodoro-technik-620x340.jpg)
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+*Pomodoro-Timer*
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Die Pomodoro-Technik (orig. pomodoro technique von italienisch pomodoro = Tomate und englisch technique = Methode, Technik) ist eine Methode des Zeitmanagements, die von Francesco Cirillo in den 1980er Jahren entwickelt wurde. Das System verwendet einen Kurzzeitwecker, um Arbeit in 25-Minuten-Abschnitte – die sogenannten pomodori – und Pausenzeiten zu unterteilen. Der Name pomodoro stammt von der Küchenuhr, die Cirillo bei seinen ersten Versuchen benutzte.[^1]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Die Methode basiert auf der Idee, dass häufige Pausen die geistige Beweglichkeit verbessern können.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# So funktioniert die Pomodoro-Technik
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Das Grundprinzip der Pomodoro-Technik ist simpel: Phasen konzentrierter Arbeit wechseln sich ab mit regelmäßigen kurzen und längeren Pausen. So soll es möglich sein, produktiver zu arbeiten. In einem Pomodoro – so nennt man die 25-minütigen Arbeitseinheiten – widmet man sich voll und ganz nur einer einzigen Aufgabe. Dieses Prinzip des Monotaskings ist ganz zentral für die Methode.
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Auf seiner [Webseite](https://francescocirillo.com/pages/pomodoro-technique) skizziert Cirillo folgende Schritte für einen Pomodoro-Zyklus:
+1. Aufgabe auswählen.
+2. Wecker auf 25 Minuten stellen.
+3. Aufgabe bis zum Klingeln bearbeiten.
+4. Wenn der Timer klingelt, die erledigte Aufgabe von der To-do-Liste abhaken.
+5. Drei bis fünf Minuten Pause machen.
+6. Punkte 2 bis 5 wiederholen.
+7. Nach dem vierten Durchgang 20 bis 30 Minuten Pause machen.
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Dadurch entsteht folgender Ablauf:
 
+🍅 Pomodoro 1
 
-# Aspekt 1
+- 5 Minuten Pause
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+🍅 Pomodoro 2
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+- 5 Minuten Pause
 
-![Beispielabbildung](Pomodoro/test-file.jpg)
+🍅 Pomodoro 3
 
-*lustiges Testbild*
+- 5 Minuten Pause
 
-# Aspekt 2
+🍅 Pomodoro 4
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+- 30 Minuten Pause
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
+
+# Anwendung und Tipps zur Pomodoro-Technik
+
+Ein Problem und Kritikpunkt an der Pomodoro Technik sind die 25-Minuten-Einheiten. Welche Aufgabe dauert schon exakt 25 Minuten? Damit die Zeitmanagement-Methode optimal funktioniert, sollten Sie daher folgende Tipps zur Vorbereitung nutzen:
+
+* **Aufgaben priorisieren**
+
+Bevor es losgeht, verschaffen Sie sich einen kurzen Überblick der anstehenden Aufgaben. Notieren Sie sich kurz (!), was alles erledigt werden muss. Danach priorisieren Sie die Aufgaben.
+
+* **Zeitaufwand schätzen**
+
+Im zweiten Schritt schätzen Sie grob, wie viel Zeit jede der Aufgaben benötigt. Eine grobe Schätzung reicht. Wichtiger ist, dass Sie größere Aufgaben in kurze Intervalle von rund 25 kalkulierten Minuten aufteilen.
+
+* **Tag einteilen**
+
+Da Sie dank Schritt 1 die wichtigsten Aufgaben des Tages kennen und diese nun in kalkulierte Pomidori eingeteilt haben, sollten Sie diese nun in Ihrem Tagesplaner (eine kostenlose Vorlage erhalten Sie HIER) eintragen. Idealerweise planen Sie die Pomodoro-Intervalle am Vorabend oder gleich morgens als erstes.
+
+* **Fokussiert bleiben**
+
+Damit die Pomodoro-Technik funktioniert, müssen Sie diese eine Weile praktizieren und sich an die 25-Minuten-Einheiten gewöhnen. Ob Sie dazu eine Küchenuhr, eine Eieruhr oder das Smartphone nutzen, ist egal. Entscheidender ist, dass in dieser Zeit wirklich konzentriert und fokussiert arbeiten. Sobald der Timer klingelt, gönnen Sie sich eine kurze Verschnaufpause. Ziel ist, den Kopf frei zu bekommen und neue Kraft zu tanken. Weil die Konzentration so oder so nachlässt, ist nach dem vierten Durchgang eine bis zu 30-minütige Auszeit erforderlich.
+
+## Beispieltabelle für die Pomodoro-Technik
 
 So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Priorität  | Aufgaben | Zeiteinheiten | +/- | OK |
+| -----------| -------- | ------------- | --- | -- |
+| HIGH       |  MPS Kompendium | ⬛⬛⬛⬛🔲| / |  ✅ |
+|            |          |               |     |    |
+|            |          |               |     |    |
+|            |          |               |     |    |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Die Tabelle von links nach rechts:
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+In der ersten Spalte wird die Priorität eingetragen, was nichts anderes bedeutet, als die Reihenfolge für den heutigen Tag.
 
-### Ebene-3-Überschrift
+Die zweite Spalte ist für die Aufgaben reserviert. Sonst nichts.
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Jetzt wird es etwas interessanter. In der Spalte „Zeiteinheiten“ sind fünf leere Kästchen. Jedes steht für eine Pomodoro-Einheit. Bei der Planung überlege ich mir vorab, wie groß der Zeitbedarf für eine Aufgabe etwa sein könnte. Gehe ich von drei Pomodori aus, ziehe ich einen Rahmen um drei Kästchen. So kann ich im Nachhinein überprüfen, inwieweit es mir gelungen ist, den Zeitbedarf einzuschätzen. Abweichungen von der Schätzung sind eine Spalte weiter (+/-) einzutragen.
 
-# Aspekt n
+In der letzten Spalte ist zum Abhaken der erledigten Aufgaben.[^2]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+# Vorteile und Nachteile 
+Wirkliche Pomodoro-Technik Nachteile gibt es nicht. Sie lässt genügend Flexibilität, die Zeitintervalle und den Tag so einzuteilen, dass es für Sie passt. Dafür sind die Vorteile umso zahlreicher.
 
++ Simplizität:
+
+Einfacher geht es kaum: Für die die Pomodoro Technik brauchen Sie nur einen Timer, Zettel und Stift.
++ Impulskontrolle:
+
+Die Technik hilft, für die Dauer von 25 Minuten oder länger den Wunsch zu unterdrücken, sich ablenken zu lassen.
++ Motivation:
+
+Die regelmäßigen Pausen sorgen nicht nur für neue Energie. Sie geben ebenso einen Motivationskick, weil Sie sich damit für jeden Teilschritt und Teilerfolg belohnen.
+
++ Selbstdisziplin
+
+Durch das feste Gerüst der Pomodoro-Intervalle haben lernen Sie, diszipliniert an einer Sache zu arbeiten – ganz gleich, ob es 10, 15 oder 25 Minuten sind.
++ Regeneration
+
+Weil Sie gezwungen sind, Pause zu machen, schützen Sie die Pomidori vor Überanstrengung und Selbstausbeutung. So bleiben Sie über den Tag hinweg geistig fit.
++ Konzentration
+
+Studien zeigen: Länger als 90 Minuten kann sich niemand am Stück konzentrieren. Die Pomodoro-Einheiten sind deutlich kürzer und verbessern so zusätzlich die Konzentration.
++ Produktivität
+
+Die Pomodoro Technik verhindert Multitasking und die Gefahr, sich zu verzetteln. Das steigert die Effizienz.
++ Zielerreichung
+
+Indem Sie sich nur auf eine Sache pro Intervall konzentrieren, arbeiten Sie insgesamt zielgerichteter. Und weil Sie große Aufgaben in überschaubare Teile zerlegen, fällt auch das Anfangen leichter. Effekt: Sie erreichen am Ende mehr und müssen sich weniger überwinden.[^3]
+
+# Kritik
+Natürlich gibt es auch an der Pomodoro-Technik Kritik. Die Hauptvorwürfe sind:
+
+◾ Zu unflexibel:
+
+Die 25-Minuten-Abschnitte seien ein zu enges Korsett. Manche Aufgaben lassen sich einfach nicht darauf zuschneiden. So führe die Einhaltung doch nur zu einer anderen Unterbrechung. Dagegen lässt sich allerdings einwenden, dass sich die Methode den jeweiligen Bedürfnissen anpassen lässt. Entscheidend ist, dass Sie das Grundprinzip – den Wechsel aus fokussierter Arbeit und regelmäßigen Pausen – beibehalten.
+
+◾ Zu unrealistisch:
+
+Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchhalten könne. Einen derart ablenkungsfreien, strikt durchgetakteten und fokussierten Tag gibt es nicht. Mag sein. Sie können sich den Tag allerdings auch in Blöcke einteilen: jene, in denen Sie mit der Pomodoro-Technik arbeiten und andere, die freier bleiben.[^3]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Pomodoro.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Selbstoffenbarung](Selbstoffenbarung.md)
+* [Aufgabenteilung](Aufgabenteilung.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Francesco Cirillo: The Pomodoro Technique. 3. Auflage. FC Garage, Berlin 2013, ISBN 978-3-9815679-0-8 
+* Staffan Nöteberg: Die Pomodoro-Technik in der Praxis. dpunkt, Heidelberg 2011, ISBN 978-3-89864-717-5
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Pomodorotechnique](pomodorotechnique.com)
+[^2]: [Zeitakrobat](https://zeitakrobat.de/pomodoro-methode-einfach-und-wirkungsvoll)
+[^3]: [Karrierbibel.de](https://karrierebibel.de/pomodoro-technik/)
+
 

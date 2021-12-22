@@ -1,104 +1,100 @@
 ---
 title: Ideen_Marathon
-tags: agil klassisch
+tags: klassisch
 author: MrSommC
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Ideen_Marathon um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+Um ein erstes Verständnis zu schaffen, folgt zunächst eine Kurzbeschreibung des Ideen-Marathon.
+Der Ideen-Marathon wurde in den 1980er Jahren von Takeo Higuchi entwickelt. Dabei handelt es sich um eine Kreativitätstechnik zur Ideenfindung für Einzelpersonen. 
+Mit Hilfe des Ideen-Marathons soll ein umfangreicher Ideen-Pool geschaffen werden[^1].
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Der Ideen-Marathon im klassischen Projektmanagement
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Kreativität gilt interdisziplinär als Diktum und ist als Persönlichkeitseigenschaft und Fähigkeit im ökonomischen Kontext unerlässlich. Kreative Talente produzieren „neue, 
+originelle und sinnvolle“ Ideen und können durch ihre hohe kognitive Flexibilität besser auf tägliche Herausforderungen reagieren als ihre weniger kreativen Kollegen[^2][^3]. 
 
-![Beispielabbildung](Ideen_Marathon/test-file.jpg)
+Dank diesen Eigenschaften wird Kreativität auch im fluiden Umfeld des [Projektmanagements](Projektmanagement.md) gefordert - so müssen gerade zu Beginn eines Projekts einige 
+Unsicherheiten beseitigt werden. Beispielsweise gilt es vorab zu klären, welche Stakeholder ins Projekt miteinbezogen werden müssen. Welche Chancen und Risiken das Projekt 
+bürgen könnte, sollte 
+ebenfalls vor Projektbeginn geklärt werden[^4]. Für diese Herausforderungen und für noch viele Weitere ist Kreativität gefragt. 
 
-*lustiges Testbild*
+Kreativität – oder vielmehr kreatives denken – kann gezielt stimuliert werden. Im folgenden Artikel wird die Kreativitätstechnik „Ideen-Marathon“ vorgestellt werden. Zunächst 
+wird das Grundprinzip des Ideen-Marathons beschrieben, danach werden die Grundregeln der Kreativitätstechnik dargestellt. 
 
-# Aspekt 2
+## Hintergründe zum Ideen-Marathon
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Wie bereits in der Kurzbeschreibung erwähnt, wurde der Ideen-Marathon in den 1980er Jahren von Takeo Higuchi entwickelt. Ziel der Kreativitätstechnik ist die Ideenfindung für 
+Einzelpersonen. 
+Der mit Hilfe des Ideen-Marathons erschaffene Ideen-Pool führt laut Higuchi dazu, eine große Anzahl an einzigartigen Lösungen zu finden und eine Vielzahl an Problemen zu 
+lösen[^1].
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Grundprinzip des Ideen-Marathons
 
-So kann man eine Tabelle erstellen:
+Zu Beginn des Artikels soll das Grundprinzip eines Ideen-Marathons kurz erläutert werden.
+Um einen Ideen-Marthon durchzuführen wird über einen bestimmten Zeitraum ein sogenanntes „Ideentagebuch“ geführt. Unter der Berücksichtigung von sieben Grundregeln wird jeden 
+Tag mindestens eine Idee konzipiert und in besagtes Tagebuch geschrieben[^5].
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Regeln des Ideen-Marathons
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Nun werden die sieben Grundregeln des Ideen-Marathon näher erläutert. 
+Die erste Regel lautet, dass jeden Tag mindestens eine neue Idee konzipiert werden muss. 
+Als zweite Regel folgt, dass jede Idee möglichst prägnant formuliert und verfasst werden sollte. 
+An dieser Stelle kann das bereits beschriebene Notizbuch genutzt werden.
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Die dritte Regel besagt, dass die Möglichkeit bestehen muss, dass zu jedem Zeitpunkt eine neue Idee in das Notizbuch geschrieben werden kann. 
+Die darauffolgende vierte Regel gibt an, dass sich die Ideen vervielfachen lassen indem man mit Freunden, Kollegen oder Familie über die Ideen spricht.  
 
-### Ebene-3-Überschrift
+An fünfter Stelle steht, dass beim Notieren einer Idee besten Falls das gleiche wiederkehrende Schema angewandt werden sollte. Dies kann sich beispielsweise auf ein 
+fortlaufendes Datum, die Kategorie der Idee, die Beschreibung der Idee sowie den Ideenstatus beziehen. 
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Die sechste Regel lautet, dass mit der Idee gearbeitet werden soll. Das bedeutet, dass an bestehende Ideen, Notizen sowie Erläuterungen und Skizzierungen angefügt werden sollen. 
+Die siebte und letzte Regel besagt, dass jeden Tag am persönlichen Ideen-Marathon weitergearbeitet werden muss[^6].
 
-# Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## Effektivität des Ideen-Marathons
+
+Die Effektivität des Ideen-Marathons lässt sich an den Erfolgen von Takeo Higuchi beweisen. So entwickelte der Japaner seit 1984 über 300.000 Ideen und füllte damit 400 
+Notizbücher.
+Takeo Higuchi beabsichtigt die Kreativitätstechnik auch in Zukunft weiterhin zu nutzen, er würde damit bis 2035 1.000.000 Ideen entwickeln[^5].
+
+
+
+
+# Visualisierung des Ideen-Marathons
+
+
+
+![Beispielabbildung](Ideen_Marathon/GrafikIM.png) [^7]
+
+*Selbsterstellte Grafik zur Visualierung des Prozesses*
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Ideen_Marathon.md)
+* [Projektmanagement](Projektmanagement.md)
+ 
+* [Projektmanagementsoftware](Projektmanagementsoftware.md)
+ 
+* [Hackathon](Hackathon.md)
+
+* [Provokationstechnik](Provokationstechnik.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* K.Ladensack: Kreativität im Management, Management Revue 4. Jahrg., H. 3. (1993)
+* [Kreativität in Projekten – was soll das?](https://www.projektmagazin.de/meilenstein/projektmanagement-blog/kreativitaet-projekten-was-soll-das_1097100)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Ideen-Marathon - jeden Tag eine gute Idee](https://www.creaffective.de/2010/12/ideen-marathon-jeden-tag-eine-gute-idee/)
+[^2]: [The Birth of a Movement: Joy Paul Guilford and Creativity Research in American Psychology, 1950-70](https://www.academia.edu/5227271/The_Birth_of_a_Movement_Joy_Paul_Guilford_and_Creativity_Research_in_American_Psychology_1950_70)
+[^3]: [„Creativity“, Annual Review of Psychology, 55(1)](http://people.wku.edu/richard.miller/creativity.pdf)
+[^4]: [Warum Kreativität so wichtig für den Projekterfolg ist](https://projekte-leicht-gemacht.de/blog/softskills/kreativitaet/kreativitaet-projektmanagement/)
+[^5]: [Ideen-Marathon](https://www.deinlexikon.de/wiki/Ideen-Marathon)
+[^6]: [Ideen_Marathon](https://de.wikipedia.org/wiki/Ideen-Marathon)
+[^7]: [Bild](https://de.wikipedia.org/wiki/Ideen-Marathon)
+
 
