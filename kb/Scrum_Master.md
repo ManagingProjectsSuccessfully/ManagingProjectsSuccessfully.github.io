@@ -22,7 +22,7 @@ Allgemein ist der Scrum Master für die Umsetzung von Scrum verantwortlich. Sein
 
 ![Abbildung 1](Scrum_Master/Aufgaben_des_Scrum_Masters.jpg) 
 
-Abbildung 1: Der Scrum Master ist ausschlaggebend für das Management des Teams und weitere Stakeholder im Unternehmen.
+Abbildung 1: Der Scrum Master ist ausschlaggebend für das Management des Teams und weitere Stakeholder im Unternehmen
 
 # 3.	Profil eines guten Scrum Masters
 
@@ -30,11 +30,11 @@ Die [Prinzipien von Scrum](Scrum_Priciples.md) mit seinen Verantwortlichkeiten, 
 
 
 *	Kommunikativ:
-Er kommuniziert mit dem Team klar, offen und stets transparent. Er hat keine Scheu Probleme anzusprechen.[^4]
+Er kommuniziert mit dem Team klar, offen und stets transparent. Er zögert nicht Probleme anzusprechen.[^4]
 *	Motivierend:
-"Ein guter Scrum Master sollte „unbequem sein, ohne unangenehm zu sein“". Das bedeutet er motiviert das Team zu immer besseren Leistungen und stellt wichtige Fragen, auch wenn das heißt dass das Team die Komfortzone verlassen muss.[^4]
+"Ein guter Scrum Master sollte „unbequem sein, ohne unangenehm zu sein“". Das bedeutet er motiviert das Team zu immer besseren Leistungen und stellt wichtige Fragen, auch wenn das heißt, dass das Team die Komfortzone verlassen muss.[^4]
 *	Teamfähig:
-"Wie alle Mitglieder des Scrum-Teams sollte der Scrum Master absolut teamstark sein. Da er ständig mit verschiedenen Teams und Stakeholdern im Unternehmen in Kontakt ist und an den Schnittstellen arbeitet, ist die Teamfähigkeit eine der wichtigsten Eigenschaften des Scrum Masters. Denn er ist derjenige, der die mentale Infrastruktur für das agile Arbeiten im Unternehmen schafft."[^5]
+"Wie alle Mitglieder des Scrum Teams sollte der Scrum Master absolut team stark sein. Da er ständig mit verschiedenen Teams und Stakeholdern im Unternehmen in Kontakt ist und an den Schnittstellen arbeitet, ist die Teamfähigkeit eine der wichtigsten Eigenschaften des Scrum Masters. Denn er ist derjenige, der die mentale Infrastruktur für das agile Arbeiten im Unternehmen schafft."[^5]
 *	Wissend: 
 Natürlich hat der Scrum Master den Scrum Guide verinnerlicht. Wenn es innerhalb des Teams Fragen zu Scrum gibt, sollte der Scrum Master die Antwort darauf kennen und in der Lage sein weiterhelfen zu können.[^5]
 
@@ -57,7 +57,9 @@ Die Bezeichnung „Master“ erfährt immer wieder Kritik. So impliziere „Mast
 
 # Weiterführende Literatur
 
-
+* [SCRUM MASTER 2.0 : Das nächste Level](https://www.hanser-elibrary.com/doi/book/10.3139/9783446468764)
+* [Scrum: Schnelleinstieg](https://ebookcentral.proquest.com/lib/erlangen/detail.action?docID=5646208)
+* [How to Kill the Scrum Monster : Quick Start to Agile Scrum Methodology and the Scrum Master Role](https://link.springer.com/book/10.1007%2F978-1-4842-3691-8)
 
 # Quellen
 
