@@ -26,7 +26,7 @@ Abbildung 1: Der Scrum Master ist ausschlaggebend für das Management des Teams 
 
 # 3.	Profil eines guten Scrum Masters
 
-Die [Prinzipien von Scrum](Scrum_Priciples.md) mit seinen Verantwortlichkeiten, Events und Artefakten zu kennen reicht nicht aus, um ein guter Scrum Master zu sein. Die breit gefächerten Aufgaben eines Scrum-Masters lassen bereits erahnen, welche Kompetenzen einen Scrum Master auszeichnen. Um  ein  Scrum  Team  und  sein  Environment  effektiv  unterstützen  zu  können,  werden  folgende Eigenschaften benötigt: 
+Die [Prinzipien von Scrum](Scrum_Priciples.md) mit seinen Verantwortlichkeiten, Events und Artefakten zu kennen reicht nicht aus, um ein guter Scrum Master zu sein. Die breit gefächerten Aufgaben eines Scrum Masters lassen bereits erahnen, welche Kompetenzen einen Scrum Master auszeichnen. Um  ein  Scrum  Team  und  sein  Environment  effektiv  unterstützen  zu  können,  werden  folgende Eigenschaften benötigt: 
 
 
 *	Kommunikativ:
