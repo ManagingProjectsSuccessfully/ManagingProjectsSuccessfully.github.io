@@ -52,7 +52,9 @@ Durch Bearbeitung dieser Punkte können nun neue Ideen und Lösungen erarbeitet 
 
 Falls die Ideenfindung durch klassische Ansätze wie Brainstorming in einer Gruppe ins Stocken gerät, können intuitive Methoden wie die Negativkonferenz dabei helfen,
 auf neue Ideen zu kommen. 
-Das kann zum Beispiel der Fall sein, wenn sich die Expertengruppe schon lange mit einem Thema beschäftigt und keine weiteren neuen Einfälle einbringen kann. Es ist manchmal leichter Probleme zu finden, als neue Lösungsansätze zu entwickeln. Damit lassen sich Denkblockaden überwinden. [^6]
+Das kann zum Beispiel der Fall sein, wenn sich die Expertengruppe schon lange mit einem Thema beschäftigt und keine weiteren neuen Einfälle einbringen kann. 
+Es kann für die Gruppe unter Umständen leichter sein, Probleme zu finden, als neue Lösungsansätze zu entwickeln. 
+Dadurch können Denkblockaden überwunden werden. [^6]
 
 "Etwas, was man verschlimmern kann, lässt sich sehr wahrscheinlich auch verbessern, in der Regel müssen die gefundenen Faktoren der Verschlimmerung nur umgekehrt
 werden." (Sven Lundershausen: *Die Moderation strategischer Initiativen*, S. 140)
