@@ -1,27 +1,29 @@
 ---
 title: Reflexion
-tags: klassisch
+tags: Reflexion klassisch 
 author: goekcen01
 anrechnung: k
 ---
 
 
-Reflexion: "das Nachdenken; Überlegung, prüfende Betrachtung".[^1]
+**Reflexion**: "das Nachdenken; Überlegung, prüfende Betrachtung".[^1]
 
-In einer Projektreflexion setzt man sich mit dem zurückliegenden Projekt rückblickend auseinander und besinnt unterschiedliche Aspekte der Zusammenarbeit nach.[^2]
+In einer Projektreflexion setzt man sich mit dem zurückliegenden Projekt rückblickend auseinander und besinnt unterschiedliche Aspekte der Zusammenarbeit nach.[^2] <br><hr>
 
 
-# Reflexion im klassischen Projektmanagement 
+# Einordnung in den Projektverlauf
 
-Sobald das Projekt zu einem Ende kommt, wird eine ausführliche Reflexion nötig.
+Am Ende eines Projektes angelangt, steht meist noch eine entscheidende Aufgabe an, und zwar das ausführliche Reflektieren des gesamten Ablaufs. Genau wie alle anderen Vorgänge davor, ist auch die Reflexion ein ernstzunehmender und unerlässlicher Schritt für einen erfolgreichen Projektmanagement-Prozess.
 
-Das Überprüfen von messbaren Dingen, im Besonderen die Zielerreichung ist hierfür ein idealer Startpunkt. Das Projekt wird an den Projektauftraggeber übergeben und von diesem final abgenommen. Anschließend sollte der gesamte Verlauf des Projektes kritisch betrachtet werden. Wo gab es unerwartete Hindernisse? Welche Phasen waren besonders schwierig? Wie lief es zwischenmenschlich und wo kann sich jedes einzelne Projektmitglied verbessern? [^3]
+Das Überprüfen von messbaren Dingen, im Besonderen die Zielerreichung, ist hierfür ein idealer Startpunkt. Das Projekt wird an den Projektauftraggeber übergeben und von diesem final abgenommen. Anschließend sollte der gesamte Verlauf des Projektes kritisch betrachtet werden. Wo gab es unerwartete Hindernisse? Welche Phasen waren besonders schwierig? Wie lief es zwischenmenschlich und wo kann sich jedes einzelne Projektmitglied verbessern? [^3]
+
+## Unterschiede zwischen agilen und klassischen Projekten
 
 Anders als bei agilen Projekten, wird bei der klassischen Herangehensweise, direkt von Beginn an, ein definierter Endzustand festgelegt. 
 Während des Projektes anzuhalten und den Zwischenstand zu überprüfen ist hier eher nicht üblich.
 An Stelle der regelmäßigen Reflektion zwischendurch, greift man beim traditionellen Projektmanagement zu klassischen Instrumenten des Wissensmanagements, wie etwa die [Lesson Learned](Lessons_Learned.md) und die Projektanalyse am Projektende.[^4]
 
-Da bei dem klassischen Projektmanagement die Reflexion, einmalig zum [Projektabschluss](Projektabschluss.md), durchgeführt wird, muss man bedenken, dass sie nicht dazu beitragen kann das aktuelle Projekt selbst noch erfolgreicher zu machen, da dieses bereits beendet ist.[^2]
+Da bei dem klassischen Projektmanagement die Reflexion, einmalig zum [Projektabschluss](Projektabschluss.md), durchgeführt wird, muss man bedenken, dass sie nicht dazu beitragen kann das aktuelle Projekt selbst noch erfolgreicher zu machen, da dieses bereits beendet ist.[^2] 
 
 Sinn und Zweck der Reflektion zum Schluss eines Projektes ist es, die positiven Punkte beim nächsten Projekt wieder anzuwenden und Fehler hingegen nicht nochmal zu wiederholen.
 
@@ -29,20 +31,24 @@ Im Vordergrund steht hier somit das Lernen aus Erfahrungen und das aktive Anwend
 Es wird demzufolge durch das Reflektieren zu künftigen Erfolgen beigetragen und der Ablauf für weitere Projekte optimiert.[^8]
 
 ![Abbildung](Reflexion/what-is-project-management-process.png)
+*Abbildung 1: [Illustration eines Gruppenmeetings zur Reflektion des abgeschlossenen Projektes](https://images.app.goo.gl/SCjDD73gDcpNFknX6)* <br><hr>
 
-## Ablauf
+# Ablauf
 
-Der Reflexionsprozess kann auf unterschiedliche Art und Weise gestaltet werden, einen Musterablauf gibt es nicht.
+Der Reflexionsprozess kann auf unterschiedliche Art und Weise gestaltet werden, einen Musterablauf gibt es hierfür nicht.
 
 Die Durchführung der Reflexion unterscheidet sich von Projektmanager zu Projektmanager. Wobei einige starken Wert auf Selbstreflexion legen, bevorzugen andere es hingegen, ein Meeting mit dem gesamten Team zu organisieren und gemeinsam das zurückliegende Projekt zu analysieren und zu reflektieren.[^8]
 
 Was aber auf alle Fälle wichtig ist, ist es das Besprochene zu dokumentieren und Daten für weitere Projekte zu sammeln. Hierfür kommt beispielsweise ein [Projektabschlussbericht](Projektabschlussbericht.md) in Frage.[^5]
 
+![Abbildung](Reflexion/440836_1_De_5_Fig2_HTML.png)
+*Abbildung 2: [Beispielvorlage für ein Projektabschlussbericht](https://images.app.goo.gl/ayaGZiNhzzog48B48)*
+
 Ein Dokument mit den relevantesten Punkten, Ergebnissen und vor allem den durchlaufenen Hürden, vermittelt essenzielles Wissen und Know-How für alle Projektmitglieder.
 
 Das Projekt endet also nicht mit der Übergabe an den Auftraggeber, sondern erst mit dem erfolgreichen Abschluss, inklusive Dokumentation und Reflexion für zukünftige Projekte.[^3]
 
-Eine denkbare Herangehensweise wäre es, zusammen mit allen Projektbeteiligten, einige Fragen durchzugehen.[^6]
+Eine ebenso erdenkliche Herangehensweise wäre es, zusammen mit allen Projektbeteiligten, einige Fragen durchzugehen.[^6] 
 
 ### Mögliche Fragen, die man sich selbst und dem Team stellen könnte:
 1.  Wurde das Projektziel erreicht? 
@@ -52,18 +58,20 @@ Eine denkbare Herangehensweise wäre es, zusammen mit allen Projektbeteiligten, 
      -   auf der Beziehungsebene (in der Gruppe ...)?
 4.  Wie könnte dieses Projekt weitergeführt werden?
 5.  Was haben Sie für sich gelernt?
-6. Was können wir beim nächsten Projekt besser machen?
+6. Was können wir beim nächsten Projekt besser machen? 
+
+<br><hr>
 
 
-## Fazit
+# Fazit
 
 Zusammenfassend bedeutet eine ausführliche Reflexion für neue Projekte folgendes[^7]: 
 * Fehler zu vermeiden
 * Risiken zu verringern
 * Chancen zu nutzen
-* Projekt-Qualität zu steigern.
+* Projekt-Qualität zu steigern
 
-Bei so vielen positiven Aspekten kann man abschließend sagen, dass es durchaus Sinn macht, das zurückliegende Projekt Revue passieren zu lassen, bevor man den erfolgreichen Abschluss des Projektes zusammen mit dem Team feiert.
+Abschließend lässt sich sagen, dass die Reflexion nicht nur für die Gestaltung eines effektiven Projektendes, sondern auch gerade im Zusammenhang mit der Auswertung von Erfahrungen und dem Sammeln von „Projektwissen“ bedeutsam ist. Die investierte Zeit in die Selbstreflexion oder das Abschlussgespräch mit den Mitglieder des Projektteams rentiert sich spätestens bei allen darauffolgenden Projekten und ermöglicht ein perfekt abgerundetes Ende. <br><hr>
 
 
 # Siehe auch
@@ -97,6 +105,7 @@ Bei so vielen positiven Aspekten kann man abschließend sagen, dass es durchaus 
 [^7]: [TPG, Lessons Learned im Projektmanagement](https://www.theprojectgroup.com/blog/lessons-learned-im-projektmanagement/)
 
 [^8]:[Oppermann, A., 2011. Ein Unternehmen auf dem Weg zum Projektmanagement: Reflexion einer empirischen Begleitung.](https://hildok.bsz-bw.de/files/131/386760373.pdf)
+
 
 
 
