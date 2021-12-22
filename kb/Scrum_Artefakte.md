@@ -44,7 +44,7 @@ Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team
 
 # Siehe auch
 
-* [SCRUM](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
+* [SCRUM](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
 * [Product Owner](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Owner.md)
 * [Scrum Master](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Master.md)
 * [Daily Scrum](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md)
