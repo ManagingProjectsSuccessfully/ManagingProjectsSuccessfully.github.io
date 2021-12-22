@@ -75,6 +75,6 @@ Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe,
 [^2]: http://www.entdecken-entwickeln.de/projektberatung.html
 [^3]: https://cpc-services.de/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1NSPMrDkeYPs1tsYUfjeslCH27blFqOtn48FnbUaF3-GZZil9gjXLBoCS64QAvD_BwE
 [^4]: https://www.pmcc-consulting.com/kompetenzen/projektmanagement/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1Nab-UuWxjKJAyHdjgzy5-NMN--GWtfk7fFmFaP0GTt2OsT5lxPMThoCvlUQAvD_BwE
-[^5]: https://smodin.io/de/text-automatisch-in-deutscher-sprache-umformulieren
+[^5]: https://surwayne.com/de/blog/warum-projekte-scheitern
 [^6]: http://docplayer.org/11051318-6-5-13-projektcoaching-projektmentoring-oder-doch-kollegiale-projektberatung-wann-passt-welches-konzept-der-einzelberatung.html
 
