@@ -93,16 +93,17 @@ Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einz
 
 # Weiterführende Literatur
 
-[What is PRINCE2? (in 100 seconds)](https://www.youtube.com/watch?v=61RnrsWQE7A)
+* [What is PRINCE2? (in 100 seconds)](https://www.youtube.com/watch?v=61RnrsWQE7A)
+*  
 
 
 # Siehe auch
 
-[PMBOK Guide](PMBOK_Guide.md)
-[Projektplanung](Projektplanung.md)
-[PRINCE2 7 Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
-[PRINCE2 7 Prozesse](PRINCE2_7_Prozesse.md)
-[PRINCE2 Projektumgebung](PRINCE2_Projektumgebung.md)
+* [PMBOK Guide](PMBOK_Guide.md)
+* [Projektplanung](Projektplanung.md)
+* [PRINCE2 7 Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
+* [PRINCE2 7 Prozesse](PRINCE2_7_Prozesse.md)
+* [PRINCE2 Projektumgebung](PRINCE2_Projektumgebung.md)
 
 
 
