@@ -7,44 +7,43 @@ anrechnung: a
 
 # 1.	Definition Scrum Master
 
-Der Scrum Master ist eine von drei [Rollen](Rollen_Scrum.md) die es in [Scrum](Scrum.md) gibt. Als Scrum Master trägt man die Verantwortung, dass das Scrum Team möglichst effektiv und ungestört arbeiten kann. Also die Person, die darauf achtet, dass die wenigen Scrum Regeln des [Scrum Guide](Scrum_Guide.md) reibungslos funktionieren und dass alle Beteiligten die Scrum - Theorie, Praktiken, Regeln und Werte verstehen.[^1]
+"Der Scrum Master ist eine von drei [Rollen](Rollen_Scrum.md) die es in [Scrum](Scrum.md) gibt. Als Scrum Master trägt man die Verantwortung, dass das Scrum Team möglichst effektiv und ungestört arbeiten kann. Also die Person, die darauf achtet, dass die wenigen Scrum Regeln des [Scrum Guide](Scrum_Guide.md) reibungslos [...] funktionieren und dass alle Beteiligten die Scrum - Theorie, Praktiken, Regeln und Werte verstehen lernen."[^1]
 
 # 2. Aufgaben des Scrum Masters
 
 Allgemein ist der Scrum Master für die Umsetzung von Scrum verantwortlich. Seine Aufgaben sind dabei vielfältig. Er agiert als Moderator, Vermittler, Prozessbegleiter, Unterstützer und Coach. Er hilft Entwicklern und dem [Product Owner](Product_Owner.md) – den beiden anderen Verantwortlichkeiten, die Scrum als Framework definiert – dabei, Ziele gemeinsam zu erreichen, indem er seine Kollegen befähigt und die Zusammenarbeit fördert. Darüber hinaus wirkt er auch in Richtung der Organisation.[^2] Konkrete Aufgaben umfassen
-*	Schutz das Scrum Teams vor unnötigen Einflüssen von außen
-*	Moderation von Meetings ([Daily Scrum])(Daily_Scrum.md)
+*	Schutz des Scrum Teams vor unnötigen Einflüssen von außen
+*	Moderation von Meetings ([Daily Scrum](Daily_Scrum.md))
 *	Coachen des Entwicklungsteams in Selbstorganisation und funktionsübergreifender Teamarbeit
-*	Beseitigung von Impediments
+*	Beseitigung von Impediments und Flaschenhälsen
 *	Unterstützung der Organisation bei der Einführung von Scrum
 *	Arbeit an Organisationsveränderungen, die dem Team helfen, produktiver zu sein[^3]
 *	Sicherstellen, dass alle im Scrum Team die Ziele richtig verstehen[^6]
 
-![Abbildung 1](Scrum_Master/original.jpg) 
+![Abbildung 1](Scrum_Master/Aufgaben_des_Scrum_Masters.jpg) 
 
 Abbildung 1: Der Scrum Master ist ausschlaggebend für das Management des Teams und weitere Stakeholder im Unternehmen.
 
-# 3.	Eigenschaften eines guten Scrum Masters
+# 3.	Profil eines guten Scrum Masters
 
-Die [Prinzipien von Scrum](Scrum_Priciples.md) mit seinen Verantwortlichkeiten, Events und Artefakten zu kennen reicht nicht aus, um ein guter Scrum Master zu sein. Die breit gefächerten Aufgaben eines Scrum-Masters lassen bereits erahnen, welche Kompetenzen einen Scrum Master auszeichnen. 
+Die [Prinzipien von Scrum](Scrum_Priciples.md) mit seinen Verantwortlichkeiten, Events und Artefakten zu kennen reicht nicht aus, um ein guter Scrum Master zu sein. Die breit gefächerten Aufgaben eines Scrum-Masters lassen bereits erahnen, welche Kompetenzen einen Scrum Master auszeichnen. Um  ein  Scrum  Team  und  sein  Environment  effektiv  unterstützen  zu  können,  werden  folgende Eigenschaften benötigt: 
 
 
 *	Kommunikativ:
 Er kommuniziert mit dem Team klar, offen und stets transparent. Er hat keine Scheu Probleme anzusprechen.[^4]
 *	Motivierend:
-Ein guter Scrum Master sollte „unbequem sein, ohne unangenehm zu sein“. Das heißt er motiviert das Team zu immer besseren Leistungen und stellt wichtige Fragen, auch wenn das bedeutet dass das Team die Komfortzone verlassen muss.[^4]
+"Ein guter Scrum Master sollte „unbequem sein, ohne unangenehm zu sein“". Das bedeutet er motiviert das Team zu immer besseren Leistungen und stellt wichtige Fragen, auch wenn das heißt dass das Team die Komfortzone verlassen muss.[^4]
 *	Teamfähig:
-Wie alle Mitglieder des Scrum-Teams sollte der Scrum Master absolut teamstark sein. Da er ständig mit verschiedenen Teams und Stakeholdern im Unternehmen in Kontakt ist und an den Schnittstellen arbeitet, ist die Teamfähigkeit eine der wichtigsten Eigenschaften des Scrum Masters. Denn er ist derjenige, der die mentale Infrastruktur für das agile Arbeiten im Unternehmen schafft.[^5]
+"Wie alle Mitglieder des Scrum-Teams sollte der Scrum Master absolut teamstark sein. Da er ständig mit verschiedenen Teams und Stakeholdern im Unternehmen in Kontakt ist und an den Schnittstellen arbeitet, ist die Teamfähigkeit eine der wichtigsten Eigenschaften des Scrum Masters. Denn er ist derjenige, der die mentale Infrastruktur für das agile Arbeiten im Unternehmen schafft."[^5]
 *	Wissend: 
-Natürlich hat der Scrum Master den Scrum Guide verinnerlicht. Wenn es(innerhalb des Unternehmens) Fragen zu Scrum gibt, sollte der Scrum Master die Antwort darauf kennen und weiterhelfen können.[^5] in der Lage sein weiterhelfen zu können
+Natürlich hat der Scrum Master den Scrum Guide verinnerlicht. Wenn es innerhalb des Teams Fragen zu Scrum gibt, sollte der Scrum Master die Antwort darauf kennen und in der Lage sein weiterhelfen zu können.[^5]
 
 
 
 
 # 4.	Kritik an der Bezeichnung
 
-Die Bezeichnung „Master“ erfährt immer wieder Kritik. So impliziere „Master“ eine Hierarchie innerhalb einer Organisation. Diese Implikation ist jedoch irreführend, ein Scrum Master ist ein Master of Scrum. Er ist ein Experte in der Theorie und Praxis von Scrum. Durch seine Arbeit ist er ein Dienstleister für den Product Owner, die Entwickler und die gesamte Organisation. Der Scrum Master ist kein Projektleiter und besitzt weder Weisungsbefugnis oder Entscheidungsgewalt noch trägt er die Verantwortung für das gesamte Projekt. Er ist weder Untergebener noch Vorgesetzter, sondern agiert auf Augenhöhe mit seinen Kollegen.[^2] 
-
+Die Bezeichnung „Master“ erfährt immer wieder Kritik. So impliziere „Master“ eine Hierarchie innerhalb einer Organisation. Diese Implikation ist jedoch irreführend, ein Scrum Master ist keine Führungskraft im herkömmlichen Sinne. Ein Scrum Master ist ein Master of Scrum. Er ist ein Experte in der Theorie und Praxis von Scrum. Durch seine Arbeit ist er ein Dienstleister für den Product Owner, die Entwickler und die gesamte Organisation. Der Scrum Master ist kein Projektleiter und besitzt weder Weisungsbefugnis oder Entscheidungsgewalt noch trägt er die Verantwortung für das gesamte Projekt. Er ist weder Untergebener noch Vorgesetzter, sondern agiert auf Augenhöhe mit seinen Kollegen.[^2] 
 
 
 # Siehe auch
