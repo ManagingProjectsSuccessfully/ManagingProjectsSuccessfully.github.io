@@ -16,15 +16,15 @@ Der Begriff Project Kick Off oder auch Kick- off Veranstaltung/ Meeting genannt,
 
 1.[Ziele des Project Kick Off](#ziele-des-project-kick-pff) 
 
-2.[Vorbereitung des Meeting](vorbereitung-des-meeting) 
+2.[Vorbereitung des Meeting](#vorbereitung-des-meeting) 
 
-3.[Ablauf des Kick Off Meetings](ablauf-des-kick-off-meetings)
+3.[Ablauf des Kick Off Meetings](#ablauf-des-kick-off-meetings)
 
-4.[Fehler eines Meetings](fehler-eines-meetings)
+4.[Fehler eines Meetings](#fehler-eines-meetings)
 
-5.[Zusammenfassung](zusammenfassung)
+5.[Zusammenfassung](#zusammenfassung)
 
-6.[Quellen](quellen) 
+6.[Quellen](#quellen) 
 
  
 
@@ -75,11 +75,11 @@ Das Kick- Off- Meeting ist ein Grundstein für eine erfolgreiche Projetkabwicklu
 # Quellen 
 
 
-[^1] :  
+[^1]:  
 https://www.atlassian.com/work-management/project-management/project-kickoff 
-[^2] : (https://karrierebibel.de/kick-off-meeting/) 
-[^3] : (https://dieprojektmanager.com/checkliste-kick-off-meeting-projekte/) 
-[^4] : https://www.inloox.de/projektmanagement-glossar/kick-off-veranstaltung/
+[^2]: (https://karrierebibel.de/kick-off-meeting/) 
+[^3]: (https://dieprojektmanager.com/checkliste-kick-off-meeting-projekte/) 
+[^4]: https://www.inloox.de/projektmanagement-glossar/kick-off-veranstaltung/
 
 
 
