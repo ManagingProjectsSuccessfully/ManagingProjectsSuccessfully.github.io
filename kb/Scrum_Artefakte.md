@@ -8,7 +8,7 @@ Die Scrum Artefakte stellen die wesentlichen Komponenten des Scrums, einer agile
 
 
 # Scrum Artefakte
-Es gibt im [Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und „Product Increment“. Diese haben jeweils einen übergeordneten Leitgedanken, der dabei helfen sollen, in allen Ebenen einen Überblick zu behalten.[^1]
+Es gibt im [Scrum]((https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)) drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und „Product Increment“. Diese haben jeweils einen übergeordneten Leitgedanken, der dabei helfen sollen, in allen Ebenen einen Überblick zu behalten.[^1]
 
 Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maximaler Transparenz, sodass alle auf dem aktuellen Wissensstand sind, weshalb sie zu optimalen Arbeitsbedingungen beitragen.[^2][^3]
 
@@ -17,7 +17,7 @@ Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maxim
 
 ## 1.1 Zusammensetzung des Product Backlogs
 
-Das Product Backlog, welches vom [Product Owner](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Owner.md) in Zusammenarbeit mit den Stakeholdern erstellt wird, wird als Kernartefakt von Scrum bezeichnet. Es handelt sich hier um eine Liste, welche geordnet und priorisiert alle Funktionen und Kriterien aufzeigt, die das Endprodukt bieten soll. Sogenannte Product Backlog Items beschreiben diese Anforderungen, wie z.B. User Stories und Verbesserungen, aus Sicht und Sprache des Kunden.[^2][^3][^5]
+Das Product Backlog, welches vom [Product Owner](https://github.com/Leon1906/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Owner.md) in Zusammenarbeit mit den Stakeholdern erstellt wird, wird als Kernartefakt von Scrum bezeichnet. Es handelt sich hier um eine Liste, welche geordnet und priorisiert alle Funktionen und Kriterien aufzeigt, die das Endprodukt bieten soll. Sogenannte Product Backlog Items beschreiben diese Anforderungen, wie z.B. User Stories und Verbesserungen, aus Sicht und Sprache des Kunden.[^2][^3][^5]
 
 ## 1.2 Die Dynamik im Product Backlog
 
@@ -29,13 +29,13 @@ Hieraus werden während des Sprint Planning, die zu erledigenden Punkte für den
 
 # 2. Sprint Backlog
 
-Das Sprint Backlog setzt sich aus den ausgewählten Einträgen aus dem Product Backlog, ergänzt um alle notwendigen Informationen zur Erreichung des Sprintziels, zusammen. Die Produktanforderungen werden selbstständig aus dem Product Backlog gezogen und dienen als Ziel während des aktuellen Sprints. Im Normalfall sollte sich das Product Backlog während eines Sprints nicht verändern, denn die Ansprüche werden so gewählt, dass sie während eines Sprints zu erledigen sind und sie im nächsten darauf aufbauen können. Der sogenannte Sprint-Schutz dient dazu, dass das Team während des Sprints ungestört und ohne Überraschungen ein potenziell auslieferbares Produkt herstellen kann. Auf dem Scrum Board besteht die Möglichkeit während des [Daily Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md) den Status bestimmter Aufgaben zu verändern, wie z.B. von "wartend" zu "in Korrektur". Wenn schließlich der Status "fertiggetsellt" erreicht wurde, kann die Aufgabe in die Product Increment Liste übertragen werden.[^1][^2][^3][^4]
+Das Sprint Backlog setzt sich aus den ausgewählten Einträgen aus dem Product Backlog, ergänzt um alle notwendigen Informationen zur Erreichung des Sprintziels, zusammen. Die Produktanforderungen werden selbstständig aus dem Product Backlog gezogen und dienen als Ziel während des aktuellen Sprints. Im Normalfall sollte sich das Product Backlog während eines Sprints nicht verändern, denn die Ansprüche werden so gewählt, dass sie während eines Sprints zu erledigen sind und sie im nächsten darauf aufbauen können. Der sogenannte Sprint-Schutz dient dazu, dass das Team während des Sprints ungestört und ohne Überraschungen ein potenziell auslieferbares Produkt herstellen kann. Auf dem Scrum Board besteht die Möglichkeit während des [Daily Scrum](https://github.com/JonathanBauerFau/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md) den Status bestimmter Aufgaben zu verändern, wie z.B. von "wartend" zu "in Korrektur". Wenn schließlich der Status "fertiggetsellt" erreicht wurde, kann die Aufgabe in die Product Increment Liste übertragen werden.[^1][^2][^3][^4]
 
 
 # 3. Product Increment
 
 Ein Product Increment ist jenes Produkt, welches nach einem Sprint entstanden ist und wird deshalb auch Teilergebnis des Projekts genannt. Die einzelnen Inkremente bauen aufeinander auf, sowie verbessern und erweitern das angestrebte Produkt von Iteration zu Iteration bis schließlich ein Produkt entsteht, welches den Anforderungen des Kunden entspricht. 
-Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team (Product Owner, [Scrum Master](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Master.md), Developer) festgelegt wird, dient dazu, ein gemeinsames Verständnis der Aufgabestellung und Abnahmekriterien zu haben. Am Ende eines jeden Sprints erklärt der Product Owner, inwiefern diese erfüllt wurde und entscheidet dann, ob das Product Increment den Stakeholdern zur Verfügung gestellt wird, sodass es umgehend in der Praxis geprüft und getestet werden kann.[^1][^2][^4][^5][^6]
+Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team (Product Owner, [Scrum Master](https://github.com/Phr4nk20/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Master.md), Developer) festgelegt wird, dient dazu, ein gemeinsames Verständnis der Aufgabestellung und Abnahmekriterien zu haben. Am Ende eines jeden Sprints erklärt der Product Owner, inwiefern diese erfüllt wurde und entscheidet dann, ob das Product Increment den Stakeholdern zur Verfügung gestellt wird, sodass es umgehend in der Praxis geprüft und getestet werden kann.[^1][^2][^4][^5][^6]
 
 
 ![Scrum Artefakte Bild](Scrum_Artefakte/Visualisierung_des_Prozesses_nach_Artefakten.png)
@@ -45,9 +45,9 @@ Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team
 # Siehe auch
 
 * [SCRUM](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
-* [Product Owner](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Owner.md)
-* [Scrum Master](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Master.md)
-* [Daily Scrum](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md)
+* [Product Owner](https://github.com/Leon1906/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Owner.md)
+* [Scrum Master](https://github.com/Phr4nk20/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Master.md)
+* [Daily Scrum](https://github.com/JonathanBauerFau/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md)
 
 
 # Quellen
