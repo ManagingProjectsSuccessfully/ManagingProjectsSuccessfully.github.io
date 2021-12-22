@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 
-*Vom Mythos des Mann-Monats* ist ein Essay des amerikanischen Informatikers Fred Brooks aus dem gleichnamigen Buch *The Mythical Man-Month: Essays on Software Engineering* (deutsch: Vom Mythos des Mann-Monats: Essays über Software-Engineering). Er befasst sich darin mit seinen Eindrücken und Erfahrungen in Bezug auf Software-Engineering und [Projektmanagement](Projektmanagement.md), die er als ehemaliger Leiter eines Projekts bei [IBM](https://de.wikipedia.org/wiki/IBM) gesammelt hat, und den daraus geschlossenen Erkenntnissen. Aus diesen leitete Brooks das [Brook'sche Gesetz](https://de.wikipedia.org/wiki/Anti-Pattern#Brooks.E2.80.99sches_Gesetz) ab, wonach der Einsatz zusätzlicher Arbeitskräfte bei bereits verzögerten Software-Projekten diese nur noch mehr verzögert.[^1]
+*Vom Mythos des Mann-Monats* ist ein Essay des amerikanischen Informatikers Fred Brooks aus dem gleichnamigen Buch *The Mythical Man-Month: Essays on Software Engineering* (deutsch: Vom Mythos des Mann-Monats: Essays über Software-Engineering). Die englische Originalausgabe erschien im Jahr 1971 und wurde 1991 in deutscher Sprache veröffentlicht. Er befasst sich darin mit seinen Eindrücken und Erfahrungen in Bezug auf Software-Engineering und [Projektmanagement](Projektmanagement.md), die er als ehemaliger Leiter eines [Projekts](Projekt.md) bei IBM gesammelt hat, und den daraus geschlossenen Erkenntnissen. Aus diesen leitete Brooks das [Brook'sche Gesetz](https://de.wikipedia.org/wiki/Anti-Pattern#Brooks.E2.80.99sches_Gesetz) ab, wonach der Einsatz zusätzlicher Arbeitskräfte bei bereits verzögerten Software-Projekten diese nur noch mehr verzögert.[^1]
 
 
 
@@ -30,20 +30,20 @@ Eine tatsächliche Austauschbarkeit liegt ausnahmsweise bei denjenigen Aufgaben 
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Arbeitszeit%20vs.%20Arbeitskräfte%20vollständig%20unterteilbar.JPG)
 
-*Abbildung 1: aufteilbare Arbeitszeit und Arbeitskräfte*[^1]
+*Abbildung 1: aufteilbare Arbeitszeit und Arbeitskräfte.*[^1] *Die Abbildung verdeutlicht, dass die Zeit verkürzt werden kann, wenn mehr Arbeitskräfte an einer Aufgabe beteiligt werden.* 
 
 
 Erfolgt aber eine Aufgabe in einer bestimmten Reihenfolge und ist deshalb nicht aufteilbar, dann hat jede hinzugefügte Anstrengung keinen Einfluss auf die Zeit (Abbildung 2).[^5]
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Arbeitszeit%20vs.%20Arbeitskräfte%20unteilbar.JPG)
 
-*Abbildung 2: unteilbare Arbeitszeit und Arbeitskräfte*[^1]
+*Abbildung 2: unteilbare Arbeitszeit und Arbeitskräfte.*[^1] *Dabei wird veranschaulicht, dass eine Erhöhung der Arbeitskräfte keine Auswirkungen auf die Zeit hat, sobald eine Aufgabe in einer bestimmten Reihenfolge zu erfolgen hat.*
 
-Bei aufteilbaren Aufgaben ist hingegen ein Informationsaustausch notwendig, der als Aufwand der zu leistenden Arbeit angerechnet werden muss (Abbildung 3), was sich verlängernd auf die Projektzeit auswirkt. Mit mehr Kommunikationsbeziehungen erhöht sich auch der Aufwand für eine Aufgabe zusätzlich zu dem ohnehin hinzuzurechnenden Aufwand des Informationsaustausches als zu leistende Arbeit.[^1]
+Bei aufteilbaren Aufgaben ist hingegen [Projektkommunikation](Projektkommunikation.md) in Form eines Informationsaustausches notwendig, der als Aufwand der zu leistenden Arbeit angerechnet werden muss (Abbildung 3), was sich verlängernd auf die Projektzeit auswirkt. Mit mehr Kommunikationsbeziehungen erhöht sich auch der Aufwand für eine Aufgabe zusätzlich zu dem ohnehin hinzuzurechnenden Aufwand des Informationsaustausches als zu leistende Arbeit.[^1]
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Aufgabe%20mit%20Kommunikation.JPG)
 
-*Abbildung 3: Projekt mit Informationsaustausch*[^6]
+*Abbildung 3: Projekt mit Informationsaustausch.*[^6] *Da ein Kommunikationsaustausch zum Aufwand hinzuzuaddieren ist, erhöht sich mit Zunahme der Arbeitskräfte der für die Aufgabe erforderliche Kommunikationsaustausch, wodurch die Zeit für eine Aufgabe ansteigt.* 
 
 Beim Informationsaustausch von n Personen sinkt ihr Output mit wachsendem n. Sobald dieser negativ wird, verzögert sich das Projekt mit jeder zusätzlich eingesetzten Person (Abbildung 3).Dabei ist die Anzahl der Kommunikationsbeziehungen definiert durch: n(n − 1) / 2 [^1][^7]
 
@@ -61,7 +61,7 @@ Gerät ein Projekt in Zeitverzug, so werden zur Problemlösung mehr Arbeitskräf
 
 ![Abbildung](Vom_Mythos_des_Mann_Monats/Das%20tatsächliche%20Ergebnis.JPG)
 
-*Abbildung 4: Rückkopplung durch Einsatz weiterer Arbeitskräfte*[^1]
+*Abbildung 4: Rückkopplung durch Einsatz weiterer Arbeitskräfte*[^1] *Die Abbildung zeigt, dass die Einarbeitung neuer Arbeitskräfte Zeit in Anspruch nimmt, wodurch alle nachfolgenden Projektabschnitte später als vorgesehen beginnen können und somit das Projekt in Verzug gerät.*
 
 ## Mythos als Schlussfolgerung
 Unter Darstellung der Gründe hält es Brooks daher für einen Mythos, dass durch eine Erhöhung der Arbeitskraft die Projektzeit verkürzt werden kann und erst recht nicht kürzer sein kann als die Dauer, die ein Projekt grundsätzlich erfordert.[^1]
