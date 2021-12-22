@@ -16,6 +16,7 @@ Der Begriff Projekt lässt sich vom lateinischen Wort proicere ableiten, dass so
 Substantiviert man das Wort und bildet das Partizip Perfekt erhält man den Begriff proiectum. Übersetzt bedeutet das: Das nach vorn Geworfene.
 In diesem Zusammenhang kann man den zeitlichen Aspekt eines Projektes erkennen. [^2]
 
+
 # Weitere Definitionen
 
 Der Begriff Projekt wird in weiteren Quellen ähnlich definiert.
@@ -94,7 +95,6 @@ Weitere informationen unter: [Projektabschlussbericht](Projektabschlussbericht.m
 Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einzelen Projektphasen zu jeder Zeit zu einem Projektabbruch kommen. [^6]
 
 
-
 # Weiterführende Literatur
 
 * [What is PRINCE2? (in 100 seconds)](https://www.youtube.com/watch?v=61RnrsWQE7A)
@@ -119,9 +119,6 @@ Erreicht ein Projekt nicht die vierte und letzte Phase kann es zwischen den einz
 * [Projektkommunikation](Projektkommunikation.md)
 * [Kostenplanung](Kostenplanung.md) 
 * [Risikomanagement](Risikomanagement.md) 
-* []( .md) 
-* []( .md) 
-
 
 
 # Quellen
