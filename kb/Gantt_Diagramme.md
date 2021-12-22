@@ -53,14 +53,14 @@ _Erstellt durch den Autor mittels Microsoft PowerBI_
 Wie jedes Tool hat auch das Gantt-Diagramm seine Vor- und Nachteile. Diese werden in den kommenden Abschnitten näher beleuchtet. Anschließend werden zwei mögliche Alternativen kurz vorgestellt.
 
 ## Vorteile 
-1. Klarheit: Aufgrund der verständlichen Visualisierung des Projektablaufs, ist für alle Beteiligten transparent, wann welche Aktivität beginnt, und endet und in welcher Reihenfolge das geschieht.
+1. Klarheit: Aufgrund der verständlichen Visualisierung des Projektablaufs ist für alle Beteiligten transparent, wann welche Aktivität beginnt und endet und in welcher Reihenfolge dies geschieht.
 2. Motivation: Durch das Gantt-Diagramm ist jedem Beteiligten bewusst welche Rolle er im Projekt durch seine Aktivitäten einnimmt und welche Verantwortung er trägt damit das Projekt reibungslos ablaufen kann[^5].
-3. Ermittlung nötiger Ressourcen: Da bei der Erstellung der Gantt-Chart, zeitliche Rahmen, sowie die Anzahl nötiger Head Counts festgelegt werden, hilft die Gantt-Chart bei der Ressourcenplanung[^6].   
+3. Ermittlung nötiger Ressourcen: Da bei der Erstellung der Gantt-Chart zeitliche Rahmen, sowie die Anzahl nötiger Head Counts festgelegt werden, hilft die Gantt-Chart bei der Ressourcenplanung[^6].   
 
 ## Nachteile
-1. Komplexität bei umfangreichen Projekten: Bei Großprojekten mit einer hohen Anzahl an Aktivitäten, kann das Gantt-Diagramm unübersichtlich werden, wodurch es seinen Zweck, der unkomplizierten Visualisierung des Projektablaufs, verliert. 
-2.  Arbeitsaufwand: Bei Änderungen im Projektverlauf muss auch das Diagramm angepasst werden, das kann zu zusätzlichem Arbeitsaufwand führen.
-3. Linearität: Um ein Gantt-Diagramm erfolgreich einsetzen zu können , müssen zum Projektstart alle nötigen Aktivitäten geplant sein. Infolgedessen sind Gantt-Diagramme aufgrund ihrer Starrheit nicht für agiles Projektmanagement geeignet[^5].
+1. Komplexität bei umfangreichen Projekten: Bei Großprojekten mit einer hohen Anzahl an Aktivitäten kann das Gantt-Diagramm unübersichtlich werden, wodurch es seinen Zweck, die unkomplizierte Visualisierung des Projektablaufs, verliert. 
+2. Arbeitsaufwand: Bei Änderungen im Projektverlauf muss auch das Diagramm angepasst werden, das kann zu zusätzlichem Arbeitsaufwand führen.
+3. Linearität: Um ein Gantt-Diagramm erfolgreich einsetzen zu können, müssen zum Projektstart alle nötigen Aktivitäten geplant sein. Infolgedessen sind Gantt-Diagramme aufgrund ihrer Starrheit nicht für agiles Projektmanagement geeignet[^5].
 
 ## Alternativen zur Gantt-Chart
 Mögliche Alternativen zur Gantt-Chart sind
