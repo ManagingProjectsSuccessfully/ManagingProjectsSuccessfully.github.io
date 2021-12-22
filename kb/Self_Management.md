@@ -4,7 +4,7 @@ tags: klassisch
 author: Dolunay76
 anrechnung: k
 ---
-Self-management bezeichnet die Fähigkeit unabhängig von anderen und völlig selbstständig seinen Berufsalltag zu gestalten. Dies bedeutet, dass man seinen Arbeitsalltag selbstständig aufbaut.Die Selbstgestaltung umfasst mehrere Punkte, wie z.B. die Planung, Organisation, Motivation und Zielsetzung. 
+Self-management bezeichnet die Fähigkeit unabhängig von anderen und völlig selbstständig seinen Berufsalltag zu gestalten. Dies bedeutet, dass man seinen Arbeitsalltag selbstständig aufbaut. Die Selbstgestaltung umfasst mehrere Punkte, wie z.B. die Planung, Organisation, Motivation und Zielsetzung. 
 Um es konkreter zu beschreiben, geht es darum, dass man lernt sich eine Übersicht zu schaffen, seine Aufgaben selbstständig einzuteilen, sie zu priorisieren und organisieren damit eine gewisse Motivation beibehalten wird. [^2]
 Im Wesentlichen geht es darum effektiver Entscheidungen treffen zu können und den Prozess zu erleichtern. Vor allem Führungspositionen und Manager wenden diese Kompetenz an, als eine Methode um ihre Produktivität und Leistungsfähigkeiten dauerhaft zu verbessern.
 Self-management wird gerne mit Zeitmanagement verwechselt, jedoch ist Zeitmanagement lediglich ein Teil Kompetenz die in das Self-management mit einwirkt. Self-management umfasst um einige Kompetenzen mehr, die benötigt werden, um es richtig umzusetzen.[^1]
@@ -29,7 +29,7 @@ Bei der [Pomodoro Methode](Pomodoro.md) geht es darum Aufgaben in einem bestimmt
 ## Amore Methode
 Die einzelnen Buchstaben der Amore Methode beschreiben die Formulierung der Ziele, die man sich setzt. Das A steht für ambitiös, was bedeutet, dass das Ziel ambitioniert sein sollte. Des Weiteren steht das M für motiviert, das O für Organisiert, das R für Realistisch und das E für echt. Im Allgemeinen basiert die Idee dieser Methode darauf, dass mit Liebe am Ziel gearbeitet werden sollte, wie der Name bereits vorwegnimmt. [^1]
 ## 80-20 Pareto-Prinzip
-Beim Pareto-Prinzip geht es darum, dass 20 Prozent in das Projekt investiert wird und das Resultat einen 80-prozentigen Effekt hat. Diese Methode benötigt allerdings viel Zeit im Aufbauprozess. [^1]
+Das Paretoprinzip, benannt nach Vilfredo Pareto, auch Pareto-Effekt oder 80-zu-20-Regel genannt, besagt, dass 80 % der Ergebnisse mit 20 % des Gesamtaufwandes erreicht werden. Die verbleibenden 20 % der Ergebnisse erfordern mit 80 % des Gesamtaufwandes die quantitativ meiste Arbeit. einfacher gesagt geht es beim Pareto-Prinzip darum, dass 20 Prozent in das Projekt investiert wird und das Resultat einen 80-prozentigen Effekt hat. Diese Methode benötigt allerdings viel Zeit im Aufbauprozess. [^1]
 ## Eisenhower-Methode
 Bei  der [Eisenhower-Methode](Eisenhower_Matrix.md) werden die Aufgaben aufgeteilt, wodurch einem der Priorisierungs-prozess erleichtert wird. Die Aufgaben werden wie folgt aufgeteilt: 
 Wichtig/eilig, wichtig/nicht eilig, unwichtig/eilig, unwichtig/nicht eilig. 
@@ -41,8 +41,8 @@ Wobei die Ziele in Kriterien eingeteilt werden und der Fokus liegt darin sie pos
 Bei der ALPEN-Methode geht es darum sich einen Überblick zu schaffen, was erledigt werden muss und dies in eine Liste umzuformulieren und diese des weiteren zu priorisieren. Am Ende des Tages schafft man sich eine Übersicht was geschafft werden muss und die Aufgaben die übrig bleiben werden auf den nächsten Tag verschoben. [^1]
 
 # Fazit
-Im Allgemeinen lässt sich sagen, dass man durch effektives Selbstmanagement strukturierter und effizienter arbeitet, man viele Kompetenzen dazu lernen kann, viel stress vermeidet werden kann und im Allgemeinen die work-life-balance um einiges verbessert wird. 
-Jedoch bietet das Self-management nicht nur Vorteile für den Manager oder die Führungsperson, die diese Methoden anwendet, sondern auch für den Arbeitgeber der durch die entstehende Produktivität seine Vorteile ziehen kann, wie z.B. der daraus entstehende Profit. 
+Im Allgemeinen lässt sich sagen, dass man durch effektives Selbstmanagement strukturierter und effizienter arbeitet, man viele Kompetenzen dazu lernen kann, viel stress vermeidet wird und im Allgemeinen die work-life-balance um einiges verbessert werden kann. 
+Jedoch bietet das Self-management nicht nur Vorteile für den Manager oder die Führungsperson, die diese Methoden anwenden, sondern auch für den Arbeitgeber der durch die entstehende Produktivität seine Vorteile ziehen kann, wie z.B. der daraus entstehende Profit. 
 
 
 # Quellen
