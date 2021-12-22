@@ -75,7 +75,7 @@ Die Zusammenführung von einzelnen Berichten zu einem großen kann zu einer Vers
 # Siehe auch
 
 * [Best_Practices](Best_Practices.md)
-* [Business_Case](Business_Case.md)
+* [Business_Cases](Business_Cases.md)
 * [Projekt](Projekt.md)
 * [Projektmanagement](Projektmanagement.md)
 * [Projektplanung](Projektplanung.md)
