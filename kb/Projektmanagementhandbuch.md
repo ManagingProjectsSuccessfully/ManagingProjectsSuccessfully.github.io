@@ -22,7 +22,7 @@ Die [Projektdokumentation](https://github.com/ManagingProjectsSuccessfully/Manag
 
 # Aufbau und Inhalt
 
-Ein Projektmanagementhandbuch muss pragmatisch und verständlich gehalten werden, da zu komplizierte und umfassende Handbücher in der Praxis selten angewandt oder akzeptiert werden[^2]. Die Kenntnis über die Existenz eines Projektmanagementhandbuchs in einem Unternehmen sollte vorhanden sein, um Mitarbeiterinnen und Mitarbeiter in das Projektmanagementhandbuch mit einzubinden. Diese Mitwirkung sichert Akzeptanz bei den [Projektmitarbeitern](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) und erhört auch die Bereitschaft, das Projektmanagementhandbuch anzuwenden. Es gibt Vorlagen für den Aufbau eines Projektmanagementhandbuchs, zu beachten ist, dass diese auf das jeweilige Unternehmen angepasst werden[^1]. 
+Ein Projektmanagementhandbuch muss pragmatisch und verständlich gehalten werden, da zu komplizierte und umfassende Handbücher in der Praxis selten angewandt oder akzeptiert werden[^2]. Die Kenntnis über die Existenz eines Projektmanagementhandbuchs in einem Unternehmen sollte vorhanden sein, um Mitarbeiterinnen und Mitarbeiter in das Projektmanagementhandbuch mit einzubinden. Diese Mitwirkung sichert Akzeptanz bei den [Projektmitarbeitern](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) und erhöht auch die Bereitschaft, das Projektmanagementhandbuch anzuwenden. Es gibt Vorlagen für den Aufbau eines Projektmanagementhandbuchs, zu beachten ist, dass diese auf das jeweilige Unternehmen angepasst werden[^1]. 
 
 ## Mögliche Inhalte eines Projektmanagementhandbuchs sind:
 
