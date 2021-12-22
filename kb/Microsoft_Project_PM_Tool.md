@@ -9,7 +9,7 @@ anrechnung: k
 
 # Einleitung
 
-[Microsoft Project](https://de.wikipedia.org/wiki/Microsoft_Project) bezeichnet eine Projektmanagementsoftware des Entwicklers Microsoft Corporation und ist Bestandteil der Office Familie. 
+[Microsoft Project](https://de.wikipedia.org/wiki/Microsoft_Project) bezeichnet eine [Projektmanagement](Projektmanagement.md)software des Entwicklers Microsoft Corporation und ist Bestandteil der Office Familie. 
 Neben der Microsoft Project Standard Software als Einzelplatzversion, steht Microsoft Project Professional als Serverversion zur Verfügung.
 Microsoft Project ist im Jahre 1984 erschienen und wird seit diesem Zeitpunkt regelmäßig aktualisiert und überarbeitet. 
 Die aktuelle Version der Microsoft Corporation lautet Project 2019 und wird über das Betriebssystem Windows genutzt.
