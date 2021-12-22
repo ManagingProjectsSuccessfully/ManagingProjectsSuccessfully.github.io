@@ -29,7 +29,7 @@ Hieraus werden während des Sprint Planning, die zu erledigenden Punkte für den
 
 # 2. Sprint Backlog
 
-Das Sprint Backlog setzt sich aus den ausgewählten Einträgen aus dem Product Backlog, ergänzt um alle notwendigen Informationen zur Erreichung des Sprintziels, zusammen. Die Produktanforderungen werden selbstständig aus dem Product Backlog gezogen und dienen als Ziel während des aktuellen Sprints. Im Normalfall sollte sich das Product Backlog während eines Sprints nicht verändern, denn die Ansprüche werden so gewählt, dass sie während eines Sprints zu erledigen sind und sie im nächsten darauf aufbauen können. Der sogenannte Sprint-Schutz dient dazu, dass das Team während des Sprints ungestört und ohne Überraschungen ein potenziell auslieferbares Produkt herstellen kann. Auf dem Scrum Board besteht die Möglichkeit während des Daily Scrum den Status bestimmter Aufgaben zu verändern, wie z.B. von "wartend" zu "in Korrektur". Wenn schließlich der Status "fertiggetsellt" erreicht wurde, kann die Aufgabe in die Product Increment Liste übertragen werden.[^1][^2][^3][^4]
+Das Sprint Backlog setzt sich aus den ausgewählten Einträgen aus dem Product Backlog, ergänzt um alle notwendigen Informationen zur Erreichung des Sprintziels, zusammen. Die Produktanforderungen werden selbstständig aus dem Product Backlog gezogen und dienen als Ziel während des aktuellen Sprints. Im Normalfall sollte sich das Product Backlog während eines Sprints nicht verändern, denn die Ansprüche werden so gewählt, dass sie während eines Sprints zu erledigen sind und sie im nächsten darauf aufbauen können. Der sogenannte Sprint-Schutz dient dazu, dass das Team während des Sprints ungestört und ohne Überraschungen ein potenziell auslieferbares Produkt herstellen kann. Auf dem Scrum Board besteht die Möglichkeit während des [Daily Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md) den Status bestimmter Aufgaben zu verändern, wie z.B. von "wartend" zu "in Korrektur". Wenn schließlich der Status "fertiggetsellt" erreicht wurde, kann die Aufgabe in die Product Increment Liste übertragen werden.[^1][^2][^3][^4]
 
 
 # 3. Product Increment
@@ -47,6 +47,7 @@ Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team
 * [SCRUM](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
 * [Product Owner](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Owner.md)
 * [Scrum Master](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Master.md)
+* [Daily Scrum](https://github.com/kutaydogan/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md)
 
 
 # Quellen
