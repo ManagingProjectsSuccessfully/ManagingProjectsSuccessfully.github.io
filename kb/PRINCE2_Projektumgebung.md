@@ -40,13 +40,13 @@ Sie beschreiben den Inhalt von [PRINCE2](PRINCE2.md) bzw. den Inhalt der richtig
 Sie stellen die Ablaufbeschreibung um die sieben Themen dar, also wann wer was im [Projekt](Projekt.md) macht. 
 
 > ## Die Anpassung an die Projektumgebung
-In der PRINCE2 Terminologie ist die Anpassung an die Projektumgebung nicht sehr umfangreich beschrieben, dennoch stellt sie fr den Projektmanageer das größte Thema bei der Verwendung von [PRINCE2](PRINCE2.md) dar. Grund dafür ist, dass dieser Baustein vollkommen anpassbar ist und auf sämtliche [Projekte](Projekte.md) angewendet werden kann[^2]. Was genau unter einem [Projekt](Projekt.md) zu verstehen ist, kann man in der Verlinkung nachlesen. 
+In der PRINCE2 Terminologie ist die Anpassung an die Projektumgebung nicht sehr umfangreich beschrieben, dennoch stellt sie fr den Projektmanageer das größte Thema bei der Verwendung von [PRINCE2](PRINCE2.md) dar. Grund dafür ist, dass dieser Baustein vollkommen anpassbar ist und auf sämtliche [Projekte](Projekt.md) angewendet werden kann[^2]. Was genau unter einem [Projekt](Projekt.md) zu verstehen ist, kann man in der Verlinkung nachlesen. 
 
 
 # PRINCE2 Projektumgebung
 
  
-Als wichtigstes Grundprinzip von PRINCE2 kann die Anpassung (Tailoring) an die Projektumgebung genannt werden. Anpassung bezeichnet in diesem Fall die angemessene Anwendung von [PRINCE2](PRINCE2.md) auf ein bestimmtes [Projekt](Projekte.md). Dabei muss der Umfang von Planung und Steuerung sowie der Einsatz von Prozessen und Themen richtig auf das [Projekt](Projekte.md) abgestimmt werden. Nicht zu verwechseln ist die Anpassung mit dem Begriff der Integration, mit dem die reine Einführung (auch Embedding) von [PRINCE2](PRINCE2.md) in eine Organisation gemeint ist. Oft liegt die [Verantwortung](Verantwortlichkeiten.md) nicht zentral bei einer Person, sondern verteilt sich je nach Kompetenz auf mehrere [^4]. 
+Als wichtigstes Grundprinzip von PRINCE2 kann die Anpassung (Tailoring) an die Projektumgebung genannt werden. Anpassung bezeichnet in diesem Fall die angemessene Anwendung von [PRINCE2](PRINCE2.md) auf ein bestimmtes [Projekt](Projekt.md). Dabei muss der Umfang von Planung und Steuerung sowie der Einsatz von Prozessen und Themen richtig auf das [Projekt](Projekt.md) abgestimmt werden. Nicht zu verwechseln ist die Anpassung mit dem Begriff der Integration, mit dem die reine Einführung (auch Embedding) von [PRINCE2](PRINCE2.md) in eine Organisation gemeint ist. Oft liegt die [Verantwortung](Verantwortlichkeiten.md) nicht zentral bei einer Person, sondern verteilt sich je nach Kompetenz auf mehrere [^4]. 
  
 
 Die Anpassung an die Projektumgebung kann wie in der Abbildung [^5] erfolgen: 
@@ -59,9 +59,9 @@ Zum einen können die Techniken/Praktiken durch die Methodik vereinfacht werden.
 Zum anderen finden Meetings weniger formell, sondern auch mal beim Mittagessen statt. 
 Formate werden aufgrund externer Anforderungen, wie Style-Guides, umgestaltet. 
 Die Zusammenführung von einzelnen Berichten zu einem großen kann zu einer Verschlankung bei Projekten führen. 
-[PRINCE2](PRINCE2.md) gibt zwar klar definierte Rollen vor, z.B. wird ein Kunde im [Projekt](Projekte.md) als "Abnehmer" definiert. Es ist aber auch möglich, dass in [PRINCE2](PRINCE2.md) bestehende Rollen an die im Unternehmen etablierten Terminologien angepasst werden. Nicht angepasst werden hingegen die [sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md). 
+[PRINCE2](PRINCE2.md) gibt zwar klar definierte Rollen vor, z.B. wird ein Kunde im [Projekt](Projekt.md) als "Abnehmer" definiert. Es ist aber auch möglich, dass in [PRINCE2](PRINCE2.md) bestehende Rollen an die im Unternehmen etablierten Terminologien angepasst werden. Nicht angepasst werden hingegen die [sieben Grundprinzipien](PRINCE2_7_Grundprinzipien.md). 
 
-[PRINCE2](PRINCE2.md) ermöglicht also für jedes Unternehmen bzw. teilweise sogar für jedes [Projekt](Projekte.md) eine individuelle Anpassung, um so optimal auf die spezifischen Anforderungen hinsichtlich Umgebung, Umfang, Komplexität, Wichtigkeit, Leistungsfähigkeit und Risiko eingehen zu können [^6]. 
+[PRINCE2](PRINCE2.md) ermöglicht also für jedes Unternehmen bzw. teilweise sogar für jedes [Projekt](Projekt.md) eine individuelle Anpassung, um so optimal auf die spezifischen Anforderungen hinsichtlich Umgebung, Umfang, Komplexität, Wichtigkeit, Leistungsfähigkeit und Risiko eingehen zu können [^6]. 
 
 [PRINCE2](PRINCE2.md) stellt eine flexible und leicht wiederholbare Anleitung zur Projektplanung dar. Der ursprüngliche Zweck war das Managen von [IT-Projekten](IT-Projekte.md), worauf es aber heutzutage nicht mehr beschränkt ist. Die Erweiterung wäre PRINCE2 agile, wobei es darum geht klassische Projekte mit agilen Methoden wie z.B. [Kanban](Kanban.md) oder [SCRUM](SCRUM.md) kombiniert werden [^7].  
 
@@ -83,7 +83,7 @@ Die Zusammenführung von einzelnen Berichten zu einem großen kann zu einer Vers
 * [PRINCE2_7_Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
 * [PRINCE2_7_Prozesse](PRINCE2_7_Prozesse.md)
 * [IT-Projekte](IT-Projekte.md)
-* [KANBAN](KANBAN.md)
+* [KANBAN](Kanban.md)
 * [SCRUM](SCRUM.md)
 
 # Weiterführende Literatur
