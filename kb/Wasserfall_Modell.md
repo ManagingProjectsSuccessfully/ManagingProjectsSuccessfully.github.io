@@ -64,10 +64,10 @@ Das Modell bringt auch paar kritische Punkte mit wie:
 
 
 # Andere Vorgehensmodelle:
-  Wegen der einige gravierende Nachteile, die die wirtschaftliche Lage beschädigen, wird viele alternative von der IT-Industrie angeboten, wie z.b.:
-*	Spiralmodell
-*	Rational Unified Process
-*	V-Modell
+  Wegen der einigen gravierenden Nachteilen, die die wirtschaftliche Lage beschädigen, wird viele alternative von der IT-Industrie vorgeschlagen, wie z.b.:
+*	[Spiralmodell](Spiralmodell.md): ist ein Prozessmodell in der Softwareentwicklung, das 1986 von Barry W. Boehm beschrieben wurde. Es ist ein allgemeines Prozessmodell, also offen für bestehende Prozessmodelle.[^17]
+*	[Rational_Unified_Process](Rational_Unified_Process.md):  ist ein kommerzielles Produkt von der Firma Rational Software.  Es enthält das Vorgehensmodell der Softwareentwicklung und zugehörige Softwareentwicklungsverfahren.[^18]
+*	[V-Modell](V-Modell.md): ist ein Prozessmodell, das ursprünglich für die Softwareentwicklung entwickelt wurde. Ähnlich dem Wasserfallmodell organisiert es den Softwareentwicklungsprozess in Phasen. Neben diesen Entwicklungsphasen definiert das V-Modell auch Verfahren zur Qualitätssicherung (Testing), indem es jede Entwicklungsphase mit der Testphase vergleicht.[^19]
 
 
 
@@ -94,4 +94,6 @@ Das Modell bringt auch paar kritische Punkte mit wie:
 [^14]: https://www.pinuts.de/projektmanagement-wasserfall-modell-gegen-agiles-arbeiten
 [^15]: https://www.factro.de/blog/wasserfallmodell/
 [^16]: https://www.quality.de/lexikon/wasserfallmodell/
-
+[^17]: https://de.wikipedia.org/wiki/Spiralmodell
+[^18]: https://de.wikipedia.org/wiki/Rational_Unified_Process
+[^19]: https://de.wikipedia.org/wiki/V-Modell
