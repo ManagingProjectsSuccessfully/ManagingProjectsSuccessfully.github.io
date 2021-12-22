@@ -4,7 +4,7 @@ tags: agil Values Scrum Werte
 author: Lukas1401
 anrechnung:  a
 ---
-[Scrum](SCRUM.md) ist ein Rahmenwerk aus [Regeln](Scrum_Rules.md), [Prinzipien](Scrum_Principles.md) und Werten. Die Scrum Werte stellen einen wichtigen Bestandteil der Scrum Methode dar, denn bei Scrum geht es um mehr als nur um Regeln und Prinzipien. Diese Werte wurden nicht explizit als Teil von Scrum erfunden, aber dennoch geben sie der Arbeit, dem Verhalten und den Handlungen in Scrum eine Richtung vor. Alle Aktivitäten, die innerhalb von Scrum durchgeführt werden, sollen diese Werte verstärken und nicht schmälern oder untergraben. Nur so können ihre Vorteile realisiert werden[^1].
+[Scrum](SCRUM.md) ist ein Rahmenwerk aus Regeln, [Prinzipien](Scrum_Principles.md) und Werten. Die Scrum Werte stellen einen wichtigen Bestandteil der Scrum Methode dar, denn bei Scrum geht es um mehr als nur um Regeln und Prinzipien. Diese Werte wurden nicht explizit als Teil von Scrum erfunden, aber dennoch geben sie der Arbeit, dem Verhalten und den Handlungen in Scrum eine Richtung vor. Alle Aktivitäten, die innerhalb von Scrum durchgeführt werden, sollen diese Werte verstärken und nicht schmälern oder untergraben. Nur so können ihre Vorteile realisiert werden[^1].
 
 # Die Fünf Scrum Values
 
@@ -58,7 +58,6 @@ Mut ist ein wichtiger Faktor bei der Bewältigung von komplexen Aufgaben in agil
 
 * [Scrum Master](Scrum_Master.md)
 * [Scrum Principles](Scrum_Principles.md)
-* [Scrum Rules](Scrum_Rules.md)
 * [Scrum Transparenz](Scrum_Transparenz.md)
 * [Scrum Artefakte](Scrum_Artefakte.md)
 * [Scrum](SCRUM.md)
