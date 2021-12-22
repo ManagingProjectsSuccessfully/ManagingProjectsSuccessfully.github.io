@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 Der Begriff „Digitalisierung“ hat an sich keine allgemeingültige Definition und kann abhängig vom jeweiligen Kontext mehrere Bedeutungen haben.[^1] 
-In Bezug auf das [Projektmanagement](Projektmanagement.md) bedeutet Digitalisierung „massive Veränderungen bei den Prozessen, der Kommunikation, der Organisation, dem [Ressourcenmanagement](Ressourcenplanung.md) und dem Monitoring. Gründe [dafür] sind der vermehrte Einsatz digitaler Werkzeuge sowie die neue Art der Erfassung, des Austausches und der Verarbeitung von Daten.“[^2] 
+In Bezug auf das [Projektmanagement](Projektmanagement.md) bedeutet Digitalisierung „massive Veränderungen bei den Prozessen, der Kommunikation, der Organisation, dem Ressourcenmanagement und dem Monitoring. Gründe [dafür] sind der vermehrte Einsatz digitaler Werkzeuge sowie die neue Art der Erfassung, des Austausches und der Verarbeitung von Daten.“[^2] 
 
 # Inhaltsverzeichnis 
 
