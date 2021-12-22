@@ -1,104 +1,101 @@
 ---
 title: Crystal_Methods
-tags: agil klassisch
+tags: agil 
 author: creepol
-anrechnung: k oder a
+anrechnung:  k
 ---
 
-Kurzbeschreibung zu Crystal_Methods um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die vorliegende Arbeit setzt sich mit der Crystal Methode und ihren Anwendungsmöglichkeiten im agilen Projektmanagement auseinander. Crystal ist nicht nur eine agile Methode im [Projektmanagement](Projektmanagement.md), sondern eine ganze Familie von einzelnen [Methoden](Methoden.md). Diese werden abhängig von der Größe und der Kritikalität (Höhe der Risiken) angewandt. Der amerikanische Informatiker Alistair Cockburn entwickelte in den frühen 90er Jahren die Crystal Familie. Im Laufe seiner Forschung wurde ihm klar, dass jedes Projekt und jedes Team einzigartig in Ihrer Zusammensetzung ist und keine allgemeine Vorgehensweise existiert. Deshalb ordnete Cockburn den einzelnen Methoden Farben zu, wobei jede Farbe, Größe und Kritikalität eines Projekts repräsentiert.[^1]
 
 
-# Aspekt 1
+# 1. Verschiedene Crystal-Varianten 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Welche Methode letztendlich für das Projekt ausgewählt wird, entscheidet die Anzahl der teilnehmenden Personen und die Höhe der Risiken. Die Crystal Familie benutzt verschiedene Farben um die verwendete Methode zu kennzeichnen. Die aktuellen Farben sind:[^2]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* Crystal Clear 
+  - (bis zu 6 Mitgliedern)
+* Crystal Yellow 
+  - (7-20)
+* Crystal Orange 
+  - (21- 40)
+* Crystal Red 
+  - ( 40-80)
+* Crystal Maroon 
+   - (80-200)
 
-![Beispielabbildung](Crystal_Methods/test-file.jpg)
+Die folgende Graphik bildet auf der waagerechten Achse die Größe des Projekts und auf der senkrechten das mit der Software verbundene Risiko ab. C steht für „Loss of Comfort“, D für „Loss of discretionary monies“, E für „Loss of essential monies“ und L für „Loss of Life“. Die Zahl hinter dem Buchstaben kennzeichnet die Anzahl der an einem Projekt beteiligten Leute. 
+Ein Beispiel wäre E20, in dem Fall handelt es sich um ein Projekt mit essentiellen Geldern und 20 Leuten. 
+Projekte mit lebensbedrohlichen Risiken hat er absichtlich weggelassen, da er keine Erfahrung in solchen Projekten hat. [^2]
 
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+ ![Beispielabbildung](Crystal_Methods/CrystalMethods.png)
 
 
-# Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Crystal_Methods.md)
+*Abbildung 1: Klassifizierung der Crystal-Projekte*
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+# 2. Die 7 Prinzipien der Crystal Methoden
 
-# Quellen
+Die Methoden zeichnen vor allem sieben gemeinsame und vorherrschende Eigenschaften aus. Im Laufe der Zeit fand Cockburn heraus, dass je mehr von diesen Eigenschaften in der [Projektplanung](Projektplanung.md) umgesetzt wurden, desto erfolgreicher wurde das Projekt abgeschlossen.[^3]
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+1. Frequent delivery[^4]
+
+	- Es werden regelmäßig Testversionen und Entwürfe an den Auftraggeber geschickt um 			Feedback am laufenden Projekt zu bekommen 
+
+
+2. Reflective Improvement
+
+   -	In regelmäßigen Abständen werden Teammeetings einberufen um Projektaufgaben zu 			besprechen und Verbesserungsvorschläge zu sammeln und in das Projekt einzubauen.
+  
+
+3. Close communication
+	
+    - Eine der wichtigsten Vorraussetzungen liegt darin, durch räumliche Nähe einen natürlichen 		Informationsfluss zu generieren. Teams sollten daher nicht zu groß sein.
+
+
+4. Personal safety
+	
+	  - Meinungsverschiedenheiten und Kritik sollten offen geäußert werden können ohne 			Konsequenzen. 
+
+
+5. Focus
+
+	  - Jeder Mitarbeiter arbeitet ziel- und lösungsorientiert an ihren Aufgaben.
+
+	
+6. Early Access to expert users
+	
+	  - Experten sind jederzeit für das Team erreichbar um bespielsweise schnell Detailfragen zu 		klären.
+
+
+7. Technical environment
+
+	 - Automatisierte Tests, Konfigurationsmanagement und Versionsverwaltung. Mit Hilfe von diesen Tools werden Fehler frühzeitig erkannt und Probleme schneller gelöst.[^3]
+
+
+# 3. Verschiedene Rollen in Crystal Methods
+
+Unabhängig von der Größe des Projekts existieren ein Sponsor, verschiedene User, der Lead Designer und Designer Programmer. Diese vier Rollen sollten von unterschiedlichen Personen ausgeführt werden um Verantwortlichkeiten klar abzugrenzen. Je größer der [Projektumfang](Projektumfang.md), desto mehr spezialisierte Rollen können im Team auftauchen. Siehe Abbildung 2. [^5]
+
+![Beispielabbildung](Crystal_Methods/Projektrollen.png)
+
+*Abbildung 2: Die Rollen in Crystal im Überblick*
+
+
+
+
+
+
+## Quellen
+
+[^1]: [Crystal] (https://www.onlinesolutionsgroup.de/blog/glossar/c/crystal/
+
+)
+[^2]: [The Crystal family](https://files.ifi.uzh.ch/rerg/amadeus/teaching/seminars/seminar_ws0304/04_05_Hollenstein_Rutz_Crystal_Ausarbeitung.pdf)
+[^3]: [Agile Patterns- Teil 2/4 Prinzipien Crystal Family](http://www.anecon.com/blog/agile-patterns-teil-2-prinzipien-crystal-family/
+)
+[^4]: [Crystal Method in Agile](https://www.toolsqa.com/agile/crystal-method/)
+[^5]: [Dokumentieren in agilen Methoden Teil 4 - Crystal](https://blog.sophist.de/2013/11/13/dokumentieren-in-agilen-methoden-teil-4-crystal/
+)
 

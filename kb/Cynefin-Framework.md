@@ -1,104 +1,117 @@
 ---
 title: Cynefin-Framework
-tags: agil klassisch
+tags: agil 
 author: 5SY5
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Cynefin-Framework um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Cynefin Framework wurde vom britisch walischen Forscher und Berater für [Wissensmanagement](Wissensmanagament.md) David Snowden Johnson entwickelt. Das Wort "Cynefin" stammt aus dem walischen und bedeutet so viel wie "Lebensraum", damit möchte Snowden ausdrücken, dass zwischen den Individuen und ihrer Umwelt eine Vielfalt von Wechselwirkungen bestehen.[^1] Diese Wechselwirkung macht eine vollkommene analytische Beschreibung des realen Systems unmöglich[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Das Modell hat die Aufgabe Probleme, Situationen und Systeme zu beschreiben. Dabei kategorisiert das Modell die einzelnen Probleme in sogenannte Problemdomänen, die wiederum 
+einen Anhaltspunkt bieten, welche Erklärungen oder Lösungen zutreffen könnten.
 
 
-# Aspekt 1
+# Beschreibung des Frameworks
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Cynefin beschreibt fünf Problemdomänen, die wie folgt lauten 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Cynefin-Framework/test-file.jpg)
+* Obvious or simple, 
+* Complicated, 
+* Complex,
+* Chaotic,
+* Disorder 
 
-*lustiges Testbild*
 
-# Aspekt 2
+![image](Cynefin-Framework/Cynefin_as_of_1st_June_2014.png)
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Cynefin Framework [^6]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Die ersten vier Hauptdomänen sind:
 
-So kann man eine Tabelle erstellen:
+1. Obvious/simple
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Befinden wir uns in einem "einfachen" Umfeld sind die Beziehungen und ihre Abhängigkeit offensichtlich. Ursachen und Wirkungen können einfach beschrieben werden und beurteilt 
+werden. Daher gibt es auch eine eindeutige Antwort auf die einzelnen Probleme, weshalb auch oft von "Best Practice" gesprochen wird. Snowden ist der Ansicht, dass man bei 
+offensichtlichen Entscheidungen nach dem Prinzip "Erkennen - Kategorisieren - Reagieren" vorgehen sollte[^2].
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+2. Complicated
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Bei "komplizierten" Problemen sind die Ursachen und Wirkungen immer noch eindeutig zu beschreiben, aber nicht für alle verständlich. In anderen Worten das Problem ist für einige 
+zu kompliziert, weshalb die Lösungen (es sind mehrere möglich) für "Nicht-Experten" schwer zu erkennen sind[^3]. Daher beläuft sich der Ansatz für die Entscheidungsfindung auf 
+folgende drei Punkte "Erkennen - Analysieren - Reagieren"[^5]. Diese Domäne wird auch "Good Practice" genannt.
 
-### Ebene-3-Überschrift
+3. Complex
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+In "komplexen" Situationen ist es fast unmöglich eine Lösung zu erkennen, da es zu viele Unbekannte gibt. Auch für Experten ist es schwierig die Beziehung der Ursache und der 
+Wirkung zu erkennen. Dies hat zu Folge, dass es keine richtige Antwort gibt. Solche Situationen sind meist unvorhersehbar und daher schlägt Snowden folgende Herangehensweise an 
+"Sondieren - Erkennen - Reagieren"[^3].
 
-# Aspekt n
+4. Chaotic
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Im "chaotischen" Bereich ist das wichtigste Ziel schnell und agil zu arbeiten, um das Problem zu stabilisieren und in Ordnung zu bringen. Daher lautet auch hierbei der Ansatz beim Vorgehen "Handeln-Erkennen-Reagieren"[^4].
 
+Die fünfte Domäne nennt sich Disorder, der Zustand des Nichts-Wissens, indem man nicht weiß in welcher der Domänen man sich gerade befindet[^5]. Dabei greifen Menschen meist auf 
+gewohnte und einfache Problemlösungsmöglichkeiten zurück. Prinzipiell ist das Ziel hierbei mehr Informationen zu sammeln, um anschließend das Problem bzw. die dahinterstehende 
+Herangehensweise einer Domäne zu zuordnen.[^4]
+
+
+# Probleme
+
+* Die complacent Zone
+
+Die Grenze zwischen "obvious" und "chaotic" unterschiedet sich in ihrer Wirkung von den anderen. Die Regel hierbei lautet: Sobald angenommen wird, dass die Probleme bzw. 
+Situationen einfach und geordnet sind, befindet man sich in der "complacent Zone" und das Ergebnis ist katastrophal. Daher ist es empfehlenswerter an den komplexen und 
+komplizierten Zonen zu managen.[^4]
+
+* Das Wicked Problem
+
+![image](Cynefin-Framework/Wicked_Problem.png)
+
+*Wicked Problem[^7]
+
+Vor der Formulierung der Lösung kann das Problem nicht verstanden werden und solange das Problme nicht identifizeirt wurde, kann auch die Lösung nicht beschrieben werden. Rückkopplungseffekt! [^3]  
+
+
+# Anwendung auf Projekte [^1]
+
+| Deming-Cyle          |	Plan	    |  Do       | Check          |	Act       | Beispiele                                 |
+|----------------------|------------|-----------|----------------|------------|-------------------------------------------|
+| einfache Systeme     | beobachten |	          | kategorisieren | reagieren  | Produktimplementierung                    |     
+| komplizierte Systeme | beobachten |	          | analysieren    | reagieren  | Support-[Projekte](Projekt.md)            |   
+| komplexe Systeme		 |            | probieren | beobachten	   | reagieren  | Produktentwicklung                        |                
+| chaotische Systeme	 |            | handeln   | beobachten	   | reagieren  | Ausfall von Kerntechnologie               | 
+
+Diese Tabelle fasst die vier empfohlenen Vorgehensweisen des Cynefin Framework zusammen und zeigt Beispielprojekte für die einzelnen Domänen auf.
+
+
+# Fazit
+
+"Alle Modelle sind falsch, aber einige nützlich." George Box
+
+Das Cynefin Framework ist kein "perfektes" Modell, um Situationen abschließend zu erklären. Es ist vielmehr eine Hilfestellung um die Ursache, den 
+Kontext zu benennen und zu begreifen. Es sollte dabei nicht vergessen werden, dass einige Probleme mehrschichtig sein können z.B. sowohl komplex als auch kompliziert. Dies erkennt man daran, dass das Cynefin Framework in der [Stacey Matrix](Stacey_Matrix.md) verwendet wird. Indem ein Zusammenhang zwischen den Eigenschaften des Cynefin-Framework und der Qualität eines [Arbeitsauftrags](Arbeitsauftrag.md) hergestellt wird.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Cynefin-Framework.md)
+* [Projekt](Projekt.md)
+* [Wissensmanagement](Wissensmanagament.md)
+* [Stacey_Matrix](Stacey_Matrix.md)
+* [SCRUM](SCRUM.md)
+* [Aurbeitsauftrag](Arbeitsauftrag.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Lang, S.(2015). Komplexität im Projektmanagement - Methoden und Fallbeispiele für erfolgreiche Projekte. Wiesbaden: Springer Vieweg Fachmedien
+* Nachbagauer, A., Schril-Böck, I., Weiss, E.(2020). Unerwartete Herausforderungen in Projekten erfolgreich managen - Erfahrungen aus der Human-Factors-, Hochsicherheits- und Resilienzforschung. Berlin: Springer Gabler Verlag 
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Cynefin Framework (Projektmagazin)](https://www.projektmagazin.de/glossarterm/cynefin-framework)
+[^2]: [The Cynefin Framework - Problem - Solving Skills (from MindTools.com)](https://www.mindtools.com/pages/article/cynefin-framework.htm#:~:text=The%20Cynefin%20framework%20was%20developed%20by%20David%20J.,by%20cause-and-effect%20relationships.%20They%20are%3A%20Obvious.%20Complicated.%20Complex.)
+[^3]: [Komplexität im Projektmanagement-Methoden und Fallbeispiele für erfolgreiche Projekte (von Sabrina Lang)](https://link.springer.com/content/pdf/10.1007%2F978-3-658-09972-5.pdf)
+[^4]: [The Cynefin Framework (Cognitive Edge)](https://www.youtube.com/watch?v=N7oz366X0-8)
+[^5]: [Unerwarter Herausforderung in Projekten erfolgreich managen (von Andreas Nachbagauer, etc.)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-60944-6.pdf)
+[^6]: [Cynefin Framework](Cynefin-Framework/Cynefin_as_of_1st_June_2014.png)
+[^7]: [Wicked Problem](Cynefin-Framework/Wicked_Problem.png)
 
