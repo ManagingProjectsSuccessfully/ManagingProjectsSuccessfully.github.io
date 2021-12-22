@@ -9,9 +9,9 @@ Jedes zielgerichtete, einmalige [Projekt](Projekt.md) besitzt, neben einem klar 
 # Inhaltsverzeichnis
 * [Archivierung der Unterlagen](#archivierung-der-unterlagen)
 * [Rückgabe aller Ressourcen](#rückgabe-aller-ressourcen)
-* [Abschluss der Buchhaltung und der Projektkostenstellen](#abschluss-der-buchhaltung-und-der-projektkostensetellen)
+* [Abschluss der Buchhaltung und der Projektkostenstellen](#abschluss-der-buchhaltung-und-der-projektkostenstellen)
 * [Vermittlung des Projektpersonals](#vermittlung-des-projektpersonals)
-* [Organisation von Abschlussveranstaltungen und Erfahrungsaustausch](organisation-von-abschlussveranstaltungen-und-erfahrungsaustausch)
+* [Organisation von Abschlussveranstaltungen und Erfahrungsaustausch](#organisation-von-abschlussveranstaltungen-und-erfahrungsaustausch)
 * [Siehe auch](#siehe-auch)
 * [Weiterführende Literatur](#Weiterführende-Literatur)
 * [Quellen](#quellen)
