@@ -39,7 +39,7 @@ Workspaces dienen zur Organisation von [Projekten](Projekt.md) und der Zusammena
 
 Im Mitarbeiternetzwerk von Podio werden alle Mitarbeitenden einer Organisation in einem Workspace vernetzt [^4]. 
 
-## Kommunikation & Online Meeting
+## [Kommunikation](Digitale_Kommunikation.md) & Online Meeting
 Zu jedem Workspace gibt es einen Aktivitätsverlauf. Dieser zeigt Aktivitäten aus den Apps und Statusnachrichten der Mitglieder des Workspaces auf. Per Statusnachrichten können Fragen und Probleme gestellt werden. Dabei können Bilder, Dateien und Links hinzugefügt werden. Die Statusnachrichten können von anderen Mitgliedern kommentiert und geliked werden. Durch den Podio Chat können Mitarbeitende sich ebenfalls untereinander austauschen per Nachricht und Videotelefonie [^4][^5].
 
 Die GoToMeeting App von Podio ermöglicht Besprechungen [^4].
