@@ -1,104 +1,89 @@
 ---
 title: ADKAR_Model
-tags: agil klassisch
+tags: klassisch
 author: bilgesb
-anrechnung: k oder a
+anrechnung: k
 ---
+# 1) Was ist das ADKAR Modell?
+Das ADKAR Modell von Proscigründer Jeff Hiatt „ist ein zielorientriertes [Change-Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/tree/main/kb/Change_Management)-Modell, welches als Leitfaden für Veränderungen auf individueller und organisatorischer Ebene gilt.“[^1] 
+Bei dem Wort „ADKAR“ handelt es sich um ein Akronym, welches für die fünf Schritte steht, die durchgeführt werden müssen, um Veränderungen auf individueller und im Folgenden dann auch auf organisatorischer Ebene erfolgreich implementieren zu können. 
+# 2) Die fünf Stufen des ADKAR Modells
+ADKAR ist ein Akronym und steht für: 
 
-Kurzbeschreibung zu ADKAR_Model um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+![Beispielabbildung](ADKAR_Model/adkar-modell.jpg)
+*Abbildung: ADKAR Modell* [^2]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## Awareness
+Den ersten und wichtigsten Schritt stellt "Awareness" dar. Es soll Bewusstsein für die Notwendigkeit der Veränderung geschaffen werden.
+Nachfolgende Fragestellungen können dabei helfen diesen Schritt auszuführen:
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+- Welche Veränderung ist notwendig? [^3]
+- Warum ist die Veränderung notwendig? [^3]
+- Welche Auswirkungen birgt die Veränderung? [^3]
+- Was passiert, wenn keine Veränderung eintrifft? [^3] [^4]
 
 
-# Aspekt 1
+## Desire 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](ADKAR_Model/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Die zweite Phase stellt "Desire" dar. Hier muss sichergestellt werden, dass jeder den Wunsch hat die Veränderungen durchzuführen und zu unterstützen.  
+Da dieser Schritt sehr individuell ist, müssen anhand von Coachings und Gesprächen die persönliche Situation und Anreize des Mitarbeiters erkannt und angewandt werden. [^5]
 
 
-# Siehe auch
+## Knowledge
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](ADKAR_Model.md)
+Bei dieser Ebene muss sichergestellt werden, dass die Person das benötigte Wissen hat, die für die Implementierung der Veränderung notwendig ist. Dies kann beispielsweise mit Hilfe von Schulungen erreicht werden. [^4]
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+## Ability
 
+Es muss sichergestellt werden, dass die Person die Fähigkeit besitzt, die bereits vorangegangenen drei Schritte in die Praxis umzusetzen. [^6] Mögliche Hilfestellungen hierbei können Coachings, Feedback und mehr Übung sein. [^7]
+
+
+## Reinforcement
+
+Dieser letzte Schritt der Verstärkung wird meistens vergessen oder zu kurz ausgeführt. Damit Veränderungen jedoch langfristig bestehen können, ist es sehr wichtig diesen Schritt auszuüben, denn erst jetzt wird die Veränderung normalisiert. 
+Feedbackgespräche, aber auch das Loben der Mitarbeiter können helfen die Veränderung zu bestärken. 
+Wenn dieser Schritt nicht oder zu wenig durchgeführt wird, kann es sein, dass die Veränderung nicht beständig ist und man daher wieder bei „Awareness“ anfangen muss. [^8]
+
+
+# 3) Wie funktioniert das ADKAR Modell?
+
+Es ist notwendig die oben genannten Schritte nacheinander mit jedem einzelnen Individuum durchzuführen. Da die Stufen aufeinander aufbauen, würde ein Überspringen oder mangelhaftes Bearbeiten nicht zu dem gewünschten Ergebnis führen, weshalb man somit gezwungen wäre nochmal von vorne anzufangen. 
+
+Neben den oben genannten Schritten ist auch eine regelmäßige Bewertung notwendig. Die Bewertung erfolgt auf einer Skala von eins bis fünf, wobei eins schlecht und fünf das Optimum darstellt. Erst nachdem man einen der fünf Meilenstein erfolgreich abgeschlossen hat (ab Punkt drei) darf man zu dem nächsten Schritt übergehen. [^4] [^9]
+
+# 4) Anwendungsbereiche
+
+Es wird davon ausgegangen, dass ohne eine Veränderung des Individuums keine Veränderung des Unternehmens erfolgen kann. Aus diesem Grund findet dieses Modell bei persönlichen, als auch bei größeren Gruppierungen wie beispielsweise Organisationen Anwendung. [^4] [^9]
+
+
+# 5) Vor- und Nachteile
+
+## Vorteile 
+
+- Der Fokus liegt auf dem Ergebnis und nicht auf den Aufgaben [^10] [^11] [^12]
+- Der Fortschritt der Veränderung ist messbar [^10] [^11] [^12]
+- Das Modell erkennt die Bedeutung der Mitarbeiter an [^10] [^11] [^12]
+
+ 
+## Nachteile
+
+- Die Komplexität von Veränderungen wird ignoriert [^10] [^11] [^12]
+- Das Modell ist eher für kleinere Organisationen geeignet [^10] [^11] [^12]
+ 
+
+ 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://www.tiba-prosci.com/was-ist-adkar/
+[^2]: https://www.marhelgroup.de/wp-content/uploads/2020/11/adkar-modell-768x248.jpg
+[^3]: https://youtube.com/watch?v=PwwoyzVfsS8
+[^4]: https://mind-force.de/vertrieb/wie-das-adkar-change-management-modell-funktioniert/
+[^5]: https://youtube.com/watch?v=LNT3Rxci-hU
+[^6]: https://youtube.com/watch?v=XvIYdQ8Bp5k
+[^7]: https://www.prosci.com/resources/articles/adkar-model-ability
+[^8]: https://youtube.com/watch?v=QQjyfN7XoQE
+[^9]: https://youtube.com/watch?v=Bg5dy1pFdzg
+[^10]: http://changemanagementinsight.com/adkar-model-of-change-management/
+[^11]: https://expertprogrammanagement.com/2018/02/adkar-model-of-change/
+[^12]: https://www.youtube.com/watch?v=oMiI59NMO2Q
