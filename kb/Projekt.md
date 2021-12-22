@@ -32,13 +32,13 @@ Der Begriff Projekt wird in weiteren Quellen ähnlich definiert.
 „Ein Projekt ist ein einmaliges, zeitlich befristetes, interdisziplinäres, organisiertes Vorhaben, um festgelegte Arbeitsergebnisse im Rahmen vorab definierter Anforderungen 
 und Rahmenbedingungen zu erzielen.“[^5]
 
-## Projektcontrolling (Alfred Blazek):
+## Projektmanagement (Springer Gabler®):
 
-„Ein Projekt ist eine sachlich und zeitlich begrenzte Aufgabe, die interdisziplinär angegangen wird.“[^6]
+„Ein Projekt ist eine sachlich und zeitlich begrenzte Aufgabe, die interdisziplinär angegangen wird. (Blazek 1994)“[^6]
 
 # Projekt Phasen
 
-Ein Projekt durchläuft mehrere Phasen. Insgesamt gibt es vier grundlegende zeitliche Abschnitte, die man anhand der Tätigkeiten und dem Zeitverlauf darstellen kann.[^7]
+Ein Projekt durchläuft mehrere Phasen. Insgesamt gibt es vier grundlegende zeitliche Abschnitte, die man anhand der Tätigkeiten und dem Zeitverlauf darstellen kann.[^6]
 
 ![Beispielabbildung](Projekt/Projektphasen.png)
 
@@ -49,11 +49,11 @@ Ein Projekt durchläuft mehrere Phasen. Insgesamt gibt es vier grundlegende zeit
 
 Die Definitionsphase ist die erste Phase direkt nach der Projektinitiierung. Das Projektziel wird festgelegt und die Chancen und Risiken sollen innerhalb von Situations- und
 Stakeholderanalysen ermittelt werden. Außerdem soll eine erste Grobplanung zu den Kosten, dem Ausmaß und der benötigten Zeit erfolgen. Zusätzlich kann bei größeren Projekten
-eine Machbarkeitsstudie durchgeführt werden, um weitere hilfreiche Informationen zu erhalten. Ergebnis einer erfolgreichen Definitionsphase ist der formelle Projektauftrag.[^7]
+eine Machbarkeitsstudie durchgeführt werden, um weitere hilfreiche Informationen zu erhalten. Ergebnis einer erfolgreichen Definitionsphase ist der formelle Projektauftrag.[^6]
 
 ## Planungsphase
 
-In der Planungsphase wird das Team organisiert und folgende Pläne werden angelegt:[^7]
+In der Planungsphase wird das Team organisiert und folgende Pläne werden angelegt:[^6]
 
 * Aufgabenpläne
 * Ablaufpläne
@@ -70,10 +70,10 @@ Diese Phase wird auch Projektdurchführungs- und Kontrollphase oder Realisierung
 Beginn dieser Phase und sollen die Teamkommunikation fördern. Neben der Durchführung des Projekts ist die Kontrolle des Projektfortschritts und die Reaktion auf Störfaktoren 
 für das Projektmanagement von großer Bedeutung. Abweichungen zum Projektplan erfordern Maßnahmen, um diese zu korrigieren. Der Zugriff auf den aktuellen und aktualisierten
 Projektplan für jeden Projektbeteiligten ist in dieser Phase von größter Bedeutung. Änderungen und Verschiebungen in Projekten sind meistens unumgänglich. 
-Daher sollten alle Beteiligten schnellstmögliche diese Informationen mitbekommen, um Anpassungen an eventuell gekoppelte Aufgaben zu tätigen. 
-Aufgaben und Arbeitspakete, die in der ersten Phase definiert wurden, werden von den verschiedenen Teammitgliedern bearbeitet.[^7]
+Daher sollten alle Beteiligten schnellstmöglich diese Informationen mitbekommen, um Anpassungen an eventuell gekoppelte Aufgaben zu tätigen. 
+Aufgaben und Arbeitspakete, die in der ersten Phase definiert wurden, werden von den verschiedenen Teammitgliedern bearbeitet.[^6]
 
-Zusammenfassung der Aufgaben:[^7]
+Zusammenfassung der Aufgaben:[^6]
 
 * Arbeitspakete erledigen
 * Planung der Termine und Aktualisierung der Arbeitspakete 
@@ -83,11 +83,11 @@ Zusammenfassung der Aufgaben:[^7]
 * Präsentation der Meilensteinergebnisse
 
 Für eine funktionierende Kommunikation werden regelmäßige Projekt Besprechungen durchgeführt, um auf Probleme aufmerksam zu machen und  
-Vorgesetzte zu informieren.[^7]
+Vorgesetzte zu informieren.[^6]
 
 ## Projektabschluss
 
-In der letzten Phase, dem Projektabschluss, werden die Ergebnisse präsentiert. Abschließend wird rückblickend das Projekt bewertet und die Erfahrungen festgehalten.[^7]
+In der letzten Phase, dem Projektabschluss, werden die Ergebnisse präsentiert. Abschließend wird rückblickend das Projekt bewertet und die Erfahrungen festgehalten.[^6]
 
 # Weiterführende Literatur
 
@@ -104,6 +104,5 @@ In der letzten Phase, dem Projektabschluss, werden die Ergebnisse präsentiert. 
 [^3]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^4]: [Leitfaden zur methodischen Prüfungsvorbereitung (PRINCE2®)](https://books.google.de/books?id=T97aDwAAQBAJ&pg=PA15&lpg=PA15&dq=Eine+f%C3%BCr+einen+befristeten+Zeitraum+geschaffene+Organisation,+die+den+Auftrag+hat,+mindestens+ein+Produkt+entsprechend+einem+vereinbarten+Business+Case+zu+liefern.%E2%80%9C&source=bl&ots=76aCeXxZpv&sig=ACfU3U2w7DGkw1IHDD9cpFBvw48ZtEbAPg&hl=de&sa=X&ved=2ahUKEwjBuP6CqLH0AhVS8LsIHTG3DA8Q6AF6BAgXEAM#v=onepage&q&f=false)
 [^5]: [Individual Competence Baseline für Projektmanagement (IPMA®)](https://www.gpm-ipma.de/fileadmin/user_upload/GPM/Know-How/programm-icb4/IPMA_ICB4_PM_deutsch_170213.pdf)
-[^6]: [Blazek A. (1994), Projektcontrolling]
-[^7]: [Ampofo A. (2018), Projektmanagement. In: Betriebswirtschaftslehre für Umweltwissenschaftler. Springer Gabler, Wiesbaden](https://doi.org/10.1007/978-3-658-12517-2_10)
+[^6]: [Ampofo A. (2018), Projektmanagement. In: Betriebswirtschaftslehre für Umweltwissenschaftler. Springer Gabler, Wiesbaden](https://doi.org/10.1007/978-3-658-12517-2_10)
 
