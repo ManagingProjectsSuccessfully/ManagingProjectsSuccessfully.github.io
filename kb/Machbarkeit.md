@@ -16,7 +16,7 @@ Die klassische Vorgehensweise in der Initialisierungsphase sind Aussagen zur Mac
 
 Wenn sich die Ziele und Anforderungen an der Grenze des Machbaren befinden, ist es sinnvoll, vor der Realisierung des Projekts, eine Machbarkeitsstudie durchzuführen. Diese minimiert die Projektrisiken und hilft bei der effektiven Gestaltung des Projektverlaufs.[^2]
 
-Ziel der Initialisierungsphase ist das Ergebnis zu erlangen, ob ein Projekt durchgeführt werden kann und ob es einen ausreichenden Nutzen darlegt[^2].
+Ziel der Initialisierungsphase ist das Ergebnis zu erlangen, ob ein Projekt durchgeführt werden kann und ob es einen ausreichenden Nutzen darlegt.[^2]
 
 
 # Machbarkeitsstudie
@@ -86,14 +86,14 @@ Wenn die Machbarkeit eines Projekts nach der ersten Prüfung nicht gegeben ist, 
 
 # Weiterführende Literatur
 
-* A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+* [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 
 # Quellen
 
 [^1]: Kleer, M., Molz, J. & Weiß, J. (2018). Ausbildung im Dialogmarketing (Band 2, 5. Auflage). Köln: Bildungsverlag EINS GmbH, S. 309. 
-[^2]: Bachmann, C., Huber, E., Hubmann, M., Kuster, J., Lippmann, R., Schneider, E., Schneider, P., Witschi, U. & Wüst, R. (2019). Handbuch Projekktmanagement: Agil - Klassisch - Hybrid (4. Auflage). Berlin: Springer Gabler, S. 74-100.
-[^3]: Von Känel, S. (2020). Projekte und Projektmanagement. Wiesbaden: Springer Gabler, S. 313.
-[^4]: Köhler, C. & Mahl, T. (2021). Machbarkeitsanalyse hybrider Wertschöpfung - Ein Ansatz für die Analyse der Machbarkeit von Geschäftsmodellen hybrider Wertschöpfung im Kontext von KMU. Industrie 4.0 MANAGEMENT. 
-[^5]: Felkai, R. & Biederwieden, A. (2015). Projektmanagement für technische Projekte: Ein Leitfaden für Studium und Beruf (3. Auflage). Wiesbaden: Springer Vieweg, S. 76f.
-[^6]: Becker, J. H., Hofmann, D., Pastoors, S., Scholz, U. & Van Dun, R. (2018). Praxishandbuch Nachhaltige Produktentwicklung: Ein Leitfaden mit Tipps zur Entwicklung und Vermarktung nachhaltiger Produkte. Berlin: Springer Gabler, S. 71.
-[^7]:  Berry, G. & Shabana, K.M. (2020). Adding a strategic lens to feasibility analysis. In: New England Journal of Entrepreneurship (Vol. 23, p. 71). Central Connecticut State University.
+[^2]: [Bachmann, C., Huber, E., Hubmann, M., Kuster, J., Lippmann, R., Schneider, E., Schneider, P., Witschi, U. & Wüst, R. (2019). Handbuch Projekktmanagement: Agil - Klassisch - Hybrid (4. Auflage). Berlin: Springer Gabler, S. 74-100.](https://link.springer.com/content/pdf/10.1007%2F978-3-662-57878-0.pdf)
+[^3]: [Von Känel, S. (2020). Projekte und Projektmanagement. Wiesbaden: Springer Gabler, S. 313.](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30085-2.pdf)
+[^4]: [Köhler, C. & Mahl, T. (2021). Machbarkeitsanalyse hybrider Wertschöpfung - Ein Ansatz für die Analyse der Machbarkeit von Geschäftsmodellen hybrider Wertschöpfung im Kontext von KMU. Industrie 4.0 MANAGEMENT.](https://industrie-management.de/node/481) 
+[^5]: [Felkai, R. & Biederwieden, A. (2015). Projektmanagement für technische Projekte: Ein Leitfaden für Studium und Beruf (3. Auflage). Wiesbaden: Springer Vieweg, S. 76f.](https://link.springer.com/content/pdf/10.1007%2F978-3-658-10752-9.pdf)
+[^6]: [Becker, J. H., Hofmann, D., Pastoors, S., Scholz, U. & Van Dun, R. (2018). Praxishandbuch Nachhaltige Produktentwicklung: Ein Leitfaden mit Tipps zur Entwicklung und Vermarktung nachhaltiger Produkte. Berlin: Springer Gabler, S. 71.](https://link.springer.com/content/pdf/10.1007%2F978-3-662-57320-4.pdf)
+[^7]:  [Berry, G. & Shabana, K.M. (2020). Adding a strategic lens to feasibility analysis. In: New England Journal of Entrepreneurship (Vol. 23, p. 71). Central Connecticut State University.](https://www.emerald.com/insight/content/doi/10.1108/NEJE-08-2019-0036/full/pdf?title=adding-a-strategic-lens-to-feasibility-analysis)
