@@ -76,6 +76,6 @@ Verschiedene Tools zur optimalen Projektbearbeitung:
 [^5]: Was ist MS Teams: https://www.theprojectgroup.com/de/office-365-microsoft-teams-chat
 [^6]: Fünf Funktionen von MS Teams: https://news.microsoft.com/de-de/microsoft-teams-funktionen/
 [^7]: Risiken Digitale Kommunikation: https://www.chubb.com/ch-de/businesses/resources/delivering-digital-communications-for-business.html
-[^8]: Nachteile Digitale Kommunikation:https://www.veroo-consulting.com/digitale-kommunikation
-[^9]: Nachteile Digitale Kommunikation:https://link.springer.com/content/pdf/10.1007%2F978-3-540-78393-0_2.pdf
-[^10]: Einleitung:https://digikommpendium.wordpress.com/2013/02/27/fazit-digitale-kommunikation/
+[^8]: Nachteile Digitale Kommunikation: https://www.veroo-consulting.com/digitale-kommunikation
+[^9]: Nachteile Digitale Kommunikation: https://link.springer.com/content/pdf/10.1007%2F978-3-540-78393-0_2.pdf
+[^10]: Einleitung: https://digikommpendium.wordpress.com/2013/02/27/fazit-digitale-kommunikation/
