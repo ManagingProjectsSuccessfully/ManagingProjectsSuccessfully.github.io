@@ -1,104 +1,78 @@
 ---
 title: Nachhaltige_Projekte
-tags: agil klassisch
+tags: agil Nachhaltigkeit Projekte nachhaltige_Entwicklung 
 author: MarcelFAU
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Nachhaltige_Projekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+In diesem Beitrag wird das Thema nachhaltige Projekte behandelt. Wobei zuerst auf das Thema Nachhaltigkeit eingegangen wird und im späteren Verlauf des Beitrags genaueres zu 
+nachhaltigen Projekten, mithilfe von Beispielen, erläutert wird.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Nachhaltigkeit als tragende Säule der Zukunft
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+In der modernen Gesellschaft ist Nachhaltigkeit einer der zentralen Aspekte bei der Innovierung von Unternehmen, Haushalten und sogar Ländern, wodurch die Anzahl an 
+nachhaltigen Projekten immer mehr steigt, um Umweltschutz und wirtschaftliche Ziele zu komplementären Zielen zu machen und einen positiven Zukunftsausblick zu schaffen.
+Genaueres dazu gibt es beim Beitrag über [Nachhaltigkeit im PM](Nachhaltigkeit_im_PM.md)
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Nachhaltigkeit kann allgemein in drei Kernbereiche aufgeteilt werden: ökologische Nachhaltigkeit, ökonomische Nachhaltigkeit und soziale Nachhaltigkeit[^1], wobei stets versucht wird diese Bereiche möglichst gut zu vereinen. Folglich hat sich auch die Bedeutung der Nachhaltigkeit 
+erhöht und ist in den Zukunftsplänen von Städten und Unternehmen ein zentraler Punkt. Auch sind nachhaltige Projekte sehr eng mit der [nachhaltigen Entwicklung](Nachhaltige_Entwicklung.md) oder im 
+englischen „sustainable development“ verbunden und hängen von einandner ab. 
+Nachhaltige Projekte wurden somit in den letzten 20 Jahren zu einem der zentralen Themen, da das Thema Klimaschutz immer und immer mehr in den Vordergrund gerät.
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Nachhaltigkeit in der Gesellschaft 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Zudem ist das Interesse an nachhaltigen Produkten deutlich gestiegen, weshalb Nachhaltigkeit auch ein Verkaufsargument für Unternehmen ist und Kunden generieren 
+kann, dies kann man der linken der drei Darstellungen unter diesem Abschnitt entnehmen[^2]. Aber nicht nur das, wie man in der Infografik in der Mitte, die unten dargestellt ist, sehen kann, wollen junge Menschen lieber für nachhaltige Unternehmen 
+arbeiten, was bedeutet, dass Firmen auch deshalb sich für Nachhaltigkeit einsetzen müssen, um neue und qualitative Arbeitskräfte zu bekommen und diese nicht an andere Unternehmen zu verlieren[^3]. 
+Jedoch gibt es noch Hürden, die überwindet werden müssen, da in einer Umfrage aus dem Jahr 2014, rund 60% der Befragten in Europa behaupteten sie würden keinen Aufpreis für nachhaltige Produkte zahlen. Unglücklicherweise ist aber der Preis nachhaltiger Produkte meist teurer, da ein höherer Aufwand betrieben werden muss, um ökologische Nachhaltigkeit zu gewährleisten (s. rechte Abbildung)[^4]. 
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+![image](https://user-images.githubusercontent.com/92987986/142771702-7ac76d11-3364-477a-b948-7505977a4510.png)[^2] ![image](https://user-images.githubusercontent.com/92987986/142771720-a733c534-7bcb-486e-a25f-37d116367a4e.png)[^3] ![image](https://user-images.githubusercontent.com/92987986/142771731-95f4ff0e-add7-4396-8150-1069b9f26042.png)[^4]
 
+# Nachhaltige Projekte von Städten Europas  
 
-# Aspekt 1
+Kommen wir nun aber zu Beispielen für nachhaltige Projekte. Das erste Projekt, dass ich erwähnen möchte, wurde in der Stadt Utrecht realisiert. In der niederländischen Stadt wurden die Dächer der Bushaltestellen mit Grünflächen bedeckt, um Bienen und Insekten zu schützen und dem urbanen Artensterben dieser entgegenzuwirken. Dies könnte ein kleiner Anfang für Großstädte auf der ganzen Welt sein dem Artensterben einiger Tiere entgegenzuwirken, ohne große Summen auszugeben. Auch ist dies wichtig, da Grünflächen in Großstädten immer öfter zu Bauland werden und somit die letzten Lebensräume einiger Tierarten verschwinden[^5].
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Ein komplett anderes Projekt wurde in Schwedens Hauptstadt Stockholm verwirklicht. Nämlich wird am Hauptbahnhof, einem der Knotenverkehrspunkte, Körperwärme durch die Lüftungsanlage abgesaugt, um damit Wassertanks zu erhitzen und umlegende Gebäude zu beheizen. Dies sorgt für Nachhaltige Energieverwendung und führt zugleich zur einer Einsparung von Kosten für Strom[^5].
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Nachhaltige Projekte von Unternehmen
 
-![Beispielabbildung](Nachhaltige_Projekte/test-file.jpg)
+Wie schon vorher erwähnt setzen sich auch Unternehmen Ziele nachhaltiger zu werden. Beispielsweise das IT-Unternehmen Cisco aus den USA, welches ein Forum namens SustainX, eine Nachhaltigkeitsplattform namens GreenHouse und sogar eine mitarbeitergeführte Nachhaltigkeitsorganisation Cisco Green Team auf die Beine gestellt haben. Dadurch wurde es durch das Business Magazine Corporate Knights 2020 als viert nachhaltigstes Unternehmen betitelt[^6]. All diese Projekte sorgen dafür, dass das Unternehmen nachhaltiger agiert und kann potenziell Kunden und qualifizierte Mitarbeiter anziehen. Grund aber das nicht alle Unternehmen diesem Beispiel folgen sind Kosten- und Zeitaufwände, welche den Wandel zu mehr Nachhaltigkeit in der Gesellschaft verlangsamen. 
 
-*lustiges Testbild*
+Diese Unternehmen jedoch agieren beispielhaft und gehören zu den 10 nachhaltigsten Unternehmen 2021[^7]:
 
-# Aspekt 2
+|Platz| Unternehmen |Platz| Unternehmen |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | Schneider Electric SE  | 6 | McCormick & Company Inc  |
+| 2 | Orsted A/S  | 7 | Kering SA  |
+| 3 | Banco do Brasil SA  | 8 | Metso Outotec  |
+| 4 | Neste Oyj  | 9 | American Water Works Company Inc  |
+| 5 | Stantec Inc  | 10 | Canadian National Railway Co  |
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Zusammenfassung
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Abschließend lässt sich zusammenfassen, dass nachhaltige Projekte mehr und mehr in allen Bereichen der Gesellschaft zum Einsatz kommen. Zudem wird die Bedeutung von nachhaltigen Projekten und auch deren Umfang noch ansteigen, da noch ein großer Schritt in Richtung Umweltschutz bzw. Klimaneutralität gemacht werden muss.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Nachhaltige_Projekte.md)
+[Nachhaltige Entwicklung](Nachhaltige_Entwicklung.md)
+
+[Nachhaltigkeit im PM](Nachhaltigkeit_im_PM)
+
+Bei Interesse für eigenes Engagement: https://ozeankind.de/?gclid=CjwKCAiAs92MBhAXEiwAXTi251Xq49dp_Pl3abTVTVf44FnNuw6ZFhzhATsQUX-pvklNsOSNfwwf6xoCddgQAvD_BwE
+
+https://reisevergnuegen.com/nachhaltigkeitsprojekte-europa/
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+https://repositum.tuwien.at/bitstream/20.500.12708/3571/2/Schwarzl%20Martina%20-%202015%20-%20Projektentwicklung%20und%20Vergabe%20von%20Planungsleistungen...pdf
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://nachhaltigkeitsblogger.blogspot.com/2012/02/3-arten-der-nachhaltigkeit.html, aufgerufen am 22.11.2021
+[^2]: https://de.statista.com/infografik/24476/negative-folgen-fehlender-nachhaltigkeit-fuer-geschaefte-marken-und-produkte/, aufgerufen am 21.11.2021
+[^3]: https://de.statista.com/infografik/2435/altersverteilung-der-personen-die-bevorzugt-fuer-unternehmen-arbeiten-die-sich-fuer-nachhaltigkeit-einsetzen/, aufgerufen am 21.11.2021
+[^4]: https://de.statista.com/infografik/2406/zahlungsbereitschaft-fuer-nachhaltige-produkte/, aufgerufen am 21.11.2021
+[^5]: https://reisevergnuegen.com/nachhaltigkeitsprojekte-europa/, aufgerufen am 21.11.2021
+[^6]: https://www.produktion.de/co2-neutrale-industrie/das-sind-die-11-nachhaltigsten-unternehmen-der-welt-300.html, aufgerufen am 21.11.2021
+[^7]: https://www.corporateknights.com/rankings/global-100-rankings/2021-global-100-rankings/2021-global-100-ranking/, aufgerufen am 21.11.2021
