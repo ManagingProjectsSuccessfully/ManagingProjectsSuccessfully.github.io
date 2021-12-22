@@ -24,7 +24,7 @@ einer Organisation, um den sich ständig ändernden Anforderungen externer und i
 In den Aufgabenbereich von Change Management fallen demnach jegliche Veränderungsprozesse [^5].
 Der Ursprung von Change Management kann auf die Hawthorne-Experimente zu Beginn der 1930er Jahre zurückgeführt werden [^3].
 Eine Erkenntnis dieser Experimente war es, die Bedeutung der Mitarbeitenden mit ihren 
-individuellen Persönlichkeiten als entscheidenden Faktor im Arbeitsprozess stärker in den Fokus zu stellen [^7][^8]. 
+individuellen Persönlichkeiten als entscheidenden Faktor im Arbeitsprozess stärker in den Fokus zu stellen[^6]. 
 Ein kennzeichnendes Merkmal von Change Management ist daher vor allem die nach innen gerichtete und auf die 
 Mitarbeitenden einer Organisation ausgelegte Sichtweise. 
 Dies ist ein wesentlicher Unterschied zu strategischem Management, welches sich an Faktoren im Unternehmensumfeld orientiert[^2][^3].
@@ -52,12 +52,12 @@ Eine oft zu beobachtende Gemeinsamkeit ist die sequentielle Abfolge einzelner Sc
 Zwei der bekanntesten Modelle sind das [8-Stufen Modell von Kotter](8_Step_Process_for_Leading_Change.md) und das 3-Stufen Modell von Lewin [^9][^10].
 
 ## Lewin Modell
-Lewin unterteilt den Veränderungsprozess in drei Stufen[^9]:
+Lewin teilt den Veränderungsprozess in drei Stufen ein[^9]:
 1. unfreezing
 2. moving
 3. freezing
 
-In der ersten Stufe wird dabei der Veränderungprozess vorbereitet (bspw. durch Diskussionen und Begründungen) [^11].
+In der ersten Stufe wird dabei der Veränderungsprozess vorbereitet (bspw. durch Diskussionen und Begründungen) [^11].
 Erst im folgenden Schritt werden die Neuerungen eingeführt und anschließend als Standards abgesichert[^12]. 
 
 ![Beispielabbildung](Change_Management/Lewin_Bild.jpeg)
@@ -76,7 +76,7 @@ Insbesondere stellt dieser die Bedeutung und das Kommunizieren einer gemeinsamen
 
 Durch immer kürzere Veränderungszyklen und die zunehmende Schnelllebigkeit einer globalisierten Welt hat das Change Management in den letzten 
 Jahrzehnten eine erhöhte Aufmerksamkeit in Forschung und Praxis erfahren. Trotz dieser Anstrengungen und 
-der daraus entstandenden Vielzahl an Modellen bzw. Vorschläge zur Gestaltungsmöglichkeit, scheitern weiterhin viele [Change Management Projekte](Change_Projekte.md) in der Praxis[^12]. 
+der daraus entstandenen Vielzahl an Modellen bzw. Vorschlägen zur Gestaltungsmöglichkeit, scheitern weiterhin viele [Change Management Projekte](Change_Projekte.md) in der Praxis[^12]. 
 
 # Siehe auch
 
