@@ -11,13 +11,13 @@ Im klassischen [Projektmanagement](Projektmanagement.md) ist der Projektleiter f
 
 * In hierarchiefreien Projektgruppen hat der Projektleiter die Rolle eines Initiators und Moderators. Hierbei tragen alle Teammitglieder gemeinsam die Verantwortung für die Erreichung des Projektergebnisses und sind somit gleichgestellt. Vergleichbar mit dem [Bottom Up Planning](Bottom_Up_Planning.md)
 
-* Bei hierarchischen Projektgruppen wird ein Teammitglied von einem Vorgesetzten oder einem Team auserwählt und mit einer höheren Verantwortung und besonderer Kompetenz ausgestattet. Die Breite dieser Kompetenz kann auch bis zur uneingeschränkten Führung der jeweiligen Projektgruppe führen. Diese sind wiederum vergleichbar mit dem [Top Down Planning](Top_Down_Planning.md)  
+* Bei hierarchischen Projektgruppen wird ein Teammitglied von einem Vorgesetzten oder einem Team auserwählt und mit einer höheren Verantwortung und besonderer Kompetenz ausgestattet. Die Breite dieser Kompetenz kann auch bis zur uneingeschränkten Führung der jeweiligen Projektgruppe führen. Diese sind wiederum vergleichbar mit dem [Top Down Planning](Top_Down_Planning.md).   
 Der folgende Beitrag fokussiert sich genau auf solch einen Projektleiter, einer klassischen und hierarchischen Projektgruppe.
 
 Jedoch sind konstante Anpassungen und Veränderungen fester Bestandteil des Projektmanagements, weshalb sich die Leitungskompetenz der Teammitglieder und auch die des Projektleiters im Laufe der Projektdurchführung verändern können.[^1]  
 
 # Wie wird man ein Projektleiter und welche Kompetenzen und Fähigkeiten werden vorausgesetzt? 
-Um Projektleiter zu werden gibt es keine Ausbildung im klassischen Sinne, dennoch wird in der Regel ein Universitätsabschluss von Unternehmen vorausgesetzt. Neben dem fachlichen Know-how muss ein Projektleiter auch die Kompetenzen eines Unternehmers, Managers und die einer Führungskraft mitbringen. Weitere Anforderungen an den Projektleiter sind unter anderem die soziale Kompetenz, Kommunikative Fähigkeiten, Kreativität und Risikomanagement. 
+Um Projektleiter zu werden gibt es keine Ausbildung im klassischen Sinne, dennoch wird in der Regel ein Universitätsabschluss von Unternehmen vorausgesetzt. Neben dem fachlichen Know-how muss ein Projektleiter auch die Kompetenzen eines Unternehmers, Managers und die einer Führungskraft mitbringen. Weitere Anforderungen an den Projektleiter sind unter anderem die soziale Kompetenz, kommunikative Fähigkeiten, Kreativität und Risikomanagement. 
 Ein Projektleiter hat verschiedene Aufgaben zu leisten, sei es während der Projektdurchführung oder bereits bei der Planung eines Projekts.[^2] 
 
 <img src="Projektleiter/Projektleiter.png" alt="Der Projektleiter ein Multitalent" width="600"/> 
