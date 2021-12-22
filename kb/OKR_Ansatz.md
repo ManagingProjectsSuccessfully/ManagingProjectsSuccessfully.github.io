@@ -50,6 +50,7 @@ Während die [Balanced Scorecard](Balanced_Scorecard.md) vor allem bei der Wahl 
 
 ## SMART-Methode
 Bei der Formulierung der Ziele haben die [SMART-Methode](SMART_Ziele.md) einige Gemeinsamkeiten:
+
 | SMART                      | OKR                                                                  |
 | -------------------------- | -------------------------------------------------------------------- |
 | S: Spezifisch, konkret     | Objectives: klare Richtung - Key Results: konkrete Erfolgskriterien  |

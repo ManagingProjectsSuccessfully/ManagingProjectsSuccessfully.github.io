@@ -231,7 +231,6 @@ author: anniSc
 | [Projektabbruch](kb/Projektabbruch.md)                                                                   | [Quapoapo](https://github.com/Quapoapo)                       |
 | [Projektabschlussbericht](kb/Projektabschlussbericht.md)                                                 | [DeniseWt](https://github.com/DeniseWt)                       |
 | [Lessons_Learned](kb/Lessons_Learned.md)                                                                 | [JanAmend](https://github.com/JanAmend)                       |
-| [Erfolgsmessung](kb/Erfolgsmessung.md)                                                                   | [JacquelineRal](https://github.com/JacquelineRal)             |
 | [Reflexion](kb/Reflexion.md)                                                                             | [goekcen01](https://github.com/goekcen01)                     |
 | [Abschlussanalyse](kb/Abschlussanalyse.md)                                                               | [medjeara](https://github.com/medjeara)                       |
 | [Projektaufloesung](kb/Projektaufloesung.md)                                                             | [Quapoapo](https://github.com/Quapoapo)                       |
