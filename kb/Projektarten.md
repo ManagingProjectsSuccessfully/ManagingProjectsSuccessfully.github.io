@@ -40,12 +40,18 @@ Die Differenzierung nach verschiedenen Projektarten erleichtert zunächst, sich 
 
 Die Klassifizierung von Projekten hilft den Entscheidungsträgern dabei, geeignete Methoden und Vorgehensweisen zu ermitteln, wodurch das Projektmanagement zielgerichtet  und zugeschnitten auf die jeweils vorliegende Projektart eingesetzt werden kann.[^4] Dadurch kann beispielsweise Dauer, Risiko, Kosten oder das notwendige Know-how der Mitarbeitenden für ein Projekt beziehungsweise eine bestimmte Projektart abgeleitet werden. Darüber hinaus wird neben der Erleichterung der Unternehmenssteuerung auch der Bedarf an speziellem Know-how deutlich.[^3]
 
-Schlussendlich dient die Differenzierung in verschiedene Projektarten als Grundstein für eine erfolgreiche Projektdurchführung.
+# Fazit
+
+Schlussendlich dient die Differenzierung in verschiedene Projektarten als Grundstein für eine [erfolgreiche Projektdurchführung](Praxisbeispiele_erfolgreiche_Projekte.md).
 
 
 # Siehe auch
 
 * [Link auf diese Seite](Projektarten.md)
+
+# Weiterführende Literatur
+
+[Handbuch Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-642-21243-7.pdf)
 
 
 # Quellen
