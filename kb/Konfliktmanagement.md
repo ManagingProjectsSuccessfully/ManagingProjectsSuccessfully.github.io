@@ -12,12 +12,12 @@ und beschreibt dementsprechend eine Situation, in der unterschiedliche Ansichten
 
 Konflikte können bereits sehr früh erkannt werden, da „der Ansatz von Konflikten […] 
 schon in der [Projektstart-Phase](Projektphasen_klassisch.md) entstehen [kann]."[^4]
-Auf einen fehlgeschlagenen [Projektstart](Projektstart.md) folgt meist ein Konflikt.[^5]  
-Die frühzeitige Erkennung und Vermeidung von Konflikten spielt somit bei dem Konzept des klassischen Projektmanagement eine wichtige Rolle, 
-da diese bei der Umfangreichen [Projektplanung](Projektplanung.md) berücksichtigt werden können.  
+Auf einen fehlgeschlagenen Projektstart folgt meist ein Konflikt.[^5]  
+Die frühzeitige Erkennung und Vermeidung von Konflikten spielt somit bei dem Konzept des klassischen Projektmanagements eine wichtige Rolle, 
+da diese bei der umfangreichen [Projektplanung](Projektplanung.md) berücksichtigt werden können.  
 Zentrale Aufgaben der Projektleitung, im klassischen Projektmanagement, sind Uneinigkeiten mittels eindeutiger Ansagen und durchdachtem Vorgehen zu umgehen.[^6]
 
-Um Konflikte bestmöglich zu lösen, hat man sich Gedanken gemacht welche verschiedenen Arten es von Konflikten gibt. 
+Um Konflikte bestmöglich zu lösen, hat man sich Gedanken gemacht, welche verschiedenen Arten es von Konflikten gibt. 
 Im Folgenden sind einige dieser Möglichkeiten aufgelistet:
 
 | SACHLICHE KONFLIKTE  | PSYCHOSOZIALE KONFLIKTE |
@@ -29,7 +29,7 @@ Im Folgenden sind einige dieser Möglichkeiten aufgelistet:
 
 [^7]
  
-Mit Hilfe dieser Untergliederung, kann man auf die einzelnen Konflikte mit bestimmten Lösungsansätzen, wie beispelsweise der Rasic-Matrix oder ausgeprägtem Verhandlungsgeschick, besser und schneller reagieren.[^7]
+Mithilfe dieser Untergliederung, kann man auf die einzelnen Konflikte mit bestimmten Lösungsansätzen, wie beispielsweise der Rasic-Matrix oder ausgeprägtem Verhandlungsgeschick, besser und schneller reagieren.[^7]
 
 
 
@@ -37,7 +37,7 @@ Mit Hilfe dieser Untergliederung, kann man auf die einzelnen Konflikte mit besti
 
 Ein Rollenkonflikt im Allgemeinen ist eine Auseinandersetzung von zwei oder mehreren Personen eines Projektteams,
 die sich uneinig über die Aufgabenverteilung sind.[^7]
-Deswegen ist es wichtig im klassischen Projektmanagement 
+Deswegen ist es wichtig, im klassischen Projektmanagement 
 „Rollen, also Status, Aufgaben und Verantwortungsbereiche der einzelnen Teammitglieder, bei Projektstart“[^8] klar voneinander abzugrenzen und zu verteilen.
 
 ## 1.1 „Using RASIC Roles for Successful Collaborations“[^9]
@@ -45,7 +45,7 @@ Deswegen ist es wichtig im klassischen Projektmanagement
 Mithilfe der R.A.S.I.C Matrix kann im klassischen Projektmanagement vorab die Rollenverteilung veranschaulicht und verwaltet werden,
 wobei die Abkürzung R.A.S.I.C für Responsible, Accountable, Support, Informed und Consultet steht.[^7]
 Somit handelt es sich hier um die Rollen der Verantwortlichkeit, der Rechenschaftspflichtigkeit, der Unterstützung, der Information und der Konsultation.
-Die R.A.S.I.C Matrix ist eine erweiterte Form der Standart-Matrix [RACI](RACI.md),
+Die R.A.S.I.C Matrix ist eine erweiterte Form der Standard-Matrix [RACI](RACI.md),
 welche die Rolle der Verantwortlichkeit noch in die Rolle der Unterstützung unterteilt.[^10]
 
 Im Folgenden ist eine solche RASIC [Matrix] (https://wirtschaftslexikon.gabler.de/definition/matrix-37186) vereinfach dargestellt:
@@ -61,18 +61,17 @@ Durch die Abbildung lässt sich zeigen, dass eine solche [Matrix](Matrix_Projekt
 
 ## 2.1 Kritik
 
-Menschen handeln beispielsweise in Werte- und Beziehungskonflikten aus Emotionen heraus.[^7] Deshalb ist es teilweise nicht abschätzbar, wann einer dieser Konflikte entsteht. Um darauf besser eingehen zu können ist der Ansatz des agilen Projektmanagement von Vorteil, da hier in „zeitlich beschränkten Zyklen (Sprints) [ge]arbeite[t] [wird], um flexibel auf Veränderungen zu reagieren“[^12] „Agiles Projektmanagement gilt [somit] als Antwort auf die Nachteile klassischer Methoden, wenn beispielsweise Anforderungen nicht im Vorhinein präzise und nachvollziehbar formuliert werden können“.[^13]
+Menschen handeln beispielsweise in Werte- und Beziehungskonflikten aus Emotionen heraus.[^7] Deshalb ist es teilweise nicht abschätzbar, wann einer dieser Konflikte entsteht. Um darauf besser eingehen zu können, ist der Ansatz des agilen Projektmanagements von Vorteil, da hier in „zeitlich beschränkten Zyklen (Sprints) [ge]arbeite[t] [wird], um flexibel auf Veränderungen zu reagieren“[^12] „Agiles Projektmanagement gilt [somit] als Antwort auf die Nachteile klassischer Methoden, wenn beispielsweise Anforderungen nicht im Vorhinein präzise und nachvollziehbar formuliert werden können“.[^13]
 
 ## 2.2 Fazit
 
-Wie bereits erwähnt ist "eines der westenlichen Elemente des Konfliktmanagements [] die Fähigkeit, mögliche Konflikte und Konfliktpotenziale bereits im Vorfeld zu erkennen und entsprechende verhandlungsstrategien zu entwickeln,um den Konflikt gar nicht erst entstehen zu lassen"[^8]. Folglich stellt sich zuletzt die Frage, ob Konfliktmanagement im klassischen Projektmanagement sinnvoll ist. Die Antwort ist, ja. Konflikte lassen sich durch einige Methoden, wie beispielsweise die R.A.S.I.C. Matrix, im klassischen Projektmanagement schon bei der anfänglichen Planung des definierten Endzustandes eines Projektes erkennen und vermeiden.[^14] Bezüglich der Kritik wäre es jedoch möglich den Ansatz des hybriden Projektmanagements in betracht zu ziehen, da hierbei die positiven Eigenschaften des Projektmanagements übernommen werden und die negativen Aspekte ersetzt werden durch innovative Ideen des agilen Projektmanagements.[^14]
+Wie bereits erwähnt ist "eines der wesentlichen Elemente des Konfliktmanagements [] die Fähigkeit, mögliche Konflikte und Konfliktpotenziale bereits im Vorfeld zu erkennen und entsprechende Verhandlungsstrategien zu entwickeln, um den Konflikt gar nicht erst entstehen zu lassen"[^8]. Folglich stellt sich zuletzt die Frage, ob Konfliktmanagement im klassischen Projektmanagement sinnvoll ist. Die Antwort ist, ja. Konflikte lassen sich durch einige Methoden, wie beispielsweise die R.A.S.I.C. Matrix, im klassischen Projektmanagement schon bei der anfänglichen Planung des definierten Endzustandes eines Projektes erkennen und vermeiden.[^14] Bezüglich der Kritik wäre es jedoch möglich den Ansatz des hybriden Projektmanagements in Betracht zu ziehen, da hierbei die positiven Eigenschaften des Projektmanagements übernommen werden und die negativen Aspekte ersetzt werden durch innovative Ideen des agilen Projektmanagements.[^14]
 
 
 
 # Siehe auch
 
 * [Projektstart-Phase](Projektphasen_klassisch.md)
-* [Projektstart](Projektstart.md)
 * [Projektplanung](Projektplanung.md)
 * [RACI](RACI.md)
 * [Matrix](Matrix_Projektorganisation.md)
