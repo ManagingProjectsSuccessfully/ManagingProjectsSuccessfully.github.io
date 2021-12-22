@@ -41,7 +41,7 @@ Ein Vorteil des Änderungsmangements besteht darin, dass den Änderungen struktu
 # Siehe auch
 
 * [Change Management](Change_Management.md)
-* [Risikomanagment](Risikomanagment.md)
+* [Risikomanagment](Risikomanagement.md)
 
 # Weiterführende Literatur
 
