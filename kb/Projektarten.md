@@ -13,9 +13,9 @@ Im Allgemeinen lassen sich Projekte anhand verschiedener Dimensionen bestimmten 
 # Differenzierung von Projektarten
 Es gibt verschiedene Möglichkeiten, Projekte zu charakterisieren. Zum einen lassen sich Projekte nach Art der Aufgabenstellung unterscheiden. Bei der geschlossenen Aufgabenstellung sind die Aufgaben klar definiert und bekannt mit begrenzten Lösungsmöglichkeiten. Die offene Aufgabenstellung hingegen besitzt viele Möglichkeiten bezüglich Inhalt und Vorgehen ohne exakte Lösungsvorstellungen.[^1][^5] 
 
-Zum anderen dient auch die soziale Komplexität als charakteristisches Unterscheidungsmerkmal für Projekte. Hierbei differenziert man zwischen einer geringen und hohen Komplexität. Die geringe Komplexität steht durch gering ausgeprägte Interessensunterschiede für eine unproblematische Zusammenarbeit, wohingegen eine hohe soziale Komplexität von unterschiedlichen Benutzerinteressen charakterisiert ist. Folglich besteht ein hohes [Konfliktpotenzial](Zielkonflikte.md).
+Zum anderen dient auch die soziale Komplexität als charakteristisches Unterscheidungsmerkmal für Projekte. Hierbei differenziert man zwischen einer geringen und hohen Komplexität. Die geringe Komplexität steht durch gering ausgeprägte Interessensunterschiede für eine unproblematische Zusammenarbeit, wohingegen eine hohe soziale Komplexität von unterschiedlichen Benutzerinteressen charakterisiert ist.[^1][^6] Folglich besteht ein hohes [Konfliktpotenzial](Zielkonflikte.md).
 
-Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und Heitger darstellen, woraus sich vier Projektarten ableiten lassen.[^4][^5][^6]
+Durch diese Differenzierungen lässt sich die Projektarten-Matrix nach Boos und Heitger darstellen, woraus sich vier Projektarten ableiten lassen.[^4][^6]
 
 
 ![Screenshot (634)](https://user-images.githubusercontent.com/92957209/143319388-b9813527-7d21-4df2-88a4-dfd3cf270bd1.png)
