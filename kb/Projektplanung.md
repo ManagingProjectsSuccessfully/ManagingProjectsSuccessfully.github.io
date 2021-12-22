@@ -59,7 +59,7 @@ Die Ausrichtung aller Handlungsaspekte auf das Endprodukt und die genaue Vorausp
 
 # Weiterführende Literatur
 
-* [Zimmermann J., Stark C., Rieck J. (2010). Projektplanung: Modelle, Methoden, Management](https://link.springer.com/book/9783642118784)
+* [Zimmermann J., Stark C., Rieck J. (2010). Projektplanung: Modelle, Methoden, Management. Gabler.](https://link.springer.com/book/9783642118784)
 
 # Quellen
 
@@ -68,7 +68,7 @@ Die Ausrichtung aller Handlungsaspekte auf das Endprodukt und die genaue Vorausp
 [^3]: https://www.projektmagazin.de/pmplanung
 [^4]: https://www.brainymotion.de/blog/projektmanagement-klassisch-und-agil-im-vergleich
 [^5]: https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/
-[^6]: [Trepper, T. (2012). Agil-systemisches Softwareprojektmanagement,*Klassisches Projektmanagement* (S. 23-40)](https://link.springer.com/book/10.1007%2F978-3-8349-4202-9)
+[^6]: [Trepper, T. (2012). Agil-systemisches Softwareprojektmanagement,*Klassisches Projektmanagement* (S. 23-40). Gabler.](https://link.springer.com/book/10.1007%2F978-3-8349-4202-9)
 [^7]: https://www.projektmagazin.de/glossarterm/strategisches-projektmanagement
 [^8]: https://management.bildungsbibel.de/projektmanagement-wasserfallmodell-softwareentwicklung-phasen
 
