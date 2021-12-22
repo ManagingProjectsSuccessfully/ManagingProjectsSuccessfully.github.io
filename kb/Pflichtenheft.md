@@ -76,6 +76,14 @@ Hier stehen die zu berücksichtigten Normen und Vorschriften, sowie Hinweise zu 
 ### 12. Tests:
 Prüfung des Produktes vor der Fertigstellung in Bezug auf Funktionen, Eigenschaften und Qualitätsmerkmale. Tests, die den Anforderungen erfüllten, werden hier im Pflichtenheft dokumentiert. Nach einem fehlerfreien Durchlauf kann das Produkt verkündigt werden.
 
+## Siehe auch:
+1. [Lastenheft](Lastenheft.md)
+2. [Projektsteuerung](Projektsteuerung.md)
+3. [Projektplanung](Projektplanung.md)
+4. [Projektmanagement](Projektmanagement.md)
+5. [Projekt_Kick_Off](Projekt_Kick_Off.md)
+6. [Projektstrukturplan](Projektstrukturplan.md)
+
 ## Quellen
 1. Digital Guide Ionos, [Das Pflichtenheft: Alle Anforderungen eines Projekts im Blick](https://www.ionos.de/digitalguide/websites/web-entwicklung/pflichtenheft/)
 2. FMEA, [Lastenheft => Pflichtenheft](https://www.fmea.net/lexikon/lastenheft-pflichtenheft/)
