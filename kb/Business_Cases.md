@@ -35,7 +35,7 @@ Für einen Business Case existiert keine allgemein gültige Vorlage. Er kann dah
 * **Kosten:** sind dem Projektplan zu entnehmen
 * **Zeitrahmen:** ist dem Projektplan zu entnehmen
 * **Investitionsrechnung:** Analyse der finanziellen Auswirkungen
-* **Bewertung des Nutzens und der Investitionsrechnung:** Bewertung der Analyseergebnisse.[^4] 
+* **Bewertung des Nutzens und der Investitionsrechnung:** Bewertung der Analyseergebnisse[^4] 
 
 
 ## 3.	Bedeutung
