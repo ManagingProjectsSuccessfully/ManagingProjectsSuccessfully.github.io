@@ -10,7 +10,7 @@ Eines der wichtigsten Dokumente für das [Projektmanagement](Projektmanagement.m
 Mit dem Projektstrukturplan, auch PSP abgekürzt, wird die Arbeit des [Projekts](Projekt.md) in kleinere Aufgaben aufgeteilt. Er reduziert die inhaltliche Komplexität und ist das zentrale Planungs-, Kommunikations- und Controlling-Instrument[^1]. Vor allem bei umfassenden Aufgabenstellungen, deren erste große Herausforderung es ist, sich einen Überblick über die Gesamtaufgabe zu schaffen, kann der PSP unterstützend wirken. Die Erstellung eines Projektstrukturplans ist nach heutigem Erkenntnisstand des Projektmanagements eine der zentralen Aufgaben der [Projektplanung](Projektplanung.md). Der PSP ist die Grundlage für die [Termin- und Ablaufplanung](Projektplanung.md), die Ressourceneinplanung und die [Kostenplanung](Kostenplanung.md). Zudem fließen die Erkenntnisse aus dem PSP in das [Risikomanagement](Risikomanagement.md) ein. 
 
 # Aufbau
-Vom Aufbau her ist der Projektstrukturplan vergleichbar mit dem Inhaltsverzeichnis eines Buches. Auf verschiedenen Gliederungsebenen werden die Inhalte bzw. Leistungen des Projektes in Form eines Baumdiagramms horizontal oder vertikal dargestellt. Die Inhalte bzw. Leistungen des Projektes sind in Form von Arbeitspaketen abgebildet. Bei Arbeitspaketen handelt es sich um Bündel von Aufgaben, die innerhalb des Projekts zu erfüllen sind. Da das Projekt sozusagen in seine einzelnen Bestandteile heruntergebrochen wird, wird der PSP im Englischen auch als „Work Breakdown Structure“ (WBS) bezeichnet. Ein Arbeitspaket ist also mehr als eine einzelne Aufgabe, aber weniger als eine Projektphase oder das ganze Projekt. Der PSP beinhaltet keine zeitliche Aussage über die Abarbeitung des Projektes.
+Der Aufbau des Projektstrukturplanes ist vergleichbar mit dem Inhaltsverzeichnis eines Buches. Auf verschiedenen Gliederungsebenen werden die Inhalte bzw. Leistungen des Projektes in Form eines Baumdiagramms horizontal oder vertikal dargestellt. Die Inhalte bzw. Leistungen des Projektes sind in Form von Arbeitspaketen abgebildet. Bei Arbeitspaketen handelt es sich um Bündel von Aufgaben, die innerhalb des Projekts zu erfüllen sind. Da das Projekt sozusagen in seine einzelnen Bestandteile heruntergebrochen wird, wird der PSP im Englischen auch als „Work Breakdown Structure“ (WBS) bezeichnet. Ein Arbeitspaket ist also mehr als eine einzelne Aufgabe, aber weniger als eine Projektphase oder das ganze Projekt. Der PSP beinhaltet keine zeitliche Aussage über die Abarbeitung des Projektes.
 Die folgende Grafik veranschaulicht die Grundstruktur eines Projektstrukturplans.
 
 ![image](https://user-images.githubusercontent.com/92889512/143291435-e333b103-8895-40be-a998-b7c31fa1c2d4.png)
@@ -24,7 +24,7 @@ Grundsätzlich kann zwischen drei verschiedenen Formen von Projektstrukturpläne
 
 ## Objektorientierte Gliederung
 
-Die objektorientierte Gliederung eignet sich, wenn das Produkt – also das Ergebnis des [Projekts](Projekt.md) – in den Vordergrund gestellt werden soll. Dadurch ergibt sich eine Gliederung nach Komponenten, Baugruppen und Einzelteilen. In dieser Gliederungsform würden Aufgaben dann zum Beispiel Lastenheft oder Zielgruppenanalyse lauten.
+Die objektorientierte Gliederung eignet sich, wenn das Produkt – also das Ergebnis des [Projekts](Projekt.md) – in den Vordergrund gestellt werden soll. Dadurch ergibt sich eine Gliederung nach Komponenten, Baugruppen und Einzelteilen. In dieser Gliederungsform würden Aufgaben dann zum Beispiel [Lastenheft](Lastenheft.md) oder Zielgruppenanalyse lauten.
 
 ## Funktionsorientierte Gliederung
 Diese Gliederungsform des Projektstrukturplans behandelt alle Aufgaben bzw. Ebenen als Tätigkeiten. Daher werden Teilprojekte, -aufgaben und Arbeitspakete mit einem Verb wie "Lastenheft erstellen" oder "Zielgruppenanalyse durchführen" beschrieben. In dieser Gliederung können Sie sich aber auch an den Unternehmensfunktionen orientieren wie Vertrieb und Verkauf[^2].
@@ -58,10 +58,10 @@ Nun zu den großen Vorteilen des Projektstrukturplanes. Die einzelnen Aufgaben s
 
 # Weiterführende Literatur
 
-* [Youtube-Kanal mit vielen interessanten Videos zum Projektstrukturplan:] (https://www.youtube.com/c/PMBackstage/videosWeiterfuehrende)
-* [Weiterführende Informationen zur Terminplanung/Ablaufplanung:] (https://mediencommunity.de/system/files/wbts/projektmanagement/le03/12_einen_projektstukturplan_erstellen.html)
-* [Podcast "Projekte leicht gemacht":] (https://projekteleichtgemacht.podigee.io/9-der-projektstrukturplan-teil-1-nutzen-und-aufbau/embed?context=external">)
-* [Wikipedia Eintrag:] (https://de.wikipedia.org/wiki/Projektstrukturplan)
+* [Youtube-Kanal mit vielen interessanten Videos zum Projektstrukturplan:](https://www.youtube.com/c/PMBackstage/videosWeiterfuehrende)
+* [Weiterführende Informationen zur Terminplanung/Ablaufplanung:](https://mediencommunity.de/system/files/wbts/projektmanagement/le03/12_einen_projektstukturplan_erstellen.html)
+* [Podcast "Projekte leicht gemacht":](https://projekteleichtgemacht.podigee.io/9-der-projektstrukturplan-teil-1-nutzen-und-aufbau/embed?context=external">)
+* [Wikipedia Eintrag:](https://de.wikipedia.org/wiki/Projektstrukturplan)
 
 # Quellen
 
