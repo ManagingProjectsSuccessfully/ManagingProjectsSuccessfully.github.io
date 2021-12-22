@@ -80,6 +80,7 @@ der daraus entstandenden Vielzahl an Modellen bzw. Vorschläge zur Gestaltungsm�
 
 # Siehe auch
 
+* [Projekt](Projekt.md)
 * [Projektmanagement](Projektmanagement.md)
 * [Change Projekte](Change_Projekte.md)
 * [Veränderungen in Unternehmen gestalten](Managing_Change_in_Organisations.md)
