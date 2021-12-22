@@ -6,7 +6,7 @@ anrechnung: a
 ---
 
 
-The 3-5-3 of Scrum umfasst die Methode, nach der sich ein agiles Team in ihrem [Projekt](Projekt.md) organisiert. Hierbei steht 3-5-3 für Folgendes: [^1]
+The 3-5-3 of SCRUM umfasst die Methode, nach der sich ein agiles Team in ihrem [Projekt](Projekt.md) organisiert. Hierbei steht 3-5-3 für Folgendes: [^1]
 
 ### 3 Roles - 5 Events - 3 Attributes
 
@@ -20,7 +20,7 @@ Dies folgt aus dem erweiterten Verständnis für die allgemeine Definition von [
 
 * [Product Owner (PO)](Product_Owner.md)
 * [SCRUM Master](Scrum_Master.md)
-* Das Team
+* Team
 
 Die Aufgaben des [Product Owners](Product_Owner.md) sind primär das [Backlog](Product_Backlog.md) zu pflegen. Dies erfolgt durch eine stetige Priorisierung des [Backlogs](Product_Backlog.md) und eine klare Kommunikation der Inhalte an das Team. Da der [Product Owner](Product_Owner.md) den Kunden vertritt, hat dieser auch die Verantwortung die Vision des Kunden zu vermitteln. Er besitzt daher auch das Recht eine finale Entscheidung zu treffen über das weitere Vorgehen im [Projekt](Projekt.md). [^2]
 
@@ -38,7 +38,7 @@ Demzufolge ist das Team ausschließlich dafür zuständig das vom Kunden geforde
 
 Ein Sprint ist ein festgelegter Zeitraum, in welchem die sonstigen Events stattfinden. Die Länge eines Sprints wird am Anfang eines [Projekts](Projekt.md) festgelegt und kann zum Beispiel eine, zwei oder vier Wochen umfassen. [^3]
 
-Täglich findet während eines Sprints das Daily statt. Hiermit wird die Kommunikation zwischen den Teammitgliedern gefördert sowie ein konstanter Austausch über die erreichten Fortschritte gefördert. Dabei sollen [Impediments](Impediment_Backlog.md) sichtbar gemacht werden und die Zusammenarbeit verbessert werden. [^3]
+Täglich findet während eines Sprints das Daily statt. Hiermit wird die [Kommunikation](Kommunikation_Projektbeteiligte.md) zwischen den Teammitgliedern gefördert sowie ein konstanter Austausch über die erreichten Fortschritte gefördert. Dabei sollen [Impediments](Impediment_Backlog.md) sichtbar gemacht werden und die Zusammenarbeit verbessert werden. [^3]
 
 Im [Sprint Review](Sprint_Review.md) wird dann der abgeschlossene Sprint bewertet. Dabei wird optimalerweise ein neues Product Increment betrachtet und die erreichten Fortschritte werden durchgesprochen. Hier sollte durch die Stakeholder auch ein Feedback gegeben werden. [^3]
 
@@ -56,7 +56,7 @@ Im [Product Backlog](Product_Backlog.md) wird das Ziel eines [Projekts](Projekt.
 
 Die Kurzform davon ist das Sprint Backlog. Hier werden allein die zu erledigenden Aufgabenpakete für den aktuellen Sprint zusammengefasst. Das verhindert, dass die Teammitglieder von den vorgegebenen Zielen abkommen, und bildet den Rahmen für einen Sprint. [^3]
 
-Am Ende eines Sprints wird angestrebt ein potenziell lieferbares Product Increment vorstellen zu können. Das gibt die Möglichkeit, dass Stakeholder direkt das Product Increment nach jedem Sprint begutachten können, und bietet eine Grundlage auf der im folgenden Sprint weitergearbeitet werden kann. [^2]
+Am Ende eines Sprints wird angestrebt ein potenziell lieferbares Product Increment vorstellen zu können. Das gibt die Möglichkeit, dass Stakeholder direkt das Product Increment nach jedem Sprint begutachten können, und bietet eine Grundlage, auf der im folgenden Sprint weitergearbeitet werden kann. [^2]
 
 # Fazit
 
