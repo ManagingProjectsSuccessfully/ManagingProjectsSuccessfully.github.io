@@ -12,7 +12,7 @@ Die Machbarkeit ist ein wichtiges Entscheidungskriterium, um festzustellen, ob e
 
 Die Machbarkeit ist Bestandteil der Initialisierungsphase eines Projekts.[^2]
 
-Die klassische Vorgehensweise der Initialisierungsphase sind Aussagen zur Machbarkeit, zu [Risiken](Risikomanagement.md) und zu [Stakeholdern](Stakeholdermanagement.md) zu treffen. Dies gelingt durch Analysen der aktuellen Situation, durch klar vereinbarte Ziele und eindeutig formulierte Anforderungen.[^2]
+Die klassische Vorgehensweise der Initialisierungsphase sind Aussagen zur Machbarkeit, zu [Risiken](Risikomanagement.md) und zu [Stakeholdern](Stakeholdermanagement.md) zu treffen. Dies gelingt durch Analysen der aktuellen Situation, durch klar vereinbarte Ziele und durch eindeutig formulierte Anforderungen.[^2]
 
 Sofern sich die Ziele und Anforderungen an der Grenze des Machbaren befinden, ist es sinnvoll, vor der Realisierung des Projekts, eine Machbarkeitsstudie durchzuführen. Diese minimiert die [Projektrisiken](Risikomanagement.md) und hilft bei der effektiven Gestaltung des Projektverlaufs.[^2]
 
