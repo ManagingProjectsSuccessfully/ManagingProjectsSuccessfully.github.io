@@ -54,6 +54,7 @@ eine Machbarkeitsstudie durchgeführt werden, um weitere hilfreiche Informatione
 ## Planungsphase
 
 In der Planungsphase wird das Team organisiert und folgende Pläne werden angelegt: [^6]
+Siehe auch [Projektplanung](Projektplanung.md).
 
 * Aufgabenpläne
 * Ablaufpläne
