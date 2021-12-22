@@ -73,27 +73,29 @@ Das Modell bringt auch paar kritische Punkte mit wie:
 
 # Siehe auch:
 
-* Der Unterschied zwischen klassisches Wasserfall_Modell und das agile Modell:
-  https://www.wegewerk.com/de/blog/wasserfall-vs-agile-umsetzung/
+* Der Unterschied zwischen klassisches Wasserfall_Modell und das agile Modell von Eva Mesirow. https://www.wegewerk.com/de/blog/wasserfall-vs-agile-umsetzung/
+* Projektmanagement: Wasserfall-Modell vs. agiles Vorgehen von Jan Philip Riehle.  https://www.pinuts.de/projektmanagement-wasserfall-modell-gegen-agiles-arbeiten
+* Was ist die Wasserfallmodell Softwareentwicklung und ist sie überhaupt noch relevant? von John Adam (2021). https://kruschecompany.com/de/wasserfallmodell-softwareentwicklung/
+
 
 # Quellen:
 
-[^1]: https://www.teamazing.de/was-ist-das-wasserfallmodell/
-[^2]: https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
-[^3]: https://res.cloudinary.com/travelio/image/fetch/c_fill,f_auto,g_center/https://images.ctfassets.net/t13sz4t8kyqs/2hshC9HOYVFJCLoiv5ig8E/4d7df484dbdd1848c9432816152e4aee/TH.Huay_Mae_Khamin_Wasserfall.jpg
-[^4]: https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
-[^5]: https://www.youtube.com/watch?v=8MEacBXP6zg&t=41s 
-[^6]: https://www.netzsieger.de/ratgeber/methoden-des-traditionellen-projektmanagements#pid=1
-[^7]: https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
-[^8]: https://www.factro.de/blog/wasserfallmodell/
-[^9]: https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
-[^10]: https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
-[^11]: https://www.factro.de/blog/wasserfallmodell/
-[^12]: https://www.factro.de/blog/wasserfallmodell/ 
-[^13]: https://www.quality.de/lexikon/wasserfallmodell/
-[^14]: https://www.pinuts.de/projektmanagement-wasserfall-modell-gegen-agiles-arbeiten
-[^15]: https://www.factro.de/blog/wasserfallmodell/
-[^16]: https://www.quality.de/lexikon/wasserfallmodell/
-[^17]: https://de.wikipedia.org/wiki/Spiralmodell
-[^18]: https://de.wikipedia.org/wiki/Rational_Unified_Process
-[^19]: https://de.wikipedia.org/wiki/V-Modell
+[^1]: TEAMAZING https://www.teamazing.de/was-ist-das-wasserfallmodell/
+[^2]: ENZYKLOPAEDIE-DER-WIRTSCHAFTSINFORMATIK, Marco Kuhrmann (2012) https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
+[^3]: CLOUDINARY https://res.cloudinary.com/travelio/image/fetch/c_fill,f_auto,g_center/https://images.ctfassets.net/t13sz4t8kyqs/2hshC9HOYVFJCLoiv5ig8E/4d7df484dbdd1848c9432816152e4aee/TH.Huay_Mae_Khamin_Wasserfall.jpg
+[^4]: ENZYKLOPAEDIE-DER-WIRTSCHAFTSINFORMATIK, Marco Kuhrmann (2012) https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
+[^5]: YOUTUBE, Tim Donkiewicz (2018) https://www.youtube.com/watch?v=8MEacBXP6zg&t=41s 
+[^6]: NETZSIEGER, Andreas Kiener (2018) https://www.netzsieger.de/ratgeber/methoden-des-traditionellen-projektmanagements#pid=1
+[^7]: IONOS (2020) https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
+[^8]: FACTRO ,Vivien-Jana Gaida (2021) https://www.factro.de/blog/wasserfallmodell/
+[^9]: IONOS (2020) https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
+[^10]: IONOS (2020) https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
+[^11]: FACTRO ,Vivien-Jana Gaida (2021) https://www.factro.de/blog/wasserfallmodell/
+[^12]: FACTRO ,Vivien-Jana Gaida (2021) https://www.factro.de/blog/wasserfallmodell/ 
+[^13]: QUALITY, Simone Fuchs  https://www.quality.de/lexikon/wasserfallmodell/
+[^14]: PINUTS; Jan Philip Riehle https://www.pinuts.de/projektmanagement-wasserfall-modell-gegen-agiles-arbeiten
+[^15]: FACTRO ,Vivien-Jana Gaida (2021) https://www.factro.de/blog/wasserfallmodell/
+[^16]: QUALITY, Simone Fuchs https://www.quality.de/lexikon/wasserfallmodell/
+[^17]: WIKIPEDIA https://de.wikipedia.org/wiki/Spiralmodell
+[^18]: WIKIPEDIA https://de.wikipedia.org/wiki/Rational_Unified_Process
+[^19]: WIKIPEDIA https://de.wikipedia.org/wiki/V-Modell
