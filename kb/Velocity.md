@@ -9,8 +9,7 @@ eine Maßeinheit für die Geschwindigkeit eines Teams. In Scrum wird mit der Vel
 
 Die Velocity wird meistens im Zusammenhang mit [Scrum](SCRUM.md), einem Vorgehensmodell des Projektmanagements, verwendet. Da die Story Points in Scrum alleine keine 
 Aussagekraft in Bezug auf den Arbeitsaufwand und die Geschwindigkeit des Teams haben, wird die Velocity als aussagekräftige Maßeinheit benötigt. Genauer gesagt misst sie die 
-Arbeitsmenge, die ein Entwicklungsteam in einem Sprint erledigen kann. Also ist sie ein Maß für die Schnelligkeit des Teams. Sie variiert auch von Sprint zu Sprint, ist also 
-keine konstante Größe innerhalb eines Projekts.[^1]
+Arbeitsmenge, die ein Entwicklungsteam in einem Sprint erledigen kann. Sie variiert auch von Sprint zu Sprint, ist also keine konstante Größe innerhalb eines Projekts.[^1]
 
 # Darstellung
 Um die Velocity zu berechnen muss man lediglich alle Punkte der vom Entwicklungsteam vollständig abgelieferten User Storys addieren. Mit einem Beispiel lässt sich die 
