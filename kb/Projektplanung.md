@@ -34,7 +34,7 @@ Zwei bekannte Vorgehensmodelle des klassischen Projektmanagements sind einerseit
 
 ## Spiralmodell
 
-Eine Erweiterung des linearen Modells stellt das Spiralmodell dar. „Es besteht aus vier zyklischen Schritten, die durchgängig bis zur Außerbetriebnahme der Software stattfinden.“[^6] Dieses beginnt mit der Definition der Ziele in der Phase „Voraussetzungen“ gefolgt von der „Risikoanalyse“ in der Lösungsansätze in Bezug auf mögliche Risiken bewertet werden. Die „Umsetzung“ der angepeilten Ziele erfolgt im dritten Schritt. Die letzte Phase, die zugleich den Beginn eines neuen Zyklus darstellt, beschäftigt sich mit der „Planung“ der weiteren Vorgehensweise.[^6]
+Eine Erweiterung des linearen Modells stellt das Spiralmodell dar. „Es besteht aus vier zyklischen Schritten, die durchgängig bis zur Außerbetriebnahme der Software stattfinden.“[^6] Dieses beginnt mit der Definition der Ziele in der Phase „Voraussetzungen“ gefolgt von der „Risikoanalyse“ in der Lösungsansätze in Bezug auf mögliche Risiken bewertet werden. Die „Umsetzung“ der angepeilten Ziele erfolgt im dritten Schritt. Die letzte Phase, die zugleich den Beginn eines neuen Zyklus darstellt, beschäftigt sich mit der „Planung“ der weiteren Vorgehensweise.[^6] Dies wird durch die folgende Abbildung verdeutlicht.
 
 ![Beispielabbildung](Projektplanung/Spiralmodell.jpg)[^6]
 
