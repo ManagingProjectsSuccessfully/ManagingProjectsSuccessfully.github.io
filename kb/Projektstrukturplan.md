@@ -43,7 +43,7 @@ In der phasenorientierten Gliederung teilen Sie das Projekt in Arbeitsetappen. Z
 
 ![grafik](https://user-images.githubusercontent.com/92889512/147134392-462a6ff6-5cac-4612-b361-5e572950b55a.png)
 
-_Abbildung 3: Phasenorientierter PSP
+_Abbildung 3: Phasenorientierter PSP_
 
 Welche Orientierung gewählt wird, steht grundsätzlich frei. Daneben sind auch Mischformen möglich. Das ist in vielen [Projekten](Projekt.md) unumgänglich und sogar notwendig. Allerdings gilt dann folgende Regel: Es muss dieselbe Gliederungsform für die Teilprojekte, Teilaufgaben und Arbeitspakete im Projekt gewählt werden. Man darf ein Teilprojekt bzw. einen Zweig des Projektstrukturplans nicht objektorientiert planen und den anderen Zweig funktionsorientiert. Stattdessen betrachtet man das gesamte Projekt und plant zum Beispiel alle Teilaufgaben objektorientiert und alle Arbeitspakete funktionsorientiert.
 
