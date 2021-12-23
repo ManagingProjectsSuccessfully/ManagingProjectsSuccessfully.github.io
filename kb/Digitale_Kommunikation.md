@@ -26,15 +26,14 @@ Das Kommunikationsmodell von Alistair Cockburn beschreibt auf der Y-Achse die �
 
 Nach Cockburn erfolgt die effektivste Kommunikationsform von Angesicht zu Angesicht, insbesondere wenn sie durch ein gemeinsames Modellierungsmedium, wie ein einfaches Whiteboard, ein Flipchart, Papier oder Karteikarten, unterstützt wird. Wenn man sich von dieser Kommunikationsform abwendet, etwa indem man das gemeinsame Medium entfernt oder nicht mehr von Angesicht zu Angesicht kommuniziert, sinkt die Effektivität der [Kommunikation](Kommunikation_Projektbeteiligte.md)[^3].
 
-# 3. Nachteile digitaler Kommunikation 
-Die digitale Kommunikation bringt auch einige Risiken mit sich. Das größte Risiko besteht in der Datensicherheit. Die Daten müssen ausreichend gesichert sein, damit kein Datenleck entsteht, außerdem muss das Unternehmen Zeit und Geld investieren, um die Mitarbeiter in „Cybersicherheit“ zu schulen [^7].
-Des Weiteren können Probleme durch Missverständnisse in der textbasierten Onlinekommunikation auftreten. Die Probleme entstehen meist durch fehlende Mimik und Gestik, weshalb Nachrichten möglichst wenig Spielraum zur Fehlinterpretation lassen sollten [^8][^9].
-
-
-# 4. Vorteile digitaler Kommunikation
+# 3. Vorteile digitaler Kommunikation
 Die Vorteile digitaler Kommunikation liegen in der zeitlichen- und räumlichen Unabhängigkeit und in der Effizienz. E-Mails können zeitlich unabhängig versendet werden und erreichen den Empfänger innerhalb weniger Sekunden.
 Die räumliche Unabhängigkeit spiegelt sich dadurch wieder, dass die Mitglieder eines Projektteams sich in verschieden Regionen oder sogar Zeitzonen befinden und durch Kommunikationssoftware trotzdem am Projektmeeting teilnehmen können.
 Der größte Vorteil ist aber der Zeitgewinn, wodurch Aufträge „just in time“ vergeben werden können oder an [Projekten](Projekt.md) durch „Share-Optionen“ mehrere Personen gleichzeitig arbeiten können [^4].
+
+# 4. Nachteile digitaler Kommunikation 
+Die digitale Kommunikation bringt auch einige Risiken mit sich. Das größte Risiko besteht in der Datensicherheit. Die Daten müssen ausreichend gesichert sein, damit kein Datenleck entsteht, außerdem muss das Unternehmen Zeit und Geld investieren, um die Mitarbeiter in „Cybersicherheit“ zu schulen [^7].
+Des Weiteren können Probleme durch Missverständnisse in der textbasierten Onlinekommunikation auftreten. Die Probleme entstehen meist durch fehlende Mimik und Gestik, weshalb Nachrichten möglichst wenig Spielraum zur Fehlinterpretation lassen sollten [^8][^9].
 
 # 5. Die Kommunikationssoftware Microsoft Teams
 
