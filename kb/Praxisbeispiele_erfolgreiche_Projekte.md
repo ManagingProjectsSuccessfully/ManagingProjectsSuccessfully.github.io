@@ -2,103 +2,56 @@
 title: Praxisbeispiele_erfolgreiche_Projekte
 tags: agil klassisch
 author: Goschu1
-anrechnung: k oder a
+anrechnung: k 
 ---
-
-Kurzbeschreibung zu Praxisbeispiele_erfolgreiche_Projekte um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Dieser Artikel handelt von exemplarischen erfolgreichen Großprojekten, die Unternehmen und sogar einen Staat maßgeblich vorangebracht haben. Wie Erfolg im Projektmanagement definiert ist und gemessen wird, könnnen Sie [hier](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md) nachlesen. 
 
 
-# Aspekt 1
+# Einführung des iPhones
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+[Steves Jobs](https://de.wikipedia.org/wiki/Steve_Jobs), der Gründer von Apple und damaliger CEO, hatte die Idee in den Mobiltelefonmarkt einzusteigen im Jahr 2005. Er sah die Gefahr, dass der Markt der MP3-Player und damit auch des iPods schrumpfen wird, weil die damaligen Handy-Modelle inzwischen ebenfalls Musik speichern und abspielen konnten. Die verantwortlichen Projektleiter für die Entwicklung des iPods bekamen von Steve Jobs den Auftrag, unter dem Projektnamen "Project Purple" aus dem bestehenden iPod ein Mobiltelefon zu konstruieren.[^1] Da das Navigieren mittels Click Wheel, wie zum Beispiel beim Wählen von Telefonnummern, sehr umständlich war, wurde das bis dahin geheime Projekt, welches die Machbarkeit eines Tablet-Computers prüfte, hinzugezogen. Es entstand ein Mobiltelefon mit einem verglasten 3.5 Zoll Display, welches durch Berührungen mit den Fingern bedient werden konnte. Durch die Innovationskraft von diesem Projekt war das iPhone ein Pionier auf dem Mobiltelefon-Markt. Das iPhone wurde am 9. Januar 2007 an der Apple Messe MacWorld vorgestellt und ging am 29. Juni dieses Jahres in Amerika in den Verkauf. Bereits am ersten Verkaufswochenende wurden eine halbe Million Exemplare verkauft.[^2] Das iPhone ist bis heute ein gigantischer finanzieller Erfolg. Steve Jobs ebnete mit diesem Projekt den Weg für das modere Smartphone.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Steve Jobs stellt das erste iPhone vor.[^9]
 
-![Beispielabbildung](Praxisbeispiele_erfolgreiche_Projekte/test-file.jpg)
+![Steve Jobs IPhone Vorstellung](Praxisbeispiele_erfolgreiche_Projekte/iphone-steve-jobs.jpeg)
 
-*lustiges Testbild*
+# Drei-Schluchten-Talsperre China
 
-# Aspekt 2
+Eines der größten Multi-Milliarden-Projekte der frühen 2000er, welches sogar die Erdrotation beeinflusst, war die Drei-Schluchten-Talsperre in China. [^3] Das Wasserkraftwerk wurde im längsten Fluss Chinas, dem [Jangste](https://de.wikipedia.org/wiki/Jangtsekiang), errichtet. Auch wenn es anfänglich viel Kritik an dem Projekt gab, hauptsächlich durch die unfassbaren Projektkosten von ca. 75 Milliarden USD bis 2013 und Zwangsumsiedelungen von mehr als einer Millionen Menschen, war das Projekt ein voller Erfolg. China bezieht ca. 75% der Energiegewinnung aus höchst umweltschädlichen Kohlekraftwerken, mit einer jährlich gewonnen Energie von 22,5 Gigawatt konnte durch das Wasserkraftwerk die Verstromung von über 49 Millionen Tonnen Kohle pro Jahr vermieden werden.[^4] Bis heute ist es das produktionsstärkste Kraftwerk der Welt.[^5] Der Staudamm greift extrem in die Natur ein, was erstmal sehr dramatisch klingt hat aber auch Vorteile. China fällt fast jährlich riesigen Fluten und Überschwemmungen zum Opfer, welche tausenden Tote fordern. Der Staudamm beugt genau das seit mehr als 18 Jahren erfolgreich vor.[^6] 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Die Drei-Schluchten-Talsperre.[^10]
+![Drei-Schluchten-Talsperre](Praxisbeispiele_erfolgreiche_Projekte/Drei-Schluchten-Damm-in-China.jpg)
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+# Projektmanagement bei American Airlines
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Durch die Fusion von American Airlines und US Airways kam es zu Überschneidungen bei Technologien und internen IT-Programmen. Das Management entschloss sich dazu, ein Projekt zu etablieren mit dem Ziel, die IT der Unternehmen und Datenbanken zu einer zusammenzuführen und dadurch einen kommerziellen Erfolg und effektivere Arbeitszeiten zu schaffen.
+Die Datenbanken, die zuvor benutzt wurden, waren für die Verwaltung von Ressourcen und komplexen Projekten unzureichend. Um einen Überblick über die kommerziell erfolgreichsten Daten und Projekte zu bekommen, begann das Unternehmen mit ihren Projektmanagern ein smartes System zu entwickeln, welches alle Daten automatisch auswertet. Infolgedessen konnte die Airline die Planungszeiten für Projekte und Routen verkürzen und dabei weniger Arbeiter einsetzten, was sich positiv auf den Gewinn auswirkte und mehrere Millionen Dollar einbrachte. Das Unternehmen hat nun Zugang zu besseren und zuverlässigeren Daten, um wichtige Entscheidungen über Projekte und Ressourcen zu treffen.[^7] Dank diesem erfolgreichen Projektmanagements ist American Airlines bis heute eine der größten Fluggesellschaften der Welt.[^8]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Ein Flugzeug der American Airlines.[^11]
+![American-Airline](Praxisbeispiele_erfolgreiche_Projekte/AmericanAirlines.jpg)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Praxisbeispiele_erfolgreiche_Projekte.md)
+* [Praxisbeispiele gescheiterter Projekte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Praxisbeispiele_gescheiterte_Projetke.md)
+* [Erfolgsmessung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Erfolgsmessung.md)
 
 # Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Manager-Magazin: Geheminis erfolgreicher Projekte](https://www.manager-magazin.de/harvard/management/das-geheimnis-erfolgreicher-projekte-a-00000000-0002-0001-0000-000159313152)
+* [Simple Flying: Making The World’s Largest Airline: The History Of American Airlines](https://simpleflying.com/history-american-airlines/)
 
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Apple's Phone: From 1980s' Sketches to iPhone](https://mobile-review.com/articles/2010/iphone-history3-en.shtml)
+[^2]: [Verkaufszahlen iPhone](https://www.spiegel.de/netzwelt/mobil/handy-hype-apple-verkauft-hunderttausende-iphones-a-491832.html)
+[^3]: [Erdrotation: Wieviel Einfluss hat der Drei-Schluchten-Damm?](https://www.mz.de/panorama/erdrotation-wieviel-einfluss-hat-der-drei-schluchten-damm-2292042)
+[^4]: [NTV: Energierekord am Drei-Schluchten-Damm](https://www.n-tv.de/wirtschaft/Energierekord-am-Drei-Schluchten-Damm-article14247201.html)
+[^5]: [Das sind die größten Kraftwerke der Welt](https://www.handelsblatt.com/technik/energie-umwelt/circular-economy/wasser-wind-kohle-atom-das-sind-die-groessten-kraftwerke-der-welt/14849820.html?ticket=ST-3508956-DO6yaiY0yaqKcLYJpJOx-cas01.example.org)
+[^6]: [Der Drei-Schluchten-Stausee gibt fast 90% seiner Kapazität zum Hochwasserschutz frei](http://german.china.org.cn/txt/2021-06/03/content_77546264.html)
+[^7]: [Project Report on Merger of American airlines and US airlines](https://de.slideshare.net/reenasisodiya10/project-report-on-merger-of)
+[^8]: [RND: Die größten Fluggesellschaften der Welt](https://www.rnd.de/reise/iata-ranking-das-sind-die-25-groessten-airlines-der-welt-LDHUXKVAC5FCJLHKY2JTZJP4ZU.html)
+[^9]: [Steve Jobs stellt das erste iPhone vor](https://www.t-online.de/digital/handy/id_81539520/vor-10-jahren-wurde-das-erste-iphone-verkauft.html)
+[^10]: [Die Drei-Schluchten-Talsperre](https://mar.prod.image.rndtech.de/var/storage/images/haz/nachrichten/panorama/uebersicht/drei-schluchten-damm-in-china-macht-neue-probleme/12794797-1-ger-DE/Drei-Schluchten-Damm-in-China-macht-neue-Probleme_reference_4_3.jpg)
+[^11]: [Ein Flugzeug der American Airlines](https://www.frankfurtflyer.de/wp-content/uploads/2019/11/american-airlines-737-max750xx1173-660-44-0-678x381.jpg)

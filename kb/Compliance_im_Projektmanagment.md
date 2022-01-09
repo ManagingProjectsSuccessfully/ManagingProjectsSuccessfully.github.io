@@ -1,104 +1,49 @@
 ---
 title: Compliance_im_Projektmanagment
-tags: agil klassisch
-author: phigeit
-anrechnung: k oder a
+tags: compliance projektmanagement klassisch
+author: moritzgrt
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Compliance_im_Projektmanagment um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Compliance im Projektmanagement beschreibt im Prinzip, das regelgetreue Verhalten eines Unternehmens im gesetzlichen Kontext. Durch gezieltes Compliance Management sollen durch Prophylaxe gezielt Pflichtverletzungen, Schaden und Haftungsfälle eines Unternehmens vermieden werden. (Szabo, Bela: Compliance Management System) Ein Werkzeug um beispielsweise Lieferungszusagen einhalten zu können ist zum Beispiel das sogenannte [Timeboxing.](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Timeboxing.md) Compliance ist somit am Beginn einer Planungsphase für Projekte innerhalb von Unternehmen einzuordnen.
 
 
-# Aspekt 1
+# Rechtliche Grundlagen
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Ein elementares Bestreben eines jeden Unternehmens sollte es sein, die nationalen und internationalen Rechtsverordnungen und Bestimmungen einzuhalten. So gibt es spezifisch im Bezug auf Compliance eine entsprechende ISO-Norm: [ISO 37301:2021](https://www.iso.org/standard/75080.html). Diese Norm spezifiziert Anforderungen und enthält Richtlinien für die Einrichtung, Entwicklung, Implementierung, Bewertung, Aufrechterhaltung und Verbesserung eines effektiven Compliance-Managements innerhalb einer Organisation. (International Organization for Standardization: ISO 37301:2021)
+## Nationale Verordnungen
+In Deutschland ist der Begriff Compliance juristisch nicht eindeutig definiert. Als Grundlage wird oftmals jedoch der Deutsche Corporate Governance Kodex (DCGK) herangezogen. Der Kodex beinhalten grundsätzlich Vorschriften zur Überwachung und Leitung deutscher börsennotierter Gesellschaften. Er besitzt jedoch keines Wegs eine rechtliche Verbindlichkeit. (Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen)
+## Internationale Richtlinien
+Wichtig für Unternehmen ist der Fakt sich auch an Gesetze anderer Länder im internationalen Geschäftsverkehr halten zu müssen. So müssen die gesetzlichen Verbindlichkeiten vor einer Partnerschaft beidseitig gut analysiert werden. Es gibt beispielsweise den [Foreign Corrupt Practices Act](https://www.justice.gov/criminal-fraud/foreign-corrupt-practices-act) (FCPA) zur Bekämpfung von Korruption oder den [UK Bribary Act](https://de.wikipedia.org/wiki/Bribery_Act_2010) als Compliance Vorschrift in Großbritannien. (Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen)
+ 
+# Integration von Compliance im Unternehmen
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Compliance in Organisationen umzusetzten bedarf zunächst einer umfangreichenden Ist-Analyse. Vollständigkeit ist hier tatsächlich sehr umfangreich und deshalb nicht unbedingt einfach. Dieser Schritt ist in der Abbildung als Compliance Kultur zu sehen. Anschließend muss der Soll-Zustand definiert werden. Nun muss analysiert werden, durch welche Änderungen und Anpassungen der angestrebte Zustand nun erreicht werden soll. (Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen) Da sich Gestze aber ändern können bedarf Compliance einer städigen Kontrolle auf ihrer Aktualität hin. Vor allem im internationalen Geschäftsraum ist es zunehmend schwerer allen Verordnungen und lokalen juristischen Gegebenheiten gerecht zu werden. (Szabo, Bela: Compliance Management System)
 
-![Beispielabbildung](Compliance_im_Projektmanagment/test-file.jpg)
+![CMS](Compliance_im_Projektmanagment/Compliance-Management-System-CMS.jpg)
 
-*lustiges Testbild*
+*Compliance Management System (CMS) (Leitner, Andreas: Compliance Management System)*
 
-# Aspekt 2
+# Risiken und Prävention
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Compliance dient in erster Linie dazu, Unternehmen und deren Akteure vor juristischen und wirtschaftlichen Konsequenzen zu bewahren. Oftmals sind für Verstöße gegen rechtliche Verordnungen hohe Geldstrafen fällig. Nicht selten besteht auch die Möglichkeit einer Freiheitsstrafe bei Vergehen härterer Art. (Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen) Mit einer Verurteilung bei Missachtung einer Vorschrift geht häufig ein Imageverlust einher, der dem Unternehmen zusätzlichen wirtschaftlichen Schaden kosten kann. (Otte, Holger: Einführung von Compliance Management Systemen)
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# Einordnung in den Gesamtkontext
 
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
+Compliance ist essentiell für Unternehmen und sonstige Organisationen. Diese müssen bereits in der Planungsphase neuer Projekte die rechtlichen Grundlagen des Zielmarktes analysieren und in weitere Schritte mit einbeziehen. Es muss sichergestellt werden ob aktuell rechtliche Bestimmungen verletzt werden und daraufhin gehandelt werden und es muss für zukünftige Projekte die Basisinformationen der rechtlichen Verordnungen sowohl lokaler als auch internationaler Märkte zur Verfügung stellen um so das Unternehmen vor Schaden zu bewahren. Deshalb ist Compliance im Projektmanagement unbedingt in den Beginn einer jeden Planungsphase eines neuen Projektes einzuordnen und unumgänglich wenn wirtschaftlicher und juristischer Schaden vermieden werden soll. Interessant um zu verstehen an welcher Stelle Compliance bei der Projektplanung steht sind vor allem beispielsweise verschiedenste [Vorgehensmodell](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Vorgehensmodelle.md) die ein Projekt in mehrere Phasen unterteilt. Auch die [Digitalisierung im Projektmanagement](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM.md) spielt bei der Compliance eine große Rolle. Der ständige und schnelle Datenaustausch ermöglichen schnelle Reaktionen auf sich ändernde Umstände.
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Compliance_im_Projektmanagment.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Digitalisierung im Projektmanagement](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM.md)
+* [Timeboxing](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Timeboxing.md)
+* [Vorgehensmodelle](https://github.com/MartinEnders/ManagingProjectsSuccessfully.github.io/blob/main/kb/Vorgehensmodelle.md)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+1. Szabo, Bela: Compliance Management System (https://www.haufe.de/compliance/management-praxis/compliance-management-systeme/compliance-management-system_230130_455824.html , zuletzt aufgerufen am 20.11.2021)
+2. Schulenberg, Matthias und Mertens, Jörg: Compliance und die Bedeutung für Unternehmen (https://www.validatis.de/kyc-prozess/news-fachwissen/compliance/ , zuletzt aufgerufen am 21.11.2021)
+3. International Organization for Standardization: ISO 37301:2021
+Compliance management systems — Requirements with guidance for use (https://www.iso.org/standard/75080.html , zuletzt aufgerufen am 19.11.2021)
+4. Leitner, Andreas: Compliance Management System (CMS) (https://andreasleitner.de/compliance-management-system/ , zuletzt aufgerufen am 22.11.2021)
+5. Otte, Holger: Einführung von Compliance Management Systemen (https://www.bdo.de/de-de/services/audit-assurance/forensic,-risk-compliance/compliance/compliance-management-system-cms , zuletzt aufgerufen am 20.11.2021)
+
 
