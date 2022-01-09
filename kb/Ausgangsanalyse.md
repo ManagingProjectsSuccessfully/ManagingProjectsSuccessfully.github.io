@@ -50,4 +50,3 @@ Zusammenfassend lässt sich sagen, dass durch die Ausgangsanalyse viele weitere 
 [^3]: https://projektmanagement-manufaktur.de/stakeholderanalyse
 [^4]: https://projektmanagement-manufaktur.de/risikoanalyse-projektmanagement
 [^5]: https://projekte-leicht-gemacht.de/blog/methoden/projektstart/die-umfeldanalyse-einfach-erklaert/
-
