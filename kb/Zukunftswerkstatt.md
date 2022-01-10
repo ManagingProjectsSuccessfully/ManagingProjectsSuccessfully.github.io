@@ -22,7 +22,7 @@ Der offene Ansatz der Zukunftswerkstatt findet in vielen Bereichen, wie [Start-u
 
 * Organisations- und Unternehmensentwicklung
 * Leitbildentwicklung und Zukunftsprofil
-* Teamentwicklung
+* Teamentwicklung 
 * als Tool für Startups, Unternehmensgründer/innen und Projektentwickler/innen
 * [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
 * Partizipative Gemeinde- und Regionalentwicklung 
@@ -85,5 +85,6 @@ Gehaltsunterschieden oder der Unterrepräsentanz von Frauen in Führungsposition
 [^3]: [Anwendungsbereiche der Zukunftswerkstatt](https://jungk-bibliothek.org/zukunftswerkstaetten-2/anwendungsbereiche-einer-zukunftswerkstatt/)
 [^4]: [Aufbau und Methoden der Zukunftswerkstatt](https://jungk-bibliothek.org/zukunftswerkstaetten/aufbau-und-methoden-der-zukunftswerkstatt/)
 [^5]: [Google Zukunftswerkstatt](https://initiative-chefsache.de/google-zukunftswerkstatt/)
+
 
 
