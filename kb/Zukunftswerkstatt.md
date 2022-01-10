@@ -23,11 +23,11 @@ Der offene Ansatz der Zukunftswerkstatt findet in vielen Bereichen, wie [Start-u
 
 * Organisations- und Unternehmensentwicklung
 * Leitbildentwicklung und Zukunftsprofil
-*	Teamentwicklung
+* Teamentwicklung 
 * als Tool für Startups, Unternehmensgründer/innen und Projektentwickler/innen
-*	[Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
-*	Partizipative Gemeinde- und Regionalentwicklung 
-*	Partizipative Raum-, Umwelt- und Stadtplanung [^3].
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* Partizipative Gemeinde- und Regionalentwicklung 
+* Partizipative Raum-, Umwelt- und Stadtplanung [^3].
 
 
 
