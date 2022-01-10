@@ -5,7 +5,6 @@ author: ig27oqaf
 anrechnung: k 
 ---
 
-
 Die Zukunftswerkstatt ist eine von den Forschern Robert Jungk, Rüdiger Lutz und Norbert R. Müllert begründete [Methode](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md) im Projektmanagement. In dieser Methode wird die Fantasie angeregt, die zu neuen Ideen für Lösungen gesellschaftlicher Probleme führen soll [^1].
 
 
