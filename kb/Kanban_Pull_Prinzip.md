@@ -56,11 +56,11 @@ Um das Kanban Pull-Prinzip erfolgreich im Unternehmen integrieren zu können, be
 
 # Siehe auch
 
-* [Kanban](Kanban.md)
-* [Kanban Boards](Kanban_Boards.md)
-* [Kanban Karten](Kanban_Karten.md)
-* [Kanban Swim Lanes](Kanban_Swim_Lanes.md)
-* [Kanban Work in Progress](Kanban_Work_in_Progress.md)
+* [Kanban](https://managingprojectssuccessfully.github.io/kb/Kanban.html)
+* [Kanban Boards](https://managingprojectssuccessfully.github.io/kb/Kanban_Boards.html)
+* [Kanban Karten](https://managingprojectssuccessfully.github.io/kb/Kanban_Karten.html)
+* [Kanban Swim Lanes](https://managingprojectssuccessfully.github.io/kb/Kanban_Swim_Lanes.html)
+* [Kanban Work in Progress](https://managingprojectssuccessfully.github.io/kb/Kanban_Work_in_Progress.html)
 
 # Weiterführende Literatur
 
