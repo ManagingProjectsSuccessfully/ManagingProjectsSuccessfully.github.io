@@ -52,14 +52,14 @@ Die von "humanfy" definierte "New Work Charter" zeigt, wie aus der ursprünglich
 # New Work im Projektmanagement
 In der "New Work Charta" wird verdeutlicht, dass das heutige Verständnis von New Work eher ein agiles ist. Der Mensch soll frei, selbstverantwortend, sinnhaft, sich weiterentwickelnd und mit sozialer Verantwortung arbeiten. 
 
-Um den Mitarbeitenden eine erfüllende Beschäftigung zu bieten, orientieren sich auch viele Konzepte des [Projektmanagements](Projektmanagement.md) bewusst oder unbewusst an den Grundpfeilern der "New Work Charta" und erfüllen so Anforderungen an New Work. Eine Auswahl dieser Konzepte ist:
+Um den [Mitarbeitenden](Projektmitarbeiter.md) eine erfüllende Beschäftigung zu bieten, orientieren sich auch viele Konzepte des [Projektmanagements](Projektmanagement.md) bewusst oder unbewusst an den Grundpfeilern der "New Work Charta" und erfüllen so Anforderungen an New Work. Eine Auswahl dieser Konzepte ist:
 
 * <b> [Feedback Kultur](Feedback_Kultur.md)</b>
  
   Das Geben und Nehmen von Rückmeldungen wird in einer Feedback Kultur als Kernkompetenz verstanden und soll die Mitarbeiterentwicklung anregen. Die Feedback Kultur ist somit ein Beispiel für den Punkt "Entwicklung" der New Work Charta.[^1][^3]
 * <b> [Vision](Projekt_Vision.md) </b>
   
-  Die verinnerlichte und verbildlichte Zukunftsvorstellung, auf die sich das Unternehmen bezieht, ist was eine Vision ausmacht.[^1] Die Vision dient dem Unternehmen als Wegweiser und Bild der Zukunft welches die Mitarbeiter leiten und motivieren soll. Somit ist die Vision dem Unterpunkt "Sinn" der New Work Charta zuzuordnen.[^1][^3]
+  Die verinnerlichte und verbildlichte Zukunftsvorstellung, auf die sich das Unternehmen bezieht, ist was eine Vision ausmacht.[^1] Die Vision dient dem Unternehmen als Wegweiser und Bild der Zukunft welches die [Mitarbeitenden](Projektmitarbeiter.md) leiten und motivieren soll. Somit ist die Vision dem Unterpunkt "Sinn" der New Work Charta zuzuordnen.[^1][^3]
 * <b> [Retrospektive](Retrospective.md) </b>
 
   Um Arbeitsprozesse und Ergebnisse zu reflektieren, werden sogenannte Retrospektiven veranstaltet. Das Ziel dieser Teammeetings besteht darin, Lerneffekte aus Arbeitsprozessen abzuleiten und als Team und Individuum dazuzulernen. Durch den kontinuierlichen Lerneffekt ist dieses Projektmanagementkonzept dem Punkt "Entwicklung" der New Work Charta zuzuschreiben.[^1][^3]
