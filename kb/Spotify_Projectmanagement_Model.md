@@ -52,6 +52,6 @@ Als Letztes muss das Controlling angepasst werden, um die Steuerbarkeit zu erhal
 [^1]: [Spotify Engineering Culture - Part 1](https://www.youtube.com/watch?v=Yvfz4HGtoPc)
 [^2]: [Das Spotify Modell: Agile und Scrum für große Organisationen](https://agilescrumgroup.de/spotify-modell/)
 [^3]: [Das Spotify Model als Blaupause für eine agile Organisation](https://digitaleneuordnung.de/blog/spotify-model/#squads)
-[^4]: [WIE KANN MAN DAS SPOTIFY MODELL IN KLASSISCHEN UNTERNEHMEN UMSETZEN?](https://agile-unternehmen.de/spotify-modell-in-klassischen-unternehmen/)
+[^4]: [WIE KANN MAN DAS SPOTIFY MODELL IN KLASSISCHEN UNTERNEHMEN UMSETZEN?](https://agile-unternehmen.de/spotify-modell-in-klassischen-unternehmen/)  
 
 
