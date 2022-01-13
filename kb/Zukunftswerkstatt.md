@@ -71,7 +71,7 @@ Gehaltsunterschieden oder der Unterrepräsentanz von Frauen in Führungsposition
 * [Digitalisierung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Digitalisierung_im_PM.md)
 
 
-# Weierführende Literatur
+# Weiterführende Literatur
 
 * [Zukunftswerkstatt](https://de.m.wikipedia.org/wiki/Zukunftswerkstatt)
 * [JBZ-Zukunftswerkstatt](https://jungk-bibliothek.org/zukunftswerkstaetten/)
