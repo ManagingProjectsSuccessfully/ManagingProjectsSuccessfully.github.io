@@ -1,6 +1,6 @@
 ---
 title: {Integrationsmanagement}
-tags: klassisch projektmanagement integrationsmanagement stakeholder
+tags: klassisch 
 author: {ow79arux}
 anrechnung: k 
 ---
