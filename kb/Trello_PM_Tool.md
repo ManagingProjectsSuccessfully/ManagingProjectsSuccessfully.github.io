@@ -42,6 +42,7 @@ Einnahmequelle von Trello basiert auf Premium-Prinzip, d.h dass Grundfunktion da
 ## Siehe auch
 * [Kanban board](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban_Boards.md)
 * [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
 ## Quelle
 [^1]: [History of Trello](https://en.wikipedia.org/wiki/Trello)
 [^2]: [Atlassian launches a whole new Trello](https://techcrunch.com/2021/02/16/atlassian-launches-a-whole-new-trello/)
