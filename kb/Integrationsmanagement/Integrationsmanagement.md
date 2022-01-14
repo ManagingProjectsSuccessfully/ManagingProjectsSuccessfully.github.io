@@ -6,7 +6,7 @@ anrechnung: k
 ---
 
 # Definition des Integrationsmanagements
-Das Integrationsmanagement ist ein Teilgebiet des [Projektmanagements](https://de.wikipedia.org/wiki/Projektmanagement) und dient dazu alle Prozesse und Vorgänge, welche Teil des Projekts sind, zu koordinieren und an alle Prozessgruppen anzupassen.[^1]
+Das Integrationsmanagement ist ein Teilgebiet des [Projektmanagements](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) und dient dazu alle Prozesse und Vorgänge, welche Teil des Projekts sind, zu koordinieren und an alle Prozessgruppen anzupassen.[^1]
 
 
 # Prozessschritte
@@ -31,7 +31,7 @@ Hinzu kommt, dass gute Kommunikation die berufliche Zufriedenheit steigert und d
 
 # Projektleiter
 
-Da sich im Integrationsmanagement alles um die Organisation und die Steuerung eines Projekts dreht, hat der Projektleiter eine besonders wichtige Stellung.[^4] 
+Da sich im Integrationsmanagement alles um die Organisation und die Steuerung eines Projekts dreht, hat der [Projektleiter](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektleiter.md) eine besonders wichtige Stellung.[^4] 
 
 ## Aufgaben
 
@@ -58,9 +58,9 @@ Um eine solch tragende Rolle erfolgreich erfüllen zu können, ist es wichtig, a
 # Siehe auch
 ## Verlinkungen zu angrenzenden Themen
 
-* [Projektphasen_klassisch](Projektphasen_klassisch.md)
-* [Projektkommunikation](Projektkommunikation.md)
-* [Projektleiter](Projektleiter.md)
+* [Projektphasen_klassisch](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektphasen_klassisch.md)
+* [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md)
+* [Ziel_Planung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Ziel_Planung.md)
 
 ## Weiterführende Literatur zum Thema Projektmanagement
 
