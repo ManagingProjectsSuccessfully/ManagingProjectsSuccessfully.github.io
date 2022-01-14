@@ -69,7 +69,7 @@ Ein PI ist ein Zeitraum, typischerweise 8 bis 12 Wochen. Es handelt sich um eine
 
 Um eine erfolgreichen Ablauf garantieren zu können, ist es Pflicht organisatorsich, inhaltlich und logistisch gut vorbereitet zu sein. D.h. Teams, Rollen, Planungsumfang und -prozess müssen allen klar sein. Auch Aspekte wie, z.B. Raumbuchung, Anreise, usw. spielen dabei keine unbedeutende Rolle.[^3].
 
-# 3.2) PI Planing Output
+# 3.2) PI Planung Output
 
 Erfolgreiches PI Planing liefert folgende Erebnisse: 
 
