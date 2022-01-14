@@ -1,7 +1,7 @@
 ---
-title: {SAFe Program Increment Planning}
+title: SAFe Program Increment Planning
 tags: agil klassisch
-author: {starni26}
+author: starni26
 anrechnung: k
 ---
 Der folgende Artikel handelt von der Projekt-Inkrement Planung nach SAFe. Er gibt einen Überblick über SAFe an sich und dem Ablauf des Systems. Außerdem beinhaltet der Artikel, was ein Projekt-Inkrement (PI) ist und wie ein PI in SAFe abläuft. Welcher Input bzw. Aufwand für ein PI gebraucht wird, um ein bestimmtes Output bzw. Ergebnis zu erreichen wird ebenfalls in diesem Artikel aufgezeigt.
