@@ -47,7 +47,7 @@ Der Projektleiter hat dabei folgende Aufgaben und Funktionen :[^5]
 Um eine solch tragende Rolle erfolgreich erfüllen zu können, ist es wichtig, alle nötigen Kompetenzen und das gewisse Know-how mitzubringen. Basis ist meist ein Studium mit der Fachrichtung Wirtschaftswissenschaften oder einer Ingenieurswissenschaft. Hinzu kommen ausgeprägte [Soft skills](https://en.wikipedia.org/wiki/Soft_skills), welche überfachliche Qualifikationen beschreiben, die sich nicht messen lassen. Diese werden in der Regel nach persönlicher, sozialer und methodischer Kompetenz geordnet.[^6]
 
 
-| Art  | Bespiel |
+| Art  | Beispiel |
 | ------------- | ------------- |
 | Persönliche Kompetenz  |Selbstvertrauen <br /> Selbstdisziplin <br /> Selbstreflexion <br /> Engagement <br /> Motivation <br /> Neugier <br /> Belastbarkeit <br /> Eigenverantwortung |
 | Soziale Kompetenz | Teamfähigkeit <br /> Empathie <br /> Menschenkenntnis <br /> Kommunikationsfähigkleit <br /> Integrationsbereitschaft <br /> Kritikfähigkeit <br /> Umgangsstil|
