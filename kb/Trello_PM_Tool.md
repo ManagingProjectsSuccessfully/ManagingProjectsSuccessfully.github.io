@@ -8,7 +8,7 @@ anrechnung: k
 Trello ist ein flexibles Tool, wird meist in Projektmanagement angewendet, mit dem Gruppen oder Teams auf produktive und kreative Weise ihre Pläne aufbauen, Workflows organisieren beziehungsweise Fortschritt überwachen können. Mit Trello werden sowohl große Meilensteine als auch die täglichen Aufgaben verfolgt. Dadurch wird alles rechtzeitig erledigt.
 
 ## Eine kurze Geschichte von Trello[^1]
-* Im Jahr 2010 wird dieser Tool von zwei Programmierern Bobby Grace und Justin Gallagher entwickelt, die  für  Fog Creek Software arbeiten.
+* Im Jahr 2010 wird dieses Tool von zwei Programmierern Bobby Grace und Justin Gallagher entwickelt, die  für  Fog Creek Software arbeiten.
 * Im Jahr 2011 wird ein erster Prototyp vorgeschlagen, genannt als Trellis und nach abgeschlossener Betaphase wird es zum ersten Mal auf der TechCrunch Event mit dem Namen Trello veröffenlicht.
 * Im Jahr 2012 wird Trello auf drei Plattforme Web-App, iOS und Android betrieben und erreicht 500 000 Mitglieder.
 * Im Mai 2015 betritt Trello den internationalen Markt und bietet lokalisierte Versionen für Brasilien, Deutschland und Spanien an.
@@ -28,7 +28,7 @@ Trello ist ein flexibles Tool, wird meist in Projektmanagement angewendet, mit d
 * Power-Ups zum Hinzufügen von Funktionen zu Boards und Karten verfügbar.
 
 ## Geschäftsmodell
-Einnahmequelle von Trello basiert auf [Premium-Prinzip](https://de.wikipedia.org/wiki/Freemium), d.h dass Grundfunktion dauerhaft kostenlos ist, daneben gibt es auch eine kostenpflichtige Premiumversion welche ein allumfassendes Funktionspaket aufweist. Trello teilt vier Tarife für zwischen 0 und $17,50 USD pro Nutzer und Monat auf:  Free, Standard, Premium und Enterprise.
+Einnahmequelle von Trello basiert auf Premium-Prinzip, d.h dass Grundfunktion dauerhaft kostenlos ist, daneben gibt es auch eine kostenpflichtige Premiumversion welche ein allumfassendes Funktionspaket aufweist. Trello teilt vier Tarife für zwischen 0 und $17,50 USD pro Nutzer und Monat auf:  Free, Standard, Premium und Enterprise.
 ## Vergleich Trello mit seinen Konkurrenten (Asana und Monday.com)
 
 |   | Trello | Asana | monday.com|
@@ -37,7 +37,7 @@ Einnahmequelle von Trello basiert auf [Premium-Prinzip](https://de.wikipedia.org
 | Mobile App  | iOS, Android| iOS, Android| iOS, Android
 | Integration | Integration von mehr als 200 Apps und Tools[^4]   | Integration von ca. 160 Apps und Tools[^6]  |  Integration von über 50 Software-Apps[^8] |
 | Preise  | Einfache Preistabelle. Eine kostenlose Version für unbegrentzte Nutzer mit beschränkter Funktion und drei kostenpflichten Versionen: Standard,  Premium, Enterprise ab $5 USD/Nutzer/Monat[^5] | Einfache Preistabelle. Eine kostenlose Version für 15 Nutzer mit beschränkter Funktion und zwei kostenpflichten Versionen: Premium, Enterprise ab $10,99 USD/Nutzer/Monat[^7] | Komplexe Preistabelle. Eine kostenlose Version für 2 Nutzer mit beschränkter Funktion und vier kostenpflichten Versionen:  Basic Standard,  Pro, Enterprise ab $10 USD/Nutzer/Monat [^9] |
-| Geeinigt für  |Kleine Start-ups und kleine Unternehmen, die nur Kanban verwenden und keine leistungsstarken Projektverwaltungsfunktionen benötigen | IT und Non-IT Team(unabhängig von Anzahl der Größe). Insbesondere die Design- und Marketingteams, da Asana bei der Teamzusammenarbeit einen hohen Rang einnimmt | IT und Non-IT Unternehemen, die eine Vielzahl von Funktionen von Bug Tracking bis CRM benötigen |
+| Geeinigt für  |Kleine Start-ups und kleine Unternehmen, die nur Kanban verwenden und keine leistungsstarken Projektverwaltungsfunktionen benötigen | IT und Non-IT Team (unabhängig von Anzahl der Größe). Insbesondere die Design- und Marketingteams, da Asana bei der Teamzusammenarbeit einen hohen Rang einnimmt | IT und Non-IT Unternehemen, die eine Vielzahl von Funktionen von Bug Tracking bis CRM benötigen |
 | Funktion und Views  | Nur Kanban-Board-Ansicht ist eingebaut | Mehrere  Ansichten sind eingebaut z.B Liste, Tafel, Kalender, Meilensteine und Arbeitsbelastung  | Viele integrierte Ansichten wie Kanban-Board, Zeitleiste, Kalender, Arbeitsauslastung und Liste|
 ## Siehe auch
 * [Kanban board](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kanban_Boards.md)
