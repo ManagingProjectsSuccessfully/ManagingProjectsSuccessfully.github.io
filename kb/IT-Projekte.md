@@ -43,11 +43,11 @@ Siehe auch: [VModell.md](https://github.com/fabriGH/ManagingProjectsSuccessfully
 
 ## Gescheiterte IT-Projekte
 ### 7030-Projekt von IBM
-Die International Business Machine Corporation (IBM) begann 1956 die Entwicklung des 7030 Rechners, welches zu der Zeit zwar der schnellste Rechner war, aber die versprochene Leistung wurde nicht gewährleistet. Der Rechner war nur 30-mal so schnell wie das vorherige System, statt die Versprochene 100-fache Leistung[^8].
+Die International Business Machine Corporation (IBM) begann 1956 die Entwicklung des 7030 Rechners, welches zu der Zeit zwar der schnellste Rechner war, aber die versprochene Leistung wurde nicht gewährleistet. Der Rechner war nur 30-mal so schnell wie das vorherige System, statt die versprochene 100-fache Leistung.[^8]
 ### Barcode-Scanner mit Lesefehler
-Im für Südengland zuständigen Auslieferungszentrum Waltham Point in Essex wurde im Jahr 2003 ein System eingesetzt, welches Barcodes scannen und Auslieferungen beschleunigen sollte. Das Barcode-System war fehlerhaft, was zu Schäden im Millionenbereich führte und somit das Projekt 4 Jahre später beendet wurde[^9].
+Im für Südengland zuständigen Auslieferungszentrum Waltham Point in Essex wurde im Jahr 2003 ein System eingesetzt, welches Barcodes scannen und Auslieferungen beschleunigen sollte. Das Barcode-System war fehlerhaft, was zu Schäden im Millionenbereich führte und somit das Projekt 4 Jahre später beendet wurde.[^9]
 ### Das Größte Lidl IT-Projekt
-Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das von SAP entwickelt wurde, anwenden. Dieses sollte das selbst programmierte und jahrzehntealte System Wawi ablösen. Eine Reduzierung des Aufwands für die Stammdatenpflege und die Möglichkeit für Prognosen in Echtzeit waren die Ziele, die das System schaffen sollte. Das Elektronisches Lidl-Warenwirtschaftsinformationssystem (Elwis) wurde nach sieben Jahren Entwicklungszeit im Jahr 2018 gestoppt. Die Ziele waren mit dem gegeben Aufwand nicht realisierbar[^10].
+Der Lebensmittel-Discounter Lidl wollte ein neues Warenwirtschaftssystem, das von SAP entwickelt wurde, anwenden. Dieses sollte das selbst programmierte und jahrzehntealte System Wawi ablösen. Eine Reduzierung des Aufwands für die Stammdatenpflege und die Möglichkeit für Prognosen in Echtzeit waren die Ziele, die das System schaffen sollte. Das Elektronisches Lidl-Warenwirtschaftsinformationssystem (Elwis) wurde nach sieben Jahren Entwicklungszeit im Jahr 2018 gestoppt. Die Ziele waren mit dem gegeben Aufwand nicht realisierbar.[^10]
 
 # Angrenzende Themen
 [Wasserfall_Modell.md](https://github.com/ga88maby/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md)
