@@ -43,7 +43,7 @@ Abb.2[^4]: Alternative Darstellung des Szenariotrichters mit Beispielbeschriftun
 ## 2. Herkunft und Anwendungsbereiche
 
 Ihren Ursprung hat die Technik im militärischen Bereich[^3][^6], heutzutage findet sie jedoch in zahlreichen Feldern Gebrauch. Dazu gehören Politik, 
-Wissenschaft, Wirtschaft, aber auch in der Psychologie und Psychotherapie.[^2] Diese nahezu universelle Einsatzmöglichkeit hängt mit der allgemeinen
+Wissenschaft, Wirtschaft, aber auch Psychologie und Psychotherapie.[^2] Diese nahezu universelle Einsatzmöglichkeit hängt mit der allgemeinen
 Definition und Vorgehensweise der Szenariotechnik zusammen. In jedem Bereich können realistische Positiv-, sowie Negativszenarien ermittelt werden
 und Gegen- oder Präventivmaßnahmen ausgearbeitet werden. So eignet sich die Methode sehr gut um Projekte erfolgreich zu leiten und durchzuführen, da
 das Team auf möglichst viele Risiken vorbereitet wird.
