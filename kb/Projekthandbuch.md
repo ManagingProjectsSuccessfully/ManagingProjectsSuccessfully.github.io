@@ -5,7 +5,7 @@ author: Saskia1403
 anrechnung: k 
 ---
 
-Ein strukturiertes [Projektmanagement](Projektmanagement.md) ist maßgeblich für den Erfolg eines [Projektes](Projekt.md). Im Zuge dessen, hat sich ein 4-Phasen-Modell etabliert, das ein Projekt in die folgenden Phasen untergliedert:
+Ein strukturiertes [Projektmanagement](Projektmanagement.md) ist maßgeblich für den Erfolg eines [Projektes](Projekt.md). Im Zuge dessen hat sich ein 4-Phasen-Modell etabliert, das ein Projekt in die folgenden Phasen untergliedert:
 * Projektdefinition
 * [Projektplanung](Projektplanung.md)
 * [Projektdurchführung](Projektsteuerung.md)
@@ -20,7 +20,7 @@ Die Aufgabe des Projekthandbuchs ist es, den Teammitgliedern über alle Phasen d
 
 # Definition
 
-Als wichtiges Artefakt des klassischen Projektmanagements, kann das Projekthandbuch nach der DIN 69905 definiert werden: ein Projekthandbuch ist die „Zusammenstellung von Informationen und Regelungen, die für die Planung und Durchführung eines bestimmten Projekts gelten sollen“[^2]. Welche Bestandteile das Projekthandbuch im Speziellen umfasst ist nicht festgelegt, jedoch gibt es einige gängige Komponenten. Diese sind unter anderem die zu erreichenden Projektziele, eine Aufzählung aller Projektbeteiligten, sowie ihrer Rollen, die Stakeholder, eine genaue Projektbeschreibung, alle festgelegten Standards und Richtlinien und die bei der Umsetzung verwendeten Methoden und Werkzeuge[^2][^3].
+Als wichtiges Artefakt des klassischen Projektmanagements kann das Projekthandbuch nach der DIN 69905 definiert werden: ein Projekthandbuch ist die „Zusammenstellung von Informationen und Regelungen, die für die Planung und Durchführung eines bestimmten Projekts gelten sollen“[^2]. Welche Bestandteile das Projekthandbuch im Speziellen umfasst, ist nicht festgelegt, jedoch gibt es einige gängige Komponenten. Diese sind unter anderem die zu erreichenden Projektziele, eine Aufzählung aller Projektbeteiligten sowie ihrer Rollen, die Stakeholder, eine genaue Projektbeschreibung, alle festgelegten Standards und Richtlinien und die bei der Umsetzung verwendeten Methoden und Werkzeuge[^2][^3].
 
 Des Weiteren ist festgelegt, dass der [Projektleiter](Projektleiter.md) sowohl für die Erstellung, als auch die regelmäßige Aktualisierung des Projekthandbuchs verantwortlich ist. Gibt es eine Projektassistenz, so kann diese Abwandlungen versionieren und speichern. Darüber hinaus muss nicht nur die ursprüngliche Version des Projekthandbuchs, sondern auch jede neue Version, von dem für das Projekt bestimmten Lenkungsausschuss freigegeben werden[^3][^4].
 
@@ -47,7 +47,7 @@ Für IT-Projekte öffentlicher Hand hat sich in Deutschland ein Projekthandbuch 
 
 ## Der Project Management Plan
 
-Eine weitere Form des Projekthandbuchs ist der Project Management Plan des [PMBOK Guide](PMBOK_Guide.md). Dieser wird vom Projektmanager mit seinem Team erstellt und definiert, wie das Projekt ausgeführt, kontrolliert und überwacht wird. Der Project Management Plan umfasst dabei Baselines für Umfang, Zeitplan und Kosten des Projektes, sowie einen Anforderungs-, Änderungs- und Konfigurationsmanagementplan[^4][^10].
+Eine weitere Form des Projekthandbuchs ist der "Project Management Plan" des [PMBOK Guide](PMBOK_Guide.md). Dieser wird vom Projektmanager mit seinem Team erstellt und definiert, wie das Projekt ausgeführt, kontrolliert und überwacht wird. Der Project Management Plan umfasst dabei Baselines für Umfang, Zeitplan und Kosten des Projektes sowie einen Anforderungs-, Änderungs- und Konfigurationsmanagementplan[^4][^10].
 
 
 
