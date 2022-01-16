@@ -25,7 +25,7 @@ Damit alle Teammitglieder eines Projektes immer auf dem aktuellen Stand sind, gi
 
 ## Das Aufgaben-Fenster 
 
-Wird eine Aufgabe geöffnet, erscheint wie in Abbildung 1 ersichtlich, rechts ein Fenster mit dieser Aufgabe. In diesem Fenster kann der Nutzer sehen wer für das Projekt verantwortlich ist, wann das Fälligkeitsdatum ist, zu welchem übergeordneten Projekt die Aufgabe gehört, ob es Abhängigkeiten gibt, mögliche Kontaktangaben und eine Kurzbeschreibung des Projektes. Die Kurzbeschreibung des Projektes dient dabei einer Auflistung aller wichtigen Informationen, um den nicht verantwortlichen Teammitgliedern, einen Überblick zu verschaffen. Darüber hinaus können in dem Fenster Unteraufgaben und Anhänge, wie Worddokumente und Excel-Tabellen angefügt werden[^3][^5][^7]. Asana bietet außerdem dem Nutzer die Möglichkeit der Integration anderer Tools wie Teams, Tableau, GitHub und SharePoint[^3]. Des Weiteren können personalisierte Tags hinzugefügt werden, die zum Beispiel die Phase des Projektes veranschaulichen, wie „To Do!“ oder „Warten auf Feedback“[^8]. Auch befindet sich unter jeder Aufgabe ein Kommentarfeld, in dem Teammitglieder aktuelle Informationen austauschen können[^2][^6]. 
+Wird eine Aufgabe geöffnet, erscheint wie in Abbildung 1 ersichtlich, rechts ein Fenster mit dieser Aufgabe. In diesem Fenster kann der Nutzer sehen wer für das Projekt verantwortlich ist, wann das Fälligkeitsdatum ist, zu welchem übergeordneten Projekt die Aufgabe gehört, ob es Abhängigkeiten gibt, mögliche Kontaktangaben und eine Kurzbeschreibung des Projektes. Die Kurzbeschreibung des Projektes dient dabei einer Auflistung aller wichtigen Informationen, um den nicht verantwortlichen Teammitgliedern einen Überblick zu verschaffen. Darüber hinaus können in dem Fenster Unteraufgaben und Anhänge, wie Worddokumente und Excel-Tabellen angefügt werden[^3][^5][^7]. Asana bietet außerdem dem Nutzer die Möglichkeit der Integration anderer Tools wie Teams, Tableau, GitHub und SharePoint[^3]. Des Weiteren können personalisierte Tags hinzugefügt werden, die zum Beispiel die Phase des Projektes veranschaulichen, wie „To Do!“ oder „Warten auf Feedback“[^8]. Auch befindet sich unter jeder Aufgabe ein Kommentarfeld, in dem Teammitglieder aktuelle Informationen austauschen können[^2][^6]. 
 
 ![Abbildung 1: Benutzungsoberfläche bei Asana](Asana_PM_Tool/Benutzungsoberfläche_Asana.png)
 *Abbildung 1: Benutzungsoberfläche bei Asana*[^8]
@@ -37,7 +37,7 @@ Für die Projektmanager gibt es darüber hinaus die Möglichkeit unter dem Regis
 
 
 # Preiskategorien 
- Je nachdem welche Ansprüche ein Unternehmen an Asana hat, gibt es die Auswahl zwischen vier Preisvarianten: Basic, Premium, Business und Enterprise. Davon ist allerdings nur die Basic Variante, welche von bis zu 15 Teammitgliedern genutzt werden kann, kostenlos[^2][^7].
+ Je nachdem, welche Ansprüche ein Unternehmen an Asana hat, gibt es die Auswahl zwischen vier Preisvarianten: Basic, Premium, Business und Enterprise. Davon ist allerdings nur die Basic Variante, welche von bis zu 15 Teammitgliedern genutzt werden kann, kostenlos[^2][^7].
  
  
  
