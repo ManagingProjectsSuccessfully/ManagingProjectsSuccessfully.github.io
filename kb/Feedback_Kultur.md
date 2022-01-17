@@ -1,14 +1,11 @@
 ---
-title: Feedback_Kultur
+title: Feedback-Kultur
 tags: agil klassisch Feedback Feedback-Kultur Kommunikation Feedbackregeln
 author: Kisara2426
 anrechnung: k 
 ---
 
 
-
-
-# Feedback-Kultur
 
 ![Feedackabblildung](Feedback_Kultur/479EEDD3-1CDC-4BA1-8020-EF050DA5BDF8_4_5005_c.jpeg) 
 [^1]
