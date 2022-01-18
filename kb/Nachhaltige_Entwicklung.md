@@ -5,17 +5,17 @@ author: JoseOliveira2
 anrechnung: k
 ---
 
-Der Begriff „nachhaltige Entwicklung“ wird im allgemeinen Sprachgebrauch unterschiedlich verwendet und oft sehr stark mit sozialen und ökologischen Aspekten assoziiert[^2]. Laut Wikipedia, bezeichnet er „eine Entwicklung, die den Bedürfnissen der jetzigen Generation dient, ohne die Möglichkeiten künftiger Generationen zu gefährden, ihre Bedürfnisse zu befriedigen“[^3]. Für Holden, Linnerud, & Banister[^1] ist nachhaltige Entwicklung ein normatives Wertesystem, welches eng mit Menschenrechten, Demokratie und Freiheit verknüpft ist. Daher beruht das Konzept der nachhaltigen Entwicklung auf drei [Imperativen](https://de.wikipedia.org/wiki/Imperativ): Befriedigung menschlicher Bedürfnisse, Gewährleistung sozialer Gerechtigkeit und Respektierung der Umweltgrenzen.
+Der Begriff „nachhaltige Entwicklung“ wird im allgemeinen Sprachgebrauch unterschiedlich verwendet und oft sehr stark mit sozialen und ökologischen Aspekten assoziiert[^2]. Laut Wikipedia, bezeichnet er „eine Entwicklung, die den Bedürfnissen der jetzigen Generation dient, ohne die Möglichkeiten künftiger Generationen zu gefährden, ihre Bedürfnisse zu befriedigen“[^3]. Für Holden, Linnerud, & Banister[^1] ist nachhaltige Entwicklung ein normatives Wertesystem, welches eng mit Menschenrechten, Demokratie und Freiheit verknüpft ist. Daher beruht das Konzept der nachhaltigen Entwicklung auf drei Imperativen[^13]: Befriedigung menschlicher Bedürfnisse, Gewährleistung sozialer Gerechtigkeit und Respektierung der Umweltgrenzen.
 
 # Warum ist nachhaltige Entwicklung wichtig?
 
-Der [Klimawandel](https://de.wikipedia.org/wiki/Klimawandel) ist eine der dringendsten Herausforderungen für die Menschheit. Es ist allgemein anerkannt, dass er weitreichende Auswirkungen auf das menschliche Leben haben wird. Eine von der Weltorganisation für Meteorologie durchgeführte Analyse zeigt, dass die globale 5-Jahres-Durchschnittstemperatur von 2013 bis 2017 die höchste seit Beginn der Aufzeichnungen war[^4]. Laut World Economic Forum (WEF)[^5] gibt es für 2019 die folgenden fünf globalen Bedrohungen: extremes Wetter, gescheiterte Eindämmung des Klimawandels, Naturkatastrophen, Cyberangriffe und Datenbetrug oder -diebstahl. Wie zu sehen ist, stehen drei dieser größten Bedrohungen im Zusammenhang mit dem Klimawandel.
+Der Klimawandel[^14] ist eine der dringendsten Herausforderungen für die Menschheit. Es ist allgemein anerkannt, dass er weitreichende Auswirkungen auf das menschliche Leben haben wird. Eine von der Weltorganisation für Meteorologie durchgeführte Analyse zeigt, dass die globale 5-Jahres-Durchschnittstemperatur von 2013 bis 2017 die höchste seit Beginn der Aufzeichnungen war[^4]. Laut World Economic Forum (WEF)[^5] gibt es für 2019 die folgenden fünf globalen Bedrohungen: extremes Wetter, gescheiterte Eindämmung des Klimawandels, Naturkatastrophen, Cyberangriffe und Datenbetrug oder -diebstahl. Wie zu sehen ist, stehen drei dieser größten Bedrohungen im Zusammenhang mit dem Klimawandel.
 
 Das Konzept der nachhaltigen Entwicklung wurde ursprünglich 1987 im Brundtland-Bericht vorgeschlagen und auf dem Rio Earth Summit 1992 weiterentwickelt[^7] und ist bis heute ein zentrales Konzept. Nachhaltige Entwicklung umfasst das Zusammenspiel dreier komplexer Systeme: der Weltwirtschaft, der globalen Gesellschaft und der physischen Umwelt der Erde[^8]. Im Jahr 2014 haben die UN-Mitgliedstaaten die „Sustainable Development Goals (SDGs)“ vorgeschlagen, die aus 17 konkreten Zielvorgaben bestehen, von denen die wichtigsten sind: Armut beenden, Ungleichheit verringern, nachhaltige Energie produzieren und den Klimawandel bekämpfen[^9]. Nachhaltige Entwicklung ist daher ein dringendes Thema, das sofortiges Handeln und Veränderungen von Regierungen, Industrie und Gesellschaft insgesamt erfordert.
 
 # Die drei Imperative der nachhaltigen Entwicklung
 
-Um eine nachhaltige Entwicklung zu erreichen, müssen die drei [Imperative](https://de.wikipedia.org/wiki/Imperativ) der nachhaltigen Entwicklung berücksichtigt werden: die Befriedigung der menschlichen Bedürfnisse, die Gewährleistung sozialer Gerechtigkeit und die Einhaltung der ökologischen Grenzen.
+Um eine nachhaltige Entwicklung zu erreichen, müssen die drei Imperative[^13] der nachhaltigen Entwicklung berücksichtigt werden: die Befriedigung der menschlichen Bedürfnisse, die Gewährleistung sozialer Gerechtigkeit und die Einhaltung der ökologischen Grenzen.
 
 ![Abbildung der drei Imperativen](https://user-images.githubusercontent.com/92792648/142837085-2ffc8a3a-9d2a-4782-bff3-17396e7772e0.PNG)
 
@@ -30,12 +30,12 @@ Doyal und Gough[^10] argumentieren, dass Menschen universelle und objektive Bed�
 
 ## 2. Die Gewährleistung sozialer Gerechtigkeit
 
-Soziale Gerechtigkeit hängt von vier wesentlichen Zielen ab: [Menschenrechte](https://de.wikipedia.org/wiki/Menschenrechte), [Verteilungsgerechtigkeit](https://de.wikipedia.org/wiki/Verteilungsgerechtigkeit), [demokratische Partizipation](https://de.wikipedia.org/wiki/Partizipatorische_Demokratie) und [Gleichheit](https://de.wikipedia.org/wiki/Gleichheit). Ohne diese vier Prinzipien kann soziale Gerechtigkeit nicht erreicht werden[^11]. Soziale Gerechtigkeit steht also für Anerkennungs- und Verteilungsgerechtigkeit und tritt dafür ein, dass alle Menschen Zugang zu materiellen, kulturellen, sozialen, institutionellen und politischen Ressourcen  haben.
+Soziale Gerechtigkeit hängt von vier wesentlichen Zielen ab: Menschenrechte[^15], Verteilungsgerechtigkeit[^16], demokratische Partizipation[^17] und Gleichheit[^18]. Ohne diese vier Prinzipien kann soziale Gerechtigkeit nicht erreicht werden[^11]. Soziale Gerechtigkeit steht also für Anerkennungs- und Verteilungsgerechtigkeit und tritt dafür ein, dass alle Menschen Zugang zu materiellen, kulturellen, sozialen, institutionellen und politischen Ressourcen  haben.
 
 
 ## 3. Die Einhaltung der ökologischen Grenzen
 
-Planetare ökologische Grenzen sind globale, biophysikalische Limitierungen, die für uns Menschen einen sicheren Handlungsraum definieren, in dem sich auch die Folgegenerationen nachhaltig entwickeln können. Laut The Natural Step[^12] „in vier Bereichen sind die Grenzen bereits heute überschritten: Klimawandel, Beeinträchtigung der Biosphärenintegration (Stichwort biologische Vielfalt), Wandel der Boden-/Landnutzung und bei den biogeochemischen Abläufen, u.a. den globalen [Phosphor- und Stickstoffkreisläufen](https://de.wikipedia.org/wiki/Phosphorkreislauf). Die weiteren Grenzbereiche sind: Stratosphärischer Ozonabbau, atmosphärische Aerosolbelastung, Versauerung der Meere, Süßwasserverbrauch und neue, erst von Menschen geschaffene Entitäten, im organischen wie im anorganischen Bereich“.
+Planetare ökologische Grenzen sind globale, biophysikalische Limitierungen, die für uns Menschen einen sicheren Handlungsraum definieren, in dem sich auch die Folgegenerationen nachhaltig entwickeln können. Laut The Natural Step[^12] „in vier Bereichen sind die Grenzen bereits heute überschritten: Klimawandel, Beeinträchtigung der Biosphärenintegration (Stichwort biologische Vielfalt), Wandel der Boden-/Landnutzung und bei den biogeochemischen Abläufen, u.a. den globalen Phosphor- und Stickstoffkreisläufen[^19]. Die weiteren Grenzbereiche sind: Stratosphärischer Ozonabbau, atmosphärische Aerosolbelastung, Versauerung der Meere, Süßwasserverbrauch und neue, erst von Menschen geschaffene Entitäten, im organischen wie im anorganischen Bereich“.
 
 ![Planetary-boundaries](https://user-images.githubusercontent.com/92792648/142837362-178791d3-e008-4e61-9f46-cf3c60ee4111.PNG)
 Bildquelle: https://www.thenaturalstep.de/de/situation/planetare-grenzen/
@@ -75,4 +75,18 @@ Die Stabilität dieser neun Prozesse ist unerlässlich, um die Atmosphäre, die 
 [^11]: Human Rights Careers. "What does social justivce mean?". Retrieved 16.11.2021 from https://www.humanrightscareers.com/issues/what-does-social-justice-mean
 
 [^12]: The Natural Step. Planetare Grenzen. Retrieved 16.11.2021 from https://www.thenaturalstep.de/de/situation/planetare-grenzen/
+
+[^13]: Wikipedia. Imperativ. Retrieved 06.11.2021 from https://de.wikipedia.org/wiki/Imperativ
+
+[^14]: Wikipedia. Klimawandel. Retrieved 08.12.2021 from https://de.wikipedia.org/wiki/Klimawandel
+
+[^15]: Wikipedia. Menschenrechte. Retrieved 08.12.2021 from https://de.wikipedia.org/wiki/Menschenrechte
+
+[^16]: Wikipedia. Verteilungsgerechtigkeit. Retrieved 08.12.2021 from https://de.wikipedia.org/wiki/Verteilungsgerechtigkeit
+
+[^17]: Wikipedia. Partizipatorische Demokratie. Retrieved 08.12.2021 from https://de.wikipedia.org/wiki/Partizipatorische_Demokratie
+
+[^18]: Wikipedia. Gleichhait. Retrieved 08.12.2021 from https://de.wikipedia.org/wiki/Gleichheit
+
+[^19]: Wikipedia. Phosphorkreislauf. Retrieved 08.12.2021 from https://de.wikipedia.org/wiki/Phosphorkreislauf
 
