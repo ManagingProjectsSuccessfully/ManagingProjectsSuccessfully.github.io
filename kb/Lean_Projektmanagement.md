@@ -15,7 +15,7 @@ anrechnung: a
 Lean-Management findet seinen Ursprung in den 50er Jahren im japanischen [Toyota-Produktionssystem](Toyota_Produktionssystem.md). Es vermeidet Verschwendung, optimiert interne Abläufe und die Interaktion mit Lieferanten und Kunden und folgt somit dem Prinzip der „Just-in-time-Produktion“[^1]. Toyota fasst drei Hauptquellen für Verschwendung: [Muda](Muda_7_Arten_von_Verschwendung.md), Mura und Muri[^4].
 
 ## Anwendung im Projektmanagement
-Die Philosophie des Lean, wurde in den 90er Jahren erstmalig als Management-Methode eingeführt[^3]. Anfang der 2000er Jahre begann man schließlich auch damit, diese Grundsätze auf das [Projektmanagement](Projektmanagement.md) anzuwenden[^2].
+Die Philosophie des Lean wurde in den 90er Jahren erstmalig als Management-Methode eingeführt[^3]. Anfang der 2000er Jahre begann man schließlich auch damit, diese Grundsätze auf das [Projektmanagement](Projektmanagement.md) anzuwenden[^2].
 
 Die fünf Kernprinzipien des Lean Management von Womack und Jones eignen sich für den Übergang vom Lean Management zum Lean Project Management. Das Grundprinzip besteht darin, überflüssige Aktivitäten bzw. Verschwendung zu reduzieren[^6].
 
