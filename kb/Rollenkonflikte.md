@@ -38,28 +38,29 @@ Eine weitere Art des Rollenkonfliktes ist der Intra-Rollenkonflikt. Dieser ist g
 Im genannten Beispiel steht der Abteilungsleiter Leon in Kontakt mit Kunden, Lieferanten, höheren Führungskräften und seinen Mitarbeitern. All diese Personen haben diverse
 Erwartungen an ihn, sodass es kaum möglich ist, alle zu vollster Zufriedenheit zu erfüllen.[^2]
 
+Zusammenfassend sollte also bei einem Intra-Rollenkonflikt beachtet werden, welche Charakteristika an einer bestimmten Rolle wichtig sind und auf diese sollte die Konzentration 
+gesetzt und das Handeln ausgelegt werden.
+
+### Das drei Welten Modell
+
 Nach dem Psychologen Bernd Schmid kann diese Art jedoch nochmal weiter unterteilt werden. Hierbei wird nach Professionswelt, Organisationswelt und Privatwelt gegliedert, welche 
 alle zu dem sogenannten „Drei Welten Modell“ zählen.[^3][^4] Über die einzelnen Teile soll im Folgenden kurz ein Überblick gegeben werden. 
 
-### Privatwelt 
+Das drei Welten Modell[^4]![image](https://github.com/martina-bchtl/ManagingProjectsSuccessfully.github.io/blob/main/kb/Rollenkonflikte/Das%20drei%20Welten%20Modell.png)
+
+#### Privatwelt 
 Diese Bezeichnung fasst alle privaten Rollen zusammen, zum Beispiel „Vater", „Freund" und „Vereinsmitglied". Also jegliche Rollen, die nicht in Verbindung mit der Berufung und
 der Arbeitswelt stehen.
 
-### Professionswelt
+#### Professionswelt
 In der Professionswelt werden die verschiedenen fachlichen Rollen angenommen, beispielsweise solche wie „Controller", „Einkäufer" oder „Qualitätsprüfer".[^3] 
 
-### Organisationswelt 
+#### Organisationswelt 
 Mit der Organisationswelt werden die hierarchischen Rollen definiert, welche „Führungskraft", „Abteilungsleiter" oder „CFO" sein könnten.[^3]
-
 
 Außerdem ist bei diesem Modell anzumerken, dass es zudem oft zu Rollenkonflikten zwischen der Organisationswelt und der Professionswelt kommt. Obwohl diese seltener wahrgenommen 
 werden, sollten diese bewusst berücksichtigt werden, sodass einige Konflikte vermieden werden können. Im genannten Beispiel kann der Controller Leon, welcher zugleich 
 Abteilungsleiter ist, sich nicht vor seinem Chef als einen Abteilungsleiter präsentieren und so handeln.
-
-Zusammenfassend sollte also bei einem Intra-Rollenkonflikt beachtet werden, welche Charakteristika an einer bestimmten Rolle wichtig sind und auf diese sollte die Konzentration 
-gesetzt und das Handeln ausgelegt werden.
-
-Das drei Welten Modell[^4]![image](https://github.com/martina-bchtl/ManagingProjectsSuccessfully.github.io/blob/main/kb/Rollenkonflikte/Das%20drei%20Welten%20Modell.png)
 
 # Fazit
 
