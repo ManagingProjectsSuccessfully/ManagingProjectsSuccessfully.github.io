@@ -157,7 +157,7 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 *Abbildung 12: Basisplan*[^5]
 
 
-# Vor- und Nachteile des EDV - Programms
+# Vor- und Nachteile von MS Project
 
 | Vorteile      | Nachteile     |
 | ------------- | ------------- |
@@ -178,6 +178,7 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 * [Meilensteine](Meilensteine.md)
 * [Datenmanagement im Projektmanagement](Datenmanagement_im_PM.md)
 * [Gantt-Diagramme](Gantt_Diagramme.md)
+* [Projekt](Projekt.md)
 
 # Weiterführende Literatur
 
