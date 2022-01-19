@@ -109,7 +109,6 @@ Zusammenfassend ist die Provokationstechnik eine potentiell sehr nützliche Tech
 ## Siehe auch
 
 * [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
-* [Brainstorming](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Brainstorming.md)
 * [Mindmapping](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Mindmapping.md)
 * [6-3-5 Nethode](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/6_3_5_Methode.md)
 
