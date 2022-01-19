@@ -61,7 +61,7 @@ Als letzter Schritt bei der Kapazitätsplanung, sollen die kapazitätsmäßigen 
 
 # Quellen
 
-[^1]: [Kapahnke (2018): "Grundlagen der Netzplantechnik"]
+[^1]: [Kapahnke (2018): "Grundlagen der Netzplantechnik"](https://ilias.uni-giessen.de/ilias/goto.php?target=file_183919_download&client_id=JLUG)
 [^2]: [Homepage Kayenta, Plewa (2021): "NETZPLANTECHNIK: SO GELINGT DIE ERFOLGREICHE PROJEKTPLANUNG ✔"] 
 [^3]: [Wikipedia (2021):"Netzplantechnik"]
 [^4]: [Netzplantechnik](https://www.bwl-lexikon.de/wiki/netzplantechnik/#3-schritt-die-rueckwaertsterminierung)
