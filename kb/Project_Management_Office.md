@@ -16,13 +16,13 @@ Der Einsatzbereich eines PMO variiert stark mit der Rolle des [Projektmanagement
 Das PMO ist eine Managementstruktur, die projektbezogene Governance-Prozesse standardisiert und die gemeinsame Nutzung von Ressourcen, Methoden, Tools und Techniken erleichtert. Es gibt mehrere Arten von PMO-Strukturen, diese unterscheiden sich durch den Grad der Kontrolle und des Einflusses, den sie auf die Projekte innerhalb der Organisation haben[^1].
 
 ### Supportive PMO
-Das unterstützende PMO hat eine beratende Funktion. Es unterstützt durch die Bereitstellung von Vorlagen, Best Practices, Schulungen, Zugang zu Informationen und Erfahrungen aus anderen Projekten[^1]. Jedoch steht den Projektleitern frei, ob sie diese Vorschläge annehmen, daher ist der Grad der Kontrolle über die Projekte insgesamt eher gering[^2].
+Das unterstützende PMO hat eine beratende Funktion. Es unterstützt durch die Bereitstellung von Vorlagen, [Best Practices](Best_Practices.md), Schulungen, Zugang zu Informationen und Erfahrungen aus anderen Projekten[^1]. Jedoch steht den Projektleitern frei, ob sie diese Vorschläge annehmen, daher ist der Grad der Kontrolle über die Projekte insgesamt eher gering[^2].
 
 ### Controlling PMO
-Das steuernde PMO bietet Unterstützung und fordert die Einhaltung der Vorschriften mit verschiedenen Mitteln. Die Einhaltung kann die Übernahme bestimmter Managementrahmen oder -methoden unter Verwendung bestimmter Vorlagen, Formulare und Tools oder die Einhaltung der Governance umfassen. Der Grad der Kontrolle ist hier moderat[^1].
+Das steuernde PMO bietet Unterstützung und fordert die Einhaltung der Vorschriften mit verschiedenen Mitteln. Die Einhaltung kann die Übernahme bestimmter Managementrahmen oder -methoden unter Verwendung bestimmter Vorlagen, Formulare und [Tools](Uebersicht_PM_Tools.md) oder die Einhaltung der Governance umfassen. Der Grad der Kontrolle ist hier moderat[^1].
 
 ### Directive PMO
-Das weisende PMO übernimmt die Kontrolle über die Projekte, indem es die Projekte direkt verwaltet. Es übernimmt selbst die Funktionen der Initiierung, Planung, Durchführung, Überwachung und des Abschlusses der Projekte[^3]. Der Grad der Kontrolle ist daher sehr hoch[^1].
+Das weisende PMO übernimmt die Kontrolle über die Projekte, indem es diese direkt verwaltet. Es übernimmt selbst die Funktionen der Initiierung, Planung, Durchführung, Überwachung und des Abschlusses der Projekte[^3]. Der Grad der Kontrolle ist daher sehr hoch[^1].
 
 ## Aufgaben des PMO
 Das PMO unterstützt die [Projektleiter](Projektleiter.md) in vielfältiger Weise und übernimmt verschiedene Funktionen[^3]:
