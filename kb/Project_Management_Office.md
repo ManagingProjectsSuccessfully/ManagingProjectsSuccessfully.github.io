@@ -1,6 +1,6 @@
 ---
 title: Project_Management_Office
-tags: agil klassisch
+tags: agil + klassisch
 author: nicolasrmg
 anrechnung: k
 ---
