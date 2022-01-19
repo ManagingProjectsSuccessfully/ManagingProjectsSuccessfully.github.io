@@ -1,6 +1,6 @@
 ---
 title: Lean_Projektmanagement
-tags: agil klassisch
+tags: agil
 author: nicolasrmg
 anrechnung: a
 ---
