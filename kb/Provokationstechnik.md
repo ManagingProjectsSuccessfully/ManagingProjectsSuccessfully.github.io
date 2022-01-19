@@ -8,14 +8,14 @@ anrechnung: k
 # Provokationstechnik
 
 
-Die Provokationstechnik ist eine Methode zur Ideenfindung, eingeführt von Edward de Bono. Mithilfe von so genannten Provokationen werden bestehende Annahmen und Sichtweisen in Frage gestellt.
+Die Provokationstechnik ist eine Methode zur Ideenfindung, eingeführt von Edward de Bono. Mithilfe von sogenannten Provokationen werden bestehende Annahmen und Sichtweisen infrage gestellt.
 Die Provokationstechnik ist eine [Kreativitätstechnik](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken), welche im Rahmen des klassischen [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) verwendet wird, um innovative Ideen und Ansätze zu generieren.[^1]
 
 ## Provokation
 
 Für die Findung von Ideen werden Provokationen benutzt, welche das Denken aus dem gewohnten Rahmen werfen, indem gezielt bestehende Annahmen und Erfahrungen in Frage gestellt werden. 
 Das Ziel ist die Überwindung alter Denkmuster und die Schaffung von neuen Sichtweisen. 
-In diesem Kontext können Provokationen beispielweise gezielte Verfälschungen von Fakten oder auch bloße Zufallsbegriffe sein. [^2] 
+In diesem Kontext können Provokationen beispielsweise gezielte Verfälschungen von Fakten oder auch bloße Zufallsbegriffe sein. [^2] 
 
 Aufgrund der Verwechslungsgefahr mit der üblichen Bedeutung des Wortes [Provokation](https://de.wikipedia.org/wiki/Provokation) werden sie auch als *Mentale Provokationen* bezeichnet. 
 Dabei findet Wirkung der Provokation lediglich im Denken stattfindet.
