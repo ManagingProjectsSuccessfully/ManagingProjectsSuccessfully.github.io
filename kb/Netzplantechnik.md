@@ -12,7 +12,7 @@ Die Netzplantechnik ist ein wichtiges Instrument für die Planung und Steuerung 
 ## Elemente von Netzplänen
 
 Zum Verständnis der Methodik der Netzplantechnik, ist es zunächst notwendig, grundlegende Begriffe zu erklären und die Elemente von Netzplänen deutlich zu machen. Unter einem Graphen im Sinne der Netzplantechnik versteht man eine Menge von Knoten, die durch eine Menge von Kanten einander zugeordnet sind. Einen solchen Graphen zeigt Abb. 1.
-Wird hierauf aufbauend einer Kante durch einen Pfeil eine Richtung gegeben und werden zwei Knoten miteinander verbunden, entsteht ein sogenannter Diagraph.
+Wird hierauf durch einen Pfeil eine Richtung gegeben und zwei Knoten miteinander verbunden, entsteht ein sogenannter Diagraph.
 Solch ein stark vereinfachter Netzplan wird in Abb. 2 dargestellt. Netzpläne bestehen immer aus Vorgängen und Ereignissen. Ein Vorgang beschreibt den Sachverhalt des Projektablaufs mit einem bestimmten Anfang und einem bestimmten Ende. Es ist ein Ablaufelement, welches immer durch eine bestimmte Dauer gekennzeichnet ist, die benötigt wird um den Vorgang auszuführen. Wenn ein Vorgang beginnt oder endet, dann immer mit dem Eintritt eines Ereignisses. Solch ein Ereignis beschreibt lediglich den Eintritt eines bestimmten Zustandes, und verfügt daher über keine Dauer.[^1]
 
 ![BILD1](https://user-images.githubusercontent.com/92942732/143136980-598270d2-f11d-471c-b123-d31cfe5c757f.jpg)   
