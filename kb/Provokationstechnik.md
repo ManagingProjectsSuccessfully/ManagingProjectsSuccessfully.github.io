@@ -98,7 +98,7 @@ Am Beispiel "PO Die Schule hat keine Gebäude" könnte die Idee des Homeschoolin
 | Vorteile      | Nachteile     |
 | ------------- | ------------- |
 | Methode durchbricht gezielt alte Denkmuster und produziert innovative Ideen| Der Umgang mit Provokationen ist am Anfang tendenziell schwer und viele Menschen werden dadurch entmutigt  |
-| Regt die Kreativität an  | Methode oft nicht erfolgreich, da Provokationen meist weit von der Realität entfernt sind und sich dadurch keine nützliche IdeeN ergeben  |
+| Regt die Kreativität an  | Methode oft nicht erfolgreich, da Provokationen meist weit von der Realität entfernt sind und sich dadurch keine nützliche Ideen ergeben  |
 
 ## Fazit
 
