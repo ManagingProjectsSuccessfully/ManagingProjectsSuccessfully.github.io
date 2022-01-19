@@ -172,13 +172,14 @@ Damit die Ist-Daten der jetzigen Planungsphase fixiert werden können, wird ein 
 
 
 # Siehe auch
+* [Projekt](Projekt.md)
 * [Projektmanagement](Projektmanagement.md)
 * [Projektsteuerung](Projektsteuerung.md)
 * [Projektstart](Projektstart.md)
 * [Meilensteine](Meilensteine.md)
 * [Datenmanagement im Projektmanagement](Datenmanagement_im_PM.md)
 * [Gantt-Diagramme](Gantt_Diagramme.md)
-* [Projekt](Projekt.md)
+
 
 # Weiterführende Literatur
 
