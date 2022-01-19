@@ -56,6 +56,15 @@ Die Schätzmethode eignet sich in frühen Projektphasen besonders gut, wenn der 
 * Die Aufgabe muss inhaltlich klar definiert werden
 * Mehrere Expertenschätzungen notwendig, um ein belastbares Ergebnis zu erzielen [^2]
 
+## Siehe auch:
+1. [Projektmanagement](Projektmanagement.md)
+2. [Projektleiter](Projektleiter.md)
+3. [Projektplanung](Projektplanung.md)
+5. [Aufwands- & Kostenkontrollen](Aufwands_Kosten_Kontrolle.md)
+6. [Projektsteuerung](Projektsteuerung.md)
+7. [Projekt_Kick_Off](Projekt_Kick_Off.md)
+8. [Projektstrukturplan](Projektstrukturplan.md)
+
 
 
 # Quellen
