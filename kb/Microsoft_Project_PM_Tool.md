@@ -20,7 +20,7 @@ Doch zu welchem Zeitpunkt ist dieses Management Tool erforderlich und was genau 
 
 # Beschreibung
 
-Zuerst sollte die Frage geklärt werden, zu welchem Zeitpunkt das Werkzeug seinen Zweck erfüllt. Dies ist laut Herrn Josef Schwab der Fall, wenn ein Planungsbedarf besteht und dieser das Projekt[Projekt](Projekt.md) definiert.
+Zuerst sollte die Frage geklärt werden, zu welchem Zeitpunkt das Werkzeug seinen Zweck erfüllt. Dies ist laut Herrn Josef Schwab der Fall, wenn ein Planungsbedarf besteht und dieser das [Projekt](Projekt.md) definiert.
 Der Planungsbedarf resultiert aus einem anstehenden Vorhaben, bei welchem die Abläufe noch nicht vollständig ausgearbeitet sind und Unsicherheiten bestehen.
 Kurz gefasst: Mit dem Programm werden Prozesse und [Meilensteine](Meilensteine.md) visuell sowie tabellarisch verknüpft und je nach Detaillierungsgrad abgebildet.
 Bevor die Einarbeitung mit dem Programm startet, ist es nach Herrn Schwab sinnvoll, sich folgende Fragen zu stellen: 
