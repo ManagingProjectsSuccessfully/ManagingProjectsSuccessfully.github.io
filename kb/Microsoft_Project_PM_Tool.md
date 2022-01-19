@@ -37,7 +37,7 @@ Diese Fragestellungen oder Überlegungen zur Strukturierung des Projekts können
 
 angewendet werden (vgl. Abbildung 1).
 Für die Gliederung eines Projektes gibt es unterschiedliche Anzeigemöglichkeiten. Die hier beschriebene Ansicht verkörpert das [Gantt-Diagramm](Gantt_Diagramme.md), welches in Kombination mit einer Tabelle angezeigt wird.
-Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines Projektsteuerers.[^2]
+Mit dem Terminmanagement, der Ressourcenplanung und der Projektüberwachung bedient das Programm zentrale Aufgaben eines [Projektsteuerers](Projektsteuerung.md).[^2]
 
 
 
