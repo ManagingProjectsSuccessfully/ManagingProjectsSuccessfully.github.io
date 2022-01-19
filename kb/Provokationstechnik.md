@@ -13,7 +13,7 @@ Die Provokationstechnik ist eine [Kreativitätstechnik](https://de.wikipedia.org
 
 ## Provokation
 
-Für die Findung von Ideen werden Provokationen benutzt, welche das Denken aus dem gewohnten Rahmen werfen, indem gezielt bestehende Annahmen und Erfahrungen in Frage gestellt werden. 
+Für die Findung von Ideen werden Provokationen benutzt, welche das Denken aus dem gewohnten Rahmen werfen, indem gezielt bestehende Annahmen und Erfahrungen infrage gestellt werden. 
 Das Ziel ist die Überwindung alter Denkmuster und die Schaffung von neuen Sichtweisen. 
 In diesem Kontext können Provokationen beispielsweise gezielte Verfälschungen von Fakten oder auch bloße Zufallsbegriffe sein. [^2] 
 
@@ -36,7 +36,7 @@ Am einfachsten kann man PO als „Was wäre, wenn…?“ interpretieren, also
 ## Nutzen
 
 Der Nutzen von (mentalen) Provokationen liegt in der Möglichkeit neue Dinge in Betracht zu ziehen, auf welche man normalerweise nie gekommen wäre. 
-Als eine Form der [Kreativitätstechniken](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) hilft sie durch Ideenfindungsworkshops beispielweise, neue Produkt und Marketingideen zu generieren.
+Als eine Form der [Kreativitätstechniken](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) hilft sie durch Ideenfindungsworkshops beispielsweise, neue Produkt und Marketingideen zu generieren.
 
 
 ![movement-technique](https://user-images.githubusercontent.com/92984346/143011134-748857c9-a40e-480c-9b88-bfc51285b270.png)
@@ -47,6 +47,7 @@ Als eine Form der [Kreativitätstechniken](https://de.wikipedia.org/wiki/Kreativ
 
 
 Die Provokationstechnik ist zudem eine Möglichkeit die geistige Flexibilität zu steigern. Man beobachtet Vorkommnisse im Alltag und  bildet eine mentale Provokation bestimmter Prozesse und evaluiert welche Ideen beziehungsweise Vorteile sich hieraus ergeben könnten.
+
 
 Beispiele für mentale Provokationen aus dem Alltag:
 
