@@ -60,10 +60,10 @@ Die Schätzmethode eignet sich in frühen Projektphasen besonders gut, wenn der 
 1. [Projektmanagement](Projektmanagement.md)
 2. [Projektleiter](Projektleiter.md)
 3. [Projektplanung](Projektplanung.md)
-5. [Aufwands- & Kostenkontrollen](Aufwands_Kosten_Kontrolle.md)
-6. [Projektsteuerung](Projektsteuerung.md)
-7. [Projekt_Kick_Off](Projekt_Kick_Off.md)
-8. [Projektstrukturplan](Projektstrukturplan.md)
+4. [Aufwands- & Kostenkontrollen](Aufwands_Kosten_Kontrolle.md)
+5. [Projektsteuerung](Projektsteuerung.md)
+6. [Projekt_Kick_Off](Projekt_Kick_Off.md)
+7. [Projektstrukturplan](Projektstrukturplan.md)
 
 
 
