@@ -49,6 +49,13 @@ Ein gut durchgeführtes Planning Poker, bei dem die richtigen Teilnehmer partizi
 Planning Poker eignet sich also besonders bei Projekten und Aufgabenstellungen, die viele unbekannte Variable beinhalten und bei denen Fachwissen aus mehreren Bereichen gefragt ist.
 
 
+## Siehe auch:
+1. [Projektmanagement](Projektmanagement.md)
+2. [Projektleiter](Projektleiter.md)
+3. [Projektplanung](Projektplanung.md)
+4. [Projektsteuerung](Projektsteuerung.md)
+5. [Projektstrukturplan](Projektstrukturplan.md)
+
 ## Quellen
 
 [^1]: [Planning Poker: So einfach funktioniert die agile Schätzmethode (2020)](https://www.youtube.com/watch?v=APDKb7Wo3gw)
