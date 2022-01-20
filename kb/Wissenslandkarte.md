@@ -5,7 +5,7 @@ author: Za22Regi
 anrechnung: a
 ---
 
-Ein Unternehmen[^1], viele Standorte und eine große Mitarbeiterzahl. Unter diesen Umständen kann sich sehr schnell viel Wissen ansammeln und die Herausforderung besteht dann darin, den Überblick beizubehalten und Transparenz zu schaffen. 
+Ein Unternehmen, viele Standorte und eine große Mitarbeiterzahl. Unter diesen Umständen kann sich sehr schnell viel Wissen ansammeln und die Herausforderung besteht dann darin, den Überblick beizubehalten und Transparenz zu schaffen. 
 In diesem Beitrag wird es um sogenannte „Wissenslandkarten“ gehen. 
 Sie ermöglichen den Überblick über die unterschiedlichsten Wissensgebiete und deren Zusammenhänge und eignen sich besonders dafür Arbeitsabläufe effektiver und effizienter darzustellen. Sie referenzieren auf Experten-, Team-, Mitarbeiterwissen, Wissensentwicklungsphasen und organisatorische Abläufe und Fähigkeiten. Wichtig zu erwähnen ist, dass die Wissensinhalte an sich nicht dort abgelegt werden, sondern lediglich der Verweis auf das verankerte Wissen. 
 
@@ -98,14 +98,13 @@ Folglich werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufge
 
 # Quellen
 
-[^1]: [Unternehmen](https://de.wikipedia.org/wiki/Unternehmen)
-[^2]: Hildebrand, 1998: Mapping the Invisible Workplace
-[^3]: [Agile Verwaltung](https://agile-verwaltung.org/tag/wissenslandkarte/)
-[^4]: [Wissenslandkarten als Instrument des kollektiven Wissensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?forumid=286&v=1&id=166113)
-[^5]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/file/BA_Tina_Giersch.pdf)
-[^6]: [Wissenslandkarte](Wissenslandkarte/Wissenslandkarte.png)
-[^7]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
-[^8]: [Vor- und Nachteile](https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Wissensmanagement/Wissensorganisation--Instrumente-der-/Wissenslandkarte)
+[^1]: Hildebrand, 1998: Mapping the Invisible Workplace
+[^2]: [Agile Verwaltung](https://agile-verwaltung.org/tag/wissenslandkarte/)
+[^3]: [Wissenslandkarten als Instrument des kollektiven Wissensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?forumid=286&v=1&id=166113)
+[^4]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/file/BA_Tina_Giersch.pdf)
+[^5]: [Wissenslandkarte](Wissenslandkarte/Wissenslandkarte.png)
+[^6]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
+[^7]: [Vor- und Nachteile](https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Wissensmanagement/Wissensorganisation--Instrumente-der-/Wissenslandkarte)
 
 
 
