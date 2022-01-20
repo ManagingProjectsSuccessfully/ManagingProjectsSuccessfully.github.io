@@ -103,7 +103,7 @@ Folglich werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufge
 [^3]: [Wissenslandkarten als Instrument des kollektiven Wissensmanagements](http://fhib5jg.factlink.net/fsDownload/DA_Wissenslandkarten.pdf?forumid=286&v=1&id=166113)
 [^4]: [Charakterisierung biologisch relevanter Texte anhand von Wissenslandkarten](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/1919/file/BA_Tina_Giersch.pdf)
 [^5]: [Wissenslandkarte](Wissenslandkarte/Wissenslandkarte.png)
-[^6]: [Verschiedenen Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
+[^6]: [Arten von Wissenslandkarten](https://de.wikipedia.org/wiki/Wissenslandkarte)
 [^7]: [Vor- und Nachteile](https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Wissensmanagement/Wissensorganisation--Instrumente-der-/Wissenslandkarte)
 
 
