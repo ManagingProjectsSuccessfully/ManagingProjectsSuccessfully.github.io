@@ -17,7 +17,7 @@ Folgenden erläutert.
 Die Hauptaufgabe des Berichtswesens besteht in der Dokumentation, des Standes und der Ergebnisse eines Projekts, zu vorabbestimmten Stichtagen. 
 Ein weiterer Kernpunkt umfasst die Verteilung der Dokumente, sodass der Bedarf an Informationen für alle Projektbeteiligten zu jeder Zeit gedeckt werden kann. 
 Somit bildet das Berichtswesen eine Brücke zwischen dem Entstehungs- und dem Anwendungsort von Daten und liefert die Datenbasis für beispielsweise das 
-[Projektcontrolling](Projektcontrolling.md) oder die [Projektsteuerung](Projektssteuerung.md)[^3].
+[Projektcontrolling](Projektcontrolling.md) oder die [Projektsteuerung](Projektsteuerung.md)[^3].
 Die Aufgaben bestehen aus der Gewinnung, Dokumentation, Aufbereitung und Zurverfügungstellung der Daten. 
 Ziele, die schließlich mit dem Berichtswesen verfolgt werden, sind: 
 
@@ -33,7 +33,7 @@ Ziele, die schließlich mit dem Berichtswesen verfolgt werden, sind:
 
 
    
-# Erfolgsfakor Berichtswesen
+# Erfolgsfaktor Berichtswesen
 
 Da sich das Berichtswesen über den gesamten betrieblichen Entscheidungsprozess erstreckt stellt es einen entscheidenden Erfolgsfaktor dar.
 Im Rahmen des Berichtswesens erstellte Projektberichte dienen häufig als Entscheidungsgrundlage, denn oftmals ist die Freigabe von Phasen oder Ressourcen 
@@ -47,7 +47,7 @@ Berichterstatter zu fördern.
 
 Um jedoch die Wirtschaftlichkeit von den Berichten zu erhalten und den Zeitaufwand zu senken, können standardisierte Berichtsvorlagen
 eingesetzt werden, was wiederum die Auswertbarkeit erhöht[^11].
-Ist die [Projektsteuerung](Projektssteuerung.md) transparent können unnötige Reibungsverluste durch Fehlinformationen und bzw. oder Informationsdefizite vermieden werden. 
+Ist die [Projektsteuerung](Projektsteuerung.md) transparent können unnötige Reibungsverluste durch Fehlinformationen und bzw. oder Informationsdefizite vermieden werden. 
 Der Berichtsprozess sollte daher zu Beginn eines neuen Projekts transparent erarbeitet und individuell an das Projekt angepasst werden und gegebenenfalls sollten 
 neue Projektmitglieder angemessen in ihn eingewiesen werden, damit sich das Berichtswesen als Erfolgsfaktor niederschlägt[^12].
 
