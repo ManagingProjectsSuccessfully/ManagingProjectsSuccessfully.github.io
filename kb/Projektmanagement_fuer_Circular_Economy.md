@@ -23,7 +23,7 @@ Dabei werden folgende drei Grundsätze beachtet:
 
 ## Konzepte des Circular Economy
 
-Es gibt verschiedene Defintionen der Kreislaufwirtschaft, dies liegt an dem unterschiedlichen Verständnis und der unterschiedlichen Wahrnehmung durch 
+Es gibt verschiedene Definitionen der Kreislaufwirtschaft, dies liegt an dem unterschiedlichen Verständnis und der unterschiedlichen Wahrnehmung durch 
 verschiedene Forscher. Tatsächlich leitet sich das Konzept der Kreislaufwirtschaft von anderen Konzepten ab. Im Folgenden werden diese Denkschulen zur Kreislaufwirtschaft 
 zusammengefasst, die von den Mitgliedern der Ellen MacArthur Foundation gelehrt wurden.[^6]
 
@@ -65,14 +65,14 @@ verschiedene Produkte in Kreisläufen fließen.
 
 ### 6. Blue Economy
 
-Behinhaltet die effiziente Nutzung der natürlichen [Ressourcen](Ressourcenplanung.md) durch Innovation und Unternehmertum.[^6]
+Beinhaltet die effiziente Nutzung der natürlichen [Ressourcen](Ressourcenplanung.md) durch Innovation und Unternehmertum.[^6]
 
 
 ## Umsetzung des Circular Economy
 
 Bei der Umsetzung einer nachhaltigen Strategie, entsteht ein ["Change"](Change_Management.md) für die Organisation und das ganze Unternehmen, insbesondere bei Circular Economy. 
-Vorteilhaft ist es agile Projektmanagement Methoden anzuwenden z.B. [PRINCE2](PRINCE2.md2) oder [Scrum](SCRUM.md), da dadurch eine satbilere Herangehensweise einhergeht. [^8]
-Zunächst wird analysiert, welche Optionen den größten Mehrwert dem eigenen Unternehmen bringt und daraufhin die ersten Umsetzungen durchgefürht. Währenddessen sollte die 
+Vorteilhaft ist es agile Projektmanagement Methoden anzuwenden z.B. [PRINCE2](PRINCE2.md2) oder [Scrum](SCRUM.md), da dadurch eine stabilere Herangehensweise einhergeht. [^8]
+Zunächst wird analysiert, welche Optionen den größten Mehrwert dem eigenen Unternehmen bringt und daraufhin die ersten Umsetzungen durchgeführt. Währenddessen sollte die 
 Projektlandschaft überprüft werden, damit Klarheit über die Effizienz der Strategie entsteht. Der wichtigste Faktor hierbei ist das [Change Mangement](Change_Management.md).[^8]
 
 ### Beispiel Renaults Re:Factory:[^9]
