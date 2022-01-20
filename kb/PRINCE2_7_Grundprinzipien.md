@@ -137,7 +137,7 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 
 * https://www.youtube.com/watch?v=if__T71U2ss
 * https://www.youtube.com/watch?v=61RnrsWQE7A
-* https://www.prince2.com/de/blog/prinzipien-themen-prozesse
+* [What is PRINCE2](https://www.prince2.com/de/blog/prinzipien-themen-prozesse)
 
 # Quellen
 
