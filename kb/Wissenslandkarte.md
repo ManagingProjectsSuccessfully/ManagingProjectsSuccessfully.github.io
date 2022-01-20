@@ -50,7 +50,7 @@ Folglich werden die verschiedenen Arten von Wissenslandkarten tabellarisch aufge
 *Arten von Wissenslandkarten*[^7]
 
 ## 3. Vor- und Nachteile[^8]
- Im 3. Kapitel werden die Vor- und Nachteile aufgezählt.
+ Im dritten Kapitel werden die Vor- und Nachteile aufgezählt.
 
 ### Vorteile 
 
