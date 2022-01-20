@@ -135,8 +135,8 @@ In der folgenden Abbildung werden die Änderungen aus dem Jahr 2009 im Vergleich
 
 # Weiterführende Literatur
 
-* https://www.youtube.com/watch?v=if__T71U2ss
-* [What is PRINCE2?]https://www.youtube.com/watch?v=61RnrsWQE7A
+* [Was ist PRINCE2?](https://www.youtube.com/watch?v=if__T71U2ss)
+* [What is PRINCE2?](https://www.youtube.com/watch?v=61RnrsWQE7A)
 * [Die 7 Prinzipien](https://www.prince2.com/de/blog/prinzipien-themen-prozesse)
 
 # Quellen
