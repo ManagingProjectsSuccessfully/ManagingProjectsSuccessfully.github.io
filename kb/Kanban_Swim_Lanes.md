@@ -62,7 +62,6 @@ Bei der Arbeit an Projekten werden viele Ideen und Konzepte wieder verworfen ohn
 # Weiterführende Literatur
 
 * [Kanban Wikipedia](https://de.wikipedia.org/wiki/Kanban)
-* [Kanban Swimlanes Google Scholar](https://scholar.google.com/scholar?hl=de&as_sdt=0,5&q=kanban+swimlanes)
 
 
 # Quellen
