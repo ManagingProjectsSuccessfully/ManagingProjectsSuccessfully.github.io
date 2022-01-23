@@ -54,11 +54,12 @@ Anschließend wird durch die Berechnung und Bewertung der **RPN** ein Fazit gebi
 * [RPN Berechnung](https://youtu.be/cxHVnwIsaOU)
 * [Reverse FMEA](https://www.fmea-kontor.de/leistungen/reverse-fmea.html#:~:text=Die%20Reverse%20FMEA%20wird%20als,gefordert%20(GM%20IATF%20CSR).)
 * [Service FMEA](https://www.inf.uni-hamburg.de/de/inst/ab/itmc/research/completed/promidis/instrumente/service-fmea)
+* [Risikoanalyse_und_Visualisierung](Risikoanalyse_und_Visualisierung.md)
 
 # Weiterführende Literatur
 
 * [FMEA Wikipedia](https://de.wikipedia.org/wiki/FMEA)
-* [FMEA Google Scholar](https://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=failure+modes+effects+analysis&oq=failure+modes)
+
 # Quellen
 
 [^1]: [Haktanir et al. (2020), "Interval-valued neutrosophic failure mode and effect analysis."](http://openaccess.altinbas.edu.tr/xmlui/bitstream/handle/20.500.12939/257/elif.pdf?sequence=1&isAllowed=y)
