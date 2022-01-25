@@ -5,20 +5,21 @@ author: Adaye1e
 anrechnung: k 
 ---
 # IT-Projekte
-Unter IT-Projekte versteht man die Entwicklung von Informations- und Kommunikationssystemen. Die Hauptaufgabe dabei ist die Entwicklung bzw. Anpassung von Software[^1].
+Unter IT-Projekte versteht man die Entwicklung von Informations- und Kommunikationssystemen. Die Hauptaufgabe dabei ist die Entwicklung bzw. Anpassung von Software.[^1]
 
 ## Klassische Methoden 
-Im Bereich der Softwareentwicklung sind die klassischen Vorgehensmethoden „Hermes“, „PRINCE2“ und „V-Model XT geeignet[^2].
+Im Bereich der Softwareentwicklung sind die klassischen Vorgehensmethoden „Hermes“, „PRINCE2“ und „V-Model XT geeignet.[^2]
 ### HERMES
-Bei Hermes wird nach den Prinzipien des Wasserfallmodells gearbeitet, siehe folgende Abbildung:![Beispielabbildung](IT-Projekte/Wasserfallmodell.png)[^3].  
+Bei Hermes wird nach den Prinzipien des [Wasserfall Modell](https://github.com/ga88maby/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md) gearbeitet.[^3]![Beispielabbildung](IT-Projekte/Wasserfallmodell.png)  
 
-Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Rolle, was dazu führt, dass die erforderlichen Projekttätigkeiten und Verantwortlichkeiten abgeleitet werden. Die Ergebnisse sind eindeutig definiert, wodurch der Anfang- und Endpunkt der Phasen vordefiniert sind und somit eine präzise Vorgehensweise gewährleistet wird. Hermes ist gekennzeichnet durch eine lineare Abfolge der Aktivitäten, was den Einsatz dieser Methode in IT-Projekten ermöglicht. Hermes wird hauptsächlich in der Schweiz angewendet[^4].
+Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Rolle, was dazu führt, dass die erforderlichen Projekttätigkeiten und Verantwortlichkeiten abgeleitet werden. Die Ergebnisse sind eindeutig definiert, wodurch der Anfang- und Endpunkt der Phasen vordefiniert sind und somit eine präzise Vorgehensweise gewährleistet wird. Hermes ist gekennzeichnet durch eine lineare Abfolge der Aktivitäten, was den Einsatz dieser Methode in IT-Projekten ermöglicht. Hermes wird hauptsächlich in der Schweiz angewendet.[^4]
 
 
 ### PRINCE2
-"PRINCE2" (Projects in Controlled Environments) steht für Projekte unter Kontrolle, das heißt, dass das Vorgehen vom Start bis zum Ende eines Projektes vordefiniert ist. Wie etwas hergestellt wird, ist nicht definiert, sondern von wem und wann etwas erzeugt werden soll. Durch diese Trennung zwischen der Herstellung von Produkten und dem Management von Projekten unterscheidet sich Prince2 von anderen Methoden und eignet sich zugleich sehr gut für das Zusammenspiel mit Methoden, die sich um die Produktherstellung kümmern. Prince2 zählt zu den meistgenutzten Methoden weltweit[^5] 
-#### Die Elemente von Prince2
-| 7 Grundprinzipien                                    | 7 Themen             | 7 Prozesse                         | 
+"[PRINCE2](https://github.com/patrick203494/ManagingProjectsSuccessfully.github.io/blob/main/kb/PRINCE2.md)" (Projects in Controlled Environments) steht für Projekte unter Kontrolle, das heißt, dass das Vorgehen vom Start bis zum Ende eines Projektes vordefiniert ist. Wie etwas hergestellt wird, ist nicht definiert, sondern von wem und wann etwas erzeugt werden soll. Durch diese Trennung zwischen der Herstellung von Produkten und dem Management von Projekten unterscheidet sich Prince2 von anderen Methoden und eignet sich zugleich sehr gut für das Zusammenspiel mit Methoden, die sich um die Produktherstellung kümmern. Prince2 zählt zu den meistgenutzten Methoden weltweit.[^5] 
+
+#### Die Elemente von PRINCE2
+| [7 Grundprinzipien](https://github.com/za22regi/ManagingProjectsSuccessfully.github.io/blob/main/kb/PRINCE2_7_Grundprinzipien.md)                                    | 7 Themen             | 7 Prozesse                         | 
 | ---------------------------------------------------- | -------------------  |----------------------------------  |
 |Prinzip 1: Fortlaufende geschäftliche Rechtfertigung  |Thema 1: Business Case|Prozess 1: Vorbereiten eines Projekt| 
 |Prinzip 2: Lernen aus Erfahrungen                     |Thema 2: Organisation |Prozess 2: Lenken eines Projekts    | 
@@ -29,21 +30,37 @@ Die Vorgabe von Projektergebnissen und Strukturierung spielen eine wichtige Roll
 |Prinzip 7: Anpassen an die Projektsituation          |Thema 7: Fortschritt|Prozess 7: Abschließen eines Projekts | 
 [^5]
 
+
+
 ### V-Modell XT
-Eine in Deutschland stark genutzte Variante ist das V-Modell XT, das erstmals im Jahr 1992 von der Bundeswehr veröffentlicht wurde. Sie ist ein Vorgehensmodell für die Durchführung von IT-Projekten, insbesondere zur Entwicklung von Softwaresystemen. Ergebnisse und Abläufe sind bei dieser Methode vorgegeben, wodurch möglichst viel Zeit gespart werden kann. Dies ist anhand der folgenden Darstellung ersichtlich[^6]:![Beispielabbildung](IT-Projekte/V-Modell-XT.jpg). Die wichtigste Aufgabe des V-Modell XT ist Regelung der Kommunikation zwischen dem Auftraggeber und den Auftragnehmern, um typische Quellen für Missverständnisse zwischen den Beteiligten auszuschließen. Der Zusatz "XT" steht dabei für "eXtreme Tailoring" und unterstreicht die flexible Anpassbarkeit an spezifische Projektumfelder. Die aktuelle Version 2.3 gewährleistet eine verbesserte Anwendbarkeit durch das Neugestalten der Produktabhängigkeiten. Somit ist eine Qualitätssicherung möglich[^7].
+Eine in Deutschland stark genutzte Variante ist das [V-Modell](https://github.com/fabriGH/ManagingProjectsSuccessfully.github.io/blob/main/kb/VModell.md) XT, das erstmals im Jahr 1992 von der Bundeswehr veröffentlicht wurde. Sie ist ein Vorgehensmodell für die Durchführung von IT-Projekten, insbesondere zur Entwicklung von Softwaresystemen. Ergebnisse und Abläufe sind bei dieser Methode vorgegeben, wodurch möglichst viel Zeit gespart werden kann. Dies ist anhand der folgenden Darstellung ersichtlich[^6]:![Beispielabbildung](IT-Projekte/V-Modell-XT.jpg) Die wichtigste Aufgabe des V-Modell XT ist die Regelung der Kommunikation zwischen dem Auftraggeber und den Auftragnehmern, um typische Quellen für Missverständnisse zwischen den Beteiligten auszuschließen. Der Zusatz "XT" steht dabei für "eXtreme Tailoring" und unterstreicht die flexible Anpassbarkeit an spezifische Projektumfelder. Die aktuelle Version 2.3 gewährleistet eine verbesserte Anwendbarkeit durch das Neugestalten der Produktabhängigkeiten. Somit ist eine Qualitätssicherung möglich.[^7]
+
+
 
 ## Gescheiterte IT-Projekte
 ### 7030-Projekt von IBM
-Die International Business Machine Corporation (IBM) begann 1956 die Entwicklung des 7030 Rechners, welches zu der Zeit zwar der schnellste Rechner war, aber die versprochene Leistung wurde nicht gewährleistet. Der Rechner war nur 30-mal so schnell wie das vorherige System, statt die Versprochene 100-fache Leistung[^8].
+Die International Business Machine Corporation (IBM) begann 1956 die Entwicklung des 7030 Rechners, welches zu der Zeit zwar der schnellste Rechner war, jedoch wurde die versprochene Leistung nicht gewährleistet. Der Rechner war nur 30-mal so schnell wie das vorherige System, statt die versprochene 100-fache Leistung.[^8]
 ### Barcode-Scanner mit Lesefehler
-Im für Südengland zuständigen Auslieferungszentrum Waltham Point in Essex wurde im Jahr 2003 ein System eingesetzt, welches Barcodes scannen und Auslieferungen beschleunigen sollte. Das Barcode-System war fehlerhaft, was zu Schäden im Millionenbereich führte und somit das Projekt 4 Jahre später beendet wurde[^9].
+Im für Südengland zuständigen Auslieferungszentrum Waltham Point in Essex wurde im Jahr 2003 ein System eingesetzt, welches Barcodes scannen und Auslieferungen beschleunigen sollte. Das Barcode-System war fehlerhaft, was zu Schäden im Millionenbereich führte und somit das Projekt 4 Jahre später beendet wurde.[^9]
 ### Das Größte Lidl IT-Projekt
-Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das von SAP entwickelt wurde, anwenden. Dieses sollte das selbst programmierte und jahrzehntealte System Wawi ablösen. Eine Reduzierung des Aufwands für die Stammdatenpflege und die Möglichkeit für Prognosen in Echtzeit waren die Ziele, die das System schaffen sollte. Das Elektronisches Lidl-Warenwirtschaftsinformationssystem (Elwis) wurde nach sieben Jahren Entwicklungszeit im Jahr 2018 gestoppt. Die Ziele waren mit dem gegeben Aufwand nicht realisierbar[^10].
+Der Lebensmittel-Discounter Lidl wollte ein neues Warenwirtschaftssystem, das von SAP entwickelt wurde, anwenden. Dieses sollte das selbst programmierte und jahrzehntealte System Wawi ablösen. Eine Reduzierung des Aufwands für die Stammdatenpflege und die Möglichkeit für Prognosen in Echtzeit waren die Ziele, die das System schaffen sollte. Das "Elektronische-Lidl-Warenwirtschaftsinformationssystem" (Elwis) wurde nach sieben Jahren Entwicklungszeit im Jahr 2018 gestoppt. Die Ziele waren mit dem gegeben Aufwand nicht realisierbar.[^10]
 
 # Angrenzende Themen
-[Microsoft_Project_PM_Tool](https://github.com/AbderrahmaneBennani/ManagingProjectsSuccessfully.github.io/blob/main/kb/Microsoft_Project_PM_Tool.md)
+[Wasserfall Modell](https://github.com/ga88maby/ManagingProjectsSuccessfully.github.io/blob/main/kb/Wasserfall_Modell.md)
 
-[Java Projektmanagement Tools](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Java_PM_Tool.md)
+[PRINCE2](https://github.com/patrick203494/ManagingProjectsSuccessfully.github.io/blob/main/kb/PRINCE2.md)
+
+[PRINCE2 7 Grundprinzipien](https://github.com/za22regi/ManagingProjectsSuccessfully.github.io/blob/main/kb/PRINCE2_7_Grundprinzipien.md)
+
+[V-Modell](https://github.com/fabriGH/ManagingProjectsSuccessfully.github.io/blob/main/kb/VModell.md)
+
+# Weiterführende Literatur
+Buch: [Management von IT-Projekten](https://link.springer.com/book/10.1007/978-3-642-16127-8?token=HOLIDAY21&utm_campaign=3_fjp8312_springerlink_shopping_katte_HOLIDAY21&gclid=Cj0KCQiA8ICOBhDmARIsAEGI6o297cfmB1-MxoB5CFZAayy3ucCimNMFd0dHYumlu9qboeroznfpBhIaAoTaEALw_wcB)
+
+Buch: [IT-Projektmanagement
+Was wirklich funktioniert – und was nicht](https://www.rheinwerk-verlag.de/it-projektmanagement-was-wirklich-funktioniert-und-was-nicht/)
+
+Video: [Wie werden IT-Projekte erfolgreich? von Alexander Bernhardt](https://www.youtube.com/watch?v=M6-r5FXX0Ow)
 
 # Quellen 
 
@@ -57,6 +74,6 @@ Der Lebensmittel-Discounters Lidl wollte ein neues Warenwirtschaftssystem, das v
 [^8]: [Gescheitertes IBM-Projekt](https://www.cio.de/a/elf-it-projekte-im-sturzflug,859906)
 [^9]: [Barcode-Scanner mit Lesefehler](https://www.cio.de/a/elf-it-projekte-im-sturzflug,859906,3)
 [^10]: [Elwis Lidl Projekt](https://www.com-magazin.de/praxis/business-it/erfolgreiche-it-projekte-in-stuermischen-zeiten-2656021.html)
-
+ 
 
 
