@@ -19,7 +19,7 @@ anrechnung: k
 8. [Quellen](https://github.com/niru1999/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikotransfer.md#quellen)
 
 # Definition 
-Der Begriff *Risikotransfer*, auch *Risikoüberwälzung* genannt, steht im [Risikomanagement](https://github.com/jnsdhr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) für die Planung zur Risikovorbeugung. Die Maßnahme einer solchen Planung wäre die Risikostreuung. Dabei wird das Risiko einer Privatperson oder eines Unternehmens, auf dritte (z.B. Versicherungsgesellschaften) übertragen. So werden beispielsweise finanzielle Risiken abgesichert. Das bestehende Risiko muss dabei nicht zwangsläufig auftreten.  [^1]
+Der Begriff *Risikotransfer*, auch *Risikoüberwälzung* genannt, steht im [Risikomanagement](Risikomanagement.md) für die Planung zur Risikovorbeugung. Die Maßnahme einer solchen Planung wäre die Risikostreuung. Dabei wird das Risiko einer Privatperson oder eines Unternehmens, auf dritte (z.B. Versicherungsgesellschaften) übertragen. So werden beispielsweise finanzielle Risiken abgesichert. Das bestehende Risiko muss dabei nicht zwangsläufig auftreten.  [^1]
 
 
 # Verschiedene Methoden des Risikotransfers
@@ -38,13 +38,13 @@ Es ergeben sich außerdem auch Vorteile für den Leasingnehmer.  Falls das Leasi
 *Leasingdreieck* [^3]
 
 # Vorteile
-Bei einer [Projektplanung](https://github.com/MarleneMMeyer/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektplanung.md) sollte bereits im Vorfeld eine [Risikoanalyse](https://github.com/CTM-development/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) durchgeführt werden. Mit den Risikotransfer können Maßnahmen gegen die formulierten Risiken getroffen werden. Zudem kann auch Sicherheit bei unvorhersehbaren Risiken wie z.B. Schäden durch Umwelteinflüsse, geboten werden. Sollten in Folge reale Schäden oder Verluste auftreten, übernimmt die Versicherung die Verantwortung für den Kostenaufwand. Auf diese Weise bleibt eine Privatperson oder auch ein Unternehmen in finanziellen Krisen geschützt und kann für eine sichere Zukunft sorgen.[^3]
+Bei einer [Projektplanung](Projektplanung.md) sollte bereits im Vorfeld eine [Risikoanalyse](Risikoanalyse.md) durchgeführt werden. Mit dem Risikotransfer können Maßnahmen gegen die formulierten Risiken getroffen werden. Zudem kann auch Sicherheit bei unvorhersehbaren Risiken wie z.B. Schäden durch Umwelteinflüsse, geboten werden. Sollten in Folge reale Schäden oder Verluste auftreten, übernimmt die Versicherung die Verantwortung für den Kostenaufwand. Auf diese Weise bleibt eine Privatperson oder auch ein Unternehmen in finanziellen Krisen geschützt und kann für eine sichere Zukunft sorgen.[^3]
 
 # Nachteile
 Eines der Nachteile vom Risikotransfer ist, dass eine Absicherung oftmals mit zusätzlichen Kosten verbunden ist. Außerdem bringt der Abschluss einer Versicherung oder auch die Risikostreuung mit Derivaten hohen Zeitaufwand mit sich.[^1]
 
 # Fazit
-Der kostspielige Finanz- und Zeitaspekt des [Risikomanagements](https://github.com/jnsdhr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) kann dabei vor allem für kleinere Unterhemen (Start Ups) abwegig und untragbar erscheinen. Im Hinblick auf Langzeitprognosen ergibt ein ordentlicher Risikotransfer allerdings nur Vorteile. Um potenziell mögliche, schwerwiegendere Kostenverluste zu vermeiden, sollte eine Investition im Bereich Risikotransfer nicht vernachlässigt werden.
+Der kostspielige Finanz- und Zeitaspekt des [Risikomanagements](Risikomanagement.md) kann dabei vor allem für kleinere Unterhemen (Start Ups) abwegig und untragbar erscheinen. Im Hinblick auf Langzeitprognosen ergibt ein ordentlicher Risikotransfer allerdings nur Vorteile. Um potenziell mögliche, schwerwiegendere Kostenverluste zu vermeiden, sollte eine Investition im Bereich Risikotransfer nicht vernachlässigt werden.
 
 # Siehe auch
 
@@ -55,12 +55,12 @@ Der kostspielige Finanz- und Zeitaspekt des [Risikomanagements](https://github.c
 # Weiterführende Literatur
 
 * [Alternativer Risikotransfer: Vorteile und Risiken des Transfers](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Fachartikel/2013/fa_bj_2013_06_alternativer_risikotransfer.html)
-
+* [Risikotransfertest](https://www.versicherungsmagazin.de/lexikon/risikotransfertest-1946458.html)
 # Quellen
 
 [^1]: [HAUPT RISIKOMANAGEMENT-TUTORIALS
-Risikotransfer(teamaftermarket)](https://teamaftermarket.com/691-risk-transfer)
+Risikotransfer(teamaftermarket)](https://teamaftermarket.com/691-risk-transfer)  
 [^2]: [Was sind Derivate? Derivate einfach erklärt!](https://www.finanzfluss.de/geldanlage/derivate/)  
-[^3]: [Risikoüberwälzung](https://de.wikipedia.org/wiki/Risiko%C3%BCberw%C3%A4lzung)
+[^3]: [Risikoüberwälzung](https://de.wikipedia.org/wiki/Risiko%C3%BCberw%C3%A4lzung) 
 
 
