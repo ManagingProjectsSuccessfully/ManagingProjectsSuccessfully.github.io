@@ -24,7 +24,7 @@ Die PRINCE2-Methode setzt sich aus vier Grundbausteinen zusammen, auf welche im 
 
 *	Die [7 PRINCE2 Grundprinzipien](PRINCE2_7_Grundprinzipien.md)
 *	Die 7 PRINCE2 Themen
-*	Die [7 PRINCE2 Prozesse](PRINCE2_7_Prozesse.md)
+*	Die 7 PRINCE2 Prozesse
 *	[Anpassung von PRINCE2 an die Projektumgebung](PRINCE2_Projektumgebung.md) [^7]
 
 Daneben definiert PRINCE2 festgelegte Rollen & Verantwortlichkeiten innerhalb des Projektteams und gibt konkrete Handlungsempfehlungen für jede Projektphase. [^8]
@@ -51,7 +51,7 @@ Festlegung von Rollenverteilung und Verantwortlichkeiten im PRINCE2- Managementt
 Schaffung von Klarheit über die Qualitätsanforderungen und -maßnahmen, Qualitätskontrolle
 
 
-4. [**Pläne**](Projektplanung.md) *(Wie und Wann?)*:
+4. [**Pläne**](Projektplanung.md) *(Wie und wann?)*:
 Entwicklung des Projektplans, Festlegung und Umsetzung der anzuwendenden PRINCE2-Techniken
 
 
@@ -67,9 +67,9 @@ Bewertung und Behandlung offener Punkte, die eventuelle Auswirkungen auf das Pro
 Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststellung und Reporting ob und wie das Projekt fortgeführt werden soll[^3][^4][^7]
 
 
-# Stärken und mögliche Nachteile von PRINCE2
+# Vorteile und mögliche Nachteile von PRINCE2
 
-## Stärken:
+## Vorteile:
 
 *	Standardisiertes Vorgehen, universell einsetzbar
 *	Weltweit anerkannte und klar verständliche Arbeitsweise
@@ -79,7 +79,7 @@ Fortlaufende Kontrolle der Realisierbarkeit der Pläne, kontinuierliche Feststel
 *	Kann auf Bedürfnisse einzelner Organisationen oder Projekte angepasst werden
 *	Gebührenfrei: PRINCE2-Materialien liegen als bereits öffentliche Dokumente vor[^3][^9]
 
-## Mögliche Nachteile:
+## Nachteile:
 
 *	Stark dokumentenorientiert
 *	Ggf. Gefühl von "Machtverlust" bei Projektmanager:innen, da Rollen und Befugnisse streng festgelegt sind
