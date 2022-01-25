@@ -9,11 +9,6 @@ anrechnung: k
 
 Die FMEA-Methode wird definiert als die Fehlermöglichkeits- und Einflussanalyse (englisch: Failure Mode and Effects Analysis)[^1].
 
-## Definition und Ziel
-## Durchführung
-## Vor- und Nachteile
-## Einsatzmöglichkeiten
-
 # Definition und Ziel 
 
 Ziel der FMEA-Methode ist es potenzielle Fehler bereits im Produktentstehungsprozess, kurz PEP, durch die Analyse und Bewertung möglicher Risiken zu identifizieren und somit zu vermeiden. 
@@ -47,7 +42,7 @@ Die Durchführung einer FMEA erfolgt in mehreren Schritten. Kernelemente dabei s
 Die FMEA-Methode hat sehr viele Vorteile. Einer der grundlegendsten ist, dass Fehler und Schwachstellen in einer sehr frühen Phase des Projekts entdeckt werden und die dadurch entstehenden Fehlerkosten minimiert werden können. Durch die Entdeckung können vor allem die Fehlerursachen behoben werden, damit kann viel Entwicklungszeit eingespart werden und die Kosten für das Endprodukt sinken. Auch die Kommunikation und die Zusammenarbeit im Unternehmen sowie mit Kunden und Lieferanten wird verbessert. Als Resultat daraus generiert das Unternehmen weniger Reklamationen und Rückrufaktionen. [^2]  [^6]
 
 ## Nachteile
-Zwar ist die Methode der FMEA vorteilhaft, birgt aber auch Nachteile. Die Erstellung und detaillierte Ausarbeitung einer FMEA-Methode ist sehr zeitaufwendig, da sie individuell auf das Produkt angepasst werden muss. Außerdem ist die Akzeptanz bei manchen Stakeholdern eher niedrig, da die FMEA mit hohem Aufwand verbunden ist, aber nicht viel Fortschritt generiert. Die Erstellung einer FMEA ist zudem sehr zeitaufwändig und es fallen hohe Kosten an. Die eingesparten Fehlerkosten treten erst zeitverzögert oder auch zu gering auf. [^2]  [^6]
+Zwar ist die Methode der FMEA vorteilhaft, birgt aber auch Nachteile. Die Erstellung und detaillierte Ausarbeitung einer FMEA-Methode ist sehr zeitaufwendig, da sie individuell auf das Produkt angepasst werden muss. Außerdem ist die Akzeptanz bei manchen [Stakeholdern](https://de.wikipedia.org/wiki/Stakeholder) eher niedrig, da die FMEA mit hohem Aufwand verbunden ist, aber nicht viel Fortschritt generiert. Die Erstellung einer FMEA ist zudem sehr zeitaufwändig und es fallen hohe Kosten an. Die eingesparten Fehlerkosten treten erst zeitverzögert oder auch zu gering auf. [^2]  [^6]
 
 
 # Einsatzmöglichkeiten
@@ -63,12 +58,16 @@ Weitere Einsatzmöglichkeiten:
 * Analyse von Prozessen und Produkten mit hohem Umweltrisiko oder Risiken für den Arbeits- und Gesundheitsschutz
 * Analyse von veränderten Einsatzbedingungen beim Kunden
 
-Generell kann eine FMEA auch in nicht technischen Bereichen angewandt werden. Sie ist in allen bereichen hilfreich, in welchen ein vorausplanendes Denken zur Fehlerprävetion notwenig ist. [^1]  [^2]  [^7]
+Generell kann eine FMEA auch in nicht technischen Bereichen angewandt werden. Sie ist in allen bereichen hilfreich, in welchen ein vorausplanendes Denken zur Fehlerprävention notwendig ist. [^1]  [^2]  [^7]
 
 
 # Siehe auch
 
 * [Qualitätsmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Qualitaetsmanagement.md)
+* [Methoden](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Methoden.md)
+* [Qualitätssicherung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Qualitaetssicherung.md)
+* [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md)
+* [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md)
 
 
 # Quellen
@@ -80,5 +79,4 @@ Generell kann eine FMEA auch in nicht technischen Bereichen angewandt werden. Si
 [^5]: https://www.business-wissen.de/hb/systematik-und-durchfuehrung-der-fmea/
 [^6]: https://www.projektmagazin.de/methoden/fmea
 [^7]: https://www.intqua.de/fehlermoeglichkeits-und-einflussanalyse-fmea/
-
 
