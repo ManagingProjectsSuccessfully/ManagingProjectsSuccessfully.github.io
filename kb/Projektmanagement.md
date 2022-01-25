@@ -4,12 +4,12 @@ tags: agil klassisch
 author: FCN478
 anrechnung: k 
 ---
-Projektmanagement lässt sich allgemein als Sammelbegriff für sämtliche Handlungen verstehen, die steuernd, planend, koordinierend und überwachend die Neu- oder Umgestaltung von Prozessen oder Systemen zum Ziel haben.[^1] Dabei kann man, unterscheidend nach Ziel und Methodik, verschiedene Arten des Projektmanagements differenzieren. Die grobe Trennung erfolgt zwischen einer klassischen und einer agilen Herangehensweise, die sich bereits durch ihre Grundauffassung, wie sich ein Problem oder Prozess lösen lässt, unterscheiden. Darüber hinaus existiert eine Mischform aus beiden Ansätzen. Welche Art gewählt wird, hängt eng mit der zu bewältigenden Projektart zusammen und wird von dieser bestimmt. Weiterhin befinden sich beide grundlegenden Herangehensweisen im Spannungsfeld des Magischen Dreiecks des Projektmanagements.
+Projektmanagement lässt sich allgemein als Sammelbegriff für sämtliche Handlungen verstehen, die steuernd, planend, koordinierend und überwachend die Neu- oder Umgestaltung von Prozessen oder Systemen zum Ziel haben.[^1] Dabei kann man, unterscheidend nach Ziel und Methodik, verschiedene Arten des Projektmanagements differenzieren. Die grobe Trennung erfolgt zwischen einer klassischen und einer agilen Herangehensweise, die sich bereits durch ihre Grundauffassung, wie sich ein Problem oder Prozess lösen lässt, unterscheiden. Darüber hinaus existiert eine Mischform aus beiden Ansätzen. Welche Art gewählt wird, hängt eng mit der zu bewältigenden Projektart zusammen und wird von dieser bestimmt. Weiterhin befinden sich beide grundlegenden Herangehensweisen im Spannungsfeld des [Magischen Dreiecks](Magisches_Dreieck.md) des Projektmanagements.
 ![Magisches Dreieck](Projektmanagement/projektmanagement.png)
 [InLoox Abbildung](https://inlooxcdn.azureedge.net/var/corporate_site/storage/images/media/images/seo-page-project-management/grafik-project-triangle-neu-2020/1635537-2-ger-DE/grafik-project-triangle-neu-2020.png)
 
 # Klassisches Projektmanagement
-Das klassische Projektmanagement zeichnet sich grundsätzlich durch ein bestehendes festes Endziel des Projekts aus. Diesem Ziel werden die Ressourcen vorab bereitgestellt und nach einem festen Modell erfolgt der Projektablauf. Weiterhin wird davon ausgegangen, dass das Projektumfeld relativ stabil ist und sich demzufolge das Projekt von Start bis Abschluss durchplanen lässt. Dahingehend erfolgt die Wahl des Ablaufmodells projektbezogen. Die bekanntesten Modelle sind das Wasserfallmodell und das Spiralmodell.[^2]
+Das klassische Projektmanagement zeichnet sich grundsätzlich durch ein bestehendes festes Endziel des Projekts aus. Diesem Ziel werden die Ressourcen vorab bereitgestellt und nach einem festen Modell erfolgt der Projektablauf. Weiterhin wird davon ausgegangen, dass das Projektumfeld relativ stabil ist und sich demzufolge das Projekt von Start bis Abschluss durchplanen lässt. Dahingehend erfolgt die Wahl des Ablaufmodells projektbezogen. Die bekanntesten Modelle sind das [Wasserfallmodell](Wasserfall_Modell.md) und das Spiralmodell.[^2]
 
 ## Wasserfallmodell
 Das Wasserfallmodell ist ein lineares Phasenmodell. In diesem System erfolgt der Ablauf der vorab definierten Phasen nacheinander. Erst wenn der vorherige Abschnitt beendet ist, beginnt der Nächste. Die Abschnittseinteilung erfolgt projektbezogen, jedoch lassen sich 5 Grundphasen identifizieren:
@@ -37,7 +37,7 @@ Bei der Risikoanalyse werden die Rahmenbedingungen definiert und konkrete Lösun
 Zentral ist hierbei die Erstellung von Prototypen, welche von Iteration zu Iteration verfeinert werden und am Projektende das Ergebnis darstellen.[^4]
 
 # Agiles Projektmanagement
-Basierend auf dem agilen Manifest aus dem Jahr 2001, besteht das agile Projektmanagement aus vier Leitsätzen:
+Basierend auf dem [Agilen Manifest](Agiles_Manifest.md) aus dem Jahr 2001, besteht das agile Projektmanagement aus vier Leitsätzen:
 
 * Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge
 * Funktionen und Software sind wichtiger als umfassende Dokumentation
@@ -48,7 +48,7 @@ In diesem Rahmen nimmt der Mensch eine wichtige Rolle ein und mithin stellen Kom
 
 Dahingehend existiert im Gegensatz zum klassischen Projektmanagement keine fixe Struktur. Veränderung und Flexibilität finden Einzug in diesem System und der Ablauf eines Projekts baut sich iterativ auf den bisherigen Teilergebnissen auf.[^2]
 
-Konkrete Methoden stellen hierbei Scrum, Extreme Programming und Crystal Methods dar, welche alle mit dem agilen Manifest vereinbar sind.[^2]
+Konkrete Methoden stellen hierbei [Scrum](SCRUM.md), [Extreme Programming](Xtreme_Programming.md) und [Crystal Methods](Crystal_Methods.md) dar, welche alle mit dem agilen Manifest vereinbar sind.[^2]
 
 # Siehe auch
 * [Magisches Dreieck](Magisches_Dreieck.md)
@@ -56,6 +56,8 @@ Konkrete Methoden stellen hierbei Scrum, Extreme Programming und Crystal Methods
 * [Crystal Methods](Crystal_Methods.md)
 * [SCRUM](SCRUM.md)
 * [Projektmanagement 4.0](Projektmanagement_4_0.md)
+* [Extreme Programming](Xtreme_Programming.md)
+* [Agiles Manifest](Agiles_Manifest.md)
 
 # Weiterführende Literatur
 
@@ -63,8 +65,7 @@ Konkrete Methoden stellen hierbei Scrum, Extreme Programming und Crystal Methods
 
 # Quellen
 
-[^1]: Literaturverzeichnis
-Kuster, J., Bachmann, C., Huber, E., Hubmann, M., Lippmann, R., Schneider, E., Schneider, P., Witschi, U. & Wüst, R. (2019). Handbuch Projektmanagement. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-662-57878-0
+[^1]: Kuster, J., Bachmann, C., Huber, E., Hubmann, M., Lippmann, R., Schneider, E., Schneider, P., Witschi, U. & Wüst, R. (2019). Handbuch Projektmanagement. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-662-57878-0
 [^2]: Trepper T. (2012) Klassisches Projektmanagement. In: Agil-systemisches Softwareprojektmanagement. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-8349-4202-9_3
 [^3]: Wasserfallmodell - factro (https://www.factro.de/blog/wasserfallmodell/), aufgerufen am 21.11.2021
 [^4]: Enzyklopädie der Wirtschaftsinformatik(https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Spiralmodell), aufgerufen am 21.11.2021
