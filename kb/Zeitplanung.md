@@ -21,16 +21,18 @@ Ein grundlegender Unterschied zwischen beiden Projektmangementarten ist die Zeit
 ## Agiles Projektmanagement
 Das agile Projektmanagement folgt iterativen Prozessen. Jede Iteration ist hierbei ein Zeitfenster, in welchem eine bestimmte Aufgabe erledigt werden muss. Danach wird das Ergebnis kurz bewertet und die nächste Iteration beginnt. Wichtig hierbei ist zu wissen, dass das Ziel nur grob vorformuliert ist und es sich durch die Prozesse erst genauer definiert. [^4]
 
-![Zeitplanung agiles PM](/kb/Zeitplanung/agiles_PM.jpg)
+![Zeitplanung agiles PM](/kb/Zeitplanung/Agiles_PM_03.jpg)
+
 Zeitplanung im agilen Projektmanagement
 Quelle: [^4]
 
 ## Klassisches Projektmanagement
-Das klassische Projektmanagement folgt einem Schritt-für-Schritt Vorgehen. Das Ziel ist bereits von Anfang an genauestens definiert. Zunächst werden die erforderlichen Tätigkeiten festgelegt, anschließend wird der jeweilige Zeitverbrauch von diesen bestimmt. Die kumulierten Zeitverbräuche der einzelnen Tätigkeiten ergeben dann in der Summe die Zeitspanne des Projekts. Durch dieses Vorgehen wird der Projektablaufplan, mit den genauen Etappen festgelegt. Hierbei bestimmt das jeweilige Projektverlaufsmodell die Gestalt des Planes. [^5]
-Zeitplanung im klassischen Sinne ist somit ist die Bestimmung der Projektdauer, mit Einberechnung von Zeitreserven und den damit entstehenden Anfangs- und Endzeitpunkten für einzelne Prozesse. [^6]
+Das klassische Projektmanagement folgt einem Schritt-für-Schritt Vorgehen. Das Ziel ist bereits von Anfang an genauestens definiert. Zunächst werden die erforderlichen Tätigkeiten festgelegt, anschließend wird der jeweilige Zeitverbrauch von diesen bestimmt. Die kumulierten Zeitverbräuche der einzelnen Tätigkeiten ergeben dann in der Summe die Zeitspanne des Projekts. Durch dieses Vorgehen wird der Projektablaufplan mit den genauen Etappen festgelegt. Hierbei bestimmt das jeweilige Projektverlaufsmodell die Gestalt des Planes. [^5]
+Zeitplanung im klassischen Sinne ist somit die Bestimmung der Projektdauer, mit Einberechnung von Zeitreserven und den damit entstehenden Anfangs- und Endzeitpunkten für einzelne Prozesse. [^6]
 
-![Zeitplanung klassisches PM](/kb/Zeitplanung/klassisches_PM.jpg) 
-Zeitplanung im klasischen Projektmanagement
+![Zeitplanung klassisches PM](/kb/Zeitplanung/Klassisches_PM_03.jpg) 
+
+Zeitplanung im klassischen Projektmanagement
 Quelle: [^5]
 
 # Projektablaufplan
@@ -47,16 +49,12 @@ Die beste Schätzung gelingt nur auf der Basis von Daten ähnlicher Projekte. Di
 Klassisches Projektmanagement eignet sich am besten für Projekte, welche kompliziert und genauestens ausgearbeitet werden müssen. Aber auch für Projekte die bereits in vergleichbarere Form stattgefunden haben, sogenannte [Routineprojekte](Routineprojekte.md). [^8] 
 Ein Beispiel hierfür wären klassische [Bauprojekte](Bauprojekte.md). Die geschätzte Zeit kann ziemlich genau bestimmt werden, da bestimmte Bauschritte immer gleich lange dauern. [^5]
 
-## Vorteile [^9]
-*	Präzise zeitliche Planung
-*	Transparenz
-*	Klare Aufteilung von Zuständigkeiten
-*	Verschaffung eines Überblicks für jeden
-
-## Nachteile [^10]
-*	Kaum Flexibilität 
-*	Risiko von Realitätsfernheit 
-* Schnelles reaktives Handeln nicht möglich
+|Vorteile [^9]|Nachteile [^10]|
+|----------|---------|
+|Präzise zeitliche Planung|Kaum Flexibilität |
+|Transparenz|Risiko von Realitätsferne |
+|Klare Aufteilung von Zuständigkeiten|Schnelles reaktives Handeln nicht möglich|
+|Verschaffung eines Überblicks für jeden||
 
 
 # Siehe auch
