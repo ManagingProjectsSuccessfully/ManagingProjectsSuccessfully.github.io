@@ -1,44 +1,47 @@
 ---
 title: Risikomatrix
-tags: klassisch
+tags: Risikobewertung im Projektmanagement, Risikomanagement, Projektmanagement, Risikoanalyse, ALARP, Nach Nohl, Risikoidentifikation, Risikoquantifizierung, Risikoaggregation, Risikobeurteilung, Risikobewertung
 author: Aseuc
 anrechnung: k
 ---
 
-Durch die Risikomatrix oder auch Risikodiagramm, Risikoprofil[^1], wird die Wahrscheinlichkeit bei dem negative Ereignisse aufkommen und deren Auswirkungen in einer Tabelle ins Verhältnis gesetzt.[^3] Die Risikomatrix ist eine zweidimensionale Darstellung welche der systematischen Evaluierung und Bewertung von Risiken dienen soll. Des Weiteren ist die Risikomatrix ein Instrument aus der [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) und erfolgt in verschiedenen Varianten[^2].    			
+Durch die Risikomatrix oder auch Risikodiagramm, Risikoprofil[^1] wird die Wahrscheinlichkeit, bei dem negative Ereignisse aufkommen und deren Auswirkungen in einer Tabelle ins Verhältnis gesetzt. Die Risikomatrix wird in vielen Bereichen angewendet, vor allem im Projekt- und Risikomanagement.[^3]
 
-* [Aufbau und Berechnung](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Kritik-,Aufbau%20und%20Berechnung,-Bei%20der%20tabellarischen)
-* [Nutzen und Kritik](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Bild%2011%3A-,Nutzen%20und%20Kritik,-Nutzen%20Allgemein)
-  - [Nutzen Allgemein](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Nutzen%20und%20Kritik-,Nutzen%20Allgemein,-Die%20Risikomatrix%20hilft)
-  - [Nutzen im Risikomanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Nutzen%20im%20Risikomangement)
-  - [Nutzen im Projekmanagement](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=Nutzen%20im%20Projektmanagement)
-  - [Kritik](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomatrix.md#:~:text=das%20Risikomanagement%20verwendet5.-,Kritik,-Zun%C3%A4chst%20ist%20die)
-* [Siehe auch](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/Risikomatrix.md#:~:text=Wahrscheinlichkeit%20und%20Auswirkung1.-,Siehe%20auch,-ALARP)
-* [Weiterführende Literatur](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/Risikomatrix.md#:~:text=Risikobewertung_von_Umweltrisiken-,Weiterf%C3%BChrende%20Literatur,-Risikomatrix%20Erkl%C3%A4rvideo)
-* [Quellen](https://github.com/Aseuc/ManagingProjectsSuccessfully.github.io/edit/main/kb/Risikomatrix.md#:~:text=Risiken%20mit%20Praxisbeispielen%22-,Quellen,-Footnotes)
+Die Risikomatrix ist eine zweidimensionale Darstellung, welche der systematischen Evaluierung und Bewertung von Risiken dienen soll. Dadurch ist die Risikomatrix ein Instrument aus der [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) und erfolgt in verschiedenen Varianten.[^2]    			
 
 # Aufbau und Berechnung
-Bei der tabellarischen Darstellung der Risikomatrix wird an der y-Achse die Eintrittswahrscheinlichkeit[^11] und an der x-Achse die Schadenshöhe angegeben[^4], da es aber keine einheitliche Darstellungsform gibt kann die Matrix auch eine umgekehrte Beschriftung der Achsen haben[^5].
+Bei der tabellarischen Darstellung der Risikomatrix wird an der y-Achse die Eintrittswahrscheinlichkeit[^11] und an der x-Achse die Schadenshöhe angegeben[^4]. Da es aber keine einheitliche Darstellungsform gibt, kann die Matrix auch eine umgekehrte Beschriftung der Achsen haben.[^5]
 
-Die Spalten- und Zeilenbeschriftung erfolgt durch Indizes[^6] oder durch Prozente oder Begriffe wie niedrig bis kritisch[^7]. In der Matrix werden die Risiken so positioniert, sodass eine gewichtete und vergleichende Darstellung besteht[^8]. Durch Färbung der Zellen werden die Risikobereiche gekennzeichnet und ähneln den Farben grün, gelb und rot[^6]. Anhand der Positionen der Risiken im Raster kann die Bedeutung eines Risikos eingeschätzt werden[^7]. Im Bild 1 wird nochmals anschaulich eine Risikomatrix dargestellt wie vorher schon beschrieben. 
+Die Spalten- und Zeilenbeschriftung erfolgt durch Indizes[^6] oder durch Prozente oder Begriffe wie niedrig bis kritisch[^7]. In der Matrix werden die Risiken so positioniert, wodurch eine gewichtete und vergleichende Darstellung besteht.[^8] 
 
-Bild 1[^1]: 
+Durch Färbung der Zellen werden die Risikobereiche gekennzeichnet und ähneln den Farben grün, gelb und rot[^6]. Anhand der Positionen der Risiken im Raster kann die Bedeutung eines Risikos eingeschätzt werden.[^7] 
+
+Durch Multiplikation der Eintrittswahrscheinlichkeit und der Schadenshöhe des Risikos kann der Schadenserwartungswert berechnet werden. Unter anderem ist es möglich, dass bei der Berechnung des Schadenserwartungswertes[^12] sich die beiden Faktoren gegenseitig einschränken und es zu einer falschen Beurteilung über ein Risiko kommt.[^10]
+
+Im folgenden Schaubild ist eine Risikomatrix zu erkennen, welche beispielhaft aufzeigen soll, wie eine Risikomatrix aussehen kann.[^1]
+
 ![Risikomatrix](https://user-images.githubusercontent.com/78257976/140325882-d67014be-7d19-49cd-bd07-ae6e92c8b808.jpg)
+Risikomatrix Schaubild[^1]:
 
-# Nutzen und Kritik
+# Nutzen
 ## Nutzen Allgemein
-Die Risikomatrix hilft bei der Beurteilung von Risiken, da es das Ergebnis der Risikoanalyse und [Risikobewertung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikobewertung_von_Umweltrisiken.md) ist, ist es ein wichtiges Instrument des Projekt- und [Risikomanagements](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md)[^9]. Durch Multiplikation der Eintrittswahrscheinlichkeit und der Schadenshöhe des Risikos kann der Schadenserwartungswert berechnet werden. Unter anderem ist es möglich, dass bei der Berechnung des Schadenserwartungswertes[^12] sich die beiden Faktoren gegenseitig einschränken und es zu einer falschen Beurteilung über ein Risiko kommt[^10].
-Des Weiteren ist die Risikomatrix ideal für die Visualisierung und Kommunikation von Risikobewertungen und geben Auskunft über die Anzahl der Kritikalität von Risiken. Durch die Risikomatrix wird die Transparenz im Umgang mit Risiken als auch das Risikoverständnis in den Organisationen gefördert[^1].  
+Die Risikomatrix hilft bei der Beurteilung von Risiken, da es das Ergebnis der [Risikoanalyse](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikoanalyse_und_Visualisierung.md) und [Risikobewertung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikobewertung_von_Umweltrisiken.md) ist. Deshalb ist es ein wichtiges Instrument des [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)- und [Risikomanagements](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md).[^9] 
+
+Des Weiteren ist die Risikomatrix ideal für die Visualisierung und Kommunikation von Risikobewertungen und gibt Auskunft über die Anzahl der Kritikalität von Risiken. Durch die Risikomatrix wird die Transparenz im Umgang mit Risiken als auch das Risikoverständnis in den Organisationen gefördert.[^1] 
 
 ## Nutzen im Risikomangement
-Im Risikomanagement werden Elemente die einen negativen Einfluss auf das Projekt haben identifiziert, überwacht und gesteuert. Die Bewertung von Risiken erfolgt Anhand der Wahrscheinlichkeiten sowie dem zu erwartenden Verlust im Falle eines Schadens. Ab einer Eintrittswahrscheinlichkeit von 25% und einer durchschnittlichen Schadenshöhe, welche eine Organisation als Mittel bewertet, werden Risiken einer aktiven Steuerung unterzogen. Des Weiteren kann ein Risiko angenommen, gemildert oder verlagert werden.
-Falls eine Annahme des Risikos in Betracht gezogen wird werden keine Steuerungsmaßnahmen durchgeführt. Bei Milderung oder Verlagerung werden Maßnahmen ergriffen die das Risiko eliminieren oder mildern, welche beispielsweise, die Beschaffung von mehr Personal zum entgegenwirken von krankheitsbedingten Ausfällen, sein kann[^9].
+Im [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) werden Elemente, die einen negativen Einfluss auf das [Projekt](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) haben, identifiziert, überwacht und gesteuert. Die Bewertung von Risiken erfolgt anhand der Wahrscheinlichkeiten sowie dem zu erwartenden Verlust im Falle eines Schadens. Ab einer Eintrittswahrscheinlichkeit von 25 % und einer durchschnittlichen Schadenshöhe, welche eine Organisation als Mittel bewertet, werden Risiken einer aktiven Steuerung unterzogen. Ein Risiko kann angenommen, gemildert oder verlagert werden.
+Falls eine Annahme des Risikos in Betracht gezogen wird, werden keine Steuerungsmaßnahmen durchgeführt. Bei Milderung oder Verlagerung werden Maßnahmen ergriffen, welche das Risiko eliminieren oder mildern. Beispielsweise ist die Beschaffung von mehr Personal zum Entgegenwirken von krankheitsbedingten Ausfällen eine Maßnahme.[^9]
 
 ## Nutzen im Projektmanagement
-Im [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) dient die Risikomatrix der übersichtlichen Veranschaulichung der Risiken eines Projekts oder Projektgruppe und der Darstellung von der Risikobereitschaft[^13] der Trägerorganisation[^14]. Des Weiteren wird die Matrix zur Priorisierung von Risiken und zur Erhebung von Maßnahmen für das Risikomanagement verwendet[^5].
+Im [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) dient die Risikomatrix der übersichtlichen Veranschaulichung der Risiken eines [Projekts](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md) oder Projektgruppe und der Darstellung von der Risikobereitschaft[^13] der Trägerorganisation[^14]. Des Weiteren wird die Matrix zur Priorisierung von Risiken und zur Erhebung von Maßnahmen für das [Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md) verwendet.[^5]
 
-## Kritik
-Zunächst ist die Aussagekraft der Risikomatrix sehr schwach, da sie nur eine zeitabhängige Darstellung von Einzelrisken ist, bedeutet die Variablen können sich jederzeit verändern. Des Weiteren ist zu verstehen, dass die Wechselwirkungen zwischen den Einzelrisiken, als auch die Dynamik von Einzelrisiken in der Risikomatrix nicht betrachtet werden[^10]. Außerdem ist die Risikomatrix auf eine Binominalverteilung[^15] der Risiken angewiesen, damit die Einzelrisiken durch Schadensausmaß und Eintrittswahrscheinlichkeit bewertet werden können, jedoch ist diese Verteilung im Rahmen eines Unternehmens selten vorzufinden[^3]. Unter anderem sind die qualitativen und quantitativen Aussagen begrenzt, denn viele Risiken mit geringen Wahrscheinlichkeiten und Auswirkungen können äquivalent wirken zu einem Risiko mit großer Wahrscheinlichkeit und Auswirkung[^1].  
+# Kritik
+Zunächst ist die Aussagekraft der Risikomatrix sehr schwach, da sie nur eine zeitabhängige Darstellung von Einzelrisiken ist. Dies bedeutet, dass die Variablen sich jederzeit verändern können. Darunter ist zu verstehen, dass die Wechselwirkungen zwischen den Einzelrisiken als auch die Dynamik von Einzelrisiken in der Risikomatrix nicht betrachtet werden.[^10] 
+
+Außerdem ist die Risikomatrix auf eine Binomialverteilung[^15] der Risiken angewiesen, damit die Einzelrisiken durch Schadensausmaß und Eintrittswahrscheinlichkeit bewertet werden können, jedoch ist diese Verteilung im Rahmen eines Unternehmens selten vorzufinden.[^3] 
+
+Unter anderem sind die qualitativen und quantitativen Aussagen begrenzt, denn viele Risiken mit geringen Wahrscheinlichkeiten und Auswirkungen können äquivalent zu einem Risiko mit großer Wahrscheinlichkeit und Auswirkung sein.[^1]  
 
 # Siehe auch
 * [ALARP](https://de.wikipedia.org/wiki/ALARP)
@@ -48,9 +51,9 @@ Zunächst ist die Aussagekraft der Risikomatrix sehr schwach, da sie nur eine ze
 * [Risikobewertung_von_Umweltrisiken](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikobewertung_von_Umweltrisiken.md)
 
 # Weiterführende Literatur
-* [Risikomatrix Erklärvideo](https://www.youtube.com/watch?v=j_c2qN-waCk)
-* Buch zum Risikomanagement: Risikomanagement von Sascha Saßen, "Fehler vermeiden, melden, analysieren und bewältigen"
-* Buch zur Risikoanalyse: Risikoanalyse von Claudia Cottin und Sebastian Döhler: "Modellierung, Beurteilung und Management von Risiken mit Praxisbeispielen"
+* Video: [Prof. Dr. Stefan Georg,"Risikobewertung und Risikoanalyse im Risikomanagement", veröffentlicht 01.09.2020](https://www.youtube.com/watch?v=j_c2qN-waCk)
+* Buch: Sascha Saßen, "Risikomanagement: Fehler vermeiden, melden, analysieren und bewältigen" 1. Auflage, veröffentlicht 01.02.2019
+* Buch: Claudia Cottin & Sebastian Döhler, "Risikoanalyse: Modellierung, Beurteilung und Management von Risiken mit Praxisbeispielen" 2. Auflage, veröffentlicht 06.12.2012
 
 # Quellen
 [^1]: [Was ist eine Risikomatrix?](https://t2informatik.de/wissen-kompakt/risikomatrix/) Autor: Unbekannt, Aufgerufen 04.11.2021 12:00 Uhr
@@ -64,7 +67,7 @@ Zunächst ist die Aussagekraft der Risikomatrix sehr schwach, da sie nur eine ze
 [^9]: [Risikomatrix](https://project-base.org/projektmanagement-glossar/risikomatrix/) Autor: Unbekannt, Aufgerufen: 03.11.2021 16:00 Uhr
 [^10]: [Risikomanagement und Risikocontrolling](https://www.beck-shop.de/diederichs-risikomanagement-risikocontrolling/product/16441817?adword=google-smec&gclid=CjwKCAiAv_KMBhAzEiwAs-rX1BXsIdeoNIZ9zG10AU4MVbgmR-GcppxSTDbnbPmn1uXm_LYf6E3AORoCD_MQAvD_BwE) Marc Diedrichs: Risikomanagement und Risikocontrolling. 4. Auflage. Vahlen Verlag, München 2012, S. 93–95.
 [^11]: [Eintrittswahrscheinlichkeit](https://de.wikipedia.org/wiki/Eintrittswahrscheinlichkeit)
-[^12]: [Schadenserwartungswertes](https://www.controlling-wiki.com/de/index.php/Risikomanagementsystem_(RMS))
+[^12]: [Schadenserwartungswertes](https://www.controlling-wiki.com/de/index.php/Risikomanagementsystem_(RMS)#Einzelrisikobewertung)
 [^13]: [Risikobereitschaft](https://www.projektmagazin.de/glossarterm/risikobereitschaft)
 [^14]: [Trägerorganisation](https://www.projektmagazin.de/glossarterm/traegerorganisation)
 [^15]: [Binominalverteilung](https://de.wikipedia.org/wiki/Binomialverteilung)
