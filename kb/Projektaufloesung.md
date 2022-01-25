@@ -9,10 +9,11 @@ Jedes zielgerichtete, einmalige [Projekt](Projekt.md) besitzt, neben einem klar 
 # Inhaltsverzeichnis
 * [Archivierung der Unterlagen](#archivierung-der-unterlagen)
 * [Rückgabe aller Ressourcen](#rückgabe-aller-ressourcen)
-* [Abschluss der Buchhaltung und der Projektkostenstellen](#abschluss-der-buchhaltung-und-der-projektkostensetellen)
-* [Vermittlung des Projektpersonaös](#vermittlung-des-projektpersonals)
-* [Organisation von Abschlussveranstaltungen und Erfahrungsaustausch](organisation-von-abschlussveranstaltungen-und-erfahrungsaustausch)
+* [Abschluss der Buchhaltung und der Projektkostenstellen](#abschluss-der-buchhaltung-und-der-projektkostenstellen)
+* [Vermittlung des Projektpersonals](#vermittlung-des-projektpersonals)
+* [Organisation von Abschlussveranstaltungen und Erfahrungsaustausch](#organisation-von-abschlussveranstaltungen-und-erfahrungsaustausch)
 * [Siehe auch](#siehe-auch)
+* [Weiterführende Literatur](#weiterführende-literatur)
 * [Quellen](#quellen)
 <!-- 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
@@ -28,12 +29,12 @@ Bei der Auflösung eines Projekts sind verschiedene Aufgaben zu erledigen, um di
 
 # 	Rückgabe aller Ressourcen
 
-Im Projekt wurden diverse Ressourcen verwendet. Nach Beendigung müssen die Sachmittel zurückgeführt werden. [^5] Beispielsweise sollen Mobiliar, Hardware, Mittel zur [digitalen Kommunikation](Digitate_Kommunikation.md) und vieles mehr[^4] abgegeben werden, da nun kein Nutzen mehr für jene gegeben ist. Weitere Sachmittel, welche einen Nutzen in Zukunft haben könnten, sollten ebenfalls zurückgeführt werden. 
+Im Projekt wurden diverse Ressourcen verwendet. Nach Beendigung müssen die Sachmittel zurückgeführt werden. [^5] Beispielsweise sollen Mobiliar, Hardware, Mittel zur [digitalen Kommunikation](Digitale_Kommunikation.md) und vieles mehr[^4] abgegeben werden, da nun kein Nutzen mehr für jene gegeben ist. Weitere Sachmittel, welche einen Nutzen in Zukunft haben könnten, sollten ebenfalls zurückgeführt werden. 
 
 # 	Abschluss der Buchhaltung und der Projektkostenstellen
 Die Buchhaltung listet die letzten noch offenen Rechnungen auf. Zum Schluss werden dann die Projektkonten und die Projektkostenstelle im Buchhaltungssystem geschlossen. [^6]
 # Vermittlung des Projektpersonals
-Zunächst wird durch die Auflösung des Projekts der [Projektleiter](Projektleiter) entlastet[^5] und es werden die Projektteams und Gremien offiziell aufgelöst. Über die Auflösung des Projektteams muss weiterhin kommuniziert werden. Jeder [Projektmitarbeiter](Projektmitarbeiter.md), aber auch der Projektleiter müssen einen neuen Aufgabenbereich finden bzw. einem neuen Aufgabenbereich zugeteilt werden. [^4]Dies erweist sich als einfacher, wenn das Projekt ein Erfolg war und die angestrebten Ziele erreicht wurden. Die schwierigste, aber auch die wichtigste Aufgabe bei der Projektauflösung, ist die Integration jedes Beteiligten in ein neues Projekt und in ein neues Aufgabengebiet.[^5] Im Laufe des Projekts haben sich oft Kompetenzen und Beziehungen gebildet, welche unbedingt für den weiteren allgemeinen Führungs- und Leistungsprozess gesichert werden müssen.[^2] Außerdem sind diese Kompetenzen und Beziehungen sehr wertvoll für zukünftige Projekte. Bevor also komplett aufgelöst wird, sind diese unbedingt zu sichern. Nachdem verstanden wurde, welche Stärken eine Person im letzten Projekt gezeigt hat, kann dieser Mitarbeiter in eine für ihn perfektes Projekt vermittelt werden. Auch der Projektleiter soll anhand seiner Kompetenzen in ein für ihn vorteilhaftes Projekt übergeben werden. Hier ist vor allem ein sozialer und psychologischer Hintergrund gegeben[^5], welcher nachvollzogen und verstanden werden muss. 
+Zunächst wird durch die Auflösung des Projekts der [Projektleiter](Projektleiter.md) entlastet[^5] und es werden die Projektteams und Gremien offiziell aufgelöst. Über die Auflösung des Projektteams muss weiterhin kommuniziert werden. Jeder [Projektmitarbeiter](Projektmitarbeiter.md), aber auch der Projektleiter müssen einen neuen Aufgabenbereich finden bzw. einem neuen Aufgabenbereich zugeteilt werden. [^4]Dies erweist sich als einfacher, wenn das Projekt ein Erfolg war und die angestrebten Ziele erreicht wurden. Die schwierigste, aber auch die wichtigste Aufgabe bei der Projektauflösung, ist die Integration jedes Beteiligten in ein neues Projekt und in ein neues Aufgabengebiet.[^5] Im Laufe des Projekts haben sich oft Kompetenzen und Beziehungen gebildet, welche unbedingt für den weiteren allgemeinen Führungs- und Leistungsprozess gesichert werden müssen.[^2] Außerdem sind diese Kompetenzen und Beziehungen sehr wertvoll für zukünftige Projekte. Bevor also komplett aufgelöst wird, sind diese unbedingt zu sichern. Nachdem verstanden wurde, welche Stärken eine Person im letzten Projekt gezeigt hat, kann dieser Mitarbeiter in eine für ihn perfektes Projekt vermittelt werden. Auch der Projektleiter soll anhand seiner Kompetenzen in ein für ihn vorteilhaftes Projekt übergeben werden. Hier ist vor allem ein sozialer und psychologischer Hintergrund gegeben[^5], welcher nachvollzogen und verstanden werden muss. 
 #	Organisation von Abschlussveranstaltungen und Erfahrungsaustausch
 Die Organisation von Abschlussveranstaltungen ist nicht zwingend notwendig, jedoch können diese zum emotionalen Abschluss des Projekts beitragen.[^7] Das Team hat während des Projekts Höhen und Tiefen durchlebt, welche aber schlussendlich zu einem erfolgreichen Projekt geführt haben. Eine offizielle Veranstaltung ermöglicht den Mitgliedern einen persönlichen Ausstieg aus dem Projekt und hilft dem Projektteam mit bester Motivation in ihr neues Projekt zu starten. Noch dazu könnte ein Erfahrungsaustausch in regelmäßigen Abständen organisiert werden, um die Ergebnisse und die Erfahrungen eines Projektes in die Projektplanung neuer Projekte einfließen zu lassen. [^4]
 # Siehe auch
@@ -41,13 +42,19 @@ Die Organisation von Abschlussveranstaltungen ist nicht zwingend notwendig, jedo
 * [Projekt](Projekt.md)
 * [Projektabbruch](Projektabbruch.md)
 * [Projektabschluss](Projektabschluss.md)
-* [Projektabschlussbericht](Projektanschlussbericht.md)
-* [Projektdokumentation](Projektdokumentation)
+* [Projektabschlussbericht](Projektabschlussbericht.md)
+* [Projektdokumentation](Projektdokumentation.md)
 * [Projektkommunikation](Projektkommunikation.md)
 * [Projektleiter](Projektleiter.md)
-* [Projektmanagment](Projektmanagment.md)
+* [Projektmanagement](Projektmanagement.md)
 * [Projektmitarbeiter](Projektmitarbeiter.md)
-* [Projektphasen klassisch](Projektphasen_klassisch)
+* [Projektphasen klassisch](Projektphasen_klassisch.md)
+
+# Weiterführende Literatur 
+
+* Litke, H. D., Kunow, I., & Schulz-Wimmer, H. (2018). Projektmanagement (Vol. 200). Haufe-Lexware.
+* Broy, M., & Kuhrmann, M. (2013). Projektabschluss. In Projektorganisation und Management im Software Engineering. Springer Vieweg, Berlin, Heidelberg.
+* Hoffmann, K. (2013). Projektabschluss–systematisch und konsequent. Basiswissen Projektmanagement–Projekte steuern und erfolgreich beenden.
 
 # Quellen
 
