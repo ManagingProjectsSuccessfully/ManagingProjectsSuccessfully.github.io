@@ -4,14 +4,14 @@ tags: agil
 author: Eugen0209
 anrechnung: a
 ---
-In einem Projekt sind viele Menschen beteiligt, die ein komplexes soziales Gefüge voller Unterschiede bilden. Dabei ist die soziale Kompetenz der beteiligten Personen, auch [Soft Skills](Softskills_im_Projektmanagement.md) genannt, von entscheidender Bedeutung. Abgesehen von den inhaltlichen und fachlichen Faktoren beeinflussen die menschlichen, also die „weichen Faktoren“, den Erfolg eines Projekts maßgeblich. Die Projektarbeit kann aber nur in einem Team erfolgen, welche als Projektteam zielgerichtet kreative Lösungsansätze für komplizierte Problemstellungen erarbeitet. Hierbei haben die verschiedenen Teammitglieder zugewiesene Rollen und Kompetenzen, die sie im Projekt ausüben. Im Folgenden werden die Projektrollen ausführlich erläutert.[^1][^2]
+In einem Projekt sind viele Menschen beteiligt, die ein komplexes soziales Gefüge voller Unterschiede bilden. Dabei ist die soziale Kompetenz der beteiligten Personen, auch [Soft Skills](Softskills_im_Projektmanagement.md) genannt, von entscheidender Bedeutung im [Projektmanagement](Projektmanagement.md). Abgesehen von den inhaltlichen und fachlichen Faktoren beeinflussen die menschlichen, also die „weichen Faktoren“, den Erfolg eines [Projekts](Projekt.md) maßgeblich. Die Projektarbeit kann aber nur in einem Team erfolgen, welche als [Projektteam](Projektteam_Kultur.md) zielgerichtet kreative Lösungsansätze für komplizierte Problemstellungen erarbeitet. Hierbei haben die verschiedenen Teammitglieder zugewiesene [Rollen](Rollen_klassisch.md) und Kompetenzen, die sie im Projekt ausüben. Im Folgenden werden die Projektrollen ausführlich erläutert.[^1][^2]
 
 # Projektrollen
 
 *	Projektauftraggeber: Er gilt als erfolgskritisch, da er Aufträge delegiert und der Vertragspartner des Projekts ist. Der Auftraggebende hat an Projektsitzungen teilzunehmen und muss strategische Entscheidungen treffen.
-*	Projektleiter: Die Durchführung und Zielerreichung des Projekts muss er sicherstellen. Der Leiter übernimmt die Führung des Teams und muss methodische, fachliche sowie soziale Kompetenzen aufweisen. Der Projektverlauf muss ständig kontrolliert und das Controlling der Arbeit durchgeführt werden. Management von Stakeholdern, Ausübung und Limitation von Macht, Grenzziehung, Überprüfung bei der Einhaltung von sozialen Regeln und die Konfliktauflösung zählen zu weiteren Aufgabengebieten.
-*	Projektmitglied: Muss das fachliche Know-How vorweisen. Selbstbewusstsein, Flexibilität und Durchsetzungsvermögen sind Voraussetzung. Aber auch die Mitglieder müssen sozial anpassungsfähig sein und gemeinsam eine Lösung finden.
-*	Projektcoach: Der Coach berät das Team während der Planungsphase und hilft bei der Konfliktbewältigung innerhalb der Gruppe. Rahmenbedingungen für die Entwicklung werden vorgegeben, dennoch muss er den „roten Faden“ verfolgen und dessen Einhaltung überprüfen.[^1][^3]
+*	[Projektleiter](Projektleiter.md): Die Durchführung und Zielerreichung des Projekts muss er sicherstellen. Der Leiter übernimmt die Führung des Teams und muss methodische, fachliche sowie soziale Kompetenzen aufweisen. Der Projektverlauf muss ständig kontrolliert und das Controlling der Arbeit durchgeführt werden. [Stakeholdermanagement](Stakeholdermanagement.md), Ausübung und Limitation von Macht, Grenzziehung, Überprüfung bei der Einhaltung von sozialen Regeln und die [Konfliktauflösung](Konfliktmanagement.md) zählen zu weiteren Aufgabengebieten.
+*	Projektmitglied/[Projektmitarbeiter](Projektmitarbeiter.md): Muss das fachliche Know-How vorweisen. Selbstbewusstsein, Flexibilität und Durchsetzungsvermögen sind Voraussetzung. Aber auch die Mitglieder müssen sozial anpassungsfähig sein und gemeinsam eine Lösung finden.
+*	Projektcoach: Der Coach berät das Team während der [Projektplanung](Projektplanung.md) in der Planungsphase und hilft bei der Konfliktbewältigung innerhalb der Gruppe. Rahmenbedingungen für die Entwicklung werden vorgegeben, dennoch muss er den „roten Faden“ verfolgen und dessen Einhaltung überprüfen.[^1][^3]
 
 
 ## Projektleiter
@@ -26,20 +26,21 @@ Aus der Abbildung wird ersichtlich, dass für die befragten Teilnehmer kommunika
 
 # Soziale Kompetenz
 
-Ein Projektleiter und die anderen Teilnehmer müssen sich an Regeln halten und eine gewisse soziale Kompetenz im Umgang mit dem Gegenüber aufweisen. Diese lässt sich in verschiedene Komponenten aufteilen, die bei der Kommunikation und Zielerreichung förderlich sind. Teamkompetenz, Empathie, Problemlösungsfähigkeit, Konfliktfähigkeit, Reflexionsfähigkeit, Kritikfähigkeit und Führungskompetenz stellen wichtige Grundlagen dar.[^4]
+Ein Projektleiter und die anderen Teilnehmer müssen sich an Regeln halten und eine gewisse soziale Kompetenz im Umgang mit dem Gegenüber aufweisen. Diese lässt sich in verschiedene Komponenten aufteilen, die bei der [Kommunikation](Kommunikation_Projektbeteiligte.md) und Zielerreichung förderlich sind. Teamkompetenz, Empathie, Problemlösungsfähigkeit, Konfliktfähigkeit, Reflexionsfähigkeit, Kritikfähigkeit und Führungskompetenz stellen wichtige Grundlagen dar.[^4]
 
-# Erfolgsfaktoren eines Projekts
+# Erfolgsfaktoren und Folgen für das Unternehmen
 
 Damit ein Projekt erfolgreich beendet werden kann, müssen einige Prinzipien eingehalten werden. Das gesamte Team muss am Ende abliefern, denn das Projekt sollte penibel strukturiert sein, klare Zielvorgaben für alle Projektteilnehmer haben, Verantwortung den entsprechenden Personen zuweisen, transparent mit dem Projektzustand umgehen, die Risiken frühzeitig erkennen, schnell auf Probleme und Störungen reagieren und detailliert bei der Projektanalyse vorgehen.[^1]
 
-# Fazit und Folgen für das Unternehmen 
-
-Daraus lassen sich Konsequenzen für das Unternehmen und die Projektleitung ableiten. Es soll vermehrt Wert auf soziale Aspekte in den andauernden Projekten gelegt werden. Andererseits müssen Projektleiter und zum Beispiel IT-Mitarbeiter soziale und kommunikative Fähigkeiten in Schulungen verbessern. Bei der Führungskompetenz der Projektleiter muss erheblich nachgebessert werden. Abschließend sollte mehr Unterstützung z. B. durch Projektcoaching zur Verfügung gestellt werden.[^2]
+Daraus lassen sich Konsequenzen für das Unternehmen und die Projektleitung ableiten. Es soll vermehrt Wert auf soziale Aspekte in den andauernden Projekten gelegt werden. Andererseits müssen Projektleiter und zum Beispiel IT-Mitarbeiter soziale und kommunikative Fähigkeiten in Schulungen verbessern. Bei der Führungskompetenz der Projektleiter muss erheblich nachgebessert werden. Abschließend sollte mehr Unterstützung z.B. durch Projektcoaching zur Verfügung gestellt werden.[^2]
 
 
 # Siehe auch
 
+* [Projektmanagement](Projektmanagement.md)
 * [Soft Skills im Projektmanagement](Softskills_im_Projektmanagement.md)
+* [Projektteam](Projektteam_Kultur.md)
+* [Kommunikation](Kommunikation_Projektbeteiligte.md)
 
 # Weiterführende Literatur
 
