@@ -14,6 +14,7 @@ wiederkehrender Aufgaben[^10]. Zur Visualisierung der Aufgaben kann eine Timelin
 ## 3. Visualisierung mit Gantt-Chart 
 Awork bietet die Möglichkeit mit einem [Gantt-Diagramm](Gantt_Diagramme.md), also einer Timeline, den zeitlichen Ablauf eines Projekts zu visualisieren. Relevante Aufgaben können dafür per Drag-and-Drop in die Timeline gezogen werden. Zudem können Meilensteine, Abhängigkeiten und Projektphasen definiert werden[^3]. 
 ![Beispielabbildung](Awork_PM_Tool/Timeline.png)
+Abbildung: Beispielhafte Timeline[^9]
 ## 4. Kanban-Boards
 Das [Kanban-Board](Kanban.md) kann individuell angepasst werden und dient der Abbildung des Arbeitsablaufs[^6]. 
 ## 5. Integrierte Zeiterfassung 
@@ -22,6 +23,7 @@ Awork ermöglicht das Tracken der Zeit für Projekte und Aufgaben über einen Ti
 Auf dem Dashboard[^2], der graphischen Benutzeroberfläche, können relevante Funktionen übersichtlich abgelegt werden, was eine bedarfsorientierte und individuelle Anpassung ermöglicht. 
 Dafür können verschiedene Widgets ausgewählt werden, beispielsweise Textnotiz, Aufgabenliste, Projektliste, Zeitauswertung und Abwesenheit von Usern[^4].
 ![Beispielabbildung](Awork_PM_Tool/Dashboard_Bild.jpg)
+Abbildung: Beispielhaftes Dashboard[^4]
 ## 7. Weitere Funktionen
 * Überblick über Auslastung, Teamplanung und Abwesenheit mit der Ressourcenplanung 
 * Aufgabenchat: Teamkommunikation und Feedback 
@@ -32,7 +34,7 @@ Nach den 14 Tagen der kostenlosen Testversion sind nur zahlungspflichtige Abonne
 # Auf welchen Geräten kann man awork verwenden? 
 Für die Arbeit mit awork wird nur ein Browser benötigt. Die Software funktioniert plattformunabhängig. Zusätzlich gibt es eine App für iOS und Android[^1]. 
 # Welche Integrationen gibt es? 
-Bei awork können verschiedene Anwendungen integriert werden. Für viele Tools gibt es eine direkte Möglichkeit der Integration. Andere Tools können über Zapier, ein verküpfender Web-Service, integriert werden[^11]. 
+Bei awork können verschiedene Anwendungen integriert werden. Für viele Tools gibt es eine direkte Möglichkeit der Integration. Andere Tools können über Zapier, ein verknüpfender Web-Service, integriert werden[^11]. 
 
 Beispiele: 
 * Google-, Apple-Kalender 
