@@ -5,7 +5,7 @@ author: alexandermueller296
 anrechnung: k
 ---
 
-Pionierprojekte werden durch die Anzahl der Durchführung gekennzeichnet. Bei dieser Art ist entscheidend, dass es zum ersten Mal umgesetzt wird. Man spricht von einmaligen Projekten, "die in der Gesamtheit ihrer Bedingungen einmalig sind und in dieser Form noch nie durchgeführt wurden." Sobald das Projekt öfters durchgeführt wird, spricht man von [Routineprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Routineprojekte.md).[^1]  
+Pionierprojekte werden durch die Anzahl der Durchführungen gekennzeichnet. Bei dieser Art ist entscheidend, dass es zum ersten Mal umgesetzt wird. Man spricht von einmaligen Projekten, "die in der Gesamtheit ihrer Bedingungen einmalig sind und in dieser Form noch nie durchgeführt wurden." Sobald das Projekt öfters durchgeführt wird, spricht man von [Routineprojekten](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Routineprojekte.md).[^1]  
 
 ## Eigenschaften von Pionierprojekten
 * sehr risikoreich, da keine Erfahrungsberichte ([Risikomanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Risikomanagement.md))
@@ -18,7 +18,7 @@ Pionierprojekte werden durch die Anzahl der Durchführung gekennzeichnet. Bei di
 Familie Hellwasser in Otterfing entschied sich für den Anbau von Gemüse in Bio-Qualität. „Weil es richtig ist, wegzukommen von Pflanzenschutzmitteln und übertriebenen Produktionsmengen“, war ihre Aussage. Nach der Ernte verkaufen Sie ihre erzeugten Lebensmittel im eignen Hofladen und auf dem regionalen Wochenmarkt. Sie bekamen sehr positiven Zuspruch von ihren Kunden über ihr Pionierprojekt zum Anbau von saisonalem und regionalem Gemüse.[^3]
 
 ### 2.selbstgemachtes Wärmenetz in Westerham
-In Westerham hat Herr Helmut Schulte ein Pilotprojekt gestartet. Durch eine notwendige Häusersanierung wollte er eine nachhaltige Möglichkeit die Häuser zu heizen. Dies wurde zuerst mit Gas, anschließend mit Hackschnitzelheizung und Nahwärmenetz umgesetzt. Das überschüssige Restholz seiner Landwirtschaft wurde vom Restprodukt zum Brennholz und somit heizt er nun mit CO2 neutralen Brennstoff. Aktuell arbeitet er an neuen Projekten, wie zum Beispiel einem Blockheizkraftwerk und der Vernetzung von Photovoltaikanlagen, sodass er immer weniger abhängig ist.[^3]
+In Westerham hat Herr Helmut Schulte ein Pionierprojekt gestartet. Durch eine notwendige Häusersanierung wollte er eine nachhaltige Möglichkeit die Häuser zu heizen. Dies wurde zuerst mit Gas, anschließend mit Hackschnitzelheizung und Nahwärmenetz umgesetzt. Das überschüssige Restholz seiner Landwirtschaft wurde vom Restprodukt zum Brennholz und somit heizt er nun mit CO2 neutralen Brennstoff. Aktuell arbeitet er an neuen Projekten, wie zum Beispiel einem Blockheizkraftwerk und der Vernetzung von Photovoltaikanlagen, sodass er immer weniger abhängig ist.[^3]
 
 ### 3.Bartang has a Future!
 In Bartang herrscht eine sehr hohe Arbeitsmigration. Deshalb werden durch „Bartang has a Future“ verschiedene „Pionierprojekte“ der Einheimischen gefördert und dadurch eine Möglichkeit geschaffen, das Potential der Region zu fördern.
