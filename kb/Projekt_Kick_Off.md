@@ -1,13 +1,13 @@
 ---
 title: Projekt_Kick_Off
-tags: agil klassisch
+tags:  klassisch
 author: MariaKaisa
-anrechnung: k oder a
+anrechnung: k 
 ---
 
 # Definition
 
-Der Begriff Project Kick Off ,oder auch Kick- off Veranstaltung/ Meeting genannt, stammt aus dem Projektmanagement und ist ein Treffen des Projektteams zur Beginn eines Projekts oder einer Projektphase. Dabei liegt es zeitlich nach der Projektplanung und vor dem eigentlichen Projektstart. Hierbei wird das Projekt vorgestellt, Ziele festgelegt und Teammitglieder motiviert.  
+Der Begriff Project Kick Off oder auch Kick- off Veranstaltung/ Meeting genannt, stammt aus dem Projektmanagement und ist ein Treffen des Projektteams zu Beginn eines Projekts oder einer Projektphase. Dabei liegt es zeitlich nach der Projektplanung und vor dem eigentlichen Projektstart. Hierbei wird das Projekt vorgestellt, Ziele festgelegt und Teammitglieder motiviert. [^2]
 
  
  
@@ -16,26 +16,23 @@ Der Begriff Project Kick Off ,oder auch Kick- off Veranstaltung/ Meeting genannt
 
 1.[Ziele des Project Kick Off](#ziele-des-project-kick-pff) 
 
-2.[Vorbereitung des Meeting](vorbereitung-des-meeting) 
+2.[Vorbereitung des Meeting](#vorbereitung-des-meeting) 
 
-3.[Ablauf des Kick Off Meetings](ablauf-des-kick-off-meetings)
+3.[Ablauf des Kick Off Meetings](#ablauf-des-kick-off-meetings)
 
-4.[Fehler eines Meetings](fehler-eines-meetings)
+4.[Fehler eines Meetings](#fehler-eines-meetings)
 
-5.[Zusammenfassung](zusammenfassung)
+5.[Zusammenfassung](#zusammenfassung)
 
-6.[Quellen](quellen) 
+6.[Quellen](#quellen) 
 
  
 
 # Ziele des Project Kick Off 
 
  
-Das Kick Off dient dazu, dass Klarheit bezüglich der Projektziele geschaffen wird und ist dabei oftmals der erste Berührungspunkt zwischen Kunden oder Sponsoren und des Projektteams.   
-Dabei bietet das Kick Off eine Gelegenheit das Team auf den selben Wissensstand zu bringen und über den Umfang des Projekts aufzuklären, sich auf die anstehenden Aufgaben einzustimmen und über die Arbeitsverteilung zu entscheiden. Außerdem werden Projektziele und auch Kontrolltermine festgelegt, sodass ein Zeitplan erstellt werden kann, damit Verzögerungen des Projekts vermieden werden können.[^1]
-Somit wird durch das Kick Off Meeting inhaltliche, personelle und organisatorische Rahmenbedingungen des Projekts geklärt, sodass das gesamte Projekt aufgrund des organisierten Starts auf den richtigen Weg geleitet wird.  
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu  
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.  [^2]
+Das Kick Off dient dazu, dass Klarheit bezüglich der Projektziele geschaffen wird und ist dabei oftmals der erste Berührungspunkt zwischen Kunden oder Sponsoren und des Projektteams. Dabei bietet das Kick Off eine Gelegenheit das Team auf den selben Wissensstand zu bringen und über den Umfang des Projekts aufzuklären, sich auf die anstehenden Aufgaben einzustimmen und über die Arbeitsverteilung zu entscheiden. Außerdem werden Projektziele und auch Kontrolltermine festgelegt, sodass ein Zeitplan erstellt werden kann, damit Verzögerungen des Projekts vermieden werden können.[^1]
+Somit wird durch das Kick Off Meeting inhaltliche, personelle und organisatorische Rahmenbedingungen des Projekts geklärt, sodass das gesamte Projekt aufgrund des organisierten Starts auf den richtigen Weg geleitet wird.  [^2]
 
  
 
@@ -61,15 +58,14 @@ Der Ablauf des Meetings ist stark von den Faktoren abhängig wie dem Erfahrungsh
 [^2]
 ![bild](Projekt_Kick_Off/kick-off-meeting.jpg
 ) [^4]
-
+*wichtige Bestandteile eines Kick- Off- Meetings* 
  
 
 # Fehler eines Meetings  
 
 Folgende Punkte sollen vermieden werden, da diese die Erwartungen des Projektteams in eine falsche Richtung lenken könne und somit den Erfolg des Projekts beeinträchtigen kann.  
 Es ist wichtig, dass das Meeting nicht in Form eines Vortrags aufgebaut ist und einseitige Kommunikation nicht überwiegt. Alle Projektbeteiligten sollten ins Gespräch eingebunden sein. Dabei sollten strittige Punkte vorab geklärt worden sein, damit keine Negativdiskussion entsteht, da diese das Projekt in Gefahr führen kann.  
-Zudem können diese Punkte auch die Motivation der Mitarbeiter minimieren, welche folglich Einfluss auf den Erfolg des Projekts hat.  
-
+Zudem können diese Punkte auch die Motivation der Mitarbeiter minimieren, welche folglich Einfluss auf den Erfolg des Projekts hat.[^2]
 # Zusammenfassung  
 
 Das Kick- Off- Meeting ist ein Grundstein für eine erfolgreiche Projetkabwicklung und schafft Klarheit wie auch Transparenz. Zudem bringt das Kick-Off- Meeting alle Projektbeteiligten auf den gleichen Informationsstand und schafft ein gewisses Bewusstsein über die strategische Stoßrichtung des Projektes. Als weiteres erhalten die Beteiligten einen ersten Überblick über inhaltlichen und terminlichen Projektverlauf.  [^3]
@@ -79,11 +75,10 @@ Das Kick- Off- Meeting ist ein Grundstein für eine erfolgreiche Projetkabwicklu
 # Quellen 
 
 
-[^1] :  
-https://www.atlassian.com/work-management/project-management/project-kickoff 
-[^2] : (https://karrierebibel.de/kick-off-meeting/) 
-[^3] : (https://dieprojektmanager.com/checkliste-kick-off-meeting-projekte/) 
-[^4] : https://www.inloox.de/projektmanagement-glossar/kick-off-veranstaltung/
+[^1]: Nailing your perfect Kick Off https://www.atlassian.com/work-management/project-management/project-kickoff 
+[^2]: karrierebibel.de, 12 Tipps(https://karrierebibel.de/kick-off-meeting/) 
+[^3]: Kickoff Meeting von Projekten (https://dieprojektmanager.com/checkliste-kick-off-meeting-projekte/) 
+[^4]: https://www.inloox.de/projektmanagement-glossar/kick-off-veranstaltung/
 
 
 
