@@ -5,7 +5,7 @@ author: up67enyq
 anrechnung: k 
 ---
 
-New Work ist ein philosophischer Denkansatz des Sozialphilosophen Frithjof Bergmann der Anfang der 1980er Jahre begründet wurde.[^1][^7] Er beschreibt eine neue Art der Arbeit unter der Annahme das alte Arbeitssystem sei überholt.[^2]
+New Work ist ein philosophischer Denkansatz des Sozialphilosophen Frithjof Bergmann, der Anfang der 1980er Jahre begründet wurde.[^1][^7] Er beschreibt eine neue Art der Arbeit unter der Annahme das alte Arbeitssystem sei überholt.[^2]
 
 
 
@@ -15,7 +15,6 @@ So erarbeitete er das Konzept "New Work".
 Es bestand daraus, dass die Angestellten sechs Monate in der Fabrik arbeiten und den Rest des Jahres, zusammen mit dem neu gegründeten "Zentrum für neue Arbeit", herausfinden was sie "wirklich, wirklich" wollen. Das Ziel war nicht Entlassungen zu verhindern, sondern Zeit zur professionalisierten Berufungsfindung zu geben.[^7][^6]
 
 # Philosophie
-## Grundannahmen
 
 New Work stellt zwei Annahmen in den Vordergrund:
 * Arbeit kann Leben nehmen sowie geben.
@@ -24,8 +23,8 @@ New Work stellt zwei Annahmen in den Vordergrund:
 Daraus leitet Bergmann den Ausdruck "Armut der Begierde" ab.
 Menschen leiden häufig darunter, dass ihre Begierde nachlässt und das Wollen durch die Erziehung unterdrückt wird.[^5]
 
-Es geht beim New Work darum diesen Mangel abzubauen und in den Arbeitenden eine Verbindung zwischen Sehnsucht, Leidenschaft, Erfüllung und Arbeit herzustellen.[^2]
-Um Arbeit mit Begierde und positiven Eigenschaften zu verbinden postuliert Bergmann des Weiteren den Zentralen Ausdruck <b>"wirklich, wirklich wollen"</b>. 
+Es geht bei der neuen Arbeit darum diesen Mangel abzubauen und in den Arbeitenden eine Verbindung zwischen Sehnsucht, Leidenschaft, Erfüllung und Arbeit herzustellen.[^2]
+Um Arbeit mit Begierde und positiven Eigenschaften zu verbinden postuliert Bergmann des Weiteren den Zentralen Ausdruck des <b>"wirklich, wirklich Wollen"</b>. 
 Die bewusst gewählte Dopplung verdeutlicht, dass hiermit keine einmalige Überlegung gemeint ist, sondern eine wiederkehrende Auseinandersetzung mit der eigenen Begierde.[^1]
 Es soll die Beschäftigung gefunden werden die das Leben erfüllt und nicht als ein milderes Übel angesehen wird. New Work versucht zwischen dem "wirklich, wirklich Wollen" und dem "davon leben Können" eine Brücke zu schlagen.[^2][^5]
 
@@ -38,29 +37,29 @@ Bergmann bezeichnet dieses Verständnis jedoch als "Lohnarbeit im Minirock" und 
 
 Im Gegensatz dazu gibt es Unternehmen die versuchen New Work zu verstehen und auf die Anforderungen der Wirtschaft anzupassen.
 
-Ein Beispiel hierfür ist die humanfy GmbH.
+Ein Beispiel hierfür ist die "humanfy GmbH".
 
-Die von Humanfy definierte "New Work Charter" zeigt wie aus der ursprünglichen recht einfachen Doktrin des "wirklich, wirklich Wollens" ein umfassendes Mitarbeiterkonzept entstanden ist. Die Methodik beinhaltet die wichtigsten Punkte um die ursprünglichen Anforderungen von New Work mit der heutigen Unternehmenskultur zu versöhnen.[^4]
+Die von "humanfy" definierte "New Work Charter" zeigt, wie aus der ursprünglichen recht einfachen Doktrin des "wirklich, wirklich Wollens" ein umfassendes Mitarbeiterkonzept entstanden ist. Die Methodik beinhaltet die wichtigsten Punkte um, die ursprünglichen Anforderungen von New Work mit der heutigen Unternehmenskultur zu versöhnen.[^4]
 
 
 ![New Work Charta](New_Work/new_work.jpg)
 
 
-*Die 5 Prinzipien von New Work (Ausgearbeitet von Humanfy)*[^3]
+*Die 5 Prinzipien von New Work*[^3]
 
 
 
 # New Work im Projektmanagement
 In der "New Work Charta" wird verdeutlicht, dass das heutige Verständnis von New Work eher ein agiles ist. Der Mensch soll frei, selbstverantwortend, sinnhaft, sich weiterentwickelnd und mit sozialer Verantwortung arbeiten. 
 
-Um den Mitarbeitenden eine erfüllende Beschäftigung zu bieten, orientieren sich auch viele Konzepte des Projektmanagements bewusst oder unbewusst an den Grundpfeilern der "New Work Charta" und erfüllen so Anforderungen an New Work. Eine Auswahl dieser Konzepte ist:
+Um den [Mitarbeitenden](Projektmitarbeiter.md) eine erfüllende Beschäftigung zu bieten, orientieren sich auch viele Konzepte des [Projektmanagements](Projektmanagement.md) bewusst oder unbewusst an den Grundpfeilern der "New Work Charta" und erfüllen so Anforderungen an New Work. Eine Auswahl dieser Konzepte ist:
 
 * <b> [Feedback Kultur](Feedback_Kultur.md)</b>
  
   Das Geben und Nehmen von Rückmeldungen wird in einer Feedback Kultur als Kernkompetenz verstanden und soll die Mitarbeiterentwicklung anregen. Die Feedback Kultur ist somit ein Beispiel für den Punkt "Entwicklung" der New Work Charta.[^1][^3]
 * <b> [Vision](Projekt_Vision.md) </b>
   
-  Die verinnerlichte und verbildlichte Zukunftsvorstellung, auf die sich das Unternehmen bezieht, ist was eine Vision ausmacht.[^1] Die Vision dient dem Unternehmen als Wegweiser und Bild der Zukunft welches die Mitarbeiter leiten und motivieren soll. Somit ist die Vision dem Unterpunkt "Sinn" der New Work Charta zuzuordnen.[^1][^3]
+  Die verinnerlichte und verbildlichte Zukunftsvorstellung, auf die sich das Unternehmen bezieht, ist was eine Vision ausmacht.[^1] Die Vision dient dem Unternehmen als Wegweiser und Bild der Zukunft welches die [Mitarbeitenden](Projektmitarbeiter.md) leiten und motivieren soll. Somit ist die Vision dem Unterpunkt "Sinn" der New Work Charta zuzuordnen.[^1][^3]
 * <b> [Retrospektive](Retrospective.md) </b>
 
   Um Arbeitsprozesse und Ergebnisse zu reflektieren, werden sogenannte Retrospektiven veranstaltet. Das Ziel dieser Teammeetings besteht darin, Lerneffekte aus Arbeitsprozessen abzuleiten und als Team und Individuum dazuzulernen. Durch den kontinuierlichen Lerneffekt ist dieses Projektmanagementkonzept dem Punkt "Entwicklung" der New Work Charta zuzuschreiben.[^1][^3]
@@ -70,6 +69,7 @@ Um den Mitarbeitenden eine erfüllende Beschäftigung zu bieten, orientieren sic
 
 # Siehe auch
 
+* [Projektmanagements](Projektmanagement.md)
 * [Feedback Kultur](Feedback_Kultur.md)
 * [Vision](Projekt_Vision.md)
 * [Retrospektive](Retrospective.md)
