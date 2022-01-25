@@ -56,6 +56,8 @@ Die Qualitätssicherung (QS) verfolgt das Ziel, Produkte und Dienstleistungen mi
 
 # Quellen
 
-[^1] : https://www.vario-software.de/lexikon/qualitaetssicherung/
+[^1] : [Vergleiche in der Qualitätssicherung](https://www.vario-software.de/lexikon/qualitaetssicherung/)
 
-[^2] : https://wirtschaftslexikon.gabler.de/definition/qualitaetssicherung-44396#:~:text=Die%20Qualit%C3%A4tssicherung%20umfasst%20als%20Bestandteil,Produkts%20oder%20einer%20Dienstleistung%20dienen.
+[^2] : [Grundlagen der Industriebetriebslehre](https://wirtschaftslexikon.gabler.de/definition/qualitaetssicherung-44396#:~:text=Die%20Qualit%C3%A4tssicherung%20umfasst%20als%20Bestandteil,Produkts%20oder%20einer%20Dienstleistung%20dienen.)
+
+[Qualitätssicherung Technik](https://whatis.techtarget.com/de/definition/Qualitaetssicherung-QS)
