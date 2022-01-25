@@ -42,10 +42,10 @@ Im Kern besteht Scrum at Scale aus zwei parallel verlaufenden Prozessen:
 2. einem **Scrum Master Zyklus**, der das ‚Wie‘ der Entwicklungsarbeiten festlegt.
 
 ## 1. Product Owner Zyklus
-Konzentrieren wir uns zunächst auf das ‚Was‘. In jedem nach Scrum arbeitenden Entwicklungsteam verantwortet ein Product Owner ein Teil des Produkts. Die Product Owners von bis zu fünf Scrum Teams finden sich in einem Product Owner Team zusammen, ein sogenannter Chief Product Owner (CPO) fungiert als oberster Repräsentant. Gemeinsam arbeiten die Product Owner eine Produktvision & -roadmap sowie eine Definition of Done heraus. Zudem identifizieren Sie Abhängigkeiten und Redundanzen mit Hilfe eines gemeinsamen Product Backlogs. Übersteigt die Produktgröße 25 entwickelnde Teams, dann wird ein Executive MetaScrum (EMS) ins Leben gerufen. Diese oberste Instanz setzt die strategischen Prioritäten und Ziele für das Gesamtergebnis.[^4]
+Es wird sich zunächst auf das ‚Was‘ konzentriert. In jedem nach Scrum arbeitenden Entwicklungsteam verantwortet ein Product Owner ein Teil des Produkts. Die Product Owners von bis zu fünf Scrum Teams finden sich in einem Product Owner Team zusammen, ein sogenannter Chief Product Owner (CPO) fungiert als oberster Repräsentant. Gemeinsam arbeiten die Product Owner eine Produktvision & -roadmap sowie eine Definition of Done heraus. Zudem identifizieren Sie Abhängigkeiten und Redundanzen mit Hilfe eines gemeinsamen Product Backlogs. Übersteigt die Produktgröße 25 entwickelnde Teams, dann wird ein Executive MetaScrum (EMS) ins Leben gerufen. Diese oberste Instanz setzt die strategischen Prioritäten und Ziele für das Gesamtergebnis.[^4]
 
 ## 2. Scrum Master Zyklus 
-Kommen wir nun zum ‚Wie‘ Zyklus. Scrum at Scale sieht bis fünf Scrum Teams ein SoS Team vor. Ein Scrum-of-Scrums Master (SoSM) stellt dabei die Einhaltung von Scrum at Scale in allen Teams sicher. Sein Fokus liegt insbesondere auf organisatorischer, prozessualer und inhaltlicher Integration. Steigt Produktumfang und -komplexität weiter an, ist damit eine größere Entwicklungsmannschaft erforderlich, wächst Scaled at Agile weiter zum Scrum-of-Scrums-of-Scrums Ansatz. Das Limit liegt nun bei 25 synchronisierten Teams. Nun ist ebenfalls ein Execution Action Team (EAT) bestehend aus einem Product Owner und Scrum Master erforderlich. Ausgestattet mit einem politischen Mandat und ausreichendem Budget verantwortet und optimiert das EAT organisationsübergreifend die Ablaufqualität von Scrum auf Basis eines Organizational Transformation Backlogs.[^4]
+Das ‚Wie‘ spielt auch eine Rolle. Scrum at Scale sieht bis fünf Scrum Teams ein SoS Team vor. Ein Scrum-of-Scrums Master (SoSM) stellt dabei die Einhaltung von Scrum at Scale in allen Teams sicher. Sein Fokus liegt insbesondere auf organisatorischer, prozessualer und inhaltlicher Integration. Steigt Produktumfang und -komplexität weiter an, ist damit eine größere Entwicklungsmannschaft erforderlich, wächst Scaled at Agile weiter zum Scrum-of-Scrums-of-Scrums Ansatz. Das Limit liegt nun bei 25 synchronisierten Teams. Nun ist ebenfalls ein Execution Action Team (EAT) bestehend aus einem Product Owner und Scrum Master erforderlich. Ausgestattet mit einem politischen Mandat und ausreichendem Budget verantwortet und optimiert das EAT organisationsübergreifend die Ablaufqualität von Scrum auf Basis eines Organizational Transformation Backlogs.[^4]
 
 # Zusammenfassung
 
@@ -72,7 +72,7 @@ Scale: The Next FrontierTorgeir Din](https://ieeexplore.ieee.org/stamp/stamp.jsp
 
 [^1]:[How to scale Scrum across a company with the help of Scrum@Scale](https://hygger.io/guides/agile/agile-at-scale/scrumscale/)
 [^2]:[Scrum@Scale – Ein echtes “Scrum of Scrums” Framework](https://digitaleneuordnung.de/blog/scrum-at-scale/)
-[^3]:[The Scrum@Scale Guide] (ttps://www.scruminc.com/wp-content/uploads/2014/07/Scrum-at-Scale-A-Modular-Approach.pdf)
+[^3]:[The Scrum@Scale Guide](https://www.scruminc.com/wp-content/uploads/2014/07/Scrum-at-Scale-A-Modular-Approach.pdf)
 [^4]:[Scrum At Scale – die wichtigsten Infos zum agilen Skalierungsansatz](https://www.palladio-consulting.de/scrum-at-scale/)
 
 
