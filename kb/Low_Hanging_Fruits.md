@@ -11,19 +11,32 @@ anrechnung: k
 
 # Low Hanging Fruits
 
-Low Hanging Fruits -zu deutsch "niedrig hängende Früchte"- bezeichnet Aufgaben, welche mit minimalem Aufwand einen maximalen Ertrag erzielen. Metaphorisch sind es die niedrig hängenden Obststücke, welche man besonders einfach und ohne große Mühe von einem Baum pflücken kann. Hoch hängende Früchte dagegen, sind schwerer zu erreichen und mit zusätzlichen Aufwänden verbunden. Low Hanging Fruits haben so ein überdurchschnittlich hohes Kosten-Nutzen-Verhältnis[^1] 
+Low Hanging Fruits - zu Deutsch "niedrig hängende Früchte"- bezeichnet Aufgaben, welche mit minimalem Aufwand einen maximalen Ertrag erzielen. Metaphorisch sind es die niedrig hängenden Obststücke, welche man besonders einfach und ohne große Mühe von einem Baum pflücken kann. Hoch hängende Früchte sind dagegen schwerer zu erreichen und mit zusätzlichen Aufwänden oder Kosten verbunden. So würde man erst eine Leiter benötigen, um diese pflücken zu können.
+Low Hanging Fruits haben somit ein überdurchschnittlich hohes Kosten-Nutzen-Verhältnis[^1] 
 
-![Baum mit low hanging fruits](Low_Hanging_Fruits/istockphoto-981592510-612x612.jpg)[^5]
+![Baum mit low hanging fruits](Low_Hanging_Fruits/istockphoto-981592510-612x612.jpg)
+
+*Abbildung eines Baumes mit hängenden Äpfeln*[^5]
 
 # Low Hanging Fruits in der Betriebswirtschaft
 
-Der Begriff Low Hanging Fruits wird zu meist im Business-Bereich benutzt und beschreibt dort jene Aufgaben, die mit wenig Aufwand verhältnismäßig viel Umsatz generieren. Die Low Hanging Fruits können sich von Unternehmen zu Unternehmen relativ stark unterscheiden. Im Vertrieb beispielsweise gehören besonders so gennante Komplementärgüter zu den Low Hanging Fruits. Komplementärgüter sind dabei diejenigen Güter, die gemeinsam nachgefragt werden, weil sie sich in ihrem Nutzen ergänzen. Ein Handy-Händler bietet so neben dem Hauptprodukt, den Handys, noch Komplementärgüter wie etwa Schutzhüllen, Ladegeräte und Panzerfolien an[^2]. So kündigte beispielsweise der Smartphone-Hersteller Apple im Oktober 2020 während einem Präsentationsprogramm an, dass zukünftige Smartphones ohne Netzteil und Kopfhörer ausgeliefert werden. Damit wechselte das iPhone-Netzteil von einem inkludierten Gut zu einem komplementärem Gut und somit zu einem neuen Low Hanging Fruit für Apple[^3].
+Der Begriff Low Hanging Fruits wird zumeist im Business-Bereich benutzt und beschreibt dort jene Aufgaben, die mit wenig Aufwand verhältnismäßig viel Umsatz generieren. Die Low Hanging Fruits können sich von Unternehmen zu Unternehmen relativ stark unterscheiden. Im Vertrieb beispielsweise, gehören besonders so genannte Komplementärgüter zu den Low Hanging Fruits. Komplementärgüter sind dabei diejenigen Güter, die gemeinsam nachgefragt werden, weil sie sich in ihrem Nutzen ergänzen. Ein Handy-Händler bietet so neben dem Hauptprodukt, den Handys, noch Komplementärgüter wie etwa Schutzhüllen, Ladegeräte und Panzerfolien an[^2]. 
+Der Smartphone-Hersteller Apple kündigte so im Oktober 2020 während einer  Keynote  an, dass zukünftige Smartphones ohne Netzteil und Kopfhörer ausgeliefert werden. Damit wechselte das iPhone-Netzteil von einem inkludierten Gut zu einem komplementärem Gut und somit zu einem neuen Low Hanging Fruit für Apple[^3]. Denn Apple schaffte es so mit relativ wenig Aufwand, nämlich das Netzteil einfach nicht mehr im Lieferumfang einzuschließen, zusätzlichen Umsatz zu generieren.
 
 # Die Low Hanging Fruit Matrix
 
-Effektives und zielgerichtetes Arbeiten ist essentiell für den Erfolg von bestehenden [Projekten](https://github.com/jonaskarg187/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md). Im Rahmen des [Projektmanagement](https://github.com/FCN478/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) stellt besonders die Priorisierung bestimmter Aufgaben eine wichtige Herausforderung dar. Die Anzahl an Aufgaben zum Erreichen eines Projekts kann so überwältigend sein, dass es von großer Bedeutung ist diese sinnvoll nach Dringlichkeit, Aufwand und Ertrag zu ordnen. So garantiert man, dass besonders jene Aufgaben mit einem sehr guten Aufwand-Ertrags-Verhältnis zu erst erledigt werden. Diese Aufgaben stellen somit die Low Hanging Fruits im Projektmanagement dar und sorgen für einen besonders effektiven Projekteverlauf. Das direkte Gegenteil dazu sind die so genannten "Rooten Tomatoes"- zu deutsch verfaulte Tomaten. Diese Aufgaben sind mit einem besonders hohen Aufwand verbunden, liefern jedoch einen verhältnismäßig kleinen Ertrag und somit vorerst direkt auszusortieren. Neben den Low Hanging Fruits und Rotten Tomatoes auf beiden Extremen, gibt es noch die "Harmless Weeds" und die "Cream of the Crop" dazwischen.
-Die Harmless Weeds stellen dabei Aufgaben mit wenig Aufwand aber auch wenig Ertrag dar. Aufgaben mit einem hohen Aufwand aber auch einem großen Ertrag werden als Cream of the Crop bezeichnet. 
-Da jedoch verschiedene Teammitglieder je nach Spezifizierungsbereich auch verschiedene Prioritäten haben ist es besonders wichtig die Kategorisierung der Aufgaben gemeinsam als Team vorzunehmen[^4]. Für eine effektive Aufgaben-Kategorisierung nach der Low Hanging Fruits Matrix, mit der alle Teammitglieder einigermaßen zufrieden sein sollte, ist folglich vorzugehen: 
+Effektives und zielgerichtetes Arbeiten ist essentiell für den Erfolg von bestehenden [Projekten](https://github.com/jonaskarg187/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekt.md). Im Rahmen des [Projektmanagement](https://github.com/FCN478/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) stellt besonders die Priorisierung bestimmter Aufgaben eine wichtige Herausforderung dar. Die Anzahl an Aufgaben zum Erreichen eines Projekts kann so überwältigend sein, dass es von großer Bedeutung ist diese sinnvoll nach Dringlichkeit, Aufwand und Ertrag zu ordnen. So garantiert man, dass besonders jene Aufgaben mit einem sehr guten Aufwand-Ertrags-Verhältnis zu erst erledigt werden. Diese Aufgaben stellen somit die Low Hanging Fruits im Projektmanagement dar und sorgen für einen besonders effektiven Projekteverlauf.
+Das direkte Gegenteil dazu sind die so genannten "Rotten Tomatoes"- zu Deutsch verfaulte Tomaten. Diese Aufgaben sind mit einem besonders hohen Aufwand verbunden, liefern jedoch einen verhältnismäßig kleinen Ertrag und sind somit vorerst direkt auszusortieren. 
+  Neben den Low Hanging Fruits und Rotten Tomatoes auf beiden Extremen, gibt es noch die "Harmless Weeds" und die "Cream of the Crop".
+Die Harmless Weeds stellen dabei Aufgaben mit wenig Aufwand aber auch wenig Ertrag dar. Aufgaben mit einem hohen Aufwand aber auch einem großen Ertrag werden als Cream of the Crop bezeichnet[^4]. 
+
+![Low Hanging Fruit Matrix](Low_Hanging_Fruits/neuMSP.png)
+
+*Low Hanging Fruit Matrix*[^6]
+
+
+
+Da jedoch verschiedene Teammitglieder je nach Spezifizierungsbereich auch verschiedene Prioritäten haben ist es besonders wichtig die Kategorisierung der Aufgaben gemeinsam als Team vorzunehmen[^4]. Für eine effektive Aufgaben-Kategorisierung nach der Low Hanging Fruits Matrix, mit der alle Teammitglieder einigermaßen zufrieden sein sollten, ist folglich vorzugehen: 
 
 1. Der Moderator/ Projektmanager führt ein Brainstorming-Gespräch über potenzielle Projekte mit dem Projektteam
 2. Vergabe von Nummern für jedes mögliche Projekt 
@@ -43,4 +56,4 @@ Da jedoch verschiedene Teammitglieder je nach Spezifizierungsbereich auch versch
 [^3]: [iPhone ohne Netzteil: Deshalb fühlen sich viele Nutzer abgezockt](https://www.maclife.de/news/iphone-ohne-netzteil-deshalb-fuehlen-sich-viele-nutzer-abgezockt-mac-life-100117824.html)
 [^4]: [Low-Hanging Fruit Matrix - Lean Six Sigma for the Office](https://theleansixsigmaoffice.com/2017/03/18/low-hanging-fruit-matrix/)
 [^5]: [Apfelbaum](https://www.istockphoto.com/de/grafiken/apfelbaum)
-
+[^6]: [Abbildung Low Hanging Fruit Matrix](https://www.einstein1.net/low-hanging-fruits/)
