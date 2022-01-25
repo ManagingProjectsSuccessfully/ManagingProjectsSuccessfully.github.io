@@ -1,6 +1,6 @@
 ---
 title: Programmmanagement
-tags: agil klassisch
+tags: klassisch
 author: si18k1
 anrechnung: k
 ---
@@ -10,7 +10,7 @@ anrechnung: k
 Im Folgenden soll nun aber insbesondere auf das Programmmanagement (PM) eingegangen werden und dabei geklärt werden, was dieses eigentlich bedeutet, wie es sich von verwandten Begriffen abgrenzen lässt und welche Eigenschaften es besitzt. Darüber hinaus werden auch die Aufgaben eines Programmmanagers sowie der allgemeinen Nutzen betrachtet.
 
 
-# 1. Begriffsklärung
+# Begriffsklärung
 
 Der Begriff des Programmmanagements besteht insgesamt aus zwei Wörtern. 
 
@@ -21,12 +21,12 @@ Zum anderen ist aber auch das Management Teil des Begriffs. Dieses beschreibt im
 Fasst man die beiden Begriffsdefinitionen nun zusammen, so beschreibt das Programmmanagement „die zeitlich befristete Aufgabe, ein Programm zu planen, zu leiten und dessen Controlling durchzuführen für eine deﬁnierte Menge inhaltlich zusammengehöriger Projekte.“[^4]
 
 
-# 2. Eigenschaften
+# Eigenschaften
 
 Programme sind grundlegend Managementaufgaben auf Zeit. Auch besteht meist eine entsprechende Komplexität und ein gewisser Umfang.[^1] Die Projekte innerhalb des Programms sind oftmals miteinander verbunden und hängen dabei voneinander ab. Im Vordergrund steht das Erreichen des strategischen Ziels durch die Koordination von Maßnahmen und Projekten. Die Bedeutung für das Unternehmen ist meist von strategischer Natur.[^4]
 
 
-# 3. Abgrenzung
+# Abgrenzung
 
 Das PM besitzt meist zyklische oder sich wiederholende Vorgänge. 
 
@@ -35,7 +35,7 @@ Im Vergleich dazu fokussiert sich das Projektmanagement auf ein einzelnes Projek
 Projektportfolio bezeichnet dagegen die Zusammenfassung aller geplanten, genehmigten und laufenden Projekte und Programme eines Unternehmens.[^1]
 
 
-# 4. Aufgaben des Programmmanagers
+# Aufgaben des Programmmanagers
 
 Innerhalb des Programmmanagements gibt es verschiedene Rollen und Aufgaben. In diesem Abschnitt soll aber explizit auf die Aufgaben des Programmmanagers eingegangen werden.
 Unter anderem hat der Programmmanager die Entscheidungsbefugnis zwischen den Projekten die Start- und Endtermine, das Budget sowie die Ressourcen zu verschieben.[^4] 
@@ -47,7 +47,7 @@ Weitere wichtige Verantwortungsbereiche eines Programmmanagers sind:
 -	sowie die Kommunikation und Berichterstattung des Programmfortschritts.[^5]
 
 
-# 5. Nutzen
+# Nutzen
 
 Der wesentliche Nutzen des Programmmanagements ist die effektivere und effizientere Planung und Steuerung aller Projekte eines Programms. Der Fokus liegt vor allem auf der Optimierung der Ressourcenverfügbarkeit. Des Weiteren bringt der meist vollständige Überblick über das Gesamtprojekt weitere Vorteile mit sich: zum einen können die Risiken schneller beurteilt und minimiert werden. Zum anderen wird aber auch das Aufstellen von Zeitplänen enorm vereinfacht.[^6]
 
@@ -55,8 +55,12 @@ All dies ist im Folgenden auch noch einmal grafisch dargestellt:
 
 <img width="463" alt="image" src="https://user-images.githubusercontent.com/92787078/142223425-9181f238-a35a-4bff-81e0-d61c49513f95.png">
 
+Abbildung 1: Nutzen des Programmmanagements
 
-# 6. Fazit
+Quelle: Eigene Darstellung
+
+
+# Fazit
 
 Insgesamt lässt sich also festhalten, dass es keine einheitliche Definition des Programmmanagements gibt und diese dadurch stark variiert. 
 
@@ -71,6 +75,8 @@ Eine striktere Abgrenzung von weiteren Managementbegriffen erscheint dennoch sin
 * [Projektportfoliomanagement](Projektportfoliomanagement.md)
 * [Projectmanagement](Who_is_Who_Projectmanagement.md)
 * [Projekt](Projekt.md)
+* [Internationale Projektmanagement Standards](Internationale_Projektmanagement_Standards.md)
+* [Typische Projektmanagement Fallstricke](Typische_Projektmanagement_Fallstricke.md)
 
 # Abkürzungsverzeichnis
 
