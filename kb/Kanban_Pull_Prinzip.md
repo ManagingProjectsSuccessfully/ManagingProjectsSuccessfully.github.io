@@ -7,9 +7,9 @@ anrechnung: a
 
 Das Kanban Pull-Prinzip, auch genannt ziehende Fertigung, ist ein Steuerungsverfahren des agilen Projektmanagements, um flexibel und kundenorientiert arbeiten zu können. 
 
-# Kanban Pull-Prinzip 
+# Definition 
 
-[Kanban](https://managingprojectssuccessfully.github.io/kb/Kanban.html) ist eine Methode des agilen Projektmanagements für Bestandsführung und Produktionssteuerung, welche auf dem Pull-Prinzip beruht. Das System Kanban steuert den Materialfluss und die Produktion nach dem Pull-Prinzip. 
+[Kanban](https://managingprojectssuccessfully.github.io/kb/Kanban.html) ist eine Methode des agilen [Projektmanagements](https://managingprojectssuccessfully.github.io/kb/Projektmanagement.html) für Bestandsführung und Produktionssteuerung, welche auf dem Pull-Prinzip beruht. Das System Kanban steuert den Materialfluss und die Produktion nach dem Pull-Prinzip. 
 
 Bei Kanban orientiert sich die Materialbereitstellung damit ausschließlich am Verbrauch des Produktions- oder Logistikablaufs. [^1]
 
@@ -29,7 +29,7 @@ Durch das Pull-Prinzip wird, wie der Name schon darstellt, das Beschaffungsmanag
 Eine just-in-time Lieferung ist deshalb sehr wichtig, damit die Produktionsdauer so kurz wie möglich gehalten werden kann. 
 
 Alle Akteure der Lieferkette müssen sich genau abstimmen, um eine schnelle Lieferung gewährleisten zu können. Dies erfordert eine enge Zusammenarbeit mit Lieferanten und externen Partnern. 
-Wie Sie hier in der Grafik sehen können, lösen nachgelagerte Prozesse vorhergehende aus. [^3]
+Wie man hier in der Grafik sehen kann, lösen nachgelagerte Prozesse vorhergehende aus. [^3]
 
 
 ![Systematik des Pull-Prinzips](https://raw.githubusercontent.com/LindaStu/ManagingProjectsSuccessfully.github.io/main/kb/Kanban_Pull_Prinzip/Pull-Prinzip.png)
@@ -48,17 +48,19 @@ Wie Sie hier in der Grafik sehen können, lösen nachgelagerte Prozesse vorherge
 
 * Abhängigkeit: Lieferschwierigkeiten oder Ausfälle stoppen die Produktion sofort und der Kunde muss warten [^3]
 
-## Wichtigkeit, um Pull-Prinzip erfolgreich anwenden zu können
+## Tipps, um Pull-Prinzip erfolgreich anwenden zu können
 
-Um das Kanban Pull-Prinzip erfolgreich im Unternehmen integrieren zu können bedarf es eine richtige Strategie für das Liefermanagement. Zudem sind verlässliche Partner oder auch mehrere Lieferanten sehr wichtig, um so die Risiken von Produktionsstopps und Verzögerungen zu senken. [^3]
+Für Unternehmen, die ihre Abläufe optimieren und Kosten senken wollen, lohnt sich die Umstellung mit aller notwendigen Vorarbeit. Die Abstimmung jedes einzelnen Prozessschrittes ist von großer Bedeutung für den Erfolg des Pull-Prinzips. Dies betrifft sowohl die interne Koordination als auch die Abstimmung mit Lieferanten und Kunden. Werden die Informationsflüsse aufrechterhalten, rechnet sich der Mehraufwand bei der Einführung. 
+
+Um das Kanban Pull-Prinzip erfolgreich im Unternehmen integrieren zu können, bedarf es einer richtigen Strategie für das Liefermanagement. Zudem sind verlässliche Partner oder auch mehrere Lieferanten sehr wichtig, um so die Risiken von Produktionsstopps und Verzögerungen zu senken. [^3]
 
 # Siehe auch
 
-* [Kanban](Kanban.md)
-* [Kanban Boards](Kanban_Boards.md)
-* [Kanban Karten](Kanban_Karten.md)
-* [Kanban Swim Lanes](Kanban_Swim_Lanes.md)
-* [Kanban Work in Progress](Kanban_Work_in_Progress.md)
+* [Kanban](https://managingprojectssuccessfully.github.io/kb/Kanban.html)
+* [Kanban Boards](https://managingprojectssuccessfully.github.io/kb/Kanban_Boards.html)
+* [Kanban Karten](https://managingprojectssuccessfully.github.io/kb/Kanban_Karten.html)
+* [Kanban Swim Lanes](https://managingprojectssuccessfully.github.io/kb/Kanban_Swim_Lanes.html)
+* [Kanban Work in Progress](https://managingprojectssuccessfully.github.io/kb/Kanban_Work_in_Progress.html)
 
 # Weiterführende Literatur
 
