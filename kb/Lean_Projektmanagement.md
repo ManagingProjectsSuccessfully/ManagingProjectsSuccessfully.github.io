@@ -1,58 +1,48 @@
 ---
 title: Lean_Projektmanagement
-tags: agil klassisch
+tags: agil
 author: nicolasrmg
 anrechnung: a
 ---
 
 
 
-
-## 1.	Definition
 **Lean** = Einstellung / Denkweise / systematischer Ansatz zur Beseitigung von Verschwendung
 
-**Lean Project Management** (kurz LPM) ist in erster Linie eine Einstellung zur Durchführung von [Projekten](Projekt.md). Es ist eine Denkweise, die darauf abzielt, Verschwendung zu vermeiden, Projekte effizienter und effektiver zu gestalten und Kunden und Auftraggeber besser bedienen zu können.[^2]
+**Lean Project Management** (kurz LPM) ist in erster Linie eine Einstellung zur Durchführung von [Projekten](Projekt.md). Es ist eine Denkweise, die darauf abzielt, Verschwendung zu vermeiden, Projekte effizienter und effektiver zu gestalten und Kunden und Auftraggeber besser bedienen zu können[^2].
 
-## 2.	Toyota-Produktionssystem
-Lean-Management findet seinen Ursprung in den 50er Jahren im japanischen [Toyota-Produktionssystem](Toyota_Produktionssystem.md), welches Verschwendung vermeidet, interne Abläufe und die Interaktion mit Lieferanten und Kunden optimiert und somit dem Prinzip der „Just-in-time-Produktion“ folgt.[^1] Toyota fasst drei Hauptquellen für Verschwendung: [Muda](Muda_7_Arten_von_Verschwendung.md), Mura und Muri.[^4]
+## Toyota-Produktionssystem
+Lean-Management findet seinen Ursprung in den 50er Jahren im japanischen [Toyota-Produktionssystem](Toyota_Produktionssystem.md). Es vermeidet Verschwendung, optimiert interne Abläufe und die Interaktion mit Lieferanten und Kunden und folgt somit dem Prinzip der „Just-in-time-Produktion“[^1]. Toyota fasst drei Hauptquellen für Verschwendung: [Muda](Muda_7_Arten_von_Verschwendung.md), Mura und Muri[^4].
 
-**Muda** bedeutet verschwendete Zeit und Mühe. Es umfasst alles was getan oder an Ressourcen eingesetzt wird, was für die Stakeholder in keiner Weise einen Mehrwert oder Nutzen bringt.[^4]
+## Anwendung im Projektmanagement
+Die Philosophie des Lean wurde in den 90er Jahren erstmalig als Management-Methode eingeführt[^3]. Anfang der 2000er Jahre begann man schließlich auch damit, diese Grundsätze auf das [Projektmanagement](Projektmanagement.md) anzuwenden[^2].
 
-**Mura** bedeutet Unausgeglichenheit. Es meint einen ungleichmäßigen, inkonsistenten Produktionsprozess, der zu Zeit- und Ressourcenverschwendung führt.[^4] LPM versucht, Mura durch Standardisierung zu überwinden.[^2]
+Die fünf Kernprinzipien des Lean Management von Womack und Jones eignen sich für den Übergang vom Lean Management zum Lean Project Management. Das Grundprinzip besteht darin, überflüssige Aktivitäten bzw. Verschwendung zu reduzieren[^6].
 
-**Muri** bezeichnet Überlastung, Unzumutbarkeit, Stress und all die Folgen, die entstehen, wenn Menschen hart arbeiten und mehr leisten müssen, als sie in der zur Verfügung stehenden Zeit schaffen können, aber auch, wenn Maschinen überlastet sind und deshalb ihre Wartungsintervalle versäumt werden und diese schließlich ausfallen.[^2]
+**1. Betrachtung des Nutzens aus Sicht des Kunden.** Die Produkte werden genau auf die Bedürfnisse des Kunden zugeschnitten, um den größtmöglichen Nutzen aus Kundensicht zu erzielen[^4]. Der Wert kann die Qualität, der Zeitrahmen oder der Preis der Leistung sein. In der Praxis ist dies häufig eine Kombination[^5].
 
-## 3.	Anwendung im Projektmanagement
-Die Philosophie des Lean, wurde in den 90er Jahren erstmalig als Management-Methode eingeführt.[^3] Anfang der 2000er Jahre begann man schließlich auch damit, diese Grundsätze auf das [Projektmanagement](Projektmanagement.md) anzuwenden.[^2]
+**2. Identifizierung des Wertstroms.** Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produktes erforderlich sind[^5]. Das bedeutet, dass eine detaillierte Betrachtung der Prozesse zur Erstellung des Produktes erforderlich ist. Was nicht notwendig ist, ist Verschwendung[^6].
 
-Die fünf Kernprinzipien des Lean Management von Womack und Jones eignen sich für den Übergang vom Lean Management zum Lean Project Management. Das Grundprinzip besteht darin, überflüssige Aktivitäten bzw. Verschwendung zu reduzieren.[^6]
+**3. Umsetzung des Flussprinzips.** Beim Flussprinzip geht es darum, den gesamten Wertstrom zu optimieren und nicht nur einzelne Abschnitte zu betrachten. Der Fokus liegt auf dem Gesamtfluss und den Engpässen innerhalb des Gesamtflusses. Die Aktivitäten des Wertstroms sollen so reibungslos wie möglich ablaufen können[^6].
 
-**1. Betrachtung des Nutzens aus Sicht des Kunden.** Die Produkte werden genau auf die Bedürfnisse des Kunden zugeschnitten, um den größtmöglichen Nutzen aus Kundensicht zu erzielen.[^4] Der Wert kann die Qualität, der Zeitrahmen oder der Preis der Leistung sein - erfahrungsgemäß ist es aber ein bisschen von allen dreien.[^5]
+**4. Pull statt Push.** Es wird (nur) gemacht, was gefordert ist. Jede Stelle im Wertschöpfungsprozess „holt“ sich die Aufgaben, die verrichtet werden müssen, von der vorangegangenen Stelle ab. Der Fluss im Wertstrom wird also vom Ergebnis „gezogen“, nicht vom Startpunkt des Prozesses „geschoben“. Auf diese Weise wird sichergestellt, dass nur die Leistungen erbracht werden, die der Kunde auch tatsächlich nachfragt[^3].
 
-**2. Identifizierung des Wertstroms.** Der Wertstrom beschreibt alle Aktivitäten, die zur Herstellung des Produktes erforderlich sind.[^5] Das bedeutet, dass eine detaillierte Betrachtung der Prozesse zur Erstellung des Produktes notwendig ist. Alles was hierfür nicht notwendig ist, ist Verschwendung.[^6]
+**5. Perfektion.** Das bedeutet, dass Perfektion nicht erreicht werden muss, aber immer angestrebt werden sollte. Hier kommt der Gedanke des kontinuierlichen Verbesserungsprozesses auf, denn es wird immer Formen der Verschwendung und Ansätze zur Verbesserung geben[^3].
 
-**3. Umsetzung des Flussprinzips.** Beim Flussprinzip geht es darum, den gesamten Wertstrom zu optimieren und nicht nur einzelne Abschnitte zu betrachten. Der Fokus liegt auf dem Gesamtfluss und den Engpässen innerhalb des Gesamtflusses. Die Aktivitäten des Wertstroms sollen so reibungslos wie möglich ablaufen können.[^6]
+Bei diesen fünf Kernprinzipien fällt auf, dass nur das erste Kernprinzip eine externe, d.h. kundenorientierte Sichtweise beinhaltet, während die Kernprinzipien zwei bis fünf auf interne Prozesse ausgerichtet sind[^6].
 
-**4. Pull statt Push.** Es wird (nur) das gemacht, was gefordert ist. Jede Stelle im Wertschöpfungsprozess „holt“ sich die Aufgaben, die verrichtet werden müssen, von der vorangegangenen Stelle ab. Der Fluss im Wertstrom wird also vom Ergebnis „gezogen“, nicht vom Startpunkt des Prozesses „geschoben“. Auf diese Weise wird sichergestellt, dass nur die Leistungen erbracht werden, die der Kunde auch tatsächlich nachfragt.[^3]
-
-**5. Perfektion.** Das bedeutet, dass Perfektion nicht erreicht werden muss, aber immer angestrebt werden sollte. Hier kommt der Gedanke des kontinuierlichen Verbesserungsprozesses auf, denn es wird immer Formen der Verschwendung und Ansätze zur Verbesserung geben.[^3]
-
-Bei diesen fünf Kernprinzipien fällt auf, dass nur das erste Kernprinzip eine externe, d.h. kundenorientierte Sichtweise beinhaltet, während die Kernprinzipien zwei bis fünf auf interne Prozesse ausgerichtet sind.[^6]
 
 ![Abbildung](Lean_Projektmanagement/lean-principles.png)
 
 ### *Die 5 Lean Prinzipien*[^7]
 
-## 4.	Lean vs Agile
-Häufig werden die Begriffe Lean und Agile im selben Kontext verwendet, was nicht ganz korrekt ist. Sowohl Lean als auch Agile beschreiben eine Art und Weise, wie man wertschöpfungsorientiert an die Arbeit herangehen kann, aber sie empfehlen hierfür etwas andere Wege. Lean stammt aus der Produktion und ist eher ein systematischer Ansatz, eine unternehmensweite Methode zur Rationalisierung der Wertschöpfung. Agile hingegen wurzelt in der Softwareentwicklung und zielt zwar auch darauf ab, möglichst schnell einen hohen Nutzen zu erzeugen, doch geschieht dies eher durch kurze Iterationen und die Perfektionierung der Teamzusammenarbeit.[^4] Lean-Projekte haben eine ähnliche iterative Struktur wie agile Projekte, mit dem wichtigen Unterschied, dass der Kunde Teil des Lean-Management-Prozesses ist.[^1]
 
-Doch fließen auch Lean-Prinzipien direkt in das agile Projektmanagement und die ihm zugrunde liegende Philosophie, sowie in einige der Methoden ein, die agile Projektmanager anwenden. Ein klares Beispiel ist [Kanban](Kanban.md), das selbst Teil des Toyota-Produktionssystems ist und in vielen Projektumgebungen, insbesondere bei [IT-Projekten](IT-Projekte.md), sehr erfolgreich eingesetzt wird.[^3] Auch das grundlegende agile Prinzip des Plan-Do-Review, welches die [SCRUM](SCRUM.md)-Methodik prägt, ist ebenso ein Bestandteil des Lean-Gedankens.[^2]
+## Lean vs Agile
+Sowohl Lean als auch Agile beschreiben eine Art und Weise, wie man wertschöpfungsorientiert an die Arbeit herangehen kann, aber sie empfehlen hierfür unterschiedliche Vorgehensweisen. Lean stammt aus der Produktion und ist eher ein systematischer Ansatz, eine unternehmensweite Methode zur Rationalisierung der Wertschöpfung. Agile hingegen wurzelt in der Softwareentwicklung und zielt zwar auch darauf ab, möglichst schnell einen hohen Nutzen zu erzeugen, doch geschieht dies eher durch kurze Iterationen und die Perfektionierung der Teamzusammenarbeit[^4]. Lean-Projekte haben eine ähnliche iterative Struktur wie agile Projekte, mit dem wichtigen Unterschied, dass der Kunde Teil des Lean-Management-Prozesses ist[^1].
 
-Sowohl Lean als auch Agile Teams helfen dabei, besser zu arbeiten und Kunden eine höhere Qualität zu liefern. So ist es nicht unüblich, dass Organisationen die Empfehlungen beider Methoden nutzen, um die bestmöglichen Ergebnisse zu erzielen.[^4]
+Doch fließen auch Lean-Prinzipien direkt in das agile Projektmanagement und die ihm zugrunde liegende Philosophie und Methoden ein. Ein klares Beispiel ist [Kanban](Kanban.md), das selbst Teil des Toyota-Produktionssystems ist und in vielen Projektumgebungen, insbesondere bei [IT-Projekten](IT-Projekte.md), sehr erfolgreich eingesetzt wird[^3]. Auch das grundlegende agile Prinzip des Plan-Do-Review, welches die [SCRUM](SCRUM.md)-Methodik prägt, ist ein Bestandteil des Lean-Gedankens[^2].
 
-
-
-
+Sowohl Lean als auch Agile Teams helfen dabei, besser zu arbeiten und Kunden eine höhere Qualität zu liefern. So ist es nicht unüblich, dass Organisationen die Empfehlungen beider Methoden nutzen, um die bestmöglichen Ergebnisse zu erzielen[^4].
 
 
 
