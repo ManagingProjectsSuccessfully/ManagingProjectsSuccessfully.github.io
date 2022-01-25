@@ -5,9 +5,11 @@ author: patrick203494
 anrechnung: a
 ---
 
-**Impediments** (engl.: *„Behinderungen“*) beschreiben Hindernisse und Störungen aller Art, die während eines [Scrum](SCRUM.md) - Projekts auftreten. Sie schränken die Mitglieder eines Projektteams bei der Erfüllung ihrer Aufgaben (zum Beispiel der Erreichung eines [Sprint](Sprint.md) - Ziels) ein. [^1]
+Das **Impediment Backlog** wird zumeist zur Visualisierung und Priorisierung von Impediments verwendet. [^1]
 
-Das **Impediment Backlog** wird zumeist zur Visualisierung und Priorisierung von Impediments verwendet. Darin werden bestehende Hindernisse mit dem Ziel zusammengefasst, sie so schnell wie möglich zu überwinden. [^1][^2]
+Generell beschreiben **Impediments** (englisch für *„Behinderungen“*) Hindernisse und Störungen aller Art, die während eines [Scrum](SCRUM.md) - Projekts auftreten. Sie schränken die Mitglieder eines Projektteams bei der Erfüllung ihrer Aufgaben (zum Beispiel der Erreichung eines Sprint - Ziels) ein. [^1]
+
+Mithilfe des Impediment Backlogs werden bestehende Hindernisse mit dem Ziel zusammengefasst, sie so schnell wie möglich zu überwinden. [^1][^2]
 
 
 # Beispiele für Impediments
@@ -45,7 +47,7 @@ Impediment Backlogs können in unterschiedlichsten Darstellungen geführt werden
 
 # Verantwortlichkeit für Impediments im Scrum-Prozess
 
-Gemäß dem [Scrum Guide](Scrum_Guide.md) 2020 liegt die schnellstmögliche Beseitigung von Impediments in der Verantwortung des [Scrum Masters](Scrum_Master.md). 
+Gemäß dem Scrum Guide 2020 liegt die schnellstmögliche Beseitigung von Impediments in der Verantwortung des [Scrum Masters](Scrum_Master.md). 
 Somit ist er auch für die Dokumentation der Hindernisse im Impediment Backlog zuständig. Wie genau er bei der Erfüllung dieser Aufgabe vorzugehen hat, ist jedoch nicht festgelegt.  [^1][^5]
 
 Das reine Ermitteln der Störungen selbst ist dagegen nicht nur die Aufgabe des Scrum Masters, sondern die des gesamten Projektteams. [^5]
@@ -53,7 +55,7 @@ Das reine Ermitteln der Störungen selbst ist dagegen nicht nur die Aufgabe des 
 
 # Idealtypischer Ablauf für den Umgang mit Impediments
 
-**1. Aufnehmen:** In den meisten Fällen stößt man während der [Daily Scrums](Daily_Scrum.md) auf Impediments. Diese können dann direkt im Backlog dokumentiert und im Nachgang besprochen werden.[^6]
+**1. Aufnehmen:** In den meisten Fällen stößt man während der Daily Scrums auf Impediments. Diese können dann direkt im Backlog dokumentiert und im Nachgang besprochen werden.[^6]
 Der Hinweis auf ein Impediment kann einerseits durch die Projektmitglieder erfolgen, oder der Scrum Master selbst erkennt weniger offenkundige Probleme und bringt sie zur Sprache.[^2]
 
 
