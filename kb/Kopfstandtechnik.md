@@ -10,6 +10,19 @@ Die Kopfstandtechnik ist eine Kreativitätstechnik und wird auch als Umkehrtechn
 Ziel ist es, mit Hilfe eines unkonventionellen Denkmusters den Lösungsraum für ein Problem zu erweitern.
 Da die Technik das Ziel verfälscht, ist sie eine [Provokationstechnik](Provokationstechnik.md). [^2]
 
+# Gliederung
+
+* [Einführung](Kopfstandtechnik.md#Einführung)
+* [Gliederung](Kopfstandtechnik.md#Gliederung)
+* [Vorgehensweise](Kopfstandtechnik.md#Vorgehensweise)
+* [Erweiterungen und Tipps](Kopfstandtechnik.md#Erweiterungen und Tipps)
+* [Vorteile & Nachteile](Kopfstandtechnik.md#Vorteile & Nachteile)
+* [Beispiele](Kopfstandtechnik.md#Beispiele)
+* [Fazit](Kopfstandtechnik.md#Fazit)
+* [Weiterführende Links](Kopfstandtechnik.md#Weiterführende Links)
+* [Weiterführende Literatur](Kopfstandtechnik.md#Weiterführende Literatur)
+* [Quellen](Kopfstandtechnik.md#Quellen)
+
 # Vorgehensweise
 
 1. Die Tatsächliche Aufgabe formulieren.
@@ -19,20 +32,26 @@ Da die Technik das Ziel verfälscht, ist sie eine [Provokationstechnik](Provokat
 
 # Erweiterungen und Tipps
 
-| Schritt  | Erweiterungen und Tipps |
-| :---: | :---: |
-| 1 | Je detaillierter die tatsächliche Fragestellung ist, desto einfacher wird Schritt 2. |
-| 2 | Statt Verneinungen wie **Nicht** und **Kein** aussagekräftige Verben benutzen. |
-| 3 | Brainwriting anwenden. (z.B. die [6_3_5_Methode](6_3_5_Methode.md)) |
-|   | Die Zeit für das Brainstorming begrenzen. (z.B. mit [Timeboxing](Timeboxing.md)) |
-|   | Die [Walt_Disney_Methode](Walt_Disney_Methode.md) ausprobieren. |
-|   | Eine [Negativkonferenz](Negativkonferenz.md) durchführen und Schritt 4 einsparen :slightly_smiling_face:|
-| 4 | Ideen gut sichtbar im Raum verteilen. |
+## 1. Schritt
 
+Je detaillierter die tatsächliche Aufgabe formuliert wird, desto einfacher findet man im 2. Schritt die Anti-Aufgabe.
+Insbesondere kann man für Adjektive leicht Gegensatzpaare finden.
 
+## 2. Schritt
 
+Auch im zweiten Schritt ist es wichtig eine aussagekräftige Formulierung zu finden.
+Zum einen sind aussagekräftige Verben wichtig und zum anderen sollten Verneinungen wie **Nicht** und **Kein** nicht verwendet werden.
 
+## 3. Schritt
 
+* Um Lösungen für die Anti-Aufgabe zu finden, kann man eine Brainwriting Methode benutzen. (z.B. die [6_3_5_Methode](6_3_5_Methode.md))
+* Damit die Taktrate hoch bleibt, kann man die Zeit für das Brainstorming begrenzen. (z.B. mit [Timeboxing](Timeboxing.md))
+* Mit Hilfe der [Walt_Disney_Methode](Walt_Disney_Methode.md) kann man zusätzlich von der eigenen Perspektive noch von 3 weiteren der Lösung annähern.
+* Als kleine Abwandlung und Abkürzung kann man eine [Negativkonferenz](Negativkonferenz.md) durchführen und sich so auch den 4. Schritt sparen :slightly_smiling_face:.
+
+## 4. Schritt
+
+Im letzten Schritt ist es hilfreich alle Ideen für alle gut sichtbar im Raum zu verteilen.
 
 
 # Vorteile & Nachteile
@@ -71,7 +90,13 @@ Da die Technik das Ziel verfälscht, ist sie eine [Provokationstechnik](Provokat
 | *Kopfstandtechnik zu der Aufgabe: "Wie verbessern wir Joghurt?". [^2]* |
 | ![](Kopfstandtechnik/Joghurt-Beispiel.JPG) |
 
-# Siehe auch
+# Fazit
+
+Die Kopfstandtechnik ist eine einfache und sehr mächtige Kreativitätstechnik, sofern sie für die spezifischen Aufgaben anwendbar ist.
+Dies kann man allerdings zu Beginn nicht vorhersagen.
+Trotzdem kann sie eine Bereicherung im Alltag sein.
+
+# Weiterführende Links
 
 * [Provokationstechnik](Provokationstechnik.md)
 * [6_3_5_Methode](6_3_5_Methode.md)
