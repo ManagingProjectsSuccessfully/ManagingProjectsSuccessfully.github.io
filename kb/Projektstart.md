@@ -1,104 +1,83 @@
 ---
-title: Projektstart
-tags: agil klassisch
-author: samed1907
-anrechnung: k oder a
+title: {Projektstart}
+tags: klassisch
+author: {samed1907}
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Projektstart um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Das Thema "Projektstart" kann man definieren als dem "Termin, zu dem der Lenkungsausschuss den Beginn des Projekts genehmigt"[^1].Zudem stellen sich die Fragen "Wie beginne ich mit einem Projekt?", "Wie gehe ich bei einem Projekt vor?", "Welche Projektphasen gibt es?" oder auch "Welche Einflüsse gibt es auf den Projektstart?". Diese Fragen werden im Folgenden näher behandelt, um den Projektstart so fliessend und strukturiert wie möglich zu machen. 
 
 
-# Aspekt 1
+# Der Beginn eines Projekts
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Wie schon oben erwähnt stellt sich zunächst die Frage, wie man überhaupt einen Projekt beginnt. 
+* [Auftragsklärung](http://www.projektmanagementhandbuch.de/handbuch/projektinitiierung/auftragsklaerung/): Um die Wünsche des Auftraggebers zu treffen und Auseinandersetzungen bei der Abnahme der Ergebnisse zu verhindern muss eine Auftragsklärung durchgeführt werden, wobei auch zusätzliche Ressourcen eingesetzt werden können. Dabei wird sichergestellt, dass Projektleitung, Auftraggeber und weitere [Stakeholder](Stakeholderanalyse.md) dieselben Erwartungen an das Projekt haben. 
+* Zieldefinierung: Hinzu kommt vorallem auch die Zieldefinierung. Das Ziel sollte genau überprüft und sichergestellt werden, um die Aufgabenverteilung klarzustellen und die Absichten einzuordnen. Zusätzlich sollte das Ziel auf die Umsetzbarkeit überprüft werden, damit später keine Probleme entstehen.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![BEISPIELABBILDUNG](Projektstart/Abb1.jpg)
 
-![Beispielabbildung](Projektstart/test-file.jpg)
+* Verantwortlichkeiten: Die Festlegung der Rollen der beteiligten Personen stellt einen sehr wichtigen Faktor für den Projekterfolg dar. Je nach fachlicher Richtungen und sonstigen Kriterien sollten die Rollen im Projekt zugewiesen werden, um das Projekt erfolgreich durchzuführen. Der Auftraggeber muss auch in den Entscheidungsprozess einbezogen werden und ist somit erheblich verantwortlich für den Projekterfolg.
+* [Kosten](Kostenplanung.md)- und Terminplanung: Das Projektteam hat den anfallenden zeitlichen und finanziellen Aufwand realistisch einzuschätzen und genügend Spielraum einzuplanen, damit das Vorhaben zugänglicher, detaillreicher und besser vorstellbar wird. Dazu gehört auch die Planung der Ressourcen wie Mitarbeiterinnen und Mitarbeiter, Maschinen, Fremdleistungen sowie Sachmittel.Der Projektstatus sollte regelmäßig ausgetauscht werden, um [Innovationen](Innovationsprojekte.md) und weitere kreative Ideen zur Verbesserung zu realisieren werden Stand-up-Meetings organisiert. Somit wird über den Status der eigenen Aufgabe und zu aktuellen Herausforderungen berichtet[^2].
 
-*lustiges Testbild*
+# Vorgehensweise/Planung bei einem Projekt
 
-# Aspekt 2
+Eine [Projektplanung](Projektplanung.md) ist der Grundstein für einen Projekterfolg. Hierbei gibt es sämtliche wichtige Faktoren zur Projektplanung:
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+* Projektstruktur: Die Strukturierung des Projekts stellt einen sehr wichtigen Schritt für die Durchführung dar. "Sie kann sich an Unternehmensbereichen, Projektphasen oder anderen Kriterien orientieren und sorgt für Transparenz und Überblick."
+* Pakete und Maßnahmen richtig schnüren: Um der möglichen Komplexität eines Projekts entgegenzuwirken werden Projekte in Maßnahmenpakete und in einzelnen Maßnahmen eingeteilt. Thematisch zusammenpassende Maßnahmen werden zu "Paketen" gebündelt, wobei ein Paket nicht zu viele Maßnahmen enthalten sollte. "Maßnahmenpakete sollten möglichst weniger als 20% vom Gesamtprojekteffekt ausmachen, nicht länger als 1/3 der Zeit des Gesamtprojekthorizontes andauern und
+innerhalb der ersten 2-4 Reportzyklen evaluierbar sein [^3]."
+* Kick-Off: Anfangs werden alle Stakeholder im Projekt zusammengebracht, damit das Projekt, die einzelnen Teile und die Verantwortlichkeiten vorgestellt und besprochen werden. Somit wird eine hohe Akzeptanz, Motivation und Engagement sichergestellt.
+* [Bottom Up](Bottom_Up_Planning.md) oder [Top Down](Top_Down_Planning.md): Aufgabenverteilung und der Führungsstil sind wichtige Fragen bei der Projektplanung. Hierbei wird die Mischung aus „Bottom Up“ und „Top Down“ meist als besonders effektiv empfunden. "Die Grundstruktur, wie Projektteile und Ziele, wird vom Management und der Projektleitung vorgegeben. Das kleinteilige Ausarbeiten des Projektplans wird wiederum Bottom Up ausgeführt." Somit wird ein Zusammenschluss von klarer Projektausrichtung und ambitionierten Zielen der Führung mit der Fachexpertise und dadurch eine klare Projektdefinition erreicht[^3].
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+![BEISPIELABBILDUNG](Projektstart/Abb2.jpg)
 
-So kann man eine Tabelle erstellen:
+# Die Projektphasen eines Projekts
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Zur Risikominimierung wird ein Projekt idealerweise in die fünf Phasen Vorbereiten, Initiieren, Planen, Steuern, Abschließen eingeteilt.
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+1. Phase: Die Entscheidung für oder gegen ein Projekt wird vorbereitet. Es wird geprüft worum es geht, welches Ziel verfolgt wird und welche Ergebnisse erreicht werden sollen. In diesem Sinne wird der Projektantrag gestellt und die Entscheidung vorgelegt.
+2. Phase: Im Zuge des Projektauftrags wird die Grundlage geschaffen und die Rahmenbedingungen geklärt. Ziele, Ergebnisse, Projektgegenstände werden bestimmt, die Risiken identifiziert und das Team zusammengestellt
+3. Phase: Diese Phase, die Planung, erfolgt über das ganze Projekt. Aufgaben, Termine, Kosten, Kapazitäten, Ergebnisse und Meilensteine werden geplant und festgehalten
+4. Phase: Die Umsetzung der einzelnen Maßnahmen, die Ergebnisse werden laufend überprüft und die Arbeitspakete freigegeben.
+5. Phase: Abnahme des Projekts vom Auftraggeber und Überprüfung der Wirtschaftlichkeit vom Projektleiter[^4].
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+|  Vorbereiten                 | Initiieren                     | Planen            | Steuern                   | Abschließen        |
+| ---------------------------- | ------------------------------ | ----------------- | ------------------------- | ------------------ |
+| Ideen beschreiben            | Projektziele bestimmen         | Projektphasen     | Arbeitsfortschritt prüfen | Projektabnahme     |
+| Projektcharakter definieren  | Risiken identifizieren         | Arbeitspakete     | Termine/Kosten prüfen     | Abschlussmeeting   |
+| Projektumfeld analysieren    | Wirtschaftlichkeit analysieren | Aufgaben          | Qualität prüfen           | Rollout            |
+| Projektmachbarkeit prüfen    | Projektteam zusammenstellen    | Liefergegenstände | Berichte erstellen        | Abweichungsanalyse |     
 
-### Ebene-3-Überschrift
+# Die Einflüsse auf den Projektstart
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Um die Einflüsse auf den Projektstart klarzustellen wird unter anderem eine [Umfeldanalyse](https://dieprojektmanager.com/umfeldanalyse-stakeholderanalyse/) durchgeführt. Wie der Name schon sagt wird der Umfeld eines Projekts analysiert, also alle Rahmenbedingungen, Einflüsse und äußere Faktoren gesammelt, welche auf das Projekt wirken können. Die Umfeldanalyse wird durchgeführt, um bereits bestehende Anforderungen zu ermitteln, eventuelle Probleme zu erkennen, Schnittstellen nach außen zu identifizieren, die [Stakeholderanalyse](Stakeholderanalyse.md) oder die [Risikoanalyse](Risikoanalyse_und_Visualisierung.md) vorzubereiten.
 
-# Aspekt n
+Hierbei gibt es verschiedene Kriterien:
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+* Soziale Umweltfaktoren: Personen/Personengruppen, die das Projekt beeinflussen können. Diese werden gesammelt, um sie anschließend in der Stakeholderanalyse näher zu beleuchten. (z.B. Betriebsrat, Bauamt, Mitarbeiter des Projektteams, Anwohner beim Bau der neuen Abwasseranlage)
+* Sachliche Umweltfaktoren: Fakten oder Themen, die auf das Projekt wirken. (Z.b. Datenschutzrichtlinien, veraltete Technik, zu wenig Knowhow, vorliegendes Lastenheft, Trend zu mehr Nachhaltigkeit)
+* Interne Faktoren: Faktoren innerhalb des Projekts/ des Unternehmens (Z.b. bestehende Anforderungen an das Projekt)
+* Externe Faktoren: Faktoren außerhalb des Projekts/des Unternehmens (Z.b. gesetzliche, geografische und klimatische Faktoren)[^5].
 
+![BEISPIELABBILDUNG](Projektstart/Abb3.jpg)
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektstart.md)
+* [Umfeldanalyse](Umfeldanalyse.md)
+* [Projektabscluss](Projektabschluss.md)
+* [Projektplanung](Projektplanung.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [V. M. BrenneckeS. KrugC. M. Winkler: "Projektstart"](https://link.springer.com/chapter/10.1007/978-3-642-58743-6_2)
+* [Christian BärJens FiegeMarkus Weiß : "Projektstart/Kick-Off"](https://link.springer.com/chapter/10.1007/978-3-662-52974-4_19)
+* [Levend Seyhan: "Der Projektstart"](https://link.springer.com/chapter/10.1007/978-3-658-35036-9_7)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Projektmagazin](https://www.projektmagazin.de/glossarterm/projektstart)
+[^2]: [Business-wissen.de](https://www.business-wissen.de/artikel/projektmanagement-ein-projekt-starten/)
+[^3]: [Projekte richtig planen in 8 Schritten](https://www.nordantech.com/de/blog/project-management/projekte-richtig-planen://www.nordantech.com/de/blog/project-management/projekte-richtig-planen)
+[^4]: [Phasen des Projektmanagements im Überblick](https://www.business-wissen.de/hb/phasen-des-projektmanagements-im-ueberblick/)
+[^5]: [Die Umfeldanalyse einfach erklärt](https://projekte-leicht-gemacht.de/blog/methoden/projektstart/die-umfeldanalyse-einfach-erklaert/)
 
