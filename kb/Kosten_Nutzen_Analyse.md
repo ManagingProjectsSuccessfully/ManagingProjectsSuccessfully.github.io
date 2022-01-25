@@ -1,6 +1,6 @@
 ---
 title: Kosten_Nutzen_Analyse
-tags: agil klassisch
+tags: agil klassisch Bewertungsverfahren Projekt
 author: Maximilian219
 anrechnung: k 
 ---
@@ -8,7 +8,7 @@ Die Kosten-Nutzen-Analyse ist ein Bewertungsverfahren, das die Wirtschaftlichkei
 > „Zweck der Analyse ist die Auswahl der Alternative aus einer Menge von möglichen Alternativen, deren Realisierung ein Gesamtziel am effektivsten erfüllt.“(Hüftle, 2006)[^1]
 
 # Kosten-Nutzen-Analyse
-Im [Projektmanagement](Projektmangement.md) hat der [Projektleiter](Faehigkeiten_Projektleiter) die Aufgabe, Aufträge sinnvoll zu erteilen, sodass diese zum Projekterfolg beitragen. Hierbei kann eine Kosten-Nutzen-Analyse hilfreich sein.
+Im [Projektmanagement](Projektmanagement.md) hat der [Projektleiter](Faehigkeiten_Projektleiter.md) die Aufgabe, Aufträge sinnvoll zu erteilen, sodass diese zum Projekterfolg beitragen. Hierbei kann eine Kosten-Nutzen-Analyse hilfreich sein.
 
 Bewertungsverfahren sind in der Praxis häufig angewendete Methoden, um mögliche Handlungsalternativen in Bezug auf deren Mehrwert hierarchisch einzuordnen und die Vorteilhafteste dieser zu bestimmen.[^2] 
 Neben der oben gennanten Kosten-Nutzen-Analyse gibt es noch weitere Bewertungsverfahren[^1]:
@@ -26,17 +26,17 @@ Die Ergebnisse der Analyse tragen maßgeblich zu richtungsweisenden Entscheidung
 ## Rahmenbedingungen 
 Im Vorfeld der Durchführung müssen gewisse Rahmenbedingungen bestimmt werden, sowie Voraussetzungen erfüllt sein, welche für einen reibungslosen Ablauf sorgen sollen. 
 
-* Zuallererst wird die zu untersuchende Situation, also die Problem- und Aufgabenstellung, beschrieben. 
-* Dem folgt die Benennung von Bewertungskriterien, anhand deren der Nutzen definiert wird. 
-* Um der Analyse einen festen Rahmen zu geben, wird ein [Analyse-Umfeld](Umfeldanalyse.md) festgelegt.
-* Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.[^3]
+1. Zuallererst wird die zu untersuchende Situation, also die Problem- und Aufgabenstellung, beschrieben. 
+2. Dem folgt die Benennung von Bewertungskriterien, anhand deren der Nutzen definiert wird. 
+3. Um der Analyse einen festen Rahmen zu geben, wird ein [Analyse-Umfeld](Umfeldanalyse.md) festgelegt.
+4. Als letztes werden die zu analysierenden Maßnahmen genannt und definiert.[^3]
 
 Um die Analyse fundiert durchsetzen zu können, sind vorher noch einige wichtige Aspekte zu berücksichtigen.
 | Checkliste[^4]  |
 | ------------- |
 | Ziel der Analyse ? | 
 | Alleiniges Entscheidungskriterium ?  | 
-| Ausmaß des Einflusses auf Entscheidung  |
+| Ausmaß des Einflusses auf Entscheidung ? |
 | Wer führt die Analyse durch ? |
 | Wurden genügend qualitative Merkmale ausgewählt ? |
 | Woher kommen Informationen, Daten, Fakten ? |
@@ -52,7 +52,7 @@ Der detaillierte Ablauf der Analyse unterscheidet sich in manchen Quellen bezüg
 Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet[^1]: 
 
 1.	Aufstellen des Zielsystems: Struktur des Zielsystems muss standfest sein, damit daraus wichtige mess- bzw. schätzbare Indikatoren herausgelesen werden können
-2.	Bestimmung von Indikatoren, mithilfe derer abgeleitet werden kann welche Wirkung die Ausführung einer Alternative hat.
+2.	Bestimmung von Indikatoren, mithilfe derer abgeleitet werden kann welche Wirkung die Ausführung einer Alternative hat
 3.	Analyse der Rahmenbedingungen, ob und welche die Entscheidung verzerren können
 4.	Festlegung von Alternativen, sowie der [Nullalternative]( https://wiki.baw.de/de/index.php/Nullalternative)
 5.	Definition von möglichen Auswirkungen der Alternativen auf die Ziele
@@ -71,7 +71,7 @@ Nach Hüftle beinhaltet die Analyse 11 Schritte, wie im folgenden aufgelistet[^1
 Eine Kosten-Nutzen-Analyse ist für eine [erfolgreiche Umsetzung von Projektzielen](Praxisbeispiele_erfolgreiche_Projekte.md) essentiell. Sie bringt viele Vorteile mit sich, weist jedoch auch einige Schwächen auf.
 ### Vorteile
 * Verschiedene Alternativen sind direkt miteinander vergleichbar
-* Einfache und übverschaubare Darstellung
+* Einfache und überschaubare Darstellung
 * Grundlage für weitere Projektentscheidungen wird geschaffen[^6]
 
 ### Nachteile
@@ -89,8 +89,12 @@ Eine Kosten-Nutzen-Analyse ist für eine [erfolgreiche Umsetzung von Projektziel
 
 # Siehe auch
 
+* [Nutzwertanalyse](Nutzwertanalyse.md)
+* [Risikoanalyse](Risikoanalyse_und_Visualisierung.md)
 * [Ressourcenplanung](Ressourcenplanung.md)
 * [Kostenplanung](Kostenplanung.md)
+* [erfolgreiche Projekte](Praxisbeispiele_erfolgreiche_Projekte.md)
+* [Sensitivitätsanalyse]( https://www.bwl-lexikon.de/wiki/sensitivitaetsanalyse/)
 
 # Weiterführende Literatur
 
