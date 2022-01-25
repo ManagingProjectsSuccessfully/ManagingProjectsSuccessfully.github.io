@@ -24,7 +24,7 @@ Auf seiner [Webseite](https://francescocirillo.com/pages/pomodoro-technique) ski
 4. Wenn der Timer klingelt, die erledigte Aufgabe von der To-do-Liste abhaken.
 5. Drei bis fünf Minuten Pause machen.
 6. Punkte 2 bis 5 wiederholen.
-7. Nach dem vierten Durchgang 20 bis 30 Minuten Pause machen.
+7. Nach dem vierten Durchgang 20 bis 30 Minuten Pause machen.[^2]
 
 Dadurch entsteht folgender Ablauf:
 
@@ -46,26 +46,6 @@ Dadurch entsteht folgender Ablauf:
 
 Für einen kompletten Pomodoro-Zyklus werden also 2:25 Stunden gebraucht.
 
-# Anwendung und Tipps zur Pomodoro-Technik
-
-Ein Problem und Kritikpunkt an der Pomodoro Technik sind die 25-Minuten-Einheiten. Welche Aufgabe dauert schon exakt 25 Minuten? Damit die Zeitmanagement-Methode optimal funktioniert, sollten Sie daher folgende Tipps zur Vorbereitung nutzen:
-
-* **Aufgaben priorisieren**
-
-Bevor es losgeht, verschaffen Sie sich einen kurzen Überblick der anstehenden Aufgaben. Notieren Sie sich kurz (!), was alles erledigt werden muss. Danach priorisieren Sie die Aufgaben.
-
-* **Zeitaufwand schätzen**
-
-Im zweiten Schritt schätzen Sie grob, wie viel Zeit jede der Aufgaben benötigt. Eine grobe Schätzung reicht. Wichtiger ist, dass Sie größere Aufgaben in kurze Intervalle von rund 25 kalkulierten Minuten aufteilen.
-
-* **Tag einteilen**
-
-Da Sie dank Schritt 1 die wichtigsten Aufgaben des Tages kennen und diese nun in kalkulierte Pomidori eingeteilt haben, sollten Sie diese nun in Ihrem Tagesplaner (eine kostenlose Vorlage erhalten Sie HIER) eintragen. Idealerweise planen Sie die Pomodoro-Intervalle am Vorabend oder gleich morgens als erstes.
-
-* **Fokussiert bleiben**
-
-Damit die Pomodoro-Technik funktioniert, müssen Sie diese eine Weile praktizieren und sich an die 25-Minuten-Einheiten gewöhnen. Ob Sie dazu eine Küchenuhr, eine Eieruhr oder das Smartphone nutzen, ist egal. Entscheidender ist, dass in dieser Zeit wirklich konzentriert und fokussiert arbeiten. Sobald der Timer klingelt, gönnen Sie sich eine kurze Verschnaufpause. Ziel ist, den Kopf frei zu bekommen und neue Kraft zu tanken. Weil die Konzentration so oder so nachlässt, ist nach dem vierten Durchgang eine bis zu 30-minütige Auszeit erforderlich.
-
 ## Beispieltabelle für die Pomodoro-Technik
 
 So kann man eine Tabelle erstellen:
@@ -73,9 +53,8 @@ So kann man eine Tabelle erstellen:
 | Priorität  | Aufgaben | Zeiteinheiten | +/- | OK |
 | -----------| -------- | ------------- | --- | -- |
 | HIGH       |  MPS Kompendium | ⬛⬛⬛⬛🔲| / |  ✅ |
-|            |          |               |     |    |
-|            |          |               |     |    |
-|            |          |               |     |    |
+| LOW       |  Seminararbeit   | ⬛⬛⬛🔲🔲| / |  ✅ |
+| HIGH       |  Prüfunganmeldung   | ⬛🔲🔲🔲🔲| / |  ✅ |
 
 Die Tabelle von links nach rechts:
 
@@ -85,7 +64,7 @@ Die zweite Spalte ist für die Aufgaben reserviert. Sonst nichts.
 
 Jetzt wird es etwas interessanter. In der Spalte „Zeiteinheiten“ sind fünf leere Kästchen. Jedes steht für eine Pomodoro-Einheit. Bei der Planung überlege ich mir vorab, wie groß der Zeitbedarf für eine Aufgabe etwa sein könnte. Gehe ich von drei Pomodori aus, ziehe ich einen Rahmen um drei Kästchen. So kann ich im Nachhinein überprüfen, inwieweit es mir gelungen ist, den Zeitbedarf einzuschätzen. Abweichungen von der Schätzung sind eine Spalte weiter (+/-) einzutragen.
 
-In der letzten Spalte ist zum Abhaken der erledigten Aufgaben.[^2]
+In der letzten Spalte ist zum Abhaken der erledigten Aufgaben.[^3]
 
 # Vorteile und Nachteile 
 Wirkliche Pomodoro-Technik Nachteile gibt es nicht. Sie lässt genügend Flexibilität, die Zeitintervalle und den Tag so einzuteilen, dass es für Sie passt. Dafür sind die Vorteile umso zahlreicher.
@@ -114,7 +93,7 @@ Studien zeigen: Länger als 90 Minuten kann sich niemand am Stück konzentrieren
 Die Pomodoro Technik verhindert Multitasking und die Gefahr, sich zu verzetteln. Das steigert die Effizienz.
 + Zielerreichung
 
-Indem Sie sich nur auf eine Sache pro Intervall konzentrieren, arbeiten Sie insgesamt zielgerichteter. Und weil Sie große Aufgaben in überschaubare Teile zerlegen, fällt auch das Anfangen leichter. Effekt: Sie erreichen am Ende mehr und müssen sich weniger überwinden.[^3]
+Indem Sie sich nur auf eine Sache pro Intervall konzentrieren, arbeiten Sie insgesamt zielgerichteter. Und weil Sie große Aufgaben in überschaubare Teile zerlegen, fällt auch das Anfangen leichter. Effekt: Sie erreichen am Ende mehr und müssen sich weniger überwinden.[^4]
 
 # Kritik
 Natürlich gibt es auch an der Pomodoro-Technik Kritik. Die Hauptvorwürfe sind:
@@ -125,7 +104,7 @@ Die 25-Minuten-Abschnitte seien ein zu enges Korsett. Manche Aufgaben lassen sic
 
 ◾ Zu unrealistisch:
 
-Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchhalten könne. Einen derart ablenkungsfreien, strikt durchgetakteten und fokussierten Tag gibt es nicht. Mag sein. Sie können sich den Tag allerdings auch in Blöcke einteilen: jene, in denen Sie mit der Pomodoro-Technik arbeiten und andere, die freier bleiben.[^3]
+Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchhalten könne. Einen derart ablenkungsfreien, strikt durchgetakteten und fokussierten Tag gibt es nicht. Mag sein. Sie können sich den Tag allerdings auch in Blöcke einteilen: jene, in denen Sie mit der Pomodoro-Technik arbeiten und andere, die freier bleiben.[^4]
 
 # Siehe auch
 
@@ -141,7 +120,9 @@ Kritiker monieren, dass niemand einen solchen Rhythmus den ganz Tag lang durchha
 # Quellen
 
 [^1]: [Pomodorotechnique](pomodorotechnique.com)
-[^2]: [Zeitakrobat](https://zeitakrobat.de/pomodoro-methode-einfach-und-wirkungsvoll)
-[^3]: [Karrierbibel.de](https://karrierebibel.de/pomodoro-technik/)
+[^2]: [Asana](https://asana.com/de/resources/pomodoro-technique)
+[^3]: [Zeitakrobat](https://zeitakrobat.de/pomodoro-methode-einfach-und-wirkungsvoll)
+[^4]: [Karrierbibel](https://karrierebibel.de/pomodoro-technik/)
+
 
 
