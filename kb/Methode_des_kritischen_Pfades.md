@@ -5,20 +5,19 @@ author: ChristinaHartung
 anrechnung: k 
 ---
 
-Die Methode des kritischen Pfades (engl. Critical Path Method CPM) ist ein Projektmanagementtool, welches in den späten 1950er Jahren entwickelt wurde um durch ineffiziente Terminplanung verursachte Kostensteigerungen zu verhindern. Sie ist dem klassischen Projektmanagement zuzuordnen und wird genutzt um zentrale Aufgaben zu ermitteln, die minimale Projektdauer zu determinieren und eine gewisse Planungsflexibilität zu bestimmen.[^1]
+Die Methode des kritischen Pfades (engl. Critical Path Method CPM) ist ein Projektmanagementtool, welches in den späten 1950er Jahren entwickelt wurde um durch ineffiziente Terminplanung verursachte Kostensteigerungen zu verhindern. Sie ist der [Projektplanung im klassischen Projektmanagement](/kb/Projektplanung.md) zuzuordnen, welches im Gegensatz zum agilen Projektmanagement unter anderem durch einen Überblick über das große Ganze und einen fest ermittelten Endtermin jeder Aktivität charakterisiert ist. Dies spiegelt sich bei der Methode des kritischen Pfades wider. Sie wird genutzt um zentrale Aufgaben zu ermitteln, die minimale Projektdauer zu determinieren und eine gewisse Planungsflexibilität zu bestimmen.[^1]
 
 
-## 1. Der kritische Pfad
-### 1.1 Was ist der kritische Pfad
+## 1. Was ist der kritische Pfad
 
 “The sequence of activities that represents the longest path through a project with determines the shortest possible duration”[^2]. Vereinfacht gesagt ist der kritische Pfad (engl. Critical Path CP) die längste Zeit, die für den Abschluss eines Projektes benötigt wird.
 
 
-### 1.2 Zentrale Schritte auf dem Weg zur Identifizierung des kritischen Pfades 
+## 2. Zentrale Schritte auf dem Weg zur Identifizierung des kritischen Pfades 
 
 **1.	Bestimmung und Auflistung aller Vorgänge**
 
-Als Grundlage für das weitere Vorgehen wird zunächst ein sogenannter [Projekt-Struktur-Plan](https://de.wikipedia.org/wiki/Projektstrukturplan) (PSP, engl. Work Breakdown Structure WBS) erstellt, welcher nur übergeordnete         Vorgänge enthält. Der Verzicht auf detaillierte Abläufe sorgt dafür, dass der kritische Pfad am Ende nicht zu komplex und unübersichtlich gestaltet ist. [^3]
+Als Grundlage für das weitere Vorgehen wird zunächst ein sogenannter [Projektstrukturplan](/kb/Projektstrukturplan.md) (PSP, engl. Work Breakdown Structure WBS) erstellt, welcher nur übergeordnete         Vorgänge enthält. Der Verzicht auf detaillierte Abläufe sorgt dafür, dass der kritische Pfad am Ende nicht zu komplex und unübersichtlich gestaltet ist. [^3]
 
 **2.	Ermittlung aller Abfolgen und Abhängigkeiten**
 
@@ -26,7 +25,7 @@ Im zweiten Schritt stellt sich die Frage, wann welche Aufgaben erledigt werden k
 
 **3.	Erstellung eines Netzplans**
 
-Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein [Netzplan](https://de.wikipedia.org/wiki/Netzplantechnik) (engl. Critical Path Analysis Chart CPA) entweder per Hand oder mit Hilfe eines Softwareprogramms         gezeichnet.
+Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein [Netzplan](/kb/Netzplantechnik.md) (engl. Critical Path Analysis Chart CPA) entweder per Hand oder mit Hilfe eines Softwareprogramms gezeichnet.
 
 ![Netzplan](/kb/Methode_des_kritischen_Pfades/CriticalPath-DrawNetworkDiagram.png)
 
@@ -34,7 +33,7 @@ Im Anschluss folgt die visuelle Darstellung. Hierfür wird ein [Netzplan](https:
 
 **4.	Abschätzung des Zeitbedarfs aller Aufgaben**
 
-Im nächsten Schritt wird der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die Drei-Zeiten-Methode sein, wobei der Zeitbedarf mit         folgenden Werten geschätzt wird:
+Im nächsten Schritt wird der Zeitaufwand der einzelnen Aufgaben geschätzt. Nützlich kann dabei die [Drei-Zeiten-Methode](/kb/Drei_Zeiten_Methode.md) sein, wobei der Zeitbedarf mit         folgenden Werten geschätzt wird:
 
 
    *a = Minimalschätzung (Best Case)*
@@ -50,14 +49,16 @@ Es ergeben sich schließlich zwei zur Berechnung anwendbare Formeln, E steht dab
 *II.   E = (a + m + b) / 3*
  
  Der Unterschied zwischen I und II besteht lediglich in der Gewichtung der Werte. Während bei der I. gängigeren Methode die wahrscheinlichste Schätzung am stärksten gewichtet     wird, besteht bei II kein Unterschied in der Gewichtung der Werte. 
- Je nach Aufgabe kann es auch sinnvoll sein Pufferzeiten einzuplanen. [^3]
+ Je nach Aufgabe kann es auch sinnvoll sein Pufferzeiten einzuplanen. Dies geschieht üblicherweise mit Hilfe von den frühesten und spätesten Anfangs- beziehungweise Endzeitpunkten, den ein Vorgang haben kann, ohne dass sich dadurch das Projektende verschiebt. [^3]
    
 **5.	Identifizierung des kritischen Pfades**
 
-Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden oder es werden die frühesten Anfangs- und Endzeitpunkte, sowie die spätesten Anfangs- und           Endzeitpunkt jedes Vorgangs festgestellt. Als Resultat ergibt sich ein oder auch mehrere kritische Pfad. Mit jedem weiteren steigt das Risiko für ungeplante             Verzögerungen im Zeitplan.
+Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden oder es werden die frühesten Anfangs- und Endzeitpunkte, sowie die spätesten Anfangs- und           Endzeitpunkt jedes Vorgangs festgestellt. Als Resultat ergibt sich ein oder auch mehrere kritische Pfad. Mit jedem weiteren steigt das Risiko für ungeplante             Verzögerungen im Zeitplan. 
 
 ![Netzplan](/kb/Methode_des_kritischen_Pfades/IdentifyCriticalPath.png)
 *Identifizierung des kritischen Pfades* [^3]
+
+Als weitere Methode zur Identifizierung des kritischen Pfades kann außerdem ein [Gantt-Diagramm](/kb/Gantt_Diagramme.md) in [Microsoft Project](/kb/Microsoft_Project_PM_Tool.md) generiert werden.
     
 **6.	Aktualisieren des Netzplans**
     
@@ -66,7 +67,7 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 
 
-## 2. Vor- und Nachteile der Methode [^5]
+## 3. Vor- und Nachteile der Methode [^5]
 
 | Vorteile      | Nachteile     |
 | ------------- | ------------- |
@@ -78,8 +79,8 @@ Der kritische Pfad wird entweder anhand des Netzplanes per Augenmaß gefunden od
 
 # Siehe auch
 
-* [Projektstrukturplan](/kb/Projektstrukturplan.md)
-* [Netzplantechnik](/kb/Netzplantechnik.md)
+* [Video: Critical Path Method (CPM) Explained in 5 Minutes](https://www.youtube.com/watch?v=HbynnR0VN10)
+* [Video: Kritischer Pfad, Gesamtpuffer und freier Puffer: Die Netzplantechnik am Beispiel erklärt](https://www.youtube.com/watch?v=kjjN7MDwgf0)
 
 # Weiterführende Literatur
 
