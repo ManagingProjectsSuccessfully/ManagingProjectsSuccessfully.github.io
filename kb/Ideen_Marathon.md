@@ -1,6 +1,6 @@
 ---
 title: Ideen_Marathon
-tags: klassisch
+tags: klassisch Kreativität Ideen
 author: MrSommC
 anrechnung: k
 ---
@@ -21,7 +21,7 @@ Unsicherheiten beseitigt werden. Beispielsweise gilt es vorab zu klären, welche
 bürgen könnte, sollte 
 ebenfalls vor Projektbeginn geklärt werden[^4]. Für diese Herausforderungen und für noch viele Weitere ist Kreativität gefragt. 
 
-Kreativität – oder vielmehr kreatives denken – kann gezielt stimuliert werden. Im folgenden Artikel wird die Kreativitätstechnik „Ideen-Marathon“ vorgestellt werden. Zunächst 
+Kreativität – oder vielmehr kreatives Denken – kann gezielt stimuliert werden. Im folgenden Artikel wird die Kreativitätstechnik „Ideen-Marathon“ vorgestellt werden. Zunächst 
 wird das Grundprinzip des Ideen-Marathons beschrieben, danach werden die Grundregeln der Kreativitätstechnik dargestellt. 
 
 ## Hintergründe zum Ideen-Marathon
@@ -34,7 +34,7 @@ lösen[^1].
 ## Grundprinzip des Ideen-Marathons
 
 Zu Beginn des Artikels soll das Grundprinzip eines Ideen-Marathons kurz erläutert werden.
-Um einen Ideen-Marthon durchzuführen wird über einen bestimmten Zeitraum ein sogenanntes „Ideentagebuch“ geführt. Unter der Berücksichtigung von sieben Grundregeln wird jeden 
+Um einen Ideen-Marathon durchzuführen, wird über einen bestimmten Zeitraum ein sogenanntes „Ideentagebuch“ geführt. Unter der Berücksichtigung von sieben Grundregeln wird jeden 
 Tag mindestens eine Idee konzipiert und in besagtes Tagebuch geschrieben[^5].
 
 ## Regeln des Ideen-Marathons
@@ -45,9 +45,9 @@ Als zweite Regel folgt, dass jede Idee möglichst prägnant formuliert und verfa
 An dieser Stelle kann das bereits beschriebene Notizbuch genutzt werden.
 
 Die dritte Regel besagt, dass die Möglichkeit bestehen muss, dass zu jedem Zeitpunkt eine neue Idee in das Notizbuch geschrieben werden kann. 
-Die darauffolgende vierte Regel gibt an, dass sich die Ideen vervielfachen lassen indem man mit Freunden, Kollegen oder Familie über die Ideen spricht.  
+Die darauffolgende vierte Regel gibt an, dass sich die Ideen vervielfachen lassen, indem man mit Freunden, Kollegen oder Familie über die Ideen spricht.  
 
-An fünfter Stelle steht, dass beim Notieren einer Idee besten Falls das gleiche wiederkehrende Schema angewandt werden sollte. Dies kann sich beispielsweise auf ein 
+An fünfter Stelle steht, dass beim Notieren einer Idee bestenfalls das gleiche wiederkehrende Schema angewandt werden sollte. Dies kann sich beispielsweise auf ein 
 fortlaufendes Datum, die Kategorie der Idee, die Beschreibung der Idee sowie den Ideenstatus beziehen. 
 
 Die sechste Regel lautet, dass mit der Idee gearbeitet werden soll. Das bedeutet, dass an bestehende Ideen, Notizen sowie Erläuterungen und Skizzierungen angefügt werden sollen. 
@@ -67,9 +67,12 @@ Takeo Higuchi beabsichtigt die Kreativitätstechnik auch in Zukunft weiterhin zu
 
 
 
-![Beispielabbildung](Ideen_Marathon/GrafikIM.png) [^7]
+![Beispielabbildung](Ideen_Marathon/Endlosschleife.png) [^7]
 
 *Selbsterstellte Grafik zur Visualierung des Prozesses*
+
+Die Endlosschleife visualisiert den "endlos" andauernden Prozess des Ideen_Marathons. 
+Hierbei wird klar, dass sich der Ideen_Marathon beliebig of wiederholen lässt. 
 
 
 # Siehe auch

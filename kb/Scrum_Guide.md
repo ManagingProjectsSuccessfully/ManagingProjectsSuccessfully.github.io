@@ -1,6 +1,6 @@
 ---
 title: Scrum_Guide
-tags: agil
+tags: agil Scrum 
 author: MrSommC
 anrechnung: a
 ---
@@ -8,14 +8,14 @@ anrechnung: a
 Um zu Beginn ein grobes Verständnis über den Scrum-Guide zu schaffen, soll zunächst eine Kurzbeschreibung folgen. Der Scrum-Guide ist ein Rahmenwerk für die Entwicklung, 
 Bereitstellung und Aufrechterhaltung komplexer Produkte im Bereich der Softwareentwicklung.
 Dieser Leitfaden enthält die Definition von Scrum, bestehend aus den Scrum-Rollen, Ereignissen, Artefakten und den Regeln, die sie miteinander verbinden. 
-Ken Schwaber und Jeff Sutherland haben Scrum entwickelt. Der Scrum-Guide wurde von ihnen geschrieben und bereitgestellt. Gemeinsam stehen sie hinter dem Scrum-Guide[^1]. 
+Ken Schwaber und Jeff Sutherland haben Scrum entwickelt. Der Scrum-Guide wurde von ihnen geschrieben und bereitgestellt, gemeinsam stehen sie hinter dem Scrum-Guide[^1]. 
 
 
 # Der Scrum-Guide
 
 Die wichtige Bedeutung von Scrum im agilen [Projektmanagement](Projektmanagement.md) ist unumstritten, so fallen die beiden Begriffe Scrum und agiles Projektmanagement häufig im gleichen Kontext. 
 Es ist also wenig überraschend, dass Scrum der beliebteste agile Ansatz im Projektmanagement ist[^2]. Bevor der konkrete Scrum_Guide beschrieben wird, soll ein allgemeiner 
-Überblick über Scrum gegeben werden. Was also genau ist Scrum. 
+Überblick über Scrum gegeben werden. Was also genau ist Scrum?
 
 Scrum ist ein Rahmenwerk, in dem Menschen komplexe, adaptive Probleme angehen und dabei produktiv und kreativ Produkte von größtmöglichem Wert liefern können.
 Scrum hilft Menschen, Teams und Organisationen adaptive Lösungen für komplexe Probleme zu schaffen. Die Scrumgründer haben den Scrum Guide geschrieben, um Scrum klar und 
@@ -32,7 +32,7 @@ Laut dem offiziellen Scrum-Guide aus dem Jahr 2020 enthält der Guide folgende I
 
 *	Scrum-Theorie
 
-*	Scrum-Werte
+*	[Scrum-Werte](Scrum_Values.md)
 
 *	Scrum Team
 
@@ -82,7 +82,7 @@ Der Sprint Review hat das Ziel die Ergebnisse des Sprints zu bewerten, es wird a
 ### Die Sprint-Retrospektive
 
 Bei der Sprint-Retrospektive werden im Gegensatz zum Review nicht die Increments bewertet, sondern die Arbeitsatmosphäre des Scrum-Teams. Es wird nach möglichen Problemen und 
-Lösungen gesucht[7].
+Lösungen gesucht[^7].
 
 ### Scrum-Artefakte
 
@@ -115,7 +115,7 @@ Die [Scrum-Artefakte](Scrum_Artefakte.md) lauten Product Backlog, Sprint Backlog
 
 * [Scrum-Master](Scrum_Master.md)
 
-* (Projektmanagement)[Projektmanagement.md] 
+* [Projektmanagement](Projektmanagement.md) 
  
 
 # Weiterführende Literatur
