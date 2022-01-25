@@ -1,10 +1,64 @@
 ---
 title: Obeya_Raum
-tags: agil klassisch
+tags: klassisch
 author: xe28dita
-anrechnung: k oder a
+anrechnung: k
 ---
+# Inhalte
+1. [Definition](#definition)
+2. [Hauptziele](#hauptziele)
+3. [Verlauf](#verlauf)
+4. [Wandel](#wandel)
+5. [Fazit](#fazit)
+6. [Siehe auch](#siehe-auch)
+7. [Quellen](#quellen)
 
+# Definition
+Obeya ist eine Form von [Projektmanagement](Projektmanagement.md) bzw. eine visuelle Methode des [Lean Managements](Lean_Projektmanagement.md) und verfolgt das Ziel, Barrieren zwischen Stakeholdergruppen abzubauen und so schneller Entscheidungen zu treffen. Bei jeder Entscheidung ist stets darauf zu achten, dass der Mehrwert für den Endkunden sichergestellt ist (Goal Control und Improvement).
+Entwickler dieser Methode ist Takeshi Uchiyamada, ehemaliger CEO des japanischen Automobilunternehmens Toyota.[^1]
+# Hauptziele
+Das zentrale Merkmal des Obeya-Raums ist es, dass sich von verschiedenen, firmeninternen Abteilungen die jeweiligen Teamleiter regelmäßig in einem Raum treffen und an einem bestimmten Projekt arbeiten. Der Raum ist für jedes Mitglied zu jeder Zeit zugänglich. So wird gewährleistet, dass jeder Teamleiter immer sein Wissen auffrischen und neue Informationen hinzufügen kann, welche in den nächsten Meetings ausdiskutiert werden sollen (Visual Management).
+Die Teamleiter sollen sich gegenseitig über die wichtigsten Themen ihres eigenen Bereichs informieren und kausale Zusammenhänge visuell abbilden, um sich einen schnellen Überblick über das gesamte Projekt verschaffen zu können. Dies ermöglicht eine transparente Arbeitsweise.
+Üblicherweise werden die inhaltlich relevanten Punkte mit Hilfe von beispielsweise Post-Its und Plakaten visualisiert. Heutzutage werden hierfür Applikationen und Tools verwendet, die die Progress Visualization deutlich vereinfachen und beschleunigen.
+Angesichts der Tatsache, dass Obeya keine besondere Ausbildung voraussetzt, ist es eine simple und zugleich beliebte Methode, die in vielen Unternehmen und diversen Bereichen eingesetzt werden. Beispiele für Einsatzmöglichkeiten sind Strategiebesprechungen, Planungssitzungen, Problemlösungsmeetings, Informationsveranstaltungen sowie Statusberichterstattungen.[^2]
+
+![bild](Obeya_Raum/obeya-room.jpg)
+*Obeya Raum*
+
+# Verlauf
+Zunächst müssen die Oberpunkte des Themas bestimmt werden, um diese näher analysieren zu können. Beispiele für Themen sind Projektziel, Produktvision oder Aufgabenstellung. Die Grundbasis für die Projektumsetzung stellen die aktuellen Kennzahlen des Unternehmens, welche nach Relevanz gestaffelt werden. Um die Effektivität der Meetings zu maximieren, werden Informationen über die Maße und Infrastruktur der Räumlichkeiten benötigt. Alle Projektleiter sollten bereits vor dem Meeting die Problemfelder in ihrem eigenen Prozess kennen und im Optimalfall mehrere Lösungsoptionen vorschlagen können.
+Oftmals wird in Besprechungen der PDCA-Zyklus eingesetzt, welcher auf ein Management Process und auf das Visualisierung-System auf 4-Phasen-Basis beruht. Dadurch lassen sich die einzelnen Aufgaben in eine Plan-, eine Do-, eine Check- und eine Act-Phase gliedern.
+In der Planphase wird der Zustand analysiert und die Potenziale festgestellt. Im Do-Prozess werden die zuvor besprochenen Punkte umgesetzt. Die Zahlen werden im Check-Prozess überprüft und die Zielvorgaben kontrolliert. Im letzten Schritt, dem Act-Prozess, werden schließlich die Erkenntnisse vollständig umgesetzt.[^1]
+
+![bild](Obeya_Raum/PDCA-Zyklus.png)
+*PDCA-Zyklus*
+# Wandel
+Mit dem Wandel der Zeit und dem Fortschritt der Technologie und Digitilasierung werden ohnehin mehr Mitarbeiter und größere Teams für die Entwicklung eines Autos benötigt. Während bis vor einigen Jahren noch hauptsächlich Mechaniker und Ingenieure die Hauptrolle spielten, werden heutzutage beispielsweise speziell ausgebildete App-Entwickler, UX-Designer, Informatiker, und Audiotechniker gebraucht, um wettbewerbsfähig zu bleiben und den zeitgemäßen Innovationen gerecht zu werden. 
+# Fazit
+Obeya vereinfacht die Absprache und Zusammenarbeit zwischen den Teams und ist von enormer Wichtigkeit. Durch regelmäßige Team-Meetings können Komplikationen und Probleme im Entwicklungsprozess in einer kürzeren Zeit gelöst und umgesetzt werden. [^3]
+Vor allem bei Toyota wurde Obeya besonders effektiv umgesetzt. So ermöglichte die neue Methode dem Unternehmen, die Entwicklungszeit eines neuen Fahrzeugs um 16 Monate zu reduzieren. Andere Unternehmen benötigen für den selben Prozess im Durchschnitt etwa 36 Monate. [^1]
+
+# Siehe auch
+* [Lean Managements](Lean_Projektmanagement.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Stakeholdermanagement](Stakeholdermanagement.md)
+
+# Weiterführende Literatur
+* Aasland, K., & Blankenburg, D. (2012). Virtualizing the obeya. In DS 71: Proceedings of NordDesign 2012, the 9th NordDesign conference, Aarlborg University, Denmark. 22-24.08. 2012.
+
+* Johnson, C. N. (2002). The benefits fo PDCA. Quality Progress, 35(5), 120.
+
+* Nascimento, D. L. D. M., Sotelino, E. D., Lara, T. P. S., Caiado, R. G. G., & Ivson, P. (2017). Constructability in industrial plants construction: a BIM-Lean approach using the Digital Obeya Room framework. Journal of civil engineering and management, 23(8), 1100-1108.
+
+# Quellen
+[^1]: [Obeya (appvizer)](https://www.appvizer.de/magazin/organisation-planung/projektmanagement/obeya)
+
+[^2]: [Obeya Raum(Quality Services&Wissen GmbH)](https://www.quality.de/lexikon/obeya-raum/)
+
+[^3]: [Obeya (Projektmagazin)](https://www.projektmagazin.de/methoden/obeya-raum-methode)
+
+
+<!--
 Kurzbeschreibung zu Obeya_Raum um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
@@ -88,17 +142,18 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
+* [Projektmanagement](Projektmanagement.md)
+* [Lean Managements](Lean_Projektmanagement.md)
 * [Link auf diese Seite](Obeya_Raum.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* 
 
 # Quellen
 
 [^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
 [^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
 [^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) -->
 

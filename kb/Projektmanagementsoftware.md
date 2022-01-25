@@ -1,104 +1,84 @@
 ---
-title: Projektmanagementsoftware
-tags: agil klassisch
-author: mttno1
-anrechnung: k oder a
+title: {Projektmanagement-Software}
+tags: klassisch
+author: {mttno1}
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Projektmanagementsoftware um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# 1. Einführung
+Projektmanagement funktioniert prinzipiell auch ohne IT-Unterstützung aber es wäre nicht zeitgemäß und auch nicht effizient[^2].
+Mit **"Projektmanagement-Software"** werden Software-Produkte bezeichnet, die Projektmanagement-Prozesse unterstützen und ein Grundgerüst für die Abwicklung der Projekte bieten[^1]. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Mit den Ausführungen dieses Beitrags wird versucht, den Kommilitonen eine entsprechende Hilfestellung bei der Beschaffung von PM-Software zu geben.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# 2. Klassifizierung von Projektmanagement-Software
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Projektmanagement-Software ist kein klar definiertes Produkt – grundsätzlich kann damit alles gemeint sein vom E-Mail-Client, Standard Büro-Software bis zur Multiprojekt-Software[^1]. Im Prinzip lässt sich Projektmanagement-Software in folgende Klassen klassifizieren:
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+## 2.1.	Projektmanagement mit allgemeiner Software
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Das Projektmanagement kann insgesamt durch allgemeine Office-Lösungen unterstützt werden. Zentrale Tools dafür sind Datenbank- und Tabellenkalkulationssoftware z. B. MS Excel. Weitere Aspekte des Projektmanagements können durch Textverarbeitungs- und Präsentationssoftware abgedeckt werden. Im Vergleich zu professioneller Projektmanagement-Software wirken alle diese allgemeinen Lösungen zwar recht zusammenhanglos und nicht sehr professionell, können aber je nach Ausgangslage eines Unternehmens dann einen Sinn ergeben, wenn Projekte nicht zum Kerngeschäft gehören und somit nicht in größerer Anzahl durchgeführt werden.[^2]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+## 2.2.	Freeware-Lösungen zum Projektmanagement
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Das Internet bietet eine Vielzahl an Freeware-Lösungen an, die meisten mittlerweile rein web-basierte Anwendungen sind. Diese Freeware-Lösungen bieten bereits eine etwas kompaktere Lösung an IT-Unterstützung für das Projektmanagement an. Die Möglichkeiten sind zwar auch begrenzt, reichen aber in der Regel für die Voraussetzungen des grundlegenden Projektmanagement aus.[^2] Einige Aktivitäten des Projektmanagements wie grafische Darstellung können hier wesentlich komfortabler und professioneller unterstützt werden als mit allgemeiner Software und Office-Lösungen. Insbesondere bei cloud-basierten Freeware-Lösungen sollte man allerdings auf die Eingabe von sensiblen Daten verzichten und bei der Entwicklung eines neuen Produkts ist es nicht sinnvoll Freeware umzusetzen.
+
+## 2.3.	Professionelle Projektmanagement-Software-Lösungen
+
+Die Menge der Projektmanagement-Software bietet aber weitestgehend komplette Lösungen an, die zumindest die Aufgaben, Kapazitäten und Kosten sowie Risiken und weitere Aspekte von einzelnen Projekten darstellen können. Da sie in der Regel mehr leisten können als Freeware-Lösungen und häufig Bestandteil eines Gesamtpakets sein können, sind die Projektmanagement-Software-Lösungen auch deutlich verbreitet.
+	
+Auf dem Markt für Projektmanagement-Software werden viele hunderte verschiedene IT-Lösungen für Projektmanagement angeboten. Es gibt also ausreichend Tools für die unterschiedlichsten Ansprüche. Problematisch ist daher nicht das Auffinden von Tools, sondern die Auswahl des am besten geeigneten Tools für die individuellen Anforderungen des Unternehmens an das Projektmanagement.[^2]
+
+# 3. Auswahl von Projektmanagement-Software
+
+Die Zusammenstellung möglicher Anforderungen und ihrer Ausprägung ist ein erster Schritt, um eine Vorauswahl an Produkten zu treffen – und zwar eine "Longlist" in Frage kommender Produkte zu erstellen. Allerdings stellt man dann schnell fest, dass zum einen ein großer Funktionsumfang auch hohe Kosten bedeutet und dass zum anderen selbst bei sehr ähnlichen Leistungsmerkmalen zwei Produkte sehr unterschiedliche Preise haben können. Um eine qualifizierte Kaufentscheidung treffen zu können, muss man deshalb eine sorgfältige Kosten-Nutzen-Analyse durchführen.[^1]
 
 
-# Aspekt 1
+![Auswahl von PM-Software](Projektmanagementsoftware/Auswahl_von_PMSoftware.jpg)
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Abbildung 1: Auswahlprozess für Projektmanagement-Software[^1]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# 4. Implementierung von Projektmanagement-Software
 
-![Beispielabbildung](Projektmanagementsoftware/test-file.jpg)
+Die Implementation der Projektmanagement-Software kann grundsätzlich durch drei verschiedene Strategien stattfinden:
+* Pilotprojekte[^3],
+* Inkrementelles Vorgehensmodell[^4] oder
+* "Big Bang" Ansatz[^5] 
 
-*lustiges Testbild*
+Selbstverständlich können viele weiteren Strategien auf Basis dieser 3 Strategien entwickelt werden. 
+Allerdings welche dieser Strategien am besten für die Unternehmenssituation geeignet ist, muss innerhalb des Einführungsprojekts entschieden werden.
 
-# Aspekt 2
+# 5. Zusammenfassung
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Die Verwendung von Software beim Management von Projekten ist heutzutage nahezu unverzichtbar, muss aber genau betrachtet werden. Kein Format von Software ersetzt das professionelle Projektmanagement, sondern kann dies nur unterstützen. Je nach Voraussetzungen und Anforderungen des Unternehmens und der Projekte sollte die Tools sorgfältig ausgewählt werden. 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektmanagementsoftware.md)
+Verlinkungen zu Überthemen
+* [Projektmanagement](Projektmanagement.md)
+* [Projektmanagement 4.0](Projektmanagement_4_0.md)
+* [Hybrides Projektmanagement](Hybrides_Projektmanagment.md)
+
+Verlinkungen zu Unterthemen
+* [Übersicht PM-Tool](Uebersicht_PM_Tools.md)
+* [Jira PM-Tool](Jira_PM_Tool.md)
+* [Microsoft Project Tool](Microsoft_Project_PM_Tool.md)
+* [Trello PM-Tool](Trello_PM_Tool.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Cicibas, H., Unal, O. and Demir, K. (2010) ‘A Comparison of Project Management Software Tools (PMST).’, Software Engineering Research and Practice, (January), pp. 560–565.](http://www.softwaresuccess.org/papers/2010_Demir_Comparison_Project_Management_Software_Tools.pdf)
+* [Gobert, A., Keil, P. & Langlotz, V., (2008). Anforderungen und Auswahlkriterien für Projektmanagement-Software. In: Hegering, H.-G., Lehmann, A., Ohlbach, H. J. & Scheideler, C. (Hrsg.), INFORMATIK 2008. Beherrschbare Systeme – dank Informatik. Band 1. Bonn: Gesellschaft für Informatik e. V.. (S. 334-338).](https://dl.gi.de/handle/20.500.12116/21386)
+* [Thabane, L., Ma, J., Chu, R., Cheng, J., Ismaila, A., Rios, L. P., Robson, R., Thabane, M., Giangregorio, L., & Goldsmith, C. H. (2010). A tutorial on pilot studies: the what, why and how. BMC medical research methodology, 10, 1.](https://doi.org/10.1186/1471-2288-10-1)
+* [Karnas, J. and Robles, J. V. O.-13 (no date) ‘Implementing the Electronic Medical Record: Big Bang or Phased Rollout?’, Creat Nurs, (2), pp. 13–2007.](https://doi.org/10.1891/1078-4535.13.2.13)
+* [Khanna, Kamal & Arneja, Gazal. (2012). Choosing an Appropriate ERP Implementation Strategy. IOSR Journal of Engineering. 02. 478-483. 10.9790/3021-0203478483.](http://www.iosrjen.org/Papers/vol2_issue3/U023478483.pdf) 
+* [Capaldo, G. and Rippa, P. (2009), "A planned‐oriented approach for EPR implementation strategy selection", Journal of Enterprise Information Management, Vol. 22 No. 6, pp. 642-659.](https://doi.org/10.1108/17410390910999567)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Projektmanagement-Software kompakt](https://www.projektmagazin.de/projektmanagement-software-kompakt#auswahl-von-projektmanagement-software)
+[^2]: [Madauss BJ. (2017) IT-Unterstützung in Projekten: Projektmanagement-Software. In: Projektmanagement. Springer Vieweg, Berlin, Heidelberg](https://doi.org/10.1007/978-3-662-54432-7_18)
+[^3]: [Thabane, L., Ma, J., Chu, R., Cheng, J., Ismaila, A., Rios, L. P., Robson, R., Thabane, M., Giangregorio, L., & Goldsmith, C. H. (2010). A tutorial on pilot studies: the what, why and how. BMC medical research methodology, 10, 1.](https://doi.org/10.1186/1471-2288-10-1)
+[^4]: [Karnas, J. and Robles, J. V. O.-13 (no date) ‘Implementing the Electronic Medical Record: Big Bang or Phased Rollout?’, Creat Nurs, (2), pp. 13–2007.](https://doi.org/10.1891/1078-4535.13.2.13)
+[^5]: [Schatten A., Demolsky M., Winkler D., Biffl S., Gostischa-Franta E., Östreicher T. (2010) Vorgehensmodelle. In: Best Practice Software-Engineering. Spektrum Akademischer Verlag.](https://doi.org/10.1007/978-3-8274-2487-7_3)
 

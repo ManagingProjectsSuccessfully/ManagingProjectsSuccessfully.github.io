@@ -1,104 +1,66 @@
 ---
 title: Eisenhower_Matrix
-tags: agil klassisch
+tags: klassisch
 author: Ersan42
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Eisenhower_Matrix um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# Eisenhower Matrix
 
 
-# Aspekt 1
+Das Eisenhower Prinzip (auch genannt Eisenhower Methode, Eisenhower Matrix) kann dabei helfen, anstehende Aufgaben in Kategorien einzuteilen und diese zu priorisieren. Dabei wird jede Aufgabe auf Dringlichkeit und Wichtigkeit überprüft. Dadurch sollen die wichtigsten Aufgaben zuerst erledigt werden und die unwichtigen aussortiert werden. Eine Aufgabe kann wichtig/nicht wichtig sowie dringend/nicht dringend sein. Insgesamt ergeben sich vier Kombinationsmöglichkeiten, die in einer Matrix mit vier Quadranten, veranschaulicht werden. Jedem Aufgabentyp wird eine bestimmte Art der Bearbeitung zugeordnet. [^1]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Inhaltsverzeichnis
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+* [Wortherkunft](#wortherkunft)
+* [Aufgaben-Varianten](#aufgaben-varianten)
+* [Vorteile und Nachteile des Eisenhower Prinzips](#vorteile-und-nachteile-des-eisenhower-prinzips)
+* [Quellenverzeichnis](#quellenverzeichnis)
 
-![Beispielabbildung](Eisenhower_Matrix/test-file.jpg)
 
-*lustiges Testbild*
+# Wortherkunft
 
-# Aspekt 2
+Der Begriff leitet sich vom ehemaligen US-Präsidenten und Alliierten-General Dwight David Eisenhower. Eisenhower war der 34. Präsident der USA, gehörte der Republikanischen Partei an und regierte zwischen 1953 und 1961. Der Bezug auf Eisenhower geht jedoch auf eine Rede von ihm zurück, die folgendermaßen zitiert wird: „I have two kinds of problems, the urgent and the important. The urgent are not the important, and the important are never urgent.“ [^4]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Aufgaben-Varianten
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Jedem Aufgabentyp wird eine bestimmte Art der Bearbeitung zugeordnet.
 
-So kann man eine Tabelle erstellen:
+![bild](Eisenhower_Matrix/EisenhowerMatrix.PNG "Eisenhower-Matrix")[^1]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Hinsichtlich der Abbildung ist die [Aufgabenteilung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Aufgabenteilung.md) wie folgt:
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+* **A-Aufgaben** sind dringend und wichtig. Sie sollten sofort selbst erledigt werden
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+* **B-Aufgaben** sind wichtig, aber nicht dringend. Sie können auf einen anderen Termin verschoben werden, an dem sie selbst erledigt werden.
 
-### Ebene-3-Überschrift
+* **C-Aufgaben** sind nicht wichtig, aber dringend. Sie können an kompetente Mitarbeiter übergeben werden.
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+* **D-Aufgaben** sind nicht wichtig und nicht dringend. Sie müssen nicht erledigt werden und werden als sogenannte "Zeitfresser" eingestuft.
 
-# Aspekt n
+# Vorteile und Nachteile des Eisenhower Prinzips
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Die Einfachheit des Prinzips wird hochgeschätzt. Die Überprüfung der Aufgaben auf Wichtigkeit und Dringlichkeit kann sehr schnell erfolgen und gehört somit zu den **Vorteilen**. Man kann auch auf die Visualisierung verzichten, sofern es um wenige Aufgaben handelt. Stehen jedoch viele Aufgaben bevor, ist es hilfreich, sich ein Raster aufzuzeichnen. Die Eisenhower Methode hilft zudem, "Zeitfresser" zu identifizieren und diese auszusortieren. Projektleiter und [Projektmitarbeiter](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) können hierdurch ihre [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md) besser strukturieren.
 
+Die Methode ist hilfreich, Prioritäten besser zu setzen.
+Im besten Fall bearbeitet jeder überwiegend Aufgaben, die als dringlich und wichtig eingestuft werden können. Wird die Herangehensweise der Matrix effektiv umgesetzt, sollte sich also ein Zeitgewinn deutlich erkennen lassen. Die gewonnene Zeit kann wiederum für andere Dinge genutzt werden.[^2]
+
+Der größte **Nachteil** ist, dass das Eisenhower Prinzip überwiegend für Personen in Führungspositionen geeignet ist, die Aufgaben an andere weitergeben können. In der Schule, in der Universität und in vielen Berufsgruppen gibt es diese Möglichkeit nicht. Im Normalfall werden hierbei alle Aufgaben selsbt erledigt, auch die C-Aufgaben.
+
+Ein weiterer Kritikpunkt richtet sich an das Kriterium der Wichtigkeit. Sie ist oft nur subjektiv und daher ist es nicht immer eindeutig, ob eine Aufgabe wichtig oder unwichtig ist. Es befindet sich oft kein äußerer Faktor, der die Wichtigkeit bestimmt im Gegensatz zum Kriterium der Dringlichkeit, wo beispielsweise Deadlines anstehen.
+
+Kritiker kamen zu der Erkenntnis, dass wichtige Aufgaben nur selten dringend seien und dringende Aufgaben nur selten wichtig seien.
+Diese Betrachtungsweise stellt das gesamte Prinzip infrage.[^3]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Eisenhower_Matrix.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Self_Management](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Self_Management.md)
+* [Projektstrukturplan](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektstrukturplan.md)
 
-# Weiterführende Literatur
+# Quellenverzeichnis
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]:[Definition Eisenhower-Methode (Wikipedia)](https://de.wikipedia.org/wiki/Eisenhower-Prinzip#cite_note-1)   
+[^2]:[Fazit (bigKarriere)](https://www.bigkarriere.de/karrierewelt/querbeet/zeitmanagement-das-eisenhower-prinzip-do-or-not-do)  
+[^3]:[Ziele der Eisenhauer Matrix(t2informatik)](https://t2informatik.de/wissen-kompakt/eisenhower-matrix/)
+[^4]:[Historischer Hintergrund (Wikipedia)](https://de.wikipedia.org/wiki/Eisenhower-Prinzip)

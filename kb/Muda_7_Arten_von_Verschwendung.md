@@ -1,104 +1,110 @@
 ---
 title: Muda_7_Arten_von_Verschwendung
-tags: agil klassisch
+tags:  klassisch
 author: AmrouHasan
-anrechnung: k oder a
+anrechnung:  k
 ---
 
-Kurzbeschreibung zu Muda_7_Arten_von_Verschwendung um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Ein Grundsatz in der Produktion besagt, dass Verschwendung immer vermieden werden sollte. Die 7 Verschwendungsarten bzw. 7 Muda bekommen das Problem der Verschwendung in den Griff. Der japanische Begriff „Muda“ lässt sich auf Deutsch übersetzen als „sinnlose Tätigkeit“ übersetzen. [^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Arten der Verschwendung
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+In der klassischen Lehre des Lean Manufacturing werden sieben Verschwendungsarten definiert, welche reduziert werden können. Daraus ergeben sich folgende Arten der Verschwendung [^2] : 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+* Unnötige Transporte
+* Zu hohe Lagerbestände
+* Unnötige Bewegungen
+* Wartezeiten
+* Überproduktion
+* Falsche bzw. schlechte Prozesse & Technologien 
+* Ausschuss & Nacharbeit
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Normalerweise sind diese Arten von Verschwendungen miteinander verbunden. Beispielsweise führt eine Überproduktion zu einem erhöhten Lagerbestand, was zu höheren Transportkosten führt. [^1]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+# Verschwendung im Projektmanagement
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Das [Projektmanagement](Projektmanagement.md) kann ebenfalls von Verschwendung betroffen sein. Um dies zu vermindern bzw. zu vermeiden, muss eben das [Lean Projektmanagement](Lean_Projektmanagement.md) in Betracht gezogen werden. Im Folgenden findet man übliche Beispiele vor [^3] :
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+* Transport: Aufgabenwechsel, Unterbrechungen, unnötig langer Marketingtrichter
+* Bestandsaufnahme: Online gekaufte Tools, welche die Teams selten verwenden; Bürobedarf, die Bedürfnisse übersteigen
+* Bewegung: schlecht strukturierte Arbeitsbereiche und fehlende organisatorische Wege, zu viele Meetings, zusätzliche Bemühungen, Informationen zu finden
+* Warten: warten auf eine Genehmigung von höherem Management
+* Überproduktion: unnötig große Menge an Dokumenten zu füllen
+* Überbearbeitung: mehrere Genehmigungsebenen für kleine Aufgaben
+* Defekte: falsche Datensammlung
 
 
-# Aspekt 1
+# Umgang mit Verschwendung
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Die Beseitigung verschwenderischer Aktivitäten ist entscheidend für den Erfolg eines Unternehmens. Sie können dazu führen, dass die Rentabilität zu sinkt, die Kundenkosten sich erhöhen, die Qualität sinkt und sogar Mitarbeiter unzufriedener werden. Aus diesem Grund müssen die nicht wertschöpfenden Aktivitäten identifiziert werden und es muss versucht werden, den Prozess, in dem sie auftreten, zu verbessern oder sie letztendlich zu eliminieren. [^3]
 
-![Beispielabbildung](Muda_7_Arten_von_Verschwendung/test-file.jpg)
+Hier führt ein systematisches Vorgehen zum Ziel. Die Fragen, die sich das Unternehmen stellen sollte, sind:
 
-*lustiges Testbild*
+* Welche Hebel führen wirklich zu Verschwendung? 
+* Wie kann man es am effektivsten bekämpfen? 
 
-# Aspekt 2
+Die 7 Arten der Verschwendungen werden in der folgenden Abbildung veranschaulicht.[^1]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+![7 Arten der Verschwendung](Muda_7_Arten_von_Verschwendung/7_Arten_Verschwendung.jpg)
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+*7 Arten der Verschwendung* [^4]
 
-So kann man eine Tabelle erstellen:
+## Muda 1 : Transport
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Während Material transportiert wird, kann kein Mehrwert entstehen. Personal und Energie werden benötigt, das heißt steigende Kosten. Schäden während des Transports können auch entstehen. Außerdem sollte man auch prüfen, ob Weg A nach B nicht verkürzen lässt. [^1]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Tipp: 
+* Workstations näher zueinander bringen
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+ ## Muda 2 : Lagerbestände reduzieren
 
-### Ebene-3-Überschrift
+Ein überfülltes Lager ist kein Zeichen von Erfolg, ganz im Gegenteil. Dies ist ein Hinweis darauf, dass die Planung der Produktion verbessert werden muss. Übermäßige Lagerbestände bedeutet auch höhere Lagerbestände. [^2]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Tipps: 
+* Standardisierte und stabile Prozesse schaffen
+* Produktion besser ‚timen‘
 
-# Aspekt n
+## Muda 3 : Nicht ergonomische Bewegungen vermeiden
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Es gibt viele Schritte in der Produktion die einfach keinen Wert haben. Hierzu zählen überflüssige Laufwege Ihrer Mitarbeiter. Fehlhaltungen und Beugungen Beispielsweise  führen zu Knochen und Muskeln  Belastungen der Mitarbeiter. [^1]
 
+Tipp: 
+* Modulares, ergonomisches Arbeitsplatzsystem aufsetzen
+
+## Muda 4 : Wartezeiten
+
+
+Wenn sich Güter oder Aufgaben nicht bewegen, kommt es zu Wartezeiten. Dies sind zum Beispiel Waren, die darauf warten, ausgeliefert zu werden, Ausrüstung, die darauf wartet, repariert zu werden, oder ein Dokument, das auf die Genehmigung von Führungskräften wartet. [^3]
+
+
+## Muda 5 : Überproduktion
+Dieser Punkt ist vergleichbar mit der Verschwendung von Lagerbeständen. Auch hier liegt eine falsche Bewertung der Anfrage vor. Dadurch wird das Kapital länger immobilisiert und auch eine Qualitätsminderung während der Lagerungszeit ist ebenfalls denkbar. Doch die Lean Produktion kennt den richtigen Ansatz, um dem entgegenzuwirken. [^3]
+
+Tipp:
+* Anstreben des Pull-Prinzips (Produktion nach Bedarf) [^1]
+
+## Muda 6 : Überbearbeitung
+
+Auch wenn die Arbeitsschritte unnötig kompliziert sind, entsteht in der Produktion Verschwendung. Es ist wichtig, dass, eine Optimierung der kontinuierlichen Modernisierung von Infrastrukturen durchgeführt werden sollen. Der einfachste Weg dies zu tun, sind modulare Produktionssysteme.
+
+
+Tipp: 
+* Stetige Verbesserungen statt übertriebener Sorgfalt im Hier und Jetzt [^1]
+
+## Muda 7 : Defekte
+
+Mängel/Fehler können zu Nacharbeit, oder schlimmer noch zu Ausschuss führen. Generell müssten fehlerhafte Jobs wieder in Produktion genommen werden, was wertvolle Zeit kostet. Darüber hinaus ist in einigen Fällen ein zusätzlicher Nachbesserungsbereich erforderlich, der mit einer zusätzlichen Ausbeutung von Arbeitskräften und Werkzeugen verbunden ist. [^3]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Muda_7_Arten_von_Verschwendung.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Lean Projektmanagement](Lean_Projektmanagement.md)
+* [Nachhaltige Entwicklung](Nachhaltige_Entwicklung.md)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
+[^1]: [Die 7 Verschwendungsarten und was Sie dagegen tun können](https://www.produktion.de/technik/die-7-verschwendungsarten-und-was-sie-dagegen-tun-koennen-335.html)  
+[^2]: [7 Arten der Verschwendung – einfach erklärt!](https://der-prozessmanager.de/aktuell/wissensdatenbank/arten-der-verschwendung)  
+[^3]: [Die 7 Verschwendungsarten in Lean: Wie Sie Ihre Ressourcen optimieren](https://kanbanize.com/de/lean-management-de/wert-verschwendung/7-arten-der-verschwendung-nach-lean)
+[^4]: [Lean Methoden und Prozesse: Verschwendung vermeiden](https://www.management-circle.de/blog/lean-methoden-und-prozesse-verschwendung-vermeiden/)

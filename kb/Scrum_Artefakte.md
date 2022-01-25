@@ -4,8 +4,11 @@ tags: agil scrum artefakte
 author: kutaydogan
 anrechnung: a
 ---
+Es gibt im SCRUM nur 3 Artefakte, die jeweils eine Arbeit oder einen Wert repräsentieren: Das Product Backlog, das Sprint-Backlog und das Produktinkrement. Die Artefakte sollen für maximale Transparenz sorgen und garantieren, dass alle auf demselben Wissensstand sind. Jedes Artefakt hat eine übergeordnete Maxime, die es damit zu erreichen gilt.
+
 
 Es gibt im [Scrum](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) drei Artefakte: „Product Backlog“, „Sprint-Backlog“ und „Product Increment“. Diese haben jeweils einen übergeordneten Leitgedanken, der dabei helfen sollen, in allen Ebenen einen Überblick zu behalten.[^1]
+
 
 Zusätzlich garantieren die Artefakte einen kontinuierlichen Austausch mit maximaler Transparenz, sodass alle auf dem aktuellen Wissensstand sind, weshalb sie zu optimalen Arbeitsbedingungen beitragen.[^2][^3]
 
@@ -39,6 +42,8 @@ Die „Definition of Done“, welche bereits beim Sprint Planning vom Scrum-Team
 
 *Visualisierung des Prozesses nach Artefakten*[^7]
 
+
+siehe auch [^3](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgemeinsam-digital.de%2Fprojektmanagement-mit-scrum%2F&psig=AOvVaw2FMe4WNE7SQm5_PhJoYAyq&ust=1637865968173000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiL9LTUsfQCFQAAAAAdAAAAABAT)
 # Siehe auch
 
 * [SCRUM](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)

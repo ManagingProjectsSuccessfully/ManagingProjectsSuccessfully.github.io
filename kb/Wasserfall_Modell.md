@@ -1,104 +1,101 @@
 ---
 title: Wasserfall_Modell
-tags: agil klassisch
+tags: klassisch
 author: ga88maby
-anrechnung: k oder a
+anrechnung: k
 ---
+Das [Wasserfallmodell](Wasserfallmodell.md) ist ein [lineares_Modell](lineares_Modell.md), das das Projekt Schritt für Schritt nach einem klar definierten Prozess abarbeitet. Der Prozess gliedert sich in aufeinanderfolgende Phasen, deren Ergebnis zu einem definitiven Endergebnis führen soll.[^1] Dieses Modell wird hauptsächlich für die Softwareentwicklung verwendet. Das Modell wurde von Royce im Jahr 1970 entwickelt und enthlält fünf bis zu Sieben Phasen.[^2]
 
-Kurzbeschreibung zu Wasserfall_Modell um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+![Beispielabbildung](Wasserfall_Modell/Wasserfall_Modell.PNG)
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Abbildung Wasserfall. [^3]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Grundkonzepte und Phasen: 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Jede dieser Phasen endet mit einem Meilenstein, für den eine definierte Ergebnismenge bereitgestellt werden muss. Jede Phase ist mit verschiedenen Aktivitäten gebündelt, die vollständig in der richtigen Reihenfolge ausgeführt werden müssen. Am Ende jeder Aktivität steht ein fertiges Ergebnis.[^4] Tritt in einer abgeschlossenen Stufe ein Fehler auf, kann zur letzten Stufe zurückgekehrt werden, dieser Vorgang wird als [Feedback-Looping](Feedback-Looping.md) bezeichnet. [^5]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+![Beispielabbildung](Wasserfall_Modell/Phasen.jpg)
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+* Die 5 Phasen des Wasserfallmodells [^6]
 
 
-# Aspekt 1
+##  1. Anforderung:
+In der ersten Phase werden Anforderungen an das neue Projekt festgelegt. Sie beinhaltet eine [Ist-Analyse](Ist-Analyse.md) und ein [Soll-Konzept](Soll-Konzept.md). Während Ist-Analysen den Problembereich skizzieren, wird im Soll-Konzept definiert, welche Funktionen und Eigenschaften das Software-Produkt bieten muss, um den Anforderungen gerecht zu werden. Zu den Ergebnissen der Anforderungsdefinition gehören beispielsweise ein Pflichtenheft, eine detaillierte Beschreibung, wie die Anforderungen an das Projekt zu erfüllen sind, sowie ein Plan für Akzeptanztest.[^7]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Abschließend sieht die erste Phase des Wasserfallmodells eine Analyse der Anforderungsdefinition vor, in der komplexe Probleme in kleine Teilaufgaben zerlegt und entsprechende Lösungsstrategien erarbeitet werden.[^8]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+##  2. Design/ Entwurf:
+In der Designphase wird ein konkretes Lösungskonzept basierend auf vordefinierten Anforderungen, Aufgaben und Strategien entwickelt. In dieser Phase entwickeln Entwickler die Softwarearchitektur und den detaillierten Plan für den Aufbau der Software. Das Ergebnis der Designphase ist ein Designdokument mit einem Softwareentwicklungsplan und Testplänen für die einzelnen Komponenten.[^9]
 
-![Beispielabbildung](Wasserfall_Modell/test-file.jpg)
+##  3. Implementierung:
+Da wird die Softwarearchitektur, die in der Design-Phase erarbeitet wurde, in der Implementierungsphase realisiert.
+ Zumeist kristallisieren sich in der Implementierungsphase jedoch Fehler oder nicht realisierbare Teilaufgaben heraus, die in der Entwurfsphase entstanden sind. Daher erfolgen im Regelfall häufig Rückkopplungen zwischen Entwurfs- und Implementierungsphase. Das Ergebnis der Implementierungsphase ist ein Software-Produkt, das in der Folgephase erstmals als Komplettprodukt getestet wird.[^10]
+##  4. Überprüfung:
+In der Überprüfungsphase werden Designtests und die Integration auf verschiedenen Betriebssystemen bereitgestellt.[^11]  Die nun gefundenen Fehler müssen umgehend behoben werden. Dies ist in der Regel sehr aufwendig, da die Fehler meist auf frühere Phasen zurückzuführen sind.
 
-*lustiges Testbild*
+##  5. Wartung und Einführung: 
+Nach Abschluss aller Tests wird das fertige Produkt in Betrieb genommen und schließlich an den Kunden ausgeliefert. In dieser letzten Phase kann das Produkt immer wieder optimiert und aktualisiert werden.[^12] 
 
-# Aspekt 2
+# Eigenschaften der Wasserfall-Modell:
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+* Einfach und leicht verständlich
+* Der Entwicklungsprozess ist sequentiell, d.h. Jede Stufe muss abgeschlossen sein, bevor die Nächste beginnt
+* Am Ende jeder Phase gibt es ein vollständiges Dokument, d.h. das Wasserfallmodell ist ein "dokumentengesteuertes" Modell
+* Die Tätigkeiten sollten vollständig in der vorgeschriebenen Reihenfolge durchgeführt werden.[^13]
+ 
 
 
-# Siehe auch
+# Vorteile der Wasserfall-Modell:
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Wasserfall_Modell.md)
+1. Der größte Vorteil des Wasserfallmodells ist eine hohe [Planungssicherheit](Planungssicherheit.md). Dank der geordneten Struktur lassen sich auch große Projekte exakt planen und zuverlässig ausführen. [^14]
+2. Durch klar definierte Projektphasen, ist der Aufbau einfach
+3.  Klar getrennte Stufen, jede Stufe hat ein bestimmtes Ziel. [^15]
+4.  Die Abschätzung von Kosten und Dauer jeder Phase ist möglich
+ 
 
-# Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+# Nachteile der Wasserfall-Modell:
+Das Modell bringt auch paar kritische Punkte mit wie:
+1.  Abfolgeproblem: Theoretisch läuft jede Stufe nacheinander ab, aber in der Praxis sind  Rückschritte häufig unvermeidlich. [^16]
+2. Aufgrund veränderter Anforderungen, besteht wenig Spielraum für Anpassungen im Projektablauf
+3. Es ist kaum möglich, die Entwicklungsphasen nacheinander reibungslos zu bearbeiten
+4. Die Fehlern werden erst am Ende der Entwicklungsprozess erkennt
+5. Kaum flexibel gegenüber Änderungen
 
-# Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+# Andere Vorgehensmodelle:
+  Wegen der einigen gravierenden Nachteilen, die die wirtschaftliche Lage beschädigen, wird viele alternative von der IT-Industrie vorgeschlagen, wie z.b.:
+*	[Spiralmodell](Spiralmodell.md): ist ein Prozessmodell in der Softwareentwicklung, das 1986 von Barry W. Boehm beschrieben wurde. Es ist ein allgemeines Prozessmodell, also offen für bestehende Prozessmodelle.[^17]
+*	[Rational_Unified_Process](Rational_Unified_Process.md):  ist ein kommerzielles Produkt von der Firma Rational Software.  Es enthält das Vorgehensmodell der Softwareentwicklung und zugehörige Softwareentwicklungsverfahren.[^18]
+*	[V-Modell](V-Modell.md): ist ein Prozessmodell, das ursprünglich für die Softwareentwicklung entwickelt wurde. Ähnlich dem Wasserfallmodell organisiert es den Softwareentwicklungsprozess in Phasen. Neben diesen Entwicklungsphasen definiert das V-Modell auch Verfahren zur Qualitätssicherung (Testing), indem es jede Entwicklungsphase mit der Testphase vergleicht.[^19]
 
+
+
+# Siehe auch:
+
+* Der Unterschied zwischen klassisches Wasserfall_Modell und das agile Modell von Eva Mesirow. https://www.wegewerk.com/de/blog/wasserfall-vs-agile-umsetzung/
+* Projektmanagement: Wasserfall-Modell vs. agiles Vorgehen von Jan Philip Riehle.  https://www.pinuts.de/projektmanagement-wasserfall-modell-gegen-agiles-arbeiten
+* Was ist die Wasserfallmodell Softwareentwicklung und ist sie überhaupt noch relevant? von John Adam (2021). https://kruschecompany.com/de/wasserfallmodell-softwareentwicklung/
+
+
+# Quellen:
+
+[^1]: TEAMAZING https://www.teamazing.de/was-ist-das-wasserfallmodell/
+[^2]: ENZYKLOPAEDIE-DER-WIRTSCHAFTSINFORMATIK, Marco Kuhrmann (2012) https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
+[^3]: CLOUDINARY https://res.cloudinary.com/travelio/image/fetch/c_fill,f_auto,g_center/https://images.ctfassets.net/t13sz4t8kyqs/2hshC9HOYVFJCLoiv5ig8E/4d7df484dbdd1848c9432816152e4aee/TH.Huay_Mae_Khamin_Wasserfall.jpg
+[^4]: ENZYKLOPAEDIE-DER-WIRTSCHAFTSINFORMATIK, Marco Kuhrmann (2012) https://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/is-management/Systementwicklung/Vorgehensmodell/Wasserfallmodell/index.html
+[^5]: YOUTUBE, Tim Donkiewicz (2018) https://www.youtube.com/watch?v=8MEacBXP6zg&t=41s 
+[^6]: NETZSIEGER, Andreas Kiener (2018) https://www.netzsieger.de/ratgeber/methoden-des-traditionellen-projektmanagements#pid=1
+[^7]: IONOS (2020) https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
+[^8]: FACTRO ,Vivien-Jana Gaida (2021) https://www.factro.de/blog/wasserfallmodell/
+[^9]: IONOS (2020) https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
+[^10]: IONOS (2020) https://www.ionos.de/digitalguide/websites/web-entwicklung/wasserfallmodell/
+[^11]: FACTRO ,Vivien-Jana Gaida (2021) https://www.factro.de/blog/wasserfallmodell/
+[^12]: FACTRO ,Vivien-Jana Gaida (2021) https://www.factro.de/blog/wasserfallmodell/ 
+[^13]: QUALITY, Simone Fuchs  https://www.quality.de/lexikon/wasserfallmodell/
+[^14]: PINUTS; Jan Philip Riehle https://www.pinuts.de/projektmanagement-wasserfall-modell-gegen-agiles-arbeiten
+[^15]: FACTRO ,Vivien-Jana Gaida (2021) https://www.factro.de/blog/wasserfallmodell/
+[^16]: QUALITY, Simone Fuchs https://www.quality.de/lexikon/wasserfallmodell/
+[^17]: WIKIPEDIA https://de.wikipedia.org/wiki/Spiralmodell
+[^18]: WIKIPEDIA https://de.wikipedia.org/wiki/Rational_Unified_Process
+[^19]: WIKIPEDIA https://de.wikipedia.org/wiki/V-Modell

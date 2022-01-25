@@ -1,104 +1,78 @@
 ---
 title: Abschlussanalyse
-tags: agil klassisch
+tags: agil klassisch projektmanagement
 author: medjeara
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Abschlussanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Zur Bewertung eines Projekts gehört eine Abschlussanalyse, um festzustellen, ob das Projekt erfolgreich durchgeführt werden konnte oder insgesamt das Ziel verfehlt 
+wurde. 
+Aufgrund ihrer Zielsetzung, nur „Ist“-Informationen zugrunde zu legen, befindet sich die Abschlussanalyse meist am Ende eines Projekts[^3]. 
+Dieser Beitrag soll im Folgenden aufzeigen, welche Inhalte für die Abschlussanalyse wichtig sind, um eine vollumfassende Bewertung des gesamten Projektes zu 
+ermöglichen.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Grundsätzlich wird bei einer Abschlussanalyse ein Soll-Ist Abgleich für Projektziele, -ergebnisse, -zeit und -qualität durchgeführt. Des Weiteren wird eine 
+Nachkalkulation und zusätzlich eine Wirtschaftlichkeitsbetrachtung verfasst. Abschließend muss ein Abschlussbericht erstellt und dieser an dem Auftraggeber 
+übergeben werden.[^2].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+![Beispielabbildung](Abschlussanalyse/Screenshot-2165.jpg)[^3]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Prozessablauf Abschlussanalyse
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+## 1. Kennzahlen vergleichbarer Produktkategorien
+Zu Beginn werden Kennzahlen vergleichbarer Produktkategorien benötigt, um sie mit den Messzahlen des abgeschlossenen Projektes abgleichen zu können. In der Regel 
+treten beim Vergleich Abweichungen auf, deren Gründe bisher nicht ermittelt worden sind. Deshalb wird im nächsten Schritt nach den Ursachen hierfür gesucht.
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## 2. Ursachen & Erkenntnisse der Abweichung
+Als Grund für eine Abweichung, kann zwischen personellen, technischen und organisatorischen Ursachen unterschieden werden. Allerdings gilt es hierbei zwischen 
+vermeidbare und unvermeidbare Ursachen zu unterscheiden. Ein Beispiel für eine vermeidbare Ursache können schlechte Testdaten sein (technisches Abweichungsproblem). 
+Fehlerhafte Fremdteile, die man von einem externen Unternehmen bezogen werden und deshalb zu einer Abweichung führen, werden zu den unvermeidbaren Ursachen 
+gezählt.[^3].
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+## 3. Plan/Ist-Abweichung
+Bei dem Plan/Ist-Abweichung (oder auch Soll-Ist-Abgleich) wird eine weiterführende Kalkulation – möglichst in derselben Struktur wie bei den vorausgegangenen Vor- 
+und Mitkalkulationen – durchgeführt. Hierzu werden die ursprünglichen Berechnungen den tatsächlichen Werten für Aufwand, Umfang und Kosten gegenübergestellt. 
+Differenzen bezüglich der Termine und Kosten beim Material sowie der Leistungs- und Qualitätsmerkmale sind hinsichtlich ihrer Ausprägung, Ursachen und möglichen 
+Abhilfen im Rahmen einer Abweichungsanalyse zu untersuchen[^4].
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Bei komplexen Projekten bzw. Teileinheiten, deren Entwicklungsdauer häufig ein oder zwei Jahre überschreitet, besteht nach so langer Zeit die Gefahr, dass 
+Begründungen für größere Plan/Ist-Abweichungen nicht mehr realistisch festgestellt werden können. In derartigen Fällen wird zu einer phasenbezogenen 
+Abschlussanalyse geraten, die bereits unmittelbar nach der Zwischenabnahme fertiger Meilensteine und deren Arbeitsergebnisse durchgeführt werden kann[^3].
 
+## 4. Nachkalkulation
+Vor der Erstellung des Abschlussberichts wird eine Nachkalkulation erstellt. Diese muss zwar nur die wesentlichen Einheiten benennen, allerdings sollte auch der 
+Leistungsgrad und der dazugehörige Qualitätsaufwand erkennbar sein[^3].
+Der Vergleich mit dem ersten Planstand kommt die größte Bedeutung zu. Denn bei einer im Prozessablauf kontinuierlich durchgeführten Plankorrektur, würde ein 
+Vergleich mit dem letztendlich gültigen Planstand nur noch geringwertige Abweichungen aufweisen. Dabei sollen die Kosten in einem gewissen Rahmen eingehalten worden 
+sein, um die Wirtschaftlichkeit des Projekts gewährleisten zu können[^3].
 
-# Aspekt 1
+## 5. Abschlussbericht
+Die abschließende Bewertung des Projekts ist anhand vorab festgelegter Kriterien zu erfolgen. Eine Abweichung von bis zu 10 % bei allen Zielgrößen kann als “gutes 
+Ergebnis” eingestuft werden[^1]. 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## Anwendung im F&E-Bereich
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Abschlussanalyse/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Im Bereich der Forschung und Entwicklung kann durch Gewinnung objektiver Kennzahlen, anhand der Erfahrungsdaten und Messzahlen vieler Entwicklungsabschlüsse im 
+Zeitreihenvergleich, auch eine Annäherungsrechnung zum erzielten Produktivitätsfortschritt durchgeführt werden. Der große Vorteil der Abschlussanalysen liegt 
+in der Organisation eines breit angelegten Zugriffs zu diesen Daten, der in größeren F&E-Abteilungen zu einem rechnergestützten Wissenstransfer ausgebaut werden 
+kann[^3].
+Eine wichtige Komponente bei einer Abschlussanalyse sind Erfahrungsdaten. Diese geben eine wesentliche Orientierungshilfe. Im Schätz- und 
+Beurteilungsprozess wird das subjektiv vorhandene Erfahrungswissen durch systematisch gesammelte und ausgewertete Erfahrungsdaten ergänzt. Mithilfe einer (am besten 
+computergestützten) Datenbank sind Erfahrungsdaten schneller und leichter auswertbar. 
+ 
+# Fazit
+Zusammenfassend ist ersichtlich, dass die Plan/Ist-Abweichung (bzw. der Soll-Ist-Abgleich) einen sehr großen Anteil an der Abschlussanalyse einnimmt. Jedoch dürfen
+die anderen Aspekte für eine vollständige Analyse nicht vernachlässigt werden. 
 
 
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Abschlussanalyse.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
+# Verlinkungen zu angrenzenden Themen
+* [Projektabschluss](Projektabschluss.md)
+* [Projektabschlussbericht](Projektabschlussbericht.md)
+ 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: (https://www.peterjohann-consulting.de/projektabschluss/#21_der_projektabschlussbericht)
+[^2]: (https://www.consulting-life.de/projektabschluss/)
+[^3]: Riedl, J. (1990) Projekt-Controlling in Forschung und Entwicklung
+[^4]: (https://de.wikipedia.org/wiki/Projektabschluss)
 

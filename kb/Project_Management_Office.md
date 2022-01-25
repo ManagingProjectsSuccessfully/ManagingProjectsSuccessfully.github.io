@@ -1,104 +1,76 @@
 ---
 title: Project_Management_Office
-tags: agil klassisch
+tags: agil + klassisch
 author: nicolasrmg
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Project_Management_Office um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Aspekt 1
+Das **Project Management Office** (kurz PMO) ist eine permanente organisatorische Einheit im Unternehmen, ähnlich einer Stabsstelle, die für das zentralisierte und koordinierte Management aller [Projekte](Projekt.md) zuständig ist[^1]. Es befindet sich häufig direkt unterhalb der Geschäftsführung und setzt die Vision und Mission des Unternehmens in Strategien und Ziele um[^6].
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## Verwendung
+Der Einsatzbereich eines PMO variiert stark mit der Rolle des [Projektmanagements](Projektmanagement.md) im Unternehmen. In kleineren Unternehmen mit wenigen Projekten kann auf ein PMO eher verzichtet werden als in einem größeren Betrieb mit vielen abteilungs- und standortübergreifenden Projekten[^6]. Aufgrund seines flexiblen Einsatzbereiches, ist es schwierig konkret festzulegen, was die genauen Tätigkeiten eines PMOs sind, da sich diese stets an den individuellen Anforderungen orientieren[^3].
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+## PMO-Strukturen 
+Das PMO ist eine Managementstruktur, die projektbezogene Governance-Prozesse standardisiert und die gemeinsame Nutzung von Ressourcen, Methoden, Tools und Techniken erleichtert. Es gibt mehrere Arten von PMO-Strukturen, diese unterscheiden sich durch den Grad der Kontrolle und des Einflusses, den sie auf die Projekte innerhalb der Organisation haben[^1].
 
-![Beispielabbildung](Project_Management_Office/test-file.jpg)
+### Supportive PMO
+Das unterstützende PMO hat eine beratende Funktion. Es unterstützt durch die Bereitstellung von Vorlagen, [Best Practices](Best_Practices.md), Schulungen, Zugang zu Informationen und Erfahrungen aus anderen Projekten[^1]. Jedoch steht den Projektleitern frei, ob sie diese Vorschläge annehmen, daher ist der Grad der Kontrolle über die Projekte insgesamt eher gering[^2].
 
-*lustiges Testbild*
+### Controlling PMO
+Das steuernde PMO bietet Unterstützung und fordert die Einhaltung der Vorschriften mit verschiedenen Mitteln. Die Einhaltung kann die Übernahme bestimmter Managementrahmen oder -methoden unter Verwendung bestimmter Vorlagen, Formulare und [Tools](Uebersicht_PM_Tools.md) oder die Einhaltung der Governance umfassen. Der Grad der Kontrolle ist hier moderat[^1].
 
-# Aspekt 2
+### Directive PMO
+Das weisende PMO übernimmt die Kontrolle über die Projekte, indem es diese direkt verwaltet. Es übernimmt selbst die Funktionen der Initiierung, Planung, Durchführung, Überwachung und des Abschlusses der Projekte[^3]. Der Grad der Kontrolle ist daher sehr hoch[^1].
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## Aufgaben des PMO
+Das PMO unterstützt die [Projektleiter](Projektleiter.md) in vielfältiger Weise und übernimmt verschiedene Funktionen[^3]:
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Es übernimmt operative Aufgaben, wie die [Projektplanung](Projektplanung.md) und das [Projektcontrolling](Projektcontrolling.md), um so direkten Einfluss auf die auf Ressourcen, Budgets und Zeitpläne zu bekommen[^5]. Ein effizientes [Ressourcenmanagement](Ressourcenplanung.md) ist von großer Bedeutung, da sichergestellt werden muss, dass die richtigen Kompetenzen zur richtigen Zeit im richtigen Projekt eingesetzt werden[^2]. Wenn es über die entsprechenden Kompetenzen verfügt, kann das PMO sogar das [Projektportfoliomanagement](Projektportfoliomanagement.md) übernehmen[^4].
 
-So kann man eine Tabelle erstellen:
+Das PMO identifiziert und entwickelt Projektmanagement-Methoden, [Best Practices](Best_Practices.md), [Lessons Learned](Lessons_Learned.md) und Standards, die bei zukünftigen Projekten angewendet werden können. Durch diese einheitlichen Projektmanagement-Standards wird allen Projektbeteiligten ein möglichst klarer Leitfaden vermittelt[^2]. Dadurch kann die gewünschte Planungsqualität sichergestellt werden, während sich gleichzeitig der administrative Verwaltungsaufwand verringert[^1]. Außerdem wird so eine leichtere Vergleichbarkeit zwischen den Projekten ermöglicht[^3]. Solche organisatorischen Standards sind zum Beispiel bereits vordefinierte Rollen oder die Nutzung einheitlicher Formulare und Checklisten. Gleichzeitig überwacht das PMO auch die Einhaltung der festgelegten Projektmanagementstandards[^4].
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Ebenso übernimmt es Coaching und Mentoring. Bevor die Zuständigkeiten überhaupt an das [Projektteam](Projektmitarbeiter.md) abgegeben werden können, muss erst das nötige Knowhow durch eine Personalentwicklung sichergestellt werden[^2].
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Auch ist es verantwortlich für die Entwicklung und Verwaltung von Projektrichtlinien, -verfahren, -vorlagen und anderen [Dokumentationen](Projektdokumentation.md). Die Projektergebnisse werden in einer zentralen Wissensdatenbank archiviert und für eine zukünftige Nutzung bereitgestellt[^6]. Ein projektorientiertes [Wissensmanagement](Wissensmanagament.md) wird erfahrungsgemäß erst durch ein aktives PMO gelebt[^4].
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Häufig übernimmt es auch die Koordinierung und Kommunikation und gewährleistet so einen reibungslosen Informationsfluss über alle Projekte hinweg[^3].
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+![Beispielabbildung](Project_Management_Office/pmo_roles.png)
 
-# Aspekt n
+### *Die Hauptaufgaben eines PMO*[^8]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+
+## Einordnung im klassischen und agilen Projektmanagement
+Abschließend kann nicht genau gesagt werden, ob das PMO eher dem klassischen oder dem agilen Projektmanagement zugeordnet werden kann. Im ersten Moment klingen Stichworte wie einheitliche Projektmanagement-Standards erst einmal sehr starr und unflexibel, aber man darf nicht vergessen, dass sich das PMO stets an den Anforderungen des Unternehmens anpasst und durchaus auch in einem agilen Umfeld funktionieren kann[^7].
+
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Project_Management_Office.md)
+* [Internationale Projektmanagement Standards](Internationale_Projektmanagement_Standards.md)
+* [Konfliktmanagement](Konfliktmanagement.md)
+* [Projektberatung](Projektberatung.md)
+* [Projektsteuerung](Projektsteuerung.md)
+* [Risikomanagement](Risikomanagement.md)
+* [Stakeholdermanagement](Stakeholdermanagement.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Roden, Eileen J./Dr. Joslin, Robert/Dr. Müller, Ralf (2018): "PMO Principles"](https://www.amazon.de/PMO-Principles-Dr-Robert-Joslin/dp/3906937003)
+* [Taylor, Peter/Mead, Ray (2016): "Delivering Successful PMOs: How to Design and Deliver the Best Project Management Office for your Business"](https://www.amazon.de/Delivering-Successful-PMOs-Management-Business-ebook/dp/B01CR69HTO)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [AIMS Education, UK (2016): „What is Project Management Office Definition & PMO Roles and Responsibilities | AIMS (UK)“](https://www.youtube.com/watch?v=WFO2sZd8oh4)
+[^2]: [Martins, Julia (2021): „Wie ein Project Management Office (PMO) Zusammenarbeit und Informationsaustausch fördert“](https://asana.com/de/resources/pmo-project-management-office)
+[^3]: [Ortner, Gerhard/Stur, Bettina (2019): „Das Projektmanagement-Office“](https://link.springer.com/book/10.1007/978-3-662-59486-5)
+[^4]: [Pavlik, Franz (2017): „PMO – Project Management Office“](https://dieprojektmanager.com/project-management-office-pmo/)
+[^5]: [Strasser, Johann/Schmidt-Sibeth, Achim (2021): „Warum ein PMO? Definition, Vorteile und Mehrwert eines Projektmanagement Office“](https://www.theprojectgroup.com/blog/pmo-project-management-office/)
+[^6]: [Widmer, Annegret (2021): „Was ist ein Project Management Office, ein PMO – und warum brauche ich das?“](https://meisterplan.com/de/blog/was-ist-ein-project-management-office/)
+[^7]: [Diehl, Andreas (2021): "Agile Projektorganisation – Wie dein PMO zur Keimzelle für agiles Arbeiten wird"](https://digitaleneuordnung.de/blog/agile-projektorganisation/)
+[^8]: [Infografik](https://images.squarespace-cdn.com/content/v1/5ae46213372b9649d0a30d55/1620927958106-YQZXPHOI8F1UOKSGAUGI/Screen+Shot+2021-05-13+at+1.45.33+PM.png)
 

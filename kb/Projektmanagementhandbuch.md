@@ -1,104 +1,87 @@
 ---
 title: Projektmanagementhandbuch
-tags: agil klassisch
+tags: klassisch Projektmanagementhandbuch PM-Handbuch Projekthandbuch Projektdokumentation Projekt
 author: Harthauer
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Projektmanagementhandbuch um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Projektmanagementhandbuch
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das Ziel eines Projektmanagementhandbuchs ist es, die Grundlagen für die Durchführung der verschiedenen Aufgaben in Projekten zu schaffen. Es steigert die Effizienz der Projektarbeit, indem es Verfahrensabläufe festlegt und somit alle Projektbeteiligten entlastet[^1]. 
+Nach der Definition der DIN 69901-5 ist ein Projektmanagementhandbuch eine „Zusammenstellung von Regelungen, die innerhalb einer Organisation generell für die Planung und Durchführung von Projekten gelten“[^2] und ist somit ein wichtiger Teil des klassischen Projektmanagements. 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+![Hanbuch Icon](https://github.com/Harthauer/ManagingProjectsSuccessfully.github.io/blob/main/projektbilddd.jpg)
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+*Das Projektmanagementhandbuch als einer der vielen Bestandteile des Projektmanagements*[^3]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+# Abgrenzung Projektmanagementhandbuch, [Projekthandbuch](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekthandbuch.md) und [Projektdokumentation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektdokumentation.md)
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Das Projektmanagementhandbuch bezieht sich im Allgemeinem auf die Regelungen, welche für die Durchführung und Planung eines Projekts in einem Unternehmen gelten[^2]. Im Gegensatz dazu, bezieht sich das [Projekthandbuch](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekthandbuch.md) auf die „Zusammenstellung von Informationen und Regelungen, die für die Planung und Durchführung eines bestimmten Projekts gelten sollen“[^4] und enthält damit spezifische Regelungen, die nur für ein spezielles Projekt gelten.
+Ein Projektmanagementhandbuch beschreibt somit Verfahren und Methoden eines Projekts, die im Projekthandbuch Anwendung finden[^5].
+Die [Projektdokumentation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektdokumentation.md) hingegen, umfasst alle Dokumente, welche im Rahmen des Projekts erstellt werden und dient als Sammlung aller relevanten Dokumente im Projekt[^6].
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+# Aufbau und Inhalt
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Ein Projektmanagementhandbuch muss pragmatisch und verständlich gehalten werden, da zu komplizierte und umfassende Handbücher in der Praxis selten angewendet oder akzeptiert werden[^2]. Die Kenntnis über die Existenz eines Projektmanagementhandbuchs in einem Unternehmen sollte vorhanden sein, um Mitarbeiterinnen und Mitarbeiter in das Projektmanagementhandbuch mit einzubinden. Diese Mitwirkung sichert Akzeptanz bei den [Projektmitarbeitern](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmitarbeiter.md) und erhöht auch die Bereitschaft, das Projektmanagementhandbuch anzuwenden. Es gibt Vorlagen für den Aufbau eines Projektmanagementhandbuchs. Dabei ist zu beachten, dass diese auf das jeweilige Unternehmen angepasst werden[^1]. 
+
+## Mögliche Inhalte eines Projektmanagementhandbuchs sind:
+
+* Projektkriterien: Was ist ein Projekt?
+
+Nicht jede Aufgabe oder Tätigkeit eines Unternehmens ist ein Projekt. Um erkennen zu können, ob eine Tätigkeit die Aufmerksamkeit eines strukturierten Managements erfordert, sollte diese einige Kriterien erfüllen, um als Projekt angesehen zu werden. Beispielsweise betreten Projekte Neuland, sie arbeiten an Lösungen, die es so noch nicht gibt. Außerdem sind sie zeitlich begrenzt, es gibt also einen Anfang und ein terminlich vereinbartes Ende. Als letztes Beispiel haben Projekte einen einmaligen Charakter und sind nicht für die Reproduktion bereits vorhandener Dinge geeignet[^7]. 
+
+* Projektarten 
+
+Zwei wesentliche Projektarten sind Entwicklungsprojekte und Veränderungsprojekte[^7].
 
 
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Projektmanagementhandbuch/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
+| Entwicklungsprojekte  | Veränderungsprojekte |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| entwickeln neue Produkte oder Dienstleistungen[^7]. |  befassen sich mit der Veränderung von Organisationsstrukturen, wobei die Entwicklung einer neuen Form der Zusammenarbeit von Menschen im Vordergrund steht und nicht die Entwicklung eines neuen Produktes[^7]. |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+* Organisatorische Rahmenbedingungen
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Beschreibt die Projektorganisation mit Kompetenzen, Aufgaben und Verantwortungen aller Projektbeteiligten[^8].
 
-### Ebene-3-Überschrift
+* PM-Tools und -Templates
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Listet alle PM-Tools und Templates auf, welche vom Unternehmen zur Verfügung gestellt werden. Umfasst einfache Templates sowie professionelle Planungstools[^8].
 
-# Aspekt n
+* Glossar
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Umfasst alle firmenspezifischen Begriffe, die für das Verständnis in der Vorgehensweise wichtig sind[^8].
+
+# Nutzen
+
+Der Nutzen eines Projektmanagementhandbuchs wäre zum Beispiel, dass die Projektleitung erfährt, bei welchen prozentualen Abweichungen von Kosten oder Terminen Gremien oder Vorgesetzte informiert werden müssen. Vorlagen für Statusmeldungen oder Zwischenberichte helfen, Zeit bei der Berichtserstellung zu sparen, sowie an alle wichtigen Informationen zu denken, über die berichtet werden muss[^1].
+Es beinhaltet standardisierte Vorgehensweisen für [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md), was eine effiziente Durchführung von Projekten fördert, weil dadurch nicht bei jedem Projekt das Vorgehen erneut mühsam erschlossen werden muss. Bereits erprobte und als erfolgreich angesehene Vorgehensweisen werden dokumentiert und können so in zukünftigen Projekten wieder angewendet werden. Außerdem kennen dank des Projektmanagementhandbuch alle Projektbeteiligten und Stakeholder die Abläufe des Projekts und können diese nachverfolgen[^8].
+
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektmanagementhandbuch.md)
+* [Projekthandbuch](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projekthandbuch.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Lastenheft](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Lastenheft.md)
+* [Pflichtenheft](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Pflichtenheft.md)
+* [Projektstrukturplan](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektstrukturplan.md)
+* [Projektabschlussbericht](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektabschlussbericht.md)
+* [PMBOK Guide](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/PMBOK_Guide.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+ [Methoden und Hilfsmittel im Projektmanagement-Handbuch](https://www.business-wissen.de/hb/methoden-und-hilfsmittel-fuer-das-projektmanagement/)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [So erstellen Sie ein Projektmanagement-Handbuch](https://www.business-wissen.de/artikel/projektmanagement-so-erstellen-sie-ein-projektmanagement-handbuch/)
+[^2]: [Projektmanagementhandbuch](https://de.wikipedia.org/wiki/Projektmanagementhandbuch)
+[^3]: [Das Projektmanagementhandbuch als einer der vielen Bestandteile des Projektmanagements](https://www.sekretaria.de/bueroorganisation/projektmanagement/projektakte-richtig-strukturieren/)
+[^4]: [Projekthandbuch](https://de.wikipedia.org/wiki/Projekthandbuch)
+[^5]: [Projekthandbuch](http://www.hs-augsburg.de/pm-bau/Homepage/3-1%20Projekthandbuch.html)
+[^6]: [Projektdokumentation – wichtige Grundregeln](https://dieprojektmanager.com/projektdokumentation-wichtige-grundregeln/)
+[^7]: [Was ist ein Projekt?](http://www.projektmanagementhandbuch.de/handbuch/projektinitiierung/projektdefinition/)
+[^8]: [Über den Irrtum "One Size Fits All" oder:
+Was ein PM-Handbuch praxistauglich macht](https://www.projektmagazin.de/artikel/was-ein-pm-handbuch-praxistauglich-macht_6802)
 

@@ -1,104 +1,82 @@
 ---
 title: Umfeldanalyse
-tags: agil klassisch
+tags: agil 
 author: fa97fyka
-anrechnung: k oder a
+anrechnung: a
 ---
+# Umfeldanalyse
+Die Umfeldanalyse ist eine analytische Methode, um das Umfeld eines Projekts zu analysieren. Es wurde daraus Schlussfolgerungen für die Interaktion des Projekts mit seinem Umfeld gezogen. Es dient dazu die Interne und externe Einflussfaktoren zu sammeln, die auf das Projekt wirken können.
+Die Hauptfrage dieser Analyse ist „worauf müssen wir alles achten?“. Da der Erfolg eines Projekts von verschiedenen internen und externen Faktoren abhängig ist, geht es darum alle wichtigen Faktoren zu sammeln, die auf den Lauf eines Projekts Einfluss nehmen können.
+Die Umfeldanalyse wird üblicherweise vor oder in der Startphase eines Projekts durchgeführt und die Ergebnisse sollen überprüft und aktualisiert werden. Somit schafft die Analyse Bewusstsein über Schwächen und Risiken und Sie werden im nächsten Schritt als Basis für die Entwicklung und Formulierung von verschiedenen Strategieoptionen verwendet, die zur Risikominimierung beitragen.
+Anschließend muss sich das Unternehmen für eine Option entscheiden, indem Sie alle Optionen anhand der Ziele des Projekts bzw. Projektfelds bewertet.
 
-Kurzbeschreibung zu Umfeldanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+## Inhaltsverzeichnis:
+  1. Die mögliche Einflussfaktoren
+  2. Das Vorgehen bei der Umfeldanalyse
+  3. Die vor- und Nachteile der Umfeldanalyse
+  4. Fazit
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## Die mögliche Einflussfaktoren:
+Zur besseren Übersicht werden die gesammelten Faktoren nach den folgenden Kriterien geordnet:
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+### 1. Sachliche und Soziale Faktoren:
+Die sachlichen Faktoren sind vor allem natürlichen, technischen, wirtschaftlichen oder politischen Faktoren. Wie zum Beispiel:
+Gesetzen, wirtschaftliche Stabilität, neue Technologien usw.
+Die sozialen Faktoren findet man im [soziokulturellen Umfeld](soziokulturellen_Umfeld.md). Wie zum Beispiel:
+Mitarbeiter, Führungskräfte, Kunden unw.
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+### 2. Interne und Externe Faktoren:
+Interne Faktoren sind diese Faktoren, die Innerhalb des Unternehmens oder des Projekts liegen. Die internen Faktoren sind von dem Projekt oder dem Unternehmen direkt beeinflussbar.
+Externe Faktoren sind diese Faktoren, die außerhalb des Unternehmens liegen und nicht direkt beeinflussbar sind.
+Eine Abbildung zu einer bessern Übersicht:
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+![Beispielabbildung](Umfeldanalyse/Einflussfaktoren.jpg)
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+*Abbildung 1: Die mögliche Einflussfaktoren*
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Die Umfeldanalyse kann ebenfalls der Analyse der [Makroumwelt](Makroumwelt.md) und der [Branchenumwelt](Branchenumwelt.md) zugeteilt werden. Die Makroumwelt beinhaltet die Einflussgröße wie zum Beispiel: Rechtliche/politische Umwelt, Ökonomische Umwelt und technologische Umwelt. Die Analyse der Branchenumwelt kann in fünf Wettbewerbskräften erfolgen: 
+Eigenes Unternehmen, Kunden Konkurrenz, Lieferanten und Substitution.
+Die Branche beeinflusst Unternehmen und Wettbewerb unmittelbar und die Makroumwelt beeinflusst die Branche und damit mittelbar das Unternehmen.
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Das Vorgehen bei der Umfeldanalyse
+### 1. Faktoren sammeln:
+Hier werden zunächst die gegebenen Situationen und zu erwartenden Entwicklungen untersucht. In diesem Schritt geht man zunächst in die Breite und versucht alle Einflussfaktoren zu ermitteln. Es gibt hilfreiche Fragen, um die Einflussfaktoren zu ermitteln:
+* Was muss beachtet werden?
+* Wo findet das Projekt statt?
+* Welche Übergeordnete Ziele müssen beachtet werden?
+* Welche Personen oder Gruppen können den Erfolg des Projektes beeinflussen?
+* Welche rechtlichen Aspekte müssen berücksichtigt werden?
 
+### 2. Faktoren ordnen und visualisieren:
+Welche Wirkungen erwarten Sie von den Einflussfaktoren? 
+Mit den gefundenen Einflussfaktoren wird dann weiterbearbeitet. Hier geht die Analyse in die Tiefe. Es gilt abzuschätzen, welche möglichen Wirkungen der Einflussfaktoren auf das Projekt zu erwarten sind. Ist die Wirkung für das Projekt positiv oder negativ. Wie stark ist die erwartete Wirkung.
 
-# Aspekt 1
+## Die vor- und Nachteile der Umfeldanalyse:
+### Vorteile:
+* Die Entdeckung von Störfaktoren und Schwächen im Projekt.
+* Erkennung von Abhängigkeiten durch Darstellung der Umfelder. 
+* Festlegung von Maßnahmen um die Risiken zu bewältigen und die gewünschte Projektergebnisse zu erreichen.
+* Ergebnisse sind für weitere Analysen verwertbar
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+### Nachteile:
+* Die Visualisierung kann unübersichtlich sein, wenn sehr viele Faktoren untersucht werden.
+* Die Subjektive Einschätzung kann als objektiv angesehen werden.
+* zeitaufwendig
+* hohe Kosten
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+## Siehe auch:
+1. [Stakeholderanalyse](Stakeholderanalyse.md)
+2. [SWAT_Analyse](SWAT_Analyse.md)
+3. [Risikomanagement](Risikomanagement.md)
+4. [Risikomap](Risikomap.md)
+5. [Qualitaetsmanagement](Qualitaetsmanagement.md)
+6. [Qualitaetssicherung](Qualitaetssicherung.md)
 
-![Beispielabbildung](Umfeldanalyse/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Umfeldanalyse.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+## Quellen
+* Projekt-leicht-gemacht, [Die Umfeldanalyse einfach erklärt](https://projekte-leicht-gemacht.de/blog/methoden/projektstart/die-umfeldanalyse-einfach-erklaert/) 
+* Projektmagazin, [Umfeldanalyse](https://www.projektmagazin.de/methoden/umfeldanalyse)
+* Controlling-Portal, [Umfeldanalyse, Umfeldanalyse im Rahmen der strategischen Planung](https://www.controllingportal.de/Fachinfo/Grundlagen/Umfeldanalyse.html)
+* Factro, [Mit der Projektumfeldanalyse erfolgreich starten](https://www.factro.de/blog/projektumfeldanalyse/)
+* Betriebswirtschaft-lernen, [Umfeldanalyse](https://www.betriebswirtschaft-lernen.net/erklaerung/umfeldanalyse/)
+* Evolutionizer, [Umfeldanalyse](https://www.evolutionizer.com/strategielexikon/umfeldanalyse)
 

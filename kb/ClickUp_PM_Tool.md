@@ -1,104 +1,97 @@
 ---
 title: ClickUp_PM_Tool
-tags: agil klassisch
+tags: agil, klassisch, Projektmanagement, Tool, Team, Kollaboration, Teammanagment, Aufgabenteilung
 author: urimi0
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu ClickUp_PM_Tool um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+[ClickUp](https://clickup.com) ist ein Kollaborations- & [Projekt-Management Tool](Uebersicht_PM_Tools.md) , das für sämtliche Arten und Größen von Unternehmen geeignet ist. Verschiedene Funktionen, die zur Planung, Organisation und vor allem Zusammenarbeit von [Projekten](Projekt.md) dienen werden auf einer Plattform zusammengefügt[^2]. Die Kernidee des Unternehmens war es Funktionen von bereits vorhandenen Projekt-Management-Tools wie [Trello](Trello_PM_Tool.md), [Asana](Asana_PM_Tool.md), [Jira](Jira_PM_Tool.md), usw. zu einem Tool zu kombinieren.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![ClickUp_Logo](ClickUp_PM_Tool/logo.png)
+# Das Unternehmen
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+ClickUp wurde im März 2017 gegründet und einige Monate später wurde das Headquarter in San Diego aufgebaut. Das junge Unternehmen hatte sich als Ziel gesetzt die
+Produktivität auf der Welt zu fördern. Hierbei wurden sie gestört durch die Nutzung von zu vielen anderen Tools, die keine Bindung zueinander haben.[^7] 
+Somit sollte eine Plattform errichtet werden, die alle wichtigen Funktionen zu einer Anwendung vereinen. Auf der Homepage werden die Core Values, somit die
+wichtigsten Werte des Unternehmens gezeigt. Harte Arbeit, ständiges Wachstum aber auch Spaß haben und einige weitere Werte sind dem Unternehmen besonders Wichtig.[^7]
 
 
-# Aspekt 1
+# Das Tool
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+ClickUp verbindet eine große Vielfalt an Features mit einer dennoch sehr übersichtlichen Gestaltung der Anwendung. 
+Dem User werden alle Dateien und Aufgaben (Hier: „Tasks“) direkt auf dem eigenen Homescreen angezeigt. Durch die Möglichkeit Tasks und Dateien mit anderen zu
+teilen, können Unternehmen anstehende Arbeit auf ihre Mitarbeiter verteilen. Hierbei erhält jede Person, die auf sich zugeteilte Arbeit. Eines der wichtigsten
+Features ist hier der Unterpunkt „Spaces“. Hier hat man die Möglichkeit Teams aufzuteilen in die jeweiligen Zuständigkeitsbereiche, wie beispielsweise Marketing,
+Software-Entwicklung, etc.[^1] Spaces lassen sich ebenfalls noch unterteilen in „Ordner“ und „Lists“, um für mehr Ordnung zu schaffen. Lists enthalten die eigentlichen Aufgaben, die dann noch aufgrund ihrer Priorität gekennzeichnet werden können. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Weitere Funktionen, auf die ein großer Wert gelegt wird, sind Dashboards und Docs. Dashboard bietet die Möglichkeit eine Timeline zu erstellen, die verschiedene
+Werte, Daten, Videos oder auch einen Chat mit Teammitgliedern anzeigt. Hier sind die Möglichkeiten zur Ausgestaltung wieder zahlreich. Docs ist vergleichbar mit der
+Anwendung DropBox. Hier können alle möglichen Arten von Dateien oder Fotos geteilt werden. Bei allen Funktionen kann eingestellt werden welche Personen Zugriff oder
+Einsicht haben auf diesen Inhalt.[^1] 
 
-![Beispielabbildung](ClickUp_PM_Tool/test-file.jpg)
+Bei allen Features und Möglichkeiten wird am meisten Wert auf die Kommunikation gelegt. Ob es ein direkter Chat ist oder die Kommentarfunktion bei Tasks, das Team
+soll gemeinsam Ziele erreichen. 
 
-*lustiges Testbild*
 
-# Aspekt 2
+# Einstieg in ClickUP
+## App 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+ClickUp wirbt ihre App mit dem Spruch: „One App to replace them all“. Erneut sollen Funktionen aus verschiedenen anderen Apps zu einer Anwendung zusammengeführt
+werden. Ob als Tabellenkalkulation, [Kanban Board](Kanban_Board.md) oder auch als Projektmanagement-App wie [Microsoft Project](Microsoft_Project_PM_Tool.md), die
+App ermöglicht verschiedene Anwendungsmöglichkeiten.[^6]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+![ClickUp_APP](ClickUp_PM_Tool/ClickUp_APP.png)
 
-So kann man eine Tabelle erstellen:
+## Erleichterte Datenübernahme
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+ClickUp erleichtert Usern den Umstieg von anderen Projetkmanagement-Tools auf die eigene Anwendung, indem sie Import-Optionen von anderen Plattformen anbieten.
+Aufgaben, Daten, etc. können sofort in den eigenen Account integriert werden. Zusätzlich können Programme wie Office 365, Slack, DropBox oder der Outlook-Kalender
+in ClickUp miteinbezogen werden, um noch mehr Personalisierung und Komfort zu schaffen.[^4] 
+ClickUp bietet ebenfalls die Möglichkeit andere Internetseiten zur eigenen Timeline, im Dashboard, hinzuzufügen. Beispiele wären YouTube, Keynote, LinkedIn,
+Spotify, und viele Weitere.[^5]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+# Preisliste
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+* ClickUp ist kostenlos nutzbar. Möglichkeit, bei Zahlung verschiedene Features freizuschalten.
+* Bei der folgenden Tabelle wurden die monatlichen Preise betrachtet. Bei Abschluss von jährlichen Abonnements sinken die Preise monatlich betrachtet.
 
-### Ebene-3-Überschrift
+*(Tabelle gekürzt, bei [ClickUp](https://clickup.com) weitere Kategorien) 
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+|   Preise            |   Kostenlos   |      9$       |     19$      |      29$      |  Enterprise   |
+| ---------------------- | ------------- | ------------- | ------------ | ------------- | ------------  |
+|   Speicher             | 100 MB        | Unbegrenzt    | Unbegrenzt   |  Unbegrenzt   |  Unbegrenzt   |
+|Synchronisierung¹       | Nein          | Ja            | Ja           |  Ja           | Ja            |
+|Security (Features)     | 1 von 16      | 1 von 16      |     3 von 16 |     5 von 16  |    16 von 16  |
+|Collaboration (Features)|     9 von 15  |    13 von 15  |    14 von 15 |    15 von 15  |    15 von 15  |
+| Priority Support       | Nein          | Nein          | Nein         | Ja            | Ja            |
 
-# Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+¹(Google Drive, Dropbox, Box Cloud, OneDrive Cloud)
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](ClickUp_PM_Tool.md)
+* [Jira](Jira_PM_Tool.md)
+* [MeisterTask](MeisterTask_PM_Tool.md)
+* [Hive](Hive_PM_Tool.md)
+* [Trello](Trello_PM_Tool.md)
+* [Podio](Podio_PM_Tool.md)
+* [Microsoft Project](Microsoft_Project_PM_Tool.md)
+* [Microsoft Planner](Microsoft_Planner_PM_Tool.md)
+* [Asana](Asana_PM_Tool.md)
+* [Stackfield](Stackfield_PM_Tool.md)
+* [Awork](Awork_PM_Tool.md)
+* [Java](Java_PM_Tool.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Homepage: [ClickUp](https://clickup.com)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [ClickUp_Website](https://clickup.com)
+[^2]: [getapp](https://www.getapp.de/software/106331/clickup#features)
+[^3]: [ClickUp_Help](https://docs.clickup.com/en/)
+[^4]: [Mintblau.com](https://www.mintblau.com/blog/projektmanagement-mit-clickup)
+[^5]: [Embeding URL & HTML](https://docs.clickup.com/en/articles/2934308-embed-view)
+[^6]: [ClickUp App](https://publishingblog.ch/wie-kann-clickup-eine-app-fuer-alles-sein/)
+[^7]: [ClickUp: Das Unternehmen](https://clickup.com/about)

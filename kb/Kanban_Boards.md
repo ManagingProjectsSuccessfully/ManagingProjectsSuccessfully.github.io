@@ -1,104 +1,179 @@
 ---
 title: Kanban_Boards
-tags: agil klassisch
+tags: klassisch
 author: leusl8
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Kanban_Boards um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Agiler arbeiten durch Kanban Boards. Das Tool zur Visualisierung, Strukturierung und Verbesserung des Workflows.
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Was ist ein Kanban Board?
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+[Kanban](kanban.md) kommt aus dem japanischen und bedeutet "Signal-Karte". [^1]
+Das Kanban Bord mit seinen [Kanban Karten](Kanban_Karten.md) ist ein visuelles Hilfsmittel, das einen Überblick über den aktuellen Arbeitsstatus verschiedener Prozessabläufe gibt.
+So können Problemstellen eines Arbeitsflusses schneller aufgedeckt und die Kommunikation im Team erleichtert werden.
+Mit dem Ziel der [Lean Produktion](Lean_Projektmanagement.md) trägt ein Kanban Board als Schlüsselelement zur Optimierung und kontinuierlichen Verbesserung jedes Geschäftsprozesses bei. 
 
-![Beispielabbildung](Kanban_Boards/test-file.jpg)
 
-*lustiges Testbild*
 
-# Aspekt 2
+# Wie funktioniert ein Kanban Board?
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Ursprünglich handelt es sich um ein Whiteboard, das in Spalten und [Swimlanes](Kanban_Swim_Lanes.md) aufgeteilt wird.
+Jede Spalte stellt eine Prozessphase dar, während die Swimlanes die aufeinanderfolgenden Arbeitsschritte abbilden.[^2]
+Zu Beginn des Arbeitsflusses wird jede Aufgabe auf einer Kanban Karte platziert und durchläuft anschließend das Kanban Board von links nach rechts.
+Eine Karte enthält Informationen zu dem jeweiligen Thema wie zum Beispiel eine Aufgabenübersicht, die Verantwortlichen und die Frist.[^3]
+So kann ein Team durch die verschiedenen Phasen eines Workflows geleitet werden. 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+<img width="449" alt="Bildschirmfoto 2021-11-24 um 15 19 24" src="https://user-images.githubusercontent.com/92926914/143255407-b53e3b4a-215b-4404-b232-4e3965b4f98d.png"> [^4]
 
-So kann man eine Tabelle erstellen:
+*Kanban Board Bestandteile*
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
+# Was braucht man um ein Kanban Board zu erstellen?
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+## Schritt 1: Ebene bestimmen
 
-# Aspekt n
+Je nach Komplexität des Prozesses kann das Board verschiedene Ebenen aufweisen. [^5]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+* Operative Ebene: Alltägliche To Do's und individuelle Aufgaben
+* Koordinative Ebene: Verteilung der Arbeitselemente im gesamten Team
+* Strategischer Überblick: Statusabbildung ganzer Projekte 
 
+
+## Schritt 2: Befüllen des Boards
+
+Das Kanban Board wird mit allen relevanten Aufgaben befüllt.
+Das klassische Modell beinhaltet 3 Spalten:
+
+* Zu erledigen     
+* In Arbeit         
+* Erledigt          
+
+<img width="676" alt="Bildschirmfoto 2021-11-24 um 13 39 58" src="https://user-images.githubusercontent.com/92926914/143240403-76170ead-1dc3-4e88-aaad-7973c3fa0431.png">[^6]
+
+*Klassisches Kanban Board*
+
+
+- Zu erledigen:     Geplante Aufgaben, die noch nicht begonnen wurden.
+
+- In Arbeit:        Aufgaben, die derzeit bearbeitet werden.
+
+- Erledigt:         Aufgaben, die fertig gestellt wurden.
+
+
+## Schritt 3: Status der Aufgaben sichtbar machen
+
+Durch Bewegen der Karten von TO DO zu IN PROGRESS wird der aktuelle Stand, dass diese Aufgabe in Arbeit ist, für alle sichtbar. 
+Zur Veranschaulichung, dass eine Aufgabe erledigt ist, wandert die entsprechende Karte zu DONE.
+Somit wandern die Karten im fortlaufenden Prozess stets weiter von links nach rechts.
+
+
+## Schritt 4: Erweitern
+
+Durch das einfache Design des Boards kann es schnell unübersichtlich werden, deshalb muss es erweitert und an individuellen Prozessschritte angepasst werden.
+
+* Einführen neuer Spalten, die den Arbeitsprozess im Team besser abbilden.
+  - Bsp. statt In Progress jetzt: Konzept, Umsetzung, Prüfung
+ 
+
+Man erkennt schnell, dass nicht alle Aufgaben den gleichen Prozessschritten folgen, somit:
+
+* Einfügen neuer Zeilen (Swimlanes). Diese können für unterschiedliche Personen oder unterschiedliche [Projekte](Projekt.md) stehen.
+
+* Einfügen verschiedener Symbole. Somit kann man zwischen wiederkehrenden und einmaligen Aufgaben unterscheiden.
+
+* Einfügen einer Fast Lane. Sie wird für Aufgaben besonderer Priorität, die schnell abgearbeitet werden müssen, angelegt.
+
+
+
+Mittels den vorherigen 4 Schritten ist das Taskboard angelegt und man es ist unmittelbar ersichtlich, wo Probleme in dem Arbeitsfluss existieren.
+
+
+
+# Prinzipien von Kanban auf das Kanban Board angewendet [^7]
+
+
+
+
+|   Prinzipien von Kanban auf das Kanban Board angewendet | 
+| -----------------------------------------------------------
+| 1.    Visualisiere den Fluss der Arbeit                | 
+| 2.    Messung und Steuerung des Flusses                  |
+| 3.    Pull statt Push                                   |
+| 4.    Limitiere die Menge angefangener Arbeit           |
+| 5.    Kommunikation                                     |
+
+
+
+
+# Beispiele von Kanban Boards [^8]
+
+Durch die Beliebtheit der Kanban Boards findet man sie heutzutage nahezu überall.
+Häufig um Geschäftsprozesse abzubilden oder zur Organisation privater Aufgaben.
+Sie unterscheiden sich ledichlich in ihrer Komplexität.[^9]
+
+* Digitales Board 
+
+  - Erstellung mithilfe von Tools: Trello, Planner, Jira uvm.
+
+
+<img width="588" alt="Bildschirmfoto 2021-11-24 um 15 06 46" src="https://user-images.githubusercontent.com/92926914/143253450-9dc69c01-9dce-4847-b0b8-d46d62b71c6b.png">[^10]
+
+
+*Kanban Board in der Software Entwicklung*
+
+
+<img width="588" alt="Bildschirmfoto 2021-11-24 um 15 08 46" src="https://user-images.githubusercontent.com/92926914/143253653-fccf0214-efc4-4924-b335-a918886b644f.png">[^11]
+
+
+*Ein Familien Kanban Board*
+
+
+
+
+
+* Großes physisches Board 
+
+  - Whiteboard mit Post-it's
+ 
+ 
+ <img width="569" alt="Bildschirmfoto 2021-11-24 um 14 59 52" src="https://user-images.githubusercontent.com/92926914/143252862-8fe77788-f3a2-4218-b348-2fcb4dabce4c.png"> [^12]
+ 
+ *Klassisches Kanban Board Beispiel*
+ 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kanban_Boards.md)
+* [Kanban](kanban.md)
+* [Kanban Karten](Kanban_Karten.md)
+* [Kanban Work in Progress](Kanban_Work_in_Progress.md)
+* [Kanban Pull Prinzip](Kanban_Pull_Prinzip.md)
+* [Kanban Swimlanes](Kanban_Swim_Lanes.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Kanban für Anfänger](https://www.amazon.de/dp/172392959X?tag=dpm-aawp-bubox-21&linkCode=ogi&th=1&psc=1)
+* [Lessons in Agile Management](https://www.amazon.de/Lessons-Agile-Management-Road-Kanban/dp/0985305126)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [Kanban](https://de.wikipedia.org/wiki/Kanban)
+[^2]: [Was ist ein Kanban Board?](https://teamhood.com/de/kanban-ressourcen/was-ist-ein-kanban-board/)
+[^3]: [Was ist eine Kanban Karte?](https://kanbanize.com/de/kanban-ressourcen/kanban-erste-schritte/was-ist-kanban-karte)
+[^4]: [Kanban Board Bestandteile](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
+[^5]: [Die Anwendung von Task Boards](https://www.youtube.com/watch?v=yW28P8MwCr4)
+[^6]: [Klassisches Kanban Board](https://www.istockphoto.com/de/vektor/scrum-management-board-workflow-projekt-auf-tablet-pc-vektor-illustration-gm1206234325-347809570)
+[^7]: [Prinzipien Kanban](https://www.pinkuniversity.de/kanban-methode/)
+[^8]: [Beispiele Kanban Boards](https://kanbantool.com/de/kanban-board-beispiele)
+[^9]: [Organisationsmethoden](https://utopia.de/ratgeber/kanban-board-system-praktische-beispiele-und-tipps/)
+[^10]: [Kanban Board in der Software Entwicklung](http://edutechwiki.unige.ch/en/Kanban_board)
+[^11]: [Ein Familien Kanban Board](http://edutechwiki.unige.ch/en/Kanban_board)
+[^12]: [Klassisches Kanban Board Beispiel](https://kanbantool.com/de/kanban-board-beispiele)
+
 

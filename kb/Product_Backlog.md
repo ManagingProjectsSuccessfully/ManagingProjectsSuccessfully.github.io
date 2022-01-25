@@ -2,103 +2,69 @@
 title: Product_Backlog
 tags: agil klassisch
 author: PhilippWolfrum
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Product_Backlog um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Ein Product Backlog ist die priorisierte Liste aller Aufgaben, die vom Entwicklungsteam bearbeitet werden muss. Diese Aufgaben leiten sich aus den Produktanforderungen und der geplanten Roadmap ab. Im Backlog werden dabei die wichtigsten Aufgaben immer im oberen Bereich angezeigt, da dies die Priorität für die Teams wiederspiegelt.[^1][^5]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Was ist das Product Backlog?
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Das Product Backlog wird oft als Speicher für Aufgaben angesehen, dabei zeigt bereits die Wahl der Bezeichnung "Backlog" (Auftragsbestand), dass es sich um eine dynamische Liste handelt. Dennoch wird zu Beginn ein initiales Product Backlog mit allen bis dahin bekannten Anforderungen erstellt. Diese Anforderungen werden in Abstimmung zwischen [Product Owner](Product_Owner.md) und Kunden definiert und in Features überführt. Durch kontinuierliches Aktualisieren, Priorisieren und Verfeinern des Backlogs bleibt es dynamisch, neue Anforderungen können aufgenommen und obsolete Features nicht bearbeitet werden. Der [Product Owner](Product_Owner.md) ist dabei für das jeweilige Backlog verantwortlich. Das Product Backlog enthält Eigenschaften, Funktionen, Anforderungen, Verbesserungen und Fehlerbehebungen, wobei jeder Eintrag mit Aufwandsschätzung, Beschreibung und Priorität versehen ist.[^1][^4][^5][^6]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Zu Beginn eines neuen [Sprints](Sprint.md) werden Anforderungen aus dem Product Backlog im [Sprint Planning](Sprint_Planning.md) in das jeweilige [Sprint Backlog](Sprint_Backlog.md) gezogen und bearbeitet[^1][^5]. 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+![Product- vs. Sprintbacklog](Product_Backlog/ProductvsSprint.jpg)
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+*Product-Backlog vs. Sprint-Backlog*[^3]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+# Wie erstelle ich das initiale Product Backlog?
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die erste Version wird oft auch als “Initial Product Backlog” bezeichnet. Diese erste Fassung ergibt sich aus den Informationen unterschiedlicher Bereiche:
 
+* Mit der **Produktvision** beschreibt und liefert der Kunde seine Anforderungen an das fertige Produkt[^6].
+* Durch eine **Product Roadmap** werden zeitliche Eckpunkte festgelegt, gleichzeitig gibt sie einen Rahmen für die geplante Nutzung des Produkts vor.
+* Die Gruppe der **Stakeholder** ist dabei weitgefächert, neben dem Auftraggeber sollten auch spätere Nutzer frühzeitig zu Anforderungen befragt werden. Sie wissen welche Eigenschaften das neue Product benötigt und können dadurch entscheidenden Input liefern.
+* Ein heterogenes, multidisziplinär aufgestelltes **[Entwicklerteam](Development_Team.md)** besitzt breit gestreutes Fachwissen um alle Bereiche abzudecken. 
+* Bei dem **[Minimum Viable Product](Minimum_Viable_Product.md)** (MVP) handelt es sich um das minimale Produkt, das dem Kundenwunsch entspricht. Der Blick auf ein MVP hilft bei der initialen Priorisierung und stellt anschließend ein erstes Arbeitsergebnis dar.[^2][^5]
 
-# Aspekt 1
+# Ein gutes Backlog zeichnet sich durch die "DEEP"-Eigenschaften aus
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+* **Detailed** (detailliert): Items, die im nächsten oder übernächsten [Sprint](Sprint.md) bearbeitet werden, müssen „fertig für den Sprint“ sein. Damit ist gemeint, dass sowohl Akzeptanzkriterien als auch eine [Definition of Done](Definition_of_Done.de) deutlich formuliert sind und vom [Entwicklerteam](Development_Team.md) verstanden werden.
+* **Emergent** (entwickelnd): Ein Product Backlog entwickelt sich im Verlauf des Projektes stetig weiter, vor dem ersten [Sprint](Sprint.md) ist es dementsprechend noch nicht vollständig.
+* **Estimated** (abgeschätzt): Im Team wurden alle Items -mittels Story Punkten- gemeinsam geschätzt, die gebräuchlichste Methode ist dabei das [Planning Poker](Planning_Poker.md).
+* **Prioritized** (priorisiert): Der [Product Owner](Product_Owner.md) hat alle Backlog-Items mit Prioritäten versehen und sortiert. Im [Sprint Planning](Sprint_Planning.md) kann nun das [Sprint Backlog](Sprint_Backlog.md) anhand der Prioritäten befüllt werden.[^2][^5][^6]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Durch "Backlog Grooming" bleibt das Backlog gepflegt
 
-![Beispielabbildung](Product_Backlog/test-file.jpg)
+Nach der initialen Erstellung muss das Backlog kontinuierlich gepflegt werden, häufig findet dies im sogenannten Backlog Grooming -auch als Refinement bezeichnet- statt. Gemäß der Definition im Scrum Guide ist es kein fester Bestandteil des Scrum-Prozesses, in der Praxis hat sich dieses Meeting jedoch als sehr wertvoll erwiesen. Gemeinsam mit dem Team schärft und bereitet der [Product Owner](Product_Owner.md) die Backlog Items vor, dabei werden folgende Schritte durchgeführt:[^2][^5]
 
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+* Aktualisieren und Priorisieren der [User Stories](User_Story.md) gemäß neuester Erkenntnisse
+* Schärfen und Verfeinern von [User Stories](User_Story.md) anhand neuer Details
+* Abschätzen von [User Stories](User_Story.md) durch das [Entwicklerteam](Development_Team.md)[^2]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Product_Backlog.md)
+* [Sprint Backlog](Sprint_Backlog.md)
+* [Sprint](Sprint.md)
+* [Sprint Planning](Sprint_Planning.md)
+* [Product Owner](Product_Owner.md)
+* [Minimum Viable Product](Minimum_Viable_Product.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Was ist Scrum: https://www.atlassian.com/de/agile/scrum
+* Backlog Grooming: https://www.youtube.com/watch?v=zkZJxvKzILY 
+* Creating your Backlog: https://confluence.atlassian.com/jirasoftwareserver/creating-your-backlog-938845071.html
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [https://www.projektmagazin.de/glossarterm/product-backlog](https://www.projektmagazin.de/glossarterm/product-backlog ) 
+[^2]: [https://agilescrumgroup.de/product-backlog/](https://agilescrumgroup.de/product-backlog/)
+[^3]: [https://www.inloox.de/projektmanagement-glossar/backlog/](https://www.inloox.de/projektmanagement-glossar/backlog/)
+[^4]: [https://www.scrum.org/resources/what-is-a-product-backlog](https://www.scrum.org/resources/what-is-a-product-backlog)
+[^5]: [https://www.atlassian.com/de/agile/scrum/backlogs](https://www.atlassian.com/de/agile/scrum/backlogs)
+[^6]: [https://projektmanagement-zentrum.ch/2019/03/11/product-backlog/](https://www.atlassian.com/de/agile/scrum/backlogs)
+
+
 
