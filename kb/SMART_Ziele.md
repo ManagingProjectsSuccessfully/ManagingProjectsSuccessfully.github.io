@@ -5,7 +5,7 @@ author: Tjara1
 anrechnung: k 
 ---
 
-Die SMART-Methode und deren damit verbundenen Zielanforderungen werden im Projektmanagement oft genutzt, um Ziele einzelner Projekte besser definieren zu können. Der US-amerikanische Management Consultant und Ökonom Peter F. Ducker hat die einzelnen SMART-Merkmale erstmals formuliert. Das [Akronym](https://de.wiktionary.org/wiki/Akronym) S.M.A.R.T steht für spezifisch, messbar, attraktiv, realistisch und terminiert. Im Projektmanagement tragen SMARTe Ziele dazu bei, aus einem Ist-Zustand einen gewollten Soll-Zustand zu erzeugen und dabei nie den Fokus auf das Projekt zu verlieren.[^1][^2][^3][^5]
+Die SMART-Methode und deren damit verbundenen Zielanforderungen werden im [Projektmanagement](Projektmanagement.md) oft genutzt, um Ziele einzelner Projekte besser definieren zu können. Der US-amerikanische Management Consultant und Ökonom Peter F. Ducker hat die einzelnen SMART-Merkmale erstmals formuliert. Das Akronym S.M.A.R.T steht für spezifisch, messbar, attraktiv, realistisch und terminiert. Im Projektmanagement tragen SMARTe Ziele dazu bei, aus einem Ist-Zustand einen gewollten Soll-Zustand zu erzeugen und dabei nie den Fokus auf das Projekt zu verlieren.[^1][^2][^3][^5]
 
 # S.M.A.R.T im klassischen Projektmanagement
 
@@ -17,7 +17,7 @@ Ein Ziel ist nur dann SMART, wenn es alle fünf Aspekte der SMART-Methode berüc
 
 ## Spezifisch
 
-Laut der SMART-Methode müssen Ziele stets spezifisch formuliert sein. Das heißt, um ein Projekt erfolgreich abschließen zu können, benötigt man unmissverständliche und detaillierte Angaben. Vage Beschreibungen und Vorgaben könnten für Verwirrung sorgen und die Erreichung der einzelnen Ziele somit gefährden. Wird ein Ziel spezifisch definiert, sollten folgende Fragen beantwortet werden:
+Laut der SMART-Methode müssen Ziele stets spezifisch formuliert sein. Das heißt, um ein Projekt erfolgreich abschließen zu können, benötigt man unmissverständliche und detaillierte Angaben. Ungenaue Beschreibungen und Vorgaben könnten für Verwirrung sorgen und das Erreichen der einzelnen Ziele somit gefährden. Wird ein Ziel spezifisch definiert, sollten folgende Fragen beantwortet werden:
 
 * Welches Ziel wird verfolgt?
 * Was soll in welchem Umfang erreicht werden?[^2][^4]
@@ -33,12 +33,12 @@ Die Erfolge innerhalb des Zielerreichungsprozesses sollten jederzeit messbar sei
 
 Ein Ziel sollte für alle involvierten Personen attraktiv gestaltet sein, um deren Motivation positiv und nicht negativ zu beeinflussen. Das persönliche Engagement der Verantwortlichen steigt an, wenn sie sich mit dem Ziel identifizieren können und dieses akzeptieren. Folgende Punkte sollten den Beteiligten vermittelt werden, um die Attraktivität des Ziels zu erhöhen:
 
-* Gründe, die für die Zielerreichung sprechen?
+* Gründe, die für die Zielerreichung sprechen
 * Welcher positive Nutzen resultiert aus der Zielerreichung?[^2][^4]
 
 ## Realistisch
 
-Ziele sollten zwar herausfordernd, jedoch nicht utopisch sein. Ist ein Ziel schon bei erster Betrachtung zu kompliziert, oder aufgrund von fehlenden Kompetenzen und Ressourcen nicht umsetzbar, kann das schnell demotivierend wirken. Wichtig ist deshalb, dass das Ziel nach folgenden Kriterien ausgerichtet werden soll:
+Ziele sollten herausfordernd, jedoch nicht utopisch sein. Ist ein Ziel schon bei erster Betrachtung zu kompliziert, oder aufgrund von fehlenden Kompetenzen und Ressourcen nicht umsetzbar, kann das schnell demotivierend wirken. Wichtig ist deshalb, dass das Ziel nach folgenden Kriterien ausgerichtet werden soll:
 
 * Was ist aufgrund der vorhandenen Fähigkeiten und Ressourcen möglich?
 * Müssen weitere Kompetenzen und Ressourcen mit einbezogen werden?
@@ -73,7 +73,7 @@ Der fünfte Punkt von SMARTen Zielen ist die Terminierung. Für ein Ziel sollte 
 
 # Weiterführende Literatur
 
-* Hilmer S. und Krieg A. (2014): [Stanardisierung vs. Kultur: Klassisches und agiles Projektmanagement im Vergleich.](https://dl.gi.de/handle/20.500.12116/3061). In: Engstler, M., Hanser, E., Mikusz, M. & Herzwurm, G. (Hrsg.), Projektmanagement und Vorgehensmodelle 2014 - Soziale Aspekte und Standartisierung. Bonn: Gesellschaft für Informatik e.V.. (S. 47-57). 
+* Hilmer S. und Krieg A. (2014): [Stanardisierung vs. Kultur: Klassisches und agiles Projektmanagement im Vergleich.](https://dl.gi.de/handle/20.500.12116/3061). In: Engstler, M., Hanser, E., Mikusz, M. & Herzwurm, G. (Hrsg.), Projektmanagement und Vorgehensmodelle 2014 - Soziale Aspekte und Standartisierung. Bonn: Gesellschaft für Informatik e.V.. (S. 47-57)
 * Drews G. und Hillebrand N. (2007): [Lexikon der Projektmanagement-Methoden](https://books.google.de/books?hl=de&lr=&id=1dJE3EYYpasC&oi=fnd&pg=PA6&dq=Projektmanagement+methoden&ots=8tbNjJVYTi&sig=f2JWMSfJpp2Lfyq78Jin1lhXwBk&redir_esc=y#v=onepage&q=Projektmanagement%20methoden&f=false). München: Rudolf Haufe Verlag GmbH & Co. KG.
 * Eremit B. und Weber K. (2016): [Individuelle Persönlichkeitsentwicklung: Growing by Transformation](https://link.springer.com/chapter/10.1007/978-3-658-09453-9_16). Wiesbaden: Springer Fachmedien Wiesbaden. (Kapitel 16, S. 93-99)
 
