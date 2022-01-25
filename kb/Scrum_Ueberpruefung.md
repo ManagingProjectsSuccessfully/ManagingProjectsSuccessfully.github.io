@@ -13,8 +13,9 @@ Die Scrum Überprüfung gehört neben der "Transparenz" und der "Anpassung" zu d
 
 # Die Scrum Theorie
 Scrum basiert auf der Theorie von Empirie und Lean Thinking. Das bedeutet, dass Wissen aus Erfahrung gewonnen wird und auf dieser Basis Entscheidungen getroffen werden.
+Die Erfahrung hat gezeigt, dass viele Entwicklungsprojekte zu komplex sind, um in einem vollumfänglichen Plan von Anfang an erfasst zu werden. Ein wesentlicher Teil der Anforderungen und der Lösungsansätze ist zu Beginn noch unklar. Deshalb werden Zwischenergebnisse geschaffen, anhand derer sich die fehlenden Anforderungen und Lösungstechniken effizienter finden lassen.
 Scrum ist für Teams mit einer Größe von drei bis neun Entwicklern konzipiert, die zusammen über alle Fähigkeiten und Kenntnisse verfügen, um das vorgesehene Projekt zu erledigen oder solche Fähigkeiten zu erwerben. 
-Das Ziel von Scrum ist eine schnelle und kostengünstige Entwicklung hochwertiger Produkte.
+Das Ziel von Scrum ist es, eine höhere Reaktionsfähigkeit, um auf sich ändernde Kundenanforderungen einzugehen, eine kürzere “Time to Market“ und eine höhere Qualität und Kundenzufriedenheit zu erreichen.
 Zur Scrum Theorie gehören die drei Säulen "Transparenz", "Überprüfung" und "Anpassung".[^1][^2]
 
 ![image](/kb/Scrum_Ueberpruefung/Scrum_Ueberpruefung.png) [^3]
