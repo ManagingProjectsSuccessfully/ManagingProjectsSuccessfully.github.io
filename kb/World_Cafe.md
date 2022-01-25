@@ -2,103 +2,87 @@
 title: World_Cafe
 tags: agil klassisch
 author: larissadiscua
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu World_Cafe um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Bei dem World Café handelt es sich um eine kreative Methode des [Projektmanagements](Projektmanagement.md), die vor allem für größere Gruppen geeignet ist. Es ist eine interaktive Alternative zu Konferenzen und Seminaren und bietet eine zwanglose Atmosphäre, die Teilnehmende zu Diskussionen, welche alltäglichen Gesprächen in einem Café ähneln sollen, anregt.[^1] Dabei soll der Austausch von verschiedenen Gedanken und Ideen zu komplexen Themen dazu führen, dass neue Sichtweisen entstehen und Probleme aus vielen verschiedenen Perspektiven betrachtet werden können.[^2]  So können neben offensichtlichen Lösungsansätzen auch unkonventionelle Lösungen und Vorgehensweisen erörtert werden.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das World Café kann in fast allen Phasen eines [Projektes](Projekt.md) eingesetzt werden und kann dabei helfen, Aktionspläne und Strategien für die nächsten Phasen zu entwickeln.[^3]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Vorteile
+Ein ideen- und facettenreicher Austausch zu anregenden Fragestellungen hat unter anderem folgende Vorteile:
+* das Wissen Vieler wird vernetzt
+* kreatives und innovatives Denken wird gefördert
+* interdisziplinärer Erfahrungstausch
+* Lösungen werden gemeinsam erarbeitet
+* das Team- und Zusammengehörigkeitsgefühl wird gestärkt
+* neue oder bestehende Beziehungen und Netzwerke werden aufgebaut oder vertieft[^4]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Planung
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Bei der Planung müssen folgende Fragen geklärt werden:
+* Welchen Nutzen hat das World Café ?
+* Was ist das Kernthema ?
+* Welche Fragen sollen diskutiert werden ?
+* Wer sind die Teilnehmenden ?
+* Wie sollen die Teilnehmenden in verschiedene Gruppen aufgeteilt werden ? 
+* Wer übernimmt die Moderation ?
+* Wie kann man eine zwangslose Atmosphäre schaffen, die informelle und kreative Gespräche hervorbringt ?[^5]
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Zudem werden folgende Hilfsmittel benötigt:
+1. Ein Raum, groß genug für mehrere Gruppentische (dieser kann nach Belieben gestaltet werden; je mehr die Atmosphäre einem Café ähnelt, desto besser) 
+2. Gruppentische mit 4-6 Stühlen
+3. Papiertischdecken
+4. Stifte[^6]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Ablauf
 
-![Beispielabbildung](World_Cafe/test-file.jpg)
+Die Moderation begrüßt die Teilnehmenden zum World Café und erklärt ihnen den genauen Ablauf. Themen und Fragestellungen werden präsentiert, wobei es sich um eine, aber auch um mehrere Fragen, die aufeinander aufbauen, handeln kann.[^7] 
 
-*lustiges Testbild*
+Danach wird die Etikette vorgestellt.
+Von allen Teilnehmenden wird erwartet, dass sie stets höflich zueinander sind, sich gegenseitig zuhören und aussprechen lassen. Es ist wichtig, dass jeder seine eigenen Ansichten vorträgt und auch auf andere eingeht, um unterschiedliche Sichtweisen zu diskutieren, aufeinander aufzubauen oder auch um mehrere Ideen zu verbinden.[^7]
 
-# Aspekt 2
+Pro Tisch gibt es einen Gastgebenden und vier bis fünf Teilnehmende, die sich ca. 20-30 Minuten mit einer Frage beschäftigen, bevor alle, außer der Gastgebende, den Tisch wechseln und eine neue Diskussion starten. Hierbei werden die Gruppen nach jeder Runde durchgemischt, sodass es nicht bei derselben Gruppenkonstellation bleibt. Zu Beginn einer neuen Diskussionsrunde werden die bereits gesammelten Ideen aus der vorherigen Runde kurz zusammengefasst. Während jeder Runde ist es ausdrücklich erwünscht, dass die Teilnehmenden während ihren Diskussionen beispielsweise Stichpunkte, Tabellen oder Skizzen auf der Tischdeckecke niederschreiben, wobei deren Kreativität keine Grenzen gesetzt sind.[^7]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Zum Abschluss werden alle gesammelten Ideen und Ergebnisse der einzelnen Tische kurz im Plenum zusammengefasst, wobei eine visuelle Hilfe, wie etwa das Aufhängen der Papiertischdecken, hilfreich sein kann. Diese endgültige Zusammenfassung hilft dabei, Muster aus den Diskussionen zu erkennen und Lösungsmöglichkeiten zu skizzieren.[^7]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Die zuvor genannte Vorgehensweise ist flexibel anpassbar und Komponenten, wie etwa Dauer oder Anzahl der Teilnehmenden können nach Bedarf verändert werden. Das Wichtigste am World Café sind Kontakt und Austausch unter den Teilnehmenden.[^7]
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+![Ablauf](World_Cafe/image.jpeg)
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+*Ablauf der World Cafe Methode*[^7]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](World_Cafe.md)
+Weitere kreative Methoden
+* [6-3-5_Methode](6_3_5_Methode.md)
+* [Walt-Disney-Methode](Walt_Disney_Methode.md)
+* [Zukunftswerkstatt](Zukunftswerkstatt.md)
+* [Ideen-Marathon](Ideen_Marathon.md)
+* [Kopfstandtechnik](Kopfstandtechnik.md)
 
-# Weiterführende Literatur
+# Weiterführende Literatur 
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [World-Café](https://de.wikipedia.org/wiki/World-Café)
+* [Den Austausch und Diskussionen mit einem World Café anregen](https://www.youtube.com/watch?v=ekCPJlcYZ0Y)
+* [World Café (Weltcafé) Methode](https://www.europa-union.de/fileadmin/files_eud/PDF-Dateien_EUD/Best_Practice/Rezepte_WorldCafé.pdf)
+* [Die World-Café-Methode: Kooperativ zum Erfolg](https://www.youtube.com/watch?v=N-SgDI4N8E8)
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [World Café – Moderation von Großgruppenveranstaltungen](https://organisationsberatung.net/world-cafe-grossgruppen-methode/)
+[^2]: [MEIN DEIN UNSER WIRKEN](https://www.worldcafe.eu/de/)
+[^3]: [WORLD CAFÉ](https://www.user-participation.eu/de/planung-des-partizipationsprozesses/schritt-5-partizipative-methoden/zukunftsplanung-visionen-strategien-projekte/world-cafe)
+[^4]: [World-Café: Die Pause als Methode](https://www.futur2.org/article/world-cafe-die-pause-als-methode/)
+[^5]: [World-Café - Gespräche, die zählen](https://www.agonda.de/World-Cafe/world-cafe.html)
+[^6]: [Methodeneinsatz - World Café](https://www.kas.de/de/web/politische-bildung/world-cafe)
+[^7]: [World-Café](https://www.methodenkartei.uni-oldenburg.de/uni_methode/world-cafe/)
 

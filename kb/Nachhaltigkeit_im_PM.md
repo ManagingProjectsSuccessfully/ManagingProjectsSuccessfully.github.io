@@ -1,104 +1,102 @@
 ---
 title: Nachhaltigkeit_im_PM
-tags: agil klassisch
+tags: klassisch
 author: Miki2701
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Nachhaltigkeit_im_PM um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Nachhaltigkeit ist ein Handlungsprinzip, zur Nutzung von Ressourcen, wobei eine permanente Bedürfnisbefriedigung durch die
+Erhaltung der natürlichen Regenerationsfähigkeit der beteiligten Systeme (insbesondere Lebewesen und Ökosyteme) gewährleisten
+werden soll [^1]. Im Kontext von Projekten bedeutet dies, dass man die Interessen von Fach- und Stakeholdern kombiniert und die Zukunft und das 
+Unvorhergesehene berücksichtigt.[^2]
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Begriffsherleitung
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Der englische Ausdruck Sustainability kann aus dem Lateinischen von den Wörtern "„sustineo" und „habilitas" abgeleitet werden, welche
+die Bedeutung „erhalten, bewahren" und „Geschicklichkeit, Fähigkeit" besitzen. Zusammengesetzt kann Sustainability als Fähigkeit verstanden
+werden, etwas zu erhalten.[^3]
+ 
 
-![Beispielabbildung](Nachhaltigkeit_im_PM/test-file.jpg)
 
-*lustiges Testbild*
+# Gründe für Nachhaltigkeit im Projektmanagement
 
-# Aspekt 2
+Vorteile
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+- mehr Chancen und Risiken können vor Projektbeginn identifiziert werden, da nachhaltige Betrachtung eine breitere Sichtweise ermöglicht
+- transparentere Kommunikation und Entscheidungen. Dadurch werden die Akzeptanz und die Motivation der MitarbeiterInnen als auch der, 
+der Stakeholder erhöht[^4]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+Nachteile
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+- höhere Transaktionskosten, durch vermehrten Aufwand in der Projektplanung
+- Komplexität des Projektes steigt[^4]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# Beispiele für Nachhaltigkeit im Projektmanagement anhand des Drei-Säulen-Modells
 
-### Ebene-3-Überschrift
+Nachhaltige Projekte sind zukunftsorientierte und langfristige Projekte. Dementsprechend leistet nachhaltiges Projektmanagement auf langer Sicht
+einen Beitrag zum Unternehmenserfolg und zum Erhalt einer zukunftsfähigen Wirtschaft und Umwelt.[^5][^6]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+<img src=/kb/Nachhaltigkeit_im_PM/Drei-Säulen-Modell.png width=300/>
 
-# Aspekt n
+[^5]
+ 
+ 
+Ökologische Dimension
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Hauptgedanke ist, Projektergebnis und Prozesse nachhaltig zu gestalten
 
+- Einsatz von ökologisch wertvollen und vertretbaren Materialien
+- Achten auf die Vertretbarkeit der eingesetzten Materialien und versuchen ein ressourcenschonendes Endprodukt bereitzustellen
+
+Ökonomische Dimension
+
+In der ökonomischen Dimension steht der finanzielle Aspekt stark im Vordergrund
+
+- Beschäftigung von regionalen Arbeitskräften mit angemessener Bezahlung
+- beim entwickeln von neuen Produkten, möglichst auf regionale Lieferanten zurückgreifen
+
+
+Soziale Dimension
+
+Die soziale Dimension beschreibt den Umgang mit Stakeholdern und Beziehungen zu relevanten Umwelten
+
+- hochqualifizierte Mitarbeiter, um Arbeitsunfälle zu vermeiden
+- Mitarbeiterentwicklung als gesondertes Ziel betrachten. Schulungen zur interkulturellen und digitalen Kompetenz sind 
+ausschlaggebend für den Projekterfolg[^5]
+
+
+# Lebenszyklus-Methode der Nachhaltigkeit
+
+Der Lebenszyklusansatz ist einzigartig und auch eine allgemein akzeptierte Methode, um eine nachhaltige Entwicklung im [Projektmanagement](Projektmanagement.md) zu erreichen. Die Lebenszyklus-Methode hat einen Ausgangspunkt, von dem aus sie ihre Tätigkeit beginnt und schliesslich auf einen anderen Punkt zugeht, der als Endpunkt bezeichnet werden kann. Hier wird eine gründliche Hintergrundanalyse des Projektlebenszyklus durchgeführt.[^6]
+
+<img src=/kb/Nachhaltigkeit_im_PM/Lebenszyklus-Methode.png width=300/>
+
+[^6]
+
+Diese Methode der Nachhaltigkeit reduziert die Menge an Energie und Ressourcen, die vor der Gewinnung der Rohstoffe eingesetzt wurden. Die Gewinnung der Rohstoffe ist der Ausgangspunkt, d. h. der Beginn des zu analysierenden Projektlebenszyklus. Sie würde auch die derzeitige Situation der Regeneration berücksichtigen. Mit anderen Worten, die Frage, wie die gewonnenen Rohstoffe ersetzt oder reproduziert werden können, muss beantwortet werden. Danach geht sie in eine andere Phase über, nämlich die Produktionsphase, auf der auch alle Tätigkeiten erfasst werden, die in dieser Phase durchgeführt werden. Es prüft die Energiemenge und die Qualität, um die es hier geht. Dann ist der nächste Schritt, der analysiert werden muss, die Nutzungsphase. Es wird geprüft, wer das Produkt verwenden wird, das aus der Produktionsphase hervorgegangen ist. Sie berücksichtigt auch die Sicherheit und das Wohlbefinden der Menschen oder Einzelpersonen, die das Produkt verwenden. Es werden so viele Annahmen darüber gemacht, wie bequem das Produkt in dieser Phase seinen Dienst leisten wird. Schliesslich wird die Frage, wie Abfälle um jeden Preis minimiert werden können, im Rahmen der derzeit durchgeführten Analyse beantwortet.[^6]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Nachhaltigkeit_im_PM.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Projectmanagement](Who_is_Who_Projectmanagement.md)
+* [Verantwortlichkeiten](Verantwortlichkeiten.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Nachhaltigkeit im Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-658-20500-3.pdf)
+* [Nachhaltiges Projektmanagement](https://www.inloox.de/unternehmen/blog/artikel/nachhaltiges-projektmanagement/)
+* [Project Sustainability: Overview of Sustainability in Project Management](https://www.researchgate.net/publication/317233730_Sustainable_Development_An_Overview)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Nachhaltigkeit](https://de.wikipedia.org/wiki/Nachhaltigkeit#Begriffsgeschichte) 
+[^2]: [Nachhaltiges Projektmanagement](https://www.societybyte.swiss/2018/05/01/maiausgabe-nachhaltiges-projektmanagement/)
+[^3]: [Sustainability im Projektmanagement](https://www.tiba.de/wp-content/uploads/Studie_Sustainability-im-Projektmanagement.pdf) (S.29)
+[^4]: [Nachhaltigkeit im Projektmanagement](https://link.springer.com/content/pdf/10.1007%2F978-3-658-20500-3.pdf) (S. 109ff.)
+[^5]: [Nachhaltiges Projektmanagement](https://www.inloox.de/unternehmen/blog/artikel/nachhaltiges-projektmanagement/)
+[^6]: [Project Sustainability: Overview of Sustainability in Project Management](https://www.researchgate.net/publication/317233730_Sustainable_Development_An_Overview) (S.8ff.)
+[^7]: [Drei Säulen der Nachhaltigkeit: Ökologie, Wirtschaft und Soziales](https://utopia.de/ratgeber/drei-saeulen-der-nachhaltigkeit-modell/)

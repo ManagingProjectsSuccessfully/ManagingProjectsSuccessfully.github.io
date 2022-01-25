@@ -1,104 +1,128 @@
 ---
 title: Provokationstechnik
-tags: agil klassisch
+tags:  klassisch
 author: Nikleldi
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Provokationstechnik um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# Provokationstechnik
 
 
-# Aspekt 1
+Die Provokationstechnik ist eine Methode zur Ideenfindung, eingeführt von Edward de Bono. Mithilfe von sogenannten Provokationen werden bestehende Annahmen und Sichtweisen infrage gestellt.
+Die Provokationstechnik ist eine [Kreativitätstechnik](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken), welche im Rahmen des klassischen [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) verwendet wird, um innovative Ideen und Ansätze zu generieren.[^1]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## Provokation
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Für die Findung von Ideen werden Provokationen benutzt, welche das Denken aus dem gewohnten Rahmen werfen, indem gezielt bestehende Annahmen und Erfahrungen infrage gestellt werden. 
+Das Ziel ist die Überwindung alter Denkmuster und die Schaffung von neuen Sichtweisen. 
+In diesem Kontext können Provokationen beispielsweise gezielte Verfälschungen von Fakten oder auch bloße Zufallsbegriffe sein. [^2] 
 
-![Beispielabbildung](Provokationstechnik/test-file.jpg)
+Aufgrund der Verwechslungsgefahr mit der üblichen Bedeutung des Wortes [Provokation](https://de.wikipedia.org/wiki/Provokation) werden sie auch als *Mentale Provokationen* bezeichnet. 
+Dabei findet Wirkung der Provokation lediglich im Denken stattfindet.
+Provokationen stellen hierbei nie festgelegte Aussagen dar, sondern sollen lediglich der Anregung dienen. 
 
-*lustiges Testbild*
+Provokationen werden immer ankündigt, indem das Wort **PO** vorangestellt wird. 
+Das Wort PO unterliegt hier keiner Bedeutung, sondern verweist lediglich darauf, dass der drauf folgende Satz als Anregung zu verstehen ist. [^3]
 
-# Aspekt 2
+Die folgenden Sätze sind daher unterschiedlich zu verstehen:
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+* Alle Lehrer lieben ihre Schüler
+* PO Alle Lehrer lieben ihre Schüler
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Der erste Satz ist eine Behauptung, die wahr oder falsch sein könnte, während der zweite Satz lediglich als Anregung zu verstehen ist. 
+Am einfachsten kann man PO als „Was wäre, wenn…?“ interpretieren, also
+"*Was wäre, wenn alle Lehrer ihre Schüler liebten?".*
 
-So kann man eine Tabelle erstellen:
+## Nutzen
 
-| First Header  | Second Header |
+Der Nutzen von (mentalen) Provokationen liegt in der Möglichkeit neue Dinge in Betracht zu ziehen, auf welche man normalerweise nie gekommen wäre. 
+Als eine Form der [Kreativitätstechniken](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) hilft sie durch Ideenfindungsworkshops beispielsweise, neue Produkt und Marketingideen zu generieren.
+
+
+![movement-technique](https://user-images.githubusercontent.com/92984346/143011134-748857c9-a40e-480c-9b88-bfc51285b270.png)
+
+*Kreislauf der mentalen Provokation* [^5]
+
+
+
+
+Die Provokationstechnik ist zudem eine Möglichkeit die geistige Flexibilität zu steigern. Man beobachtet Vorkommnisse im Alltag und  bildet eine mentale Provokation bestimmter Prozesse und evaluiert welche Ideen beziehungsweise Vorteile sich hieraus ergeben könnten.
+
+
+Beispiele für mentale Provokationen aus dem Alltag:
+
+* PO Das Ziffernblatt einer Uhr bewegt sich, die Zeiger bleiben stehen.
+* PO Der Arbeitgeber arbeitet für den Arbeitnehmer.
+* PO Je länger man im Internet surft, desto weniger Datenvolumen verbraucht man.
+
+
+
+## Methoden, um Provokationen zu generieren
+
+Es gibt folgende Ansätze, um Provokationen zu gewinnen:[^4]
+
+
+* **Annahme aufheben**
+
+  Hier hebt man gezielt Annahmen auf, die man über die Aufgabenstellung macht, z. B. *PO In der Schulbibliothek gibt es keine Bücher.*
+
+* **Idealfall**
+
+  Hier nennt man einen Zustand, der im Idealfall gelten würde, z. B. *PO Jeder Schulanfänger bekommt einen Abschluss.*
+
+* **Umkehrung**
+
+   Bei der Umkehrung stellt man einen Sachverhalt oder eine Beziehung auf den Kopf, z. B. *PO Schüler unterrichten Lehrer.*
+
+* **Übertreibung**
+
+  Bei der Übertreibung wird eine bestimmte quantitative Eigenschaft verändert, z. B. *PO Die Schulpflicht geht bis zur 13. Klasse.*
+
+* **Zufall**
+
+  Hier wird einfach ein zufälliger Begriff neben die Ausgangssituation gestellt, z. B. *Schule PO Lasagne*
+
+* **Verfälschung**
+
+  Hier wird eine qualitative Eigenschaft der Problemstellung verändert, z. B. *PO Die Schulmauern sind aus Duplosteinen gebaut.*
+
+
+## Anwendnung 
+   
+Der schwierigste Part nach der Bildung einer Provokation liegt darin eine Lösungsidee zu entwickeln. 
+Erfahrungsgemäß ist dies der komplizierteste Teil der Technik. 
+Am Beispiel "PO Die Schule hat keine Gebäude" könnte die Idee des Homeschooling entstehen und aus "PO Schüler unterrichten Lehrer" könnte die Idee, verstärkt den Fokus auf Referate und Präsentationen zu legen, entstehen.
+
+
+## Vor- und Nachteile
+
+| Vorteile      | Nachteile     |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Methode durchbricht gezielt alte Denkmuster und produziert innovative Ideen| Der Umgang mit Provokationen ist am Anfang tendenziell schwer und viele Menschen werden dadurch entmutigt  |
+| Regt die Kreativität an  | Methode oft nicht erfolgreich, da Provokationen meist weit von der Realität entfernt sind und sich dadurch keine nützliche Ideen ergeben  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+## Fazit
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Zusammenfassend ist die Provokationstechnik eine potentiell sehr nützliche Technik, um neue Ideen und Denkgrundlagen besonders in der Anfangsphase des klassischen Projektmanagement zu generieren. Die Technik weist Vor- und Nachteile aus, daher muss kontextabhängig entschieden werden, ob diese Methode während des klassischem Projektmanagement angewandt wird.
 
 
-# Siehe auch
+## Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Provokationstechnik.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Mindmapping](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Mindmapping.md)
+* [6-3-5 Nethode](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/6_3_5_Methode.md)
 
-# Weiterführende Literatur
+## Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Edward de Bono: Serious Creativity. Die Entwicklung neuer Ideen durch die Kraft lateralen Denkens. 1996
+* Edward de Bono: Po: Beyond Yes and No. 1972
+* Innovationslabor der Universität Magdeburg: Die Provokationstechnik: Ideenfindung durch Infragestellen von Wissen und Annahmen
 
-# Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+## Quellen
 
+[^1]: Edward de Bono: Serious Creativity. Die Entwicklung neuer Ideen durch die Kraft lateralen Denkens. Erscheinungsjahr: 1996
+[^2]: Anja Rassek: Provokationstechnik: Kreativ zu neuen Ideen. Erscheinungsjahr: 2020. https://karrierebibel.de/provokationstechnik/ aufgerufen am 22.11.2021
+[^3]: Edward de Bono: Po: Beyond Yes and No. Erscheinungsjahr: 1972
+[^4]: Innovationslabor der Universität Magdeburg: Die Provokationstechnik: Ideenfindung durch Infragestellen von Wissen und Annahmen, o.J. 
+[^5]: Abbildung: o.A, smartvisualideas.com, o.J. https://smartvisualideas.com/tools-and-methods-to-become-more-creative-today/ aufgerufen am 21.11.2021

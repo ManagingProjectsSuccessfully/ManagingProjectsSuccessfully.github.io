@@ -1,104 +1,60 @@
 ---
 title: Megatrends
-tags: agil klassisch
+tags: agil klassisch 
 author: SaskiaHe 
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Megatrends um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Megatrends im Projektmanagement sind Veränderungen, mit denen sich ein Projektmanager auseinandersetzen muss. Er entscheidet, welche seiner Projekte priorisiert werden müssen. Darüber hinaus muss eine Entscheidung über die Relevanz von alten Projekten geschaffen werden.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Megatrends im Projektmanagement im Jahr 2021 [^1]
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+## 1. Corona-Pandemie [^1]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Im Frühling 2020 hat die Ausbreitung des Covid-19-Virus die Welt vor große Herausforderungen gestellt. Gerade die Weltwirtschaft leidet massiv an den Folgen der Pandemie. Viele Firmen gingen insolvent, es gründeten sich aber auch diverse neue Unternehmen. Führungskräfte hatten dabei die Aufgabe, ihr Unternehmen bestmöglich durch die Krise zu leiten. Dabei mussten sie auf selten genutzte Technologien zurückgreifen oder sogar neue [Methoden](Methoden.md) entwickeln. Die Manager mussten zum einen ihren Mitarbeiten durch Remote-Work oder Homeoffice den Arbeitsablauf weiterhin ermöglichen. Zum anderen mussten sie aber auch dafür Sorge tragen, dass ihre Mitarbeiter psychisch gesund bleiben. So kann beispielsweise mit Hilfe von virtuellen Kaffeepausen die Teamfähigkeit weiterhin gefördert werden und möglicherweise alleinstehende vor Desozialisierung schützen. Doch da dies eine sehr große Aufgabe ist, kann der Manager die Mitarbeiter dabei lediglich unterstützen.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+## 2. Klimakrise [^1][^2]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Der Meeresspiegel, die Temperatur der Ozeane und der Erde steigen kontinuerlich, wodurch die Artenvielfalt immer mehr schrumpft. Der Klimawandel geht mit massiven negativen Auswirkungen einher, die dringend reduziert werden müssen.
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+Nachfolgende Abbildung zeigt, dass ein sehr großer Teil des CO2-Ausstoßes durch die Industrie hervorgerufen wird. Aus diesem Grund haben auch Projektmanager die Aufgabe, sich mit der Reduzierung des CO2-Ausstoßes auseinanderzusetzen.
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+![Abbildung](https://github.com/SaskiaHe/ManagingProjectsSuccessfully.github.io/blob/cd402f9fcec0d79f1cf0a51ff1efcfedb74b8ab9/kb/Megatrends/Co2%20aussto%C3%9F.jpeg)
+*Weltweiter CO2-Ausstoß 2017* [^3]
 
+Die Auswirkungen betreffen dabei nicht zuletzt den gesamten Projektablauf. Unternehmen sind angewiesen, ihre Produkte klimaneutral herzustellen und dabei die Luftverschmutzung zu reduzieren. Auch um die Ressourcenknappheit und –beschaffung muss sich gesorgt werden. 
 
-# Aspekt 1
+## 3. Bürger- und Gleichstellungsbewegungen [^1]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+In den letzten Jahren ist das Interesse an Demonstrationen in der Bevölkerung stetig gestiegen. Im Vordergrund standen dabei vor allem Polizeigewalt, Rassismus und die Gleichstellung der Geschlechter. Die Emanzipation spielt gerade in großen Unternehmen eine immer wichtigere Rolle. In Deutschland ist im März 2015 ein Gesetz in Kraft getreten [^4], dass eine 30%ige Frauenquote in Aufsichtsräten vorschreibt. Um diesen Bewegungen entgegenzuwirken, müssen in allen Bereichen eines Unternehmens öfter Frauen, Menschen mit Behinderung oder mit Migrationshintergrund eingestellt werden. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+## 4. Veränderliche Globalisierungsdynamik [^1]
 
-![Beispielabbildung](Megatrends/test-file.jpg)
+Arbeitskräfte aus Schwellen- und Entwicklungsländern werden deutlich geringer entlohnt. Diese wirtschaftliche Situation nutzen Industrieländer für sich. Somit wird der Ausbau der eigenen Infrastruktur und die Entwicklung der Wirtschaft vernachlässigt. Um diese Länder zu unterstützen sind "Projekte mit sozialen Auswirkungen"[^5] wichtig. Organisationen erarbeiten eigene Projekte in Schwellenländern und helfen dabei indem sie Arbeitsplätze schaffen, die als Grundlage für eine verbesserte Infrastruktur dienen. 
 
-*lustiges Testbild*
+## 5. [Digitalisierung](Digitalisierung_im_PM.md) und Datenmengen [^6][^1]
 
-# Aspekt 2
+Durch neue Technologien, die überwiegend auf digitaler Basis arbeiten fallen hohe Datenmengen an. Spitzenreiter ist dabei die [künstliche Intelligenz](KI_im_PM.md), der aufgrund ihres selbstständigen Lernverhaltens nahezu unbegrenzt Speicher zur Verfügung stehen muss. Projektmanager werden vor neue Herausforderung gestellt, da die Daten auch verwaltet werden müssen. Die Verwaltung nimmt dabei viel Zeit in Anspruch, hilft aber andererseits beim Vereinfachen der Projekte.
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Zur Datensicherung werden häufig Clouds verwendet. Folgende Grafik zeigt den weltweiten Anstieg der Datenmengen in den letzten vier Jahren. Die in der Grafik gezeigten Datenmengen sind in Exabyte angeben. Ein Exabyte entspricht ca. einer Milliarde Gigabyte.
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+![Abbildung](https://github.com/SaskiaHe/ManagingProjectsSuccessfully.github.io/blob/5329365ce7afb12f8c512705252d9cff140b4d08/kb/Megatrends/iwd_2018_15_8-9_Clouds_Das_Datenvolumen_waechst.jpg)
+*Datenvolumen in den letzten vier Jahren* [^7]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Megatrends.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Ressourcenplanung](Ressourcenplanung.md)
+* [Cloud_Services](Cloud_Services.md)
+* [Datenmanagement_im_PM](Datenmanagement_im_PM.md)
+* [Entwicklungsprojekte](Entwicklungsprojekte.md)
+* [Remote](Remote_Projekte.md)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Megatrend 2021](https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pmi-megatrends-2021.pdf?v=98673338-4401-43f3-b220-aef09ae15c12&sc_lang_temp=de-DE) *Abgerufen am 24.11.2021*
+[^2]: [Basisfakten zum Klimawandel](https://www.deutsches-klima-konsortium.de/basisfakten) *Abgerufen am 24.11.2021*
+[^3]: [C02 Gesamtausstoß](https://www.br.de/nachrichten/wissen/klimawandel-die-wichtigsten-co2-fakten-visualisiert,RbqFZV0) *Abgerufen am 24.11.2021*
+[^4]: [Mehr Frauen in die Chefetage](https://www.lpb-bw.de/frauenquote-gesetz) *Abgerufen am 24.11.2021*
+[^5]: [Megatrends 2021](https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/thought-leadership/pmi-megatrends-2021.pdf?v=98673338-4401-43f3-b220-aef09ae15c12&sc_lang_temp=de-DE) (S.15) *Abgerufen am 24.11.2021*
+[^6]: [Projektmanagement - Der Experten Blog](https://www.theprojectgroup.com/blog/projektmanagement-trends/) *Abgerufen am 24.11.2021*
+[^7]: [Die Datenwolke wird größer](https://www.iwd.de/artikel/die-datenwolke-wird-groesser-397266/) *Abgerufen am 24.11.2021*

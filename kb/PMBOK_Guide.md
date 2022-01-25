@@ -1,104 +1,120 @@
 ---
 title: PMBOK_Guide
-tags: agil klassisch
+tags: klassisch
 author: FerYilm
-anrechnung: k oder a
+anrechnung: k
 ---
+Der erstmals 1996 veröffentlichte PMBOK- Guide (A Guide to the Project Management Body of Knowledge) gilt als das zentrale Nachschlagwerk des [PMI](PMI_Institution.md) und ist ein anerkannter Standard des [Projektmanagements](Projektmanagement.md). Der PMBOK Guide gehört wie [PRINCE2](PRINCE2.md) zu den bekanntesten Ansätzen im Projektmanagement und ist in verschiedenen Bereichen anwendbar. Die vom PMI angebotene PMP [Zertifizierung](Zertifizierungen.md) baut u. a. auf dem Guide auf und gilt daher als wichtiges Referenzdokument [^1][^2].
 
-Kurzbeschreibung zu PMBOK_Guide um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Aufbau des aktuellen PMBOK-Guides
+Das Handbuch wird inhaltlich in den Standard und einen Leitfaden für das Projektmanagement gegliedert. Mit der 7. Edition wurden unter Berücksichtigung der technologischen und wirtschaftlichen Entwicklungen grundlegende Änderungen vorgenommen. Diese sollen aktuelle Herausforderungen im Projektmanagement besser widerspiegeln und Projektmanager:innen verbesserte Handlungsmöglichkeiten auf Marktveränderungen erlauben.
+Anders als die Vorgänger basiert die neueste Ausgabe nicht mehr auf einer prozessorientierten Methodik, sondern auf Werten und Prinzipien. Zudem wurden die *Knowledge Areas* und die *Prozessgruppen* durch das sog. System für Wertlieferung, die Grundsätze und Projekt-Leistungsbereiche ersetzt [^3]. Im Abschnitt über Modelle, [Methoden](Methoden.md) und Artifakte werden allgemeine Beschreibungen für Beispiele aufgeführt [^4].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+![Abbildung](PMBOK_Guide/foto.jpg)
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+*PMBOK-Guide Seventh Edition* [^5]
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+| **The Standard for Project Management** | **A Guide to the Project Management Body of Knowledge** |
+| ------------- | ------------- | 
+| Introduction  | Project Performance Domains  |
+| System for Value Delivery  | Tailoring |
+| Project Management Principles | Models, Methods, Artifacts
 
-![Beispielabbildung](PMBOK_Guide/test-file.jpg)
+_Die Themenbereiche der aktuellen Edition_ [^6]
 
-*lustiges Testbild*
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# Inhalt des Standards
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## System for Value Delivery
 
-So kann man eine Tabelle erstellen:
+Verschiedene Elemente können dazu beitragen, einen bestimmten Wert zu schaffen, wenn sie in einem System kombiniert werden. Damit das System mit der jeweiligen Organisationsstrategie übereinstimmt und an sein internes und externes Umfeld angepasst ist, sollte zwischen den beteiligten Elementen ein regelmäßiger Informationsaustausch stattfinden. Beispiele für Elemente sind Portfolios, Programme und Produkte.
+Das System für Wertlieferung wird dabei durch das Governance System unterstützt, welches einen Rahmen für verschiedene Funktionen darstellt. Wichtige Funktionen sind z.B. Aufsicht und Kontrolle. Diese können von einzelnen oder einer Gruppe von Personen durchgeführt werden. Dabei wird besonders die Dynamik der [Projektmitarbeiter:innen](Projektmitarbeiter.md) betont, die unabhängig vom Führungsstil ist. Der PMBOK Guide schreibt deshalb keinen bestimmten Führungsansatz vor. Entscheidend für das Projektergebnis ist die regelmäßige [Kommunikation](Kommunikation_Projektbeteiligte.md) und [Interaktion](Interaktion.md) zwischen Projektmitgliedern und Stakeholder:innen [^7].
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+![Abbildung](PMBOK_Guide/system.jpg)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+*Beispiel für das Wertlieferungssystem* [^7]
 
-### Ebene-3-Überschrift
+## Project Management Principles 
+Die Grundsätze wurden von Projektspezialist:innen verschiedener kultureller und beruflicher Hintergründe erarbeitet. Sie ergänzen die vier wichtigsten Werte (*Responsibility, Respect, Fairness, Honesty*) für das [PMI](PMI_Institution.md), die unter dem Kodex *Code of Ethics and Professional Conduct* zusammengefasst wurden. Im Vergleich zum Kodex sind die Grundsätze nicht obligatorisch. Die Grundsätze sollen nur als Orientierungshilfe für ein effizientes Projektmanagement dienen und sind deshalb nicht präskriptiv. Sie sind konsistent und können sich untereinander oder mit anderen Managementprinzipien überschneiden.
+Die neuen 12 Prinzipien aus dem PMBOK sind bewusst breit gefächert, damit sie jede Organisation umsetzen kann. Dadurch ist die Möglichkeit gegeben, dass Teams aus unterschiedlichen Bereichen und Berufsgruppen die Projektmanagement-Prinzipien an ihre eigenen Projekte anpassen können. 
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Die 12 Prinzipien sind nachfolgend mit ihren Bezeichnungen aufgelistet. Sie sind untereinander gleichgewichtet und folgen deshalb keiner besonderen Reihenfolge [^8].
 
-# Aspekt n
+* **Stewardship**: "Sei ein sorgfältiger, respektvoller und fürsorglicher Verwalter"
+* **Team**: "Schaffe ein kollaboratives Team-Umfeld"
+* **Stakeholders**: "Setze dich effektiv mit Stakeholdern auseinander"
+* **Value**: "Konzentriere dich auf den Wert"
+* **System Thinking**: "Erkenne und bewerte Systeminteraktionen und reagiere darauf"
+* **Leadership**: "Zeige Führungskompetenz"
+* **Tailoring**: "Führe Anpassungen durch"
+* **Quality**: "Baue Qualität in Prozesse und Ergebnisse ein"
+* **Complexity** "Steuere Komplexität"
+* **Risk**: "Optimiere die Reaktionen auf Risiken"
+* **Adaptability and Resiliency**: "Fördere Anpassungsfähigkeit und Resilienz"
+* **Change**: "Ermögliche Veränderungen für einen angestrebten zukünftigen Zustand" [^8]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+
+# Inhalt des Leitfadens
+
+## Project Performance Domains
+
+Alle Aktivitäten, die zusammenhängen und zum Erfolg eines [Projekts](Projekt.md) beitragen, werden zu einem Project Performance Domain gezählt. Aufgrund der gegenseitigen Abhängigkeit stellen die acht Domains ein integriertes System dar und sind durch einen simultanen Ablauf gekennzeichnet. Der Zusammenhang der Bereiche kann je nach [Projekt](Projekt.md) Unterschiede aufweisen, ist jedoch immer vorhanden. Eine isolierte Betrachtung der Domains ist deshalb nicht vorgesehen. Zum Beispiel beschäftigen sich [Projektleiter:innen](Projektleiter.md) von [Projektstart](Projektstart.md) bis zum [Projektabschluss](Projektabschluss.md) mit Stakeholder:innen, dem Projektteam, [Produktlebenszyklus](Projekt_Lebenszyklus.md) usw. Die genannten Bereiche sind immer auf eine bestimmte Art und Weise miteinander verbunden und können sich überschneiden. Eine effektive Umsetzung der Leistungsbereiche führt zu einer Vielzahl von Vorteilen. Beispiele sind ein leistungsstarkes Team, geordneter und koordinierter Projektablauf, die angemessene Kommunikation mit Stakeholder:innnen oder ein besseres Verständnis für die wechselseitige Abhängigkeit verschiedener Variablen.
+Abhängig von der Organisation, dem Projektteam oder der Ziele setzen sich für die Bereiche, die nachfolgend aufgelistet sind, spezielle Aufgaben und Funktionen zusammen. Die Bereiche sind gleichgewichtet und haben keine besondere Reihenfolge [^9].
+
+*	**Stakeholder**
+*	**Team**
+*	**Development Approach and Life Cycle**
+*	**Project Work**
+*	**Delivery**
+*	**Measurement**
+*	**Uncertainty** [^9]
+
+## Tailoring 
+
+Unter dem Begriff Tailoring versteht man die Abstimmung des Ansatzes und der Prozesse an das jeweilige Projekt und sein Umfeld. Aufgrund der individuellen Zusammensetzung jedes Projekts sind keine einheitlichen Ansätze möglich. Tailoring passt daher unter Berücksichtigung des [Projektlebenszyklus](Projekt_Lebenszyklus.md), der erwünschten Ergebnisse und der beteiligten Mitarbeiter:innen den Ansatz und die Prozesse an das anstehende Projekt an. Die *Project Management Principles*, die Werte und Kultur des Unternehmens bilden dabei die Basis für den Tailoring- Vorgang. Wenn zum Beispiel die Kundenzufriedenheit ein wichtiger Unternehmenswert ist, werden Aktivitäten und Aufgaben so ausgewählt, dass diese Anforderung erfüllt wird. Dies würde z.B. auch mit dem Grundsatz  *Stakeholder* im Einklang stehen. Damit das Tailoring gelingt, ist es wichtig, dass der Kontext, die Ziele und das Umfeld des Projekts wirklich verstanden wurden. Durch Tailoring kann eine Organisation direkt oder indirekt positiv beeinflusst werden. Beispiele für die Vorteile sind mehr Engagement von Teammitgliedern, die am Tailoing mitgewirkt haben, eine stärkere Kundenorientierung und ein ressourcenschonender Umgang. Unternehmensrichtlinien oder Verträge können das Tailoring einschränken oder verbieten, wenn bestimmte Ansätze vorgeschrieben werden und eingehalten werden müssen. Tailoring liegt auch dann vor, wenn der Begriff nicht verwendet wird, aber trotzdem Projektfaktoren und Aktivitäten bewusst ausgewählt und angepasst werden [^10].
+
+Folgende Aspekte können angepasst werden:
+
+* **Produktlebenszyklus und Entwicklungsansatz**
+* **Prozesse**
+* **Engagement**
+* **Tools**
+* **Methoden und Artifakte** [^10]
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](PMBOK_Guide.md)
+* [PMI](PMI_Institution.md)
+* [PRINCE2](PRINCE2.md)
+* [Projektmanagement](Projektmanagement.md)
+* [Zertifizierung](Zertifizierungen.md)
+* [Projektmitarbeiter](Projektmitarbeiter.md)
+* [Methoden](Methoden.md)
+* [Projektlebenszyklus](Projekt_Lebenszyklus.md)
+* [Projektstart](Projektstart.md)
+* [Projektabschluss](Projektabschluss.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Agile project management and the PMBOK® guide](https://www.pmi.org/learning/library/agile-project-management-pmbok-waterfall-7042)
+* [PMBOK Guide 7th Edition (12 Principles)](https://www.youtube.com/watch?v=fGrsUSw1_Vw)
+* [PMI Ethikrichtlinien und Maßstäbe für professionelles Verhalten](https://www.pmi.org/-/media/pmi/documents/public/pdf/ethics/pmi-code-of-ethics.pdf?sc_lang_temp=de-DE)
 
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]:[PMBOK Guide 7th Edition: Was PMP-Kandidaten wissen müssen](https://www.theprojectgroup.com/blog/pmbok-guide-7th-edition/) 
+[^2]:[Kurz und knapp: Das ist neu beim PMBOK-Guide Edition 7](https://www.inloox.de/unternehmen/blog/artikel/kurz-und-knapp-das-ist-neu-beim-pmbok-guide-edition-7/)
+[^3]:[PMBOK Guide 7. Ausgabe – Ein Überblick](https://www.tiba-business-school.de/pmbok-guide-7-ausgabe-ueberblick/)
+[^4]:[A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition](https://msfau.sharepoint.com/:b:/t/ManagingProjectsSuccessfullyWS2122/ESSHjiJ4A4lNlMS_IOokdA0BNhGaDTT4Gj9juHXfVPetoA?e=EPlwFG) S. 248
+[^5]:[PMBOK® Guide](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK) 
+[^6]: [A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition](https://msfau.sharepoint.com/:b:/t/ManagingProjectsSuccessfullyWS2122/ESSHjiJ4A4lNlMS_IOokdA0BNhGaDTT4Gj9juHXfVPetoA?e=EPlwFG) S.14
+[^7]:[A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition](https://msfau.sharepoint.com/:b:/t/ManagingProjectsSuccessfullyWS2122/ESSHjiJ4A4lNlMS_IOokdA0BNhGaDTT4Gj9juHXfVPetoA?e=EPlwFG) S.34-47
+[^8]:[A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition](https://msfau.sharepoint.com/:b:/t/ManagingProjectsSuccessfullyWS2122/ESSHjiJ4A4lNlMS_IOokdA0BNhGaDTT4Gj9juHXfVPetoA?e=EPlwFG) S.48-86
+[^9]:[A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition](https://msfau.sharepoint.com/:b:/t/ManagingProjectsSuccessfullyWS2122/ESSHjiJ4A4lNlMS_IOokdA0BNhGaDTT4Gj9juHXfVPetoA?e=EPlwFG) S.102
+[^10]:[A Guide to the Project Management Body of Knowledge: PMBOK guide, Seventh Edition](https://msfau.sharepoint.com/:b:/t/ManagingProjectsSuccessfullyWS2122/ESSHjiJ4A4lNlMS_IOokdA0BNhGaDTT4Gj9juHXfVPetoA?e=EPlwFG)  S.226-232
 

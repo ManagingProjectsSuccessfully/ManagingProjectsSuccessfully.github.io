@@ -2,103 +2,102 @@
 title: Who_is_Who_Projectmanagement
 tags: agil klassisch
 author: ne88peni
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Who_is_Who_Projectmanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Der Begriff „Who is who“ (Auf Deutsch: Wer ist wer) weist im Allgemeinen auf die herausragenden oder einflussreichen Personen in einer Gemeinschaft, Branche, einem Beruf oder einer anderen Gruppe hin[^1].
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+In Bezug auf Projektmanagement stellt „Who is Who“ die Frage, welche Personen im Projektmanagement wichtig sind, und welche Rollen im Projektmanagement vergeben werden müssen.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Beteiligte im Projektmanagement
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Wichtige Personen im [Projektmanagement](Projektmanagement.md) werden als Projektbeteiligte bezeichnet. Diese werden in zwei Personengruppen kategorisiert: jene, die unmittelbar in das [Projekt](Projekt.md) involviert sind und jene, die indirekt Einflussnahme auf das Projekt ausüben können.
+Der unmittelbare Personenkreis umfasst den Auftraggeber, das Projektteam und Projektleitung sowie jene Personen oder Abteilungen, die das Projektergebnis fortführen werden oder Nutzer des Projektergebnisses sind. Sie sind am Projektverlauf aktiv beteiligt und beeinflussen mit ihrer Leistung den Ergebnisverlauf.
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die zweite Gruppierung wird auch als „externe Projektbeteiligte“ bezeichnet und ist im Projektmanagement häufig in synonymen Gebrauch mit dem Begriff „Stakeholder“. Zu dieser Gruppierung gehören Investoren, Aktionäre, Banken und die übrigen Unternehmensbereiche. Im weitesten Sinn stellen [Stakeholder](https://de.wiktionary.org/wiki/Stakeholder) alle Gruppierungen, die im Rahmen einer verantwortungsbewussten und nachhaltigen Unternehmensführung zu berücksichtigen sind. Dazu gehören somit auch Staat und Gesellschaft[^2].
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Typische Projektrollen
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Who_is_Who_Projectmanagement/test-file.jpg)
 
-*lustiges Testbild*
+<img src="https://user-images.githubusercontent.com/92825010/146095192-cede07d0-c0ed-4a86-95e6-d132e15c3747.PNG" width="600" height="600">
 
-# Aspekt 2
+*Wichtige Rollen in einem Projekt*
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+In jedem Projekt lassen sich zwar auch individuelle Rollen bestimmen, dennoch gibt es einige, die immer vorgesehen werden sollten:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+#### 1. Projektmanager bzw. Projektleiter
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Der Projektleiter hat die Aufgabe, das Projekt in dem vordefinierten Rahmen umzusetzen. Sein Ziel ist es selbstverständlich, das Projekt erfolgreich zu beenden. Unter seine Verantwortung fällt auch die Motivation der Teammitglieder um die [Produktivität zu steigern](https://de.wiktionary.org/wiki/Produktivit%C3%A4tssteigerung)[^3].
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+#### 2. Projektsponsor oder Projektauftraggeber
 
-### Ebene-3-Überschrift
+Der Projektauftraggeber ist, derjenige, der das Projekt in Auftrag gegeben hat und finanziell unterstützt[^4].
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+#### 3. Teilprojektleiter
 
-# Aspekt n
+Die Teilprojektleiter sind dem Projektleiter unterstellt und sind eben nur für einen Teilbereich des Projektes zuständig. Wenn es sich um ein größeres Projekt handelt, übernehmen die Teilprojektleiter einen bestimmten Aufgabenbereich. Entscheidungen, die über den Rahmen des Teilprojektes hinausgehen, werden wieder an den Projektmanager weiter delegiert.[^5]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+#### 4. Qualitätsmanager
+
+Je nach Projekt werden auch Qualitätsmanager ernannt. Diese kommen meist aus dem Unternehmen, in dessen Rahmen das Projekt stattfindet, und sollten daher eine neutrale Rolle innerhalb des Projektes einnehmen. Der Qualitätsmanager überwacht die Qualitätsziele und sorgt dafür, dass diese erreicht werden[^6].
+
+#### 5. Projektkaufmann
+
+Die Aufgabe des Projektkaufmanns, die auch oft vom Projektleiter miteingenommen wird, bezieht sich auf das Management der Finanzen. Hierbei geht es sowohl um die Beschaffung der finanziellen Mittel als auch um die Überwachung der Kostenentwicklung im Projekt.
+
+#### 6. Controller
+
+Eine weitere Rolle, die meist ebenfalls vom Projektleiter eingenommen wird, ist die des Controllers. Diese Rolle ist für die Überwachung und Steuerung des Projektfortschrittes und teilweise auch für die Überwachung der Kosten zuständig[^7].
+
+#### 7. Der Lenkungsausschuss
+
+Der Lenkungsausschluss ist eine Gruppe, die in regelmäßigen Abständen die Entwicklung des Projekts überprüft und im Zweifel die Vorgaben macht. Die Lenkungskreismitglieder nehmen also eine beratende, entscheidende und genehmigende Funktion im Projekt ein.
+Der Projektleiter sollte im Übrigen besser kein Mitglied im Lenkungskreis sein, damit der Lenkungskreis eine außenstehende und neutrale Funktion einnehmen kann[^8].
+
+#### 8. Die Projektbüromitarbeiter
+
+Das Projektbüro ist die zentrale Anlaufstelle für die administrativen Aufgaben innerhalb des Projekts. Hier werden unter anderem die Projektdokumente gepflegt und die Projektberichte zusammengestellt.
+
+#### 9. Der Fachausschuss
+Der Fachausschuss besteht aus Mitarbeitern, die aus den betroffenen oder beteiligten Fachabteilungen stammen. Sie sollen den anderen Teammitgliedern bei fachlichen Fragen zur Seite stehen[^9].
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Who_is_Who_Projectmanagement.md)
+* [Project Management Team Structure for Internet Providing Companies](https://link.springer.com/chapter/10.1007/978-3-319-23126-6_47)
+* [Roles of Top Management and Organizational Project Management in the Effective Company Strategy Implementation](https://www.sciencedirect.com/science/article/pii/S1877042816308540)
+* [Projektportfoliomanagement](Projektportfoliomanagement.md)
+* [Internationale_Projektmanagement_Standards](Internationale_Projektmanagement_Standards.md)
+* [Projekthandbuch](Projekthandbuch.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+*  [Org Chart: Who is who in the company?](https://www.youtube.com/watch?v=CouWieFqk7Q)
+*  [Ernø-kjølhede, E. (2000). Project Management Theory and the Management of Research Projects.
+](https://ideas.repec.org/p/hhb/cbslpf/2000_003.html)
+
+
+
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://en.wiktionary.org/wiki/who%27s_who
+[^2]: [Stakeholder analysis](https://www.pmi.org/learning/library/stakeholder-analysis-pivotal-practice-projects-8905)
+
+[^3]: [Fähigkeiten_Projektleiter.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Faehigkeiten_Projektleiter.md)
+[^4]: [Project sponsorship](https://www.pmi.org/learning/library/importance-of-project-sponsorship-9946)
+[^5]: [Sub-project manager](https://www.hermes.admin.ch/en/project-management/understanding/roles/sub-project-manager.html)
+[^6]: [Ingason, H. Þ., Jónsdóttir, E. R., & Liu, S. (2017). The house of competence of the quality manager.](https://www.tandfonline.com/doi/full/10.1080/23311975.2017.1345050)
+[^7]: [The role of the project controller](https://www.arabianbusiness.com/the-role-of-project-controller-10704.html)
+[^8]: [Implementing a project: the role of a Steering Committee ](http://www.lawfoundation.net.au/ljf/site/templates/resources/$file/SteeringCommittee.pdf)
+[^9]: [Technical Committee on Project Management](https://design.transportation.org/technical-committees/project-management/)
+
 

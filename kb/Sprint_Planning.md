@@ -1,104 +1,86 @@
 ---
 title: Sprint_Planning
-tags: agil klassisch
-author: fauchavd
-anrechnung: k oder a
+tags: agil
+author: faucahvd
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Sprint_Planning um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+*Sprint Planung* (Von englischem Sprint-Planning) ist eines von fünf "Events" des agilen Tools Scrum.
+# Inhalt
+1. [Sprint-Planung](#sprint-planung)
+2. [Das Meeting](#das-meeting)
+3. [Sprint-Planning erklärt anhand eines Beispiels](#sprint-Planning-erklärt-anhand-eines-beispiels)
+4. [Auch interessant](#auch-interessant)
+5. [Quellen](#quellen)
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Sprint-Planung
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Zwischen der `Product Planung` und dem tatsächlichen [Sprint](#sprint), befindet sich die `Sprint-Planung`.
+*Diese* ist ein Meeting, um den eigentlichen Sprint zu planen. Die Funktion des Meetings ist, zu definieren, welche Anforderugen also `was` und `wie` sie umgesetzt werden sollen. Das Ziel vom Sprint-Planungsmeeting ist es, vom gesamten [Produkt-Backlog](Product_Backlog.md) einen Teil, also das Sprint-Backlog[^8] zu erstellen.[^1]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+In [SCRUM](SCRUM.md) gibt es 5 verschiedene Events(Ereignisse). Sprint-Planung ist nur ein Vorgang ("EVENT") davon.
+Die anderen Events teilen sich auf in: 
++ [Sprint](Sprint.md)
++ [Daily Scrum](Daily_Scrum.md)
++ [Sprint Review](Sprint_Review.md)
++ [Retrospektive](Retrospective.md) 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Events sind zentrale und strukturelle Elemente von [Scrum](SCRUM.md). Sie habe nach Scrum-Definition, eine ganz spezielle Charakteristika[^2]. Sie müssen regelmäßig stattfinden. Diese Regelmäßigkeit sorgt dafür, den interaktiven Charakter von Scrum sicherzustellen. Die Vorgehensweise ist in der Regel, dass für jedes Ereignis, ein fester Zeitintervall vorgegeben ist. Zum Beispiel Daily Scrum ist jeden Tag 15 min[^4].
+   
+#### *__Sprint__*  
+Ein [Sprint](Sprint.md) ist ein festgelegter Zeitraum, in dem man die zuvor geplante Arbeit erldigt. Deshalb benötigt man `Sprint-Planning`. Während Sprint-Planning legt das gesamte Scrum-Team ([Product-Owner](Product_Owner.md), [Scrum-Master](Rollen_Scrum.md), [Entwicklerteam](Rollen_Scrum.md)) das Ziel und das Sprint-Backlog fest. Das Sprint-Planungsmeeting umfasst, wie oben genannt, zwei Teile:[^6]
+- was? - Der erste fokusiert sich auf das *WAS* und klärt, welche Anforderungen im Laufe des Sprints umgesetz werden sollen.[^6]
+- wie? - Der zweite fokusiert sich auf das *WIE*. 'Wie sollen die Anforderugen (Ziele) erreicht werden?' Das Entwlicklerteam plant die Aufgaben, um das Ziel des Sptrints zu erreichen.[^6]
 
 
-# Aspekt 1
+![SCRUM](Sprint_Planning//sprint-planungsmeeting.png)  
+*Die Vorgehensweise nach Scrum-Definition*[^3]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+# Das Meeting
+Der Vorgang von `Sprint-Planning` steht am Anfang eines Sprints. Bei dem Sprint-Planungsmeeting ist das [Entwicklerteam](Rollen_Scrum.md) und der [Product-Owner](Product_Owner.md) dabei. Beide zusammen planen den nächsten [Sprint](#sprint). Der Blick wird gerichtet auf die nächsten 2 oder 3 Wochen (unterschiedlich je nachdem wie lange der Sprint dauert). Der Sprint-Planning dient dazu die Anforderungen, die in [Product-Backlog](Product_Backlog.md) vorhanden sind, mit dem Team durchzusprechen. Und zwar nur die wichtigsten Requirements, um daraus das sogenanten Sprint-Backlog zu formen. Also das Ziel des Events ist aus dem [Product-Backlog](Product_Backlog.md), die wichtigsten Anforderungen in den Sprint-Backlog zu überführen. Deswegen wird die Sprint-Planning im Allgemeinen in zwei Teile geteilt.[^3]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+### - TEIL 1: WAS?
+Im ersten Teil spielt der [Product-Owner](Product_Owner.md) eine sehr wichtige Rolle – hier wird besprochen und geklärt, WAS an Anforderungen umzusetzen ist. Hier muss das [Entwicklerteam](Rollen_Scrum.md) verstanden haben, um was es geht. Was die Anforderungen sind? Was Fachlich hinter den Anforderungen steckt.[^4]
 
-![Beispielabbildung](Sprint_Planning/test-file.jpg)
+### - TEIL 2: WIE?
+Der zweite Teil findet ohne [Product-Owner](Product_Owner.md) statt, da das Team die Anforderungen diskutiert, die das Developerteam in dem [Sprint](Sprint.md) abarbeiten möchte oder kann. Das Kriterium ist hier WIE? Also von den User-Storys vom [Product-Backlog](Product_Backlog.md) bildet das Team die Tasks, das sogenannte `'Sprint-Backlog'`. Somit weiß das Team, was zu tun ist. Hier im Sprint-Backlog befinden sich die User-Storys und daneben die einzelnen Tasks, die abzuarbeiten sind.[^4]
 
-*lustiges Testbild*
+### *Definition of Done DoD*
+Im Sprint-Planning Event ist die ``'Definition of Done'`` (DoD), eine sehr wichtige Sache. Es bedeutet, dass der [Product-Owner](Product_Owner.md) eine Art Vertrag mit dem [Entwicklerteam](Rollen_Scrum.md) schließt, in dem festgehalten wird, welche Anforderung die User-Storys haben müssen, damit sie in den [Sprint](Sprint.md) aufgenommen werden. Das Team muss verstanden haben, um was es geht.[^5]
 
-# Aspekt 2
+# Sprint-Planning erklärt anhand eines Beispiels #
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Nehmen wir an, unser Kunde will eine statische [HTML-Webseite](https://stadtprofil-fuerth.de/#contact) für sein Portfolio bauen lassen. Der [Product-Owner](Product_Owner.md) hat schon mit ihm abgestimmt, welche Anforderungen er haben möchte. Im [Product-Backlog](Product_Backlog.md) stehen schon die auflisteten User-Storys priosiert. Der P.O. wählt die wichtigsten Anforderungen für den folgenden [Sprint](Sprint.md) aus. Folgendes Szenario (User-Story) sei gegeben: 
+```
+"Als Nutzer der Webseite will ich ein Kontakt-Formular, um Fragen an die Firma zu stellen."
+```
+Der [Product-Owner](Product_Owner.md) trifft sich mit dem [Entwicklerteam](Rollen_Scrum.md) (Sprint-Planning). Er stellt die Wünsche des Kunden und die User-Story vor. Dann diskutiert das [Developerteam](Rollen_Scrum.md)unter sich, ob es möglich ist, die Anforderung umzusetzen und wie sie umgesetzt werden soll. Das Team entscheidet sich, zuerst um Frontend zu kümmern. Von der User-Story werden die Tasks gebildet und in Sprint-Backlog hineingenommen. 
+Mögliche Aufgaben (Tasks): 
+```
+1. <button>, <input>, <form> an Designvorgaben anpassen
+2. Layout aufsetzen
+3. Schriftart anbinden
+usw. 
+```
+Und so fängt der [Sprint](Sprint.md) an. 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Sprint_Planning.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
+# Auch interessant
++ [SCRUM](SCRUM.md)
++ [Produkt-Backlog](Product_Backlog.md)
++ [Sprint-Backlog](sorry-keon-lint)
++ [Sprint](Sprint.md)
++ [Product-Owner](Product_Owner.md)
++ [Entwicklerteam](Rollen_Scrum.md)
++ [Daily Scrum](Daily_Scrum.md)
++ [Sprint Review](Sprint_Review.md)
++ [Retrospektive](Retrospective.md)
+ 
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Sprint Planning| Projektmagzin](https://www.projektmagazin.de/methoden/sprint-planning)
+[^2]: [Die Events in SCRUM](https://www.agile-heroes.de/magazine/scrum-events)
+[^3]: [Die fünf formellen Scrum Events im Projektmanagement](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)
+[^4]: [Timeboxing ](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)
+[^5]: [Sprint-Planungsmeeting ](https://projektmanagement-zentrum.ch/2019/03/04/scrum-events/)
+[^6]: [Sprint-Planung ](https://www.atlassian.com/de/agile/scrum/sprint-planning)
+[^7]: [Product Backlog ](https://www.projektmagazin.de/glossarterm/product-backlog)  
+[^8]: [Sprint Backlog ](https://www.projektmagazin.de/glossarterm/sprint-backlog)

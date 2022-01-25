@@ -1,104 +1,141 @@
 ---
-title: Feedbackgespräche
-tags: agil klassisch
-author: Leni2505
-anrechnung: k oder a
+title: {Feedbackgespräche}
+tags: {klassisch}
+author: {Leni2505}
+anrechnung: {k}
 ---
 
-Kurzbeschreibung zu Feedbackgespräche um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Feedbackgespräche
+&nbsp;
+## 1. Definition
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Der Begriff Feedback kommt ursprünglich aus der Kybernetik, die Lehre der Regelungsprozesse. 
+„In der Kybernetik gibt das Feedback im Regelkreis zwischen einer bestimmten Eingabe (in-put) und dem erwarteten Ergebnis (out-put) Auskunft, ob der erreichte Ist-Wert auf der richtigen Linie des zielorientierten Steuerungsprozesses liegt. Bei Fehlern und Störeinflussen sind so Korrekturen im Hinblick auf den vorgegebenen Soll-Wert möglich.“ [^1]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Mit Hilfe von konstruktivem Feedback haben wir die Möglichkeit „positive Verhaltensweisen zu stabilisieren und auszubauen, da diese durch Anerkennung verstärkt werden. Es kann zudem auch helfen, Verhaltensweisen, die unangemessen oder nicht wünschenswert sind, zu korrigieren. Feedback fordert die Beziehungsklärung und das wechselseitige Verständnis von Personen und optimiert auf diese Weise zudem das Leistungsergebnis“. [^2]
 
 
-# Aspekt 1
+Im Alltag erleben wir Rückmeldungen oftmals im "individualistisch-interaktionistischen Sinne (...): So z. B. zwischen Ehepartnern, zwischen dem Trainer und
+den Spielern einer Mannschaftssportart (...).
+Und natürlich fndet tagtäglich Feedback (auch) in Organisationen statt, wenn ein Vorgesetzter seinen Mitarbeiter kritisiert oder lobt (...)." [^3]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Feedback wird dabei oft mit Lob oder Kritik verwechselt. Dabei soll vorerst lediglich eine Rückmeldung zu Verhaltens- und Arbeitsweisen gegeben werden.
+Feedbackgespräche können vorallem im beruflichen Kontext dazu beitragen, die Motivation der eigenen Mitarbeiter zu steigern, die Zusammenarbeit zu verbessern, potenzielle Konflikte frühzeitig zu erkennen und entsprechend zu beheben sowie Orientierung zu schaffen und Ziele festzulegen. [^4]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Um Feedback zu äußern, können unterschiedliche [Feedback-Methoden](https://github.com/Leni2505/ManagingProjectsSuccessfully.github.io/tree/main/kb/Feedback_Methoden) angewendet werden.
 
-![Beispielabbildung](Feedbackgespräche/test-file.jpg)
+<br/>
 
-*lustiges Testbild*
+| Kriterien für ein erfolgreiches Feedback: | | 
+| -------------------- | ------------- |
+| **Respektvoll**| Auch wenn Ihr Gegenüber ein aus Ihrer Sicht negatives Verhalten zeigt, ist gegenseitiger Respekt die Grundhaltung für das Gespräch.|
+| **Konkret**| Hingeworfene Bemerkungen, indirektes Feedback durch Mimik bzw. Tonfall oder allgemeine Urteile haben keinen positiven Effekt – im Gegenteil.|
+| **Reflektiert**| Überlegen Sie, was Sie sagen, warum Sie es sagen möchten und wie Sie es ausdrücken.|
+| **Verantwortungsvoll**| Muten Sie der anderen Person nur das Feedback und nur so viel davon zu, wie Sie annehmen, dass sie es gut verarbeiten kann und es hilfreich ist.|
+| **Beschreibend und Persönlich**| Statt »Du warst arrogant« sagen Sie beispielsweise besser: »Ich fand deine Äußerungen ziemlich herablassend.«|
+| **Angemessener Zeitpunkt**| Wenn eine/r von beiden im Stress oder erschöpft ist, wirkt Feedback oft kontraproduktiv.|
+| **Gegenseitig**| Wer Feedback gibt, sollte auch selbst offen für Feedback sein.  [^4]|
 
-# Aspekt 2
+<br/>
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## 2. Mit Fünf Fragen zu einem gelungenen Feedback:
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+<img width="800" height="450" src="https://user-images.githubusercontent.com/92356175/146909390-4c840908-aade-472a-a786-c3e2789f541a.png"/>
+ 
+Abbildung: Eigene Darstellung [^4]
 
-So kann man eine Tabelle erstellen:
+<br/>
+ 
+## 3. Mögliche Gesprächsthemen
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Ein Feedbackgespräch bietet die Möglichkeit, gemeinsam Ziele zu evaluieren und neue Projekte zu definieren, mögliche Konflikte und Herausforderungen offen anzusprechen und Lösungen zu erarbeiten.
+Außerdem können Wünsche und Anregungen geäußert werden oder über zusätzliche Motivationsanreize wie beispielsweise Weiterbildungsmaßnahmen, höheres Gehalt etc. verhandelt werden. [^6]
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+<br/>
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## 4. Umgangsformen im Gespräch
 
-### Ebene-3-Überschrift
+*	Höflicher und wertschätzender Umgang miteinander
+*	Lösungsorientierte Ansätze
+*	Strukturierter Gesprächsverlauf
+*	Allgemeine Gesprächsregeln beachten (Ausreden lassen etc.)
+*	Keine Schuldzuweisungen
+*	Konstruktive Kritik 
+*	Vor- und Nachbereitung des Gesprächs [^5]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+<br/>
 
-# Aspekt n
+## 5. Die vier Phasen eines Feedbackgesprächs:  
+### Phase 1: Beurteilung und Feedback
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+*	Anerkennung von Erfolgen und Fortschritten sowie Erörterung von Verbesserungspotenzialen und Kritikpunkten
+*	Rücksprache von Wünschen des Vorgesetzen/ des Mitarbeiters 
+*	Ziel des Gesprächs festlegen 
 
+### Phase 2: Zieldefinition und Planung
 
-# Siehe auch
+*	Analysieren von Verbesserungspotenzialen 
+*	Möglicherweise Verantwortungsbereiche des Mitarbeiters ausbauen/reduzieren 
+* Ziele für kommende Monate definieren:
+u.a. mit Hilfe der [SMART-Regel](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SMART_Ziele.md) 
+* YouTube Video: [SMART Ziele - erfolgreich mit S.M.A.R.T. formulierten Zielen](https://www.youtube.com/watch?v=_nwvWHePqUo)
+ 
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Feedbackgespräche.md)
+### Phase 3: Wünsche und Perspektiven 
 
-# Weiterführende Literatur
+Mitarbeiter kommuniziert eigene Wünsche, Ziele und Planung der beruflichen Zukunft im Unternehmen sowie Verbesserungsvorschläge am Arbeitsplatz
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+### Phase 4: Nachbereitung
 
-# Quellen
+*	Zielerreichungskontrolle 
+*	Regelmäßiger Austausch [^5]
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+<br/>
 
+[![Ablauf Fedbackgespräch](Feedbackgespräche/fbg-ablauf.jpeg)](https://karrierebibel.de/feedbackgespraech/)
+
+Abbildung: Ablauf Feedbackgespräche
+
+<br/>
+
+## 6. Warum ist regelmäßiges Feedback so wichtig?
+
+Feedback...[^6]
+<ul>
+<li>...objektiviert Selbsteinschätzung</li>
+<li>...dient der Erfolgskontrolle</li>
+<li>...verhindert den Tunnelblick</li>
+<li>...reflektiert Arbeitsweisen</li>
+<li>...hilft, Ziele zu überprüfen</li>
+<li>...verbessert die Zusammenarbeit</li>
+<li>...ermöglicht persönliche Entwicklung</li>
+<li>...motiviert</li> 
+</ul>
+
+ 
+<br/>
+
+## 7. Siehe auch:
+
+  * YouTube Video: 
+  [So gelingt dir das Mitarbeitergespräch](https://www.youtube.com/watch?v=uDk8fSi2OsE)
+
+  * [Checkliste Fedbackgespräch](https://www.karriere.at/blog/mitarbeitergespraech-checkliste.html)
+
+<br/>
+
+## Weiterführende Literatur: 
+* Scherm, Martin (2019): 360°-Feedback, Hogrefe Verlag, 2. Auflage, Göttingen
+* Hossiep, Rüdiger (2020): Mitarbeitergespräche : motivierend, wirksam, nachhaltig, Hogrefe Verlag, 2. Auflage, Göttingen
+
+<br/>
+
+## Quellen
+
+[^1]: Schaub H., Zenke K., Wörterbuch Pädagogik, 2004 S.836
+[^2]: Hossiep R., Mitarbeiterbefragungen in den 2000er Jahren: Eine Bestandsaufnahme, 2008 S.33
+[^3]: Jöns I., Bungard W. (Hrsg.), Feedbackinstrumente im Unternehmen : Grundlagen, Gestaltungshinweise, Erfahrungsberichte, 2018 S.4
+[^4]: Vgl.: Kanitz, Anja; Feedbackgespräche. (S.16 ff., S.22., S.26, S.31)
+[^5]: Vgl.: Brückner Benjamin: Feedbackgespräch: Leitfaden + Tipps. Internetquelle: https://www.fuer-gruender.de/blog/feedbackgespraech/, abgerufen am 20.12.2021.
+[^6]: Mai, Jochen (2021): Feedbackgespräch: Ablauf, Vorbereitung, Tipps. Internetquelle: https://karrierebibel.de/feedbackgespraech/, abgerufen am 20.12.2021.

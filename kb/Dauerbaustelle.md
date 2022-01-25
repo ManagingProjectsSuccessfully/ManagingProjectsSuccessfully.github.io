@@ -1,104 +1,51 @@
 ---
 title: Dauerbaustelle
-tags: agil klassisch
+tags: klassisch
 author: EuleW
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Dauerbaustelle um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Unterliegt ein Projekt einem ständigen Veränderungs- bzw. Erweiterungsprozess und wurde kein klares Ende definiert, so wird dieses im Rahmen des Projektmanagements als „Dauerbaustelle“ bezeichnet.[^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## Was ist ein Projekt?
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+„Ein [Projekt](Projekt.md) ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist …“. Der temporäre Charakter von Projekten bezeichnet einen Beginn und ein Ende der Projektarbeit. Der Projektmanager definiert Ziele und steuert verschiedene Einzelaktivitäten, die ihm Rahmen des Projekts der Aufgabenerfüllung dienen. Außerdem wird für diese Zielerreichung sowohl ein zeitlicher, finanzieller als auch personeller Rahmen gesteckt. Darüber hinaus ist von zentraler Wichtigkeit, dass Projekttätigkeiten in Form von Arbeitspaketen gegenüber anderen Vorhaben sauber getrennt sind.[^2]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+![Beispielabbildung](https://github.com/EuleW/ManagingProjectsSuccessfully.github.io/blob/main/kb/Dauerbaustelle/Magisches%20Dreieck.JPG) [^3]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+*[Das magische Projektmanagement Dreieck](Magisches_Dreieck.md) visualisiert die untrennbare Verbindung zwischen der zu erreichenden Zielfunktion, dem gesteckten Zeitrahmen und dem Budget. Die Einhaltung wird durch den Projektmanager überwacht.*
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Die Überwachung der Einhaltung der verschiedenen Rahmenbedingung eines Projekts liegt im [Projektmanagement](Projektmanagement.md).
+Das Projektmanagement beschreibt die Anwendung von Wissen, Fähigkeiten, Werkzeugen und Techniken auf Projektaktivitäten, um die Projektanforderungen zu erfüllen.[^4] 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+# Warum wird ein Projekt zur Dauerbaustelle?
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Es gibt eine Vielzahl von Fehlerquellen im Projektmanagement, die dazu führen können, dass ein Projekt zu einer Dauerbaustelle wird. Häufig werden Projekte nicht innerhalb des dafür vorgesehenen Zeitrahmen abgeschlossen. Beispielsweise weil das Projekt die geplanten Kosten übersteigt oder weil nicht ausreichend personelle Ressourcen zur Verfügung stehen. 
 
+![Beispielabbildung](https://github.com/EuleW/ManagingProjectsSuccessfully.github.io/blob/main/kb/Dauerbaustelle/Ressourcen.JPG)
 
-# Aspekt 1
+[^5]*Im Rahmen der [Ressourcenplanung](Ressourcenplanung.md) werden Anforderung und Verfügbarkeiten gegenüber gestellt und in Einklang gebracht.*
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## Die Bedeutung von Ressourcenmanagement im Rahmen der Projektplanung
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Eine sinnvolle und realistische [Ressourcenplanung](Ressourcenplanung.md) ist essenziell wichtig, um Verzögerungen vorzubeugen. Es ist wichtig, während des Planungsprozesses Mitarbeiter für eine Projekt abzustellen und gleichzeitig dafür zu sorgen, dass diese von ihrem Tagesgeschäft entlastet werden. Doppelbelastungen können dazu führen, dass sich die Mitarbeitenden nicht ausreichend auf das Projektthema konzentrieren können, was Zeitverluste nach sich zieht. Auch die Skillanalyse ist hier von zentraler Bedeutung. Steht bei Projektbeginn Spezialwissen nicht zur Verfügung, kommt es unweigerlich zu Verzögerungen, da Mitarbeiter zunächst geschult oder externe Berater eingekauft werden müssen.[^2] 
+Mit Verzögerungen ist auch dann zu rechnen, wenn innerhalb der Projektteams [Verantwortlichkeiten](Verantwortlichkeiten.md) nicht klar ausgesprochen werden oder den Beteiligten nicht bewusst gemacht werden. Dies führt unwillkürlich zu häufigeren Rückfragen und einer Verlängerung der Prozesskette. Häufige Rückfragen treten auch dann auf, wenn vor Projektbeginn nicht alle notwendigen Berechtigungen eingeholt wurden. Damit das Projektteam ohne unnötige Abhängigkeiten agieren kann, sollte der Bedarf noch vor [Projektstart](Projektstart.md) erkannt und an die notwendigen Stellen weitergeleitet werden.[^6]
 
-![Beispielabbildung](Dauerbaustelle/test-file.jpg)
+## Barrieren im Rahmen des Projektmanagement
 
-*lustiges Testbild*
+Werden während des Entwicklungsprozesses Neuanforderungen an das Projektteam herangetragen, welche die Zielsetzung maßgeblich beeinflussen und in zu großem Umfang verändern, werden erarbeitete Zwischenstände möglicherweise unbrauchbar, wodurch das Projektteam einen zeitlichen Rückschlag erleidet.[^2] Anforderung sollten aber nicht nur von Extern klar definiert und kommuniziert werden, sondern auch intern. Häufig werden Projekte ohne einen klaren Auftrag gestartet. Es existiert kein Projektportfolio und es werden keine Prioritäten festgelegt. Wenn es keine definierten [Meilensteine](Meilensteine.md) gibt, ist es schwierig Zwischenergebnisse zu überprüfen und zu bewerten. Je später Fehler erkannt werden, desto aufwendiger wird es, die Quellen zu identifizieren und Gegenmaßnahmen einzuleiten. Prozesse müssen gegebenenfalls rückabgewickelt und neugestartet werden, wodurch sich der zeitliche Projektrahmen automatisch verlängert.[^6]
 
-# Aspekt 2
+Es wir deutlich, dass das Projektmanagement als umfassendes Führungskonzept zu verstehen ist und dass, Ziele, Aufgaben und Methoden des Projektmanagements mit der strategischen Entwicklung des Unternehmens verknüpft werden müssen. Daher sollte, um diesen Ursachen vorzubeugen, dem Projektmanager ein umfangreicher Methodenkoffer an die Hand gegeben werden, damit dieser ausreichend definierte Arbeitspakete schnüren und Projektaktivitäten ausreichend beeinflussen und steuern kann.[^2]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Dauerbaustelle.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+# Weiterführende Literatur:
+* Projekte zum Erfolg führen: Projektmanagement systematisch und kompakt von Heinz Schelle, Oliver Linssen
+* Projektmanagement: Ein systemorientierter Ansatz zur Planung und Steuerung von Harold Kerzner
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Dauerbaustelle_(Projektmanagement)](https://de.set18.net/wiki/Dauerbaustelle_(Projektmanagement)) 
+[^2]: [Projekte zum Erfolg führen: Projektmanagement systematisch und kompakt](https://books.google.de/books?hl=de&lr=&id=lq54DwAAQBAJ&oi=fnd&pg=PT5&dq=Gr%C3%BCnde+schlechtes+Projektmanagement&ots=Y2Yrf9i2l9&sig=D7XHUzi6ZwI2WcvesHrzRCCMoeM#v=onepage&q&f=false)
+[^3]: [Das magische Projektmanagement Dreieck](https://books.google.de/books?hl=de&lr=&id=lq54DwAAQBAJ&oi=fnd&pg=PT5&dq=Gründe+schlechtes+Projektmanagement&ots=Y2Yrf9i2l9&sig=D7XHUzi6ZwI2WcvesHrzRCCMoeM#v=onepage&q&f=false)
+[^4]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
+[^5]: [Ressourcenmanagement](https://p7x7q5i4.rocketcdn.me/wp-content/uploads/2018/07/ressourcenplanung-bersicht.png)
+[^6]: [Agiles Projektmanagement: Agilität und Scrum im klassischen Projektumfeld](https://books.google.de/books?hl=de&lr=&id=pnHbDwAAQBAJ&oi=fnd&pg=PP1&dq=klassisches+projektmanagement+schulung&ots=eGtJPSLtEK&sig=IFBLf7FJ3bzL_hx-t-XygD2BGnc&redir_esc=y#v=onepage&q&f=false)

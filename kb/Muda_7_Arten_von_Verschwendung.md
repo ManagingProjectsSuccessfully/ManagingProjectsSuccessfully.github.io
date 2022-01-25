@@ -33,7 +33,9 @@ Das [Projektmanagement](Projektmanagement.md) kann ebenfalls von Verschwendung b
 * Überbearbeitung: mehrere Genehmigungsebenen für kleine Aufgaben
 * Defekte: falsche Datensammlung
 
+
 # Umgang mit Verschwendung
+
 
 Die Beseitigung verschwenderischer Aktivitäten ist entscheidend für den Erfolg eines Unternehmens. Sie können dazu führen, dass die Rentabilität zu sinkt, die Kundenkosten sich erhöhen, die Qualität sinkt und sogar Mitarbeiter unzufriedener werden. Aus diesem Grund müssen die nicht wertschöpfenden Aktivitäten identifiziert werden und es muss versucht werden, den Prozess, in dem sie auftreten, zu verbessern oder sie letztendlich zu eliminieren. [^3]
 
@@ -72,7 +74,9 @@ Tipp:
 
 ## Muda 4 : Wartezeiten
 
+
 Wenn sich Güter oder Aufgaben nicht bewegen, kommt es zu Wartezeiten. Dies sind zum Beispiel Waren, die darauf warten, ausgeliefert zu werden, Ausrüstung, die darauf wartet, repariert zu werden, oder ein Dokument, das auf die Genehmigung von Führungskräften wartet. [^3]
+
 
 ## Muda 5 : Überproduktion
 Dieser Punkt ist vergleichbar mit der Verschwendung von Lagerbeständen. Auch hier liegt eine falsche Bewertung der Anfrage vor. Dadurch wird das Kapital länger immobilisiert und auch eine Qualitätsminderung während der Lagerungszeit ist ebenfalls denkbar. Doch die Lean Produktion kennt den richtigen Ansatz, um dem entgegenzuwirken. [^3]
@@ -83,6 +87,7 @@ Tipp:
 ## Muda 6 : Überbearbeitung
 
 Auch wenn die Arbeitsschritte unnötig kompliziert sind, entsteht in der Produktion Verschwendung. Es ist wichtig, dass, eine Optimierung der kontinuierlichen Modernisierung von Infrastrukturen durchgeführt werden sollen. Der einfachste Weg dies zu tun, sind modulare Produktionssysteme.
+
 
 Tipp: 
 * Stetige Verbesserungen statt übertriebener Sorgfalt im Hier und Jetzt [^1]
@@ -97,6 +102,7 @@ Mängel/Fehler können zu Nacharbeit, oder schlimmer noch zu Ausschuss führen. 
 * [Nachhaltige Entwicklung](Nachhaltige_Entwicklung.md)
 
 # Quellen
+
 
 [^1]: [Die 7 Verschwendungsarten und was Sie dagegen tun können](https://www.produktion.de/technik/die-7-verschwendungsarten-und-was-sie-dagegen-tun-koennen-335.html)  
 [^2]: [7 Arten der Verschwendung – einfach erklärt!](https://der-prozessmanager.de/aktuell/wissensdatenbank/arten-der-verschwendung)  

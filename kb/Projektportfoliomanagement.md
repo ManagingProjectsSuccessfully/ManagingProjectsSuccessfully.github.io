@@ -1,104 +1,89 @@
 ---
 title: Projektportfoliomanagement
 tags: agil klassisch
-author: jy59zadi
-anrechnung: k oder a
+author: TobiasVoigt92 
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Projektportfoliomanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Projektportfoliomanagement, kurz PPM, beschreibt die permanente Planung, Priorisierung, übergreifende Steuerung und Überwachung aller Projekte einer Organisation oder eines abgeschlossenen Teilbereichs einer Organisation. Dabei können Projekte innerhalb eines Portfolios untereinander konkurrieren. Dies führt zum Ziel des Projektportfoliomanagements, passende Projekte oder Programme zur Umsetzung der Unternehmensstrategie auszuwählen und durchzuführen. Die projektübergreifenden Risiken zu minimieren und Ressourcen einzuplanen liegt dabei in der Verantwortung des Projektportfoliomanagers. [^1] 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+## Definition 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+"Gegenstand des Portfoliomanagements sind Auswahl, Planung, Steuerung und Überwachung der gesamten Projektlandschaft eines Unternehmens oder einer Einheit." [^3] 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Standard DIN 69909 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Das Projektportfolio wird als "Zusammenfassung von Projekten und Programmen in einem abgegrenzten Verantwortungsbereich zum Zwecke einer permanenten übergeordneten Planung und Steuerung" beschrieben. [^5] 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+## Aufgaben des Projektportfoliomanagement [^1] [^2]
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+* Projektanträge bewerten, priorisieren, genehmigen oder ablehnen 
+* Analysieren und Identifizieren von Abhängigkeiten 
+* Gruppieren von Projekten 
+* Controlling und Koordination von laufenden Projekten 
+* Bewertung von beendeten Projekten 
+* Definition und Initiierung neuer Projekte
+* Transparente Kommunikation  
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+## Bedeutung des Projektportfoliomanagement 
 
+In Unternehmen laufen oft viele Projekte gleichzeitig, was die Gefahr birgt, schnell die Übersicht zu verlieren. Jeder Fachbereich richtet das Augenmerk auf seine Projekte, wodurch viele Bereiche oft keine Kenntnis von denen anderer Bereiche im Unternehmen haben. Ebenso wenig ist bekannt, welche Ziele mit diesen verfolgt werden und in welcher Form sie zur Unternehmensstrategie beitragen. Außerdem bergen Projekte Risiken. Zur Verwirklichung von entsprechenden Vorhaben sind Ressourcen notwendig, welche nur begrenzt vorhanden sind. Dies kann wiederum zu Konflikten zwischen den verschiedenen Fachbereichen führen. [^1] Zudem sollen durch die Bündelung von Projekten und Programmen zu einem Portfolio sogenannte Synergien geschaffen werden. Dinge die auf der Einzelprojektebene übersehen werden, können von der übergeordneten Ebene des Projektportfolios aus leichter erkannt und in einen konkreten Nutzen für das Unternehmen transformiert werden. Beispielsweise können die [Lessons Learned](Lessons_Learned.md) aus einem abgeschlossenen [Projekt](Projekt.md) für zukünftige genutzt werden oder das Wiederholen von Fehlern vermeiden. [^6] Das Projektportfolio gibt allen im Unternehmen tätigen Mitarbeitern und Mitarbeiterinnen, aber insbesondere der Geschäftsleitung eine verständliche und übersichtliche Darstellung über alle geplanten und laufenden Projekte. Ein geeignetes Instrument zur Visualisierung ist das Portfolio-Diagramm. [^1]  
 
-# Aspekt 1
+## Portfolio-Diagramm 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Im Portfolio-Diagramm werden einzelne Merkmale der Projekte miteinander in Relation gesetzt, um Gemeinsamkeiten und Unterschiede zwischen Projekten aufzuzeigen. Es liefert Erkenntnisse, ob diese freigegeben werden können, Risiken besonders abgesichert werden müssen oder weitere Ressourcen und Kompetenzen erforderlich sind. Neben inhaltlichen Merkmalen informiert das Portfolio-Diagramm auch über weitere Merkmale, wie z.B. Zeit und Kosten. Durch den erweiterten Blick auf mehrere Faktoren wird sichtbar, welche Bedeutung ein Projekt haben kann, welche Risiken bestehen und wie komplex oder teuer es ist. Die Visualisierung hilft der Geschäftsführung bei der Bewertung von einzelnen Projekten, der Prioritätenbildung und bei der Zusammensetzung der gesamten Projektlandschaft im Unternehmen. [^4] 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+### Aufbau eines Portfolio-Diagramms  
 
-![Beispielabbildung](Projektportfoliomanagement/test-file.jpg)
+![](Projektportfoliomanagement/Portfolio-Diagramm_final.png) 
 
-*lustiges Testbild*
+Abbildung 1: Beispielhafte Darstellung vom Aufbau eines Portfolio-Diagramms [^4]
 
-# Aspekt 2
+#### Einteilung der Achsen
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+X-Achse: 
+- Merkmal A 
+- Einteilung Skala
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Y-Achse: 
+- Merkmal B 
+- Einteilung Skala 
 
-So kann man eine Tabelle erstellen:
+Optional: weitere Faktoren, welche in Kreisform dargestellt werden [^4]  
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Abgrenzung 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Im Vergleich zum Projektportfoliomanagement bezieht sich das klassische [Projektmanagement](Projektmanagement.md) auf ein einzelnes Projekt mit den dazugehörigen Projektphasen. [^2] 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Im Unterschied zum Portfoliomanagement ist das [Programmmanagement](Programmmanagement.md) zeitlich begrenzt. 
 
-### Ebene-3-Überschrift
+Im Gegensatz zum Projektportfoliomanagement liegt der Fokus beim Multiprojektmanagement nicht auf der Umsetzung der Gesamtstrategie einer Organisation, sondern auf der Koordination und Kontrolle der gemeinsam gemanagten Projekte. [^1] 
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+![](Projektportfoliomanagement/was_ist_projektportfoliomanagement.svg) 
 
-# Aspekt n
+Abbildung 2: Einordnung des Projektportfoliomanagements [^1] 
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## Klassisches Projektportfoliomanagement vs. Agiles Projektportfoliomanagement
 
+Das klassische Projektportfoliomanagement vergibt Budgets pro Jahr und setzt den Rahmen, sowie die Ziele für die Umsetzung von Projekten auf operativer Ebene. 
 
-# Siehe auch
+Beim agilen Projektportfoliomanagement hingegen werden Entscheidungen auf mehreren Ebenen getroffen, welche für die operative Umsetzung der Strategie sorgen. Aus diesem Grund müssen die Ebenen an der Bestimmung der Unternehmensziele mitwirken.
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektportfoliomanagement.md)
+Man unterscheidet folgende Ebenen: 
+* Operative Ebene: Sprints 
+  - Dauer: 1-4 Wochen 
+* Taktische Ebene: Iterationen
+  - Dauer: 2-3 Monate 
+* Strategische Ebene: Zieldefinitionen 
+  - Dauer: 1-2 Jahre 
 
-# Weiterführende Literatur
+Alle Ebenen müssen Ihre Ziele kontinuierlich miteinander abstimmen. [^1] 
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+## Quellen
 
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Was ist Projektportfoliomanagement?](https://www.microtool.de/wissen-online/was-ist-projektportfoliomanagement)
+[^2]: [Projektportfoliomanagement](https://www.factro.de/blog/projektportfoliomanagement) 
+[^3]: [Definition](https://wirtschaftslexikon.gabler.de/definition/multiprojektmanagement-40074)
+[^4]: [Übersicht Projektportfolio](https://www.business-wissen.de/hb/projektportfolio-als-uebersicht-fuer-das-multiprojektmanagement) 
+[^5]: [Projektportfoliomanagement](https://de.wikipedia.org/wiki/Projektportfoliomanagement) 
+[^6]: [Projektportfoliomanagement in der Praxis](https://www.projektmagazin.de/artikel/projektportfoliomanagement-der-praxis-teil-1_1111324) 

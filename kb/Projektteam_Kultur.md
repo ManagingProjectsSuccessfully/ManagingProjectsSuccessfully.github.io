@@ -2,103 +2,92 @@
 title: Projektteam_Kultur
 tags: agil klassisch
 author: LaHe27
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Projektteam_Kultur um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Projektteam_Kultur
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Die Projektkultur umfasst alle Regeln, Werte und Normen eines Projektteams, die für dessen Verhalten, Umgang und Form der [Kommunikation](Projektkommunikation.md) gelten. Projektkultur wird häufig im Team durch die Teamkultur erlebbar gemacht. Durch geltende Werte und Normen ist für alle MitgliederInnen transparent sichtbar, welche Handlungen als gut und wünschenswert und welche als negativ angesehen werden.
+Eine Projektkultur sollte durch die [Projektleitung](Projektleiter.md) gefördert werden. Es bietet sich an, am Anfang eines [Projekts](Projekt.md), eine [Projektauftaktveranstaltung](Projekt_Kick_Off.md, vielleicht auch über 2 Tage, zu machen. Bei dieser können sich sowohl alle TeammitgliederInnen erstmal kennenlernen und ein Wir-Gefühl entwickeln, sowie erste Grundsätze und Werte für das gemeinsame Arbeiten geschaffen werden[^1].
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Im Folgenden wird auf Kultur im Allgemeinen sowie den wichtigen Aspekt der Spielregeln bei der Zusammenarbeit im Team eingegangen.
 
 
-# Aspekt 1
+# Kultur im Allgemeinen 
+Eine Kultur ergibt sich aus dem Zusammenspiel von Werten, Normen, Denkhaltungen und Paradigmen, welche z.B. die Bewohner eines Landes teilen. Dies kann man auch auf eine  niedrigere Ebene übertragen, z.B. ein Unternehmen oder ein Projektteam in einem Unternehmen. Jedes Unternehmen pflegt eine eigene Kultur. 
+Wichtig ist jedoch zu beachten, dass eine Projektkultur sich in den Grundprinzipien auch mit der Unternehmenskultur übereinstimmt[^2].
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Zudem gibt es vor allem bei einem [Projekt](Projekt.md) mit einem [internationalen Team](Internationale_Projektteams.md) ein hohes Potenzial für [Missverständnisse](Klassische_Missverstaendnisse.md) aufgrund von kulturellen Unterschieden in den verschiedenen Herkunftsländer der MitgliederInnen. Diese [Herausforderung](Herausforderungen_bei_internationalen_Projekten.md) sollte beachtet werden, da es sonst im schlimmsten Fall zu Scheitern des [Projekts](Projekt.md) führen kann[^4]. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Projektteam_Kultur/test-file.jpg)
+# Ein Modell zur Erklärung einer Organisationskultur
 
-*lustiges Testbild*
+Es gibt viele verschiedene Modelle und Erklärungsansätze zu Organisationskultur. Diese lassen sich auch sehr gut auf Projektkulturen übertragen.
 
-# Aspekt 2
+Im Folgenden wird auf die Kulturebenen von Edgar Schein eingegangen. 
+Dieser beschreibt drei Ebene in seinem Modell[^2]. 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+* Ebene 1: Sichtbare Verhaltensweise, Artefakte, Erzeugnisse, Rituale, Mythen, etc.
+* Ebene 2: Gefühle für das Richtige, kollektive Werte
+* Ebene 3: Grundannahmen, Wesen, Beziehungen zur Natur & Anderen, Zeit-& Aktivitätsorientierung[^2]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Ebene 1 liegt an der Oberfläche, sie ist auch für Außenstehende sichtbar, sei es z.B. der Projektname, ein Slogan oder bestimmte Team-Rituale (morgendliche Meetings, wöchentliche gemeinsame Freizeitaktivitäten)[^2].
 
-So kann man eine Tabelle erstellen:
+Unter dieser Ebene liegen die Gefühlsebene sowie kollektive Werte. Auch die Einstellung der MitarbeiterInnen und ihr daraus resultierendes Verhalten lässt sich aus der zweiten Ebene ableiten. Diese können z.B. im Rahmen der Spielregeln gemeinsam festgehalten werden[^2].
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Die letzte und tiefste Ebene umfasst Dinge, die als selbstverständlich angenommen werden. Diese Grundannahmen werden nicht infrage gestellt[^2].
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+# Spielregeln bei der Zusammenarbeit
 
-### Ebene-3-Überschrift
+Die Spielregeln sind wohl der wichtigste Punkt der Projektkultur.
+Damit sind allgemeine Grundsätze für die Zusammenarbeit in einem [Projekt](Projekt.md) gemeint.
+Häufig werden diese Regeln für ein spezifisches [Projekt](Projekt.md) im Rahmen einer [Projektstartveranstaltung](Projekt_Kick_Off.md) gemeinsam erarbeitet und festgehalten. Die [Projektauftaktveranstaltung](Projekt_Kick_Off.md) ist auch eine gute Möglichkeit, die anderen ProjektmitgliederInnen kennenzulernen (z.B. durch [Kennenlernspiele](Kennenlernspiele.md)). Diese Regeln sollten von allen akzeptiert und eingehalten werden.
+Auch die [Projektleitung](Projektleiter.md) trägt hier eine wichtige Rolle. Sie sollte während der Dauer des [Projekts](Projekt.md) dafür sorgen, dass sich alle an die Regeln halten und das Team gegebenenfalls an ihre eigenen entwickelten Grundsätze erinnern[^1].
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Diese Regeln können sehr individuell von Team zu Team sein. 
 
-# Aspekt n
+## Beispiele für Spielregeln könnten sein:
+* Man lässt jeden ausreden
+* Alle arbeiten aktiv im Team mit und trägt zum Projekt bei
+* Alle sind pünktlich zu Terminen 
+* Wir respektieren einander 
+* Probleme werden offen und ehrlich kommuniziert
+* Niemand handelt im Alleingang
+* … [^1]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+
+![Beispielabbildung](Projektteam_Kultur/Projektteam_2.jpeg)
+
+Abbildung Teamwork[^3]
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Projektteam_Kultur.md)
+* [Feedback Kultur](Feedback_Kultur.md)
+* [Feedback Methoden](Feedback_Methoden.md)
+* [Feedbackgespräche](Feedbackgespräche.md)
+* [Herausforderungen_bei_internationalen_Projekten](Herausforderungen_bei_internationalen_Projekten.md)
+* [Internationale_Projektteams](Internationale_Projektteams.md)
+* [Kennenlernspiele](Kennenlernspiele.md)
+* [Klassische_Missverstaendnisse](Klassische_Missverstaendnisse.md)
+* [Projekt](Projekt.md)
+* [Projekt Kick-Off](Projekt_Kick_Off.md)
+* [Projektkommunikation](Projektkommunikation.md)
+* [Projektleiter](Projektleiter.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Folge 26 - Multi-Projektmanagement und Projektkultur (Teil 1)](https://www.youtube.com/watch?v=locN1oyoxkg)
+* [Folge 26 - Multi-Projektmanagement und Projektkultur (Teil 2)](https://www.youtube.com/watch?v=BkmZQb2u5os)
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Projektkultur und Projektspielregeln](http://projektnachwuchs.de/projektkultur-und-projektspielregeln/)
+[^2]: [Organisationskultur](https://de.wikipedia.org/wiki/Organisationskultur)
+[^3]: [Abbildung Teamwork](https://projektmanagement-zentrum.ch/2021/01/24/projektteams-richtig-zusammenstellen/)
+[^4]: [Herausforderungen bei Internationalen Teams](https://www.agitano.com/herausforderungen-internationaler-team-arbeit/85931)

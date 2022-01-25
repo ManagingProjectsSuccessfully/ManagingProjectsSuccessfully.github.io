@@ -1,104 +1,73 @@
 ---
 title: Empowerment
-tags: agil klassisch
+tags: Empowerment selbstorganisierende Teams agil klassisch Änderungsmanagement Change Management Teammanagement Motivation Mitarbeiter
 author: TobiasZuerrlein
-anrechnung: k oder a
+anrechnung: k
 ---
+Bei herkömmlicher Teamarbeit ist der [Projektleiter](Projektleiter.md) derjenige, der die [Verantwortung](Verantwortlichkeiten.md) und Autorität für Entscheidungen übernimmt[^6]. Allerdings kann diese Tatsache oftmals verhindern, dass [Projektmitarbeiter](Projektmitarbeiter.md) ihre Fähigkeiten vollständig entfalten[^6]. [Empowerment](Empowerment.md) im [Projektmanagement](Projektmanagement.md) bedeutet deshalb, auf die Stärkung des gesamten Projektteams überzugehen[^6]. Dabei wird Empowerment von verschiedenen Faktoren geprägt (vgl. Abb. 1)[^2].
 
-Kurzbeschreibung zu Empowerment um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+![Faktoren von Empowerment](Empowerment/FaktorenVonEmpowerment.jpg)
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+*Abbildung 1: Faktoren von Empowerment[^2]*
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Empowerment ist dabei dem Umfangs- und [Änderungsmanagement](Aenderungsmanagement.md) zuzuordnen. Das Umfangs- und Änderungsmanagement ist eine Kernaufgabe des klassischen und agilen Projektmanagements. Während es in agilen [Projekten](Projekt.md) üblicherweise bei den konkreten Aufgaben der jeweiligen [Sprints](Sprint.md) Anwendung findet, sind beim klassischen Projektmanagement alle zentralen Aufgaben wie [Risikomanagement](Risikomanagement.md), Kostenmanagement und Zeitmanagement davon betroffen.[^6]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Definition
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Im Allgemeinen betitelt Empowerment Strategien und Maßnahmen, welche den Autonomie- und Selbstbestimmungsgrad von Menschen oder Gemeinschaften steigern. Dabei soll diesen ermöglicht werden, ihre Interessen eigenständig und selbstverantwortlich zu vertreten. Empowerment bezeichnet dabei sowohl den Prozess als auch die professionelle Unterstützung der Emanzipation.[^4]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+![Bildhafte Darstellung von Empowerment](Empowerment/BildhafteDarstellungVonEmpowerment.jpg)
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+*Abbildung 2: Bildhafte Darstellung von Empowerment[^7]*
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Im Sinne des Projektmanagements bedeutet Empowerment Macht- und Verantwortungsübertragung an die Mitarbeiter, wodurch ihnen ein höheres Maß an Autonomie, Informationszugang, Entscheidungskompetenz und Mitbestimmung eingeräumt wird. Diese Maßnahmen erlauben Mitarbeitern eigenmächtig über gewisse Budgets, Kulanzleistungen und ihre eigenen Arbeitsabläufe zu entscheiden.[^3]
 
+# Bedingungen für Empowerment
 
-# Aspekt 1
+Damit die Mitarbeiter eines Projektes nicht zögern wichtige Entscheidungen zu treffen, müssen hierarchische und bürokratische Blockaden reduziert werden[^5]. Des Weiteren erfordern produktive [selbstorganisierende Teams](Selbstorganisierende_Teams.md) eine offene Fehlerkultur, in der Vertrauen aufgebaut werden kann[^6][^5]. Somit können durch Empowerment das eigene Handeln und Denken der Projektmitarbeiter angeregt sowie Prozesse verbessert werden[^3]. Empowerment meint also, dass jeder für die Gewinne, Produkte und Leistungen eines Unternehmens verantwortlich ist und seine Stärken gezielt einsetzt[^5][^8]. Aus mehr Verantwortung folgt wiederum ein verstärktes Mitarbeiterengagement in Projekten[^5]. Empowerment ermöglicht somit Projektarbeit[^1].
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Für eine erfolgreiche Umsetzung von Empowerment im Projektmanagement muss sowohl auf der Mitarbeiter- als auch auf der Führungsebene angesetzt werden. Innerhalb von Projekten kann Autonomie und Selbstbestimmung lediglich dann vollständig integriert werden, wenn alle Beteiligten von Empowerment überzeugt und Projektleiter bereit sind, Kontrolle und Macht abzugeben.[^8]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+# Vorteile durch Empowerment
 
-![Beispielabbildung](Empowerment/test-file.jpg)
+## Mitarbeitermotivation
 
-*lustiges Testbild*
+Ein erweiterter Entscheidungsspielraum und ein erhöhter Mitbestimmungsgrad stärken erwiesenermaßen die intrinsische Mitarbeitermotivation[^2][^5]. Dies hat wiederum positive Auswirkungen auf die Qualifizierung der Mitarbeiter, da diese motivierter sind, sich persönlich weiterzubilden und sich selbst zu verwirklichen[^5].
 
-# Aspekt 2
+## Reaktionsfähigkeit
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Oftmals muss innerhalb eines Projektes schnellstmöglich gehandelt werden[^3]. Deshalb ist es häufig nicht sinnvoll, die jeweiligen Entscheidungsfragen verschiedene Hierarchiestufen passieren zu lassen[^3]. Stakeholder erwarten zügige Entscheidungen[^2]. Daher sollte derjenige Projektmitarbeiter, der mit der entsprechenden Fragestellung konfrontiert wird, die benötigte Entscheidungskompetenz besitzen[^3]. Somit kann die Reaktionsgeschwindigkeit eines Projektes deutlich erhöht werden[^3].
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Qualität von Entscheidungen
 
-So kann man eine Tabelle erstellen:
+Neben der Reaktionsfähigkeit ist es ebenfalls von Relevanz, wie sinnvoll eine getroffene Entscheidung ist. Projektmitarbeiter, die den engsten Kontakt zu den jeweiligen Stakeholdern haben, erhalten üblicherweise auch den tiefsten Einblick in die entsprechende Situation. Empowerment ermöglicht es ihnen somit gute und sinnvolle Entscheidungen zu treffen.[^2]
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Fachkräftenachwuchs
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+Die Jobpräferenzen haben sich deutlich gewandelt: Die jungen Generationen streben in Bezug auf Projektmanagement zunehmend nach größeren Herausforderungen und mehr Eigenverantwortung. Sie bevorzugen flache Hierarchien sowie einen begrenzten Anteil an Fremdbestimmung und präferieren deshalb Projekte, bei denen sie mehr mitbestimmen können. Dieses Bedürfnis nach Freiheit steht heutzutage somit im Konflikt mit dem klassischen, engmaschigen Hierarchiedenken.[^3]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Empowerment.md)
+* [Selbstorganisierende_Teams](Selbstorganisierende_Teams.md)
+* [Teammanagement](Teammanagement.md)
+* [Change Management](Change_Management.md)
+* [Änderungsmanagement](Aenderungsmanagement.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* Blanchard, K.; Carlos, J.P.; Randolph, A.: Management durch Empowerment: Das neue Führungskonzept: Mitarbeiter bringen mehr, wenn sie mehr dürfen. Rowohlt Verlag. Hamburg, 1998.
+* Wüthrich, H.A.; Osmetz, D.; Kaduk, S.: Musterbrecher. Führung neu leben. 2. Auflage. Gabler Verlag. Wiesbaden, 2006.
+* Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente - Checklisten. 2. Auflage. Carl Hanser Verlag. München, 2006.
+* Mayrhofer, W.: Strategische Personalpolitik. Rainer Hampp Verlag. München, 1999.
+* Schmitz, G.; Dietz, M.; Eberhardt, S.: Empowerment als ganzheitliches Managementkonzept zur Steuerung der individuellen Lösungskompetenz bei Lösungsanbietern: Wirkungsmechanismen und Implementierung. Universität Duisburg-Essen. Duisburg, 2009.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: Gasmann, O.: Praxiswissen Projektmanagement: Bausteine - Instrumente - Checklisten. 2. Auflage. Carl Hanser Verlag. München, 2006.
+[^2]: [Warum ist Empowerment so wichtig?](https://www.thesoundofexport.com/warum-ist-empowerment-so-wichtig/)
+[^3]: [Empowerment im agilen Kontext: Die 5 Wege zum Empowerment](https://www.berlinerteam.de/magazin/empowerment/)
+[^4]: [Empowerment](https://de.wikipedia.org/wiki/Empowerment)
+[^5]: [Empowerment: Teil der Managementkonzepte von morgen](https://media.zweikern.com/de/index/empowerment)
+[^6]: [Empowerment des Teams](https://project-base.org/projektmanagement-glossar/empowerment-des-teams/)
+[^7]: [Empowerment als neues Konzept in Unternehmen implementieren](https://media.zweikern.com/de/index/empowerment-implementieren)
+[^8]: [EMPOWERMENT: DEFINITION, KONZEPT UND METHODEN](https://www.clevis.de/ratgeber/empowerment/)

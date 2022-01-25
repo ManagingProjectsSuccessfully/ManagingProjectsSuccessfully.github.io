@@ -1,104 +1,98 @@
 ---
-title: SAFe_Program_Increment_Planning
+title: SAFe Program Increment Planning
 tags: agil klassisch
 author: starni26
-anrechnung: k oder a
+anrechnung: k
 ---
+Der folgende Artikel handelt von der Projekt-Inkrement Planung nach SAFe. Er gibt einen Überblick über SAFe an sich und dem Ablauf des Systems. Außerdem beinhaltet der Artikel, was ein Projekt-Inkrement (PI) ist und wie ein PI in SAFe abläuft. Welcher Input bzw. Aufwand für ein PI gebraucht wird, um ein bestimmtes Output bzw. Ergebnis zu erreichen wird ebenfalls in diesem Artikel aufgezeigt.
 
-Kurzbeschreibung zu SAFe_Program_Increment_Planning um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# 1.) Was ist SAFe? 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Das ["Scaled Agile Framework"](https://www.atlassian.com/de/agile/agile-at-scale/what-is-safe) oder kurz "SAFe" ist ein System, das einem Unternehmen dabei hilft, agile Praktiken implementieren zu können. Dies geschieht mithilfe von sämtlichen Organisations- und Workflow-Mustern. 
+SAFe stellt eine Art Wissenssammlung mit strukturierten Leitlinien zu Rollen, Zuständigkeiten, Planung und Verwaltung von Aufgaben dar[^1].
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+## 1.1) SAFe’s Seven Core Competencies of the Lean Enterprise
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Die folgende SAFe-Übersicht bietet eine vereinfachte Darstellung der sieben Kernkompetenzen von SAFe und ihrer 21 Dimensionen, die die geschäftliche Agilität ermöglichen[^2].
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+1. Bereitstellung von Unternehmenslösungen
+2. Agile Produktbereitstellung 
+3. Team- und technische Agilität
+4. Lean-Agile Führung
+5. Lean Portfolio Management
+6. Organisatorische Agilität
+7. Kontinuierliche Lernkultur
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+Die sieben Kompetenzen lassen sich in zwei Kategorien Unterteilen, wobei die Lean-Agile Führung zu beiden Kategorien zugeordnet werden kann: 
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+| Ausführungsbezogene Kompetenzen          | Strategieentwicklung       |
+| -----------------------------------------| -------------------------- |
+| Bereitstellung von Unternehmenslösungen  | Lean Portfolio Management  |
+| Agile Produktbereitstellung              | Organisatorische Agilität  |
+| Team- und technische Agilität            | Kontinuierliche Lernkultur |
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+![SAFe’s Seven Core Competencies of the Lean Enterprise](SAFe_Program_Increment_Planning/Big_Picture_Overview_Image_Map-3.png)
+*SAFe’s Seven Core Competencies of the Lean Enterprise*
+
+# 2.1) Programm-Inkrement-Planung 
+
+Die [Programm-Inkrement-Planung](https://www.microtool.de/wissen-online/was-ist-ein-pi-planning-in-safe/) ist ein Ereignis, das bei der Anwendung des [Scaled Agile Frameworks](https://www.atlassian.com/de/agile/agile-at-scale/what-is-safe) regelmäßig stattfindet. Beim PI Planing ist es von Bedeutung, dass alle Beteiligten eines [Agile Release Trains (ART)](https://www.scaledagileframework.com/agile-release-train/) anwesend sind, damit eine direkte Kommunikation Face-to-Face stattfinden kann, was aber auch seit Ausbruch von [COVID-19](https://de.wikipedia.org/wiki/COVID-19) in Form eines Online-Meetings stattfinden darf.
+PI-Planung ist der wichtigste Schritt des ART, der alle Teams auf eine gemeinsame Mission und Vision ausrichtet, wodurch ein soziales Konstrukt gebildet wird, das die Teilnehmer:innen an sich, aber auch das ganze Kollektiv bereichert[^3].
+
+## 2.1.1) Teilnehmer bei PI Planung
+
+1. Business Owners (wichtige Leitplanke für Budgetplanung)
+2. Produktmanagement
+3. Agile Teams
+4. System- und Lösungsarchitekten
+5. System Team und andere Stakeholder
+
+# 2.2) Programm-Inkrement (PI)
+
+Ein PI ist ein Zeitraum, typischerweise 8 bis 12 Wochen. Es handelt sich um einen festen Zeitrahmen [(Timebox)](https://de.wikipedia.org/wiki/Timeboxing), in dem die Planung, Erstellung und Validierung eines vollständigen Systeminkrements, die Demonstration des geschaffenen Werts, sowie Feedback möglich ist[^3].
 
 
-# Aspekt 1
+## 2.2.1) PI in SAFe
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+1. [Team Backlogs](https://www.scaledagileframework.com/team-backlog/): Müssen für die PI Planung vorbereitet sein
+2. PI Ziele: Zusammenfassung der geschäftlichen und technischen Ziele, welche die Team eines ARTs im kommenden PI erreichen wollen 
+3. PI Iterationen: 8-12 Wochen lang und besteht meist aus 4 Iterationen und plus einer Iteration für Innovation und Planung des nächsten PIs
+4. System Demonstration: Betrachtung der neuen Funktionen innerhalb der letzten Iterationen --> Gibt ein objektives Maß für den Fortschritt eines PIs
+5. [Inspect und Adapt (I&A)](https://scrum-in-der-praxis.de/glossary/inspect-adapt/): Demonstration des aktuellen Zustands der Lösung und Bewertung durch ART
+6. [Release on Demand](https://www.scaledagileframework.com/release-on-demand/): Einbringung neuer Funktionalitäten in die Produktion und sofortige oder inkrementelle Freigabe an Kunden --> Freigabe jederzeit möglich[^3]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+![PI Planning](SAFe_Program_Increment_Planning/PI-Planning-in-SAFe-Big-Picture.jpg) 
+*PI Planning*
 
-![Beispielabbildung](SAFe_Program_Increment_Planning/test-file.jpg)
 
-*lustiges Testbild*
+# 3.1) PI Planung Input
 
-# Aspekt 2
+Um eine erfolgreichen Ablauf garantieren zu können, ist es Pflicht organisatorsich, inhaltlich und logistisch gut vorbereitet zu sein. D.h. Teams, Rollen, Planungsumfang und -prozess müssen allen klar sein. Auch Aspekte wie, z.B. Raumbuchung, Anreise, usw. spielen dabei keine unbedeutende Rolle.[^3].
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+# 3.2) PI Planung Output
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Erfolgreiches PI Planing liefert folgende Erebnisse: 
 
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+1. Spezifische, messbare, akzeptierte, realistische, terminierte Ziele, kurz SMARTe Ziele, die von jedem Team erstellt werden
+2. Gemeinsames [Programm-Board](https://www.myagilepartner.com/blog/index.php/2020/06/23/what-is-found-on-a-program-board/), das die neuen Feature-Liefertermine, Feature-Abhängigkeiten zwischen Teams und relevante Meilensteine zeigt
+3. Stärkung der Zusammenarbeit im ART, Schärfung gemeinsamer Vision und Motivation aller Mitwerkenden[^3]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](SAFe_Program_Increment_Planning.md)
+* [SAFe](https://github.com/starni26/ManagingProjectsSuccessfully.github.io/tree/main/kb/SAFe.md)
+* [SAFe Agile Release Trains](https://github.com/starni26/ManagingProjectsSuccessfully.github.io/tree/main/kb/SAFe_Agile_Release_Trains.md)
+* [SAFe Core Values](https://github.com/starni26/ManagingProjectsSuccessfully.github.io/tree/main/kb/SAFe_Core_Values.md)
+* [SAFe Lean Agile Manifest](https://github.com/starni26/ManagingProjectsSuccessfully.github.io/tree/main/kb/SAFe_Lean_Agile_Manifest.md)
+* [Scrum of Scrums](https://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_of_scrums)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [„There is no magic in SAFe® ... except maybe for PI Planning.“](https://link.springer.com/content/pdf/10.1007%2F978-3-658-31001-1_19.pdf)
+* [Agilität in Unternehmen](https://www.springerprofessional.de/agilitaet-in-unternehmen/19223202)
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Was ist SAFe?](https://www.atlassian.com/de/agile/agile-at-scale/what-is-safe)
+[^2]: [SAFe official website](https://www.scaledagileframework.com/#)
+[^3]: [PI Planning. Projekt-Inkrement-Planung nach SAFe®](https://www.microtool.de/wissen-online/was-ist-ein-pi-planning-in-safe/)
