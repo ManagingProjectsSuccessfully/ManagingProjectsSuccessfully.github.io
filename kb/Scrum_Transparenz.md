@@ -1,104 +1,85 @@
 ---
 title: Scrum_Transparenz
-tags: agil klassisch
+tags: agil
 author: Lorybr
-anrechnung: k oder a
+anrechnung: a
 ---
-
-Kurzbeschreibung zu Scrum_Transparenz um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+# Scrum-Transparenz
+Scrum-Transparenz (aus englisch ,,Scrum Transparency“) bildet neben [Scrum-Überprüfung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Ueberpruefung.md) (engl. ,,Scrum Inspection“) und Scrum-Anpassung (engl. ,,Scrum Adaption“) eine der drei Hauptsäulen von [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) (siehe Bild 1 [^5]). Dabei handelt es sich um die offene Kommunikation und das Teilen von Wissen, sowohl innerhalb als auch außerhalb des Teams [^1].
 
 
-# Aspekt 1
+  <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Transparenz/Bild.png"/>
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+ Bild.1: *Die drei SCRUM Säulen* [^5]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Scrum_Transparenz/test-file.jpg)
+# Inhaltsverzeichnis 
 
-*lustiges Testbild*
+1. Problemstellung
+2. Definitionen und Merkmale
 
-# Aspekt 2
+    2.1 Begrifflichkeiten
+  
+    2.2 Ziele und Anforderungen
+  
+    2.3 Aktuelle Fortschrittsinformationen
+  
+3. Fazit
+4. Siehe auch
+5. Weiterführende Literatur
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
-So kann man eine Tabelle erstellen:
+# 1. Problemstellung
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+In einem Prozess kann es öfters vorkommen, dass der Prozess nicht richtig, fehlerhaft oder zu langsam abläuft. Grund hierfür sind unter anderem falsch definierte Ziele, ein Missverstehen von Informationen und Begrifflichkeiten, fehlende Kommunikation oder auch ein nicht explizit erklärter aktueller Überblick.
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Aufgrund der oben genannten Probleme ist die Transparenz in Scrum eine wichtige Säule, um diese zu verhindern. Da sich Scrum als ein Prozess-Framework zur Lösung komplexer, anpassungsfähiger Probleme versteht, ist es wichtig, dass alle Prozesse transparent ablaufen, sodass man einen Überblick über sie haben kann [^2].
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
 
-### Ebene-3-Überschrift
+# 2. Definitionen und Merkmale
+Offene Kommunikation und das Teilen von Wissen sind die Grundlagen der Scrum-Transparenz [^1] (siehe auch [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md )). Alle Informationen, die für das Ergebnis der Produktentwicklung relevant sind, müssen für alle an der Produktentwicklung beteiligten Personen transparent sein. Das kann mehrere Aspekte umfassen, wie zum Beispiel die verwendeten Begriffe, die zu erreichenden Ziele und Anforderungen oder die Fortschrittsinformationen [^2]. Im Folgenden werden diese drei Beispiele erläutert.
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+## 2.1	Begrifflichkeiten
+
+ Ein Wort kann von mehreren Personen unterschiedlich wahrgenommen werden oder auf eigene Art und Weise interpretiert werden. Wenn man nicht von Anfang an die Begriffsdefinition spezifiziert hat, kann es zu Missverständnissen kommen. Als Beispiel kann man die Bedeutung vom Verhältnis ,,Done“ betrachten. Ab wann genau ein Prozess als ,,erledigt“ zu bezeichnen ist, muss ebenso in einer ,,gemeinsamen Prozesssprache“ festgelegt werden. Das heißt, die Anforderungen müssen eindeutig sein, sodass jeder versteht, was darunter gemeint ist [^1].
+
+## 2.2	Ziele und Anforderungen
+
+,,We all know what is going on” [^3]. Damit die Arbeit im Team ohne Fehlvorstellungen verläuft, ist es wichtig, dass jeder Teilnehmer, Mitwirkende, der CEO und der Kunde genau wissen was ihre Ziele sind, was sie erreichen wollen und was die anzustrebenden Anforderungen sind. Jeder strebt nach dem gemeinsamen Ziel und alle arbeiten kollektiv und transparent zusammen, wobei niemand versteckte Ziele hinter dem Prozess hat.
+
+## 2.3	Aktuelle Fortschrittsinformationen
+
+Damit die konsistente Arbeit gesichert wird, muss jeder Mitarbeiter, der CEO und vor allem der Kunde immer wissen, was der neueste Stand des Prozesses ist, was die Neuigkeiten sind und welche Verbesserungspotenziale noch existieren. Alle aus dem Team vertrauen einander und haben den Mut, sich gegenseitig über gute und schlechte Nachrichten auf dem Laufenden zu halten. Ein geeignetes Beispiel ist das ,,*Daily Scrum*", welches ein 15-minütiges Meeting für das Scrum-Team ist, in dem sie gemeinsam den aktuellen Stand besprechen, planen oder Informationen teilen können[^4].
+
+# 3. Fazit
+
+Zusammenfassend lässt sich sagen, dass die Scrum-Transparenz eine wichtige Voraussetzung für eine konsistente, widerspruchsfreie und transparente Arbeit ist und diese dementsprechend den Prozess erleichtert, eine Übersicht gewährleistet und die eindeutige Kommunikation zwischen den Teilnehmern sichert.
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Scrum_Transparenz.md)
+* [Scrum_Ueberpruefung.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Ueberpruefung.md)
+* [Scrum_Anpassung.md](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Anpassung.md) (Dieser Beitrag bedarf noch einer Bearbeitung)
+* [SCRUM](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md)
+* [Kommunikation Projektbeteiligte](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Kommunikation_Projektbeteiligte.md#kommunikationsarten)
+* [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md)
+
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+*  [Der Scrum Guide - Transparenz der Artefakte](https://www.der-scrum-master.com/der-scrum-leitfaden/transparenz-der-artefakte)
+* ["Agile" macht ja nur Probleme, oder… — Transparenz muss gewollt sein](http://boeffi.net/scrum/agile-macht-ja-nur-probleme-oder-transparenz-muss-gewollt-sein/)
+* [Umgang mit Transparenz | Thorsten Schiffer | Agilität ohne Gedöns (thorsten-schiffer.com)](https://thorsten-schiffer.com/umgang-mit-transparenz-was-man-beachten-sollte-wie-man-sie-einfuehrt-und-was-sie-zunichte-macht/)
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: Boss, Domenik (2020):,,Die 3 Säulen von Scrum - Transparenz, Überprüfung und Anpassung»: https://www.agile-heroes.de/magazine/scrum-saeulen/
+[^2]:  Schönfeld, Patrik (2020) :,,Die drei Säulen von Scrum » : https://chaosverbesserer.de/blog/2019/09/23/die-drei-saeulen-von-scrum/
+[^3]: Doshi, Hiren: The Three Pillars of Empiricism (Scrum) | Scrum.org : https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum
+[^4]: Reinold, Daniel: Daily Scrum - kurz erklärt [Varianten & Tipps]: https://www.projektmagazin.de/methoden/daily-scrum
+[^5]: Bild 1: Scrum-Säulen: https://verovis.com/agiles-projektmanagement-mit-scrum/
 

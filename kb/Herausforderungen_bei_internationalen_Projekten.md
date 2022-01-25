@@ -1,104 +1,49 @@
 ---
 title: Herausforderungen_bei_internationalen_Projekten
-tags: agil klassisch
+tags: klassisch international 
 author: tcansel
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Herausforderungen_bei_internationalen_Projekten um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+# Einführung
+Mit zunehmender Globalisierung steigt das Interesse im internationalen Umfeld zu arbeiten. Während bereits Projekte im eigenen Land mit Herausforderungen verbunden sind, kommt es in internationalen Projekten zu zusätzlichen Barrieren. [^1] Hierbei handelt es sich um Machtverhältnisse, Lieferengpässe, rechtliche und politische Faktoren sowie Sprach- und Kulturunterschiede. [^2] [^3]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Herausforderungen
+## Machtverhältnisse
+Damit internationale Projekte unkompliziert verlaufen, müssen [Projektleiter](Projektleiter.md) zunächst einmal klären, wie das [Projekt](Projekt.md) auszusehen hat. Dazu sollten vorab einige Fragen geklärt werden, wie zum Beispiel: 
+*   Wer ist der [Projektleiter](Projektleiter.md)?
+*   Wie findet die Kommunikation statt? Virtuell oder persönlich? In welcher Sprache?
+*   Wie ist das Team aufgebaut? etc. [^3] 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Innerhalb eines Teams können aufgrund von Disparität bei der Arbeitsverteilung Konflikte entstehen, denn überbelastete [Projektmitarbeiter](Projektmitarbeiter.md) können sich aufgrund dessen ungerecht behandelt fühlen. Um solch eine Unausgewogenheit zu vermeiden, sollte die Führungskraft immer das Gespräch zum Team finden, um zeitnah handeln zu können. [^4] Allgemein sind Konflikte in einem internationalen Team unbedenklich. Die Ursache hierfür ist, dass verschiedene Kulturen aufeinandertreffen, welche verschiedene Wahrnehmungen von Werten, Respekt, etc. haben. Um von Anfang an derartige Komplikationen zu vermeiden, ist das [Konfliktmanagement](Konfliktmanagement.md) und somit der Konfliktmanager, ein sehr wichtiger Teil im internationalen Umfeld. [^1] 
+## Lieferengpässe
+Der Einkäufer spielt eine zentrale Rolle im internationalen Umfeld. Seine Aufgabe ist es vor Beginn des Projekts alle notwenigen Ressourcen zur Verfügung zu stellen. Dabei kann es jedoch zu Hemmungen kommen, da bestimmte Ressourcen vor Ort nicht zu finden sind und diese dementsprechend dorthin geliefert werden müssen. Dieses ist wiederum mit hohen Kosten verbunden. Demzufolge muss der Einkäufer Entscheidungen darüber fällen, welche Produkte zusätzlich zu erwerben sind. [^3] Außerdem kann der Zoll das Beschaffen bestimmter Ressourcen erschweren. Dadurch wird der ganze Prozess noch ein ganzes Stück komplexer. Um solche Fälle zu vermeiden, braucht man erfahrene Fachkräfte, die solche Komplikationen überwinden können. [^4] 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+## Politische und rechtliche Faktoren
+Wichtig ist es vor allem die politischen und rechtlichen Richtlinien eines Landes, in dem man ein [Projekt](Projekt.md) verwirklichen möchte, zu kennen. [^5] Oft hat die Politik eines Landes einen Einfluss auf das Resultat eines Projektes. Damit das [Projekt](Projekt.md) nicht versagt, sollte das Projektteam mit der Regierung agieren, um nicht gegen Regeln zu verstoßen. [^4] 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+## Sprach- und Kulturunterschied
+Die größte Herausforderung in internationalen Projekten sind die Sprach- und Kulturunterschiede. Damit die Kommunikation mühelos verlaufen kann, müssen vorab die Kommunikationssprache und ein Kommunikationsstandard festgelegt werden. Durch die Sprache sollte sich keine Nation vernachlässigt fühlen. [^3] Von großem Vorteil ist es, wenn sich Projektpartner vor Projektbeginn persönlich treffen, denn somit erleichtern sie das Zusammenarbeiten. Im Laufe des Projektes wird es erforderlich sein, sich mit dem Team auszutauschen, um „up-to-date“ zu sein. Hierfür ist es hilfreich im Vorfeld bestimmte Kommunikationskanäle für die Teambesprechungen festzusetzen. [^6] Wichtig ist vor allem eine "Projektkultur" zu schaffen, denn für ein erfolgreiches [Projekt](Projekt.md) sollte man die Kultur und Werte der Projektpartner kennen und respektieren. [^4]
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+![5-Figure3-1](https://user-images.githubusercontent.com/92802489/142760861-b2885881-b478-4674-ab0b-673f57f8350a.png)
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
+*Kulturelle Merkmale, die die Arbeit in einem multikulturellen Team am meisten beeinflussen* [^7]
 
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Wie in der obigen Abbildung zu erkennen ist, ist das kulturelle Wissen sowie die kulturellen Werte und Vorgehensweise in einem internationalen Team von großer Bedeutung. 
 
-
-# Aspekt 1
-
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
-
-![Beispielabbildung](Herausforderungen_bei_internationalen_Projekten/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+# Fazit 
+Das Interesse an einem internationalen Projekt zu arbeiten, wird auch in den kommenden Jahren steigen. Wichtig ist es zum einen vorab den Ablauf des Projektes zu planen und zum anderen erfahrene Fachleute einzustellen, um derartige Herausforderungen mit Erfolg zu meistern.
 
 # Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Herausforderungen_bei_internationalen_Projekten.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Internationale_Projektmanagement_Standards](Internationale_Projektmanagement_Standards.md)
+* [Internationale_Projektteams](Internationale_Projektteams.md)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [IKUD Seminare. Internationales Projektmanagement & Kulturelle Diversität](https://www.ikud-seminare.de/veroeffentlichungen/internationales-projektmanagement.html)   
+[^2]: [Walzer, Wolfgang (2006). Internationales Projektmanagement im interkulturellen Kontext](https://repositum.tuwien.at/bitstream/20.500.12708/10199/2/Walzer%20Wolfgang%20-%202006%20-%20Internationales%20Projektmanagement%20im%20interkulturellen...pdf)
+[^3]: [Hillberg, Kerstin (2017). Projektmanagement im Einkauf (2.Auflage)](https://link.springer.com/content/pdf/10.1007/978-3-658-31310-4.pdf) (S.120, 222-223)
+[^4]: [Dinsmore, Paul C., Benitez Codas, Manuel M., (2006). Cultural Challenges in Managing International Projects](https://web.s.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=5&sid=2fd081ab-1a32-45e7-93a5-7a319920702f%40redis) (S.406, 401, 400, 405)
+[^5]: [TÜV Süd AG (2009). Qualitätssicherung - Internationale Investitionsprojekte erfolgreich meistern](https://www.youtube.com/watch?v=AMHgmY3x-nU) 
+[^6]: [SEO-Projektmanagement (2017). Internationales Projektmanagement - Kriterien und Herausforderungen](https://www.seo-suedwest.de/seo-wissen/seo-projektmanagement/43-allgemein/2809-internationales-projektmanagement.html) 
+[^7]: [Ruta Ciutiene and Evelina Meiliene (2014). Influence of Cultural Differences on Implementation of International Projects: Sample of International Educational Projects](http://www.joams.com/uploadfile/2014/0217/20140217025445416.pdf)

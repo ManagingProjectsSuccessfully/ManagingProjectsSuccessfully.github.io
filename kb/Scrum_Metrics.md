@@ -1,104 +1,138 @@
 ---
 title: Scrum_Metrics
-tags: agil klassisch
+tags: agil scrum scrum_sprint effizienz performance produktivitaet projektteam
 author: efdil
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Scrum_Metrics um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Unter Scrum Metrics sind Messwerte zu verstehen, die von Scrum Teams ermittelt, ausgewertet und benutzt werden um ihre Effizienz und Effektivität zu beobachten und zu steigern. Durch richtige Ermittlung, Auswertung und Einsetzung dieser Messwerte, können Scrum Metrics Erkenntnisse vermitteln, die das Scrum Team während des Scrum durchlaufs unterstützen und verbessern oder Beziehungen zwischen [Scrum Team](Rollen_Scrum.md) und Kunden verbessern.[^2]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Was sind Scrum Metrics?[^2][^7]
+Scrum Teams benutzen Scrum Metrics um Entscheidungen auf deren basis zu treffen und somit, effizienter in Planung und Umsetzung zu werden. Diese können beispielsweise dazu angewendet werden um einen Überblick über den gegenwertigen Stand des Projekts zu verschaffen und dadurch Zielsetzungen und Verbesserungen durchzuführen. Dazu gibt es keine allgemeinübergreifenden Maßstäbe, die diese gegenwertigen Scrum Metrics ersetzen könnten. Denn jede Situation und Projekt hat seinen eigenen Verlauf, jedes Team ist anders groß und es kommen unterschiedliche [Methoden](Methoden.md) sowie Technologien zum Einsatz. Daher sind die jeweiligen Messwerte nicht ideal mit anderen Projekten als auch Teams vergleichbar oder kombinierbar.
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Entscheidung zur Ermittlung und Festhaltung dieser Messwerte sollte dem Team überlasen werden. Weil es nicht daran liegt ob der Projektmanager oder andere beteiligte individuen das für das ganze Team bestimmen, die Umsetzung erfolgt nur wenn das ganze Team dafür zustimmt und seinen Beitrag leistet.
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## Mögliche Vorteile durch Scrum Metrics im Projektverlauf[^2][^7]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Scrum Metrics können Teams helfen, Grenzen und Möglichkeiten leichter zu erkennen und unter Betracht deren das Projekt sowie Aufgaben Zielorientiert zu gestalten. Dies gilt nicht nur für neue, sondern auch für vorhandene Teams.
 
-![Beispielabbildung](Scrum_Metrics/test-file.jpg)
+Die Auswertung von Messwerten ermöglicht den Durchblick, durch unterschiedliche Aspekte der Effektivität eines Teams:[^2][^8]
 
-*lustiges Testbild*
+- Geschwindigkeit
+- Kapazität
+- Produktivität
+- Performance
+- Zufriedenheit
+- Laune
 
-# Aspekt 2
+Diese haben dann Einfluss auf:[^2]
+- Voraussichtliches Abschlussdatum
+- Qualität des Produkts
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## Unterschied zu Key Performance Indicators (KPI's)
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Schlüssel Performance Indikatoren (KPI), dienen zur Evaluation des Unternehmenerfolgs bezogen auf Unternehmensziele.[^1] Scrum Metrics können nicht alleinstehend, nicht wie KPI's, über den Kundennutzen ([Customer Value](Scrum_Values.md)) oder ob das Team das richtige Produkt geliefert hat aussagen. Scrum Metrics werden zur Team-internen Effektivitätsanalyse angewendet.[^2]
 
-So kann man eine Tabelle erstellen:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# Einige Scrum Metrics im Scrum Sprint
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Im laufe eines Scrum Sprint sind viele wiederkehrende Erreignisse; [Sprint Planung](Sprint_Planning.md), [Daily Scrum](Daily_Scrum.md), [Sprint Review](Sprint_Review.md), [Sprint Retrospective](Retrospective.md). Diese ermöglichen den Teammitgliedern, Austausch, Inspektion und Adaptation mit der Art wie sie am Projekt arbeiten.[^2]
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+![Image](/kb/Scrum_Metrics/Scrum_Sprint_Scrum_Metrics_01.jpg)[^3]
 
-### Ebene-3-Überschrift
+## Sprint Planung (Sprint Planning)[^2]
+Während der [Sprint Planung](Sprint_Planning.md) werden Große Projektziele auf detailierte kleinere Aufgaben runtergebrochen. Dadurch werden Sprint Ziele, nach priorität festgelegt. Es ist daher sinvoll Scrum Metrics als Grundlage der Zielsetzungen einzusetzen.
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
+Wie viel [Aufgabenlast](Aufgabenteilung.md) ein Team tragen kann hängt davon ab, wie effizient das Team ihre Zeit verwenden kann oder welche Kapazitat das Team besitzt.
 
-# Aspekt n
+### Team Geschwindigkeit (Team Velocity)[^2][^4][^5]
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+Die [Geschwindigkeit](Velocity.md) eines Teams, kann anhand eines Balkendiagramms interpretiert werden. Dabei werden je nach Sprint, der vorgenommene und wirklich abgeschlossene Arbeitsaufwand anschaulich gegenüber gestellt. Der Arbeitsaufwand wird dabei an Story Points, Stunden oder Anzahl an Aufgaben angegeben.
+> Durchschnittliche realisierte Anzahl an Story Points pro Sprint = Team Geschwindigkeit 
 
+ ![Image](/kb/Scrum_Metrics/Team_Velocity_Scrum_Metrics_02.jpg)[^4]
+
+>    - Story Points auf Y Achse
+>    - Sprints auf X Achse
+>    - Arbeitsaufwand auf Balken
+
+### Team Kapazität[^2][^6]
+Verfügbarkeit der Teammitglieder ist genauso effektiv wie die Geschwindigkeit. Beurlaubung und Krankheit sind zwei Beispiele wieso ein Teammitglied fehlen könnte. 
+> Sprint Dauer x Arbeitsstunden pro Mitglied x Teammitglieder = Maximale Teamkapazität [^6]
+
+Um die wirkliche Team Kapazität zu ermitteln sind folgende Fragen zu stellen:
+- Sind während des Sprints Feiertage?
+- Haben Mitglieder Urlaubstage?
+> Feiertaganzahl x Arbeitsstunden pro Mitglied x Teammitglieder = Feiertagsausgfall [^6]
+
+> Fehltage x Arbeitsstunden pro Mitglied x Teammitglieder = Allgemeinausfall [^6]
+
+Nach vorhersehbarem Stand, ist die Teamkapazität:[^6]
+
+> Maximale Teamkapazität - (Feiertagsausfall + Allgemeinausfall) = Teamkapazität 
+
+Um spontane Ausfälle von Teammitgliedern mit einzubeziehen ist es ratsam die Arbeitslast, in der Sprint Planung, um 10% niedriger zu halten.[2]
+
+### Focus Faktor[^5]
+Der Focus Faktor, definiert die Zeit, wo das Team konzentriert auf den Aufgaben arbeiten. Diese ist wie folgt zu berechnen:
+
+> Sprint Geschwindigkeit / Team Kapazität = Focus Faktor
+
+
+### Sprint Burndown[^1][^2]
+Ein Sprint Burndown Diagramm, veranschaulicht den Sprint Fortschritt in bezug auf erledigte Aufgaben und wird in Stunden oder Story Points gemessen. Dadurch kann der Arbeitsaufwand angepasst werden.
+
+![Image](/kb/Scrum_Metrics/Burndown_Chart_Scrum_Metrics_03.png)
+
+>    - Restaufwand auf Y Achse
+>    - Sprintzeit auf X Achse
+>    - Leistung in Linien
+
+
+# Fazit
+Scrum Metrics werden im laufe eines Scrum Projekts zur Effizienzsteigerung des Teams eingesetzt. Scrum Metrics werden durch die analyse der im Scrum Sprint erbrachten Leistungen festgelegt. Dadurch kann beispielsweise die Qualitãt des Produkts gesteigert oder das Abschlussdatum vorgezogen werden. 
+
+---
+---
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Scrum_Metrics.md)
+[Scrum](SCRUM.md)
+
+[Rollen_Scrum](Rollen_Scrum.md)
+
+[Scrum_Values](Scrum_Values.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+[Scrum Metrics for Hyperproductive Teams: How They Fly like Fighter Aircraft](https://ieeexplore.ieee.org/abstract/document/6480431)
+
+[Performance metrics in scrum software engineering companies](https://www.inderscienceonline.com/doi/abs/10.1504/IJASM.2021.118061)
+
+[Burndown Chart - visual paradigm ](https://www.visual-paradigm.com/scrum/scrum-burndown-chart/)
+
+[Burndown Chart - microtool](https://www.microtool.de/wissen-online/was-ist-ein-burn-down-chart/)
+
+[Team Kapazität](https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams)
+
+[Global Software Development: Key Performance Measures of Team in a SCRUM Based Agile Environment](https://link.springer.com/chapter/10.1007/978-3-319-95171-3_53)
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: [soldevelo.com](https://www.soldevelo.com/blog/7-effective-metrics-for-successful-scrum-projects-delivery/)
 
+[^2]: [www.atlassian.com](https://www.atlassian.com/agile/scrum/scrum-metrics)
+
+[^3]: [producttribe.com](https://producttribe.com/project-management/agile-sdlc-guide)
+
+[^4]:  [t2informatik](https://t2informatik.de/wissen-kompakt/velocity-chart)
+
+[^5]: [www.scrum-institute.org](https://www.scrum-institute.org/blog/How_To_Plan_Capacity_Of_Your_Scrum_Teams)
+
+[^6]: [EvolvingAgilist](https://youtu.be/CZDNWTuR3i8)
+
+[^7]: [plutora](https://www.plutora.com/blog/agile-metrics)
+
+[^8]: [appliedframeworks](https://appliedframeworks.com/agile-metrics-4-balanced-kpis-to-measure-success/)

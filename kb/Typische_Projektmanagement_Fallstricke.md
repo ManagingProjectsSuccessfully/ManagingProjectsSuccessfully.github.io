@@ -1,104 +1,82 @@
 ---
 title: Typische_Projektmanagement_Fallstricke
-tags: agil klassisch
+tags: klassisch
 author: Lorybr
-anrechnung: k oder a
+anrechnung: k
 ---
+# Typische Projektmanagement Fallstricke
 
-Kurzbeschreibung zu Typische_Projektmanagement_Fallstricke um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen Elementen wie: Zeit, Ressourcen und Menschen (siehe: [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ). Um ein erfolgreiches Projekt zu managen, müssen diese Elemente effektiv integriert und verwaltet werden. [^1]
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Aufgrund der Komplexität des Projektmanagements können sogenannte ,,Projektmanagement-Stolpersteine“ während des Prozesses auftreten. Auch wenn zu Beginn eines Projekts Optimismus herrscht, dass diesmal alles glatt laufen wird, kann man währenddessen überrascht werden, dass alles doch nicht nach Plan läuft.[^2]
+Im Folgenden werden die typischen Fallstricke des Projektmanagement dargestellt. Des Weiteren wird aufgezeigt wie man diese vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu erhöhen.
 
 
-# Aspekt 1
+# 1. Das Fehlen eines konkreten Projektplans und somit eines Ziels
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Ohne klar definierte Ziele wird die Führung eines erfolgreichen Projektmanagement-Teams fast unmöglich, was automatisch zum Scheitern führen kann[^1]. Das Team weiß nicht, woran man sich orientieren muss und was die anstehenden Pläne sind. Es ist schwer erkennbar, welche Person wofür zuständig ist und wie hoch das erforderliche und verfügbare Budget ist. Auch die Zeitanforderungen sind unklar.
+## Lösung: 
+Ein Projektplan ist ein formelles Dokument, in welchem alle Entscheidungen und Schritte eines Projektziels, sowie andere relevanten Informationen ausführlich beschrieben und eindeutig definiert sind [^2]. 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Typische_Projektmanagement_Fallstricke/test-file.jpg)
 
-*lustiges Testbild*
+# 2. Mangelhafte Kommunikation 
 
-# Aspekt 2
+Die schlechte Kommunikation ist ein anderer Faktor, der den Erfolg eines Projekts negativ beeinflussen kann. Ein Mangel an effektiver Kommunikation kann zu Verwirrung sowie Verzögerungen führen, wodurch auch die Qualität der Arbeit und der Aufgaben des Projekts beeinträchtigt werden können. [^1] (siehe: [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md))
+## Lösung: 
+* Eine effektive Kommunikation steht im Mittelpunkt der Teamzusammenarbeit [^1]. Tägliche oder wöchentliche Besprechungen, in denen jeder Mitarbeiter Mitspracherecht hat und Feedbacks geben kann, können dabei helfen, sich gegenseitig besser zu verstehen, um das Ziel effektiver zu erreichen[^3]. 
+*	Eine gute technische Infrastruktur mit Projektmanagement-Tools kann z.B. den Teammitgliedern ermöglichen, ihren Fortschritt in Echtzeit zu aktualisieren und somit mit anderen zu kommunizieren. [^1]
+*	Ebenso ist eine ausführliche Kommunikation mit dem Kunden/ Stakeholder nicht zu vernachlässigen, denn nur so kann man sicherstellen, dass man auf dem richtigen Weg ist, die Wünsche der Kunden zutreffend zu erfüllen. [^4]
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+# 3. Unrealistische Ziele, Fristen und Budget
 
-So kann man eine Tabelle erstellen:
+Einen großen Fallstrick stellen die unrealistischen Ziele dar. Dazu gehören zum Beispiel zu früh gesetzten Deadlines, die kaum erreichbar sind, oder falsch eingeschätzte Budgets. Solche Fehler können nicht nur schädlich für den Erfolg des Unternehmens sein, sondern auch für die Moral und das Vertrauen der Team-Mitglieder[^1].
+## Lösung:
+Man muss realistisch die Situation betrachten und alles in Abhängigkeit der Ressourcen, der Arbeitskräfte, dem Budget und der Fristen entscheiden[^1]. Man sollte sich fragen, was von dem Team zu erwarten ist und ob die Zeitpläne der Planungsphase mit den vorgeschlagenen Fristen und dem vorhandenen Budget übereinstimmen (siehe [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)).
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+  <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Typische_Projektmanagement_Fallstricke/Dreieck3.jpg"/>
 
-### Ebene-3-Überschrift
+ Bild.1: *Das ,,magische Dreieck" des Projektmanagements*[^5]
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
-# Aspekt n
 
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+# 4. Fehlende Aufteilung von Projekten in kleinere Aufgaben
+
+Projekte sind in der Regel umfangreich und langfristig geplant. Ohne die Aufteilung der Aufgaben kann es schnell passieren, dass man den roten Faden verliert, wodurch Verunsicherungen entstehen.
+## Lösung: 
+Um diese Fallstricke im Projektmanagement zu vermeiden, muss man die Arbeit in Sektionen mit klaren kurzfristigen Fristen, eindeutigen Zielen und Werkzeugen aufteilen. Schließlich klingt eine Aufgabe, die nur eine Woche andauert, besser als ein dreimonatiges Projekt.[^2]
+
+
+
+
+# Fazit
+Zusammenfassend lässt sich sagen, dass mit einem klar definierten Ziel, einer reichen und transparenten Kommunikation, ausreichender Zeit- und Budgetressourcen und einer vernünftigen Arbeitsaufteilung, die typischen Fallstricke leichter vorherzusehen und zu vermeiden sind, um so den Erfolg eines Projekts zu gewährleisten.
+
 
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Typische_Projektmanagement_Fallstricke.md)
+* [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md)
+* [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)
+* [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
+* [FALLSTRICKE DER PROJEKTARBEIT - PDF Free Download](https://docplayer.org/11004614-Fallstricke-der-projektarbeit.html)
+* [18 Project Management Pitfalls and Proven Ways to Avoid Them](https://www.managersresourcehandbook.com/avoid-project-pitfalls/)
+* [Avoiding Project Management Pitfalls - dummies](https://www.dummies.com/article/business-careers-money/business/project-management/avoid-common-project-management-pitfalls-236601)
+* [Das Projektdreieck (microsoft.com)](https://support.microsoft.com/de-de/office/das-projektdreieck-8c892e06-d761-4d40-8e1f-17b33fdcf810)
+
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: Task(2020):The Most Common Project Management Pitfalls to Avoid : https://www.ntaskmanager.com/blog/project-management-pitfalls/
+[^2]: Stepanov, Andrew (2017):10 Pitfalls in Project Management to Avoid (ganttpro.com) : https://blog.ganttpro.com/en/top-project-management-pitfalls-to-avoid/
+[^3]: Reinold, Daniel: Daily Scrum - kurz erklärt [Varianten & Tipps]: https://www.projektmagazin.de/methoden/daily-scrum
+[^4]: T2informatik: Was ist eine Stakeholderkommunikation? - Wissen kompakt - t2informatik: https://t2informatik.de/wissen-kompakt/stakeholderkommunikation/
+[^5]: Bild 1: https://asana.com/de/resources/project-management-triangle
 

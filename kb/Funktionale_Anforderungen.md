@@ -11,8 +11,6 @@ Sie werden zu Beginn eines Projektes durch Befragung der Stakeholder ermittelt u
 Funktionale Anforderungen gehören zum Anforderungsmanagement, welches für klassisches wie agiles Projektmanagement relevant ist[^1].
 
 
-
-
 # Unterschiede zwischen funktionalen und nicht-funktionalen Anforderungen 
 
 Jedes Projekt hat funktionale und nicht funktionale Anforderungen. Die unten aufgeführte Tabele zeigt deren Unterschiede auf[^2]. 
@@ -64,6 +62,7 @@ sollten sie ermittelt und den funktionalen Anforderungen hinzugefügt werden,
 da sie zu einer positiven Überraschung von Stakeholdern führen und somit die Wahrscheinlichkeit einer erneuten Zusammenarbeit erhöhen kann[^4]. 
 
 
+
 # Änderung von funktionalen Anforderungen
 
 Es ist kaum möglich, alle Anforderungen für ein Projekt zu erheben. Es kann immer dazu kommen,
@@ -74,10 +73,12 @@ da sie meist mit einer Kostenerhöhung des Projekts verbunden sind[^3].
 
 # Siehe auch
 
+
 * [Anforderungsmanagement](Anforderungsmanagement.md)
 * [Nicht_Funktionale_Anforderungen](Nicht_Funktionale_Anforderungen.md)
 * [Stakeholderanalyse](Stakeholderanalyse.md)
 * [Pflichtenheft](Pflichtenheft.md)
+
 
 # Weiterführende Literatur
 
@@ -89,4 +90,5 @@ da sie meist mit einer Kostenerhöhung des Projekts verbunden sind[^3].
 [^2]: [Unterschiede Formale und nicht-formale Anforderungen](http://www.anforderungsmanagement.ch/in_depth_vertiefung/funktionale_nicht_funktionale_anforderungen/index.html)
 [^3]: [Systematisches Requirement Engeneering(siehe Weiterführende Literatur)](https://books.google.de/books?hl=de&lr=&id=n7X2DwAAQBAJ&oi=fnd&pg=PR9&dq=requirements+engineering+projektmanagement&ots=49j6k2Us3D&sig=3_plVjfNay_Va4xRdblTYaB2abM#v=onepage&q=requirements%20engineering%20projektmanagement&f=false)
 [^4]: [Erhebung Funktionaler Anforderungen](http://www.pq4agile.de/PQ4WP/wp-content/uploads/2015/02/PQ4Agile-AP-2.2-Funktionale-Anforderungen-erheben-V.2.pdf)
+
 
