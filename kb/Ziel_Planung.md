@@ -1,64 +1,58 @@
 ---
 title: Ziel_Planung
 tags: agil klassisch
-author: emre12345678
+author: emre12345678 
 anrechnung: k 
 ---
 
-# 1.	Allgemeines zur Projektplanung im klassischen Projektmanagement:
+# 1.	Allgemeines zur Projektplanung im klassischen Projektmanagement
 
- Grundlage für die Planung ist die Vorgabe der Projektleitung und die Bildung eines Teams, damit die Personen, die später am Projekt arbeiten, bereits in die Planung einbezogen werden. Ausgehend von der Grobplanung geht man später immer mehr ins Detail. Hierbei wird dann ein detaillierter Plan erstellt, welches in Teilprojekte aufgeteilt wird. Der Projektleiter und das Team stimmen dann Kosten und Ressourcen auf Basis der detaillierten Planung genauer ab. Die Projektleiter und das Team müssen auch abklären, ob die getroffenen Annahmen realistisch sind. 
- Grundlage für die Planung ist die Vorgabe der Projektleitung und die Bildung eines Teams, damit die Personen, die später am Projekt arbeiten, bereits in die Planung einbezogen werden. Ausgehend von der Grobplanung geht man später immer mehr ins Detail. Hierbei wird dann ein detaillierter Plan erstellt, welches in Teilprojekte aufgeteilt wird. Der Projektleiter und das Team stimmen dann Kosten und Ressourcen auf Basis der detaillierten Planung genauer ab. Die Projektleiter und das Team müssen auch abklären, ob die getroffenen Annahmen realistisch sind. 
- Es wird außerdem ein Projektmanagementplan erstellt, um die Übersichtlichkeit zu bewahren. Der Projektmanagementplan legt zusätzlich genau fest, welche Verantwortungsbereiche von welchen Mitarbeitern abgedeckt werden.[^1]
+Gerade im klassischen [Projektmanagement](Projektmanagement.md) spielt insbesondere die Planungsphase eine exorbitante Rolle. Diese erfolgt nach Projektbeginn und dient der Vorbereitung von Durchführung bzw. Umsetzung des Projekts. Die Planung basiert auf der Vorgabe der Projektleitung und der Teambildung, mit der Konsequenz, dass sukzessive Projektteilnehmer ohne große Umstände einbezogen werden können. Ausgehend von der Grobplanung wird im Verlauf der Projektarbeit steigernd auf Details Bezug genommen. Hierbei wird dann ein detaillierter Plan errichtet, welcher in Teilprojekte aufgeteilt wird. Der Projektleiter und das Team stimmen dann Kosten und Ressourcen auf Basis der detaillierten Planung genauer ab. Die Projektleiter und das Team müssen ebenso abklären, ob die getroffenen Annahmen realistisch umzusetzen sind. Darüber hinaus wird ein Projektmanagementplan erstellt, zwecks Wahrung der Übersichtlichkeit. Der Projektmanagementplan legt zusätzlich fest, welche Verantwortungsbereiche durch welche [Projektmitarbeiter](Projektmitarbeiter.md) abgedeckt werden. [^1]
 
+# 2.	Schritte der Projektplanung
 
-# 2.	Schritte die in der Projektplanung durchlaufen werden:
-
-Wie bereits oben erwähnt, gibt es die Grobplanung und die Detailplanung. Die ersten drei Schritte bilden die Grobplanung. Dagegen ergibt sich die Detailplanung aus der Prozess-, Termin- und Kostenplanung.
+Die ersten drei Schritte der Projektplanung werden durch die Grobplanung gebildet. Dagegen ergibt sich die Detailplanung aus der Prozess-, Termin- und Kostenplanung.
 
 **1.	Phasenplanung:** Festlegung der Phasen                     
 **2.	Projektstrukturplanung:** Gliederung der Projektinhalte in kleinere Teilprojekte                                       
-**3.	Planung der Projektorganisation:** Verteilung der Rollen und Verantwortlichkeiten                               
+**3.	Planung der Projektorganisation:** Verteilung der Rollen/Verantwortlichkeiten                               
 **4.	Ablauf- und Terminplanung:** Erstellung einer chronologischen Rheinfolge der Arbeitspakete           
 **5.	Ressourcenplanung:** Ermittlung der notwendigen Ressourcen    
-**6.	Kostenplanung:** Bildung der Projektkosten (Ressourcen + Dauer)[^2]
+**6.	Kostenplanung:** Bildung der Projektkosten [^2]
 
-# 3.	Projektplanung in der Praxis:
+# 3.	Projektplanung in der Praxis
 
-Oftmals stellt sich die Frage „Kann man mit seinem Team nicht einfach rauslaufen und schauen wie es läuft? “. Dies kann funktionieren ist jedoch sehr unwahrscheinlich, da man mit hoher Wahrscheinlichkeit einige Dinge vergessen wird. Es kann aber durchaus auch dazu kommen, dass die notwendigen Ressourcen oder finanzielle Mittel vor Abschluss des Projekts ausgeschöpft werden.
-In der Praxis kann aber eine Anfrage zur „Entwicklung eines Projektplans ganz andere Erwartungen haben, da der Begriff „Projektplanung“ als Sammelbegriff interpretiert werden kann. Deshalb stellen die 7W-Fragen einen guten Leitfaden zum Entwickeln eines Projektplans. Es ist aber von essentieller Bedeutung, die Projektplanung genau auf die festgelegten Ziele abzustimmen. [^2]
+Zu begutachten ist, ob ein zuständiges Team, die Projektumsetzung nicht dadurch realisieren kann, indem es ohne vorherige Planung mit der Umsetzung beginnt und gegebenenfalls weitere Schritte zu dem Zeitpunkt abspricht, indem sie relevant werden.
+Durchaus ist eine derartige Herangehensweise denkbar, führt jedoch mit an Sicherheit grenzender Wahrscheinlichkeit zu inkonsequenten Ergebnissen. Nicht hinwegzudenken ist der Umstand, dass unter diesen Umständen einige Aspekte unberücksichtigt bzw. unbeachtet bleiben.
+In der Praxis kann aber eine Anfrage zur „Entwicklung eines Projektplans ganz andere Erwartungen haben, da der Begriff „Projektplanung“ als Sammelbegriff interpretiert werden kann. Aus diesem Grund stellen die 7W-Fragen einen guten Leitfaden zum Entwickeln eines Projektplans dar. [^2]
+-	Wo stehen wir?
+-	Warum machen wir das Projekt?
+-	Was soll erreicht werden?
+-	Wer ist beteiligt?
+-	Wie können wir die Ziele erreichen?
+-	Wann sollen die Ziele erreicht sein?
+-	Wie viel wird uns das kosten?
 
-# 4.	Ziele im klassischen Projektmanagement:
+# 4.	Ziele im klassischen Projektmanagement
 
-Im klassischen Projektmanagement geht es darum, möglichst klare Ziele zu haben, die in der gewünschten Zeit und zu den gewünschten Kosten erreicht werden können. Deshalb spricht man oftmals in diesem Zusammenhang vom „magischen Dreieck“. Die Aufgabe des Projektmanagers bezieht sich auf das Finden eines goldenen Mittelwegs. Dies bedeutet, dass die drei Faktoren „Kosten, Zeit und Leistung“ stets im Gleichgewicht sein müssen. Je kürzer die Zeit, desto höher die Kosten. Je umfangreicher die Dienste, desto länger die Zeit usw. Eine konstante Balance zu halten, die Kunde und Projektteam vertragen, ist eine verantwortungsvolle und schwierige Aufgabe, die eine gute Kommunikation voraussetzt. Allgemein kann man sagen, dass die Hauptziele des Projektmanagements Organisation, Planung, Steuerung und Leitung sind. [^3]
+Das klassische Projektmanagement lehrt, möglichst deutlich identifizierte Ziele im Rahmen einer bestimmten Zeit unter Verwendung einer begrenzten Anzahl von Ressourcen zu erreichen. Aus diesem Grund wird in diesem Zusammenhang oftmals der Ausdruck [„magisches Dreieck“](Magischesdreieck.md) vertreten. Das Finden eines „goldenen Mittelwegs“ ist die Aufgabe des Projektmanagers. Dies bedeutet, dass die Faktoren „Kosten, Zeit und Leistung“ im Gleichgewicht gehalten werden müssen. Es gilt: „Je geringer die Zeit, desto höher die Kosten; Je umfangreicher die Dienste, desto länger die Zeit.“ Eine konstante Balance zu halten, ist eine verantwortungsvolle und schwierige Aufgabe, die eine gute Kommunikation voraussetzt. Allgemein kann gesagt werden, dass die Hauptziele des Projektmanagements die Organisation, Planung, Steuerung und die Leitung sind. [^3]
 
-![bild](Ziel_Planung/mpsbild.jpg "MagischesDreieck") [^1] 
+![bild](Ziel_Planung/mpsbild.jpg "MagischesDreieck") [^1]
 
-# 5.	Zieldefinierung mit der SMART Regel:
+# 5.	Zieldefinierung mit der SMART Regel
 
-Ziele sind stets ein Motivationsfaktor. Deshalb kann es durchaus kontraproduktiv sein, sich unangemessene Ziele zu setzen, bei denen vom vornhinein klar ist, dass das Erreichen dieser Ziele sehr schwer sein wird. Um Ziele sinnvoll zu definieren gibt es die deshalb sogenannte **SMART-Regel**.
--	**Spezifisch**
--	**Messbar**
--	**Akzeptiert**
--	**Realistisch**
--	**Terminierbar**.  
-
-Dies bedeutet, dass das Ziel so deutlich wie möglich gesetzt werden sollen, um später nicht darüber diskutieren zu müssen, ob das Ziel erreicht wurde oder nicht. [^1]
-
-
-# Inhaltsverzeichnis
-
-* [Allgemeines zu Projektplanung im klassischen Projektmanagement](#allgemeines-zu-projektplanung-im-klassischen-projektmanagement)
-* [Schritte die in der Projektplanung durchlaufen werden](Schritte-die-in-der-Projektplanung-durchlaufen-werden)
-* [Projektplanung in der Praxis](Projektplanung-in-der-Praxis)
-* [Ziele im klassischen Projektmanagement](Ziele-im-klassischen-Projektmanagement)
-* [Zieldefinierung mit der SMART Regel](Zieldefinierung-mit-der-SMART-Regel)
-
+Ziele stellen einen Motivationsfaktor vor. Deshalb ist es kontraproduktiv, sich unangemessene Ziele zu setzen, bei denen von vornhinein klar ist, dass das Erreichen dieser Ziele sehr schwer sein wird. Um Ziele sinnvoll zu definieren, gibt es die sogenannte  [**SMART-Regel**](Smartregel.md).
+-	**Spezifisch**:Ziele müssen genau festgelegt sein
+-	**Messbar**:Zielerreichung muss an verschiedenen Kriterien überprüft werden
+-	**Akzeptiert**:Ziele müssen sinnvoll und motivierend wahrgenommen werden
+-	**Realistisch**:Ziele sollen ehrgeizig sein - nicht unmöglich
+-	**Terminierbar**:Ein Termin muss festgelegt sein, zu dem das Ziel erreicht wird
+[^1]
 
 
 # Quellen
 
 
-[^1] : [Projektmanagement – Der optimale Einsatz für dein Unternehmen ](https://sevdesk.de/blog/projektmanagement/ )   
-[^2] : [Projektplanung: Alle Schritte der Planungsphase auf einen Blick ](https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/projektplanung/ )   
-[^3] : [Ziele und Aufgaben des Projektmanagements](https://link.springer.com/chapter/10.1007%2F978-3-642-60144-6_6). 
+[^1]:[Projektmanagement – Der optimale Einsatz für dein Unternehmen ](https://sevdesk.de/blog/projektmanagement/ )   
+[^2]:[Projektplanung: Alle Schritte der Planungsphase auf einen Blick ](https://projekte-leicht-gemacht.de/projektmanagement/klassisches-projektmanagement/projektplanung/ )   
+[^3]:[Ziele und Aufgaben des Projektmanagements](https://link.springer.com/chapter/10.1007%2F978-3-642-60144-6_6). 
