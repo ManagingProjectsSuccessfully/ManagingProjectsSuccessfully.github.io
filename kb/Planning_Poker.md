@@ -49,14 +49,21 @@ Ein gut durchgeführtes Planning Poker, bei dem die richtigen Teilnehmer partizi
 Planning Poker eignet sich also besonders bei Projekten und Aufgabenstellungen, die viele unbekannte Variable beinhalten und bei denen Fachwissen aus mehreren Bereichen gefragt ist.
 
 
+## Siehe auch:
+1. [Projektmanagement](Projektmanagement.md)
+2. [Projektleiter](Projektleiter.md)
+3. [Projektplanung](Projektplanung.md)
+4. [Projektsteuerung](Projektsteuerung.md)
+5. [Projektstrukturplan](Projektstrukturplan.md)
+
 ## Quellen
 
 [^1]: [Planning Poker: So einfach funktioniert die agile Schätzmethode (2020)](https://www.youtube.com/watch?v=APDKb7Wo3gw)
 
 
-[^2]: [Linssen, O. (2012). Planning Poker – Techniken, Erfahrungen und Empfehlungen. Projekt Magazin, 11, 89-99](https://www-1wiso-2net-1de-10000b9tf0051.han.ub.fau.de/dosearch/%3A3%3AFZS?searchlater=t&selectedNavigationPath=%3A3%3AFZS#PROJ__1068714) 
+[^2]: [Linssen, O. (2012). Planning Poker – Techniken, Erfahrungen und Empfehlungen. Projekt Magazin, 11, 89-99](https://www.projektmagazin.de/artikel/planning-poker-techniken-erfahrungen-und-empfehlungen_1068762) 
 
-[^3]: [Lüth, K. (2018). Realistische Aufwandsschätzung schnell und systematisch. Teil 2: Welche Schätzmethode eignet sich am besten?](https://www.wiso-net.de/document/PROJ__1127854) 
+[^3]: [Lüth, K. (2018). Realistische Aufwandsschätzung schnell und systematisch. Teil 2: Welche Schätzmethode eignet sich am besten?](https://www-1wiso-2net-1de-10000b99w03d5.han.ub.fau.de/document/PROJ__bf74284bc4102bbae1dcc3ea6e1092612319f857) 
 
 [^4]: [Sichart, S., & Preußig, J. (2019). Agil führen (1 ed.). Haufe-Lexware GmbH & Co. KG.](https://www-1wiso-2net-1de-10000b9tf0053.han.ub.fau.de/document/HAUF__764d009b4faf0306a4059dc5f8cf111aaa5e9542) 
 
