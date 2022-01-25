@@ -6,60 +6,49 @@ anrechnung: k
 ---
 
 
+# **Teammanagement**  
+„Teammanagement umfasst die aktive und zielorientierte Steuerung einer kleinen Gruppe von Personen, die gemeinsam mit geteilter Zielsetzung an einer Aufgabe, an einem [Projekt](Projekt.md) bzw. einem Thema arbeiten“.[^1] Rund um das Thema Teammanagement gibt es zahlreiche Theorien, Konzepte und Modelle. Diverse Managementstile werden definiert und verschiedenste Führungsinstrumente, Führungsmethoden und Führungstechniken empfohlen. Einer der Stile ist auch das synergetische Teammanagement. [^2]
 
- # **Was ist Teammanagement**  
-„Teammanagement umfasst die aktive und zielorientierte Steuerung einer kleinen Gruppe von Personen, die gemeinsam mit geteilter Zielsetzung an einer Aufgabe bzw. einem Thema arbeiten“.[^1] <br>
+<img src="Teammanagement/TeamManagement.PNG" width="300" />
 
-<img src="Teammanagement/TeamManagement.PNG" width="400" />
+## **Synergetisches Teammanagement**
 
+Synergetische Führung lautet das Geheimrezept, mit dem Manager aus einzelnen Gruppen erfolgreiche Teams machen. Die einfachste Definition der Synergie beim Management stellt fest, dass die Ganzheit etwas Größeres aIs die Summe der einzelnen Bestandteile ist. Die Beziehungen eben sind der wertvollste Teil der Ganzheit, der sie katalysiert und verstärkt sowie jeden Teil im Einzelnen aktiviert. Die Synergie ist also das Wesen eines erfolgreichen Managements, denn sie vereinigt Schöpfungskräfte der Menschen. Der Hauptzweck der synergetischen Führung eines Teams ist das Potenzial des Teams zu maximieren und somit mit neuen Herausforderungen umzugehen.
 
-# **Wo und warum effektives Teammanagement** 
-Management ist in allen Lebensbereichen notwendig. Teammanagement kann als die disziplinierte Methodik beschrieben werden, die darauf abzielt, alle Mitarbeiter einer bestimmten Organisation einzubeziehen, um eine Hochleistungskultur zu schaffen. Teammanagement kann also sehr breitgefächert in jeder Problematik eingesetzt werden, denn es ist das erste und wichtigste System zur Erreichung des Leistungsmanagements. 
-Was fördert effektives Teammanagement und was sind dessen Ziele?[^1] 
+<img src="Teammanagement/xmz2JEFmNsGru.gif" width="300" />
 
-* Steigerung der Produktivität
-* Besserer Output  
-* Geschwindigkeitserhöhung durch [Aufgabenteilung](Aufgabenteilung.md)
-* Effektiveres [Konfliktmanagement](Konfliktmanagement.md) 
-* Hochleistungen
-* Verbesserung der Kommunikation im Team
+## **Synergetische Führung** [^3]
+Das größte Potenzial eines Teams liegt nicht in den einzelnen Teammitgliedern. Es liegt in den Schnittstellen zwischen ihnen. Denn ein Team besteht nun einmal nicht nur aus einer Ansammlung dyadischer Beziehungen. Um dieses Potenzial durch richtiges Teammanagement auszuschöpfen, sind einige Managamentaufgaben zu bewältigen: 
 
-
-Um die gewünschten Ziele zu erreichen, müssen die wesentlichen Teammanagementaktivitäten implementiert werden. Effektives Teammanagement führt zur Erreichung der angesetzten Ziele und dies erreicht man, indem man die Teamentwicklung genauestens beobachtet und dies ebenso fördert.
+<img src="Teammanagement/Funktionen.PNG" width="450" /> 
+Abbildung 3 [^4]
 
 
-# **Teamentwicklung und dessen Entwicklungsphasen**
-Teamentwicklung ist in erster Linie ein Veränderungs- und Wachstumsprozess einer Gruppe von Individuen, zusammengeführt oder zusammengefügt mit der Orientierung auf ein gemeinsames Ziel oder eine gemeinsame Aufgabe. Mittels gezielter Teamentwicklung kann eine Gruppe eine deutliche Veränderung in ihrem Selbstverständnis und in ihrem Leistungsverhalten erfahren. Dieses Leistungsverhalten kann durch den [Teamleiter](Teamleiter.md), also dem Teammanager, beachtet und durch gezieltes Teammanagement ideal gestaltet werden. Das richtige Teammanagement entscheidet über die Performance, denn jedes Team durchläuft im Laufe seiner „Lebens- und Entwicklungsgeschichte“ eine Folge von abgrenzbaren Entwicklungsphasen[^2]. Im Folgenden sollen die Entwicklungsphasen durch das Phasenmodell von Bruce Tuckman genauer betrachtet und die richtige Vorgehensweise in der jeweiligen Phase beschrieben werden. 
- 
-  * ##  _**1. Forming (=Orientierungsphase)**_ 
-In dieser Phase werden die Teammitglieder bestimmt oder finden sich. Es geht in der Forming-Phase um das erste Kennenlernen der Mitglieder. Der Umgang ist sehr reserviert, vorsichtig und höflich. Ein gutes Teammanagement ist, wenn man in dieser Phase die Erwartungen, Bedenken und womöglich auch Ängste mit Vorsicht behandelt[^3]. Aus diesem Grund muss es ein geregelter, offizieller Rahmen an der Tagesordnung existieren, sodass ein willkommen heißendes und angenehmes Klima entsteht. Diese Tagesordnung könnte man beispielsweise auch mit [Kennenlernspiele](Kennenlernspiele.md) verknüpfen.
 
-  * ## _**2. Storming (=Konfrontationsphase)**_ 
-Die Storming-Phase ist eine unbedenkliche aber jedoch sehr unangenehme Phase. Man kommt sich näher, sowohl im positiven auch im negativen. Grüppchenbildung, Konflikte und Spannungen entstehen, somit ist der Motivationseffekt verblüfft. Das Teammanagement sollte sehr professionell ablaufen. Der Teamleiter dient als Schlichter und Antreiber, sollte jeden zu Wort kommen lassen und sorgen, dass die Konflikte nicht eskalieren. 
+* **Differenzmanagement** setzt die Grenzen und sichert [Zielklarheit](Ziel_Planung.md). Ein Team braucht einen klaren Auftrag (Systemzweck) und muss sich als Einheit begreifen denn das stärkt das Gefühl von Sinn und den Teamgeist.  Am besten geschieht das gemeinsam, im konstruktiven Gespräch, wobei es dabei ebenso um Leistungs- wie auch Beziehungsziele des Teams gehen sollte. 
 
-  * ## _**3. Die Norming-Phase (=Organisationsphase)**_ 
-Die Normierung-Phase ist die Voraussetzung für die Leistungsphase, denn in der werden die Rollen im Team und Arbeiten sinnvoll verteilt. Nach offener Diskussion, öfter auch offene Konfrontation und gemeinsames [Brainstorming](Brainstorming.md) entstehen Prozesse und Regeln. Gefühl der Zusammengehörigkeit wird verstärkt. Der Teamleiter sollte sein Team bei der Findung der Spielregeln unterstützen und anschließend achten, sodass alle die Regeln befolgen. Er managt das Team als Berater oder Coach. 
+* Unter **[Ressourcenmanagement](Ressourcenplanung.md)** fällt die Akquise materieller und immaterieller, finanzieller und personaler Mittel. Manager müssen dafür sorgen, dass das Team zu nachvollziehbaren und als fair empfundenen Entscheidungen gelangt. Auch die Entscheidung wer im Team aufgenommen wird, ist eine Ressourcenentscheidung. 
+* **Strukturmanagement** setzt sich mit der sozialen Komplexität im Team auseinander. Hier geht es vor allem um die Festlegung klarer Rollen und Verantwortlichkeiten. Trotz der klaren Festlegung sollten Manager aber auch dafür Sorge tragen, dass Mitarbeiter in der Lage sind, sich kreativ mit neuen komplexen Herausforderungen und [Konflikten](Konfliktmanagement.md) auseinanderzusetzen.
 
-  * ## _**4. Performing- Phase (=Hochleistungsphase)**_ 
-Die Performing-Phase, in der das Team leistungsfähig, effizient und eigenständig arbeitet. Die aus Norming-Phase gesetzen Spielregeln führen zu einem konstruktiven und lösungsorientierten Arbeitsstiel. Der Projektleiter muss kaum noch eingreifen. 
+* Das Managen von zeitlicher Komplexität ist Aufgabe des **Prozessmanagements**. Die Ablaufplanung muss die durch die interne Rollendifferenzierung bedingten Anschluss- und Synchronisierungsprobleme lösen. 
+* **Reflexionsmanagement** sichert die Überlebensfähigkeit des Teams, indem die eigene Funktionalität analysiert und verbessert wird. Synergetisches Management führt zur Ergreifung geeigneter Gegenmaßnahmen, denn es impliziert negativen Stress im Team aufmerksam wahrzunehmen. 
+* **[Entwicklungsmanagement](Entwicklungsprojekte.md)** schließlich verhindert die Überlastung des Systems aufgrund überfordernder Aufgaben oder zu hoher Komplexität. 
 
 
-# **Fazit** 
-Abschließend kann man sagen, dass ein strukturiertes und organisiertes Teammanagement sehr wichtig ist. Mit den richtigen Strategien können alle Beteiligten bessere Leistungen erbringen, Wissen erwerben und hochwertige Ergebnisse liefern[^4]. Richtiges Temmanagement vermeidet Probleme und schafft Lösungen. <br>
+| Differenz  | Ressourcen  | Struktur| Prozess  | Reflexion  | Entwicklung|
+| :------------ |:---------------:| -----:| :------------ |:---------------:| -----:|
+|  Teamgeist stärken                         | Team zusammenstellen        | Arbeit strukturieren            |Selbstmanagement und Flexibilität fördern | Leistungsprobleme interpretieren und lösen | Teilaufgaben outsourcen
+| Teamexterne Schnittstellen kooperieren | Ressourcenbedarf ermitteln  | Verantwortlichkeiten Definieren |Standardprozesse implementieren           | Team permanent herausfordern | Auf nächsthöherer Ebene eskalieren
+| Mitarbeiter individuell führen         | Team entwickeln             |  Teamrollen aushandeln          | Operatives Vorgehen definieren           | Monitoring relevanter Daten | [Projekt abschließen](Projektabschluss.md) und [Projekt auflösen](Projektaufloesung.md)
 
-<img src="Teammanagement/xmz2JEFmNsGru.gif" width="400" />
-
+# **Fazit**
+Zusammenfassend lässt sich sagen, dass nichts heute so wichtig ist wie die Entwicklung einer synergetischen Denkweise. Nur so können wir größere Fortschritte erzielen, indem wir unsere Potenziale für das Gemeinwohl bündeln.  Nachhaltig erfolgreiche Unternehmen sind deshalb erfolgreich, weil funktionierende Teams einen überdurchschnittlichen Beitrag, durch ihre effektive und produktive Arbeitsweise, zum Gesamterfolg beitragen. Gutes Teammangament ist eine win-win Situation für das Unternehmen, den [Teamleiter](Teamleiter.md) und die Mitarbeiter. Das wichtige ist der Managementstil an den man sich orientiert. [^5]
 
 # **Quellen** 
-[^1]: Dr. Schawel, C. und Billing, F. (2018). Top 100 Management Tools (6. Auflage). Springer
-[^2]: Vgl. Coaching-Letter September 2004 zum Thema Teamentwicklung V.I.E.L. ® Coaching + Training    
-(s. https://docplayer.org/195909040-V-i-e-l-coaching-training.html)
-[^3]: Vgl. https://www.clevis.de/ratgeber/teamentwicklungsphasen/
-[^4]: Vgl. https://www.elorus.com/blog/team-management-definition-the-importance-of-teamwork-and-collaboration-in-the-workplace/
-
-
-
-
-
+[^1]: Dr. Schawel, C. und Billing, F. (2018). Top 100 Management Tools (6. Auflage). Springer <br>
+[^2]: vgl. https://www.mitarbeitermotivation-anleitungen.de/mitarbeiterfuehrung/teamfuehrung/ <br>
+[^3]: vgl. [Podcast](https://teamlead.partners/resources/media/Graf-Rascher-Schmutte-(2018)-Fuer-ein-besseres-%C2%ADZusammenspiel---Synergetisch-fuehren---managerseminare-MS249AR03.mp3) <br>
+[^4]: https://teamlead.partners/ <br>
+[^5]: vgl. Nele GrafStephanie RascherAndre M. Schmutte. Teamlead- Führung 4.0, Springer
 
 
