@@ -4,10 +4,9 @@ tags: klassisch
 author: Christoph-Mantsch
 anrechnung:    k 
 ---
-Der Begriff [Projekt](Projekt.md) leitet sich aus dem lateinischen Wort "proiectum" ab und bedeutet übersetzt "nach vorn geworfen". Im Kontext von Projekten versteht man unter "nach vorn" eine zeitliche Bedeutung wie beispielsweise einen Terminplan [^1].
 
-Unter einem Projekt versteht man ein einmaliges und zielorientiertes Vorhaben, welches im Rahmen von verschiedenen Kriterien und einem definierten Ziel erfüllt werden soll. Beispiele für Kriterien eines Projektes sind Zeit, Betriebsmittel, [Ressourcenplanung](Ressourcenplanung.md), Qualitätsansprüche oder Arbeits- und Produktionsbedingungen. 
-Besonders in Unternehmen spielen Projekte eine sehr zentrale Rolle, da sie die Vorraussetzung für die Wertschöpfung und somit sehr bedeutungsvoll für das langfristige und erfolgreiche Wirtschaften des Unternehmens sind. Aus diesem Grund sind Projekte ein essenzieller Baustein und daher allgegenwärtig und unverzichtbar für Unternehmen[^1].
+Unter einem [Projekt](Projekt.md) versteht man ein einmaliges und zielorientiertes Vorhaben, welches im Rahmen von verschiedenen Kriterien und einem definierten Ziel erfüllt werden soll. Beispiele für Kriterien eines Projektes sind Zeit, Betriebsmittel, [Ressourcenplanung](Ressourcenplanung.md), Qualitätsansprüche oder Arbeits- und Produktionsbedingungen. 
+Besonders in Unternehmen spielen Projekte eine sehr zentrale Rolle, da sie die Voraussetzung für die Wertschöpfung und somit sehr bedeutungsvoll für das langfristige und erfolgreiche Wirtschaften des Unternehmens sind. Aus diesem Grund sind Projekte ein essenzieller Baustein und daher allgegenwärtig und unverzichtbar für Unternehmen[^1].
  
 Jedoch können Projekte sehr schnell komplex und unübersichtlich werden, was dazu führt, dass sie an einem sehr breiten Spektrum an Problemen scheitern können. Die häufigsten Ursachen für das Scheitern eines solchen Projektes sind unzureichende [Projektkommunikation](Projektkommunikation.md) zwischen den Mitarbeitern und dem Auftraggeber oder auch mangelnde Auftragsklärung. Dadurch führen viele solcher Besprechungen zu keinem aussagekräftigen Ergebnis und sind daher oftmals nicht profitabel für das Unternehmen. In diesem Fall greifen Unternehmen gerne auf das Konzept der Projektberatung externer Firmen zurück [^2].
 
@@ -35,7 +34,7 @@ Mögliche Gründe für diese hohe Misserfolgsquote können sehr vielseitig sein 
 
 ![Beispielabbildung](Projektberatung/Projektscheitern2.PNG)
    
-   *häufigste Gründe für das Scheitern von Projekten*
+   *häufigste Gründe für das Scheitern von Projekten*[^2]
 
 # Die gängigsten Arten von Projektberatung
 
@@ -54,7 +53,7 @@ Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe,
 
 # Siehe auch
 
-* [Projekt](Projekt.)
+* [Projekt](Projekt.md)
 * [Ressourcenplanung](Ressourcenplanung.md)
 * [Projektkommunikation](Projektkommunikation.md)
 * [Projektmanagement](Projektmanagement.md)
@@ -75,6 +74,6 @@ Projektmanagement in Unternehmen ist eine sehr komplexe und vielseitige Aufgabe,
 [^2]: http://www.entdecken-entwickeln.de/projektberatung.html
 [^3]: https://cpc-services.de/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1NSPMrDkeYPs1tsYUfjeslCH27blFqOtn48FnbUaF3-GZZil9gjXLBoCS64QAvD_BwE
 [^4]: https://www.pmcc-consulting.com/kompetenzen/projektmanagement/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1Nab-UuWxjKJAyHdjgzy5-NMN--GWtfk7fFmFaP0GTt2OsT5lxPMThoCvlUQAvD_BwE
-[^5]: https://smodin.io/de/text-automatisch-in-deutscher-sprache-umformulieren
+[^5]: https://surwayne.com/de/blog/warum-projekte-scheitern
 [^6]: http://docplayer.org/11051318-6-5-13-projektcoaching-projektmentoring-oder-doch-kollegiale-projektberatung-wann-passt-welches-konzept-der-einzelberatung.html
 
