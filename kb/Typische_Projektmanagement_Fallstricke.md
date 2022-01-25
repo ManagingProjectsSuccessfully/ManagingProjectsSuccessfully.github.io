@@ -4,56 +4,56 @@ tags: klassisch
 author: Lorybr
 anrechnung: k
 ---
+# Typische Projektmanagement Fallstricke
 
-Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen Elementen, wie Zeit, Ressourcen und Menschen (siehe: [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ).Um ein erfolgreiches Projekt zu managen, müssen diese Elemente effektiv integriert und verwaltet werden. [^1]
+Das Projektmanagement befasst sich mit komplexen Projekten mit unterschiedlichen Elementen wie: Zeit, Ressourcen und Menschen (siehe: [Projektmanagement](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektmanagement.md) ). Um ein erfolgreiches Projekt zu managen, müssen diese Elemente effektiv integriert und verwaltet werden. [^1]
 
-Aufgrund der Komplexität des Projektmanagements können sogenannte ,,Projektmanagement-Stolpersteine“ während des Prozesses auftreten. Auch wenn zum Beginn eines Projekts Optimismus herrschen kann, dass diesmal alles glatt gehen wird, kann man währenddessen überrascht werden, dass alles doch nicht nach dem Plan läuft, wie gewünscht.[^2]
-Im Folgenden werden die typischen Projektmanagement Fallstricken dargestellt und des Weiteren, wie man sie vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu verbessern (siehe Bild.1[^5]).
-
-<p align="center">
-  <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Typische_Projektmanagement_Fallstricke/Screenshot%20(127).png"/>
-</p>
-
-<p align="center">
- Bild.1: Mehrere Wege um Fallstricken zu vermeiden
-</p>
+Aufgrund der Komplexität des Projektmanagements können sogenannte ,,Projektmanagement-Stolpersteine“ während des Prozesses auftreten. Auch wenn zu Beginn eines Projekts Optimismus herrscht, dass diesmal alles glatt laufen wird, kann man währenddessen überrascht werden, dass alles doch nicht nach Plan läuft.[^2]
+Im Folgenden werden die typischen Fallstricke des Projektmanagement dargestellt. Des Weiteren wird aufgezeigt wie man diese vermeiden oder beseitigen kann, um die Chancen eines erfolgreichen Projekts zu erhöhen.
 
 
-# 1.Das Fehlen eines konkreten Projektplans und somit eines Ziels
+# 1. Das Fehlen eines konkreten Projektplans und somit eines Ziels
 
-Ohne klar definierte Ziele wird die Führung eines erfolgreichen Projektmanagement-Teams fast unmöglich, und somit kann das automatisch zum Scheitern oder zu einem sehr hohen Budget führen. [^1] Das Team weiß nicht, woran man sich leiten muss, was die anstehenden Pläne sind und wer für was zuständig ist, was das erforderliche und das verfügbare Budget ist oder was die Zeitanforderungen sind.
+Ohne klar definierte Ziele wird die Führung eines erfolgreichen Projektmanagement-Teams fast unmöglich, was automatisch zum Scheitern führen kann[^1]. Das Team weiß nicht, woran man sich orientieren muss und was die anstehenden Pläne sind. Es ist schwer erkennbar, welche Person wofür zuständig ist und wie hoch das erforderliche und verfügbare Budget ist. Auch die Zeitanforderungen sind unklar.
 ## Lösung: 
-Ein Projektplan-ein formelles Dokument, in dem alle Entscheidungen und Schritte mit einem Projektziel und andere relevante Informationen enthalten und ausführlich beschrieben sind, und wo diese klar und eindeutig definiert werden [^2]. 
+Ein Projektplan ist ein formelles Dokument, in welchem alle Entscheidungen und Schritte eines Projektziels, sowie andere relevanten Informationen ausführlich beschrieben und eindeutig definiert sind [^2]. 
 
 
 
 # 2. Mangelhafte Kommunikation 
 
-Schlechte Kommunikation ist ein maßgeblicher Faktor, der den Erfolg eines Projekts stark beeinflussen und gefährden kann. Ein Mangel an effektiver Kommunikation kann zu Verwirrung, Verzögerungen oder Konflikte führen, und somit die Qualität der Arbeit und der Aufgaben des Projekts beeinträchtigen. [^1] (siehe: [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md))
+Die schlechte Kommunikation ist ein anderer Faktor, der den Erfolg eines Projekts negativ beeinflussen kann. Ein Mangel an effektiver Kommunikation kann zu Verwirrung sowie Verzögerungen führen, wodurch auch die Qualität der Arbeit und der Aufgaben des Projekts beeinträchtigt werden können. [^1] (siehe: [Projektkommunikation](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Projektkommunikation.md))
 ## Lösung: 
-* Eine effektive Kommunikation steht im Mittelpunkt der Teamzusammenarbeit [^1]. Tägliche oder wöchentliche Besprechungen, indem jeder Mitarbeiter Mitspracherecht hat und Feedbacks geben kann, können dabei helfen, sich gegenseitig besser zu verstehen um effektiver das Ziel zu erreichen (siehe [Daily Scrum](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Daily_Scrum.md))[^3]. 
-*	Eine gute Technische Infrastruktur mit Projektmanagement-Tools, kann ebenso den Teammitgliedern ermöglichen, ihren Fortschritt in Echtzeit zu aktualisieren und somit mit anderen zu kommunizieren. [^1]
-*	Ebenso ist eine ausführliche Kommunikation mit dem Kunden/ Stakeholder nicht zu vernachlässigen, denn nur so ist man sich sicher, dass man auf dem richtigen Weg ist, die Wünsche der Kunde zutreffend zu erfüllen. [^4]
+* Eine effektive Kommunikation steht im Mittelpunkt der Teamzusammenarbeit [^1]. Tägliche oder wöchentliche Besprechungen, in denen jeder Mitarbeiter Mitspracherecht hat und Feedbacks geben kann, können dabei helfen, sich gegenseitig besser zu verstehen, um das Ziel effektiver zu erreichen[^3]. 
+*	Eine gute technische Infrastruktur mit Projektmanagement-Tools kann z.B. den Teammitgliedern ermöglichen, ihren Fortschritt in Echtzeit zu aktualisieren und somit mit anderen zu kommunizieren. [^1]
+*	Ebenso ist eine ausführliche Kommunikation mit dem Kunden/ Stakeholder nicht zu vernachlässigen, denn nur so kann man sicherstellen, dass man auf dem richtigen Weg ist, die Wünsche der Kunden zutreffend zu erfüllen. [^4]
 
 
 # 3. Unrealistische Ziele, Fristen und Budget
 
-Einen großen Fallstrick stellen ebenso die unrealistische Ziele dar, die zu kurze Deadlines, die unmöglich sind zu erreichen sind, oder die falsch eingeschätzte Budgets. Dies kann nicht nur schädlich für den Erfolg des Unternehmens sein, sondern auch für die Moral und das Vertrauen der Team-Mitglieder. [^1]
+Einen großen Fallstrick stellen die unrealistischen Ziele dar. Dazu gehören zum Beispiel zu früh gesetzten Deadlines, die kaum erreichbar sind, oder falsch eingeschätzte Budgets. Solche Fehler können nicht nur schädlich für den Erfolg des Unternehmens sein, sondern auch für die Moral und das Vertrauen der Team-Mitglieder[^1].
 ## Lösung:
-Man muss realistisch die Situation betrachten, in Abhängigkeit von Ressourcen, Arbeitskräfte, Budget und Fristen [^1]. Man soll sich fragen, was von dem Team zu erwarten ist, ob das physisch möglich ist, und ob sich die Zeitpläne der Planungsphase mit den vorgeschlagenen Fristen und das vorhandene Budget anpassen (siehe [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)).
+Man muss realistisch die Situation betrachten und alles in Abhängigkeit der Ressourcen, der Arbeitskräfte, dem Budget und der Fristen entscheiden[^1]. Man sollte sich fragen, was von dem Team zu erwarten ist und ob die Zeitpläne der Planungsphase mit den vorgeschlagenen Fristen und dem vorhandenen Budget übereinstimmen (siehe [Zeitplanung](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Zeitplanung.md)).
+
+
+
+  <img src="https://github.com/Lorybr/ManagingProjectsSuccessfully.github.io/blob/main/kb/Typische_Projektmanagement_Fallstricke/Dreieck3.jpg"/>
+
+ Bild.1: *Das ,,magische Dreieck" des Projektmanagements*[^5]
+
 
 
 # 4. Fehlende Aufteilung von Projekten in kleinere Aufgaben
 
-Projekte sind in der Regel riesig und langfristig. Ohne der Aufteilung der Aufgaben, kann es schnell dazu kommen, dass man den roten Faden verliert, und somit führt das zu Verunsicherungen.
+Projekte sind in der Regel umfangreich und langfristig geplant. Ohne die Aufteilung der Aufgaben kann es schnell passieren, dass man den roten Faden verliert, wodurch Verunsicherungen entstehen.
 ## Lösung: 
-Um diese Fallstricke im Projektmanagement zu vermeiden, muss man die Arbeit in Sektionen mit klaren kurzfristigen Fristen, eindeutigen Zielen und Werkzeugen zersplittern. Letztenendlich klingt eine Aufgabe, die nur eine Woche dauert, besser als ein 3-Monats-Projekt.[^2]
+Um diese Fallstricke im Projektmanagement zu vermeiden, muss man die Arbeit in Sektionen mit klaren kurzfristigen Fristen, eindeutigen Zielen und Werkzeugen aufteilen. Schließlich klingt eine Aufgabe, die nur eine Woche andauert, besser als ein dreimonatiges Projekt.[^2]
 
 
 
 
 # Fazit
-Zusammenfassend lässt sich sagen, dass man mit einem klar definierten Ziel, einer reichen und transparenten Kommunikation, ausreichenden Zeit- und Budgetressourcen und einer vernünftigen Arbeitsaufteilung, die typische Fallstricke leichter zu vorhersehen und zu vermeiden sind, um daher den Erfolg eines Projekts zu gewährleisten.
+Zusammenfassend lässt sich sagen, dass mit einem klar definierten Ziel, einer reichen und transparenten Kommunikation, ausreichender Zeit- und Budgetressourcen und einer vernünftigen Arbeitsaufteilung, die typischen Fallstricke leichter vorherzusehen und zu vermeiden sind, um so den Erfolg eines Projekts zu gewährleisten.
 
 
 
@@ -66,10 +66,10 @@ Zusammenfassend lässt sich sagen, dass man mit einem klar definierten Ziel, ein
 # Weiterführende Literatur
 
 
-* FALLSTRICKE DER PROJEKTARBEIT - PDF Free Download (docplayer.org)
-* 18 Project Management Pitfalls and Proven Ways to Avoid Them (managersresourcehandbook.com)
-* Avoiding Project Management Pitfalls - dummies
-* Das Projektdreieck (microsoft.com)
+* [FALLSTRICKE DER PROJEKTARBEIT - PDF Free Download](https://docplayer.org/11004614-Fallstricke-der-projektarbeit.html)
+* [18 Project Management Pitfalls and Proven Ways to Avoid Them](https://www.managersresourcehandbook.com/avoid-project-pitfalls/)
+* [Avoiding Project Management Pitfalls - dummies](https://www.dummies.com/article/business-careers-money/business/project-management/avoid-common-project-management-pitfalls-236601)
+* [Das Projektdreieck (microsoft.com)](https://support.microsoft.com/de-de/office/das-projektdreieck-8c892e06-d761-4d40-8e1f-17b33fdcf810)
 
 
 # Quellen
@@ -78,5 +78,5 @@ Zusammenfassend lässt sich sagen, dass man mit einem klar definierten Ziel, ein
 [^2]: Stepanov, Andrew (2017):10 Pitfalls in Project Management to Avoid (ganttpro.com) : https://blog.ganttpro.com/en/top-project-management-pitfalls-to-avoid/
 [^3]: Reinold, Daniel: Daily Scrum - kurz erklärt [Varianten & Tipps]: https://www.projektmagazin.de/methoden/daily-scrum
 [^4]: T2informatik: Was ist eine Stakeholderkommunikation? - Wissen kompakt - t2informatik: https://t2informatik.de/wissen-kompakt/stakeholderkommunikation/
-[^5]: Bild 1: https://blog.ganttpro.com/en/top-project-management-pitfalls-to-avoid/
+[^5]: Bild 1: https://asana.com/de/resources/project-management-triangle
 
