@@ -5,88 +5,106 @@ author: AmrouHasan
 anrechnung:  k
 ---
 
-# Muda 7 Arten von Verschwendung
-In der Produktion, sollte der Verschwendung immer vermieden werden. Mittels die Kenntnis der 7 Verschwendungsarten bzw. 7 Muda bekommt man dieses Problem in den Griff. [^1]
+Ein Grundsatz in der Produktion besagt, dass Verschwendung immer vermieden werden sollte. Die 7 Verschwendungsarten bzw. 7 Muda bekommen das Problem der Verschwendung in den Griff. Der japanische Begriff „Muda“ lässt sich auf Deutsch übersetzen als „sinnlose Tätigkeit“ übersetzen. [^1]
+
+# Arten der Verschwendung
+
+In der klassischen Lehre des Lean Manufacturing werden sieben Verschwendungsarten definiert, welche reduziert werden können. Daraus ergeben sich folgende Arten der Verschwendung [^2] : 
+
+* Unnötige Transporte
+* Zu hohe Lagerbestände
+* Unnötige Bewegungen
+* Wartezeiten
+* Überproduktion
+* Falsche bzw. schlechte Prozesse & Technologien 
+* Ausschuss & Nacharbeit
+
+Normalerweise sind diese Arten von Verschwendungen miteinander verbunden. Beispielsweise führt eine Überproduktion zu einem erhöhten Lagerbestand, was zu höheren Transportkosten führt. [^1]
+
+# Verschwendung im Projektmanagement
+
+Das [Projektmanagement](Projektmanagement.md) kann ebenfalls von Verschwendung betroffen sein. Um dies zu vermindern bzw. zu vermeiden, muss eben das [Lean Projektmanagement](Lean_Projektmanagement.md) in Betracht gezogen werden. Im Folgenden findet man übliche Beispiele vor [^3] :
+
+* Transport: Aufgabenwechsel, Unterbrechungen, unnötig langer Marketingtrichter
+* Bestandsaufnahme: Online gekaufte Tools, welche die Teams selten verwenden; Bürobedarf, die Bedürfnisse übersteigen
+* Bewegung: schlecht strukturierte Arbeitsbereiche und fehlende organisatorische Wege, zu viele Meetings, zusätzliche Bemühungen, Informationen zu finden
+* Warten: warten auf eine Genehmigung von höherem Management
+* Überproduktion: unnötig große Menge an Dokumenten zu füllen
+* Überbearbeitung: mehrere Genehmigungsebenen für kleine Aufgaben
+* Defekte: falsche Datensammlung
 
 
-# Welche 7 Arten der Verschwendung gibt es?
+# Umgang mit Verschwendung
 
 
-In der klassichen Leher des Lean Manufacturing werden Verschwendungsarten definiert, die reduziert werden können. Folgendes gilt um zu vermeiden : Transport, Lagerbestände, Bewegungen, Warten, Überproduktion, schlechte Prozesse/ Technologien Ausschuss/ Nacharbeit. Normalerweise sind diese Arten von Verschwendungen miteinander verbunden. Beispielsweise führt eine Überproduktion zu einem erhöhten Lagerbestand, was zu höheren Transportkosten führt.[^1]
+Die Beseitigung verschwenderischer Aktivitäten ist entscheidend für den Erfolg eines Unternehmens. Sie können dazu führen, dass die Rentabilität zu sinkt, die Kundenkosten sich erhöhen, die Qualität sinkt und sogar Mitarbeiter unzufriedener werden. Aus diesem Grund müssen die nicht wertschöpfenden Aktivitäten identifiziert werden und es muss versucht werden, den Prozess, in dem sie auftreten, zu verbessern oder sie letztendlich zu eliminieren. [^3]
 
+Hier führt ein systematisches Vorgehen zum Ziel. Die Fragen, die sich das Unternehmen stellen sollte, sind:
 
+* Welche Hebel führen wirklich zu Verschwendung? 
+* Wie kann man es am effektivsten bekämpfen? 
 
+Die 7 Arten der Verschwendungen werden in der folgenden Abbildung veranschaulicht.[^1]
 
+![7 Arten der Verschwendung](Muda_7_Arten_von_Verschwendung/7_Arten_Verschwendung.jpg)
 
+*7 Arten der Verschwendung* [^4]
 
-# Umgang mit der 7 Arten der Verschwendung
-Die Beseitigung verschwenderischer Aktivitäten ist entscheidend für den Erfolg Ihres Unternehmens. Sie können die Rentabilität senken, die Kundenkosten erhöhen, die Qualität und sogar die Zufriedenheit der Mitarbeiter verringern. Aus diesem Grund müssen Sie die nicht wertschöpfenden Aktivitäten identifizieren und versuchen, den Prozess, in dem sie auftreten, zu verbessern oder sie letztendlich zu eliminieren[^4]
+## Muda 1 : Transport
 
-Hier führt nur ein systematisches Vorgehen zum Ziel. Das sind Komplexe Fragen: Welche Hebel führen wirklich zu Verschwendung? Wie Kann man es am effektivsten bekämpfen? Der Begriff  ‚Muda‘ kommt aus den Japanisches Wort ‚Muda‘ und es lässt sich auf deutsch als ‚sinnlose Tätigkeit‘ defnieren. Die 7 Arten der Verschwendungen sowie die Tipps um denen zu vermeiden werden unten in der Liste veranschaulicht.[^1]
+Während Material transportiert wird, kann kein Mehrwert entstehen. Personal und Energie werden benötigt, das heißt steigende Kosten. Schäden während des Transports können auch entstehen. Außerdem sollte man auch prüfen, ob Weg A nach B nicht verkürzen lässt. [^1]
 
-![Beispielabbildung](Muda_7_Arten_von_Verschwendung/7_Arten_Verschwendung.jpg) 
+Tipp: 
+* Workstations näher zueinander bringen
 
+ ## Muda 2 : Lagerbestände reduzieren
 
-
-*7 Arten der Verschwendung*
-
-
- # Muda 1 : Transport
-Während Material transportiert wird, kann kein Mehrwert entstehen. Personal und      Energie werden benötigt , das heißt steigende Kosten. Schäden während des Transports könnten auch entstehen. Außerdem sollte man auch prüfen, ob Weg A nach B nicht verkürzen lässt.[^1]
-
-Tipps: 
-*	Workstations näher zueinander bringen
-
-
-
-
- # Muda 2 : Lagerbestände reduzieren
-Ein überfülltes Lager ist kein Zeichen von Erfolg, ganz im Gegenteil. Dies ist ein Hinweis darauf, dass die Planung der Produktion verbessert werden muss. Übermäßige Lagerbestände bedeutet auch höhere Lagerbestände.[^2]
+Ein überfülltes Lager ist kein Zeichen von Erfolg, ganz im Gegenteil. Dies ist ein Hinweis darauf, dass die Planung der Produktion verbessert werden muss. Übermäßige Lagerbestände bedeutet auch höhere Lagerbestände. [^2]
 
 Tipps: 
 * Standardisierte und stabile Prozesse schaffen
-*	Produktion besser ‚timen‘
+* Produktion besser ‚timen‘
 
+## Muda 3 : Nicht ergonomische Bewegungen vermeiden
 
-
-
-
-# Muda 3 : Nicht ergonomische Bewegungen vermeiden
 Es gibt viele Schritte in der Produktion die einfach keinen Wert haben. Hierzu zählen überflüssige Laufwege Ihrer Mitarbeiter. Fehlhaltungen und Beugungen Beispielsweise  führen zu Knochen und Muskeln  Belastungen der Mitarbeiter. [^1]
 
-Tipps: 
+Tipp: 
 * Modulares, ergonomisches Arbeitsplatzsystem aufsetzen
 
-# Muda 4 : Wartezeiten
+## Muda 4 : Wartezeiten
 
-Wenn sich Güter oder Aufgaben nicht bewegen, kommt es zu Wartezeiten. Dies sind zum Beispiel Waren, die darauf warten, ausgeliefert zu werden, Ausrüstung, die darauf wartet, repariert zu werden, oder ein Dokument, das auf die Genehmigung von Führungskräften wartet.[^3]
 
-# Muda 5 : Überproduktion
+Wenn sich Güter oder Aufgaben nicht bewegen, kommt es zu Wartezeiten. Dies sind zum Beispiel Waren, die darauf warten, ausgeliefert zu werden, Ausrüstung, die darauf wartet, repariert zu werden, oder ein Dokument, das auf die Genehmigung von Führungskräften wartet. [^3]
 
-Dieser Punkt ist vergleichbar mit der Verschwendung von Lagerbeständen. Auch hier liegt eine falsche Bewertung der Anfrage vor. Dadurch wird das Kapital länger immobilisiert und auch eine Qualitätsminderung während der Lagerungszeit ist ebenfalls denkbar. Doch die Lean Produktion kennt den richtigen Ansatz, um dem entgegenzuwirken.[^4]
 
-Tipps:
+## Muda 5 : Überproduktion
+Dieser Punkt ist vergleichbar mit der Verschwendung von Lagerbeständen. Auch hier liegt eine falsche Bewertung der Anfrage vor. Dadurch wird das Kapital länger immobilisiert und auch eine Qualitätsminderung während der Lagerungszeit ist ebenfalls denkbar. Doch die Lean Produktion kennt den richtigen Ansatz, um dem entgegenzuwirken. [^3]
 
-* •	Anstreben des Pull-Prinzip (Produktion nach Bedarf) [^1]
+Tipp:
+* Anstreben des Pull-Prinzips (Produktion nach Bedarf) [^1]
 
-# Muda 6 : Überbearbeitung
+## Muda 6 : Überbearbeitung
 
-Auch wenn die Arbeitsschritte unnötig kompliziert sind, ensteht in der Produktion Verschwendung. Es ist wichtig dass, eine Optimierung der kontinuierlichen Modernisierung von Infrastrukturen durchgeführt werden sollen. Der einfachste Weg dies zu tun, sind modulare Produktionssysteme.
+Auch wenn die Arbeitsschritte unnötig kompliziert sind, entsteht in der Produktion Verschwendung. Es ist wichtig, dass, eine Optimierung der kontinuierlichen Modernisierung von Infrastrukturen durchgeführt werden sollen. Der einfachste Weg dies zu tun, sind modulare Produktionssysteme.
 
-Tipps: 
-* 	Stetige Verbesserungen statt übertriebene Sorgfalt im Hier und Jetzt[^1]
 
-# Muda 7 : Defekte
+Tipp: 
+* Stetige Verbesserungen statt übertriebener Sorgfalt im Hier und Jetzt [^1]
 
-Mängel/Fehler können zu Nacharbeit, oder schlimmer noch zu Ausschuss führen. Generell müssten fehlerhafte Jobs wieder in Produktion genommen werden, was wertvolle Zeit kostet. Darüberhinaus ist in einigen Fällen ein zusätzlicher Nachbesserungsbereich erforderlich, der mit einer zusätzlichen Ausbeutung von Arbeitskräften und Werkzeugen verbunden ist. [^4]
+## Muda 7 : Defekte
+
+Mängel/Fehler können zu Nacharbeit, oder schlimmer noch zu Ausschuss führen. Generell müssten fehlerhafte Jobs wieder in Produktion genommen werden, was wertvolle Zeit kostet. Darüber hinaus ist in einigen Fällen ein zusätzlicher Nachbesserungsbereich erforderlich, der mit einer zusätzlichen Ausbeutung von Arbeitskräften und Werkzeugen verbunden ist. [^3]
+
+# Siehe auch
+
+* [Lean Projektmanagement](Lean_Projektmanagement.md)
+* [Nachhaltige Entwicklung](Nachhaltige_Entwicklung.md)
 
 # Quellen
 
-[^1]: https://www.produktion.de/technik/die-7-verschwendungsarten-und-was-sie-dagegen-tun-koennen-335.html)
 
-[^2]: https://der-prozessmanager.de/aktuell/wissensdatenbank/arten-der-verschwendung)
-
-[^3]:[Die 7 Verschwendungsarten in Lean: Wie Sie Ihre Ressourcen optimieren ]   https://kanbanize.com/de/lean-management-de/wert-verschwendung/7-arten-der-verschwendung-nach-lean)
-
-[^4]:[ Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Die 7 Verschwendungsarten und was Sie dagegen tun können](https://www.produktion.de/technik/die-7-verschwendungsarten-und-was-sie-dagegen-tun-koennen-335.html)  
+[^2]: [7 Arten der Verschwendung – einfach erklärt!](https://der-prozessmanager.de/aktuell/wissensdatenbank/arten-der-verschwendung)  
+[^3]: [Die 7 Verschwendungsarten in Lean: Wie Sie Ihre Ressourcen optimieren](https://kanbanize.com/de/lean-management-de/wert-verschwendung/7-arten-der-verschwendung-nach-lean)
+[^4]: [Lean Methoden und Prozesse: Verschwendung vermeiden](https://www.management-circle.de/blog/lean-methoden-und-prozesse-verschwendung-vermeiden/)
