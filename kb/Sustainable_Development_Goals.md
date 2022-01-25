@@ -20,9 +20,8 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 
 * Die umweltbezogenen Ziele können den Zielen 13, 14 und 15 entsprechen und beziehen sich auf die Erziehung zur ökologischen Zivilisation, die Umwelterziehung, die Erziehung zur biologischen Vielfalt, die Erziehung zum Klimawandel und die Erziehung zur Katastrophenvorsorge. Jedes Ziel und die verschiedenen Ziele sind direkt oder indirekt miteinander verknüpft und können in der Praxis auch klassifiziert oder auf eine pädagogischere Weise miteinander verbunden werden.
 
-![Beispielabbildung](https://de.wikipedia.org/wiki/Ziele_für_nachhaltige_Entwicklung#/media/Datei:Sustainable_Development_Goals.jpg)
+![Beispielabbildung] (https://de.wikipedia.org/wiki/Ziele_für_nachhaltige_Entwicklung#/media/Datei:Sustainable_Development_Goals.jpg)
 
-*lustiges Testbild*
 
 # Personalbezogene Ziele
 
