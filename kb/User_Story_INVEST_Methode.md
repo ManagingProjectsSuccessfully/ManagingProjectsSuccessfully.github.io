@@ -6,12 +6,12 @@ anrechnung: a
 ---
 
 # User Stories
-Bei Scrum erstellt der [Product Owner](Produkt_Owner.md) einen [Product Backlog](Product_Backlog.md), einer Liste von Aufgaben, die in Form von User Stories wiedergegeben werden. 
-Diese werden vom Product Owner nach Prioritäten unterteilet. 
+Bei [Scrum](SCRUM.md) erstellt der [Product Owner](Product_Owner.md) einen [Product Backlog](Product_Backlog.md), eine Liste von Aufgaben, die in Form von [User Stories](User_Story.md) wiedergegeben werden. 
+Diese werden vom Product Owner nach Prioritäten unterteilt. 
 Gemeinsam mit dem Scrum-Team wird der Arbeitsaufwand für die einzelnen Aufgaben ermittelt, anhand dessen der ROI (Return on Investment = Kapitalrendite) und anschließend die weitere Priorisierung. [^1]
 
 ## Aufbau User Story
-Eine [User Story](User_Story.md) ist also die Beschreibung (Story) eines Benutzers (User) und dessen Anforderungen. 
+Eine User Story ist somit die Beschreibung (Story) eines Benutzers (User) und dessen Anforderungen. 
 In wenigen Sätzen wird dort beschrieben, was ein Benutzer mit dem zu entwickelnden Produkt oder der Software machen will. 
 Dabei ist der Aufbau der Formulierung wichtig, welcher wie folgt aussieht: 
 
@@ -36,39 +36,51 @@ Die Kriterien sind wie folgt:
 * S = Small (= klein)
 * T = Testable (= testbar) [^4]
 
-## Independent
-Independent bedeutet unabhängig. Jede User Story muss also unabhängig von den anderen Stories sein. 
+### Independent
+Jede User Story muss unabhängig von den anderen Stories sein. 
 Sie dürfen nicht auf anderen Stories basieren oder von ihnen und ihrer Erfüllung abhängig sein. [^5]
 
-## Negotiable
-Negotiable steht für verhandelbar. Eine User Story ist nicht nach dem ersten Entwurf bereits fest. 
+### Negotiable
+Eine User Story ist nicht nach dem ersten Entwurf bereits fest. 
 Eine User Story wird gemeinsam von Kunden und Entwicklern präzisiert. 
 So können Anforderungen an die Funktionalität aus kundensicht mit eingebracht werden. 
 Für die Absprache der Details und die Umsetzungsmöglichkeiten ist das Mitwirken der Entwickler wichtig. [^5]
 
-## Valuable
-Wertvoll - nur User Stories, die einen erkennbaren Mehrwert liefern, bieten einen Grund zur Weiterentwicklung.
+### Valuable
+Nur User Stories, die einen erkennbaren Mehrwert liefern, bieten einen Grund zur Weiterentwicklung.
 Um dieses Kriterium zu erfüllen, ist es sinnvoll die Story direkt vom Benutzer schreiben zu lassen. [^5]
 
-## Estimable
+### Estimable
 Das E steht für Estimable (schätzbar) oder auch Estimatable (abschätzbar).
-Bereits bei den Verhandlungen zwischen Kunden und Entwicklern zur Erstellung der User Story ist die Umsetzungsmöglichkeit angesprochen.
+Bereits bei den Verhandlungen zwischen Kunden und Entwicklern zur Erstellung der User Story wird die Umsetzungsmöglichkeit angesprochen.
 Die Umsetzung der in der Story genannten Anforderungen muss abgeschätzt werden. 
 Hierbei gehen zudem fachliche und technische Kompetenzen ein, die für die Umsetzung erforderlich sind. 
-Es muss also geprüft und abgeschätzt werden, ob eine User Story erfüllt werden kann. [^5]
+Es muss folglich geprüft und abgeschätzt werden, ob eine User Story erfüllt werden kann. [^5]
 
-## Small
+### Small
 Small kann auch besser als 'sized appropriately' beschrieben werden. 
-Eine User Story soll also eine angemessene Größe haben.
+Eine User Story soll demnach eine angemessene Größe haben.
 Small, also dass die User Story klein ist, als reinen Anhaltspunkt ist zu ungenau. 
 Wichtig ist zu beachten, dass eine User Story sowohl zu klein als auch zu groß sein kann. 
-Eine angemessene Größe ist also wichtig, sowohl bei der Formulierung als auch bei der Umsetzung. 
+Eine angemessene Größe ist wichtig, sowohl bei der Formulierung als auch bei der Umsetzung. 
 Über den Umfang entscheidet das Team, jedoch kann man als Richtwert ein Minimum von einem halben Personentag heranziehen und als Maximum zehn Personentage. [^5]
 
-## Testable
+### Testable
 Die Testbarkeit einer User Story ist das letzte Kriterium. 
 Es ist besonders wichtig, da durch die Testbarkeit geprüft werden kann, ob eine Story erfolgreich umgesetzt wurde. 
 Diese Eigenschaft ist deshalb zwingend zu gewährleisten. [^5]
+
+
+# Siehe auch
+* [Scrum](SCRUM.md)
+* [Product Owner](Product_Owner.md)
+* [Product Backlog](Product_Backlog.md)
+* [User Story](User_Story.md)
+* [Definition of Done](Definition_of_Done.md)
+
+# Weiterführende Links
+* [User Story Wikipedia](https://de.wikipedia.org/wiki/User_Story)
+* [Scrum Wikipedia](https://de.wikipedia.org/wiki/Scrum#Product_Backlog)
 
 # Quellen
 [^1]: [Product Backlog](https://scrumguide.de/product-backlog/)
