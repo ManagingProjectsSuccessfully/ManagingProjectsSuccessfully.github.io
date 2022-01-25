@@ -16,45 +16,54 @@ anrechnung: k
  > - [Quellen](Microsoft_Planner_PM_Tool.md#quellen)
 
 
-Microsoft Planner ist ein Aufgabenverwaltungs-Tool entwickelt von Microsoft und seit dem 06.Juni.2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education und Enterprise Umgebung.[^1] [^2]
+Microsoft Planner ist ein von Microsoft entwickeltes [Aufgabenverwaltungs-Tool](Uebersicht_PM_Tools.md) und seit dem 06. 06. 2016 Teil der Microsoft 365 (ehemals Office 365) Business, Education und Enterprise Umgebung.[^1] [^2]
 
-Seitens Microsoft wird dafür eine webbasierte Anwendung, sowie die Möglichkeit der lokalen Verwendung über gängige Betriebssysteme wie Microsoft Windows, MacOS und mobile Betriebssysteme wie Android, iOS und iPadOS angeboten.[^1] [^3]
+Seitens Microsoft wird dafür eine webbasierte Oberfläche und eine lokale Anwendung angeboten. Somit werden bekannte Betriebssysteme wie Microsoft Windows, MacOS, Android, iOS und iPadOS unterstützt.[^1] [^3]
 
-Der Microsoft Planner bietet vielseitige Funktionen darunter z.B. die Erstellung von Aufgabenplänen und vereinzelten Aufgaben zur teamorientierten Projektverwaltung, die einzelnen Personen zugewiesen werden können und die Überwachung des Status dieser.[^3]  
+Der Microsoft Planner bietet vielseitige Funktionen, darunter etwa  die Erstellung von Aufgabenplänen und vereinzelten Aufgaben zur teamorientierten Projektverwaltung. Aufgabenpläne und Aufgaben können einzelnen Personen zugewiesen und zusätzlich der Status jederzeit angezeigt werden.[^3]  
 
-Der Microsoft Planner wird besonders aufgrund der intuitiven Oberfläche und der Office 365 Integration in vielen Unternehmen eingesetzt.[^3]
+Das Tool wird besonders aufgrund der intuitiven Oberfläche und der Office 365 Integration in vielen Unternehmen eingesetzt.[^3]
 # Oberfläche und Funktionen [^4]
 
 | Abbildung     | Beschreibung |
 | ----------- | ----------- |
-|![Planerstellung beim First Start](Microsoft_Planner_PM_Tool/MS_Planner_01.png) *Abbildung 1 - Planerstellung*| • Plannamen vergeben<br>• Plan zu einer bereits existierenden Microsoft 365 Gruppe hinzufügen<br>•	Sichtbereich des Plans beschränken (besonders in großen Unternehmen mit zentraler IT relevant)<br> • optionale Gruppenbeschreibung|
-|!["Planner Hub"](Microsoft_Planner_PM_Tool/MS_Planner_02.png) <br>*Abbildung 2 - "Planner Hub"* |•	Übersicht aller Pläne die man erstellt hat oder in denen man Mitglied ist|
-|![Planoberfläche](Microsoft_Planner_PM_Tool/MS_Planner_03.png) <br>*Abbildung 3 - Planoberfläche in "Board" Übersicht* |•	Zugriff über Auswahl eines Plans <br>•	Aufgaben lassen sich in drei verschiedenen Übersichten anzeigen<br>•	"Board" Übersicht als digitales [KANBAN-Board](Kanban_Boards.md) mit [KANBAN-Karten](Kanban_Karten.md)[^5] <br>•	"Board" Übersicht stellt Aufgaben in Form von Kärtchen in Spalten ("Buckets") dar<br> •	"Buckets"	beliebig benennbar und Anzahl unbeschränkt<br>•	Aufgaben nach selbstbestimmten Faktoren gruppierbar (hier: Gruppierung nach Bearbeitungsstand)|
-|![Aufgaben hinzufügen](Microsoft_Planner_PM_Tool/MS_Planner_04.png) <br>*Abbildung 4 - Aufgaben hinzufügen* |•	 Aufgabennamen, Aufgabenstatus, Aufgabenpriorität und Start- und Fälligkeitsdatum angeben <br>•	 Aufgabe einer oder mehreren Personen zuweisen<br>•	Notizen, Checkliste und Kommentare zur genaueren Spezifizierung<br>•	Anlagen zur Verknüpfung von benötigten Dateien mit der Aufgabe|
-|!["Diagramme"](Microsoft_Planner_PM_Tool/MS_Planner_05.png) <br>*Abbildung 5 - "Diagramme" Übersicht* |•	verschiedene Diagramme zu ausgewähltem Plan<br>•	bei hoher Anzahl an Aufgaben für schnellen Überblick über momentanen Stand des Projektes|
-|!["Zeitplan"](Microsoft_Planner_PM_Tool/MS_Planner_06.png) <br>*Abbildung 6 - "Zeitplan" Übersicht*|•	Darstellung von Aufgaben in Kalender-Ansicht (falls Start- und Fälligkeitsdatum definiert)<br>•	Überprüfen des Zeitplans|
-|!["Mehr"](Microsoft_Planner_PM_Tool/MS_Planner_08.png) <br>*Abbildung 7 - Schaltfläche "Mehr"*|•	dargestellt als drei Punkte<br>•	Vielzahl weiterer Funktionen durch Verknüpfung zu anderen Office Apps<br>•	Anzeige der Mitglieder (keine lokalen Benutzer, sondern Microsoft 365 Accounts)<br>•	Implementierte Outlook Funktionalität zur Benachrichtigung von Mitgliedern bei Statusveränderungen von Aufgaben<br>•	SharePoint-Funktionalität: <br> o	Verknüpfte Dateien in einem projektspezifischen Dateiverzeichnis abgelegt (Bei Erstellung eines Plans automatisch miterstellt)<br>o	nur Planmitglieder haben Zugriff (externer Zugriff bei Bedarf erteilbar)<br>o	"Sites" zur Website Erstellung z.B. zur Projektbeschreibung<br>• "Notizbuch" - eigens für den ausgewählten Plan erstelltes OneNote-Notizbuch|
+|<br>**Startoberfläche des Planners**<br><br>![Planerstellung beim First Start](Microsoft_Planner_PM_Tool/MS_Planner_01.png) *Abbildung 1 - Planerstellung*<br><br>|• Plannamen vergeben<br><br>• Plan zu einer Microsoft 365 Gruppe hinzufügen<br><br>•	Zugriff und Sichtbereich des Plans einschränken (besonders relevant in großen Unternehmen mit zentraler IT)<br><br> • optionale Gruppenbeschreibung<br><br>|
+|<br>**"Planner Hub" Oberfläche**<br><br>!["Planner Hub"](Microsoft_Planner_PM_Tool/MS_Planner_02.png) <br>*Abbildung 2 - "Planner Hub"* <br><br>|•	Übersicht aller Pläne, in denen man Mitglied ist|
+|<br>**"Board" Oberfläche**<br><br>![Planoberfläche](Microsoft_Planner_PM_Tool/MS_Planner_03.png) <br>*Abbildung 3 - Planoberfläche in "Board" Übersicht* <br><br>|•	Zugriff durch Auswahl eines Plans <br><br>•	Darstellung der Aufgaben in drei verschiedenen Übersichten<br><br>•	"Board" Übersicht als digitales [KANBAN-Board](Kanban_Boards.md) mit [KANBAN-Karten](Kanban_Karten.md)[^5] <br><br>•	"Board" Übersicht stellt Aufgaben in Form von Kärtchen in Spalten ("Buckets") dar<br><br> •	"Buckets"	beliebig benennbar und Anzahl unbeschränkt<br><br>•	Aufgaben nach selbstbestimmten Faktoren gruppierbar (hier: Gruppierung nach Bearbeitungsstand)<br><br>|
+|<br>**"Aufgabe hinzufügen" Oberfläche**<br><br> ![Aufgaben hinzufügen](Microsoft_Planner_PM_Tool/MS_Planner_04.png) <br>*Abbildung 4 - Aufgaben hinzufügen*<br><br> |•	 Aufgabennamen, Aufgabenstatus, Aufgabenpriorität und Start- und Fälligkeitsdatum angeben <br><br>•	 Aufgabe einer oder mehreren Personen zuweisen<br><br>•	Notizen, Checkliste und Kommentare zur genaueren Spezifizierung<br><br>•	Anlagen zur Verknüpfung der Aufgabe mit benötigten Dokumenten<br><br>|
+|<br>**"Diagramme" Oberfläche**<br><br>!["Diagramme"](Microsoft_Planner_PM_Tool/MS_Planner_05.png) <br>*Abbildung 5 - "Diagramme" Übersicht* <br><br> |•	verschiedene Diagramme zu ausgewähltem Plan<br><br>•	schneller Überblick über momentanen Stand des Projektes auch bei hoher Anzahl an Aufgaben|
+|<br> **"Zeitplan" Oberfläche**<br><br>!["Zeitplan"](Microsoft_Planner_PM_Tool/MS_Planner_06.png) <br>*Abbildung 6 - "Zeitplan" Übersicht*<br><br>|•	Darstellung von Aufgaben in Kalender-Ansicht (falls Start- und Fälligkeitsdatum definiert)<br><br>•	Überprüfung des Zeitplans|
+|<br>**"Mehr" Schaltfläche**<br><br>!["Mehr"](Microsoft_Planner_PM_Tool/MS_Planner_08.png) <br>*Abbildung 7 - Schaltfläche "Mehr"*|•	dargestellt als drei Punkte<br><br>•	Vielzahl weiterer Funktionen durch Verknüpfung zu anderen Office Apps<br><br>•	Anzeige der Mitglieder (keine lokalen Benutzer, sondern Microsoft 365 Accounts)<br><br>•	implementierte Outlook Funktionalität zur Benachrichtigung von Mitgliedern bei Statusveränderungen von Aufgaben<br><br>•	SharePoint-Funktionalität: <br><br> o	verknüpfte Dateien in einem projektspezifischen Dateiverzeichnis (Wird bei Erstellung eines Plans automatisch miterstellt)<br><br>o	Zugriff nur für Planmitglieder (externer Zugriff bei Bedarf erteilbar)<br><br>o	"Sites" zur Website Erstellung z.B. zur Projektbeschreibung<br><br>• "Notizbuch" - speziell für den ausgewählten Plan erstelltes OneNote-Notizbuch<br><br>|
+
 
 # Vergleich zu Microsoft Project und To Do 
 ## Microsoft To Do
-Mit Microsoft To Do lassen sich To-Do Listen erstellen, die dem Einzelanwender beim Aufgabenmanagement dienen. Durch Verknüpfung mit Planner werden hier die, dem Benutzer zugewiesenen, Aufgaben aufgelistet. [^6] [^7]
+Mit Microsoft To Do lassen sich To-Do Listen erstellen, die den Einzelanwender beim Aufgabenmanagement unterstützen. Durch Verknüpfung mit Planner werden hier dem Benutzer zugewiesene Aufgaben aufgelistet. [^6] [^7]
 
 ## [Microsoft Project](Microsoft_Project_PM_Tool.md)
 Im Vergleich zum Microsoft Planner wird der Fokus bei [Microsoft Project](Microsoft_Project_PM_Tool.md) nicht nur auf einzelne Aufgaben und Projekte gelegt.
-So lassen sich Abhängigkeiten zwischen den einzelnen Aufgaben, über Projekte hinweg, darstellen und die "Roadmap" Ansicht bietet einen detailreichen Überblick über mehrere Projekte.[^7] [^8]
+So lassen sich Abhängigkeiten zwischen den einzelnen Aufgaben über Projekte hinweg darstellen. Die "Roadmap"- Ansicht bietet einen detaillierten Überblick über mehrere Projekte.[^7] [^8]
 
-Seitens Microsoft wird der Planner für kleinere Teams und kurzweilige Projekte und [Project](Microsoft_Project_PM_Tool.md) für größere umfangreichere Projekte und Teams empfohlen. Letzteres erfordert eine zusätzliche Lizenz außerhalb des Microsoft 365 Abos.[^7] [^8]
+Seitens Microsoft wird der Planner für kleinere Teams mit kurzweiligen Projekten und [Project](Microsoft_Project_PM_Tool.md) für größere umfangreichere Projekte und Teams empfohlen. Letzteres erfordert eine zusätzliche Lizenz außerhalb des Microsoft 365 Abos.[^7] [^8]
 
 # Siehe auch
+[Projektmanagementsoftware](Projektmanagementsoftware.md)  
+[Übersicht Projektmanagement Tools](Uebersicht_PM_Tools.md)  
+[Trello](Trello_PM_Tool.md)  
+[Asana](Asana_PM_Tool.md)  
+[Awork](Awork_PM_Tool.md)  
+[ClickUp](ClickUp_PM_Tool.md)  
+[Java](Java_PM_Tool.md)  
+[Jira](Jira_PM_Tool.md)  
+[MeisterTask](MeisterTask_PM_Tool.md)  
+[Podio](Podio_PM_Tool.md)  
+[IT-Projekte](IT-Projekte.md)  
 [KANBAN](KANBAN.md)  
 [KANBAN_Karten](KANBAN_Karten.md)  
-[KANBAN_Boards](KANBAN_Boards.md)  
-[Aufgabenteilung](Aufgabenteilung.md)  
-[Projektplanung](Projektplanung.md)  
-[Taskboard](Taskboard.md)  
-[Zeitplanung](Zeitplanung.md)
-[Erfolgsmessung](Erfolgsmessung.md)  
-[IT-Projekte](IT-Projekte.md)
+[KANBAN_Boards](KANBAN_Boards.md) 
+
+
+
 
 # Quellen
 [^1]: [Microsoft Planner - Wikipedia EN](https://en.wikipedia.org/wiki/Microsoft_Planner)  
