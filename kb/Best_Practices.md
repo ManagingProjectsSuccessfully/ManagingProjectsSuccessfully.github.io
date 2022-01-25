@@ -2,103 +2,54 @@
 title: Best_Practices
 tags: agil klassisch
 author: tobi0211
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Best_Practices um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Als Best Practices werden allgemeine Handlungsempfehlungen bzw. Vorgehensweisen bezeichnet, die sich in der Praxis bewährt haben und auf Empirie basieren. Dabei sind Best Practices nicht als "die optimale Lösung" anzusehen, sondern als Erfahrungswert, der im Vergleich zu anderen Erfahrungswerten zu den besten Ergebnissen bei einer Aufgabe führt.[^1] Best Practices spielen im Projektmanagement eine wichtige Rolle, bspw. lassen sich durch ihre Anwendung Fehler vermeiden.[^2] Das Konzept von Best Practices ist aber nicht auf [Projektmanagement](Projektmanagement.md) beschränkt, sondern findet auch anderweitig Anwendung.[^1]
 
 
-# Aspekt 1
+## 1. Frühzeitige und regelmäßige Kommunikation mit allen Stakeholdern
+Von Projektstart an sollten alle Stakeholder im Rahmen des [Stakeholdermanagements](Stakeholdermanagement.md) über Ziele und aktuelle Zwischenstände des Projekts regelmäßig informiert werden. Zu den Stakeholdern gehören beispielsweise die Teammitglieder, Manager oder auch Externe wie Kunden.[^3] 
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## 2. Kommunikation von Auswirkungen bei Erweiterung des Projektumfangs
+Direkt an Punkt 1 schließt sich die Kommunikation bei Erweiterungen des Projektumfangs an. Oft ergeben sich während des Projekts neue Anfragen von Stakeholdern, bspw. dem Vorstand, die Auswirkungen auf Zeitplan und Budget haben können. Auch hier sollte frühzeitig mit allen Stakeholdern kommuniziert werden, um Konflikten vorzubeugen und bei allen ein klares Verständnis über sich ergebende Abweichungen durch Erweiterung des Projektumfangs zu schaffen.[^4] 
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+## 3. Betreiben von Risikomanagement
+Im Projekt ist es sehr wichtig mögliche Risiken zu identifizieren, einzuschätzen wie sich diese auf das Projekt auswirken können und daraus geeignete Maßnahmen zu entwickeln. Hierdurch sollen sowohl Kostenexplosionen, als auch Sprengungen des Zeitplans vermieden werden. Im Rahmen des [Risikomanagements](Risikomanagement.md) eines Projekts sollten daher neben festen Eskalationsplänen auch verschiedene [Eskalationsstufen](Eskalationsstufen.md) für Probleme etabliert werden. Beide haben zum Ziel bei der Bewältigung von Problemen zu helfen, in der Praxis hat sich nämlich gezeigt, dass wichtige Stakeholder oft zu spät über Komplikationen informiert werden. Beim Risikomanagement sollen neben Risiken aber auch Chancen identifiziert werden. Durch das Wählen richtiger Schritte können ihre Eintrittswahrscheinlichkeiten wiederum erhöht werden.[^4] 
 
-![Beispielabbildung](Best_Practices/test-file.jpg)
+## 4. Detaillierter Projektplan
+Der Projektplan soll zur Organisation von Aufgaben und Verantwortlichkeiten dienen. Hierzu sind neben Zeit, Budget und Umfang auch Ziele und Probleme in die [Projektplanung](Projektplanung.md) zu integrieren. Bei der Verteilung von Aufgaben auf Ebene einzelner Arbeitspakete ist es wichtig darauf zu achten, dass diese in vorgegebener Zeit erledigt werden können. Überarbeitung und Demotivation bei den Projektmitgliedern können dadurch verhindert werden. Ein ständiges Monitoring des Projektfortschritts ist hierfür hilfreich.[^4]
+Der beigefügte Arbeitsplan zeigt beispielhaft von oben nach unten abgebildet die verschiedenen Projektphasen inklusive dazugehöriger Arbeitspakete und weiteren Informationen, wie dem Verantwortlichen, dem Status und das Enddatum des Arbeitspakets. Von links nach rechts wird der geplante zeitliche Verlauf des Projekts abgebildet.
 
-*lustiges Testbild*
+![IC-Work-Plan-Template-GERMAN.png](Best_Practices/IC-Work-Plan-Template-GERMAN.png)[^5]
 
-# Aspekt 2
+## 5. Schriftliche Dokumentation
+Das schriftliche Festhalten von allen Informationen ist in einem Projekt sehr wichtig. Damit soll sichergestellt werden, dass den Stakeholdern die für sie relevanten Daten zur Verfügung stehen. Des Weiteren kann die [Projektdokumentation](Projektdokumentation.md) später dazu dienen Entscheidungen zu treffen oder nachzuvollziehen, warum bestimmte Entscheidungen getroffen wurden.[^2] 
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+## 6. Definierte Start- und Endpunkte
+Zu Beginn eines Projekts sollte ein [Kick-Off-Termin](Projekt_Kick_Off.md) abgehalten werden. Dieser bietet die Gelegenheit in einer Veranstaltung alle Projektbeteiligten zu versammeln, sich kennenzulernen und auf das gemeinsame Arbeiten einzustimmen.[^4] Nach dem Projektende wiederum ist der Moment erreicht, an dem es Zeit ist zu analysieren wie das Projekt abgelaufen ist, welche Fehler gemacht worden sind und was gut gelaufen ist. Hier sollten erneut alle Projektbeteiligten in einer Besprechung zusammengebracht werden, um deren Ansichten über Erfolge und Misserfolge zu sammeln. Ziel ist es die [Lessons Learned](Lessons_Learned.md) zu nutzen, um nächste Projekte zu optimieren und ggf. neue Best Practices zu formulieren. Dadurch können im Idealfall auch Kosten und Zeit gespart werden.[^3]
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Siehe auch
 
-So kann man eine Tabelle erstellen:
+* [Stakeholdermanagement](Stakeholdermanagement.md)
+* [Risikomanagement](Risikomanagement.md)
+* [Eskalationsstufen](Eskalationsstufen.md)
+* [Projektplanung](Projektplanung.md)
+* [Projektdokumentation](Projektdokumentation.md)
+* [Projekt-Kick-Off](Projekt_Kick_Off.md)
+* [Lessons Learned](Lessons_Learned.md)
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Weiterführende Literatur
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+* [BEST PRACTICE: ERFOLGSMUSTER ERKENNEN UND DUPLIZIEREN](https://www.personalmanagement.info/hr-know-how/fachartikel/detail/best-practice-erfolgsmuster-erkennen-und-duplizieren/)
+* [Projektmanagement: 9 Best Practices zur Steigerung der Erfolgschancen Ihrer Projekte](https://www.pebco.ag/impuls/projektmanagement-9-best-practices-zur-steigerung-der-erfolgschancen-ihrer-projekte/)
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+## Quellen
 
-### Ebene-3-Überschrift
+[^1]: [Best Practice](https://www.projektmagazin.de/glossarterm/best-practice) 
+[^2]: [10 Projektmanagement Best Practices, die Sie nicht vergessen sollten](https://www.wrike.com/de/blog/projektmanagement-best-practices-infografik/)
+[^3]: [10 Best Practices im Projektmanagement](https://www.wrike.com/de/blog/10-best-practices-im-projektmanagement/)
+[^4]: [Projektmanagement: 9 Best Practices zur Steigerung der Erfolgschancen Ihrer Projekte](https://www.pebco.ag/impuls/projektmanagement-9-best-practices-zur-steigerung-der-erfolgschancen-ihrer-projekte/)
+[^5]: [Die besten Vorlagen für Projektpläne](https://de.smartsheet.com/top-excel-project-plan-templates)
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Best_Practices.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
-
-# Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 

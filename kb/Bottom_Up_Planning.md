@@ -5,8 +5,6 @@ author: FAUdennis96
 anrechnung: k
 ---
 
-
-
 Bottom Up Planning beschreibt eine Herangehensweise für Projekte. Die Planung beginnt auf den unteren Hierarchieebenen und arbeitet sich nach oben, in die Führungsebenen.
 Der Gegenspieler dazu ist das Top Down Planning, bei dem der Planungsprozess in der Regel entgegengesetzt verläuft. 
 
@@ -17,6 +15,12 @@ Der Grundstein für die im folgenden Beitrag beschriebene Thematik, wurde schon 
 
 ![image](https://user-images.githubusercontent.com/92928630/143274774-cfc8e827-57e2-444a-95f2-88b1e4cc9f1e.png)
 
+
+
+Das große Ganze, also das Ergebnis eines Prozesses oder Projekts ist dass, worauf es im Endeffekt ankommt. Es gibt in der Regel mehrere Wege, Methoden und Vorgehensweisen um erfolgreich zu sein. Bezogen auf das Agile Projektmanagement unterscheidet man die [Top_Down_Planning](Top_Down_Planning.md) und die Bottom Up Planning Methode. Hierbei unterscheidet sich lediglich die Vorgehensweise, der Output ist in der Regel identisch. Beide Methoden haben Ihre Vor- und Nachteile und sind als Ganzes, wenn sie kombiniert werden, mehr wert als die Summe der Einzelteile. Im Folgenden wird die Bottom Up Planning Methode vorgestellt.
+
+
+## Wie funktioniert Bottom Up Planning?
 
 
 Das große Ganze, also das Ergebnis eines Prozesses oder Projekts ist dass, worauf es im Endeffekt ankommt. Es gibt in der Regel mehrere Wege, Methoden und Vorgehensweisen um erfolgreich zu sein. Bezogen auf das Agile Projektmanagement unterscheidet man die [Top_Down_Planning](Top_Down_Planning.md) und die Bottom Up Planning Methode. Hierbei unterscheidet sich lediglich die Vorgehensweise, der Output ist in der Regel identisch. Beide Methoden haben Ihre Vor- und Nachteile und sind als Ganzes, wenn sie kombiniert werden, mehr wert als die Summe der Einzelteile. Im Folgenden wird die Bottom Up Planning Methode vorgestellt.
@@ -33,7 +37,6 @@ Der [Aggregationsgrad](https://www.fremdwort.de/suchen/bedeutung/aggregationsgra
 ## Wo kommt Bottom Up Planning zum Einsatz?
 
 Die Anwendungsbereiche sind schier endlos. Von der Informatikbranche, über die städtische und regionale Raumplanung bis hin zu Marketingstrategien sind [Top_Down_Planning](Top_Down_Planning.md) und Bottom Up Planning Methoden beliebt[^6].Ein prominentes Beispiel für den Wandel zum Bottom Up Ansatz stellt die [New York Times](https://www.nytimes.com/subscription?campaignId=7UXFY&ds_c=71700000074377394&gclid=CjwKCAiA4veMBhAMEiwAU4XRrxJ7baq3Vw4ZRV62Qfy0EOZmwmyQYrDtExpYe8A33M2WSUxHs5CzqBoCc0AQAvD_BwE&gclsrc=aw.ds) dar. Vor einigen Jahren wurde in den USA darüber berichtet, dass die Geschäftsleitung der einflussreichen US-Amerikanischen Tageszeitung das Gefühl hatte, nicht in der Lage zu sein die erforderlichen Bedingungen für die Entstehung eines dynamischen Arbeitsumfeldes und eine erfolgreiche Organisation zu erfüllen. Zentralisierte Führung hatte zur Folge, dass leitende Redakteure sich völlig kontrolliert fühlten und keinen Spielraum für Eigenengagement hatten. Alle Projektentscheidungen wurden nur von den Gefühlen und Meinungen des Projektmanagers beeinflusst. Das Ergebnis war eine schlechte Zusammenarbeit der Journalisten und wenig Motivation für die tägliche Arbeit. Den leitenden Führungskräften wurde bewusst, dass sie ihren Teams mehr Freiheit geben mussten und den Führungsstil ändern sollten. Es dauerte einige Zeit bis ein Bottom Up Management in die Organisation eingeführt werden konnte. Doch seither bestätigen die Mitarbeiter, dass die Zusammenarbeit effizienter und effektiver ist[^7].
-
 
 # Quellen
 

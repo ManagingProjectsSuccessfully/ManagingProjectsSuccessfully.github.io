@@ -1,104 +1,65 @@
 ---
 title: Managing_Change_in_Organisations
-tags: agil klassisch
+tags: klassisch
 author: AlineBurger
-anrechnung: k oder a
+anrechnung: k 
 ---
+Globale Phänomene wie die fortlaufende Digitalisierung, der Klimawandel und die damit einhergehende Energiewende, oder auch dynamische politische und demografische Entwicklungen stellen Organisationen heute vor gravierende Herausforderungen. Der Änderungs-Druck auf Unternehmen ist hoch, und professionelles Change-Management entscheidet über ihre Zukunftsfähigkeit.
+„Change-Management in Organisations“ umfasst alle Planungen und Maßnahmen, die einer angestrebten Veränderung einer Organisation oder Teilen einer Organisation dienen.[^1]
+# Phasen des Change Mangements
+Zweck des Change Managements ist es, die Vision der Firmenleitung auf allen Arbeitsebenen zu realisieren. Dazu ist in der Regel eine Vielzahl von koordinierten Veränderungsprojekten notwendig. 
+Im Folgenden möchte ich den typischen Setup und Ablauf solch eines Projektes darstellen:
+## 1. Entwicklung einer Zielvorstellung
+Die Ziele einer Organisation sind die wichtigsten Faktoren, sie bestimmen ihre Struktur. [^5]
+Der Impuls für ein Change-Projekt geht vom Top-Management der Organisation aus.[^3] Die Leitlinien für die geplante Veränderung werden vorgegeben durch die Unternehmensvision und die Unternehmensstrategie. Die Vision wird auf die Unternehmenseinheiten heruntergebrochen und konkretisiert. Dadurch lässt sich für jede Einheit ein Zielzustand definieren. Aus dem Vergleich mit dem Istzustand ergeben sich der Veränderungsbedarf und klare Zielvorgaben.[^2]
+## 2. Planung
+In dieser Phase werden alle Schritte, die zur Erreichung der Ziele notwendig sind, in einem Projektplan erfasst. Dabei werden Rahmenbedingen festgelegt. 
+* Projektumfang
+* zeitlicher Ablauf
+* notwendige Ressourcen 
+* und das Budget werden bestimmt. [^3]
 
-Kurzbeschreibung zu Managing_Change_in_Organisations um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Während der Planungsphase ist es sinnvoll, dass der Change Manager im regen Austausch mit den beteiligten Fachabteilungen, dem HR-Bereich und mit externen oder internen Beratern steht. Dadurch werden grobe Fehleinschätzungen vermieden und die Zuverlässigkeit von Zeitplanung und Budget gewährleistet.[^2]
+Schon während der Planungsphase wird auch an die Kontrolle der Zielerreichung gedacht. KPIs (Key Performance Indicators) werden definiert, die den Erfüllungsgrad der Erreichung aller Ziele korrekt messen können.
+## 3. Umsetzung
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+### Anlaufphase
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Der Erfolg des Veränderungsprojektes ist nicht nur von der Effizienz der neuen Strukturen oder Abläufe abhängig, sondern mehr noch von der Bereitschaft der Mitarbeiter, die Veränderung mitzutragen und mitzugestalten. Da jede Änderung von Arbeitsabläufen und Verantwortlichkeiten auch Widerstände erzeugt, ist die Qualität der Kommunikation über den Projekthintergrund der entscheidende Schlüssel für den Projekterfolg.[^4]
+Idealerweise werden deshalb im Umfeld des Kick-Off alle Projektbeteiligte mit den Projektzielen vertraut gemacht und der „Sense of Urgency“, die Notwendigkeit der Veränderung, wird ausführlich adressiert.[^3] Je vertrauter die Beteiligten mit der Unternehmensvision sind, desto leichter können sie die Vision in ihr alltägliches Handeln einfließen lassen und desto mehr Einsicht in die Ziele der Veränderung kann man voraussetzen. 
+Der Change Manager kann durch Anwendung verschiedener Konzepte diese Veränderungsbereitschaft der Mitarbeiter genauer erfassen und verfolgen, zum Beispiel durch das 3 Phasen Modell nach Lewin, das [8 Phasen Modell nach Kotter](8_Step_Process_for_Leading_Change.md), das 7 Phasen Modell nach Streich oder das [ADKAR- Modell von Prosci](ADKAR_Model.md).[^4]
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+Nachdem ein gemeinsames Verständnis der Sinnhaftigkeit des Projekts und der Projektziele erreicht ist, werden im Kick-Off die Projektorganisation vorgestellt und die Arbeitspakete besprochen.[^3]
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+### Umsetzungsphase
+In der eigentlichen Phase der Umsetzung leitet der Projektleiter den Ablauf des Projekts im vom Change Manager bestimmten Rahmen. Dabei muss er stets den zeitlichen Ablauf, die Verfügbarkeit der Ressourcen und das Ergebnis im Auge behalten. 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+![Change_Manager_Dreieck](https://user-images.githubusercontent.com/92948958/146836599-0803fcbe-c595-4c97-b33a-b165ac50e5da.jpg)
 
 
-# Aspekt 1
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Änderungen gegenüber dem Plan muss er mit dem Change Manager kommunizieren. Unmittelbar betroffene Mitarbeiter sollten schon während der Umsetzungsphase die Veränderungen so früh wie möglich testen können. Ihr Feedback kann wertvolle Hinweise für den erfolgreichen weiteren Verlauf des Projekts geben und unvorhergesehene Probleme vermeiden helfen.[^5]
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
-![Beispielabbildung](Managing_Change_in_Organisations/test-file.jpg)
-
-*lustiges Testbild*
-
-# Aspekt 2
-
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
-
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-## Hier gleich noch eine Ebene-2-Überschrift :-)
-
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
-
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
+## 4. Kontrolle
+Nach erfolgreicher Umsetzung wird das Reporting durch das Controlling-Team angepasst, und die neuen Projekt-KPIs werden dort aufgenommen. Auf dieser Basis kann das Management die Zielerreichung überwachen und das weitere Vorgehen festlegen.[^3]
 
 # Siehe auch
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Managing_Change_in_Organisations.md)
+* [3 Phasen Modell nach Lewin](https://de.wikipedia.org/wiki/3-Phasen-Modell_von_Lewin)
+* [7 Phasen Modell nach Streich](https://nlpportal.org/nlpedia/wiki/Ver%C3%A4nderungskurven)
 
 # Weiterführende Literatur
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+* [Project Management Institute](https://www.pmi.org/learning/library/managing-change-through-project-management-1777)
+* [Video: Change Management - einfach erklärt](https://www.youtube.com/watch?v=xt_by1PxKyc)
+* [Leading Change](https://www.amazon.co.uk/Leading-Change-New-Preface-Author/dp/1422186431?tag=wwwelizabharr-21)
+
+
 
 # Quellen
-
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Digitalisierung und Konsum: Erkundung positiver und negativer Potenziale für nachhaltiges Konsumverhalten](https://hlz.hessen.de/files/publications/3e7fdaa3-e3cc-45ac-9346-c9ba290afffa/006-X620-Nachhaltige-Digitalisierung.pdf#page=83)
+[^2]: [Change Management in Organisationen – situative Methodenkonstruktion für flexible Veränderungsprozesse](https://link.springer.com/book/10.1007/978-3-8349-9640-4)
+[^3]: persönliche Kommunikation mit Dr. Buettner. München, 17.11.2021
+[^4]: [Management von Veränderungsprozessen](https://www.hogrefe.com/de/shop/management-von-veraenderungsprozessen.html)
+[^5]: [Project Management Institute](https://www.pmi.org/learning/library/managing-change-through-project-management-1777)
