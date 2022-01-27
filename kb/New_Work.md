@@ -1,18 +1,18 @@
 ---
 title: New_Work
-tags: klassisch, agil
+tags: klassisch, agil, Projektmanagement, Arbeitskonzept, New Work, Mitarbeitermanagement
 author: up67enyq
 anrechnung: k 
 ---
 
-New Work ist ein philosophischer Denkansatz des Sozialphilosophen Frithjof Bergmann, der Anfang der 1980er Jahre begründet wurde.[^1][^7] Er beschreibt eine neue Art der Arbeit unter der Annahme das alte Arbeitssystem sei überholt.[^2]
+New Work ist ein philosophischer Denkansatz des Sozialphilosophen Frithjof Bergmann, der Anfang der 1980er Jahre begründet wurde[^1][^7]. Er beschreibt eine neue Art der Arbeit unter der Annahme das alte Arbeitssystem sei überholt[^2]. Heutzutage finden sich Elemente der weiterentwickelten Theorie in vielen Unternehmen und vor allem im Projektmanagement wider [^6].
 
 
 
 # Entstehungsgeschichte
-New Work wurde Anfang der 1980er Jahre im Zuge der Automatisierung beim Automobilhersteller General Motors in Flint, Michigan von Frithjof Bergmann entwickelt. Bergmann stellte fest, dass nicht die ganze Arbeit abgeschafft, sondern diese nur verkürzt wird.[^1]
+New Work wurde Anfang der 1980er Jahre im Zuge der Automatisierung beim Automobilhersteller General Motors in Flint, Michigan von Frithjof Bergmann entwickelt. Bergmann stellte fest, dass nicht die ganze Arbeit abgeschafft, sondern diese nur verkürzt wird[^1].
 So erarbeitete er das Konzept "New Work". 
-Es bestand daraus, dass die Angestellten sechs Monate in der Fabrik arbeiten und den Rest des Jahres, zusammen mit dem neu gegründeten "Zentrum für neue Arbeit", herausfinden was sie "wirklich, wirklich" wollen. Das Ziel war nicht Entlassungen zu verhindern, sondern Zeit zur professionalisierten Berufungsfindung zu geben.[^7][^6]
+Es bestand daraus, dass die Angestellten sechs Monate in der Fabrik arbeiten und den Rest des Jahres, zusammen mit dem neu gegründeten "Zentrum für neue Arbeit", herausfinden was sie "wirklich, wirklich" wollen. Das Ziel war nicht Entlassungen zu verhindern, sondern Zeit zur professionalisierten Berufungsfindung zu geben[^6].[^7]
 
 # Philosophie
 
@@ -23,20 +23,19 @@ New Work stellt zwei Annahmen in den Vordergrund:
 Daraus leitet Bergmann den Ausdruck "Armut der Begierde" ab.
 Menschen leiden häufig darunter, dass ihre Begierde nachlässt und das Wollen durch die Erziehung unterdrückt wird.[^5]
 
-Es geht bei der neuen Arbeit darum diesen Mangel abzubauen und in den Arbeitenden eine Verbindung zwischen Sehnsucht, Leidenschaft, Erfüllung und Arbeit herzustellen.[^2]
+Es geht bei der neuen Arbeit darum diesen Mangel abzubauen und in den Arbeitenden eine Verbindung zwischen Sehnsucht, Leidenschaft, Erfüllung und Arbeit herzustellen[^2].
 Um Arbeit mit Begierde und positiven Eigenschaften zu verbinden postuliert Bergmann des Weiteren den Zentralen Ausdruck des <b>"wirklich, wirklich Wollen"</b>. 
-Die bewusst gewählte Dopplung verdeutlicht, dass hiermit keine einmalige Überlegung gemeint ist, sondern eine wiederkehrende Auseinandersetzung mit der eigenen Begierde.[^1]
-Es soll die Beschäftigung gefunden werden die das Leben erfüllt und nicht als ein milderes Übel angesehen wird. New Work versucht zwischen dem "wirklich, wirklich Wollen" und dem "davon leben Können" eine Brücke zu schlagen.[^2][^5]
+Die bewusst gewählte Dopplung verdeutlicht, dass hiermit keine einmalige Überlegung gemeint ist, sondern eine wiederkehrende Auseinandersetzung mit der eigenen Begierde[^1].
+Es soll die Beschäftigung gefunden werden, die das Leben erfüllt und nicht als ein milderes Übel angesehen wird. New Work versucht zwischen dem "wirklich, wirklich Wollen" und dem "davon leben Können" eine Brücke zu schlagen[^5].[^2]
 
 New Work übt auch schwere Kritik an der Lohnarbeit, da der Mensch nur arbeitet, um Wünsche eines anderen für Geld zu erfüllen. Die Lohnarbeit steht somit im Konflikt mit dem Grundgedanken der neuen Arbeit: die Arbeit zu machen, weil das Individuum sie wirklich, wirklich will.[^9]
 
 # New Work heute
 
-New Work hat durch die zunehmende Forderung nach selbstbestimmter und erfüllender Arbeit im Unternehmenskontext an Bedeutung gewonnen.[^6] So setzten Unternehmen auf eine Vielzahl an Methoden, um sich "New Work auf die Fahne zu schreiben".[^9] Solche Methoden umfassen bspw. das Anbieten von Homeoffice, Tischtennisplatten und "recreation areas".[^9]
-Bergmann bezeichnet dieses Verständnis jedoch als "Lohnarbeit im Minirock" und als einen, von der ursprünglichen Definition, abweichenden Modebegriff.[^6]
+New Work hat durch die zunehmende Forderung nach selbstbestimmter und erfüllender Arbeit im Unternehmenskontext an Bedeutung gewonnen[^6]. So setzten Unternehmen auf eine Vielzahl an Methoden, um sich "New Work auf die Fahne zu schreiben"[^9]. Solche Methoden umfassen bspw. das Anbieten von Homeoffice, Tischtennisplatten und "recreation areas"[^9].
+Bergmann bezeichnet dieses Verständnis jedoch als "Lohnarbeit im Minirock" und als einen, von der ursprünglichen Definition, abweichenden Modebegriff[^6].
 
-Im Gegensatz dazu gibt es Unternehmen die versuchen New Work zu verstehen und auf die Anforderungen der Wirtschaft anzupassen.
-
+Im Gegensatz dazu gibt es Unternehmen, die versuchen New Work zu verstehen und auf die Anforderungen der Wirtschaft anzupassen.
 Ein Beispiel hierfür ist die "humanfy GmbH".
 
 Die von "humanfy" definierte "New Work Charter" zeigt, wie aus der ursprünglichen recht einfachen Doktrin des "wirklich, wirklich Wollens" ein umfassendes Mitarbeiterkonzept entstanden ist. Die Methodik beinhaltet die wichtigsten Punkte um, die ursprünglichen Anforderungen von New Work mit der heutigen Unternehmenskultur zu versöhnen.[^4]
