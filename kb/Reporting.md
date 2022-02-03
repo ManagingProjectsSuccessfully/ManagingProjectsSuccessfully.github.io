@@ -25,7 +25,7 @@ Beim Reporting werden Berichte zu genau bestimmten Zwecken erstellt. Berichte si
 ## 2.	Projektreporting 
 
 Auch im Projektmanagement stellt das Reporting einen der Wichtigsten Aufgabenbereiche dar. Hierbei geht es um das Erheben, Verwerten und das Bereitstellen von Projektfortschritten und Ergebnissen. Meist wird zur Messung der Ergebnisse ein Soll-Ist-Vergleich genutzt. 
-Wenn es um die inhaltliche Ausgestaltung des Reports geht, ist auch in der Projektumgebung die Zielgerichtetheit und die Adressatenorientierung zu beachten. Die Adressaten eines solchen Reports sind im Projektkontext meist [Projektleiter](Projektleiter.md) oder direkt die uftraggeber. 
+Wenn es um die inhaltliche Ausgestaltung des Reports geht, ist auch in der Projektumgebung die Zielgerichtetheit und die Adressatenorientierung zu beachten. Die Adressaten eines solchen Reports sind im Projektkontext meist [Projektleiter](Projektleiter.md) oder direkt die Auftraggeber. 
 Wichtiger ist in der [Projekt-Startphase](Projektstart.md) die Planung einer geeigneten Reportingstruktur. Zu der Projektstruktur zählen u.a. die Planung eines Berichtsrhythmus und das Festlegen (bzw. identifizieren) von grundlegenden KPIs (kz. Key Performance Indicators). Da das Reporting in Projekten meist noch flexibler und aktueller sein muss als allgemein im Unternehmen empfiehlt es sich hier auf Tools, Umgebungen und Programme zurückzugreifen, die das planen und reporten vereinfachen. Aber auch der [Projektabchlussbericht](Projektabschlussbericht.md) welcher eine Übersicht über die Ergebnisse des Projekts liefert. [^6] [^7]
 
 ## 3.	Tools im Projektreporting [^7] [^8] [^9]
