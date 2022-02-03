@@ -8,7 +8,7 @@ anrechnung: k
 # Reporting
 
 Das Reporting (deutsch Berichtswesen) sieht sich als klassischen Teil des [Controllings](Projektcontrolling.md) und beschäftigt sich mit dem Speichern, Verarbeiten, Visualisieren und der Weitergabe von [Daten](Datenmanagement_im_PM.md). Diese Daten können in vielen Formen auftreten. Das hat meist zum Zweck, sowohl die strategische als auch die operative Unternehmens- oder Behördenführung zu unterstützen, beispielweise bei der [Kostenplanung](Kostenplanung.md).
-Beim Reporting werden Berichte zu genau bestimmten Zwecken erstellt. Berichte sind nicht gleichzusetzen mit Dashboards, welche eine Übersicht über verschiedene, aktuelle Geschäftsbereiche liefern und einen  Überblick ermöglichen. Diese Berichte können sowohl in gedruckter Form, aber auch heute üblicher: digital am Bildschirm erstellt und weitervermittelt werden. [^1] [^2] [^3]
+Beim Reporting werden Berichte zu genau bestimmten Zwecken erstellt. Berichte sind nicht gleichzusetzen mit Dashboards, welche eine Übersicht über verschiedene, aktuelle Geschäftsbereiche liefern und einen Überblick ermöglichen. Diese Berichte können sowohl in gedruckter Form, aber auch heute üblicher: digital am Bildschirm erstellt und weitervermittelt werden. [^1] [^2] [^3]
 
 ## 1.	Aspekte von erfolgreichem Reporting [^4]
 
@@ -25,15 +25,16 @@ Beim Reporting werden Berichte zu genau bestimmten Zwecken erstellt. Berichte si
 ## 2.	Projektreporting 
 
 Auch im Projektmanagement stellt das Reporting einen der Wichtigsten Aufgabenbereiche dar. Hierbei geht es um das Erheben, Verwerten und das Bereitstellen von Projektfortschritten und Ergebnissen. Meist wird zur Messung der Ergebnisse ein Soll-Ist-Vergleich genutzt. 
-Wenn es um die inhaltliche Ausgestaltung des Reports geht ist auch in der Projektumgebung die Zielgerichtetheit und die Adressatenorientierung zu beachten. Die Adressaten eines solchen Reports sind im Projektkontext meist [Projektleiter](Projektleiter.md) oder direkt die Projektauftraggeber. 
-Wichtiger ist in der [Projekt-Startphase](Projektstart.md) die Planung einer geeigneten Reportingstruktur. Zu der Projektstruktur zählen u.a. die Planung eines Berichtsrhythmus und das festlegen (bzw. identifizieren) von grundlegenden KPIs (kz. Key Performance Indicators). Da das Reporting in Projekten meist noch flexibler und aktueller sein muss als allgemein im Unternehmen empfiehlt es sich hier auf Tools, Umgebungen und Programme zurückzugreifen die das planen und reporten vereinfachen. Aber auch der [Projekta
-chlussbericht](Projektabschlussbericht.md) welcher eine Übersicht über die Ergebnisse des Projekts liefert. [^6] [^7]
+Wenn es um die inhaltliche Ausgestaltung des Reports geht, ist auch in der Projektumgebung die Zielgerichtetheit und die Adressatenorientierung zu beachten. Die Adressaten eines solchen Reports sind im Projektkontext meist [Projektleiter](Projektleiter.md) oder direkt die uftraggeber. 
+Wichtiger ist in der [Projekt-Startphase](Projektstart.md) die Planung einer geeigneten Reportingstruktur. Zu der Projektstruktur zählen u.a. die Planung eines Berichtsrhythmus und das Festlegen (bzw. identifizieren) von grundlegenden KPIs (kz. Key Performance Indicators). Da das Reporting in Projekten meist noch flexibler und aktueller sein muss als allgemein im Unternehmen empfiehlt es sich hier auf Tools, Umgebungen und Programme zurückzugreifen, die das planen und reporten vereinfachen. Aber auch der [Projektabchlussbericht](Projektabschlussbericht.md) welcher eine Übersicht über die Ergebnisse des Projekts liefert. [^6] [^7]
 
 ## 3.	Tools im Projektreporting [^7] [^8] [^9]
 
 ![image](https://github.com/JanBaumgart/ManagingProjectsSuccessfully.github.io/blob/main/kb/Reporting/Bild_Reporting.png)
 
-Die [Digitalisierung im Projektmanagement](Digitalisierung_im_PM.md) führt zu neuen Herausforderungen im modernen, flexiblen Reporting. Um diese zu bewältigen stehen Reportern ein Werkzeugkasten von Programmen und Diensten zur Verfügung. Diese erleichtern ihnen das qualitative Reporting. Neben den klassischen [MS-Project Programmen](Microsoft_Project_PM_Tool.md) und vielen [weiteren Tools](Uebersicht_PM_Tools.md) gibt es [Plattformen welche die Projektumgebung digitalisieren](Projektmanagementsoftware.md). Die etabliertesten Beispiele sind in der folgenden Tabelle gegenübergestellt, diese bieten neben vielen anderen Projektmanagement-unterstützenden Eigenschaften auch eine Möglichkeit (Zwischen-)Ziele oder KPIs einzubinden und das Programm aus verschiedenen Projektbereichen mit Daten zu füttern welche dort automatisch in Echtzeit zusammengefasst und verglichen werden. 
+[Aufspaltung von Controlling zu Berichtswesen](https://www.peterjohann-consulting.de/berichte-in-projekten/)
+
+Die [Digitalisierung im Projektmanagement](Digitalisierung_im_PM.md) führt zu neuen Herausforderungen im modernen, flexiblen Reporting. Um diese zu bewältigen, stehen Reportern ein Werkzeugkasten von Programmen und Diensten zur Verfügung. Diese erleichtern ihnen das qualitative Reporting. Neben den klassischen [MS-Project Programmen](Microsoft_Project_PM_Tool.md) und vielen [weiteren Tools](Uebersicht_PM_Tools.md) gibt es [Plattformen welche die Projektumgebung digitalisieren](Projektmanagementsoftware.md). Die etabliertesten Beispiele sind in der folgenden Tabelle gegenübergestellt, diese bieten neben vielen anderen Projektmanagement-unterstützenden Eigenschaften auch eine Möglichkeit (Zwischen-)Ziele oder KPIs einzubinden und das Programm aus verschiedenen Projektbereichen mit Daten zu füttern welche dort automatisch in Echtzeit zusammengefasst und verglichen werden. 
 
 
 
